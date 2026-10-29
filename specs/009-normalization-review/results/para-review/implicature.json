@@ -1,0 +1,735 @@
+{
+ "slug": "implicature",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 196,
+ "n_md": 244,
+ "n_pairs": 56,
+ "n_flags": 0,
+ "n_merged": 37,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962616822429906,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964428155653767,
+   "n_h": 7,
+   "n_m": 8,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957648653227172,
+   "n_h": 20,
+   "n_m": 33,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951219512195122,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968559275013871,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948339483394834,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960979070592408,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949101796407186,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "dl",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947780678851175,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9967284623773174,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951011714589989,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997789566755084,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960091220068416,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9907578558225508,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972936400541272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977973568281938,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964521033958439,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972213646187095,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970760233918129,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950738916256158,
+   "n_h": 8,
+   "n_m": 14,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966963151207116,
+   "n_h": 6,
+   "n_m": 12,
+   "shape_h": [
+    "dl",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937888198757764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9849624060150376,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948032665181886,
+   "n_h": 5,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961922404034167,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945425361155699,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939668174962293,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978586723768736,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967897271268058,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9922077922077922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973175965665236,
+   "n_h": 7,
+   "n_m": 10,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968015051740358,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974468085106383,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968081111528352,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9918367346938776,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "含义 implicature (Wayne Davis)",
+  "zh_h1": "含义 implicature (Wayne Davis)",
+  "yuanwen_h1": "Implicature",
+  "html_title": "Implicature",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 18,
+  "p→p": 30,
+  "dl→∅": 18,
+  "p→∅": 110,
+  "blockquote→blockquote": 7,
+  "ul→∅": 4,
+  "ol→∅": 1,
+  "blockquote→∅": 6,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×7(dl+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×20(p+dl+p+p+p+p+p+dl+p+p+dl+p+p+dl+p+p+p+p+dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 3,
+  "merged×3(p+dl+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×4(ul+dl+ul+p→ul+p+p+ul+p)": 1,
+  "merged×1(ul→ul)": 2,
+  "merged×10(ol+p+p+p+blockquote+p+p+p+p+p→ol+p+p+p+blockquote+p+p+p+p+p)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+p+blockquote+p+p→p+p+blockquote+p+p)": 1,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+dl+dl+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(dl+dl+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+dl+p+p+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p+p+p)": 1,
+  "merged×3(p+p+dl→p+p+p+p+p+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p)": 1,
+  "merged×7(dl+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 163,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "W. Davis (2016: §5.3) replies as follows. A speaker who used (15a) to mean [15b] would just as naturally use (16a) to mean [16b], and hearers would understand the speaker accordingly. But what the speaker said is not entailed by [16b]. What the speaker of (16a) said would be false in circumstances in which Alice was unlikely to jump off the cliff if she jumped. Hearers would focus on what the speaker meant, though, which would be true even in those circumstances. Since the speaker meant one thin",
+   "md_text": "W. Davis (2016: §5.3) replies as follows. A speaker who used (15a) to mean [15b] would just as naturally use (16a) to mean [16b], and hearers would understand the speaker accordingly. But what the speaker said is not entailed by [16b]. What the speaker of (16a) said would be false in circumstances in which Alice was unlikely to jump off the cliff if she jumped. Hearers would focus on what the speaker meant, though, which would be true even in those circumstances. Since the speaker meant one thin"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Implicature",
+ "authors": [
+  "Davis, Wayne"
+ ]
+}

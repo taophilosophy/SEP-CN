@@ -1,0 +1,253 @@
+{
+ "slug": "kant-metaphysics",
+ "letter": "k",
+ "state": "ok",
+ "n_html": 90,
+ "n_md": 90,
+ "n_pairs": 67,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9993211133740665,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999302649930265,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990245805696449,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995285242809995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990627928772259,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995584988962473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994597514856834,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994987468671679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986772486772487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994532531437944,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965635738831615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.999687206756334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99921875,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990253411306043,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991806636624334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "康德对形而上学的批判 critique of metaphysics (Michelle Grier)",
+  "zh_h1": "康德对形而上学的批判 critique of metaphysics (Michelle Grier)",
+  "yuanwen_h1": "Kant’s Critique of Metaphysics",
+  "html_title": "Kant’s Critique of Metaphysics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 20,
+  "blockquote→blockquote": 6,
+  "p→p": 44,
+  "h3→h3": 5,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(ol→ol)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The arguments about the world are referred to by Kant as “antinomies” because in the field of cosmology, reason gives rise to sets of opposing arguments (the “thesis” and the “antithesis”) with respect to each issue. Thus, the case here differs from the paralogisms (and, as we shall see, from the Ideal). The reason for this difference resides in the nature of the idea of reason in question. The idea of the “world” purports to be an idea of an unconditioned but somehow still sensible object (cf. ",
+   "md_text": "The arguments about the world are referred to by Kant as “antinomies” because in the field of cosmology, reason gives rise to sets of opposing arguments (the “thesis” and the “antithesis”) with respect to each issue. Thus, the case here differs from the paralogisms (and, as we shall see, from the Ideal). The reason for this difference resides in the nature of the idea of reason in question. The idea of the “world” purports to be an idea of an unconditioned but somehow still sensible object (cf. "
+  },
+  {
+   "i": 87,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Mainz Kant Site Steve Palmquist’s Kant Site Society of German Idealism",
+   "md_text": "Mainz Kant Site Steve Palmquist’s Kant Site Society of German Idealism"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Kant’s Critique of Metaphysics",
+ "authors": [
+  "Grier, Michelle"
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "slug": "berlin",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 146,
+ "n_md": 145,
+ "n_pairs": 93,
+ "n_flags": 2,
+ "n_merged": 36,
+ "merged": [
+  {
+   "ratio": 0.9991974317817014,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961977186311787,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992716678805535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977011494252873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971988795518207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971223021582734,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989417989417989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997068308413954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984973703981969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959919839679359,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996149403157489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972714870395635,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979251062148009,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974715549936789,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987351378699721,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985935302390999,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985130111524163,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938983050847457,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995050321729088,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997564539698003,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999482669425763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974478945129732,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976389783215283,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996175908221797,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975816203143894,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977802441731409,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988221436984688,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966499162479062,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966555183946488,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985494633014216,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987046632124352,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9958847736625515,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9908473575435489,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9521690767519466,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "以赛亚·伯林 Berlin, Isaiah (Joshua L. Cherniss and Henry Hardy)",
+  "zh_h1": "以赛亚·伯林 Berlin, Isaiah (Joshua L. Cherniss and Henry Hardy)",
+  "yuanwen_h1": "Isaiah Berlin",
+  "html_title": "Isaiah Berlin",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "figure→∅": 1,
+  "pubinfo→∅": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 63,
+  "p→∅": 48,
+  "h3→h3": 16,
+  "blockquote→blockquote": 3,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 2,
+  "merged×1(p→p)": 26,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×2(ul+p→ul+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 0,
+   "j": 0,
+   "ratio": 0.21153846153846154,
+   "shape_h": "figure",
+   "shape_m": "h1",
+   "html_text": "Isaiah Berlin, 18 July 1968 Photo by Helen Muspratt, Ramsey and Muspratt © The Trustees of the Isaiah Berlin Literary Trust",
+   "md_text": "Isaiah Berlin First published Tue Oct 26, 2004; substantive revision Sat Feb 12, 2022"
+  },
+  {
+   "kind": "replace",
+   "i": 1,
+   "j": null,
+   "ratio": null,
+   "shape_h": "pubinfo",
+   "shape_m": null,
+   "html_text": "First published Tue Oct 26, 2004; substantive revision Sat Feb 12, 2022",
+   "md_text": null
+  }
+ ],
+ "spot": [
+  {
+   "i": 107,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "At the same time, while pluralism is a key ingredient in Berlin’s argument for the importance of liberty, it also modifies and moderates his liberalism, and prevents Berlin from being (as many proponents of negative liberty in the twentieth century and after have been) a dogmatic, unqualified classical liberal or libertarian. Negative and positive liberty are both genuine values which must be balanced against each other; and political liberty of any sort is one value among many, with which it ma",
+   "md_text": "At the same time, while pluralism is a key ingredient in Berlin’s argument for the importance of liberty, it also modifies and moderates his liberalism, and prevents Berlin from being (as many proponents of negative liberty in the twentieth century and after have been) a dogmatic, unqualified classical liberal or libertarian. Negative and positive liberty are both genuine values which must be balanced against each other; and political liberty of any sort is one value among many, with which it ma"
+  },
+  {
+   "i": 64,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "All genuine questions must have one true answer, and one only; all other responses are errors. There must be a dependable path to discovering the true answer to a question, which is in principle knowable, even if currently unknown. The true answers, when found, will be compatible with one another, forming a single whole; for one truth cannot be incompatible with another. (This, in turn, is based on the assumption that the universe is harmonious and coherent.)",
+   "md_text": "All genuine questions must have one true answer, and one only; all other responses are errors. There must be a dependable path to discovering the true answer to a question, which is in principle knowable, even if currently unknown. The true answers, when found, will be compatible with one another, forming a single whole; for one truth cannot be incompatible with another. (This, in turn, is based on the assumption that the universe is harmonious and coherent.)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Isaiah Berlin",
+ "authors": [
+  "Cherniss, Joshua",
+  "Hardy, Henry"
+ ]
+}

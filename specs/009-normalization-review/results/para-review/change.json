@@ -1,0 +1,157 @@
+{
+ "slug": "change",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 84,
+ "n_md": 84,
+ "n_pairs": 74,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9964303926568078,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998576512455516,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994788952579469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975728155339806,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994761655316919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972451790633609,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981851179673321,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9661458333333334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "变化与不一致 and inconsistency (Chris Mortensen)",
+  "zh_h1": "变化与不一致 and inconsistency (Chris Mortensen)",
+  "yuanwen_h1": "Change and Inconsistency",
+  "html_title": "Change and Inconsistency",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 12,
+  "p→p": 60,
+  "p→∅": 9,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 38,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This was von Wright’s proposed account of a continuous change in an ontology of intervals. The state ⟦M⟧ changes continuously to ⟦M⟧ if there is a preceding interval which is ⟦M⟧ throughout, then an interval with ⟦M⟧ and ⟦M⟧ dense in each other, then a succeeding interval with p holding throughout. Von Wright described this as a kind of inconsistency. Unfortunately it is not clear from his written words whether he had in mind that the situation was inconsistent or only possibly inconsistent. His",
+   "md_text": "This was von Wright’s proposed account of a continuous change in an ontology of intervals. The state ⟦M⟧ changes continuously to ⟦M⟧ if there is a preceding interval which is ⟦M⟧ throughout, then an interval with ⟦M⟧ and ⟦M⟧ dense in each other, then a succeeding interval with p holding throughout. Von Wright described this as a kind of inconsistency. Unfortunately it is not clear from his written words whether he had in mind that the situation was inconsistent or only possibly inconsistent. His"
+  },
+  {
+   "i": 13,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "McTaggart’s well-known argument (1908) that time is unreal applies equally to the unreality of (temporal) change it seems. McTaggart distinguished between two ways of attributing temporal characteristics to events. The ⟦M⟧ -series of events is given by the descriptions “past,” “present” and “future,” while the ⟦M⟧ -series is strictly in terms of the relational concepts “earlier,” “simultaneous” and “later.” Now the ⟦M⟧ -series is insufficient to define change, because ⟦M⟧ -series relations apply",
+   "md_text": "McTaggart’s well-known argument (1908) that time is unreal applies equally to the unreality of (temporal) change it seems. McTaggart distinguished between two ways of attributing temporal characteristics to events. The ⟦M⟧ -series of events is given by the descriptions “past,” “present” and “future,” while the ⟦M⟧ -series is strictly in terms of the relational concepts “earlier,” “simultaneous” and “later.” Now the ⟦M⟧ -series is insufficient to define change, because ⟦M⟧ -series relations apply"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Change and Inconsistency",
+ "authors": [
+  "Mortensen, Chris"
+ ]
+}

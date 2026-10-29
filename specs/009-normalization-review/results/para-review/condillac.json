@@ -1,0 +1,371 @@
+{
+ "slug": "condillac",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 96,
+ "n_md": 96,
+ "n_pairs": 37,
+ "n_flags": 1,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.999455485978764,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977392614920875,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987228607918263,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981435643564357,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994103773584906,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992289899768697,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99889339727038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999038358799017,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961977186311787,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991254154276719,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988349062099499,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999112426035503,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984973703981969,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989189189189189,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985284018444031,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992457384220848,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977259806708357,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999260026639041,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998300283286119,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "艾蒂安·博诺·德·孔狄亚克 Condillac, Étienne Bonnot de (Lorne Falkenstein and Giovanni Grandi)",
+  "zh_h1": "艾蒂安·博诺·德·孔狄亚克 Condillac, Étienne Bonnot de (Lorne Falkenstein and Giovanni Grandi)",
+  "yuanwen_h1": "Étienne Bonnot de Condillac",
+  "html_title": "Étienne Bonnot de Condillac",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 13,
+  "p→p": 17,
+  "p→∅": 58,
+  "h3→h3": 3,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×3(p+p+p→p+p+p)": 6,
+  "merged×2(p+p→p+p)": 6,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 95,
+   "j": 95,
+   "ratio": 0.9478260869565217,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Berkeley, George | color | Helmholtz, Hermann von | Hume, David | Locke, John | perception: the problem of | Reid, Thomas",
+   "md_text": "Berkeley, George color Helmholtz, Hermann von Hume, David Locke, John perception: the problem of Reid, Thomas"
+  }
+ ],
+ "spot": [
+  {
+   "i": 84,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Though Condillac’s official reply to the charge of materialism, as expressed in the letter to Lignac, is something of a disappointment, scholars have occasionally read the Treatise as taking some steps towards a more radical way of dealing with the problem. Recall that in that work Condillac advanced the view that even though colours are in fact extended and bounded, it is not intuitively evident that they are. We need to learn to see their shapes. Interestingly, what teaches us to see these sha",
+   "md_text": "Though Condillac’s official reply to the charge of materialism, as expressed in the letter to Lignac, is something of a disappointment, scholars have occasionally read the Treatise as taking some steps towards a more radical way of dealing with the problem. Recall that in that work Condillac advanced the view that even though colours are in fact extended and bounded, it is not intuitively evident that they are. We need to learn to see their shapes. Interestingly, what teaches us to see these sha"
+  },
+  {
+   "i": 79,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Colours are extended. Colours are sensations. Sensations are modifications of the mind’s being. The mind is unextended.",
+   "md_text": "Colours are extended. Colours are sensations. Sensations are modifications of the mind’s being. The mind is unextended."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Étienne Bonnot de Condillac",
+ "authors": [
+  "Falkenstein, Lorne",
+  "Grandi, Giovanni"
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "slug": "albalag",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 97,
+ "n_md": 97,
+ "n_pairs": 40,
+ "n_flags": 0,
+ "n_merged": 25,
+ "merged": [
+  {
+   "ratio": 0.9969545957918051,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985415653864852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974937343358395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9967304997664642,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975606624727179,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976146302676915,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978576137112722,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987598181066556,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974619289340102,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990236281976177,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975227085053675,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982901111427758,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966101694915255,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975554549569942,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998295894655306,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972941631233089,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988385598141696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982142857142857,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985272459499264,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990178195594219,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993920972644377,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996134518747584,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9897810218978103,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9762845849802372,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "以撒·阿尔巴拉格 Albalag, Isaac (Bakinaz Abdalla)",
+  "zh_h1": "以撒·阿尔巴拉格 Albalag, Isaac (Bakinaz Abdalla)",
+  "yuanwen_h1": "Isaac Albalag",
+  "html_title": "Isaac Albalag",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 14,
+  "p→∅": 48,
+  "p→p": 12,
+  "ul→∅": 3,
+  "h3→h3": 6,
+  "ol→ol": 4,
+  "blockquote→∅": 5,
+  "blockquote→blockquote": 2,
+  "ol→∅": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×1(p→p)": 8,
+  "merged×1(ul→ul)": 2,
+  "merged×3(ul+p+p→ul+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×6(p+p+ol+p+p+p→p+p+ol+p+p+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×5(p+blockquote+p+blockquote+p→p+blockquote+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Isaac Albalag stands out as one of the most rigorous representatives of the Jewish Averroism school which flourished in Western Europe in the thirteenth century and continued until the Renaissance. This school contained notable figures such as Ibn Kaspi, Shem Tov Ibn Falaquera, Moses Narboni, Isaac Polqar, Gersonides, and Elijah Delmedigo who regarded Averroes’ philosophical writings, particularly his commentaries on Aristotle, as the primary sources for studying science and philosophy. Averroes",
+   "md_text": "Isaac Albalag stands out as one of the most rigorous representatives of the Jewish Averroism school which flourished in Western Europe in the thirteenth century and continued until the Renaissance. This school contained notable figures such as Ibn Kaspi, Shem Tov Ibn Falaquera, Moses Narboni, Isaac Polqar, Gersonides, and Elijah Delmedigo who regarded Averroes’ philosophical writings, particularly his commentaries on Aristotle, as the primary sources for studying science and philosophy. Averroes"
+  },
+  {
+   "i": 35,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "existents whose subsistence requires motion, and existents whose subsistence does not require motion; only their generation requires motion.",
+   "md_text": "existents whose subsistence requires motion, and existents whose subsistence does not require motion; only their generation requires motion."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Isaac Albalag",
+ "authors": [
+  "Abdalla, Bakinaz"
+ ]
+}

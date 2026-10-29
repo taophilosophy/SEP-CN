@@ -1,0 +1,611 @@
+{
+ "slug": "sriharsa",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 155,
+ "n_md": 158,
+ "n_pairs": 65,
+ "n_flags": 0,
+ "n_merged": 40,
+ "merged": [
+  {
+   "ratio": 0.9949854227405248,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965397923875432,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.988313856427379,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963985594237695,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957805907172996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9960178027641133,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9932552360667377,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9984534488091555,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9875,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967931587386424,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993241721108358,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9885148514851485,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954627949183303,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985228951255539,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961783439490446,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998501872659176,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959332006576102,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.989247311827957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994821336095288,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.991411701556629,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962763756723211,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9937477013607944,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9837837837837838,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9955363570914327,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981690570643882,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960804147174105,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978463747307968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978783592644979,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966555183946488,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957781615812704,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989235737351991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973132724341752,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939759036144579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971284996410624,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977983267283135,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946332737030411,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989235737351991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985788725722407,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9951534733441034,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "曷利沙 Śrīharṣa (Nilanjan Das)",
+  "zh_h1": "曷利沙 Śrīharṣa (Nilanjan Das)",
+  "yuanwen_h1": "Śrīharṣa",
+  "html_title": "Śrīharṣa",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "p→∅": 66,
+  "h3→h3": 8,
+  "blockquote→blockquote": 6,
+  "p→p": 38,
+  "blockquote→∅": 6,
+  "ol→∅": 2,
+  "ul→∅": 15,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 2,
+  "merged×1(ol→ol)": 2,
+  "merged×2(p+p→p+p)": 5,
+  "merged×4(p+ul+p+blockquote→p+ul+p+blockquote)": 1,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×2(ul+p→ul+p)": 2,
+  "merged×9(p+p+ul+p+p+p+ul+p+p→p+p+ul+p+p+p+ul+p+p)": 1,
+  "merged×1(ul→ul)": 3,
+  "merged×3(p+p+ul→p+p+ul)": 1,
+  "merged×3(ul+p+p→ul+p+p)": 1,
+  "merged×4(ul+p+p+p→ul+p+p+p)": 2,
+  "merged×5(ul+p+p+p+p→ul+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×8(p+p+ul+p+p+p+p+p→p+p+ul+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 105,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Śrīharṣa responds to this objection with a regress argument. Suppose an agent is undergoing a conscious mental occurrence. Ordinarily, when we are aware of a conscious mental occurrence, we are also aware that we are aware of it, we are aware that we are aware that we are aware of it, and so on. Since the “higher-order awareness” (henceforth, HOA) theorist explains such awareness of one’s own mental occurrences by appealing to episodes of higher-order awareness, she faces a choice: either she sh",
+   "md_text": "Śrīharṣa responds to this objection with a regress argument. Suppose an agent is undergoing a conscious mental occurrence. Ordinarily, when we are aware of a conscious mental occurrence, we are also aware that we are aware of it, we are aware that we are aware that we are aware of it, and so on. Since the “higher-order awareness” (henceforth, HOA) theorist explains such awareness of one’s own mental occurrences by appealing to episodes of higher-order awareness, she faces a choice: either she sh"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Śrīharṣa",
+ "authors": [
+  "Das, Nilanjan"
+ ]
+}

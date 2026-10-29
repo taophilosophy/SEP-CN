@@ -1,0 +1,1085 @@
+{
+ "slug": "descartes-epistemology",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 377,
+ "n_md": 379,
+ "n_pairs": 245,
+ "n_flags": 2,
+ "n_merged": 81,
+ "merged": [
+  {
+   "ratio": 0.9993164730006835,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951298701298701,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975395430579965,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974337040205303,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982704946385333,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986541049798116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999649982499125,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967804249839022,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984399375975039,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993346640053227,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984709480122325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982847341337907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984598459845985,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983525535420099,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982547993019197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987484355444305,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992565055762082,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990319457889641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983660130718954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990503323836657,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978858350951374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987651271918992,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978175469227412,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99830220713073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957983193277311,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983428935627788,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986244841815681,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988009592326139,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989126495106923,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9925167388735723,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.996080627099664,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9972811310494835,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970845481049563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981308411214953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987951807228915,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984480082772892,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997920997920998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977528089887641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980119284294234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993913572732805,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985879695001412,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978165938864629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998330550918197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989806320081549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995850622406639,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974003466204506,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977032613688562,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976635514018691,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975629569455727,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983349983349983,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990925589836661,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992082343626286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985569985569985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986091794158554,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989696032972695,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990850869167429,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981032665964172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994532531437944,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974358974358974,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985301322880941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992424242424243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992727272727273,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994869163673679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943502824858758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992242048099301,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996929689898679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980806142034548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991031390134529,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985935302390999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973142345568488,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998567335243553,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989420788151283,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988095238095238,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998639455782313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994397759103641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958071278825996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.961730449251248,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "笛卡尔的认识论 epistemology (Lex Newman)",
+  "zh_h1": "笛卡尔的认识论 epistemology (Lex Newman)",
+  "yuanwen_h1": "Descartes’ Epistemology",
+  "html_title": "Descartes’ Epistemology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "h3→h3": 23,
+  "p→∅": 99,
+  "blockquote→∅": 32,
+  "p→p": 143,
+  "blockquote→blockquote": 61,
+  "ol→ol": 4,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 4,
+  "merged×2(p+p→p+p)": 10,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 2,
+  "merged×1(p→p)": 38,
+  "merged×2(blockquote+p→blockquote+p)": 7,
+  "merged×1(blockquote→blockquote)": 10,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 2,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+blockquote→p+blockquote+p+blockquote)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 369,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Rules = Rules for the Direction of our Native Intelligence Discourse = Discourse on Method Synopsis = Synopsis of the Meditations Meditations = Meditations on First Philosophy Med. = any one of the six Meditations Objs./Replies = any of the seven sets of objections/replies that Descartes published along with the Meditations Prin. = Principles of Philosophy Passions = The Passions of the Soul Search = The Search for Truth AT = Oeuvres de Descartes, Adam, Charles, and Paul Tannery (eds.), 1904. Paris: J. Vrin. (References are to volume number and page.) CSM = The Philosophical Writings of Descartes, Cottingham, John, and Robert Stoothoff, and Dugald Murdoch. (eds.) 1984. Cambridge: Cambridge University Press."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 370,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Sources"
+  }
+ ],
+ "spot": [
+  {
+   "i": 263,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Hence you see that once we have become aware that God exists it is necessary for us to imagine that he is a deceiver if we wish to cast doubt on what we clearly and distinctly perceive. And since it is impossible to imagine that he is a deceiver, whatever we clearly and distinctly perceive must be completely accepted as true and certain. But since I see that you are still stuck fast in the doubts which I put forward in the First Meditation, and which I thought I had very carefully removed in the",
+   "md_text": "Hence you see that once we have become aware that God exists it is necessary for us to imagine that he is a deceiver if we wish to cast doubt on what we clearly and distinctly perceive. And since it is impossible to imagine that he is a deceiver, whatever we clearly and distinctly perceive must be completely accepted as true and certain. But since I see that you are still stuck fast in the doubts which I put forward in the First Meditation, and which I thought I had very carefully removed in the"
+  },
+  {
+   "i": 196,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Judgment error occurs. That judgment error occurs is incompatible with the hypothesis that I am the creation of an all-perfect God. Therefore, I am not the creation of an all-perfect God.",
+   "md_text": "Judgment error occurs. That judgment error occurs is incompatible with the hypothesis that I am the creation of an all-perfect God. Therefore, I am not the creation of an all-perfect God."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Descartes’ Epistemology",
+ "authors": [
+  "Newman, Lex"
+ ]
+}

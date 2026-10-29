@@ -1,0 +1,721 @@
+{
+ "slug": "causation-metaphysics",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 167,
+ "n_md": 187,
+ "n_pairs": 92,
+ "n_flags": 8,
+ "n_merged": 44,
+ "merged": [
+  {
+   "ratio": 0.9974348855564326,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952830188679245,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990724791307805,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998371335504886,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947774185525988,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968213604577241,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943600867678959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937629937629938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970273483947681,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943107221006564,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986648865153538,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9925062447960034,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982130092923517,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968167348794906,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975149105367793,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970845481049563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981132075471698,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977487618190004,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99527983816588,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968174585132985,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988416349495284,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9912137975919297,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9931389365351629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970947123765252,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988058275614998,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9812568908489526,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99790004199916,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971808296415626,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987659399424106,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991850040749797,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993082776112521,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994562262098967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985007496251874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983136593591906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989909182643795,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993399339933994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973285841495992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963898916967509,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965543071161048,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9912739965095986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.958656330749354,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "形而上学中的因果关系 the metaphysics of (J. Dmitri Gallow)",
+  "zh_h1": "形而上学中的因果关系 the metaphysics of (J. Dmitri Gallow)",
+  "yuanwen_h1": "The Metaphysics of Causation",
+  "html_title": "The Metaphysics of Causation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 9,
+  "p→∅": 66,
+  "h4→h4": 7,
+  "p→p": 38,
+  "blockquote→blockquote": 6,
+  "ol→ol": 4,
+  "blockquote→∅": 6,
+  "figure→p": 10,
+  "figure→∅": 1,
+  "p→mathblock": 11,
+  "ul→∅": 1,
+  "merged×1(preamble→p+ol+p+p+p+p+table+p)": 1,
+  "merged×1(p→p)": 20,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×2(p+p→p+p)": 10,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(figure+p→p+p+p+p+p)": 1,
+  "merged×1(p→p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×8(p+p+blockquote+p+blockquote+p+blockquote+p→p+p+blockquote+p+blockquote+p+blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 45,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 63,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 72,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 75,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 5:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 81,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 6:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 85,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 7:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 88,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 8:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 91,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 9:"
+  }
+ ],
+ "spot": [
+  {
+   "i": 46,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Many cases of late preemption are cases in which the cause hastens the effect. That is, had the cause been absent, the effect—or, in any case, something very similar to the effect—would have happened later than it actually did. But this isn’t an essential feature of the case. Consider the following: Quentin is given chemotherapy to fight his cancer. The chemotherapy compromises his immune system, and after catching a flu, Quentin dies from pneumonia. It is easy to suppose that the chemotherapy p",
+   "md_text": "Many cases of late preemption are cases in which the cause hastens the effect. That is, had the cause been absent, the effect—or, in any case, something very similar to the effect—would have happened later than it actually did. But this isn’t an essential feature of the case. Consider the following: Quentin is given chemotherapy to fight his cancer. The chemotherapy compromises his immune system, and after catching a flu, Quentin dies from pneumonia. It is easy to suppose that the chemotherapy p"
+  },
+  {
+   "i": 90,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 22,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Susan’s stealing the bike caused her to be arrested. Susan’s stealing the bike caused her to be arrested.",
+   "md_text": "Susan’s stealing the bike caused her to be arrested. Susan’s stealing the bike caused her to be arrested."
+  }
+ ],
+ "supplements": [
+  "figdesc.html"
+ ],
+ "meta_title": "The Metaphysics of Causation",
+ "authors": [
+  "Gallow, J. Dmitri"
+ ]
+}

@@ -1,0 +1,669 @@
+{
+ "slug": "roger-bacon",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 172,
+ "n_md": 190,
+ "n_pairs": 78,
+ "n_flags": 0,
+ "n_merged": 44,
+ "merged": [
+  {
+   "ratio": 0.9991189427312775,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982905982905983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988814317673378,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990364232029293,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973349126443589,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965556831228473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997783598629861,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985590778097982,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996084573218481,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993682880606444,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970075690899489,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989847715736041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999559277214632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977827050997783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990740740740741,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971563981042654,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996378123868164,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982648930017352,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986636971046771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986422267481331,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989388043862752,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993730407523511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994465965688988,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984947315604616,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975349219391948,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992229992229992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979919678714859,
+   "n_h": 2,
+   "n_m": 19,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978118161925602,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989000761485743,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976905311778291,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992179353493222,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984871406959153,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990622520377984,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984648449493398,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "h3",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992531740104555,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987437185929648,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993618379068283,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999490575649516,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9947643979057592,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9984152139461173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "罗吉尔·培根 Bacon, Roger (Jeremiah Hackett)",
+  "zh_h1": "罗吉尔·培根 Bacon, Roger (Jeremiah Hackett)",
+  "yuanwen_h1": "Roger Bacon",
+  "html_title": "Roger Bacon",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 76,
+  "p→p": 48,
+  "blockquote→∅": 11,
+  "h3→h3": 12,
+  "blockquote→blockquote": 4,
+  "h3→∅": 4,
+  "dl→∅": 1,
+  "h4→h4": 4,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×2(p+p→p+p)": 8,
+  "merged×6(blockquote+p+p+p+p+p→blockquote+p+p+p+p+p)": 1,
+  "merged×10(p+p+p+p+p+p+p+p+blockquote+p→p+p+p+p+p+p+p+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 3,
+  "merged×3(p+h3+p→p+h3+p)": 2,
+  "merged×2(dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+h3+p+p+p→p+h3+p+p+p)": 1,
+  "merged×5(blockquote+p+p+p+blockquote→blockquote+p+p+p+blockquote)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+h3+p+p→p+h3+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 164,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "It will be clear from this account that Roger Bacon was an important teacher of the Arts at Paris in the 1240s. He was ahead of his time in the vigorous manner in which he integrated the new Aristotle with the traditional Latin traditions of grammar and logic. He taught for a long period in the Arts. He later called himself an expert in the philosophy of Aristotle as interpreted by Avicenna and Averroes. And we should also add Avicebron (Solomon Ibn Gabirol). By 1248–49 he seems to have become a",
+   "md_text": "It will be clear from this account that Roger Bacon was an important teacher of the Arts at Paris in the 1240s. He was ahead of his time in the vigorous manner in which he integrated the new Aristotle with the traditional Latin traditions of grammar and logic. He taught for a long period in the Arts. He later called himself an expert in the philosophy of Aristotle as interpreted by Avicenna and Averroes. And we should also add Avicebron (Solomon Ibn Gabirol). By 1248–49 he seems to have become a"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Roger Bacon",
+ "authors": [
+  "Hackett, Jeremiah"
+ ]
+}

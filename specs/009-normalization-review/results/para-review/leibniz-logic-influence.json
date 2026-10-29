@@ -1,0 +1,231 @@
+{
+ "slug": "leibniz-logic-influence",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 51,
+ "n_md": 52,
+ "n_pairs": 23,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983852364475202,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982410760475944,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971696059220553,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978471474703983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988213107024988,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988518943742825,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984503516509715,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989053092501369,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999247554552295,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9811320754716981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "莱布尼茨对 19 世纪逻辑学的影响 influence on 19th century logic (Volker Peckhaus)",
+  "zh_h1": "莱布尼茨对 19 世纪逻辑学的影响 influence on 19th century logic (Volker Peckhaus)",
+  "yuanwen_h1": "Leibniz’s Influence on 19th Century Logic",
+  "html_title": "Leibniz’s Influence on 19th Century Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 24,
+  "blockquote→blockquote": 2,
+  "p→p": 9,
+  "h3→h3": 2,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 40,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "What are the connections to Leibniz’s logic? Are there anticipations of the Boolean calculus in the work of Leibniz? One of those authors looking for anticipations was Robert Leslie Ellis (1817–1859), who edited Francis Bacon’s Novum Organon in The Works of Francis Bacon (1858–1874; vol. 1: 1858). During his editorial works he found a parallel to Boole’s Law (p. 281, footnote 1): “Mr. Boole’s Laws of Thought contain the first development of ideas of which the germ is to be found in Bacon and Lei",
+   "md_text": "What are the connections to Leibniz’s logic? Are there anticipations of the Boolean calculus in the work of Leibniz? One of those authors looking for anticipations was Robert Leslie Ellis (1817–1859), who edited Francis Bacon’s Novum Organon in The Works of Francis Bacon (1858–1874; vol. 1: 1858). During his editorial works he found a parallel to Boole’s Law (p. 281, footnote 1): “Mr. Boole’s Laws of Thought contain the first development of ideas of which the germ is to be found in Bacon and Lei"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Leibniz’s Influence on 19th Century Logic",
+ "authors": [
+  "Peckhaus, Volker"
+ ]
+}

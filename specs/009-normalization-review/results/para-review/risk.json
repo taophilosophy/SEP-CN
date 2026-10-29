@@ -1,0 +1,312 @@
+{
+ "slug": "risk",
+ "letter": "r",
+ "state": "flagged",
+ "n_html": 111,
+ "n_md": 112,
+ "n_pairs": 77,
+ "n_flags": 1,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9940968122786304,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985714285714286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993288590604027,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988186650915535,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986893840104849,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990627928772259,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998805256869773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999122550453349,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996092223524814,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989630141721396,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994292237442922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997097242380262,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9989788972089857,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998003992015968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993984359334269,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995910020449897,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9906996709114323,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "风险 risk (Sven Ove Hansson)",
+  "zh_h1": "风险 risk (Sven Ove Hansson)",
+  "yuanwen_h1": "Risk",
+  "html_title": "Risk",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 46,
+  "ol→ol": 5,
+  "p→∅": 32,
+  "figure→p": 1,
+  "h3→h3": 12,
+  "ol→∅": 1,
+  "p→mathblock": 1,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 8,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(ol→ol)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 30,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1."
+  }
+ ],
+ "spot": [
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although this distinction between risk and uncertainty is decision-theoretically useful, from an epistemological point of view it is in need of clarification. Only very rarely are probabilities known with certainty. Strictly speaking, the only clear-cut cases of “risk” (known probabilities) seem to be idealized textbook cases that refer to devices such as dice or coins that are supposed to be known with certainty to be fair. In real-life situations, even if we act upon a determinate probability ",
+   "md_text": "Although this distinction between risk and uncertainty is decision-theoretically useful, from an epistemological point of view it is in need of clarification. Only very rarely are probabilities known with certainty. Strictly speaking, the only clear-cut cases of “risk” (known probabilities) seem to be idealized textbook cases that refer to devices such as dice or coins that are supposed to be known with certainty to be fair. In real-life situations, even if we act upon a determinate probability "
+  },
+  {
+   "i": 44,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The major problem in the construction of safety barriers is how to make them as independent of each other as possible. If two or more barriers are sensitive to the same type of impact, then one and the same destructive force can get rid of all of them in one swoop. For instance, if three safety valves are installed in one and the same factory hall, each with the probability 1/1,000 of failure, it does not follow that the probability of all three failing is ⟦M⟧ . The three valves may all be destr",
+   "md_text": "The major problem in the construction of safety barriers is how to make them as independent of each other as possible. If two or more barriers are sensitive to the same type of impact, then one and the same destructive force can get rid of all of them in one swoop. For instance, if three safety valves are installed in one and the same factory hall, each with the probability 1/1,000 of failure, it does not follow that the probability of all three failing is ⟦M⟧ . The three valves may all be destr"
+  },
+  {
+   "i": 4,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "risk = an unwanted event that may or may not occur.",
+   "md_text": "risk = an unwanted event that may or may not occur."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Risk",
+ "authors": [
+  "Hansson, Sven Ove"
+ ]
+}

@@ -1,0 +1,737 @@
+{
+ "slug": "folkpsych-simulation",
+ "letter": "f",
+ "state": "flagged",
+ "n_html": 193,
+ "n_md": 198,
+ "n_pairs": 76,
+ "n_flags": 3,
+ "n_merged": 44,
+ "merged": [
+  {
+   "ratio": 0.9995012468827931,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980747015787447,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982517482517482,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960920538428137,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985500241662639,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944211994421199,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9790209790209791,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9955817378497791,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955630171483392,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9935897435897436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975777901993665,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996415770609319,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974874371859297,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978666666666667,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985549132947977,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945553539019963,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975589910496339,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9993148673778995,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993192648059904,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980321639411006,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998165137614679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991638795986622,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978213507625272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988221436984688,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985401459854014,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962115472041219,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996073812328229,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998730964467005,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991482112436116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992821249102656,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955427056981087,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994603345925526,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974853310980721,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980869787016962,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982764563943468,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998274374460742,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990406140070355,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979508196721312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998682042833608,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982167624331286,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955555555555555,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990362993896563,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "作为心理模拟的民间心理学 as mental simulation (Luca Barlassina and Robert M. Gordon)",
+  "zh_h1": "作为心理模拟的民间心理学 as mental simulation (Luca Barlassina and Robert M. Gordon)",
+  "yuanwen_h1": "Folk Psychology as Mental Simulation",
+  "html_title": "Folk Psychology as Mental Simulation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 105,
+  "p→p": 36,
+  "blockquote→blockquote": 9,
+  "blockquote→∅": 4,
+  "h3→h3": 17,
+  "ol→∅": 6,
+  "ul→∅": 1,
+  "figure→p": 1,
+  "ol→ol": 2,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 10,
+  "merged×1(p→p)": 17,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×7(p+ol+p+ul+p+p+p→p+ol+p+ul+p+p+p)": 1,
+  "merged×2(p+ol→p+ol)": 2,
+  "merged×9(p+p+p+ol+p+p+p+p+p→p+p+p+ol+p+p+p+p+p)": 1,
+  "merged×8(p+p+ol+p+p+p+p+ol→p+p+ol+p+p+p+p+ol)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×6(p+p+p+p+blockquote+p→p+p+p+p+blockquote+p)": 1,
+  "merged×6(blockquote+p+p+p+p+p→blockquote+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 55,
+   "j": 58,
+   "ratio": 0.22121486854034453,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The hexagon at the bottom depicts a cognitive mechanism C (it could be, say, the visual mechanism). When C is used (arrow on the left), it implements cognitive process P (say, seeing); when it is re-used (arrow on the right), it implements cognitive process P * (say, visualizing). P generates mental state M (say, a visual experience of a red tomato), while P * generates mental state M * (say, a visual image of a red tomato). These two mental states ( M and M *) resemble one another. Given this: M * is a mental simulation of M ; M * is a simulated mental state ; and P * is a simulation process . ⟦P⟧",
+   "md_text": "![[a diagram consisting of a hexagon labelled 'C' with an arrow labeled 'use' pointing to a diamond labeled 'P' on the upper left, an arrow points from this diamond up to a rectangle labeled 'M'. From the hexagon is also an arrow labeled 're-use' pointing to a diamond labeled 'P' on the upper right, an arrow points from this diamond up to a rectangle labeled 'M'. The two rectangles are connected by a dashed double-headed arrow labeled 'resemblance']](../assets/folkpsych-simulation/figure1.svg)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 59,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 60,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The hexagon at the bottom depicts a cognitive mechanism C (it could be, say, the visual mechanism). When C is used (arrow on the left), it implements cognitive process P (say, seeing); when it is re-used (arrow on the right), it implements cognitive process P (say, visualizing). P generates mental state M (say, a visual experience of a red tomato), while P* generates mental state M* (say, a visual image of a red tomato). These two mental states (M and M*) resemble one another. Given this: M* is a mental simulation of M; M* is a simulated mental state; and P* is a simulation process*."
+  }
+ ],
+ "spot": [
+  {
+   "i": 61,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A second worry has to do with the fact that RES+REU appears to be too liberal. Take this case. Yesterday, Angelina had the visual experience of a red apple. On the night of June 15, 1815, Napoleon conjured up the visual image of a red apple. Angelina used her visual mechanism to see, while Napoleon reused his to imagine. If we add to this that Napoleon’s mental state resembled Angelina’s, RES+REU predicts that Napoleon’s (token) visual image was a mental simulation of Angelina’s (token) visual e",
+   "md_text": "A second worry has to do with the fact that RES+REU appears to be too liberal. Take this case. Yesterday, Angelina had the visual experience of a red apple. On the night of June 15, 1815, Napoleon conjured up the visual image of a red apple. Angelina used her visual mechanism to see, while Napoleon reused his to imagine. If we add to this that Napoleon’s mental state resembled Angelina’s, RES+REU predicts that Napoleon’s (token) visual image was a mental simulation of Angelina’s (token) visual e"
+  },
+  {
+   "i": 54,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1",
+   "md_text": "Figure 1"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Folk Psychology as Mental Simulation",
+ "authors": [
+  "Barlassina, Luca",
+  "Gordon, Robert M."
+ ]
+}

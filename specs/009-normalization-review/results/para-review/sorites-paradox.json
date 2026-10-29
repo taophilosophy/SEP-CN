@@ -1,0 +1,388 @@
+{
+ "slug": "sorites-paradox",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 122,
+ "n_md": 130,
+ "n_pairs": 82,
+ "n_flags": 0,
+ "n_merged": 25,
+ "merged": [
+  {
+   "ratio": 0.998868351565447,
+   "n_h": 1,
+   "n_m": 9,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969097651421508,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997491219267436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991445680068435,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998812351543943,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976087996174079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970021413276231,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948542024013722,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961356805495921,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974587039390089,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995029821073559,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991596638655462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997038791827065,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995659722222222,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990850869167429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996555287633483,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989327641408752,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972774298938197,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9991063449508489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994778067885117,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989196975153043,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994678020223523,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989350372736954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9942196531791907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "堆垛悖论 Sorites paradox (Dominic Hyde and Diana Raffman)",
+  "zh_h1": "堆垛悖论 Sorites paradox (Dominic Hyde and Diana Raffman)",
+  "yuanwen_h1": "Sorites Paradox",
+  "html_title": "Sorites Paradox",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 36,
+  "p→p": 49,
+  "p→mathblock": 2,
+  "ol→ol": 3,
+  "h3→h3": 7,
+  "blockquote→blockquote": 7,
+  "h4→h4": 5,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+blockquote+p+ul+p+ul+p+p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(p→p)": 11,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+ol→p+p+p+ol)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 76,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Inspired by Kamp, a subsequent contextualist approach (Raffman 1994) has it that the major premise of the paradox is false but seems true for at least two reasons. First, we confuse it with the true claim that if ⟦M⟧ is ⟦M⟧ then ⟦M⟧ is ⟦M⟧ insofar as the two values are considered together, pairwise. The pairwise claim, though true, does not license the paradoxical conclusion, which makes reference only to a value considered individually. The second reason is a hypothesis, viz., that the major pr",
+   "md_text": "Inspired by Kamp, a subsequent contextualist approach (Raffman 1994) has it that the major premise of the paradox is false but seems true for at least two reasons. First, we confuse it with the true claim that if ⟦M⟧ is ⟦M⟧ then ⟦M⟧ is ⟦M⟧ insofar as the two values are considered together, pairwise. The pairwise claim, though true, does not license the paradoxical conclusion, which makes reference only to a value considered individually. The second reason is a hypothesis, viz., that the major pr"
+  },
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The paradox is often presented in the conditional form discussed above. More formally: let ‘ ⟦M⟧ ’ be a soritical predicate and let ‘ ⟦M⟧ ’ (where ⟦M⟧ is a natural number) represent a value in a sorites series for ‘ ⟦M⟧ ’. Then the paradox can be represented most simply using Modus Ponens:",
+   "md_text": "The paradox is often presented in the conditional form discussed above. More formally: let ‘ ⟦M⟧ ’ be a soritical predicate and let ‘ ⟦M⟧ ’ (where ⟦M⟧ is a natural number) represent a value in a sorites series for ‘ ⟦M⟧ ’. Then the paradox can be represented most simply using Modus Ponens:"
+  },
+  {
+   "i": 22,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "deny that logic applies to soritical expressions.",
+   "md_text": "deny that logic applies to soritical expressions."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Sorites Paradox",
+ "authors": [
+  "Raffman, Diana",
+  "Hyde, Dominic"
+ ]
+}

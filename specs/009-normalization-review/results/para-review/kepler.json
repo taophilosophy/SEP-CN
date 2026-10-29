@@ -1,0 +1,303 @@
+{
+ "slug": "kepler",
+ "letter": "k",
+ "state": "ok",
+ "n_html": 70,
+ "n_md": 72,
+ "n_pairs": 29,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9980099502487563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983704508419338,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972677595628415,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998660594695955,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974683544303797,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991448118586089,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992067988668555,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994650976196844,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995833680526622,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995729537366548,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992756247736327,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995105237395986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987046632124352,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998844598497978,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946808510638298,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)",
+  "zh_h1": "约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)",
+  "yuanwen_h1": "Johannes Kepler",
+  "html_title": "Johannes Kepler",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 37,
+  "p→p": 11,
+  "figure→∅": 1,
+  "h3→h3": 5,
+  "figure→p": 1,
+  "p→mathblock": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×4(p+figure+p+p→p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×1(p→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Especially where Kepler deals with the geometrical structure of the cosmos, he always returns to his Platonic and Neoplatonic framework of thought (Michalik, J., 2019, Rudenko and Lastovets, 2023). Thus, the polyhedral hypothesis (see Section 3 below) he postulated for the first time in his MC represents a kind of “formal cause” constituting the foundational structure of the universe. In addition, an “efficient cause,” which realizes this structure in the corporeal world, is also needed. This is",
+   "md_text": "Especially where Kepler deals with the geometrical structure of the cosmos, he always returns to his Platonic and Neoplatonic framework of thought (Michalik, J., 2019, Rudenko and Lastovets, 2023). Thus, the polyhedral hypothesis (see Section 3 below) he postulated for the first time in his MC represents a kind of “formal cause” constituting the foundational structure of the universe. In addition, an “efficient cause,” which realizes this structure in the corporeal world, is also needed. This is"
+  },
+  {
+   "i": 51,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 47,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2. Kepler’s first law of ellipse and second law of areas (modern representation with greatly exaggerated eccentricity).",
+   "md_text": "Figure 2. Kepler’s first law of ellipse and second law of areas (modern representation with greatly exaggerated eccentricity)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Johannes Kepler",
+ "authors": [
+  "Di Liscia, Daniel A."
+ ]
+}

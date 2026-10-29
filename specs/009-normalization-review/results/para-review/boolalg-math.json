@@ -1,0 +1,88 @@
+{
+ "slug": "boolalg-math",
+ "letter": "b",
+ "state": "ok",
+ "n_html": 40,
+ "n_md": 40,
+ "n_pairs": 38,
+ "n_flags": 0,
+ "n_merged": 2,
+ "merged": [
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9537037037037037,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "数学中的逻辑代数 the mathematics of (J. Donald Monk)",
+  "zh_h1": "数学中的逻辑代数 the mathematics of (J. Donald Monk)",
+  "yuanwen_h1": "The Mathematics of Boolean Algebra",
+  "html_title": "The Mathematics of Boolean Algebra",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 16,
+  "p→mathblock": 7,
+  "ul→ul": 1,
+  "ol→ol": 1,
+  "table→table": 1,
+  "blockquote→∅": 1,
+  "p→∅": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(p→p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "These laws are better understood in terms of the basic example of a BA, consisting of a collection ⟦M⟧ of subsets of a set ⟦M⟧ closed under the operations of union, intersection, complementation with respect to ⟦M⟧ , with members ⟦M⟧ and ⟦M⟧ . One can easily derive many elementary laws from these axioms, keeping in mind this example for motivation. Any BA has a natural partial order ⟦M⟧ defined upon it by saying that ⟦M⟧ if and only if ⟦M⟧ . This corresponds in our main example to ⟦M⟧ . Of speci",
+   "md_text": "These laws are better understood in terms of the basic example of a BA, consisting of a collection ⟦M⟧ of subsets of a set ⟦M⟧ closed under the operations of union, intersection, complementation with respect to ⟦M⟧ , with members ⟦M⟧ and ⟦M⟧ . One can easily derive many elementary laws from these axioms, keeping in mind this example for motivation. Any BA has a natural partial order ⟦M⟧ defined upon it by saying that ⟦M⟧ if and only if ⟦M⟧ . This corresponds in our main example to ⟦M⟧ . Of speci"
+  },
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A Boolean algebra (BA) is a set ⟦M⟧ together with binary operations + and ⟦M⟧ and a unary operation ⟦M⟧ , and elements 0, 1 of ⟦M⟧ such that the following laws hold: commutative and associative laws for addition and multiplication, distributive laws both for multiplication over addition and for addition over multiplication, and the following special laws:",
+   "md_text": "A Boolean algebra (BA) is a set ⟦M⟧ together with binary operations + and ⟦M⟧ and a unary operation ⟦M⟧ , and elements 0, 1 of ⟦M⟧ such that the following laws hold: commutative and associative laws for addition and multiplication, distributive laws both for multiplication over addition and for addition over multiplication, and the following special laws:"
+  },
+  {
+   "i": 16,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Atomic BAs, already mentioned above. Atomless BAs, which are defined to be BAs without any atoms. For example, any infinite free BA is atomless. Complete BAs, defined above. These are specially important in the foundations of set theory. Interval algebras. These are derived from linearly ordered sets ⟦M⟧ with a first element as follows. One takes the smallest algebra of subsets of ⟦M⟧ containing all of the half-open intervals [ ⟦M⟧ with ⟦M⟧ in ⟦M⟧ and ⟦M⟧ in ⟦M⟧ or equal to ⟦M⟧ . These BAs are u",
+   "md_text": "Atomic BAs, already mentioned above. Atomless BAs, which are defined to be BAs without any atoms. For example, any infinite free BA is atomless. Complete BAs, defined above. These are specially important in the foundations of set theory. Interval algebras. These are derived from linearly ordered sets ⟦M⟧ with a first element as follows. One takes the smallest algebra of subsets of ⟦M⟧ containing all of the half-open intervals [ ⟦M⟧ with ⟦M⟧ in ⟦M⟧ and ⟦M⟧ in ⟦M⟧ or equal to ⟦M⟧ . These BAs are u"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Mathematics of Boolean Algebra",
+ "authors": [
+  "Monk, J. Donald"
+ ]
+}

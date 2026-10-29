@@ -1,0 +1,469 @@
+{
+ "slug": "imprecise-probabilities",
+ "letter": "i",
+ "state": "flagged",
+ "n_html": 171,
+ "n_md": 178,
+ "n_pairs": 134,
+ "n_flags": 7,
+ "n_merged": 28,
+ "merged": [
+  {
+   "ratio": 0.9975874547647768,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986996098829649,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986893840104849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997350723456287,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991356957649092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989462592202318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988789237668162,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.993103448275862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991714995857498,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990243902439024,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990539262062441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991617770326907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996578857338351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995775242923531,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995835068721366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993642720915448,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995152690256908,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983792544570502,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961815867628341,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990512333965844,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988597491448119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994890137966275,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "非精确概率 probabilities, imprecise (Seamus Bradley)",
+  "zh_h1": "非精确概率 probabilities, imprecise (Seamus Bradley)",
+  "yuanwen_h1": "Imprecise Probabilities",
+  "html_title": "Imprecise Probabilities",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 87,
+  "blockquote→blockquote": 12,
+  "ul→ul": 4,
+  "h3→h3": 16,
+  "p→∅": 32,
+  "p→mathblock": 4,
+  "figure→∅": 3,
+  "blockquote→∅": 2,
+  "h4→h4": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 22,
+  "merged×4(p+figure+p+p→p+p+table+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 105,
+   "j": 107,
+   "ratio": 0.1836734693877551,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: A diagram of the relationships after Seidenfeld (1994) ; ⟦M⟧ is the shaded area",
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 108,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A square with four quadrants, first column is labeled 'H' and second 'not H'; first row is labeled 'X' and second 'not X'. First quadrant (first column/first row) is shaded and has an 'a' on it; second quadrant (second column, first row) is not shaded and has a 'b' on it; third quadrant (first column, second row) is unshaded and has a 'c' on it; and last quadrant (second column, second row) is shaded and has a 'd' on it.]](../assets/imprecise-probabilities/two-by-two.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 109,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1: A diagram of the relationships after Seidenfeld (1994); ⟦M⟧ is the shaded area"
+  },
+  {
+   "kind": "replace",
+   "i": 112,
+   "j": 116,
+   "ratio": 0.2465753424657534,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2: A member of the credal committee (after Joyce (2011) )",
+   "md_text": "Figure 2:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 117,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A square with two columns labeled 'H' and 'not H' and two rows, a narrow one labeled 'X' and a wide one labeled 'not X'. The first quadrant (first column, first row) is shaded and has a 'Y' on it; second quadrant (second column, first row) is not shaded and has a 'not Y' on it; third quadrant (first column, second row) is unshaded with a 'not Y' on it and the fourth quadrant (second column, second row) is shaded and has a 'Y' on it.]](../assets/imprecise-probabilities/joyces-diagram.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 118,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2: A member of the credal committee (after Joyce (2011))"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 173,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Bradley, Seamus, 2013, “Weak rationality and imprecise choice,” LSE Choice Group Working Paper. Cozman, Fabio, An Informal Introduction to the Theory of Sets of Probabilities SIPTA: the Society for Imprecise Probability, Theory and Applications PhilPapers category Imprecise Credences"
+  }
+ ],
+ "spot": [
+  {
+   "i": 155,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Imprecise probabilities is a theory born of our limitations as reasoning agents, and of limitations in our evidence base. If only we had better evidence, a single probability function would do. But since our evidence is weak, we must use a set. In a way, the same is true of precise probabilism. If only we knew the truth, we could represent belief with a truth-valuation function, or just a set of sentences that are fully believed. But since there are truths we don’t know, we must use a probabilit",
+   "md_text": "Imprecise probabilities is a theory born of our limitations as reasoning agents, and of limitations in our evidence base. If only we had better evidence, a single probability function would do. But since our evidence is weak, we must use a set. In a way, the same is true of precise probabilism. If only we knew the truth, we could represent belief with a truth-valuation function, or just a set of sentences that are fully believed. But since there are truths we don’t know, we must use a probabilit"
+  },
+  {
+   "i": 11,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This article is about formal models of belief and as such, there needs to be a certain amount of formal machinery introduced. There is a set of states ⟦M⟧ which represents the ways the world could be. Sometimes ⟦M⟧ is described as the set of “possible worlds”. The objects of belief—the things you have beliefs about—can be represented by subsets of the set of ways the world could be ⟦M⟧ . We can identify a proposition ⟦M⟧ with the set of states which make it true, or, with the set of possible wor",
+   "md_text": "This article is about formal models of belief and as such, there needs to be a certain amount of formal machinery introduced. There is a set of states ⟦M⟧ which represents the ways the world could be. Sometimes ⟦M⟧ is described as the set of “possible worlds”. The objects of belief—the things you have beliefs about—can be represented by subsets of the set of ways the world could be ⟦M⟧ . We can identify a proposition ⟦M⟧ with the set of states which make it true, or, with the set of possible wor"
+  },
+  {
+   "i": 7,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Statistics (Walley 1991; Ruggeri et al. 2005; Augustin et al. 2014) Psychology of reasoning (Pfeifer and Kleiter 2007) Linguistic processing of uncertainty (Wallsten and Budescu 1995) Neurological response to ambiguity and conflict (Smithson and Pushkarskaya 2015) Philosophy (Levi 1980; Joyce 2011; Sturgeon 2008; Kaplan 1983; Kyburg 1983) Behavioural economics (Ellsberg 1961; Camerer and Weber 1992; Smithson and Campbell 2009) Mathematical economics (Gilboa 1987) Engineering (Ferson and Ginzburg",
+   "md_text": "Statistics (Walley 1991; Ruggeri et al. 2005; Augustin et al. 2014) Psychology of reasoning (Pfeifer and Kleiter 2007) Linguistic processing of uncertainty (Wallsten and Budescu 1995) Neurological response to ambiguity and conflict (Smithson and Pushkarskaya 2015) Philosophy (Levi 1980; Joyce 2011; Sturgeon 2008; Kaplan 1983; Kyburg 1983) Behavioural economics (Ellsberg 1961; Camerer and Weber 1992; Smithson and Campbell 2009) Mathematical economics (Gilboa 1987) Engineering (Ferson and Ginzburg"
+  }
+ ],
+ "supplements": [
+  "supplement-formal.html",
+  "supplement-historical.html"
+ ],
+ "meta_title": "Imprecise Probabilities",
+ "authors": [
+  "Bradley, Seamus"
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "slug": "turing-test",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 152,
+ "n_md": 156,
+ "n_pairs": 134,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9998545031281827,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960369881109643,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994044073853484,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993761696818465,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982588508415554,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999697428139183,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999340804218853,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992852037169406,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993913572732805,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995999058602024,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9821826280623608,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997389715478987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983183856502242,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996552912788693,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9934102141680395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9983633387888707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "图灵测试 Turing test (Graham Oppy and David Dowe)",
+  "zh_h1": "图灵测试 Turing test (Graham Oppy and David Dowe)",
+  "yuanwen_h1": "The Turing Test",
+  "html_title": "The Turing Test",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 14,
+  "blockquote→blockquote": 6,
+  "p→p": 90,
+  "h3→h3": 22,
+  "ol→ol": 2,
+  "blockquote→∅": 2,
+  "h4→h4": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 13,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 108,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Second, at a slightly higher cognitive level, there are certain kinds of “ratings games” that French supposes will be very reliable discriminators between humans and machines. For instance, the “Neologism Ratings Game”—which asks participants to rank made-up words on their appropriateness as names for given kinds of entities—and the “Category Rating Game”—which asks participants to rate things of one category as things of another category—are both, according to French, likely to prove highly rel",
+   "md_text": "Second, at a slightly higher cognitive level, there are certain kinds of “ratings games” that French supposes will be very reliable discriminators between humans and machines. For instance, the “Neologism Ratings Game”—which asks participants to rank made-up words on their appropriateness as names for given kinds of entities—and the “Category Rating Game”—which asks participants to rate things of one category as things of another category—are both, according to French, likely to prove highly rel"
+  },
+  {
+   "i": 28,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Let C be a digital computer. Since C is subject to the Lucas-Penrose constraint, there is an “unanswerable” question q for C. If an entity, E, is not subject to the Lucas-Penrose constraint, then there are no “unanswerable” questions for E. The human intellect is not subject to the Lucas-Penrose constraint. Thus, there are no “unanswerable” questions for the human intellect. The question q is therefore “answerable” to the human intellect. By asking question q, a human could determine if the resp",
+   "md_text": "Let C be a digital computer. Since C is subject to the Lucas-Penrose constraint, there is an “unanswerable” question q for C. If an entity, E, is not subject to the Lucas-Penrose constraint, then there are no “unanswerable” questions for E. The human intellect is not subject to the Lucas-Penrose constraint. Thus, there are no “unanswerable” questions for the human intellect. The question q is therefore “answerable” to the human intellect. By asking question q, a human could determine if the resp"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Turing Test",
+ "authors": [
+  "Oppy, Graham",
+  "Dowe, David"
+ ]
+}

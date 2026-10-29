@@ -1,0 +1,328 @@
+{
+ "slug": "logical-consequence",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 80,
+ "n_md": 85,
+ "n_pairs": 36,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9988358556461001,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985315712187959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984251968503937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988304093567252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9902702702702703,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979757085020243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987425902640561,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990804349002002,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990205680705191,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988833054159687,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995573262505534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981965734896303,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989579715178881,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992916174734356,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964664310954063,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "逻辑蕴含 logical consequence (Jc Beall, Greg Restall, and Gil Sagi)",
+  "zh_h1": "逻辑蕴含 logical consequence (Jc Beall, Greg Restall, and Gil Sagi)",
+  "yuanwen_h1": "Logical Consequence",
+  "html_title": "Logical Consequence",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 19,
+  "ol→ol": 5,
+  "p→∅": 41,
+  "h3→h3": 3,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+ol+p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 67,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Perhaps there is a reason to allow the notion of logical consequence to apply even more broadly. In Gentzen’s proof theory for classical logic, a notion of consequence is defined to hold between multiple premises and multiple conclusions. The argument from a set ⟦M⟧ of premises to a set ⟦M⟧ of conclusions is valid if the truth of every member of ⟦M⟧ guarantees (in the relevant sense) the truth of some member of ⟦M⟧ . There is no doubt that this is formally perspicuous, but the philosophical appl",
+   "md_text": "Perhaps there is a reason to allow the notion of logical consequence to apply even more broadly. In Gentzen’s proof theory for classical logic, a notion of consequence is defined to hold between multiple premises and multiple conclusions. The argument from a set ⟦M⟧ of premises to a set ⟦M⟧ of conclusions is valid if the truth of every member of ⟦M⟧ guarantees (in the relevant sense) the truth of some member of ⟦M⟧ . There is no doubt that this is formally perspicuous, but the philosophical appl"
+  },
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A first stab at the notion might use what we now call metaphysical necessity. Perhaps an argument is valid if it is (metaphysically) impossible for the premises to be true and the conclusion to be untrue, valid if—holding fixed the interpretations of premises and conclusion—in every possible world in which the premises hold, so does the conclusion. This constraint is plausibly thought to be a necessary condition for logical consequence (if it could be that the premises are true and the conclusio",
+   "md_text": "A first stab at the notion might use what we now call metaphysical necessity. Perhaps an argument is valid if it is (metaphysically) impossible for the premises to be true and the conclusion to be untrue, valid if—holding fixed the interpretations of premises and conclusion—in every possible world in which the premises hold, so does the conclusion. This constraint is plausibly thought to be a necessary condition for logical consequence (if it could be that the premises are true and the conclusio"
+  },
+  {
+   "i": 4,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "All swans observed so far have been white. Smoothy is a swan. Therefore, Smoothy is white.",
+   "md_text": "All swans observed so far have been white. Smoothy is a swan. Therefore, Smoothy is white."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Logical Consequence",
+ "authors": [
+  "Beall, Jc",
+  "Restall, Greg",
+  "Sagi, Gil"
+ ]
+}

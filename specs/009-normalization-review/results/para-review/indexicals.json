@@ -1,0 +1,517 @@
+{
+ "slug": "indexicals",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 166,
+ "n_md": 167,
+ "n_pairs": 99,
+ "n_flags": 0,
+ "n_merged": 34,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993489583333334,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986091794158554,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956331877729258,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9980879541108987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993002099370188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995459361283487,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994844474995703,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988385598141696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987063389391979,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995883079456567,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980582524271845,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982698961937716,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984429739198132,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976580796252927,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9922480620155039,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983582634075155,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976415094339622,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997289972899729,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972337482710927,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987618654560462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996309963099631,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985167606051617,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983429991714996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960352422907489,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "h3",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991935483870967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995636998254799,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991235758106923,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968051118210862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990850869167429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962377727614747,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9991709500911955,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "指代词 indexicals (David Braun and Alexandru Radulescu)",
+  "zh_h1": "指代词 indexicals (David Braun and Alexandru Radulescu)",
+  "yuanwen_h1": "Indexicals",
+  "html_title": "Indexicals",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "h3→h3": 20,
+  "p→∅": 62,
+  "p→p": 57,
+  "ul→ul": 14,
+  "ul→∅": 2,
+  "h3→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×1(ul→ul)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+h3+p+p→p+h3+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 132,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Singular-term theories of complex demonstratives must deal with two major issues. First, do the common noun phrases that appear in complex demonstratives play a role in determining their referents in contexts? Second, do the contents of those common noun phrases contribute to the contents of complex demonstratives, in contexts? (Does, for instance, the content of ‘philosopher’ appear as a constituent of the content of ‘that philosopher’, in a context?) Minimal theories assign minimal, or no, sem",
+   "md_text": "Singular-term theories of complex demonstratives must deal with two major issues. First, do the common noun phrases that appear in complex demonstratives play a role in determining their referents in contexts? Second, do the contents of those common noun phrases contribute to the contents of complex demonstratives, in contexts? (Does, for instance, the content of ‘philosopher’ appear as a constituent of the content of ‘that philosopher’, in a context?) Minimal theories assign minimal, or no, sem"
+  },
+  {
+   "i": 82,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The content of a sentence, at a context, can also be evaluated for truth at a world other than the world of the context. This is how the truth-values of sentences that contain modal operators, such as ‘possible’, are determined. For example, the content of ‘I am a philosopher’, with respect to ⟦M⟧ , is the singular proposition that Mary is a philosopher. This proposition is true at ⟦M⟧ , the world of context ⟦M⟧ . But this proposition is false at world, ⟦M⟧ , in which Mary goes into mathematics ",
+   "md_text": "The content of a sentence, at a context, can also be evaluated for truth at a world other than the world of the context. This is how the truth-values of sentences that contain modal operators, such as ‘possible’, are determined. For example, the content of ‘I am a philosopher’, with respect to ⟦M⟧ , is the singular proposition that Mary is a philosopher. This proposition is true at ⟦M⟧ , the world of context ⟦M⟧ . But this proposition is false at world, ⟦M⟧ , in which Mary goes into mathematics "
+  },
+  {
+   "i": 11,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "(1) He was born in Detroit. [Pointing at John] (2) Her paper was published. [Pointing at Mary]",
+   "md_text": "(1) He was born in Detroit. [Pointing at John] (2) Her paper was published. [Pointing at Mary]"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Indexicals",
+ "authors": [
+  "Braun, David",
+  "Radulescu, Alexandru"
+ ]
+}

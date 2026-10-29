@@ -1,0 +1,521 @@
+{
+ "slug": "truth-identity",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 120,
+ "n_md": 143,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.999671592775041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9532710280373832,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966722129783694,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984794728839331,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996625042186973,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982118021060997,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993496639930631,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963886500429923,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992885937870524,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976737250223681,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980968492281667,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979640459172623,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988412514484357,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980219385002698,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924812030075187,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981378026070763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9968246213971665,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973787680209698,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986754966887417,
+   "n_h": 5,
+   "n_m": 9,
+   "shape_h": [
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996167113836719,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987801902903147,
+   "n_h": 6,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "dl",
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986684420772304,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981807155852032,
+   "n_h": 5,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982575024201356,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975926817525277,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9911971830985915,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "真理同一论 identity theory of (Richard Gaskin)",
+  "zh_h1": "真理同一论 identity theory of (Richard Gaskin)",
+  "yuanwen_h1": "The Identity Theory of Truth",
+  "html_title": "The Identity Theory of Truth",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 20,
+  "dl→∅": 23,
+  "p→∅": 48,
+  "blockquote→blockquote": 6,
+  "blockquote→∅": 6,
+  "h3→h3": 6,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(dl→p+p)": 4,
+  "merged×4(dl+p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 3,
+  "merged×2(p+p→p+p)": 3,
+  "merged×6(p+p+p+p+p+blockquote→p+p+p+p+p+blockquote)": 1,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×4(p+p+dl+p→p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×5(dl+dl+dl+dl+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×6(p+p+dl+dl+dl+dl→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(dl+p+p+dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 113,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Candlish (1999b: 208) thinks that intrinsicism and the identity theory are competitors, but perhaps that view is not mandatory. Intrinsicism says that truth is a simple and unanalysable property of propositions; the identity theory says that a true proposition is identical with a fact (and with the right fact). These statements will seem to clash only if the identity theory is taken to propound a heavy-duty analysis of truth. But if, following recent exponents of the theory, we take it rather to",
+   "md_text": "Candlish (1999b: 208) thinks that intrinsicism and the identity theory are competitors, but perhaps that view is not mandatory. Intrinsicism says that truth is a simple and unanalysable property of propositions; the identity theory says that a true proposition is identical with a fact (and with the right fact). These statements will seem to clash only if the identity theory is taken to propound a heavy-duty analysis of truth. But if, following recent exponents of the theory, we take it rather to"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Identity Theory of Truth",
+ "authors": [
+  "Gaskin, Richard"
+ ]
+}

@@ -1,0 +1,472 @@
+{
+ "slug": "biology-experiment",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 126,
+ "n_md": 131,
+ "n_pairs": 72,
+ "n_flags": 1,
+ "n_merged": 31,
+ "merged": [
+  {
+   "ratio": 0.9997947033463355,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999647266313933,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971830985915493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984411535463756,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986504723346828,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986754966887417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985126425384234,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995481247175779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978021978021978,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99949924887331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9732360097323601,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940149625935162,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994962216624685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997275204359673,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989417989417989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982578397212544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986278814489572,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993215739484396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990928333837314,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987925621830476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993878800244848,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992592592592593,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985533802681068,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988202909948879,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994100294985251,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987849331713244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993751301812123,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9927849927849928,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "生物学实验 experiment in (Marcel Weber)",
+  "zh_h1": "生物学实验 experiment in (Marcel Weber)",
+  "yuanwen_h1": "Experiment in Biology",
+  "html_title": "Experiment in Biology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 10,
+  "p→∅": 48,
+  "p→p": 51,
+  "ol→ol": 1,
+  "dl→∅": 2,
+  "figure→p": 1,
+  "figure→∅": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×1(p→p+p)": 1,
+  "merged×3(p+p+figure→p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 123,
+   "j": 128,
+   "ratio": 0.9487179487179487,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "abduction | artifact | Bayes’ Theorem | conditionals: counterfactual | confirmation | determinism: causal | Duhem, Pierre | epistemology: Bayesian | epistemology: social | evolution | genetics | genetics: molecular | incommensurability: of scientific theories | Kuhn, Thomas | logic: inductive | Mill, John Stuart | molecular biology | Popper, Karl | scientific realism",
+   "md_text": "abduction artifact Bayes’ Theorem conditionals: counterfactual confirmation determinism: causal Duhem, Pierre epistemology: Bayesian epistemology: social evolution genetics genetics: molecular incommensurability: of scientific theories Kuhn, Thomas logic: inductive Mill, John Stuart molecular biology Popper, Karl scientific realism"
+  }
+ ],
+ "spot": [
+  {
+   "i": 45,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In purely causal terms, what all these models show is that the sequence of nucleotides in a newly synthesized DNA molecule depends on the sequence of a pre-existing molecule. But the models also contain structural information such as information the DNA double helix topology and the movements undergone by a replicating DNA molecule (still hypothetical at that time). According to the model on the left, the so-called “conservative” model, the two strands of the DNA double helix do not separate pri",
+   "md_text": "In purely causal terms, what all these models show is that the sequence of nucleotides in a newly synthesized DNA molecule depends on the sequence of a pre-existing molecule. But the models also contain structural information such as information the DNA double helix topology and the movements undergone by a replicating DNA molecule (still hypothetical at that time). According to the model on the left, the so-called “conservative” model, the two strands of the DNA double helix do not separate pri"
+  },
+  {
+   "i": 9,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "S ⟦S⟧ and S ⟦S⟧ are two homogeneous test situations (assumption) Two factors A and W both occur in S ⟦S⟧ both not in S ⟦S⟧ (exp. result) W is an effect in a deterministic causal structure (assumption) In S ⟦S⟧ there exists a cause of the occurrence of W (from 2, 3) In S ⟦S⟧ there exists no cause of the occurrence of W (from 2,3) S ⟦S⟧ contains no confounder of W (from 5) S ⟦S⟧ contains no confounder of W (from 1,6) The cause of W belongs to the set {A, W} (from 4, 7) W does not cause itself (ass",
+   "md_text": "S ⟦S⟧ and S ⟦S⟧ are two homogeneous test situations (assumption) Two factors A and W both occur in S ⟦S⟧ both not in S ⟦S⟧ (exp. result) W is an effect in a deterministic causal structure (assumption) In S ⟦S⟧ there exists a cause of the occurrence of W (from 2, 3) In S ⟦S⟧ there exists no cause of the occurrence of W (from 2,3) S ⟦S⟧ contains no confounder of W (from 5) S ⟦S⟧ contains no confounder of W (from 1,6) The cause of W belongs to the set {A, W} (from 4, 7) W does not cause itself (ass"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Experiment in Biology",
+ "authors": [
+  "Weber, Marcel"
+ ]
+}

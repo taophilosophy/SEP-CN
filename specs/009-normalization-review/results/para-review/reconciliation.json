@@ -1,0 +1,357 @@
+{
+ "slug": "reconciliation",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 80,
+ "n_md": 88,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 0.9992353390977001,
+   "n_h": 1,
+   "n_m": 9,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988810145468109,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9986332574031891,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986187845303868,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979460093896714,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99830335934849,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982354423997983,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990671641791045,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982139313355824,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980069755854509,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982869379014989,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981490829547367,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985116586737225,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978813559322034,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990589711417817,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994574064026045,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985524030110018,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983974358974359,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991799544419134,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979633401221996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "和解 reconciliation (Linda Radzik and Colleen Murphy)",
+  "zh_h1": "和解 reconciliation (Linda Radzik and Colleen Murphy)",
+  "yuanwen_h1": "Reconciliation",
+  "html_title": "Reconciliation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 12,
+  "ol→∅": 1,
+  "p→∅": 46,
+  "h3→h3": 9,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+p+p→p+p+p)": 5,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The debate about the nature of political reconciliation reflects a concern, not only with ideals of political relationship, but also with non-ideal facts about societies torn apart by injustice or violence. For example, Bhargava (2012) defends a weak conception of reconciliation by emphasizing how significant an achievement peaceful coexistence can be in the aftermath of atrocities. He worries that advocating the pursuit of stronger forms of reconciliation will require that the past be forgotten",
+   "md_text": "The debate about the nature of political reconciliation reflects a concern, not only with ideals of political relationship, but also with non-ideal facts about societies torn apart by injustice or violence. For example, Bhargava (2012) defends a weak conception of reconciliation by emphasizing how significant an achievement peaceful coexistence can be in the aftermath of atrocities. He worries that advocating the pursuit of stronger forms of reconciliation will require that the past be forgotten"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Reconciliation",
+ "authors": [
+  "Radzik, Linda",
+  "Murphy, Colleen"
+ ]
+}

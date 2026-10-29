@@ -1,0 +1,218 @@
+{
+ "slug": "carneades",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 57,
+ "n_md": 57,
+ "n_pairs": 32,
+ "n_flags": 1,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9991525423728813,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999702469503124,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991863303498779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999043062200957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986595174262735,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994945665908517,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996480112636396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993211133740665,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989644459785986,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993018384919712,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "卡涅阿德斯 Carneades (James Allen)",
+  "zh_h1": "卡涅阿德斯 Carneades (James Allen)",
+  "yuanwen_h1": "Carneades",
+  "html_title": "Carneades",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 17,
+  "h3→h3": 4,
+  "p→∅": 24,
+  "ol→ol": 2,
+  "blockquote→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 56,
+   "j": 56,
+   "ratio": 0.948051948051948,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Academy, Plato’s | Arcesilaus | Philo of Larissa | skepticism: ancient | Stoicism",
+   "md_text": "Academy, Plato’s Arcesilaus Philo of Larissa skepticism: ancient Stoicism"
+  }
+ ],
+ "spot": [
+  {
+   "i": 30,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Tackling ethics, Carneades proceeded as he had in epistemology and constructed a framework intended to capture and do justice to the motives behind ethical theory. His framework classified not only all the views about the goal or end of life that had been held, but also all those that could be held (Cicero, Fin. 5.16–21 = L&S 64EG; cf. Algra, 1997). He sets out from the assumption that practical wisdom, the knowledge we need to conduct our lives successfully, must have an object. That is, it mus",
+   "md_text": "Tackling ethics, Carneades proceeded as he had in epistemology and constructed a framework intended to capture and do justice to the motives behind ethical theory. His framework classified not only all the views about the goal or end of life that had been held, but also all those that could be held (Cicero, Fin. 5.16–21 = L&S 64EG; cf. Algra, 1997). He sets out from the assumption that practical wisdom, the knowledge we need to conduct our lives successfully, must have an object. That is, it mus"
+  },
+  {
+   "i": 12,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Ensure that, by capturing its object with perfect accuracy, it is true, and",
+   "md_text": "Ensure that, by capturing its object with perfect accuracy, it is true, and"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Carneades",
+ "authors": [
+  "Allen, James"
+ ]
+}

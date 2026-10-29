@@ -1,0 +1,510 @@
+{
+ "slug": "death",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 201,
+ "n_md": 209,
+ "n_pairs": 150,
+ "n_flags": 1,
+ "n_merged": 36,
+ "merged": [
+  {
+   "ratio": 0.9995612110574813,
+   "n_h": 1,
+   "n_m": 9,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999244142101285,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993906154783668,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990972013241047,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994556341861731,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983622666229938,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992673992673993,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970748015043878,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991438356164384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993979530403372,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992301770592764,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996654399464704,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995208433157643,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986013986013986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973190348525469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993343687597072,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991204925241864,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990300678952473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979757085020243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987864077669902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989827060020345,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989701338825953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989615784008308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992579767499382,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989154013015185,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994783515910276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974424552429667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994044073853484,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994182664339732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99906191369606,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992603550295858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994821336095288,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992082343626286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.991869918699187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "死亡 death (Steven Luper)",
+  "zh_h1": "死亡 death (Steven Luper)",
+  "yuanwen_h1": "Death",
+  "html_title": "Death",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 100,
+  "p→∅": 46,
+  "h3→h3": 24,
+  "ol→ol": 10,
+  "ul→ul": 2,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 22,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 200,
+   "j": 208,
+   "ratio": 0.9357798165137615,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "death: definition of | Epicurus | euthanasia: voluntary | identity | life | personal identity | suicide | well-being",
+   "md_text": "death: definition of Epicurus euthanasia: voluntary identity life personal identity suicide well-being"
+  }
+ ],
+ "spot": [
+  {
+   "i": 190,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Williams’s claim that immortality cannot be made desirable remains controversial. It is not obvious that eternal life is undesirable if it involves changing our categorical desires and characters (insofar as our characters are defined by the desires). Nor is it obvious that such changes must violate Williams’s two conditions for the desirability of continued life. Williams seems to think that the individual who is changed in this way will not clearly be the same person as before, but he stops sh",
+   "md_text": "Williams’s claim that immortality cannot be made desirable remains controversial. It is not obvious that eternal life is undesirable if it involves changing our categorical desires and characters (insofar as our characters are defined by the desires). Nor is it obvious that such changes must violate Williams’s two conditions for the desirability of continued life. Williams seems to think that the individual who is changed in this way will not clearly be the same person as before, but he stops sh"
+  },
+  {
+   "i": 20,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Working together, these molecules can engage in activities that are integrated in conformity with (under the control of) the information that some of them carry (information that is comparable to blueprints and instructions), much as soldiers that make up an army can engage in activities that are integrated in conformity with battle plans and instructions issued by the commanding officers that are among them. Deploying these activities, the molecules can self-modify, in the sense that they can b",
+   "md_text": "Working together, these molecules can engage in activities that are integrated in conformity with (under the control of) the information that some of them carry (information that is comparable to blueprints and instructions), much as soldiers that make up an army can engage in activities that are integrated in conformity with battle plans and instructions issued by the commanding officers that are among them. Deploying these activities, the molecules can self-modify, in the sense that they can b"
+  }
+ ],
+ "supplements": [
+  "mortality.html"
+ ],
+ "meta_title": "Death",
+ "authors": [
+  "Luper, Steven"
+ ]
+}

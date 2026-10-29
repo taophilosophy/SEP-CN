@@ -1,0 +1,603 @@
+{
+ "slug": "frege",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 216,
+ "n_md": 217,
+ "n_pairs": 142,
+ "n_flags": 0,
+ "n_merged": 41,
+ "merged": [
+  {
+   "ratio": 0.9960722702278083,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "pubinfo",
+    "preamble"
+   ],
+   "shape_m": [
+    "image",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990766389658357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935139259824495,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976811594202899,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982894286691755,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991721854304636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991079393398751,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994269340974212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995995194233079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9995176073323685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993527508090615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985443959243085,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988925802879292,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989672977624785,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992902767920511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970944309927361,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972692517749864,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9989680082559339,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980952380952381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988893002591632,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997979797979798,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992641648270787,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991575400168492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996370235934664,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990315707921751,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985908877407234,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987421383647799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970059880239521,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982248520710059,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991356957649092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976190476190476,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985761746559089,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984648449493398,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9910714285714286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994416527079844,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969173859432799,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973059025226549,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972602739726028,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.992412746585736,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994987468671679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "戈特洛布·弗雷格 Frege, Gottlob (Edward N. Zalta)",
+  "zh_h1": "戈特洛布·弗雷格 Frege, Gottlob (Edward N. Zalta)",
+  "yuanwen_h1": "Gottlob Frege",
+  "html_title": "Gottlob Frege",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→∅": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 59,
+  "p→p": 76,
+  "blockquote→blockquote": 31,
+  "h3→h3": 11,
+  "h4→h4": 13,
+  "table→table": 2,
+  "ol→∅": 1,
+  "ul→ul": 2,
+  "blockquote→∅": 9,
+  "table→∅": 1,
+  "ul→∅": 2,
+  "ol→ol": 1,
+  "merged×2(pubinfo+preamble→image+p+p)": 1,
+  "merged×1(p→p)": 18,
+  "merged×2(p+p→p+p)": 9,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(ol→ol)": 1,
+  "merged×6(p+p+blockquote+p+blockquote+p→p+p+blockquote+p+blockquote+p)": 1,
+  "merged×3(p+p+table→p+p+table)": 1,
+  "merged×5(p+ul+p+p+p→p+ul+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+blockquote+p+blockquote+p→p+blockquote+p+blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 171,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "But Frege noticed (1892a) that this account of truth can’t be all there is to the meaning of identity statements. The statement ‘ ⟦M⟧ ’ has a cognitive significance (or meaning) that must be different from the cognitive significance of ‘ ⟦M⟧ ’. We can learn that ‘Mark Twain = Mark Twain’ is true simply by inspecting it; but we can’t learn the truth of ‘Mark Twain = Samuel Clemens’ simply by inspecting it — you have to examine the world to see whether the two persons are the same. Similarly, wher",
+   "md_text": "But Frege noticed (1892a) that this account of truth can’t be all there is to the meaning of identity statements. The statement ‘ ⟦M⟧ ’ has a cognitive significance (or meaning) that must be different from the cognitive significance of ‘ ⟦M⟧ ’. We can learn that ‘Mark Twain = Mark Twain’ is true simply by inspecting it; but we can’t learn the truth of ‘Mark Twain = Samuel Clemens’ simply by inspecting it — you have to examine the world to see whether the two persons are the same. Similarly, wher"
+  },
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In Frege’s term logic, all of the terms and well-formed formulas are denoting expressions. These include: (a) simple names of objects, like ‘ ⟦M⟧ ’ and ‘ ⟦M⟧ ’, (b) complex terms which denote objects, like ‘ ⟦M⟧ ’ and ‘ ⟦M⟧ ’, and (c) sentences (which are also complex terms). The complex terms in (b) and (c) are formed with the help of ‘incomplete expressions’ which signify functions, such as the unary squaring function ‘ ⟦M⟧ ’ and the binary addition function ‘ ⟦M⟧ ’. In these functional expres",
+   "md_text": "In Frege’s term logic, all of the terms and well-formed formulas are denoting expressions. These include: (a) simple names of objects, like ‘ ⟦M⟧ ’ and ‘ ⟦M⟧ ’, (b) complex terms which denote objects, like ‘ ⟦M⟧ ’ and ‘ ⟦M⟧ ’, and (c) sentences (which are also complex terms). The complex terms in (b) and (c) are formed with the help of ‘incomplete expressions’ which signify functions, such as the unary squaring function ‘ ⟦M⟧ ’ and the binary addition function ‘ ⟦M⟧ ’. In these functional expres"
+  },
+  {
+   "i": 32,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Intuitive Significance Functional Expression The Function It Signifies Statement The function which maps The True to The True and maps all other objects to The False; used to express the thought that the argument of the function is a true statement. Negation The function which maps The True to The False and maps all other objects to The True Conditional The function which maps a pair of objects to The False if the first (i.e., named in the bottom branch) is The True and the second isn’t The True",
+   "md_text": "Intuitive Significance Functional Expression The Function It Signifies Statement The function which maps The True to The True and maps all other objects to The False; used to express the thought that the argument of the function is a true statement. Negation The function which maps The True to The False and maps all other objects to The True Conditional The function which maps a pair of objects to The False if the first (i.e., named in the bottom branch) is The True and the second isn’t The True"
+  }
+ ],
+ "supplements": [
+  "catalog.html"
+ ],
+ "meta_title": "Gottlob Frege",
+ "authors": [
+  "Zalta, Edward N."
+ ]
+}

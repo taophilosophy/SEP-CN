@@ -1,0 +1,160 @@
+{
+ "slug": "giles",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 33,
+ "n_md": 33,
+ "n_pairs": 15,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9988445243291821,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985454545454545,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984517247785967,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988814317673378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986694544763353,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986181483187471,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.993006993006993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "罗马的吉尔斯 Giles of Rome (Roberto Lambertini)",
+  "zh_h1": "罗马的吉尔斯 Giles of Rome (Roberto Lambertini)",
+  "yuanwen_h1": "Giles of Rome",
+  "html_title": "Giles of Rome",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 4,
+  "p→∅": 16,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Born in Rome most probably in the fifth decade of the thirteenth century, Giles was the first outstanding theologian of the relatively recently founded Order of the Augustinian Hermits. Nothing more is known about his origins: the statement that he belonged to the famous Roman family of the Colonna seems to go back to Jordan of Saxony’s Liber Vitasfratrum (second half of the 14th century), but is completely missing from contemporary, 13th-century sources. From Giles’ will we know that he was sen",
+   "md_text": "Born in Rome most probably in the fifth decade of the thirteenth century, Giles was the first outstanding theologian of the relatively recently founded Order of the Augustinian Hermits. Nothing more is known about his origins: the statement that he belonged to the famous Roman family of the Colonna seems to go back to Jordan of Saxony’s Liber Vitasfratrum (second half of the 14th century), but is completely missing from contemporary, 13th-century sources. From Giles’ will we know that he was sen"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Giles of Rome",
+ "authors": [
+  "Lambertini, Roberto"
+ ]
+}

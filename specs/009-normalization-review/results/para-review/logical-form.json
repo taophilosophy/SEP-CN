@@ -1,0 +1,834 @@
+{
+ "slug": "logical-form",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 213,
+ "n_md": 326,
+ "n_pairs": 115,
+ "n_flags": 0,
+ "n_merged": 50,
+ "merged": [
+  {
+   "ratio": 0.9983458455274208,
+   "n_h": 1,
+   "n_m": 19,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937304075235109,
+   "n_h": 7,
+   "n_m": 10,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965229485396384,
+   "n_h": 6,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.979746835443038,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936739659367396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978150036416606,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994585958995296,
+   "n_h": 10,
+   "n_m": 12,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960341305131595,
+   "n_h": 10,
+   "n_m": 15,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999836307087903,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994306319984817,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987623762376238,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992896045465309,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995244888254874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999715343011671,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991489361702127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991470002843332,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992578849721707,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990703439727301,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988876529477196,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985443959243085,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999083409715857,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995280792826805,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990732159406858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994638069705094,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995385325334564,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9788359788359788,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995933306222041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993846153846154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994926433282597,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988018212317278,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9787234042553191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "逻辑形式 logical form (Paul Pietroski)",
+  "zh_h1": "逻辑形式 logical form (Paul Pietroski)",
+  "yuanwen_h1": "Logical Form",
+  "html_title": "Logical Form",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "preamble→∅": 1,
+  "h2→h2": 13,
+  "p→p": 82,
+  "dl→∅": 31,
+  "p→∅": 64,
+  "p→mathblock": 19,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×7(dl+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(p+dl+p+dl+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×10(dl+p+dl+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×10(dl+p+p+dl+p+p+p+p+dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+dl→p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 11,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(dl→p+p)": 3,
+  "merged×1(dl→p+p+p+p+p+p+p+p)": 3,
+  "merged×1(dl→p+p+p+p+p+p)": 2,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 204,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "At this point, many issues become relevant to further discussions of logical form. Most obviously, there are questions concerning particular examples. Given just about any sentence of natural language, one can ask interesting questions (that remain unsettled) about its logical form. There are also very abstract questions about the relation of semantics to logic. Should we follow Davidson and Montague, among others, in characterizing theories of meaning for natural languages as theories of truth ",
+   "md_text": "At this point, many issues become relevant to further discussions of logical form. Most obviously, there are questions concerning particular examples. Given just about any sentence of natural language, one can ask interesting questions (that remain unsettled) about its logical form. There are also very abstract questions about the relation of semantics to logic. Should we follow Davidson and Montague, among others, in characterizing theories of meaning for natural languages as theories of truth "
+  },
+  {
+   "i": 63,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For purposes of capturing valid arguments concerning relations, the more important point is that functions need not be unary. For example, arithmetic division can be represented as a function from ordered pairs of numbers onto quotients: ⟦M⟧ . Mappings can also be conditional. Consider the function that maps every even integer onto itself, and every odd integer onto its successor: ⟦M⟧ if ⟦M⟧ is even, and ⟦M⟧ otherwise; ⟦M⟧ , ⟦M⟧ , ⟦M⟧ , etc. Frege held that propositions have parts that correspon",
+   "md_text": "For purposes of capturing valid arguments concerning relations, the more important point is that functions need not be unary. For example, arithmetic division can be represented as a function from ordered pairs of numbers onto quotients: ⟦M⟧ . Mappings can also be conditional. Consider the function that maps every even integer onto itself, and every odd integer onto its successor: ⟦M⟧ if ⟦M⟧ is even, and ⟦M⟧ otherwise; ⟦M⟧ , ⟦M⟧ , ⟦M⟧ , etc. Frege held that propositions have parts that correspon"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Logical Form",
+ "authors": [
+  "Pietroski, Paul"
+ ]
+}

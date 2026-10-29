@@ -1,0 +1,525 @@
+{
+ "slug": "philosophy-mexico",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 136,
+ "n_md": 138,
+ "n_pairs": 71,
+ "n_flags": 2,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983062330623306,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978237214363439,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994900560938297,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934640522875817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961089494163424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962904080551139,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "h2"
+   ],
+   "shape_m": [
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9945105215004575,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960276592614389,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9905660377358491,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969297453494672,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995635093845482,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965397923875432,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998181345804105,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993247805536799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950738916256158,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999099369558691,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980687524140595,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993050729673384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993397160779135,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943820224719101,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985422740524781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985714285714286,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953364423717521,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992044550517104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985272459499264,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984202211690363,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985569985569985,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983732279804788,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953349505504758,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9958677685950413,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "墨西哥哲学 philosophy in (Guillermo Hurtado and Robert Eli Sanchez, Jr.)",
+  "zh_h1": "墨西哥哲学 philosophy in (Guillermo Hurtado and Robert Eli Sanchez, Jr.)",
+  "yuanwen_h1": "Philosophy in Mexico",
+  "html_title": "Philosophy in Mexico",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 56,
+  "p→p": 56,
+  "h2→∅": 6,
+  "h3→h3": 8,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×1(p→p)": 17,
+  "merged×2(p+p→p+p)": 7,
+  "merged×2(p+h2→p+h2)": 1,
+  "merged×5(p+p+h2+p+p→p+p+h2+p+p)": 1,
+  "merged×5(p+h2+p+p+p→p+h2+p+p+p)": 1,
+  "merged×2(h2+p→h2+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 54,
+   "j": 56,
+   "ratio": 0.9130434782608695,
+   "shape_h": "h2",
+   "shape_m": "h2",
+   "html_text": "8. The 20 ⟦P⟧ Century",
+   "md_text": "8. The 20 ⟦P⟧ ⟦P⟧ Century"
+  },
+  {
+   "kind": "replace",
+   "i": 121,
+   "j": 123,
+   "ratio": 0.9130434782608695,
+   "shape_h": "h2",
+   "shape_m": "h2",
+   "html_text": "9. The 21 ⟦P⟧ Century",
+   "md_text": "9. The 21 ⟦P⟧ ⟦P⟧ Century"
+  }
+ ],
+ "spot": [
+  {
+   "i": 108,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Cuban Revolution had a profound impact among many Latin American intellectuals. After the 1960s, the number of Marxists increased exponentially, both at and outside the university, and Marxism became the dominant school of thought in some Mexican universities. The books of Gramsci, Marcuse, and Althusser were read by many young students, as were the writings of José Martí, José Carlos Mariáteguí and Paolo Freire. The main Mexican Marxist philosophers of that period were: Porfirio Miranda (19",
+   "md_text": "The Cuban Revolution had a profound impact among many Latin American intellectuals. After the 1960s, the number of Marxists increased exponentially, both at and outside the university, and Marxism became the dominant school of thought in some Mexican universities. The books of Gramsci, Marcuse, and Althusser were read by many young students, as were the writings of José Martí, José Carlos Mariáteguí and Paolo Freire. The main Mexican Marxist philosophers of that period were: Porfirio Miranda (19"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy in Mexico",
+ "authors": [
+  "Hurtado, Guillermo",
+  "Sanchez, Jr., Robert Eli"
+ ]
+}

@@ -1,0 +1,531 @@
+{
+ "slug": "truth-revision",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 234,
+ "n_md": 272,
+ "n_pairs": 189,
+ "n_flags": 0,
+ "n_merged": 36,
+ "merged": [
+  {
+   "ratio": 0.9979597784902361,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9901380670611439,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971910112359551,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977064220183486,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944598337950139,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9905163329820864,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989327641408752,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995311767463666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929221435793731,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975470155355682,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989384288747346,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964469009080142,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "dl",
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996742671009772,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9918962722852512,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991823385118561,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990867579908675,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972826086956522,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998003992015968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965899403239556,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968138370505234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996492458786391,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995635093845482,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9907038512616202,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982668977469671,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995143273433705,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.996969696969697,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "修正真理论 revision theory of (Philip Kremer and Edoardo Rivello)",
+  "zh_h1": "修正真理论 revision theory of (Philip Kremer and Edoardo Rivello)",
+  "yuanwen_h1": "The Revision Theory of Truth",
+  "html_title": "The Revision Theory of Truth",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 112,
+  "dl→∅": 19,
+  "p→∅": 22,
+  "table→table": 10,
+  "h3→h3": 19,
+  "ol→∅": 1,
+  "p→mathblock": 36,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 8,
+  "merged×1(p→p)": 15,
+  "merged×1(dl→p+p+p+p+p+p)": 3,
+  "merged×1(ol→ol)": 1,
+  "merged×2(dl+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+dl+dl+dl→p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+dl+dl→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 24,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Informally, we might reason as follows. Either (7) is true or (7) is not true. Thus, either (8) is true or (9) is true. Thus, (7) is true. Thus (8) is true and (9) is not true, and (7) is still true. Iterating the process once again, we get (8) is true, (9) is not true, and (7) is true. More formally, consider any initial hypothesis, ⟦M⟧ , about the truth values of (7), (8) and (9). Either ⟦M⟧ says that (7) is true or ⟦M⟧ says that (7) is not true. In either case, we can use the T-biconditional ",
+   "md_text": "Informally, we might reason as follows. Either (7) is true or (7) is not true. Thus, either (8) is true or (9) is true. Thus, (7) is true. Thus (8) is true and (9) is not true, and (7) is still true. Iterating the process once again, we get (8) is true, (9) is not true, and (7) is true. More formally, consider any initial hypothesis, ⟦M⟧ , about the truth values of (7), (8) and (9). Either ⟦M⟧ says that (7) is true or ⟦M⟧ says that (7) is not true. In either case, we can use the T-biconditional "
+  },
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "It seems an intuitive principle concerning truth that, for any sentence ⟦M⟧ , we have the so-called T-biconditional",
+   "md_text": "It seems an intuitive principle concerning truth that, for any sentence ⟦M⟧ , we have the so-called T-biconditional"
+  },
+  {
+   "i": 18,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Hypothesis: (1) is not true. T-biconditional: ‘(1) is not true’ is true iff (1) is not true. Therefore: ‘(1) is not true’ is true. Known identity: (1) = ‘(1) is not true’. Conclusion: (1) is true. New revised hypothesis: (1) is true.",
+   "md_text": "Hypothesis: (1) is not true. T-biconditional: ‘(1) is not true’ is true iff (1) is not true. Therefore: ‘(1) is not true’ is true. Known identity: (1) = ‘(1) is not true’. Conclusion: (1) is true. New revised hypothesis: (1) is true."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Revision Theory of Truth",
+ "authors": [
+  "Kremer, Philip",
+  "Rivello, Edoardo"
+ ]
+}

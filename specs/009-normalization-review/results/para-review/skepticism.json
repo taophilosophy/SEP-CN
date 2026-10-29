@@ -1,0 +1,493 @@
+{
+ "slug": "skepticism",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 132,
+ "n_md": 132,
+ "n_pairs": 71,
+ "n_flags": 0,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9975961538461539,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989075018208303,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999244142101285,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985611510791367,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980830670926517,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949483856797716,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9671361502347418,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990574929311969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969437652811736,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.978494623655914,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961587708066582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970267591674926,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969220800259193,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980385746976136,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953746530989824,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990224828934506,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994043428818974,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993959528843249,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998295894655306,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9925705794947994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996904982977406,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991266375545852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984962406015038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977900552486187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987737584304108,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974665218964893,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9862068965517241,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996267263904441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988751406074241,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983525535420099,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991386735572783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.995850622406639,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "怀疑论 skepticism (Juan Comesaña and Peter Klein)",
+  "zh_h1": "怀疑论 skepticism (Juan Comesaña and Peter Klein)",
+  "yuanwen_h1": "Skepticism",
+  "html_title": "Skepticism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 47,
+  "p→∅": 54,
+  "blockquote→blockquote": 2,
+  "ul→∅": 2,
+  "blockquote→∅": 5,
+  "h3→h3": 8,
+  "ol→ol": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(p→p)": 17,
+  "merged×5(p+p+ul+p+blockquote→p+p+ul+p+blockquote)": 1,
+  "merged×7(blockquote+p+p+blockquote+p+p+p→blockquote+p+p+blockquote+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 16,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Humean Skeptic thinks that we may well have basically justified beliefs. For instance, the Humean Skeptic is happy to grant that if my belief that it is sunny today is based on my experiences and not on any other beliefs, then it may well be justified and amount to knowledge. Moreover, given some initial stock of known propositions, the Humean Skeptic is happy to grant that we can expand that stock by noticing that some other propositions follow deductively from them. But a lot of what we kn",
+   "md_text": "The Humean Skeptic thinks that we may well have basically justified beliefs. For instance, the Humean Skeptic is happy to grant that if my belief that it is sunny today is based on my experiences and not on any other beliefs, then it may well be justified and amount to knowledge. Moreover, given some initial stock of known propositions, the Humean Skeptic is happy to grant that we can expand that stock by noticing that some other propositions follow deductively from them. But a lot of what we kn"
+  },
+  {
+   "i": 28,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "(In the argument above, ⟦M⟧ and ⟦M⟧ .)",
+   "md_text": "(In the argument above, ⟦M⟧ and ⟦M⟧ .)"
+  },
+  {
+   "i": 86,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "If a belief is justified, then it is either a basic justified belief or an inferentially justified belief. There are no basic justified beliefs.",
+   "md_text": "If a belief is justified, then it is either a basic justified belief or an inferentially justified belief. There are no basic justified beliefs."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Skepticism",
+ "authors": [
+  "Comesaña, Juan",
+  "Klein, Peter"
+ ]
+}

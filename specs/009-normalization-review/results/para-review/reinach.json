@@ -1,0 +1,270 @@
+{
+ "slug": "reinach",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 73,
+ "n_md": 73,
+ "n_pairs": 40,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9984472049689441,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983618066931897,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991714995857498,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977661950856291,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967811158798283,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9989648033126294,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978038067349927,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994305239179955,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990360178774866,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987827145465612,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993815708101422,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996638655462184,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982486865148862,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946902654867257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿道夫·莱纳赫 Reinach, Adolf (Alessandro Salice, James DuBois, and Barry Smith)",
+  "zh_h1": "阿道夫·莱纳赫 Reinach, Adolf (Alessandro Salice, James DuBois, and Barry Smith)",
+  "yuanwen_h1": "Adolf Reinach",
+  "html_title": "Adolf Reinach",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 27,
+  "p→p": 25,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 4,
+  "ul→∅": 2,
+  "h3→h3": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×4(p+p+p+ul→p+p+p+ul)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 17,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Second, to invoke essences in metaphysical explanations “does not mean anything dark or mystical” (1913a [1989: 144], English translation 2012: 5). Essences are objects of a particular kind: they are, as the next section clarifies, ideal objects. Hence, essences, just like objects of other sorts, can—at least in principle—be apprehended, grasped or cognized by a subject (Reinach 1911c [1989: 104], English translation 1982: 325). Importantly, Reinach denies that the intuition of essences requires",
+   "md_text": "Second, to invoke essences in metaphysical explanations “does not mean anything dark or mystical” (1913a [1989: 144], English translation 2012: 5). Essences are objects of a particular kind: they are, as the next section clarifies, ideal objects. Hence, essences, just like objects of other sorts, can—at least in principle—be apprehended, grasped or cognized by a subject (Reinach 1911c [1989: 104], English translation 1982: 325). Importantly, Reinach denies that the intuition of essences requires"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Adolf Reinach",
+ "authors": [
+  "Salice, Alessandro",
+  "DuBois, James",
+  "Smith, Barry"
+ ]
+}

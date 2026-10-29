@@ -1,0 +1,272 @@
+{
+ "slug": "tort-theories",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 84,
+ "n_md": 85,
+ "n_pairs": 53,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999645390070922,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990140011831986,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999198717948718,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992867332382311,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990366088631984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995786812723826,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996977025392987,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994323557237464,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992748368382887,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991331984975441,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999639985599424,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999513263567778,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994731296101159,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931787175989086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "普通法系下的侵权法理论 torts, theories of the common law of (Arthur Ripstein)",
+  "zh_h1": "普通法系下的侵权法理论 torts, theories of the common law of (Arthur Ripstein)",
+  "yuanwen_h1": "Theories of the Common Law of Torts",
+  "html_title": "Theories of the Common Law of Torts",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 31,
+  "p→∅": 28,
+  "blockquote→blockquote": 5,
+  "h3→h3": 9,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 39,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Instead of understanding the structure of a tort action in terms of incentives, Weinrib proposes to understand it in terms of Aristotle’s conception of corrective justice. Corrective justice rests on the transactional nature of wrongdoing and so imposes that transactional nature on the remedy. Corrective justice thus differs from what Aristotle calls distributive justice, which is concerned with the distribution of benefits or burdens in accordance with some external criteria, such as the distri",
+   "md_text": "Instead of understanding the structure of a tort action in terms of incentives, Weinrib proposes to understand it in terms of Aristotle’s conception of corrective justice. Corrective justice rests on the transactional nature of wrongdoing and so imposes that transactional nature on the remedy. Corrective justice thus differs from what Aristotle calls distributive justice, which is concerned with the distribution of benefits or burdens in accordance with some external criteria, such as the distri"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Theories of the Common Law of Torts",
+ "authors": [
+  "Ripstein, Arthur"
+ ]
+}

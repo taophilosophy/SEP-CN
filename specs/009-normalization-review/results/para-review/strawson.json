@@ -1,0 +1,262 @@
+{
+ "slug": "strawson",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 78,
+ "n_md": 78,
+ "n_pairs": 50,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9971858963747724,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985560725172469,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985865724381625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990583804143126,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989993996397839,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995923359152059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997755834829444,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999304492975379,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992109119603202,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996497373029772,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997121888041445,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990732159406858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997481742634097,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985597695631301,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996745850959974,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "彼得·弗雷德里克·斯特劳森 Strawson, Peter Frederick (Paul Snowdon and Anil Gomes)",
+  "zh_h1": "彼得·弗雷德里克·斯特劳森 Strawson, Peter Frederick (Paul Snowdon and Anil Gomes)",
+  "yuanwen_h1": "Peter Frederick Strawson",
+  "html_title": "Peter Frederick Strawson",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 13,
+  "p→p": 27,
+  "p→∅": 27,
+  "blockquote→blockquote": 2,
+  "h3→h3": 5,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 8,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 29,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "How should we think of these descriptive relations? Strawson claims in chapter 1 that these descriptive relations are fundamentally spatio-temporal. That is, my ability to think of James I rests on thinking of him as the person ascending the throne in 1603, the present time being 2018. Ultimately I fix on him via his place in a spatio-temporal framework which is centred on my currently perceived environment. Strawson further points out that since we need to update this relational framework over ",
+   "md_text": "How should we think of these descriptive relations? Strawson claims in chapter 1 that these descriptive relations are fundamentally spatio-temporal. That is, my ability to think of James I rests on thinking of him as the person ascending the throne in 1603, the present time being 2018. Ultimately I fix on him via his place in a spatio-temporal framework which is centred on my currently perceived environment. Strawson further points out that since we need to update this relational framework over "
+  },
+  {
+   "i": 73,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "P.F. Strawson, Oxford Bibliographies Online reading list",
+   "md_text": "P.F. Strawson, Oxford Bibliographies Online reading list"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Peter Frederick Strawson",
+ "authors": [
+  "Snowdon, Paul",
+  "Gomes, Anil"
+ ]
+}

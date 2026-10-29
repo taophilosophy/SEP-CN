@@ -1,0 +1,277 @@
+{
+ "slug": "gomez-pereira",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 77,
+ "n_md": 77,
+ "n_pairs": 39,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9985829003306566,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989806320081549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993161224140878,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987937273823885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999482669425763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967909158232535,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995077286600375,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989521480964024,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990177889337554,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992967651195499,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998610368786745,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987120515179393,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975429975429976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "戈麦斯·佩雷拉 Pereira, Gómez (José Manuel García Valverde)",
+  "zh_h1": "戈麦斯·佩雷拉 Pereira, Gómez (José Manuel García Valverde)",
+  "yuanwen_h1": "Gómez Pereira",
+  "html_title": "Gómez Pereira",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 34,
+  "p→p": 19,
+  "blockquote→blockquote": 7,
+  "h3→h3": 2,
+  "blockquote→∅": 3,
+  "ol→ol": 1,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 55,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "(iii) Pereira’s third type of movement is produced by training, which certain animals are capable of assimilating. His doctrine is developed through the exposition of specific cases of animal training. For example, Pereira considered the imitation of human language by birds as a special type of reflex mechanism in which hearing organs of birds receive voice waves which are transmitted to a soft area of the brain where they are recorded. When the brain is activated after receiving some stimuli, i",
+   "md_text": "(iii) Pereira’s third type of movement is produced by training, which certain animals are capable of assimilating. His doctrine is developed through the exposition of specific cases of animal training. For example, Pereira considered the imitation of human language by birds as a special type of reflex mechanism in which hearing organs of birds receive voice waves which are transmitted to a soft area of the brain where they are recorded. When the brain is activated after receiving some stimuli, i"
+  },
+  {
+   "i": 39,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The nature of the act of knowledge requires an indivisible principle, so that only the soul, the unique indivisible principle in man, knows; the body does not participate in sensory knowledge, not even as a tool; therefore, the soul, in its main functions (which are cognitive) enjoys complete independence and full operational self-sufficiency regardless of the body. This operational independence logically founds the ontological independence that allows the survival of the separated soul. Althoug",
+   "md_text": "The nature of the act of knowledge requires an indivisible principle, so that only the soul, the unique indivisible principle in man, knows; the body does not participate in sensory knowledge, not even as a tool; therefore, the soul, in its main functions (which are cognitive) enjoys complete independence and full operational self-sufficiency regardless of the body. This operational independence logically founds the ontological independence that allows the survival of the separated soul. Althoug"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Gómez Pereira",
+ "authors": [
+  "García Valverde, José Manuel"
+ ]
+}

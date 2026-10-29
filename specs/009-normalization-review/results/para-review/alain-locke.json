@@ -1,0 +1,345 @@
+{
+ "slug": "alain-locke",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 163,
+ "n_md": 183,
+ "n_pairs": 154,
+ "n_flags": 19,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9998432356168678,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997450280469148,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9996764801035264,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988545246277205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995753715498938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996134518747584,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿兰·勒罗伊·洛克 Locke, Alain LeRoy (Jacoby Adeshei Carter and Corey Barnes)",
+  "zh_h1": "阿兰·勒罗伊·洛克 Locke, Alain LeRoy (Jacoby Adeshei Carter and Corey Barnes)",
+  "yuanwen_h1": "Alain LeRoy Locke",
+  "html_title": "Alain LeRoy Locke",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "table→∅": 1,
+  "p→p": 92,
+  "blockquote→blockquote": 31,
+  "h3→h3": 17,
+  "p→∅": 4,
+  "blockquote→∅": 3,
+  "table→table": 1,
+  "h4→h4": 2,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(table→table)": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 3
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 159,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[AOP]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 160,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Art or Propaganda?”(1928)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 161,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[CRASC]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 162,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“The Concept of Race as Applied to Social Culture” (1924)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 163,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[CRIP]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 164,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Cultural Relativism and Ideological Peace” (1944)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 165,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[FVVU]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 166,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“A Functional View of Value Ultimates” (1945)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 167,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[PID]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 168,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Pluralism and Intellectual Democracy” (1942)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 169,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[NN]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 170,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The New Negro (1925)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 171,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[VI]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 172,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Values and Imperatives” (1935)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 173,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[WWN]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 174,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Who and What Is “Negro”?” (1944)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 175,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Primary Literature"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 176,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  },
+  {
+   "kind": "replace",
+   "i": 162,
+   "j": 182,
+   "ratio": 0.9357798165137615,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Africana Philosophy | Dewey, John | Du Bois, W.E.B. | James, William | pragmatism | race | relativism | value theory",
+   "md_text": "Africana Philosophy Dewey, John Du Bois, W.E.B. James, William pragmatism race relativism value theory"
+  }
+ ],
+ "spot": [
+  {
+   "i": 45,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The next two concepts—basic equivalence and functional constancy—are perhaps best understood as two sides of a distinction between formal and functional equivalence. Basic equivalence refers to a similarity of form and functional constancy refers to a similarity in function. Basic equivalence is a formal resemblance owing to a corresponding value-mode. It is a similarity in the type of value, or better, being particular values of the same type. This notion rests on drawing a distinction between ",
+   "md_text": "The next two concepts—basic equivalence and functional constancy—are perhaps best understood as two sides of a distinction between formal and functional equivalence. Basic equivalence refers to a similarity of form and functional constancy refers to a similarity in function. Basic equivalence is a formal resemblance owing to a corresponding value-mode. It is a similarity in the type of value, or better, being particular values of the same type. This notion rests on drawing a distinction between "
+  },
+  {
+   "i": 33,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Modal Quality Value Type Value Predicates Value Polarity Positive Negative Exaltation: (Awe Worship) a. Introverted: Inner Ecstasy Religious Holy—Unholy Holiness Sin b. Extroverted: Religious Zeal Good—Evil Salvation Damnation Tension: (Conflict Choice) a. Inner Tension of “Conscience” Ethical Good—Bad Conscience Temptation b. Outer Tension of Duty Moral Right—Wrong Right Crime Acceptance or Agreement: (Curiosity—Intellectual Satisfaction) a. Inner Agreement in Thought Logical Truth Correct—Inco",
+   "md_text": "Modal Quality Value Type Value Predicates Value Polarity Positive Negative Exaltation: (Awe Worship) a. Introverted: Inner Ecstasy Religious Holy—Unholy Holiness Sin b. Extroverted: Religious Zeal Good—Evil Salvation Damnation Tension: (Conflict Choice) a. Inner Tension of “Conscience” Ethical Good—Bad Conscience Temptation b. Outer Tension of Duty Moral Right—Wrong Right Crime Acceptance or Agreement: (Curiosity—Intellectual Satisfaction) a. Inner Agreement in Thought Logical Truth Correct—Inco"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Alain LeRoy Locke",
+ "authors": [
+  "Carter, Jacoby Adeshei",
+  "Barnes, Corey"
+ ]
+}

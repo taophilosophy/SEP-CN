@@ -1,0 +1,252 @@
+{
+ "slug": "redistribution",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 66,
+ "n_md": 66,
+ "n_pairs": 43,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9994516040581299,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968454258675079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9969183359013868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995706311721769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998113919275745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985409979573971,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954597048808173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985888993414863,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994475138121547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9985096870342772,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987782529016493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979516591560835,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974811083123426,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996538594669436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976652116536392,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "再分配 redistribution (Christian Barry)",
+  "zh_h1": "再分配 redistribution (Christian Barry)",
+  "yuanwen_h1": "Redistribution",
+  "html_title": "Redistribution",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→∅": 20,
+  "p→p": 26,
+  "ol→∅": 2,
+  "ol→ol": 1,
+  "h3→h3": 3,
+  "h4→h4": 5,
+  "blockquote→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(ol→ol)": 2,
+  "merged×1(p→p)": 8,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 41,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Putting aside the manifest difficulties involved in characterizing the pattern of holdings that would obtain in these subjunctive baselines, would the fact that redistribution has occurred relative to any of them count for or against them as such? With respect to (1) and (2) the answer is ‘no.’ The mere fact that some policy change leads to a different pattern of holdings than would have obtained had it not been implemented provides no reason to reject it. Similarly, that a pattern of holdings d",
+   "md_text": "Putting aside the manifest difficulties involved in characterizing the pattern of holdings that would obtain in these subjunctive baselines, would the fact that redistribution has occurred relative to any of them count for or against them as such? With respect to (1) and (2) the answer is ‘no.’ The mere fact that some policy change leads to a different pattern of holdings than would have obtained had it not been implemented provides no reason to reject it. Similarly, that a pattern of holdings d"
+  },
+  {
+   "i": 12,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Among which (if any) subjects did the redistribution take place? Which (if any) baseline can be defined, of which the present distribution can be seen as a modification? Through which (if any) social mechanism was the redistribution brought about? Which (if any) goods have been redistributed?",
+   "md_text": "Among which (if any) subjects did the redistribution take place? Which (if any) baseline can be defined, of which the present distribution can be seen as a modification? Through which (if any) social mechanism was the redistribution brought about? Which (if any) goods have been redistributed?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Redistribution",
+ "authors": [
+  "Barry, Christian"
+ ]
+}

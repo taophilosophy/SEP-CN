@@ -1,0 +1,269 @@
+{
+ "slug": "recognition",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 62,
+ "n_md": 64,
+ "n_pairs": 20,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9996133522361129,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990069513406157,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992684711046086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994464433988375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987470914623232,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998849252013809,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988405443339232,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991341991341991,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987574833389812,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993665540540541,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991844928172636,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984806506390205,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9939024390243902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "承认 recognition (Mattias Iser)",
+  "zh_h1": "承认 recognition (Mattias Iser)",
+  "yuanwen_h1": "Recognition",
+  "html_title": "Recognition",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 5,
+  "h3→h3": 6,
+  "p→∅": 39,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 2,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "By contrast, because most theorists of recognition argue that recognition is a genuinely interpersonal endeavor, they conclude that only subjects of recognition can be proper objects of recognition. And to be a subject of recognition a person A must be able to realize that the other person B is free and equal and that this mutual recognition between A and B creates deontic constraints for both, so that they share a practice of moral accountability. At its margins, this narrow understanding of mu",
+   "md_text": "By contrast, because most theorists of recognition argue that recognition is a genuinely interpersonal endeavor, they conclude that only subjects of recognition can be proper objects of recognition. And to be a subject of recognition a person A must be able to realize that the other person B is free and equal and that this mutual recognition between A and B creates deontic constraints for both, so that they share a practice of moral accountability. At its margins, this narrow understanding of mu"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Recognition",
+ "authors": [
+  "Iser, Mattias"
+ ]
+}

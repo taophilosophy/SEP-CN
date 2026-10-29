@@ -1,0 +1,464 @@
+{
+ "slug": "anderson-john",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 109,
+ "n_md": 112,
+ "n_pairs": 49,
+ "n_flags": 6,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9990281827016521,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982817869415808,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995427526291724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990749306197965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996818326439707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992193598750976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993750781152356,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997690046199076,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992173232454996,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969543147208122,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9970845481049563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993131868131868,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987349778621126,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9948717948717949,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990455413144259,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981931668856767,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987264096329744,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982279976373302,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991920280096956,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987589202606267,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983170649612925,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.996415770609319,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9557109557109557,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰·安德森 Anderson, John (Creagh McLean Cole)",
+  "zh_h1": "约翰·安德森 Anderson, John (Creagh McLean Cole)",
+  "yuanwen_h1": "John Anderson",
+  "html_title": "John Anderson",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "figure→∅": 2,
+  "pubinfo→∅": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 29,
+  "p→∅": 51,
+  "blockquote→blockquote": 1,
+  "h3→h3": 9,
+  "table→∅": 1,
+  "ol→ol": 1,
+  "blockquote→∅": 4,
+  "ul→∅": 1,
+  "merged×1(p→p)": 9,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+table→p+p+table)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(figure→p)": 1,
+  "merged×6(blockquote+p+p+p+p+p→blockquote+p+p+p+p+p)": 1,
+  "merged×8(blockquote+p+p+p+p+p+p+p→blockquote+p+p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 0,
+   "j": 0,
+   "ratio": 0.39705882352941174,
+   "shape_h": "figure",
+   "shape_m": "h1",
+   "html_text": "John Anderson, c. 1926 University of Sydney Archives",
+   "md_text": "John Anderson First published Mon Oct 22, 2012; substantive revision Mon Nov 8, 2021"
+  },
+  {
+   "kind": "replace",
+   "i": 1,
+   "j": null,
+   "ratio": null,
+   "shape_h": "pubinfo",
+   "shape_m": null,
+   "html_text": "First published Mon Oct 22, 2012; substantive revision Mon Nov 8, 2021",
+   "md_text": null
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 100,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[EAP] Education and Politics, Sydney: Angus and Robertson, 1931. [EMP] Studies in Empirical Philosophy, Sydney: Angus and Robertson, 1962."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 101,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Selections published after his death"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 102,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[AAR] Art and Reality: John Anderson on Literature and Aesthetics, Janet Anderson, Graham Cullum and Kim Lycos (eds.), Sydney: Hale and Iremonger, 1982. [EAI] Education and Inquiry, D. Z. Phillips (ed.), Oxford: Basil Blackwell, 1980. [JAA] The John Anderson Archive, online archive of Anderson’s unpublished lectures and other works available at the University of Sydney Library. [LGP] Lectures on Greek Philosophy 1928, with an Introduction by Graham Cullum, Sydney: Sydney University Press, 2008. [LMP] Lectures on Modern Philosophy 1932–35: Hume, Reid, James, Sydney: Sydney University Press, 2008. [STC] Space, Time and the Categories: Lectures on Metaphysics 1949–50, with an Introduction by D. M. Armstrong, Sydney: Sydney University Press, 2007. [PFL] A Perilous and Fighting Life: the Politi"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 103,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  }
+ ],
+ "spot": [
+  {
+   "i": 2,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "John Anderson (1893–1962) was a Scottish philosopher who worked primarily in Australia. In 1927 he was appointed to the Challis Chair of Philosophy at the University of Sydney and occupied this position until his retirement in 1958. In relative isolation he developed a distinctive realist philosophy which was inspirational for generations of students at Sydney. While developing this position, he carried most of the teaching load in philosophy at the university, wrote the articles for which he is",
+   "md_text": "John Anderson (1893–1962) was a Scottish philosopher who worked primarily in Australia. In 1927 he was appointed to the Challis Chair of Philosophy at the University of Sydney and occupied this position until his retirement in 1958. In relative isolation he developed a distinctive realist philosophy which was inspirational for generations of students at Sydney. While developing this position, he carried most of the teaching load in philosophy at the university, wrote the articles for which he is"
+  },
+  {
+   "i": 44,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "“Many hands make light work” → A – All shared activities are lightened “You can’t make an omelette without breaking eggs” → E – No omelettes are things made without breaking eggs “It is by no means unusual to find adulteration in manufactured products” → I – Some manufactured products are adultered “His valour is greater than his discretion” → O – Some valourous activities of his are not discreet",
+   "md_text": "“Many hands make light work” → A – All shared activities are lightened “You can’t make an omelette without breaking eggs” → E – No omelettes are things made without breaking eggs “It is by no means unusual to find adulteration in manufactured products” → I – Some manufactured products are adultered “His valour is greater than his discretion” → O – Some valourous activities of his are not discreet"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "John Anderson",
+ "authors": [
+  "Cole, Creagh McLean"
+ ]
+}

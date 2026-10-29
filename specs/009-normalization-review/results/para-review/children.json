@@ -1,0 +1,222 @@
+{
+ "slug": "children",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 67,
+ "n_md": 67,
+ "n_pairs": 46,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9984251968503937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992260061919505,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9973502914679385,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986990459670425,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994121105232217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991489361702127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978779840848806,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992897727272727,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995581087052585,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994517543859649,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9930795847750865,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9705882352941176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "儿童哲学 children, philosophy for (Michael Pritchard)",
+  "zh_h1": "儿童哲学 children, philosophy for (Michael Pritchard)",
+  "yuanwen_h1": "Philosophy for Children",
+  "html_title": "Philosophy for Children",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 28,
+  "p→∅": 16,
+  "ul→ul": 2,
+  "blockquote→blockquote": 6,
+  "blockquote→∅": 3,
+  "ul→∅": 2,
+  "merged×1(p→p)": 5,
+  "merged×3(blockquote+p+ul→blockquote+p+ul)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "In the United States, philosophy typically makes its formal entry into the curriculum at the college level. A growing number of high schools offer some introduction to philosophy, often in special literature courses for college bound students. In Europe and many other countries, it is much more common to find philosophy in the high school curriculum. However, philosophy prior to high school seems relatively uncommon around the world. This may suggest that serious philosophical thinking is not fo",
+   "md_text": "In the United States, philosophy typically makes its formal entry into the curriculum at the college level. A growing number of high schools offer some introduction to philosophy, often in special literature courses for college bound students. In Europe and many other countries, it is much more common to find philosophy in the high school curriculum. However, philosophy prior to high school seems relatively uncommon around the world. This may suggest that serious philosophical thinking is not fo"
+  },
+  {
+   "i": 5,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "TIM (about six years), while busily engaged in licking a pot, asked, “Papa, how can we be sure that everything is not a dream?” (p. 1) JORDAN (five years), going to bed at eight one evening, asked, “If I go to bed at eight and get up at seven in the morning, how do I really know that the little hand of the clock has gone around only once? Do I have to stay up all night to watch it? If I look away even for a short time, maybe the small hand will go around twice.” (p. 3) One day JOHN EDGAR (four y",
+   "md_text": "TIM (about six years), while busily engaged in licking a pot, asked, “Papa, how can we be sure that everything is not a dream?” (p. 1) JORDAN (five years), going to bed at eight one evening, asked, “If I go to bed at eight and get up at seven in the morning, how do I really know that the little hand of the clock has gone around only once? Do I have to stay up all night to watch it? If I look away even for a short time, maybe the small hand will go around twice.” (p. 3) One day JOHN EDGAR (four y"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy for Children",
+ "authors": [
+  "Pritchard, Michael"
+ ]
+}

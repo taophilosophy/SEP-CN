@@ -1,0 +1,292 @@
+{
+ "slug": "territorial-rights",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 90,
+ "n_md": 91,
+ "n_pairs": 61,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9995707540420661,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999203187250996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995845450768591,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992885094272501,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994226327944573,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993734335839599,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995896594173164,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989414789051868,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979123173277662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999321343739396,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993753903810119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999458972046889,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995027349577325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994520547945206,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993319973279893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995289684408856,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988577955454027,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985372988785958,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "领土权利与领土正义 territorial rights and justice (Margaret Moore)",
+  "zh_h1": "领土权利与领土正义 territorial rights and justice (Margaret Moore)",
+  "yuanwen_h1": "Territorial Rights and Territorial Justice",
+  "html_title": "Territorial Rights and Territorial Justice",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "h3→h3": 13,
+  "p→∅": 26,
+  "p→p": 36,
+  "blockquote→∅": 2,
+  "blockquote→blockquote": 3,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 78,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A potentially more serious criticism is that, if an account is to genuinely place-based it is important to figure out what counts as a ‘place’ and how different places are distinguished; and both theories struggle with this. As argued above, both Nine and Ochoa Espejo argue that the geographical domain of jurisdictional authority should correspond either to ecological features of the world and the resources on which we rely, with water or rivers being a central example; or to the overlapping and",
+   "md_text": "A potentially more serious criticism is that, if an account is to genuinely place-based it is important to figure out what counts as a ‘place’ and how different places are distinguished; and both theories struggle with this. As argued above, both Nine and Ochoa Espejo argue that the geographical domain of jurisdictional authority should correspond either to ecological features of the world and the resources on which we rely, with water or rivers being a central example; or to the overlapping and"
+  },
+  {
+   "i": 87,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "On territory: Territory and Justice: a research network (University of Bristol) On secession: Liechtenstein Institute of Self-Determination (Princeton) On internal land/territory disputes: Native Land Digital On migration: Migration Data Portal",
+   "md_text": "On territory: Territory and Justice: a research network (University of Bristol) On secession: Liechtenstein Institute of Self-Determination (Princeton) On internal land/territory disputes: Native Land Digital On migration: Migration Data Portal"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Territorial Rights and Territorial Justice",
+ "authors": [
+  "Moore, Margaret"
+ ]
+}

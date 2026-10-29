@@ -1,0 +1,612 @@
+{
+ "slug": "heytesbury",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 133,
+ "n_md": 150,
+ "n_pairs": 61,
+ "n_flags": 0,
+ "n_merged": 40,
+ "merged": [
+  {
+   "ratio": 0.996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983136593591906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995049504950495,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9806451612903225,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950938927423448,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9985401459854014,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924812030075187,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9919420763751022,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956164383561644,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9929522317932654,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993103448275862,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9904030710172744,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "h4"
+   ],
+   "shape_m": [
+    "p",
+    "h4"
+   ]
+  },
+  {
+   "ratio": 0.9900452488687783,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926739926739927,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9883268482490273,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9833333333333333,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9882139619220308,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9910714285714286,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950035688793719,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998109640831758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9915682967959528,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953703703703703,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966178128523112,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951219512195122,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9973753280839895,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963588215822575,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938080495356038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991760505355671,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985569985569985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961712495649148,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994155464640561,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946268656716418,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974782852339591,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961612284069098,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955727725511898,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988571428571429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966128710898585,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.991869918699187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9962406015037594,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "威廉·海特斯伯里 Heytesbury, William (Miroslav Hanke and Elzbieta Jung)",
+  "zh_h1": "威廉·海特斯伯里 Heytesbury, William (Miroslav Hanke and Elzbieta Jung)",
+  "yuanwen_h1": "William Heytesbury",
+  "html_title": "William Heytesbury",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 47,
+  "p→p": 30,
+  "ul→ul": 4,
+  "h3→h3": 8,
+  "table→∅": 5,
+  "blockquote→blockquote": 6,
+  "ul→∅": 2,
+  "blockquote→∅": 6,
+  "h4→∅": 1,
+  "dl→∅": 10,
+  "h4→h4": 4,
+  "ol→∅": 1,
+  "merged×1(p→p)": 17,
+  "merged×4(p+p+p+table→p+p+p+p+table)": 1,
+  "merged×4(p+p+table+p→p+p+p+table+p)": 1,
+  "merged×7(p+p+ul+p+p+p+p→p+p+ul+p+p+p+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×2(p+h4→p+h4)": 1,
+  "merged×2(dl+p→p+p+p+p+p)": 1,
+  "merged×4(p+dl+p+dl→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 2,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×3(table+p+dl→p+table+p+p+p)": 1,
+  "merged×1(table→p+table)": 1,
+  "merged×2(table+p→p+table+p)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 121,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In the subsequent chapter dealing with qualitative changes, Heytesbury expresses the same concerns. He takes part in the debate over one of the most widely discussed problems in the fourteenth-century philosophy of nature focused on the possible “measure” of the intension and remission of forms. Like most of the Oxford Calculators, Heytesbury accepts Scotus’s and Ockham’s addition theory and assumes that the intension of form is the result of adding qualitative parts. As an Ockhamist, Heytesbury",
+   "md_text": "In the subsequent chapter dealing with qualitative changes, Heytesbury expresses the same concerns. He takes part in the debate over one of the most widely discussed problems in the fourteenth-century philosophy of nature focused on the possible “measure” of the intension and remission of forms. Like most of the Oxford Calculators, Heytesbury accepts Scotus’s and Ockham’s addition theory and assumes that the intension of form is the result of adding qualitative parts. As an Ockhamist, Heytesbury"
+  },
+  {
+   "i": 106,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "In the case under consideration both the velocity of Plato ( ⟦M⟧ ) and the velocity of Socrates ( ⟦M⟧ ) are infinitesimal for time t approaching zero. Two infinitesimals are said to be of different order if the limit of their quotient is either zero or infinite. In the case under consideration the limit of the quotient ⟦M⟧ as ⟦M⟧ is infinite. (Wilson 1960: 55)",
+   "md_text": "In the case under consideration both the velocity of Plato ( ⟦M⟧ ) and the velocity of Socrates ( ⟦M⟧ ) are infinitesimal for time t approaching zero. Two infinitesimals are said to be of different order if the limit of their quotient is either zero or infinite. In the case under consideration the limit of the quotient ⟦M⟧ as ⟦M⟧ is infinite. (Wilson 1960: 55)"
+  },
+  {
+   "i": 6,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Regulae solvendi sophismata [RSS] or Logica Sophismata [Soph] Sophismata asinina [SophAs] Iuxta hunc textum [IHT] or Consequentiae Heytesbury De sensu composito et diviso [SCD]",
+   "md_text": "Regulae solvendi sophismata [RSS] or Logica Sophismata [Soph] Sophismata asinina [SophAs] Iuxta hunc textum [IHT] or Consequentiae Heytesbury De sensu composito et diviso [SCD]"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "William Heytesbury",
+ "authors": [
+  "Hanke, Miroslav",
+  "Jung, Elzbieta"
+ ]
+}

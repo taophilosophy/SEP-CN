@@ -1,0 +1,276 @@
+{
+ "slug": "al-din-al-razi",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 75,
+ "n_md": 75,
+ "n_pairs": 16,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9980501121185532,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963975155279503,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970432946145723,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973340442548654,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997500297583621,
+   "n_h": 14,
+   "n_m": 14,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983704508419338,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987650162793309,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985399091499026,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9941176470588236,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9649122807017544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "法赫尔丁·拉齐 al-Razi, Fakhr al-Din (Peter Adamson and Fedor Benevich)",
+  "zh_h1": "法赫尔丁·拉齐 al-Razi, Fakhr al-Din (Peter Adamson and Fedor Benevich)",
+  "yuanwen_h1": "Fakhr al-Din al-Razi",
+  "html_title": "Fakhr al-Din al-Razi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 49,
+  "blockquote→∅": 9,
+  "p→p": 4,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×9(p+p+p+blockquote+p+p+p+p+p→p+p+p+blockquote+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+blockquote+p+p+blockquote→p+p+p+blockquote+p+p+blockquote)": 1,
+  "merged×5(p+p+p+blockquote+p→p+p+p+blockquote+p)": 1,
+  "merged×14(p+p+p+blockquote+p+p+p+p+p+blockquote+p+p+p+p→p+p+p+blockquote+p+p+p+p+p+blockquote+p+p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×7(blockquote+p+p+p+p+blockquote+p→blockquote+p+p+p+p+blockquote+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Fakhr al-Dīn al-Rāzī (1149–1210) was one of the most innovative and influential thinkers in the first stage of what is sometimes called “post-classical” Islamic thought. Along with other major thinkers of the Islamic East in the twelfth century, notably Abū l-Barakāt al-Baghdādī and al-Suhrawardī, Fakhr al-Dīn reacted critically to the philosophy of Ibn Sīnā (Avicenna). He produced a voluminous corpus that is often elusive in terms of conveying Fakhr al-Dīn’s own considered opinions, but is pack",
+   "md_text": "Fakhr al-Dīn al-Rāzī (1149–1210) was one of the most innovative and influential thinkers in the first stage of what is sometimes called “post-classical” Islamic thought. Along with other major thinkers of the Islamic East in the twelfth century, notably Abū l-Barakāt al-Baghdādī and al-Suhrawardī, Fakhr al-Dīn reacted critically to the philosophy of Ibn Sīnā (Avicenna). He produced a voluminous corpus that is often elusive in terms of conveying Fakhr al-Dīn’s own considered opinions, but is pack"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Fakhr al-Din al-Razi",
+ "authors": [
+  "Adamson, Peter",
+  "Benevich, Fedor"
+ ]
+}

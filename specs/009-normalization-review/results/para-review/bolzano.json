@@ -1,0 +1,641 @@
+{
+ "slug": "bolzano",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 189,
+ "n_md": 195,
+ "n_pairs": 125,
+ "n_flags": 5,
+ "n_merged": 43,
+ "merged": [
+  {
+   "ratio": 0.9997483010319658,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989308624376336,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985528219971056,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977487618190004,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981524249422633,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998758149642968,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9969410825907701,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963746223564954,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988652942130005,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.997934540832539,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994597514856834,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988009592326139,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993975903614458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992695398100804,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984928409947249,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994717379820391,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998972250770812,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963808025177026,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985666507405638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992201715622563,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987154784842646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992581602373887,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979577944179714,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962037962037962,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987865713900499,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979381443298969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984118581259925,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995657837603127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999702646446625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983471074380166,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993357688475589,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993622448979592,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995056846267919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992902767920511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990616202690021,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990592662276576,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969230769230769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984326018808778,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995355318160706,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9922480620155039,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "伯恩哈德·波尔查诺 Bolzano, Bernard (Edgar Morscher)",
+  "zh_h1": "伯恩哈德·波尔查诺 Bolzano, Bernard (Edgar Morscher)",
+  "yuanwen_h1": "Bernard Bolzano",
+  "html_title": "Bernard Bolzano",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 16,
+  "p→p": 73,
+  "p→∅": 58,
+  "h3→h3": 24,
+  "ol→∅": 2,
+  "blockquote→blockquote": 9,
+  "blockquote→∅": 2,
+  "table→table": 1,
+  "ol→ol": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(p→p)": 24,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 183,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[BGA] Bernard-Bolzano-Gesamtausgabe, with a Roman numeral for the series and Arabic numerals for the volumes; if a volume consists of two or more parts, the reference to them will appear after a dash in Arabic numerals. The BGA is published by Friedrich Frommann Verlag–Günther Holzboog in Stuttgart-Bad Cannstatt. [RW] Bolzano 1834, with Roman numerals for the volumes and Arabic numerals for the pages of the original edition. [WL] Bolzano 1837, with Roman numerals for the volumes and Arabic numerals for the pages of the original edition. [BBF] Beiträge zur Bolzano-Forschung, 28 volumes so far. The BBF are published by Academia Verlag in Sankt Augustin and edited by Edgar Morscher and Otto Neumaier; from vol.23 on: edited by Winfried Löffler and Otto Neumaier. [E] English translation (or edi"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 184,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Bolzano’s Writings"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 185,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "(1804) Betrachtungen über einige Gegenstände der Elementargeometrie, Prague: Karl Barth; E: “Considerations on Some Objects of Elementary Geometry”, in Russ 2004, 25–81. (1810) Beyträge zu einer begründeteren Darstellung der Mathematik. Erste Lieferung, Prague: Caspar Widtmann; reprint: Darmstadt: Wissenschaftliche Buchgesellschaft, 1974; E: “Contributions to a Better-Grounded Presentation of Mathematics”, in Russ 2004, 83–137. (1813) Erbauungsreden für Akademiker, Prague: Caspar Widtmann; BGA I, 2; 2nd improved and enlarged edition: Sulzbach: J. E. v. Seidel, 1839. (1817) Rein analytischer Beweis des Lehrsatzes, dass zwischen je zwey Werthen, die ein entgegengesetztes Resultat gewähren, wenigstens eine reelle Wurzel der Gleichung liege, Prague: Gottlieb Haase; reprints: 1894 and 1905; E: "
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 186,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  },
+  {
+   "kind": "replace",
+   "i": 186,
+   "j": 192,
+   "ratio": 0.9468085106382979,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "analysis | Bolzano, Bernard: logic | Frege, Gottlob | Husserl, Edmund | logical consequence | logical truth | model theory | phenomenology | propositions | set theory | set theory: early development",
+   "md_text": "analysis Bolzano, Bernard: logic Frege, Gottlob Husserl, Edmund logical consequence logical truth model theory phenomenology propositions set theory set theory: early development"
+  }
+ ],
+ "spot": [
+  {
+   "i": 49,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The basic insight underlying Bolzano’s method of idea-variation is quite simple (WL II, 77 ff.). Let us take as our first example ⟦M⟧ the proposition [Kant is a German philosopher]. (In order to simplify matters linguistically, we do not adhere to Bolzano’s formulation ‘ ⟦M⟧ has ⟦M⟧ ’ but will allow also formulations of the kind ‘ ⟦M⟧ is (a) ⟦M⟧ ’. Moreover, we will take in what follows words like ‘German’, ‘French’, ‘European’, ‘American’ etc. in the sense of ‘born in Germany’, ‘born in France’",
+   "md_text": "The basic insight underlying Bolzano’s method of idea-variation is quite simple (WL II, 77 ff.). Let us take as our first example ⟦M⟧ the proposition [Kant is a German philosopher]. (In order to simplify matters linguistically, we do not adhere to Bolzano’s formulation ‘ ⟦M⟧ has ⟦M⟧ ’ but will allow also formulations of the kind ‘ ⟦M⟧ is (a) ⟦M⟧ ’. Moreover, we will take in what follows words like ‘German’, ‘French’, ‘European’, ‘American’ etc. in the sense of ‘born in Germany’, ‘born in France’"
+  },
+  {
+   "i": 29,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In what follows brackets will be used for the denotation of propositions and ideas. Thus ‘[Socrates has wisdom]’ will denote the proposition expressed by the words ‘Socrates has wisdom’, and ‘[Socrates]’ and ‘[wisdom]’ will denote the ideas expressed by the words ‘Socrates’ and ‘wisdom’, respectively. (Such a notation is not without problems, but this is not the place to discuss them.) Bolzano starts his analysis of propositions by proclaiming the traditional subject-predicate view as a dogma: D",
+   "md_text": "In what follows brackets will be used for the denotation of propositions and ideas. Thus ‘[Socrates has wisdom]’ will denote the proposition expressed by the words ‘Socrates has wisdom’, and ‘[Socrates]’ and ‘[wisdom]’ will denote the ideas expressed by the words ‘Socrates’ and ‘wisdom’, respectively. (Such a notation is not without problems, but this is not the place to discuss them.) Bolzano starts his analysis of propositions by proclaiming the traditional subject-predicate view as a dogma: D"
+  },
+  {
+   "i": 129,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(P1) It is not the case that ⟦M⟧ ought to will to do ⟦M⟧ and ⟦M⟧ ought not to will to do ⟦M⟧ . (P2) If ⟦M⟧ ought to will to do ⟦M⟧ , then ⟦M⟧ is permitted to will to do ⟦M⟧ . (P3) If ⟦M⟧ ought to will to do ⟦M⟧ and ⟦M⟧ ought to will to do ⟦M⟧ , then ⟦M⟧ ought to will to do ⟦M⟧ and ⟦M⟧ . (P4) If ⟦M⟧ ought to will to do ⟦M⟧ , then ⟦M⟧ can will to do ⟦M⟧ . (P5) If ⟦M⟧ ought to will to do ⟦M⟧ and willing to do ⟦M⟧ entails willing to do ⟦M⟧ , then ⟦M⟧ ought to will to do ⟦M⟧ .",
+   "md_text": "(P1) It is not the case that ⟦M⟧ ought to will to do ⟦M⟧ and ⟦M⟧ ought not to will to do ⟦M⟧ . (P2) If ⟦M⟧ ought to will to do ⟦M⟧ , then ⟦M⟧ is permitted to will to do ⟦M⟧ . (P3) If ⟦M⟧ ought to will to do ⟦M⟧ and ⟦M⟧ ought to will to do ⟦M⟧ , then ⟦M⟧ ought to will to do ⟦M⟧ and ⟦M⟧ . (P4) If ⟦M⟧ ought to will to do ⟦M⟧ , then ⟦M⟧ can will to do ⟦M⟧ . (P5) If ⟦M⟧ ought to will to do ⟦M⟧ and willing to do ⟦M⟧ entails willing to do ⟦M⟧ , then ⟦M⟧ ought to will to do ⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Bernard Bolzano",
+ "authors": [
+  "Morscher, Edgar"
+ ]
+}

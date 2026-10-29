@@ -1,0 +1,191 @@
+{
+ "slug": "natphil-ren",
+ "letter": "n",
+ "state": "ok",
+ "n_html": 49,
+ "n_md": 49,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9996349032493611,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988249118683902,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996760609005507,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977477477477478,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991070542712571,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "h2",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987741342323015,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995425434583715,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996046910001317,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992647659504943,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)",
+  "zh_h1": "文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)",
+  "yuanwen_h1": "Natural Philosophy in the Renaissance",
+  "html_title": "Natural Philosophy in the Renaissance",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 14,
+  "h3→h3": 6,
+  "p→∅": 16,
+  "h2→∅": 1,
+  "h4→h4": 2,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×4(h2+p+p+p→h2+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Renaissance natural philosophy defies easy definition, since descriptions of it may oversimplify, either by reducing it to its connections with medieval science or, alternatively, forcing it into a teleology that culminates in the Scientific Revolution of the seventeenth century. Hence, there have been two opposing tendencies in scholarship: one which conflates the natural philosophy of the fifteenth and sixteenth centuries with the variety practiced in the Middle Ages, even going so far as to i",
+   "md_text": "Renaissance natural philosophy defies easy definition, since descriptions of it may oversimplify, either by reducing it to its connections with medieval science or, alternatively, forcing it into a teleology that culminates in the Scientific Revolution of the seventeenth century. Hence, there have been two opposing tendencies in scholarship: one which conflates the natural philosophy of the fifteenth and sixteenth centuries with the variety practiced in the Middle Ages, even going so far as to i"
+  },
+  {
+   "i": 46,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The Galileo Project Biblioteche dei filosofi (in Italian)",
+   "md_text": "The Galileo Project Biblioteche dei filosofi (in Italian)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Natural Philosophy in the Renaissance",
+ "authors": [
+  "Del Soldato, Eva"
+ ]
+}

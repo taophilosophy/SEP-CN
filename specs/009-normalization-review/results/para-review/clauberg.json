@@ -1,0 +1,480 @@
+{
+ "slug": "clauberg",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 115,
+ "n_md": 116,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 29,
+ "merged": [
+  {
+   "ratio": 0.9996899224806202,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983831851253031,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980781550288277,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977653631284916,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989648033126294,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987408713170486,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990462565569862,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989644459785986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976567884217781,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951818838834016,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990810512773387,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976610674037848,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982872522632737,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991071428571429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981538461538462,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979533360622186,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989788475565281,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981433345711103,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975165562913907,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928057553956835,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974853310980721,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940229885057471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978534191965654,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9929232444202504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981718464351006,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977924944812362,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970396684428656,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9615384615384616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰内斯·克劳伯格 Johannes Clauberg (Hamid, Nabeel)",
+  "zh_h1": "约翰内斯·克劳伯格 Johannes Clauberg (Hamid, Nabeel)",
+  "yuanwen_h1": "Johannes Clauberg",
+  "html_title": "Johannes Clauberg",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 51,
+  "blockquote→∅": 22,
+  "h3→h3": 12,
+  "ol→ol": 1,
+  "p→p": 18,
+  "blockquote→blockquote": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×7(p+p+p+p+p+blockquote+p→p+p+p+p+p+blockquote+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×5(p+p+blockquote+p+p→p+p+blockquote+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 3,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×6(p+blockquote+p+blockquote+p+p→p+blockquote+p+blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×6(p+p+blockquote+p+p+blockquote→p+p+blockquote+p+p+blockquote)": 1,
+  "merged×9(p+p+blockquote+p+p+p+blockquote+p+blockquote→p+p+blockquote+p+p+p+blockquote+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 91,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Accordingly, some commentators have sought to clarify Clauberg’s positive account of the mind-body problem by turning to his general theory of causation. Platt (2020: 137–65) attributes to Clauberg a full-blown interactionist account of the mind-body relation. His argument rests on the claim that Clauberg revised his theory of efficient causation between the first and the later editions of his ontology. Whereas in the first edition, he defined cause narrowly in terms of production, in the 1660s ",
+   "md_text": "Accordingly, some commentators have sought to clarify Clauberg’s positive account of the mind-body problem by turning to his general theory of causation. Platt (2020: 137–65) attributes to Clauberg a full-blown interactionist account of the mind-body relation. His argument rests on the claim that Clauberg revised his theory of efficient causation between the first and the later editions of his ontology. Whereas in the first edition, he defined cause narrowly in terms of production, in the 1660s "
+  },
+  {
+   "i": 18,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "“Teaching the correct manner of forming one’s thoughts in perception, judgment, and memory” (genetic, internal) “How to explain one’s thoughts to others in accordance with reason” (genetic, external) “Concerning the search for the true meaning of the obscure phrase” (analytic, external) “Where concepts, definitions, divisions, the order of thoughts, judgments, propositions, questions, proofs, and arguments of people are weighed on the scales of right reason” (analytic, internal)",
+   "md_text": "“Teaching the correct manner of forming one’s thoughts in perception, judgment, and memory” (genetic, internal) “How to explain one’s thoughts to others in accordance with reason” (genetic, external) “Concerning the search for the true meaning of the obscure phrase” (analytic, external) “Where concepts, definitions, divisions, the order of thoughts, judgments, propositions, questions, proofs, and arguments of people are weighed on the scales of right reason” (analytic, internal)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Johannes Clauberg",
+ "authors": [
+  "Hamid, Nabeel"
+ ]
+}

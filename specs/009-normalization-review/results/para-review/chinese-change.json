@@ -1,0 +1,506 @@
+{
+ "slug": "chinese-change",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 122,
+ "n_md": 141,
+ "n_pairs": 53,
+ "n_flags": 2,
+ "n_merged": 29,
+ "merged": [
+  {
+   "ratio": 0.9992453865678809,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991582491582491,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993031358885017,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963129864809505,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984591679506933,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987849331713244,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972067039106145,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985702030311696,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987684729064039,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987244897959183,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998849252013809,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992173232454996,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973715651135006,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994209612044007,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970506308372932,
+   "n_h": 10,
+   "n_m": 22,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99789283564118,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983593109105825,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983566146261298,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989785495403473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998766954377312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985040119679043,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993658845909955,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993390614672836,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985632183908046,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978336943842693,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986621079232942,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986091794158554,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997093023255814,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中国易经哲学 philosophy of change (Tze-Ki Hon)",
+  "zh_h1": "中国易经哲学 philosophy of change (Tze-Ki Hon)",
+  "yuanwen_h1": "Chinese Philosophy of Change (Yijing)",
+  "html_title": "Chinese Philosophy of Change (Yijing)",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 7,
+  "p→p": 28,
+  "p→∅": 60,
+  "blockquote→blockquote": 9,
+  "blockquote→∅": 6,
+  "figure→∅": 1,
+  "table→table": 1,
+  "ul→ul": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×2(p+p→p+p)": 6,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×7(p+blockquote+p+p+p+blockquote+p→p+blockquote+p+p+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×10(p+p+p+p+p+p+p+figure+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 119,
+   "j": 138,
+   "ratio": 0.9004149377593361,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Changes Dao , contains useful links to Changes studies. Bibliography of Changes studies , compiled by Professor Richard Smith. Studies of Zhouyi journal [Zhouyi yanjiu] ; some of the articles are translated into English.",
+   "md_text": "Changes Dao, contains useful links to Changes studies. Bibliography of Changes studies, compiled by Professor Richard Smith. [Studies of Zhouyi journal [Zhouyi yanjiu]](https://zhouyi.sdu.edu.cn/en/Journals.htm); some of the articles are translated into English."
+  },
+  {
+   "kind": "replace",
+   "i": 121,
+   "j": 140,
+   "ratio": 0.918918918918919,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Confucius | Daoism | Neo-Daoism | Zhu Xi",
+   "md_text": "Confucius Daoism Neo-Daoism Zhu Xi"
+  }
+ ],
+ "spot": [
+  {
+   "i": 23,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To highlight the danger of hubris, the authors of Tuan zhuan 彖傳 (Commentary on the Decision, one of the Ten Wings), emphasize the importance of creatively and continuously assuming the positions of the six dragons in response to the challenges in daily life (for a translation of the Tuan zhuan statement, see WB67: 370–72). By taking up all six positions of the six dragons, the authors of Tuan Zhuan mean two things. First, they view Qian not as a structure of six discrete steps starting from the ",
+   "md_text": "To highlight the danger of hubris, the authors of Tuan zhuan 彖傳 (Commentary on the Decision, one of the Ten Wings), emphasize the importance of creatively and continuously assuming the positions of the six dragons in response to the challenges in daily life (for a translation of the Tuan zhuan statement, see WB67: 370–72). By taking up all six positions of the six dragons, the authors of Tuan Zhuan mean two things. First, they view Qian not as a structure of six discrete steps starting from the "
+  },
+  {
+   "i": 69,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Fu ䷗ the eleventh month Lin ䷒ the twelfth month Tai ䷊ the first month of the following year Dazhuang ䷡ the second month Guai ䷪ the third month Qian ䷀ the fourth month Gou ䷫ the fifth month Dun ䷠ the sixth month Pi ䷋ the seventh month Guan ䷓ the eighth month Bo ䷖ the ninth month Kun ䷁ the tenth month",
+   "md_text": "Fu ䷗ the eleventh month Lin ䷒ the twelfth month Tai ䷊ the first month of the following year Dazhuang ䷡ the second month Guai ䷪ the third month Qian ䷀ the fourth month Gou ䷫ the fifth month Dun ䷠ the sixth month Pi ䷋ the seventh month Guan ䷓ the eighth month Bo ䷖ the ninth month Kun ䷁ the tenth month"
+  }
+ ],
+ "supplements": [
+  "appendix.html"
+ ],
+ "meta_title": "Chinese Philosophy of Change (Yijing)",
+ "authors": [
+  "Hon, Tze-Ki"
+ ]
+}

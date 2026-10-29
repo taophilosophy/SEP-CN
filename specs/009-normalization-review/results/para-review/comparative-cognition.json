@@ -1,0 +1,452 @@
+{
+ "slug": "comparative-cognition",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 115,
+ "n_md": 116,
+ "n_pairs": 67,
+ "n_flags": 0,
+ "n_merged": 32,
+ "merged": [
+  {
+   "ratio": 0.997943797121316,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993838570548367,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953831948291783,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992609016999261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988260154965954,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989871708305199,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999198717948718,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987080103359173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991442752010953,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995750106247344,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993626513702996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990558912386707,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990990990990991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984623270117888,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989615784008308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985082048731975,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992107340173638,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994946942900454,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995573262505534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993690851735015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983183856502242,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988014382740711,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980372914622179,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988045427375971,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996643168848607,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988776655443322,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990968907237776,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996027016289233,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985380116959064,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9571788413098237,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "比较认知学方法 comparative cognition, methods in (Marta Halina)",
+  "zh_h1": "比较认知学方法 comparative cognition, methods in (Marta Halina)",
+  "yuanwen_h1": "Methods in Comparative Cognition",
+  "html_title": "Methods in Comparative Cognition",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 44,
+  "blockquote→blockquote": 22,
+  "p→p": 22,
+  "h3→h3": 14,
+  "figure→p": 1,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×1(p→p+p)": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 57,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "It is worth noting that not all accounts of Morgan’s Canon characterize it as a simplicity principle. For example, Simon Fitzpatrick and Grant Goodrich (2017) argue that when one looks at Conwy Lloyd Morgan’s own formulation of the canon, it does not take the form of a simplicity principle. Indeed, Morgan explicitly rejected simplicity as a criterion for choosing between competing explanations. Instead, he held that one should choose the explanation that best coheres with our observations and br",
+   "md_text": "It is worth noting that not all accounts of Morgan’s Canon characterize it as a simplicity principle. For example, Simon Fitzpatrick and Grant Goodrich (2017) argue that when one looks at Conwy Lloyd Morgan’s own formulation of the canon, it does not take the form of a simplicity principle. Indeed, Morgan explicitly rejected simplicity as a criterion for choosing between competing explanations. Instead, he held that one should choose the explanation that best coheres with our observations and br"
+  },
+  {
+   "i": 9,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. Distantly related organisms may share similar cognitive abilities because they face similar socioecological selection pressures over evolutionary time. Image adapted from Schnell, Amodio, Boeckle, and Clayton (2021b: 4). [An extended description of figure 1 is in the supplement.]",
+   "md_text": "Figure 1. Distantly related organisms may share similar cognitive abilities because they face similar socioecological selection pressures over evolutionary time. Image adapted from Schnell, Amodio, Boeckle, and Clayton (2021b: 4). [An extended description of figure 1 is in the supplement.]"
+  }
+ ],
+ "supplements": [
+  "figdesc.html"
+ ],
+ "meta_title": "Methods in Comparative Cognition",
+ "authors": [
+  "Halina, Marta"
+ ]
+}

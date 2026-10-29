@@ -1,0 +1,231 @@
+{
+ "slug": "alexander-aphrodisias",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 45,
+ "n_md": 45,
+ "n_pairs": 16,
+ "n_flags": 1,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9996488764044944,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991212653778558,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960655737704918,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989860068951532,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987955435109906,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990850869167429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983874218907478,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987237921604376,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987808790503689,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999429982899487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9947643979057592,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede and Marije Martijn)",
+  "zh_h1": "阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede and Marije Martijn)",
+  "yuanwen_h1": "Alexander of Aphrodisias",
+  "html_title": "Alexander of Aphrodisias",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "h3→h3": 2,
+  "p→∅": 26,
+  "p→p": 3,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 44,
+   "j": 44,
+   "ratio": 0.9448275862068966,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aristotelianism: in the Renaissance | Aristotle | Aristotle, commentators on | Elias | Plato | Platonism: in metaphysics | Plotinus | Porphyry | Stoicism",
+   "md_text": "Aristotelianism: in the Renaissance Aristotle Aristotle, commentators on Elias Plato Platonism: in metaphysics Plotinus Porphyry Stoicism"
+  }
+ ],
+ "spot": [
+  {
+   "i": 16,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As his commentaries on Aristotle’s logical works show, Alexander was fully familiar with the development of logic after Aristotle, under Theophrastus and the Stoics. On the whole, he presents the Aristotelian kind of logic as the obviously right one, treating the Stoic approach as wrong-headed. When he confronts problems in Aristotle’s syllogistic he sometimes expresses bafflement, and indicates the difficulties or even inconsistencies he sees in the text. But he usually tries to smooth them ove",
+   "md_text": "As his commentaries on Aristotle’s logical works show, Alexander was fully familiar with the development of logic after Aristotle, under Theophrastus and the Stoics. On the whole, he presents the Aristotelian kind of logic as the obviously right one, treating the Stoic approach as wrong-headed. When he confronts problems in Aristotle’s syllogistic he sometimes expresses bafflement, and indicates the difficulties or even inconsistencies he sees in the text. But he usually tries to smooth them ove"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Alexander of Aphrodisias",
+ "authors": [
+  "Frede, Dorothea",
+  "Martijn, Marije"
+ ]
+}

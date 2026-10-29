@@ -1,0 +1,294 @@
+{
+ "slug": "logic-fuzzy",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 74,
+ "n_md": 77,
+ "n_pairs": 47,
+ "n_flags": 1,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9987919787388259,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983324068927182,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977011494252873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983633387888707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943977591036415,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996098322278579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984118581259925,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987113402061856,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993761696818465,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998019801980198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962825278810409,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999628666914222,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965095986038395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975728155339806,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9971902937420178,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9917355371900827,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "模糊逻辑 fuzzy (Petr Cintula, Christian G. Fermüller, and Carles Noguera)",
+  "zh_h1": "模糊逻辑 fuzzy (Petr Cintula, Christian G. Fermüller, and Carles Noguera)",
+  "yuanwen_h1": "Fuzzy Logic",
+  "html_title": "Fuzzy Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 13,
+  "p→p": 26,
+  "p→∅": 23,
+  "p→mathblock": 2,
+  "ul→ul": 5,
+  "ul→∅": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 56,
+   "j": 59,
+   "ratio": 0.5320813771517997,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For each atomic formula there is a corresponding experiment which may either fail or succeed, but may show dispersion, i.e., it may yield different results when repeated. A fixed failure probability, called risk value, is assigned to each experiment and thus to each atomic formula. The players have to pay ⟦M⟧ 1 to the other player for each of their atomic assertion where the associated experiments fails. For any game starting with my assertion of ⟦M⟧ my expected overall loss of money, if we both play rationally, can be shown to correspond to the inverse of the truth-value of ⟦M⟧ evaluated in an interpretation of Łukasiewicz logic that assigns the inverse of the risk values as truth-values to atomic formulas. In particular, a formula is valid in Łukasiewicz logic if and only if, for every r",
+   "md_text": "For each atomic formula there is a corresponding experiment which may either fail or succeed, but may show dispersion, i.e., it may yield different results when repeated. A fixed failure probability, called risk value, is assigned to each experiment and thus to each atomic formula. The players have to pay ⟦M⟧ ⟦M⟧ \\varphi ⟦M⟧ \\varphi ⟦M⟧ 0$ or negative."
+  }
+ ],
+ "spot": [
+  {
+   "i": 28,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The propositional logic MTL can be given a first-order counterpart MTL ⟦M⟧ in a predicate language ⟦M⟧ (defined as in the classical case) in the following way. The semantics is given by structures in which predicate symbols are interpreted as functions mapping tuples of domain elements into truth-values. More precisely, given a left-continuous t-norm ⟦M⟧ , a ⟦M⟧ -structure ⟦M⟧ consists of a non-empty domain of elements ⟦M⟧ , a function ⟦M⟧ for each ⟦M⟧ -ary function symbol ⟦M⟧ , and a function ⟦",
+   "md_text": "The propositional logic MTL can be given a first-order counterpart MTL ⟦M⟧ in a predicate language ⟦M⟧ (defined as in the classical case) in the following way. The semantics is given by structures in which predicate symbols are interpreted as functions mapping tuples of domain elements into truth-values. More precisely, given a left-continuous t-norm ⟦M⟧ , a ⟦M⟧ -structure ⟦M⟧ consists of a non-empty domain of elements ⟦M⟧ , a function ⟦M⟧ for each ⟦M⟧ -ary function symbol ⟦M⟧ , and a function ⟦"
+  },
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The standard set of truth-values for fuzzy logics is the real unit interval ⟦M⟧ with its natural ordering ⟦M⟧ , ranging from total falsity (represented by ⟦M⟧ ) to total truth (represented by ⟦M⟧ ) through a continuum of intermediate degrees of truth (see Sections 5 and 7 for alternative interpretations of truth constants and alternative sets of truth-values). A fundamental assumption of (mainstream) mathematical fuzzy logic is that connectives are to be interpreted truth-functionally over the s",
+   "md_text": "The standard set of truth-values for fuzzy logics is the real unit interval ⟦M⟧ with its natural ordering ⟦M⟧ , ranging from total falsity (represented by ⟦M⟧ ) to total truth (represented by ⟦M⟧ ) through a continuum of intermediate degrees of truth (see Sections 5 and 7 for alternative interpretations of truth constants and alternative sets of truth-values). A fundamental assumption of (mainstream) mathematical fuzzy logic is that connectives are to be interpreted truth-functionally over the s"
+  },
+  {
+   "i": 31,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "(P) The first-order instances of the axioms of MTL ⟦M⟧ ⟦M⟧ , where the term ⟦M⟧ is substitutable for ⟦M⟧ in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where the term ⟦M⟧ is substitutable for ⟦M⟧ in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ .",
+   "md_text": "(P) The first-order instances of the axioms of MTL ⟦M⟧ ⟦M⟧ , where the term ⟦M⟧ is substitutable for ⟦M⟧ in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where the term ⟦M⟧ is substitutable for ⟦M⟧ in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ ."
+  }
+ ],
+ "supplements": [
+  "readings-by-topic.html"
+ ],
+ "meta_title": "Fuzzy Logic",
+ "authors": [
+  "Cintula, Petr",
+  "Fermüller, Christian G.",
+  "Noguera, Carles"
+ ]
+}

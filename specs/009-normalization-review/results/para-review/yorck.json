@@ -1,0 +1,383 @@
+{
+ "slug": "yorck",
+ "letter": "y",
+ "state": "ok",
+ "n_html": 94,
+ "n_md": 94,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9980911983032874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986737400530504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996996996996997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946949602122016,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959183673469387,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946380697050938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981459632563627,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945945945945946,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9967332123411978,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973737963233148,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975136747886624,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9891774891774892,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9921568627450981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.990906335253107,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9915730337078652,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9921875,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955947136563876,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9912663755458515,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970457902511078,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941153393487642,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9929906542056075,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9962825278810409,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996343983468447,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "保罗·约克·冯·瓦滕堡伯爵 Yorck von Wartenburg, Count Paul (Ingo Farin)",
+  "zh_h1": "保罗·约克·冯·瓦滕堡伯爵 Yorck von Wartenburg, Count Paul (Ingo Farin)",
+  "yuanwen_h1": "Count Paul Yorck von Wartenburg",
+  "html_title": "Count Paul Yorck von Wartenburg",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 24,
+  "p→∅": 35,
+  "blockquote→∅": 17,
+  "blockquote→blockquote": 5,
+  "h3→h3": 2,
+  "h4→h4": 3,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×1(blockquote→blockquote)": 9,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×6(p+p+p+p+blockquote+p→p+p+p+p+blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×4(p+blockquote+p+blockquote→p+blockquote+p+blockquote)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×7(p+p+p+blockquote+p+p+blockquote→p+p+p+blockquote+p+p+blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 74,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The unfinished character of Yorck’s manuscript is apparent especially in these passages, for there is no further exploration or exposition of the Jewish world (let alone anything like a justification for the juxtaposition of the Jewish world with the Roman period). Yorck’s comments concerning the Roman world are likewise very sketchy at best. Although Yorck positions the Romans as a world-historical people of the will, he does not do much more than to refer to the popular notion of the “imperial",
+   "md_text": "The unfinished character of Yorck’s manuscript is apparent especially in these passages, for there is no further exploration or exposition of the Jewish world (let alone anything like a justification for the juxtaposition of the Jewish world with the Roman period). Yorck’s comments concerning the Roman world are likewise very sketchy at best. Although Yorck positions the Romans as a world-historical people of the will, he does not do much more than to refer to the popular notion of the “imperial"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Count Paul Yorck von Wartenburg",
+ "authors": [
+  "Farin, Ingo"
+ ]
+}

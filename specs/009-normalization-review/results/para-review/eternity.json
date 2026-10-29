@@ -1,0 +1,601 @@
+{
+ "slug": "eternity",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 160,
+ "n_md": 206,
+ "n_pairs": 97,
+ "n_flags": 0,
+ "n_merged": 39,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995105237395986,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984848484848485,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998630762209037,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990205680705191,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986007462686567,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990749306197965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996116504854369,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993044284720612,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965397923875432,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992531740104555,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989023051591658,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991645781119465,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987212276214834,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993510707332901,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974259974259975,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945945945945946,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992242048099301,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978632478632479,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 14,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998589562764457,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 14,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993932038834952,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 14,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975961538461539,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990069513406157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987389659520807,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991508632889895,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989228007181329,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980732177263969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980952380952381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984623270117888,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9900076863950807,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9616613418530351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "基督教思想中的永恒 eternity, in Christian thought (Natalja Deng)",
+  "zh_h1": "基督教思想中的永恒 eternity, in Christian thought (Natalja Deng)",
+  "yuanwen_h1": "Eternity in Christian Thought",
+  "html_title": "Eternity in Christian Thought",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 59,
+  "p→∅": 53,
+  "h3→h3": 12,
+  "blockquote→∅": 4,
+  "h4→h4": 7,
+  "ol→ol": 1,
+  "blockquote→blockquote": 6,
+  "dl→∅": 4,
+  "ul→ul": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×1(p→p)": 18,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 3,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 148,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Consider questions about the nature of propositions, mathematical objects, or other abstracta. Perhaps these are atemporal entities, existing outside of time/spacetime, and not standing in any spatiotemporal relations to other entities. What sorts of considerations might bear on whether they are or not? Take propositions, the true or false things sentences express. Take a sentence that changes its truth-value over time (e.g., “It’s sunny”). Does such a sentence express different propositions at ",
+   "md_text": "Consider questions about the nature of propositions, mathematical objects, or other abstracta. Perhaps these are atemporal entities, existing outside of time/spacetime, and not standing in any spatiotemporal relations to other entities. What sorts of considerations might bear on whether they are or not? Take propositions, the true or false things sentences express. Take a sentence that changes its truth-value over time (e.g., “It’s sunny”). Does such a sentence express different propositions at "
+  },
+  {
+   "i": 46,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Let “ ⟦M⟧ ” and “ ⟦M⟧ ” range over entities and events. […] (ET) For every ⟦M⟧ and every ⟦M⟧ , ⟦M⟧ and ⟦M⟧ are ET-simultaneous if and only if: i. either ⟦M⟧ is eternal and ⟦M⟧ is temporal, or vice versa; and ii. for some observer, ⟦M⟧ , in the unique eternal reference frame, ⟦M⟧ and ⟦M⟧ are both present—that is, either ⟦M⟧ is eternally present and ⟦M⟧ is observed as temporally present, or vice versa; and iii. for some observer, ⟦M⟧ , in one of the infinitely many temporal reference frames, ⟦M⟧ a",
+   "md_text": "Let “ ⟦M⟧ ” and “ ⟦M⟧ ” range over entities and events. […] (ET) For every ⟦M⟧ and every ⟦M⟧ , ⟦M⟧ and ⟦M⟧ are ET-simultaneous if and only if: i. either ⟦M⟧ is eternal and ⟦M⟧ is temporal, or vice versa; and ii. for some observer, ⟦M⟧ , in the unique eternal reference frame, ⟦M⟧ and ⟦M⟧ are both present—that is, either ⟦M⟧ is eternally present and ⟦M⟧ is observed as temporally present, or vice versa; and iii. for some observer, ⟦M⟧ , in one of the infinitely many temporal reference frames, ⟦M⟧ a"
+  },
+  {
+   "i": 42,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "A timeless being has life (of a non-biological kind), i.e. is alive. That is, abstracta (if there are any), like numbers or sets, don’t count. Neither would the world, even if it was sempiternal. The life of a timeless being is without limit and cannot be limited. It cannot begin or end. It is impossible for it not to have infinite duration. The life of a timeless being therefore involves a special sort of, atemporal, duration. A timeless being possesses its life all at once, completely. That is",
+   "md_text": "A timeless being has life (of a non-biological kind), i.e. is alive. That is, abstracta (if there are any), like numbers or sets, don’t count. Neither would the world, even if it was sempiternal. The life of a timeless being is without limit and cannot be limited. It cannot begin or end. It is impossible for it not to have infinite duration. The life of a timeless being therefore involves a special sort of, atemporal, duration. A timeless being possesses its life all at once, completely. That is"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Eternity in Christian Thought",
+ "authors": [
+  "Deng, Natalja"
+ ]
+}

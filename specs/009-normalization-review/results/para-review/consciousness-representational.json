@@ -1,0 +1,267 @@
+{
+ "slug": "consciousness-representational",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 174,
+ "n_md": 178,
+ "n_pairs": 155,
+ "n_flags": 1,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9997281131049484,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996663329996663,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953161592505855,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9984984984984985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987608426270136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993674889310563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988851727982163,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996324880558618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988789237668162,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995444191343964,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992520568436799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987849331713244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980806142034548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993753903810119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999330207635633,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993098688750862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9585798816568047,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "意识表征理论 representational theories of (William Lycan)",
+  "zh_h1": "意识表征理论 representational theories of (William Lycan)",
+  "yuanwen_h1": "Representational Theories of Consciousness",
+  "html_title": "Representational Theories of Consciousness",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 15,
+  "p→p": 124,
+  "ol→∅": 1,
+  "h3→h3": 19,
+  "h4→h4": 3,
+  "figure→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 15,
+  "merged×1(ol→ol)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 110,
+   "j": 114,
+   "ratio": 0.4117647058823529,
+   "shape_h": "figure",
+   "shape_m": "table",
+   "html_text": "Figure 1 Figure 2 1 2 3 4 5 6 7 8 9",
+   "md_text": "（嵌套表：Figure 1 | | | | | --- | --- | --- | | | | | | | | |） （嵌套表：Figure 2 | 1 | 2 | 3 | | --- | --- | --- | | 4 | 5 | 6 | | 7 | 8 | 9 |）"
+  }
+ ],
+ "spot": [
+  {
+   "i": 162,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "What the Knowledge, Conceivability and Explanatory Gap arguments have in common is that they move from an alleged epistemic gap to a would-be materialism-refuting metaphysical one. Though some materialists balk at once and refuse to admit the epistemic gap, more grant the epistemic gap and resist the move to the metaphysical one. The epistemic gap, on this view, is created by the “conceptual isolation” of phenomenal concepts from all others, and it is conceptual only rather than metaphysical. St",
+   "md_text": "What the Knowledge, Conceivability and Explanatory Gap arguments have in common is that they move from an alleged epistemic gap to a would-be materialism-refuting metaphysical one. Though some materialists balk at once and refuse to admit the epistemic gap, more grant the epistemic gap and resist the move to the metaphysical one. The epistemic gap, on this view, is created by the “conceptual isolation” of phenomenal concepts from all others, and it is conceptual only rather than metaphysical. St"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Representational Theories of Consciousness",
+ "authors": [
+  "Lycan, William"
+ ]
+}

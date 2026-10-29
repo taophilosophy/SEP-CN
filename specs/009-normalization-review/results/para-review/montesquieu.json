@@ -1,0 +1,132 @@
+{
+ "slug": "montesquieu",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 63,
+ "n_md": 63,
+ "n_pairs": 55,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9987459242538249,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982847341337907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991575400168492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993247805536799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990723562152134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980353634577603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵 Montesquieu, Charles-Louis de Secondat, Baron de (Hilary Bok)",
+  "zh_h1": "夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵 Montesquieu, Charles-Louis de Secondat, Baron de (Hilary Bok)",
+  "yuanwen_h1": "Baron de Montesquieu, Charles-Louis de Secondat",
+  "html_title": "Baron de Montesquieu, Charles-Louis de Secondat",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 40,
+  "p→∅": 6,
+  "h3→h3": 5,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, one of the great themes of the Persian Letters is the virtual impossibility of self-knowledge, and Usbek is its most fully realized illustration. Usbek has left behind a harem in Persia, in which his wives are kept prisoner by eunuchs who are among his slaves. Both his wives and his slaves can be beaten, mutilated, or killed at his command, as can any outsider unfortunate enough to lay eyes on them. Usbek is, in other words, a despot in his home. From the outset he is tortured by the th",
+   "md_text": "However, one of the great themes of the Persian Letters is the virtual impossibility of self-knowledge, and Usbek is its most fully realized illustration. Usbek has left behind a harem in Persia, in which his wives are kept prisoner by eunuchs who are among his slaves. Both his wives and his slaves can be beaten, mutilated, or killed at his command, as can any outsider unfortunate enough to lay eyes on them. Usbek is, in other words, a despot in his home. From the outset he is tortured by the th"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Baron de Montesquieu, Charles-Louis de Secondat",
+ "authors": [
+  "Bok, Hilary"
+ ]
+}

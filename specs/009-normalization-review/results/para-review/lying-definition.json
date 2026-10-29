@@ -1,0 +1,571 @@
+{
+ "slug": "lying-definition",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 157,
+ "n_md": 157,
+ "n_pairs": 66,
+ "n_flags": 0,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9988776655443322,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997708810664445,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975903614457832,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988193624557261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981447124304267,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988571428571429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988726042841037,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981611387318667,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966265767087122,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9980164352507792,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981078524124882,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996440014239943,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952267303102625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963133640552996,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982997328151567,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997229916897507,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996547144754316,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987928953267805,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969418960244648,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971056439942113,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974482563084774,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962149886449659,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9992627181125584,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991809991809992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982238010657194,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9983681946298769,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986008394963022,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985425775556943,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980340760157274,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991657397107898,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986126876024719,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984010233450592,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990274265707061,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987484355444305,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "谎言与欺骗的定义 definition of (James Edwin Mahon)",
+  "zh_h1": "谎言与欺骗的定义 definition of (James Edwin Mahon)",
+  "yuanwen_h1": "The Definition of Lying and Deception",
+  "html_title": "The Definition of Lying and Deception",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→∅": 79,
+  "ul→ul": 13,
+  "p→p": 29,
+  "h3→h3": 10,
+  "ol→ol": 1,
+  "blockquote→blockquote": 3,
+  "h4→h4": 2,
+  "ul→∅": 9,
+  "blockquote→∅": 3,
+  "merged×2(p+p→p+p)": 9,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(p→p)": 8,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+ul→p+p+p+p+p+p+p+ul)": 1,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×5(p+p+blockquote+p+p→p+p+blockquote+p+p)": 1,
+  "merged×1(ul→ul)": 2,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×5(p+p+p+p+blockquote→p+p+p+p+blockquote)": 1,
+  "merged×3(ul+p+p→ul+p+p)": 1,
+  "merged×5(p+p+ul+p+p→p+p+ul+p+p)": 1,
+  "merged×5(p+ul+p+ul+p→p+ul+p+ul+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 111,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "According to Saul, it is not possible to lie if one does not believe that one is in a warranting context. Saul considers the case of a putative lie told in a totalitarian state: “This is the case of utterances demanded by a totalitarian state. These utterances of sentences supporting the state are made by people who don’t believe them, to people who don’t believe them. Everyone knows that false things are being said, and that they are only being said only because they are required by the state. ",
+   "md_text": "According to Saul, it is not possible to lie if one does not believe that one is in a warranting context. Saul considers the case of a putative lie told in a totalitarian state: “This is the case of utterances demanded by a totalitarian state. These utterances of sentences supporting the state are made by people who don’t believe them, to people who don’t believe them. Everyone knows that false things are being said, and that they are only being said only because they are required by the state. "
+  },
+  {
+   "i": 5,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "(L1) To lie = ⟦S⟧ to make a believed-false statement to another person with the intention that the other person believe that statement to be true.",
+   "md_text": "(L1) To lie = ⟦S⟧ to make a believed-false statement to another person with the intention that the other person believe that statement to be true."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Definition of Lying and Deception",
+ "authors": [
+  "Mahon, James Edwin"
+ ]
+}

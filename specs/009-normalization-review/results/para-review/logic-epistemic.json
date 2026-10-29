@@ -1,0 +1,785 @@
+{
+ "slug": "logic-epistemic",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 258,
+ "n_md": 262,
+ "n_pairs": 165,
+ "n_flags": 0,
+ "n_merged": 57,
+ "merged": [
+  {
+   "ratio": 0.9993036211699164,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979231568016614,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982238010657194,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965694682675815,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989701338825953,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984917043740573,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977116704805492,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952380952380953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956331877729258,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999213217938631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995100440960314,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9913419913419913,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990281827016521,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950106913756237,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972781709308656,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99581589958159,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99644128113879,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981981981981982,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950617283950617,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947089947089947,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941291585127201,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981785063752276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982808022922636,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9885057471264368,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974779319041615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987937273823885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987421383647799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965329370975731,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977426636568849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9890377588306942,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962581852198317,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "figure",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9980769230769231,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978494623655914,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985074626865672,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989969909729187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990375360923965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999031007751938,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957446808510638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.998015873015873,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989417989417989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989743589743589,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972144846796658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978540772532188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998003992015968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986174779887943,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987421383647799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994472084024323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971231300345225,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985041136873598,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956331877729258,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997946611909651,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9974853310980721,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991338991858653,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9945205479452055,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "认知逻辑 epistemic (Rasmus Rendsvig, John Symons, and Yanjing Wang)",
+  "zh_h1": "认知逻辑 epistemic (Rasmus Rendsvig, John Symons, and Yanjing Wang)",
+  "yuanwen_h1": "Epistemic Logic",
+  "html_title": "Epistemic Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 81,
+  "p→p": 116,
+  "h3→h3": 8,
+  "p→mathblock": 26,
+  "ol→ol": 2,
+  "ul→∅": 6,
+  "ul→ul": 2,
+  "ol→∅": 1,
+  "figure→∅": 2,
+  "table→table": 2,
+  "blockquote→∅": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 6,
+  "merged×1(p→p)": 30,
+  "merged×2(p+p→p+p)": 8,
+  "merged×3(ul+p+p→ul+p+p)": 1,
+  "merged×4(ol+p+p+p→ol+p+p+p)": 1,
+  "merged×1(ul→ul)": 5,
+  "merged×1(figure→p+table+p)": 1,
+  "merged×4(figure+p+p+p→p+table+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 230,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As in standard epistemic logic, these axioms, although arguably contentious, provide an engaging forum for philosophical investigations. For instance, the interactive axioms about both ⟦M⟧ and ⟦M⟧ may help us sharpen our understanding of knowledge-how and knowledge-that. ⟦M⟧ may raise philosophical interests, given the heated debate about its counterpart, the ⟦M⟧ -principle, in standard epistemic logic. Moreover, ⟦M⟧ is not intuitively valid if we allow one to forget what was known (no perfect r",
+   "md_text": "As in standard epistemic logic, these axioms, although arguably contentious, provide an engaging forum for philosophical investigations. For instance, the interactive axioms about both ⟦M⟧ and ⟦M⟧ may help us sharpen our understanding of knowledge-how and knowledge-that. ⟦M⟧ may raise philosophical interests, given the heated debate about its counterpart, the ⟦M⟧ -principle, in standard epistemic logic. Moreover, ⟦M⟧ is not intuitively valid if we allow one to forget what was known (no perfect r"
+  },
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Apart from the atomic propositions, epistemic logic supplements the language of propositional logic with a modal operator, ⟦M⟧ , for knowledge and ⟦M⟧ , for belief.",
+   "md_text": "Apart from the atomic propositions, epistemic logic supplements the language of propositional logic with a modal operator, ⟦M⟧ , for knowledge and ⟦M⟧ , for belief."
+  },
+  {
+   "i": 65,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "⟦M⟧ . Zoe knows that the hen is in the yard as all the worlds indistinguishable from ⟦M⟧ that would be ⟦M⟧ and ⟦M⟧ make p true. ⟦M⟧ . Zoe does not know the dog is in the yard, as one of the indistinguishable worlds in fact ⟦M⟧ itself makes q false. ⟦M⟧ . Zoe knows that she knows p because ⟦M⟧ (cf. 1.) and ⟦M⟧ . ⟦M⟧ . Zoe knows that she does not know q because ⟦M⟧ (cf. 2.) and ⟦M⟧ .",
+   "md_text": "⟦M⟧ . Zoe knows that the hen is in the yard as all the worlds indistinguishable from ⟦M⟧ that would be ⟦M⟧ and ⟦M⟧ make p true. ⟦M⟧ . Zoe does not know the dog is in the yard, as one of the indistinguishable worlds in fact ⟦M⟧ itself makes q false. ⟦M⟧ . Zoe knows that she knows p because ⟦M⟧ (cf. 1.) and ⟦M⟧ . ⟦M⟧ . Zoe knows that she does not know q because ⟦M⟧ (cf. 2.) and ⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Epistemic Logic",
+ "authors": [
+  "Rendsvig, Rasmus",
+  "Symons, John",
+  "Wang, Yanjing"
+ ]
+}

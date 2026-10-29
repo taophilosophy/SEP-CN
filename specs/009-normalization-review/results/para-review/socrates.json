@@ -1,0 +1,328 @@
+{
+ "slug": "socrates",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 75,
+ "n_md": 77,
+ "n_pairs": 38,
+ "n_flags": 0,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9989363965113806,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994571707740745,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969824984912492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995105237395986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962157048249763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982763573685722,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944629014396457,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994065281899109,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997610513739546,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997350993377483,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99644128113879,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9993972272453285,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991266375545852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983438224577674,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993963782696177,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999627004848937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999507631708518,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971181556195965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "苏格拉底 Socrates (Debra Nails and S. Sara Monoson)",
+  "zh_h1": "苏格拉底 Socrates (Debra Nails and S. Sara Monoson)",
+  "yuanwen_h1": "Socrates",
+  "html_title": "Socrates",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 16,
+  "p→∅": 32,
+  "h3→h3": 4,
+  "h4→h4": 6,
+  "blockquote→blockquote": 2,
+  "ol→∅": 1,
+  "ol→ol": 2,
+  "table→∅": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 11,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×11(p+table+p+p+p+p+p+p+p+p+p→p+table+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Standards of beauty are different in different eras, and in Socrates’s time beauty could easily be measured by the standard of the gods, stately, proportionate sculptures of whom had been adorning the Athenian acropolis since about the time Socrates reached the age of thirty. Good looks and proper bearing were important to a man’s political prospects, for beauty and goodness were linked in the popular imagination. The extant sources agree that Socrates was profoundly ugly, resembling a satyr mor",
+   "md_text": "Standards of beauty are different in different eras, and in Socrates’s time beauty could easily be measured by the standard of the gods, stately, proportionate sculptures of whom had been adorning the Athenian acropolis since about the time Socrates reached the age of thirty. Good looks and proper bearing were important to a man’s political prospects, for beauty and goodness were linked in the popular imagination. The extant sources agree that Socrates was profoundly ugly, resembling a satyr mor"
+  },
+  {
+   "i": 35,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "It is possible to determine reliably the chronological order in which the dialogues were written and to map them to the development of Plato’s views.",
+   "md_text": "It is possible to determine reliably the chronological order in which the dialogues were written and to map them to the development of Plato’s views."
+  }
+ ],
+ "supplements": [
+  "resources.html",
+  "socratic-problem.html"
+ ],
+ "meta_title": "Socrates",
+ "authors": [
+  "Nails, Debra",
+  "Monoson, S. Sara"
+ ]
+}

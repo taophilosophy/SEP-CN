@@ -1,0 +1,253 @@
+{
+ "slug": "saadya",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 76,
+ "n_md": 76,
+ "n_pairs": 53,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9971367215461704,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984825493171472,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966903073286052,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997872340425532,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9983547219480092,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9927780452575831,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966777408637874,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "ol",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9969849246231156,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9994249568717654,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992181391712275,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994086339444116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999664767013074,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982964224872232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998592210229939,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995504270942605,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "萨阿迪亚·果昂 Saadya [Saadiah] (Sarah Pessin)",
+  "zh_h1": "萨阿迪亚·果昂 Saadya [Saadiah] (Sarah Pessin)",
+  "yuanwen_h1": "Saadya [Saadiah]",
+  "html_title": "Saadya [Saadiah]",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 12,
+  "p→p": 30,
+  "p→∅": 19,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 9,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(p→p)": 9,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+blockquote→ol+blockquote)": 1,
+  "merged×1(p→ol)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 67,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Providing details of Saadya's arguments for creation ex nihilo is less interesting for our current purposes than making some observations about Saadya's sensibilities about reason and revelation in these discussions. In the case of creation as well as the case of God's unity, Saadya sees demonstration by reason as a cornerstone of belief. At least in the case of some religious beliefs, reason alone arrives at the ideas in question, and, furthermore, can prove that they are true. It is worth noti",
+   "md_text": "Providing details of Saadya's arguments for creation ex nihilo is less interesting for our current purposes than making some observations about Saadya's sensibilities about reason and revelation in these discussions. In the case of creation as well as the case of God's unity, Saadya sees demonstration by reason as a cornerstone of belief. At least in the case of some religious beliefs, reason alone arrives at the ideas in question, and, furthermore, can prove that they are true. It is worth noti"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Saadya [Saadiah]",
+ "authors": [
+  "Pessin, Sarah"
+ ]
+}

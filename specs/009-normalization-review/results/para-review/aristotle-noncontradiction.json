@@ -1,0 +1,343 @@
+{
+ "slug": "aristotle-noncontradiction",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 77,
+ "n_md": 79,
+ "n_pairs": 45,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.999735659529474,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988746342561332,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980952380952381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991251093613298,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972850678733032,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979253112033195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986282578875172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993050729673384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999388379204893,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986666666666667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975124378109452,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982425307557118,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994638069705094,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992630803242447,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980384464495881,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995051954477981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992337164750957,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999344262295082,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988751406074241,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971862689926843,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957805907172996,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9567901234567902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的矛盾律 on non-contradiction (Paula Gottlieb)",
+  "zh_h1": "亚里士多德的矛盾律 on non-contradiction (Paula Gottlieb)",
+  "yuanwen_h1": "Aristotle on Non-contradiction",
+  "html_title": "Aristotle on Non-contradiction",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 15,
+  "p→∅": 29,
+  "p→p": 28,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 15,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 47,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Unlike modern philosophers, Aristotle does not attack the inference from premises 1 and 2 to the conclusions in 3. Instead, he attacks premise 2. If the attack is successful, he will have knocked down all three conclusions at the same time. Aristotle’s attack on premise 2 does not rest on accepting a majority verdict. Aristotle appears to accept his opponents’ argument that, in cases like 1a, where things appear different to different members of the same species, majority decision is not an appr",
+   "md_text": "Unlike modern philosophers, Aristotle does not attack the inference from premises 1 and 2 to the conclusions in 3. Instead, he attacks premise 2. If the attack is successful, he will have knocked down all three conclusions at the same time. Aristotle’s attack on premise 2 does not rest on accepting a majority verdict. Aristotle appears to accept his opponents’ argument that, in cases like 1a, where things appear different to different members of the same species, majority decision is not an appr"
+  },
+  {
+   "i": 72,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "For Greek texts, translations and more, see the Perseus Project For detailed analyses and commentaries on selected Greek texts, see Project Archelogos",
+   "md_text": "For Greek texts, translations and more, see the Perseus Project For detailed analyses and commentaries on selected Greek texts, see Project Archelogos"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Aristotle on Non-contradiction",
+ "authors": [
+  "Gottlieb, Paula"
+ ]
+}

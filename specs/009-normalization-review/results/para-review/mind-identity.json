@@ -1,0 +1,197 @@
+{
+ "slug": "mind-identity",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 65,
+ "n_md": 67,
+ "n_pairs": 48,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9996242014280345,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993299832495812,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994544462629569,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995814148179154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995983935742971,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980276134122288,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997946611909651,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996356127778453,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998158040154724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995373939861218,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "心脑同一论 mind/brain identity theory (J. J. C. Smart)",
+  "zh_h1": "心脑同一论 mind/brain identity theory (J. J. C. Smart)",
+  "yuanwen_h1": "The Mind/Brain Identity Theory",
+  "html_title": "The Mind/Brain Identity Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 14,
+  "blockquote→blockquote": 5,
+  "p→p": 30,
+  "blockquote→∅": 2,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 5,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 35,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Like Lewis and Armstrong, functionalists define mental states and processes in terms of their causal relations to behaviour but stop short of identifying them with their neural realisations. Of course the term ‘functionalism’ has been used vaguely and in different ways, and it could be argued that even the theories of Place, Smart and Armstrong were at bottom functionalist. The word ‘functionalist’ has affinities with that of ‘function’ in mathematics and also with that of ‘function’ in biology.",
+   "md_text": "Like Lewis and Armstrong, functionalists define mental states and processes in terms of their causal relations to behaviour but stop short of identifying them with their neural realisations. Of course the term ‘functionalism’ has been used vaguely and in different ways, and it could be argued that even the theories of Place, Smart and Armstrong were at bottom functionalist. The word ‘functionalist’ has affinities with that of ‘function’ in mathematics and also with that of ‘function’ in biology."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Mind/Brain Identity Theory",
+ "authors": [
+  "Smart, J. J. C."
+ ]
+}

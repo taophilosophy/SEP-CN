@@ -1,0 +1,737 @@
+{
+ "slug": "metaphysics-massexpress",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 201,
+ "n_md": 209,
+ "n_pairs": 92,
+ "n_flags": 0,
+ "n_merged": 48,
+ "merged": [
+  {
+   "ratio": 0.9992805755395684,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937651541392449,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985528219971056,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928825622775801,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972247918593895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9979919678714859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9903361344537815,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947001394700139,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957498482088646,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99568655643422,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990375360923965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984886649874055,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9921752738654147,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9919484702093397,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949748743718593,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987659399424106,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994535519125683,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969418960244648,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997134670487106,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988436335603238,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978118161925602,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984732824427481,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961818812912183,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969604863221885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983543609434997,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991922455573505,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990262901655307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991311902693311,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988907376594565,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951515151515151,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975550122249389,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985052316890882,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999245283018868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998272884283247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951534733441034,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9828571428571429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958861651169344,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9806213472777607,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9945945945945946,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996996996996997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978354978354979,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982238010657194,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9984969360619724,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995489400090212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9924812030075187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "物质名词的形而上学 metaphysics of (Mark Steen)",
+  "zh_h1": "物质名词的形而上学 metaphysics of (Mark Steen)",
+  "yuanwen_h1": "The Metaphysics of Mass Expressions",
+  "html_title": "The Metaphysics of Mass Expressions",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "h3→h3": 12,
+  "p→∅": 89,
+  "blockquote→∅": 7,
+  "p→p": 60,
+  "dl→∅": 3,
+  "ol→∅": 4,
+  "ul→∅": 3,
+  "h4→h4": 7,
+  "blockquote→blockquote": 5,
+  "table→∅": 2,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+blockquote→p+p+p+p+p+blockquote)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×1(ol→ol)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×7(p+ol+p+p+p+p+p→p+ol+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+ul+p→p+p+p+ul+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×4(p+ul+p+p→p+ul+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×11(p+blockquote+p+p+p+p+p+p+p+p+p→p+blockquote+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+table+p+table→p+p+table+p+table)": 1,
+  "merged×5(blockquote+p+p+p+p→blockquote+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 96,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Suppose there is a cube of completely homogenous and gunky jello on the table, with no empty space inside. Suppose that the cube can’t survive being sliced or having its parts scattered. Suppose that the jello composing the cube is a fundamental stuff-kind. On the set-theoretic proposal, to say that the jello constitutes the cube is to say that a set of jello-individuals constitutes the cube. Which individuals? One non-option is the set {cube}, for then the jello would be identical with the cube",
+   "md_text": "Suppose there is a cube of completely homogenous and gunky jello on the table, with no empty space inside. Suppose that the cube can’t survive being sliced or having its parts scattered. Suppose that the jello composing the cube is a fundamental stuff-kind. On the set-theoretic proposal, to say that the jello constitutes the cube is to say that a set of jello-individuals constitutes the cube. Which individuals? One non-option is the set {cube}, for then the jello would be identical with the cube"
+  }
+ ],
+ "supplements": [
+  "challenges-mereological-essentialism.html",
+  "non-atomicity.html",
+  "sums-ordinary-objects.html"
+ ],
+ "meta_title": "The Metaphysics of Mass Expressions",
+ "authors": [
+  "Steen, Mark"
+ ]
+}

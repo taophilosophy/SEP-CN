@@ -1,0 +1,651 @@
+{
+ "slug": "pragmatics",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 213,
+ "n_md": 237,
+ "n_pairs": 141,
+ "n_flags": 0,
+ "n_merged": 45,
+ "merged": [
+  {
+   "ratio": 0.9983065198983911,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989499474973749,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993838570548367,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989577905158937,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936507936507937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9965963240299524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9979035639412998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993050729673384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9935064935064936,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9925742574257426,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985802176999526,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988181664696945,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974025974025974,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981167608286252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977324263038548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980237154150198,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9961190168175937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985855728429985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995114802149487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986928104575163,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993002099370188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997867803837953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988662131519275,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9777777777777777,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964912280701754,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952830188679245,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942857142857143,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957081545064378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9929577464788732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976550842037945,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993390614672836,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994155464640561,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985652797704447,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992982456140351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981973862100045,
+   "n_h": 14,
+   "n_m": 14,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "语用学 pragmatics (Kepa Korta and John Perry)",
+  "zh_h1": "语用学 pragmatics (Kepa Korta and John Perry)",
+  "yuanwen_h1": "Pragmatics",
+  "html_title": "Pragmatics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 45,
+  "p→p": 100,
+  "ul→ul": 3,
+  "h3→h3": 11,
+  "ul→∅": 6,
+  "blockquote→∅": 12,
+  "blockquote→blockquote": 6,
+  "h4→h4": 8,
+  "ol→∅": 1,
+  "dl→∅": 7,
+  "ol→ol": 4,
+  "merged×1(preamble→blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(ul→ul)": 3,
+  "merged×1(blockquote→blockquote)": 11,
+  "merged×1(ol→ol)": 1,
+  "merged×1(dl→p+p+p+p)": 3,
+  "merged×1(dl→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×4(p+ul+p+ul→p+ul+p+ul)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×2(ul+p→ul+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×14(p+p+p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 61,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Communicative intentions are intentions to produce some response on the part of the addressee, but what kind of response, exactly, should this be? Suppose I tell you, “It’s raining.” This act may have many results: perhaps you will hear the words, understand their meaning, come to believe that it is raining, search for your umbrella, fail to find it and grow angry, and finally become so angry you chew the rug. I may have planned all of this, but more typically I will have had in mind that you be",
+   "md_text": "Communicative intentions are intentions to produce some response on the part of the addressee, but what kind of response, exactly, should this be? Suppose I tell you, “It’s raining.” This act may have many results: perhaps you will hear the words, understand their meaning, come to believe that it is raining, search for your umbrella, fail to find it and grow angry, and finally become so angry you chew the rug. I may have planned all of this, but more typically I will have had in mind that you be"
+  },
+  {
+   "i": 11,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Facts about the utterance, including: who the speaker is, when the utterance occurred, and where; Facts about the speaker’s intentions. On the near side, what language the speaker intends to be using, what meaning she intends to be using, whom she intends to refer to with various shared names, whether a pronoun is used demonstratively or anaphorically, and the like. On the far side, what she intends to achieve by saying what she does. Facts about beliefs of the speaker and those to whom she spea",
+   "md_text": "Facts about the utterance, including: who the speaker is, when the utterance occurred, and where; Facts about the speaker’s intentions. On the near side, what language the speaker intends to be using, what meaning she intends to be using, whom she intends to refer to with various shared names, whether a pronoun is used demonstratively or anaphorically, and the like. On the far side, what she intends to achieve by saying what she does. Facts about beliefs of the speaker and those to whom she spea"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Pragmatics",
+ "authors": [
+  "Korta, Kepa",
+  "Perry, John"
+ ]
+}

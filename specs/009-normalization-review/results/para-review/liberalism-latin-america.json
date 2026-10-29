@@ -1,0 +1,270 @@
+{
+ "slug": "liberalism-latin-america",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 59,
+ "n_md": 65,
+ "n_pairs": 26,
+ "n_flags": 1,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9997118985883031,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996011168727563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994639985706628,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995477159656264,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997775305895439,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999388379204893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995023500138236,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994823480691583,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994954082147542,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995746490854955,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993380990203865,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987060345841665,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987712831314727,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988137603795967,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "拉丁美洲的自由主义 in Latin America (Faviola Rivera)",
+  "zh_h1": "拉丁美洲的自由主义 in Latin America (Faviola Rivera)",
+  "yuanwen_h1": "Liberalism in Latin America",
+  "html_title": "Liberalism in Latin America",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 30,
+  "p→p": 14,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 56,
+   "j": 62,
+   "ratio": 0.8693957115009746,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Works of Juan Bautista Alberdi (1810–1884) , Biblioteca Virtual Miguel de Cervantes Works of Domingo Faustino Sarmiento (1811–1888) , Biblioteca Virtual Miguel de Cervantes Works of Joaquín Varela Suanzes-Carpegna (1954–) , Biblioteca Virtual Miguel de Cervantes La tradición republicana. Alberdi, Sarmiento y las ideas políticas de su tiempo [selección] , Biblioteca Virtual Miguel de Cervantes José Victorino Lastarria , Biblioteca nacional de Chile",
+   "md_text": "Works of Juan Bautista Alberdi (1810–1884), Biblioteca Virtual Miguel de Cervantes Works of Domingo Faustino Sarmiento (1811–1888), Biblioteca Virtual Miguel de Cervantes Works of Joaquín Varela Suanzes-Carpegna (1954–), Biblioteca Virtual Miguel de Cervantes [La tradición republicana. Alberdi, Sarmiento y las ideas políticas de su tiempo [selección]](http://www.cervantesvirtual.com/obra/la-tradicion-republicana-alberdi-sarmiento-y-las-ideas-politicas-de-su-tiempo-seleccion/), Biblioteca Virtual Miguel de Cervantes José Victorino Lastarria, Biblioteca nacional de Chile"
+  }
+ ],
+ "spot": [
+  {
+   "i": 23,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In the aftermath of independence, most Hispanic American nations produced written constitutions as early as 1811 in Venezuela, New Granada (subsequently Colombia), and Chile. At the time, political actors shared the belief that a written code of law had the power to transform their societies in the direction of liberal ideas. They believed that good legislation was the way to promote individual liberties and economic progress. According to this, former subjects of a colonial regime would come to",
+   "md_text": "In the aftermath of independence, most Hispanic American nations produced written constitutions as early as 1811 in Venezuela, New Granada (subsequently Colombia), and Chile. At the time, political actors shared the belief that a written code of law had the power to transform their societies in the direction of liberal ideas. They believed that good legislation was the way to promote individual liberties and economic progress. According to this, former subjects of a colonial regime would come to"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Liberalism in Latin America",
+ "authors": [
+  "Rivera, Faviola"
+ ]
+}

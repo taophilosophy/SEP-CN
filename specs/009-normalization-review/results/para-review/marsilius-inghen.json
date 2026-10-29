@@ -1,0 +1,279 @@
+{
+ "slug": "marsilius-inghen",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 68,
+ "n_md": 68,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9974874371859297,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980353634577603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9949352841868317,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981464318813716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948168007149241,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981798325445941,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973166368515206,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981167608286252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959946595460614,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969678593086719,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989406779661016,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986431478968792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967105263157895,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968691296180339,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973432518597237,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992119779353822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "因根的马西利乌斯 Marsilius of Inghen (Maarten Hoenen)",
+  "zh_h1": "因根的马西利乌斯 Marsilius of Inghen (Maarten Hoenen)",
+  "yuanwen_h1": "Marsilius of Inghen",
+  "html_title": "Marsilius of Inghen",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→∅": 25,
+  "p→p": 16,
+  "ol→∅": 1,
+  "ol→ol": 1,
+  "ul→ul": 2,
+  "h3→h3": 4,
+  "h4→h4": 10,
+  "blockquote→∅": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(ol→ol)": 1,
+  "merged×1(p→p)": 9,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In his logic and epistemology, Marsilius followed the nominalist tradition of the fourteenth century as exemplified by William of Ockham and John Buridan. Yet Marsilius never qualified himself as a nominalist or follower of Ockham. He was an independent thinker who sometimes went back to the older tradition of the thirteenth century (e.g., in Peter of Spain), or advocated theories which were more in line with ordinary speech, as against the highly specialized views of his contemporaries. Marsili",
+   "md_text": "In his logic and epistemology, Marsilius followed the nominalist tradition of the fourteenth century as exemplified by William of Ockham and John Buridan. Yet Marsilius never qualified himself as a nominalist or follower of Ockham. He was an independent thinker who sometimes went back to the older tradition of the thirteenth century (e.g., in Peter of Spain), or advocated theories which were more in line with ordinary speech, as against the highly specialized views of his contemporaries. Marsili"
+  },
+  {
+   "i": 8,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Summary [Abbreviationes] of Aristotle’s ‘Physics’ Questions on Aristotle’s ‘On Generation and Corruption’ Questions on Aristotle’s ‘De anima’ Questions on Aristotle’s ‘Metaphysics’",
+   "md_text": "Summary [Abbreviationes] of Aristotle’s ‘Physics’ Questions on Aristotle’s ‘On Generation and Corruption’ Questions on Aristotle’s ‘De anima’ Questions on Aristotle’s ‘Metaphysics’"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Marsilius of Inghen",
+ "authors": [
+  "Hoenen, Maarten"
+ ]
+}

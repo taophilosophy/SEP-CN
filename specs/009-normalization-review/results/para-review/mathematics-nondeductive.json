@@ -1,0 +1,404 @@
+{
+ "slug": "mathematics-nondeductive",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 120,
+ "n_md": 120,
+ "n_pairs": 71,
+ "n_flags": 0,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9974126778783958,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981916817359855,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9927797833935018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9951014695591323,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989071038251366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957173447537473,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970501474926253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992542878448919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988674971687429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980430528375733,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982046678635548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998914223669924,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978517722878625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986091794158554,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982120051085568,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9894736842105263,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9992902767920511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974160206718347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975186104218362,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946640316205534,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992048767558972,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978972664463803,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953488372093023,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993972272453285,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9925705794947994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "数学中的非演绎方法 non-deductive methods in (Alan Baker)",
+  "zh_h1": "数学中的非演绎方法 non-deductive methods in (Alan Baker)",
+  "yuanwen_h1": "Non-Deductive Methods in Mathematics",
+  "html_title": "Non-Deductive Methods in Mathematics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 36,
+  "p→∅": 35,
+  "blockquote→∅": 11,
+  "blockquote→blockquote": 10,
+  "h3→h3": 10,
+  "h4→h4": 5,
+  "ol→∅": 1,
+  "ol→ol": 1,
+  "table→∅": 1,
+  "ul→∅": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 5,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(ol+p+p→ol+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+table→p+table)": 1,
+  "merged×9(blockquote+p+p+blockquote+p+blockquote+p+p+p→blockquote+p+p+blockquote+p+blockquote+p+p+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Philosophical views concerning the ontology of mathematics run the gamut from platonism (mathematics is about a realm of abstract objects), to fictionalism (mathematics is a fiction whose subject matter does not exist), to formalism (mathematical statements are meaningless strings manipulated according to formal rules), with no consensus about which is correct. By contrast, it seems fair to say that there is a philosophically established received view of the basic methodology of mathematics. Rou",
+   "md_text": "Philosophical views concerning the ontology of mathematics run the gamut from platonism (mathematics is about a realm of abstract objects), to fictionalism (mathematics is a fiction whose subject matter does not exist), to formalism (mathematical statements are meaningless strings manipulated according to formal rules), with no consensus about which is correct. By contrast, it seems fair to say that there is a philosophically established received view of the basic methodology of mathematics. Rou"
+  },
+  {
+   "i": 47,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The diagrams play no substantive role in the proof and serve merely as ‘illustrations’ of aspects of the subject-matter with which it deals. In practical terms it is difficult (or even impossible) to grasp the proof without making use of the diagrams, but this indispensability is psychological rather than logical. The diagrams play an essential role in the logical structure of the proof.",
+   "md_text": "The diagrams play no substantive role in the proof and serve merely as ‘illustrations’ of aspects of the subject-matter with which it deals. In practical terms it is difficult (or even impossible) to grasp the proof without making use of the diagrams, but this indispensability is psychological rather than logical. The diagrams play an essential role in the logical structure of the proof."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Non-Deductive Methods in Mathematics",
+ "authors": [
+  "Baker, Alan"
+ ]
+}

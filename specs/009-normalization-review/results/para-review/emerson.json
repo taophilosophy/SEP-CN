@@ -1,0 +1,245 @@
+{
+ "slug": "emerson",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 74,
+ "n_md": 128,
+ "n_pairs": 60,
+ "n_flags": 3,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9994603345925526,
+   "n_h": 1,
+   "n_m": 56,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996939087848179,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992565055762082,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992706053975201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982517482517482,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993556701030928,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986120749479528,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9655172413793104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "拉尔夫·沃尔多·爱默生 Emerson, Ralph Waldo (Russell Goodman)",
+  "zh_h1": "拉尔夫·沃尔多·爱默生 Emerson, Ralph Waldo (Russell Goodman)",
+  "yuanwen_h1": "Ralph Waldo Emerson",
+  "html_title": "Ralph Waldo Emerson",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "figure→∅": 1,
+  "pubinfo→∅": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "dl→∅": 1,
+  "h3→h3": 9,
+  "p→p": 38,
+  "p→∅": 8,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 0,
+   "j": 0,
+   "ratio": 0.19047619047619047,
+   "shape_h": "figure",
+   "shape_m": "h1",
+   "html_text": "Photo from Amos Bronson Alcott 1882.",
+   "md_text": "Ralph Waldo Emerson First published Thu Jan 3, 2002; substantive revision Fri Oct 21, 2022"
+  },
+  {
+   "kind": "replace",
+   "i": 1,
+   "j": null,
+   "ratio": null,
+   "shape_h": "pubinfo",
+   "shape_m": null,
+   "html_text": "First published Thu Jan 3, 2002; substantive revision Fri Oct 21, 2022",
+   "md_text": null
+  },
+  {
+   "kind": "replace",
+   "i": 73,
+   "j": 127,
+   "ratio": 0.9356060606060606,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Anaxagoras | Augustine of Hippo | Bacon, Francis | Cambridge Platonists | Cicero | Dewey, John | Heraclitus | Iamblichus | James, William | Lucretius | Mencius | Nietzsche, Friedrich | Plotinus | Pythagoras | Schiller, Friedrich | Schlegel, Friedrich | Socrates | transcendentalism",
+   "md_text": "Anaxagoras Augustine of Hippo Bacon, Francis Cambridge Platonists Cicero Dewey, John Heraclitus Iamblichus James, William Lucretius Mencius Nietzsche, Friedrich Plotinus Pythagoras Schiller, Friedrich Schlegel, Friedrich Socrates transcendentalism"
+  }
+ ],
+ "spot": [
+  {
+   "i": 38,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Emerson never questioned the iniquity of slavery, though it was not a main item on his intellectual agenda until the eighteen forties. He refers to abolition in the “Prospects” chapter of Nature when he speaks of the “gleams of a better light” in the darkness of history and gives as examples “the abolition of the Slave-trade,” “the history of Jesus Christ,” and “the wisdom of children” (CW1:43). He condemns slavery in some of his greatest essays, “Self-Reliance” (1841), so that even if we didn’t",
+   "md_text": "Emerson never questioned the iniquity of slavery, though it was not a main item on his intellectual agenda until the eighteen forties. He refers to abolition in the “Prospects” chapter of Nature when he speaks of the “gleams of a better light” in the darkness of history and gives as examples “the abolition of the Slave-trade,” “the history of Jesus Christ,” and “the wisdom of children” (CW1:43). He condemns slavery in some of his greatest essays, “Self-Reliance” (1841), so that even if we didn’t"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ralph Waldo Emerson",
+ "authors": [
+  "Goodman, Russell"
+ ]
+}

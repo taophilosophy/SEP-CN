@@ -1,0 +1,190 @@
+{
+ "slug": "immutability",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 49,
+ "n_md": 49,
+ "n_pairs": 33,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9967602591792657,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999247554552295,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973971889640812,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996073812328229,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985228951255539,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993638676844784,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979765277215702,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964533538936006,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994182664339732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999597261377366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "不变性 immutability (Brian Leftow)",
+  "zh_h1": "不变性 immutability (Brian Leftow)",
+  "yuanwen_h1": "Immutability",
+  "html_title": "Immutability",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 23,
+  "p→∅": 14,
+  "ol→ol": 1,
+  "blockquote→∅": 2,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 23,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aquinas (like Augustine) derived DDI from the deeper classical-theist doctrine of divine simplicity (ST Ia 9). If God is simple, God has no parts of any sort. Now when a thing changes, it becomes partly different. Were this not so, no change would have occurred. But it cannot become different in every respect. For if it did, it would become different with respect to being identical with this thing. If first we have something identical with this turnip and then we have something not identical wit",
+   "md_text": "Aquinas (like Augustine) derived DDI from the deeper classical-theist doctrine of divine simplicity (ST Ia 9). If God is simple, God has no parts of any sort. Now when a thing changes, it becomes partly different. Were this not so, no change would have occurred. But it cannot become different in every respect. For if it did, it would become different with respect to being identical with this thing. If first we have something identical with this turnip and then we have something not identical wit"
+  },
+  {
+   "i": 27,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "If God is omniscient, God knows what time it is now. What time it is now is constantly changing. So What God knows is constantly changing. So God is constantly changing.",
+   "md_text": "If God is omniscient, God knows what time it is now. What time it is now is constantly changing. So What God knows is constantly changing. So God is constantly changing."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Immutability",
+ "authors": [
+  "Leftow, Brian"
+ ]
+}

@@ -1,0 +1,560 @@
+{
+ "slug": "diodorus-cronus",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 145,
+ "n_md": 221,
+ "n_pairs": 93,
+ "n_flags": 1,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9988855277822003,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989281886387996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983753046303818,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984202211690363,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994321408290744,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988193624557261,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998389694041868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992652461425422,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983416252072969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9606299212598425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9791666666666666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985228951255539,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971988795518207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991980753809142,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976459510357816,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999163179916318,
+   "n_h": 3,
+   "n_m": 12,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978308026030369,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 14,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9921507064364207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 10,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994148624926857,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 14,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992902767920511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924528301886792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979757085020243,
+   "n_h": 3,
+   "n_m": 11,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984953355401746,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 10,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996362313568571,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9914236706689536,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "卡里亚雅苏斯的狄奥多罗斯 Diodorus Cronus (Matthew Duncombe)",
+  "zh_h1": "卡里亚雅苏斯的狄奥多罗斯 Diodorus Cronus (Matthew Duncombe)",
+  "yuanwen_h1": "Diodorus Cronus",
+  "html_title": "Diodorus Cronus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→∅": 27,
+  "h3→h3": 12,
+  "p→p": 61,
+  "blockquote→∅": 10,
+  "dl→∅": 14,
+  "ol→ol": 1,
+  "blockquote→blockquote": 7,
+  "ul→∅": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 8,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 2,
+  "merged×1(dl→p+p)": 2,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(dl+p+p→p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 2,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p)": 2,
+  "merged×3(dl+p+dl→p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 142,
+   "j": 218,
+   "ratio": 0.9409090909090909,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "ambiguity | conditionals | Cratylus | Dialectical School | Epicureanism | Epicurus | Hegel, Georg Wilhelm Friedrich: dialectics | logic: ancient | Megaric School | Socrates | Sorites paradox | Stoicism | Zeno of Citium | Zeno of Elea",
+   "md_text": "ambiguity conditionals Cratylus Dialectical School Epicureanism Epicurus Hegel, Georg Wilhelm Friedrich: dialectics logic: ancient Megaric School Socrates Sorites paradox Stoicism Zeno of Citium Zeno of Elea"
+  }
+ ],
+ "spot": [
+  {
+   "i": 115,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Plausible as this principle might seem, there are various counterexamples. One class of counterexamples include temporal duration in the past, such as ‘The Peloponnesian War lasted 27 years’, but there is no time at which ‘the Peloponnesian War is lasting 27 years’. Diodorus, of course, needs counterexamples that involve change in the past, and gives a class of counterexamples that involve successive relations and relational change. (H) ‘Helen had three husbands’ is a past truth but does not ent",
+   "md_text": "Plausible as this principle might seem, there are various counterexamples. One class of counterexamples include temporal duration in the past, such as ‘The Peloponnesian War lasted 27 years’, but there is no time at which ‘the Peloponnesian War is lasting 27 years’. Diodorus, of course, needs counterexamples that involve change in the past, and gives a class of counterexamples that involve successive relations and relational change. (H) ‘Helen had three husbands’ is a past truth but does not ent"
+  },
+  {
+   "i": 34,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "if ⟦M⟧ is sitting, ⟦M⟧ is not standing. But if ⟦M⟧ is not standing, ⟦M⟧ lacks the power to stand (from M0). If ⟦M⟧ lacks the power to stand, ⟦M⟧ cannot stand. If ⟦M⟧ cannot stand, ⟦M⟧ will not stand in the future. So, if ⟦M⟧ is sitting, ⟦M⟧ does not stand in the future.",
+   "md_text": "if ⟦M⟧ is sitting, ⟦M⟧ is not standing. But if ⟦M⟧ is not standing, ⟦M⟧ lacks the power to stand (from M0). If ⟦M⟧ lacks the power to stand, ⟦M⟧ cannot stand. If ⟦M⟧ cannot stand, ⟦M⟧ will not stand in the future. So, if ⟦M⟧ is sitting, ⟦M⟧ does not stand in the future."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Diodorus Cronus",
+ "authors": [
+  "Duncombe, Matthew"
+ ]
+}

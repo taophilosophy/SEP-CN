@@ -1,0 +1,207 @@
+{
+ "slug": "fitch-paradox",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 190,
+ "n_md": 197,
+ "n_pairs": 178,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.999632892804699,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "mathblock",
+    "p",
+    "p",
+    "mathblock",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994672349493873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983922829581994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995475113122172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970149253731343,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996427295462665,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966329966329966,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992325402916347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996202050892518,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "菲奇的可知性悖论 Fitch’s paradox of knowability (Berit Brogaard and Joe Salerno)",
+  "zh_h1": "菲奇的可知性悖论 Fitch’s paradox of knowability (Berit Brogaard and Joe Salerno)",
+  "yuanwen_h1": "Fitch’s Paradox of Knowability",
+  "html_title": "Fitch’s Paradox of Knowability",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 109,
+  "p→mathblock": 39,
+  "p→∅": 10,
+  "h3→h3": 12,
+  "ol→ol": 8,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+mathblock+p+p+mathblock+p+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 126,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Williamson (2000b) defends Fitch’s reasoning against Kvanvig’s charge. He suggests that Kvanvig has no grounds for thinking that Fitch’s conjunction ⟦M⟧ does not designate rigidly. The reason Williamson gives is this. An expression is non-rigid if, when uttered in a fixed context, it varies its reference with the circumstances under which it is evaluated. But Kvanvig gives no convincing reason for thinking that Fitch’s conjunction, as uttered in a fixed context, varies its reference in this way.",
+   "md_text": "Williamson (2000b) defends Fitch’s reasoning against Kvanvig’s charge. He suggests that Kvanvig has no grounds for thinking that Fitch’s conjunction ⟦M⟧ does not designate rigidly. The reason Williamson gives is this. An expression is non-rigid if, when uttered in a fixed context, it varies its reference with the circumstances under which it is evaluated. But Kvanvig gives no convincing reason for thinking that Fitch’s conjunction, as uttered in a fixed context, varies its reference in this way."
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 149,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "⟦M⟧ .",
+   "md_text": "⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Fitch’s Paradox of Knowability",
+ "authors": [
+  "Brogaard, Berit",
+  "Salerno, Joe"
+ ]
+}

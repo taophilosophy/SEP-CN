@@ -1,0 +1,204 @@
+{
+ "slug": "neoplatonism",
+ "letter": "n",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 49,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.999063845721775,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959016393442623,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972621492128679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997277429893819,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996445076430857,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994514536478333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993913572732805,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990680335507922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996779388083736,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946236559139785,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961344038061255,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.993103448275862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "新柏拉图主义 Neoplatonism (Christian Wildberg)",
+  "zh_h1": "新柏拉图主义 Neoplatonism (Christian Wildberg)",
+  "yuanwen_h1": "Neoplatonism",
+  "html_title": "Neoplatonism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 13,
+  "p→p": 18,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 26,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Without light, it would not make any sense to speak of darkness. In fact, there would be no such thing as darkness, since darkness is, if it is anything, light’s absence and opposite. In the same way as darkness is a by-product of light, so matter, the Neoplatonists reasoned, is nothing but a by-product of the dynamic emanation of the First. In fact, it is the limit at which the energy transmitted in the chain of inner and outer activities at the various levels of reality exhausts itself and com",
+   "md_text": "Without light, it would not make any sense to speak of darkness. In fact, there would be no such thing as darkness, since darkness is, if it is anything, light’s absence and opposite. In the same way as darkness is a by-product of light, so matter, the Neoplatonists reasoned, is nothing but a by-product of the dynamic emanation of the First. In fact, it is the limit at which the energy transmitted in the chain of inner and outer activities at the various levels of reality exhausts itself and com"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Neoplatonism",
+ "authors": [
+  "Wildberg, Christian"
+ ]
+}

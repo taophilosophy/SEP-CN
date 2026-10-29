@@ -1,0 +1,529 @@
+{
+ "slug": "bayes-theorem",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 132,
+ "n_md": 137,
+ "n_pairs": 43,
+ "n_flags": 4,
+ "n_merged": 27,
+ "merged": [
+  {
+   "ratio": 0.9840338872596938,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9857854452678897,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "ul",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9754445385266723,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9836011263872785,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9599117322545053,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9581993569131833,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.956232159847764,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "table",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9914440370176357,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9921476787436286,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9833546734955185,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9913805697589482,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9853658536585366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9802209093244285,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9751966122202057,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "table",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9888027562446167,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9808612440191388,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9895502044525216,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9899451553930531,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933244325767691,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9911111111111112,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957627118644068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9888712241653418,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9684715558601782,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998109640831758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9952305246422893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9818181818181818,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "贝叶斯定理 Bayes’ Theorem (James Joyce)",
+  "zh_h1": "贝叶斯定理 Bayes’ Theorem (James Joyce)",
+  "yuanwen_h1": "Bayes’ Theorem",
+  "html_title": "Bayes’ Theorem",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 28,
+  "blockquote→∅": 23,
+  "p→∅": 56,
+  "ul→∅": 5,
+  "blockquote→blockquote": 6,
+  "table→∅": 5,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×9(ul+p+blockquote+p+p+p+p+blockquote+p→ul+p+blockquote+p+p+p+p+blockquote+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 2,
+  "merged×6(p+p+p+blockquote+p+p→p+p+p+blockquote+p+p)": 1,
+  "merged×5(p+p+blockquote+p+blockquote→p+p+blockquote+p+blockquote)": 1,
+  "merged×1(p→p)": 5,
+  "merged×3(table+p+p→p+table+p+p)": 2,
+  "merged×6(p+p+ul+p+p+p→p+p+ul+p+p+p)": 1,
+  "merged×5(ul+p+p+p+blockquote→ul+p+p+p+blockquote)": 1,
+  "merged×5(p+p+p+p+blockquote→p+p+p+p+blockquote)": 1,
+  "merged×5(ul+p+p+blockquote+p→ul+p+p+blockquote+p)": 1,
+  "merged×4(table+p+p+p→p+table+p+p+p)": 1,
+  "merged×4(blockquote+p+blockquote+p→blockquote+p+blockquote+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 2,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×9(blockquote+p+blockquote+p+p+blockquote+p+blockquote+p→blockquote+p+blockquote+p+p+blockquote+p+blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 38,
+   "j": 38,
+   "ratio": 0.03684210526315789,
+   "shape_h": "table",
+   "shape_m": "p",
+   "html_text": "Table 1 Ratio Difference Probability Ratio PR ( H , E ) = P ⟦S⟧ ( H ) /P ( H ) Probability Difference PD ( H , E ) = P ⟦S⟧ ( H ) − P ( H ) Odds Ratio OR ( H , E ) = O ⟦S⟧ ( H ) /O ( H ) Odds Difference OD ( H , E ) = O ⟦S⟧ ( H ) − O ( H ) Bayes' Factor BR ( H , H *; E ) = B ⟦S⟧ ( H , H *) /B ( H , H *) Bayes' Difference BD ( H , H *; E ) = B ⟦S⟧ ( H , H *) − B ( H , H *)",
+   "md_text": "Table 1"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 39,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Ratio Difference Probability Ratio PR(H, E) = P ⟦S⟧ (H)/P(H) Probability Difference PD(H, E) = P ⟦S⟧ (H) − P(H) Odds Ratio OR(H, E) = O ⟦S⟧ (H)/O(H) Odds Difference OD(H, E) = O ⟦S⟧ (H) − O(H) Bayes' Factor BR(H, H; E) = B ⟦S⟧ (H, H)/B*(H, H*) Bayes' Difference BD(H, H*; E) = B ⟦S⟧ (H, H) − B*(H, H**)"
+  },
+  {
+   "kind": "replace",
+   "i": 75,
+   "j": 77,
+   "ratio": 0.3333333333333333,
+   "shape_h": "table",
+   "shape_m": "p",
+   "html_text": "Table 5 : Four measures of incremental evidence Ratio Difference P = Total PR ( H , E ) = P ⟦S⟧ ( H ) /P ( H ) PD ( H , E ) = P ⟦S⟧ ( H ) − P ( H ) O = Total OR ( H , E ) = O ⟦S⟧ ( H ) /O ( H ) OD ( H , E ) = O ⟦S⟧ ( H ) − O ( H )",
+   "md_text": "Table 5: Four measures of incremental evidence"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 78,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Ratio Difference P = Total PR(H, E) = P ⟦S⟧ (H)/P(H) PD(H, E) = P ⟦S⟧ (H) − P(H) O = Total OR(H, E) = O ⟦S⟧ (H)/O(H) OD(H, E) = O ⟦S⟧ (H) − O(H)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 95,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Whether one agrees with this assessment will be a matter of philosophical temperament, in particular of one's willingness to tolerate subjective probabilities in one's account of evidential relations. It will also depend crucially on the extent to which one is convinced that likelihoods are better known and more objective than ordinary subjective probabilities. Cases like the one envisioned in the law of likelihood, where hypotheses deductively entails a definite probability for the data, are re",
+   "md_text": "Whether one agrees with this assessment will be a matter of philosophical temperament, in particular of one's willingness to tolerate subjective probabilities in one's account of evidential relations. It will also depend crucially on the extent to which one is convinced that likelihoods are better known and more objective than ordinary subjective probabilities. Cases like the one envisioned in the law of likelihood, where hypotheses deductively entails a definite probability for the data, are re"
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Bayes’ Theorem",
+ "authors": [
+  "Joyce, James"
+ ]
+}

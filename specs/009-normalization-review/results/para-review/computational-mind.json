@@ -1,0 +1,777 @@
+{
+ "slug": "computational-mind",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 201,
+ "n_md": 208,
+ "n_pairs": 94,
+ "n_flags": 0,
+ "n_merged": 54,
+ "merged": [
+  {
+   "ratio": 0.9992619926199262,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969788519637462,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987136609210188,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9986813186813187,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973998959958398,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994359842075579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986342529363562,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9988193624557261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993235015559464,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974811083123426,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990850869167429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984945427173504,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980657640232108,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994778067885117,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991226530970345,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995289684408856,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988574040219378,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985905567300916,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985984583041345,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981916817359855,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975165562913907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994172494172494,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9981884057971014,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991928974979822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99951171875,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996602106693849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996116504854369,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993319973279893,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993444342467549,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997569275644142,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960339943342776,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988458367683429,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993454069386865,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998422712933754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968847352024922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994931576279777,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981606376456161,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971563981042654,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992831541218637,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990589121023904,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991570665917393,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991262560069899,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994130307180591,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994353472614342,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965870307167235,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988465974625144,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989594172736732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990041824337781,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994487320837927,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9911504424778761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9617321248741189,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "心灵计算理论 computational theory of (Michael Rescorla)",
+  "zh_h1": "心灵计算理论 computational theory of (Michael Rescorla)",
+  "yuanwen_h1": "The Computational Theory of Mind",
+  "html_title": "The Computational Theory of Mind",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 62,
+  "p→∅": 94,
+  "ul→∅": 10,
+  "h3→h3": 19,
+  "ul→ul": 1,
+  "blockquote→∅": 2,
+  "dl→∅": 1,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(p+ul→p+ul)": 2,
+  "merged×2(p+p→p+p)": 13,
+  "merged×1(p→p)": 20,
+  "merged×1(ul→ul)": 4,
+  "merged×4(ul+p+p+p→ul+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 4,
+  "merged×7(ul+p+p+p+p+p+p→ul+p+p+p+p+p+p)": 1,
+  "merged×5(p+ul+p+p+p→p+ul+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(dl+p→p+p+p+p+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 89,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Computational neuroscience differs in a crucial respect from CCTM and connectionism: it abandons multiple realizability. Computational neuroscientists cite specific neurophysiological properties and processes, so their models do not apply equally well to (say) a sufficiently different silicon-based creature. Thus, computational neuroscience sacrifices a key feature that originally attracted philosophers to CTM. Computational neuroscientists will respond that this sacrifice is worth the resultant",
+   "md_text": "Computational neuroscience differs in a crucial respect from CCTM and connectionism: it abandons multiple realizability. Computational neuroscientists cite specific neurophysiological properties and processes, so their models do not apply equally well to (say) a sufficiently different silicon-based creature. Thus, computational neuroscience sacrifices a key feature that originally attracted philosophers to CTM. Computational neuroscientists will respond that this sacrifice is worth the resultant"
+  },
+  {
+   "i": 94,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Beliefs are the sorts of things that can be true or false. My belief that Emmanuel Macron is French is true if Emmanuel Macron is French, false if he is not. Perceptual states are the sorts of things that can be accurate or inaccurate. My perceptual experience as of a red sphere is accurate only if a red sphere is before me. Desires are the sorts of things that can fulfilled or thwarted. My desire to eat chocolate is fulfilled if I eat chocolate, thwarted if I do not eat chocolate.",
+   "md_text": "Beliefs are the sorts of things that can be true or false. My belief that Emmanuel Macron is French is true if Emmanuel Macron is French, false if he is not. Perceptual states are the sorts of things that can be accurate or inaccurate. My perceptual experience as of a red sphere is accurate only if a red sphere is before me. Desires are the sorts of things that can fulfilled or thwarted. My desire to eat chocolate is fulfilled if I eat chocolate, thwarted if I do not eat chocolate."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Computational Theory of Mind",
+ "authors": [
+  "Rescorla, Michael"
+ ]
+}

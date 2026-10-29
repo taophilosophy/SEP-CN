@@ -1,0 +1,496 @@
+{
+ "slug": "scientific-reproducibility",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 130,
+ "n_md": 137,
+ "n_pairs": 82,
+ "n_flags": 0,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9989871708305199,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989840839823908,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969040247678018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987357774968394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9979968840418428,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9989293361884368,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992193598750976,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985569985569985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973968017850502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9991876523151909,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980952380952381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974726200505476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99907019990702,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998040313549832,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971366009769244,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996758508914101,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979381443298969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997131931166348,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957228400342173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985283296541575,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993337774816788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995604395604396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998112317130722,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937421777221527,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954022988505747,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993399339933994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989733059548255,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9988590057049714,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9986882378662003,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9990588235294118,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99880810488677,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990375360923965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9618320610687023,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.993660855784469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "科学结果的可重复性 reproducibility, scientific (Fiona Fidler and John Wilcox)",
+  "zh_h1": "科学结果的可重复性 reproducibility, scientific (Fiona Fidler and John Wilcox)",
+  "yuanwen_h1": "Reproducibility of Scientific Results",
+  "html_title": "Reproducibility of Scientific Results",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 37,
+  "p→p": 40,
+  "h3→h3": 16,
+  "ul→ul": 3,
+  "ol→∅": 1,
+  "ul→∅": 7,
+  "blockquote→blockquote": 6,
+  "ol→ol": 2,
+  "figure→∅": 1,
+  "p→mathblock": 6,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+ol+p+p)": 1,
+  "merged×1(p→p)": 18,
+  "merged×1(ol→ol)": 1,
+  "merged×1(ul→ul)": 6,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+figure→p+p+p+p+table+p)": 1,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The proportion of studies in which there was a match in the statistical significance between original and replication. (Here, the statistical significance of a result is the probability that it would occur given the null hypothesis, and p values are common measures of such probabilities. A replication study and an original study would have a match in statistical significance if, for example, they both specified that the probability of the original and replication results occurring given the null",
+   "md_text": "The proportion of studies in which there was a match in the statistical significance between original and replication. (Here, the statistical significance of a result is the probability that it would occur given the null hypothesis, and p values are common measures of such probabilities. A replication study and an original study would have a match in statistical significance if, for example, they both specified that the probability of the original and replication results occurring given the null"
+  },
+  {
+   "i": 83,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 9,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Function 1. Controlling for sampling error—that is, to verify that previous results in a sample were not obtained purely by chance outcomes which paint a distorted picture of reality Function 2. Controlling for artifacts (internal validity)—that is, ensuring that experimental results are a proper test of the hypothesis (i.e., have internal validity) and do not reflect unintended flaws in the study design (such as when a measurement result is, say, an artifact of a faulty thermometer rather than ",
+   "md_text": "Function 1. Controlling for sampling error—that is, to verify that previous results in a sample were not obtained purely by chance outcomes which paint a distorted picture of reality Function 2. Controlling for artifacts (internal validity)—that is, ensuring that experimental results are a proper test of the hypothesis (i.e., have internal validity) and do not reflect unintended flaws in the study design (such as when a measurement result is, say, an artifact of a faulty thermometer rather than "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Reproducibility of Scientific Results",
+ "authors": [
+  "Fidler, Fiona",
+  "Wilcox, John"
+ ]
+}

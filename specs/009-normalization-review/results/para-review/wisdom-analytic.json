@@ -1,0 +1,242 @@
+{
+ "slug": "wisdom-analytic",
+ "letter": "w",
+ "state": "ok",
+ "n_html": 80,
+ "n_md": 81,
+ "n_pairs": 55,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9994767137624281,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992779783393502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990539262062441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988023952095808,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980636237897649,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982754372998276,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974489795918368,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978806075591664,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975728155339806,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998109640831758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965156794425087,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990067047429848,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992902767920511,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "当代分析哲学中的智慧 Wisdom in Contemporary Analytic Philosophy (Ryan, Shane, Ryan, Sharon)",
+  "zh_h1": "当代分析哲学中的智慧 Wisdom in Contemporary Analytic Philosophy (Ryan, Shane, Ryan, Sharon)",
+  "yuanwen_h1": "Wisdom in Contemporary Analytic Philosophy",
+  "html_title": "Wisdom in Contemporary Analytic Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 33,
+  "p→∅": 22,
+  "h3→h3": 4,
+  "blockquote→blockquote": 10,
+  "dl→∅": 1,
+  "ul→ul": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 48,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One final move that can perhaps do something similar is proposed by Shane Ryan (2016, 2021), whose account is developed through close engagement with Sharon Ryan’s (2012) account of wisdom. Sharon Ryan proposes a condition for wisdom that Shane Ryan endorses with some modifications. The crucial part of Sharon Ryan’s condition for our purposes is that the wise person has very few unjustified beliefs. Shane Ryan’s version states that the wise person believes, in all but a few cases, as it is epist",
+   "md_text": "One final move that can perhaps do something similar is proposed by Shane Ryan (2016, 2021), whose account is developed through close engagement with Sharon Ryan’s (2012) account of wisdom. Sharon Ryan proposes a condition for wisdom that Shane Ryan endorses with some modifications. The crucial part of Sharon Ryan’s condition for our purposes is that the wise person has very few unjustified beliefs. Shane Ryan’s version states that the wise person believes, in all but a few cases, as it is epist"
+  },
+  {
+   "i": 59,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Knowledge of what is good or important for well-being. Knowledge of one’s standing, relative to what is good or important for well-being. Knowledge of a strategy for obtaining what is good or important for well-being.",
+   "md_text": "Knowledge of what is good or important for well-being. Knowledge of one’s standing, relative to what is good or important for well-being. Knowledge of a strategy for obtaining what is good or important for well-being."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Wisdom in Contemporary Analytic Philosophy",
+ "authors": [
+  "Ryan, Shane",
+  "Ryan, Sharon"
+ ]
+}

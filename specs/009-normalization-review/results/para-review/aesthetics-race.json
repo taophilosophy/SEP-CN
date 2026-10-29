@@ -1,0 +1,278 @@
+{
+ "slug": "aesthetics-race",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 95,
+ "n_md": 102,
+ "n_pairs": 72,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9997334754797441,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994162288382954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998204345483929,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996810207336523,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990180032733225,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997196523689375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996669996669997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990862016448371,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996127033307514,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981818181818182,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995311767463666,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988833054159687,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998017053341265,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997135491263248,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995152690256908,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982768523836876,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9958289885297185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9659863945578231,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "美学与种族 Aesthetics and Race (Roelofs, Monique)",
+  "zh_h1": "美学与种族 Aesthetics and Race (Roelofs, Monique)",
+  "yuanwen_h1": "Aesthetics and Race",
+  "html_title": "Aesthetics and Race",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 20,
+  "p→p": 48,
+  "h3→h3": 11,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 49,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Baldwin’s proposals reverberate in a variety of contemporary approaches. I will mention three examples. One, art historian Sarah Lewis (2024) documents the power of unseeing as a mechanism underpinning white hegemony in U.S. visual culture from the Civil War to World War I. By unseeing the reality of Muslim populations in the Caucasus, popular culture and visual art promoted the image of this region as a site of racial whiteness. “Sight,” she contends, “became a form of racial sculpture; vision ",
+   "md_text": "Baldwin’s proposals reverberate in a variety of contemporary approaches. I will mention three examples. One, art historian Sarah Lewis (2024) documents the power of unseeing as a mechanism underpinning white hegemony in U.S. visual culture from the Civil War to World War I. By unseeing the reality of Muslim populations in the Caucasus, popular culture and visual art promoted the image of this region as a site of racial whiteness. “Sight,” she contends, “became a form of racial sculpture; vision "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Aesthetics and Race",
+ "authors": [
+  "Roelofs, Monique"
+ ]
+}

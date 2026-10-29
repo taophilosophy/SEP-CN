@@ -1,0 +1,264 @@
+{
+ "slug": "anscombe",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 113,
+ "n_md": 113,
+ "n_pairs": 93,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.999563128003495,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987468671679198,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973474801061007,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981024667931688,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994805194805195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993220338983051,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992609016999261,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992520568436799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992663242846662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985228951255539,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991836734693877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992553983618764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993510707332901,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987789987789988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9891696750902527,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9534883720930233,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "格特鲁德·伊丽莎白·玛格丽特·安斯康姆 Anscombe, Gertrude Elizabeth Margaret (Eric Wiland and Julia Driver)",
+  "zh_h1": "格特鲁德·伊丽莎白·玛格丽特·安斯康姆 Anscombe, Gertrude Elizabeth Margaret (Eric Wiland and Julia Driver)",
+  "yuanwen_h1": "Gertrude Elizabeth Margaret Anscombe",
+  "html_title": "Gertrude Elizabeth Margaret Anscombe",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 70,
+  "p→∅": 17,
+  "blockquote→blockquote": 8,
+  "blockquote→∅": 2,
+  "ol→ol": 2,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 13,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 25,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "We will start with her last thesis. Anscombe notes that despite their many differences, “every one of the best known English academic moral philosophers” thinks that killing the innocent is sometimes right, such as when the foreseeable consequences of not killing them would be catastrophic. She traces this to Sidgwick’s definition of intention, according to which one intends any and every foreseen consequence of one’s voluntary action. While the moral philosophers she criticizes don’t necessaril",
+   "md_text": "We will start with her last thesis. Anscombe notes that despite their many differences, “every one of the best known English academic moral philosophers” thinks that killing the innocent is sometimes right, such as when the foreseeable consequences of not killing them would be catastrophic. She traces this to Sidgwick’s definition of intention, according to which one intends any and every foreseen consequence of one’s voluntary action. While the moral philosophers she criticizes don’t necessaril"
+  },
+  {
+   "i": 78,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Not any true description of what you do is an intentional action. (“She tripped over the rug”) The descriptions of what you intentionally do can be vague. (“I’m intentionally eating some jelly beans – but I’m not intentionally eating some specific number of them.”) When you make a mistake, you might not do what you intend. (“He intended to unlock the door, but he mistakenly broke the knob.”)",
+   "md_text": "Not any true description of what you do is an intentional action. (“She tripped over the rug”) The descriptions of what you intentionally do can be vague. (“I’m intentionally eating some jelly beans – but I’m not intentionally eating some specific number of them.”) When you make a mistake, you might not do what you intend. (“He intended to unlock the door, but he mistakenly broke the knob.”)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Gertrude Elizabeth Margaret Anscombe",
+ "authors": [
+  "Wiland, Eric",
+  "Driver, Julia"
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "slug": "computing-history",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 88,
+ "n_md": 88,
+ "n_pairs": 83,
+ "n_flags": 0,
+ "n_merged": 4,
+ "merged": [
+  {
+   "ratio": 0.9993373094764745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994949494949495,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "现代计算机发展史 modern history of (B. Jack Copeland)",
+  "zh_h1": "现代计算机发展史 modern history of (B. Jack Copeland)",
+  "yuanwen_h1": "The Modern History of Computing",
+  "html_title": "The Modern History of Computing",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 14,
+  "p→p": 56,
+  "blockquote→blockquote": 10,
+  "p→∅": 3,
+  "ul→ul": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(p→p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 66,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In 1944, John von Neumann joined the ENIAC group. He had become ‘intrigued’ (Goldstine's word, [1972], p. 275) with Turing's universal machine while Turing was at Princeton University during 1936–1938. At the Moore School, von Neumann emphasised the importance of the stored-program concept for electronic computing, including the possibility of allowing the machine to modify its own program in useful ways while running (for example, in order to control loops and branching). Turing's paper of 1936",
+   "md_text": "In 1944, John von Neumann joined the ENIAC group. He had become ‘intrigued’ (Goldstine's word, [1972], p. 275) with Turing's universal machine while Turing was at Princeton University during 1936–1938. At the Moore School, von Neumann emphasised the importance of the stored-program concept for electronic computing, including the possibility of allowing the machine to modify its own program in useful ways while running (for example, in order to control loops and branching). Turing's paper of 1936"
+  },
+  {
+   "i": 72,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "EDSAC, 1949, built at Cambridge University by Maurice Wilkes BINAC, 1949, built by Eckert's and Mauchly's Electronic Control Co., Philadelphia (opinions differ over whether BINAC ever actually worked) Whirlwind I, 1949, Digital Computer Laboratory, Massachusetts Institute of Technology, Jay Forrester SEAC, 1950, US Bureau of Standards Eastern Division, Washington D.C., Samuel Alexander, Ralph Slutz SWAC, 1950, US Bureau of Standards Western Division, Institute for Numerical Analysis, University ",
+   "md_text": "EDSAC, 1949, built at Cambridge University by Maurice Wilkes BINAC, 1949, built by Eckert's and Mauchly's Electronic Control Co., Philadelphia (opinions differ over whether BINAC ever actually worked) Whirlwind I, 1949, Digital Computer Laboratory, Massachusetts Institute of Technology, Jay Forrester SEAC, 1950, US Bureau of Standards Eastern Division, Washington D.C., Samuel Alexander, Ralph Slutz SWAC, 1950, US Bureau of Standards Western Division, Institute for Numerical Analysis, University "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Modern History of Computing",
+ "authors": [
+  "Copeland, B. Jack"
+ ]
+}

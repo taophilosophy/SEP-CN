@@ -1,0 +1,425 @@
+{
+ "slug": "mctaggart",
+ "letter": "m",
+ "state": "flagged",
+ "n_html": 107,
+ "n_md": 111,
+ "n_pairs": 43,
+ "n_flags": 1,
+ "n_merged": 25,
+ "merged": [
+  {
+   "ratio": 0.9970895763716718,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997469269703543,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937535491198183,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981191222570532,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982174688057041,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976407145264578,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978401727861771,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991610738255033,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974137931034482,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950149551345963,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990138067061144,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982453772438926,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994008388256441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958258795468098,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928502415458937,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958238420653,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972093023255814,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978925184404637,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965034965034965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9921996879875195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998214073103941,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975980784627703,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992486851990984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9907692307692307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰·麦克塔格特 McTaggart, John M. E. (Kris McDaniel)",
+  "zh_h1": "约翰·麦克塔格特 McTaggart, John M. E. (Kris McDaniel)",
+  "yuanwen_h1": "John M. E. McTaggart",
+  "html_title": "John M. E. McTaggart",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 59,
+  "p→p": 25,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 3,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 7,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 17,
+   "j": 21,
+   "ratio": 0.9487179487179487,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "McTaggart was delighted by this poem. ⟦P⟧",
+   "md_text": "McTaggart was delighted by this poem."
+  }
+ ],
+ "spot": [
+  {
+   "i": 40,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although the eternal is timeless, some temporal metaphors might more aptly characterize the eternal than others. Some theists describe the life of the divine being as one that is ‘eternally present’, an expression that on its face is explicitly contradictory. Yet describing the divine life as eternally present seems more apt than describing it as eternally past. McTaggart cites several considerations that favor metaphorically describing the eternal as present. First, the present changes only by ",
+   "md_text": "Although the eternal is timeless, some temporal metaphors might more aptly characterize the eternal than others. Some theists describe the life of the divine being as one that is ‘eternally present’, an expression that on its face is explicitly contradictory. Yet describing the divine life as eternally present seems more apt than describing it as eternally past. McTaggart cites several considerations that favor metaphorically describing the eternal as present. First, the present changes only by "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "John M. E. McTaggart",
+ "authors": [
+  "McDaniel, Kris"
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "slug": "shaaban-robert-ethics",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 59,
+ "n_md": 60,
+ "n_pairs": 19,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994548031839494,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976374232162545,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994086339444116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960390810668075,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975669099756691,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954098360655738,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979933110367893,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984707531540716,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991034963641797,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994253345373943,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973751367116296,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "沙班·罗伯特的德性伦理学 Shaaban Robert’s virtue ethics (Dismas Masolo)",
+  "zh_h1": "沙班·罗伯特的德性伦理学 Shaaban Robert’s virtue ethics (Dismas Masolo)",
+  "yuanwen_h1": "Shaaban Robert’s Virtue Ethics",
+  "html_title": "Shaaban Robert’s Virtue Ethics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 31,
+  "blockquote→blockquote": 2,
+  "p→p": 8,
+  "blockquote→∅": 8,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 2,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×6(p+p+blockquote+p+p+p→p+p+blockquote+p+p+p)": 1,
+  "merged×7(p+p+p+blockquote+p+p+p→p+p+p+blockquote+p+p+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 2,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Shaaban separated his frustrations with the failures of society from the valuable moral education he had acquired in the Madrasas (a general name for Islamic schools for the teaching of the fundamental tenets of the Islamic faith and prayers, usually attached to Mosques). He believed in them as the ideals to inculcate in people regardless of whether they were Christians, Muslims, or anything else. He believed in the intrinsic capacity of people to be good, but they had to be taught the exact and",
+   "md_text": "Shaaban separated his frustrations with the failures of society from the valuable moral education he had acquired in the Madrasas (a general name for Islamic schools for the teaching of the fundamental tenets of the Islamic faith and prayers, usually attached to Mosques). He believed in them as the ideals to inculcate in people regardless of whether they were Christians, Muslims, or anything else. He believed in the intrinsic capacity of people to be good, but they had to be taught the exact and"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Shaaban Robert’s Virtue Ethics",
+ "authors": [
+  "Masolo, Dismas"
+ ]
+}

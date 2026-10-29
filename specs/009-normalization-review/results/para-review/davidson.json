@@ -1,0 +1,213 @@
+{
+ "slug": "davidson",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 70,
+ "n_md": 70,
+ "n_pairs": 53,
+ "n_flags": 1,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9997128911857595,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993183367416496,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995576395647173,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998165137614679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984936518183775,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994629430719656,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998484159466424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992156862745099,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993972272453285,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998042669798395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996032270863643,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.986784140969163,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "唐纳德·戴维森 Davidson, Donald (Jeff Malpas)",
+  "zh_h1": "唐纳德·戴维森 Davidson, Donald (Jeff Malpas)",
+  "yuanwen_h1": "Donald Davidson",
+  "html_title": "Donald Davidson",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 30,
+  "p→∅": 15,
+  "h3→h3": 13,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 9,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 69,
+   "j": 69,
+   "ratio": 0.948905109489051,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "action | anomalous monism | bounded rationality | causation: the metaphysics of | events | externalism about the mind | knowledge: analysis of | meaning, theories of | meaning holism | mental causation | Quine, Willard Van Orman | supervenience | Tarski, Alfred | truth | weakness of will",
+   "md_text": "action anomalous monism bounded rationality causation: the metaphysics of events externalism about the mind knowledge: analysis of meaning, theories of meaning holism mental causation Quine, Willard Van Orman supervenience Tarski, Alfred truth weakness of will"
+  }
+ ],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Donald (Herbert) Davidson was one of the most important philosophers of the latter half of the twentieth century whose reception and influence is matched, among American philosophers, perhaps only by that of his teacher, W. V. O. Quine. Davidson’s ideas, presented in a series of essays (and one posthumous monograph) from the 1960s onwards, have had an impact in a range of areas from semantic theory through to epistemology and ethics. His work exhibits a breadth of approach, as well as a unitary ",
+   "md_text": "Donald (Herbert) Davidson was one of the most important philosophers of the latter half of the twentieth century whose reception and influence is matched, among American philosophers, perhaps only by that of his teacher, W. V. O. Quine. Davidson’s ideas, presented in a series of essays (and one posthumous monograph) from the 1960s onwards, have had an impact in a range of areas from semantic theory through to epistemology and ethics. His work exhibits a breadth of approach, as well as a unitary "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Donald Davidson",
+ "authors": [
+  "Malpas, Jeff"
+ ]
+}

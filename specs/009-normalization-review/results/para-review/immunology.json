@@ -1,0 +1,340 @@
+{
+ "slug": "immunology",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 79,
+ "n_md": 81,
+ "n_pairs": 25,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948387096774194,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9979500559075661,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985829003306566,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992918850021243,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983924675622918,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986650236188129,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983241560928896,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980107985223075,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986234322422759,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986859395532195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991337705729489,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987437185929648,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998262380538662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998658141921225,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986236870699022,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "免疫学哲学 immunology, philosophy of (Bartlomiej Swiatczak and Alfred I. Tauber)",
+  "zh_h1": "免疫学哲学 immunology, philosophy of (Bartlomiej Swiatczak and Alfred I. Tauber)",
+  "yuanwen_h1": "Philosophy of Immunology",
+  "html_title": "Philosophy of Immunology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 8,
+  "ul→∅": 1,
+  "p→∅": 51,
+  "h3→h3": 4,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+ol+p)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 2,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 72,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In conclusion, philosophy of immunology is emerging as an area of inquiry with its own subjects of attention and methods that complement rather than mimic or replicate the pursuits in related areas of theoretical and experimental immunology. While the literature remains relatively small compared to other areas of philosophy of biology, the field has produced significant contributions to philosophical understanding. Philosophical studies of immunology have engaged with a range of topics central t",
+   "md_text": "In conclusion, philosophy of immunology is emerging as an area of inquiry with its own subjects of attention and methods that complement rather than mimic or replicate the pursuits in related areas of theoretical and experimental immunology. While the literature remains relatively small compared to other areas of philosophy of biology, the field has produced significant contributions to philosophical understanding. Philosophical studies of immunology have engaged with a range of topics central t"
+  },
+  {
+   "i": 76,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "National Institute of Allergy and Infectious Diseases: Immune System Research Theoretical immunology database: Donald Forsdyke",
+   "md_text": "National Institute of Allergy and Infectious Diseases: Immune System Research Theoretical immunology database: Donald Forsdyke"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy of Immunology",
+ "authors": [
+  "Swiatczak, Bartlomiej",
+  "Tauber, Alfred I."
+ ]
+}

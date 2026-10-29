@@ -1,0 +1,159 @@
+{
+ "slug": "richard-sophister",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 29,
+ "n_md": 29,
+ "n_pairs": 12,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9991783073130649,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9901960784313726,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9927470534904805,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976359338061466,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9931360946745562,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991928974979822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9917571207051334,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "诡辩家理查德 Richard the Sophister [Ricardus Sophista, Magister abstractionum] (Paul Streveler)",
+  "zh_h1": "诡辩家理查德 Richard the Sophister [Ricardus Sophista, Magister abstractionum] (Paul Streveler)",
+  "yuanwen_h1": "Richard the Sophister",
+  "html_title": "Richard the Sophister",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 13,
+  "blockquote→blockquote": 2,
+  "p→p": 3,
+  "blockquote→∅": 3,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 2,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The fact of the existence of two derivative texts of the Abstractiones as well as the numerous known references by accomplished logicians some seventy years after its composition indicate that the Abstractiones was a quite popular book that survived the test of time. Although as compared to sophism literature of the fourteenth century Richard’s analysis of sophisms appears somewhat unsophisticated, as compared to treatments of sophisms of his contemporaries Richard’s analyses are qualitatively s",
+   "md_text": "The fact of the existence of two derivative texts of the Abstractiones as well as the numerous known references by accomplished logicians some seventy years after its composition indicate that the Abstractiones was a quite popular book that survived the test of time. Although as compared to sophism literature of the fourteenth century Richard’s analysis of sophisms appears somewhat unsophisticated, as compared to treatments of sophisms of his contemporaries Richard’s analyses are qualitatively s"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Richard the Sophister",
+ "authors": [
+  "Streveler, Paul"
+ ]
+}

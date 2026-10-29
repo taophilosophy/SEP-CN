@@ -1,0 +1,476 @@
+{
+ "slug": "scottus-eriugena",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 108,
+ "n_md": 113,
+ "n_pairs": 39,
+ "n_flags": 0,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.9975922330097088,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974265203846675,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979461157424188,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985839705465873,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969543147208122,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974458932652238,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982471516213848,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948511305126483,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979278905926233,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972666926981648,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976931949250288,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967141292442497,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980329853230443,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984360337816703,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993798449612403,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978401727861771,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979364424267437,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966101694915255,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955841027699719,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948659440958357,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969747899159664,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934036939313984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937078651685394,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969200198708396,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9961880559085133,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997371798789805,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980691592066,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9924242424242424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰内斯·司各特·爱留根纳 Eriugena, John Scottus (Dermot Moran and Adrian Guiu)",
+  "zh_h1": "约翰内斯·司各特·爱留根纳 Eriugena, John Scottus (Dermot Moran and Adrian Guiu)",
+  "yuanwen_h1": "John Scottus Eriugena",
+  "html_title": "John Scottus Eriugena",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "h3→h3": 17,
+  "p→∅": 56,
+  "p→p": 13,
+  "h3→∅": 1,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 10,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 5,
+  "merged×4(p+p+h3+p→p+p+h3+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 8,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×6(p+p+p+blockquote+p+blockquote→p+p+p+blockquote+p+blockquote)": 1,
+  "merged×5(p+blockquote+p+p+blockquote→p+blockquote+p+p+blockquote)": 1,
+  "merged×6(blockquote+p+blockquote+p+p+p→blockquote+p+blockquote+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 31,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although he has recourse to Maximus Confessor hoping that he might offer some clarifications for understanding Pseudo-Dionysius, Maximus will offer Eriugena much more: a trove of ideas, methods, and philosophical vocabulary. Thus, Maximus allows him to expand and clarify the insights received from Dionysius and provides him with an eclectic philosophical and theological vocabulary: the Maximian oeuvre offers a palimpsest of Neo-Aristotelian and Neoplatonic philosophical terms and concepts along ",
+   "md_text": "Although he has recourse to Maximus Confessor hoping that he might offer some clarifications for understanding Pseudo-Dionysius, Maximus will offer Eriugena much more: a trove of ideas, methods, and philosophical vocabulary. Thus, Maximus allows him to expand and clarify the insights received from Dionysius and provides him with an eclectic philosophical and theological vocabulary: the Maximian oeuvre offers a palimpsest of Neo-Aristotelian and Neoplatonic philosophical terms and concepts along "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "John Scottus Eriugena",
+ "authors": [
+  "Moran, Dermot",
+  "Guiu, Adrian"
+ ]
+}

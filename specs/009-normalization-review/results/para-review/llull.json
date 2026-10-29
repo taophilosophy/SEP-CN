@@ -1,0 +1,884 @@
+{
+ "slug": "llull",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 198,
+ "n_md": 226,
+ "n_pairs": 129,
+ "n_flags": 29,
+ "n_merged": 43,
+ "merged": [
+  {
+   "ratio": 0.9991503823279524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993838570548367,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985528219971056,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974443227455275,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974554707379135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988751406074241,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966405375139977,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977324263038548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993706733794839,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997002997002997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988713318284425,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992565055762082,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967776584317938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992619926199262,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9880382775119617,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998003992015968,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987163029525032,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958614680897407,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990749306197965,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968966340415374,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988674971687429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995414947271893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986996098829649,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970536240424278,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966850828729282,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.95154521175124,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944444444444445,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987063389391979,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997737556561086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982174688057041,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981331673926571,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999340804218853,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977728285077951,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990224828934506,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988901220865705,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991055456171736,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981308411214953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979959919839679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986194201564658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978917779339423,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9966078697421981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "拉蒙·柳利 Llull, Ramon (Ernesto Priani)",
+  "zh_h1": "拉蒙·柳利 Llull, Ramon (Ernesto Priani)",
+  "yuanwen_h1": "Ramon Llull",
+  "html_title": "Ramon Llull",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 69,
+  "p→∅": 61,
+  "h3→h3": 19,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 5,
+  "figure→p": 13,
+  "h4→h4": 10,
+  "ul→ul": 1,
+  "figure→∅": 1,
+  "table→∅": 1,
+  "table→table": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 22,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(p+p→p+p)": 10,
+  "merged×2(p+blockquote→p+blockquote)": 2,
+  "merged×3(p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+table+p→p+table+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 110,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure A."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 111,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Almost all the pictures in this article are from manuscripts and the text is not English and not always legible. A large circle divided into 16 parts at the rim, each labeled with a name]](../assets/llull/image001.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 121,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure S."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 122,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[two concentric circles with the rims divided evenly into 16 sectors. The inner circle's sectors are all labelled. Four squares connect connect the sectors (e.g., 1st, 5th, 9th, 13th and 2nd, 6th, 10th, 14th...)]. The points of each square are labelled with a letter](../assets/llull/image003.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 132,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure T."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 133,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[3 concentric circles with the rims divided into 15 even sectors. 5 equilateral triangles each a different color connect the sectors. Sectors and points of the triangles are labelled.]](../assets/llull/image004.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 138,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure V."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 139,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a circle divided on the rim into 14 sectors with the sectors labelled alternatively in red and black ink. The red sectors are all connected by lines as are the black sectors.]](../assets/llull/image005.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 143,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure X."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 144,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a circle divided on the rim into 8 labelled sectors. A square for the even sectors and another the odd sectors. The points of the squares are labelled.]](../assets/llull/image006.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 147,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure Y and Figure Z."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 148,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[two disjoint circles, one labelled Y and veritas and one Z and falsitas(?)]](../assets/llull/image007.png)"
+  },
+  {
+   "kind": "replace",
+   "i": 142,
+   "j": 156,
+   "ratio": 0.1391941391941392,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figura Elementalis. Ars demostrativa . Beati Raymundi Lulli Opera , ed. Ivo Salzinger i Franz Philipp Wolff, III (Magúncia: Häffner, 1722. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.",
+   "md_text": "Figura Elementalis."
+  },
+  {
+   "kind": "replace",
+   "i": 143,
+   "j": 157,
+   "ratio": 0.06543075245365322,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Nevertheless, the introduction of the Demonstrative Figure in Ars demostrativa is particularly meaningful, for it synthesizes the other figures and makes their relationship dynamic. The Demonstrative Figure is formed by six circles, and it includes a mechanism that allows the circles to rotate. At the center, Llull places a triangle, as those found in Figure T . The first two circles correspond to the Elemental Figure , the following two, with seven letters, represent Figures A, S, T, V, X, Y, Z. The last two circles have the letters B–R that are the terms of Figure S , but Figures A, T, V, X as well, and other two figures, the Principles of Theology and the Principles of Philosophy, which are introduced when the operation of the Art is extended to both fields.",
+   "md_text": "![[four tables of 4 by 4 cells. The tables are labeled Figura Ignis, Figura Aëris, Figura Aquae, and Figura Terrae]](../assets/llull/image008.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 158,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figura Elementalis. Ars demostrativa. Beati Raymundi Lulli Opera, ed. Ivo Salzinger i Franz Philipp Wolff, III (Magúncia: Häffner, 1722. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 159,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Nevertheless, the introduction of the Demonstrative Figure in Ars demostrativa is particularly meaningful, for it synthesizes the other figures and makes their relationship dynamic. The Demonstrative Figure is formed by six circles, and it includes a mechanism that allows the circles to rotate. At the center, Llull places a triangle, as those found in Figure T. The first two circles correspond to the Elemental Figure, the following two, with seven letters, represent Figures A, S, T, V, X, Y, Z. The last two circles have the letters B–R that are the terms of Figure S, but Figures A, T, V, X as well, and other two figures, the Principles of Theology and the Principles of Philosophy, which are introduced when the operation of the Art is extended to both fields."
+  },
+  {
+   "kind": "replace",
+   "i": 145,
+   "j": 161,
+   "ratio": 0.16268788682581786,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The importance of the Demonstrative Figure resides in its being a step towards the universalization of the Ars , for it initiates a process of greater abstraction of the principles. Even though the terms used in the original figures are kept, they, as well as the figures themselves, have been substituted for letters. At the same time, it is a figure that rotates, which evidently shows the combining character of the Ars. Finally, it opens up the Ars beyond its own principles, to be used in other fields, such as theology, philosophy, and law.",
+   "md_text": "![[line drawing, 7 concentric circles. The innermost circumscribes an equaliteral triangle. The second is divided on the rim into four sectors labelled: Ignis, Terra, Aqua, and Aer. The third is also divided into 4 with the same labels as the second. The fourth is divided into 7 sectors labelled: A, Z, Y, X, V, T, S. The fifth is also divided into 7 with the same labels as the fourth. The sixth is divided into 16 sectors labelled: F, E, D, C, B, R, Q, P, O, N, M, L, K, I, H, G. The seventh is also divided into 16 with the same labels as the sixth.]](../assets/llull/image009.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 162,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Demonstrative Figure"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 163,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The importance of the Demonstrative Figure resides in its being a step towards the universalization of the Ars, for it initiates a process of greater abstraction of the principles. Even though the terms used in the original figures are kept, they, as well as the figures themselves, have been substituted for letters. At the same time, it is a figure that rotates, which evidently shows the combining character of the Ars. Finally, it opens up the Ars beyond its own principles, to be used in other fields, such as theology, philosophy, and law."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 173,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "First Figure."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 174,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[This is a figure from an illustrated manuscript. A circle divided into 9 even sectors each labelled with a letter and word.]](../assets/llull/image010.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 180,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Second Figure."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 181,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A circle divided into 9 with each sector labeled by a letter and three phrases. The sectors are connected by three equilateral triangles, the points of each are also labelled.]](../assets/llull/image011.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 185,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Third Figure."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 186,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[An 8 by 8 table with the upper left cells labelled. The lower right has running text.]](../assets/llull/image012.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 188,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Fourth Figure."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 189,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Three concentric circles. The innermost one divided into 9 sectors labelled: B, C, D, E, F, G, H, I, K. The middle also into 9 sectors with the same labels. The outermost also into 9 sectors.]](../assets/llull/image013.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 193,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Table of the Fourth Figure (fragment)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 194,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[table from a manuscript. not very legible.]](../assets/llull/image014.png)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 69,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Signification does not only describe the relationship between creation and divinity. In addition, it describes the relationship among the different degrees of existence. Llull shares the theory—commonly used in Christian, Jewish, and Arab cultures—of a ladder of beings. It is organized based on the existence of an order—a structure that organizes things according to a purpose—which results in a hierarchy defined by similarity or difference in each degree of being ascending or descending in the l",
+   "md_text": "Signification does not only describe the relationship between creation and divinity. In addition, it describes the relationship among the different degrees of existence. Llull shares the theory—commonly used in Christian, Jewish, and Arab cultures—of a ladder of beings. It is organized based on the existence of an order—a structure that organizes things according to a purpose—which results in a hierarchy defined by similarity or difference in each degree of being ascending or descending in the l"
+  },
+  {
+   "i": 110,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure A. Ars compendiosa inveniendi veritatem XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte.",
+   "md_text": "Figure A. Ars compendiosa inveniendi veritatem XV Century. Palma, BP, 1031. Digital version Biblioteca Virtual del Patrimonio Bibliográfico. Spain. Ministerio de Educación, Cultura y Deporte."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ramon Llull",
+ "authors": [
+  "Priani, Ernesto"
+ ]
+}

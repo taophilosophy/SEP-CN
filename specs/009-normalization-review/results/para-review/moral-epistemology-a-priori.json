@@ -1,0 +1,522 @@
+{
+ "slug": "moral-epistemology-a-priori",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 151,
+ "n_md": 172,
+ "n_pairs": 78,
+ "n_flags": 0,
+ "n_merged": 31,
+ "merged": [
+  {
+   "ratio": 0.9960191082802548,
+   "n_h": 1,
+   "n_m": 18,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968272281511393,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997563946406821,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972135715456483,
+   "n_h": 8,
+   "n_m": 9,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989969909729187,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997167941093175,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999483204134367,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9882583170254403,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984074482420678,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980522010128555,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "h2"
+   ],
+   "shape_m": [
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9970104633781763,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998273182524607,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989996665555185,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970149253731343,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997506856145599,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980732177263969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961948249619482,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996489996489997,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962264150943396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986369831894594,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981873111782478,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969635627530364,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984447900466563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994579945799458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982608695652174,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988169680581376,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978064162325199,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995049504950495,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984378486944878,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990990990990991,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "道德认识论中的先验主义 a priorism in (Michael DePaul and Amelia Hicks)",
+  "zh_h1": "道德认识论中的先验主义 a priorism in (Michael DePaul and Amelia Hicks)",
+  "yuanwen_h1": "A Priorism in Moral Epistemology",
+  "html_title": "A Priorism in Moral Epistemology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 9,
+  "p→∅": 59,
+  "p→p": 51,
+  "dl→∅": 4,
+  "h2→∅": 3,
+  "blockquote→∅": 5,
+  "blockquote→blockquote": 10,
+  "ol→ol": 1,
+  "ol→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×3(p+dl+p→p+p+p+p)": 1,
+  "merged×8(dl+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 6,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×2(p+h2→p+h2)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×2(h2+p→h2+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×6(p+p+p+p+p+blockquote→p+p+p+p+p+blockquote)": 1,
+  "merged×5(ol+p+p+p+p→ol+p+p+p+p)": 1,
+  "merged×3(p+h2+p→p+h2+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 76,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Cornell realists hold that the same thing happens in the moral realm. We all hold what is in effect a moral theory. The reasons we come to hold the theory initially are not important, so long as the theory is close enough to the truth. Richard Boyd (1988), for instance, suggests that our background moral theory identifies moral goodness with those properties that are conducive to the satisfaction of human needs, both physical and psychological. Having internalized this theory, we are able to mak",
+   "md_text": "Cornell realists hold that the same thing happens in the moral realm. We all hold what is in effect a moral theory. The reasons we come to hold the theory initially are not important, so long as the theory is close enough to the truth. Richard Boyd (1988), for instance, suggests that our background moral theory identifies moral goodness with those properties that are conducive to the satisfaction of human needs, both physical and psychological. Having internalized this theory, we are able to mak"
+  },
+  {
+   "i": 108,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "There exist no true moral principles. One should not use moral principles in the course of moral deliberation.",
+   "md_text": "There exist no true moral principles. One should not use moral principles in the course of moral deliberation."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "A Priorism in Moral Epistemology",
+ "authors": [
+  "DePaul, Michael",
+  "Hicks, Amelia"
+ ]
+}

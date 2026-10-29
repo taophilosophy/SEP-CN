@@ -1,0 +1,275 @@
+{
+ "slug": "category-theory",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 105,
+ "n_md": 105,
+ "n_pairs": 82,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9985882352941177,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958333333333333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99644128113879,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975903614457832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934640522875817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994916115912558,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995172580255853,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977220956719818,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996221186547424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9986130374479889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.998630762209037,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999163179916318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994562262098967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978544958065145,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979959919839679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9642857142857143,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "范畴论 category theory (Jean-Pierre Marquis)",
+  "zh_h1": "范畴论 category theory (Jean-Pierre Marquis)",
+  "yuanwen_h1": "Category Theory",
+  "html_title": "Category Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "h3→h3": 3,
+  "p→p": 64,
+  "p→∅": 18,
+  "p→mathblock": 3,
+  "blockquote→blockquote": 1,
+  "ol→ol": 2,
+  "table→table": 1,
+  "ol→∅": 1,
+  "ul→∅": 3,
+  "blockquote→∅": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×1(ul→ul)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 73,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Employing the axiomatic method and the language of categories, Grothendieck (1957) defined in an abstract fashion types of categories, e.g., additive and Abelian categories, showed how to perform various constructions in these categories, and proved various results about them. (It should be pointed out that Mac Lane in his 1950 paper had made a previous attempt which introduced certain key ideas, for instance using arrows to define certain fundamental concepts and that Buchsbaum had essentially ",
+   "md_text": "Employing the axiomatic method and the language of categories, Grothendieck (1957) defined in an abstract fashion types of categories, e.g., additive and Abelian categories, showed how to perform various constructions in these categories, and proved various results about them. (It should be pointed out that Mac Lane in his 1950 paper had made a previous attempt which introduced certain key ideas, for instance using arrows to define certain fundamental concepts and that Buchsbaum had essentially "
+  },
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "(C1) Given three mappings ⟦M⟧ and ⟦M⟧ , the triple product ⟦M⟧ is defined if and only if ⟦M⟧ is defined. When either is defined, the associative law",
+   "md_text": "(C1) Given three mappings ⟦M⟧ and ⟦M⟧ , the triple product ⟦M⟧ is defined if and only if ⟦M⟧ is defined. When either is defined, the associative law"
+  },
+  {
+   "i": 38,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The category Set with objects sets and morphisms the usual functions. There are variants here: one can consider partial functions instead, or injective functions or again surjective functions. In each case, the category thus constructed is different. The category Top with objects topological spaces and morphisms continuous functions. Again, one could restrict morphisms to open continuous functions and obtain a different category. The category hoTop with objects topological spaces and morphisms e",
+   "md_text": "The category Set with objects sets and morphisms the usual functions. There are variants here: one can consider partial functions instead, or injective functions or again surjective functions. In each case, the category thus constructed is different. The category Top with objects topological spaces and morphisms continuous functions. Again, one could restrict morphisms to open continuous functions and obtain a different category. The category hoTop with objects topological spaces and morphisms e"
+  }
+ ],
+ "supplements": [
+  "bib.html"
+ ],
+ "meta_title": "Category Theory",
+ "authors": [
+  "Marquis, Jean-Pierre"
+ ]
+}

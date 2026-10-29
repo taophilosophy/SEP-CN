@@ -1,0 +1,110 @@
+{
+ "slug": "david",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 22,
+ "n_md": 22,
+ "n_pairs": 15,
+ "n_flags": 1,
+ "n_merged": 4,
+ "merged": [
+  {
+   "ratio": 0.9992902767920511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996213555471413,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973812196034418,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "大卫 David (Christian Wildberg)",
+  "zh_h1": "大卫 David (Christian Wildberg)",
+  "yuanwen_h1": "David",
+  "html_title": "David",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 5,
+  "p→p": 7,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 21,
+   "j": 21,
+   "ratio": 0.9193548387096774,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Ammonius | Aristotle | Elias | Olympiodorus | Philoponus | Porphyry",
+   "md_text": "Ammonius Aristotle Elias Olympiodorus Philoponus Porphyry"
+  }
+ ],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Somewhat surprising is that these words are generally supposed to have been uttered by a Christian. Although it is most certainly wrong to reckon with a clear-cut dichotomy between the intellectual commitments and sentiments of ‘Christians’ and ‘pagans’ in late antiquity, it is striking that David’s text gives us no indication that the author was indeed a Christian. On the contrary, there are many features that belong to the old world of pagan polytheism: the world is eternal, the soul immortal,",
+   "md_text": "Somewhat surprising is that these words are generally supposed to have been uttered by a Christian. Although it is most certainly wrong to reckon with a clear-cut dichotomy between the intellectual commitments and sentiments of ‘Christians’ and ‘pagans’ in late antiquity, it is striking that David’s text gives us no indication that the author was indeed a Christian. On the contrary, there are many features that belong to the old world of pagan polytheism: the world is eternal, the soul immortal,"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "David",
+ "authors": [
+  "Wildberg, Christian"
+ ]
+}

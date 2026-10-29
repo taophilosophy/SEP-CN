@@ -1,0 +1,637 @@
+{
+ "slug": "twotruths-india",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 228,
+ "n_md": 231,
+ "n_pairs": 155,
+ "n_flags": 0,
+ "n_merged": 46,
+ "merged": [
+  {
+   "ratio": 0.9989167719805019,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940191387559809,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977753058954394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990592662276576,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950093574547723,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979991996798719,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983615510649918,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957983193277311,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.997716894977169,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974079834110938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985419704228286,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966055668703326,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9907834101382489,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9985569985569985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976568601926582,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982062780269059,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993060374739764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985277880014722,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982935153583617,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9916201117318436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9840848806366048,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945945945945946,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937888198757764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9985597695631301,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994202898550725,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994353472614342,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9914163090128756,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958212793314047,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956616052060737,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ol",
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963800904977376,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951923076923077,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950738916256158,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9994837377387713,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9908116385911179,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9952785646836638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9994175888177053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958762886597938,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984627209838586,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983361064891847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9993769470404984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991445680068435,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977924944812362,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995240361732508,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998193315266486,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "印度的“二谛”理论 two truths in India, theory of (Sonam Thakchoe)",
+  "zh_h1": "印度的“二谛”理论 two truths in India, theory of (Sonam Thakchoe)",
+  "yuanwen_h1": "The Theory of Two Truths in India",
+  "html_title": "The Theory of Two Truths in India",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 54,
+  "ol→ol": 15,
+  "p→p": 114,
+  "h3→h3": 8,
+  "ol→∅": 12,
+  "ul→∅": 5,
+  "h4→h4": 4,
+  "ul→ul": 3,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(p→p)": 19,
+  "merged×3(p+ol+p→p+ol+p)": 2,
+  "merged×4(p+p+ol+p→p+p+ol+p)": 1,
+  "merged×1(ol→ol)": 5,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×4(ol+p+p+p→ol+p+p+p)": 1,
+  "merged×2(ul+p→ul+p)": 2,
+  "merged×1(ul→ul)": 2,
+  "merged×4(ol+p+ul+p→ol+p+ul+p)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 46,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Vaibhāṣika’s realistic theory of the two truths and the Sautrāntika’s representationalist theory of the two truths both affirm the ultimate reality of physical objects constituted by atoms. The Yogācāra rejects physical realism of both the Vaibhāṣika and the Sautrāntika, although it agrees with the Sautrāntika’s representationalist theory as far as they both affirm representation as the intentional objects in perception and deny in perception a direct access to any external object. Where the",
+   "md_text": "The Vaibhāṣika’s realistic theory of the two truths and the Sautrāntika’s representationalist theory of the two truths both affirm the ultimate reality of physical objects constituted by atoms. The Yogācāra rejects physical realism of both the Vaibhāṣika and the Sautrāntika, although it agrees with the Sautrāntika’s representationalist theory as far as they both affirm representation as the intentional objects in perception and deny in perception a direct access to any external object. Where the"
+  },
+  {
+   "i": 5,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "the claim that the ultimate reality consists of irreducible spatial units (e.g., atoms of the material category) and irreducible temporal units (e.g., point-instant consciousnesses) of the five basic categories, and the claim that the conventional reality consists of reducible spatial wholes or temporal continua.",
+   "md_text": "the claim that the ultimate reality consists of irreducible spatial units (e.g., atoms of the material category) and irreducible temporal units (e.g., point-instant consciousnesses) of the five basic categories, and the claim that the conventional reality consists of reducible spatial wholes or temporal continua."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Theory of Two Truths in India",
+ "authors": [
+  "Thakchoe, Sonam"
+ ]
+}

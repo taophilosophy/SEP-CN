@@ -1,0 +1,215 @@
+{
+ "slug": "paine",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 60,
+ "n_md": 60,
+ "n_pairs": 43,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9977678571428571,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997384937238494,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998035749361619,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995750106247344,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994279176201373,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997194950911641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999418942475305,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982074263764404,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996095275283092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998234774933804,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995944849959448,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990147783251232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9940828402366864,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "托马斯·潘恩 Paine, Thomas (Mark Philp)",
+  "zh_h1": "托马斯·潘恩 Paine, Thomas (Mark Philp)",
+  "yuanwen_h1": "Thomas Paine",
+  "html_title": "Thomas Paine",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 13,
+  "p→p": 24,
+  "h3→h3": 7,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 49,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For a man so frequently called an atheist, Paine shows a remarkable confidence in the divine order of the creation. The work that did most to damage his reputation in America, and which split his supporters in Britain, was his Age of Reason (1793/4), which was followed by a further part in 1795, and additional writings compiled by later editors into a third part, from 1804. The Age of Reason is not an atheist tract, but a deist one. It combines scathing criticism of claims to authority for the b",
+   "md_text": "For a man so frequently called an atheist, Paine shows a remarkable confidence in the divine order of the creation. The work that did most to damage his reputation in America, and which split his supporters in Britain, was his Age of Reason (1793/4), which was followed by a further part in 1795, and additional writings compiled by later editors into a third part, from 1804. The Age of Reason is not an atheist tract, but a deist one. It combines scathing criticism of claims to authority for the b"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Thomas Paine",
+ "authors": [
+  "Philp, Mark"
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "slug": "religion-morality",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 72,
+ "n_pairs": 18,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9982964224872232,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985336765616345,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985113005819461,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994523548740416,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991412907061232,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992712698123519,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985960100564861,
+   "n_h": 19,
+   "n_m": 19,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990772219524041,
+   "n_h": 13,
+   "n_m": 13,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999592252803262,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "西方哲学中的宗教与道德 and morality (John Hare and Jennifer Herdt)",
+  "zh_h1": "西方哲学中的宗教与道德 and morality (John Hare and Jennifer Herdt)",
+  "yuanwen_h1": "Religion and Morality in Western Philosophy",
+  "html_title": "Religion and Morality in Western Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 51,
+  "p→p": 9,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×19(p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×13(p+p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 61,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Two main disqualifiers of the project of relating morality intimately to religion seemed to emerge in the nineteenth and twentieth centuries. The first disqualifier was the prestige of natural science, and the attempt to make it foundational for all human knowledge. The various empiricist, verificationist, and reductionist forms of foundationalism have not yet succeeded, and even within modern philosophy there has been a continuous resistance to them. This is not to say they will not succeed in ",
+   "md_text": "Two main disqualifiers of the project of relating morality intimately to religion seemed to emerge in the nineteenth and twentieth centuries. The first disqualifier was the prestige of natural science, and the attempt to make it foundational for all human knowledge. The various empiricist, verificationist, and reductionist forms of foundationalism have not yet succeeded, and even within modern philosophy there has been a continuous resistance to them. This is not to say they will not succeed in "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Religion and Morality in Western Philosophy",
+ "authors": [
+  "Hare, John",
+  "Herdt, Jennifer"
+ ]
+}

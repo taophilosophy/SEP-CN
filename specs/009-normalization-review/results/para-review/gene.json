@@ -1,0 +1,369 @@
+{
+ "slug": "gene",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 104,
+ "n_md": 106,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9971894322653176,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993284083277367,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989029474146127,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990331157843848,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998886104149262,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969604863221885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992841803865425,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989010989010989,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985603978536841,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983290827543752,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992239037640668,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990831696136214,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989350372736954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990760367411272,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984388938447815,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977246871444824,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981327800829876,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9925233644859813,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "基因 gene (Robert Meunier)",
+  "zh_h1": "基因 gene (Robert Meunier)",
+  "yuanwen_h1": "Gene",
+  "html_title": "Gene",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 9,
+  "p→∅": 58,
+  "ol→ol": 1,
+  "p→p": 16,
+  "blockquote→blockquote": 6,
+  "blockquote→∅": 3,
+  "h4→h4": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 66,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Kitcher takes causal theories of reference as his starting point to discuss conceptual change in the case of the gene concept (1982). He introduces the notion of reference potential of a term type, which on his account comprises several ways in which the reference of a token is fixed. On the one hand, there are several modes of reference and they are correlated with the intention of the speakers. Sometimes a speaker might value clarity and hence provide a description that fixes the reference of ",
+   "md_text": "Kitcher takes causal theories of reference as his starting point to discuss conceptual change in the case of the gene concept (1982). He introduces the notion of reference potential of a term type, which on his account comprises several ways in which the reference of a token is fixed. On the one hand, there are several modes of reference and they are correlated with the intention of the speakers. Sometimes a speaker might value clarity and hence provide a description that fixes the reference of "
+  },
+  {
+   "i": 5,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "the uniform appearance of a “dominant” character in the first generation, the segregation of the dominant and alternative, “recessive” characters in a ratio 3:1 in the second generation, representing one pure dominant, two hybrids, showing the dominant character, and one pure recessive, and the independent inheritance of separate character pairs.",
+   "md_text": "the uniform appearance of a “dominant” character in the first generation, the segregation of the dominant and alternative, “recessive” characters in a ratio 3:1 in the second generation, representing one pure dominant, two hybrids, showing the dominant character, and one pure recessive, and the independent inheritance of separate character pairs."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Gene",
+ "authors": [
+  "Meunier, Robert"
+ ]
+}

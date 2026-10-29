@@ -1,0 +1,288 @@
+{
+ "slug": "arabic-islamic-natural",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 71,
+ "n_pairs": 36,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9990115321252059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990321161460625,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999466097170315,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988901220865705,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989384288747346,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992401215805471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h2"
+   ],
+   "shape_m": [
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9982995262966112,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956331877729258,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996308600959763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984544049459042,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988165680473373,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987288135593221,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988046856323213,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9545454545454546,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿拉伯和伊斯兰自然哲学与自然科学 natural philosophy and natural science (Jon McGinnis)",
+  "zh_h1": "阿拉伯和伊斯兰自然哲学与自然科学 natural philosophy and natural science (Jon McGinnis)",
+  "yuanwen_h1": "Arabic and Islamic Natural Philosophy and Natural Science",
+  "html_title": "Arabic and Islamic Natural Philosophy and Natural Science",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 4,
+  "h3→h3": 10,
+  "p→∅": 32,
+  "p→p": 18,
+  "h2→∅": 1,
+  "ol→ol": 2,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 6,
+  "merged×1(h2→h2)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "While the Islamic theologians were virtually unanimous that matter is discrete, they varied concerning the make up of the space that atoms occupied, namely, whether space is constituted out of exactly fitting atom-sized cells, or whether it is an open continuous expanse. The debate centered on the issue of whether an atom could be placed on top of two atoms such that the top atom straddles both of the bottom atoms equally, for instance like the top block on a small pyramid made up of three equal",
+   "md_text": "While the Islamic theologians were virtually unanimous that matter is discrete, they varied concerning the make up of the space that atoms occupied, namely, whether space is constituted out of exactly fitting atom-sized cells, or whether it is an open continuous expanse. The debate centered on the issue of whether an atom could be placed on top of two atoms such that the top atom straddles both of the bottom atoms equally, for instance like the top block on a small pyramid made up of three equal"
+  },
+  {
+   "i": 28,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "time-better-known-to-us ↠ motion motion ↠ time-better-known-by-nature",
+   "md_text": "time-better-known-to-us ↠ motion motion ↠ time-better-known-by-nature"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Arabic and Islamic Natural Philosophy and Natural Science",
+ "authors": [
+  "McGinnis, Jon"
+ ]
+}

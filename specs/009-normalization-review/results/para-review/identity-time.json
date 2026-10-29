@@ -1,0 +1,450 @@
+{
+ "slug": "identity-time",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 186,
+ "n_md": 189,
+ "n_pairs": 142,
+ "n_flags": 0,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.999764871855161,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99860529986053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990662931839402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995810640971932,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993373094764745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995459704880817,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995262908574135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994138335287222,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994093325457767,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990645463049579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995235826584088,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980806142034548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991742361684558,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995562786570034,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989827060020345,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978308026030369,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966329966329966,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981718464351006,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988207547169812,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993127147766323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996992481203008,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975124378109452,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999245283018868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996398991717681,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993989180524945,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984447900466563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939393939393939,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991863303498779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988674971687429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988756465032607,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "历时同一性 over time (Andre Gallois and Irem Kurtsal)",
+  "zh_h1": "历时同一性 over time (Andre Gallois and Irem Kurtsal)",
+  "yuanwen_h1": "Identity Over Time",
+  "html_title": "Identity Over Time",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 103,
+  "blockquote→∅": 2,
+  "p→∅": 41,
+  "h3→h3": 13,
+  "p→mathblock": 18,
+  "merged×1(preamble→p+ol+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(p→p)": 22,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 170,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One problem coincidence theories face is the following. If there can be two things at the same place at the same time that differ only modally, are there also three, more, or indefinitely many things that differ only modally and are at the same place at the same time? This would be an ontological inflation that is best avoided (Sosa 1998, Noonan 1993.) Here is one way to see why the answer might be yes. Let us say that there is an object ⟦M⟧ which has property ⟦M⟧ essentially, and property ⟦M⟧ a",
+   "md_text": "One problem coincidence theories face is the following. If there can be two things at the same place at the same time that differ only modally, are there also three, more, or indefinitely many things that differ only modally and are at the same place at the same time? This would be an ontological inflation that is best avoided (Sosa 1998, Noonan 1993.) Here is one way to see why the answer might be yes. Let us say that there is an object ⟦M⟧ which has property ⟦M⟧ essentially, and property ⟦M⟧ a"
+  },
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Despite that, problems about identity appear to play a central role in a large number of philosophical issues whose discussion dates back to the ancient world. One of the most venerable concerns identity and change. Something undergoes change, yet continues to exist and be itself. The same pan is at one time cold, another time hot. How can something be both identical and different from one time to another? At first sight this problem evaporates once we draw a well-known distinction between numer",
+   "md_text": "Despite that, problems about identity appear to play a central role in a large number of philosophical issues whose discussion dates back to the ancient world. One of the most venerable concerns identity and change. Something undergoes change, yet continues to exist and be itself. The same pan is at one time cold, another time hot. How can something be both identical and different from one time to another? At first sight this problem evaporates once we draw a well-known distinction between numer"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Identity Over Time",
+ "authors": [
+  "Gallois, Andre",
+  "Kurtsal, Irem"
+ ]
+}

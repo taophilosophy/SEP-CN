@@ -1,0 +1,433 @@
+{
+ "slug": "grosseteste",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 112,
+ "n_md": 112,
+ "n_pairs": 59,
+ "n_flags": 0,
+ "n_merged": 29,
+ "merged": [
+  {
+   "ratio": 0.999536822603057,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987163029525032,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9925177339422797,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.999344262295082,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975170701427685,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990338164251208,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989658738366081,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983164983164983,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993732372297085,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987228607918263,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998677831643896,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995114802149487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998547215496368,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990476190476191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973890339425587,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975062344139651,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991452991452991,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99933818663137,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997039230199852,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977324263038548,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992317541613316,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989071038251366,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984061204972904,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995517705064993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984575835475579,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990147783251232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992069785884219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974025974025974,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "罗伯特·格罗斯泰斯特 Grosseteste, Robert (Neil Lewis and Nicola Polloni)",
+  "zh_h1": "罗伯特·格罗斯泰斯特 Grosseteste, Robert (Neil Lewis and Nicola Polloni)",
+  "yuanwen_h1": "Robert Grosseteste",
+  "html_title": "Robert Grosseteste",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 15,
+  "p→∅": 49,
+  "p→p": 33,
+  "ul→∅": 2,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 2,
+  "h3→h3": 3,
+  "ol→ol": 1,
+  "merged×1(p→p)": 13,
+  "merged×2(p+p→p+p)": 6,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Robert Grosseteste (ca. 1168–1253), Bishop of Lincoln from 1235 to 1253, was one of the most prominent and remarkable figures in thirteenth-century English intellectual life. A philosopher, theologian, and student of nature, Grosseteste also translated and commented on works by Aristotle and Greek patristic thinkers. He played a pivotal role in the development of Aristotelianism, being among the first Latin philosophers to incorporate theories of Avicenna and Averroes, while also drawing heavily",
+   "md_text": "Robert Grosseteste (ca. 1168–1253), Bishop of Lincoln from 1235 to 1253, was one of the most prominent and remarkable figures in thirteenth-century English intellectual life. A philosopher, theologian, and student of nature, Grosseteste also translated and commented on works by Aristotle and Greek patristic thinkers. He played a pivotal role in the development of Aristotelianism, being among the first Latin philosophers to incorporate theories of Avicenna and Averroes, while also drawing heavily"
+  },
+  {
+   "i": 95,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "that Grosseteste was the first in the Latin West to articulate an experimental method in science (1955: 98); that he “seems to have been the first writer to make systematic use of a method of experimental verification and falsification” (1955: 107); that he attributed “special importance to mathematics in attempting to provide scientific explanations of the physical world” (1955: 111).",
+   "md_text": "that Grosseteste was the first in the Latin West to articulate an experimental method in science (1955: 98); that he “seems to have been the first writer to make systematic use of a method of experimental verification and falsification” (1955: 107); that he attributed “special importance to mathematics in attempting to provide scientific explanations of the physical world” (1955: 111)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Robert Grosseteste",
+ "authors": [
+  "Lewis, Neil",
+  "Polloni, Nicola"
+ ]
+}

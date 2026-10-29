@@ -1,0 +1,520 @@
+{
+ "slug": "logic-massexpress",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 153,
+ "n_md": 153,
+ "n_pairs": 49,
+ "n_flags": 1,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9905660377358491,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992020592020592,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996252129471891,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962506695232994,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937773070303191,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9828109201213346,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9841726618705036,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9870824053452116,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937561616825501,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9848908785674314,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9768555466879489,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937684486716957,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9879194630872483,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.987085906793936,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9709035222052067,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9897112512446067,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949238578680203,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9877622377622378,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965960665658093,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9802731411229135,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956204379562044,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969209716045159,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.983671449777338,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991231915826392,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987966305655837,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "物质名词的逻辑 logic of (David Nicolas)",
+  "zh_h1": "物质名词的逻辑 logic of (David Nicolas)",
+  "yuanwen_h1": "The Logic of Mass Expressions",
+  "html_title": "The Logic of Mass Expressions",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 13,
+  "p→p": 31,
+  "h3→h3": 3,
+  "p→∅": 99,
+  "ul→∅": 3,
+  "ul→ul": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×2(p+p→p+p)": 6,
+  "merged×11(p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×2(ul+p→ul+p)": 1,
+  "merged×10(p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×5(ul+p+p+p+p→ul+p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×10(p+p+p+p+ul+p+p+p+p+p→p+p+p+p+ul+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 126,
+   "j": 126,
+   "ratio": 0.9438202247191011,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Most M P is true iff μ( C ∩ [ P ]) ≥ μ( C ) / 2",
+   "md_text": "Most M P is true iff μ(C ∩ [P]) ≥ μ(C) / 2"
+  }
+ ],
+ "spot": [
+  {
+   "i": 13,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A first attempt to defend the view would be as follows. Bunt (1985) and others have proposed that, although modern science is in conflict with the claim that the mass noun water refers distributively, English speakers use the noun as if it did. The problem with this suggestion is that it cannot be falsified, since it puts aside the very cases that would do so. So it doesn’t seem to be an empirical hypothesis and it doesn’t appear to make any prediction. What benefit would there be to add this cl",
+   "md_text": "A first attempt to defend the view would be as follows. Bunt (1985) and others have proposed that, although modern science is in conflict with the claim that the mass noun water refers distributively, English speakers use the noun as if it did. The problem with this suggestion is that it cannot be falsified, since it puts aside the very cases that would do so. So it doesn’t seem to be an empirical hypothesis and it doesn’t appear to make any prediction. What benefit would there be to add this cl"
+  },
+  {
+   "i": 134,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Axioms guaranteeing the existence of mereological sums are replaced by non-singular or plural reference. (See also Nicolas 2009 on mereological constancy and Nicolas 2021 on mixtures and mass terms.) Combined with a generalized notion of covering, this allows a treatment of identity statements different from that offered by the mixed set-theoretic and mereological approach (where what remains identical over time is a certain mereological sum).",
+   "md_text": "Axioms guaranteeing the existence of mereological sums are replaced by non-singular or plural reference. (See also Nicolas 2009 on mereological constancy and Nicolas 2021 on mixtures and mass terms.) Combined with a generalized notion of covering, this allows a treatment of identity statements different from that offered by the mixed set-theoretic and mereological approach (where what remains identical over time is a certain mereological sum)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Logic of Mass Expressions",
+ "authors": [
+  "Nicolas, David"
+ ]
+}

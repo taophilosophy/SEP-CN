@@ -1,0 +1,562 @@
+{
+ "slug": "thick-ethical-concepts",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 146,
+ "n_md": 172,
+ "n_pairs": 61,
+ "n_flags": 0,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9994361432196223,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981308411214953,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999128160418483,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982309234579549,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983292383292384,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993287088834191,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998190227227026,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982847341337907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989139288623404,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984472049689441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986187845303868,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990808823529411,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978192391567725,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973060344827587,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993891264508247,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994321408290744,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992403140035452,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995866060355518,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972809667673715,
+   "n_h": 3,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h1",
+    "p",
+    "p",
+    "h1",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983133038161501,
+   "n_h": 8,
+   "n_m": 16,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983193277310924,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988199816441589,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986437613019892,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976114649681529,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943502824858758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992860967338926,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981269510926118,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993364299933643,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985550524997592,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9888475836431226,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "厚伦理概念 thick ethical concepts (Pekka Väyrynen)",
+  "zh_h1": "厚伦理概念 thick ethical concepts (Pekka Väyrynen)",
+  "yuanwen_h1": "Thick Ethical Concepts",
+  "html_title": "Thick Ethical Concepts",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 71,
+  "p→p": 40,
+  "h3→h3": 7,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 4,
+  "dl→∅": 8,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×1(p→p)": 9,
+  "merged×7(p+p+blockquote+p+p+blockquote+p→p+p+blockquote+p+p+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(dl+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 5,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×3(dl+p+p→p+h1+p+p+h1+p+p)": 1,
+  "merged×8(p+p+dl+p+dl+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+dl+p→p+p+p+p+p)": 1,
+  "merged×4(dl+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 42,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although Shapelessness is a general issue about evaluative terms and concepts, its bearing on thick concepts is worth noting. Suppose an outsider could anticipate insiders’ use of an evaluative term in new cases by using similarities between old cases and new cases to infer whether the evaluative term applies in the new cases. Shapelessness entails that such similarities would have to be evaluative. If so, Descriptive Equivalence is false. Conversely, insofar as the extensions of evaluative term",
+   "md_text": "Although Shapelessness is a general issue about evaluative terms and concepts, its bearing on thick concepts is worth noting. Suppose an outsider could anticipate insiders’ use of an evaluative term in new cases by using similarities between old cases and new cases to infer whether the evaluative term applies in the new cases. Shapelessness entails that such similarities would have to be evaluative. If so, Descriptive Equivalence is false. Conversely, insofar as the extensions of evaluative term"
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Thick Ethical Concepts",
+ "authors": [
+  "Väyrynen, Pekka"
+ ]
+}

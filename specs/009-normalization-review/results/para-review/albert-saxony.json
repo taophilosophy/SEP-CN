@@ -1,0 +1,184 @@
+{
+ "slug": "albert-saxony",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 39,
+ "n_md": 39,
+ "n_pairs": 15,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983416252072969,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983050847457627,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987467463607442,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974811083123426,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996367598982928,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9949748743718593,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9649122807017544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "萨克森的阿尔伯特 Albert of Saxony (Joél Biard)",
+  "zh_h1": "萨克森的阿尔伯特 Albert of Saxony (Joél Biard)",
+  "yuanwen_h1": "Albert of Saxony",
+  "html_title": "Albert of Saxony",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 21,
+  "p→p": 6,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 24,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Albert wrote a treatise on proportions dedicated to the analysis of motion, highly influenced by the treatise De proportionibus velocitatum in motibus of Thomas Bradwardine. He explains in a synthetic way the elements of the theory of proportions, applying this theory to different motions (local motion, alteration, augmentation, and diminution). Motion is to be studied “from the point of view of the cause” and “from the point of view of the effect”. Like Oresme, Albert adopts the idea that motio",
+   "md_text": "Albert wrote a treatise on proportions dedicated to the analysis of motion, highly influenced by the treatise De proportionibus velocitatum in motibus of Thomas Bradwardine. He explains in a synthetic way the elements of the theory of proportions, applying this theory to different motions (local motion, alteration, augmentation, and diminution). Motion is to be studied “from the point of view of the cause” and “from the point of view of the effect”. Like Oresme, Albert adopts the idea that motio"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Albert of Saxony",
+ "authors": [
+  "Biard, Joél"
+ ]
+}

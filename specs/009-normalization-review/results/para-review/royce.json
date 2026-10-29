@@ -1,0 +1,441 @@
+{
+ "slug": "royce",
+ "letter": "r",
+ "state": "flagged",
+ "n_html": 112,
+ "n_md": 113,
+ "n_pairs": 57,
+ "n_flags": 2,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9665809768637532,
+   "n_h": 2,
+   "n_m": 1,
+   "shape_h": [
+    "p",
+    "pubinfo"
+   ],
+   "shape_m": [
+    "image"
+   ]
+  },
+  {
+   "ratio": 0.9994689325544344,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994236311239193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988399071925754,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991423670668954,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996810207336523,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993589743589744,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995019093475013,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988267500977708,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988791750728536,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991793188346327,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996083039561301,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989406779661016,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968669894616918,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984276729559748,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999043062200957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996309963099631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978189749182116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986864327265903,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974175035868006,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930715935334873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985666507405638,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986357435197817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986401958118031,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993204983012458,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "乔赛亚·罗伊斯 Royce, Josiah (Kelly A. Parker and Scott Pratt)",
+  "zh_h1": "乔赛亚·罗伊斯 Royce, Josiah (Kelly A. Parker and Scott Pratt)",
+  "yuanwen_h1": "Josiah Royce",
+  "html_title": "Josiah Royce",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "p→∅": 51,
+  "pubinfo→∅": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→p": 30,
+  "h3→h3": 9,
+  "h4→h4": 6,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 2,
+  "ol→∅": 1,
+  "p→mathblock": 1,
+  "figure→p": 2,
+  "ul→ul": 1,
+  "merged×2(p+pubinfo→image)": 1,
+  "merged×2(p+p→p+p)": 10,
+  "merged×1(p→p)": 8,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×5(p+p+ol+p+p→p+p+ol+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 88,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 90,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2."
+  }
+ ],
+ "spot": [
+  {
+   "i": 20,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Royce announced the beginning of his professional career with a novel defense of absolute idealism, “the argument from error.” Kant had introduced the notion of a “transcendental argument” by asking what the world must be like in order for knowledge of the world to be possible. In The Religious Aspect of Philosophy Royce took the experience of error — a particularly compelling aspect of the phenomenon of knowing — as the starting point for his own transcendental argument. According to the corres",
+   "md_text": "Royce announced the beginning of his professional career with a novel defense of absolute idealism, “the argument from error.” Kant had introduced the notion of a “transcendental argument” by asking what the world must be like in order for knowledge of the world to be possible. In The Religious Aspect of Philosophy Royce took the experience of error — a particularly compelling aspect of the phenomenon of knowing — as the starting point for his own transcendental argument. According to the corres"
+  },
+  {
+   "i": 69,
+   "shape_h": "h3",
+   "shape_m": "h3",
+   "html_text": "3.1 Elements of System ⟦M⟧",
+   "md_text": "3.1 Elements of System ⟦M⟧"
+  },
+  {
+   "i": 89,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. ⟦M⟧",
+   "md_text": "Figure 1. ⟦M⟧"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Josiah Royce",
+ "authors": [
+  "Parker, Kelly A.",
+  "Pratt, Scott"
+ ]
+}

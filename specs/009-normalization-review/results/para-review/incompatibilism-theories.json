@@ -1,0 +1,173 @@
+{
+ "slug": "incompatibilism-theories",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 103,
+ "n_md": 104,
+ "n_pairs": 90,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991251093613298,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992509363295881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993098688750862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973045822102425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996033320111067,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994459833795014,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994137648024387,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9940828402366864,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "自由意志的不相容主义（非决定性）理论 (nondeterministic) theories of free will (Randolph Clarke, Justin Capes, and Philip Swenson)",
+  "zh_h1": "自由意志的不相容主义（非决定性）理论 (nondeterministic) theories of free will (Randolph Clarke, Justin Capes, and Philip Swenson)",
+  "yuanwen_h1": "Incompatibilist (Nondeterministic) Theories of Free Will",
+  "html_title": "Incompatibilist (Nondeterministic) Theories of Free Will",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 72,
+  "h3→h3": 9,
+  "blockquote→blockquote": 1,
+  "p→∅": 9,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 74,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Here is a brief illustration of a freely made decision, as this type of view would have it. Suppose that on some occasion a certain individual, Leo, is deliberating about whether to tell the truth or to lie. He recognizes reasons favoring each alternative and has an intention to make up his mind now. Suppose that there is a nonzero probability that Leo’s recognizing the reasons favoring telling the truth (together with his having the indicated intention) will nondeterministically cause his decid",
+   "md_text": "Here is a brief illustration of a freely made decision, as this type of view would have it. Suppose that on some occasion a certain individual, Leo, is deliberating about whether to tell the truth or to lie. He recognizes reasons favoring each alternative and has an intention to make up his mind now. Suppose that there is a nonzero probability that Leo’s recognizing the reasons favoring telling the truth (together with his having the indicated intention) will nondeterministically cause his decid"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Incompatibilist (Nondeterministic) Theories of Free Will",
+ "authors": [
+  "Clarke, Randolph",
+  "Capes, Justin",
+  "Swenson, Philip"
+ ]
+}

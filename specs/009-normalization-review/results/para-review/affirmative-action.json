@@ -1,0 +1,467 @@
+{
+ "slug": "affirmative-action",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 119,
+ "n_md": 121,
+ "n_pairs": 53,
+ "n_flags": 0,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.9987492182614134,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975634226745019,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957578094870806,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992156862745099,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933065595716198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973190348525469,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992609016999261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981785063752276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998810232004759,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986492570914003,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973045822102425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984271783579742,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994347088750707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982883475971034,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971492873218305,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999247554552295,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997826761875194,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984137774756402,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978180597515945,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976230899830221,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986168741355463,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.99896229678312,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971428571428571,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9894179894179894,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963840899959823,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984235417761429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9958419958419958,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9541284403669725,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "肯定性行动 affirmative action (Robert Fullinwider)",
+  "zh_h1": "肯定性行动 affirmative action (Robert Fullinwider)",
+  "yuanwen_h1": "Affirmative Action",
+  "html_title": "Affirmative Action",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "p→p": 38,
+  "p→∅": 44,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 20,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 3,
+  "merged×1(blockquote→blockquote)": 5,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 3,
+  "merged×3(blockquote+blockquote+p→blockquote+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×7(p+p+p+blockquote+blockquote+blockquote+p→p+p+p+blockquote+blockquote+blockquote+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(blockquote+blockquote→blockquote+blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 112,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Roe v Wade, 1973, 410 U.S. 113. University of California Regents v. Bakke, 1978, 438 U.S. 265. Wygant v. Jackson, 1986, 476 U.S. 267. Richmond v. J. A. Croson Company, 1989, 488 U.S. 469. Podberesky v. Kirwan, 1994, 38 F. 3d 147 (Fourth Circuit). Hopwood v. Texas, 1994, 861 F. Supp. 551 (Western District, Texas). Adarand Constructors v. Pena, 1995, 515 I.S. 200. Hopwood v. Texas, 1996, 78 F. 3d 932 (Fifth Circuit). Wessman v. Gittens, 1998, 106 F. 3d 798 (First Circuit). Johnson v. Board of Rege",
+   "md_text": "Roe v Wade, 1973, 410 U.S. 113. University of California Regents v. Bakke, 1978, 438 U.S. 265. Wygant v. Jackson, 1986, 476 U.S. 267. Richmond v. J. A. Croson Company, 1989, 488 U.S. 469. Podberesky v. Kirwan, 1994, 38 F. 3d 147 (Fourth Circuit). Hopwood v. Texas, 1994, 861 F. Supp. 551 (Western District, Texas). Adarand Constructors v. Pena, 1995, 515 I.S. 200. Hopwood v. Texas, 1996, 78 F. 3d 932 (Fifth Circuit). Wessman v. Gittens, 1998, 106 F. 3d 798 (First Circuit). Johnson v. Board of Rege"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Affirmative Action",
+ "authors": [
+  "Fullinwider, Robert"
+ ]
+}

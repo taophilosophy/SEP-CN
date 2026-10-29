@@ -1,0 +1,299 @@
+{
+ "slug": "vagueness",
+ "letter": "v",
+ "state": "ok",
+ "n_html": 154,
+ "n_md": 154,
+ "n_pairs": 124,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992229992229992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982905982905983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999169205206314,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991701244813278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999670075882547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995709995709996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996250468691413,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992260061919505,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994288977727013,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979494190020506,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988860007426662,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992038216560509,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989506820566632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989395546129375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977011494252873,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990272373540856,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "模糊性 vagueness (Roy Sorensen)",
+  "zh_h1": "模糊性 vagueness (Roy Sorensen)",
+  "yuanwen_h1": "Vagueness",
+  "html_title": "Vagueness",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 12,
+  "p→p": 101,
+  "p→∅": 28,
+  "blockquote→blockquote": 7,
+  "ul→ul": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×1(p→p)": 9,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 113,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Hans Kamp (1981), the founder of contextualism, maintained that the extension of vague words orbits the speaker’s store of conversational commitments. He notes that the commitment pressures the speaker to adjust past judgments to current judgments. This backward smoothing undermines the search for a sharp transition. The diagnostic potential of this smoothing is first recognized by Diana Raffman (1994). Switching categories (e.g., from blue to green) between two neighboring, highly similar items",
+   "md_text": "Hans Kamp (1981), the founder of contextualism, maintained that the extension of vague words orbits the speaker’s store of conversational commitments. He notes that the commitment pressures the speaker to adjust past judgments to current judgments. This backward smoothing undermines the search for a sharp transition. The diagnostic potential of this smoothing is first recognized by Diana Raffman (1994). Switching categories (e.g., from blue to green) between two neighboring, highly similar items"
+  },
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The indeterminacy of translation applies to one’s own language. Introspection will not settle whether ‘ ⟦M⟧ is the same person as ⟦M⟧ ’ means ‘ ⟦M⟧ has the same body as ⟦M⟧ ’ or ‘ ⟦M⟧ has same memories as ⟦M⟧ ’. You have never encountered a case in which these two possible rules of usage diverge. John Locke imagines a prince and cobbler who awake with each other’s memories. Is the prince now in the cobbler’s bed or is the prince in his royal bed with errant memories? Quine sees a deflating resem",
+   "md_text": "The indeterminacy of translation applies to one’s own language. Introspection will not settle whether ‘ ⟦M⟧ is the same person as ⟦M⟧ ’ means ‘ ⟦M⟧ has the same body as ⟦M⟧ ’ or ‘ ⟦M⟧ has same memories as ⟦M⟧ ’. You have never encountered a case in which these two possible rules of usage diverge. John Locke imagines a prince and cobbler who awake with each other’s memories. Is the prince now in the cobbler’s bed or is the prince in his royal bed with errant memories? Quine sees a deflating resem"
+  },
+  {
+   "i": 42,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Base step: A one-day-old human being is a child. Induction step: If an ⟦M⟧ -day-old human being is a child, then that human being is also a child when it is ⟦M⟧ days old. Conclusion: Therefore, a 36,500-day-old human being is a child.",
+   "md_text": "Base step: A one-day-old human being is a child. Induction step: If an ⟦M⟧ -day-old human being is a child, then that human being is also a child when it is ⟦M⟧ days old. Conclusion: Therefore, a 36,500-day-old human being is a child."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Vagueness",
+ "authors": [
+  "Sorensen, Roy"
+ ]
+}

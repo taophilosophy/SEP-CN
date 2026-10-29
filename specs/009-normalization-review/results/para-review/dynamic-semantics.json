@@ -1,0 +1,475 @@
+{
+ "slug": "dynamic-semantics",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 149,
+ "n_md": 155,
+ "n_pairs": 109,
+ "n_flags": 0,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9991734778216549,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993127147766323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997716894977169,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.999163179916318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979811574697174,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979123173277662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988249118683902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994182664339732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994952044422009,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986431478968792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989189189189189,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991809991809992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971509971509972,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981884057971014,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969040247678018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9863013698630136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982068141063957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983792544570502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990448901623686,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989642672190575,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993041057759221,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963503649635036,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985185185185185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983516483516484,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977973568281938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973190348525469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989902389767755,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993544222078761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975903614457832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980456026058632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9934426229508196,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.955595026642984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "动态语义 dynamic (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)",
+  "zh_h1": "动态语义 dynamic (Rick Nouwen, Adrian Brasoveanu, Jan van Eijck, and Albert Visser)",
+  "yuanwen_h1": "Dynamic Semantics",
+  "html_title": "Dynamic Semantics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 53,
+  "h3→h3": 12,
+  "p→∅": 36,
+  "ul→∅": 2,
+  "p→mathblock": 12,
+  "blockquote→blockquote": 2,
+  "ul→ul": 21,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 27,
+  "merged×1(ul→ul)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 131,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Instead of the basic types e and t of classical extensional Montague grammar, DMG has basic types ⟦M⟧ and ⟦M⟧ for marker). States pick out entities for markers, so they can be viewed as objects of type ⟦M⟧ . Abbreviating ⟦M⟧ as ⟦M⟧ (for “state”), we call objects of type ⟦M⟧ state transitions. The variable ⟦M⟧ in the DMG translation of “a man” has type ⟦M⟧ , so VP meanings have been lifted from type ⟦M⟧ to this type. Note that ⟦M⟧ associates to the right, so ⟦M⟧ is shorthand for ⟦M⟧ . Indeed, DMG",
+   "md_text": "Instead of the basic types e and t of classical extensional Montague grammar, DMG has basic types ⟦M⟧ and ⟦M⟧ for marker). States pick out entities for markers, so they can be viewed as objects of type ⟦M⟧ . Abbreviating ⟦M⟧ as ⟦M⟧ (for “state”), we call objects of type ⟦M⟧ state transitions. The variable ⟦M⟧ in the DMG translation of “a man” has type ⟦M⟧ , so VP meanings have been lifted from type ⟦M⟧ to this type. Note that ⟦M⟧ associates to the right, so ⟦M⟧ is shorthand for ⟦M⟧ . Indeed, DMG"
+  },
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Propositional logic (the logic of negation, disjunction and conjunction) can be viewed as an update logic as follows. Consider the case where we have three basic propositions ⟦M⟧ and ⟦M⟧ , and we know nothing about their truth. Then there are eight possibilities: ⟦M⟧ Here ⟦M⟧ should be read as: none of ⟦M⟧ is true, ⟦M⟧ as: ⟦M⟧ is true but ⟦M⟧ and ⟦M⟧ are false, and so on. If now ⟦M⟧ (“not ⟦M⟧ ”) is announced, four of these disappear, and we are left with ⟦M⟧ . If next ⟦M⟧ (“ ⟦M⟧ or not ⟦M⟧ ”) is",
+   "md_text": "Propositional logic (the logic of negation, disjunction and conjunction) can be viewed as an update logic as follows. Consider the case where we have three basic propositions ⟦M⟧ and ⟦M⟧ , and we know nothing about their truth. Then there are eight possibilities: ⟦M⟧ Here ⟦M⟧ should be read as: none of ⟦M⟧ is true, ⟦M⟧ as: ⟦M⟧ is true but ⟦M⟧ and ⟦M⟧ are false, and so on. If now ⟦M⟧ (“not ⟦M⟧ ”) is announced, four of these disappear, and we are left with ⟦M⟧ . If next ⟦M⟧ (“ ⟦M⟧ or not ⟦M⟧ ”) is"
+  },
+  {
+   "i": 32,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "(1) Mary met a student yesterday. He needed help.",
+   "md_text": "(1) Mary met a student yesterday. He needed help."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Dynamic Semantics",
+ "authors": [
+  "Nouwen, Rick",
+  "Brasoveanu, Adrian",
+  "van Eijck, Jan",
+  "Visser, Albert"
+ ]
+}

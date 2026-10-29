@@ -1,0 +1,263 @@
+{
+ "slug": "moral-realism",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 81,
+ "n_md": 86,
+ "n_pairs": 54,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997012249775918,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987154784842646,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993073193257908,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993876301285977,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993235625704623,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991484530229918,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995764506565015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999611046285492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995440036479708,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997135491263248,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994453688297282,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996045867931989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999581904841542,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982876712328768,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "道德实在论 moral realism (Geoff Sayre-McCord)",
+  "zh_h1": "道德实在论 moral realism (Geoff Sayre-McCord)",
+  "yuanwen_h1": "Moral Realism",
+  "html_title": "Moral Realism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 43,
+  "p→∅": 25,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 45,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Non-cognitivists often appeal to this apparent contrast to argue that moral claims have this necessary connection to motivation precisely because they do not express beliefs (that might be true or false) but instead express motivational states of desire, approval, or commitment (that might be satisfied or frustrated but are neither true nor false). Nonmoral claims, they maintain, commonly express beliefs and for that reason are rightly seen as purporting to report facts and as being evaluable as",
+   "md_text": "Non-cognitivists often appeal to this apparent contrast to argue that moral claims have this necessary connection to motivation precisely because they do not express beliefs (that might be true or false) but instead express motivational states of desire, approval, or commitment (that might be satisfied or frustrated but are neither true nor false). Nonmoral claims, they maintain, commonly express beliefs and for that reason are rightly seen as purporting to report facts and as being evaluable as"
+  },
+  {
+   "i": 78,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Metaethics Bibliography (no longer actively maintained), James Lenman, Department of Philosophy, University of Sheffield.",
+   "md_text": "Metaethics Bibliography (no longer actively maintained), James Lenman, Department of Philosophy, University of Sheffield."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Moral Realism",
+ "authors": [
+  "Sayre-McCord, Geoff"
+ ]
+}

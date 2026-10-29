@@ -1,0 +1,191 @@
+{
+ "slug": "mathphil-indis",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 48,
+ "n_pairs": 28,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9991783073130649,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975874547647768,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998653500897666,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977578475336323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988204765274828,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972862957937585,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984880556395525,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994465965688988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995956328346138,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961832061068703,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "数学哲学中的不可或缺性论证 indispensability arguments in the (Mark Colyvan)",
+  "zh_h1": "数学哲学中的不可或缺性论证 indispensability arguments in the (Mark Colyvan)",
+  "yuanwen_h1": "Indispensability Arguments in the Philosophy of Mathematics",
+  "html_title": "Indispensability Arguments in the Philosophy of Mathematics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 16,
+  "p→p": 16,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Questions about this case focus on whether the mathematics is really contributing to the explanation (or whether it is merely standing in for the biological facts and it is these that really do the explaining), whether the alleged explanation is an explanation at all, and whether the mathematics in question is involved in the explanation in the right kind of way. Finally, it is worth mentioning that although the recent interest in mathematical explanation arose out of debates over the indispensa",
+   "md_text": "Questions about this case focus on whether the mathematics is really contributing to the explanation (or whether it is merely standing in for the biological facts and it is these that really do the explaining), whether the alleged explanation is an explanation at all, and whether the mathematics in question is involved in the explanation in the right kind of way. Finally, it is worth mentioning that although the recent interest in mathematical explanation arose out of debates over the indispensa"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Indispensability Arguments in the Philosophy of Mathematics",
+ "authors": [
+  "Colyvan, Mark"
+ ]
+}

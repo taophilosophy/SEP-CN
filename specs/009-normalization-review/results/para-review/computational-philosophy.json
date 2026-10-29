@@ -1,0 +1,806 @@
+{
+ "slug": "computational-philosophy",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 208,
+ "n_md": 237,
+ "n_pairs": 104,
+ "n_flags": 2,
+ "n_merged": 52,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987248150981892,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956140350877193,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999383096853794,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99609375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980364656381486,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977902430732619,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995419147961521,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958088851634534,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994535519125683,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99375,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9908116385911179,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989018229738634,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9898242368177613,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996130458817026,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9811320754716981,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950289975144988,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991728701406121,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9835651074589128,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970089730807578,
+   "n_h": 6,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984486503257834,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990680335507922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975669099756691,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99308142629058,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954973393368809,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9908256880733946,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994711792702274,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968065693430657,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984034060670569,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991158267020336,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9864559819413092,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975037443834248,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990243902439024,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934787497189116,
+   "n_h": 5,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991589571068125,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987780040733197,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982781710350105,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975349219391948,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958779884583677,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968454258675079,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987975951903808,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991311902693311,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994547437295529,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986282578875172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991764124526438,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988249118683902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987809833401057,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994535519125683,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989229940764675,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9966216216216216,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9608938547486033,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "计算哲学 computational philosophy (Patrick Grim and Daniel Singer)",
+  "zh_h1": "计算哲学 computational philosophy (Patrick Grim and Daniel Singer)",
+  "yuanwen_h1": "Computational Philosophy",
+  "html_title": "Computational Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 55,
+  "p→∅": 92,
+  "blockquote→blockquote": 8,
+  "h3→h3": 11,
+  "h4→h4": 10,
+  "figure→p": 12,
+  "figure→∅": 8,
+  "blockquote→∅": 1,
+  "ul→∅": 2,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 9,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×1(p→p)": 16,
+  "merged×4(p+figure+p+p→p+p+p+p)": 1,
+  "merged×3(p+figure+p→p+p+table+p+p)": 1,
+  "merged×3(p+p+figure→p+p+p+p)": 1,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×1(p→p+p)": 6,
+  "merged×3(p+p+p→p+p+p+p)": 1,
+  "merged×2(figure+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×2(p+figure→p+p+table+p)": 1,
+  "merged×4(p+p+p+figure→p+p+p+p+table+p)": 1,
+  "merged×3(p+figure+p→p+p+p+p)": 1,
+  "merged×5(p+p+figure+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 2
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 27,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 69,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 8:"
+  }
+ ],
+ "spot": [
+  {
+   "i": 73,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Extensions of these results appear in Grim, Singer et al. (2013). There a small sample of landscapes is replaced with a quantified “fiendishness index”, roughly representing the extent to which a landscape embodies a “needle in a haystack”. Higher fiendishness quantifies a lower probability that hill-climbing from a randomly chosen point “finds” the landscape’s global maximum. Landscapes, though still two-dimensional, are “looped” so as to avoid edge-effects also noted in Hegselmann and Krause (",
+   "md_text": "Extensions of these results appear in Grim, Singer et al. (2013). There a small sample of landscapes is replaced with a quantified “fiendishness index”, roughly representing the extent to which a landscape embodies a “needle in a haystack”. Higher fiendishness quantifies a lower probability that hill-climbing from a randomly chosen point “finds” the landscape’s global maximum. Landscapes, though still two-dimensional, are “looped” so as to avoid edge-effects also noted in Hegselmann and Krause ("
+  },
+  {
+   "i": 26,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: Example changes in opinion across time from single runs with different threshold values ⟦M⟧ in the Hegselmann and Krause (2002) model. [An extended description of figure 1 is in the supplement.]",
+   "md_text": "Figure 1: Example changes in opinion across time from single runs with different threshold values ⟦M⟧ in the Hegselmann and Krause (2002) model. [An extended description of figure 1 is in the supplement.]"
+  }
+ ],
+ "supplements": [
+  "figdesc.html"
+ ],
+ "meta_title": "Computational Philosophy",
+ "authors": [
+  "Grim, Patrick",
+  "Singer, Daniel"
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "slug": "creation-conservation",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 73,
+ "n_md": 76,
+ "n_pairs": 43,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9994393571295085,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963811821471653,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981447124304267,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992831541218637,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990108803165183,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996694214876033,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988249118683902,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971364937957365,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993079584775086,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9803921568627451,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964788732394366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988160075775515,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978666666666667,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990839694656488,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982660391379737,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931412894375857,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.96875,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "创造与保全 creation and conservation (David Vander Laan)",
+  "zh_h1": "创造与保全 creation and conservation (David Vander Laan)",
+  "yuanwen_h1": "Creation and Conservation",
+  "html_title": "Creation and Conservation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 26,
+  "ul→ul": 1,
+  "p→∅": 23,
+  "h3→h3": 7,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 5,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 2,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The conservation thesis is inconsistent with the Deistic understanding of God’s relationship to the world, on which the world’s existence and operation require no divine involvement after the world is brought into being. In a different way, the conservation thesis is inconsistent with any view that denies that created things truly persist through time. If no created thing exists for more than an instant, God may well be continuously creating, but God is not conserving what has been created. With",
+   "md_text": "The conservation thesis is inconsistent with the Deistic understanding of God’s relationship to the world, on which the world’s existence and operation require no divine involvement after the world is brought into being. In a different way, the conservation thesis is inconsistent with any view that denies that created things truly persist through time. If no created thing exists for more than an instant, God may well be continuously creating, but God is not conserving what has been created. With"
+  },
+  {
+   "i": 4,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The conservation thesis: The continued existence of created things depends on God’s activity. The same-action thesis: God’s action of creating things is the same action as God’s conserving things. The sole-source thesis: God alone brings about the continued existence of created things. Occasionalism: God is the only genuine cause of any effect.",
+   "md_text": "The conservation thesis: The continued existence of created things depends on God’s activity. The same-action thesis: God’s action of creating things is the same action as God’s conserving things. The sole-source thesis: God alone brings about the continued existence of created things. Occasionalism: God is the only genuine cause of any effect."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Creation and Conservation",
+ "authors": [
+  "Vander Laan, David"
+ ]
+}

@@ -1,0 +1,534 @@
+{
+ "slug": "bonaventure",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 147,
+ "n_md": 147,
+ "n_pairs": 58,
+ "n_flags": 1,
+ "n_merged": 31,
+ "merged": [
+  {
+   "ratio": 0.9993373094764745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966605950212507,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982363315696648,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964812257805888,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970995810505962,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998914223669924,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988954344624448,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963369963369964,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997649271274095,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975323874151758,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976218787158145,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996953541507997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970913321698662,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971383147853736,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979870275106241,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997319932998325,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977203647416414,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970501474926253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988267500977708,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984420209214333,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982425307557118,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9956813819577736,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987341772151899,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967051070840197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9966329966329966,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998740025199496,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9944995975315267,
+   "n_h": 15,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9947089947089947,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9928400954653938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "波纳文图拉 Bonaventure (Tim Noone, R. E. Houser, and Joshua Benson)",
+  "zh_h1": "波纳文图拉 Bonaventure (Tim Noone, R. E. Houser, and Joshua Benson)",
+  "yuanwen_h1": "Bonaventure",
+  "html_title": "Bonaventure",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 62,
+  "blockquote→∅": 25,
+  "blockquote→blockquote": 6,
+  "p→p": 33,
+  "h3→h3": 10,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×9(blockquote+p+p+p+p+p+p+p+blockquote→blockquote+p+p+p+p+p+p+p+blockquote)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 2,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×4(blockquote+p+blockquote+p→blockquote+p+blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 2,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×15(p+blockquote+p+p+p+blockquote+p+blockquote+p+p+p+blockquote+p+p+blockquote→p+blockquote+p+p+p+blockquote+p+blockquote+p+p+p+blockquote+p+p+blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 146,
+   "j": 146,
+   "ratio": 0.9493087557603687,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Anselm of Canterbury [Anselm of Bec] | Aristotle | Augustine of Hippo | divine: illumination | epistemology | existence | faith | form vs. matter | metaphysics | Peter of Spain [= Petrus Hispanus] | Philip the Chancellor | truth",
+   "md_text": "Anselm of Canterbury [Anselm of Bec] Aristotle Augustine of Hippo divine: illumination epistemology existence faith form vs. matter metaphysics Peter of Spain [= Petrus Hispanus] Philip the Chancellor truth"
+  }
+ ],
+ "spot": [
+  {
+   "i": 85,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "If the transcendentals came primarily from Muslim Aristotelians, especially Avicenna, and the three routes to God were opened by Augustine, the last set of materials Bonaventure used to construct his arguments for the existence of God came from Aristotle himself. “Science” consists in knowledge of a limited subject achieved through demonstrating conclusions about it based on un-demonstrated principles. Bonaventure was one of a group of Parisian theologians, including the Dominicans Albert and Th",
+   "md_text": "If the transcendentals came primarily from Muslim Aristotelians, especially Avicenna, and the three routes to God were opened by Augustine, the last set of materials Bonaventure used to construct his arguments for the existence of God came from Aristotle himself. “Science” consists in knowledge of a limited subject achieved through demonstrating conclusions about it based on un-demonstrated principles. Bonaventure was one of a group of Parisian theologians, including the Dominicans Albert and Th"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Bonaventure",
+ "authors": [
+  "Noone, Tim",
+  "Houser, R. E.",
+  "Benson, Joshua"
+ ]
+}

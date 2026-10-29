@@ -1,0 +1,570 @@
+{
+ "slug": "zermelo-set-theory",
+ "letter": "z",
+ "state": "ok",
+ "n_html": 158,
+ "n_md": 167,
+ "n_pairs": 85,
+ "n_flags": 0,
+ "n_merged": 38,
+ "merged": [
+  {
+   "ratio": 0.9961977186311787,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994475138121547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979288269629072,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9939860476305028,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9952941176470588,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962982548915917,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9836065573770492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965661961083556,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981960312687913,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981617647058824,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985693848354793,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9968404423380727,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964664310954063,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961310291462471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998652896273013,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981141779530259,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957009792213996,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9931740614334471,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995828118481435,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924846276474607,
+   "n_h": 1,
+   "n_m": 10,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994678020223523,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996969696969697,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998489661996771,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924745462594068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942227596399301,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964539007092199,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962779156327544,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993472584856397,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970113568439928,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954337899543378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946902654867257,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926366468422543,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939024390243902,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948114839156001,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911851126346719,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980916030534351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99915611814346,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "策梅洛的公理化集合论 Zermelo’s axiomatization of (Michael Hallett)",
+  "zh_h1": "策梅洛的公理化集合论 Zermelo’s axiomatization of (Michael Hallett)",
+  "yuanwen_h1": "Zermelo’s Axiomatization of Set Theory",
+  "html_title": "Zermelo’s Axiomatization of Set Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 47,
+  "blockquote→∅": 16,
+  "blockquote→blockquote": 12,
+  "p→∅": 54,
+  "ol→∅": 1,
+  "h3→h3": 4,
+  "h4→h4": 11,
+  "ol→ol": 3,
+  "dl→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×2(p+blockquote→p+blockquote)": 3,
+  "merged×3(blockquote+p+ol→blockquote+p+ol)": 1,
+  "merged×1(p→p)": 16,
+  "merged×2(blockquote+p→blockquote+p)": 3,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×7(p+p+blockquote+p+p+p+blockquote→p+p+blockquote+p+p+p+blockquote)": 1,
+  "merged×6(p+blockquote+p+blockquote+p+p→p+blockquote+p+blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 47,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Nevertheless, Cantor noticed that if one collects together all the countable ordinal numbers, i.e., the numbers representing well-orderings of the set of natural numbers, this collection, which Cantor called the second number-class (the first being the set of natural numbers), must be of greater cardinality than that of the collection of natural numbers itself. Moreover, this size is the cardinal successor to the size of the natural numbers in the very clear sense that any infinite subset of the",
+   "md_text": "Nevertheless, Cantor noticed that if one collects together all the countable ordinal numbers, i.e., the numbers representing well-orderings of the set of natural numbers, this collection, which Cantor called the second number-class (the first being the set of natural numbers), must be of greater cardinality than that of the collection of natural numbers itself. Moreover, this size is the cardinal successor to the size of the natural numbers in the very clear sense that any infinite subset of the"
+  },
+  {
+   "i": 33,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The postulation of the existence of a domain, of a ‘system (or systems) of things’. The insistence, however, that nothing is known about those things except what is expressed in, or can be derived from, a finite list of axioms. The requirement, along with this, of finite proofs, which begin with axioms and proceed from these to a conclusion by a ‘finite number of inferences’ (i.e., acceptable inferential steps). The rather imprecise notion of the ‘completeness’ of the axiomatisation, which invol",
+   "md_text": "The postulation of the existence of a domain, of a ‘system (or systems) of things’. The insistence, however, that nothing is known about those things except what is expressed in, or can be derived from, a finite list of axioms. The requirement, along with this, of finite proofs, which begin with axioms and proceed from these to a conclusion by a ‘finite number of inferences’ (i.e., acceptable inferential steps). The rather imprecise notion of the ‘completeness’ of the axiomatisation, which invol"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Zermelo’s Axiomatization of Set Theory",
+ "authors": [
+  "Hallett, Michael"
+ ]
+}

@@ -1,0 +1,242 @@
+{
+ "slug": "max-stirner",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 63,
+ "n_md": 63,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9995615957913196,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996159754224271,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988776655443322,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971988795518207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993201903467029,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993777224642191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985007496251874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995061728395062,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991499008217626,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988063977082836,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987639060568603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989023051591658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995835935873413,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9914529914529915,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "麦克斯·施蒂纳 Stirner, Max (David Leopold)",
+  "zh_h1": "麦克斯·施蒂纳 Stirner, Max (David Leopold)",
+  "yuanwen_h1": "Max Stirner",
+  "html_title": "Max Stirner",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 30,
+  "p→∅": 19,
+  "h3→h3": 4,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 9,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 45,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "That said, it is far from certain that all of the relevant relationships would survive intact from their reincarnation in egoistic form. Consider, for example, Stirner’s contrast between two different kinds of love: the “bad case” where “ownness” is sacrificed, and the good case of egoistic love in which self-rule is retained. Egoistic love allows the individual to deny themself something in order to enhance the pleasure of another, but only because their own pleasure is enhanced as a result. Th",
+   "md_text": "That said, it is far from certain that all of the relevant relationships would survive intact from their reincarnation in egoistic form. Consider, for example, Stirner’s contrast between two different kinds of love: the “bad case” where “ownness” is sacrificed, and the good case of egoistic love in which self-rule is retained. Egoistic love allows the individual to deny themself something in order to enhance the pleasure of another, but only because their own pleasure is enhanced as a result. Th"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Max Stirner",
+ "authors": [
+  "Leopold, David"
+ ]
+}

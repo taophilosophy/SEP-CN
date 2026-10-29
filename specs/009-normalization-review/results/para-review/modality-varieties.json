@@ -1,0 +1,333 @@
+{
+ "slug": "modality-varieties",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 77,
+ "n_md": 92,
+ "n_pairs": 34,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 9,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981592268752876,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994694960212201,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992769342010123,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989785495403473,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979220779220779,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985477781004938,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984748347737672,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994683678894205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992395437262357,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978102189781022,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988021745139593,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978586723768736,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992706053975201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987809833401057,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993846153846154,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "模态的多样性 varieties of (Boris Kment)",
+  "zh_h1": "模态的多样性 varieties of (Boris Kment)",
+  "yuanwen_h1": "Varieties of Modality",
+  "html_title": "Varieties of Modality",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 32,
+  "p→p": 24,
+  "h3→h3": 3,
+  "dl→∅": 7,
+  "ol→∅": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+ol+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×4(p+ol+p+p→p+ol+p+p)": 1,
+  "merged×4(p+dl+p+p→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×3(p+ol+p→p+ol+p)": 1,
+  "merged×4(dl+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The idea that all and only the a priori truths are necessary was thrown into serious doubt by the work of philosophers including Hilary Putnam (1972) and Saul Kripke (1980). Kripke distinguishes between two different kinds of singular terms, rigid and non-rigid ones. A so-called rigid designator is an expression that singles out the same thing in all possible worlds. Kripke argues that ordinary proper names like ‘Al Gore’ are rigid. We can use this name to describe how things actually are, e.g.,",
+   "md_text": "The idea that all and only the a priori truths are necessary was thrown into serious doubt by the work of philosophers including Hilary Putnam (1972) and Saul Kripke (1980). Kripke distinguishes between two different kinds of singular terms, rigid and non-rigid ones. A so-called rigid designator is an expression that singles out the same thing in all possible worlds. Kripke argues that ordinary proper names like ‘Al Gore’ are rigid. We can use this name to describe how things actually are, e.g.,"
+  },
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This approach is often combined with a certain account of semantic content. One of the main purposes of language is to transmit information about the world. Where ⟦M⟧ is any sentence used for that purpose (roughly speaking, a declarative sentence), it seems natural to think of ⟦M⟧ ’s content (the proposition expressed by it) as the information that is semantically encoded in it. Combining this with the foregoing account of information, we can think of the content of a sentence as a set of possib",
+   "md_text": "This approach is often combined with a certain account of semantic content. One of the main purposes of language is to transmit information about the world. Where ⟦M⟧ is any sentence used for that purpose (roughly speaking, a declarative sentence), it seems natural to think of ⟦M⟧ ’s content (the proposition expressed by it) as the information that is semantically encoded in it. Combining this with the foregoing account of information, we can think of the content of a sentence as a set of possib"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Varieties of Modality",
+ "authors": [
+  "Kment, Boris"
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "slug": "sortals",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 168,
+ "n_md": 181,
+ "n_pairs": 123,
+ "n_flags": 0,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.9998947257606063,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988751406074241,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975186104218362,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996551724137931,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989550679205852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979035639412998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955947136563876,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965606190885641,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981378026070763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989451476793249,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967776584317938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992094861660079,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983561643835617,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979959919839679,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998898678414097,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991111111111111,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996832101372756,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992810927390366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971542401821286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990662931839402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984825493171472,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999439461883408,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995129079396006,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987534280727998,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99949924887331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975786924939467,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974326059050064,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996804090763822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "类别 sortals (Richard E. Grandy and Max A. Freund)",
+  "zh_h1": "类别 sortals (Richard E. Grandy and Max A. Freund)",
+  "yuanwen_h1": "Sortals",
+  "html_title": "Sortals",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 16,
+  "p→p": 84,
+  "p→∅": 38,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 11,
+  "dl→∅": 2,
+  "h3→h3": 11,
+  "merged×1(preamble→p+p+ol+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×4(dl+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(dl+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 129,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although Rosch’s basic-level categories offer useful answers to the question “What is it?” they do not provide the traditional essences philosophers and psychologist often discuss. Traditional essences are typically viewed as necessary and sufficient conditions for being a member of that kind. From this perspective, learning a new sortal requires knowing the defining features and how they combine to create the kind. However, according to Rosch’s conception, sortal words are learned through expos",
+   "md_text": "Although Rosch’s basic-level categories offer useful answers to the question “What is it?” they do not provide the traditional essences philosophers and psychologist often discuss. Traditional essences are typically viewed as necessary and sufficient conditions for being a member of that kind. From this perspective, learning a new sortal requires knowing the defining features and how they combine to create the kind. However, according to Rosch’s conception, sortal words are learned through expos"
+  },
+  {
+   "i": 59,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For any sortal ⟦M⟧ there is a set of properties ⟦M⟧ such that if ⟦M⟧ and ⟦M⟧ both are ⟦M⟧ , then if ⟦M⟧ and ⟦M⟧ instantiate exactly the same properties in ⟦M⟧ then ⟦M⟧ .",
+   "md_text": "For any sortal ⟦M⟧ there is a set of properties ⟦M⟧ such that if ⟦M⟧ and ⟦M⟧ both are ⟦M⟧ , then if ⟦M⟧ and ⟦M⟧ instantiate exactly the same properties in ⟦M⟧ then ⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Sortals",
+ "authors": [
+  "Freund, Max A.",
+  "Grandy, Richard E."
+ ]
+}

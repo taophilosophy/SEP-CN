@@ -1,0 +1,227 @@
+{
+ "slug": "gorampa",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 72,
+ "n_pairs": 49,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9973684210526316,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967776584317938,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969788519637462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988713318284425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974842767295597,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986045213508233,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998231340643792,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9894259818731118,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9991863303498779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981412639405205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985096870342772,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985486211901307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975369458128078,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "果让巴·索南僧格 Gorampa [go rams pa] (Constance Kassor)",
+  "zh_h1": "果让巴·索南僧格 Gorampa [go rams pa] (Constance Kassor)",
+  "yuanwen_h1": "Gorampa [go rams pa]",
+  "html_title": "Gorampa [go rams pa]",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 36,
+  "p→∅": 18,
+  "ol→∅": 2,
+  "h3→h3": 4,
+  "h4→h4": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×3(p+ol+p→p+ol+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 40,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The refutation of each of the four extremes of the tetralemma is a logic-oriented process that helps a follower of Madhyamaka to cultivate a conceptual understanding of the ultimate truth that is taught. But Gorampa argues that logic alone will not bring about a realization of the actual ultimate truth. For this, one must also incorporate meditative practices. Gorampa argues that through repeated meditation on the refutation of each of the four lemmas in succession, one will eventually come to r",
+   "md_text": "The refutation of each of the four extremes of the tetralemma is a logic-oriented process that helps a follower of Madhyamaka to cultivate a conceptual understanding of the ultimate truth that is taught. But Gorampa argues that logic alone will not bring about a realization of the actual ultimate truth. For this, one must also incorporate meditative practices. Gorampa argues that through repeated meditation on the refutation of each of the four lemmas in succession, one will eventually come to r"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Gorampa [go rams pa]",
+ "authors": [
+  "Kassor, Constance"
+ ]
+}

@@ -1,0 +1,724 @@
+{
+ "slug": "diagrams",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 204,
+ "n_md": 212,
+ "n_pairs": 117,
+ "n_flags": 4,
+ "n_merged": 47,
+ "merged": [
+  {
+   "ratio": 0.9978070175438597,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972878729174739,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969418960244648,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9985252714841132,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992464204973625,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992531740104555,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994404029099049,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989539748953975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994131455399061,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976990335941095,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960812255076594,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959514170040485,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9712918660287081,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.967741935483871,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975996159385502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9932432432432432,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934640522875817,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9827315541601256,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989373007438895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984825493171472,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968454258675079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9948453608247423,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983739837398374,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981751824817519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975354282193469,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959183673469387,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988785046728972,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992553983618764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962910128388017,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967032967032967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956816779765577,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951103867239591,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998766954377312,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990369181380417,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973935708079931,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975624619134674,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951573849878934,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940443963183541,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970880854161611,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9956331877729258,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9752066115702479,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "图表 diagrams (Sun-Joo Shin, Oliver Lemon, and John Mumma)",
+  "zh_h1": "图表 diagrams (Sun-Joo Shin, Oliver Lemon, and John Mumma)",
+  "yuanwen_h1": "Diagrams and Diagrammatical Reasoning",
+  "html_title": "Diagrams and Diagrammatical Reasoning",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 79,
+  "p→∅": 76,
+  "ul→∅": 2,
+  "h3→h3": 9,
+  "h4→h4": 9,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 7,
+  "figure→p": 7,
+  "figure→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 16,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 11,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(p→p+p)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(figure+p+p→p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4:"
+  },
+  {
+   "kind": "replace",
+   "i": 158,
+   "j": 164,
+   "ratio": 0.08247422680412371,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "and then apply a rule for deriving inequalities from diagrams to obtain ACF ⟦M⟧ ACD. ⟦P⟧",
+   "md_text": "Figure 7b"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 165,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "and then apply a rule for deriving inequalities from diagrams to obtain ACF ⟦M⟧ ACD."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 205,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Barwise, J. and E. Hammer, 1994, “Diagrams and the Concept of a Logical System”, in Gabbay, D. (ed.), What is a Logical System? New York: Oxford University Press. Hammer, E., 1995b, Logic and Visual Information, Studies in Logic, Language, and Computation. Stanford: CSLI Publications and FoLLI. –––, 1998, “Semantics for Existential Graphs”, Journal of Philosophical Logic, 27: 489–503 Hammer, E. and S. Shin, 1996, “Euler and the Role of Visualization in Logic”, in Seligman, J. and Westerståhl, D. (eds), Logic, Language and Computation: Volume 1, CSLI Lecture Notes #58, pages 271–286. Stanford: CSLI Publications. Kneale, W., and Kneale, M., 1962, The Development of Logic, Oxford: Clarendon Press. Lemon, O., 1997, “Review of Logic and Visual Information, by E. M. Hammer”, Journal of Logic, La"
+  }
+ ],
+ "spot": [
+  {
+   "i": 46,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "There is something special about biology in terms of visual information and visual representation: Unlike mathematics, one might think biology inherently handles spatial information. Living things take up space, and physicochemical processes of organisms take place in physical space. Hence, we may easily convince ourselves that diagrammatic representation should be more natural in biology than other disciplines. Analogy to the use of diagrams in geometry: We are proving something about figures, ",
+   "md_text": "There is something special about biology in terms of visual information and visual representation: Unlike mathematics, one might think biology inherently handles spatial information. Living things take up space, and physicochemical processes of organisms take place in physical space. Hence, we may easily convince ourselves that diagrammatic representation should be more natural in biology than other disciplines. Analogy to the use of diagrams in geometry: We are proving something about figures, "
+  },
+  {
+   "i": 64,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For the two universal statements, the system adopts spatial relations among circles in an intuitive way: If the circle labelled ‘ ⟦M⟧ ’ is included in the circle labelled ‘ ⟦M⟧ ,’ then the diagram represents the information that all ⟦M⟧ is ⟦M⟧ . If there is no overlapping part between two circles, then the diagram conveys the information that no ⟦M⟧ is ⟦M⟧ .",
+   "md_text": "For the two universal statements, the system adopts spatial relations among circles in an intuitive way: If the circle labelled ‘ ⟦M⟧ ’ is included in the circle labelled ‘ ⟦M⟧ ,’ then the diagram represents the information that all ⟦M⟧ is ⟦M⟧ . If there is no overlapping part between two circles, then the diagram conveys the information that no ⟦M⟧ is ⟦M⟧ ."
+  },
+  {
+   "i": 63,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: Euler Diagrams",
+   "md_text": "Figure 1: Euler Diagrams"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Diagrams and Diagrammatical Reasoning",
+ "authors": [
+  "Shin, Sun-Joo",
+  "Lemon, Oliver",
+  "Mumma, John"
+ ]
+}

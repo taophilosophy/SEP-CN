@@ -1,0 +1,191 @@
+{
+ "slug": "childhood",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 61,
+ "n_md": 61,
+ "n_pairs": 44,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9990205680705191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991251093613298,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987293519695044,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953917050691244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989701338825953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988509049123815,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999096657633243,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9708029197080292,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "童年哲学 childhood, the philosophy of (Gareth Matthews and Amy Mullin)",
+  "zh_h1": "童年哲学 childhood, the philosophy of (Gareth Matthews and Amy Mullin)",
+  "yuanwen_h1": "The Philosophy of Childhood",
+  "html_title": "The Philosophy of Childhood",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 12,
+  "p→p": 28,
+  "p→∅": 16,
+  "ul→ul": 2,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 8,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "The philosophy of childhood has recently come to be recognized as an area of inquiry analogous to the philosophy of science, the philosophy of history, the philosophy of religion, and the many other “philosophy of” subjects that are already considered legitimate areas of philosophical study. In addition, philosophical study of related topics (such as parental rights, duties and responsibilities) has flourished in recent years. The philosophy of childhood takes up philosophically interesting ques",
+   "md_text": "The philosophy of childhood has recently come to be recognized as an area of inquiry analogous to the philosophy of science, the philosophy of history, the philosophy of religion, and the many other “philosophy of” subjects that are already considered legitimate areas of philosophical study. In addition, philosophical study of related topics (such as parental rights, duties and responsibilities) has flourished in recent years. The philosophy of childhood takes up philosophically interesting ques"
+  },
+  {
+   "i": 16,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "First Stage: Life is assimilated to activity in general Second Stage: Life is assimilated to movement Third Stage: Life is assimilated to spontaneous movement Fourth Stage: Life is restricted to animals and plants",
+   "md_text": "First Stage: Life is assimilated to activity in general Second Stage: Life is assimilated to movement Third Stage: Life is assimilated to spontaneous movement Fourth Stage: Life is restricted to animals and plants"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Philosophy of Childhood",
+ "authors": [
+  "Matthews, Gareth",
+  "Mullin, Amy"
+ ]
+}

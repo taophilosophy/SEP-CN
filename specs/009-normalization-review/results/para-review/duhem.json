@@ -1,0 +1,322 @@
+{
+ "slug": "duhem",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 77,
+ "n_md": 81,
+ "n_pairs": 52,
+ "n_flags": 4,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9990089197224975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995834201208081,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994634233589698,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996846420687481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997808459346921,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996739484838605,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985726520125606,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999315537303217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984051036682615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993979530403372,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984152139461173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992841803865425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990147783251232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995385325334564,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987807851743478,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981167608286252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991374849059859,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9584905660377359,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "皮埃尔·迪昂 Duhem, Pierre (Roger Ariew)",
+  "zh_h1": "皮埃尔·迪昂 Duhem, Pierre (Roger Ariew)",
+  "yuanwen_h1": "Pierre Duhem",
+  "html_title": "Pierre Duhem",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→p": 30,
+  "p→∅": 22,
+  "blockquote→blockquote": 10,
+  "h3→h3": 3,
+  "blockquote→∅": 3,
+  "ul→ul": 1,
+  "merged×1(p→p)": 12,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 3
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 71,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[LPD] Lettres de Pierre Duhem à sa fille Hélène, Stanley L. Jaki (ed.), Paris: Beauchesne, 1994. [EHPS] Essays in History and Philosophy of Science, ed. and translation with Introduction by Roger Ariew and Peter Barker, Indianapolis: Hackett, 1996. [LAS] L’Aube du savoir: épitomé du système du monde (histoire des doctrines cosmologiques de Platon à Copernic), Anastasios Brenner (ed.), Paris: Hermann, 1997; selections from Duhem 1913–59. [CPT] Commentary on the Principles of Thermodynamics, ed. and trans. by Paul Needham, Cham: Springer, 2011."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 72,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Works Listed Chronologically"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 73,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "1886 Le Potentiel thermodynamique et ses applications à la mécanique chimique et à la étude des phénomènes électriques, Paris: Hermann. 1892 “Quelques réflexions au sujet des théories physiques,” Revue des Questions Scientifiques, 31: 139–177. English translation in Duhem [EHPS]. 1892 “Notation atomique et hypothèses atomistiques,” Revue des Questions Scientifiques, 31: 391–454. 1893 “Physique et métaphysique,” Revue des Questions Scientifiques, 34: 55–83. English translation in Duhem [EHPS]. 1893 “L’école anglaise et les théories physiques,” Revue des Questions Scientifiques, 34: 345–78. English translation in Duhem [EHPS]. 1894 “Quelques réflexions au sujet de la physique expérimentale,” Revue des Questions Scientifiques, 36: 179–229. English translation in Duhem [EHPS]. 1895 “Les théori"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 74,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Sources"
+  }
+ ],
+ "spot": [
+  {
+   "i": 19,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Duhem does not claim that when there is some conflict with experience, we can always make enough adjustments elsewhere in the system. He makes a weaker claim, also limited in other ways, but which would be equivalent to: when there is some conflict with experience what is disconfirmed is necessarily ambiguous. Duhem’s formulation of his non-falsifiability thesis is that “if the predicted phenomenon is not produced, not only is the questioned proposition put into doubt, but also the whole theoret",
+   "md_text": "Duhem does not claim that when there is some conflict with experience, we can always make enough adjustments elsewhere in the system. He makes a weaker claim, also limited in other ways, but which would be equivalent to: when there is some conflict with experience what is disconfirmed is necessarily ambiguous. Duhem’s formulation of his non-falsifiability thesis is that “if the predicted phenomenon is not produced, not only is the questioned proposition put into doubt, but also the whole theoret"
+  },
+  {
+   "i": 74,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Electronic text of Duhem’s La théorie physique, son objet, sa structure (1906)] Electronic links to several of the articles in the 1911 Catholic Encyclopedia by Duhem: “History of Physics,” “Pierre de Maricourt,” “Jordanus de Nemore,” “Nicole Oresme,” “Albert of Saxony,” “Thierry of Freburg,” and “Jean de Sax.” Also included are links to Duhem’s “Physics of a Believer,” and a few other excerpts.",
+   "md_text": "Electronic text of Duhem’s La théorie physique, son objet, sa structure (1906)] Electronic links to several of the articles in the 1911 Catholic Encyclopedia by Duhem: “History of Physics,” “Pierre de Maricourt,” “Jordanus de Nemore,” “Nicole Oresme,” “Albert of Saxony,” “Thierry of Freburg,” and “Jean de Sax.” Also included are links to Duhem’s “Physics of a Believer,” and a few other excerpts."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Pierre Duhem",
+ "authors": [
+  "Ariew, Roger"
+ ]
+}

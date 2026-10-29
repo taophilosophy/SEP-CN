@@ -1,0 +1,184 @@
+{
+ "slug": "numenius",
+ "letter": "n",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 48,
+ "n_pairs": 13,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9966731355697256,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964781216648879,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976945244956772,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981192096036409,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979059584999048,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984731097664423,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿帕梅亚的努梅尼乌斯 Numenius (George Karamanolis)",
+  "zh_h1": "阿帕梅亚的努梅尼乌斯 Numenius (George Karamanolis)",
+  "yuanwen_h1": "Numenius",
+  "html_title": "Numenius",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 31,
+  "blockquote→∅": 1,
+  "p→p": 3,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×11(p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 45,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The author is grateful to Fabienne Jourdan and John Dillon for comments and suggestions, which have helped me in the revision of the entry. Needless to say, they do not agree with all of my views.",
+   "md_text": "The author is grateful to Fabienne Jourdan and John Dillon for comments and suggestions, which have helped me in the revision of the entry. Needless to say, they do not agree with all of my views."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Numenius",
+ "authors": [
+  "Karamanolis, George"
+ ]
+}

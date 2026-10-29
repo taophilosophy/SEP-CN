@@ -1,0 +1,229 @@
+{
+ "slug": "tarski-truth",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 80,
+ "n_md": 80,
+ "n_pairs": 63,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9992509363295881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991220368744512,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954614220877458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993183367416496,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986772486772487,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985315712187959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9987775061124694,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986893840104849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977728285077951,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999163179916318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996625042186973,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992716678805535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988801791713325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "塔尔斯基的真理定义 truth definitions (Wilfrid Hodges)",
+  "zh_h1": "塔尔斯基的真理定义 truth definitions (Wilfrid Hodges)",
+  "yuanwen_h1": "Tarski’s Truth Definitions",
+  "html_title": "Tarski’s Truth Definitions",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 43,
+  "h3→h3": 5,
+  "p→∅": 14,
+  "p→mathblock": 6,
+  "ul→∅": 1,
+  "ul→ul": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 40,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The remaining truth definition in Tarski’s 1933 paper – the third as they appear in the paper – is really a bundle of related truth definitions, all for the same object language ⟦M⟧ but in different interpretations. The quantifiers of ⟦M⟧ are assumed to range over a particular class, call it ⟦M⟧ ; in fact they are second order quantifiers, so that really they range over the collection of subclasses of ⟦M⟧ . The class ⟦M⟧ is not named explicitly in the object language, and thus one can give separ",
+   "md_text": "The remaining truth definition in Tarski’s 1933 paper – the third as they appear in the paper – is really a bundle of related truth definitions, all for the same object language ⟦M⟧ but in different interpretations. The quantifiers of ⟦M⟧ are assumed to range over a particular class, call it ⟦M⟧ ; in fact they are second order quantifiers, so that really they range over the collection of subclasses of ⟦M⟧ . The class ⟦M⟧ is not named explicitly in the object language, and thus one can give separ"
+  },
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Tarski assumed, in the manner of his time, that the object language ⟦M⟧ and the metalanguage ⟦M⟧ would be languages of some kind of higher order logic. Today it is more usual to take some kind of informal set theory as one’s metalanguage; this would affect a few details of Tarski’s paper but not its main thrust. Also today it is usual to define syntax in set-theoretic terms, so that for example a string of letters becomes a sequence. In fact one must use a set-theoretic syntax if one wants to wo",
+   "md_text": "Tarski assumed, in the manner of his time, that the object language ⟦M⟧ and the metalanguage ⟦M⟧ would be languages of some kind of higher order logic. Today it is more usual to take some kind of informal set theory as one’s metalanguage; this would affect a few details of Tarski’s paper but not its main thrust. Also today it is usual to define syntax in set-theoretic terms, so that for example a string of letters becomes a sequence. In fact one must use a set-theoretic syntax if one wants to wo"
+  },
+  {
+   "i": 29,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The assignment ⟦M⟧ satisfies the formula ⟦M⟧ if and only if ⟦M⟧ .",
+   "md_text": "The assignment ⟦M⟧ satisfies the formula ⟦M⟧ if and only if ⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Tarski’s Truth Definitions",
+ "authors": [
+  "Hodges, Wilfrid"
+ ]
+}

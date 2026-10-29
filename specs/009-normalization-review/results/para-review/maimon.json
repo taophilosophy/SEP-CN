@@ -1,0 +1,316 @@
+{
+ "slug": "maimon",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 78,
+ "n_md": 78,
+ "n_pairs": 39,
+ "n_flags": 0,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9983579638752053,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987269255251432,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979002624671915,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999635435654393,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996288047512992,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996391194514616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994369369369369,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99814039981404,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964994165694282,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992684711046086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993979530403372,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999315537303217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987389659520807,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993648105017997,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993990384615384,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982748706152962,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993734335839599,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990094105993066,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9951060358890701,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "所罗门·迈蒙 Maimon, Salomon (Peter Thielke and Yitzhak Y. Melamed)",
+  "zh_h1": "所罗门·迈蒙 Maimon, Salomon (Peter Thielke and Yitzhak Y. Melamed)",
+  "yuanwen_h1": "Salomon Maimon",
+  "html_title": "Salomon Maimon",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 11,
+  "p→∅": 31,
+  "p→p": 25,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 7,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 4,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 2,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 41,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Maimon’s reliance on mathematical examples is not coincidental, since it is (primarily) in mathematics that we find real syntheses, namely, syntheses that pass the test of the law of determinability. This special advantage of mathematics is due to the role of construction in mathematics. Thus, in the case of the straight line the intellect commands a construction of a line in pure intuition according to the concept of straight. In such a way, the connection between the subject and the predicate,",
+   "md_text": "Maimon’s reliance on mathematical examples is not coincidental, since it is (primarily) in mathematics that we find real syntheses, namely, syntheses that pass the test of the law of determinability. This special advantage of mathematics is due to the role of construction in mathematics. Thus, in the case of the straight line the intellect commands a construction of a line in pure intuition according to the concept of straight. In such a way, the connection between the subject and the predicate,"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Salomon Maimon",
+ "authors": [
+  "Thielke, Peter",
+  "Melamed, Yitzhak Y."
+ ]
+}

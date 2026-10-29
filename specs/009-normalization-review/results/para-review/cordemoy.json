@@ -1,0 +1,166 @@
+{
+ "slug": "cordemoy",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 40,
+ "n_md": 40,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9970951343500363,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973427812223207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994837377387713,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986273164035689,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991596638655462,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998810232004759,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979494190020506,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995501574448943,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9605263157894737,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "热罗·德·科尔德穆瓦 Cordemoy, Géraud de (Fred Ablondi)",
+  "zh_h1": "热罗·德·科尔德穆瓦 Cordemoy, Géraud de (Fred Ablondi)",
+  "yuanwen_h1": "Géraud de Cordemoy",
+  "html_title": "Géraud de Cordemoy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 16,
+  "p→∅": 12,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 6,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "‘True’ language use, as opposed to the mere production of sound, is according to Cordemoy a matter of “giving signs to one’s thoughts” (1968 196). Language is on his account an artificial system of signs, the purpose of which is to communicate our thoughts, the words standing as their representatives, to one another. It is the creative aspect of language which demands the presence of a rational soul. True speech requires two things, says Cordemoy: “the formation of the voice, which can only come",
+   "md_text": "‘True’ language use, as opposed to the mere production of sound, is according to Cordemoy a matter of “giving signs to one’s thoughts” (1968 196). Language is on his account an artificial system of signs, the purpose of which is to communicate our thoughts, the words standing as their representatives, to one another. It is the creative aspect of language which demands the presence of a rational soul. True speech requires two things, says Cordemoy: “the formation of the voice, which can only come"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Géraud de Cordemoy",
+ "authors": [
+  "Ablondi, Fred"
+ ]
+}

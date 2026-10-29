@@ -1,0 +1,906 @@
+{
+ "slug": "location-mereology",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 276,
+ "n_md": 340,
+ "n_pairs": 173,
+ "n_flags": 2,
+ "n_merged": 58,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968178202068417,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9932307692307693,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9871043376318874,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988974641675854,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "dl",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995454545454545,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970501474926253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986130374479889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960547690879554,
+   "n_h": 4,
+   "n_m": 19,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9905277401894452,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "ul",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "ul",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9864158829676071,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986282578875172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956458635703919,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986893840104849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983342587451416,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970113568439928,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983361064891847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969418960244648,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959100204498977,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967982924226254,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968287526427061,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987029831387808,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989868287740629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988734509951183,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972144846796658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945054945054945,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9980879541108987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941634241245136,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998914223669924,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954819277108434,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996984058595433,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963488843813387,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99836867862969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9913317572892041,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949849548645938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998989898989899,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966777408637874,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997275204359673,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933184855233853,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9923954372623575,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973821989528796,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977628635346756,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961240310077519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988193624557261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964961457603364,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9995393827729157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969352014010507,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9970674486803519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9983606557377049,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "位置与分体论 location and mereology (Cody Gilmore, Claudio Calosi, and Damiano Costa)",
+  "zh_h1": "位置与分体论 location and mereology (Cody Gilmore, Claudio Calosi, and Damiano Costa)",
+  "yuanwen_h1": "Location and Mereology",
+  "html_title": "Location and Mereology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 66,
+  "p→p": 100,
+  "h3→h3": 18,
+  "ul→∅": 12,
+  "figure→p": 3,
+  "figure→∅": 4,
+  "dl→∅": 17,
+  "h4→h4": 7,
+  "ol→ol": 11,
+  "ul→ul": 18,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 3,
+  "p→mathblock": 1,
+  "merged×1(preamble→p+p+p+ul+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ul→ul)": 2,
+  "merged×2(p+figure→p+p+table+p)": 1,
+  "merged×1(dl→p+p)": 4,
+  "merged×4(dl+dl+dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 21,
+  "merged×4(dl+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(ul+ul+p+figure→ul+ul+p+p+p)": 1,
+  "merged×2(p+figure→p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×2(dl+dl→p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(ul+p+ul→ul+p+ul)": 1,
+  "merged×3(p+p+figure→p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×1(p→p+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p)": 2,
+  "merged×4(ul+p+ul+p→ul+p+ul+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×7(p+p+ul+p+ul+p+ul→p+p+ul+p+ul+p+ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 18,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 304,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 7"
+  }
+ ],
+ "spot": [
+  {
+   "i": 67,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The idea behind Delegation, in slightly different terms, is that a complex entity cannot be weakly located at a certain region unless one of its proper parts—a ‘delegate’—is also weakly located there. Regarding the formal statement of Delegation, one might wonder why it is not formulated with ‘ ⟦M⟧ ’ in place of ‘ ⟦M⟧ ’ in the consequent. The reason for this is that Delegation is meant to be friendly to extended simples. Suppose that a complex, spherical object, ⟦M⟧ , is exactly located a spheri",
+   "md_text": "The idea behind Delegation, in slightly different terms, is that a complex entity cannot be weakly located at a certain region unless one of its proper parts—a ‘delegate’—is also weakly located there. Regarding the formal statement of Delegation, one might wonder why it is not formulated with ‘ ⟦M⟧ ’ in place of ‘ ⟦M⟧ ’ in the consequent. The reason for this is that Delegation is meant to be friendly to extended simples. Suppose that a complex, spherical object, ⟦M⟧ , is exactly located a spheri"
+  },
+  {
+   "i": 14,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: The dashed lines indicate regions ⟦M⟧ – ⟦M⟧ . The two shaded squares indicate two square objects, ⟦M⟧ and ⟦M⟧ , that compose a larger rectangular object, ⟦M⟧ . [An extended description of figure 1 is in the supplement.]",
+   "md_text": "Figure 1: The dashed lines indicate regions ⟦M⟧ – ⟦M⟧ . The two shaded squares indicate two square objects, ⟦M⟧ and ⟦M⟧ , that compose a larger rectangular object, ⟦M⟧ . [An extended description of figure 1 is in the supplement.]"
+  }
+ ],
+ "supplements": [
+  "figdesc.html",
+  "systems-of-location.html"
+ ],
+ "meta_title": "Location and Mereology",
+ "authors": [
+  "Gilmore, Cody",
+  "Calosi, Claudio",
+  "Costa, Damiano"
+ ]
+}

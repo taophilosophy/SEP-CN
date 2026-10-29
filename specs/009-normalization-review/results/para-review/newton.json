@@ -1,0 +1,189 @@
+{
+ "slug": "newton",
+ "letter": "n",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 46,
+ "n_pairs": 25,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9997182304874612,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965916837082481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982708933717579,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986219568213137,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988165680473373,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996159016708277,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989536100453436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991849210392256,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964912280701754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "艾萨克·牛顿 Newton, Isaac (George Smith)",
+  "zh_h1": "艾萨克·牛顿 Newton, Isaac (George Smith)",
+  "yuanwen_h1": "Isaac Newton",
+  "html_title": "Isaac Newton",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 5,
+  "p→∅": 17,
+  "h3→h3": 4,
+  "p→p": 13,
+  "blockquote→∅": 2,
+  "blockquote→blockquote": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 24,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Three factors stand in the way of giving an account of Newton's work and influence. First is the contrast between the public Newton, consisting of publications in his lifetime and in the decade or two following his death, and the private Newton, consisting of his unpublished work in math and physics, his efforts in chymistry — that is, the 17th century blend of alchemy and chemistry — and his writings in radical theology — material that has become public mostly since World War II. Only the publi",
+   "md_text": "Three factors stand in the way of giving an account of Newton's work and influence. First is the contrast between the public Newton, consisting of publications in his lifetime and in the decade or two following his death, and the private Newton, consisting of his unpublished work in math and physics, his efforts in chymistry — that is, the 17th century blend of alchemy and chemistry — and his writings in radical theology — material that has become public mostly since World War II. Only the publi"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Isaac Newton",
+ "authors": [
+  "Smith, George"
+ ]
+}

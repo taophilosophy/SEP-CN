@@ -1,0 +1,265 @@
+{
+ "slug": "logic-relevance",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 94,
+ "n_md": 107,
+ "n_pairs": 77,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 14,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "mathblock",
+    "p",
+    "p",
+    "mathblock",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980769230769231,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994574064026045,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987293519695044,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988998899889989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985974754558204,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999288256227758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998805256869773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999247554552295,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999043062200957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985775248933144,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993610223642172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9941060903732809,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "相干逻辑 relevance (Edwin Mares)",
+  "zh_h1": "相干逻辑 relevance (Edwin Mares)",
+  "yuanwen_h1": "Relevance Logic",
+  "html_title": "Relevance Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 59,
+  "p→∅": 14,
+  "table→table": 6,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+mathblock+p+p+mathblock+p+p+p+blockquote+p+p+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 82,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Anderson (1967) formulated a system of deontic logic based on ⟦M⟧ and, more recently, relevance logic has been used as a basis for deontic logic by Mares (1992) and Lou Goble (1999). These systems avoid some of the standard problems with more traditional deontic logics. One problem that standard deontic logics face is that they make valid the inference from ⟦M⟧ ’s being a theorem to ⟦M⟧ ’s being a theorem, where ‘ ⟦M⟧ ’ means ‘it ought to be that ⟦M⟧ ’. The reason that this problem arises is tha",
+   "md_text": "Anderson (1967) formulated a system of deontic logic based on ⟦M⟧ and, more recently, relevance logic has been used as a basis for deontic logic by Mares (1992) and Lou Goble (1999). These systems avoid some of the standard problems with more traditional deontic logics. One problem that standard deontic logics face is that they make valid the inference from ⟦M⟧ ’s being a theorem to ⟦M⟧ ’s being a theorem, where ‘ ⟦M⟧ ’ means ‘it ought to be that ⟦M⟧ ’. The reason that this problem arises is tha"
+  },
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The idea behind the ternary relation semantics is rather simple. Consider C.I. Lewis’ attempt to avoid the paradoxes of material implication. He added a new connective to classical logic, that of strict implication. In post-Kripkean semantic terms, ⟦M⟧ is true at a world ⟦M⟧ if and only if for all ⟦M⟧ such that ⟦M⟧ is accessible to ⟦M⟧ , either ⟦M⟧ fails in ⟦M⟧ or ⟦M⟧ obtains there. Now, in Kripke’s semantics for modal logic, the accessibility relation is a binary relation. It holds between pair",
+   "md_text": "The idea behind the ternary relation semantics is rather simple. Consider C.I. Lewis’ attempt to avoid the paradoxes of material implication. He added a new connective to classical logic, that of strict implication. In post-Kripkean semantic terms, ⟦M⟧ is true at a world ⟦M⟧ if and only if for all ⟦M⟧ such that ⟦M⟧ is accessible to ⟦M⟧ , either ⟦M⟧ fails in ⟦M⟧ or ⟦M⟧ obtains there. Now, in Kripke’s semantics for modal logic, the accessibility relation is a binary relation. It holds between pair"
+  },
+  {
+   "i": 42,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "1. ⟦M⟧ Hyp 2. ⟦M⟧ Hyp 3. ⟦M⟧ ⟦M⟧ E",
+   "md_text": "1. ⟦M⟧ Hyp 2. ⟦M⟧ Hyp 3. ⟦M⟧ ⟦M⟧ E"
+  }
+ ],
+ "supplements": [
+  "logic-b-dj-dk.html",
+  "logice.html",
+  "logicnr.html",
+  "logicr.html",
+  "logics.html"
+ ],
+ "meta_title": "Relevance Logic",
+ "authors": [
+  "Mares, Edwin"
+ ]
+}

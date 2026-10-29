@@ -1,0 +1,395 @@
+{
+ "slug": "aristotle-de-motu",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 83,
+ "n_md": 88,
+ "n_pairs": 33,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9984725649159911,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981115879828326,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988173913043479,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982931512694687,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987084429562305,
+   "n_h": 12,
+   "n_m": 12,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978947368421053,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996391194514616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992082343626286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992614475627769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965156794425087,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996297667530544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964013243126529,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980988593155894,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992051776995572,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.999739921976593,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964444444444445,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960718294051627,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984825493171472,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987325728770595,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996611318197222,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988636363636364,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962480688589715,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9788359788359788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的《动物的运动》 De Motu Animalium (Klaus Corcilius)",
+  "zh_h1": "亚里士多德的《动物的运动》 De Motu Animalium (Klaus Corcilius)",
+  "yuanwen_h1": "Aristotle’s *De Motu Animalium*",
+  "html_title": "Aristotle’s De Motu Animalium",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 39,
+  "h3→h3": 7,
+  "p→p": 9,
+  "blockquote→∅": 8,
+  "blockquote→blockquote": 1,
+  "figure→p": 3,
+  "h4→h4": 3,
+  "ul→ul": 1,
+  "table→∅": 1,
+  "figure→∅": 1,
+  "table→table": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×12(p+blockquote+p+blockquote+p+blockquote+p+p+p+p+blockquote+p→p+blockquote+p+blockquote+p+blockquote+p+p+p+p+blockquote+p)": 1,
+  "merged×5(p+blockquote+p+blockquote+p→p+blockquote+p+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+table→p+p+table)": 1,
+  "merged×2(p+figure→p+p+p)": 1,
+  "merged×1(p→p+p)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 65,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Having completed his account of the efficient causation of episodes of animal self-motion in the second half of chapter 10, Aristotle now offers a very interesting comparison of the organic cohesion and unity of the animal with a city with good laws. Just as a political community with good laws does not need a ruler (monarch) in each of its parts to carry out its work in the common interest, so the self-moving organism does not need a soul in each of its parts to perform its due function. The ro",
+   "md_text": "Having completed his account of the efficient causation of episodes of animal self-motion in the second half of chapter 10, Aristotle now offers a very interesting comparison of the organic cohesion and unity of the animal with a city with good laws. Just as a political community with good laws does not need a ruler (monarch) in each of its parts to carry out its work in the common interest, so the self-moving organism does not need a soul in each of its parts to perform its due function. The ro"
+  },
+  {
+   "i": 39,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1",
+   "md_text": "Figure 1"
+  }
+ ],
+ "supplements": [
+  "figdesc.html"
+ ],
+ "meta_title": "Aristotle’s De Motu Animalium",
+ "authors": [
+  "Corcilius, Klaus"
+ ]
+}

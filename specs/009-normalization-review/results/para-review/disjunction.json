@@ -1,0 +1,840 @@
+{
+ "slug": "disjunction",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 183,
+ "n_md": 266,
+ "n_pairs": 75,
+ "n_flags": 6,
+ "n_merged": 44,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976744186046511,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989754098360656,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981252343457068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994484280198566,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974610083424011,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984051036682615,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977728285077951,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994226994573375,
+   "n_h": 5,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994079336885732,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986366734832992,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989094874591058,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988141120664097,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990059642147118,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992695398100804,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992114453080996,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987623762376238,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985083532219571,
+   "n_h": 6,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990741965348499,
+   "n_h": 5,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983054038787422,
+   "n_h": 6,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999000999000999,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943355119825708,
+   "n_h": 3,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h1"
+   ]
+  },
+  {
+   "ratio": 0.9983704508419338,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986845566956064,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988069673109043,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998389694041868,
+   "n_h": 5,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994413407821229,
+   "n_h": 3,
+   "n_m": 9,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981549815498155,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982608695652174,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999390243902439,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991113085980893,
+   "n_h": 5,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987888574888979,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974001418104467,
+   "n_h": 5,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949238578680203,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9521739130434783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "析取/逻辑或 disjunction (Maria Aloni)",
+  "zh_h1": "析取/逻辑或 disjunction (Maria Aloni)",
+  "yuanwen_h1": "Disjunction",
+  "html_title": "Disjunction",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 38,
+  "dl→∅": 42,
+  "table→table": 6,
+  "p→∅": 62,
+  "p→mathblock": 5,
+  "h3→h3": 5,
+  "h4→h4": 7,
+  "ul→ul": 1,
+  "blockquote→∅": 3,
+  "ol→ol": 1,
+  "figure→∅": 1,
+  "merged×1(dl→p+p)": 8,
+  "merged×2(p+dl→p+p+p)": 6,
+  "merged×1(p→p)": 6,
+  "merged×4(p+dl+p+p→p+p+p+p+p)": 1,
+  "merged×5(p+dl+p+dl+p→p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(dl+p→p+p+p+p+p)": 2,
+  "merged×6(p+dl+p+dl+p+dl→p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+dl+p+dl+p→p+p+p+p+p+p+p+p+p)": 2,
+  "merged×6(p+dl+p+p+blockquote+p→p+p+p+p+p+p+p+p+p+blockquote+p)": 1,
+  "merged×1(dl→p+p+p+p)": 1,
+  "merged×3(p+p+dl→p+p+p+p+p+p+p+p+p+h1)": 1,
+  "merged×2(p+dl→p+p+p+p+p)": 1,
+  "merged×4(dl+p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+ol+p+p+p+p)": 1,
+  "merged×4(dl+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×5(p+dl+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+dl+blockquote+p→p+p+p+blockquote+p)": 1,
+  "merged×5(p+dl+p+p+dl→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 153,
+   "j": 225,
+   "ratio": 0.18556701030927836,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "(a) classical (b) inquisitive Figure 1. ⟦M⟧ in classical logic and in inquisitive logic.",
+   "md_text": "Figure 1."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 226,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a square with a number on a gray circle in each quadrant. The numbers, left to right then top to bottom, are 11, 10, 01, and 00. The first three of these numbers have a curve enclosing them]](../assets/disjunction/fig-a.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 227,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(a) classical"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 228,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a square with a number on a gray circle in each quadrant. The numbers, left to right then top to bottom, are 11, 10, 01, and 00. The first two of these numbers have a curve enclosing them as do the first and third numbers.]](../assets/disjunction/fig-b.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 229,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(b) inquisitive"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 230,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1. ⟦M⟧ in classical logic and in inquisitive logic."
+  }
+ ],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "In logic, disjunction is a binary connective ( ⟦M⟧ ) classically interpreted as a truth function the output of which is true if at least one of the input sentences (disjuncts) is true, and false otherwise. Its supposed connection with disjunctive words of natural language like or has long intrigued philosophers, logicians and linguists. In this entry we give an overview of logical and linguistic analyses of disjunction with focus on developments at the interface between logic and language. Secti",
+   "md_text": "In logic, disjunction is a binary connective ( ⟦M⟧ ) classically interpreted as a truth function the output of which is true if at least one of the input sentences (disjuncts) is true, and false otherwise. Its supposed connection with disjunctive words of natural language like or has long intrigued philosophers, logicians and linguists. In this entry we give an overview of logical and linguistic analyses of disjunction with focus on developments at the interface between logic and language. Secti"
+  },
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "In logic, disjunction is a binary connective ( ⟦M⟧ ) classically interpreted as a truth function the output of which is true if at least one of the input sentences (disjuncts) is true, and false otherwise. Its supposed connection with disjunctive words of natural language like or has long intrigued philosophers, logicians and linguists. In this entry we give an overview of logical and linguistic analyses of disjunction with focus on developments at the interface between logic and language. Secti",
+   "md_text": "In logic, disjunction is a binary connective ( ⟦M⟧ ) classically interpreted as a truth function the output of which is true if at least one of the input sentences (disjuncts) is true, and false otherwise. Its supposed connection with disjunctive words of natural language like or has long intrigued philosophers, logicians and linguists. In this entry we give an overview of logical and linguistic analyses of disjunction with focus on developments at the interface between logic and language. Secti"
+  },
+  {
+   "i": 5,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ 1 1 1 1 0 1 0 1 1 0 0 0",
+   "md_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ 1 1 1 1 0 1 0 1 1 0 0 0"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Disjunction",
+ "authors": [
+  "Aloni, Maria"
+ ]
+}

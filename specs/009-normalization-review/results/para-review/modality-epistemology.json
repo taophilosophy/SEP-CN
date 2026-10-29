@@ -1,0 +1,815 @@
+{
+ "slug": "modality-epistemology",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 219,
+ "n_md": 270,
+ "n_pairs": 118,
+ "n_flags": 0,
+ "n_merged": 52,
+ "merged": [
+  {
+   "ratio": 0.9994256174612292,
+   "n_h": 1,
+   "n_m": 12,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994134897360704,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943181818181818,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968847352024922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948542024013722,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966471081307627,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "figure",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988860007426662,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951690821256038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975074775672981,
+   "n_h": 4,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9920948616600791,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984350547730829,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987468671679198,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988782950084127,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998533724340176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982377660295513,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999213630406291,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990367414338792,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989139878366637,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992509363295881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963898916967509,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9971988795518207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993535875888817,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989785495403473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991431019708654,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9932432432432432,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9925373134328358,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9980648657016797,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982275788727402,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979616795760293,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992619926199262,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989258861439313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990387696251202,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987789987789988,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978142076502732,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967602591792657,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970014992503748,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985214391325776,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991620579855874,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992542878448919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993690851735015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986149584487535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989535057557184,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981884057971014,
+   "n_h": 4,
+   "n_m": 15,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987730061349693,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988545246277205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991836734693877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991680532445923,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "模态认识论 epistemology of (Antonella Mallozzi, Anand Vaidya, and Michael Wallner)",
+  "zh_h1": "模态认识论 epistemology of (Antonella Mallozzi, Anand Vaidya, and Michael Wallner)",
+  "yuanwen_h1": "The Epistemology of Modality",
+  "html_title": "The Epistemology of Modality",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 82,
+  "p→p": 69,
+  "ul→ul": 4,
+  "figure→∅": 1,
+  "h3→h3": 10,
+  "dl→∅": 11,
+  "blockquote→blockquote": 18,
+  "ol→ol": 2,
+  "h4→h4": 3,
+  "ul→∅": 1,
+  "ol→∅": 3,
+  "blockquote→∅": 2,
+  "merged×1(preamble→p+ol+p+p+ul+p+ul+p+ul+p+p+p)": 1,
+  "merged×1(p→p)": 21,
+  "merged×4(figure+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×4(p+dl+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+dl+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 2,
+  "merged×4(p+p+dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(ol→ol)": 2,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+dl+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×2(dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×4(dl+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 127,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Justification for Implicit Knowledge Question: Sonia Roca-Royes (2010) draws attention to the following problem in Peacocke’s epistemology of modality. On Peacocke’s account, it appears that our knowledge or understanding of modality is parasitic on our knowledge of the Principles of Possibility, which are the principles anyone who possesses the concept of possibility tacitly knows. But how do we know such principles in the first place, or, equivalently, how does one manage to possess the ri",
+   "md_text": "The Justification for Implicit Knowledge Question: Sonia Roca-Royes (2010) draws attention to the following problem in Peacocke’s epistemology of modality. On Peacocke’s account, it appears that our knowledge or understanding of modality is parasitic on our knowledge of the Principles of Possibility, which are the principles anyone who possesses the concept of possibility tacitly knows. But how do we know such principles in the first place, or, equivalently, how does one manage to possess the ri"
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Among the alethic (or objective) modalities we find logical, physical, and metaphysical modality. Where ⟦M⟧ is a proposition, logical and physical modality are standardly defined as follows:",
+   "md_text": "Among the alethic (or objective) modalities we find logical, physical, and metaphysical modality. Where ⟦M⟧ is a proposition, logical and physical modality are standardly defined as follows:"
+  },
+  {
+   "i": 5,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "⟦M⟧ is logically possible iff ⟦M⟧ is consistent with the laws of logic. ⟦M⟧ is logically necessary iff ⟦M⟧ follows from the laws of logic. ⟦M⟧ is physically possible iff ⟦M⟧ is consistent with the laws of nature. ⟦M⟧ is physically necessary iff ⟦M⟧ follows from the laws of nature.",
+   "md_text": "⟦M⟧ is logically possible iff ⟦M⟧ is consistent with the laws of logic. ⟦M⟧ is logically necessary iff ⟦M⟧ follows from the laws of logic. ⟦M⟧ is physically possible iff ⟦M⟧ is consistent with the laws of nature. ⟦M⟧ is physically necessary iff ⟦M⟧ follows from the laws of nature."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Epistemology of Modality",
+ "authors": [
+  "Mallozzi, Antonella",
+  "Vaidya, Anand",
+  "Wallner, Michael"
+ ]
+}

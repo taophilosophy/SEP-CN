@@ -1,0 +1,193 @@
+{
+ "slug": "falaquera",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 38,
+ "n_md": 38,
+ "n_pairs": 17,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9979381443298969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976082912569758,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990592662276576,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993340732519422,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980506822612085,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999366152545954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979564032697548,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99740777666999,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982124144732787,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9795918367346939,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "闪-托夫·伊本·法拉奎拉 Falaquera, Shem Tov Ibn (Steve Harvey)",
+  "zh_h1": "闪-托夫·伊本·法拉奎拉 Falaquera, Shem Tov Ibn (Steve Harvey)",
+  "yuanwen_h1": "Shem Tov Ibn Falaquera",
+  "html_title": "Shem Tov Ibn Falaquera",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→∅": 19,
+  "blockquote→blockquote": 3,
+  "p→p": 2,
+  "blockquote→∅": 2,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×6(p+p+p+blockquote+p+p→p+p+p+blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 16,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "I endeavored to translate these opinions [of the philosophers] from Arabic to Hebrew, and to compile them from the books that are scattered there, so that whoever wishes to grasp these [opinions] will find them in one book, and will not need to weary himself by reading all the books [on these subjects], for all the opinions [of the philosophers], general and particular, on natural science and divine science are included in this composition. … There is not a word in this entire composition that I",
+   "md_text": "I endeavored to translate these opinions [of the philosophers] from Arabic to Hebrew, and to compile them from the books that are scattered there, so that whoever wishes to grasp these [opinions] will find them in one book, and will not need to weary himself by reading all the books [on these subjects], for all the opinions [of the philosophers], general and particular, on natural science and divine science are included in this composition. … There is not a word in this entire composition that I"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Shem Tov Ibn Falaquera",
+ "authors": [
+  "Harvey, Steve"
+ ]
+}

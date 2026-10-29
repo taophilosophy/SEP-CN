@@ -1,0 +1,336 @@
+{
+ "slug": "social-construction-naturalistic",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 89,
+ "n_md": 91,
+ "n_pairs": 47,
+ "n_flags": 0,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957627118644068,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984350547730829,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990281827016521,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956963332759511,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957158962795941,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989212513484358,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980491611392899,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985315712187959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995393827729157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998598037252153,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988529074384541,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936908517350158,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982350864807624,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985727878211227,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999128160418483,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963039014373717,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990884229717412,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987293519695044,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9871794871794872,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "社会建构的自然主义方法 naturalistic approaches to (Ron Mallon)",
+  "zh_h1": "社会建构的自然主义方法 naturalistic approaches to (Ron Mallon)",
+  "yuanwen_h1": "Naturalistic Approaches to Social Construction",
+  "html_title": "Naturalistic Approaches to Social Construction",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 35,
+  "blockquote→∅": 5,
+  "p→p": 26,
+  "h3→h3": 5,
+  "blockquote→blockquote": 3,
+  "ol→ol": 1,
+  "h4→h4": 4,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(p→p)": 7,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×6(p+p+blockquote+p+blockquote+p→p+p+blockquote+p+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 40,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Epistemological Fundamentalism Accommodating Science: Most contemporary naturalists take science to be an enormously successful enterprise, and so other knowledge claims must either cohere with the findings of our best science or explain those findings away. Empiricism: Knowledge comes from careful study of the world, not a priori theorizing. Causal Modeling: The world is a set of entities related by natural laws. In attempting to understand it, we produce causal models that idealize these relat",
+   "md_text": "Epistemological Fundamentalism Accommodating Science: Most contemporary naturalists take science to be an enormously successful enterprise, and so other knowledge claims must either cohere with the findings of our best science or explain those findings away. Empiricism: Knowledge comes from careful study of the world, not a priori theorizing. Causal Modeling: The world is a set of entities related by natural laws. In attempting to understand it, we produce causal models that idealize these relat"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Naturalistic Approaches to Social Construction",
+ "authors": [
+  "Mallon, Ron"
+ ]
+}

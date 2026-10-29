@@ -1,0 +1,217 @@
+{
+ "slug": "henricus-regius",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 54,
+ "n_md": 54,
+ "n_pairs": 36,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9997056226081837,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995285242809995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992721979621543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998636487592037,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999140154772141,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992737835875091,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996617050067659,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994921279837481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994321408290744,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988465974625144,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999288256227758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995044598612488,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9917355371900827,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亨利·雷吉乌斯 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)",
+  "zh_h1": "亨利·雷吉乌斯 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)",
+  "yuanwen_h1": "Henricus Regius",
+  "html_title": "Henricus Regius",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 15,
+  "p→p": 19,
+  "blockquote→blockquote": 7,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 9,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, Descartes also provided Regius with philosophical arguments in reply to Voetius. He outlined a number of reasons why they were jointly opposed to describing the human mind as a substantial form. To say that human beings think because they have a ‘thinking form’ explains nothing; secondly, those who postulate the existence of substantial forms are unable to say more precisely what they are, and thus they appeal to ‘occult’ realities that they do not understand; and, perhaps most importan",
+   "md_text": "However, Descartes also provided Regius with philosophical arguments in reply to Voetius. He outlined a number of reasons why they were jointly opposed to describing the human mind as a substantial form. To say that human beings think because they have a ‘thinking form’ explains nothing; secondly, those who postulate the existence of substantial forms are unable to say more precisely what they are, and thus they appeal to ‘occult’ realities that they do not understand; and, perhaps most importan"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Henricus Regius",
+ "authors": [
+  "Clarke, Desmond",
+  "Bos, Erik-Jan"
+ ]
+}

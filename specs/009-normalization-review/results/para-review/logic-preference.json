@@ -1,0 +1,678 @@
+{
+ "slug": "logic-preference",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 268,
+ "n_md": 315,
+ "n_pairs": 208,
+ "n_flags": 4,
+ "n_merged": 43,
+ "merged": [
+  {
+   "ratio": 0.9996722386102918,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926470588235294,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998280309544282,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992057188244639,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942100909842845,
+   "n_h": 2,
+   "n_m": 12,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "mathblock",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.982839313572543,
+   "n_h": 2,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ul",
+    "mathblock",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992841803865425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988974641675854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9925402434236357,
+   "n_h": 6,
+   "n_m": 9,
+   "shape_h": [
+    "figure",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "mathblock",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983361064891847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968051118210862,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.982989064398542,
+   "n_h": 2,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ul",
+    "mathblock",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986754966887417,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9636963696369637,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976359338061466,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998272884283247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9883597883597883,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982964224872232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981308411214953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978213507625272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972041006523765,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985775248933144,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961089494163424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987819732034104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994100294985251,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974424552429667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937106918238994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9992716678805535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953051643192489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.99644128113879,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9724770642201835,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996031746031746,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990697674418605,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9878787878787879,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "ol",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986962190352021,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938650306748467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976019184652278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988545246277205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996658870698296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999671592775041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "偏好逻辑 Preference Logic (Liu, Fenrong, van der Torre, Leon)",
+  "zh_h1": "偏好逻辑 Preference Logic (Liu, Fenrong, van der Torre, Leon)",
+  "yuanwen_h1": "Preference Logic",
+  "html_title": "Preference Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 45,
+  "p→p": 130,
+  "h3→h3": 16,
+  "figure→∅": 9,
+  "p→mathblock": 32,
+  "ul→ul": 6,
+  "ol→∅": 1,
+  "ol→ol": 2,
+  "blockquote→blockquote": 3,
+  "h4→h4": 6,
+  "ul→∅": 2,
+  "figure→p": 1,
+  "blockquote→∅": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 25,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(p+figure→p+p+p+p+p+p+p+p+p+p+mathblock+p)": 1,
+  "merged×2(p+figure→p+p+p+ul+mathblock+p)": 1,
+  "merged×6(figure+p+p+p+p+p→p+p+mathblock+p+p+p+p+p+p)": 1,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×2(p+figure→p+p+p+ul+mathblock+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(figure→p+p+ul+p)": 1,
+  "merged×2(p+figure→p+p+p+ol+p)": 1,
+  "merged×1(ul→ul)": 2,
+  "merged×1(figure→p+p)": 1,
+  "merged×2(p+figure→p+p+p+ol+p+ol+p+ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 2
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 55,
+   "j": 72,
+   "ratio": 0.3673469387755102,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "⟦M⟧ Figure 4: More preference principles",
+   "md_text": "Figure 4:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 73,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "mathblock",
+   "html_text": null,
+   "md_text": "⟦M⟧"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 74,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4: More preference principles"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 235,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Diagram A:"
+  }
+ ],
+ "spot": [
+  {
+   "i": 124,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The above method of defining preference from a priority base presupposes complete information about whether an alternative possesses the properties in the base. In cases of incomplete information, beliefs play a crucial role, and agents’ preferences depend on them. This situation requires the introduction of formulas such as ⟦M⟧ ⟦M⟧ or ⟦M⟧ where ⟦M⟧ represents priorities. This approach enables complex aspects to be considered, e.g., determining whether certain properties from the priority base a",
+   "md_text": "The above method of defining preference from a priority base presupposes complete information about whether an alternative possesses the properties in the base. In cases of incomplete information, beliefs play a crucial role, and agents’ preferences depend on them. This situation requires the introduction of formulas such as ⟦M⟧ ⟦M⟧ or ⟦M⟧ where ⟦M⟧ represents priorities. This approach enables complex aspects to be considered, e.g., determining whether certain properties from the priority base a"
+  },
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Pioneering logicians such as Halldén (1957) and von Wright (1963) proposed logics for preferences that focused on comparisons between situations. These logics extended propositional language with a binary connective, ⟦M⟧ , denoting the concept of preference or “betterness”.",
+   "md_text": "Pioneering logicians such as Halldén (1957) and von Wright (1963) proposed logics for preferences that focused on comparisons between situations. These logics extended propositional language with a binary connective, ⟦M⟧ , denoting the concept of preference or “betterness”."
+  },
+  {
+   "i": 31,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "preferences between states of affairs vs. preferences over means or methods, intrinsic preference (intrinsic betterness) vs. extrinsic preference (preference with reasons), qualitative preference vs. measurable value (e.g., utility), and risk-free preference vs. preference under uncertainty.",
+   "md_text": "preferences between states of affairs vs. preferences over means or methods, intrinsic preference (intrinsic betterness) vs. extrinsic preference (preference with reasons), qualitative preference vs. measurable value (e.g., utility), and risk-free preference vs. preference under uncertainty."
+  }
+ ],
+ "supplements": [
+  "figdesc.html"
+ ],
+ "meta_title": "Preference Logic",
+ "authors": [
+  "Liu, Fenrong",
+  "van der Torre, Leon"
+ ]
+}

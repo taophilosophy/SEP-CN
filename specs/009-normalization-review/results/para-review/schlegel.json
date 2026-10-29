@@ -1,0 +1,221 @@
+{
+ "slug": "schlegel",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 49,
+ "n_md": 49,
+ "n_pairs": 24,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9982174688057041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983948635634029,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982149232416994,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989868287740629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982615414332625,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984093319194062,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986078886310905,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972970267294023,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981053429329292,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994579945799458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9943502824858758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "弗里德里希·施莱格尔 Schlegel, Friedrich (Allen Speight)",
+  "zh_h1": "弗里德里希·施莱格尔 Schlegel, Friedrich (Allen Speight)",
+  "yuanwen_h1": "Friedrich Schlegel",
+  "html_title": "Friedrich Schlegel",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 12,
+  "p→∅": 23,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "An important influence on the young Schlegel was Caroline Böhmer, future wife of his brother (and ultimately of F. W. J. Schelling). Schlegel met her initially in 1794 in Dresden, and her life experience—the daughter of a famous Göttingen professor, she had become pregnant by a French officer in occupied Mainz and been imprisoned as a revolutionary—had a particular effect on the awakening of his interest in political and social issues. In the summer of 1796, Schlegel moved to join his brother an",
+   "md_text": "An important influence on the young Schlegel was Caroline Böhmer, future wife of his brother (and ultimately of F. W. J. Schelling). Schlegel met her initially in 1794 in Dresden, and her life experience—the daughter of a famous Göttingen professor, she had become pregnant by a French officer in occupied Mainz and been imprisoned as a revolutionary—had a particular effect on the awakening of his interest in political and social issues. In the summer of 1796, Schlegel moved to join his brother an"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Friedrich Schlegel",
+ "authors": [
+  "Speight, Allen"
+ ]
+}

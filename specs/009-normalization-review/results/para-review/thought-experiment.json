@@ -1,0 +1,361 @@
+{
+ "slug": "thought-experiment",
+ "letter": "t",
+ "state": "flagged",
+ "n_html": 78,
+ "n_md": 90,
+ "n_pairs": 33,
+ "n_flags": 2,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9995683246198859,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963985594237695,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993581514762516,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995236583042235,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997574254757156,
+   "n_h": 5,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994797919167667,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979360165118679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983567373767553,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9860674157303371,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991369744791024,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996194824961948,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995571302037201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986163273374185,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989909182643795,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994264410668197,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983456158820875,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9924098671726755,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "思想实验 thought experiments (James Robert Brown and Yiftach Fehige)",
+  "zh_h1": "思想实验 thought experiments (James Robert Brown and Yiftach Fehige)",
+  "yuanwen_h1": "Thought Experiments",
+  "html_title": "Thought Experiments",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 42,
+  "figure→p": 6,
+  "p→p": 11,
+  "h3→h3": 6,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 29,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 78,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 7."
+  }
+ ],
+ "spot": [
+  {
+   "i": 56,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "What we might term “experimentalism” encompasses a wide range of different approaches which all advance the view that thought experiments are a “limiting case” of ordinary experiments. Experimentalism was proposed first by Ernst Mach (1897 and 1905). He defines experimenting in terms of its basic method of variation and its capacity to destroy prejudices about nature. According to Mach, experimenting is innate to higher animals, including humans. The thought experiment just happens on a higher i",
+   "md_text": "What we might term “experimentalism” encompasses a wide range of different approaches which all advance the view that thought experiments are a “limiting case” of ordinary experiments. Experimentalism was proposed first by Ernst Mach (1897 and 1905). He defines experimenting in terms of its basic method of variation and its capacity to destroy prejudices about nature. According to Mach, experimenting is innate to higher animals, including humans. The thought experiment just happens on a higher i"
+  },
+  {
+   "i": 5,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. “Welcome to the edge of the Universe”",
+   "md_text": "Figure 1. “Welcome to the edge of the Universe”"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Thought Experiments",
+ "authors": [
+  "Brown, James Robert",
+  "Fehige, Yiftach"
+ ]
+}

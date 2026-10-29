@@ -1,0 +1,356 @@
+{
+ "slug": "beauvoir",
+ "letter": "b",
+ "state": "ok",
+ "n_html": 109,
+ "n_md": 109,
+ "n_pairs": 61,
+ "n_flags": 0,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.9996901146575767,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994476155404162,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999618320610687,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994011976047904,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9879518072289156,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h2"
+   ],
+   "shape_m": [
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9989023051591658,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986587468863767,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "h2",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999213217938631,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979123173277662,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994229659549914,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996134518747584,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995249406175772,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995459361283487,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987760097919217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998375493153864,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974811083123426,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989408026362245,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988204765274828,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968719923002888,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9918032786885246,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9760705289672544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "西蒙娜·德·波伏娃 Beauvoir, Simone de (Debra Bergoffen and Megan Burke)",
+  "zh_h1": "西蒙娜·德·波伏娃 Beauvoir, Simone de (Debra Bergoffen and Megan Burke)",
+  "yuanwen_h1": "Simone de Beauvoir",
+  "html_title": "Simone de Beauvoir",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 49,
+  "p→∅": 37,
+  "h2→∅": 8,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(h2→h2)": 1,
+  "merged×2(h2+p→h2+p)": 3,
+  "merged×3(h2+p+p→h2+p+p)": 1,
+  "merged×3(p+h2+p→p+h2+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×5(p+h2+p+p+p→p+h2+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 24,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "After opening Pyrrhus and Cinéas with Plutarch’s account of a conversation between Pyrrhus and Cinéas, where the justification of action is questioned, Beauvoir, finding the recommendation to be passively inconsistent with the realities of human nature and desire, asks three questions: What is the measure of a person? What goals can one set for oneself? What hopes are permitted to us? She then divides the text into two parts. Part one moves from the ontological truth—that I am a finite freedom w",
+   "md_text": "After opening Pyrrhus and Cinéas with Plutarch’s account of a conversation between Pyrrhus and Cinéas, where the justification of action is questioned, Beauvoir, finding the recommendation to be passively inconsistent with the realities of human nature and desire, asks three questions: What is the measure of a person? What goals can one set for oneself? What hopes are permitted to us? She then divides the text into two parts. Part one moves from the ontological truth—that I am a finite freedom w"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Simone de Beauvoir",
+ "authors": [
+  "Bergoffen, Debra",
+  "Burke, Megan"
+ ]
+}

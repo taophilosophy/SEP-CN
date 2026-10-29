@@ -1,0 +1,343 @@
+{
+ "slug": "pascal-wager",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 120,
+ "n_md": 121,
+ "n_pairs": 86,
+ "n_flags": 2,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9988606152677554,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992774566473989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9746109746109746,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973396393733373,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995525727069351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999589995899959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974853310980721,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984202211690363,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9873417721518988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967069154774972,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9960813584623996,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "ol",
+    "ol",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9980430528375733,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9888268156424581,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985966881841145,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980988593155894,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990925589836661,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993868792152054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996816300541229,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9915397631133672,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "帕斯卡的赌注 Pascal’s wager (Alan Hájek)",
+  "zh_h1": "帕斯卡的赌注 Pascal’s wager (Alan Hájek)",
+  "yuanwen_h1": "Pascal’s Wager",
+  "html_title": "Pascal’s Wager",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 30,
+  "p→p": 52,
+  "table→table": 5,
+  "blockquote→blockquote": 6,
+  "ol→∅": 1,
+  "p→mathblock": 5,
+  "h3→h3": 6,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×1(p→ol)": 1,
+  "merged×4(p+p+p+p→ol+ol+ol+ol)": 1,
+  "merged×2(p+p→ol+ol)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 8,
+   "j": 9,
+   "ratio": 0.8563134978229318,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Betting on heads superdominates betting on tails. The worst outcome associated with betting on heads (which pays $1) is at least as good as the best outcome associated with betting on tails (which pays $1); and if the coin lands heads, the outcome associated with betting on heads pays more than that associated with tails ($2 > $0). Moreover, it seems clear that you should bet on heads.",
+   "md_text": "Betting on heads superdominates betting on tails. The worst outcome associated with betting on heads (which pays ⟦M⟧ 1); and if the coin lands heads, the outcome associated with betting on heads pays more than that associated with tails ( ⟦M⟧ 0). Moreover, it seems clear that you should bet on heads."
+  },
+  {
+   "kind": "replace",
+   "i": 10,
+   "j": 11,
+   "ratio": 0.871244635193133,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Example . Suppose that the utility of money is linear in number of dollars: you value money at exactly its face value. Suppose now that you know that a fair coin will be tossed, and so you assign probability 1/2 to heads and 1/2 to tails. It costs a dollar to play the following game. If the coin lands heads, you will win $3; if it lands tails, you will get nothing. (Including the initial cost of playing, the total possible payoffs are $1 less than these respective amounts.) Should you play? Here is the decision table:",
+   "md_text": "Example. Suppose that the utility of money is linear in number of dollars: you value money at exactly its face value. Suppose now that you know that a fair coin will be tossed, and so you assign probability 1/2 to heads and 1/2 to tails. It costs a dollar to play the following game. If the coin lands heads, you will win ⟦M⟧ 1 less than these respective amounts.) Should you play? Here is the decision table:"
+  }
+ ],
+ "spot": [
+  {
+   "i": 66,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In response, some authors argue that in such a competition among various possible deities for one’s belief, some are more probable than others. Although there may be ties among the expected utilities—all infinite—for believing in various ones among them, their respective probabilities can be used as tie-breakers. Schlesinger (1994, 90) offers this principle: “In cases where the mathematical expectations are infinite, the criterion for choosing the outcome to bet on is its probability”. (Note tha",
+   "md_text": "In response, some authors argue that in such a competition among various possible deities for one’s belief, some are more probable than others. Although there may be ties among the expected utilities—all infinite—for believing in various ones among them, their respective probabilities can be used as tie-breakers. Schlesinger (1994, 90) offers this principle: “In cases where the mathematical expectations are infinite, the criterion for choosing the outcome to bet on is its probability”. (Note tha"
+  },
+  {
+   "i": 48,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "We have a decision under risk, with probabilities assigned to the ways the world could be, and utilities assigned to the outcomes. In particular, we represent the infinite utility associated with salvation as ‘ ⟦M⟧ ’. We assume that the real line is extended to include the element ‘ ⟦M⟧ ’, and that the basic arithmetical operations are extended as follows:",
+   "md_text": "We have a decision under risk, with probabilities assigned to the ways the world could be, and utilities assigned to the outcomes. In particular, we represent the infinite utility associated with salvation as ‘ ⟦M⟧ ’. We assume that the real line is extended to include the element ‘ ⟦M⟧ ’, and that the basic arithmetical operations are extended as follows:"
+  },
+  {
+   "i": 7,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Coin lands heads Coin lands tails Bet on heads 2 1 Bet on tails 0 1",
+   "md_text": "Coin lands heads Coin lands tails Bet on heads 2 1 Bet on tails 0 1"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Pascal’s Wager",
+ "authors": [
+  "Hájek, Alan"
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "slug": "time-thermo",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 136,
+ "n_md": 139,
+ "n_pairs": 100,
+ "n_flags": 0,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995318352059925,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987639060568603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981167608286252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993299832495812,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994378864530635,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996417054819061,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995267392333176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996595165134491,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993535875888817,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992810927390366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993983152827918,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985734664764622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986631016042781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999603017070266,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995238095238095,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992489673300788,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993434011818779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992429977289932,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993734335839599,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993502274204028,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993006993006993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9958762886597938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "热力学时间非对称性 thermodynamic asymmetry in (Craig Callender)",
+  "zh_h1": "热力学时间非对称性 thermodynamic asymmetry in (Craig Callender)",
+  "yuanwen_h1": "Thermodynamic Asymmetry in Time",
+  "html_title": "Thermodynamic Asymmetry in Time",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 31,
+  "p→p": 77,
+  "dl→∅": 2,
+  "h3→h3": 11,
+  "blockquote→blockquote": 2,
+  "ol→ol": 1,
+  "p→mathblock": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 15,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×1(dl→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 110,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The epistemological arrow. Roughly put, we know more about the past than the future. I know that yesterday’s broken egg on the floor had a similar outline to Chile’s boundaries, but I have no idea what country tomorrow’s broken egg will look like. Albert (2000) provides a much better characterization, for no one really counts and compares known propositions between past and future. It’s better to say, as he does, that our way of knowing the past is different than our way of knowing the future. T",
+   "md_text": "The epistemological arrow. Roughly put, we know more about the past than the future. I know that yesterday’s broken egg on the floor had a similar outline to Chile’s boundaries, but I have no idea what country tomorrow’s broken egg will look like. Albert (2000) provides a much better characterization, for no one really counts and compares known propositions between past and future. It’s better to say, as he does, that our way of knowing the past is different than our way of knowing the future. T"
+  },
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The First Law expresses the conservation of energy and is founded upon the impossibility of creating a machine that can create energy from nothing. The law uses the concept of the internal energy of a system, ⟦M⟧ , which is a function of the system’s macroscopic variables, e.g., temperature, volume. For thermally isolated (adiabatic) systems – think of systems such as coffee in a thermos – the law states that this function, ⟦M⟧ , is such that the work ⟦M⟧ delivered to a system’s surroundings is ",
+   "md_text": "The First Law expresses the conservation of energy and is founded upon the impossibility of creating a machine that can create energy from nothing. The law uses the concept of the internal energy of a system, ⟦M⟧ , which is a function of the system’s macroscopic variables, e.g., temperature, volume. For thermally isolated (adiabatic) systems – think of systems such as coffee in a thermos – the law states that this function, ⟦M⟧ , is such that the work ⟦M⟧ delivered to a system’s surroundings is "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Thermodynamic Asymmetry in Time",
+ "authors": [
+  "Callender, Craig"
+ ]
+}

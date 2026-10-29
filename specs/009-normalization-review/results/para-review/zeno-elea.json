@@ -1,0 +1,275 @@
+{
+ "slug": "zeno-elea",
+ "letter": "z",
+ "state": "ok",
+ "n_html": 66,
+ "n_md": 67,
+ "n_pairs": 33,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9997342545841085,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999559277214632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990471148755955,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991701244813278,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989277289298735,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993800371977681,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973856209150327,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967213114754099,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965294992563213,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984246455452477,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9867342375912953,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987639060568603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985693848354793,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979276802706704,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986833443054641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "爱利亚的芝诺 Zeno of Elea (John Palmer)",
+  "zh_h1": "爱利亚的芝诺 Zeno of Elea (John Palmer)",
+  "yuanwen_h1": "Zeno of Elea",
+  "html_title": "Zeno of Elea",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→∅": 28,
+  "p→p": 14,
+  "blockquote→∅": 4,
+  "h3→h3": 3,
+  "h4→h4": 8,
+  "figure→∅": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+figure+p→p+p+p+table+p)": 1,
+  "merged×7(p+blockquote+p+p+p+p+p→p+blockquote+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 59,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Whatever may have spurred Zeno’s development of his collection of paradoxes, his arguments quickly achieved a remarkable level of notoriety. They had an immediate impact on Greek physical theory. Zeno’s powerful principle that any spatially extended entity must be limitlessly divisible would profoundly impact the development of the subtle and powerful physical theories of both Anaxagoras, who accepts the principle, and the early atomists, Leucippus and Democritus, who reject it. Zeno’s arguments",
+   "md_text": "Whatever may have spurred Zeno’s development of his collection of paradoxes, his arguments quickly achieved a remarkable level of notoriety. They had an immediate impact on Greek physical theory. Zeno’s powerful principle that any spatially extended entity must be limitlessly divisible would profoundly impact the development of the subtle and powerful physical theories of both Anaxagoras, who accepts the principle, and the early atomists, Leucippus and Democritus, who reject it. Zeno’s arguments"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Zeno of Elea",
+ "authors": [
+  "Palmer, John"
+ ]
+}

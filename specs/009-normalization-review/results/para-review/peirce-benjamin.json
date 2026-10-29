@@ -1,0 +1,145 @@
+{
+ "slug": "peirce-benjamin",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 26,
+ "n_md": 26,
+ "n_pairs": 15,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9993638676844784,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986595174262735,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954887218045113,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973029667365898,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993585631815266,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992150706436421,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "本杰明·皮尔斯 Peirce, Benjamin (Ivor Grattan-Guinness and Alison Walsh)",
+  "zh_h1": "本杰明·皮尔斯 Peirce, Benjamin (Ivor Grattan-Guinness and Alison Walsh)",
+  "yuanwen_h1": "Benjamin Peirce",
+  "html_title": "Benjamin Peirce",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 6,
+  "p→p": 4,
+  "blockquote→∅": 5,
+  "blockquote→blockquote": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 3,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Benjamin Peirce (b. April 4, 1809, d. October 6, 1880) was a professor at Harvard with interests in celestial mechanics, applications of plane and spherical trigonometry to navigation, number theory and algebra. In mechanics, he helped to establish the (effects of the) orbit of Neptune (in relation to Uranus). In number theory, he proved that there is no odd perfect number with fewer than four distinct prime factors. In algebra, he published a comprehensive book on complex associative algebras. ",
+   "md_text": "Benjamin Peirce (b. April 4, 1809, d. October 6, 1880) was a professor at Harvard with interests in celestial mechanics, applications of plane and spherical trigonometry to navigation, number theory and algebra. In mechanics, he helped to establish the (effects of the) orbit of Neptune (in relation to Uranus). In number theory, he proved that there is no odd perfect number with fewer than four distinct prime factors. In algebra, he published a comprehensive book on complex associative algebras. "
+  },
+  {
+   "i": 23,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The MacTutor History of Mathematics Archive entry on Benjamin Peirce Photos of Benjamin Peirce at the MacTutor Archive",
+   "md_text": "The MacTutor History of Mathematics Archive entry on Benjamin Peirce Photos of Benjamin Peirce at the MacTutor Archive"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Benjamin Peirce",
+ "authors": [
+  "Grattan-Guinness, Ivor",
+  "Walsh, Alison"
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "slug": "causation-backwards",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 139,
+ "n_md": 142,
+ "n_pairs": 113,
+ "n_flags": 2,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983108108108109,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996707276918011,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995635093845482,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993373094764745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981640146878825,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981350242446848,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975062344139651,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997051017398997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993399339933994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997328346246327,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991673605328892,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989528795811519,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996039603960396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991095280498664,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996187571483035,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9959016393442623,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9712230215827338,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "逆向因果关系 backward (Jan Faye)",
+  "zh_h1": "逆向因果关系 backward (Jan Faye)",
+  "yuanwen_h1": "Backward Causation",
+  "html_title": "Backward Causation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 81,
+  "h3→h3": 13,
+  "p→∅": 21,
+  "ol→ol": 5,
+  "ol→∅": 1,
+  "blockquote→∅": 2,
+  "p→mathblock": 2,
+  "figure→p": 1,
+  "blockquote→blockquote": 1,
+  "h4→h4": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 11,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 97,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Three diagrams each with a vertical axis labelled ‘time’ and an arrow pointing up and two horizontal perpendicular axes labelled ‘space’]](../assets/causation-backwards/tachyon.svg)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 125,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The fundamental claim is that for any observer it is possible to identify experimentally the cause and the effect so that these remain the same even in relation to counter-observers, i.e., observers having the opposite time sense of ours. In support of this claim consider the following thought experiment. Two boxes, each having a shutter, are facing each other. Assume, ex hypothesis, that Box 1 is the particle source and Box 2 is the particle receiver. The question is how a normal observer and a",
+   "md_text": "The fundamental claim is that for any observer it is possible to identify experimentally the cause and the effect so that these remain the same even in relation to counter-observers, i.e., observers having the opposite time sense of ours. In support of this claim consider the following thought experiment. Two boxes, each having a shutter, are facing each other. Assume, ex hypothesis, that Box 1 is the particle source and Box 2 is the particle receiver. The question is how a normal observer and a"
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Two years later, Max Black (1956) presented an argument against backward causation, which became known as the bilking argument, and later attempts to meet the argument seemed to generate all kinds of paradoxes. Imagine ⟦M⟧ to be earlier than ⟦M⟧ , and let ⟦M⟧ be the alleged effect of ⟦M⟧ . Thus, we assume that ⟦M⟧ causes ⟦M⟧ , even though ⟦M⟧ is later than ⟦M⟧ . The idea behind the bilking argument is that whenever ⟦M⟧ has occurred, it is possible, in principle, to intervene in the course of eve",
+   "md_text": "Two years later, Max Black (1956) presented an argument against backward causation, which became known as the bilking argument, and later attempts to meet the argument seemed to generate all kinds of paradoxes. Imagine ⟦M⟧ to be earlier than ⟦M⟧ , and let ⟦M⟧ be the alleged effect of ⟦M⟧ . Thus, we assume that ⟦M⟧ causes ⟦M⟧ , even though ⟦M⟧ is later than ⟦M⟧ . The idea behind the bilking argument is that whenever ⟦M⟧ has occurred, it is possible, in principle, to intervene in the course of eve"
+  },
+  {
+   "i": 44,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "We cannot change the past. We cannot change the laws of nature. Hence, we cannot change either the past or the laws of nature (by 1 and 2). If determinism is true, then our present actions are necessary consequences of the past and the laws of nature. Hence, if determinism is true, then we can do nothing now to change the fact that our present actions are necessary consequences of the past and the laws of nature (by 4). Hence, if determinism is true, then we cannot change that our current action",
+   "md_text": "We cannot change the past. We cannot change the laws of nature. Hence, we cannot change either the past or the laws of nature (by 1 and 2). If determinism is true, then our present actions are necessary consequences of the past and the laws of nature. Hence, if determinism is true, then we can do nothing now to change the fact that our present actions are necessary consequences of the past and the laws of nature (by 4). Hence, if determinism is true, then we cannot change that our current action"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Backward Causation",
+ "authors": [
+  "Faye, Jan"
+ ]
+}

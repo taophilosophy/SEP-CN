@@ -1,0 +1,340 @@
+{
+ "slug": "hare",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 125,
+ "n_md": 127,
+ "n_pairs": 90,
+ "n_flags": 0,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996783531682213,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992542878448919,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997808619430241,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964580873671782,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9615384615384616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.96,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9763779527559056,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9974937343358395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950062421972534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959026271390696,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972991222147198,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995893223819302,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992878056500751,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996429846483399,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992855441771851,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990982867448152,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999748427672956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972602739726028,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987515605493134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982378854625551,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "理查德·默尔文·黑尔 Hare, Richard Mervyn (Anthony Price)",
+  "zh_h1": "理查德·默尔文·黑尔 Hare, Richard Mervyn (Anthony Price)",
+  "yuanwen_h1": "Richard Mervyn Hare",
+  "html_title": "Richard Mervyn Hare",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "p→p": 55,
+  "p→∅": 27,
+  "blockquote→blockquote": 16,
+  "ul→∅": 3,
+  "ul→ul": 4,
+  "ol→ol": 1,
+  "ol→∅": 2,
+  "blockquote→∅": 2,
+  "h3→h3": 1,
+  "merged×1(preamble→p+blockquote+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(ul→ul)": 3,
+  "merged×3(ol+p+p→ol+p+p)": 1,
+  "merged×5(blockquote+p+p+p+p→blockquote+p+p+p+p)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 75,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As Hare notes (1981: 103), restrictions upon the relevant range of preferences may have the effect of bringing together a utilitarianism that aims to maximize pleasure or happiness, and one that aims to maximize the satisfaction of preference. Yet to have any hope of achieving this we would need a double restriction: the only preferences to be considered must be now-for-now or then-for-then, and they must be fully internal in relating only to conscious states of the subject—indeed, more precisel",
+   "md_text": "As Hare notes (1981: 103), restrictions upon the relevant range of preferences may have the effect of bringing together a utilitarianism that aims to maximize pleasure or happiness, and one that aims to maximize the satisfaction of preference. Yet to have any hope of achieving this we would need a double restriction: the only preferences to be considered must be now-for-now or then-for-then, and they must be fully internal in relating only to conscious states of the subject—indeed, more precisel"
+  },
+  {
+   "i": 32,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "(D) Light the fuse and step back three paces. So, light the fuse.",
+   "md_text": "(D) Light the fuse and step back three paces. So, light the fuse."
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Richard Mervyn Hare",
+ "authors": [
+  "Price, Anthony"
+ ]
+}

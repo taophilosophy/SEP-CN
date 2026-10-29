@@ -1,0 +1,247 @@
+{
+ "slug": "lyotard",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 57,
+ "n_md": 57,
+ "n_pairs": 24,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9995644599303136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985451900345518,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974502804691484,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992689295039164,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987754647667817,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980537735169034,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976602714085167,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981644961104799,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977678571428571,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991095280498664,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985222234852791,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960812255076594,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9997632015155103,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "让-弗朗索瓦·利奥塔 Lyotard, Jean François (Peter Gratton)",
+  "zh_h1": "让-弗朗索瓦·利奥塔 Lyotard, Jean François (Peter Gratton)",
+  "yuanwen_h1": "Jean François Lyotard",
+  "html_title": "Jean François Lyotard",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 21,
+  "p→p": 12,
+  "h3→h3": 4,
+  "blockquote→∅": 11,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 1,
+  "merged×7(p+blockquote+p+p+blockquote+p+p→p+blockquote+p+p+blockquote+p+p)": 1,
+  "merged×7(blockquote+p+p+blockquote+p+blockquote+p→blockquote+p+p+blockquote+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Nevertheless, Lyotard judged phenomenology to be ultimately reactionary, unable to respond to the ways in which the economic relations of production produce given conscious states, that is, how subjectivity is founded in objectivity. In this way, Lyotard’s work for the next decade would look to identify and illustrate these relations of production, especially in the Algerian situation, but time and again he chafed against Marxism’s cookie cutter approach, which denied cultural differences as epi",
+   "md_text": "Nevertheless, Lyotard judged phenomenology to be ultimately reactionary, unable to respond to the ways in which the economic relations of production produce given conscious states, that is, how subjectivity is founded in objectivity. In this way, Lyotard’s work for the next decade would look to identify and illustrate these relations of production, especially in the Algerian situation, but time and again he chafed against Marxism’s cookie cutter approach, which denied cultural differences as epi"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Jean François Lyotard",
+ "authors": [
+  "Gratton, Peter"
+ ]
+}

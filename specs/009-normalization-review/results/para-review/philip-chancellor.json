@@ -1,0 +1,187 @@
+{
+ "slug": "philip-chancellor",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 38,
+ "n_md": 38,
+ "n_pairs": 16,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9985734664764622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996866186148543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990383904134921,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998849582973828,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987597888097516,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991336991048224,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991596638655462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.99836867862969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "总务长菲利普 Philip the Chancellor (Colleen McCluskey and Anthony Celano)",
+  "zh_h1": "总务长菲利普 Philip the Chancellor (Colleen McCluskey and Anthony Celano)",
+  "yuanwen_h1": "Philip the Chancellor",
+  "html_title": "Philip the Chancellor",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 6,
+  "p→∅": 20,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The position of chancellor at the cathedral of Notre Dame in Paris was one of some importance, although it was the lowest ranking office in the administrative hierarchy of the chapter. Minor duties included keeping the official seal of the chapter, executing the official decrees of the administrative body, maintaining the non-musical books of the library, and serving in the liturgy of the daily office. His most significant responsibility was in the area of education. The chancellor was originall",
+   "md_text": "The position of chancellor at the cathedral of Notre Dame in Paris was one of some importance, although it was the lowest ranking office in the administrative hierarchy of the chapter. Minor duties included keeping the official seal of the chapter, executing the official decrees of the administrative body, maintaining the non-musical books of the library, and serving in the liturgy of the daily office. His most significant responsibility was in the area of education. The chancellor was originall"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philip the Chancellor",
+ "authors": [
+  "McCluskey, Colleen",
+  "Celano, Anthony"
+ ]
+}

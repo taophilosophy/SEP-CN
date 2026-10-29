@@ -1,0 +1,224 @@
+{
+ "slug": "logic-modal",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 206,
+ "n_md": 207,
+ "n_pairs": 192,
+ "n_flags": 1,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9992962702322308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985294117647059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9921259842519685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982847341337907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9922480620155039,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994465965688988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983525535420099,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933774834437086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9925925925925926,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995056846267919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990205680705191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992800575953924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994308480364257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "模态逻辑 modal (James Garson)",
+  "zh_h1": "模态逻辑 modal (James Garson)",
+  "yuanwen_h1": "Modal Logic",
+  "html_title": "Modal Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 19,
+  "p→p": 131,
+  "table→table": 2,
+  "p→∅": 13,
+  "p→mathblock": 31,
+  "figure→p": 1,
+  "ul→ul": 6,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 13,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 67,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Diagram of Modal Logics"
+  }
+ ],
+ "spot": [
+  {
+   "i": 22,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "It is interesting to note that ⟦M⟧ can be formulated equivalently by adding ⟦M⟧ to ⟦M⟧ . The axiom ⟦M⟧ raises an important point about the interpretation of modal formulas. ⟦M⟧ says that if ⟦M⟧ is the case, then ⟦M⟧ is necessarily possible. One might argue that ⟦M⟧ should always be adopted in any modal logic, for surely if ⟦M⟧ is the case, then it is necessary that ⟦M⟧ is possible. However, there is a problem with this claim that can be exposed by noting that ⟦M⟧ is provable from ⟦M⟧ . So ⟦M⟧ sh",
+   "md_text": "It is interesting to note that ⟦M⟧ can be formulated equivalently by adding ⟦M⟧ to ⟦M⟧ . The axiom ⟦M⟧ raises an important point about the interpretation of modal formulas. ⟦M⟧ says that if ⟦M⟧ is the case, then ⟦M⟧ is necessarily possible. One might argue that ⟦M⟧ should always be adopted in any modal logic, for surely if ⟦M⟧ is the case, then it is necessary that ⟦M⟧ is possible. However, there is a problem with this claim that can be exposed by noting that ⟦M⟧ is provable from ⟦M⟧ . So ⟦M⟧ sh"
+  },
+  {
+   "i": 5,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Logic Symbols Expressions Symbolized Modal Logic ⟦M⟧ It is necessary that … ⟦M⟧ It is possible that … Deontic Logic ⟦M⟧ It is obligatory that … ⟦M⟧ It is permitted that … ⟦M⟧ It is forbidden that … Temporal Logic ⟦M⟧ It will always be the case that … ⟦M⟧ It will be the case that … ⟦M⟧ It has always been the case that … ⟦M⟧ It was the case that … Doxastic Logic ⟦M⟧ ⟦M⟧ believes that … Epistemic Logic ⟦M⟧ ⟦M⟧ knows that …",
+   "md_text": "Logic Symbols Expressions Symbolized Modal Logic ⟦M⟧ It is necessary that … ⟦M⟧ It is possible that … Deontic Logic ⟦M⟧ It is obligatory that … ⟦M⟧ It is permitted that … ⟦M⟧ It is forbidden that … Temporal Logic ⟦M⟧ It will always be the case that … ⟦M⟧ It will be the case that … ⟦M⟧ It has always been the case that … ⟦M⟧ It was the case that … Doxastic Logic ⟦M⟧ ⟦M⟧ believes that … Epistemic Logic ⟦M⟧ ⟦M⟧ knows that …"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Modal Logic",
+ "authors": [
+  "Garson, James"
+ ]
+}

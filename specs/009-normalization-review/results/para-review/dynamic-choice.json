@@ -1,0 +1,301 @@
+{
+ "slug": "dynamic-choice",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 87,
+ "n_md": 100,
+ "n_pairs": 67,
+ "n_flags": 3,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9992962702322308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990281827016521,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9588014981273408,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996482588814632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939086294416244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9672150005751754,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972948602344455,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994236311239193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994805194805195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995410738871042,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979591836734694,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992181391712275,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9571984435797666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "动态选择 choice, dynamic (Chrisoula Andreou)",
+  "zh_h1": "动态选择 choice, dynamic (Chrisoula Andreou)",
+  "yuanwen_h1": "Dynamic Choice",
+  "html_title": "Dynamic Choice",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 41,
+  "h3→h3": 10,
+  "p→∅": 15,
+  "dl→∅": 3,
+  "blockquote→blockquote": 2,
+  "figure→∅": 1,
+  "figure→p": 3,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 10,
+  "merged×1(dl→p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×1(figure→p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 34,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2."
+  },
+  {
+   "kind": "replace",
+   "i": 31,
+   "j": 42,
+   "ratio": 0.13559322033898305,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "where x > y is to be read as x is preferred to y .",
+   "md_text": "Figure 3."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 43,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "where x > y is to be read as x is preferred to y."
+  }
+ ],
+ "spot": [
+  {
+   "i": 62,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The three strategies discussed so far suggest that, to cope with dynamic choice problems, one must either mess with one’s rationality or else somehow change the payoffs associated with the options one will face. Some philosophers—including, for example, Michael Bratman (1999; 2006), David Gauthier (1986; 1994), and Edward McClennen (1990; 1997)—have, however, suggested that the rational agent will not need to resort to such gimmicks as often as one might think—a good thing, since making the nece",
+   "md_text": "The three strategies discussed so far suggest that, to cope with dynamic choice problems, one must either mess with one’s rationality or else somehow change the payoffs associated with the options one will face. Some philosophers—including, for example, Michael Bratman (1999; 2006), David Gauthier (1986; 1994), and Edward McClennen (1990; 1997)—have, however, suggested that the rational agent will not need to resort to such gimmicks as often as one might think—a good thing, since making the nece"
+  },
+  {
+   "i": 24,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2. Two crossing discount curves, one tracking the discounted value of a small reward that will be available at t ⟦S⟧ and the other tracking the discounted value of a large reward that will be available at t ⟦S⟧ .",
+   "md_text": "Figure 2. Two crossing discount curves, one tracking the discounted value of a small reward that will be available at t ⟦S⟧ and the other tracking the discounted value of a large reward that will be available at t ⟦S⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Dynamic Choice",
+ "authors": [
+  "Andreou, Chrisoula"
+ ]
+}

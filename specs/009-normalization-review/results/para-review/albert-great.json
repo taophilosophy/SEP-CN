@@ -1,0 +1,256 @@
+{
+ "slug": "albert-great",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 50,
+ "n_md": 51,
+ "n_pairs": 18,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986194201564658,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995154256178324,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995255416732564,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980359147025814,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977081741787625,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999156355455568,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981369352585002,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976514795678723,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980166600555335,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976693172470523,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993493819128172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9959946595460614,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9699570815450643,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "艾尔伯图斯·麦格努斯（大阿尔伯特）Albert the Great [= Albertus magnus] (Bruno Tremblay)",
+  "zh_h1": "艾尔伯图斯·麦格努斯（大阿尔伯特）Albert the Great [= Albertus magnus] (Bruno Tremblay)",
+  "yuanwen_h1": "Albert the Great",
+  "html_title": "Albert the Great",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 28,
+  "blockquote→∅": 2,
+  "p→p": 5,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(p→p)": 5,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As some of those examples show, the more particular branches of the study of nature depend much more on specialized observations (e.g. comets or the behaviour of elephants) that most of us do not make and must therefore accept by an act of confidence in what the observer says and on hypotheses and theories (e.g. the five elements or the indestructibility of ethereal celestial bodies), which makes them more akin to what we today call the natural sciences than philosophy. Albert is sometimes descr",
+   "md_text": "As some of those examples show, the more particular branches of the study of nature depend much more on specialized observations (e.g. comets or the behaviour of elephants) that most of us do not make and must therefore accept by an act of confidence in what the observer says and on hypotheses and theories (e.g. the five elements or the indestructibility of ethereal celestial bodies), which makes them more akin to what we today call the natural sciences than philosophy. Albert is sometimes descr"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Albert the Great",
+ "authors": [
+  "Tremblay, Bruno"
+ ]
+}

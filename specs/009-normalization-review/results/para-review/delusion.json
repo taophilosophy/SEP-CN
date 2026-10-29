@@ -1,0 +1,403 @@
+{
+ "slug": "delusion",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 113,
+ "n_md": 120,
+ "n_pairs": 58,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9998314227916386,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983602077070238,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985074626865672,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987089085311351,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993416721527321,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978245105148659,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991503823279524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982925441092771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999607072691552,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979313198179561,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984779299847792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998256400844269,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982847341337907,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990917347865577,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998567335243553,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981489391997722,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988028731045491,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992872416250891,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994853319608852,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994511525795828,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992752872968216,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9879518072289156,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.95,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "妄想 delusion (Lisa Bortolotti)",
+  "zh_h1": "妄想 delusion (Lisa Bortolotti)",
+  "yuanwen_h1": "Delusion",
+  "html_title": "Delusion",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 30,
+  "h3→h3": 11,
+  "p→∅": 47,
+  "ol→∅": 1,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 5,
+  "h4→h4": 4,
+  "ol→ol": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+blockquote+p+p+p+blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 5,
+  "merged×1(p→p)": 7,
+  "merged×5(ol+p+p+p+p→ol+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+blockquote→p+blockquote+p+blockquote)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 78,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A recent debate relevant to the rationality of delusions concerns the step from unusual events to delusional beliefs. (This is primarily an issue that emerged among two-factor theorists, so the language used below is acceptable to them, but the problem can be reformulated in terms that are friendly to prediction-error theorists.) Coltheart et al. 2010 argue that the step from unusual data to belief is an instance of abductive inference, as those who end up endorsing a delusional belief need to s",
+   "md_text": "A recent debate relevant to the rationality of delusions concerns the step from unusual events to delusional beliefs. (This is primarily an issue that emerged among two-factor theorists, so the language used below is acceptable to them, but the problem can be reformulated in terms that are friendly to prediction-error theorists.) Coltheart et al. 2010 argue that the step from unusual data to belief is an instance of abductive inference, as those who end up endorsing a delusional belief need to s"
+  },
+  {
+   "i": 88,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Beliefs are integrated with other beliefs. If delusions are not integrated with our beliefs, then they are not beliefs. Beliefs are responsive to evidence. If delusions are not responsive to evidence, then they are not beliefs. Beliefs guide action. If delusions do not guide action, then they are not beliefs.",
+   "md_text": "Beliefs are integrated with other beliefs. If delusions are not integrated with our beliefs, then they are not beliefs. Beliefs are responsive to evidence. If delusions are not responsive to evidence, then they are not beliefs. Beliefs guide action. If delusions do not guide action, then they are not beliefs."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Delusion",
+ "authors": [
+  "Bortolotti, Lisa"
+ ]
+}

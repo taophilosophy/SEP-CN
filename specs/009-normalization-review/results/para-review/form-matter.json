@@ -1,0 +1,319 @@
+{
+ "slug": "form-matter",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 86,
+ "n_md": 88,
+ "n_pairs": 57,
+ "n_flags": 0,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 0.9983050847457627,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989643438378458,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992456625597184,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984951091045899,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964221824686941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965156794425087,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996818326439707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994683678894205,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995289684408856,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979716024340771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993569131832798,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995053586150041,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999395039322444,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987236758136566,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962602842183994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993861264579497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992841803865425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991714995857498,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9787234042553191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "形式与质料 form vs. matter (Thomas Ainsworth)",
+  "zh_h1": "形式与质料 form vs. matter (Thomas Ainsworth)",
+  "yuanwen_h1": "Form vs. Matter",
+  "html_title": "Form vs. Matter",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 26,
+  "p→p": 36,
+  "blockquote→blockquote": 11,
+  "ol→ol": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 13,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 47,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One possible rejoinder to this argument is that it turns on an equivocation in the meaning of “matter”. As we have seen, for Aristotle matter comes in different levels. In the situation envisaged Socrates and Callias would have the same remote or low-level matter (the same elements) but they might still have different proximate matter, since the proximate matter of a human being is his body. Since a substance is a compound of a substantial form and some proximate matter, we are not entitled to c",
+   "md_text": "One possible rejoinder to this argument is that it turns on an equivocation in the meaning of “matter”. As we have seen, for Aristotle matter comes in different levels. In the situation envisaged Socrates and Callias would have the same remote or low-level matter (the same elements) but they might still have different proximate matter, since the proximate matter of a human being is his body. Since a substance is a compound of a substantial form and some proximate matter, we are not entitled to c"
+  },
+  {
+   "i": 50,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A final reaction to the argument would be to reject the third premise, the idea that anything enmattered is a compound of its matter and form at a given time. Certainly the most straightforward way of understanding hylomorphism is that the compound is compounded of the thing’s matter and form at a particular time, and the relation between the compound and the thing is identity. This way of understanding composition is not only problematic because it leads to the problem currently under discussio",
+   "md_text": "A final reaction to the argument would be to reject the third premise, the idea that anything enmattered is a compound of its matter and form at a given time. Certainly the most straightforward way of understanding hylomorphism is that the compound is compounded of the thing’s matter and form at a particular time, and the relation between the compound and the thing is identity. This way of understanding composition is not only problematic because it leads to the problem currently under discussio"
+  },
+  {
+   "i": 45,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "It is possible that Socrates and Callias be composed of numerically the same matter (albeit at different times). Socrates and Callias have the same form. Socrates and Callias are compounds of matter and form. Therefore, it is possible that Socrates and Callias are numerically the same.",
+   "md_text": "It is possible that Socrates and Callias be composed of numerically the same matter (albeit at different times). Socrates and Callias have the same form. Socrates and Callias are compounds of matter and form. Therefore, it is possible that Socrates and Callias are numerically the same."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Form vs. Matter",
+ "authors": [
+  "Ainsworth, Thomas"
+ ]
+}

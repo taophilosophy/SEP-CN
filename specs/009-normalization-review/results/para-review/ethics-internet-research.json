@@ -1,0 +1,504 @@
+{
+ "slug": "ethics-internet-research",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 156,
+ "n_md": 176,
+ "n_pairs": 106,
+ "n_flags": 0,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9992573889796524,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975669099756691,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975903614457832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988350807122649,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992769342010123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 14,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991518235793045,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989637305699481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988479262672811,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991460290350128,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988864142538976,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992862241256245,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985704074338814,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991361934926577,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994557823129252,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994977398292315,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991788471013303,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984917043740573,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964850615114236,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988545246277205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993089149965446,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972401103955841,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985507246376811,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982222222222222,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989462592202318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993766881362975,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973614775725593,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995604395604396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9939093164899616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9981718464351006,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9940828402366864,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9977827050997783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9964497041420118,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9655172413793104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "互联网研究伦理 internet research (Elizabeth A. Buchanan and Michael Zimmer)",
+  "zh_h1": "互联网研究伦理 internet research (Elizabeth A. Buchanan and Michael Zimmer)",
+  "yuanwen_h1": "Internet Research Ethics",
+  "html_title": "Internet Research Ethics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 65,
+  "blockquote→blockquote": 16,
+  "p→∅": 33,
+  "ul→ul": 3,
+  "blockquote→∅": 9,
+  "dl→∅": 2,
+  "h3→h3": 11,
+  "ul→∅": 5,
+  "h4→h4": 2,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×1(blockquote→blockquote)": 7,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+blockquote→p+p+p+p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(ul→ul)": 5
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 88,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As the cornerstone of human subjects protections, informed consent means that participants are voluntarily participating in the research with adequate knowledge of relevant risks and benefits. Providing informed consent typically includes the researcher explaining the purpose of the research, the methods being used, the possible outcomes of the research, as well as associated risks or harms that the participants might face. The process involves providing the recipient clear and understandable ex",
+   "md_text": "As the cornerstone of human subjects protections, informed consent means that participants are voluntarily participating in the research with adequate knowledge of relevant risks and benefits. Providing informed consent typically includes the researcher explaining the purpose of the research, the methods being used, the possible outcomes of the research, as well as associated risks or harms that the participants might face. The process involves providing the recipient clear and understandable ex"
+  },
+  {
+   "i": 6,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Research studying information that is already available on or via the Internet without direct interaction with human subjects (harvesting, mining, profiling, scraping, observation or recording of otherwise-existing data sets, chat room interactions, blogs, social media postings, etc.) Research that uses the Internet as a vehicle for recruiting or interacting, directly or indirectly, with subjects (Self-testing websites, survey tools, Amazon Mechanical Turk, etc.) Research about the Internet itse",
+   "md_text": "Research studying information that is already available on or via the Internet without direct interaction with human subjects (harvesting, mining, profiling, scraping, observation or recording of otherwise-existing data sets, chat room interactions, blogs, social media postings, etc.) Research that uses the Internet as a vehicle for recruiting or interacting, directly or indirectly, with subjects (Self-testing websites, survey tools, Amazon Mechanical Turk, etc.) Research about the Internet itse"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Internet Research Ethics",
+ "authors": [
+  "Buchanan, Elizabeth A.",
+  "Zimmer, Michael"
+ ]
+}

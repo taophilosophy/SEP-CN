@@ -1,0 +1,235 @@
+{
+ "slug": "akan-person",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 55,
+ "n_md": 57,
+ "n_pairs": 29,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9998170173833486,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971126082771896,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986589181940099,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995049504950495,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971830985915493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979244499792445,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990601503759399,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977653631284916,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984962406015038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974747474747475,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978632478632479,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971711456859972,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9782608695652174,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿坎哲学中的人格 of the person (Ajume Wingo)",
+  "zh_h1": "阿坎哲学中的人格 of the person (Ajume Wingo)",
+  "yuanwen_h1": "Akan Philosophy of the Person",
+  "html_title": "Akan Philosophy of the Person",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 18,
+  "p→p": 19,
+  "blockquote→∅": 7,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 2,
+  "merged×1(blockquote→blockquote)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 28,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Criteria pertaining to one’s relationship to those in the community beyond one’s immediate family include being an active and unstinted participant in community projects (such as building bridges, constructing roads, and cleaning public spaces, as well as attending to the death, burial and mourning of a deceased member of the community). Along with activity in community projects is involvement in civic rituals (such as fellowship associations, rotating credit groups, extended family gatherings, ",
+   "md_text": "Criteria pertaining to one’s relationship to those in the community beyond one’s immediate family include being an active and unstinted participant in community projects (such as building bridges, constructing roads, and cleaning public spaces, as well as attending to the death, burial and mourning of a deceased member of the community). Along with activity in community projects is involvement in civic rituals (such as fellowship associations, rotating credit groups, extended family gatherings, "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Akan Philosophy of the Person",
+ "authors": [
+  "Wingo, Ajume"
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "hobbes-moral",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 41,
+ "n_md": 41,
+ "n_pairs": 35,
+ "n_flags": 0,
+ "n_merged": 6,
+ "merged": [
+  {
+   "ratio": 0.9989690721649485,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986153420105234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989304812834224,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994182664339732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9881656804733728,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)",
+  "zh_h1": "霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)",
+  "yuanwen_h1": "Hobbes’s Moral and Political Philosophy",
+  "html_title": "Hobbes’s Moral and Political Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 14,
+  "p→∅": 3,
+  "p→p": 20,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 26,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Hobbes’s description of the way in which persons should be understood to become subjects to a sovereign authority changes from his Elements and De Cive accounts to his Leviathan account. In the former, each person lays down their rights (of self-government and to pursue all things they judge useful or necessary for their survival and commodious living) in favor of one and the same sovereign person (whether a natural person, as a monarch, or an artificial person, as a rule-governed assembly). In ",
+   "md_text": "Hobbes’s description of the way in which persons should be understood to become subjects to a sovereign authority changes from his Elements and De Cive accounts to his Leviathan account. In the former, each person lays down their rights (of self-government and to pursue all things they judge useful or necessary for their survival and commodious living) in favor of one and the same sovereign person (whether a natural person, as a monarch, or an artificial person, as a rule-governed assembly). In "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Hobbes’s Moral and Political Philosophy",
+ "authors": [
+  "Lloyd, Sharon A.",
+  "Sreedhar, Susanne"
+ ]
+}

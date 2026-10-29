@@ -1,0 +1,569 @@
+{
+ "slug": "essential-accidental",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 177,
+ "n_md": 185,
+ "n_pairs": 104,
+ "n_flags": 0,
+ "n_merged": 37,
+ "merged": [
+  {
+   "ratio": 0.9996156507033592,
+   "n_h": 1,
+   "n_m": 9,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994706193753309,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983193277310924,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996634129922585,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991445680068435,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977924944812362,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969176574196389,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943502824858758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948320413436692,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962264150943396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989637305699481,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994262765347103,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9896907216494846,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997174343034756,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998019801980198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998641304347826,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991116375481196,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995920745920746,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979664463650229,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991360691144708,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982668977469671,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992486851990984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991230634317451,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999104744852283,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975369458128078,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986406887177164,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998825831702544,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979674796747967,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994256174612292,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988235294117647,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993488170175819,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989954796584631,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974330766409975,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994761655316919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9610027855153204,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "本质属性与偶然属性 essential vs. accidental properties (Philip Atkins, Fabrice Correia, and Teresa Robertson Ishii)",
+  "zh_h1": "本质属性与偶然属性 essential vs. accidental properties (Philip Atkins, Fabrice Correia, and Teresa Robertson Ishii)",
+  "yuanwen_h1": "Essential vs. Accidental Properties",
+  "html_title": "Essential vs. Accidental Properties",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 8,
+  "p→∅": 57,
+  "blockquote→blockquote": 24,
+  "p→p": 62,
+  "blockquote→∅": 15,
+  "ol→ol": 1,
+  "merged×1(preamble→p+p+p+p+blockquote+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×4(p+blockquote+blockquote+p→p+blockquote+blockquote+p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×6(p+blockquote+p+p+blockquote+blockquote→p+blockquote+p+p+blockquote+blockquote)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×3(p+blockquote+blockquote→p+blockquote+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 64,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Kripke (1972/1980) suggests that our knowledge of some other essentialist claims is based in part on a bit of a priori knowledge and in part on a bit of empirical knowledge. For example, our knowledge that originating from ⟦M⟧ and ⟦M⟧ is essential to Socrates is based in part on our a priori knowledge that every organism has its origin essentially and in part on our empirical knowledge that Socrates (is an organism that) originated from ⟦M⟧ and ⟦M⟧ . (Similarly our knowledge that Socrates is ess",
+   "md_text": "Kripke (1972/1980) suggests that our knowledge of some other essentialist claims is based in part on a bit of a priori knowledge and in part on a bit of empirical knowledge. For example, our knowledge that originating from ⟦M⟧ and ⟦M⟧ is essential to Socrates is based in part on our a priori knowledge that every organism has its origin essentially and in part on our empirical knowledge that Socrates (is an organism that) originated from ⟦M⟧ and ⟦M⟧ . (Similarly our knowledge that Socrates is ess"
+  },
+  {
+   "i": 6,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "⟦M⟧ is a modally essential property of an object ⟦M⟧ (or ⟦M⟧ is modally essential to ⟦M⟧ , or ⟦M⟧ has ⟦M⟧ modally essentially) if and only if it is necessary that ⟦M⟧ has ⟦M⟧ .",
+   "md_text": "⟦M⟧ is a modally essential property of an object ⟦M⟧ (or ⟦M⟧ is modally essential to ⟦M⟧ , or ⟦M⟧ has ⟦M⟧ modally essentially) if and only if it is necessary that ⟦M⟧ has ⟦M⟧ ."
+  },
+  {
+   "i": 69,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Goliath is essentially human-shaped. Lump ⟦M⟧ is not essentially human-shaped. So, Goliath is not identical to Lump ⟦M⟧ .",
+   "md_text": "Goliath is essentially human-shaped. Lump ⟦M⟧ is not essentially human-shaped. So, Goliath is not identical to Lump ⟦M⟧ ."
+  }
+ ],
+ "supplements": [
+  "origin-essentialism.html"
+ ],
+ "meta_title": "Essential vs. Accidental Properties",
+ "authors": [
+  "Atkins, Philip",
+  "Correia, Fabrice",
+  "Robertson Ishii, Teresa"
+ ]
+}

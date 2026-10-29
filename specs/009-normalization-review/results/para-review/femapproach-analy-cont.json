@@ -1,0 +1,143 @@
+{
+ "slug": "femapproach-analy-cont",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 71,
+ "n_pairs": 61,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9993285586392122,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989417989417989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997272975184074,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992570579494799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999702646446625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995493465525012,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9851851851851852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "分析女性主义与欧陆女性主义之间的交汇 intersections between analytic and continental philosophy (Georgia Warnke)",
+  "zh_h1": "分析女性主义与欧陆女性主义之间的交汇 intersections between analytic and continental philosophy (Georgia Warnke)",
+  "yuanwen_h1": "Intersections Between Analytic and Continental Feminism",
+  "html_title": "Intersections Between Analytic and Continental Feminism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 40,
+  "h3→h3": 9,
+  "p→∅": 9,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As Butler points out, Luce Irigaray (1985) complicates matters further. Here Irigaray’s reference is Beauvoir’s claim that a woman “is defined and differentiated with reference to man and not he with reference to her; she is the incidental, the inessential as opposed to the essential. He is the Subject, he is the Absolute – she is the Other” (1953, 13). Beauvoir insists that there is no time in history in which women were not the Other: men are always the One and women are always the Other. More",
+   "md_text": "As Butler points out, Luce Irigaray (1985) complicates matters further. Here Irigaray’s reference is Beauvoir’s claim that a woman “is defined and differentiated with reference to man and not he with reference to her; she is the incidental, the inessential as opposed to the essential. He is the Subject, he is the Absolute – she is the Other” (1953, 13). Beauvoir insists that there is no time in history in which women were not the Other: men are always the One and women are always the Other. More"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Intersections Between Analytic and Continental Feminism",
+ "authors": [
+  "Warnke, Georgia"
+ ]
+}

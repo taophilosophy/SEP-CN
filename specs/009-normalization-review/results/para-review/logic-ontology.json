@@ -1,0 +1,244 @@
+{
+ "slug": "logic-ontology",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 103,
+ "n_md": 117,
+ "n_pairs": 86,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9983905579399142,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999232068806635,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992395437262357,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984697781178271,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994941831057157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99958071278826,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999395039322444,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994301994301994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995505617977528,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996754300551769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999534233814625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9944629014396457,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "逻辑与本体论 logic and ontology (Thomas Hofweber)",
+  "zh_h1": "逻辑与本体论 logic and ontology (Thomas Hofweber)",
+  "yuanwen_h1": "Logic and Ontology",
+  "html_title": "Logic and Ontology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 65,
+  "h3→h3": 11,
+  "p→∅": 13,
+  "dl→∅": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(dl→p+p+p+p+p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 72,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Carnap’s rejection of ontology, and metaphysics more generally, has been widely criticized from a number of different angles. One common criticism is that it relies on a too simplistic conception of natural language that ties it too closely to science or to evidence and verification. In particular, Carnap’s more general rejection of metaphysics used a verificationist conception of meaning, which is widely seen as too simplistic. Carnap’s rejection of ontology has been criticized most prominently",
+   "md_text": "Carnap’s rejection of ontology, and metaphysics more generally, has been widely criticized from a number of different angles. One common criticism is that it relies on a too simplistic conception of natural language that ties it too closely to science or to evidence and verification. In particular, Carnap’s more general rejection of metaphysics used a verificationist conception of meaning, which is widely seen as too simplistic. Carnap’s rejection of ontology has been criticized most prominently"
+  },
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This view of the relationship between (L1) and (L2), however, assumes that there is one and only one set of logical constants for each system of representations. A contrary view holds that which expressions are treated as logical constants is a matter of choice, with different choices serving different purposes. If we fix, say, ‘believes’ and ‘knows’ then we can see that ‘ ⟦M⟧ believes that ⟦M⟧ ’ is implied by ‘ ⟦M⟧ knows that ⟦M⟧ ’ (given widely held views about knowledge and belief). This does",
+   "md_text": "This view of the relationship between (L1) and (L2), however, assumes that there is one and only one set of logical constants for each system of representations. A contrary view holds that which expressions are treated as logical constants is a matter of choice, with different choices serving different purposes. If we fix, say, ‘believes’ and ‘knows’ then we can see that ‘ ⟦M⟧ believes that ⟦M⟧ ’ is implied by ‘ ⟦M⟧ knows that ⟦M⟧ ’ (given widely held views about knowledge and belief). This does"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Logic and Ontology",
+ "authors": [
+  "Hofweber, Thomas"
+ ]
+}

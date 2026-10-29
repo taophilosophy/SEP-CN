@@ -1,0 +1,820 @@
+{
+ "slug": "category-mistakes",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 176,
+ "n_md": 264,
+ "n_pairs": 88,
+ "n_flags": 1,
+ "n_merged": 52,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995320542817033,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964788732394366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960546282245827,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969520642837351,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9901960784313726,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964080459770115,
+   "n_h": 3,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.984641638225256,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9916666666666667,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988459319099827,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976303317535545,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983157894736842,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974093264248705,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979870275106241,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982547993019197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982474588152822,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992831541218638,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961612284069098,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981447124304267,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962962962962963,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967213114754099,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968553459119497,
+   "n_h": 4,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9931506849315068,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9848484848484849,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9973586899101955,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997093023255814,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970282317979198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997982761782505,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981801637852593,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9889361702127659,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9993834771886559,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990224828934506,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979423868312757,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947735191637631,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971056439942113,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "范畴错误 category mistakes (Ofra Magidor)",
+  "zh_h1": "范畴错误 category mistakes (Ofra Magidor)",
+  "yuanwen_h1": "Category Mistakes",
+  "html_title": "Category Mistakes",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 53,
+  "p→p": 70,
+  "h3→h3": 7,
+  "dl→∅": 33,
+  "h4→h4": 3,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×2(p+p→p+p)": 6,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+dl→p+p+p+p+p+ul+p+p+p+ul)": 1,
+  "merged×2(p+dl→p+p+ul+p+p+p+ul+p+p)": 1,
+  "merged×2(dl+p→p+ul+p+p+p+ul+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×3(p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 11,
+  "merged×3(p+p+dl→p+p+p+p+p+p)": 2,
+  "merged×2(dl+p→p+p+p)": 2,
+  "merged×2(dl+p→p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 4,
+  "merged×4(p+p+dl+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+ul+p+p+p+p)": 1,
+  "merged×1(dl→p+ul)": 1,
+  "merged×4(p+p+dl+dl→p+p+p+p+p+p)": 1,
+  "merged×2(p+dl→p+p+ul+p+ul+p+ul+p+ul)": 1,
+  "merged×3(p+p+dl→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 175,
+   "j": 263,
+   "ratio": 0.946236559139785,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "categories | compositionality | meaning, theories of | pragmatics | presupposition | Ryle, Gilbert",
+   "md_text": "categories compositionality meaning, theories of pragmatics presupposition Ryle, Gilbert"
+  }
+ ],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Even without offering an explicit definition, there is a phenomenological way of characterizing category mistakes. As noted at the outset, there seems to be a distinctive kind of infelicity which we can recognize by example: the sort of infelicity present in paradigmatic category mistakes such as ‘The number two is blue’. We can thus characterize category mistakes as sentences that are infelicitous in a similar manner to these paradigmatic examples. While this kind of phenomenological characteri",
+   "md_text": "Even without offering an explicit definition, there is a phenomenological way of characterizing category mistakes. As noted at the outset, there seems to be a distinctive kind of infelicity which we can recognize by example: the sort of infelicity present in paradigmatic category mistakes such as ‘The number two is blue’. We can thus characterize category mistakes as sentences that are infelicitous in a similar manner to these paradigmatic examples. While this kind of phenomenological characteri"
+  },
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To see why category distinctions were so important to Ryle, we need to look at another major influence: Bertrand Russell. Russell argued that a range of paradoxes (including his famous set-theoretic paradox and the Liar paradox) can be solved by restrictions of type. For example, the set-theoretic paradox requires considering sets that are (/ are not) members of themselves. However, if ‘is a member of ⟦M⟧ ’ is a predicate that can only meaningfully be predicated of objects of a certain type whic",
+   "md_text": "To see why category distinctions were so important to Ryle, we need to look at another major influence: Bertrand Russell. Russell argued that a range of paradoxes (including his famous set-theoretic paradox and the Liar paradox) can be solved by restrictions of type. For example, the set-theoretic paradox requires considering sets that are (/ are not) members of themselves. However, if ‘is a member of ⟦M⟧ ’ is a predicate that can only meaningfully be predicated of objects of a certain type whic"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Category Mistakes",
+ "authors": [
+  "Magidor, Ofra"
+ ]
+}

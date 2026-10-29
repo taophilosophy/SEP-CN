@@ -1,0 +1,357 @@
+{
+ "slug": "marcuse",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 137,
+ "n_md": 138,
+ "n_pairs": 99,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998452810727179,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981561155500922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995782370307887,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991755976916735,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9983539094650206,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.99945295404814,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988956377691883,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992395437262357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983136593591906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993714644877436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995359628770302,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985380116959064,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995171414775471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993544222078761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991121633619414,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988016776512882,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988845510317903,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992625368731564,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991166077738516,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986648865153538,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988876529477196,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "赫伯特·马尔库塞 Marcuse, Herbert (Arnold Farr)",
+  "zh_h1": "赫伯特·马尔库塞 Marcuse, Herbert (Arnold Farr)",
+  "yuanwen_h1": "Herbert Marcuse",
+  "html_title": "Herbert Marcuse",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 30,
+  "p→p": 62,
+  "blockquote→blockquote": 15,
+  "h3→h3": 8,
+  "blockquote→∅": 7,
+  "ol→ol": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 5,
+  "merged×2(p+p→p+p)": 6,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Just as art embodied the potential for liberation and the formation of radical subjectivity, it was also capable of being taken up by systems of domination and used to further or maintain domination. This is the theme of Marcuse’s 1937 essay “The Affirmative Character of Culture”. Culture, which is the domain of art, develops in tension with the overall structure of a given society. The values and ideals produced by culture call for the transcending of oppressive social reality. Culture separate",
+   "md_text": "Just as art embodied the potential for liberation and the formation of radical subjectivity, it was also capable of being taken up by systems of domination and used to further or maintain domination. This is the theme of Marcuse’s 1937 essay “The Affirmative Character of Culture”. Culture, which is the domain of art, develops in tension with the overall structure of a given society. The values and ideals produced by culture call for the transcending of oppressive social reality. Culture separate"
+  },
+  {
+   "i": 102,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The system must make the citizens think that they are freer than they really are. The system must provide the citizens with enough goods to keep them pacified. The citizens must identify with their oppressors. Political discourse must be eliminated.",
+   "md_text": "The system must make the citizens think that they are freer than they really are. The system must provide the citizens with enough goods to keep them pacified. The citizens must identify with their oppressors. Political discourse must be eliminated."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Herbert Marcuse",
+ "authors": [
+  "Farr, Arnold"
+ ]
+}

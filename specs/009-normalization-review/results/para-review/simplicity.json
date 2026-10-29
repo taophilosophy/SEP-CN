@@ -1,0 +1,534 @@
+{
+ "slug": "simplicity",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 128,
+ "n_md": 147,
+ "n_pairs": 67,
+ "n_flags": 0,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9981470043236566,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9972196478220574,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964485032978183,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9983388704318937,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959659345584939,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984894259818731,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967266775777414,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975544142822206,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976507439310884,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9950678175092479,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976905311778291,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975124378109452,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976689976689976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976110845676063,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995363931386184,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985324332257117,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926605504587156,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950920245398773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979370809695719,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994848016486347,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980220401243289,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983566146261298,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987980769230769,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964912280701754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929078014184397,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941980936593452,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954914337240758,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9950083194675541,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996141124586549,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9868852459016394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "简单性 simplicity (Alan Baker)",
+  "zh_h1": "简单性 simplicity (Alan Baker)",
+  "yuanwen_h1": "Simplicity",
+  "html_title": "Simplicity",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 38,
+  "blockquote→∅": 14,
+  "p→p": 45,
+  "blockquote→blockquote": 3,
+  "dl→∅": 9,
+  "h3→h3": 7,
+  "ul→ul": 1,
+  "merged×2(p+blockquote→p+blockquote)": 6,
+  "merged×1(p→p)": 8,
+  "merged×2(blockquote+p→blockquote+p)": 3,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×4(dl+p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×1(dl→p+p+p+p)": 2,
+  "merged×1(dl→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×2(p+p→p+p)": 4,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 119,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The problem of induction is closely linked to the issue of simplicity. One obvious link is between the curve-fitting problem and the inductive problem of predicting future outcomes from observed data. Less obviously, Schulte (1999) argues for a connection between induction and ontological parsimony. Schulte frames the problem of induction in information-theoretic terms: given a data-stream of observations of non-unicorns (for example), what general conclusion should be drawn? He argues for two c",
+   "md_text": "The problem of induction is closely linked to the issue of simplicity. One obvious link is between the curve-fitting problem and the inductive problem of predicting future outcomes from observed data. Less obviously, Schulte (1999) argues for a connection between induction and ontological parsimony. Schulte frames the problem of induction in information-theoretic terms: given a data-stream of observations of non-unicorns (for example), what general conclusion should be drawn? He argues for two c"
+  },
+  {
+   "i": 19,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "With respect to question (ii), there is an important distinction to be made between two sorts of simplicity principle. Occam’s Razor may be formulated as an epistemic principle: if theory ⟦M⟧ is simpler than theory ⟦M⟧ , then it is rational (other things being equal) to believe ⟦M⟧ rather than ⟦M⟧ . Or it may be formulated as a methodological principle: if ⟦M⟧ is simpler than ⟦M⟧ then it is rational to adopt ⟦M⟧ as one’s working theory for scientific purposes. These two conceptions of Occam’s Ra",
+   "md_text": "With respect to question (ii), there is an important distinction to be made between two sorts of simplicity principle. Occam’s Razor may be formulated as an epistemic principle: if theory ⟦M⟧ is simpler than theory ⟦M⟧ , then it is rational (other things being equal) to believe ⟦M⟧ rather than ⟦M⟧ . Or it may be formulated as a methodological principle: if ⟦M⟧ is simpler than ⟦M⟧ then it is rational to adopt ⟦M⟧ as one’s working theory for scientific purposes. These two conceptions of Occam’s Ra"
+  },
+  {
+   "i": 125,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "David Dowe’s Occam’s Razor links (Computer Science, Monash University)",
+   "md_text": "David Dowe’s Occam’s Razor links (Computer Science, Monash University)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Simplicity",
+ "authors": [
+  "Baker, Alan"
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "slug": "cambridge-platonists",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 36,
+ "n_md": 37,
+ "n_pairs": 18,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.999748427672956,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992215879605605,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996551724137931,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994073722887282,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992630803242447,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9953051643192489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9655172413793104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)",
+  "zh_h1": "剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)",
+  "yuanwen_h1": "The Cambridge Platonists",
+  "html_title": "The Cambridge Platonists",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 9,
+  "p→∅": 15,
+  "h3→h3": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The oldest member of the group, Benjamin Whichcote, is usually considered to be the founding father of Cambridge Platonism, having tutored seveal of them at Emmanuel College. During the Civil War period, Whichcote was appointed Provost of King’s College, Cambridge, and he served as Vice Chancellor of the University in 1650. However, he was removed from his post at King’s College at the Restoration in 1660, and was obliged to seek employment elsewhere, as a clergyman in London. The interruption t",
+   "md_text": "The oldest member of the group, Benjamin Whichcote, is usually considered to be the founding father of Cambridge Platonism, having tutored seveal of them at Emmanuel College. During the Civil War period, Whichcote was appointed Provost of King’s College, Cambridge, and he served as Vice Chancellor of the University in 1650. However, he was removed from his post at King’s College at the Restoration in 1660, and was obliged to seek employment elsewhere, as a clergyman in London. The interruption t"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Cambridge Platonists",
+ "authors": [
+  "Hutton, Sarah"
+ ]
+}

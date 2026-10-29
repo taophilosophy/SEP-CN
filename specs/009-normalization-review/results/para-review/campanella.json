@@ -1,0 +1,258 @@
+{
+ "slug": "campanella",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 55,
+ "n_md": 55,
+ "n_pairs": 22,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9979716024340771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989921386817174,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991399990947359,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993224579142127,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99909338168631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999462654486835,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999738425320429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999031007751938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989903360738497,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989512323020451,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991494187694925,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989255976363148,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.995334370139969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.965034965034965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)",
+  "zh_h1": "托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)",
+  "yuanwen_h1": "Tommaso Campanella",
+  "html_title": "Tommaso Campanella",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 30,
+  "p→p": 10,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 39,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The second chapter, one of the most famous and widely discussed in the treatise, ushers us into the heart of the matter. It contains a dense series of arguments against religion in general and Christianity in particular. These objections are presented in such a crude light and in a succession so beleaguered by questions that they provoked perplexity and anxiety, in both Catholic and Protestant camps, even before the book was published. After the objections have been listed, the replies to them a",
+   "md_text": "The second chapter, one of the most famous and widely discussed in the treatise, ushers us into the heart of the matter. It contains a dense series of arguments against religion in general and Christianity in particular. These objections are presented in such a crude light and in a succession so beleaguered by questions that they provoked perplexity and anxiety, in both Catholic and Protestant camps, even before the book was published. After the objections have been listed, the replies to them a"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Tommaso Campanella",
+ "authors": [
+  "Ernst, Germana",
+  "De Lucca, Jean-Paul"
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "slug": "schmitt",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 56,
+ "n_md": 56,
+ "n_pairs": 31,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9984202211690363,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995348837209302,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999569151227919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995174521473379,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994334277620397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999669348616775,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984889694771835,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991449337323642,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999388379204893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996297667530544,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993084370677732,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "卡尔·施米特 Schmitt, Carl (Lars Vinx)",
+  "zh_h1": "卡尔·施米特 Schmitt, Carl (Lars Vinx)",
+  "yuanwen_h1": "Carl Schmitt",
+  "html_title": "Carl Schmitt",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 24,
+  "p→p": 20,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Dictatorial power in its original, Roman form is a formally delegated and time-limited power to defend an already existing republican constitution through the use of extra-legal force (D xlii–xliv, 1–19). A Roman dictator, then, was clearly not a sovereign in Schmitt’s sense of the term. In the course of modern constitutional history, however, the institution of dictatorship, Schmitt claims, fused with sovereignty, and this fusion related sovereignty to democracy. The first step towards this fus",
+   "md_text": "Dictatorial power in its original, Roman form is a formally delegated and time-limited power to defend an already existing republican constitution through the use of extra-legal force (D xlii–xliv, 1–19). A Roman dictator, then, was clearly not a sovereign in Schmitt’s sense of the term. In the course of modern constitutional history, however, the institution of dictatorship, Schmitt claims, fused with sovereignty, and this fusion related sovereignty to democracy. The first step towards this fus"
+  },
+  {
+   "i": 53,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Web-presence of the Carl Schmitt Gesellschaft: Carl Schmitt Gesellschaft e.V. - Forschung und Dokumente",
+   "md_text": "Web-presence of the Carl Schmitt Gesellschaft: Carl Schmitt Gesellschaft e.V. - Forschung und Dokumente"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Carl Schmitt",
+ "authors": [
+  "Vinx, Lars"
+ ]
+}

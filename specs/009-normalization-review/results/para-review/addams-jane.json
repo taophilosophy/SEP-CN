@@ -1,0 +1,595 @@
+{
+ "slug": "addams-jane",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 65,
+ "n_md": 106,
+ "n_pairs": 44,
+ "n_flags": 38,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9996402877697842,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994428969359331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999731255038968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988566201692202,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977653631284916,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995641435420601,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996314949023462,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996089166992569,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995262908574135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996527054247413,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9743589743589743,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "简·亚当斯 Addams, Jane (Maurice Hamington)",
+  "zh_h1": "简·亚当斯 Addams, Jane (Maurice Hamington)",
+  "yuanwen_h1": "Jane Addams",
+  "html_title": "Jane Addams",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 32,
+  "p→∅": 19,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 62,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[DSE]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 63,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Addams, Jane. Democracy and Social Ethics, 1902; Urbana, IL: University of Illinois Press, 2002."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 64,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[NIP]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 65,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. Newer Ideals of Peace, 1906; Urbana, IL: University of Illinois Press, 2007."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 66,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[SYC]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 67,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. The Spirit of Youth and the City Streets, 1909; Urbana, IL: University of Illinois Press, 1972."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 68,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[TYH]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 69,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. Twenty Years at Hull House, 1910; Urbana, IL: University of Illinois Press, 1990."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 70,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[NCA]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 71,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. A New Conscience and an Ancient Evil, 1912; Urbana, IL: University of Illinois Press, 2002."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 72,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[LRW]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 73,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. The Long Road of Woman’s Memory, 1916; Urbana, IL: University of Illinois Press, 2002."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 74,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[PBT]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 75,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. Peace and Bread in Time of War, 1922; Urbana, IL: University of Illinois Press, 2002."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 76,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[STY]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 77,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. Second Twenty Years at Hull House, New York: Macmillan, 1930."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 78,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[EBP]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 79,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. The Excellent Becomes the Permanent, New York: Macmillan, 1932."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 80,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[MFJ]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 81,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. My Friend, Julia Lathrop, 1935; Urbana, IL: University of Illinois Press, 2004."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 82,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[WH]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 83,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Addams, Jane, Emily G. Balch and Alice Hamilton. Women at The Hague: The International Congress Of Women And Its Results, 1915; Urbana, IL: University of Illinois Press, 2003."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 84,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[HHM]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 85,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Residents of Hull-House. Hull-House Maps and Papers, 1895; Urbana, IL: University of Illinois Press, 2007."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 86,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Selected Articles"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 87,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[ABI]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 88,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Addams, Jane. “A Belated Industry,” 1896, American Journal of Sociology, 1 (5) (March)."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 89,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[FSS]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 90,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. “A Function of the Social Settlement,” 1899; reprinted in Christopher Lasch (ed.), The Social Thought of Jane Addams, Indianapolis: The Bobbs-Merrill Company, Inc., 1965."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 91,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[AML]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 92,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. “A Modern Lear,” 1912; reprinted in Jean Bethke Elshtain (ed.), Jane Addams and the Dream of American Democracy, New York: Basic Books, 2002."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 93,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[OVS]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 94,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. “The Objective Value of the Social Settlement,” 1893; reprinted in Jean Bethke Elshtain (ed.), Jane Addams and the Dream of American Democracy, New York: Basic Books, 2002."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[SNS]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 96,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "–––. “The Subjective Necessity for Social Settlements,” 1893; reprinted in Jean Bethke Elshtain (ed.), Jane Addams and the Dream of American Democracy, New York: Basic Books, 2002."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 97,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Collections"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Selected Secondary Literature"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 99,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Biographies"
+  }
+ ],
+ "spot": [
+  {
+   "i": 41,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although Addams dismissed the “gawkers” who came to see the Devil Baby as a sensationalist-seeking mob, she wanted to understand the older women who had perpetuated the myth: “Whenever I heard the high eager voices of old women, I was irresistibly interested and left anything I might be doing in order to listen to them” (LRW 9). She found women who were solemn and highly animated about the Devil Baby. They used the appearance of the Devil Baby and the excitement it created as an opportunity to d",
+   "md_text": "Although Addams dismissed the “gawkers” who came to see the Devil Baby as a sensationalist-seeking mob, she wanted to understand the older women who had perpetuated the myth: “Whenever I heard the high eager voices of old women, I was irresistibly interested and left anything I might be doing in order to listen to them” (LRW 9). She found women who were solemn and highly animated about the Devil Baby. They used the appearance of the Devil Baby and the excitement it created as an opportunity to d"
+  },
+  {
+   "i": 62,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Jane Addams Hull-House Museum Jane Addams Nobel Peace Prize Jane Addams Papers Project The Society for the Advancement of American Philosophy Swarthmore College Peace Collection Urban Experience Hull-House Photogram Collection 1900-1950, University of Illinois Chicago Hull-House Oral History collection University of Illinois Chicago Women’s International League for Peace and Freedom",
+   "md_text": "Jane Addams Hull-House Museum Jane Addams Nobel Peace Prize Jane Addams Papers Project The Society for the Advancement of American Philosophy Swarthmore College Peace Collection Urban Experience Hull-House Photogram Collection 1900-1950, University of Illinois Chicago Hull-House Oral History collection University of Illinois Chicago Women’s International League for Peace and Freedom"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Jane Addams",
+ "authors": [
+  "Hamington, Maurice"
+ ]
+}

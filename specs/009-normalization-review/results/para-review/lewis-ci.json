@@ -1,0 +1,285 @@
+{
+ "slug": "lewis-ci",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 117,
+ "n_md": 117,
+ "n_pairs": 91,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9962335216572504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996232102486813,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996135016748261,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989177489177489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999796541200407,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998057875315596,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996833438885371,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996888934978742,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989106753812637,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996349032493611,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995477159656264,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996618194115657,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997611655123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999564649542882,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990645463049579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997413347128815,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997711146715496,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9938650306748467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "克拉伦斯·欧文·刘易斯 Lewis, Clarence Irving (Bruce Hunter)",
+  "zh_h1": "克拉伦斯·欧文·刘易斯 Lewis, Clarence Irving (Bruce Hunter)",
+  "yuanwen_h1": "Clarence Irving Lewis",
+  "html_title": "Clarence Irving Lewis",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 23,
+  "p→p": 70,
+  "p→mathblock": 7,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 17,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The probability of our perceptual belief and expectations of experience isn’t simply a matter of the natural or objective frequency with which such beliefs are true or expectations fulfilled, or of their propensity for such, in the face of the sensory data and memories that stimulate them. Lewis rejects frequency and propensity understandings of probability (advocated by Peirce and others) for a version of the logical theory of probability. Probability is a logical relation between a conclusion ",
+   "md_text": "The probability of our perceptual belief and expectations of experience isn’t simply a matter of the natural or objective frequency with which such beliefs are true or expectations fulfilled, or of their propensity for such, in the face of the sensory data and memories that stimulate them. Lewis rejects frequency and propensity understandings of probability (advocated by Peirce and others) for a version of the logical theory of probability. Probability is a logical relation between a conclusion "
+  },
+  {
+   "i": 39,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To explicate this notion he defined strict implication, according to which the if-then conditional ⟦M⟧ expressing the strict implication of ⟦M⟧ by ⟦M⟧ is equivalent to ⟦M⟧ , and is true just in case it is not possible that ⟦M⟧ is true and ⟦M⟧ is false. Strict implication is an intensional notion, and the logic of strict implication is a form of modal logic. The system of strict implication developed in SSL (Lewis 1918) was distinguished from earlier modal logics by its axiomatic presentation in ",
+   "md_text": "To explicate this notion he defined strict implication, according to which the if-then conditional ⟦M⟧ expressing the strict implication of ⟦M⟧ by ⟦M⟧ is equivalent to ⟦M⟧ , and is true just in case it is not possible that ⟦M⟧ is true and ⟦M⟧ is false. Strict implication is an intensional notion, and the logic of strict implication is a form of modal logic. The system of strict implication developed in SSL (Lewis 1918) was distinguished from earlier modal logics by its axiomatic presentation in "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Clarence Irving Lewis",
+ "authors": [
+  "Hunter, Bruce"
+ ]
+}

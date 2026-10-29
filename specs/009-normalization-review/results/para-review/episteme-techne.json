@@ -1,0 +1,284 @@
+{
+ "slug": "episteme-techne",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 70,
+ "n_md": 71,
+ "n_pairs": 15,
+ "n_flags": 1,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9996884735202493,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962100100323263,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964685702754515,
+   "n_h": 12,
+   "n_m": 12,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976584452076178,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962535362030737,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976558190843905,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972717059861981,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971106904453522,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993983152827918,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979296066252588,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985324332257117,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "科学与技术 episteme and techne [= scientific knowledge and expertise] (Richard Parry)",
+  "zh_h1": "科学与技术 episteme and techne [= scientific knowledge and expertise] (Richard Parry)",
+  "yuanwen_h1": "*Episteme* and *Techne*",
+  "html_title": "Episteme and Techne",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 53,
+  "p→p": 5,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×12(p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×10(p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 69,
+   "j": 70,
+   "ratio": 0.9437229437229437,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Alexander of Aphrodisias | Aristotle | Chrysippus | Epicureanism | Epicurus | epistemology: virtue | knowledge: analysis of | Plato | Plato: middle period metaphysics and epistemology | Plotinus | Socrates | Stoicism | Xenophon | Zeno of Citium",
+   "md_text": "Alexander of Aphrodisias Aristotle Chrysippus Epicureanism Epicurus epistemology: virtue knowledge: analysis of Plato Plato: middle period metaphysics and epistemology Plotinus Socrates Stoicism Xenophon Zeno of Citium"
+  }
+ ],
+ "spot": [
+  {
+   "i": 39,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "With this sketch of practical reasoning we can come to closer grips with what sorts of things could not be otherwise. Let us begin with health and the claim that the physician has an account of health. It is health that is the cause of the steps in the practical reasoning because it explains what is to be done. In what way does health admit of being otherwise? One possibility is that what constitutes health is not invariable; thus the account of health would not be invariable. While it seems unl",
+   "md_text": "With this sketch of practical reasoning we can come to closer grips with what sorts of things could not be otherwise. Let us begin with health and the claim that the physician has an account of health. It is health that is the cause of the steps in the practical reasoning because it explains what is to be done. In what way does health admit of being otherwise? One possibility is that what constitutes health is not invariable; thus the account of health would not be invariable. While it seems unl"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Episteme and Techne",
+ "authors": [
+  "Parry, Richard"
+ ]
+}

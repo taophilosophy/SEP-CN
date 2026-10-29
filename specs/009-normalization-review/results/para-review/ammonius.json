@@ -1,0 +1,289 @@
+{
+ "slug": "ammonius",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 65,
+ "n_md": 65,
+ "n_pairs": 21,
+ "n_flags": 1,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9974538510502864,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988712505103389,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951969260326609,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966468919267475,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9949622166246851,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9931640625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9924937447873228,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982825814122465,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999390243902439,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990301785612413,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985661940417396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991432855001071,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989956478071644,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "赫尔米亚的阿莫尼俄斯 Ammonius (David Blank)",
+  "zh_h1": "赫尔米亚的阿莫尼俄斯 Ammonius (David Blank)",
+  "yuanwen_h1": "Ammonius",
+  "html_title": "Ammonius",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "h3→h3": 5,
+  "p→p": 7,
+  "p→∅": 37,
+  "ul→∅": 5,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×11(p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×4(ul+p+p+ul→ul+p+p+ul)": 1,
+  "merged×1(ul→ul)": 2,
+  "merged×2(ul+p→ul+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 64,
+   "j": 64,
+   "ratio": 0.9424460431654677,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Alexander of Aphrodisias | Aristotle | Aristotle, commentators on | Boethius, Anicius Manlius Severinus | Damascius | Dialectical School | Diodorus Cronus | freedom: ancient theories of | Iamblichus | Neoplatonism | Olympiodorus | Philoponus | Plato | Porphyry | Proclus | Simplicius | Syrianus",
+   "md_text": "Alexander of Aphrodisias Aristotle Aristotle, commentators on Boethius, Anicius Manlius Severinus Damascius Dialectical School Diodorus Cronus freedom: ancient theories of Iamblichus Neoplatonism Olympiodorus Philoponus Plato Porphyry Proclus Simplicius Syrianus"
+  }
+ ],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Damascius, whose Life of Isidore is the source of most details about Ammonius’ life, greatly admired Aedesia for her piety and charity, and while still a young student of rhetoric he gave her eulogy at Horapollo’s school. Although the municipal stipend which had been paid to Hermeias (presumably as a teacher) continued to be given her after Hermeias’ death, from the time Ammonius and his younger brother Heliodorus were small until their maturity, Damascius says that Aedesia’s charitable giving l",
+   "md_text": "Damascius, whose Life of Isidore is the source of most details about Ammonius’ life, greatly admired Aedesia for her piety and charity, and while still a young student of rhetoric he gave her eulogy at Horapollo’s school. Although the municipal stipend which had been paid to Hermeias (presumably as a teacher) continued to be given her after Hermeias’ death, from the time Ammonius and his younger brother Heliodorus were small until their maturity, Damascius says that Aedesia’s charitable giving l"
+  },
+  {
+   "i": 62,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Ancient Commentators on Aristotle Project Website at King’s College, London.",
+   "md_text": "Ancient Commentators on Aristotle Project Website at King’s College, London."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ammonius",
+ "authors": [
+  "Blank, David"
+ ]
+}

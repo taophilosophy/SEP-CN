@@ -1,0 +1,217 @@
+{
+ "slug": "intentionality-ancient",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 50,
+ "n_md": 51,
+ "n_pairs": 18,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9991273996509599,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997254632807138,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995739241585002,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982602932648497,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997397866250325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937797009620214,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996310416922888,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960491659350307,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978588156574105,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "古代哲学的意向性 in ancient philosophy (Victor Caston)",
+  "zh_h1": "古代哲学的意向性 in ancient philosophy (Victor Caston)",
+  "yuanwen_h1": "Intentionality in Ancient Philosophy",
+  "html_title": "Intentionality in Ancient Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 30,
+  "p→p": 7,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 31,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aristotle seems confident that his own theory has the resources to deal with both sets of counterexamples. He believes there are changes in our bodies that represent or model the objects in question (without being instances of the exact same type), and by undergoing these changes we are able to have thoughts with the relevant contents, whether or not the corresponding objects exist in the world at large. He describes such changes as phantasmata, a term often translated as ‘images.’ But while suc",
+   "md_text": "Aristotle seems confident that his own theory has the resources to deal with both sets of counterexamples. He believes there are changes in our bodies that represent or model the objects in question (without being instances of the exact same type), and by undergoing these changes we are able to have thoughts with the relevant contents, whether or not the corresponding objects exist in the world at large. He describes such changes as phantasmata, a term often translated as ‘images.’ But while suc"
+  },
+  {
+   "i": 19,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Thought consists in a direct relation to what is thought about. No relation can obtain unless all its relata exist/obtain. Sometimes we can think about what does not exist/obtain.",
+   "md_text": "Thought consists in a direct relation to what is thought about. No relation can obtain unless all its relata exist/obtain. Sometimes we can think about what does not exist/obtain."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Intentionality in Ancient Philosophy",
+ "authors": [
+  "Caston, Victor"
+ ]
+}

@@ -1,0 +1,777 @@
+{
+ "slug": "emotions-chinese",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 202,
+ "n_md": 202,
+ "n_pairs": 82,
+ "n_flags": 1,
+ "n_merged": 50,
+ "merged": [
+  {
+   "ratio": 0.9973060344827587,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980057611345003,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958918178705922,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.991016548463357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993935718617344,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994823123382226,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985228951255539,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989010989010989,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977502812148481,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9942857142857143,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999128160418483,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959404600811907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977756593581188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975037443834248,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9731958762886598,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964788732394366,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985815602836879,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987261146496815,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957627118644068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967306906416019,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999140154772141,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965957446808511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997744700045106,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986979166666666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960268948655256,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955312810327706,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989299090422686,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987673343605546,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978308026030369,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9895470383275261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971711456859972,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981916817359855,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981197116891256,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996309963099631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988394584139265,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989539748953975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964463397299218,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9909365558912386,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9903536977491961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9949670925280681,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9926900584795322,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9961806335654909,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952335557673975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9965339775233694,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981916817359855,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967948717948718,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9959136018680678,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9951497860199715,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9580645161290322,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "早期中国哲学中的情 emotions in early Chinese Philosophy (Bongrae Seok)",
+  "zh_h1": "早期中国哲学中的情 emotions in early Chinese Philosophy (Bongrae Seok)",
+  "yuanwen_h1": "The Emotions in Early Chinese Philosophy",
+  "html_title": "The Emotions in Early Chinese Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "h3→h3": 19,
+  "p→∅": 71,
+  "blockquote→blockquote": 11,
+  "p→p": 40,
+  "blockquote→∅": 46,
+  "ol→∅": 1,
+  "ul→∅": 1,
+  "ul→ul": 2,
+  "h3→∅": 1,
+  "merged×1(p→p)": 17,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 8,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 5,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×5(blockquote+p+blockquote+p+blockquote→blockquote+p+blockquote+p+blockquote)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 2,
+  "merged×2(ul+p→ul+p)": 1,
+  "merged×6(p+p+p+p+blockquote+p→p+p+p+p+blockquote+p)": 1,
+  "merged×8(p+p+blockquote+p+p+blockquote+p+blockquote→p+p+blockquote+p+p+blockquote+p+blockquote)": 1,
+  "merged×5(blockquote+p+p+blockquote+p→blockquote+p+p+blockquote+p)": 1,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 2,
+  "merged×7(blockquote+p+blockquote+p+p+h3+p→blockquote+p+blockquote+p+p+h3+p)": 1,
+  "merged×8(blockquote+p+blockquote+p+blockquote+p+blockquote+p→blockquote+p+blockquote+p+blockquote+p+blockquote+p)": 1,
+  "merged×7(p+blockquote+p+blockquote+p+p+blockquote→p+blockquote+p+blockquote+p+p+blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 194,
+   "j": 194,
+   "ratio": 0.9384615384615385,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Zhuangzi…is normally positive about 情 qing ⟦P⟧ responses. Xunzi is notoriously negative. Zhuangzi is negative about Confucian traditions and conventions. Xunzi is positive about them.",
+   "md_text": "Zhuangzi…is normally positive about 情 qing ⟦P⟧ ⟦P⟧ ⟦P⟧ ⟦P⟧ ⟦P⟧ ⟦P⟧ ⟦P⟧ responses. Xunzi is notoriously negative. Zhuangzi is negative about Confucian traditions and conventions. Xunzi is positive about them."
+  }
+ ],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "In many schools of Western philosophy and psychology, emotions are understood as inner subjective feelings that are sharply contrasted with the intellectual faculties of the mind. In Chinese philosophy, however, emotions are not fully explained by inner subjective feelings, inexplicable passions, or affective consciousness. Rather, they are understood as the interactive, responsive, embodied, and holistic interactivity between the mind and the world that plays broad psychological, cognitive, and",
+   "md_text": "In many schools of Western philosophy and psychology, emotions are understood as inner subjective feelings that are sharply contrasted with the intellectual faculties of the mind. In Chinese philosophy, however, emotions are not fully explained by inner subjective feelings, inexplicable passions, or affective consciousness. Rather, they are understood as the interactive, responsive, embodied, and holistic interactivity between the mind and the world that plays broad psychological, cognitive, and"
+  },
+  {
+   "i": 84,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "xin 心 heart [heart-mind] si 思 think of, long for nian 念 think about zhi 志 ambition, aspiration shen 愼 be careful about zhong 忠 impartial, honest gong 恭 respect ci 慈 be loving wu 悟 understand wei 慰 console mu 慕 admire xu 恤 show compassion yu 愚 be stupid dai 怠 be lazy wang 忘 forget huo 惑 be confused ji 忌 resent yuan 怨 resent nu 怒 be angry hui 悔 regret bei 悲 be sad gan 感 be moved kong 恐 be terrified lian 憐 love",
+   "md_text": "xin 心 heart [heart-mind] si 思 think of, long for nian 念 think about zhi 志 ambition, aspiration shen 愼 be careful about zhong 忠 impartial, honest gong 恭 respect ci 慈 be loving wu 悟 understand wei 慰 console mu 慕 admire xu 恤 show compassion yu 愚 be stupid dai 怠 be lazy wang 忘 forget huo 惑 be confused ji 忌 resent yuan 怨 resent nu 怒 be angry hui 悔 regret bei 悲 be sad gan 感 be moved kong 恐 be terrified lian 憐 love"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Emotions in Early Chinese Philosophy",
+ "authors": [
+  "Seok, Bongrae"
+ ]
+}

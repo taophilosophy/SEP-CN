@@ -1,0 +1,417 @@
+{
+ "slug": "logic-substructural",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 128,
+ "n_md": 129,
+ "n_pairs": 86,
+ "n_flags": 1,
+ "n_merged": 29,
+ "merged": [
+  {
+   "ratio": 0.9994209612044007,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981006647673314,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993060374739764,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971988795518207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989417989417989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986168741355463,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990243902439024,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982174688057041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991386735572783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991575400168492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985734664764622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986737400530504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992706053975201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984114376489277,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9862005519779209,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942196531791907,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9892280071813285,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981447124304267,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960159362549801,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99915611814346,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989473684210526,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970282317979198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998289136013687,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997090203685742,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981751824817519,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966310238757873,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "子结构逻辑 substructural (Greg Restall)",
+  "zh_h1": "子结构逻辑 substructural (Greg Restall)",
+  "yuanwen_h1": "Substructural Logics",
+  "html_title": "Substructural Logics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 40,
+  "p→p": 47,
+  "p→mathblock": 19,
+  "h3→h3": 10,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 18,
+  "merged×2(p+p→p+p)": 7,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 126,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Restall, Greg, 1994, On Logics Without Contraction, Ph. D. Thesis, The University of Queensland. Slaney, John, 1995, MaGIC: Matrix Generator for Implication Connectives, a software package for generating finite models for substructural logics."
+  }
+ ],
+ "spot": [
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The residuation equivalence between ⟦M⟧ and ⟦M⟧ is not the only way to characterise the behaviour of the conditional. Sometimes it is helpful to study rules in which the inferential behaviour of a connective is described in terms of the conditions under which you can infer a sentence involving that connective (here, the left-to-right direction from ⟦M⟧ to ⟦M⟧ answers that question) and also describes what one can infer from a sentence involving that connective. The residuation condition for ⟦M⟧ ",
+   "md_text": "The residuation equivalence between ⟦M⟧ and ⟦M⟧ is not the only way to characterise the behaviour of the conditional. Sometimes it is helpful to study rules in which the inferential behaviour of a connective is described in terms of the conditions under which you can infer a sentence involving that connective (here, the left-to-right direction from ⟦M⟧ to ⟦M⟧ answers that question) and also describes what one can infer from a sentence involving that connective. The residuation condition for ⟦M⟧ "
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Cut rule can be stated like this: if from some premises (call them ⟦M⟧ ) we can prove the conclusion ⟦M⟧ , and if from ⟦M⟧ together with more premises (call them ⟦M⟧ ) we can prove ⟦M⟧ then we can prove the conclusion ⟦M⟧ from the premises ⟦M⟧ and ⟦M⟧ taken together. ⟦M⟧ Here, there is no restriction on the form of any of the particular judgements featuring in the rule. The particular premises and conclusions are completely general, so Cut is a structural rule.",
+   "md_text": "The Cut rule can be stated like this: if from some premises (call them ⟦M⟧ ) we can prove the conclusion ⟦M⟧ , and if from ⟦M⟧ together with more premises (call them ⟦M⟧ ) we can prove ⟦M⟧ then we can prove the conclusion ⟦M⟧ from the premises ⟦M⟧ and ⟦M⟧ taken together. ⟦M⟧ Here, there is no restriction on the form of any of the particular judgements featuring in the rule. The particular premises and conclusions are completely general, so Cut is a structural rule."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Substructural Logics",
+ "authors": [
+  "Restall, Greg"
+ ]
+}

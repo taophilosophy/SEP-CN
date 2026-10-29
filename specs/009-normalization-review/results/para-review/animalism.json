@@ -1,0 +1,419 @@
+{
+ "slug": "animalism",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 120,
+ "n_md": 148,
+ "n_pairs": 81,
+ "n_flags": 0,
+ "n_merged": 27,
+ "merged": [
+  {
+   "ratio": 0.994475138121547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984894259818731,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965156794425087,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9927760577915377,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9987293519695044,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926289926289926,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939879759519038,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979064898813678,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984453944811504,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988004798080767,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988416349495284,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984177215189873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988738738738738,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9994900560938297,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971751412429378,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991349480968859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986111111111111,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994134897360704,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986907567426028,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997049277072882,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994689325544344,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9920634920634921,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9502762430939227,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "动物主义 animalism (Stephan Blatti)",
+  "zh_h1": "动物主义 animalism (Stephan Blatti)",
+  "yuanwen_h1": "Animalism",
+  "html_title": "Animalism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→p": 54,
+  "p→∅": 25,
+  "h3→h3": 10,
+  "dl→∅": 10,
+  "ul→∅": 2,
+  "blockquote→blockquote": 8,
+  "ol→ol": 1,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(dl+p→p+p+p)": 2,
+  "merged×1(ul→ul)": 2,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 3,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 46,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The impetus behind Locke’s human/person distinction was the ongoing debate amongst seventeenth- and eighteenth-century theologians and philosophers concerning the metaphysics of resurrection. Their challenge was to account for the Biblical prediction that the dead would be resurrected on judgment day. But what is it exactly that gets resurrected? The physical particles associated with a living organism are in a state of constant flux. The set of particles associated with an organism changes from",
+   "md_text": "The impetus behind Locke’s human/person distinction was the ongoing debate amongst seventeenth- and eighteenth-century theologians and philosophers concerning the metaphysics of resurrection. Their challenge was to account for the Biblical prediction that the dead would be resurrected on judgment day. But what is it exactly that gets resurrected? The physical particles associated with a living organism are in a state of constant flux. The set of particles associated with an organism changes from"
+  },
+  {
+   "i": 54,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "our capacities for self-consciousness and rationality are tied not to our being human animals, but to our being persons; the locus of moral responsibility is not the human animal, but the person; persons, but not human animals, persist just in case their psychological states are linked in appropriate ways; and during the course of its life, a human animal may coincide with zero, one, or more than one person, and something need not be a human animal in order to be occupied by a person (e.g., Lock",
+   "md_text": "our capacities for self-consciousness and rationality are tied not to our being human animals, but to our being persons; the locus of moral responsibility is not the human animal, but the person; persons, but not human animals, persist just in case their psychological states are linked in appropriate ways; and during the course of its life, a human animal may coincide with zero, one, or more than one person, and something need not be a human animal in order to be occupied by a person (e.g., Lock"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Animalism",
+ "authors": [
+  "Blatti, Stephan"
+ ]
+}

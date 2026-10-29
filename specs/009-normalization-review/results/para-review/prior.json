@@ -1,0 +1,606 @@
+{
+ "slug": "prior",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 194,
+ "n_md": 196,
+ "n_pairs": 123,
+ "n_flags": 3,
+ "n_merged": 40,
+ "merged": [
+  {
+   "ratio": 0.9953973611537281,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "figure",
+    "pubinfo",
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999113475177305,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983660130718954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975352901635671,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999288256227758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962149886449659,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989395546129375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989976612094889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961977186311787,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989082969432315,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999213217938631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995685936151855,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999034749034749,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999534233814625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998262380538662,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995577178239717,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955555555555555,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994022713687986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993462628023535,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994643813604713,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982275788727402,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986779981114259,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994249568717654,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984301412872841,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993972272453285,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991796554552912,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987021414665801,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991489361702127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995796553173603,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995376791493297,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990379064845103,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990928333837314,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994761655316919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991582491582491,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986631016042781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993685160126297,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994874423372629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9953775038520801,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿瑟·普赖尔 Prior, Arthur (B. Jack Copeland)",
+  "zh_h1": "阿瑟·普赖尔 Prior, Arthur (B. Jack Copeland)",
+  "yuanwen_h1": "Arthur Prior",
+  "html_title": "Arthur Prior",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "figure→∅": 1,
+  "pubinfo→∅": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 77,
+  "p→∅": 65,
+  "h3→h3": 17,
+  "blockquote→blockquote": 15,
+  "blockquote→∅": 2,
+  "h4→h4": 4,
+  "ul→ul": 1,
+  "table→table": 1,
+  "p→mathblock": 2,
+  "ul→∅": 1,
+  "merged×3(figure+pubinfo+preamble→p+p+p+blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 9,
+  "merged×1(p→p)": 21,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 80,
+   "j": 82,
+   "ratio": 0.9333333333333333,
+   "shape_h": "p",
+   "shape_m": "ol",
+   "html_text": "1. ⟦M⟧ ⟦M⟧ is reflexive)",
+   "md_text": "⟦M⟧ ⟦M⟧ is reflexive)"
+  },
+  {
+   "kind": "replace",
+   "i": 81,
+   "j": 83,
+   "ratio": 0.9411764705882353,
+   "shape_h": "p",
+   "shape_m": "ol",
+   "html_text": "2. ⟦M⟧ ( ⟦M⟧ is transitive)",
+   "md_text": "⟦M⟧ ( ⟦M⟧ is transitive)"
+  },
+  {
+   "kind": "replace",
+   "i": 82,
+   "j": 84,
+   "ratio": 0.9454545454545454,
+   "shape_h": "p",
+   "shape_m": "ol",
+   "html_text": "3. ⟦M⟧ ( ⟦M⟧ is symmetrical).",
+   "md_text": "⟦M⟧ ( ⟦M⟧ is symmetrical)."
+  }
+ ],
+ "spot": [
+  {
+   "i": 193,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "My sources for this essay—other than Prior’s published work and his papers and extensive correspondence held in the Bodleian Library, Oxford—are: (i) interviews and/or correspondence with Jonathan Bennett, John Bigelow, Ray Bradley, Colin Brown, Robert Bull, Nino Cocchiarella, Max Cresswell, Vincent Denard, John Faris, Dov Gabbay, Peter Geach, Rob Goldblatt, Jaakko Hintikka, George Hughes, Hans Kamp, Saul Kripke, Fred Kroon, Peter Øhrstrøm, Mary Prior, Stephen Read, Dana Scott, Krister Segerberg",
+   "md_text": "My sources for this essay—other than Prior’s published work and his papers and extensive correspondence held in the Bodleian Library, Oxford—are: (i) interviews and/or correspondence with Jonathan Bennett, John Bigelow, Ray Bradley, Colin Brown, Robert Bull, Nino Cocchiarella, Max Cresswell, Vincent Denard, John Faris, Dov Gabbay, Peter Geach, Rob Goldblatt, Jaakko Hintikka, George Hughes, Hans Kamp, Saul Kripke, Fred Kroon, Peter Øhrstrøm, Mary Prior, Stephen Read, Dana Scott, Krister Segerberg"
+  },
+  {
+   "i": 27,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "I here propose to do something a little different, namely to employ the ordinary propositional variables ‘ ⟦M⟧ ’, ‘ ⟦M⟧ ’, ‘ ⟦M⟧ ’ etc., for ‘propositions’ in the Diodoran sense [i.e. propositions which ‘may be true at one time and false at another’] and to use certain operators which take such propositions as arguments, and which form functions taking such propositions as values. I shall use ‘ ⟦M⟧ ’ for ‘It will be the case that ⟦M⟧ ’. (1955b: 205.)",
+   "md_text": "I here propose to do something a little different, namely to employ the ordinary propositional variables ‘ ⟦M⟧ ’, ‘ ⟦M⟧ ’, ‘ ⟦M⟧ ’ etc., for ‘propositions’ in the Diodoran sense [i.e. propositions which ‘may be true at one time and false at another’] and to use certain operators which take such propositions as arguments, and which form functions taking such propositions as values. I shall use ‘ ⟦M⟧ ’ for ‘It will be the case that ⟦M⟧ ’. (1955b: 205.)"
+  },
+  {
+   "i": 20,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "(Prior n.d.a), in which a transitional soft determinism is propounded. This early typescript—which cites William James on freewill and determinism—probably dates from around 1941. According to determinism, the ‘causal chain’ is ‘all-embracing’, Prior said, but even though we are ‘part of the causal chain’, we are not ‘pure effect’. The ‘chain of causation’ runs ‘within’ us ‘as well as outside’: we ourselves are causes. He continued: ‘The only kind of universe in which general freedom is conceiva",
+   "md_text": "(Prior n.d.a), in which a transitional soft determinism is propounded. This early typescript—which cites William James on freewill and determinism—probably dates from around 1941. According to determinism, the ‘causal chain’ is ‘all-embracing’, Prior said, but even though we are ‘part of the causal chain’, we are not ‘pure effect’. The ‘chain of causation’ runs ‘within’ us ‘as well as outside’: we ourselves are causes. He continued: ‘The only kind of universe in which general freedom is conceiva"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Arthur Prior",
+ "authors": [
+  "Copeland, B. Jack"
+ ]
+}

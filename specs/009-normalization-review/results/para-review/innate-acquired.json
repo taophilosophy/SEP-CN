@@ -1,0 +1,562 @@
+{
+ "slug": "innate-acquired",
+ "letter": "i",
+ "state": "flagged",
+ "n_html": 139,
+ "n_md": 146,
+ "n_pairs": 71,
+ "n_flags": 5,
+ "n_merged": 34,
+ "merged": [
+  {
+   "ratio": 0.9994209612044007,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991530550514217,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991809991809992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998408617945893,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988835132117603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991701244813278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992525537746034,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999096657633243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990437942245172,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991587212563096,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972952086553323,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995185363505056,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994308480364257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995796553173603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986067131095631,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989658738366081,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9988358556461001,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996562983330469,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997196523689375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992606284658041,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999675535366645,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990917347865577,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975049900199601,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990850869167429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984185556141276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999104744852283,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997360781208762,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995054401582592,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989941661637497,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994258373205742,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989976612094889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994397759103641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978308026030369,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "先天性特征与后天获得性特征的区别 innate/acquired distinction (Paul Griffiths and Stefan Linquist)",
+  "zh_h1": "先天性特征与后天获得性特征的区别 innate/acquired distinction (Paul Griffiths and Stefan Linquist)",
+  "yuanwen_h1": "The Distinction Between Innate and Acquired Characteristics",
+  "html_title": "The Distinction Between Innate and Acquired Characteristics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 37,
+  "h3→h3": 17,
+  "p→∅": 60,
+  "blockquote→∅": 3,
+  "blockquote→blockquote": 6,
+  "ol→∅": 1,
+  "ul→ul": 2,
+  "figure→∅": 3,
+  "figure→p": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×5(p+p+p+blockquote+p→p+p+p+blockquote+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×3(p+p+p→p+p+p)": 6,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 6,
+  "merged×3(p+p+ol→p+p+ol)": 1,
+  "merged×3(p+figure+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 93,
+   "j": 97,
+   "ratio": 0.20253164556962025,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2 . Purely additive interaction between genotype and environment",
+   "md_text": "Figure 2"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2. Purely additive interaction between genotype and environment"
+  },
+  {
+   "kind": "replace",
+   "i": 95,
+   "j": 100,
+   "ratio": 0.21052631578947367,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 3 . Non-additive interaction between genotype and environment",
+   "md_text": "Figure 3"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 101,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3. Non-additive interaction between genotype and environment"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 111,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4."
+  }
+ ],
+ "spot": [
+  {
+   "i": 62,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As we discussed in Section 1, for more than 150 years there has been disagreement over how to define instinctive (or innate) traits in a way that is useful to scientific psychology. Shortly after instinct had become a topic of scientific study, C.L. Morgan (1896) identified seven “definitional” issues surrounding this term. Two decades later, criticisms by Knight Dunlap (1919) and L.L. Bernard (1921) reveal that those ambiguities had not been resolved. It is also telling that Lorenz continued to",
+   "md_text": "As we discussed in Section 1, for more than 150 years there has been disagreement over how to define instinctive (or innate) traits in a way that is useful to scientific psychology. Shortly after instinct had become a topic of scientific study, C.L. Morgan (1896) identified seven “definitional” issues surrounding this term. Two decades later, criticisms by Knight Dunlap (1919) and L.L. Bernard (1921) reveal that those ambiguities had not been resolved. It is also telling that Lorenz continued to"
+  },
+  {
+   "i": 73,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Fixity: Innate traits are insensitive to environmental influences during development. Typicality: Innate traits are shared by most adult members of the same species or sex. Function: Innate traits serve some purpose or end for the organism.",
+   "md_text": "Fixity: Innate traits are insensitive to environmental influences during development. Typicality: Innate traits are shared by most adult members of the same species or sex. Function: Innate traits serve some purpose or end for the organism."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Distinction Between Innate and Acquired Characteristics",
+ "authors": [
+  "Griffiths, Paul",
+  "Linquist, Stefan"
+ ]
+}

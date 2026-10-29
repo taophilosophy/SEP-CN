@@ -1,0 +1,275 @@
+{
+ "slug": "reism",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 54,
+ "n_md": 70,
+ "n_pairs": 29,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984139571768438,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993421052631579,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999243761028485,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952988582941572,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9565217391304348,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9908069458631257,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "事物论 reism (Jan Woleński)",
+  "zh_h1": "事物论 reism (Jan Woleński)",
+  "yuanwen_h1": "Reism",
+  "html_title": "Reism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 6,
+  "p→p": 21,
+  "dl→∅": 16,
+  "ul→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×1(dl→p+p)": 10,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×3(p+dl+dl→p+p+p+p+p)": 1,
+  "merged×3(ul+p+dl→ul+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 43,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Reism had to meet several serious problems. It was very soon observed that (R2), one of the most important theses of reism, contained apparent names ‘state of affairs’, ‘relation’ and ‘property’. Hence, it should be disqualified as meaningless by reistic standards. In order to cope with this objection, Kotarbiński sharply distinguished semantic reism and ontological reism. He gradually ascribed a greater importance to semantic issues. For example, he was inclined to consider (R2) as a statement ",
+   "md_text": "Reism had to meet several serious problems. It was very soon observed that (R2), one of the most important theses of reism, contained apparent names ‘state of affairs’, ‘relation’ and ‘property’. Hence, it should be disqualified as meaningless by reistic standards. In order to cope with this objection, Kotarbiński sharply distinguished semantic reism and ontological reism. He gradually ascribed a greater importance to semantic issues. For example, he was inclined to consider (R2) as a statement "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Reism",
+ "authors": [
+  "Woleński, Jan"
+ ]
+}

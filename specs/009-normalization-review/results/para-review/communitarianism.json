@@ -1,0 +1,282 @@
+{
+ "slug": "communitarianism",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 67,
+ "n_md": 69,
+ "n_pairs": 25,
+ "n_flags": 1,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9977637731246188,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991181059629605,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964779192630724,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994400895856663,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.998788298424788,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999119083847201,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991938734381298,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968274111675127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991589571068125,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998681608437706,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972378415704843,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999611046285492,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9936708860759493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "社群主义 communitarianism (Daniel Bell)",
+  "zh_h1": "社群主义 communitarianism (Daniel Bell)",
+  "yuanwen_h1": "Communitarianism",
+  "html_title": "Communitarianism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 37,
+  "p→p": 17,
+  "ol→∅": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×4(p+p+ol+p→p+p+ol+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 64,
+   "j": 66,
+   "ratio": 0.9496402877697842,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "autonomy: in moral and political philosophy | citizenship | civic humanism | democracy | egalitarianism | globalization | liberalism | nationalism",
+   "md_text": "autonomy: in moral and political philosophy citizenship civic humanism democracy egalitarianism globalization liberalism nationalism"
+  }
+ ],
+ "spot": [
+  {
+   "i": 29,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Communitarians can reply by casting doubt on the view that choice is intrinsically valuable, that a certain moral principle or communal attachment is more valuable simply because it has been chosen following deliberation among alternatives by an individual subject. If we have a highest-order interest in choosing our central projects and life-plans, regardless of what is chosen, it ought to follow that there is something fundamentally wrong with unchosen attachments and projects. But this view vi",
+   "md_text": "Communitarians can reply by casting doubt on the view that choice is intrinsically valuable, that a certain moral principle or communal attachment is more valuable simply because it has been chosen following deliberation among alternatives by an individual subject. If we have a highest-order interest in choosing our central projects and life-plans, regardless of what is chosen, it ought to follow that there is something fundamentally wrong with unchosen attachments and projects. But this view vi"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Communitarianism",
+ "authors": [
+  "Bell, Daniel"
+ ]
+}

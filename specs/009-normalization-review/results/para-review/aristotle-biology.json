@@ -1,0 +1,443 @@
+{
+ "slug": "aristotle-biology",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 116,
+ "n_md": 117,
+ "n_pairs": 44,
+ "n_flags": 0,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9906662375281622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973716973301978,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9925925925925926,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9927360774818402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9966208605541789,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9953917050691244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965799564721732,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972966884433431,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993141289437586,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977528089887641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988911769364803,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997183098591549,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998914223669924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971074380165289,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "h3",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976368397521875,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986060775020908,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999043062200957,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987470099100125,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987263850562513,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988962472406181,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978632478632479,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997278911564625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.972972972972973,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的生物学 biology (James Lennox and Mariska Leunissen)",
+  "zh_h1": "亚里士多德的生物学 biology (James Lennox and Mariska Leunissen)",
+  "yuanwen_h1": "Aristotle’s Biology",
+  "html_title": "Aristotle’s Biology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 29,
+  "p→∅": 49,
+  "blockquote→∅": 20,
+  "h3→∅": 2,
+  "blockquote→blockquote": 5,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×5(p+p+blockquote+p+blockquote→p+p+blockquote+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×6(p+p+blockquote+p+blockquote+p→p+p+blockquote+p+blockquote+p)": 1,
+  "merged×6(blockquote+blockquote+p+p+p+p→blockquote+blockquote+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×4(h3+p+p+p→h3+p+p+p)": 1,
+  "merged×9(p+p+blockquote+p+blockquote+p+p+p+p→p+p+blockquote+p+blockquote+p+p+p+p)": 1,
+  "merged×5(p+h3+p+p+p→p+h3+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×7(blockquote+p+p+p+blockquote+p+p→blockquote+p+p+p+blockquote+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 25,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "First some preliminary remarks are in order about what we are—and are not—discussing. It seems obvious, once stated, that the actual activity of studying animals is different from the activity of writing or teaching about animals based on that study. We have access to a number of Aristotle’s systematically organized writings on animals; we do not have direct access to his actual investigations. Some authors studied by historians of science discuss, in their written work, the methods they used to",
+   "md_text": "First some preliminary remarks are in order about what we are—and are not—discussing. It seems obvious, once stated, that the actual activity of studying animals is different from the activity of writing or teaching about animals based on that study. We have access to a number of Aristotle’s systematically organized writings on animals; we do not have direct access to his actual investigations. Some authors studied by historians of science discuss, in their written work, the methods they used to"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Aristotle’s Biology",
+ "authors": [
+  "Lennox, James",
+  "Leunissen, Mariska"
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "slug": "arendt",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 118,
+ "n_md": 120,
+ "n_pairs": 81,
+ "n_flags": 3,
+ "n_merged": 25,
+ "merged": [
+  {
+   "ratio": 0.998703823720026,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993478969677209,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987827145465612,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996581196581197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991356957649092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979449239621866,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999255620068483,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994065281899109,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999786370433668,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995113210620622,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985141158989599,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996422182468694,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994689325544344,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992875801472334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989775051124744,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997920997920998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984627209838586,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9921259842519685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h3"
+   ],
+   "shape_m": [
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.9981818181818182,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998792270531401,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987096774193548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993365557767037,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986577181208054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9836065573770492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "汉娜·阿伦特 Arendt, Hannah (Tatjana Tömmel and Maurizio Passerin d’Entreves)",
+  "zh_h1": "汉娜·阿伦特 Arendt, Hannah (Tatjana Tömmel and Maurizio Passerin d’Entreves)",
+  "yuanwen_h1": "Hannah Arendt",
+  "html_title": "Hannah Arendt",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 32,
+  "p→p": 58,
+  "h3→h3": 12,
+  "ul→ul": 1,
+  "h3→∅": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(h3+p→h3+p)": 1,
+  "merged×1(h3→h3)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 112,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[LA] Der Liebesbegriff bei Augustin. Berlin: Julius Springer Verlag, 1929. Translation as Love and Saint Augustine, with an interpretive essay by Joanna V. Scott and Judith C. Stark. Chicago: University of Chicago Press, 1996. [RV] Rahel Varnhagen: The Life of a Jewish Woman. Revised edition translated into English by Richard and Clara Winston. New York: Harcourt Brace Jovanovich, 1974. Critical edition edited by Liliane Weissberg. Baltimore: Johns Hopkins University Press, 1997. [OT] The Origins of Totalitarianism. New York: Harcourt Brace Jovanovich, 1951. Third edition with new prefaces, 1973. [HC] The Human Condition. Chicago: University of Chicago Press, 1958. [EJ] Eichmann in Jerusalem: A Report on the Banality of Evil. New York: Viking Press, 1963. Revised and enlarged edition, 1965"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 113,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  },
+  {
+   "kind": "replace",
+   "i": 117,
+   "j": 119,
+   "ratio": 0.9411764705882353,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aristotle | Benjamin, Walter | existentialism | Heidegger, Martin | Hobbes, Thomas | Husserl, Edmund | Jaspers, Karl | Kant, Immanuel | Machiavelli, Niccolò | phenomenology | Plato",
+   "md_text": "Aristotle Benjamin, Walter existentialism Heidegger, Martin Hobbes, Thomas Husserl, Edmund Jaspers, Karl Kant, Immanuel Machiavelli, Niccolò phenomenology Plato"
+  }
+ ],
+ "spot": [
+  {
+   "i": 29,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "In the first place, Arendt’s characterization of the social is overly restricted. She claims that the social is the realm of labor, of biological and material necessity, of the reproduction of our condition of existence. She also claims that the rise of the social coincides with the expansion of the economy from the end of the eighteenth century. However, having identified the social with the growth of the economy in the past two centuries, Arendt cannot characterize it in terms of a subsistence",
+   "md_text": "In the first place, Arendt’s characterization of the social is overly restricted. She claims that the social is the realm of labor, of biological and material necessity, of the reproduction of our condition of existence. She also claims that the rise of the social coincides with the expansion of the economy from the end of the eighteenth century. However, having identified the social with the growth of the economy in the past two centuries, Arendt cannot characterize it in terms of a subsistence"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Hannah Arendt",
+ "authors": [
+  "Tömmel, Tatjana",
+  "d’Entreves, Maurizio Passerin"
+ ]
+}

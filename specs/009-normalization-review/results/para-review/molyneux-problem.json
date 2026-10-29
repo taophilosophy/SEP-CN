@@ -1,0 +1,138 @@
+{
+ "slug": "molyneux-problem",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 41,
+ "n_md": 42,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 6,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982578397212544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992082343626286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988717562993606,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9887640449438202,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "莫利纽克斯问题 Molyneux’s problem (Brian Glenney, Gabriele Ferretti, and Marjolein Degenaar)",
+  "zh_h1": "莫利纽克斯问题 Molyneux’s problem (Brian Glenney, Gabriele Ferretti, and Marjolein Degenaar)",
+  "yuanwen_h1": "Molyneux’s Problem",
+  "html_title": "Molyneux’s Problem",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 10,
+  "p→p": 15,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 19,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "New accounts of different kinds of blind subjects, most of whom could distinguish light from dark but not shapes, in a variety of different experimental conditions, suggested that, after time, some newly sighted subjects could partially distinguish and identify visual properties by sight alone. (Abbott 1864) Sir Everard Home (1807) tested a young boy age 10, about the distances of candlelight and the sun, giving a report similar to Cheselden’s boy saying, “it appeared to touch his eyes.” (Abbott",
+   "md_text": "New accounts of different kinds of blind subjects, most of whom could distinguish light from dark but not shapes, in a variety of different experimental conditions, suggested that, after time, some newly sighted subjects could partially distinguish and identify visual properties by sight alone. (Abbott 1864) Sir Everard Home (1807) tested a young boy age 10, about the distances of candlelight and the sun, giving a report similar to Cheselden’s boy saying, “it appeared to touch his eyes.” (Abbott"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Molyneux’s Problem",
+ "authors": [
+  "Glenney, Brian",
+  "Ferretti, Gabriele",
+  "Degenaar, Marjolein"
+ ]
+}

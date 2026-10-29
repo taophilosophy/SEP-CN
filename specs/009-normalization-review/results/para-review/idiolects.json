@@ -1,0 +1,454 @@
+{
+ "slug": "idiolects",
+ "letter": "i",
+ "state": "flagged",
+ "n_html": 109,
+ "n_md": 117,
+ "n_pairs": 55,
+ "n_flags": 3,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9994672349493873,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970457902511078,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995728321230244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989557953358859,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965635738831615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9990079365079365,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969356486210419,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9984520123839009,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953831948291783,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998812351543943,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969230769230769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.992918961447679,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962264150943396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979619565217391,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987302738980591,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973718791064389,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99895112229914,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990508474576271,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977276170277231,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990817263544536,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998884620151196,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9928571428571429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "个人方言 idiolects (Alex Barber and Eduardo Garcia Ramirez)",
+  "zh_h1": "个人方言 idiolects (Alex Barber and Eduardo Garcia Ramirez)",
+  "yuanwen_h1": "Idiolects",
+  "html_title": "Idiolects",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "h3→h3": 9,
+  "p→∅": 44,
+  "p→p": 34,
+  "dl→∅": 1,
+  "ol→∅": 2,
+  "blockquote→∅": 4,
+  "figure→table": 1,
+  "h4→h4": 2,
+  "blockquote→blockquote": 1,
+  "figure→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×1(dl→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(ol→ol)": 2,
+  "merged×5(p+p+p+blockquote+p→p+p+p+blockquote+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 91,
+   "j": 97,
+   "ratio": 0.2222222222222222,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. Kanizsa’s Triange (from Wikimedia Commons , by User:Fibonacci)",
+   "md_text": "Figure 1."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[three solid black circles arranged in an equilateral triangle each with 60 degree sector cut out so that if edges of the sectors were lines and extended an equilateral triangle would be formed. Three pairs of lines also exist where if the lines were extended another equilateral triangle would exist.]](../assets/idiolects/Kanizsa_triangle.svg)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 99,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1. Kanizsa’s Triange (from Wikimedia Commons, by User:Fibonacci)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A distinct but related case against the folk ontology is that the delineation of a population as speakers of a single language is invariably driven by geo-political considerations. Serbo-Croatian and the Czechoslovak languages endured only as long as nationalist politics required them to, and ceased to be almost overnight, without any major change in how people spoke. Some dialects of the Netherlands are closer in their characteristics to dialects in neighboring Germany than they are to dialects",
+   "md_text": "A distinct but related case against the folk ontology is that the delineation of a population as speakers of a single language is invariably driven by geo-political considerations. Serbo-Croatian and the Czechoslovak languages endured only as long as nationalist politics required them to, and ceased to be almost overnight, without any major change in how people spoke. Some dialects of the Netherlands are closer in their characteristics to dialects in neighboring Germany than they are to dialects"
+  },
+  {
+   "i": 50,
+   "shape_h": "figure",
+   "shape_m": "table",
+   "html_text": "S H Meaning of “epitaph” in prior theory epithet epitaph Meaning of “epitaph” in passing theory epithet epithet",
+   "md_text": "S H Meaning of “epitaph” in prior theory epithet epitaph Meaning of “epitaph” in passing theory epithet epithet"
+  }
+ ],
+ "supplements": [
+  "appendix.html"
+ ],
+ "meta_title": "Idiolects",
+ "authors": [
+  "Barber, Alex",
+  "Garcia Ramirez, Eduardo"
+ ]
+}

@@ -1,0 +1,475 @@
+{
+ "slug": "qt-quantcomp",
+ "letter": "q",
+ "state": "flagged",
+ "n_html": 116,
+ "n_md": 125,
+ "n_pairs": 62,
+ "n_flags": 1,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.9998129792406957,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986609135545306,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978835978835979,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982225382154284,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988835132117603,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995157384987894,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999650471862985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937821032711543,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994706046252438,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "mathblock",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992892679459844,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9850039463299132,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "mathblock",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989171629669734,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990338164251208,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989154013015185,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994655264564404,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993556701030928,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999438202247191,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993190793953425,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990873136598722,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999037072701011,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994378864530635,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999561403508772,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992670412900073,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986754966887417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975874547647768,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994347088750707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998008408940031,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9947312961011591,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "量子计算 quantum computing (Michael Cuffaro and Amit Hagar)",
+  "zh_h1": "量子计算 quantum computing (Michael Cuffaro and Amit Hagar)",
+  "yuanwen_h1": "Quantum Computing",
+  "html_title": "Quantum Computing",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 17,
+  "p→∅": 48,
+  "p→p": 24,
+  "figure→∅": 3,
+  "h4→h4": 7,
+  "figure→p": 1,
+  "p→mathblock": 3,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(p+p→p+p)": 12,
+  "merged×1(p→p)": 8,
+  "merged×2(p+figure→p+p+table+p)": 1,
+  "merged×2(p+figure→p+p+mathblock+p)": 1,
+  "merged×2(figure+p→p+mathblock+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 53,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "A Schematic Representation of Deutsch’s Algorithm"
+  }
+ ],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Algorithm design is a highly complicated task, and in quantum computing, delicately leveraging the features of quantum mechanics in order to make an algorithm more efficient makes the task even more complicated. But before discussing this aspect of quantum algorithm design, let us first convince ourselves that quantum computers can actually simulate classical computation. In some sense this is obvious, given the belief in the universal character of quantum mechanics, and the observation that any",
+   "md_text": "Algorithm design is a highly complicated task, and in quantum computing, delicately leveraging the features of quantum mechanics in order to make an algorithm more efficient makes the task even more complicated. But before discussing this aspect of quantum algorithm design, let us first convince ourselves that quantum computers can actually simulate classical computation. In some sense this is obvious, given the belief in the universal character of quantum mechanics, and the observation that any"
+  },
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although the original Church-Turing thesis involves the abstract mathematical notion of computability, physicists as well as computer scientists often interpret it as saying something about the scope and limitations of physical computing machines. Wolfram (1985) claims that any physical system can be simulated (to any degree of approximation) by a universal Turing machine, and that complexity bounds on Turing machine simulations have physical significance. For example, if the computation of the ",
+   "md_text": "Although the original Church-Turing thesis involves the abstract mathematical notion of computability, physicists as well as computer scientists often interpret it as saying something about the scope and limitations of physical computing machines. Wolfram (1985) claims that any physical system can be simulated (to any degree of approximation) by a universal Turing machine, and that complexity bounds on Turing machine simulations have physical significance. For example, if the computation of the "
+  },
+  {
+   "i": 45,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "A Schematic Representation of Deutsch’s Algorithm",
+   "md_text": "A Schematic Representation of Deutsch’s Algorithm"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Quantum Computing",
+ "authors": [
+  "Cuffaro, Michael",
+  "Hagar, Amit"
+ ]
+}

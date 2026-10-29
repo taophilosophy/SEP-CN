@@ -1,0 +1,206 @@
+{
+ "slug": "cosmopolitanism",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 77,
+ "n_md": 77,
+ "n_pairs": 59,
+ "n_flags": 1,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9980657640232108,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989688595586719,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987515605493134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987608426270136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989902389767755,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994244273051687,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996098322278579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993582887700535,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986870897155361,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994385176866929,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "世界主义 cosmopolitanism (Pauline Kleingeld and Eric Brown)",
+  "zh_h1": "世界主义 cosmopolitanism (Pauline Kleingeld and Eric Brown)",
+  "yuanwen_h1": "Cosmopolitanism",
+  "html_title": "Cosmopolitanism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "h3→h3": 6,
+  "p→p": 44,
+  "p→∅": 17,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 76,
+   "j": 76,
+   "ratio": 0.948051948051948,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Augustine of Hippo | Chrysippus | Cicero | citizenship | communitarianism | Cynics, in ancient Greek philosophy | Diogenes of Sinope | globalization | Grotius, Hugo | justice: international distributive | Kant, Immanuel | Marxism, analytical | nationalism | obligations: special | rights: human | Socrates | world government",
+   "md_text": "Augustine of Hippo Chrysippus Cicero citizenship communitarianism Cynics, in ancient Greek philosophy Diogenes of Sinope globalization Grotius, Hugo justice: international distributive Kant, Immanuel Marxism, analytical nationalism obligations: special rights: human Socrates world government"
+  }
+ ],
+ "spot": [
+  {
+   "i": 68,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A second objection to strict moral cosmopolitanism gives contractarian grounds for our obligations to fellow-citizens. Because actual agreements to prioritize fellow-citizens as beneficiaries are difficult to find, the contractarians generally rely upon an implicit agreement that expresses the interests or values of the fellow-citizens themselves. So the contractarian argument turns on identifying interests or values that obligate fellow-citizens to benefit each other. Perhaps, then, it will be ",
+   "md_text": "A second objection to strict moral cosmopolitanism gives contractarian grounds for our obligations to fellow-citizens. Because actual agreements to prioritize fellow-citizens as beneficiaries are difficult to find, the contractarians generally rely upon an implicit agreement that expresses the interests or values of the fellow-citizens themselves. So the contractarian argument turns on identifying interests or values that obligate fellow-citizens to benefit each other. Perhaps, then, it will be "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Cosmopolitanism",
+ "authors": [
+  "Kleingeld, Pauline",
+  "Brown, Eric"
+ ]
+}

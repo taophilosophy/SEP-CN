@@ -1,0 +1,272 @@
+{
+ "slug": "conceptual-art",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 84,
+ "n_md": 84,
+ "n_pairs": 55,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.997948717948718,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988571428571429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942363112391931,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988597491448119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993108201240524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995869475423379,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982247020035506,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995095635115253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982510426476524,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991915925626516,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974145360528583,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989580619953112,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991659716430359,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979381443298969,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988700564971752,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9712918660287081,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "观念艺术 art, conceptual (Elisabeth Schellekens)",
+  "zh_h1": "观念艺术 art, conceptual (Elisabeth Schellekens)",
+  "yuanwen_h1": "Conceptual Art",
+  "html_title": "Conceptual Art",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "h3→h3": 10,
+  "p→p": 33,
+  "blockquote→blockquote": 2,
+  "p→∅": 27,
+  "blockquote→∅": 2,
+  "ul→ul": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(p→p)": 8,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 70,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "If there is to be a way out of this difficulty, we will have to take the bull by the horns and discuss exactly what (kind of) understanding one may gain from it. This answer will have to be cashed out in terms of two concerns: one about the content of the knowledge, and another about the kind of knowledge in question. First, knowledge yielded by art can be about the artwork – not only the techniques employed, the work’s history and tradition, and so on, but also the meaning and thoughts that the",
+   "md_text": "If there is to be a way out of this difficulty, we will have to take the bull by the horns and discuss exactly what (kind of) understanding one may gain from it. This answer will have to be cashed out in terms of two concerns: one about the content of the knowledge, and another about the kind of knowledge in question. First, knowledge yielded by art can be about the artwork – not only the techniques employed, the work’s history and tradition, and so on, but also the meaning and thoughts that the"
+  },
+  {
+   "i": 81,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "artnet: Fine Art, Decorative Art, and Design – The Art World Online The Guggenheim Collection Online The Museum of Modern Art (MoMA) Tate Online",
+   "md_text": "artnet: Fine Art, Decorative Art, and Design – The Art World Online The Guggenheim Collection Online The Museum of Modern Art (MoMA) Tate Online"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Conceptual Art",
+ "authors": [
+  "Schellekens, Elisabeth"
+ ]
+}

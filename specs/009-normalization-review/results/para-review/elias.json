@@ -1,0 +1,107 @@
+{
+ "slug": "elias",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 18,
+ "n_md": 18,
+ "n_pairs": 12,
+ "n_flags": 1,
+ "n_merged": 4,
+ "merged": [
+  {
+   "ratio": 0.9978858350951374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998681608437706,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994810586403736,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "埃利亚斯 Elias (Christian Wildberg)",
+  "zh_h1": "埃利亚斯 Elias (Christian Wildberg)",
+  "yuanwen_h1": "Elias",
+  "html_title": "Elias",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→p": 3,
+  "p→∅": 5,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 17,
+   "j": 17,
+   "ratio": 0.9193548387096774,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Ammonius | Aristotle | David | Olympiodorus | Philoponus | Porphyry",
+   "md_text": "Ammonius Aristotle David Olympiodorus Philoponus Porphyry"
+  }
+ ],
+ "spot": [
+  {
+   "i": 9,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "The commentator should be both commentator and scholar at the same time. It is the task of the commentator to unravel obscurities in the text; it is the task of the scholar to judge what is true and what is false, or what is sterile and what is productive. He must not assimilate himself to the authors he expounds, like actors on the stage who put on different masks because they are imitating different characters. When expounding Aristotle he must not become an Aristotelian and say there has neve",
+   "md_text": "The commentator should be both commentator and scholar at the same time. It is the task of the commentator to unravel obscurities in the text; it is the task of the scholar to judge what is true and what is false, or what is sterile and what is productive. He must not assimilate himself to the authors he expounds, like actors on the stage who put on different masks because they are imitating different characters. When expounding Aristotle he must not become an Aristotelian and say there has neve"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Elias",
+ "authors": [
+  "Wildberg, Christian"
+ ]
+}

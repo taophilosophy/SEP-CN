@@ -1,0 +1,564 @@
+{
+ "slug": "logic-inductive",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 259,
+ "n_md": 288,
+ "n_pairs": 203,
+ "n_flags": 0,
+ "n_merged": 37,
+ "merged": [
+  {
+   "ratio": 0.9998482779547868,
+   "n_h": 1,
+   "n_m": 9,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993746091307066,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990079365079365,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990467111534795,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.990228013029316,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995528394693695,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979852249832102,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970326409495549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983579638752053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986107252014449,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954337899543378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965635738831615,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989696032972695,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981900452488688,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965357967667436,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "h3",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956656346749226,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985974754558204,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994404029099049,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h4"
+   ],
+   "shape_m": [
+    "h4"
+   ]
+  },
+  {
+   "ratio": 0.9972826086956522,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h4",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h4",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999168744804655,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994635193133047,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996806132226126,
+   "n_h": 1,
+   "n_m": 16,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970414201183432,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991513437057992,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988075363701407,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969742813918305,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997078870496592,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954954954954955,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986504723346828,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971428571428571,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "归纳逻辑 inductive (James Hawthorne)",
+  "zh_h1": "归纳逻辑 inductive (James Hawthorne)",
+  "yuanwen_h1": "Inductive Logic",
+  "html_title": "Inductive Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 5,
+  "p→∅": 44,
+  "p→p": 136,
+  "h3→h3": 11,
+  "ol→ol": 3,
+  "p→mathblock": 41,
+  "dl→∅": 2,
+  "blockquote→blockquote": 5,
+  "h3→∅": 2,
+  "h4→∅": 2,
+  "figure→∅": 3,
+  "table→table": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+blockquote+p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 16,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(dl→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(h3+p→h3+p)": 1,
+  "merged×3(h3+p+p→h3+p+p)": 1,
+  "merged×1(h4→h4)": 1,
+  "merged×3(p+h4+p→p+h4+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(figure→table+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 236,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Notice that even when the bound of ratios of prior probabilities, ⟦M⟧ , is extremely large, a sufficiently large sample size overcomes this disparity between prior probabilities. To illustrate the point, let’s focus on those hypotheses that lie in the interval ⟦M⟧ (i.e. the interval ⟦M⟧ ). In this context K is an an upper bound on the ratios of all the prior probabilities, ⟦M⟧ such that ⟦M⟧ lies within the interval ⟦M⟧ and ⟦M⟧ lies outside the interval ⟦M⟧ . For ⟦M⟧ this means that some of the s",
+   "md_text": "Notice that even when the bound of ratios of prior probabilities, ⟦M⟧ , is extremely large, a sufficiently large sample size overcomes this disparity between prior probabilities. To illustrate the point, let’s focus on those hypotheses that lie in the interval ⟦M⟧ (i.e. the interval ⟦M⟧ ). In this context K is an an upper bound on the ratios of all the prior probabilities, ⟦M⟧ such that ⟦M⟧ lies within the interval ⟦M⟧ and ⟦M⟧ lies outside the interval ⟦M⟧ . For ⟦M⟧ this means that some of the s"
+  },
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In a probabilistic argument, the degree to which a premise statement ⟦M⟧ supports the truth or falsehood of a conclusion statement ⟦M⟧ is expressed in terms of a conditional probability function ⟦M⟧ . A formula of form ⟦M⟧ expresses the claim that premise ⟦M⟧ supports conclusion ⟦M⟧ to degree ⟦M⟧ , where ⟦M⟧ is a real number between 0 and 1. Notice that the conclusion ⟦M⟧ is placed on the left-hand side of the conditional probability expression, followed by the premise ⟦M⟧ on the right-hand side",
+   "md_text": "In a probabilistic argument, the degree to which a premise statement ⟦M⟧ supports the truth or falsehood of a conclusion statement ⟦M⟧ is expressed in terms of a conditional probability function ⟦M⟧ . A formula of form ⟦M⟧ expresses the claim that premise ⟦M⟧ supports conclusion ⟦M⟧ to degree ⟦M⟧ , where ⟦M⟧ is a real number between 0 and 1. Notice that the conclusion ⟦M⟧ is placed on the left-hand side of the conditional probability expression, followed by the premise ⟦M⟧ on the right-hand side"
+  },
+  {
+   "i": 12,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "There are statements ⟦M⟧ , ⟦M⟧ , ⟦M⟧ , and ⟦M⟧ such that ⟦M⟧ this nontrivality axiom rules out the function ⟦M⟧ that assigns probability value 1 to every argument;",
+   "md_text": "There are statements ⟦M⟧ , ⟦M⟧ , ⟦M⟧ , and ⟦M⟧ such that ⟦M⟧ this nontrivality axiom rules out the function ⟦M⟧ that assigns probability value 1 to every argument;"
+  }
+ ],
+ "supplements": [
+  "appendix1.html",
+  "appendix2.html",
+  "appendix3.html",
+  "appendix4.html",
+  "sup-uncertain-inf.html"
+ ],
+ "meta_title": "Inductive Logic",
+ "authors": [
+  "Hawthorne, James"
+ ]
+}

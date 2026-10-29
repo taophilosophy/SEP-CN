@@ -1,0 +1,260 @@
+{
+ "slug": "aristotle-natphil",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 55,
+ "n_md": 56,
+ "n_pairs": 17,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9964086193136472,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981824790985097,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972785001511945,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978060552874067,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956427015250545,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950338600451467,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970290492957746,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979814291481631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955478960218297,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973021582733813,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958995386981035,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9954337899543378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9786324786324786,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的自然哲学 natural philosophy (Istvan Bodnar)",
+  "zh_h1": "亚里士多德的自然哲学 natural philosophy (Istvan Bodnar)",
+  "yuanwen_h1": "Aristotle’s Natural Philosophy",
+  "html_title": "Aristotle’s Natural Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 35,
+  "p→p": 6,
+  "ul→ul": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 3,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 48,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "action: poiein activity: praxis actuality: energeia or entelecheia art, craft: technê capacity: dunamis cause: aitia or aition change: kinêsis or metabolê to effect change or motion: kinein to undergo change or motion: kineisthai qualitative change: alloiôsis quantitative changes—growth: auxêsis; decay: phthisis locomotion: phora to come to be: gignesthai coming to be: genesis force: bia forced: biâi form: eidos or morphê in so far as: hêi genus, kind: genos goal: telos kind, species: eidos know",
+   "md_text": "action: poiein activity: praxis actuality: energeia or entelecheia art, craft: technê capacity: dunamis cause: aitia or aition change: kinêsis or metabolê to effect change or motion: kinein to undergo change or motion: kineisthai qualitative change: alloiôsis quantitative changes—growth: auxêsis; decay: phthisis locomotion: phora to come to be: gignesthai coming to be: genesis force: bia forced: biâi form: eidos or morphê in so far as: hêi genus, kind: genos goal: telos kind, species: eidos know"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Aristotle’s Natural Philosophy",
+ "authors": [
+  "Bodnar, Istvan"
+ ]
+}

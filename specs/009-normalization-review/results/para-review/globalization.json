@@ -1,0 +1,148 @@
+{
+ "slug": "globalization",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 29,
+ "n_md": 30,
+ "n_pairs": 9,
+ "n_flags": 0,
+ "n_merged": 6,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992249778565102,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994867948363665,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994124942881389,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9965870307167235,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "全球化 globalization (William Scheuerman)",
+  "zh_h1": "全球化 globalization (William Scheuerman)",
+  "yuanwen_h1": "Globalization",
+  "html_title": "Globalization",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 17,
+  "p→p": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Since the mid-1980s, social theorists have moved beyond the relatively underdeveloped character of previous reflections on the compression or annihilation of space to offer a rigorous conception of globalization. To be sure, major disagreements remain about the precise nature of the causal forces behind globalization, with David Harvey (1989 1996) building directly on Marx’s pioneering explanation of globalization, while others (Giddens 19990; Held, McGrew, Goldblatt & Perraton 1999) question th",
+   "md_text": "Since the mid-1980s, social theorists have moved beyond the relatively underdeveloped character of previous reflections on the compression or annihilation of space to offer a rigorous conception of globalization. To be sure, major disagreements remain about the precise nature of the causal forces behind globalization, with David Harvey (1989 1996) building directly on Marx’s pioneering explanation of globalization, while others (Giddens 19990; Held, McGrew, Goldblatt & Perraton 1999) question th"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Globalization",
+ "authors": [
+  "Scheuerman, William"
+ ]
+}

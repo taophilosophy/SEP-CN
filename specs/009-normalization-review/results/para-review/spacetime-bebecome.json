@@ -1,0 +1,529 @@
+{
+ "slug": "spacetime-bebecome",
+ "letter": "s",
+ "state": "flagged",
+ "n_html": 169,
+ "n_md": 185,
+ "n_pairs": 124,
+ "n_flags": 4,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9919678714859438,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9956709956709957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990381532542482,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989484752891693,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971845405682109,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989462592202318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967532467532467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989189189189189,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982608695652174,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9746192893401016,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993127147766323,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979879275653923,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982653946227233,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9899497487437185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9894179894179894,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976190476190476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982847341337907,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9885057471264368,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974683544303797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993853718500307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993957703927493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99790004199916,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984076433121019,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997147385103011,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972396486825597,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981447124304267,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987789987789988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988649262202043,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989212513484358,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970501474926253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "现代物理学中的存在与变化 being and becoming in modern physics (Steven Savitt)",
+  "zh_h1": "现代物理学中的存在与变化 being and becoming in modern physics (Steven Savitt)",
+  "yuanwen_h1": "Being and Becoming in Modern Physics",
+  "html_title": "Being and Becoming in Modern Physics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→p": 96,
+  "blockquote→∅": 5,
+  "blockquote→blockquote": 13,
+  "p→∅": 34,
+  "h3→h3": 6,
+  "figure→∅": 3,
+  "dl→∅": 3,
+  "ol→ol": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×1(p→p)": 22,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(figure+p+p→p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 85,
+   "j": 92,
+   "ratio": 0.37209302325581395,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2 . The Andromedean Invasion",
+   "md_text": "Figure 2"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 93,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2. The Andromedean Invasion"
+  },
+  {
+   "kind": "replace",
+   "i": 114,
+   "j": 122,
+   "ratio": 0.48484848484848486,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 3 . The Light Cone",
+   "md_text": "Figure 3"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 123,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3. The Light Cone"
+  }
+ ],
+ "spot": [
+  {
+   "i": 10,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Once Einstein said that the problem of the Now worried him seriously. He explained that the experience of the Now means something special for man, something essentially different from the past and the future, but that this important difference does not and cannot occur within physics. That this experience cannot be grasped by science seemed to him a matter of painful but inevitable resignation. I remarked that all that occurs objectively can be described in science; on the one hand the temporal ",
+   "md_text": "Once Einstein said that the problem of the Now worried him seriously. He explained that the experience of the Now means something special for man, something essentially different from the past and the future, but that this important difference does not and cannot occur within physics. That this experience cannot be grasped by science seemed to him a matter of painful but inevitable resignation. I remarked that all that occurs objectively can be described in science; on the one hand the temporal "
+  },
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For our purposes, the defining feature of a manifold that is a Newtonian spacetime is that the temporal interval between any two points or events in the spacetime, ⟦M⟧ and ⟦M⟧ , is a well-defined quantity. This quantity is well-defined in that it does not depend upon point of view, reference frame, coordinate system or “observer”. This quantity, then, is absolute in the sense of being frame- or observer-independent. (In the special theory of relativity the temporal interval between two distinct ",
+   "md_text": "For our purposes, the defining feature of a manifold that is a Newtonian spacetime is that the temporal interval between any two points or events in the spacetime, ⟦M⟧ and ⟦M⟧ , is a well-defined quantity. This quantity is well-defined in that it does not depend upon point of view, reference frame, coordinate system or “observer”. This quantity, then, is absolute in the sense of being frame- or observer-independent. (In the special theory of relativity the temporal interval between two distinct "
+  },
+  {
+   "i": 71,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "It is a fact that Mount St. Helens erupted in Washington in 1980. It is a fact that Justin Trudeau is now Prime Minister of Canada. It is a fact that there will be a total eclipse of the sun in the United States in 2045.",
+   "md_text": "It is a fact that Mount St. Helens erupted in Washington in 1980. It is a fact that Justin Trudeau is now Prime Minister of Canada. It is a fact that there will be a total eclipse of the sun in the United States in 2045."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Being and Becoming in Modern Physics",
+ "authors": [
+  "Savitt, Steven"
+ ]
+}

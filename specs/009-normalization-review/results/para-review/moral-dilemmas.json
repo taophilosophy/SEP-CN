@@ -1,0 +1,269 @@
+{
+ "slug": "moral-dilemmas",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 86,
+ "n_md": 86,
+ "n_pairs": 58,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9993050729673384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992119779353822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993045897079277,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991386735572783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993344425956738,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998745294855709,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970845481049563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974811083123426,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99933598937583,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992776306284613,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994110718492344,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996990671080349,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993595491225823,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992876109060294,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996720236142997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "道德困境 moral dilemmas (Terrance McConnell)",
+  "zh_h1": "道德困境 moral dilemmas (Terrance McConnell)",
+  "yuanwen_h1": "Moral Dilemmas",
+  "html_title": "Moral Dilemmas",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 12,
+  "p→∅": 27,
+  "p→p": 33,
+  "p→mathblock": 4,
+  "table→table": 6,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 74,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In the context of issues raised by the possibility of moral dilemmas, the role most frequently discussed is that of the political actor. Michael Walzer (1973) claims that the political ruler, qua political ruler, ought to do what is best for the state; that is his principal role-related obligation. But he also ought to abide by the general obligations incumbent on all. Sometimes the political actor’s role-related obligations require him to do evil—that is, to violate some general obligations. Am",
+   "md_text": "In the context of issues raised by the possibility of moral dilemmas, the role most frequently discussed is that of the political actor. Michael Walzer (1973) claims that the political ruler, qua political ruler, ought to do what is best for the state; that is his principal role-related obligation. But he also ought to abide by the general obligations incumbent on all. Sometimes the political actor’s role-related obligations require him to do evil—that is, to violate some general obligations. Am"
+  },
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "We shall return to the issue of whether it is possible to preclude genuine moral dilemmas. But what about the desirability of doing so? Why have ethicists thought that their theories should preclude the possibility of dilemmas? At the intuitive level, the existence of moral dilemmas suggests some sort of inconsistency. An agent caught in a genuine dilemma is required to do each of two acts but cannot do both. And since he cannot do both, not doing one is a condition of doing the other. Thus, it ",
+   "md_text": "We shall return to the issue of whether it is possible to preclude genuine moral dilemmas. But what about the desirability of doing so? Why have ethicists thought that their theories should preclude the possibility of dilemmas? At the intuitive level, the existence of moral dilemmas suggests some sort of inconsistency. An agent caught in a genuine dilemma is required to do each of two acts but cannot do both. And since he cannot do both, not doing one is a condition of doing the other. Thus, it "
+  },
+  {
+   "i": 24,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "1. ⟦M⟧ 2. ⟦M⟧ 3. ⟦M⟧ [where ‘ ⟦M⟧ ’ means ‘cannot’] 4. ⟦M⟧ [where ‘ ⟦M⟧ ’ means physical necessity] 5. ⟦M⟧ (from 3) 6. ⟦M⟧ (from 5) 7. ⟦M⟧ (an instantiation of 4) 8. ⟦M⟧ (from 6 and 7) 9. ⟦M⟧ (from 2 and 8) 10. ⟦M⟧ (from 1 and 9)",
+   "md_text": "1. ⟦M⟧ 2. ⟦M⟧ 3. ⟦M⟧ [where ‘ ⟦M⟧ ’ means ‘cannot’] 4. ⟦M⟧ [where ‘ ⟦M⟧ ’ means physical necessity] 5. ⟦M⟧ (from 3) 6. ⟦M⟧ (from 5) 7. ⟦M⟧ (an instantiation of 4) 8. ⟦M⟧ (from 6 and 7) 9. ⟦M⟧ (from 2 and 8) 10. ⟦M⟧ (from 1 and 9)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Moral Dilemmas",
+ "authors": [
+  "McConnell, Terrance"
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "slug": "aristotle-rhetoric",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 120,
+ "n_md": 120,
+ "n_pairs": 48,
+ "n_flags": 0,
+ "n_merged": 34,
+ "merged": [
+  {
+   "ratio": 0.9977401129943503,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981403543114418,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967239967239967,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950626661602735,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9912767644726408,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9981114258734656,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984478392288212,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995757318625371,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983519501922725,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989658738366081,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992588932806324,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991463935125907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976558837318331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972889933128501,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991826726604005,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989586045300703,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964331573690969,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987145258578067,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955337204108977,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99849429984943,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997081144191477,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971070395371263,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992952783650458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971171782262167,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "h3",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986996098829649,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963768115942029,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973976167648267,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987373737373737,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983505772979457,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981024667931688,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994678020223523,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962825278810409,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9661016949152542,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的修辞学 rhetoric (Christof Rapp)",
+  "zh_h1": "亚里士多德的修辞学 rhetoric (Christof Rapp)",
+  "yuanwen_h1": "Aristotle’s Rhetoric",
+  "html_title": "Aristotle’s Rhetoric",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "p→∅": 62,
+  "p→p": 14,
+  "ul→∅": 5,
+  "ul→ul": 1,
+  "h3→h3": 17,
+  "blockquote→∅": 2,
+  "table→table": 3,
+  "h3→∅": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 6,
+  "merged×2(p+p→p+p)": 7,
+  "merged×5(p+ul+p+ul+p→p+ul+p+ul+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×4(ul+p+p+p→ul+p+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×7(p+h3+p+h3+p+p+p→p+h3+p+h3+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 66,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In general, Aristotle regards deductive arguments as a set of propositions in which some sentences are premises and one is the conclusion, and the inference from the premises to the conclusion is guaranteed by the premises alone. Since enthymemes in the proper sense are expected to be deductive arguments, the minimal requirement for the formulation of enthymemes is that they have to display the premise-conclusion structure of deductive arguments. This is why enthymemes have to include a statemen",
+   "md_text": "In general, Aristotle regards deductive arguments as a set of propositions in which some sentences are premises and one is the conclusion, and the inference from the premises to the conclusion is guaranteed by the premises alone. Since enthymemes in the proper sense are expected to be deductive arguments, the minimal requirement for the formulation of enthymemes is that they have to display the premise-conclusion structure of deductive arguments. This is why enthymemes have to include a statemen"
+  },
+  {
+   "i": 15,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Ch. 1: Delivery of a speech and why style/diction should be considered. Ch. 2–3: The virtue and the vices of prose style: the excellent prose style is neither too banal nor above the due dignity, but appropriate — the choice of words — the role of metaphors (Ch. 2) — Four deterrent factors (or vices) of style (Ch. 3). Ch. 4–11: Particular ingredients of prose style: the simile (Ch. 4) — linguistic correctness (Ch. 5) — stylistic voluminousness and its contrary (Ch. 6) — appropriateness in style ",
+   "md_text": "Ch. 1: Delivery of a speech and why style/diction should be considered. Ch. 2–3: The virtue and the vices of prose style: the excellent prose style is neither too banal nor above the due dignity, but appropriate — the choice of words — the role of metaphors (Ch. 2) — Four deterrent factors (or vices) of style (Ch. 3). Ch. 4–11: Particular ingredients of prose style: the simile (Ch. 4) — linguistic correctness (Ch. 5) — stylistic voluminousness and its contrary (Ch. 6) — appropriateness in style "
+  }
+ ],
+ "supplements": [
+  "brevity-enthymeme.html",
+  "enthymeme-inference.html",
+  "judgmental-emotions.html",
+  "variety-topoi.html"
+ ],
+ "meta_title": "Aristotle’s Rhetoric",
+ "authors": [
+  "Rapp, Christof"
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "slug": "cockburn",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 24,
+ "n_md": 24,
+ "n_pairs": 12,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9976731698586003,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987129987129987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993075751280986,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991031390134529,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9859154929577465,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9710144927536232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "凯瑟琳·特洛特·考克本 Cockburn, Catharine Trotter (Patricia Sheridan)",
+  "zh_h1": "凯瑟琳·特洛特·考克本 Cockburn, Catharine Trotter (Patricia Sheridan)",
+  "yuanwen_h1": "Catharine Trotter Cockburn",
+  "html_title": "Catharine Trotter Cockburn",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 5,
+  "p→∅": 10,
+  "p→p": 5,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 16,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In Cockburn’s third and last philosophical work, the Remarks upon the Principles and Reasonings of Dr. Rutherforth’s Essay, she answers Dr. Thomas Rutherforth, a critic of Clarke’s fitness theory. Rutherforth himself offers a brand of consequentialism, defining as moral goodness that which brings about good and prevents evil. Cockburn objects to this view, arguing that it ignores the underlying fitness relations that serve to define what harms and benefits are significant or relevant for human b",
+   "md_text": "In Cockburn’s third and last philosophical work, the Remarks upon the Principles and Reasonings of Dr. Rutherforth’s Essay, she answers Dr. Thomas Rutherforth, a critic of Clarke’s fitness theory. Rutherforth himself offers a brand of consequentialism, defining as moral goodness that which brings about good and prevents evil. Cockburn objects to this view, arguing that it ignores the underlying fitness relations that serve to define what harms and benefits are significant or relevant for human b"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Catharine Trotter Cockburn",
+ "authors": [
+  "Sheridan, Patricia"
+ ]
+}

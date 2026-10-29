@@ -1,0 +1,718 @@
+{
+ "slug": "perception-justification",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 218,
+ "n_md": 232,
+ "n_pairs": 149,
+ "n_flags": 15,
+ "n_merged": 40,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993642720915448,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992260061919505,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969788519637462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984962406015038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989018229738634,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999388379204893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988801791713325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999407231772377,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995431703974418,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998997995991984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978021978021978,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993103448275862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984756097560976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993686868686869,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977439368302312,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982658959537573,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991015274034142,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992395437262357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988962472406181,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999203187250996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994714587737844,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991863303498779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992025518341308,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988465974625144,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997462572951028,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993095512082854,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989258861439313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963369963369964,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992181391712275,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988998899889989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986149584487535,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990617879640799,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994821336095288,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994288977727013,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992790194664743,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987459242538249,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9966555183946488,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "知觉经验与知觉辩护 experience and justification (Nicholas Silins)",
+  "zh_h1": "知觉经验与知觉辩护 experience and justification (Nicholas Silins)",
+  "yuanwen_h1": "Perceptual Experience and Perceptual Justification",
+  "html_title": "Perceptual Experience and Perceptual Justification",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 5,
+  "p→p": 121,
+  "p→∅": 60,
+  "h3→h3": 10,
+  "blockquote→∅": 2,
+  "blockquote→blockquote": 3,
+  "p→mathblock": 1,
+  "h4→h4": 7,
+  "figure→∅": 5,
+  "figure→p": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 23,
+  "merged×4(p+p+p+p→p+p+p+p)": 5,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 5,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(figure→table+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 78,
+   "j": 81,
+   "ratio": 0.4186046511627907,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. Müller-Lyer illusion ⟦P⟧",
+   "md_text": "Figure 1."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 82,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A set of three horizontal lines vertically aligned with the first and third having simple two line arrow heads at each end and the middle having inverted arrow heads. Sighted people tend to perceive the middle line as longer in this set. Below is the same set with the horizontal lines in red and a dashed line on each side showing that the lines are actually identical in length. ]](../assets/perception-justification/figure1.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 83,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1. Müller-Lyer illusion"
+  },
+  {
+   "kind": "replace",
+   "i": 88,
+   "j": 93,
+   "ratio": 0.3,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2. “Speckled Sussex Hen named Mata Hari” ⟦P⟧",
+   "md_text": "Figure 2."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 94,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A Speckled Sussex chicken mostly black with lots of white speckles.]](../assets/perception-justification/figure2.jpg)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2. “Speckled Sussex Hen named Mata Hari”"
+  },
+  {
+   "kind": "replace",
+   "i": 150,
+   "j": 157,
+   "ratio": 0.45,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 3. “Rotating snakes” ⟦P⟧",
+   "md_text": "Figure 3."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 158,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A visual illusion. The object looks like 18 overlapping circles with an intricate repeating pattern. For most sighted people the circles seem to rotate.]](../assets/perception-justification/figure3.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 159,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3. “Rotating snakes”"
+  },
+  {
+   "kind": "replace",
+   "i": 198,
+   "j": 208,
+   "ratio": 0.5294117647058824,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 4. Necker Cube ⟦P⟧",
+   "md_text": "Figure 4."
+  },
+  {
+   "kind": "replace",
+   "i": 199,
+   "j": 209,
+   "ratio": 0.19648093841642228,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "You can see this figure as a downward-tilted cube with the left face closest to you, or as an upward-tilted cube with the right face closest to you. Critics dispute whether such examples support any thesis of theory -dependence of observation. An alternative response is that you experience the figure in different ways merely because you attend to different parts of the figure at different times. Here the difference in your experience is not explained by differences in what theory you hold (Fodor 1984).",
+   "md_text": "![[two identical squares overlapping and with lines connecting the four vertices of one to the equivalent vertex of the other]](../assets/perception-justification/figure4.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 210,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4. Necker Cube"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 211,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "You can see this figure as a downward-tilted cube with the left face closest to you, or as an upward-tilted cube with the right face closest to you. Critics dispute whether such examples support any thesis of theory-dependence of observation. An alternative response is that you experience the figure in different ways merely because you attend to different parts of the figure at different times. Here the difference in your experience is not explained by differences in what theory you hold (Fodor 1984) ."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 214,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[The 6 Spades playing card but red instead of the normal black]](../assets/perception-justification/figure5.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 215,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 5"
+  }
+ ],
+ "spot": [
+  {
+   "i": 54,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Why believe E-M Link 3 at all? Davidson’s own case appeals to the claim that, in order for an experience to justify a belief, the experience must make more probable or entail the content of the belief (he also uses the further assumption that only propositional contents can do any such thing). It’s not clear why all raw feel theorists must accept the demand. Think back to the experience of “seeing stars”, and suppose that the experience is indeed a raw feel. The experience might still justify th",
+   "md_text": "Why believe E-M Link 3 at all? Davidson’s own case appeals to the claim that, in order for an experience to justify a belief, the experience must make more probable or entail the content of the belief (he also uses the further assumption that only propositional contents can do any such thing). It’s not clear why all raw feel theorists must accept the demand. Think back to the experience of “seeing stars”, and suppose that the experience is indeed a raw feel. The experience might still justify th"
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Epistemology-Mind Link If experiences justify beliefs about the external world, then experiences have property ⟦M⟧ .",
+   "md_text": "Epistemology-Mind Link If experiences justify beliefs about the external world, then experiences have property ⟦M⟧ ."
+  },
+  {
+   "i": 201,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 5",
+   "md_text": "Figure 5"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Perceptual Experience and Perceptual Justification",
+ "authors": [
+  "Silins, Nicholas"
+ ]
+}

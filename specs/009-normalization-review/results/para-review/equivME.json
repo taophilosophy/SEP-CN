@@ -1,0 +1,413 @@
+{
+ "slug": "equivME",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 179,
+ "n_md": 186,
+ "n_pairs": 135,
+ "n_flags": 0,
+ "n_merged": 27,
+ "merged": [
+  {
+   "ratio": 0.9990073456422474,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983471074380166,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993108201240524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985272459499264,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996832101372756,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982085274095306,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9869375907111756,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991940801523921,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996460176991151,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989816700610998,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993674889310563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99915611814346,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986282578875172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962846527579309,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981114258734656,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994209612044007,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982547993019197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994700582935877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986807387862797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988917620982638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984825493171472,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987357774968394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984591679506933,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9791666666666666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "质能等价 equivalence of mass and energy (Francisco Fernflores)",
+  "zh_h1": "质能等价 equivalence of mass and energy (Francisco Fernflores)",
+  "yuanwen_h1": "The Equivalence of Mass and Energy",
+  "html_title": "The Equivalence of Mass and Energy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 92,
+  "h3→h3": 13,
+  "p→∅": 38,
+  "p→mathblock": 13,
+  "figure→∅": 2,
+  "blockquote→∅": 3,
+  "blockquote→blockquote": 4,
+  "ol→ol": 1,
+  "h4→h4": 3,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 16,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(figure→p+table+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+blockquote→p+p+p+p+p+p+p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×4(p+p+figure+p→p+p+p+table+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 123,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The second demerit of the Bondi-Spurgin interpretation, which it shares with all other interpretations of mass-energy equivalence that hold that mass and energy are different properties, is that it remains silent about a central feature of physical systems it uses in explaining apparent conversions of mass and energy. In order to explain purported conversions along the lines suggested by Bondi-Spurgin, one must make the familiar assumption that the energy of the constituents of a system, be it p",
+   "md_text": "The second demerit of the Bondi-Spurgin interpretation, which it shares with all other interpretations of mass-energy equivalence that hold that mass and energy are different properties, is that it remains silent about a central feature of physical systems it uses in explaining apparent conversions of mass and energy. In order to explain purported conversions along the lines suggested by Bondi-Spurgin, one must make the familiar assumption that the energy of the constituents of a system, be it p"
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To illustrate these changes, Section 1.1 reviews the concepts of mass, momentum and kinetic energy in Newtonian physics. In Section 1.2, we begin exploring the concepts of mass and energy in special relativity and state the notation we use in all further discussions, a step we must make explicit as discussions of the equivalence of mass and energy have historically used different notations, which can lead to conceptual confusion. In Section 1.3, we discuss the physical significance of mass-energ",
+   "md_text": "To illustrate these changes, Section 1.1 reviews the concepts of mass, momentum and kinetic energy in Newtonian physics. In Section 1.2, we begin exploring the concepts of mass and energy in special relativity and state the notation we use in all further discussions, a step we must make explicit as discussions of the equivalence of mass and energy have historically used different notations, which can lead to conceptual confusion. In Section 1.3, we discuss the physical significance of mass-energ"
+  },
+  {
+   "i": 96,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Are mass and energy the same property of physical systems and is that what is meant by asserting that they are “equivalent”? Is mass “converted” into energy in some physical interactions, and if so, what is the relevant sense of “conversion”? Does ⟦M⟧ have any ontological consequences, and if so, what are they?",
+   "md_text": "Are mass and energy the same property of physical systems and is that what is meant by asserting that they are “equivalent”? Is mass “converted” into energy in some physical interactions, and if so, what is the relevant sense of “conversion”? Does ⟦M⟧ have any ontological consequences, and if so, what are they?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Equivalence of Mass and Energy",
+ "authors": [
+  "Fernflores, Francisco"
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "slug": "liberalism",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 85,
+ "n_md": 85,
+ "n_pairs": 71,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9993011879804332,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988925802879292,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971671388101983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995095635115253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996791100652476,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993399339933994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999707516817783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996014348345954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997092177958709,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980895196506551,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "自由主义 liberalism (Shane D. Courtland, Gerald Gaus, and David Schmidtz)",
+  "zh_h1": "自由主义 liberalism (Shane D. Courtland, Gerald Gaus, and David Schmidtz)",
+  "yuanwen_h1": "Liberalism",
+  "html_title": "Liberalism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "h3→h3": 15,
+  "p→p": 40,
+  "p→∅": 12,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 2,
+  "ul→ul": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 63,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In On Liberty Mill argued that “Liberty, as a principle, has no application to any state of things anterior to the time when mankind have become capable of being improved by free and equal discussion” (1963, vol. 18: 224). Thus “Despotism is a legitimate form of government in dealing with barbarians, provided the end be their improvement…” (1963, vol. 18: 224). This passage — infused with the spirit of nineteenth century imperialism (and perhaps, as some maintain, latent racism) — is often ignor",
+   "md_text": "In On Liberty Mill argued that “Liberty, as a principle, has no application to any state of things anterior to the time when mankind have become capable of being improved by free and equal discussion” (1963, vol. 18: 224). Thus “Despotism is a legitimate form of government in dealing with barbarians, provided the end be their improvement…” (1963, vol. 18: 224). This passage — infused with the spirit of nineteenth century imperialism (and perhaps, as some maintain, latent racism) — is often ignor"
+  },
+  {
+   "i": 82,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Liberty Fund Online Library of Liberty",
+   "md_text": "Liberty Fund Online Library of Liberty"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Liberalism",
+ "authors": [
+  "Courtland, Shane D.",
+  "Gaus, Gerald",
+  "Schmidtz, David"
+ ]
+}

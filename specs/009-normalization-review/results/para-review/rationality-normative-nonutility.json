@@ -1,0 +1,688 @@
+{
+ "slug": "rationality-normative-nonutility",
+ "letter": "r",
+ "state": "flagged",
+ "n_html": 194,
+ "n_md": 196,
+ "n_pairs": 115,
+ "n_flags": 6,
+ "n_merged": 45,
+ "merged": [
+  {
+   "ratio": 0.9987096774193548,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995475113122172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9948186528497409,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937106918238994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961685823754789,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973219068023568,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994649545211343,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.980209545983702,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972572682391662,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987745098039216,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987163029525032,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988340458608628,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999137187230371,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986091794158554,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974489795918368,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991603694374476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959349593495935,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985693848354793,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9703952632421188,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99581589958159,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977528089887641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9794437726723095,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987421383647799,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976470588235294,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978708303761533,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990356798457087,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911504424778761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994428969359331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984947315604616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996742671009772,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989909182643795,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988385598141696,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983827493261456,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988165680473373,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979838709677419,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9854014598540146,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9642267473858007,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985007496251874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977753058954394,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989792446410344,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972222222222222,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9868421052631579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "理性选择的规范理论：预期效用的替代理论 rivals to expected utility (Lara Buchak)",
+  "zh_h1": "理性选择的规范理论：预期效用的替代理论 rivals to expected utility (Lara Buchak)",
+  "yuanwen_h1": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+  "html_title": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 14,
+  "p→∅": 72,
+  "p→p": 53,
+  "p→mathblock": 26,
+  "ul→ul": 7,
+  "ul→∅": 5,
+  "h4→h4": 6,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×1(p→p)": 24,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 14,
+  "merged×6(p+p+ul+p+p+p→p+p+ul+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+ul→p+p+p+p+p+p+ul)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 4,
+   "j": 6,
+   "ratio": 0.5906680805938495,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Decision theory concerns individuals’ preferences among both consequences (sometimes called “outcomes”) and gambles . The theory as originally developed focused on decisions with monetary consequences (e.g., receiving $10 in a game of chance), but subsequent developments broadened their focus to include decisions with non-monetary consequences as well (e.g., eating a large omelet, eating a smaller omelet, being stuck in the rain without an umbrella, lugging an umbrella around in the sunshine). Most contemporary authors define consequences to include any facts about a decision-maker’s situation that matter to her—so monetary consequences must technically describe a decision-maker’s total fortune, and non-monetary consequences must technically describe the entire world that the decision-make",
+   "md_text": "Decision theory concerns individuals’ preferences among both consequences (sometimes called “outcomes”) and gambles. The theory as originally developed focused on decisions with monetary consequences (e.g., receiving ⟦M⟧ \\cX. ⟦M⟧ \\uf: \\cX \\rightarrow \\cR$ assigns values to consequences, with the constraint that the individual prefers (or should prefer), of two consequences, the one with the higher utility value, and is indifferent between any two consequences with the same utility value. Thus the utility function in some sense represents how the individual values consequences."
+  },
+  {
+   "kind": "replace",
+   "i": 5,
+   "j": 7,
+   "ratio": 0.9129032258064517,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Gambles come in one of two forms, depending on whether we are dealing with the “objective probability” or “subjective probability” version of the theory. In the objective probability version, a gamble is a lottery that assigns probabilities to consequences. Consider, for example, a lottery that yields $100 with probability 0.5, $300 with probability 0.3, and $200 with probability 0.2. We can represent this lottery as {$100, 0.5; $300, 0.3; $200, 0.2}. More generally, lotteries have the form ⟦M⟧ where ⟦M⟧ and ⟦M⟧ is the probability that consequence ⟦M⟧ obtains. Lotteries needn’t be restricted to a finite set of consequences; they could instead be continuous.",
+   "md_text": "Gambles come in one of two forms, depending on whether we are dealing with the “objective probability” or “subjective probability” version of the theory. In the objective probability version, a gamble is a lottery that assigns probabilities to consequences. Consider, for example, a lottery that yields ⟦M⟧ 300 with probability 0.3, and ⟦M⟧ 100, 0.5; ⟦M⟧ 200, 0.2}. More generally, lotteries have the form ⟦M⟧ where ⟦M⟧ and ⟦M⟧ is the probability that consequence ⟦M⟧ obtains. Lotteries needn’t be restricted to a finite set of consequences; they could instead be continuous."
+  },
+  {
+   "kind": "replace",
+   "i": 47,
+   "j": 49,
+   "ratio": 0.5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Related paradoxes and problems abound. One centers around a pair of games, the Pasadena game and the Altadena game (Nover & Hájek 2004). The Pasadena game is also played by flipping a fair coin until it lands heads; here, the player receives ⟦M⟧ if the first heads occurs on the n ⟦P⟧ flip. Thus, its payoffs alternate between positive and negative values of increasing size, so that its terms can be rearranged to yield any sum whatsoever, and its expectation does not exist. The Altadena game is identical to the Pasadena game, except that every payoff is raised by a dollar. Again, its terms can be rearranged to yield any value, and again its expectation does not exist. However, it seems (contra EU maximization) that the Altadena game should be preferred to the Pasadena game, since the former ",
+   "md_text": "Related paradoxes and problems abound. One centers around a pair of games, the Pasadena game and the Altadena game (Nover & Hájek 2004) . The Pasadena game is also played by flipping a fair coin until it lands heads; here, the player receives ⟦M⟧ ({-1}) ⟦P⟧ (2^n/n) ⟦M⟧ 1, should be preferred to the St. Petersburg game, even though EU maximization will say they have the same (infinite) expectation (Colyvan 2008) ."
+  },
+  {
+   "kind": "replace",
+   "i": 166,
+   "j": 168,
+   "ratio": 0.21875,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "⟦M⟧ ⟦M⟧",
+   "md_text": "⟦M⟧ 1,000,000, 0.89; \\ ⟦M⟧ 0, 0.01\\}$ ⟦M⟧ 1,000,000, 1\\}$"
+  },
+  {
+   "kind": "replace",
+   "i": 167,
+   "j": 169,
+   "ratio": 0.9144254278728606,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Most people (strictly) prefer ⟦M⟧ to ⟦M⟧ and (strictly) prefer ⟦M⟧ to ⟦M⟧ but there are no values ⟦M⟧ ⟦M⟧ and ⟦M⟧ such that ⟦M⟧ and ⟦M⟧ The Allais preferences violate the Independence Axiom; when the lotteries are suitably reframed as acts (e.g., defined over events such as the drawing of a 100-ticket lottery), they violate the Sure-thing Principle or related separability principles.",
+   "md_text": "Most people (strictly) prefer ⟦M⟧ to ⟦M⟧ and (strictly) prefer ⟦M⟧ to ⟦M⟧ but there are no values ⟦M⟧ 0), ⟦M⟧ u(\\ ⟦M⟧ and ⟦M⟧ 5\\rM) ⟦M⟧ \\EU(L1) \\gt \\EU(L2) ⟦M⟧ \\EU(L4) \\gt \\EU(L3).$ The Allais preferences violate the Independence Axiom; when the lotteries are suitably reframed as acts (e.g., defined over events such as the drawing of a 100-ticket lottery), they violate the Sure-thing Principle or related separability principles."
+  },
+  {
+   "kind": "replace",
+   "i": 174,
+   "j": 176,
+   "ratio": 0.6602768903088392,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In a different series of articles (Stefánsson & Bradley 2015, 2019), these authors again employ Jeffrey’s framework, but this time widen the domain of Des to include chance propositions (in addition to factual prospects), propositions like “the chance that I get $100 is 0.5”. They hold that a rational decision-maker can have a preference between various chances of ⟦M⟧ even on the supposition that ⟦M⟧ obtains (she need not obey “Chance Neutrality”). They capture the idea of disliking risk as such by holding that even though a rational agent must maximize expected desirability, she need not have a ⟦M⟧ function of ⟦M⟧ that is expectational with respect to the Des function of chance propositions about ⟦M⟧ (she need not obey “Linearity”). For example, ⟦M⟧ need not be equal to ⟦M⟧ (This does not",
+   "md_text": "In a different series of articles (Stefánsson & Bradley 2015, 2019) , these authors again employ Jeffrey’s framework, but this time widen the domain of Des to include chance propositions (in addition to factual prospects), propositions like “the chance that I get ⟦M⟧ X, ⟦M⟧ X ⟦M⟧ \\Des ⟦M⟧ X ⟦M⟧ X ⟦M⟧ \\Des(\\text{“I get \\ ⟦M⟧ need not be equal to ⟦M⟧ 100 is 0.5”})). ⟦M⟧ \\Des$ function, and does not concern the decision-maker’s subjective probabilities.). This proposal can also rationalize the Ellsberg preferences (section 4.1), because it allows the decision-maker to assign different probabilities to the various chance propositions (see also Bradley 2015) ."
+  }
+ ],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In the subjective probability version, a gamble is an act (sometimes called as “Savage act”; Savage 1954) that assigns consequences to possible states of the world. Consider, for example, the act of cracking an extra egg into one’s omelet, when the egg may be rotten: if the egg is fresh, the consequence will be a large omelet, but if the egg is rotten, the consequence will be a ruined omelet. We can represent this act a as { extra egg is fresh , large omelet; extra egg is rotten , ruined omelet}",
+   "md_text": "In the subjective probability version, a gamble is an act (sometimes called as “Savage act”; Savage 1954) that assigns consequences to possible states of the world. Consider, for example, the act of cracking an extra egg into one’s omelet, when the egg may be rotten: if the egg is fresh, the consequence will be a large omelet, but if the egg is rotten, the consequence will be a ruined omelet. We can represent this act a as {extra egg is fresh, large omelet; extra egg is rotten, ruined omelet}, a"
+  },
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In the subjective probability version, a gamble is an act (sometimes called as “Savage act”; Savage 1954) that assigns consequences to possible states of the world. Consider, for example, the act of cracking an extra egg into one’s omelet, when the egg may be rotten: if the egg is fresh, the consequence will be a large omelet, but if the egg is rotten, the consequence will be a ruined omelet. We can represent this act a as { extra egg is fresh , large omelet; extra egg is rotten , ruined omelet}",
+   "md_text": "In the subjective probability version, a gamble is an act (sometimes called as “Savage act”; Savage 1954) that assigns consequences to possible states of the world. Consider, for example, the act of cracking an extra egg into one’s omelet, when the egg may be rotten: if the egg is fresh, the consequence will be a large omelet, but if the egg is rotten, the consequence will be a ruined omelet. We can represent this act a as {extra egg is fresh, large omelet; extra egg is rotten, ruined omelet}, a"
+  },
+  {
+   "i": 14,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "⟦M⟧ represents ⟦M⟧ under EU-maximization (objective probabilities): for all lotteries ⟦M⟧ and ⟦M⟧ ⟦M⟧ where EU is calculated relative to ⟦M⟧ ⟦M⟧ and ⟦M⟧ represent ⟦M⟧ under EU-maximization (subjective probabilities): for all acts ⟦M⟧ and ⟦M⟧ ⟦M⟧ where EU is calculated relative to ⟦M⟧ and ⟦M⟧",
+   "md_text": "⟦M⟧ represents ⟦M⟧ under EU-maximization (objective probabilities): for all lotteries ⟦M⟧ and ⟦M⟧ ⟦M⟧ where EU is calculated relative to ⟦M⟧ ⟦M⟧ and ⟦M⟧ represent ⟦M⟧ under EU-maximization (subjective probabilities): for all acts ⟦M⟧ and ⟦M⟧ ⟦M⟧ where EU is calculated relative to ⟦M⟧ and ⟦M⟧"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+ "authors": [
+  "Buchak, Lara"
+ ]
+}

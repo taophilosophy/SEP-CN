@@ -1,0 +1,615 @@
+{
+ "slug": "chinese-logic-language",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 161,
+ "n_md": 170,
+ "n_pairs": 86,
+ "n_flags": 4,
+ "n_merged": 38,
+ "merged": [
+  {
+   "ratio": 0.9994855673049443,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997042295178941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991811907825476,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987320784160734,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993446920052425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9903846153846154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980246913580247,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936210131332083,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954597048808173,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959183673469387,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980850248946763,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984121943474119,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979197622585438,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995857497928749,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99527983816588,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995850622406639,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964664310954063,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987036556909515,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972078181092939,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993069993069993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995709995709996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964172813487882,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983050847457627,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980842911877394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993698802772527,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993722536095417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997867803837953,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986984815618222,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990118577075099,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945054945054945,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9969230769230769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984744469870328,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.989247311827957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973226238286479,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9552238805970149,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "早期中国哲学中的逻辑与语言 logic and language in Early Chinese Philosophy (Marshall D. Willman)",
+  "zh_h1": "早期中国哲学中的逻辑与语言 logic and language in Early Chinese Philosophy (Marshall D. Willman)",
+  "yuanwen_h1": "Logic and Language in Early Chinese Philosophy",
+  "html_title": "Logic and Language in Early Chinese Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 59,
+  "p→p": 65,
+  "blockquote→∅": 10,
+  "h3→h3": 5,
+  "blockquote→blockquote": 4,
+  "dl→∅": 5,
+  "p→mathblock": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 15,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 3,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 4
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 92,
+   "j": 99,
+   "ratio": 0.37209302325581395,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(Form A) ( A is B ) & ( VA is VB ),",
+   "md_text": "(Form A)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 100,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(A is B) & (VA is VB),"
+  },
+  {
+   "kind": "replace",
+   "i": 97,
+   "j": 105,
+   "ratio": 0.34782608695652173,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(Form B) ( A is B ) & ( VA is not VB )",
+   "md_text": "(Form B)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 106,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(A is B) & (VA is not VB)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A second reason for this oversight is in the fact that those writings of classical Chinese philosophers that did largely survive the vicissitudes of history—particularly the major works of Daoists like Zhuangzi and Laozi, but also those writings attributable to Confucius and his philosophical descendants—tend to embody what appear to be unfavorable appraisals of, or at least alternatives to, philosophical methods that rely heavily on suppositions about the power of discursive rationality at esta",
+   "md_text": "A second reason for this oversight is in the fact that those writings of classical Chinese philosophers that did largely survive the vicissitudes of history—particularly the major works of Daoists like Zhuangzi and Laozi, but also those writings attributable to Confucius and his philosophical descendants—tend to embody what appear to be unfavorable appraisals of, or at least alternatives to, philosophical methods that rely heavily on suppositions about the power of discursive rationality at esta"
+  },
+  {
+   "i": 55,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Hence, on this interpretation, when the Mohists say you ma (“There is a horse”), or ⟦M⟧ , they are, in effect, making an assertion that the particular object to which they are referring is such that it correctly resembles the model for horses. (The term you would have been taken to imply existence.) That is to say,",
+   "md_text": "Hence, on this interpretation, when the Mohists say you ma (“There is a horse”), or ⟦M⟧ , they are, in effect, making an assertion that the particular object to which they are referring is such that it correctly resembles the model for horses. (The term you would have been taken to imply existence.) That is to say,"
+  },
+  {
+   "i": 158,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Bibliography of readings on Chinese philosophy (maintained by Bryan Van Norden) The Chinese Philosophical Etext Archive The Chinese Text Project",
+   "md_text": "Bibliography of readings on Chinese philosophy (maintained by Bryan Van Norden) The Chinese Philosophical Etext Archive The Chinese Text Project"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Logic and Language in Early Chinese Philosophy",
+ "authors": [
+  "Willman, Marshall D."
+ ]
+}

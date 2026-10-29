@@ -1,0 +1,341 @@
+{
+ "slug": "frege-hilbert",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 89,
+ "n_md": 92,
+ "n_pairs": 52,
+ "n_flags": 0,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 0.9981024667931688,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976689976689976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988649262202043,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995312114483099,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944802207911684,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985237258347979,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980237154150198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982062780269059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980331553807249,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999563128003495,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991850040749797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998113919275745,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994209612044007,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951823812801102,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993439550140581,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980897803247374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978947368421053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997037037037036,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9896907216494846,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "弗雷格-希尔伯特争论 controversy with Hilbert (Patricia Blanchette)",
+  "zh_h1": "弗雷格-希尔伯特争论 controversy with Hilbert (Patricia Blanchette)",
+  "yuanwen_h1": "The Frege-Hilbert Controversy",
+  "html_title": "The Frege-Hilbert Controversy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 30,
+  "p→p": 33,
+  "h3→h3": 3,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 2,
+  "ul→ul": 1,
+  "ul→∅": 2,
+  "dl→∅": 3,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 10,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×4(p+p+p+ul→p+p+p+ul)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 73,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The central reasons one might doubt the strong equivalence just suggested between Hilbert’s method and Frege’s proposal are (i) that it is not clear whether the class of terms Frege would count as “logical”, i.e., the class whose members μ must map to themselves, is the same as the class of terms that Hilbert would count as having a fixed interpretation; and most importantly (ii) that it is not clear just what kind of language Frege has in mind. Regarding the first: if Frege’s class of fixed ter",
+   "md_text": "The central reasons one might doubt the strong equivalence just suggested between Hilbert’s method and Frege’s proposal are (i) that it is not clear whether the class of terms Frege would count as “logical”, i.e., the class whose members μ must map to themselves, is the same as the class of terms that Hilbert would count as having a fixed interpretation; and most importantly (ii) that it is not clear just what kind of language Frege has in mind. Regarding the first: if Frege’s class of fixed ter"
+  },
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The notion of “independence” at issue here is that of non-provability: to say that a given statement is independent of a collection of statements is to say that it is not provable from them. Consistency, too, is understood in terms of provability: to say that a collection of statements is consistent is to say that no contradiction is provable from it. Hence the two notions, consistency and independence, are inter-definable: a set of statements is consistent if an arbitrarily-chosen contradiction",
+   "md_text": "The notion of “independence” at issue here is that of non-provability: to say that a given statement is independent of a collection of statements is to say that it is not provable from them. Consistency, too, is understood in terms of provability: to say that a collection of statements is consistent is to say that no contradiction is provable from it. Hence the two notions, consistency and independence, are inter-definable: a set of statements is consistent if an arbitrarily-chosen contradiction"
+  },
+  {
+   "i": 34,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "A is an intelligent being A is omnipresent A is omnipotent",
+   "md_text": "A is an intelligent being A is omnipresent A is omnipotent"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Frege-Hilbert Controversy",
+ "authors": [
+  "Blanchette, Patricia"
+ ]
+}

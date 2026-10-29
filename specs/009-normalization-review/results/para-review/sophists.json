@@ -1,0 +1,184 @@
+{
+ "slug": "sophists",
+ "letter": "s",
+ "state": "flagged",
+ "n_html": 31,
+ "n_md": 35,
+ "n_pairs": 13,
+ "n_flags": 1,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9976545485005863,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987420394685117,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997617345723135,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984350547730829,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994134897360704,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994523881959233,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990526116339291,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998914223669924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)",
+  "zh_h1": "智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)",
+  "yuanwen_h1": "The Sophists",
+  "html_title": "The Sophists",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 16,
+  "p→p": 5,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 32,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Lee, Mi-Kyoung, 2024, “Protagoras”, in Oxford Bibliographies in Classics, Ruth Scodel (ed.), New York: Oxford University Press. McKirahan, Richard, 2018, “The Sophists”, in Oxford Classical Bibliographies."
+  }
+ ],
+ "spot": [
+  {
+   "i": 11,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Similarly, the claim to make the weaker logos the stronger has nothing to do with relativism, either individual or social. Since, as we have seen, relativized beliefs are not in conflict with one another, arguments in favor of them are not in conflict either, and hence neither the beliefs themselves nor the arguments in favor of them can be weaker or stronger than one another. Aristotle’s evidence in the Rhetoric passage cited above indicates that the context of the claim is that of forensic ora",
+   "md_text": "Similarly, the claim to make the weaker logos the stronger has nothing to do with relativism, either individual or social. Since, as we have seen, relativized beliefs are not in conflict with one another, arguments in favor of them are not in conflict either, and hence neither the beliefs themselves nor the arguments in favor of them can be weaker or stronger than one another. Aristotle’s evidence in the Rhetoric passage cited above indicates that the context of the claim is that of forensic ora"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Sophists",
+ "authors": [
+  "Taylor, C.C.W.",
+  "Lee, Mi-Kyoung"
+ ]
+}

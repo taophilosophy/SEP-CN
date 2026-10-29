@@ -1,0 +1,899 @@
+{
+ "slug": "reasoning-automated",
+ "letter": "r",
+ "state": "flagged",
+ "n_html": 297,
+ "n_md": 346,
+ "n_pairs": 199,
+ "n_flags": 3,
+ "n_merged": 60,
+ "merged": [
+  {
+   "ratio": 0.9984472049689441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983561643835617,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993898718730934,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995176073323685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997946611909651,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994172494172494,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988376598217745,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9844540853217643,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990384615384615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966024915062288,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992565055762082,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979770734996628,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983090970578289,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984632272228321,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986013986013986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991035410129987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991411394217006,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987525987525988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990999099909991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980911983032874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996017522899243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997405966277562,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987639060568603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999157184997893,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986219568213137,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992967651195499,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996985227615315,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970501474926253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9996398991717681,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.972972972972973,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996289424860854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995271867612293,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9991742361684558,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9976190476190476,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998089050257978,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990645463049579,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9921815889029004,
+   "n_h": 2,
+   "n_m": 25,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991489361702127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979013641133263,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994901860820801,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9994416527079844,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9991341991341991,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993177166249716,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999483204134367,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99885801294252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999371038753689,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994609164420485,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995468141031452,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992848203111032,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991381786842861,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9914089347079038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "自动推理 automated (Frederic Portoraro)",
+  "zh_h1": "自动推理 automated (Frederic Portoraro)",
+  "yuanwen_h1": "Automated Reasoning",
+  "html_title": "Automated Reasoning",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 71,
+  "h3→h3": 20,
+  "p→mathblock": 25,
+  "p→p": 107,
+  "h4→h4": 12,
+  "blockquote→blockquote": 8,
+  "table→∅": 7,
+  "table→table": 16,
+  "dl→∅": 13,
+  "blockquote→∅": 4,
+  "ul→∅": 3,
+  "ul→ul": 1,
+  "merged×1(p→p)": 25,
+  "merged×2(p+p→p+p)": 9,
+  "merged×3(table+p+p→table+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×3(p+p+dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(table→table)": 2,
+  "merged×1(ul→ul)": 3,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(dl→p+p)": 4,
+  "merged×2(dl+dl→p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 2,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+table→p+p+table)": 1,
+  "merged×2(dl+p→p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 58,
+   "j": 58,
+   "ratio": 0.40987124463519314,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Axioms Cut Rule ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ Antecedent Rules ⟦M⟧ Succedent Rules ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧",
+   "md_text": "Axioms Cut Rule （嵌套表：| | | --- | | ⟦M⟧ |） （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） Antecedent Rules ⟦M⟧ Succedent Rules ⟦M⟧ ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |）"
+  },
+  {
+   "kind": "replace",
+   "i": 61,
+   "j": 61,
+   "ratio": 0.42727272727272725,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧",
+   "md_text": "（嵌套表：| ⟦M⟧ ⟦M⟧ | ⟦M⟧ ⟦M⟧ | | --- | --- | | ⟦M⟧ | | | ⟦M⟧ | |） （嵌套表：| ⟦M⟧ ⟦M⟧ | ⟦M⟧ ⟦M⟧ | | --- | --- | | ⟦M⟧ | | | ⟦M⟧ | |） （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ | | ⟦M⟧ |）"
+  },
+  {
+   "kind": "replace",
+   "i": 68,
+   "j": 68,
+   "ratio": 0.5135135135135135,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Introduction Rules ⟦M⟧ Elimination Rules ⟦M⟧ ⟦M⟧ I ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ E ⟦M⟧ ⟦M⟧ (for ⟦M⟧ ⟦M⟧ I ⟦M⟧ (for ⟦M⟧ ⟦M⟧ ⟦M⟧ E ⟦M⟧ [ ⟦M⟧ — ⟦M⟧ ] [ ⟦M⟧ — ⟦M⟧ ] ⟦M⟧ ⟦M⟧ I [ ⟦M⟧ — ⟦M⟧ ] ⟦M⟧ ⟦M⟧ E ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ I [ ⟦M⟧ — ⟦M⟧ ] [ ⟦M⟧ — ⟦M⟧ ] ⟦M⟧ ⟦M⟧ E ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ I [ ⟦M⟧ — ⟦M⟧ ] ⟦M⟧ ⟦M⟧ E [ ⟦M⟧ — ⟦M⟧ ] ⟦M⟧ ⟦M⟧ I ⟦M⟧ ⟦M⟧ ⟦M⟧ E ⟦M⟧ [ ⟦M⟧ — ⟦M⟧ ] ⟦M⟧ ⟦M⟧ I ⟦M⟧ ⟦M⟧ ⟦M⟧ E ⟦M⟧ ⟦M⟧",
+   "md_text": "Introduction Rules ⟦M⟧ Elimination Rules ⟦M⟧ ⟦M⟧ I （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ E （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ (for ⟦M⟧ |） ⟦M⟧ I （嵌套表：| ⟦M⟧ (for ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ E （嵌套表：| ⟦M⟧ | [ ⟦M⟧ — ⟦M⟧ ] | [ ⟦M⟧ — ⟦M⟧ ] | | --- | --- | --- | | ⟦M⟧ | | |） ⟦M⟧ I （嵌套表：| [ ⟦M⟧ — ⟦M⟧ ] | | --- | | ⟦M⟧ |） ⟦M⟧ E （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ I （嵌套表：| [ ⟦M⟧ — ⟦M⟧ ] | [ ⟦M⟧ — ⟦M⟧ ] | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ E （嵌套表：| ⟦M⟧ | ⟦M⟧ | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ I （嵌套表：| [ ⟦M⟧ — ⟦M⟧ ] | | --- | | ⟦M⟧ |） ⟦M⟧ E （嵌套表：| [ ⟦M⟧ — ⟦M⟧ ] | | --- | | ⟦M⟧ |） ⟦M⟧ I （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ E （嵌套表：| ⟦M⟧ | [ ⟦M⟧ — ⟦M⟧ ] | | --- | --- | | ⟦M⟧ | |） ⟦M⟧ I （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |） ⟦M⟧ E （嵌套表：| ⟦M⟧ | | --- | | ⟦M⟧ |）"
+  }
+ ],
+ "spot": [
+  {
+   "i": 133,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The problem of determining the satisfiability of logic formulas has received much attention by the automated reasoning community due to its important applicability in industry. A propositional formula is satisfiable if there is an assignment of truth-values to its variables that makes the formula true. For example, the assignment ⟦M⟧ true, ⟦M⟧ true, ⟦M⟧ false) does not make ⟦M⟧ true but ⟦M⟧ true, ⟦M⟧ false, ⟦M⟧ false) does and, hence, the formula is satisfiable. Determining whether a formula is ",
+   "md_text": "The problem of determining the satisfiability of logic formulas has received much attention by the automated reasoning community due to its important applicability in industry. A propositional formula is satisfiable if there is an assignment of truth-values to its variables that makes the formula true. For example, the assignment ⟦M⟧ true, ⟦M⟧ true, ⟦M⟧ false) does not make ⟦M⟧ true but ⟦M⟧ true, ⟦M⟧ false, ⟦M⟧ false) does and, hence, the formula is satisfiable. Determining whether a formula is "
+  },
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 80,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧",
+   "md_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Automated Reasoning",
+ "authors": [
+  "Portoraro, Frederic"
+ ]
+}

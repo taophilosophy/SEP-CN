@@ -1,0 +1,539 @@
+{
+ "slug": "systems-synthetic-biology",
+ "letter": "s",
+ "state": "flagged",
+ "n_html": 120,
+ "n_md": 126,
+ "n_pairs": 45,
+ "n_flags": 16,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 0.9993041057759221,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974189204354169,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960686204431737,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973210868733257,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970643181211636,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979305587491377,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983186997945077,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980761831473643,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978448275862069,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969818913480886,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998373148385992,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981406879454602,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988179669030733,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974269713939761,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980119284294234,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980221859145241,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984004265529193,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977477477477478,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998363070879031,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986357435197817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "系统与合成生物哲学 systems and synthetic biology, philosophy of (Sara Green)",
+  "zh_h1": "系统与合成生物哲学 systems and synthetic biology, philosophy of (Sara Green)",
+  "yuanwen_h1": "Philosophy of Systems and Synthetic Biology",
+  "html_title": "Philosophy of Systems and Synthetic Biology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 70,
+  "h3→h3": 14,
+  "h4→h4": 6,
+  "p→p": 14,
+  "figure→∅": 3,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 5,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 13,
+   "j": 13,
+   "ratio": 0.04945054945054945,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: An example of a network representation in systems biology, showing the difference between an exponential network and a scale-free network . Red nodes are the five nodes with most links, green nodes are the first neighbors of red nodes (from Albert et al. 2000: 379, reprinted by permission from Macmillan Publishers Ltd: Nature, copyright 2000).",
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "replace",
+   "i": 14,
+   "j": 14,
+   "ratio": 0.0731070496083551,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Interestingly, many real-world networks such as social networks, the World Wide Web, and regulatory networks in biology display scale-free architectures. This raises important questions about whether real-world networks can be related to more generic structural types with characteristic functional capacities. For example, the scale-free structure makes the average path length between any two nodes in the network small, and this structure has therefore been associated with capacities for coordinated regulation throughout the network (Albert et al. 2000). Moreover, scale-free networks exhibit a high error tolerance, understood as robustness against failure of random nodes and links (e.g., random gene deletion). These functional properties are not shared by exponential networks, and illustrat",
+   "md_text": "![[subfigre a labeled 'Exponential' and subfigure b labeled 'Scale-free']](../assets/systems-synthetic-biology/Figure1.jpg)"
+  },
+  {
+   "kind": "replace",
+   "i": 15,
+   "j": 15,
+   "ratio": 0.21913327882256745,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Some systems biologists examine network architectures in the hope that smaller functional units or patterns can be identified that are akin to modules in electronic networks (Hartwell et al. 1999). One example of pattern-detection within large datasets has received special attention from philosophers of science, namely research on so-called network motifs . Network motifs are defined as “patterns of interaction that recurs in a network in many contexts” (Alon 2007: 268). By comparing the gene regulatory network of the bacterium E. coli to random networks, it was discovered that a few circuit patterns occurred more frequently than expected by chance (Shen-Orr et al. 2002). Statistically significant circuits were defined as network motifs. Two examples of network motifs are shown in Figure 2",
+   "md_text": "Figure 1: An example of a network representation in systems biology, showing the difference between an exponential network and a scale-free network. Red nodes are the five nodes with most links, green nodes are the first neighbors of red nodes (from Albert et al. 2000: 379, reprinted by permission from Macmillan Publishers Ltd: Nature, copyright 2000) ."
+  },
+  {
+   "kind": "replace",
+   "i": 16,
+   "j": 16,
+   "ratio": 0.1815415821501014,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2: Two examples of network motifs, the coherent and incoherent feedforward loop (cFFL and iFFL). The diagrams represent the regulation of a gene Z, via a direct path between a transcription factor X to Z, and an indirect connection from X via another gene or transcription factor Y to Z. Arrows represent gene activation (+) and a vertical bar inactivation (-). In a coherent feedforward loop (cFFL), all connections are activating. In the incoherent feedforward loop (iFFL), the path from Y to Z inhibites gene expression. (Adapted from Alon 2007: 47).",
+   "md_text": "Interestingly, many real-world networks such as social networks, the World Wide Web, and regulatory networks in biology display scale-free architectures. This raises important questions about whether real-world networks can be related to more generic structural types with characteristic functional capacities. For example, the scale-free structure makes the average path length between any two nodes in the network small, and this structure has therefore been associated with capacities for coordinated regulation throughout the network (Albert et al. 2000) . Moreover, scale-free networks exhibit a high error tolerance, understood as robustness against failure of random nodes and links (e.g., random gene deletion). These functional properties are not shared by exponential networks, and illustra"
+  },
+  {
+   "kind": "replace",
+   "i": 17,
+   "j": 17,
+   "ratio": 0.2603792926704254,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Akin to common circuit types in electronic networks, it was hypothesized that the recurring wiring patterns may indicate generalizable functional behaviors. Mathematical analysis suggested that the cFFL may function as a sign-sensitive delay element that filters out noisy inputs for gene activation (e.g., sporadic levels of nutrients in the environment). In contrast, the regulatory function of the iFFL was hypothesized to be an accelerator that creates a rapid pulse of gene expression in response to an activation signal. These predicted functions have been experimentally demonstrated in living bacteria (Mangan et al. 2003). Moreover, similar and additional network motifs have been found in other species and in other regulatory networks important to cell-signaling, metabolism, and developme",
+   "md_text": "Some systems biologists examine network architectures in the hope that smaller functional units or patterns can be identified that are akin to modules in electronic networks (Hartwell et al. 1999) . One example of pattern-detection within large datasets has received special attention from philosophers of science, namely research on so-called network motifs. Network motifs are defined as “patterns of interaction that recurs in a network in many contexts” (Alon 2007: 268) . By comparing the gene regulatory network of the bacterium E. coli to random networks, it was discovered that a few circuit patterns occurred more frequently than expected by chance (Shen-Orr et al. 2002) . Statistically significant circuits were defined as network motifs. Two examples of network motifs are shown in Figure"
+  },
+  {
+   "kind": "replace",
+   "i": 18,
+   "j": 18,
+   "ratio": 0.013057671381936888,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Philosophers and scientists alike have debated the implications of research focusing on generic properties of biological networks, rather than the properties of specific molecular components (e.g., Barabási 2002; Bechtel 2015a,b; Craver 2016). Among the controversial issues is how the enhanced focus on topological properties relates to more traditional mechanistic explanations in biology ( Section 4.2 ). A related issue is whether functional capacities can be derived from an analysis of network architectures alone. Some systems biologists and philosophers have pointed to the limitations and possible biases associated with inferences of functions from automated pattern-detection in datasets (Calvert 2012; Keller 2005; Krohs 2012; see also Prill et al. 2010). Specifically, some have called f",
+   "md_text": "Figure 2:"
+  },
+  {
+   "kind": "replace",
+   "i": 19,
+   "j": 19,
+   "ratio": 0.17369727047146402,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Network models are also used to study temporal aspects of coordinated processes in cells and the evolutionary dynamics and stability of gene regulatory networks (de Lichtenberg et al. 2005; Hogeweg 2012; Knight & Pinney 2009). Of scientific as well as philosophical relevance is whether and how network approaches can extend mechanistic strategies by identifying how multiple biological processes are organized and coordinated in time (Green et al. 2018; Bechtel 2020), or, alternatively, provide new types of explanations (Kostić et al. 2020; Suárez & Deulofeu 2019). This topic will be further discussed in Section 4.2.",
+   "md_text": "![[two diagrams. The top one is labeled 'Coherent FFL' and has an X with an arrow to the right pointing to a Y another arrow to the right goes from Y to a Z; this arrow is labeled 'Indirect'. The Z has a (+) to its left and also below. A third arrow goes from X down then to the right before going up to the Z; this arrow is labeled 'Direct'. The bottom diagram is the same except the overall label is 'Incoherent FFL', the (+) to the left of Z is replaced by (-), and the line from Y to Z is not an arrow but rather ends in vertical bar]](../assets/systems-synthetic-biology/Figure2.svg)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 20,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2: Two examples of network motifs, the coherent and incoherent feedforward loop (cFFL and iFFL). The diagrams represent the regulation of a gene Z, via a direct path between a transcription factor X to Z, and an indirect connection from X via another gene or transcription factor Y to Z. Arrows represent gene activation (+) and a vertical bar inactivation (-). In a coherent feedforward loop (cFFL), all connections are activating. In the incoherent feedforward loop (iFFL), the path from Y to Z inhibites gene expression. (Adapted from Alon 2007: 47) ."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 21,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Akin to common circuit types in electronic networks, it was hypothesized that the recurring wiring patterns may indicate generalizable functional behaviors. Mathematical analysis suggested that the cFFL may function as a sign-sensitive delay element that filters out noisy inputs for gene activation (e.g., sporadic levels of nutrients in the environment). In contrast, the regulatory function of the iFFL was hypothesized to be an accelerator that creates a rapid pulse of gene expression in response to an activation signal. These predicted functions have been experimentally demonstrated in living bacteria (Mangan et al. 2003) . Moreover, similar and additional network motifs have been found in other species and in other regulatory networks important to cell-signaling, metabolism, and developm"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 22,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Philosophers and scientists alike have debated the implications of research focusing on generic properties of biological networks, rather than the properties of specific molecular components (e.g., Barabási 2002; Bechtel 2015a,b; Craver 2016) . Among the controversial issues is how the enhanced focus on topological properties relates to more traditional mechanistic explanations in biology (Section 4.2). A related issue is whether functional capacities can be derived from an analysis of network architectures alone. Some systems biologists and philosophers have pointed to the limitations and possible biases associated with inferences of functions from automated pattern-detection in datasets (Calvert 2012; Keller 2005; Krohs 2012; see also Prill et al. 2010) . Specifically, some have called f"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 23,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Network models are also used to study temporal aspects of coordinated processes in cells and the evolutionary dynamics and stability of gene regulatory networks (de Lichtenberg et al. 2005; Hogeweg 2012; Knight & Pinney 2009) . Of scientific as well as philosophical relevance is whether and how network approaches can extend mechanistic strategies by identifying how multiple biological processes are organized and coordinated in time (Green et al. 2018; Bechtel 2020) , or, alternatively, provide new types of explanations (Kostić et al. 2020; Suárez & Deulofeu 2019) . This topic will be further discussed in Section 4.2."
+  },
+  {
+   "kind": "replace",
+   "i": 37,
+   "j": 41,
+   "ratio": 0.07792207792207792,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 3: Schematic representation of the five categories of synthetic biology and their connections. (From Deplazes 2009: 431, Copyright 2009 by John Wiley & Sons, Inc. reprinted by permission of John Wiley & Sons, Inc.).",
+   "md_text": "Figure 3:"
+  },
+  {
+   "kind": "replace",
+   "i": 38,
+   "j": 42,
+   "ratio": 0.20110361741263028,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Deplazes’ fifth category, in silico synthetic biology, focuses on the development and practical implementation of computer simulations. Deplazes argues that in silico synthetic modeling should be a distinct category because many of the computational models have “little or no direct reference to living organisms” (Deplazes 2009: 430). As Figure 3 illustrates, computational design is an important part of research practices in synthetic biology. But the characteristics of various roles of simulations can shed new light on philosophical discussions of the relation between models and target systems, and between modeling, experimentation, and synthesis (Knuuttila & Loettgers 2013a,b; Carusi et al. 2012).",
+   "md_text": "![[5 circles arranged in a pentagon each connected to all the others by lines. The circles in clockwise order are labeled 'Bioengineering', 'In silico synthetic biology', 'Synthetic genomics', 'Unnatural molecular biology', and 'Protocell synthetic biology'. The In slico... circle has labeled arrows on all the lines to the others: To all the arrows are labeled 'Computer design' {for Bioengineering there is also a reverse arrow 'New metabolic pathways'}. Bioengineering also has another arrow pointing to Protocell... with the label 'New metabolic pathways'. The Synthetic ... circle has an arrow to Bioengineering labeled 'Minimal chassis organisms' and to Protocell... labeled 'Synthetic genomes'; it has an arrow to and from Unnatural... labeled 'Unnatural genome fragments'. Unnatural has arro"
+  },
+  {
+   "kind": "replace",
+   "i": 39,
+   "j": 43,
+   "ratio": 0.29386590584878747,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Abstracting from the variety of research practices, a distinctive feature of synthetic biology is that it aims “to go beyond mere modeling and to treat biological systems as fully constructible objects” (O’Malley 2009: 381; see also Schyfter 2013). Thus, synthetic biology opens new philosophical questions concerning the relation between synthesis and analysis, between artificial and natural target systems, and between machine and organism (Holm & Powell 2013; Nordman 2015).",
+   "md_text": "Figure 3: Schematic representation of the five categories of synthetic biology and their connections. (From Deplazes 2009: 431, Copyright 2009 by John Wiley & Sons, Inc. reprinted by permission of John Wiley & Sons, Inc.) ."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 44,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Deplazes’ fifth category, in silico synthetic biology, focuses on the development and practical implementation of computer simulations. Deplazes argues that in silico synthetic modeling should be a distinct category because many of the computational models have “little or no direct reference to living organisms” (Deplazes 2009: 430) . As Figure 3 illustrates, computational design is an important part of research practices in synthetic biology. But the characteristics of various roles of simulations can shed new light on philosophical discussions of the relation between models and target systems, and between modeling, experimentation, and synthesis (Knuuttila & Loettgers 2013a,b; Carusi et al. 2012) ."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 45,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Abstracting from the variety of research practices, a distinctive feature of synthetic biology is that it aims “to go beyond mere modeling and to treat biological systems as fully constructible objects” (O’Malley 2009: 381; see also Schyfter 2013) . Thus, synthetic biology opens new philosophical questions concerning the relation between synthesis and analysis, between artificial and natural target systems, and between machine and organism (Holm & Powell 2013; Nordman 2015) ."
+  }
+ ],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Genome-driven cell engineering in synthetic biology departs from the modularity assumption of DNA-based device construction by focusing on the functioning of whole genomes or whole cells (O’Malley et al. 2008). This practice includes transplantation of foreign or modified genomes into empty ‘chassis cells’ to acquire new functions (Chan et al. 2005), and synthesis of “minimal genomes” (Andrianantoandro et al. 2006; Simons 2021). The notion of a minimal genome highlights the idea that existing or",
+   "md_text": "Genome-driven cell engineering in synthetic biology departs from the modularity assumption of DNA-based device construction by focusing on the functioning of whole genomes or whole cells (O’Malley et al. 2008) . This practice includes transplantation of foreign or modified genomes into empty ‘chassis cells’ to acquire new functions (Chan et al. 2005) , and synthesis of “minimal genomes” (Andrianantoandro et al. 2006; Simons 2021) . The notion of a minimal genome highlights the idea that existing"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy of Systems and Synthetic Biology",
+ "authors": [
+  "Green, Sara"
+ ]
+}

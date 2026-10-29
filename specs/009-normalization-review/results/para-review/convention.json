@@ -1,0 +1,602 @@
+{
+ "slug": "convention",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 194,
+ "n_md": 206,
+ "n_pairs": 132,
+ "n_flags": 6,
+ "n_merged": 38,
+ "merged": [
+  {
+   "ratio": 0.9936305732484076,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9945945945945946,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977426636568849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998863894569416,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988950276243094,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982808022922636,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983857949959645,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954144620811287,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998019801980198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968454258675079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984520123839009,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9834394904458599,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.976594027441485,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988791750728536,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987995198079231,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996754300551769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.966698382492864,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999482669425763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986660738105825,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911620294599018,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995427526291724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989873417721519,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990662931839402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991031390134529,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988518943742825,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986130374479889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99963113242346,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996324880558618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99900149775337,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991391678622669,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989327641408752,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999490575649516,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996036464526358,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995841995841996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9939393939393939,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9587628865979382,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约定 convention (Michael Rescorla)",
+  "zh_h1": "约定 convention (Michael Rescorla)",
+  "yuanwen_h1": "Convention",
+  "html_title": "Convention",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 87,
+  "blockquote→blockquote": 11,
+  "h3→h3": 17,
+  "p→∅": 52,
+  "blockquote→∅": 3,
+  "figure→∅": 6,
+  "p→mathblock": 1,
+  "h4→h4": 4,
+  "ul→∅": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(p→p)": 22,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+figure+p→p+p+p+table+p+p)": 1,
+  "merged×2(figure+p→p+table+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+figure→p+p+table+p)": 1,
+  "merged×3(p+figure+p→p+p+table+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 76,
+   "j": 80,
+   "ratio": 0.47368421052631576,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Hunt Stag Hunt Hare Hunt Stag 2, 2 0, 1 Hunt Hare 1, 0 1, 1 The Stag Hunt Payoff Matrix",
+   "md_text": "The Stag Hunt Payoff Matrix"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 81,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Hunt Stag Hunt Hare Hunt Stag 2, 2 0, 1 Hunt Hare 1, 0 1, 1"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 82,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The Stag Hunt Payoff Matrix"
+  },
+  {
+   "kind": "replace",
+   "i": 97,
+   "j": 107,
+   "ratio": 0.5423728813559322,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Cooperate Defect Cooperate 2, 2 0, 3 Defect 3, 0 0, 0 Prisoner’s Dilemma Payoff Matrix",
+   "md_text": "Prisoner’s Dilemma Payoff Matrix"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 108,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Cooperate Defect Cooperate 2, 2 0, 3 Defect 3, 0 0, 0"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 109,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Prisoner’s Dilemma Payoff Matrix"
+  }
+ ],
+ "spot": [
+  {
+   "i": 126,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "An increasingly active research tradition uses experimental methods to investigate equilibrium selection. The typical goal is to study how closely human subjects conform to the predictions of some formal model. In that spirit, Justin Bruner, Cailin O’Connor, Hannah Rubin, and Simon Huttegger (2018), building on work of Andreas Blume, Douglas DeJong, Yong-Gwan Kim, and Geoffrey Sprinkle (1998), show that actual human behavior in several small group signaling games fits well with the predictions o",
+   "md_text": "An increasingly active research tradition uses experimental methods to investigate equilibrium selection. The typical goal is to study how closely human subjects conform to the predictions of some formal model. In that spirit, Justin Bruner, Cailin O’Connor, Hannah Rubin, and Simon Huttegger (2018), building on work of Andreas Blume, Douglas DeJong, Yong-Gwan Kim, and Geoffrey Sprinkle (1998), show that actual human behavior in several small group signaling games fits well with the predictions o"
+  },
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A final notable Quinean argument centers on the role of “conventional stipulation” in scientific theorizing. Consider a scientist introducing a new theoretical term by definitional stipulation. The new term is embroiled in an evolving body of scientific doctrine. As this body of doctrine develops, the original legislated definition occupies no privileged status. We may reject it in light of new empirical developments. Thus, “conventionality is a passing trait, significant at the moving front of ",
+   "md_text": "A final notable Quinean argument centers on the role of “conventional stipulation” in scientific theorizing. Consider a scientist introducing a new theoretical term by definitional stipulation. The new term is embroiled in an evolving body of scientific doctrine. As this body of doctrine develops, the original legislated definition occupies no privileged status. We may reject it in light of new empirical developments. Thus, “conventionality is a passing trait, significant at the moving front of "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Convention",
+ "authors": [
+  "Rescorla, Michael"
+ ]
+}

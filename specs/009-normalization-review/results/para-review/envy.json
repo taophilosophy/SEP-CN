@@ -1,0 +1,230 @@
+{
+ "slug": "envy",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 49,
+ "n_md": 50,
+ "n_pairs": 28,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974554707379135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986468200270636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976825028968713,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933244325767691,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978517722878625,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980713596914176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975606922987571,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949542730999684,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941002949852508,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968847352024922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964221824686941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9574468085106383,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "嫉妒 envy (Justin D’Arms)",
+  "zh_h1": "嫉妒 envy (Justin D’Arms)",
+  "yuanwen_h1": "Envy",
+  "html_title": "Envy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 7,
+  "p→∅": 18,
+  "p→p": 13,
+  "blockquote→∅": 2,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 16,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Sara Protasi (2016) offers a more complex taxonomy of envy which includes a version of benign envy that she calls “emulative envy.” She draws two cross-cutting distinctions: whether the subject is focused upon the good or upon the rival, and whether she perceives the good as obtainable or unobtainable. Focus is understood not in terms of salience or conscious attention, but as a matter of evaluative concern: “what the envier focuses on is whatever she cares about, from a prudential point of view",
+   "md_text": "Sara Protasi (2016) offers a more complex taxonomy of envy which includes a version of benign envy that she calls “emulative envy.” She draws two cross-cutting distinctions: whether the subject is focused upon the good or upon the rival, and whether she perceives the good as obtainable or unobtainable. Focus is understood not in terms of salience or conscious attention, but as a matter of evaluative concern: “what the envier focuses on is whatever she cares about, from a prudential point of view"
+  },
+  {
+   "i": 46,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Links to web-based content on ethics and emotions (maintained by Michael Speer)",
+   "md_text": "Links to web-based content on ethics and emotions (maintained by Michael Speer)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Envy",
+ "authors": [
+  "D’Arms, Justin"
+ ]
+}

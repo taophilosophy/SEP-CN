@@ -1,0 +1,641 @@
+{
+ "slug": "game-evolutionary",
+ "letter": "g",
+ "state": "flagged",
+ "n_html": 177,
+ "n_md": 208,
+ "n_pairs": 123,
+ "n_flags": 9,
+ "n_merged": 38,
+ "merged": [
+  {
+   "ratio": 0.999689537410742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991869918699187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994441356309061,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.96,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9626865671641791,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9764705882352941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.968944099378882,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962546816479401,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964539007092199,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9528301886792453,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971671388101983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945115257958288,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993108201240524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994772608468374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978401727861771,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942678478374153,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926624737945493,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9547198772064467,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965916837082481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9721518987341772,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979381443298969,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986149584487535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953917050691244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964061096136568,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978858350951374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993585631815266,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994750656167979,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995850622406639,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983416252072969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979527773986625,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9902439024390244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9916044776119403,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951573849878934,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999493670886076,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981060606060606,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.994263862332696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "演化博弈论 evolutionary (J. McKenzie Alexander)",
+  "zh_h1": "演化博弈论 evolutionary (J. McKenzie Alexander)",
+  "yuanwen_h1": "Evolutionary Game Theory",
+  "html_title": "Evolutionary Game Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 37,
+  "p→p": 83,
+  "h3→h3": 10,
+  "figure→∅": 13,
+  "table→table": 1,
+  "ol→ol": 5,
+  "p→mathblock": 5,
+  "figure→p": 4,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 19,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(figure→p+table+p)": 5,
+  "merged×3(p+figure+p→p+p+table+p+p)": 1,
+  "merged×2(figure+p→p+table+p+p)": 2,
+  "merged×2(p+figure→p+p+table+p)": 2,
+  "merged×2(figure+p→p+table+table+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 68,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 6:"
+  },
+  {
+   "kind": "replace",
+   "i": 88,
+   "j": 103,
+   "ratio": 0.11538461538461539,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Generation 1 Generation 2 Generation 3 Generation 4 Generation 5 Generation 6 Figure 9: Prisoner’s Dilemma: All Defect [View a movie of this model]",
+   "md_text": "Figure 9:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 104,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Generation 1 Generation 2 Generation 3 Generation 4 Generation 5 Generation 6"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 105,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 9: Prisoner’s Dilemma: All Defect [[View a movie of this model]](../assets/game-evolutionary/pd-defect.gif)"
+  },
+  {
+   "kind": "replace",
+   "i": 90,
+   "j": 107,
+   "ratio": 0.15037593984962405,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Generation 1 Generation 2 Generation 19 Generation 20 Figure 10: Prisoner’s Dilemma: Cooperate [View a movie of this model]",
+   "md_text": "Figure 10:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 108,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Generation 1 Generation 2 Generation 19 Generation 20"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 109,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 10: Prisoner’s Dilemma: Cooperate [[View a movie of this model]](../assets/game-evolutionary/pd-cooperate.gif)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 142,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 13:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 184,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 17:"
+  }
+ ],
+ "spot": [
+  {
+   "i": 165,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "If one wishes to explain how some currently existing social phenomenon came to be, it is unclear why approaching it from the point of view of evolutionary game theory would be particularily illuminating. The etiology of any phenomenon is a unique historical event and, as such, can only be discovered empirically, relying on the work of sociologists, anthropologists, archaeologists, and the like. Although an evolutionary game theoretic model may exclude certain historical sequences as possible his",
+   "md_text": "If one wishes to explain how some currently existing social phenomenon came to be, it is unclear why approaching it from the point of view of evolutionary game theory would be particularily illuminating. The etiology of any phenomenon is a unique historical event and, as such, can only be discovered empirically, relying on the work of sociologists, anthropologists, archaeologists, and the like. Although an evolutionary game theoretic model may exclude certain historical sequences as possible his"
+  },
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To see why the traditional game theoretic solution concept of a Nash equilibrium is too weak to capture the notion of evolutionary stability, consider the game of figure 1. There are two Nash equilibria in pure strategies: ⟦M⟧ and ⟦M⟧ . Since a Nash equilibrium is a set of mutual best responses, no player can improve their payoff by adopting a different strategy, but a Nash equilibrium allows for the possibility that a player who deviates from their equilibrium strategy receives the same payoff.",
+   "md_text": "To see why the traditional game theoretic solution concept of a Nash equilibrium is too weak to capture the notion of evolutionary stability, consider the game of figure 1. There are two Nash equilibria in pure strategies: ⟦M⟧ and ⟦M⟧ . Since a Nash equilibrium is a set of mutual best responses, no player can improve their payoff by adopting a different strategy, but a Nash equilibrium allows for the possibility that a player who deviates from their equilibrium strategy receives the same payoff."
+  },
+  {
+   "i": 17,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Hawk. Initiate aggressive behaviour, and do not stop until injured or until one’s opponent backs down. Dove. Retreat immediately if one’s opponent initiates aggressive behaviour.",
+   "md_text": "Hawk. Initiate aggressive behaviour, and do not stop until injured or until one’s opponent backs down. Dove. Retreat immediately if one’s opponent initiates aggressive behaviour."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Evolutionary Game Theory",
+ "authors": [
+  "Alexander, J. McKenzie"
+ ]
+}

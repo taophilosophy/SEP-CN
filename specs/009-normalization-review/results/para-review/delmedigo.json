@@ -1,0 +1,234 @@
+{
+ "slug": "delmedigo",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 44,
+ "n_md": 44,
+ "n_pairs": 18,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9989281886387996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987528950650276,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992545657845695,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988717562993606,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974952114336231,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982020855807263,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994568169473113,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987193853049464,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967051070840197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995698924731182,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9942196531791907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.96875,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "以利亚·德尔·梅第戈 Delmedigo, Elijah (Michael Engel)",
+  "zh_h1": "以利亚·德尔·梅第戈 Delmedigo, Elijah (Michael Engel)",
+  "yuanwen_h1": "Elijah Delmedigo",
+  "html_title": "Elijah Delmedigo",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 22,
+  "p→p": 5,
+  "ul→∅": 2,
+  "h3→h3": 3,
+  "ol→ol": 1,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A common trait of Del Medigo’s literary output is a clear taste for Aristotelian philosophy in its Averroist guise. This is manifested both in his translations and commentaries on Averroes, as well as in the Beḥinat ha-Dat (although Averroes’ name is not mentioned in that work, for reasons which will be discussed below). Despite this overarching feature, Del Medigo’s oeuvre is also characterized by a dichotomy, geographical in as much as it is linguistic, religious and intellectual: Crete vs. It",
+   "md_text": "A common trait of Del Medigo’s literary output is a clear taste for Aristotelian philosophy in its Averroist guise. This is manifested both in his translations and commentaries on Averroes, as well as in the Beḥinat ha-Dat (although Averroes’ name is not mentioned in that work, for reasons which will be discussed below). Despite this overarching feature, Del Medigo’s oeuvre is also characterized by a dichotomy, geographical in as much as it is linguistic, religious and intellectual: Crete vs. It"
+  },
+  {
+   "i": 24,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The intellect is individuated as a material disposition (The view of Alexander of Aphrodisias) The intellect is individuated yet not as material disposition but as separate substance (A view which Del Medigo attributes to the “Theologians” but which in all likelihood is aimed at the Paduan Thomists)",
+   "md_text": "The intellect is individuated as a material disposition (The view of Alexander of Aphrodisias) The intellect is individuated yet not as material disposition but as separate substance (A view which Del Medigo attributes to the “Theologians” but which in all likelihood is aimed at the Paduan Thomists)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Elijah Delmedigo",
+ "authors": [
+  "Engel, Michael"
+ ]
+}

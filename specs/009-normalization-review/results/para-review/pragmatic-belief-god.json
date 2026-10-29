@@ -1,0 +1,505 @@
+{
+ "slug": "pragmatic-belief-god",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 148,
+ "n_md": 160,
+ "n_pairs": 100,
+ "n_flags": 0,
+ "n_merged": 36,
+ "merged": [
+  {
+   "ratio": 0.9994001199760048,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974424552429667,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973142345568488,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990049751243781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948453608247423,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986737400530504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9832775919732442,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973089343379978,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.997867803837953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990574929311969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993355481727575,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983391212441491,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988717562993606,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99958071278826,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990592662276576,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995584988962473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943117178612059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999546485260771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979409746053535,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.997029702970297,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998639455782313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.988929889298893,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9646017699115044,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.995850622406639,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9964771011575239,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979919678714859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996297667530544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972688255950058,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989281886387996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998805256869773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993493819128172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995294117647059,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992641648270787,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "实用主义论证与上帝信仰 pragmatic arguments and belief in God (Jeff Jordan and Elizabeth Jackson)",
+  "zh_h1": "实用主义论证与上帝信仰 pragmatic arguments and belief in God (Jeff Jordan and Elizabeth Jackson)",
+  "yuanwen_h1": "Pragmatic Arguments and Belief in God",
+  "html_title": "Pragmatic Arguments and Belief in God",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "p→p": 66,
+  "blockquote→∅": 8,
+  "p→∅": 31,
+  "ol→ol": 8,
+  "blockquote→blockquote": 13,
+  "ul→∅": 1,
+  "dl→∅": 4,
+  "ol→∅": 2,
+  "table→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 3,
+  "merged×1(p→p)": 18,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×3(p+p+ul→p+p+ul)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p)": 1,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×1(table→table)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 98,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This argument rests on several controversial assumptions. For one, the argument assumes that a divine conferral of purpose is necessary for one’s life to have meaning and purpose. Presumably, the idea is that a self-conferral of purpose would be arbitrary and limited by human ignorance or uncertainty as to what is genuinely worthwhile. A conferral by God, however, would not be arbitrary as God would confer only a purpose that is objectively worthwhile. Another assumption is that objective meanin",
+   "md_text": "This argument rests on several controversial assumptions. For one, the argument assumes that a divine conferral of purpose is necessary for one’s life to have meaning and purpose. Presumably, the idea is that a self-conferral of purpose would be arbitrary and limited by human ignorance or uncertainty as to what is genuinely worthwhile. A conferral by God, however, would not be arbitrary as God would confer only a purpose that is objectively worthwhile. Another assumption is that objective meanin"
+  },
+  {
+   "i": 6,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Doing α brings about, or contributes in bringing about, β, and It is in your interest that β obtain. So, You have reason to do α.",
+   "md_text": "Doing α brings about, or contributes in bringing about, β, and It is in your interest that β obtain. So, You have reason to do α."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Pragmatic Arguments and Belief in God",
+ "authors": [
+  "Jordan, Jeff"
+ ]
+}

@@ -1,0 +1,892 @@
+{
+ "slug": "berkeley",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 196,
+ "n_md": 220,
+ "n_pairs": 120,
+ "n_flags": 24,
+ "n_merged": 47,
+ "merged": [
+  {
+   "ratio": 0.9981634527089073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998868778280543,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986550100874243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929078014184397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991245987744383,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984544049459042,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9887820512820513,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955005624296963,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990867579908675,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965527147371445,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961744452945677,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990043146365748,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953917050691244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979943842759728,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984202211690363,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937694704049844,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991235758106923,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999603017070266,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951749095295537,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976403964134025,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974883387154646,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "h4"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "h4"
+   ]
+  },
+  {
+   "ratio": 0.9859154929577465,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977846699158175,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976342129208371,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989281886387996,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957081545064378,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962009286618827,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998546511627907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978165938864629,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924242424242424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973554967888175,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953379953379954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997020854021847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948717948717949,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996367598982928,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992248062015504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985185185185185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972486772486773,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975124378109452,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982788296041308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976780185758514,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9795918367346939,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986550100874243,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981785063752276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9583333333333334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "乔治·贝克莱 Berkeley, George (Lisa Downing and David Hilbert)",
+  "zh_h1": "乔治·贝克莱 Berkeley, George (Lisa Downing and David Hilbert)",
+  "yuanwen_h1": "George Berkeley",
+  "html_title": "George Berkeley",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 61,
+  "p→p": 54,
+  "h3→h3": 7,
+  "h4→h4": 23,
+  "blockquote→blockquote": 24,
+  "ol→ol": 4,
+  "blockquote→∅": 12,
+  "h4→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 25,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(blockquote+p+h4→blockquote+p+h4)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×6(p+p+blockquote+p+p+blockquote→p+p+blockquote+p+p+blockquote)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 190,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "blockquote",
+   "html_text": null,
+   "md_text": "Berkeley, G., [W], The Works of George Berkeley, Bishop of Cloyne, A.A. Luce and T.E. Jessop (eds.), London: Thomas Nelson and Sons, 9 volumes, 1948–1957."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 191,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[PC]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 192,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Philosophical Commentaries” ([W] 1:9–104)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 193,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[NTV]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 194,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "An Essay Towards a New Theory of Vision ([W] 1:171–239)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 195,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[PHK]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 196,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Of the Principles of Human Knowledge: Part 1 ([W] 2:41–113)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 197,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[IP]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 198,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Introduction” to the Principles ([W] 2:25–40)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 199,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[PO]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 200,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "A Discourse on Passive Obedience ([W] 6:14–46)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 201,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[3D]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 202,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Three Dialogues between Hylas and Philonous ([W] 2:163–263)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 203,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[DM]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 204,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "De Motu, or The Principle and Nature of Motion and the Cause of the Communication of Motions, trans. A.A. Luce ([W] 4:31–52)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 205,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[A]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 206,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Alciphron, or the Minute Philosopher ([W] 3:21–329)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 207,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "[S]"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 208,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Siris: A Chain of Philosophical Reflexions and Inquiries, etc ([W] 5:31–164)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 209,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "A collection, useful to students, of primary texts constituting background to Berkeley or early critical reactions to Berkeley:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 210,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "More early reactions to Berkeley:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 211,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Bibliographical studies"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 212,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "References cited"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 213,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Additional Selected Secondary Literature"
+  }
+ ],
+ "spot": [
+  {
+   "i": 140,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One way to solve this problem is to appeal to geometric facts related to vision and this is the approach taken by Descartes and Malebranche among others. If both eyes fixate on an object at a moderate distance, then the angle defined by the optic axes of the two eyes will specify the distance of that object (given the distance between the eyes). The closer to parallel the optic axes of the two eyes are, the further away the object is. Visual perception of distance relies, according to this propo",
+   "md_text": "One way to solve this problem is to appeal to geometric facts related to vision and this is the approach taken by Descartes and Malebranche among others. If both eyes fixate on an object at a moderate distance, then the angle defined by the optic axes of the two eyes will specify the distance of that object (given the distance between the eyes). The closer to parallel the optic axes of the two eyes are, the further away the object is. Visual perception of distance relies, according to this propo"
+  },
+  {
+   "i": 15,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "We perceive ordinary objects (houses, mountains, etc.). We perceive only ideas.",
+   "md_text": "We perceive ordinary objects (houses, mountains, etc.). We perceive only ideas."
+  }
+ ],
+ "supplements": [
+  "activism.html",
+  "meaning.html"
+ ],
+ "meta_title": "George Berkeley",
+ "authors": [
+  "Downing, Lisa",
+  "Hilbert, David"
+ ]
+}

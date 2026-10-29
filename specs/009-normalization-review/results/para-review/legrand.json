@@ -1,0 +1,119 @@
+{
+ "slug": "legrand",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 30,
+ "n_md": 30,
+ "n_pairs": 18,
+ "n_flags": 0,
+ "n_merged": 5,
+ "merged": [
+  {
+   "ratio": 0.9995324918186068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999400479616307,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993920972644377,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999566974595843,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "安托万·勒·格兰德 Le Grand, Antoine (Patricia Easton)",
+  "zh_h1": "安托万·勒·格兰德 Le Grand, Antoine (Patricia Easton)",
+  "yuanwen_h1": "Antoine Le Grand",
+  "html_title": "Antoine Le Grand",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 10,
+  "p→∅": 10,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Le Grand’s account of sensations and ideas is orthodox in its Cartesianism, although ampliative in interesting ways. Sensory impressions are what mediate the external object and our mind’s idea of it, and they consist in nothing more than the immediate motions of the sensory organs in the body. Such motions are produced by a natural necessity and they share no similarity or affinity with the particular objects that cause them. Like Descartes, Le Grand used the example of a sword wounding the bod",
+   "md_text": "Le Grand’s account of sensations and ideas is orthodox in its Cartesianism, although ampliative in interesting ways. Sensory impressions are what mediate the external object and our mind’s idea of it, and they consist in nothing more than the immediate motions of the sensory organs in the body. Such motions are produced by a natural necessity and they share no similarity or affinity with the particular objects that cause them. Like Descartes, Le Grand used the example of a sword wounding the bod"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Antoine Le Grand",
+ "authors": [
+  "Easton, Patricia"
+ ]
+}

@@ -1,0 +1,605 @@
+{
+ "slug": "jaina-philosophy",
+ "letter": "j",
+ "state": "flagged",
+ "n_html": 144,
+ "n_md": 143,
+ "n_pairs": 65,
+ "n_flags": 4,
+ "n_merged": 37,
+ "merged": [
+  {
+   "ratio": 0.999766736645673,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957264957264957,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9914443885254152,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990766389658357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962699220074601,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957674314992203,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942857142857143,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9949553744664338,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997289972899729,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9975369458128078,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942122186495177,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945625308947108,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9925415949512335,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988181221273802,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984224364592462,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988674971687429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984939759036144,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994972347913524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982734806629834,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999348109517601,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957736877982277,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976762199845082,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986754966887417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984480082772892,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985558077161131,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972314507198228,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979513444302177,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9887039239001189,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986468200270636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994666666666666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953949698901877,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980806142034548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989687177724303,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985324332257117,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983952070182947,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "耆那教哲学 Jaina Philosophy (Marie-Hélène Gorisse)",
+  "zh_h1": "耆那教哲学 Jaina Philosophy (Marie-Hélène Gorisse)",
+  "yuanwen_h1": "Jaina Philosophy",
+  "html_title": "Jaina Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "h3→h3": 13,
+  "p→∅": 62,
+  "ol→∅": 3,
+  "blockquote→blockquote": 6,
+  "p→p": 29,
+  "ol→ol": 1,
+  "blockquote→∅": 6,
+  "ul→∅": 5,
+  "h4→h4": 4,
+  "ul→ul": 4,
+  "h3→∅": 2,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+p→p+p)": 6,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×3(p+p+ul→p+p+ul)": 1,
+  "merged×2(ul+p→ul+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×2(ol+p→ol+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "delete",
+   "i": 134,
+   "j": null,
+   "ratio": null,
+   "shape_h": "h3",
+   "shape_m": null,
+   "html_text": "Primary literature",
+   "md_text": null
+  },
+  {
+   "kind": "delete",
+   "i": 135,
+   "j": null,
+   "ratio": null,
+   "shape_h": "ul",
+   "shape_m": null,
+   "html_text": "[AJP] Haribhadrasūri, Anekāntajayapatākā , in Anekāntajayapatākā , 2 vols., Hiralal Rasikdas Kapadia (ed.), Baroda: Gaekwad’s Oriental Series 88/105, 1940. [ĀMī] Samantabhadra, Āptamīmāṁsā , in Āpta-mīmāṁsā of Āchārya Samantabhadra , Saratchandra Ghoshal (trans.), Delhi: Bharatiya Jnanpith, 2002. [ĀS] Āyāraṃgasutta , in Gaina Sûtras, Part 1 ( Sacred Books of the East 22), Hermann Jacobi (trans.), Oxford: Clarendon Press, 1884. New edition, Jaina Sutras , Delhi: Motilal Banarsidass, 1964. [GS] Nemicandra, Gommaṭasāra , in Gommatsara Jiva-Kanda (the soul) , Rai Bahadur J. L. Jainia (trans.), The Sacred books of the Jainas 5, Lucknow: The Central Jaina Publishin House, 1927. [JTBh] Yaśovijaya, Jainatarkabhāṣā , in Jainatarkabhāṣā , Sukhlalji Sanghvi, Mahendra Kumar and Dalsukh Malvania (eds.)",
+   "md_text": null
+  },
+  {
+   "kind": "delete",
+   "i": 136,
+   "j": null,
+   "ratio": null,
+   "shape_h": "h3",
+   "shape_m": null,
+   "html_text": "Secondary literature",
+   "md_text": null
+  },
+  {
+   "kind": "delete",
+   "i": 137,
+   "j": null,
+   "ratio": null,
+   "shape_h": "ul",
+   "shape_m": null,
+   "html_text": "Bajželj, Ana, 2013, “The Jain Ontological Model According to Kundakunda and Umāsvāti”, Asian Studies , 1(1): 3–16. doi:10.4312/as.2013.1.1.3-16 –––, 2018, “Kundakunda on Modal Modifications of Omniscient Jīvas”, in Balbir and Flügel 2018: 97–111. Balbir, Nalini, 1999, “About a Jain Polemical Work of the Seventeenth Century”, in Approaches to Jaina Studies: Philosophy, Logic, Rituals and Symbols , N. K. Wagle and Olle Qvarnström (eds.), (South Asian Studies Papers 11), Toronto, Ontario: University of Toronto, Centre for South Asian Studies, 1–18. Balbir, Nalini and Peter Flügel (eds.), 2018, Jaina Studies: Select Papers Presented in the “Jaina Studies” Section at the 16th World Sanskrit Conference, Bangkok, Thailand & the 14th World Sanskrit Conference, Kyoto, Japan , New Delhi, India: DK P",
+   "md_text": null
+  }
+ ],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "ĀS 1.1.21. For the sake of survival, for the sake of praise, honor, reverence, for the sake of birth, death, liberation, for the sake of prevention of miseries… ĀS 1.1.22. …some monk either indulges himself in action causing violence to the beings or earth-body through various kinds of weapons, makes others to cause violence to the beings of earth-body, or approve of others causing violence to the beings of earth-body. ĀS 1.1.23. Such an act of violence proves baneful for him. Such an act of vio",
+   "md_text": "ĀS 1.1.21. For the sake of survival, for the sake of praise, honor, reverence, for the sake of birth, death, liberation, for the sake of prevention of miseries… ĀS 1.1.22. …some monk either indulges himself in action causing violence to the beings or earth-body through various kinds of weapons, makes others to cause violence to the beings of earth-body, or approve of others causing violence to the beings of earth-body. ĀS 1.1.23. Such an act of violence proves baneful for him. Such an act of vio"
+  },
+  {
+   "i": 10,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "practices of non-violence, such as not eating meat, not drinking non-filtered water containing microscopic forms of life, or walking with extreme caution and restrictions; practices towards self-control, like meditation or mortification of the flesh; practices of abstinence, in the line of no sexual intercourse, no food for given periods of time, non-possession up to the nudity of some monks; and penances, today mainly consisting in fasts and recitation of prayers.",
+   "md_text": "practices of non-violence, such as not eating meat, not drinking non-filtered water containing microscopic forms of life, or walking with extreme caution and restrictions; practices towards self-control, like meditation or mortification of the flesh; practices of abstinence, in the line of no sexual intercourse, no food for given periods of time, non-possession up to the nudity of some monks; and penances, today mainly consisting in fasts and recitation of prayers."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Jaina Philosophy",
+ "authors": [
+  "Gorisse, Marie-Hélène"
+ ]
+}

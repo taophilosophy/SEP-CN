@@ -1,0 +1,767 @@
+{
+ "slug": "emotion",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 206,
+ "n_md": 208,
+ "n_pairs": 95,
+ "n_flags": 7,
+ "n_merged": 47,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990509332489719,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983416252072969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992464204973625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971412235563178,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991928974979822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946380697050938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9980379332897319,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990557129367328,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991638795986622,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987222080245336,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985141158989599,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998669623059867,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984259796205782,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985272459499264,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985096870342772,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960474308300395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991039426523297,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987745098039216,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983136593591906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985443959243085,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984748347737672,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990689013035382,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994472084024323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986244841815681,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986046511627907,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989270386266095,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989665862900448,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988156336360048,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998928475756764,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989594172736732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987764376857193,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998639455782313,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990202939118265,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993373094764745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995489400090212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984795829713293,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991382494152407,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991738950846758,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967567567567568,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976525821596244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986040018613308,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991168678245511,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991499008217626,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9940239043824701,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9582577132486388,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "情感 emotion (Andrea Scarantino and Ronald de Sousa)",
+  "zh_h1": "情感 emotion (Andrea Scarantino and Ronald de Sousa)",
+  "yuanwen_h1": "Emotion",
+  "html_title": "Emotion",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 14,
+  "p→∅": 107,
+  "p→p": 56,
+  "ul→∅": 2,
+  "blockquote→blockquote": 13,
+  "h3→h3": 10,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 9,
+  "merged×1(p→p)": 21,
+  "merged×1(ul→ul)": 2,
+  "merged×3(p+p+p→p+p+p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×10(p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 3,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 131,
+   "j": 132,
+   "ratio": 0.10848549946294307,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Different constructionists describe the way in which emotions are built out of core affect and other ingredients in different ways. For example, in Barrett’s influential Conceptual Act View, conceptualization plays a key role (Barrett 2006, 2013, 2017; Barrett & Satpute 2013). Being afraid amounts to categorizing a core affective state of high arousal and high displeasure under the “fear” concept. Being happy amounts to categorizing a core affective state of high arousal and high pleasure under the “happiness” concept. More generally, Barrett (2017) takes emotions to be experiences that emerge from the categorization of sensations from one’s own body and the world. This view, which resembles Schachter and Singer’s (1962) cognition-arousal theory and merges themes from the Feeling Tradition",
+   "md_text": "![two concentric rings of words. The inner ring has, starting at the east, 'PLEASANT', 'happy', 'elated', 'excited', 'alert', 'DEACTIVATION' [south], 'contented', 'serene', 'relaxed', 'calm', 'UNPLEASANT' [west], 'fatigued', 'lethargic', 'depressed', 'sad', 'ACTIVATION' ]north], 'tense', 'nervous', 'stressed', 'upset'. Lines connect 'ACTIVATION' and 'DEACTIVATION' and also 'PLEASANT' and 'UNPLEASANT'. The outer ring has 'Sadness' (between 'depressed' and 'sad' of the inner ring), 'Disgust' (between 'upset' and 'stressed'), 'Anger' (between 'stressed' and 'nervous'), 'Fear' (between 'nervous' and 'tense'), 'Surprise' (above 'ACTIVATION'), 'Happiness' (between 'elated' and 'happy'). A black circle links the outer ring words.](../assets/emotion/fig1.svg)"
+  },
+  {
+   "kind": "replace",
+   "i": 132,
+   "j": 133,
+   "ratio": 0.2541371158392435,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Russell (2003) considers conceptualization to affect only the meta-experience of emotion, i.e., the realization that one is afraid, and allows emotion episodes to be constructed without the involvement of categorization. On his view, there are a variety of independent causal mechanisms, rather than any emotion-specific mechanism, that explain why there is some degree of correlation between expressive, autonomic and behavioral changes in emotional episodes, even though it is emphasized that the correlations are much weaker than what Ekman’s (1999a) model would predict (Russell 2012).",
+   "md_text": "Different constructionists describe the way in which emotions are built out of core affect and other ingredients in different ways. For example, in Barrett’s influential Conceptual Act View, conceptualization plays a key role (Barrett 2006, 2013, 2017; Barrett & Satpute 2013) . Being afraid amounts to categorizing a core affective state of high arousal and high displeasure under the “fear” concept. Being happy amounts to categorizing a core affective state of high arousal and high pleasure under the “happiness” concept. More generally, Barrett (2017) takes emotions to be experiences that emerge from the categorization of sensations from one’s own body and the world. This view, which resembles Schachter and Singer’s (1962) cognition-arousal theory and merges themes from the Feeling Traditio"
+  },
+  {
+   "kind": "replace",
+   "i": 133,
+   "j": 134,
+   "ratio": 0.17248752672843906,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In recent times, some proposals have been made to integrate psychological constructionism with other research programs. Some have suggested that progress lies in merging appraisal theory with Russell’s version of psychological constructionism and have offered a general theory of how emotional action tendencies are caused by the weighing of the expected utilities of action options (Moors 2017). Others have proposed that we sharply distinguish between the phenomenological and the motivational side of affective phenomena, handing out the motivational side of (some) basic emotions to a new theory of survival circuits and reserving folk psychological emotion terms to designate feelings exclusively, with the latter understood as cognitively constructed (LeDoux 2015, 2017; note the contrast with ",
+   "md_text": "Russell (2003) considers conceptualization to affect only the meta-experience of emotion, i.e., the realization that one is afraid, and allows emotion episodes to be constructed without the involvement of categorization. On his view, there are a variety of independent causal mechanisms, rather than any emotion-specific mechanism, that explain why there is some degree of correlation between expressive, autonomic and behavioral changes in emotional episodes, even though it is emphasized that the correlations are much weaker than what Ekman’s (1999a) model would predict (Russell 2012) ."
+  },
+  {
+   "kind": "replace",
+   "i": 134,
+   "j": 135,
+   "ratio": 0.23115577889447236,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Another option with some elements of overlap with psychological constructionism is social constructionism. The social constructionist approach found its first advocates in the 1920’s when a number of anthropologists and social scientists started questioning Darwin’s (1872) evidence for the universality of emotional expressions (e.g., Allport 1924; Landis 1924; Klineberg 1940).",
+   "md_text": "In recent times, some proposals have been made to integrate psychological constructionism with other research programs. Some have suggested that progress lies in merging appraisal theory with Russell’s version of psychological constructionism and have offered a general theory of how emotional action tendencies are caused by the weighing of the expected utilities of action options (Moors 2017) . Others have proposed that we sharply distinguish between the phenomenological and the motivational side of affective phenomena, handing out the motivational side of (some) basic emotions to a new theory of survival circuits and reserving folk psychological emotion terms to designate feelings exclusively, with the latter understood as cognitively constructed (LeDoux 2015, 2017; note the contrast with"
+  },
+  {
+   "kind": "replace",
+   "i": 135,
+   "j": 136,
+   "ratio": 0.24146341463414633,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "These researchers initiated what we may call the “cultural variability” strand of social constructionism, related to the thesis that emotions are different in several essential respects in different cultures. These differences have since been shown with respect to both the emotion lexicon (e.g., Russell 1991; Wierzbicka 1999) and the diagnostic characteristics of emotions (e.g., Mesquita & Frijda 1992; Mesquita & Parkinson forthcoming).",
+   "md_text": "Another option with some elements of overlap with psychological constructionism is social constructionism. The social constructionist approach found its first advocates in the 1920’s when a number of anthropologists and social scientists started questioning Darwin’s (1872) evidence for the universality of emotional expressions (e.g., Allport 1924; Landis 1924; Klineberg 1940) ."
+  },
+  {
+   "kind": "replace",
+   "i": 136,
+   "j": 137,
+   "ratio": 0.2863372093023256,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The strand of social constructionism that is more germane to the Motivational Tradition is the “social role” strand, related to the thesis that emotions fulfill social functions by virtue of which they should be considered actions or roles rather than passions (see, e.g., Solomon 1976 and Averill 1990 on the “myth of passions”). Jean Paul Sartre (1939 [1948]) can be considered the first to offer a general, although idiosyncratic, theory of emotions as social roles, a view developed in the early 1980s by philosophers (e.g., Harré 1986, Armon-Jones 1986), psychologists (e.g., Averill 1980), and anthropologists (e.g., Lutz 1988). In recent times, Parkinson (1995, 2008, 2009), Parkinson, Fischer, and Manstead (2005), Griffiths (2004), Mesquita and Boiger (2014) and Van Kleef (2016) have articu",
+   "md_text": "These researchers initiated what we may call the “cultural variability” strand of social constructionism, related to the thesis that emotions are different in several essential respects in different cultures. These differences have since been shown with respect to both the emotion lexicon (e.g., Russell 1991; Wierzbicka 1999) and the diagnostic characteristics of emotions (e.g., Mesquita & Frijda 1992; Mesquita & Parkinson forthcoming) ."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 138,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The strand of social constructionism that is more germane to the Motivational Tradition is the “social role” strand, related to the thesis that emotions fulfill social functions by virtue of which they should be considered actions or roles rather than passions (see, e.g., Solomon 1976 and Averill 1990 on the “myth of passions”) . Jean Paul Sartre (1939 [1948]) can be considered the first to offer a general, although idiosyncratic, theory of emotions as social roles, a view developed in the early 1980s by philosophers (e.g., Harré 1986, Armon-Jones 1986) , psychologists (e.g., Averill 1980) , and anthropologists (e.g., Lutz 1988). In recent times, Parkinson (1995, 2008, 2009), Parkinson, Fischer, and Manstead (2005), Griffiths (2004), Mesquita and Boiger (2014) and Van Kleef (2016) have art"
+  }
+ ],
+ "spot": [
+  {
+   "i": 195,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Emotion episodes involve, at least in prototypical cases, a set of evaluative, physiological, phenomenological, expressive, behavioral, and mental components that are diagnostic of emotions and are to some degree correlated with one another. The degree to which these correlations are instantiated continues to be a central topic of theoretical debate: latent variable models assume that emotions cause the changes in components and expect to find strong correlations, whereas emergent variable model",
+   "md_text": "Emotion episodes involve, at least in prototypical cases, a set of evaluative, physiological, phenomenological, expressive, behavioral, and mental components that are diagnostic of emotions and are to some degree correlated with one another. The degree to which these correlations are instantiated continues to be a central topic of theoretical debate: latent variable models assume that emotions cause the changes in components and expect to find strong correlations, whereas emergent variable model"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Emotion",
+ "authors": [
+  "Scarantino, Andrea",
+  "de Sousa, Ronald"
+ ]
+}

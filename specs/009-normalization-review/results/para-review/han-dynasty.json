@@ -1,0 +1,396 @@
+{
+ "slug": "han-dynasty",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 111,
+ "n_md": 111,
+ "n_pairs": 34,
+ "n_flags": 0,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9985074626865672,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982412944073162,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979119210326499,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994356659142212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981738495252008,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982291051772632,
+   "n_h": 15,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984561945194905,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979846835953244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948717948717949,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979128402070463,
+   "n_h": 14,
+   "n_m": 14,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987408184679958,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999429982899487,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993050729673384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987797437461867,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997145304025121,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979815455594002,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999330207635633,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9968992248062015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中国汉代哲学 Han Dynasty (Alexus McLeod)",
+  "zh_h1": "中国汉代哲学 Han Dynasty (Alexus McLeod)",
+  "yuanwen_h1": "Philosophy in Han Dynasty China",
+  "html_title": "Philosophy in Han Dynasty China",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 58,
+  "h3→h3": 9,
+  "p→p": 13,
+  "blockquote→∅": 17,
+  "blockquote→blockquote": 4,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×7(p+blockquote+p+p+p+p+p→p+blockquote+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×15(p+p+p+p+blockquote+p+p+p+blockquote+p+p+blockquote+p+p+p→p+p+p+p+blockquote+p+p+p+blockquote+p+p+blockquote+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×14(p+p+p+blockquote+p+p+p+blockquote+p+blockquote+p+blockquote+p+blockquote→p+p+p+blockquote+p+p+p+blockquote+p+blockquote+p+blockquote+p+blockquote)": 1,
+  "merged×6(p+p+blockquote+p+p+blockquote→p+p+blockquote+p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×4(blockquote+p+blockquote+p→blockquote+p+blockquote+p)": 1,
+  "merged×5(blockquote+p+p+p+p→blockquote+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 56,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "While the literature of criticism had long been a part of Chinese intellectual culture, in Huan’s work we begin to see more direct and incisive criticism, rather than the carefully expressed, indirect, and suggestive criticism we see earlier in the Western Han, when fu poetry was a dominant form of presentation of critique and literary subtlety and indirectness were prized. Such indirect criticism through fu poetry was still practiced in the Eastern Han, by masters of the art such as Cai Yong, b",
+   "md_text": "While the literature of criticism had long been a part of Chinese intellectual culture, in Huan’s work we begin to see more direct and incisive criticism, rather than the carefully expressed, indirect, and suggestive criticism we see earlier in the Western Han, when fu poetry was a dominant form of presentation of critique and literary subtlety and indirectness were prized. Such indirect criticism through fu poetry was still practiced in the Eastern Han, by masters of the art such as Cai Yong, b"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy in Han Dynasty China",
+ "authors": [
+  "McLeod, Alexus"
+ ]
+}

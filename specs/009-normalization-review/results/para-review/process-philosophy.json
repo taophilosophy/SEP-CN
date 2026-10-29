@@ -1,0 +1,298 @@
+{
+ "slug": "process-philosophy",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 75,
+ "n_pairs": 34,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9997290413482902,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987846378220709,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979260705136025,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995855781185247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997584884216508,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9991503823279524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984307209452599,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980738726489916,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972468644845518,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983601180714988,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982545962299278,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999282742791565,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981481481481481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990693345742205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9924528301886792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "过程哲学 process philosophy (Johanna Seibt)",
+  "zh_h1": "过程哲学 process philosophy (Johanna Seibt)",
+  "yuanwen_h1": "Process Philosophy",
+  "html_title": "Process Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 33,
+  "p→p": 20,
+  "ul→ul": 1,
+  "ol→∅": 1,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+ol→p+p+ol)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A special branch of process thought opened up in late 18th and early 19th century German Idealism, when Johann G. Fichte, Friedrich W. J. Schelling, and Georg W. F. Hegel responded to Immanuel Kant’s system of a transcendental idealism. All three of these thinkers alerted to the processual nature of the “transcendental subject,” and aimed to overcome Kant’s incongruous postulate of unknowable “things in themselves” by focusing on the process by which the world of knowable appearances, including ",
+   "md_text": "A special branch of process thought opened up in late 18th and early 19th century German Idealism, when Johann G. Fichte, Friedrich W. J. Schelling, and Georg W. F. Hegel responded to Immanuel Kant’s system of a transcendental idealism. All three of these thinkers alerted to the processual nature of the “transcendental subject,” and aimed to overcome Kant’s incongruous postulate of unknowable “things in themselves” by focusing on the process by which the world of knowable appearances, including "
+  },
+  {
+   "i": 17,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Claim 1: The basic assumptions of the ‘substance paradigm’ (i.e., a metaphysics based on static entities such as substances, objects, states of affairs, or instantaneous stages) are dispensable theoretical presuppositions rather than laws of thought. Claim 2: Process-based theories perform just as well or better than substance-based theories in application to the familiar philosophical topics identified within the substance paradigm. Claim 3: There are other important philosophical topics that c",
+   "md_text": "Claim 1: The basic assumptions of the ‘substance paradigm’ (i.e., a metaphysics based on static entities such as substances, objects, states of affairs, or instantaneous stages) are dispensable theoretical presuppositions rather than laws of thought. Claim 2: Process-based theories perform just as well or better than substance-based theories in application to the familiar philosophical topics identified within the substance paradigm. Claim 3: There are other important philosophical topics that c"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Process Philosophy",
+ "authors": [
+  "Seibt, Johanna"
+ ]
+}

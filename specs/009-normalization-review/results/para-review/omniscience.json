@@ -1,0 +1,334 @@
+{
+ "slug": "omniscience",
+ "letter": "o",
+ "state": "ok",
+ "n_html": 69,
+ "n_md": 87,
+ "n_pairs": 29,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9988805970149254,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9873417721518988,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959839357429718,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978386167146974,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990069513406157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998403066113063,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987076764021711,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961783439490446,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975170701427685,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9885057471264368,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986275048037332,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992865151360718,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991589571068125,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992301770592764,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986984815618222,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968924798011187,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999683644416324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9910313901345291,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "全知 omniscience (Edward Wierenga)",
+  "zh_h1": "全知 omniscience (Edward Wierenga)",
+  "yuanwen_h1": "Omniscience",
+  "html_title": "Omniscience",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 17,
+  "dl→∅": 9,
+  "p→∅": 25,
+  "ul→∅": 2,
+  "h3→h3": 4,
+  "blockquote→∅": 3,
+  "merged×1(preamble→p+blockquote+p+p)": 1,
+  "merged×1(dl→p+p)": 2,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p)": 1,
+  "merged×4(ul+p+p+dl→ul+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×3(p+p+dl→p+p+p+p)": 1,
+  "merged×3(p+dl+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 49,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Kretzmann (1966) raised a second problem for omniscience. He held that each of us possesses special “first-person” knowledge, knowledge not available to anyone else. He illustrates this with the example of what Jones knows when he knows that he himself is in the hospital. What Jones knows is not simply the proposition that Jones is in the hospital, for he might fail to believe this proposition if his hospitalization is for amnesia. Conversely, Jones could know that Jones is in the hospital by re",
+   "md_text": "Kretzmann (1966) raised a second problem for omniscience. He held that each of us possesses special “first-person” knowledge, knowledge not available to anyone else. He illustrates this with the example of what Jones knows when he knows that he himself is in the hospital. What Jones knows is not simply the proposition that Jones is in the hospital, for he might fail to believe this proposition if his hospitalization is for amnesia. Conversely, Jones could know that Jones is in the hospital by re"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Omniscience",
+ "authors": [
+  "Wierenga, Edward"
+ ]
+}

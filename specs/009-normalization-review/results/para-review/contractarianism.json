@@ -1,0 +1,200 @@
+{
+ "slug": "contractarianism",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 41,
+ "n_md": 42,
+ "n_pairs": 22,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9996233521657251,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992301770592764,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996378123868164,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996278377372534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992197659297789,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986642920747997,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991796554552912,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994694960212201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990783410138249,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995193078032366,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9621621621621622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "自利契约论 contractarianism (Ann Cudd and Seena Eftekhari)",
+  "zh_h1": "自利契约论 contractarianism (Ann Cudd and Seena Eftekhari)",
+  "yuanwen_h1": "Contractarianism",
+  "html_title": "Contractarianism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 12,
+  "p→∅": 17,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 28,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A descriptive use to which contractarianism has been put is to exploit the exclusionary, in-group/out-group nature of the contractarian project to illuminate the phenomenon of oppression. Carole Pateman’s The Sexual Contract (1989) uses contractarian theory to argue that there has been an implicit contract among men to enforce patriarchy. She calls her approach a “conjectural history,” which she uses both to illuminate the actual history of patriarchal oppression of women and the ideology of soc",
+   "md_text": "A descriptive use to which contractarianism has been put is to exploit the exclusionary, in-group/out-group nature of the contractarian project to illuminate the phenomenon of oppression. Carole Pateman’s The Sexual Contract (1989) uses contractarian theory to argue that there has been an implicit contract among men to enforce patriarchy. She calls her approach a “conjectural history,” which she uses both to illuminate the actual history of patriarchal oppression of women and the ideology of soc"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Contractarianism",
+ "authors": [
+  "Cudd, Ann",
+  "Eftekhari, Seena"
+ ]
+}

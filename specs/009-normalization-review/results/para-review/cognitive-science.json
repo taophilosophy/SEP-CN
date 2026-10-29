@@ -1,0 +1,174 @@
+{
+ "slug": "cognitive-science",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 81,
+ "n_md": 81,
+ "n_pairs": 70,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9994612068965517,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983136593591906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9824561403508771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998003992015968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978118161925602,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99830220713073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958883358580394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9992952783650458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9604221635883905,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "认知科学 cognitive science (Paul Thagard)",
+  "zh_h1": "认知科学 cognitive science (Paul Thagard)",
+  "yuanwen_h1": "Cognitive Science",
+  "html_title": "Cognitive Science",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 9,
+  "p→p": 35,
+  "h3→h3": 13,
+  "blockquote→blockquote": 10,
+  "ul→∅": 1,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(ul→ul)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Cognitive science has unifying theoretical ideas, but we have to appreciate the diversity of outlooks and methods that researchers in different fields bring to the study of mind and intelligence. Although cognitive psychologists today often engage in theorizing and computational modeling, their primary method is experimentation with human participants. People, often undergraduates satisfying course requirements, are brought into the laboratory so that different kinds of thinking can be studied u",
+   "md_text": "Cognitive science has unifying theoretical ideas, but we have to appreciate the diversity of outlooks and methods that researchers in different fields bring to the study of mind and intelligence. Although cognitive psychologists today often engage in theorizing and computational modeling, their primary method is experimentation with human participants. People, often undergraduates satisfying course requirements, are brought into the laboratory so that different kinds of thinking can be studied u"
+  },
+  {
+   "i": 69,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The emotion challenge: Cognitive science neglects the important role of emotions in human thinking. The consciousness challenge: Cognitive science ignores the importance of consciousness in human thinking. The world challenge: Cognitive science disregards the significant role of physical environments in human thinking, which is embedded in and extended into the world. The body challenge: Cognitive science neglects the contribution of embodiment to human thought and action. The dynamical systems ",
+   "md_text": "The emotion challenge: Cognitive science neglects the important role of emotions in human thinking. The consciousness challenge: Cognitive science ignores the importance of consciousness in human thinking. The world challenge: Cognitive science disregards the significant role of physical environments in human thinking, which is embedded in and extended into the world. The body challenge: Cognitive science neglects the contribution of embodiment to human thought and action. The dynamical systems "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Cognitive Science",
+ "authors": [
+  "Thagard, Paul"
+ ]
+}

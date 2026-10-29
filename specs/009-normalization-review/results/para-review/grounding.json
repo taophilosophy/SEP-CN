@@ -1,0 +1,508 @@
+{
+ "slug": "grounding",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 147,
+ "n_md": 164,
+ "n_pairs": 85,
+ "n_flags": 0,
+ "n_merged": 32,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986291980808774,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998934583422118,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998733215100076,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999395039322444,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999168744804655,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982486865148862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989626556016598,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998015873015873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990045789368903,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984350547730829,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9914786967418546,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980879541108987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9795918367346939,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9868421052631579,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952061361457335,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987893462469734,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998939179632249,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975152473458324,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991941982272361,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962321024868124,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.998652896273013,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980439034992393,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990662931839402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982708933717579,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926910299003322,
+   "n_h": 10,
+   "n_m": 19,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978627404417003,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975124378109452,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988213503956895,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978094194961665,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "形而上学奠基 grounding, metaphysical (Ricki Bliss and Kelly Trogdon)",
+  "zh_h1": "形而上学奠基 grounding, metaphysical (Ricki Bliss and Kelly Trogdon)",
+  "yuanwen_h1": "Metaphysical Grounding",
+  "html_title": "Metaphysical Grounding",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 47,
+  "h3→h3": 15,
+  "p→∅": 50,
+  "ul→ul": 13,
+  "dl→∅": 9,
+  "ul→∅": 1,
+  "ol→ol": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(p→p)": 14,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×10(dl+p+dl+p+dl+p+dl+p+dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 42,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although this characterization is appealing, it has its limitations. Clearly, contemporary philosophers are interested in questions of grounding in addition to questions about grounding. What might be less clear, however, is that, on the face it, the historical literature is by no means short of attempts at engaging with questions about grounding in addition to questions of grounding. Consider, for example, cosmological arguments. In broad strokes, the thought is that the totality of contingent ",
+   "md_text": "Although this characterization is appealing, it has its limitations. Clearly, contemporary philosophers are interested in questions of grounding in addition to questions about grounding. What might be less clear, however, is that, on the face it, the historical literature is by no means short of attempts at engaging with questions about grounding in addition to questions of grounding. Consider, for example, cosmological arguments. In broad strokes, the thought is that the totality of contingent "
+  },
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "While we will introduce some symbols for expressing facts below, we won’t adopt any particular formal language for expressing grounding relationships, so we needn’t adopt either predicationism or connectivism. For ease of presentation, however, we will formulate grounding claims with the predicate grounds and speak as if this predicate expresses a relation—the grounding relation—such that collections of one or more facts ground particular facts. (See, however, Dasgupta 2014b and Litland 2018a fo",
+   "md_text": "While we will introduce some symbols for expressing facts below, we won’t adopt any particular formal language for expressing grounding relationships, so we needn’t adopt either predicationism or connectivism. For ease of presentation, however, we will formulate grounding claims with the predicate grounds and speak as if this predicate expresses a relation—the grounding relation—such that collections of one or more facts ground particular facts. (See, however, Dasgupta 2014b and Litland 2018a fo"
+  },
+  {
+   "i": 21,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "[The truckers are picketing] grounds [The truckers are striking]. [The truck exists] grounds [Thus-and-so particular redness exists]. [The bowl’s constituent atoms are bonded in thus-and-so way] grounds [The bowl is brittle]. [The bowl is brittle], [The truckers are striking] grounds [The bowl is brittle and the truckers are striking].",
+   "md_text": "[The truckers are picketing] grounds [The truckers are striking]. [The truck exists] grounds [Thus-and-so particular redness exists]. [The bowl’s constituent atoms are bonded in thus-and-so way] grounds [The bowl is brittle]. [The bowl is brittle], [The truckers are striking] grounds [The bowl is brittle and the truckers are striking]."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Metaphysical Grounding",
+ "authors": [
+  "Bliss, Ricki",
+  "Trogdon, Kelly"
+ ]
+}

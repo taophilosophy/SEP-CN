@@ -1,0 +1,311 @@
+{
+ "slug": "qt-idind",
+ "letter": "q",
+ "state": "flagged",
+ "n_html": 76,
+ "n_md": 78,
+ "n_pairs": 34,
+ "n_flags": 3,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9993610223642172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998478856099787,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995494819041898,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994941831057157,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996023856858847,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989515283490604,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987457444902347,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996115297956647,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997513056453619,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986578682473997,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996184662342618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992729035385362,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993364299933643,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990027921818907,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "量子理论中的同一性和个体性 identity and individuality in (Steven French and Tomasz Bigaj)",
+  "zh_h1": "量子理论中的同一性和个体性 identity and individuality in (Steven French and Tomasz Bigaj)",
+  "yuanwen_h1": "Identity and Individuality in Quantum Theory",
+  "html_title": "Identity and Individuality in Quantum Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 19,
+  "p→∅": 40,
+  "figure→∅": 1,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 4,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 13,
+   "j": 13,
+   "ratio": 0.5384615384615384,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "(1) (2) (3) Figures",
+   "md_text": "Figures"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 14,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "image",
+   "html_text": null,
+   "md_text": "(1) (2) (3)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 15,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figures"
+  }
+ ],
+ "spot": [
+  {
+   "i": 61,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Unfortunately, the analogy is problematic. Statistical mechanics does not say that the above situation never occurs but only that the probability of its occurrence is extremely low. The question then reduces to that of ‘why is this probability so low?’ The answer to that is typically given in terms of the very low number of states corresponding to the tea boiling compared to the vast number of states for which it remains cold. Why, then, this disparity in the number of accessible states? Or, equ",
+   "md_text": "Unfortunately, the analogy is problematic. Statistical mechanics does not say that the above situation never occurs but only that the probability of its occurrence is extremely low. The question then reduces to that of ‘why is this probability so low?’ The answer to that is typically given in terms of the very low number of states corresponding to the tea boiling compared to the vast number of states for which it remains cold. Why, then, this disparity in the number of accessible states? Or, equ"
+  },
+  {
+   "i": 16,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "If a particle permutation ⟦M⟧ is applied to any state function for an assembly of particles, then there is no way of distinguishing the resulting permuted state function from the original unpermuted one by means of any observation at any time.",
+   "md_text": "If a particle permutation ⟦M⟧ is applied to any state function for an assembly of particles, then there is no way of distinguishing the resulting permuted state function from the original unpermuted one by means of any observation at any time."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Identity and Individuality in Quantum Theory",
+ "authors": [
+  "French, Steven",
+  "Bigaj, Tomasz"
+ ]
+}

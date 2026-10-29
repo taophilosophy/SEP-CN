@@ -1,0 +1,657 @@
+{
+ "slug": "umar-khayyam",
+ "letter": "u",
+ "state": "ok",
+ "n_html": 174,
+ "n_md": 177,
+ "n_pairs": 90,
+ "n_flags": 0,
+ "n_merged": 44,
+ "merged": [
+  {
+   "ratio": 0.9961932650073206,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940452560539896,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.986858838490886,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9977876106194691,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943836831214898,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985096870342772,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978064830611747,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970760233918129,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970089730807578,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970501474926253,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971830985915493,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996551724137931,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9877717391304348,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9945292724748918,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9919422061683801,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982142857142857,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972436604189636,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946351931330472,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "h2",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968152866242038,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965635738831615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992795389048992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946666666666667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968911917098445,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9969493593654668,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997716894977169,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991993594875901,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953271028037384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978070175438597,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9939086294416244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.995263656457215,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969992498124531,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968010236724248,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99945085118067,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973368841544608,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949579831932773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993220338983051,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961554891072192,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996947230702137,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999245283018868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984350547730829,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978858350951374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9959623149394348,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)",
+  "zh_h1": "欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)",
+  "yuanwen_h1": "Umar Khayyam",
+  "html_title": "Umar Khayyam",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 59,
+  "blockquote→∅": 16,
+  "p→p": 42,
+  "ol→∅": 5,
+  "blockquote→blockquote": 10,
+  "ol→ol": 9,
+  "h3→h3": 19,
+  "h3→∅": 1,
+  "h2→∅": 1,
+  "p→mathblock": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→blockquote+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 2,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×1(p→p)": 16,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(blockquote→blockquote)": 5,
+  "merged×2(p+blockquote→p+blockquote)": 3,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×7(p+p+blockquote+p+blockquote+p+p→p+p+blockquote+p+blockquote+p+p)": 1,
+  "merged×2(h3+p→h3+p)": 1,
+  "merged×3(ol+p+p→ol+p+p)": 1,
+  "merged×4(p+ol+p+p→p+ol+p+p)": 1,
+  "merged×4(h2+blockquote+p+p→h2+blockquote+p+p)": 1,
+  "merged×4(p+blockquote+p+blockquote→p+blockquote+p+blockquote)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(ol+p+p+p→ol+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 163,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In America, Umar Khayyam was well received in the New England area where his poetry was propagated by the official members of the Omar Khayyām Club of America. The academic community discovered Khayyam’s mathematical writings and poetry in the 1880s, when his scholarly articles and translations of his works were published. Some, such as William Edward Story, praised Umar as a mathematician and compared his views with those of Johannes Kepler, Gottfried Wilhelm Leibniz, and Isaac Newton, while ot",
+   "md_text": "In America, Umar Khayyam was well received in the New England area where his poetry was propagated by the official members of the Omar Khayyām Club of America. The academic community discovered Khayyam’s mathematical writings and poetry in the 1880s, when his scholarly articles and translations of his works were published. Some, such as William Edward Story, praised Umar as a mathematician and compared his views with those of Johannes Kepler, Gottfried Wilhelm Leibniz, and Isaac Newton, while ot"
+  },
+  {
+   "i": 140,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Book II of “Commentary on the Difficulties of Certain Postulates of Euclid’s Work” takes up the question of the proper definition of ratio. This topic is obscure to the modern reader, but it was fundamental to Greek and medieval mathematics. If the quantities joined in a ratio are whole numbers, then the definition of their ratio poses no difficulty. If the quantities are geometric magnitudes, the situation is more complicated because the two line segments might be incommensurable (in modern ter",
+   "md_text": "Book II of “Commentary on the Difficulties of Certain Postulates of Euclid’s Work” takes up the question of the proper definition of ratio. This topic is obscure to the modern reader, but it was fundamental to Greek and medieval mathematics. If the quantities joined in a ratio are whole numbers, then the definition of their ratio poses no difficulty. If the quantities are geometric magnitudes, the situation is more complicated because the two line segments might be incommensurable (in modern ter"
+  },
+  {
+   "i": 13,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The existence of God, His attributes and knowledge Hierarchy of Existents and the problem of multiplicity Eschatology Theodicy Predeterminism and free will Subjects and predicates Existence and essence",
+   "md_text": "The existence of God, His attributes and knowledge Hierarchy of Existents and the problem of multiplicity Eschatology Theodicy Predeterminism and free will Subjects and predicates Existence and essence"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Umar Khayyam",
+ "authors": [
+  "Mousavian, Seyed N.",
+  "Sumner, Suzanne",
+  "Aminrazavi, Mehdi",
+  "Van Brummelen, Glen"
+ ]
+}

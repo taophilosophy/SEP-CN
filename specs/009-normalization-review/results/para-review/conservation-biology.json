@@ -1,0 +1,684 @@
+{
+ "slug": "conservation-biology",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 167,
+ "n_md": 180,
+ "n_pairs": 96,
+ "n_flags": 11,
+ "n_merged": 39,
+ "merged": [
+  {
+   "ratio": 0.999000999000999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990662931839402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973103819257665,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985984583041345,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998533724340176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961811238406983,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986096091456821,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985514244326412,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986754966887417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992418498862775,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982019008476753,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969604863221885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985486211901307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993506493506493,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984251968503937,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995389580451821,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977753058954394,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990889766170665,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994453688297282,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989764585465711,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994694960212201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987893462469734,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985865724381625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976076555023924,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949238578680203,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992087912087912,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948529411764706,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982698961937716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981547196593329,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997864768683274,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983281585860998,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992787794729542,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993752342871424,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999247554552295,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9920844327176781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9596774193548387,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "保育生物学 conservation biology (Jay Odenbaugh)",
+  "zh_h1": "保育生物学 conservation biology (Jay Odenbaugh)",
+  "yuanwen_h1": "Conservation Biology",
+  "html_title": "Conservation Biology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 65,
+  "blockquote→blockquote": 18,
+  "p→p": 38,
+  "h3→h3": 10,
+  "p→mathblock": 14,
+  "figure→p": 4,
+  "ul→ul": 2,
+  "ol→ol": 2,
+  "figure→∅": 2,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 18,
+  "merged×2(p+p→p+p)": 9,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×3(p+p+figure→p+p+p+table+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 33,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2:"
+  },
+  {
+   "kind": "replace",
+   "i": 88,
+   "j": 90,
+   "ratio": 0.1592920353982301,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "A B Figure 3: Equilibrium model and explanation of the species area effect (MacArthur & Wilson 1967: 26)",
+   "md_text": "Figure 3:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 91,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[3a: a first quadrant graph with the y-axis labeled 'rate' and the x-axis labeled 's'. Two diagonal lines go from the upper left and the mid-upper left to the same point on the x-axis at the lower right. The upper left one is labeled 'near' and the mid-upper left is labeled 'far'. Two lines go from the origin at approximately 60 and 30 degrees. The 60 degree line is labeled 'small' and the 30 degree line is labeled 'large'. At the intersection of 'small' and 'near' lines a diagonal line drops to the x-axis. Another diagonal line goes from the intersection of 'large' and 'near'. Solid lines drop from the intersection of 'far' and 'small' and 'far' and 'large'.]](../assets/conservation-biology/fig3a.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 92,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "A"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 93,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[ 3b: a first quadrant graph with the y-axis labeled 'I' and the x-axis labeled with a circumflexed s. A diagonal line goes from the upper left to lower right and the x-axis intersection is labeled 'P'. Another line goes from the origin at about 45 degrees. A dash line goes from point 'P' to the 45 degree line and at the intersection is labeled 'E'. From the intersection of the diagonal line and the 45 degree line another dash line drops to the x-axis. That line is labeled 'x'.]](../assets/conservation-biology/fig3b.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 94,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "B"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3: Equilibrium model and explanation of the species area effect (MacArthur & Wilson 1967: 26)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 101,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 102,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[6 rows, in the center of each row is a letter, A through F descending. In the A row is a large circle on the left and a medium circles on the right. The B row has a medium circle on the left and 4 small circles in a compact 2x2 array. The C row has the compact 2x2 array of small circles on the left and a far less compact 2x2 array of small circles on the right. The D row has 3 small circles in a compact triangular formation on the left and 3 small circles in a row on the right. The E row has 3 small circles in a row connected by corridors on the left and 3 unconnected circles in a row on the right (same as D's right). The F row has a small circle on the left and a wide but vertically narrow blob on the right]](../assets/conservation-biology/Diamond.jpeg)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 116,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 5:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 117,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A graph captioned with 'Feasible and Non-Dominated Solutions', the y-axis is labeled 'Social Cost' and marked from 0.00E+00 to 8.00E+06 and the x-axis is labeled 'Economic Cost' and marked from 1.45E+08 to 1.80E+08. The legend has solid squares labeled 'Feasible Solutions' and solid circles labeled 'Non-Dominated Solutions'. The graph itself has the 28 or so squares scattered between 3.00E+06 and 6.00E+06 (on the y) and 1.50E+08 and 1.65E+08 (on the x). 2 squares are outliers, one at 7.00E+06 and 1.63E+08 (y,x) and the other at 6.00E+06 and 1.75E+08. The two circles are at 3.00E+06 and 1.46E+08 (y,x) and at 2.50E+06 and 1.55E+08.]](../assets/conservation-biology/Sarkar.jpeg)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 110,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Philosophers of science have thought of the core questions of the discipline as these. What is the structure of scientific theories? What is the logic of confirmation of theories by evidence? What is a scientific explanation? What is scientific objectivity and does the presence of values in science thwart that objectivity? With regard to the Lande’s metapopulation model and MacArthur and Wilson’s equilibrium model, we can ask the first three questions. First, we can recognize that these are mode",
+   "md_text": "Philosophers of science have thought of the core questions of the discipline as these. What is the structure of scientific theories? What is the logic of confirmation of theories by evidence? What is a scientific explanation? What is scientific objectivity and does the presence of values in science thwart that objectivity? With regard to the Lande’s metapopulation model and MacArthur and Wilson’s equilibrium model, we can ask the first three questions. First, we can recognize that these are mode"
+  },
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 26,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: Raup’s coiling patterns in mollusks morphospace (Raup 1966)",
+   "md_text": "Figure 1: Raup’s coiling patterns in mollusks morphospace (Raup 1966)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Conservation Biology",
+ "authors": [
+  "Odenbaugh, Jay"
+ ]
+}

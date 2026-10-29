@@ -1,0 +1,238 @@
+{
+ "slug": "moral-non-naturalism",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 63,
+ "n_md": 69,
+ "n_pairs": 36,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9989274570982839,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993876301285977,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990794722307457,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986989331251627,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995692996812817,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993986770895971,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996571820363387,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995747093847462,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992435703479576,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996611318197222,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997070026369763,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993928354584092,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993069993069993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "道德非自然主义 moral non-naturalism (Michael Ridge)",
+  "zh_h1": "道德非自然主义 moral non-naturalism (Michael Ridge)",
+  "yuanwen_h1": "Moral Non-Naturalism",
+  "html_title": "Moral Non-Naturalism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 25,
+  "p→p": 25,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 56,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The debate over non-naturalism is difficult to resolve in part because the issues often hinge on fundamentally different methodological starting points. Advocates of non-naturalism tend to be less concerned with finding a place for value and obligation in the world as revealed by science and more interested in taking our common sense conception of morality as given and seeing what it implicitly presupposes. Non-naturalism’s opponents, by contrast, put a great deal of weight on explaining our mor",
+   "md_text": "The debate over non-naturalism is difficult to resolve in part because the issues often hinge on fundamentally different methodological starting points. Advocates of non-naturalism tend to be less concerned with finding a place for value and obligation in the world as revealed by science and more interested in taking our common sense conception of morality as given and seeing what it implicitly presupposes. Non-naturalism’s opponents, by contrast, put a great deal of weight on explaining our mor"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Moral Non-Naturalism",
+ "authors": [
+  "Ridge, Michael"
+ ]
+}

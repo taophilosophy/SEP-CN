@@ -1,0 +1,218 @@
+{
+ "slug": "hume-freewill",
+ "letter": "h",
+ "state": "flagged",
+ "n_html": 87,
+ "n_md": 90,
+ "n_pairs": 70,
+ "n_flags": 1,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994242947610823,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992845900701102,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990749306197965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994520547945206,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997064866451424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996164173379364,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996244836650394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994334277620397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996283909327388,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997501873594804,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "休谟论自由意志 on free will (Paul Russell)",
+  "zh_h1": "休谟论自由意志 on free will (Paul Russell)",
+  "yuanwen_h1": "Hume on Free Will",
+  "html_title": "Hume on Free Will",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 51,
+  "p→∅": 12,
+  "blockquote→∅": 2,
+  "blockquote→blockquote": 8,
+  "ul→∅": 2,
+  "h3→h3": 1,
+  "merged×1(preamble→blockquote+p+p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 82,
+   "j": 85,
+   "ratio": 0.9182156133828996,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Hume Texts Online [Peter Millican]. . The Hume Society . David Hume , entry by James Fieser, in the Internet Encyclopedia of Philosophy . Compatibilism: Can free will and determinism co-exist? , John Perry, in the Stanford News Service . LINK CHECKER-->",
+   "md_text": "[Hume Texts Online [Peter Millican].](https://davidhume.org/scholarship/). The Hume Society. David Hume, entry by James Fieser, in the Internet Encyclopedia of Philosophy. Compatibilism: Can free will and determinism co-exist?, John Perry, in the Stanford News Service. LINK CHECKER-->"
+  }
+ ],
+ "spot": [
+  {
+   "i": 57,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Hume’s views about the relationship between virtue and voluntariness do much to explain one of the most controversial aspects of his theory of virtue: his view that the natural abilities should be incorporated into the virtues and vices (T 3.3.4; EM App 4). With respect to this issue he makes two key points. The first is that natural abilities (i.e., intelligence, imagination, memory, wit, etc.) and moral virtues more narrowly understood are “equally mental qualities” (T 3.3.4.1/606). Second, bo",
+   "md_text": "Hume’s views about the relationship between virtue and voluntariness do much to explain one of the most controversial aspects of his theory of virtue: his view that the natural abilities should be incorporated into the virtues and vices (T 3.3.4; EM App 4). With respect to this issue he makes two key points. The first is that natural abilities (i.e., intelligence, imagination, memory, wit, etc.) and moral virtues more narrowly understood are “equally mental qualities” (T 3.3.4.1/606). Second, bo"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Hume on Free Will",
+ "authors": [
+  "Russell, Paul"
+ ]
+}

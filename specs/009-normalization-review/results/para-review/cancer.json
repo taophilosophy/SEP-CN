@@ -1,0 +1,369 @@
+{
+ "slug": "cancer",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 79,
+ "n_md": 84,
+ "n_pairs": 33,
+ "n_flags": 0,
+ "n_merged": 23,
+ "merged": [
+  {
+   "ratio": 0.9950083194675541,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995180722891567,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993751301812123,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994141769185706,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997265518184304,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996086105675147,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990077396308792,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990412272291467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986970684039088,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996202050892518,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982238010657194,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996461429582448,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995529727313366,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999063845721775,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991304347826087,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986468200270636,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996318114874816,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994678020223523,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999395039322444,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911462822220481,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9951923076923077,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9682539682539683,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "癌症 cancer (Anya Plutynski and Lucie Laplane)",
+  "zh_h1": "癌症 cancer (Anya Plutynski and Lucie Laplane)",
+  "yuanwen_h1": "Cancer",
+  "html_title": "Cancer",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 43,
+  "h3→h3": 4,
+  "p→p": 19,
+  "blockquote→blockquote": 1,
+  "ul→ul": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 9,
+  "merged×1(p→p)": 7,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 17,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Several recent efforts at cancer classification use network, “deep learning” methods or AI to mine data to identify patterns of association or clusters of common features within and across different cancer types. These methods have been used to address the so-called “curse of dimensionality” problem: i.e., sort through enormous amounts of genomic data, and speed development of tools for both diagnosis and treatment. Recent philosophical work explores a variety of methodological and conceptual ch",
+   "md_text": "Several recent efforts at cancer classification use network, “deep learning” methods or AI to mine data to identify patterns of association or clusters of common features within and across different cancer types. These methods have been used to address the so-called “curse of dimensionality” problem: i.e., sort through enormous amounts of genomic data, and speed development of tools for both diagnosis and treatment. Recent philosophical work explores a variety of methodological and conceptual ch"
+  },
+  {
+   "i": 51,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "First, when we speak of cancer stem cells, we may be referring to their capacities, or to their historical role or genealogy, i.e., to the fact that they were the cells from which other cancer cells originate. That is, some take cancer stem cells to be defined in terms of their distinctive capacities and some in terms of their relationship to other cells—in particular, to their ancestor-descendent relationships in a population of cells in a tumor. The “cancer stem cell model” is sometimes simply",
+   "md_text": "First, when we speak of cancer stem cells, we may be referring to their capacities, or to their historical role or genealogy, i.e., to the fact that they were the cells from which other cancer cells originate. That is, some take cancer stem cells to be defined in terms of their distinctive capacities and some in terms of their relationship to other cells—in particular, to their ancestor-descendent relationships in a population of cells in a tumor. The “cancer stem cell model” is sometimes simply"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Cancer",
+ "authors": [
+  "Plutynski, Anya",
+  "Laplane, Lucie"
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "slug": "dilthey",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 131,
+ "n_md": 134,
+ "n_pairs": 112,
+ "n_flags": 5,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9994478188845941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989417989417989,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980302035456337,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965108164689462,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982978723404256,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995271867612293,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943502824858758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977172958735733,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.991869918699187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9634146341463414,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "威廉·狄尔泰 Dilthey, Wilhelm (Rudolf Makkreel)",
+  "zh_h1": "威廉·狄尔泰 Dilthey, Wilhelm (Rudolf Makkreel)",
+  "yuanwen_h1": "Wilhelm Dilthey",
+  "html_title": "Wilhelm Dilthey",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "h3→h3": 5,
+  "p→p": 70,
+  "p→∅": 16,
+  "blockquote→blockquote": 26,
+  "blockquote→∅": 2,
+  "h4→h4": 3,
+  "ul→∅": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "delete",
+   "i": 9,
+   "j": null,
+   "ratio": null,
+   "shape_h": "p",
+   "shape_m": null,
+   "html_text": "-",
+   "md_text": null
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 124,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "1860 Schleiermacher’s Hermeneutical System in Relation to Earlier Protestant Hermeneutics*, in SW.IV, 33–227. 1864* “Versuch einer Analyse des moralischen Bewußtseins”, in GS.VI, 1–28. 1867* “Die dichterische und philosophische Bewegung in Deutschland 1770–1800,” in GS.V, 12–30. ca. 1880–93 Drafts for Volume II for the Introduction to the Human Sciences*, in SW.I, 243–458. 1883 Introduction to the Human Sciences (Volume I), in SW.I, 47–242. 1887 Poetics, in SW.V, 29–174. 1890a “The Origin of Our Belief in the Reality of the External World and Its Justification,” in SW.II, 8–57. 1890b System of Ethics*, in GS.X. 1892 “The Three Epochs of Modern Aesthetics and Its Present Task,” in SW.V, 175–222. 1894 “Ideas for a Descriptive and Analytic Psychology,” SW.II, 115–210. 1895–6 “Contributions to"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 125,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Modern Editions and Collections"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 126,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[GS] Gesammelte Schriften, 26 vols., Göttingen: Vandenhoeck & Ruprecht, 1914–2006. Cited volumes: Die Jugendgeschichte Hegels und andere Abhandlungen zur Geschichte des Deutschen Idealismus, H. Nohl (ed.), 1921. Die geistige Welt. Einleitung in die Philosophie des Lebens. Erste Hälfte: Abhandlungen zur Grundlegung der Geisteswissenschaften, G. Misch (ed.), 1924. Die geistige Welt. Einleitung in die Philosophie des Lebens. Zweite Hälfte: Abhandlungen zur Poetik, Ethik und Pädagogik, G. Misch (ed.), 1924b. Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften, B. Groethuysen (ed.), 1927. System der Ethik, H. Nohl (ed.), 1965. [SW] Selected Works, R.A. Makkreel and F. Rodi (eds.), Princeton, NJ: Princeton University Press, 1985–2010. Cited volumes: Introduction to the Human Science"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 127,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  }
+ ],
+ "spot": [
+  {
+   "i": 121,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The normative implications of anthropological reflection about life and history also led Dilthey to address the value of worldviews. Just as the nature of universal history forces us to conceive of history as more than a human science, so worldviews are more broadly based attempts at acquiring a unified perspective on life. The sciences are by their nature partial and cannot provide a comprehensive worldview. A worldview attempts to provide not only a cognitive picture of the world, but also an ",
+   "md_text": "The normative implications of anthropological reflection about life and history also led Dilthey to address the value of worldviews. Just as the nature of universal history forces us to conceive of history as more than a human science, so worldviews are more broadly based attempts at acquiring a unified perspective on life. The sciences are by their nature partial and cannot provide a comprehensive worldview. A worldview attempts to provide not only a cognitive picture of the world, but also an "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Wilhelm Dilthey",
+ "authors": [
+  "Makkreel, Rudolf"
+ ]
+}

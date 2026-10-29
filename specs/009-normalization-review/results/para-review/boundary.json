@@ -1,0 +1,528 @@
+{
+ "slug": "boundary",
+ "letter": "b",
+ "state": "ok",
+ "n_html": 149,
+ "n_md": 232,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9980911983032874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998308310425037,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990759990759991,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988085782366958,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999070553443177,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978494623655914,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999065245840344,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995870328308899,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981538461538462,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998846301756185,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990467111534795,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990592662276576,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976126011977007,
+   "n_h": 83,
+   "n_m": 166,
+   "shape_h": [
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9937106918238994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9597014925373134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "边界 boundary (Achille Varzi)",
+  "zh_h1": "边界 boundary (Achille Varzi)",
+  "yuanwen_h1": "Boundary",
+  "html_title": "Boundary",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 37,
+  "h3→h3": 10,
+  "p→p": 8,
+  "dl→∅": 83,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×83(dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl+dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Whenever we think of an entity as distinct from its surroundings, we naturally think of a boundary. There is a boundary (a line) separating Maryland and Pennsylvania. There is a boundary (a circle) isolating the interior of a disc from its exterior. There is a boundary (a surface) enclosing the bulk of this apple. Sometimes the exact location of a boundary is unclear or otherwise controversial (as when you try to trace out the borders of a desert, the edges of a mountain, or even the boundary of",
+   "md_text": "Whenever we think of an entity as distinct from its surroundings, we naturally think of a boundary. There is a boundary (a line) separating Maryland and Pennsylvania. There is a boundary (a circle) isolating the interior of a disc from its exterior. There is a boundary (a surface) enclosing the bulk of this apple. Sometimes the exact location of a boundary is unclear or otherwise controversial (as when you try to trace out the borders of a desert, the edges of a mountain, or even the boundary of"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Boundary",
+ "authors": [
+  "Varzi, Achille"
+ ]
+}

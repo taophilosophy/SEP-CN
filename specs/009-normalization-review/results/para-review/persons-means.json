@@ -1,0 +1,308 @@
+{
+ "slug": "persons-means",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 80,
+ "n_md": 82,
+ "n_pairs": 45,
+ "n_flags": 1,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9987680591331616,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996769456681351,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979296066252588,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971086327963652,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984276729559748,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993856235920541,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996401583303347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966451612903225,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996199645300228,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999392589593035,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990601503759399,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990089197224975,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974747474747475,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990982867448152,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990859232175503,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993136582017845,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981549815498155,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988145639288738,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "把人当作手段 treating persons as means (Samuel Kerstein)",
+  "zh_h1": "把人当作手段 treating persons as means (Samuel Kerstein)",
+  "yuanwen_h1": "Treating Persons as Means",
+  "html_title": "Treating Persons as Means",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 25,
+  "blockquote→∅": 3,
+  "p→∅": 31,
+  "h3→h3": 4,
+  "h4→h4": 3,
+  "blockquote→blockquote": 4,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 7,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 23,
+   "j": 25,
+   "ratio": 0.8733459357277883,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This interpretation of the false promising case leads naturally to the view that a sufficient condition for an agent’s treating another merely as a means is that it is logically impossible for the other to share the end the agent is pursuing in using her in some way. However, this proposed sufficient condition might fail to register as treating others merely as means paradigmatic cases of doing so (Kerstein 2009: 167–168). Take, for example, a loiterer who threatens an innocent passerby with a gun in order to get $100. It would presumably be good if a sufficient condition for treating another merely as a means yielded the conclusion that the loiterer is treating the passerby merely as a means; for he is mugging her, which, intuitively speaking, seems to be a clear case of treating another ",
+   "md_text": "This interpretation of the false promising case leads naturally to the view that a sufficient condition for an agent’s treating another merely as a means is that it is logically impossible for the other to share the end the agent is pursuing in using her in some way. However, this proposed sufficient condition might fail to register as treating others merely as means paradigmatic cases of doing so (Kerstein 2009: 167–168) . Take, for example, a loiterer who threatens an innocent passerby with a gun in order to get ⟦M⟧ 100, one might argue. For example, the passerby might aim to give $100 to the loiterer, but not recognize him when he threatens her and so hands over her money to him as a result of his threat. If this possibility is realized, then the account would not count the loiterer as "
+  }
+ ],
+ "spot": [
+  {
+   "i": 62,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Regardless of whether we judge in this case that the salesperson acts wrongly, the case helps to illustrate a distinction between agent-focused and patient-focused accounts of treating or not treating another merely as a means. According to the account we are considering, let us recall, if an agent uses another, she does not use him merely as a means if he gives his voluntary, informed consent to her use of him. This account focuses on the other, that is, on the individual treated as a means to ",
+   "md_text": "Regardless of whether we judge in this case that the salesperson acts wrongly, the case helps to illustrate a distinction between agent-focused and patient-focused accounts of treating or not treating another merely as a means. According to the account we are considering, let us recall, if an agent uses another, she does not use him merely as a means if he gives his voluntary, informed consent to her use of him. This account focuses on the other, that is, on the individual treated as a means to "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Treating Persons as Means",
+ "authors": [
+  "Kerstein, Samuel"
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "slug": "language-india",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 65,
+ "n_md": 65,
+ "n_pairs": 20,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9997292174383969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996571950940809,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958592852917638,
+   "n_h": 12,
+   "n_m": 12,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977426636568849,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969328637964331,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970536240424278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945051955823949,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99795605518651,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981701738334858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996654399464704,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9966329966329966,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "古典印度哲学中的语言与证言 language and testimony (Madhav Deshpande)",
+  "zh_h1": "古典印度哲学中的语言与证言 language and testimony (Madhav Deshpande)",
+  "yuanwen_h1": "Language and Testimony in Classical Indian Philosophy",
+  "html_title": "Language and Testimony in Classical Indian Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 41,
+  "p→p": 8,
+  "blockquote→blockquote": 1,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×12(p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×9(p+p+p+p+p+ol+p+p+p→p+p+p+p+p+ol+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "By the time we come to the classical philosophical systems in India, one more assumption is made by almost all Hindu systems, i.e., that all the Vedas together form a coherent whole. The human authorship of the Vedic texts has long been rejected, and they are now perceived either as being entirely uncreated and eternal or created by God at the beginning of each cycle of creation. Under the assumption that they are entirely uncreated, their innate ability to convey truthful meaning is unhampered ",
+   "md_text": "By the time we come to the classical philosophical systems in India, one more assumption is made by almost all Hindu systems, i.e., that all the Vedas together form a coherent whole. The human authorship of the Vedic texts has long been rejected, and they are now perceived either as being entirely uncreated and eternal or created by God at the beginning of each cycle of creation. Under the assumption that they are entirely uncreated, their innate ability to convey truthful meaning is unhampered "
+  }
+ ],
+ "supplements": [
+  "chronology.html"
+ ],
+ "meta_title": "Language and Testimony in Classical Indian Philosophy",
+ "authors": [
+  "Deshpande, Madhav"
+ ]
+}

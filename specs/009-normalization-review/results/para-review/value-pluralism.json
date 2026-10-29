@@ -1,0 +1,273 @@
+{
+ "slug": "value-pluralism",
+ "letter": "v",
+ "state": "ok",
+ "n_html": 104,
+ "n_md": 111,
+ "n_pairs": 82,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9990470414970112,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996637114032406,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980119284294234,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966216216216216,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985250737463127,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994499449944995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987937273823885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985935302390999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983857949959645,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973958333333334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982788296041308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991150442477876,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9831932773109243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990243902439024,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998165137614679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993876301285977,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997536338999754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "价值多元主义 pluralism (Elinor Mason)",
+  "zh_h1": "价值多元主义 pluralism (Elinor Mason)",
+  "yuanwen_h1": "Value Pluralism",
+  "html_title": "Value Pluralism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 13,
+  "p→∅": 19,
+  "blockquote→blockquote": 11,
+  "p→p": 48,
+  "blockquote→∅": 2,
+  "table→table": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(p→p)": 11,
+  "merged×1(blockquote→blockquote)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 93,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Raz’s view about the nature of agency is defended in great detail over the course of many articles, and all of those arguments cannot be examined in detail here. What is crucial in the context of this discussion of pluralism is whether Raz gives us a satisfactory account of the weaker sense of rational. Raz’s solution to the problem of incommensurability hangs on the claim that it can be rational (in the weak sense) to choose A over B when there are no further reasons favouring A over B. We shal",
+   "md_text": "Raz’s view about the nature of agency is defended in great detail over the course of many articles, and all of those arguments cannot be examined in detail here. What is crucial in the context of this discussion of pluralism is whether Raz gives us a satisfactory account of the weaker sense of rational. Raz’s solution to the problem of incommensurability hangs on the claim that it can be rational (in the weak sense) to choose A over B when there are no further reasons favouring A over B. We shal"
+  },
+  {
+   "i": 49,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Non-evaluative description of option Intermediate description of option Evaluative description of option Painting a picture → Producing x units of beauty → Producing y units of value Reading a book → Producing x units of knowledge → Producing y units of value",
+   "md_text": "Non-evaluative description of option Intermediate description of option Evaluative description of option Painting a picture → Producing x units of beauty → Producing y units of value Reading a book → Producing x units of knowledge → Producing y units of value"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Value Pluralism",
+ "authors": [
+  "Mason, Elinor"
+ ]
+}

@@ -1,0 +1,665 @@
+{
+ "slug": "chisholm",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 203,
+ "n_md": 209,
+ "n_pairs": 137,
+ "n_flags": 7,
+ "n_merged": 44,
+ "merged": [
+  {
+   "ratio": 0.9982905982905983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997229916897507,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971428571428571,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947229551451188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9953679876479671,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9930555555555556,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.991636798088411,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9965349965349966,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9911504424778761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977053694355209,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996401583303347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989417989417989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998003992015968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983333333333333,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994941831057157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987995198079231,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972222222222222,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9918918918918919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960707269155207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966515658853654,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982847341337907,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994142259414226,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975470155355682,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991518235793045,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986013986013986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993552546744036,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950980392156863,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981210071401728,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977528089887641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9968676585747847,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993792675356921,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999479979199168,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985228951255539,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988610478359908,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934065934065934,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.987012987012987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9873417721518988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988109393579072,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.991864406779661,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9914738124238733,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993346640053227,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998745294855709,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9883527454242929,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "罗德里克·奇泽姆 Chisholm, Roderick (Richard Feldman and Fred Feldman)",
+  "zh_h1": "罗德里克·奇泽姆 Chisholm, Roderick (Richard Feldman and Fred Feldman)",
+  "yuanwen_h1": "Roderick Chisholm",
+  "html_title": "Roderick Chisholm",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 16,
+  "p→p": 114,
+  "blockquote→∅": 18,
+  "p→∅": 46,
+  "blockquote→blockquote": 3,
+  "ol→ol": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(blockquote→blockquote)": 12,
+  "merged×1(p→p)": 18,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 197,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[PPS] Perceiving: A Philosophical Study, Ithaca: Cornell University Press, 1957 [TK1] Theory of knowledge, Englewood Cliffs, N.J.: Prentice Hall, 1 ⟦P⟧ ⟦P⟧ edition, 1966; 2 ⟦P⟧ ⟦P⟧ edition, 1977 [TK2]; 3rd edition 1989 [TK3]. [P&O] Person and Object: A Metaphysical Study, La Salle, IL: Open Court, 1976. [FP] The First Person: An Essay on Reference and Intentionality, Minneapolis: University of Minnesota Press, 1981. [FK] The Foundations of Knowing, Minneapolis: University of Minnesota Press, 1982. [B&IV] Brentano and Intrinsic Value, Cambridge and New York: Cambridge University Press, 1986. [OM] On Metaphysics, Minneapolis: University of Minnesota Press, 1989. [RTC] A Realistic Theory of Categories: An Essay on Ontology, Cambridge and New York: Cambridge University Press, 1996."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 198,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Cited Articles by Chisholm"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 199,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 200,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Collections"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 201,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[A&M] Analysis and Metaphysics: Essays in Honor of Roderick Chisholm, (Philosophical Studies Series in Philosophy: Volume 4), Keith Lehrer (ed.), Dordrecht: D. Reidel Publishing Company, 1975. [RMCp] Roderick M. Chisholm (Profiles: Volume 7), Radu J. Bogdan (ed.), Dordrecht: D. Reidel Publishing Company, 1986. [EPRMC] Essays on the Philosophy of Roderick M. Chisholm, Ernest Sosa (ed.), Amsterdam: Grazer Philosophische Studien, (Volumes 7–8) 1979. [LLP] The Philosophy of Roderick M. Chisholm (The Library of Living Philosophers: Volume 25), Lewis Edwin Hahn (ed.), Chicago, La Salle: Open Court, 1997. [PLRMC] Metaphilosophy (Special Issue: The Philosophical Legacy of Roderick M. Chisholm), Volume 34, Number 5, Amen T. Marsoobian (ed.), October 2003."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 202,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Cited Secondary Literature"
+  },
+  {
+   "kind": "replace",
+   "i": 202,
+   "j": 208,
+   "ratio": 0.9484126984126984,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Brentano, Franz | categories | epistemology | epistemology: naturalism in | events | free will | identity: over time | identity: transworld | intentionality | logic: deontic | perception: the problem of | self-knowledge | sense data | value: intrinsic vs. extrinsic",
+   "md_text": "Brentano, Franz categories epistemology epistemology: naturalism in events free will identity: over time identity: transworld intentionality logic: deontic perception: the problem of self-knowledge sense data value: intrinsic vs. extrinsic"
+  }
+ ],
+ "spot": [
+  {
+   "i": 56,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A famous old argument reveals something important about the identity of the ship through time. Suppose a ship (call it “Theseus 1”) was constituted by a certain collection of parts at a certain time long ago. Suppose the parts in that collection were gradually replaced by newer parts. Eventually we find ourselves with a ship (“Theseus 2”) that is the result of all this gradual replacement. It is the apparent “descendant” of Theseus 1. Suppose, however, that the cast-off parts were all saved and ",
+   "md_text": "A famous old argument reveals something important about the identity of the ship through time. Suppose a ship (call it “Theseus 1”) was constituted by a certain collection of parts at a certain time long ago. Suppose the parts in that collection were gradually replaced by newer parts. Eventually we find ourselves with a ship (“Theseus 2”) that is the result of all this gradual replacement. It is the apparent “descendant” of Theseus 1. Suppose, however, that the cast-off parts were all saved and "
+  },
+  {
+   "i": 81,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Concrete, individual objects, or “substances” Properties, attributes, qualities, relations Times Places Propositions Concrete, individual events, or “happenings” Facts Sets",
+   "md_text": "Concrete, individual objects, or “substances” Properties, attributes, qualities, relations Times Places Propositions Concrete, individual events, or “happenings” Facts Sets"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Roderick Chisholm",
+ "authors": [
+  "Feldman, Richard",
+  "Feldman, Fred"
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "slug": "utilitarianism-history",
+ "letter": "u",
+ "state": "ok",
+ "n_html": 89,
+ "n_md": 93,
+ "n_pairs": 67,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9996415770609319,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992372234935164,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999288256227758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986962190352021,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995431703974418,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996607294317218,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994962216624685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998998998998999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994100294985251,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9997538764459759,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999395039322444,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996610169491525,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991701244813278,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991714995857498,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997006884166417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994441356309061,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "功利主义史 history of (Julia Driver)",
+  "zh_h1": "功利主义史 history of (Julia Driver)",
+  "yuanwen_h1": "The History of Utilitarianism",
+  "html_title": "The History of Utilitarianism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 46,
+  "p→∅": 17,
+  "blockquote→blockquote": 7,
+  "blockquote→∅": 4,
+  "h3→h3": 4,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 10,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 3
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Jeremy Bentham (1748–1832) was influenced both by Hobbes’ account of human nature and Hume’s account of social utility. He famously held that humans were ruled by two sovereign masters — pleasure and pain. We seek pleasure and the avoidance of pain, they “…govern us in all we do, in all we say, in all we think…” (Bentham PML, 1). Yet he also promulgated the principle of utility as the standard of right action on the part of governments and individuals. Actions are approved when they are such as ",
+   "md_text": "Jeremy Bentham (1748–1832) was influenced both by Hobbes’ account of human nature and Hume’s account of social utility. He famously held that humans were ruled by two sovereign masters — pleasure and pain. We seek pleasure and the avoidance of pain, they “…govern us in all we do, in all we say, in all we think…” (Bentham PML, 1). Yet he also promulgated the principle of utility as the standard of right action on the part of governments and individuals. Actions are approved when they are such as "
+  },
+  {
+   "i": 84,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The Bentham Project",
+   "md_text": "The Bentham Project"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The History of Utilitarianism",
+ "authors": [
+  "Driver, Julia"
+ ]
+}

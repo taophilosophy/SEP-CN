@@ -1,0 +1,171 @@
+{
+ "slug": "homosexuality",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 55,
+ "n_md": 55,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9985207100591716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983372921615202,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995721009841677,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997164461247637,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998814463544754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981851179673321,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992044550517104,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996569468267581,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931972789115646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "同性恋 homosexuality (Brent Pickett)",
+  "zh_h1": "同性恋 homosexuality (Brent Pickett)",
+  "yuanwen_h1": "Homosexuality",
+  "html_title": "Homosexuality",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 11,
+  "p→p": 32,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One of the reasons for the historical review above is that it helps to give some background for understanding the claim that sexuality is socially constructed, rather than given by nature. Moreover, in order to not prejudge the issue of social constructionism versus essentialism, I avoided applying the term ‘homosexual’ to the ancient or medieval eras. In ancient Greece the gender of one’s partner(s) was not important, but instead whether one took the active or passive role. In the medieval view",
+   "md_text": "One of the reasons for the historical review above is that it helps to give some background for understanding the claim that sexuality is socially constructed, rather than given by nature. Moreover, in order to not prejudge the issue of social constructionism versus essentialism, I avoided applying the term ‘homosexual’ to the ancient or medieval eras. In ancient Greece the gender of one’s partner(s) was not important, but instead whether one took the active or passive role. In the medieval view"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Homosexuality",
+ "authors": [
+  "Pickett, Brent"
+ ]
+}

@@ -1,0 +1,519 @@
+{
+ "slug": "ontological-arguments",
+ "letter": "o",
+ "state": "ok",
+ "n_html": 160,
+ "n_md": 208,
+ "n_pairs": 114,
+ "n_flags": 0,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9992667546561079,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974222374978519,
+   "n_h": 1,
+   "n_m": 26,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929577464788732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9969481180061037,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9970588235294118,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9957356076759062,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9990850869167429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9953488372093023,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994535519125683,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993846153846154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967284623773174,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987029831387808,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988518943742825,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974443227455275,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953011533532679,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984871406959153,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994308480364257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965596330275229,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9955521667302072,
+   "n_h": 8,
+   "n_m": 18,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984909456740443,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958643507030603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9952,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9959183673469387,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9963459196102314,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9993585631815266,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953703703703703,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9994292237442922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9920364050056882,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9957627118644068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9913916786226685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "本体论论证 ontological arguments (Graham Oppy, Joshua Rasmussen, and Joseph Schmid)",
+  "zh_h1": "本体论论证 ontological arguments (Graham Oppy, Joshua Rasmussen, and Joseph Schmid)",
+  "yuanwen_h1": "Ontological Arguments",
+  "html_title": "Ontological Arguments",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 16,
+  "dl→∅": 5,
+  "p→p": 77,
+  "ol→ol": 12,
+  "ol→∅": 10,
+  "p→∅": 23,
+  "ul→ul": 1,
+  "blockquote→blockquote": 4,
+  "ul→∅": 6,
+  "blockquote→∅": 1,
+  "h3→h3": 3,
+  "merged×1(preamble→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(ol→ol)": 9,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×2(dl+p→p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×8(dl+p+p+p+dl+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ul→ul)": 5,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 133,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Perhaps one will object that, in the relevant sense, while we do understand the words ‘that than which no greater can be conceived’, we do not understand the words ‘that island than which no greater island can be conceived’. Perhaps, for example, we might suggest, following Plantinga, that, since we know a priori that there is no intrinsic maximum for the greatness of islands, we can attach no sense to the words ‘island than which no greater island can be conceived’. According to Plantinga, any ",
+   "md_text": "Perhaps one will object that, in the relevant sense, while we do understand the words ‘that than which no greater can be conceived’, we do not understand the words ‘that island than which no greater island can be conceived’. Perhaps, for example, we might suggest, following Plantinga, that, since we know a priori that there is no intrinsic maximum for the greatness of islands, we can attach no sense to the words ‘island than which no greater island can be conceived’. According to Plantinga, any "
+  },
+  {
+   "i": 97,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "A property ⟦M⟧ is positive only if its negation ⟦M⟧ is not positive. If ⟦M⟧ is positive and ⟦M⟧ entails ⟦M⟧ then ⟦M⟧ is positive. Having as essential properties all and only the positive properties is positive. Necessary existence is positive.",
+   "md_text": "A property ⟦M⟧ is positive only if its negation ⟦M⟧ is not positive. If ⟦M⟧ is positive and ⟦M⟧ entails ⟦M⟧ then ⟦M⟧ is positive. Having as essential properties all and only the positive properties is positive. Necessary existence is positive."
+  },
+  {
+   "i": 6,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Definitional ontological arguments; Conceptual (or hyperintensional) ontological arguments; Modal ontological arguments; Meinongian ontological arguments; Higher-order ontological arguments; and ‘Hegelian’ ontological arguments.",
+   "md_text": "Definitional ontological arguments; Conceptual (or hyperintensional) ontological arguments; Modal ontological arguments; Meinongian ontological arguments; Higher-order ontological arguments; and ‘Hegelian’ ontological arguments."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ontological Arguments",
+ "authors": [
+  "Oppy, Graham",
+  "Rasmussen, Joshua",
+  "Schmid, Joseph"
+ ]
+}

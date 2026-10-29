@@ -1,0 +1,387 @@
+{
+ "slug": "grice",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 130,
+ "n_md": 130,
+ "n_pairs": 91,
+ "n_flags": 0,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9994266055045872,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999690594059406,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993535875888817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992587101556709,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993089149965446,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999366687777074,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991636465012546,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992985737666589,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9892933618843683,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980314960629921,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989888776541962,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989949748743718,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998766954377312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991079393398751,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929742388758782,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9963503649635036,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996987044290448,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992706053975201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951100244498777,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9878787878787879,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.998681608437706,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992979171542242,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994205138110875,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995750106247344,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "保罗·格莱斯 Grice, Paul (Richard E. Grandy and Richard Warner)",
+  "zh_h1": "保罗·格莱斯 Grice, Paul (Richard E. Grandy and Richard Warner)",
+  "yuanwen_h1": "Paul Grice",
+  "html_title": "Paul Grice",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 13,
+  "p→p": 59,
+  "ol→ol": 5,
+  "p→∅": 29,
+  "h3→h3": 2,
+  "h4→h4": 2,
+  "blockquote→blockquote": 9,
+  "blockquote→∅": 7,
+  "ul→∅": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×1(ul→ul)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 113,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Why seek a general characterizations of the conditions for applying a concept? Because doing so can deepen “our understanding by reflection on what is already closest to us—the experiences, thoughts, concepts, and activities that make up our lives, and that ordinarily escape notice because they are so familiar” (Nagel 2009, 153). Our ability to apply or withhold an expression qualifies as “closest to us.” But why think that such an investigation of the use of an expression can, at least in some ",
+   "md_text": "Why seek a general characterizations of the conditions for applying a concept? Because doing so can deepen “our understanding by reflection on what is already closest to us—the experiences, thoughts, concepts, and activities that make up our lives, and that ordinarily escape notice because they are so familiar” (Nagel 2009, 153). Our ability to apply or withhold an expression qualifies as “closest to us.” But why think that such an investigation of the use of an expression can, at least in some "
+  },
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Perhaps the most famous application of Grice’s ideas is to the debate about whether the truth conditions of declarative conditional statements, such as “If George is driving, he will be late” are accurately captured by the material conditional. Representing the sample sentences as ‘George is driving ⟦M⟧ he will be late’ would make the sentence true if it is false that George is driving or true that he will be late (or both). Many writers argued that it would be inappropriate for someone to make ",
+   "md_text": "Perhaps the most famous application of Grice’s ideas is to the debate about whether the truth conditions of declarative conditional statements, such as “If George is driving, he will be late” are accurately captured by the material conditional. Representing the sample sentences as ‘George is driving ⟦M⟧ he will be late’ would make the sentence true if it is false that George is driving or true that he will be late (or both). Many writers argued that it would be inappropriate for someone to make "
+  },
+  {
+   "i": 7,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "My neighbor’s three year old child understands Russell’s theory of types. My neighbor’s three year old child is an adult.",
+   "md_text": "My neighbor’s three year old child understands Russell’s theory of types. My neighbor’s three year old child is an adult."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Paul Grice",
+ "authors": [
+  "Grandy, Richard E.",
+  "Warner, Richard"
+ ]
+}

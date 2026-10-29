@@ -1,0 +1,262 @@
+{
+ "slug": "self-consciousness-phenomenological",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 70,
+ "n_md": 70,
+ "n_pairs": 31,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9989992661284942,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989456243410152,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987782529016493,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988167430853424,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979882648784577,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999040055851296,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964328180737217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987343552243004,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997607135088101,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982078853046595,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989229940764675,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981000633312223,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9941747572815534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "自我意识的现象学方法 phenomenological approaches to (Shaun Gallagher and Dan Zahavi)",
+  "zh_h1": "自我意识的现象学方法 phenomenological approaches to (Shaun Gallagher and Dan Zahavi)",
+  "yuanwen_h1": "Phenomenological Approaches to Self-Consciousness",
+  "html_title": "Phenomenological Approaches to Self-Consciousness",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 20,
+  "p→∅": 31,
+  "blockquote→∅": 7,
+  "ul→∅": 1,
+  "merged×7(p+blockquote+p+p+p+p+p→p+blockquote+p+p+p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(blockquote+blockquote+p→blockquote+blockquote+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×5(blockquote+p+p+p+p→blockquote+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One advantage of the phenomenological view is that it is capable of accounting for some degree of diachronic unity, without having to posit the self as a separate entity over and above the stream of consciousness. Although we live through a number of different experiences, the experiencing itself remains a constant in regard to whose experience it is. This is not accounted for by a substantial self or a mental theater. On this point Hume was right. There is no pure or empty field of consciousnes",
+   "md_text": "One advantage of the phenomenological view is that it is capable of accounting for some degree of diachronic unity, without having to posit the self as a separate entity over and above the stream of consciousness. Although we live through a number of different experiences, the experiencing itself remains a constant in regard to whose experience it is. This is not accounted for by a substantial self or a mental theater. On this point Hume was right. There is no pure or empty field of consciousnes"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Phenomenological Approaches to Self-Consciousness",
+ "authors": [
+  "Gallagher, Shaun",
+  "Zahavi, Dan"
+ ]
+}

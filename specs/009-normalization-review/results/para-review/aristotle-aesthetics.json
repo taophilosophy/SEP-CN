@@ -1,0 +1,424 @@
+{
+ "slug": "aristotle-aesthetics",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 115,
+ "n_md": 124,
+ "n_pairs": 52,
+ "n_flags": 0,
+ "n_merged": 25,
+ "merged": [
+  {
+   "ratio": 0.9979343585035575,
+   "n_h": 2,
+   "n_m": 11,
+   "shape_h": [
+    "preamble",
+    "h2"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9978165938864629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968602825745683,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979455572675912,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979289940828402,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "h2",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992378048780488,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963036678987773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986776859504132,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999756275895686,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995240361732508,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968871595330739,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991313789359392,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994148624926857,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990687278822872,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990350595046639,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978742787731552,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979655209337188,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967845659163987,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965576592082617,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986320109439124,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977917445218277,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975920679886685,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986533800161594,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997686421071365,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的美学 aesthetics (Pierre Destrée)",
+  "zh_h1": "亚里士多德的美学 aesthetics (Pierre Destrée)",
+  "yuanwen_h1": "Aristotle’s Aesthetics",
+  "html_title": "Aristotle’s Aesthetics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→∅": 3,
+  "p→p": 25,
+  "p→∅": 48,
+  "blockquote→blockquote": 18,
+  "blockquote→∅": 11,
+  "h3→h3": 4,
+  "h2→h2": 4,
+  "merged×2(preamble+h2→p+p+p+blockquote+p+p+blockquote+p+p+p+h2)": 1,
+  "merged×1(p→p)": 6,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+h2+p+p→p+h2+p+p)": 1,
+  "merged×3(p+h2+p→p+h2+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×5(p+p+blockquote+p+blockquote→p+p+blockquote+p+blockquote)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 2,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×5(p+p+blockquote+p+p→p+p+blockquote+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 87,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "But let us return to the example of the comedy he mentions in Poetics 13, where spectators see Orestes ending up being reconciled with Aegisthes. What makes them laugh at that ending? Undoubtedly, the ancient spectators must have felt a sense of indignation: not avenging one’s father by killing his murderer is a moral fault. But it cannot be indignation that causes them to laugh (if anything, indignation provokes anger, not amusement). What makes them laugh, rather, is the complete oddity of suc",
+   "md_text": "But let us return to the example of the comedy he mentions in Poetics 13, where spectators see Orestes ending up being reconciled with Aegisthes. What makes them laugh at that ending? Undoubtedly, the ancient spectators must have felt a sense of indignation: not avenging one’s father by killing his murderer is a moral fault. But it cannot be indignation that causes them to laugh (if anything, indignation provokes anger, not amusement). What makes them laugh, rather, is the complete oddity of suc"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Aristotle’s Aesthetics",
+ "authors": [
+  "Destrée, Pierre"
+ ]
+}

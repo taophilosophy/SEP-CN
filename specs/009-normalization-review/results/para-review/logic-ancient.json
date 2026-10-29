@@ -1,0 +1,559 @@
+{
+ "slug": "logic-ancient",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 140,
+ "n_md": 143,
+ "n_pairs": 64,
+ "n_flags": 4,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9937802349689012,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947229551451188,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955555555555555,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935938500960922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978858350951374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9864712514092446,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996201570017726,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997626112759644,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982225382154284,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963436928702011,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9923802143871884,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980119284294234,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9830508474576272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9939759036144579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954093343534812,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9892793329362716,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "ol",
+    "p",
+    "blockquote",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "ol",
+    "p",
+    "blockquote",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9811320754716981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.988558352402746,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9883040935672515,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9743589743589743,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9903381642512077,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9983860955927994,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985436893203884,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985714285714286,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977220956719818,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991889699918897,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9880749574105622,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9584295612009238,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963732278272338,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984399375975039,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947357338387028,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992906833992634,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "古代逻辑学 ancient (Susanne Bobzien)",
+  "zh_h1": "古代逻辑学 ancient (Susanne Bobzien)",
+  "yuanwen_h1": "Ancient Logic",
+  "html_title": "Ancient Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "h3→h3": 16,
+  "p→∅": 52,
+  "table→table": 2,
+  "p→p": 29,
+  "table→∅": 2,
+  "ol→∅": 2,
+  "blockquote→∅": 16,
+  "dl→∅": 1,
+  "blockquote→blockquote": 3,
+  "ul→ul": 3,
+  "ul→∅": 2,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 14,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×3(ol+p+p→ol+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×9(blockquote+p+ol+p+blockquote+blockquote+p+blockquote+p→blockquote+p+ol+p+blockquote+blockquote+p+blockquote+p)": 1,
+  "merged×2(p+table→p+table)": 1,
+  "merged×3(blockquote+p+dl→blockquote+p+p+p)": 1,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×7(blockquote+p+p+ul+p+ul+p→blockquote+p+p+ul+p+ul+p)": 1,
+  "merged×7(p+blockquote+blockquote+p+p+p+p→p+blockquote+blockquote+p+p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 25,
+   "j": 27,
+   "ratio": 0.9148936170212766,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "‘ A holds of (lit., belongs to) every B ’ ( A a B ) ‘ A holds of no B ’ ( A e B ) ‘ A holds of some B ’ ( A i B ) ‘ A does not hold of some B ’ ( A o B )",
+   "md_text": "‘A holds of (lit., belongs to) every B’ (AaB) ‘A holds of no B’ (AeB) ‘A holds of some B’ (AiB) ‘A does not hold of some B’ (AoB)"
+  },
+  {
+   "kind": "replace",
+   "i": 93,
+   "j": 96,
+   "ratio": 0.9024390243902439,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "If the 1 ⟦P⟧ , the 2 ⟦P⟧ . But not: the 2 ⟦P⟧ . Therefore not: the 1 ⟦P⟧ .",
+   "md_text": "If the 1 ⟦P⟧ ⟦P⟧ , the 2 ⟦P⟧ ⟦P⟧ . But not: the 2 ⟦P⟧ ⟦P⟧ . Therefore not: the 1 ⟦P⟧ ⟦P⟧ ."
+  },
+  {
+   "kind": "replace",
+   "i": 115,
+   "j": 118,
+   "ratio": 0.9008264462809917,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "If the 1 ⟦P⟧ and the 2 ⟦P⟧ , the 3 ⟦P⟧ . But not the 3 ⟦P⟧ . Moreover, the 1 ⟦P⟧ . Therefore not: the 2 ⟦P⟧ .",
+   "md_text": "If the 1 ⟦P⟧ ⟦P⟧ and the 2 ⟦P⟧ ⟦P⟧ , the 3 ⟦P⟧ ⟦P⟧ . But not the 3 ⟦P⟧ ⟦P⟧ . Moreover, the 1 ⟦P⟧ ⟦P⟧ . Therefore not: the 2 ⟦P⟧ ⟦P⟧ ."
+  },
+  {
+   "kind": "replace",
+   "i": 119,
+   "j": 122,
+   "ratio": 0.9036144578313253,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Either the 1 ⟦P⟧ or not the 1 ⟦P⟧ . But the 1 ⟦P⟧ . Therefore the 1 ⟦P⟧ . If the 1st, if the 1 ⟦P⟧ , the 2 ⟦P⟧ . But the 1 ⟦P⟧ . Therefore the 2 ⟦P⟧ .",
+   "md_text": "Either the 1 ⟦P⟧ ⟦P⟧ or not the 1 ⟦P⟧ ⟦P⟧ . But the 1 ⟦P⟧ ⟦P⟧ . Therefore the 1 ⟦P⟧ ⟦P⟧ . If the 1st, if the 1 ⟦P⟧ ⟦P⟧ , the 2 ⟦P⟧ ⟦P⟧ . But the 1 ⟦P⟧ ⟦P⟧ . Therefore the 2 ⟦P⟧ ⟦P⟧ ."
+  }
+ ],
+ "spot": [
+  {
+   "i": 88,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Like Philo and Diodorus, Chrysippus distinguished four modalities and considered them modal values of propositions rather than modal operators; they satisfy the same standard requirements of modal logic. Chrysippus’ definitions are (D. L. 7.75): An assertible is possible when it is both capable of being true and not hindered by external things from being true. An assertible is impossible when it is [either] not capable of being true [or is capable of being true, but hindered by external things f",
+   "md_text": "Like Philo and Diodorus, Chrysippus distinguished four modalities and considered them modal values of propositions rather than modal operators; they satisfy the same standard requirements of modal logic. Chrysippus’ definitions are (D. L. 7.75): An assertible is possible when it is both capable of being true and not hindered by external things from being true. An assertible is impossible when it is [either] not capable of being true [or is capable of being true, but hindered by external things f"
+  },
+  {
+   "i": 17,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Singular: Callias is just. Callias is not just. Universal: Every human is just. No human is just. Particular: Some human is just. Some human is not just. Indefinite: (A) human is just. (A) human is not just.",
+   "md_text": "Singular: Callias is just. Callias is not just. Universal: Every human is just. No human is just. Particular: Some human is just. Some human is not just. Indefinite: (A) human is just. (A) human is not just."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ancient Logic",
+ "authors": [
+  "Bobzien, Susanne"
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "slug": "transcendentalism",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 46,
+ "n_pairs": 25,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9995267392333176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987336428872943,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991551675584343,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994325704558351,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989445910290238,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994422755158952,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993031358885017,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993293091884641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999462654486835,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "超验主义 transcendentalism (Russell Goodman)",
+  "zh_h1": "超验主义 transcendentalism (Russell Goodman)",
+  "yuanwen_h1": "Transcendentalism",
+  "html_title": "Transcendentalism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 5,
+  "p→p": 16,
+  "p→∅": 19,
+  "blockquote→blockquote": 1,
+  "h2→∅": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 3,
+  "merged×9(p+p+h2+p+p+p+p+p+p→p+p+h2+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "An important source for the transcendentalists’ knowledge of German philosophy was Frederic Henry Hedge (1805–90). Hedge’s father Levi Hedge, a Harvard professor of logic, sent him to preparatory school in Germany at the age of thirteen, after which he attended the Harvard Divinity School. Ordained as a Unitarian minister, Hedge wrote a long review of the work of Samuel Taylor Coleridge for the Christian Examiner in 1833. Noting Coleridge’s fondness for “German metaphysics” and his immense gifts",
+   "md_text": "An important source for the transcendentalists’ knowledge of German philosophy was Frederic Henry Hedge (1805–90). Hedge’s father Levi Hedge, a Harvard professor of logic, sent him to preparatory school in Germany at the age of thirteen, after which he attended the Harvard Divinity School. Ordained as a Unitarian minister, Hedge wrote a long review of the work of Samuel Taylor Coleridge for the Christian Examiner in 1833. Noting Coleridge’s fondness for “German metaphysics” and his immense gifts"
+  },
+  {
+   "i": 43,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Transcendentalists website by Jone Johnson Lewis (M. Div.), available at the Internet Archive.",
+   "md_text": "Transcendentalists website by Jone Johnson Lewis (M. Div.), available at the Internet Archive."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Transcendentalism",
+ "authors": [
+  "Goodman, Russell"
+ ]
+}

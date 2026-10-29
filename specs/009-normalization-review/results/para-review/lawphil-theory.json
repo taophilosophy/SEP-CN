@@ -1,0 +1,117 @@
+{
+ "slug": "lawphil-theory",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 35,
+ "n_md": 35,
+ "n_pairs": 29,
+ "n_flags": 0,
+ "n_merged": 5,
+ "merged": [
+  {
+   "ratio": 0.999000999000999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9855072463768116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9998083924123395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996588195155237,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "纯粹法理论 pure theory of law (Andrei Marmor)",
+  "zh_h1": "纯粹法理论 pure theory of law (Andrei Marmor)",
+  "yuanwen_h1": "The Pure Theory of Law",
+  "html_title": "The Pure Theory of Law",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→p": 19,
+  "ol→ol": 1,
+  "p→∅": 4,
+  "ol→∅": 1,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 2,
+  "merged×1(ol→ol)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "It would be a mistake, however, to look for an explanation of Kelsen’s argument in the logic of Kant’s transcendental argument. (Kelsen himself seems to have changed his views about this over the years; he may have started with a kind of neo-Kantian perspective one can discern in PT1, and gradually shifted to a Humean version of his main argument, which is quite evident in GT. However, this is a very controversial issue; for a different view, see Paulson 2013 and Green 2016.) Kant employed a tra",
+   "md_text": "It would be a mistake, however, to look for an explanation of Kelsen’s argument in the logic of Kant’s transcendental argument. (Kelsen himself seems to have changed his views about this over the years; he may have started with a kind of neo-Kantian perspective one can discern in PT1, and gradually shifted to a Humean version of his main argument, which is quite evident in GT. However, this is a very controversial issue; for a different view, see Paulson 2013 and Green 2016.) Kant employed a tra"
+  },
+  {
+   "i": 9,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Every two norms that ultimately derive their validity from one basic norm belong to the same legal system. All legal norms of a given legal system ultimately derive their validity from one basic norm.",
+   "md_text": "Every two norms that ultimately derive their validity from one basic norm belong to the same legal system. All legal norms of a given legal system ultimately derive their validity from one basic norm."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Pure Theory of Law",
+ "authors": [
+  "Marmor, Andrei"
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "slug": "hobbes",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 87,
+ "n_md": 87,
+ "n_pairs": 33,
+ "n_flags": 0,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.9977112963871179,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976689976689976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979435957696827,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998158379373849,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991673605328892,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993893751272135,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987261146496815,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968279143536876,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957519116397621,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999315537303217,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965753424657534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993559191034393,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970291146761735,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989316239316239,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983855343881175,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982940975776186,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992892679459844,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968730456535334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998330550918197,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990610328638497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987948903350204,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)",
+  "zh_h1": "托马斯·霍布斯 Hobbes, Thomas (Stewart Duncan)",
+  "yuanwen_h1": "Thomas Hobbes",
+  "html_title": "Thomas Hobbes",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 47,
+  "p→p": 16,
+  "h3→h3": 4,
+  "blockquote→∅": 7,
+  "blockquote→blockquote": 1,
+  "ul→ul": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 4,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×6(p+blockquote+p+p+p+p→p+blockquote+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 17,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Understanding is for Hobbes the work of the faculty of imagination, and crucially involves language. For Hobbes, the mind contains sense, imagination, and the workings of language, and no further rational faculty, such as the Cartesian immaterial mind that can grasp natures by clear and distinct perception. His story about sensation, the formation of ideas, and the workings of imagination is supposed to explain how some of our thought works. But only with a further story about language and under",
+   "md_text": "Understanding is for Hobbes the work of the faculty of imagination, and crucially involves language. For Hobbes, the mind contains sense, imagination, and the workings of language, and no further rational faculty, such as the Cartesian immaterial mind that can grasp natures by clear and distinct perception. His story about sensation, the formation of ideas, and the workings of imagination is supposed to explain how some of our thought works. But only with a further story about language and under"
+  },
+  {
+   "i": 84,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Text of Leviathan at Project Gutenberg. A history of squaring the circle at St Andrews’ MacTutor History of Mathematics archive. Entry on William Harvey by Richard Westfall at the Galileo Project Episode 359 of Peter Adamson’s History of Philosophy Without Any Gaps podcast, There and Back Again: Zabarella on Scientific Method provides an accessible introduction to the topic.",
+   "md_text": "Text of Leviathan at Project Gutenberg. A history of squaring the circle at St Andrews’ MacTutor History of Mathematics archive. Entry on William Harvey by Richard Westfall at the Galileo Project Episode 359 of Peter Adamson’s History of Philosophy Without Any Gaps podcast, There and Back Again: Zabarella on Scientific Method provides an accessible introduction to the topic."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Thomas Hobbes",
+ "authors": [
+  "Duncan, Stewart"
+ ]
+}

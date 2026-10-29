@@ -1,0 +1,348 @@
+{
+ "slug": "qt-epr",
+ "letter": "q",
+ "state": "ok",
+ "n_html": 84,
+ "n_md": 84,
+ "n_pairs": 50,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9996903065964695,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999607072691552,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997142040583024,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983739837398374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994929863106304,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991701244813278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984754548226445,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998259658893143,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993520798237657,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996256083863722,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992520568436799,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988007538118897,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994767137624281,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993792675356921,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972602739726028,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995584988962473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990319457889641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994523548740416,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991518235793045,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996556473829201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992744860943168,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989886504101585,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9945652173913043,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "量子理论中的爱因斯坦-波多尔斯基-罗森论证 the Einstein-Podolsky-Rosen argument in (Arthur Fine)",
+  "zh_h1": "量子理论中的爱因斯坦-波多尔斯基-罗森论证 the Einstein-Podolsky-Rosen argument in (Arthur Fine)",
+  "yuanwen_h1": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+  "html_title": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 5,
+  "p→∅": 27,
+  "p→p": 26,
+  "blockquote→∅": 5,
+  "blockquote→blockquote": 11,
+  "ul→ul": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×2(p+p→p+p)": 5,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In fact Einstein himself had tried this very route in May of 1927 where he proposed a way of “localizing the particle” by associating spatial trajectories and velocities with particle solutions to the Schrödinger equation. (See Belousek 1996 and Holland 2005; also Ryckman 2017.) Einstein abandoned the project and withdrew the draft from publication, however, after finding that certain intuitive independence conditions were in conflict with the product wave function used by quantum mechanics to t",
+   "md_text": "In fact Einstein himself had tried this very route in May of 1927 where he proposed a way of “localizing the particle” by associating spatial trajectories and velocities with particle solutions to the Schrödinger equation. (See Belousek 1996 and Holland 2005; also Ryckman 2017.) Einstein abandoned the project and withdrew the draft from publication, however, after finding that certain intuitive independence conditions were in conflict with the product wave function used by quantum mechanics to t"
+  },
+  {
+   "i": 26,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "EPR is about the interpretation of state vectors (“wave functions”) and employs the standard state vector reduction formalism (von Neumann’s “projection postulate”). The Criterion of Reality affirms that the eigenvalue corresponding to the eigenstate of a system is a value determined by the real physical state of that system. (This is the Criterion’s only use.) (Separability) Spatially separated systems have real physical states. (Locality) If systems are spatially separate, the measurement (or ",
+   "md_text": "EPR is about the interpretation of state vectors (“wave functions”) and employs the standard state vector reduction formalism (von Neumann’s “projection postulate”). The Criterion of Reality affirms that the eigenvalue corresponding to the eigenstate of a system is a value determined by the real physical state of that system. (This is the Criterion’s only use.) (Separability) Spatially separated systems have real physical states. (Locality) If systems are spatially separate, the measurement (or "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+ "authors": [
+  "Fine, Arthur"
+ ]
+}

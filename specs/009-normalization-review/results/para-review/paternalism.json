@@ -1,0 +1,186 @@
+{
+ "slug": "paternalism",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 135,
+ "n_md": 135,
+ "n_pairs": 119,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9950372208436724,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9976525821596244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998021369212505,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986577181208054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991518235793045,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998468606431853,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989733059548255,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9919678714859438,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "家长主义 paternalism (Gerald Dworkin)",
+  "zh_h1": "家长主义 paternalism (Gerald Dworkin)",
+  "yuanwen_h1": "Paternalism",
+  "html_title": "Paternalism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 94,
+  "p→∅": 13,
+  "ol→∅": 1,
+  "h3→h3": 10,
+  "blockquote→blockquote": 4,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×1(p→p)": 5,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 46,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A different theoretical basis is (moral) contractualism. On this view if there are cases of justified paternalism they are justified on the basis that we (all of us) would agree to such interference, given suitable knowledge and suitable motivation. So, for instance, it might be argued that since we know we are subject to depression we all would agree, at least, to short-term anti-suicide interventions, to determine whether we are suffering from such a condition, and to attempt to cure it. More ",
+   "md_text": "A different theoretical basis is (moral) contractualism. On this view if there are cases of justified paternalism they are justified on the basis that we (all of us) would agree to such interference, given suitable knowledge and suitable motivation. So, for instance, it might be argued that since we know we are subject to depression we all would agree, at least, to short-term anti-suicide interventions, to determine whether we are suffering from such a condition, and to attempt to cure it. More "
+  },
+  {
+   "i": 96,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "90% of patients who have the operation survive. (survival rate) 10% of the patients who have the operation die. (mortality rate)",
+   "md_text": "90% of patients who have the operation survive. (survival rate) 10% of the patients who have the operation die. (mortality rate)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Paternalism",
+ "authors": [
+  "Dworkin, Gerald"
+ ]
+}

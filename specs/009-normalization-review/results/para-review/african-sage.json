@@ -1,0 +1,178 @@
+{
+ "slug": "african-sage",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 44,
+ "n_md": 44,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9942062572421785,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9915966386554622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994232987312572,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972652689152234,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993853718500307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993846153846154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987413467589679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991927346115035,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "非洲智者哲学 sage philosophy (Dismas Masolo)",
+  "zh_h1": "非洲智者哲学 sage philosophy (Dismas Masolo)",
+  "yuanwen_h1": "African Sage Philosophy",
+  "html_title": "African Sage Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 17,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 4,
+  "ol→ol": 1,
+  "p→∅": 10,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×1(p→p)": 4,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 20,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Indeed, many African philosophers look far beyond the traditional philosophical texts for sources and subject matter of philosophical reflection. For example, while engaging in subtle analytic philosophical reflections, African philosophers incorporate with great ease narratives from everyday lives and from literature into their reflections of the philosophical implications of their cultural events. Oruka was especially wary of the sub-group among professional African philosophers whose position",
+   "md_text": "Indeed, many African philosophers look far beyond the traditional philosophical texts for sources and subject matter of philosophical reflection. For example, while engaging in subtle analytic philosophical reflections, African philosophers incorporate with great ease narratives from everyday lives and from literature into their reflections of the philosophical implications of their cultural events. Oruka was especially wary of the sub-group among professional African philosophers whose position"
+  },
+  {
+   "i": 11,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Unlike Greek sages who used reason, African sages do not engage in philosophic thought. African sages are part of an oral tradition, whereas philosophic thought requires literacy. African traditions encourage unanimity regarding beliefs and values and discourage individual critical thought.",
+   "md_text": "Unlike Greek sages who used reason, African sages do not engage in philosophic thought. African sages are part of an oral tradition, whereas philosophic thought requires literacy. African traditions encourage unanimity regarding beliefs and values and discourage individual critical thought."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "African Sage Philosophy",
+ "authors": [
+  "Masolo, Dismas"
+ ]
+}

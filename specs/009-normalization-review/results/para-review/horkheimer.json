@@ -1,0 +1,249 @@
+{
+ "slug": "horkheimer",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 72,
+ "n_md": 72,
+ "n_pairs": 46,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9995982322217758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992251065478497,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973021582733813,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985698395042111,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994562262098967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966367713004485,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988315026875438,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990825688073395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998098497813273,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968425800631484,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991729945116908,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996631862579993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990835963751146,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "马克斯·霍克海默 Horkheimer, Max (J.C. Berendzen)",
+  "zh_h1": "马克斯·霍克海默 Horkheimer, Max (J.C. Berendzen)",
+  "yuanwen_h1": "Max Horkheimer",
+  "html_title": "Max Horkheimer",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 24,
+  "p→p": 26,
+  "h3→h3": 7,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 41,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The way this point is construed displays the most crucial difference between “Traditional and Critical Theory” and its antecedents. Horkheimer’s attitude toward the possibility of social change is less optimistic, and the critical theorist is described as having a somewhat antagonistic relationship with the oppressed. This fits with a general shift in the Frankfurt School’s work from the 1930s to the 1940s corresponding to a lack of faith in the possibility of emancipatory social change. In his ",
+   "md_text": "The way this point is construed displays the most crucial difference between “Traditional and Critical Theory” and its antecedents. Horkheimer’s attitude toward the possibility of social change is less optimistic, and the critical theorist is described as having a somewhat antagonistic relationship with the oppressed. This fits with a general shift in the Frankfurt School’s work from the 1930s to the 1940s corresponding to a lack of faith in the possibility of emancipatory social change. In his "
+  },
+  {
+   "i": 69,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The Horkheimer Archive at the University of Frankfurt",
+   "md_text": "The Horkheimer Archive at the University of Frankfurt"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Max Horkheimer",
+ "authors": [
+  "Berendzen, J.C."
+ ]
+}

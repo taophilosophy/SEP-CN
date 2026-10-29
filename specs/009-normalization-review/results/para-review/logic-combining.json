@@ -1,0 +1,527 @@
+{
+ "slug": "logic-combining",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 166,
+ "n_md": 167,
+ "n_pairs": 98,
+ "n_flags": 0,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9996747967479674,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991575400168492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987849331713244,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941176470588236,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993355481727575,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989149305555556,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992429977289932,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990503323836657,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982332155477032,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989550679205852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984889694771835,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994422755158952,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987255734919286,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986168741355463,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981316171891219,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981556621172999,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "h3",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999288256227758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992050874403816,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986320109439124,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984655413970245,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976711690731253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970149253731343,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977728285077951,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979238754325259,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982420894023104,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995291902071564,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998641304347826,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998966484571091,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994805194805195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957446808510638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99978369024443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992250064582795,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988925802879292,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "合并逻辑 combining (Walter Carnielli and Marcelo Esteban Coniglio)",
+  "zh_h1": "合并逻辑 combining (Walter Carnielli and Marcelo Esteban Coniglio)",
+  "yuanwen_h1": "Combining Logics",
+  "html_title": "Combining Logics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 68,
+  "p→∅": 65,
+  "ul→ul": 11,
+  "h3→h3": 5,
+  "h3→∅": 1,
+  "p→mathblock": 4,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×2(p+p→p+p)": 8,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×3(h3+p+p→h3+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 52,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Consider Kripke models of the form ⟦M⟧ such that ⟦M⟧ is a non-empty set (the set of worlds), ⟦M⟧ is a binary relation (the accessibility relation) and ⟦M⟧ from the set of propositional variables into the power set of ⟦M⟧ is a valuation map. Let ⟦M⟧ and ⟦M⟧ be two propositional normal modal logics defined over the same classical signature which contains the connectives ⟦M⟧ (negation) and ⟦M⟧ (implication). Denote by ⟦M⟧ and ⟦M⟧ the necessity operators of ⟦M⟧ and ⟦M⟧ , respectively. Let ⟦M⟧ and ⟦M",
+   "md_text": "Consider Kripke models of the form ⟦M⟧ such that ⟦M⟧ is a non-empty set (the set of worlds), ⟦M⟧ is a binary relation (the accessibility relation) and ⟦M⟧ from the set of propositional variables into the power set of ⟦M⟧ is a valuation map. Let ⟦M⟧ and ⟦M⟧ be two propositional normal modal logics defined over the same classical signature which contains the connectives ⟦M⟧ (negation) and ⟦M⟧ (implication). Denote by ⟦M⟧ and ⟦M⟧ the necessity operators of ⟦M⟧ and ⟦M⟧ , respectively. Let ⟦M⟧ and ⟦M"
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "With our point of view concerning combinations of logics, it is necessary to investigate the properties of combining deontic and alethic logics: in order to perform such a jump from ‘is’ to ‘ought’ some authors propose (see e.g., Schurz 1997) that what is necessary is an explicit “bridge principle” which specifically connects ‘is’ and ‘ought’. An axiom schema ⟦M⟧ , following Schurz (1991), is a bridge principle iff ⟦M⟧ contains at least one schematic letter which has at least one occurrence with",
+   "md_text": "With our point of view concerning combinations of logics, it is necessary to investigate the properties of combining deontic and alethic logics: in order to perform such a jump from ‘is’ to ‘ought’ some authors propose (see e.g., Schurz 1997) that what is necessary is an explicit “bridge principle” which specifically connects ‘is’ and ‘ought’. An axiom schema ⟦M⟧ , following Schurz (1991), is a bridge principle iff ⟦M⟧ contains at least one schematic letter which has at least one occurrence with"
+  },
+  {
+   "i": 9,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "(1) “Tea-drinking is common in England. Therefore: Either tea-drinking is common in England or all New Zealanders ought to learn to speak Latin”,",
+   "md_text": "(1) “Tea-drinking is common in England. Therefore: Either tea-drinking is common in England or all New Zealanders ought to learn to speak Latin”,"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Combining Logics",
+ "authors": [
+  "Carnielli, Walter",
+  "Coniglio, Marcelo Esteban"
+ ]
+}

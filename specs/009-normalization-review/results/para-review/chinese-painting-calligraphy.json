@@ -1,0 +1,597 @@
+{
+ "slug": "chinese-painting-calligraphy",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 144,
+ "n_md": 159,
+ "n_pairs": 80,
+ "n_flags": 13,
+ "n_merged": 31,
+ "merged": [
+  {
+   "ratio": 0.9983478356647207,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997934595524957,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984886649874055,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967783505154639,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985315712187959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973313000381243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971232573578225,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992078001218769,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992542878448919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991158267020336,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952941176470588,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9880952380952381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950980392156863,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.996996996996997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9953775038520801,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969176574196389,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989711934156379,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974160206718347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962476547842402,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994347088750707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960191082802548,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9919917334022217,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977703455964325,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947842579421526,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974640743871513,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980119284294234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9916267942583732,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964912280701754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9658119658119658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中国哲学中的美学：绘画与书法 Aesthetics in Chinese Philosophy: Painting and Calligraphy (Escande, Yolaine)",
+  "zh_h1": "中国哲学中的美学：绘画与书法 Aesthetics in Chinese Philosophy: Painting and Calligraphy (Escande, Yolaine)",
+  "yuanwen_h1": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+  "html_title": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 55,
+  "h3→h3": 12,
+  "p→∅": 42,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 12,
+  "figure→∅": 8,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 6,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+figure→p+p+p)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×9(p+blockquote+p+p+blockquote+p+p+p+p→p+blockquote+p+p+blockquote+p+p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 34,
+   "j": 41,
+   "ratio": 0.32727272727272727,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2. ( See figure 2 photo credit below. )",
+   "md_text": "Figure 2."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 42,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2. (See figure 2 photo credit below.)"
+  },
+  {
+   "kind": "replace",
+   "i": 50,
+   "j": 58,
+   "ratio": 0.32727272727272727,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 3. ( See figure 3 photo credit below. )",
+   "md_text": "Figure 3."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 59,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3. (See figure 3 photo credit below.)"
+  },
+  {
+   "kind": "replace",
+   "i": 80,
+   "j": 89,
+   "ratio": 0.32727272727272727,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 4. ( See figure 4 photo credit below. )",
+   "md_text": "Figure 4."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 90,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4. (See figure 4 photo credit below.)"
+  },
+  {
+   "kind": "replace",
+   "i": 107,
+   "j": 117,
+   "ratio": 0.32727272727272727,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 5. ( See figure 5 photo credit below. )",
+   "md_text": "Figure 5."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 118,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 5. (See figure 5 photo credit below.)"
+  },
+  {
+   "kind": "replace",
+   "i": 109,
+   "j": 120,
+   "ratio": 0.32727272727272727,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 6. ( See figure 6 photo credit below. )",
+   "md_text": "Figure 6."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 121,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 6. (See figure 6 photo credit below.)"
+  },
+  {
+   "kind": "replace",
+   "i": 127,
+   "j": 139,
+   "ratio": 0.391304347826087,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 7. ( See photo credit below. )",
+   "md_text": "Figure 7."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 140,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 7. (See photo credit below.)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 152,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Figure 1: Public domain image of calligraphy by Zhang Xu, from The China Online Museum. https://commons.wikimedia.org/wiki/File:Crazyzhangxu.jpg Figure 2: Public domain image part of Lanting Xu, Tand Dynasty copy, calligraphy by Feng Chengsu, from Palace Museum in Beijing. Full file is available at https://commons.wikimedia.org/wiki/File:神龍蘭亭序全.JPG Figure 3: Public domain image of the “Admonitions Scroll” by Gu Kaizhi, from the British Museum https://commons.wikimedia.org/wiki/File:AdmonitionsScrollScene_10.jpg Figure 4: CC-BY-SA-4.0 image taken by Tbatb of military records from the Guangdi South Platoon in the Yongyuan Era https://commons.wikimedia.org/wiki/File:MilitarydocumentsonbambooslipsscrollinHanDynasty_08.jpg Figure 5: CC-BY-SA-4.0 image taken by 钉钉 of the entrance to the Canglang"
+  }
+ ],
+ "spot": [
+  {
+   "i": 128,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Goose Pond immediately refers to one of the most famous themes in Chinese art history, namely the fact that Wang Xizhi, is said to have comprehended the mystery of calligraphy by watching geese, and in particular, the mystery of the movement of the brush in the movement of their neck. The balustrade at the edge of the pond lends itself to approaching the edge and looking at the pond, the inscription encourages the garden’s visitors to think of this famous anecdote and thus to imagine an even",
+   "md_text": "The Goose Pond immediately refers to one of the most famous themes in Chinese art history, namely the fact that Wang Xizhi, is said to have comprehended the mystery of calligraphy by watching geese, and in particular, the mystery of the movement of the brush in the movement of their neck. The balustrade at the edge of the pond lends itself to approaching the edge and looking at the pond, the inscription encourages the garden’s visitors to think of this famous anecdote and thus to imagine an even"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+ "authors": [
+  "Escande, Yolaine"
+ ]
+}

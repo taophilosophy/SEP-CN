@@ -1,0 +1,311 @@
+{
+ "slug": "conditionals",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 250,
+ "n_md": 252,
+ "n_pairs": 226,
+ "n_flags": 0,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 0.9995244888254874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993519118600129,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991836734693877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "table",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9991142604074402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999670510708402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993544222078761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990448901623686,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987163029525032,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992706053975201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974160206718347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987357774968394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994015559545183,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980983428416191,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970845481049563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986468200270636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993861264579497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994321408290744,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.958904109589041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "直陈条件 conditionals (Dorothy Edgington)",
+  "zh_h1": "直陈条件 conditionals (Dorothy Edgington)",
+  "yuanwen_h1": "Indicative Conditionals",
+  "html_title": "Indicative Conditionals",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 18,
+  "p→p": 175,
+  "h3→h3": 11,
+  "table→∅": 2,
+  "ol→ol": 10,
+  "blockquote→blockquote": 6,
+  "p→mathblock": 10,
+  "table→table": 2,
+  "ul→ul": 1,
+  "blockquote→∅": 4,
+  "merged×1(p→p)": 15,
+  "merged×2(table+table→p+table+p+table)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×2(p+blockquote→p+blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 32,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The oddities are harder to tolerate when we consider conditional judgements about empirical matters. The difference is this: in thinking about the empirical world, we often accept and reject propositions with degrees of confidence less than certainty. We can, perhaps, ignore as unimportant the use of indicative conditionals in circumstances in which we are certain that the antecedent is false. But we cannot ignore our use of conditionals whose antecedent we think is likely to be false. We use th",
+   "md_text": "The oddities are harder to tolerate when we consider conditional judgements about empirical matters. The difference is this: in thinking about the empirical world, we often accept and reject propositions with degrees of confidence less than certainty. We can, perhaps, ignore as unimportant the use of indicative conditionals in circumstances in which we are certain that the antecedent is false. But we cannot ignore our use of conditionals whose antecedent we think is likely to be false. We use th"
+  },
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Take a sentence in the indicative mood, suitable for making a statement: “We’ll be home by ten”, “Tom cooked the dinner”. Attach a conditional clause to it, and you have a sentence which makes a conditional statement: “We’ll be home by ten if the train is on time”, “If Mary didn’t cook the dinner, Tom cooked it”. A conditional sentence “If ⟦M⟧ ” or “ ⟦M⟧ if ⟦M⟧ ” thus has two contained sentences or sentence-like clauses. ⟦M⟧ is called the antecedent, ⟦M⟧ the consequent. If you understand ⟦M⟧ and",
+   "md_text": "Take a sentence in the indicative mood, suitable for making a statement: “We’ll be home by ten”, “Tom cooked the dinner”. Attach a conditional clause to it, and you have a sentence which makes a conditional statement: “We’ll be home by ten if the train is on time”, “If Mary didn’t cook the dinner, Tom cooked it”. A conditional sentence “If ⟦M⟧ ” or “ ⟦M⟧ if ⟦M⟧ ” thus has two contained sentences or sentence-like clauses. ⟦M⟧ is called the antecedent, ⟦M⟧ the consequent. If you understand ⟦M⟧ and"
+  },
+  {
+   "i": 48,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "If ⟦M⟧ . If ⟦M⟧ , then if ⟦M⟧ .",
+   "md_text": "If ⟦M⟧ . If ⟦M⟧ , then if ⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Indicative Conditionals",
+ "authors": [
+  "Edgington, Dorothy"
+ ]
+}

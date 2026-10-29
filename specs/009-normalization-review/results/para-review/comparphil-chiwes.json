@@ -1,0 +1,280 @@
+{
+ "slug": "comparphil-chiwes",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 69,
+ "n_md": 71,
+ "n_pairs": 38,
+ "n_flags": 1,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985486211901307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99945085118067,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992949471210341,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989684340829379,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996540989277066,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999290780141844,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992666605555046,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994158878504673,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995560981023194,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986577181208054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996178830722201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992542878448919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994422755158952,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995554567681707,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9966777408637874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "比较哲学：中西哲学 Chinese and Western (David Wong)",
+  "zh_h1": "比较哲学：中西哲学 Chinese and Western (David Wong)",
+  "yuanwen_h1": "Comparative Philosophy: Chinese and Western",
+  "html_title": "Comparative Philosophy: Chinese and Western",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 28,
+  "p→p": 29,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 68,
+   "j": 70,
+   "ratio": 0.9492753623188406,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Chinese Philosophy: ethics | Chinese Philosophy: mind (heart-mind) | Chinese Philosophy: Mohism | Confucius | Daoism | Mencius | Xunzi | Zhuangzi",
+   "md_text": "Chinese Philosophy: ethics Chinese Philosophy: mind (heart-mind) Chinese Philosophy: Mohism Confucius Daoism Mencius Xunzi Zhuangzi"
+  }
+ ],
+ "spot": [
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One common portrait of the difference between the Chinese and Western traditions posits a radical incommensurability on the very nature of philosophical inquiry. Chinese philosophy is “wisdom” literature, composed primarily of stories and sayings designed to move the audience to adopt a way of life or to confirm its adoption of that way of life. Western philosophy is systematic argumentation and theory. Those who identify philosophy with the latter will commonly assert that Chinese thought has n",
+   "md_text": "One common portrait of the difference between the Chinese and Western traditions posits a radical incommensurability on the very nature of philosophical inquiry. Chinese philosophy is “wisdom” literature, composed primarily of stories and sayings designed to move the audience to adopt a way of life or to confirm its adoption of that way of life. Western philosophy is systematic argumentation and theory. Those who identify philosophy with the latter will commonly assert that Chinese thought has n"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Comparative Philosophy: Chinese and Western",
+ "authors": [
+  "Wong, David"
+ ]
+}

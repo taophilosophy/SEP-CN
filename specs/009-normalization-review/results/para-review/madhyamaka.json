@@ -1,0 +1,266 @@
+{
+ "slug": "madhyamaka",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 70,
+ "n_md": 71,
+ "n_pairs": 47,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9984,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986376021798365,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999096657633243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977489177489177,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988961118606647,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987656497972139,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995475113122172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996658870698296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999034749034749,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990503323836657,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9989148128052089,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990319457889641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991489361702127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966044142614601,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987946966653274,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974937343358395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中观 Madhyamaka (Richard Hayes)",
+  "zh_h1": "中观 Madhyamaka (Richard Hayes)",
+  "yuanwen_h1": "Madhyamaka",
+  "html_title": "Madhyamaka",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 18,
+  "p→p": 24,
+  "h3→h3": 8,
+  "ol→ol": 1,
+  "h4→h4": 2,
+  "ol→∅": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 54,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "At the heart of Jñānagarbha’s argument against the tenability of causality is his argument that none of the possible ways of looking at the relation of conditions and their effects are workable. There are four possibilities. Either many conditions produce a single effect, or many conditions produce many effects, or a single condition produces many effects, or a single condition produces a single effect. His presentation of an explanation for why each of these possibilities is untenable is in pla",
+   "md_text": "At the heart of Jñānagarbha’s argument against the tenability of causality is his argument that none of the possible ways of looking at the relation of conditions and their effects are workable. There are four possibilities. Either many conditions produce a single effect, or many conditions produce many effects, or a single condition produces many effects, or a single condition produces a single effect. His presentation of an explanation for why each of these possibilities is untenable is in pla"
+  },
+  {
+   "i": 19,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "On cultivating and maintaining bodhicitta, that is, the aspiration to become enlightened in order to work for the benefit and ultimate liberation of all sentient beings Following the Buddhist vows Striving for a knowledge of reality Reality as understood by the conservative canonical Buddhists (Śrāvakas) Reality as understood by the Yogācāra school of Buddhism Reality as understood by the Sāṃkhya school Reality as understood by the Vaiśeṣika school Reality as understood by the Vedānta schools Re",
+   "md_text": "On cultivating and maintaining bodhicitta, that is, the aspiration to become enlightened in order to work for the benefit and ultimate liberation of all sentient beings Following the Buddhist vows Striving for a knowledge of reality Reality as understood by the conservative canonical Buddhists (Śrāvakas) Reality as understood by the Yogācāra school of Buddhism Reality as understood by the Sāṃkhya school Reality as understood by the Vaiśeṣika school Reality as understood by the Vedānta schools Re"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Madhyamaka",
+ "authors": [
+  "Hayes, Richard"
+ ]
+}

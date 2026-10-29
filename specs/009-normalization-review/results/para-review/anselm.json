@@ -1,0 +1,325 @@
+{
+ "slug": "anselm",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 67,
+ "n_md": 71,
+ "n_pairs": 39,
+ "n_flags": 4,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9989969909729187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999330655957162,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998740025199496,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990627928772259,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998688352570829,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982905982905983,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970879440885265,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996289424860854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963636363636363,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994722955145119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988449321397632,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981851179673321,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991450555713879,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9983262042030873,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993079584775086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980092899800929,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9565217391304348,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "坎特伯雷的安瑟伦 Anselm of Canterbury [Anselm of Bec] (Thomas Williams)",
+  "zh_h1": "坎特伯雷的安瑟伦 Anselm of Canterbury [Anselm of Bec] (Thomas Williams)",
+  "yuanwen_h1": "Anselm of Canterbury",
+  "html_title": "Anselm of Canterbury",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 21,
+  "p→p": 19,
+  "h3→h3": 8,
+  "blockquote→∅": 6,
+  "ol→ol": 2,
+  "blockquote→blockquote": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 61,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "DLA = De libertate arbitrii DV = De veritate M = Monologion P = Proslogion"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 62,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Critical Editions"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 63,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Translations"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 64,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  }
+ ],
+ "spot": [
+  {
+   "i": 22,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The proper way to state Anselm’s argument is a matter of dispute, and any detailed statement of the argument will beg interpretative questions. But on a fairly neutral or consensus reading of the argument (which I shall go on to reject), Anselm’s argument goes like this. God is “that than which a greater cannot be thought”; in other words, he is a being so great, so full of metaphysical oomph, that one cannot so much as conceive of a being who would be greater than God. The Psalmist, however, te",
+   "md_text": "The proper way to state Anselm’s argument is a matter of dispute, and any detailed statement of the argument will beg interpretative questions. But on a fairly neutral or consensus reading of the argument (which I shall go on to reject), Anselm’s argument goes like this. God is “that than which a greater cannot be thought”; in other words, he is a being so great, so full of metaphysical oomph, that one cannot so much as conceive of a being who would be greater than God. The Psalmist, however, te"
+  },
+  {
+   "i": 27,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "That than which a greater cannot be thought can be thought. If that than which a greater cannot be thought can be thought, it exists in reality.",
+   "md_text": "That than which a greater cannot be thought can be thought. If that than which a greater cannot be thought can be thought, it exists in reality."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Anselm of Canterbury",
+ "authors": [
+  "Williams, Thomas"
+ ]
+}

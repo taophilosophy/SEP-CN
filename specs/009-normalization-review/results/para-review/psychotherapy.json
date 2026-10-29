@@ -1,0 +1,405 @@
+{
+ "slug": "psychotherapy",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 107,
+ "n_md": 111,
+ "n_pairs": 49,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9962094623052085,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985412107950401,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992590763151395,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990809762074951,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982347749338041,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974554707379135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988974641675854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986876640419947,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99894254494184,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978476108480413,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985790408525755,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "ol",
+    "ol"
+   ],
+   "shape_m": [
+    "ol",
+    "ol",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998630762209037,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974587039390089,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990791896869244,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992293860775752,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988562714449104,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989266547406083,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989258861439313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998970928736815,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985068259385665,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999244142101285,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9962168978562421,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "心理治疗的哲学 Philosophy of Psychotherapy (Delehanty, Megan, Plutynski, Anya)",
+  "zh_h1": "心理治疗的哲学 Philosophy of Psychotherapy (Delehanty, Megan, Plutynski, Anya)",
+  "yuanwen_h1": "Philosophy of Psychotherapy",
+  "html_title": "Philosophy of Psychotherapy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 31,
+  "blockquote→blockquote": 2,
+  "p→∅": 51,
+  "h3→h3": 5,
+  "blockquote→∅": 2,
+  "ol→∅": 3,
+  "ol→ol": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(p→p)": 4,
+  "merged×3(ol+ol+ol→ol+ol+ol)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 27,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Rosenzweig (1936) is most famous for identifying what came to be called the “common factors” of psychotherapy and characterizing what came to be called the “Dodo bird verdict.” Citing Lewis Carroll (“all have won and all shall have prizes”), Rosenzweig noted that defenders of psychotherapy’s effectiveness often make arguments that have the form of post hoc ergo propter hoc fallacies – the patient is better, so it must have worked! Each, however, offer up different explanations as to the method t",
+   "md_text": "Rosenzweig (1936) is most famous for identifying what came to be called the “common factors” of psychotherapy and characterizing what came to be called the “Dodo bird verdict.” Citing Lewis Carroll (“all have won and all shall have prizes”), Rosenzweig noted that defenders of psychotherapy’s effectiveness often make arguments that have the form of post hoc ergo propter hoc fallacies – the patient is better, so it must have worked! Each, however, offer up different explanations as to the method t"
+  },
+  {
+   "i": 58,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "How do various psychological processes normally work? How do these processes go wrong in ways that produce suffering?, and How can what has gone wrong be corrected?",
+   "md_text": "How do various psychological processes normally work? How do these processes go wrong in ways that produce suffering?, and How can what has gone wrong be corrected?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy of Psychotherapy",
+ "authors": [
+  "Delehanty, Megan",
+  "Plutynski, Anya"
+ ]
+}

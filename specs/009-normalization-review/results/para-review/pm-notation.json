@@ -1,0 +1,564 @@
+{
+ "slug": "pm-notation",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 271,
+ "n_md": 271,
+ "n_pairs": 214,
+ "n_flags": 0,
+ "n_merged": 41,
+ "merged": [
+  {
+   "ratio": 0.9975259772389906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995022399203584,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9904653802497162,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9904761904761905,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989687177724303,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975429975429976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9986577181208054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978494623655914,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9954586739327884,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982085274095306,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989827060020345,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9873949579831933,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982486865148862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978370583994232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990749306197965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998911860718172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981785063752276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987389659520807,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994739610731194,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996007984031936,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994216310005783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996415770609319,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.989247311827957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9956709956709957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9985052316890882,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99812382739212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9979099372981189,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9984947315604616,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951690821256038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.988929889298893,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996130458817026,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9980952380952381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941520467836257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9924953095684803,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9992841803865425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994026284348865,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9969604863221885,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.996969696969697,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "《数学原理》中的符号 notation in (Bernard Linsky)",
+  "zh_h1": "《数学原理》中的符号 notation in (Bernard Linsky)",
+  "yuanwen_h1": "The Notation in *Principia Mathematica*",
+  "html_title": "The Notation in Principia Mathematica",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 19,
+  "p→∅": 32,
+  "p→p": 118,
+  "table→∅": 17,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 4,
+  "h3→h3": 5,
+  "h4→h4": 4,
+  "p→mathblock": 40,
+  "table→table": 21,
+  "ul→∅": 3,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 17,
+  "merged×1(table→table)": 6,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(ul→ul)": 3,
+  "merged×5(table+p+table+p+table→table+p+table+p+table)": 1,
+  "merged×2(table+p→table+p)": 2,
+  "merged×3(table+p+table→table+p+table)": 1,
+  "merged×2(p+table→p+table)": 2,
+  "merged×4(p+table+p+table→p+table+p+table)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 68,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Focusing on propositional functions, Whitehead and Russell distinguish between expressions with a free variable (such as “ ⟦M⟧ is hurt”) and names of functions (such as “ ⟦M⟧ is hurt”) (PM, 14–15). The propositions which result from the formula by assigning allowable values to the free variable “ ⟦M⟧ ” are said to be the “ambiguous values” of the function. Expressions using the circumflex notation, such as ⟦M⟧ only occur in the introductory material in the technical sections of PM and not in the",
+   "md_text": "Focusing on propositional functions, Whitehead and Russell distinguish between expressions with a free variable (such as “ ⟦M⟧ is hurt”) and names of functions (such as “ ⟦M⟧ is hurt”) (PM, 14–15). The propositions which result from the formula by assigning allowable values to the free variable “ ⟦M⟧ ” are said to be the “ambiguous values” of the function. Expressions using the circumflex notation, such as ⟦M⟧ only occur in the introductory material in the technical sections of PM and not in the"
+  },
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In his earlier work, such as The Principles of Mathematics, from 1903, Russell followed Peano’s practice of indicating conjunction by simply juxtaposing formulas. Thus the conjunction of ⟦M⟧ and ⟦M⟧ was written ⟦M⟧ . Russell began to use the punctuation dot for conjunction by 1905. The use of dots for punctuation in logic is now only of historical interest, although some textbooks use a raised dot ⟦M⟧ for conjunction. Below we will explain the dual use of dots for punctuation and conjunction in ",
+   "md_text": "In his earlier work, such as The Principles of Mathematics, from 1903, Russell followed Peano’s practice of indicating conjunction by simply juxtaposing formulas. Thus the conjunction of ⟦M⟧ and ⟦M⟧ was written ⟦M⟧ . Russell began to use the punctuation dot for conjunction by 1905. The use of dots for punctuation in logic is now only of historical interest, although some textbooks use a raised dot ⟦M⟧ for conjunction. Below we will explain the dual use of dots for punctuation and conjunction in "
+  },
+  {
+   "i": 62,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "∗1·3 ⟦M⟧ ⟦M⟧ ∗1·4 ⟦M⟧ ⟦M⟧ ∗1·5 ⟦M⟧ ⟦M⟧ ∗1·6 ⟦M⟧ ⟦M⟧ ∗2·03 ⟦M⟧ ⟦M⟧ ∗3·3 ⟦M⟧ ⟦M⟧ ∗4·15 ⟦M⟧ ⟦M⟧",
+   "md_text": "∗1·3 ⟦M⟧ ⟦M⟧ ∗1·4 ⟦M⟧ ⟦M⟧ ∗1·5 ⟦M⟧ ⟦M⟧ ∗1·6 ⟦M⟧ ⟦M⟧ ∗2·03 ⟦M⟧ ⟦M⟧ ∗3·3 ⟦M⟧ ⟦M⟧ ∗4·15 ⟦M⟧ ⟦M⟧"
+  }
+ ],
+ "supplements": [
+  "dots.html"
+ ],
+ "meta_title": "The Notation in Principia Mathematica",
+ "authors": [
+  "Linsky, Bernard"
+ ]
+}

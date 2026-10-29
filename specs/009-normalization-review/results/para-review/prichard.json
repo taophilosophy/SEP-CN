@@ -1,0 +1,128 @@
+{
+ "slug": "prichard",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 77,
+ "n_md": 77,
+ "n_pairs": 70,
+ "n_flags": 0,
+ "n_merged": 6,
+ "merged": [
+  {
+   "ratio": 0.9995280792826805,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989451476793249,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993742177722152,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989361702127659,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988088147706968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "哈罗德·阿瑟·普里查德 Prichard, Harold Arthur (Jonathan Dancy)",
+  "zh_h1": "哈罗德·阿瑟·普里查德 Prichard, Harold Arthur (Jonathan Dancy)",
+  "yuanwen_h1": "Harold Arthur Prichard",
+  "html_title": "Harold Arthur Prichard",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 52,
+  "p→∅": 6,
+  "ol→ol": 1,
+  "table→table": 1,
+  "blockquote→blockquote": 1,
+  "h3→h3": 4,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 25,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Why did Prichard reject all such appeals to value? I think his main point is similar in style to the main ‘argument’ of Berkeley’s Principles §3. ‘Suppose we ask ourselves whether our sense that we ought to pay our debts or to tell the truth arises from our recognition that in doing so we would be originating something good … We at once and without hesitation answer “No”’ (10). But he does try to support this claim by argument. For instance, it might be held that the reasoning that runs ‘This wo",
+   "md_text": "Why did Prichard reject all such appeals to value? I think his main point is similar in style to the main ‘argument’ of Berkeley’s Principles §3. ‘Suppose we ask ourselves whether our sense that we ought to pay our debts or to tell the truth arises from our recognition that in doing so we would be originating something good … We at once and without hesitation answer “No”’ (10). But he does try to support this claim by argument. For instance, it might be held that the reasoning that runs ‘This wo"
+  },
+  {
+   "i": 18,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "the nature of the state of affairs originated, and what Prichard calls ‘a definite relation’ in which the agent stands to himself or to others, that relation forming part of the actual situation in which he has to act.",
+   "md_text": "the nature of the state of affairs originated, and what Prichard calls ‘a definite relation’ in which the agent stands to himself or to others, that relation forming part of the actual situation in which he has to act."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Harold Arthur Prichard",
+ "authors": [
+  "Dancy, Jonathan"
+ ]
+}

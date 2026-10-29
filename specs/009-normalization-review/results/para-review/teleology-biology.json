@@ -1,0 +1,213 @@
+{
+ "slug": "teleology-biology",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 49,
+ "n_md": 55,
+ "n_pairs": 26,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9995045417010735,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982164090368609,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993730407523511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987384764677341,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990913679959617,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986876640419947,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993224932249323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986743261157756,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993136582017845,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991805517618138,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "生物学中的目的论观念 teleological notions in biology (Colin Allen and Jacob Neal)",
+  "zh_h1": "生物学中的目的论观念 teleological notions in biology (Colin Allen and Jacob Neal)",
+  "yuanwen_h1": "Teleological Notions in Biology",
+  "html_title": "Teleological Notions in Biology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 21,
+  "p→p": 13,
+  "ul→ul": 1,
+  "h3→h3": 3,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+blockquote+p+p+ol+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×1(p→p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 35,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Christie et al. (2022) argue that much of the discussion of the selected effects accounts has failed to take account of the full complexity of evolutionary dynamics, particularly in cases such as frequency-dependent selection in which a phenotypic trait can be either beneficial or deleterious according to its frequency in the population cases where there is coevolution of traits and their selective environments. Although they do not rule out the suitablity of a selected effect for some relativel",
+   "md_text": "Christie et al. (2022) argue that much of the discussion of the selected effects accounts has failed to take account of the full complexity of evolutionary dynamics, particularly in cases such as frequency-dependent selection in which a phenotypic trait can be either beneficial or deleterious according to its frequency in the population cases where there is coevolution of traits and their selective environments. Although they do not rule out the suitablity of a selected effect for some relativel"
+  },
+  {
+   "i": 22,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Indirect approaches treat the adaptive, self-organizing nature of living cells and organisms as the natural basis for teleological properties of their traits, but give background credit to the power of natural selection to produce such self-organizational complexity as is found in living systems. Direct approaches invoke natural selection explicitly when explicating functional claims, either in an etiological sense based on the history of selection or in a dispositional sense based on the fitnes",
+   "md_text": "Indirect approaches treat the adaptive, self-organizing nature of living cells and organisms as the natural basis for teleological properties of their traits, but give background credit to the power of natural selection to produce such self-organizational complexity as is found in living systems. Direct approaches invoke natural selection explicitly when explicating functional claims, either in an etiological sense based on the history of selection or in a dispositional sense based on the fitnes"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Teleological Notions in Biology",
+ "authors": [
+  "Allen, Colin",
+  "Neal, Jacob"
+ ]
+}

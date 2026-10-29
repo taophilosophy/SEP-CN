@@ -1,0 +1,554 @@
+{
+ "slug": "boyle",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 190,
+ "n_md": 192,
+ "n_pairs": 139,
+ "n_flags": 3,
+ "n_merged": 39,
+ "merged": [
+  {
+   "ratio": 0.9995337995337995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998805256869773,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979550102249489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993287088834191,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987714987714987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988726042841037,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985074626865672,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992716678805535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988623435722411,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999554565701559,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977255496588324,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988367584335014,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991755976916735,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999104744852283,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994425863991081,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986282578875172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989680082559339,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996017522899243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998652896273013,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994017946161515,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992800575953924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995027349577325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999619916381604,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992673992673993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992902767920511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994019138755981,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975669099756691,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990300678952473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985955056179775,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983766233766234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989165763813651,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991518235793045,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981600735970562,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994879672299027,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984779299847792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992266047950503,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "罗伯特·波义耳 Boyle, Robert (Peter Anstey and Jan-Erik Jones)",
+  "zh_h1": "罗伯特·波义耳 Boyle, Robert (Peter Anstey and Jan-Erik Jones)",
+  "yuanwen_h1": "Robert Boyle",
+  "html_title": "Robert Boyle",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 44,
+  "p→p": 80,
+  "h3→h3": 21,
+  "h4→h4": 16,
+  "blockquote→blockquote": 11,
+  "blockquote→∅": 6,
+  "ol→ol": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 25,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×1(blockquote→blockquote)": 4
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 184,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[BP] Boyle Papers: The Boyle Papers, Boyle Letters, and Boyle Notebooks in the Royal Society Library, The Royal Society, London; now available on microfilm, Michael Hunter (ed.), as Letters and Papers of Robert Boyle, Bethesda, MD: University Publications of America, 1990. [BW] Boyle Works: The Works of Robert Boyle, M. Hunter, and E. B. Davis (eds.), 14 vols, London: Pickering and Chatto, 1999–2000. [BC] Boyle Correspondence: The Correspondence of Robert Boyle, M. Hunter, A. Clericuzio, and L. Principe (eds.), 6 vols., London: Pickering and Chatto, 2001. [BOA] Boyle on Atheism: Boyle on Atheism, J. J. MacIntosh (ed.), Toronto: University of Toronto Press, 2006."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 185,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Sources"
+  },
+  {
+   "kind": "replace",
+   "i": 189,
+   "j": 191,
+   "ratio": 0.9488272921108742,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "afterlife | Arnauld, Antoine | atheism and agnosticism | Bayle, Pierre | Cambridge Platonists | chemistry, philosophy of | Descartes, René | Gassendi, Pierre | Hume, David | Kant, Immanuel | laws of nature | Leibniz, Gottfried Wilhelm | Locke, John | Malebranche, Nicolas | mental imagery | miracles | omnipotence | ontological arguments | Pascal, Blaise | perception: the problem of | Plato | providence, divine | Spinoza, Baruch | theology, natural and natural religion | thought experiments",
+   "md_text": "afterlife Arnauld, Antoine atheism and agnosticism Bayle, Pierre Cambridge Platonists chemistry, philosophy of Descartes, René Gassendi, Pierre Hume, David Kant, Immanuel laws of nature Leibniz, Gottfried Wilhelm Locke, John Malebranche, Nicolas mental imagery miracles omnipotence ontological arguments Pascal, Blaise perception: the problem of Plato providence, divine Spinoza, Baruch theology, natural and natural religion thought experiments"
+  }
+ ],
+ "spot": [
+  {
+   "i": 135,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In defense of substance dualism, Boyle adopted a strategy found amongst the Cartesians and the Aristotelians. That is, he argues that our mental abilities indicate that there must be something incorporeal about our minds. Like Descartes, Boyle takes it that imagination is a matter of material images being formed in the brain. But they both also believe that we have knowledge of things which are unimaginable — that is, they cannot be accurately represented by a corporeal image in the central nerv",
+   "md_text": "In defense of substance dualism, Boyle adopted a strategy found amongst the Cartesians and the Aristotelians. That is, he argues that our mental abilities indicate that there must be something incorporeal about our minds. Like Descartes, Boyle takes it that imagination is a matter of material images being formed in the brain. But they both also believe that we have knowledge of things which are unimaginable — that is, they cannot be accurately represented by a corporeal image in the central nerv"
+  },
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Boyle’s Law does stem from Boyle’s work, but it is not what Boyle took himself to have demonstrated. Boyle’s Law holds for ideal gases and can be summarized as ⟦M⟧ where ⟦M⟧ is a constant, and ⟦M⟧ and ⟦M⟧ are pressure and volume respectively.",
+   "md_text": "Boyle’s Law does stem from Boyle’s work, but it is not what Boyle took himself to have demonstrated. Boyle’s Law holds for ideal gases and can be summarized as ⟦M⟧ where ⟦M⟧ is a constant, and ⟦M⟧ and ⟦M⟧ are pressure and volume respectively."
+  },
+  {
+   "i": 181,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Miracles are the proper testimony of the divinity of a religion; without which the divine origin cannot be established (BOA, 272) Christ and his Apostles insisted on the argument from miracles to establish the truth of Christianity (ibid.) Anybody can understand the argument from miracles; one need not be particularly well educated to assess its strength (BOA, 272–3) The argument from miracles is superior to all others because it not only proves the superiority of Christianity, but the truth of ",
+   "md_text": "Miracles are the proper testimony of the divinity of a religion; without which the divine origin cannot be established (BOA, 272) Christ and his Apostles insisted on the argument from miracles to establish the truth of Christianity (ibid.) Anybody can understand the argument from miracles; one need not be particularly well educated to assess its strength (BOA, 272–3) The argument from miracles is superior to all others because it not only proves the superiority of Christianity, but the truth of "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Robert Boyle",
+ "authors": [
+  "Anstey, Peter",
+  "Jones, Jan-Erik"
+ ]
+}

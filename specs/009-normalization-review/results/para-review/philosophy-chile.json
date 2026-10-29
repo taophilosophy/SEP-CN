@@ -1,0 +1,104 @@
+{
+ "slug": "philosophy-chile",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 45,
+ "n_md": 47,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 4,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991816693944353,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995764506565015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "19 和 20 世纪智利哲学 philosophy in (Ivan Jaksic)",
+  "zh_h1": "19 和 20 世纪智利哲学 philosophy in (Ivan Jaksic)",
+  "yuanwen_h1": "19th and 20th Century Chilean Philosophy",
+  "html_title": "19th and 20th Century Chilean Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 29,
+  "p→∅": 2,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 13,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The fundamental appeal of Positivism was through its notion of “progress”. Based on Auguste Comte’s work, Positivism allowed anticlerical thinkers to dismiss the “theological” stage as a primitive state in the evolution of humanity, one that would inevitably be superseded by the “metaphysic” and “scientific” stages. The political implications and uses of this evolutionary view were obvious: to advance to the highest level, Chileans needed to leave behind the religious influence of the Catholic C",
+   "md_text": "The fundamental appeal of Positivism was through its notion of “progress”. Based on Auguste Comte’s work, Positivism allowed anticlerical thinkers to dismiss the “theological” stage as a primitive state in the evolution of humanity, one that would inevitably be superseded by the “metaphysic” and “scientific” stages. The political implications and uses of this evolutionary view were obvious: to advance to the highest level, Chileans needed to leave behind the religious influence of the Catholic C"
+  },
+  {
+   "i": 40,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Chilean Association of Philosophy (in Spanish).",
+   "md_text": "Chilean Association of Philosophy (in Spanish)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "19th and 20th Century Chilean Philosophy",
+ "authors": [
+  "Jaksic, Ivan"
+ ]
+}

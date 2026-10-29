@@ -1,0 +1,195 @@
+{
+ "slug": "xenophanes",
+ "letter": "x",
+ "state": "ok",
+ "n_html": 57,
+ "n_md": 57,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9949579831932773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986422267481331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971988795518207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985085756897838,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987995198079231,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985496736765772,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984843892088512,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961501443695862,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975903614457832,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983224035382035,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9969040247678018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "克塞诺芬尼 Xenophanes (James Lesher)",
+  "zh_h1": "克塞诺芬尼 Xenophanes (James Lesher)",
+  "yuanwen_h1": "Xenophanes",
+  "html_title": "Xenophanes",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 22,
+  "p→∅": 11,
+  "blockquote→blockquote": 8,
+  "blockquote→∅": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Five fragments touch on traditional subjects of Greek sympotic verse—on proper conduct at symposia (drinking parties), the measures of personal excellence, and the existence of various human foibles or failures. Xenophanes appears to have been particularly interested in identifying and discouraging conduct that failed to pay due honor to the gods or posed a risk to the stability and well-being of the city (or perhaps both). Although these passages may be insufficiently abstract and demonstrative",
+   "md_text": "Five fragments touch on traditional subjects of Greek sympotic verse—on proper conduct at symposia (drinking parties), the measures of personal excellence, and the existence of various human foibles or failures. Xenophanes appears to have been particularly interested in identifying and discouraging conduct that failed to pay due honor to the gods or posed a risk to the stability and well-being of the city (or perhaps both). Although these passages may be insufficiently abstract and demonstrative"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Xenophanes",
+ "authors": [
+  "Lesher, James"
+ ]
+}

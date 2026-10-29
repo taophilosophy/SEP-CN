@@ -1,0 +1,338 @@
+{
+ "slug": "ambiguity",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 299,
+ "n_md": 307,
+ "n_pairs": 273,
+ "n_flags": 5,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976502181940249,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985590778097982,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992531740104555,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986859395532195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995289684408856,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992982456140351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990224828934506,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950920245398773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981981981981982,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988439306358381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970326409495549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974937343358395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999345977763244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955947136563876,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "歧义 ambiguity (Adam Sennet)",
+  "zh_h1": "歧义 ambiguity (Adam Sennet)",
+  "yuanwen_h1": "Ambiguity",
+  "html_title": "Ambiguity",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 155,
+  "p→∅": 17,
+  "blockquote→∅": 2,
+  "blockquote→blockquote": 9,
+  "h3→h3": 27,
+  "h4→h4": 17,
+  "ol→ol": 55,
+  "ol→∅": 4,
+  "dl→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 68,
+   "j": 71,
+   "ratio": 0.48,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "[∀ x :W x ][∃ y :M y ]( x squeezed y )",
+   "md_text": "[∀x:Wx]∃y:My"
+  },
+  {
+   "kind": "replace",
+   "i": 71,
+   "j": 74,
+   "ratio": 0.48,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "[∃ y :M y ][∀ x :W x ]( x squeezed y )",
+   "md_text": "[∃y:My]∀x:Wx"
+  },
+  {
+   "kind": "replace",
+   "i": 81,
+   "j": 89,
+   "ratio": 0.5915492957746479,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "[∀ w ][∀ x :Bachelor( w , x )](Unmarried( x , w ))",
+   "md_text": "[∀w]∀x:Bachelor(w,x))"
+  },
+  {
+   "kind": "replace",
+   "i": 84,
+   "j": 92,
+   "ratio": 0.5866666666666667,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "[∀ x :Bachelor( w , x )][∀ w ′](Unmarried ( x , w ′))",
+   "md_text": "[∀x:Bachelor(w,x)]∀w′)"
+  },
+  {
+   "kind": "replace",
+   "i": 296,
+   "j": 304,
+   "ratio": 0.945054945054945,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "analytic/synthetic distinction | anaphora | pragmatics | reference | Sorites paradox | vagueness",
+   "md_text": "analytic/synthetic distinction anaphora pragmatics reference Sorites paradox vagueness"
+  }
+ ],
+ "spot": [
+  {
+   "i": 290,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The non-bracketed sentence, absent an utterance of the bracketed content, will typically convey the order events as being mirrored in the order of the conjuncts. But, as Grice famously argued, this isn’t due to an embedded ordering in the meaning of ‘and’ as shown by the addition of the bracketed content not producing a contradiction. The Gricean stories about how we come about this extra information in non-cancellation cases is fairly well known. But given the preceding, it’s not hard to see th",
+   "md_text": "The non-bracketed sentence, absent an utterance of the bracketed content, will typically convey the order events as being mirrored in the order of the conjuncts. But, as Grice famously argued, this isn’t due to an embedded ordering in the meaning of ‘and’ as shown by the addition of the bracketed content not producing a contradiction. The Gricean stories about how we come about this extra information in non-cancellation cases is fairly well known. But given the preceding, it’s not hard to see th"
+  },
+  {
+   "i": 47,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "John floated the boat between the rocks.",
+   "md_text": "John floated the boat between the rocks."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ambiguity",
+ "authors": [
+  "Sennet, Adam"
+ ]
+}

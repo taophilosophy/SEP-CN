@@ -1,0 +1,812 @@
+{
+ "slug": "formal-epistemology",
+ "letter": "f",
+ "state": "flagged",
+ "n_html": 320,
+ "n_md": 323,
+ "n_pairs": 235,
+ "n_flags": 7,
+ "n_merged": 56,
+ "merged": [
+  {
+   "ratio": 0.9985063480209111,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952038369304557,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997946611909651,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976580796252927,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983948635634029,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9915127309036446,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995850622406639,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976976208749041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9982547993019197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998997995991984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987841945288753,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974632166412988,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979859013091642,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950980392156863,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962168978562421,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997080291970803,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994475138121547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993485342019544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9927797833935018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989380530973452,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977578475336323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991867714827867,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991546914623838,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959266802443992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946236559139785,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983792544570502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990749306197965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983397897066962,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988518943742825,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989247311827957,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985007496251874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991823385118561,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941520467836257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99830220713073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990029910269193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9886363636363636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9964788732394366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954407294832827,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9801350048216008,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966996699669967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9921259842519685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9882352941176471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976580796252927,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974259974259975,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984051036682615,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977116704805492,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998719590268886,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988188046302858,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993373094764745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975747776879548,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974619289340102,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971181556195965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9923161361141603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "形式认识论 epistemology, formal (Jonathan Weisberg)",
+  "zh_h1": "形式认识论 epistemology, formal (Jonathan Weisberg)",
+  "yuanwen_h1": "Formal Epistemology",
+  "html_title": "Formal Epistemology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 75,
+  "h3→h3": 18,
+  "p→mathblock": 17,
+  "p→p": 179,
+  "ol→∅": 2,
+  "h4→h4": 2,
+  "ol→ol": 2,
+  "ul→ul": 1,
+  "table→table": 2,
+  "ul→∅": 2,
+  "figure→p": 4,
+  "figure→∅": 2,
+  "table→∅": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 34,
+  "merged×3(p+ol+p→p+ol+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×2(p+p→p+p)": 9,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×1(ul→ul)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(figure→p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 256,
+   "j": 259,
+   "ratio": 0.9227941176470589,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To see how the weighing works, let’s start with a very simple example: betting on the outcome of a die-roll. In particular, let’s suppose a 5 or 6 will win you $19, while any other outcome loses you $10. Should you take this bet? We can represent the choice you face in the form of a table:",
+   "md_text": "To see how the weighing works, let’s start with a very simple example: betting on the outcome of a die-roll. In particular, let’s suppose a 5 or 6 will win you ⟦M⟧ 10. Should you take this bet? We can represent the choice you face in the form of a table:"
+  },
+  {
+   "kind": "replace",
+   "i": 257,
+   "j": 260,
+   "ratio": 0.8761904761904762,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Roll 1–4 Roll 5 or 6 Bet −$10 ⟦M⟧ $19 Don’t bet $0 $0",
+   "md_text": "Roll 1–4 Roll 5 or 6 Bet − ⟦M⟧ +$$19 Don’t bet ⟦M⟧ 0"
+  },
+  {
+   "kind": "replace",
+   "i": 259,
+   "j": 262,
+   "ratio": 0.6451612903225806,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Roll 1–4 Roll 5 or 6 Bet ⟦M⟧ ⟦M⟧ Don’t bet ⟦M⟧ ⟦M⟧",
+   "md_text": "Roll 1–4 Roll 5 or 6 Bet ⟦M⟧ 10\\\\ p=2/3} ⟦M⟧ \\substack{+ ⟦M⟧ Don’t bet ⟦M⟧ 0\\\\ p=2/3} ⟦M⟧ \\substack{+ ⟦M⟧"
+  },
+  {
+   "kind": "replace",
+   "i": 263,
+   "j": 266,
+   "ratio": 0.9228070175438596,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "That’s the basic idea at the core of decision theory, but it’s still a long way from being satisfactory. For one thing, this calculation assumes money is everything, which it surely isn’t. Suppose you need exactly $29 to get a bus home for the night, and all you have is the $10 bill in your pocket, which on its own is no use (even the cheapest drink at the casino bar is $11). So losing your $10 isn’t really much worse than keeping it—you might as well be broke either way. But gaining $19, now that’s worth a lot to you. If you can just get the bus back home, you won’t have to sleep rough for the night.",
+   "md_text": "That’s the basic idea at the core of decision theory, but it’s still a long way from being satisfactory. For one thing, this calculation assumes money is everything, which it surely isn’t. Suppose you need exactly ⟦M⟧ 10 bill in your pocket, which on its own is no use (even the cheapest drink at the casino bar is ⟦M⟧ 10 isn’t really much worse than keeping it—you might as well be broke either way. But gaining $19, now that’s worth a lot to you. If you can just get the bus back home, you won’t have to sleep rough for the night."
+  },
+  {
+   "kind": "replace",
+   "i": 264,
+   "j": 267,
+   "ratio": 0.5186813186813187,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "So we have to consider how much various dollar-amounts are worth to you . Losing $10 is worth about the same to you as losing $0, though gaining $19 is much, much more valuable. To capture these facts, we introduce a function, ⟦M⟧ , which represents the utility of various possible outcomes. For you, ⟦M⟧ , but ⟦M⟧ .",
+   "md_text": "So we have to consider how much various dollar-amounts are worth to you. Losing ⟦M⟧ 0, though gaining ⟦M⟧ u ⟦M⟧ u(- ⟦M⟧ 0) ⟦M⟧ u(+ ⟦M⟧ 0)$."
+  },
+  {
+   "kind": "replace",
+   "i": 265,
+   "j": 268,
+   "ratio": 0.7330396475770925,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Exactly how much is gaining $19 worth to you? What is ⟦M⟧ , exactly? We can actually answer this question if we just set a scale first. For example, suppose we want to know exactly how much you value a gain of $19 on a scale that ranges from gaining nothing to gaining $100. Then we set ⟦M⟧ and ⟦M⟧ , so that our scale ranges from 0 to 1. Then we can calculate ⟦M⟧ by asking how much you would be willing to risk to gain $100 instead of just $19. That is, suppose you had a choice between just being handed $19 with no strings attached vs. being offered a (free) gamble that pays $100 if you win, but nothing otherwise. How high would the probability of winning that $100 have to be for you to take a chance on it instead of the guaranteed $19? Given what’s at stake—making it home for the night vs. ",
+   "md_text": "Exactly how much is gaining ⟦M⟧ u(+ ⟦M⟧ , exactly? We can actually answer this question if we just set a scale first. For example, suppose we want to know exactly how much you value a gain of ⟦M⟧ 100. Then we set ⟦M⟧ 0)=0 ⟦M⟧ u(+ ⟦M⟧ , so that our scale ranges from 0 to 1. Then we can calculate ⟦M⟧ 19) ⟦M⟧ 100 instead of just ⟦M⟧ 19 with no strings attached vs. being offered a (free) gamble that pays ⟦M⟧ 100 have to be for you to take a chance on it instead of the guaranteed ⟦M⟧ 100 instead of the guaranteed ⟦M⟧ 100 would have to be at least .99 for you to trade the guaranteed ⟦M⟧ 100. Well, then, on a scale from gaining ⟦M⟧ 100, you value gaining $19 quite highly: .99 out of 1. (This method of measuring utility was discovered and popularized by von Neumann and Morgenstern (1944), though e"
+  },
+  {
+   "kind": "replace",
+   "i": 266,
+   "j": 269,
+   "ratio": 0.921681780708986,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Our full decision theory relies on two functions then, ⟦M⟧ and ⟦M⟧ . The probability function ⟦M⟧ reflects how likely you think the various possible outcomes of an action are to obtain, while ⟦M⟧ represents how desirable each outcome is. Faced with a choice between two possible courses of action, ⟦M⟧ and ⟦M⟧ , with two possible states the world might be in, ⟦M⟧ and ⟦M⟧ , there are four possible outcomes, ⟦M⟧ . For example, if you bet $1 on a coin-flip coming up heads and it does comes up heads, outcome ⟦M⟧ obtains and you win $1; if instead it comes up tails, outcome ⟦M⟧ obtains and you lose $1. The general shape of such situations is thus:",
+   "md_text": "Our full decision theory relies on two functions then, ⟦M⟧ and ⟦M⟧ . The probability function ⟦M⟧ reflects how likely you think the various possible outcomes of an action are to obtain, while ⟦M⟧ represents how desirable each outcome is. Faced with a choice between two possible courses of action, ⟦M⟧ and ⟦M⟧ , with two possible states the world might be in, ⟦M⟧ and ⟦M⟧ , there are four possible outcomes, ⟦M⟧ . For example, if you bet ⟦M⟧ O_1 ⟦M⟧ 1; if instead it comes up tails, outcome ⟦M⟧ obtains and you lose $1. The general shape of such situations is thus:"
+  }
+ ],
+ "spot": [
+  {
+   "i": 50,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Theoretical Fit. It’s a truism that the better a theory fits the evidence, the more the evidence supports it. But what does it mean for a theory to fit the evidence? When ⟦M⟧ entails ⟦M⟧ , the theory says the evidence must be true, so the discovery of the evidence fits the theory perfectly. Our formalism vindicates the truism in this special case as follows. When ⟦M⟧ entails ⟦M⟧ , Conditional Certainty for Logical Consequences tells us that ⟦M⟧ , so Bayes’ theorem becomes: ⟦M⟧ Provided ⟦M⟧ is le",
+   "md_text": "Theoretical Fit. It’s a truism that the better a theory fits the evidence, the more the evidence supports it. But what does it mean for a theory to fit the evidence? When ⟦M⟧ entails ⟦M⟧ , the theory says the evidence must be true, so the discovery of the evidence fits the theory perfectly. Our formalism vindicates the truism in this special case as follows. When ⟦M⟧ entails ⟦M⟧ , Conditional Certainty for Logical Consequences tells us that ⟦M⟧ , so Bayes’ theorem becomes: ⟦M⟧ Provided ⟦M⟧ is le"
+  },
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  }
+ ],
+ "supplements": [
+  "ow-animate.html",
+  "supplement.html",
+  "zollman.html"
+ ],
+ "meta_title": "Formal Epistemology",
+ "authors": [
+  "Weisberg, Jonathan"
+ ]
+}

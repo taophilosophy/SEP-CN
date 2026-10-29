@@ -1,0 +1,709 @@
+{
+ "slug": "common-ground-pragmatics",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 203,
+ "n_md": 248,
+ "n_pairs": 131,
+ "n_flags": 1,
+ "n_merged": 47,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978239366963403,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988099960333201,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994478188845941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9830508474576272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9990982867448152,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974895397489539,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990697674418605,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988649262202043,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973333333333333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991589571068125,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956427015250545,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984639016897081,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990766389658357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9977528089887641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "mathblock",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "mathblock",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "mathblock",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9916805324459235,
+   "n_h": 1,
+   "n_m": 10,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993964996982498,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9883720930232558,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983844911147012,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983669025585193,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999245283018868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976798143851509,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986813186813187,
+   "n_h": 5,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991193860863001,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969512195121951,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990128331688055,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973045822102425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994334277620397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980026631158455,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992283950617284,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983498349834984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9975510204081632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997867803837953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998898678414097,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995771670190274,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988156336360048,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999353169469599,
+   "n_h": 3,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999244142101285,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991023339317774,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "语用学中的共同基础 Common Ground in Pragmatics (Geurts, Bart)",
+  "zh_h1": "语用学中的共同基础 Common Ground in Pragmatics (Geurts, Bart)",
+  "yuanwen_h1": "Common Ground in Pragmatics",
+  "html_title": "Common Ground in Pragmatics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 51,
+  "p→p": 91,
+  "ol→ol": 5,
+  "h3→h3": 13,
+  "ol→∅": 1,
+  "blockquote→blockquote": 6,
+  "dl→∅": 12,
+  "h4→h4": 3,
+  "ul→∅": 2,
+  "p→mathblock": 1,
+  "figure→∅": 3,
+  "ul→ul": 2,
+  "blockquote→∅": 2,
+  "merged×1(preamble→p+p+blockquote+p+blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 21,
+  "merged×1(ol→ol)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 2,
+  "merged×1(dl→p+p)": 2,
+  "merged×1(ul→ul)": 2,
+  "merged×1(figure→mathblock+p)": 3,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+dl→p+p+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 2,
+  "merged×5(p+p+dl+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+dl→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(dl+p+p→p+p+p+p+p+p)": 1,
+  "merged×3(p+dl+p→p+p+p+p+p+p+p+p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 200,
+   "j": 245,
+   "ratio": 0.9354838709677419,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "assertion | belief | common knowledge | descriptions | logic: epistemic | presupposition | promises",
+   "md_text": "assertion belief common knowledge descriptions logic: epistemic presupposition promises"
+  }
+ ],
+ "spot": [
+  {
+   "i": 160,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Having discussed some of the ways different views on common ground may hang together, let us now ask which one(s) are actually needed. The short answer to that question is that only time will tell. I have a longer answer, too, but it is more tentative. It starts with the observation that, broadly speaking, there are two major approaches to pragmatics, one mentalist, the other normative. These approaches are associated with distinct views on common ground, and as several of these views seem to be",
+   "md_text": "Having discussed some of the ways different views on common ground may hang together, let us now ask which one(s) are actually needed. The short answer to that question is that only time will tell. I have a longer answer, too, but it is more tentative. It starts with the observation that, broadly speaking, there are two major approaches to pragmatics, one mentalist, the other normative. These approaches are associated with distinct views on common ground, and as several of these views seem to be"
+  },
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Another telling illustration of the limited explanatory power of the container view is that it fails to capture the key distinction between common ground and information that is merely shared. Consider again the set of worlds introduced earlier as Betty and Barney’s common ground; call it ⟦M⟧ . So, by hypothesis, in all worlds in ⟦M⟧ it will be dry today. Now consider an alternative scenario, in which Betty and Barney merely happen to share the information that it will be dry today, which is rep",
+   "md_text": "Another telling illustration of the limited explanatory power of the container view is that it fails to capture the key distinction between common ground and information that is merely shared. Consider again the set of worlds introduced earlier as Betty and Barney’s common ground; call it ⟦M⟧ . So, by hypothesis, in all worlds in ⟦M⟧ it will be dry today. Now consider an alternative scenario, in which Betty and Barney merely happen to share the information that it will be dry today, which is rep"
+  },
+  {
+   "i": 8,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "What is common ground and what distinguishes it from merely shared information? How do our linguistic interactions change the common ground? How do our linguistic interactions rely on and exploit the common ground?",
+   "md_text": "What is common ground and what distinguishes it from merely shared information? How do our linguistic interactions change the common ground? How do our linguistic interactions rely on and exploit the common ground?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Common Ground in Pragmatics",
+ "authors": [
+  "Geurts, Bart"
+ ]
+}

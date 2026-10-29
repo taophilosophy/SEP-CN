@@ -1,0 +1,301 @@
+{
+ "slug": "property",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 101,
+ "n_md": 101,
+ "n_pairs": 57,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9984413965087282,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983128464690287,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966887417218543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985328023475163,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971830985915493,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996102124342233,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995206902061032,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986838641747828,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991251093613298,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993262363562863,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999669056811914,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990734612839179,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991720483523763,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993340732519422,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9915254237288136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "财产和所有权 property and ownership (Jeremy Waldron and James Penner)",
+  "zh_h1": "财产和所有权 property and ownership (Jeremy Waldron and James Penner)",
+  "yuanwen_h1": "Property and Ownership",
+  "html_title": "Property and Ownership",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 35,
+  "ul→ul": 1,
+  "p→∅": 40,
+  "ol→ol": 1,
+  "blockquote→blockquote": 9,
+  "blockquote→∅": 3,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×3(p+p+p→p+p+p)": 6,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The first question we must ask is “What are the (proper) objects of property rules or property rights?” In terms of our common discourse, property rights are rights to physical things, objects, goods, parcels of land, and so on. Although of economic value, your right to your bank balance, company shares, and intellectual property rights are not on this view property rights: they cannot be physically touched, possessed, or occupied, so they do not belong. The second, broader, concept of property ",
+   "md_text": "The first question we must ask is “What are the (proper) objects of property rules or property rights?” In terms of our common discourse, property rights are rights to physical things, objects, goods, parcels of land, and so on. Although of economic value, your right to your bank balance, company shares, and intellectual property rights are not on this view property rights: they cannot be physically touched, possessed, or occupied, so they do not belong. The second, broader, concept of property "
+  },
+  {
+   "i": 9,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Land is immovable; indeed the name civil law gives to parcels of land is ‘immovables’. Outside Antarctica, parcels of land generally form part of a state’s territory, and its jurisdictional rules will significantly shape what title to land amounts to. Rights or titles to land are extremely malleable. It is, for an example, doubtful that rights to land under feudal systems amounted to property rights at all. People were attached to the land in various capacities (serf, lord of a manor, seigneur, ",
+   "md_text": "Land is immovable; indeed the name civil law gives to parcels of land is ‘immovables’. Outside Antarctica, parcels of land generally form part of a state’s territory, and its jurisdictional rules will significantly shape what title to land amounts to. Rights or titles to land are extremely malleable. It is, for an example, doubtful that rights to land under feudal systems amounted to property rights at all. People were attached to the land in various capacities (serf, lord of a manor, seigneur, "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Property and Ownership",
+ "authors": [
+  "Waldron, Jeremy",
+  "Penner, James"
+ ]
+}

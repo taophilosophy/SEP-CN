@@ -1,0 +1,184 @@
+{
+ "slug": "law-ideology",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 48,
+ "n_md": 50,
+ "n_pairs": 32,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991673605328892,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992486851990984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995099240382259,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995985547972702,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993569131832798,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996343692870201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999206034140532,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994769874476988,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994472084024323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "法律与意识形态 and ideology (Christine Sypnowich)",
+  "zh_h1": "法律与意识形态 and ideology (Christine Sypnowich)",
+  "yuanwen_h1": "Law and Ideology",
+  "html_title": "Law and Ideology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 14,
+  "p→p": 21,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Some theorists cast doubt on the capacity of the theorist, however emancipatory their aims, to stand outside of ideological formations, particularly if ideology insinuates itself in habits of mind, attitudes and practices. Thus even if we believe ourselves to have rationally corrected racist error, we might still persist in a racist outlook. Moreover, in our anti-racist efforts, we might do well to marshall ideological strategies for emancipation, as counselled by Mills. Understanding ideology c",
+   "md_text": "Some theorists cast doubt on the capacity of the theorist, however emancipatory their aims, to stand outside of ideological formations, particularly if ideology insinuates itself in habits of mind, attitudes and practices. Thus even if we believe ourselves to have rationally corrected racist error, we might still persist in a racist outlook. Moreover, in our anti-racist efforts, we might do well to marshall ideological strategies for emancipation, as counselled by Mills. Understanding ideology c"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Law and Ideology",
+ "authors": [
+  "Sypnowich, Christine"
+ ]
+}

@@ -1,0 +1,1405 @@
+{
+ "slug": "nonwellfounded-set-theory",
+ "letter": "n",
+ "state": "flagged",
+ "n_html": 401,
+ "n_md": 404,
+ "n_pairs": 145,
+ "n_flags": 20,
+ "n_merged": 70,
+ "merged": [
+  {
+   "ratio": 0.9977074736359468,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978632478632479,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99597747385358,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991095280498664,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943946188340808,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9878934624697336,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9748283752860412,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9641025641025641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963898916967509,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.980528511821975,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9934601664684899,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9914163090128756,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9840255591054313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9766081871345029,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971181556195965,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970674486803519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977324263038548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9915966386554622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9826897470039947,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9854771784232366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9800796812749004,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9586776859504132,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9899923017705927,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9826302729528535,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972826086956522,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982742599230054,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972602739726028,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9789393554935295,
+   "n_h": 13,
+   "n_m": 13,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "blockquote",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9926362297496318,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9807692307692307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945318972659486,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9892715979672502,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965194109772423,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9883268482490273,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9532710280373832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9869791666666666,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961517317207257,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9841269841269841,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9922480620155039,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9528795811518325,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938718662952646,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.973651191969887,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9803646563814866,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9962406015037594,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9841269841269841,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9913281606572342,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9536019536019537,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9868995633187773,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995921262635219,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976602714085167,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911173445535297,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9699469652327637,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9895104895104895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.98828125,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9863857374392221,
+   "n_h": 15,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9820923656927427,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.991869918699187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9793140990745781,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9752380952380952,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9906832298136646,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9801488833746899,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979716024340771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956076134699854,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.986420702024084,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9956196856480288,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9918641669614432,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958326387731289,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977507872244714,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "非良基集合论 non-wellfounded (Lawrence S. Moss and Maricarmen Martinez)",
+  "zh_h1": "非良基集合论 non-wellfounded (Lawrence S. Moss and Maricarmen Martinez)",
+  "yuanwen_h1": "Non-wellfounded Set Theory",
+  "html_title": "Non-wellfounded Set Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 165,
+  "blockquote→∅": 83,
+  "h3→h3": 16,
+  "blockquote→blockquote": 23,
+  "p→p": 91,
+  "h4→h4": 3,
+  "ul→ul": 1,
+  "ol→∅": 4,
+  "table→∅": 2,
+  "ol→ol": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 19,
+  "merged×2(blockquote+p→blockquote+p)": 4,
+  "merged×2(p+blockquote→p+blockquote)": 5,
+  "merged×4(blockquote+p+blockquote+p→blockquote+p+blockquote+p)": 2,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×5(p+p+blockquote+p+blockquote→p+p+blockquote+p+blockquote)": 3,
+  "merged×5(p+table+p+blockquote+p→p+table+p+blockquote+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×13(p+p+p+p+p+blockquote+p+blockquote+blockquote+blockquote+blockquote+blockquote+blockquote→p+p+p+p+p+blockquote+p+blockquote+blockquote+blockquote+blockquote+blockquote+blockquote)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×10(p+p+blockquote+p+p+p+p+p+blockquote+p→p+p+blockquote+p+p+p+p+p+blockquote+p)": 1,
+  "merged×3(p+ol+p→p+ol+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×7(p+ol+p+p+p+p+blockquote→p+ol+p+p+p+p+blockquote)": 1,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 2,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×5(p+p+p+blockquote+p→p+p+p+blockquote+p)": 2,
+  "merged×7(blockquote+p+p+p+blockquote+p+blockquote→blockquote+p+p+p+blockquote+p+blockquote)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×6(p+p+p+p+blockquote+blockquote→p+p+p+p+blockquote+blockquote)": 1,
+  "merged×11(p+blockquote+p+blockquote+p+blockquote+p+p+blockquote+p+blockquote→p+blockquote+p+blockquote+p+blockquote+p+p+blockquote+p+blockquote)": 1,
+  "merged×15(p+blockquote+p+p+p+blockquote+p+p+blockquote+p+p+p+p+p+p→p+blockquote+p+p+p+blockquote+p+p+blockquote+p+p+p+p+p+p)": 1,
+  "merged×9(p+p+p+blockquote+p+p+blockquote+p+blockquote→p+p+p+blockquote+p+p+blockquote+p+blockquote)": 1,
+  "merged×5(blockquote+p+blockquote+p+p→blockquote+p+blockquote+p+p)": 1,
+  "merged×8(p+blockquote+p+blockquote+p+p+p+p→p+blockquote+p+blockquote+p+p+p+p)": 1,
+  "merged×6(p+p+table+p+p+blockquote→p+p+table+p+p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 25,
+   "j": 28,
+   "ratio": 0.9111111111111111,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "(4) x ≈ ⟨1, zip ( x , y )⟩ y ≈ ⟨0, zip ( y , x )⟩",
+   "md_text": "(4) x ≈ ⟨1, zip(x, y)⟩ y ≈ ⟨0, zip(y, x)⟩"
+  },
+  {
+   "kind": "replace",
+   "i": 55,
+   "j": 58,
+   "ratio": 0.8857142857142857,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "(6) s ≈ * / \\ t u t ≈ • s u ≈ * / \\ x y",
+   "md_text": "(6) s ≈ * / \\ t u u ≈ * / \\ x y"
+  },
+  {
+   "kind": "replace",
+   "i": 57,
+   "j": 60,
+   "ratio": 0.2802303262955854,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "s ⟦P⟧ = * / \\ • * / / \\ * x y / \\ • * / / \\ … x y t ⟦P⟧ = • u ⟦P⟧ = * / \\ x y",
+   "md_text": "s ⟦P⟧ = （嵌套表：| | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | / | | \\ | | | | | | | | | | | • | | | | | | | | | | | | | / | | | | / | | \\ | | | | | | | | | | | x | | | | y | | | | | / | | \\ | | | | | | | | | | | • | | | | | | | | | | | | | / | | | | / | | \\ | | | | | | | … | | | | x | | | | y | | | | |） （嵌套表：| t ⟦P⟧ | = | • \\| | | --- | --- | --- |） u ⟦P⟧ = * / \\ x y"
+  },
+  {
+   "kind": "replace",
+   "i": 61,
+   "j": 64,
+   "ratio": 0.8888888888888888,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "s ≈ ⟨*, t , u ⟩ t ≈ ⟨•, s ⟩ u ≈ ⟨*, x , y ⟩",
+   "md_text": "s ≈ ⟨, t, u*⟩ t ≈ ⟨•, s⟩ u ≈ ⟨, x, y*⟩"
+  },
+  {
+   "kind": "replace",
+   "i": 77,
+   "j": 80,
+   "ratio": 0.13274336283185842,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "1 2 ← 3 ↓ 4 ← ↓",
+   "md_text": "（嵌套表：| | | 1 | | | | --- | --- | --- | --- | --- | | | | | | | | 2 | | ← | | 3 | | | | | | ↓ | | | | | | 4 |） （嵌套表：| | | | | | | --- | --- | --- | --- | --- | | | | | | | | | | ← | | | | | | | | ↓ | | | | | | |）"
+  },
+  {
+   "kind": "replace",
+   "i": 97,
+   "j": 100,
+   "ratio": 0.9330628803245437,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "d ( x ⟦S⟧ ) = { d ( y ⟦S⟧ ), d ( x ⟦S⟧ )} = {{0, d ( y ⟦S⟧ )}, {0} } = ⟨0, d ( y ⟦S⟧ )⟩ d ( y ⟦S⟧ ) = { d ( z ⟦S⟧ ), d ( y ⟦S⟧ )} = {{1, d ( z ⟦S⟧ )}, {1} } = ⟨1, d ( z ⟦S⟧ )⟩ d ( z ⟦S⟧ ) = { d ( x ⟦S⟧ ), d ( z ⟦S⟧ )} = {{2, d ( x ⟦S⟧ )}, {2} } = ⟨2, d ( x ⟦S⟧ )⟩",
+   "md_text": "d(x ⟦S⟧ ) = {d(y ⟦S⟧ ), d(x ⟦S⟧ )} = {{0, d(y ⟦S⟧ )}, {0} } = ⟨0, d(y ⟦S⟧ )⟩ d(y ⟦S⟧ ) = {d(z ⟦S⟧ ), d(y ⟦S⟧ )} = {{1, d(z ⟦S⟧ )}, {1} } = ⟨1, d(z ⟦S⟧ )⟩ d(z ⟦S⟧ ) = {d(x ⟦S⟧ ), d(z ⟦S⟧ )} = {{2, d(x ⟦S⟧ )}, {2} } = ⟨2, d(x ⟦S⟧ )⟩"
+  },
+  {
+   "kind": "replace",
+   "i": 99,
+   "j": 102,
+   "ratio": 0.9491525423728814,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "x ⟦P⟧ = d ( x ⟦S⟧ ), y ⟦P⟧ = d ( y ⟦S⟧ ), z ⟦P⟧ = d ( z ⟦S⟧ ).",
+   "md_text": "x ⟦P⟧ = d(x ⟦S⟧ ), y ⟦P⟧ = d(y ⟦S⟧ ), z ⟦P⟧ = d(z ⟦S⟧ )."
+  },
+  {
+   "kind": "replace",
+   "i": 211,
+   "j": 214,
+   "ratio": 0.8441558441558441,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "R = {(2 a , 2 b ), (2 b , 2 c ), (2 c , 2 a ), (3 a , 3 b ), (3 b , 3 c ), (3 c , 3 a )}.",
+   "md_text": "R = {(2a, 2b), (2b, 2c), (2c, 2a), (3a, 3b), (3b, 3c), (3c, 3a)}."
+  },
+  {
+   "kind": "replace",
+   "i": 214,
+   "j": 217,
+   "ratio": 0.8333333333333334,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "k ( u , v ) = d ( u ), and l ( u , v ) = d ( v ).",
+   "md_text": "k(u, v) = d(u), and l(u, v) = d(v)."
+  },
+  {
+   "kind": "replace",
+   "i": 216,
+   "j": 219,
+   "ratio": 0.8181818181818182,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "d (2 a ) = k (2 a ,2 b ) = l (2 a ,2 b ) = d (2 b ).",
+   "md_text": "d(2a) = k(2a,2b) = l(2a,2b) = d(2b)."
+  },
+  {
+   "kind": "replace",
+   "i": 224,
+   "j": 227,
+   "ratio": 0.8450704225352113,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "∀ x , y ( x = y → ∀ z ( z ∈ x → z ∈ y )).",
+   "md_text": "∀x,y(x=y → ∀z(z ∈ x → z ∈ y))."
+  },
+  {
+   "kind": "replace",
+   "i": 226,
+   "j": 229,
+   "ratio": 0.8767123287671232,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "∀ p , q ( p ≡ q → ∀ r ( r ε p → r ε q )).",
+   "md_text": "∀p,q(p ≡ q → ∀r(r ε p → r ε q))."
+  },
+  {
+   "kind": "replace",
+   "i": 247,
+   "j": 250,
+   "ratio": 0.8709677419354839,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "d ( w ) = { d ( w ),1,2} d ( y ) = 2 d ( x ) = {0} = 1 d ( z ) = ∅ = 0",
+   "md_text": "d(w) = {d(w),1,2} d(y) = 2 d(x) = {0} = 1 d(z) = ∅ = 0"
+  },
+  {
+   "kind": "replace",
+   "i": 256,
+   "j": 259,
+   "ratio": 0.9230769230769231,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "V = ℘ V",
+   "md_text": "V = ℘V"
+  },
+  {
+   "kind": "replace",
+   "i": 292,
+   "j": 295,
+   "ratio": 0.92,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Ha = ( a × a ) + ( a × a ).",
+   "md_text": "Ha = (a × a) + (a × a)."
+  },
+  {
+   "kind": "replace",
+   "i": 294,
+   "j": 297,
+   "ratio": 0.6328502415458938,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "(0,0) (0,1) (0,2) … (1,0) (1,1) (1,2) … (2,0) (2,1) (2,2) … … … … … (0,0) (0,1) (0,2) … (1,0) (1,1) (1,2) … (2,0) (2,1) (2,2) … … … … …",
+   "md_text": "（嵌套表：| (0,0) | (0,1) | (0,2) | … | | --- | --- | --- | --- | | (1,0) | (1,1) | (1,2) | … | | (2,0) | (2,1) | (2,2) | … | | … | … | … | … |） （嵌套表：| (0,0) | (0,1) | (0,2) | … | | --- | --- | --- | --- | | (1,0) | (1,1) | (1,2) | … | | (2,0) | (2,1) | (2,2) | … | | … | … | … | … |）"
+  },
+  {
+   "kind": "replace",
+   "i": 340,
+   "j": 343,
+   "ratio": 0.8888888888888888,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "j : V →℘ V",
+   "md_text": "j: V →℘V"
+  },
+  {
+   "kind": "replace",
+   "i": 368,
+   "j": 371,
+   "ratio": 0.851063829787234,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "zip ( s , t )) = head ( s )",
+   "md_text": "zip(s, t)) = head(s)"
+  },
+  {
+   "kind": "replace",
+   "i": 369,
+   "j": 372,
+   "ratio": 0.8461538461538461,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "tail ( zip ( s , t )) = zip ( tail ( t ), s )",
+   "md_text": "tail(zip(s, t)) = zip(tail(t), s)"
+  },
+  {
+   "kind": "replace",
+   "i": 396,
+   "j": 399,
+   "ratio": 0.8840579710144928,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Bart Jacobs, Introduction to Coalgebra. Towards Mathematics of States and Observations [PDF] (book draft) Freyd, P., 1999, ‘ Real coalgebra ’, web posting on the Categories (mailing) List, 22 December 1999, available via the mailing list archive .",
+   "md_text": "Bart Jacobs, [Introduction to Coalgebra. Towards Mathematics of States and Observations [PDF]](http://www.cs.ru.nl/B.Jacobs/CLG/JacobsCoalgebraIntro.pdf) (book draft) Freyd, P., 1999, ‘Real coalgebra’, web posting on the Categories (mailing) List, 22 December 1999, available via the mailing list archive."
+  }
+ ],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Before we turn to the details, let us consider the parallel matter of sequences construed as functions on the natural numbers. Anyone who teaches about (infinite) sequences of some sort, say sequences of integers or real numbers, may at some point need to say what a sequence actually is. Surely this is not done very often in elementary presentations: usually one would give examples instead of a formal definition, or illustrate what sequences are for by using them in some way or other. In any cas",
+   "md_text": "Before we turn to the details, let us consider the parallel matter of sequences construed as functions on the natural numbers. Anyone who teaches about (infinite) sequences of some sort, say sequences of integers or real numbers, may at some point need to say what a sequence actually is. Surely this is not done very often in elementary presentations: usually one would give examples instead of a formal definition, or illustrate what sequences are for by using them in some way or other. In any cas"
+  },
+  {
+   "i": 49,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "By changing the usual axioms of set theory, one can model circularly defined streams and other objects in a way which is closer to the intuition that one has about them. In particular, it is possible to work with object-level circularity in a relatively consistent set theory, and there may be reasons why one would want to do so. In the changed theory, we also find different results on collections defined in terms of themselves. We have already seen such a collection, HF from (1). The status of c",
+   "md_text": "By changing the usual axioms of set theory, one can model circularly defined streams and other objects in a way which is closer to the intuition that one has about them. In particular, it is possible to work with object-level circularity in a relatively consistent set theory, and there may be reasons why one would want to do so. In the changed theory, we also find different results on collections defined in terms of themselves. We have already seen such a collection, HF from (1). The status of c"
+  }
+ ],
+ "supplements": [
+  "harsanyi-type-spaces.html",
+  "measurable-spaces.html",
+  "modeling-circularity.html",
+  "self-similar-sets.html"
+ ],
+ "meta_title": "Non-wellfounded Set Theory",
+ "authors": [
+  "Moss, Lawrence S."
+ ]
+}

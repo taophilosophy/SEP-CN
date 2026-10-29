@@ -1,0 +1,453 @@
+{
+ "slug": "qm-modal",
+ "letter": "q",
+ "state": "ok",
+ "n_html": 132,
+ "n_md": 132,
+ "n_pairs": 85,
+ "n_flags": 0,
+ "n_merged": 32,
+ "merged": [
+  {
+   "ratio": 0.9995608256477821,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991610738255033,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982964224872232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993810604497627,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991867714827867,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977186311787072,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992852037169406,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993943064809206,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988913525498891,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981481481481481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986684420772304,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988700564971752,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993373094764745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99909338168631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980806142034548,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993220338983051,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992852037169406,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988385598141696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994121105232217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9841269841269841,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9987603305785124,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99933818663137,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989888776541962,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966329966329966,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991503823279524,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964028776978417,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992181391712275,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984935221452245,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985185185185185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9921996879875195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "量子力学的模态解释 modal interpretations of (Olimpia Lombardi and Dennis Dieks)",
+  "zh_h1": "量子力学的模态解释 modal interpretations of (Olimpia Lombardi and Dennis Dieks)",
+  "yuanwen_h1": "Modal Interpretations of Quantum Mechanics",
+  "html_title": "Modal Interpretations of Quantum Mechanics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 16,
+  "p→∅": 44,
+  "p→p": 58,
+  "ul→ul": 2,
+  "p→mathblock": 5,
+  "ul→∅": 2,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 17,
+  "merged×2(p+p→p+p)": 9,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(ul→ul)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 105,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, many proponents of modal schemes argue that the latter feature is not appropriately expressed by saying that quantum mechanics, modally conceived, is incomplete. They object that this incompleteness terminology is apt to suggest a defect of the theory, and the need for completion (by hidden variables). But modal theorists maintain that their interpretations of quantum mechanics are not in need of additions, because these interpretations already contain everything that can reasonably be ",
+   "md_text": "However, many proponents of modal schemes argue that the latter feature is not appropriately expressed by saying that quantum mechanics, modally conceived, is incomplete. They object that this incompleteness terminology is apt to suggest a defect of the theory, and the need for completion (by hidden variables). But modal theorists maintain that their interpretations of quantum mechanics are not in need of additions, because these interpretations already contain everything that can reasonably be "
+  },
+  {
+   "i": 27,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "BDMI can be applied directly to the quantum measurement problem. Let us consider an ideal measurement according to the standard von Neumann model, in which a quantum measurement is an interaction between a system ⟦M⟧ and a measuring apparatus ⟦M⟧ . Before the interaction, ⟦M⟧ is prepared in a ready-to-measure state ⟦M⟧ , eigenvector of the pointer observable ⟦M⟧ of ⟦M⟧ , and the state of ⟦M⟧ is a superposition of the eigenstates ⟦M⟧ of an observable ⟦M⟧ of ⟦M⟧ . The interaction introduces a corr",
+   "md_text": "BDMI can be applied directly to the quantum measurement problem. Let us consider an ideal measurement according to the standard von Neumann model, in which a quantum measurement is an interaction between a system ⟦M⟧ and a measuring apparatus ⟦M⟧ . Before the interaction, ⟦M⟧ is prepared in a ready-to-measure state ⟦M⟧ , eigenvector of the pointer observable ⟦M⟧ of ⟦M⟧ , and the state of ⟦M⟧ is a superposition of the eigenstates ⟦M⟧ of an observable ⟦M⟧ of ⟦M⟧ . The interaction introduces a corr"
+  },
+  {
+   "i": 5,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The dynamical state determines what may be the case: which physical properties the system may possess, and what probabilities are attached to these possibilities. The value state represents what actually is the case, that is, all the system’s physical properties that are sharply defined at the instant in question.",
+   "md_text": "The dynamical state determines what may be the case: which physical properties the system may possess, and what probabilities are attached to these possibilities. The value state represents what actually is the case, that is, all the system’s physical properties that are sharply defined at the instant in question."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Modal Interpretations of Quantum Mechanics",
+ "authors": [
+  "Lombardi, Olimpia",
+  "Dieks, Dennis"
+ ]
+}

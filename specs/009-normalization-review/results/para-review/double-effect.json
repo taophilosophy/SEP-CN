@@ -1,0 +1,246 @@
+{
+ "slug": "double-effect",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 83,
+ "n_md": 84,
+ "n_pairs": 60,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9989373007438895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982174688057041,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962315861596437,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992922859164898,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984623270117888,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997003296373989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995311767463666,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996730957829356,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996674426338543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994635193133047,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992205767731879,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9627942293090357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9555555555555556,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "双重效应原则 double effect, doctrine of (Alison McIntyre)",
+  "zh_h1": "双重效应原则 double effect, doctrine of (Alison McIntyre)",
+  "yuanwen_h1": "Doctrine of Double Effect",
+  "html_title": "Doctrine of Double Effect",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 36,
+  "ol→ol": 3,
+  "blockquote→∅": 2,
+  "dl→∅": 1,
+  "p→∅": 19,
+  "h3→h3": 9,
+  "blockquote→blockquote": 1,
+  "ul→∅": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 38,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Are we more inclined to call a harmful result a merely foreseen side effect when we believe that it is permissibly brought about, while also being more inclined to describe a harmful result as something that was intended as part of the agent’s means when we believe that it is impermissibly brought about? If so, there will be an association between permissible harms that are classified as side effects and impermissibly caused harms that are classified as results brought about intentionally, but t",
+   "md_text": "Are we more inclined to call a harmful result a merely foreseen side effect when we believe that it is permissibly brought about, while also being more inclined to describe a harmful result as something that was intended as part of the agent’s means when we believe that it is impermissibly brought about? If so, there will be an association between permissible harms that are classified as side effects and impermissibly caused harms that are classified as results brought about intentionally, but t"
+  },
+  {
+   "i": 7,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The act itself must be morally good or at least indifferent. The agent may not positively will the bad effect but may permit it. If he could attain the good effect without the bad effect he should do so. The bad effect is sometimes said to be indirectly voluntary. The good effect must flow from the action at least as immediately (in the order of causality, though not necessarily in the order of time) as the bad effect. In other words the good effect must be produced directly by the action, not b",
+   "md_text": "The act itself must be morally good or at least indifferent. The agent may not positively will the bad effect but may permit it. If he could attain the good effect without the bad effect he should do so. The bad effect is sometimes said to be indirectly voluntary. The good effect must flow from the action at least as immediately (in the order of causality, though not necessarily in the order of time) as the bad effect. In other words the good effect must be produced directly by the action, not b"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Doctrine of Double Effect",
+ "authors": [
+  "McIntyre, Alison"
+ ]
+}

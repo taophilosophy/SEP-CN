@@ -1,0 +1,197 @@
+{
+ "slug": "taurellus",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 82,
+ "n_md": 82,
+ "n_pairs": 64,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9988991979871049,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990942028985508,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99830220713073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995056846267919,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984251968503937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995555555555555,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995249406175772,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983385637806904,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9901960784313726,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "尼古拉斯·塔雷路斯 Taurellus, Nicolaus (Andreas Blank)",
+  "zh_h1": "尼古拉斯·塔雷路斯 Taurellus, Nicolaus (Andreas Blank)",
+  "yuanwen_h1": "Nicolaus Taurellus",
+  "html_title": "Nicolaus Taurellus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→∅": 16,
+  "p→p": 34,
+  "blockquote→blockquote": 18,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(p→p)": 5,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 46,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This conception of the emergence of new forms is what underlies Taurellus’s analysis of the structure of plants and animals. He ascribes soul and life only to the latter since only they possess sense and self-motion (PT: 350), but this should not obscure the fundamental analogy between the emergence of forms in plant and the emergence of forms in animals. In his view, what possesses life in the proper sense are higher kinds of forms—the souls of animals (PT). The organic body of an animal, const",
+   "md_text": "This conception of the emergence of new forms is what underlies Taurellus’s analysis of the structure of plants and animals. He ascribes soul and life only to the latter since only they possess sense and self-motion (PT: 350), but this should not obscure the fundamental analogy between the emergence of forms in plant and the emergence of forms in animals. In his view, what possesses life in the proper sense are higher kinds of forms—the souls of animals (PT). The organic body of an animal, const"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Nicolaus Taurellus",
+ "authors": [
+  "Blank, Andreas"
+ ]
+}

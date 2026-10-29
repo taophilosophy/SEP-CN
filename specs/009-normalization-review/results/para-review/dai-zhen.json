@@ -1,0 +1,414 @@
+{
+ "slug": "dai-zhen",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 104,
+ "n_md": 105,
+ "n_pairs": 25,
+ "n_flags": 0,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9985358711566618,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976674441852715,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975022157763275,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951690821256038,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984920076404946,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981965734896303,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948424068767908,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9951913829582612,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944437265796614,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9950112491440869,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9943757030371203,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997943797121316,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973554967888175,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961408982675096,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983284042689984,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985303380222549,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981768459434822,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9961089494163424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.972972972972973,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "戴震 Dai Zhen (Chong, Frank Y. C., Fraser, Chris)",
+  "zh_h1": "戴震 Dai Zhen (Chong, Frank Y. C., Fraser, Chris)",
+  "yuanwen_h1": "Dai Zhen",
+  "html_title": "Dai Zhen",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 51,
+  "blockquote→∅": 25,
+  "p→p": 9,
+  "ul→ul": 1,
+  "h2→∅": 1,
+  "blockquote→blockquote": 1,
+  "h3→h3": 4,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×5(blockquote+p+p+p+p→blockquote+p+p+p+p)": 1,
+  "merged×3(p+h2+p→p+h2+p)": 1,
+  "merged×6(p+p+blockquote+p+p+p→p+p+blockquote+p+p+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×4(p+blockquote+p+blockquote→p+blockquote+p+blockquote)": 1,
+  "merged×6(blockquote+p+p+blockquote+p+p→blockquote+p+p+blockquote+p+p)": 1,
+  "merged×9(p+blockquote+p+p+blockquote+p+blockquote+p+blockquote→p+blockquote+p+p+blockquote+p+blockquote+p+blockquote)": 1,
+  "merged×11(p+p+p+p+blockquote+p+p+p+blockquote+p+blockquote→p+p+p+p+blockquote+p+p+p+blockquote+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×6(p+blockquote+p+blockquote+p+p→p+blockquote+p+blockquote+p+p)": 1,
+  "merged×7(p+blockquote+p+blockquote+p+blockquote+p→p+blockquote+p+blockquote+p+blockquote+p)": 1,
+  "merged×5(blockquote+p+p+blockquote+p→blockquote+p+p+blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 22,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This implicit difference in how Dai interprets the dao results in his distinct methodology and his dissatisfaction with the academic climate of his day. For Dai’s contemporaries, the dao is the institutions the sages established to govern the world. For Dai, the dao is the philosophy or guiding principles the sages applied in creating these institutions. However, we may question the scope of the understanding of the Classics that Dai demands. For example, to understand the sages’ guiding princip",
+   "md_text": "This implicit difference in how Dai interprets the dao results in his distinct methodology and his dissatisfaction with the academic climate of his day. For Dai’s contemporaries, the dao is the institutions the sages established to govern the world. For Dai, the dao is the philosophy or guiding principles the sages applied in creating these institutions. However, we may question the scope of the understanding of the Classics that Dai demands. For example, to understand the sages’ guiding princip"
+  },
+  {
+   "i": 11,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Xugupian 訓詁篇 (containing works in philology and phonology), Yuanxiangpian 原象篇 (mathematics and astronomy), Xuelipian 學禮篇 (rituals and institutions), Shuidipian 水地篇 (geography and chorography), and Yuanshanpian 原善篇 (philosophy, construed primarily as ethics and metaethics).",
+   "md_text": "Xugupian 訓詁篇 (containing works in philology and phonology), Yuanxiangpian 原象篇 (mathematics and astronomy), Xuelipian 學禮篇 (rituals and institutions), Shuidipian 水地篇 (geography and chorography), and Yuanshanpian 原善篇 (philosophy, construed primarily as ethics and metaethics)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Dai Zhen",
+ "authors": [
+  "Chong, Frank Y. C.",
+  "Fraser, Chris"
+ ]
+}

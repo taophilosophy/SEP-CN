@@ -1,0 +1,301 @@
+{
+ "slug": "duns-scotus",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 94,
+ "n_md": 94,
+ "n_pairs": 60,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9991496598639455,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986504723346828,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977029096477795,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984392419175028,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988726042841037,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998598785614199,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986263736263736,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985272459499264,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986496624156039,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982547993019197,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999508116084604,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992057188244639,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993808049535604,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977767896843042,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964285714285714,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980314960629921,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.995507637017071,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9690265486725663,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰·邓·司各脱 Duns Scotus, John (Thomas Williams)",
+  "zh_h1": "约翰·邓·司各脱 Duns Scotus, John (Thomas Williams)",
+  "yuanwen_h1": "John Duns Scotus",
+  "html_title": "John Duns Scotus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "h3→h3": 13,
+  "p→p": 32,
+  "p→∅": 32,
+  "table→table": 5,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(p+p→p+p)": 5,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 42,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "How do we acquire that conception of positive, intrinsic infinity? The story goes like this. We begin with “the potentially infinite in quantity.” According to Aristotle, you can never have an actual quantitative infinity, since no matter how great a quantity you have, you can always have more. What you can have (and in fact do have, Aristotle thinks) is a quantitative infinity by successive parts. The next step is to imagine that all the parts of that quantitative infinity remained in existence",
+   "md_text": "How do we acquire that conception of positive, intrinsic infinity? The story goes like this. We begin with “the potentially infinite in quantity.” According to Aristotle, you can never have an actual quantitative infinity, since no matter how great a quantity you have, you can always have more. What you can have (and in fact do have, Aristotle thinks) is a quantitative infinity by successive parts. The next step is to imagine that all the parts of that quantitative infinity remained in existence"
+  },
+  {
+   "i": 31,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(1) No effect can produce itself. (2) No effect can be produced by just nothing at all. (3) A circle of causes is impossible. (4) Therefore, an effect must be produced by something else. (from 1, 2, and 3) (5) There is no infinite regress in an essentially ordered series of causes.",
+   "md_text": "(1) No effect can produce itself. (2) No effect can be produced by just nothing at all. (3) A circle of causes is impossible. (4) Therefore, an effect must be produced by something else. (from 1, 2, and 3) (5) There is no infinite regress in an essentially ordered series of causes."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "John Duns Scotus",
+ "authors": [
+  "Williams, Thomas"
+ ]
+}

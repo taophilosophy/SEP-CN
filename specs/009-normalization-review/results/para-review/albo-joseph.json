@@ -1,0 +1,275 @@
+{
+ "slug": "albo-joseph",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 54,
+ "n_md": 55,
+ "n_pairs": 27,
+ "n_flags": 1,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9994019138755981,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981981981981982,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991009889121966,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994308480364257,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978784956605593,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99836867862969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999671592775041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989743589743589,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991673605328892,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982486865148862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99880810488677,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994683678894205,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995724668661822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999360204734485,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998113919275745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9937106918238994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约瑟夫·阿尔博 Albo, Joseph (Dror Ehrlich and Shira Weiss)",
+  "zh_h1": "约瑟夫·阿尔博 Albo, Joseph (Dror Ehrlich and Shira Weiss)",
+  "yuanwen_h1": "Joseph Albo",
+  "html_title": "Joseph Albo",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 23,
+  "p→p": 13,
+  "blockquote→∅": 2,
+  "h3→h3": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 53,
+   "j": 54,
+   "ratio": 0.9473684210526315,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aquinas, Thomas | Crescas, Hasdai | evil: problem of | Halevi, Judah | Ibn Rushd [Averroes] | Maimonides | Mendelssohn, Moses | nature of law: natural law theories | prophecy | providence, divine | Spinoza, Baruch | time",
+   "md_text": "Aquinas, Thomas Crescas, Hasdai evil: problem of Halevi, Judah Ibn Rushd [Averroes] Maimonides Mendelssohn, Moses nature of law: natural law theories prophecy providence, divine Spinoza, Baruch time"
+  }
+ ],
+ "spot": [
+  {
+   "i": 20,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Albo formulates a list of the fundamental beliefs of religion from within his theory of principles (which we will explain in the next section), since he considers similar lists composed by his predecessors to be insufficient. Instead of naming the principles of Mosaic law (“the Torah of Moses”) as, for example, Maimonides did in his well-known list of thirteen principles, Albo widens his target and lists the principles of “divine law,” in an effort to understand the principles of Judaism within ",
+   "md_text": "Albo formulates a list of the fundamental beliefs of religion from within his theory of principles (which we will explain in the next section), since he considers similar lists composed by his predecessors to be insufficient. Instead of naming the principles of Mosaic law (“the Torah of Moses”) as, for example, Maimonides did in his well-known list of thirteen principles, Albo widens his target and lists the principles of “divine law,” in an effort to understand the principles of Judaism within "
+  }
+ ],
+ "supplements": [
+  "vita.html"
+ ],
+ "meta_title": "Joseph Albo",
+ "authors": [
+  "Ehrlich, Dror",
+  "Weiss, Shira"
+ ]
+}

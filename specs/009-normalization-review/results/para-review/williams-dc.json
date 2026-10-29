@@ -1,0 +1,288 @@
+{
+ "slug": "williams-dc",
+ "letter": "w",
+ "state": "ok",
+ "n_html": 99,
+ "n_md": 102,
+ "n_pairs": 71,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988193624557261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994490358126722,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976833976833976,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992576095025983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992576095025983,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991645781119465,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980525803310614,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991525423728813,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981488337652721,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998758380928731,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998165137614679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9868204283360791,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988950276243094,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9878542510121457,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946178686759957,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9965635738831615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "唐纳德·卡里·威廉姆斯 Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring)",
+  "zh_h1": "唐纳德·卡里·威廉姆斯 Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring)",
+  "yuanwen_h1": "Donald Cary Williams",
+  "html_title": "Donald Cary Williams",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 52,
+  "blockquote→blockquote": 6,
+  "p→∅": 21,
+  "blockquote→∅": 3,
+  "ul→∅": 3,
+  "ul→ul": 2,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×3(ul+p+p→ul+p+p)": 1,
+  "merged×2(ul+p→ul+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 20,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Thirdly, Williams’s metaphysics is 4-dimensional. Or, more precisely, given the development of multi-dimensional string theories since his time, it takes Time to be a dimension in the same way that Space has dimensions. The first step is to insist, against Aristotle and his followers, that statements about the future, no less than those concerning the present and the past, are timelessly true or false. They need not await the event they refer to, in order to gain a truth value (“The Sea Fight To",
+   "md_text": "Thirdly, Williams’s metaphysics is 4-dimensional. Or, more precisely, given the development of multi-dimensional string theories since his time, it takes Time to be a dimension in the same way that Space has dimensions. The first step is to insist, against Aristotle and his followers, that statements about the future, no less than those concerning the present and the past, are timelessly true or false. They need not await the event they refer to, in order to gain a truth value (“The Sea Fight To"
+  },
+  {
+   "i": 81,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The proportion of candidates who will be appointed to the board of Albert Smith Corp is 10%. Albert Smith Jr is a candidate. So, the probability that Albert Smith Jr will be appointed is 10%,",
+   "md_text": "The proportion of candidates who will be appointed to the board of Albert Smith Corp is 10%. Albert Smith Jr is a candidate. So, the probability that Albert Smith Jr will be appointed is 10%,"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Donald Cary Williams",
+ "authors": [
+  "Campbell, Keith",
+  "Franklin, James",
+  "Ehring, Douglas"
+ ]
+}

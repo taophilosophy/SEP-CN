@@ -1,0 +1,171 @@
+{
+ "slug": "bauer",
+ "letter": "b",
+ "state": "ok",
+ "n_html": 41,
+ "n_md": 41,
+ "n_pairs": 21,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9964311206281228,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992941413733992,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995498260691631,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992849992849993,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989891696750902,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992915840181354,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9620253164556962,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "布鲁诺·鲍威尔 Bauer, Bruno (Douglas Moggach and Gabriele Schimmenti)",
+  "zh_h1": "布鲁诺·鲍威尔 Bauer, Bruno (Douglas Moggach and Gabriele Schimmenti)",
+  "yuanwen_h1": "Bruno Bauer",
+  "html_title": "Bruno Bauer",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 11,
+  "p→∅": 19,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 2,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 17,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In his studies of the French Revolution and its impact on Germany, Bauer traced the emergence of mass society, based on conformity and inchoate particularism. The dissolution of the feudal estates by the Revolution produced a purely atomistic society, characterized by the assertion of individual property right. The attachment to private economic interest made impossible a concerted opposition to privilege and to the existing order, and had caused the ultimate defeat of the revolutions that had s",
+   "md_text": "In his studies of the French Revolution and its impact on Germany, Bauer traced the emergence of mass society, based on conformity and inchoate particularism. The dissolution of the feudal estates by the Revolution produced a purely atomistic society, characterized by the assertion of individual property right. The attachment to private economic interest made impossible a concerted opposition to privilege and to the existing order, and had caused the ultimate defeat of the revolutions that had s"
+  },
+  {
+   "i": 38,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Hegel Society of America",
+   "md_text": "Hegel Society of America"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Bruno Bauer",
+ "authors": [
+  "Moggach, Douglas",
+  "Schimmenti, Gabriele"
+ ]
+}

@@ -1,0 +1,462 @@
+{
+ "slug": "consequence-medieval",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 125,
+ "n_md": 130,
+ "n_pairs": 43,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9928774928774928,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998118178396688,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937402190923318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948717948717949,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970714124802883,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "h3",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955604883462819,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992619926199262,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980864906238041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970509039620464,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942839487100262,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990557129367328,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933649289099526,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934982383494969,
+   "n_h": 21,
+   "n_m": 21,
+   "shape_h": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "h2",
+    "h3",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "h2",
+    "h3",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973128598848369,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980075271197698,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981167608286252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.99958071278826,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994478188845941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962085308056872,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973157637872133,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953603464274667,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.991041961338991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.96,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中世纪结果理论 consequence, medieval theories of (Catarina Dutilh Novaes and Milo Crimi)",
+  "zh_h1": "中世纪结果理论 consequence, medieval theories of (Catarina Dutilh Novaes and Milo Crimi)",
+  "yuanwen_h1": "Medieval Theories of Consequence",
+  "html_title": "Medieval Theories of Consequence",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 7,
+  "p→∅": 63,
+  "dl→∅": 2,
+  "p→p": 19,
+  "blockquote→blockquote": 9,
+  "h3→∅": 3,
+  "ol→∅": 2,
+  "blockquote→∅": 10,
+  "h2→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×3(p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×1(dl→p+p)": 1,
+  "merged×3(h3+p+p→h3+p+p)": 1,
+  "merged×3(ol+p+p→ol+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+blockquote+p+p→p+p+blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×8(p+p+p+blockquote+p+p+blockquote+p→p+p+p+blockquote+p+p+blockquote+p)": 1,
+  "merged×21(p+h3+p+p+p+p+p+blockquote+p+p+h2+h3+p+p+p+p+p+p+ol+p+p→p+h3+p+p+p+p+p+blockquote+p+p+h2+h3+p+p+p+p+p+p+ol+p+p)": 1,
+  "merged×6(p+blockquote+p+p+blockquote+p→p+blockquote+p+p+blockquote+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+blockquote+p+p→p+p+p+blockquote+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 107,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Moreover, the Pseudo-Scotus treatise also offers an interesting formulation of the simple vs. as-of-now distinction: in contrast with e.g. Burley, according to Pseudo-Scotus this distinction applies only to material consequences (recall that for him, a formal consequence is the one that satisfies the substitutional criterion), and amounts to the modal value of the missing premise that can be added in order to turn the (enthymematic) consequence into a formal one. That is, if the missing premise ",
+   "md_text": "Moreover, the Pseudo-Scotus treatise also offers an interesting formulation of the simple vs. as-of-now distinction: in contrast with e.g. Burley, according to Pseudo-Scotus this distinction applies only to material consequences (recall that for him, a formal consequence is the one that satisfies the substitutional criterion), and amounts to the modal value of the missing premise that can be added in order to turn the (enthymematic) consequence into a formal one. That is, if the missing premise "
+  },
+  {
+   "i": 120,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Some papers by Stephen Read on medieval theories of consequence: John Buridan’s Theory of Consequence and his Octagons of Opposition The Medieval Theory of Consequence",
+   "md_text": "Some papers by Stephen Read on medieval theories of consequence: John Buridan’s Theory of Consequence and his Octagons of Opposition The Medieval Theory of Consequence"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Medieval Theories of Consequence",
+ "authors": [
+  "Dutilh Novaes, Catarina",
+  "Crimi, Milo"
+ ]
+}

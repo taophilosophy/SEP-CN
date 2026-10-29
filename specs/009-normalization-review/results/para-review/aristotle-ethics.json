@@ -1,0 +1,611 @@
+{
+ "slug": "aristotle-ethics",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 120,
+ "n_md": 146,
+ "n_pairs": 85,
+ "n_flags": 27,
+ "n_merged": 23,
+ "merged": [
+  {
+   "ratio": 0.9984759969519938,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.990506329113924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992706053975201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993738259236068,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994579945799458,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981698389458272,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997698504027618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989055089383436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999681224099458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985775248933144,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974842767295597,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982668977469671,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999450247388675,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975874547647768,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995661605206074,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996592844974447,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994160015573291,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979134063641106,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983606557377049,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987868985038415,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999508116084604,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9872340425531915,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的伦理学 ethics (Richard Kraut)",
+  "zh_h1": "亚里士多德的伦理学 ethics (Richard Kraut)",
+  "yuanwen_h1": "Aristotle’s Ethics",
+  "html_title": "Aristotle’s Ethics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 14,
+  "p→∅": 33,
+  "p→p": 56,
+  "h3→h3": 5,
+  "blockquote→blockquote": 7,
+  "ul→ul": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 114,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "Further Reading"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 115,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "A. Single-Authored Overviews"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 116,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Broadie 1991; Bostock 2000; Burger 2008; Gauthier & Jolif 1958–59; Hall 2019; Hardie 1980; Pakaluk 2005; Price 2011; Reeve 2012a; Urmson 1987."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 117,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "B. Anthologies"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 118,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Anton & Preus (eds.) 1991; Barnes, Schofield, & Sorabji (eds.) 1977; Bartlett & Collins (eds.) 1999; Engstrom & Whiting (eds.) 1996; Heinaman (ed.) 1995; Kraut (ed.) 2006b; Miller (ed.) 2011; Natali (ed.) 2009; Pakaluk & Pearson (eds.) 2010; Polansky (ed.) 2014; Roche (ed.) 1988c; Rorty (ed.) 1980; Sherman (ed.) 1999; Sim (ed.) 1995."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 119,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "C. Studies of Particular Topics"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 120,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.1 The Chronological Order of Aristotle’s Ethical Treatises"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 121,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Kenny 1978, 1979, 1992; Rowe 1971."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 122,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.2 The Methodology and Metaphysics of Ethical Theory"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 123,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Barnes 1980; Berryman 2019; J.M. Cooper 1999 (ch. 12); Frede 2012; Heinaman (ed.) 1995; Irwin 1988b; Jagannathan 2024; Karbowski 2014b, 2015a, 2015b, 2019; Kontos 2011; Kraut 1998; McDowell 1995; Nussbaum 1985, 1986 (chs 8–9); Reeve 1992 (ch. 1), 2012b; Roche 1988b, 1992; Scott 2015; Scott 2020; Segvic 2002; Shields 2012a; Shields 2024; Zingano 2007b."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 124,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.3 The Human Good and the Human Function"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 125,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Annas 1993 (ch. 18); Barney 2008; Broadie 2005, 2007a; Charles 1999; Clark 1975 (14–27, 145–63); J.M. Cooper 1986 (chs 1, 3), 1999 (chs 9, 13); Curzer 1991; Gadamer 1986; Gerson 2004; Gomez-Lobo 1989; Heinaman 2002, 2007; Irwin 2012; Keyt 1978; Korsgaard 1986a, 1986b; Kraut 1979a, 1979b, 1989, 2002 (ch. 3); Lawrence 1993, 1997, 2001; G.R. Lear 2000; J. Lear 2000; MacDonald 1989; Natali 2010; Nussbaum 1986 (chs 11, 12); Purinton 1998; Reeve 1992 (chs 3, 4); Roche 1988a; Santas 2001 (chs 6–7); Scott 1999, 2000; Segvic 2004; Suits 1974; Van Cleemput 2006; Wedin 1981; N. White 2002, 2006; S. White 1992; Whiting 1986, 1988; Wielenberg 2004; Williams 1985 (ch. 3)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 126,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.4 The Nature of Virtue and Accounts of Particular Virtues"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 127,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Brickhouse 2003; Brown 1997; Brunschwig 1996; Clark 1975 (84–97); N. Cooper 1989; Curzer 1990, 1995, 1996, 1997, 2005, 2012; Di Muzio 2000; Gardiner 2001; Gottlieb 1991, 1994a, 1994b, 1996, 2009; Halper 1999; Hardie 1978; Hursthouse 1988; Hutchinson 1986; Irwin 1988a; Jimenez 2020; Kraut 2002 (ch. 4), 2012, 2013; Leunissen 2012, 2013, 2017; Lorenz 2009; McKerlie 2001; Pakaluk 2004; Pearson 2006, 2007; Peterson 1988; Russell 2012a; Santas 2001 (ch. 8); Scaltsas 1995; Schütrumpf 1989; Sherman 1989, 1997; Sim 2007; Taylor 2004; Telfer 1989–90; Tuozzo 1995; Whiting 1996; Young 1988; Yu 2007."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 128,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.5 Practical Reasoning, Moral Psychology, and Action"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 129,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Broadie 1998; Charles 1984, 2007; Coope 2012; J. Cooper 1986 (ch. 1), 1999 (chs 10, 11, 19); Dahl 1984; Destrée 2007; Engberg-Pedersen 1983; Fortenbaugh 1975; Gottlieb, 2021; Gröngross 2007; Hursthouse 1984; Kontos 2018; Kontos 2021; Kraut 2006a; Lorenz 2006; McDowell 1996a, 1996b, 1998; McKerlie 1998; Meyer 1993; Milo 1966; Moss 2011, 2012; Natali (ed.) 2009; Nussbaum 1986 (ch. 10); Olfert 2017; Pakaluk & Pearson (eds.) 2010; Pearson, 2024; Pickavé & Whiting 2008; Politis 1998; Reeve 1992 (ch. 2), 2013; Segvic 2009a; Sherman 2000; Taylor 2003b; Walsh 1963; Zingano 2007a."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 130,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.6 Pleasure"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 131,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Gosling &Taylor 1982 (chs 11–17); Gottlieb 1993; Natali (ed.) 2009; Owen 1971; Pearson 2012; Rorty 1974; Taylor 2003a, 2003b; Urmson 1967; Warren 2009; Wolfsdorf 2013 (ch. 6)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 132,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.7 Friendship"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 133,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Annas 1977, 1993 (ch. 12); Brewer 2005; J.M. Cooper 1999 (chs 14, 15); Hitz 2011; Kahn 1981; Milgram 1987; Nehamas 2010; Pakaluk 1998; Pangle 2003; Price 1989 (chs 4–7); Rogers 1994; Schollmeier 1994; Sherman 1987; Stern-Gillet 1995; Walker 2014; Whiting 1991."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 134,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.8 Feminism and Aristotle"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 135,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Freeland 1998; Karbowski 2014a; Modrak 1994; Ward (ed.) 1996."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 136,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "C.9 Aristotle and Contemporary Ethics"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 137,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Bielskis 2020; Broadie 2006; Chappell (ed.) 2006; Garver 2006; Gill (ed.) 2005; Kraut 2018; LeBar 2013; MacIntyre 1999; Peters 2014; Russell 2012b; Stohr 2003, 2009; Wiggins 2009."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 138,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "D. Bibliographies"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 139,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Lockwood 2005."
+  },
+  {
+   "kind": "replace",
+   "i": 119,
+   "j": 145,
+   "ratio": 0.9204545454545454,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aristotle | character, moral | egoism | ethics: virtue | friendship | Plato | pleasure | wisdom",
+   "md_text": "Aristotle character, moral egoism ethics: virtue friendship Plato pleasure wisdom"
+  }
+ ],
+ "spot": [
+  {
+   "i": 54,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The answer to this question may be that Aristotle does not intend Book VI to provide a full answer to that question, but rather to serve as a prolegomenon to an answer. For it is only near the end of Book X that he presents a full discussion of the relative merits of these two kinds of intellectual virtue, and comments on the different degrees to which each needs to be provided with resources. In X.7–8, he argues that the happiest kind of life is that of a philosopher—someone who exercises, over",
+   "md_text": "The answer to this question may be that Aristotle does not intend Book VI to provide a full answer to that question, but rather to serve as a prolegomenon to an answer. For it is only near the end of Book X that he presents a full discussion of the relative merits of these two kinds of intellectual virtue, and comments on the different degrees to which each needs to be provided with resources. In X.7–8, he argues that the happiest kind of life is that of a philosopher—someone who exercises, over"
+  },
+  {
+   "i": 113,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "appearances: phainomena beautiful: kalon clear: saphes complete (verb, also: to perfect): telein condition: hexis continence (literally: mastery): enkrateia continent: enkratês disposition: hexis emotion: pathos evil: kakos , phaulos excellence: aretê feeling: pathos fine: kalon flourishing: eudaimonia friendship: philia ; philein (the verb cognate to the noun “ philia ”, can sometimes be translated “like” or even “love”) function: ergon good will: eunoia happiness: eudaimonia happy: eudaimon im",
+   "md_text": "appearances: phainomena beautiful: kalon clear: saphes complete (verb, also: to perfect): telein condition: hexis continence (literally: mastery): enkrateia continent: enkratês disposition: hexis emotion: pathos evil: kakos, phaulos excellence: aretê feeling: pathos fine: kalon flourishing: eudaimonia friendship: philia; philein (the verb cognate to the noun “philia”, can sometimes be translated “like” or even “love”) function: ergon good will: eunoia happiness: eudaimonia happy: eudaimon impetu"
+  }
+ ],
+ "supplements": [
+  "supplement1.html"
+ ],
+ "meta_title": "Aristotle’s Ethics",
+ "authors": [
+  "Kraut, Richard"
+ ]
+}

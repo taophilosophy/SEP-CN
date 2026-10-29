@@ -1,0 +1,927 @@
+{
+ "slug": "spacetime-singularities",
+ "letter": "s",
+ "state": "flagged",
+ "n_html": 248,
+ "n_md": 263,
+ "n_pairs": 122,
+ "n_flags": 4,
+ "n_merged": 59,
+ "merged": [
+  {
+   "ratio": 0.9998768927736058,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965849115181621,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929169349645847,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9905511811023622,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960159362549801,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985802176999526,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995986085094996,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986786469344608,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982678983833718,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982007916516733,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995619798510732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972677595628415,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978222544851187,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996536196744025,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991095280498664,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994845360824742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995581087052585,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981754044520131,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978192391567725,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998766954377312,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965442764578833,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929386203150462,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998814463544754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956521739130435,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976478494623656,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992450931051837,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982684982107815,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "figure",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994683678894205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996852871754524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987363100252739,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987995198079231,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939898289412853,
+   "n_h": 2,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987389659520807,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953077560033122,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973128598848369,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989827060020345,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991260269183709,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995796553173603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956140350877193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988331388564761,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993898718730934,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957894736842106,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982050070854983,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993164730006835,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987890530394768,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989694263139814,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987608426270136,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988530914398915,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989658738366081,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987267634326458,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992091735863978,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946568023016852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962232480067142,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9980906921241051,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9928109273903667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.99860529986053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "奇点与黑洞 singularities and black holes (Erik Curiel, Manus Visser, and Juliusz Doboszewski)",
+  "zh_h1": "奇点与黑洞 singularities and black holes (Erik Curiel, Manus Visser, and Juliusz Doboszewski)",
+  "yuanwen_h1": "Singularities and Black Holes",
+  "html_title": "Singularities and Black Holes",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 78,
+  "h3→h3": 19,
+  "p→∅": 114,
+  "figure→p": 6,
+  "blockquote→blockquote": 1,
+  "figure→∅": 1,
+  "ul→∅": 5,
+  "dl→∅": 1,
+  "ol→ol": 3,
+  "h4→h4": 4,
+  "ol→∅": 1,
+  "h3→∅": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×1(p→p+p)": 4,
+  "merged×1(p→p)": 21,
+  "merged×2(p+p→p+p)": 12,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 5,
+  "merged×2(p+p→p+p+p)": 2,
+  "merged×4(p+figure+p+ul→p+p+table+p+p+ul)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×3(ul+p+p→ul+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "delete",
+   "i": 236,
+   "j": null,
+   "ratio": null,
+   "shape_h": "h3",
+   "shape_m": null,
+   "html_text": "Bibliography: Philosophy Reference",
+   "md_text": null
+  },
+  {
+   "kind": "delete",
+   "i": 237,
+   "j": null,
+   "ratio": null,
+   "shape_h": "ul",
+   "shape_m": null,
+   "html_text": "Batterman, Robert (ed.), 2013, The Oxford Handbook of Philosophy of Physics , Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195392043.001.0001 Boyd, Nora Mills, De Baerdemaeker, Siska, Heng, Kevin, and Matarese, Vera (eds.), 2023, Philosophy of Astrophysics: Stars, Simulations, and the Struggle to Determine What is Out There, (Synthese Library, volume 472), Springer, doi:10.1007/978-3-031-26618-8 [ Boyd et al. 2023 available in Open Access ]. Butterfield, Jeremy and John Earman (eds.), 2007, Philosophy of Physics, Part A , (Handbook of the Philosophy of Science), Dordrecht: North Holland. Earman, John S., Clark N. Glymour and John J. Stachel (eds.), 1977, Foundations of Space-Time Theories , (Minnesota Studies in Philosophy of Science., 8), Minneapolis: University of Minnesota ",
+   "md_text": null
+  },
+  {
+   "kind": "delete",
+   "i": 238,
+   "j": null,
+   "ratio": null,
+   "shape_h": "h3",
+   "shape_m": null,
+   "html_text": "Bibliography: Physics Reference",
+   "md_text": null
+  },
+  {
+   "kind": "delete",
+   "i": 239,
+   "j": null,
+   "ratio": null,
+   "shape_h": "ul",
+   "shape_m": null,
+   "html_text": "Ashtekar, Abhay and Vesselin Petkov (eds.), 2014, Springer Handbook of Spacetime , Berlin: Springer-Verlag. doi:10.1007/978-3-642-41992-8 Brout, Robert, Serge Massar, Renaud Parentani, and Philippe Spindel, 1995, “A Primer for Black Hole Quantum Physics”, Physics Reports , 260(6): 329–446. doi:10.1016/0370-1573(95)00008-5 [ Brout et al. 1995 emended and updated version available online ]. Carmeli, Moshe, Stuart I. Fickler, and Louis Witten (eds.), 1970, Relativity , New York: Plenum Press. doi:10.1007/978-1-4684-0721-1 Chandrasekhar, Subrahmanyan, 1983, The Mathematical Theory of Black Holes , Oxford: Oxford University Press. Clarke, C.J.S., 1993, The Analysis of Space-Time Singularities , (Cambridge Lecture Notes in Physics, 1), Cambridge: Cambridge University Press. doi:10.1017/CBO978051",
+   "md_text": null
+  }
+ ],
+ "spot": [
+  {
+   "i": 37,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Several problems with this kind of program make themselves felt immediately. Consider, for example, a spacetime representing the final state of the complete gravitational collapse of a spherically symmetric body resulting in a black hole. (See section 3 below for a description of black holes in general, and Figure 6 for a representation of a body collapsing to form a black hole.) In this spacetime, any timelike path entering the black hole will necessarily be extendible for only a finite amount ",
+   "md_text": "Several problems with this kind of program make themselves felt immediately. Consider, for example, a spacetime representing the final state of the complete gravitational collapse of a spherically symmetric body resulting in a black hole. (See section 3 below for a description of black holes in general, and Figure 6 for a representation of a body collapsing to form a black hole.) In this spacetime, any timelike path entering the black hole will necessarily be extendible for only a finite amount "
+  },
+  {
+   "i": 37,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Several problems with this kind of program make themselves felt immediately. Consider, for example, a spacetime representing the final state of the complete gravitational collapse of a spherically symmetric body resulting in a black hole. (See section 3 below for a description of black holes in general, and Figure 6 for a representation of a body collapsing to form a black hole.) In this spacetime, any timelike path entering the black hole will necessarily be extendible for only a finite amount ",
+   "md_text": "Several problems with this kind of program make themselves felt immediately. Consider, for example, a spacetime representing the final state of the complete gravitational collapse of a spherically symmetric body resulting in a black hole. (See section 3 below for a description of black holes in general, and Figure 6 for a representation of a body collapsing to form a black hole.) In this spacetime, any timelike path entering the black hole will necessarily be extendible for only a finite amount "
+  },
+  {
+   "i": 13,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: a tear in spacetime",
+   "md_text": "Figure 1: a tear in spacetime"
+  }
+ ],
+ "supplements": [
+  "holes-in-spacetime.html",
+  "lightcone.html",
+  "non-standard-singularities.html"
+ ],
+ "meta_title": "Singularities and Black Holes",
+ "authors": [
+  "Curiel, Erik",
+  "Visser, Manus",
+  "Doboszewski, Juliusz"
+ ]
+}

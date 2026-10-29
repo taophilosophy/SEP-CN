@@ -1,0 +1,819 @@
+{
+ "slug": "consciousness-neuroscience",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 209,
+ "n_md": 227,
+ "n_pairs": 90,
+ "n_flags": 4,
+ "n_merged": 50,
+ "merged": [
+  {
+   "ratio": 0.9990587602527901,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9855147439213657,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969543147208122,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976617303195635,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987341772151899,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968425800631484,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955257270693513,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983296213808464,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991026024528866,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987974199190992,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983979027090009,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984095005831831,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993510707332901,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979550102249489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984639016897081,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962546816479401,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978308026030369,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979633401221996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989650175947009,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994638069705094,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987071751777634,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986859395532195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988072300211028,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970769730431959,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983402489626556,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996470172961525,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984496124031008,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998019801980198,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994015559545183,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976905311778291,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9718992248062015,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989963198394112,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988249118683902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967637540453075,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991276533876127,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981167608286252,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981851179673321,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930992179113632,
+   "n_h": 5,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "figure",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958927277120078,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9893593919652551,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988950276243094,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924812030075187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9709110867178924,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941690962099126,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9968152866242038,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9917808219178083,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9973568281938326,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9930875576036866,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.957345971563981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "意识的神经科学 neuroscience of (Wayne Wu and Jorge Morales)",
+  "zh_h1": "意识的神经科学 neuroscience of (Wayne Wu and Jorge Morales)",
+  "yuanwen_h1": "The Neuroscience of Consciousness",
+  "html_title": "The Neuroscience of Consciousness",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "h3→h3": 26,
+  "p→∅": 99,
+  "figure→∅": 6,
+  "p→p": 43,
+  "blockquote→blockquote": 8,
+  "blockquote→∅": 10,
+  "ul→ul": 1,
+  "h4→h4": 2,
+  "ul→∅": 3,
+  "merged×1(preamble→p+p+ul+p+p+p)": 1,
+  "merged×3(p+figure+p→p+p+p+p+p)": 2,
+  "merged×1(p→p)": 15,
+  "merged×3(p+p+p→p+p+p)": 7,
+  "merged×5(p+blockquote+p+p+blockquote→p+blockquote+p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×6(p+blockquote+p+p+p+p→p+blockquote+p+p+p+p)": 1,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 5,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(figure+p+p→p+p+p+p+p)": 1,
+  "merged×8(p+blockquote+p+p+p+p+p+p→p+blockquote+p+p+p+p+p+p)": 1,
+  "merged×5(p+figure+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+figure+p→p+p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 3
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 90,
+   "j": 97,
+   "ratio": 0.1670235546038544,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2. The Global Neuronal Workspace Figure Legend: The top figure provides a neural architecture for the workspace, indicating the systems that can be involved. The lower figure sets the architecture within the six layers of the cortex spanning frontal and sensory areas, with emphasis on neurons in layers 2 and 3. Figure reproduced from Dehaene, Kerszberg, and Changeux 1998. Copyright (1998) National Academy of Sciences.",
+   "md_text": "Figure 2. The Global Neuronal Workspace"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![see legend. The top figure is a series of dotted concentric circles with a network of lines and nodes imposed on top; the innermost circle is labeled 'Global Workspace'. The circles are divided into five sectors [except the sector radii don't cross the innermost circle]; each sector has a labels in an arrow pointing in [unless otherwise noted] clockwise from the top as, 'Evaluative Systems (VALUE)', 'Attentional Systems (FOCUSING)', 'Motor systems (FUTURE)' [the only one with an arrow pointing out], 'Perceptual systems (PRESENT)', 'Long-Term Memory (PAST)'. The bottom figure is the same network of lines and nodes (minus circles, arrows, and labels but with on the left a picture labeled 'frontal' and on the right a picture labeled 'sensory'. ](../assets/consciousness-neuroscience/figure2."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 99,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2. The Global Neuronal Workspace"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 100,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure Legend: The top figure provides a neural architecture for the workspace, indicating the systems that can be involved. The lower figure sets the architecture within the six layers of the cortex spanning frontal and sensory areas, with emphasis on neurons in layers 2 and 3. Figure reproduced from Dehaene, Kerszberg, and Changeux 1998. Copyright (1998) National Academy of Sciences."
+  }
+ ],
+ "spot": [
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Which electrical property provides the most fruitful explanatory basis for understanding consciousness remains an open question. For example, when looking at a single neuron, neuroscientists are not interested in spikes per se but the spike rate generated by a neuron per unit time. Yet spike rate is one among many potentially relevant neural properties. Consider the blood oxygen level dependent signal (BOLD) measure in functional magnetic resonance imaging (fMRI). The BOLD signal is a measure of",
+   "md_text": "Which electrical property provides the most fruitful explanatory basis for understanding consciousness remains an open question. For example, when looking at a single neuron, neuroscientists are not interested in spikes per se but the spike rate generated by a neuron per unit time. Yet spike rate is one among many potentially relevant neural properties. Consider the blood oxygen level dependent signal (BOLD) measure in functional magnetic resonance imaging (fMRI). The BOLD signal is a measure of"
+  },
+  {
+   "i": 99,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Stage 1: Superficial feedforward processing: visual signals are processed locally within the visual system. Stage 2: Deep feedforward processing: visual signals have travelled further forward in the processing hierarchy where they can influence action. Stage 3: Superficial recurrent processing: information has traveled back into earlier visual areas, leading to local, recurrent processing. Stage 4: Widespread recurrent processing: information activates widespread areas (and as such is consistent",
+   "md_text": "Stage 1: Superficial feedforward processing: visual signals are processed locally within the visual system. Stage 2: Deep feedforward processing: visual signals have travelled further forward in the processing hierarchy where they can influence action. Stage 3: Superficial recurrent processing: information has traveled back into earlier visual areas, leading to local, recurrent processing. Stage 4: Widespread recurrent processing: information activates widespread areas (and as such is consistent"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Neuroscience of Consciousness",
+ "authors": [
+  "Wu, Wayne",
+  "Morales, Jorge"
+ ]
+}

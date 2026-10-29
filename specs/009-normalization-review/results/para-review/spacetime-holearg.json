@@ -1,0 +1,324 @@
+{
+ "slug": "spacetime-holearg",
+ "letter": "s",
+ "state": "flagged",
+ "n_html": 114,
+ "n_md": 124,
+ "n_pairs": 96,
+ "n_flags": 6,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9931740614334471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989680082559339,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988974641675854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985358711566618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.987012987012987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9975062344139651,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9907235621521335,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985855728429985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991095280498664,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988603988603989,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9545454545454546,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994121105232217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995893223819302,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9878787878787879,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "空穴论证 the hole argument (John D. Norton, Oliver Pooley, and James Read)",
+  "zh_h1": "空穴论证 the hole argument (John D. Norton, Oliver Pooley, and James Read)",
+  "yuanwen_h1": "The Hole Argument",
+  "html_title": "The Hole Argument",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 13,
+  "p→p": 58,
+  "p→∅": 13,
+  "figure→p": 6,
+  "ul→∅": 2,
+  "h3→h3": 15,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 2,
+  "ol→ol": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×1(ul→ul)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 12,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 16,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 20,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 26,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 29,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 5."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 54,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 6."
+  }
+ ],
+ "spot": [
+  {
+   "i": 16,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Newton’s first law states that force-free bodies move on straight-line trajectories through spacetime. Clearly, this law as stated cannot be true in all coordinate systems, for imagine such a system accelerating with respect to one in which the law holds true: in the accelerating coordinate system, the force-free bodies will also appear to accelerate! So Newton’s first law is not—to use a piece of terminology introduced by Einstein in his quest for the general theory of relativity in the 1910s—‘",
+   "md_text": "Newton’s first law states that force-free bodies move on straight-line trajectories through spacetime. Clearly, this law as stated cannot be true in all coordinate systems, for imagine such a system accelerating with respect to one in which the law holds true: in the accelerating coordinate system, the force-free bodies will also appear to accelerate! So Newton’s first law is not—to use a piece of terminology introduced by Einstein in his quest for the general theory of relativity in the 1910s—‘"
+  },
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "So far, all we have defined is a set of events. To be a four-dimensional manifold, the set of events must be a little bit more organized. In a real spacetime, we have the idea that each event sits in some local neighborhood of events; and this neighborhood sits inside a larger neighborhood of events; and so on. That extra organization comes from the requirement that we can label the events with four numbers—or at least we can do this for any sufficiently small chunk of the manifold. These labels",
+   "md_text": "So far, all we have defined is a set of events. To be a four-dimensional manifold, the set of events must be a little bit more organized. In a real spacetime, we have the idea that each event sits in some local neighborhood of events; and this neighborhood sits inside a larger neighborhood of events; and so on. That extra organization comes from the requirement that we can label the events with four numbers—or at least we can do this for any sufficiently small chunk of the manifold. These labels"
+  },
+  {
+   "i": 8,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. Forming a manifold of events",
+   "md_text": "Figure 1. Forming a manifold of events"
+  }
+ ],
+ "supplements": [
+  "active-passive.html",
+  "gauge.html",
+  "leibniz-equivalence.html",
+  "leibniz_equivalence.html"
+ ],
+ "meta_title": "The Hole Argument",
+ "authors": [
+  "Norton, John D.",
+  "Pooley, Oliver",
+  "Read, James"
+ ]
+}

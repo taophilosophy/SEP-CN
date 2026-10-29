@@ -1,0 +1,258 @@
+{
+ "slug": "binarium",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 49,
+ "n_md": 50,
+ "n_pairs": 25,
+ "n_flags": 1,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.998220640569395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9876160990712074,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979959919839679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964249233912156,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995647807164379,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.987485779294653,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992633517495396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990503323836657,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962073324905183,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968253968253968,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960707269155207,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983484723369116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958711808422791,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9523809523809523,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "最著名的一对 binarium famosissimum [= most famous pair] (Paul Vincent Spade)",
+  "zh_h1": "最著名的一对 binarium famosissimum [= most famous pair] (Paul Vincent Spade)",
+  "yuanwen_h1": "*Binarium Famosissimum*",
+  "html_title": "Binarium Famosissimum",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 19,
+  "ol→ol": 1,
+  "p→p": 9,
+  "h3→h3": 2,
+  "ul→∅": 1,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 3,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×4(ul+p+p+p→ul+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 47,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Spade, Paul Vincent, 1999. “The Warp and Woof of Metaphysics: How to Get Started on Some Big Themes.” (Adobe PDF format.)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 39,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Of course, we can truly say many things about a given subject. (E.g., ‘The cat is black’, ‘The cat is fat’, ‘The cat is asleep’, etc.) The predicates of all these true statements correspond to forms really inhering in the relatively indeterminate subject. Hence we can speak of a “plurality of forms.” But the “plurality of forms,” in the sense in which our authors speak of it, refers to something more restricted, to the fact that we can predicate predicates of a given subject in a certain “nested",
+   "md_text": "Of course, we can truly say many things about a given subject. (E.g., ‘The cat is black’, ‘The cat is fat’, ‘The cat is asleep’, etc.) The predicates of all these true statements correspond to forms really inhering in the relatively indeterminate subject. Hence we can speak of a “plurality of forms.” But the “plurality of forms,” in the sense in which our authors speak of it, refers to something more restricted, to the fact that we can predicate predicates of a given subject in a certain “nested"
+  },
+  {
+   "i": 4,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "voluntarism (an emphasis on the role of the will as distinct from the intellect) universal hylomorphism plurality of forms divine illumination, interpreted through the influence of Avicenna the real identity of the soul with its powers or faculties.",
+   "md_text": "voluntarism (an emphasis on the role of the will as distinct from the intellect) universal hylomorphism plurality of forms divine illumination, interpreted through the influence of Avicenna the real identity of the soul with its powers or faculties."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Binarium Famosissimum",
+ "authors": [
+  "Spade, Paul Vincent"
+ ]
+}

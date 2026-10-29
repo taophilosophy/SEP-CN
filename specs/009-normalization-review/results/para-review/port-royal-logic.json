@@ -1,0 +1,393 @@
+{
+ "slug": "port-royal-logic",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 98,
+ "n_md": 108,
+ "n_pairs": 49,
+ "n_flags": 0,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9987893462469734,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986405655247417,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985090033260695,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983579638752053,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986893840104849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986378672893559,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939393939393939,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991479209270621,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990308199263424,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997060058798824,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991900210594524,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998167379352474,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982692973347179,
+   "n_h": 5,
+   "n_m": 12,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996210685865858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978213507625272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9988331388564761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988962472406181,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985074626865672,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992952783650458,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989350372736954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9907120743034056,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "《波尔·罗亚尔逻辑》 （《逻辑或思维的艺术》）Port Royal Logic (Alan Nelson and Jill Buroker)",
+  "zh_h1": "《波尔·罗亚尔逻辑》 （《逻辑或思维的艺术》）Port Royal Logic (Alan Nelson and Jill Buroker)",
+  "yuanwen_h1": "Port Royal Logic",
+  "html_title": "Port Royal Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 40,
+  "blockquote→∅": 5,
+  "p→p": 30,
+  "blockquote→blockquote": 5,
+  "dl→∅": 1,
+  "ul→ul": 2,
+  "ul→∅": 2,
+  "ol→ol": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×5(p+p+p+blockquote+p→p+p+p+blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 9,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×6(p+p+p+blockquote+p+p→p+p+p+blockquote+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×5(blockquote+p+p+dl+p→blockquote+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 86,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The rules for synthetic demonstrations lead to a list of criticisms of “geometers”. Chapter 4 notes some equivocations in Euclid’s use of “angle”, “ratio”, and “proportion.” Later mathematicians are criticizes for not respecting the distinction between nominal and real definitions. The former should be stipulations about how words are associated with ideas. The latter should characterize the nature of the object being defined. Examples are given about disputes among prominent mathematicians over",
+   "md_text": "The rules for synthetic demonstrations lead to a list of criticisms of “geometers”. Chapter 4 notes some equivocations in Euclid’s use of “angle”, “ratio”, and “proportion.” Later mathematicians are criticizes for not respecting the distinction between nominal and real definitions. The former should be stipulations about how words are associated with ideas. The latter should characterize the nature of the object being defined. Examples are given about disputes among prominent mathematicians over"
+  },
+  {
+   "i": 61,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Every good prince is loved by his subjects. Every pious king is a good prince. Therefore every pious king is loved by his subjects. (III.2, 137)",
+   "md_text": "Every good prince is loved by his subjects. Every pious king is a good prince. Therefore every pious king is loved by his subjects. (III.2, 137)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Port Royal Logic",
+ "authors": [
+  "Nelson, Alan",
+  "Buroker, Jill"
+ ]
+}

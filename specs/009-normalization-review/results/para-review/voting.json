@@ -1,0 +1,422 @@
+{
+ "slug": "voting",
+ "letter": "v",
+ "state": "flagged",
+ "n_html": 115,
+ "n_md": 117,
+ "n_pairs": 63,
+ "n_flags": 2,
+ "n_merged": 25,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995085995085995,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971264367816092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981851179673321,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993569131832798,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983948635634029,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987460815047022,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986263736263736,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994972347913524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982003599280144,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996467679265277,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989270386266095,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987271955876114,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.998641304347826,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993016759776536,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993593850096092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992191857222532,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997134670487106,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988468634686347,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99909338168631,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998868778280543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993222636394442,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990727471971677,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990205680705191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "投票的道德与理性 voting (Jason Brennan)",
+  "zh_h1": "投票的道德与理性 voting (Jason Brennan)",
+  "yuanwen_h1": "The Ethics and Rationality of Voting",
+  "html_title": "The Ethics and Rationality of Voting",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 48,
+  "h3→h3": 8,
+  "p→p": 38,
+  "p→mathblock": 1,
+  "blockquote→blockquote": 5,
+  "ol→∅": 2,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+ol+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 11,
+  "merged×3(ol+p+p→ol+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 19,
+   "j": 21,
+   "ratio": 0.9045362220717671,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, the mandate argument faces two major problems. First, even if we assume that such mandates exist, to know whether voting is rational, we would need to know how much the nth voter’s vote increases the marginal effectiveness of her preferred candidate, or reduces the marginal effectiveness of her dispreferred candidate. Suppose voting for the expected winning candidate costs me $15 worth of my time. It would be rational for me to vote only if I believed my individual vote would give the winning candidate at least $15 worth of electoral efficacy (and I care about the increased efficiency as much or more than my opportunity costs). In principle, whether individual votes change the “mandate” this much is something that political scientists could measure, and indeed, they have tried to ",
+   "md_text": "However, the mandate argument faces two major problems. First, even if we assume that such mandates exist, to know whether voting is rational, we would need to know how much the nth voter’s vote increases the marginal effectiveness of her preferred candidate, or reduces the marginal effectiveness of her dispreferred candidate. Suppose voting for the expected winning candidate costs me ⟦M⟧ 15 worth of electoral efficacy (and I care about the increased efficiency as much or more than my opportunity costs). In principle, whether individual votes change the “mandate” this much is something that political scientists could measure, and indeed, they have tried to do so."
+  },
+  {
+   "kind": "replace",
+   "i": 22,
+   "j": 24,
+   "ratio": 0.8850855745721271,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Suppose for the sake of argument that trustee representatives are significantly more valuable than delegates, and that what makes a representative a trustee rather than a delegate is her large margin of victory. Unfortunately, this does not yet show that the expected benefits of voting exceed the expected costs. Suppose (as in Guerrero 2010: 289) that the distinction between a delegate and trustee lies on a continuum, like difference between bald and hairy. To show voting is rational, one would need to show that the marginal impact of an individual vote, as it moves a candidate a marginal degree from delegate to trustee, is higher than the opportunity cost of voting. If voting costs me $15 worth of time, then, on this theory, it would be rational to vote only if my vote is expected to move",
+   "md_text": "Suppose for the sake of argument that trustee representatives are significantly more valuable than delegates, and that what makes a representative a trustee rather than a delegate is her large margin of victory. Unfortunately, this does not yet show that the expected benefits of voting exceed the expected costs. Suppose (as in Guerrero 2010: 289) that the distinction between a delegate and trustee lies on a continuum, like difference between bald and hairy. To show voting is rational, one would need to show that the marginal impact of an individual vote, as it moves a candidate a marginal degree from delegate to trustee, is higher than the opportunity cost of voting. If voting costs me ⟦M⟧ 15 (Guerrero 2010: 295–297) ."
+  }
+ ],
+ "spot": [
+  {
+   "i": 107,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Under this scheme, no one has any presumptive right to vote. Instead, everyone has, by default, equal eligibility to be selected to become a voter. Before the enfranchisement lottery takes place, candidates would proceed with their campaigns as they do in democracy. However, they campaign without knowing which citizens in particular will eventually acquire the right to vote. Immediately before the election, a random but representative subset of citizens is then selected by lottery. These citizen",
+   "md_text": "Under this scheme, no one has any presumptive right to vote. Instead, everyone has, by default, equal eligibility to be selected to become a voter. Before the enfranchisement lottery takes place, candidates would proceed with their campaigns as they do in democracy. However, they campaign without knowing which citizens in particular will eventually acquire the right to vote. Immediately before the election, a random but representative subset of citizens is then selected by lottery. These citizen"
+  },
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Suppose Sally’s only goal, in voting, is to change the outcome of the election between two major candidates. In that case, the expected value of her vote ( ⟦M⟧ ) is:",
+   "md_text": "Suppose Sally’s only goal, in voting, is to change the outcome of the election between two major candidates. In that case, the expected value of her vote ( ⟦M⟧ ) is:"
+  },
+  {
+   "i": 112,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "American National Election Studies",
+   "md_text": "American National Election Studies"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Ethics and Rationality of Voting",
+ "authors": [
+  "Brennan, Jason"
+ ]
+}

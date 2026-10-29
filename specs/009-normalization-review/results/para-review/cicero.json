@@ -1,0 +1,264 @@
+{
+ "slug": "cicero",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 111,
+ "n_md": 112,
+ "n_pairs": 90,
+ "n_flags": 1,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991941982272361,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989484752891693,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999468085106383,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993117687543015,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995435874030123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996061441512406,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999366687777074,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9927333705980995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998422712933754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991356957649092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978060552874067,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994977398292315,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993337774816788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994478188845941,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993642720915448,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "西塞罗 Cicero (Raphael Woolf)",
+  "zh_h1": "西塞罗 Cicero (Raphael Woolf)",
+  "yuanwen_h1": "Cicero",
+  "html_title": "Cicero",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 19,
+  "p→p": 72,
+  "h3→h3": 6,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 110,
+   "j": 111,
+   "ratio": 0.9469026548672567,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aristotle, General Topics: ethics | Carneades | Epicurus | ethics: ancient | ethics: natural law tradition | fideism | Hume, David | Plato | political philosophy: ancient | skepticism: ancient | Stoicism | Theophrastus | Williams, Bernard",
+   "md_text": "Aristotle, General Topics: ethics Carneades Epicurus ethics: ancient ethics: natural law tradition fideism Hume, David Plato political philosophy: ancient skepticism: ancient Stoicism Theophrastus Williams, Bernard"
+  }
+ ],
+ "spot": [
+  {
+   "i": 26,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "By the time that we turn to Scipio’s exposition of the various forms of government, it can be seen that Cicero has used the flexibility of the dramatic dialogue to prime his reader to examine the topic with a critical eye. Scipio’s focus on Rome is a response to the lack of practical awareness that he (or his author) sees infecting Greek models. But if Stoic universalism is correct, such focus on a particular concrete system seems itself to be headed in the wrong direction. And if cosmology is m",
+   "md_text": "By the time that we turn to Scipio’s exposition of the various forms of government, it can be seen that Cicero has used the flexibility of the dramatic dialogue to prime his reader to examine the topic with a critical eye. Scipio’s focus on Rome is a response to the lack of practical awareness that he (or his author) sees infecting Greek models. But if Stoic universalism is correct, such focus on a particular concrete system seems itself to be headed in the wrong direction. And if cosmology is m"
+  },
+  {
+   "i": 108,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "There are two useful episodes on Cicero as a philosopher in Professor Peter Adamson’s History of Philosophy Without any Gaps podcast: Rhetorical Questions: Cicero Raphael Woolf on Cicero",
+   "md_text": "There are two useful episodes on Cicero as a philosopher in Professor Peter Adamson’s History of Philosophy Without any Gaps podcast: Rhetorical Questions: Cicero Raphael Woolf on Cicero"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Cicero",
+ "authors": [
+  "Woolf, Raphael"
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "slug": "holes",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 20,
+ "n_md": 20,
+ "n_pairs": 9,
+ "n_flags": 0,
+ "n_merged": 4,
+ "merged": [
+  {
+   "ratio": 0.9989733059548255,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985791418016482,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986405127209167,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "洞 holes (Roberto Casati and Achille Varzi)",
+  "zh_h1": "洞 holes (Roberto Casati and Achille Varzi)",
+  "yuanwen_h1": "Holes",
+  "html_title": "Holes",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 5,
+  "blockquote→blockquote": 1,
+  "p→∅": 6,
+  "ol→∅": 3,
+  "blockquote→∅": 1,
+  "p→p": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×4(p+p+ol+p→p+p+ol+p)": 1,
+  "merged×5(p+ol+p+ol+p→p+ol+p+ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "‘A hole?’ the rock chewer grunted. ‘No, not a hole’, said the will-o’-the-wisp despairingly. ‘A hole, after all, is something. This is nothing at all’. —Ende (1979/1983: 19)",
+   "md_text": "‘A hole?’ the rock chewer grunted. ‘No, not a hole’, said the will-o’-the-wisp despairingly. ‘A hole, after all, is something. This is nothing at all’. —Ende (1979/1983: 19)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Holes",
+ "authors": [
+  "Casati, Roberto",
+  "Varzi, Achille"
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "slug": "moore-moral",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 48,
+ "n_md": 48,
+ "n_pairs": 17,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9943019943019943,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991740997687479,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994161314538327,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994419642857143,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993368150542983,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996283909327388,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991843163727393,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989618371330095,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "摩尔的伦理学 moral philosophy (Thomas Hurka)",
+  "zh_h1": "摩尔的伦理学 moral philosophy (Thomas Hurka)",
+  "yuanwen_h1": "Moore’s Moral Philosophy",
+  "html_title": "Moore’s Moral Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 29,
+  "p→p": 8,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Principia Ethica also took the impartialism of its view to be analytic, and in particular claimed that ethical or rational egoism, which says that each person should pursue only his own good, is self-contradictory. (Despite his interest in personal love, Moore never considered the intermediate view that Broad (1971) would call self-referential altruism, according to which each person should care more about, and do more to promote, the good of those who are close to him such as his family and fri",
+   "md_text": "Principia Ethica also took the impartialism of its view to be analytic, and in particular claimed that ethical or rational egoism, which says that each person should pursue only his own good, is self-contradictory. (Despite his interest in personal love, Moore never considered the intermediate view that Broad (1971) would call self-referential altruism, according to which each person should care more about, and do more to promote, the good of those who are close to him such as his family and fri"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Moore’s Moral Philosophy",
+ "authors": [
+  "Hurka, Thomas"
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "slug": "qm-collapse",
+ "letter": "q",
+ "state": "ok",
+ "n_html": 161,
+ "n_md": 164,
+ "n_pairs": 128,
+ "n_flags": 0,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9995564426702152,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969040247678018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989047097480832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995669120831528,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9994054696789536,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993698802772527,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9994347088750707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993993993993994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999104744852283,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995271867612293,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983285215012916,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980988593155894,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985315712187959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981331673926571,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992140424417082,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996341017197219,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994155464640561,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994874423372629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998780487804878,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985372988785958,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973190348525469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991617770326907,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991341991341991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9912280701754386,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "坍缩理论 collapse theories (Giancarlo Ghirardi and Angelo Bassi)",
+  "zh_h1": "坍缩理论 collapse theories (Giancarlo Ghirardi and Angelo Bassi)",
+  "yuanwen_h1": "Collapse Theories",
+  "html_title": "Collapse Theories",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 17,
+  "p→p": 87,
+  "blockquote→∅": 3,
+  "ul→ul": 2,
+  "ol→ol": 2,
+  "p→∅": 26,
+  "p→mathblock": 7,
+  "ul→∅": 2,
+  "ol→∅": 1,
+  "blockquote→blockquote": 12,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×1(p→p)": 16,
+  "merged×1(ul→ul)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(ol→ol)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 10,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "States of physical systems are associated with normalized vectors in a Hilbert space, a complex, infinite-dimensional, complete and separable linear vector space equipped with a scalar product. Linearity implies that the superposition principle holds: if ⟦M⟧ is a state and ⟦M⟧ is a state, then (for ⟦M⟧ and ⟦M⟧ arbitrary complex numbers) also ⟦M⟧ is a state. Moreover, the state evolution is linear, i.e., it preserves superpositions: if ⟦M⟧ and ⟦M⟧ are the states obtained by evolving the states ⟦M",
+   "md_text": "States of physical systems are associated with normalized vectors in a Hilbert space, a complex, infinite-dimensional, complete and separable linear vector space equipped with a scalar product. Linearity implies that the superposition principle holds: if ⟦M⟧ is a state and ⟦M⟧ is a state, then (for ⟦M⟧ and ⟦M⟧ arbitrary complex numbers) also ⟦M⟧ is a state. Moreover, the state evolution is linear, i.e., it preserves superpositions: if ⟦M⟧ and ⟦M⟧ are the states obtained by evolving the states ⟦M"
+  },
+  {
+   "i": 10,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "States of physical systems are associated with normalized vectors in a Hilbert space, a complex, infinite-dimensional, complete and separable linear vector space equipped with a scalar product. Linearity implies that the superposition principle holds: if ⟦M⟧ is a state and ⟦M⟧ is a state, then (for ⟦M⟧ and ⟦M⟧ arbitrary complex numbers) also ⟦M⟧ is a state. Moreover, the state evolution is linear, i.e., it preserves superpositions: if ⟦M⟧ and ⟦M⟧ are the states obtained by evolving the states ⟦M",
+   "md_text": "States of physical systems are associated with normalized vectors in a Hilbert space, a complex, infinite-dimensional, complete and separable linear vector space equipped with a scalar product. Linearity implies that the superposition principle holds: if ⟦M⟧ is a state and ⟦M⟧ is a state, then (for ⟦M⟧ and ⟦M⟧ arbitrary complex numbers) also ⟦M⟧ is a state. Moreover, the state evolution is linear, i.e., it preserves superpositions: if ⟦M⟧ and ⟦M⟧ are the states obtained by evolving the states ⟦M"
+  },
+  {
+   "i": 6,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "objective indefiniteness of physical properties both at the micro and macro level, unless the state collapses; objective chance in natural processes, i.e., the nonepistemic nature of quantum probabilities; and objective entanglement between spatially separated and non-interacting constituents of a composite system, entailing a sort of holism and a precise kind of nonlocality.",
+   "md_text": "objective indefiniteness of physical properties both at the micro and macro level, unless the state collapses; objective chance in natural processes, i.e., the nonepistemic nature of quantum probabilities; and objective entanglement between spatially separated and non-interacting constituents of a composite system, entailing a sort of holism and a precise kind of nonlocality."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Collapse Theories",
+ "authors": [
+  "Ghirardi, Giancarlo",
+  "Bassi, Angelo"
+ ]
+}

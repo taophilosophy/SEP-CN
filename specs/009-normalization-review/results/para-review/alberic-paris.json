@@ -1,0 +1,459 @@
+{
+ "slug": "alberic-paris",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 103,
+ "n_md": 103,
+ "n_pairs": 51,
+ "n_flags": 0,
+ "n_merged": 31,
+ "merged": [
+  {
+   "ratio": 0.9992372234935164,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983726606997559,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988109393579072,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981296758104738,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991158267020336,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964935715478377,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983160933365408,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978432782171099,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998272884283247,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980892826124718,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978596908442331,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989583333333333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979508196721312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967012252591895,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991039426523297,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988385598141696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965928449744463,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984662576687117,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982668977469671,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979154822815994,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99800796812749,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990458015267175,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994311717861206,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955654101995566,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965899403239556,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977827050997783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992810927390366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993738259236068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9638009049773756,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991266375545852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "巴黎的阿尔贝里克 Alberic of Paris (Hansen, Heine, Schuman, Boaz Faraday)",
+  "zh_h1": "巴黎的阿尔贝里克 Alberic of Paris (Hansen, Heine, Schuman, Boaz Faraday)",
+  "yuanwen_h1": "Alberic of Paris",
+  "html_title": "Alberic of Paris",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 45,
+  "p→p": 23,
+  "blockquote→∅": 6,
+  "blockquote→blockquote": 7,
+  "h3→h3": 8,
+  "ul→ul": 1,
+  "table→table": 1,
+  "ol→ol": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×2(p+p→p+p)": 7,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 25,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "We say that genera and species are located in sensible things, have their being through them, and are understood separately. That genera and species have their whole being in individuals, we understand as follows: the genus Animal has its whole being in the singular animals, that is to say, the whole nature of Animal is in each animal, but it is understood separately. For in order that this or that animal exist, it is necessary that it be a substance, that it be animated, and that it be capable ",
+   "md_text": "We say that genera and species are located in sensible things, have their being through them, and are understood separately. That genera and species have their whole being in individuals, we understand as follows: the genus Animal has its whole being in the singular animals, that is to say, the whole nature of Animal is in each animal, but it is understood separately. For in order that this or that animal exist, it is necessary that it be a substance, that it be animated, and that it be capable "
+  },
+  {
+   "i": 70,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "EA2 Formal 1. If Socrates is a man, he is an animal. ⟦M⟧ [true conditional] 2. If Socrates is a man and is not an animal, Socrates is not an animal. ⟦M⟧ [simplification] 3. If Socrates is not an animal, Socrates is not a man. ⟦M⟧ [1 contraposition] ⟦M⟧ [2, 3 transitivity] 4. If Socrates is not a man, it is not the case that Socrates is a man and an animal. ⟦M⟧ [simplification, 3a contraposition] 5. ∴ If Socrates is a man and not an animal, it is not the case that Socrates is a man and not an ani",
+   "md_text": "EA2 Formal 1. If Socrates is a man, he is an animal. ⟦M⟧ [true conditional] 2. If Socrates is a man and is not an animal, Socrates is not an animal. ⟦M⟧ [simplification] 3. If Socrates is not an animal, Socrates is not a man. ⟦M⟧ [1 contraposition] ⟦M⟧ [2, 3 transitivity] 4. If Socrates is not a man, it is not the case that Socrates is a man and an animal. ⟦M⟧ [simplification, 3a contraposition] 5. ∴ If Socrates is a man and not an animal, it is not the case that Socrates is a man and not an ani"
+  },
+  {
+   "i": 52,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "If only Socrates would run Is Socrates running? Run, Socrates! Hey there, Socrates, O runner thou!",
+   "md_text": "If only Socrates would run Is Socrates running? Run, Socrates! Hey there, Socrates, O runner thou!"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Alberic of Paris",
+ "authors": [
+  "Hansen, Heine",
+  "Schuman, Boaz Faraday"
+ ]
+}

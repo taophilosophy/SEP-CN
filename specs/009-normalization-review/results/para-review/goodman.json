@@ -1,0 +1,723 @@
+{
+ "slug": "goodman",
+ "letter": "g",
+ "state": "flagged",
+ "n_html": 160,
+ "n_md": 192,
+ "n_pairs": 102,
+ "n_flags": 13,
+ "n_merged": 42,
+ "merged": [
+  {
+   "ratio": 0.9995608256477821,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998972250770812,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979633401221996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994058229352347,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991311902693311,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990049751243781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992565055762082,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994121105232217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988249118683902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986789960369881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993284083277367,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994011976047904,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994079336885732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996236356793377,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961499493414387,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991220368744512,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979478158897684,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985569985569985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984284965950759,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992429977289932,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991341991341991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998324958123953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987421383647799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994282447112636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979181124219292,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989173583543847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996014348345954,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994453688297282,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994327850255247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992464204973625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995258416311048,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994453688297282,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996419620479771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931224209078404,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "纳尔逊·古德曼 Goodman, Nelson (Daniel Cohnitz and Marcus Rossberg)",
+  "zh_h1": "纳尔逊·古德曼 Goodman, Nelson (Daniel Cohnitz and Marcus Rossberg)",
+  "yuanwen_h1": "Nelson Goodman",
+  "html_title": "Nelson Goodman",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 45,
+  "p→p": 57,
+  "h3→h3": 14,
+  "blockquote→blockquote": 13,
+  "p→mathblock": 2,
+  "blockquote→∅": 2,
+  "figure→p": 6,
+  "dl→∅": 9,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 23,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 5,
+  "merged×1(dl→p+p)": 2,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 74,
+   "j": 75,
+   "ratio": 0.24956672443674177,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, we do not yet know that there are such things as colors. In fact the only thing we know about the erlebs ( A – F ) is that they are part similar as displayed in the following graph (where part-similarity between erlebs is indicated by a line):",
+   "md_text": "![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is all green, F bar is green on top third, black in middle third, and red on bottom third]](../assets/goodman/fig1a.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 76,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1a."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 77,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "However, we do not yet know that there are such things as colors. In fact the only thing we know about the erlebs (A–F) is that they are part similar as displayed in the following graph (where part-similarity between erlebs is indicated by a line):"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 78,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1b."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 79,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Graph: A and E on first row (2nd and 4th columns respectively), B and F on second row (1st and 3rd columns respectively), C and D on third row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A, F, and C. C has lines connecting it to B, A, D, and F. D has lines connecting it to C and F. E has lines connecting it to A and F F has lines connecting it to all others.]](../assets/goodman/fig1b.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 86,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is black on the top half and green on the bottom half, F bar is green on top third, black in middle third, and red on bottom third]](../assets/goodman/fig2a.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 87,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2a."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 89,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2b."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 90,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Graph: A on first row 3rd column, B and F on second row (1st and 5th columns respectively), D on third row, 6th column, E and C on fourth row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A, F, C, and E. C has lines connecting it to all others. D has lines connecting it to C and F. E has lines connecting it to B, A, F, and C F has lines connecting it to all others.]](../assets/goodman/fig2b.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[6 vertical colored bars, labeled A through F, A bar is green on the top half and black on the bottom half, B bar is all black, C bar is black on top half and red on bottom half, D bar is all red, E bar is all green, F bar is green on top half and red on the bottom half]](../assets/goodman/fig3a.png)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 96,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3a."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3b."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 99,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Graph: A and E on first row (2nd and 4th columns respectively), B and F on second row (1st and 3rd columns respectively), C and D on third row (2nd and 4th columns respectively). A has lines connecting it to B, C, F, and E. B has lines connecting it to A and C. C has lines connecting it to B, A, D, and F. D has lines connecting it to C and F. E has lines connecting it to A and F F has lines connecting it to A, C, E, and D.]](../assets/goodman/fig3b.png)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 140,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, according to Goodman, this would be wrong-headed (WW, 112). Consider the following two historiographical sentences: “The kings of Sparta had two votes” and “The kings of Sparta had only one vote”. The first sentence is part of a report by Herodotus, the second part of a report by Thucydides. There is, again, an inclination to understand these sentences as ellipses for “According to Herodotus, the kings of Sparta had two votes”, and “According to Thucydides, the kings of Sparta had only ",
+   "md_text": "However, according to Goodman, this would be wrong-headed (WW, 112). Consider the following two historiographical sentences: “The kings of Sparta had two votes” and “The kings of Sparta had only one vote”. The first sentence is part of a report by Herodotus, the second part of a report by Thucydides. There is, again, an inclination to understand these sentences as ellipses for “According to Herodotus, the kings of Sparta had two votes”, and “According to Thucydides, the kings of Sparta had only "
+  },
+  {
+   "i": 38,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 73,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1a.",
+   "md_text": "Figure 1a."
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Nelson Goodman",
+ "authors": [
+  "Cohnitz, Daniel",
+  "Rossberg, Marcus"
+ ]
+}

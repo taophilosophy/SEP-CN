@@ -1,0 +1,254 @@
+{
+ "slug": "heinrich-rickert",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 72,
+ "n_md": 77,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9984057816983739,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99774167698696,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981481481481481,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993891264508247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985993145581881,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998699219531719,
+   "n_h": 12,
+   "n_m": 12,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941918686160625,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.99951992318771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989751098096632,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99892610585528,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "海因里希·李凯尔特 Rickert, Heinrich (Andrea Staiti and Luca Oliva)",
+  "zh_h1": "海因里希·李凯尔特 Rickert, Heinrich (Andrea Staiti and Luca Oliva)",
+  "yuanwen_h1": "Heinrich Rickert",
+  "html_title": "Heinrich Rickert",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 11,
+  "p→∅": 42,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 2,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×12(p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 50,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "(4) For Rickert, however, the transcendent syntheses promised by religion are prefigured, as it were, in two earthly kinds of syntheses, that is, the love between man and woman in the sphere of practice and the production of a philosophical system oriented towards a comprehensive worldview-theory in the sphere of contemplation. As for the love between man and woman, Rickert’s view rests on the dubious assumption that women are “essentially” more oriented toward the realization of goods of the pr",
+   "md_text": "(4) For Rickert, however, the transcendent syntheses promised by religion are prefigured, as it were, in two earthly kinds of syntheses, that is, the love between man and woman in the sphere of practice and the production of a philosophical system oriented towards a comprehensive worldview-theory in the sphere of contemplation. As for the love between man and woman, Rickert’s view rests on the dubious assumption that women are “essentially” more oriented toward the realization of goods of the pr"
+  }
+ ],
+ "supplements": [
+  "math.html"
+ ],
+ "meta_title": "Heinrich Rickert",
+ "authors": [
+  "Staiti, Andrea",
+  "Oliva, Luca"
+ ]
+}

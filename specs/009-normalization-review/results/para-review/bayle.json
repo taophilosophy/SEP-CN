@@ -1,0 +1,294 @@
+{
+ "slug": "bayle",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 78,
+ "n_md": 82,
+ "n_pairs": 54,
+ "n_flags": 1,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9998525726079905,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968253968253968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992579767499382,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993784959602238,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996482588814632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986320109439124,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986357435197817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972714870395635,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990328820116054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992082343626286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998015873015873,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996557659208262,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992094861660079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974424552429667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994997498749375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997151808601538,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992490613266584,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991863303498779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "皮埃尔·培尔 Bayle, Pierre (Michael Hickson)",
+  "zh_h1": "皮埃尔·培尔 Bayle, Pierre (Michael Hickson)",
+  "yuanwen_h1": "Pierre Bayle",
+  "html_title": "Pierre Bayle",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 19,
+  "p→p": 33,
+  "blockquote→blockquote": 9,
+  "blockquote→∅": 3,
+  "ol→ol": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 77,
+   "j": 81,
+   "ratio": 0.9333333333333333,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "conscience | Enlightenment | evil: problem of | fideism | integrity | toleration",
+   "md_text": "conscience Enlightenment evil: problem of fideism integrity toleration"
+  }
+ ],
+ "spot": [
+  {
+   "i": 60,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Some of the most notorious remarks in the Dictionary are those in which Bayle details how a dualist could refute the traditional Christian accounts of the origin of evil, most of which begin from the story of the Fall of Adam and Eve in the Garden of Eden. Bayle begins his critique by asking how such a Fall was even metaphysically possible. If Adam and Eve were created wholly good, then they should not have had the capacity to sin, since such a capacity is hardly a good quality. But supposing an",
+   "md_text": "Some of the most notorious remarks in the Dictionary are those in which Bayle details how a dualist could refute the traditional Christian accounts of the origin of evil, most of which begin from the story of the Fall of Adam and Eve in the Garden of Eden. Bayle begins his critique by asking how such a Fall was even metaphysically possible. If Adam and Eve were created wholly good, then they should not have had the capacity to sin, since such a capacity is hardly a good quality. But supposing an"
+  },
+  {
+   "i": 55,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The natural light and revelation teach us clearly that there is only one principle of all things, and that this principle is infinitely perfect; The way of reconciling the moral and physical evil of humanity with all the attributes of this single, infinitely perfect principle of all things surpasses our philosophical lights, such that the Manichean objections leave us with difficulties that human reason cannot resolve; Nevertheless, it is necessary to believe firmly what the natural light and re",
+   "md_text": "The natural light and revelation teach us clearly that there is only one principle of all things, and that this principle is infinitely perfect; The way of reconciling the moral and physical evil of humanity with all the attributes of this single, infinitely perfect principle of all things surpasses our philosophical lights, such that the Manichean objections leave us with difficulties that human reason cannot resolve; Nevertheless, it is necessary to believe firmly what the natural light and re"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Pierre Bayle",
+ "authors": [
+  "Hickson, Michael"
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "slug": "erfurt",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 38,
+ "n_md": 38,
+ "n_pairs": 12,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9988536492166603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934156378600824,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993543179983858,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944073114172691,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9969530773918343,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971965891835066,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936480259060905,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9608695652173913,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)",
+  "zh_h1": "埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)",
+  "yuanwen_h1": "Thomas of Erfurt",
+  "html_title": "Thomas of Erfurt",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 21,
+  "blockquote→∅": 4,
+  "p→p": 4,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×7(blockquote+p+p+p+p+p+p→blockquote+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(p→p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 31,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For more recent influence, we need look no further than Jacques Derrida, who mentions Thomas of Erfurt (this time dressed as himself) in connection with the old Peircean idea that logic is a branch of semiotics: “As in Husserl (but the analogy, although it is most thought-provoking, would stop there and one must apply it carefully), the lowest level, the foundation of the possibility of logic (or semiotics) corresponds to the project of the Grammatica speculativa of Thomas d’Erfurt, falsely attr",
+   "md_text": "For more recent influence, we need look no further than Jacques Derrida, who mentions Thomas of Erfurt (this time dressed as himself) in connection with the old Peircean idea that logic is a branch of semiotics: “As in Husserl (but the analogy, although it is most thought-provoking, would stop there and one must apply it carefully), the lowest level, the foundation of the possibility of logic (or semiotics) corresponds to the project of the Grammatica speculativa of Thomas d’Erfurt, falsely attr"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Thomas of Erfurt",
+ "authors": [
+  "Zupko, Jack"
+ ]
+}

@@ -1,0 +1,558 @@
+{
+ "slug": "logic-dependence",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 180,
+ "n_md": 189,
+ "n_pairs": 137,
+ "n_flags": 7,
+ "n_merged": 36,
+ "merged": [
+  {
+   "ratio": 0.9978202954710583,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988137603795967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990645463049579,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983136593591906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928057553956835,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999407231772377,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992229992229992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991850040749797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9736070381231672,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "mathblock",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982078853046595,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996875,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987819732034104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977528089887641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99812382739212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950980392156863,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977578475336323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980657640232108,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988801791713325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991445680068435,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991941982272361,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989365473236441,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998780487804878,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9987370548118212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9973684210526316,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999275887038378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966666666666667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974683544303797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992266047950503,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979035639412998,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985301322880941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980557355800389,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9985286905345758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999275887038378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9937888198757764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "依赖逻辑 dependence (Pietro Galliani)",
+  "zh_h1": "依赖逻辑 dependence (Pietro Galliani)",
+  "yuanwen_h1": "Dependence Logic",
+  "html_title": "Dependence Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 34,
+  "p→mathblock": 17,
+  "p→p": 87,
+  "figure→p": 1,
+  "figure→∅": 3,
+  "h3→h3": 19,
+  "ul→ul": 2,
+  "ol→ol": 2,
+  "ul→∅": 3,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 26,
+  "merged×1(figure→p+mathblock+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(ul→ul)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 15,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[two similar figures, both figures have the words 'Boys' and 'Girls' separated by horizontal space at the top. Figure (a) has point b1 at the upper left, g1 at the upper right, b2 at the lower left and g2 at the lower right. Arrows point from g1 to b1, from b1 to g2, from g2 to b2, and b2 to g1. Figure (b) has b1 at the upper left, b2 at the lower left, g1 at the middle right. An arrow points both from and to b1 and g1 and similarly from b2 to g1.]](../assets/logic-dependence/bg1.svg)"
+  },
+  {
+   "kind": "replace",
+   "i": 42,
+   "j": 47,
+   "ratio": 0.21333333333333335,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "⟦M⟧ Table 2: ⟦M⟧ and ⟦M⟧ in a model with two elements ⟦M⟧ and ⟦M⟧ .",
+   "md_text": "Table 2:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 48,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "mathblock",
+   "html_text": null,
+   "md_text": "⟦M⟧"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 49,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Table 2: ⟦M⟧ and ⟦M⟧ in a model with two elements ⟦M⟧ and ⟦M⟧ ."
+  },
+  {
+   "kind": "replace",
+   "i": 51,
+   "j": 58,
+   "ratio": 0.34782608695652173,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "⟦M⟧ Table 3: ⟦M⟧ and ⟦M⟧ for ⟦M⟧ , ⟦M⟧",
+   "md_text": "Table 3:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 59,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "mathblock",
+   "html_text": null,
+   "md_text": "⟦M⟧"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 60,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Table 3: ⟦M⟧ and ⟦M⟧ for ⟦M⟧ , ⟦M⟧"
+  }
+ ],
+ "spot": [
+  {
+   "i": 114,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Rather than extending first order logic with dependence atoms ⟦M⟧ , independence logic (Grädel & Väänänen 2013) extends it with independence atoms ⟦M⟧ , whose intended interpretation is “for any possible choice of ⟦M⟧ , the possible values of ⟦M⟧ and ⟦M⟧ are independent”—in other words, given any fixed choice of ⟦M⟧ , knowing the value taken by ⟦M⟧ would not convey any information about the value taken by ⟦M⟧ . This is a notion of significant conceptual importance: for example, one may want to e",
+   "md_text": "Rather than extending first order logic with dependence atoms ⟦M⟧ , independence logic (Grädel & Väänänen 2013) extends it with independence atoms ⟦M⟧ , whose intended interpretation is “for any possible choice of ⟦M⟧ , the possible values of ⟦M⟧ and ⟦M⟧ are independent”—in other words, given any fixed choice of ⟦M⟧ , knowing the value taken by ⟦M⟧ would not convey any information about the value taken by ⟦M⟧ . This is a notion of significant conceptual importance: for example, one may want to e"
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 13,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Two scenarios in which ( ⟦M⟧ ) is true. In (a), ⟦M⟧ can be chosen independently from ⟦M⟧ ; in (b), it cannot.",
+   "md_text": "Two scenarios in which ( ⟦M⟧ ) is true. In (a), ⟦M⟧ can be chosen independently from ⟦M⟧ ; in (b), it cannot."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Dependence Logic",
+ "authors": [
+  "Galliani, Pietro"
+ ]
+}

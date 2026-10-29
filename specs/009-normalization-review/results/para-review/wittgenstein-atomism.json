@@ -1,0 +1,421 @@
+{
+ "slug": "wittgenstein-atomism",
+ "letter": "w",
+ "state": "flagged",
+ "n_html": 110,
+ "n_md": 111,
+ "n_pairs": 39,
+ "n_flags": 2,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.9976102541820552,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948186528497409,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970384995064165,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989071038251366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9679802955665024,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9884800550206327,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9959664908470369,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994350282485875,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983500444218809,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935992626350556,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976669582968796,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987980769230769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977207977207977,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978392394122731,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984126984126984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957252211949498,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.991240364400841,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993861264579497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995588734306074,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "维特根斯坦的逻辑原子主义 logical atomism (Ian Proops)",
+  "zh_h1": "维特根斯坦的逻辑原子主义 logical atomism (Ian Proops)",
+  "yuanwen_h1": "Wittgenstein’s Logical Atomism",
+  "html_title": "Wittgenstein’s Logical Atomism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 18,
+  "p→∅": 53,
+  "blockquote→∅": 17,
+  "h3→h3": 6,
+  "blockquote→blockquote": 6,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(p→p)": 5,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×4(blockquote+blockquote+p+p→blockquote+blockquote+p+p)": 1,
+  "merged×9(p+p+p+p+blockquote+p+p+p+blockquote→p+p+p+p+blockquote+p+p+p+blockquote)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×10(p+blockquote+p+p+p+blockquote+p+p+p+p→p+blockquote+p+p+p+blockquote+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×6(blockquote+p+blockquote+p+p+blockquote→blockquote+p+blockquote+p+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 18,
+   "j": 19,
+   "ratio": 0.8910256410256411,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "G (the x : Fx ) = ∃ x (∀ y ( Fy ↔ y = x ) & Gx ) Df. (cf. Russell 1905b; Russell 1990, 173) (the x : Fx ) exists = ∃ x ∀ y ( Fy ↔ y = x ) Df. (cf. Russell 1990, 174)",
+   "md_text": "[1] G(the x: Fx) = ∃x(∀y(Fy↔y=x) & Gx) Df. (cf. Russell 1905b; Russell 1990, 173) [2] (the x: Fx) exists = ∃x∀y(Fy↔y=x) Df. (cf. Russell 1990, 174)"
+  },
+  {
+   "kind": "replace",
+   "i": 89,
+   "j": 90,
+   "ratio": 0.9278350515463918,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "∀ x . Φ x ↔ Φa & Φb & Φc … ∃ x . Φx ↔ Φa ∨ Φb ∨ Φc …",
+   "md_text": "∀x. Φx ↔ Φa & Φb & Φc… ∃x. Φx ↔ Φa ∨ Φb ∨ Φc…"
+  }
+ ],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The “names” spoken of in the Tractatus are not mere signs (i.e., typographically or phonologically identified inscriptions), but rather signs-together-with-their-meanings — or “symbols.” Being symbols, names are identified and individuated only in the context of significant sentences. A name is “semantically simple” in the sense that its meaning does not depend on the meanings of its orthographic parts, even when those parts are, in other contexts, independently meaningful. So, for example, it w",
+   "md_text": "The “names” spoken of in the Tractatus are not mere signs (i.e., typographically or phonologically identified inscriptions), but rather signs-together-with-their-meanings — or “symbols.” Being symbols, names are identified and individuated only in the context of significant sentences. A name is “semantically simple” in the sense that its meaning does not depend on the meanings of its orthographic parts, even when those parts are, in other contexts, independently meaningful. So, for example, it w"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Wittgenstein’s Logical Atomism",
+ "authors": [
+  "Proops, Ian"
+ ]
+}

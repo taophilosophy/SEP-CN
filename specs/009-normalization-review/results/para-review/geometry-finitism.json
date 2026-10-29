@@ -1,0 +1,337 @@
+{
+ "slug": "geometry-finitism",
+ "letter": "g",
+ "state": "flagged",
+ "n_html": 141,
+ "n_md": 152,
+ "n_pairs": 122,
+ "n_flags": 9,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991902834008097,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997880008479966,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994114184814596,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989743589743589,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995489400090212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977116704805492,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995408631772268,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993564993564994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994579945799458,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995143273433705,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987228607918263,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "几何学中的有限主义 finitism in (Jean Paul Van Bendegem)",
+  "zh_h1": "几何学中的有限主义 finitism in (Jean Paul Van Bendegem)",
+  "yuanwen_h1": "Finitism in Geometry",
+  "html_title": "Finitism in Geometry",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 74,
+  "h3→h3": 14,
+  "p→∅": 17,
+  "ul→ul": 6,
+  "figure→p": 4,
+  "blockquote→blockquote": 5,
+  "p→mathblock": 10,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+ol+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 10,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 43,
+   "j": 46,
+   "ratio": 0.21621621621621623,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Starting from the triple ⟦M⟧ , and ⟦M⟧ , we have constructed the parallelogram abce .",
+   "md_text": "![[Points a, b, and c form a triangle, line segments ab and bc are solid lines, line segment bc is dashed. Point d lies midway on the line segment bc. The dashed line segment bd extends further to point e.]](../assets/geometry-finitism/figure1.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 47,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 48,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Starting from the triple ⟦M⟧ , and ⟦M⟧ , we have constructed the parallelogram abce."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 64,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 65,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a grid with two parallel lines going from upper left to lower right, near the bottom is a horizontal line crossing both lines (its angle with the left parallel line is labelled with an alpha symbol). Above a horizontal line segment connects the two parallel lines and another line segment (ND/sin(alpha) has an arrow pointing to this) goes from its intersection with the right parallel line to a point on the left parallel line below (ND has an arrow pointing to this line segment. The angle between the first line segment and the left parallel line is labelled with an alpha symbol.]](../assets/geometry-finitism/figure2.jpg)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 71,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 72,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a grid with two long rectangles, one oriented top (labelled 'p')/bottom (labelled 'q') on the long axis and one oriented left (labelled 'q')/right (labelled 'r') on the long axis; they overlap on the bottom side of one and the left side of the other. A long parallelgram overlaps on the top side of one and the right side of the other. The long sides of both the rectangles are labelled NL and the short sides, ND. A horizontal line segment from one side of the parallelgram to the other is labelled '[sqrt(2)N_d]'. The angle of intersection between the parallelgram and the left/right rectangle is labelled 'alpha=pi/4.]](../assets/geometry-finitism/figure3.jpg)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 94,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[penrose tile patter, a large number of several different types of parallelgrams which mesh together in groups of 10 to form multiple 10-sided figures and groups of 3 to form multiple interlacing 6-sided figures]](../assets/geometry-finitism/figure4.jpg)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4"
+  }
+ ],
+ "spot": [
+  {
+   "i": 94,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Lattice spacetime: this is close to Regge’s approach in the sense that continuous space (and time) are replaced by a discrete structure, in this case a lattice. If these lattices are equipped with some form of—obviously discrete—metric, the connections between continuous and discrete space (and time) become very close. The next section presents such a proposal (leaving out the physics), Non-metrical lattices: the best known example under this heading are causal lattices. The connections between ",
+   "md_text": "Lattice spacetime: this is close to Regge’s approach in the sense that continuous space (and time) are replaced by a discrete structure, in this case a lattice. If these lattices are equipped with some form of—obviously discrete—metric, the connections between continuous and discrete space (and time) become very close. The next section presents such a proposal (leaving out the physics), Non-metrical lattices: the best known example under this heading are causal lattices. The connections between "
+  },
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Logicians are often interested in displaying the underlying logical structure of a theory, physical or mathematical, and in exploring whether or not there are alternatives, usually by changing the underlying logical principles. One could imagine a geometry based not on classical logic, but, e.g., on intuitionistic logic, where principles such as the excluded third, i.e., ⟦M⟧ or not- ⟦M⟧ , for any statement ⟦M⟧ , or double negation, i.e., if not-not- ⟦M⟧ then ⟦M⟧ , no longer hold. Often the goal ",
+   "md_text": "Logicians are often interested in displaying the underlying logical structure of a theory, physical or mathematical, and in exploring whether or not there are alternatives, usually by changing the underlying logical principles. One could imagine a geometry based not on classical logic, but, e.g., on intuitionistic logic, where principles such as the excluded third, i.e., ⟦M⟧ or not- ⟦M⟧ , for any statement ⟦M⟧ , or double negation, i.e., if not-not- ⟦M⟧ then ⟦M⟧ , no longer hold. Often the goal "
+  },
+  {
+   "i": 26,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Through two points exactly one straight line can be drawn. There are at least two points on every straight line. There are at least three points that are not on the same straight line.",
+   "md_text": "Through two points exactly one straight line can be drawn. There are at least two points on every straight line. There are at least three points that are not on the same straight line."
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Finitism in Geometry",
+ "authors": [
+  "Van Bendegem, Jean Paul"
+ ]
+}

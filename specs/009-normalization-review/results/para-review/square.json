@@ -1,0 +1,383 @@
+{
+ "slug": "square",
+ "letter": "s",
+ "state": "flagged",
+ "n_html": 134,
+ "n_md": 137,
+ "n_pairs": 89,
+ "n_flags": 2,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.999484270242393,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9808306709265175,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "ul",
+    "ul",
+    "ul",
+    "ul",
+    "ul",
+    "ul"
+   ],
+   "shape_m": [
+    "ul",
+    "ul",
+    "ul",
+    "ul",
+    "ul",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9963846710050615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9893617021276596,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9785111281657713,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9859943977591037,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961013645224172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9769792251544076,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.990924092409241,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954001839926403,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "ul",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9897013388259527,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9872423945044161,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975186104218362,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9910554561717353,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992289899768697,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9994175888177053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981507165973186,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934354485776805,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934374292826431,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972340960523007,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "传统逻辑方阵 square of opposition (Terence Parsons and Graziana Ciola)",
+  "zh_h1": "传统逻辑方阵 square of opposition (Terence Parsons and Graziana Ciola)",
+  "yuanwen_h1": "The Traditional Square of Opposition",
+  "html_title": "The Traditional Square of Opposition",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 48,
+  "table→table": 1,
+  "figure→p": 3,
+  "ul→∅": 8,
+  "ul→ul": 5,
+  "p→∅": 31,
+  "h3→h3": 10,
+  "table→∅": 2,
+  "blockquote→blockquote": 12,
+  "ol→∅": 1,
+  "blockquote→∅": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×6(ul+ul+ul+ul+ul+ul→ul+ul+ul+ul+ul+ul)": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(p→p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×4(p+ul+ul+p→p+ul+ul+p)": 1,
+  "merged×2(table+p→table+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 8,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure: The Traditional Square of Opposition"
+  },
+  {
+   "kind": "replace",
+   "i": 28,
+   "j": 29,
+   "ratio": 0.9174311926605505,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Every S is P ∀ x ( Sx → Px ) No S is P ∀ x ( Sx → ¬ Px ) Some S is P ∃ x ( Sx & Px ) Some S is not P ∃ x ( Sx & ¬ Px )",
+   "md_text": "Every S is P ∀x(Sx → Px) No S is P ∀x(Sx → ¬Px) Some S is P ∃x(Sx & Px) Some S is not P ∃x(Sx & ¬Px)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 93,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Note that subjects of (A) statements are merely presently empty but have had and can have referents at some point in time. Instead, there are no possibly actual referents for subjects of (B) and (C) statements, since those subjects signify what, by the mid-14th century, were considered respectively relative and absolute impossibilities. The default falsity of affirmative sentences with an empty subject term raises a plethora of serious problems for late medieval philosophers, who generally opera",
+   "md_text": "Note that subjects of (A) statements are merely presently empty but have had and can have referents at some point in time. Instead, there are no possibly actual referents for subjects of (B) and (C) statements, since those subjects signify what, by the mid-14th century, were considered respectively relative and absolute impossibilities. The default falsity of affirmative sentences with an empty subject term raises a plethora of serious problems for late medieval philosophers, who generally opera"
+  },
+  {
+   "i": 5,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Name Form Title A Every S is P Universal Affirmative E No S is P Universal Negative I Some S is P Particular Affirmative O Some S is not P Particular Negative",
+   "md_text": "Name Form Title A Every S is P Universal Affirmative E No S is P Universal Negative I Some S is P Particular Affirmative O Some S is not P Particular Negative"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Traditional Square of Opposition",
+ "authors": [
+  "Parsons, Terence",
+  "Ciola, Graziana"
+ ]
+}

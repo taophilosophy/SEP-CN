@@ -1,0 +1,590 @@
+{
+ "slug": "disagreement",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 176,
+ "n_md": 179,
+ "n_pairs": 120,
+ "n_flags": 3,
+ "n_merged": 42,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996742671009772,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986842105263158,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975247524752475,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9935344827586207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992779783393502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994496422674739,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970845481049563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974293059125964,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966101694915255,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996324880558618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972144846796658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9939148073022313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992498124531133,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965635738831615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993050729673384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992748368382887,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987460815047022,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999597099113618,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991823385118561,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947643979057592,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992565055762082,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998972250770812,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990029910269193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988751406074241,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997624703087886,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996202050892518,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989150090415914,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995059288537549,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988465974625144,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995835068721366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991863303498779,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989157932779184,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995213020584012,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986910994764397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994620763851533,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989868287740629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9759036144578314,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "分歧 disagreement (Bryan Frances and Jonathan Matheson)",
+  "zh_h1": "分歧 disagreement (Bryan Frances and Jonathan Matheson)",
+  "yuanwen_h1": "Disagreement",
+  "html_title": "Disagreement",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 87,
+  "p→∅": 40,
+  "blockquote→∅": 15,
+  "ul→ul": 5,
+  "ol→ol": 2,
+  "h3→h3": 6,
+  "h4→h4": 9,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 22,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(blockquote→blockquote)": 10,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 60,
+   "j": 63,
+   "ratio": 0.8990825688073395,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "The Restaurant Check Case . Suppose that five of us go out to dinner. It’s time to pay the check, so the question we’re interested in is how much we each owe. We can all see the bill total clearly, we all agree to give a 20 percent tip, and we further agree to split the whole cost evenly, not worrying over who asked for imported water, or skipped desert, or drank more of the wine. I do the math in my head and become highly confident that our shares are $43 each. Meanwhile, my friend does the math in her head and becomes highly confident that our shares are $45 each. (Christensen 2007, 193.)",
+   "md_text": "The Restaurant Check Case. Suppose that five of us go out to dinner. It’s time to pay the check, so the question we’re interested in is how much we each owe. We can all see the bill total clearly, we all agree to give a 20 percent tip, and we further agree to split the whole cost evenly, not worrying over who asked for imported water, or skipped desert, or drank more of the wine. I do the math in my head and become highly confident that our shares are ⟦M⟧ 45 each. (Christensen 2007, 193.)"
+  },
+  {
+   "kind": "replace",
+   "i": 61,
+   "j": 64,
+   "ratio": 0.9468503937007874,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Understood as a case of peer disagreement, where the friends have a track record of being equally good at such calculation, and where neither party has a reason to believe that on this occasion either party is especially sharp or dull, Christensen claims that upon learning of the disagreement regarding the shares he should become significantly less confident that the shares are $43 and significantly more confident that they are $45. In fact, he claims that these competitor propositions ought to be given roughly equal credence.",
+   "md_text": "Understood as a case of peer disagreement, where the friends have a track record of being equally good at such calculation, and where neither party has a reason to believe that on this occasion either party is especially sharp or dull, Christensen claims that upon learning of the disagreement regarding the shares he should become significantly less confident that the shares are ⟦M⟧ 45. In fact, he claims that these competitor propositions ought to be given roughly equal credence."
+  },
+  {
+   "kind": "replace",
+   "i": 62,
+   "j": 65,
+   "ratio": 0.8268015170670038,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Restaurant Check Case supports Defeat since in learning of his peer’s belief, Christensen becomes less justified in his belief. His decrease in justification is seen by the fact that he must lower his confidence to be in a justified position on the issue. Learning of the disagreement gives him reason to revise and an opportunity for epistemic improvement. Further, the Restaurant Check Case supports Equal Weight , since the reason Christensen gains to believe he is mistaken is quite strong. Since he should be equally confident that the shares are $45 as that they are $43, his reasons equally support these claims. Giving the peer opinions equal weight has typically been understood to require ‘splitting the difference’ between the peer opinions, at least when the two peer opinions exhaust",
+   "md_text": "The Restaurant Check Case supports Defeat since in learning of his peer’s belief, Christensen becomes less justified in his belief. His decrease in justification is seen by the fact that he must lower his confidence to be in a justified position on the issue. Learning of the disagreement gives him reason to revise and an opportunity for epistemic improvement. Further, the Restaurant Check Case supports Equal Weight, since the reason Christensen gains to believe he is mistaken is quite strong. Since he should be equally confident that the shares are ⟦M⟧ 43, his reasons equally support these claims. Giving the peer opinions equal weight has typically been understood to require ‘splitting the difference’ between the peer opinions, at least when the two peer opinions exhaust one’s evidence abo"
+  }
+ ],
+ "spot": [
+  {
+   "i": 152,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "If the numbers matter, then disagreement poses a skeptical threat for nearly every view of the significance of peer disagreement. The skeptical threat for conciliatory views (the Equal Weight View, the Justificationist View, and the Total Evidence View) is pretty straightforward. On the Equal Weight View, since for many controversial beliefs we are not justified in believing that the weighing of opinions favors our own opinion on the matter, the reasons for thinking that we are mistaken outweigh",
+   "md_text": "If the numbers matter, then disagreement poses a skeptical threat for nearly every view of the significance of peer disagreement. The skeptical threat for conciliatory views (the Equal Weight View, the Justificationist View, and the Total Evidence View) is pretty straightforward. On the Equal Weight View, since for many controversial beliefs we are not justified in believing that the weighing of opinions favors our own opinion on the matter, the reasons for thinking that we are mistaken outweigh"
+  },
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To a certain extent, it may seem that there are just three doxastic attitudes to adopt regarding the truth of a claim: believe it’s true, believe it’s false (i.e., disbelieve it), and suspend judgment on it. In the most straightforward sense, two individuals disagree about a proposition when they adopt different doxastic attitudes toward the same proposition (i.e., one believes it and one disbelieves it, or one believes it and one suspends judgment). But of course there are levels of confidence ",
+   "md_text": "To a certain extent, it may seem that there are just three doxastic attitudes to adopt regarding the truth of a claim: believe it’s true, believe it’s false (i.e., disbelieve it), and suspend judgment on it. In the most straightforward sense, two individuals disagree about a proposition when they adopt different doxastic attitudes toward the same proposition (i.e., one believes it and one disbelieves it, or one believes it and one suspends judgment). But of course there are levels of confidence "
+  },
+  {
+   "i": 28,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "After you acquire some new information relevant to a certain belief ⟦M⟧ of yours, what should your new level of confidence in ⟦M⟧ be in order for your new level of confidence regarding ⟦M⟧ to be rational? After you acquire some new information relevant to a certain belief ⟦M⟧ of yours, what should your new level of confidence in ⟦M⟧ be in order for your response to the new information to be rational?",
+   "md_text": "After you acquire some new information relevant to a certain belief ⟦M⟧ of yours, what should your new level of confidence in ⟦M⟧ be in order for your new level of confidence regarding ⟦M⟧ to be rational? After you acquire some new information relevant to a certain belief ⟦M⟧ of yours, what should your new level of confidence in ⟦M⟧ be in order for your response to the new information to be rational?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Disagreement",
+ "authors": [
+  "Frances, Bryan",
+  "Matheson, Jonathan"
+ ]
+}

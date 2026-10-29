@@ -1,0 +1,201 @@
+{
+ "slug": "democritus",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 52,
+ "n_md": 52,
+ "n_pairs": 28,
+ "n_flags": 1,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9994100294985251,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988476804233708,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990892531876139,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989543394911119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987239472564866,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995032290114257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987001733102253,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993560849967804,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.994475138121547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "德谟克利特 Democritus (Sylvia Berryman)",
+  "zh_h1": "德谟克利特 Democritus (Sylvia Berryman)",
+  "yuanwen_h1": "Democritus",
+  "html_title": "Democritus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 11,
+  "p→p": 14,
+  "p→∅": 22,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 4,
+  "merged×10(p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 49,
+   "j": 49,
+   "ratio": 0.9466666666666667,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "atomism: ancient | doxography of ancient philosophy | Epicurus | Leucippus | Lucretius | Melissus | Parmenides | Zeno of Elea | Zeno of Elea: Zeno’s paradoxes",
+   "md_text": "atomism: ancient doxography of ancient philosophy Epicurus Leucippus Lucretius Melissus Parmenides Zeno of Elea Zeno of Elea: Zeno’s paradoxes"
+  }
+ ],
+ "spot": [
+  {
+   "i": 28,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One report credits Democritus and Leucippus with the view that thought as well as sensation are caused by images impinging on the body from outside, and that thought as much as perception depends on images (DK 67A30). Thought as well as perception are described as changes in the body. Democritus apparently recognized that his view gives rise to an epistemological problem: it takes our knowledge of the world to be derived from our sense experience, but the senses themselves not to be in direct co",
+   "md_text": "One report credits Democritus and Leucippus with the view that thought as well as sensation are caused by images impinging on the body from outside, and that thought as much as perception depends on images (DK 67A30). Thought as well as perception are described as changes in the body. Democritus apparently recognized that his view gives rise to an epistemological problem: it takes our knowledge of the world to be derived from our sense experience, but the senses themselves not to be in direct co"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Democritus",
+ "authors": [
+  "Berryman, Sylvia"
+ ]
+}

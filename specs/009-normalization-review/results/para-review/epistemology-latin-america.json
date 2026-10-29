@@ -1,0 +1,285 @@
+{
+ "slug": "epistemology-latin-america",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 66,
+ "n_md": 71,
+ "n_pairs": 31,
+ "n_flags": 4,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9986043265875785,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996502273522211,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990832416574991,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989293361884368,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984656693517453,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988851727982163,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998649121929254,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9986378083850461,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992354740061162,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996590521650187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985126425384234,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9753086419753086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "拉丁美洲的认识论 in Latin America (Diego Machuca)",
+  "zh_h1": "拉丁美洲的认识论 in Latin America (Diego Machuca)",
+  "yuanwen_h1": "Epistemology in Latin America",
+  "html_title": "Epistemology in Latin America",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 20,
+  "p→∅": 32,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 3,
+  "merged×8(p+p+p+p+p+p+p+ol→p+p+p+p+p+p+p+ol)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 59,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "7. Religious Epistemology"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 60,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "There is at present an emerging interest in religious epistemology among Latin American scholars. Such an interest has been fostered by several projects funded by the John Templeton Foundation, especially “LATAM Bridges in the Epistemology of Religion” (2019–2023), directed by Luis Oliveira at the University of Houston. This religiously neutral project consists in a series of activities intended to create bridges between North American philosophers working in analytic epistemology of religion and Latin American philosophers interested in engaging in research in that domain: organization of seminars on religious epistemology in Argentina, Brazil, and Chile; selection of scholars for mentoring and research fellowships; and establishment of prizes to incentivize scholarly activity. The ultima"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 61,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Worth mentioning are also two editorial projects. One is the publication of the first companion to contemporary philosophy of religion in the Spanish-speaking world (Rossi & Garcia forthcoming), which will include a section on the epistemic status of religious belief. One third of the contributions to this volume will be written by Latin American scholars working in the philosophy of religion, while the rest will be authored by North American and European scholars and translated into Spanish. The companion is intended to contribute to the development of Latin American scholarship in analytic philosophy of religion."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 62,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The second project is the edition of a special issue of the journal Religious Studies (Alvarado & Portugal forthcoming), which will bring together some of the results of various recent research projects on the existence and nature of God and the rationality or justification of religious beliefs and practices that have been funded by the Templeton Foundation. These projects were supported by two large grants aimed to foster systematic research in analytic philosophy of religion in both Spanish- and Portuguese-speaking Latin America."
+  }
+ ],
+ "spot": [
+  {
+   "i": 51,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In Colombia, one finds several scholars interested in Wittgenstein’s philosophy, among whom one should mention Magdalena Holguín (b. 1950) and Raúl Meléndez (b. 1964). Holguín obtained her B.A. and M.A. in philosophy from Georgetown University, her M.A. in law from the Universidad de los Andes (Colombia), and her Ph.D. in philosophy from Columbia University. She taught at the Universidad de los Andes and the Universidad Nacional de Colombia. In her short 1997 book, she explores Wittgenstein’s st",
+   "md_text": "In Colombia, one finds several scholars interested in Wittgenstein’s philosophy, among whom one should mention Magdalena Holguín (b. 1950) and Raúl Meléndez (b. 1964). Holguín obtained her B.A. and M.A. in philosophy from Georgetown University, her M.A. in law from the Universidad de los Andes (Colombia), and her Ph.D. in philosophy from Columbia University. She taught at the Universidad de los Andes and the Universidad Nacional de Colombia. In her short 1997 book, she explores Wittgenstein’s st"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Epistemology in Latin America",
+ "authors": [
+  "Machuca, Diego"
+ ]
+}

@@ -1,0 +1,241 @@
+{
+ "slug": "ibn-sina",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 55,
+ "n_md": 55,
+ "n_pairs": 25,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9935613682092556,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979818365287588,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970229599119123,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987629886194953,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996415770609319,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989266547406083,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991397849462366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989552358755927,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979445015416238,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978345604157643,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968454258675079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948717948717949,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970597843841882,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "伊本·西那（阿维森纳） Ibn Sina [Avicenna] (Dimitri Gutas)",
+  "zh_h1": "伊本·西那（阿维森纳） Ibn Sina [Avicenna] (Dimitri Gutas)",
+  "yuanwen_h1": "Ibn Sina [Avicenna]",
+  "html_title": "Ibn Sina [Avicenna]",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 2,
+  "p→∅": 27,
+  "ol→∅": 1,
+  "p→p": 14,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×7(p+p+ol+p+p+p+p→p+p+ol+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 6,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 29,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This knowledge, which represents and accounts for reality and the way things are, also corresponds, Avicenna maintains, with what is found in books, i.e. with philosophy, or more specifically, with the philosophical sciences as classified and taught in the Aristotelian tradition. However, the identity between absolute knowledge, in the form of the intelligibles contained in the intellects of the celestial spheres, and philosophy, as recorded in the Aristotelian tradition, is not complete. Though",
+   "md_text": "This knowledge, which represents and accounts for reality and the way things are, also corresponds, Avicenna maintains, with what is found in books, i.e. with philosophy, or more specifically, with the philosophical sciences as classified and taught in the Aristotelian tradition. However, the identity between absolute knowledge, in the form of the intelligibles contained in the intellects of the celestial spheres, and philosophy, as recorded in the Aristotelian tradition, is not complete. Though"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ibn Sina [Avicenna]",
+ "authors": [
+  "Gutas, Dimitri"
+ ]
+}

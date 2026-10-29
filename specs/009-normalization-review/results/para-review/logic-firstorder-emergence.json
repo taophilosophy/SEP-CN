@@ -1,0 +1,266 @@
+{
+ "slug": "logic-firstorder-emergence",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 87,
+ "n_md": 87,
+ "n_pairs": 64,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.997164667393675,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959758551307847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984192222573506,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994008388256441,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988649262202043,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991629464285714,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999581589958159,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996078431372549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994655264564404,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997278911564625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995119570522206,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988925802879292,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963846710050615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999707516817783,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993293091884641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "一阶逻辑的出现 first-order logic (William Ewald)",
+  "zh_h1": "一阶逻辑的出现 first-order logic (William Ewald)",
+  "yuanwen_h1": "The Emergence of First-Order Logic",
+  "html_title": "The Emergence of First-Order Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 14,
+  "p→∅": 22,
+  "p→p": 40,
+  "blockquote→blockquote": 6,
+  "ul→ul": 1,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 11,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 59,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "At this point in the 1930s, however, several other strands of thinking about logic now coalesced. The intellectual situation was highly complex. The famous papers by Carnap, von Neumann, and Heyting at the 1931 Königsberg congress had identified the logicist, formalist, and intuitionist schools: their debates were to shape thinking about the foundations of mathematics for the next several decades. A search for secure foundations, and in particular for an avoidance of the set-theoretical paradoxe",
+   "md_text": "At this point in the 1930s, however, several other strands of thinking about logic now coalesced. The intellectual situation was highly complex. The famous papers by Carnap, von Neumann, and Heyting at the 1931 Königsberg congress had identified the logicist, formalist, and intuitionist schools: their debates were to shape thinking about the foundations of mathematics for the next several decades. A search for secure foundations, and in particular for an avoidance of the set-theoretical paradoxe"
+  },
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Peirce worked in the algebraic tradition of Boole. His first logic papers appeared in 1867; they simplify Boole’s system, re-interpret union or logical addition ⟦M⟧ so that it applies also when A and B are not disjoint, correct several mistakes, and explore connections between logic, arithmetic, and algebra.",
+   "md_text": "Peirce worked in the algebraic tradition of Boole. His first logic papers appeared in 1867; they simplify Boole’s system, re-interpret union or logical addition ⟦M⟧ so that it applies also when A and B are not disjoint, correct several mistakes, and explore connections between logic, arithmetic, and algebra."
+  },
+  {
+   "i": 63,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "⟦M⟧ When was first-order logic first explicitly identified as a distinct logical system? This question has a relatively straightforward answer. First-order logic was explicitly identified by Peirce in 1885, but then forgotten. It was independently re-discovered in Hilbert’s 1917/18 lectures, and given wide currency in the 1928 monograph, Hilbert & Ackermann. Peirce was the first to identify it: but it was Hilbert who put the system on the map. ⟦M⟧ When was first-order logic recognized as being i",
+   "md_text": "⟦M⟧ When was first-order logic first explicitly identified as a distinct logical system? This question has a relatively straightforward answer. First-order logic was explicitly identified by Peirce in 1885, but then forgotten. It was independently re-discovered in Hilbert’s 1917/18 lectures, and given wide currency in the 1928 monograph, Hilbert & Ackermann. Peirce was the first to identify it: but it was Hilbert who put the system on the map. ⟦M⟧ When was first-order logic recognized as being i"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Emergence of First-Order Logic",
+ "authors": [
+  "Ewald, William"
+ ]
+}

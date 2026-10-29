@@ -1,0 +1,543 @@
+{
+ "slug": "axiom-choice",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 156,
+ "n_md": 156,
+ "n_pairs": 83,
+ "n_flags": 2,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9995953055443141,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934980494148244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968992248062015,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9900990099009901,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9931464174454828,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981302586475538,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961215255332903,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9990928333837314,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9678390069588113,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989888776541962,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9887640449438202,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959225280326198,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967974379503602,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997371385655276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9925,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995260663507109,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962640099626401,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9971830985915493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966442953020134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996875,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9974160206718347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9960591133004926,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953000723065799,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9895833333333334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9927360774818402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930555555555556,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9903121636167922,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9879518072289156,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9936305732484076,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9704641350210971,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "选择公理 choice, axiom of (John L. Bell)",
+  "zh_h1": "选择公理 choice, axiom of (John L. Bell)",
+  "yuanwen_h1": "The Axiom of Choice",
+  "html_title": "The Axiom of Choice",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 60,
+  "blockquote→blockquote": 2,
+  "p→p": 57,
+  "p→mathblock": 11,
+  "table→∅": 2,
+  "ul→∅": 7,
+  "ul→ul": 1,
+  "blockquote→∅": 3,
+  "table→table": 2,
+  "h3→h3": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 13,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+table→p+table)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(table→table)": 1,
+  "merged×1(ul→ul)": 2,
+  "merged×3(ul+p+ul→ul+p+ul)": 1,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 1,
+  "merged×6(p+ul+p+ul+p+ul→p+ul+p+ul+p+ul)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 7,
+   "j": 7,
+   "ratio": 0.8280254777070064,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "\\begin{align} f_{1}(\\{0\\}) &= 0 \\\\ f_{1}(\\{1\\}) &= 1 \\\\ f_{1}(\\{0, 1\\}) &= 0 \\\\ f_{2}(\\{0\\}) &= 0 \\\\ f_{2}(\\{1\\}) &= 1 \\\\ f_{2}(\\{0, 1\\}) &= 1 \\end{align}",
+   "md_text": "\\begin{align} f ⟦S⟧ (\\{0\\}) &= 0 \\\\ f ⟦S⟧ (\\{1\\}) &= 1 \\\\ f ⟦S⟧ (\\{0, 1\\}) &= 0 \\\\ f ⟦S⟧ (\\{0\\}) &= 0 \\\\ f ⟦S⟧ (\\{1\\}) &= 1 \\\\ f ⟦S⟧ (\\{0, 1\\}) &= 1 \\end{align}"
+  },
+  {
+   "kind": "replace",
+   "i": 119,
+   "j": 119,
+   "ratio": 0.9130434782608695,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "\\begin{align} x \\in U &\\leftrightarrow f(r(x,0))=f(r(x,1)) \\ldots \\mbox{by (**)} \\\\ &\\leftrightarrow \\pi_{1}(f(r(x,0))) = \\pi_{1}(f(r(x,1))) \\wedge \\pi_{2}(f(r(x,0))) = \\pi_{2}(f(r(x,1))) \\\\ &\\leftrightarrow \\pi_{2}(f(r(x,0))) = \\pi_{2}(f(r(x,1))) \\ldots \\mbox{using (*)} \\\\ &\\leftrightarrow g(x,0) = g(x,1). \\end{align}",
+   "md_text": "\\begin{align} x \\in U &\\leftrightarrow f(r(x,0))=f(r(x,1)) \\ldots \\mbox{by (*)} \\\\ &\\leftrightarrow \\pi ⟦S⟧ (f(r(x,0))) = \\pi ⟦S⟧ (f(r(x,1))) \\wedge \\pi ⟦S⟧ (f(r(x,0))) = \\pi ⟦S⟧ (f(r(x,1))) \\\\ &\\leftrightarrow \\pi ⟦S⟧ (f(r(x,0))) = \\pi ⟦S⟧ (f(r(x,1))) \\ldots \\mbox{using ()} \\\\ &\\leftrightarrow g(x,0) = g(x,1). \\end{align}"
+  }
+ ],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Now suppose ⟦M⟧ to be partitioned into a (necessarily infinite) mutually disjoint set ⟦M⟧ of pairs. Take ⟦M⟧ to be the group of permutations of ⟦M⟧ which fix all the pairs in ⟦M⟧ . Then ⟦M⟧ ; it can now be shown that ⟦M⟧ contains no choice function on ⟦M⟧ . For suppose ⟦M⟧ were a choice function on ⟦M⟧ and ⟦M⟧ . Then ⟦M⟧ has a finite support which may be taken to be of the form ⟦M⟧ . Since ⟦M⟧ is infinite, we may select a pair ⟦M⟧ from ⟦M⟧ different from all the ⟦M⟧ . Now we define ⟦M⟧ so that ⟦",
+   "md_text": "Now suppose ⟦M⟧ to be partitioned into a (necessarily infinite) mutually disjoint set ⟦M⟧ of pairs. Take ⟦M⟧ to be the group of permutations of ⟦M⟧ which fix all the pairs in ⟦M⟧ . Then ⟦M⟧ ; it can now be shown that ⟦M⟧ contains no choice function on ⟦M⟧ . For suppose ⟦M⟧ were a choice function on ⟦M⟧ and ⟦M⟧ . Then ⟦M⟧ has a finite support which may be taken to be of the form ⟦M⟧ . Since ⟦M⟧ is infinite, we may select a pair ⟦M⟧ from ⟦M⟧ different from all the ⟦M⟧ . Now we define ⟦M⟧ so that ⟦"
+  },
+  {
+   "i": 4,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Imagine that with every subset ⟦M⟧ there is associated an arbitrary element ⟦M⟧ , that occurs in ⟦M⟧ itself; let ⟦M⟧ be called the “distinguished” element of ⟦M⟧ . This yields a “covering” ⟦M⟧ of the set ⟦M⟧ by certain elements of the set ⟦M⟧ . The number of these coverings is equal to the product [of the cardinalities of all the subsets ⟦M⟧ ] and is certainly different from 0.",
+   "md_text": "Imagine that with every subset ⟦M⟧ there is associated an arbitrary element ⟦M⟧ , that occurs in ⟦M⟧ itself; let ⟦M⟧ be called the “distinguished” element of ⟦M⟧ . This yields a “covering” ⟦M⟧ of the set ⟦M⟧ by certain elements of the set ⟦M⟧ . The number of these coverings is equal to the product [of the cardinalities of all the subsets ⟦M⟧ ] and is certainly different from 0."
+  },
+  {
+   "i": 76,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The Sikorski Extension Theorem for Boolean algebras (Sikorski 1949): every complete Boolean algebra is injective, i.e., for any Boolean algebra ⟦M⟧ and any complete Boolean algebra ⟦M⟧ , any homomorphism of a subalgebra of ⟦M⟧ into ⟦M⟧ can be extended to the whole of ⟦M⟧ .",
+   "md_text": "The Sikorski Extension Theorem for Boolean algebras (Sikorski 1949): every complete Boolean algebra is injective, i.e., for any Boolean algebra ⟦M⟧ and any complete Boolean algebra ⟦M⟧ , any homomorphism of a subalgebra of ⟦M⟧ into ⟦M⟧ can be extended to the whole of ⟦M⟧ ."
+  }
+ ],
+ "supplements": [
+  "choice-and-type-theory.html"
+ ],
+ "meta_title": "The Axiom of Choice",
+ "authors": [
+  "Bell, John L."
+ ]
+}

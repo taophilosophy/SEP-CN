@@ -1,0 +1,270 @@
+{
+ "slug": "wittgenstein-aesthetics",
+ "letter": "w",
+ "state": "ok",
+ "n_html": 80,
+ "n_md": 80,
+ "n_pairs": 58,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9992847947360892,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996351696461145,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995263806005494,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988444649872891,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993529602070528,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946380697050938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969088098918083,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998788319399007,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979536152796725,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997445721583652,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996401583303347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966555183946488,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996388587937883,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9876543209876543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h3"
+   ],
+   "shape_m": [
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.9997431946584489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992464204973625,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995525727069351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987787276562673,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "维特根斯坦的美学 aesthetics (Garry Hagberg)",
+  "zh_h1": "维特根斯坦的美学 aesthetics (Garry Hagberg)",
+  "yuanwen_h1": "Wittgenstein’s Aesthetics",
+  "html_title": "Wittgenstein’s Aesthetics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 18,
+  "p→p": 29,
+  "h3→h3": 10,
+  "blockquote→blockquote": 10,
+  "h3→∅": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×1(h3→h3)": 1,
+  "merged×3(p+h3+p→p+h3+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Regrettably, Wittgenstein closes this matter prematurely (somewhat implausibly claiming that this issue should not come in at this point); the linkage between rule-following in language and in aesthetics is still to this day too little investigated. Yet there is a sense in which Wittgenstein extends the discussion, if only implicitly. In investigating the kinds of things meant by aesthetic “appreciation”, he does say that “an appreciator is not shown by the interjections he uses” but rather by h",
+   "md_text": "Regrettably, Wittgenstein closes this matter prematurely (somewhat implausibly claiming that this issue should not come in at this point); the linkage between rule-following in language and in aesthetics is still to this day too little investigated. Yet there is a sense in which Wittgenstein extends the discussion, if only implicitly. In investigating the kinds of things meant by aesthetic “appreciation”, he does say that “an appreciator is not shown by the interjections he uses” but rather by h"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Wittgenstein’s Aesthetics",
+ "authors": [
+  "Hagberg, Garry"
+ ]
+}

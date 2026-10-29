@@ -1,0 +1,276 @@
+{
+ "slug": "xunzi",
+ "letter": "x",
+ "state": "ok",
+ "n_html": 79,
+ "n_md": 79,
+ "n_pairs": 15,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9967308390846349,
+   "n_h": 26,
+   "n_m": 26,
+   "shape_h": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978406909788867,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975896120052873,
+   "n_h": 14,
+   "n_m": 14,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "blockquote",
+    "h2",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "blockquote",
+    "h2",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998048399687744,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "h2"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9976844194508766,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934735315445975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950248756218906,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982251521298174,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9913232104121475,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "荀子 Xunzi (Paul R. Goldin)",
+  "zh_h1": "荀子 Xunzi (Paul R. Goldin)",
+  "yuanwen_h1": "Xunzi",
+  "html_title": "Xunzi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→∅": 45,
+  "h2→∅": 6,
+  "blockquote→∅": 12,
+  "p→p": 7,
+  "ul→∅": 1,
+  "merged×26(p+p+h2+p+p+p+p+p+blockquote+p+h2+p+p+blockquote+p+p+p+blockquote+p+p+p+p+blockquote+p+p+blockquote→p+p+h2+p+p+p+p+p+blockquote+p+h2+p+p+blockquote+p+p+p+blockquote+p+p+p+p+blockquote+p+p+blockquote)": 1,
+  "merged×6(p+h2+p+p+p+blockquote→p+h2+p+p+p+blockquote)": 1,
+  "merged×14(p+p+p+blockquote+p+p+h2+p+p+blockquote+h2+p+blockquote+p→p+p+p+blockquote+p+p+h2+p+p+blockquote+h2+p+blockquote+p)": 1,
+  "merged×5(blockquote+p+p+p+h2→blockquote+p+p+p+h2)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×5(blockquote+p+p+p+p→blockquote+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 62,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Xunzi’s conception of the heart-mind also figures in a distinctive congruence that he postulates between a kingdom and a human being. A kingdom possesses an initial set of features—it may be large or small, rich or poor, hilly or flat—but these are immaterial to its ultimate success or failure, for any territory, however small, provides enough of a base for a sage to conquer the world. Thus it is the management of the state, and not its natural resources, that determine whether it will become th",
+   "md_text": "Xunzi’s conception of the heart-mind also figures in a distinctive congruence that he postulates between a kingdom and a human being. A kingdom possesses an initial set of features—it may be large or small, rich or poor, hilly or flat—but these are immaterial to its ultimate success or failure, for any territory, however small, provides enough of a base for a sage to conquer the world. Thus it is the management of the state, and not its natural resources, that determine whether it will become th"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Xunzi",
+ "authors": [
+  "Goldin, Paul R."
+ ]
+}

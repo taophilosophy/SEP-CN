@@ -1,0 +1,176 @@
+{
+ "slug": "antiochus-ascalon",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 40,
+ "n_md": 40,
+ "n_pairs": 14,
+ "n_flags": 1,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9982384028185555,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985547234266193,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988808058198098,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997635548308194,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987346140572875,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980240704149452,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)",
+  "zh_h1": "阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)",
+  "yuanwen_h1": "Antiochus of Ascalon",
+  "html_title": "Antiochus of Ascalon",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 25,
+  "p→p": 5,
+  "blockquote→∅": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 39,
+   "j": 39,
+   "ratio": 0.9380530973451328,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Academy, Plato’s | Arcesilaus | Carneades | Cicero | ethics: ancient | Philo of Larissa | skepticism: ancient | Stoicism",
+   "md_text": "Academy, Plato’s Arcesilaus Carneades Cicero ethics: ancient Philo of Larissa skepticism: ancient Stoicism"
+  }
+ ],
+ "spot": [
+  {
+   "i": 30,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Epicureans maintained that infants are naturally impelled to pleasure, and that the goal for adult humans is a life of pleasure. The Stoics argued that our first natural impulses were not toward pleasure (and away from pain) but towards the “natural advantages,” things like health and strength, bodily integrity and well-functioning senses (and away from their opposites). But it was not because they thought these items were goods; they insisted that they are indifferent, though preferred. The",
+   "md_text": "The Epicureans maintained that infants are naturally impelled to pleasure, and that the goal for adult humans is a life of pleasure. The Stoics argued that our first natural impulses were not toward pleasure (and away from pain) but towards the “natural advantages,” things like health and strength, bodily integrity and well-functioning senses (and away from their opposites). But it was not because they thought these items were goods; they insisted that they are indifferent, though preferred. The"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Antiochus of Ascalon",
+ "authors": [
+  "Allen, James"
+ ]
+}

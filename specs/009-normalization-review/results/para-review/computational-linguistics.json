@@ -1,0 +1,1224 @@
+{
+ "slug": "computational-linguistics",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 385,
+ "n_md": 387,
+ "n_pairs": 209,
+ "n_flags": 9,
+ "n_merged": 80,
+ "merged": [
+  {
+   "ratio": 0.9996292176492398,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992833596101476,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995541685242978,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994393571295085,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979902383003159,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9721115537848606,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986522911051213,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963636363636363,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964580873671782,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9959514170040485,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996602106693849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949676491732566,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9922411882066061,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9962157048249763,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.958904109589041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9900914634146342,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9919850885368127,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988518943742825,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9922480620155039,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981024667931688,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991416309012876,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941012108040981,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973924380704041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993256911665542,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978463747307968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977001881664227,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940251572327043,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9956331877729258,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934337582078022,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988998899889989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988974641675854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998664562340658,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994450610432852,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989506820566632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989637305699481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986431478968792,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991117427607035,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983471074380166,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986541049798116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911347517730497,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987654320987654,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978809477942593,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994334277620397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988212180746562,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984538074990337,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993095512082854,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993610223642172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996996996996997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991841174870819,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994718536648203,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989173583543847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993906154783668,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991889699918897,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993149746540622,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986369831894594,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994447529150472,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988261851015802,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985802176999526,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992779783393502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99951992318771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990791190238661,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991802532106749,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988970081345651,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990300678952473,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993498049414824,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995676610462603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989388043862752,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993733026947984,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961432506887052,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980308120004633,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988501341510158,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992427684385885,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991771240485496,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991935483870967,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9951807228915662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9621212121212122,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "计算语言学 computational (Lenhart Schubert)",
+  "zh_h1": "计算语言学 computational (Lenhart Schubert)",
+  "yuanwen_h1": "Computational Linguistics",
+  "html_title": "Computational Linguistics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 13,
+  "h3→h3": 30,
+  "p→p": 120,
+  "p→∅": 144,
+  "blockquote→blockquote": 31,
+  "table→∅": 1,
+  "blockquote→∅": 29,
+  "h4→h4": 11,
+  "ul→ul": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→blockquote+p+p)": 1,
+  "merged×2(p+p→p+p)": 20,
+  "merged×3(table+p+blockquote→table+p+blockquote)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 4,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 3,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×1(p→p)": 30,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 4,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 2,
+  "merged×5(p+p+p+blockquote+p→p+p+p+blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×6(p+p+blockquote+p+blockquote+p→p+p+blockquote+p+blockquote+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+ul+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 31,
+   "j": 33,
+   "ratio": 0.19661016949152543,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Figure 1 : Syntactic analysis of a sentence as a parse tree",
+   "md_text": "![[a tree diagram: at the top, S[pres], a line connects the top node to first, NP[3 sing subj], which connects to, Name[3 sing subj], which connects to ‘Thetis’. A second line from the top node connects to VP[pres 3 sing] which in turn first connects to V[_np pres 3 sing] that connects to ‘loves’. Second it connects to NP[3 sing] that in turn connects to Def[3 sing] (and that to ‘a’) and N[3 sing] (and that to ‘mortal’).]](../assets/computational-linguistics/fig1.png) Figure 1: Syntactic analysis of a sentence as a parse tree"
+  },
+  {
+   "kind": "replace",
+   "i": 62,
+   "j": 64,
+   "ratio": 0.935064935064935,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "(∃ x [mortal( x ) ∧ loves( x )(Thetis)]).",
+   "md_text": "(∃x [mortal(x) ∧ loves(x)(Thetis)])."
+  },
+  {
+   "kind": "replace",
+   "i": 64,
+   "j": 66,
+   "ratio": 0.9473684210526315,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "seeks(λ Q ∃ x [unicorn( ⟦P⟧ x ) ∧ Q ( ⟦P⟧ x )]) ( ⟦P⟧ john),",
+   "md_text": "seeks(λQ ∃x[unicorn( ⟦P⟧ x) ∧ Q( ⟦P⟧ x)]) ( ⟦P⟧ john),"
+  },
+  {
+   "kind": "replace",
+   "i": 73,
+   "j": 75,
+   "ratio": 0.9333333333333333,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "a(poem)(λ y every(person)(λ x knows( y )( x ))),",
+   "md_text": "a(poem)(λy every(person)(λx knows(y)(x))),"
+  },
+  {
+   "kind": "replace",
+   "i": 85,
+   "j": 87,
+   "ratio": 0.14673913043478262,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Figure 2 : DRS for “If John owns a donkey, he beats it”",
+   "md_text": "![[a box with a horizontal line breaking it into two. The top half takes up about one-sixth of the space and is empty. The bottom half contains two other boxes side by side with a double right arrow connecting them. The left box is also divided in two parts horizontally; the top half has ‘x,y’; the bottom half has three lines containing ‘john(x)’, ‘donkey(y)’, and ‘owns(x,y)’ respectively. The right box is also divided in two parts horizontally; the top half has ‘u,v’; the bottom half has five lines containing ‘he(u)’, ‘it(u)’, ‘beats(u,v)’, ‘u=x’, and ‘v=y’ respectively.]](../assets/computational-linguistics/fig2.png) Figure 2: DRS for “If John owns a donkey, he beats it”"
+  },
+  {
+   "kind": "replace",
+   "i": 102,
+   "j": 104,
+   "ratio": 0.9389067524115756,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "(3.5′) bark(Molly, E ) ∧ last-night( E , S ) ∧ before( E , S ) ∧ duration( E )=minutes( N ) ∧ several( N ). cause-to-wake-up( E , Neighbors, E ′) ∧ before( E ′, S ).",
+   "md_text": "(3.5′) bark(Molly, E) ∧ last-night(E, S) ∧ before(E, S) ∧ duration(E)=minutes(N) ∧ several(N). cause-to-wake-up(E, Neighbors, E′) ∧ before(E′, S)."
+  },
+  {
+   "kind": "replace",
+   "i": 126,
+   "j": 128,
+   "ratio": 0.8656716417910447,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "∀ x ∀ t [ Holds ( member ( x , Humankind ), t ) ↔ Holds ( human ( x ), t )],",
+   "md_text": "∀x∀t[Holds(member(x, Humankind), t) ↔ Holds(human(x), t)],"
+  },
+  {
+   "kind": "replace",
+   "i": 142,
+   "j": 144,
+   "ratio": 0.010680907877169559,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Figure 3",
+   "md_text": "![[two trees, all parents connect to their nodes by solid arrowed lines unless otherwise indicated. The first, on the left, with a boxed parent of the word ‘plant’ and nodes of ‘plant1’ (which itself has nodes of ‘structure’ [connected by a line labeled ‘isa’], ‘living’ [connected by a line labeled ‘prop’], ‘animal’ [connected by a line labeled ‘-prop’], ‘with3’ [connected with a line labeled ‘prop’ and with a node ‘leaf’], ‘get2’ [connected with a line labeled ‘prop’ and also a reverse line labeled ‘subj’, it has two nodes, ‘food’ connected with a line labeled ‘obj’ and ‘from’, the latter also has nodes ‘air’, ‘earth’ and a dash boxed ‘water’ {the connection lines of these three nodes are also connected with a dashed arc labeled ‘or’}]), ‘plant2’ (which itself has a node of ‘apparatus’ co"
+  },
+  {
+   "kind": "replace",
+   "i": 169,
+   "j": 171,
+   "ratio": 0.1590909090909091,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Figure 4 : Semantic interpretation of the parse tree of Figure 1",
+   "md_text": "![[a tree. Parent is S-prime = NP-prime(VP) = ∃z[mortal(z) ∧ loves(z)(Thetis)]. First node is NP-prime = Name-prime = λPP(Thetis) with a node of Name-prime = λPP(Thetis) which has a node Thetis (in bold). Second node is VP-prime = λxNP-prime(λyV-prime(y)(x)) = λx(∃z[mortal(z) ∧ loves(z)(x)]) with first a node of V-prime = loves which has a node loves (in bold) and with second a node of NP-prime = Det-prime(N-prime) λQ(∃z[mortal(z) ∧ Q(z)]) which itself has a left node of Def-prime = λP λQ(∃z[P(z) ∧ Q(z)]) which has a node of a (in bold) and a right node of N-prime = mortal which has a node of mortal (in bold)]](../assets/computational-linguistics/fig4.png) Figure 4: Semantic interpretation of the parse tree of Figure 1"
+  }
+ ],
+ "spot": [
+  {
+   "i": 87,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "On the face of it, DRT is noncompositional (though DRS construction rules are systematically associated with phrase structure rules); but it can be recast in compositional form, still of course with a dynamic semantics. A closely related approach, dynamic predicate logic (DPL) retains the classical quantificational syntax, but in effect treats existential quantification as nondeterministic assignment, and provides an overtly compositional alternative to DRT (Groenendijk & Stokhof 1991). Perhaps ",
+   "md_text": "On the face of it, DRT is noncompositional (though DRS construction rules are systematically associated with phrase structure rules); but it can be recast in compositional form, still of course with a dynamic semantics. A closely related approach, dynamic predicate logic (DPL) retains the classical quantificational syntax, but in effect treats existential quantification as nondeterministic assignment, and provides an overtly compositional alternative to DRT (Groenendijk & Stokhof 1991) . Perhaps"
+  },
+  {
+   "i": 253,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The hearer (my dialogue partner) does not know whether a certain proposition X is true; the hearer wants to be told by me whether X is true; and I do in fact know whether X is true.",
+   "md_text": "The hearer (my dialogue partner) does not know whether a certain proposition X is true; the hearer wants to be told by me whether X is true; and I do in fact know whether X is true."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Computational Linguistics",
+ "authors": [
+  "Schubert, Lenhart"
+ ]
+}

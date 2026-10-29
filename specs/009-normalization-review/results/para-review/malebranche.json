@@ -1,0 +1,242 @@
+{
+ "slug": "malebranche",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 62,
+ "n_md": 62,
+ "n_pairs": 29,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9978766617429837,
+   "n_h": 12,
+   "n_m": 12,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99897575964493,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999687792694349,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998670465337132,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995285242809995,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992322456813819,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992069785884219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992135273299253,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989785495403473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990894190493534,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991620579855874,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994456762749445,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "尼古拉·马勒伯朗士 Malebranche, Nicolas (Tad Schmaltz)",
+  "zh_h1": "尼古拉·马勒伯朗士 Malebranche, Nicolas (Tad Schmaltz)",
+  "yuanwen_h1": "Nicolas Malebranche",
+  "html_title": "Nicolas Malebranche",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 17,
+  "p→∅": 32,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×12(p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 7,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 54,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Malebranche sometimes suggested that disordered love of bodily pleasure derives from self-love. Encouraged by this suggestion, one of his followers, the aforementioned François Lamy, claimed that his position leads to the quietist view in Fénélon that moral conduct requires a “pure love of God” that involves no concern for the self or its pleasure. This position, which Lamy himself endorsed, was later condemned by the Catholic Church, due in large part to a campaign against Fénélon directed by h",
+   "md_text": "Malebranche sometimes suggested that disordered love of bodily pleasure derives from self-love. Encouraged by this suggestion, one of his followers, the aforementioned François Lamy, claimed that his position leads to the quietist view in Fénélon that moral conduct requires a “pure love of God” that involves no concern for the self or its pleasure. This position, which Lamy himself endorsed, was later condemned by the Catholic Church, due in large part to a campaign against Fénélon directed by h"
+  },
+  {
+   "i": 59,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Great Voyages Catholic Encyclopedia",
+   "md_text": "Great Voyages Catholic Encyclopedia"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Nicolas Malebranche",
+ "authors": [
+  "Schmaltz, Tad"
+ ]
+}

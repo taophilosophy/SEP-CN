@@ -1,0 +1,175 @@
+{
+ "slug": "telesio",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 34,
+ "n_md": 34,
+ "n_pairs": 18,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9985283296541575,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993853718500307,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99897575964493,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968936678614098,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993067590987869,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989854582346973,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980059820538385,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957983193277311,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "贝尔纳迪诺·特勒肖 Telesio, Bernardino (Michaela Boenke)",
+  "zh_h1": "贝尔纳迪诺·特勒肖 Telesio, Bernardino (Michaela Boenke)",
+  "yuanwen_h1": "Bernardino Telesio",
+  "html_title": "Bernardino Telesio",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→∅": 14,
+  "p→p": 4,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 25,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Besides the natural soul or spirit Telesio accepted the existence of an immortal soul superimposed by God (DRN book V, ch. II–III). But in his theory of psychology and ethics the soul does not play any significant role, for which reason researchers have often held it to be an addition designed to avoid conflicts with the Church. On the other hand, there do exist certain modes of behavior which cannot be explained in a purely naturalistic and materialistic way, such as the human striving for eter",
+   "md_text": "Besides the natural soul or spirit Telesio accepted the existence of an immortal soul superimposed by God (DRN book V, ch. II–III). But in his theory of psychology and ethics the soul does not play any significant role, for which reason researchers have often held it to be an addition designed to avoid conflicts with the Church. On the other hand, there do exist certain modes of behavior which cannot be explained in a purely naturalistic and materialistic way, such as the human striving for eter"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Bernardino Telesio",
+ "authors": [
+  "Boenke, Michaela"
+ ]
+}

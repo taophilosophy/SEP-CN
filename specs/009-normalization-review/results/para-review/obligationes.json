@@ -1,0 +1,374 @@
+{
+ "slug": "obligationes",
+ "letter": "o",
+ "state": "ok",
+ "n_html": 72,
+ "n_md": 94,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.9995824634655532,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968337730870712,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954769736842105,
+   "n_h": 8,
+   "n_m": 19,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998997995991984,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984995225753649,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994391475042064,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970972423802612,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990740740740741,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987349778621126,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994093325457767,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987029831387808,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971401334604385,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993324432576769,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982486865148862,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992520568436799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998776758409786,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994926433282597,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9921259842519685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9960159362549801,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中世纪的义务理论 obligationes, medieval theories of (Mikko Yrjönsuuri)",
+  "zh_h1": "中世纪的义务理论 obligationes, medieval theories of (Mikko Yrjönsuuri)",
+  "yuanwen_h1": "Medieval Theories of *Obligationes*",
+  "html_title": "Medieval Theories of Obligationes",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 33,
+  "p→p": 20,
+  "dl→∅": 4,
+  "ol→ol": 1,
+  "figure→∅": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×8(p+p+dl+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 1,
+  "merged×3(figure+p+p→table+p+p+p)": 1,
+  "merged×2(p+figure→p+table+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 49,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "An anonymous treatise De arte obligatoria probably from the 1330s (edited and translated from a Merton College manuscript in Kretzmann & Stump 1985) seems to develop a central aspect of Kilvington’s suggestion into a complete set of rules for obligational disputations. Just like Kilvington, the anonymous author thought that in an obligational disputation the order of the propositions ought not influence the answers. The core change to Burley’s rules is that rules 5. and 6. above are revised so t",
+   "md_text": "An anonymous treatise De arte obligatoria probably from the 1330s (edited and translated from a Merton College manuscript in Kretzmann & Stump 1985) seems to develop a central aspect of Kilvington’s suggestion into a complete set of rules for obligational disputations. Just like Kilvington, the anonymous author thought that in an obligational disputation the order of the propositions ought not influence the answers. The core change to Burley’s rules is that rules 5. and 6. above are revised so t"
+  },
+  {
+   "i": 17,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Both are dialectical encounters constituted by one party putting forward propositions and the other evaluating them. Both are taken to proceed in a form that is logical, although in the case of Plato the term ‘logical’ needs to be taken with caution for anachronism.",
+   "md_text": "Both are dialectical encounters constituted by one party putting forward propositions and the other evaluating them. Both are taken to proceed in a form that is logical, although in the case of Plato the term ‘logical’ needs to be taken with caution for anachronism."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Medieval Theories of Obligationes",
+ "authors": [
+  "Yrjönsuuri, Mikko"
+ ]
+}

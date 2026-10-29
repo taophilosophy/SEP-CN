@@ -1,0 +1,146 @@
+{
+ "slug": "logic-hybrid",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 93,
+ "n_md": 93,
+ "n_pairs": 85,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9985185185185185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989658738366081,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998109640831758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992313604919293,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985835694050992,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997098926602843,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "混合逻辑 hybrid (Torben Braüner)",
+  "zh_h1": "混合逻辑 hybrid (Torben Braüner)",
+  "yuanwen_h1": "Hybrid Logic",
+  "html_title": "Hybrid Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 56,
+  "blockquote→blockquote": 10,
+  "p→∅": 6,
+  "p→mathblock": 6,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 73,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Tableau, Gentzen, and natural deduction style proof-theory for hybrid logic work very well compared to ordinary modal logic. Usually, when a modal tableau, Gentzen, or natural deduction system is given, it is for one particular modal logic and it has turned out to be problematic to formulate such systems for modal logics in a uniform way without introducing metalinguistic machinery. This can be remedied by hybridization, that is, hybridization of modal logics enables the formulation of uniform t",
+   "md_text": "Tableau, Gentzen, and natural deduction style proof-theory for hybrid logic work very well compared to ordinary modal logic. Usually, when a modal tableau, Gentzen, or natural deduction system is given, it is for one particular modal logic and it has turned out to be problematic to formulate such systems for modal logics in a uniform way without introducing metalinguistic machinery. This can be remedied by hybridization, that is, hybridization of modal logics enables the formulation of uniform t"
+  },
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A major motivation for hybrid logic is to add further expressive power to ordinary modal logic with the aim of being able to formalize the second kind of statements. This is obtained by adding to ordinary modal logic a second sort of propositional symbols called nominals such that in the Kripke semantics each nominal is true relative to exactly one point. A natural language statement of the second kind (like the example statement with the time five o’clock 15 November 2021) is then formalized us",
+   "md_text": "A major motivation for hybrid logic is to add further expressive power to ordinary modal logic with the aim of being able to formalize the second kind of statements. This is obtained by adding to ordinary modal logic a second sort of propositional symbols called nominals such that in the Kripke semantics each nominal is true relative to exactly one point. A natural language statement of the second kind (like the example statement with the time five o’clock 15 November 2021) is then formalized us"
+  },
+  {
+   "i": 90,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "A.N. Prior—The Founding Father of Temporal Logic",
+   "md_text": "A.N. Prior—The Founding Father of Temporal Logic"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Hybrid Logic",
+ "authors": [
+  "Braüner, Torben"
+ ]
+}

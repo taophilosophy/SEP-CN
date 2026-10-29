@@ -1,0 +1,142 @@
+{
+ "slug": "loyalty",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 83,
+ "n_md": 83,
+ "n_pairs": 74,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.998911860718172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998805256869773,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992732558139535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951272333513806,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983766233766234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990049751243781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9961977186311787,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "忠诚 loyalty (John Kleinig)",
+  "zh_h1": "忠诚 loyalty (John Kleinig)",
+  "yuanwen_h1": "Loyalty",
+  "html_title": "Loyalty",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "h3→h3": 10,
+  "p→p": 53,
+  "p→∅": 7,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Historically, most of the detailed engagement with loyalty has come from creative writers (Aeschylus, 2003; Galsworthy, 1922; Conrad, 1899, 1907, 1913), business and marketing scholars (Goman, 1990; Jacoby & Chestnut, 1978), psychologists (Zdaniuk & Levine, 2001), psychiatrists (Böszörményi-Nagy, 1973), sociologists (Connor, 2007), scholars of religion (Sakenfeld, 1985; Spiegel, 1965), political economists (Hirschman, 1970, 1974), and—pre-eminently—political theorists who have taken a particular",
+   "md_text": "Historically, most of the detailed engagement with loyalty has come from creative writers (Aeschylus, 2003; Galsworthy, 1922; Conrad, 1899, 1907, 1913), business and marketing scholars (Goman, 1990; Jacoby & Chestnut, 1978), psychologists (Zdaniuk & Levine, 2001), psychiatrists (Böszörményi-Nagy, 1973), sociologists (Connor, 2007), scholars of religion (Sakenfeld, 1985; Spiegel, 1965), political economists (Hirschman, 1970, 1974), and—pre-eminently—political theorists who have taken a particular"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Loyalty",
+ "authors": [
+  "Kleinig, John"
+ ]
+}

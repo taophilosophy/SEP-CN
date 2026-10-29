@@ -1,0 +1,374 @@
+{
+ "slug": "ibn-gabirol",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 94,
+ "n_md": 94,
+ "n_pairs": 44,
+ "n_flags": 0,
+ "n_merged": 23,
+ "merged": [
+  {
+   "ratio": 0.9996244836650394,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944498282089683,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998390989541432,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950544015825915,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946679592825982,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975247524752475,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984301412872841,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9922077922077922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978952907129702,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960702727693019,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976470588235294,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945235487404163,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963811821471653,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981249098514352,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997073456248171,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973004242190513,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958548175108685,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983266398929049,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998280309544282,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959258772506243,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.990909090909091,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9886792452830189,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "所罗门·伊本·盖比鲁勒 Ibn Gabirol, Solomon [Avicebron] (Sarah Pessin)",
+  "zh_h1": "所罗门·伊本·盖比鲁勒 Ibn Gabirol, Solomon [Avicebron] (Sarah Pessin)",
+  "yuanwen_h1": "Solomon Ibn Gabirol [Avicebron]",
+  "html_title": "Solomon Ibn Gabirol [Avicebron]",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 40,
+  "p→p": 22,
+  "h3→h3": 9,
+  "blockquote→∅": 8,
+  "table→table": 1,
+  "blockquote→blockquote": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×6(p+blockquote+p+p+p+blockquote→p+blockquote+p+p+p+blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 69,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One way to think of Ibn Gabirol's hylomorphic levels of reality (although Ibn Gabirol does not himself theorize it in this way overtly) is in terms of his Neoplatonizing the Platonic notion of participation. For Plato, participation is in a form, and a highest form—participated in by all—is the form of being. For the Neoplatonist, as for Ibn Gabirol, the focus on the form is replaced (or amplified) by the focus on the Universal Intellect that contains all forms (simultaneously, in potency, as on",
+   "md_text": "One way to think of Ibn Gabirol's hylomorphic levels of reality (although Ibn Gabirol does not himself theorize it in this way overtly) is in terms of his Neoplatonizing the Platonic notion of participation. For Plato, participation is in a form, and a highest form—participated in by all—is the form of being. For the Neoplatonist, as for Ibn Gabirol, the focus on the form is replaced (or amplified) by the focus on the Universal Intellect that contains all forms (simultaneously, in potency, as on"
+  },
+  {
+   "i": 50,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Standard Neoplatonic talk of the “first reality” after God Gabirolean Neoplatonic talk of the “first realities” after God 1. One/God 1. God 2. Intellect 2–4. Pure Matter, Pure Form, Will/Wisdom/Word [leaving undecided the relationship between all of these and the relationship between all of these and God] 5. Intellect",
+   "md_text": "Standard Neoplatonic talk of the “first reality” after God Gabirolean Neoplatonic talk of the “first realities” after God 1. One/God 1. God 2. Intellect 2–4. Pure Matter, Pure Form, Will/Wisdom/Word [leaving undecided the relationship between all of these and the relationship between all of these and God] 5. Intellect"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Solomon Ibn Gabirol [Avicebron]",
+ "authors": [
+  "Pessin, Sarah"
+ ]
+}

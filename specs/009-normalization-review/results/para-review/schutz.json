@@ -1,0 +1,208 @@
+{
+ "slug": "schutz",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 51,
+ "n_md": 51,
+ "n_pairs": 32,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.999423520368947,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990305380513815,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994717379820391,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996383363471971,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995956328346138,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997701677775224,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989909182643795,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997493106041614,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996359665089188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995627459554001,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977838612957893,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957446808510638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿尔弗雷德·舒茨 Schutz, Alfred (Michael Barber)",
+  "zh_h1": "阿尔弗雷德·舒茨 Schutz, Alfred (Michael Barber)",
+  "yuanwen_h1": "Alfred Schutz",
+  "html_title": "Alfred Schutz",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 18,
+  "p→∅": 17,
+  "h3→h3": 5,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In “Concept and Theory Formation in the Social Sciences,” Schutz addressed the broader issue of the relationship between philosophy and the social sciences in general. In that essay, Schutz responded to Ernest Nagel’s positivistic view that the social sciences should make use of natural scientific methods, identifying evidence with sensory observable data and criticizing the Weberian method of “understanding” as appealing to uncontrollable and unverifiable introspection. Schutz agreed with Nagel",
+   "md_text": "In “Concept and Theory Formation in the Social Sciences,” Schutz addressed the broader issue of the relationship between philosophy and the social sciences in general. In that essay, Schutz responded to Ernest Nagel’s positivistic view that the social sciences should make use of natural scientific methods, identifying evidence with sensory observable data and criticizing the Weberian method of “understanding” as appealing to uncontrollable and unverifiable introspection. Schutz agreed with Nagel"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Alfred Schutz",
+ "authors": [
+  "Barber, Michael"
+ ]
+}

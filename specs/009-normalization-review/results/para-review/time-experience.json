@@ -1,0 +1,220 @@
+{
+ "slug": "time-experience",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 58,
+ "n_md": 59,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996999699969997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992401215805471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997198094704399,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995066600888012,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992716678805535,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970501474926253,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9995622355172917,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993688196928255,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992579767499382,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992057188244639,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989071038251366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "对时间的体验和知觉 the experience and perception of (Robin Le Poidevin)",
+  "zh_h1": "对时间的体验和知觉 the experience and perception of (Robin Le Poidevin)",
+  "yuanwen_h1": "The Experience and Perception of Time",
+  "html_title": "The Experience and Perception of Time",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 14,
+  "p→p": 25,
+  "ol→ol": 1,
+  "table→∅": 1,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×1(table→table)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 41,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The third and final metaphysical issue that we will discuss in the context of time perception concerns causal asymmetry. The account of our sense of being located at a time which we considered under Past, present and the passage of time rested on the assumption that causation is asymmetric. Later events, it was suggested, cannot affect earlier ones, as a matter of mind-independent fact, and this is why we do not perceive the future, only the past. But attempts to explain the basis of causal asym",
+   "md_text": "The third and final metaphysical issue that we will discuss in the context of time perception concerns causal asymmetry. The account of our sense of being located at a time which we considered under Past, present and the passage of time rested on the assumption that causation is asymmetric. Later events, it was suggested, cannot affect earlier ones, as a matter of mind-independent fact, and this is why we do not perceive the future, only the past. But attempts to explain the basis of causal asym"
+  },
+  {
+   "i": 14,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "the span of short-term memory; the duration which is perceived, not as duration, but as instantaneous; the duration which is directly perceived — i.e. not through the intermediary of a number of other, perhaps instantaneous, perceptions; the duration which is perceived both as present and as extended in time.",
+   "md_text": "the span of short-term memory; the duration which is perceived, not as duration, but as instantaneous; the duration which is directly perceived — i.e. not through the intermediary of a number of other, perhaps instantaneous, perceptions; the duration which is perceived both as present and as extended in time."
+  }
+ ],
+ "supplements": [],
+ "meta_title": null,
+ "authors": []
+}

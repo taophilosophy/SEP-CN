@@ -1,0 +1,199 @@
+{
+ "slug": "decision-causal",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 157,
+ "n_md": 163,
+ "n_pairs": 146,
+ "n_flags": 3,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9619109102646869,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991356957649092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9860627177700348,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996044588277598,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999345977763244,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9952830188679245,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.966804979253112,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "因果决策理论 causal (Paul Weirich)",
+  "zh_h1": "因果决策理论 causal (Paul Weirich)",
+  "yuanwen_h1": "Causal Decision Theory",
+  "html_title": "Causal Decision Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 104,
+  "p→mathblock": 20,
+  "h3→h3": 12,
+  "figure→∅": 2,
+  "p→∅": 6,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(figure+p→p+table+p+p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 74,
+   "j": 78,
+   "ratio": 0.13533834586466165,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Right prediction Wrong prediction Take only one box ⟦M⟧ $0 Take two boxes ⟦M⟧ ⟦M⟧ Figure 2. New States for Newcomb’s Problem",
+   "md_text": "Figure 2."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 79,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Right prediction Wrong prediction Take only one box ⟦M⟧ 1{,}000{,}000 ⟦M⟧ 0 Take two boxes ⟦M⟧ 1{,}000 ⟦M⟧ \\ ⟦M⟧"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 80,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2. New States for Newcomb’s Problem"
+  }
+ ],
+ "spot": [
+  {
+   "i": 60,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Price (2012) proposes a blend of evidential and causal decision theory and motivates it with an analysis of cases in which an agent has foreknowledge of an event occurring by chance. Causal decision theory on its own accommodates such cases, argue Bales (2016) and Gallow (2024b). Ahmed (2014a) champions evidential decision theory and advances several objections to causal decision theory. His objections assume some controversial points about rational choice, including a controversial principle fo",
+   "md_text": "Price (2012) proposes a blend of evidential and causal decision theory and motivates it with an analysis of cases in which an agent has foreknowledge of an event occurring by chance. Causal decision theory on its own accommodates such cases, argue Bales (2016) and Gallow (2024b). Ahmed (2014a) champions evidential decision theory and advances several objections to causal decision theory. His objections assume some controversial points about rational choice, including a controversial principle fo"
+  },
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Causal Decision Theory",
+ "authors": [
+  "Weirich, Paul"
+ ]
+}

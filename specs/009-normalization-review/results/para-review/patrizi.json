@@ -1,0 +1,154 @@
+{
+ "slug": "patrizi",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 40,
+ "n_md": 40,
+ "n_pairs": 21,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9983982915109451,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980861244019139,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983651226158038,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994540491355778,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991015274034142,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9938271604938271,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "弗朗切斯科·帕特里齐 Patrizi, Francesco (Fred Purnell)",
+  "zh_h1": "弗朗切斯科·帕特里齐 Patrizi, Francesco (Fred Purnell)",
+  "yuanwen_h1": "Francesco Patrizi",
+  "html_title": "Francesco Patrizi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 17,
+  "p→p": 11,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Shortly before being called to Rome by Pope Clement VIII to teach Platonic philosophy at the University of Rome, the Sapienza, Patrizi published the first edition of his philosophical masterpiece, the Nova de universis philosophia (Ferrara, 1591; an edition with significant variants was printed at Venice with a spurious retrodating of 1593). In sum, it brings together many of the major themes that had dominated his philosophical career: the opposition to Aristotle and the Peripatetic philosophic",
+   "md_text": "Shortly before being called to Rome by Pope Clement VIII to teach Platonic philosophy at the University of Rome, the Sapienza, Patrizi published the first edition of his philosophical masterpiece, the Nova de universis philosophia (Ferrara, 1591; an edition with significant variants was printed at Venice with a spurious retrodating of 1593). In sum, it brings together many of the major themes that had dominated his philosophical career: the opposition to Aristotle and the Peripatetic philosophic"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Francesco Patrizi",
+ "authors": [
+  "Purnell, Fred"
+ ]
+}

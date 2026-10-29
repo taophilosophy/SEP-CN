@@ -1,0 +1,220 @@
+{
+ "slug": "epicurus",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 42,
+ "n_md": 42,
+ "n_pairs": 17,
+ "n_flags": 1,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9985383678440926,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986072423398329,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992762364294331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995812395309883,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990807978674511,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987121699935608,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982779176049807,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996695671329442,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990353697749196,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998758997269794,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9919137466307277,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "伊壁鸠鲁 Epicurus (David Konstan)",
+  "zh_h1": "伊壁鸠鲁 Epicurus (David Konstan)",
+  "yuanwen_h1": "Epicurus",
+  "html_title": "Epicurus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 23,
+  "p→p": 6,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 4,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 41,
+   "j": 41,
+   "ratio": 0.9379310344827586,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aristotle | atomism: ancient | continuity and infinitesimals | contractarianism | Cyrenaics | Democritus | friendship | hedonism | Lucretius | physicalism",
+   "md_text": "Aristotle atomism: ancient continuity and infinitesimals contractarianism Cyrenaics Democritus friendship hedonism Lucretius physicalism"
+  }
+ ],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "The philosophy of Epicurus (341–270 B.C.E.) was a complete and interdependent system, involving a view of the goal of human life (happiness, resulting from absence of physical pain and mental disturbance), an empiricist theory of knowledge (sensations, together with the perception of pleasure and pain, are infallible criteria), a description of nature based on atomistic materialism, and a naturalistic account of evolution, from the formation of the world to the emergence of human societies. Epic",
+   "md_text": "The philosophy of Epicurus (341–270 B.C.E.) was a complete and interdependent system, involving a view of the goal of human life (happiness, resulting from absence of physical pain and mental disturbance), an empiricist theory of knowledge (sensations, together with the perception of pleasure and pain, are infallible criteria), a description of nature based on atomistic materialism, and a naturalistic account of evolution, from the formation of the world to the emergence of human societies. Epic"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Epicurus",
+ "authors": [
+  "Konstan, David"
+ ]
+}

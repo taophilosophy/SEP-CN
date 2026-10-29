@@ -1,0 +1,284 @@
+{
+ "slug": "phenomenology",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 104,
+ "n_md": 105,
+ "n_pairs": 79,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99637943519189,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942028985507246,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992372234935164,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991546914623838,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991079393398751,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964396973742768,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985935302390999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988545246277205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986868023637557,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993943064809206,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983722192078134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981926155435064,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9919137466307277,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981208053691275,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993792675356921,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996946564885496,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9929078014184397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "现象学 phenomenology (David Woodruff Smith)",
+  "zh_h1": "现象学 phenomenology (David Woodruff Smith)",
+  "yuanwen_h1": "Phenomenology",
+  "html_title": "Phenomenology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 65,
+  "p→∅": 21,
+  "ul→ul": 2,
+  "blockquote→∅": 2,
+  "ol→ol": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 11,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 43,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In his Logical Investigations (1900–01) Husserl outlined a complex system of philosophy, moving from logic to philosophy of language, to ontology (theory of universals and parts of wholes), to a phenomenological theory of intentionality, and finally to a phenomenological theory of knowledge. Then in Ideas I (1913) he focused squarely on phenomenology itself. Husserl defined phenomenology as “the science of the essence of consciousness”, centered on the defining trait of intentionality, approache",
+   "md_text": "In his Logical Investigations (1900–01) Husserl outlined a complex system of philosophy, moving from logic to philosophy of language, to ontology (theory of universals and parts of wholes), to a phenomenological theory of intentionality, and finally to a phenomenological theory of knowledge. Then in Ideas I (1913) he focused squarely on phenomenology itself. Husserl defined phenomenology as “the science of the essence of consciousness”, centered on the defining trait of intentionality, approache"
+  },
+  {
+   "i": 22,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "I see that fishing boat off the coast as dusk descends over the Pacific. I hear that helicopter whirring overhead as it approaches the hospital. I am thinking that phenomenology differs from psychology. I wish that warm rain from Mexico were falling like last week. I imagine a fearsome creature like that in my nightmare. I intend to finish my writing by noon. I walk carefully around the broken glass on the sidewalk. I stroke a backhand cross-court with that certain underspin. I am searching for ",
+   "md_text": "I see that fishing boat off the coast as dusk descends over the Pacific. I hear that helicopter whirring overhead as it approaches the hospital. I am thinking that phenomenology differs from psychology. I wish that warm rain from Mexico were falling like last week. I imagine a fearsome creature like that in my nightmare. I intend to finish my writing by noon. I walk carefully around the broken glass on the sidewalk. I stroke a backhand cross-court with that certain underspin. I am searching for "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Phenomenology",
+ "authors": [
+  "Smith, David Woodruff"
+ ]
+}

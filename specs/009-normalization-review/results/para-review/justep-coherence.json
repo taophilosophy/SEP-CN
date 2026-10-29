@@ -1,0 +1,300 @@
+{
+ "slug": "justep-coherence",
+ "letter": "j",
+ "state": "ok",
+ "n_html": 119,
+ "n_md": 132,
+ "n_pairs": 94,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9995114802149487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993416721527321,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999137187230371,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995903318312167,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995027349577325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994562262098967,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998256320836966,
+   "n_h": 2,
+   "n_m": 15,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999546485260771,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992892679459844,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962264150943396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99953509995351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988518943742825,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997138769670959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995114802149487,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999537251272559,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993418887792037,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931350114416476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "知识证成的融贯论 coherentist theories of (Erik Olsson)",
+  "zh_h1": "知识证成的融贯论 coherentist theories of (Erik Olsson)",
+  "yuanwen_h1": "Coherentist Theories of Epistemic Justification",
+  "html_title": "Coherentist Theories of Epistemic Justification",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "p→p": 65,
+  "p→∅": 21,
+  "ul→ul": 1,
+  "table→table": 3,
+  "ol→ol": 1,
+  "dl→∅": 1,
+  "blockquote→blockquote": 1,
+  "p→mathblock": 9,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 4,
+  "merged×2(dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 75,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A further much discussed measure is that proposed in Fitelson (2003). It is based on the intuition that the degree of coherence of a set ⟦M⟧ should be “a quantitative, probabilistic generalization of the (deductive) logical coherence of ⟦M⟧ ” (ibid., 194). Fitelson takes it to be a consequence of this idea that a maximum (constant) degree of coherence is attained if the propositions in ⟦M⟧ are all logically equivalent (and consistent). This is in accordance with ⟦M⟧ but not with ⟦M⟧ , which as w",
+   "md_text": "A further much discussed measure is that proposed in Fitelson (2003). It is based on the intuition that the degree of coherence of a set ⟦M⟧ should be “a quantitative, probabilistic generalization of the (deductive) logical coherence of ⟦M⟧ ” (ibid., 194). Fitelson takes it to be a consequence of this idea that a maximum (constant) degree of coherence is attained if the propositions in ⟦M⟧ are all logically equivalent (and consistent). This is in accordance with ⟦M⟧ but not with ⟦M⟧ , which as w"
+  },
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "What is the coherentist’s response to the regress? The coherentist might be thought to propose that nothing prevents the regress from proceeding in a circle. Thus, ⟦M⟧ can be a reason for ⟦M⟧ which is a reason for ⟦M⟧ which is a reason for ⟦M⟧ . If this is acceptable, then what we have is a chain of reasons that is never-ending but which does not involve an infinite number of beliefs. It is never-ending in the sense that for each belief in the chain there is a reason for that belief also in the ",
+   "md_text": "What is the coherentist’s response to the regress? The coherentist might be thought to propose that nothing prevents the regress from proceeding in a circle. Thus, ⟦M⟧ can be a reason for ⟦M⟧ which is a reason for ⟦M⟧ which is a reason for ⟦M⟧ . If this is acceptable, then what we have is a chain of reasons that is never-ending but which does not involve an infinite number of beliefs. It is never-ending in the sense that for each belief in the chain there is a reason for that belief also in the "
+  },
+  {
+   "i": 11,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "How can a regress of justification be avoided? How can we gain knowledge given that our information sources (senses, testimony etc) are not reliable? How can we know anything at all given that we do not even know whether our own beliefs or memories are reliable? Given a set of beliefs and a new piece of information (typically an observation), when is a person justified in accepting that information? What should a person believe if confronted with a possibly inconsistent set of data?",
+   "md_text": "How can a regress of justification be avoided? How can we gain knowledge given that our information sources (senses, testimony etc) are not reliable? How can we know anything at all given that we do not even know whether our own beliefs or memories are reliable? Given a set of beliefs and a new piece of information (typically an observation), when is a person justified in accepting that information? What should a person believe if confronted with a possibly inconsistent set of data?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Coherentist Theories of Epistemic Justification",
+ "authors": [
+  "Olsson, Erik"
+ ]
+}

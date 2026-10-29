@@ -1,0 +1,379 @@
+{
+ "slug": "information-entropy",
+ "letter": "i",
+ "state": "flagged",
+ "n_html": 181,
+ "n_md": 181,
+ "n_pairs": 132,
+ "n_flags": 4,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 0.999128160418483,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993399339933994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969666329625885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993211133740665,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9542743538767395,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9522373051784816,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9692144373673036,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9797344514325647,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964476021314387,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966024915062288,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9900008848774444,
+   "n_h": 13,
+   "n_m": 13,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995359628770302,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997920997920998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995213020584012,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963369963369964,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99581589958159,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995739241585002,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995100440960314,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994169096209913,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9962168978562421,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "信息加工与热力学熵 and thermodynamic entropy (Owen Maroney)",
+  "zh_h1": "信息加工与热力学熵 and thermodynamic entropy (Owen Maroney)",
+  "yuanwen_h1": "Information Processing and Thermodynamic Entropy",
+  "html_title": "Information Processing and Thermodynamic Entropy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "h3→h3": 16,
+  "p→p": 101,
+  "p→∅": 32,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 16,
+  "ul→∅": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×5(p+p+blockquote+p+blockquote→p+p+blockquote+p+blockquote)": 1,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×13(p+p+p+blockquote+p+p+blockquote+p+blockquote+p+blockquote+p+p→p+p+p+blockquote+p+p+blockquote+p+blockquote+p+blockquote+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 49,
+   "j": 49,
+   "ratio": 0.639344262295082,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "∑ ⟦S⟧ Q ⟦S⟧ T ⟦S⟧ ≥ ∑ ⟦S⟧ q ⟦S⟧ T ⟦S⟧ .",
+   "md_text": "∑ ⟦S⟧ （嵌套表：| Q ⟦S⟧ | | --- | | T ⟦S⟧ |） ≥ ∑ ⟦S⟧ （嵌套表：| q ⟦S⟧ | | --- | | T ⟦S⟧ |） ."
+  },
+  {
+   "kind": "replace",
+   "i": 51,
+   "j": 51,
+   "ratio": 0.6071428571428571,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "∑ ⟦S⟧ q ⟦S⟧ T ⟦S⟧",
+   "md_text": "∑ ⟦S⟧ （嵌套表：| q ⟦S⟧ | | --- | | T ⟦S⟧ |）"
+  },
+  {
+   "kind": "replace",
+   "i": 53,
+   "j": 53,
+   "ratio": 0.7592592592592593,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "S ⟦S⟧ ( A ) − S ⟦S⟧ ( B ) = ∑ ⟦S⟧ q ⟦S⟧ T ⟦S⟧",
+   "md_text": "S ⟦S⟧ (A) − S ⟦S⟧ (B) = ∑ ⟦S⟧ （嵌套表：| q ⟦S⟧ | | --- | | T ⟦S⟧ |）"
+  },
+  {
+   "kind": "replace",
+   "i": 55,
+   "j": 55,
+   "ratio": 0.6271186440677966,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "∑ ⟦S⟧ Q ⟦S⟧ T ⟦S⟧ ≥ ∑ ⟦S⟧ q ⟦S⟧ T ⟦S⟧",
+   "md_text": "∑ ⟦S⟧ （嵌套表：| Q ⟦S⟧ | | --- | | T ⟦S⟧ |） ≥ ∑ ⟦S⟧ （嵌套表：| q ⟦S⟧ | | --- | | T ⟦S⟧ |）"
+  }
+ ],
+ "spot": [
+  {
+   "i": 152,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Recent criticisms (Shenker 2000 [in Other Internet Resources], Norton 2005) focussed upon whether heat generation must necessarily be associated with logically irreversible operations. A particular objection raised by Shenker and a similar objection by Norton, concerned the use of probability distributions over macroscopically distinct states. Both Shenker and Norton argued that the thermodynamic entropy of a system is only properly defined by considering the region of state space accessible to ",
+   "md_text": "Recent criticisms (Shenker 2000 [in Other Internet Resources], Norton 2005) focussed upon whether heat generation must necessarily be associated with logically irreversible operations. A particular objection raised by Shenker and a similar objection by Norton, concerned the use of probability distributions over macroscopically distinct states. Both Shenker and Norton argued that the thermodynamic entropy of a system is only properly defined by considering the region of state space accessible to "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Information Processing and Thermodynamic Entropy",
+ "authors": [
+  "Maroney, Owen"
+ ]
+}

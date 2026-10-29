@@ -1,0 +1,424 @@
+{
+ "slug": "syrianus",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 104,
+ "n_md": 104,
+ "n_pairs": 44,
+ "n_flags": 0,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9907312049433573,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967707212055974,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983423124740987,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964071856287425,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982101764254666,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973614775725593,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9983179142136249,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990917347865577,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949558638083228,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972795647303568,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979818365287588,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989440337909187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985326485693323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957725351152326,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978277625954733,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996391194514616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985332280266276,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997556804300024,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989281886387996,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989615784008308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984910541064884,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.999140154772141,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993011879804332,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983564216952336,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9830508474576272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "西里阿努斯 Syrianus (Roberto Granieri and Christian Wildberg)",
+  "zh_h1": "西里阿努斯 Syrianus (Roberto Granieri and Christian Wildberg)",
+  "yuanwen_h1": "Syrianus",
+  "html_title": "Syrianus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 8,
+  "h4→h4": 11,
+  "p→∅": 51,
+  "blockquote→∅": 3,
+  "p→p": 13,
+  "ul→∅": 4,
+  "ul→ul": 3,
+  "ol→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×6(p+p+p+p+blockquote+p→p+p+p+p+blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×8(p+ul+p+p+p+p+p+p→p+ul+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(ul→ul)": 3,
+  "merged×1(p→p)": 8,
+  "merged×7(p+p+p+blockquote+p+p+p→p+p+p+blockquote+p+p+p)": 1,
+  "merged×3(ol+p+p→ol+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 59,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For Syrianus the second part of the Parmenides consists of nine hypotheses (cf. Proclus, in Prm. VI 1052.15–31 [on the meaning of “hypothesis”], 1053.16–8, 1061.20–1064.12, pp. 22–24, 35–9 L.-S.), a view shared by most Neoplatonists (cf. Saffrey-Westerink 1968: LXXV–LXXXIX; Luna-Segonds 2017: XII–XXIV; exceptions include Amelius, who counted eight, and “the philosopher of Rhodes” (identified by Saffrey 1984b, 1994 with Theodorus of Asine, but cf. Luna-Segonds 2017: 220–25) who counted ten, cf. P",
+   "md_text": "For Syrianus the second part of the Parmenides consists of nine hypotheses (cf. Proclus, in Prm. VI 1052.15–31 [on the meaning of “hypothesis”], 1053.16–8, 1061.20–1064.12, pp. 22–24, 35–9 L.-S.), a view shared by most Neoplatonists (cf. Saffrey-Westerink 1968: LXXV–LXXXIX; Luna-Segonds 2017: XII–XXIV; exceptions include Amelius, who counted eight, and “the philosopher of Rhodes” (identified by Saffrey 1984b, 1994 with Theodorus of Asine, but cf. Luna-Segonds 2017: 220–25) who counted ten, cf. P"
+  },
+  {
+   "i": 32,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Phaedo (possibly a monograph on the argument on the contraries, cf. d’Hoine 2015) Sophist Statesman Parmenides (fragments collected by Klitenic Wear 2011) Philebus Phaedrus (through Hermias’ commentary) Republic Timaeus (fragments collected by Klitenic Wear 2011) Laws X",
+   "md_text": "Phaedo (possibly a monograph on the argument on the contraries, cf. d’Hoine 2015) Sophist Statesman Parmenides (fragments collected by Klitenic Wear 2011) Philebus Phaedrus (through Hermias’ commentary) Republic Timaeus (fragments collected by Klitenic Wear 2011) Laws X"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Syrianus",
+ "authors": [
+  "Granieri, Roberto",
+  "Wildberg, Christian"
+ ]
+}

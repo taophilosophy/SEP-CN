@@ -1,0 +1,288 @@
+{
+ "slug": "qm",
+ "letter": "q",
+ "state": "flagged",
+ "n_html": 102,
+ "n_md": 120,
+ "n_pairs": 84,
+ "n_flags": 5,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9988449988449989,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978376253194418,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.978021978021978,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993103448275862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957228400342173,
+   "n_h": 1,
+   "n_m": 10,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970674486803519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949622166246851,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992679355783309,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "量子力学 quantum mechanics (Jenann Ismael)",
+  "zh_h1": "量子力学 quantum mechanics (Jenann Ismael)",
+  "yuanwen_h1": "Quantum Mechanics",
+  "html_title": "Quantum Mechanics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 50,
+  "p→∅": 10,
+  "h3→h3": 3,
+  "figure→∅": 2,
+  "p→mathblock": 16,
+  "ol→ol": 5,
+  "ol→∅": 1,
+  "dl→∅": 3,
+  "ul→ul": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 5,
+  "merged×1(ol→ol)": 1,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 13,
+   "j": 14,
+   "ratio": 0.47058823529411764,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1 . Vector Addition",
+   "md_text": "Figure 1"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 15,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1. Vector Addition"
+  },
+  {
+   "kind": "replace",
+   "i": 20,
+   "j": 22,
+   "ratio": 0.22857142857142856,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 2 . Representing ⟦M⟧ by Vector Addition of Unit Vectors",
+   "md_text": "Figure 2"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 23,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2. Representing ⟦M⟧ by Vector Addition of Unit Vectors"
+  },
+  {
+   "kind": "replace",
+   "i": 74,
+   "j": 92,
+   "ratio": 0.8333333333333334,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "and so on. ⟦P⟧",
+   "md_text": "and so on."
+  }
+ ],
+ "spot": [
+  {
+   "i": 72,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Suppose that we have a system ⟦M⟧ and a device ⟦M⟧ which measures an observable ⟦M⟧ on ⟦M⟧ with values ⟦M⟧ . Then there is some state of ⟦M⟧ (the ‘ground state’), and some observable ⟦M⟧ with values ⟦M⟧ pertaining to ⟦M⟧ (its ‘pointer observable’, so called because it is whatever plays the role of the pointer on a dial on the front of a schematic measuring instrument in registering the result of the experiment), which are such that, if ⟦M⟧ is started in its ground state and interacts in an appro",
+   "md_text": "Suppose that we have a system ⟦M⟧ and a device ⟦M⟧ which measures an observable ⟦M⟧ on ⟦M⟧ with values ⟦M⟧ . Then there is some state of ⟦M⟧ (the ‘ground state’), and some observable ⟦M⟧ with values ⟦M⟧ pertaining to ⟦M⟧ (its ‘pointer observable’, so called because it is whatever plays the role of the pointer on a dial on the front of a schematic measuring instrument in registering the result of the experiment), which are such that, if ⟦M⟧ is started in its ground state and interacts in an appro"
+  },
+  {
+   "i": 12,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A vector ⟦M⟧ , written ‘ ⟦M⟧ ’, is a mathematical object characterized by a length, ⟦M⟧ , and a direction. A normalized vector is a vector of length 1; i.e., ⟦M⟧ . Vectors can be added together, multiplied by constants (including complex numbers), and multiplied together. Vector addition maps any pair of vectors onto another vector, specifically, the one you get by moving the second vector so that its tail coincides with the tip of the first, without altering the length or direction of either, a",
+   "md_text": "A vector ⟦M⟧ , written ‘ ⟦M⟧ ’, is a mathematical object characterized by a length, ⟦M⟧ , and a direction. A normalized vector is a vector of length 1; i.e., ⟦M⟧ . Vectors can be added together, multiplied by constants (including complex numbers), and multiplied together. Vector addition maps any pair of vectors onto another vector, specifically, the one you get by moving the second vector so that its tail coincides with the tip of the first, without altering the length or direction of either, a"
+  },
+  {
+   "i": 26,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "⟦M⟧ , and ⟦M⟧ if and only if ⟦M⟧ ⟦M⟧ ⟦M⟧ .",
+   "md_text": "⟦M⟧ , and ⟦M⟧ if and only if ⟦M⟧ ⟦M⟧ ⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Quantum Mechanics",
+ "authors": [
+  "Ismael, Jenann"
+ ]
+}

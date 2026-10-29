@@ -1,0 +1,290 @@
+{
+ "slug": "sophismata",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 68,
+ "n_md": 68,
+ "n_pairs": 39,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9975308641975309,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "preamble",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996078431372549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9965870307167235,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980066445182725,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952380952380953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953051643192489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983977212034894,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970568999345978,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993451211525868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994900560938297,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9986950848194868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960899315738025,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958246346555324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953125,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985528219971056,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9932885906040269,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "诡辩 sophismata [= sophisms] (Fabienne Pironet and Joke Spruyt)",
+  "zh_h1": "诡辩 sophismata [= sophisms] (Fabienne Pironet and Joke Spruyt)",
+  "yuanwen_h1": "*Sophismata*",
+  "html_title": "Sophismata",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→∅": 1,
+  "p→∅": 23,
+  "h2→h2": 6,
+  "h3→h3": 3,
+  "p→p": 14,
+  "ol→∅": 2,
+  "blockquote→blockquote": 8,
+  "h4→h4": 6,
+  "ul→∅": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×3(preamble+h2+p→p+h2+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 26,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In accordance with step (3), the argument contra is rejected on the grounds that it is a fallacy, because in the sentence it starts off with, ‘Every animal but man is irrational,’ the expression ‘man’ has simple supposition, that is, it stands for man in general, whereas in the second sentence, ‘Therefore every animal but this man is irrational,’ the expression ‘this man’ has personal supposition, that is, it stands for an individual man. The second mistake in the disproof is that it proceeds fr",
+   "md_text": "In accordance with step (3), the argument contra is rejected on the grounds that it is a fallacy, because in the sentence it starts off with, ‘Every animal but man is irrational,’ the expression ‘man’ has simple supposition, that is, it stands for man in general, whereas in the second sentence, ‘Therefore every animal but this man is irrational,’ the expression ‘this man’ has personal supposition, that is, it stands for an individual man. The second mistake in the disproof is that it proceeds fr"
+  },
+  {
+   "i": 65,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "William Heytesbury: Sophismata (working text of the Latin): Part 1 Part 2 transcribed by Fabienne Pironet. William Heytesbury and Robert Alyngton: Tractatus Juxta hunc textum Introduction (PDF) (in French) by Fabienne Pironet Juxta hunc textum (PDF) (Heytesbury) Juxta hunc textum (PDF) (Alyngton) Paul Spade’s Mediaeval Logic and Philosophy page site.",
+   "md_text": "William Heytesbury: Sophismata (working text of the Latin): Part 1 Part 2 transcribed by Fabienne Pironet. William Heytesbury and Robert Alyngton: Tractatus Juxta hunc textum Introduction (PDF) (in French) by Fabienne Pironet Juxta hunc textum (PDF) (Heytesbury) Juxta hunc textum (PDF) (Alyngton) Paul Spade’s Mediaeval Logic and Philosophy page site."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Sophismata",
+ "authors": [
+  "Pironet, Fabienne",
+  "Spruyt, Joke"
+ ]
+}

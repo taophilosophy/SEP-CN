@@ -1,0 +1,206 @@
+{
+ "slug": "colonialism",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 58,
+ "n_md": 58,
+ "n_pairs": 40,
+ "n_flags": 1,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9995320542817033,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997127262280954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999554565701559,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995169859925938,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992107340173638,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994823123382226,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992805755395684,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999466097170315,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996709443896018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995051954477981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9948717948717949,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "殖民主义 colonialism (Margaret Kohn and Kavita Reddy)",
+  "zh_h1": "殖民主义 colonialism (Margaret Kohn and Kavita Reddy)",
+  "yuanwen_h1": "Colonialism",
+  "html_title": "Colonialism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 28,
+  "p→∅": 16,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 5,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 55,
+   "j": 55,
+   "ratio": 0.9407894736842105,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "authority | coercion | domination | exploitation | legitimacy, political | liberalism | Marxism, analytical | representation, political | secession | sovereignty",
+   "md_text": "authority coercion domination exploitation legitimacy, political liberalism Marxism, analytical representation, political secession sovereignty"
+  }
+ ],
+ "spot": [
+  {
+   "i": 29,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Frantz Fanon was one of the leading theorists of the struggle for decolonization. His two most influential works focused on anti-black racism and the impact of colonial violence. Black Skin, White Masks (2008 [1952]) describes racialized subjectivity and the structural conditions that sustain racial domination. Drawing on existentialism, psychoanalysis, and literary theory, Fanon demonstrates the constitutive effects of European colonialism on identity. It details the traumatic consequences of i",
+   "md_text": "Frantz Fanon was one of the leading theorists of the struggle for decolonization. His two most influential works focused on anti-black racism and the impact of colonial violence. Black Skin, White Masks (2008 [1952]) describes racialized subjectivity and the structural conditions that sustain racial domination. Drawing on existentialism, psychoanalysis, and literary theory, Fanon demonstrates the constitutive effects of European colonialism on identity. It details the traumatic consequences of i"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Colonialism",
+ "authors": [
+  "Kohn, Margaret",
+  "Reddy, Kavita"
+ ]
+}

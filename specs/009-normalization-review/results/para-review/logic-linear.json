@@ -1,0 +1,388 @@
+{
+ "slug": "logic-linear",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 121,
+ "n_md": 121,
+ "n_pairs": 77,
+ "n_flags": 0,
+ "n_merged": 25,
+ "merged": [
+  {
+   "ratio": 0.9978888106966924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967141292442497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969879518072289,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9885511251480458,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9888961463096015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9978738483345145,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987525987525988,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995746490854955,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.976897689768977,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972662657189721,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974160206718347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9973357015985791,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99545159194282,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978991596638656,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935739001482946,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954441913439636,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957380860131732,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944113263785395,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971367215461704,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9835706462212487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948006932409013,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963973237261966,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969199178644764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "线性逻辑 linear (Roberto Di Cosmo and Dale Miller)",
+  "zh_h1": "线性逻辑 linear (Roberto Di Cosmo and Dale Miller)",
+  "yuanwen_h1": "Linear Logic",
+  "html_title": "Linear Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "h3→h3": 13,
+  "p→∅": 37,
+  "p→p": 50,
+  "ul→∅": 4,
+  "ul→ul": 3,
+  "p→mathblock": 1,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 8,
+  "merged×2(ul+p→ul+p)": 1,
+  "merged×2(p+p→p+p)": 9,
+  "merged×1(ul→ul)": 2,
+  "merged×7(p+ul+p+p+p+p+p→p+ul+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The core propositional connectives of linear logic are divided into additive and multiplicative connectives. The classical conjunction and its identity, ⟦M⟧ and ⟦M⟧ , split into the additive ⟦M⟧ (with) and ⟦M⟧ (top) and the multiplicative ⟦M⟧ (tensor) and 1 (one). Similarly, the classical disjunction and its identity, ⟦M⟧ and ⟦M⟧ , split into the additive ⟦M⟧ (oplus) and 0 (zero) and the multiplicative ⟦M⟧ (par) and ⟦M⟧ (bottom). Negation is generally treated in one of two ways in presentations ",
+   "md_text": "The core propositional connectives of linear logic are divided into additive and multiplicative connectives. The classical conjunction and its identity, ⟦M⟧ and ⟦M⟧ , split into the additive ⟦M⟧ (with) and ⟦M⟧ (top) and the multiplicative ⟦M⟧ (tensor) and 1 (one). Similarly, the classical disjunction and its identity, ⟦M⟧ and ⟦M⟧ , split into the additive ⟦M⟧ (oplus) and 0 (zero) and the multiplicative ⟦M⟧ (par) and ⟦M⟧ (bottom). Negation is generally treated in one of two ways in presentations "
+  },
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This duplication of the connectives actually leads to a much clearer understanding of the conflict between classical and intuitionistic logic. For example, the law of excluded middle ( ⟦M⟧ or not- ⟦M⟧ ) is considered valid in the classical world and absurd in the intuitionistic one. But in linear logic, this law has two readings: the additive version ⟦M⟧ is not provable and corresponds to the intuitionistic reading of disjunction; the multiplicative version ⟦M⟧ is trivially provable and simply c",
+   "md_text": "This duplication of the connectives actually leads to a much clearer understanding of the conflict between classical and intuitionistic logic. For example, the law of excluded middle ( ⟦M⟧ or not- ⟦M⟧ ) is considered valid in the classical world and absurd in the intuitionistic one. But in linear logic, this law has two readings: the additive version ⟦M⟧ is not provable and corresponds to the intuitionistic reading of disjunction; the multiplicative version ⟦M⟧ is trivially provable and simply c"
+  },
+  {
+   "i": 55,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Axiom move: Multiplicative move:",
+   "md_text": "Axiom move: Multiplicative move:"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Linear Logic",
+ "authors": [
+  "Di Cosmo, Roberto",
+  "Miller, Dale"
+ ]
+}

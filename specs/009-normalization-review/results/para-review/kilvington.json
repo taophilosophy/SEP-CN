@@ -1,0 +1,290 @@
+{
+ "slug": "kilvington",
+ "letter": "k",
+ "state": "ok",
+ "n_html": 65,
+ "n_md": 65,
+ "n_pairs": 31,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.998598037252153,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985065073607852,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996027016289233,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992536199432751,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997462848858282,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983633387888707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983333333333333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992150706436421,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999581764951903,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989434759640782,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965698143664246,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980544747081712,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985141158989599,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999259807549963,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998062015503876,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988364576599871,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982394366197183,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "理查德·基尔文顿 Kilvington, Richard (Elzbieta Jung)",
+  "zh_h1": "理查德·基尔文顿 Kilvington, Richard (Elzbieta Jung)",
+  "yuanwen_h1": "Richard Kilvington",
+  "html_title": "Richard Kilvington",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→∅": 33,
+  "p→p": 15,
+  "ol→ol": 1,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 9,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 53,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Kilvington believes that not only God’s will but also God’s knowledge is contingent with regard to future contingents. This produces a distinction between types of prophecies, with some of them being absolutely necessary and others being conditionally necessary and in this way contingent. Everything absolutely and unconditionally revealed by God necessarily comes about with ordained necessity. Everything revealed by God’s ordained power—e.g., articles of faith—depends on God’s will and could be ",
+   "md_text": "Kilvington believes that not only God’s will but also God’s knowledge is contingent with regard to future contingents. This produces a distinction between types of prophecies, with some of them being absolutely necessary and others being conditionally necessary and in this way contingent. Everything absolutely and unconditionally revealed by God necessarily comes about with ordained necessity. Everything revealed by God’s ordained power—e.g., articles of faith—depends on God’s will and could be "
+  },
+  {
+   "i": 24,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "There must be a range in which the capacity can act or be acted on, and another range in which it cannot act or be acted on. The capacity should be capable of taking on a continuous range of values between zero and the value which serves as its boundary, and no other values.",
+   "md_text": "There must be a range in which the capacity can act or be acted on, and another range in which it cannot act or be acted on. The capacity should be capable of taking on a continuous range of values between zero and the value which serves as its boundary, and no other values."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Richard Kilvington",
+ "authors": [
+  "Jung, Elzbieta"
+ ]
+}

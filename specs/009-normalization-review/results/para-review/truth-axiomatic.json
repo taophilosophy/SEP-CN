@@ -1,0 +1,377 @@
+{
+ "slug": "truth-axiomatic",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 135,
+ "n_md": 135,
+ "n_pairs": 99,
+ "n_flags": 0,
+ "n_merged": 26,
+ "merged": [
+  {
+   "ratio": 0.9993769470404984,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990243902439024,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988304093567252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982400563181978,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973474801061007,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995845450768591,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978448275862069,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990069513406157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991681916486441,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989775051124744,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982238010657194,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995665366276549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997222993612885,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986244841815681,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992313604919293,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9984917043740573,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989806320081549,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990115321252059,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984366857738406,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996101364522417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999129677980853,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992325402916347,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999042451324609,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994921279837481,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "公理化真理论 axiomatic theories of (Volker Halbach, Graham E. Leigh, and Mateusz Łełyk)",
+  "zh_h1": "公理化真理论 axiomatic theories of (Volker Halbach, Graham E. Leigh, and Mateusz Łełyk)",
+  "yuanwen_h1": "Axiomatic Theories of Truth",
+  "html_title": "Axiomatic Theories of Truth",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 34,
+  "p→p": 59,
+  "h3→h3": 19,
+  "p→mathblock": 8,
+  "ol→ol": 3,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(p→p)": 16,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(ol→ol)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 71,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The list of various equivalent axiomatizations of CT ⟦S⟧ can be further extended with two more innocent-looking principles. The first one considers the truth conditions for disjunctions with arbitrary finite number of disjuncts. More precisely, the principle, called disjunctive correctness (DC), expresses that for every n and for every collection of formulas ⟦M⟧ the disjunction ⟦M⟧ is true if and only if there is ⟦M⟧ such that ⟦M⟧ is true. In Enayat and Pakhomov (2019) it was shown that, over CT",
+   "md_text": "The list of various equivalent axiomatizations of CT ⟦S⟧ can be further extended with two more innocent-looking principles. The first one considers the truth conditions for disjunctions with arbitrary finite number of disjuncts. More precisely, the principle, called disjunctive correctness (DC), expresses that for every n and for every collection of formulas ⟦M⟧ the disjunction ⟦M⟧ is true if and only if there is ⟦M⟧ such that ⟦M⟧ is true. In Enayat and Pakhomov (2019) it was shown that, over CT"
+  },
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Theories of truth and predication are closely related to theories of properties and property attribution. To say that an open formula ⟦M⟧ is true of an individual ⟦M⟧ seems equivalent (in some sense) to the claim that ⟦M⟧ has the property of being such that ⟦M⟧ (this property is signified by the open formula). For example, one might say that ‘ ⟦M⟧ is a poor philosopher’ is true of Tom instead of saying that Tom has the property of being a poor philosopher. Quantification over definable propertie",
+   "md_text": "Theories of truth and predication are closely related to theories of properties and property attribution. To say that an open formula ⟦M⟧ is true of an individual ⟦M⟧ seems equivalent (in some sense) to the claim that ⟦M⟧ has the property of being such that ⟦M⟧ (this property is signified by the open formula). For example, one might say that ‘ ⟦M⟧ is a poor philosopher’ is true of Tom instead of saying that Tom has the property of being a poor philosopher. Quantification over definable propertie"
+  },
+  {
+   "i": 55,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ])) ⟦M⟧ ]))",
+   "md_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ])) ⟦M⟧ ]))"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Axiomatic Theories of Truth",
+ "authors": [
+  "Halbach, Volker",
+  "Leigh, Graham E.",
+  "Łełyk, Mateusz"
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "slug": "benjamin",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 100,
+ "n_md": 108,
+ "n_pairs": 38,
+ "n_flags": 4,
+ "n_merged": 29,
+ "merged": [
+  {
+   "ratio": 0.9992130803532395,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999091226843761,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975490196078431,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995353159851301,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995162070633768,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992958738205886,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990349353406678,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992226697759876,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983221476510067,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985881688550049,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985301322880941,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998005540166205,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995007488766849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986516853932584,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985387238188017,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989235737351991,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995225210886519,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983597594313832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988153663902521,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998997995991984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998866470188166,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998324958123953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980694980694981,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981389578163772,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984472049689441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931972789115646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9545454545454546,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "瓦尔特·本雅明 Benjamin, Walter (Peter Osborne and Matthew Charles)",
+  "zh_h1": "瓦尔特·本雅明 Benjamin, Walter (Peter Osborne and Matthew Charles)",
+  "yuanwen_h1": "Walter Benjamin",
+  "html_title": "Walter Benjamin",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 12,
+  "p→∅": 54,
+  "p→p": 20,
+  "ol→ol": 1,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 6,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 3,
+  "merged×1(p→p)": 11,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 2,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "A Walter Benjamin’s Archive: Images, Texts, Signs, trans. Esther Leslie, London: Verso, 2007. AP The Arcades Project, trans. Howard Eiland & Kevin McLaughlin, Cambridge, MA & London: Belknap Press, 1999. BA Walter Benjamin and Theodor W. Adorno, The Complete Correspondences 1928–1940, ed. Henri Lonitz, Cambridge: Polity Press, 1999. BC Berlin Childhood Around 1900, trans. Howard Eiland, Cambridge, MA & London: Belknap Press, 2006 BG Walter Benjamin and Gretel Adorno, Correspondence 1930–1940, trans. Wieland Hoban, Cambridge: Polity, 2008. BS The Correspondence of Walter Benjamin and Gershom Scholem, ed. Gershom Scholem, Cambridge, MA.,: Harvard University Press, 1989. C The Correspondence of Walter Benjamin: 1910–1940, eds. Gershom Scholem & Theodor W. Adorno, Chicago & London: University "
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 99,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Biographies in English"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 100,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Selected English Anthologies"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 101,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Selected Secondary Literature"
+  }
+ ],
+ "spot": [
+  {
+   "i": 93,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Benjamin was interested in ‘culture’ not as an autonomous realm of values (“the independent values of aesthetic, scientific, ethical… and even religious achievements”), but on the contrary, like the sociologist Georg Simmel, whose Philosophy of Money he cities in this regard, as “elements in the development of human nature” (Simmel, quoted in AP, [N14, 3], 480). In this respect, cultural study is situated within the field of a materialist philosophy of history. And the philosophy of history insi",
+   "md_text": "Benjamin was interested in ‘culture’ not as an autonomous realm of values (“the independent values of aesthetic, scientific, ethical… and even religious achievements”), but on the contrary, like the sociologist Georg Simmel, whose Philosophy of Money he cities in this regard, as “elements in the development of human nature” (Simmel, quoted in AP, [N14, 3], 480). In this respect, cultural study is situated within the field of a materialist philosophy of history. And the philosophy of history insi"
+  },
+  {
+   "i": 20,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Since the content of each, successive, level of reflection is supplied by the form of its object, the criticism unfolds the germ of immanent criticizability contained in each particular artwork’s form. This formalism precludes any serious discussion of the artwork’s specific content. Conversely, anything immanently uncriticizable cannot constitute a true work of art. As a consequence, Romantic criticism is unable to differentiate between good or bad artworks, since its only criterion is whether ",
+   "md_text": "Since the content of each, successive, level of reflection is supplied by the form of its object, the criticism unfolds the germ of immanent criticizability contained in each particular artwork’s form. This formalism precludes any serious discussion of the artwork’s specific content. Conversely, anything immanently uncriticizable cannot constitute a true work of art. As a consequence, Romantic criticism is unable to differentiate between good or bad artworks, since its only criterion is whether "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Walter Benjamin",
+ "authors": [
+  "Osborne, Peter",
+  "Charles, Matthew"
+ ]
+}

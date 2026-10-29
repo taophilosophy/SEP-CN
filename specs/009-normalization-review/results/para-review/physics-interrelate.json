@@ -1,0 +1,503 @@
+{
+ "slug": "physics-interrelate",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 130,
+ "n_md": 131,
+ "n_pairs": 70,
+ "n_flags": 0,
+ "n_merged": 34,
+ "merged": [
+  {
+   "ratio": 0.9995431703974418,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999066728884741,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986332574031891,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966329966329966,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9984591679506933,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990867579908675,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995150339476236,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993197278911564,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998975259844825,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996787664632187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992173742907454,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996140486298727,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991518235793045,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998972250770812,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988412514484357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992838386249702,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983193277310924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991603694374476,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990141307919816,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990944763054633,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985358711566618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990205680705191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971830985915493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996480112636396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994216310005783,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994453688297282,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971671388101983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982476635514018,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988738738738738,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991983967935871,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9935408103347034,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "物理学中的跨理论关系 intertheory relations in (Patricia Palacios)",
+  "zh_h1": "物理学中的跨理论关系 intertheory relations in (Patricia Palacios)",
+  "yuanwen_h1": "Intertheory Relations in Physics",
+  "html_title": "Intertheory Relations in Physics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 55,
+  "p→p": 32,
+  "ol→∅": 2,
+  "h3→h3": 13,
+  "ul→ul": 3,
+  "p→mathblock": 4,
+  "blockquote→blockquote": 9,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(ol→ol)": 1,
+  "merged×1(p→p)": 16,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×6(p+ol+p+p+p+p→p+ol+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 79,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Also, in the last few years, more and more attention has been paid to the functional approach to reduction in the philosophy of physics (e.g., Baker 2021; Esfeld & Sachse 2011; Knox 2014 [Other Internet Resources], 2019; Lam & Wüthrich 2018, 2020; Butterfield & Gomes 2022, 2023; Robertson 2022; Lorenzetti 2023. Roughly speaking, functional reduction describes inter-theoretic reduction as a relationship between upper-level realizers and lower-level realizers. For instance, finding a statistical m",
+   "md_text": "Also, in the last few years, more and more attention has been paid to the functional approach to reduction in the philosophy of physics (e.g., Baker 2021; Esfeld & Sachse 2011; Knox 2014 [Other Internet Resources], 2019; Lam & Wüthrich 2018, 2020; Butterfield & Gomes 2022, 2023; Robertson 2022; Lorenzetti 2023. Roughly speaking, functional reduction describes inter-theoretic reduction as a relationship between upper-level realizers and lower-level realizers. For instance, finding a statistical m"
+  },
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Apart from the epistemic roles mentioned above, reduction also aims to support the relative fundamentality of the reducing theory with respect to the reduced theory. Establishing fundamentality is a crucial function of reduction, since it can account for its asymmetric character. Loosely speaking, fundamentality can be understood in the sense that the reducing theory has some “advantage” over the reduced theory or it is in some sense “better” than the reduced theory. In the philosophical literat",
+   "md_text": "Apart from the epistemic roles mentioned above, reduction also aims to support the relative fundamentality of the reducing theory with respect to the reduced theory. Establishing fundamentality is a crucial function of reduction, since it can account for its asymmetric character. Loosely speaking, fundamentality can be understood in the sense that the reducing theory has some “advantage” over the reduced theory or it is in some sense “better” than the reduced theory. In the philosophical literat"
+  },
+  {
+   "i": 17,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Derivability: The laws of the reduced theory can be logically derived from the laws of the (augmented) reducing theory plus auxiliary assumptions. Connectability: In the case of inhomogeneous reductions, there are bridge laws, which connect the vocabulary of the reducing theory with the vocabulary of the reduced theory.",
+   "md_text": "Derivability: The laws of the reduced theory can be logically derived from the laws of the (augmented) reducing theory plus auxiliary assumptions. Connectability: In the case of inhomogeneous reductions, there are bridge laws, which connect the vocabulary of the reducing theory with the vocabulary of the reduced theory."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Intertheory Relations in Physics",
+ "authors": [
+  "Palacios, Patricia"
+ ]
+}

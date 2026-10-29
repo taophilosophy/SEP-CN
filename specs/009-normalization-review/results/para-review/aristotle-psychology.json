@@ -1,0 +1,301 @@
+{
+ "slug": "aristotle-psychology",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 72,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9993753903810119,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980318834875025,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980521061602142,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929078014184397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h2"
+   ],
+   "shape_m": [
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9992914501653283,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9859154929577465,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991392666551903,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988075363701407,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995171414775471,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987020648967552,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9980155150640447,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9983696457684897,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993308798929408,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986971896519635,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9863013698630136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的心理学 psychology (Christopher Shields)",
+  "zh_h1": "亚里士多德的心理学 psychology (Christopher Shields)",
+  "yuanwen_h1": "Aristotle’s Psychology",
+  "html_title": "Aristotle’s Psychology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 34,
+  "blockquote→∅": 2,
+  "table→∅": 3,
+  "p→p": 15,
+  "h2→∅": 1,
+  "table→table": 1,
+  "blockquote→blockquote": 3,
+  "merged×1(preamble→p+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×6(p+p+p+p+table+p→p+p+p+p+table+p)": 1,
+  "merged×1(h2→h2)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 2,
+  "merged×5(p+p+p+p+table→p+p+p+p+table)": 1,
+  "merged×4(p+p+p+table→p+p+p+table)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For the purposes of understanding Aristotle’s psychology, the origin of Aristotle’s hylomorphism is significant for two reasons. First, from its inception, Aristotle’s hylomorphism exploits two distinct but related notions of form, one of which is essential to the compound whose form it is, and the other of which is accidental to its subject. In advancing his view of the soul and its capacities, Aristotle employs both of these notions: the soul is an essential form, whereas perception involves t",
+   "md_text": "For the purposes of understanding Aristotle’s psychology, the origin of Aristotle’s hylomorphism is significant for two reasons. First, from its inception, Aristotle’s hylomorphism exploits two distinct but related notions of form, one of which is essential to the compound whose form it is, and the other of which is accidental to its subject. In advancing his view of the soul and its capacities, Aristotle employs both of these notions: the soul is an essential form, whereas perception involves t"
+  },
+  {
+   "i": 18,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "soul : body : : form : matter : : Hermes-shape : bronze",
+   "md_text": "soul : body : : form : matter : : Hermes-shape : bronze"
+  }
+ ],
+ "supplements": [
+  "active-mind.html",
+  "method.html",
+  "suppl1.html",
+  "suppl2.html",
+  "suppl3.html",
+  "suppl4.html"
+ ],
+ "meta_title": "Aristotle’s Psychology",
+ "authors": [
+  "Shields, Christopher"
+ ]
+}

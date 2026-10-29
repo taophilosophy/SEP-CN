@@ -1,0 +1,227 @@
+{
+ "slug": "representation-medieval",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 45,
+ "n_md": 47,
+ "n_pairs": 26,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9992972593113141,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990592662276576,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990732159406858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981801637852593,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993346640053227,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993220338983051,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991928974979822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984848484848485,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994597514856834,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990406140070355,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990817263544536,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988801791713325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994317105512408,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994597514856834,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中世纪哲学中的心理表征 in medieval philosophy (Henrik Lagerlund)",
+  "zh_h1": "中世纪哲学中的心理表征 in medieval philosophy (Henrik Lagerlund)",
+  "yuanwen_h1": "Mental Representation in Medieval Philosophy",
+  "html_title": "Mental Representation in Medieval Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 13,
+  "p→p": 15,
+  "blockquote→∅": 5,
+  "blockquote→blockquote": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×2(p+p→p+p)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 37,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "He seems to think that all proper singular terms are collections of descriptions of a thing under a name. This goes for singulars that I am acquainted with as well as singulars I have no sense acquaintance with. Assume that I have the concept ‘Brunellus’ in my mental language, which I have formed through vague singulars, that is, through circumstances in which I have perceived him as this or that. These vague singulars express the demonstrative aspect of my experience of Brunellus. They come tog",
+   "md_text": "He seems to think that all proper singular terms are collections of descriptions of a thing under a name. This goes for singulars that I am acquainted with as well as singulars I have no sense acquaintance with. Assume that I have the concept ‘Brunellus’ in my mental language, which I have formed through vague singulars, that is, through circumstances in which I have perceived him as this or that. These vague singulars express the demonstrative aspect of my experience of Brunellus. They come tog"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Mental Representation in Medieval Philosophy",
+ "authors": [
+  "Lagerlund, Henrik"
+ ]
+}

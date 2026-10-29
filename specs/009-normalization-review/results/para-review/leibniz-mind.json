@@ -1,0 +1,248 @@
+{
+ "slug": "leibniz-mind",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 60,
+ "n_md": 61,
+ "n_pairs": 33,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9996627318718381,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999245283018868,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993989180524945,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994212962962963,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991869918699187,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984124184159464,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992550285572387,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987291501191422,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990433673469388,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966850828729282,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976190476190476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980921231943308,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9961190168175937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "莱布尼茨的心灵哲学 philosophy of mind (Mark Kulstad and Laurence Carlin)",
+  "zh_h1": "莱布尼茨的心灵哲学 philosophy of mind (Mark Kulstad and Laurence Carlin)",
+  "yuanwen_h1": "Leibniz’s Philosophy of Mind",
+  "html_title": "Leibniz’s Philosophy of Mind",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 20,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 3,
+  "p→∅": 21,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 44,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Despite being well known, Leibniz’s concept of apperception is not necessarily well understood. In particular, the place of apperception in the three-fold classifications given at the end of the previous section—of three kinds of perceptions and of simple substances—is not agreed upon, despite the fact that this would seem to be of considerable importance. (See Kulstad 1991a for discussion.) A common understanding is that for Leibniz apperception is distinctive of spirits and is not present in e",
+   "md_text": "Despite being well known, Leibniz’s concept of apperception is not necessarily well understood. In particular, the place of apperception in the three-fold classifications given at the end of the previous section—of three kinds of perceptions and of simple substances—is not agreed upon, despite the fact that this would seem to be of considerable importance. (See Kulstad 1991a for discussion.) A common understanding is that for Leibniz apperception is distinctive of spirits and is not present in e"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Leibniz’s Philosophy of Mind",
+ "authors": [
+  "Kulstad, Mark",
+  "Carlin, Laurence"
+ ]
+}

@@ -1,0 +1,546 @@
+{
+ "slug": "dependence-ontological",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 130,
+ "n_md": 156,
+ "n_pairs": 43,
+ "n_flags": 1,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.9983181971072991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997628927089508,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998062015503876,
+   "n_h": 6,
+   "n_m": 11,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992313604919293,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968728283530229,
+   "n_h": 6,
+   "n_m": 8,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948979591836735,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985422740524781,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971579374746244,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953917050691244,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992283950617284,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984817813765182,
+   "n_h": 11,
+   "n_m": 16,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980824544582934,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982593559617058,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995176073323685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998399068548974,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996711608023676,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955082742316785,
+   "n_h": 10,
+   "n_m": 13,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971898835808912,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973637961335676,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991993594875901,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984648449493398,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990395697272378,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989261744966443,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974573192880494,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983626688497749,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982815598149372,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971371944505616,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980372914622179,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "本体论依赖 dependence, ontological (Tuomas E. Tahko and E. Jonathan Lowe)",
+  "zh_h1": "本体论依赖 dependence, ontological (Tuomas E. Tahko and E. Jonathan Lowe)",
+  "yuanwen_h1": "Ontological Dependence",
+  "html_title": "Ontological Dependence",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 63,
+  "p→p": 22,
+  "dl→∅": 20,
+  "blockquote→∅": 3,
+  "h3→h3": 9,
+  "blockquote→blockquote": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×6(dl+p+p+blockquote+p+p→p+p+p+p+p+p+p+p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×6(dl+p+p+p+dl+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 3,
+  "merged×1(dl→p+p)": 2,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×11(p+p+dl+p+dl+p+p+p+dl+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×10(dl+p+p+dl+p+p+p+p+p+dl→p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×3(p+dl+p→p+p+p+p)": 1,
+  "merged×4(dl+p+blockquote+p→p+p+p+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×4(p+dl+p+dl→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 129,
+   "j": 155,
+   "ratio": 0.9423076923076923,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "categories | essential vs. accidental properties | fundamentality | grounding, metaphysical | identity | mereology | substance | supervenience | tropes | truthmakers",
+   "md_text": "categories essential vs. accidental properties fundamentality grounding, metaphysical identity mereology substance supervenience tropes truthmakers"
+  }
+ ],
+ "spot": [
+  {
+   "i": 94,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Before we conclude our discussion of essential dependence, a major issue in the literature concerning ontological dependence should be mentioned. For it appears that those who are willing to buy into a suitably fine-grained notion of essence, popular in the “neo-Aristotelian” tradition, will find the modal-existential account of ontological dependence far too coarse-grained. Yet, those who are not sympathetic to the “neo-Aristotelian” notion of essence but would rather analyze essence in terms o",
+   "md_text": "Before we conclude our discussion of essential dependence, a major issue in the literature concerning ontological dependence should be mentioned. For it appears that those who are willing to buy into a suitably fine-grained notion of essence, popular in the “neo-Aristotelian” tradition, will find the modal-existential account of ontological dependence far too coarse-grained. Yet, those who are not sympathetic to the “neo-Aristotelian” notion of essence but would rather analyze essence in terms o"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ontological Dependence",
+ "authors": [
+  "Tahko, Tuomas E.",
+  "Lowe, E. Jonathan"
+ ]
+}

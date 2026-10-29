@@ -1,0 +1,103 @@
+{
+ "slug": "rorty",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 84,
+ "n_md": 84,
+ "n_pairs": 80,
+ "n_flags": 0,
+ "n_merged": 4,
+ "merged": [
+  {
+   "ratio": 0.9968203497615262,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999288256227758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992619926199262,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "理查德·罗蒂 Rorty, Richard (Bjørn Ramberg and Susan Dieleman)",
+  "zh_h1": "理查德·罗蒂 Rorty, Richard (Bjørn Ramberg and Susan Dieleman)",
+  "yuanwen_h1": "Richard Rorty",
+  "html_title": "Richard Rorty",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 48,
+  "h3→h3": 12,
+  "p→∅": 3,
+  "blockquote→blockquote": 10,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 19,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The provocative and counterintuitive force of Rorty’s treatment of rationality and science in terms of conversational ethics is undeniable. It is important to realize, though, that Rorty is not denying that there is any bona fide use of notions like truth, knowledge, or objectivity. Rather his point is that our ordinary uses of these notions always trade for their content and point on particular features of their varying contexts of application. His further point is that when we abstract away fr",
+   "md_text": "The provocative and counterintuitive force of Rorty’s treatment of rationality and science in terms of conversational ethics is undeniable. It is important to realize, though, that Rorty is not denying that there is any bona fide use of notions like truth, knowledge, or objectivity. Rather his point is that our ordinary uses of these notions always trade for their content and point on particular features of their varying contexts of application. His further point is that when we abstract away fr"
+  },
+  {
+   "i": 81,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Richard Rorty’s Home Page Richard Rorty Society",
+   "md_text": "Richard Rorty’s Home Page Richard Rorty Society"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Richard Rorty",
+ "authors": [
+  "Ramberg, Bjørn",
+  "Dieleman, Susan"
+ ]
+}

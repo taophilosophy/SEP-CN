@@ -1,0 +1,204 @@
+{
+ "slug": "al-farabi",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 40,
+ "n_md": 44,
+ "n_pairs": 21,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9997105643994211,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985243482538121,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992435703479576,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983575143717492,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997128911857595,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992831541218637,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993943064809206,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997920997920998,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981087470449173,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9943820224719101,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9788135593220338,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿里·法拉比 al-Farabi (Therese-Anne Druart)",
+  "zh_h1": "阿里·法拉比 al-Farabi (Therese-Anne Druart)",
+  "yuanwen_h1": "al-Farabi",
+  "html_title": "al-Farabi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→∅": 16,
+  "p→p": 9,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+ol+p+p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Physics includes Aristotle’s On the soul and scholars have paid much attention to al-Fārābī’s little treatise On intellect (ed. by M. Bouyges, 1983). A full English translation of this important treatise, of which there exist two Medieval Latin versions, was finally given by McGinnis & Reisman in their Classical Arabic Philosophy (2007: 68–78). Philippe Vallat published an extensive study of al-Fārābī’s views on the intellect (2019a). More recently Jawdath Jabbour offered a detailed study of thi",
+   "md_text": "Physics includes Aristotle’s On the soul and scholars have paid much attention to al-Fārābī’s little treatise On intellect (ed. by M. Bouyges, 1983). A full English translation of this important treatise, of which there exist two Medieval Latin versions, was finally given by McGinnis & Reisman in their Classical Arabic Philosophy (2007: 68–78). Philippe Vallat published an extensive study of al-Fārābī’s views on the intellect (2019a). More recently Jawdath Jabbour offered a detailed study of thi"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "al-Farabi",
+ "authors": [
+  "Druart, Therese-Anne"
+ ]
+}

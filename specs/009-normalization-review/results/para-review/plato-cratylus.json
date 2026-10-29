@@ -1,0 +1,487 @@
+{
+ "slug": "plato-cratylus",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 121,
+ "n_md": 134,
+ "n_pairs": 52,
+ "n_flags": 0,
+ "n_merged": 29,
+ "merged": [
+  {
+   "ratio": 0.9975860754669038,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "preamble",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976580796252927,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993610223642172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948453608247423,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974610083424011,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987425337944043,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990766389658357,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991609330424568,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997070092404778,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958188153310105,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964299880999603,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990995858094723,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983991462113126,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988366295496094,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962345346960731,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983129481231547,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972648853355776,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962666666666666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999466097170315,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965156794425087,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996067636649626,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959130995913099,
+   "n_h": 5,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986187845303868,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969002927501291,
+   "n_h": 8,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986937861541332,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9918032786885246,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "柏拉图的 《克拉底鲁篇》 Cratylus (David Meißner)",
+  "zh_h1": "柏拉图的 《克拉底鲁篇》 Cratylus (David Meißner)",
+  "yuanwen_h1": "Plato’s *Cratylus*",
+  "html_title": "Plato’s Cratylus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→∅": 1,
+  "p→∅": 51,
+  "p→p": 21,
+  "h2→h2": 11,
+  "blockquote→blockquote": 1,
+  "ul→∅": 2,
+  "h3→h3": 15,
+  "ol→ol": 3,
+  "dl→∅": 10,
+  "blockquote→∅": 2,
+  "ol→∅": 2,
+  "merged×3(preamble+h2+p→p+p+h2+p)": 1,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(p→p)": 5,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(dl+p→p+p+p)": 3,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×4(p+dl+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+ol+p→p+ol+p)": 1,
+  "merged×1(dl→p+p)": 2,
+  "merged×5(p+dl+p+p+dl→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×8(p+dl+p+p+p+p+ol+p→p+p+p+p+p+p+p+ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Cratylus begins when Socrates joins the on-going debate between Cratylus and Hermogenes as an arbiter. He first invites Hermogenes to state his conventionalist view of the correctness of names (383a–386e)—and refutes him by presenting an argument for the conclusion that names are indeed subject to a standard of natural correctness (386e–390e). Asked to expand on this standard (391a), Socrates conjectures that a correct name needs to be a portmanteau: Like the name “shepherd” (from “sheep” an",
+   "md_text": "The Cratylus begins when Socrates joins the on-going debate between Cratylus and Hermogenes as an arbiter. He first invites Hermogenes to state his conventionalist view of the correctness of names (383a–386e)—and refutes him by presenting an argument for the conclusion that names are indeed subject to a standard of natural correctness (386e–390e). Asked to expand on this standard (391a), Socrates conjectures that a correct name needs to be a portmanteau: Like the name “shepherd” (from “sheep” an"
+  },
+  {
+   "i": 21,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "What is the purport of the conclusion that “it is possible to say a true and a false name”? Why does Socrates establish this conclusion here?",
+   "md_text": "What is the purport of the conclusion that “it is possible to say a true and a false name”? Why does Socrates establish this conclusion here?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Plato’s Cratylus",
+ "authors": [
+  "Meißner, David"
+ ]
+}

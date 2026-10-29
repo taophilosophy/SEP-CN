@@ -1,0 +1,262 @@
+{
+ "slug": "cardano",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 58,
+ "n_md": 59,
+ "n_pairs": 15,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9984251968503937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994754327679665,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996938591752206,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961577868852459,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960880195599022,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960359663540559,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950811417948022,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949885452462772,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985788361820626,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974424552429667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.95,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "吉罗拉莫·卡尔达诺 Cardano, Girolamo [Geronimo] (Guido Giglioni and Jonathan Regier)",
+  "zh_h1": "吉罗拉莫·卡尔达诺 Cardano, Girolamo [Geronimo] (Guido Giglioni and Jonathan Regier)",
+  "yuanwen_h1": "Girolamo [Geronimo] Cardano",
+  "html_title": "Girolamo [Geronimo] Cardano",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 38,
+  "p→p": 3,
+  "figure→p": 1,
+  "blockquote→∅": 3,
+  "h3→h3": 2,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×4(p+blockquote+p+p→p+p+blockquote+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×9(p+p+p+p+p+p+p+blockquote+p→p+p+p+p+p+p+p+blockquote+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×1(p→p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Cardano’s cosmological views belong to a long-established system of astro-biological doctrines whose origins go back to Aristotelian physics, Hippocratic vitalism, and fundamental assumptions underlying the tradition of astrological and meteorological learning, reshaped through a series of Hebrew and Arabic mediations. His account of the supralunary world combines elements from Neoplatonic philosophy and Christian theology. In line with many of his contemporaries, Cardano maintains that there is",
+   "md_text": "Cardano’s cosmological views belong to a long-established system of astro-biological doctrines whose origins go back to Aristotelian physics, Hippocratic vitalism, and fundamental assumptions underlying the tradition of astrological and meteorological learning, reshaped through a series of Hebrew and Arabic mediations. His account of the supralunary world combines elements from Neoplatonic philosophy and Christian theology. In line with many of his contemporaries, Cardano maintains that there is"
+  },
+  {
+   "i": 12,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1.",
+   "md_text": "Figure 1."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Girolamo [Geronimo] Cardano",
+ "authors": [
+  "Giglioni, Guido",
+  "Regier, Jonathan"
+ ]
+}

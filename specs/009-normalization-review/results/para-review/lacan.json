@@ -1,0 +1,298 @@
+{
+ "slug": "lacan",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 80,
+ "n_md": 80,
+ "n_pairs": 40,
+ "n_flags": 1,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9995051954477981,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981731823164048,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992298382660358,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957446808510638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975560081466395,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988700564971752,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985917018741198,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986723705561292,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993305663408756,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959839357429718,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990616202690021,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966044142614601,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988221436984688,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985850725150336,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9904891304347826,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "雅克·拉康 Lacan, Jacques (Adrian Johnston)",
+  "zh_h1": "雅克·拉康 Lacan, Jacques (Adrian Johnston)",
+  "yuanwen_h1": "Jacques Lacan",
+  "html_title": "Jacques Lacan",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 5,
+  "p→∅": 38,
+  "p→p": 23,
+  "h3→h3": 4,
+  "h4→h4": 6,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×2(p+p→p+p)": 4,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 71,
+   "j": 71,
+   "ratio": 0.7416994935284187,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To refer back one last time to the matheme of fantasy ($ ◊ a ), the diamond-shaped “lozenge” ( poinçon ) ◊ can be read as a condensation of four symbols: one, ∧ (the logical symbol for conjunction [“and”]); two, ∨ (the logical symbol for disjunction [“or”]); three, > (the mathematical symbol for “greater than”); and, four, < (the mathematical symbol for “less than”). As per Lacan’s matheme, the subject’s desires are scripted and staged by an unconscious fundamental fantasy in which the desiring subject ($) is positioned in relation to its corresponding object-cause of desire ( a ). Hence, ∧, ∨, >, and < represent, in a deliberately loose and open fashion, possible variants of this positioning of $ vis-à-vis a . Singular subjects flesh out conjunction, disjunction, being “greater than,” and",
+   "md_text": "To refer back one last time to the matheme of fantasy ( ⟦M⟧ ) is positioned in relation to its corresponding object-cause of desire (a). Hence, ∧, ∨, >, and < represent, in a deliberately loose and open fashion, possible variants of this positioning of $ vis-à-vis a. Singular subjects flesh out conjunction, disjunction, being “greater than,” and being “less than” in their own styles, namely, as their unique fantasies of merger or symbiosis (conjunction), scorn or refusal (disjunction), mastery or domination (“greater than”), slavery or submission (“less than”), and any number of other possible particularizations of these four basic categories of rapport."
+  }
+ ],
+ "spot": [
+  {
+   "i": 59,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Parents of children are all too familiar with seemingly endless series of demands from the little ones (“I want a sandwich,” “OK, here’s a sandwich”… “I want a lollipop,” “OK, here’s a lollipop”… “I want a new toy,” “OK, here’s a new toy”… and on and on until an exhausted parental “No” is pronounced and wearily defended against vigorous protests). Adults, whether parents or not, also are aware of a similar desiring restlessness in themselves, an inability to acquire an object or attain a success",
+   "md_text": "Parents of children are all too familiar with seemingly endless series of demands from the little ones (“I want a sandwich,” “OK, here’s a sandwich”… “I want a lollipop,” “OK, here’s a lollipop”… “I want a new toy,” “OK, here’s a new toy”… and on and on until an exhausted parental “No” is pronounced and wearily defended against vigorous protests). Adults, whether parents or not, also are aware of a similar desiring restlessness in themselves, an inability to acquire an object or attain a success"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Jacques Lacan",
+ "authors": [
+  "Johnston, Adrian"
+ ]
+}

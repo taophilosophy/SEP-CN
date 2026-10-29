@@ -1,0 +1,1057 @@
+{
+ "slug": "situations-semantics",
+ "letter": "s",
+ "state": "flagged",
+ "n_html": 199,
+ "n_md": 313,
+ "n_pairs": 92,
+ "n_flags": 19,
+ "n_merged": 54,
+ "merged": [
+  {
+   "ratio": 0.9973333333333333,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984631147540983,
+   "n_h": 4,
+   "n_m": 8,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998546511627907,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9855072463768116,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987470914623232,
+   "n_h": 5,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987639060568603,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975520195838433,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h1",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979959919839679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997134670487106,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993208059769074,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9899486263122627,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994203477913252,
+   "n_h": 5,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991701244813278,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972080037226617,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992378048780488,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987730061349693,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9867924528301887,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994574064026045,
+   "n_h": 3,
+   "n_m": 11,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991608391608392,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972241498959056,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9856,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985761746559089,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990808823529411,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9629629629629629,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9583333333333334,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9565217391304348,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972789115646259,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997398091934085,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991212653778558,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9658048373644704,
+   "n_h": 3,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991902834008097,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9744525547445255,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9601518026565465,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993777224642191,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953673064195897,
+   "n_h": 3,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980237154150198,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986431478968792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9914040114613181,
+   "n_h": 4,
+   "n_m": 8,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.977924944812362,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "自然语言语义学的情境 in natural language semantics (Angelika Kratzer)",
+  "zh_h1": "自然语言语义学的情境 in natural language semantics (Angelika Kratzer)",
+  "yuanwen_h1": "Situations in Natural Language Semantics",
+  "html_title": "Situations in Natural Language Semantics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 12,
+  "p→∅": 44,
+  "dl→∅": 60,
+  "p→p": 72,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 2,
+  "table→table": 4,
+  "ul→∅": 1,
+  "merged×2(p+dl→p+p+p)": 4,
+  "merged×1(dl→p+p)": 12,
+  "merged×4(dl+p+dl+p→p+p+p+p+p+p+p+p)": 2,
+  "merged×2(p+dl→p+p+p+p+p)": 3,
+  "merged×5(dl+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+h1+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+dl+p→p+p+p+p)": 2,
+  "merged×2(dl+p→p+p+p)": 5,
+  "merged×5(p+dl+p+dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×4(dl+p+dl+p→p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p+p+p)": 3,
+  "merged×1(dl→p+p+p+p)": 5,
+  "merged×3(dl+p+dl→p+p+p+p+p+p+p)": 2,
+  "merged×1(dl→p+p+p+p+p+p)": 2,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 96,
+   "j": 138,
+   "ratio": 0.16,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(30) a. There is mud. b. λ s ∃ x mud( x )( s )",
+   "md_text": "(30)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 139,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "a. There is mud."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 140,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "b."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 141,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "λs ∃x mud(x)(s)"
+  },
+  {
+   "kind": "replace",
+   "i": 131,
+   "j": 198,
+   "ratio": 0.08602150537634409,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(40) a. There is more than five tons of mud. b. λ s ∃ x [mud( x )( s ) & f ⟦S⟧ ( x ) > 5]",
+   "md_text": "(40)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 199,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "a. There is more than five tons of mud."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 200,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "b."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 201,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "λs ∃x [mud(x)(s) & f ⟦S⟧ ⟦S⟧ ⟦S⟧ (x) > 5]"
+  },
+  {
+   "kind": "replace",
+   "i": 146,
+   "j": 227,
+   "ratio": 0.029411764705882353,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(46) a. Every time I sell two teapots on a single day, I am entitled to a $5 bonus. b. Every time I sell more than two teapots on a single day, I am entitled to a $5 bonus. c. Every time I sell between two and five teapots on a single day, I am entitled to a $5 bonus.",
+   "md_text": "(46)"
+  },
+  {
+   "kind": "replace",
+   "i": 147,
+   "j": 228,
+   "ratio": 0.09487666034155598,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Imagine that I sold exactly four teapots yesterday. 46(a) has an interpretation where I am entitled to a $10 bonus. On this reading, our quantification domain is some set of non-overlapping situations that are minimal situations in which I sold two teapots on the same day. Regardless of how we pair up yesterday’s four teapot sales to construct an acceptable counting domain, we always end up with exactly two bonus-qualifying situations. This shows that numeral expressions like two teapots do not obligatorily have maximalized interpretations. 46(a) contrasts with 46(b) and (c). 46(c) has no interpretation where I qualify for a $10 bonus if I sold four teapots yesterday. And 46(b) has no interpretation where I get $10 dollars if I sold six, for example. We can conclude, then, that numeral exp",
+   "md_text": "a. Every time I sell two teapots on a single day, I am entitled to a $5 bonus."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 229,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "b."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 230,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Every time I sell more than two teapots on a single day, I am entitled to a $5 bonus."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 231,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "c."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 232,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Every time I sell between two and five teapots on a single day, I am entitled to a $5 bonus."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 233,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Imagine that I sold exactly four teapots yesterday. 46(a) has an interpretation where I am entitled to a ⟦M⟧ 10 bonus if I sold four teapots yesterday. And 46(b) has no interpretation where I get $10 dollars if I sold six, for example. We can conclude, then, that numeral expressions of the form more than n NP or between n and m NP trigger denotations that are obligatorily maximalized, but this is not the case for simple numerals of the form n NP."
+  },
+  {
+   "kind": "replace",
+   "i": 168,
+   "j": 268,
+   "ratio": 0.1,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(55) λ s [λ x ∃ y caught( y )( x )( s ) = λ x ∃ y caught( y )( x )( w ⟦S⟧ )]",
+   "md_text": "(55)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 269,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "λs [λx ∃y caught(y)(x)(s) = λx ∃y caught(y)(x)(w ⟦S⟧ )]"
+  },
+  {
+   "kind": "replace",
+   "i": 185,
+   "j": 296,
+   "ratio": 0.09876543209876543,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(60) λ s [past( s ) & ∃ e [ e ≤ ⟦S⟧ s & swim(Ewan)( e ) & f ⟦S⟧ ( e ) = 10] ]",
+   "md_text": "(60)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 297,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "λs [past(s) & ∃e [e ≤ ⟦S⟧ s & swim(Ewan)(e) & f ⟦S⟧ ⟦S⟧ ⟦S⟧ ⟦S⟧ (e) = 10] ]"
+  }
+ ],
+ "spot": [
+  {
+   "i": 87,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "28(a) raises the question whether there ever are minimal situations or events in which snow falls. But even if there are, we do not quantify over them in this case. We also do not seem to rely on discrete scales for measuring portions of Super Supper. But even if we did, this would not help with 28(b). This sentence does not necessarily quantify over situations in which a cat eats just a little more than a can of Super Supper. Minimality also doesn’t seem to play a role for 28(c). If 28(c) quant",
+   "md_text": "28(a) raises the question whether there ever are minimal situations or events in which snow falls. But even if there are, we do not quantify over them in this case. We also do not seem to rely on discrete scales for measuring portions of Super Supper. But even if we did, this would not help with 28(b). This sentence does not necessarily quantify over situations in which a cat eats just a little more than a can of Super Supper. Minimality also doesn’t seem to play a role for 28(c). If 28(c) quant"
+  },
+  {
+   "i": 94,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Mud is a situation that consists of mud and only mud.",
+   "md_text": "Mud is a situation that consists of mud and only mud."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Situations in Natural Language Semantics",
+ "authors": [
+  "Kratzer, Angelika"
+ ]
+}

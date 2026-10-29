@@ -1,0 +1,223 @@
+{
+ "slug": "dewey-political",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 49,
+ "n_md": 52,
+ "n_pairs": 12,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990615363989811,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982976344741723,
+   "n_h": 13,
+   "n_m": 13,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997462759862498,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976391894550463,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984730881791577,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997770345596433,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9932885906040269,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9528301886792453,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "杜威的政治哲学 political philosophy (Matthew Festenstein)",
+  "zh_h1": "杜威的政治哲学 political philosophy (Matthew Festenstein)",
+  "yuanwen_h1": "Dewey’s Political Philosophy",
+  "html_title": "Dewey’s Political Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 26,
+  "blockquote→∅": 9,
+  "p→p": 4,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×13(p+blockquote+p+p+p+p+p+blockquote+p+blockquote+p+blockquote+p→p+blockquote+p+p+p+p+p+blockquote+p+blockquote+p+blockquote+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×5(p+blockquote+p+blockquote+p→p+blockquote+p+blockquote+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 41,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Dewey’s pragmatism was always highly contentious. A dominant view for much of the twentieth century, expounded by such diverse voices as Lewis Mumford (1926), Louis Hartz (1955), Bernard Crick (1959), Max Horkheimer (1974), Herbert Marcuse (2011), John Diggins (1994), and Sheldon Wolin (2004), was that pragmatism is a philosophy for liberal technocrats, an account of how to think flexibly about the achievement of socially endorsed parochial goals but with few resources to think critically about ",
+   "md_text": "Dewey’s pragmatism was always highly contentious. A dominant view for much of the twentieth century, expounded by such diverse voices as Lewis Mumford (1926), Louis Hartz (1955), Bernard Crick (1959), Max Horkheimer (1974), Herbert Marcuse (2011), John Diggins (1994), and Sheldon Wolin (2004), was that pragmatism is a philosophy for liberal technocrats, an account of how to think flexibly about the achievement of socially endorsed parochial goals but with few resources to think critically about "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Dewey’s Political Philosophy",
+ "authors": [
+  "Festenstein, Matthew"
+ ]
+}

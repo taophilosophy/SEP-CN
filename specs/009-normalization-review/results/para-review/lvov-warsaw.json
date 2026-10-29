@@ -1,0 +1,292 @@
+{
+ "slug": "lvov-warsaw",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 91,
+ "n_md": 93,
+ "n_pairs": 63,
+ "n_flags": 1,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9979919678714859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995615957913196,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979050279329609,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958018471872376,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938053097345133,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955882352941177,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9828178694158075,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9895441237975743,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997270245677889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974236290025764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9953488372093023,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957081545064378,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.994622398877718,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985431841831426,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976608187134502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9953488372093023,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "华沙学派 Lvov-Warsaw School (Jan Woleński)",
+  "zh_h1": "华沙学派 Lvov-Warsaw School (Jan Woleński)",
+  "yuanwen_h1": "Lvov-Warsaw School",
+  "html_title": "Lvov-Warsaw School",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 41,
+  "p→∅": 17,
+  "h3→h3": 10,
+  "blockquote→∅": 7,
+  "h4→h4": 1,
+  "dl→∅": 2,
+  "blockquote→blockquote": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×2(p+p→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 35,
+   "j": 35,
+   "ratio": 0.9161290322580645,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "[ pq ] :: p ↔ . q ↔ :.[ f ]:. f ( pf ( p [ u ]. u )). ↔ : [ r ]: f ( qr ). ↔ . q ↔ p",
+   "md_text": "[pq] :: p ↔ . q ↔ :.[f]:. f (pf (p [u]. u)). ↔ : [r]: f (qr). ↔ . q ↔ p"
+  }
+ ],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The development of logic in Warsaw had two subperiods in 1918–1939, namely 1918–1929 and 1929–1939. The first decade consisted in intensive teaching and scientific work at the seminars of Leśniewski and Łukasiewicz. Not many results were published at that time. The explosion of publications took place in 1929 and later. There are several factors which caused the development of mathematical logic in Poland. The Warsaw school of logic appears to be model case, but the power of this circle influenc",
+   "md_text": "The development of logic in Warsaw had two subperiods in 1918–1939, namely 1918–1929 and 1929–1939. The first decade consisted in intensive teaching and scientific work at the seminars of Leśniewski and Łukasiewicz. Not many results were published at that time. The explosion of publications took place in 1929 and later. There are several factors which caused the development of mathematical logic in Poland. The Warsaw school of logic appears to be model case, but the power of this circle influenc"
+  }
+ ],
+ "supplements": [
+  "seminar.html"
+ ],
+ "meta_title": "Lvov-Warsaw School",
+ "authors": [
+  "Woleński, Jan"
+ ]
+}

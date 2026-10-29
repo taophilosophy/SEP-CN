@@ -1,0 +1,592 @@
+{
+ "slug": "biology-developmental",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 130,
+ "n_md": 143,
+ "n_pairs": 66,
+ "n_flags": 12,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.9985628054038517,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995857497928749,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995953055443141,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99652714311826,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998507144380465,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998109640831758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9983278807706288,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982703236965653,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977773287532835,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968691296180339,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.991270611057226,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972360420121614,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989386542135428,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983922829581994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941176470588236,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9763313609467456,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986620283649986,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993227226549272,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979844514828679,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999043062200957,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994407158836689,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992520568436799,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992553983618764,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998745294855709,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984221719146601,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992094861660079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982905982905983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978667930789287,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9623287671232876,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "发育生物学 developmental biology (Alan Love and Yoshinari Yoshida)",
+  "zh_h1": "发育生物学 developmental biology (Alan Love and Yoshinari Yoshida)",
+  "yuanwen_h1": "Developmental Biology",
+  "html_title": "Developmental Biology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "h3→h3": 11,
+  "p→∅": 60,
+  "blockquote→blockquote": 9,
+  "p→p": 24,
+  "figure→p": 7,
+  "blockquote→∅": 3,
+  "ol→∅": 1,
+  "ol→ol": 2,
+  "ul→ul": 1,
+  "merged×1(p→p)": 13,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×5(p+p+ol+p+p→p+p+ol+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 7,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 8,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[three drawings, the first is like a balloon with a scrunched up human inside and a string hanging down, the second of a dangling human figure and the third of a somewhat larger dangling human figure.]](../assets/biology-developmental/Figure1.gif)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 17,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 18,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[6 columns by 2 rows. The second row is a sideways view of the item in the first row. The first column (A) has four orange colored cells labelled 'A', 'B', 'C', and 'D'. The second column (B) has 8 cells, the bigger lower orange ones labelled '1A', '1B', '1C', and '1D'; the smaller pink ones on top labelled '1a', '1b', '1c', and '1d'. The third column (C) has 12 cells with the bottom, orange, labelled '2A' through '2D', the middle, red, labelled '2a' through '2d' and the top, pink, labelled '1a' through '1d'. The fourth column (D) has 16 cells, bottom layer, orange, is '2A' through '2D', top, pink, is '1a1' through '1d1', the middle alternates between larger red cells labelled '2a' through '2d' and smaller beige cells labelled '1a2' through '1d2'. The fifth column (E) has at the bottom o"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 21,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 22,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A tree graph of 5 levels. The top node 'Multipotential hematopoietic stem cell (Hemocytoblast)' points back to itself as well as pointing to the next level. On the left 'Common myeloid progenitor' which points to 'Megakarycocyte' (which in turn points to 'Thrombocytes'), 'Erythrocyte', 'Mast cell', and 'Myeloblast' (which in turn points to 'Basophil', 'Neutrophil', 'Eosinophil', 'Monocyte' (which in turn points to 'Macrophage')). On the right 'Common lymphoid progenitor' which points to 'Natural killer cell (Large granual lymphocyte)' and 'Small lymphocyte' (which in turn points to 'T lymphocyte' and 'B lymphocyte' (which in turn points to 'Plasma cell')).]](../assets/biology-developmental/Figure3.svg)"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 24,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 4:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 84,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 6:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 85,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a color photo showing from the side a 0.1 x 0.03 inch (2.5 x 0.8 mm) small male Drosophila melanogaster fly with red eyes facing left.]](../assets/biology-developmental/Figure6.jpg)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 112,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 7:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 113,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[two color photos of leafed twigs each with a well camouflaged caterpillars (Biston betularia) looking like a branch, one green (on willow, right) and one brown (on birch, left).]](../assets/biology-developmental/Figure7.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 134,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Figure 1: “Preformation”, drawn by Nicolaas Hartsoeker (Essai de Dioptrique, 1694). Licensed under Public domain via Wikimedia Commons. http://commons.wikimedia.org/wiki/File:Preformation.GIF Figure 2: “Spiral cleavage in gastropod Trochus” by Morgan Q. Goulding, 2009, “Cell Lineage of the Ilyanassa Embryo: Evolutionary Acceleration of Regional Differentiation during Early Development“, PLoS ONE, 4(5): e5506, doi:10.1371/journal.pone.0005506, Figure 1 TIFF. Licensed under Creative Commons Attribution 2.5 via Wikimedia Commons. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005506 OR http://commons.wikimedia.org/wiki/File:Spiralcleavagein_Trochus.png Figure 3: “Hematopoiesis simple” by Mikael Häggström (no attribution required), from original by A. Rad (requires attributi"
+  }
+ ],
+ "spot": [
+  {
+   "i": 121,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This entry has only sampled a small portion of work relevant to the import and promise of conceptual reflection on the epistemology of developmental biology. Much more could be said about each of the above domains, such as a more fine-grained analysis of how normal stages operate as types in developmental biology (DiTeresi 2010; Lowe 2016). Additionally, little has been said about how evidence works in developmental biological experimentation, the nature of differences between confirmatory and e",
+   "md_text": "This entry has only sampled a small portion of work relevant to the import and promise of conceptual reflection on the epistemology of developmental biology. Much more could be said about each of the above domains, such as a more fine-grained analysis of how normal stages operate as types in developmental biology (DiTeresi 2010; Lowe 2016) . Additionally, little has been said about how evidence works in developmental biological experimentation, the nature of differences between confirmatory and "
+  },
+  {
+   "i": 7,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: An early modern depiction of a tiny person inside of a sperm exemplifying preformationist views.",
+   "md_text": "Figure 1: An early modern depiction of a tiny person inside of a sperm exemplifying preformationist views."
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Developmental Biology",
+ "authors": [
+  "Love, Alan",
+  "Yoshida, Yoshinari"
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "slug": "belief-merging",
+ "letter": "b",
+ "state": "ok",
+ "n_html": 89,
+ "n_md": 115,
+ "n_pairs": 32,
+ "n_flags": 0,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969030413721909,
+   "n_h": 6,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985207100591716,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993961352657005,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991363982727965,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976816074188563,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991967871485944,
+   "n_h": 6,
+   "n_m": 24,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982964224872232,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989588755856325,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973684210526316,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973645680819913,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982808022922636,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987220447284345,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9871559633027523,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998810232004759,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987749192560419,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989240370131267,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992337164750957,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9640287769784173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "信念合并与判断聚合 belief merging and judgment aggregation (Gabriella Pigozzi)",
+  "zh_h1": "信念合并与判断聚合 belief merging and judgment aggregation (Gabriella Pigozzi)",
+  "yuanwen_h1": "Belief Merging and Judgment Aggregation",
+  "html_title": "Belief Merging and Judgment Aggregation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 50,
+  "figure→∅": 2,
+  "p→p": 17,
+  "h3→h3": 4,
+  "dl→∅": 3,
+  "p→mathblock": 1,
+  "ol→ol": 2,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×6(p+p+figure+p+p+p→p+p+p+table+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×1(p→p)": 3,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×6(dl+p+p+p+p+dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×4(p+p+figure+p→p+p+p+table+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 54,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The distance-based approach can clarify the distinction between arbitration and majority operators. Leximax is an example of arbitration operator. A leximax operator may take d as the Hamming distance and, for each interpretation, the distances between that interpretation and the n bases ⟦M⟧ form a list. A pre-order over interpretations is defined by taking the lexicographical order between sequences of distances, fixing an order over the set of agents. Finally, ⟦M⟧ selects the minimum. The intu",
+   "md_text": "The distance-based approach can clarify the distinction between arbitration and majority operators. Leximax is an example of arbitration operator. A leximax operator may take d as the Hamming distance and, for each interpretation, the distances between that interpretation and the n bases ⟦M⟧ form a list. A pre-order over interpretations is defined by taking the lexicographical order between sequences of distances, fixing an order over the set of agents. Finally, ⟦M⟧ selects the minimum. The intu"
+  },
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Universal Domain: All profiles of consistent and complete (with respect to the agenda) judgment sets are accepted as input of the aggregation function. The profile of the doctrinal paradox in Table 1 is a legitimate input because the judges expressed acceptance or rejection on each issue in the agenda and their opinions respected the rule ⟦M⟧ .",
+   "md_text": "Universal Domain: All profiles of consistent and complete (with respect to the agenda) judgment sets are accepted as input of the aggregation function. The profile of the doctrinal paradox in Table 1 is a legitimate input because the judges expressed acceptance or rejection on each issue in the agenda and their opinions respected the rule ⟦M⟧ ."
+  },
+  {
+   "i": 45,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "⟦M⟧ ⟦M⟧ .",
+   "md_text": "⟦M⟧ ⟦M⟧ ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Belief Merging and Judgment Aggregation",
+ "authors": [
+  "Pigozzi, Gabriella"
+ ]
+}

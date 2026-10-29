@@ -1,0 +1,183 @@
+{
+ "slug": "fitness",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 70,
+ "n_md": 70,
+ "n_pairs": 58,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9995581087052585,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993569131832798,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974619289340102,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992387718853083,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994649545211343,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989594172736732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993220338983051,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992370572207084,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996785599485696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979166666666667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "适合度 fitness (Alexander Rosenberg and Frederic Bouchard)",
+  "zh_h1": "适合度 fitness (Alexander Rosenberg and Frederic Bouchard)",
+  "yuanwen_h1": "Fitness",
+  "html_title": "Fitness",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 37,
+  "blockquote→blockquote": 6,
+  "p→∅": 11,
+  "p→mathblock": 2,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "But how many such factors are there, and when do they play a non-zero role in fitness? The answer is that the number of such factors is probably indefinitely large. The reason for this is given by the facts about natural selection as Darwin and his successors uncovered them. The fact about selection which fates our “definition” either to being forever schematic or incomplete is the “arms-race” strategic character of evolutionary interaction. Since every strategy for enhancing reproductive fitnes",
+   "md_text": "But how many such factors are there, and when do they play a non-zero role in fitness? The answer is that the number of such factors is probably indefinitely large. The reason for this is given by the facts about natural selection as Darwin and his successors uncovered them. The fact about selection which fates our “definition” either to being forever schematic or incomplete is the “arms-race” strategic character of evolutionary interaction. Since every strategy for enhancing reproductive fitnes"
+  },
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In an intuitive sense, ‘fitness’ can refer to the correspondence between the shape of an object and an empty volume it is placed in: a square peg fits into a square hole. In a more abstract fashion, one might refer to the properties of an entity and how they correspond to the constraints of its context. In a biological setting one could focus on an organism’s traits and how they correspond to various aspects of the environment the organism is living in. Following biological usage, call this conc",
+   "md_text": "In an intuitive sense, ‘fitness’ can refer to the correspondence between the shape of an object and an empty volume it is placed in: a square peg fits into a square hole. In a more abstract fashion, one might refer to the properties of an entity and how they correspond to the constraints of its context. In a biological setting one could focus on an organism’s traits and how they correspond to various aspects of the environment the organism is living in. Following biological usage, call this conc"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Fitness",
+ "authors": [
+  "Rosenberg, Alexander",
+  "Bouchard, Frederic"
+ ]
+}

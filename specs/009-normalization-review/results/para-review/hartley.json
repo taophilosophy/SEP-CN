@@ -1,0 +1,435 @@
+{
+ "slug": "hartley",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 100,
+ "n_md": 104,
+ "n_pairs": 40,
+ "n_flags": 0,
+ "n_merged": 27,
+ "merged": [
+  {
+   "ratio": 0.9979147358665431,
+   "n_h": 3,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "pubinfo",
+    "preamble"
+   ],
+   "shape_m": [
+    "image",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986468200270636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990829894543787,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9876543209876543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h2"
+   ],
+   "shape_m": [
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9995302959135745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998158379373849,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987951807228915,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979123173277662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999670075882547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991668055324112,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994182664339732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990160708428993,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992652461425422,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973753280839895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994783515910276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982668977469671,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990069513406157,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993390614672836,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988955157941242,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992348890589136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990990990990991,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993188938836671,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993593850096092,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99938642778255,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987819732034104,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "大卫·哈特利 Hartley, David (Richard Allen)",
+  "zh_h1": "大卫·哈特利 Hartley, David (Richard Allen)",
+  "yuanwen_h1": "David Hartley",
+  "html_title": "David Hartley",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "p→∅": 48,
+  "pubinfo→∅": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 25,
+  "blockquote→blockquote": 4,
+  "h2→∅": 1,
+  "blockquote→∅": 9,
+  "ol→ol": 1,
+  "merged×3(p+pubinfo+preamble→image+p+p+p+p+p+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(h2→h2)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, others thought differently. During the ‘Priestley Riots’ in July 1791, a ‘Church and King’ mob burned Priestley’s home and laboratory to the ground. To the mob’s organizers and sympathizers, any work “Gunpowder Joe” Priestley praised so highly would be anathema. Thus, while the Observations kept its status as a “holy book” for those committed to religious, social and political reform, these were an embattled minority in England, especially during and after the French Revolution. In addi",
+   "md_text": "However, others thought differently. During the ‘Priestley Riots’ in July 1791, a ‘Church and King’ mob burned Priestley’s home and laboratory to the ground. To the mob’s organizers and sympathizers, any work “Gunpowder Joe” Priestley praised so highly would be anathema. Thus, while the Observations kept its status as a “holy book” for those committed to religious, social and political reform, these were an embattled minority in England, especially during and after the French Revolution. In addi"
+  },
+  {
+   "i": 85,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Imagination, where pleasure and displeasure derive from perceptions of, representations of, and interactions with ‘objects’ of all kinds. Ambition, where pleasure or pain derive from one’s desire for recognition and awareness of being an object of others’ attention and assessment. Self-interest, in three forms, with “gross” managing the demands of Imagination and Ambition, “refined” linked to Sympathy, and “rational” to Theopathy. It represents the potential pivot from egoism to altruism. Sympat",
+   "md_text": "Imagination, where pleasure and displeasure derive from perceptions of, representations of, and interactions with ‘objects’ of all kinds. Ambition, where pleasure or pain derive from one’s desire for recognition and awareness of being an object of others’ attention and assessment. Self-interest, in three forms, with “gross” managing the demands of Imagination and Ambition, “refined” linked to Sympathy, and “rational” to Theopathy. It represents the potential pivot from egoism to altruism. Sympat"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "David Hartley",
+ "authors": [
+  "Allen, Richard"
+ ]
+}

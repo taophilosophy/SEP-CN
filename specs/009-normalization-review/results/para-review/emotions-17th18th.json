@@ -1,0 +1,238 @@
+{
+ "slug": "emotions-17th18th",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 58,
+ "n_md": 59,
+ "n_pairs": 38,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989432898908066,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984557068650849,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999122550453349,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996513249651325,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984901862103673,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990875912408759,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996729532323122,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99933818663137,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9764705882352941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.965625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991532599491956,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "17 世纪和 18 世纪的情感理论 17th and 18th century theories of (Amy M. Schmitter)",
+  "zh_h1": "17 世纪和 18 世纪的情感理论 17th and 18th century theories of (Amy M. Schmitter)",
+  "yuanwen_h1": "17th and 18th Century Theories of Emotions",
+  "html_title": "17th and 18th Century Theories of Emotions",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 7,
+  "p→p": 22,
+  "p→∅": 17,
+  "blockquote→blockquote": 1,
+  "ul→ul": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(p→p)": 5,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As crucial bits of our psychology, the emotions are also important to epistemology. Here, though, the position of many early modern philosophers has often been misunderstood, especially when it is assumed that they oppose reason to the emotions, to the detriment of the latter. (We might call this the ‘Mr. Spock’ gloss on early modern philosophy.) It is true that many philosophers held that the emotions can sometimes lead our reasoning astray, and they offer various epistemic techniques to minimi",
+   "md_text": "As crucial bits of our psychology, the emotions are also important to epistemology. Here, though, the position of many early modern philosophers has often been misunderstood, especially when it is assumed that they oppose reason to the emotions, to the detriment of the latter. (We might call this the ‘Mr. Spock’ gloss on early modern philosophy.) It is true that many philosophers held that the emotions can sometimes lead our reasoning astray, and they offer various epistemic techniques to minimi"
+  },
+  {
+   "i": 49,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Descartes Hobbes Malebranche Spinoza Shaftesbury Hutcheson Hume",
+   "md_text": "Descartes Hobbes Malebranche Spinoza Shaftesbury Hutcheson Hume"
+  }
+ ],
+ "supplements": [
+  "LD1Background.html",
+  "LD2Descartes.html",
+  "LD3Hobbes.html",
+  "LD4Malebranche.html",
+  "LD5Spinoza.html",
+  "LD6Shaftesbury.html",
+  "LD7Hutcheson.html",
+  "LD8Hume.html"
+ ],
+ "meta_title": "17th and 18th Century Theories of Emotions",
+ "authors": [
+  "Schmitter, Amy M."
+ ]
+}

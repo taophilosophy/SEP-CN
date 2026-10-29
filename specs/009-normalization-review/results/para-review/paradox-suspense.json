@@ -1,0 +1,153 @@
+{
+ "slug": "paradox-suspense",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 51,
+ "n_md": 54,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9996137504828119,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992609016999261,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999379652605459,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998693948628646,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983525535420099,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995262908574135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988452655889145,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "悬疑悖论 suspense, paradox of (Aaron Smuts)",
+  "zh_h1": "悬疑悖论 suspense, paradox of (Aaron Smuts)",
+  "yuanwen_h1": "The Paradox of Suspense",
+  "html_title": "The Paradox of Suspense",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 29,
+  "p→∅": 8,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 13,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Regardless, the theory faces bigger problems, one of which is that there is reason to believe that entertained uncertainty is not necessary for suspense. There are numerous cases where knowledge of the outcome can make a narrative more, not less suspenseful. For instance, the first time one watches Hitchcock’s Psycho (1960), one may feel mild fear for Marion Crane as she chats with Norman Bates in the hotel office. Filled with stuffed, menacing birds, the office creates an aura of danger, but vi",
+   "md_text": "Regardless, the theory faces bigger problems, one of which is that there is reason to believe that entertained uncertainty is not necessary for suspense. There are numerous cases where knowledge of the outcome can make a narrative more, not less suspenseful. For instance, the first time one watches Hitchcock’s Psycho (1960), one may feel mild fear for Marion Crane as she chats with Norman Bates in the hotel office. Filled with stuffed, menacing birds, the office creates an aura of danger, but vi"
+  },
+  {
+   "i": 7,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Suspense requires uncertainty. Knowledge of a story’s outcome precludes uncertainty. People feel suspense in response to some stories when they have knowledge of the outcome.",
+   "md_text": "Suspense requires uncertainty. Knowledge of a story’s outcome precludes uncertainty. People feel suspense in response to some stories when they have knowledge of the outcome."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Paradox of Suspense",
+ "authors": [
+  "Smuts, Aaron"
+ ]
+}

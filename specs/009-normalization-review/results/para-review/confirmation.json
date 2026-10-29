@@ -1,0 +1,597 @@
+{
+ "slug": "confirmation",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 197,
+ "n_md": 220,
+ "n_pairs": 126,
+ "n_flags": 0,
+ "n_merged": 39,
+ "merged": [
+  {
+   "ratio": 0.999194847020934,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993293091884641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978213507625272,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991624790619765,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989412387506618,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988344988344988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997134670487106,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998109640831758,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990074441687344,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988974641675854,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992141453831042,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994532531437944,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989909182643795,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990779160903642,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994314951677089,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980509355509356,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998828010547905,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997867803837953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968573224387178,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9916897506925207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9916897506925207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9991111111111111,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988385598141696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985855728429985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988165680473373,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993618379068283,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988571428571429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981751824817519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969230769230769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9962406015037594,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986741796486576,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989094874591058,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999259807549963,
+   "n_h": 3,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994526546250684,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993256911665542,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994282447112636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981378026070763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9570552147239264,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "确证 confirmation (Vincenzo Crupi)",
+  "zh_h1": "确证 confirmation (Vincenzo Crupi)",
+  "yuanwen_h1": "Confirmation",
+  "html_title": "Confirmation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→p": 92,
+  "blockquote→blockquote": 1,
+  "p→∅": 61,
+  "h3→h3": 13,
+  "ol→ol": 10,
+  "ul→ul": 2,
+  "dl→∅": 4,
+  "ul→∅": 3,
+  "ol→∅": 1,
+  "p→mathblock": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 18,
+  "merged×2(p+dl→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×2(p+p→p+p)": 5,
+  "merged×4(p+p+dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(ul→ul)": 3,
+  "merged×1(ol→ol)": 1,
+  "merged×3(p+dl+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 140,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The importance of (CompE) can be illustrated as follows. Consider the case of a father suspected of abusing his child. Suppose that the child does claim that s/he has been abused (label this evidence ⟦M⟧ ). A forensic psychiatrist, when consulted, declares that this confirms guilt ⟦M⟧ . Alternatively, suppose that the child is asked and does not report having been abused ⟦M⟧ As pointed out by Dawes (2001), it may well happen that a forensic psychiatrist will nonetheless interpret this as evidenc",
+   "md_text": "The importance of (CompE) can be illustrated as follows. Consider the case of a father suspected of abusing his child. Suppose that the child does claim that s/he has been abused (label this evidence ⟦M⟧ ). A forensic psychiatrist, when consulted, declares that this confirms guilt ⟦M⟧ . Alternatively, suppose that the child is asked and does not report having been abused ⟦M⟧ As pointed out by Dawes (2001), it may well happen that a forensic psychiatrist will nonetheless interpret this as evidenc"
+  },
+  {
+   "i": 4,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Consider the formula or the law: ⟦M⟧ entails ⟦M⟧ . How can a particular proposition, or more briefly, a fact affect its probability? If this fact consists of the presence of ⟦M⟧ in a case of ⟦M⟧ , it is favourable to the law […]; on the contrary, if it consists of the absence of ⟦M⟧ in a case of ⟦M⟧ , it is unfavourable to this law. (219, notation slightly adapted)",
+   "md_text": "Consider the formula or the law: ⟦M⟧ entails ⟦M⟧ . How can a particular proposition, or more briefly, a fact affect its probability? If this fact consists of the presence of ⟦M⟧ in a case of ⟦M⟧ , it is favourable to the law […]; on the contrary, if it consists of the absence of ⟦M⟧ in a case of ⟦M⟧ , it is unfavourable to this law. (219, notation slightly adapted)"
+  },
+  {
+   "i": 12,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "evidence ⟦M⟧ directly Hempel-confirms hypothesis ⟦M⟧ if and only if ⟦M⟧ ; ⟦M⟧ Hempel-confirms ⟦M⟧ if and only if, for some ⟦M⟧ , ⟦M⟧ and ⟦M⟧ ; evidence ⟦M⟧ directly Hempel-disconfirms hypothesis ⟦M⟧ if and only if ⟦M⟧ ; ⟦M⟧ Hempel-disconfirms ⟦M⟧ if and only if, for some ⟦M⟧ and ⟦M⟧ ; evidence ⟦M⟧ is Hempel-neutral for hypothesis ⟦M⟧ otherwise.",
+   "md_text": "evidence ⟦M⟧ directly Hempel-confirms hypothesis ⟦M⟧ if and only if ⟦M⟧ ; ⟦M⟧ Hempel-confirms ⟦M⟧ if and only if, for some ⟦M⟧ , ⟦M⟧ and ⟦M⟧ ; evidence ⟦M⟧ directly Hempel-disconfirms hypothesis ⟦M⟧ if and only if ⟦M⟧ ; ⟦M⟧ Hempel-disconfirms ⟦M⟧ if and only if, for some ⟦M⟧ and ⟦M⟧ ; evidence ⟦M⟧ is Hempel-neutral for hypothesis ⟦M⟧ otherwise."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Confirmation",
+ "authors": [
+  "Crupi, Vincenzo"
+ ]
+}

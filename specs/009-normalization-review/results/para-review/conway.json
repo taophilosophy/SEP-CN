@@ -1,0 +1,172 @@
+{
+ "slug": "conway",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 31,
+ "n_md": 31,
+ "n_pairs": 19,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9992019154030327,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995814148179154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978768577494692,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999104744852283,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990917347865577,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934640522875817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9995444191343964,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984544049459042,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.954954954954955,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "安妮·康威 Conway, Lady Anne (Sarah Hutton)",
+  "zh_h1": "安妮·康威 Conway, Lady Anne (Sarah Hutton)",
+  "yuanwen_h1": "Lady Anne Conway",
+  "html_title": "Lady Anne Conway",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 9,
+  "p→p": 8,
+  "blockquote→∅": 2,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The framework of Conway’s system is a tripartite ontological hierarchy of “species”, the highest of which is God, the source of all being. Christ, or “Middle Nature”, links God and the third species, called “Creature”. God as the most perfect being is infinitely good, wise, and just communicates key attributes in a continuous process of emanative creation. Created substance, like God, consists of spirit. Since God is good and just, his creation too is good and just. All created substance is livi",
+   "md_text": "The framework of Conway’s system is a tripartite ontological hierarchy of “species”, the highest of which is God, the source of all being. Christ, or “Middle Nature”, links God and the third species, called “Creature”. God as the most perfect being is infinitely good, wise, and just communicates key attributes in a continuous process of emanative creation. Created substance, like God, consists of spirit. Since God is good and just, his creation too is good and just. All created substance is livi"
+  },
+  {
+   "i": 28,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Project Vox: Conway (1631–1679) (web site with profiles of modern women philosophers, plus teaching materials)",
+   "md_text": "Project Vox: Conway (1631–1679) (web site with profiles of modern women philosophers, plus teaching materials)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Lady Anne Conway",
+ "authors": [
+  "Hutton, Sarah"
+ ]
+}

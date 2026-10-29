@@ -1,0 +1,256 @@
+{
+ "slug": "content-causal",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 117,
+ "n_md": 119,
+ "n_pairs": 95,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9938461538461538,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978581627796288,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954545454545455,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982758620689656,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984051036682615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988984357788059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977777777777778,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928825622775801,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987325728770595,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9760765550239234,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959919839679359,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979777553083923,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977272727272727,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9823008849557522,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9767441860465116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9705882352941176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "心理内容的因果理论 causal theories of (Fred Adams and Ken Aizawa)",
+  "zh_h1": "心理内容的因果理论 causal theories of (Fred Adams and Ken Aizawa)",
+  "yuanwen_h1": "Causal Theories of Mental Content",
+  "html_title": "Causal Theories of Mental Content",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 18,
+  "p→p": 62,
+  "ol→ol": 3,
+  "h3→h3": 13,
+  "h4→h4": 3,
+  "figure→∅": 1,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 3,
+  "merged×1(p→p)": 11,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(figure→p+table+p)": 1,
+  "merged×1(blockquote→blockquote)": 3
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 17,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Suppose there is some syntactic item “X” that is a putative mental representation of a dog. Dogs will presumably cause tokens of “X”, but so might foxes at odd angles, with some obstructions, at a distance, or under poor lighting conditions. The causal theorist will need some principle that allows her to say that the causal links between dogs and “X”s will be content-determining, where the causal links between, say, foxes and “X”s will not. Mice and shrews, mules and donkeys, German Shepherds an",
+   "md_text": "Suppose there is some syntactic item “X” that is a putative mental representation of a dog. Dogs will presumably cause tokens of “X”, but so might foxes at odd angles, with some obstructions, at a distance, or under poor lighting conditions. The causal theorist will need some principle that allows her to say that the causal links between dogs and “X”s will be content-determining, where the causal links between, say, foxes and “X”s will not. Mice and shrews, mules and donkeys, German Shepherds an"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Causal Theories of Mental Content",
+ "authors": [
+  "Adams, Fred",
+  "Aizawa, Ken"
+ ]
+}

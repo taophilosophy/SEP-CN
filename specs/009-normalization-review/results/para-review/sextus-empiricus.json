@@ -1,0 +1,784 @@
+{
+ "slug": "sextus-empiricus",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 217,
+ "n_md": 238,
+ "n_pairs": 111,
+ "n_flags": 0,
+ "n_merged": 51,
+ "merged": [
+  {
+   "ratio": 0.9987995198079231,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983700081499592,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992914979757085,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "h4",
+    "p",
+    "h4",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h4",
+    "p",
+    "h4",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993103448275862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9941262848751835,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "ol",
+    "h2"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "ol",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.996100278551532,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965682910089224,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930511686670878,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9947229551451188,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997010463378176,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982788296041308,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974424552429667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987538940809969,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992169146436961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974619289340102,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9932432432432432,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976905311778291,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997275204359673,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980906921241051,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9893428063943162,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9985788725722407,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968963376784605,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968253968253968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9914965986394558,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9992790194664743,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949109414758269,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.997355896351137,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985358711566618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978405967805261,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967293540474244,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h4",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h4",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930761622156281,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911668991166899,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939733707077786,
+   "n_h": 6,
+   "n_m": 11,
+   "shape_h": [
+    "dl",
+    "p",
+    "h4",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h4",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977753058954394,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976529062543145,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975642760487144,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "h4",
+    "p",
+    "h4"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h4",
+    "p",
+    "h4"
+   ]
+  },
+  {
+   "ratio": 0.9976019184652278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975103734439834,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "h3"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.997983657009445,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ol",
+    "p",
+    "h3",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "h3",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9984520123839009,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9917808219178083,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989506820566632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971384547655734,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9981498612395929,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998470168281489,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970717423133236,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9996725248335334,
+   "n_h": 2,
+   "n_m": 13,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9935483870967742,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)",
+  "zh_h1": "塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)",
+  "yuanwen_h1": "Sextus Empiricus",
+  "html_title": "Sextus Empiricus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 59,
+  "h3→h3": 9,
+  "p→p": 58,
+  "h4→∅": 6,
+  "blockquote→∅": 27,
+  "ol→∅": 3,
+  "h2→∅": 1,
+  "blockquote→blockquote": 28,
+  "h4→h4": 4,
+  "ul→∅": 4,
+  "ol→ol": 1,
+  "ul→ul": 2,
+  "dl→∅": 3,
+  "h3→∅": 2,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 15,
+  "merged×7(h4+p+h4+p+blockquote+p+p→h4+p+h4+p+blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 7,
+  "merged×4(blockquote+p+ol+h2→blockquote+p+ol+h2)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 4,
+  "merged×4(p+blockquote+p+blockquote→p+blockquote+p+blockquote)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×1(ul→ul)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×3(p+h4+p→p+h4+p)": 1,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 2,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×6(dl+p+h4+p+blockquote+p→p+p+p+p+p+p+p+h4+p+blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×7(p+p+blockquote+p+blockquote+p+p→p+p+blockquote+p+blockquote+p+p)": 1,
+  "merged×5(p+p+h4+p+h4→p+p+h4+p+h4)": 1,
+  "merged×3(blockquote+p+h3→blockquote+p+h3)": 1,
+  "merged×5(ol+p+h3+p+blockquote→ol+p+h3+p+blockquote)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p+p+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 180,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "PH II 1–12: Can Skeptics investigate what the Dogmatists talk about? PH II 13: Where should the investigation of Dogmatism begin? PH II 14–17: Standards (or criteria) PH II 18–21: Is there a standard of truth? PH II 22–47: That by which PH II 48–69: That through which PH II 70–79: That in virtue of which PH II 80–84: Truths and Truth PH II 85–96: Is anything true by nature? PH II 97–103: Signs PH II 104–133: Are there any indicative signs? PH II 134–143: Proof PH II 144–192: Are there any proofs",
+   "md_text": "PH II 1–12: Can Skeptics investigate what the Dogmatists talk about? PH II 13: Where should the investigation of Dogmatism begin? PH II 14–17: Standards (or criteria) PH II 18–21: Is there a standard of truth? PH II 22–47: That by which PH II 48–69: That through which PH II 70–79: That in virtue of which PH II 80–84: Truths and Truth PH II 85–96: Is anything true by nature? PH II 97–103: Signs PH II 104–133: Are there any indicative signs? PH II 134–143: Proof PH II 144–192: Are there any proofs"
+  },
+  {
+   "i": 127,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The mode depending on the variations among animals (I 40–78); The mode depending on the differences among humans (I 79–90); The mode depending on the differing constitutions of the sense-organs (I 91–99); The mode depending on circumstance (I 100–117); The mode depending on positions and intervals and places (I 118–23); The mode depending on admixtures (I 124–28); The mode depending on the quantities and preparations of existing things (I 129–34); The mode deriving from relativity (I 135–40); Th",
+   "md_text": "The mode depending on the variations among animals (I 40–78); The mode depending on the differences among humans (I 79–90); The mode depending on the differing constitutions of the sense-organs (I 91–99); The mode depending on circumstance (I 100–117); The mode depending on positions and intervals and places (I 118–23); The mode depending on admixtures (I 124–28); The mode depending on the quantities and preparations of existing things (I 129–34); The mode deriving from relativity (I 135–40); Th"
+  }
+ ],
+ "supplements": [
+  "supplement1.html",
+  "supplement2.html",
+  "supplement3.html"
+ ],
+ "meta_title": "Sextus Empiricus",
+ "authors": [
+  "Morison, Benjamin"
+ ]
+}

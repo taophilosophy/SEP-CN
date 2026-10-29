@@ -1,0 +1,412 @@
+{
+ "slug": "perception-india",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 94,
+ "n_md": 95,
+ "n_pairs": 44,
+ "n_flags": 0,
+ "n_merged": 27,
+ "merged": [
+  {
+   "ratio": 0.9965484781926577,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958847736625515,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987331081081081,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984168865435357,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998330550918197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988901220865705,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987980769230769,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957446808510638,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975812953507122,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987577639751553,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9913606911447084,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991494187694925,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987829614604462,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991721854304636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990872210953347,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987822311642929,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946010797840432,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941348973607038,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995857497928749,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982445874780573,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999744832865527,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999126383226558,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99967958987504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977011494252873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99787785899552,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "古典印度哲学中的知觉经验与概念 perceptual experience and concepts (Monima Chadha)",
+  "zh_h1": "古典印度哲学中的知觉经验与概念 perceptual experience and concepts (Monima Chadha)",
+  "yuanwen_h1": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+  "html_title": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 41,
+  "p→p": 19,
+  "blockquote→∅": 8,
+  "h3→h3": 10,
+  "blockquote→blockquote": 4,
+  "ol→ol": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 71,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "There is an unusual view of the nature of particulars expressed in this passage. Dharmakīrti, following Dignāga, holds that the nature of a particular is one, unified. Sometimes he expresses this misleadingly by saying that a thing is “without parts” or “without aspects”, when what he probably means is that the different aspects of its nature are fused into one; they are inseparable, completely integrated. If one apprehends any part of the nature of a thing one must apprehend the thing in its e",
+   "md_text": "There is an unusual view of the nature of particulars expressed in this passage. Dharmakīrti, following Dignāga, holds that the nature of a particular is one, unified. Sometimes he expresses this misleadingly by saying that a thing is “without parts” or “without aspects”, when what he probably means is that the different aspects of its nature are fused into one; they are inseparable, completely integrated. If one apprehends any part of the nature of a thing one must apprehend the thing in its e"
+  },
+  {
+   "i": 77,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Proposition: The determinate perception of the form ‘a cow’ (or ‘that’s a cow’) is produced by the cognition of the qualifier. Reason: Because this is a qualificative cognition. Pervasion with an example: Every qualificative cognition is produced by a prior cognition of the qualifier, for example, inference. Application: The perception of the form ‘a cow’ is a qualificative cognition. Conclusion: Hence, it is produced by the cognition of the qualifier.",
+   "md_text": "Proposition: The determinate perception of the form ‘a cow’ (or ‘that’s a cow’) is produced by the cognition of the qualifier. Reason: Because this is a qualificative cognition. Pervasion with an example: Every qualificative cognition is produced by a prior cognition of the qualifier, for example, inference. Application: The perception of the form ‘a cow’ is a qualificative cognition. Conclusion: Hence, it is produced by the cognition of the qualifier."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+ "authors": [
+  "Chadha, Monima"
+ ]
+}

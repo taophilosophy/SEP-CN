@@ -1,0 +1,543 @@
+{
+ "slug": "ruth-barcan-marcus",
+ "letter": "r",
+ "state": "flagged",
+ "n_html": 268,
+ "n_md": 281,
+ "n_pairs": 221,
+ "n_flags": 5,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9990684676292502,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997763363900694,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999322951929587,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966405375139977,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965277777777778,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995208433157643,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995698924731182,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998109640831758,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9534883720930233,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961832061068703,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947916666666666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996981587684878,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960629921259843,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996219281663516,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993646759847522,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990867579908675,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976470588235294,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979035639412998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978568366909558,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994229659549914,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970588235294118,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984544049459042,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984044674910252,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951179820992677,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9787234042553191,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992389649923896,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9910979228486647,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978260869565218,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997979797979798,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993139721015322,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995431703974418,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9993050729673384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "露丝·巴肯·马库斯 Marcus, Ruth Barcan (Roberta Ballarin)",
+  "zh_h1": "露丝·巴肯·马库斯 Marcus, Ruth Barcan (Roberta Ballarin)",
+  "yuanwen_h1": "Ruth Barcan Marcus",
+  "html_title": "Ruth Barcan Marcus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 136,
+  "p→∅": 35,
+  "h3→h3": 10,
+  "ul→ul": 2,
+  "p→mathblock": 24,
+  "dl→∅": 5,
+  "ol→ol": 3,
+  "figure→∅": 1,
+  "blockquote→blockquote": 34,
+  "blockquote→∅": 5,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 21,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(dl+p→p+p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 3
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 38,
+   "j": 40,
+   "ratio": 0.23255813953488372,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "XXIX*. If ⟦M⟧ and if ⟦M⟧ then ⟦M⟧ .",
+   "md_text": "*XXIX.**"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 41,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "If ⟦M⟧ and if ⟦M⟧ then ⟦M⟧ ."
+  },
+  {
+   "kind": "replace",
+   "i": 86,
+   "j": 95,
+   "ratio": 0.20930232558139536,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: Valid implications in S2 ⟦P⟧ Figure 2: Valid implications in S4 ⟦P⟧",
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 96,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1: Valid implications in S2 ⟦P⟧"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 97,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2: Valid implications in S4 ⟦P⟧"
+  }
+ ],
+ "spot": [
+  {
+   "i": 165,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "I argued that unlike descriptions, ordinary proper names function like “tags;” that proper names are indifferent to scope in some contexts of indirect discourse where singular descriptions are not; that unlike different but coreferential descriptions, two proper names of the same object were intersubstitutable in modal contexts; that singular descriptions might sometimes be used as if they were proper names which can be measured by our use of the description to refer to the object whether or not",
+   "md_text": "I argued that unlike descriptions, ordinary proper names function like “tags;” that proper names are indifferent to scope in some contexts of indirect discourse where singular descriptions are not; that unlike different but coreferential descriptions, two proper names of the same object were intersubstitutable in modal contexts; that singular descriptions might sometimes be used as if they were proper names which can be measured by our use of the description to refer to the object whether or not"
+  },
+  {
+   "i": 16,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Barcan uses Greek letters in the metalanguage: upper case Greek letters represent well-formed formulas (wff’s) and lower case Greek letters represent (individual, propositional and functional) variables. Axioms are given as schemata, thus eliminating the need for Lewis’s rule of uniform substitution. Negation, conjunction, the existential quantifier and the possibility operator (the diamond ⟦M⟧ ) are taken as primitive. Disjunction, material implication (the conditional), material equivalence (t",
+   "md_text": "Barcan uses Greek letters in the metalanguage: upper case Greek letters represent well-formed formulas (wff’s) and lower case Greek letters represent (individual, propositional and functional) variables. Axioms are given as schemata, thus eliminating the need for Lewis’s rule of uniform substitution. Negation, conjunction, the existential quantifier and the possibility operator (the diamond ⟦M⟧ ) are taken as primitive. Disjunction, material implication (the conditional), material equivalence (t"
+  },
+  {
+   "i": 18,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Axiom Schemata ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ and ⟦M⟧ are individual variables, no free occurrence of ⟦M⟧ in ⟦M⟧ is in a wf’d part of ⟦M⟧ of the form ⟦M⟧ and ⟦M⟧ results from the substitution of ⟦M⟧ for all free occurrences of ⟦M⟧ in ⟦M⟧ . ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ . ⟦M⟧ Rules of Inference Modus Ponens for ⟦M⟧ : from ⟦M⟧ and ⟦M⟧ infer ⟦M⟧ . Adjunction: from ⟦M⟧ and ⟦M⟧ infer ⟦M⟧ . Substitution of Strict Equivalents: if ⟦M⟧ (where ⟦M⟧ , ⟦M⟧ , …, ⟦M⟧ are all the free vari",
+   "md_text": "Axiom Schemata ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ , where ⟦M⟧ and ⟦M⟧ are individual variables, no free occurrence of ⟦M⟧ in ⟦M⟧ is in a wf’d part of ⟦M⟧ of the form ⟦M⟧ and ⟦M⟧ results from the substitution of ⟦M⟧ for all free occurrences of ⟦M⟧ in ⟦M⟧ . ⟦M⟧ ⟦M⟧ , where ⟦M⟧ is not free in ⟦M⟧ . ⟦M⟧ Rules of Inference Modus Ponens for ⟦M⟧ : from ⟦M⟧ and ⟦M⟧ infer ⟦M⟧ . Adjunction: from ⟦M⟧ and ⟦M⟧ infer ⟦M⟧ . Substitution of Strict Equivalents: if ⟦M⟧ (where ⟦M⟧ , ⟦M⟧ , …, ⟦M⟧ are all the free vari"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Ruth Barcan Marcus",
+ "authors": [
+  "Ballarin, Roberta"
+ ]
+}

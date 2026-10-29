@@ -1,0 +1,289 @@
+{
+ "slug": "settheory-early",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 72,
+ "n_md": 76,
+ "n_pairs": 36,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9993804213135068,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944055944055944,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987995198079231,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996020692399522,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994934999155833,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980459208597948,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988597491448119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988713318284425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982025164769323,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998507017020006,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994068801897983,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999096657633243,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999205298013245,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966703662597114,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9974683544303797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "集合论：集合论的早期发展 early development (José Ferreirós)",
+  "zh_h1": "集合论：集合论的早期发展 early development (José Ferreirós)",
+  "yuanwen_h1": "The Early Development of Set Theory",
+  "html_title": "The Early Development of Set Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 26,
+  "ol→ol": 1,
+  "p→∅": 33,
+  "p→mathblock": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 4,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 35,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Nevertheless, as we said before, there was quite a lot of criticism of set-theoretic, infinitarian methods. As early as 1870, Kronecker had begun to voice critical remarks of a constructivist bent that, many years later, would be echoed by prominent thinkers like Brouwer or Wittgenstein. Kronecker’s critical orientation pointed in the way of renouncing the real number system and classical analysis, in favor of some more stringent form of analysis — twentieth century examples of this would be pre",
+   "md_text": "Nevertheless, as we said before, there was quite a lot of criticism of set-theoretic, infinitarian methods. As early as 1870, Kronecker had begun to voice critical remarks of a constructivist bent that, many years later, would be echoed by prominent thinkers like Brouwer or Wittgenstein. Kronecker’s critical orientation pointed in the way of renouncing the real number system and classical analysis, in favor of some more stringent form of analysis — twentieth century examples of this would be pre"
+  },
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The following year, Dedekind published a paper [1872] in which he provided an axiomatic analysis of the structure of the set ⟦M⟧ of real numbers. He defined it as an ordered field that is also complete (in the sense that all Dedekind-cuts on ⟦M⟧ correspond to an element in ⟦M⟧ ); completeness in that sense has the Archimedean axiom as a consequence. Cantor too provided a definition of ⟦M⟧ in 1872, employing Cauchy sequences of rational numbers, which was an elegant simplification of the definiti",
+   "md_text": "The following year, Dedekind published a paper [1872] in which he provided an axiomatic analysis of the structure of the set ⟦M⟧ of real numbers. He defined it as an ordered field that is also complete (in the sense that all Dedekind-cuts on ⟦M⟧ correspond to an element in ⟦M⟧ ); completeness in that sense has the Archimedean axiom as a consequence. Cantor too provided a definition of ⟦M⟧ in 1872, employing Cauchy sequences of rational numbers, which was an elegant simplification of the definiti"
+  },
+  {
+   "i": 4,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "It is not the case that actual infinity was universally rejected before Cantor. Set-theoretic views did not arise exclusively from analysis, but emerged also in algebra, number theory, and geometry. In fact, the rise of set-theoretic mathematics preceded Cantor’s crucial contributions.",
+   "md_text": "It is not the case that actual infinity was universally rejected before Cantor. Set-theoretic views did not arise exclusively from analysis, but emerged also in algebra, number theory, and geometry. In fact, the rise of set-theoretic mathematics preceded Cantor’s crucial contributions."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Early Development of Set Theory",
+ "authors": [
+  "Ferreirós, José"
+ ]
+}

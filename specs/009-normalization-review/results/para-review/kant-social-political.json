@@ -1,0 +1,221 @@
+{
+ "slug": "kant-social-political",
+ "letter": "k",
+ "state": "ok",
+ "n_html": 64,
+ "n_md": 66,
+ "n_pairs": 47,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9996025963703802,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997569866342649,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994117647058823,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999639379733141,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987819732034104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991836734693877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997618480590617,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996829422954978,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996787664632187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996324880558618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997459994919989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994068801897983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994987468671679,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "康德的社会与政治哲学 social and political philosophy (Frederick Rauscher)",
+  "zh_h1": "康德的社会与政治哲学 social and political philosophy (Frederick Rauscher)",
+  "yuanwen_h1": "Kant’s Social and Political Philosophy",
+  "html_title": "Kant’s Social and Political Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 13,
+  "p→∅": 15,
+  "p→p": 31,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 9,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Kant provides two distinct discussions of social contract. One concerns property and will be treated in more detail in section 5 below. The second discussion of social contract comes in the essay “Theory and Practice” in the context of an a priori restriction on the legitimate policies the sovereign may pursue. There is also a briefer statement in the Doctrine of Right (6:315–16). The sovereign must recognize the “original contract” as an idea of reason that forces the sovereign to “give his law",
+   "md_text": "Kant provides two distinct discussions of social contract. One concerns property and will be treated in more detail in section 5 below. The second discussion of social contract comes in the essay “Theory and Practice” in the context of an a priori restriction on the legitimate policies the sovereign may pursue. There is also a briefer statement in the Doctrine of Right (6:315–16). The sovereign must recognize the “original contract” as an idea of reason that forces the sovereign to “give his law"
+  },
+  {
+   "i": 13,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The freedom of every member of the state as a human being. The equality of each with every other as a subject. The independence of every member of a commonwealth as a citizen.",
+   "md_text": "The freedom of every member of the state as a human being. The equality of each with every other as a subject. The independence of every member of a commonwealth as a citizen."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Kant’s Social and Political Philosophy",
+ "authors": [
+  "Rauscher, Frederick"
+ ]
+}

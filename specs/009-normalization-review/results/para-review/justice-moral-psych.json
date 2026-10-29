@@ -1,0 +1,598 @@
+{
+ "slug": "justice-moral-psych",
+ "letter": "j",
+ "state": "flagged",
+ "n_html": 139,
+ "n_md": 162,
+ "n_pairs": 77,
+ "n_flags": 10,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9996858967647366,
+   "n_h": 1,
+   "n_m": 11,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988179669030733,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995157384987894,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974683544303797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987096774193548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977426636568849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987531172069826,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989523920381795,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990338164251208,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992800575953924,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992641648270787,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9990570485619991,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994921279837481,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994568169473113,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989373007438895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984152139461173,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982003599280144,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976966107272129,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973045822102425,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.956989247311828,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986257443884563,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994051160023796,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9888446215139443,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980732177263969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "分配正义与实证道德心理学 and empirical moral psychology (Christian B. Miller)",
+  "zh_h1": "分配正义与实证道德心理学 and empirical moral psychology (Christian B. Miller)",
+  "yuanwen_h1": "Distributive Justice and Empirical Moral Psychology",
+  "html_title": "Distributive Justice and Empirical Moral Psychology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 50,
+  "p→p": 52,
+  "ol→∅": 1,
+  "ol→ol": 1,
+  "blockquote→blockquote": 5,
+  "blockquote→∅": 2,
+  "table→table": 4,
+  "table→∅": 1,
+  "dl→∅": 6,
+  "ul→ul": 4,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p+p+p+p+blockquote+p+p+ol+p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(p→p)": 11,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+table→p+p+table)": 1,
+  "merged×1(dl→p+p)": 4,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 3,
+   "j": 13,
+   "ratio": 0.6808510638297872,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Ultimatum games have the following setup. Call one person the “offerer” and the other the “responder”, The offerer is informed that she can allocate a certain amount of a good. Suppose the good is money, such as $10, since that is the usual good chosen by experimenters in the literature. Next the offerer is instructed to make some offer to the responder—in our example, the offer could range between $0 and $10, inclusive. So the offerer can give away all the money, none of it, or something in-between. The only other piece of information that the offerer knows, standardly, is that the responder’s reaction matters when he is presented with her offer. If the responder accepts the offer, then both parties keep whatever the offer says (unless it is $0, in which case only one side keeps any money",
+   "md_text": "Ultimatum games have the following setup. Call one person the “offerer” and the other the “responder”, The offerer is informed that she can allocate a certain amount of a good. Suppose the good is money, such as ⟦M⟧ 0 and ⟦M⟧ 0, in which case only one side keeps any money). But if the responder rejects the offer, then neither side gets any money at all, and the game is done. Hence if the offer is to keep ⟦M⟧ 2, and the responder accepts this offer, then that is in fact the amount of money with which each side walks away. But if the responder rejects the offer, then each side walks away with $0."
+  },
+  {
+   "kind": "replace",
+   "i": 4,
+   "j": 14,
+   "ratio": 0.9253279515640767,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A couple of observations are important here. First, it is not essential to the game that the offerer know anything about the responder—he or she could be a complete stranger. Second and, as we will see, very importantly, it is not an essential feature of the game that the responder know how much money the offerer has to work with in the first place. So when the offer comes in at $2, the responder might have no idea whether that is all the money that the offerer has to allocate, or whether it is just a small amount out of $100, $10,000, or even higher. In many versions of the ultimatum game, the responder is told what the offerer has available. But the point to stress here is that this is an optional feature of the game. Finally, it is worth noting that the power dynamic in this game favors",
+   "md_text": "A couple of observations are important here. First, it is not essential to the game that the offerer know anything about the responder—he or she could be a complete stranger. Second and, as we will see, very importantly, it is not an essential feature of the game that the responder know how much money the offerer has to work with in the first place. So when the offer comes in at ⟦M⟧ 100, $10,000, or even higher. In many versions of the ultimatum game, the responder is told what the offerer has available. But the point to stress here is that this is an optional feature of the game. Finally, it is worth noting that the power dynamic in this game favors the offerer. The responder cannot make any counteroffers back in the hope of getting a bigger offer. He only has the threat of veto power. Bu"
+  },
+  {
+   "kind": "replace",
+   "i": 7,
+   "j": 17,
+   "ratio": 0.7399507793273175,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "But something surprising happened. Beginning with Werner Güth’s famous paper in 1982 (Güth et al. 1982), the first empirical studies that were actually conducted to see what people would do in this situation found a rather different result. Robert Forsythe and his colleagues, for instance, found that not one offerer kept the entire amount of $10, and that offers were instead distributed around the 50/50 split amount with 75% offering at least an equal amount (1994: 362). As we noted, this behavior by offerers is not what standard game theory would have predicted. Similarly, in a well-known paper Daniel Kahneman and his colleagues found that out of $10, the mean amount offered was $4.76 with 81% making equal split offers (1986: S291, see also Güth 1995).",
+   "md_text": "But something surprising happened. Beginning with Werner Güth’s famous paper in 1982 (Güth et al. 1982) , the first empirical studies that were actually conducted to see what people would do in this situation found a rather different result. Robert Forsythe and his colleagues, for instance, found that not one offerer kept the entire amount of ⟦M⟧ 10, the mean amount offered was $4.76 with 81% making equal split offers (1986: S291, see also Güth 1995) ."
+  },
+  {
+   "kind": "replace",
+   "i": 8,
+   "j": 18,
+   "ratio": 0.9056603773584906,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Surprising results were found for responders too. Kahneman also reports, for instance, that the mean of minimally acceptable (i.e., not rejected) offers was $2.59, with 58% demanding more than $1.50 (Kahneman et al. 1986: S291).",
+   "md_text": "Surprising results were found for responders too. Kahneman also reports, for instance, that the mean of minimally acceptable (i.e., not rejected) offers was ⟦M⟧ 1.50 (Kahneman et al. 1986: S291) ."
+  },
+  {
+   "kind": "replace",
+   "i": 11,
+   "j": 21,
+   "ratio": 0.870599317084658,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Paul Straub and J. Keith Murnighan (1995) varied the amount of information given to offerers and responders. Some offerers were told that responders would know the amount that the offerer had to work with, while other offerers were told that responders would not have this piece of information at their disposal when presented with the offer. If the fairness hypothesis is correct, this change of information should not matter. The average offer should be roughly the same in both conditions. But it wasn’t. In the scenario where the starting amount is $10, the mean offer made to responders was $4.05 in the complete information condition, but $3.14 in the partial information condition. When the amount was $80, the means were $30.73 and $23.00 respectively (Straub and Murnighan 1995: 353). A simi",
+   "md_text": "Paul Straub and J. Keith Murnighan (1995) varied the amount of information given to offerers and responders. Some offerers were told that responders would know the amount that the offerer had to work with, while other offerers were told that responders would not have this piece of information at their disposal when presented with the offer. If the fairness hypothesis is correct, this change of information should not matter. The average offer should be roughly the same in both conditions. But it wasn’t. In the scenario where the starting amount is ⟦M⟧ 4.05 in the complete information condition, but ⟦M⟧ 80, the means were ⟦M⟧ 23.00 respectively (Straub and Murnighan 1995: 353) . A similar disparity emerged when participants were responders, some of whom were told the amount that the offerer "
+  },
+  {
+   "kind": "replace",
+   "i": 18,
+   "j": 28,
+   "ratio": 0.8083941605839416,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "It turns out that this trend is not specific to ultimatum games—research on dictator games went through the same evolution. We said that ultimatum games are relatively simple two person games with an offerer and a responder. In the standard dictator setup, things are even simpler. Call the two people involved the “dictator” and the “recipient”, Using our $10 example, the dictator is told that she can give any amount between $0 and $10, inclusive, to another person. And whatever the dictator decides, that is the end of the story. So if the dictator wants to keep $8 and give $2 to the recipient, then that is what each person walks away with.",
+   "md_text": "It turns out that this trend is not specific to ultimatum games—research on dictator games went through the same evolution. We said that ultimatum games are relatively simple two person games with an offerer and a responder. In the standard dictator setup, things are even simpler. Call the two people involved the “dictator” and the “recipient”, Using our ⟦M⟧ 0 and ⟦M⟧ 8 and give $2 to the recipient, then that is what each person walks away with."
+  },
+  {
+   "kind": "replace",
+   "i": 20,
+   "j": 30,
+   "ratio": 0.9118895966029724,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "But once again, that is not what most participants actually did. In the same Forsythe study, while 21% gave nothing to the recipient, the remaining 79% gave something, with 21% giving an equal amount of the $10 (Forsythe et al. 1994: 362). Kahneman also ran a version of a dictator game where students in a psychology course could divide $20 with an anonymous fellow student, or keep $18 for themselves and give $2 to the other student. Strikingly, 76% choose the even division (Kahneman et al. 1986: S291). In addition, 74% of participants were subsequently willing to pay $1 to punish an unfair dictator and in the process reward a fair one, even though this would reduce their own monetary payment in the process (1986: S291). Van Dijk and Vermunt (2000) found that information asymmetries were no",
+   "md_text": "But once again, that is not what most participants actually did. In the same Forsythe study, while 21% gave nothing to the recipient, the remaining 79% gave something, with 21% giving an equal amount of the ⟦M⟧ 20 with an anonymous fellow student, or keep ⟦M⟧ 2 to the other student. Strikingly, 76% choose the even division (Kahneman et al. 1986: S291) . In addition, 74% of participants were subsequently willing to pay $1 to punish an unfair dictator and in the process reward a fair one, even though this would reduce their own monetary payment in the process (1986: S291). Van Dijk and Vermunt (2000) found that information asymmetries were not as prevalent as in ultimatum games. Specifically, there wasn’t a significant effect observed based on whether dictators knew that recipients were awar"
+  },
+  {
+   "kind": "replace",
+   "i": 26,
+   "j": 36,
+   "ratio": 0.7121139382301168,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "a. Avner Ben-Ner and Amit Kramer (2011) had participants learn some descriptive information about their partners, such that the partners ended up falling into one of four categories: kin, collaborator, neutral, or competitor. With $10 allocated to them initially, here is the average amount that participants gave to their partners: $4.91 for kin, $3.40 for collaborators, $2.49 for neutrals, and $1.99 for competitors. Only in the case of kin do we see a purely fair allocation on average. b. In the baseline condition of John List’s influential study (2007), both people in the dictator game setup were given $5 to start with. Then the dictator received another $5 and was given the chance to allocate anywhere from $0 to all $5 to the other person. Three additional conditions had interesting twis",
+   "md_text": "a. Avner Ben-Ner and Amit Kramer (2011) had participants learn some descriptive information about their partners, such that the partners ended up falling into one of four categories: kin, collaborator, neutral, or competitor. With ⟦M⟧ 4.91 for kin, ⟦M⟧ 2.49 for neutrals, and $1.99 for competitors. Only in the case of kin do we see a purely fair allocation on average. b. In the baseline condition of John List’s influential study (2007), both people in the dictator game setup were given ⟦M⟧ 5 and was given the chance to allocate anywhere from ⟦M⟧ 5 to the other person. Three additional conditions had interesting twists. In the Take ( ⟦M⟧ 1 from the other person. The Take ( ⟦M⟧ 5 to be taken from the other person (or ⟦M⟧ 5) except the dictator earned the $10 for performing a 30-minute task be"
+  },
+  {
+   "kind": "replace",
+   "i": 35,
+   "j": 45,
+   "ratio": 0.8279158699808795,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The second cautious note is that there have been some doubts raised about the external validity of dictator games, or the extent to which the results generated in these lab studies carry over to non-artificial or natural settings. For instance, Jeffrey Winking and Nicholas Mizer (2013) had a confederate approach an individual at a bus stop in Las Vegas, and “pretended to notice chips in his pocket, stopped briefly and claimed to the participant that he was late for a ride to the airport and asked the individual if he/she wanted the casino chips, which he did not have time to cash in,” and which were worth $20 (2013: 290). Ten feet away with his back turned to the participant was another confederate. The confederate with the chips would also add, “I don’t know, you can split it with that gu",
+   "md_text": "The second cautious note is that there have been some doubts raised about the external validity of dictator games, or the extent to which the results generated in these lab studies carry over to non-artificial or natural settings. For instance, Jeffrey Winking and Nicholas Mizer (2013) had a confederate approach an individual at a bus stop in Las Vegas, and “pretended to notice chips in his pocket, stopped briefly and claimed to the participant that he was late for a ride to the airport and asked the individual if he/she wanted the casino chips, which he did not have time to cash in,” and which were worth ⟦M⟧ 20 for themselves (2013: 291). Several writers have claimed that external validity might be limited because the laboratory results for dictator games could be heavily influenced by ex"
+  },
+  {
+   "kind": "replace",
+   "i": 92,
+   "j": 108,
+   "ratio": 0.9164133738601824,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Here is a general observation about the results we have seen in this essay. For each of the studies, there was rarely uniformity in behavior by all the participants in a particular situation. Indeed, in some cases there were striking differences. For instance, we saw that in the Forsythe study of dictator games, 21% gave nothing and 21% gave the equal amount of $10, leaving 58% somewhere in-between (Forsythe et al. 1994: 362). We also saw that many people would pay $9 to take an exit option in Dana’s dictator studies, but many people also would not (Dana et al. 2006). Or in Batson’s studies, many participants would assign themselves to the positive consequence task, but rarely would everyone do this.",
+   "md_text": "Here is a general observation about the results we have seen in this essay. For each of the studies, there was rarely uniformity in behavior by all the participants in a particular situation. Indeed, in some cases there were striking differences. For instance, we saw that in the Forsythe study of dictator games, 21% gave nothing and 21% gave the equal amount of ⟦M⟧ 9 to take an exit option in Dana’s dictator studies, but many people also would not (Dana et al. 2006) . Or in Batson’s studies, many participants would assign themselves to the positive consequence task, but rarely would everyone do this."
+  }
+ ],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "An important recent paper by Li and colleagues (2022) makes a powerful empirical case for such a multi-motive model. While not employing a pure dictator approach, the researchers develop a related game which is also designed to better understand the moral psychology of wealth distribution. In their redistribution game, the participant does not receive any money themselves, but they have to redistribute an initial distribution already made to two strangers. To take Li’s own example, suppose initi",
+   "md_text": "An important recent paper by Li and colleagues (2022) makes a powerful empirical case for such a multi-motive model. While not employing a pure dictator approach, the researchers develop a related game which is also designed to better understand the moral psychology of wealth distribution. In their redistribution game, the participant does not receive any money themselves, but they have to redistribute an initial distribution already made to two strangers. To take Li’s own example, suppose initi"
+  },
+  {
+   "i": 13,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Larger offers are made due to fear of rejection of smaller offers (Pillutla and Murnighan 1995: 1410–1411). Larger offers are made so long as one can enjoy appearing to be fair; otherwise smaller offers are made (Pillutla and Murnighan 1995: 1424; Camerer and Thaler 1995: 212).",
+   "md_text": "Larger offers are made due to fear of rejection of smaller offers (Pillutla and Murnighan 1995: 1410–1411) . Larger offers are made so long as one can enjoy appearing to be fair; otherwise smaller offers are made (Pillutla and Murnighan 1995: 1424; Camerer and Thaler 1995: 212) ."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Distributive Justice and Empirical Moral Psychology",
+ "authors": [
+  "Miller, Christian B."
+ ]
+}

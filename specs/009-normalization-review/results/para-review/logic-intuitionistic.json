@@ -1,0 +1,434 @@
+{
+ "slug": "logic-intuitionistic",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 230,
+ "n_md": 236,
+ "n_pairs": 190,
+ "n_flags": 0,
+ "n_merged": 30,
+ "merged": [
+  {
+   "ratio": 0.9993538660348912,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9846153846153847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999346832135859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993192648059904,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978571428571429,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948186528497409,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966996699669967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992619926199262,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981916817359855,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985052316890882,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958960328317373,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990338164251208,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983471074380166,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998661311914324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993319973279893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9863013698630136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9876543209876543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9629629629629629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988571428571429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983818770226537,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998745294855709,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976314542870678,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989594172736732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994229659549914,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989327641408752,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994972347913524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988038277511961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9944410129709698,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "直觉主义逻辑 intuitionistic (Joan Moschovakis)",
+  "zh_h1": "直觉主义逻辑 intuitionistic (Joan Moschovakis)",
+  "yuanwen_h1": "Intuitionistic Logic",
+  "html_title": "Intuitionistic Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 123,
+  "p→mathblock": 20,
+  "p→∅": 32,
+  "ul→ul": 17,
+  "h3→h3": 11,
+  "ul→∅": 2,
+  "dl→∅": 4,
+  "ol→ol": 4,
+  "blockquote→blockquote": 2,
+  "table→table": 3,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 20,
+  "merged×3(p+ul+p→p+ul+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×4(p+dl+p+dl→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 209,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One alternative to realizability semantics for intuitionistic arithmetic is Gödel’s [1958] “Dialectica” interpretation, which associates with each formula ⟦M⟧ of ⟦M⟧ a quantifier-free formula ⟦M⟧ in the language of intuitionistic arithmetic of all finite types. The “Dialectica” interpretation of ⟦M⟧ call it ⟦M⟧ is ⟦M⟧ If ⟦M⟧ is a closed theorem of ⟦M⟧ then ⟦M⟧ is provable for some term ⟦M⟧ in Gödel’s theory ⟦M⟧ of “primitive recursive” functionals of higher type. The translation from ⟦M⟧ to ⟦M⟧ ",
+   "md_text": "One alternative to realizability semantics for intuitionistic arithmetic is Gödel’s [1958] “Dialectica” interpretation, which associates with each formula ⟦M⟧ of ⟦M⟧ a quantifier-free formula ⟦M⟧ in the language of intuitionistic arithmetic of all finite types. The “Dialectica” interpretation of ⟦M⟧ call it ⟦M⟧ is ⟦M⟧ If ⟦M⟧ is a closed theorem of ⟦M⟧ then ⟦M⟧ is provable for some term ⟦M⟧ in Gödel’s theory ⟦M⟧ of “primitive recursive” functionals of higher type. The translation from ⟦M⟧ to ⟦M⟧ "
+  },
+  {
+   "i": 4,
+   "shape_h": "p",
+   "shape_m": "mathblock",
+   "html_text": "⟦M⟧",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "i": 15,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Intuitionistically, reductio ad absurdum only proves negative statements, since ⟦M⟧ does not hold in general. (If it did, LEM would follow by modus ponens from the intuitionistically provable ⟦M⟧ ) Intuitionistic propositional logic does not have a finite truth-table interpretation. There are infinitely many distinct axiomatic systems between intuitionistic and classical logic. Not every propositional formula has an intuitionistically equivalent disjunctive or conjunctive normal form, built from",
+   "md_text": "Intuitionistically, reductio ad absurdum only proves negative statements, since ⟦M⟧ does not hold in general. (If it did, LEM would follow by modus ponens from the intuitionistically provable ⟦M⟧ ) Intuitionistic propositional logic does not have a finite truth-table interpretation. There are infinitely many distinct axiomatic systems between intuitionistic and classical logic. Not every propositional formula has an intuitionistically equivalent disjunctive or conjunctive normal form, built from"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Intuitionistic Logic",
+ "authors": [
+  "Moschovakis, Joan"
+ ]
+}

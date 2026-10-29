@@ -1,0 +1,623 @@
+{
+ "slug": "future-contingents",
+ "letter": "f",
+ "state": "flagged",
+ "n_html": 231,
+ "n_md": 263,
+ "n_pairs": 173,
+ "n_flags": 1,
+ "n_merged": 43,
+ "merged": [
+  {
+   "ratio": 0.9991123735132257,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990610328638497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985549132947977,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9904761904761905,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983870967741936,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987966305655837,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995913363302003,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 10,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994229659549914,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993011879804332,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985528219971056,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996230682246513,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986962190352021,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952244508118434,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990069513406157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972451790633609,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979716024340771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982174688057041,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990755007704161,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985111662531018,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990338164251208,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977628635346756,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984723495264284,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99721059972106,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981055480378891,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977628635346756,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985935302390999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968454258675079,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973544973544973,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979716024340771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980732177263969,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960159362549801,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989035087719298,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991063449508489,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993192648059904,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978768577494692,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "未来偶然性 future contingents (Peter Øhrstrøm and Per Hasle)",
+  "zh_h1": "未来偶然性 future contingents (Peter Øhrstrøm and Per Hasle)",
+  "yuanwen_h1": "Future Contingents",
+  "html_title": "Future Contingents",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 122,
+  "p→∅": 44,
+  "dl→∅": 11,
+  "ol→ol": 4,
+  "blockquote→blockquote": 7,
+  "p→mathblock": 8,
+  "table→table": 13,
+  "h3→h3": 8,
+  "table→∅": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 21,
+  "merged×2(p+p→p+p)": 7,
+  "merged×1(dl→p+p+p+p+p+p)": 2,
+  "merged×1(dl→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(dl→p+p)": 5,
+  "merged×2(dl+p→p+p+p)": 2,
+  "merged×2(dl+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 131,
+   "j": 148,
+   "ratio": 0.4326923076923077,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "t ⟦M⟧ temp(m ⟦M⟧ ,c ⟦M⟧ t ⟦M⟧ temp(m ⟦M⟧ ,c) t ⟦M⟧ temp(m ⟦M⟧ ,c ⟦M⟧ t ⟦M⟧ temp(m ⟦M⟧ ,c)",
+   "md_text": "（嵌套表：| t ⟦M⟧ temp(m ⟦M⟧ ,c ⟦M⟧ | | --- | | t ⟦M⟧ temp(m ⟦M⟧ ,c) | | t ⟦M⟧ temp(m ⟦M⟧ ,c ⟦M⟧ | | t ⟦M⟧ temp(m ⟦M⟧ ,c) |）"
+  }
+ ],
+ "spot": [
+  {
+   "i": 161,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "(TRL1) and (TRL2′) are essential in a branching time structure with a TRL-function. This may be illustrated using a discrete tense-logic like the one mentioned in section 2. We shall assume that there are two functions, ⟦M⟧ and ⟦M⟧ , from TIME to TIME such that ⟦M⟧ is the moment just after ⟦M⟧ on ⟦M⟧ , and ⟦M⟧ is the moment just before ⟦M⟧ on ⟦M⟧ . The similarity to the “tomorrow” ⟦M⟧ and “yesterday” ⟦M⟧ of section 2 – and hence, to Prior’s considerations in (Prior 1967) – is worth noting, even ",
+   "md_text": "(TRL1) and (TRL2′) are essential in a branching time structure with a TRL-function. This may be illustrated using a discrete tense-logic like the one mentioned in section 2. We shall assume that there are two functions, ⟦M⟧ and ⟦M⟧ , from TIME to TIME such that ⟦M⟧ is the moment just after ⟦M⟧ on ⟦M⟧ , and ⟦M⟧ is the moment just before ⟦M⟧ on ⟦M⟧ . The similarity to the “tomorrow” ⟦M⟧ and “yesterday” ⟦M⟧ of section 2 – and hence, to Prior’s considerations in (Prior 1967) – is worth noting, even "
+  },
+  {
+   "i": 27,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Among other things, the logic of the expressions “tomorrow” and “yesterday” used in section 1 has been formalized by Prior who suggested that the two terms should be treated as propositional operators, ⟦M⟧ and ⟦M⟧ (1967, p. 67 ff.). This means that ⟦M⟧ and ⟦M⟧ should stand for the propositions “tomorrow it will be the case that ⟦M⟧ ” and “yesterday it was the case that ⟦M⟧ ”, respectively. Prior even suggested some basic axioms for the two operators",
+   "md_text": "Among other things, the logic of the expressions “tomorrow” and “yesterday” used in section 1 has been formalized by Prior who suggested that the two terms should be treated as propositional operators, ⟦M⟧ and ⟦M⟧ (1967, p. 67 ff.). This means that ⟦M⟧ and ⟦M⟧ should stand for the propositions “tomorrow it will be the case that ⟦M⟧ ” and “yesterday it was the case that ⟦M⟧ ”, respectively. Prior even suggested some basic axioms for the two operators"
+  },
+  {
+   "i": 15,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Either E is going to take place tomorrow or non-E is going to take place tomorrow. (Assumption). If a proposition about the past is true, then it is now necessary, i.e., inescapable or unpreventable. (Assumption). If E is going to take place tomorrow, then it is true that yesterday it was the case that E would take place in two days. (Assumption). If E is going to take place tomorrow, then it is now necessary that yesterday E would take place in two days. (Follows from 2. and 3.). If it is now n",
+   "md_text": "Either E is going to take place tomorrow or non-E is going to take place tomorrow. (Assumption). If a proposition about the past is true, then it is now necessary, i.e., inescapable or unpreventable. (Assumption). If E is going to take place tomorrow, then it is true that yesterday it was the case that E would take place in two days. (Assumption). If E is going to take place tomorrow, then it is now necessary that yesterday E would take place in two days. (Follows from 2. and 3.). If it is now n"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Future Contingents",
+ "authors": [
+  "Øhrstrøm, Peter",
+  "Hasle, Per"
+ ]
+}

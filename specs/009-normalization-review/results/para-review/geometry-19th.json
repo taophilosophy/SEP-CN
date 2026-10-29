@@ -1,0 +1,239 @@
+{
+ "slug": "geometry-19th",
+ "letter": "g",
+ "state": "ok",
+ "n_html": 64,
+ "n_md": 64,
+ "n_pairs": 37,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9965329370975731,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977280103862383,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956896551724138,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979324603721571,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962149886449659,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938398357289527,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952755905511811,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9954120345862009,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993346640053227,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992090172038758,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990978218842634,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938362195479894,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9848841115216661,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "19 世纪几何学 in the 19th century (Roberto Torretti)",
+  "zh_h1": "19 世纪几何学 in the 19th century (Roberto Torretti)",
+  "yuanwen_h1": "Nineteenth Century Geometry",
+  "html_title": "Nineteenth Century Geometry",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 22,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 7,
+  "p→p": 18,
+  "ol→∅": 1,
+  "h3→h3": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 6,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×4(ol+p+p+p→ol+p+p+p)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "In the nineteenth century, geometry, like most academic disciplines, went through a period of growth verging on cataclysm. During this period, the content of geometry and its internal diversity increased almost beyond recognition; the axiomatic method, vaunted since antiquity by the admirers of geometry, finally attained true logical sufficiency, and the ground was laid for replacing, in the description of physical phenomena, the standard geometry of Euclid by Riemann's wonderfully pliable syste",
+   "md_text": "In the nineteenth century, geometry, like most academic disciplines, went through a period of growth verging on cataclysm. During this period, the content of geometry and its internal diversity increased almost beyond recognition; the axiomatic method, vaunted since antiquity by the admirers of geometry, finally attained true logical sufficiency, and the ground was laid for replacing, in the description of physical phenomena, the standard geometry of Euclid by Riemann's wonderfully pliable syste"
+  }
+ ],
+ "supplements": [
+  "supplement.html",
+  "vita.html"
+ ],
+ "meta_title": "Nineteenth Century Geometry",
+ "authors": [
+  "Torretti, Roberto"
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "slug": "time-machine",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 55,
+ "n_md": 58,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9941792782305006,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992360580595875,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996816976127321,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994459833795014,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9894268224819143,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978017146625632,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987178222704409,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991655076495132,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9834254143646409,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977721441192287,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967298888162197,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963302752293578,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9905020352781547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "时间机器 time machines (John Earman, Christian Wüthrich, and JB Manchak)",
+  "zh_h1": "时间机器 time machines (John Earman, Christian Wüthrich, and JB Manchak)",
+  "yuanwen_h1": "Time Machines",
+  "html_title": "Time Machines",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 26,
+  "p→p": 12,
+  "figure→p": 3,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 27,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Another open question is whether physically more realistic spacetimes than Misner also permit the operation of time machines and how generic time-machine spacetimes are in particular spacetime theories, such as general relativity. If time-machine spacetimes turn out to be highly non-generic, the fan of time machines can retreat to a weaker concept of Thornian time machine by taking a page from probabilistic accounts of causation, the idea being that a time machine can be seen to be at work if it",
+   "md_text": "Another open question is whether physically more realistic spacetimes than Misner also permit the operation of time machines and how generic time-machine spacetimes are in particular spacetime theories, such as general relativity. If time-machine spacetimes turn out to be highly non-generic, the fan of time machines can retreat to a weaker concept of Thornian time machine by taking a page from probabilistic accounts of causation, the idea being that a time machine can be seen to be at work if it"
+  },
+  {
+   "i": 22,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "However, we still have no guarantee that if CTCs do bloom to the future of ⟦M⟧ , then the state on ⟦M⟧ is responsible for the blooming. Of course, we have already learned that we cannot have the iron clad guarantee of causal determinism that the state on ⟦M⟧ is responsible for the actual blooming in all of its particularity. But we might hope for a guarantee that the state on ⟦M⟧ is responsible for the blooming of some CTCs—the actual ones or others. The difference takes a bit of explaining. The",
+   "md_text": "However, we still have no guarantee that if CTCs do bloom to the future of ⟦M⟧ , then the state on ⟦M⟧ is responsible for the blooming. Of course, we have already learned that we cannot have the iron clad guarantee of causal determinism that the state on ⟦M⟧ is responsible for the actual blooming in all of its particularity. But we might hope for a guarantee that the state on ⟦M⟧ is responsible for the blooming of some CTCs—the actual ones or others. The difference takes a bit of explaining. The"
+  },
+  {
+   "i": 12,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. Misner spacetime",
+   "md_text": "Figure 1. Misner spacetime"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Time Machines",
+ "authors": [
+  "Earman, John",
+  "Wüthrich, Christian",
+  "Manchak, JB"
+ ]
+}

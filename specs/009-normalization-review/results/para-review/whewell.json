@@ -1,0 +1,163 @@
+{
+ "slug": "whewell",
+ "letter": "w",
+ "state": "ok",
+ "n_html": 41,
+ "n_md": 42,
+ "n_pairs": 26,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.999456029011786,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995987158908507,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992211838006231,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995419147961521,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997613365155131,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985415653864852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994128009395185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995112414467253,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "威廉·惠威尔 Whewell, William (Laura J. Snyder)",
+  "zh_h1": "威廉·惠威尔 Whewell, William (Laura J. Snyder)",
+  "yuanwen_h1": "William Whewell",
+  "html_title": "William Whewell",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 16,
+  "p→∅": 13,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Mill also criticized Whewell’s claim that moral rules are necessary truths which are self-evident. Mill took this to mean that there can be no progress in morality—what is self-evident must always remain so—and thus to the further conclusion that Whewell believed the current rules of society to be necessary truths. Such a view would tend to support the status quo, as Mill rightly complained. (Thus he, rather unfairly. accused Whewell of justifying evil practices such as cruelty to animals, force",
+   "md_text": "Mill also criticized Whewell’s claim that moral rules are necessary truths which are self-evident. Mill took this to mean that there can be no progress in morality—what is self-evident must always remain so—and thus to the further conclusion that Whewell believed the current rules of society to be necessary truths. Such a view would tend to support the status quo, as Mill rightly complained. (Thus he, rather unfairly. accused Whewell of justifying evil practices such as cruelty to animals, force"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "William Whewell",
+ "authors": [
+  "Snyder, Laura J."
+ ]
+}

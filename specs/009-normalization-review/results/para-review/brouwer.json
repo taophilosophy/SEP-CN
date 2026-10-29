@@ -1,0 +1,251 @@
+{
+ "slug": "brouwer",
+ "letter": "b",
+ "state": "ok",
+ "n_html": 87,
+ "n_md": 89,
+ "n_pairs": 69,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994166828699202,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944444444444445,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992663242846662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954128440366973,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972144846796658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992503748125937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953488372093023,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986320109439124,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972451790633609,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986962190352021,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988974641675854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991341991341991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998639455782313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9710144927536232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "勒伊岑·艾赫贝特斯·扬·布劳威尔 Brouwer, Luitzen Egbertus Jan (Mark van Atten)",
+  "zh_h1": "勒伊岑·艾赫贝特斯·扬·布劳威尔 Brouwer, Luitzen Egbertus Jan (Mark van Atten)",
+  "yuanwen_h1": "Luitzen Egbertus Jan Brouwer",
+  "html_title": "Luitzen Egbertus Jan Brouwer",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→p": 59,
+  "p→∅": 16,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 12,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 71,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The basic theorems of intuitionistic analysis — the bar theorem, fan theorem, and continuity theorem — are in “On the Domains of Definition of Functions” of 1927. The first two are structural theorems on spreads; the third (not to be confused with the continuity principle for choice sequences) states that every total function ⟦M⟧ is continuous and even uniformly continuous. The fan theorem is, in fact, a corollary of the bar theorem; combined with the continuity principle, which is not classical",
+   "md_text": "The basic theorems of intuitionistic analysis — the bar theorem, fan theorem, and continuity theorem — are in “On the Domains of Definition of Functions” of 1927. The first two are structural theorems on spreads; the third (not to be confused with the continuity principle for choice sequences) states that every total function ⟦M⟧ is continuous and even uniformly continuous. The fan theorem is, in fact, a corollary of the bar theorem; combined with the continuity principle, which is not classical"
+  },
+  {
+   "i": 66,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "With this view in place, Brouwer sets out to reconstruct Cantorian set theory. When an attempt (in a draft of the dissertation) at making constructive sense out of Cantor’s second number class (the class of all denumerably infinite ordinals) and higher classes of even greater ordinals fails, he realises that this cannot be done and rejects the higher number classes, leaving only all finite ordinals and an unfinished or open-ended collection of denumerably infinite ordinals. Thus, as a consequenc",
+   "md_text": "With this view in place, Brouwer sets out to reconstruct Cantorian set theory. When an attempt (in a draft of the dissertation) at making constructive sense out of Cantor’s second number class (the class of all denumerably infinite ordinals) and higher classes of even greater ordinals fails, he realises that this cannot be done and rejects the higher number classes, leaving only all finite ordinals and an unfinished or open-ended collection of denumerably infinite ordinals. Thus, as a consequenc"
+  },
+  {
+   "i": 81,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Review of Hesseling’s Gnomes in the Fog in the Bulletin of Symbolic Logic (Postscript). Dirk van Dalen’s Brouwer bibliography (PDF). A photo of Brouwer’s grave at the Woensberg Cemetery in Blaricum, The Netherlands.",
+   "md_text": "Review of Hesseling’s Gnomes in the Fog in the Bulletin of Symbolic Logic (Postscript). Dirk van Dalen’s Brouwer bibliography (PDF). A photo of Brouwer’s grave at the Woensberg Cemetery in Blaricum, The Netherlands."
+  }
+ ],
+ "supplements": [
+  "strongcounterex.html",
+  "weakcounterex.html"
+ ],
+ "meta_title": "Luitzen Egbertus Jan Brouwer",
+ "authors": [
+  "van Atten, Mark"
+ ]
+}

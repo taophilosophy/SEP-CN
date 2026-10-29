@@ -1,0 +1,171 @@
+{
+ "slug": "qt-entangle",
+ "letter": "q",
+ "state": "ok",
+ "n_html": 56,
+ "n_md": 56,
+ "n_pairs": 45,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.999479618386817,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991126885536823,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9997006884166417,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979296066252588,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995489400090212,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994029850746269,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993986770895971,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998911860718172,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9903489235337788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "量子纠缠与信息 quantum entanglement and information (Jeffrey Bub)",
+  "zh_h1": "量子纠缠与信息 quantum entanglement and information (Jeffrey Bub)",
+  "yuanwen_h1": "Quantum Entanglement and Information",
+  "html_title": "Quantum Entanglement and Information",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 8,
+  "p→p": 30,
+  "blockquote→∅": 2,
+  "blockquote→blockquote": 4,
+  "ul→∅": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×1(p→p)": 6,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "What is extraordinary about this phenomenon is that Alice and Bob have managed to use their shared entangled state as a quantum communication channel to destroy the state ⟦M⟧ of a photon in Alice’s part of the universe and recreate it in Bob’s part of the universe. Since the linear polarization state of a photon requires specifying a direction in space (the value of an angle that can vary continuously), without a shared entangled state Alice would have to convey an infinite amount of classical i",
+   "md_text": "What is extraordinary about this phenomenon is that Alice and Bob have managed to use their shared entangled state as a quantum communication channel to destroy the state ⟦M⟧ of a photon in Alice’s part of the universe and recreate it in Bob’s part of the universe. Since the linear polarization state of a photon requires specifying a direction in space (the value of an angle that can vary continuously), without a shared entangled state Alice would have to convey an infinite amount of classical i"
+  },
+  {
+   "i": 17,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Consider again Schrödinger’s realization that an entangled state could be used to steer a distant particle into one of a set of states, with a certain probability. In fact, this possibility of ‘remote steering’ is even more dramatic than Schrödinger demonstrated. Suppose Alice and Bob share an entangled pure state of the sort considered by Bell, say two photons in an entangled state of polarization, where Alice has in her possession one of the entangled photons, and Bob has the second paired pho",
+   "md_text": "Consider again Schrödinger’s realization that an entangled state could be used to steer a distant particle into one of a set of states, with a certain probability. In fact, this possibility of ‘remote steering’ is even more dramatic than Schrödinger demonstrated. Suppose Alice and Bob share an entangled pure state of the sort considered by Bell, say two photons in an entangled state of polarization, where Alice has in her possession one of the entangled photons, and Bob has the second paired pho"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Quantum Entanglement and Information",
+ "authors": [
+  "Bub, Jeffrey"
+ ]
+}

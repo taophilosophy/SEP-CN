@@ -1,0 +1,593 @@
+{
+ "slug": "bruno",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 97,
+ "n_md": 119,
+ "n_pairs": 37,
+ "n_flags": 18,
+ "n_merged": 24,
+ "merged": [
+  {
+   "ratio": 0.9993916041370918,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994301994301994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997563946406821,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994162288382954,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958333333333333,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999259807549963,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986422267481331,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989113530326594,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998609446175977,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986603554523533,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971240755957272,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985177865612648,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940994661421748,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996645318694724,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972118959107806,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998157762518841,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979838709677419,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969084003179931,
+   "n_h": 7,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990870914734343,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991474850809889,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983598284128186,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957325746799431,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9509001636661211,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)",
+  "zh_h1": "乔尔丹诺·布鲁诺 Bruno, Giordano (Dilwyn Knox)",
+  "yuanwen_h1": "Giordano Bruno",
+  "html_title": "Giordano Bruno",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 14,
+  "p→∅": 57,
+  "p→p": 13,
+  "blockquote→blockquote": 1,
+  "figure→p": 3,
+  "h3→h3": 3,
+  "table→table": 1,
+  "figure→∅": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p+p)": 1,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+figure→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 93,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "BOI"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 94,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Bruno, Opere italiane, ed. Aquilecchia, listed below."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "BOL"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 96,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Bruno, Opere latine conscripta, as listed below."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 97,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "BW"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Bruno, Werke, as listed below."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 99,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "DK"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 100,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Diels and Kranz, as listed below."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 101,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "KJV"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 102,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Bible, King James Version, as listed below."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 103,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Primary Literature"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 104,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Works by Bruno"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 105,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Documents relating to Bruno’s life and trial"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 106,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Other primary sources"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 107,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 108,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Studies cited in this entry and selected studies"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 109,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Bibliographies (ordered chronologically)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 110,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Additional Resources"
+  }
+ ],
+ "spot": [
+  {
+   "i": 88,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Circumstances could scarcely have been more propitious for heterodox Renaissance thinkers such as Telesio, Tommaso Campanella, Galileo and, above all, Bruno. For many Italians, his philosophy, heroic defiance of ecclesiastical authority and execution exemplified the long struggle to free philosophy from the trammels of revealed religion. Popular versions of Bruno’s life and death likened him to Socrates, Christ or, nearer home, martyrs of the Risorgimento. This adulation found its most visible e",
+   "md_text": "Circumstances could scarcely have been more propitious for heterodox Renaissance thinkers such as Telesio, Tommaso Campanella, Galileo and, above all, Bruno. For many Italians, his philosophy, heroic defiance of ecclesiastical authority and execution exemplified the long struggle to free philosophy from the trammels of revealed religion. Popular versions of Bruno’s life and death likened him to Socrates, Christ or, nearer home, martyrs of the Risorgimento. This adulation found its most visible e"
+  },
+  {
+   "i": 17,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: Peter Apian, Cosmographicus liber (1524, p. 6). The woodcut typifies the medieval and Renaissance picture of the cosmos that Bruno sought to discredit. At the centre lies the terraqueous globe, understood as a combination of the earth and water spheres. Surrounding them are the concentric spheres of the other two sublunary elements, air and fire. Beyond the fire sphere is the superlunary region, which comprises: (a) seven spheres, each of which carries a planet—the moon, Mercury, Venus",
+   "md_text": "Figure 1: Peter Apian, Cosmographicus liber (1524, p. 6). The woodcut typifies the medieval and Renaissance picture of the cosmos that Bruno sought to discredit. At the centre lies the terraqueous globe, understood as a combination of the earth and water spheres. Surrounding them are the concentric spheres of the other two sublunary elements, air and fire. Beyond the fire sphere is the superlunary region, which comprises: (a) seven spheres, each of which carries a planet—the moon, Mercury, Venus"
+  }
+ ],
+ "supplements": [
+  "figdesc.html"
+ ],
+ "meta_title": "Giordano Bruno",
+ "authors": [
+  "Knox, Dilwyn"
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "slug": "wilhelm-windelband",
+ "letter": "w",
+ "state": "ok",
+ "n_html": 103,
+ "n_md": 107,
+ "n_pairs": 83,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9990651293237769,
+   "n_h": 1,
+   "n_m": 5,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996694214876033,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994101686917541,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963369963369964,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988958410011042,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970972423802612,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990990990990991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990654205607477,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976470588235294,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989184512221502,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991742361684558,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998804780876494,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "威廉·文德尔班 Windelband, Wilhelm (Katherina Kinzel)",
+  "zh_h1": "威廉·文德尔班 Windelband, Wilhelm (Katherina Kinzel)",
+  "yuanwen_h1": "Wilhelm Windelband",
+  "html_title": "Wilhelm Windelband",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 59,
+  "p→∅": 17,
+  "blockquote→∅": 2,
+  "blockquote→blockquote": 12,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 23,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Windelband uses the terms “axioms” and “values” interchangeably to refer to the most fundamental rules, and he uses the term “norms” often, but not fully consistently to refer to values or axioms as they relate to psychological experience and the cultural-historical world. Focusing his interpretation on “values” and “norms”, Windelband captures the structural similarity of Kant’s three Critiques in terms of immanent truth: if truth is nothing other than accordance with a rule, then there is mora",
+   "md_text": "Windelband uses the terms “axioms” and “values” interchangeably to refer to the most fundamental rules, and he uses the term “norms” often, but not fully consistently to refer to values or axioms as they relate to psychological experience and the cultural-historical world. Focusing his interpretation on “values” and “norms”, Windelband captures the structural similarity of Kant’s three Critiques in terms of immanent truth: if truth is nothing other than accordance with a rule, then there is mora"
+  },
+  {
+   "i": 100,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Windelband’s works in Heidelberger historische Bestände digital",
+   "md_text": "Windelband’s works in Heidelberger historische Bestände digital"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Wilhelm Windelband",
+ "authors": [
+  "Kinzel, Katherina"
+ ]
+}

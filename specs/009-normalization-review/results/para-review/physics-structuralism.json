@@ -1,0 +1,165 @@
+{
+ "slug": "physics-structuralism",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 98,
+ "n_md": 98,
+ "n_pairs": 89,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9730458221024259,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969418960244648,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985507246376811,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991334488734835,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995862639635912,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992301770592764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989615784008308,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "物理学中的结构主义 structuralism in (Heinz-Juergen Schmidt)",
+  "zh_h1": "物理学中的结构主义 structuralism in (Heinz-Juergen Schmidt)",
+  "yuanwen_h1": "Structuralism in Physics",
+  "html_title": "Structuralism in Physics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 8,
+  "ul→ul": 5,
+  "p→p": 47,
+  "blockquote→blockquote": 2,
+  "h3→h3": 15,
+  "h4→h4": 9,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 8,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 53,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "⟦M⟧ : A class of potential models (the theory’s conceptual framework. [One potential model contains a set of particles, a set of springs together with their spring constants, the masses of the particles, as well as their positions and mutual forces as functions of time.] ⟦M⟧ : A class of actual models (the theory’s empirical laws). [ ⟦M⟧ is the subclass of potential models satisfying the system’s equation of motion. ] ⟦M⟧ : A model-element (the absolutely necessary portion of a theory) ⟦M⟧ : A c",
+   "md_text": "⟦M⟧ : A class of potential models (the theory’s conceptual framework. [One potential model contains a set of particles, a set of springs together with their spring constants, the masses of the particles, as well as their positions and mutual forces as functions of time.] ⟦M⟧ : A class of actual models (the theory’s empirical laws). [ ⟦M⟧ is the subclass of potential models satisfying the system’s equation of motion. ] ⟦M⟧ : A model-element (the absolutely necessary portion of a theory) ⟦M⟧ : A c"
+  },
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A physical theory ⟦M⟧ consists, among other things, of a group of laws which are formulated in terms of certain concepts. But an apparent circularity arises when one considers how the laws of ⟦M⟧ and the concepts acquire their content, because each seems to acquire content from the other — the laws of ⟦M⟧ acquire their content from the concepts used in the formulation of the laws, while the concepts are often “introduced” or “defined” by the group of laws as a whole. To be sure, if the concepts ",
+   "md_text": "A physical theory ⟦M⟧ consists, among other things, of a group of laws which are formulated in terms of certain concepts. But an apparent circularity arises when one considers how the laws of ⟦M⟧ and the concepts acquire their content, because each seems to acquire content from the other — the laws of ⟦M⟧ acquire their content from the concepts used in the formulation of the laws, while the concepts are often “introduced” or “defined” by the group of laws as a whole. To be sure, if the concepts "
+  },
+  {
+   "i": 4,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "linguistics [F. de Saussure (1857–1913)], anthropology [C. Lévi-Strauss (1908–2009)], mathematics [N. Bourbaki (1935–), collective pseudonym], philosophy of science [J. D. Sneed (1938–), W. Stegmüller (1923–1991)].",
+   "md_text": "linguistics [F. de Saussure (1857–1913)], anthropology [C. Lévi-Strauss (1908–2009)], mathematics [N. Bourbaki (1935–), collective pseudonym], philosophy of science [J. D. Sneed (1938–), W. Stegmüller (1923–1991)]."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Structuralism in Physics",
+ "authors": [
+  "Schmidt, Heinz-Juergen"
+ ]
+}

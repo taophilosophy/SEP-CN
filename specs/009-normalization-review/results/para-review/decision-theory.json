@@ -1,0 +1,864 @@
+{
+ "slug": "decision-theory",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 233,
+ "n_md": 251,
+ "n_pairs": 132,
+ "n_flags": 13,
+ "n_merged": 50,
+ "merged": [
+  {
+   "ratio": 0.9991776315789473,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "preamble",
+    "h2",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9906088589763656,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962917181705809,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979770734996628,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968992248062015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992652461425422,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9886547811993517,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9590643274853801,
+   "n_h": 6,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "figure",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993957703927493,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978947368421053,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9809725158562368,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9615384615384616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995760915642221,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9915966386554622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929078014184397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971401334604385,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9846153846153847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979838709677419,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995260663507109,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976992261033256,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982834255197406,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985052316890882,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993928354584092,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930313588850174,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971056439942113,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989674754775426,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989658738366081,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995862639635912,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994051160023796,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9990601503759399,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994824016563147,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994128009395185,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999001996007984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988249118683902,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993626513702996,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998783290523185,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985486211901307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977973568281938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995119570522206,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995456610631531,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993738259236068,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9803921568627451,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974305068909134,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "figure",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991266375545852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991830065359477,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995346672871103,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.981042654028436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9711934156378601,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "决策理论 decision theory (Katie Steele and H. Orri Stefánsson)",
+  "zh_h1": "决策理论 decision theory (Katie Steele and H. Orri Stefánsson)",
+  "yuanwen_h1": "Decision Theory",
+  "html_title": "Decision Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→∅": 1,
+  "p→∅": 90,
+  "p→p": 90,
+  "h2→h2": 9,
+  "h3→h3": 13,
+  "p→mathblock": 7,
+  "figure→∅": 6,
+  "ul→ul": 5,
+  "table→table": 4,
+  "ol→ol": 1,
+  "blockquote→blockquote": 1,
+  "ul→∅": 2,
+  "figure→p": 1,
+  "blockquote→∅": 1,
+  "merged×4(preamble+h2+p+p→p+p+p+h2+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×1(p→p)": 24,
+  "merged×2(p+p→p+p)": 8,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×6(p+p+figure+p+p+p→p+p+p+table+table+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 5,
+  "merged×1(figure→p+table+p)": 2,
+  "merged×1(ul→ul)": 2,
+  "merged×3(figure+p+p→p+table+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 171,
+   "j": 178,
+   "ratio": 0.8486956521739131,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Allais paradox, discussed in Section 2.3 above, is a classic example where the aforementioned separability seems to fail. For ease of reference, the options that generate the paradox are reproduced as Table 3. Recall from Section 2.3 that people tend to prefer ⟦M⟧ over ⟦M⟧ and ⟦M⟧ over ⟦M⟧ —referred to as the Allais’ preferences —in violation of expected utility theory. The violation occurs precisely because the contribution that some of these outcomes make towards the overall value of an option is not independent of the other outcomes that the option can have. Compare the extra chance of outcome $0 that ⟦M⟧ has over ⟦M⟧ with the same extra chance of $0 that ⟦M⟧ has over ⟦M⟧ . Many people think that this extra chance counts more heavily in the first comparison than the latter, i.e., th",
+   "md_text": "The Allais paradox, discussed in Section 2.3 above, is a classic example where the aforementioned separability seems to fail. For ease of reference, the options that generate the paradox are reproduced as Table 3. Recall from Section 2.3 that people tend to prefer ⟦M⟧ over ⟦M⟧ and ⟦M⟧ over ⟦M⟧ —referred to as the Allais’ preferences—in violation of expected utility theory. The violation occurs precisely because the contribution that some of these outcomes make towards the overall value of an option is not independent of the other outcomes that the option can have. Compare the extra chance of outcome ⟦M⟧ L1 ⟦M⟧ L2 ⟦M⟧ 0 that ⟦M⟧ has over ⟦M⟧ . Many people think that this extra chance counts more heavily in the first comparison than the latter, i.e., that an extra 0.01 chance of ⟦M⟧ L1 ⟦M⟧ L"
+  },
+  {
+   "kind": "replace",
+   "i": 172,
+   "j": 179,
+   "ratio": 0.11764705882352941,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "1 2–34 35–100 ⟦M⟧ $0 $2500 $2400 ⟦M⟧ $2400 $2400 $2400 1 2–34 35–100 ⟦M⟧ $0 $2500 $0 ⟦M⟧ $2400 $2400 $0 Table 3. Allais’ paradox",
+   "md_text": "Table 3."
+  },
+  {
+   "kind": "replace",
+   "i": 173,
+   "j": 180,
+   "ratio": 0.03941730934018852,
+   "shape_h": "p",
+   "shape_m": "table",
+   "html_text": "Various attempts have been made to make Allais’ preferences compatible with some version of expected utility theory. A common response is to suggest that the choice problem has been incorrectly described. If it really is rational to evaluate $0 differently depending on which lottery it is part of, then perhaps this should be accounted for in the description of the outcomes (Broome 1991a). For instance, we could add a variable to the $0 outcome that ⟦M⟧ might result in to represent the extra regret or risk associate with that outcome compared to the $0 outcomes from the other lotteries (as done in Table 4 ). If we do that, Allais’ preferences are no longer inconsistent with EU theory. The simplest way to see this is to note that when we ignore the state of the world where the options that a",
+   "md_text": "1 2–34 35–100 ⟦M⟧ ⟦M⟧ 2500 $2400 ⟦M⟧ ⟦M⟧ 2400 $2400"
+  },
+  {
+   "kind": "replace",
+   "i": 174,
+   "j": 181,
+   "ratio": 0.4375,
+   "shape_h": "figure",
+   "shape_m": "table",
+   "html_text": "1 2–34 35–100 ⟦M⟧ $0 + ⟦M⟧ $2500 $2400 ⟦M⟧ $2400 $2400 $2400 1 2–34 35–100 ⟦M⟧ $0 $2500 $0 ⟦M⟧ $2400 $2400 $0 Table 4. Allais’ paradox re-described",
+   "md_text": "1 2–34 35–100 ⟦M⟧ ⟦M⟧ 2500 $0 ⟦M⟧ ⟦M⟧ 2400 $0"
+  },
+  {
+   "kind": "replace",
+   "i": 175,
+   "j": 182,
+   "ratio": 0.07600950118764846,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The above “re-description strategy” could be employed whenever the value and/or contribution of an outcome depends on other possible outcomes: just describe the outcomes in a way that accounts for this dependency. But more worryingly, the strategy could be employed whenever one comes across any violation of expected utility theory or other theories of rationality (as discussed in Section 4.2 ).",
+   "md_text": "Table 3. Allais’ paradox"
+  },
+  {
+   "kind": "replace",
+   "i": 176,
+   "j": 183,
+   "ratio": 0.17334064728469556,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "There are various non-expected utility theories that can accommodate Allais’ preferences without re-describing the outcomes. Lara Buchak (2013) develops a decision theory on which the explanation for Allais’ preferences is not the different value that the outcome $0 has depending on what lottery it is part of. The outcome itself has the same value. However, the contribution that $0 makes towards the overall value of an option partly depends on what other outcomes are possible. Buchak introduces a risk function that represents people’s willingness to trade chances of something good for risks of something bad. And she shows that if an agent satisfies a particular set of axioms, which is essentially Savage’s except that the Sure Thing Principle is replaced with a strictly weaker one, then the",
+   "md_text": "Various attempts have been made to make Allais’ preferences compatible with some version of expected utility theory. A common response is to suggest that the choice problem has been incorrectly described. If it really is rational to evaluate ⟦M⟧ 0 outcome that ⟦M⟧ might result in to represent the extra regret or risk associate with that outcome compared to the ⟦M⟧ L1 ⟦M⟧ L3 ⟦M⟧ L2 ⟦M⟧ L1 ⟦M⟧ L4 ⟦M⟧ L3$."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 184,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Table 4."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 185,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "1 2–34 35–100 ⟦M⟧ ⟦M⟧ \\delta ⟦M⟧ 2500 $2400 ⟦M⟧ ⟦M⟧ 2400 $2400"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 186,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "1 2–34 35–100 ⟦M⟧ ⟦M⟧ 2500 $0 ⟦M⟧ ⟦M⟧ 2400 $0"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 187,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Table 4. Allais’ paradox re-described"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 188,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The above “re-description strategy” could be employed whenever the value and/or contribution of an outcome depends on other possible outcomes: just describe the outcomes in a way that accounts for this dependency. But more worryingly, the strategy could be employed whenever one comes across any violation of expected utility theory or other theories of rationality (as discussed in Section 4.2)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 189,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "There are various non-expected utility theories that can accommodate Allais’ preferences without re-describing the outcomes. Lara Buchak (2013) develops a decision theory on which the explanation for Allais’ preferences is not the different value that the outcome ⟦M⟧ 0 makes towards the overall value of an option partly depends on what other outcomes are possible. Buchak introduces a risk function that represents people’s willingness to trade chances of something good for risks of something bad. And she shows that if an agent satisfies a particular set of axioms, which is essentially Savage’s except that the Sure Thing Principle is replaced with a strictly weaker one, then the agent’s preferences can be represented as maximising risk weighted expected utility. More recently, Bottomley and "
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 221,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1."
+  }
+ ],
+ "spot": [
+  {
+   "i": 151,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Notwithstanding these finer disputes, Bayesians agree that pragmatic considerations play a significant role in managing beliefs. One important way in which an agent can interrogate her degrees of belief is to reflect on their pragmatic implications. Furthermore, whether or not to seek more evidence is a pragmatic issue; it depends on the “value of information” one expects to gain with respect to the decision problem at hand. The idea is that seeking more evidence is an action that is choice-wort",
+   "md_text": "Notwithstanding these finer disputes, Bayesians agree that pragmatic considerations play a significant role in managing beliefs. One important way in which an agent can interrogate her degrees of belief is to reflect on their pragmatic implications. Furthermore, whether or not to seek more evidence is a pragmatic issue; it depends on the “value of information” one expects to gain with respect to the decision problem at hand. The idea is that seeking more evidence is an action that is choice-wort"
+  },
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In what follows, ⟦M⟧ represents a weak preference relation. So ⟦M⟧ means that the agent we are interested in considers option ⟦M⟧ to be at least as preferable as option ⟦M⟧ . From the weak preference relation we can define the strict preference relation, ⟦M⟧ , as follows: ⟦M⟧ , where ⟦M⟧ means “it is not the case that ⟦M⟧ ”. The indifference relation, ⟦M⟧ , is defined as: ⟦M⟧ . This represents that the agent we are interested in considers ⟦M⟧ and ⟦M⟧ to be equally preferable.",
+   "md_text": "In what follows, ⟦M⟧ represents a weak preference relation. So ⟦M⟧ means that the agent we are interested in considers option ⟦M⟧ to be at least as preferable as option ⟦M⟧ . From the weak preference relation we can define the strict preference relation, ⟦M⟧ , as follows: ⟦M⟧ , where ⟦M⟧ means “it is not the case that ⟦M⟧ ”. The indifference relation, ⟦M⟧ , is defined as: ⟦M⟧ . This represents that the agent we are interested in considers ⟦M⟧ and ⟦M⟧ to be equally preferable."
+  },
+  {
+   "i": 72,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The agent’s confidence in the actuality of the states in ⟦M⟧ can be represented by a unique (and finitely additive) probability function, ⟦M⟧ ; the strength of her desires for the ultimate outcomes in ⟦M⟧ can be represented by a utility function, ⟦M⟧ , that is unique up to positive linear transformation; and the pair ⟦M⟧ gives rise to an expected utility function, ⟦M⟧ , that represents her preferences for the alternatives in ⟦M⟧ ; i.e., for any ⟦M⟧ : ⟦M⟧",
+   "md_text": "The agent’s confidence in the actuality of the states in ⟦M⟧ can be represented by a unique (and finitely additive) probability function, ⟦M⟧ ; the strength of her desires for the ultimate outcomes in ⟦M⟧ can be represented by a utility function, ⟦M⟧ , that is unique up to positive linear transformation; and the pair ⟦M⟧ gives rise to an expected utility function, ⟦M⟧ , that represents her preferences for the alternatives in ⟦M⟧ ; i.e., for any ⟦M⟧ : ⟦M⟧"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Decision Theory",
+ "authors": [
+  "Steele, Katie",
+  "Stefánsson, H. Orri"
+ ]
+}

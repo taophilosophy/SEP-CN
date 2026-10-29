@@ -1,0 +1,275 @@
+{
+ "slug": "medieval-terms",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 65,
+ "n_md": 65,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9991452991452991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962546816479401,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996355265681949,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982073498655513,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951562121579075,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962158071142826,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973715217982416,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963768115942029,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982929327415501,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999001996007984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958049292081804,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974093264248705,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984056687333924,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993025283347864,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中世纪词项属性理论 medieval theories of (Stephen Read)",
+  "zh_h1": "中世纪词项属性理论 medieval theories of (Stephen Read)",
+  "yuanwen_h1": "Medieval Theories: Properties of Terms",
+  "html_title": "Medieval Theories: Properties of Terms",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 35,
+  "p→p": 11,
+  "table→table": 2,
+  "blockquote→∅": 2,
+  "ol→ol": 2,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+blockquote+p+p→p+p+p+p+blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "De Rijk (1982, pp. 165–6) identifies the three stages in the development of the theory of properties of terms: in the first, appellation takes centre stage; in the second, appellation theory is extended to capture all uses of terms as subject; in the final stage, all other properties are grouped under supposition as the overarching notion and ‘appellation’ underwent its own transformation. (See also Kann 2016.) Thus supposition became the leading property of an occurrence of a term in a proposit",
+   "md_text": "De Rijk (1982, pp. 165–6) identifies the three stages in the development of the theory of properties of terms: in the first, appellation takes centre stage; in the second, appellation theory is extended to capture all uses of terms as subject; in the final stage, all other properties are grouped under supposition as the overarching notion and ‘appellation’ underwent its own transformation. (See also Kann 2016.) Thus supposition became the leading property of an occurrence of a term in a proposit"
+  },
+  {
+   "i": 23,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Homo est dignissima creaturarum (Man is the worthiest of creatures) Sortes est homo (Socrates is a man) Ergo Sortes est dignissima creaturarum (So Socrates is the worthiest of creatures).",
+   "md_text": "Homo est dignissima creaturarum (Man is the worthiest of creatures) Sortes est homo (Socrates is a man) Ergo Sortes est dignissima creaturarum (So Socrates is the worthiest of creatures)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Medieval Theories: Properties of Terms",
+ "authors": [
+  "Read, Stephen"
+ ]
+}

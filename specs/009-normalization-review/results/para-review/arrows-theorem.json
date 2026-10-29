@@ -1,0 +1,809 @@
+{
+ "slug": "arrows-theorem",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 205,
+ "n_md": 209,
+ "n_pairs": 119,
+ "n_flags": 8,
+ "n_merged": 54,
+ "merged": [
+  {
+   "ratio": 0.9986045213508233,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982238010657194,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994672349493873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993544222078761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993108201240524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988156336360048,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989572471324296,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984825493171472,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9897959183673469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9887640449438202,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9920477137176938,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9761904761904762,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9932157394843962,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937106918238994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988038277511961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9772727272727273,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.994475138121547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984763839512443,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979392065945389,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986859395532195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985145172180959,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990176817288802,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998324958123953,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969488939740656,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955516014234875,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987608426270136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9941520467836257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995452478399273,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992587101556709,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958997722095672,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987129987129987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988674971687429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977011494252873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981419546636938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978463747307968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996760758907913,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973776223776224,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933444259567388,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993270524899058,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996955859969558,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958847736625515,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964912280701754,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9906542056074766,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9937106918238994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9986824769433466,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988998899889989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999195494770716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993984359334269,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992464204973625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9880952380952381,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9606741573033708,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿罗定理 Arrow’s theorem (Michael Morreau)",
+  "zh_h1": "阿罗定理 Arrow’s theorem (Michael Morreau)",
+  "yuanwen_h1": "Arrow’s Theorem",
+  "html_title": "Arrow’s Theorem",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→p": 71,
+  "ol→ol": 8,
+  "p→∅": 67,
+  "h3→h3": 18,
+  "blockquote→blockquote": 7,
+  "blockquote→∅": 18,
+  "ul→ul": 1,
+  "figure→p": 2,
+  "p→mathblock": 1,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 26,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(blockquote→blockquote)": 10,
+  "merged×2(blockquote+p→blockquote+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×4(blockquote+p+p+blockquote→blockquote+p+p+blockquote)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 134,
+   "j": 134,
+   "ratio": 0.17927631578947367,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This preference profile is single peaked . Each bear has a “bliss point” somewhere along the ordering of the options by their temperature, and each bear likes options less and less as we move along this common ordering away from the bliss point, on either side. Single peaked preferences arise with respect to the left-right orientation of political candidates, the cost of alternative public projects, and other salient attributes of options. Single peaked profiles , in which everybody’s preferences are single peaked with respect to a common ordering, arise naturally when everybody cares about the same thing in the options under consideration—temperature, left-right orientation, cost, or what have you—even if, as with the bears, there is no further consensus about which options are better tha",
+   "md_text": "![[A graph, y-axis labeled 'preference' and x-axis having 'Cold', 'Warm', and 'Hot' in that order. First line, labeled 'Mama', goes from Cold/preference high to Hot/preference low. Second line, labeled 'Papa', goes from Cold/preference low to Hot/preference high. Third line, labeled 'Baby', goes from Cold/preference low to Warm/preference high to Hot/preference medium ]](../assets/arrows-theorem/fig1.png)"
+  },
+  {
+   "kind": "replace",
+   "i": 135,
+   "j": 135,
+   "ratio": 0.0106951871657754,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Duncan Black (1948) showed that if the number of voters is odd, and their preference profile is single peaked, pairwise majority decision always delivers up an ordering. ⟦P⟧ Furthermore, he showed, the maximum of this ordering is the bliss point of the median voter—the voter whose bliss point has, on the common ordering, as many voters’ bliss points to one side as it has to the other. In the example this is Baby bear, and warm porridge is the collective maximum. This example illustrates the way in which single peakedness can facilitate compromise.",
+   "md_text": "Figure 1"
+  },
+  {
+   "kind": "replace",
+   "i": 136,
+   "j": 136,
+   "ratio": 0.24100156494522693,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Say the number of voters is odd. Now consider a single-peaked domain —one that is made up entirely of single peaked profiles. Black’s result tells us that pairwise majority decision on this domain satisfies SO . Provided the domain is sufficiently inclusive (so that for each ⟦M⟧ there is within the domain some profile in which ⟦M⟧ is not the median voter) it also satisfies D . Pairwise majority decision always satisfies WP and I , so such a domain is Arrow consistent.",
+   "md_text": "This preference profile is single peaked. Each bear has a “bliss point” somewhere along the ordering of the options by their temperature, and each bear likes options less and less as we move along this common ordering away from the bliss point, on either side. Single peaked preferences arise with respect to the left-right orientation of political candidates, the cost of alternative public projects, and other salient attributes of options. Single peaked profiles, in which everybody’s preferences are single peaked with respect to a common ordering, arise naturally when everybody cares about the same thing in the options under consideration—temperature, left-right orientation, cost, or what have you—even if, as with the bears, there is no further consensus about which options are better than "
+  },
+  {
+   "kind": "replace",
+   "i": 137,
+   "j": 137,
+   "ratio": 0.14681440443213298,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "With an even number of voters, single peakedness does not ensure satisfaction of SO . For example, suppose there are just two voters and that their individual orderings are:",
+   "md_text": "Duncan Black (1948) showed that if the number of voters is odd, and their preference profile is single peaked, pairwise majority decision always delivers up an ordering. Furthermore, he showed, the maximum of this ordering is the bliss point of the median voter—the voter whose bliss point has, on the common ordering, as many voters’ bliss points to one side as it has to the other. In the example this is Baby bear, and warm porridge is the collective maximum. This example illustrates the way in which single peakedness can facilitate compromise."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 138,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Say the number of voters is odd. Now consider a single-peaked domain—one that is made up entirely of single peaked profiles. Black’s result tells us that pairwise majority decision on this domain satisfies SO. Provided the domain is sufficiently inclusive (so that for each ⟦M⟧ there is within the domain some profile in which ⟦M⟧ is not the median voter) it also satisfies D. Pairwise majority decision always satisfies WP and I, so such a domain is Arrow consistent."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 139,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "With an even number of voters, single peakedness does not ensure satisfaction of SO. For example, suppose there are just two voters and that their individual orderings are:"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 142,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 143,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[A graph, y-axis labeled 'preference' and x-axis having 'B', 'C', and 'A' in that order. First line, labeled '1' goes from B/low preference to C/high preference to A/medium preference. Second line, labeled '2', goes from B/high preference to A/low preference.]](../assets/arrows-theorem/fig2.png)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 175,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "To verify that median grading satisfies the reformulated conditions, take for instance the nondictatorship condition. A person ⟦M⟧ is a dictator of ⟦M⟧ if for any alternatives ⟦M⟧ and ⟦M⟧ , and for any profile ⟦M⟧ in the domain of ⟦M⟧ : if ⟦M⟧ , then ⟦M⟧ . When ⟦M⟧ is median grading, this means that whenever a dictator expresses a strict preference for one alternative over another, by giving it a higher grade, this alternative also ranks strictly higher in the social ordering, having a higher me",
+   "md_text": "To verify that median grading satisfies the reformulated conditions, take for instance the nondictatorship condition. A person ⟦M⟧ is a dictator of ⟦M⟧ if for any alternatives ⟦M⟧ and ⟦M⟧ , and for any profile ⟦M⟧ in the domain of ⟦M⟧ : if ⟦M⟧ , then ⟦M⟧ . When ⟦M⟧ is median grading, this means that whenever a dictator expresses a strict preference for one alternative over another, by giving it a higher grade, this alternative also ranks strictly higher in the social ordering, having a higher me"
+  },
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Some of the trouble with social orderings is visible in a simple example. Say there are three alternatives ⟦M⟧ , ⟦M⟧ and ⟦M⟧ to choose among. There are three people 1, 2 and 3 whose preferences are to be taken into account, and each one ranks the alternatives from better to worse. The individual rankings happen to be:",
+   "md_text": "Some of the trouble with social orderings is visible in a simple example. Say there are three alternatives ⟦M⟧ , ⟦M⟧ and ⟦M⟧ to choose among. There are three people 1, 2 and 3 whose preferences are to be taken into account, and each one ranks the alternatives from better to worse. The individual rankings happen to be:"
+  },
+  {
+   "i": 4,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "ABC BCA CAB",
+   "md_text": "ABC BCA CAB"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Arrow’s Theorem",
+ "authors": [
+  "Morreau, Michael"
+ ]
+}

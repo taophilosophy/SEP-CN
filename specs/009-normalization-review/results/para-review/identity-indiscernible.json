@@ -1,0 +1,321 @@
+{
+ "slug": "identity-indiscernible",
+ "letter": "i",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 82,
+ "n_pairs": 24,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9983333333333333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990999099909991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990825688073395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994609164420485,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991347235441723,
+   "n_h": 13,
+   "n_m": 23,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994404029099049,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988580750407831,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995784148397976,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993614303959132,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996935335580754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994903160040775,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996322177271055,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988826815642458,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986910994764397,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99908480780964,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "不可分者同一性原理 of indiscernibles (Gonzalo Rodriguez-Pereyra)",
+  "zh_h1": "不可分者同一性原理 of indiscernibles (Gonzalo Rodriguez-Pereyra)",
+  "yuanwen_h1": "The Identity of Indiscernibles",
+  "html_title": "The Identity of Indiscernibles",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 42,
+  "p→p": 13,
+  "dl→∅": 3,
+  "ol→ol": 1,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×13(p+p+p+dl+p+p+dl+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 58,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In yet another sense Anti-Haecceitism is the thesis that the identity of objects is reducible to their pure properties. One minimal condition of the identity of objects’ being reducible to their pure properties is that, for every possible object, having certain pure properties is a necessarily sufficient condition for being that particular object. But neither (PIIa) nor (PIIb) entail that having any pure properties are necessarily sufficient for being any particular object. All they entail is th",
+   "md_text": "In yet another sense Anti-Haecceitism is the thesis that the identity of objects is reducible to their pure properties. One minimal condition of the identity of objects’ being reducible to their pure properties is that, for every possible object, having certain pure properties is a necessarily sufficient condition for being that particular object. But neither (PIIa) nor (PIIb) entail that having any pure properties are necessarily sufficient for being any particular object. All they entail is th"
+  },
+  {
+   "i": 62,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Identity of Indiscernibles claims a connection between numerical identity and indiscernibility, namely that there cannot be indiscernibility without numerical identity (from now on the qualifier ‘numerical’ will be omitted). Given the centrality of grounding in the contemporary metaphysical discussion, many philosophers have inquired after the grounds of identity, and the Identity of Indiscernibles might be thought to offer an obvious candidate, namely indiscernibility—that is, what grounds ",
+   "md_text": "The Identity of Indiscernibles claims a connection between numerical identity and indiscernibility, namely that there cannot be indiscernibility without numerical identity (from now on the qualifier ‘numerical’ will be omitted). Given the centrality of grounding in the contemporary metaphysical discussion, many philosophers have inquired after the grounds of identity, and the Identity of Indiscernibles might be thought to offer an obvious candidate, namely indiscernibility—that is, what grounds "
+  },
+  {
+   "i": 34,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "There is a possible world with objects that share almost all their pure properties. If there is a possible world with objects that share almost all their pure properties, there is a possible world with objects that share all their pure properties. Therefore, there is a possible world with objects that share all their pure properties.",
+   "md_text": "There is a possible world with objects that share almost all their pure properties. If there is a possible world with objects that share almost all their pure properties, there is a possible world with objects that share all their pure properties. Therefore, there is a possible world with objects that share all their pure properties."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Identity of Indiscernibles",
+ "authors": [
+  "Rodriguez-Pereyra, Gonzalo"
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "slug": "aristotle-mathematics",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 146,
+ "n_md": 151,
+ "n_pairs": 81,
+ "n_flags": 4,
+ "n_merged": 31,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967329967329968,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999157134256472,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970997679814385,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9937888198757764,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9960959286112661,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980342600393148,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989130434782608,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988239905919247,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9972826086956522,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.998422712933754,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9906166219839142,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.96,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h3"
+   ],
+   "shape_m": [
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.9953917050691244,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "h3",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "h3",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9915899078894673,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939246658566221,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985632183908046,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9975820379965458,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "h3",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "h3",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9986898746022833,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949622166246851,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.95,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h2"
+   ],
+   "shape_m": [
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9983974358974359,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9970674486803519,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9980051296665716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9545454545454546,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "h3"
+   ],
+   "shape_m": [
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.9984709480122325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993319973279893,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956236323851203,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "h2"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9995444191343964,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9767441860465116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德论数学 mathematics (Henry Mendell)",
+  "zh_h1": "亚里士多德论数学 mathematics (Henry Mendell)",
+  "yuanwen_h1": "Aristotle and Mathematics",
+  "html_title": "Aristotle and Mathematics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 15,
+  "p→p": 51,
+  "p→∅": 38,
+  "blockquote→∅": 10,
+  "blockquote→blockquote": 6,
+  "ol→∅": 8,
+  "h3→∅": 6,
+  "ol→ol": 2,
+  "h2→∅": 2,
+  "h3→h3": 2,
+  "h4→h4": 2,
+  "ul→ul": 2,
+  "merged×1(preamble→p+p)": 1,
+  "merged×5(p+p+blockquote+p+blockquote→p+p+blockquote+p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+ol→p+ol)": 2,
+  "merged×1(ol→ol)": 4,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×3(p+h3+p→p+h3+p)": 1,
+  "merged×1(h3→h3)": 2,
+  "merged×6(h3+p+h3+p+p+blockquote→h3+p+h3+p+p+blockquote)": 1,
+  "merged×7(blockquote+p+p+p+p+p+p→blockquote+p+p+p+p+p+p)": 1,
+  "merged×3(h3+p+ol→h3+p+ol)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×1(h2→h2)": 1,
+  "merged×3(blockquote+p+h2→blockquote+p+h2)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 140,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Barnes (1975-9): Barnes, Jonathan, Schofield, Malcolm, and Sorabji, Richard, eds., 1975-9, Articles on Aristotle. Vol. 1: Science. Vol. 2: Ethics and Politics. Vol. 3: Metaphysics. Vol. 4: Psychology and Aesthetics. London: Duckworth. Berti (1981): Berti, Enrico, ed.. 1981, Aristotle on Science the «Posterior Analytics.» Proceedings of the eigth Symposium Aristotelicum, 1978. Padova: Editrice Antenore. Graeser (1987): Graeser, A. ed., 1987, Mathematics and Metaphysics in Aristotle. Akten des X. Symposium Aristotelicum. Bern: Haupt. QS: Quellen und Studien zur Geschichte der Mathematik Astronomie und Physik Abt. B: Studien"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 141,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Collections of mathematical passages in Aristotle with extensive discussions"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 142,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Works on philosophical issues in Aristotle on mathematics or use of mathematics in discussing philosophical discussions"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 143,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Works focussing on mathematical issues either in Aristotle or importantly related to Aristotle"
+  }
+ ],
+ "spot": [
+  {
+   "i": 104,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The precision problem of mathematicals is similar in the case of geometrical entities and units (see Section 6). Consider, for example, Plato's discussion of incompatible features of a finger as presenting one or two things to sight. Aristotle deals with the problem in his discussion of measure (see Section 10.1). The separability problem is the same as for geometry (see Section 6). The plurality problem of mathematicals (Section 6) is similar in the case of geometrical entities and units, with ",
+   "md_text": "The precision problem of mathematicals is similar in the case of geometrical entities and units (see Section 6). Consider, for example, Plato's discussion of incompatible features of a finger as presenting one or two things to sight. Aristotle deals with the problem in his discussion of measure (see Section 10.1). The separability problem is the same as for geometry (see Section 6). The plurality problem of mathematicals (Section 6) is similar in the case of geometrical entities and units, with "
+  },
+  {
+   "i": 92,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "No point in a line is adjacent to another point. If a line is composed of actual points, than to move a distance an object would have to complete an infinite number of tasks (as suggested by Zeno's arguments against motion)",
+   "md_text": "No point in a line is adjacent to another point. If a line is composed of actual points, than to move a distance an object would have to complete an infinite number of tasks (as suggested by Zeno's arguments against motion)"
+  }
+ ],
+ "supplements": [
+  "supplement1.html",
+  "supplement2.html",
+  "supplement3.html",
+  "supplement4.html"
+ ],
+ "meta_title": "Aristotle and Mathematics",
+ "authors": [
+  "Mendell, Henry"
+ ]
+}

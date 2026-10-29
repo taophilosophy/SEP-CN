@@ -1,0 +1,147 @@
+{
+ "slug": "lady-masham",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 28,
+ "n_md": 28,
+ "n_pairs": 19,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9991701244813278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992706053975201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990982867448152,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983333333333333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985974754558204,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995956328346138,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991603694374476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "达玛里斯·库德沃斯·马沙姆 Masham, Lady Damaris (Sarah Hutton)",
+  "zh_h1": "达玛里斯·库德沃斯·马沙姆 Masham, Lady Damaris (Sarah Hutton)",
+  "yuanwen_h1": "Lady Damaris Masham",
+  "html_title": "Lady Damaris Masham",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 8,
+  "p→p": 9,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "On the little evidence available it is impossible to establish her early philosophical views with any certainty. Her published writings contain clear echoes of Locke, which led to their being attributed by some to Locke. Nonetheless her Cambridge Platonist background remains evident, especially in the religious and ethical views which connect both her books which are both concerned with practical ethics. While these show that she became closer to Locke in epistemology, on ethics, she is closer t",
+   "md_text": "On the little evidence available it is impossible to establish her early philosophical views with any certainty. Her published writings contain clear echoes of Locke, which led to their being attributed by some to Locke. Nonetheless her Cambridge Platonist background remains evident, especially in the religious and ethical views which connect both her books which are both concerned with practical ethics. While these show that she became closer to Locke in epistemology, on ethics, she is closer t"
+  },
+  {
+   "i": 25,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Project Vox",
+   "md_text": "Project Vox"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Lady Damaris Masham",
+ "authors": [
+  "Hutton, Sarah"
+ ]
+}

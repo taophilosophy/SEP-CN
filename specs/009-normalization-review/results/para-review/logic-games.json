@@ -1,0 +1,289 @@
+{
+ "slug": "logic-games",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 127,
+ "n_md": 127,
+ "n_pairs": 106,
+ "n_flags": 0,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9990539262062441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985185185185185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998330550918197,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996652159357214,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972602739726028,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993201903467029,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998211091234347,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994209612044007,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993714644877436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996107434799533,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968586387434555,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993993993993994,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975903614457832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981024667931688,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995114802149487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996278377372534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987129987129987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995385325334564,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996396396396396,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "逻辑与游戏 and games (Wilfrid Hodges and Jouko Väänänen)",
+  "zh_h1": "逻辑与游戏 and games (Wilfrid Hodges and Jouko Väänänen)",
+  "yuanwen_h1": "Logic and Games",
+  "html_title": "Logic and Games",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 11,
+  "p→∅": 19,
+  "p→p": 80,
+  "p→mathblock": 9,
+  "blockquote→∅": 2,
+  "h3→h3": 3,
+  "ul→ul": 1,
+  "merged×1(p→p)": 18,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 65,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In Väänänen’s logics it is easy to see why one needs sets of assignments, i.e. teams. He has an atomic formula, called a dependence atom , expressing ‘ ⟦M⟧ is dependent on ⟦M⟧ ’, or more exactly, ‘ ⟦M⟧ is totally determined by ⟦M⟧ ’. How can we interpret this in a structure, for example the structure of natural numbers? It makes no sense at all to ask for example whether 8 is dependent on 37. But if we have a team X of ordered pairs of natural numbers, it does make sense to ask whether in X the ",
+   "md_text": "In Väänänen’s logics it is easy to see why one needs sets of assignments, i.e. teams. He has an atomic formula, called a dependence atom , expressing ‘ ⟦M⟧ is dependent on ⟦M⟧ ’, or more exactly, ‘ ⟦M⟧ is totally determined by ⟦M⟧ ’. How can we interpret this in a structure, for example the structure of natural numbers? It makes no sense at all to ask for example whether 8 is dependent on 37. But if we have a team X of ordered pairs of natural numbers, it does make sense to ask whether in X the "
+  },
+  {
+   "i": 11,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "There are two players. In general we can call them ⟦M⟧ and ⟦M⟧ . The pronunciations ‘Abelard’ and ‘Eloise’ go back to the mid 1980s and usefully fix the players as male and female making reference easier: her move, his move. Other names are in common use for the players in particular types of logical game.",
+   "md_text": "There are two players. In general we can call them ⟦M⟧ and ⟦M⟧ . The pronunciations ‘Abelard’ and ‘Eloise’ go back to the mid 1980s and usefully fix the players as male and female making reference easier: her move, his move. Other names are in common use for the players in particular types of logical game."
+  },
+  {
+   "i": 124,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Giorgi Japaridze’s Computability Logic page",
+   "md_text": "Giorgi Japaridze’s Computability Logic page"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Logic and Games",
+ "authors": [
+  "Hodges, Wilfrid",
+  "Väänänen, Jouko"
+ ]
+}

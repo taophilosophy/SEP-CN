@@ -1,0 +1,155 @@
+{
+ "slug": "ricoeur",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 44,
+ "n_md": 46,
+ "n_pairs": 31,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989301543634418,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981593478832501,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989881956155143,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989806320081549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993371630578878,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9971988795518207,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "保罗·利科 Ricoeur, Paul (David Pellauer, Bernard Dauenhauer, and Scott Davidson)",
+  "zh_h1": "保罗·利科 Ricoeur, Paul (David Pellauer, Bernard Dauenhauer, and Scott Davidson)",
+  "yuanwen_h1": "Paul Ricoeur",
+  "html_title": "Paul Ricoeur",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 20,
+  "p→∅": 10,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Paul Ricoeur was born on February 27, 1913 in Valence, France. His mother died shortly thereafter and his father was killed in the Battle of the Marne in 1915, so Ricoeur and his sister were reared by their paternal grandparents and an unmarried aunt in Rennes. They were devout members of the French Reformed Protestant tradition. He was later to speak of the role of faith in his life as “an accident transformed into a destiny through an ongoing choice, while scrupulously respecting other choices",
+   "md_text": "Paul Ricoeur was born on February 27, 1913 in Valence, France. His mother died shortly thereafter and his father was killed in the Battle of the Marne in 1915, so Ricoeur and his sister were reared by their paternal grandparents and an unmarried aunt in Rennes. They were devout members of the French Reformed Protestant tradition. He was later to speak of the role of faith in his life as “an accident transformed into a destiny through an ongoing choice, while scrupulously respecting other choices"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Paul Ricoeur",
+ "authors": [
+  "Pellauer, David",
+  "Dauenhauer, Bernard",
+  "Davidson, Scott"
+ ]
+}

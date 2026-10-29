@@ -1,0 +1,758 @@
+{
+ "slug": "al-khunaji",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 150,
+ "n_md": 173,
+ "n_pairs": 70,
+ "n_flags": 20,
+ "n_merged": 35,
+ "merged": [
+  {
+   "ratio": 0.9995194617972128,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960258884977858,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963759362164775,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955843921780662,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930394431554525,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966465459423206,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9988394584139265,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9985007496251874,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999179991799918,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986206896551724,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939713639788997,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987152034261242,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935691318327974,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976851851851852,
+   "n_h": 2,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976883957466481,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957894736842106,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997229916897507,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994328922495274,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981785063752276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985387238188017,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997515086971956,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972144846796658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982634581989581,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985611510791367,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992169146436961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997979797979798,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947643979057592,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9932885906040269,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9957446808510638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978563772775991,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958734525447043,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971724787935909,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9918256130790191,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9763313609467456,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿夫扎勒丁·胡纳吉 Afḍal al-Dīn al-Khūnajī (Zolghadr, Behnam)",
+  "zh_h1": "阿夫扎勒丁·胡纳吉 Afḍal al-Dīn al-Khūnajī (Zolghadr, Behnam)",
+  "yuanwen_h1": "Afḍal al-Dīn al-Khūnajī",
+  "html_title": "Afḍal al-Dīn al-Khūnajī",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 69,
+  "p→p": 44,
+  "ol→∅": 4,
+  "h3→h3": 8,
+  "blockquote→∅": 3,
+  "blockquote→blockquote": 2,
+  "p→mathblock": 1,
+  "dl→∅": 2,
+  "ol→ol": 6,
+  "ul→ul": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×9(p+p+p+p+p+p+blockquote+p+p→p+p+p+p+p+p+blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×2(p+ol→p+ol)": 2,
+  "merged×1(p→p)": 14,
+  "merged×3(p+ol+p→p+ol+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 78,
+   "j": 84,
+   "ratio": 0.002158273381294964,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(1) Conditional (literally: connective hypothetical= sharṭiyya muttaṣila ): in the form of “if ⟦M⟧ , then ⟦M⟧ ”. Conditionals are of two kinds themselves based on the relation between their antecedent and consequent: (1.1) Implicative ( luzūmiyya ) conditional: there is a relation between the antecedent and the consequent such that the truth of the antecedent necessitates the truth of the consequent. Thus, ⟦M⟧ is true in this sense if and only if there is a special necessary relation between ⟦M⟧ and ⟦M⟧ , and it is not the case that ⟦M⟧ is true and ⟦M⟧ is false. Arabic logicians give the following examples of such necessary relations (Avicenna, Qiyās , 233–234): (i) ⟦M⟧ is the cause for ⟦M⟧ , e.g., “if the sun is shining, then day exists.” (ii) ⟦M⟧ is an inseparable effect (caused) of ⟦M⟧ ",
+   "md_text": "(1)"
+  },
+  {
+   "kind": "replace",
+   "i": 79,
+   "j": 85,
+   "ratio": 0.21611001964636542,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In the above explanations of these kinds of disjunctions some notion of necessity is assumed (i.e. the propositions cannot be true or false together). In this case, the disjunction is called oppositional ( ʿinādiyya ). If no necessity is assumed the disjunction is coincidental.",
+   "md_text": "Conditional (literally: connective hypothetical=sharṭiyya muttaṣila): in the form of “if ⟦M⟧ , then ⟦M⟧ ”. Conditionals are of two kinds themselves based on the relation between their antecedent and consequent: (1.1) Implicative (luzūmiyya) conditional: there is a relation between the antecedent and the consequent such that the truth of the antecedent necessitates the truth of the consequent. Thus, ⟦M⟧ is true in this sense if and only if there is a special necessary relation between ⟦M⟧ and ⟦M⟧ , and it is not the case that ⟦M⟧ is true and ⟦M⟧ is false. Arabic logicians give the following examples of such necessary relations (Avicenna, Qiyās, 233–234): (i) ⟦M⟧ is the cause for ⟦M⟧ , e.g., “if the sun is shining, then day exists.”"
+  },
+  {
+   "kind": "replace",
+   "i": 80,
+   "j": 86,
+   "ratio": 0.02553191489361702,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Khūnajī’s most important contribution on this topic is his rejection of the principles of connexivity, which consist of the following principles that are nowadays known as Aristotle’s theses and Boethius’ theses (see Wansing 2023):",
+   "md_text": "(ii)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 87,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "⟦M⟧ is an inseparable effect (caused) of ⟦M⟧ , e.g., “if day exists, then the sun is shining.”"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 88,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(iii)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 89,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "⟦M⟧ and ⟦M⟧ are both caused by the same cause, e.g. “if there is thunder, then there is lightning” (both are caused by the movement of the wind through clouds)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 90,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(iv)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 91,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "There is a correlation between the two, e.g. “if Zayd is the father of ʿAmr, then ʿAmr is the child of Zayd.”"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 92,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(1.2)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 93,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Coincidental (ittifāqiyya) conditional: this is an extensional connective and has two interpretations: (i) “If ⟦M⟧ then ⟦M⟧ ” is true if and only if the consequent is true. This is called the general or weak coincidental conditional."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 94,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(ii)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 95,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“If ⟦M⟧ then ⟦M⟧ ” is true if and only if both ⟦M⟧ and ⟦M⟧ are true, merely coinciding with one another."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 96,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(2)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 97,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Disjunctive (literally: disjunctive hypothetical=sharṭiyya munfaṣila) which is roughly similar to what we know as a disjunctive proposition. There are three different kinds of disjunctives according to Arabic logicians based on their truth conditions: (i) Real (haqīqiyya) disjunction: the two propositions cannot be both true or both false. Consequently, if a real disjunction holds between two propositions, either they are contradictory, or one is equivalent to the contradictory of the other."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 98,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(ii)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 99,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Exclusive disjunction (māniʿ al-jamʿ): the two propositions cannot be true together. Consequently, if the exclusive disjunction holds between two propositions, one implies the contradictory of the other."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 100,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "(iii)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 101,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Inclusive disjunction (māniʿ al-khuluww): the two propositions cannot be false together. Consequently, if the inclusive disjunction holds between two propositions, the contradictory of one implies the other."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 102,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "In the above explanations of these kinds of disjunctions some notion of necessity is assumed (i.e. the propositions cannot be true or false together). In this case, the disjunction is called oppositional (ʿinādiyya). If no necessity is assumed the disjunction is coincidental."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 103,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Khūnajī’s most important contribution on this topic is his rejection of the principles of connexivity, which consist of the following principles that are nowadays known as Aristotle’s theses and Boethius’ theses (see Wansing 2023) :"
+  }
+ ],
+ "spot": [
+  {
+   "i": 61,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "According to this principle, the subject of every true affirmative proposition must be existent. Khūnajī’s distinction between the essentialist and externalist readings of the subject term already yields two kinds of affirmative propositions whose subjects can be non-existent: “The round square is non-round” and “The round square is round.” Both propositions are true in the essentialist reading, according to which, if the round square existed, it would be both non-round and round. Thus, in the e",
+   "md_text": "According to this principle, the subject of every true affirmative proposition must be existent. Khūnajī’s distinction between the essentialist and externalist readings of the subject term already yields two kinds of affirmative propositions whose subjects can be non-existent: “The round square is non-round” and “The round square is round.” Both propositions are true in the essentialist reading, according to which, if the round square existed, it would be both non-round and round. Thus, in the e"
+  },
+  {
+   "i": 40,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Before proceeding further, a few remarks are in order regarding how the essentialist reading should be understood. As mentioned above, Rāzī formulates the essentialist reading using a conditional: “Every ⟦M⟧ is ⟦M⟧ ” is true in this reading if and only if, were ⟦M⟧ to exist, it would be ⟦M⟧ . Based on this formulation, Fallahī (2013, 34–37) paraphrases the essentialist reading of “Every ⟦M⟧ is ⟦M⟧ ” as follows:",
+   "md_text": "Before proceeding further, a few remarks are in order regarding how the essentialist reading should be understood. As mentioned above, Rāzī formulates the essentialist reading using a conditional: “Every ⟦M⟧ is ⟦M⟧ ” is true in this reading if and only if, were ⟦M⟧ to exist, it would be ⟦M⟧ . Based on this formulation, Fallahī (2013, 34–37) paraphrases the essentialist reading of “Every ⟦M⟧ is ⟦M⟧ ” as follows:"
+  },
+  {
+   "i": 73,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧",
+   "md_text": "⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧ ⟦M⟧"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Afḍal al-Dīn al-Khūnajī",
+ "authors": [
+  "Zolghadr, Behnam"
+ ]
+}

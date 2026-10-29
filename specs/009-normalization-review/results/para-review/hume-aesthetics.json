@@ -1,0 +1,182 @@
+{
+ "slug": "hume-aesthetics",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 95,
+ "n_md": 95,
+ "n_pairs": 79,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9995503597122302,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999290780141844,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976940814757879,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996092223524814,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995713673381912,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995419147961521,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996067636649626,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992673992673993,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999553770638108,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "休谟的美学 aesthetics (Theodore Gracyk)",
+  "zh_h1": "休谟的美学 aesthetics (Theodore Gracyk)",
+  "yuanwen_h1": "Hume’s Aesthetics",
+  "html_title": "Hume’s Aesthetics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 61,
+  "p→∅": 15,
+  "blockquote→blockquote": 4,
+  "h3→h3": 3,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(p→p)": 4,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This moral and aesthetic subjectivism attracts Hume for the same reason that it attracts Hutcheson. The appeal to sentiment offers a middle position between the two prevailing theories within English letters, Hobbesian egoism and ethical rationalism. Hutcheson holds that virtue and beauty are not qualities of the people and things to which they are attributed. We may speak as if objects and people have moral and aesthetic properties, but the relevant property is merely an “idea raised in us.” Hu",
+   "md_text": "This moral and aesthetic subjectivism attracts Hume for the same reason that it attracts Hutcheson. The appeal to sentiment offers a middle position between the two prevailing theories within English letters, Hobbesian egoism and ethical rationalism. Hutcheson holds that virtue and beauty are not qualities of the people and things to which they are attributed. We may speak as if objects and people have moral and aesthetic properties, but the relevant property is merely an “idea raised in us.” Hu"
+  },
+  {
+   "i": 92,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "American Society for Aesthetics: Aesthetics On-line David Hume: Links Hume: Essays, Moral, Political, and Literary (Complete Text online) The Hume Society",
+   "md_text": "American Society for Aesthetics: Aesthetics On-line David Hume: Links Hume: Essays, Moral, Political, and Literary (Complete Text online) The Hume Society"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Hume’s Aesthetics",
+ "authors": [
+  "Gracyk, Theodore"
+ ]
+}

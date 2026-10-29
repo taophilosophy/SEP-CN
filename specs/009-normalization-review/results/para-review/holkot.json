@@ -1,0 +1,240 @@
+{
+ "slug": "holkot",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 69,
+ "n_md": 69,
+ "n_pairs": 47,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9972360420121614,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997517994539588,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995975855130784,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993868792152054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987780040733197,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999787460148778,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969788519637462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977661950856291,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999344262295082,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996324880558618,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970181621035511,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996489996489997,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994175888177053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988148850438493,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "罗伯特·霍尔柯特 Holkot [Holcot], Robert (Hester Gelber and John T. Slotemaker)",
+  "zh_h1": "罗伯特·霍尔柯特 Holkot [Holcot], Robert (Hester Gelber and John T. Slotemaker)",
+  "yuanwen_h1": "Robert Holkot",
+  "html_title": "Robert Holkot",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 17,
+  "h3→h3": 11,
+  "p→p": 21,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 5,
+  "ul→ul": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although Holkot was a Dominican, well versed in the texts of Aquinas, his philosophy and theology owe much more to the scholastics of the fourteenth century than to the thirteenth. William Ockham exercised the most important influence. The hallmarks of Ockham’s philosophy are: his reduction of Aristotle’s ten categories of being to substance and quality; his analysis of the other eight categories and many other terms of philosophical art as connotative terms, best understood as exponible into mo",
+   "md_text": "Although Holkot was a Dominican, well versed in the texts of Aquinas, his philosophy and theology owe much more to the scholastics of the fourteenth century than to the thirteenth. William Ockham exercised the most important influence. The hallmarks of Ockham’s philosophy are: his reduction of Aristotle’s ten categories of being to substance and quality; his analysis of the other eight categories and many other terms of philosophical art as connotative terms, best understood as exponible into mo"
+  },
+  {
+   "i": 64,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Mediaevalia: Studies in Medieval and Reformation Thought , contains a complete list of Robert Holcot’s works (and a catalog of editions, incunabula, and manuscripts), maintained by John Slotemaker.",
+   "md_text": "Mediaevalia: Studies in Medieval and Reformation Thought , contains a complete list of Robert Holcot’s works (and a catalog of editions, incunabula, and manuscripts), maintained by John Slotemaker."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Robert Holkot",
+ "authors": [
+  "Gelber, Hester",
+  "Slotemaker, John T."
+ ]
+}

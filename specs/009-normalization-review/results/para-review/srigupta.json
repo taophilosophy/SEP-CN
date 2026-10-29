@@ -1,0 +1,596 @@
+{
+ "slug": "srigupta",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 144,
+ "n_md": 161,
+ "n_pairs": 51,
+ "n_flags": 0,
+ "n_merged": 34,
+ "merged": [
+  {
+   "ratio": 0.9935196005524275,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986279683377308,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955640050697085,
+   "n_h": 3,
+   "n_m": 17,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9922765012550685,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975333004440059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966882195237344,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9942408376963351,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9922724670864339,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9972222222222222,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938325991189427,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9903846153846154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964093357271095,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9988998899889989,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943820224719101,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946277820414429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9879518072289156,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982394366197183,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947643979057592,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9942608351474371,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961538461538462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956076134699854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993906154783668,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911504424778761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931600547195623,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9662921348314607,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9975490196078431,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945740640260445,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948574100046751,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9958246346555324,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948504168710152,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945037180730683,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9941429129246389,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957805907172996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "室利笈多 Śrīgupta (Aitken, Allison)",
+  "zh_h1": "室利笈多 Śrīgupta (Aitken, Allison)",
+  "yuanwen_h1": "Śrīgupta",
+  "html_title": "Śrīgupta",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 62,
+  "blockquote→∅": 21,
+  "p→p": 29,
+  "dl→∅": 2,
+  "ul→∅": 3,
+  "h3→h3": 8,
+  "ol→∅": 4,
+  "ul→ul": 1,
+  "blockquote→blockquote": 3,
+  "h4→h4": 3,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+blockquote→p+p+p+p+p+blockquote)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×9(p+p+blockquote+p+ul+p+p+p+p→p+p+blockquote+p+ul+p+p+p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×5(p+ol+p+p+blockquote→p+ol+p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+p+p+ol→p+p+p+ol)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×1(ul→ul)": 2,
+  "merged×2(p+blockquote→p+blockquote)": 3,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+ol→p+ol)": 1,
+  "merged×1(ol→ol)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×11(p+p+blockquote+p+p+p+blockquote+p+blockquote+p+p→p+p+blockquote+p+p+p+blockquote+p+blockquote+p+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×9(blockquote+p+p+p+blockquote+p+blockquote+p+p→blockquote+p+p+p+blockquote+p+blockquote+p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 52,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "So, taking as the test case a visual representation, such as the representation of this page: if your representation of this page were constituted by simple mental parts—let’s call them representational parts—then those representational parts are either phenomenally extended or unextended. One might plausibly think that representational parts must be phenomenally extended if they are to be perceptible at all. But whatever is extended—whether that be phenomenally or physically—is at least concept",
+   "md_text": "So, taking as the test case a visual representation, such as the representation of this page: if your representation of this page were constituted by simple mental parts—let’s call them representational parts—then those representational parts are either phenomenally extended or unextended. One might plausibly think that representational parts must be phenomenally extended if they are to be perceptible at all. But whatever is extended—whether that be phenomenally or physically—is at least concept"
+  },
+  {
+   "i": 40,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Distinct-or-Identical Dilemma is often regarded as a variation of the One-nor-Many Dilemma insofar as it asks: are x and y one thing or more than one thing? However, as Tom Tillemans (1983: 305) has pointed out, the Distinct-or-Identical Dilemma is run on a dyadic subject, (either ⟦M⟧ or ⟦M⟧ , where F signifies the property of being distinct), while the One-nor-Many Dilemma is run on a monadic subject (either ⟦M⟧ or ⟦M⟧ , where F signifies the property of being truly unitary).",
+   "md_text": "The Distinct-or-Identical Dilemma is often regarded as a variation of the One-nor-Many Dilemma insofar as it asks: are x and y one thing or more than one thing? However, as Tom Tillemans (1983: 305) has pointed out, the Distinct-or-Identical Dilemma is run on a dyadic subject, (either ⟦M⟧ or ⟦M⟧ , where F signifies the property of being distinct), while the One-nor-Many Dilemma is run on a monadic subject (either ⟦M⟧ or ⟦M⟧ , where F signifies the property of being truly unitary)."
+  },
+  {
+   "i": 32,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Dilemma: If material objects are constituted by fundamental particles, those fundamental particles either have spatially distinct sides or they do not. Unextended Lemma: If fundamental particles did not have spatially distinct sides, then they would face each adjacent particle at the same location. Extended Lemma: If fundamental particles did have spatially distinct sides, then they could not meet the simplicity criterion for being fundamental. Conclusion: Material objects are not constituted by",
+   "md_text": "Dilemma: If material objects are constituted by fundamental particles, those fundamental particles either have spatially distinct sides or they do not. Unextended Lemma: If fundamental particles did not have spatially distinct sides, then they would face each adjacent particle at the same location. Extended Lemma: If fundamental particles did have spatially distinct sides, then they could not meet the simplicity criterion for being fundamental. Conclusion: Material objects are not constituted by"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Śrīgupta",
+ "authors": [
+  "Aitken, Allison"
+ ]
+}

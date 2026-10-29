@@ -1,0 +1,238 @@
+{
+ "slug": "twotruths-tibet",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 72,
+ "n_md": 74,
+ "n_pairs": 43,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9989684340829379,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991326973113617,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988189640627636,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985710202915119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997191800056164,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996718083360683,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987139256134575,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998467667790377,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994815966822188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963245688436528,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991783073130649,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988239905919247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987179487179487,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "西藏的“二谛”理论 two truths in Tibet, theory of (Sonam Thakchoe)",
+  "zh_h1": "西藏的“二谛”理论 two truths in Tibet, theory of (Sonam Thakchoe)",
+  "yuanwen_h1": "The Theory of Two Truths in Tibet",
+  "html_title": "The Theory of Two Truths in Tibet",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 34,
+  "p→∅": 27,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+ul+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 19,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Therefore according to Kagyü, the position of all Indian Buddhist philosophical schools—be it higher or lower—agree in so far as the definitions of the two truths are concerned. (1) “[Ultimate truth] is that which reasoned analysis does not undermine and that which withstands reasoned analysis. Conventional truth is the reverse. (2) Ultimate is the non-deceptive nature and it exists as reality. Conventional [truth] is the reverse. (3) Ultimate is the object of the non-erroneous subject. Conventi",
+   "md_text": "Therefore according to Kagyü, the position of all Indian Buddhist philosophical schools—be it higher or lower—agree in so far as the definitions of the two truths are concerned. (1) “[Ultimate truth] is that which reasoned analysis does not undermine and that which withstands reasoned analysis. Conventional truth is the reverse. (2) Ultimate is the non-deceptive nature and it exists as reality. Conventional [truth] is the reverse. (3) Ultimate is the object of the non-erroneous subject. Conventi"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Theory of Two Truths in Tibet",
+ "authors": [
+  "Thakchoe, Sonam"
+ ]
+}

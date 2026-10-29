@@ -1,0 +1,174 @@
+{
+ "slug": "omnipresence",
+ "letter": "o",
+ "state": "ok",
+ "n_html": 41,
+ "n_md": 44,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9981864345302865,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966996699669967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998298355076574,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994869163673679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991742361684558,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991936784389615,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997015816174276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981515711645101,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995775242923531,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "全在 omnipresence (Edward Wierenga)",
+  "zh_h1": "全在 omnipresence (Edward Wierenga)",
+  "yuanwen_h1": "Omnipresence",
+  "html_title": "Omnipresence",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 15,
+  "blockquote→∅": 3,
+  "p→∅": 10,
+  "blockquote→blockquote": 2,
+  "merged×1(preamble→p+blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In a recent paper, Sam Cowling and Wesley D. Cray note that “[t]he philosophical literature on omnipresence is vast, though largely situated in the context of Western, monotheistic philosophy of religion” (2017, p. 223). Their own proposal for expanding the field is to develop an account of omnipresence according to which even numbers and pure sets are omnipresent. That will likely strike many as implausible, but their claim about the limited scope of traditional work on the topic is accurate. I",
+   "md_text": "In a recent paper, Sam Cowling and Wesley D. Cray note that “[t]he philosophical literature on omnipresence is vast, though largely situated in the context of Western, monotheistic philosophy of religion” (2017, p. 223). Their own proposal for expanding the field is to develop an account of omnipresence according to which even numbers and pure sets are omnipresent. That will likely strike many as implausible, but their claim about the limited scope of traditional work on the topic is accurate. I"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Omnipresence",
+ "authors": [
+  "Wierenga, Edward"
+ ]
+}

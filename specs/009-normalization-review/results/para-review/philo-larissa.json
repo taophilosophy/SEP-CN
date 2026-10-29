@@ -1,0 +1,294 @@
+{
+ "slug": "philo-larissa",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 67,
+ "n_md": 67,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.9990162321692081,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987623762376238,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981549815498155,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979925437338687,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983537589171392,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987217724755006,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9786476868327402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973903966597077,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988545246277205,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985013915649754,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992551518662584,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995497523638001,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982158786797503,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993887530562348,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996787664632187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9911504424778761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "拉里萨的斐洛 Philo of Larissa (Charles Brittain and Peter Osorio)",
+  "zh_h1": "拉里萨的斐洛 Philo of Larissa (Charles Brittain and Peter Osorio)",
+  "yuanwen_h1": "Philo of Larissa",
+  "html_title": "Philo of Larissa",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 34,
+  "p→p": 11,
+  "ol→ol": 3,
+  "ul→ul": 1,
+  "h3→h3": 4,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 6,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+ol+p→p+p+ol+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 48,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "By combining these external constraints on our understanding of the epistemological innovations of the Roman Books with their philosophical context—Philo’s prior position of mitigated skepticism and the criticisms it faced—we can see, at least roughly, how Philo may have given flesh to the basic outline above. Taken together, these considerations suggest three constraints on the range of the knowledge that Philo accepted. They suggest, first, that Philo supplemented the externalist bones of his ",
+   "md_text": "By combining these external constraints on our understanding of the epistemological innovations of the Roman Books with their philosophical context—Philo’s prior position of mitigated skepticism and the criticisms it faced—we can see, at least roughly, how Philo may have given flesh to the basic outline above. Taken together, these considerations suggest three constraints on the range of the knowledge that Philo accepted. They suggest, first, that Philo supplemented the externalist bones of his "
+  },
+  {
+   "i": 8,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "Did Philo change his epistemological position in the period preceding the Roman Books? What was the epistemological position of the Roman Books?",
+   "md_text": "Did Philo change his epistemological position in the period preceding the Roman Books? What was the epistemological position of the Roman Books?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philo of Larissa",
+ "authors": [
+  "Brittain, Charles",
+  "Osorio, Peter"
+ ]
+}

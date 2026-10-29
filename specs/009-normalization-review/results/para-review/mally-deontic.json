@@ -1,0 +1,585 @@
+{
+ "slug": "mally-deontic",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 166,
+ "n_md": 166,
+ "n_pairs": 82,
+ "n_flags": 0,
+ "n_merged": 38,
+ "merged": [
+  {
+   "ratio": 0.9968678220922949,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9923780487804879,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.985207100591716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9917355371900827,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.990990990990991,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973753280839895,
+   "n_h": 10,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953051643192489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.993998908892526,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978118161925602,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9957957957957958,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9685534591194969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958275382475661,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975629569455727,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9984802431610942,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986013986013986,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999344262295082,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9842209072978304,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9793510324483776,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9768303985171455,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9973190348525469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977477477477478,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961685823754789,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9927344782034346,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9747747747747748,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9958620689655172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9744360902255639,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9727403156384505,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.990909090909091,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9944547134935305,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984350547730829,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9926739926739927,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960474308300395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998304126625212,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928212491026561,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987325728770595,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973753280839895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "恩斯特·马利的道义逻辑 deontic logic (Gert-Jan Lokhorst, Stefania Centrone, and Pierluigi Minari)",
+  "zh_h1": "恩斯特·马利的道义逻辑 deontic logic (Gert-Jan Lokhorst, Stefania Centrone, and Pierluigi Minari)",
+  "yuanwen_h1": "Mally’s Deontic Logic",
+  "html_title": "Mally’s Deontic Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 14,
+  "p→∅": 65,
+  "blockquote→∅": 8,
+  "p→p": 44,
+  "ul→∅": 9,
+  "table→table": 16,
+  "blockquote→blockquote": 1,
+  "table→∅": 2,
+  "ol→ol": 1,
+  "ul→ul": 3,
+  "h3→h3": 1,
+  "merged×7(p+blockquote+p+p+p+p+p→p+blockquote+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(ul→ul)": 6,
+  "merged×1(p→p)": 11,
+  "merged×10(p+blockquote+p+p+p+blockquote+p+p+blockquote+p→p+blockquote+p+p+p+blockquote+p+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×3(ul+p+p→ul+p+p)": 2,
+  "merged×4(p+table+p+table→p+table+p+table)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×2(p+p→ol+ol)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 49,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(1) (A f B) → (A f V) (2) (A f Λ) ↔ ∀M (A f M) (3) ((M f A) ∨ (M f B)) → (M f (A ∨ B)) (4) ((M f A) & (N f B)) → ((M & N) f (A & B)) (5) !P ↔ ∀M (M f P) (6) (!P & (P → Q)) → !Q (7) !P → !V (8) ((A f B) & (B f C)) → (A f C) (9) (!P & (P f Q)) → !Q (10) (!A & !B) ↔ !(A & B) (11) (A ∞ B) ↔ !(A ↔ B) (12) (A f B) ↔ (A → !B) ↔ !(A → B) ↔ !¬(A & ¬B) ↔ !(¬A ∨ B) (13) (A → !B) ↔ ¬(A & ¬!B) ↔ (¬A ∨ !B) (14) (A f B) ↔ (¬B f ¬A) (15) ∀M (M f U) (16) (U → A) → !A (17) (U f A) → !A (18) !!A → !A (19) !!A ↔ !A",
+   "md_text": "(1) (A f B) → (A f V) (2) (A f Λ) ↔ ∀M (A f M) (3) ((M f A) ∨ (M f B)) → (M f (A ∨ B)) (4) ((M f A) & (N f B)) → ((M & N) f (A & B)) (5) !P ↔ ∀M (M f P) (6) (!P & (P → Q)) → !Q (7) !P → !V (8) ((A f B) & (B f C)) → (A f C) (9) (!P & (P f Q)) → !Q (10) (!A & !B) ↔ !(A & B) (11) (A ∞ B) ↔ !(A ↔ B) (12) (A f B) ↔ (A → !B) ↔ !(A → B) ↔ !¬(A & ¬B) ↔ !(¬A ∨ B) (13) (A → !B) ↔ ¬(A & ¬!B) ↔ (¬A ∨ !B) (14) (A f B) ↔ (¬B f ¬A) (15) ∀M (M f U) (16) (U → A) → !A (17) (U f A) → !A (18) !!A → !A (19) !!A ↔ !A"
+  },
+  {
+   "i": 16,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Def. f . A f B = A → !B (Mally 1926, p. 12) Def. ∞ . A ∞ B = (A f B) & (B f A) (Mally 1926, p. 22) Def. ∩. ∩ = ¬U (Mally 1926, pp. 18–19)",
+   "md_text": "Def. f . A f B = A → !B (Mally 1926, p. 12) Def. ∞ . A ∞ B = (A f B) & (B f A) (Mally 1926, p. 22) Def. ∩. ∩ = ¬U (Mally 1926, pp. 18–19)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Mally’s Deontic Logic",
+ "authors": [
+  "Lokhorst, Gert-Jan",
+  "Centrone, Stefania",
+  "Minari, Pierluigi"
+ ]
+}

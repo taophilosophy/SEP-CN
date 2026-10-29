@@ -1,0 +1,1597 @@
+{
+ "slug": "epistemic-game",
+ "letter": "e",
+ "state": "flagged",
+ "n_html": 461,
+ "n_md": 529,
+ "n_pairs": 293,
+ "n_flags": 23,
+ "n_merged": 99,
+ "merged": [
+  {
+   "ratio": 0.999508116084604,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975926817525277,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9933774834437086,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981008651614265,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984544049459042,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977502812148481,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968454258675079,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986876640419947,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985781990521327,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9940546967895363,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999242615501136,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961389961389961,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956211108550357,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942418426103646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964328180737217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9923002887391723,
+   "n_h": 6,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9814814814814815,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994256999282125,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937444146559428,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978213507625272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951409135082604,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985734664764622,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964841788046208,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9899497487437185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999163179916318,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991158267020336,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9836065573770492,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998992950654582,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983792544570502,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9898697539797395,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994991652754591,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973333333333333,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975903614457832,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992492492492493,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9917898193760263,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9585253456221198,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "table",
+    "table",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977827050997783,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ul",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9919354838709677,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9699157641395909,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "figure",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "table",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9878542510121457,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981949458483754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978213507625272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961270333075135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9917627677100495,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972527472527473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977668602054489,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987440341622708,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978260869565218,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996309963099631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9893617021276596,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994236311239193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976133651551312,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999117387466902,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988304093567252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992406985573272,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998165137614679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9918489918489919,
+   "n_h": 6,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "figure",
+    "p",
+    "p",
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987760097919217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980506822612085,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9516129032258065,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966254218222722,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984152139461173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999213217938631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9920634920634921,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981684981684982,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994036970781157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971014492753624,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991836734693877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977220956719818,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994179278230501,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934640522875817,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959514170040485,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988597491448119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.989159891598916,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985034420832086,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998677831643896,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991980753809142,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9875067897881586,
+   "n_h": 2,
+   "n_m": 15,
+   "shape_h": [
+    "figure",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99904,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952305246422893,
+   "n_h": 6,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "figure",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989489173849064,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969018932874355,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967845659163987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991167638226461,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9866071428571429,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997160704145372,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933460076045627,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991433955799212,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994008388256441,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994121105232217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997086247086247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9936708860759493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9610894941634242,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "博弈论的认识论基础 epistemic foundations of (Eric Pacuit and Olivier Roy)",
+  "zh_h1": "博弈论的认识论基础 epistemic foundations of (Eric Pacuit and Olivier Roy)",
+  "yuanwen_h1": "Epistemic Foundations of Game Theory",
+  "html_title": "Epistemic Foundations of Game Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 162,
+  "h3→h3": 19,
+  "p→∅": 136,
+  "ol→∅": 5,
+  "figure→∅": 14,
+  "h4→h4": 17,
+  "blockquote→blockquote": 9,
+  "ul→ul": 15,
+  "ul→∅": 8,
+  "figure→p": 9,
+  "p→mathblock": 44,
+  "ol→ol": 9,
+  "dl→∅": 3,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+ol→p+ol)": 2,
+  "merged×3(p+figure+p→p+p+table+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 4,
+  "merged×1(p→p)": 50,
+  "merged×2(ul+p→ul+p)": 2,
+  "merged×1(p→p+p)": 5,
+  "merged×2(p+p→p+p)": 10,
+  "merged×6(p+p+ul+p+p+figure→p+p+ul+p+p+p+table+p)": 1,
+  "merged×3(p+p+p→p+p+p+p)": 1,
+  "merged×2(ol+p→ol+p+p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×1(ul→ul)": 4,
+  "merged×2(ol+p→ol+p)": 2,
+  "merged×1(figure→p+table+table+table+table+p)": 1,
+  "merged×3(p+figure+figure→p+p+table+p+p+table+table+p)": 1,
+  "merged×1(dl→p+p)": 3,
+  "merged×6(p+figure+p+p+figure+p→p+p+table+p+p+p+p+p+table+p+table+p+table+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×2(figure+p→p+p+table+p+table+p+table+p+table+p+table+p+table+p+p)": 1,
+  "merged×6(p+figure+p+p+p+p→p+p+table+p+p+p+p+p)": 1,
+  "merged×2(p+figure→p+p+table+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 48,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3"
+  },
+  {
+   "kind": "replace",
+   "i": 265,
+   "j": 288,
+   "ratio": 0.24324324324324326,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Bob l c r Ann x 3,3 1,1 0,0 y 1,1 3,3 1,0 z 0,4 0,0 4,0 Figure 12",
+   "md_text": "Figure 12"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 289,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "Bob l c r Ann x 3,3 1,1 0,0 y 1,1 3,3 1,0 z 0,4 0,0 4,0"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 290,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 12"
+  },
+  {
+   "kind": "replace",
+   "i": 267,
+   "j": 292,
+   "ratio": 0.13636363636363635,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "l c r x 3,3 1,1 0,0 y 1,1 3,3 1,0 z 0,4 0,0 4,0 ⟦M⟧ l c x 3,3 1,1 y 1,1 3,3 z 0,4 0,0 ⟦M⟧ l c x 3,3 1,1 y 1,1 3,3 Figure 13",
+   "md_text": "Figure 13"
+  },
+  {
+   "kind": "replace",
+   "i": 268,
+   "j": 293,
+   "ratio": 0.06162464985994398,
+   "shape_h": "p",
+   "shape_m": "table",
+   "html_text": "For arbitrary large (finite) strategic games, if all players are rational and there is common belief that all players are rational , then the players’ choices will be a strategy profile that is iteratively non-dominated. Before stating the formal result, we illustrate it with an example. Consider a type space",
+   "md_text": "l c r x 3,3 1,1 0,0 y 1,1 3,3 1,0 z 0,4 0,0 4,0"
+  },
+  {
+   "kind": "replace",
+   "i": 270,
+   "j": 295,
+   "ratio": 0.07407407407407407,
+   "shape_h": "p",
+   "shape_m": "table",
+   "html_text": "where ⟦M⟧ is the set of players ( a for Ann and b for Bob) and ⟦M⟧ is the set of strategy profiles in the game depicted in Figure 12 . Suppose that there are two types for Ann ⟦M⟧ and three types for Bob ⟦M⟧ . The type functions ⟦M⟧ and ⟦M⟧ are defined as follows:",
+   "md_text": "l c x 3,3 1,1 y 1,1 3,3 z 0,4 0,0"
+  },
+  {
+   "kind": "replace",
+   "i": 271,
+   "j": 296,
+   "ratio": 0.02857142857142857,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "l c r ⟦M⟧ ⟦M⟧ 0.5 0.5 0 ⟦M⟧ 0 0 0 ⟦M⟧ 0 0 0 l c r ⟦M⟧ ⟦M⟧ 0 0.5 0 ⟦M⟧ 0 0 0.5 ⟦M⟧ 0 0 0 x y z ⟦M⟧ ⟦M⟧ 0.5 0.5 0 ⟦M⟧ 0 0 0 x y z ⟦M⟧ ⟦M⟧ 0.25 0.25 0 ⟦M⟧ 0.25 0.25 0 x y z ⟦M⟧ ⟦M⟧ 0.5 0 0 ⟦M⟧ 0 0 0.5 Figure 14",
+   "md_text": "⟦M⟧"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 297,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "l c x 3,3 1,1 y 1,1 3,3"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 298,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 13"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 299,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "For arbitrary large (finite) strategic games, if all players are rational and there is common belief that all players are rational, then the players’ choices will be a strategy profile that is iteratively non-dominated. Before stating the formal result, we illustrate it with an example. Consider a type space"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 300,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "mathblock",
+   "html_text": null,
+   "md_text": "⟦M⟧"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 301,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "where ⟦M⟧ is the set of players (a for Ann and b for Bob) and ⟦M⟧ is the set of strategy profiles in the game depicted in Figure 12. Suppose that there are two types for Ann ⟦M⟧ and three types for Bob ⟦M⟧ . The type functions ⟦M⟧ and ⟦M⟧ are defined as follows:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 302,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 14"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 303,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "l c r ⟦M⟧ ⟦M⟧ 0.5 0.5 0 ⟦M⟧ 0 0 0 ⟦M⟧ 0 0 0"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 304,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "l c r ⟦M⟧ ⟦M⟧ 0 0.5 0 ⟦M⟧ 0 0 0.5 ⟦M⟧ 0 0 0"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 305,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "x y z ⟦M⟧ ⟦M⟧ 0.5 0.5 0 ⟦M⟧ 0 0 0"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 306,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "x y z ⟦M⟧ ⟦M⟧ 0.25 0.25 0 ⟦M⟧ 0.25 0.25 0"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 307,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "x y z ⟦M⟧ ⟦M⟧ 0.5 0 0 ⟦M⟧ 0 0 0.5"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 308,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 14"
+  },
+  {
+   "kind": "replace",
+   "i": 374,
+   "j": 422,
+   "ratio": 0.391304347826087,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "B l r A u 2,2 0,0 d 0,0 1,1 Figure 19",
+   "md_text": "Figure 19"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 423,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "B l r A u 2,2 0,0 d 0,0 1,1"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 424,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 19"
+  }
+ ],
+ "spot": [
+  {
+   "i": 440,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In all of the results presented in this article, the structure of the game (who is playing, what are the preferences of the players, and which actions are available) is assumed to be common knowledge among the players. There are of course many situations where the players do not have such complete information about the game. The models of games presented in Section 2 can be used to describe the beliefs of players with incomplete information about the game. However, these models cannot capture ca",
+   "md_text": "In all of the results presented in this article, the structure of the game (who is playing, what are the preferences of the players, and which actions are available) is assumed to be common knowledge among the players. There are of course many situations where the players do not have such complete information about the game. The models of games presented in Section 2 can be used to describe the beliefs of players with incomplete information about the game. However, these models cannot capture ca"
+  },
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Definition 1.1 (Game in Strategic Form) A game in strategic form is a tuple ⟦M⟧ where ⟦M⟧ is a nonempty finite set of players, for each ⟦M⟧ , ⟦M⟧ is a nonempty set of actions for player ⟦M⟧ , and for each ⟦M⟧ , ⟦M⟧ is player ⟦M⟧ ’s utility function, where ⟦M⟧ is the set of strategy profiles.",
+   "md_text": "Definition 1.1 (Game in Strategic Form) A game in strategic form is a tuple ⟦M⟧ where ⟦M⟧ is a nonempty finite set of players, for each ⟦M⟧ , ⟦M⟧ is a nonempty set of actions for player ⟦M⟧ , and for each ⟦M⟧ , ⟦M⟧ is player ⟦M⟧ ’s utility function, where ⟦M⟧ is the set of strategy profiles."
+  },
+  {
+   "i": 23,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Strategic uncertainty: What will the other players do? Higher-order information: What are the other players thinking?",
+   "md_text": "Strategic uncertainty: What will the other players do? Higher-order information: What are the other players thinking?"
+  }
+ ],
+ "supplements": [
+  "figdesc.html",
+  "supplement.html"
+ ],
+ "meta_title": "Epistemic Foundations of Game Theory",
+ "authors": [
+  "Pacuit, Eric",
+  "Roy, Olivier"
+ ]
+}

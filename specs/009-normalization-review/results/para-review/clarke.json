@@ -1,0 +1,439 @@
+{
+ "slug": "clarke",
+ "letter": "c",
+ "state": "flagged",
+ "n_html": 90,
+ "n_md": 98,
+ "n_pairs": 38,
+ "n_flags": 6,
+ "n_merged": 23,
+ "merged": [
+  {
+   "ratio": 0.9997649823736781,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991544055470996,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979919678714859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993399339933994,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989075018208303,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996628455832771,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996550534667127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999424355015961,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967456996745699,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982815901019589,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987878787878788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983559069913098,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999106167444632,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991529013130029,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929078014184397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991289198606271,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999529854254819,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990825688073395,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994432691237056,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979011194029851,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9962880475129918,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9553349875930521,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)",
+  "zh_h1": "塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)",
+  "yuanwen_h1": "Samuel Clarke",
+  "html_title": "Samuel Clarke",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "h3→h3": 13,
+  "p→∅": 49,
+  "p→p": 14,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×1(p→p)": 6,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 4,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 86,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "W Clarke, S., 1738, The Works, B. Hoadly (ed.), London; reprint New York: Garland Publishing Co, 2002. D Clarke, S., 1705, A Demonstration of the Being and Attributes of God And Other Writings, E. Vailati (ed.), Cambridge: Cambridge University Press, 1998. CC Clarke, S., and Collins, A., 1707–1708, The Correspondence of Samuel Clarke and Anthony Collins, W. Uzgalis (ed.), Buffalo, NY: Broadview Press, 2011. L,C Leibniz, G.W., and Clarke, S., 1715–1716, The Leibniz–Clarke Correspondence, H. G. Alexander (ed.), Manchester, UK: Manchester University Press, 1956. LCC Leibniz, G.W., Clarke, S., and Caroline of Ansbach, 1710–1718, The Leibniz–Caroline–Clarke Correspondence, G. Brown (ed.), Oxford: Oxford University Press, 2023. NC North, R. and Clarke, S., 1704–1713, Seeking Truth: Roger North’s"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 87,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 88,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Biography"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 89,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Metaphysics and Correspondence"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 90,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Ethics, Religion, and the Boyle Lectures"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 91,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Influence and Reception"
+  }
+ ],
+ "spot": [
+  {
+   "i": 70,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Clarke thought deists could be convinced to abandon their position because deism is unstable. In Clarke’s taxonomy, there are four categories of deists (W 2.600ff). The first group say they believe in “an Eternal, Infinite, Independent, Intelligent Being” that made the world, but this God is not involved in the governing of the world nor does God care for what happens in it. In response, Clarke argues (1) that the best science of the day has shown that the nature of matter is insufficient to gro",
+   "md_text": "Clarke thought deists could be convinced to abandon their position because deism is unstable. In Clarke’s taxonomy, there are four categories of deists (W 2.600ff). The first group say they believe in “an Eternal, Infinite, Independent, Intelligent Being” that made the world, but this God is not involved in the governing of the world nor does God care for what happens in it. In response, Clarke argues (1) that the best science of the day has shown that the nature of matter is insufficient to gro"
+  },
+  {
+   "i": 74,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "There are eternal and necessary differences (or “reasons”) of things, from which “necessarily arises an agreement or disagreement of some things with others, or a fitness or unfitness of the application of different things or different relations one to another” (W 2.608). God wills to act according to these eternal reasons of things (W 2.612). All rational creatures should choose to act according to the eternal rule of reason (by which Clarke seems to mean these eternal relations) (W 2.612), and",
+   "md_text": "There are eternal and necessary differences (or “reasons”) of things, from which “necessarily arises an agreement or disagreement of some things with others, or a fitness or unfitness of the application of different things or different relations one to another” (W 2.608). God wills to act according to these eternal reasons of things (W 2.612). All rational creatures should choose to act according to the eternal rule of reason (by which Clarke seems to mean these eternal relations) (W 2.612), and"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Samuel Clarke",
+ "authors": [
+  "Yenter, Timothy",
+  "Vailati, Ezio"
+ ]
+}

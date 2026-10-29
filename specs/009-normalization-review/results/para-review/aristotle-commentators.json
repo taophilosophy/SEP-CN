@@ -1,0 +1,243 @@
+{
+ "slug": "aristotle-commentators",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 61,
+ "n_md": 61,
+ "n_pairs": 20,
+ "n_flags": 1,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9987405541561712,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974888931813792,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960059340408536,
+   "n_h": 11,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996757457846952,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980806142034548,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980246449064057,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987306802060778,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974099364257123,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9933142311365807,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的评注者 Aristotle, commentators on (Andrea Falcon)",
+  "zh_h1": "亚里士多德的评注者 Aristotle, commentators on (Andrea Falcon)",
+  "yuanwen_h1": "Commentators on Aristotle",
+  "html_title": "Commentators on Aristotle",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 33,
+  "blockquote→∅": 4,
+  "h2→∅": 2,
+  "blockquote→blockquote": 2,
+  "p→p": 8,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×5(p+blockquote+p+h2+p→p+blockquote+p+h2+p)": 1,
+  "merged×11(p+p+p+p+p+p+p+h2+p+p+p→p+p+p+p+p+p+p+h2+p+p+p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×7(p+p+p+p+p+blockquote+p→p+p+p+p+p+blockquote+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×7(p+p+p+p+blockquote+p+p→p+p+p+p+blockquote+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 58,
+   "j": 58,
+   "ratio": 0.9442231075697212,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Alexander of Aphrodisias | Ammonius | Aristotelianism: in the Renaissance | Aristotle | Aristotle, General Topics: categories | Boethius, Anicius Manlius Severinus | David | Elias | Neoplatonism | Olympiodorus | Philoponus | Plato | Plotinus | Porphyry | Simplicius",
+   "md_text": "Alexander of Aphrodisias Ammonius Aristotelianism: in the Renaissance Aristotle Aristotle, General Topics: categories Boethius, Anicius Manlius Severinus David Elias Neoplatonism Olympiodorus Philoponus Plato Plotinus Porphyry Simplicius"
+  }
+ ],
+ "spot": [
+  {
+   "i": 26,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The study of Aristotle through close textual reading of his works continued, if not increased, in Late Antiquity. So did the supply of commentaries on all his major works. Unlike Alexander of Aphrodisias, most of these commentators considered themselves followers of Plato (that is, Platonists.) By their lights, Plato’s philosophy was superior to all the systems of thought that came later. In addition, they believed that all these later systems started out as more or less faithful developments of",
+   "md_text": "The study of Aristotle through close textual reading of his works continued, if not increased, in Late Antiquity. So did the supply of commentaries on all his major works. Unlike Alexander of Aphrodisias, most of these commentators considered themselves followers of Plato (that is, Platonists.) By their lights, Plato’s philosophy was superior to all the systems of thought that came later. In addition, they believed that all these later systems started out as more or less faithful developments of"
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Commentators on Aristotle",
+ "authors": [
+  "Falcon, Andrea"
+ ]
+}

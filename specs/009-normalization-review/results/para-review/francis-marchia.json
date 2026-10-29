@@ -1,0 +1,217 @@
+{
+ "slug": "francis-marchia",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 51,
+ "n_md": 51,
+ "n_pairs": 24,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9984859190471383,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993857493857494,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977807367953839,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983319432860718,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986873195064321,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.99922935562274,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999068612232226,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998780487804878,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994520547945206,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986577181208054,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "马尔基亚的弗朗西斯 Francis of Marchia (Christopher Schabel)",
+  "zh_h1": "马尔基亚的弗朗西斯 Francis of Marchia (Christopher Schabel)",
+  "yuanwen_h1": "Francis of Marchia",
+  "html_title": "Francis of Marchia",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 24,
+  "blockquote→blockquote": 4,
+  "p→p": 9,
+  "blockquote→∅": 3,
+  "ul→ul": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 25,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Therefore I maintain differently that, as was said, there are two kinds of contingent effects: one natural, one voluntary. And according to this I posit two conclusions. The first conclusion is that a contingent natural effect, given the general influence of the First Cause, can be known determinately by a created intellect, although not by a human intellect, through its contingent causes. Let me explain: every effect that is dependent on a finite number of causes necessarily bringing it about c",
+   "md_text": "Therefore I maintain differently that, as was said, there are two kinds of contingent effects: one natural, one voluntary. And according to this I posit two conclusions. The first conclusion is that a contingent natural effect, given the general influence of the First Cause, can be known determinately by a created intellect, although not by a human intellect, through its contingent causes. Let me explain: every effect that is dependent on a finite number of causes necessarily bringing it about c"
+  },
+  {
+   "i": 48,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Centro Studi Francesco D'Appignano (Italian)",
+   "md_text": "Centro Studi Francesco D'Appignano (Italian)"
+  }
+ ],
+ "supplements": [
+  "primum.html",
+  "secundum.html"
+ ],
+ "meta_title": "Francis of Marchia",
+ "authors": [
+  "Schabel, Christopher"
+ ]
+}

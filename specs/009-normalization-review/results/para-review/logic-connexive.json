@@ -1,0 +1,650 @@
+{
+ "slug": "logic-connexive",
+ "letter": "l",
+ "state": "flagged",
+ "n_html": 177,
+ "n_md": 191,
+ "n_pairs": 63,
+ "n_flags": 4,
+ "n_merged": 32,
+ "merged": [
+  {
+   "ratio": 0.9949334669561828,
+   "n_h": 1,
+   "n_m": 15,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9945115257958288,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9871726349545697,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9990412272291467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967405475880052,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973995954926322,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978553324234744,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936708860759493,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955445544554455,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9923127608170437,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982174688057041,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985611510791367,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9885823025689819,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9571984435797666,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950824414231993,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987789987789988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9545937737281701,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971223021582734,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9773299748110831,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9935950988582567,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9820998278829605,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "h3"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote",
+    "p",
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.9954639175257732,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "h4",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "h4",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9798691181053287,
+   "n_h": 16,
+   "n_m": 16,
+   "shape_h": [
+    "table",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "h4",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "h4",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.986679822397632,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9925779317169718,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9885951270088128,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937398562485509,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9927310488058152,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9839108910891089,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.992266508030934,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9982964224872232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "连接逻辑 connexive (Heinrich Wansing)",
+  "zh_h1": "连接逻辑 connexive (Heinrich Wansing)",
+  "yuanwen_h1": "Connexive Logic",
+  "html_title": "Connexive Logic",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h3→h3": 8,
+  "p→∅": 72,
+  "blockquote→∅": 28,
+  "p→p": 36,
+  "h4→h4": 9,
+  "ol→∅": 1,
+  "table→∅": 8,
+  "table→table": 1,
+  "h2→h2": 7,
+  "h3→∅": 1,
+  "h4→∅": 2,
+  "blockquote→blockquote": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+blockquote+p+blockquote+p+blockquote+p+blockquote+p+blockquote+p+p+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 2,
+  "merged×3(blockquote+p+blockquote→blockquote+p+blockquote)": 1,
+  "merged×1(p→p)": 6,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×6(p+blockquote+p+blockquote+p+blockquote→p+blockquote+p+blockquote+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×2(table+p→table+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×3(table+p+p→table+p+p)": 1,
+  "merged×7(p+blockquote+p+p+p+p+blockquote→p+blockquote+p+p+p+p+blockquote)": 1,
+  "merged×9(p+blockquote+p+p+blockquote+p+blockquote+p+p→p+blockquote+p+p+blockquote+p+blockquote+p+p)": 1,
+  "merged×9(p+blockquote+p+p+blockquote+p+blockquote+p+h3→p+blockquote+p+p+blockquote+p+blockquote+p+h3)": 1,
+  "merged×5(blockquote+p+h4+p+p→blockquote+p+h4+p+p)": 1,
+  "merged×16(table+p+blockquote+p+p+p+blockquote+p+table+p+p+p+h4+p+blockquote+p→table+p+blockquote+p+p+p+blockquote+p+table+p+p+p+h4+p+blockquote+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×7(p+p+blockquote+p+p+blockquote+p→p+p+blockquote+p+p+blockquote+p)": 1,
+  "merged×4(p+p+p+blockquote→p+p+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 71,
+   "j": 85,
+   "ratio": 0.9290322580645162,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "A1 ( A → B ) → (( B → C ) → ( A → C )) A2 (( A → A ) → B ) → B A3 ( A → B ) → (( A ∧ C ) → ( B ∧ C )) A4 ( A ∧ A ) → ( B → B ) A5 ( A ∧ ( B ∧ C )) → ( B ∧ ( A ∧ C )) A6 ( A ∧ A ) → (( A → A ) → ( A ∧ A )) A7 A → ( A ∧ ( A ∧ A )) A8 (( A → ~ B ) ∧ B ) → ~ A A9 ( A ∧ ~( A ∧ ~ B )) → B A10 ~( A ∧ ~( A ∧ A )) A11 (~ A ∨ (( A → A ) → A )) ∨ ((( A → A ) ∨ ( A → A )) → A ) A12 ( A → A ) → ~( A → ~ A ) R1 if ⊢ A and ⊢ ( A → B ), then ⊢ B (modus ponens) R2 if ⊢ A and ⊢ B , then ⊢ ( A ∧ B ) (adjunction)",
+   "md_text": "A1 (A → B) → ((B → C) → (A → C)) A2 ((A → A) → B) → B A3 (A→ B) → ((A ∧ C) → (B ∧ C)) A4 (A ∧ A) → (B → B) A5 (A ∧ (B ∧ C)) → (B ∧ (A ∧ C)) A6 (A ∧ A) → ((A → A) → (A ∧ A)) A7 A → (A ∧ (A ∧ A)) A8 ((A → ~B) ∧ B) → ~A A9 (A ∧ ~(A ∧ ~B)) → B A10 ~(A ∧ ~(A ∧ A)) A11 (~A ∨ ((A → A) → A)) ∨ (((A → A) ∨ (A → A)) → A) A12 (A → A) → ~(A → ~A) R1 if ⊢ A and ⊢ (A → B), then ⊢ B (modus ponens) R2 if ⊢ A and ⊢ B, then ⊢ (A ∧ B) (adjunction)"
+  },
+  {
+   "kind": "replace",
+   "i": 77,
+   "j": 91,
+   "ratio": 0.42677824267782427,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "~ T F F T − − ∧ T F − T T F − F F F F − − F − ∨ T F − T T T T F T F − − T − − → T F − T T F − F − − − − T F −",
+   "md_text": "（嵌套表：| ~ | | | --- | --- | | T | F | | F | T | | − | − |） （嵌套表：| ∧ | T | F | − | | --- | --- | --- | --- | | T | T | F | − | | F | F | F | F | | − | − | F | − |） （嵌套表：| ∨ | T | F | − | | --- | --- | --- | --- | | T | T | T | T | | F | T | F | − | | − | T | − | − |） （嵌套表：| → | T | F | − | | --- | --- | --- | --- | | T | T | F | − | | F | − | − | − | | − | T | F | − |）"
+  },
+  {
+   "kind": "replace",
+   "i": 137,
+   "j": 151,
+   "ratio": 0.9470198675496688,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "a1 ⟦S⟧ the axioms of classical positive logic a2 ~~ A ↔ A a3 ~( A ∨ B ) ↔ (~ A ∧ ~ B ) a4 ~( A ∧ B ) ↔ (~ A ∨ ~ B ) a5 ~( A → B ) ↔ ( A → ~ B ) R1 modus ponens",
+   "md_text": "a1 ⟦S⟧ the axioms of classical positive logic a2 ~~A ↔ A a3 ~(A ∨ B) ↔ (~A ∧ ~B) a4 ~(A ∧ B) ↔ (~A ∨ ~B) a5 ~(A → B) ↔ (A → ~B) R1 modus ponens"
+  },
+  {
+   "kind": "replace",
+   "i": 139,
+   "j": 153,
+   "ratio": 0.4424778761061947,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "~ T F B B N N F T ∧ T B N F T T B N F B B B F F N N F N F F F F F F ∨ T B N F T T T T T B T B T B N T T N N F T B N F → T B N F T T B N F B T B N F N B B B B F B B B B",
+   "md_text": "（嵌套表：| ~ | | | --- | --- | | T | F | | B | B | | N | N | | F | T |） （嵌套表：| ∧ | T | B | N | F | | --- | --- | --- | --- | --- | | T | T | B | N | F | | B | B | B | F | F | | N | N | F | N | F | | F | F | F | F | F |） （嵌套表：| ∨ | T | B | N | F | | --- | --- | --- | --- | --- | | T | T | T | T | T | | B | T | B | T | B | | N | T | T | N | N | | F | T | B | N | F |） （嵌套表：| → | T | B | N | F | | --- | --- | --- | --- | --- | | T | T | B | N | F | | B | T | B | N | F | | N | B | B | B | B | | F | B | B | B | B |）"
+  }
+ ],
+ "spot": [
+  {
+   "i": 48,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Empirical studies on Aristotle’s theses have been carried out by Pfeifer (2012), Pfeifer and Tulkki (2017), and Pfeifer and Yama (2017). In one experiment, presented in Pfeifer 2012, the sample consisted of 141 psychology students (110 females and 31 males) at the University of Salzburg, Austria. Both AT and AT′ were tested as abstract as well as concrete indicative conditionals. In a second experiment, 40 students without training in logic (20 females and 20 males) had to solve tasks involving ",
+   "md_text": "Empirical studies on Aristotle’s theses have been carried out by Pfeifer (2012), Pfeifer and Tulkki (2017), and Pfeifer and Yama (2017). In one experiment, presented in Pfeifer 2012, the sample consisted of 141 psychology students (110 females and 31 males) at the University of Salzburg, Austria. Both AT and AT′ were tested as abstract as well as concrete indicative conditionals. In a second experiment, 40 students without training in logic (20 females and 20 males) had to solve tasks involving "
+  },
+  {
+   "i": 66,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "conditional negation consequence relation Angell-McCall, section 4.1 material + tweak classical standard Routley, section 4.2 relevant + ‘generation relation’ star standard Priest, section 4.3 strict + tweak classical non-standard Jarmużek and Malinowski, section 4.4 material + double-barreld analysis classical standard Pizzi, section 5 strict + tweak classical standard Wansing, section 4.5 various kinds De Morgan standard",
+   "md_text": "conditional negation consequence relation Angell-McCall, section 4.1 material + tweak classical standard Routley, section 4.2 relevant + ‘generation relation’ star standard Priest, section 4.3 strict + tweak classical non-standard Jarmużek and Malinowski, section 4.4 material + double-barreld analysis classical standard Pizzi, section 5 strict + tweak classical standard Wansing, section 4.5 various kinds De Morgan standard"
+  }
+ ],
+ "supplements": [
+  "supplement.html"
+ ],
+ "meta_title": "Connexive Logic",
+ "authors": [
+  "Wansing, Heinrich"
+ ]
+}

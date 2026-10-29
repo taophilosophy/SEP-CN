@@ -1,0 +1,194 @@
+{
+ "slug": "william-jevons",
+ "letter": "w",
+ "state": "ok",
+ "n_html": 44,
+ "n_md": 44,
+ "n_pairs": 23,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9996372869060574,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99800796812749,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9888888888888889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9958144401813742,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9758771929824561,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9977640405103249,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986484457125695,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999162619326746,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994674619235275,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987896393125151,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "威廉·斯坦利·杰文斯 Jevons, William Stanley (Bert Mosselmans)",
+  "zh_h1": "威廉·斯坦利·杰文斯 Jevons, William Stanley (Bert Mosselmans)",
+  "yuanwen_h1": "William Stanley Jevons",
+  "html_title": "William Stanley Jevons",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→∅": 18,
+  "p→p": 11,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "merged×1(p→p)": 2,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(ul→ul)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 35,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Black (1995) recognizes that, after 1867, Jevons' “increasing faith in the validity of Spencer’s theory of evolution was combined with decreasing faith in the validity of laissez-faire as a guide for economic policy”. Unitarians struggled with the ‘contradiction’ between the need for individual self-improvement on the one hand, and active interventionism on the other hand. This ‘contradiction’ can also be depicted as a tension existing between a belief in scientific principles on the one hand — ",
+   "md_text": "Black (1995) recognizes that, after 1867, Jevons' “increasing faith in the validity of Spencer’s theory of evolution was combined with decreasing faith in the validity of laissez-faire as a guide for economic policy”. Unitarians struggled with the ‘contradiction’ between the need for individual self-improvement on the one hand, and active interventionism on the other hand. This ‘contradiction’ can also be depicted as a tension existing between a belief in scientific principles on the one hand — "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "William Stanley Jevons",
+ "authors": [
+  "Mosselmans, Bert"
+ ]
+}

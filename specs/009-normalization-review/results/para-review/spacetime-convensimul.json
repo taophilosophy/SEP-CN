@@ -1,0 +1,132 @@
+{
+ "slug": "spacetime-convensimul",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 31,
+ "n_md": 31,
+ "n_pairs": 23,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9983958934873276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984464008285863,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999330207635633,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955835962145111,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999744702578504,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999662276258021,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "同时性的约定性 conventionality of simultaneity (Allen Janis)",
+  "zh_h1": "同时性的约定性 conventionality of simultaneity (Allen Janis)",
+  "yuanwen_h1": "Conventionality of Simultaneity",
+  "html_title": "Conventionality of Simultaneity",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 7,
+  "p→p": 12,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Other commentators disagree with such arguments, however. Grünbaum (2010) has written a detailed critique of Malament’s paper. He first cites Malament’s need to postulate that S is an equivalence relation as a weakness in the argument, a view also endorsed by Redhead (1993, 114). Grünbaum’s main argument, however, is based on an earlier argument by Janis (1983, 107–109) that Malament’s theorem leads to a unique (but different) synchrony relative to any inertial observer, that this latitude is th",
+   "md_text": "Other commentators disagree with such arguments, however. Grünbaum (2010) has written a detailed critique of Malament’s paper. He first cites Malament’s need to postulate that S is an equivalence relation as a weakness in the argument, a view also endorsed by Redhead (1993, 114). Grünbaum’s main argument, however, is based on an earlier argument by Janis (1983, 107–109) that Malament’s theorem leads to a unique (but different) synchrony relative to any inertial observer, that this latitude is th"
+  }
+ ],
+ "supplements": [
+  "further-discussion.html",
+  "transport-clocks.html"
+ ],
+ "meta_title": "Conventionality of Simultaneity",
+ "authors": [
+  "Janis, Allen"
+ ]
+}

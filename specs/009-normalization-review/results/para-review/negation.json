@@ -1,0 +1,999 @@
+{
+ "slug": "negation",
+ "letter": "n",
+ "state": "flagged",
+ "n_html": 248,
+ "n_md": 354,
+ "n_pairs": 131,
+ "n_flags": 12,
+ "n_merged": 51,
+ "merged": [
+  {
+   "ratio": 0.995910949568378,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983525535420099,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982810485603781,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979716024340771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975328947368421,
+   "n_h": 6,
+   "n_m": 17,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9909335124244459,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988851727982163,
+   "n_h": 2,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950124688279302,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 6,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979057591623036,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998960498960499,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992647058823529,
+   "n_h": 4,
+   "n_m": 14,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955271565495207,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "ul",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980342600393148,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970225435984688,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977186311787072,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993002099370188,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996594778660613,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9964932233911478,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949698189134809,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952693422859759,
+   "n_h": 9,
+   "n_m": 24,
+   "shape_h": [
+    "p",
+    "p",
+    "dl",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964352401969105,
+   "n_h": 6,
+   "n_m": 18,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965870307167235,
+   "n_h": 2,
+   "n_m": 11,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988545246277205,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980119284294234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999227202472952,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997081144191477,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989266547406083,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989909182643795,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990950226244344,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987163029525032,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974741676234213,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992652461425422,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991728701406121,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980276134122288,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990375360923965,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991551675584343,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988262910798122,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990693345742205,
+   "n_h": 2,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990610328638497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993174061433447,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963768115942029,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973799126637555,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969918349806618,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.986627043090639,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "否定 negation (Laurence R. Horn and Heinrich Wansing)",
+  "zh_h1": "否定 negation (Laurence R. Horn and Heinrich Wansing)",
+  "yuanwen_h1": "Negation",
+  "html_title": "Negation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 5,
+  "h3→h3": 17,
+  "p→∅": 83,
+  "p→p": 76,
+  "blockquote→∅": 7,
+  "dl→∅": 24,
+  "ul→∅": 3,
+  "blockquote→blockquote": 9,
+  "figure→p": 4,
+  "h4→h4": 2,
+  "p→mathblock": 14,
+  "ul→ul": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 4,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×6(p+blockquote+p+p+dl+p→p+blockquote+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(dl+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×1(dl→p+p+p+p)": 2,
+  "merged×1(dl→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 3,
+  "merged×3(p+p+dl→p+p+p+p+p+p+p+p)": 1,
+  "merged×4(dl+p+dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(ul+p+dl→ul+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×2(p+dl→p+p+p)": 1,
+  "merged×6(p+p+blockquote+p+p+p→p+p+blockquote+p+p+p)": 1,
+  "merged×9(p+p+dl+p+p+dl+p+dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×6(dl+p+p+p+dl+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+dl→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(ul→ul)": 2
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 71,
+   "j": 111,
+   "ratio": 0.11575091575091576,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "⟦M⟧ drift is attested cross-linguistically in the meaning shift of lexical items like Old English nealles (lit. “NEG all”) = “not at all”, Dutch nimmer (lit., “NEG always”) = “never”, or Russian nel’zja (lit. “NEG must”) = “mustn’t”, and in words like unlikely, inadvisable , or disbelieve , whose prefixal negations yield only contrary, not contradictory, interpretations. The reverse shift, in which apparent E forms develop O meanings, appears to be unattested (cf. Horn 2015).",
+   "md_text": "![[A square diagram, upper left vertex is 'A' and labeled 'box phi'; upper right vertex is 'E' and labeled 'box not phi equivalent not diamond phi'; lower left vertex is 'I' and labeled 'diamond phi'; lower right vertex is 'O' and labeled 'not box phi equivalent diamond not phi'. 'A' and 'E' are connected by a double headed arrow labeled 'contraries'; 'A' and 'I' are connect by an arrow pointing to 'I' and labeled 'entails'. 'E' connects to 'O' with an arrow pointing to 'O' labeled 'entails'. 'I' and 'O' are connected by a double headed arrow labeled 'subcontraries'. In the center of the square is a label, 'contradictories' with lines from all four vertices to it. The line from 'A' is labeled 'a must F'; the line from 'E' is labeled 'a can't F'; the line from 'I' is labeled 'a may F' and t"
+  },
+  {
+   "kind": "replace",
+   "i": 72,
+   "j": 112,
+   "ratio": 0.015523932729624839,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In litotes and neg-raising, the interpretation of formal contradictories as contraries arises from the accessibility of the relevant disjunction, triggering the disjunctive syllogism. The homogeneity or all-or-none presupposition (Fodor 1970) applying to bare plurals, plural definites, and mass predications results in a comparable effect; it is natural to strengthen negative statements like Mammals don’t lay eggs , The children aren’t sleeping , or I don’t eat meat to affirmations of contraries rather than understanding them as simple wide-scope negations of the corresponding positives ( Mammals lay eggs , The children are sleeping , I eat meat ) as would be the case with overtly quantified universals. The relevant principle has been variously formulated:",
+   "md_text": "Figure 1"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 113,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "⟦M⟧ drift is attested cross-linguistically in the meaning shift of lexical items like Old English nealles (lit. “NEG all”) = “not at all”, Dutch nimmer (lit., “NEG always”) = “never”, or Russian nel’zja (lit. “NEG must”) = “mustn’t”, and in words like unlikely, inadvisable, or disbelieve, whose prefixal negations yield only contrary, not contradictory, interpretations. The reverse shift, in which apparent E forms develop O meanings, appears to be unattested (cf. Horn 2015) ."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 114,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "In litotes and neg-raising, the interpretation of formal contradictories as contraries arises from the accessibility of the relevant disjunction, triggering the disjunctive syllogism. The homogeneity or all-or-none presupposition (Fodor 1970) applying to bare plurals, plural definites, and mass predications results in a comparable effect; it is natural to strengthen negative statements like Mammals don’t lay eggs, The children aren’t sleeping, or I don’t eat meat to affirmations of contraries rather than understanding them as simple wide-scope negations of the corresponding positives (Mammals lay eggs, The children are sleeping, I eat meat) as would be the case with overtly quantified universals. The relevant principle has been variously formulated:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 141,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 142,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a square with diagonal lines and the vertices labeled: top left as 'A' and 'it's possible that A'; top right with 'E' and 'it's impossible that A' and 'copyright sign [it's possible that A]'; bottom left with 'I' and 'it isn't impossible that A' and 'negation sign copyright sign[it's possible that A]'; bottom right with 'O' and 'it isn't possible that A' and 'negation sign[it's possible that A].']](../assets/negation/figure2-square.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 247,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 248,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a diagram of 6 points, 5 connected with lines in a loose pentagon and one below connected by a line to the pentagon. The points are labeled in clockwise order: 'De Morgan \\sim \\sim A \\vdash A', 'ortho', 'intuitionistic A \\vdash B, A \\vdash \\sim B/A \\vdash C', 'minimal A \\vdash B, A \\vdash \\sim B/A \\vdash \\sim C', 'quasi-minimal A \\vdash \\sim B/B \\vdash \\sim A', and the solo point connected to the last is labeled 'preminimal A \\vdash B/\\sim B \\vdash \\sim A'.]](../assets/negation/figure3-kite.png)"
+  },
+  {
+   "kind": "replace",
+   "i": 169,
+   "j": 257,
+   "ratio": 0.053462940461725394,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Negation as unnecessity gives rise to a dual lopsided kite of negations that can be combined with the lopsided kite into a “united” kite of negations, see Shramko 2005, Dunn and Zhou 2005, and Section 2.4 . An even richer inclusion diagram of negations can be found in Ripley 2009.",
+   "md_text": "![[a diagram of 7 points, 6 connected with lines in a hexagon and one below connected by a line to the hexagon. The points are labeled in clockwise order: 'weak De Morgan \\sim\\sim\\sim A \\vdash \\sim A', 'De Morgan \\sim \\sim A \\vdash A', 'ortho', 'intuitionistic A \\vdash B, A \\vdash \\sim B/A \\vdash C', 'minimal A \\vdash B, A \\vdash \\sim B/A \\vdash \\sim C', 'quasi-minimal A \\vdash \\sim B/B \\vdash \\sim A', and the solo point connected to the last is labeled 'preminimal A \\vdash B/\\sim B \\vdash \\sim A'.]](../assets/negation/figure4-kite.png)"
+  },
+  {
+   "kind": "replace",
+   "i": 170,
+   "j": 258,
+   "ratio": 0.01834862385321101,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Whilst satisfying the contraposition rule ⟦M⟧ is a basic property of negation as a normal impossibility operator, there exist unary connectives that are referred to as negations, although they do not satisfy contraposition. Prominent examples of logics with a non-contraposable negation in addition to the already mentioned logics K3 , Ł ⟦M⟧ , and LP , are Nelson’s logics N3 , N4 , and N4 ⟦M⟧ of constructive logic with so-called strong negation (see Nelson 1949; Gurevich 1977; Almukdad and Nelson 1984; Wansing 1993; Dunn 2000; Odintsov 2008). These logics contain intuitionistic implication as a primitive connective. Nelson (1959), however, also considers a variant of N3 with a contraposable strong negation. In this system S , the contraction axiom",
+   "md_text": "Figure 4"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 259,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Negation as unnecessity gives rise to a dual lopsided kite of negations that can be combined with the lopsided kite into a “united” kite of negations, see Shramko 2005, Dunn and Zhou 2005, and Section 2.4. An even richer inclusion diagram of negations can be found in Ripley 2009."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 260,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Whilst satisfying the contraposition rule ⟦M⟧ is a basic property of negation as a normal impossibility operator, there exist unary connectives that are referred to as negations, although they do not satisfy contraposition. Prominent examples of logics with a non-contraposable negation in addition to the already mentioned logics K3, Ł ⟦M⟧ , and LP, are Nelson’s logics N3, N4, and N4 ⟦M⟧ of constructive logic with so-called strong negation (see Nelson 1949; Gurevich 1977; Almukdad and Nelson 1984; Wansing 1993; Dunn 2000; Odintsov 2008) . These logics contain intuitionistic implication as a primitive connective. Nelson (1959), however, also considers a variant of N3 with a contraposable strong negation. In this system S, the contraction axiom"
+  }
+ ],
+ "spot": [
+  {
+   "i": 151,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In Ripley 2009 it is suggested to use the neighbourhood semantics as a general framework for semantically capturing properties characteristic of negation connectives interpreted as a necessity operator ⟦M⟧ , see also Yu 2010. Ripley points out, for example, that the contraposition rule ⟦M⟧ is valid in a neighbourhood model ⟦M⟧ iff for every ⟦M⟧ , ⟦M⟧ is closed under subsets, i.e., if ⟦M⟧ and ⟦M⟧ , then ⟦M⟧ . It would be nice to have a convincing intuitive understanding of the neighbourhood funct",
+   "md_text": "In Ripley 2009 it is suggested to use the neighbourhood semantics as a general framework for semantically capturing properties characteristic of negation connectives interpreted as a necessity operator ⟦M⟧ , see also Yu 2010. Ripley points out, for example, that the contraposition rule ⟦M⟧ is valid in a neighbourhood model ⟦M⟧ iff for every ⟦M⟧ , ⟦M⟧ is closed under subsets, i.e., if ⟦M⟧ and ⟦M⟧ , then ⟦M⟧ . It would be nice to have a convincing intuitive understanding of the neighbourhood funct"
+  },
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Negation is in the first place a phenomenon of semantic opposition. As such, negation relates an expression ⟦M⟧ to another expression with a meaning that is in some way opposed to the meaning of ⟦M⟧ . This relation may be realized syntactically and pragmatically in various ways. Moreover, there are different kinds of semantic opposition. Section 1 is concerned mainly with negation and opposition in natural language, both from a historical and a systematic perspective. Section 2 focuses on negati",
+   "md_text": "Negation is in the first place a phenomenon of semantic opposition. As such, negation relates an expression ⟦M⟧ to another expression with a meaning that is in some way opposed to the meaning of ⟦M⟧ . This relation may be realized syntactically and pragmatically in various ways. Moreover, there are different kinds of semantic opposition. Section 1 is concerned mainly with negation and opposition in natural language, both from a historical and a systematic perspective. Section 2 focuses on negati"
+  },
+  {
+   "i": 70,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1",
+   "md_text": "Figure 1"
+  }
+ ],
+ "supplements": [
+  "substructural.html",
+  "unary-connective.html"
+ ],
+ "meta_title": "Negation",
+ "authors": [
+  "Horn, Laurence R.",
+  "Wansing, Heinrich"
+ ]
+}

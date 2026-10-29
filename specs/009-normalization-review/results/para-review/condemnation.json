@@ -1,0 +1,177 @@
+{
+ "slug": "condemnation",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 46,
+ "n_pairs": 28,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9973404255319149,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998193315266486,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988483685220729,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998179243374469,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998639455782313,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982300884955753,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983111277913305,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994202898550725,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9629629629629629,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "1277 年巴黎谴责 condemnation of 1277 (Hans Thijssen)",
+  "zh_h1": "1277 年巴黎谴责 condemnation of 1277 (Hans Thijssen)",
+  "yuanwen_h1": "Condemnation of 1277",
+  "html_title": "Condemnation of 1277",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 9,
+  "p→∅": 17,
+  "p→p": 17,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "On March 7, 1277, the Bishop of Paris, Stephen Tempier, prohibited the teaching of 219 philosophical and theological theses that were being discussed and disputed in the faculty of arts under his jurisdiction. Tempier’s condemnation has gained great symbolic meaning in the minds of modern intellectual historians, and possibly for this reason, there is still considerable disagreement about what motivated Tempier to promulgate his prohibition, what exactly was condemned, and who the targets were. ",
+   "md_text": "On March 7, 1277, the Bishop of Paris, Stephen Tempier, prohibited the teaching of 219 philosophical and theological theses that were being discussed and disputed in the faculty of arts under his jurisdiction. Tempier’s condemnation has gained great symbolic meaning in the minds of modern intellectual historians, and possibly for this reason, there is still considerable disagreement about what motivated Tempier to promulgate his prohibition, what exactly was condemned, and who the targets were. "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Condemnation of 1277",
+ "authors": [
+  "Thijssen, Hans"
+ ]
+}

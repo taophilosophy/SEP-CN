@@ -1,0 +1,267 @@
+{
+ "slug": "moral-demands-permissions",
+ "letter": "m",
+ "state": "flagged",
+ "n_html": 70,
+ "n_md": 70,
+ "n_pairs": 39,
+ "n_flags": 1,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9993714644877436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994051160023796,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990759826569052,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991411394217006,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950042416815911,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9697997416020672,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995427526291724,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991655076495132,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996995192307693,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992561368708158,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995311767463666,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996289424860854,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996233521657251,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994987468671679,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990243902439024,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "道德要求与许可/特权 Moral Demands and Permissions/Prerogatives (Hurka, Thomas)",
+  "zh_h1": "道德要求与许可/特权 Moral Demands and Permissions/Prerogatives (Hurka, Thomas)",
+  "yuanwen_h1": "Moral Demands and Permissions/Prerogatives",
+  "html_title": "Moral Demands and Permissions/Prerogatives",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 11,
+  "p→∅": 30,
+  "p→p": 25,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 8,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 46,
+   "j": 46,
+   "ratio": 0.9391230310770541,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In Singer’s pond case it’s natural to assume that once you’ve saved the child you won’t, at least immediately, face a further demand of the same kind; the required sacrifice is a one-off. But if you save one person from starving by donating, say, $1000 to a food agency, there will be many other people facing the same fate and imposing the same demand on you. And if you give a second $1000 there will be a similar demand to give a third, and so on. Over time a sequence of individually modest demands can end up requiring a large sacrifice from you. It’s as if you encountered a long series of ponds, each requiring you to abandon what you were doing to save a child and leaving you no time for yourself (Kuper 2002; Timmerman 2015; Woollard 2015: 126; J. A. Thomson 2022). Is that immense sacrific",
+   "md_text": "In Singer’s pond case it’s natural to assume that once you’ve saved the child you won’t, at least immediately, face a further demand of the same kind; the required sacrifice is a one-off. But if you save one person from starving by donating, say, ⟦M⟧ 1000 there will be a similar demand to give a third, and so on. Over time a sequence of individually modest demands can end up requiring a large sacrifice from you. It’s as if you encountered a long series of ponds, each requiring you to abandon what you were doing to save a child and leaving you no time for yourself (Kuper 2002; Timmerman 2015; Woollard 2015: 126; J. A. Thomson 2022) . Is that immense sacrifice required? Many will say not. They will say that you can’t reasonably be required to keep saving all the children in the long series o"
+  }
+ ],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The idea that rational principles apply primarily to possible sequences has wide-ranging implications that a full discussion would need to address. But the resulting view doesn’t, at least in Portmore’s formulation, rationally permit all supererogatory acts. If you sacrifice your life to save two other people, the immense loss of non-moral goods for you means the resulting shorter life is less favoured by all your reasons than ones in which you don’t make the sacrifice, which makes both this lif",
+   "md_text": "The idea that rational principles apply primarily to possible sequences has wide-ranging implications that a full discussion would need to address. But the resulting view doesn’t, at least in Portmore’s formulation, rationally permit all supererogatory acts. If you sacrifice your life to save two other people, the immense loss of non-moral goods for you means the resulting shorter life is less favoured by all your reasons than ones in which you don’t make the sacrifice, which makes both this lif"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Moral Demands and Permissions/Prerogatives",
+ "authors": [
+  "Hurka, Thomas"
+ ]
+}

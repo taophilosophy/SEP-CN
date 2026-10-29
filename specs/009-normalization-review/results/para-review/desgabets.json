@@ -1,0 +1,152 @@
+{
+ "slug": "desgabets",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 46,
+ "n_pairs": 32,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9980638915779284,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975062344139651,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998220640569395,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996200607902735,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993773349937733,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993864161986123,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9605263157894737,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "罗伯特·戴加贝 Desgabets, Robert (Patricia Easton)",
+  "zh_h1": "罗伯特·戴加贝 Desgabets, Robert (Patricia Easton)",
+  "yuanwen_h1": "Robert Desgabets",
+  "html_title": "Robert Desgabets",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 12,
+  "p→p": 23,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Another, much more scandalous exchange took place between Desgabets and Thomas Le Géant between 1671–1672 over Desgabets’s thoughts on the Eucharist. Desgabets published his views anonymously in Considérations sur l’état présent de la controverse touchant le T. S. Sacrement de l’autel (1671). Lemaire credited this work with having been the primary cause of the persecution of Cartesianism in France, since it brought to light the incompatibility of the Cartesian philosophy with the official Church",
+   "md_text": "Another, much more scandalous exchange took place between Desgabets and Thomas Le Géant between 1671–1672 over Desgabets’s thoughts on the Eucharist. Desgabets published his views anonymously in Considérations sur l’état présent de la controverse touchant le T. S. Sacrement de l’autel (1671). Lemaire credited this work with having been the primary cause of the persecution of Cartesianism in France, since it brought to light the incompatibility of the Cartesian philosophy with the official Church"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Robert Desgabets",
+ "authors": [
+  "Easton, Patricia"
+ ]
+}

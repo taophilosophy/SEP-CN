@@ -1,0 +1,164 @@
+{
+ "slug": "vico",
+ "letter": "v",
+ "state": "ok",
+ "n_html": 30,
+ "n_md": 30,
+ "n_pairs": 11,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.99915611814346,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989488772097468,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976173457231355,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978269617706237,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991384261918438,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995152690256908,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "詹巴蒂斯塔·维柯 Vico, Giambattista (Timothy Costelloe)",
+  "zh_h1": "詹巴蒂斯塔·维柯 Vico, Giambattista (Timothy Costelloe)",
+  "yuanwen_h1": "Giambattista Vico",
+  "html_title": "Giambattista Vico",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 16,
+  "p→p": 4,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 20,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "From this genus of poetic metaphysics, Vico then extrapolates the various species of wisdom born of it. “Poetic morals” have their source in piety and shame (“Poetic Wisdom,” §502, p.170), he argues, while “poetic economy” arises from the feral equality of human beings and the family relationships into which they were forced by need (“Poetic Wisdom,” §523, p.180). Similarly, “poetic cosmography” grows from the seeing “the world as composed of gods of the sky, of the underworld...and gods interme",
+   "md_text": "From this genus of poetic metaphysics, Vico then extrapolates the various species of wisdom born of it. “Poetic morals” have their source in piety and shame (“Poetic Wisdom,” §502, p.170), he argues, while “poetic economy” arises from the feral equality of human beings and the family relationships into which they were forced by need (“Poetic Wisdom,” §523, p.180). Similarly, “poetic cosmography” grows from the seeing “the world as composed of gods of the sky, of the underworld...and gods interme"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Giambattista Vico",
+ "authors": [
+  "Costelloe, Timothy"
+ ]
+}

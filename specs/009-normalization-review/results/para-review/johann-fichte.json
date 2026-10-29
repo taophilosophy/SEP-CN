@@ -1,0 +1,280 @@
+{
+ "slug": "johann-fichte",
+ "letter": "j",
+ "state": "ok",
+ "n_html": 77,
+ "n_md": 77,
+ "n_pairs": 40,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9995331465919701,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988631195998181,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993289234013997,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992305719415234,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987639060568603,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993853718500307,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992723744845986,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988158673771462,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999683644416324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993739565943238,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986566877758588,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989404189420491,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996752192270217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990147783251232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994370425971102,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰·戈特利布·费希特 Fichte, Johann Gottlieb (Dan Breazeale)",
+  "zh_h1": "约翰·戈特利布·费希特 Fichte, Johann Gottlieb (Dan Breazeale)",
+  "yuanwen_h1": "Johann Gottlieb Fichte",
+  "html_title": "Johann Gottlieb Fichte",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→p": 25,
+  "p→∅": 35,
+  "h3→h3": 4,
+  "h3→∅": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×1(p→p)": 4,
+  "merged×7(p+p+p+h3+p+p+p→p+p+p+h3+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 7,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Following the completion of these projects, Fichte devoted his time in Zurich to rethinking and revising his own philosophical position. While maintaining his allegiance to the new Critical or Kantian philosophy, Fichte was powerfully impressed by the efforts of K. L. Reinhold to provide the Critical philosophy with a new, more secure “foundation” and to base the entire system upon a single “first principle.” At the same time, he became acquainted with the works of two authors who were engaged i",
+   "md_text": "Following the completion of these projects, Fichte devoted his time in Zurich to rethinking and revising his own philosophical position. While maintaining his allegiance to the new Critical or Kantian philosophy, Fichte was powerfully impressed by the efforts of K. L. Reinhold to provide the Critical philosophy with a new, more secure “foundation” and to base the entire system upon a single “first principle.” At the same time, he became acquainted with the works of two authors who were engaged i"
+  },
+  {
+   "i": 74,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The North American Fichte Society",
+   "md_text": "The North American Fichte Society"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Johann Gottlieb Fichte",
+ "authors": [
+  "Breazeale, Dan"
+ ]
+}

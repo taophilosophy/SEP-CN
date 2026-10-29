@@ -1,0 +1,223 @@
+{
+ "slug": "sport",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 116,
+ "n_md": 117,
+ "n_pairs": 99,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990583804143126,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995533720410897,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992050874403816,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972527472527473,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994982438534872,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996349032493611,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994694960212201,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996264475158759,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996331621423331,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987714987714987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984871406959153,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994453688297282,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "体育哲学 sport, philosophy of (John William Devine and Francisco Javier Lopez Frias)",
+  "zh_h1": "体育哲学 sport, philosophy of (John William Devine and Francisco Javier Lopez Frias)",
+  "yuanwen_h1": "Philosophy of Sport",
+  "html_title": "Philosophy of Sport",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "h3→h3": 13,
+  "p→∅": 15,
+  "p→p": 75,
+  "blockquote→blockquote": 3,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 10,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 56,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "By way of illustration, Russell (1999) recounts a baseball match from 1887 between Louisville and Brooklyn in which a Louisville player, Reddy Mack, who had just crossed home plate interfered with a Brooklyn catcher, preventing him from tagging another Louisville runner. While the interference was ongoing, another Louisville player crossed home plate. Crucially, at the time of the game, the rules prohibited only base runners from interfering with fielders. However, when Mack interfered with the ",
+   "md_text": "By way of illustration, Russell (1999) recounts a baseball match from 1887 between Louisville and Brooklyn in which a Louisville player, Reddy Mack, who had just crossed home plate interfered with a Brooklyn catcher, preventing him from tagging another Louisville runner. While the interference was ongoing, another Louisville player crossed home plate. Crucially, at the time of the game, the rules prohibited only base runners from interfering with fielders. However, when Mack interfered with the "
+  },
+  {
+   "i": 113,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The Routledge Ethics and Sport Book Series European Association for the Philosophy of Sport Fair Play: Journal of Philosophy, Ethics and Sports Law International Association for the Philosophy of Sport Japan Society for the Philosophy of Sport and Physical Journal of the Philosophy of Sport Journal of the Philosophy of Sport and Physical Education Sport, Ethics and Philosophy",
+   "md_text": "The Routledge Ethics and Sport Book Series European Association for the Philosophy of Sport Fair Play: Journal of Philosophy, Ethics and Sports Law International Association for the Philosophy of Sport Japan Society for the Philosophy of Sport and Physical Journal of the Philosophy of Sport Journal of the Philosophy of Sport and Physical Education Sport, Ethics and Philosophy"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy of Sport",
+ "authors": [
+  "Devine, John William",
+  "Lopez Frias, Francisco Javier"
+ ]
+}

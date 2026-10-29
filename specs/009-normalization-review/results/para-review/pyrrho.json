@@ -1,0 +1,235 @@
+{
+ "slug": "pyrrho",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 59,
+ "n_md": 59,
+ "n_pairs": 35,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9993238674780257,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994481236203091,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993993993993994,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997574581615328,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991980753809142,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995408631772268,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994905107629601,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988385598141696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995721009841677,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994295493439818,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987893462469734,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995855781185247,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9948717948717949,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "皮浪 Pyrrho (Richard Bett)",
+  "zh_h1": "皮浪 Pyrrho (Richard Bett)",
+  "yuanwen_h1": "Pyrrho",
+  "html_title": "Pyrrho",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 11,
+  "p→∅": 22,
+  "p→p": 20,
+  "table→table": 2,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 43,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "If one understands the second couplet according to reading (C), then the speaker is apparently endorsing a position that attributes definite natures to things; and this appears flatly inconsistent with the Pyrrho of the Aristocles passage, on any of the readings we have considered. The tension is especially bad if one reads the first couplet according to reading (B), in which case the speaker is insisting that he is in possession of the truth. But even on reading (A), where the effect is to weak",
+   "md_text": "If one understands the second couplet according to reading (C), then the speaker is apparently endorsing a position that attributes definite natures to things; and this appears flatly inconsistent with the Pyrrho of the Aristocles passage, on any of the readings we have considered. The tension is especially bad if one reads the first couplet according to reading (B), in which case the speaker is insisting that he is in possession of the truth. But even on reading (A), where the effect is to weak"
+  },
+  {
+   "i": 38,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(A) “For I will say, as it appears to me to be, A word of truth, having a correct standard:” or (B) “For I will say, as it is plain to me that it is, A word of truth, having a correct standard:”",
+   "md_text": "(A) “For I will say, as it appears to me to be, A word of truth, having a correct standard:” or (B) “For I will say, as it is plain to me that it is, A word of truth, having a correct standard:”"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Pyrrho",
+ "authors": [
+  "Bett, Richard"
+ ]
+}

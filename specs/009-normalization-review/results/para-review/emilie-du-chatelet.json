@@ -1,0 +1,361 @@
+{
+ "slug": "emilie-du-chatelet",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 76,
+ "n_pairs": 26,
+ "n_flags": 0,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.9985400307777296,
+   "n_h": 8,
+   "n_m": 13,
+   "shape_h": [
+    "preamble",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996771277282707,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ol",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997836668469443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987338566725753,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990637956399625,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998179243374469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990044798407167,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996288047512992,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983230855226384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986945169712794,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977703455964325,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941348973607038,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988452655889145,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990049751243781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976587649985367,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992737835875091,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971264367816092,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961627014581734,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997849924747366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9866666666666667,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9672131147540983,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "夏特莱侯爵夫人 Châtelet, Émilie du (Karen Detlefsen)",
+  "zh_h1": "夏特莱侯爵夫人 Châtelet, Émilie du (Karen Detlefsen)",
+  "yuanwen_h1": "Émilie du Châtelet",
+  "html_title": "Émilie du Châtelet",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→∅": 1,
+  "p→∅": 37,
+  "h2→h2": 8,
+  "ol→∅": 1,
+  "ol→ol": 1,
+  "p→p": 14,
+  "blockquote→∅": 4,
+  "blockquote→blockquote": 2,
+  "ul→∅": 1,
+  "merged×8(preamble+h2+p+p+p+p+p+p→p+p+p+p+p+p+h2+p+p+p+p+p+p)": 1,
+  "merged×6(p+p+p+ol+p+p→p+p+p+ol+p+p)": 1,
+  "merged×1(p→p)": 11,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×4(p+p+blockquote+p→p+p+blockquote+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 47,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Du Châtelet distinguishes those who use hypotheses well from those who use them badly, and she recognizes a third group—those who eschew the use of hypotheses altogether largely due to perceived misuse of them among their predecessors and contemporaries. Among those who use hypotheses poorly are those working in the Cartesian tradition and those in “the Schools” who are especially guilty of spouting unintelligible jargon (IP Avant-Propos VIII, §55). The key downfalls of those who make bad use of",
+   "md_text": "Du Châtelet distinguishes those who use hypotheses well from those who use them badly, and she recognizes a third group—those who eschew the use of hypotheses altogether largely due to perceived misuse of them among their predecessors and contemporaries. Among those who use hypotheses poorly are those working in the Cartesian tradition and those in “the Schools” who are especially guilty of spouting unintelligible jargon (IP Avant-Propos VIII, §55). The key downfalls of those who make bad use of"
+  },
+  {
+   "i": 16,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "There is nothing that is without a reason why it is, and is not otherwise. (Also: For any fact or event that obtains or exists, there is some reason why it obtains or exists, and is not otherwise.) There is no effect without a cause. (Also: any existing thing must have something, either within its nature or outside of itself, as its cause.) For any proposition P that is true, there is an explanation for its truth. It is impossible to fail to account for something if you have enough information (",
+   "md_text": "There is nothing that is without a reason why it is, and is not otherwise. (Also: For any fact or event that obtains or exists, there is some reason why it obtains or exists, and is not otherwise.) There is no effect without a cause. (Also: any existing thing must have something, either within its nature or outside of itself, as its cause.) For any proposition P that is true, there is an explanation for its truth. It is impossible to fail to account for something if you have enough information ("
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Émilie du Châtelet",
+ "authors": [
+  "Detlefsen, Karen"
+ ]
+}

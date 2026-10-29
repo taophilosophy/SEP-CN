@@ -1,0 +1,165 @@
+{
+ "slug": "special-obligations",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 108,
+ "n_md": 108,
+ "n_pairs": 96,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9995596653456627,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999031007751938,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962406015037594,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989900123442935,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985074626865672,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996076892899176,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984544049459042,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.999346832135859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974489795918368,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "特殊义务 special (Diane Jeske)",
+  "zh_h1": "特殊义务 special (Diane Jeske)",
+  "yuanwen_h1": "Special Obligations",
+  "html_title": "Special Obligations",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 13,
+  "p→p": 73,
+  "p→∅": 9,
+  "blockquote→blockquote": 4,
+  "blockquote→∅": 3,
+  "h3→h3": 4,
+  "merged×1(p→p)": 5,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×2(p+p→p+p)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 38,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Some have been dissatisfied with the seeming limitations placed on the extent of our special obligations by the voluntarist thesis. (Again, only voluntarism with respect to special obligations is under discussion here. Voluntarism with respect to all of our duties would seriously delimit our moral responsibilities, and so, for that reason, is held by virtually no one.) Common sense morality, after all, seems to endorse a host of obligations derived from persons’s roles or positions, even when th",
+   "md_text": "Some have been dissatisfied with the seeming limitations placed on the extent of our special obligations by the voluntarist thesis. (Again, only voluntarism with respect to special obligations is under discussion here. Voluntarism with respect to all of our duties would seriously delimit our moral responsibilities, and so, for that reason, is held by virtually no one.) Common sense morality, after all, seems to endorse a host of obligations derived from persons’s roles or positions, even when th"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Special Obligations",
+ "authors": [
+  "Jeske, Diane"
+ ]
+}

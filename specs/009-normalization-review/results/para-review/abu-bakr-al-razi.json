@@ -1,0 +1,251 @@
+{
+ "slug": "abu-bakr-al-razi",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 49,
+ "n_md": 53,
+ "n_pairs": 20,
+ "n_flags": 4,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9995002498750625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985556090515166,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984471001282831,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991872121376321,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983726606997559,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977812291990238,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978871113794144,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989447766443897,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9855491329479769,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "拉齐 al-Razi, Abu Bakr (Peter Adamson)",
+  "zh_h1": "拉齐 al-Razi, Abu Bakr (Peter Adamson)",
+  "yuanwen_h1": "Abu Bakr al-Razi",
+  "html_title": "Abu Bakr al-Razi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 27,
+  "p→p": 7,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 43,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[RF] al-Rāzī, 1939, Rasāʾil falsafiyya (The Philosophical Way of Life), Paul Kraus (ed.), Cairo: Paul Barbey. [SPR] Rhazes, The Spiritual Physick of Rhazes, Arthur J. Arberry (trans.), London: John Murray, 1950. [SM] Rhazes, A Treatise on the Small-Pox and Measles, William Alexander Greenhill (trans.), London: Sydenham Society, 1848. [available online] [PWL] al-Rāzī, selections from several works, in Classical Arabic Philosophy: an Anthology of Sources, Jon McGinnis and David C. Reisman (trans.), Indianapolis, IN: Hackett, 2007, 36–43. [DG] al-Rāzī, Abū Bakr, Doutes sur Galien (Scientia Graeco-Arabica, 25), Pauline Koetschet (ed./trans.), Berlin: de Gruyter, 2019. Arabic critical edition with French translation."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 44,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Works by other authors"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 45,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "[AHR] Abū Ḥātim al-Rāzī, The Proofs of Prophecy: A Parallel English-Arabic Text (Aʻlām al-nubūwah), Tarif Khalidi, Provo, UT: Brigham Young University Press, 2011. • Abū Hātim al-Rāzī, 1989, “Le temps, l’espace et la genèse du monde selon Abū Bakr al-Rāzī. Présentation et traduction des chapitres I, 3–4 du Kitāb al-nubuwwa d’Abū Hātim al-Rāzī”, Brion, Fabienne (trans.), Revue philosophique de Louvain, 87(74): 139–164. [FDR] Fakhr al-Dīn al-Rāzī, al-Maṭālib al-ʿāliya, A.Ḥ. Al-Saqqā (ed.), 9 vols, Beirut: Dār al-Kitāb al-ʿArabī, 1987. [In Phys.] Philoponus, John, 517, Commentary on Aristotle’s ‘Physics’, H. Vitelli (ed.), Commentaria in Aristotelem Graeca [CAG] XVI–XVII, Berlin: Reimer, 1887–88. [CPV] –––, “Corollaries on Place and Void”, translated by David Furley in Philoponus: “Corollarie"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 46,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Sources"
+  }
+ ],
+ "spot": [
+  {
+   "i": 42,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In his primary vocation of medicine, too, al-Rāzī had his critics, including Ibn Sīnā, his only rival for the title of most influential figure in the Islamic medical tradition. In an epistolary exchange with al-Bīrūnī, Ibn Sīnā says that al-Rāzī overreached his competence in both philosophy and medicine (“he exceeded his abilities when lancing abscesses and examining urine and feces”, quoted at al-Rāzī, RF: 290). Al-Rāzī’s project in Doubts was also deemed presumptuous by later medical writers, ",
+   "md_text": "In his primary vocation of medicine, too, al-Rāzī had his critics, including Ibn Sīnā, his only rival for the title of most influential figure in the Islamic medical tradition. In an epistolary exchange with al-Bīrūnī, Ibn Sīnā says that al-Rāzī overreached his competence in both philosophy and medicine (“he exceeded his abilities when lancing abscesses and examining urine and feces”, quoted at al-Rāzī, RF: 290). Al-Rāzī’s project in Doubts was also deemed presumptuous by later medical writers, "
+  },
+  {
+   "i": 46,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Episode on al-Rāzī in the History of Philosophy podcast.",
+   "md_text": "Episode on al-Rāzī in the History of Philosophy podcast."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Abu Bakr al-Razi",
+ "authors": [
+  "Adamson, Peter"
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "slug": "petitionary-prayer",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 38,
+ "n_md": 39,
+ "n_pairs": 15,
+ "n_flags": 1,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992509363295881,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993986770895971,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998805256869773,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992388201712654,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994347088750707,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986663703045121,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987077718294258,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "祈求式祷告 petitionary (Scott A. Davison)",
+  "zh_h1": "祈求式祷告 petitionary (Scott A. Davison)",
+  "yuanwen_h1": "Petitionary Prayer",
+  "html_title": "Petitionary Prayer",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 20,
+  "p→p": 6,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 35,
+   "j": 36,
+   "ratio": 0.7919799498746867,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Prayer , in The Catholic Encyclopedia . Borland, Tully, 2006, “ Omniscience and Divine Foreknowledge ,” in the Internet Encyclopedia of Philosophy . McBrayer, Justin P., 2010, “ Skeptical Theism ,” in the Internet Encyclopedia of Philosophy . Rissler, James, 2006, “ Open Theism, ” in the Internet Encyclopedia of Philosophy . Timpe, Kevin, 2006, “ Free Will ,” in the Internet Encyclopedia of Philosophy .",
+   "md_text": "Prayer, in The Catholic Encyclopedia. Borland, Tully, 2006, “Omniscience and Divine Foreknowledge,” in the Internet Encyclopedia of Philosophy. McBrayer, Justin P., 2010, “Skeptical Theism,” in the Internet Encyclopedia of Philosophy. Rissler, James, 2006, “Open Theism,” in the Internet Encyclopedia of Philosophy. Timpe, Kevin, 2006, “Free Will,” in the Internet Encyclopedia of Philosophy."
+  }
+ ],
+ "spot": [
+  {
+   "i": 20,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Theists have traditionally recognized a number of limits on God’s actions. For instance, it is common to insist that God’s omnipotence does not imply that God can do impossible things, such as create a stone that would be too heavy for even God to lift. It is also common to insist that God cannot do anything intrinsically evil, if there are such things, because God is morally perfect. (For a discussion of petitionary prayers for bad things, see Smilansky 2012.) God’s power plus God’s goodness to",
+   "md_text": "Theists have traditionally recognized a number of limits on God’s actions. For instance, it is common to insist that God’s omnipotence does not imply that God can do impossible things, such as create a stone that would be too heavy for even God to lift. It is also common to insist that God cannot do anything intrinsically evil, if there are such things, because God is morally perfect. (For a discussion of petitionary prayers for bad things, see Smilansky 2012.) God’s power plus God’s goodness to"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Petitionary Prayer",
+ "authors": [
+  "Davison, Scott A."
+ ]
+}

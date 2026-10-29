@@ -1,0 +1,883 @@
+{
+ "slug": "possible-worlds",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 230,
+ "n_md": 232,
+ "n_pairs": 83,
+ "n_flags": 1,
+ "n_merged": 54,
+ "merged": [
+  {
+   "ratio": 0.9985147464460005,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954873646209387,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "table",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9574468085106383,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9583333333333334,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9649122807017544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9649122807017544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9909297052154195,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963689179375453,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9960886571056062,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9959183673469387,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9937032664305392,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9821300929235168,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972144846796658,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9854689564068693,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9789029535864979,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9976677895827935,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959677419354839,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9920580110497238,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "table",
+    "table",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "table",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9655172413793104,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9854014598540146,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996364958197019,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981378026070763,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948453608247423,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9937027707808564,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9937629937629938,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974683544303797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974626444883,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9940929714921668,
+   "n_h": 13,
+   "n_m": 13,
+   "shape_h": [
+    "table",
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9962470146707608,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9953295277633627,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968847352024922,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963842975206612,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998914223669924,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976646426903316,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950511382382052,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9968553459119497,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9924887330996495,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9972760775516744,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969618055555556,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9900497512437811,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9937238493723849,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982832618025751,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996523754345307,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9939777640518839,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961999415375621,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9921758569299552,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994325191216383,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940620189135694,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946793615233828,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "figure"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983054038787422,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975825946817083,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970063465453239,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986468200270636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "可能世界 possible worlds (Christopher Menzel)",
+  "zh_h1": "可能世界 possible worlds (Christopher Menzel)",
+  "yuanwen_h1": "Possible Worlds",
+  "html_title": "Possible Worlds",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 5,
+  "p→p": 37,
+  "h3→h3": 7,
+  "p→∅": 101,
+  "table→∅": 36,
+  "table→table": 12,
+  "ul→∅": 7,
+  "h4→h4": 16,
+  "blockquote→blockquote": 3,
+  "figure→p": 1,
+  "figure→∅": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×4(p+p+table+table→p+p+table+table)": 1,
+  "merged×1(table→table)": 5,
+  "merged×1(p→p)": 13,
+  "merged×2(p+table→p+table)": 5,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×8(p+p+p+ul+p+ul+p+p→p+p+p+ul+p+ul+p+p)": 1,
+  "merged×2(table+p→table+p)": 2,
+  "merged×3(table+p+table→table+p+table)": 2,
+  "merged×3(p+p+ul→p+p+ul)": 1,
+  "merged×7(p+p+table+table+p+table+p→p+p+table+table+p+table+p)": 1,
+  "merged×13(table+p+p+table+p+p+table+p+table+p+ul+p+p→table+p+p+table+p+p+table+p+table+p+ul+p+p)": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×5(ul+p+p+p+table→ul+p+p+p+table)": 1,
+  "merged×3(p+table+p→p+table+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×7(p+p+table+p+p+table+p→p+p+table+p+p+table+p)": 1,
+  "merged×8(p+table+p+p+p+p+p+p→p+table+p+p+p+p+p+p)": 1,
+  "merged×7(p+p+table+p+p+p+table→p+p+table+p+p+p+table)": 1,
+  "merged×6(table+p+table+p+table+p→table+p+table+p+table+p)": 1,
+  "merged×4(p+p+p+figure→p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 41,
+   "j": 43,
+   "ratio": 0.9473684210526315,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "For all possible worlds w , ‘∀ x ( Px → Mx )’ is true at w .",
+   "md_text": "For all possible worlds w, ‘∀x(Px → Mx)’ is true at w."
+  }
+ ],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although ‘possible world’ has been part of the philosophical lexicon at least since Leibniz, the notion became firmly entrenched in contemporary philosophy with the development of possible world semantics for the languages of propositional and first-order modal logic. In addition to the usual sentence operators of classical logic such as ‘and’ (‘∧’), ‘or’ (‘∨’), ‘not’ (‘¬’), ‘if...then’ (‘→’), and, in the first-order case, the quantifiers ‘all’ (‘∀’) and ‘some’ (‘∃’), these languages contain ope",
+   "md_text": "Although ‘possible world’ has been part of the philosophical lexicon at least since Leibniz, the notion became firmly entrenched in contemporary philosophy with the development of possible world semantics for the languages of propositional and first-order modal logic. In addition to the usual sentence operators of classical logic such as ‘and’ (‘∧’), ‘or’ (‘∨’), ‘not’ (‘¬’), ‘if...then’ (‘→’), and, in the first-order case, the quantifiers ‘all’ (‘∀’) and ‘some’ (‘∃’), these languages contain ope"
+  },
+  {
+   "i": 23,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Poss A sentence of the form ⟦P⟧ Possibly, φ ⟦P⟧ ( ⟦P⟧ ◇φ ⟦P⟧ ) is true if and only if φ is true in some possible world.",
+   "md_text": "Poss A sentence of the form ⟦P⟧ Possibly, φ ⟦P⟧ ( ⟦P⟧ ◇φ ⟦P⟧ ) is true if and only if φ is true in some possible world."
+  }
+ ],
+ "supplements": [
+  "problems-abstractionism.html",
+  "problems-combinatorialism.html",
+  "problems-concretism.html",
+  "semantics-abstractionist-intensionality.html",
+  "semantics-extensionality.html"
+ ],
+ "meta_title": "Possible Worlds",
+ "authors": [
+  "Menzel, Christopher"
+ ]
+}

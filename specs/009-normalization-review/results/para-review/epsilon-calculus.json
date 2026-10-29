@@ -1,0 +1,221 @@
+{
+ "slug": "epsilon-calculus",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 98,
+ "n_md": 98,
+ "n_pairs": 80,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9993646759847522,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988901220865705,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999562363238512,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993337774816788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982638888888888,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981811567842852,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987562189054726,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990118577075099,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985514244326412,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974489795918368,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987515605493134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9627906976744186,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "ε 演算 epsilon calculus (Jeremy Avigad and Richard Zach)",
+  "zh_h1": "ε 演算 epsilon calculus (Jeremy Avigad and Richard Zach)",
+  "yuanwen_h1": "The Epsilon Calculus",
+  "html_title": "The Epsilon Calculus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 53,
+  "p→∅": 17,
+  "ul→ul": 7,
+  "p→mathblock": 2,
+  "ol→ol": 5,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 56,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Ackermann’s procedure applied to a system of second-order arithmetic, in which, however, second order terms were restricted so as to exclude cross-binding of second-order epsilons. This amounts, roughly, to a restriction to arithmetic comprehension as the set-forming principle available (see the discussion at the end of this section). Further difficulties with second-order epsilon terms surfaced, and it quickly became apparent that the proof as it stood was fallacious. However, no one in Hilbert",
+   "md_text": "Ackermann’s procedure applied to a system of second-order arithmetic, in which, however, second order terms were restricted so as to exclude cross-binding of second-order epsilons. This amounts, roughly, to a restriction to arithmetic comprehension as the set-forming principle available (see the discussion at the end of this section). Further difficulties with second-order epsilon terms surfaced, and it quickly became apparent that the proof as it stood was fallacious. However, no one in Hilbert"
+  },
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "The epsilon calculus is a logical formalism developed by David Hilbert in the service of his program in the foundations of mathematics. The epsilon operator is a term-forming operator which replaces quantifiers in ordinary predicate logic. Specifically, in the calculus, a term ⟦M⟧ denotes some ⟦M⟧ satisfying ⟦M⟧ , if there is one. In Hilbert’s Program, the epsilon terms play the role of ideal elements; the aim of Hilbert’s finitistic consistency proofs is to give a procedure which removes such t",
+   "md_text": "The epsilon calculus is a logical formalism developed by David Hilbert in the service of his program in the foundations of mathematics. The epsilon operator is a term-forming operator which replaces quantifiers in ordinary predicate logic. Specifically, in the calculus, a term ⟦M⟧ denotes some ⟦M⟧ satisfying ⟦M⟧ , if there is one. In Hilbert’s Program, the epsilon terms play the role of ideal elements; the aim of Hilbert’s finitistic consistency proofs is to give a procedure which removes such t"
+  },
+  {
+   "i": 11,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Each constant of ⟦M⟧ is a term. Each variable is a term. If ⟦M⟧ and ⟦M⟧ are terms, then ⟦M⟧ is a formula. If ⟦M⟧ are terms and ⟦M⟧ is a ⟦M⟧ -ary function symbol of ⟦M⟧ is a term. If ⟦M⟧ are terms and ⟦M⟧ is a ⟦M⟧ -ary relation symbol of ⟦M⟧ is a formula. If ⟦M⟧ and ⟦M⟧ are formulae, so are ⟦M⟧ , ⟦M⟧ , ⟦M⟧ , and ⟦M⟧ . If ⟦M⟧ is a formula and ⟦M⟧ is a variable, ⟦M⟧ is a term.",
+   "md_text": "Each constant of ⟦M⟧ is a term. Each variable is a term. If ⟦M⟧ and ⟦M⟧ are terms, then ⟦M⟧ is a formula. If ⟦M⟧ are terms and ⟦M⟧ is a ⟦M⟧ -ary function symbol of ⟦M⟧ is a term. If ⟦M⟧ are terms and ⟦M⟧ is a ⟦M⟧ -ary relation symbol of ⟦M⟧ is a formula. If ⟦M⟧ and ⟦M⟧ are formulae, so are ⟦M⟧ , ⟦M⟧ , ⟦M⟧ , and ⟦M⟧ . If ⟦M⟧ is a formula and ⟦M⟧ is a variable, ⟦M⟧ is a term."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Epsilon Calculus",
+ "authors": [
+  "Avigad, Jeremy",
+  "Zach, Richard"
+ ]
+}

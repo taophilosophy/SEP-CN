@@ -1,0 +1,213 @@
+{
+ "slug": "scottish-18th",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 76,
+ "n_md": 76,
+ "n_pairs": 57,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9995090819833088,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994982438534872,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996064541519087,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997694258704174,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989018229738634,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993874425727411,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997346776333245,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980702431493632,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994291151284491,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996137504828119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994763484028626,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993134225883968,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "18 世纪苏格兰哲学 in the 18th Century (Alexander Broadie and Craig Smith)",
+  "zh_h1": "18 世纪苏格兰哲学 in the 18th Century (Alexander Broadie and Craig Smith)",
+  "yuanwen_h1": "Scottish Philosophy in the 18th Century",
+  "html_title": "Scottish Philosophy in the 18th Century",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 15,
+  "p→p": 39,
+  "p→∅": 18,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 6,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 62,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The commitment to the scientific approach had become so deeply embedded in the thinking of the time that providing a theory open to confirmation or refutation through observation and the provision of evidence to support one’s claims was taken to be the hallmark of sound argument. This is particularly apparent in the work of Adam Ferguson (1723–1816). He succeeded David Hume as librarian of the Advocates’ Library in Edinburgh and then held in succession two chairs at Edinburgh University, that of",
+   "md_text": "The commitment to the scientific approach had become so deeply embedded in the thinking of the time that providing a theory open to confirmation or refutation through observation and the provision of evidence to support one’s claims was taken to be the hallmark of sound argument. This is particularly apparent in the work of Adam Ferguson (1723–1816). He succeeded David Hume as librarian of the Advocates’ Library in Edinburgh and then held in succession two chairs at Edinburgh University, that of"
+  },
+  {
+   "i": 73,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Institute for the Study of Scottish Philosophy The Journal of Scottish Philosophy The Eighteenth Century Scottish Studies Society Adam Smith Works",
+   "md_text": "Institute for the Study of Scottish Philosophy The Journal of Scottish Philosophy The Eighteenth Century Scottish Studies Society Adam Smith Works"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Scottish Philosophy in the 18th Century",
+ "authors": [
+  "Broadie, Alexander",
+  "Smith, Craig"
+ ]
+}

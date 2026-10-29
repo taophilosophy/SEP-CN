@@ -1,0 +1,161 @@
+{
+ "slug": "timon-phlius",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 32,
+ "n_md": 33,
+ "n_pairs": 14,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9992816091954023,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993361363133436,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984427141268075,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983082388766706,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991079393398751,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989733059548255,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989376233115799,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "斐利亚修斯的第蒙 Timon of Phlius (Richard Bett)",
+  "zh_h1": "斐利亚修斯的第蒙 Timon of Phlius (Richard Bett)",
+  "yuanwen_h1": "Timon of Phlius",
+  "html_title": "Timon of Phlius",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 16,
+  "h3→h3": 1,
+  "p→p": 6,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 19,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As was noted earlier, the surviving fragments of the Indalmoi include a line that is plausibly taken to point to the importance, for the Pyrrhonist, of the appearances of things as a basis for decision and action. Whether or not it is this theme that is alluded to in the title Indalmoi itself (see above, in Section 2, Works), it looks as if this is a topic to which Timon returned in several works. The sole reference to Timon’s On the Senses is a quotation that reads “that honey is sweet I do not",
+   "md_text": "As was noted earlier, the surviving fragments of the Indalmoi include a line that is plausibly taken to point to the importance, for the Pyrrhonist, of the appearances of things as a basis for decision and action. Whether or not it is this theme that is alluded to in the title Indalmoi itself (see above, in Section 2, Works), it looks as if this is a topic to which Timon returned in several works. The sole reference to Timon’s On the Senses is a quotation that reads “that honey is sweet I do not"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Timon of Phlius",
+ "authors": [
+  "Bett, Richard"
+ ]
+}

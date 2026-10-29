@@ -1,0 +1,185 @@
+{
+ "slug": "john-italos",
+ "letter": "j",
+ "state": "ok",
+ "n_html": 37,
+ "n_md": 37,
+ "n_pairs": 16,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9974326059050064,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998733215100076,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995517810804435,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990524320909665,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982631350412505,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998422989311372,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983108108108109,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990041257646891,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9941747572815534,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约翰·伊塔洛斯 John Italos (Kraft, András)",
+  "zh_h1": "约翰·伊塔洛斯 John Italos (Kraft, András)",
+  "yuanwen_h1": "John Italos",
+  "html_title": "John Italos",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 6,
+  "p→∅": 19,
+  "h3→h3": 6,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "p→p": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×1(p→p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "John Italos (fl. 1070s) was a prominent and controversial intellectual figure in eleventh-century Byzantium. An immigrant from Byzantine Italy, he made a stellar career in Constantinople succeeding Michael Psellos as head of the imperially sponsored school of philosophy. His dialectical method and combative temper made him a renowned figure in the Eastern Mediterranean. Among his students counted the future Constantinopolitan elite as well as foreigners from the Latin West, the Near East, and th",
+   "md_text": "John Italos (fl. 1070s) was a prominent and controversial intellectual figure in eleventh-century Byzantium. An immigrant from Byzantine Italy, he made a stellar career in Constantinople succeeding Michael Psellos as head of the imperially sponsored school of philosophy. His dialectical method and combative temper made him a renowned figure in the Eastern Mediterranean. Among his students counted the future Constantinopolitan elite as well as foreigners from the Latin West, the Near East, and th"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "John Italos",
+ "authors": [
+  "Kraft, András"
+ ]
+}

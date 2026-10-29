@@ -1,0 +1,254 @@
+{
+ "slug": "quine-nf",
+ "letter": "q",
+ "state": "ok",
+ "n_html": 69,
+ "n_md": 76,
+ "n_pairs": 52,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9994088669950739,
+   "n_h": 1,
+   "n_m": 8,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "mathblock",
+    "p",
+    "mathblock",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999462654486835,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995962858296327,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996001599360256,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999650471862985,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993337774816788,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996663329996663,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986382206082615,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996838444514701,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995612110574813,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991783073130649,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994853319608852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984284965950759,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996418338108882,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.992462311557789,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "蒯因的新基础 New Foundations (Thomas Forster)",
+  "zh_h1": "蒯因的新基础 New Foundations (Thomas Forster)",
+  "yuanwen_h1": "Quine’s New Foundations",
+  "html_title": "Quine’s New Foundations",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 34,
+  "ol→ol": 1,
+  "p→∅": 14,
+  "p→mathblock": 5,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+mathblock+p+mathblock+p+p+p+p)": 1,
+  "merged×1(p→p)": 12,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 25,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The best way to illustrate this is by considering ordinals ⟦M⟧ isomorphism classes of wellorderings) in NF. For any ordinal ⟦M⟧ the order type of the set (and it is a set) of the ordinals below ⟦M⟧ is wellordered. In ZF one can prove that the wellordering of the ordinals below ⟦M⟧ is of length ⟦M⟧ . In NF one cannot prove this equation for arbitrary ⟦M⟧ since the formula in the set abstract whose extension is the graph of the isomorphism is not stratified for any implementation of ordered pair. ",
+   "md_text": "The best way to illustrate this is by considering ordinals ⟦M⟧ isomorphism classes of wellorderings) in NF. For any ordinal ⟦M⟧ the order type of the set (and it is a set) of the ordinals below ⟦M⟧ is wellordered. In ZF one can prove that the wellordering of the ordinals below ⟦M⟧ is of length ⟦M⟧ . In NF one cannot prove this equation for arbitrary ⟦M⟧ since the formula in the set abstract whose extension is the graph of the isomorphism is not stratified for any implementation of ordered pair. "
+  },
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "This view of set theory gave rise to the Theory of Types. In the Theory of Types (as simplified successively by Ramsey, Carnap, Gödel and Quine) the bottom type is a collection of atoms. Atoms are non-sets (dormice, teapots, anything you please) with no internal structure visible to the set theory. Thereafter type ⟦M⟧ is simply the power set of type ⟦M⟧ , and there is a type for each natural number. The process cannot be extended to give transfinite types, since the types (being formally disjoin",
+   "md_text": "This view of set theory gave rise to the Theory of Types. In the Theory of Types (as simplified successively by Ramsey, Carnap, Gödel and Quine) the bottom type is a collection of atoms. Atoms are non-sets (dormice, teapots, anything you please) with no internal structure visible to the set theory. Thereafter type ⟦M⟧ is simply the power set of type ⟦M⟧ , and there is a type for each natural number. The process cannot be extended to give transfinite types, since the types (being formally disjoin"
+  },
+  {
+   "i": 4,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "The notion of arbitrary set grew in the late 19th century from developments in analysis, somewhat in the way that the concept of arbitrary real-valued function had grown earlier in the century. To this day there are people who feel that the centre ground of set theory lies in Analysis. A second idea is that of sets as one extensional (in the sense of the intension/extension distinction) limb (the others being lists and multisets) of a body whose intensional limbs are function-in-intension, prope",
+   "md_text": "The notion of arbitrary set grew in the late 19th century from developments in analysis, somewhat in the way that the concept of arbitrary real-valued function had grown earlier in the century. To this day there are people who feel that the centre ground of set theory lies in Analysis. A second idea is that of sets as one extensional (in the sense of the intension/extension distinction) limb (the others being lists and multisets) of a body whose intensional limbs are function-in-intension, prope"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Quine’s New Foundations",
+ "authors": [
+  "Forster, Thomas"
+ ]
+}

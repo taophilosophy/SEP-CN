@@ -1,0 +1,184 @@
+{
+ "slug": "crathorn",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 34,
+ "n_md": 34,
+ "n_pairs": 13,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.994579945799458,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982078853046595,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977500193963845,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994597514856834,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978947368421053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989969909729187,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981211157681746,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9538461538461539,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "威廉·克雷索恩 Crathorn, William (Aurélien Robert)",
+  "zh_h1": "威廉·克雷索恩 Crathorn, William (Aurélien Robert)",
+  "yuanwen_h1": "William Crathorn",
+  "html_title": "William Crathorn",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 3,
+  "p→∅": 19,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 3,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Very little is known about Crathorn’s life. He might have been born in the village of Crathorne in north Yorkshire. He became a Dominican friar before going to Oxford, where he lectured on the first book of Peter the Lombard’s Sentences in the years 1330–32, a work we can date because of a passage in which Crathorn mentions an eclipse that we know occurred on July 16, 1330. His Dominican contemporary, Robert Holkot, also tells us that that he lectured at the same time (1331–33) as a Dominican na",
+   "md_text": "Very little is known about Crathorn’s life. He might have been born in the village of Crathorne in north Yorkshire. He became a Dominican friar before going to Oxford, where he lectured on the first book of Peter the Lombard’s Sentences in the years 1330–32, a work we can date because of a passage in which Crathorn mentions an eclipse that we know occurred on July 16, 1330. His Dominican contemporary, Robert Holkot, also tells us that that he lectured at the same time (1331–33) as a Dominican na"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "William Crathorn",
+ "authors": [
+  "Robert, Aurélien"
+ ]
+}

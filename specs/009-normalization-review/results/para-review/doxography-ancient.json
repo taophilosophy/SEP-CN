@@ -1,0 +1,244 @@
+{
+ "slug": "doxography-ancient",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 49,
+ "n_md": 49,
+ "n_pairs": 24,
+ "n_flags": 1,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9986130374479889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9938981459751232,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "ul"
+   ],
+   "shape_m": [
+    "p",
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9980404964075767,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979035639412998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9990583804143126,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996578857338351,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983322214809873,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963592233009708,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977759243814289,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993416721527321,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993736298152208,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9927007299270073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "古代哲学学说史 doxography of ancient philosophy (Jaap Mansfeld and David Runia)",
+  "zh_h1": "古代哲学学说史 doxography of ancient philosophy (Jaap Mansfeld and David Runia)",
+  "yuanwen_h1": "Doxography of Ancient Philosophy",
+  "html_title": "Doxography of Ancient Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 11,
+  "p→∅": 20,
+  "ul→∅": 2,
+  "ol→∅": 1,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+ul→p+ul)": 1,
+  "merged×1(p→p)": 4,
+  "merged×1(ol→ol)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 48,
+   "j": 48,
+   "ratio": 0.9369369369369369,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Cicero | Democritus | Epicureanism | Epicurus | Presocratic Philosophy | skepticism: ancient | Stoicism | Theophrastus",
+   "md_text": "Cicero Democritus Epicureanism Epicurus Presocratic Philosophy skepticism: ancient Stoicism Theophrastus"
+  }
+ ],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Furthermore, there is a significant difference between Aristotle’s overviews (which we know much better than those of Theophrastus, so for the sake of clarity one may restrict oneself to Aristotle) and the corresponding passages and sections in Aëtius and his family. Aristotle’s purpose was to make a choice and to find a solution, and many later authors also wanted this. But numerous chapters in the Placita literature when taken at face-value seem to make a decision impossible, because the bald ",
+   "md_text": "Furthermore, there is a significant difference between Aristotle’s overviews (which we know much better than those of Theophrastus, so for the sake of clarity one may restrict oneself to Aristotle) and the corresponding passages and sections in Aëtius and his family. Aristotle’s purpose was to make a choice and to find a solution, and many later authors also wanted this. But numerous chapters in the Placita literature when taken at face-value seem to make a decision impossible, because the bald "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Doxography of Ancient Philosophy",
+ "authors": [
+  "Mansfeld, Jaap",
+  "Runia, David"
+ ]
+}

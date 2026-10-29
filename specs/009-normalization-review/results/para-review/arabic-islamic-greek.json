@@ -1,0 +1,234 @@
+{
+ "slug": "arabic-islamic-greek",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 63,
+ "n_md": 63,
+ "n_pairs": 10,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9961942456994977,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934985778138968,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928925923656639,
+   "n_h": 16,
+   "n_m": 16,
+   "shape_h": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9914116816001785,
+   "n_h": 18,
+   "n_m": 18,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9880952380952381,
+   "n_h": 14,
+   "n_m": 14,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9967741935483871,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9619883040935673,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿拉伯和伊斯兰哲学中的希腊文献 Greek sources (Cristina D’Ancona)",
+  "zh_h1": "阿拉伯和伊斯兰哲学中的希腊文献 Greek sources (Cristina D’Ancona)",
+  "yuanwen_h1": "Greek Sources in Arabic and Islamic Philosophy",
+  "html_title": "Greek Sources in Arabic and Islamic Philosophy",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 46,
+  "h2→∅": 1,
+  "blockquote→∅": 4,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "p→p": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×16(p+p+h2+p+p+p+p+p+p+p+p+p+p+p+p+blockquote→p+p+h2+p+p+p+p+p+p+p+p+p+p+p+p+blockquote)": 1,
+  "merged×18(p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+blockquote→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+p+blockquote)": 1,
+  "merged×14(p+p+p+p+p+p+p+p+p+p+p+p+blockquote+p→p+p+p+p+p+p+p+p+p+p+p+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 21,
+   "shape_h": "h2",
+   "shape_m": "h2",
+   "html_text": "4. The translations of Hunayn ibn Ishaq, his son Ishaq and their associates: the complete Aristotelian corpus and Alexander of Aphrodisias’s universe",
+   "md_text": "4. The translations of Hunayn ibn Ishaq, his son Ishaq and their associates: the complete Aristotelian corpus and Alexander of Aphrodisias’s universe"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Greek Sources in Arabic and Islamic Philosophy",
+ "authors": [
+  "D’Ancona, Cristina"
+ ]
+}

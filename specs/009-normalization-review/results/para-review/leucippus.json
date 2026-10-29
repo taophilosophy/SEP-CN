@@ -1,0 +1,93 @@
+{
+ "slug": "leucippus",
+ "letter": "l",
+ "state": "ok",
+ "n_html": 20,
+ "n_md": 20,
+ "n_pairs": 16,
+ "n_flags": 0,
+ "n_merged": 4,
+ "merged": [
+  {
+   "ratio": 0.9977426636568849,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979702300405954,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968612680477087,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "留基伯 Leucippus (Sylvia Berryman)",
+  "zh_h1": "留基伯 Leucippus (Sylvia Berryman)",
+  "yuanwen_h1": "Leucippus",
+  "html_title": "Leucippus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 5,
+  "p→p": 8,
+  "p→∅": 3,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(p→p)": 3,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 11,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Aristotle frequently pairs Leucippus and Democritus in his reports, including his account of the motivation for positing atoms and void. In particular, Aristotle associates Leucippus as well as Democritus with the deliberately paradoxical assertion that ‘being is no more than not-being,’ i.e., that void exists as much as the full or solid (DK 67A6). Schofield (2002) has argued that the more careful account in Simplicius shows that the ou mallon or ‘no more’ doctrine is due to Democritus. Followi",
+   "md_text": "Aristotle frequently pairs Leucippus and Democritus in his reports, including his account of the motivation for positing atoms and void. In particular, Aristotle associates Leucippus as well as Democritus with the deliberately paradoxical assertion that ‘being is no more than not-being,’ i.e., that void exists as much as the full or solid (DK 67A6). Schofield (2002) has argued that the more careful account in Simplicius shows that the ou mallon or ‘no more’ doctrine is due to Democritus. Followi"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Leucippus",
+ "authors": [
+  "Berryman, Sylvia"
+ ]
+}

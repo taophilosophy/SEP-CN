@@ -1,0 +1,271 @@
+{
+ "slug": "bergson",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 62,
+ "n_md": 62,
+ "n_pairs": 25,
+ "n_flags": 1,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9993183367416496,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989716468341413,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987580945622283,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985475671750181,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993122420907841,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994490358126722,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993011879804332,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996712689020382,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999453327866612,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979123173277662,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999554565701559,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986531986531987,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991407880201301,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亨利·柏格森 Bergson, Henri (Leonard Lawlor and Valentine Moulard-Leonard)",
+  "zh_h1": "亨利·柏格森 Bergson, Henri (Leonard Lawlor and Valentine Moulard-Leonard)",
+  "yuanwen_h1": "Henri Bergson",
+  "html_title": "Henri Bergson",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→∅": 35,
+  "p→p": 12,
+  "blockquote→∅": 2,
+  "ul→ul": 1,
+  "merged×1(p→p)": 6,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 61,
+   "j": 61,
+   "ratio": 0.9408602150537635,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Deleuze, Gilles | Heidegger, Martin | Husserl, Edmund | James, William | liberty: positive and negative | life | memory | Merleau-Ponty, Maurice | mysticism | nothingness | phenomenology | Plotinus",
+   "md_text": "Deleuze, Gilles Heidegger, Martin Husserl, Edmund James, William liberty: positive and negative life memory Merleau-Ponty, Maurice mysticism nothingness phenomenology Plotinus"
+  }
+ ],
+ "spot": [
+  {
+   "i": 38,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "For Bergson, the notion of life mixes together two opposite senses, which must be differentiated and then led into a genuine unity. On the one hand, it is clear from Bergson’s earlier works that life is the absolute temporal movement informed by duration and retained in memory. But, on the other hand, he has shown that life also consists in the practical necessities imposed on our body and accounting for our habitual mode of knowing in spatial terms. More specifically then, Bergson’s project in ",
+   "md_text": "For Bergson, the notion of life mixes together two opposite senses, which must be differentiated and then led into a genuine unity. On the one hand, it is clear from Bergson’s earlier works that life is the absolute temporal movement informed by duration and retained in memory. But, on the other hand, he has shown that life also consists in the practical necessities imposed on our body and accounting for our habitual mode of knowing in spatial terms. More specifically then, Bergson’s project in "
+  },
+  {
+   "i": 59,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Societe des Amis de Bergson",
+   "md_text": "Societe des Amis de Bergson"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Henri Bergson",
+ "authors": [
+  "Lawlor, Leonard",
+  "Moulard-Leonard, Valentine"
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "slug": "aristotle-politics",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 51,
+ "n_md": 51,
+ "n_pairs": 27,
+ "n_flags": 0,
+ "n_merged": 13,
+ "merged": [
+  {
+   "ratio": 0.9988310929281122,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981936416184971,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977801144993574,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996322177271055,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986504723346828,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985990473521995,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987423492915234,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989965884005619,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979991996798719,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996357012750455,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981606376456161,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9827586206896551,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "亚里士多德的政治学 political theory (Fred Miller)",
+  "zh_h1": "亚里士多德的政治学 political theory (Fred Miller)",
+  "yuanwen_h1": "Aristotle’s Political Theory",
+  "html_title": "Aristotle’s Political Theory",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 21,
+  "p→p": 15,
+  "blockquote→blockquote": 1,
+  "table→table": 1,
+  "ul→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 4,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 41,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The problem of extrapolating to modern political affairs can be illustrated more fully in connection with Aristotle’s discussion of legal change in Politics II.8. He first lays out the argument for making the laws changeable. It has been beneficial in the case of medicine, for example, for it to progress from traditional ways to improved forms of treatment. An existing law may be a vestige of a primitive barbaric practice. For instance, Aristotle mentions a law in Cyme that allows an accuser to ",
+   "md_text": "The problem of extrapolating to modern political affairs can be illustrated more fully in connection with Aristotle’s discussion of legal change in Politics II.8. He first lays out the argument for making the laws changeable. It has been beneficial in the case of medicine, for example, for it to progress from traditional ways to improved forms of treatment. An existing law may be a vestige of a primitive barbaric practice. For instance, Aristotle mentions a law in Cyme that allows an accuser to "
+  },
+  {
+   "i": 25,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "Correct Deviant One Ruler Kingship Tyranny Few Rulers Aristocracy Oligarchy Many Rulers Polity Democracy",
+   "md_text": "Correct Deviant One Ruler Kingship Tyranny Few Rulers Aristocracy Oligarchy Many Rulers Polity Democracy"
+  }
+ ],
+ "supplements": [
+  "supplement1.html",
+  "supplement2.html",
+  "supplement3.html"
+ ],
+ "meta_title": "Aristotle’s Political Theory",
+ "authors": [
+  "Miller, Fred"
+ ]
+}

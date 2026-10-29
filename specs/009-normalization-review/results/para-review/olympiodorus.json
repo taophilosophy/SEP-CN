@@ -1,0 +1,184 @@
+{
+ "slug": "olympiodorus",
+ "letter": "o",
+ "state": "ok",
+ "n_html": 41,
+ "n_md": 41,
+ "n_pairs": 17,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9971033150949469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999553770638108,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970475346914673,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990335496341295,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973583798062812,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981768459434822,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963369963369964,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966622162883845,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "奥林匹奥多罗斯 Olympiodorus (Christian Wildberg)",
+  "zh_h1": "奥林匹奥多罗斯 Olympiodorus (Christian Wildberg)",
+  "yuanwen_h1": "Olympiodorus",
+  "html_title": "Olympiodorus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 21,
+  "p→p": 6,
+  "blockquote→blockquote": 1,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(ol+p+p+p→ol+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 11,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Occasionally, we encounter an anecdote about Ammonius, whom Olympiodorus revered and whom he invokes frequently to inflate his own authority. One such story suggests a tension between imperial rule and the political views of the philosophers. Near the end of the Gorgias commentary (§42), Olympiodorus endorses the idea that aristocracy is the best form of government and far superior to democracy, and he justifies this by claiming that the city, just like the human being, is a microcosm that shoul",
+   "md_text": "Occasionally, we encounter an anecdote about Ammonius, whom Olympiodorus revered and whom he invokes frequently to inflate his own authority. One such story suggests a tension between imperial rule and the political views of the philosophers. Near the end of the Gorgias commentary (§42), Olympiodorus endorses the idea that aristocracy is the best form of government and far superior to democracy, and he justifies this by claiming that the city, just like the human being, is a microcosm that shoul"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Olympiodorus",
+ "authors": [
+  "Wildberg, Christian"
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "slug": "marty",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 53,
+ "n_md": 54,
+ "n_pairs": 22,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9958304378040306,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "pubinfo",
+    "preamble"
+   ],
+   "shape_m": [
+    "image",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993016759776536,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997179125528914,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980554205153136,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993997599039616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987465530208072,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996634129922585,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997062279670975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977663308565438,
+   "n_h": 13,
+   "n_m": 13,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988853639715339,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996590521650187,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992090693382547,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9950248756218906,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "安东·马蒂 Marty, Anton (Robin Rollinger and Hynek Janousek)",
+  "zh_h1": "安东·马蒂 Marty, Anton (Robin Rollinger and Hynek Janousek)",
+  "yuanwen_h1": "Anton Marty",
+  "html_title": "Anton Marty",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→∅": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 25,
+  "p→p": 10,
+  "blockquote→∅": 3,
+  "h3→h3": 3,
+  "blockquote→blockquote": 1,
+  "ul→∅": 1,
+  "merged×2(pubinfo+preamble→image+p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×13(p+p+p+p+p+p+p+p+p+blockquote+p+p+p→p+p+p+p+p+p+p+p+p+blockquote+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 35,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "Is an analogue of the judgment-content really missing in the realm of interest? I don’t believe it is. To be sure, a thoroughly subjectivistic and in this sense erroneously “psychologistic” view is very widespread, which does not accept the distinction between what is merely loveable as a matter of fact and what is worthy of love and between a blind compulsion and an “ought” in the sense of a norm of correctness in this realm. However, even though it calls itself “value theory”, it is still unab",
+   "md_text": "Is an analogue of the judgment-content really missing in the realm of interest? I don’t believe it is. To be sure, a thoroughly subjectivistic and in this sense erroneously “psychologistic” view is very widespread, which does not accept the distinction between what is merely loveable as a matter of fact and what is worthy of love and between a blind compulsion and an “ought” in the sense of a norm of correctness in this realm. However, even though it calls itself “value theory”, it is still unab"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Anton Marty",
+ "authors": [
+  "Rollinger, Robin",
+  "Janousek, Hynek"
+ ]
+}

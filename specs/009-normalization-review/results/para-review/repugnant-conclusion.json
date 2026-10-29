@@ -1,0 +1,272 @@
+{
+ "slug": "repugnant-conclusion",
+ "letter": "r",
+ "state": "ok",
+ "n_html": 60,
+ "n_md": 62,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9994152046783625,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986320109439124,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999424073718564,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9918032786885246,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940199335548173,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987023098883987,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992545102132101,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980961446930033,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990898058252428,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987903225806452,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990029910269193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983183856502242,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986183441385907,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981498612395929,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990343495654573,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "令人反感的结论 repugnant conclusion, the (Gustaf Arrhenius, Jesper Ryberg, and Torbjörn Tännsjö)",
+  "zh_h1": "令人反感的结论 repugnant conclusion, the (Gustaf Arrhenius, Jesper Ryberg, and Torbjörn Tännsjö)",
+  "yuanwen_h1": "The Repugnant Conclusion",
+  "html_title": "The Repugnant Conclusion",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 5,
+  "p→∅": 28,
+  "ol→ol": 1,
+  "figure→p": 2,
+  "p→p": 9,
+  "h3→h3": 9,
+  "h4→h4": 3,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 16,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Several philosophers have taken up the challenge from Parfit and have engaged in considerations as to what would constitute a satisfactory population ethics. Some theorists have done so by accepting the framework Parfit has set for the investigation; that is, they have carried on the work of developing an ethical theory that succeeds in meeting Parfit’s minimal requirements for adequacy. Other theorists have been less willing to accept the scenery as set by Parfit and have more or less radically",
+   "md_text": "Several philosophers have taken up the challenge from Parfit and have engaged in considerations as to what would constitute a satisfactory population ethics. Some theorists have done so by accepting the framework Parfit has set for the investigation; that is, they have carried on the work of developing an ethical theory that succeeds in meeting Parfit’s minimal requirements for adequacy. Other theorists have been less willing to accept the scenery as set by Parfit and have more or less radically"
+  },
+  {
+   "i": 5,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "A pregnant mother suffers from an illness which, unless she undergoes a simple treatment, will cause her child to have a permanent impairment which will cause significant suffering throughout the child’s life. If she receives the treatment and is cured her child will have no such impairment. A woman suffers from an illness which means that, if she gets pregnant now, her child will have a permanent impairment which will cause significant suffering throughout the child’s life. If she postpones her",
+   "md_text": "A pregnant mother suffers from an illness which, unless she undergoes a simple treatment, will cause her child to have a permanent impairment which will cause significant suffering throughout the child’s life. If she receives the treatment and is cured her child will have no such impairment. A woman suffers from an illness which means that, if she gets pregnant now, her child will have a permanent impairment which will cause significant suffering throughout the child’s life. If she postpones her"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Repugnant Conclusion",
+ "authors": [
+  "Arrhenius, Gustaf",
+  "Ryberg, Jesper",
+  "Tännsjö, Torbjörn"
+ ]
+}

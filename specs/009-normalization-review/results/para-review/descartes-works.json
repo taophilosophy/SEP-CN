@@ -1,0 +1,194 @@
+{
+ "slug": "descartes-works",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 38,
+ "n_md": 38,
+ "n_pairs": 16,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9803370786516854,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "pubinfo",
+    "preamble"
+   ],
+   "shape_m": [
+    "image",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994410285075461,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986424110779256,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989281886387996,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995503597122302,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991218165851211,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989039093898429,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978858350951374,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.96875,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "笛卡尔的生平及著作 life and works (Kurt Smith)",
+  "zh_h1": "笛卡尔的生平及著作 life and works (Kurt Smith)",
+  "yuanwen_h1": "Descartes’ Life and Works",
+  "html_title": "Descartes’ Life and Works",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→∅": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 7,
+  "p→∅": 18,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "h3→h3": 1,
+  "merged×2(pubinfo+preamble→image+p)": 1,
+  "merged×1(p→p)": 3,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In 1618, at the age of twenty-two, he enlisted in the army of Prince Maurice of Nassau. It is not known what his duties were exactly, though Baillet suggests that he would have very likely been drawn to what would now be called the Corps of Engineers (Baillet, Livre 1, Chapitre 9, p. 41). This division would have engaged in applied mathematics, designing a variety of structures and machines aimed at protecting and assisting soldiers in battle. Sorell, on the other hand, notes that in Breda, wher",
+   "md_text": "In 1618, at the age of twenty-two, he enlisted in the army of Prince Maurice of Nassau. It is not known what his duties were exactly, though Baillet suggests that he would have very likely been drawn to what would now be called the Corps of Engineers (Baillet, Livre 1, Chapitre 9, p. 41). This division would have engaged in applied mathematics, designing a variety of structures and machines aimed at protecting and assisting soldiers in battle. Sorell, on the other hand, notes that in Breda, wher"
+  }
+ ],
+ "supplements": [
+  "history.html",
+  "originalaw.html",
+  "tenglish.html",
+  "tlatin.html"
+ ],
+ "meta_title": "Descartes’ Life and Works",
+ "authors": [
+  "Smith, Kurt"
+ ]
+}

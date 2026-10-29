@@ -1,0 +1,1062 @@
+{
+ "slug": "mereology",
+ "letter": "m",
+ "state": "flagged",
+ "n_html": 290,
+ "n_md": 291,
+ "n_pairs": 104,
+ "n_flags": 12,
+ "n_merged": 56,
+ "merged": [
+  {
+   "ratio": 0.9964224195044389,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992810927390366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964891749561147,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986938349007315,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988240541746077,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9877270495827197,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936788874841972,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9898862199747156,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9974874371859297,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99909338168631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9721293199554069,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9973190348525469,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976854181342457,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9873417721518988,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.986328125,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9911793531525646,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "blockquote",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "blockquote",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9953903774128493,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9941107184923439,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.99479618386817,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978282329713721,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9881914232442511,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975369458128078,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934861278648974,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "table",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9973164186386924,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "table",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934450109249818,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9965126416739319,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9947483588621444,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995492594977463,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946070878274268,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9948020791683326,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9836065573770492,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.984313725490196,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9738805970149254,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9966159052453468,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9901778603663393,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.967381974248927,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929859719438878,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9866534849233811,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9975825946817083,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9928783382789318,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.985539488320356,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9778672032193159,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9923211639498855,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996563071297989,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "p",
+    "table",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999324962872958,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976114649681529,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9959903769045709,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "table",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992844364937388,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9896907216494846,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "table"
+   ],
+   "shape_m": [
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9946294307196563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986041546925035,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991059454626732,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9693644261545497,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table"
+   ],
+   "shape_m": [
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table",
+    "p",
+    "table"
+   ]
+  },
+  {
+   "ratio": 0.9995253915519696,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9881422924901185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "分体论 mereology (Achille Varzi)",
+  "zh_h1": "分体论 mereology (Achille Varzi)",
+  "yuanwen_h1": "Mereology",
+  "html_title": "Mereology",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 71,
+  "table→table": 12,
+  "p→∅": 99,
+  "h3→h3": 12,
+  "table→∅": 75,
+  "blockquote→∅": 10,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 3,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×3(p+table+p→p+table+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 2,
+  "merged×3(table+p+table→table+p+table)": 6,
+  "merged×5(table+p+p+table+p→table+p+p+table+p)": 2,
+  "merged×2(p+table→p+table)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×4(p+p+p+table→p+p+p+table)": 1,
+  "merged×2(table+p→table+p)": 8,
+  "merged×5(table+p+blockquote+p+table→table+p+blockquote+p+table)": 1,
+  "merged×5(table+p+table+p+table→table+p+table+p+table)": 1,
+  "merged×5(table+p+p+p+p→table+p+p+p+p)": 1,
+  "merged×3(table+p+blockquote→table+p+blockquote)": 1,
+  "merged×4(table+p+p+table→table+p+p+table)": 1,
+  "merged×4(table+p+blockquote+p→table+p+blockquote+p)": 1,
+  "merged×4(table+p+table+p→table+p+table+p)": 1,
+  "merged×6(table+p+table+p+table+p→table+p+table+p+table+p)": 1,
+  "merged×9(p+table+p+table+p+p+p+blockquote+p→p+table+p+table+p+p+p+blockquote+p)": 1,
+  "merged×4(p+table+p+table→p+table+p+table)": 1,
+  "merged×3(table+p+p→table+p+p)": 2,
+  "merged×3(p+p+table→p+p+table)": 1,
+  "merged×8(table+p+table+p+table+p+table+p→table+p+table+p+table+p+table+p)": 1,
+  "merged×7(table+p+table+p+p+table+p→table+p+table+p+p+table+p)": 1,
+  "merged×6(p+p+p+p+p+table→p+p+p+p+p+table)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×1(table→table)": 1,
+  "merged×9(table+p+table+p+table+p+table+p+table→table+p+table+p+table+p+table+p+table)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 28,
+   "j": 29,
+   "ratio": 0.9403341288782816,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(19) Equality EQ xy = ⟦S⟧ P xy ∧ P yx (20) Proper Parthood PP xy = ⟦S⟧ P xy ∧ ¬ x = y (21) Proper Extension PE xy = ⟦S⟧ P yx ∧ ¬ x = y (22) Overlap O xy = ⟦S⟧ ∃ z (P zx ∧ P zy ) (23) Underlap U xy = ⟦S⟧ ∃ z (P xz ∧ P yz ).",
+   "md_text": "(19) Equality EQxy = ⟦S⟧ Pxy ∧ Pyx (20) Proper Parthood PPxy = ⟦S⟧ Pxy ∧ ¬x=y (21) Proper Extension PExy = ⟦S⟧ Pyx ∧ ¬x=y (22) Overlap Oxy = ⟦S⟧ ∃z(Pzx ∧ Pzy) (23) Underlap Uxy = ⟦S⟧ ∃z(Pxz ∧ Pyz)."
+  },
+  {
+   "kind": "replace",
+   "i": 38,
+   "j": 39,
+   "ratio": 0.8888888888888888,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(26) x = y ↔ EQ xy .",
+   "md_text": "(26) x=y ↔ EQxy."
+  },
+  {
+   "kind": "replace",
+   "i": 60,
+   "j": 61,
+   "ratio": 0.9333333333333333,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(P.4 ⟦S⟧ ) Quasi-supplementation PP xy → ∃ z ∃ w (P zy ∧ P wy ∧ ¬O zw ).",
+   "md_text": "(P.4 ⟦S⟧ ) Quasi-supplementation PPxy → ∃z∃w(Pzy ∧ Pwy ∧ ¬Ozw)."
+  },
+  {
+   "kind": "replace",
+   "i": 92,
+   "j": 93,
+   "ratio": 0.8771929824561403,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(30) ∀ z (O zy → O zx ) → P yx .",
+   "md_text": "(30) ∀z(Ozy → Ozx) → Pyx."
+  },
+  {
+   "kind": "replace",
+   "i": 94,
+   "j": 95,
+   "ratio": 0.8928571428571429,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(31) P yx ↔ ∀ z (O zy → O zx ).",
+   "md_text": "(31) Pyx ↔ ∀z(Ozy → Ozx)."
+  },
+  {
+   "kind": "replace",
+   "i": 112,
+   "j": 113,
+   "ratio": 0.896551724137931,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(34) ((A y ∧ P yx ) → P yx ) ∧ (P zx → ∃ y (A y ∧ P yx ∧ O yz ))",
+   "md_text": "(34) ((Ay ∧ Pyx) → Pyx) ∧ (Pzx → ∃y(Ay ∧ Pyx ∧ Oyz))"
+  },
+  {
+   "kind": "replace",
+   "i": 119,
+   "j": 120,
+   "ratio": 0.9448818897637795,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(P.5′) Atomistic Supplementation ¬P xy → ∃ z (A z ∧ P zx ∧ ¬P zy ),",
+   "md_text": "(P.5′) Atomistic Supplementation ¬Pxy → ∃z(Az ∧ Pzx ∧ ¬Pzy),"
+  },
+  {
+   "kind": "replace",
+   "i": 134,
+   "j": 135,
+   "ratio": 0.925,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(P.9) Density PP xy → ∃ z (PP xz ∧ PP zy ).",
+   "md_text": "(P.9) Density PPxy → ∃z(PPxz ∧ PPzy)."
+  },
+  {
+   "kind": "replace",
+   "i": 137,
+   "j": 138,
+   "ratio": 0.88,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(P.10) Bottom ∃ x ∀ y P xy ,",
+   "md_text": "(P.10) Bottom ∃x∀yPxy,"
+  },
+  {
+   "kind": "replace",
+   "i": 169,
+   "j": 170,
+   "ratio": 0.9210526315789473,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(P.13 ⟦S⟧ ) ξ- Product ξ xy → ∃ z R zxy ,",
+   "md_text": "(P.13 ⟦S⟧ ) ξ-Product ξxy → ∃zRzxy,"
+  },
+  {
+   "kind": "replace",
+   "i": 186,
+   "j": 187,
+   "ratio": 0.8888888888888888,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(P.16 ⟦S⟧ ) General ψ- Product (∃ w φ w ∧ ∀ w (φ w → ψ w )) → ∃ z R z φ w ,",
+   "md_text": "(P.16 ⟦S⟧ ) General ψ-Product (∃wφw ∧ ∀w(φw → ψw)) → ∃zRzφw,"
+  },
+  {
+   "kind": "replace",
+   "i": 217,
+   "j": 218,
+   "ratio": 0.938337801608579,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(58) Sum x + y = ⟦S⟧ σ z (P zx ∨ P zy ) (59) Product x × y = ⟦S⟧ σ z (P zx ∧ P zy ) (60) Difference x − y = ⟦S⟧ σ z (P zx ∧ D zy ) (61) Complement ~ x = ⟦S⟧ σ z D zx (62) Universe U = ⟦S⟧ σ z P zz .",
+   "md_text": "(58) Sum x + y = ⟦S⟧ σz(Pzx ∨ Pzy) (59) Product x × y = ⟦S⟧ σz(Pzx ∧ Pzy) (60) Difference x − y = ⟦S⟧ σz(Pzx ∧ Dzy) (61) Complement ~x = ⟦S⟧ σzDzx (62) Universe U = ⟦S⟧ σzPzz."
+  }
+ ],
+ "spot": [
+  {
+   "i": 101,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Any misgivings about (P.5) may of course be raised against (P.6). But what if one agrees with the above arguments in support of (P.5)? Do they also give us reason to accept the stronger principle (P.6)? The answer is no. Plausible as it may initially sound, (P.6) has consequences that even an extensionalist may be unwilling to accept. For example, it may be argued that although the base and the stem of a wine glass jointly compose a larger part of the glass itself, and similarly for the stem and",
+   "md_text": "Any misgivings about (P.5) may of course be raised against (P.6). But what if one agrees with the above arguments in support of (P.5)? Do they also give us reason to accept the stronger principle (P.6)? The answer is no. Plausible as it may initially sound, (P.6) has consequences that even an extensionalist may be unwilling to accept. For example, it may be argued that although the base and the stem of a wine glass jointly compose a larger part of the glass itself, and similarly for the stem and"
+  },
+  {
+   "i": 4,
+   "shape_h": "table",
+   "shape_m": "table",
+   "html_text": "(1) The handle is part of the mug. (2) The remote-control unit is part of the stereo system. (3) The left half is your part of the cake. (4) The cutlery is part of the tableware. (5) The contents of this bag are only part of what I bought. (6) That area is part of the living room. (7) The outermost points are part of the perimeter. (8) The first act was the best part of the play.",
+   "md_text": "(1) The handle is part of the mug. (2) The remote-control unit is part of the stereo system. (3) The left half is your part of the cake. (4) The cutlery is part of the tableware. (5) The contents of this bag are only part of what I bought. (6) That area is part of the living room. (7) The outermost points are part of the perimeter. (8) The first act was the best part of the play."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Mereology",
+ "authors": [
+  "Varzi, Achille"
+ ]
+}

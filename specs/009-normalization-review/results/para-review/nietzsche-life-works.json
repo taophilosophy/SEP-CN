@@ -1,0 +1,242 @@
+{
+ "slug": "nietzsche-life-works",
+ "letter": "n",
+ "state": "ok",
+ "n_html": 69,
+ "n_md": 69,
+ "n_pairs": 41,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.999211356466877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993201903467029,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993041057759221,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993730407523511,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993808049535604,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982638888888888,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983458455274208,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998046620653731,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987421383647799,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974554707379135,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991239597021463,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998938710533298,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995860927152318,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "尼采的生平与著作 life and works (Robert Wicks)",
+  "zh_h1": "尼采的生平与著作 life and works (Robert Wicks)",
+  "yuanwen_h1": "Nietzsche’s Life and Works",
+  "html_title": "Nietzsche’s Life and Works",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 28,
+  "p→∅": 27,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 6,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 8,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Inspired by Ritschl, and following him to the University of Leipzig in 1865—an institution located closer to Nietzsche’s hometown of Naumburg—Nietzsche quickly established his own academic reputation through his published essays on two 6th century BCE poets, Theognis and Simonides, as well as on Aristotle. In Leipzig, he developed a close friendship with Erwin Rohde (1845–1898), a fellow philology student and future philologist, with whom he would correspond extensively in later years. Momentous",
+   "md_text": "Inspired by Ritschl, and following him to the University of Leipzig in 1865—an institution located closer to Nietzsche’s hometown of Naumburg—Nietzsche quickly established his own academic reputation through his published essays on two 6th century BCE poets, Theognis and Simonides, as well as on Aristotle. In Leipzig, he developed a close friendship with Erwin Rohde (1845–1898), a fellow philology student and future philologist, with whom he would correspond extensively in later years. Momentous"
+  },
+  {
+   "i": 66,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Nietzsche Circle North American Nietzsche Society Journal of Nietzsche Studies Nietzsche Haus in Naumburg (Germany) Nietzsche Haus in Sils-Maria (Switzerland) Society for Phenomenology and Existential Philosophy",
+   "md_text": "Nietzsche Circle North American Nietzsche Society Journal of Nietzsche Studies Nietzsche Haus in Naumburg (Germany) Nietzsche Haus in Sils-Maria (Switzerland) Society for Phenomenology and Existential Philosophy"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Nietzsche’s Life and Works",
+ "authors": [
+  "Wicks, Robert"
+ ]
+}

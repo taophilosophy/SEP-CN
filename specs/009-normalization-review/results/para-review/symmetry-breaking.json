@@ -1,0 +1,334 @@
+{
+ "slug": "symmetry-breaking",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 104,
+ "n_md": 105,
+ "n_pairs": 67,
+ "n_flags": 0,
+ "n_merged": 21,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979659293160438,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954441913439636,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978331527627302,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9981080151358789,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972489683631361,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983513464004397,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994499449944995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979388243053838,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958197863446354,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992673992673993,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989440337909187,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994957135653051,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978936282253817,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992069785884219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989820156090939,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996210685865858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991235758106923,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991023339317774,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979261717129821,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "对称性与对称性破缺 symmetry and symmetry breaking (Katherine Brading, Elena Castellani, and Nicholas Teh)",
+  "zh_h1": "对称性与对称性破缺 symmetry and symmetry breaking (Katherine Brading, Elena Castellani, and Nicholas Teh)",
+  "yuanwen_h1": "Symmetry and Symmetry Breaking",
+  "html_title": "Symmetry and Symmetry Breaking",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→∅": 33,
+  "p→p": 45,
+  "ul→∅": 1,
+  "h3→h3": 7,
+  "h4→h4": 2,
+  "blockquote→blockquote": 1,
+  "h3→∅": 1,
+  "ul→ul": 2,
+  "ol→ol": 1,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 12,
+  "merged×1(ul→ul)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×6(p+p+h3+p+p+p→p+p+h3+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 74,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Historically, the concept of SSB first emerged in condensed matter physics. The prototype case is the 1928 Heisenberg theory of the ferromagnet as an infinite array of spin 1/2 magnetic dipoles, with spin-spin interactions between nearest neighbours such that neighbouring dipoles tend to align. Although the theory is rotationally invariant, below the critical Curie temperature T ⟦S⟧ the actual ground state of the ferromagnet has the spin all aligned in some particular direction (i.e. a magnetiza",
+   "md_text": "Historically, the concept of SSB first emerged in condensed matter physics. The prototype case is the 1928 Heisenberg theory of the ferromagnet as an infinite array of spin 1/2 magnetic dipoles, with spin-spin interactions between nearest neighbours such that neighbouring dipoles tend to align. Although the theory is rotationally invariant, below the critical Curie temperature T ⟦S⟧ the actual ground state of the ferromagnet has the spin all aligned in some particular direction (i.e. a magnetiza"
+  },
+  {
+   "i": 49,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "What is an appropriate formal framework for understanding the inter-theoretic relationship realized by duality symmetries? Within the context of quantum gauge/gravity duality, a rudimentary framework for doing so was sketched in De Haro, Teh, and Butterfield (2017) and then further developed in De Haro and Butterfield (2017) for the case of bosonization dualities. A comprehensive, detailed survey is provided in De Haro and Butterfield (2018). And within the far simpler context of classical mecha",
+   "md_text": "What is an appropriate formal framework for understanding the inter-theoretic relationship realized by duality symmetries? Within the context of quantum gauge/gravity duality, a rudimentary framework for doing so was sketched in De Haro, Teh, and Butterfield (2017) and then further developed in De Haro and Butterfield (2017) for the case of bosonization dualities. A comprehensive, detailed survey is provided in De Haro and Butterfield (2018). And within the far simpler context of classical mecha"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Symmetry and Symmetry Breaking",
+ "authors": [
+  "Brading, Katherine",
+  "Castellani, Elena",
+  "Teh, Nicholas"
+ ]
+}

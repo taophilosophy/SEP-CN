@@ -1,0 +1,165 @@
+{
+ "slug": "joane-petrizi",
+ "letter": "j",
+ "state": "ok",
+ "n_html": 36,
+ "n_md": 36,
+ "n_pairs": 11,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9911392405063291,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9940323955669225,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987281976744186,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981532779316713,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949748743718593,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977460555972952,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "乔安·佩特里齐 Petrizi, Joane (Tengiz Iremadze)",
+  "zh_h1": "乔安·佩特里齐 Petrizi, Joane (Tengiz Iremadze)",
+  "yuanwen_h1": "Joane Petrizi",
+  "html_title": "Joane Petrizi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 6,
+  "p→∅": 23,
+  "p→p": 4,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "With regard to the problem of causality, Petrizi applied the criticism of the Peripatetic doctrine of principles in critical discussion of the Aristotelian concept of causes. In the realm of theoretical philosophy, the system of four causes proved to be inadequate and flawed. In this context, it seemed to Petrizi to be necessary to work out a new conception of causality. He studied Proclus’s philosophy on the basis of Greek sources, and regarded it as appropriate to his research goals to adopt t",
+   "md_text": "With regard to the problem of causality, Petrizi applied the criticism of the Peripatetic doctrine of principles in critical discussion of the Aristotelian concept of causes. In the realm of theoretical philosophy, the system of four causes proved to be inadequate and flawed. In this context, it seemed to Petrizi to be necessary to work out a new conception of causality. He studied Proclus’s philosophy on the basis of Greek sources, and regarded it as appropriate to his research goals to adopt t"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Joane Petrizi",
+ "authors": [
+  "Iremadze, Tengiz"
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "slug": "causal-explanation-science",
+ "letter": "c",
+ "state": "ok",
+ "n_html": 85,
+ "n_md": 96,
+ "n_pairs": 37,
+ "n_flags": 0,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.9997870981477539,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989462592202318,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987900298459305,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979064898813678,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981981981981982,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997867803837953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998059280169372,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944664031620554,
+   "n_h": 4,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968847352024922,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969040247678018,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998221906116643,
+   "n_h": 8,
+   "n_m": 10,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "dl",
+    "p",
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997268505872713,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996155324875048,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991481075818425,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995114802149487,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996651038178165,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999163739755812,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995185363505056,
+   "n_h": 3,
+   "n_m": 6,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99905769029421,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999247554552295,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.973404255319149,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "科学解释的因果方法 causal approaches to (Lauren Ross and James Woodward)",
+  "zh_h1": "科学解释的因果方法 causal approaches to (Lauren Ross and James Woodward)",
+  "yuanwen_h1": "Causal Approaches to Scientific Explanation",
+  "html_title": "Causal Approaches to Scientific Explanation",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 24,
+  "p→∅": 39,
+  "dl→∅": 7,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 6,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(p→p)": 6,
+  "merged×4(dl+p+p+dl→p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 2,
+  "merged×8(p+p+p+dl+p+dl+p+p→p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×3(dl+p+p→p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Although philosophical discussion has often focused on the role of constitutive relations in mechanisms and how best to understand these, it is, as noted above, also common to think of mechanism as consisting of factors or components that stand in causal (“etiological”) relations to one another with accompanying characteristic spatial, temporal or geometrical organization. This feature of mechanism and mechanistic explanation is emphasized by Illari and Williamson (2010, 2012) and Woodward (2002",
+   "md_text": "Although philosophical discussion has often focused on the role of constitutive relations in mechanisms and how best to understand these, it is, as noted above, also common to think of mechanism as consisting of factors or components that stand in causal (“etiological”) relations to one another with accompanying characteristic spatial, temporal or geometrical organization. This feature of mechanism and mechanistic explanation is emphasized by Illari and Williamson (2010, 2012) and Woodward (2002"
+  },
+  {
+   "i": 57,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Interventionist accounts, at least in the form described by Woodward (2003), Hitchcock and Woodward (2003) offer a somewhat different treatment of explanatory depth. Some candidate explanations will answer no w-questions and thus fail to be explanatory at all. Above this threshold explanations may differ in degree of goodness or depth, depending on the extent to which they provide more rather than less information relevant to answering w-questions about the explanandum – and thus more informatio",
+   "md_text": "Interventionist accounts, at least in the form described by Woodward (2003), Hitchcock and Woodward (2003) offer a somewhat different treatment of explanatory depth. Some candidate explanations will answer no w-questions and thus fail to be explanatory at all. Above this threshold explanations may differ in degree of goodness or depth, depending on the extent to which they provide more rather than less information relevant to answering w-questions about the explanandum – and thus more informatio"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Causal Approaches to Scientific Explanation",
+ "authors": [
+  "Ross, Lauren",
+  "Woodward, James"
+ ]
+}

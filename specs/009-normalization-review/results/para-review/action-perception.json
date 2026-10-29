@@ -1,0 +1,668 @@
+{
+ "slug": "action-perception",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 185,
+ "n_md": 202,
+ "n_pairs": 108,
+ "n_flags": 6,
+ "n_merged": 41,
+ "merged": [
+  {
+   "ratio": 0.9984273638686849,
+   "n_h": 1,
+   "n_m": 7,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995981784087865,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979381443298969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993002099370188,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956879655037241,
+   "n_h": 3,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988700564971752,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998116169544741,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9973409695234199,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958349110185536,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983416252072969,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964608729846638,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989607150280607,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9992354740061162,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988839285714286,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983197621817241,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988146977479258,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993734335839599,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991142604074402,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989410518884575,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992181391712275,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999034749034749,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973521624007061,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998868778280543,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986962190352021,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972265023112481,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981308411214953,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986991265564021,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982704946385333,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989506820566632,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987515605493134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989550679205852,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991836734693877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9970760233918129,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992831541218637,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986091794158554,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995289684408856,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989195029713668,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986979166666666,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9615384615384616,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "基于行动的知觉理论 action-based theories of perception (Robert Briscoe, Rick Grush, and Alison Springle)",
+  "zh_h1": "基于行动的知觉理论 action-based theories of perception (Robert Briscoe, Rick Grush, and Alison Springle)",
+  "yuanwen_h1": "Action-based Theories of Perception",
+  "html_title": "Action-based Theories of Perception",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 7,
+  "p→∅": 66,
+  "h3→h3": 9,
+  "p→p": 51,
+  "blockquote→blockquote": 28,
+  "dl→∅": 1,
+  "blockquote→∅": 8,
+  "figure→p": 3,
+  "h4→h4": 8,
+  "ol→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+blockquote+p+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 9,
+  "merged×1(p→p)": 18,
+  "merged×3(p+dl+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×6(blockquote+p+p+p+p+blockquote→blockquote+p+p+p+p+blockquote)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 3,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×1(blockquote→blockquote)": 2
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 65,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 1:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 66,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Three parts to the image, the first, labeled 'a.', has at the top an apple and at the bottom an eyeball looking straight up with an arrow going from the bottom of the eyeball to the apple; the arrow is labeled EC=0 and the eyeball, A=0. The second, labeled 'b.', is like the first except the eyeball is looking slightly clockwise of straight up and the arrow follows the line of sight; a second arrow goes from the apple to the bottom of the eyeball; the eyeball is labeled A=-10; the first arrow, EC=+10 (there two equations line up horizontally with A=0 and EC=0 respectively from the first part). The third part is not labeled and consists of a circle divided into quarters with a '+' in the top quarter and a '-' in the bottom quarter. The equation 'EC=+10' in part b has an arrow going from i"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 80,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 81,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[a line drawing of a man standing and looking up at about a 45 degree angle. Above him is a horizontal line labeled at the left end 'A' and right end 'B'. A second line goes from the 'B' end at about a -60 degree angle to point approximately horizontal to the man's neck that point is labeled 'D'. To the right of D is the dotted line drawing of a horizontal man, head closest to D; feet labeled 'E'. Fromt the first man's eyes is a short line, labeled 'C', going up at about a 45 degree angle approximately in the direction of the point labeled 'B'.]](../assets/action-perception/fig2.png)"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 159,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 3:"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 160,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "![[Two columns of 4 dots each, each pair of dots on the same horizontal. The left column has the words 'Fixation Point' at the top and a blue arrow pointing from those words to the top of the column. The right column has the words 'Saccade Target' and a similar blue arrow. The top (or first) pair of dots has an arrow curving from the left dot to the right dot. The second pair as a 'x' to the left of the right dot and an arrow curving from the left dot to a point between the 'x' and the right dot. The third pair has a 'x' to the right of the right dot and an arrow curving from the left dot to a point between the right dot and the 'x'. The fourth pair as a 'x' to the left of the left dot and an arrow curving from the left dot to the right dot.]](../assets/action-perception/fig3.png)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 170,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "What this does is encode incoming information in a way that renders it ready to be of use in guiding behavior, since the equivalence classes are precisely those for which a given kind of motor program is appropriate. The next part corresponds to how this information, so represented, can be used to produce the details of such a motor program. For every type of action in a creature’s behavioral repertoire (grasp, approach, avoid, foveate, bite, etc.) its motor areas have a set of linear coefficien",
+   "md_text": "What this does is encode incoming information in a way that renders it ready to be of use in guiding behavior, since the equivalence classes are precisely those for which a given kind of motor program is appropriate. The next part corresponds to how this information, so represented, can be used to produce the details of such a motor program. For every type of action in a creature’s behavioral repertoire (grasp, approach, avoid, foveate, bite, etc.) its motor areas have a set of linear coefficien"
+  },
+  {
+   "i": 54,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1: (a) When the eye is stationary, both efference copy (EC) and afference produced by displacement of the retinal image (A) are absent. (b) Turning the eye 10° to the right results in a corresponding shift of the retinal image. Since the magnitude of the eye movement specified by EC and the magnitude of retinal image displacement cancel out, no movement in the world or “exafference” (EA) is registered.",
+   "md_text": "Figure 1: (a) When the eye is stationary, both efference copy (EC) and afference produced by displacement of the retinal image (A) are absent. (b) Turning the eye 10° to the right results in a corresponding shift of the retinal image. Since the magnitude of the eye movement specified by EC and the magnitude of retinal image displacement cancel out, no movement in the world or “exafference” (EA) is registered."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Action-based Theories of Perception",
+ "authors": [
+  "Briscoe, Robert",
+  "Grush, Rick",
+  "Springle, Alison"
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "slug": "frame-problem",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 46,
+ "n_pairs": 21,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 0.9994683678894205,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9813403416557162,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "ol"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9988925802879292,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986194201564658,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986033519553073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988518943742825,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989642672190575,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994029850746269,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981034949878081,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986357435197817,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "框架问题 frame problem (Murray Shanahan)",
+  "zh_h1": "框架问题 frame problem (Murray Shanahan)",
+  "yuanwen_h1": "The Frame Problem",
+  "html_title": "The Frame Problem",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 22,
+  "ol→∅": 2,
+  "p→p": 10,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 6,
+  "merged×5(p+ol+p+p+ol→p+ol+p+p+ol)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 29,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "According to Fodor, this metaphysical justification is unwarranted. To begin with, some actions change many, many things. Those who affirm that painting an object has little or no effect on most properties of most of the objects in the room are likely to concede that detonating a bomb actually does affect most of those properties. But a deeper difficulty presents itself when we ask what is meant by “most properties”. What predicates should be included in our ontology for any of these claims abou",
+   "md_text": "According to Fodor, this metaphysical justification is unwarranted. To begin with, some actions change many, many things. Those who affirm that painting an object has little or no effect on most properties of most of the objects in the room are likely to concede that detonating a bomb actually does affect most of those properties. But a deeper difficulty presents itself when we ask what is meant by “most properties”. What predicates should be included in our ontology for any of these claims abou"
+  },
+  {
+   "i": 43,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Articles on the Frame Problem in Psycoloquy, a refereed electronic journal sponsered by the American Psychological Association.",
+   "md_text": "Articles on the Frame Problem in Psycoloquy, a refereed electronic journal sponsered by the American Psychological Association."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Frame Problem",
+ "authors": [
+  "Shanahan, Murray"
+ ]
+}

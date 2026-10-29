@@ -1,0 +1,254 @@
+{
+ "slug": "semiotics-medieval",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 72,
+ "n_md": 72,
+ "n_pairs": 19,
+ "n_flags": 0,
+ "n_merged": 10,
+ "merged": [
+  {
+   "ratio": 0.9959091838821845,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930027380590204,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9923256132657257,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9925729442970822,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982158786797503,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951470733881351,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "ul",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9935820733166539,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952121871599565,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9930613961312027,
+   "n_h": 20,
+   "n_m": 20,
+   "shape_h": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中世纪符号学 medieval (Stephan Meier-Oeser)",
+  "zh_h1": "中世纪符号学 medieval (Stephan Meier-Oeser)",
+  "yuanwen_h1": "Medieval Semiotics",
+  "html_title": "Medieval Semiotics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 44,
+  "p→p": 6,
+  "h3→h3": 4,
+  "h2→∅": 4,
+  "blockquote→∅": 4,
+  "ul→∅": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×8(p+p+h2+p+p+p+h2+p→p+p+h2+p+p+p+h2+p)": 1,
+  "merged×1(p→p)": 2,
+  "merged×6(blockquote+p+p+ul+p+p→blockquote+p+p+ul+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×20(p+p+h2+p+p+p+blockquote+p+h2+p+p+p+p+p+p+p+p+p+p+p→p+p+h2+p+p+p+blockquote+p+h2+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 34,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "It has to be noticed that in Bacon's, as well as in any other medieval sign-typology, the classes of signs — even though this is not explicitly stated by the authors themselves — distinguish modes of signifying rather than signs in the sense of sign-vehicles. Therefore, one and the same thing, fact, or event may, in different respects, fall under various and even opposite sign-classes. This fact is especially important for the full account of sign-processes in which spoken language is involved.",
+   "md_text": "It has to be noticed that in Bacon's, as well as in any other medieval sign-typology, the classes of signs — even though this is not explicitly stated by the authors themselves — distinguish modes of signifying rather than signs in the sense of sign-vehicles. Therefore, one and the same thing, fact, or event may, in different respects, fall under various and even opposite sign-classes. This fact is especially important for the full account of sign-processes in which spoken language is involved."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Medieval Semiotics",
+ "authors": [
+  "Meier-Oeser, Stephan"
+ ]
+}

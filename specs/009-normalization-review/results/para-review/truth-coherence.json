@@ -1,0 +1,132 @@
+{
+ "slug": "truth-coherence",
+ "letter": "t",
+ "state": "ok",
+ "n_html": 54,
+ "n_md": 54,
+ "n_pairs": 46,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.99860529986053,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988304093567252,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988276670574443,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990863407948835,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999322951929587,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9915254237288136,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "真理融贯论 coherence theory of (James O. Young)",
+  "zh_h1": "真理融贯论 coherence theory of (James O. Young)",
+  "yuanwen_h1": "The Coherence Theory of Truth",
+  "html_title": "The Coherence Theory of Truth",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 6,
+  "p→p": 30,
+  "h3→h3": 5,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(p→p)": 4,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "A coherence theory of truth states that any proposition is true if and only if it coheres with some specified set of propositions. The coherence theory differs from its principal competitor, the correspondence theory of truth, in two essential respects. The competing theories give conflicting accounts of the relation that propositions bear to their truth conditions. (In this article, ‘proposition’ is not used in any technical sense. It simply refers to the bearers of truth values, whatever they ",
+   "md_text": "A coherence theory of truth states that any proposition is true if and only if it coheres with some specified set of propositions. The coherence theory differs from its principal competitor, the correspondence theory of truth, in two essential respects. The competing theories give conflicting accounts of the relation that propositions bear to their truth conditions. (In this article, ‘proposition’ is not used in any technical sense. It simply refers to the bearers of truth values, whatever they "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Coherence Theory of Truth",
+ "authors": [
+  "Young, James O."
+ ]
+}

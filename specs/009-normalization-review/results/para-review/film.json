@@ -1,0 +1,184 @@
+{
+ "slug": "film",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 82,
+ "n_md": 83,
+ "n_pairs": 69,
+ "n_flags": 0,
+ "n_merged": 11,
+ "merged": [
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993544222078761,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988674971687429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988876529477196,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991850040749797,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990319457889641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996253278381416,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988662131519275,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989888776541962,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990338164251208,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "电影哲学 film, philosophy of (Thomas Wartenberg)",
+  "zh_h1": "电影哲学 film, philosophy of (Thomas Wartenberg)",
+  "yuanwen_h1": "Philosophy of Film",
+  "html_title": "Philosophy of Film",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 56,
+  "p→∅": 11,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 53,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "One central issue that has been a subject of controversy among philosophers is unreliable narration. There are films in which the audience comes to see that the character narrator of the film has a limited or misguided view of the film world. One example is Max Ophuls’ Letter from an Unknown Woman (1948), a film that has been discussed by a number of different philosophers. The majority of the film is a voice-over narration by Lisa Berndle, the unknown woman of the film’s title, who recites the ",
+   "md_text": "One central issue that has been a subject of controversy among philosophers is unreliable narration. There are films in which the audience comes to see that the character narrator of the film has a limited or misguided view of the film world. One example is Max Ophuls’ Letter from an Unknown Woman (1948), a film that has been discussed by a number of different philosophers. The majority of the film is a voice-over narration by Lisa Berndle, the unknown woman of the film’s title, who recites the "
+  },
+  {
+   "i": 79,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Film-Philosophy: A philosophical review of film studies and world cinema",
+   "md_text": "Film-Philosophy: A philosophical review of film studies and world cinema"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Philosophy of Film",
+ "authors": [
+  "Wartenberg, Thomas"
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "slug": "bohr-correspondence",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 142,
+ "n_md": 146,
+ "n_pairs": 92,
+ "n_flags": 1,
+ "n_merged": 33,
+ "merged": [
+  {
+   "ratio": 0.9994618834080717,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981549815498155,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990900818926297,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995385325334564,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970769730431959,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965928449744463,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99302649930265,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.992503748125937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9914346895074947,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9761904761904762,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995285242809995,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961685823754789,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992492492492493,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987760097919217,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975845410628019,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965601965601966,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9985443959243085,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998776758409786,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996524761077324,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9931766489764974,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955156950672646,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994478188845941,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984313725490196,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991251093613298,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993429697766097,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9978821037769149,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997134670487106,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9988867241859171,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985315712187959,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9969040247678018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9967741935483871,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9808612440191388,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "玻尔的对应原理 correspondence principle (Alisa Bokulich and Peter Bokulich)",
+  "zh_h1": "玻尔的对应原理 correspondence principle (Alisa Bokulich and Peter Bokulich)",
+  "yuanwen_h1": "Bohr’s Correspondence Principle",
+  "html_title": "Bohr’s Correspondence Principle",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 50,
+  "p→∅": 38,
+  "p→mathblock": 6,
+  "blockquote→blockquote": 20,
+  "figure→p": 2,
+  "blockquote→∅": 10,
+  "h3→h3": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×1(p→p)": 14,
+  "merged×2(p+p→p+p)": 3,
+  "merged×2(p+p→p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 5,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 54,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Figure 2."
+  }
+ ],
+ "spot": [
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Bohr summarized his quantum theory by means of two assumptions or postulates. According to the first postulate, electrons cannot travel in any path around the nucleus; rather, atomic systems can only exist in one of a series of discrete “stationary states,” in which the electron is in a particular allowed stable periodic orbit and is not emitting radiation. Intuitively, these stationary states can be thought of as a series of concentric circular orbits around the nucleus, along which the electro",
+   "md_text": "Bohr summarized his quantum theory by means of two assumptions or postulates. According to the first postulate, electrons cannot travel in any path around the nucleus; rather, atomic systems can only exist in one of a series of discrete “stationary states,” in which the electron is in a particular allowed stable periodic orbit and is not emitting radiation. Intuitively, these stationary states can be thought of as a series of concentric circular orbits around the nucleus, along which the electro"
+  },
+  {
+   "i": 6,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Bohr summarized his quantum theory by means of two assumptions or postulates. According to the first postulate, electrons cannot travel in any path around the nucleus; rather, atomic systems can only exist in one of a series of discrete “stationary states,” in which the electron is in a particular allowed stable periodic orbit and is not emitting radiation. Intuitively, these stationary states can be thought of as a series of concentric circular orbits around the nucleus, along which the electro",
+   "md_text": "Bohr summarized his quantum theory by means of two assumptions or postulates. According to the first postulate, electrons cannot travel in any path around the nucleus; rather, atomic systems can only exist in one of a series of discrete “stationary states,” in which the electron is in a particular allowed stable periodic orbit and is not emitting radiation. Intuitively, these stationary states can be thought of as a series of concentric circular orbits around the nucleus, along which the electro"
+  },
+  {
+   "i": 30,
+   "shape_h": "figure",
+   "shape_m": "p",
+   "html_text": "Figure 1. A classical periodic orbit, ⟦M⟧ , can be represented as a Fourier sum of “harmonics” which are integer multiples of the fundamental frequency, ⟦M⟧ , representing the periodicity of the motion. According to the selection rule interpretation, the correspondence principle is Bohr’s insight that each allowed transition between stationary states corresponds to one harmonic component of the classical motion. (Based on Fig. 3 of Fedak and Prentis 2002)",
+   "md_text": "Figure 1. A classical periodic orbit, ⟦M⟧ , can be represented as a Fourier sum of “harmonics” which are integer multiples of the fundamental frequency, ⟦M⟧ , representing the periodicity of the motion. According to the selection rule interpretation, the correspondence principle is Bohr’s insight that each allowed transition between stationary states corresponds to one harmonic component of the classical motion. (Based on Fig. 3 of Fedak and Prentis 2002)"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Bohr’s Correspondence Principle",
+ "authors": [
+  "Bokulich, Alisa",
+  "Bokulich, Peter"
+ ]
+}

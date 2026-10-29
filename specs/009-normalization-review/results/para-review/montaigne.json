@@ -1,0 +1,227 @@
+{
+ "slug": "montaigne",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 47,
+ "n_md": 47,
+ "n_pairs": 16,
+ "n_flags": 0,
+ "n_merged": 12,
+ "merged": [
+  {
+   "ratio": 0.9838396897220426,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "pubinfo",
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987413467589679,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959128065395095,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952754417461968,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958269578522743,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9949019002008342,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995769316410599,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952514148181877,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973856209150327,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9947089947089947,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9985611510791367,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "米歇尔·德·蒙田 Montaigne, Michel de (Marc Foglia and Emiliano Ferrari)",
+  "zh_h1": "米歇尔·德·蒙田 Montaigne, Michel de (Marc Foglia and Emiliano Ferrari)",
+  "yuanwen_h1": "Michel de Montaigne",
+  "html_title": "Michel de Montaigne",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "p→∅": 26,
+  "pubinfo→∅": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 3,
+  "blockquote→∅": 1,
+  "h3→h3": 2,
+  "ul→∅": 2,
+  "merged×3(p+pubinfo+preamble→p+blockquote+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×1(p→p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 2
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 36,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "If being a philosopher means being insensitive to human frailties and to the evils or to the pleasures which befall us, then Montaigne is not a philosopher. If it means using a “jargon”, and being able to enter the world of scholars, then Montaigne is not one either. Yet, if being a philosopher is being able to judge properly in any circumstances of life, then the Essays are the exemplary testimony of an author who wanted to be a philosopher for good. Montaigne is putting his judgment to trial o",
+   "md_text": "If being a philosopher means being insensitive to human frailties and to the evils or to the pleasures which befall us, then Montaigne is not a philosopher. If it means using a “jargon”, and being able to enter the world of scholars, then Montaigne is not one either. Yet, if being a philosopher is being able to judge properly in any circumstances of life, then the Essays are the exemplary testimony of an author who wanted to be a philosopher for good. Montaigne is putting his judgment to trial o"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Michel de Montaigne",
+ "authors": [
+  "Foglia, Marc",
+  "Ferrari, Emiliano"
+ ]
+}

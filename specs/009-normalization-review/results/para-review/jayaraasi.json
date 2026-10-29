@@ -1,0 +1,192 @@
+{
+ "slug": "jayaraasi",
+ "letter": "j",
+ "state": "flagged",
+ "n_html": 68,
+ "n_md": 68,
+ "n_pairs": 54,
+ "n_flags": 4,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.999687792694349,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991438356164384,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970193740685543,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989949748743718,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997289972899729,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999562363238512,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993898718730934,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998113919275745,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "伽耶惹悉·巴札 Jayarāśi (Piotr Balcerowicz)",
+  "zh_h1": "伽耶惹悉·巴札 Jayarāśi (Piotr Balcerowicz)",
+  "yuanwen_h1": "Jayarāśi",
+  "html_title": "Jayarāśi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 5,
+  "h3→h3": 7,
+  "p→p": 40,
+  "p→∅": 8,
+  "blockquote→∅": 6,
+  "merged×1(p→p)": 6,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×2(p+p→p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 36,
+   "j": 36,
+   "ratio": 0.9326923076923077,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "(1) T → C ⟦S⟧ ∧ C ⟦S⟧ ∧ C ⟦S⟧ ∧ … ∧ C ⟦S⟧ (2) C ⟦S⟧ = 0 C ⟦S⟧ = 0 C ⟦S⟧ = 0 … C ⟦S⟧ = 0 (3) T = 0",
+   "md_text": "(1) T → C ⟦S⟧ ∧ C ⟦S⟧ ∧ C ⟦S⟧ ∧ … ∧ C ⟦S⟧ (2) |C ⟦S⟧ | = 0 |C ⟦S⟧ | = 0 |C ⟦S⟧ | = 0 … |C ⟦S⟧ | = 0 (3) |T| = 0"
+  },
+  {
+   "kind": "replace",
+   "i": 39,
+   "j": 39,
+   "ratio": 0.8372093023255814,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "[(~ p → q ) ∧ ~ q ] → p ,",
+   "md_text": "[(~p→q) ∧ ~q] → p,"
+  },
+  {
+   "kind": "replace",
+   "i": 41,
+   "j": 41,
+   "ratio": 0.36,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "[(~ p → q ) ∧ (~ p →~ q )] → p , [~ p → ( q ∧~ q )] → p , or [~ p → ( q ≡~ q )] → p ,",
+   "md_text": "[(~p→q) ∧ (~p→~q)] → p, [~p → (q∧~q)] → p, or [~p → (q≡~q)] → p ,"
+  },
+  {
+   "kind": "replace",
+   "i": 43,
+   "j": 43,
+   "ratio": 0.8426395939086294,
+   "shape_h": "blockquote",
+   "shape_m": "blockquote",
+   "html_text": "[( p → q ) ∧ ~ q ] → ~ p , [( p → q ) ∧ ( p →~ q )] → ~ p , [ p → ( q ∧~ q )] → ~ p , or [ p → ( q ≡~ q )] → ~ p ,",
+   "md_text": "[(p→q) ∧ ~q] → ~p, [(p→q) ∧ (p→~q)] → ~p, [p → (q∧~q)] → ~p, or [p → (q≡~q)] → ~p ,"
+  }
+ ],
+ "spot": [
+  {
+   "i": 5,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In fact, that dating of the Tattvôpaplava-siṁha could be slightly modified to perhaps 800–840. I would place Jayarāśi Bhaṭṭa after the Digambara Jaina philosopher Akalaṅka Bhaṭṭa (c. 720–780) and before Vidyānanda Pātrakesarisvāmin (c. 850), a philosopher in the same tradition who commented on Akalaṅka. As Franco (1994: XI) himself notices, the Buddhist Kamalaśīla (c. 740–795) nowhere refers to Jayarāśi in his encyclopedic commentary of the Tattva-saṅgraha. Further, we find no mention of Jayarāś",
+   "md_text": "In fact, that dating of the Tattvôpaplava-siṁha could be slightly modified to perhaps 800–840. I would place Jayarāśi Bhaṭṭa after the Digambara Jaina philosopher Akalaṅka Bhaṭṭa (c. 720–780) and before Vidyānanda Pātrakesarisvāmin (c. 850), a philosopher in the same tradition who commented on Akalaṅka. As Franco (1994: XI) himself notices, the Buddhist Kamalaśīla (c. 740–795) nowhere refers to Jayarāśi in his encyclopedic commentary of the Tattva-saṅgraha. Further, we find no mention of Jayarāś"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Jayarāśi",
+ "authors": [
+  "Balcerowicz, Piotr"
+ ]
+}

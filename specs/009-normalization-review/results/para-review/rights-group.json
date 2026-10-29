@@ -1,0 +1,274 @@
+{
+ "slug": "rights-group",
+ "letter": "r",
+ "state": "flagged",
+ "n_html": 89,
+ "n_md": 88,
+ "n_pairs": 60,
+ "n_flags": 1,
+ "n_merged": 17,
+ "merged": [
+  {
+   "ratio": 0.999619916381604,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993523316062176,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995194617972128,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996465182043125,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995672868887927,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989373007438895,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983056590986107,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995294117647059,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994972347913524,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987365761212887,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987063389391979,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994013967409379,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988674971687429,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998769987699877,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993052339045855,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9935760171306209,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "群体权利 group (Peter Jones)",
+  "zh_h1": "群体权利 group (Peter Jones)",
+  "yuanwen_h1": "Group Rights",
+  "html_title": "Group Rights",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 12,
+  "p→p": 45,
+  "p→∅": 26,
+  "blockquote→blockquote": 1,
+  "ul→∅": 2,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 10,
+  "merged×2(p+p→p+p)": 3,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "delete",
+   "i": 82,
+   "j": null,
+   "ratio": null,
+   "shape_h": "ul",
+   "shape_m": null,
+   "html_text": "Beitz, Charles, 2009, The Idea of Human Rights , Oxford: Oxford University Press. Brett, Nathan, 1991, “Language Laws and Collective Rights”, Canadian Journal of Law and Jurisprudence , 4 (2): 347–360. Buchanan, Allen, 1993, “The Role of Collective Rights in the Theory of Indigenous People’s Rights”, Transnational Law and Contemporary Problems , 3 (1): 89–108. –––, 1994, “Liberalism and Group Rights”, in In Harm’s Way: Essays in Honor of Joel Feinberg , Jules L Coleman and Allen Buchanan (eds.), Cambridge: Cambridge University Press, pp. 1–15. –––, 2013, The Heart of Human Rights , Oxford: Oxford University Press. Casals, Neus Torbisco, 2006, Group Rights as Human Rights: a Liberal Approach to Multiculturalism , Dordrecht: Kluwer. Caste, Nicholas J., 1992, “Corporations and Rights”, Journa",
+   "md_text": null
+  }
+ ],
+ "spot": [
+  {
+   "i": 11,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Thus Peter French (1984, 5–18) distinguishes between “aggregate collectivities” and “conglomerate collectivities”. An aggregate collectivity is a mere collection of individuals such as a crowd or the people standing at a bus stop or a statistical category such as middle-income earners. If we were to ascribe either moral responsibility or moral rights to an aggregate, those would be reducible, without remainder, to the responsibilities and rights of the several individuals who made up the aggrega",
+   "md_text": "Thus Peter French (1984, 5–18) distinguishes between “aggregate collectivities” and “conglomerate collectivities”. An aggregate collectivity is a mere collection of individuals such as a crowd or the people standing at a bus stop or a statistical category such as middle-income earners. If we were to ascribe either moral responsibility or moral rights to an aggregate, those would be reducible, without remainder, to the responsibilities and rights of the several individuals who made up the aggrega"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Group Rights",
+ "authors": [
+  "Jones, Peter"
+ ]
+}

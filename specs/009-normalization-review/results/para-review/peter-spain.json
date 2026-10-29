@@ -1,0 +1,218 @@
+{
+ "slug": "peter-spain",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 56,
+ "n_md": 56,
+ "n_pairs": 15,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9992295839753467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972014925373134,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984674329501916,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997641317608784,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983629265835537,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964912280701754,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988349514563106,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983001081749343,
+   "n_h": 15,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "西班牙的彼得（彼得·希斯帕努斯）的逻辑学 Peter of Spain [= Petrus Hispanus] (Joke Spruyt)",
+  "zh_h1": "西班牙的彼得（彼得·希斯帕努斯）的逻辑学 Peter of Spain [= Petrus Hispanus] (Joke Spruyt)",
+  "yuanwen_h1": "The Logic of Peter of Spain",
+  "html_title": "The Logic of Peter of Spain",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 8,
+  "p→∅": 39,
+  "p→p": 5,
+  "ol→∅": 1,
+  "blockquote→∅": 1,
+  "merged×1(p→p)": 2,
+  "merged×5(ol+p+p+p+p→ol+p+p+p+p)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×7(p+p+p+p+p+p+p→p+p+p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×15(p+p+p+p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 27,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Like the treatises of the Tractatus kind, the Syncategoreumata were developed from the (twelfth-century) theories on fallacies, as well as from grammatical doctrines (from the same period). From the second half of the twelfth century, there was a growing interest in the linguistic elements that are considered to lie at the basis of ambiguity and fallacious reasoning. Hence the increase of treatises presenting a systematic account of these terms. The connection between these treatises and Priscia",
+   "md_text": "Like the treatises of the Tractatus kind, the Syncategoreumata were developed from the (twelfth-century) theories on fallacies, as well as from grammatical doctrines (from the same period). From the second half of the twelfth century, there was a growing interest in the linguistic elements that are considered to lie at the basis of ambiguity and fallacious reasoning. Hence the increase of treatises presenting a systematic account of these terms. The connection between these treatises and Priscia"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "The Logic of Peter of Spain",
+ "authors": [
+  "Spruyt, Joke"
+ ]
+}

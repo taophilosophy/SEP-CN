@@ -1,0 +1,310 @@
+{
+ "slug": "hilbert-program",
+ "letter": "h",
+ "state": "ok",
+ "n_html": 69,
+ "n_md": 69,
+ "n_pairs": 31,
+ "n_flags": 0,
+ "n_merged": 18,
+ "merged": [
+  {
+   "ratio": 0.9993098688750862,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976846979583246,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9965601965601966,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998062015503876,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997289972899729,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952738393105366,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998086327875824,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9966187658495351,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983759043260003,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978833942659227,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982566248256625,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984608420099592,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969688619454395,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9979482970865818,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977536503182328,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997808619430241,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983402489626556,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "希尔伯特计划 program in the foundations of mathematics (Richard Zach)",
+  "zh_h1": "希尔伯特计划 program in the foundations of mathematics (Richard Zach)",
+  "yuanwen_h1": "Hilbert’s Program",
+  "html_title": "Hilbert’s Program",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 7,
+  "p→∅": 32,
+  "p→p": 13,
+  "blockquote→∅": 5,
+  "ol→ol": 1,
+  "blockquote→blockquote": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+p→p+p)": 8,
+  "merged×1(p→p)": 3,
+  "merged×2(blockquote+p→blockquote+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×5(p+blockquote+p+p+p→p+blockquote+p+p+p)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The intuitive-contentual operations with signs forms the basis of Hilbert’s metamathematics. Just as contentual number theory operates with sequences of strokes, so metamathematics operates with sequences of symbols (formulas, proofs). Formulas and proofs can be syntactically manipulated, and the properties and relationships of formulas and proofs are similarly based in a logic-free intuitive capacity which guarantees certainty of knowledge about formulas and proofs arrived at by such syntactic ",
+   "md_text": "The intuitive-contentual operations with signs forms the basis of Hilbert’s metamathematics. Just as contentual number theory operates with sequences of strokes, so metamathematics operates with sequences of symbols (formulas, proofs). Formulas and proofs can be syntactically manipulated, and the properties and relationships of formulas and proofs are similarly based in a logic-free intuitive capacity which guarantees certainty of knowledge about formulas and proofs arrived at by such syntactic "
+  },
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The intuitive-contentual operations with signs forms the basis of Hilbert’s metamathematics. Just as contentual number theory operates with sequences of strokes, so metamathematics operates with sequences of symbols (formulas, proofs). Formulas and proofs can be syntactically manipulated, and the properties and relationships of formulas and proofs are similarly based in a logic-free intuitive capacity which guarantees certainty of knowledge about formulas and proofs arrived at by such syntactic ",
+   "md_text": "The intuitive-contentual operations with signs forms the basis of Hilbert’s metamathematics. Just as contentual number theory operates with sequences of strokes, so metamathematics operates with sequences of symbols (formulas, proofs). Formulas and proofs can be syntactically manipulated, and the properties and relationships of formulas and proofs are similarly based in a logic-free intuitive capacity which guarantees certainty of knowledge about formulas and proofs arrived at by such syntactic "
+  },
+  {
+   "i": 22,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "What are the objects of finitary reasoning? What are the finitarily meaningful propositions? What are the finitarily acceptable methods of construction and reasoning?",
+   "md_text": "What are the objects of finitary reasoning? What are the finitarily meaningful propositions? What are the finitarily acceptable methods of construction and reasoning?"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Hilbert’s Program",
+ "authors": [
+  "Zach, Richard"
+ ]
+}

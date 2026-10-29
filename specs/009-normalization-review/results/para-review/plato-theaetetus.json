@@ -1,0 +1,714 @@
+{
+ "slug": "plato-theaetetus",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 191,
+ "n_md": 198,
+ "n_pairs": 85,
+ "n_flags": 2,
+ "n_merged": 44,
+ "merged": [
+  {
+   "ratio": 0.9994242947610823,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978841145833334,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985512972474647,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9933396764985728,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "dl",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9558823529411765,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968109339407745,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969040247678018,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985409979573971,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983117613956106,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946666666666667,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "ol",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950576606260296,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987803525889788,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "h2"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.99860529986053,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "dl",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9538461538461539,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9874152952565344,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969275786393562,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974811083123426,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961089494163424,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994252873563219,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987146529562982,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975615908517615,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979879275653923,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "h3"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.9979412315178738,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955525145398563,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99830220713073,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979674796747967,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977515458122541,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990521327014218,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975024975024975,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "h3",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h3",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986332574031891,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974248927038627,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995742869306088,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986428130783467,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9856459330143541,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "h2",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975822050290135,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998753339269813,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982949701619779,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971014492753624,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996415770609319,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979633401221996,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "h3"
+   ],
+   "shape_m": [
+    "p",
+    "h3"
+   ]
+  },
+  {
+   "ratio": 0.9967320261437909,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974326059050064,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998459898116337,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "在《泰阿泰德篇》中柏拉图的认识论 on knowledge in the Theaetetus (Sophie-Grace Chappell and Francesco Verde)",
+  "zh_h1": "在《泰阿泰德篇》中柏拉图的认识论 on knowledge in the Theaetetus (Sophie-Grace Chappell and Francesco Verde)",
+  "yuanwen_h1": "Plato on Knowledge in the *Theaetetus*",
+  "html_title": "Plato on Knowledge in the Theaetetus",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 89,
+  "p→p": 60,
+  "dl→∅": 7,
+  "ol→∅": 1,
+  "h2→∅": 3,
+  "h3→h3": 13,
+  "ol→ol": 1,
+  "h3→∅": 4,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×1(p→p)": 12,
+  "merged×2(dl+p→p+p+p)": 1,
+  "merged×1(dl→p+p)": 3,
+  "merged×2(p+p→p+p)": 8,
+  "merged×4(p+p+p+p→p+p+p+p)": 3,
+  "merged×2(ol+p→ol+p)": 1,
+  "merged×4(p+p+p+h2→p+p+p+h2)": 1,
+  "merged×3(dl+p+p→p+p+p+p)": 1,
+  "merged×4(dl+p+p+p→p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×3(p+p+h3→p+p+h3)": 1,
+  "merged×5(p+p+p+h2+p→p+p+p+h2+p)": 1,
+  "merged×4(h3+p+p+p→h3+p+p+p)": 1,
+  "merged×6(p+p+p+h3+p+p→p+p+p+h3+p+p)": 1,
+  "merged×2(h2+p→h2+p)": 1,
+  "merged×2(p+h3→p+h3)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 12,
+   "j": 12,
+   "ratio": 0.12903225806451613,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "( D1 ) “Knowledge is perception ( aisthêsis )” (151d–e).",
+   "md_text": "*(D1)*"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 13,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Knowledge is perception (aisthêsis)” (151d–e)."
+  }
+ ],
+ "spot": [
+  {
+   "i": 111,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Empiricists claim that perception, which in itself has no cognitive content, is the source of all beliefs, which essentially have cognitive content—which are by their very nature candidates for truth or falsity. So unless we can explain how beliefs can be true or false, we cannot explain how there can be beliefs at all. Hence Plato’s interest in the question of false belief. This is an important point that must be emphasized, given its somewhat paradoxical nature. Any opinion can be true or fals",
+   "md_text": "Empiricists claim that perception, which in itself has no cognitive content, is the source of all beliefs, which essentially have cognitive content—which are by their very nature candidates for truth or falsity. So unless we can explain how beliefs can be true or false, we cannot explain how there can be beliefs at all. Hence Plato’s interest in the question of false belief. This is an important point that must be emphasized, given its somewhat paradoxical nature. Any opinion can be true or fals"
+  },
+  {
+   "i": 71,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "A distinction between the claim that the objects of perception are in flux, and the claim that everything is in flux. A distinction between bare sensory awareness, and judgement on the basis of such awareness.",
+   "md_text": "A distinction between the claim that the objects of perception are in flux, and the claim that everything is in flux. A distinction between bare sensory awareness, and judgement on the basis of such awareness."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Plato on Knowledge in the Theaetetus",
+ "authors": [
+  "Chappell, Sophie-Grace",
+  "Verde, Francesco"
+ ]
+}

@@ -1,0 +1,366 @@
+{
+ "slug": "machiavelli",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 95,
+ "n_md": 96,
+ "n_pairs": 30,
+ "n_flags": 0,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.9998010741993236,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992449722012492,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998618402873722,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975757575757576,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990714948932219,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991469032588296,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99951992318771,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978445178905015,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "h2",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975100555449148,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.992,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998948254101809,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9987968533086534,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "blockquote",
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9976580796252927,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998019801980198,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9989467031809564,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982384028185555,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992169146436961,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9967141292442497,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "尼科洛·马基雅维利 Machiavelli, Niccolò (Cary Nederman)",
+  "zh_h1": "尼科洛·马基雅维利 Machiavelli, Niccolò (Cary Nederman)",
+  "yuanwen_h1": "Niccolò Machiavelli",
+  "html_title": "Niccolò Machiavelli",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→p": 17,
+  "p→∅": 45,
+  "h2→∅": 3,
+  "blockquote→∅": 15,
+  "blockquote→blockquote": 3,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×9(p+p+p+p+h2+p+p+p+blockquote→p+p+p+p+h2+p+p+p+blockquote)": 1,
+  "merged×5(h2+p+p+p+p→h2+p+p+p+p)": 1,
+  "merged×4(p+blockquote+p+p→p+blockquote+p+p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×4(p+h2+p+p→p+h2+p+p)": 1,
+  "merged×7(p+blockquote+p+p+blockquote+p+blockquote→p+blockquote+p+p+blockquote+p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 4,
+  "merged×7(blockquote+p+p+p+blockquote+p+blockquote→blockquote+p+p+p+blockquote+p+blockquote)": 1,
+  "merged×7(p+p+p+blockquote+p+p+blockquote→p+p+p+blockquote+p+p+blockquote)": 1,
+  "merged×3(p+p+blockquote→p+p+blockquote)": 1,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 14,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Machiavelli’s argument in The Prince is thus designed to demonstrate that politics can only properly be defined in terms of the effective employment of coercive power, what Yves Winter (2018) has termed “the orders of violence.” Authority as a right to command has no independent status. He substantiates this assertion by reference to the observable realities—historical and contemporary—of political affairs and public life as well as by arguments revealing the self-interested tendencies of all hu",
+   "md_text": "Machiavelli’s argument in The Prince is thus designed to demonstrate that politics can only properly be defined in terms of the effective employment of coercive power, what Yves Winter (2018) has termed “the orders of violence.” Authority as a right to command has no independent status. He substantiates this assertion by reference to the observable realities—historical and contemporary—of political affairs and public life as well as by arguments revealing the self-interested tendencies of all hu"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Niccolò Machiavelli",
+ "authors": [
+  "Nederman, Cary"
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "slug": "stebbing",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 71,
+ "n_md": 74,
+ "n_pairs": 52,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9990069513406157,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989526053940823,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987515605493134,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993192648059904,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999622783855149,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999213217938631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995680345572354,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9996507160321342,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990167158308751,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997194950911641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986541049798116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9980756895445798,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "苏珊·斯泰宾 Stebbing, Susan (Michael Beaney and Siobhan Chapman)",
+  "zh_h1": "苏珊·斯泰宾 Stebbing, Susan (Michael Beaney and Siobhan Chapman)",
+  "yuanwen_h1": "Susan Stebbing",
+  "html_title": "Susan Stebbing",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 10,
+  "p→p": 32,
+  "p→∅": 13,
+  "blockquote→blockquote": 6,
+  "ol→ol": 1,
+  "dl→∅": 3,
+  "p→mathblock": 1,
+  "blockquote→∅": 3,
+  "merged×1(p→p)": 9,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 3,
+  "merged×1(blockquote→blockquote)": 3
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 1,
+   "shape_h": "preamble",
+   "shape_m": "p",
+   "html_text": "Susan Stebbing was a leading figure in British philosophy between the First and Second World Wars. She made significant contributions to the development of the analytic tradition, both in establishing it institutionally and in showing how its ideas and techniques could be applied in a wide range of domains. Her early work focused on logic and during her lifetime she was celebrated chiefly for A Modern Introduction to Logic (1930), which offered an account of both traditional, Aristotelian logic ",
+   "md_text": "Susan Stebbing was a leading figure in British philosophy between the First and Second World Wars. She made significant contributions to the development of the analytic tradition, both in establishing it institutionally and in showing how its ideas and techniques could be applied in a wide range of domains. Her early work focused on logic and during her lifetime she was celebrated chiefly for A Modern Introduction to Logic (1930), which offered an account of both traditional, Aristotelian logic "
+  },
+  {
+   "i": 16,
+   "shape_h": "ol",
+   "shape_m": "ol",
+   "html_text": "If ⟦M⟧ [standing for any proposition] is to be analysed, then ⟦M⟧ must be understood. It follows that there is at least one expression which unambiguously expresses ⟦M⟧ . If ⟦M⟧ is to be analysed, then it is not always the case that ⟦M⟧ is known to be false, and it is sometimes the case that ⟦M⟧ is known to be true. Directional analysis is possible.",
+   "md_text": "If ⟦M⟧ [standing for any proposition] is to be analysed, then ⟦M⟧ must be understood. It follows that there is at least one expression which unambiguously expresses ⟦M⟧ . If ⟦M⟧ is to be analysed, then it is not always the case that ⟦M⟧ is known to be false, and it is sometimes the case that ⟦M⟧ is known to be true. Directional analysis is possible."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Susan Stebbing",
+ "authors": [
+  "Beaney, Michael",
+  "Chapman, Siobhan"
+ ]
+}

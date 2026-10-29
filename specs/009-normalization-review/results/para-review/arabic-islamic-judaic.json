@@ -1,0 +1,296 @@
+{
+ "slug": "arabic-islamic-judaic",
+ "letter": "a",
+ "state": "ok",
+ "n_html": 68,
+ "n_md": 69,
+ "n_pairs": 26,
+ "n_flags": 0,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9990224828934506,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.996011046333231,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971412235563178,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9952830188679245,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9958359037631092,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9942981009377504,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.995857497928749,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954265888661095,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972124590958672,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9951434878587196,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974372116863147,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954533297673175,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ul",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950769230769231,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9903826478412113,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.951048951048951,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "阿拉伯和伊斯兰哲学对犹太思想的影响 influence of Arabic and Islamic Philosophy on Judaic thought (Mauro Zonta and Charles Manekin)",
+  "zh_h1": "阿拉伯和伊斯兰哲学对犹太思想的影响 influence of Arabic and Islamic Philosophy on Judaic thought (Mauro Zonta and Charles Manekin)",
+  "yuanwen_h1": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+  "html_title": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 14,
+  "p→p": 8,
+  "p→∅": 38,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 2,
+  "ul→∅": 1,
+  "ul→ul": 1,
+  "h3→h3": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 7,
+  "merged×1(p→p)": 2,
+  "merged×4(blockquote+p+p+p→blockquote+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×5(ul+p+p+p+p→ul+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 3,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The traces of the ‘influence’ of al-Kindi (796-866) on Medieval Judaic thought appear to have been rather scanty, apart from some quotations and passages surely taken from his works, and from one of them in particular; in any case they appeared to have been substantially limited to the first period of it, when the influence of Neoplatonism (or, better, of the first Arab-Islamic Aristotelianism, where a key role was played by Plotinus and Proclus as interpreters of metaphysics) shows to have been",
+   "md_text": "The traces of the ‘influence’ of al-Kindi (796-866) on Medieval Judaic thought appear to have been rather scanty, apart from some quotations and passages surely taken from his works, and from one of them in particular; in any case they appeared to have been substantially limited to the first period of it, when the influence of Neoplatonism (or, better, of the first Arab-Islamic Aristotelianism, where a key role was played by Plotinus and Proclus as interpreters of metaphysics) shows to have been"
+  },
+  {
+   "i": 63,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Islamic Philosophy Online",
+   "md_text": "Islamic Philosophy Online"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+ "authors": [
+  "Zonta, Mauro",
+  "Manekin, Charles"
+ ]
+}

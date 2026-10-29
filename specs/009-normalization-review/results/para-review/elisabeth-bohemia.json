@@ -1,0 +1,159 @@
+{
+ "slug": "elisabeth-bohemia",
+ "letter": "e",
+ "state": "ok",
+ "n_html": 46,
+ "n_md": 46,
+ "n_pairs": 36,
+ "n_flags": 0,
+ "n_merged": 9,
+ "merged": [
+  {
+   "ratio": 0.9997001499250375,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991896272285251,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990147783251232,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994722955145119,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993183367416496,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990356798457087,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985966881841145,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9776785714285714,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "普法尔茨的伊丽莎白公主 Elisabeth, Princess of Bohemia (Lisa Shapiro)",
+  "zh_h1": "普法尔茨的伊丽莎白公主 Elisabeth, Princess of Bohemia (Lisa Shapiro)",
+  "yuanwen_h1": "Elisabeth, Princess of Bohemia",
+  "html_title": "Elisabeth, Princess of Bohemia",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→p": 21,
+  "p→∅": 9,
+  "h3→h3": 5,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 33,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Her criticisms of Descartes intertwine three distinct philosophical positions. First, she takes up the position of Aristotelian virtue ethics, in objecting that Descartes’s very liberal account of virtue, which requires only the intention to do good, does not require that one’s good intentions are realized in actions that are actually good. That is, she notes that Descartes makes virtue impervious to fortune or moral luck. She, however, goes beyond the canonical Aristotelian position to maintain",
+   "md_text": "Her criticisms of Descartes intertwine three distinct philosophical positions. First, she takes up the position of Aristotelian virtue ethics, in objecting that Descartes’s very liberal account of virtue, which requires only the intention to do good, does not require that one’s good intentions are realized in actions that are actually good. That is, she notes that Descartes makes virtue impervious to fortune or moral luck. She, however, goes beyond the canonical Aristotelian position to maintain"
+  },
+  {
+   "i": 43,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Descartes’ correspondence with Princess Elisabeth (PDF), translated by Jonathan Bennett’s, at Early Modern Texts Online.",
+   "md_text": "Descartes’ correspondence with Princess Elisabeth (PDF), translated by Jonathan Bennett’s, at Early Modern Texts Online."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Elisabeth, Princess of Bohemia",
+ "authors": [
+  "Shapiro, Lisa"
+ ]
+}

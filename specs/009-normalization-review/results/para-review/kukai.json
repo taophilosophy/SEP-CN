@@ -1,0 +1,442 @@
+{
+ "slug": "kukai",
+ "letter": "k",
+ "state": "ok",
+ "n_html": 119,
+ "n_md": 119,
+ "n_pairs": 34,
+ "n_flags": 0,
+ "n_merged": 23,
+ "merged": [
+  {
+   "ratio": 0.9982883690602331,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987279665636926,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981195938322678,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977975365037931,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972624168947986,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983260796786073,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985935302390999,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9929078014184397,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997545409916544,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987639060568603,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9964471166985516,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "h4",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h4",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983969220904136,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "h4",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h4",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980397647717726,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9972758498164159,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971188776149317,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "h4",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "h4",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997307143988595,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974280021735192,
+   "n_h": 12,
+   "n_m": 12,
+   "shape_h": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h3",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "h3",
+    "p",
+    "p",
+    "h3",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9959158027018536,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9979363207547169,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9917366659837465,
+   "n_h": 15,
+   "n_m": 15,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963636363636363,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9933774834437086,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "空海 Kūkai (John Krummel)",
+  "zh_h1": "空海 Kūkai (John Krummel)",
+  "yuanwen_h1": "Kūkai",
+  "html_title": "Kūkai",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 74,
+  "p→p": 12,
+  "h3→h3": 6,
+  "h3→∅": 6,
+  "h4→h4": 7,
+  "h4→∅": 3,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(p→p)": 5,
+  "merged×2(p+p→p+p)": 4,
+  "merged×3(p+h3+p→p+h3+p)": 1,
+  "merged×7(p+p+p+p+p+h3+p→p+p+p+p+p+h3+p)": 1,
+  "merged×5(p+p+p+h3+p→p+p+p+h3+p)": 1,
+  "merged×4(p+h4+p+p→p+h4+p+p)": 1,
+  "merged×5(p+h4+p+p+p→p+h4+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 3,
+  "merged×5(h4+p+p+p+p→h4+p+p+p+p)": 1,
+  "merged×12(p+h3+p+p+p+p+p+h3+p+p+h3+p→p+h3+p+p+p+p+p+h3+p+p+h3+p)": 1,
+  "merged×15(p+p+p+p+p+p+p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 68,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "As a descending view from the summit, this Taizō mandala represents the enlightened universe from the perspective of compassion, an expression of the “female” principle. Just as a mother enfolds her child in the care of her womb, the Buddha’s compassion nurtures the original enlightenment in all. With the lotus as chief symbol, the picture represents the manifestation of Dainichi through his cosmic activities. Dainichi occupies the unmoving center with myriad buddhas, bodhisattvas, and other dei",
+   "md_text": "As a descending view from the summit, this Taizō mandala represents the enlightened universe from the perspective of compassion, an expression of the “female” principle. Just as a mother enfolds her child in the care of her womb, the Buddha’s compassion nurtures the original enlightenment in all. With the lotus as chief symbol, the picture represents the manifestation of Dainichi through his cosmic activities. Dainichi occupies the unmoving center with myriad buddhas, bodhisattvas, and other dei"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Kūkai",
+ "authors": [
+  "Krummel, John"
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "slug": "dedekind-foundations",
+ "letter": "d",
+ "state": "flagged",
+ "n_html": 98,
+ "n_md": 101,
+ "n_pairs": 44,
+ "n_flags": 2,
+ "n_merged": 22,
+ "merged": [
+  {
+   "ratio": 0.9855141296604132,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "pubinfo",
+    "preamble"
+   ],
+   "shape_m": [
+    "image",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991026024528866,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999683644416324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998993288590604,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995876288659794,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992548435171386,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988960035327887,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994620763851533,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992789039339797,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999195494770716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992402370460416,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992358634742741,
+   "n_h": 8,
+   "n_m": 8,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992721979621543,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987174005985464,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986301369863013,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998666962897134,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994907485995587,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998205312275664,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9795918367346939,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9855072463768116,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  },
+  {
+   "ratio": 0.9680511182108626,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "理查德·戴德金对数学基础的贡献 contributions to the foundations of mathematics (Erich Reck)",
+  "zh_h1": "理查德·戴德金对数学基础的贡献 contributions to the foundations of mathematics (Erich Reck)",
+  "yuanwen_h1": "Dedekind’s Contributions to the Foundations of Mathematics",
+  "html_title": "Dedekind’s Contributions to the Foundations of Mathematics",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→∅": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 49,
+  "p→p": 25,
+  "h3→h3": 9,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "ul→∅": 2,
+  "merged×2(pubinfo+preamble→image+p+p)": 1,
+  "merged×2(p+p→p+p)": 5,
+  "merged×1(p→p)": 5,
+  "merged×3(p+p+p→p+p+p)": 4,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×8(p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 2
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 86,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "table",
+   "html_text": null,
+   "md_text": "1854 “Über die Einführung neuer Funktionen in der Mathematik; Habilitationsvortrag”; in Dedekind (1930–32), Vol. 3, pp. 428–438. 1857 “Abriß einer Theorie der höheren Kongruenzen in bezug auf einen reellen Primzahl-Modulus”; reprinted in Dedekind (1930–32), Vol. 1, pp. 40–67. 1863 Dirichlet, P.G.L., Vorlesungen über Zahlentheorie, first edition, edited by R. Dedekind; Braunschweig: Vieweg. 1871 Dirichlet, P.G.L., Vorlesungen über Zahlentheorie, second edition, edited and with supplements by R. Dedekind; Braunschweig: Vieweg. 1872 Stetigkeit und irrationale Zahlen, Braunschweig: Vieweg (originally published as a separate booklet); reprinted in Dedekind (1930–32), Vol. 3, pp. 315–334, in Dedekind (1965), pp. 1–22, and in Dedekind (2017), pp. 111–132; English trans., Dedekind (1901b), reprint"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 87,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature (in English, French, and German)"
+  }
+ ],
+ "spot": [
+  {
+   "i": 73,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The first part is closely tied to Dedekind’s employment of set-theoretic tools and techniques. He uses these to construct new mathematical objects (the natural and real numbers, ideals, etc.) or whole classes of such objects (algebraic number fields, rings, modules, lattices, etc.), usually in terms of infinite sets. Closely related but even more characteristic for Dedekind is the following: These sets are then endowed with general structural features (order relations, arithmetic operations, etc",
+   "md_text": "The first part is closely tied to Dedekind’s employment of set-theoretic tools and techniques. He uses these to construct new mathematical objects (the natural and real numbers, ideals, etc.) or whole classes of such objects (algebraic number fields, rings, modules, lattices, etc.), usually in terms of infinite sets. Closely related but even more characteristic for Dedekind is the following: These sets are then endowed with general structural features (order relations, arithmetic operations, etc"
+  },
+  {
+   "i": 89,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Digitized version of Essays on the Theory of Numbers (= Dedekind 1901a).",
+   "md_text": "Digitized version of Essays on the Theory of Numbers (= Dedekind 1901a)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Dedekind’s Contributions to the Foundations of Mathematics",
+ "authors": [
+  "Reck, Erich"
+ ]
+}

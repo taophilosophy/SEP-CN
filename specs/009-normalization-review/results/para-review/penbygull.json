@@ -1,0 +1,149 @@
+{
+ "slug": "penbygull",
+ "letter": "p",
+ "state": "ok",
+ "n_html": 32,
+ "n_md": 32,
+ "n_pairs": 15,
+ "n_flags": 0,
+ "n_merged": 7,
+ "merged": [
+  {
+   "ratio": 0.9955527318932655,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9978828510938603,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969427459699833,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9963407196584672,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9944794952681388,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9973161567364466,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "威廉·彭比尔 Penbygull, William (Alessandro Conti)",
+  "zh_h1": "威廉·彭比尔 Penbygull, William (Alessandro Conti)",
+  "yuanwen_h1": "William Penbygull",
+  "html_title": "William Penbygull",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→p": 1,
+  "h2→h2": 7,
+  "p→∅": 14,
+  "p→p": 6,
+  "blockquote→∅": 3,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(p→p)": 1,
+  "merged×4(blockquote+p+blockquote+p→blockquote+p+blockquote+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 18,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "According to him formal essential predication and formal accidental predication would correspond to Aristotle’s essential and accidental predication. But, as a matter of fact, he agrees with Wyclif in regarding predication by essence as more general than formal predication. As a consequence, in his theory formal predication is a particular type of predication by essence. This means that he implicitly recognizes a single ontological pattern, founded on a sort of partial identity, as the basis of ",
+   "md_text": "According to him formal essential predication and formal accidental predication would correspond to Aristotle’s essential and accidental predication. But, as a matter of fact, he agrees with Wyclif in regarding predication by essence as more general than formal predication. As a consequence, in his theory formal predication is a particular type of predication by essence. This means that he implicitly recognizes a single ontological pattern, founded on a sort of partial identity, as the basis of "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "William Penbygull",
+ "authors": [
+  "Conti, Alessandro"
+ ]
+}

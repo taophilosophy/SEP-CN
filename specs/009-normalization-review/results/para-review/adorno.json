@@ -1,0 +1,372 @@
+{
+ "slug": "adorno",
+ "letter": "a",
+ "state": "flagged",
+ "n_html": 90,
+ "n_md": 91,
+ "n_pairs": 29,
+ "n_flags": 1,
+ "n_merged": 20,
+ "merged": [
+  {
+   "ratio": 0.9993044284720612,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984093319194062,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990412272291467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998879386611619,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975980784627703,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999129677980853,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991223450939091,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997643176997407,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988497814584771,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987251402345741,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992201715622563,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990494991591723,
+   "n_h": 6,
+   "n_m": 6,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.998543743698891,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977755308392315,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986389928547125,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984402325471475,
+   "n_h": 9,
+   "n_m": 9,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988345635162884,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9980157155329789,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9977255496588324,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "西奥多·W·阿多诺 Adorno, Theodor W. (Henry Pickford and Lambert Zuidervaart)",
+  "zh_h1": "西奥多·W·阿多诺 Adorno, Theodor W. (Henry Pickford and Lambert Zuidervaart)",
+  "yuanwen_h1": "Theodor W. Adorno",
+  "html_title": "Theodor W. Adorno",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→∅": 58,
+  "p→p": 11,
+  "h3→h3": 6,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(p→p)": 4,
+  "merged×6(p+p+p+p+p+p→p+p+p+p+p+p)": 2,
+  "merged×2(p+p→p+p)": 4,
+  "merged×4(p+p+p+p→p+p+p+p)": 2,
+  "merged×9(p+p+p+p+p+p+p+p+p→p+p+p+p+p+p+p+p+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 87,
+   "j": 88,
+   "ratio": 0.9449275362318841,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Benjamin, Walter | contradiction | critical theory | domination | Enlightenment | Habermas, Jürgen | Hegel, Georg Wilhelm Friedrich | Hegel, Georg Wilhelm Friedrich: dialectics | Heidegger, Martin | Horkheimer, Max | Husserl, Edmund | identity | Kant, Immanuel | Lukács, Georg [György] | Marx, Karl | Popper, Karl | postmodernism | rationality | truth | Weber, Max",
+   "md_text": "Benjamin, Walter contradiction critical theory domination Enlightenment Habermas, Jürgen Hegel, Georg Wilhelm Friedrich Hegel, Georg Wilhelm Friedrich: dialectics Heidegger, Martin Horkheimer, Max Husserl, Edmund identity Kant, Immanuel Lukács, Georg [György] Marx, Karl Popper, Karl postmodernism rationality truth Weber, Max"
+  }
+ ],
+ "spot": [
+  {
+   "i": 21,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In the “Preface” Horkheimer and Adorno emphasize their reliance on these potentials within thought: “if enlightenment does not assimilate reflection on this regressive moment [in rationality], it seals its own fate” (ibid., xvi); “intellect’s true concern is a negation of reification” and “the necessity for enlightenment to reflect on itself if humanity is not to be totally betrayed” (ibid., xvii). There are passages in the book where these Hegelian elements indicate possibilities to exit the ap",
+   "md_text": "In the “Preface” Horkheimer and Adorno emphasize their reliance on these potentials within thought: “if enlightenment does not assimilate reflection on this regressive moment [in rationality], it seals its own fate” (ibid., xvi); “intellect’s true concern is a negation of reification” and “the necessity for enlightenment to reflect on itself if humanity is not to be totally betrayed” (ibid., xvii). There are passages in the book where these Hegelian elements indicate possibilities to exit the ap"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Theodor W. Adorno",
+ "authors": [
+  "Pickford, Henry",
+  "Zuidervaart, Lambert"
+ ]
+}

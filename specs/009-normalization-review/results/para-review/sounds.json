@@ -1,0 +1,326 @@
+{
+ "slug": "sounds",
+ "letter": "s",
+ "state": "ok",
+ "n_html": 181,
+ "n_md": 184,
+ "n_pairs": 156,
+ "n_flags": 0,
+ "n_merged": 23,
+ "merged": [
+  {
+   "ratio": 0.999825388510564,
+   "n_h": 1,
+   "n_m": 4,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995985547972702,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9961685823754789,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999137187230371,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9993846153846154,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995047052996533,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9977324263038548,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996925914540424,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990412272291467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991079393398751,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988801791713325,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991823385118561,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9971830985915493,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991673605328892,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991546914623838,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990281827016521,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997876406880442,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996822370511599,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9984101748807631,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999619916381604,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991111111111111,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9975,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ul"
+   ],
+   "shape_m": [
+    "ul"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "声音 sounds (Roberto Casati, Jerome Dokic, and Elvira Di Bona)",
+  "zh_h1": "声音 sounds (Roberto Casati, Jerome Dokic, and Elvira Di Bona)",
+  "yuanwen_h1": "Sounds",
+  "html_title": "Sounds",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "p→p": 105,
+  "h3→h3": 12,
+  "blockquote→blockquote": 14,
+  "p→∅": 22,
+  "h4→h4": 10,
+  "ul→ul": 1,
+  "ol→ol": 5,
+  "blockquote→∅": 1,
+  "ul→∅": 1,
+  "merged×1(preamble→p+p+p+p)": 1,
+  "merged×1(p→p)": 18,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1,
+  "merged×1(ul→ul)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 129,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "(2) Nudds (2018: 56) adds that the falsity of the existence premise in the visual case can be showed also by imagining to see a hologram in S4. If what you see when it seems to you that you see a red cube is a hologram of a red cube—that is, you have the experience of seeing something that is indistinguishable from seeing a real red cube—you don’t literally see the object, but you do not hallucinate it as well. When seeing a hologram of a red cube, you see something which is the bearer of visual",
+   "md_text": "(2) Nudds (2018: 56) adds that the falsity of the existence premise in the visual case can be showed also by imagining to see a hologram in S4. If what you see when it seems to you that you see a red cube is a hologram of a red cube—that is, you have the experience of seeing something that is indistinguishable from seeing a real red cube—you don’t literally see the object, but you do not hallucinate it as well. When seeing a hologram of a red cube, you see something which is the bearer of visual"
+  },
+  {
+   "i": 28,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "The felt quality of high pitch is correlated with high frequencies; low pitch is correlated with low frequencies; High volumes are correlated with high, low volumes with low, amplitudes. The directionality of sounds (the fact that they appear to be “in a direction”) is related to the fact that the hearer is located on a propagation line from the source. Even more accomplished is the explanation of particular auditory effects, such as the Doppler effect, whereby the speed of a sounding object in ",
+   "md_text": "The felt quality of high pitch is correlated with high frequencies; low pitch is correlated with low frequencies; High volumes are correlated with high, low volumes with low, amplitudes. The directionality of sounds (the fact that they appear to be “in a direction”) is related to the fact that the hearer is located on a propagation line from the source. Even more accomplished is the explanation of particular auditory effects, such as the Doppler effect, whereby the speed of a sounding object in "
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Sounds",
+ "authors": [
+  "Casati, Roberto",
+  "Dokic, Jerome",
+  "Di Bona, Elvira"
+ ]
+}

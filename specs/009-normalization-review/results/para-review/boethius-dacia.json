@@ -1,0 +1,465 @@
+{
+ "slug": "boethius-dacia",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 103,
+ "n_md": 108,
+ "n_pairs": 48,
+ "n_flags": 5,
+ "n_merged": 27,
+ "merged": [
+  {
+   "ratio": 0.9986577181208054,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988789237668162,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986845566956064,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9976336961665878,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9918578830495929,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9919571045576407,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9902755267423015,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9936507936507937,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9857142857142858,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9824561403508771,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9962825278810409,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9960364645263575,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987210789443088,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9982415005861665,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981504915798696,
+   "n_h": 7,
+   "n_m": 7,
+   "shape_h": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974337040205303,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 1.0,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991603694374476,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9912587412587412,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "dl",
+    "p",
+    "dl"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9990272373540856,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9992838386249702,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988989209425236,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986431478968792,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983525535420099,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9950372208436724,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970599044468945,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "达西亚的波爱修斯 Boethius of Dacia (Sten Ebbesen)",
+  "zh_h1": "达西亚的波爱修斯 Boethius of Dacia (Sten Ebbesen)",
+  "yuanwen_h1": "Boethius of Dacia",
+  "html_title": "Boethius of Dacia",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": true,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 8,
+  "h3→h3": 14,
+  "p→p": 21,
+  "p→∅": 39,
+  "ol→∅": 6,
+  "blockquote→∅": 4,
+  "h4→h4": 3,
+  "dl→∅": 5,
+  "blockquote→blockquote": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 4,
+  "merged×1(ol→ol)": 6,
+  "merged×3(blockquote+p+p→blockquote+p+p)": 1,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×7(blockquote+p+p+p+p+p+p→blockquote+p+p+p+p+p+p)": 1,
+  "merged×1(dl→p+p)": 1,
+  "merged×3(dl+p+dl→p+p+p+p+p)": 1,
+  "merged×3(p+blockquote+p→p+blockquote+p)": 1,
+  "merged×5(p+p+p+p+p→p+p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [
+  {
+   "kind": "replace",
+   "i": 57,
+   "j": 58,
+   "ratio": 0.24,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "( Ø ) no man exists,",
+   "md_text": "*(Ø)*"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 59,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "no man exists,"
+  },
+  {
+   "kind": "replace",
+   "i": 65,
+   "j": 69,
+   "ratio": 0.2222222222222222,
+   "shape_h": "dl",
+   "shape_m": "p",
+   "html_text": "(2*) “Man is not man”",
+   "md_text": "*(2)**"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 70,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Man is not man”"
+  },
+  {
+   "kind": "replace",
+   "i": 102,
+   "j": 107,
+   "ratio": 0.9473684210526315,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Albert the Great [= Albertus Magnus] | Aquinas, Thomas | condemnation of 1277 | existence | faith | free will | Godfrey of Fontaines | happiness | Ibn Rushd [Averroes] | Siger of Brabant | truthmakers",
+   "md_text": "Albert the Great [= Albertus Magnus] Aquinas, Thomas condemnation of 1277 existence faith free will Godfrey of Fontaines happiness Ibn Rushd [Averroes] Siger of Brabant truthmakers"
+  }
+ ],
+ "spot": [
+  {
+   "i": 81,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "De summo bono (“On the Supreme Good”) is a passionate defense of the thesis that the ideal life is that of an intellectual, a philosopher, who spends his life in the pursuit of truth. It is a rhetorical masterpiece, containing one of the longest periods in all of Latin literature that keeps the reader in suspense for about two pages. According to Boethius, the supreme good possible for man consists in “knowing the true, doing the good, and taking delight in both”. By concentrating on the quest f",
+   "md_text": "De summo bono (“On the Supreme Good”) is a passionate defense of the thesis that the ideal life is that of an intellectual, a philosopher, who spends his life in the pursuit of truth. It is a rhetorical masterpiece, containing one of the longest periods in all of Latin literature that keeps the reader in suspense for about two pages. According to Boethius, the supreme good possible for man consists in “knowing the true, doing the good, and taking delight in both”. By concentrating on the quest f"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Boethius of Dacia",
+ "authors": [
+  "Ebbesen, Sten"
+ ]
+}

@@ -1,0 +1,746 @@
+{
+ "slug": "plato-ethics-shorter",
+ "letter": "p",
+ "state": "flagged",
+ "n_html": 84,
+ "n_md": 131,
+ "n_pairs": 33,
+ "n_flags": 46,
+ "n_merged": 16,
+ "merged": [
+  {
+   "ratio": 0.9888500218627022,
+   "n_h": 5,
+   "n_m": 9,
+   "shape_h": [
+    "preamble",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9954699886749717,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9760634999379884,
+   "n_h": 4,
+   "n_m": 7,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9987063389391979,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9875666074600356,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9688279301745636,
+   "n_h": 2,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9968516984258492,
+   "n_h": 4,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991596638655462,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9934333958724203,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9992217898832685,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9943429068755439,
+   "n_h": 3,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999043062200957,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9907727797001153,
+   "n_h": 3,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "h2",
+    "p",
+    "h2",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9936346276257161,
+   "n_h": 2,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "h2"
+   ]
+  },
+  {
+   "ratio": 0.9988726042841037,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991841174870819,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)",
+  "zh_h1": "柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)",
+  "yuanwen_h1": "Plato’s Shorter Ethical Works",
+  "html_title": "Plato’s Shorter Ethical Works",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "preamble→∅": 1,
+  "p→∅": 50,
+  "p→p": 33,
+  "merged×5(preamble+p+p+p+p→p+p+p+p+h2+p+p+p+p)": 1,
+  "merged×1(p→h2+p)": 1,
+  "merged×4(p+p+p+p→p+h2+p+p+h2+p+p)": 1,
+  "merged×1(p→p)": 4,
+  "merged×1(p→p+h2)": 1,
+  "merged×2(p+p→p+p+p+h2)": 1,
+  "merged×4(p+p+p+p→p+p+h2+p+p)": 1,
+  "merged×2(p+p→p+p+h2)": 2,
+  "merged×3(p+p+p→p+h2+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×3(p+p+p→p+h2+p+h2+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 13,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "On the elenchus, see especially Vlastos 1983, Kraut 1983, Brickhouse and Smith 1984, Benson 1987, and Tarrant 2005."
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 14,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "3. Socratic definition"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 17,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Euthyphro seems to hold that his knowledge of reverence guarantees that his judgments on this score are accurate, so that he is confident that he is doing no wrong, but he is unable to substantiate this."
+  },
+  {
+   "kind": "replace",
+   "i": 11,
+   "j": 19,
+   "ratio": 0.08626760563380281,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Socrates seems to assume in these works that knowledge of definitions has priority in two ways: (1) One must know what reverence is before one could know of any particular action that it is reverent (whether, for example, it is reverent to prosecute one’s father), and so for the other virtues and other cases. (2) One must know what reverence is before one could know what properties reverence has (for example, whether it is teachable). The first of these has been attacked as the Socratic fallacy by Peter Geach (on which see Prior 1998); Socrates himself seems to think he knows things which he appears to be unable to support through giving definitions. Luckily, no text unequivocally assigns either claim to Socrates, and the matter is under debate. A charitable view would assign to Socrates i",
+   "md_text": "On Socratic definition, see Vlastos 1976, Nehamas 1975, Benson 1990, Futter 2011, and Woodruff 2019."
+  },
+  {
+   "kind": "replace",
+   "i": 12,
+   "j": 20,
+   "ratio": 0.0711864406779661,
+   "shape_h": "p",
+   "shape_m": "h2",
+   "html_text": "Socrates nevertheless has strong opinions about virtues, opinions that guide his search for definitions—for example, that courage is noble or fine ( Laches 193d) and that we should pursue virtue above all else. It is one thing to aim at virtue and still another to be able to determine what actions virtue requires, as Vasiliou contends. But if Socrates thinks he lacks mastery of definitions of virtues, then we must ask how he thinks he can be right enough about the virtues even to look for their definitions. This puzzle is taken up to some extent in the Meno .",
+   "md_text": "4. Priority of definition"
+  },
+  {
+   "kind": "replace",
+   "i": 13,
+   "j": 21,
+   "ratio": 0.23104693140794225,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "“Virtue” translates arete , which Socrates’ contemporaries used of any sort of excellence that leads to success. A number of writers before Socrates had used the word and its associated vocabulary primarily in ethical contexts. But Socrates was probably the first to identify ethical virtue with what is analogous in the soul to health in the body.",
+   "md_text": "Socrates seems to assume in these works that knowledge of definitions has priority in two ways: (1) One must know what reverence is before one could know of any particular action that it is reverent (whether, for example, it is reverent to prosecute one’s father), and so for the other virtues and other cases. (2) One must know what reverence is before one could know what properties reverence has (for example, whether it is teachable). The first of these has been attacked as the Socratic fallacy by Peter Geach (on which see Prior 1998) ; Socrates himself seems to think he knows things which he appears to be unable to support through giving definitions. Luckily, no text unequivocally assigns either claim to Socrates, and the matter is under debate. A charitable view would assign to Socrates "
+  },
+  {
+   "kind": "replace",
+   "i": 14,
+   "j": 22,
+   "ratio": 0.2936802973977695,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "In Socrates’ usage, virtue is the ability to do what is right and resist doing what is wrong. As we learn especially from the Crito , Socrates holds that wrong actions harm a part of one’s self, which he identifies in other dialogues as the soul. Because the soul is more important to us than the body, we should care about nothing so much as virtue, and Socrates understands his role in Athens as that of shaming Athenians into taking this most important concern seriously through the care of the soul (29e–30a).",
+   "md_text": "Socrates nevertheless has strong opinions about virtues, opinions that guide his search for definitions—for example, that courage is noble or fine (Laches 193d) and that we should pursue virtue above all else. It is one thing to aim at virtue and still another to be able to determine what actions virtue requires, as Vasiliou contends. But if Socrates thinks he lacks mastery of definitions of virtues, then we must ask how he thinks he can be right enough about the virtues even to look for their definitions. This puzzle is taken up to some extent in the Meno."
+  },
+  {
+   "kind": "replace",
+   "i": 15,
+   "j": 23,
+   "ratio": 0.2597402597402597,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The principal virtues of interest to Socrates in this group of dialogues are courage ( andreia ), reverence or piety ( eusebeia , to hosion ), wisdom ( sophia ), temperance or integrity ( sophrosune ), and justice ( dikaiosune ), all of which seem to be dependent on, and perhaps identical to, wisdom ( sophia) .",
+   "md_text": "On priority of definition, see Benson 2000 and 2013, Wolfsdorf 2004, and Vasiliou 2008. For the view that it is wisdom that is prior, see Pangle 2014."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 24,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "5. Virtue and its Ontology"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 25,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "“Virtue” translates arete, which Socrates’ contemporaries used of any sort of excellence that leads to success. A number of writers before Socrates had used the word and its associated vocabulary primarily in ethical contexts. But Socrates was probably the first to identify ethical virtue with what is analogous in the soul to health in the body."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 26,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "In Socrates’ usage, virtue is the ability to do what is right and resist doing what is wrong. As we learn especially from the Crito, Socrates holds that wrong actions harm a part of one’s self, which he identifies in other dialogues as the soul. Because the soul is more important to us than the body, we should care about nothing so much as virtue, and Socrates understands his role in Athens as that of shaming Athenians into taking this most important concern seriously through the care of the soul (29e–30a)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 27,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "In inquiring after the virtues, Socrates assumes that they have some status as entities, especially in Euthyphro and Hippies Major. Some scholars have thought this assumption represented an early theory of Platonic forms (Allen 1970; see also Prior 2013 and Woodruff 2019."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 28,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The principal virtues of interest to Socrates in this group of dialogues are courage (andreia), reverence or piety (eusebeia, to hosion), wisdom (sophia), temperance or integrity (sophrosune), and justice (dikaiosune), all of which seem to be dependent on, and perhaps identical to, wisdom (sophia)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 29,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "These dialogues raise two general questions about virtues that are important to ethical theory, one concerning instrumentality and another concerning unity. They also raise a question about the analogy between virtue and expert knowledge (techne)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 30,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "6. The Instrumentality of Virtue"
+  },
+  {
+   "kind": "replace",
+   "i": 24,
+   "j": 42,
+   "ratio": 0.19967266775777415,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Socrates’ doctrine on this, apparently, is that knowledge of what is right cannot be overcome by pleasure or passion. After Aristotle, philosophers have termed this the issue of acrasia . Acrasia , weakness of will, would occur when someone who knows what is right does what is wrong under the influence of passion or in order to secure pleasure.",
+   "md_text": "On techne and the techne analogy, see Irwin 1995. For a skeptical view of Socrates’ commitment to the techne analogy, see Roochnik 1996 and 2002 and Weiss 2006. On the issue of Socrates’ intellectualism, see Reshotko 2013, Brickhouse and Smith 2013, and Smith 2021."
+  },
+  {
+   "kind": "replace",
+   "i": 25,
+   "j": 43,
+   "ratio": 0.14594594594594595,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Holders of expert knowledge are supposed to be reliable in the exercise of that knowledge; they are professionals, and part of their professionalism is to ply their trade competently regardless of the weight of passion or the blandishments of pleasure. So the techne analogy might be construed to imply the impossibility of acrasia . Socrates’ argument for this in the Protagoras , however, is based on his demonstration that the popular explanation for weak-willed behavior (that knowledge is overcome by pleasure) is incoherent. Socrates is not denying that people do wrong under the influence of passion or desire for pleasure; he is rejecting the usual explanation for this, and denying that it occurs in the case of those who have the relevant knowledge. Plainly, the doctrine presupposes a stri",
+   "md_text": "On moral injury: Penner and Rowe 1994 and Reshotko 2013 take the intellectualist position; Brickhouse and Smith 2010 take a moderate position; Gerson 1997 Weiss 2006 and Woodruff 2023 argue for the non-intellectualist interpretation."
+  },
+  {
+   "kind": "replace",
+   "i": 26,
+   "j": 44,
+   "ratio": 0.0859106529209622,
+   "shape_h": "p",
+   "shape_m": "h2",
+   "html_text": "A related doctrine is that no one errs voluntarily, a doctrine Plato holds consistently from the Apology to the Laws . If acrasia is impossible, then every moral error involves a cognitive failure about the action or the principle that it violates, and cognitive errors negative (or at least weaken) responsibility for actions caused by those errors. Socrates generally assumes that actions taken in ignorance are involuntary, and that therefore the proper response to wrongdoing is not retribution, but education, as he says in the Apology (25e–26a).",
+   "md_text": "9. The Impossibility of Acrasia"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 45,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Socrates’ doctrine on this, apparently, is that knowledge of what is right cannot be overcome by pleasure or passion. After Aristotle, philosophers have termed this the issue of acrasia. Acrasia, weakness of will, would occur when someone who knows what is right does what is wrong under the influence of passion or in order to secure pleasure."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 46,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Holders of expert knowledge are supposed to be reliable in the exercise of that knowledge; they are professionals, and part of their professionalism is to ply their trade competently regardless of the weight of passion or the blandishments of pleasure. So the techne analogy might be construed to imply the impossibility of acrasia. Socrates’ argument for this in the Protagoras, however, is based on his demonstration that the popular explanation for weak-willed behavior (that knowledge is overcome by pleasure) is incoherent. Socrates is not denying that people do wrong under the influence of passion or desire for pleasure; he is rejecting the usual explanation for this, and denying that it occurs in the case of those who have the relevant knowledge. Plainly, the doctrine presupposes a string"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 47,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Scholars dispute the question whether Socrates is committed to the conclusion he draws for Protagoras. The point may be dialectically directed at Protagoras: if virtue is teachable, as Protagoras says it is, then this unlikely result would follow."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 48,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "A related doctrine is that no one errs voluntarily, a doctrine Plato holds consistently from the Apology to the Laws. If acrasia is impossible, then every moral error involves a cognitive failure about the action or the principle that it violates, and cognitive errors negative (or at least weaken) responsibility for actions caused by those errors. Socrates generally assumes that actions taken in ignorance are involuntary, and that therefore the proper response to wrongdoing is not retribution, but education, as he says in the Apology (25e–26a)."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 49,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "In the Hippias Minor, by contrast, Socrates argues that it is better to do wrong voluntarily than in ignorance. Although he is unhappy with this conclusion, he gives no direct hints as to how to avoid it."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 50,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "On acrasia see Segvic 2005, Weiss 2006, and Devereaux 2008."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 51,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "10. Background: Sophists and Scientists"
+  },
+  {
+   "kind": "replace",
+   "i": 37,
+   "j": 65,
+   "ratio": 0.18219895287958116,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Because Crito cannot answer, Socrates personifies the laws and imagines their response, on behalf of his obligation to them. (Here as elsewhere, with the exception of the Apology , Socrates avoids giving an extensive speech in his own persona.) The argument the laws give is elaborate, and appeals mainly to two points: an agreement they allege Socrates made to obey them by choosing to live in Athens, and the benefits they claim Socrates has received from them, which place Socrates under a stronger obligation to the laws than he has to his parents. Neither Crito nor Socrates can reply to the arguments given by the laws, and conclusion of the laws is allowed to stand.",
+   "md_text": "His second conclusion is that they would do wrong if they followed Crito’s plan. The argument leads to a question Crito cannot answer: One should abide by one’s agreements provided they are just; would I be abiding by my agreement if I escaped without persuading the city (49e–50a)?"
+  },
+  {
+   "kind": "replace",
+   "i": 38,
+   "j": 66,
+   "ratio": 0.08277189605389798,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The conclusion of these personified laws—that one must obey the city in all things (51bc)—seems to conflict with a memorable text in the Apology , as Grote first pointed out; there Socrates promises to disobey the court if it should let him off on the condition that he give up his mission in Athens (29d). Scholarly opinions differ over how to reconcile these texts.",
+   "md_text": "Because Crito cannot answer, Socrates personifies the laws and imagines their response, on behalf of his obligation to them. (Here as elsewhere, with the exception of the Apology, Socrates avoids giving an extensive speech in his own persona.) The argument the laws give is elaborate, and appeals mainly to two points: an agreement they allege Socrates made to obey them by choosing to live in Athens, and the benefits they claim Socrates has received from them, which place Socrates under a stronger obligation to the laws than he has to his parents. Neither Crito nor Socrates can reply to the arguments given by the laws, and conclusion of the laws is allowed to stand."
+  },
+  {
+   "kind": "replace",
+   "i": 39,
+   "j": 67,
+   "ratio": 0.3035294117647059,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "A dialogue of definition, the Euthyphro takes up the subject of reverence or piety, a virtue that traditionally bears on the keeping of oaths, the treatment of the weak (such as prisoners and suppliants), family relationships, and respect toward the gods. The discussion here lifts reverence out of its traditional context, while marking sharply the difference between reasoning about ethics and accepting authority. The argument as a whole may imply support for the unity of virtue .",
+   "md_text": "The conclusion of these personified laws—that one must obey the city in all things (51bc)—seems to conflict with a memorable text in the Apology, as Grote first pointed out; there Socrates promises to disobey the court if it should let him off on the condition that he give up his mission in Athens (29d). Scholarly opinions differ over how to reconcile these texts."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 68,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "13. Euthyphro"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 69,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "A dialogue of definition, the Euthyphro takes up the subject of reverence or piety, a virtue that traditionally bears on the keeping of oaths, the treatment of the weak (such as prisoners and suppliants), family relationships, and respect toward the gods. The discussion here lifts reverence out of its traditional context, while marking sharply the difference between reasoning about ethics and accepting authority. The argument as a whole may imply support for the unity of virtue."
+  },
+  {
+   "kind": "replace",
+   "i": 73,
+   "j": 109,
+   "ratio": 0.11828793774319066,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The second conversation between Socrates and Clinias treats wisdom as a techne and explores the subordination of one techne to another, as the art of the general (winning battles) is subordinate to the art of politics (making use of victories). The supreme techne he calls kingly or royal, and this is the techne that guides the use of all others (291c), but this line of inquiry founders on a question that appears unanswerable: What is the specific knowledge that is given by the kingly techne ? A techne is supposed to have a well-defined subject matter, but the kingly techne , which requires general wisdom, would oversee all subject matter and therefore would seem to have no subject matter proper to itself. Perhaps Socrates thinks the subject of this techne is good and evil, or perhaps virtu",
+   "md_text": "The brothers intervene with new and more disturbing arguments: it is not possible to speak false or to hold a false view or to contradict, they say, possibly echoing theses of the sophist Protagoras."
+  },
+  {
+   "kind": "replace",
+   "i": 74,
+   "j": 110,
+   "ratio": 0.1485148514851485,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The Protagoras is the most substantial dialogue in this group. Its general theme is the question whether virtue can be taught, and this leads to the question whether virtue is wisdom or knowledge. Other topics treated in the dialogue are the unity of virtue , the instrumentality of virtue for pleasure, and the denial of acrasia .",
+   "md_text": "The second conversation between Socrates and Clinias treats wisdom as a techne and explores the subordination of one techne to another, as the art of the general (winning battles) is subordinate to the art of politics (making use of victories). The supreme techne he calls kingly or royal, and this is the techne that guides the use of all others (291c), but this line of inquiry founders on a question that appears unanswerable: What is the specific knowledge that is given by the kingly techne? A techne is supposed to have a well-defined subject matter, but the kingly techne, which requires general wisdom, would oversee all subject matter and therefore would seem to have no subject matter proper to itself. Perhaps Socrates thinks the subject of this techne is good and evil, or perhaps virtue,"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 111,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "A few more traps are set by the brothers, who exploit the similarity between complete (or absolute) and incomplete (or relative) predication: the dog is a dog in any semantic context, but he is a father in relation to his puppies only, and not to his master."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 112,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Socrates returns to his framing discussion with Crito on the overarching theme of the dialogue, the question of what sort of study should be pursued as philosophy, and this is left as a challenge for Crito. The dialogue ends, as do most in this group, inconclusively."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 113,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "20. Protagoras"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 114,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "The Protagoras is the most substantial dialogue in this group. Its general theme is the question whether virtue can be taught, and this leads to the question whether virtue is wisdom or knowledge. Other topics treated in the dialogue are the unity of virtue, the instrumentality of virtue for pleasure, and the denial of acrasia."
+  },
+  {
+   "kind": "replace",
+   "i": 81,
+   "j": 121,
+   "ratio": 0.16376531270148292,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Socrates then approaches the wisdom-virtue question from another angle, that of acrasia (weakness of will, 351b–358d), seeking to show that there is a kind of wisdom that is sufficient for virtue. This turns out to be a hedonic calculus that gives full value to temporally distant pleasures and pains. Socrates’ argument is targeted on those who think that wisdom can be overpowered by pleasure, as is the case with someone whose knowledge of the ill-effects of certain foods eats them anyway because of the pleasure they afford. If the scale of pleasures is the only scale of good, however, and if the agents in this case have the wisdom to calculate correctly the pleasure the agents may reasonably expect from each choice, then they cannot be led by pleasure to choose the worse, or less pleasurab",
+   "md_text": "Socrates brings the discussion back to the unity of virtue, here arguing for the unity of courage and wisdom (348b–351b). Socrates argues that knowledge leads to confidence, but Protagoras insists that this is irrelevant, because not all confident people are courageous."
+  },
+  {
+   "kind": "replace",
+   "i": 82,
+   "j": 122,
+   "ratio": 0.14118705035971224,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Does the passage imply that Socrates is a hedonist? Protagoras does not accept the narrow hedonism of Socrates’ premise, so it appears that the hedonism is Socrates’ own. It is not anyone else’s. And yet we know that Socrates is elsewhere opposed to hedonism; his solution to the ethical problem of the Crito is based not on pleasure but on what, after serious consideration, he believes justice to require. There is no consensus on how to solve the puzzle. Could Socrates defend his doctrine on knowledge and acrasia here without the hedonist premise? In the Republic he will maintain at least part of that doctrine by introducing a division of the soul into three parts. But if the soul is undivided, hedonism may be Socrates’ best defense (Moss 2014). In view of other dialogues, however, it is li",
+   "md_text": "Socrates then approaches the wisdom-virtue question from another angle, that of acrasia (weakness of will, 351b–358d), seeking to show that there is a kind of wisdom that is sufficient for virtue. This turns out to be a hedonic calculus that gives full value to temporally distant pleasures and pains. Socrates’ argument is targeted on those who think that wisdom can be overpowered by pleasure, as is the case with someone whose knowledge of the ill-effects of certain foods eats them anyway because of the pleasure they afford. If the scale of pleasures is the only scale of good, however, and if the agents in this case have the wisdom to calculate correctly the pleasure the agents may reasonably expect from each choice, then they cannot be led by pleasure to choose the worse, or less pleasurab"
+  },
+  {
+   "kind": "replace",
+   "i": 83,
+   "j": 123,
+   "ratio": 0.2247191011235955,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Socrates now renews the discussion on wisdom and courage (358d–360e). Socrates presses upon a reluctant Protagoras his idea that courage is the knowledge of that which is and is not to be feared (360d), a doctrine that, in effect, he has refuted as a definition for courage in the Laches . The Protagoras ends inconclusively with agreement that the matters at issue require more discussion.",
+   "md_text": "Does the passage imply that Socrates is a hedonist? Protagoras does not accept the narrow hedonism of Socrates’ premise, so it appears that the hedonism is Socrates’ own. It is not anyone else’s. And yet we know that Socrates is elsewhere opposed to hedonism; his solution to the ethical problem of the Crito is based not on pleasure but on what, after serious consideration, he believes justice to require. There is no consensus on how to solve the puzzle. Could Socrates defend his doctrine on knowledge and acrasia here without the hedonist premise? In the Republic he will maintain at least part of that doctrine by introducing a division of the soul into three parts. But if the soul is undivided, hedonism may be Socrates’ best defense (Moss 2014) . In view of other dialogues, however, it is l"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 124,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "Socrates now renews the discussion on wisdom and courage (358d–360e). Socrates presses upon a reluctant Protagoras his idea that courage is the knowledge of that which is and is not to be feared (360d), a doctrine that, in effect, he has refuted as a definition for courage in the Laches. The Protagoras ends inconclusively with agreement that the matters at issue require more discussion."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 125,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "Academic Tools"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 126,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "blockquote",
+   "html_text": null,
+   "md_text": "How to cite this entry. Preview the PDF version of this entry at the Friends of the SEP Society. Look up topics and thinkers related to this entry at the Internet Philosophy Ontology Project (InPhO). Enhanced bibliography for this entry at PhilPapers, with links to its database."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 127,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "Other Internet Resources"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 128,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "ul",
+   "html_text": null,
+   "md_text": "Plato and his Dialogues, maintained by Bernard Suzanne."
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 129,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h2",
+   "html_text": null,
+   "md_text": "Related Entries"
+  },
+  {
+   "kind": "replace",
+   "i": null,
+   "j": 130,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "p",
+   "html_text": null,
+   "md_text": "definitions episteme and techne [= scientific knowledge and expertise] Plato Socrates Sophists, The wisdom"
+  }
+ ],
+ "spot": [
+  {
+   "i": 47,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Socrates then introduces the issue of knowledge, which Critias agrees is necessary to the exercise of sophrosune. But knowledge of what? Critias suggests that it is self-knowledge that is sophrosune (164d). Critias has in mind the kind of self-knowledge that consists in knowing what one knows and what one does not know. From this it is a short step to defining the virtue as the knowledge of itself and the other kinds of knowledge—i.e., the knowledge that enables one to evaluate all sorts of know",
+   "md_text": "Socrates then introduces the issue of knowledge, which Critias agrees is necessary to the exercise of sophrosune. But knowledge of what? Critias suggests that it is self-knowledge that is sophrosune (164d). Critias has in mind the kind of self-knowledge that consists in knowing what one knows and what one does not know. From this it is a short step to defining the virtue as the knowledge of itself and the other kinds of knowledge—i.e., the knowledge that enables one to evaluate all sorts of know"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Plato’s Shorter Ethical Works",
+ "authors": [
+  ""
+ ]
+}

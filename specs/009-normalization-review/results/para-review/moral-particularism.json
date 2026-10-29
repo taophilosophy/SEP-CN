@@ -1,0 +1,144 @@
+{
+ "slug": "moral-particularism",
+ "letter": "m",
+ "state": "ok",
+ "n_html": 63,
+ "n_md": 65,
+ "n_pairs": 53,
+ "n_flags": 0,
+ "n_merged": 8,
+ "merged": [
+  {
+   "ratio": 0.9995706311721769,
+   "n_h": 1,
+   "n_m": 3,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995136186770428,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995213020584012,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995473064735174,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995493465525012,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997348183505701,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995071463775259,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "道德特殊主义 moral particularism (Jonathan Dancy)",
+  "zh_h1": "道德特殊主义 moral particularism (Jonathan Dancy)",
+  "yuanwen_h1": "Moral Particularism",
+  "html_title": "Moral Particularism",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 11,
+  "p→p": 41,
+  "p→∅": 8,
+  "blockquote→∅": 1,
+  "merged×1(preamble→p+p+p)": 1,
+  "merged×2(p+p→p+p)": 2,
+  "merged×1(p→p)": 4,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 19,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "The picture so far is that actions get to be right or wrong in a wide variety of ways. Particularists are ‘pluralists’, believing that there is more than one morally relevant property. Many properties (or features) are capable of making a difference to how one ought to act, and are therefore capable of being morally relevant. But a property can be relevant on one occasion and not on another, and can count in favour of action here and against action there. Isn’t this all terribly confusing? If it",
+   "md_text": "The picture so far is that actions get to be right or wrong in a wide variety of ways. Particularists are ‘pluralists’, believing that there is more than one morally relevant property. Many properties (or features) are capable of making a difference to how one ought to act, and are therefore capable of being morally relevant. But a property can be relevant on one occasion and not on another, and can count in favour of action here and against action there. Isn’t this all terribly confusing? If it"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Moral Particularism",
+ "authors": [
+  "Dancy, Jonathan"
+ ]
+}

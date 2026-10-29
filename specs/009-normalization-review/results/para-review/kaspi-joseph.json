@@ -1,0 +1,244 @@
+{
+ "slug": "kaspi-joseph",
+ "letter": "k",
+ "state": "ok",
+ "n_html": 53,
+ "n_md": 53,
+ "n_pairs": 28,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.9989806320081549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9955396966993756,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "ol",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.996803254867771,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "ol",
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.996996996996997,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "blockquote"
+   ],
+   "shape_m": [
+    "p",
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.998015873015873,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9982698961937716,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "ol"
+   ],
+   "shape_m": [
+    "ol"
+   ]
+  },
+  {
+   "ratio": 0.9990049751243781,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9974636845745908,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9975909419417008,
+   "n_h": 5,
+   "n_m": 5,
+   "shape_h": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "ol",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9968294229549778,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "blockquote",
+    "p"
+   ],
+   "shape_m": [
+    "blockquote",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985250737463127,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9969897652016857,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9970326409495549,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9991575400168492,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "约瑟夫·卡斯皮 Kaspi, Joseph (Hannah Kasher and Moshe Kahan)",
+  "zh_h1": "约瑟夫·卡斯皮 Kaspi, Joseph (Hannah Kasher and Moshe Kahan)",
+  "yuanwen_h1": "Joseph Kaspi",
+  "html_title": "Joseph Kaspi",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 16,
+  "p→∅": 16,
+  "blockquote→∅": 6,
+  "ol→∅": 2,
+  "blockquote→blockquote": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×2(p+blockquote→ol+blockquote)": 1,
+  "merged×2(p+p→ol+ol)": 1,
+  "merged×2(p+blockquote→p+blockquote)": 1,
+  "merged×1(blockquote→blockquote)": 3,
+  "merged×1(ol→ol)": 1,
+  "merged×1(p→p)": 3,
+  "merged×2(p+p→p+p)": 2,
+  "merged×5(p+ol+p+p+p→p+ol+p+p+p)": 1,
+  "merged×2(blockquote+p→blockquote+p)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 15,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Here, Kaspi boldly implies that God somehow informed him of the secret hidden in the text. The criterion of his certainty is coherence. However, given Kaspi’s own theology (see below), he was not claiming to have received a supernatural revelation. Despite what some consider to be a radical adherence to Aristotelian philosophy, Kaspi had a conservative outlook on everything concerning the written word of the Bible and the way it is read. He maintained that the written word, or its reading, has n",
+   "md_text": "Here, Kaspi boldly implies that God somehow informed him of the secret hidden in the text. The criterion of his certainty is coherence. However, given Kaspi’s own theology (see below), he was not claiming to have received a supernatural revelation. Despite what some consider to be a radical adherence to Aristotelian philosophy, Kaspi had a conservative outlook on everything concerning the written word of the Bible and the way it is read. He maintained that the written word, or its reading, has n"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Joseph Kaspi",
+ "authors": [
+  "Kasher, Hannah",
+  "Kahan, Moshe"
+ ]
+}

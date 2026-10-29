@@ -1,0 +1,331 @@
+{
+ "slug": "burke",
+ "letter": "b",
+ "state": "flagged",
+ "n_html": 83,
+ "n_md": 87,
+ "n_pairs": 54,
+ "n_flags": 4,
+ "n_merged": 19,
+ "merged": [
+  {
+   "ratio": 0.999383096853794,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981472904122278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996850393700787,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9981945837512538,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.997920997920998,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999537251272559,
+   "n_h": 4,
+   "n_m": 4,
+   "shape_h": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995146416437469,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996208770377859,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988962472406181,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988858825401878,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9967532467532467,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994982438534872,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994128009395185,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9994288977727013,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996864220758859,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996910083427747,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9991189427312775,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9506172839506173,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "埃德蒙·伯克 Burke, Edmund (Ian Harris)",
+  "zh_h1": "埃德蒙·伯克 Burke, Edmund (Ian Harris)",
+  "yuanwen_h1": "Edmund Burke",
+  "html_title": "Edmund Burke",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 14,
+  "p→∅": 26,
+  "p→p": 36,
+  "blockquote→blockquote": 2,
+  "blockquote→∅": 2,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 9,
+  "merged×2(p+p→p+p)": 5,
+  "merged×4(p+p+p+p→p+p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 2,
+  "merged×3(p+p+p→p+p+p)": 1
+ },
+ "flags": [
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 77,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "blockquote",
+   "html_text": null,
+   "md_text": "[ATX] American Taxation. [CWA] Conciliation with America. [RRF] Reflections on the Revolution in France. [RP] Letters on a Regicide Peace. [SSC] Second Speech on Conciliation. [SDR] Speech on Declaratory Resolutions. [TCD] Thoughts on the Cause of the Present Discontents. [TPL] Tracts relating to Popery Laws"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 78,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h4",
+   "html_text": null,
+   "md_text": "Burke’s Correspondence"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 79,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Secondary Literature"
+  },
+  {
+   "kind": "insert",
+   "i": null,
+   "j": 80,
+   "ratio": null,
+   "shape_h": null,
+   "shape_m": "h3",
+   "html_text": null,
+   "md_text": "Other works cited"
+  }
+ ],
+ "spot": [
+  {
+   "i": 9,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Burke’s mind, by the time he left Trinity, had two features of especial interest: one was an orientation towards religion, improvement and politics, the other a philosophical method. The latter derived from his university education, the former from reflection on the Irish situation. Burke was born into an Ireland where reflective intellect had its social setting in a small educational elite, much of it connected with the Church of Ireland. This elite contemplated a political class which owned mu",
+   "md_text": "Burke’s mind, by the time he left Trinity, had two features of especial interest: one was an orientation towards religion, improvement and politics, the other a philosophical method. The latter derived from his university education, the former from reflection on the Irish situation. Burke was born into an Ireland where reflective intellect had its social setting in a small educational elite, much of it connected with the Church of Ireland. This elite contemplated a political class which owned mu"
+  },
+  {
+   "i": 80,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Search on “Edmund Burke” at the Bibliography of British and Irish History provides a selective listing of Burke’s works. The Edmund Burke Society sponsored by The Russell Kirk Center for Cultural Renewal considers Burke with reference to modern conditions from a conservative point of view.",
+   "md_text": "Search on “Edmund Burke” at the Bibliography of British and Irish History provides a selective listing of Burke’s works. The Edmund Burke Society sponsored by The Russell Kirk Center for Cultural Renewal considers Burke with reference to modern conditions from a conservative point of view."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Edmund Burke",
+ "authors": [
+  "Harris, Ian"
+ ]
+}

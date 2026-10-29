@@ -1,0 +1,227 @@
+{
+ "slug": "demonstration-medieval",
+ "letter": "d",
+ "state": "ok",
+ "n_html": 54,
+ "n_md": 54,
+ "n_pairs": 33,
+ "n_flags": 0,
+ "n_merged": 14,
+ "merged": [
+  {
+   "ratio": 0.9994706193753309,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989696032972695,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986282578875172,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996372869060574,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994279176201373,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994772608468374,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983669025585193,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9989761092150171,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9998204345483929,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.999611575063119,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997078586035641,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9985974754558204,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  },
+  {
+   "ratio": 0.9649122807017544,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "中世纪的演绎理论 medieval theories of (John Longeway)",
+  "zh_h1": "中世纪的演绎理论 medieval theories of (John Longeway)",
+  "yuanwen_h1": "Medieval Theories of Demonstration",
+  "html_title": "Medieval Theories of Demonstration",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 10,
+  "p→p": 21,
+  "p→∅": 19,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p)": 1,
+  "merged×1(p→p)": 7,
+  "merged×2(p+p→p+p)": 3,
+  "merged×3(p+p+p→p+p+p)": 2,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 27,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "Thomas Aquinas agrees with Albert on these matters. In his literal commentary on the Posterior Analytics (1269-72) he notes that mathematics bears on matter because of the nature of matter, which leads it to have mathematical accidents, dimensions, that is, accidents which can be abstracted from matter and considered on their own in the mathematical disciplines without relation to matter. It is only in the intellect, through abstraction, that they become separated from matter, and their presence",
+   "md_text": "Thomas Aquinas agrees with Albert on these matters. In his literal commentary on the Posterior Analytics (1269-72) he notes that mathematics bears on matter because of the nature of matter, which leads it to have mathematical accidents, dimensions, that is, accidents which can be abstracted from matter and considered on their own in the mathematical disciplines without relation to matter. It is only in the intellect, through abstraction, that they become separated from matter, and their presence"
+  },
+  {
+   "i": 51,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Translations by John Longeway of medieval works on demonstrations: Pseudo-Thomas, Concerning Demonstration al-Kindi, Introduction to the Art of Demonstration Averroës, Nine Questions concerning Demonstration on the Posterior Analytics of Aristotle, restored to their original order Richard of Conington, Quodlibet I: Question 1: Whether the middle term demonstrating in the highest way is the definition of the attribute or of the subject? Walter Burleigh, Questions on the Posterior Analytics: Quest",
+   "md_text": "Translations by John Longeway of medieval works on demonstrations: Pseudo-Thomas, Concerning Demonstration al-Kindi, Introduction to the Art of Demonstration Averroës, Nine Questions concerning Demonstration on the Posterior Analytics of Aristotle, restored to their original order Richard of Conington, Quodlibet I: Question 1: Whether the middle term demonstrating in the highest way is the definition of the attribute or of the subject? Walter Burleigh, Questions on the Posterior Analytics: Quest"
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Medieval Theories of Demonstration",
+ "authors": [
+  "Longeway, John"
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "slug": "frantz-fanon",
+ "letter": "f",
+ "state": "ok",
+ "n_html": 54,
+ "n_md": 55,
+ "n_pairs": 34,
+ "n_flags": 0,
+ "n_merged": 15,
+ "merged": [
+  {
+   "ratio": 0.998227735932654,
+   "n_h": 1,
+   "n_m": 2,
+   "shape_h": [
+    "preamble"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995859213250518,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995378927911276,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997060552616108,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997395154988278,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9997732940376332,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9988109393579072,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9995379995379995,
+   "n_h": 2,
+   "n_m": 2,
+   "shape_h": [
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9986130374479889,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9996434937611408,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9956896551724138,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9994260130869016,
+   "n_h": 3,
+   "n_m": 3,
+   "shape_h": [
+    "p",
+    "p",
+    "p"
+   ],
+   "shape_m": [
+    "p",
+    "p",
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.99970836978711,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9983361064891847,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "p"
+   ],
+   "shape_m": [
+    "p"
+   ]
+  },
+  {
+   "ratio": 0.9946524064171123,
+   "n_h": 1,
+   "n_m": 1,
+   "shape_h": [
+    "blockquote"
+   ],
+   "shape_m": [
+    "blockquote"
+   ]
+  }
+ ],
+ "n_bib_html": 1,
+ "title_chain": {
+  "summary_title": "弗朗茨·法农 Fanon, Frantz (John Drabinski)",
+  "zh_h1": "弗朗茨·法农 Fanon, Frantz (John Drabinski)",
+  "yuanwen_h1": "Frantz Fanon",
+  "html_title": "Frantz Fanon",
+  "summary_eq_zh": true,
+  "yuanwen_eq_html": true,
+  "zh_contains_en": false,
+  "alias_row": false
+ },
+ "shape_pairs": {
+  "pubinfo→p": 1,
+  "preamble→∅": 1,
+  "h2→h2": 9,
+  "p→∅": 18,
+  "p→p": 22,
+  "blockquote→blockquote": 1,
+  "blockquote→∅": 1,
+  "ul→ul": 1,
+  "merged×1(preamble→p+p)": 1,
+  "merged×2(p+p→p+p)": 3,
+  "merged×1(p→p)": 9,
+  "merged×3(p+p+p→p+p+p)": 1,
+  "merged×1(blockquote→blockquote)": 1
+ },
+ "flags": [],
+ "spot": [
+  {
+   "i": 10,
+   "shape_h": "p",
+   "shape_m": "p",
+   "html_text": "But “The Lived-Experience of the Black Man” is really the key chapter in the book. In that chapter, Fanon deploys the conceptual tools developed in previous chapters in order to debunk the remaining legacies of racial essentialism. A good bit of this was undertaken in the first chapter, where Fanon critically reads Aimé Césaire and his articulation of Négritude around the question of language. The existential-phenomenological character of the fifth chapter, however, adds real depth and texture t",
+   "md_text": "But “The Lived-Experience of the Black Man” is really the key chapter in the book. In that chapter, Fanon deploys the conceptual tools developed in previous chapters in order to debunk the remaining legacies of racial essentialism. A good bit of this was undertaken in the first chapter, where Fanon critically reads Aimé Césaire and his articulation of Négritude around the question of language. The existential-phenomenological character of the fifth chapter, however, adds real depth and texture t"
+  },
+  {
+   "i": 51,
+   "shape_h": "ul",
+   "shape_m": "ul",
+   "html_text": "Fondation Frantz Fanon (in French, but with English language option).",
+   "md_text": "Fondation Frantz Fanon (in French, but with English language option)."
+  }
+ ],
+ "supplements": [],
+ "meta_title": "Frantz Fanon",
+ "authors": [
+  "Drabinski, John"
+ ]
+}
