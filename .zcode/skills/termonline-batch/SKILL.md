@@ -35,13 +35,18 @@ python tools/tl_browser_batch.py --emit --pool --out "$TEMP/tl-pool.json"    # �
 
 先加载 `browser-use:control-browser` 技能，打开 `https://www.termonline.cn/`（已有登录态则直接用；**无登录态→请用户人工登录**，不要索要密码/token）。
 
-**每批执行下面的模板**（只需改 `OFFSET`/`SIZE`/两个文件路径；每批前必 reload；批内相邻请求 sleep ≥10000ms）：
+**每批执行下面的模板**（只需改 `OFFSET`/`SIZE`/两个文件路径；批内相邻请求 sleep ≥10000ms）：
+
+> **激活机制（2026-10-30 修正）**：服务端会话窗口由**应用自己发起的检索**激活——每批开始前
+> `goto https://www.termonline.cn/search?searchText=logic`（应用加载时自己会调一次 allSearch）并等 9s；
+> 单纯 reload **首页**不会激活（实测整批降级）。新会话标签页丢失时先新建标签打开术语在线首页
+> （登录态在浏览器 profile 里常驻）。
 
 ```js
-// 前置：browser-use bootstrap + browser.tabs.list() 找 termonline 标签页 + tabs.get 绑定
-await tab.reload();
+// 前置：browser-use bootstrap + browser.tabs.list() 找 termonline 标签页（无则新建开首页）+ tabs.get 绑定
+await tab.goto("https://www.termonline.cn/search?searchText=logic");   // 搜索页导航激活会话窗口
 await tab.playwright.waitForLoadState({ state: "domcontentloaded" });
-await tab.playwright.waitForTimeout(8000);
+await tab.playwright.waitForTimeout(9000);
 const fs = await import("node:fs");
 const { createDecipheriv } = await import("node:crypto");
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
