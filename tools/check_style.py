@@ -26,7 +26,7 @@ from tools.common import read_text
 
 HAN = r"\u4e00-\u9fff\u3400-\u4dbf"
 RULES = ("curly-quotes", "bold-spacing", "cjk-spacing", "no-html",
-         "no-text-fence", "no-asciiart")
+         "no-text-fence", "no-asciiart", "italic-cjk")
 
 HTML_RE = re.compile(r"</?[a-zA-Z][^>]*>")
 ASCIIART_RE = re.compile(r"\b(?:xref|link):[^\s\[]*\[")
@@ -87,6 +87,19 @@ def check_line(path, lineno, line, issues):
                 issues.append({"path": path, "line": lineno, "rule": "curly-quotes",
                                "detail": "引号不成对（%s…%s 差 %d）: %s"
                                          % (lo, hi, depth, seg.strip()[:40])})
+        # italic-cjk：中文强调不使用斜体，使用加粗（用户裁定 2026-10-29）
+        # 拉丁/希腊/希伯来字母的斜体（书名/术语/逻辑符号）保留不改
+        # 遮蔽 **粗体**（已用 * 粗体的不重复报）与数学定界符与行内代码
+        _bold_masked = EMPH_RE.sub("\x00", seg)
+        _math_masked = re.sub(r"\$\$.+?\$\$|\$[^$]+\$", "\x00", _bold_masked)
+        for m2 in re.finditer(r"\*([^* \x00]+)\*", _math_masked):
+            t2 = m2.group(1)
+            if t2.startswith('）') or t2.endswith('（'):
+                continue
+            if re.search(r"[一-鿿]", t2):
+                issues.append({"path": path, "line": lineno, "rule": "italic-cjk",
+                               "detail": "中文强调不应使用斜体，应改为加粗: *%s*" % m2.group(1)[:30]})
+
         # bold-spacing
         for m in EMPH_RE.finditer(seg):
             start, end = m.start(), m.end()
