@@ -1,0 +1,1741 @@
+{
+ "D1": {
+  "upstream_real": 1872,
+  "summary_normal": 1879,
+  "summary_only": [
+   "continental-rationalism",
+   "pineal-gland",
+   "qm-action-distance",
+   "scientific-explanation",
+   "time-experience",
+   "wisdom",
+   "wyclif-political"
+  ],
+  "upstream_only": []
+ },
+ "D4": {
+  "upstream_alias": 557,
+  "summary_alias": 517,
+  "summary_only": [],
+  "upstream_only": [
+   "abortion",
+   "academic-freedom",
+   "aesthetics-critical-theory",
+   "aesthetics-race",
+   "algorithmic-fairness",
+   "animal-communication",
+   "animal-normativity",
+   "animal-social-cognition",
+   "bioethics-latin-america",
+   "branching-time",
+   "causal-explanation-science",
+   "chinese-painting-calligraphy",
+   "creationism",
+   "cyrenaics",
+   "dai-zhen",
+   "disability-well-being",
+   "doxastic-voluntarism",
+   "economic-democracy",
+   "epistemology-ai",
+   "ethics-virtue",
+   "existentialism-mexican",
+   "experimental-aesthetics",
+   "experimental-jurisprudence",
+   "korean-buddhism",
+   "logic-preference",
+   "moral-learning",
+   "moral-motivation",
+   "moral-realism",
+   "moral-responsibility-empirical",
+   "nietzsche-aesthetics",
+   "pantheism",
+   "paradox-of-tragedy",
+   "practical-reason-action",
+   "reasons-just-vs-expl",
+   "religion-evolutionary",
+   "religious-commitment-reason",
+   "scientific-explanation-20th",
+   "sign-language-semantics",
+   "skepticism-moral",
+   "sylvan-routley"
+  ]
+ },
+ "D2": [
+  {
+   "line": 155,
+   "slug": "lawphil-naturalism",
+   "section": "A",
+   "upstream_letter": "N",
+   "level": 0
+  },
+  {
+   "line": 292,
+   "slug": "biodiversity",
+   "section": "B",
+   "upstream_letter": "E",
+   "level": 0
+  },
+  {
+   "line": 504,
+   "slug": "computational-linguistics",
+   "section": "C",
+   "upstream_letter": "L",
+   "level": 0
+  },
+  {
+   "line": 1299,
+   "slug": "john-italos",
+   "section": "J",
+   "upstream_letter": "I",
+   "level": 0
+  },
+  {
+   "line": 1308,
+   "slug": "korean-buddhism",
+   "section": "J",
+   "upstream_letter": "K",
+   "level": 1
+  },
+  {
+   "line": 1385,
+   "slug": "value-pluralism",
+   "section": "K",
+   "upstream_letter": "V",
+   "level": 0
+  },
+  {
+   "line": 1448,
+   "slug": "modality-medieval",
+   "section": "L",
+   "upstream_letter": "M",
+   "level": 1
+  },
+  {
+   "line": 1516,
+   "slug": "information-biological",
+   "section": "L",
+   "upstream_letter": "I",
+   "level": 1
+  },
+  {
+   "line": 1629,
+   "slug": "naturalism",
+   "section": "M",
+   "upstream_letter": "N",
+   "level": 0
+  },
+  {
+   "line": 1987,
+   "slug": "mathematics-explanation",
+   "section": "P",
+   "upstream_letter": "M",
+   "level": 0
+  },
+  {
+   "line": 1988,
+   "slug": "mathematical-practice",
+   "section": "P",
+   "upstream_letter": "M",
+   "level": 0
+  },
+  {
+   "line": 2095,
+   "slug": "utilitarianism-history",
+   "section": "P",
+   "upstream_letter": "U",
+   "level": 0
+  },
+  {
+   "line": 2329,
+   "slug": "economic-democracy",
+   "section": "S",
+   "upstream_letter": "D",
+   "level": 1
+  },
+  {
+   "line": 2368,
+   "slug": "epistemic-utility",
+   "section": "S",
+   "upstream_letter": "E",
+   "level": 0
+  }
+ ],
+ "D3": {
+  "A": {
+   "summary_n": 240,
+   "upstream_n": 233,
+   "lcs": 206,
+   "drift": [
+    {
+     "kind": "alias",
+     "slug": "essential-accidental"
+    },
+    {
+     "kind": "normal",
+     "slug": "action"
+    },
+    {
+     "kind": "normal",
+     "slug": "aristotle-de-motu"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "arabic-islamic-essence"
+    },
+    {
+     "kind": "normal",
+     "slug": "aesthetics-critical-theory"
+    },
+    {
+     "kind": "normal",
+     "slug": "aesthetics-race"
+    },
+    {
+     "kind": "normal",
+     "slug": "aristotle-text"
+    },
+    {
+     "kind": "normal",
+     "slug": "africana"
+    },
+    {
+     "kind": "normal",
+     "slug": "agency"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "al-farabi"
+    },
+    {
+     "kind": "normal",
+     "slug": "altruism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "aquinas"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "lawphil-naturalism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "aristotle-commentators"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "epistemology-ai"
+    },
+    {
+     "kind": "normal",
+     "slug": "artificial-intelligence"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "authority"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "ibn-rushd"
+    },
+    {
+     "kind": "alias",
+     "slug": "ibn-sina"
+    }
+   ]
+  },
+  "B": {
+   "summary_n": 98,
+   "upstream_n": 91,
+   "lcs": 83,
+   "drift": [
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "time"
+    },
+    {
+     "kind": "normal",
+     "slug": "belief"
+    },
+    {
+     "kind": "normal",
+     "slug": "bioethics-latin-america"
+    },
+    {
+     "kind": "normal",
+     "slug": "biodiversity"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "bolzano"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "bradley"
+    },
+    {
+     "kind": "normal",
+     "slug": "branching-time"
+    },
+    {
+     "kind": "normal",
+     "slug": "brentano"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "scottish-19th"
+    }
+   ]
+  },
+  "C": {
+   "summary_n": 238,
+   "upstream_n": 230,
+   "lcs": 211,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "categories"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "moral-character"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "chinese-painting-calligraphy"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "collingwood"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "computational-linguistics"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "conditionals"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "conscience"
+    },
+    {
+     "kind": "normal",
+     "slug": "consciousness"
+    },
+    {
+     "kind": "normal",
+     "slug": "consequentialism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "continental-rationalism"
+    },
+    {
+     "kind": "normal",
+     "slug": "convention"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "culture"
+    }
+   ]
+  },
+  "D": {
+   "summary_n": 139,
+   "upstream_n": 134,
+   "lcs": 121,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "daoism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "death"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "decision-theory"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "democracy"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "descartes"
+    },
+    {
+     "kind": "normal",
+     "slug": "pineal-gland"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "biology-developmental"
+    },
+    {
+     "kind": "normal",
+     "slug": "dewey"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "disagreement"
+    },
+    {
+     "kind": "alias",
+     "slug": "justice-distributive"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "E": {
+   "summary_n": 159,
+   "upstream_n": 158,
+   "lcs": 139,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "ecology"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "emotion"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "rationalism-empiricism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "epistemology"
+    },
+    {
+     "kind": "normal",
+     "slug": "equality"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "evidence"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "evolution"
+    },
+    {
+     "kind": "alias",
+     "slug": "aesthetics-existentialist"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "scientific-realism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "F": {
+   "summary_n": 115,
+   "upstream_n": 109,
+   "lcs": 104,
+   "drift": [
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "fiction"
+    },
+    {
+     "kind": "normal",
+     "slug": "fictionalism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "freewill"
+    },
+    {
+     "kind": "normal",
+     "slug": "frege"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "G": {
+   "summary_n": 74,
+   "upstream_n": 66,
+   "lcs": 61,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "gadamer"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "game-theory"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "genetics"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "goedel"
+    },
+    {
+     "kind": "normal",
+     "slug": "goodman"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "H": {
+   "summary_n": 79,
+   "upstream_n": 78,
+   "lcs": 71,
+   "drift": [
+    {
+     "kind": "alias",
+     "slug": "substance"
+    },
+    {
+     "kind": "normal",
+     "slug": "hegel"
+    },
+    {
+     "kind": "normal",
+     "slug": "heidegger"
+    },
+    {
+     "kind": "normal",
+     "slug": "heritability"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "hobbes"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "hume"
+    }
+   ]
+  },
+  "I": {
+   "summary_n": 114,
+   "upstream_n": 110,
+   "lcs": 98,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "ibn-rushd"
+    },
+    {
+     "kind": "normal",
+     "slug": "ibn-sina"
+    },
+    {
+     "kind": "normal",
+     "slug": "ibn-taymiyya"
+    },
+    {
+     "kind": "normal",
+     "slug": "identity"
+    },
+    {
+     "kind": "normal",
+     "slug": "ideology"
+    },
+    {
+     "kind": "normal",
+     "slug": "implicature"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "information"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "intentionality"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "logic-intuitionistic"
+    }
+   ]
+  },
+  "J": {
+   "summary_n": 53,
+   "upstream_n": 48,
+   "lcs": 45,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "john-italos"
+    },
+    {
+     "kind": "normal",
+     "slug": "japanese-philosophy"
+    },
+    {
+     "kind": "normal",
+     "slug": "korean-buddhism"
+    },
+    {
+     "kind": "normal",
+     "slug": "experimental-jurisprudence"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "justice"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "K": {
+   "summary_n": 39,
+   "upstream_n": 39,
+   "lcs": 35,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "kant"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "value-pluralism"
+    },
+    {
+     "kind": "normal",
+     "slug": "korean-philosophy"
+    }
+   ]
+  },
+  "L": {
+   "summary_n": 179,
+   "upstream_n": 170,
+   "lcs": 155,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "latin-american-philosophy"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "laws-of-nature"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "leibniz"
+    },
+    {
+     "kind": "normal",
+     "slug": "leibniz-causation"
+    },
+    {
+     "kind": "normal",
+     "slug": "modality-medieval"
+    },
+    {
+     "kind": "normal",
+     "slug": "lewis-metaphysics"
+    },
+    {
+     "kind": "normal",
+     "slug": "liberalism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "life"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "locke"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "information-biological"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "logic-normative"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "logical-consequence"
+    },
+    {
+     "kind": "normal",
+     "slug": "logic-ontology"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "luther"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "M": {
+   "summary_n": 227,
+   "upstream_n": 217,
+   "lcs": 194,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "maimonides"
+    },
+    {
+     "kind": "normal",
+     "slug": "malebranche"
+    },
+    {
+     "kind": "normal",
+     "slug": "mally-deontic"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "physicalism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "philosophy-mathematics"
+    },
+    {
+     "kind": "normal",
+     "slug": "naturalism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "medieval-philosophy"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "memory"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "mental-representation"
+    },
+    {
+     "kind": "normal",
+     "slug": "mereology"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "mill"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "logic-modal"
+    },
+    {
+     "kind": "normal",
+     "slug": "model-theory"
+    },
+    {
+     "kind": "normal",
+     "slug": "monism"
+    },
+    {
+     "kind": "normal",
+     "slug": "moore"
+    },
+    {
+     "kind": "normal",
+     "slug": "moral-epistemology"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "moral-particularism"
+    },
+    {
+     "kind": "normal",
+     "slug": "moral-responsibility"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "disagreement-moral"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "N": {
+   "summary_n": 68,
+   "upstream_n": 66,
+   "lcs": 58,
+   "drift": [
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "natural-selection"
+    },
+    {
+     "kind": "normal",
+     "slug": "lawphil-nature"
+    },
+    {
+     "kind": "normal",
+     "slug": "newton"
+    },
+    {
+     "kind": "normal",
+     "slug": "nietzsche-aesthetics"
+    },
+    {
+     "kind": "normal",
+     "slug": "nietzsche"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "O": {
+   "summary_n": 33,
+   "upstream_n": 29,
+   "lcs": 28,
+   "drift": [
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "ontology-is"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "P": {
+   "summary_n": 213,
+   "upstream_n": 201,
+   "lcs": 187,
+   "drift": [
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "paradox-of-tragedy"
+    },
+    {
+     "kind": "normal",
+     "slug": "peirce"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "identity-personal"
+    },
+    {
+     "kind": "normal",
+     "slug": "phenomenology"
+    },
+    {
+     "kind": "normal",
+     "slug": "philanthropy"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "mathematics-explanation"
+    },
+    {
+     "kind": "normal",
+     "slug": "mathematical-practice"
+    },
+    {
+     "kind": "normal",
+     "slug": "plato"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "practical-reason"
+    },
+    {
+     "kind": "normal",
+     "slug": "pragmatics"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "principia-mathematica"
+    },
+    {
+     "kind": "normal",
+     "slug": "privacy"
+    },
+    {
+     "kind": "normal",
+     "slug": "proof-theory"
+    },
+    {
+     "kind": "normal",
+     "slug": "properties"
+    },
+    {
+     "kind": "normal",
+     "slug": "utilitarianism-history"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "propositions"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "Q": {
+   "summary_n": 38,
+   "upstream_n": 36,
+   "lcs": 33,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "qualia"
+    },
+    {
+     "kind": "normal",
+     "slug": "qm"
+    },
+    {
+     "kind": "normal",
+     "slug": "qm-action-distance"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "quine"
+    }
+   ]
+  },
+  "R": {
+   "summary_n": 124,
+   "upstream_n": 121,
+   "lcs": 105,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "race"
+    },
+    {
+     "kind": "normal",
+     "slug": "ramsey"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "realism"
+    },
+    {
+     "kind": "alias",
+     "slug": "disagreement-moral"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "scientific-reduction"
+    },
+    {
+     "kind": "normal",
+     "slug": "reichenbach"
+    },
+    {
+     "kind": "normal",
+     "slug": "reid"
+    },
+    {
+     "kind": "normal",
+     "slug": "relations"
+    },
+    {
+     "kind": "normal",
+     "slug": "relativism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "rights"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "russell"
+    }
+   ]
+  },
+  "S": {
+   "summary_n": 217,
+   "upstream_n": 205,
+   "lcs": 190,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "schopenhauer"
+    },
+    {
+     "kind": "normal",
+     "slug": "economic-democracy"
+    },
+    {
+     "kind": "normal",
+     "slug": "scientific-explanation"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "scientific-realism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "self-consciousness"
+    },
+    {
+     "kind": "normal",
+     "slug": "epistemic-utility"
+    },
+    {
+     "kind": "normal",
+     "slug": "self-knowledge"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "set-theory"
+    },
+    {
+     "kind": "normal",
+     "slug": "shaftesbury"
+    },
+    {
+     "kind": "normal",
+     "slug": "simplicity"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "skepticism"
+    },
+    {
+     "kind": "alias",
+     "slug": "disagreement-moral"
+    },
+    {
+     "kind": "alias",
+     "slug": "scottish-18th"
+    },
+    {
+     "kind": "alias",
+     "slug": "contractarianism"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "spinoza"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "supervenience"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  },
+  "T": {
+   "summary_n": 93,
+   "upstream_n": 91,
+   "lcs": 81,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "tarski"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "theodicies"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "time"
+    },
+    {
+     "kind": "normal",
+     "slug": "time-experience"
+    },
+    {
+     "kind": "normal",
+     "slug": "time-travel"
+    },
+    {
+     "kind": "normal",
+     "slug": "transcendental-arguments"
+    },
+    {
+     "kind": "normal",
+     "slug": "truth"
+    },
+    {
+     "kind": "normal",
+     "slug": "type-theory"
+    }
+   ]
+  },
+  "U": {
+   "summary_n": 13,
+   "upstream_n": 13,
+   "lcs": 10,
+   "drift": [
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "properties"
+    },
+    {
+     "kind": "alias",
+     "slug": "consequentialism"
+    }
+   ]
+  },
+  "V": {
+   "summary_n": 28,
+   "upstream_n": 28,
+   "lcs": 24,
+   "drift": [
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "alias",
+     "slug": "shaaban-robert-ethics"
+    },
+    {
+     "kind": "normal",
+     "slug": "voting"
+    }
+   ]
+  },
+  "W": {
+   "summary_n": 43,
+   "upstream_n": 41,
+   "lcs": 38,
+   "drift": [
+    {
+     "kind": "alias",
+     "slug": "economic-justice"
+    },
+    {
+     "kind": "normal",
+     "slug": "wisdom"
+    },
+    {
+     "kind": "normal",
+     "slug": "wittgenstein"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    },
+    {
+     "kind": "normal",
+     "slug": "wyclif-political"
+    }
+   ]
+  },
+  "X": {
+   "summary_n": 3,
+   "upstream_n": 3,
+   "lcs": 3,
+   "drift": []
+  },
+  "Y": {
+   "summary_n": 2,
+   "upstream_n": 2,
+   "lcs": 2,
+   "drift": []
+  },
+  "Z": {
+   "summary_n": 8,
+   "upstream_n": 7,
+   "lcs": 6,
+   "drift": [
+    {
+     "kind": "normal",
+     "slug": "zeno-elea"
+    },
+    {
+     "kind": "placeholder",
+     "slug": "README"
+    }
+   ]
+  }
+ }
+}
