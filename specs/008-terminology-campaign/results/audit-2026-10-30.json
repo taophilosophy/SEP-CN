@@ -6,8 +6,8 @@
   "youdao-aux"
  ],
  "counts": {
-  "一致": 165,
-  "查无": 134,
+  "一致": 171,
+  "查无": 149,
   "不一致": 34
  },
  "results": [
@@ -149,6 +149,37 @@
   {
    "table": "术语",
    "line": 17,
+   "term": "aesthetic judgments",
+   "trans": "审美判断（康德语境；aesthetic judgment 单数同）",
+   "basis": "学界惯例（美学/康德译本通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "审美判断",
+     "en": "aesthetic judgment",
+     "source": "医学美学与美容医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "医学审美判断",
+     "en": "medical aesthetic judgment",
+     "source": "医学美学与美容医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "医学审美判断",
+     "en": "medical aesthetic judgment",
+     "source": "医学名词 第七分册"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 18,
    "term": "agnosticism",
    "trans": "不可知论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -181,7 +212,7 @@
   },
   {
    "table": "术语",
-   "line": 18,
+   "line": 19,
    "term": "altruism",
    "trans": "利他主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -298,7 +329,7 @@
   },
   {
    "table": "术语",
-   "line": 19,
+   "line": 20,
    "term": "ampliative (inference)",
    "trans": "扩展（推理）／扩展性",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -310,7 +341,7 @@
   },
   {
    "table": "术语",
-   "line": 20,
+   "line": 21,
    "term": "anarchism",
    "trans": "无政府主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -367,7 +398,7 @@
   },
   {
    "table": "术语",
-   "line": 21,
+   "line": 22,
    "term": "ancient philosophy",
    "trans": "古代哲学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -394,7 +425,7 @@
   },
   {
    "table": "术语",
-   "line": 22,
+   "line": 23,
    "term": "anomalous monism",
    "trans": "变异一元论（亦作“异常一元论”）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -421,7 +452,7 @@
   },
   {
    "table": "术语",
-   "line": 23,
+   "line": 24,
    "term": "antirealism",
    "trans": "反实在论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -435,7 +466,7 @@
   },
   {
    "table": "术语",
-   "line": 24,
+   "line": 25,
    "term": "aphanes",
    "trans": "不可知觉的东西",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -449,7 +480,7 @@
   },
   {
    "table": "术语",
-   "line": 25,
+   "line": 26,
    "term": "argument of the bad lot",
    "trans": "坏堆论证（bad lot；best of a bad lot 坏堆中的最佳）",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -461,7 +492,7 @@
   },
   {
    "table": "术语",
-   "line": 26,
+   "line": 27,
    "term": "Aristotelianism",
    "trans": "亚里士多德主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -482,7 +513,7 @@
   },
   {
    "table": "术语",
-   "line": 27,
+   "line": 28,
    "term": "atheism",
    "trans": "无神论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -527,7 +558,7 @@
   },
   {
    "table": "术语",
-   "line": 28,
+   "line": 29,
    "term": "bayes rule",
    "trans": "贝叶斯法则（亦作“贝叶斯规则”）",
    "basis": "审定名词库（termonline-all·经济学名词，2026-10-29 浏览器通道凭证）",
@@ -590,7 +621,7 @@
   },
   {
    "table": "术语",
-   "line": 29,
+   "line": 30,
    "term": "bayesian confirmation theory",
    "trans": "贝叶斯验证理论（亦作“贝叶斯确证理论”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -611,7 +642,7 @@
   },
   {
    "table": "术语",
-   "line": 30,
+   "line": 31,
    "term": "Bayesianism",
    "trans": "贝叶斯主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -632,7 +663,7 @@
   },
   {
    "table": "术语",
-   "line": 31,
+   "line": 32,
    "term": "Bell inequalities",
    "trans": "贝尔不等式",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -653,7 +684,7 @@
   },
   {
    "table": "术语",
-   "line": 32,
+   "line": 33,
    "term": "bell inequality",
    "trans": "贝尔不等式",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -692,7 +723,7 @@
   },
   {
    "table": "术语",
-   "line": 33,
+   "line": 34,
    "term": "Bell theorem",
    "trans": "贝尔定理",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -706,7 +737,7 @@
   },
   {
    "table": "术语",
-   "line": 34,
+   "line": 35,
    "term": "Buddhism",
    "trans": "佛教",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -781,7 +812,7 @@
   },
   {
    "table": "术语",
-   "line": 35,
+   "line": 36,
    "term": "Capitalism",
    "trans": "资本主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -838,7 +869,7 @@
   },
   {
    "table": "术语",
-   "line": 36,
+   "line": 37,
    "term": "causal explanation",
    "trans": "因果说明",
    "basis": "审定名词库（termonline-all·自然辩证法名词“因果说明的可操控性观念”复合词佐证，2026-10-29 浏览器通道凭证）",
@@ -857,7 +888,7 @@
   },
   {
    "table": "术语",
-   "line": 37,
+   "line": 38,
    "term": "categorical imperative",
    "trans": "定言命令（康德；亦作“绝对命令”）",
    "basis": "学界惯例（康德译本通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -869,7 +900,7 @@
   },
   {
    "table": "术语",
-   "line": 38,
+   "line": 39,
    "term": "Chancellor",
    "trans": "总务长",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -902,7 +933,7 @@
   },
   {
    "table": "术语",
-   "line": 39,
+   "line": 40,
    "term": "chinese philosophy",
    "trans": "中国哲学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -941,7 +972,7 @@
   },
   {
    "table": "术语",
-   "line": 40,
+   "line": 41,
    "term": "CHSH inequality",
    "trans": "CHSH 不等式",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -955,7 +986,7 @@
   },
   {
    "table": "术语",
-   "line": 41,
+   "line": 42,
    "term": "classical first-order logic",
    "trans": "经典一阶逻辑",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -969,7 +1000,7 @@
   },
   {
    "table": "术语",
-   "line": 42,
+   "line": 43,
    "term": "classical logic",
    "trans": "经典逻辑",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1026,7 +1057,7 @@
   },
   {
    "table": "术语",
-   "line": 43,
+   "line": 44,
    "term": "cognitivism",
    "trans": "认知主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1065,7 +1096,7 @@
   },
   {
    "table": "术语",
-   "line": 44,
+   "line": 45,
    "term": "colonialism",
    "trans": "殖民主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1122,7 +1153,7 @@
   },
   {
    "table": "术语",
-   "line": 45,
+   "line": 46,
    "term": "common cause principle",
    "trans": "共因原理（亦作“共因原则”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -1143,7 +1174,7 @@
   },
   {
    "table": "术语",
-   "line": 46,
+   "line": 47,
    "term": "conditional probabilities",
    "trans": "条件概率",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -1157,7 +1188,7 @@
   },
   {
    "table": "术语",
-   "line": 47,
+   "line": 48,
    "term": "conscious experience",
    "trans": "意识经验",
    "basis": "学界惯例（心灵哲学通行）；审定库无直接收录（凭证 2026-10-29）；审定库命中医学域“意识性体验”不采（凭证 2026-10-29）",
@@ -1176,7 +1207,7 @@
   },
   {
    "table": "术语",
-   "line": 48,
+   "line": 49,
    "term": "confirmation theory",
    "trans": "确证理论",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -1203,7 +1234,7 @@
   },
   {
    "table": "术语",
-   "line": 49,
+   "line": 50,
    "term": "conformality theory",
    "trans": "符合论（与相似论 resemblance theory 相对）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -1215,7 +1246,7 @@
   },
   {
    "table": "术语",
-   "line": 50,
+   "line": 51,
    "term": "Confucianism",
    "trans": "儒家思想",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1272,7 +1303,7 @@
   },
   {
    "table": "术语",
-   "line": 51,
+   "line": 52,
    "term": "connectionism",
    "trans": "联结主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1389,7 +1420,7 @@
   },
   {
    "table": "术语",
-   "line": 52,
+   "line": 53,
    "term": "consequentialism",
    "trans": "后果论（亦作“后果主义”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -1422,7 +1453,7 @@
   },
   {
    "table": "术语",
-   "line": 53,
+   "line": 54,
    "term": "conservatism",
    "trans": "保守主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1515,7 +1546,7 @@
   },
   {
    "table": "术语",
-   "line": 54,
+   "line": 55,
    "term": "Constitution",
    "trans": "构成；构造；宪法（按语境：康德构成、胡塞尔 Konstitution 构造、政治宪法）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1650,7 +1681,7 @@
   },
   {
    "table": "术语",
-   "line": 55,
+   "line": 56,
    "term": "constructivism",
    "trans": "构造主义；建构主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1743,7 +1774,7 @@
   },
   {
    "table": "术语",
-   "line": 56,
+   "line": 57,
    "term": "contextualism",
    "trans": "语境主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1800,7 +1831,7 @@
   },
   {
    "table": "术语",
-   "line": 57,
+   "line": 58,
    "term": "Darwinism",
    "trans": "达尔文主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1935,7 +1966,7 @@
   },
   {
    "table": "术语",
-   "line": 58,
+   "line": 59,
    "term": "deductive system",
    "trans": "演绎系统",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -1962,7 +1993,7 @@
   },
   {
    "table": "术语",
-   "line": 59,
+   "line": 60,
    "term": "denumerably infinite",
    "trans": "可数无穷",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -1983,7 +2014,7 @@
   },
   {
    "table": "术语",
-   "line": 60,
+   "line": 61,
    "term": "determinism",
    "trans": "决定论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2052,7 +2083,7 @@
   },
   {
    "table": "术语",
-   "line": 61,
+   "line": 62,
    "term": "dialetheism",
    "trans": "双面真理论",
    "basis": "B 档联网核查（2026-10-27）；008 战役复核",
@@ -2066,7 +2097,7 @@
   },
   {
    "table": "术语",
-   "line": 62,
+   "line": 63,
    "term": "difference principle",
    "trans": "差别原则（罗尔斯）",
    "basis": "学界惯例（《正义论》译本通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -2078,7 +2109,7 @@
   },
   {
    "table": "术语",
-   "line": 63,
+   "line": 64,
    "term": "dictum (Abelard)",
    "trans": "所言（阿伯拉尔）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -2103,7 +2134,7 @@
   },
   {
    "table": "术语",
-   "line": 64,
+   "line": 65,
    "term": "diffeomorphism",
    "trans": "微分同胚",
    "basis": "A 档（学界通行译名）",
@@ -2135,7 +2166,7 @@
   },
   {
    "table": "术语",
-   "line": 65,
+   "line": 66,
    "term": "direct reference",
    "trans": "直接指称",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -2160,7 +2191,7 @@
   },
   {
    "table": "术语",
-   "line": 66,
+   "line": 67,
    "term": "dogmatism",
    "trans": "独断论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2211,7 +2242,7 @@
   },
   {
    "table": "术语",
-   "line": 67,
+   "line": 68,
    "term": "doxographical tradition / doxography",
    "trans": "学说史传统／学说汇编",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -2225,7 +2256,7 @@
   },
   {
    "table": "术语",
-   "line": 68,
+   "line": 69,
    "term": "dualism",
    "trans": "二元论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2342,7 +2373,7 @@
   },
   {
    "table": "术语",
-   "line": 69,
+   "line": 70,
    "term": "Dutch book (argument)",
    "trans": "大弃赌论证（亦作“荷兰赌（论证）”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -2361,7 +2392,7 @@
   },
   {
    "table": "术语",
-   "line": 70,
+   "line": 71,
    "term": "early modern",
    "trans": "近代早期",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2388,7 +2419,7 @@
   },
   {
    "table": "术语",
-   "line": 71,
+   "line": 72,
    "term": "efficient cause",
    "trans": "动力因（亚氏四因之一；亦作“致动因”）",
    "basis": "学界惯例（亚氏四因通行译名）；审定库无直接收录（凭证 2026-10-29）；佐证审定库同系列“质料因/形式因”（凭证 2026-10-29）",
@@ -2400,7 +2431,38 @@
   },
   {
    "table": "术语",
-   "line": 72,
+   "line": 73,
+   "term": "empty set",
+   "trans": "空集",
+   "basis": "审定名词库（termonline-all·数学名词，2026-10-30 浏览器通道凭证）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "空集",
+     "en": "empty set",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空集",
+     "en": "empty set",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "空集",
+     "en": "empty set",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 74,
    "term": "egalitarianism",
    "trans": "平等主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2433,7 +2495,7 @@
   },
   {
    "table": "术语",
-   "line": 73,
+   "line": 75,
    "term": "empirical equivalence",
    "trans": "经验等价性（亦作“经验等价”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -2452,7 +2514,7 @@
   },
   {
    "table": "术语",
-   "line": 74,
+   "line": 76,
    "term": "empirically equivalent",
    "trans": "经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -2473,7 +2535,7 @@
   },
   {
    "table": "术语",
-   "line": 75,
+   "line": 77,
    "term": "empiricism",
    "trans": "经验主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2542,7 +2604,19 @@
   },
   {
    "table": "术语",
-   "line": 76,
+   "line": 78,
+   "term": "epistemic injustice",
+   "trans": "认知不义（亦作“认知不公正”）",
+   "basis": "学界惯例（Fricker 中译《认知不义》）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 79,
    "term": "epistemology of belief / of degrees of belief",
    "trans": "信念的认识论／信念度的认识论",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -2561,7 +2635,7 @@
   },
   {
    "table": "术语",
-   "line": 77,
+   "line": 80,
    "term": "Essentialism",
    "trans": "本质主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2642,7 +2716,19 @@
   },
   {
    "table": "术语",
-   "line": 78,
+   "line": 81,
+   "term": "eternal truths",
+   "trans": "永恒真理（笛卡尔/莱布尼茨语境）",
+   "basis": "学界惯例（近代理性论文献通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 82,
    "term": "explanationism",
    "trans": "解释主义（explanationist 解释主义者）",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -2654,7 +2740,7 @@
   },
   {
    "table": "术语",
-   "line": 79,
+   "line": 83,
    "term": "externalism",
    "trans": "外在主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2699,7 +2785,7 @@
   },
   {
    "table": "术语",
-   "line": 80,
+   "line": 84,
    "term": "fatalism",
    "trans": "宿命论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2744,7 +2830,7 @@
   },
   {
    "table": "术语",
-   "line": 81,
+   "line": 85,
    "term": "feminism",
    "trans": "女性主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2843,7 +2929,7 @@
   },
   {
    "table": "术语",
-   "line": 82,
+   "line": 86,
    "term": "fictionalism",
    "trans": "虚构主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2876,7 +2962,7 @@
   },
   {
    "table": "术语",
-   "line": 83,
+   "line": 87,
    "term": "formal language",
    "trans": "形式语言",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -2987,7 +3073,7 @@
   },
   {
    "table": "术语",
-   "line": 84,
+   "line": 88,
    "term": "formalism",
    "trans": "形式主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3116,7 +3202,7 @@
   },
   {
    "table": "术语",
-   "line": 85,
+   "line": 89,
    "term": "formal logic",
    "trans": "形式逻辑",
    "basis": "学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -3128,7 +3214,7 @@
   },
   {
    "table": "术语",
-   "line": 86,
+   "line": 90,
    "term": "foundationalism",
    "trans": "基础主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3167,7 +3253,7 @@
   },
   {
    "table": "术语",
-   "line": 87,
+   "line": 91,
    "term": "free speech",
    "trans": "言论自由",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3200,7 +3286,7 @@
   },
   {
    "table": "术语",
-   "line": 88,
+   "line": 92,
    "term": "free variables",
    "trans": "自由变元",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3227,7 +3313,7 @@
   },
   {
    "table": "术语",
-   "line": 89,
+   "line": 93,
    "term": "functionalism",
    "trans": "功能主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3338,7 +3424,7 @@
   },
   {
    "table": "术语",
-   "line": 90,
+   "line": 94,
    "term": "gauge freedom",
    "trans": "规范自由度",
    "basis": "A 档（学界通行译名）",
@@ -3351,7 +3437,7 @@
   },
   {
    "table": "术语",
-   "line": 91,
+   "line": 95,
    "term": "gauge transformation",
    "trans": "规范变换",
    "basis": "A 档（学界通行译名）",
@@ -3419,7 +3505,7 @@
   },
   {
    "table": "术语",
-   "line": 92,
+   "line": 96,
    "term": "general covariance",
    "trans": "广义协变性",
    "basis": "A 档（学界通行译名）",
@@ -3463,7 +3549,7 @@
   },
   {
    "table": "术语",
-   "line": 93,
+   "line": 97,
    "term": "german philosophy",
    "trans": "德国哲学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -3496,7 +3582,7 @@
   },
   {
    "table": "术语",
-   "line": 94,
+   "line": 98,
    "term": "hedonism",
    "trans": "快乐主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3529,7 +3615,7 @@
   },
   {
    "table": "术语",
-   "line": 95,
+   "line": 99,
    "term": "hidden variables",
    "trans": "隐变量",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3592,7 +3678,7 @@
   },
   {
    "table": "术语",
-   "line": 96,
+   "line": 100,
    "term": "Hilbert space",
    "trans": "希尔伯特空间",
    "basis": "审定名词库（termonline-all·物理学名词，2026-10-29 浏览器通道凭证）",
@@ -3641,7 +3727,7 @@
   },
   {
    "table": "术语",
-   "line": 97,
+   "line": 101,
    "term": "hole argument",
    "trans": "空穴论证",
    "basis": "发布表 ci-hui-biao 既有裁定（广义相对论哲学语境，亦译“空洞论证”）",
@@ -3654,7 +3740,7 @@
   },
   {
    "table": "术语",
-   "line": 98,
+   "line": 102,
    "term": "hole transformation",
    "trans": "洞变换",
    "basis": "B 档（随词条语境，与 hole argument 复合同源）",
@@ -3667,7 +3753,7 @@
   },
   {
    "table": "术语",
-   "line": 99,
+   "line": 103,
    "term": "human action",
    "trans": "人类行动（action 哲学语境定译“行动”）",
    "basis": "学界惯例（行动哲学通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -3679,7 +3765,32 @@
   },
   {
    "table": "术语",
-   "line": 100,
+   "line": 104,
+   "term": "human agency",
+   "trans": "人类能动性",
+   "basis": "审定名词库（termonline-all·“人类能动性”在案（域标地理学，哲学通行同形），2026-10-30 浏览器通道凭证）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "人类能动性",
+     "en": "human agency",
+     "source": "地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "人类能动性",
+     "en": "human agency",
+     "source": "海峡两岸地理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 105,
    "term": "humanism",
    "trans": "人文主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3772,7 +3883,7 @@
   },
   {
    "table": "术语",
-   "line": 101,
+   "line": 106,
    "term": "idealism",
    "trans": "唯心论；观念论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3853,7 +3964,7 @@
   },
   {
    "table": "术语",
-   "line": 102,
+   "line": 107,
    "term": "individualism",
    "trans": "个人主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3946,7 +4057,7 @@
   },
   {
    "table": "术语",
-   "line": 103,
+   "line": 108,
    "term": "induction hypothesis",
    "trans": "归纳假设",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -3973,7 +4084,7 @@
   },
   {
    "table": "术语",
-   "line": 104,
+   "line": 109,
    "term": "infinite regress",
    "trans": "无穷倒退（亦作“无限倒退”）",
    "basis": "学界惯例（形而上学通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -3985,7 +4096,7 @@
   },
   {
    "table": "术语",
-   "line": 105,
+   "line": 110,
    "term": "Inference to the Best Explanation",
    "trans": "最佳说明推理（亦作“最佳解释推理”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -4006,7 +4117,7 @@
   },
   {
    "table": "术语",
-   "line": 106,
+   "line": 111,
    "term": "Inference to the Worst Explanation (IWE)",
    "trans": "最差解释推理",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -4018,7 +4129,7 @@
   },
   {
    "table": "术语",
-   "line": 107,
+   "line": 112,
    "term": "informed consent",
    "trans": "知情同意",
    "basis": "审定名词库（termonline-all·自然辩证法名词·科技伦理，2026-10-29 浏览器通道凭证）",
@@ -4139,7 +4250,19 @@
   },
   {
    "table": "术语",
-   "line": 108,
+   "line": 113,
+   "term": "innate knowledge",
+   "trans": "先天知识（亦作“天赋知识”）",
+   "basis": "学界惯例（古希腊/近代理性论文献通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 114,
    "term": "institutional neutrality",
    "trans": "机构中立",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4153,7 +4276,7 @@
   },
   {
    "table": "术语",
-   "line": 109,
+   "line": 115,
    "term": "intentional states",
    "trans": "意向状态",
    "basis": "审定名词库（termonline-all·intentional state 单数形在案，2026-10-29 浏览器通道凭证）",
@@ -4172,7 +4295,7 @@
   },
   {
    "table": "术语",
-   "line": 110,
+   "line": 116,
    "term": "instrumentalism",
    "trans": "工具主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4229,7 +4352,7 @@
   },
   {
    "table": "术语",
-   "line": 111,
+   "line": 117,
    "term": "integral wholes",
    "trans": "整全整体",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -4248,7 +4371,7 @@
   },
   {
    "table": "术语",
-   "line": 112,
+   "line": 118,
    "term": "intellectualism",
    "trans": "理智主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4299,7 +4422,7 @@
   },
   {
    "table": "术语",
-   "line": 113,
+   "line": 119,
    "term": "internalism",
    "trans": "内在主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4320,7 +4443,7 @@
   },
   {
    "table": "术语",
-   "line": 114,
+   "line": 120,
    "term": "intuitionism",
    "trans": "直觉主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4377,7 +4500,7 @@
   },
   {
    "table": "术语",
-   "line": 115,
+   "line": 121,
    "term": "intuitionistic logic",
    "trans": "直觉主义逻辑",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4422,7 +4545,7 @@
   },
   {
    "table": "术语",
-   "line": 116,
+   "line": 122,
    "term": "irrealism",
    "trans": "非实在论",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -4434,7 +4557,7 @@
   },
   {
    "table": "术语",
-   "line": 117,
+   "line": 123,
    "term": "isomorphism",
    "trans": "同构",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4617,7 +4740,7 @@
   },
   {
    "table": "术语",
-   "line": 118,
+   "line": 124,
    "term": "isonomia",
    "trans": "平等（政治隐喻中指各种力量的均等）",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4631,7 +4754,7 @@
   },
   {
    "table": "术语",
-   "line": 119,
+   "line": 125,
    "term": "ius ubique docendi",
    "trans": "普遍教学权",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4645,7 +4768,7 @@
   },
   {
    "table": "术语",
-   "line": 120,
+   "line": 126,
    "term": "Judaism",
    "trans": "犹太教",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4690,7 +4813,7 @@
   },
   {
    "table": "术语",
-   "line": 121,
+   "line": 127,
    "term": "Kantianism",
    "trans": "康德主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4723,7 +4846,7 @@
   },
   {
    "table": "术语",
-   "line": 122,
+   "line": 128,
    "term": "kenon",
    "trans": "空腔",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4737,7 +4860,7 @@
   },
   {
    "table": "术语",
-   "line": 123,
+   "line": 129,
    "term": "Lehrfreiheit",
    "trans": "教学自由",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4751,7 +4874,7 @@
   },
   {
    "table": "术语",
-   "line": 124,
+   "line": 130,
    "term": "Leibniz Equivalence",
    "trans": "莱布尼茨等价",
    "basis": "B 档（学界通行译名）",
@@ -4764,7 +4887,7 @@
   },
   {
    "table": "术语",
-   "line": 125,
+   "line": 131,
    "term": "Leibnizian-Wolffian",
    "trans": "莱布尼茨—沃尔夫学派的",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4778,7 +4901,7 @@
   },
   {
    "table": "术语",
-   "line": 126,
+   "line": 132,
    "term": "Lernfreiheit",
    "trans": "学习自由",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4792,7 +4915,7 @@
   },
   {
    "table": "术语",
-   "line": 127,
+   "line": 133,
    "term": "liberalism",
    "trans": "自由主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -4819,7 +4942,7 @@
   },
   {
    "table": "术语",
-   "line": 128,
+   "line": 134,
    "term": "Libertas philosophandi",
    "trans": "哲学思考自由",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4833,7 +4956,7 @@
   },
   {
    "table": "术语",
-   "line": 129,
+   "line": 135,
    "term": "logical constants",
    "trans": "逻辑常项",
    "basis": "学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -4845,7 +4968,7 @@
   },
   {
    "table": "术语",
-   "line": 130,
+   "line": 136,
    "term": "Lutheranism",
    "trans": "路德宗",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -4866,7 +4989,7 @@
   },
   {
    "table": "术语",
-   "line": 131,
+   "line": 137,
    "term": "Magna Charta Universitatum",
    "trans": "《大学大宪章》",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -4880,7 +5003,7 @@
   },
   {
    "table": "术语",
-   "line": 132,
+   "line": 138,
    "term": "manifold",
    "trans": "流形",
    "basis": "A 档（数学界通行译名）",
@@ -4996,7 +5119,7 @@
   },
   {
    "table": "术语",
-   "line": 133,
+   "line": 139,
    "term": "manifold of events",
    "trans": "事件流形",
    "basis": "B 档（manifold 通行译名 + 词条语境）",
@@ -5009,7 +5132,7 @@
   },
   {
    "table": "术语",
-   "line": 134,
+   "line": 140,
    "term": "Marxism",
    "trans": "马克思主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -5060,7 +5183,7 @@
   },
   {
    "table": "术语",
-   "line": 135,
+   "line": 141,
    "term": "materialism",
    "trans": "物质主义；唯物论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -5123,7 +5246,7 @@
   },
   {
    "table": "术语",
-   "line": 136,
+   "line": 142,
    "term": "mathematical logic",
    "trans": "数理逻辑",
    "basis": "审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证）",
@@ -5154,7 +5277,7 @@
   },
   {
    "table": "术语",
-   "line": 137,
+   "line": 143,
    "term": "matter field",
    "trans": "物质场",
    "basis": "A 档（物理学通行译名）",
@@ -5174,7 +5297,7 @@
   },
   {
    "table": "术语",
-   "line": 138,
+   "line": 144,
    "term": "mechanism",
    "trans": "机械论",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -5291,7 +5414,7 @@
   },
   {
    "table": "术语",
-   "line": 139,
+   "line": 145,
    "term": "mental content",
    "trans": "心理内容",
    "basis": "审定名词库（termonline-all·自然辩证法名词·科学哲学，2026-10-29 浏览器通道凭证）",
@@ -5310,7 +5433,7 @@
   },
   {
    "table": "术语",
-   "line": 140,
+   "line": 146,
    "term": "mental events",
    "trans": "心理事件（戴维森语境）",
    "basis": "学界惯例（心灵哲学通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -5329,7 +5452,19 @@
   },
   {
    "table": "术语",
-   "line": 141,
+   "line": 147,
+   "term": "mental processes",
+   "trans": "心理过程",
+   "basis": "学界惯例（心灵哲学通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 148,
    "term": "metric",
    "trans": "度规",
    "basis": "A 档（物理学通行译名，“度规”优于“度量”）",
@@ -5427,7 +5562,7 @@
   },
   {
    "table": "术语",
-   "line": 142,
+   "line": 149,
    "term": "metric field",
    "trans": "度规场",
    "basis": "A 档（物理学通行译名）",
@@ -5453,7 +5588,7 @@
   },
   {
    "table": "术语",
-   "line": 143,
+   "line": 150,
    "term": "model theory",
    "trans": "模型论",
    "basis": "审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证）；“模型理论”为土木工程域不采（凭证 2026-10-29）",
@@ -5526,7 +5661,7 @@
   },
   {
    "table": "术语",
-   "line": 144,
+   "line": 151,
    "term": "monarchia",
    "trans": "专权（与 isonomia 相对的独大状态）",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -5540,7 +5675,7 @@
   },
   {
    "table": "术语",
-   "line": 145,
+   "line": 152,
    "term": "monotheism",
    "trans": "一神论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -5567,7 +5702,7 @@
   },
   {
    "table": "术语",
-   "line": 146,
+   "line": 153,
    "term": "moral obligation",
    "trans": "道德义务",
    "basis": "学界惯例（伦理学通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -5579,7 +5714,19 @@
   },
   {
    "table": "术语",
-   "line": 147,
+   "line": 154,
+   "term": "moral worth",
+   "trans": "道德价值（康德语境）",
+   "basis": "学界惯例（伦理学/康德译本通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 155,
    "term": "moral philosophy",
    "trans": "道德哲学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -5618,7 +5765,7 @@
   },
   {
    "table": "术语",
-   "line": 148,
+   "line": 156,
    "term": "natural deduction",
    "trans": "自然演绎",
    "basis": "学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -5630,7 +5777,7 @@
   },
   {
    "table": "术语",
-   "line": 149,
+   "line": 157,
    "term": "natural language",
    "trans": "自然语言",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -5885,7 +6032,7 @@
   },
   {
    "table": "术语",
-   "line": 150,
+   "line": 158,
    "term": "natural law",
    "trans": "自然法",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -5954,7 +6101,7 @@
   },
   {
    "table": "术语",
-   "line": 151,
+   "line": 159,
    "term": "natural number",
    "trans": "自然数",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -5993,7 +6140,7 @@
   },
   {
    "table": "术语",
-   "line": 152,
+   "line": 160,
    "term": "natural numbers",
    "trans": "自然数",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6014,7 +6161,7 @@
   },
   {
    "table": "术语",
-   "line": 153,
+   "line": 161,
    "term": "naturalism",
    "trans": "自然主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6065,7 +6212,7 @@
   },
   {
    "table": "术语",
-   "line": 154,
+   "line": 162,
    "term": "Neoplatonism",
    "trans": "新柏拉图主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6086,7 +6233,7 @@
   },
   {
    "table": "术语",
-   "line": 155,
+   "line": 163,
    "term": "nihilism",
    "trans": "虚无主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6131,7 +6278,7 @@
   },
   {
    "table": "术语",
-   "line": 156,
+   "line": 164,
    "term": "Nominalism",
    "trans": "唯名论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6170,7 +6317,7 @@
   },
   {
    "table": "术语",
-   "line": 157,
+   "line": 165,
    "term": "Nominalism in Metaphysics",
    "trans": "形而上学中的唯名论",
    "basis": "词条题名组合译法：沿用本册 Nominalism；metaphysics 采用哲学学界通行译名“形而上学”（2026-10-28）",
@@ -6182,7 +6329,7 @@
   },
   {
    "table": "术语",
-   "line": 158,
+   "line": 166,
    "term": "nominatio",
    "trans": "指称（阿伯拉尔；与 significatio 意涵相对）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -6194,7 +6341,7 @@
   },
   {
    "table": "术语",
-   "line": 159,
+   "line": 167,
    "term": "observable",
    "trans": "可观测量",
    "basis": "A 档（物理学通行译名）",
@@ -6268,7 +6415,7 @@
   },
   {
    "table": "术语",
-   "line": 160,
+   "line": 168,
    "term": "observation sentences",
    "trans": "观察句",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -6282,7 +6429,7 @@
   },
   {
    "table": "术语",
-   "line": 161,
+   "line": 169,
    "term": "occasionalism",
    "trans": "偶因论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6303,7 +6450,7 @@
   },
   {
    "table": "术语",
-   "line": 162,
+   "line": 170,
    "term": "ontological commitments",
    "trans": "本体论承诺（蒯因）",
    "basis": "审定名词库（termonline-all·ontological commitment 单数形在案，2026-10-29 浏览器通道凭证）",
@@ -6322,7 +6469,7 @@
   },
   {
    "table": "术语",
-   "line": 163,
+   "line": 171,
    "term": "pacifism",
    "trans": "和平主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6373,7 +6520,7 @@
   },
   {
    "table": "术语",
-   "line": 164,
+   "line": 172,
    "term": "panentheism",
    "trans": "万有在神论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -6387,7 +6534,7 @@
   },
   {
    "table": "术语",
-   "line": 165,
+   "line": 173,
    "term": "panpsychism",
    "trans": "泛心论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6420,7 +6567,7 @@
   },
   {
    "table": "术语",
-   "line": 166,
+   "line": 174,
    "term": "pantheism",
    "trans": "泛神论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6465,7 +6612,7 @@
   },
   {
    "table": "术语",
-   "line": 167,
+   "line": 175,
    "term": "paradigm",
    "trans": "范式",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6576,7 +6723,7 @@
   },
   {
    "table": "术语",
-   "line": 168,
+   "line": 176,
    "term": "paternalism",
    "trans": "家长主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -6615,7 +6762,7 @@
   },
   {
    "table": "术语",
-   "line": 169,
+   "line": 177,
    "term": "patriotism",
    "trans": "爱国主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6684,7 +6831,7 @@
   },
   {
    "table": "术语",
-   "line": 170,
+   "line": 178,
    "term": "Peano arithmetic",
    "trans": "佩亚诺算术（亦作“皮亚诺算术”）",
    "basis": "审定名词库（termonline-all·“佩亚诺公理”定名系，2026-10-29 浏览器通道凭证）",
@@ -6696,7 +6843,86 @@
   },
   {
    "table": "术语",
-   "line": 171,
+   "line": 179,
+   "term": "phase space",
+   "trans": "相空间",
+   "basis": "审定名词库（termonline-all·物理学名词，2026-10-30 浏览器通道凭证）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "物理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "化学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "力学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "自动化名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "增广相空间",
+     "en": "augmented phase space",
+     "source": "数学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "海峡两岸大气科学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "海峡两岸化学工程名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "相空间",
+     "en": "phase space\\u007F",
+     "source": "海峡两岸天文学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 180,
    "term": "perfectionism",
    "trans": "至善论",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6759,7 +6985,19 @@
   },
   {
    "table": "术语",
-   "line": 172,
+   "line": 181,
+   "term": "physical states",
+   "trans": "物理状态（与 mental states 相对）",
+   "basis": "学界惯例（心灵哲学通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 182,
    "term": "physicalism",
    "trans": "物理主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6786,7 +7024,7 @@
   },
   {
    "table": "术语",
-   "line": 173,
+   "line": 183,
    "term": "physiologos / physiologoi",
    "trans": "论自然者（前苏格拉底自然哲学家）",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -6800,7 +7038,7 @@
   },
   {
    "table": "术语",
-   "line": 174,
+   "line": 184,
    "term": "Pietism",
    "trans": "虔敬派",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -6833,7 +7071,7 @@
   },
   {
    "table": "术语",
-   "line": 175,
+   "line": 185,
    "term": "point-coincidence argument",
    "trans": "点重合论证",
    "basis": "B 档（Stachel 术语，学界通行译名）",
@@ -6846,7 +7084,7 @@
   },
   {
    "table": "术语",
-   "line": 176,
+   "line": 186,
    "term": "political philosophy",
    "trans": "政治哲学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6891,7 +7129,7 @@
   },
   {
    "table": "术语",
-   "line": 177,
+   "line": 187,
    "term": "poroi",
    "trans": "通道",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -6905,7 +7143,7 @@
   },
   {
    "table": "术语",
-   "line": 178,
+   "line": 188,
    "term": "positivism",
    "trans": "实证主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -6986,7 +7224,7 @@
   },
   {
    "table": "术语",
-   "line": 179,
+   "line": 189,
    "term": "practical philosophy",
    "trans": "实践哲学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7043,7 +7281,7 @@
   },
   {
    "table": "术语",
-   "line": 180,
+   "line": 190,
    "term": "pragmatism",
    "trans": "实用主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7136,7 +7374,7 @@
   },
   {
    "table": "术语",
-   "line": 181,
+   "line": 191,
    "term": "predicate letter",
    "trans": "谓词字母",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -7157,7 +7395,7 @@
   },
   {
    "table": "术语",
-   "line": 182,
+   "line": 192,
    "term": "presentism",
    "trans": "现在主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -7171,7 +7409,7 @@
   },
   {
    "table": "术语",
-   "line": 183,
+   "line": 193,
    "term": "prima facie",
    "trans": "初步的",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7204,7 +7442,7 @@
   },
   {
    "table": "术语",
-   "line": 184,
+   "line": 194,
    "term": "probability theory",
    "trans": "概率论",
    "basis": "审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证）",
@@ -7235,7 +7473,7 @@
   },
   {
    "table": "术语",
-   "line": 185,
+   "line": 195,
    "term": "problem of universals / universals",
    "trans": "共相问题／共相（与“殊相”相对；勿译“普遍性问题”）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -7256,7 +7494,44 @@
   },
   {
    "table": "术语",
-   "line": 186,
+   "line": 196,
+   "term": "Prisoner’s Dilemma",
+   "trans": "囚徒困境",
+   "basis": "审定名词库（termonline-all·经济学/管理学名词，2026-10-30 浏览器通道凭证）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "囚徒困境",
+     "en": "prisoner’s dilemma",
+     "source": "经济学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "囚徒困境",
+     "en": "prisoner’s dilemma",
+     "source": "管理科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "囚徒困境对策",
+     "en": "prisoner’s dilemma game\",\"PD game　",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "囚徒困境",
+     "en": "Prisoner's dilemma",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 197,
    "term": "projective sets",
    "trans": "射影集合",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -7277,7 +7552,7 @@
   },
   {
    "table": "术语",
-   "line": 187,
+   "line": 198,
    "term": "Pythagoreanism",
    "trans": "毕达哥拉斯主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -7291,7 +7566,7 @@
   },
   {
    "table": "术语",
-   "line": 188,
+   "line": 199,
    "term": "quantum mechanics",
    "trans": "量子力学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7432,7 +7707,7 @@
   },
   {
    "table": "术语",
-   "line": 189,
+   "line": 200,
    "term": "quantum state",
    "trans": "量子态",
    "basis": "审定名词库（termonline-all·物理学名词，2026-10-29 浏览器通道凭证）",
@@ -7535,7 +7810,7 @@
   },
   {
    "table": "术语",
-   "line": 190,
+   "line": 201,
    "term": "quantum theory",
    "trans": "量子理论",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7682,7 +7957,19 @@
   },
   {
    "table": "术语",
-   "line": 191,
+   "line": 202,
+   "term": "rational beings",
+   "trans": "理性存在者（康德语境）",
+   "basis": "学界惯例（康德译本通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 203,
    "term": "rationalism",
    "trans": "唯理论；理性主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7775,7 +8062,7 @@
   },
   {
    "table": "术语",
-   "line": 192,
+   "line": 204,
    "term": "real numbers",
    "trans": "实数",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7826,7 +8113,7 @@
   },
   {
    "table": "术语",
-   "line": 193,
+   "line": 205,
    "term": "reductionism",
    "trans": "还原论",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -7919,7 +8206,7 @@
   },
   {
    "table": "术语",
-   "line": 194,
+   "line": 206,
    "term": "Relativism",
    "trans": "相对主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8000,7 +8287,7 @@
   },
   {
    "table": "术语",
-   "line": 195,
+   "line": 207,
    "term": "religious belief",
    "trans": "宗教信念",
    "basis": "学界惯例（宗教认识论通行 belief=信念）；审定库无直接收录（凭证 2026-10-29）",
@@ -8012,7 +8299,7 @@
   },
   {
    "table": "术语",
-   "line": 196,
+   "line": 208,
    "term": "rule-circularity",
    "trans": "规则循环（premise-circularity 前提循环）",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -8024,7 +8311,7 @@
   },
   {
    "table": "术语",
-   "line": 197,
+   "line": 209,
    "term": "scepticism",
    "trans": "怀疑论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8063,7 +8350,7 @@
   },
   {
    "table": "术语",
-   "line": 198,
+   "line": 210,
    "term": "scientific explanation",
    "trans": "科学解释（亦作“科学说明”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词·科学技术方法论，2026-10-29 浏览器通道凭证）",
@@ -8082,7 +8369,7 @@
   },
   {
    "table": "术语",
-   "line": 199,
+   "line": 211,
    "term": "scientific methodology",
    "trans": "科学方法论",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8115,7 +8402,7 @@
   },
   {
    "table": "术语",
-   "line": 200,
+   "line": 212,
    "term": "scientific practice",
    "trans": "科学实践",
    "basis": "学界惯例（科学哲学通行）；审定库无直接收录（凭证 2026-10-29）；佐证审定库复合词“科学实践的动力学”（凭证 2026-10-29）",
@@ -8134,7 +8421,7 @@
   },
   {
    "table": "术语",
-   "line": 201,
+   "line": 213,
    "term": "scientific realism",
    "trans": "科学实在论",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8173,7 +8460,7 @@
   },
   {
    "table": "术语",
-   "line": 202,
+   "line": 214,
    "term": "scottish philosophy",
    "trans": "苏格兰哲学",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8187,7 +8474,7 @@
   },
   {
    "table": "术语",
-   "line": 203,
+   "line": 215,
    "term": "sense perception",
    "trans": "感官知觉",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8201,7 +8488,7 @@
   },
   {
    "table": "术语",
-   "line": 204,
+   "line": 216,
    "term": "sentimentalism",
    "trans": "情感主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -8228,7 +8515,7 @@
   },
   {
    "table": "术语",
-   "line": 205,
+   "line": 217,
    "term": "significatio",
    "trans": "意涵（阿伯拉尔）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -8240,7 +8527,7 @@
   },
   {
    "table": "术语",
-   "line": 206,
+   "line": 218,
    "term": "social justice",
    "trans": "社会正义（亦作“社会公正”）",
    "basis": "学界惯例（政治哲学/罗尔斯译本通行）；审定库无直接收录（凭证 2026-10-29）；审定库“社会公正”为地理学域不采（凭证 2026-10-29）",
@@ -8289,7 +8576,7 @@
   },
   {
    "table": "术语",
-   "line": 207,
+   "line": 219,
    "term": "spacelike separation",
    "trans": "类空间隔",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8303,7 +8590,7 @@
   },
   {
    "table": "术语",
-   "line": 208,
+   "line": 220,
    "term": "spacetime substantivalism",
    "trans": "时空实体论",
    "basis": "B 档（substance 发布表译“实体”；substantivalism 学界通行“实体论”）",
@@ -8316,7 +8603,7 @@
   },
   {
    "table": "术语",
-   "line": 209,
+   "line": 221,
    "term": "Spinozism",
    "trans": "斯宾诺莎主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8330,7 +8617,7 @@
   },
   {
    "table": "术语",
-   "line": 210,
+   "line": 222,
    "term": "structural realism",
    "trans": "结构实在论（“结构现实主义”是国际关系理论译名，勿混）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8363,7 +8650,19 @@
   },
   {
    "table": "术语",
-   "line": 211,
+   "line": 223,
+   "term": "structural rules",
+   "trans": "结构规则（证明论）",
+   "basis": "学界惯例（逻辑学界通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 224,
    "term": "structuralism",
    "trans": "结构主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8450,7 +8749,7 @@
   },
   {
    "table": "术语",
-   "line": 212,
+   "line": 225,
    "term": "subjective probability",
    "trans": "主观概率",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8543,7 +8842,7 @@
   },
   {
    "table": "术语",
-   "line": 213,
+   "line": 226,
    "term": "subjectivism",
    "trans": "主观主义",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8606,7 +8905,7 @@
   },
   {
    "table": "术语",
-   "line": 214,
+   "line": 227,
    "term": "sufficient reason",
    "trans": "充足理由",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8639,7 +8938,7 @@
   },
   {
    "table": "术语",
-   "line": 215,
+   "line": 228,
    "term": "suniêmi",
    "trans": "汇通（译作“理解/汇通”，指集合感官信息的能力）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8653,7 +8952,7 @@
   },
   {
    "table": "术语",
-   "line": 216,
+   "line": 229,
    "term": "Superdeterminism",
    "trans": "超决定论",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8667,7 +8966,7 @@
   },
   {
    "table": "术语",
-   "line": 217,
+   "line": 230,
    "term": "tekmairesthai",
    "trans": "凭征象推断",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8681,7 +8980,7 @@
   },
   {
    "table": "术语",
-   "line": 218,
+   "line": 231,
    "term": "theoretical virtues",
    "trans": "理论美德",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -8693,7 +8992,7 @@
   },
   {
    "table": "术语",
-   "line": 219,
+   "line": 232,
    "term": "Token / type",
    "trans": "殊例／类型（type-token 即“类型—殊例”之分；勿用“个体”，避免与 individual 碰撞）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -8876,7 +9175,7 @@
   },
   {
    "table": "术语",
-   "line": 220,
+   "line": 233,
    "term": "total evidence",
    "trans": "总证据",
    "basis": "B 档联网核查（2026-10-27）；008 战役复核",
@@ -8890,7 +9189,7 @@
   },
   {
    "table": "术语",
-   "line": 221,
+   "line": 234,
    "term": "ultimate reality",
    "trans": "终极实在",
    "basis": "学界惯例（形而上学/宗教哲学通行）；审定库无直接收录（凭证 2026-10-29）",
@@ -8902,7 +9201,7 @@
   },
   {
    "table": "术语",
-   "line": 222,
+   "line": 235,
    "term": "unconditional probabilities",
    "trans": "无条件概率",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -8916,7 +9215,7 @@
   },
   {
    "table": "术语",
-   "line": 223,
+   "line": 236,
    "term": "underdetermination",
    "trans": "不完全决定（亦作“非充分决定性”）",
    "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
@@ -8941,7 +9240,7 @@
   },
   {
    "table": "术语",
-   "line": 224,
+   "line": 237,
    "term": "universal suspension",
    "trans": "普遍悬置",
    "basis": "B 档联网核查（2026-10-27）；008 战役复核",
@@ -8955,7 +9254,7 @@
   },
   {
    "table": "术语",
-   "line": 225,
+   "line": 238,
    "term": "vis copulativa",
    "trans": "连接力",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -8967,7 +9266,7 @@
   },
   {
    "table": "术语",
-   "line": 226,
+   "line": 239,
    "term": "voluntarism",
    "trans": "意志主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -9036,7 +9335,7 @@
   },
   {
    "table": "术语",
-   "line": 227,
+   "line": 240,
    "term": "warrant",
    "trans": "保证（普兰丁格认识论语境；勿译“担保”）",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -9105,7 +9404,7 @@
   },
   {
    "table": "术语",
-   "line": 228,
+   "line": 241,
    "term": "Wolffianism",
    "trans": "沃尔夫主义",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -9119,7 +9418,7 @@
   },
   {
    "table": "术语",
-   "line": 236,
+   "line": 249,
    "term": "kalām",
    "trans": "凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”）",
    "basis": "知网系查证在案；学界通行（《中国伊斯兰百科全书》等）",
@@ -9133,7 +9432,7 @@
   },
   {
    "table": "术语",
-   "line": 237,
+   "line": 250,
    "term": "falsafa",
    "trans": "法尔萨法；哲学（按语境：术语名音译，行文通译“哲学”）",
    "basis": "学界通行",
@@ -9147,7 +9446,7 @@
   },
   {
    "table": "术语",
-   "line": 238,
+   "line": 251,
    "term": "ishrāq / ishrāqī",
    "trans": "照明（照明学派）",
    "basis": "学界通行",
@@ -9161,7 +9460,7 @@
   },
   {
    "table": "术语",
-   "line": 239,
+   "line": 252,
    "term": "tawḥīd",
    "trans": "认主独一（讨黑德）",
    "basis": "学界通行",
@@ -9175,7 +9474,7 @@
   },
   {
    "table": "术语",
-   "line": 240,
+   "line": 253,
    "term": "ijmāʿ",
    "trans": "公议（伊智玛尔）",
    "basis": "学界通行",
@@ -9189,7 +9488,7 @@
   },
   {
    "table": "术语",
-   "line": 241,
+   "line": 254,
    "term": "qiyās",
    "trans": "类比推理（基亚斯）",
    "basis": "学界通行",
@@ -9203,7 +9502,7 @@
   },
   {
    "table": "术语",
-   "line": 242,
+   "line": 255,
    "term": "ijtihād",
    "trans": "创制（伊智提哈德）",
    "basis": "学界通行",
@@ -9217,7 +9516,7 @@
   },
   {
    "table": "术语",
-   "line": 243,
+   "line": 256,
    "term": "taqlīd",
    "trans": "因袭（塔格利德）",
    "basis": "学界通行",
@@ -9231,7 +9530,7 @@
   },
   {
    "table": "术语",
-   "line": 244,
+   "line": 257,
    "term": "fitra",
    "trans": "天性（菲特拉）",
    "basis": "学界通行",
@@ -9245,7 +9544,7 @@
   },
   {
    "table": "术语",
-   "line": 245,
+   "line": 258,
    "term": "sharīʿa",
    "trans": "伊斯兰教法（沙里亚）",
    "basis": "学界通行",
@@ -9259,7 +9558,7 @@
   },
   {
    "table": "术语",
-   "line": 246,
+   "line": 259,
    "term": "sunna",
    "trans": "逊奈（圣行）",
    "basis": "学界通行",
@@ -9280,7 +9579,7 @@
   },
   {
    "table": "术语",
-   "line": 247,
+   "line": 260,
    "term": "Muʿtazila / Muʿtazilism",
    "trans": "穆尔太齐赖派",
    "basis": "学界通行",
@@ -9294,7 +9593,7 @@
   },
   {
    "table": "术语",
-   "line": 248,
+   "line": 261,
    "term": "Ashʿariyya / Ashʿarism",
    "trans": "艾什尔里派",
    "basis": "学界通行",
@@ -9308,7 +9607,7 @@
   },
   {
    "table": "术语",
-   "line": 249,
+   "line": 262,
    "term": "Maṭurīdiyya",
    "trans": "马图里迪派",
    "basis": "学界通行",
@@ -9322,7 +9621,7 @@
   },
   {
    "table": "术语",
-   "line": 250,
+   "line": 263,
    "term": "Ikhwān al-Ṣafāʾ",
    "trans": "精诚兄弟会（亦译“纯洁兄弟会”；组织名）",
    "basis": "学界通行",
@@ -9336,7 +9635,7 @@
   },
   {
    "table": "术语",
-   "line": 251,
+   "line": 264,
    "term": "Tahāfut al-falāsifa",
    "trans": "《哲学家之矛盾》（安萨里著；亦译《哲学家的矛盾》）",
    "basis": "学界通行",
@@ -9350,7 +9649,7 @@
   },
   {
    "table": "术语",
-   "line": 252,
+   "line": 265,
    "term": "Tahāfut al-tahāfut",
    "trans": "《矛盾之矛盾》（伊本·鲁世德著；亦译《矛盾的矛盾》）",
    "basis": "学界通行",
@@ -9364,7 +9663,7 @@
   },
   {
    "table": "术语",
-   "line": 253,
+   "line": 266,
    "term": "Kitāb al-ḥurūf",
    "trans": "《字母之书》（法拉比著；亦译《论字母》）",
    "basis": "学界通行",
@@ -9378,7 +9677,7 @@
   },
   {
    "table": "术语",
-   "line": 254,
+   "line": 267,
    "term": "Ḥayy ibn Yaqẓān",
    "trans": "《哈义·本·叶格赞》（伊本·图斐利著；亦译《觉民之子》）",
    "basis": "学界通行",
@@ -9392,7 +9691,7 @@
   },
   {
    "table": "术语",
-   "line": 255,
+   "line": 268,
    "term": "anti-realism",
    "trans": "反实在论（antirealism 异形）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9419,7 +9718,7 @@
   },
   {
    "table": "术语",
-   "line": 256,
+   "line": 269,
    "term": "mysticism",
    "trans": "神秘主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9452,7 +9751,7 @@
   },
   {
    "table": "术语",
-   "line": 257,
+   "line": 270,
    "term": "compatibilism",
    "trans": "相容论（亦作“相容主义”）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9466,7 +9765,19 @@
   },
   {
    "table": "术语",
-   "line": 258,
+   "line": 271,
+   "term": "comprehension principle",
+   "trans": "概括原则（亦作“概括公理”）",
+   "basis": "学界惯例（弗雷格/集合论文献通行）；审定库无直接收录（凭证 2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 272,
    "term": "reliabilism",
    "trans": "可靠论（亦作“可靠主义”）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9480,7 +9791,7 @@
   },
   {
    "table": "术语",
-   "line": 259,
+   "line": 273,
    "term": "existentialism",
    "trans": "存在主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9519,7 +9830,7 @@
   },
   {
    "table": "术语",
-   "line": 260,
+   "line": 274,
    "term": "representationalism",
    "trans": "表征主义（亦作“表象主义”）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9546,7 +9857,7 @@
   },
   {
    "table": "术语",
-   "line": 261,
+   "line": 275,
    "term": "psychologism",
    "trans": "心理主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9585,7 +9896,7 @@
   },
   {
    "table": "术语",
-   "line": 262,
+   "line": 276,
    "term": "imposition",
    "trans": "命名（词项施加）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
@@ -9616,7 +9927,7 @@
   },
   {
    "table": "术语",
-   "line": 263,
+   "line": 277,
    "term": "indeterminism",
    "trans": "非决定论",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9655,7 +9966,7 @@
   },
   {
    "table": "术语",
-   "line": 264,
+   "line": 278,
    "term": "nationalism",
    "trans": "民族主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9754,7 +10065,7 @@
   },
   {
    "table": "术语",
-   "line": 265,
+   "line": 279,
    "term": "pessimism",
    "trans": "悲观主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9805,7 +10116,7 @@
   },
   {
    "table": "术语",
-   "line": 266,
+   "line": 280,
    "term": "conventionalism",
    "trans": "约定论（亦作“约定主义”）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9856,7 +10167,7 @@
   },
   {
    "table": "术语",
-   "line": 267,
+   "line": 281,
    "term": "logicism",
    "trans": "逻辑主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9901,7 +10212,7 @@
   },
   {
    "table": "术语",
-   "line": 268,
+   "line": 282,
    "term": "eliminativism",
    "trans": "取消主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9922,7 +10233,7 @@
   },
   {
    "table": "术语",
-   "line": 269,
+   "line": 283,
    "term": "non-cognitivism",
    "trans": "非认知主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9936,7 +10247,7 @@
   },
   {
    "table": "术语",
-   "line": 270,
+   "line": 284,
    "term": "imperialism",
    "trans": "帝国主义",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -9999,7 +10310,7 @@
   },
   {
    "table": "术语",
-   "line": 271,
+   "line": 285,
    "term": "natural selection",
    "trans": "自然选择",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10170,7 +10481,7 @@
   },
   {
    "table": "术语",
-   "line": 272,
+   "line": 286,
    "term": "general relativity",
    "trans": "广义相对论",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10221,7 +10532,7 @@
   },
   {
    "table": "术语",
-   "line": 273,
+   "line": 287,
    "term": "Principia Mathematica",
    "trans": "《数学原理》（罗素、怀特海著）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10242,7 +10553,7 @@
   },
   {
    "table": "术语",
-   "line": 274,
+   "line": 288,
    "term": "Posterior Analytics",
    "trans": "《后分析篇》（亚里士多德）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10256,7 +10567,7 @@
   },
   {
    "table": "术语",
-   "line": 275,
+   "line": 289,
    "term": "Prior Analytics",
    "trans": "《前分析篇》（亚里士多德）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10270,7 +10581,7 @@
   },
   {
    "table": "术语",
-   "line": 276,
+   "line": 290,
    "term": "Nicomachean Ethics",
    "trans": "《尼各马可伦理学》（亚里士多德；廖申白译本）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10284,7 +10595,7 @@
   },
   {
    "table": "术语",
-   "line": 277,
+   "line": 291,
    "term": "possible worlds / possible world",
    "trans": "可能世界",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10317,7 +10628,7 @@
   },
   {
    "table": "术语",
-   "line": 278,
+   "line": 292,
    "term": "mental states",
    "trans": "心理状态（亦作“精神状态”，按语境）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10392,7 +10703,7 @@
   },
   {
    "table": "术语",
-   "line": 279,
+   "line": 293,
    "term": "human nature",
    "trans": "人性",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10515,7 +10826,7 @@
   },
   {
    "table": "术语",
-   "line": 280,
+   "line": 294,
    "term": "human rights",
    "trans": "人权",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10620,7 +10931,7 @@
   },
   {
    "table": "术语",
-   "line": 281,
+   "line": 295,
    "term": "modal logic",
    "trans": "模态逻辑",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10683,7 +10994,7 @@
   },
   {
    "table": "术语",
-   "line": 282,
+   "line": 296,
    "term": "moral status",
    "trans": "道德地位",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10710,7 +11021,7 @@
   },
   {
    "table": "术语",
-   "line": 283,
+   "line": 297,
    "term": "actual world",
    "trans": "现实世界（亦作“实际世界”）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10724,7 +11035,7 @@
   },
   {
    "table": "术语",
-   "line": 284,
+   "line": 298,
    "term": "common sense",
    "trans": "常识",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10769,7 +11080,7 @@
   },
   {
    "table": "术语",
-   "line": 285,
+   "line": 299,
    "term": "moral judgments",
    "trans": "道德判断",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -10796,7 +11107,7 @@
   },
   {
    "table": "术语",
-   "line": 299,
+   "line": 313,
    "term": "Analects / Lun yu / Lunyu",
    "trans": "《论语》",
    "basis": "学界通行学名",
@@ -10829,7 +11140,7 @@
   },
   {
    "table": "术语",
-   "line": 300,
+   "line": 314,
    "term": "Mencius / Mengzi",
    "trans": "《孟子》",
    "basis": "学界通行学名",
@@ -10843,7 +11154,7 @@
   },
   {
    "table": "术语",
-   "line": 301,
+   "line": 315,
    "term": "Mozi",
    "trans": "《墨子》",
    "basis": "学界通行学名",
@@ -10857,7 +11168,7 @@
   },
   {
    "table": "术语",
-   "line": 302,
+   "line": 316,
    "term": "worldline",
    "trans": "世界线",
    "basis": "A 档（物理学通行译名）",
@@ -10870,7 +11181,7 @@
   },
   {
    "table": "术语",
-   "line": 303,
+   "line": 317,
    "term": "Zhuangzi",
    "trans": "《庄子》",
    "basis": "学界通行学名",
@@ -10897,7 +11208,7 @@
   },
   {
    "table": "术语",
-   "line": 304,
+   "line": 318,
    "term": "Laozi / Lao Tzu",
    "trans": "《老子》",
    "basis": "学界通行学名",
@@ -10918,7 +11229,7 @@
   },
   {
    "table": "术语",
-   "line": 305,
+   "line": 319,
    "term": "Daodejing / Tao Te Ching",
    "trans": "《道德经》",
    "basis": "学界通行学名",
@@ -10932,7 +11243,7 @@
   },
   {
    "table": "术语",
-   "line": 306,
+   "line": 320,
    "term": "Xunzi",
    "trans": "《荀子》",
    "basis": "学界通行学名",
@@ -10946,7 +11257,7 @@
   },
   {
    "table": "术语",
-   "line": 307,
+   "line": 321,
    "term": "Han Feizi",
    "trans": "《韩非子》",
    "basis": "学界通行学名",
@@ -10960,7 +11271,7 @@
   },
   {
    "table": "术语",
-   "line": 308,
+   "line": 322,
    "term": "Yijing / I Ching",
    "trans": "《周易》",
    "basis": "学界通行学名",
@@ -10974,7 +11285,7 @@
   },
   {
    "table": "术语",
-   "line": 309,
+   "line": 323,
    "term": "Huainanzi",
    "trans": "《淮南子》",
    "basis": "学界通行学名",
@@ -11007,7 +11318,7 @@
   },
   {
    "table": "术语",
-   "line": 310,
+   "line": 324,
    "term": "Shiji",
    "trans": "《史记》",
    "basis": "学界通行学名",
@@ -11034,7 +11345,7 @@
   },
   {
    "table": "术语",
-   "line": 311,
+   "line": 325,
    "term": "Liezi",
    "trans": "《列子》",
    "basis": "学界通行学名",
@@ -11061,7 +11372,7 @@
   },
   {
    "table": "术语",
-   "line": 312,
+   "line": 326,
    "term": "Guanzi",
    "trans": "《管子》",
    "basis": "学界通行学名",
@@ -11088,7 +11399,7 @@
   },
   {
    "table": "术语",
-   "line": 313,
+   "line": 327,
    "term": "Chunqiu",
    "trans": "《春秋》",
    "basis": "学界通行学名",
@@ -11115,7 +11426,7 @@
   },
   {
    "table": "术语",
-   "line": 314,
+   "line": 328,
    "term": "Gongsun Long (zi)",
    "trans": "《公孙龙子》",
    "basis": "学界通行学名",
@@ -11129,7 +11440,7 @@
   },
   {
    "table": "术语",
-   "line": 315,
+   "line": 329,
    "term": "Yan Buke",
    "trans": "阎步克",
    "basis": "上游汉字 + 学界通行",
@@ -11143,7 +11454,7 @@
   },
   {
    "table": "术语",
-   "line": 316,
+   "line": 330,
    "term": "Yang Bojun",
    "trans": "杨伯峻",
    "basis": "上游汉字",
@@ -11157,7 +11468,7 @@
   },
   {
    "table": "术语",
-   "line": 317,
+   "line": 331,
    "term": "Lunyu yizhu",
    "trans": "《论语译注》",
    "basis": "上游汉字",
@@ -11171,7 +11482,98 @@
   },
   {
    "table": "人名",
+   "line": 11,
+   "term": "Duns Scotus",
+   "trans": "邓斯·司各脱（亦作“司各脱”）",
+   "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 12,
+   "term": "Gottlob Frege",
+   "trans": "戈特洛布·弗雷格",
+   "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
    "line": 13,
+   "term": "Immanuel Kant",
+   "trans": "伊曼努尔·康德",
+   "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 14,
+   "term": "John Dewey",
+   "trans": "约翰·杜威",
+   "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 15,
+   "term": "John Locke",
+   "trans": "约翰·洛克",
+   "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "约翰·洛克",
+     "en": "John Locke（1632—1704）",
+     "source": "经济学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 16,
+   "term": "John Rawls",
+   "trans": "约翰·罗尔斯",
+   "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 17,
+   "term": "Sextus Empiricus",
+   "trans": "塞克斯都·恩披里柯（亦作“恩培里柯”）",
+   "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 20,
    "term": "Alcmaeon",
    "trans": "阿尔克迈翁",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -11185,7 +11587,7 @@
   },
   {
    "table": "人名",
-   "line": 14,
+   "line": 21,
    "term": "Anaximander",
    "trans": "阿那克西曼德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -11199,7 +11601,7 @@
   },
   {
    "table": "人名",
-   "line": 15,
+   "line": 22,
    "term": "Anaximenes",
    "trans": "阿那克西美尼",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -11220,7 +11622,7 @@
   },
   {
    "table": "人名",
-   "line": 16,
+   "line": 23,
    "term": "Aristotle",
    "trans": "亚里士多德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11301,7 +11703,7 @@
   },
   {
    "table": "人名",
-   "line": 17,
+   "line": 24,
    "term": "Democedes",
    "trans": "德摩塞迪斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -11315,7 +11717,7 @@
   },
   {
    "table": "人名",
-   "line": 18,
+   "line": 25,
    "term": "Empedocles",
    "trans": "恩培多克勒",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11336,7 +11738,7 @@
   },
   {
    "table": "人名",
-   "line": 19,
+   "line": 26,
    "term": "Galen",
    "trans": "盖伦",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -11369,7 +11771,7 @@
   },
   {
    "table": "人名",
-   "line": 20,
+   "line": 27,
    "term": "Heraclitus",
    "trans": "赫拉克利特",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11396,7 +11798,7 @@
   },
   {
    "table": "人名",
-   "line": 21,
+   "line": 28,
    "term": "Herodotus",
    "trans": "希罗多德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11429,7 +11831,7 @@
   },
   {
    "table": "人名",
-   "line": 22,
+   "line": 29,
    "term": "Parmenides",
    "trans": "巴门尼德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11456,7 +11858,7 @@
   },
   {
    "table": "人名",
-   "line": 23,
+   "line": 30,
    "term": "Philolaus",
    "trans": "菲洛劳斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -11470,7 +11872,7 @@
   },
   {
    "table": "人名",
-   "line": 24,
+   "line": 31,
    "term": "Plato",
    "trans": "柏拉图",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11551,7 +11953,7 @@
   },
   {
    "table": "人名",
-   "line": 25,
+   "line": 32,
    "term": "Pythagoras",
    "trans": "毕达哥拉斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11590,7 +11992,7 @@
   },
   {
    "table": "人名",
-   "line": 26,
+   "line": 33,
    "term": "Theophrastus",
    "trans": "特奥弗拉斯托斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -11611,7 +12013,7 @@
   },
   {
    "table": "人名",
-   "line": 27,
+   "line": 34,
    "term": "Xenophanes",
    "trans": "色诺芬尼",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -11632,7 +12034,7 @@
   },
   {
    "table": "人名",
-   "line": 28,
+   "line": 35,
    "term": "Diogenes Laertius",
    "trans": "第欧根尼·拉尔修",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11653,7 +12055,7 @@
   },
   {
    "table": "人名",
-   "line": 29,
+   "line": 36,
    "term": "Christian Thomasius",
    "trans": "克里斯蒂安·托马修斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -11667,7 +12069,7 @@
   },
   {
    "table": "人名",
-   "line": 30,
+   "line": 37,
    "term": "Christian Wolff",
    "trans": "克里斯蒂安·沃尔夫",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -11694,7 +12096,7 @@
   },
   {
    "table": "人名",
-   "line": 31,
+   "line": 38,
    "term": "Quine",
    "trans": "蒯因",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -11727,7 +12129,7 @@
   },
   {
    "table": "人名",
-   "line": 39,
+   "line": 46,
    "term": "Ibn Sīnā / Avicenna",
    "trans": "伊本·西那（阿维森纳）",
    "basis": "知网系查证在案；学界通行（《中国大百科全书》《世界人名翻译大辞典》体例）",
@@ -11741,7 +12143,7 @@
   },
   {
    "table": "人名",
-   "line": 40,
+   "line": 47,
    "term": "Ibn Rushd / Averroes",
    "trans": "伊本·鲁世德（阿威罗伊）",
    "basis": "知网系查证在案；学界通行",
@@ -11755,7 +12157,7 @@
   },
   {
    "table": "人名",
-   "line": 41,
+   "line": 48,
    "term": "Ibn Bājja / Avempace",
    "trans": "伊本·巴哲",
    "basis": "知网系查证在案；学界通行",
@@ -11769,7 +12171,7 @@
   },
   {
    "table": "人名",
-   "line": 42,
+   "line": 49,
    "term": "Ibn Ṭufayl / Abubacer",
    "trans": "伊本·图斐利",
    "basis": "知网系查证在案；学界通行",
@@ -11783,7 +12185,7 @@
   },
   {
    "table": "人名",
-   "line": 43,
+   "line": 50,
    "term": "al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī",
    "trans": "法拉比（亦作“阿尔·法拉比”“阿里·法拉比”）",
    "basis": "学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步",
@@ -11797,7 +12199,7 @@
   },
   {
    "table": "人名",
-   "line": 44,
+   "line": 51,
    "term": "al-Kindī",
    "trans": "肯迪（亦作“金迪”）",
    "basis": "学界通行",
@@ -11811,7 +12213,7 @@
   },
   {
    "table": "人名",
-   "line": 45,
+   "line": 52,
    "term": "al-Ghazālī",
    "trans": "安萨里（全名艾布·哈米德·穆罕默德·安萨里）",
    "basis": "学界通行",
@@ -11825,7 +12227,7 @@
   },
   {
    "table": "人名",
-   "line": 46,
+   "line": 53,
    "term": "Abū Bakr al-Rāzī / al-Rāzī / Rhazes",
    "trans": "拉齐（医师哲学家；勿与法赫尔丁·拉齐相混）",
    "basis": "学界通行",
@@ -11839,7 +12241,7 @@
   },
   {
    "table": "人名",
-   "line": 47,
+   "line": 54,
    "term": "Fakhr al-Dīn al-Rāzī",
    "trans": "法赫尔丁·拉齐",
    "basis": "学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分",
@@ -11853,7 +12255,7 @@
   },
   {
    "table": "人名",
-   "line": 48,
+   "line": 55,
    "term": "Ibn Khaldūn",
    "trans": "伊本·赫勒敦",
    "basis": "学界通行",
@@ -11867,7 +12269,7 @@
   },
   {
    "table": "人名",
-   "line": 49,
+   "line": 56,
    "term": "Ibn Taymiyya",
    "trans": "伊本·泰米叶",
    "basis": "学界通行",
@@ -11881,7 +12283,7 @@
   },
   {
    "table": "人名",
-   "line": 50,
+   "line": 57,
    "term": "Ibn Gabirol / Solomon ibn Gabirol / Avicebron",
    "trans": "伊本·加比罗尔（拉丁通行名阿维斯布朗）",
    "basis": "学界通行",
@@ -11895,7 +12297,7 @@
   },
   {
    "table": "人名",
-   "line": 51,
+   "line": 58,
    "term": "Ibn Dāwūd / Ibn Daud",
    "trans": "伊本·达乌德",
    "basis": "学界通行",
@@ -11909,7 +12311,7 @@
   },
   {
    "table": "人名",
-   "line": 52,
+   "line": 59,
    "term": "Ibn al-Haytham / Alhazen",
    "trans": "伊本·海赛姆（阿尔哈增）",
    "basis": "学界通行",
@@ -11923,7 +12325,7 @@
   },
   {
    "table": "人名",
-   "line": 53,
+   "line": 60,
    "term": "Naṣīr al-Dīn al-Ṭūsī",
    "trans": "纳西尔丁·图西",
    "basis": "学界通行",
@@ -11937,7 +12339,7 @@
   },
   {
    "table": "人名",
-   "line": 54,
+   "line": 61,
    "term": "Ibn Hazm",
    "trans": "伊本·哈兹姆",
    "basis": "学界通行",
@@ -11951,7 +12353,7 @@
   },
   {
    "table": "人名",
-   "line": 55,
+   "line": 62,
    "term": "Suhrawardī / al-Suhrawardī",
    "trans": "苏赫拉瓦尔迪",
    "basis": "学界通行",
@@ -11965,7 +12367,7 @@
   },
   {
    "table": "人名",
-   "line": 56,
+   "line": 63,
    "term": "Mullā Ṣadrā",
    "trans": "毛拉·萨德拉",
    "basis": "学界通行",
@@ -11979,7 +12381,7 @@
   },
   {
    "table": "人名",
-   "line": 57,
+   "line": 64,
    "term": "Yaḥyā ibn ʿAdī",
    "trans": "叶海亚·伊本·阿迪",
    "basis": "学界通行",
@@ -11993,7 +12395,7 @@
   },
   {
    "table": "人名",
-   "line": 58,
+   "line": 65,
    "term": "Ḥunayn ibn Isḥāq",
    "trans": "侯奈因·本·伊斯哈格（父，翻译家）",
    "basis": "学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分",
@@ -12007,7 +12409,7 @@
   },
   {
    "table": "人名",
-   "line": 59,
+   "line": 66,
    "term": "Isḥāq ibn Ḥunayn",
    "trans": "伊沙克·本·侯奈因（子，翻译家）",
    "basis": "学界通行；与父侯奈因·本·伊斯哈格（Ḥunayn ibn Isḥāq）语序区分",
@@ -12021,7 +12423,7 @@
   },
   {
    "table": "人名",
-   "line": 60,
+   "line": 67,
    "term": "Abū Bishr Mattā",
    "trans": "阿布·比什尔·马塔",
    "basis": "学界通行",
@@ -12035,7 +12437,7 @@
   },
   {
    "table": "人名",
-   "line": 61,
+   "line": 68,
    "term": "Ibn Kammūna",
    "trans": "伊本·凯姆那",
    "basis": "学界通行",
@@ -12049,7 +12451,7 @@
   },
   {
    "table": "人名",
-   "line": 62,
+   "line": 69,
    "term": "Ibn ʿArabī",
    "trans": "伊本·阿拉比",
    "basis": "学界通行",
@@ -12063,7 +12465,7 @@
   },
   {
    "table": "人名",
-   "line": 63,
+   "line": 70,
    "term": "Thomas Aquinas",
    "trans": "托马斯·阿奎那",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -12114,7 +12516,7 @@
   },
   {
    "table": "人名",
-   "line": 64,
+   "line": 71,
    "term": "David Hume",
    "trans": "大卫·休谟",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -12153,7 +12555,7 @@
   },
   {
    "table": "人名",
-   "line": 65,
+   "line": 72,
    "term": "William James",
    "trans": "威廉·詹姆斯",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -12192,7 +12594,7 @@
   },
   {
    "table": "人名",
-   "line": 66,
+   "line": 73,
    "term": "ʿAyn al-Quḍāt",
    "trans": "艾因·库扎特（哈马丹的艾因·库扎特）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -12206,7 +12608,7 @@
   },
   {
    "table": "人名",
-   "line": 67,
+   "line": 74,
    "term": "ʿAbd al-Jabbār",
    "trans": "阿卜杜·贾巴尔（穆尔太齐赖派）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",

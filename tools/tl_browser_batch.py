@@ -147,11 +147,14 @@ def ingest(in_path, map_path=None):
         status = _record_status(group)
         display = ' / '.join(dict.fromkeys(
             g.get('term', g.get('variant', '')) for g in group))
+        matches = sorted({str(g['match']) for g in group if g.get('match')})
         record = {
             'key': key, 'term': display, 'provider': PROVIDER,
             'queried_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
             'status': status,
-            'note': '; '.join(notes) + '; browser-channel（cookie 会话，raw 略）',
+            'note': '; '.join(notes)
+            + ('; match=%s' % ','.join(matches) if matches else '')
+            + '; browser-channel（cookie 会话，raw 略）',
             'hits': hits[:60],
             'error': '; '.join(errs) if errs else None,
             'raw': None,

@@ -1,0 +1,348 @@
+{
+ "key": "physical states",
+ "term": "physical states",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-29T17:27:23+00:00",
+ "status": "ok",
+ "note": "variant=physical states; 审定公布名词库=3180; 海峡两岸名词对照库=758; 其他来源数据库=144; 预公布名词数据库=252; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "固体物理[学]",
+   "en": "solid state physics",
+   "code": "08.0003",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学"
+  },
+  {
+   "cn": "固体物理学",
+   "en": "solid state physics",
+   "code": "01.0037",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料物理及化学基础"
+  },
+  {
+   "cn": "物理[学]",
+   "en": "physics",
+   "code": "01.0001",
+   "standard": "物理学名词",
+   "subject": "物理学_通类"
+  },
+  {
+   "cn": "物理归档",
+   "en": "physical filing；physical archiving",
+   "code": "06.03.011",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_流程与方法"
+  },
+  {
+   "cn": "物理双星",
+   "en": "physical double; physical pair",
+   "code": "08.334",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics,ocean physics",
+   "code": "01.0004",
+   "standard": "海洋科技名词",
+   "subject": "海洋科学技术_总论_一级分支学科名词"
+  },
+  {
+   "cn": "物理风化作用",
+   "en": "physical weathering",
+   "code": "05.01.013",
+   "standard": "地质学名词",
+   "subject": "地质学_沉积学与沉积岩岩石学_总论"
+  },
+  {
+   "cn": "物理地球化学",
+   "en": "physical geochemistry",
+   "code": "13.01.039",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_总论"
+  },
+  {
+   "cn": "物理年代",
+   "en": "physical time",
+   "code": "13.03.040",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_同位素地球化学"
+  },
+  {
+   "cn": "物理灭菌",
+   "en": "physical sterilization",
+   "code": "02.003",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_无菌术"
+  },
+  {
+   "cn": "物理消毒",
+   "en": "physical disinfection",
+   "code": "02.012",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_无菌术"
+  },
+  {
+   "cn": "实物管理",
+   "en": "physical management",
+   "code": "03.0365",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_经济管理"
+  },
+  {
+   "cn": "固态物理学",
+   "en": "solid state physics",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "固体物理学",
+   "en": "solid state physics",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics\",\"ocean physics",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "物理图[谱]",
+   "en": "physical map",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "物理障碍",
+   "en": "physical barrier",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "形态学个体",
+   "en": "physical individual",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "物理模[态]",
+   "en": "physical mode",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "物理气候",
+   "en": "physical climate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "物理气候学",
+   "en": "physical climatology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "物理气象[学]",
+   "en": "physical meteorology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "自然地理学",
+   "en": "physical geography",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "自然环境",
+   "en": "physical environment",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "药剂学",
+   "en": "Physical pharmacy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理化学",
+   "en": "Physical chemistry",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理量",
+   "en": "physical quantity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物色",
+   "en": "Physical Features",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "物理大地测量学",
+   "en": "Physical geodesy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理光学",
+   "en": "physical optics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理数据",
+   "en": "physical data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实体场景",
+   "en": "physical scenario",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "物理海洋学",
+   "en": "Physical oceanography",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "陆上训练",
+   "en": "physical training",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "体格发育",
+   "en": "physical development, physical growth",
+   "code": "2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体格发育"
+  },
+  {
+   "cn": "生理状态",
+   "en": "physical status",
+   "code": "5.3.1.1",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "物理监测",
+   "en": "physical monitoring",
+   "code": "1.2.3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_灭菌"
+  },
+  {
+   "cn": "物理消毒",
+   "en": "physical disinfection",
+   "code": "2.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术"
+  },
+  {
+   "cn": "实体防护",
+   "en": "physical protection",
+   "code": "6.1.7.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_设施防护安全"
+  },
+  {
+   "cn": "物理去污",
+   "en": "physical decontamination",
+   "code": "6.6.5.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役"
+  },
+  {
+   "cn": "体力劳动",
+   "en": "physical labor",
+   "code": "01.0126",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "物理治疗",
+   "en": "physical therapy",
+   "code": "1.7.2.5",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "code": "2.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体能发育"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "code": "2.3.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_体能发育"
+  },
+  {
+   "cn": "生理自我",
+   "en": "physical self",
+   "code": "2.5.10.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "code": "2.8.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育影响因素"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

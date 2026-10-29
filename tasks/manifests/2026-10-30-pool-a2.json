@@ -1,0 +1,39 @@
+{
+ "batch": "2026-10-30-pool-a2",
+ "scope": "phrase 100-150 段 top 遴选 15 术语 + person 高频（freq≥40）遴选 7 人名；match=1 精确补查 37 项",
+ "source": "tasks/term-pool.json new 候选；查证通道=审定名词库浏览器通道（contracts/browser-channel.md）",
+ "published_terms": [
+  {"en": "innate knowledge", "zh": "先天知识（亦作“天赋知识”）", "basis": "学界惯例"},
+  {"en": "phase space", "zh": "相空间", "basis": "审定名词库·物理学"},
+  {"en": "structural rules", "zh": "结构规则", "basis": "学界惯例（证明论）"},
+  {"en": "moral worth", "zh": "道德价值", "basis": "学界惯例（康德）"},
+  {"en": "aesthetic judgments", "zh": "审美判断", "basis": "学界惯例（康德）"},
+  {"en": "virtuous person", "zh": "有德之人", "basis": "学界惯例（德性伦理学）"},
+  {"en": "mental processes", "zh": "心理过程", "basis": "学界惯例"},
+  {"en": "comprehension principle", "zh": "概括原则（亦作“概括公理”）", "basis": "学界惯例（弗雷格/集合论）"},
+  {"en": "Prisoner’s Dilemma", "zh": "囚徒困境", "basis": "审定名词库·经济学/管理学"},
+  {"en": "human agency", "zh": "人类能动性", "basis": "审定名词库在案（地理学域同形）"},
+  {"en": "eternal truths", "zh": "永恒真理", "basis": "学界惯例"},
+  {"en": "epistemic injustice", "zh": "认知不义（亦作“认知不公正”）", "basis": "学界惯例（Fricker 中译）"},
+  {"en": "physical states", "zh": "物理状态", "basis": "学界惯例"},
+  {"en": "rational beings", "zh": "理性存在者", "basis": "学界惯例（康德）"},
+  {"en": "empty set", "zh": "空集", "basis": "审定名词库·数学"}
+ ],
+ "published_persons": [
+  {"en": "Duns Scotus", "zh": "邓斯·司各脱（亦作“司各脱”）"},
+  {"en": "Gottlob Frege", "zh": "戈特洛布·弗雷格"},
+  {"en": "Immanuel Kant", "zh": "伊曼努尔·康德"},
+  {"en": "John Dewey", "zh": "约翰·杜威"},
+  {"en": "John Locke", "zh": "约翰·洛克"},
+  {"en": "John Rawls", "zh": "约翰·罗尔斯"},
+  {"en": "Sextus Empiricus", "zh": "塞克斯都·恩披里柯（亦作“恩培里柯”）"}
+ ],
+ "held": [
+  {"en": "Del Medigo", "reason": "家族姓，全名语境待核（Elias Del Medigo 德尔·梅迪戈，译名不稳定）"}
+ ],
+ "match1_conclusion": "审定库不收录伊斯兰哲学人名/书名：37 项（变音符+ASCII 拼音变体）match=1 精确查询全部认证空（4 库形），登记册相关行依据=学界通行+审定库精确查无",
+ "rejected_c_band": "中频段 45 个泛词/残片 rejected（2026-10-29，理由逐条入池）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（match=1 记录 note 带 match=1 标记）",
+ "registry_sync": "yi-zhe-shuo-ming.md +14 行、ren-ming-biao.md +7 行、ci-hui-biao.md +21 行",
+ "audit_after": "一致 171 / 不一致 34（全部为有记录的保留裁定）/ 查无 149 / 维基 0（354 行）"
+}

@@ -2,6 +2,27 @@
 
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
+|aesthetic judgments|审美判断|康德语境|
+|comprehension principle|概括原则|亦作“概括公理”；弗雷格/集合论|
+|Duns Scotus|邓斯·司各脱|亦作“司各脱”|
+|empty set|空集|审定名词（数学）|
+|epistemic injustice|认知不义|亦作“认知不公正”；Fricker|
+|eternal truths|永恒真理|笛卡尔/莱布尼茨语境|
+|Gottlob Frege|戈特洛布·弗雷格||
+|human agency|人类能动性|审定名词在案|
+|Immanuel Kant|伊曼努尔·康德||
+|innate knowledge|先天知识|亦作“天赋知识”|
+|John Dewey|约翰·杜威||
+|John Locke|约翰·洛克||
+|John Rawls|约翰·罗尔斯||
+|mental processes|心理过程||
+|moral worth|道德价值|康德语境|
+|phase space|相空间|审定名词（物理学）|
+|physical states|物理状态|与 mental states 相对|
+|Prisoner’s Dilemma|囚徒困境|审定名词（经济学/管理学）|
+|rational beings|理性存在者|康德语境|
+|Sextus Empiricus|塞克斯都·恩披里柯|亦作“恩培里柯”|
+|structural rules|结构规则|证明论|
 |英语|中文|备注|
 |model theory|模型论|审定名词（数学）|
 |human action|人类行动|行动哲学语境 action 定译“行动”|
@@ -364,6 +385,7 @@
 |Inference to the Best Explanation|最佳说明推理|亦作“最佳解释推理”；abduction 词条核心概念；审定名词（自然辩证法名词）|
 |Inference to the Worst Explanation (IWE)|最差解释推理|与 IBE 对偶；首现 abduction|
 |informed consent|知情同意|审定名词（科技伦理）|
+|virtuous person|有德之人|德性伦理学|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
 |institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
