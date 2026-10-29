@@ -32,7 +32,7 @@
 * [任务目录](tasks/README.md) —— 文档任务协议与三审三校状态机
 * [工具目录](tools/README.md) —— 同步管线与目录校验脚本
 * [工程规格](specs/001-sep-sync-pipeline/spec.md) —— 抓取、更新、比较、翻译管线
-* [项目宪法](.specify/memory/constitution.md) —— 六项核心原则
+* [项目宪法](.specify/memory/constitution.md) —— 七项核心原则
 
 ## 许可证
 

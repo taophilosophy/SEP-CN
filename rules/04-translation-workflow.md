@@ -2,6 +2,10 @@
 
 本规则展开宪法第 IV 条（流程先行）与第 VI 条（体例即契约），落地 `specs/001-sep-sync-pipeline/spec.md` 的 FR-011/012/013。任务状态的机器可判定载体是 `tasks/` 下的 JSON 文档任务（协议见 `tasks/README.md`，操作用 `python tools/task_ops.py`）。
 
+## 任务方向声明（宪法 VII）
+
+创建任务前先写清：词条范围（主文与补充材料）、目标读者、验收判据（六道全过、`check_academic --strict` 0 硬错误、CI 全绿）与非目标（不改原文、不补内容、不造引文）。方向声明写入任务 JSON 的 `evidence` 首条；含糊先问不猜（[08](08-intent-first.md)）。
+
 ## 任务类型与状态机
 
 | 类型 | 触发 | 状态序列 |

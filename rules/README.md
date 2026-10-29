@@ -6,7 +6,7 @@
 
 发生冲突时，按以下优先级裁决（上位覆盖下位）：
 
-1. **项目宪法** `.specify/memory/constitution.md` —— 六项核心原则（零信任、可追溯、单一事实源、流程先行、礼貌抓取、体例即契约）。修订须在提交信息中注明“修订宪法 vX.Y”并说明理由。
+1. **项目宪法** `.specify/memory/constitution.md` —— 七项核心原则（零信任、可追溯、单一事实源、流程先行、礼貌抓取、体例即契约、知难行易）。修订须在提交信息中注明“修订宪法 vX.Y”并说明理由。
 2. **本目录规则** `rules/` —— 宪法的操作性展开。修订须走 ADR（见 `rules/adr/`）。
 3. **各 feature 规格** `specs/<NNN>-*/` —— 某项工程的规格、计划与验收清单，只约束该 feature。
 4. **README.md** —— 面向访客的项目说明，不承载规则。
@@ -22,6 +22,7 @@
 | [05-ci-and-tools.md](05-ci-and-tools.md) | CI 工作流约定、本地工具清单、提交策略 | 全部会话 |
 | [06-governance.md](06-governance.md) | 软件工程治理：单一事实源登记表、变更管理、并发会话纪律、质量门 | 全部会话 |
 | [07-academic-norms.md](07-academic-norms.md) | 哲学学术规范：版本事实、引文文献、禁幻觉引文、结构完整、译注、审校挂钩 | 译文与校对会话 |
+| [08-intent-first.md](08-intent-first.md) | 任务意图与方向先行（知难行易）：方向声明、先问不猜、手段后置、以验收判据验收 | 全部会话 |
 
 ## 规则地图（统一规范化存储，2026-10-27 分门别类）
 
@@ -30,8 +31,8 @@
 | 类别 | 存放位置 | 内容 | 权属 |
 | ---- | ---- | ---- | ---- |
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
-| 约束性规则 | `rules/01-07` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
-| 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
+| 约束性规则 | `rules/01-08` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
+| 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、知难行易（00b）、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
 | 站点实现文档 | [`.vitepress/README.md`](../.vitepress/README.md) | 阅读站构建、主题、搜索、双语配对的实现说明（**非规则**，冲突以 rules/ 为准；ADR-0015） | 站点会话 |
 | 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist）——含 [specs/005 全流程翻译与债务偿还规划书](../specs/005-translation-campaign/spec.md) | 单项工程规格与验收 | 该工程会话 |
 | 管线契约 | `specs/<NNN>-*/contracts/cli.md` | 工具职责权属、CLI 行为 | 该工程会话 |
@@ -44,6 +45,7 @@
 
 ## 快速判例
 
+* 新任务或需求含糊 → 先写方向声明（用户到底要什么、目标/非目标、验收判据），再选手段（[08](08-intent-first.md)）。
 * 改标题 → 只改 `SUMMARY.md`，文件 H1 交由 CI 同步（[01](01-repository-structure.md)）。
 * 新术语 → 先登记 `yi-zhe-shuo-ming.md`，再使用（[03](03-terminology.md)）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。

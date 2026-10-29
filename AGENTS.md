@@ -6,9 +6,9 @@
 
 ## 规范层级（冲突时上位覆盖下位）
 
-1. **项目宪法** `.specify/memory/constitution.md` —— 零信任、可追溯、单一事实源、流程先行、礼貌抓取、体例即契约。
-2. **全局规则** `rules/` —— 宪法的操作性展开，修订走 `rules/adr/`（决策记录 9 个，取代链完整）；`rules/README.md` 的**规则地图**给出九类规则/文档的唯一存放位置。
-3. **参考方法论** `rules/reference/` —— engineering-doctrine（G0-G5 门禁、32 条总纲、FR/NFR、交付清单），**不具约束力**，采纳进 rules/ 才生效。
+1. **项目宪法** `.specify/memory/constitution.md` —— 零信任、可追溯、单一事实源、流程先行、礼貌抓取、体例即契约、知难行易。
+2. **全局规则** `rules/` —— 宪法的操作性展开，修订走 `rules/adr/`（决策记录见索引，取代链完整）；`rules/README.md` 的**规则地图**给出九类规则/文档的唯一存放位置。
+3. **参考方法论** `rules/reference/` —— engineering-doctrine（G0-G5 门禁、32 条总纲、知难行易、FR/NFR、交付清单），**不具约束力**，采纳进 rules/ 才生效。
 4. **工程规格** `specs/<NNN>-*/` —— 单项工程的规格、契约（contracts/cli.md 职责权属）与执行记录（execution-log.md）。
 5. `README.md` —— 面向访客的说明。
 
@@ -16,6 +16,7 @@
 
 | 要做什么 | 先读 |
 | ---- | ---- |
+| 收到新指令 / 需求含糊 | `rules/08-intent-first.md`（先复述用户到底要什么、目标/非目标与验收判据，再选手段；含糊先问不猜） |
 | 翻译 / 校对词条 | `rules/04-translation-workflow.md`（先建任务 `tools/task_ops.py`，状态机禁止跳步）、`rules/02-style.md`、`rules/03-terminology.md`、`rules/07-academic-norms.md`（学术规范，s3/r3 挂钩实拦）；翻译工程标准 v1.0 见 `fang-fa-lun/gong-cheng-fang-fa.md`（散页标准，待折叠进 rules/04） |
 | 改目录 / 标题 / 结构 | `rules/01-repository-structure.md`（SUMMARY.md 唯一数据源；词条为 `<letter>/<slug>.md` A–Z 字母目录，ADR-0009；mu-lu-s.md 为手编分类目录） |
 | 接入新词条 / 更新任务 | `specs/001-sep-sync-pipeline/contracts/cli.md` 职责权属表：apply-add 唯一入口、compare 持久变更文件 → update 任务 changes: 证据 |
@@ -24,6 +25,7 @@
 
 ## 会话开工五分钟
 
+0. **方向确认**：按 `rules/08-intent-first.md` 用一句话复述用户到底要什么，写清目标/非目标与验收判据；含糊先问不猜，禁止猜着做；
 1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话并行，**推送前先 `git pull --rebase`**（并行会话 push 竞态会孤儿化对方提交，见 `rules/06-governance.md`）；
 2. 通读 `rules/README.md` 的“规则地图”与“快速判例”；
 3. 跑门禁：`python tools/check_all.py`（一键全量：六项门禁 + 单元测试，共 7 项，并行约 6 秒，应全绿）；
@@ -37,6 +39,7 @@
 
 ## 硬约束速览
 
+* **知难行易**：先明白任务方向与目标（用户到底要什么），再选手段；工具、流程、文档篇幅都不是完成证据，验收判据与证据才是（`rules/08-intent-first.md`，宪法 VII）。
 * **零信任**：既有中文译文一律不作底稿或修改依据；可疑处回原始 HTML（`en/` 原始抓取、`yuanwen/` 转换镜像，均不入库）核对；一切成品可回溯到英文源版本钉（pubinfo + 存档版名 + SHA-256）。
 * **单一事实源**：结构看 `SUMMARY.md`，术语看 `yi-zhe-shuo-ming.md`，人名看 `ren-ming-biao.md`（ADR-0012），版本看 `baseline/`，任务状态看 `tasks/`；两处不一致时修弱势方。
 * **流程先行**：动笔前先有任务记录（`tasks/`）；先登记术语后使用；每步留 `evidence` 凭证。

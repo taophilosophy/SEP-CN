@@ -2,13 +2,15 @@
 
 > 立法：ADR-0012（弃维基/优先知网/人名表拆分）。宪法 IV 流程先行：本卡是唯一开工入口。
 > 硬约束：礼貌抓取 ≥5s；核验器只报告不修改；先登记后使用；凭证全部入库。
-> **ZCode 技能**：本流程已封装为项目级技能 `termonline-batch`（`.zcode/skills/termonline-batch/SKILL.md`）——新会话说「术语跑批 / 查证下一批 / 审定库查证」即自动按 S.O.P. 执行，无需读本卡全文。
+> **ZCode 技能**：本流程已封装为项目级技能 `termonline-batch`（`.zcode/skills/termonline-batch/SKILL.md`）——新会话说“术语跑批 / 查证下一批 / 审定库查证”即自动按 S.O.P. 执行，无需读本卡全文。
 
 ## 开工三件事
 
+开工前先按 `rules/08-intent-first.md` 写方向声明：本批查证范围、目标/非目标与完成判据；范围含糊先问不猜。
+
 1. `python tools/check_all.py`（应全绿）+ `git log --oneline -5` 核基点；
 2. `python tools/term_audit.py`——看当前四态分布与未查证清单（报告在 `specs/008-terminology-campaign/results/`）；
-3. 按下表认领下一批（认领记录写在本文件「执行认领」节，commit 留痕）。
+3. 按下表认领下一批（认领记录写在本文件“执行认领”节，commit 留痕）。
 
 ## 状态基线（2026-10-28 B0 收工）
 
