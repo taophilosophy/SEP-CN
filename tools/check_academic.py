@@ -48,6 +48,7 @@ EXCLUDE_FILES = {
     'README.md', 'SUMMARY.md', 'mu-lu-s.md', 'yi-zhe-shuo-ming.md',
     'ren-ming-biao.md',  # ADR-0012 人名登记册，与 yi-zhe-shuo-ming 同性质
     'PROGRESS.md', 'AGENTS.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md',
+    'RELEASE-NOTES.md',  # G5 发布登记页（ADR-0016），非词条（008 第八轮补）
 }
 
 STUB_BODY_LINES = 10      # 非空行 ≤ 此数（含 H1）视为存根
