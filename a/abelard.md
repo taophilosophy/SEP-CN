@@ -1,4 +1,4 @@
-# 彼得·阿伯拉尔 Abelard \[Abailard\], Peter (Peter King and Andrew Arlig)
+# 彼得·阿伯拉尔 Abelard [Abailard], Peter (Peter King and Andrew Arlig)
 
 *首次发表于 2004 年 8 月 3 日；2026 年 7 月 31 日实质修订。*
 
