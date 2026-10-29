@@ -57,3 +57,15 @@
 ## 2026-10-30 用户指令：再抽 5% 人工深读
 
 * 用户指令："再次抽查随机5%"。同协议加抽 94 条（种子 20261030），主代理逐段通读，结论落 `manual-5pct.jsonl`；与 1% 层累计 6% 人工覆盖。全量跑批同期推进（1590/1878）。
+
+## 2026-10-30 5% 人工深读完成（94/94）
+
+* 完成：种子 20261030 抽样 94 条全部主代理逐段通读完毕（本日续接 22 条：bradley-regress→atonement），逐条裁定落 `manual-5pct.jsonl`（102 条记录=94 抽样全覆+8 条前会话跨词条普查补充；94 条零缺失零重复），每条即读即记即 pathspec 提交。
+* 裁定分布：pass 80 / fail 22（前阶段 fail 多指「发现待移交」标记、其 verdict 正文均为完整性描述；本日新增 22 条中 21 pass，仅 williams-dc 记 fail）。
+* **最高优先级移交项（镜像忠实性破坏）**：williams-dc 原 Primary literature 节 20 条作者著作在 yuanwen 整节静默丢失（空 H3 后零 def 零残留）；duhem 表格书目完整幸存、bergson 题名开头条目成功转 def，三方对照锁定丢失机制=悬挂列表年份开头无作者条目被转译跳过。
+* SUMMARY 正确性门实体发现 1 例：identity-ethics SUMMARY L1996 作者滞后（仍署 Shoemaker，2025-06-30 新版实为 Dufner）。
+* 锚定率谱系实证（作者-年份锚定率跨条目 0%–91%）：spacetime-holearg 0%、logic-ai 4%、bergson 6% ↔ egalitarianism 91%、bodily-awareness 81%、identity-ethics 78%——转译批次行为不一致的量化证据；另录「目录区零锚/讨论区有锚」斑块分布与六类系统性锚定盲区（survey 组/裸名/多年份组/变音名/作者改名/forthcoming-nd）。
+* 同姓同年与姓前缀误挂大爆发：Cohen 交叉互染、Wallace/Wall、Gadsby、Lush、Isaacs、Chalmers、Eliasmith 一引三 def、Rumelhart 一引四 def——同姓同年 def 对为误挂磁铁，Read&Thakkar/Leibovitz/Palmira/Dais/Coelho/Dewhurst/Silver 等年份拼写失配族。
+* 上游误拼与形态实锤密度极高（全部逐条回原 HTML 计数定性、镜像忠实）：august-rehberg 16 处、physics-experiment 13 连（larue-nd "DATE" 占位符、nelson-1994-2 重复 def、Simon S. 讹名、双 Einstein 损形）、computational-mind 14 连（Krishevsky 缺 z、grice Ways of Words、maley 卷页双错）、atonement 正文 "(LINK)" 字面占位符、identity-ethics "is reflects" 语法错、sextus-empiricus C34 强调句号等——修复责任在上游会话，本战役零写入。
+* 新转译形态家族（移交镜像会话）：em 边缘空格双侧破强调、span.smaller 推荐标注丢失（13 处）、表格内嵌 ul 压平、dl-dt 转四星、sup→^{} 与 sub→_{} 字面残留、正文与 def 反向引号区、References 压扁变体四型（空 H3/四连空/双层双说明行/叙述压 def 汤）、附录注编号列表与主注 def 双制、跨节重列重复 def 五对、多卷本拆孤儿 def（vol-nd）、=_{defn} 下标残留。
+* 5% 层与 1% 层累计人工覆盖 113 条（6%）；全部修复责任移交镜像/管线会话，本战役零写入不改被审文件。
