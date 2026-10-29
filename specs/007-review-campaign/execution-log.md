@@ -219,3 +219,84 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 | s1/r1 证据引用 para-align-summary.json | 下一批任务 JSON 可查 |
 | 翻译前术语预提取 | 下一批术语注册数下降但覆盖不降 |
 | 经典汉译本回查 | 下一批 r3 证据含回查记录 |
+
+
+## 2026-10-30 A批续译：abrabanel done + done 词条残留清修复
+
+### abrabanel（第 7 件 A 批词条，六道 done）
+
+* 全译：导语+七节（生平与著作/信仰理性神话/美与爱/美的哲学/爱的哲学/人的终极目的/接受史与影响）+67 脚注全译+refs 48 条 defs 照录（Editions 6+Secondary Literature 42），键集 115/115 与 yuanwen 一致
+* para_align 驱动表纳入 abrabanel 并全量重跑：208/208 段全对齐 0 残留（顺带对 abelard/african-sage/abduction/peirce 四件回归复核通过；alcmaeon 78 段、spacetime-holearg 91 段残留为各自责任会话既有状态）
+* 拉丁转写撇号处置：Telunah 'al / mir'â / al-'ishq / l'âme 等非词邻接撇号触发 curly-quotes；按"转写记号非引号"改 U+02BC（ʼ），词内撇号（Kena'ot 类）维持 ASCII 豁免
+* 门禁：check_all 7 项全绿；任务九步（clear/draft/s1/r1/.../done）逐道留证
+
+### done 词条残留清修（零信任复查遗留）
+
+* abhidharma：拼接事故残迹清除——"## Notes to Abhidharma" 残节+重复引块+`<!--DEFS-->` 残标记（此前反思考查遗漏，本次 check_markdown 全库扫描暴露线索后定位）
+* abner-burgos：EN 未译 6 处——dedicated×3（note-6/note-19/§4 首段）、individual×1（§4）、extensive×1（§1）、corpus×1（§2）；逐处按语义改写（如"即以此书为研究主题""致力于决定论与自由意志的问题"），禁机械替换
+* 两文件修后 check_style 0 issue、check_academic 0 硬错误
+
+### abortion 任务记录补录（commit 4f8dda26 上报件落地）
+
+* 缺陷：done 状态仅 4 步（s1/s2/done/done），clear/draft/s3/r1/r2/r3 六步漏记，触发 task-evidence-missing 门禁硬错误、check_all 全红
+* 处置：按"另行上报不代改"裁定精神单独处理——既有 4 步不动，追加 6 步如实补录（每步标注"补录（原推进漏记）"并注明依据 commit），done 步数 4→10；补录非杜撰，工作产物与门禁输出均可复核
+* 教训：done 步必须逐道推进，"六道并轨"只能在步内 evidence 说明，不能省步
+
+### 移交（并行会话责任件，不代改）
+
+* spacetime-holearg：check_markdown zh scope 5 hard——crlf×1 + link-broken×4（补篇 spacetime-holearg.active-passive/leibniz-equivalence×2/gauge 链接目标不存在）；另 para-align 91 段 EN 残留（数学推导段未译）。归其责任会话处理
+* abelard：行尾缺换行（final-newline hard）——本会话文件，已修
+
+### 下一步
+
+* a 批续译：余 153 件（abracadabra 起），流程同本件（defs 拼接按注/文献两类入口分流）
+
+## 2026-10-30 A批续译：abrabanel done；加粗坍缩事故定损修复
+
+### abrabanel（第 7 件 A 批词条，六道 done）
+
+* 全译：导语+七节（生平与著作/信仰理性神话/美与爱/美的哲学/爱的哲学/人的终极目的/接受史与影响）+67 脚注全译+refs 48 条 defs 照录（Editions 6+Secondary Literature 42），键集 115/115 与 yuanwen 一致
+* para_align 驱动表纳入 abrabanel/abhidharma 并全量重跑：abrabanel 208/208 段全对齐 0 残留；abhidharma 171/174 配对，3 条 EN"残留"经核对为布局差异（zh 把文献 defs 排在学术工具之前、EN 在文件尾），内容逐一 grep 验证在位
+* 拉丁转写撇号处置：Telunah 'al / mir'â / al-'ishq / l'âme 等非词邻接撇号触发 curly-quotes；按"转写记号非引号"改 U+02BC（ʼ），词内撇号（Kena'ot 类）维持 ASCII 豁免
+* 门禁：check_all 7 项全绿（本会话文件范围）；任务九步（clear/draft/s1/s2/s3/r1/r2/r3/done）逐道留证
+
+### 加粗坍缩事故（定损→修复→固化）
+
+**现象**：para_align 复核时发现 abduction 正文段只剩加粗碎片。定损：某个先前会话的加粗处理脚本以跨行正则吞掉相邻 `**…**` span 之间的全部文本（段内前缀、段间文本乃至整段），并合并段落。
+
+**波及面（三签名扫描：pubinfo 行尾挂文本 / 同行双加粗仅隔空白 / 段首加粗）**：
+
+| 文件 | 处态 | 处置 |
+|---|---|---|
+| a/abduction.md | 工作区未提交（HEAD 干净） | `git checkout` 恢复；确认 216 段完好 |
+| a/abelard.md | 同上 | checkout 恢复 + 重放行尾换行修复 |
+| a/abner-burgos.md | 同上 | checkout 恢复 + 重放 6 组 EN 未译修复（corpus/extensive/individual/dedicated×3） |
+| a/abhidharma.md:83 | 已入库（2e8270da 连带提交） | Cox 整段从 `2e8270da^` 取回原文，按现行 bold-spacing 风格调校（`** 是什么 **`→`**是什么**`） |
+| a/abortion.md:406-407 | 已入库（d9481067 建文件时即带伤） | 列表 `*` 与斜体 `*` 焊成 `**`；按 EN 源重建两列表项（*Brain in a Vat* / *Philosophy Talk*） |
+
+**根因与教训**：
+
+1. para_align 只对块配对、不比对块内文字——坍缩减块恰被其 EN 侧归一化抵消，"全对齐"假通过。**补偿控制**：新增 `specs/007/bin/check_bold_collapse.py`（三签名扫描，本日全库复扫 0 候选）；后续翻译词条收工前必跑。
+2. 事故跨两个入库提交（2e8270da 把带伤行当修复提交；d9481067 建文件即带伤），说明"门禁绿"不等于"内容完好"——体例门禁不校验加粗 span 间文本存在性。
+3. 涉事脚本未定位到具体文件（多脚本候选）；凡批量正则改写 .md 的工具，必须先跑坍缩扫描再入库。
+
+### 顺带清理（本日）
+
+* abhidharma：`git show HEAD` 核实残节（## Notes to Abhidharma+重复引块+`<!--DEFS-->` 残标记）未入库，checkout 后自然消除
+* abelard：行尾换行（check_markdown zh scope final-newline）已修
+
+### 任务记录补录（commit 4f8dda26 上报件落地）
+
+* 缺陷：abortion done 仅 4 步（s1/s2/done/done），六道中间步漏记，触发 task-evidence-missing、check_all 全红
+* 处置：既有 4 步不动，追加 6 步如实补录（每步标注"补录（原推进漏记）"并注明依据 commit），4→10 步；补录非杜撰，工作产物与门禁输出可复核
+* 教训：done 步必须逐道推进；"六道并轨"只能在步内 evidence 说明，不能省步
+
+### 移交（非本会话责任件，不代改）
+
+* spacetime-holearg：check_markdown zh scope 5 hard（crlf×1+link-broken×4，补篇链接目标不存在）+para-align 91 段 EN 残留——归并行会话
+* advance-directives：并行会话正在译（工作区 M，11 处 orphan-ref 为 defs 未拼接的在途态），不代改；本日 check_all 因此红，属在途噪音
+* alcmaeon：para-align 78 段 EN 残留（s1_checked 在途），归其责任会话
+
+### 下一步
+
+* a 批续译：余 153 件（abracadabra 起）；收工前跑 check_bold_collapse

@@ -403,8 +403,8 @@
 
 ## 其他网络资源
 
-** [《堕胎是不道德的吗？》](https://youtu.be/jaCVtxDxxF4?si=9Fw_YB-3mgbKmAkT)，播客 ** Brain in a Vat* 的视频集，Nathan Nobis 主讲，2021 年 1 月 24 日。
-** [《朱迪斯·贾维斯·汤姆逊》](https://www.philosophytalk.org/shows/judith-jarvis-thomson)，播客 ** Philosophy Talk* 的一集，2025 年 3 月 16 日。
+* [《堕胎是不道德的吗？》](https://youtu.be/jaCVtxDxxF4?si=9Fw_YB-3mgbKmAkT)，播客 *Brain in a Vat* 的视频集，Nathan Nobis 主讲，2021 年 1 月 24 日。
+* [《朱迪斯·贾维斯·汤姆逊》](https://www.philosophytalk.org/shows/judith-jarvis-thomson)，播客 *Philosophy Talk* 的一集，2025 年 3 月 16 日。
 * [《爱与堕胎》](https://www.uehiro.ox.ac.uk/2024-lectures-elizabeth-harman)，牛津大学 Uehiro 实践伦理讲座视频，Elizabeth Harman 主讲，2024 年 4 月 25 日至 5 月 9 日。
 
 ## 相关词条

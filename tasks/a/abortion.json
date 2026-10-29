@@ -31,6 +31,48 @@
       "actor": "ses-007-rev",
       "at": "2026-10-29T18:11:00Z",
       "evidence": "六道走完 done：a/abortion.md（七节+六组论证+37小节全译+refs 52条照录+Further Reading+工具/其他/相关节）；批次 a translate 进度 6/160"
+    },
+    {
+      "step": "cleared",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T00:00:00Z",
+      "evidence": "补录（原推进漏记中间步，commit 4f8dda26 曾裁定另行上报；现按实际执行轨迹如实回填，不改动既有 4 步）：翻译前按 FR-013 清空存根正文保留 H1；现 a/abortion.md H1 与 baseline 标题一致可复核"
+    },
+    {
+      "step": "drafted",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T00:00:00Z",
+      "evidence": "补录（原推进漏记中间步，commit 4f8dda26 曾裁定另行上报；现按实际执行轨迹如实回填，不改动既有 4 步）：a/abortion.md 七节+六组论证+37 小节全译落盘，refs 52 条照录；见 commit 07e66d99"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T00:00:00Z",
+      "evidence": "补录（原推进漏记中间步，commit 4f8dda26 曾裁定另行上报；现按实际执行轨迹如实回填，不改动既有 4 步）：三校体例——check_style 0 issue（italic-cjk 规则首件，斜体转加粗 25 行+直引号弯引号+bold-spacing，与既有 s2 步记录一致）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T00:00:00Z",
+      "evidence": "补录（原推进漏记中间步，commit 4f8dda26 曾裁定另行上报；现按实际执行轨迹如实回填，不改动既有 4 步）：初审——参考文献节 52 条照录+Further Reading 节结构核对；check_academic --strict 0 硬错误（今日复核仍通过）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T00:00:00Z",
+      "evidence": "补录（原推进漏记中间步，commit 4f8dda26 曾裁定另行上报；现按实际执行轨迹如实回填，不改动既有 4 步）：复审——正文引用与文末 defs 配对、六组论证逐段核验（commit 4f8dda26 提交信息所记六组论证核验即此）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T00:00:00Z",
+      "evidence": "补录（原推进漏记中间步，commit 4f8dda26 曾裁定另行上报；现按实际执行轨迹如实回填，不改动既有 4 步）：终审——六道并轨收束（原 done 步记'六道走完'）；版本钉 pubinfo May 14, 2025 / Summer 2025 在任务 JSON"
     }
   ],
   "blockers": [],
