@@ -342,131 +342,58 @@
 
 ** 以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
-### Further Reading
-
-## Academic Tools
-
-> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abortion). |
-> | --- | --- |
-> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/abortion/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abortion&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/abortion/) at [PhilPapers](https://philpapers.org/), with links to its database. |
-
-## Other Internet Resources
-
-- “[Is Abortion Immoral?](https://youtu.be/jaCVtxDxxF4?si=9Fw_YB-3mgbKmAkT)” a video episode of the podcast *Brain in a Vat*, featuring Nathan Nobis, January 24, 2021.
-- “[Judith Jarvis Thomson](https://www.philosophytalk.org/shows/judith-jarvis-thomson),” a podcast episode of *Philosophy Talk*, March 16, 2025.
-- “[Love and Abortion](https://www.uehiro.ox.ac.uk/2024-lectures-elizabeth-harman),” videos of The Uehiro Lectures in Practical Ethics at Oxford University, given by Elizabeth Harman, April 25–May 9, 2024.
-
-## Related Entries
-
-cognitive disability and moral status | conscience | double effect, doctrine of | ethics, biomedical: privacy and medicine | ethics, biomedical: stem cell research | ethics: in Indian Buddhism | eugenics | feminist philosophy, approaches: Latin American feminism | feminist philosophy, interventions: philosophy of law | feminist philosophy, topics: perspectives on reproduction and the family | Foot, Philippa | moral status, grounds of | parenthood and procreation | personal identity: and ethics | pregnancy, birth, and medicine | self-defense | thought experiments
-
 [^asch-1989]: Asch, Adrienne, 1989, “Reproductive Technology and Disability”, in Sherrill Cohen and Nadine Taub (eds.), *Reproductive Laws for the 1990s, Clifton*, NJ: Humana Press, pp. 69–124.
-
 [^baker-2016]: Baker, Deane-Peter, 2016, *Citizen Killings: Liberalism, State Policy and Moral Risk*, London: Bloomsbury.
-
 [^barnes-2016]: Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press.
-
 [^berg-2017]: Berg, Amy, 2017, “Abortion and Miscarriage”, *Philosophical Studies*, 174(5): 1217–1226.
-
 [^boonin-2003]: Boonin, David, 2003, *A Defense of Abortion*, Cambridge: Cambridge University Press.
-
 [^davis-1984]: Davis, Nancy, 1984, “Abortion and Self-defense”, *Philosophy and Public Affairs*, 13(3): 175–207.
-
 [^degrazia-2007]: DeGrazia, David, 2007, “The Harm of Death, Time-Relative Interests, and Abortion”, *Philosophical Forum*, 38(1): 57–80.
-
 [^dworkin-1993]: Dworkin, Ronald, 1993, *Life's Dominion: An Argument about Abortion, Euthanasia, and Individual Freedom*, London: HarperCollins.
-
 [^english-1975]: English, Jane, 1975, “Abortion and the Concept of a Person”, *Canadian Journal of Philosophy* 5(2): 233–243.
-
 [^frowe-2024]: Frowe, Helen and Jonathan Parry, 2024, “Self-defense”, *The Stanford Encyclopedia of Philosophy* (Summer 2024 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/sum2024/entries/self-defense/
-
 [^hare-1975]: Hare, R. M., 1975, “Abortion and the Golden Rule”, *Philosophy and Public Affairs*, 4(3): 201–222.
-
 [^harman-1999]: Harman, Elizabeth, 1999, “Creation Ethics: The Moral Status of Early Fetuses and the Ethics of Abortion”, *Philosophy and Public Affairs*, 28(4): 310–324.
-
 [^harman-2009]: –––, 2009, “‘I'll Be Glad I Did It’ Reasoning and the Significance of Future Desires”, *Philosophical Perspectives*, 23: 177–199.
-
 [^harman-2015]: –––, 2015, “The Irrelevance of Moral Uncertainty”, *Oxford Studies in Metaethics*, 10: 53–79.
-
 [^harman-2021]: –––, 2021, “What Amy Coney Barrett Doesn't Understand About Abortion”, *New York Daily News*, December 9.
-
 [^hursthouse-1991]: Hursthouse, Rosalind, 1991, “Virtue Theory and Abortion”, *Philosophy and Public Affairs*, 20(3): 223–246.
-
 [^kamm-1992]: Kamm, F. M., 1992, *Creation and Abortion: A Study in Moral and Legal Philosophy*, New York: Oxford University Press.
-
 [^kaposy-2018]: Kaposy, Chris, 2018, *Choosing Down Syndrome: Ethics and New Prenatal Testing Technology*, Cambridge, MA: The MIT Press.
-
 [^kittay-2019]: Kittay, Eva Feder, 2019, *Learning from My Daughter: The Value and Care of Disabled Minds*, New York: Oxford University Press.
-
 [^little-1999]: Little, Margaret Olivia, 1999, “Abortion, Intimacy, and the Duty to Gestate”, *Ethical Theory and Moral Practice*, 2(3): 295–312.
-
 [^lockhart-2000]: Lockhart, Ted, 2000, *Moral Uncertainty and Its Consequences*, New York: Oxford University Press.
-
 [^marquis-1989]: Marquis, Don, 1989, “Why Abortion is Immoral”, *The Journal of Philosophy*, 86(4): 183–202.
-
 [^mcdonough-1996]: McDonough, Eileen, 1996, *Breaking the Abortion Deadlock: From Choice to Consent*, New York: Oxford University Press.
-
 [^mcinerney-1990]: McInerney, Peter K., 1990, “Does a Fetus Already Have a Future-Like-Ours?”, *The Journal of Philosophy*, 87(5): 264–268.
-
 [^mcmahan-2002]: McMahan, Jeff, 2002, *The Ethics of Killing: Problems at the Margins of Life*, New York: Oxford University Press.
-
 [^moller-2011]: Moller, Dan, 2011, “Abortion and Moral Risk”, *Philosophy*, 86(3): 425–443.
-
 [^nelson-2007]: Nelson, James Lindemann, 2007, “Synecdoche and Stigma”, *Cambridge Quarterly of Healthcare Ethics*, 16(4): 475–478.
-
 [^parens-2000]: Parens, Eric and Adrienne Asch, 2000, “The Disability Rights Critique of Prenatal Genetic Testing: Reflections and Recommendations”, in Parens and Asch (eds.), *Prenatal Testing and Disability Rights*, Georgetown University Press.
-
 [^quinn-1984]: Quinn, Warren, 1984, “Abortion, Identity, and Loss”, *Philosophy and Public Affairs*, 13(1): 24–54
-
 [^steinbock-1992]: Steinbock, Bonnie, 1992, *Life Before Birth: The Moral and Legal Status of Embryos and Fetuses*, New York: Oxford University Press.
-
 [^stroud-1996]: Stroud, Sarah, 1996, “Dworkin and Casey on Abortion”, *Philosophy and Public Affairs*, 25(2): 140–170.
-
 [^thomson-1971]: Thomson, Judith Jarvis, 1971, “A Defense of Abortion”, *Philosophy and Public Affairs*, 1(1): 47–66.
-
 [^thomson-1995]: –––, 1995, “Abortion: Whose Right?”, *Boston Review*, October 16. [[Thomson 1995 available online](https://bostonreview.net/forum/judith-jarvis-thomson-abortion-0/)]
-
 [^tooley-1972]: Tooley, Michael, 1972, “Abortion and Infanticide”, *Philosophy and Public Affairs*, 2(1): 37–65.
-
 [^warnke-1999]: Warnke, Georgia, 1999, *Legitimate Differences: Interpretation in the Abortion Controversy and Other Public Debates*, Berkeley: University of California Press.
-
 [^weatherson-2019]: Weatherson, Brian, 2019, *Normative Externalism*, Oxford: Oxford University Press.
-
 [^wendell-1996]: Wendell, Susan, 1996, *The Rejected Body*, New York: Routledge.
-
 [^asch-1999]: Asch, Adrienne, 1999, “Prenatal Diagnosis and Selective Abortion: A Challenge to Practice and Policy”, *American Journal of Public Health*, 89(11): 1649–1657.
-
 [^colb-2016]: Colb, Sherry F. and Michael C. Dorf, 2016, *Beating* *Hearts: Abortion and Animal Rights*, New York: Columbia University Press.
-
 [^dombrowski-2000]: Dombrowski, Daniel A. and Robert Deltete, 2000, *A Brief, Liberal, Catholic Defense of Abortion*, Urbana: University of Illinois Press.
-
 [^foot-1967]: Foot, Philippa, 1967, “The Problem of Abortion and the Doctrine of Double Effect”, *Oxford Review*, 5: 5–15.
-
 [^greasley-2017]: Greasley, Kate, 2017, *Arguments about Abortion: Personhood, Morality, and Law.* Oxford: Oxford University Press.
-
 [^greasley-2018]: Greasley, Kate and Christopher Kaczor, 2018, *Abortion Rights: For and Against*. Cambridge: Cambridge University Press.
-
 [^grob-2020]: Grob, Christina and Nathan Nobis, 2020, “Defining ‘Abortion’ and Critiquing Common Arguments about Abortion”, in Bob Fischer (ed.), *College Ethics: A Reader on Moral Issues that Affect You*, New York: Oxford University Press, 2ⁿᵈ Edition.
-
 [^hine-2021]: Hine, Kristen, 2021, “Autonomy Rights and Abortion after the Point of Viability”, *Bioethics*, 35: 787–792.
-
 [^kaczor-2023]: Kaczor, Christopher, 2023, *The Ethics of Abortion: Women's Rights, Human Life, and the Question of Justice*, New York: Routledge, 3ʳᵈ Edition.
-
 [^keown-1999]: Keown, Damien, 1999, *Buddhism and Abortion*, Honolulu: University of Hawai'i Press.
-
 [^little-2008]: Little, Margaret Olivia, 2008, “Abortion and the Margins of Personhood”, *Rutgers Law Journal*, 39: 331–348.
-
 [^roberts-2010]: Roberts, Melinda, 2010, *Abortion and the Moral Significance of Merely Possible Persons: Finding Middle Ground in Hard Cases*, New York: Springer.
-
 [^warren-1973]: Warren, Mary Anne, 1973, “On the Moral and Legal Status of Abortion”, *Monist*, 57(1): 43–61.
-
 [^warren-2000]: –––, 2000, *Moral Status: Obligations to Persons and Other Living Things*, Oxford: Oxford University Press.
-
 [^watt-2016]: Watt, Helen, 2016, *The Ethics of Pregnancy, Abortion and Childbirth: Exploring Moral Choices in Childbearing*, New York: Routledge.
-
-### Further Reading
 
 ## 学术工具
 

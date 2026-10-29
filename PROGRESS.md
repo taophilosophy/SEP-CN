@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-10-29 16:13（UTC）
+生成时间：2026-10-29 17:22（UTC）
 
 ## 总览
 

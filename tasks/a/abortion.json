@@ -2,8 +2,37 @@
   "slug": "abortion",
   "kind": "retranslate",
   "zh_doc": "a/abortion.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-29T17:58:57Z",
+      "evidence": "一校：对照 yuanwen/a/abortion.md（468行）逐节翻译——导语+§1(1.1-1.6六小节)+§2(2.1-2.3)+§3+§4+§5+§6(6.1-6.4)+§7 全部译出；脚注/文献 defs 52条（键集一致）；伦理学术语：生命权/道德地位/人格/潜能性/丧失论证/黄金法则/内在价值/道德风险/表达性论证等通行汉译"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-29T17:58:58Z",
+      "evidence": "二校修改清单：①斜体→加粗 25 行转换（italic-cjk 规则落地后首件）；②直引号→弯引号；③bold-spacing 修正；④EN 残留中文化（contained/perception etc.）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-29T17:58:59Z",
+      "evidence": "六道走完 done：a/abortion.md（七节全译+六组论证+refs 52条照录+Further Reading）；批次 a translate 进度 6/160"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-29T18:11:00Z",
+      "evidence": "六道走完 done：a/abortion.md（七节+六组论证+37小节全译+refs 52条照录+Further Reading+工具/其他/相关节）；批次 a translate 进度 6/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:37:57Z",
   "version_pin": {
