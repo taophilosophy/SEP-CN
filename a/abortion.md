@@ -1,1 +1,487 @@
 # 堕胎的伦理学 The Ethics of Abortion (Harman, Elizabeth)
+
+** 首次发表于 2025 年 5 月 14 日。**
+
+堕胎（abortion）是指通过手术或服用药物有意终止妊娠。普通人对堕胎意见不一：许多人认为堕胎在道德上是极其错误的，而另一些人则认为堕胎在道德上是允许的。哲学可以对这一讨论做出很多贡献：区分并澄清反对堕胎的不同论证，区分并澄清对这些论证的不同回应，提出反对堕胎的新论证，提出为堕胎辩护的新论证，以及就相关争点提出新的观点。
+
+本词条的核心问题是：堕胎在道德上是错误的吗？这个问题具有重要的法律和政治意涵。即使堕胎在道德上是错误的，堕胎是否应当被取缔或在法律上受到某种限制，仍然是一个开放且进一步的问题。社会应当如何决定是否取缔或限制堕胎，这也是一个实质性问题。本词条聚焦于道德问题，不深入探讨这些重要的法律与政治问题。
+
+本词条的前六部分呈现六种反对堕胎的论证。这些部分的子节呈现对这些论证的回应——即对堕胎的辩护。第七部分讨论为什么堕胎伦理学很重要。
+
+## 1 生命权论证
+
+让我们从考虑以下论证开始：
+
+**1.**
+
+胎儿是一个人格（person）。
+
+**2.**
+
+所有人格都拥有生命权。
+
+**3.**
+
+因此，胎儿拥有生命权。
+
+**4.**
+
+杀死拥有生命权的东西在道德上是错误的。
+
+**5.**
+
+堕胎杀死了胎儿。
+
+因此，堕胎在道德上是错误的。
+
+这一论证具有某种真实的直觉吸引力。堕胎是杀死一个人（human being），所以看起来确实是在杀死一个人（person）。一般而言，杀死人格是错误的；所有人格都拥有生命权，这看起来也是对的。
+
+我们将考虑针对这一论证的五条反对路径。
+
+### 1.1 歧义反驳
+
+我们可以通过论证该论证存在歧义来反对生命权论证。“人格”一词在该论证中可能有两种不同的含义。假设“人格”指任何作为 ** 人类 ** （human being）的动物；按此读法，说一个存在者是人格告诉我们这个存在者属于什么物种。正是在这一读法上，前提 1 显然为真：它说胎儿是人类。但假设“人格”意指“道德人格”（moral person）或具有完全道德地位的东西——像普通成年人那样在道德考量中具有完全分量。正是在这一读法上，前提 2 显然为真：它说所有道德人格都拥有生命权。反驳是：这一论证只有在前提 1 按“人格”的一种含义解释、前提 2 按另一种含义解释时才显得合理。
+
+这一反驳表明的是，我们所呈现的生命权论证有两个不同的版本。论证的一个版本通篇用“人格”意指“人类”。对这一版本而言，前提 2 是一个有争议的假定：它说所有人类，甚至早期的人类胎儿，都拥有生命权。论证的另一个版本用“人格”意指“道德人格”或“具有完全道德地位的存在者”。对这一版本而言，前提 1 是有争议的假定：它说所有胎儿——甚至死于早孕期堕胎的早期人类胎儿——都具有完全道德地位。
+
+这一反驳表明生命权论证有（至少）一个有争议的假定：要么前提 1 有争议，要么前提 2 有争议。
+
+### 1.2 小提琴手案例反驳
+
+设想一位著名的小提琴手患有严重的肾病。所有医疗档案都已查过，你被联系并收到以下令人惊讶的请求：你能否来医院住九个月，躺在小提琴手旁边的病床上，让你的肾脏为他的血液循环？你是唯一配型合适能帮助他的人，九个月后他将完全康复。你考虑了一下，不情愿地拒绝了。虽然你很乐意帮助另一个人，但住院九个月是你不愿做出的巨大牺牲。在你拒绝的第二天，你在医院醒来，与小提琴手连在了一起。原来是音乐爱好者协会绑架了你。医生告诉你，虽然绑架你是错误的，但你拔掉自己的管子也是错误的：小提琴手需要与你相连九个月，否则他会死。如果你拔掉管子，你就是在杀他，而他拥有生命权。虽然你有权控制发生在你身上和你的身体之内的事，但他的生命权无疑更强。
+
+在这种情形中你可以做什么？你当然可以拔掉自己的管子。（Thomson 1971 如此主张，该文引入了这一著名案例。）[^thomson-1971]但这表明我们一直在考虑的生命权论证并不成立。小提琴手确实拥有生命权；然而杀死他是被允许的。因此，仅仅因为某个人拥有生命权就认为不可杀死他，并不总是对的。小提琴手案例似乎表明生命权论证的前提 4 是假的。（小提琴手案例还削弱了另一个主张——不能为了较弱的权利而侵犯一个人的生命权；这正是 Thomson 提出该案例时想要削弱的主张。）
+
+注意：小提琴手案例反驳在承认胎儿拥有生命权的同时为堕胎辩护。反驳者主张，** 即使 ** 胎儿拥有生命权，也不能因此推出堕胎在道德上是错误的。
+
+考虑这一案例可能会调整我们对是否堕胎这一选择的道德框架。虽然很自然地把它仅仅看作是否杀死一个生命的选择，但对小提琴手案例的反思可能使我们把它看作是否为生命提供维持生命之援助的选择——附带的事实是，必须杀死那个存在者才能避免提供援助。
+
+#### 1.2.1 来自自愿性行为的回应
+
+小提琴手案例可能看起来只在强奸的情形中为堕胎辩护。你被违背意愿地带进医院，这对案例似乎很重要。
+
+因此，有人可能通过提出一个不同的反对堕胎被允许性的论证来回应小提琴手案例：
+
+**1.**
+
+有自愿性行为的孕妇对胎儿对其身体的依赖负有责任。
+
+**2.**
+
+如果你对某人依赖你的某物负有责任，那么剥夺他那种东西在道德上是错误的。
+
+因此，堕胎在道德上是错误的。
+
+为了回应这一新论证，我们可以考虑小提琴手案例的以下变体。假设在你拒绝帮助小提琴手之后，你听说音乐爱好者协会计划绑架你。你可以待在家里，这样你就安全了。或者你可以照常生活，雇几个保镖，希望绑架企图失败。你选择照常生活，带着保镖，然而你仍然被绑架并与小提琴手连在了一起。诚然，在这种情形中（论证如此进行），你仍然可以脱离小提琴手，从而杀死他。即使你照常生活的选择是你被绑架的 ** 原因 **，在这个意义上你对小提琴手依赖你的处境负有 ** 责任 **，这也是真的。因此，前提 2 被表明为假：虽然你对他的依赖负有责任，你可以剥夺他的援助。使用避孕措施的女子对胎儿依赖其身体的责任，绝不会比你在这个小提琴手案例变体中更多；因此，前提 2 在她的情形中同样为假。（关于责任反驳的进一步讨论，见 Kamm 1992 与 Boonin 2003。）[^boonin-2003][^kamm-1992]
+
+也许令人惊讶的是，从考虑这一担忧中浮现的一件事是：性行为是否是一种核心且重要的生活活动——以致放弃性行为将构成重大负担——可能很重要。在小提琴手案例的变体中，待在家里以避免绑架者会很艰难可能很重要。放弃性行为是否同样艰难？
+
+（另一种关于责任的观点认为，孕妇是胎儿的 ** 母亲 **，拥有与这种关系相关的基于角色的义务。但这假定女人与胎儿之间已经存在、并且未来将有有意义的关系。见 Little 1999。）
+
+#### 1.2.2 小提琴手案例是否提供其自身的正面论证？
+
+到目前为止我们讨论了小提琴手案例如何能在生命权论证面前为堕胎的允许性辩护。我们还可以考虑用小提琴手案例构造一个论证来确立堕胎在道德上是允许的：
+
+**1.**
+
+如果堕胎在道德上是错误的，那么脱离小提琴手在道德上是错误的。
+
+**2.**
+
+脱离小提琴手在道德上不是错误的。
+
+因此，堕胎在道德上不是错误的。
+
+这个论证不是在 Thomson 1971 中提出的，但值得考虑。关于小提琴手案例是否为生命权论证提供了有效回应的大部分讨论，也将阐明这是否是一个 sound 论证。堕胎案例与小提琴手案例之间有什么区别？这些区别是否造成了道德差别？
+
+### 1.3 什么是生命权？
+
+有人可能通过追问生命权是什么、以及它在他人身上创设了什么种类的义务，来反对生命权论证。这种追问可能提供拒绝前提 4 的另一条路径。
+
+我们可以首先注意到：生命权不是被给予维持生命所必需的一切的权利。如果一个人正在死去，而拯救她生命所需的只是（著名演员）乔治·克鲁尼的手触碰她的额头，那么她仍然没有权利让他来到她的床前以他的触摸治愈她。（见 Thomson 1971, page 55。）[^thomson-1971]类似地，上文提到的著名小提琴手没有权利使用你的肾脏为他的血液循环。他没有权利让你继续与他相连——即使脱离自己剥夺了他维持生命所必需的东西。
+
+再举一个更奇特的例子：设想你被困在一间小房子里，和一个迅速长大的孩子在一起。房子很小，孩子极大——如果他的成长继续不受遏制，他会把你压死。孩子自己不会受到伤害；最终他会长到房子爆裂开来、他自由走出的程度。孩子的生命权是否意味着你不能自卫以免受他对你构成的威胁？你必须就这样屈服赴死吗？当然不是，Thomson 1971 如此论证。
+
+看起来生命权至少总是一种不被杀死的权利。但杀死另一个人并不总是错误的，即使那个人拥有生命权。如果有人攻击你，自卫的唯一方式是杀死他，那么你可以杀死他。再想想小提琴手：脱离自己会杀死他，然而脱离自己是被允许的。这些观察似乎表明：如果某人拥有生命权，杀死他们并非单纯错误，而是只有 ** 不正义地 ** 杀死他们才是错误的。也许生命权仅仅是不被不正义地杀死的权利（Thomson 1971）。[^thomson-1971]但如果这是对的，那么生命权论证需要不同的前提：
+
+**5\*.**
+
+堕胎不正义地杀死了胎儿。
+
+这个前提比原来的前提更有争议。
+
+#### 自卫能证成堕胎吗？
+
+我们刚才考虑的某些情形涉及 ** 无辜威胁 ** （innocent threats），以及一个具有完全道德地位的存在者可以在自卫中被杀死——即使他们在道德上无辜。例如，那个如果不在被杀之前杀他就会在房子里压死你的巨型成长中的孩子，对你构成威胁并没有可归责之处；但他确实构成了威胁。
+
+“胎儿从受孕那一刻起就具有完全道德地位”这一观念实际上可以被用来论证堕胎的允许性，如下所述。妊娠本身是由胚胎引起的，胚胎植入女子的子宫。如果胎儿是一个独立的人格，那么它就像一个精神无行为能力的行动者，对女子进行了非法的身体侵入，然后开始将重要的资源和营养从她身上转移。按此理解，终止妊娠只是自卫以抵御另一个独立存在者的攻击。（见 McDonough 1996。）[^mcdonough-1996]
+
+但有人可能否认道德上无辜的威胁可以按道德上有罪威胁的方式来对待——至少在第三方可以做什么的问题上是如此。考虑以下观点：受到无辜威胁的人可以杀死威胁者以保全自己的生命，但第三方不得在天真威胁者与无辜的潜在受害者之间选边。按这种观点，受威胁的人只有一种“行动者相对的许可”（agent-relative permission）来自卫：虽然她可以自卫，但这并不意味着第三方也可以行动来保卫她。（相比之下，第三方当然可以行动来保卫某人免受有罪攻击者的侵害。）如果这种观点是对的，那么我们就不能用 ** 自卫 ** 的观念在面对生命权论证时为通常的手术堕胎辩护。虽然可以承认妇女在道德上被允许自行堕胎，但不能推出医生被允许施行堕胎。（见 Davis 1984。认为医生可以作为孕妇自卫的行动代理人的观点，见 English 1975。）[^davis-1984][^english-1975]
+
+我们应该怎么看待这种担忧？
+
+首先，重要的是要注意，小提琴手案例所提示的堕胎重构不需要按“自卫”来理解；不如说，堕胎被重构为根本上是关于撤回援助。
+
+其次，单纯的 ** 道德无辜 ** 使一个威胁免疫于第三方的攻击，这是难以置信的。确实看起来，一个暂时精神失常而冲向无辜者的人可以被任何人杀死，而不仅仅是被被攻击者杀死；无论攻击者多么无可指责，这似乎都是真的。（关于无辜威胁的更多内容，见 Frowe and Parry 2024。）[^frowe-2024]
+
+### 1.4 潜能性
+
+我们在第 1.2 和 1.3 节考虑的反驳承认了胎儿是人格、人格拥有生命权的主张：这些反驳承认了生命权论证的前提 1、2 和 3。现在转向对前提 3 的挑战——前提 3 主张胎儿拥有生命权。反对者主张：具有成为拥有生命权（或具有完全道德地位）的存在者的 ** 潜能 **，不足以当下就拥有生命权（或当下就具有完全道德地位）。
+
+（注意：这一反对者也会否认前提 1 或前提 2。如果前提 1 被读作胎儿具有完全道德地位的主张，他们会否认前提 1；如果前提 2 被读作所有人都有生命权的主张，他们会否认前提 2。见第 1.1 节。）
+
+我们将考虑针对“潜能性足以产生生命权”这一观念的两种不同挑战。
+
+#### 1.4.1 小猫血清案例反驳
+
+设想有一种我们可以注射给小猫的血清，使它们变成认知上精密复杂的猫；这些猫会像人类成年人一样聪明，并具有人类成年人具有的情感复杂性。这样一只猫肯定具有完全道德地位；它肯定拥有生命权。（Tooley 1972 如此主张，该文引入了这一著名案例并给出了以下论证。）[^tooley-1972]虽然我们对这些猫会有严格的道德义务——正如我们对其他人格有严格的道德义务那样——但我们没有任何义务把小猫变成这些精密复杂的猫：我们没有义务给任何小猫注射。而且，如果一只小猫被注射了，但血清尚未产生任何效果，那么注射一种中和剂以阻止血清发挥作用在道德上是被允许的；这与不注射同样被允许。被注射了血清加中和剂的小猫就像任何普通的小猫。小猫没有生命权：没有道德要求克制不去无痛地杀死它们（论证如此进行）。但现在考虑一只刚被注射了血清的小猫。它具有获得生命权的潜能。但它缺乏生命权：注射中和剂然后无痛地杀死它在道德上是被允许的；如果它拥有生命权，这就不会在道德上被允许。所以，刚被注射了血清的小猫是“具有获得生命权之潜能的存在者必须已经拥有生命权”这一主张的反例。（这是 Tooley 1972 的论证。）[^tooley-1972]
+
+对于相信我们可以无痛地杀死小猫的人来说，这一论证对“胎儿拥有生命权”的观念构成了强有力的挑战。但这一论证的修辞效力可能在很大程度上被削弱，因为如今许多人认为动物确实拥有生命权，或者至少认为即使无痛地杀死动物也有强有力的道德理由反对。
+
+也许这一论证的某个变体仍然可以获得一些 traction，即使对那些相信小猫确实拥有生命权的人来说也是如此。考虑这样一种观点：所有有意识的动物都拥有生命权，但有些动物只有低水平的道德地位，而其他动物具有高水平的道德地位。按这种观点，认为小猫相比成年人类具有的完全道德地位而言只有低水平的道德地位，是很自然的。如果我们考虑小猫血清案例，我们确实没有被道德上要求给任何小猫注射血清，以及注射血清之后注射中和剂在道德上是被允许的，这些看起来都是对的。但这确实显示了关于潜能性的某些东西——它似乎表明：具有达到某种道德地位水平的 ** 潜能 ** 并不已经赋予一个存在者那种道德地位。考虑一只刚被注射了血清的小猫。它具有成为具有完全道德地位的存在者的潜能。如果它已经具有完全道德地位，注射中和剂、从而剥夺它更大的认知与情感精密性所能提供的丰富经验，肯定是错的。但注射中和剂是被允许的；因此它尚未具有完全道德地位。
+
+因此，即使不假设小猫缺乏生命权，小猫血清案例也能提供某种重要的东西：一个论证，表明具有达到某种道德地位水平的潜能性不足以已经拥有那种道德地位。（这一论证可能为反对其他反堕胎论证提供好的回应，即使它并未触及生命权论证。）
+
+#### 1.4.2 实际未来原则
+
+另一个反驳通过对比胎儿之潜能未来与胎儿之实际未来的重要性，来否认胎儿潜能未来的重要性。主张潜能性足以产生道德地位的论证可能包含诸如“胎儿是一个人格的起始阶段”之类的主张。但这并非对所有胎儿都为真。有些胎儿是人格的起始阶段；变成你的那个胎儿曾是一个人格的起始阶段。但许多胎儿不是；对于在妊娠早期死亡的胎儿来说，没有任何人格使得他们曾是那个人格的起始阶段。有一种观点认为，产生道德地位的不是潜在的未来人格，而是实际的未来人格：按实际未来原则（Actual Future Principle），将成为人格的前意识胎儿已经具有道德地位，而将以前意识胎儿状态死亡的前意识胎儿缺乏道德地位。（见 Harman 1999，该文引入实际未来原则并论证实际未来原则能解释各种通常持有但表面冲突的主张，例如以下两个主张：早期堕胎不需要道德辩护，但与此同时，爱护（和伤害是错的）那些被怀至足月的早期胎儿是恰当的。）
+
+### 1.5 自我意识反驳
+
+对生命权论证的另一个反驳也针对前提 3——胎儿拥有生命权。这一反驳主张：一个存在者要拥有对某物的权利，必须渴望那个东西。但渴望继续活着，必须具有将自身构想为在时间中持续存在的存在者的能力。胎儿缺乏任何这样的构想。因此，它们缺乏生命权。（见 Tooley 1972，该文还论证人类婴儿缺乏对自身的构想，并因此论证杀婴在道德上是被允许的。）[^tooley-1972]
+
+一个不同的反驳来自较弱的主张：要具有道德地位或生命权，一个存在者必须是有意识的（即使不必是自我意识的），因为要拥有任何利益，一个存在者必须是有意识的。由于早期堕胎杀死的是尚未有意识的胎儿，这一观点在这些情形中为堕胎辩护。（见 Steinbock 1992。）[^steinbock-1992]
+
+### 1.6 流产反驳
+
+这是对前提 3 的又一个反驳。如果胎儿真的是拥有生命权的完全道德人格，那么每当流产发生时，它就像任何人的死亡一样是一场悲剧。但流产是非常常见的；至少 10% 的妊娠以流产告终。这将使流产成为我们面临的最大的道德悲剧和最大的公共卫生危机。（见 Berg 2017。）[^berg-2017]但这显然不是真的，所以前提 3 必定为假。
+
+## 2 丧失论证
+
+考虑以下论证：
+
+**1.**
+
+堕胎剥夺了胎儿一个有价值的未来。
+
+**2.**
+
+杀死成年人是错误的（除非有辩护），因为它剥夺了他们有价值的未来。
+
+**3.**
+
+如果使杀死成年人错误（除非有辩护）的东西也存在于另一活动中，那么那一活动也是错误的（除非有辩护）。
+
+因此，堕胎是错误的（除非有辩护）。
+
+为了理解这一论证，让我们从考虑“杀死成年人 ** 是错误的除非有辩护 **”这一主张开始。这说的是什么？这一主张说的是，杀死成年人通常来说是错误的，同时承认存在杀死成年人是被允许的情形；在这些情形中，对该杀戮存在某种 ** 辩护 **。（关于相关事实——即使人格拥有生命权，有时在道德上被允许杀死他们——的讨论见第 1.3 节。）有时哲学家把某事物是 ** 错误的除非有辩护 ** 说成它是“*pro tanto* 错误的”。
+
+这一反对堕胎道德允许性的论证的核心创新在于：它无需主张胎儿是人格、胎儿具有道德地位或胎儿拥有生命权即可进行。它力图表明堕胎是错误的（除非有辩护），而不用绕道那些棘手的问题。（该论证由 Marquis 1989 引入。相关地，Quinn 1984 使用对时间中同一性的细察来论证胎儿在堕胎中遭受重大损失。）[^marquis-1989][^quinn-1984]
+
+丧失论证在直觉上令人信服。不诉诸成年人在死亡中失去什么，就很难解释我们反对杀死成年人的理由。而当胎儿在堕胎中被杀死时，它失去了巨大的东西——它失去了（至少是良好机会）作为人格的生活。胎儿不仅失去成年人失去的同样的东西，而且失去更多的那种东西。
+
+### 2.1 道德地位反驳
+
+然而，该论证表面上避开了人格与道德地位的棘手问题，可能只是一种幻觉。有人可能这样反驳前提 2：当我们问什么使杀死人格成为错误时，人格被剥夺了有价值的未来只是部分答案。这解释了人格的死亡为什么对人格是坏的。但是什么给了我们令人信服的道德理由？该反驳主张：人格具有道德地位 ** 加上 ** 死亡对人格是坏的，这两个事实合在一起才提供令人信服的道德理由。
+
+该反驳者主张前提 2 为假，必须修订如下才为真：
+
+**2\*.**
+
+杀死成年人是错误的（除非有辩护），因为它剥夺了他们有价值的未来 ** 并且 ** 他们具有道德地位。
+
+因此该论证需要一个附加前提：
+
+**4.**
+
+胎儿具有道德地位。
+
+但前提 4 有争议，恰恰是该论证希望避免依赖的那个有争议的主张。
+
+### 2.2 类似于我们的未来反驳
+
+另一个反驳针对丧失论证的前提 1。这一反驳否认堕胎剥夺了胎儿一个有价值的未来。现在，堕胎确实剥夺了胎儿一个有价值的未来，这看起来显而易见。毕竟，如果不是因为堕胎，胎儿很可能继续作为一个人格过上正常的生活，而人格的生活是值得过的，即使人们要经历各种困苦。反对者同意所有这些。反对者否认的是：胎儿 ** 当下拥有 ** 那个未来，以及胎儿被 ** 剥夺 ** 了那个未来。反对者主张：普通人之所以在死亡中失去未来，是因为普通人与其即时未来有强大的心理和神经生理连接，并且通过重叠的连接链与其更遥远的未来相连。普通人在不久的将来会记得现在，会拥有与现在相同的欲望和意图。此外，普通人对其未来如何发展拥有一些控制（当然不是完全控制）。反对者主张：正是这些与未来的连接意味着一个人现在拥有一个他们可以失去的未来。相比之下，妊娠早期的胎儿没有可以被记住的经验，它们当然没有欲望或计划，它们也没有控制自己遭遇的能力。因此，反对者主张：它们现在并不拥有它们可以失去的未来。（见 McInerney 1990。）[^mcinerney-1990]
+
+类似地，有人可能通过说虽然胎儿确实失去了一个未来的生活，但那一损失对当前的胎儿来说意义甚微，来反驳前提 1。“时间相对利益观”（McMahan 2002）[^mcmahan-2002]主张：未来发生的好事或坏事对我 ** 现在 ** 的重要程度，取决于现在的我与我经历那一未来经验时的我之间的心理连接水平。在遥远未来会发生于我身上的好事——那时我已是一个非常不同的人——比另一件价值较低但更快发生、发生在更像现在之我的身上的事情，对我现在的利益来说更不重要。按这种观点，前意识胎儿对其有价值的未来没有利益，因为它与那个未来完全没有心理连接。即使有一定意识的胎儿与其未来也几乎没有任何心理连接，其未来的自我不会记得当前的生活；因此它对获得那个未来生活也没有利益（DeGrazia 2007）。[^degrazia-2007]
+
+### 2.3 这与小提琴手案例论证的关系
+
+丧失论证常常与小提琴手案例论证（见第 1.2 节）一起教授给学生。由于前者反对堕胎而后者为堕胎辩护，两个论证看起来似乎相互矛盾。重要的是要看到它们并不矛盾。丧失论证的结论是堕胎是错误的除非有辩护。但这正是小提琴手论证 ** 承认 ** 给反堕胎者的同一个假定。丧失论证力图证明存在反对堕胎的强力理由。小提琴手案例论证承认存在反对堕胎的强力理由，并论证尽管如此堕胎可以被辩护。（Marquis 1989 包含一个简短的段落陈述这一假定——如果存在反对堕胎的强力理由，那么综合考虑堕胎是错误的——但没有给出论证，Thomson 1971 也没有被引用或讨论。）[^marquis-1989][^thomson-1971]
+
+## 3 黄金法则论证
+
+考虑以下论证：
+
+**1.**
+
+我们应当以我们自己希望被对待的方式对待他人。（黄金法则。）
+
+**2.**
+
+我们很庆幸自己没有被堕胎。
+
+因此，我们不应当堕胎他人。
+
+这一论证有某种直觉上的合理性。（该论证由 Hare 1975 提出。）[^hare-1975]我们应当以我们自己希望被对待的方式对待他人，这确实看起来是对的。教孩子黄金法则是教他们善待其他孩子的有用方式。
+
+与丧失论证一样，这一论证也力图在不解决胎儿是否为人格或是否具有道德地位的棘手问题的情况下，确立堕胎在道德上是错误的。如果黄金法则就是我们所需要的全部，那么我们可以绕开这些棘手的问题。
+
+但表面上的绕开可能行不通。反对者可能说，前提 1 在被赋予足够宽的辖域时是难以置信的。“他人”是要遍及所有事物吗？所有生命？以那种形式它太有争议了。前提 1 的合理版本必定是这个：
+
+**1\*.**
+
+如果一个存在者具有完全道德地位，那么我们应当以我们自己希望被对待的方式对待它。
+
+这一主张捕捉到了我们应当以自己希望被对待的方式对待人格。它没有说我们应当如何对待具有某些道德地位但不具有完全道德地位的动物。（这是好的：黄金法则应用于动物时并不太合理。我们不应像对待人那样对待动物。或者，“我们自己希望被对待的方式”将意味着“如果我们是动物”；但那样我们真的不知道该说什么：它不提供指导。）
+
+但如果论证包含前提 1\* 而非前提 1，那么论证需要以下主张：
+
+**3.**
+
+胎儿具有完全道德地位。
+
+因此，该论证可以仅仅通过拒绝胎儿具有完全道德地位的主张而被拒绝。（见 Harman 2009, footnote 12。）[^harman-2009]
+
+## 4 内在价值论证
+
+考虑以下论证：
+
+**1.**
+
+摧毁具有内在价值的东西是错误的，除非有辩护。
+
+**2.**
+
+人的生命具有内在价值。
+
+因此，堕胎是错误的，除非有辩护。
+
+与丧失论证（第 2 节）一样，这一论证并未确立综合考虑下堕胎在道德上是错误的。它的结论是堕胎是错误的除非有辩护。（因此，如第 2.3 节所述，这一论证中的任何内容都与小提琴手案例对堕胎的辩护（第 1.2 节）不矛盾。）
+
+有人论证说，美国公众对堕胎的反对最好被看作是表达了沿着内在价值论证路线的观点（见 Dworkin 1993）。[^dworkin-1993]毕竟，美国反对堕胎的人通常认为强奸情形中的堕胎在道德上是被允许的。如果他们相信堕胎等同于谋杀无辜的人格，这种观点就很难理解。（谋杀一个无辜的人是不行的，即使不知怎么地谋杀那个无辜者是强奸后心理上向前走的唯一方式。）因此，如果我们把反对堕胎的人看作相信堕胎涉及摧毁具有内在价值的东西，我们就能更好地理解他们对堕胎的反对。这是一种可能被强迫强奸受害者继续妊娠至足月可能经历的创伤之考量所压倒的道德考量。
+
+有人论证（Dworkin 1993）[^dworkin-1993]：美国那些“支持选择权”的人 ** 也 ** 致力于人的生命具有内在价值的观点。毕竟，支持选择权的人通常不愿意自称“支持堕胎”；他们把堕胎看作一种令人遗憾的事件，但仍然应当对女性可用。他们认为，如果不想要的妊娠通过有效的节育完全避免，那会好得多。他们确实认为堕胎中发生了不好的事情；他们只是认为造成这种坏结果并非错误。毕竟，他们承认对堕胎感到遗憾是有道理的，堕胎也不像阑尾切除术那样无关紧要。（类似地，Hursthouse 1991 论证堕胎“总是一件需要认真对待的事”（page 238）。）
+
+因此，按我们所考虑的观点，美国反对堕胎的人和捍卫堕胎权利的人实际上持有非常相似的观点。他们并非截然对立——一方认为堕胎无关紧要，另一方认为堕胎是谋杀。相反，双方都同意人的生命具有内在价值；他们只是在以下事实的意义上意见不同：胎儿的死亡有多糟糕，以及证成造成那一死亡需要什么。这是一种程度的分歧，不是种类的分歧——按该观点。（关于堕胎辩论双方接受相同基本原则的另一个论证，见 Warnke 1999。）[^warnke-1999]
+
+针对反对堕胎者以胎儿生命具有内在价值为由而反对的主张，有人指出许多美国公民是天主教徒，而天主教会确实把堕胎视为谋杀（Thomson 1995）。[^thomson-1995]
+
+而针对“支持选择权”者也相信胎儿生命具有内在价值的主张，有人论证说我们可以通过对堕胎之另一面——继续妊娠具有重大道德后果——的意义的诉诸，来理解对堕胎的遗憾以及堕胎不 trivial 的事实（Harman 1999）。[^harman-1999]
+
+（Dworkin 1993 从其主张——堕胎辩论双方都相信胎儿生命具有内在价值、只是在什么足以证成摧毁那一价值上意见不同——得出了一个政治与法律结论。他加上了进一步的主张：关于胎儿生命价值的信念在本质上是宗教性的。他的结论是：我们不能将堕胎定为非法，因为那会把一种宗教观点强加给某些不持有它的人。Dworkin 尽管如此认为，因为堕胎是一件严肃的事，可以合法地施加等待期。Stroud 1996 回应说，我们不能在人们思考他们在宗教问题上的立场时普遍施加等待期；例如，在加入教会之前施加等待期是不行的。）
+
+## 5 道德风险论证
+
+考虑以下论证：
+
+**1.**
+
+如果你已经考虑了堕胎是错误的论证并拒绝了它们，你的推理中可能犯了错误：存在某种可能性——尽管你拒绝了这些论证——堕胎仍然是严重错误的。
+
+**2.**
+
+如果存在某种堕胎严重错误的可能性，那么实施堕胎你就在承担道德风险。
+
+**3.**
+
+存在反对承担做严重错误之事的道德风险的强烈道德理由。
+
+因此，存在反对实施堕胎的强烈道德理由。
+
+这一论证主张，从任何决定是否堕胎的人的视角看，即使她已经拒绝了关于堕胎被允许性的论证，仍然存在反对堕胎的强烈道德理由——由她将承担的道德风险所给出。存在某种她可能搞错堕胎是否被允许的可能性；也许，与她自己的想法相反，堕胎在道德上是错误的。（该论证由 Moller 2011 提出。Lockhart 2000 提出了类似的反堕胎论证。Baker 2016 使用道德风险的考量论证堕胎应当是非法的。）[^baker-2016][^lockhart-2000][^moller-2011]
+
+关于这一论证需要强调的一点是：它主张即使事实上所有反堕胎论证都是坏论证，仍然存在反对堕胎的强烈道德理由。这些论证的存在、以及我们自身道德推理的可错性，即使堕胎本身真的在道德上毫无问题，也生成了反对堕胎的强烈道德理由。
+
+人们可能如何回应这一论证？人们可以承认结论并主张尽管如此实际的堕胎是被允许的，因为不堕胎对女性的负担是重大的。（Moller 2011 允许可能是这样。）[^moller-2011]人们可以否认一个道德推理健全的人真的处于应当承认她可能在堕胎伦理问题上搞错的境地。或者，人们可以挑战这种认识性道德风险——源于一个人的道德思考可能出错的可能性——产生任何道德理由的观念：人们可以主张非道德风险生成道德理由，但纯道德风险不生成（Weatherson 2019 与 Harman 2015）。[^harman-2015][^weatherson-2019]
+
+## 6 针对选择性堕胎的表达性论证
+
+某些论证得出的结论是某些堕胎是错误的（包括某些早期堕胎），但并未得出所有堕胎都是错误的。某些堕胎的实施是因为产前检查揭示胎儿具有会导致胎儿残疾的遗传异常。考虑以下论证：
+
+**1.**
+
+因为胎儿将有残疾而堕胎一个原本被想要的妊娠，表达了一种歧视性的态度：残疾人不应该出生、没有存在的权利、或不如非残疾人有价值。
+
+**2.**
+
+表达这样的歧视性态度在道德上是错误的。
+
+因此，因为胎儿将有残疾而堕胎一个原本被想要的妊娠在道德上是错误的。
+
+这一论证与“一般来说堕胎在道德上是允许的”的主张相容。按这一论证，使这些堕胎错误的是它们的原因，而不是它们是堕胎这一单纯事实。（见 Asch 1989、Wendell 1996 与 Parens and Asch 2000。）[^asch-1989][^parens-2000][^wendell-1996]
+
+支持前提 1 的一种方式是指出：准父母们对残疾人的生活涉及什么常常有错误的、扭曲的印象，医生和遗传咨询师也过于强调负面而没有分享残疾人生活的正面故事（Parens and Asch 2000, Kaposy 2018）。[^kaposy-2018][^parens-2000]许多残疾人主张，综合考虑，有残疾的生活并不比没有残疾的生活更糟（Barnes 2016）。[^barnes-2016]
+
+### 6.1 负担反驳
+
+对这一论证的一种反驳质疑前提 1，说孕妇担心的可能不是残疾的孩子的生活会太艰难，而是抚养这个孩子对她和她的家庭——考虑到有限的资源——会太困难。例如，她可能已经在抚养一个残疾孩子。（见 Kittay 2019。）[^kittay-2019]
+
+### 6.2 来自预防残疾的反驳
+
+对该论证的另一种反驳通过指出女性可以通过服用叶酸和避免会导致胎儿异常的药物来在道德上被允许地预防胎儿变得残疾，来质疑前提 1。因此，父母以拥有非残疾的孩子为目标看来在道德上是正当的。（见 Parens and Asch 2000。）[^parens-2000]
+
+### 6.3 来自无害的反驳
+
+对该论证的第三种反驳质疑前提 2，说表达歧视性态度只有在表达导致相关人群受到伤害时才是道德上错误的。反对者接着论证：很难表明残疾人遭受了任何如果这些表达不发生他们就不会遭受的伤害；而且认为存在这样的伤害也是难以置信的。毕竟，不幸的是，对残疾人的偏见已经很多了，与人们的生育决定及其表达无关。（见 Nelson 2007。）[^nelson-2007]
+
+### 6.4 来自价值歧义的反驳
+
+对该论证的第四种反驳指出：主张残疾对残疾人是坏的，与主张残疾人不如别人有价值或不值得存在，是有区别的。反对者主张，堕胎残疾胎儿只表达了前一种观念，而非后一种。
+
+## 7 为什么堕胎伦理学很重要
+
+如果堕胎是谋杀，那么为什么堕胎伦理学很重要就相当直截了当：正在进行谋杀，我们应当认识到这一点。但假设堕胎不是谋杀；甚至假设堕胎在道德上是允许的。为什么那一事实很重要？
+
+小提琴手案例论证（Thomson 1971）[^thomson-1971]在堕胎的哲学教学与讨论中影响巨大。该论证旨在确立 ** 即使 ** 胎儿拥有生命权，堕胎仍然是被允许的。但这一论证的突出地位在两个方面对堕胎伦理学的利害关系产生了误导。第一，该论证严重依赖于 ** 妊娠 ** 给女性带来的负担：恰恰因为妊娠是繁重的（且妊娠和分娩是危险的），我们才可以被允许不为他人承受这些负担，即使他人拥有生命权。但对女性而言堕胎可及性的重要性，根本不在于妊娠的负担；它还关乎 ** 母亲身份 ** 的负担和改变人生的性质。女性的解放关键地和根本地依赖于女性获得决定是否、以及何时成为新生儿的父母的能力。女性的自主权利害攸关。（妊娠的负担可能足以使女性和任何能怀孕的人有权获得堕胎，但仅凭它们并不能讲述为什么需要那一权利的根本故事。）
+
+第二，与此相关，该论证通过 ** 承认 ** 胎儿拥有生命权来进行。虽然表明（如果可以做到）即使在这一假定下堕胎也是被允许的当然很重要，但记住——在思考堕胎伦理学的重要性时——胎儿拥有生命权的主张是一个有争议的主张、没有人有权将其作为共同基础，这也很重要。没有那一主张，就不需要诉诸 ** 妊娠的负担 ** 来证成堕胎。事实上，根本不需要辩护。
+
+有人可能反驳说，只要还有为孩子安排收养的选择，妊娠就不能迫使任何人成为母亲。孕妇可以通过继续妊娠并安排收养来避免母亲身份——不需要堕胎可及性来避免母亲身份。但这一反驳忽略了现实：许多女性在怀胎至足月的过程中与胎儿建立联系并爱上它们，和／或许多女性根本不愿为自己的孩子安排收养，即使她们强烈希望终止妊娠、不在此时成为一个新生儿的母亲。因此，现实是：堕胎可及性的限制使许多女性在她们不愿成为母亲的时候被迫成为母亲——即使安排收养的选择是可用的。而且当然，不只女性以这种方式受影响，而是 ** 任何能怀孕的人 **；这包括女性、一些非二元性别人士和跨性别男性。对许多怀孕者来说，缺乏堕胎可及性迫使她们把一个她们认为根本无关紧要的胎儿变成她们深爱的孩子。（见 Harman 2021。）[^harman-2021]
+
+## 参考文献
+
+** 以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+
+### Further Reading
+
+## Academic Tools
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abortion). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/abortion/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=abortion&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/abortion/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+- “[Is Abortion Immoral?](https://youtu.be/jaCVtxDxxF4?si=9Fw_YB-3mgbKmAkT)” a video episode of the podcast *Brain in a Vat*, featuring Nathan Nobis, January 24, 2021.
+- “[Judith Jarvis Thomson](https://www.philosophytalk.org/shows/judith-jarvis-thomson),” a podcast episode of *Philosophy Talk*, March 16, 2025.
+- “[Love and Abortion](https://www.uehiro.ox.ac.uk/2024-lectures-elizabeth-harman),” videos of The Uehiro Lectures in Practical Ethics at Oxford University, given by Elizabeth Harman, April 25–May 9, 2024.
+
+## Related Entries
+
+cognitive disability and moral status | conscience | double effect, doctrine of | ethics, biomedical: privacy and medicine | ethics, biomedical: stem cell research | ethics: in Indian Buddhism | eugenics | feminist philosophy, approaches: Latin American feminism | feminist philosophy, interventions: philosophy of law | feminist philosophy, topics: perspectives on reproduction and the family | Foot, Philippa | moral status, grounds of | parenthood and procreation | personal identity: and ethics | pregnancy, birth, and medicine | self-defense | thought experiments
+
+[^asch-1989]: Asch, Adrienne, 1989, “Reproductive Technology and Disability”, in Sherrill Cohen and Nadine Taub (eds.), *Reproductive Laws for the 1990s, Clifton*, NJ: Humana Press, pp. 69–124.
+
+[^baker-2016]: Baker, Deane-Peter, 2016, *Citizen Killings: Liberalism, State Policy and Moral Risk*, London: Bloomsbury.
+
+[^barnes-2016]: Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press.
+
+[^berg-2017]: Berg, Amy, 2017, “Abortion and Miscarriage”, *Philosophical Studies*, 174(5): 1217–1226.
+
+[^boonin-2003]: Boonin, David, 2003, *A Defense of Abortion*, Cambridge: Cambridge University Press.
+
+[^davis-1984]: Davis, Nancy, 1984, “Abortion and Self-defense”, *Philosophy and Public Affairs*, 13(3): 175–207.
+
+[^degrazia-2007]: DeGrazia, David, 2007, “The Harm of Death, Time-Relative Interests, and Abortion”, *Philosophical Forum*, 38(1): 57–80.
+
+[^dworkin-1993]: Dworkin, Ronald, 1993, *Life's Dominion: An Argument about Abortion, Euthanasia, and Individual Freedom*, London: HarperCollins.
+
+[^english-1975]: English, Jane, 1975, “Abortion and the Concept of a Person”, *Canadian Journal of Philosophy* 5(2): 233–243.
+
+[^frowe-2024]: Frowe, Helen and Jonathan Parry, 2024, “Self-defense”, *The Stanford Encyclopedia of Philosophy* (Summer 2024 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = https://plato.stanford.edu/archives/sum2024/entries/self-defense/
+
+[^hare-1975]: Hare, R. M., 1975, “Abortion and the Golden Rule”, *Philosophy and Public Affairs*, 4(3): 201–222.
+
+[^harman-1999]: Harman, Elizabeth, 1999, “Creation Ethics: The Moral Status of Early Fetuses and the Ethics of Abortion”, *Philosophy and Public Affairs*, 28(4): 310–324.
+
+[^harman-2009]: –––, 2009, “‘I'll Be Glad I Did It’ Reasoning and the Significance of Future Desires”, *Philosophical Perspectives*, 23: 177–199.
+
+[^harman-2015]: –––, 2015, “The Irrelevance of Moral Uncertainty”, *Oxford Studies in Metaethics*, 10: 53–79.
+
+[^harman-2021]: –––, 2021, “What Amy Coney Barrett Doesn't Understand About Abortion”, *New York Daily News*, December 9.
+
+[^hursthouse-1991]: Hursthouse, Rosalind, 1991, “Virtue Theory and Abortion”, *Philosophy and Public Affairs*, 20(3): 223–246.
+
+[^kamm-1992]: Kamm, F. M., 1992, *Creation and Abortion: A Study in Moral and Legal Philosophy*, New York: Oxford University Press.
+
+[^kaposy-2018]: Kaposy, Chris, 2018, *Choosing Down Syndrome: Ethics and New Prenatal Testing Technology*, Cambridge, MA: The MIT Press.
+
+[^kittay-2019]: Kittay, Eva Feder, 2019, *Learning from My Daughter: The Value and Care of Disabled Minds*, New York: Oxford University Press.
+
+[^little-1999]: Little, Margaret Olivia, 1999, “Abortion, Intimacy, and the Duty to Gestate”, *Ethical Theory and Moral Practice*, 2(3): 295–312.
+
+[^lockhart-2000]: Lockhart, Ted, 2000, *Moral Uncertainty and Its Consequences*, New York: Oxford University Press.
+
+[^marquis-1989]: Marquis, Don, 1989, “Why Abortion is Immoral”, *The Journal of Philosophy*, 86(4): 183–202.
+
+[^mcdonough-1996]: McDonough, Eileen, 1996, *Breaking the Abortion Deadlock: From Choice to Consent*, New York: Oxford University Press.
+
+[^mcinerney-1990]: McInerney, Peter K., 1990, “Does a Fetus Already Have a Future-Like-Ours?”, *The Journal of Philosophy*, 87(5): 264–268.
+
+[^mcmahan-2002]: McMahan, Jeff, 2002, *The Ethics of Killing: Problems at the Margins of Life*, New York: Oxford University Press.
+
+[^moller-2011]: Moller, Dan, 2011, “Abortion and Moral Risk”, *Philosophy*, 86(3): 425–443.
+
+[^nelson-2007]: Nelson, James Lindemann, 2007, “Synecdoche and Stigma”, *Cambridge Quarterly of Healthcare Ethics*, 16(4): 475–478.
+
+[^parens-2000]: Parens, Eric and Adrienne Asch, 2000, “The Disability Rights Critique of Prenatal Genetic Testing: Reflections and Recommendations”, in Parens and Asch (eds.), *Prenatal Testing and Disability Rights*, Georgetown University Press.
+
+[^quinn-1984]: Quinn, Warren, 1984, “Abortion, Identity, and Loss”, *Philosophy and Public Affairs*, 13(1): 24–54
+
+[^steinbock-1992]: Steinbock, Bonnie, 1992, *Life Before Birth: The Moral and Legal Status of Embryos and Fetuses*, New York: Oxford University Press.
+
+[^stroud-1996]: Stroud, Sarah, 1996, “Dworkin and Casey on Abortion”, *Philosophy and Public Affairs*, 25(2): 140–170.
+
+[^thomson-1971]: Thomson, Judith Jarvis, 1971, “A Defense of Abortion”, *Philosophy and Public Affairs*, 1(1): 47–66.
+
+[^thomson-1995]: –––, 1995, “Abortion: Whose Right?”, *Boston Review*, October 16. [[Thomson 1995 available online](https://bostonreview.net/forum/judith-jarvis-thomson-abortion-0/)]
+
+[^tooley-1972]: Tooley, Michael, 1972, “Abortion and Infanticide”, *Philosophy and Public Affairs*, 2(1): 37–65.
+
+[^warnke-1999]: Warnke, Georgia, 1999, *Legitimate Differences: Interpretation in the Abortion Controversy and Other Public Debates*, Berkeley: University of California Press.
+
+[^weatherson-2019]: Weatherson, Brian, 2019, *Normative Externalism*, Oxford: Oxford University Press.
+
+[^wendell-1996]: Wendell, Susan, 1996, *The Rejected Body*, New York: Routledge.
+
+[^asch-1999]: Asch, Adrienne, 1999, “Prenatal Diagnosis and Selective Abortion: A Challenge to Practice and Policy”, *American Journal of Public Health*, 89(11): 1649–1657.
+
+[^colb-2016]: Colb, Sherry F. and Michael C. Dorf, 2016, *Beating* *Hearts: Abortion and Animal Rights*, New York: Columbia University Press.
+
+[^dombrowski-2000]: Dombrowski, Daniel A. and Robert Deltete, 2000, *A Brief, Liberal, Catholic Defense of Abortion*, Urbana: University of Illinois Press.
+
+[^foot-1967]: Foot, Philippa, 1967, “The Problem of Abortion and the Doctrine of Double Effect”, *Oxford Review*, 5: 5–15.
+
+[^greasley-2017]: Greasley, Kate, 2017, *Arguments about Abortion: Personhood, Morality, and Law.* Oxford: Oxford University Press.
+
+[^greasley-2018]: Greasley, Kate and Christopher Kaczor, 2018, *Abortion Rights: For and Against*. Cambridge: Cambridge University Press.
+
+[^grob-2020]: Grob, Christina and Nathan Nobis, 2020, “Defining ‘Abortion’ and Critiquing Common Arguments about Abortion”, in Bob Fischer (ed.), *College Ethics: A Reader on Moral Issues that Affect You*, New York: Oxford University Press, 2ⁿᵈ Edition.
+
+[^hine-2021]: Hine, Kristen, 2021, “Autonomy Rights and Abortion after the Point of Viability”, *Bioethics*, 35: 787–792.
+
+[^kaczor-2023]: Kaczor, Christopher, 2023, *The Ethics of Abortion: Women's Rights, Human Life, and the Question of Justice*, New York: Routledge, 3ʳᵈ Edition.
+
+[^keown-1999]: Keown, Damien, 1999, *Buddhism and Abortion*, Honolulu: University of Hawai'i Press.
+
+[^little-2008]: Little, Margaret Olivia, 2008, “Abortion and the Margins of Personhood”, *Rutgers Law Journal*, 39: 331–348.
+
+[^roberts-2010]: Roberts, Melinda, 2010, *Abortion and the Moral Significance of Merely Possible Persons: Finding Middle Ground in Hard Cases*, New York: Springer.
+
+[^warren-1973]: Warren, Mary Anne, 1973, “On the Moral and Legal Status of Abortion”, *Monist*, 57(1): 43–61.
+
+[^warren-2000]: –––, 2000, *Moral Status: Obligations to Persons and Other Living Things*, Oxford: Oxford University Press.
+
+[^watt-2016]: Watt, Helen, 2016, *The Ethics of Pregnancy, Abortion and Childbirth: Exploring Moral Choices in Childbearing*, New York: Routledge.
+
+### Further Reading
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abortion)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=abortion&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/abortion/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+** [《堕胎是不道德的吗？》](https://youtu.be/jaCVtxDxxF4?si=9Fw_YB-3mgbKmAkT)，播客 ** Brain in a Vat* 的视频集，Nathan Nobis 主讲，2021 年 1 月 24 日。
+** [《朱迪斯·贾维斯·汤姆逊》](https://www.philosophytalk.org/shows/judith-jarvis-thomson)，播客 ** Philosophy Talk* 的一集，2025 年 3 月 16 日。
+* [《爱与堕胎》](https://www.uehiro.ox.ac.uk/2024-lectures-elizabeth-harman)，牛津大学 Uehiro 实践伦理讲座视频，Elizabeth Harman 主讲，2024 年 4 月 25 日至 5 月 9 日。
+
+## 相关词条
+
+认知障碍与道德地位 | 良知 | 双重效果原则 | 生命伦理学：隐私与医学 | 生命伦理学：干细胞研究 | 伦理学：印度佛教中的伦理学 | 优生学 | 女性主义哲学进路：拉丁美洲女性主义 | 女性主义哲学介入：法哲学 | 女性主义哲学专题：生育与家庭的视角 | 菲利帕·富特 | 道德地位的根据 | 为人父母与生育 | 人格同一性与伦理学 | 妊娠、分娩与医学 | 自卫 | 思想实验
+
+**（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
