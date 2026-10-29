@@ -1,0 +1,348 @@
+{
+ "key": "logical constants",
+ "term": "logical constants",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-29T15:44:25+00:00",
+ "status": "ok",
+ "note": "variant=logical constants; 审定公布名词库=1660; 海峡两岸名词对照库=731; 其他来源数据库=56; 预公布名词数据库=42; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": "01.359",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_基本概念"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "code": "02.0304",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_数学基础 "
+  },
+  {
+   "cn": "逻辑和",
+   "en": "logical disjunction,logical sum",
+   "code": "05.021",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_一般概念"
+  },
+  {
+   "cn": "逻辑积",
+   "en": "logical product,logical multiplication",
+   "code": "05.020",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_一般概念"
+  },
+  {
+   "cn": "逻辑归档",
+   "en": "logical filing；logical archiving",
+   "code": "06.03.012",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_流程与方法"
+  },
+  {
+   "cn": "信念逻辑",
+   "en": "belief logic,doxastic logic",
+   "code": "08.0023",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "code": "01.0061",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "code": "03.0788",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_非显像核医学技术_实验核医学示踪技术"
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "code": "05.0198",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "常项",
+   "en": "constant",
+   "code": "02.0052",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "code": "01.0054",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "code": "03.022",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学实在论"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "常量",
+   "en": "constant",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "逻辑效度",
+   "en": "logical validity",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "逻辑思维",
+   "en": "logical thinking",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "逻辑表达",
+   "en": "logical expression",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "组合逻辑电路",
+   "en": "Combinatorial logic, combinational logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "常数",
+   "en": "constant",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "Relevant logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑分析仪",
+   "en": "Logic analyzer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理逻辑",
+   "en": "Mathematical logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "code": "01.0101",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "常量喷雾器",
+   "en": "constant sprayer",
+   "code": "3.2.3.7.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒相关用品"
+  },
+  {
+   "cn": "衰变常量",
+   "en": "decay constant",
+   "code": "3.2.1.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量"
+  },
+  {
+   "cn": "不变资本",
+   "en": "constant capital",
+   "code": "02.0111",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "衰变常数",
+   "en": "decay constant",
+   "code": "8.1.9.4",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_核武器医学防护学_核武器"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "code": "1.0534",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "code": "2.5.5.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "常量喷雾消毒",
+   "en": "constant spraying disinfection",
+   "code": "2.1.4.7.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_化学消毒"
+  },
+  {
+   "cn": "五常",
+   "en": "five constant virtues",
+   "code": "1.071",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "常量喷雾",
+   "en": "constant volume spray",
+   "code": "14.11.2.3.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队流行病学_部队特定场合消杀灭"
+  },
+  {
+   "cn": "空气比释动能率常数",
+   "en": "air kerma rate constant",
+   "code": "6.2.2.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计"
+  },
+  {
+   "cn": "规模收益不变",
+   "en": "constant returns to scale",
+   "code": "5.2.5.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务生产"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

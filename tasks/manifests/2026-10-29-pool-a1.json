@@ -1,0 +1,42 @@
+{
+ "batch": "2026-10-29-pool-a1",
+ "scope": "term-pool phrase 型中频段（freq 150-300）top 人工遴选",
+ "source": "tasks/term-pool.json new 候选；查证通道=审定名词库浏览器通道（contracts/browser-channel.md）",
+ "published": [
+  {"en": "efficient cause", "zh": "动力因（亦作“致动因”）", "basis": "学界惯例+审定库四因系列佐证"},
+  {"en": "mental content", "zh": "心理内容", "basis": "审定名词库·自然辩证法（科学哲学）"},
+  {"en": "difference principle", "zh": "差别原则", "basis": "学界惯例（罗尔斯译本）"},
+  {"en": "mental events", "zh": "心理事件", "basis": "学界惯例（心灵哲学）"},
+  {"en": "categorical imperative", "zh": "定言命令（亦作“绝对命令”）", "basis": "学界惯例（康德译本）"},
+  {"en": "formal logic", "zh": "形式逻辑", "basis": "学界惯例"},
+  {"en": "scientific explanation", "zh": "科学解释（亦作“科学说明”）", "basis": "审定名词库·自然辩证法（科学技术方法论）"},
+  {"en": "mathematical logic", "zh": "数理逻辑", "basis": "审定名词库·数学"},
+  {"en": "model theory", "zh": "模型论", "basis": "审定名词库·数学（“模型理论”土木域不采）"},
+  {"en": "scientific practice", "zh": "科学实践", "basis": "学界惯例+审定库复合词佐证"},
+  {"en": "human action", "zh": "人类行动", "basis": "学界惯例（行动哲学）"},
+  {"en": "social justice", "zh": "社会正义（亦作“社会公正”）", "basis": "学界惯例（罗尔斯）；审定“社会公正”地理域不采"},
+  {"en": "moral obligation", "zh": "道德义务", "basis": "学界惯例（伦理学）"},
+  {"en": "conscious experience", "zh": "意识经验", "basis": "学界惯例；审定“意识性体验”医学域不采"},
+  {"en": "natural deduction", "zh": "自然演绎", "basis": "学界惯例（逻辑学）"},
+  {"en": "quantum state", "zh": "量子态", "basis": "审定名词库·物理学"},
+  {"en": "Hilbert space", "zh": "希尔伯特空间", "basis": "审定名词库·物理学"},
+  {"en": "probability theory", "zh": "概率论", "basis": "审定名词库·数学"},
+  {"en": "infinite regress", "zh": "无穷倒退（亦作“无限倒退”）", "basis": "学界惯例"},
+  {"en": "logical constants", "zh": "逻辑常项", "basis": "学界惯例（逻辑学）"},
+  {"en": "ontological commitments", "zh": "本体论承诺", "basis": "审定名词库（ontological commitment）"},
+  {"en": "intentional states", "zh": "意向状态", "basis": "审定名词库（intentional state）"},
+  {"en": "Peano arithmetic", "zh": "佩亚诺算术（亦作“皮亚诺算术”）", "basis": "审定译名系（佩亚诺公理）"},
+  {"en": "ultimate reality", "zh": "终极实在", "basis": "学界惯例"},
+  {"en": "religious belief", "zh": "宗教信念", "basis": "学界惯例（宗教认识论）"},
+  {"en": "informed consent", "zh": "知情同意", "basis": "审定名词库·自然辩证法（科技伦理）"},
+  {"en": "causal explanation", "zh": "因果说明", "basis": "审定名词库复合词佐证（自然辩证法）"}
+ ],
+ "rejected": [
+  {"en": "mathbf mathbf", "reason": "LaTeX 解析垃圾"},
+  {"en": "vee neg", "reason": "公式解析残片"},
+  {"en": "Lewis lewis-", "reason": "链接解析残片"}
+ ],
+ "deferred": "freq 150-300 带内泛词（real world/make use/looks like 等约 20 个）与 50-150 段留待 C 档专项批次",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（27 键，tl-pool-a1 四批）",
+ "registry_sync": "yi-zhe-shuo-ming.md 主表 27 行 + qian-yan/ci-hui-biao.md 27 行同步插入"
+}

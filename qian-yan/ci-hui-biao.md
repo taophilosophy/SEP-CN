@@ -3,6 +3,8 @@
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
 |英语|中文|备注|
+|model theory|模型论|审定名词（数学）|
+|human action|人类行动|行动哲学语境 action 定译“行动”|
 |:---:|:---:|:---:|
 |3rd Earl of Shaftesbury|第三代沙夫茨伯里伯爵|即 Anthony Ashley Cooper（安东尼·阿什利-库珀），见 Lord Shaftesbury 条|
 |ampliative (inference)|扩展（推理）／扩展性|又称：扩展的；首现 abduction|
@@ -157,6 +159,8 @@
 |Camus|加缪||
 |Cantor|康托尔||
 |Capitalism|资本主义||
+|causal explanation|因果说明|审定名词复合词佐证；与科学解释同口径|
+|categorical imperative|定言命令|亦作“绝对命令”；康德|
 |Cardano|卡尔达诺||
 |Cardinal|枢机主教||
 |Carl Friedrich Stumpf|卡尔·弗里德里希·斯图姆夫||
@@ -188,6 +192,7 @@
 |compatibilism|相容论|亦作“相容主义”|
 |Computing|计算||
 |conditional probabilities|条件概率||
+|conscious experience|意识经验|心灵哲学语境|
 |confirmation theory|确证理论|亦译“确认理论”；贝叶斯验证理论见专条|
 |conformality theory|符合论|与相似论 resemblance theory 相对；首现 abelard|
 |Confucianism|儒家思想||
@@ -227,6 +232,7 @@
 |determinism|决定论|勿译“宿命论”（fatalism）|
 |development|发展；发育|哲学与一般语境译“发展”，生物学语境译“发育”|
 |dialetheism|双面真理论|Priest 与 Routley 1981 年造词；中文维基百科条目作“双面真理说”|
+|difference principle|差别原则|罗尔斯《正义论》|
 |dictum (Abelard)|所言|阿伯拉尔；首现 abelard|
 |Diodorus|狄奥多罗斯||
 |Diodorus Cronus|狄奥多罗斯·克罗诺斯|Cronus（克罗诺斯，意为“老顽固”）是承自其师 Apollonius Cronus 的绰号，并非地名；他生于卡里亚的雅索斯，勿以出生地替代绰号|
@@ -242,6 +248,7 @@
 |Dutch book (argument)|大弃赌论证|亦作“荷兰赌（论证）”；首现 abduction；审定名词（自然辩证法名词）|
 |Dynamic Semantics|动态语义||
 |early modern|近代早期|哲学史分期用语，约指 16—18 世纪欧洲|
+|efficient cause|动力因|亚氏四因之一；亦作“致动因”|
 |Edmund Burke|埃德蒙·伯克||
 |egalitarianism|平等主义||
 |Einstein-Podolsky-Rosen|爱因斯坦-波多尔斯基-罗森||
@@ -283,6 +290,7 @@
 |Formal Approaches|形式化方法||
 |formal language|形式语言||
 |formalism|形式主义|数学基础三派之一（与直觉主义、逻辑主义并列）|
+|formal logic|形式逻辑||
 |foundationalism|基础主义|知识论；与 coherentism 融贯论相对|
 |Francis Bacon|弗朗西斯·培根||
 |Francis Herbert Bradley|弗朗西斯·赫伯特·布拉德雷||
@@ -326,6 +334,7 @@
 |Hermeias|赫尔米亚||
 |Herodotus|希罗多德||
 |hidden variables|隐变量|隐变量理论 hidden-variable theories|
+|Hilbert space|希尔伯特空间|审定名词（物理学）|
 |Hole Argument|空穴论证|广义相对论哲学语境，亦译“空洞论证”|
 |Hugh Blair|休·布莱尔||
 |human nature|人性||
@@ -350,12 +359,15 @@
 |Individuality|个体性||
 |Individuals|个体||
 |induction hypothesis|归纳假设|数学归纳法语境|
+|infinite regress|无穷倒退|亦作“无限倒退”|
 |Inertial Frames|惯性系||
 |Inference to the Best Explanation|最佳说明推理|亦作“最佳解释推理”；abduction 词条核心概念；审定名词（自然辩证法名词）|
 |Inference to the Worst Explanation (IWE)|最差解释推理|与 IBE 对偶；首现 abduction|
+|informed consent|知情同意|审定名词（科技伦理）|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
 |institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
+|intentional states|意向状态|审定名词（intentional state）|
 |instrumentalism|工具主义|科学哲学（杜威、逻辑经验主义之争）与数学哲学语境|
 |integral wholes|整全整体|首现 abelard|
 |intellectualism|理智主义|亦译“智性主义”，与意志主义（voluntarism）相对|
@@ -407,6 +419,7 @@
 |Leucippus|留基伯||
 |liberalism|自由主义||
 |Libertas philosophandi|哲学思考自由|拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
+|logical constants|逻辑常项|逻辑学|
 |logical atomism|逻辑原子主义||
 |logicism|逻辑主义||
 |Long March|长征||
@@ -422,10 +435,13 @@
 |Margarete Susman|玛格丽特·苏斯曼||
 |Marxism|马克思主义||
 |materialism|物质主义；唯物论|形而上学语境译“物质主义”（与 physicalism 物理主义相承），历史语境译“唯物论”|
+|mathematical logic|数理逻辑|审定名词（数学）|
 |Max Stirner|麦克斯·施蒂纳||
 |mañana paradox|明天悖论||
 |McTaggart|麦克塔格特||
 |mechanism|机械论|社会科学语境译“机制”，按语境分流|
+|mental content|心理内容|审定名词（自然辩证法·科学哲学）|
+|mental events|心理事件|戴维森语境|
 |mental states|心理状态|亦作“精神状态”，按语境|
 |Methods|方法||
 |Mind|心灵||
@@ -435,10 +451,12 @@
 |modal metaphysics|模态形而上学||
 |monarchia|专权|与 isonomia 相对的独大状态；阿尔克迈翁条裁定|
 |monotheism|一神论||
+|moral obligation|道德义务||
 |Montague|蒙太古||
 |moral desert|道德应得||
 |moral judgments|道德判断||
 |moral philosophy|道德哲学||
+|natural deduction|自然演绎|逻辑学|
 |Moral Responsibility|道德责任||
 |moral status|道德地位||
 |Moral Vegetarianism|伦理素食主义||
@@ -479,6 +497,7 @@
 |observation|观察||
 |observation sentences|观察句|奎因术语，与理论句子（theoretical sentences）相对|
 |occasionalism|偶因论|马勒伯朗士等：因果偶因学说|
+|ontological commitments|本体论承诺|蒯因；审定名词（ontological commitment）|
 |Olympiodorus|奥林匹奥多罗斯||
 |ontic structural realism|本体的结构实在论||
 |pacifism|和平主义|亦译“反战主义”|
@@ -490,6 +509,7 @@
 |Parmenides|巴门尼德||
 |paternalism|家长主义|政治哲学与伦理学语境；制度语境亦作“家长制”|
 |patriotism|爱国主义||
+|Peano arithmetic|佩亚诺算术|亦作“皮亚诺算术”；审定译名系“佩亚诺”|
 |Paul Natorp|保罗·那托普||
 |Perception|知觉||
 |perfectionism|至善论|政治哲学语境（国家促进善生活的学说）|
@@ -532,6 +552,7 @@
 |predicate letter|谓词字母||
 |presentism|现在主义|时间哲学：只有现在存在；与永恒主义（eternalism）相对|
 |prima facie|初步的|拉丁语“乍看之下”；伦理学 prima facie duty 初定义务（罗斯）|
+|probability theory|概率论|审定名词（数学）|
 |Principia Mathematica|《数学原理》|罗素、怀特海著，通行译名《数学原理》|
 |Prior Analytics|《前分析篇》|亚里士多德著作，通行译名|
 |problem of universals|共相问题|中文维基百科立“共相问题”条目；旧译“普遍性问题”|
@@ -551,6 +572,7 @@
 |Quantum Approaches|量子研究方法||
 |Quantum Field Theory|量子场论||
 |quantum mechanics|量子力学||
+|quantum state|量子态|审定名词（物理学）|
 |quantum theory|量子理论||
 |Quantum-Bayesian|量子贝叶斯模型|即 QBism，亦译“量子贝叶斯主义”|
 |Quine|蒯因|W. V. O. Quine 通行汉译“蒯因”；现代人名原则保留英文，此为通行例外|
@@ -567,6 +589,7 @@
 |Reinhold|莱因霍尔德||
 |Relational|关系性||
 |Relativism|相对主义||
+|religious belief|宗教信念|宗教认识论|
 |reliabilism|可靠论|亦作“可靠主义”|
 |Representation|表征|认知科学与心灵哲学语境；康德、黑格尔的 Vorstellung 语境译“表象”|
 |representationalism|表征主义|亦作“表象主义”|
@@ -583,11 +606,13 @@
 |Samuel Ibn Tibbon|撒母耳·伊本·提本||
 |Sartre|萨特||
 |scepticism|怀疑论|英式拼法，与 Skepticism 同词|
+|scientific explanation|科学解释|亦作“科学说明”；审定名词（自然辩证法）|
 |Schelling|谢林||
 |Science|科学||
 |scientific knowledge|科学知识||
 |Scientific Method|科学方法||
 |scientific methodology|科学方法论||
+|scientific practice|科学实践|科学哲学|
 |scientific realism|科学实在论|与结构实在论、经验等价论题相对|
 |Scientific Theory|科学理论||
 |scottish philosophy|苏格兰哲学|启蒙运动语境（哈奇森、亚当·斯密、里德等）|
@@ -608,6 +633,7 @@
 |She Came to Stay|女宾|波伏瓦首部小说（L’Invitée），上海译文出版社中译本《女宾》（周以光译）|
 |Sherwood|舍伍德||
 |significatio|意涵|阿伯拉尔术语；首现 abelard|
+|social justice|社会正义|亦作“社会公正”；罗尔斯语境|
 |Simone de Beauvoir|西蒙娜·德·波伏瓦|通行“波伏瓦”，见 Beauvoir 条|
 |Simone Weil|西蒙娜·薇依||
 |Simplicius|辛普利修斯||
@@ -709,6 +735,7 @@
 |Tokens|殊例|见 Token 条|
 |Tommaso Campanella|托马斯·康帕内拉||
 |total evidence|总证据|卡尔纳普 1947 年提出 principle of total evidence（总证据原则）；亦译“全部证据”|
+|ultimate reality|终极实在|形而上学/宗教哲学|
 |Tractatus Politicus|政治论||
 |Transcendental Arguments|先验论证||
 |transcendentalism|超验主义|指美国爱默生、梭罗一系的思想运动；康德语境 transcendental 译“先验”|
