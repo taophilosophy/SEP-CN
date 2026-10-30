@@ -2,6 +2,9 @@
 
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
+|Abraham ibn Ezra|亚伯拉罕·伊本·以斯拉|亦作“伊本·以斯拉”；犹太哲学|
+|abstract objects|抽象对象|审定名词（自然辩证法·科学哲学）|
+|aesthetic experience|审美经验|亦作“审美体验”；美学|
 |Agent Intellect|主动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
 |Anti-Dühring|《反杜林论》|恩格斯|
@@ -9,29 +12,37 @@
 |arché|本原|亦作“始基”；希腊哲学术语|
 |aretê|德性|亦作“卓越”；希腊哲学术语|
 |Bedeutung|意义|弗雷格语境；亦作“意谓”|
+|Bertrand Russell|伯特兰·罗素||
 |Bildung|教化|伽达默尔语境|
 |biodiversity|生物多样性|审定名词（多域）|
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
+|common good|公共善|政治哲学|
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
 |Dao|道|拼音转写；中国哲学核心范畴|
 |Dasein|此在|海德格尔；亦作“缘在”|
 |dharma|法|佛教语境；亦作“达摩”|
 |différance|延异|德里达定译|
+|distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
 |Encyclopédie|《百科全书》|狄德罗主编；启蒙哲学|
 |epistêmê|知识|与 doxa 意见相对|
 |Epistemic Closure|认知封闭|知识论|
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
 |epoché|悬搁|亦作“悬置”；胡塞尔|
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
+|expected utility|期望效用|审定名词（管理科学）|
+|external world|外部世界|认识论|
+|first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
 |Frankfurt School|法兰克福学派|审定名词（新闻传播学）|
 |Freedom|自由|审定名词在案；学界通行同形|
+|game theory|博弈论|亦作“对策论”；审定双形在案|
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
 |Hilary Putnam|希拉里·普特南||
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
+|intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |kinêsis|运动|希腊哲学术语|
 |La Géométrie|《几何学》|笛卡尔|
@@ -42,6 +53,7 @@
 |Lüshi chunqiu|《吕氏春秋》|典籍|
 |Metaphysics|形而上学|审定名词在案|
 |Mīmāṃsā|弥曼差|亦作“弥曼沙”；印度哲学|
+|modus ponens|肯定前件|逻辑学|
 |Müller-Lyer illusion|米勒-莱尔错觉|审定名词（心理学）|
 |mutakallimūn|凯拉姆学者|亦作“教义学家”；伊斯兰哲学|
 |naïve realism|朴素实在论|审定名词（自然辩证法·科学哲学）|
@@ -51,9 +63,11 @@
 |Pensées philosophiques|《哲学思想录》|狄德罗|
 |phronêsis|实践智慧|亦作“明智”；亚里士多德|
 |polis|城邦|审定名词（世界历史·希腊）|
+|practical reason|实践理性|审定名词（自然辩证法·科学哲学）|
 |pratyakṣa|现量|印度量论；审定精确查无|
 |Public Justification|公共证成|政治哲学|
 |Pure Land|净土|佛教学|
+|pure reason|纯粹理性|康德；审定无相关命中|
 |qi|气|拼音转写；中国哲学核心范畴|
 |Rubā‘iyyāt|《鲁拜集》|海亚姆四行诗；审定精确查无|
 |Rule Consequentialism|规则后果论|亦作“规则后果主义”；随后果论行|
@@ -68,6 +82,8 @@
 |theōria|静观|亦作“沉思”；希腊哲学术语|
 |Thomas Hobbes|托马斯·霍布斯||
 |tian|天|拼音转写；中国哲学范畴|
+|truth conditions|真值条件|审定复合词佐证（语言学）|
+|truth value|真值|审定名词（数学·数理逻辑）|
 |Twin Earth|孪生地球|心灵哲学思想实验|
 |vijñāna|识|审定名词（哲学）|
 |Vorstellung|表象|康德/叔本华；审定精确查无|

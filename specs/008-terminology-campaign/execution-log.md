@@ -209,3 +209,7 @@ topic 型（标题词）专项：**7 个真术语查证登记**——Metaphysics
 ### person 池专项（2026-10-31，重分型 33 + 拒登 8 + 15 词登记）
 
 person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构/概念被 person 路径捕获）。三步处理：① 33 条重归 phrase（法兰克福学派/批判理论/孪生地球/说谎者悖论/中文屋/《哲学研究》/《人类理解论》等）；② 8 条拒登（Book III/Part III 编号残片、Maynard Smith 现代学者体例、Sherlock Holmes/Clark Kent 虚构人物、North America 地理词、John Duns 已登记行变体、Civil War 语境歧义）；③ **15 词查证登记**——审定直接命中 4（批判理论·自然辩证法、法兰克福学派·新闻传播学、中文屋论证·自然辩证法、狭义相对论·物理学）+ 学界惯例 11（自然权利/天赋人权并立、主动理智、圣灵、说谎者悖论、必然真理、公共证成、净土、孪生地球 + 人物霍布斯/普特南/惠施）。三表同步 15 行（登记册 +12、人名表 +3、词汇表 +15）；manifest tasks/manifests/2026-10-31-person-a1.json。check_all 七项全绿。
+
+### phrase 高频段首批（2026-10-31，freq≥90，18 词查证 16 词登记）
+
+审定直接命中 7：abstract objects 抽象对象（自然辩证法·科学哲学）、expected utility 期望效用（管理科学）、game theory 博弈论（审定双形：自然辩证法"博弈论"/管理科学"对策论"，后者作亦作）、intrinsic value 内在价值（技术哲学·环境伦理）、first-order logic 一阶逻辑（数学·数理逻辑）、practical reason 实践理性（科学哲学）、truth value 真值（数学·数理逻辑）。复合词佐证 1：truth conditions 真值条件（审定"真值条件语义学"）。审定双形并立 1：common knowledge 公共知识（计算机·人工智能）／共同知识（经济学）——主译采认知逻辑通行的公共知识。学界惯例 6：external world 外部世界、aesthetic experience 审美经验、pure reason 纯粹理性、modus ponens 肯定前件、common good 公共善、mathematical objects 数学对象；distributive justice 分配正义（审定"分配公平"心理学域作亦作）。人物 2：伯特兰·罗素、亚伯拉罕·伊本·以斯拉（犹太哲学）。池同步：possible worlds/possible world 既登记行 published；泛词/残片清洗 26。三表同步（登记册 +14、人名表 +2、词汇表 +16）；manifest tasks/manifests/2026-10-31-phrase-a1.json。check_all 七项全绿。
