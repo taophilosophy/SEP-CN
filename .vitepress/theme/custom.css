@@ -255,6 +255,21 @@ body.bili-mode .VPDoc .aside {
   border-radius: 4px;
 }
 
+/* 悬停可供性：提示段落可点击（桌面端,对照模式;借鉴 SnapVerbo/Yalango） */
+@media (min-width: 960px) {
+  body.bili-mode
+    .vp-doc
+    :is(p, h2, h3, h4, li, blockquote, table, dl):hover {
+    background: var(--vp-c-bg-soft);
+  }
+}
+
+/* 双语阅读进度（Yalango 范式:面板条常显） */
+.bili-progress {
+  font-variant-numeric: tabular-nums;
+  color: var(--vp-c-text-2);
+}
+
 /* 上下堆叠布局（2026-10-31）：中文上半、英文下半，正文恢复全宽 */
 body.bili-stack .bili-panel {
   left: 0;

@@ -52,7 +52,9 @@ export function clickableBlock(e: MouseEvent): HTMLElement | null {
   return doc && target && doc.contains(target) ? target : null
 }
 
-/** 当前阅读段：视口上 1/3 基准线所穿过的块（滚动跟随高亮/双向驱动用） */
+/** 当前阅读段：视口上 1/3 基准线所穿过的块（滚动跟随高亮/双向驱动用）。
+    零尺寸块（littlefoot 隐藏的脚注定义区等 display:none 子树，rect 恒为
+    0,0 且 top<line 恒真）必须跳过——否则兜底分支永远选中它们（实测踩坑） */
 export function activeBlock(doc: Element): HTMLElement | null {
   const blocks = doc.querySelectorAll<HTMLElement>(BILI_BLOCKS)
   if (!blocks.length) return null
@@ -60,6 +62,7 @@ export function activeBlock(doc: Element): HTMLElement | null {
   let cur: HTMLElement | null = null
   for (const b of blocks) {
     const r = b.getBoundingClientRect()
+    if (r.width === 0 && r.height === 0) continue
     if (r.top <= line && r.bottom >= line) return b
     if (r.top < line) cur = b
   }

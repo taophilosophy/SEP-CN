@@ -96,25 +96,27 @@ if (inIframe && !w.__biliIframeSync) {
   w.__biliIframeSync = true
   let lockedUntil = 0
   let lastKey = ''
-  let raf = 0
 
-  // 英文侧滚动 → 当前段变化 → 回传父页（软跟随；键相同/驱动锁内不发）
+  // 英文侧滚动 → 当前段变化 → 回传父页(时间节流,理由同父侧)
+  let lastTick = 0
   window.addEventListener('scroll', () => {
-    if (Date.now() < lockedUntil || raf) return
-    raf = requestAnimationFrame(() => {
-      raf = 0
-      const doc = document.querySelector('.vp-doc')
-      if (!doc) return
-      const el = activeBlock(doc)
-      if (!el) return
-      markActive(doc, el)
-      const pt = mapPoint(doc, el)
-      if (!pt) return
-      const key = pt.h + ':' + pt.b
-      if (key === lastKey) return
-      lastKey = key
-      window.parent.postMessage({ type: 'bili:active-back', h: pt.h, b: pt.b }, '*')
-    })
+    if (Date.now() < lockedUntil) return
+    const now = Date.now()
+    if (now - lastTick < 120) return
+    lastTick = now
+    const doc = document.querySelector('.vp-doc')
+    if (!doc) return
+    const el = activeBlock(doc)
+    if (!el) return
+    markActive(doc, el)
+    const pt = mapPoint(doc, el)
+    if (!pt) return
+    const key = pt.h + ':' + pt.b
+    if (key === lastKey) return
+    lastKey = key
+    const max = document.documentElement.scrollHeight - window.innerHeight
+    const enPct = max > 0 ? Math.min(100, Math.round((window.scrollY / max) * 100)) : 0
+    window.parent.postMessage({ type: 'bili:active-back', h: pt.h, b: pt.b, enPct }, '*')
   }, { passive: true })
 
   // 接收中文侧驱动：soft=滚动跟随（无闪烁），硬=点击跳转（带闪烁）
@@ -146,6 +148,28 @@ if (inIframe && !w.__biliIframeSync) {
       window.parent.postMessage({ type: 'bili:goto-back', h: pt.h, b: pt.b }, '*')
     }
   })
+
+  // 原生 scroll 事件可能不派发(同父侧),轮询兜底
+  let lastPolledY = -1
+  setInterval(() => {
+    const y = Math.round(window.scrollY)
+    if (y === lastPolledY) return
+    lastPolledY = y
+    if (Date.now() < lockedUntil) return
+    const doc = document.querySelector('.vp-doc')
+    if (!doc) return
+    const el = activeBlock(doc)
+    if (!el) return
+    markActive(doc, el)
+    const pt = mapPoint(doc, el)
+    if (!pt) return
+    const key = pt.h + ':' + pt.b
+    if (key === lastKey) return
+    lastKey = key
+    const max = document.documentElement.scrollHeight - window.innerHeight
+    const enPct = max > 0 ? Math.min(100, Math.round((window.scrollY / max) * 100)) : 0
+    window.parent.postMessage({ type: 'bili:active-back', h: pt.h, b: pt.b, enPct }, '*')
+  }, 400)
 
   // 选中文本 → 中文侧同序句高亮（2026-10-31；selectionchange 300ms 去抖）
   let selTimer: ReturnType<typeof setTimeout> | undefined
