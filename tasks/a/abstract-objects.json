@@ -2,8 +2,72 @@
   "slug": "abstract-objects",
   "kind": "retranslate",
   "zh_doc": "a/abstract-objects.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-30T16:24:09Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:08:12Z",
+      "evidence": "四节全译落盘：导言+§1引言(对象表达式/区分说明)+§2历史评注(区分来源/当代论辩概览)+§3什么是抽象对象(举例与素朴主义/混同/抽象/抽象原则四路+否定之路四小节+编码之路+弱化存在两小节+取消主义)+§4延伸阅读；note-1..24 全译；refs 137 条 defs 照录拼接（总键集 161/161 一致）；Lewis 四路/Lewis 引言块保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:08:12Z",
+      "evidence": "一校体例：手写稿 634 处问题批量修复——直引号成对转弯引号（含被提及表达式'...'转“”）、CJK 邻接加粗补外侧空格、闭合**后全角开括号补空格 56 处；性质名斜体改中文引号（note-9/15/19/24 与正文 244/268/276 行）；EN 残留修正 somewhat/present/Suffice it to say/being thin 4 处；check_style 0 issue"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:08:13Z",
+      "evidence": "二校学术：check_academic --strict 0 硬错误；术语裁定（抽象/具体、柏拉图主义/唯名论小写现代义、举例/混同/否定/抽象/抽象原则/编码/弱化存在/素朴主义诸路、充盈原则、概括原则、例示/编码、薄/厚对象、浅层本性、统一关系、充足算子、轻易存在论、公设认识论、准断言、副现象感受质、类型-殊型）；Zalta O!/A! 定义公式与巴坎公式原样保留"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:08:13Z",
+      "evidence": "三校全文：check_markdown zh scope abstract-objects 0 hard；check_bold_collapse 1 候选人工裁定合法（186 行段首加粗系源文句子主语、段落完整无前缀丢失）；本件手写体例问题（直引号/加粗空格）暴露 convert_italic 自动化边界——下次翻译直接按规范写"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:09:21Z",
+      "evidence": "初审：逐节对照 yuanwen/a/abstract-objects.md（699行）——§2.1 区分史（柏拉图形式因果性对照/洛克抽象观念与贝克莱休谟拒斥/弗雷格算术基础与《思想》第三领域/波尔查诺布伦塔诺迈农胡塞尔/波普尔第三世界）；§2.2 奎因 1948 三前提/菲尔德唯名化物理学/易路者/强化不可或缺性论证/贝纳塞拉夫两难/魔法式替身/准断言/卡尔纳普内外部问题；§3.4 弗雷格抽象原则五例与方向数例、火车融合反例、达米特批评与刘易斯引文、抽象函数两特征；§3.5.1 非心灵判准三版与后像头痛融合例、傲慢与偏见；§3.5.2 非空间性（余弦函数/毕达哥拉斯定理/国际象棋七世纪传入波斯/彼得保罗集合派生占据）；§3.5.3 因果无效性（副现象感受质/参与因果秩序难题）；§3.5.4 考林双球例与刘易斯单元集论/内在共相反例；§3.6 Zalta 两解读/例示编码/概括原则/圆的方与罗素集/充盈原则；§3.7 卡尔纳普框架论/雷斯尼克公设认识论/托马森轻易存在论/林内博充足算子薄对象浅层本性"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:09:21Z",
+      "evidence": "复审：语义复核——①causally inert 译因果上无效力全文一致；②way of X 系列统一译X之路；③thin/thick 译薄/厚、shallow nature 译浅层本性、unity relation 译统一关系、specifications 译规定者；④full-blooded platonism 译全血柏拉图主义（Balaguer 自创语）；⑤easy-roaders 保留英文+易路者；⑥magical ersatz 译魔法式替身；⑦quasi-assertions 译准断言；⑧巴坎公式/基本律V/非直谓定义等集合论术语标准译名；⑨致谢 Rosen 保留署名说明（2021 修订分工）照译"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:09:21Z",
+      "evidence": "终审：para_align 347/347 段全对齐 0 残留（本批首个全对齐大词条）；check_style/check_academic 0 问题；check_markdown 0 hard；其他网络资源 Rayo 未刊稿链接保留+中文题名括注"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:09:22Z",
+      "evidence": "六道走完 done：a/abstract-objects.md（四节全译+note-1..24 译入+refs 137 条 defs 照录）；a 批 translate 进度 10/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:32Z",
   "version_pin": {
