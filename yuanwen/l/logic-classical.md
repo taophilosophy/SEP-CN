@@ -132,7 +132,7 @@ One difference between natural languages like English and formal languages like 
 
 John is married, and Mary is single, or Joe is crazy.
 
-It can mean that John is married and either Mary is single or Joe is crazy, or else it can mean that either both John is married and Mary is single, or else Joe is crazy. An ambiguity like this, due to different ways to parse the same sentence, is sometimes called an “amphiboly”. If our formal language did not have the parentheses in it, it would have amphibolies. For example, there would be a “formula” $A \amp B \vee$* C*. Is this supposed to be $((A \amp B) \vee C)$, or is it $(A \amp(B \vee C))$? The parentheses resolve what would be an amphiboly.
+It can mean that John is married and either Mary is single or Joe is crazy, or else it can mean that either both John is married and Mary is single, or else Joe is crazy. An ambiguity like this, due to different ways to parse the same sentence, is sometimes called an “amphiboly”. If our formal language did not have the parentheses in it, it would have amphibolies. For example, there would be a “formula” $A \amp B \vee$*C*. Is this supposed to be $((A \amp B) \vee C)$, or is it $(A \amp(B \vee C))$? The parentheses resolve what would be an amphiboly.
 
 Can we be sure that there are no other amphibolies in our language? That is, can we be sure that each formula of $\LKe$ can be put together in only one way? Our next task is to answer this question.
 
@@ -301,7 +301,7 @@ The rule $({=}\mathrm{E})$ indicates a certain restriction in the expressive res
 
 One final clause completes the description of the deductive system $D$:
 
-**(*)**
+(*)
 
 That’s all folks. $\Gamma \vdash \theta$ only if $\theta$ follows from members of $\Gamma$ by the above rules.
 
