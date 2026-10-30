@@ -272,6 +272,17 @@ body.bili-stack .VPDoc .container {
   margin: 0;
 }
 
+/* 左侧目录隐藏开关（2026-10-31,桌面端;对照模式下恒隐、不依赖此开关） */
+@media (min-width: 960px) {
+  body.hide-sidebar .VPSidebar {
+    display: none !important;
+  }
+
+  body.hide-sidebar .VPContent.has-sidebar {
+    padding-left: 0 !important;
+  }
+}
+
 /* 选中句双向高亮 */
 mark.bili-sent-zh,
 mark.bili-sent-en {

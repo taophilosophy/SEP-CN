@@ -42,6 +42,7 @@ watch([enPath, open], applyState, { flush: 'post' })
 function applyState() {
   document.body.classList.toggle('bili-mode', open.value && !!enPath.value)
   document.body.classList.toggle('bili-stack', layout.value === 'stack')
+  document.body.classList.toggle('hide-sidebar', hideSidebar.value)
 }
 
 watch(open, (v) => {
@@ -61,6 +62,21 @@ watch(
   },
   { flush: 'post' },
 )
+
+// 左侧目录隐藏开关（2026-10-31：独立于对照模式，桌面对比/沉浸阅读用，持久化）
+const hideSidebar = ref(localStorage.getItem('hide-sidebar') === '1')
+watch(
+  hideSidebar,
+  (v) => {
+    localStorage.setItem('hide-sidebar', v ? '1' : '0')
+    applyState()
+  },
+  { flush: 'post' },
+)
+
+function toggleHideSidebar() {
+  hideSidebar.value = !hideSidebar.value
+}
 
 // 选中文本 → 对侧同序句高亮（选中变化 300ms 去抖后驱动）
 let selTimer: ReturnType<typeof setTimeout> | undefined
@@ -203,6 +219,14 @@ onBeforeUnmount(() => {
 
 <template>
   <div v-if="enPath" class="bili-toggle-wrap">
+    <button
+      class="bili-btn"
+      :class="{ on: hideSidebar }"
+      title="隐藏/显示左侧目录（桌面端）"
+      @click="toggleHideSidebar"
+    >
+      ⇤ 目录
+    </button>
     <button
       class="bili-btn"
       :class="{ on: open }"
