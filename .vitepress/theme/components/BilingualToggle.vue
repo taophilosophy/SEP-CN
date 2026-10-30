@@ -23,10 +23,12 @@ const frame = ref<HTMLIFrameElement | null>(null)
 // 用户显式开/关后，本会话内不再自动恢复（dev 下 page 数据异步到达，
 // 挂载时 enPath 未定——自动恢复必须响应 enPath 到达事件，2026-10-31 修复）
 const userTouched = ref(false)
+const hasLS = typeof localStorage !== 'undefined'
 
 watch(
   [enPath],
   () => {
+    if (typeof localStorage === 'undefined') return // SSR（build 渲染页）无 localStorage
     if (!userTouched.value) {
       open.value = localStorage.getItem('bili-open') === '1' && !!enPath.value
     }
@@ -47,28 +49,30 @@ function applyState() {
 
 watch(open, (v) => {
   userTouched.value = true
-  localStorage.setItem('bili-open', v ? '1' : '0')
+  if (typeof localStorage !== 'undefined') {
+    localStorage.setItem('bili-open', v ? '1' : '0')
+  }
 })
 
 // 布局模式：side=左右并排 | stack=上下堆叠（2026-10-31 新增，持久化）
 const layout = ref<'side' | 'stack'>(
-  localStorage.getItem('bili-layout') === 'stack' ? 'stack' : 'side',
+  hasLS && localStorage.getItem('bili-layout') === 'stack' ? 'stack' : 'side',
 )
 watch(
   layout,
   (v) => {
-    localStorage.setItem('bili-layout', v)
+    if (hasLS) localStorage.setItem('bili-layout', v)
     applyState()
   },
   { flush: 'post' },
 )
 
 // 左侧目录隐藏开关（2026-10-31：独立于对照模式，桌面对比/沉浸阅读用，持久化）
-const hideSidebar = ref(localStorage.getItem('hide-sidebar') === '1')
+const hideSidebar = ref(hasLS && localStorage.getItem('hide-sidebar') === '1')
 watch(
   hideSidebar,
   (v) => {
-    localStorage.setItem('hide-sidebar', v ? '1' : '0')
+    if (hasLS) localStorage.setItem('hide-sidebar', v ? '1' : '0')
     applyState()
   },
   { flush: 'post' },
