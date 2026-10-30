@@ -300,6 +300,11 @@ export default defineConfig({
       : []),
   ],
   markdown: {
+    // 关闭 markdown 编译缓存（ADR-0019，2026-10-31 实验证实）：缓存与
+    // footnote 插件的 env 依赖不兼容——脚注引用在 build 产物字面化
+    // （1911 页 2312 处），cache:false 后同源页面 footnote 正常渲染
+    //（rationality 镜像 0→153）。构建耗时无显著差异（636-685s）。
+    cache: false,
     // 关闭内置 @mdit/plugin-attrs：全库以 ^{…}/_{…} 作上下标约定、正文含
     // 大量字面 {…}（如 ^{−1}），attrs 会把尾随花括号吞成 HTML 属性——轻则
     // 上下标文本静默丢失（u(a_{1}) 渲染成 u(a），重则非法属性名（−½）炸掉
