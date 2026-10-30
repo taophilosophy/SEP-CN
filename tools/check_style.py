@@ -151,6 +151,8 @@ def check_file(path):
                 in_bib = False
         if fence_open:
             continue
+        if line.lstrip().startswith("!["):
+            continue  # 图片嵌入行豁免：alt 为照录的英文机器描述，引号/空格规则针对中文正文
         if in_bib and not CJK_LINE_RE.search(line):
             continue  # 非中文照录行豁免；含汉字行（还原的中国文献）照常检查
         check_line(path, i, line, issues)

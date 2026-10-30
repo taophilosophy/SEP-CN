@@ -2,7 +2,7 @@
   "slug": "action-perception",
   "kind": "retranslate",
   "zh_doc": "a/action-perception.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-10-30T19:45:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T20:58:43Z",
+      "evidence": "四节全译落盘：导言+§1早期理论(贝克莱新论/洛克先声/三反驳/洛采亥姆霍兹局部符号)+§2感觉运动权变(视向恒常性/再传入原则/施特拉顿倒置视觉/黑尔德棱镜适应/信息假说/本体感受重校准/生成进路/TVSS/双系统模型)+§3运动成分与传出准备(显似方向距离运动三情形/利用行为/温和-大胆准备理论/泰勒行为理论/COG偏向缪勒-莱尔)+§4技能倾向理论(埃文斯信息链路/自我中心空间/单一行为空间/格鲁什基函数实现/给予的神话/瘫痪反例回应)；note 无独立脚注节（作者-年份引用组）；refs 196 条 defs 照录拼接（键集 196/196 归一化一致）；3 图照录引用+图注译文，assets/action-perception 三 PNG 入库"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T21:00:54Z",
+      "evidence": "一校体例：EN 残留修正 4 处（intended/thing/manage/narrowly）；中文斜体→加粗 12 处（局部符号/视向恒常性/实践真理/感觉运动权变定律/传出拷贝/自动运动效应/运动感觉/运动通道/那一个等）；bold-spacing 批量补外侧空格与闭合后全角括号；check_style 0 issue（图片行 alt 豁免入 check_style——英文机器描述不适用中文引号规则）；check_bold_collapse 0 候选"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T21:00:54Z",
+      "evidence": "二校学术：check_academic --strict 0 硬错误；术语定案：感觉运动权变/传出拷贝/再传入-外传入/视向恒常性/光学重排装置/生成进路/运动成分理论/温和-大胆准备理论/倾向理论/局部符号/透视形状与大小/感觉替代/利用行为/类型-细节规定倾向/基函数/给予的神话/负后效/手间迁移/视觉悬崖；人名贝克莱洛克孔狄亚克洛采亥姆霍兹马赫施特拉顿黑尔德冯霍尔斯特米特尔施泰特布里奇曼奥雷根诺伊赫利埃文斯格鲁什泰勒科伦；相关词条三项题名取自 SUMMARY（身体觉知/具身认知/现象学）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T21:00:54Z",
+      "evidence": "三校全文：check_markdown zh scope 0 hard；八处引文块（贝克莱 §45/《人类知识原理》§44/§147 自然之作者语言/贝恩 194/孔狄亚克凸起形状/贝利外向性/冯霍尔斯特再传入原则/Hurley-Noë 两处/亥姆霍兹实践真理/泰勒 1965）全译；三图 fig1-3 alt 照录英文+图注中文，PNG 三件从 en/ 复制入 assets/"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T21:03:07Z",
+      "evidence": "初审：逐节对照 yuanwen/a/action-perception.md（810行）——导言 Hurley 输入-输出图景引文与构成性依赖主旨；§1.1 贝克莱三方面（触觉后果预判/目的论自然之作者/动眼因素辐合调节）；§1.2 三主张 (a)(b)(c) 与单点论证/贝恩内省反对/孔狄亚克视觉顽抗/贝利新生儿/Abbott 观念共存难题/棱镜适应证据；§1.3 洛采局部符号代币系统/PF 弧运动感觉系列/无扫视回忆/亥姆霍兹流出修正与瘫痪眼动实验；§2.1 VDC 两问题/再传入原则引文/图1/四反对（本体感受贡献/自动运动/30%位移/跳动）与两替代（参照对象/空间重映射）；§2.2 黑尔德三扩展/施特拉顿 21.5 与 81.5 小时与镜面实验/亥姆霍兹手间迁移负后效/两问题/主动被动对照/信息假说两来源/最终产物本体感受重校准（七自由度臂形空间）；§2.3 生成进路两步看/P-shape P-size 感觉材料亲缘/TVSS 三证据与两反驳/小猫旋转木马/双系统模型批评与两回应；§3.1 三情形（方向/距离大小 Emmert/平滑追踪行月错觉）；§3.2 利用行为/Festinger 44%与18%/COG 偏向图3/缪勒-莱尔/泰勒行为理论/Matthen 无恰当反应；§4 埃文斯三引文（自我中心术语/肌肉词汇不还原/单一行为空间）/整体论误解澄清/格鲁什两区分/基函数数值例/给予的神话/瘫痪预测"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T21:03:07Z",
+      "evidence": "复审：语义复核——①constitutive 统一译构成性的（非工具依赖）；②local sign 局部符号（Lotze 学界通行）；③reafference/exafference 再传入/外传入（神经科学通行）；④enactive approach 生成进路（embodied cognition 文献通行）；⑤efference copy 传出拷贝；⑥disposition theory 倾向理论（与 abilities 词条 disposition=倾向一致）；⑦modest/bold 温和/大胆；⑧P-shape/P-size 保留缩写+透视形状/大小首现括注；⑨图注 EA=EC+A 公式照录；⑩图片 alt 英文照录理由（机器描述非中文正文）记入 s1"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T21:03:07Z",
+      "evidence": "终审：para_align 398/398 对（zh 残留 4=相关词条/致谢位于 defs 后的位置差异，EN 侧 0 残留证零缺失）；check_style/check_academic/check_bold_collapse 全 0；check_markdown 0 hard；check_all 7 项全绿；并行会话 stub 覆盖事故已以 WIP 快照提交防护（68ac9df7），本件为事故后完整重写版"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T21:03:07Z",
+      "evidence": "六道走完 done：a/action-perception.md（四节全译+refs 196 条 defs 照录+3 图引用与图注译文+assets 三 PNG）；a 批 translate 进度 14/160"
     }
   ],
   "blockers": [],
