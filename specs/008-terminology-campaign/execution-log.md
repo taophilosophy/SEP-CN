@@ -195,3 +195,9 @@ emit 定制清单 + 浏览器通道 4 批查证 → 采审定 12（心理内容/
 ### foreign A2 批（2026-10-31，榜 20-60 名，19 词直裁）
 
 **本批亮点：审定库·哲学域直接命中 3 个佛教术语**——śūnyatā=空、vijñāna=识、tathāgatagarbha=如来藏（哲学名词审定覆盖梵语佛教术语的实证）。学界惯例 16：Dasein 此在（陈嘉映译本）、Geist 精神、epoché 悬搁、theōria 静观、puruṣa 神我、différance 延异（德里达定译）、Bedeutung 意义（王路"意谓"并存注记）、saṃsāra 轮回、aretê 德性、īśvara 自在天、哥德尔句/哥德尔定理/卢卡西维茨逻辑 + 书名《几何学》《吕氏春秋》《鲁拜集》。held 3（希伯来/韩/日罗马字冷僻书名）；rejected 12（残片/复数形/单字拼音歧义）。三表同步 17 行（nous 于 A1 已登记不重复）；manifest tasks/manifests/2026-10-31-foreign-a2.json。check_all 七项全绿（009 会话已自行修复其尺寸违规与 abortion 任务记录）。
+
+### foreign A3 批（2026-10-31，榜 60-105 名，18 词查证 15 词直裁）
+
+审定·心理学域直接命中 1：Müller-Lyer illusion=米勒-莱尔错觉。学界惯例 14：aisthêsis 感知、arché 本原（始基）、kinêsis 运动、anumāna 比量、pratyakṣa 现量、schêma 图型（康德）、Sittlichkeit 伦理（黑格尔）、Vorstellung 表象、waḥdat al-wujūd 存在单一论（伊本·阿拉比）、mutakallimūn 凯拉姆学者、Mīmāṃsā 弥曼差、Löb's theorem 勒布定理 + 书名《反杜林论》《哲学思想录》。held 8（印度量论截断与阿位逻辑术语 taṣdīq"断定"候选等语境待核）；rejected 18（介词残片/单字拼音/已登记行变体）。三表同步 15 行；manifest tasks/manifests/2026-10-31-foreign-a3.json。check_all 七项全绿。
+
+**foreign 榜高频段（freq ≥18）至此扫完**：三批累计 56 词查证、50 行落册；余量转入中低频长尾（harvest-cache 留存，随词条翻译核定）。

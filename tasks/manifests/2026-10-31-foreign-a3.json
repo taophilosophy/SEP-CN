@@ -1,0 +1,35 @@
+{
+ "batch": "2026-10-31-foreign-a3",
+ "scope": "foreign 型榜 60-105 名遴选：希腊/康德/黑格尔/印度量论/伊斯兰/书名/科学词 15；审定·心理学域直接命中 1（米勒-莱尔错觉）",
+ "published": [
+  {"en": "Müller-Lyer illusion", "zh": "米勒-莱尔错觉", "basis": "审定名词库·心理学（直接命中）"},
+  {"en": "aisthêsis", "zh": "感知（亦作“感觉”）", "basis": "学界惯例（希腊）"},
+  {"en": "arché", "zh": "本原（亦作“始基”）", "basis": "学界惯例（前苏格拉底）"},
+  {"en": "anumāna", "zh": "比量", "basis": "学界惯例（印度量论）"},
+  {"en": "kinêsis", "zh": "运动", "basis": "学界惯例（希腊）"},
+  {"en": "Löb’s theorem", "zh": "勒布定理", "basis": "学界惯例（数理逻辑）"},
+  {"en": "Mīmāṃsā", "zh": "弥曼差（亦作“弥曼沙”）", "basis": "学界惯例（印度哲学）；审定精确查无"},
+  {"en": "mutakallimūn", "zh": "凯拉姆学者（亦作“教义学家”）", "basis": "学界惯例（伊斯兰哲学）；审定精确查无"},
+  {"en": "Pensées philosophiques", "zh": "《哲学思想录》", "basis": "学界惯例（狄德罗）"},
+  {"en": "pratyakṣa", "zh": "现量", "basis": "学界惯例（印度量论）；审定精确查无"},
+  {"en": "schêma", "zh": "图型（亦作“图式”）", "basis": "学界惯例（康德）"},
+  {"en": "Sittlichkeit", "zh": "伦理（亦作“伦理生活”）", "basis": "学界惯例（黑格尔）；审定精确查无"},
+  {"en": "Vorstellung", "zh": "表象", "basis": "学界惯例（康德/叔本华）；审定精确查无"},
+  {"en": "waḥdat al-wujūd", "zh": "存在单一论（亦作“存在统一论”）", "basis": "学界惯例（伊本·阿拉比学派）"},
+  {"en": "Anti-Dühring", "zh": "《反杜林论》", "basis": "学界惯例（恩格斯）"}
+ ],
+ "held": [
+  {"en": "Śabad / jāti / yogyatā", "reason": "印度量论术语截断与语境待核"},
+  {"en": "De l’égalité", "reason": "法语书名归属待核"},
+  {"en": "maṭālib / taṣdīq / Maqāṣid", "reason": "阿拉伯逻辑学术语语境待核（taṣdīq“断定”候选）"},
+  {"en": "Tamhīdāt", "reason": "阿位书名待核"}
+ ],
+ "rejected": [
+  {"en": "Über das / Beiträge zur", "reason": "德语介词残片"},
+  {"en": "École Normale Supérieure / Filosofía Chile / De l…机构类", "reason": "机构/地名随语境"},
+  {"en": "tóng / aì / self ātman / Gödel proved", "reason": "单字拼音歧义与复合残片"},
+  {"en": "Nyāya-Vaiśeṣika philosophers / Ibn Sīnā Avicenna / Sīnā Avicenna / Ghazālī ghazālī- / emptiness śūnyatā / kalām argument / Ṣadr al-Dīn / Naṣīr al-Dīn / Dürr Goldstein / Glüer Wikforss", "reason": "已登记行变体与解析残片"}
+ ],
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（18 键，tl-foreign-a3 三批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +15 行、ci-hui-biao.md +15 行"
+}
