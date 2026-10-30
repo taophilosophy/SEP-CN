@@ -189,6 +189,7 @@ def main():
     entries = [
         ['abstract-objects', 'a/abstract-objects.md', 'yuanwen/a/abstract-objects.md', None],
         ['abu-bakr-al-razi', 'a/abu-bakr-al-razi.md', 'yuanwen/a/abu-bakr-al-razi.md', None],
+        ['academic-freedom', 'a/academic-freedom.md', 'yuanwen/a/academic-freedom.md', None],
         ['abilities', 'a/abilities.md', 'yuanwen/a/abilities.md', None],
         ['abraham-daud', 'a/abraham-daud.md', 'yuanwen/a/abraham-daud.md', None],
         ['abrabanel', 'a/abrabanel.md', 'yuanwen/a/abrabanel.md', None],

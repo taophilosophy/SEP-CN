@@ -2,8 +2,72 @@
   "slug": "academic-freedom",
   "kind": "retranslate",
   "zh_doc": "a/academic-freedom.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-30T17:31:13Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:03:48Z",
+      "evidence": "六节全译落盘：导言+§1历史(中世纪法团/巴老板牛津巴黎/Authentica Habita/普通研习院/随地任教权/libertas scholastica/洪堡双重自由/研究型大学/杜威AAUP/1915-1925-1940三文件)+§2核心观念(原则与制度/内容无关性·情境无关性/职业结构)+§3基础与证成(为其自身之故/杜威民主求真/求真/自由主义与民主证成/批判学派)+§4校外言论+§5学生与Lernfreiheit(课堂/抗议)+§6争议问题(机构中立卡尔文报告/访问演讲者安全空间拒予平台)；note-1 译入；refs 130 条 defs 照录拼接（总键集 131/131 经 o'neil 撇号修正后一致）；其他网络资源 13 条 AAUP/CAUT/UNESCO 文档转中文题名保留链接"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:03:49Z",
+      "evidence": "一校体例：EN 残留修正 6 处（astronomical/arguably/meaningful/possibility/ranging/encompassing）；bold-spacing 补外侧空格 46 处；25 行相邻斜体误配对消解（考核。后补空格）；o'neil 键撇号 ASCII→弯撇与 yuanwen 一致（marker+def 2 处）；check_style 0 issue；check_bold_collapse 1 候选裁定合法（187 行段首加粗=源文 students 强调）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:03:49Z",
+      "evidence": "二校学术：check_academic --strict 0 硬错误；术语裁定（学术自由/终身教职/校外与校内言论/正统-异端/学府自由/哲思自由/随地任教权/普通研习院/研究型大学/教师治理/内容无关性-情境无关性/机构中立/邻近性/拒予平台/安全空间/微歧视/触发预警/教化Bildung/文人共和国/守旧派-少壮派/门徒-学科双关）；案名与法案（West Virginia v Barnette/Keyishian 等）保留拉丁；相关词条九项题名取自 SUMMARY（约翰·斯图亚特·穆勒用登记形）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:03:50Z",
+      "evidence": "三校全文：check_markdown zh scope 0 hard；五处引文块（RF 106-7 式：不可逾越之限/哲学家伦理学先于证明未涉本件——本件为 1915 宣言语/Huntington 半玩笑/奥克肖特大学定义/刘易斯宪法星宿/Scott 学科共同体/卡尔文批评者家园）全译； enumerated 5 例侵犯清单保留编号列表"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:05:34Z",
+      "evidence": "初审：逐节对照 yuanwen/a/academic-freedom.md（279行）——§1 十一分节史（博洛尼亚 1088/帝国特权/民族 natio 词源/studium generale 三标准/相互承认与 ius ubique docendi/规范未自我执行/libertas scholastica vs philosophandi/洪堡 Lehr-Lern 双自由/约翰霍普金斯芝加哥/杜威 1902 首篇英语论述/AAUP 1915 成立背景/三文件谱系/Beaud 普遍性引文）；§2.1 三自由两制度/司法委员会/系-学科双层/张力段（占星术代天文学）/墙内言论第四自由/Porter 案/佩蒂特内容-情境无关性；§2.2 五例侵犯清单/CAUT 少数派/雇员否认与法官类比/AAUP 工会化/UNESCO 雇佣宣言；§3 纽曼奥克肖特罗蒂费什/杜威民主求真/法理系谱/Butler 批判学派"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:05:34Z",
+      "evidence": "复审：语义复核——①disciple/discipline 双关以门徒/学科保留并加括号英文；②muddle through 译在将就中前行；③Old Guard/Young Turks 译守旧派/少壮派；④hedonism 零和博弈段（abilities 词条同源论证交叉一致）；⑤Eisgruber/Gersen/Nussbaum 抗议诸家立场分辨；⑥Dea proximity 邻近性模型与未让渡原住民土地例；⑦Huntington 引文半玩笑语气保留；⑧2026 新发表词条 pubinfo 仅首次发表行"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:05:35Z",
+      "evidence": "终审：para_align 259/259 对（zh 残留=脚注节标题+note-1，对应 yuanwen 双 Notes 标题，零缺失）；check_style/check_academic 0；check_markdown 0 hard；check_bold_collapse 1 候选已裁定"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T18:05:35Z",
+      "evidence": "六道走完 done：a/academic-freedom.md（六节全译+note-1 译入+refs 130 条 defs 照录+其他网络资源中文题名）；a 批 translate 进度 12/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:32Z",
   "version_pin": {

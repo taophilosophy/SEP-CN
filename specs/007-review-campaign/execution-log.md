@@ -336,3 +336,12 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 * 体例一次写对：本轮手写稿仅 6 处 bold-spacing 需补（上轮 634 处的教训生效——直引号/性质名斜体 0 处）
 * para_align 106/106 段对齐（唯一 zh 残留=译注行同先例）；check_markdown 0 hard
 * a 批进度 11/160
+
+
+## 2026-10-31 A批第12件：academic-freedom done
+
+* 全译：导言+六节（历史/核心观念/基础与证成/校外言论/学生与 Lernfreiheit/争议问题）+致谢；note-1 译入；refs 130 条 defs 照录拼接（键集 131/131）；其他网络资源 13 条 AAUP/CAUT/UNESCO 文档转中文题名保留链接
+* 本件为 2026-10-17 新发表词条（pubinfo 仅首次发表行）；作者 Jacob T. Levy（麦吉尔），词条自带 2026 年度文献（Gersen 2026/Dea 2026/Soucek 2026 等）
+* 术语定案：机构中立（卡尔文报告）、邻近性 proximity（Dea）、拒予平台 no-platforming、安全空间、微歧视、触发预警、内容无关性/情境无关性（佩蒂特）、学府自由 libertas scholastica、哲思自由 libertas philosophandi、随地任教权 ius ubique docendi、教化 Bildung、守旧派/少壮派（罗蒂）、门徒/学科双关（杜威）；案名保留拉丁
+* 体例：EN 残留 6 处修正；o'neil 键撇号 ASCII→弯撇（marker+def 同步）；相邻斜体误配对 1 处消解；段首加粗候选 1 处裁定合法
+* para_align 259/259 对；a 批进度 12/160
