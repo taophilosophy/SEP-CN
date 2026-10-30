@@ -6,11 +6,15 @@
   python tools/term_harvest.py --letter a     # 只跑一个字母批次
   python tools/term_harvest.py --refresh      # 忽略缓存重提
 
-五路提取（term-candidates.json 先例方法扩展全库）:
+多语种智能提取（2026-10-30 用户裁定：原文不一定是英语；词汇不一定是英语）:
   ①斜体术语 *...* ②引语术语 “...” ③-ism 词族 ④高频概念短语（二元/三元，去停用词）
-  ⑤人名序列（大写二元组，type=person 供裁定）
+  ⑤人名序列（大写二元组，type=person）⑥阿位专名（罗马化颗粒路由，ADR-0013）
+  ⑦主题词（H1 题名 + 章节标题关键短语，type=topic）⑧原文文字路线：阿拉伯/希腊/
+  希伯来/西里尔/天城体/汉字字母原文（type=arabic/greek/hebrew/cyrillic/devanagari/cjk）
+  ⑨罗马化外语词重分类：含非 ASCII 拉丁扩展或德语名词标记的斜体/引语候选 → type=foreign
 与两登记册 + 词汇表 + 候选池已登记键求差后入池。幂等：单篇提取结果缓存于
-specs/008-terminology-campaign/results/harvest-cache/，重跑只增量解析新文件。
+specs/008-terminology-campaign/results/harvest-cache/，重跑只增量解析新文件；
+路线/停用词/阈值变更后必须 --refresh（缓存嵌旧词表）。
 
 退出码: 0 成功；2 参数/路径错误。
 """
@@ -64,7 +68,9 @@ united'''.split())
 PHRASE_MIN_FREQ = 20   # 全库阈值；低频尾部留存 harvest-cache（本地），随词条翻译时核定
 OTHER_MIN_FREQ = 2
 MIN_FREQ = {'phrase': PHRASE_MIN_FREQ, 'ism': OTHER_MIN_FREQ,
-            'italic': OTHER_MIN_FREQ, 'quoted': 3, 'person': 5, 'arabic': 2}
+            'italic': OTHER_MIN_FREQ, 'quoted': 3, 'person': 5, 'arabic': 2,
+            'topic': 1, 'foreign': 2, 'greek': 1, 'hebrew': 1,
+            'cyrillic': 1, 'devanagari': 1, 'cjk': 1}
 # 词元：拉丁字母含扩展区（变音符 Suhrawardî/Ṣadrā 与 ʿayn/hamza 首字符，ADR-0013）
 UP = 'A-Z\u00C0-\u024F\u1E00-\u1EFF\u02BE\u02BF'
 LO = 'a-z\u00DF-\u024F\u1E00-\u1EFF\u02BE\u02BF'
@@ -87,6 +93,39 @@ ARAB_NAME_RE = re.compile(
 ARAB_PARTICLES = re.compile(
     r'^(?:(?:al|ad|as|at|an|ar|az|adh)-|ibn|bin|b\.|abu|abū|abd|umm|dhu|dhū)',
     re.I)
+# 原文文字路线（2026-10-30 用户裁定「还有阿拉伯语」等）：非拉丁字母原文序列
+SCRIPT_ROUTES = (
+    ('arabic', re.compile(
+        r'[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+'
+        r'(?:[\s\u060C\u061B][\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+)*')),
+    ('greek', re.compile(
+        r'[\u0370-\u03FF\u1F00-\u1FFF]+(?:[\s\u00B7,][\u0370-\u03FF\u1F00-\u1FFF]+)*')),
+    ('hebrew', re.compile(r'[\u0590-\u05FF]+(?:[\s][\u0590-\u05FF]+)*')),
+    ('cyrillic', re.compile(r'[\u0400-\u04FF]+(?:[\s][\u0400-\u04FF]+)*')),
+    ('devanagari', re.compile(r'[\u0900-\u097F]+(?:[\s][\u0900-\u097F]+)*')),
+    ('cjk', re.compile(r'[\u4E00-\u9FFF\u3400-\u4DBF]+(?:[\u3001\u00B7]?[\u4E00-\u9FFF\u3400-\u4DBF]+)*')),
+)
+SCRIPT_TYPES = {t for t, _ in SCRIPT_ROUTES} | {'arabic'}
+# 罗马化外语词标记：非 ASCII 拉丁扩展字母 / 德语名词后缀 / 无缀经典词小词典（可扩充）
+NONASCII_LATIN = re.compile(r'[\u00C0-\u024F\u1E00-\u1EFF]')
+GERMAN_SUFFIX_RE = re.compile(
+    r'(?:heit|keit|ung|schaft|t\u00e4t|isch|lichkeit|smus)$', re.I)
+FOREIGN_LEXICON = {
+    'dasein', 'lebenswelt', 'weltanschauung', 'aufhebung', 'aufheben',
+    'bildung', 'geist', 'wissenschaft', 'urteil', 'erlebnis', 'einfuhlung',
+    'einf\u00fclung', 'geltung', 'anschauung', 'begriff', 'vorstellung',
+    'ding an sich', 'polis', 'logos', 'nous', 'pathos', 'ethos', 'doxa',
+    'paideia', 'phronesis', 'eudaimonia', 'aret\u00eA', 'arete', 'techne',
+    'episteme', 'dharma', 'karma', 'nirvana', 'dao', 'qi', 'ren', 'xiao',
+    'tian', 'wu-wei', 'atman', '\u0101tman', 'sunyata',
+}
+TOPIC_GENERIC = {
+    'introduction', 'references', 'bibliography', 'conclusion',
+    'further reading', 'academic tools', 'other internet resources',
+    'related entries', 'appendix', 'appendices', 'summary', 'notes',
+    'acknowledgments', 'primary literature', 'secondary literature',
+    'glossary', 'see also', 'historical dictionary',
+}
 
 
 def norm_key(text):
@@ -115,6 +154,20 @@ def clean_phrase(text):
     return ' '.join(words)
 
 
+def clean_topic(text):
+    """主题词清洗：剥首尾停用词（不拒收），保留 1-4 词关键短语。"""
+    words = WORD_RE.findall(text.strip().strip('.,;:!?'))
+    if not (1 <= len(words) <= 4):
+        return ''
+    while words and words[0].casefold() in STOPWORDS:
+        words = words[1:]
+    while words and words[-1].casefold() in STOPWORDS:
+        words = words[:-1]
+    if not words or any(len(w) < 2 for w in words):
+        return ''
+    return ' '.join(words)
+
+
 def extract_slug(path):
     """单篇五路提取 → Counter(键 → 频次) 与原始形、类型映射。"""
     text = open(path, encoding='utf-8').read()
@@ -132,11 +185,19 @@ def extract_slug(path):
         key = norm_key(raw)
         if not key or len(key) > 60:
             return
+        # 罗马化外语词重分类（2026-10-30）：斜体/引语候选含非 ASCII 拉丁扩展、
+        # 德语名词后缀或经典词小词典 → foreign（阿位专名与人名优先级更高）
+        if typ in ('italic', 'quoted', 'phrase'):
+            if NONASCII_LATIN.search(raw) or GERMAN_SUFFIX_RE.search(raw) \
+                    or key in FOREIGN_LEXICON:
+                typ = 'foreign'
         counter[key] += 1
         forms.setdefault(key, raw.strip())
         prev = types.get(key)
         if 'arabic' in (prev, typ):
             types[key] = 'arabic'  # ADR-0013：阿位专名优先标注
+        elif prev in SCRIPT_TYPES or typ in SCRIPT_TYPES:
+            types[key] = prev if prev in SCRIPT_TYPES else typ
         elif prev != typ:
             types[key] = 'person' if 'person' in (prev, typ) else (prev or typ)
 
@@ -173,6 +234,25 @@ def extract_slug(path):
                 if j >= n or low[j] in STOPWORDS or len(words[j]) < 3:
                     break
                 add(' '.join(words[i:j + 1]), 'phrase')
+    # 主题词路线（2026-10-30）：H1 题名 + 章节标题关键短语（含各语种原文标题词）
+    for line in text.split('\n'):
+        m = re.match(r'(#{1,2})\s+(.+?)\s*$', line)
+        if not m:
+            continue
+        h = re.sub(r'^\d+(\.\d+)*\.?\s*', '', m.group(2))   # 剥节号
+        h = re.sub(r'\s*[(\[][^)\]]*[)\]]\s*$', '', h)       # 剥尾括注/作者
+        for seg in re.split(r'[:：;；—–]', h):
+            c = clean_topic(seg)
+            if c and c.casefold() not in TOPIC_GENERIC:
+                add(c, 'topic')
+    # 原文文字路线（2026-10-30）：非拉丁字母序列（阿拉伯/希腊/希伯来/西里尔/天城体/汉字）
+    # 单字母（希腊/拉丁数学变量 φ、α）非术语，除汉字外要求 ≥2 字符
+    for typ, rx in SCRIPT_ROUTES:
+        for m in rx.finditer(body):
+            seq = m.group(0).strip()
+            if len(seq) < 2 and typ != 'cjk':
+                continue
+            add(seq, typ)
     return counter, forms, types
 
 
@@ -279,20 +359,22 @@ def main(argv=None):
 
     fresh = []
     for key, freq in per_run.items():
-        if key in registered:
-            continue
-        typ = run_types.get(key, 'phrase')
-        min_freq = MIN_FREQ.get(typ, OTHER_MIN_FREQ)
-        if freq < min_freq:
-            continue
         entry = known.get(key)
         if entry is None:
+            # 新键：已登记（在别处完成裁定）或低于阈值 → 不入池
+            typ = run_types.get(key, 'phrase')
+            if key in registered:
+                continue
+            if freq < MIN_FREQ.get(typ, OTHER_MIN_FREQ):
+                continue
             entry = {'en': run_forms.get(key, key), 'freq': freq, 'type': typ,
                      'suggest': '', 'status': 'new', 'sources': []}
             known[key] = entry
             new_hits += 1
+        else:
+            typ = run_types.get(key, entry.get('type', 'phrase'))
         # entry 为旧池对象时 status/suggest/note 字段自动沿用
-        entry['freq'] = max(entry.get('freq', 0), freq) if letter else freq
+        entry['freq'] = freq if not letter else max(entry.get('freq', 0), freq)
         entry['type'] = typ
         entry['en'] = run_forms.get(key, entry.get('en', key))
         if letter:  # 字母批次增量：来源并集；全量跑以本轮为权威
@@ -301,10 +383,11 @@ def main(argv=None):
         else:
             entry['sources'] = run_sources.get(key, [])
         fresh.append(entry)
-    if letter:
-        # 字母批次：保留池中未被本轮触达的既有条目
-        seen = {id(e) for e in fresh}
-        fresh.extend(c for c in pool.get('candidates', []) if id(c) not in seen)
+    # 旧池=裁定账本：未被本轮触达的条目（含已登记键的老条目）一律保留。
+    # （2026-10-30 修：原 registered 差集作用于全部键，第二次全量跑会把
+    #   除新键外的整个账本裁掉——62828→12930 事故即此因。）
+    seen = {id(e) for e in fresh}
+    fresh.extend(c for c in pool.get('candidates', []) if id(c) not in seen)
     pool['candidates'] = fresh
 
     pool['candidates'].sort(key=lambda c: -c.get('freq', 0))
@@ -316,9 +399,12 @@ def main(argv=None):
         'files_processed': total,
         'candidates': len(pool['candidates']),
         'new_this_run': new_hits,
-        'method': '六路提取：斜体/引语/-ism/高频短语/人名序列/阿位专名（ADR-0013，变音符折叠键）；'
+        'method': '多语种提取（2026-10-30）：斜体/引语/-ism/高频短语/人名序列/阿位专名'
+                  '（ADR-0013 变音符折叠键）/主题词（题名+章节标题）/原文文字'
+                  '（阿拉伯-希腊-希伯来-西里尔-天城体-汉字）/罗马化外语重分类；'
                   '与两登记册+词汇表+候选池求差；'
-                  '按型阈值 phrase=%d ism/italic/arabic=%d quoted=3 person=5；'
+                  '按型阈值 phrase=%d ism/italic/foreign/arabic=%d quoted=3 '
+                  'person=5 topic/greek/hebrew/cyrillic/devanagari/cjk=1；'
                   '低频尾部留存单篇缓存（results/harvest-cache/，本地）；' % (
                       PHRASE_MIN_FREQ, OTHER_MIN_FREQ),
         'usage': 'status 状态机沿用 term-candidates.json：new→published@日期|held:理由|rejected:理由',

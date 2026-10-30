@@ -51,13 +51,20 @@ def norm_key(text):
 
 def translations(cell):
     """译法集合：主形按 / ／ ； 、 ; ， 拆分变体；并吸收注记里的
-    亦作"X"（半/全角引号）变体与书名号《X》主形（008 战役比对口径，2026-10-29）。"""
-    head = cell.split('（')[0].strip()
+    亦作"X"/译作"X"（半/全角引号，含"X""Y"连排）变体与书名号《X》主形
+    （008 战役比对口径，2026-10-29；译作 与连排引号 2026-10-30 落地复核补）。"""
+    body = re.sub(r'^（[^）]*）', '', cell)   # 「（思想的）副词论」型：先剥前缀括注
+    head = body.split('（')[0].strip()
     variants = {v.strip() for v in re.split(r'[/／；、;，]', head) if v.strip()}
-    for m in re.finditer(r'亦作[“"]([^”"]{1,40})[”"]', cell):
-        for v in re.split(r'[/／；、;，]', m.group(1)):
-            if v.strip():
-                variants.add(v.strip())
+    for m in re.finditer(r'(?:亦作|译作)[“"]([^”"]{1,40})[”"]', cell):
+        variants.add(m.group(1).strip())
+        rest = cell[m.end():]                 # 连排引号："X""Y"
+        while True:
+            m2 = re.match(r'[“"]([^”"]{1,40})[”"]', rest.strip())
+            if not m2:
+                break
+            variants.add(m2.group(1).strip())
+            rest = rest.strip()[m2.end():]
     for m in re.finditer(r'《([^《》]{1,60})》', cell):
         variants.add(m.group(1).strip())
     return {v for v in variants if v}
@@ -250,11 +257,19 @@ def main(argv=None):
             for d in hit_docs:
                 if d not in body_cache:
                     body_cache[d] = open(os.path.join(ROOT, d), encoding='utf-8').read()
-                for t in translations(trans):
-                    if t not in body_cache[d]:
-                        print('正文缺登记译法（告警）: %s 的「%s」未见于 %s'
-                              % (term, t, d))
-                        misses += 1
+                # 落地核销两层语义（2026-10-30）：任一变体出现=已落地；
+                # 有变体但主形未出现=涟漪信号（登记变更后正文待看齐）。
+                vs = translations(trans)
+                head = trans.split('（')[0].strip()
+                found = [t for t in vs if t and t in body_cache[d]]
+                if not found:
+                    print('正文缺登记译法（告警）: %s 的「%s」未见于 %s'
+                          % (term, '／'.join(sorted(vs)), d))
+                    misses += 1
+                elif ('亦作' in trans and head and head in vs
+                      and head not in found):
+                    print('正文主译待对齐（涟漪）: %s 于 %s 用「%s」，主译「%s」未落地'
+                          % (term, d, '／'.join(found), head))
         print('定点核销：%d 个文档，%d 处疑似缺译法（仅告警）' % (len(docs), misses))
 
     hard = len(conflicts) + len(all_self_errors)
