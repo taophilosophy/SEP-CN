@@ -2,8 +2,72 @@
   "slug": "abu-bakr-al-razi",
   "kind": "retranslate",
   "zh_doc": "a/abu-bakr-al-razi.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-30T17:13:11Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:56Z",
+      "evidence": "六节全译落盘：导言+生平与著作+五大永恒原理+伦理学+医学与《质疑》+宗教与预言+身后影响；primary 文献表格（RF/SPR/SM/PWL/DG/AHR/FDR 等 12 缩写标签）照录保留；refs 48 条 defs 照录拼接（键集 48/48 一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:56Z",
+      "evidence": "一校体例：bold-spacing 补外侧空格 6 处（**某个**/**不是**/**非**强调）；EN 残留扫描 0；中文斜体扫描 0；check_style 0 issue；check_bold_collapse 0 候选"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:56Z",
+      "evidence": "二校学术：check_academic --strict 0 硬错误；书题译名《精神医学》《哲学的生活方式》《献给曼苏尔的书》《对盖伦的质疑》《集成》《传统之书》（盖伦对照）《预言的证明》《旅人的干粮》《崇高论题》；人名依登记表（法赫尔丁·拉齐/伊本·西那（阿维森纳）首次括注/伊本·鲁世德（阿威罗伊）首次括注/法拉比/铿迪/伊本·哈兹姆/迈蒙尼德）；术语 因袭taqlīd/普纽玛pneuma/精气/四体液/五永恒原理/本元/转世；相关词条六项题名取自 SUMMARY（含阿拉伯和伊斯兰哲学对西方拉丁世界的影响）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:56Z",
+      "evidence": "三校全文：check_markdown zh scope 0 hard；两处长引文块（RF 106-7 不可逾越之限/哲学训练先于证明）全译；曼苏尔赞助-椰枣训斥-玻璃杯瞬灭-笛手长笛-伊兰沙赫里剽窃指控等轶事链逐条核"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:56Z",
+      "evidence": "初审：逐节对照 yuanwen/a/abu-bakr-al-razi.md（231行）——§1 生平（赖伊/巴格达医院/眼疾手伤/苏格拉底与犬儒第欧根尼混淆）、《集成》病例笔记之辨；§2 神义论（愚蠢灵魂/爱欲ishq/两寓言/四种反对无中生有论证）；§3 快乐之争（Goodman 伊壁鸠鲁派诠释 vs Adamson 蒂迈欧式恢复论/零和博弈/前哲学与哲学伦理之分/驮兽段落）；§4 三官能脑心肝/外射说 vs 影像说/世界永恒论证的反例击法与盖伦《论证明》语境讽刺；§5 自由思想者形象 vs 古兰经诠释内证/taqlīd 批评/伊斯玛仪派针对说/凯比辩论材料争议；§6 维萨里/卡尔达诺/博洛尼亚/鉴别诊断与对照组"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:57Z",
+      "evidence": "复审：语义复核——①falāsifa 音译法拉西卡+定义括注；②dahr/mudda/khalāʾ/muṭlaq 转写术语照录斜体；③绝对时间/绝对处所 vs 相对时间/处所对照；④五位永恒原理的证成不对称（上帝靠设计、余四靠反证）；⑤Goodman 2015 让步与治疗性伦理共识的表述分寸；⑥致谢无、其他网络资源播客链接转中文题名保留 URL"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:57Z",
+      "evidence": "终审：para_align 106/106 段对齐（唯一 zh 残留=译注行，与既有词条同款）；check_style/check_academic 0 问题；check_markdown 0 hard"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T17:28:57Z",
+      "evidence": "六道走完 done：a/abu-bakr-al-razi.md（六节全译+primary 表格照录+refs 48 条 defs 照录）；a 批 translate 进度 11/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:43Z",
   "version_pin": {
