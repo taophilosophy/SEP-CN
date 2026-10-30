@@ -1,0 +1,27 @@
+{
+ "batch": "2026-10-31-person-a2",
+ "scope": "person 池 15-45 频段：10 人物查证登记（审定佐证 3：禅宗/冯特/第谷）+ 4 术语（共同感/禅宗/十诫/《外省书札》）+ 重分型 23 + 拒登 7 + held 1",
+ "published_persons": [
+  {"en": "Alain Locke", "zh": "阿兰·洛克"},
+  {"en": "Edith Stein", "zh": "艾迪特·施泰因"},
+  {"en": "Gómez Pereira", "zh": "戈麦斯·佩雷拉"},
+  {"en": "Marcus Aurelius", "zh": "马可·奥勒留"},
+  {"en": "Mary Astell", "zh": "玛丽·阿斯特尔"},
+  {"en": "Robert Brandom", "zh": "罗伯特·布兰登"},
+  {"en": "Roman Ingarden", "zh": "罗曼·英加尔登"},
+  {"en": "Tycho Brahe", "zh": "第谷·布拉赫", "basis": "审定“第谷”佐证（天文学）"},
+  {"en": "Wilhelm Wundt", "zh": "威廉·冯特", "basis": "审定“冯特”佐证（心理学）"},
+  {"en": "Yan Hui", "zh": "颜回"}
+ ],
+ "published_terms": [
+  {"en": "Chan Buddhism", "zh": "禅宗", "basis": "审定名词库·中国古代史（宗教）"},
+  {"en": "Sensus Communis", "zh": "共同感（亦作“通感”）", "basis": "学界惯例（康德/叔本华美学）"},
+  {"en": "Ten Commandments", "zh": "十诫", "basis": "学界惯例（宗教学）"},
+  {"en": "Provincial Letters", "zh": "《外省书札》", "basis": "学界惯例（帕斯卡；亦译“致外省人信札”）"}
+ ],
+ "re_typed_to_phrase": 23,
+ "rejected": "7 条（Abu Bishr/Yaḥyā Ibn/Ibn Falaquera 截断、Ben Vane/Dengerink Chaplin 残片、George Allen/William Rowe 现代学者体例）",
+ "held": "1 条（Mikyö Dorje 藏传人名译名待核）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（14 键，tl-person-a2 两批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +4 行、ren-ming-biao.md +10 行、ci-hui-biao.md +14 行"
+}

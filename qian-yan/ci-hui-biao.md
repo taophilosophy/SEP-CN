@@ -7,6 +7,7 @@
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
 |Agent Intellect|主动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
+|Alain Locke|阿兰·洛克||
 |Anti-Dühring|《反杜林论》|恩格斯|
 |anumāna|比量|印度量论|
 |arché|本原|亦作“始基”；希腊哲学术语|
@@ -20,6 +21,7 @@
 |biodiversity|生物多样性|审定名词（多域）|
 |causal influence|因果影响|佐证审定“因果性”|
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
+|Chan Buddhism|禅宗|审定名词（中国古代史·宗教）|
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
 |common good|公共善|政治哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
@@ -31,6 +33,7 @@
 |disability studies|残障研究|社会哲学|
 |distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
 |divine intellect|神圣理智|亦作“神性理智”；中世纪哲学|
+|Edith Stein|艾迪特·施泰因|现象学|
 |Encyclopédie|《百科全书》|狄德罗主编；启蒙哲学|
 |epistêmê|知识|与 doxa 意见相对|
 |Epistemic Closure|认知封闭|知识论|
@@ -46,6 +49,7 @@
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
+|Gómez Pereira|戈麦斯·佩雷拉|西班牙文艺复兴|
 |Hilary Putnam|希拉里·普特南||
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
@@ -61,6 +65,8 @@
 |logos|逻各斯|审定名词（自然辩证法·自然哲学）|
 |Löwenheim-Skolem theorem|勒文海姆–斯科伦定理|亦作“L-S定理”；审定缩略形在案|
 |Lüshi chunqiu|《吕氏春秋》|典籍|
+|Marcus Aurelius|马可·奥勒留|斯多亚|
+|Mary Astell|玛丽·阿斯特尔|早期女性哲学家|
 |Metaphysics|形而上学|审定名词在案|
 |Mīmāṃsā|弥曼差|亦作“弥曼沙”；印度哲学|
 |modus ponens|肯定前件|逻辑学|
@@ -84,15 +90,19 @@
 |polis|城邦|审定名词（世界历史·希腊）|
 |practical reason|实践理性|审定名词（自然辩证法·科学哲学）|
 |pratyakṣa|现量|印度量论；审定精确查无|
+|Provincial Letters|《外省书札》|帕斯卡；亦译“致外省人信札”|
 |Public Justification|公共证成|政治哲学|
 |Pure Land|净土|佛教学|
 |pure reason|纯粹理性|康德；审定无相关命中|
 |qi|气|拼音转写；中国哲学核心范畴|
 |relative frequency|相对频率|审定复合词佐证|
+|Robert Brandom|罗伯特·布兰登|当代语用学转向|
+|Roman Ingarden|罗曼·英加尔登|现象学美学|
 |Rubā‘iyyāt|《鲁拜集》|海亚姆四行诗；审定精确查无|
 |Rule Consequentialism|规则后果论|亦作“规则后果主义”；随后果论行|
 |saṃsāra|轮回|佛典译语|
 |schêma|图型|亦作“图式”；康德|
+|Sensus Communis|共同感|亦作“通感”；康德/叔本华美学|
 |Sittlichkeit|伦理|亦作“伦理生活”；黑格尔|
 |social facts|社会事实|涂尔干；社会哲学|
 |Special Relativity|狭义相对论|审定名词（物理学）|
@@ -100,17 +110,21 @@
 |svabhāva|自性|佛教|
 |tathāgatagarbha|如来藏|审定名词（哲学）|
 |technê|技艺|亦作“技术”；希腊哲学术语|
+|Ten Commandments|十诫|宗教学|
 |theōria|静观|亦作“沉思”；希腊哲学术语|
 |Thomas Hobbes|托马斯·霍布斯||
 |tian|天|拼音转写；中国哲学范畴|
 |truth conditions|真值条件|审定复合词佐证（语言学）|
 |truth value|真值|审定名词（数学·数理逻辑）|
 |Twin Earth|孪生地球|心灵哲学思想实验|
+|Tycho Brahe|第谷·布拉赫|天文观测；审定“第谷”在案|
 |universal quantification|全称量化|逻辑学|
 |vijñāna|识|审定名词（哲学）|
 |visual perception|视知觉|亦作“视觉感知”；审定名词（心理学）|
 |Vorstellung|表象|康德/叔本华；审定精确查无|
 |waḥdat al-wujūd|存在单一论|亦作“存在统一论”；伊斯兰哲学|
+|Wilhelm Wundt|威廉·冯特|实验心理学；审定“冯特”在案|
+|Yan Hui|颜回|先秦儒家|
 |yì|义|拼音转写；中国哲学范畴|
 |Łukasiewicz logic|卢卡西维茨逻辑|数理逻辑|
 |英语|中文|备注|
