@@ -187,3 +187,6 @@ specs/008-terminology-campaign/results/harvest-cache/
 
 # 本地会话凭证（绝不入库）
 .secrets/
+
+# 站点派生缓存（ADR-0014 时代构建链，config.mts transformPageData 消费）
+.vitepress/git-stamps.json

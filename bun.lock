@@ -3,6 +3,10 @@
   "workspaces": {
     "": {
       "name": "sep-cn-site",
+      "dependencies": {
+        "littlefoot": "^4.1.4",
+        "opencc-js": "^1.4.2",
+      },
       "devDependencies": {
         "lxgw-wenkai-screen-webfont": "^1.7.0",
         "lxgw-wenkai-webfont": "^1.7.0",
@@ -287,6 +291,8 @@
 
     "lightningcss-win32-x64-msvc": ["lightningcss-win32-x64-msvc@1.33.0", "https://registry.npmmirror.com/lightningcss-win32-x64-msvc/-/lightningcss-win32-x64-msvc-1.33.0.tgz", { "os": "win32", "cpu": "x64" }, "sha512-OlEICDx/Xl0FqSp4bry8zFnCvGpig3Gl4gCquvYwHuqJKEC1+n9NgDniFvqHGmMv1ZkqDJrDqKKSykTDX+ehuA=="],
 
+    "littlefoot": ["littlefoot@4.1.4", "https://registry.npmmirror.com/littlefoot/-/littlefoot-4.1.4.tgz", {}, "sha512-BK006qX71Nv/IRhzrETXctMz50xyIuzGNag9zB96vJub1+540zI2umXSCv8esvLBgvN6kOtuFBzVz+jGNtsMGw=="],
+
     "lxgw-wenkai-screen-webfont": ["lxgw-wenkai-screen-webfont@1.7.0", "https://registry.npmmirror.com/lxgw-wenkai-screen-webfont/-/lxgw-wenkai-screen-webfont-1.7.0.tgz", {}, "sha512-xvfF4V26Mb335xKg3uxljz+V2nq4F5ek0ku9pmyKgT0Dzo/d2rHi7WpnqgvM9mlXAcAKOrxrcDmUZiIs/ZQ9bQ=="],
 
     "lxgw-wenkai-webfont": ["lxgw-wenkai-webfont@1.7.0", "https://registry.npmmirror.com/lxgw-wenkai-webfont/-/lxgw-wenkai-webfont-1.7.0.tgz", {}, "sha512-kVJmT4xMAyOLhG6q0w63wJkVU7RP8UMQRGoAWj9tnpzL7sWFFYiEHBdUQyW9myqBQFa5SQfWfa2VLYF4IJBL5g=="],
@@ -316,6 +322,8 @@
     "oniguruma-parser": ["oniguruma-parser@0.12.2", "https://registry.npmmirror.com/oniguruma-parser/-/oniguruma-parser-0.12.2.tgz", {}, "sha512-6HVa5oIrgMC6aA6WF6XyyqbhRPJrKR02L20+2+zpDtO5QAzGHAUGw5TKQvwi5vctNnRHkJYmjAhRVQF2EKdTQw=="],
 
     "oniguruma-to-es": ["oniguruma-to-es@4.3.6", "https://registry.npmmirror.com/oniguruma-to-es/-/oniguruma-to-es-4.3.6.tgz", { "dependencies": { "oniguruma-parser": "^0.12.2", "regex": "^6.1.0", "regex-recursion": "^6.0.2" } }, "sha512-csuQ9x3Yr0cEIs/Zgx/OEt9iBw9vqIunAPQkx19R/fiMq2oGVTgcMqO/V3Ybqefr1TBvosI6jU539ksaBULJyA=="],
+
+    "opencc-js": ["opencc-js@1.4.2", "https://registry.npmmirror.com/opencc-js/-/opencc-js-1.4.2.tgz", {}, "sha512-EdcspgdROiCCZDM+jZR6Pa670xW+EW2QhctPBQ8gRjg6lrx4IHEl+2s+kt5izk/TkxVRgdWuFgaGkaEdIUfdaw=="],
 
     "pagefind": ["pagefind@1.5.2", "https://registry.npmmirror.com/pagefind/-/pagefind-1.5.2.tgz", { "optionalDependencies": { "@pagefind/darwin-arm64": "1.5.2", "@pagefind/darwin-x64": "1.5.2", "@pagefind/freebsd-x64": "1.5.2", "@pagefind/linux-arm64": "1.5.2", "@pagefind/linux-x64": "1.5.2", "@pagefind/windows-arm64": "1.5.2", "@pagefind/windows-x64": "1.5.2" }, "bin": { "pagefind": "lib/runner/bin.cjs" } }, "sha512-XTUaK0hXMCu2jszWE584JGQT7y284TmMV9l/HX3rnG5uo3rHI/uHU56XTyyyPFjeWEBxECbAi0CaFDJOONtG0Q=="],
 

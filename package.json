@@ -5,8 +5,8 @@
   "type": "module",
   "description": "SEP-CN 本地 VitePress 阅读站（中文词条 + yuanwen 英文原文双语对照）",
   "scripts": {
-    "dev": "node .vitepress/prepare-assets.mjs && NODE_OPTIONS=--max-old-space-size=8192 vitepress dev",
-    "build": "node .vitepress/prepare-assets.mjs && NODE_OPTIONS=--max-old-space-size=8192 vitepress build",
+    "dev": "bun .vitepress/prepare-assets.mjs && bun .vitepress/prepare-gitstamps.mjs && NODE_OPTIONS=--max-old-space-size=8192 vitepress dev",
+    "build": "bun .vitepress/prepare-assets.mjs && bun .vitepress/prepare-gitstamps.mjs && NODE_OPTIONS=--max-old-space-size=8192 vitepress build",
     "preview": "vitepress preview"
   },
   "license": "BSD-2-Clause",
@@ -18,5 +18,9 @@
     "rollup": "^4.65.1",
     "vitepress": "2.0.0-alpha.21",
     "vitepress-plugin-pagefind": "^0.4.25"
+  },
+  "dependencies": {
+    "littlefoot": "^4.1.4",
+    "opencc-js": "^1.4.2"
   }
 }
