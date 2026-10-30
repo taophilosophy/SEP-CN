@@ -1,0 +1,28 @@
+{
+ "batch": "2026-10-31-person-a1",
+ "scope": "person 池专项：误分型重归 phrase 33 条 + 编号/虚构/地理/现代学者拒登 8 条 + 高价值 15 词查证登记（术语 12 + 人物 3）",
+ "re_typed_to_phrase": 33,
+ "published_terms": [
+  {"en": "Critical Theory", "zh": "批判理论", "basis": "审定名词库·自然辩证法（科学哲学）"},
+  {"en": "Frankfurt School", "zh": "法兰克福学派", "basis": "审定名词库·新闻传播学"},
+  {"en": "Chinese Room", "zh": "中文屋（审定作“中文屋论证”）", "basis": "审定名词库·自然辩证法（科学哲学）"},
+  {"en": "Special Relativity", "zh": "狭义相对论", "basis": "审定名词库·物理学"},
+  {"en": "Natural Rights", "zh": "自然权利（亦作“天赋人权”）", "basis": "学界惯例；审定“天赋人权”（世界历史域）作亦作"},
+  {"en": "Agent Intellect", "zh": "主动理智", "basis": "学界惯例（中世纪哲学）"},
+  {"en": "Holy Spirit", "zh": "圣灵", "basis": "学界惯例（宗教学）"},
+  {"en": "Liar Paradox", "zh": "说谎者悖论（亦作“说谎者佯谬”）", "basis": "学界惯例（逻辑学）"},
+  {"en": "Necessary Truths", "zh": "必然真理", "basis": "学界惯例（逻辑学）"},
+  {"en": "Public Justification", "zh": "公共证成", "basis": "学界惯例（政治哲学）"},
+  {"en": "Pure Land", "zh": "净土", "basis": "学界惯例（佛教学）"},
+  {"en": "Twin Earth", "zh": "孪生地球", "basis": "学界惯例（心灵哲学思想实验）"}
+ ],
+ "published_persons": [
+  {"en": "Hilary Putnam", "zh": "希拉里·普特南"},
+  {"en": "Hui Shi", "zh": "惠施"},
+  {"en": "Thomas Hobbes", "zh": "托马斯·霍布斯"}
+ ],
+ "rejected": "8 条（Book III/Part III 编号残片、Maynard Smith 现代学者体例、Sherlock Holmes 虚构人物、North America 地理词、Clark Kent 虚构、John Duns 已登记行变体、Civil War 语境歧义）",
+ "deferred": "重归 phrase 的 33 条（书名/机构/概念类）随 phrase 批次继续；person 余量多为现代学者（体例拒登待批量执行）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（15 键，tl-person-a1 两批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +12 行、ren-ming-biao.md +3 行、ci-hui-biao.md +15 行"
+}

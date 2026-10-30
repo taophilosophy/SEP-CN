@@ -205,3 +205,7 @@ emit 定制清单 + 浏览器通道 4 批查证 → 采审定 12（心理内容/
 ### topic 专项（2026-10-31，4743 条清洗 + 7 词登记）
 
 topic 型（标题词）专项：**7 个真术语查证登记**——Metaphysics 形而上学（946 篇标题在案）、biodiversity 生物多样性、Epistemology 认识论、Freedom 自由、Causation 因果关系（审定"因果关系"）、Rule Consequentialism 规则后果论（随后果论行）、Epistemic Closure 认知封闭；**结构性/自明标题词批量清洗 502 条**（Life and Works/Biographical Sketch/supplement 类 + Life/History/Language 等自明单词）；多词专名余 ~4200 条保持 new 随词条核定。manifest tasks/manifests/2026-10-31-topic-a1.json。教训：脚本干跑应无副作用——topic_a1.py 的池写盘未受 dry 开关保护，幸而目标态幂等。
+
+### person 池专项（2026-10-31，重分型 33 + 拒登 8 + 15 词登记）
+
+person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构/概念被 person 路径捕获）。三步处理：① 33 条重归 phrase（法兰克福学派/批判理论/孪生地球/说谎者悖论/中文屋/《哲学研究》/《人类理解论》等）；② 8 条拒登（Book III/Part III 编号残片、Maynard Smith 现代学者体例、Sherlock Holmes/Clark Kent 虚构人物、North America 地理词、John Duns 已登记行变体、Civil War 语境歧义）；③ **15 词查证登记**——审定直接命中 4（批判理论·自然辩证法、法兰克福学派·新闻传播学、中文屋论证·自然辩证法、狭义相对论·物理学）+ 学界惯例 11（自然权利/天赋人权并立、主动理智、圣灵、说谎者悖论、必然真理、公共证成、净土、孪生地球 + 人物霍布斯/普特南/惠施）。三表同步 15 行（登记册 +12、人名表 +3、词汇表 +15）；manifest tasks/manifests/2026-10-31-person-a1.json。check_all 七项全绿。
