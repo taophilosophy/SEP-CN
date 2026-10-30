@@ -213,3 +213,8 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 ### phrase 高频段首批（2026-10-31，freq≥90，18 词查证 16 词登记）
 
 审定直接命中 7：abstract objects 抽象对象（自然辩证法·科学哲学）、expected utility 期望效用（管理科学）、game theory 博弈论（审定双形：自然辩证法"博弈论"/管理科学"对策论"，后者作亦作）、intrinsic value 内在价值（技术哲学·环境伦理）、first-order logic 一阶逻辑（数学·数理逻辑）、practical reason 实践理性（科学哲学）、truth value 真值（数学·数理逻辑）。复合词佐证 1：truth conditions 真值条件（审定"真值条件语义学"）。审定双形并立 1：common knowledge 公共知识（计算机·人工智能）／共同知识（经济学）——主译采认知逻辑通行的公共知识。学界惯例 6：external world 外部世界、aesthetic experience 审美经验、pure reason 纯粹理性、modus ponens 肯定前件、common good 公共善、mathematical objects 数学对象；distributive justice 分配正义（审定"分配公平"心理学域作亦作）。人物 2：伯特兰·罗素、亚伯拉罕·伊本·以斯拉（犹太哲学）。池同步：possible worlds/possible world 既登记行 published；泛词/残片清洗 26。三表同步（登记册 +14、人名表 +2、词汇表 +16）；manifest tasks/manifests/2026-10-31-phrase-a1.json。check_all 七项全绿。
+
+### phrase 高频段续批（2026-10-31，freq 60-90，16 词登记）
+
+审定直接命中 3：visual perception 视知觉（心理学·认知与实验心理学）、atomic formulas 原子公式（数学·数理逻辑）、relative frequency 相对频率（复合词"相对频率法"佐证）。审定复合词群佐证 5：moral justification 道德辩护（审定"辩护"）、perceptual beliefs 知觉信念（审定"知觉"复合词群）、moral epistemology 道德认识论（审定"认识论"）、causal influence 因果影响（审定"因果性"）、belief formation 信念形成（审定"信念"复合词群）。学界惯例 8：universal quantification 全称量化、corrective justice 矫正正义（与分配正义相对）、disability studies 残障研究、divine intellect 神圣理智、moral perfection 道德完善（康德）、social facts 社会事实（涂尔干）、identity relation 同一关系、right reason 正确理性（斯多亚）。泛词/残片清洗 34；scientific explanations 既登记行同步。三表同步（登记册 +16、词汇表 +15）。
+**事故与修复**：脚本占位行未置 None 导致 aisthêsis 重复行插入（一行缺裁定日期）——check_terms 自洽违例立即拦截，删除占位行后清零。教训重申：**登记脚本占位行 row 必须严格置 None，且 apply 前必须干跑核对插入行数与内容**。manifest tasks/manifests/2026-10-31-phrase-a2.json。check_all 七项全绿。

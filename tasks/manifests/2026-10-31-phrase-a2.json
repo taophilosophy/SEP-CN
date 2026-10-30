@@ -1,0 +1,26 @@
+{
+ "batch": "2026-10-31-phrase-a2",
+ "scope": "phrase 高频段续批（freq 60-90）：16 词查证登记（审定直接命中 3）+ 泛词/残片清洗 34 + scientific explanations 既登记行同步",
+ "published": [
+  {"en": "visual perception", "zh": "视知觉（亦作“视觉感知”）", "basis": "审定名词库·心理学（认知与实验心理学）"},
+  {"en": "atomic formulas", "zh": "原子公式", "basis": "审定名词库·数学（数理逻辑）"},
+  {"en": "relative frequency", "zh": "相对频率", "basis": "审定复合词“相对频率法”佐证"},
+  {"en": "moral justification", "zh": "道德辩护", "basis": "学界惯例；佐证审定“辩护”（自然辩证法）"},
+  {"en": "perceptual beliefs", "zh": "知觉信念", "basis": "学界惯例；佐证审定“知觉”复合词群"},
+  {"en": "universal quantification", "zh": "全称量化", "basis": "学界惯例（逻辑学）"},
+  {"en": "corrective justice", "zh": "矫正正义", "basis": "学界惯例（亚里士多德；与分配正义相对）"},
+  {"en": "moral epistemology", "zh": "道德认识论", "basis": "学界惯例；佐证审定“认识论”"},
+  {"en": "disability studies", "zh": "残障研究", "basis": "学界惯例"},
+  {"en": "divine intellect", "zh": "神圣理智（亦作“神性理智”）", "basis": "学界惯例（中世纪/宗教哲学）"},
+  {"en": "moral perfection", "zh": "道德完善", "basis": "学界惯例（康德）"},
+  {"en": "causal influence", "zh": "因果影响", "basis": "学界惯例；佐证审定“因果性”"},
+  {"en": "belief formation", "zh": "信念形成", "basis": "学界惯例；佐证审定“信念”复合词群"},
+  {"en": "social facts", "zh": "社会事实", "basis": "学界惯例（涂尔干）"},
+  {"en": "identity relation", "zh": "同一关系", "basis": "学界惯例（逻辑学/形而上学）"},
+  {"en": "right reason", "zh": "正确理性", "basis": "学界惯例（斯多亚 orthos logos）"}
+ ],
+ "rejected": "34 条泛词/解析残片（technical sense/published Sat/Jackson jackson- 等）",
+ "pool_sync": "scientific explanations 既登记行（scientific explanation）published 同步",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（16 键，tl-phrase-a2 三批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +16 行、ci-hui-biao.md +15 行（aisthêsis 重复行事故修复：占位行误插已清，check_terms 自洽违例清零）"
+}
