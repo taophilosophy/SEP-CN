@@ -1,0 +1,348 @@
+{
+ "key": "truth value",
+ "term": "truth value",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T18:55:18+00:00",
+ "status": "ok",
+ "note": "variant=truth value; 审定公布名词库=2365; 海峡两岸名词对照库=642; 其他来源数据库=65; 预公布名词数据库=123; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "真假值",
+   "en": "truth value",
+   "code": "02.0041",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "真值",
+   "en": "truth",
+   "code": "02.0042",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "半真相",
+   "en": "partial truth;half truth",
+   "code": "12.017",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "真实性",
+   "en": "truth authenticity",
+   "code": "04.0364",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景名胜_世界遗产和其他自然保护地"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "code": "03.131",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_说明"
+  },
+  {
+   "cn": "逻辑真理",
+   "en": "logical truth",
+   "code": "03.284",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "后真相",
+   "en": "post truth",
+   "code": "12.019",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_政治传播_政治传播基础"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth-table",
+   "code": "02.0136",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "真值指派",
+   "en": "truth assignment",
+   "code": "02.0143",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_可计算性与计算复杂性"
+  },
+  {
+   "cn": "俄罗斯法典",
+   "en": "Russain Truth",
+   "code": "05.0108",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人"
+  },
+  {
+   "cn": "真假值表",
+   "en": "truth table",
+   "code": "02.0045",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "真假值函数",
+   "en": "truth function",
+   "code": "02.0044",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "地面实况",
+   "en": "ground truth",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "真值表",
+   "en": "truth table",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "真实标记",
+   "en": "truth in labeling",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "真值表归约",
+   "en": "truth-table reduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "真值表可归约性",
+   "en": "truth-table reducibility",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "值",
+   "en": "value",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "δ值",
+   "en": "δ-value",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "τ值",
+   "en": "τ-value",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "真值维护系统",
+   "en": "truth maintenance system\",\"TMS",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "热值",
+   "en": "heat value\",\"thermal value\",\"heating value",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "幻中有真",
+   "en": "Truth in Imagination",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "二谛",
+   "en": "Satyadvaya / Two Truths",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great Truth in Simple Words",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "大道至简",
+   "en": "Great truths are always simple.",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "C值",
+   "en": "C-value",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据价值",
+   "en": "data value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "用户价值",
+   "en": "user value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "缺失值",
+   "en": "missing value",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "客观真理",
+   "en": "objective truth",
+   "code": "01.0209",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "相对真理",
+   "en": "relative truth",
+   "code": "01.0210",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "绝对真理",
+   "en": "absolute truth",
+   "code": "01.0211",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "code": "02.0036",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "code": "1.1159999999999999",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "code": "3.8.2.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_大众传媒研究"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "code": "01.0245",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "真价值",
+   "en": "true value",
+   "code": "05.0119",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "code": "6.3.4.23",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "code": "1.4.4.115",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "code": "2.2.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术_物理消毒"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "code": "3.1.4.4.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

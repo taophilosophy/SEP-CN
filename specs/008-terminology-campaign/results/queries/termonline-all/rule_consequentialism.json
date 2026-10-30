@@ -1,0 +1,348 @@
+{
+ "key": "rule consequentialism",
+ "term": "Rule Consequentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T17:56:52+00:00",
+ "status": "ok",
+ "note": "variant=Rule Consequentialism; 审定公布名词库=541; 海峡两岸名词对照库=224; 其他来源数据库=101; 预公布名词数据库=69; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "后果论",
+   "en": "consequentialism",
+   "code": "08.088",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "从属损坏",
+   "en": "consequential damage",
+   "code": "24.0221",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机维修"
+  },
+  {
+   "cn": "二次损坏",
+   "en": "consequential damage",
+   "code": "08.068",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车维修_故障和损伤"
+  },
+  {
+   "cn": "规则",
+   "en": "rule",
+   "code": "04.016",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "法则",
+   "en": "rule",
+   "code": "01.0144",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "定则",
+   "en": "rule",
+   "code": "01.0143",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "50%规则",
+   "en": "50% rule ",
+   "code": "4.0109",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草种子学"
+  },
+  {
+   "cn": "12/23规则",
+   "en": "12/23 rule",
+   "code": "2.251",
+   "standard": "免疫学名词",
+   "subject": "免疫学_免疫系统_免疫分子"
+  },
+  {
+   "cn": "札依采夫规则",
+   "en": "Zaitsev rule,Saytzeff rule 　",
+   "code": "02.1015",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_物理有机化学_反应机理"
+  },
+  {
+   "cn": "排版规则",
+   "en": "typesetting rules;composition rules",
+   "code": "02.06.027",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_装帧"
+  },
+  {
+   "cn": "壳层规则",
+   "en": "shell rule",
+   "code": "13.01.059",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_总论"
+  },
+  {
+   "cn": "相律",
+   "en": "phase rule",
+   "code": "13.05.027",
+   "standard": "地质学名词",
+   "subject": "地质学_地球化学_实验地球化学"
+  },
+  {
+   "cn": "规则",
+   "en": "rule",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "12/23规则",
+   "en": "12/23 rule",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "网线",
+   "en": "ruling",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "递进法则，渐进律",
+   "en": "progressive rule",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "渐进律（=递进法则）",
+   "en": "progressive rule",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "异戊二烯法则",
+   "en": "isoprene rule",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "差量规则",
+   "en": "delta rule",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "链规则",
+   "en": "chain rule",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "同属规则",
+   "en": "generic rule",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "启发式规则",
+   "en": "heuristic rule",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "组合规则",
+   "en": "combining rule",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "则",
+   "en": "Rules",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "规则",
+   "en": "rules",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "规则",
+   "en": "regulation\",\"rule-book\",\"rules",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_曲棍球名词"
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "关联规则",
+   "en": "association rule",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "启发式规则",
+   "en": "heuristic rule",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "级别规则",
+   "en": "class rule",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "纸面规则",
+   "en": "paper rule",
+   "code": "3.7.6.16",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  },
+  {
+   "cn": "实在规则",
+   "en": "real rule",
+   "code": "3.7.6.17",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律的演化"
+  },
+  {
+   "cn": "法律规则",
+   "en": "legal rule",
+   "code": "3.7.7.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律多元主义"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "code": "03.0106",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "罗默法则",
+   "en": "Romer rule",
+   "code": "5.4.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给者行为"
+  },
+  {
+   "cn": "优势法则",
+   "en": "dominant rule",
+   "code": "8.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征"
+  },
+  {
+   "cn": "习俗规则",
+   "en": "mores rule",
+   "code": "4.046",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_分支学科与研究领域"
+  },
+  {
+   "cn": "规则功利论",
+   "en": "rule utilitarianism",
+   "code": "2.009",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "规则义务论",
+   "en": "rule-deontology",
+   "code": "2.006",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "组织规范",
+   "en": "organizational rules",
+   "code": "2.5.13.13",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "家规",
+   "en": "family rules",
+   "code": "4.0148",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "统治阶级",
+   "en": "ruling class",
+   "code": "3.6.2.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

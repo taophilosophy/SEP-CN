@@ -1,0 +1,348 @@
+{
+ "key": "mathematical objects",
+ "term": "mathematical objects",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T19:01:34+00:00",
+ "status": "ok",
+ "note": "variant=mathematical objects; 审定公布名词库=781; 海峡两岸名词对照库=265; 其他来源数据库=57; 预公布名词数据库=49; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "code": "01.0001",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "code": "01.00.129",
+   "standard": "地质学名词",
+   "subject": "地质学_总论"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "code": "01.198",
+   "standard": "农学名词",
+   "subject": "总论_农业试验统计"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "code": "01.001",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_理论和起源"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": "01.019",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_通论"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "code": "03.248",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": "03.253",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "code": "03.254",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "code": "03.256",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学猜想",
+   "en": "mathematical conjecture",
+   "code": "03.257",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学工具主义",
+   "en": "mathematical instrumentalism",
+   "code": "03.294",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "code": "03.295",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理逻辑",
+   "en": "Mathematical logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理经济学",
+   "en": "mathematical economics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "星晷",
+   "en": "Mathematical instrument",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "典型群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "嘉当子代数",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "一般线性群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "李群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "辛群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "code": "7.3.2.3.2.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健"
+  },
+  {
+   "cn": "客体",
+   "en": "object",
+   "code": "01.0161",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客体性",
+   "en": "objectivity",
+   "code": "01.0162",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观",
+   "en": "objective",
+   "code": "01.0164",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观性",
+   "en": "objectivity",
+   "code": "01.0165",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "code": "05.0168",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "消毒对象",
+   "en": "disinfection object",
+   "code": "4.1.4.18",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "文化客体",
+   "en": "cultural object",
+   "code": "3.8.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_文化社会学_文化的制度结构"
+  },
+  {
+   "cn": "旅游客体",
+   "en": "tourism object",
+   "code": "1.0196",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "客观分析",
+   "en": "objective analysis",
+   "code": "01.0166",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观精神",
+   "en": "objective spirit",
+   "code": "01.0167",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "客观世界",
+   "en": "objective world",
+   "code": "01.0168",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "social facts",
+ "term": "social facts",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T19:41:58+00:00",
+ "status": "ok",
+ "note": "variant=social facts; 审定公布名词库=4086; 海峡两岸名词对照库=885; 其他来源数据库=168; 预公布名词数据库=697; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": "03.0363",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "新闻事实",
+   "en": "newsworthy facts",
+   "code": "1.042",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻理论_新闻与宣传"
+  },
+  {
+   "cn": "科学事实",
+   "en": "scientific fact",
+   "code": "06.031",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "经验事实",
+   "en": "experiential fact",
+   "code": "06.032",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "理论事实",
+   "en": "theoretical fact",
+   "code": "06.033",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_方法与工具"
+  },
+  {
+   "cn": "人工事实",
+   "en": "artificial fact",
+   "code": "07.089",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "核对事实",
+   "en": "fact check",
+   "code": "4.184",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "事实检索",
+   "en": "fact retrieval",
+   "code": "05.064",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "code": "07.0428",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库新技术"
+  },
+  {
+   "cn": "事实表",
+   "en": "fact table",
+   "code": "03.0364",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_决策支持系统"
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "code": "05.063",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制"
+  },
+  {
+   "cn": "用事实说话",
+   "en": "speaking with facts",
+   "code": "1.057",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_新闻理论_新闻与宣传"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "社会成本",
+   "en": "social cost",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社会接触",
+   "en": "social contact",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "星型模式",
+   "en": "Fact table",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "社会角色",
+   "en": "Social role",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会方言",
+   "en": "social dialect",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会工程",
+   "en": "social engineering",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表征",
+   "en": "social representation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会保障",
+   "en": "Social Security",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "Social Psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "code": "2.1.3.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "code": "1.0525",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "code": "1.12",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "营养成分表",
+   "en": "nutrition facts",
+   "code": "4.3.37",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品安全风险管理_食品标准"
+  },
+  {
+   "cn": "事实婚姻",
+   "en": "fact marriage",
+   "code": "3.1.3.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_婚姻制度"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "2.3.1.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会化_社会化"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "03.0158",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "code": "03.0170",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "2.5.11.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "code": "1.0041",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "code": "01.0245",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "code": "2.1.3.18",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

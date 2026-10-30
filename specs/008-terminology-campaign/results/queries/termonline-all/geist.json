@@ -1,0 +1,68 @@
+{
+ "key": "geist",
+ "term": "Geist",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T16:32:21+00:00",
+ "status": "ok",
+ "note": "variant=Geist; 审定公布名词库=8; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "胃肠道间质肿瘤",
+   "en": "gastrointestinal stromal tumor,GIST",
+   "code": "02.155",
+   "standard": "病理学名词",
+   "subject": "病理学_消化系统_胃"
+  },
+  {
+   "cn": "胃肠道间质瘤",
+   "en": "gastrointestinal stroma tumor,GIST",
+   "code": "04.0121",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_肿瘤核医学_临床常见肿瘤"
+  },
+  {
+   "cn": "胃肠道间质瘤",
+   "en": "gastrointestinal stromal tumor,GIST",
+   "code": "04.225",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年临床医学_老年消化系统疾病"
+  },
+  {
+   "cn": "胃肠道间质瘤",
+   "en": "gastrointestinal stromal tumor;GIST",
+   "code": "17.178",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_胃与十二指肠外科"
+  },
+  {
+   "cn": "胃间质瘤",
+   "en": "gastric gastrointestinal stromal tumor;gastric GIST",
+   "code": "15.151",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_胃疾病_胃肿瘤和肿瘤样疾病"
+  },
+  {
+   "cn": "十二指肠间质瘤",
+   "en": "duodenal gastrointestinal stromal tumor;duodenal GIST",
+   "code": "16.062",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_十二指肠疾病_十二指肠肿瘤和肿瘤样病变"
+  },
+  {
+   "cn": "小肠间质瘤",
+   "en": "small intestinal gastro-intestinal stromal tumor;small intestinal GIST",
+   "code": "17.04",
+   "standard": "消化内镜学名词",
+   "subject": "消化内镜学_小肠疾病_小肠肿瘤和肿瘤样疾病"
+  },
+  {
+   "cn": "精神科学",
+   "en": "geisteswissenschaften",
+   "code": "03.797",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,348 @@
+{
+ "key": "common knowledge",
+ "term": "common knowledge",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T18:47:49+00:00",
+ "status": "ok",
+ "note": "variant=common knowledge; 审定公布名词库=1328; 海峡两岸名词对照库=465; 其他来源数据库=102; 预公布名词数据库=65; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "共同知识",
+   "en": "common knowledge",
+   "code": "03.159",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "公共知识",
+   "en": "common knowledge",
+   "code": "08.0019",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "code": "01.019",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_一般概念"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "code": "08.0617",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_知识工程"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "code": "03.0712",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_知识管理"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "code": "09.088",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_社区健康教育与健康促进"
+  },
+  {
+   "cn": "知识鸿沟",
+   "en": "knowledge divide,knowledge gap",
+   "code": "01.046",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书馆学情报学基础_一般概念"
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge mapping,mapping knowledge",
+   "code": "06.239",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_情报分析与研究_文献计量学"
+  },
+  {
+   "cn": "知识组织",
+   "en": "knowledge construction,knowledge organization",
+   "code": "03.0768",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_知识管理"
+  },
+  {
+   "cn": "知识检索",
+   "en": "knowledge retrieval,knowledge search",
+   "code": "03.0769",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_信息管理与知识管理_知识管理"
+  },
+  {
+   "cn": "共同危险",
+   "en": "common peril,common danger",
+   "code": "13.0227",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "code": "01.083",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_科学、技术与社会"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "共同危险",
+   "en": "common danger\",\"common peril",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "知识工程",
+   "en": "knowledge engineering",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "非陈述性知识",
+   "en": "nondeclarative knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "陈述性知识,描述性知识",
+   "en": "declarative knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "隐性知识,意会知识",
+   "en": "tacit knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我知识",
+   "en": "self knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "程序性知识",
+   "en": "procedural knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "完全信息",
+   "en": "Common knowledge (logic)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识共同体",
+   "en": "Common Body of Knowledge",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "可重用性",
+   "en": "commonality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "隐性知识",
+   "en": "tacit knowledge",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "知识工程",
+   "en": "Knowledge Engineering",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识发现",
+   "en": "knowledge discovery",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识工程师",
+   "en": "knowledge engineer",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "code": "2.1.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "code": "3.7.8.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律文化"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "code": "3.10.2.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学知识"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "code": "4.2.9.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_文化人类学_文化现象"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "code": "02.0422",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_中国化的马克思主义时期"
+  },
+  {
+   "cn": "健康知识",
+   "en": "health knowledge",
+   "code": "5.8.3.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "code": "1.104",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "code": "1.0611",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "code": "5.2.5.1.1",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "code": "03.0554",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "共同纲领",
+   "en": "common programme",
+   "code": "04.0133",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "通用语",
+   "en": "common language",
+   "code": "5.0185",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_语言状况与规划"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

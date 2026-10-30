@@ -1,0 +1,306 @@
+{
+ "key": "twin earth",
+ "term": "Twin Earth",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T18:15:02+00:00",
+ "status": "ok",
+ "note": "variant=Twin Earth; 审定公布名词库=1276; 海峡两岸名词对照库=395; 其他来源数据库=76; 预公布名词数据库=6; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "孪晶",
+   "en": "twin",
+   "code": "07.0041",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属学_晶体学"
+  },
+  {
+   "cn": "孪晶",
+   "en": "twin",
+   "code": "01.0317",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构"
+  },
+  {
+   "cn": "对线组",
+   "en": "twin",
+   "code": "05.088",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电线、电缆及光缆"
+  },
+  {
+   "cn": "双晶",
+   "en": "twin",
+   "code": "04.079",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学"
+  },
+  {
+   "cn": "双胎",
+   "en": "twins",
+   "code": "23.049",
+   "standard": "组织学与胚胎学名词",
+   "subject": "组织学与胚胎学_胚胎学_胎膜、胎盘、双胎、多胎和连体双胎"
+  },
+  {
+   "cn": "双胎",
+   "en": "twins",
+   "code": "02.0050",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_妇科学"
+  },
+  {
+   "cn": "双胎儿",
+   "en": "twins",
+   "code": "01.211",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_妇产科学"
+  },
+  {
+   "cn": "双晶",
+   "en": "twin;twinned crystal",
+   "code": "02.00.108",
+   "standard": "地质学名词",
+   "subject": "地质学_结晶学"
+  },
+  {
+   "cn": "孪生",
+   "en": "twinning",
+   "code": "07.0373",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属学_变形及再结晶"
+  },
+  {
+   "cn": "孪晶化",
+   "en": "twinning",
+   "code": "08.0766",
+   "standard": "物理学名词",
+   "subject": "物理学_凝聚态物理学_结构"
+  },
+  {
+   "cn": "孪生",
+   "en": "twinning",
+   "code": "01.0316",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构"
+  },
+  {
+   "cn": "对绞",
+   "en": "twinning",
+   "code": "05.212",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电线、电缆及光缆"
+  },
+  {
+   "cn": "孪晶",
+   "en": "twin",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "孪生（=双胎）",
+   "en": "twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "双胎，孪生",
+   "en": "twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "孪生",
+   "en": "twinning",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "单卵双生（=单卵双胎）",
+   "en": "monozygotic twins\",\"uniovular twins\",\"identical twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "单卵双胎，单卵双生，同卵双生",
+   "en": "monozygotic twins\",\"uniovular twins\",\"identical twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "二卵双生（=双卵双胎）",
+   "en": "dizygotic twins\",\"binovular twins\",\"fraternal twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "双卵双胎，二卵双生，异卵双生",
+   "en": "dizygotic twins\",\"binovular twins\",\"fraternal twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "同卵双生（=单卵双胎）",
+   "en": "monozygotic twins\",\"uniovular twins\",\"identical twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "异卵双生（=双卵双胎）",
+   "en": "dizygotic twins\",\"binovular twins\",\"fraternal twins",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "二卵双生［子］,异卵双生［子］，双卵双胎",
+   "en": "dizygotic twins\",\"fraternal twins",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "单卵双生［子］,同卵双生［子］，单卵双胎",
+   "en": "monozygotic twins\",\"identical twins",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "双生子研究",
+   "en": "twin study",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字孪生",
+   "en": "digital twin",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "孪生素数",
+   "en": "twin prime",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "双引擎",
+   "en": "twin engines",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "双峰监管模式",
+   "en": "twin peaks model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字孪生城市",
+   "en": "Digital Twin Cities",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数字地球",
+   "en": "Digital Earth",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "地道",
+   "en": "Way of Earth",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "近地天体",
+   "en": "Near-Earth object",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "谷歌地球引擎",
+   "en": "Google Earth engine",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "玻璃地球计划",
+   "en": "Glass Earth Program",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "稀土元素",
+   "en": "rare-earth element",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "太空船地球",
+   "en": "spaceship earth",
+   "code": "3.14.5.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "土葬",
+   "en": "earth burial",
+   "code": "4.0266",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "土楼",
+   "en": "earth building",
+   "code": "4.0141",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "稀土族放射性核素",
+   "en": "rare-earth radionuclide",
+   "code": "2.4.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射来源及其应用"
+  },
+  {
+   "cn": "有机锡",
+   "en": "organic tin",
+   "code": "2.2.3.20",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品污染_食品化学性危害因素"
+  },
+  {
+   "cn": "云锡矿工",
+   "en": "Yunnan tin miners",
+   "code": "4.4.2.3.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究对象"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
