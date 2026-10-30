@@ -1,0 +1,37 @@
+{
+ "batch": "2026-10-31-foreign-a2",
+ "scope": "foreign 型榜 20-60 名遴选：德/希腊/梵/巴利经典词 16 + 书名 3；审定·哲学域直接命中 3 为本批亮点",
+ "published": [
+  {"en": "śūnyatā", "zh": "空（亦作“空性”）", "basis": "审定名词库·哲学（直接命中）"},
+  {"en": "vijñāna", "zh": "识", "basis": "审定名词库·哲学（直接命中）"},
+  {"en": "tathāgatagarbha", "zh": "如来藏", "basis": "审定名词库·哲学（直接命中）"},
+  {"en": "Dasein", "zh": "此在（亦作“缘在”）", "basis": "学界惯例（陈嘉映译本）"},
+  {"en": "Geist", "zh": "精神（亦作“心灵”）", "basis": "学界惯例（黑格尔）"},
+  {"en": "epoché", "zh": "悬搁（亦作“悬置”）", "basis": "学界惯例（胡塞尔）"},
+  {"en": "theōria", "zh": "静观（亦作“沉思”）", "basis": "学界惯例（希腊）"},
+  {"en": "puruṣa", "zh": "神我（亦作“原人”）", "basis": "学界惯例（数论）"},
+  {"en": "Gödel sentence", "zh": "哥德尔句", "basis": "学界惯例（数理逻辑）"},
+  {"en": "Gödel’s theorem", "zh": "哥德尔定理", "basis": "学界惯例（数理逻辑）"},
+  {"en": "Łukasiewicz logic", "zh": "卢卡西维茨逻辑", "basis": "学界惯例（数理逻辑）"},
+  {"en": "différance", "zh": "延异", "basis": "学界惯例（德里达定译）"},
+  {"en": "Bedeutung", "zh": "意义（亦作“意谓”）", "basis": "学界惯例（弗雷格两译并存）"},
+  {"en": "saṃsāra", "zh": "轮回", "basis": "学界惯例（佛典译语）"},
+  {"en": "aretê", "zh": "德性（亦作“卓越”）", "basis": "学界惯例（希腊）"},
+  {"en": "īśvara", "zh": "自在天（亦作“自在”）", "basis": "学界惯例（印度哲学）"},
+  {"en": "La Géométrie", "zh": "《几何学》", "basis": "学界惯例（笛卡尔）"},
+  {"en": "Lüshi chunqiu", "zh": "《吕氏春秋》", "basis": "学界惯例（典籍）"},
+  {"en": "Rubā‘iyyāt", "zh": "《鲁拜集》", "basis": "学界惯例（波斯文学）；审定精确查无"}
+ ],
+ "held": [
+  {"en": "Beḥinat ha-Dat", "reason": "希伯来书名语境待核"},
+  {"en": "Pulssi chappyŏn", "reason": "韩文罗马字书名（佛氏杂辨）待核"},
+  {"en": "hosshin seppō", "reason": "日语罗马字（発心説法）禅宗语境待核"}
+ ],
+ "rejected": [
+  {"en": "falāsifa / raison d’être / rì / mù", "reason": "复数形随已登记行/法语通用词/单字拼音歧义"},
+  {"en": "Fārābī says / Muḥammad ibn / knowledge epistêmê / Ibn Arabī’s", "reason": "引文框架与截断残片"},
+  {"en": "Dupré-/Müller-/Martin-Löf-/Bermúdez- 残片", "reason": "链接解析残片"}
+ ],
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（19 键，tl-foreign-a2 三批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +17 行（nous 已于 A1 登记）、ci-hui-biao.md +17 行"
+}
