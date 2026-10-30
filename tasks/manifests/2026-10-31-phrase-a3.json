@@ -1,0 +1,19 @@
+{
+ "batch": "2026-10-31-phrase-a3",
+ "scope": "phrase 段 40-60 首批：8 词查证登记（审定直接命中 1：奥卡姆剃刀）+ 泛词/残片清洗 45 + mental contents 既登记行同步",
+ "published": [
+  {"en": "Occam’s razor", "zh": "奥卡姆剃刀", "basis": "审定名词库·计算机科学技术（机器学习）"},
+  {"en": "Pascal’s Wager", "zh": "帕斯卡尔赌注（亦作“帕斯卡赌注”）", "basis": "学界惯例（宗教哲学）"},
+  {"en": "Aristotelian categories", "zh": "亚里士多德范畴", "basis": "学界惯例（希腊哲学）"},
+  {"en": "Platonic ideas", "zh": "柏拉图式理念", "basis": "学界惯例（理念论）"},
+  {"en": "Philosophical anthropology", "zh": "哲学人类学", "basis": "学界惯例（哲学分支）"},
+  {"en": "intelligible forms", "zh": "可理知形式", "basis": "学界惯例（柏拉图/中世纪）"},
+  {"en": "intuitive knowledge", "zh": "直觉知识", "basis": "学界惯例（认识论）；审定“良知”异域同名不采"},
+  {"en": "ordinary beings", "zh": "凡夫", "basis": "学界惯例（佛教学）"}
+ ],
+ "rejected": "45 条泛词/解析残片（various possible/reason Kant/Kant’s claim/critical race 截断等）",
+ "pool_sync": "mental contents 既登记行（mental content）published 同步",
+ "band_note": "40-60 段 3314 条中泛词占主导，真词稀疏（本批 8 个即主要收获）；余量保持 new 随词条翻译核定",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（8 键，tl-phrase-a3）",
+ "registry_sync": "yi-zhe-shuo-ming.md +8 行、ci-hui-biao.md +8 行"
+}

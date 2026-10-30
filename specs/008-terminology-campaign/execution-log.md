@@ -218,3 +218,8 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 
 审定直接命中 3：visual perception 视知觉（心理学·认知与实验心理学）、atomic formulas 原子公式（数学·数理逻辑）、relative frequency 相对频率（复合词"相对频率法"佐证）。审定复合词群佐证 5：moral justification 道德辩护（审定"辩护"）、perceptual beliefs 知觉信念（审定"知觉"复合词群）、moral epistemology 道德认识论（审定"认识论"）、causal influence 因果影响（审定"因果性"）、belief formation 信念形成（审定"信念"复合词群）。学界惯例 8：universal quantification 全称量化、corrective justice 矫正正义（与分配正义相对）、disability studies 残障研究、divine intellect 神圣理智、moral perfection 道德完善（康德）、social facts 社会事实（涂尔干）、identity relation 同一关系、right reason 正确理性（斯多亚）。泛词/残片清洗 34；scientific explanations 既登记行同步。三表同步（登记册 +16、词汇表 +15）。
 **事故与修复**：脚本占位行未置 None 导致 aisthêsis 重复行插入（一行缺裁定日期）——check_terms 自洽违例立即拦截，删除占位行后清零。教训重申：**登记脚本占位行 row 必须严格置 None，且 apply 前必须干跑核对插入行数与内容**。manifest tasks/manifests/2026-10-31-phrase-a2.json。check_all 七项全绿。
+
+### phrase 40-60 段首批（2026-10-31，8 词登记）
+
+审定直接命中 1：Occam's razor 奥卡姆剃刀（计算机·机器学习——审定库连这类经典术语都收，覆盖面持续超预期）。学界惯例 7：Pascal's Wager 帕斯卡尔赌注（亦作"帕斯卡赌注"）、Aristotelian categories 亚里士多德范畴、Platonic ideas 柏拉图式理念、Philosophical anthropology 哲学人类学、intelligible forms 可理知形式、intuitive knowledge 直觉知识（审定"良知"命中的中国哲学异域同名不采）、ordinary beings 凡夫（佛教）。泛词清洗 45；mental contents 既登记行同步。三表同步 8 行；manifest tasks/manifests/2026-10-31-phrase-a3.json。check_all 七项全绿。
+**段位结论**：40-60 段 3314 条中泛词占主导（本批 8 词即主要收获），该段余量与更低频段不再整批跑——保持 new 随词条翻译核定，战役重心转向 person 余量与 held 复核。

@@ -11,6 +11,7 @@
 |anumāna|比量|印度量论|
 |arché|本原|亦作“始基”；希腊哲学术语|
 |aretê|德性|亦作“卓越”；希腊哲学术语|
+|Aristotelian categories|亚里士多德范畴|希腊哲学|
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
 |Bedeutung|意义|弗雷格语境；亦作“意谓”|
 |belief formation|信念形成|认识论|
@@ -49,7 +50,9 @@
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
 |identity relation|同一关系|逻辑学/形而上学|
+|intelligible forms|可理知形式|柏拉图/中世纪哲学|
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
+|intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |kinêsis|运动|希腊哲学术语|
 |La Géométrie|《几何学》|笛卡尔|
@@ -70,9 +73,14 @@
 |Natural Rights|自然权利|亦作“天赋人权”；审定“天赋人权”在案|
 |Necessary Truths|必然真理|逻辑学|
 |nous|努斯|亦作“理智”；希腊哲学术语|
+|Occam’s razor|奥卡姆剃刀|审定名词（计算机·机器学习）|
+|ordinary beings|凡夫|佛教学|
+|Pascal’s Wager|帕斯卡尔赌注|亦作“帕斯卡赌注”；宗教哲学|
 |Pensées philosophiques|《哲学思想录》|狄德罗|
 |perceptual beliefs|知觉信念|佐证审定“知觉”复合词群|
+|Philosophical anthropology|哲学人类学|哲学分支|
 |phronêsis|实践智慧|亦作“明智”；亚里士多德|
+|Platonic ideas|柏拉图式理念|柏拉图理念论|
 |polis|城邦|审定名词（世界历史·希腊）|
 |practical reason|实践理性|审定名词（自然辩证法·科学哲学）|
 |pratyakṣa|现量|印度量论；审定精确查无|
