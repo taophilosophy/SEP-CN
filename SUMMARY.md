@@ -1,4 +1,4 @@
-* [斯坦福哲学百科全书简体中文版](README.md)
+* [斯坦福哲学百科全书中文版](README.md)
 * [分类目录](mu-lu-s.md)
 * [版权说明](qian-yan/ban-quan-shuo-ming.md)
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
