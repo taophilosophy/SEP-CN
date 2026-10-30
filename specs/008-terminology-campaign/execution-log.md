@@ -169,3 +169,21 @@ emit 定制清单 + 浏览器通道 4 批查证 → 采审定 12（心理内容/
 1. phrase 50-100 段与 person 中频段继续 A/C 分档（节奏与工具已固化，见技能 termonline-batch）；
 2. person 池中大量**书名/概念误入 person 型**（Principia Ethica、Twin Earth、Frankfurt School 等）需重新分型后再裁定；
 3. person 池现代学者按体例批量 rejected（保留英文）。
+
+## 多语种智能提取升级与 foreign 首批（2026-10-30 第九轮，用户裁定"动态提取/不一定是英语/还有阿拉伯语"）
+
+### 提取器升级（term_harvest.py 六路→多路）
+
+* **主题词路线（type=topic）**：H1 题名 + 章节标题关键短语；专用清洗 clean_topic（剥首尾停用词而非拒收——clean_phrase 的「首词停用词即拒」会杀死 "The Basic Idea" 型标题）；TOPIC_GENERIC 排除 Introduction/References 等框架词。与既有候选同键时类型合并（topic 最弱，phrase/italic 优先）。
+* **原文文字路线**：阿拉伯（含波斯扩展）/希腊/希伯来/西里尔/天城体/汉字六种字母序列；单字母守卫（希腊数学变量 φ/α 非术语，除汉字外 ≥2 字符）。语料实测：希腊 339 篇、希伯来 12、阿拉伯 3（罗马化 route 仍是主力 784 新键）、西里尔 18、汉字引文（理 49/仁 38/道 26）。
+* **罗马化外语重分类（type=foreign）**：斜体/引语候选含非 ASCII 拉丁扩展、德语名词后缀（-heit/-keit/-ung/-schaft/-tät/-isch）或经典词小词典（Dasein/Lebenswelt/logos/phronêsis 等 40 词，可扩充）→ foreign。
+* **池账本语义修复（数据事故拦截）**：原 fresh 循环的 registered 差集作用于全部键，而池自身是 registered 源之一——第二次全量跑会把整个旧账裁掉（实测 62828→12930）。修复：全量跑=账本语义，旧池条目一律保留，registered 只挡「新键入池」；恢复池后重跑=75594（62828+12766 新）。
+* 语料扫描方法论：先扫码点分布定路线规模（CJK 2425 篇全是 yuanwen 转换器的「References（引用注释）」脚手架，尾部裁剪已切；真引文汉字是少数）。
+
+### foreign 首批 19 词（三批浏览器通道查证 + 直裁）
+
+采审定 3（logos 逻各斯·自然辩证法、naïve realism 朴素实在论·科学哲学、polis 城邦·世界历史）+ 缩略形佐证 1（Löwenheim-Skolem→勒文海姆–斯科伦定理，亦作 L-S定理）+ 学界惯例 15（中哲拼音转写 Dao/qi/rén/yì/tian——拼音与汉字对应、希腊 technê/epistêmê/nous/phronêsis/eudaimonia、佛教 dharma/svabhāva、德语 Bildung、哥德尔数、《百科全书》）；held 3（ilāhiyyāt/wujūd/pathê 语境待核）；rejected 4。三表同步 18 行；manifest tasks/manifests/2026-10-30-foreign-a1.json。
+
+### 落地复核（同日，用户裁定"复核术语落地情况"）
+
+`check_terms --docs` 九个非存根词条核销：9 处告警判定为 ①登记变更后正文涟漪（abduction 用旧主译 最佳解释推理×5/贝叶斯确证理论×4/经验等价×2/荷兰赌论证×1；spacetime-holearg 规范自由×2）②正文合理变体未登记（不充分决定性、荷兰赌论证→已补进亦作）③首现标记宽泛（IWE/total evidence 未在正文出现，良性）。**checkers 落地核销语义升级**：两层报告（任一变体出现=落地；主形未出现=「主译待对齐（涟漪）」信号，且仅 亦作 行触发涟漪——译作 行是并立形不算）；translations() 补 译作"X" 与 "X""Y" 连排引号支持、「（思想的）副词论」型前缀括注 head 提取修复。涟漪正文修订属三校/变更流程，不在核验器代改。

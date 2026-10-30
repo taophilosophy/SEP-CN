@@ -1,0 +1,348 @@
+{
+ "key": "bildung",
+ "term": "Bildung",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T15:21:03+00:00",
+ "status": "ok",
+ "note": "variant=Bildung; 审定公布名词库=820; 海峡两岸名词对照库=165; 其他来源数据库=57; 预公布名词数据库=33; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "装订",
+   "en": "binding",
+   "code": "05.03.019",
+   "standard": "档案学名词",
+   "subject": "档案学_档案保护_档案修复"
+  },
+  {
+   "cn": "竞价",
+   "en": "bidding",
+   "code": "06.228",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "code": "05.0106",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "code": "09.0653",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_网络互联"
+  },
+  {
+   "cn": "建筑物",
+   "en": "building",
+   "code": "01.0003",
+   "standard": "建筑学名词",
+   "subject": "建筑学_总论_基本概念"
+  },
+  {
+   "cn": "捆绑",
+   "en": "binding",
+   "code": "09.024",
+   "standard": "通信科学技术名词",
+   "subject": "通信科学技术_光纤传输与接入"
+  },
+  {
+   "cn": "扎边",
+   "en": "binding",
+   "code": "03.175",
+   "standard": "水产名词",
+   "subject": "水产_捕捞学"
+  },
+  {
+   "cn": "投标",
+   "en": "bidding",
+   "code": "09.196",
+   "standard": "水利科学技术名词",
+   "subject": "水利科学技术_水利工程施工_施工管理（水利）"
+  },
+  {
+   "cn": "投标",
+   "en": "bidding",
+   "code": "01.100",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_公路交通总论"
+  },
+  {
+   "cn": "厦",
+   "en": "building",
+   "code": "04.1970",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_群论"
+  },
+  {
+   "cn": "夹锯",
+   "en": "binding,pinching",
+   "code": "10.043",
+   "standard": "林学名词",
+   "subject": "林学_森林工程_森林采运"
+  },
+  {
+   "cn": "建筑",
+   "en": "architecture,building,construction",
+   "code": "01.0001",
+   "standard": "建筑学名词",
+   "subject": "建筑学_总论_基本概念"
+  },
+  {
+   "cn": "镀金",
+   "en": "gilding",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "投标",
+   "en": "bidding",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "装订",
+   "en": "binding",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "胶黏装订",
+   "en": "adhesive binding\",\"perfect  binding",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "建筑气候",
+   "en": "building climate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "建筑气候学",
+   "en": "building climatology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "建筑日照",
+   "en": "building sunshine",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "模型建立",
+   "en": "model building",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "结合力",
+   "en": "binding force",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物专一性连结",
+   "en": "biospecificity binding",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "结合能",
+   "en": "binding energy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "智能建筑",
+   "en": "Intelligent Building",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "绿色建筑",
+   "en": "green building",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "智慧楼宇",
+   "en": "smart building",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "建筑设备自动化",
+   "en": "building automation",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "建筑设计",
+   "en": "Building design",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "防浪板",
+   "en": "binding strake\",\"washboard",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_皮划艇名词"
+  },
+  {
+   "cn": "甲状腺素结合球蛋白",
+   "en": "thyroxine-binding globulin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "DNA结合蛋白",
+   "en": "DNA-binding domain",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "核结合能",
+   "en": "Nuclear binding energy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "TATA结合蛋白",
+   "en": "TATA-binding protein",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "肌动蛋白结合蛋白",
+   "en": "actin-binding proteins",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会建设",
+   "en": "social building",
+   "code": "2.1.8.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会建设"
+  },
+  {
+   "cn": "社区建设",
+   "en": "community building",
+   "code": "3.4.13.12",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_城市社会学_中国现代城市"
+  },
+  {
+   "cn": "关系建立",
+   "en": "relationship building",
+   "code": "4.4.4.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的过程"
+  },
+  {
+   "cn": "党的建设",
+   "en": "party building",
+   "code": "03.0380",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "建立信赖",
+   "en": "trust building",
+   "code": "6.5.1.3.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  },
+  {
+   "cn": "建筑用地",
+   "en": "building land",
+   "code": "9.1.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校选址与用地卫生"
+  },
+  {
+   "cn": "番仔楼",
+   "en": "Fanzai Building",
+   "code": "4.0142",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "土楼",
+   "en": "earth building",
+   "code": "4.0141",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "民俗约束力",
+   "en": "folklore binding",
+   "code": "4.003",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "商品住房",
+   "en": "commercial residential building",
+   "code": "4.3.8.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_住房保障服务"
+  },
+  {
+   "cn": "党的思想建设",
+   "en": "partys ideological building",
+   "code": "03.0471",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "党的制度建设",
+   "en": "Partys systemic building",
+   "code": "03.0536",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

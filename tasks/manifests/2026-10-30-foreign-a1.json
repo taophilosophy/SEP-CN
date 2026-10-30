@@ -1,0 +1,44 @@
+{
+ "batch": "2026-10-30-foreign-a1",
+ "scope": "term_harvest 多语种升级后的 foreign 型首批（freq 榜 top 遴选）",
+ "extraction_upgrade": "term_harvest.py 多语种智能提取：新增主题词路线（H1+章节标题）、原文文字路线（阿拉伯/希腊/希伯来/西里尔/天城体/汉字字母）、罗马化外语重分类（非 ASCII 拉丁扩展+德语后缀+经典词小词典）；池账本语义修复（全量跑保留旧池全部条目，修 62828→12930 裁剪事故）",
+ "pool_stats": {
+  "total": 75594,
+  "new_by_type": {"italic": 22307, "phrase": 18680, "foreign": 9159, "quoted": 8798, "person": 8711, "topic": 4743, "cjk": 1300, "ism": 842, "arabic": 784, "greek": 101, "cyrillic": 2, "hebrew": 2, "devanagari": 1}
+ },
+ "published": [
+  {"en": "logos", "zh": "逻各斯", "basis": "审定名词库·自然辩证法（自然哲学）"},
+  {"en": "naïve realism", "zh": "朴素实在论", "basis": "审定名词库·自然辩证法（科学哲学）"},
+  {"en": "polis", "zh": "城邦", "basis": "审定名词库·世界历史（希腊）"},
+  {"en": "Löwenheim-Skolem theorem", "zh": "勒文海姆–斯科伦定理（亦作“L-S定理”）", "basis": "学界惯例+审定缩略形在案"},
+  {"en": "Dao", "zh": "道", "basis": "学界惯例（拼音转写）"},
+  {"en": "qi", "zh": "气", "basis": "学界惯例（拼音转写）"},
+  {"en": "rén", "zh": "仁", "basis": "学界惯例（拼音转写）"},
+  {"en": "yì", "zh": "义（義）", "basis": "学界惯例（拼音转写）"},
+  {"en": "tian", "zh": "天", "basis": "学界惯例（拼音转写）"},
+  {"en": "technê", "zh": "技艺（亦作“技术”）", "basis": "学界惯例（希腊哲学术语）"},
+  {"en": "epistêmê", "zh": "知识（与 doxa 意见相对）", "basis": "学界惯例"},
+  {"en": "nous", "zh": "努斯（亦作“理智”）", "basis": "学界惯例"},
+  {"en": "phronêsis", "zh": "实践智慧（亦作“明智”）", "basis": "学界惯例（亚里士多德）"},
+  {"en": "eudaimonia", "zh": "幸福（亦作“繁盛”）", "basis": "学界惯例；审定精确查无"},
+  {"en": "dharma", "zh": "法（佛教语境；亦作“达摩”）", "basis": "学界惯例（佛典译语）"},
+  {"en": "svabhāva", "zh": "自性（佛教）", "basis": "学界惯例；审定精确查无"},
+  {"en": "Bildung", "zh": "教化（伽达默尔语境）", "basis": "学界惯例"},
+  {"en": "Gödel number", "zh": "哥德尔数（亦作“哥德尔编号”）", "basis": "学界惯例（数理逻辑）"},
+  {"en": "Encyclopédie", "zh": "《百科全书》（狄德罗主编）", "basis": "学界惯例（启蒙哲学）"}
+ ],
+ "held": [
+  {"en": "ilāhiyyāt", "reason": "伊斯兰哲学“神圣科学”，语境语义待核"},
+  {"en": "wujūd", "reason": "伊斯兰哲学“存在”，与 existence 译名碰撞待裁定"},
+  {"en": "pathê", "reason": "亚氏 pathē 复数，感受/激情分流待语境"}
+ ],
+ "rejected": [
+  {"en": "über die", "reason": "德语介词残片"},
+  {"en": "vis-à-vis", "reason": "法语通用介词"},
+  {"en": "PKÄ", "reason": "缩写残片"},
+  {"en": "Gödel gödel-", "reason": "链接解析残片"}
+ ],
+ "deferred": "topic 型 4743 条（标题词混杂 supplement supplement 类噪声）待专项清洗；cjk 型 1300 条（汉字本身即译名，登记价值待议）；希腊原文-script 词（νοῦς 等与罗马化同键归并）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（19 键，tl-foreign-a1 三批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +18 行、qian-yan/ci-hui-biao.md +18 行"
+}

@@ -1,0 +1,110 @@
+{
+ "key": "encyclopédie",
+ "term": "Encyclopédie",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-30T15:21:03+00:00",
+ "status": "ok",
+ "note": "variant=Encyclopédie; 审定公布名词库=20; 海峡两岸名词对照库=0; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "百科全书",
+   "en": "encyclopedia",
+   "code": "03.109",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "百科全书",
+   "en": "encyclopedia",
+   "code": "06.154",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书类型"
+  },
+  {
+   "cn": "百科全书",
+   "en": "encyclopaedia;encyclopedia",
+   "code": "07.02.081",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_图书"
+  },
+  {
+   "cn": "百科词典",
+   "en": "encyclopedic dictionary",
+   "code": "07.02.105",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_图书"
+  },
+  {
+   "cn": "网络百科全书",
+   "en": "online encyclopedia",
+   "code": "07.05.043",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_出版物_网络出版产品与服务"
+  },
+  {
+   "cn": "学科百科全书",
+   "en": "subject encyclopedia",
+   "code": "03.110",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "综合性百科全书",
+   "en": "general encyclopedia",
+   "code": "03.111",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_文献类型"
+  },
+  {
+   "cn": "百科全书运动",
+   "en": "encyclopedic movement",
+   "code": "04.045",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_古代"
+  },
+  {
+   "cn": "百科词典学",
+   "en": "encyclopedic lexicography",
+   "code": "06.007",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_总论"
+  },
+  {
+   "cn": "百科条目",
+   "en": "encyclopedic entry",
+   "code": "06.057",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书编纂"
+  },
+  {
+   "cn": "百科附录",
+   "en": "encyclopedic appendix",
+   "code": "06.145",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书编纂"
+  },
+  {
+   "cn": "百科词典",
+   "en": "encyclopedic dictionary",
+   "code": "06.155",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书类型"
+  },
+  {
+   "cn": "百科全书",
+   "en": "encyclopedia",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "《回疆通志》",
+   "en": "Encyclopedic Records of Huijiang",
+   "code": "3.0614",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_新疆研究"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
