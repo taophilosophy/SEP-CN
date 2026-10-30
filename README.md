@@ -1,4 +1,4 @@
-# 斯坦福哲学百科全书简体中文版
+# 斯坦福哲学百科全书中文版
 
 [原版英文目录](https://plato.stanford.edu/contents.html)
 
