@@ -57,13 +57,17 @@ def translations(cell):
     head = body.split('（')[0].strip()
     variants = {v.strip() for v in re.split(r'[/／；、;，]', head) if v.strip()}
     for m in re.finditer(r'(?:亦作|译作)[“"]([^”"]{1,40})[”"]', cell):
-        variants.add(m.group(1).strip())
+        for v in re.split(r'[/／；、;，]', m.group(1)):
+            if v.strip():
+                variants.add(v.strip())
         rest = cell[m.end():]                 # 连排引号："X""Y"
         while True:
             m2 = re.match(r'[“"]([^”"]{1,40})[”"]', rest.strip())
             if not m2:
                 break
-            variants.add(m2.group(1).strip())
+            for v in re.split(r'[/／；、;，]', m2.group(1)):
+                if v.strip():
+                    variants.add(v.strip())
             rest = rest.strip()[m2.end():]
     for m in re.finditer(r'《([^《》]{1,60})》', cell):
         variants.add(m.group(1).strip())
