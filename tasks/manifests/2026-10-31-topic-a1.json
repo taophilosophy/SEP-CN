@@ -1,0 +1,17 @@
+{
+ "batch": "2026-10-31-topic-a1",
+ "scope": "topic 型 4743 条专项：7 真术语查证登记（Metaphysics 946 篇/biodiversity 145/Epistemology 59/Freedom 58/Causation 40/Rule Consequentialism 35/Epistemic Closure 20）+ 结构性/自明标题词批量清洗 502 条",
+ "published": [
+  {"en": "Metaphysics", "zh": "形而上学", "basis": "审定名词库在案；学界通行"},
+  {"en": "biodiversity", "zh": "生物多样性", "basis": "审定名词库（多域）"},
+  {"en": "Epistemology", "zh": "认识论", "basis": "审定名词库·自然辩证法（科学哲学）"},
+  {"en": "Freedom", "zh": "自由", "basis": "审定名词库在案；学界通行同形"},
+  {"en": "Causation", "zh": "因果关系（亦作“因果”）", "basis": "审定名词库·自然辩证法“因果关系”"},
+  {"en": "Rule Consequentialism", "zh": "规则后果论（亦作“规则后果主义”）", "basis": "学界惯例；随后果论行"},
+  {"en": "Epistemic Closure", "zh": "认知封闭", "basis": "学界惯例（知识论）"}
+ ],
+ "cleaned": "502 条 rejected:topic 专项（结构性标题词 Life and Works/Biographical Sketch/supplement 类 + 自明单词 Life/History/Language 等；除外已登记 7 键）",
+ "deferred": "topic 多词专名剩余 ~4200 条保持 new（Intuitive Distinction/Animal Action 等），随词条翻译核定",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（7 键，tl-topic-a1）",
+ "registry_sync": "yi-zhe-shuo-ming.md +7 行、ci-hui-biao.md +7 行"
+}

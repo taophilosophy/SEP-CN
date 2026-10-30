@@ -9,14 +9,19 @@
 |aretê|德性|亦作“卓越”；希腊哲学术语|
 |Bedeutung|意义|弗雷格语境；亦作“意谓”|
 |Bildung|教化|伽达默尔语境|
+|biodiversity|生物多样性|审定名词（多域）|
+|Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
 |Dao|道|拼音转写；中国哲学核心范畴|
 |Dasein|此在|海德格尔；亦作“缘在”|
 |dharma|法|佛教语境；亦作“达摩”|
 |différance|延异|德里达定译|
 |Encyclopédie|《百科全书》|狄德罗主编；启蒙哲学|
 |epistêmê|知识|与 doxa 意见相对|
+|Epistemic Closure|认知封闭|知识论|
+|Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
 |epoché|悬搁|亦作“悬置”；胡塞尔|
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
+|Freedom|自由|审定名词在案；学界通行同形|
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
@@ -27,6 +32,7 @@
 |logos|逻各斯|审定名词（自然辩证法·自然哲学）|
 |Löwenheim-Skolem theorem|勒文海姆–斯科伦定理|亦作“L-S定理”；审定缩略形在案|
 |Lüshi chunqiu|《吕氏春秋》|典籍|
+|Metaphysics|形而上学|审定名词在案|
 |Mīmāṃsā|弥曼差|亦作“弥曼沙”；印度哲学|
 |Müller-Lyer illusion|米勒-莱尔错觉|审定名词（心理学）|
 |mutakallimūn|凯拉姆学者|亦作“教义学家”；伊斯兰哲学|
@@ -38,6 +44,7 @@
 |pratyakṣa|现量|印度量论；审定精确查无|
 |qi|气|拼音转写；中国哲学核心范畴|
 |Rubā‘iyyāt|《鲁拜集》|海亚姆四行诗；审定精确查无|
+|Rule Consequentialism|规则后果论|亦作“规则后果主义”；随后果论行|
 |saṃsāra|轮回|佛典译语|
 |schêma|图型|亦作“图式”；康德|
 |Sittlichkeit|伦理|亦作“伦理生活”；黑格尔|

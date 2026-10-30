@@ -201,3 +201,7 @@ emit 定制清单 + 浏览器通道 4 批查证 → 采审定 12（心理内容/
 审定·心理学域直接命中 1：Müller-Lyer illusion=米勒-莱尔错觉。学界惯例 14：aisthêsis 感知、arché 本原（始基）、kinêsis 运动、anumāna 比量、pratyakṣa 现量、schêma 图型（康德）、Sittlichkeit 伦理（黑格尔）、Vorstellung 表象、waḥdat al-wujūd 存在单一论（伊本·阿拉比）、mutakallimūn 凯拉姆学者、Mīmāṃsā 弥曼差、Löb's theorem 勒布定理 + 书名《反杜林论》《哲学思想录》。held 8（印度量论截断与阿位逻辑术语 taṣdīq"断定"候选等语境待核）；rejected 18（介词残片/单字拼音/已登记行变体）。三表同步 15 行；manifest tasks/manifests/2026-10-31-foreign-a3.json。check_all 七项全绿。
 
 **foreign 榜高频段（freq ≥18）至此扫完**：三批累计 56 词查证、50 行落册；余量转入中低频长尾（harvest-cache 留存，随词条翻译核定）。
+
+### topic 专项（2026-10-31，4743 条清洗 + 7 词登记）
+
+topic 型（标题词）专项：**7 个真术语查证登记**——Metaphysics 形而上学（946 篇标题在案）、biodiversity 生物多样性、Epistemology 认识论、Freedom 自由、Causation 因果关系（审定"因果关系"）、Rule Consequentialism 规则后果论（随后果论行）、Epistemic Closure 认知封闭；**结构性/自明标题词批量清洗 502 条**（Life and Works/Biographical Sketch/supplement 类 + Life/History/Language 等自明单词）；多词专名余 ~4200 条保持 new 随词条核定。manifest tasks/manifests/2026-10-31-topic-a1.json。教训：脚本干跑应无副作用——topic_a1.py 的池写盘未受 dry 开关保护，幸而目标态幂等。
