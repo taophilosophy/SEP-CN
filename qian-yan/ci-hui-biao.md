@@ -2,11 +2,11 @@
 
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
+|英语|中文|备注|
+|:---:|:---:|:---:|
 |aesthetic judgments|审美判断|康德语境|
 |comprehension principle|概括原则|亦作“概括公理”；弗雷格/集合论|
 |Duns Scotus|邓斯·司各脱|亦作“司各脱”|
-|empty set|空集|审定名词（数学）|
-|epistemic injustice|认知不义|亦作“认知不公正”；Fricker|
 |eternal truths|永恒真理|笛卡尔/莱布尼茨语境|
 |Gottlob Frege|戈特洛布·弗雷格||
 |human agency|人类能动性|审定名词在案|
@@ -15,18 +15,21 @@
 |John Dewey|约翰·杜威||
 |John Locke|约翰·洛克||
 |John Rawls|约翰·罗尔斯||
+|Sextus Empiricus|塞克斯都·恩披里柯|亦作“恩培里柯”|
+
+|英语|中文|备注|
+|:---:|:---:|:---:|
+|rational beings|理性存在者|康德语境|
 |mental processes|心理过程||
+|empty set|空集|审定名词（数学）|
+|epistemic injustice|认知不义|亦作“认知不公正”；Fricker|
 |moral worth|道德价值|康德语境|
 |phase space|相空间|审定名词（物理学）|
 |physical states|物理状态|与 mental states 相对|
 |Prisoner’s Dilemma|囚徒困境|审定名词（经济学/管理学）|
-|rational beings|理性存在者|康德语境|
-|Sextus Empiricus|塞克斯都·恩披里柯|亦作“恩培里柯”|
 |structural rules|结构规则|证明论|
-|英语|中文|备注|
 |model theory|模型论|审定名词（数学）|
 |human action|人类行动|行动哲学语境 action 定译“行动”|
-|:---:|:---:|:---:|
 |3rd Earl of Shaftesbury|第三代沙夫茨伯里伯爵|即 Anthony Ashley Cooper（安东尼·阿什利-库珀），见 Lord Shaftesbury 条|
 |ampliative (inference)|扩展（推理）／扩展性|又称：扩展的；首现 abduction|
 |A Very Easy Death|安详辞世||
