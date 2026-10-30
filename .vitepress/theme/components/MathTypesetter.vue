@@ -1,7 +1,18 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, watch } from 'vue'
 import { useData } from 'vitepress'
-import { clickableBlock, mapPoint, pointEl } from '../bili-paragraph'
+import {
+  activeBlock,
+  clearSentenceMarks,
+  clickableBlock,
+  containingBlock,
+  highlightSentence,
+  mapPoint,
+  markActive,
+  offsetInElement,
+  pointEl,
+  sentenceIndexAt,
+} from '../bili-paragraph'
 import { ensureMathJax } from '../mathjax-loader'
 
 const { page } = useData()
@@ -76,7 +87,7 @@ watch(() => page.value.relativePath, () => schedule())
 onMounted(() => schedule(60))
 onBeforeUnmount(() => clearTimeout(timer))
 
-// ---------------------------------------- iframe 内：滚动同步（子侧） --
+// ---------------------------------------- iframe 内：段落跟随（子侧） --
 // SSR（vitepress build）下没有 window，须先判存在
 const w = (typeof window !== 'undefined' ? window : undefined) as any
 const inIframe = !!w && w.parent !== w
@@ -84,39 +95,43 @@ const inIframe = !!w && w.parent !== w
 if (inIframe && !w.__biliIframeSync) {
   w.__biliIframeSync = true
   let lockedUntil = 0
+  let lastKey = ''
   let raf = 0
 
+  // 英文侧滚动 → 当前段变化 → 回传父页（软跟随；键相同/驱动锁内不发）
   window.addEventListener('scroll', () => {
     if (Date.now() < lockedUntil || raf) return
     raf = requestAnimationFrame(() => {
       raf = 0
-      const max = document.documentElement.scrollHeight - window.innerHeight
-      window.parent.postMessage(
-        { type: 'bili:scroll', ratio: max > 0 ? window.scrollY / max : 0 },
-        '*',
-      )
+      const doc = document.querySelector('.vp-doc')
+      if (!doc) return
+      const el = activeBlock(doc)
+      if (!el) return
+      markActive(doc, el)
+      const pt = mapPoint(doc, el)
+      if (!pt) return
+      const key = pt.h + ':' + pt.b
+      if (key === lastKey) return
+      lastKey = key
+      window.parent.postMessage({ type: 'bili:active-back', h: pt.h, b: pt.b }, '*')
     })
   }, { passive: true })
 
-  window.addEventListener('message', (e: MessageEvent) => {
-    if (e.source !== window.parent || e.data?.type !== 'bili:scroll') return
-    const max = document.documentElement.scrollHeight - window.innerHeight
-    lockedUntil = Date.now() + 120
-    window.scrollTo(0, (e.data.ratio ?? 0) * Math.max(max, 0))
-  })
-
-  // 段落级对照（2026-10-30 #4，子侧）：接收中文栏的段落坐标并滚动对位；
-  // 英文栏内点击段落则把坐标回传父页（bili:goto-back）
+  // 接收中文侧驱动：soft=滚动跟随（无闪烁），硬=点击跳转（带闪烁）
   window.addEventListener('message', (e: MessageEvent) => {
     if (e.source !== window.parent || e.data?.type !== 'bili:goto') return
     const doc = document.querySelector('.vp-doc')
     if (!doc) return
     const el = pointEl(doc, e.data.h ?? -1, e.data.b ?? 0)
     if (!el) return
-    lockedUntil = Date.now() + 2500
+    lockedUntil = Date.now() + 900
+    lastKey = e.data.h + ':' + e.data.b
+    markActive(doc, el)
     el.scrollIntoView({ block: 'start', behavior: 'smooth' })
-    el.classList.add('bili-flash')
-    setTimeout(() => el.classList.remove('bili-flash'), 1600)
+    if (!e.data.soft) {
+      el.classList.add('bili-flash')
+      setTimeout(() => el.classList.remove('bili-flash'), 1600)
+    }
   })
 
   document.addEventListener('click', (ev: MouseEvent) => {
@@ -125,7 +140,48 @@ if (inIframe && !w.__biliIframeSync) {
     const doc = document.querySelector('.vp-doc')
     if (!doc) return
     const pt = mapPoint(doc, target)
-    if (pt) window.parent.postMessage({ type: 'bili:goto-back', h: pt.h, b: pt.b }, '*')
+    if (pt) {
+      lastKey = pt.h + ':' + pt.b
+      markActive(doc, target)
+      window.parent.postMessage({ type: 'bili:goto-back', h: pt.h, b: pt.b }, '*')
+    }
+  })
+
+  // 选中文本 → 中文侧同序句高亮（2026-10-31；selectionchange 300ms 去抖）
+  let selTimer: ReturnType<typeof setTimeout> | undefined
+  document.addEventListener('selectionchange', () => {
+    if (selTimer) clearTimeout(selTimer)
+    selTimer = setTimeout(() => {
+      const doc = document.querySelector('.vp-doc')
+      if (!doc) return
+      const sel = window.getSelection()
+      if (!sel || sel.isCollapsed || !sel.anchorNode || !doc.contains(sel.anchorNode)) {
+        window.parent.postMessage({ type: 'bili:sent-back', h: -1, b: 0, si: -1 }, '*')
+        clearSentenceMarks(doc, 'bili-sent-en')
+        return
+      }
+      const para = containingBlock(doc, sel.anchorNode)
+      if (!para) return
+      const si = sentenceIndexAt(para.textContent || '', offsetInElement(para, sel.getRangeAt(0)))
+      const pt = mapPoint(doc, para)
+      if (!pt) return
+      highlightSentence(para, si, 'bili-sent-en')
+      window.parent.postMessage({ type: 'bili:sent-back', h: pt.h, b: pt.b, si }, '*')
+    }, 300)
+  })
+
+  // 接收中文侧选中驱动：对侧同序句高亮 / 清除
+  window.addEventListener('message', (e: MessageEvent) => {
+    if (e.source !== window.parent || e.data?.type !== 'bili:sent') return
+    const doc = document.querySelector('.vp-doc')
+    if (!doc) return
+    const para = pointEl(doc, e.data.h ?? -1, e.data.b ?? 0)
+    if (!para) return
+    if ((e.data.si ?? -1) < 0) {
+      clearSentenceMarks(para, 'bili-sent-en')
+      return
+    }
+    highlightSentence(para, e.data.si, 'bili-sent-en')
   })
 }
 </script>
