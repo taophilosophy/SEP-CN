@@ -309,3 +309,12 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 * 体例：自写稿沿用 EN 斜体强调致 59 处 italic-cjk——convert_italic 转换后仍余 18 处"闭合 ** 后紧跟全角开括号"缺空格（AFTER_PUNCT 豁免表只收闭括号），批量补齐；check_style 0 issue
 * 收工门禁：check_bold_collapse 0 候选（事故后新增必跑项）；check_academic --strict 0 硬错误；check_markdown zh scope abilities 0 hard；para_align 256/256 对（zh 残留=致谢段，EN 侧无独立对应块，良性）
 * 任务九步逐道留证；a 批进度 8/160
+
+
+## 2026-10-31 A批第9件：abraham-daud done
+
+* 全译：导言+七节（引言/生平/主要著作/*ER* 的结构与来源/主要主题七小节/接受/结语）；note-1/2 译入脚注节；refs 58 条文献 defs 照录拼接（含 note 键总集 60/60 与 yuanwen 一致）
+* 转写符号第二轮：闪米特转写 ‘/’（ayin/hamza）触发 curly-quotes 配对——凡与拉丁字母相邻者改 U+02BC（7 行），中文单引号引语不动；abrabanel 同款处置的推广
+* 术语/题名：书题《崇高的信仰》《传统之书》《世代之书》《拯救书》《治疗书》《哲学家的意图》《政治体制》《生命之泉》；克雷斯卡斯《主之光》沿用 abner-burgos；人名依登记表（伊本·盖比鲁勒、伊本·西那（阿维森纳）首次括注、犹大·哈列维、萨阿迪亚·果昂）；相关词条七项取自 SUMMARY
+* para_align 137/137 对；7 条 EN defs "残留"经键多重集+逐条 grep 证为 defs 前置布局错位、零缺失（与 abhidharma 同类裁定）
+* 任务九步逐道留证；a 批进度 9/160

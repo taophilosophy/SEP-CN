@@ -188,6 +188,7 @@ def align(en, zh):
 def main():
     entries = [
         ['abilities', 'a/abilities.md', 'yuanwen/a/abilities.md', None],
+        ['abraham-daud', 'a/abraham-daud.md', 'yuanwen/a/abraham-daud.md', None],
         ['abrabanel', 'a/abrabanel.md', 'yuanwen/a/abrabanel.md', None],
         ['abelard', 'a/abelard.md', 'yuanwen/a/abelard.md', None],
         ['abhidharma', 'a/abhidharma.md', 'yuanwen/a/abhidharma.md', None],

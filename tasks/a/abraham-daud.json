@@ -2,8 +2,72 @@
   "slug": "abraham-daud",
   "kind": "retranslate",
   "zh_doc": "a/abraham-daud.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-30T15:52:17Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:17:30Z",
+      "evidence": "七节全译落盘：导言+引言+生平+主要著作+结构与来源(4.1/4.2)+主要主题(5.1实体偶性/5.2灵魂/5.3上帝与属性/5.4宇宙生成与理智/5.5预言/5.6自由意志/5.7伦理与宗教实践)+接受+结语；note-1/2 译入脚注节；refs 58 条文献 defs 照录拼接（总键集 60/60 与 yuanwen 一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:17:30Z",
+      "evidence": "一校体例：EN 残留扫描修正 exposition/哈列视 2 处；闪米特转写 ‘/’（al-‘Aqîdah/Dorot ‘Olam/Kitâb al-Shifâ’/‘Aqedat 等 7 行）按词邻拉丁改 U+02BC；check_style 0 issue；check_bold_collapse 0 候选"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:17:30Z",
+      "evidence": "二校学术：check_academic --strict 0 硬错误；书题译名《崇高的信仰》《传统之书》《世代之书》《迷途指津》《主之光》（克雷斯卡斯沿用 abner-burgos）/《库扎里》；人名依登记表（伊本·盖比鲁勒/伊本·西那（阿维森纳）首次括注/犹大·哈列维/萨阿迪亚·果昂/伊本·埃兹拉）；相关词条七项题名取自 SUMMARY（含阿拉伯和伊斯兰哲学对犹太思想的影响）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:17:31Z",
+      "evidence": "三校全文：check_markdown zh scope 待跑；五处 ER 长引文块全译（净化/关系谓述/两种可能/上帝造可能/导言引文）；注引用 [^eran-2019][^samuelson-1986] 双键并挂保留原样"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:20:21Z",
+      "evidence": "初审：逐节对照 yuanwen/a/abraham-daud.md（293行）——§2 生平（科尔多瓦/舅父教育/穆瓦希德入侵迁托莱多/殉道 1180/阿文道特同一性猜想）；§3 两著作关系与《世代之书》三节；§4.1 三部结构（物理形而上/宗教原理/伦理）与圣经诠释前置到织入的转变；§4.2 来源（法拉比《政治体制》/伊本·西那《治疗书》《拯救书》/安萨里《哲学家的意图》/伊本·哈兹姆）；§5.3 否定式与关系式属性两种解法；§5.4 流溢三重认知三元组+批评；§5.6 两种可能+四分因果+上帝无预知+法老刚硬；§5.7 正义为首德与《弥迦书》6:8；§6 迈蒙尼德《迷途指津》I.71/I.52 暗指与批评"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:20:21Z",
+      "evidence": "复审：语义复核——①诗 139/理性之爱对克雷斯卡斯影响链；②'哲学百科全书在袖珍'（Arfa）评价句；③休西克两句评语（冷峻精确/若非伊本·达乌德则无迈蒙尼德）；④Jewish Avicennism 之'犹太阿维森纳主义'；⑤蒙特菲奥雷抄本 274/帕尔纳斯 1477 跋记细节；⑥Samuelson 199a 源文笔误照录不代改；⑦elohim/tselem/demut 转写保留斜体"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:20:21Z",
+      "evidence": "终审：para_align 137/137 对（7 条 EN defs 尾部错位系 defs 前置布局差异，逐条 grep 在位+键多重集 60/60 相等证零缺失）；check_style/check_academic/check_bold_collapse 全 0；check_markdown zh scope 0 hard"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T16:20:22Z",
+      "evidence": "六道走完 done：a/abraham-daud.md（七节全译+note-1/2 译入+refs 58 条 defs 照录）；a 批 translate 进度 9/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:08Z",
   "version_pin": {
