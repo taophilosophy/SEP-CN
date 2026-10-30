@@ -32,6 +32,7 @@
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性） |
 | `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留；输出 JSON） |
+| `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`]( `链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）；硬错误退出码 1 |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
 | `check_junk.py` | 垃圾/产物入库门禁（ADR-0003）：原始物、缓存、构建产物、系统杂物命中即退出码 1 |

@@ -268,9 +268,18 @@ def inline_to_md(html, slug=None):
 
     s = re.sub(r'<a\b[^>]*href="(?P<href>[^"]*)"[^>]*>(?P<t>.*?)</a>',
                _link, s, flags=re.S | re.I)
-    s = re.sub(r'<(?:em|i)>(.*?)</(?:em|i)>', r'*\1*', s, flags=re.S | re.I)
-    s = re.sub(r'<(?:strong|b)>(.*?)</(?:strong|b)>', r'**\1**', s, flags=re.S | re.I)
-    s = re.sub(r'<code>(.*?)</code>', r'`\1`', s, flags=re.S | re.I)
+    # 2026-10-30：三处 (.*?) re.S 会在 strong/b 交错时跨标签吞段、且 em 先行
+    # 转出的内层星与外层 ** 组成三连星边界错乱（149 镜像文件 667 对星内空格
+    # 的根因，实测）——改 [^<]* 限单层；粗体内容含星（内层 em 转出）时降级
+    # <b> 保结构稳定。<b>（数学记号粗体，如 <b>P</b>(<em>H</em>)）保留 raw
+    # HTML 不转 md 星：与 <em>/字面星交错会产生星流奇偶错位并连锁整段
+    def _md_bold(m):
+        inner = m.group(1)
+        return ('<b>%s</b>' % inner) if '*' in inner else ('**%s**' % inner)
+
+    s = re.sub(r'<(?:em|i)>([^<]*)</(?:em|i)>', r'*\1*', s, flags=re.I)
+    s = re.sub(r'<strong>([^<]*)</strong>', _md_bold, s, flags=re.I)
+    s = re.sub(r'<code>([^<]*)</code>', r'`\1`', s, flags=re.S | re.I)
     s = re.sub(r'<br\s*/?>', ' ', s, flags=re.I)
     s = re.sub(r'</?span[^>]*>', '', s, flags=re.I)
 
@@ -486,7 +495,10 @@ def render_blocks(blocks, ctx):
             for dm in re.finditer(r'<dt[^>]*>(.*?)</dt>|<dd[^>]*>(.*?)</dd>',
                                   inner, re.S | re.I):
                 if dm.group(1) is not None:
-                    ctx.emit('', '**%s**' % inline_to_md(dm.group(1), ctx.slug))
+                    # 2026-10-30：dt 内容首尾常带空格/内含星号，无条件 `**%s**`
+                    # 会产生星内空格（永不渲染）或跨距配对——strip 后仅对无星内容加粗
+                    dtext = inline_to_md(dm.group(1), ctx.slug).strip()
+                    ctx.emit('', '**%s**' % dtext if dtext and '*' not in dtext else dtext)
                 else:
                     ctx.emit('', inline_to_md(dm.group(2), ctx.slug))
         elif t == 'pre':
