@@ -345,3 +345,13 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 * 术语定案：机构中立（卡尔文报告）、邻近性 proximity（Dea）、拒予平台 no-platforming、安全空间、微歧视、触发预警、内容无关性/情境无关性（佩蒂特）、学府自由 libertas scholastica、哲思自由 libertas philosophandi、随地任教权 ius ubique docendi、教化 Bildung、守旧派/少壮派（罗蒂）、门徒/学科双关（杜威）；案名保留拉丁
 * 体例：EN 残留 6 处修正；o'neil 键撇号 ASCII→弯撇（marker+def 同步）；相邻斜体误配对 1 处消解；段首加粗候选 1 处裁定合法
 * para_align 259/259 对；a 批进度 12/160
+
+
+## 2026-10-31 A批第13件：action done（本批最大件）
+
+* 全译：导言+八节（问题/因果论/延展行动/实践知识/存在论/构成性目的/不作为/动物行动）+致谢；note-1..6 全译；refs 314 条 defs 照录拼接（总键集 320/320 一致）；para_align 554/554 段全对齐 0 残留
+* 检测器修订（工具级，随本件落地）：check_academic 新增 WESTERN_PUB_RE 豁免——英文文献条目即便主题涉中国典籍（如 Ivanhoe/Schwitzgebel 论 Zhuangzi）也照录，ADR-0011“中国文献条目”判据=条目语言而非主题；含 eds\. 后词边界失效修正。check_all 7 项回归全绿
+* 新型问题与处置：正文 marker 内弯撇 ’（[^o’brien]）触发 curly-quotes“右引号先于左引号”——marker 与人名同款用 ASCII 撇，defs 区豁免不受影响；键集校验随之以 ASCII 形制对齐
+* 术语定案：有意行动、因果论、原初理由、偏差问题（初级/次级）、基本行动（三重基本性）、实践知识、知识条件、非观察知识、未完成体悖论、计划理论、定案/协调功能、决心、盲目摇号、双向力、个别化（粗/细颗粒）、制作/狭义行动、构成性目的、善之貌、施马能动性、不作为/克制
+* 体例自省：长文手写仍产生 9 处 EN 残留+若干加粗空格——数量较 abstract-objects 下降但未归零；下次起收笔后立即跑扫描脚本（不再是收尾批量）
+* a 批进度 13/160

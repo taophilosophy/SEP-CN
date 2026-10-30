@@ -2,8 +2,72 @@
   "slug": "action",
   "kind": "retranslate",
   "zh_doc": "a/action.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-30T18:11:14Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:39:18Z",
+      "evidence": "八节全译落盘：导言+§1问题(维特根斯坦减法/叠加式概念/利贝特)+§2因果论(Davidson挑战/手风琴效应/标准故事/行动者因果性/目的论解释/因果偏差四策略)+§3延展行动(Bratman计划理论定案协调两功能/决心/自我治理共时历时/汤普森连续性)+§4实践知识(安斯康姆水泵工/知识条件四论证/复写者与蓄水池反例/反发光性/三类弱化/Velleman自我认识欲望/推理论)+§5存在论(事件vs过程/未完成体悖论/个别化粗细颗粒/基本行动三重基本性/汤普森推石论证/Lavin异化论证/亚里士多德制作与狭义行动/马克思阿伦特)+§6构成性目的(善之貌/施马能动性)+§7不作为(缺席/双向力/Sartorio挑战)+§8动物行动(怀疑论图式/非概念思想/元认知)；note-1..6 全译；refs 314 条 defs 照录拼接（键集 320/320 经 o' 撇号统一后一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:40:35Z",
+      "evidence": "一校体例：EN 残留修正 9 处（stalking/presumably/failing/arguably×2/purported/pursuing/subordinate/significance）+俄语串入 propio 1 处+乱码∈ 1 处；中文斜体改加粗/引号 9 处（道/事件/过程/抹完/工作/如果/行动/手的移动三例/ψ记号改全角＊）；bold-spacing 批量补外侧空格+闭合后全角括号 60 余处；o'brien 等键撇号 ASCII 与 marker 一致（弯撇 marker 触发 curly-quotes 误报的根因）；check_style 0 issue；check_bold_collapse 0 候选"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:40:35Z",
+      "evidence": "二校学术：check_academic 初报 3 硬错误全数处置——orphan-ref×2（defs 键弯撇与 marker ASCII 不一致）修复；biblio-chinese-untranslated 2 行系英文文献误报（Ivanhoe/Schwitzgebel 论 Zhuangzi 的英文论文非中国文献条目，ADR-0011 判据=条目语言），check_academic 加 WESTERN_PUB_RE 西方出版标志豁免（含 eds\\. 后 \\b 边界修正），check_all 7 项回归全绿；术语定案：有意行动/因果论/原初理由/偏差问题/基本行动/实践知识/知识条件/非观察知识/未完成体悖论/计划理论/定案-协调功能/决心/自我治理/双向力/个别化粗细颗粒/制作与狭义行动/构成性目的/善之貌/施马能动性/不作为与克制；无为/庖丁/道 保留专名；相关词条十五项题名取自 SUMMARY（穆勒用登记形/道家/道教）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:40:35Z",
+      "evidence": "三校全文：check_markdown zh scope 0 hard；六处引文块（ARC 拉里理发师/登山者松手/枪手野猪/塞提亚引导/安斯康姆 §48 阿奎那/戴维森复写者）全译；公式块 (3*)-(5*) 新戴维森式改写与 O!/A! 式无——本件为 (3*)-(5*) 事件量化三式与 1109\\exists x1109 式照录；(17)-(19) 动物句全译"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:42:08Z",
+      "evidence": "初审：逐节对照 yuanwen/a/action.md（1117行）——导言三重区分（活动/动物行动/有意行动）与《道德经》无为/庖丁解牛两东方旁支；§1 维特根斯坦 §621 减法/笛卡尔霍布斯休谟标准答案/方法论之争（行动者视角 vs 利贝特）；§2.1 Melden 逻辑联系论证与戴维森晒伤反例+奶油苏打水例；§2.2 手风琴效应/窃贼开灯/我们做的从来不超过移动身体；§2.4 登山者（初级偏差）枪手（次级偏差）与四类解法+经验知情进路；§3 布拉特曼波基普西代托纳比奇/印第500零食链/无悔条件/盲目摇号；§4.1 亚里士多德三理论形态+两实践形态/实践三段论/水泵工四问链/无需观察三点共识；§4.2 断言规范论证两前提/进行体开放性/Hyman 知识关系；§4.3 复写者两种情形拆解/Schwenkler 蓄水池/Piñeros 反发光性；§4.4-4.5 三类弱化盘点/幸运一厢情愿与悲观想法/Velleman 核心欲望/推理论三挑战；§5.1 事件三理由（因果/推理模式/语言）与过程三理由/汤普森未完成体论证/法兰克福直接引导；§5.2 细颗粒三性质例/狄更斯/棕桌推理/斯科特·事实哑剧；§5.3 基本行动三重基本性（知其如何/因果/目的论）棒球投手例/汤普森推石二分无限倒退/Lavin 马克思式异化；§5.4 亚里士多德成功条件内外之分/马克思异化/阿伦特劳动工作行动三分/柯斯嘉德功利主义非道德理论；§6 西雅图失望例/果冻因为蓝/善之貌/塞提亚解释性-规范性理由/英戈蒙托亚复仇例/施马能动性；§7 教师裁员三例/拉里酒吧/赖尔行动路线/双向力/Sartorio 不形成意图；§8 猫松鼠狗三例/戴维森信念概念论证/怀疑论图式/Steward 发展优先/Kaufmann 黑猩猩规划/婴儿能动性发展论证"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:42:08Z",
+      "evidence": "复审：语义复核——①intentional action 统一译有意行动（non-observational 非观察知识）；②causalism/causal theory 因果论/因果理论分用；③deviance 初级/次级偏差（Mele-Moser 术语）；④planning agency 计划性行动性、settling 定案、resolutions 决心、brute shuffling 盲目摇号；⑤self-governance 自我治理（与 academic-freedom 词条 institution self-governance 制度自我治理区分语境）；⑥making/praxis 制作/狭义行动（亚里士多德通行）；⑦guise of the good 善之貌；⑧schmagency 保留英文+施马音译括注；⑨wuwei 无为/庖丁/Dao 道 专名照录；⑩husvos rancheros 保留菜名/波基普西/代托纳比奇/印第500 音译；⑪two-way power 双向力（abrabanel 已定）⑫致谢 Kirley 编辑协助照译"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:42:08Z",
+      "evidence": "终审：para_align 554/554 段全对齐 0 残留（本批最大词条）；check_style/check_academic 0 问题；check_markdown 0 hard；check_bold_collapse 0 候选；check_all 7 项全绿（含 WESTERN_PUB_RE 检测器修订的回归验证）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T19:42:08Z",
+      "evidence": "六道走完 done：a/action.md（八节全译+note-1..6 译入+refs 314 条 defs 照录）；a 批 translate 进度 13/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:32Z",
   "version_pin": {

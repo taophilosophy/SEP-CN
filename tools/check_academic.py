@@ -38,6 +38,12 @@ sys.path.insert(0, ROOT)
 
 from tools.biblio_audit import probe_text  # noqa: E402  文献探针（疑似中国文献定位）
 
+# 西方出版标志：英文文献条目即便主题涉中国典籍也照录（ADR-0011 判据=条目语言本身）
+WESTERN_PUB_RE = re.compile(
+    r"\b(University Press|Journal|Studies|Review|Quarterly|ed\.|trans\.|eds\.|"
+    r"Proceedings|Archiv|Annals|Institute|Society|Handbook|Companion|Yearbook|"
+    r"Imprint|monograph)", re.I)
+
 EXCLUDE_DIRS = {
     '.git', '.github', '.vitepress', '.specify', '.zcode', 'node_modules',
     'en', 'yuanwen', 'pending', 'public', 'script', 'tools', 'rules', 'specs',
@@ -156,12 +162,16 @@ def check_doc(rel, ne, warns, is_supp=False):
         elif not any('中国文献' in line for line in note_lines):
             warns.append('[biblio-note-outdated] %s:%d 节首说明为 ADR-0011 前旧措辞，应含“中国文献译为中文”' % (rel, start))
         # ADR-0011：疑似中国文献条目仍全罗马化 → 告警（行级定位用 biblio_audit.py）
+        # 豁免：含西方出版标志的行是英文文献（即便主题涉及中国典籍，如 Ivanhoe 论
+        # Zhuangzi），判据是条目语言而非主题（ADR-0011“中国文献条目”指条目本身）。
         zh_rows = 0
         for line in in_sec:
             p = probe_text(line)
             if p['cjk'] or p['kana']:
                 continue
             if p['classic_hits'] or p['authorpos_hits'] >= 2:
+                if WESTERN_PUB_RE.search(line):
+                    continue
                 zh_rows += 1
         if zh_rows:
             warns.append('[biblio-chinese-untranslated] %s:%d 文献节约 %d 行疑似中国文献仍全罗马化，按 ADR-0011 还原中文'
