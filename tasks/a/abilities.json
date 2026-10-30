@@ -2,7 +2,7 @@
   "slug": "abilities",
   "kind": "retranslate",
   "zh_doc": "a/abilities.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-10-29T23:53:15Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:43:55Z",
+      "evidence": "五节全译落盘：导言+§1分类学(1.1倾向与诸力/1.2划定/1.3知道如何与技能)+§2诸区分(一般/特定+全域/局部+单纯/意向+窄/宽)+§3假设式理论(条件句分析CA/两类反例/精致化ACA/新倾向主义+成功观)+§4非假设式(模态分析MA/外延得当性/逻辑考量Kenny公理/潜能·双向力·选项·Lewis障碍)+§5应用(相容论进取/谦抑之分+法兰克福案例PAP+残疾基于能力观)；defs 81/81 键序一致拼接"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:43:55Z",
+      "evidence": "一校体例：italic-cjk 59 处中文斜体→加粗（convert_italic 转换+18 处闭合**后全角括号补空格，check_style 0 issue）；check_bold_collapse 0 候选（转换后必跑）；EN 残留扫描仅 fink 术语有意保留×2"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:43:55Z",
+      "evidence": "二校学术：check_academic --strict 0 硬错误；术语裁定与登记表一致（倾向/可供性/新倾向主义/条件句分析/模态分析/双向力/潜能/其他可能性原则PAP）；相关词条题名取自 SUMMARY（残疾的定义与模型/直陈条件/关于如何做某事的知识/自由意志的不相容论论证）；引文作者-年份全角括号体例同 abduction"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:43:56Z",
+      "evidence": "三校全文：check_markdown zh scope abilities 0 hard；公式 $A\\to\\Diamond A$ 与 $\\Diamond(A\\lor B)\\to(\\Diamond A\\lor\\Diamond B)$ 及 (CA)/(CD)/(MA)/(CA_modal) 编号框格式原样保留；休谟/莱勒/戴维森×2/克拉克/范因瓦根/肯尼七处引文块全译"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:46:40Z",
+      "evidence": "初审：逐节对照 yuanwen/a/abilities.md（516行）——§1.1 倾向/可供性/里德引文、§1.3 赖尔式说明与两条弱论题+滑雪教练案例、§2.1 网球发球一般/特定对比例、§3.1 休谟《人类理解研究》8.1 引文、§3.2 莱勒糖球反例+高尔夫推杆反例、§3.3 戴维森 1973 两处引文+曼德尔克恩 ACA、§3.4 CD 分析 fink/掩蔽两反例+法拉分析+克拉克 339 引文、§4.3 肯尼飞镖/纸牌两例与 T/K 逻辑退守、§4.4 维特潜能/斯图尔德双向力/迈尔选项/Lewis 遗作障碍说、§5.1 范因瓦根 Analysis 引文+进取/谦抑相容论+法兰克福案例、§5.2 巴恩斯两挑战+纤维肌痛+残障骄傲运动"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:46:40Z",
+      "evidence": "复审：语义复核——① hawk/handsaw 与 elm/beech 生僻度对仗保留直译；② in a position to/option 双表述并出；③ 全域/局部改称之说明句照译；④ 潜在一元关系与倾向二元关系对照；⑤ (PAP) 中一般/特定能力两种读法之归宿未预断；⑥ 致谢 2009 年份照源（与 pubinfo 2010 差异系上游自述）不代改；⑦ fink/掩蔽术语首次出现均带出处括注"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:46:41Z",
+      "evidence": "终审：check_bold_collapse 全库 0 候选；para_align 256/256 对 0 EN 残留（zh 残留=致谢段，EN 侧无独立对应块，与既有译注残留同类）；check_style/check_academic 0 问题；相关词条八项题名经 SUMMARY 核对"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-30T15:46:41Z",
+      "evidence": "六道走完 done：a/abilities.md（五节全译+refs 81 条 defs 照录拼接+致谢节）；a 批 translate 进度 8/160"
     }
   ],
   "blockers": [],

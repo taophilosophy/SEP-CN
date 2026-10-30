@@ -300,3 +300,12 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 ### 下一步
 
 * a 批续译：余 153 件（abracadabra 起）；收工前跑 check_bold_collapse
+
+
+## 2026-10-30 A批第8件：abilities done
+
+* 全译：导言+五节（分类学/能力中的诸区分/假设式理论/非假设式理论/应用）+致谢节；refs 81 条 defs 经 splice_defs 照录拼接（键序 81/81 一致、EN 混入无）；作者-年份引用组 [^key] 标记保留
+* 术语裁定：倾向 dispositions / 可供性 affordances / 新倾向主义 new dispositionalism / 条件句分析 CA / 模态分析 MA / 双向力 two-way power / 潜能 potentiality / 其他可能性原则 PAP；相关词条八项题名取自 SUMMARY（残疾的定义与模型、行动、相容论、直陈条件、倾向、自由意志的不相容论论证、关于如何做某事的知识、模态逻辑）
+* 体例：自写稿沿用 EN 斜体强调致 59 处 italic-cjk——convert_italic 转换后仍余 18 处"闭合 ** 后紧跟全角开括号"缺空格（AFTER_PUNCT 豁免表只收闭括号），批量补齐；check_style 0 issue
+* 收工门禁：check_bold_collapse 0 候选（事故后新增必跑项）；check_academic --strict 0 硬错误；check_markdown zh scope abilities 0 hard；para_align 256/256 对（zh 残留=致谢段，EN 侧无独立对应块，良性）
+* 任务九步逐道留证；a 批进度 8/160
