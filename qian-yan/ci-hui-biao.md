@@ -30,7 +30,7 @@
 |Charles Mills|查尔斯·米尔斯|当代政治哲学|
 |Cheng Hao|程颢|宋明理学（与程颐并称二程）|
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
-|common good|公共善|政治哲学|
+|common good|公共善|亦作“共同善”；政治哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
 |Dao|道|拼音转写；中国哲学核心范畴|
@@ -560,7 +560,7 @@
 |Inference to the Best Explanation|最佳说明推理|亦作“最佳解释推理”；abduction 词条核心概念；审定名词（自然辩证法名词）|
 |Inference to the Worst Explanation (IWE)|最差解释推理|与 IBE 对偶；首现 abduction|
 |informed consent|知情同意|审定名词（科技伦理）|
-|virtuous person|有德之人|德性伦理学|
+|virtuous person|有德之人|德性伦理学；亦作“有德者”“德性之人”|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
 |institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
@@ -612,10 +612,10 @@
 |Lehrfreiheit|教学自由|德语：教师的讲学与教学自由；德式学术自由传统两大支柱之一，亦译“讲学自由”；首次出现宜括注原文|
 |Leibnizian-Wolffian|莱布尼茨—沃尔夫学派的|德国启蒙主流哲学传统|
 |Leo Strauss|列奥·施特劳斯||
-|Lernfreiheit|学习自由|德语：学生的选课与学习自由；德式学术自由传统与 Lehrfreiheit 相对；首次出现宜括注原文|
+|Lernfreiheit|学习自由|德语：学生的选课与学习自由；亦作“学的自由”；德式学术自由传统与 Lehrfreiheit 相对；首次出现宜括注原文|
 |Leucippus|留基伯||
 |liberalism|自由主义||
-|Libertas philosophandi|哲学思考自由|拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
+|Libertas philosophandi|哲学思考自由|亦作“哲思自由”；拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
 |logical constants|逻辑常项|逻辑学|
 |logical atomism|逻辑原子主义||
 |logicism|逻辑主义||
@@ -639,7 +639,7 @@
 |mechanism|机械论|社会科学语境译“机制”，按语境分流|
 |mental content|心理内容|审定名词（自然辩证法·科学哲学）|
 |mental events|心理事件|戴维森语境|
-|mental states|心理状态|亦作“精神状态”，按语境|
+|mental states|心理状态|亦作“精神状态”“心灵状态”，按语境|
 |Methods|方法||
 |Mind|心灵||
 |Mirror of Production|生产之镜||
@@ -789,7 +789,7 @@
 |religious belief|宗教信念|宗教认识论|
 |reliabilism|可靠论|亦作“可靠主义”|
 |Representation|表征|认知科学与心灵哲学语境；康德、黑格尔的 Vorstellung 语境译“表象”|
-|representationalism|表征主义|亦作“表象主义”|
+|representationalism|表征主义|亦作“表象主义”“表象论”|
 |Research|研究||
 |Retrocausality|逆因果关系||
 |revision theory|修正论||
