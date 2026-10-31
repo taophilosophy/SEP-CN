@@ -27,6 +27,14 @@ class TestCheckStyle(unittest.TestCase):
     def test_clean_chinese(self):
         self.assertEqual(run("# 标题\n\n这是“引号”和 **加粗** 以及 SEP 词条的空格。\n"), [])
 
+    def test_crlf_bold_at_eol(self):
+        # CRLF 文件行尾加粗不得误报“后缺空格”（splitlines 切行，\r 不参与判定）
+        self.assertEqual(run("## T\n\n**首次发表于 2004 年 8 月 3 日。**\r\n\r\n正文一段。\r\n"), [])
+
+    def test_bold_after_closing_quote(self):
+        # 右引号后紧贴开粗体：02 条款「与中文标点紧贴」允许
+        self.assertEqual(run("他说“……为真”**之前** 就已出现。\n"), [])
+
     def test_straight_quote(self):
         self.assertTrue("curly-quotes" in rules(run('他说"你好"。\n')))
 

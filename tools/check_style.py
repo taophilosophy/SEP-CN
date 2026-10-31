@@ -105,7 +105,7 @@ def check_line(path, lineno, line, issues):
             start, end = m.start(), m.end()
             before = seg[start - 1] if start > 0 else ""
             after = seg[end] if end < len(seg) else ""
-            if before and before not in " \t" and before not in "（“‘【《—…，。、；：？！）】》":
+            if before and before not in " \t" and before not in "（“‘【《—…，。、；：？！）】》”’":
                 issues.append({"path": path, "line": lineno, "rule": "bold-spacing",
                                "detail": "** 前缺空格: …%s" % seg[max(0, start - 8):end][:30]})
             if after and after not in " \t" and after not in AFTER_PUNCT:
@@ -129,7 +129,7 @@ def check_line(path, lineno, line, issues):
 
 def check_file(path):
     issues = []
-    lines = read_text(path).split("\n")
+    lines = read_text(path).splitlines()
     fence_open = False
     in_bib = False
     bib_lvl = 0
