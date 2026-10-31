@@ -222,6 +222,17 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 
 人物 20（学界通行汉译；审定库不含哲人，凭证在案）：莱纳赫（早期现象学）、吉伯德（表达主义）、贝恩（联想主义）、施米特、麦金农（激进女性主义法学）、程颢、索萨（德性知识论）、席勒、伽达默尔、沃森、王浩（哥德尔研究）、菲尔德、威克里夫、扎格泽布斯基、梅森、沃尔特斯托夫、穆罕默德（先知）、基尔文顿（牛津计算者派）、托雷蒂、杰斐逊。池清理：重分型 15（Tibetan Buddhism/Lorentz Invariance/Cartesian Meditations 等归 phrase）、rejected 9。人名表 +20、词汇表 +20；manifest tasks/manifests/2026-10-31-person-a4.json。check_all 七项全绿。
 
+### 全量落实（2026-10-31，用户裁定"落实到既有翻译/全量落实"）
+
+新工具 **term_coverage.py**：落地核销从「首现关联」扩展为**全量覆盖**——登记册 532 行 × 非存根词条（20 个）英文源词边界匹配（变音符折叠、尾 s 复数、References 尾裁、plato.stanford.edu 源头行剔除），中文正文查任一登记变体（translations 全口径）。首跑 46 缺口，逐条裁决：
+
+* **语义修正 1**：abelard "well-meaning subjectivism" 误译为「善意的相对主义」→ 主观主义（subjectivism ≠ relativism，实义错误）；
+* **审定/一致性对齐 8**：abhidharma 视觉知觉→视知觉、寻常有情→凡夫；action-perception 缪勒-莱尔→米勒-莱尔×2（审定形）；abu-bakr-al-razi 铿迪→肯迪×2；addams-jane 认识不义→认知不义；abelard 德性之人→有德之人；african-sage 补回泰勒斯、阿那克西曼德（译文漏列两贤）；
+* **登记侧变体吸收 6**：mental states +心灵状态（action.md 8 处一致使用，正当变体）、representationalism +表象论（abhidharma 佛学译语）、virtuous person +有德者/德性之人（两文档异形）、Libertas philosophandi +哲思自由、Lernfreiheit +学的自由、common good +共同善——**正文一致使用且语义无差的变体，登记册吸收优于强行改文**；
+* **已裁决保留 30**：路过性提及（prima facie plausible）、泛词义（mechanisms of guarantee/paradigm case/freedom from pain）、citation（quine 1948）、括注梵文原文（buddha-nature (tathagatagarbha)）、审定异域同名等——term_coverage 常驻报告，随词条翻译复核。
+
+三表同步：登记册 6 行变体扩充、词汇表 6 行注释看齐。check_all 七项全绿。**term_coverage 纳入常态流程**：词条翻译完成后必跑，缺口逐条裁决（对齐/吸收/保留三选一）。
+
 ### phrase 高频段首批（2026-10-31，freq≥90，18 词查证 16 词登记）
 
 审定直接命中 7：abstract objects 抽象对象（自然辩证法·科学哲学）、expected utility 期望效用（管理科学）、game theory 博弈论（审定双形：自然辩证法"博弈论"/管理科学"对策论"，后者作亦作）、intrinsic value 内在价值（技术哲学·环境伦理）、first-order logic 一阶逻辑（数学·数理逻辑）、practical reason 实践理性（科学哲学）、truth value 真值（数学·数理逻辑）。复合词佐证 1：truth conditions 真值条件（审定"真值条件语义学"）。审定双形并立 1：common knowledge 公共知识（计算机·人工智能）／共同知识（经济学）——主译采认知逻辑通行的公共知识。学界惯例 6：external world 外部世界、aesthetic experience 审美经验、pure reason 纯粹理性、modus ponens 肯定前件、common good 公共善、mathematical objects 数学对象；distributive justice 分配正义（审定"分配公平"心理学域作亦作）。人物 2：伯特兰·罗素、亚伯拉罕·伊本·以斯拉（犹太哲学）。池同步：possible worlds/possible world 既登记行 published；泛词/残片清洗 26。三表同步（登记册 +14、人名表 +2、词汇表 +16）；manifest tasks/manifests/2026-10-31-phrase-a1.json。check_all 七项全绿。
