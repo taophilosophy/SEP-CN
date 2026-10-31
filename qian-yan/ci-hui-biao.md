@@ -15,6 +15,7 @@
 |Anti-Dühring|《反杜林论》|恩格斯|
 |Anton Marty|安东·马蒂|早期现象学（布伦塔诺学派）|
 |anumāna|比量|印度量论|
+|apperception|统觉|康德/莱布尼茨术语|
 |arché|本原|亦作“始基”；希腊哲学术语|
 |aretê|德性|亦作“卓越”；希腊哲学术语|
 |Aristotelian categories|亚里士多德范畴|希腊哲学|
@@ -28,6 +29,7 @@
 |Bertrand Russell|伯特兰·罗素||
 |Bildung|教化|伽达默尔语境|
 |biodiversity|生物多样性|审定名词（多域）|
+|Bruce Bridgeman|布里奇曼|视觉/动作心理学；首现括注|
 |Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
 |Catharine MacKinnon|凯瑟琳·麦金农|激进女性主义法学|
 |causal influence|因果影响|佐证审定“因果性”|
@@ -46,8 +48,10 @@
 |Dasein|此在|海德格尔；亦作“缘在”|
 |David Armstrong|大卫·阿姆斯特朗|形而上学（共相/事态）|
 |David Hull|大卫·赫尔|生物学哲学|
+|deflationary|紧缩|「紧缩论」（deflationism）形容词形|
 |dharma|法|佛教语境；亦作“达摩”|
 |différance|延异|德里达定译|
+|Dionysius the Areopagite|亚略巴古的狄奥尼修斯|即“伪狄奥尼修斯”；教父学|
 |disability studies|残障研究|社会哲学|
 |distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
 |divine intellect|神圣理智|亦作“神性理智”；中世纪哲学|
@@ -92,6 +96,13 @@
 |intentional inexistence|意向内的存在|布伦塔诺|
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
+|John Stuart Mill|约翰·斯图亚特·穆勒|亦作“密尔”|
+|Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
+|Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
+|Robert Post|Robert Post|现代学者保留英文；通行汉译“波斯特”|
+|Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
+|Szilágyi, K.|K. 西拉吉|匈牙利学者|
+|Øystein Linnebo|林内博|数学哲学；首现括注|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |Jacques Lacan|雅克·拉康|精神分析哲学|
 |Jacques Maritain|雅克·马里旦|托马斯主义|
@@ -191,6 +202,8 @@
 |social facts|社会事实|涂尔干；社会哲学|
 |Special Relativity|狭义相对论|审定名词（物理学）|
 |Stephen Stich|斯蒂芬·斯蒂奇|实验哲学/心灵哲学|
+|Śrīgupta|室利笈多|佛教哲学家|
+|Śāntarakṣita|寂护|佛教哲学家|
 |śūnyatā|空|亦作“空性”；审定名词（哲学）|
 |svabhāva|自性|佛教|
 |tathāgatagarbha|如来藏|审定名词（哲学）|
