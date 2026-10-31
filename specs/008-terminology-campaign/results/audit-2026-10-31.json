@@ -7,9 +7,9 @@
  ],
  "counts": {
   "一致": 202,
-  "查无": 259,
-  "不一致": 48,
-  "未查证": 3
+  "查无": 260,
+  "不一致": 49,
+  "未查证": 1
  },
  "results": [
   {
@@ -5693,9 +5693,30 @@
    "term": "intelligent design",
    "trans": "智能设计论",
    "basis": "学界惯例（科学哲学与宗教哲学文献通行译法，亦作“智能设计”）；termonline 凭证待 008 战役补",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "智能设计",
+     "en": "intelligent design",
+     "source": "机械工程名词 第一分册"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "智能计算机辅助设计",
+     "en": "intelligent computer-aided design",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "智能建筑设计标准",
+     "en": "standard for design of intelligent buildings",
+     "source": "大数据百科术语辞典"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -14439,9 +14460,11 @@
    "term": "Aristippus",
    "trans": "阿里斯提普斯",
    "basis": "学界惯例（古希腊哲学史文献通行译名，昔勒尼学派创始人）；termonline 凭证待 008 战役补",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
