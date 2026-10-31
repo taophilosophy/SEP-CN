@@ -2,8 +2,72 @@
   "slug": "actualism-possibilism-ethics",
   "kind": "retranslate",
   "zh_doc": "a/actualism-possibilism-ethics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T06:41:35Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:25:58Z",
+      "evidence": "七节全译落盘：导言（前伴侣婚礼开场案例）+§1历史起源(背景假定/卡斯塔涅达不自洽论证ODC×U/伯格斯特伦回应/普拉维茨韦斯特法尔时间索引/泽尔NI)+§2可能性主义(枢纽/拖延教授/定义/能力1能力2/三反对：最坏结果建议者不对称)+§3现实主义(共同不可履行义务/G戈尔德曼/G*1程序性/索贝尔S人生可保障/杰克逊帕杰特语境主义/归并问题/ODC拒斥/两反对)+§4保障论(交通1交通2共时案例/G+完全特定同时性行动集/意图上极大/波特莫尔谨慎可保障性/罗斯MWSS宽范/撒旦绑架案例)+§5非初级义务(麦金西LO义务层级/按钮案例/戈尔德曼两层级)+§6极大主义全域主义(行动版本问题/三联合不一致原则/可口可乐百事例子)+§7结语；refs 64 条 defs 照录拼接（键集 64/64 归一化一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:25:58Z",
+      "evidence": "一校体例：EN 残留修正 respective 1 处；案例名/能力/术语中文斜体→加粗 20+ 处（学校火灾/拖延教授/琼斯/机票/交通1交通2/按钮/能力1能力2/行动版本问题等）；三连星（斜体包裹加粗）还原为单层加粗 3 处；转义星号 \\* 改 U+2217 ∗ 避免 EMPH 误配 1 处；bold-spacing 批量补外侧空格 102 处+弯引号 4 处（$$A_i$$ 引号）；check_style 0 issue；check_bold_collapse 0 候选"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:25:58Z",
+      "evidence": "二校学术：check_academic --strict 0 硬错误；题名依登记形（伦理学中的现实主义和可能性主义）；术语定案：现实主义/可能性主义（actualism/possibilism 伦理学语境，非形而上学现实论）、保障论 securitism、谨慎可保障性、极大行动集、意图上极大行动集、完全特定同时性行动集、共同不可履行义务、义务困境、归并问题、行动版本问题、极大主义/全域主义、规范继承、初级/次级/三级义务、逐刻宽范保障论 MWSS、人生最优；人名卡斯塔涅达伯格斯特伦泽尔纳普拉维茨韦斯特法尔戈尔德曼索贝尔杰克逊帕杰特齐默尔曼费尔德曼格林斯潘波特莫尔罗斯麦金西；公式 ODC/U/NI/G/G*1/S/G+/LO/Max1Max2 原样保留（\\rO\\lamp 宏照录）；案例专名拖延教授琼斯交通1交通2机票按钮教书做丘比特还是翘课学校火灾；图1 SVG 决策树引用+assets 入库；相关词条五项题名取自 SUMMARY（行动/动态选择/后果主义/规则后果主义/道义逻辑）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:25:58Z",
+      "evidence": "三校全文：check_markdown zh scope 0 hard（figure1.svg 缺失已由 en/ 复制入 assets/ 修复）；十二处引文块（费尔德曼MO/齐默尔曼2017韦斯特法尔式引文/费尔德曼建议者论执拗孩子/杰克逊帕杰特选项值/Hurley式/罗斯MWSS定义/波特莫尔谨慎可保障三条件/伍达德两处）全译；示例列表（行动集排序 1-3、交通选项 1-4、反事实 1-2/1-4）编号原样"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:27:58Z",
+      "evidence": "初审：逐节对照 yuanwen/a/actualism-possibilism-ethics.md（617行）——§1.1 四背景假定（反事实决定论/相容论/最大化后果主义/客观义务）；§1.2 卡斯塔涅达 ODC×U 矛盾生成机制与学校火灾例；§1.3 伯格斯特伦备选相容性回应/普拉维茨韦斯特法尔时间索引化/泽尔纳教书做丘比特还是翘课反例与NI；§2.1-2.2 拖延教授三选项 XYZ 排序/反事实(1)(2)/不完善道德品格驱动；§2.3 可能性主义定义/极大行动集/费尔德曼MO可能世界式/齐默尔曼WP世界可能性主义与调整后核心前瞻价值/卡尔森最小特定不变最优/沃罗贝平实可能性主义；§2.4 能力1能力2两说明与各派取舍矩阵；§2.5 最坏结果反对（高风险自杀变体）/建议者反对（执拗孩子右转例）/不对称反对（机票案例/恐飞/弗雷德失望对照/麦克莱嫩高蒂尔理性选择平行）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:32:22Z",
+      "evidence": "复审：语义复核——①actualism 译现实主义（依登记题名，与形而上学现实论区分语境已明）；②possibilism 可能性主义；③act-set 行动集/maximal 极大；④life 人生（索贝尔）、life optimum 人生最优；⑤securable 可保障/securitism 保障论/scrupulous 谨慎；⑥prosaic possibilism 平实可能性主义；⑦lumping 归并；⑧wide-scope 宽范；⑨hedon/dolor 保留英文+快乐单位/痛苦单位括注；⑩judgment-sensitive 判断敏感；⑪supererogatory 非超义务；⑫a fortiori 保留拉丁；⑬⟨⟩ 数学角括号保留原符号制；⑭致谢 Seton Hall 西东大学/NEH 国家人文基金会照译；⑮全文所有 \\rO\\lamp 宏照录未动"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:32:22Z",
+      "evidence": "终审：para_align 298/298 对（zh 残留 2=致谢标题+致谢文，EN 侧 Acknowledgments 位置差异，零缺失）；check_style 0；check_academic 0；check_bold_collapse 0；check_markdown 0 hard（figure1.svg 已入库）；check_all 7 项全绿"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-31T07:32:22Z",
+      "evidence": "六道走完 done：a/actualism-possibilism-ethics.md（七节全译+refs 64 条 defs 照录+figure1.svg 入库）；a 批 translate 进度 15/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:33Z",
   "version_pin": {

@@ -192,6 +192,7 @@ def main():
         ['academic-freedom', 'a/academic-freedom.md', 'yuanwen/a/academic-freedom.md', None],
         ['action', 'a/action.md', 'yuanwen/a/action.md', None],
         ['action-perception', 'a/action-perception.md', 'yuanwen/a/action-perception.md', None],
+        ['actualism-possibilism-ethics', 'a/actualism-possibilism-ethics.md', 'yuanwen/a/actualism-possibilism-ethics.md', None],
         ['abilities', 'a/abilities.md', 'yuanwen/a/abilities.md', None],
         ['abraham-daud', 'a/abraham-daud.md', 'yuanwen/a/abraham-daud.md', None],
         ['abrabanel', 'a/abrabanel.md', 'yuanwen/a/abrabanel.md', None],
