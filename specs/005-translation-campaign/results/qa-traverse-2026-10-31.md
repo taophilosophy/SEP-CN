@@ -417,10 +417,10 @@ C0/M2/m10；术语链一致（时空实体论/流形实体论、莱布尼茨等�
 
 **事故记录（如实）**：abduction 纠正首轮误用 `task_ops clear`——该命令是重译流程「清空译文」的破坏性动作（rules/04），致 zh_doc 被清为 1 行并随 0d0ac30f 提交；即以 `git checkout HEAD~1` 恢复 435 行全文并重放 6 处纠正（c97ccace，与父提交 diff 仅含纠正项），事故凭证已追加至任务 JSON（incident-recovery 步骤）。**教训（已入记忆）**：done 词条定点纠正禁止经 clear 走 retranslate 状态机；qa-rework 凭证以追加步骤方式记录（script/qa_rework_note.py 草稿脚本）。
 
-**移交清单**：
-1. **action.md**（C1/M6/m17）——并行会话占用工作区，移交该会话按本册 action 节执行；
-2. **登记册补行（随 008 术语战役）**：波菲利、紧缩（deflationary）、Bridgeman、Szilágyi＝西拉吉、Śāntarakṣita＝寂护、Śrīgupta＝室利笈多、Resnik＝雷斯尼克、Linnebo＝林内博、J.S.Mill＝约翰·斯图亚特·穆勒、Fish/Butler/Post、狄奥尼修斯（亚略巴古/伪狄奥尼修斯）、阿毗达磨（阿毗昙分流）；另有 abhidharma 两处译名相撞（《分别论》《阿毗达磨藏》）待裁定；
-3. **tools/管线会话**：①`check_style.py` bold-spacing 检查器与 02 条款「行尾允许紧贴」存在系统性偏差——所有 done 词条的出版信息行/文献说明行/译注行均报 3 处存量告警（各文件基线持平，未动正文）；②"空穴论证"登记（yi-zhe-shuo-ming L145）与 SUMMARY 一致，无差异；③概念级模式移交：反向 "if (and only if)"（abstract-objects L121/L158，括号存疑半边相反）待全库口径裁定。
+**移交清单**（2026-11-01 补遗轮更新）：
+1. **action.md**（C1/M6/m17）——并行会话占用工作区，移交该会话按本册 action 节执行（补遗轮复查仍被占用，继续挂起）；
+2. **登记册补行 ✅ 已由补遗轮落地（6e5e86fe）**：人名 12 行（波菲利/狄奥尼修斯/穆勒/Fish/Butler/Post/Bridgeman/Resnik/Linnebo/Szilágyi/寂护/室利笈多）＋术语 3 行（Abhidhamma/apperception/deflationary）入 ren-ming-biao 与 yi-zhe-shuo-ming，发布表同步 13 行（Abhidhamma 因与 Abhidharma 撞译名只留登记册）；termonline-standard 匿名通道查证凭证 2026-11-01 落 specs/008 results/queries/termonline-standard/；abhidharma 两处释义撞形已消解（Prakaraṇapāda 释义改《分门论》、Kośa 释义改《阿毗达磨之藏》）＋abstract-objects 反向 "if (and only if)" 两处按同一原则落定「如果（且仅当）」；
+3. **tools/管线会话**：①`check_style.py` bold-spacing 检查器与 02 条款「行尾允许紧贴」存在系统性偏差——所有 done 词条的出版信息行/文献说明行/译注行均报 3 处存量告警（各文件基线持平，未动正文）；②glossary_lint 存量积压（登记簿未发布 61 条、中文碰撞 4 组、antirealism 折叠）维持 008 战役既有清单；③登记体例张力备忘：Fish/Butler/Post/Resnik/Linnebo 等现代学者行混用「保留英文」与「汉名括注」两形，待治理会话统一裁定（rules/03 现行条文为现代学者保留英文）。
 
 **余量**：欧化语言批次（check_prose 全量 1000+ 告警：de-chain 664／long-sentence 286／passive-bei 90／weak-verb 54）按 rules/04 s2 语义逐词条执行，行号清单以 `python tools/check_prose.py <路径>` 实跑为准——本纠正轮只处理语义/术语/体例实伤与指定讹误，不做全文润改（逐句人判是 s2 的纪律边界）。
 
