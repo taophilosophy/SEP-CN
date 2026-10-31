@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T18:05:35Z",
       "evidence": "六道走完 done：a/academic-freedom.md（六节全译+note-1 译入+refs 130 条 defs 照录+其他网络资源中文题名）；a 批 translate 进度 12/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T15:47:35Z",
+      "evidence": "纠正 13 项落实：教之自由、当且仅当式增译还原 when/if/because、神职、中立与克制、nearly/among/philosopher 补、合观、人名统一（Mill 按 SUMMARY 登记形→穆勒；Fish/Butler/Post 统一外文形）、时代错置统一、qua 学生学者身份、标淮错字、学科-系科；check_academic --strict 0；style/prose 无新增。登记册移交：J.S.Mill 穆勒/Fish/Butler/Post 待 008（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
