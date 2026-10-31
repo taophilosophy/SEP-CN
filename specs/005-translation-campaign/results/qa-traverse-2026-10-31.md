@@ -420,7 +420,8 @@ C0/M2/m10；术语链一致（时空实体论/流形实体论、莱布尼茨等�
 **移交清单**（2026-11-01 补遗轮更新；11-01 夜终版）：
 1. **action.md ✅ 已纠正（ab0002f6，21 项）**——并行会话释放工作区（d22bd490 先行修复例式块与星内空格主体）后补齐其余全部发现；至此 **17/17 文件纠正闭环**；
 2. **登记册补行 ✅ 已由补遗轮落地（6e5e86fe）**：人名 12 行（波菲利/狄奥尼修斯/穆勒/Fish/Butler/Post/Bridgeman/Resnik/Linnebo/Szilágyi/寂护/室利笈多）＋术语 3 行（Abhidhamma/apperception/deflationary）入 ren-ming-biao 与 yi-zhe-shuo-ming，发布表同步 13 行（Abhidhamma 因与 Abhidharma 撞译名只留登记册）；termonline-standard 匿名通道查证凭证 2026-11-01 落 specs/008 results/queries/termonline-standard/；abhidharma 两处释义撞形已消解（Prakaraṇapāda 释义改《分门论》、Kośa 释义改《阿毗达磨之藏》）＋abstract-objects 反向 "if (and only if)" 两处按同一原则落定「如果（且仅当）」；
-3. **tools/管线会话**：①`check_style.py` bold-spacing 检查器与 02 条款「行尾允许紧贴」存在系统性偏差——所有 done 词条的出版信息行/文献说明行/译注行均报 3 处存量告警（各文件基线持平，未动正文）；②glossary_lint 存量积压（登记簿未发布 61 条、中文碰撞 4 组、antirealism 折叠）维持 008 战役既有清单；③登记体例张力备忘：Fish/Butler/Post/Resnik/Linnebo 等现代学者行混用「保留英文」与「汉名括注」两形，待治理会话统一裁定（rules/03 现行条文为现代学者保留英文）。
+3. **tools/项 ✅ 补遗二轮已修（529e78a7/126c906b）**：①`check_style.py` bold-spacing 每词条 3 条「永久误报」根因＝按 `\n` 切行致 CRLF 行尾 `\r` 进入判定——已改 `splitlines()`＋右引号紧贴对齐 02 条款＋2 例单测，全部 done 词条体例检查首次真归零（spacetime 顺修 6 处真缺空格）；②glossary_lint 中文碰撞/折叠项清零（possible worlds、truth values、anti-realism 单复数变体入 ZH_COLLISION_OK；conformality/correspondence 同词异义入白名单＋发布表备注消歧；法拉比两冗余变体行删除；antirealism 入 FOLD_DUP_OK/FOLD2_SAME_OK），登记簿未发布 61→49 条（余量全部为 008 范围：种子区阿拉伯术语、文献译名区、目录层/未 done 首现行——非缺陷，批次待 008）；③人名体例张力 → **ADR-0021（proposed）提请用户裁定**；
+4. **欧化 s2 批次**（de-chain 664/long 286/bei 90/weak 54）——唯一大余量，按 rules/04 逐词条人判执行，行号清单 `check_prose.py` 实跑即得。
 
 **余量**：欧化语言批次（check_prose 全量 1000+ 告警：de-chain 664／long-sentence 286／passive-bei 90／weak-verb 54）按 rules/04 s2 语义逐词条执行，行号清单以 `python tools/check_prose.py <路径>` 实跑为准——本纠正轮只处理语义/术语/体例实伤与指定讹误，不做全文润改（逐句人判是 s2 的纪律边界）。
 
