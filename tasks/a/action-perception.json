@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T21:03:07Z",
       "evidence": "六道走完 done：a/action-perception.md（四节全译+refs 196 条 defs 照录+3 图引用与图注译文+assets 三 PNG）；a 批 translate 进度 14/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T15:58:49Z",
+      "evidence": "纠正 18 项落实：sufficed 残留、贝克莱引文补触觉限定、surprising、破句、类比逻辑顺句、only/commands/at least/认识论义/or absence/贝克莱例、布里奇曼统一、本体感受经验、模糊性/含混区分、所交付者、就这样一直、或大或小、星内空格×3；check_academic --strict 0；style 0；prose 112（-1）。登记册移交：Bridgeman 待 008（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
