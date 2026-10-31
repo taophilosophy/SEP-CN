@@ -56,8 +56,13 @@ UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
 
 
 def norm_key(text):
-    """与 check_terms 同规的键；文件名安全化另由 safe_key。"""
-    return re.sub(r'\s+', ' ', text.replace('*', '').strip()).casefold()
+    """与 check_terms 同规的键：剥斜体标记与空白、变音符折叠（NFD，2026-10-31 修
+    ——此前无折叠致变音符行凭证文件名损坏如 aisth_sis.json、审计按折叠键查不到）、
+    casefold 比对；文件名安全化另由 safe_key。"""
+    import unicodedata
+    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
+    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
+    return re.sub(r'\s+', ' ', s).casefold()
 
 
 def safe_key(key):

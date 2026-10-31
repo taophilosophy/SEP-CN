@@ -2,46 +2,10 @@
  "key": "mulla sadra",
  "term": "Mullā Ṣadrā",
  "provider": "termonline-all",
- "queried_at": "2026-10-31T08:37:00+00:00",
- "status": "ok",
- "note": "variant=Mullā Ṣadrā; 审定公布名词库=3; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
- "hits": [
-  {
-   "cn": "细腐殖质",
-   "en": "mull",
-   "code": "02.499",
-   "standard": "土壤学名词",
-   "subject": "土壤学_土壤发生、分类和制图"
-  },
-  {
-   "cn": "细腐殖质",
-   "en": "mull,mild humus",
-   "code": "02.201",
-   "standard": "林学名词",
-   "subject": "林学_林学基础_森林土壤"
-  },
-  {
-   "cn": "石蜡糊法",
-   "en": "nujol mull method",
-   "code": "06.289",
-   "standard": "药学名词",
-   "subject": "药学_药物分析"
-  },
-  {
-   "cn": "细腐殖质",
-   "en": "mull",
-   "code": null,
-   "standard": "海峡两岸生态学名词",
-   "subject": "生态学"
-  },
-  {
-   "cn": "石蜡糊法",
-   "en": "nujol mull method",
-   "code": null,
-   "standard": "海峡两岸药学名词",
-   "subject": "药学"
-  }
- ],
+ "queried_at": "2026-10-31T08:58:18+00:00",
+ "status": "empty",
+ "note": "variant=Mullā Ṣadrā; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; match=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [],
  "error": null,
  "raw": null
 }

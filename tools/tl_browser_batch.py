@@ -118,10 +118,10 @@ def ingest(in_path, map_path=None):
     groups = {}
     order = []
     for r in results:
-        key = r.get('row_key')
-        if key is None:
-            nk = cnki_query.norm_key(r.get('term', ''))
-            key = vmap.get(nk, nk)
+        # 键统一重折叠（2026-10-31 修）：旧批次文件中的 row_key 由旧版无折叠
+        # norm_key 算出（变音符残留），照抄会让凭证文件名损坏、审计查不到
+        raw = r.get('row_key') or r.get('term', r.get('variant', ''))
+        key = cnki_query.norm_key(raw)
         if key not in groups:
             groups[key] = []
             order.append(key)

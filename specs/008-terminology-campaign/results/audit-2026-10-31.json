@@ -6,10 +6,10 @@
   "youdao-aux"
  ],
  "counts": {
-  "一致": 197,
-  "查无": 230,
-  "不一致": 46,
-  "未查证": 39
+  "一致": 202,
+  "查无": 259,
+  "不一致": 48,
+  "未查证": 3
  },
  "results": [
   {
@@ -465,9 +465,11 @@
    "term": "aisthêsis",
    "trans": "感知（希腊；亦作“感觉”）",
    "basis": "学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -475,9 +477,11 @@
    "term": "Anti-Dühring",
    "trans": "《反杜林论》（恩格斯）",
    "basis": "学界惯例（经典著作译名）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -485,9 +489,18 @@
    "term": "arché",
    "trans": "本原（亦作“始基”）",
    "basis": "学界惯例（前苏格拉底希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "本原",
+     "en": "arche",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -495,9 +508,11 @@
    "term": "anumāna",
    "trans": "比量（印度量论）",
    "basis": "学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -505,9 +520,24 @@
    "term": "aretê",
    "trans": "德性（亦作“卓越”）",
    "basis": "学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "刃脊",
+     "en": "arete",
+     "source": "地理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "刃脊",
+     "en": "arete（法）",
+     "source": "海峡两岸地理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -2673,9 +2703,11 @@
    "term": "différance",
    "trans": "延异（德里达定译）",
    "basis": "学界惯例（德里达研究通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -3086,9 +3118,11 @@
    "term": "Encyclopédie",
    "trans": "《百科全书》（狄德罗主编）",
    "basis": "学界惯例（启蒙哲学译名）；审定库无直接收录（凭证 2026-10-30）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -3205,9 +3239,11 @@
    "term": "epistêmê",
    "trans": "知识（与 doxa 意见相对）",
    "basis": "学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -3307,9 +3343,11 @@
    "term": "epoché",
    "trans": "悬搁（亦作“悬置”）",
    "basis": "学界惯例（胡塞尔现象学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -4613,9 +4651,11 @@
    "term": "Gödel’s theorem",
    "trans": "哥德尔定理",
    "basis": "学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -4623,9 +4663,11 @@
    "term": "Gödel number",
    "trans": "哥德尔数（亦作“哥德尔编号”）",
    "basis": "学界惯例（数理逻辑通行）；审定库无直接收录（凭证 2026-10-30）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -4633,9 +4675,11 @@
    "term": "Gödel sentence",
    "trans": "哥德尔句（亦作“哥德尔语句”）",
    "basis": "学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -5649,30 +5693,9 @@
    "term": "intelligent design",
    "trans": "智能设计论",
    "basis": "学界惯例（科学哲学与宗教哲学文献通行译法，亦作“智能设计”）；termonline 凭证待 008 战役补",
-   "status": "不一致",
-   "hits": [
-    {
-     "provider": "termonline-all",
-     "cn": "智能设计",
-     "en": "intelligent design",
-     "source": "机械工程名词 第一分册"
-    },
-    {
-     "provider": "termonline-all",
-     "cn": "智能计算机辅助设计",
-     "en": "intelligent computer-aided design",
-     "source": "海峡两岸信息科学技术名词"
-    },
-    {
-     "provider": "termonline-all",
-     "cn": "智能建筑设计标准",
-     "en": "standard for design of intelligent buildings",
-     "source": "大数据百科术语辞典"
-    }
-   ],
-   "providers": [
-    "termonline-all"
-   ]
+   "status": "未查证",
+   "hits": [],
+   "providers": []
   },
   {
    "table": "术语",
@@ -6038,9 +6061,30 @@
    "term": "kinêsis",
    "trans": "运动（希腊语境）",
    "basis": "学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "动态",
+     "en": "kinesis",
+     "source": "昆虫学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "动态",
+     "en": "kinesis",
+     "source": "海峡两岸生态学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "动态",
+     "en": "kinesis",
+     "source": "海峡两岸昆虫学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -6048,9 +6092,11 @@
    "term": "La Géométrie",
    "trans": "《几何学》（笛卡尔）",
    "basis": "学界惯例（笛卡尔译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -6209,9 +6255,11 @@
    "term": "Löb’s theorem",
    "trans": "勒布定理",
    "basis": "学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -6231,9 +6279,11 @@
    "term": "Lüshi chunqiu",
    "trans": "《吕氏春秋》",
    "basis": "学界惯例（典籍译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -6886,9 +6936,11 @@
    "term": "Mīmāṃsā",
    "trans": "弥曼差（亦作“弥曼沙”）",
    "basis": "学界惯例（印度哲学派名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -7128,9 +7180,30 @@
    "term": "Müller-Lyer illusion",
    "trans": "米勒-莱尔错觉",
    "basis": "审定名词库（termonline-all·心理学·认知与实验心理学，2026-10-31 浏览器通道凭证）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "米勒-莱尔错觉",
+     "en": "Müller-Lyer illusion",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "米勒-莱尔错觉",
+     "en": "Müller Lyer illusion",
+     "source": "海峡两岸心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "米勒-莱尔错觉",
+     "en": "Müller-Lyer illusion",
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -7138,9 +7211,11 @@
    "term": "mutakallimūn",
    "trans": "凯拉姆学者（亦作“教义学家”）",
    "basis": "学界惯例（伊斯兰哲学）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -8348,9 +8423,11 @@
    "term": "Pensées philosophiques",
    "trans": "《哲学思想录》（狄德罗）",
    "basis": "学界惯例（狄德罗著作译名）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -8461,9 +8538,18 @@
    "term": "phronêsis",
    "trans": "实践智慧（亦作“明智”）",
    "basis": "学界惯例（亚里士多德译本通行）；审定库无直接收录（凭证 2026-10-30）；审定库无直接收录（凭证 2026-10-30）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "实践智慧",
+     "en": "phronesis",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -8978,9 +9064,11 @@
    "term": "pratyakṣa",
    "trans": "现量（印度量论）",
    "basis": "学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10048,9 +10136,11 @@
    "term": "Rubā‘iyyāt",
    "trans": "《鲁拜集》（海亚姆四行诗）",
    "basis": "学界惯例（波斯文学译名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10058,9 +10148,11 @@
    "term": "saṃsāra",
    "trans": "轮回",
    "basis": "学界惯例（佛典译语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10131,9 +10223,18 @@
    "term": "naïve realism",
    "trans": "朴素实在论",
    "basis": "审定名词库（termonline-all·自然辩证法名词·科学哲学，2026-10-30 浏览器通道凭证）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "朴素实在论",
+     "en": "naive realism",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10141,9 +10242,36 @@
    "term": "schêma",
    "trans": "图型（康德；亦作“图式”）",
    "basis": "学界惯例（康德译本通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "图式",
+     "en": "schema",
+     "source": "行为医学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "模式",
+     "en": "schema",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "图式",
+     "en": "schema",
+     "source": "心理学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "图式",
+     "en": "schema",
+     "source": "海峡两岸心理学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10351,9 +10479,11 @@
    "term": "Löwenheim-Skolem theorem",
    "trans": "勒文海姆–斯科伦定理（亦作“L-S定理”）",
    "basis": "学界惯例（数理逻辑通行）；审定库缩略形“降L-S定理”在案（凭证 2026-10-30）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10893,9 +11023,11 @@
    "term": "śūnyatā",
    "trans": "空（佛教；亦作“空性”）",
    "basis": "审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10917,9 +11049,11 @@
    "term": "svabhāva",
    "trans": "自性（佛教）",
    "basis": "学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30）；审定库精确查无（凭证 2026-10-30）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10927,9 +11061,18 @@
    "term": "taṣdīq",
    "trans": "断定（阿拉伯逻辑学；与 taṣawwur 概念相对）",
    "basis": "学界惯例（阿拉伯逻辑学）；审定库仅模糊噪声命中（凭证 2026-10-31）",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "TA克隆",
+     "en": null,
+     "source": "维基百科"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10937,9 +11080,11 @@
    "term": "technê",
    "trans": "技艺（亦作“技术”）",
    "basis": "学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -10985,9 +11130,11 @@
    "term": "theōria",
    "trans": "静观（亦作“沉思”）",
    "basis": "学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -11305,9 +11452,11 @@
    "term": "tathāgatagarbha",
    "trans": "如来藏",
    "basis": "审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -11315,9 +11464,11 @@
    "term": "vijñāna",
    "trans": "识（佛教）",
    "basis": "审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -11536,9 +11687,11 @@
    "term": "waḥdat al-wujūd",
    "trans": "存在单一论（亦作“存在统一论”）",
    "basis": "学界惯例（伊斯兰哲学（伊本·阿拉比学派））；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -11560,9 +11713,11 @@
    "term": "īśvara",
    "trans": "自在天（亦作“自在”）",
    "basis": "学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -11570,9 +11725,11 @@
    "term": "yì",
    "trans": "义（義）",
    "basis": "学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -13752,9 +13909,11 @@
    "term": "Gómez Pereira",
    "trans": "戈麦斯·佩雷拉",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
@@ -14280,11 +14439,9 @@
    "term": "Aristippus",
    "trans": "阿里斯提普斯",
    "basis": "学界惯例（古希腊哲学史文献通行译名，昔勒尼学派创始人）；termonline 凭证待 008 战役补",
-   "status": "查无",
+   "status": "未查证",
    "hits": [],
-   "providers": [
-    "termonline-all"
-   ]
+   "providers": []
   },
   {
    "table": "人名",
