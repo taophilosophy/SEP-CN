@@ -1,0 +1,25 @@
+{
+ "batch": "2026-10-31-person-a6",
+ "scope": "person 查遗续批（rank 190-260）：人物 22 + 术语 2 直裁（审定查无凭证在案）+ 池清理重分型 25 拒 12",
+ "published_persons": [
+  {"en": "Maximus Confessor", "zh": "马克西姆·忏悔者"}, {"en": "John Toland", "zh": "约翰·托兰德"},
+  {"en": "Van Helmont", "zh": "范·海尔蒙特"}, {"en": "Sewall Wright", "zh": "休厄尔·赖特"},
+  {"en": "Jerrold Levinson", "zh": "杰罗德·莱文森"}, {"en": "Theodor Lipps", "zh": "西奥多·李普斯"},
+  {"en": "King Milinda", "zh": "弥兰陀王（亦作“米兰达王”）"}, {"en": "Aulus Gellius", "zh": "奥卢斯·盖利乌斯"},
+  {"en": "Anton Marty", "zh": "安东·马蒂"}, {"en": "Benjamin Franklin", "zh": "本杰明·富兰克林"},
+  {"en": "Dana Scott", "zh": "达纳·斯科特"}, {"en": "Jacques Lacan", "zh": "雅克·拉康"},
+  {"en": "Jan Łukasiewicz", "zh": "扬·卢卡西维茨"}, {"en": "Paul Tillich", "zh": "保罗·蒂利希"},
+  {"en": "Christopher Peacocke", "zh": "克里斯托弗·皮科克"}, {"en": "Friedrich Schleiermacher", "zh": "弗里德里希·施莱尔马赫"},
+  {"en": "Lord Kames", "zh": "凯姆斯勋爵"}, {"en": "Alexander Crummell", "zh": "亚历山大·克拉梅尔"},
+  {"en": "William Heytesbury", "zh": "威廉·海特斯伯里"}, {"en": "Wang Fuzhi", "zh": "王夫之"},
+  {"en": "David Armstrong", "zh": "大卫·阿姆斯特朗"}, {"en": "John XXII", "zh": "约翰二十二世"},
+  {"en": "George Washington", "zh": "乔治·华盛顿"}
+ ],
+ "published_terms": [
+  {"en": "poetic wisdom", "zh": "诗性智慧", "basis": "学界惯例（维柯《新科学》）"},
+  {"en": "intentional inexistence", "zh": "意向内的存在", "basis": "学界惯例（布伦塔诺）"}
+ ],
+ "pool_cleanup": "重分型 25（Indirectness Principle/Nyāya School/Temporal Asymmetry/Skolem Theorem/Warsaw School 等归 phrase）；rejected 12（日期残片/编号/虚构/机构/现代学者对）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（25 键，tl-person-a6 四批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +2 行、ren-ming-biao.md +22 行、ci-hui-biao.md +24 行"
+}
