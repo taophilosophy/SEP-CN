@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T17:28:57Z",
       "evidence": "六道走完 done：a/abu-bakr-al-razi.md（六节全译+primary 表格照录+refs 48 条 defs 照录）；a 批 translate 进度 11/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T16:13:55Z",
+      "evidence": "纠正 7 项落实：调和而理性主义、肯迪（按 ren-ming-biao 登记形统一）、仅在此意义上、拉齐曾就、据其他材料所知、尤其、计划；check_academic --strict 0；style/prose 持平（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

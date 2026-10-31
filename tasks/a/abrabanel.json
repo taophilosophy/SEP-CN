@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-29T19:35:22Z",
       "evidence": "六道走完 done：a/abrabanel.md（七节+67 脚注全译+refs 48 条 defs 照录 Editions 6/Secondary 42）；a 批 translate 进度 7/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T16:13:54Z",
+      "evidence": "纠正 8 项落实：全部或大部分（tutta o ver 已核）、不止于、出自编辑之手、雄辩+削弱犹太人信仰补译、not only…but also、删尾冗拉比、天界诸力、卷次；check_academic --strict 0；style/prose 持平。禁修 2 处未动（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T16:20:22Z",
       "evidence": "六道走完 done：a/abraham-daud.md（七节全译+note-1/2 译入+refs 58 条 defs 照录）；a 批 translate 进度 9/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T16:13:55Z",
+      "evidence": "纠正 7 项落实：删三名单增译（仅留伊本·扎迪克）、伊本·埃兹拉→亚伯拉罕·伊本·以斯拉（按登记形）、生命之源统一、K. 西拉吉（Szilágyi）、受影响、1477–1497 补、非存在；check_academic --strict 0；style 持平；prose 40→39。登记册移交：Szilágyi 待 008（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
