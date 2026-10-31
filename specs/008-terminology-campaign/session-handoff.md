@@ -12,12 +12,30 @@
 2. `python tools/term_audit.py`——看当前四态分布与未查证清单（报告在 `specs/008-terminology-campaign/results/`）；
 3. 按下表认领下一批（认领记录写在本文件“执行认领”节，commit 留痕）。
 
-## 状态基线（2026-10-28 B0 收工）
+## 状态基线（2026-10-31 多语种战役收官）
 
 | 资产 | 状态 |
 | ---- | ---- |
-| ADR-0012 + rules/03 + ren-ming-biao.md 拆分 | 已入库（16b325ac），154 术语 + 19 人名五列 |
-| check_terms 三表门禁 | 已挂 check_all，全绿 |
+| 登记册两表 | yi-zhe-shuo-ming.md ~475 行 + ren-ming-biao.md ~73 行（多语种战役累计落册 ~210 行） |
+| 候选池 | 75594 条：已裁定 ~1130（published ~330 / held 28 / rejected ~770）、new 余量=中低频长尾（随词条翻译核定，不再整批跑） |
+| 提取器 | term_harvest 多语种版（topic/六种原文文字/foreign 重分类），动态增量：词条入库后 `--refresh` 或按字母批次补提 |
+| 查证通道 | 审定库浏览器通道主力（S.O.P. 见 contracts/browser-channel.md）+ standard/youdao 辅助档；**激活机制=搜索页导航**（首页 reload 不激活） |
+| 门禁 | check_terms 三表+落地核销两层语义（变体感知/涟漪信号）+ check_all 七项 |
+| 技能 | termonline-batch（ZCode 项目级）：说「术语跑批/查证下一批」即按 S.O.P. 执行 |
+| held | 28 条（来源未译，裁决点=词条翻译时；probabilism/taṣdīq 等已结清 4） |
+| 系统批处理收官结论 | foreign ≥18 / phrase ≥40 / topic 高频 / person ≥15 / greek 原文 各段扫完；低频长尾整批跑收益递减（40-60 段实证泛词主导） |
+
+## 常态流程（系统批处理收官后）
+
+1. **词条翻译期**：新词条 intake/translate 时，`python tools/check_terms.py --docs <词条>` 核销正文术语与登记册一致性；池内该词条来源的 new 候选就地核定（A/C 分档）。
+2. **登记变更**：主译变更 → Edit 两登记册（五列，禁维基）→ ci-hui-biao 看齐 → `--docs` 复核涟漪（主译待对齐信号）→ 正文看齐。
+3. **增量提取**：新词条入库后 `python tools/term_harvest.py --refresh`（或 --letter）补提候选。
+4. **多会话**：认领照旧写本卡「执行认领」节；批次工具与节奏全部固化在 termonline-batch 技能。
+
+## 状态基线·历史存档（B0-第六轮，2026-10-28/29）
+
+| 资产 | 状态 |
+| ---- | ---- |
 | term-pool.json 全库候选池 | 61997 条/26MB（2426 件逐篇遍历；phrase18990/italic25049/person8295/quoted8803/ism860） |
 | 查证凭证 termonline-standard | 两登记册 234 键全量（含 ADR-0013 新增 43 键），凭证 235 份入库 |
 | 查证凭证 youdao-aux（P0 换站） | **双通道投产**：有道词典 286 份凭证（ok 157/命中 684 条，按学科分组，供裁定辅助与多义区分；辅助参考档不作依据）；审计终态 一致126/不一致31/查无128 |
