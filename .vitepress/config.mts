@@ -321,6 +321,46 @@ export default defineConfig({
         tokens[idx].attrSet('v-pre', '')
         return defaultCodeInline(tokens, idx, options, env, self)
       }
+      // 参考文献就地全量渲染（2026-10-31 裁定：词条保持底稿形态不动，站点层补显示）。
+      // 内置 footnoteTail（vendored markdown-it-footnote）只渲染被正文引用过的脚注
+      // 定义，未被引用的定义组被静默丢弃——abduction 125 条定义仅 48 条被正文引用，
+      // 77 条不出现在页面任何位置，致「## 参考文献」下观感为空（ADR-0017 实测证据）。
+      // 本规则注册于 footnoteTail 之前（ruler.after 后注册者先跑）：把全部
+      // footnote_reference_open/close 定义组按文件顺序转成完整列表，插回首个定义组
+      // 原位（即标题之下）；定义组本体原样保留，由 footnoteTail 照旧剔除并在文末
+      // 生成仅含被引用条目的脚注区——回跳锚与 littlefoot 气泡内容源均不受影响。
+      // 自定义 token 类型与类名和脚注体系隔离，避开 littlefoot 对脚注容器的
+      // 清空删除逻辑；li 加 v-pre（定义行含字面 {{ 的实例如
+      // yuanwen/z/zermelo-set-theory note-29），杜绝新渲染内容触发 Vue 插值。
+      md.core.ruler.after('inline', 'refsInPlace', (state) => {
+        const { tokens, Token } = state
+        const groups: { start: number; end: number; tokens: typeof tokens }[] = []
+        let open = -1
+        for (let i = 0; i < tokens.length; i++) {
+          const type = tokens[i].type
+          if (type === 'footnote_reference_open') {
+            open = i
+          } else if (type === 'footnote_reference_close' && open >= 0) {
+            groups.push({ start: open, end: i, tokens: tokens.slice(open + 1, i) })
+            open = -1
+          }
+        }
+        if (groups.length === 0) return
+        const list = [new Token('refs_list_open', 'ol', 1)]
+        for (const g of groups) {
+          list.push(
+            new Token('refs_item_open', 'li', 1),
+            ...g.tokens,
+            new Token('refs_item_close', 'li', -1),
+          )
+        }
+        list.push(new Token('refs_list_close', 'ol', -1))
+        tokens.splice(groups[0].start, 0, ...list)
+      })
+      md.renderer.rules.refs_list_open = () => '<ol class="refs-full-list">\n'
+      md.renderer.rules.refs_list_close = () => '</ol>\n'
+      md.renderer.rules.refs_item_open = () => '<li v-pre>\n'
+      md.renderer.rules.refs_item_close = () => '</li>\n'
     },
   },
   themeConfig: {
