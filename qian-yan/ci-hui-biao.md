@@ -17,6 +17,7 @@
 |aretê|德性|亦作“卓越”；希腊哲学术语|
 |Aristotelian categories|亚里士多德范畴|希腊哲学|
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
+|Bahya ibn Paquda|巴希亚·伊本·帕库达|犹太哲学家；《心的职责》|
 |Bedeutung|意义|弗雷格语境；亦作“意谓”|
 |belief formation|信念形成|认识论|
 |Bertrand Russell|伯特兰·罗素||
@@ -70,6 +71,7 @@
 |Hilary Putnam|希拉里·普特南||
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
+|Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
 |identity relation|同一关系|逻辑学/形而上学|
 |intelligible forms|可理知形式|柏拉图/中世纪哲学|
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
