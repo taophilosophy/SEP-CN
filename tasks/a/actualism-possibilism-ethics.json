@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-31T07:32:22Z",
       "evidence": "六道走完 done：a/actualism-possibilism-ethics.md（七节全译+refs 64 条 defs 照录+figure1.svg 入库）；a 批 translate 进度 15/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T14:53:26Z",
+      "evidence": "纠正 15 项落实（交通案例两条件句前件互换复原＋补 than-if 比较从句、conditional 补词、部分-整体倒置、intrapersonal、衍字破句、卡车、（（×3、pro tanto 斜体等）；check_academic --strict 0 硬错误；check_style/prose 零新增。禁修项 2 处未动（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
