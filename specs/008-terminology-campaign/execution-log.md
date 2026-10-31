@@ -226,6 +226,20 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 
 人物 22（学界通行汉译）：马克西姆·忏悔者、约翰·托兰德、范·海尔蒙特、休厄尔·赖特、杰罗德·莱文森、西奥多·李普斯（移情理论）、弥兰陀王（亦作"米兰达王"·那先比丘经）、奥卢斯·盖利乌斯、安东·马蒂（布伦塔诺学派）、本杰明·富兰克林、达纳·斯科特、雅克·拉康、扬·卢卡西维茨（华沙学派）、保罗·蒂利希、克里斯托弗·皮科克、弗里德里希·施莱尔马赫、凯姆斯勋爵、亚历山大·克拉梅尔、威廉·海特斯伯里（牛津计算者派）、王夫之、大卫·阿姆斯特朗、约翰二十二世、乔治·华盛顿。术语 2：poetic wisdom 诗性智慧（维柯）、intentional inexistence 意向内的存在（布伦塔诺）。池清理：重分型 25（Indirectness Principle/Nyāya School/Skolem Theorem/Warsaw School 等归 phrase）、rejected 12。三表同步（登记册 +2、人名表 +22、词汇表 +24）；manifest tasks/manifests/2026-10-31-person-a6.json。check_all 七项全绿。
 
+### person A6 批（2026-10-31，深扫 rank 190-260，25 词登记）
+
+人物 22（学界通行汉译）：马克西姆·忏悔者、约翰·托兰德、范·海尔蒙特、休厄尔·赖特、杰罗德·莱文森、西奥多·李普斯（移情理论）、弥兰陀王（亦作"米兰达王"·那先比丘经）、奥卢斯·盖利乌斯、安东·马蒂（布伦塔诺学派）、本杰明·富兰克林、达纳·斯科特、雅克·拉康、扬·卢卡西维茨（华沙学派）、保罗·蒂利希、克里斯托弗·皮科克、弗里德里希·施莱尔马赫、凯姆斯勋爵、亚历山大·克拉梅尔、威廉·海特斯伯里（牛津计算者派）、王夫之、大卫·阿姆斯特朗、约翰二十二世、乔治·华盛顿。术语 2：poetic wisdom 诗性智慧（维柯）、intentional inexistence 意向内的存在（布伦塔诺）。池清理：重分型 25（Indirectness Principle/Nyāya School/Skolem Theorem/Warsaw School 等归 phrase）、rejected 12。三表同步（登记册 +2、人名表 +22、词汇表 +24）；manifest tasks/manifests/2026-10-31-person-a6.json。check_all 七项全绿。
+
+### 术语关系审计（2026-10-31，用户裁定"复核一词多义/重名/别名/匿名"）
+
+新工具 **term_relations.py**（只报告不修改），四类关系全量核验（20 词条 × 登记行 583）：
+
+* **①重名 3 组，全为良性同义形**：antirealism/anti-realism（连字符异体）、natural number/numbers（单复数）、Bell inequalities/inequality（单复数）——同概念双行登记系为匹配不同词形而设，非冲突。
+* **②别名**：归并行 24（含 Mencius/Mengzi、Laozi/Lao Tzu 人书同键、Muʿtazila/Muʿtazilism 等）+ 亦作链 69 行——设计内。
+* **③一词多义 11 行**：Constitution 构造；宪法、idealism 唯心论；观念论、rationalism 唯理论；理性主义、kalām 凯拉姆；伊斯兰教义学等——均按语境分行使用，属行内既定多义。
+* **④匿名 3430**（freq≥2 未登记候选，长尾为主体）：其中**词条核心术语**（高频斜体/短语，译者在正文实际使用）为真缺口——abhidharma：dharmas/citta（按册首约定梵文斜体保留，非缺口）；abilities：conditional analysis×29/modal analysis×15；action：intentional action×53/practical knowledge×29/constitutive aim×30；actualism-possibilism-ethics：Actualism×74/Possibilism×66/极大行动集（A批已定案于正文）；advance-directives：current self×40/earlier self×31；abstract-objects：concrete objects×37/abstract entities×31；academic-freedom：extramural speech×15；action-perception：efference copy×19/retinal image×18/enactive approach×16；addams-jane：care ethics×15；abortion：violinist case×18/full moral status×17。**这批词条核心术语的登记 = 下一批次队列**（翻译会话"术语定案"于正文者，需回填登记册）。
+* 报告落盘 specs/008-terminology-campaign/results/relations-2026-10-31.txt；term_relations 纳入常态流程（词条翻译完成必跑，与 term_coverage/term_audit 三件套）。
+
 ### person A7 批（2026-10-31，深扫 rank 260-335，24 人物登记）
 
 人物 24（学界通行汉译）：斯坎伦（道德契约论）、吉尔伯特（社会本体论）、居里（审定"居里"在案）、贝尔奈斯（希尔伯特学派）、本居宣长（日本国学）、哈丽雅特·泰勒（密尔合作者）、哈丁（立场认识论）、纳博尼（犹太-伊斯兰）、汉密尔顿（苏格兰常识）、魏斯曼（维也纳学派）、斯坦利（宣言之知）、戴德金（审定"戴德金"在案·数学）、斯坦纳（分析马克思主义）、拜尔（代理情感）、卡莱尔、丹托（分析美学）、韦斯特、波普金（怀疑论史）、阿尔都塞（结构主义）、奥迪（宗教知识论）、普塞洛斯（拜占庭）、策梅洛（集合论）、斯蒂奇（实验哲学）、温萨特（生物学哲学）。池清理：重分型 23、rejected 19。人名表 +24、词汇表 +24；manifest tasks/manifests/2026-10-31-person-a7.json。
