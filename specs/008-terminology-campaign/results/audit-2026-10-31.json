@@ -7,8 +7,8 @@
  ],
  "counts": {
   "一致": 202,
-  "查无": 261,
-  "不一致": 49
+  "查无": 281,
+  "不一致": 51
  },
  "results": [
   {
@@ -1580,8 +1580,8 @@
    "table": "术语",
    "line": 65,
    "term": "common good",
-   "trans": "公共善",
-   "basis": "学界惯例（政治哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31）",
+   "trans": "公共善（亦作“共同善”）",
+   "basis": "学界惯例（政治哲学通行）；审定库无相关命中（凭证 2026-10-31）",
    "status": "查无",
    "hits": [],
    "providers": [
@@ -6163,7 +6163,7 @@
    "table": "术语",
    "line": 184,
    "term": "Lernfreiheit",
-   "trans": "学习自由",
+   "trans": "学习自由（亦作“学的自由”）",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
    "status": "查无",
    "hits": [],
@@ -6204,7 +6204,7 @@
    "table": "术语",
    "line": 186,
    "term": "Libertas philosophandi",
-   "trans": "哲学思考自由",
+   "trans": "哲学思考自由（亦作“哲思自由”）",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
    "status": "查无",
    "hits": [],
@@ -11458,7 +11458,7 @@
    "table": "术语",
    "line": 346,
    "term": "virtuous person",
-   "trans": "有德之人（德性伦理学）",
+   "trans": "有德之人（德性伦理学；亦作“有德者”“德性之人”）",
    "basis": "学界惯例；审定库无直接收录（凭证 2026-10-30）",
    "status": "查无",
    "hits": [],
@@ -12167,7 +12167,7 @@
    "table": "术语",
    "line": 390,
    "term": "representationalism",
-   "trans": "表征主义（亦作“表象主义”）",
+   "trans": "表征主义（亦作“表象主义”“表象论”）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
    "status": "不一致",
    "hits": [
@@ -12977,7 +12977,7 @@
    "table": "术语",
    "line": 409,
    "term": "mental states",
-   "trans": "心理状态（亦作“精神状态”，按语境）",
+   "trans": "心理状态（亦作“精神状态”“心灵状态”，按语境）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
    "status": "一致",
    "hits": [
@@ -13842,6 +13842,18 @@
   {
    "table": "人名",
    "line": 12,
+   "term": "Adolf Reinach",
+   "trans": "阿道夫·莱纳赫",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 13,
    "term": "Alain Locke",
    "trans": "阿兰·洛克",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13853,7 +13865,43 @@
   },
   {
    "table": "人名",
-   "line": 13,
+   "line": 14,
+   "term": "Alexander Bain",
+   "trans": "亚历山大·贝恩",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 15,
+   "term": "Allan Gibbard",
+   "trans": "艾伦·吉伯德",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 16,
+   "term": "Bahya ibn Paquda",
+   "trans": "巴希亚·伊本·帕库达",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 17,
    "term": "Bertrand Russell",
    "trans": "伯特兰·罗素",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13865,7 +13913,31 @@
   },
   {
    "table": "人名",
-   "line": 14,
+   "line": 18,
+   "term": "Carl Schmitt",
+   "trans": "卡尔·施米特",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 19,
+   "term": "Catharine MacKinnon",
+   "trans": "凯瑟琳·麦金农",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 20,
    "term": "Charles Mills",
    "trans": "查尔斯·米尔斯",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13877,7 +13949,19 @@
   },
   {
    "table": "人名",
-   "line": 15,
+   "line": 21,
+   "term": "Cheng Hao",
+   "trans": "程颢",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 22,
    "term": "David Hull",
    "trans": "大卫·赫尔",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13889,7 +13973,7 @@
   },
   {
    "table": "人名",
-   "line": 16,
+   "line": 23,
    "term": "Duns Scotus",
    "trans": "邓斯·司各脱（亦作“司各脱”）",
    "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
@@ -13901,7 +13985,7 @@
   },
   {
    "table": "人名",
-   "line": 17,
+   "line": 24,
    "term": "Edith Stein",
    "trans": "艾迪特·施泰因",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13913,7 +13997,19 @@
   },
   {
    "table": "人名",
-   "line": 18,
+   "line": 25,
+   "term": "Ernest Sosa",
+   "trans": "欧内斯特·索萨",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 26,
    "term": "Fred Dretske",
    "trans": "弗雷德·德雷斯基",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13925,7 +14021,43 @@
   },
   {
    "table": "人名",
-   "line": 19,
+   "line": 27,
+   "term": "Friedrich Schiller",
+   "trans": "弗里德里希·席勒",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 28,
+   "term": "Gary Watson",
+   "trans": "加里·沃森",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 29,
+   "term": "Georg Gadamer",
+   "trans": "格奥尔格·伽达默尔",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 30,
    "term": "Gómez Pereira",
    "trans": "戈麦斯·佩雷拉",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13937,7 +14069,7 @@
   },
   {
    "table": "人名",
-   "line": 20,
+   "line": 31,
    "term": "Gottlob Frege",
    "trans": "戈特洛布·弗雷格",
    "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
@@ -13949,7 +14081,7 @@
   },
   {
    "table": "人名",
-   "line": 21,
+   "line": 32,
    "term": "Hans Hahn",
    "trans": "汉斯·哈恩",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13961,7 +14093,38 @@
   },
   {
    "table": "人名",
-   "line": 22,
+   "line": 33,
+   "term": "Hao Wang",
+   "trans": "王浩",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "好太王碑",
+     "en": "Hao tai wang Stele",
+     "source": "民族学与文化学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 34,
+   "term": "Hartry Field",
+   "trans": "哈特里·菲尔德",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 35,
    "term": "Hilary Putnam",
    "trans": "希拉里·普特南",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -13973,7 +14136,7 @@
   },
   {
    "table": "人名",
-   "line": 23,
+   "line": 36,
    "term": "Hui Shi",
    "trans": "惠施",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14010,7 +14173,19 @@
   },
   {
    "table": "人名",
-   "line": 24,
+   "line": 37,
+   "term": "Ibn Zaddiq",
+   "trans": "伊本·扎迪克",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 38,
    "term": "Immanuel Kant",
    "trans": "伊曼努尔·康德",
    "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
@@ -14022,7 +14197,7 @@
   },
   {
    "table": "人名",
-   "line": 25,
+   "line": 39,
    "term": "Jacques Maritain",
    "trans": "雅克·马里旦",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14034,7 +14209,7 @@
   },
   {
    "table": "人名",
-   "line": 26,
+   "line": 40,
    "term": "Jaegwon Kim",
    "trans": "金在权",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14046,7 +14221,7 @@
   },
   {
    "table": "人名",
-   "line": 27,
+   "line": 41,
    "term": "Johannes Kepler",
    "trans": "约翰内斯·开普勒",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14058,7 +14233,7 @@
   },
   {
    "table": "人名",
-   "line": 28,
+   "line": 42,
    "term": "John Dewey",
    "trans": "约翰·杜威",
    "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
@@ -14070,7 +14245,7 @@
   },
   {
    "table": "人名",
-   "line": 29,
+   "line": 43,
    "term": "John Locke",
    "trans": "约翰·洛克",
    "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
@@ -14089,7 +14264,7 @@
   },
   {
    "table": "人名",
-   "line": 30,
+   "line": 44,
    "term": "John Rawls",
    "trans": "约翰·罗尔斯",
    "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
@@ -14101,7 +14276,19 @@
   },
   {
    "table": "人名",
-   "line": 31,
+   "line": 45,
+   "term": "John Wyclif",
+   "trans": "约翰·威克里夫",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 46,
    "term": "Jonathan Bennett",
    "trans": "乔纳森·贝内特",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14113,7 +14300,7 @@
   },
   {
    "table": "人名",
-   "line": 32,
+   "line": 47,
    "term": "Leopoldo Zea",
    "trans": "莱奥波尔多·塞亚",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14125,7 +14312,19 @@
   },
   {
    "table": "人名",
-   "line": 33,
+   "line": 48,
+   "term": "Linda Zagzebski",
+   "trans": "琳达·扎格泽布斯基",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 49,
    "term": "Marcus Aurelius",
    "trans": "马可·奥勒留",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14137,7 +14336,7 @@
   },
   {
    "table": "人名",
-   "line": 34,
+   "line": 50,
    "term": "Margaret Fuller",
    "trans": "玛格丽特·富勒",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14149,7 +14348,26 @@
   },
   {
    "table": "人名",
-   "line": 35,
+   "line": 51,
+   "term": "Marin Mersenne",
+   "trans": "马兰·梅森",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "梅森",
+     "en": "Mersenne\",\"Marin(法国)",
+     "source": "海峡两岸音乐名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 52,
    "term": "Mary Astell",
    "trans": "玛丽·阿斯特尔",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14161,7 +14379,7 @@
   },
   {
    "table": "人名",
-   "line": 36,
+   "line": 53,
    "term": "Max Horkheimer",
    "trans": "马克斯·霍克海默",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14173,7 +14391,7 @@
   },
   {
    "table": "人名",
-   "line": 37,
+   "line": 54,
    "term": "Michael Smith",
    "trans": "迈克尔·史密斯",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14185,7 +14403,7 @@
   },
   {
    "table": "人名",
-   "line": 38,
+   "line": 55,
    "term": "Mou Zongsan",
    "trans": "牟宗三",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14197,7 +14415,7 @@
   },
   {
    "table": "人名",
-   "line": 39,
+   "line": 56,
    "term": "Nancy Cartwright",
    "trans": "南希·卡特赖特",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14209,7 +14427,19 @@
   },
   {
    "table": "人名",
-   "line": 40,
+   "line": 57,
+   "term": "Nicholas Wolterstorff",
+   "trans": "尼古拉斯·沃尔特斯托夫",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 58,
    "term": "Paul Grice",
    "trans": "保罗·格赖斯",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14221,7 +14451,19 @@
   },
   {
    "table": "人名",
-   "line": 41,
+   "line": 59,
+   "term": "Prophet Muhammad",
+   "trans": "穆罕默德（先知）",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 60,
    "term": "Richard Jeffrey",
    "trans": "理查德·杰弗里",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14233,7 +14475,19 @@
   },
   {
    "table": "人名",
-   "line": 42,
+   "line": 61,
+   "term": "Richard Kilvington",
+   "trans": "理查德·基尔文顿",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 62,
    "term": "Richard Price",
    "trans": "理查德·普莱斯",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14245,7 +14499,7 @@
   },
   {
    "table": "人名",
-   "line": 43,
+   "line": 63,
    "term": "Richard Rufus",
    "trans": "理查德·鲁弗斯（Richard Rufus of Cornwall）",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14257,7 +14511,7 @@
   },
   {
    "table": "人名",
-   "line": 44,
+   "line": 64,
    "term": "Robert Adams",
    "trans": "罗伯特·亚当斯",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14269,7 +14523,7 @@
   },
   {
    "table": "人名",
-   "line": 45,
+   "line": 65,
    "term": "Robert Brandom",
    "trans": "罗伯特·布兰登",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14281,7 +14535,19 @@
   },
   {
    "table": "人名",
-   "line": 46,
+   "line": 66,
+   "term": "Roberto Torretti",
+   "trans": "罗伯托·托雷蒂",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 67,
    "term": "Roger Scruton",
    "trans": "罗杰·斯克鲁顿",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14293,7 +14559,7 @@
   },
   {
    "table": "人名",
-   "line": 47,
+   "line": 68,
    "term": "Roman Ingarden",
    "trans": "罗曼·英加尔登",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14305,7 +14571,7 @@
   },
   {
    "table": "人名",
-   "line": 48,
+   "line": 69,
    "term": "Sextus Empiricus",
    "trans": "塞克斯都·恩披里柯（亦作“恩培里柯”）",
    "basis": "学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30）",
@@ -14317,7 +14583,7 @@
   },
   {
    "table": "人名",
-   "line": 49,
+   "line": 70,
    "term": "Sima Qian",
    "trans": "司马迁",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14329,7 +14595,7 @@
   },
   {
    "table": "人名",
-   "line": 50,
+   "line": 71,
    "term": "Thomas Hobbes",
    "trans": "托马斯·霍布斯",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14341,7 +14607,19 @@
   },
   {
    "table": "人名",
-   "line": 51,
+   "line": 72,
+   "term": "Thomas Jefferson",
+   "trans": "托马斯·杰斐逊",
+   "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 73,
    "term": "Thomas Paine",
    "trans": "托马斯·潘恩",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14353,7 +14631,7 @@
   },
   {
    "table": "人名",
-   "line": 52,
+   "line": 74,
    "term": "Tycho Brahe",
    "trans": "第谷·布拉赫",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14365,7 +14643,7 @@
   },
   {
    "table": "人名",
-   "line": 53,
+   "line": 75,
    "term": "Wilhelm Wundt",
    "trans": "威廉·冯特",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14377,7 +14655,7 @@
   },
   {
    "table": "人名",
-   "line": 54,
+   "line": 76,
    "term": "Yan Hui",
    "trans": "颜回",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14396,7 +14674,7 @@
   },
   {
    "table": "人名",
-   "line": 55,
+   "line": 77,
    "term": "Yang Zhu",
    "trans": "杨朱",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14415,7 +14693,7 @@
   },
   {
    "table": "人名",
-   "line": 56,
+   "line": 78,
    "term": "Zhou Dunyi",
    "trans": "周敦颐",
    "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）",
@@ -14427,7 +14705,7 @@
   },
   {
    "table": "人名",
-   "line": 59,
+   "line": 81,
    "term": "Alcmaeon",
    "trans": "阿尔克迈翁",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -14441,7 +14719,7 @@
   },
   {
    "table": "人名",
-   "line": 60,
+   "line": 82,
    "term": "Anaximander",
    "trans": "阿那克西曼德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -14455,7 +14733,7 @@
   },
   {
    "table": "人名",
-   "line": 61,
+   "line": 83,
    "term": "Aristippus",
    "trans": "阿里斯提普斯",
    "basis": "学界惯例（古希腊哲学史文献通行译名，昔勒尼学派创始人）；termonline 凭证待 008 战役补",
@@ -14467,7 +14745,7 @@
   },
   {
    "table": "人名",
-   "line": 62,
+   "line": 84,
    "term": "Anaximenes",
    "trans": "阿那克西美尼",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -14488,7 +14766,7 @@
   },
   {
    "table": "人名",
-   "line": 63,
+   "line": 85,
    "term": "Aristotle",
    "trans": "亚里士多德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14569,7 +14847,7 @@
   },
   {
    "table": "人名",
-   "line": 64,
+   "line": 86,
    "term": "Democedes",
    "trans": "德摩塞迪斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -14583,7 +14861,7 @@
   },
   {
    "table": "人名",
-   "line": 65,
+   "line": 87,
    "term": "Empedocles",
    "trans": "恩培多克勒",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14604,7 +14882,7 @@
   },
   {
    "table": "人名",
-   "line": 66,
+   "line": 88,
    "term": "Galen",
    "trans": "盖伦",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -14637,7 +14915,7 @@
   },
   {
    "table": "人名",
-   "line": 67,
+   "line": 89,
    "term": "Heraclitus",
    "trans": "赫拉克利特",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14664,7 +14942,7 @@
   },
   {
    "table": "人名",
-   "line": 68,
+   "line": 90,
    "term": "Herodotus",
    "trans": "希罗多德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14697,7 +14975,7 @@
   },
   {
    "table": "人名",
-   "line": 69,
+   "line": 91,
    "term": "Parmenides",
    "trans": "巴门尼德",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14724,7 +15002,7 @@
   },
   {
    "table": "人名",
-   "line": 70,
+   "line": 92,
    "term": "Philolaus",
    "trans": "菲洛劳斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -14738,7 +15016,7 @@
   },
   {
    "table": "人名",
-   "line": 71,
+   "line": 93,
    "term": "Plato",
    "trans": "柏拉图",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14819,7 +15097,7 @@
   },
   {
    "table": "人名",
-   "line": 72,
+   "line": 94,
    "term": "Pythagoras",
    "trans": "毕达哥拉斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14858,7 +15136,7 @@
   },
   {
    "table": "人名",
-   "line": 73,
+   "line": 95,
    "term": "Theophrastus",
    "trans": "特奥弗拉斯托斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -14879,7 +15157,7 @@
   },
   {
    "table": "人名",
-   "line": 74,
+   "line": 96,
    "term": "Xenophanes",
    "trans": "色诺芬尼",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -14900,7 +15178,7 @@
   },
   {
    "table": "人名",
-   "line": 75,
+   "line": 97,
    "term": "Diogenes Laertius",
    "trans": "第欧根尼·拉尔修",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14921,7 +15199,7 @@
   },
   {
    "table": "人名",
-   "line": 76,
+   "line": 98,
    "term": "Christian Thomasius",
    "trans": "克里斯蒂安·托马修斯",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）",
@@ -14935,7 +15213,7 @@
   },
   {
    "table": "人名",
-   "line": 77,
+   "line": 99,
    "term": "Christian Wolff",
    "trans": "克里斯蒂安·沃尔夫",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）",
@@ -14962,7 +15240,7 @@
   },
   {
    "table": "人名",
-   "line": 78,
+   "line": 100,
    "term": "Quine",
    "trans": "蒯因",
    "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）",
@@ -14995,7 +15273,7 @@
   },
   {
    "table": "人名",
-   "line": 79,
+   "line": 101,
    "term": "Routley, Richard",
    "trans": "理查德·劳特利（西尔万）",
    "basis": "学界惯例（姓氏变更前名 Routley 与婚后姓 Sylvan 并行，劳特利为通行汉译）；termonline 凭证待 008 战役补",
@@ -15007,7 +15285,7 @@
   },
   {
    "table": "人名",
-   "line": 87,
+   "line": 109,
    "term": "Ibn Sīnā / Avicenna",
    "trans": "伊本·西那（阿维森纳）",
    "basis": "知网系查证在案；学界通行（《中国大百科全书》《世界人名翻译大辞典》体例）",
@@ -15021,7 +15299,7 @@
   },
   {
    "table": "人名",
-   "line": 88,
+   "line": 110,
    "term": "Ibn Rushd / Averroes",
    "trans": "伊本·鲁世德（阿威罗伊）",
    "basis": "知网系查证在案；学界通行",
@@ -15035,7 +15313,7 @@
   },
   {
    "table": "人名",
-   "line": 89,
+   "line": 111,
    "term": "Ibn Bājja / Avempace",
    "trans": "伊本·巴哲",
    "basis": "知网系查证在案；学界通行",
@@ -15049,7 +15327,7 @@
   },
   {
    "table": "人名",
-   "line": 90,
+   "line": 112,
    "term": "Ibn Ṭufayl / Abubacer",
    "trans": "伊本·图斐利",
    "basis": "知网系查证在案；学界通行",
@@ -15063,7 +15341,7 @@
   },
   {
    "table": "人名",
-   "line": 91,
+   "line": 113,
    "term": "al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī",
    "trans": "法拉比（亦作“阿尔·法拉比”“阿里·法拉比”）",
    "basis": "学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步",
@@ -15077,7 +15355,7 @@
   },
   {
    "table": "人名",
-   "line": 92,
+   "line": 114,
    "term": "al-Kindī",
    "trans": "肯迪（亦作“金迪”）",
    "basis": "学界通行",
@@ -15091,7 +15369,7 @@
   },
   {
    "table": "人名",
-   "line": 93,
+   "line": 115,
    "term": "al-Ghazālī",
    "trans": "安萨里（全名艾布·哈米德·穆罕默德·安萨里）",
    "basis": "学界通行",
@@ -15105,7 +15383,7 @@
   },
   {
    "table": "人名",
-   "line": 94,
+   "line": 116,
    "term": "Abū Bakr al-Rāzī / al-Rāzī / Rhazes",
    "trans": "拉齐（医师哲学家；勿与法赫尔丁·拉齐相混）",
    "basis": "学界通行",
@@ -15119,7 +15397,7 @@
   },
   {
    "table": "人名",
-   "line": 95,
+   "line": 117,
    "term": "Fakhr al-Dīn al-Rāzī",
    "trans": "法赫尔丁·拉齐",
    "basis": "学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分",
@@ -15133,7 +15411,7 @@
   },
   {
    "table": "人名",
-   "line": 96,
+   "line": 118,
    "term": "Ibn Khaldūn",
    "trans": "伊本·赫勒敦",
    "basis": "学界通行",
@@ -15147,7 +15425,7 @@
   },
   {
    "table": "人名",
-   "line": 97,
+   "line": 119,
    "term": "Ibn Taymiyya",
    "trans": "伊本·泰米叶",
    "basis": "学界通行",
@@ -15161,7 +15439,7 @@
   },
   {
    "table": "人名",
-   "line": 98,
+   "line": 120,
    "term": "Ibn Gabirol / Solomon ibn Gabirol / Avicebron",
    "trans": "伊本·加比罗尔（拉丁通行名阿维斯布朗）",
    "basis": "学界通行",
@@ -15175,7 +15453,7 @@
   },
   {
    "table": "人名",
-   "line": 99,
+   "line": 121,
    "term": "Ibn Dāwūd / Ibn Daud",
    "trans": "伊本·达乌德",
    "basis": "学界通行",
@@ -15189,7 +15467,7 @@
   },
   {
    "table": "人名",
-   "line": 100,
+   "line": 122,
    "term": "Ibn al-Haytham / Alhazen",
    "trans": "伊本·海赛姆（阿尔哈增）",
    "basis": "学界通行",
@@ -15203,7 +15481,7 @@
   },
   {
    "table": "人名",
-   "line": 101,
+   "line": 123,
    "term": "Naṣīr al-Dīn al-Ṭūsī",
    "trans": "纳西尔丁·图西",
    "basis": "学界通行",
@@ -15217,7 +15495,7 @@
   },
   {
    "table": "人名",
-   "line": 102,
+   "line": 124,
    "term": "Ibn Hazm",
    "trans": "伊本·哈兹姆",
    "basis": "学界通行",
@@ -15231,7 +15509,7 @@
   },
   {
    "table": "人名",
-   "line": 103,
+   "line": 125,
    "term": "Suhrawardī / al-Suhrawardī",
    "trans": "苏赫拉瓦尔迪",
    "basis": "学界通行",
@@ -15245,7 +15523,7 @@
   },
   {
    "table": "人名",
-   "line": 104,
+   "line": 126,
    "term": "Mullā Ṣadrā",
    "trans": "毛拉·萨德拉",
    "basis": "学界通行",
@@ -15259,7 +15537,7 @@
   },
   {
    "table": "人名",
-   "line": 105,
+   "line": 127,
    "term": "Yaḥyā ibn ʿAdī",
    "trans": "叶海亚·伊本·阿迪",
    "basis": "学界通行",
@@ -15273,7 +15551,7 @@
   },
   {
    "table": "人名",
-   "line": 106,
+   "line": 128,
    "term": "Ḥunayn ibn Isḥāq",
    "trans": "侯奈因·本·伊斯哈格（父，翻译家）",
    "basis": "学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分",
@@ -15287,7 +15565,7 @@
   },
   {
    "table": "人名",
-   "line": 107,
+   "line": 129,
    "term": "Isḥāq ibn Ḥunayn",
    "trans": "伊沙克·本·侯奈因（子，翻译家）",
    "basis": "学界通行；与父侯奈因·本·伊斯哈格（Ḥunayn ibn Isḥāq）语序区分",
@@ -15301,7 +15579,7 @@
   },
   {
    "table": "人名",
-   "line": 108,
+   "line": 130,
    "term": "Abū Bishr Mattā",
    "trans": "阿布·比什尔·马塔",
    "basis": "学界通行",
@@ -15315,7 +15593,7 @@
   },
   {
    "table": "人名",
-   "line": 109,
+   "line": 131,
    "term": "Ibn Kammūna",
    "trans": "伊本·凯姆那",
    "basis": "学界通行",
@@ -15329,7 +15607,7 @@
   },
   {
    "table": "人名",
-   "line": 110,
+   "line": 132,
    "term": "Ibn ʿArabī",
    "trans": "伊本·阿拉比",
    "basis": "学界通行",
@@ -15343,7 +15621,7 @@
   },
   {
    "table": "人名",
-   "line": 111,
+   "line": 133,
    "term": "Thomas Aquinas",
    "trans": "托马斯·阿奎那",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -15394,7 +15672,7 @@
   },
   {
    "table": "人名",
-   "line": 112,
+   "line": 134,
    "term": "David Hume",
    "trans": "大卫·休谟",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -15433,7 +15711,7 @@
   },
   {
    "table": "人名",
-   "line": 113,
+   "line": 135,
    "term": "William James",
    "trans": "威廉·詹姆斯",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -15472,7 +15750,7 @@
   },
   {
    "table": "人名",
-   "line": 114,
+   "line": 136,
    "term": "ʿAyn al-Quḍāt",
    "trans": "艾因·库扎特（哈马丹的艾因·库扎特）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
@@ -15486,7 +15764,7 @@
   },
   {
    "table": "人名",
-   "line": 115,
+   "line": 137,
    "term": "ʿAbd al-Jabbār",
    "trans": "阿卜杜·贾巴尔（穆尔太齐赖派）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
