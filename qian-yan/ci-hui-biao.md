@@ -11,12 +11,14 @@
 |Alain Locke|阿兰·洛克||
 |Alexander Bain|亚历山大·贝恩|联想主义心理学|
 |Allan Gibbard|艾伦·吉伯德|规范伦理学/表达主义|
+|Annette Baier|安内特·拜尔|德性伦理学（代理情感）|
 |Anti-Dühring|《反杜林论》|恩格斯|
 |Anton Marty|安东·马蒂|早期现象学（布伦塔诺学派）|
 |anumāna|比量|印度量论|
 |arché|本原|亦作“始基”；希腊哲学术语|
 |aretê|德性|亦作“卓越”；希腊哲学术语|
 |Aristotelian categories|亚里士多德范畴|希腊哲学|
+|Arthur Danto|阿瑟·丹托|分析美学/历史哲学|
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
 |Aulus Gellius|奥卢斯·盖利乌斯|罗马阿提卡之夜|
 |Bahya ibn Paquda|巴希亚·伊本·帕库达|犹太哲学家；《心的职责》|
@@ -36,6 +38,7 @@
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
 |common good|公共善|亦作“共同善”；政治哲学|
+|Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
 |Dana Scott|达纳·斯科特|逻辑学/集合论|
@@ -55,6 +58,7 @@
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
 |epoché|悬搁|亦作“悬置”；胡塞尔|
 |Ernest Sosa|欧内斯特·索萨|德性知识论|
+|Ernst Zermelo|恩斯特·策梅洛|集合论（策梅洛公理）|
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
 |evolutionary epistemology|进化认识论|审定名词（自然辩证法·科学哲学）|
 |expected utility|期望效用|审定名词（管理科学）|
@@ -65,6 +69,7 @@
 |Freedom|自由|审定名词在案；学界通行同形|
 |Friedrich Schiller|弗里德里希·席勒|美学书简|
 |Friedrich Schleiermacher|弗里德里希·施莱尔马赫|诠释学/浪漫主义|
+|Friedrich Waismann|弗里德里希·魏斯曼|维也纳学派/语言哲学|
 |game theory|博弈论|亦作“对策论”；审定双形在案|
 |Gary Watson|加里·沃森|行动理论/道德心理学|
 |Georg Gadamer|格奥尔格·伽达默尔|哲学诠释学|
@@ -75,8 +80,10 @@
 |Gómez Pereira|戈麦斯·佩雷拉|西班牙文艺复兴|
 |Hans Hahn|汉斯·哈恩|维也纳学派|
 |Hao Wang|王浩|逻辑学家/哥德尔研究|
+|Harriet Taylor|哈丽雅特·泰勒|密尔合作者/女性主义先声|
 |Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
 |Hilary Putnam|希拉里·普特南||
+|Hillel Steiner|希勒尔·斯坦纳|分析马克思主义/权利论|
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
@@ -90,6 +97,7 @@
 |Jacques Maritain|雅克·马里旦|托马斯主义|
 |Jaegwon Kim|金在权|心灵哲学|
 |Jan Łukasiewicz|扬·卢卡西维茨|多值逻辑/华沙学派|
+|Jason Stanley|杰森·斯坦利|语言哲学/知识论（宣言之知）|
 |Jerrold Levinson|杰罗德·莱文森|美学/音乐哲学|
 |Johannes Kepler|约翰内斯·开普勒|审定“开普勒”在案（天文学）|
 |John Toland|约翰·托兰德|泛神论/自由思想|
@@ -105,21 +113,27 @@
 |Löb’s theorem|勒布定理|数理逻辑|
 |logos|逻各斯|审定名词（自然辩证法·自然哲学）|
 |Lord Kames|凯姆斯勋爵|苏格兰美学/法理|
+|Louis Althusser|路易·阿尔都塞|结构主义马克思主义|
 |Löwenheim-Skolem theorem|勒文海姆–斯科伦定理|亦作“L-S定理”；审定缩略形在案|
 |Lüshi chunqiu|《吕氏春秋》|典籍|
 |Marcus Aurelius|马可·奥勒留|斯多亚|
 |Margaret Fuller|玛格丽特·富勒|美国超验主义|
+|Margaret Gilbert|玛格丽特·吉尔伯特|社会本体论（共同承诺）|
+|Marie Curie|玛丽·居里|审定“居里”在案（核医学/放射）|
 |Marin Mersenne|马兰·梅森|17 世纪学术通信网络中枢|
 |Mary Astell|玛丽·阿斯特尔|早期女性哲学家|
 |Max Horkheimer|马克斯·霍克海默|法兰克福学派|
 |Maximus Confessor|马克西姆·忏悔者|拜占庭神哲学|
 |Metaphysics|形而上学|审定名词在案|
+|Michael Psellos|米海尔·普塞洛斯|拜占庭新柏拉图主义|
 |Michael Smith|迈克尔·史密斯|元伦理学|
 |Mīmāṃsā|弥曼差|亦作“弥曼沙”；印度哲学|
 |modus ponens|肯定前件|逻辑学|
 |moral epistemology|道德认识论|佐证审定“认识论”|
 |moral justification|道德辩护|佐证审定“辩护”|
 |moral perfection|道德完善|康德语境|
+|Moses Narboni|摩西·纳博尼|中世纪犹太-伊斯兰哲学|
+|Motoori Norinaga|本居宣长|日本国学/物哀|
 |Mou Zongsan|牟宗三|当代新儒家|
 |Müller-Lyer illusion|米勒-莱尔错觉|审定名词（心理学）|
 |mutakallimūn|凯拉姆学者|亦作“教义学家”；伊斯兰哲学|
@@ -134,6 +148,7 @@
 |old evidence|旧证据|贝叶斯确认论|
 |ordinary beings|凡夫|佛教学|
 |Pascal’s Wager|帕斯卡尔赌注|亦作“帕斯卡赌注”；宗教哲学|
+|Paul Bernays|保罗·贝尔奈斯|希尔伯特学派/数学基础|
 |Paul Grice|保罗·格赖斯|语用学/格赖斯会话涵义|
 |Paul Tillich|保罗·蒂利希|存在主义神学|
 |Pensées philosophiques|《哲学思想录》|狄德罗|
@@ -152,11 +167,14 @@
 |pure reason|纯粹理性|康德；审定无相关命中|
 |qi|气|拼音转写；中国哲学核心范畴|
 |relative frequency|相对频率|审定复合词佐证|
+|Richard Dedekind|理查德·戴德金|审定“戴德金”在案（数学）|
 |Richard Jeffrey|理查德·杰弗里|决策论|
 |Richard Kilvington|理查德·基尔文顿|牛津计算者派|
+|Richard Popkin|理查德·波普金|怀疑论史研究|
 |Richard Price|理查德·普莱斯|英国激进思想家|
 |Richard Rufus|理查德·鲁弗斯|Richard Rufus of Cornwall；中世纪注释家|
 |Robert Adams|罗伯特·亚当斯|宗教哲学/近代哲学研究|
+|Robert Audi|罗伯特·奥迪|宗教知识论/行动理论|
 |Robert Brandom|罗伯特·布兰登|当代语用学转向|
 |Roberto Torretti|罗伯托·托雷蒂|康德/相对论哲学史|
 |Roger Scruton|罗杰·斯克鲁顿|美学/保守主义政治哲学|
@@ -164,6 +182,7 @@
 |Rubā‘iyyāt|《鲁拜集》|海亚姆四行诗；审定精确查无|
 |Rule Consequentialism|规则后果论|亦作“规则后果主义”；随后果论行|
 |saṃsāra|轮回|佛典译语|
+|Sandra Harding|桑德拉·哈丁|科学哲学（立场认识论）|
 |schêma|图型|亦作“图式”；康德|
 |Sensus Communis|共同感|亦作“通感”；康德/叔本华美学|
 |Sewall Wright|休厄尔·赖特|进化论/群体遗传学|
@@ -171,6 +190,7 @@
 |Sittlichkeit|伦理|亦作“伦理生活”；黑格尔|
 |social facts|社会事实|涂尔干；社会哲学|
 |Special Relativity|狭义相对论|审定名词（物理学）|
+|Stephen Stich|斯蒂芬·斯蒂奇|实验哲学/心灵哲学|
 |śūnyatā|空|亦作“空性”；审定名词（哲学）|
 |svabhāva|自性|佛教|
 |tathāgatagarbha|如来藏|审定名词（哲学）|
@@ -178,9 +198,11 @@
 |Ten Commandments|十诫|宗教学|
 |Theodor Lipps|西奥多·李普斯|移情（Einfühlung）理论|
 |theōria|静观|亦作“沉思”；希腊哲学术语|
+|Thomas Carlyle|托马斯·卡莱尔|伟人史观/德国观念论引介|
 |Thomas Hobbes|托马斯·霍布斯||
 |Thomas Jefferson|托马斯·杰斐逊|美国建国政治哲学|
 |Thomas Paine|托马斯·潘恩|启蒙政治哲学|
+|Thomas Scanlon|托马斯·斯坎伦|道德契约论（斯坎伦主义）|
 |tian|天|拼音转写；中国哲学范畴|
 |truth conditions|真值条件|审定复合词佐证（语言学）|
 |truth value|真值|审定名词（数学·数理逻辑）|
@@ -194,7 +216,9 @@
 |waḥdat al-wujūd|存在单一论|亦作“存在统一论”；伊斯兰哲学|
 |Wang Fuzhi|王夫之|明清之际思想家|
 |Wilhelm Wundt|威廉·冯特|实验心理学；审定“冯特”在案|
+|William Hamilton|威廉·汉密尔顿|苏格兰常识学派|
 |William Heytesbury|威廉·海特斯伯里|牛津计算者派|
+|William Wimsatt|威廉·温萨特|生物学哲学/还原论批判|
 |Yan Hui|颜回|先秦儒家|
 |Yang Zhu|杨朱|先秦思想家|
 |yì|义|拼音转写；中国哲学范畴|
