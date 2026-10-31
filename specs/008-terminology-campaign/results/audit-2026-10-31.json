@@ -7,9 +7,8 @@
  ],
  "counts": {
   "一致": 202,
-  "查无": 260,
-  "不一致": 49,
-  "未查证": 1
+  "查无": 261,
+  "不一致": 49
  },
  "results": [
   {
@@ -15000,9 +14999,11 @@
    "term": "Routley, Richard",
    "trans": "理查德·劳特利（西尔万）",
    "basis": "学界惯例（姓氏变更前名 Routley 与婚后姓 Sylvan 并行，劳特利为通行汉译）；termonline 凭证待 008 战役补",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "人名",
