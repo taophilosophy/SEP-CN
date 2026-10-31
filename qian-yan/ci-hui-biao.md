@@ -50,6 +50,7 @@
 |David Hull|大卫·赫尔|生物学哲学|
 |deflationary|紧缩|「紧缩论」（deflationism）形容词形|
 |dharma|法|佛教语境；亦作“达摩”|
+|diffeomorphism|微分同胚|广义相对论哲学；物理学通行|
 |différance|延异|德里达定译|
 |Dionysius the Areopagite|亚略巴古的狄奥尼修斯|即“伪狄奥尼修斯”；教父学|
 |disability studies|残障研究|社会哲学|
@@ -76,6 +77,9 @@
 |Friedrich Waismann|弗里德里希·魏斯曼|维也纳学派/语言哲学|
 |game theory|博弈论|亦作“对策论”；审定双形在案|
 |Gary Watson|加里·沃森|行动理论/道德心理学|
+|gauge freedom|规范自由度|广义相对论哲学；物理学通行|
+|gauge transformation|规范变换|广义相对论哲学；物理学通行|
+|general covariance|广义协变性|广义相对论哲学；物理学通行|
 |Georg Gadamer|格奥尔格·伽达默尔|哲学诠释学|
 |George Washington|乔治·华盛顿|美国建国|
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
@@ -88,6 +92,7 @@
 |Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
 |Hilary Putnam|希拉里·普特南||
 |Hillel Steiner|希勒尔·斯坦纳|分析马克思主义/权利论|
+|hole transformation|洞变换|与“空穴论证”（hole argument）复合同源|
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
@@ -99,11 +104,21 @@
 |John Stuart Mill|约翰·斯图亚特·穆勒|亦作“密尔”|
 |José Ortega|何塞·奥尔特加|西班牙存在主义另有同名导演，随词条|
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
+|Leibniz Equivalence|莱布尼茨等价|时空哲学；Stachel/Weatherall 用语|
+|manifold|流形|数学通行|
+|manifold of events|事件流形|时空哲学|
+|matter field|物质场|物理学通行|
+|metric|度规|物理学通行，“度规”优于“度量”|
+|metric field|度规场|物理学通行|
 |Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
 |Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
+|observable|可观测量|物理学/科学哲学通行|
+|point-coincidence argument|点重合论证|Stachel 术语|
 |Robert Post|Robert Post|现代学者保留英文；通行汉译“波斯特”|
+|spacetime substantivalism|时空实体论|与时空关系论相对|
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
+|worldline|世界线|相对论通行|
 |Øystein Linnebo|林内博|数学哲学；首现括注|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |Jacques Lacan|雅克·拉康|精神分析哲学|
@@ -294,7 +309,6 @@
 |akrasia|不能自制|《尼各马可伦理学》卷七主题；廖申白译本作“不能自制”，亦译“不自制”“意志薄弱”|
 |al-Baghdadi|巴格达迪||
 |al-Farabi|法拉比|全名阿布·纳斯尔·法拉比；带变音符形 Al-Fârâbî 为同一人物（ADR-0013 归并）；亦作“阿尔·法拉比”“阿里·法拉比”（后者多见中亚文献）|
-|Al-Fârâbî|法拉比|即 al-Farabi（法拉比），同一人物罗马化变体（ADR-0013 折叠归并）|
 |al-Ghazali|安萨里||
 |al-Kindi|肯迪|阿拉伯首位哲学家，亦译“金迪”|
 |al-Razi|拉齐|指艾布·伯克尔·拉齐（Abū Bakr al-Rāzī，拉丁通行名 Rhazes），医师哲学家；勿与法赫尔丁·拉齐（Fakhr al-Dīn al-Rāzī）相混|
@@ -455,7 +469,7 @@
 |conditional probabilities|条件概率||
 |conscious experience|意识经验|心灵哲学语境|
 |confirmation theory|确证理论|亦译“确认理论”；贝叶斯验证理论见专条|
-|conformality theory|符合论|与相似论 resemblance theory 相对；首现 abelard|
+|conformality theory|符合论|阿伯拉尔同一性理论语境（与相似论 resemblance theory 相对）；区别于真理符合论 correspondence theory；首现 abelard|
 |Confucianism|儒家思想||
 |connectionism|联结主义|心灵哲学与认知科学语境|
 |consequentialism|后果论|亦作“后果主义”；审定名词（自然辩证法名词）|
@@ -476,7 +490,7 @@
 |Conventionality of Simultaneity|同时性的约定性||
 |Copenhagen Interpretation|哥本哈根诠释||
 |correspondence principle|对应原理||
-|correspondence theory|符合论||
+|correspondence theory|符合论|真理符合论（区别于阿伯拉尔 conformality theory 之符合论）|
 |Cratylus|克拉底鲁||
 |Cudworth|库德沃斯||
 |Darwinism|达尔文主义||
@@ -544,7 +558,6 @@
 |Fakhr al-Din|法赫尔丁·拉齐||
 |Fall|堕落||
 |Falsafa|哲学|阿拉伯语借词（源自希腊 philosophia），指伊斯兰“哲学”传统，与 Kalām（伊斯兰教义学）相对；首次出现可括注原文|
-|Farabian|法拉比||
 |fatalism|宿命论|与 determinism 决定论相区别，勿混|
 |feminism|女性主义||
 |fictionalism|虚构主义|数学哲学与话语理论语境|
@@ -804,7 +817,7 @@
 |Porphyry|波菲利||
 |positivism|实证主义|孔德传统；勿与 empiricism 经验主义混淆|
 |possible world|可能世界||
-|possible worlds|可能世界||
+|possible worlds|可能世界|possible world 复数异形|
 |Post-Newtonian|后牛顿||
 |Posterior Analytics|《后分析篇》|亚里士多德著作，通行译名|
 |practical philosophy|实践哲学|康德体系分工（与实践理性相关）|
@@ -1008,7 +1021,7 @@
 |Trust|信任||
 |Truth|真理||
 |truth definitions|真理定义||
-|truth values|真值||
+|truth values|真值|truth value 复数异形|
 |Truthlikeness|似真性|波普尔 verisimilitude，中译亦作“逼真性”|
 |truthmakers|使真者||
 |Tsongkhapa|宗喀巴||
