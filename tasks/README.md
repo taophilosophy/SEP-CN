@@ -6,6 +6,7 @@
 
 * 一词条一文件：`tasks/<slug 首字母>/<slug>.json`，slug 为 SEP 词条标识（如 `tasks/a/alcmaeon.json`）。
 * 例外：`tasks/term-candidates.json` 为 **术语候选清单** （词汇表复核流程的中间记录，无 slug/state），不属于文档任务；`tools/progress.py` 统计时自动跳过。
+* 翻译账本：`tasks/<slug 首字母>/<slug>.ledger.yaml`（LLM 辅助初译的段落账本，[ADR-0021](../rules/adr/0021-LLM辅助初译协议.md)；格式见 `specs/005-translation-campaign/fan-yi-mu-ban.md` §6）。由执行会话随 draft 创建并入库；`task_ops.py`、`progress.py` 按 `*.json` 寻址，不读取账本。
 * 文件由 `tools/task_ops.py` 创建与推进，**不要手改状态字段**；`evidence` 等叙述字段可由执行会话补写。
 * 任务开工前，`evidence` 首条写方向声明（意图复述、目标/非目标、验收判据）；缺失视为未立项（`rules/08-intent-first.md`，宪法 VII）。
 * 记录入库（git 分发），与 `baseline/entries.json` 的版本钉互为凭证。
