@@ -149,6 +149,20 @@ if (inIframe && !w.__biliIframeSync) {
     }
   })
 
+  // 布局模式同步:父侧切换左右/上下时同步 html 类(等宽/居中排版切换)
+  const applyLayout = () => {
+    document.documentElement.classList.toggle(
+      'bili-side',
+      localStorage.getItem('bili-layout') !== 'stack',
+    )
+  }
+  applyLayout()
+  window.addEventListener('message', (e: MessageEvent) => {
+    if (e.source !== window.parent || e.data?.type !== 'bili:layout') return
+    if (e.data.layout) localStorage.setItem('bili-layout', e.data.layout)
+    applyLayout()
+  })
+
   // 原生 scroll 事件可能不派发(同父侧),轮询兜底
   let lastPolledY = -1
   setInterval(() => {

@@ -64,6 +64,7 @@ watch(
   (v) => {
     if (hasLS) localStorage.setItem('bili-layout', v)
     applyState()
+    frame.value?.contentWindow?.postMessage({ type: 'bili:layout', layout: v }, '*')
   },
   { flush: 'post' },
 )
@@ -281,7 +282,11 @@ function saveScroll() {
 }
 
 function onFrameLoad() {
-  // 新原文载入后：恢复上次阅读位（per-page 记忆），再对齐当前段
+  // 新原文载入后：同步布局模式,恢复上次阅读位（per-page 记忆），再对齐当前段
+  frame.value?.contentWindow?.postMessage(
+    { type: 'bili:layout', layout: layout.value },
+    '*',
+  )
   if (hasLS && page.value.relativePath) {
     const saved = Number(localStorage.getItem('bili-scroll:' + page.value.relativePath) || '0')
     if (saved > 50) window.scrollTo({ top: saved })
