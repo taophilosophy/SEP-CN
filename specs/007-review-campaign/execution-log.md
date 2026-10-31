@@ -411,3 +411,66 @@ H1 题名、pubinfo 版本事实行（“首次发表于……”门禁钉）、
 * 图件：figure1.svg（琼斯决策树）从 en/ 复制入 assets/，check_markdown image-missing 修复；本件 1 图 1 SVG
 * 体例事故与处置：三连星（*…**X**…* 斜体包裹加粗的批量补空格产物）3 处还原单层加粗；转义星号 \* 触发 EMPH 误配 1 处改 U+2217 ∗；bold-spacing 102 处批量补齐
 * a 批进度 15/160
+
+
+## 2026-11-01 经验规则总结（批量翻译阶段 15 件实操沉淀）
+
+### 一、翻译流程规则
+
+1. **写毕即提交**：大件（>400 行源）译文写完后立即 commit，不留未提交全文在工作区。
+   * *教训*：action-perception 译文被并行会话 stub 重置工具覆盖（116 字节全毁），靠上下文重建。
+   * *规则*：Write → splice defs → 三道门禁 → commit WIP → 六道推进 → commit done。
+
+2. **直引号与加粗空格一次写对**：
+   * 中文正文一律用弯引号“”，不用直引号 " '
+   * 加粗 `**X**` 两侧与相邻 CJK 正文恰一个空格；闭合 `**` 后接全角开括号 `（` 也要空格
+   * 性质/命题名（"是人""是抽象的"）用中文引号，不用斜体
+   * *教训*：abstract-objects 手写稿 634 处问题；abilities 59 处；action 仍产生 9 处英文残留——下降但未归零。
+
+3. **收笔即扫描**：译文写完、defs 拼接完，立即跑四道（check_style/check_academic/check_bold_collapse/check_markdown），不留批量修复到最后。
+
+4. **闪米特转写撇号统一 U+02BC**：正文区凡与拉丁字母相邻的 ‘/’（ayin/hamza 转写）改 U+02BC（ʼ），词内撇号（Kena'ot 类）维持 ASCII。defs 照录区豁免。
+
+5. **正文 marker 弯撇与 defs 撇号一致**：正文 [^o'connor-2022] 的撇号用 ASCII（与 defs 归一化后一致），defs 照录区用弯撇（豁免区不受限）。
+
+### 二、defs 拼接规则
+
+6. **拼接入流分流**：
+   * 纯文献 defs（无 note defs）→ splice_defs.py 一次拼接
+   * notes + defs 混合（如 action 314 defs + note-1..6）→ 手动定位 defs 起点（[^letter] 非 note 开头）拼 defs；notes 译入 ## 脚注节
+   * note defs 与文献 defs 分区时（如 addams-jane）→ 拼接全文含 notes，再删英文版 note defs，保留中文版在脚注节
+
+7. **键集校验归一化**：zh 键集 vs yuanwen 键集，用 ASCII 归一化撇号后比较（弯撇 ’ ↔ ASCII '）。
+
+### 三、工具修订记录
+
+8. **check_academic 新增 WESTERN_PUB_RE**：英文文献条目即便主题涉中国典籍（如 Ivanhoe 论 Zhuangzi）也照录不译——ADR-0011 判据=条目语言而非主题。含 eds\. 后词边界修正。
+9. **check_style 新增图片行豁免**：alt 为照录英文机器描述，不适用中文引号/空格规则。
+10. **check_bold_collapse 固化**：三签名扫描（pubinfo 行尾挂文本/同行双加粗仅隔空白/段首加粗）为翻译收工必跑项；候选需人工对照 yuanwen/HEAD 裁定。
+
+### 四、SUMMARY/mu-lu-s 标题规则
+
+11. **英文标题与上游 H1 一致**：SUMMARY/mu-lu-s 的英文标题应为上游 H1 全题（非截断描述符/词序倒装/缺失冠词）。本轮修复 66 件。
+12. **设计性豁免**：
+    * 别名行（——见）：英文为别名名，非 H1
+    * 人名倒序：SUMMARY 用图书编目格式（Surname, Given），H1 用自然语序——设计性
+    * 子条目短题：英文只写尾段（如 logic-deontic → "deontic"），中文名承载完整含义——设计性
+
+### 五、并行会话协作
+
+13. **不代改他方文件**：spacetime-holearg/advance-directives/alcmaeon 等在途件不代改，移交登记。
+14. **遇 index.lock 等 wait-and-retry**：并行会话 git 操作撞锁，等 20s 重试。
+15. **stub 重置防护**：翻译工作区文件如被他方工具覆盖，从上下文重建→立即 WIP commit→日志记事故。
+
+### 六、质量趋势
+
+| 件 | 手写体例问题数 | 趋势 |
+|---|---|---|
+| abstract-objects | 634 | 基线 |
+| abilities | 59 | ↓90% |
+| academic-freedom | 46 | ↓ |
+| action | ~30 | ↓ |
+| actualism | ~20 | ↓ |
+| action-perception | ~15 | ↓ |
+
+**结论**：规则 2（直引号/加粗空格/性质名）一次写对的能力在提升，但尚未归零——下次起收笔后立即跑扫描（规则 3），不再攒批。
