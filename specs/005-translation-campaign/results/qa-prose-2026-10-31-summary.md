@@ -44,7 +44,7 @@
 * **Critical（定点改，改前回核英文镜像）**：abduction 五项——①L29 made likely→「变得可能」应为「很可能」；②L73 warrant→「只配」＋破句；③L75 句法破散；④L101 reasoner→「说者」；⑤L57 术语三形统一为主形（rules/03 ADR-0020 条款；L433 相关词条行「非充分决定性」为跨词条既定名不动）；附 L143 验证理论/确证取舍（随⑤一并裁定措辞）。行号与英文对照见 qa-findings-2026-10-31.md。
 * **Major（s2 语言返工批次，按词条认领）**：上表全部 de-chain／long-sentence／passive-bei／weak-verb 告警——返工会话对每词条复跑 `check_prose.py <路径>` 取全量行号清单，逐条人工判断改写或豁免留痕；优先序建议：action（136）→ action-perception（113）→ academic-freedom（107）→ abelard（88）→ actualism-possibilism-ethics（79）→ 其余。
 * **Minor**：as-one／dang-shihou／plural-men 零星项随同词条 Major 批次顺带处理。
-* 深度核读现状说明：本复核对 abduction 做了逐点英文核对；其余 15 词条为模式扫描＋抽样判定，**不构成 accuracy 全量背书**——返工时应按 rules/04 MTPE 顺序先对镜像素材回核该词条 s1 凭证抽查面，再清语言告警。
+* 深度核读现状说明（2026-10-31 更新）：本汇总原为模式扫描＋抽样判定；同日用户裁定「禁止抽样，继续遍历」后，16 done 词条＋补充材料已完成**全读逐段遍历**（中译↔英文镜像逐段核对），accuracy 实锤与返工序以 [qa-traverse-2026-10-31.md](qa-traverse-2026-10-31.md) 全册汇总为准（Critical 15＋1 附／Major 37／Minor 157）；本文件的欧化密度统计（check_prose 口径）继续有效，作为 Major 语言批次的行号清单来源。
 
 ## 返工作业程序（翻译会话）
 

@@ -1,7 +1,7 @@
 # done 词条全读逐段遍历登记册（2026-10-31）
 
 **依据**：用户指令「禁止抽样，继续遍历」——对全部 done 词条执行中译↔英文镜像全读逐段复核，替代 qa-prose 汇总中的「抽样判定」口径。每词条一节；实锤发现全部给出中文行号＋中英对照摘录。分级沿用 rules/04（Critical/Major/Minor）。
-**范围**：16 done 词条 ＋ abduction.peirce 补充材料，共 17 文件。执行中，逐节追加。
+**范围**：16 done 词条 ＋ abduction.peirce 补充材料，共 17 文件。**已全部遍历完毕**（合计 Critical 15＋1 附／Major 37／Minor 157，见文末全册汇总）。
 **说明**：abduction 主文已于 qa-findings-2026-10-31.md 完成全读逐点核对（Critical 5 项），不重复登记，此处只收其余 16 文件。
 
 ## a/action-perception.md（全读完毕，2026-10-31）
@@ -321,4 +321,71 @@ L79、L117、L119、L11。
 ### 总评
 C1/M1/m8；决定论、变体论、位置学说等硬段落语义准确；两处硬伤（专名误指、锚点丢失）返工优先修复。
 
-<!-- 追加区 -->
+## a/abduction.peirce.md（全读完毕，2026-10-31）
+
+全读：7 个内容块（6 段＋1 图式引块逐字核无增删），21 行逐行对齐；CP 5.172/5.590/5.189 及各卷次页码全数保留；溯因/演绎/归纳术语全篇统一。
+
+### Critical / Major
+均未发现。
+
+### Minor（5）
+L9/17 「辩护语境/发现的语境」对举样式不对称宜统一；L9 scenario「事态」宜「情景」；L21 remarkable 语气弱化；L9 「毕生…其跨度超过五十年」指代略糊；L13 「有理由怀疑 A 为真」中歧义（疑其真/疑其假），全文一致可保持，宜译注。
+
+### 欧化 top
+L9（双「帮助」嵌套）、L17、L19。
+
+### 总评
+C0/M0/m5，译文忠实、术语稳定，径过三校即可。
+
+## s/spacetime-holearg.md（全读完毕，2026-10-31）
+
+全读：中文 406 行/英文 505 行；导言 5 段＋1–10 节全部小节段落清点对齐（75 段＋列表 8 条＋框引 2＋图 6 幅 alt/图注逐幅对照＋脚注 8 条公式周边无漏译）；参考文献 86=86 键序一致。
+
+### Critical
+未发现。
+
+### Major
+1. L233 漏译主句：「空穴论证在物理学哲学日益认识到规范变换重要性的过程中发挥了作用」整句丢失。改：句首补该论断。
+2. L207 表述缠绕易误读反：「从而否定莱布尼茨等价被排除」← "precluding the denial of Leibniz Equivalence"。改：「从而排除了对莱布尼茨等价的否定」。
+
+### Minor（10）
+L9 脱「一」；L31 强调错位（EN 斜体在 not，CN 加粗在「大量」）；L91 增译 A/B（无害）；L148/L199 「区别度」生硬×2；L157 漏 celebrated；L173 漏 "otherwise"（在其他方面敏锐）；L205 「曾一度接受」宜「早期接受」；L219 增「败」；L249 pullback「拉回」宜加注；体例两处（L1 标题副名用「the hole argument」未循「溯因 abduction」式、L406 致谢层级 H2 与镜像 H3 异）。
+
+### 疑上游（禁修）
+镜像 L92 "is that same"、L220 "aargues"、L250 自注与正文不符。
+
+### 欧化 top
+L167、L49（中心语重复）、L207、L237、L51。
+
+### 总评
+C0/M2/m10；术语链一致（时空实体论/流形实体论、莱布尼茨等价、主动/被动协变性、规范冗余/自由度、微分同胚）；两处 Major 点状修补即可。
+
+---
+
+## 全册汇总（17 文件遍历完毕，2026-10-31）
+
+| 词条 | C | M | m | 最重发现 |
+| ---- | ---- | ---- | ---- | ---- |
+| abduction（qa-findings 已全读） | 5+1附 | — | — | 只配/made likely/说者/破句＋术语三形混形（附验证/确证取舍） |
+| actualism-possibilism-ethics | 2 | 4 | 12 | 交通案例两条件句前件互换＋漏 conditional |
+| abhidharma | 1 | 2 | 12 | 整段漏译（第二重救赎过程） |
+| abelard | 2 | 2 | 10 | 波菲利误作波爱修斯×2＋伪辩证法家指代颠倒 |
+| abner-burgos | 1 | 1 | 8 | 狄奥尼修斯误指＋脚注锚点丢失 |
+| abstract-objects | 1 | 6 | 12 | explanatory power 误译＋"(if and) only if" 系统性坐实 |
+| academic-freedom | 1 | 3 | 12 | 「教 FREE」讹误＋当且仅当式增译＋神职误译 |
+| action | 1 | 6 | 17 | 安斯康姆引文增字 [形式] |
+| action-perception | 1 | 4 | 14 | 残留英文 sufficed |
+| advance-directives | 0 | 3 | 11 | — |
+| abilities | 0 | 1 | 3 | material mode→「物质模态」 |
+| abortion | 0 | 1 | 6 | 英文残留×3＋星内空格粗体十余处 |
+| abraham-daud | 0 | 1 | 8 | 三名单增译 |
+| abrabanel | 0 | 1 | 10 | —（Major 疑上游） |
+| abu-bakr-al-razi | 0 | 1 | 7 | 漏 rationalist |
+| abduction.peirce | 0 | 0 | 5 | — |
+| spacetime-holearg | 0 | 2 | 10 | 漏主句＋莱布尼茨等价句易误读反 |
+| **合计** | **15+1附** | **37** | **157** | — |
+
+**模式级发现（跨词条返工时全库 grep）**：①"(if and) only if"→「当且仅当」坐实（abstract-objects 五处，恐全库同型）；②星内空格粗体 `** X **`（ADR-0019 渲染门禁，abortion 十余处）；③「疑上游」登记共 20 余处（镜像拼误/史实可疑），已逐条标注禁修，留 007/009 战役口径处理；④人名登记缺口（Abrabanel、Szilágyi、Dionysius 等）随 008 术语战役补登。
+
+**返工序**：Critical 16 项（abduction 5＋actualism 2＋abelard 2＋abhidharma 1＋abner-burgos 1＋abstract-objects 1＋academic-freedom 1＋action 1＋action-perception 1）逐点改；Major 37 项按词条定点改；Minor 157 项随词条返工顺带。返工作业程序沿用 qa-prose-2026-10-31-summary.md（kind=qa-rework，变更段状态机，--strict 收尾）。
+
