@@ -3,6 +3,7 @@
 **触发**：用户指令"复核目前 A 开头词条的翻译流程……我认为目前的译文不够清晰，流程，准确度有问题，存在欧化汉语等问题"。
 **复核视角**：规则/治理会话（非翻译会话）。范围：A 批 done 词条抽样——abduction 全读＋英文镜像（yuanwen/a/abduction.md）逐点核对；action、actualism-possibilism-ethics、abstract-objects、academic-freedom 模式计数。
 **决策记录**：[ADR-0020](../../rules/adr/0020-译文语言质量门禁.md)。本文件是返工裁定的证据清单；行号以当前工作区为准。
+**全量复核**（2026-10-31 用户裁定后执行，16 done 词条 1075 告警与返工队列）：见 [results/qa-prose-2026-10-31-summary.md](results/qa-prose-2026-10-31-summary.md)。
 
 ## 一、误译实锤（abduction，已 done）
 
