@@ -2,10 +2,347 @@
  "key": "ibn hazm",
  "term": "Ibn Hazm",
  "provider": "termonline-all",
- "queried_at": "2026-10-31T08:24:27+00:00",
- "status": "empty",
- "note": "variant=Ibn Hazm; 审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; match=1; browser-channel（cookie 会话，raw 略）",
- "hits": [],
+ "queried_at": "2026-10-31T08:36:56+00:00",
+ "status": "ok",
+ "note": "variant=Ibn Hazm; 审定公布名词库=4535; 海峡两岸名词对照库=1009; 其他来源数据库=421; 预公布名词数据库=619; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "雾度",
+   "en": "haze",
+   "code": "14.182",
+   "standard": "农学名词",
+   "subject": "农业工程_农业生物环境与设施设备"
+  },
+  {
+   "cn": "雾影",
+   "en": "haze",
+   "code": "05.0355",
+   "standard": "精细化工名词",
+   "subject": "精细化工_涂料_涂装"
+  },
+  {
+   "cn": "雾度",
+   "en": "haze",
+   "code": "2.1007",
+   "standard": "化工名词（七）高分子化工",
+   "subject": "化工（七）_合成树脂_合成树脂加工及助剂"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": "24.120",
+   "standard": "电力名词",
+   "subject": "电力_环境保护"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": "05.047",
+   "standard": "呼吸病学名词",
+   "subject": "呼吸病学_病因"
+  },
+  {
+   "cn": "湿花",
+   "en": "hazy",
+   "code": "11.472",
+   "standard": "林学名词",
+   "subject": "林学_木材科学与技术_人造板及木基复合材料"
+  },
+  {
+   "cn": "朦胧度",
+   "en": "haze",
+   "code": "13.142",
+   "standard": "计量学名词",
+   "subject": "计量学_光学_光谱光度"
+  },
+  {
+   "cn": "雾度",
+   "en": "haze",
+   "code": "15.072",
+   "standard": "计量学名词",
+   "subject": "计量学_化学_化学测量的量"
+  },
+  {
+   "cn": "损害",
+   "en": "harm",
+   "code": "07.016",
+   "standard": "放射医学与防护名词",
+   "subject": "放射医学与防护_放射生物学_基础名词"
+  },
+  {
+   "cn": "雾缺陷",
+   "en": "haze",
+   "code": "06.0204",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_半导体材料_元素半导体材料"
+  },
+  {
+   "cn": "雾度",
+   "en": "haze",
+   "code": "04.1183",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_高分子材料_高分子材料性能及其测试方法"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": "01.314",
+   "standard": "大气科学名词",
+   "subject": "大气科学_大气"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "雾度",
+   "en": "haze",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "北极霾",
+   "en": "arctic haze",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "尘霾",
+   "en": "dust haze",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "冻霾",
+   "en": "frost haze",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "干霾",
+   "en": "dry haze",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "高空霾",
+   "en": "haze aloft",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "沙霾",
+   "en": "sand haze",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "湿霾",
+   "en": "damp haze",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "霾",
+   "en": "haze",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "人怨伤国",
+   "en": "People’s Grievances Harm the Country.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "离子",
+   "en": "ion",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "锂离子电池",
+   "en": "Lithium-ion battery：Li-ion battery",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "离子阱",
+   "en": "Ion trap",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "界内!",
+   "en": "In!",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_羽毛球名词"
+  },
+  {
+   "cn": "早转",
+   "en": "in",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "称体重",
+   "en": "weigh in\",\"weighing-in",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "收紧",
+   "en": "haul\",\"pull in\",\"haul in\",\"take in",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_帆船名词"
+  },
+  {
+   "cn": "四极离子阱",
+   "en": "Trapped ion quantum computer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "电压门控离子通道",
+   "en": "Voltage-gated ion channels",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "伤害",
+   "en": "harm",
+   "code": "3.0180000000000002",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "环境危害",
+   "en": "environmental harm",
+   "code": "3.14.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源"
+  },
+  {
+   "cn": "自我伤害",
+   "en": "self-harm",
+   "code": "8.3.8",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_伤害与暴力_针对儿童的暴力"
+  },
+  {
+   "cn": "非技术性伤害",
+   "en": "nontechnical harm",
+   "code": "3.02",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "经济性伤害",
+   "en": "economic harm",
+   "code": "3.0210000000000004",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "技术性伤害",
+   "en": "technical harm",
+   "code": "3.0189999999999997",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "自我伤害",
+   "en": "self-harm",
+   "code": "13.3",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "火腿",
+   "en": "cured ham",
+   "code": "5.5.6",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_畜肉"
+  },
+  {
+   "cn": "人体消化道模型",
+   "en": "human alimentary tract model, HATM",
+   "code": "6.3.2.18",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢"
+  },
+  {
+   "cn": "就仓干燥",
+   "en": "in-bin drying",
+   "code": "5.1.23",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品_粮食"
+  },
+  {
+   "cn": "氢氧离子",
+   "en": "hydroxyl ion",
+   "code": "4.1.1.1.32",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词"
+  },
+  {
+   "cn": "离子源",
+   "en": "ion source",
+   "code": "6.5.1.16",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_加速器应用"
+  }
+ ],
  "error": null,
  "raw": null
 }
