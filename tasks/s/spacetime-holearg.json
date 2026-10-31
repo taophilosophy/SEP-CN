@@ -66,6 +66,13 @@
       "actor": "zcode",
       "at": "2026-10-28T06:24:33Z",
       "evidence": "done：六道全过，state 机闭合；版本钉 pubinfo Jun 6 2023 + archive Summer 2023 + sha256 5be8592f"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T16:33:49Z",
+      "evidence": "纠正 12 项落实：空穴论证发挥主句补回、莱布尼茨等价句顺正、一大类、未曾强调落点、区别×2、著名的、在其他方面、早期接受、成功、拖带（carry along 已核）、致谢降级；标题经登记册核对一致不动；check_academic --strict 0；style 19 持平；prose 38（+1 为指定改文触阈值）。禁修 3 处未动（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
