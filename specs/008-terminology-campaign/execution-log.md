@@ -218,6 +218,10 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 
 人物 24（学界通行汉译）：米尔斯、赫尔、德雷斯基、哈恩、金在权、马里旦、开普勒、贝内特、塞亚（拉丁美洲哲学）、富勒、霍克海默、史密斯、牟宗三、卡特赖特、格赖斯、杰弗里、普莱斯、理查德·鲁弗斯（Cornwall）、亚当斯、斯克鲁顿、司马迁、潘恩、杨朱、周敦颐。术语 3：进化认识论（审定·自然辩证法直接命中）、《新工具》（培根）、旧证据（贝叶斯确认论）。重分型 14（American Revolution/Research Programmes/Quantum Chaos 等归 phrase）；junk 拒 21（Book Two/VIII 编号、Johann Gottfried/John Maynard/Stephen Jay 截断、Don Quixote/Jane Doe 虚构、State University 机构、Another World 泛词）。三表同步（登记册 +3、人名表 +24、词汇表 +27）；manifest tasks/manifests/2026-10-31-person-a3.json。check_all 七项全绿。
 
+### person A4 批（2026-10-31，深扫 rank 120-190，20 人物登记）
+
+人物 20（学界通行汉译；审定库不含哲人，凭证在案）：莱纳赫（早期现象学）、吉伯德（表达主义）、贝恩（联想主义）、施米特、麦金农（激进女性主义法学）、程颢、索萨（德性知识论）、席勒、伽达默尔、沃森、王浩（哥德尔研究）、菲尔德、威克里夫、扎格泽布斯基、梅森、沃尔特斯托夫、穆罕默德（先知）、基尔文顿（牛津计算者派）、托雷蒂、杰斐逊。池清理：重分型 15（Tibetan Buddhism/Lorentz Invariance/Cartesian Meditations 等归 phrase）、rejected 9。人名表 +20、词汇表 +20；manifest tasks/manifests/2026-10-31-person-a4.json。check_all 七项全绿。
+
 ### phrase 高频段首批（2026-10-31，freq≥90，18 词查证 16 词登记）
 
 审定直接命中 7：abstract objects 抽象对象（自然辩证法·科学哲学）、expected utility 期望效用（管理科学）、game theory 博弈论（审定双形：自然辩证法"博弈论"/管理科学"对策论"，后者作亦作）、intrinsic value 内在价值（技术哲学·环境伦理）、first-order logic 一阶逻辑（数学·数理逻辑）、practical reason 实践理性（科学哲学）、truth value 真值（数学·数理逻辑）。复合词佐证 1：truth conditions 真值条件（审定"真值条件语义学"）。审定双形并立 1：common knowledge 公共知识（计算机·人工智能）／共同知识（经济学）——主译采认知逻辑通行的公共知识。学界惯例 6：external world 外部世界、aesthetic experience 审美经验、pure reason 纯粹理性、modus ponens 肯定前件、common good 公共善、mathematical objects 数学对象；distributive justice 分配正义（审定"分配公平"心理学域作亦作）。人物 2：伯特兰·罗素、亚伯拉罕·伊本·以斯拉（犹太哲学）。池同步：possible worlds/possible world 既登记行 published；泛词/残片清洗 26。三表同步（登记册 +14、人名表 +2、词汇表 +16）；manifest tasks/manifests/2026-10-31-phrase-a1.json。check_all 七项全绿。

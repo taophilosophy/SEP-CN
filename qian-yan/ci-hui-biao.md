@@ -4,10 +4,13 @@
 
 |Abraham ibn Ezra|亚伯拉罕·伊本·以斯拉|亦作“伊本·以斯拉”；犹太哲学|
 |abstract objects|抽象对象|审定名词（自然辩证法·科学哲学）|
+|Adolf Reinach|阿道夫·莱纳赫|早期现象学（普莱斯纳学派前驱）|
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
 |Agent Intellect|主动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
 |Alain Locke|阿兰·洛克||
+|Alexander Bain|亚历山大·贝恩|联想主义心理学|
+|Allan Gibbard|艾伦·吉伯德|规范伦理学/表达主义|
 |Anti-Dühring|《反杜林论》|恩格斯|
 |anumāna|比量|印度量论|
 |arché|本原|亦作“始基”；希腊哲学术语|
@@ -19,10 +22,13 @@
 |Bertrand Russell|伯特兰·罗素||
 |Bildung|教化|伽达默尔语境|
 |biodiversity|生物多样性|审定名词（多域）|
+|Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
+|Catharine MacKinnon|凯瑟琳·麦金农|激进女性主义法学|
 |causal influence|因果影响|佐证审定“因果性”|
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
 |Chan Buddhism|禅宗|审定名词（中国古代史·宗教）|
 |Charles Mills|查尔斯·米尔斯|当代政治哲学|
+|Cheng Hao|程颢|宋明理学（与程颐并称二程）|
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
 |common good|公共善|政治哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
@@ -41,6 +47,7 @@
 |Epistemic Closure|认知封闭|知识论|
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
 |epoché|悬搁|亦作“悬置”；胡塞尔|
+|Ernest Sosa|欧内斯特·索萨|德性知识论|
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
 |evolutionary epistemology|进化认识论|审定名词（自然辩证法·科学哲学）|
 |expected utility|期望效用|审定名词（管理科学）|
@@ -49,12 +56,17 @@
 |Frankfurt School|法兰克福学派|审定名词（新闻传播学）|
 |Fred Dretske|弗雷德·德雷斯基|知识论与心灵哲学|
 |Freedom|自由|审定名词在案；学界通行同形|
+|Friedrich Schiller|弗里德里希·席勒|美学书简|
 |game theory|博弈论|亦作“对策论”；审定双形在案|
+|Gary Watson|加里·沃森|行动理论/道德心理学|
+|Georg Gadamer|格奥尔格·伽达默尔|哲学诠释学|
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
 |Gómez Pereira|戈麦斯·佩雷拉|西班牙文艺复兴|
 |Hans Hahn|汉斯·哈恩|维也纳学派|
+|Hao Wang|王浩|逻辑学家/哥德尔研究|
+|Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
 |Hilary Putnam|希拉里·普特南||
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
@@ -66,17 +78,20 @@
 |Jacques Maritain|雅克·马里旦|托马斯主义|
 |Jaegwon Kim|金在权|心灵哲学|
 |Johannes Kepler|约翰内斯·开普勒|审定“开普勒”在案（天文学）|
+|John Wyclif|约翰·威克里夫|中世纪晚期/宗教改革先声|
 |Jonathan Bennett|乔纳森·贝内特|近代哲学研究|
 |kinêsis|运动|希腊哲学术语|
 |La Géométrie|《几何学》|笛卡尔|
 |Leopoldo Zea|莱奥波尔多·塞亚|拉丁美洲哲学|
 |Liar Paradox|说谎者悖论|亦作“说谎者佯谬”；逻辑学|
+|Linda Zagzebski|琳达·扎格泽布斯基|德性知识论|
 |Löb’s theorem|勒布定理|数理逻辑|
 |logos|逻各斯|审定名词（自然辩证法·自然哲学）|
 |Löwenheim-Skolem theorem|勒文海姆–斯科伦定理|亦作“L-S定理”；审定缩略形在案|
 |Lüshi chunqiu|《吕氏春秋》|典籍|
 |Marcus Aurelius|马可·奥勒留|斯多亚|
 |Margaret Fuller|玛格丽特·富勒|美国超验主义|
+|Marin Mersenne|马兰·梅森|17 世纪学术通信网络中枢|
 |Mary Astell|玛丽·阿斯特尔|早期女性哲学家|
 |Max Horkheimer|马克斯·霍克海默|法兰克福学派|
 |Metaphysics|形而上学|审定名词在案|
@@ -93,6 +108,7 @@
 |Nancy Cartwright|南希·卡特赖特|科学哲学|
 |Natural Rights|自然权利|亦作“天赋人权”；审定“天赋人权”在案|
 |Necessary Truths|必然真理|逻辑学|
+|Nicholas Wolterstorff|尼古拉斯·沃尔特斯托夫|宗教哲学/正义论|
 |nous|努斯|亦作“理智”；希腊哲学术语|
 |Novum Organum|《新工具》|培根|
 |Occam’s razor|奥卡姆剃刀|审定名词（计算机·机器学习）|
@@ -108,6 +124,7 @@
 |polis|城邦|审定名词（世界历史·希腊）|
 |practical reason|实践理性|审定名词（自然辩证法·科学哲学）|
 |pratyakṣa|现量|印度量论；审定精确查无|
+|Prophet Muhammad|穆罕默德|伊斯兰教先知|
 |Provincial Letters|《外省书札》|帕斯卡；亦译“致外省人信札”|
 |Public Justification|公共证成|政治哲学|
 |Pure Land|净土|佛教学|
@@ -115,10 +132,12 @@
 |qi|气|拼音转写；中国哲学核心范畴|
 |relative frequency|相对频率|审定复合词佐证|
 |Richard Jeffrey|理查德·杰弗里|决策论|
+|Richard Kilvington|理查德·基尔文顿|牛津计算者派|
 |Richard Price|理查德·普莱斯|英国激进思想家|
 |Richard Rufus|理查德·鲁弗斯|Richard Rufus of Cornwall；中世纪注释家|
 |Robert Adams|罗伯特·亚当斯|宗教哲学/近代哲学研究|
 |Robert Brandom|罗伯特·布兰登|当代语用学转向|
+|Roberto Torretti|罗伯托·托雷蒂|康德/相对论哲学史|
 |Roger Scruton|罗杰·斯克鲁顿|美学/保守主义政治哲学|
 |Roman Ingarden|罗曼·英加尔登|现象学美学|
 |Rubā‘iyyāt|《鲁拜集》|海亚姆四行诗；审定精确查无|
@@ -137,6 +156,7 @@
 |Ten Commandments|十诫|宗教学|
 |theōria|静观|亦作“沉思”；希腊哲学术语|
 |Thomas Hobbes|托马斯·霍布斯||
+|Thomas Jefferson|托马斯·杰斐逊|美国建国政治哲学|
 |Thomas Paine|托马斯·潘恩|启蒙政治哲学|
 |tian|天|拼音转写；中国哲学范畴|
 |truth conditions|真值条件|审定复合词佐证（语言学）|

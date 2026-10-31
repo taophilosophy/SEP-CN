@@ -1,0 +1,19 @@
+{
+ "batch": "2026-10-31-person-a4",
+ "scope": "person 查遗续批（freq 15-45 深扫 rank 120-190）：人物 20 全部学界通行汉译（审定库不含哲人，凭证在案）",
+ "published_persons": [
+  {"en": "Adolf Reinach", "zh": "阿道夫·莱纳赫"}, {"en": "Allan Gibbard", "zh": "艾伦·吉伯德"},
+  {"en": "Alexander Bain", "zh": "亚历山大·贝恩"}, {"en": "Carl Schmitt", "zh": "卡尔·施米特"},
+  {"en": "Catharine MacKinnon", "zh": "凯瑟琳·麦金农"}, {"en": "Cheng Hao", "zh": "程颢"},
+  {"en": "Ernest Sosa", "zh": "欧内斯特·索萨"}, {"en": "Friedrich Schiller", "zh": "弗里德里希·席勒"},
+  {"en": "Georg Gadamer", "zh": "格奥尔格·伽达默尔"}, {"en": "Gary Watson", "zh": "加里·沃森"},
+  {"en": "Hao Wang", "zh": "王浩"}, {"en": "Hartry Field", "zh": "哈特里·菲尔德"},
+  {"en": "John Wyclif", "zh": "约翰·威克里夫"}, {"en": "Linda Zagzebski", "zh": "琳达·扎格泽布斯基"},
+  {"en": "Marin Mersenne", "zh": "马兰·梅森"}, {"en": "Nicholas Wolterstorff", "zh": "尼古拉斯·沃尔特斯托夫"},
+  {"en": "Prophet Muhammad", "zh": "穆罕默德（先知）"}, {"en": "Richard Kilvington", "zh": "理查德·基尔文顿"},
+  {"en": "Roberto Torretti", "zh": "罗伯托·托雷蒂"}, {"en": "Thomas Jefferson", "zh": "托马斯·杰斐逊"}
+ ],
+ "pool_cleanup": "重分型 15（Tibetan Buddhism/Consent Theory/Manipulation Argument/Reformed Epistemology/Lorentz Invariance/Ars Vetus/Communist Manifesto/Golden Verses/Learned Ignorance/Cartesian Meditations/Inner Chapters/Peloponnesian War/Tusculan Disputations/Summulae Logicales/Creative Evolution 等 → phrase）；rejected 9（日期残片/地理/机构/截断）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（20 键，tl-person-a4 三批）",
+ "registry_sync": "ren-ming-biao.md +20 行、ci-hui-biao.md +20 行"
+}
