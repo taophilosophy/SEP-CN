@@ -52,6 +52,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-28T20:44:02Z",
       "evidence": "六道走完 done：a/abelard.md（七节全译+参考文献97条照录+工具/其他/相关节）；术语10条双表同步；批次 a translate 进度 2/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T14:47:55Z",
+      "evidence": "纠正 9 项落实：波菲利×2/伪辩证法家指代/内在于身讹误/well-defined/紧缩统一/词而已/单薄小部头/一名女子/排列清零；check_academic --strict 0 硬错误；check_style 仅存量 bold-spacing 3 处；check_prose 88 条零新增。移交：波菲利/紧缩（deflationary）未入登记册，随 008 补登（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
