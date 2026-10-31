@@ -73,6 +73,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T00:00:00Z",
       "evidence": "补录（原推进漏记中间步，commit 4f8dda26 曾裁定另行上报；现按实际执行轨迹如实回填，不改动既有 4 步）：终审——六道并轨收束（原 done 步记'六道走完'）；版本钉 pubinfo May 14, 2025 / Summer 2025 在任务 JSON"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T16:26:14Z",
+      "evidence": "纠正 9 项落实：健全（有效）/立足空间/并非无关紧要、支持选择权括注、无辜威胁统一、星内空格 9 段 17 条清零（style 20→3）、爱护/伤害顺句、对他人实施堕胎、延伸阅读分节行；check_academic --strict 0（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
