@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T17:09:22Z",
       "evidence": "六道走完 done：a/abstract-objects.md（四节全译+note-1..24 译入+refs 137 条 defs 照录）；a 批 translate 进度 10/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T15:29:19Z",
+      "evidence": "纠正 14 项落实：解释力统一、(if and) only if 五处改「（如果）仅当」（另 L121/L158 为反向 if (and only if) 存疑半边相反，移交另裁）、关系的性质、系词补、反事实虚拟语气、补施动者、雷斯尼克/林内博首现括注统一、斜角/所谓/一套书/只要就相同/叠字/所针对有用性；check_academic --strict 0；style/prose 均无新增。移交：Resnik/Linnebo 登记册补行＋与 rules/03「现代学者人名保留英文」体例张力待裁定（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
