@@ -68,6 +68,7 @@
 | John Wyclif | 约翰·威克里夫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | John XXII | 约翰二十二世 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jonathan Bennett | 乔纳森·贝内特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| José Ortega | 何塞·奥尔特加 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Judith Butler | Judith Butler（现代学者正文保留英文；通行汉译“巴特勒”备查） | academic-freedom | 学界通行；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | King Milinda | 弥兰陀王（亦作“米兰达王”） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Leopoldo Zea | 莱奥波尔多·塞亚 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -83,6 +84,7 @@
 | Max Horkheimer | 马克斯·霍克海默 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Maximus Confessor | 马克西姆·忏悔者 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Michael D. Resnik | 雷斯尼克（首现括注 Michael D. Resnik） | abstract-objects | 学界通行汉译；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Michael Moore | 迈克尔·摩尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Michael Psellos | 米海尔·普塞洛斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Michael Smith | 迈克尔·史密斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Moses Narboni | 摩西·纳博尼 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |

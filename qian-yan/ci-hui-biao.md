@@ -97,8 +97,10 @@
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
 |John Stuart Mill|约翰·斯图亚特·穆勒|亦作“密尔”|
+|José Ortega|何塞·奥尔特加|西班牙存在主义另有同名导演，随词条|
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
 |Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
+|Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
 |Robert Post|Robert Post|现代学者保留英文；通行汉译“波斯特”|
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
