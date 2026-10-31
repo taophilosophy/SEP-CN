@@ -53,6 +53,15 @@ class TestCheckProse(unittest.TestCase):
     def test_dang_shihou(self):
         self.assertIn("dang-shihou", rules(run("当人们讨论归纳的时候，总会提到休谟。\n")))
 
+    def test_ongoing_action_not_weak_verb(self):
+        # "进行中的行动"是体貌义术语（S5 白名单 2026-10-31），非弱动词
+        self.assertNotIn("weak-verb", rules(run("能动性只在进行中的行动中显现。\n")))
+
+    def test_pipe_list_line_exempt(self):
+        # 相关词条竖线列表行不按散文长句计
+        line = "贝叶斯认识论 | 归纳问题 | 查尔斯·桑德斯·皮尔士 | 科学实在论 | 简单性 | 怀疑论\n"
+        self.assertEqual(run(line), [])
+
     def test_exempt_refs_and_math(self):
         md = ("## 参考文献\n\n"
               "[^a-2001]: Author, A., 2001. *Some Book*, Oxford: Oxford University Press.\n\n"

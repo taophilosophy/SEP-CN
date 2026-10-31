@@ -16,6 +16,8 @@
 
 豁免: 围栏代码块与行内代码、数学定界符 $…$/$$…$$、表格行、标题行、
       脚注定义行、参考文献节（含 ADR-0011 还原的中文著录行，非叙述散文）、
+      竖线列表行（如"相关词条"A｜B｜C 行，含 ≥2 个未转义 |）、
+      "进行中/进行中的"（体貌义，非弱动词结构）、
       汉字占比 <50% 或汉字数 <8 的行（公式、链接、英文镜像行）。
 
 退出码: 0 无问题（告警级，默认不拦提交）；1 有 issue（仅 --strict 时）。
@@ -40,7 +42,7 @@ BIB_HEADING_RE = re.compile(
 MATH_RE = re.compile(r"\$\$.+?\$\$|\$[^$]+\$")
 CODE_SPAN_RE = re.compile(r"`[^`]*`")
 
-WEAK_RE = re.compile(r"(?:进行|作出|加以|予以)了?(?:进一步|初步)?[%s]{2}" % HAN)
+WEAK_RE = re.compile(r"(?:进行(?!中)|作出|加以|予以)了?(?:进一步|初步)?[%s]{2}" % HAN)
 MEN_RE = re.compile(
     r"(?:作者|科学家|哲学家|读者|批评者|辩护者|支持者|反对者|回应者|论者"
     r"|逻辑学家|认识论者|参与者|使用者|观察者|行动者)们")
@@ -55,6 +57,8 @@ def check_line(path, lineno, line, issues):
     text = MATH_RE.sub("\x00", line)
     text = CODE_SPAN_RE.sub("\x00", text)
     if text.lstrip().startswith("[^"):
+        return
+    if text.count("|") >= 2:  # 竖线列表行（相关词条等），非叙述散文
         return
     han = HAN_RE.findall(text)
     body = re.sub(r"\s", "", text)
