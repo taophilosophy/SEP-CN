@@ -214,6 +214,10 @@ person 型 8711 条的 top 段约半数为**误分型真术语**（书名/机构
 
 人物 10（学界通行汉译）：阿兰·洛克、艾迪特·施泰因、戈麦斯·佩雷拉、马可·奥勒留、玛丽·阿斯特尔、罗伯特·布兰登、罗曼·英加尔登、第谷·布拉赫（审定"第谷"佐证·天文学）、威廉·冯特（审定"冯特"佐证·心理学）、颜回。术语 4：禅宗（审定·中国古代史）、共同感（亦作"通感"·康德/叔本华）、十诫、《外省书札》（帕斯卡；亦译"致外省人信札"）。重分型 23 条归 phrase；拒登 7（截断/残片/现代学者体例）；held 1（Mikyö Dorje 藏传人名待核）。三表同步（登记册 +4、人名表 +10、词汇表 +14）；manifest tasks/manifests/2026-10-31-person-a2.json。check_all 七项全绿。
 
+### person A3 批（2026-10-31，freq 12-45 深扫查遗，27 词登记）
+
+人物 24（学界通行汉译）：米尔斯、赫尔、德雷斯基、哈恩、金在权、马里旦、开普勒、贝内特、塞亚（拉丁美洲哲学）、富勒、霍克海默、史密斯、牟宗三、卡特赖特、格赖斯、杰弗里、普莱斯、理查德·鲁弗斯（Cornwall）、亚当斯、斯克鲁顿、司马迁、潘恩、杨朱、周敦颐。术语 3：进化认识论（审定·自然辩证法直接命中）、《新工具》（培根）、旧证据（贝叶斯确认论）。重分型 14（American Revolution/Research Programmes/Quantum Chaos 等归 phrase）；junk 拒 21（Book Two/VIII 编号、Johann Gottfried/John Maynard/Stephen Jay 截断、Don Quixote/Jane Doe 虚构、State University 机构、Another World 泛词）。三表同步（登记册 +3、人名表 +24、词汇表 +27）；manifest tasks/manifests/2026-10-31-person-a3.json。check_all 七项全绿。
+
 ### phrase 高频段首批（2026-10-31，freq≥90，18 词查证 16 词登记）
 
 审定直接命中 7：abstract objects 抽象对象（自然辩证法·科学哲学）、expected utility 期望效用（管理科学）、game theory 博弈论（审定双形：自然辩证法"博弈论"/管理科学"对策论"，后者作亦作）、intrinsic value 内在价值（技术哲学·环境伦理）、first-order logic 一阶逻辑（数学·数理逻辑）、practical reason 实践理性（科学哲学）、truth value 真值（数学·数理逻辑）。复合词佐证 1：truth conditions 真值条件（审定"真值条件语义学"）。审定双形并立 1：common knowledge 公共知识（计算机·人工智能）／共同知识（经济学）——主译采认知逻辑通行的公共知识。学界惯例 6：external world 外部世界、aesthetic experience 审美经验、pure reason 纯粹理性、modus ponens 肯定前件、common good 公共善、mathematical objects 数学对象；distributive justice 分配正义（审定"分配公平"心理学域作亦作）。人物 2：伯特兰·罗素、亚伯拉罕·伊本·以斯拉（犹太哲学）。池同步：possible worlds/possible world 既登记行 published；泛词/残片清洗 26。三表同步（登记册 +14、人名表 +2、词汇表 +16）；manifest tasks/manifests/2026-10-31-phrase-a1.json。check_all 七项全绿。

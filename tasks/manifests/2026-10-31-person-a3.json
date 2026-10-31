@@ -1,0 +1,27 @@
+{
+ "batch": "2026-10-31-person-a3",
+ "scope": "person 查遗续批（freq 12-45 深扫）：人物 24 + 术语 3 直裁；残片/截断/复合 re-type 14、junk 拒 21",
+ "published_persons": [
+  {"en": "Charles Mills", "zh": "查尔斯·米尔斯"}, {"en": "David Hull", "zh": "大卫·赫尔"},
+  {"en": "Fred Dretske", "zh": "弗雷德·德雷斯基"}, {"en": "Hans Hahn", "zh": "汉斯·哈恩"},
+  {"en": "Jaegwon Kim", "zh": "金在权"}, {"en": "Jacques Maritain", "zh": "雅克·马里旦"},
+  {"en": "Johannes Kepler", "zh": "约翰内斯·开普勒"}, {"en": "Jonathan Bennett", "zh": "乔纳森·贝内特"},
+  {"en": "Leopoldo Zea", "zh": "莱奥波尔多·塞亚"}, {"en": "Margaret Fuller", "zh": "玛格丽特·富勒"},
+  {"en": "Max Horkheimer", "zh": "马克斯·霍克海默"}, {"en": "Michael Smith", "zh": "迈克尔·史密斯"},
+  {"en": "Mou Zongsan", "zh": "牟宗三"}, {"en": "Nancy Cartwright", "zh": "南希·卡特赖特"},
+  {"en": "Paul Grice", "zh": "保罗·格赖斯"}, {"en": "Richard Jeffrey", "zh": "理查德·杰弗里"},
+  {"en": "Richard Price", "zh": "理查德·普莱斯"}, {"en": "Richard Rufus", "zh": "理查德·鲁弗斯"},
+  {"en": "Robert Adams", "zh": "罗伯特·亚当斯"}, {"en": "Roger Scruton", "zh": "罗杰·斯克鲁顿"},
+  {"en": "Sima Qian", "zh": "司马迁"}, {"en": "Thomas Paine", "zh": "托马斯·潘恩"},
+  {"en": "Yang Zhu", "zh": "杨朱"}, {"en": "Zhou Dunyi", "zh": "周敦颐"}
+ ],
+ "published_terms": [
+  {"en": "evolutionary epistemology", "zh": "进化认识论", "basis": "审定名词库·自然辩证法（科学哲学）"},
+  {"en": "Novum Organum", "zh": "《新工具》（培根）", "basis": "学界惯例"},
+  {"en": "old evidence", "zh": "旧证据（贝叶斯旧证据问题）", "basis": "学界惯例（科学哲学）"}
+ ],
+ "re_typed_to_phrase": 14,
+ "rejected": "21 条（编号残片 Book Two/Book VIII、截断 Johann Gottfried/John Maynard/Stephen Jay、虚构 Don Quixote/Jane Doe、机构 State University/National Institutes、泛词 Another World 等）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（27 键，tl-person-a3 四批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +3 行、ren-ming-biao.md +24 行、ci-hui-biao.md +27 行"
+}
