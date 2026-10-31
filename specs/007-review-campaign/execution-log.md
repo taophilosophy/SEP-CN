@@ -365,3 +365,38 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 * 门禁工具修订：check_style 增图片行豁免（同上）；check_academic WESTERN_PUB_RE（action 件）
 * 术语定案：感觉运动权变、传出拷贝、再传入/外传入、视向恒常性、光学重排装置、生成进路、运动成分理论、温和/大胆准备理论、倾向理论、局部符号、透视形状/大小、给予的神话
 * a 批进度 14/160
+
+
+## 2026-10-31 全量完整性复核：HTML 正文/非正文判定与 15 done 词条综合审计
+
+### HTML 结构判定（SEP 词条页固定模板）
+
+**属于正文**（`<!-- BEGIN ARTICLE HTML -->` … `<!-- END ARTICLE HTML -->` 区间内，#aueditable 区）——应译且已译：
+H1 题名、pubinfo 版本事实行（“首次发表于……”门禁钉）、byline 作者行、preamble 导言、全部编号节与引文块、References、Academic Tools、Other Internet Resources、Related Entries、Acknowledgments（有则译）、Notes 原文脚注（有则译）。
+
+**不属于正文**（区间外站点框架）——不译且经查零混入：
+站点头部导航、article sidebar 目录树、article-copyright 版权/邮箱行、article-banner 募捐横幅、footer（Browse/MENU 等）。
+
+**边界裁定**（区间内但按形制豁免）：
+1. byline 作者行（15/15 省略）：作者信息无损迁移至 H1 括注 `# 中文名 English Title (Author)`——合规省略，非漏译
+2. Academic Tools 表的 PDF 预览行（15/15 省略）：SEP 会员付费服务入口（Friends of the SEP Society），性质为站点服务链接而非词条内容——zh 形制为三行（如何引用/InPhO/PhilPapers），此后词条沿用
+3. zh 译注行（** （译注：……）**，14/15）：翻译工程自有说明，非 HTML 内容，已知豁免项
+
+### 15 done 词条综合审计结果
+
+| 核对维度 | 结果 |
+|---|---|
+| 站点框架文本混入 zh | 0 处（7 类框架短语 + copyright/fundraising 检测全负） |
+| 结构节缺失/多余（致谢/脚注/照录说明/学术工具三行/其他资源/相关词条） | 0 处（致谢 7 件与 HTML 有 Acknowledgments 者精确对应） |
+| Related Entries 条目数 vs HTML | 15/15 一致 |
+| 块级覆盖（para_align 既有结果） | 全部 EN 侧残留=0（正文区间内容零缺失）；zh 侧残留均为已裁定项（译注行/致谢或脚注标题布局差异） |
+| byline 省略 | 15/15（合规判定，见上） |
+| PDF 行省略 | 15/15（站点服务豁免判定，见上） |
+
+### 移交
+
+* a/advance-directives.md（并行会话件）：相关词条节缺“（译注：……统一挂接）”说明行，形制与其他 14 件不齐——归其责任会话补一行
+
+### 结论
+
+既有翻译对 HTML 正文区间实现完整覆盖、对区间外站点框架实现零混入；两处系统性形制省略（byline、PDF 行）经判定为合规豁免并登记为模板约定；无一处实质内容缺失。
