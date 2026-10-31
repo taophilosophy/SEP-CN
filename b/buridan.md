@@ -1,1 +1,1 @@
-# 让·布里丹 Buridan, John [Jean] (Jack Zupko)
+# 让·布里丹 John Buridan (Jack Zupko)

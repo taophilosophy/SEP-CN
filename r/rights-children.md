@@ -1,1 +1,1 @@
-# 儿童权利 of children (David William Archard)
+# 儿童权利 Children’s Rights

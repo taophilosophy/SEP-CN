@@ -1,1 +1,1 @@
-# 所罗门·伊本·盖比鲁勒 Ibn Gabirol, Solomon [Avicebron] (Sarah Pessin)
+# 所罗门·伊本·盖比鲁勒 Solomon Ibn Gabirol [Avicebron] (Sarah Pessin)

@@ -1,1 +1,1 @@
-# ε 演算 epsilon calculus (Jeremy Avigad and Richard Zach)
+# ε 演算 The Epsilon Calculus and Richard Zach)

@@ -1,1 +1,1 @@
-# 亚里士多德文本的传承 textual transmission of Aristotelian corpus (Justin Winzenrieth)
+# 亚里士多德文本的传承 The Textual Transmission of the Aristotelian Corpus (Justin Winzenrieth)

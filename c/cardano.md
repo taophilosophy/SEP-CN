@@ -1,1 +1,1 @@
-# 吉罗拉莫·卡尔达诺 Cardano, Girolamo [Geronimo] (Guido Giglioni and Jonathan Regier)
+# 吉罗拉莫·卡尔达诺 Girolamo [Geronimo] Cardano (Guido Giglioni and Jonathan Regier)

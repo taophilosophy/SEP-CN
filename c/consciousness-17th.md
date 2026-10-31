@@ -1,1 +1,1 @@
-# 17 世纪的意识理论 seventeenth-century theories of (Larry M. Jorgensen)
+# 17 世纪的意识理论 Seventeenth-Century Theories of Consciousness Jorgensen)

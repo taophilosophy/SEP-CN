@@ -1,1 +1,1 @@
-# 莱布尼茨对康德的影响 and Leibniz (Catherine Wilson)
+# 莱布尼茨对康德的影响 Leibniz’s Influence on Kant

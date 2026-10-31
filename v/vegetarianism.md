@@ -1,1 +1,1 @@
-# 伦理素食主义 vegetarianism, ethics of (Tyler Doggett)
+# 伦理素食主义 Moral Vegetarianism

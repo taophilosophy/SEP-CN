@@ -1,1 +1,1 @@
-# 达尔文之前的进化思想 concept before Darwin (Phillip Sloan)
+# 达尔文之前的进化思想 Evolutionary Thought Before Darwin
