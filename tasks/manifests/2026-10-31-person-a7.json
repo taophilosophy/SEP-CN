@@ -1,0 +1,22 @@
+{
+ "batch": "2026-10-31-person-a7",
+ "scope": "person 查遗续批（rank 260-335）：人物 24 全部学界通行汉译（审定库不含哲人，凭证在案）+ 池清理重分型 23 拒 19",
+ "published_persons": [
+  {"en": "Annette Baier", "zh": "安内特·拜尔"}, {"en": "Arthur Danto", "zh": "阿瑟·丹托"},
+  {"en": "Ernst Zermelo", "zh": "恩斯特·策梅洛"}, {"en": "Friedrich Waismann", "zh": "弗里德里希·魏斯曼"},
+  {"en": "Harriet Taylor", "zh": "哈丽雅特·泰勒"}, {"en": "Hillel Steiner", "zh": "希勒尔·斯坦纳"},
+  {"en": "Jason Stanley", "zh": "杰森·斯坦利"}, {"en": "Louis Althusser", "zh": "路易·阿尔都塞"},
+  {"en": "Margaret Gilbert", "zh": "玛格丽特·吉尔伯特"}, {"en": "Marie Curie", "zh": "玛丽·居里"},
+  {"en": "Michael Psellos", "zh": "米海尔·普塞洛斯"}, {"en": "Motoori Norinaga", "zh": "本居宣长"},
+  {"en": "Moses Narboni", "zh": "摩西·纳博尼"}, {"en": "Richard Dedekind", "zh": "理查德·戴德金"},
+  {"en": "Richard Popkin", "zh": "理查德·波普金"}, {"en": "Robert Audi", "zh": "罗伯特·奥迪"},
+  {"en": "Sandra Harding", "zh": "桑德拉·哈丁"}, {"en": "Stephen Stich", "zh": "斯蒂芬·斯蒂奇"},
+  {"en": "Thomas Carlyle", "zh": "托马斯·卡莱尔"}, {"en": "Thomas Scanlon", "zh": "托马斯·斯坎伦"},
+  {"en": "William Hamilton", "zh": "威廉·汉密尔顿"}, {"en": "William Wimsatt", "zh": "威廉·温萨特"},
+  {"en": "Paul Bernays", "zh": "保罗·贝尔奈斯"}, {"en": "Cornel West", "zh": "康奈尔·韦斯特"}
+ ],
+ "pool_cleanup": "重分型 23（Ramified Type/Montague Grammar/Yogacara School/Circle Principle/Middle Platonism 等归 phrase）；rejected 19（日期残片/地理泛词/机构/截断/蒯因变体）",
+ "incident": "A7 脚本 PERSON_ROWS 实含 Wimsatt 但补充脚本重复插入 → 人名表/词汇表各双行 → check_terms 自洽违例拦截 → 去重修复。教训重申：补充登记前必须 grep 目标键现有行",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（24 键，tl-person-a7 四批）",
+ "registry_sync": "ren-ming-biao.md +24 行、ci-hui-biao.md +24 行"
+}
