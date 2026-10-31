@@ -400,3 +400,11 @@ html.in-iframe .VPDoc .content-container {
   max-width: 100% !important;
   padding: 16px 24px 48px !important;
 }
+
+/* 对照模式行宽一致化(2026-10-31):iframe 侧 .vp-doc 与中文侧同为 VP 内容
+   宽(688px)居中——否则英文全宽 1138px vs 中文 688px,行宽两倍差极难看
+   (用户实测反馈) */
+html.in-iframe .vp-doc {
+  max-width: min(var(--vp-content-max-width, 688px), 100%);
+  margin: 0 auto;
+}
