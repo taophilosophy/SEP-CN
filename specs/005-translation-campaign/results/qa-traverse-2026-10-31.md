@@ -104,4 +104,50 @@ L98、L132、L194、L108、L104、L176。
 ### 总评
 术语系统（意涵/指称、所言、完全蕴涵、符合论/相似论/副词论、四类同一）一致、专名文献准确；C2＋M2 为必改项，修复成本低。
 
+## a/actualism-possibilism-ethics.md（全读完毕，2026-10-31）
+
+全读：中 616 行/英 617 行，26 个标题一一对应；64 条脚注键序一致闭合；8 组编号列表、公式（ODC、(U)、(NI)、(G)、(S)、(G+)、MWSS、(LO) 等）逐条对上；图 1 svg 路径一致、图注已译；长引文块逐字无增删。
+
+### Critical
+1. L317 交通案例**两条件句前件互换**：「如果她不变道而加速…如果她变道而加速…她的车会撞上卡车尾部」← "If she changes lanes without accelerating…If she accelerates without changing lanes, her car will collide…"——因果结构整体颠倒，且漏 "than if she accelerates"。改：上句「变道而不加速」、下句「加速而不变道」。
+2. L184 漏词毁义：「无条件与无条件（慎议）义务的区分」← "between unconditional and conditional (prudential) obligations"。改：「无条件与条件（慎议）义务」。
+
+### Major
+1. L105 部分-整体倒置：「由作为其组成部分的某个极大行动集…决定」← "of which it is a part"。改：「由它作为其一部分的某个极大行动集…决定」。
+2. L157 「人际慎议案例」← "intrapersonal case of prudence"（个体内）。改：「个人内部（intrapersonal）」。
+3. L198 衍字破句：「这两这两个选项会各发生什么」。改：「执行这两个选项各自会发生什么」。
+4. L317 「慢车」← truck（卡车），后文「撞上卡车尾部」失去先行词。改：「缓慢行驶的卡车」。
+
+### Minor（12）
+L99 节题 Actualism 宜作「现实主义」非「现实主义者」；Woodard 译名不一（伍德德 L180 vs 伍达德 L157/172/176）；人名中外文混用无定规（Zellner/泽尔纳、Carlson/卡尔森、Portmore/波特莫尔、Ross/罗斯）；L258 「生」宜「人生」；L412 Goldman 1986 文献表无条目（疑上游，疑为 1978）；L598–602 缺 PDF 预览；L11/L15/L464 三处「（（」衍字＋L11 *pro tanto* 斜体转粗体＋「** 会 **」星内空格残留；L405 衍空格、L13 节题杂糅；L464 「属于…的一部分」杂糅；L97 「1978:198」缺空格。
+
+### 疑上游（禁修）
+L115/L417 审阅语境 "invitation"；L259 拖延教授语境误作主语的 Jones。
+
+### 欧化 top
+L254、L105、L192（「做理论」）、L332、L214、L295。
+
+### 总评
+术语（现实主义/可能性主义/保障论/极大主义/全域主义、能力 1/2、极大行动集）一致，无立场改变与漏段；风险集中于交通案例条件句互换与两处文字讹误，定点可修。
+
+## a/abhidharma.md（全读完毕，2026-10-31）
+
+全读：中 349 行/英 354 行；8 个标题一一对应；原始文献 28＋二手 50 逐条同键同序；注 1–17 全译、注 5 长引文逐字无增删。
+
+### Critical
+1. L53 **整段漏译**（约 90 词）：镜像 L56 "The second, 'descriptive' soteriological process involved in the categorization…"（第二重「描述性」救赎过程：揭示经验之流变、证成无我、无为法亦无我、瓦解执取世界）整段缺失，且前文「第一，作为『评价性』分析」失去「第二」呼应。改：在「第一」段后增译该段为「第二」。
+
+### Major
+1. L83 整句重复：「使 dharma 的范畴类型独特者是什么，而非 dharmas 的存在论地位」连排两次（编辑残留）。删其一。
+2. L35 「dharmas 或可译作知觉」← "may be rendered apperceptions"（统觉）。改「统觉」并附原词。
+
+### Minor（12）
+L67/L69 "sub-moment" 未译×2；L111 「受持」宜「领受」＋漏 "to and from"；L109 "inactive mode" 译名与同段不一；阿毗达磨/阿毗昙交替无规律（L17/41/49 vs L67–107）；译名相撞两处（《分别论》《阿毗达磨藏》各撞一形）；注 14 unsatisfactoriness 宜「苦/不圆满」；注 12 "on" 未译；L105 「有情感的经验」漂移（全文通译「有情经验」）；L329–331 缺 PDF 预览；L347 相关词条行 Śāntarakṣita/Śrīgupta 未译（宜「寂护」）；L13 斜体 sūtras 转粗体体例不一；L119 distinct「分立」易读作 discrete。
+
+### 欧化 top
+L101、L85、L97、L71、L107、L119。
+
+### 总评
+梵巴术语（dharmas/dhammas、svabhāva、citta/cetasika、kṣaṇa 等）斜体完好、译名一致；四缘六因、二十四缘无缺号；C1（整段漏译）＋M2 之外质量高，定点可修。
+
 <!-- 追加区 -->
