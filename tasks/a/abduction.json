@@ -164,6 +164,13 @@
       "actor": "qa-rework-ses",
       "at": "2026-10-31T14:30:33Z",
       "evidence": "六道变更段复走完毕，done"
+    },
+    {
+      "step": "incident-recovery",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T14:40:09Z",
+      "evidence": "事故与恢复（如实记录）：qa-rework 复走误用 clear 命令——clear 是重译流程的清空译文破坏性动作（rules/04 清空动作），导致 zh_doc 被清为 1 行并随 0d0ac30f 误提交；已由 git checkout HEAD~1 恢复 435 行全文并重放 6 处纠正（本提交），与 HEAD~1 diff 仅含 6 处纠正；教训：done 词条定点纠正禁止经 clear 走 retranslate 状态机，改用本 incident-recovery 式追加凭证（reset 先例同型）。"
     }
   ],
   "blockers": [],
