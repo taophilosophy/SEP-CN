@@ -1,1 +1,1 @@
-# 卡尔·G·亨普尔 Hempel, Carl (James Fetzer)
+# 卡尔·G·亨普尔 Carl Hempel

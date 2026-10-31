@@ -1,1 +1,1 @@
-# 19 世纪苏格兰哲学 in the 19th century (Gordon Graham)
+# 19 世纪苏格兰哲学 Scottish Philosophy in the 19th Century

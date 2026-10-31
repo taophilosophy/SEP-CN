@@ -1,1 +1,1 @@
-# 道德/习俗区分 moral/conventional distinction (Edouard Machery and Stephen Stich)
+# 道德/习俗区分 The Moral/Conventional Distinction and Stephen Stich)

@@ -1,1 +1,1 @@
-# 道德直觉主义 moral intuitionism (Matthew S. Bedke)
+# 道德直觉主义 Intuitionism in Ethics

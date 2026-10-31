@@ -1,1 +1,1 @@
-# 怀疑论和内容外在主义 and content externalism (Gary Ebbs)
+# 怀疑论和内容外在主义 Content Externalism and Skepticism

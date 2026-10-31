@@ -1,1 +1,1 @@
-# 科学结果的可重复性 reproducibility, scientific (Fiona Fidler and John Wilcox)
+# 科学结果的可重复性 Reproducibility of Scientific Results and John Wilcox)

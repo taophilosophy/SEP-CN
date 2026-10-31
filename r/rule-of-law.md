@@ -1,1 +1,1 @@
-# 法治与程序正义 rule of law and procedural fairness (Kristen Rundle and Jeremy Waldron)
+# 法治与程序正义 The Rule of Law and Jeremy Waldron)

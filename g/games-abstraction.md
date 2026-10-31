@@ -1,1 +1,1 @@
-# 博弈、完全抽象与完全性 abstraction and completeness (Felice Cardone)
+# 博弈、完全抽象与完全性 Games, Full Abstraction and Full Completeness
