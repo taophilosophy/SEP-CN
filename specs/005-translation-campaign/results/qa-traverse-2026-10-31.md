@@ -56,4 +56,52 @@ L15、L27、L33、L179、L187、L319、L383、L401。
 ### 总评
 术语（无为/内篇/庖丁/道、原初理由、未完成体悖论、复写者、细颗粒/粗颗粒）全文一致；Critical 1（引文增字）＋Major 6（破句/残留集中在 §3、§4.4、§5.3–5.4，语义偏移在 §5.1、§7.1），忠实度高，立场无误。
 
+## a/academic-freedom.md（全读完毕，2026-10-31）
+
+全读：正文约 96 段＋1 五项编号列表；6 个 ##＋11 个 ### 一一对应；脚注键 131=131（note-1 排序差异无碍）；四组长引文逐字无增删。
+
+### Critical
+1. L33 术语注讹误：「*Lehrfreiheit*（教 FREE——…）」← "the freedom to teach…"。改：「（教之自由——按自己最好的理解而教的自由）」。
+
+### Major
+1. L67 增译强化：「当且仅当…相容时才被允许」← "when, if, and because its conclusions are compatible"（松散三重限定被强化为排他双条件）。改：「只能在其结论与执政党观点相容时、且正因相容才被允许从事研究」。
+2. L21 误译：「教职晋升之阶」← "advancement in clerical offices"（神职/圣职，非教职）。
+3. L223 文字讹误：「中立足克制」→「中立与克制」。
+
+### Minor（12）
+L7 漏 nearly；L13 漏 among（之一）；L33 漏 philosopher；L51 "combined" 易误读为「被合并的原则」；人名译写不一（Fish/费什、Butler/巴特勒、Post/波斯特、密尔/穆勒 L525）；anachronism 族译名不一（L13 时代错置 vs L187 过时）；L205 漏 "qua student scholars" 叠加；L223 「标淮」讹字；L141 「系科-学部」语序（discipline-and-department=学科-系）；学术工具缺 PDF 预览（体例性，与各词条同）。
+
+### 疑上游（禁修）
+EN L34 "akedemische" 拼误（中译径改 akademische 未注）；EN L23 "studia generale" 单复错配（中译径改未注）。
+
+### 欧化 top
+L17、L65、L91、L13、L59、L95。
+
+### 总评
+史实、案名、判例引注与四大长引文全数无误；缺陷为三处文字讹误（含「教 FREE」硬伤）、一处「当且仅当」式增译、一处神职误译、人名译写不统一，均可定点修复。
+
+## a/abelard.md（全读完毕，2026-10-31）
+
+全读：正文约 88 段＋9 书目列表＋4 引文块逐字无增删；7 ##＋2 ### 一一对应；脚注键 97=97。
+
+### Critical
+1. L36/L43 人名张冠李戴：「波爱修斯的亚里士多德导论《Isagoge》」「对波爱修斯《Isagoge》的直白转述」← "Porphyry's introduction to Aristotle, the Isagoge"——作者为波菲利（波爱修斯仅是译者），两处均误。
+2. L209 指代颠倒：「被自称"伪辩证法家"所贬斥的人」← "in conflict with those he called 'pseudo-dialecticians'"——是阿伯拉尔称对方为伪辩证法家。改：「使他与他斥为『伪辩证法家』的人冲突」。
+
+### Major
+1. L166 文字讹误：「形式的内在于身一个心灵的转变」句读不通。改：「通过形式内在于一个心灵而产生的转变」。
+2. L29 英文残留：well-defined 未译。
+
+### Minor（10）
+L90 「无所谓的话」贬抑语气为原文所无且与 L88 不一致；deflationary 译名不一（L140 祛魅 vs L154 紧缩）；Paraclete 译「天主圣神」名实有出入（前后一致）；L50 "a slight work"（单薄小作）义偏；L194 "a woman" 译「一位母亲」身份微调；L154 「排列」增空间义×2；学术工具缺 PDF 预览。
+
+### 疑上游（禁修）
+L23 教皇书信「维持苏瓦松会议决定」史实存疑（通行记载为桑斯判决），中译照录镜像；EN L62 "Soisssons"、L103 "separation form" 排印误（中译径正未注）；EN L427 "Person, Wirk, und Wirkung"、L255 页码 "389–340"。
+
+### 欧化 top
+L98、L132、L194、L108、L104、L176。
+
+### 总评
+术语系统（意涵/指称、所言、完全蕴涵、符合论/相似论/副词论、四类同一）一致、专名文献准确；C2＋M2 为必改项，修复成本低。
+
 <!-- 追加区 -->
