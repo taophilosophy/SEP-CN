@@ -32,6 +32,7 @@
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性） |
 | `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留；输出 JSON） |
+| `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`]( `链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）；硬错误退出码 1 |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
@@ -56,6 +57,7 @@
 
   ```sh
   python tools/check_style.py a/某词条.md      # 译文体例预检
+  python tools/check_prose.py a/某词条.md      # 语言质量（欧化）预检（告警级，ADR-0020）
   python tools/check_all.py                    # 一键全量合规复核（收工前/推审前）
   python tools/check_summary.py                # 目录结构审计（门禁）
   python tools/check_mulu_s.py                 # 分类目录对应性（门禁）
