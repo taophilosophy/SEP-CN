@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T15:46:41Z",
       "evidence": "六道走完 done：a/abilities.md（五节全译+refs 81 条 defs 照录拼接+致谢节）；a 批 translate 进度 8/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T15:18:21Z",
+      "evidence": "纠正 3 项落实：实质模式（material mode）、论文作者（plural-men 规避）、残障错字；check_academic --strict 0；style/prose 无新增（prose 37→35）（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],

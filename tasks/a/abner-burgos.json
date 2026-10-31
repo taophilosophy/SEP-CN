@@ -52,6 +52,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-29T16:13:49Z",
       "evidence": "六道走完 done：a/abner-burgos.md（六节+十章概要全译+脚注24条译出+文献45条照录+工具/其他/相关节）；批次 a translate 进度 5/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T15:18:20Z",
+      "evidence": "纠正 7 项落实：亚略巴古的狄奥尼修斯（伪狄奥尼修斯）、[^note-4] 锚点补挂（配对闭合）、阿布内尔×2、学院教堂、阿拉伯与犹太文献、较激进、补大体上；check_academic --strict 0；style/prose 无新增（prose 30→29）。登记册移交：狄奥尼修斯 待 008（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
