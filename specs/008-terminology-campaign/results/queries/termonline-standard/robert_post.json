@@ -1,0 +1,152 @@
+{
+ "key": "robert post",
+ "term": "Robert Post",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-31T16:48:07+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=183",
+ "hits": [
+  {
+   "cn": "立柱",
+   "en": "post",
+   "code": "GB/T 42627—2023",
+   "standard": "机械安全 围栏防护系统 安全要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "柱",
+   "en": "post",
+   "code": "GB/T 4549.1—2004",
+   "standard": "铁道车辆词汇 第 1 部分:基本词汇",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "译后会议",
+   "en": "post-conference",
+   "code": "GB/T 43980—2024",
+   "standard": "口译服务 医疗口译要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "根管桩",
+   "en": "root canal post",
+   "code": "GB/T 9937—2020",
+   "standard": "牙科学 名词术语",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "后处理",
+   "en": "post-processing",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "工后沉降",
+   "en": "post-constructionsettlement",
+   "code": "GB/T 50941—2014",
+   "standard": "建筑地基基础术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "邮政所",
+   "en": "post shop",
+   "code": "GB/T 50853—2013",
+   "standard": "城市通信工程规划规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "邮政支局",
+   "en": "post office",
+   "code": "GB/T 50853—2013",
+   "standard": "城市通信工程规划规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "路基工后沉降",
+   "en": "post-constructionsettlementofsubgrade",
+   "code": "GB/T 50262—2024",
+   "standard": "铁路工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "立柱",
+   "en": "post",
+   "code": "GB/T 4870—2020",
+   "standard": "汽车车身术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "镀后处理",
+   "en": "post-plating",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "后臭氧",
+   "en": "post-ozonation",
+   "code": "GB/T 50125—2010",
+   "standard": "给水排水工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "后评价",
+   "en": "post evaluation",
+   "code": "GB/T 43686—2024",
+   "standard": "电化学储能电站后评价导则",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "网杆",
+   "en": "net post",
+   "code": "GB/T 43703—2024",
+   "standard": "滑雪场地 安全网的安全要求和试验方法",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "项目后评价",
+   "en": "post-projectevaluation",
+   "code": "GB/T 44634—2024",
+   "standard": "水力发电技术基本术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "后处理",
+   "en": "post-process",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "核爆后补给",
+   "en": "post-bombrechargc",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "资格后审",
+   "en": "post qualification",
+   "code": "GB/T 42593—2023",
+   "standard": "政府和社会资本合作 基础术语与模式分类",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "生产后",
+   "en": "post-production",
+   "code": "GB/T 42062—2022",
+   "standard": "医疗器械 风险管理对医疗器械的应用 ",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "译后编辑",
+   "en": "post-edit",
+   "code": "GB/T 42092—2022",
+   "standard": "笔译、口译及相关技术 词汇 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 5, \"2023\": 7, \"2022\": 18, \"2021\": 18, \"2020\": 16, \"2019\": 4, \"2018\": 5, \"2017\": 6, \"2016\": 2, \"2015\": 9, \"2014\": 7, \"2013\": 5, \"2012\": 5, \"2011\": 7, \"2010\": 1, \"2009\": 1, \"2008\": 32, \"2007\": 1, \"2005\": 2, \"2004\": 2, \"1994\": 1, \"暂无年份\": 29}, \"sourceStats\": {\"食品技术\": 4, \"造纸技术\": 1, \"货物的包装和调运\": 1, \"航空器和航天器工程\": 1, \"能源和热传导工程\": 16, \"综合、术语学、标准化、文献\": 19, \"纺织和皮革技术\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 15, \"石油及相关技术\": 2, \"电气工程\": 5, \"电子学\": 6, \"电信、音频和视频工程\": 1, \"环保、保健和安全\": 7, \"橡胶和塑料工业\": 3, \"材料储运设备\": 1, \"机械制造\": 32, \"服装工业\": 2, \"数学、自然科学\": 8, \"成像技术\": 1, \"建筑材料和建筑物\": 1, \"家用和商用设备、文娱、体育\": 3, \"土木工程\": 1, \"医药卫生技术\": 10, \"化工技术\": 2, \"冶金\": 3, \"农业\": 5, \"其它\": 32}, \"typeStats\": {\"7\": 183}, \"totalRecords\": 183, \"tmWordList\": [{\"id\": \"f6ca355dd53449f4855eb443f6deccad\", \"databaseId\": null, \"standardId\": \"8fba26db9f7347ee802bd322db03469f\", \"standardCode\": \"GB/T 42627—2023\", \"standardName\": \"机械安全 围栏防护系统 安全要求\", \"standardEnName\": \"Safety of machinery—Perimeter fence guarding system—Safety requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.2.2\", \"cnName\": \"立柱\", \"enName\": \"post\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"13.110\", \"ccs\": \"J 09\", \"parentTermId\": null, \"titleId\": null, \"oid\": 152619, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"立柱\", \"cnNameSearch\": \"立柱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post\", \"wordSearch\": \"post\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在安装围栏中，用于固定位置和支撑面板的构件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a85e8f74441d4741b174df491a90cf24\", \"databaseId\": null, \"standardId\": \"7a8a1d6f057349bf89e5827810bd8914\", \"standardCode\": \"GB/T 4549.1—2004\", \"standardName\": \"铁道车辆词汇 第 1 部分:基本词汇\", \"standardEnName\": \"Railway vehicle vocabulary—Part 1: Basic vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"8.36\", \"cnName\": \"柱\", \"enName\": \"post\", \"publishTime\": \"2004-06-11\", \"publishYear\": \"2004\", \"implementTime\": \"2004-12-01\", \"ics\": \"01.040.45;45.060.20\", \"ccs\": \"S50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 130357, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"柱\", \"cnNameSearch\": \"柱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post\", \"wordSearch\": \"post\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"垂直设置的以承受轴向载荷为主的受力杆状构件。通常用于起支撑作用或限定墙、门、窗等的位置。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b787ec61dc744d5e907732c506678cf4\", \"databaseId\": null, \"standardId\": \"64bcb1fabd2c40118eb5b740eee9a939\", \"standardCode\": \"GB/T 43980—2024\", \"standardName\": \"口译服务 医疗口译要求\", \"standardEnName\": \"Interpreting services—Requirements for healthcare interpreting\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.3.7\", \"cnName\": \"译后会议\", \"enName\": \"post-conference\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"03.080.01\", \"ccs\": \"A16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100451, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"译后会议\", \"cnNameSearch\": \"译后会议\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-conference\", \"wordSearch\": \"post-conference\"}], \"allowableWord\": [{\"languageType\": 1, \"word\": \"post-session\", \"wordSearch\": \"post-session\"}, {\"languageType\": 1, \"word\": \"post-encounter\", \"wordSearch\": \"post-encounter\"}], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"译后报告\", \"cnNameSearch\": \"译后报告\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"debriefing\", \"wordSearch\": \"debriefing\"}], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在交流事件之后，口译员根据需要向最终用户概述当前任务相关信息的过程。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4fcf7ddb7ad94f58bd9b79606a88a7d0\", \"databaseId\": null, \"standardId\": \"769f542c364e4423b31bc8ac4f58dc12\", \"standardCode\": \"GB/T 9937—2020\", \"standardName\": \"牙科学 名词术语\", \"standardEnName\": \"Dentistry—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.277\", \"cnName\": \"根管桩\", \"enName\": \"root canal post\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2021-07-01\", \"ics\": \"11.060.10\", \"ccs\": \"C 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 120408, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"根管桩\", \"cnNameSearch\": \"根管桩\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"root canal post\", \"wordSearch\": \"root canal post\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"牙髓桩\", \"cnNameSearch\": \"牙髓桩\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"endodontic post\", \"wordSearch\": \"endodontic post\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"桩\", \"cnNameSearch\": \"桩\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"post\", \"wordSearch\": \"post\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"牙科器械 ，其中一部分插入到预备好的根管中用于固位，另外一部分从根管中伸出为牙科修复体提供支持。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"10d1eb8651f841eea68898531ed33af5\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.11.9  \", \"cnName\": \"后处理\", \"enName\": \"post-processing\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4356, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后处理\", \"cnNameSearch\": \"后处理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-processing\", \"wordSearch\": \"post-processing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据计算分析结果显示结构应力、应变、位移、画配筋施工图等的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0a1ff0a98754461bb97fab0ed25b600f\", \"databaseId\": null, \"standardId\": \"0fc394ccc5b849ef8d25f7594ce82718\", \"standardCode\": \"GB/T 50941—2014\", \"standardName\": \"建筑地基基础术语标准\", \"standardEnName\": \"Standard for terms used in building foundation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.6.2\", \"cnName\": \"工后沉降\", \"enName\": \"post-constructionsettlement\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 14473, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"工后沉降\", \"cnNameSearch\": \"工后沉降\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-constructionsettlement\", \"wordSearch\": \"post-constructionsettlement\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建（构）筑物竣工以后发生的沉降。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"92a36037b6af4b3795663cf87363f82f\", \"databaseId\": null, \"standardId\": \"53d21d38ee8442e29c0fc8e66db795d7\", \"standardCode\": \"GB/T 50853—2013\", \"standardName\": \"城市通信工程规划规范\", \"standardEnName\": \"Code of urban communication engineering planning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18 \", \"cnName\": \"邮政所\", \"enName\": \"post shop\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 87077, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"邮政所\", \"cnNameSearch\": \"邮政所\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post shop\", \"wordSearch\": \"post shop\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"指只办理邮件收寄和报刊零售等窗口业务的邮政支局下属营业机构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6514600d6c91419182931e81ae80dd3b\", \"databaseId\": null, \"standardId\": \"53d21d38ee8442e29c0fc8e66db795d7\", \"standardCode\": \"GB/T 50853—2013\", \"standardName\": \"城市通信工程规划规范\", \"standardEnName\": \"Code of urban communication engineering planning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.17 \", \"cnName\": \"邮政支局\", \"enName\": \"post office\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 87081, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"邮政支局\", \"cnNameSearch\": \"邮政支局\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post office\", \"wordSearch\": \"post office\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"指主要提供邮件收寄和投递服务的邮政分支服务网点。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8b53b3e6c5294f74b4d31503bd219244\", \"databaseId\": null, \"standardId\": \"6a8733be263d49b6b046a6fc6ca32af7\", \"standardCode\": \"GB/T 50262—2024\", \"standardName\": \"铁路工程术语标准\", \"standardEnName\": \"Standard for terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.1.25\", \"cnName\": \"路基工后沉降\", \"enName\": \"post-constructionsettlementofsubgrade\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 105715, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"路基工后沉降\", \"cnNameSearch\": \"路基工后沉降\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-constructionsettlementofsubgrade\", \"wordSearch\": \"post-constructionsettlementofsubgrade\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铺轨工程完成以后路基的沉降量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4fb25a7c5e7a407e8f04156c02f9deeb\", \"databaseId\": null, \"standardId\": \"829f8b101c704f70b6e0a2bfd8f23c23\", \"standardCode\": \"GB/T 4870—2020\", \"standardName\": \"汽车车身术语\", \"standardEnName\": \"Terms for motor vehicle body\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.19\", \"cnName\": \"立柱\", \"enName\": \"post\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 137548, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"立柱\", \"cnNameSearch\": \"立柱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post\", \"wordSearch\": \"post\"}, {\"languageType\": 1, \"word\": \"pillar\", \"wordSearch\": \"pillar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"起竖直支承作用的部件或构件<br>适用车型：M、N\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cdc609ff1bc94f6ba56fc670e3278881\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"9.1.27\", \"cnName\": \"镀后处理\", \"enName\": \"post-plating\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 176203, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"镀后处理\", \"cnNameSearch\": \"镀后处理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-plating\", \"wordSearch\": \"post-plating\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为使镀件增强防腐性能、装饰性及其他特殊目的而进行的电镀后置技术处理。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"980db1785a614024bd0bcd95598c653a\", \"databaseId\": null, \"standardId\": \"ee0c0c28e84d4e83997d0fb92d7413c5\", \"standardCode\": \"GB/T 50125—2010\", \"standardName\": \"给水排水工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of water and wastewater engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.1.91\", \"cnName\": \"后臭氧\", \"enName\": \"post-ozonation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 233166, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后臭氧\", \"cnNameSearch\": \"后臭氧\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-ozonation\", \"wordSearch\": \"post-ozonation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设置在过滤之前或过滤之后的臭氧净水过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5f2ffbd6793f4fc580c3c2644c64f6fb\", \"databaseId\": null, \"standardId\": \"0d1ffd752bbf45ec83b38cff8f49dfc5\", \"standardCode\": \"GB/T 43686—2024\", \"standardName\": \"电化学储能电站后评价导则\", \"standardEnName\": \"Guide for post evaluation of electrochemical energy storage station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.1\", \"cnName\": \"后评价\", \"enName\": \"post evaluation\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"27.180\", \"ccs\": \"F19\", \"parentTermId\": null, \"titleId\": null, \"oid\": 11784, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后评价\", \"cnNameSearch\": \"后评价\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post evaluation\", \"wordSearch\": \"post evaluation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"项目已经完成并运行一段时间后，对项目的目标实现程度、实施结果、作用影响和效益进行系统、客观分析和总结的一种技术经济活动。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c90c02bd3a27487ebd026cb30df0ff2b\", \"databaseId\": null, \"standardId\": \"22bcffb9fab3451cb69a35d21fa99fd7\", \"standardCode\": \"GB/T 43703—2024\", \"standardName\": \"滑雪场地 安全网的安全要求和试验方法\", \"standardEnName\": \"Ski area—Safety requirements and test methods of skiing nets\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.3\", \"cnName\": \"网杆\", \"enName\": \"net post\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"97.220.209\", \"ccs\": \"Y55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33344, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"网杆\", \"cnNameSearch\": \"网杆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"net post\", \"wordSearch\": \"net post\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于支撑固定网面的柱子。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9e1510b488264a1899c38719dd55f0a4\", \"databaseId\": null, \"standardId\": \"76f212f62a7247dea622fc9e01367107\", \"standardCode\": \"GB/T 44634—2024\", \"standardName\": \"水力发电技术基本术语\", \"standardEnName\": \"Basic terminology of hydropower engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.3.11\", \"cnName\": \"项目后评价\", \"enName\": \"post-projectevaluation\", \"publishTime\": \"2024-09-29\", \"publishYear\": \"2024\", \"implementTime\": \"2025-04-01\", \"ics\": \"27.14027\", \"ccs\": \"P 59\", \"parentTermId\": null, \"titleId\": null, \"oid\": 120862, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"项目后评价\", \"cnNameSearch\": \"项目后评价\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-projectevaluation\", \"wordSearch\": \"post-projectevaluation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"项目建成投产并运行一段时间之后，对项目实施过程、结果及其影响进行调查研究和全面系统回\\n顾，与项目决策时确定的目标以及技术、经济、环境、社会指标进行对比，总结经验，提出对策和建议，达\\n到改善投资管理和决策、提高投资效益的目的。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"169a391e4d734e00833cd45b86108f85\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"8.6.2.12\", \"cnName\": \"后处理\", \"enName\": \"post-process\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121769, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后处理\", \"cnNameSearch\": \"后处理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-process\", \"wordSearch\": \"post-process\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"数值模拟模型的代数方程组求解之后，对结果进行处理的工作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7aa7b047a5e44d70a9f1361dfe505f89\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"8.5.5.8\", \"cnName\": \"核爆后补给\", \"enName\": \"post-bombrechargc\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121815, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"核爆后补给\", \"cnNameSearch\": \"核爆后补给\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-bombrechargc\", \"wordSearch\": \"post-bombrechargc\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人类大气核爆试验以后（1950年以来）补给的地下水。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1df8495527d94c628203026664ceba7c\", \"databaseId\": null, \"standardId\": \"8615b415d48a499a8d8d731ce64427de\", \"standardCode\": \"GB/T 42593—2023\", \"standardName\": \"政府和社会资本合作 基础术语与模式分类\", \"standardEnName\": \"Public—private partnership —Basic terminology and pattern classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.5.1.3\", \"cnName\": \"资格后审\", \"enName\": \"post qualification\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"01.040.01\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 141857, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"资格后审\", \"cnNameSearch\": \"资格后审\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post qualification\", \"wordSearch\": \"post qualification\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在开标后对投标人进行的资格审查。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"217d5002f55f47feb28e6b9f571912ea\", \"databaseId\": null, \"standardId\": \"7f83e7b3b8134505a5455cc59fd3ce5f\", \"standardCode\": \"GB/T 42062—2022\", \"standardName\": \"医疗器械 风险管理对医疗器械的应用 \", \"standardEnName\": \"Medical devices—Application of risk management to medical devices \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.12\", \"cnName\": \"生产后\", \"enName\": \"post-production\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-11-01\", \"ics\": \"ICS 11.040.01\", \"ccs\": \"CCS C 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 135082, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生产后\", \"cnNameSearch\": \"生产后\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-production\", \"wordSearch\": \"post-production\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"医疗器械设计完成和制造之后的医疗器械生命周期部分。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>运输、贮存、安装、产品使用、维护、维修、产品更改、最终停用和处置。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"94cc3e9e1c804482a34c27a337122cc0\", \"databaseId\": null, \"standardId\": \"de79e6d4261c403d9e8af157d7273cc3\", \"standardCode\": \"GB/T 42092—2022\", \"standardName\": \"笔译、口译及相关技术 词汇 \", \"standardEnName\": \"Translation , interpreting and related technology—Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.5.1.11\", \"cnName\": \"译后编辑\", \"enName\": \"post-edit\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 03.080.99 ; 35.240.30\", \"ccs\": \"CCS A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217914, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"译后编辑\", \"cnNameSearch\": \"译后编辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"post-edit\", \"wordSearch\": \"post-edit\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"编辑和修正机器翻译输出。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 10}}, \"timestamp\": 1793465289921}"
+}

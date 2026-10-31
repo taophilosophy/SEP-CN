@@ -1,0 +1,152 @@
+{
+ "key": "john stuart mill",
+ "term": "John Stuart Mill",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-31T16:47:52+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=211",
+ "hits": [
+  {
+   "cn": "压榨机",
+   "en": "mill",
+   "code": "GB/T 9289—2010",
+   "standard": "制糖工业术语",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "初轧机",
+   "en": "blooming mill",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "轧机",
+   "en": "mill",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "粗轧机",
+   "en": "roughing mill",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "开放式炼胶机",
+   "en": "mill, two-roll mill",
+   "code": "GB/T 9881—2008",
+   "standard": "橡胶  术语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "开放式炼胶机炼塑机",
+   "en": "mill;two-roll mill;mill forrubber andplastics",
+   "code": "GB/T 36587—2018",
+   "standard": "橡胶塑料机械 术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "型材轧机",
+   "en": "section mill",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "水泥磨",
+   "en": "cement mill",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "生料磨",
+   "en": "raw mill",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "管磨",
+   "en": "tube mill",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "立磨",
+   "en": "oller mill",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "机组",
+   "en": "mill set",
+   "code": "GB 50754—2012",
+   "standard": "挤压钢管工程设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "机组",
+   "en": "mill set",
+   "code": "GB/T 50398—2018",
+   "standard": "无缝钢管工程设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "轧机",
+   "en": "rolling mill",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "加工剩余物",
+   "en": "mill residue",
+   "code": "GB/T 30366—2024",
+   "standard": "生物质术语",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "海磨坊",
+   "en": "coast mill",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "冶金轧辊",
+   "en": "mill roll",
+   "code": "GB/T 15546—2022",
+   "standard": "冶金轧辊术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "轧制边",
+   "en": "mill edge",
+   "code": "GB/T 40282—2021",
+   "standard": "结构级和高强度双辊铸轧热轧薄钢板及钢带",
+   "subject": "冶金"
+  },
+  {
+   "cn": "轧制边",
+   "en": "mill edge",
+   "code": "GB/T 40383—2021",
+   "standard": "商品级双辊铸轧热轧碳素钢薄钢板及钢带",
+   "subject": "冶金"
+  },
+  {
+   "cn": "制管厂",
+   "en": "pipe mill",
+   "code": "GB/T 39096—2020",
+   "standard": "石油天然气工业 油气井油管用铝合金管",
+   "subject": "冶金"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 3, \"2023\": 2, \"2022\": 6, \"2021\": 2, \"2020\": 1, \"2019\": 6, \"2018\": 3, \"2016\": 119, \"2015\": 5, \"2013\": 5, \"2012\": 5, \"2011\": 8, \"2010\": 4, \"2008\": 9, \"2000\": 1, \"1996\": 1, \"1988\": 8, \"暂无年份\": 23}, \"sourceStats\": {\"食品技术\": 19, \"采矿和矿产品\": 5, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 1, \"石油及相关技术\": 2, \"电子学\": 8, \"环保、保健和安全\": 2, \"涂料和颜料工业\": 2, \"橡胶和塑料工业\": 2, \"机械制造\": 5, \"木材技术\": 2, \"数学、自然科学\": 1, \"化工技术\": 2, \"冶金\": 129, \"其它\": 26}, \"typeStats\": {\"7\": 211}, \"totalRecords\": 211, \"tmWordList\": [{\"id\": \"c810504b55174fecb7eba021860fd0cf\", \"databaseId\": null, \"standardId\": \"c9ea8743fe674c8887086a50f50b2b5b\", \"standardCode\": \"GB/T 9289—2010\", \"standardName\": \"制糖工业术语\", \"standardEnName\": \"Terminology in sugar industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"2.3.3.2\", \"cnName\": \"压榨机\", \"enName\": \"mill\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-02-01\", \"ics\": \"67.180.106\", \"ccs\": \"X30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 203372, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"压榨机\", \"cnNameSearch\": \"压榨机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill\", \"wordSearch\": \"mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"压榨蔗料提取蔗汁的设备。通常为三辊式，亦有四辊式、五辊式等。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"27304b00450c4f95b18c17b6e9cb81de\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.4.1\", \"cnName\": \"初轧机\", \"enName\": \"blooming mill\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51577, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"初轧机\", \"cnNameSearch\": \"初轧机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"blooming mill\", \"wordSearch\": \"blooming mill\"}, {\"languageType\": 1, \"word\": \"cogging mill\", \"wordSearch\": \"cogging mill\"}, {\"languageType\": 1, \"word\": \"slabbing mill\", \"wordSearch\": \"slabbing mill\"}, {\"languageType\": 1, \"word\": \"primary mill\", \"wordSearch\": \"primary mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将铸锭或连铸坏热轧成半成品坯的轧机。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4cdb4bb939754239b4abdfc099072bb2\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.1\", \"cnName\": \"轧机\", \"enName\": \"mill\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51755, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"轧机\", \"cnNameSearch\": \"轧机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill\", \"wordSearch\": \"mill\"}, {\"languageType\": 1, \"word\": \"rolling mill, block\", \"wordSearch\": \"rolling mill, block\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用轧制的方法生产钢材和其他金属材的机器。在狭义上，通常把使轧件产生塑性变形的机器称为轧机，而在广义上，轧机常常指在轧制生产工艺过程中所需要的一整套机械设备，一般包括由轧机及其一系列辅助设备所组成的成套机组。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5aded159e54d4d04835111f51906d9fa\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.20\", \"cnName\": \"粗轧机\", \"enName\": \"roughing mill\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51896, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"粗轧机\", \"cnNameSearch\": \"粗轧机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"roughing mill\", \"wordSearch\": \"roughing mill\"}, {\"languageType\": 1, \"word\": \"cogging mill\", \"wordSearch\": \"cogging mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一套轧机中的第一架或前几架轧机，对轧件以大变形量进行轧制的轧机。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b2233db9d188462680fd1368eebf0381\", \"databaseId\": null, \"standardId\": \"6e8e91f0f4f14cd59839324632d4ab97\", \"standardCode\": \"GB/T 9881—2008\", \"standardName\": \"橡胶  术语\", \"standardEnName\": \"Rubber - Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"2.250\", \"cnName\": \"开放式炼胶机\", \"enName\": \"mill, two-roll mill\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-02-01\", \"ics\": \"83.060\", \"ccs\": \"G40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 112008, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"开放式炼胶机\", \"cnNameSearch\": \"开放式炼胶机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill, two-roll mill\", \"wordSearch\": \"mill, two-roll mill\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"开炼机\", \"cnNameSearch\": \"开炼机\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"进行塑炼、混炼、掺合、热炼或压片时用的带有两个对转辊筒的机器。该机器的辊筒可频繁加热或冷却，通常以不同的速度驱动，并具有可调的辊距。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8b9c056c894f4eedb239b5a1aec91e9a\", \"databaseId\": null, \"standardId\": \"a8a6d4ccf7144dd4bce042fa90f3014a\", \"standardCode\": \"GB/T 36587—2018\", \"standardName\": \"橡胶塑料机械 术语\", \"standardEnName\": \"Rubber and plastics machinery—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.2.1\", \"cnName\": \"开放式炼胶机炼塑机\", \"enName\": \"mill;two-roll mill;mill forrubber andplastics\", \"publishTime\": \"2018-09-17\", \"publishYear\": \"2018\", \"implementTime\": \"2019-04-01\", \"ics\": \"71.120\", \"ccs\": \"G95\", \"parentTermId\": null, \"titleId\": null, \"oid\": 172104, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"开放式炼胶机炼塑机\", \"cnNameSearch\": \"开放式炼胶机炼塑机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill;two-roll mill;mill forrubber andplastics\", \"wordSearch\": \"mill;two-roll mill;mill forrubber andplastics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"开炼机\\n具有两个水平放置、相互平行、相向回转的辊筒，在可调辊隙中进行塑炼、混炼、压片、热炼等作业的\\n机械。辊筒通常需冷却或加热。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3b87ffbb1d6740499214e604d4bda48a\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.5\", \"cnName\": \"型材轧机\", \"enName\": \"section mill\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51944, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"型材轧机\", \"cnNameSearch\": \"型材轧机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"section mill\", \"wordSearch\": \"section mill\"}, {\"languageType\": 1, \"word\": \"shape mill\", \"wordSearch\": \"shape mill\"}, {\"languageType\": 1, \"word\": \"section rolling mill\", \"wordSearch\": \"section rolling mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"轧制轨梁、工字钢、槽钢、角钢等型材的轧机。型材轧机一般用轧辊名义直径命名,例如 650 型材轧机即指轧机轧辊名义直径(或传动轧辊的人字齿轮节圆直径)为 φ650  mm 。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8c5fc12fe8254be1a34a89b5cb4240b6\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.28 \", \"cnName\": \"水泥磨\", \"enName\": \"cement mill\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18533, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水泥磨\", \"cnNameSearch\": \"水泥磨\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cement mill\", \"wordSearch\": \"cement mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于粉磨水泥的设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"83e56275f8e84d2492fe12b367b23ea5\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.7 \", \"cnName\": \"生料磨\", \"enName\": \"raw mill\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18656, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生料磨\", \"cnNameSearch\": \"生料磨\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"raw mill\", \"wordSearch\": \"raw mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于粉磨生料的粉磨设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6875a9fa46ba4954a11703db38ac3f8d\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.5\", \"cnName\": \"管磨\", \"enName\": \"tube mill\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18663, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"管磨\", \"cnNameSearch\": \"管磨\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tube mill\", \"wordSearch\": \"tube mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为筒形旋转装置,外沿齿轮传动,两仓,格子型粉磨设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"988c81f93f184f038d0e99eea2ff8df8\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.4 \", \"cnName\": \"立磨\", \"enName\": \"oller mill\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18722, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"立磨\", \"cnNameSearch\": \"立磨\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"oller mill\", \"wordSearch\": \"oller mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"传动轴呈竖直布置，依靠磨辊和磨盘之间的碾压对物料进行粉磨,并可进行烘干、选粉和输送的粉磨设备。又称辊式磨。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ad64e85c2e2f4381806db7fb54125876\", \"databaseId\": null, \"standardId\": \"315099ea0976445c8d09a2f487b049be\", \"standardCode\": \"GB 50754—2012\", \"standardName\": \"挤压钢管工程设计规范\", \"standardEnName\": \"Code for design of steel pipe extrusion engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"机组\", \"enName\": \"mill set\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52345, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机组\", \"cnNameSearch\": \"机组\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill set\", \"wordSearch\": \"mill set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为完成产品大纲规定的产品所需要的，从原料准备到成品全过程的全部工艺设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8c6c5724fef2409eaf7cc81d6c268262\", \"databaseId\": null, \"standardId\": \"679f53bbd6034d5eb9e9c76aedcd5f11\", \"standardCode\": \"GB/T 50398—2018\", \"standardName\": \"无缝钢管工程设计标准\", \"standardEnName\": \"Standard for design of project on seamless steel tubes\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.8\", \"cnName\": \"机组\", \"enName\": \"mill set\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 102435, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机组\", \"cnNameSearch\": \"机组\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill set\", \"wordSearch\": \"mill set\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"完成一项特定工艺功能的设备，如穿孔机组、轧管机组、定径机组、矫直机组、冷轧机组、水压机组、火机组、探伤机组、管体车丝机组、接箍车丝机组等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3f84eca430f1452ea399957b1d4934dc\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"16.5.6\", \"cnName\": \"轧机\", \"enName\": \"rolling mill\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223554, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"轧机\", \"cnNameSearch\": \"轧机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rolling mill\", \"wordSearch\": \"rolling mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用作金属轧制加工的机器，操作中使轧件在转动的轧辊间变形，以加工钢坏、型材、板材、管材、线<br>材等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c0fed5ff8c1490e983cd8ed196f3b40\", \"databaseId\": null, \"standardId\": \"8e7d0a9970b349709f1509241a00acf1\", \"standardCode\": \"GB/T 30366—2024\", \"standardName\": \"生物质术语\", \"standardEnName\": \"Biomass vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.2.8\", \"cnName\": \"加工剩余物\", \"enName\": \"mill residue\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"79.010\", \"ccs\": \"B60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 150494, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"加工剩余物\", \"cnNameSearch\": \"加工剩余物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill residue\", \"wordSearch\": \"mill residue\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将木材、竹材、藤材等生物质原料加工成木、竹、藤制品、纸张或生物质能源等过程中产生的边角料、树皮和残渣等。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"340650838cbe4e559985826900472a55\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.6.2.22\", \"cnName\": \"海磨坊\", \"enName\": \"coast mill\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 122386, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"海磨坊\", \"cnNameSearch\": \"海磨坊\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"coast mill\", \"wordSearch\": \"coast mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"岩溶海岛的岸边，由于现今海水淹没早期复杂的地下通道，及咸淡水比重不同产生内吸作用，从而\\n出现的海水向岛内大量消落的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1919be47281c4b4c8aba183cab7ca8fb\", \"databaseId\": null, \"standardId\": \"d0410fa762004cf1a9639fbbc9521b2c\", \"standardCode\": \"GB/T 15546—2022\", \"standardName\": \"冶金轧辊术语\", \"standardEnName\": \"Terms of mill rolls\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"3.1\", \"cnName\": \"冶金轧辊\", \"enName\": \"mill roll\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"77.180\", \"ccs\": \"H 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 208279, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"冶金轧辊\", \"cnNameSearch\": \"冶金轧辊\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill roll\", \"wordSearch\": \"mill roll\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在冶金工业轧机上使金属轧件产生塑性变形的轧制工具。</p><p><img src=\\\"/standard/37db0c71d8684fe7b04febf9b2440e13/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>典型轧辊示意图见图1。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"44a3f2d7aa5c4549bfc00a01ca4fe9e1\", \"databaseId\": null, \"standardId\": \"2b5b952b5c05487abd66fac44463e0a0\", \"standardCode\": \"GB/T 40282—2021\", \"standardName\": \"结构级和高强度双辊铸轧热轧薄钢板及钢带\", \"standardEnName\": \"Hot-rolled twin roll cast steel sheets and strips of structural quality and high strength steel\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"3.3\", \"cnName\": \"轧制边\", \"enName\": \"mill edge\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"77.140.50\", \"ccs\": \"H 46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44590, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"轧制边\", \"cnNameSearch\": \"轧制边\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill edge\", \"wordSearch\": \"mill edge\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"热轧产生的没有明显轮廓的正常边。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>可包括一些不规则的如开裂或磨损的边或薄（羽毛）边。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bfeb0f2e17af4bc5810be6a97c8c02cf\", \"databaseId\": null, \"standardId\": \"afc3bf2281574d178166985781dedbfc\", \"standardCode\": \"GB/T 40383—2021\", \"standardName\": \"商品级双辊铸轧热轧碳素钢薄钢板及钢带\", \"standardEnName\": \"Hot-rolled twin-roll cast carbon steel sheet and strip of commercial quality\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"3.3\", \"cnName\": \"轧制边\", \"enName\": \"mill edge\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"77.140.50\", \"ccs\": \"H 46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181129, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"轧制边\", \"cnNameSearch\": \"轧制边\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mill edge\", \"wordSearch\": \"mill edge\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"热轧产生的没有明显轮廊的正常边。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>轧制边可包括一些不规则的如开裂或磨损的边或薄（羽毛）边。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ad4b9ae23e564ecf844f20375eaed25b\", \"databaseId\": null, \"standardId\": \"040abb5d28b243e089f1b606306c2b7a\", \"standardCode\": \"GB/T 39096—2020\", \"standardName\": \"石油天然气工业 油气井油管用铝合金管\", \"standardEnName\": \"Petroleum and natural gas industries—Aluminium alloy pipe for use as tubing forwells\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"3.1.6  \", \"cnName\": \"制管厂\", \"enName\": \"pipe mill\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2021-04-01\", \"ics\": \"77.150.10\", \"ccs\": \"H61;E92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 2647, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制管厂\", \"cnNameSearch\": \"制管厂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pipe mill\", \"wordSearch\": \"pipe mill\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"操作制管设备的厂商、公司或集团公司。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 11}}, \"timestamp\": 1793465274934}"
+}

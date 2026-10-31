@@ -1,0 +1,19 @@
+{
+ "key": "porphyry",
+ "term": "Porphyry",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-31T16:46:05+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "斑岩",
+   "en": "porphyry",
+   "code": "GB/T 17412.1—1998",
+   "standard": "岩石分类和命名方案火成岩岩石分类和命名方案",
+   "subject": "采矿和矿产品"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"1998\": 1}, \"sourceStats\": {\"采矿和矿产品\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"d10a359dc9e241cab38bf34a5fc92708\", \"databaseId\": null, \"standardId\": \"ba4a22e105044cc18a2be0e76d2c0fda\", \"standardCode\": \"GB/T 17412.1—1998\", \"standardName\": \"岩石分类和命名方案火成岩岩石分类和命名方案\", \"standardEnName\": \"Classification and nomenclature schemes of the rocks Classification and nomenclature schemes of igneous rock\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"2.14 \", \"cnName\": \"斑岩\", \"enName\": \"porphyry\", \"publishTime\": \"1998-06-17\", \"publishYear\": \"1998\", \"implementTime\": \"1999-01-01\", \"ics\": \"ICS 73.010\", \"ccs\": \"D 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 189342, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"斑岩\", \"cnNameSearch\": \"斑岩\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"porphyry\", \"wordSearch\": \"porphyry\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"斑岩是含碱性长石、副长石或石英斑晶为主的浅成岩和超浅成岩的通称。如花岗斑岩、流纹斑岩等。为避免和浅成岩命名相混,熔岩不使用“斑岩”名称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793465167434}"
+}
