@@ -52,6 +52,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-28T21:16:36Z",
       "evidence": "六道走完 done：a/abhidharma.md（六节全译+脚注17条译出+文献95条照录+工具/其他/相关节）；批次 a translate 进度 3/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T15:10:12Z",
+      "evidence": "纠正 13 项落实：C1 整段漏译增译回填（第二重描述性救赎过程，逐句自校）＋整句重复删＋统觉＋子刹那×2＋领受/往与返＋不活动模式＋阿毗达磨统一8处（保留3处对举与书名）＋苦/关于/有情经验/寂护室利笈多/sūtras 斜体；check_academic --strict 0 硬错误；check_style 基线持平；check_prose 81（+4 为增译段建议性告警）。登记册移交：寂护/室利笈多/阿毗达磨 及两处译名相撞待 008（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
