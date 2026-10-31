@@ -66,6 +66,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-30T19:42:08Z",
       "evidence": "六道走完 done：a/action.md（八节全译+note-1..6 译入+refs 314 条 defs 照录）；a 批 translate 进度 13/160"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "qa-rework-ses",
+      "at": "2026-10-31T17:19:54Z",
+      "evidence": "纠正 21 项落实（并行会话释放后补齐）：C1 引文删增字[形式]＋M6（破句×2/残留 pursuing/宾语错乱/被谋杀/教师语境）＋Minor（explanans/arguably×2/（（×6/髋部安全扣/though see×2/谈不上有把握/耐人寻味补句/游离［/重新挪用/减薪×3/认识性应得/被抬高的能动性条件/原文注）＋并行清扫残留星内空格 4 处；例式块已由 d22bd490 修复核验 skip；check_academic --strict 0 硬错误；style 9→3 无新增；prose 138（+2 系指定译法触碰阈值，已在案）。禁修项未动（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
     }
   ],
   "blockers": [],
