@@ -517,13 +517,6 @@ outline: [1, 6]
   * [伽达默尔的美学 aesthetics (Nicholas Davey and Cynthia Nielsen)](g/gadamer-aesthetics.md)
 * [保罗·利科 Ricoeur, Paul (David Pellauer, Bernard Dauenhauer, and Scott Davidson)](r/ricoeur.md)
   * [保罗·约克·冯·瓦滕堡伯爵 Yorck von Wartenburg, Count Paul (Ingo Farin)](y/yorck.md)
-* [行动 action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)](a/action.md)
-* [行动的原因：行动者中立与行动者相关 agent-neutral vs. agent-relative (Michael Ridge)](r/reasons-agent.md)
-* [行动的理由：内在或外在 internal vs. external (Stephen Finlay and Mark Schroeder)](r/reasons-internal-external.md)
-* [行动的理由：正当性、动机、解释 justification, motivation, explanation (Maria Alvarez and Jonathan Way)](r/reasons-just-vs-expl.md)
-* [权衡理由 Weighing Reasons (Tucker, Chris)](w/weighing-reasons.md)
-* [实践理性与行动结构 and the structure of actions (Elijah Millgram and Margaret Bowman)](p/practical-reason-action.md)
-* [意志薄弱 weakness of will (Sarah Stroud and Larisa Svirsky)](w/weakness-will.md)
 * [唐纳德·戴维森 Davidson, Donald (Jeff Malpas)](d/davidson.md)
   * [能动性 agency (Markus Schlosser)](a/agency.md)
   * [共享能动性 shared (Abraham Sesshu Roth)](s/shared-agency.md)
@@ -597,7 +590,6 @@ outline: [1, 6]
 * [玛格丽特·富勒 Fuller, Margaret (Daniel Howe and Sonia Di Loreto)](f/fuller-margaret.md)
 * [西蒙娜·德·波伏娃 Beauvoir, Simone de (Debra Bergoffen and Megan Burke)](b/beauvoir.md)
 * [玛丽·沃斯通克拉夫特 Wollstonecraft, Mary (Sylvana Tomaselli)](w/wollstonecraft.md)
-* [女性主义哲学 feminist philosophy (Noëlle McAfee, Ann Garry, Anita Superson, Heidi Grasswick, and Serene Khader)](f/feminist-philosophy.md)
 * [分析女性主义 analytic philosophy (Ann Garry)](f/femapproach-analytic.md)
 * [女性主义视角下的物化 Feminist Perspectives on Objectification (Papadaki, Evangelia (Lina))](f/feminism-objectification.md)
 * [欧陆女性主义哲学 continental philosophy (Dilek Huseyinzadegan, Jana McAuliffe, Jameliah Inga Shorter-Bourhanou, B. Tamsin Kimoto, Ege Selin Islekel, Marie Draz, and Erika Brown)](f/femapproach-continental.md)
@@ -842,8 +834,6 @@ outline: [1, 6]
 * [穆拉·萨德拉 Mulla Sadra (Sajjad Rizvi)](m/mulla-sadra.md)
 * [亚里士多德的神学 Theology of Aristotle (Peter Adamson)](t/theology-aristotle.md)
 * [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)](u/umar-khayyam.md)
-* [元伦理学中的建构主义 in metaethics (Carla Bagnoli)](c/constructivism-metaethics.md)
-* [元伦理学 metaethics (Geoff Sayre-McCord)](m/metaethics.md)
 
 # 哲学通论
 
@@ -1888,6 +1878,9 @@ outline: [1, 6]
 
 ### 元伦理学
 > 本节涵盖：直觉主义、情感主义、自然主义、认知主义、主观主义、后设伦理学、规范术语的含义
+* [元伦理学中的建构主义 in metaethics (Carla Bagnoli)](c/constructivism-metaethics.md)
+* [元伦理学 metaethics (Geoff Sayre-McCord)](m/metaethics.md)
+
 * [元伦理学的规范性 metaethics, normativity in (David Copp and Justin Morton)](n/normativity-metaethics.md)
 * [道德分歧 moral disagreement (Folke Tersman)](d/disagreement-moral.md)
 * [道德直觉主义 moral intuitionism (Matthew S. Bedke)](i/intuitionism-ethics.md)
@@ -1961,6 +1954,14 @@ outline: [1, 6]
 * [义务伦理学 deontological (Larry Alexander and Michael Moore)](e/ethics-deontological.md)
 * [伦理学中的自然法传统 natural law tradition (Mark Murphy)](n/natural-law-ethics.md)
 
+### 行动哲学与理由论
+* [行动 action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)](a/action.md)
+* [行动的原因：行动者中立与行动者相关 agent-neutral vs. agent-relative (Michael Ridge)](r/reasons-agent.md)
+* [行动的理由：内在或外在 internal vs. external (Stephen Finlay and Mark Schroeder)](r/reasons-internal-external.md)
+* [行动的理由：正当性、动机、解释 justification, motivation, explanation (Maria Alvarez and Jonathan Way)](r/reasons-just-vs-expl.md)
+* [权衡理由 Weighing Reasons (Tucker, Chris)](w/weighing-reasons.md)
+* [实践理性与行动结构 and the structure of actions (Elijah Millgram and Margaret Bowman)](p/practical-reason-action.md)
+* [意志薄弱 weakness of will (Sarah Stroud and Larisa Svirsky)](w/weakness-will.md)
 ### 规范伦理学(后果主义、西方古典伦理学、功利论、义务论、契约论和德性论)
 
 * [自利契约论 contractarianism (Ann Cudd and Seena Eftekhari)](c/contractarianism.md)
@@ -2050,6 +2051,7 @@ outline: [1, 6]
 
 ## 女性哲学与性哲学相关
 ### 女性主义哲学
+* [女性主义哲学 feminist philosophy (Noëlle McAfee, Ann Garry, Anita Superson, Heidi Grasswick, and Serene Khader)](f/feminist-philosophy.md)
 
 ### 性哲学（性伦理学、性与道德和权力）
 

@@ -437,6 +437,43 @@ def main():
     w_start = new_items.index(('h', 1, '西方哲学史'))
     w_end = new_items.index(('h', 1, '区域哲学'))
     new_items = new_items[:w_start] + west2 + new_items[w_end:]
+    # R7-R9（2026-11-01 联网复核发现的基线遗留错位）
+    # R7 元伦理学两条从伊斯兰节尾移回通论伦理学区元伦理学节
+    grabbed = {}
+    def grab_global(slugs, key):
+        got = []
+        for gi, it in enumerate(new_items):
+            if it[0] == 'li' and it[1].slug in slugs:
+                base = len(it[1].indent)
+                got.append(gi)
+                j = gi + 1
+                while j < len(new_items):
+                    if new_items[j][0] == 'li' and len(new_items[j][1].indent) > base:
+                        got.append(j); j += 1
+                    else:
+                        break
+        got = sorted(set(got))
+        grabbed[key] = [new_items[i] for i in got]
+        return [it for i, it in enumerate(new_items) if i not in got]
+    new_items = grab_global({'constructivism-metaethics', 'metaethics'}, 'meta')
+    new_items = grab_global({'feminist-philosophy'}, 'fem')
+    new_items = grab_global({'action', 'reasons-agent', 'reasons-internal-external',
+                             'reasons-just-vs-expl', 'weighing-reasons',
+                             'practical-reason-action', 'weakness-will'}, 'action')
+    def insert_after_heading(items, title, block, level=3):
+        for i, it in enumerate(items):
+            if it[0] == 'h' and it[1] == level and it[2].startswith(title):
+                return items[:i+1] + block + items[i+1:]
+        print('FAIL 插入目标节未找到: %s' % title); sys.exit(2)
+    new_items = insert_after_heading(new_items, '元伦理学', grabbed['meta'])
+    new_items = insert_after_heading(new_items, '女性主义哲学', grabbed['fem'])
+    # R8 行动哲学与理由论新节，插在道德心理学节之后（下一 h4 前）
+    i_dm = next(i for i, it in enumerate(new_items)
+                if it[0] == 'h' and it[1] == 3 and it[2].startswith('道德心理学'))
+    i_next = next(i for i in range(i_dm + 1, len(new_items))
+                  if new_items[i][0] == 'h' and new_items[i][1] <= 3)
+    new_items = new_items[:i_next] + [('h', 3, '行动哲学与理由论')] + grabbed['action'] + new_items[i_next:]
+    r_notes.append('R7 元伦理学两条归位；R8 行动哲学与理由论新节 %d 条；R9 女性主义哲学主词条归位' % len(grabbed['action']))
     for n in r_notes:
         notes.append(n)
     # ---- 细粒度：超长标题瘦身（前言/关于除外） ----
