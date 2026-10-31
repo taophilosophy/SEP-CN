@@ -266,6 +266,53 @@ def audit(items_before, items_after, notes):
     return ok
 
 
+def split_sub(items, level=2):
+    """区内按 ## 标题切块：[(title, [items])]；无标题前导并入首块前。"""
+    blocks, cur_t, cur = [], None, []
+    for it in items:
+        if it[0] == 'h' and it[1] == level:
+            if cur_t is not None:
+                blocks.append((cur_t, cur))
+            cur_t, cur = it[2], [('h', level, it[2])]
+        else:
+            if cur_t is None:
+                blocks.append((None, []))
+                cur_t = '__lead__'
+                cur = blocks[-1][1]
+                blocks[-1] = (None, cur)
+            else:
+                cur.append(it)
+    if cur_t is not None:
+        blocks.append((cur_t, cur))
+    return blocks
+
+
+def grab(items, slugs):
+    """从 items 中摘出 slug 匹配的 li（连同其深层子 li），返回 (余下, 摘出块)。"""
+    out, taken, i = [], [], 0
+    idxs = [i for i, it in enumerate(items) if it[0] == 'li' and it[1].slug in slugs]
+    grab_set = set()
+    for bi in idxs:
+        base = len(items[bi][1].indent)
+        grab_set.add(bi)
+        j = bi + 1
+        while j < len(items):
+            if items[j][0] == 'li' and len(items[j][1].indent) > base:
+                grab_set.add(j); j += 1
+            else:
+                break
+    taken = [items[i] for i in sorted(grab_set)]
+    out = [it for i, it in enumerate(items) if i not in grab_set]
+    return out, taken
+
+
+def find_block(blocks, title_prefix):
+    for bi, (t, body) in enumerate(blocks):
+        if t and t.startswith(title_prefix):
+            return bi
+    return -1
+
+
 def main():
     src = io.open(SRC, encoding='utf-8').read()
     lines = src.split('\n')
@@ -288,21 +335,110 @@ def main():
     new_region = [('h', 1, '区域哲学'), ('h', 2, '中国哲学')] + demote(china_body, 1) + region_body
     # 学科区（除前言/关于/西史/中国/区域外）依原序
     skip = {'', '前言', '关于', '西方哲学史', '中国哲学', '区域哲学'}
+    # R6 女性哲学按时期拆入西史（先拆，再组装通论）
+    fem_secs = split_sub(secs.get('女性哲学与性哲学相关')[1:], level=2)
+    fem_keep, fem_early, fem_modern = [], None, None
+    for t, body in fem_secs:
+        if t and t.startswith('近代女性哲学家'):
+            fem_early = body
+        elif t and t.startswith('现代女性哲学家'):
+            fem_modern = body
+        else:
+            fem_keep.append(body)
+    if fem_early is None or fem_modern is None:
+        print('FAIL 女性两时期节未找到'); sys.exit(2)
+    notes.append('R6 女性两时期节拆入西史（近代 %d 条 / 现代 %d 条）' % (
+        sum(1 for it in fem_early if it[0] == 'li'),
+        sum(1 for it in fem_modern if it[0] == 'li')))
     tonglun = [('h', 1, '哲学通论')]
     for name, body in secs.items():
         if name in skip:
             continue
+        if name == '女性哲学与性哲学相关':
+            body = [('h', 1, name)] + [it for blk in fem_keep for it in blk]
         tonglun.extend(demote(body, 1))
     tonglun = tonglun[1:]  # 去掉自身 H1 重复——body 中已无 H1，补回
     tonglun = [('h', 1, '哲学通论')] + tonglun[1:]
     # 修正：上面循环 demote(body) 不含 H1（split_sections 已把 H1 当区键），故直接扩展
-    tonglun = [('h', 1, '哲学通论')]
-    for name, body in secs.items():
-        if name in skip:
-            continue
-        tonglun.extend(demote(body, 1))
 
     new_items = head + secs.get('前言', []) + secs.get('关于', []) + west + new_region + tonglun
+
+    # ---- 第二轮规则（2026-11-01 审查）：R1-R6 ----
+    # R6 西史插入两时期节
+    west2 = [('h', 1, '西方哲学史')]
+    wblocks = split_sub(west[1:])
+    for t, body in wblocks:
+        west2.extend(body)
+        if t and t.startswith('启蒙运动和早期现代哲学'):
+            west2.extend(fem_early)
+        elif t and t.startswith('现代西方哲学'):
+            west2.extend(fem_modern)
+    r_notes = []
+    # R1 中世纪通论归位
+    wblocks = split_sub(west2[1:])
+    bi_jiao = find_block(wblocks, '教父哲学与早期经院哲学')
+    bi_tong = find_block(wblocks, '中世纪哲学通论')
+    if bi_jiao < 0 or bi_tong < 0:
+        print('FAIL 中世纪目标节未找到'); sys.exit(2)
+    rest, taken = grab(wblocks[bi_jiao][1], {'medieval-philosophy', 'medieval-literary'})
+    wblocks[bi_jiao] = (wblocks[bi_jiao][0], rest)
+    wblocks[bi_tong] = (wblocks[bi_tong][0], wblocks[bi_tong][1] + taken)
+    r_notes.append('R1 中世纪通论归位 %d 条' % sum(1 for it in taken if it[0] == 'li'))
+    west2 = [('h', 1, '西方哲学史')]
+    for t, body in wblocks:
+        west2.extend(body)
+
+    # 区域哲学手术（对 new_region 拆块）
+    rblocks = split_sub(new_region[1:])
+    # R2 韩国三条归位
+    bi_jp = find_block(rblocks, '日本哲学')
+    bi_kr = find_block(rblocks, '韩国哲学')
+    rest, taken = grab(rblocks[bi_jp][1], {'korean-philosophy', 'korean-confucianism', 'korean-buddhism'})
+    rblocks[bi_jp] = (rblocks[bi_jp][0], rest)
+    rblocks[bi_kr] = (rblocks[bi_kr][0], rblocks[bi_kr][1] + taken)
+    r_notes.append('R2 韩国三条归位 %d 条' % sum(1 for it in taken if it[0] == 'li'))
+    # R3/R4 删空节（非洲哲学/欧洲哲学——查实空且无词条可归）
+    rblocks = [(t, body) for t, body in rblocks if t not in ('非洲哲学', '欧洲哲学')]
+    r_notes.append('R3/R4 删空节：非洲哲学（并非裔哲学）、欧洲哲学（翻译缺口）')
+    # R5 中国佛教/道教/藏传拆分（中国哲学块内 ### 级手术）
+    bi_cn = find_block(rblocks, '中国哲学')
+    cn_body = rblocks[bi_cn][1]
+    cn_h2 = [it for it in cn_body if it[0] == 'h' and it[1] == 2]
+    cn_blocks = split_sub([it for it in cn_body if not (it[0] == 'h' and it[1] == 2)], level=3)
+    bi_han = find_block(cn_blocks, '汉代-清代哲学')
+    rest, chan3 = grab(cn_blocks[bi_han][1], {'buddhism-chan', 'buddhism-huayan', 'buddhism-tiantai'})
+    cn_blocks[bi_han] = (cn_blocks[bi_han][0], rest)
+    bi_fb = find_block(cn_blocks, '中国佛教与道教')
+    if bi_fb < 0:
+        print('FAIL 中国佛教与道教节未找到'); sys.exit(2)
+    fb_body = cn_blocks[bi_fb][1][1:]  # 剥掉本节的 ### 标题（split_sub 保证首项为标题）
+    rest_fb, dao2 = grab(fb_body, {'daoism', 'daoism-religion'})
+    rest_fb, tibet2 = grab(rest_fb, {'epistemology-language-tibetan', 'twotruths-tibet',
+                                     'gelukpa', 'gorampa', 'sakya-pandita', 'tsongkhapa'})
+    new3 = [('h', 3, '中国佛教')] + rest_fb + chan3
+    new3 += [('h', 3, '藏传佛教')] + tibet2
+    new3 += [('h', 3, '道教')] + dao2
+    cn_blocks[bi_fb] = (None, new3)
+    cn_new = cn_h2 + [it for t, body in cn_blocks for it in body]
+    rblocks[bi_cn] = (rblocks[bi_cn][0], cn_new)
+    r_notes.append('R5 中国佛教(%d)/藏传佛教(%d)/道教(%d) 拆分' % (
+        sum(1 for it in chan3 if it[0] == 'li') + sum(1 for it in rest_fb if it[0] == 'li'),
+        sum(1 for it in tibet2 if it[0] == 'li'),
+        sum(1 for it in dao2 if it[0] == 'li')))
+    region2 = [('h', 1, '区域哲学')]
+    # 中国哲学块（### 级）在 rblocks 前段，其余 ## 节随后——重组保持原序
+    for t, body in rblocks:
+        region2.extend(body)
+    # 替换 new_items 中的区域哲学段
+    r_start = new_items.index(('h', 1, '区域哲学'))
+    r_end = new_items.index(('h', 1, '哲学通论'))
+    new_items = new_items[:r_start] + region2 + new_items[r_end:]
+    # west2 替换西史段
+    w_start = new_items.index(('h', 1, '西方哲学史'))
+    w_end = new_items.index(('h', 1, '区域哲学'))
+    new_items = new_items[:w_start] + west2 + new_items[w_end:]
+    for n in r_notes:
+        notes.append(n)
     # ---- 细粒度：超长标题瘦身（前言/关于除外） ----
     # 只处理 ##/### 级
     fixed_all, nfix = [], 0
