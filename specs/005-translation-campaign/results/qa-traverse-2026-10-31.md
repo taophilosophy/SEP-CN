@@ -389,3 +389,38 @@ C0/M2/m10；术语链一致（时空实体论/流形实体论、莱布尼茨等�
 
 **返工序**：Critical 16 项（abduction 5＋actualism 2＋abelard 2＋abhidharma 1＋abner-burgos 1＋abstract-objects 1＋academic-freedom 1＋action 1＋action-perception 1）逐点改；Major 37 项按词条定点改；Minor 157 项随词条返工顺带。返工作业程序沿用 qa-prose-2026-10-31-summary.md（kind=qa-rework，变更段状态机，--strict 收尾）。
 
+---
+
+## 纠正执行记录（2026-10-31 夜—11-01，用户令「全量复核纠正」）
+
+**已纠正 16/17 文件**（action.md 因并行会话占用工作区，全部发现移交该会话执行）：
+
+| 文件 | 落实数 | 纠正提交 | 任务凭证 |
+| ---- | ---- | ---- | ---- |
+| a/abduction.md | 6（C5+1附） | c97ccace（0d0ac30f 误提交已恢复） | 任务内 incident-recovery＋qa-rework 步骤 |
+| a/abelard.md | 9 | 1eb0455e | qa-rework 步骤 |
+| a/actualism-possibilism-ethics.md | 15 | 3d5a1cd2 | 86f8b4c5 |
+| a/abhidharma.md | 13（含整段增译回填，逐句自校） | 285ca0b5 | 28d75166 |
+| a/abner-burgos.md | 7（含 [^note-4] 锚点补挂） | 42e1d64f | 201c9b20 |
+| a/abilities.md | 3 | 23bea591 | 201c9b20 |
+| a/abstract-objects.md | 14（含 only if ×5） | ed0e1c76 | cb7ebc52 |
+| a/academic-freedom.md | 13 | f3b68a45 | 12ba6964 |
+| a/action-perception.md | 18（含星内空格×3） | e0a44a48 | 7f830242 |
+| a/abrabanel.md | 8 | a835fa74 | 1361047c |
+| a/abu-bakr-al-razi.md | 7 | 30662e7b | 1361047c |
+| a/abraham-daud.md | 8 | ebed4e6c | 1361047c |
+| a/abortion.md | 9（含星内空格 17 条清零，style 20→3） | 759ed70b | f144824f |
+| a/abduction.peirce.md | 3＋存量中文斜体转粗体 5 处 | 807775ea＋f144824f＋1555900d | f144824f |
+| s/spacetime-holearg.md | 12 | 4a6ed23c | 5d90a3f2 |
+
+每文件纠正后验收：`check_academic --docs --strict` 0 硬错误；`check_style --strict` 与改前基线持平（不得新增）；`check_prose` 记录（新增仅 3 条，均为指定改文触碰 70 字阈值，逐条说明在案）。
+
+**事故记录（如实）**：abduction 纠正首轮误用 `task_ops clear`——该命令是重译流程「清空译文」的破坏性动作（rules/04），致 zh_doc 被清为 1 行并随 0d0ac30f 提交；即以 `git checkout HEAD~1` 恢复 435 行全文并重放 6 处纠正（c97ccace，与父提交 diff 仅含纠正项），事故凭证已追加至任务 JSON（incident-recovery 步骤）。**教训（已入记忆）**：done 词条定点纠正禁止经 clear 走 retranslate 状态机；qa-rework 凭证以追加步骤方式记录（script/qa_rework_note.py 草稿脚本）。
+
+**移交清单**：
+1. **action.md**（C1/M6/m17）——并行会话占用工作区，移交该会话按本册 action 节执行；
+2. **登记册补行（随 008 术语战役）**：波菲利、紧缩（deflationary）、Bridgeman、Szilágyi＝西拉吉、Śāntarakṣita＝寂护、Śrīgupta＝室利笈多、Resnik＝雷斯尼克、Linnebo＝林内博、J.S.Mill＝约翰·斯图亚特·穆勒、Fish/Butler/Post、狄奥尼修斯（亚略巴古/伪狄奥尼修斯）、阿毗达磨（阿毗昙分流）；另有 abhidharma 两处译名相撞（《分别论》《阿毗达磨藏》）待裁定；
+3. **tools/管线会话**：①`check_style.py` bold-spacing 检查器与 02 条款「行尾允许紧贴」存在系统性偏差——所有 done 词条的出版信息行/文献说明行/译注行均报 3 处存量告警（各文件基线持平，未动正文）；②"空穴论证"登记（yi-zhe-shuo-ming L145）与 SUMMARY 一致，无差异；③概念级模式移交：反向 "if (and only if)"（abstract-objects L121/L158，括号存疑半边相反）待全库口径裁定。
+
+**余量**：欧化语言批次（check_prose 全量 1000+ 告警：de-chain 664／long-sentence 286／passive-bei 90／weak-verb 54）按 rules/04 s2 语义逐词条执行，行号清单以 `python tools/check_prose.py <路径>` 实跑为准——本纠正轮只处理语义/术语/体例实伤与指定讹误，不做全文润改（逐句人判是 s2 的纪律边界）。
+
