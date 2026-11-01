@@ -2728,7 +2728,7 @@
 
 * [王阳明 Wang Yangming (Bryan Van Norden)](w/wang-yangming.md)
 * [战争 war (Seth Lazar)](w/war.md)
-* [詹姆斯·瓦德 Ward, James (Pierfrancesco Basile)](j/james-ward.md)
+* [詹姆斯·沃德 Ward, James (Pierfrancesco Basile)](j/james-ward.md)
 * [\*辩护与担保的传递——见辩护与担保的传递 warrant, transmission of — see transmission of justification and warrant](t/transmission-justification-warrant.md)
 * [和辻哲郎 Watsuji Tetsurō (Robert Carter and Erin McCarthy)](w/watsuji-tetsuro.md)
 * [意志薄弱 weakness of will (Sarah Stroud and Larisa Svirsky)](w/weakness-will.md)

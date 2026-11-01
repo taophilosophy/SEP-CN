@@ -1,0 +1,50 @@
+{
+  "slug": "james-ward",
+  "kind": "retranslate",
+  "zh_doc": "j/james-ward.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:02Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-james-ward",
+      "at": "2026-11-01T20:46:41Z",
+      "evidence": "ledger: tasks/j/james-ward.ledger.yaml 60 segments step1+step2 双版齐备; H1=詹姆斯·瓦德 Ward, James (Pierfrancesco Basile); 成稿由账本 step2 脚本拼装（覆盖中断期无凭证残稿，任务当时仍 state=cleared）; 守恒前置门: 脚注键 6/6 全同、强调对 0 未解释差异（段8/13/17/21/28/42/56/57 为书名号/术语简写与斜体合并的合法映射，cockburn 先例同）; 尾部节序 脚注定义36条照录→参考文献→学术工具→其他网络资源→相关词条"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-james-ward",
+      "at": "2026-11-01T21:03:25Z",
+      "evidence": "MTPE 逐段对照 (yuanwen/j/james-ward.md): 幻觉0 漏译0 增译0——s1 修正 3 处 step2 润色回退（段5'旁听'增义→'听了'; 段24'selected'漏译→补'被拣选的'; 段27'acquiesce'引申'听凭摆布'→'安于常规'），账本与成稿同步重拼; 引用组 36/36 守恒、页码引注（59)(148)(260)(437)(479)等逐处保留; 脚注键 6 处内联+36 条定义全同; 术语漂移 grep 核销: 观念论/唯心主义/唯物主义/物质主义/先定和谐/先成 均 0, 全篇锁定 唯心论/唯物论/单子/前定和谐/预成-后成/心素/心尘/泛心论/偶成论/吉福德讲座; 事实核对: 1843-01-27 赫尔/1863 春山/1872/1874 Tripos/1876 Mind 创刊号/1886/1896-98/1897 讲席/1907-10/1911/1878 Clifford/1891 Peirce/1900 Taylor/1921/27/1929 全同源; 新术语与人名候选见 s2-s3 evidence 汇总"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "sub-james-ward",
+      "at": "2026-11-01T21:36:00Z",
+      "evidence": "check_prose 告警 40 条: 修 12 处（账本 step2 同步改，重拼成稿）——弱动词3('进行选择'→'挑拣'/'加以承认'→'照它呈现的样子接受下来'/'加以修正'→'修正')、长句拆分4(段13/55/56/60 按主语先行拆句)、欧化重组3('被经验的实在'→'经验到的实在'/'名声在外的作者'→'以...闻名于世'/'是...构成的'→'由...构成'+'是...构成的'句重构)；余 28 条逐条判读豁免：7 条引文长句/被动（Bradley 1883/Ward 书信 59/Ward 1911:76/97 行 Ward 自引/Ward 1911 quote/123 行引文'被创造'×2/119 行 Ward quote——译引文保作者句法节奏为体例要求）、6 条引号术语假阳性（'机械的''目的论的''愚笨的心灵'等引号内术语触发 de-chain）、8 条同位语/固定对仗（布罗德头衔同位、离散原子对仗、em-dash 插入语）、7 条自然汉语结构（密度来自书名号与术语复合词非欧化）；脱稿通读全篇一遍，欧化句/倒装/死译已清"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "sub-james-ward",
+      "at": "2026-11-01T21:48:09Z",
+      "evidence": "check_style 0 issues; check_academic --strict 0 硬错误（36 条脚注定义与 6 处内联引注一一挂账、版本钉 2009-07-18/2021-09-02 与 baseline 一致、尾部节序完整、参考文献 ADR-0011 节首说明在位——全条目无中国文献，36 条西文条目照录不译）; check_math: missing=0, unbalanced 清单不含 james-ward（本词条无数学式）; 体例: 中文弯引号/中西文半角空格/书名号内混排加空格/无 HTML/无直角引号/斜体仅拉丁与德文（*Logic*/*Mind*/*Das Denken ist schwer* 等）/加粗强调 **反之** **整体**/表格无/引块 5 处保留; 空节处理: 源 '### Primary/Secondary Literature' 为转换空壳不造空节（abduction 先例）, Other Internet Resources 无条目 → [欢迎向作者提出建议。], 无致ख节省略"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:01Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 2, 2021",
+    "archive_edition": "Winter 2024",
+    "sha256": "9a6eb691fb5277536cab3a87e75f869f12f0853b9f5c0e8699d16ab1f147c6cc"
+  }
+}
