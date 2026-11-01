@@ -2,7 +2,7 @@
   "slug": "descartes-works",
   "kind": "retranslate",
   "zh_doc": "d/descartes-works.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "主代理",
       "at": "2026-11-01T08:05:06Z",
       "evidence": "初译三校（s3）：零信任译自 Mar 2023 版，三检查器全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "r1-reviewer",
+      "at": "2026-11-01T10:35:22Z",
+      "evidence": "独立初审：三检查器全绿（学术 0 硬错误/风格 0 issues/数学 missing、unbalanced 均空），抽检 10 段无漏译/错译/事实错误/残留英文"
     }
   ],
   "blockers": [],
