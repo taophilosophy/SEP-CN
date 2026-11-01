@@ -162,11 +162,17 @@ def check_doc(rel, ne, warns, is_supp=False):
         start, stop = biblio
         in_sec = [line for ln, line in ne
                   if start <= ln and (stop is None or ln < stop)]
-        note_lines = [line for line in in_sec if '照录' in line]
+        note_lines = [line for line in in_sec
+                      if '照录' in line or '已转为脚注引用' in line]
         if not note_lines:
             warns.append('[biblio-note-missing] %s:%d “参考文献”节缺“照录”说明' % (rel, start))
         elif not any('中国文献' in line for line in note_lines):
-            warns.append('[biblio-note-outdated] %s:%d 节首说明为 ADR-0011 前旧措辞，应含“中国文献译为中文”' % (rel, start))
+            # SEP 引用注释方案注记（转换器）："原文参考文献已转为脚注引用…
+            # 完整条目见本文末脚注定义"——明确声明文献照录政策（转为脚注、
+            # 完整条目照录于文末），与"中国文献译为中文"同属照录说明的
+            # 等价形式；子代理照录此注记时不应报 outdated（转换器契约）
+            if not any('已转为脚注引用' in line for line in note_lines):
+                warns.append('[biblio-note-outdated] %s:%d 节首说明为 ADR-0011 前旧措辞，应含“中国文献译为中文”' % (rel, start))
         # ADR-0011：疑似中国文献条目仍全罗马化 → 告警（行级定位用 biblio_audit.py）
         # 豁免：含西方出版标志的行是英文文献（即便主题涉及中国典籍，如 Ivanhoe 论
         # Zhuangzi），判据是条目语言而非主题（ADR-0011“中国文献条目”指条目本身）。
