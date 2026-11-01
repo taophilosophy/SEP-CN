@@ -2,7 +2,7 @@
   "slug": "equal-ed-opportunity",
   "kind": "retranslate",
   "zh_doc": "e/equal-ed-opportunity.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:33:11Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T15:46:33Z",
+      "evidence": "组装收口：子代理产稿 419 行（含脚注），主代理补munoz脚注；零信任译自 yuanwen 源"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T15:46:33Z",
+      "evidence": "组装校验一：对照源核销 MTPE，幻觉/漏译/增译 0，事实一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T15:46:34Z",
+      "evidence": "组装校验二：check_prose 逐句回核，语言欧化处理"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T15:46:34Z",
+      "evidence": "组装校验三：check_academic --strict 0 硬错误；check_style 仅 bibliography 照录豁免（ADR-0011）"
     }
   ],
   "blockers": [],
