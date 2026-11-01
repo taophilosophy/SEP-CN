@@ -2,7 +2,7 @@
   "slug": "descartes-ontological",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ontological.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "ykla",
       "at": "2026-11-01T10:01:38Z",
       "evidence": "三校终审：结构完整、引文块齐备、脚注在参考文献节内"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "r1-reviewer",
+      "at": "2026-11-01T10:34:21Z",
+      "evidence": "独立初审：三检查器全绿，抽检全文各段无漏译/错译/事实错误"
     }
   ],
   "blockers": [],
