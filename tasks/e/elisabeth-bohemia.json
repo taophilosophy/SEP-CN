@@ -2,8 +2,44 @@
   "slug": "elisabeth-bohemia",
   "kind": "retranslate",
   "zh_doc": "e/elisabeth-bohemia.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T20:04:10Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:20:16Z",
+      "evidence": "主代理直译：零信任译自 yuanwen/e/elisabeth-bohemia.md（2013-08-20/2021-08-17 版），五节全译+文献照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:20:17Z",
+      "evidence": "一校：对照源核销 MTPE，幻觉/漏译/增译 0，人名依 ren-ming-biao（笛卡尔/莱布尼茨/腓特烈五世）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:20:17Z",
+      "evidence": "二校：中文斜体转加粗+bold空格修整+英文残句清除，语言回核"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:20:18Z",
+      "evidence": "三校：check_style 仅 bibliography 照录豁免 28 条；check_academic --strict 0 硬错误"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:28Z",
   "version_pin": {
