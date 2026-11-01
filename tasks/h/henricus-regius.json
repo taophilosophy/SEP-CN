@@ -1,0 +1,22 @@
+{
+  "slug": "henricus-regius",
+  "kind": "retranslate",
+  "zh_doc": "h/henricus-regius.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T11:20:07Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:45Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 3, 2026",
+    "archive_edition": "Spring 2026",
+    "sha256": "67d3749855c9210cbd86f1602d6464865379a866ba0cceeedf486b453ba7c270"
+  }
+}

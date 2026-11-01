@@ -1,0 +1,22 @@
+{
+  "slug": "heritability",
+  "kind": "retranslate",
+  "zh_doc": "h/heritability.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:47:59Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:26Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 27, 2024",
+    "archive_edition": "Summer 2025",
+    "sha256": "8c6b98b2b57ed76d86ca2b2caa59e9884105b4705bcd21e9e1c4d57a80a6c770"
+  }
+}

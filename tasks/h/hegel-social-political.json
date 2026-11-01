@@ -1,0 +1,22 @@
+{
+  "slug": "hegel-social-political",
+  "kind": "retranslate",
+  "zh_doc": "h/hegel-social-political.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T13:05:41Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:22Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 31, 2025",
+    "archive_edition": "Summer 2025",
+    "sha256": "1ffafa465617dd73c131dfe7e14aa37a3f1e4ae9dc824440b558fd0d5ce10fa3"
+  }
+}

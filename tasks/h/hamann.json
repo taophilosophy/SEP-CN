@@ -1,0 +1,22 @@
+{
+  "slug": "hamann",
+  "kind": "retranslate",
+  "zh_doc": "h/hamann.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T11:34:57Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:15Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 23, 2026",
+    "archive_edition": null,
+    "sha256": "24b5a5a3ae0de9d0da61763a72754e2c69544e3364a46003e15969b936569441"
+  }
+}

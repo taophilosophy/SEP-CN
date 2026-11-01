@@ -1,0 +1,338 @@
+version: 1
+slug: hume-aesthetics
+params:
+  model: "SensenNova-v6.8-Flash-Lite"
+  temperature: 0.2
+  batch_segments: 25
+  rate_limit_s: 5
+  timeout_s: 60
+segments:
+  - id: 1
+    source: |-
+      David Hume’s views on aesthetic theory and the philosophy of art are to be found in his work on moral theory and in several essays. Although there is a tendency to emphasize the two essays devoted to art, “Of the Standard of Taste” and “Of Tragedy,” his views on art and aesthetic judgment are intimately connected to his moral philosophy and theories of human thought and emotion. His theory of taste and beauty is not entirely original, but his arguments generally display the keen analysis typical of his best work. Hume’s archaic terminology is occasionally an obstacle to appreciating his analysis, inviting conflicting readings of his position.
+    step1: |-
+      大卫·休谟（David Hume）关于美学理论与艺术哲学的观点，见于他论道德理论的著作以及若干论文之中。尽管有一种倾向强调他专论艺术的两篇论文——《论趣味的标准》和《论悲剧》，但他关于艺术与审美判断的观点与其道德哲学以及人类思想与情感的理论紧密相连。他的趣味与美理论并非完全原创，但他的论证通常展现了他最佳著作中典型的敏锐分析。休谟的过时术语有时会成为理解其分析的障碍，引起对其立场的相互冲突的解读。
+    step2: |-
+      大卫·休谟（David Hume）关于美学理论与艺术哲学的观点，见于其道德理论著作以及若干论文之中。尽管人们往往强调他专论艺术的两篇论文——《论趣味的标准》与《论悲剧》，但他关于艺术与审美判断的看法，与其道德哲学及人类思想与情感的理论有着密切关联。他的趣味与美理论并非完全原创，但其论证通常展现出他最佳著作中那种典型的敏锐分析。休谟的陈旧术语有时会妨碍我们领会其分析，从而引发对其立场相互冲突的解读。
+  - id: 2
+    source: |-
+      Hume’s aesthetic theory received limited attention until the second half of the Twentieth Century, when interest in the full range of Hume’s thought was enlivened by the gradual recognition of his importance among philosophers writing in English. Unfortunately, many discussions of Hume’s aesthetics concentrate on a single late essay, “Of the Standard of Taste” (1757). This emphasis misrepresents the degree to which Hume’s aesthetic theory is integrated into his philosophical system. This misrepresentation has been countered by recent monographs on Hume’s general aesthetic theory by Dabney Townsend (2001) and Timothy Costelloe (2007).
+    step1: |-
+      休谟的美学理论直到二十世纪下半叶才受到有限关注，那时随着英语哲学界逐渐认识到休谟的重要性，人们对休谟全部思想范围的兴趣被激发起来。不幸的是，许多关于休谟美学的讨论集中于他晚期的一篇论文《论趣味的标准》（1757）。这种强调错误地再现了休谟美学理论在其哲学体系中整合的程度。这种错误再现已由达布尼·汤森（Dabney Townsend，2001）与蒂莫西·科斯特洛（Timothy Costelloe，2007）关于休谟一般美学理论的近期专著所反驳。
+    step2: |-
+      休谟的美学理论直到二十世纪下半叶才受到有限关注；随着英语哲学界逐渐认识到休谟的重要性，人们对休谟整个思想范围的兴趣才被激发起来。遗憾的是，许多关于休谟美学的讨论都集中于他晚期的一篇论文《论趣味的标准》（1757）。这种侧重错误地再现了休谟美学理论融入其哲学体系的程度。达布尼·汤森（Dabney Townsend，2001）与蒂莫西·科斯特洛（Timothy Costelloe，2007）关于休谟一般美学理论的近期专著，已对这种误述作了反驳。
+  - id: 3
+    source: |-
+      The “Advertisement” to his first publication, *A Treatise of Human Nature*, promises that if the first two volumes find suitable “approbation,” the project will conclude with “the examination of morals, politics, and criticism; which will compleat this Treatise of human nature” (T, Adv, xii). Sadly, the *Treatise* was not a success and Hume limited the third and final volume to the topic “Of Morals.” He never produced his systematic treatment of politics and criticism and so never completed his new “science” of human nature. Those topics would be handled piecemeal in several collections of short essays, the “polite” writing that brought him the publishing success he desired.
+    step1: |-
+      《人性论》（*A Treatise of Human Nature*）的“广告”承诺，如果前两卷获得适当的“赞许”，这一计划将以“对道德、政治与批评的考察”作结，“这将完成这部论人性的著作”（T, Adv, xii）。遗憾的是，《人性论》并不成功，休谟将第三卷即最后一卷局限于“论道德”这一主题。他从未写出关于政治与批评的系统性论述，因而从未完成他关于人性的新“科学”。这些主题将在若干短论集中被零星处理，这些“文雅”的写作给他带来了他所渴望的出版成功。
+    step2: |-
+      《人性论》（*A Treatise of Human Nature*）的“广告”许诺：如果前两卷获得适当的“赞许”，这一计划将以“对道德、政治与批评的考察”作结，“从而完成这部论人性的著作”（T, Adv, xii）。遗憾的是，《人性论》并不成功，休谟便把第三卷即最后一卷局限于“论道德”这一主题。他从未写出关于政治与批评的系统论述，因而从未完成他关于人性的新“科学”。这些主题只在若干短论集中被零星处理——正是这些“文雅”的写作给他带来了他所渴望的出版成功。
+  - id: 4
+    source: |-
+      Hume’s concept of criticism is not interchangeable with either aesthetics or philosophy of art. These now-familiar labels were not available to Hume when he published his *Treatise* in 1739 and 1740. The Abbé Charles Batteux did not defend the idea of grouping the arts together in an investigation of fine art until 1746. However, Hume knew and drew from the French tradition leading to Batteux’s work. Under this general influence, his essays occasionally refer to the “finer arts” of painting, music, sculpture, and poetry (CL, 158; SOT 278; OT, 264; C, 289). There is no direct evidence that Hume read Batteux, but they agree in identifying the fine arts as mimetic “arts of luxury” that exist primarily for the sake of our enjoyment (C, 289). Although contemporaries such as Alexander Gerard and Lord Kames (Henry Home) both use the phrase “fine art,” Hume’s books and letters never use that expression. Hume was probably not aware of Alexander Baumgarten’s *Reflections on Poetry* of 1735, the work that introduced the term “aesthetics.” The thesis that aesthetic judgments are completely distinct from moral judgments would not receive its modern formulation until Immanuel Kant’s *Critique of Judgment* (1790), after Hume’s death in 1776. So Hume’s reflections on aesthetics occupy a pivotal niche between the appearance of fine art theory and Kant’s defense of an independent aesthetic judgment in the *Critique of Judgment* – a defense clearly influenced by Kant’s reading of Hume’s essays and *An Enquiry Concerning the Principles of Morals*.
+    step1: |-
+      休谟的批评（criticism）概念既不能与美学互换，也不能与艺术哲学互换。这些如今熟悉的标签在休谟于 1739 与 1740 年出版《人性论》时尚未出现。夏尔·巴托神甫（Abbé Charles Batteux）直到 1746 年才为将诸艺术归入一项美的艺术（fine art）研究的主张辩护。然而，休谟了解并汲取了通向巴托著作的法国传统。在这一总的影响下，他的论文偶尔提到绘画、音乐、雕塑与诗歌这些“更精细的艺术”（CL, 158; SOT 278; OT, 264; C, 289）。没有直接证据表明休谟读过巴托，但他们都认同将美的艺术界定为摹仿性的“奢侈艺术”，这些艺术主要为我们的愉悦而存在（C, 289）。尽管亚历山大·杰拉德（Alexander Gerard）与凯姆斯勋爵（Lord Kames，亨利·霍姆，Henry Home）这样的同时代人都使用“美的艺术”这一短语，休谟的著作与书信却从未使用该表述。休谟可能并不知道亚历山大·鲍姆嘉通（Alexander Baumgarten）1735 年的《关于诗的沉思》（*Reflections on Poetry*），正是这部著作引入了“美学”（aesthetics）一词。审美判断与道德判断完全不同的论题，直到伊曼努尔·康德（Immanuel Kant）的《判断力批判》（1790）才获得其现代表述，而那时休谟已于 1776 年去世。因此，休谟关于美学的思考，在美的艺术理论出现与康德在《判断力批判》中对独立审美判断的辩护之间，占据着一个关键的中间位置——这一辩护显然受到康德阅读休谟论文与《道德原理探究》（*An Enquiry Concerning the Principles of Morals*）的影响。
+    step2: |-
+      休谟的批评（criticism）概念既不能等同于美学，也不能等同于艺术哲学。这些如今已熟悉的标签，在休谟 1739 年与 1740 年出版《人性论》时尚不存在。夏尔·巴托神甫（Abbé Charles Batteux）直到 1746 年才为把诸艺术归入一项美的艺术（fine art）研究的主张辩护。不过，休谟了解并汲取了通向巴托著作的法国传统。在这一总体影响下，他的论文偶尔提到绘画、音乐、雕塑与诗歌这些“更精细的艺术”（CL, 158; SOT 278; OT, 264; C, 289）。没有直接证据表明休谟读过巴托，但他们都认同把美的艺术界定为摹仿性的“奢侈艺术”，这些艺术主要为了我们的愉悦而存在（C, 289）。尽管亚历山大·杰拉德（Alexander Gerard）与凯姆斯勋爵（Lord Kames，亨利·霍姆，Henry Home）这样的同时代人都使用“美的艺术”一语，休谟的著作与书信却从未使用该表述。休谟很可能并不知道亚历山大·鲍姆嘉通（Alexander Baumgarten）1735 年的《关于诗的沉思》（*Reflections on Poetry*），正是这部著作引入了“美学”（aesthetics）一词。审美判断与道德判断截然不同这一论题，要到伊曼努尔·康德（Immanuel Kant）的《判断力批判》（1790）才获得其现代表述，而那时休谟已于 1776 年去世。因此，休谟关于美学的思考，在美的艺术理论出现与康德于《判断力批判》中为独立的审美判断所作的辩护之间，占据着一个关键的位置——这一辩护显然受到康德阅读休谟论文与《道德原理探究》（*An Enquiry Concerning the Principles of Morals*）的影响。
+  - id: 5
+    source: |-
+      Hume’s theory is most firmly rooted in the work of Joseph Addison, Francis Hutcheson, and, to a lesser extent, Shaftesbury (Anthony Ashley Cooper). The specific connections are detailed in Kivy (2003), Townsend (2001), and Costelloe (2007). From the older tradition, elegantly expounded by Addison in numerous essays written between 1709 and 1715, Hume retains the idea that the values within the scope of criticism are essentially pleasures of the human imagination. Although Hume acknowledges cases where beauty seems a merely sensory pleasure, he emphasizes beauty’s status as a cognitive pleasure. Taking beauty as his paradigm case of such a value, Hume combines Addison’s theory of taste as an operation of imagination with Hutcheson’s proposal that emotions are the foundation of moral judgment. Elaborating on the “inner sense” theory, Hume endorses Hutcheson’s stance on the general question of the nature of both moral and aesthetic value. Value judgments are expressions of taste rather than reasoned analysis. Values cannot be addressed except in the context of a general theory about our shared human nature. Although recognition of aesthetic and moral beauty is a manifestation of taste (and perhaps they cannot ultimately be distinguished from one another), taste must not be dismissed as subjective, idiosyncratic preference.
+    step1: |-
+      休谟的理论最牢固地扎根于约瑟夫·艾迪生（Joseph Addison）、弗朗西斯·哈奇森（Francis Hutcheson）的著作，以及在较小程度上扎根于沙夫茨伯里（Anthony Ashley Cooper）的著作。具体的联系在基维（Kivy，2003）、汤森（Townsend，2001）与科斯特洛（Costelloe，2007）中有详细说明。从更早的传统中——由艾迪生在 1709 至 1715 年间撰写的众多论文中优雅地阐述——休谟保留了这样一个观念：批评范围内的价值本质上是人类想象的愉悦。尽管休谟承认有些情形中美似乎只是一种感官愉悦，但他强调美作为认知愉悦的地位。以美作为此类价值的范式例证，休谟把艾迪生的趣味理论（趣味是想象的一种运作）与哈奇森的情感是道德判断之基础的提议结合起来。阐发“内在感官”理论时，休谟赞同哈奇森关于道德与审美价值之本性这一一般问题的立场。价值判断是趣味的表达，而非推理的分析。价值只能在关于我们共同人性的普遍理论语境中加以处理。尽管对审美美与道德美的认识是趣味的一种显现（也许它们最终无法相互区分），趣味却不能被当作主观的、特殊的偏好而摒弃。
+    step2: |-
+      休谟的理论最牢固地扎根于约瑟夫·艾迪生（Joseph Addison）与弗朗西斯·哈奇森（Francis Hutcheson）的著作，并在较小程度上扎根于沙夫茨伯里（Anthony Ashley Cooper）的著作。具体的关联在基维（Kivy，2003）、汤森（Townsend，2001）与科斯特洛（Costelloe，2007）中有详细说明。从更早的传统中——由艾迪生在 1709 至 1715 年间撰写的众多论文中优雅地阐述出来——休谟保留了这样一个观念：批评范围内的价值本质上是人类想象的愉悦。尽管休谟承认有些情形中美似乎只是感官的愉悦，他却强调美作为认知愉悦的地位。休谟以美作为此类价值的范式例证，把艾迪生的趣味理论（趣味是想象的一种运作）与哈奇森的提议（情感是道德判断的基础）结合起来。在阐发“内在感官”理论时，休谟赞同哈奇森关于道德价值与审美价值之本性这一一般问题的立场。价值判断是趣味的表达，而非理性推理的分析。价值只能在关于我们共同人性的普遍理论语境中加以讨论。尽管对审美美与道德美的认识是趣味的一种显现（也许它们最终无法相互区分），趣味却不能被贬斥为主观的、特殊的偏好。
+  - id: 6
+    source: |-
+      Granted, Hume has many other influences. He drew on classical sources, including Cicero. His celebrated essay on taste draws heavily on French thought, particularly on that of the Abbé Jean-Baptiste Dubos(1748). (See Section 4 below.) So does the essay on tragedy. (See Section 5 below.) Detailed accounts of Hume’s debt to Dubos are provided in Jones (2009) and Townsend (2011, pp. 76–85).
+    step1: |-
+      诚然，休谟有许多其他影响。他汲取古典资源，包括西塞罗（Cicero）。他著名的论趣味的论文大量吸取法国思想，尤其是让-巴蒂斯特·杜博斯神甫（Abbé Jean-Baptiste Dubos）的思想（1748）。（见下文第 4 节。）论悲剧的论文亦然。（见下文第 5 节。）关于休谟受杜博斯影响的详细说明，见琼斯（Jones，2009）与汤森（Townsend，2011, pp. 76–85）。
+    step2: |-
+      诚然，休谟还受到许多其他影响。他汲取古典资源，包括西塞罗（Cicero）。他那篇著名的论趣味的论文大量吸取了法国思想，尤其是让-巴蒂斯特·杜博斯神甫（Abbé Jean-Baptiste Dubos）的思想（1748）。（见下文第 4 节。）论悲剧的论文亦然。（见下文第 5 节。）关于休谟受杜博斯影响的详细说明，见琼斯（Jones，2009）与汤森（Townsend，2011, pp. 76–85）。
+  - id: 7
+    source: |-
+      Thus, the two essays that appear to summarize Hume’s aesthetics are best understood as applications of a larger philosophical account of human nature, including our social nature. The construction of each essay suggests a purpose of working out details of the larger project in the face of an obvious counterexample. Those counterexamples are the relativity of taste (SOT) and the pleasure we take in tragic fiction (OT). Yet their limited purpose does not detract from their continuing importance. They provide insight into perennial problems and so serve as the historical foundation for subsequent attempts to defend a subjectivist aesthetic theory.
+    step1: |-
+      因此，那两篇看似概括休谟美学的论文，最好被理解为一种更大哲学说明——关于人性、包括我们的社会本性——的应用。每篇论文的结构表明，其目的在于面对一个明显的反例，去厘清更大计划的细节。这些反例是趣味的相对性（SOT）以及我们在悲剧虚构中获得的愉悦（OT）。然而，它们有限的目的并不减损其持续的重要性。它们为一些长期存在的问题提供了洞见，因而成为后来捍卫主观主义美学理论的尝试的历史基础。
+    step2: |-
+      因此，那两篇看似概括休谟美学的论文，最好理解为一种关于人性的更大哲学说明（包括我们的社会本性）的应用。每篇论文的结构表明，其目的在于面对一个明显的反例去厘清这一更大计划的细节。这些反例分别是趣味的相对性（SOT）与我们在悲剧虚构中获得的愉悦（OT）。然而，它们有限的目的并不减损其持续的重要性。它们为一些长期存在的问题提供了洞见，因而成为后来试图捍卫一种主观主义美学理论的历史基础。
+  - id: 8
+    source: |-
+      Unfortunately, numerous interpretative challenges arise from Hume’s scattered presentation, his range of references, and his eighteenth-century assumptions about art. Like many of his contemporaries, Hume regards “poetry and the polite authors” as the most important arts (PW 3, 19). Timothy Costelloe (2018, chap. 4) consequently constructs an excellent survey of Humean aesthetics by canvassing the full range of Hume’s comments on poets and poetry. However, poetry differs from the more practical arts in being designed for the primary purpose of giving pleasure (SOT, 277). When using the terms “art” and “artist,” Hume sometimes means any human artifice and any skilled designer (in one context, an “artist” is someone who repairs a clock (EHU, 87)). In contexts where he can only be taken to be interested in the narrower category of fine art, Hume variously mentions painting, statuary, architecture, dance, poetry, and music. But he places poetry among the arts of eloquent public discourse. Eloquence includes sermons, essays, argumentative discourse, and other categories that we today would regard as too overtly didactic to be fine art (E).
+    step1: |-
+      不幸的是，许多解释上的挑战来自休谟零散的呈现方式、他的引用范围，以及他关于艺术的十八世纪预设。像他的许多同时代人一样，休谟把“诗歌与文雅的作家”视为最重要的艺术（PW 3, 19）。蒂莫西·科斯特洛（Timothy Costelloe，2018, chap. 4）因而通过考察休谟关于诗人与诗歌的全部评论，构建了一个关于休谟美学的出色综述。然而，诗歌与更实用的艺术不同，其设计的主要目的在于提供愉悦（SOT, 277）。在使用“艺术”（art）与“艺术家”（artist）这些术语时，休谟有时指任何人类的技艺品与任何熟练的设计者（在一种语境中，“艺术家”是修理时钟的人（EHU, 87））。在只能被理解为只关心较窄的美的艺术范畴的语境中，休谟以不同方式提到绘画、雕塑、建筑、舞蹈、诗歌与音乐。但他把诗歌置于雄辩的公共话语诸艺术之中。雄辩包括布道、论文、论辩性话语，以及我们今天会认为过于说教而不属于美的艺术的其他范畴（E）。
+    step2: |-
+      遗憾的是，许多解释上的挑战源于休谟零散的呈现方式、他的引用范围，以及他关于艺术的十八世纪预设。像他的许多同时代人一样，休谟把“诗歌与文雅的作家”视为最重要的艺术（PW 3, 19）。蒂莫西·科斯特洛（Timothy Costelloe，2018, chap. 4）因而通过考察休谟关于诗人与诗歌的全部评论，构建了一份关于休谟美学的出色综述。然而，诗歌与更实用的艺术不同，其设计的主要目的在于提供愉悦（SOT, 277）。在使用“艺术”（art）与“艺术家”（artist）这些术语时，休谟有时指任何人类的技艺品与任何熟练的设计者（在一种语境中，“艺术家”是修理时钟的人（EHU, 87））。在只能被理解为只关心较窄的美的艺术范畴的语境中，休谟以不同方式提到绘画、雕塑、建筑、舞蹈、诗歌与音乐。但他把诗歌置于雄辩的公共话语诸艺术之中。雄辩包括布道、论文、论辩性话语，以及我们今天会认为过于说教、不属于美的艺术的其他范畴（E）。
+  - id: 9
+    source: |-
+      Hume assumes that every product of human labor has some definite purpose, with only a limited subset of art being produced for the sake of pleasure alone. (He is skeptical about appeals to teleological or final causes in nature.) Houses will be designed and built apart from any need to satisfy our taste for beauty, and representational art will be produced in order to provide visual information. The interesting questions are why houses and visual representations also appeal to taste, and what this appeal tells us about the relative contributions of human nature and education as conditions for appropriate responses to our surroundings.
+    step1: |-
+      休谟假定人类劳动的每一产物都有某种确定的目的，只有有限的一小部分艺术是纯粹为了愉悦而生产的。（他对诉诸自然界中的目的论或终极原因持怀疑态度。）房屋将被设计建造，而不论及满足我们对美的趣味的任何需要；再现性艺术将被生产，以提供视觉信息。有趣的问题是，为什么房屋与视觉再现也诉诸趣味，以及这种诉诸告诉我们关于人性与教育作为适当回应我们周围环境的条件的相对贡献。
+    step2: |-
+      休谟假定人类劳动的每一产物都有某种确定的目的，只有一小部分艺术是纯粹为了愉悦而生产的。（他对诉诸自然界中的目的论或终极原因持怀疑态度。）房屋将被设计建造，而不涉及满足我们对美的趣味的任何需要；再现性艺术将被生产，以提供视觉信息。有趣的问题在于：为什么房屋与视觉再现也诉诸趣味，以及这种诉诸告诉了我们什么——关于人性与教育作为适当回应我们周围环境的条件各自的相对贡献。
+  - id: 10
+    source: |-
+      So what label best summarizes Hume’s theory of moral and aesthetic taste? It may be easier to specify which labels do not fit his theory than to attach one to it. He rejects normative realism. (There is considerable controversy on the question of whether Hume is a realist regarding matters of fact. Putting that issue to one side, he clearly denies that normative judgments have the same degree of objectivity that holds for matters of fact.) Hume is equally at pains to deny that reason provides an adequate foundation for judgments of taste. Is he therefore a subjectivist? Not if subjectivism implies that such judgments are arbitrary. He is not a relativist, for the main point of the essay on taste is that some judgments of taste are superior to others. Nor, in his own terms, is he a skeptic regarding aesthetic properties and value judgments. Despite his philosophical view that beauty is not a real property of things, Hume never questions the meaningfulness of general practice of making aesthetic judgments. Because the verdicts of taste are sentiments, devoid of truth-value, there is no opportunity for the conflicts and failures of reason that give rise to philosophical skepticism.
+    step1: |-
+      那么，什么标签最能概括休谟关于道德趣味与审美趣味的理论？也许指出哪些标签不适合他的理论，比给他贴上一个标签更容易。他拒斥规范实在论。（关于休谟在事实问题上是否是实在论者，存在相当大的争议。把这一问题搁置一旁，他明确否认规范判断具有与事实问题同样的客观性程度。）休谟同样极力否认理性为趣味判断提供了充分的基础。那么他是主观主义者吗？如果主观主义意味着此类判断是任意的，那就不是。他不是相对主义者，因为论趣味的论文的要旨在于：有些趣味判断优于另一些。就他自己的术语而言，他也不是关于审美属性与价值判断的怀疑论者。尽管他的哲学观点是美不是事物的真实属性，休谟却从不质疑作出审美判断这一普遍做法的意义。因为趣味的裁决是情感，缺乏真值，所以没有机会出现引发哲学怀疑论的理性的冲突与失败。
+    step2: |-
+      那么，什么标签最能概括休谟关于道德趣味与审美趣味的理论？也许指出哪些标签不适合他的理论，比给他贴上一个标签更容易。他拒斥规范实在论。（关于休谟在事实问题上是否是实在论者，存在相当大的争议。把这一问题搁置一旁，他明确否认规范判断具有与事实问题同等的客观性程度。）休谟同样极力否认理性为趣味判断提供了充分的基础。那么他是主观主义者吗？如果主观主义意味着此类判断是任意的，那就不是。他不是相对主义者，因为论趣味的论文的要旨在于：有些趣味判断优于另一些。就他自己的术语而言，他也不是关于审美属性与价值判断的怀疑论者。尽管他的哲学观点是美不是事物的真实属性，休谟却从不质疑作出审美判断这一普遍做法的意义。因为趣味的裁决是情感，缺乏真值，所以没有机会出现那种引发哲学怀疑论的理性的冲突与失败。
+  - id: 11
+    source: |-
+      Hume is an inner sense theorist who treats aesthetic pleasure as an instinctive and natural human response. Successful art exploits our natural sentiments by employing appropriate composition and design. Only empirical inquiry can establish reliable ways to elicit the approval of taste.
+    step1: |-
+      休谟是一位内在感官理论家，他把审美愉悦视为一种本能的、自然的人类反应。成功的艺术通过采用适当的构图与设计来利用我们的自然情感。只有经验探究才能确立可靠的、引起趣味赞同的方式。
+    step2: |-
+      休谟是一位内在感官理论家，他把审美愉悦视为一种本能的、自然的人类反应。成功的艺术通过采用适当的构图与设计来利用我们的自然情感。只有经验探究才能确立可靠地引起趣味赞同的方式。
+  - id: 12
+    source: |-
+      Hume regards the natural capacity of taste as fundamental to the human ability to make moral and aesthetic judgments. Like his predecessors, Hume sees an analogy between an “inner sense” for beauty and the sense of taste for food and drink. Natural, general laws guide both. Both permit of education and refinement and thus better and worse responses. Both produce sentiments or feelings of approval and disapproval. But only the “mental” taste, the exercise of which is involved in moral and aesthetic judgment, admits of refinement through “the interposition” of ideas (T, 275).
+    step1: |-
+      休谟把趣味的自然能力视为人类作出道德与审美判断这一能力的基础。像他的前辈一样，休谟在用于美的“内在感官”与用于食物和饮料的味觉之间看到一种类比。自然的、普遍的法则指导两者。两者都容许教育与精炼，从而有更好与更坏的反应。两者都产生赞许或不赞许的情感或感受。但只有“心智”的趣味——其运用涉及道德与审美判断——才容许通过观念的“介入”而精炼（T, 275）。
+    step2: |-
+      休谟把趣味的自然能力视为人类作出道德与审美判断之能力的基础。像他的前辈一样，休谟在用于美的“内在感官”与用于食物和饮料的味觉之间看到一种类比。自然的、普遍的法则指导着两者。两者都容许教育与精炼，从而有更好与更坏的反应。两者都产生赞许或不赞许的情感或感受。但只有“心智”的趣味——其运用涉及道德与审美判断——才容许通过观念的“介入”而精炼（T, 275）。
+  - id: 13
+    source: |-
+      Hume’s eighteenth-century terminology includes a pair of terms no longer in general use. In his basic nomenclature, “taste in morals, eloquence, or beauty” assigns either “approbation” or “disapprobation” (or some combination of both) to objects of taste (T, 547n). Approbation is “a peculiar delight” (T, 298) and a “*particular* kind of pleasure” (T, 472). It feels different from other pleasures. He variously characterizes approbation as a feeling of approval, liking, or affection. A beautiful object or action strikes us as amiable, agreeable, and desirable. Yet moral and aesthetic responses are not identical, for “the satisfaction is different, [which] keeps our sentiments concerning them from being confounded” (T, 472). Hume describes the feeling of disapprobation as one of disapproving, disliking, and contempt. An ugly object or vicious action feels odious, disagreeable, and undesirable.
+    step1: |-
+      休谟的十八世纪术语包括一对不再通用的术语。在他的基本命名法中，“道德、雄辩或美的趣味”把“赞许”或“不赞许”（或两者的某种结合）归于趣味对象（T, 547n）。赞许是“一种特殊的愉悦”（T, 298）和一种“*particular* 的愉悦”（T, 472）。它与其它愉悦感觉不同。他以不同方式把赞许描述为一种赞同、喜爱或爱慕的情感。一个美的对象或行动使我们觉得可亲、可悦、可欲。然而，道德与审美的反应并不相同，因为“满足感不同，[这]使我们对它们的情感不致混淆”（T, 472）。休谟把不赞许的感受描述为一种不赞同、不喜欢与轻蔑。一个丑的对象或恶的行动使人觉得可憎、可厌、不可欲。
+    step2: |-
+      休谟的十八世纪术语包括一对已不再通用的术语。在他的基本命名法中，“道德、雄辩或美的趣味”把“赞许”或“不赞许”（或两者的某种结合）归于趣味对象（T, 547n）。赞许是“一种特殊的愉悦”（T, 298），也是一种“*particular* 的愉悦”（T, 472）。它感觉起来不同于其它愉悦。他以不同方式把赞许描述为一种赞同、喜爱或爱慕的情感。一个美的对象或行动使我们觉得可亲、可悦、可欲。然而，道德与审美的反应并不相同，因为“满足感不同，[这]使我们对它们的情感不致混淆”（T, 472）。休谟把不赞许的感受描述为一种不赞同、不喜欢与轻蔑。一个丑的对象或恶的行动使人觉得可憎、可厌、不可欲。
+  - id: 14
+    source: |-
+      In the eighteenth-century context of moral theory, “sentiment” is a generic label for emotions. (Hume’s theory is sometimes identified as “sentimentalism,” but that term has unfortunate modern connotations—though see the entry on moral sentimentalism.) In Hume’s technical vocabulary, all emotions are impressions, not ideas. The sentiments associated with beauty and ugliness are reflective impressions. They are not “impressions of the senses.” Instead, they are responses to sensory impressions (T, 276).
+    step1: |-
+      在十八世纪道德理论的语境中，“情感”（sentiment）是各种情绪的一般标签。（休谟的理论有时被认定为“情感主义”（sentimentalism），但该术语有不幸的现代含义——不过见道德情感主义词条。）在休谟的技术词汇中，所有情绪都是印象，而非观念。与美和丑相关的情感是反思性印象。它们不是“感官的印象”。相反，它们是对感官印象的反应（T, 276）。
+    step2: |-
+      在十八世纪道德理论的语境中，“情感”（sentiment）是各种情绪的一般标签。（休谟的理论有时被认定为“情感主义”（sentimentalism），但该术语具有不幸的现代含义——不过见“道德情感主义”词条。）在休谟的技术词汇中，所有情绪都是印象，而非观念。与美和丑相关的情感是反思性印象。它们不是“感官的印象”。相反，它们是对感官印象的反应（T, 276）。
+  - id: 15
+    source: |-
+      Beauty is a feeling of approbation, and an original, simple impression of the mind. Impressions are contrasted with ideas, which he alternatively calls “thoughts.” Ideas are “copies” of impressions, and seldom have the force or clarity of the experiences they copy. For Hume, experiencing a particular kind of approbation is a necessary condition for thinking about the idea of beauty. An individual cannot construct the idea of beauty out of other ideas, which is equivalent to saying that the idea derives from the proper sentiment of approbation (T, 469). In the complete absence of the operations of taste, thoughts about beauty would not occur.
+    step1: |-
+      美是一种赞许的感受，也是一种原初的、简单的心的印象。印象与观念相对照，后者他有时称为“思想”。观念是印象的“摹本”，很少具有它们所摹写的经验的力量或清晰性。对休谟而言，经验到某种赞许是思考美的观念的必要条件。一个人不能从其它观念构造出美的观念，这相当于说，该观念源于适当的赞许情感（T, 469）。在趣味的运作完全缺席时，关于美的思想就不会发生。
+    step2: |-
+      美是一种赞许的感受，也是一种原初的、简单的心的印象。印象与观念相对照，后者他有时称为“思想”。观念是印象的“摹本”，很少具有它们所摹写的经验的力量或清晰性。对休谟而言，经验到某种赞许是思考美的观念的必要条件。一个人不能从其它观念构造出美的观念，这相当于说，该观念源于适当的赞许情感（T, 469）。在趣味的运作完全缺席时，关于美的思想就不会发生。
+  - id: 16
+    source: |-
+      Taste is the capacity to respond with approbation and disapprobation. But how does taste relate to Hume’s various remarks about “perceptions” and “discernments” of beauty, of our “judging” a work, and of critics who “give judgment” and who “give” or “pronounce” a “verdict” or “recommendation” (SOT, passim)? Hume seems to equate perception of beauty with the experience of the sentiment. (This equation underlies the problem of whether all tastes are equal). Does he distinguish between the critic’s experience of the sentiment and the judgment or verdict? If a verbal pronouncement that an object is beautiful is nothing more than an expression or report of the speaker’s sentiment, then Hume faces the difficulty that a critic’s verdict is not really a recommendation of the object. If your pronouncement that a piece of music is beautiful means no more than that you have felt a certain pleasure upon hearing it, then your verdict expresses your pleasure without saying anything about the music’s capacity to please others. So although critics issue judgments of taste based on their own sentiments, a judgment of taste must involve something more than a pleasing or displeasing sentiment.
+    step1: |-
+      趣味是以赞许和不赞许作出回应的能力。但趣味与休谟关于美的“知觉”与“辨别”、我们“判断”一件作品、以及批评家“作出判断”和“给出”或“宣布”“裁决”或“推荐”的各种论述有何关系（SOT, passim）？休谟似乎把对美的知觉等同于对情感的体验。（这一等同是“是否一切趣味都平等”这一问题的基础。）他是否区分批评家对情感的体验与判断或裁决？如果一个关于对象是美的言语宣告只不过是说话者情感的表达或报告，那么休谟就面临这样一个困难：批评家的裁决并不是对该对象的真正推荐。如果你关于一首乐曲是美的宣告，其含义不过是你在听到它时感到某种愉悦，那么你的裁决就表达了你的愉悦，却没有对这首乐曲取悦他人的能力说任何东西。因此，尽管批评家基于自己的情感作出趣味判断，趣味判断却必须包含比令人愉悦或不悦的情感更多的东西。
+    step2: |-
+      趣味是以赞许和不赞许作出回应的能力。但趣味与休谟关于美的“知觉”与“辨别”、我们“判断”一件作品、以及批评家“作出判断”和“给出”或“宣布”“裁决”或“推荐”的各种论述有何关系（SOT, passim）？休谟似乎把对美的知觉等同于对情感的体验。（这一等同是“是否一切趣味都平等”这一问题的基础。）他是否区分批评家对情感的体验与判断或裁决？如果一个关于对象是美的言语宣告只不过是说话者情感的表达或报告，那么休谟就面临这样一个困难：批评家的裁决并不是对该对象的真正推荐。如果你关于一首乐曲是美的宣告，其含义不过是你在听到它时感到某种愉悦，那么你的裁决就表达了你的愉悦，却没有对这首乐曲取悦他人的能力说任何东西。因此，尽管批评家基于自己的情感作出趣味判断，趣味判断却必须包含比令人愉悦或不悦的情感更多的东西。
+  - id: 17
+    source: |-
+      Hume observes that there is a difference between expressing one’s own sentiments and making a moral distinction. When someone speaks of another’s behavior as “*vicious* or *odious* or *depraved*, he then speaks another language, and expresses sentiments, in which he expects all his audience to concur with him” (EPM, 272). Moral and aesthetic judgment requires “*steady* and *general* points of view” (T, 581–82; see also SOT, 276), common to others (EPM, 272). Hume’s various descriptions of this point of view invite conflicting interpretations. However, it clearly requires the critic to reflect upon the relationship between the sentiment and its object.
+    step1: |-
+      休谟注意到，表达自己的情感与作出道德区分之间是有差别的。当某人谈到另一人的行为是“*vicious* 或 *odious* 或 *depraved*（邪恶的、可憎的、堕落的），他说的便是另一种语言，并表达出他期望所有听众都赞同的情感”（EPM, 272）。道德与审美判断要求“*steady* 与 *general*（稳定而普遍的）观点”（T, 581–82；亦见 SOT, 276），这种观点为他人所共有（EPM, 272）。休谟对这一观点的各种描述引起相互冲突的解释。然而，它显然要求批评家反思情感与其对象之间的关系。
+    step2: |-
+      休谟注意到，表达自己的情感与作出道德区分之间是有差别的。当某人谈到另一人的行为是“*vicious* 或 *odious* 或 *depraved*（邪恶的、可憎的、堕落的）时，他便说的是另一种语言，并表达出期望所有听众都赞同的情感”（EPM, 272）。道德与审美判断要求“*steady* 与 *general*（稳定而普遍的）观点”（T, 581–82；亦见 SOT, 276），这种观点为他人所共有（EPM, 272）。休谟对这一观点的各种描述引起相互冲突的解释。然而，它显然要求批评家反思情感与其对象之间的关系。
+  - id: 18
+    source: |-
+      Whether we call them “aesthetic judgments” or “judgments of taste,” aesthetic verdicts are unlike ordinary judgments about matters of fact. Matters of fact are relevant states of affairs, which render complex ideas either true or false. The same cannot be said about verdicts arising from the operations of taste. Sentiment, and sentiment alone, determines that a particular object is or is not beautiful.
+    step1: |-
+      无论我们称之为“审美判断”还是“趣味判断”，审美裁决都不同于关于事实问题的普通判断。事实问题是相关的事态，它们使复合观念为真或为假。对于源于趣味运作的裁决，就不能这样说。情感，而且唯有情感，决定某一特定对象是美或不美。
+    step2: |-
+      无论我们称之为“审美判断”还是“趣味判断”，审美裁决都不同于关于事实问题的普通判断。事实问题是相关的事态，它们使复合观念为真或为假。对于源于趣味运作的裁决，就不能这样说。情感，而且唯有情感，决定某一特定对象是美或不美。
+  - id: 19
+    source: |-
+      > Truth is disputable; not taste: what exists in the nature of things is the standard of our judgement; what each man feels within himself is the standard of sentiment. Propositions in geometry may be proved, systems in physics may be controverted; but the harmony of verse, the tenderness of passion, the brilliancy of wit, must give immediate pleasure (EPM, 171).
+    step1: |-
+      > 真理是可争辩的；趣味则不然：存在于事物本性中的东西是我们判断的标准；每个人在自身内所感到的东西是情感的标准。几何学的命题可以被证明，物理学的体系可以被反驳；但诗行的和谐、激情的温柔、机智的光辉，必须给予直接的愉悦（EPM, 171）。
+    step2: |-
+      > 真理是可争辩的；趣味则不然：存在于事物本性中的东西是我们判断的标准；每个人在自身内所感到的东西是情感的标准。几何学的命题可以被证明，物理学的体系可以被反驳；但诗行的和谐、激情的温柔、机智的光辉，必须给予直接的愉悦（EPM, 171）。
+  - id: 20
+    source: |-
+      We do not infer that a sunset is beautiful and so deserving of approbation. We see the sunset, and the visual impressions please us. If we have the proper point of view, we are justified in saying that the sunset is beautiful. This verdict is more than a report or expression of the sentiment, yet the sentiment is an irreplaceable element of the judgment. A parallel claim is made of moral discrimination. “Pleasure and pain,” he insists, are the “essence” of beauty and deformity (T, 299). But how does a literary work “give immediate pleasure”?
+    step1: |-
+      我们并不推论日落是美的、因而值得赞许。我们看到日落，视觉印象使我们愉悦。如果我们具有适当的观点，我们就有理由说日落是美的。这一裁决不只是情感的报告或表达，然而情感却是判断中不可替代的要素。关于道德辨别也提出了类似的主张。他坚持说，“愉悦与痛苦”是美与丑的“本质”（T, 299）。但一部文学作品如何“给予直接的愉悦”？
+    step2: |-
+      我们并不推论日落是美的、因而值得赞许。我们看到日落，视觉印象使我们愉悦。如果我们具有适当的观点，我们就有理由说日落是美的。这一裁决不只是情感的报告或表达，然而情感却是判断中不可替代的要素。关于道德辨别也提出了类似的主张。他坚持说，“愉悦与痛苦”是美与丑的“本质”（T, 299）。但一部文学作品如何“给予直接的愉悦”？
+  - id: 21
+    source: |-
+      One of Hume’s most puzzling claims is that taste is an “immediate” response. In his extended treatment of the passions and emotions in the *Treatise*, Hume says that “immediate” feelings are ones that do not involve the “interposition” of ideas (T, 275). Some pleasures and pains are “immediate” in the sense that they are impressions that immediately accompany other impressions (e.g., the experience of a very hot flame is accompanied by an experience of pain). How does a literary work “give immediate pleasure”? Taken literally, the *Treatise* appears to commit Hume to the view that literary works are beautiful independent of the audience’s ability to assign ideas or meanings to the words. As noted by James Grant (2014, p. 368), the *Treatise* sometimes posits a distinction between beauty, which is the quality of the object that acts upon us, and the pleasure it arouses. But these proposals are not repeated in Hume’s later writings and a commitment to observer-independent beauty is certainly not Hume’s mature position. His official theory is that there is “mental, as well as bodily taste” (SOT, 274), and both moral and aesthetic discrimination depend on mental taste. The requisite sentiments are spontaneous products of the mind, but they are not uninformed responses.
+    step1: |-
+      休谟最令人困惑的主张之一是趣味是一种“直接的”回应。在《人性论》中关于激情与情绪的详尽处理中，休谟说“直接的”感受是不涉及观念之“介入”的感受（T, 275）。有些愉悦与痛苦是“直接的”，其意义是它们是直接伴随其它印象的印象（例如，非常灼热的火焰的经验伴随痛苦的经验）。一部文学作品如何“给予直接的愉悦”？从字面看，《人性论》似乎使休谟承诺这一观点：文学作品的美独立于听众为词语赋予观念或意义的能力。正如詹姆斯·格兰特（James Grant，2014, p. 368）所指出的，《人性论》有时设定美（作用于我们的对象之性质）与它所唤起的愉悦之间的区分。但这些主张在休谟后来的著作中没有重复，而承诺观察者独立的美肯定不是休谟的成熟立场。他的官方理论是存在“心智的，以及身体的趣味”（SOT, 274），而道德与审美的辨别都依赖心智趣味。所要求的情感是心灵的自发产物，但它们并不是无知的反应。
+    step2: |-
+      休谟最令人困惑的主张之一是趣味是一种“直接的”回应。在《人性论》中关于激情与情绪的详尽处理里，休谟说“直接的”感受是不涉及观念之“介入”的感受（T, 275）。有些愉悦与痛苦是“直接的”，其意义是它们是直接伴随其它印象的印象（例如，非常灼热的火焰的经验伴随痛苦的经验）。一部文学作品如何“给予直接的愉悦”？从字面看，《人性论》似乎使休谟承诺这一观点：文学作品的美独立于听众为词语赋予观念或意义的能力。正如詹姆斯·格兰特（James Grant，2014, p. 368）所指出的，《人性论》有时设定美（作用于我们的对象之性质）与它所唤起的愉悦之间的区分。但这些主张在休谟后来的著作中没有重复，而承诺观察者独立的美肯定不是休谟的成熟立场。他的官方理论是存在“心智的，以及身体的趣味”（SOT, 274），而道德与审美的辨别都依赖心智趣味。所要求的情感是心灵的自发产物，但它们并不是无知的反应。
+  - id: 22
+    source: |-
+      Mental taste normally requires some intervening thought process. So the pleasures and pains of aesthetic judgment are not immediate in being direct responses to other impressions.
+    step1: |-
+      心智趣味通常要求某种介入的思维过程。因此，审美判断的愉悦与痛苦并不是作为对其它印象的直接反应而“直接的”。
+    step2: |-
+      心智趣味通常要求某种介入的思维过程。因此，审美判断的愉悦与痛苦并不是作为对其它印象的直接反应而“直接的”。
+  - id: 23
+    source: |-
+      > Some species of beauty, especially the natural kinds, on their first appearance, command our affection and approbation; and where they fail of this effect, it is impossible for any reasoning to redress their influence, or adapt them better to our taste and sentiment. But in many orders of beauty, particularly those of the finer arts, it is requisite to employ much reasoning, in order to feel the proper sentiment; and a false relish may frequently be corrected by argument and reflection. There are just grounds to conclude, that moral beauty partakes much of this latter species, and demands the assistance of our intellectual faculties, in order to give it a suitable influence on the human mind (EPM, 173).
+    step1: |-
+      > 有些种类的美，尤其是自然的美，初现时就赢得我们的喜爱与赞许；而当它们达不到这种效果时，任何推理都不可能纠正其影响，或使之更好地适应我们的趣味与情感。但在许多类别的美中，尤其是那些更精细的艺术，必须运用大量推理才能感受到适当的情感；一种虚假的品味常常可以通过论证与反思而得到纠正。我们有充分理由得出结论：道德美在很大程度上属于后一种类，需要借助我们的理智官能，才能对人类心灵产生恰当的影响（EPM, 173）。
+    step2: |-
+      > 有些种类的美，尤其是自然的美，初现时就赢得我们的喜爱与赞许；而当它们达不到这种效果时，任何推理都不可能纠正其影响，或使之更好地适应我们的趣味与情感。但在许多类别的美中，尤其是那些更精细的艺术，必须运用大量推理才能感受到适当的情感；一种虚假的品味常常可以通过论证与反思而得到纠正。我们有充分理由得出结论：道德美在很大程度上属于后一种类，需要借助我们的理智官能，才能对人类心灵产生恰当的影响（EPM, 173）。
+  - id: 24
+    source: |-
+      Mental taste arises in response to ideas that arise in response to impressions (e.g., viewing a photograph occasions thoughts about the place pictured, leading to thoughts about experiences one had or might have there, and the thoughts arising in this imaginative process are pleasurable or painful). Hume regards this “immediacy” of taste as entirely compatible with the influence of intellectual and imaginative faculties.
+    step1: |-
+      心智趣味源于对印象作出反应的观念（例如，观看一张照片会引发关于所摄地点的想法，进而引发关于人们在那里曾有或可能有的经历的想法，而这一想象过程中产生的想法是令人愉悦或痛苦的）。休谟认为趣味的这种“直接性”完全与理智和想象官能的影响相容。
+    step2: |-
+      心智趣味源于对印象作出反应的观念（例如，观看一张照片会引发关于所摄地点的想法，进而引发关于人们在那里曾有或可能有的经历的想法，而这一想象过程中产生的想法是令人愉悦或痛苦的）。休谟认为趣味的这种“直接性”完全与理智和想象官能的影响相容。
+  - id: 25
+    source: |-
+      Taste is immediate and spontaneous, yet the application of “good sense” and “reason” improves it (SOT, 277). Taste is not improved by reasoning from a priori normative principles. Moral and aesthetic discriminations “are not conclusions of reason” (T, 457). Neither results from a mere “comparing of ideas” (T, 463). However, taste can be influenced by consultation of “general rules of art” or “rules” that “are founded only on experience and observation” (SOT, 270). For different views on the content of these rules or principles, see Hester (1979), Dickie (1996, pp. 126–131), Shelley (2002), Dickie (2003), and Shelley (2004). Mental taste involves reason in the sense of “sound understanding,” which ultimately depends on imaginative associations of ideas. So taste involves imaginative pleasure, as Addison proposed. This doctrine of imaginative pleasure has no special connection with creativity or with the capacity to produce art.
+    step1: |-
+      趣味是直接而自发的，然而“良好判断”与“理性”的运用会改进它（SOT, 277）。趣味并不因从先验规范原则进行推理而改进。道德与审美的辨别“不是理性的结论”（T, 457）。两者都不是单纯的“观念比较”的结果（T, 463）。然而，趣味可以受“艺术的一般规则”或“规则”的参考所影响，这些规则“仅建立在经验与观察之上”（SOT, 270）。关于这些规则或原则之内容的不同观点，见赫斯特（Hester，1979）、迪基（Dickie，1996, pp. 126–131）、谢利（Shelley，2002）、迪基（Dickie，2003）与谢利（Shelley，2004）。心智趣味涉及“健全理解”意义上的理性，后者最终依赖于观念的想象性联想。因此，趣味涉及想象性愉悦，正如艾迪生所提出的。这种想象性愉悦的学说与创造力或生产艺术的能力没有特殊关联。
+    step2: |-
+      趣味是直接而自发的，然而“良好判断”与“理性”的运用会改进它（SOT, 277）。趣味并不因从先验规范原则进行推理而改进。道德与审美的辨别“不是理性的结论”（T, 457）。两者都不是单纯的“观念比较”的结果（T, 463）。然而，趣味可以受参考“艺术的一般规则”或“规则”所影响，这些规则“仅建立在经验与观察之上”（SOT, 270）。关于这些规则或原则之内容的不同观点，见赫斯特（Hester，1979）、迪基（Dickie，1996, pp. 126–131）、谢利（Shelley，2002）、迪基（Dickie，2003）与谢利（Shelley，2004）。心智趣味涉及“健全理解”意义上的理性，后者最终依赖于观念的想象性联想。因此，趣味涉及想象性愉悦，正如艾迪生所提出的。这种想象性愉悦的学说与创造力或生产艺术的能力没有特殊关联。
+  - id: 26
+    source: |-
+      To summarize Hume on taste, aesthetic and moral response is “immediate” in the sense that the feeling occurs spontaneously in anyone who makes customary imaginative associations. Hume wants to emphasize that a critic does not infer the presence of beauty. Yet he also acknowledges the relevance of sound understanding to taste. This combination of doctrines has implications for the practice of justifying judgments of taste, and becomes the focus of the essay “Of the Standard of Taste.” Knowing that a sonnet has the same form as a second, beautiful sonnet will not offer any reason to think that they are equally fine poems. Only a reading of the sonnet can support claims about its beauty. However, Hume’s theory should be interpreted with caution, against the backdrop of his other claims about moral and aesthetic distinctions. The general, natural principles of taste are supplemented by learned rules, so that knowledge of other sonnets contributes to a more accurate or refined evaluation of the merits and flaws of a particular sonnet. His subjectivism does not lead to relativism. Not every sentiment is equally good.
+    step1: |-
+      概括休谟论趣味，审美与道德的反应在如下意义上是“直接的”：这种感受在任何人作出惯常的想象性联想时自发地发生。休谟想强调，批评家并不推论美的在场。然而他也承认健全理解与趣味的相关性。这一学说组合对证成趣味判断的实践有影响，并成为《论趣味的标准》一文的焦点。知道一首十四行诗与另一首美的十四行诗具有相同形式，并不会提供任何理由认为它们是同样好的诗。只有对这首十四行诗的阅读才能支持关于其美的断言。然而，休谟的理论应当谨慎地解读，要放在他关于道德与审美区分的其它主张的背景下。趣味的一般、自然的原则由习得的规则加以补充，因此关于其它十四行诗的知识有助于更准确或更精炼地评价某一首十四行诗的优点与缺陷。他的主观主义并不导致相对主义。并非每一种情感都同样好。
+    step2: |-
+      概括休谟论趣味：审美与道德的反应在如下意义上是“直接的”——这种感受在任何人作出惯常的想象性联想时都会自发地发生。休谟想强调，批评家并不推论美的在场。然而他也承认健全理解与趣味的相关性。这一学说组合对证成趣味判断的实践具有影响，并成为《论趣味的标准》一文的焦点。知道一首十四行诗与另一首美的十四行诗具有相同形式，并不会提供任何理由认为它们是同样好的诗。只有对这首十四行诗的阅读才能支持关于其美的断言。然而，休谟的理论应当谨慎解读，要放在他关于道德与审美区分的其它主张的背景下。趣味的一般、自然的原则由习得的规则加以补充，因此关于其它十四行诗的知识有助于更准确或更精炼地评价某一首十四行诗的优点与缺陷。他的主观主义并不导致相对主义。并非每一种情感都同样好。
+  - id: 27
+    source: |-
+      Hume proposes that feeling, not thought, informs us that an object is beautiful or ugly, or that an action exhibits virtue or vice: “The very *feeling* constitutes our praise or admiration” (T, 471). The feeling or sentiment is itself an aesthetic or moral discrimination. It is prior to, and the basis of, any subsequent expression of praise or admiration. The sentiment *is* the beauty of the object and it *is* the virtue of desirable human action. Sentiment is the sole source of values governing human activity. Taste is a “productive faculty, and gilding or staining all natural objects with the colours, borrowed from internal sentiment, raises, in a manner, a new creation.” That new creation is “beauty and deformity, virtue and vice” (EPM, 294). However, the sentiment is calm rather than violent, so an unphilosophical perspective treats it as a property “of the object” (S, 218).
+    step1: |-
+      休谟提出，是感受而非思想告诉我们一个对象是美或丑，或者一个行动表现出德性或恶：“正是这**感受**本身构成了我们的赞扬或钦佩”（T, 471）。这感受或情感本身就是一种审美或道德的辨别。它先于、并作为任何后续赞扬或钦佩表达的基础。这情感**是**对象的美，也**是**可欲的人类行动的德性。情感是支配人类活动的价值的唯一来源。趣味是一种“生产性的官能，它以从内在情感借来的色彩为一切自然对象镀金或染色，从而在某种意义上创造出一种新的创造物。”这新的创造物是“美与丑、德性与恶”（EPM, 294）。然而，这情感是平静的而非激烈的，因此一种非哲学的视角把它视为对象的一种“属性”（S, 218）。
+    step2: |-
+      休谟提出，是感受而非思想告诉我们一个对象是美或丑，或者一个行动表现出德性或恶：“正是这**感受**本身构成了我们的赞扬或钦佩”（T, 471）。这感受或情感本身就是一种审美或道德的辨别。它先于、并作为任何后续赞扬或钦佩表达的基础。这情感**是**对象的美，也**是**可欲的人类行动的德性。情感是支配人类活动的价值的唯一来源。趣味是一种“生产性的官能，它以从内在情感借来的色彩为一切自然对象镀金或染色，从而在某种意义上创造出一种新的创造物。”这新的创造物是“美与丑、德性与恶”（EPM, 294）。然而，这情感是平静的而非激烈的，因此一种非哲学的视角把它视为对象的一种“属性”（S, 218）。
+  - id: 28
+    source: |-
+      This moral and aesthetic subjectivism attracts Hume for the same reason that it attracts Hutcheson. The appeal to sentiment offers a middle position between the two prevailing theories within English letters, Hobbesian egoism and ethical rationalism. Hutcheson holds that virtue and beauty are not qualities of the people and things to which they are attributed. We may speak as if objects and people have moral and aesthetic properties, but the relevant property is merely an “idea raised in us.” Hume alters Hutcheson’s theory by imposing his own philosophical vocabulary, making beauty an impression rather than an idea. But they agree that to describe a person as virtuous or an object as beautiful is to make a claim about their tendency to cause a certain response. Is it imprudent and “too strong,” Hume asks Hutcheson, to summarize the thesis in the following terms (HL, I, 39–40)? “[W]hen you pronounce any action or character to be vicious, you mean nothing, but that from the constitution of your nature you have a feeling or sentiment of blame from the contemplation of it. Vice and virtue, therefore, may be compared to sounds, colours, heat and cold, which, according to modern philosophy, are not qualities in objects, but perceptions in the mind” (T, 469). Emphasizing Hume’s debt to Hutcheson, Kivy (2003, pp. 307–310), argues that Hume understands beauty very much on the model of colors. Although they are secondary qualities and so do not directly reveal the properties of the occasioning object, some color perception is “true and real” (SOT, 272), and so it is for Hume likewise with beauty. However, virtue and beauty are not strictly analogous to secondary qualities, such as heat and cold, because a critic’s claim that a work is beautiful involves an element of endorsement that does not arise in the observation that ice is cold. The case against reading Humean beauty on the model of ideas of secondary qualities is provided by Shiner (1996) and Taylor (2011).
+    step1: |-
+      这种道德与审美的主观主义吸引休谟，其理由与吸引哈奇森的理由相同。诉诸情感在英语学界两种盛行理论——霍布斯式利己主义与伦理理性主义——之间提供了一个中间位置。哈奇森认为，德性与美不是被归于其的人与物的性质。我们可以说对象与人具有道德与审美属性，但相关属性只是“在我们心中引起的观念”。休谟通过施加自己的哲学词汇来改变哈奇森的理论，把美变成印象而非观念。但他们都同意：把人描述为有德性的或把对象描述为美的，就是对其引起某种反应的倾向提出主张。休谟问哈奇森，以如下术语概括这一论题是否轻率且“过于强烈”（HL, I, 39–40）？“[W]当你宣称任何行动或品格是恶的，你无非是说，出于你本性的构造，你在观照它时有一种责备的感受或情感。因此，恶与德性可以被比作声音、颜色、热与冷，这些按照现代哲学，不是对象中的性质，而是心中的知觉”（T, 469）。基维（Kivy，2003, pp. 307–310）强调休谟对哈奇森的欠负，论证休谟非常按照颜色的模型来理解美。尽管颜色是第二性质，因而不直接揭示引发它们的对象的性质，但有些颜色知觉是“真实而实在的”（SOT, 272），对休谟而言美亦然。然而，德性与美并不严格类似于热与冷这样的第二性质，因为批评家关于一件作品是美的断言涉及一种认可的要素，而这种要素在对冰是冷的观察中并不出现。反对按第二性质观念模型解读休谟式美的论证，由夏纳（Shiner，1996）与泰勒（Taylor，2011）提供。
+    step2: |-
+      这种道德与审美的主观主义吸引休谟，其理由与吸引哈奇森的理由相同。诉诸情感在英语学界两种盛行理论——霍布斯式利己主义与伦理理性主义——之间提供了一个中间位置。哈奇森认为，德性与美不是被归于其的人与物的性质。我们可以说对象与人具有道德与审美属性，但相关属性只是“在我们心中引起的观念”。休谟通过施加自己的哲学词汇来改变哈奇森的理论，把美变成印象而非观念。但他们都同意：把人描述为有德性的或把对象描述为美的，就是对其引起某种反应的倾向提出主张。休谟问哈奇森，以如下术语概括这一论题是否轻率且“过于强烈”（HL, I, 39–40）？“[W]当你宣称任何行动或品格为恶时，你无非是说，出于你本性的构造，你在观照它时有一种责备的感受或情感。因此，恶与德性可以被比作声音、颜色、热与冷，这些按照现代哲学，不是对象中的性质，而是心中的知觉”（T, 469）。基维（Kivy，2003, pp. 307–310）强调休谟对哈奇森的欠负，论证休谟非常按照颜色的模型来理解美。尽管颜色是第二性质，因而不直接揭示引发它们的对象的性质，但有些颜色知觉是“真实而实在的”（SOT, 272），对休谟而言美亦然。然而，德性与美并不严格类似于热与冷这样的第二性质，因为批评家关于一件作品是美的断言涉及一种认可的要素，而这种要素在对冰是冷的观察中并不出现。反对按第二性质观念模型解读休谟式美的论证，由夏纳（Shiner，1996）与泰勒（Taylor，2011）提供。
+  - id: 29
+    source: |-
+      Hume defends the centrality of sentiment with the following reasoning. Recognitions of virtue and beauty require particular sentiments in human observers. If the discriminations of taste took place without these sentiments, we would lack any motivation to do what we regard as moral. Moral and aesthetic judgments have practical consequences that mere reason lacks. So taste differs from the assent that characterizes understanding or reason (T, 458; EPM, 172; S, 219). Although taste responds to real qualities of objects, we cannot replace the exercise of taste with the assent of reason. In many cases, beauty and gracefulness (both aesthetic and moral) are inexplicable; they resist our efforts at explication, and we must trust the “sure testimony of taste and sentiment” (EPM, 267).
+    step1: |-
+      休谟以如下推理为情感的中心地位辩护。对德性与美的认识要求人类观察者具有特定的情感。如果趣味的辨别在没有这些情感的情况下发生，我们就会缺乏任何动机去作我们视为道德的事情。道德与审美判断具有单纯理性所缺乏的实践后果。因此，趣味不同于刻画理解或理性的赞同（T, 458; EPM, 172; S, 219）。尽管趣味回应对象的真实性质，我们却不能以理性的赞同取代趣味的运用。在许多情形中，美与优雅（无论是审美的还是道德的）是不可解释的；它们抵抗我们解释的努力，我们必须信任“趣味与情感的可靠见证”（EPM, 267）。
+    step2: |-
+      休谟以如下推理为情感的中心地位辩护。对德性与美的认识要求人类观察者具有特定的情感。如果趣味的辨别在没有这些情感的情况下发生，我们就会缺乏任何动机去做我们视为道德的事情。道德与审美判断具有单纯理性所缺乏的实践后果。因此，趣味不同于刻画理解或理性的赞同（T, 458; EPM, 172; S, 219）。尽管趣味回应对象的真实性质，我们却不能以理性的赞同取代趣味的运用。在许多情形中，美与优雅（无论是审美的还是道德的）都不可解释；它们抵抗我们解释的努力，我们必须信任“趣味与情感的可靠见证”（EPM, 267）。
+  - id: 30
+    source: |-
+      Epistemically, taste is nonetheless a fallible indicator of beauty and deformity. The underlying sentiments never “refer” to anything in their cause (SOT, 268). Feelings do not represent any aspect of their occasioning objects, and they are easily attached to objects other than their cause (T, 280). (As with any causal relationship, such as the causal link between smoke and fire, an isolated effect does not refer back to its cause, nor does it provide us with information about the nature of the object or event that causes it. If we experience smoke but have never experienced fire, the smoke will tell us nothing about the nature of fire.) As effects of our interaction with the world, sentiments cannot reliably inform us about the nature of their causes. It will not always be clear, prior to careful attention and reflection, which features of a work of art are responsible for our sentiments of approbation and disapprobation. On Hume’s analysis, the chain running from cause to effect turns out to be extremely complex, for the relationship is indirect and “the human body is a mighty complicated machine” with many “secret powers” (EHU, 87; see also SOT, 270). Knowing this, good critics pronounce their verdicts only after they clarify how their own sentiments relate to the object that is being evaluated (SOT, 270–71).
+    step1: |-
+      从认识论上说，趣味仍然是美与丑的一个可错的指示器。基本的情感从不“指涉”其原因中的任何东西（SOT, 268）。感受并不表象其引发对象的任何方面，而且它们容易被附于其原因之外的对象（T, 280）。（如同任何因果关系，例如烟与火之间的因果联系，一个孤立的结果并不回溯指涉其原因，也不为我们提供关于引起它的对象或事件之本性的信息。如果我们经验到烟但从未经验到火，烟就不会告诉我们关于火的本性的任何东西。）作为我们与世界互动的结果，情感不能可靠地告知我们其原因的本性。在仔细关注与反思之前，并不总是清楚一件艺术品的哪些特征对我们的赞许与不赞许情感负责。按照休谟的分析，从原因到结果的链条极其复杂，因为这一关系是间接的，而且“人体是一台极为复杂的机器”，具有许多“隐秘的力量”（EHU, 87；亦见 SOT, 270）。知道这一点，好的批评家只在厘清自己的情感如何与正在被评价的对象相关之后才宣布其裁决（SOT, 270–71）。
+    step2: |-
+      从认识论上说，趣味仍然是美与丑的一个可错的指示器。基本的情感从不“指涉”其原因中的任何东西（SOT, 268）。感受并不表象其引发对象的任何方面，而且它们容易被附于其原因之外的对象（T, 280）。（如同任何因果关系，例如烟与火之间的因果联系，一个孤立的结果并不回溯指涉其原因，也不为我们提供关于引起它的对象或事件之本性的信息。如果我们经验到烟但从未经验到火，烟就不会告诉我们关于火的本性的任何东西。）作为我们与世界互动的结果，情感不能可靠地告知我们其原因的本性。在仔细关注与反思之前，并不总是清楚一件艺术品的哪些特征对我们的赞许与不赞许情感负责。按照休谟的分析，从原因到结果的链条极其复杂，因为这一关系是间接的，而且“人体是一台极为复杂的机器”，具有许多“隐秘的力量”（EHU, 87；亦见 SOT, 270）。知道这一点，好的批评家只在厘清自己的情感如何与正在被评价的对象相关之后才宣布其裁决（SOT, 270–71）。
+  - id: 31
+    source: |-
+      However, some of Hume’s critics see a fundamental contradiction between his subjectivism and his distinction between better and worse critics or the possession of better and worse taste. The criticism is most often formulated against Hume’s parallel discussion of ethical evaluation. A particularly forceful statement of the objection is provided by Philippa Foot (1966). Hume was acutely aware of the general problem and it is the starting point of the essay “Of the Standard of Taste.” (See Section 4 below.)
+    step1: |-
+      然而，休谟的一些批评者看到他的主观主义与他区分更好与更坏的批评家、或拥有更好与更坏的趣味之间存在根本矛盾。这一批评最常针对休谟关于伦理评价的平行讨论而提出。这一反对意见的一个特别有力的陈述由菲利帕·富特（Philippa Foot，1966）提供。休谟敏锐地意识到这一一般问题，它是《论趣味的标准》一文的出发点。（见下文第 4 节。）
+    step2: |-
+      然而，休谟的一些批评者看到他的主观主义与他区分更好与更坏的批评家、或拥有更好与更坏的趣味之间存在根本矛盾。这一批评最常针对休谟关于伦理评价的平行讨论而提出。这一反对意见的一个特别有力的陈述由菲利帕·富特（Philippa Foot，1966）提供。休谟敏锐地意识到这一一般问题，它是《论趣味的标准》一文的出发点。（见下文第 4 节。）
+  - id: 32
+    source: |-
+      Our sentiments obey general principles governing our species. Yet we must be able to make judgments of taste immediately, without having to be aware of the laws governing them.
+    step1: |-
+      我们的情感服从支配我们物种的一般原则。然而我们必须能够立即作出趣味判断，而不必意识到支配它们的法则。
+    step2: |-
+      我们的情感服从支配我们物种的一般原则。然而我们必须能够立即作出趣味判断，而不必意识到支配它们的法则。
+  - id: 33
+    source: |-
+      Hume’s acknowledgment of regular, predictable causes of the moral and aesthetic sentiment is sometimes taken as an indication that Hume is not a genuine subjectivist. On this reading, he equates beauty and virtue with dispositional properties of external objects. Attributions of moral and aesthetic properties to objects indicate a speaker’s acknowledgment of the object’s tendency to produce the sentiment. There are passages that suggest such a reading: “beauty is such an order and constitution of parts, as … is fitted to give a pleasure and satisfaction to the soul” (T, 299; see SOT, 273). The dispositional analysis of beauty is attributed to Hume by Savile (1982, p. 161), Mothersill (1984, pp. 205–206), and Levinson (2002). Reasons to think it is mistaken are provided by Baxter (1990). The dispositional analysis should not be confused with the position that features of objects cause the requisite sentiment. The case for attributing a causal theory of taste to Hume is provided by Shiner (1996)
+    step1: |-
+      休谟承认道德与审美情感的有规律的、可预测的原因，有时被视为休谟不是真正主观主义者的标志。按这一解读，他把美与德性等同于外部对象的倾向性属性。把道德与审美属性归于对象，表明说话者承认对象产生该情感的倾向。有些段落提示这种解读：“美是这样一种部分的有序与构造，如同……适合于给心灵以愉悦与满足”（T, 299；亦见 SOT, 273）。美的倾向性分析被萨维尔（Savile，1982, p. 161）、马瑟希尔（Mothersill，1984, pp. 205–206）与莱文森（Levinson，2002）归于休谟。认为它错误的理由由巴克斯特（Baxter，1990）提供。倾向性分析不应与对象的特征引起所需情感这一立场相混淆。把一种趣味的因果理论归于休谟的论证由夏纳（Shiner，1996）提供。
+    step2: |-
+      休谟承认道德与审美情感的有规律的、可预测的原因，有时被视为休谟不是真正主观主义者的标志。按这一解读，他把美与德性等同于外部对象的倾向性属性。把道德与审美属性归于对象，表明说话者承认对象产生该情感的倾向。有些段落提示这种解读：“美是这样一种部分的有序与构造，如同……适合于给心灵以愉悦与满足”（T, 299；亦见 SOT, 273）。美的倾向性分析被萨维尔（Savile，1982, p. 161）、马瑟希尔（Mothersill，1984, pp. 205–206）与莱文森（Levinson，2002）归于休谟。认为它错误的理由由巴克斯特（Baxter，1990）提供。倾向性分析不应与对象的特征引起所需情感这一立场相混淆。把一种趣味的因果理论归于休谟的论证由夏纳（Shiner，1996）提供。
+  - id: 34
+    source: |-
+      Despite such passages, it is questionable whether Hume really offers a dispositional analysis. A dispositional analysis tells us which properties would exist if certain conditions were satisfied. A simplified dispositional analysis treats “Cork is buoyant” as equivalent in meaning to “If a piece of cork is placed in water, it floats.” A simplified dispositional analysis of beauty treats “This object is beautiful” as equivalent in meaning to “If anyone perceives this object under ideal conditions, a sentiment of approbation accompanies the perception.”  On this account, beauty is distinct from the sentiment of approbation. The sentiment is incorporated into the analysis, but the sentiment is not itself a dispositional property.
+    step1: |-
+      尽管有这些段落，休谟是否真的提供了倾向性分析仍是可疑的。倾向性分析告诉我们，如果某些条件得到满足，哪些属性会存在。一种简化的倾向性分析把“软木是浮的”视为与“如果把一块软木放入水中，它就浮起来”意义等同。一种简化的美的倾向性分析把“这个对象是美的”视为与“如果任何人在理想条件下知觉到这个对象，一种赞许情感就伴随该知觉”意义等同。按这一说明，美与赞许情感相区别。情感被纳入分析，但情感本身不是倾向性属性。
+    step2: |-
+      尽管有这些段落，休谟是否真的提供了倾向性分析仍是可疑的。倾向性分析告诉我们，如果某些条件得到满足，哪些属性会存在。一种简化的倾向性分析把“软木是浮的”视为与“如果把一块软木放入水中，它就浮起来”意义等同。一种简化的美的倾向性分析把“这个对象是美的”视为与“如果任何人在理想条件下知觉到这个对象，一种赞许情感就伴随该知觉”意义等同。按这一说明，美与赞许情感相区别。情感被纳入分析，但情感本身不是倾向性属性。
+  - id: 35
+    source: |-
+      Suppose that Hume regards beauty as a dispositional property. Like the dispositional terms “buoyant” and “brittle,” “beauty” could be predicated of objects, generating judgments that are true or false for different objects. Statements attributing dispositional properties to objects are true even if the appropriate conditions are never satisfied (e.g., “This vase is brittle” can be true despite the fact that the vase never gets broken). Yet Hume clearly denies that judgments of taste are truth-valued, and he denies that it makes sense to make inferences about an object’s beauty in advance of the requisite sentiment (S, 219).
+    step1: |-
+      假设休谟把美视为一种倾向性属性。像“浮的”与“脆的”这些倾向性术语一样，“美”可以被谓述于对象，产生对不同对象为真或为假的判断。把倾向性属性归于对象的陈述，即使适当条件从未被满足也是真的（例如，“这个花瓶是脆的”可以为真，尽管事实上这个花瓶从未被打碎）。然而休谟明确否认趣味判断具有真值，并且否认在所需情感之前对对象之美作出推论是有意义的（S, 219）。
+    step2: |-
+      假设休谟把美视为一种倾向性属性。像“浮的”与“脆的”这些倾向性术语一样，“美”可以被谓述于对象，产生对不同对象为真或为假的判断。把倾向性属性归于对象的陈述，即使适当条件从未被满足也是真的（例如，“这个花瓶是脆的”可以为真，尽管事实上这个花瓶从未被打碎）。然而休谟明确否认趣味判断具有真值，并且否认在所需情感之前对对象之美作出推论是有意义的（S, 219）。
+  - id: 36
+    source: |-
+      Hume famously argues that, in order to clarify any idea, “we need but enquire, *from what impression is that supposed idea derived*” (EHU, 22). If beauty is a dispositional property, then one arrives at the idea of beauty by associating particular causes with particular effects under specific conditions. In Hume’s terminology, a dispositional idea of beauty would be the idea of a complex relation of cause and effect. It would be a causal principle, and we could not employ the idea prior to formulating such a principle. Yet, once again, Hume denies an implication of the dispositional analysis. The sentiment of approbation is our only source for our idea of beauty, and there are cases where we recognize beauty in advance of any reasoning about the beautiful object (EPM, 173).
+    step1: |-
+      休谟有名地论证，为了澄清任何观念，“我们只需追问，**那假定的观念是从什么印象派生的**”（EHU, 22）。如果美是一种倾向性属性，那么人们通过把特定原因与特定结果在特定条件下联系起来而达到美的观念。按休谟的术语，一个倾向性的美的观念会是关于原因与结果之复杂关系的观念。它会是一条因果原则，而在形成这样一条原则之前，我们不能使用该观念。然而，休谟再次否认倾向性分析的一个蕴含。赞许情感是我们获得美的观念的唯一来源，而且有些情形中我们在对美的对象作任何推理之前就认识到美（EPM, 173）。
+    step2: |-
+      休谟有名地论证，为了澄清任何观念，“我们只需追问，**那假定的观念是从什么印象派生的**”（EHU, 22）。如果美是一种倾向性属性，那么人们通过把特定原因与特定结果在特定条件下联系起来而达到美的观念。按休谟的术语，一个倾向性的美的观念会是关于原因与结果之复杂关系的观念。它会是一条因果原则，而在形成这样一条原则之前，我们不能使用该观念。然而，休谟再次否认倾向性分析的一个蕴含。赞许情感是我们获得美的观念的唯一来源，而且有些情形中我们在对美的对象作任何推理之前就认识到美（EPM, 173）。
+  - id: 37
+    source: |-
+      Furthermore, if Hume regards beauty as a dispositional property, he has a model close at hand in Hutcheson’s analysis. But Hume avoids offering any such account. Aside from a willingness to identify several ways that works of art must fail to please refined taste, Hume does very little to advance the traditional and familiar project of criticism, the stipulation of rules for successful art. Granted, he endorses the existence of such rules (SOT, 269–273) and provisionally suggests (SOT, 273) that they serve as our standard of taste, a point explored by Brown (1938), Jones (1976, 2009), Shelley (1994), and Costelloe (2007, pp. 3–17). However, he does not provide an organized or dedicated presentation of the properties of objects that regularly cause the sentiment of approbation. Costelloe (2018, pp. 161–170) has nonetheless extracted three such principles from Hume’s discussions of poetry. First, artistic depictions must be grounded in what is familiar or, at the very least, plausible. Second, artworks must be constrained by coherence in their imaginative associations. Third, simplicity is preferable to “excessive ornamentation and artifice” (Costelloe 2018, 167)[^costelloe-2018]. At the same time, Hume recognizes that any established correlation between sentiment and objective properties might be defeated by the next example that we encounter (SOT, 270). Despite the existence of “general principles of approbation or blame,” taste depends on too many variables (“incidents and situations”) to offer a detailed dispositional analysis (SOT, 271).
+    step1: |-
+      此外，如果休谟把美视为一种倾向性属性，他手边就有哈奇森分析中的一个模型。但休谟避免提供任何此类说明。除了愿意指出艺术作品必须不能满足精致趣味的几种方式之外，休谟很少推进传统的、熟悉的批评事业，即对成功艺术规定规则。诚然，他赞同此类规则的存在（SOT, 269–273），并暂定地建议（SOT, 273）它们充当我们的趣味标准，这一点由布朗（Brown，1938）、琼斯（Jones，1976, 2009）、谢利（Shelley，1994）与科斯特洛（Costelloe，2007, pp. 3–17）探讨。然而，他没有对有规律地引起赞许情感的对象属性提供有组织的或专门的呈现。科斯特洛（Costelloe，2018, pp. 161–170）仍从休谟关于诗歌的讨论中提取出三条此类原则。第一，艺术描绘必须基于熟悉的东西，或至少是可信的东西。第二，艺术作品必须受其想象性联想之融贯性的约束。第三，简单优于“过度的装饰与技巧”（Costelloe 2018, 167）[^costelloe-2018]。与此同时，休谟承认，情感与客观属性之间任何既定的相关性都可能被我们遇到的下一例证所击败（SOT, 270）。尽管存在“赞许或责备的一般原则”，趣味却依赖太多变量（“事件与情境”）以致无法提供详细的倾向性分析（SOT, 271）。
+    step2: |-
+      此外，如果休谟把美视为一种倾向性属性，他手边就有哈奇森分析中的一个现成模型。但休谟避免提供任何此类说明。除了愿意指出艺术作品必须不能满足精致趣味的几种方式之外，休谟很少推进传统的、熟悉的批评事业，即对成功艺术规定规则。诚然，他赞同此类规则的存在（SOT, 269–273），并暂定地建议（SOT, 273）它们充当我们的趣味标准，这一点由布朗（Brown，1938）、琼斯（Jones，1976, 2009）、谢利（Shelley，1994）与科斯特洛（Costelloe，2007, pp. 3–17）探讨。然而，他没有对有规律地引起赞许情感的对象属性提供有组织的或专门的呈现。科斯特洛（Costelloe，2018, pp. 161–170）仍从休谟关于诗歌的讨论中提取出三条此类原则。第一，艺术描绘必须基于熟悉的东西，或至少是可信的东西。第二，艺术作品必须受其想象性联想之融贯性的约束。第三，简单优于“过度的装饰与技巧”（Costelloe 2018, 167）[^costelloe-2018]。与此同时，休谟承认，情感与客观属性之间任何既定的相关性都可能被我们遇到的下一例证所击败（SOT, 270）。尽管存在“赞许或责备的一般原则”，趣味却依赖太多变量（“事件与情境”）以致无法提供详细的倾向性分析（SOT, 271）。
+  - id: 38
+    source: |-
+      Passages endorsing a dispositional account might be slips of the pen. Or, more likely, Hume does not believe that it is possible to define evaluative terms. They are indefinable, primitive terms. Hume emphasizes that “certain qualities in objects” are the occasions for our sentiments of approbation and disapprobation (SOT, 273). Formal design is one such quality (SOT 271; T, 299, 364). The existence of occasioning qualities provides theoretical support for the possibility of a convergence of refined taste. So our primitive evaluative terms are not arbitrarily applied. Nonetheless, it is irresponsible to endorse any particular thing or action in advance of the verdict of unprejudiced taste.
+    step1: |-
+      赞同倾向性说明的段落可能只是笔误。或者，更可能的是，休谟不认为定义评价性术语是可能的。它们是不可定义的、原始的术语。休谟强调“对象中的某些性质”是我们的赞许与不赞许情感的时机（SOT, 273）。形式设计就是这样的性质之一（SOT 271; T, 299, 364）。时机性性质的存在为精致趣味之趋同的可能性提供了理论支持。因此，我们的原始评价性术语不是任意应用的。然而，在无偏见的趣味作出裁决之前赞同任何特定事物或行动是不负责任的。
+    step2: |-
+      赞同倾向性说明的段落可能只是笔误。或者，更可能的是，休谟不认为定义评价性术语是可能的。它们是不可定义的、原始的术语。休谟强调“对象中的某些性质”是我们的赞许与不赞许情感的时机（SOT, 273）。形式设计就是这样的性质之一（SOT 271; T, 299, 364）。时机性性质的存在为精致趣味之趋同的可能性提供了理论支持。因此，我们的原始评价性术语不是任意应用的。然而，在无偏见的趣味作出裁决之前赞同任何特定事物或行动是不负责任的。
+  - id: 39
+    source: |-
+      Informed understanding makes a vital contribution to most aesthetic and moral judgment (EPM, 173; SOT, 277). For Hume, taste is improved by practice in making “comparisons” among objects (SOT, 275) and by the employment of “good sense” (SOT, 277).
+    step1: |-
+      有信息的理解对大多数审美与道德判断作出重要贡献（EPM, 173; SOT, 277）。对休谟而言，趣味通过在对象之间进行“比较”的实践（SOT, 275）以及“良好判断”的运用（SOT, 277）而得到改进。
+    step2: |-
+      有信息的理解对大多数审美与道德判断作出重要贡献（EPM, 173; SOT, 277）。对休谟而言，趣味通过对象之间进行“比较”的实践（SOT, 275）以及“良好判断”的运用（SOT, 277）而得到改进。
+  - id: 40
+    source: |-
+      Hume blurs traditional distinctions between thinking and imagining. Thoughts would not extend beyond our actual experiences were it not for the imaginative associations established by the force of repetition or “custom” (T, 170; EHU, 43). Learned associations encourage us to rearrange our ideas in intelligible patterns, permitting us to create ideas of things never actually experienced (e.g., fictitious creatures or distant places). Imagination also creates chains of associated ideas, encouraging thoughts to move rapidly from one idea to another.
+    step1: |-
+      休谟模糊了思想与想象之间的传统区分。如果不是因为重复或“习惯”的力量所建立的想象性联想，思想就不会超出我们的实际经验（T, 170; EHU, 43）。习得的联想鼓励我们以可理解的模式重新安排我们的观念，使我们能够创造从未实际经验到的事物的观念（例如，虚构的生物或遥远的地方）。想象也创造联想观念的链条，鼓励思想从一个观念迅速移动到另一个观念。
+    step2: |-
+      休谟模糊了思想与想象之间的传统区分。如果不是因为重复或“习惯”的力量所建立的想象性联想，思想就不会超出我们的实际经验（T, 170; EHU, 43）。习得的联想鼓励我们以可理解的模式重新安排观念，使我们能够创造从未实际经验到的事物的观念（例如，虚构的生物或遥远的地方）。想象也创造联想观念的链条，鼓励思想从一个观念迅速移动到另一个观念。
+  - id: 41
+    source: |-
+      Good taste therefore presupposes an active imagination. Suppose one wakes in the morning and smells the distinctive aroma of coffee, and the experience is pleasurable. This appreciation depends on a learned, imaginative association: the smell brings to mind its cause, the brewing coffee, and its purpose, the consumption of the coffee. The agreeable sentiment is a response to this complex association of impressions and ideas, not to the smell alone. Critical evaluation is therefore highly contextual: “The passion, in pronouncing its verdict, considers not the object simply, as it is in itself, but surveys it with all the circumstances, which attend it” (S, 224).
+    step1: |-
+      因此，良好的趣味预设一种活跃的想象。假设一个人在早晨醒来，闻到咖啡的独特香气，而这一经验是令人愉悦的。这种欣赏依赖于一种习得的、想象性的联想：气味使其原因（正在煮的咖啡）及其目的（饮用咖啡）浮现在心中。令人愉悦的情感是对印象与观念之复杂联想——而不只是气味本身——的反应。因此，批评评价是高度语境性的：“激情在宣布其裁决时，并不简单地考虑对象本身，而是连同其全部伴随情境一起审视它”（S, 224）。
+    step2: |-
+      因此，良好的趣味预设一种活跃的想象。假设一个人在早晨醒来，闻到咖啡的独特香气，而这一经验令人愉悦。这种欣赏依赖于一种习得的、想象性的联想：气味使其原因（正在煮的咖啡）及其目的（饮用咖啡）浮现在心中。令人愉悦的情感是对印象与观念之复杂联想——而不只是气味本身——的反应。因此，批评评价是高度语境性的：“激情在宣布其裁决时，并不简单地考虑对象本身，而是连同其全部伴随情境一起审视它”（S, 224）。
+  - id: 42
+    source: |-
+      It is important to recognize that Humean imagination is not a free and unrestrained activity. It is constrained by a relatively small set of permanent principles of imaginative association (T, 10, 225; EHU, 24). Although poets may “profess to follow implicitly the suggestions of their fancy” (T, 225), their poetry has little chance of pleasing others if their “fancy” or imagination employs irregular associations. The universal principles of imaginative association allow artists to predict how their representational and narrative designs will move audiences. With artworks, the intentions of the artist must be considered, a point emphasized by Jones (1976, pp. 55–56), and Jones (2009).
+    step1: |-
+      重要的是要认识到，休谟式的想象不是一种自由而不受约束的活动。它受一小套恒久的想象性联想原则的约束（T, 10, 225; EHU, 24）。尽管诗人可能“宣称要隐含地遵循其幻想的提示”（T, 225），但如果他们的“幻想”或想象采用不规则的联想，他们的诗歌就很少有机会取悦他人。想象性联想的普遍原则使艺术家能够预测其再现性与叙事性设计将如何打动观众。就艺术作品而言，必须考虑艺术家的意图，这一点由琼斯（Jones，1976, pp. 55–56）与琼斯（Jones，2009）强调。
+    step2: |-
+      重要的是要认识到，休谟式的想象不是一种自由而不受约束的活动。它受一小套恒久的想象性联想原则的约束（T, 10, 225; EHU, 24）。尽管诗人可能“宣称要隐含地遵循其幻想的提示”（T, 225），但如果他们的“幻想”或想象采用不规则的联想，他们的诗歌就很少有机会取悦他人。想象性联想的普遍原则使艺术家能够预测其再现性与叙事性设计将如何打动观众。就艺术作品而言，必须考虑艺术家的意图，这一点由琼斯（Jones，1976, pp. 55–56）与琼斯（Jones，2009）强调。
+  - id: 43
+    source: |-
+      Hume recognizes a very small class of cases for which imaginative association is not needed to recognize beauty. In these cases, initial impressions of the mere “form” of a material object generate approbation (T, 364). Such cases are more typical of natural beauty than art (EPM, 173). So imagination is not always necessary for discovering beauty. Pleasing form is sometimes sufficient. However, “’tis seldom we rest there” (T, 363).
+    step1: |-
+      休谟认识到极小一类情形，其中不需要想象性联想就能认识到美。在这些情形中，对物质对象之单纯“形式”的初始印象就产生赞许（T, 364）。这类情形在自然美中比在艺术中更典型（EPM, 173）。因此，想象并不总是发现美所必需的。令人愉悦的形式有时就足够了。然而，“我们很少停留于此”（T, 363）。
+    step2: |-
+      休谟认识到极小一类情形，其中不需要想象性联想就能认识到美。在这些情形中，对物质对象之单纯“形式”的初始印象就产生赞许（T, 364）。这类情形在自然美中比在艺术中更典型（EPM, 173）。因此，想象并不总是发现美所必需的。令人愉悦的形式有时就足够了。然而，“我们很少停留于此”（T, 363）。
+  - id: 44
+    source: |-
+      So Hume does not advocate a simple causal relationship between form and sentiment. In most cases, our beliefs about the object alter our sentiments. Forms are generally most pleasing when “the order and construction of parts” (T, 299) suggests a corresponding utility for humans or expresses agreeable emotions. These suggestions need not be accurate in order to trigger approbation and disapprobation. A particular object might appear balanced, graceful, and beautiful despite our knowledge of its limited utility (T, 584). Objects may displease taste despite their genuine utility.
+    step1: |-
+      因此休谟并不主张形式与情感之间的简单因果关系。在大多数情形中，我们关于对象的信念改变我们的情感。形式通常在最令人愉悦时，是“部分的有序与构造”（T, 299）暗示对人类的相应效用或表达令人愉悦的情感。这些暗示不必是准确的，就能触发赞许与不赞许。一个特定对象可能显得平衡、优雅而美，尽管我们知道它的效用有限（T, 584）。对象尽管具有真正的效用，也可能令趣味不悦。
+    step2: |-
+      因此休谟并不主张形式与情感之间的简单因果关系。在大多数情形中，我们关于对象的信念改变我们的情感。形式通常在“部分的有序与构造”（T, 299）暗示对人类的相应效用或表达令人愉悦的情感时最为令人愉悦。这些暗示不必准确，就能触发赞许与不赞许。一个特定对象可能显得平衡、优雅而美，尽管我们知道它的效用有限（T, 584）。对象尽管具有真正的效用，也可能令趣味不悦。
+  - id: 45
+    source: |-
+      > A house may displease me by being ill-contrived for the convenience of the owner; and yet I may refuse to give a shilling towards the rebuilding of it. Sentiments must touch the heart, to make them controul our passions: But they need not extend beyond the imagination, to make them influence our taste. When a building seems clumsy and tottering to the eye, it is ugly and disagreeable; though we be fully assured of the solidity of the workmanship. ‘Tis a kind of fear, which causes this sentiment of disapprobation; but the passion is not the same with that which we feel, when obliged to stand under a wall, that we really think tottering and insecure. The *seeming tendencies* of objects affect the mind: And the emotions they excite are of a like species with those, which proceed from the *real consequences* of objects, but their feeling is different. Nay, these emotions are so different in their feeling, that they may often be contrary, without destroying each other; as when the fortifications of a city belonging to an enemy are esteemed beautiful upon account of their strength, though we could wish that they were entirely destroyed. The imagination adheres to the *general* views of things, and distinguishes the feelings they produce, from those which arise from our particular and momentary situation (T, 586–87).
+    step1: |-
+      > 一座房子可能因对房主便利性的设计拙劣而令我不悦；然而我可能拒绝为重建它而出一先令。情感必须触动心，才能支配我们的激情：但它们不必超出想象，就能影响我们的趣味。当一座建筑在眼中显得笨拙而摇摇欲坠时，它是丑而不快的；尽管我们完全确信其工艺的坚固。这是一种恐惧，引起这种不赞许的情感；但这一激情不同于当我们被迫站在一堵我们真正认为摇摇欲坠而不安全的墙下时所感到的。对象的*seeming tendencies*（表面倾向）影响心灵：它们所激起的情感与对象之*real consequences*（实际后果）所产生的情感属同类，但感受不同。不，这些情感在感受上如此不同，以致常常可能相反，而不互相摧毁；例如当属于敌人的城市要塞因其坚固而被视为美，尽管我们宁愿它们被彻底摧毁。想象固着于事物的*general*（一般）观点，并区分它们所产生的感受与源于我们特定而暂时的处境的感受（T, 586–87）。
+    step2: |-
+      > 一座房子可能因对房主便利性的设计拙劣而令我不悦；然而我可能拒绝为重建它而出一先令。情感必须触动心，才能支配我们的激情：但它们不必超出想象，就能影响我们的趣味。当一座建筑在眼中显得笨拙而摇摇欲坠时，它是丑而不快的；尽管我们完全确信其工艺的坚固。这是一种恐惧，引起这种不赞许的情感；但这一激情不同于当我们被迫站在一堵我们真正认为摇摇欲坠而不安全的墙下时所感到的。对象的*seeming tendencies*（表面倾向）影响心灵：它们所激起的情感与对象之*real consequences*（实际后果）所产生的情感属同类，但感受不同。不，这些情感在感受上如此不同，以致常常可能相反，而不互相摧毁；例如当属于敌人的城市要塞因其坚固而被视为美，尽管我们宁愿它们被彻底摧毁。想象固着于事物的*general*（一般）观点，并区分它们所产生的感受与源于我们特定而暂时的处境的感受（T, 586–87）。
+  - id: 46
+    source: |-
+      Hume’s views on the aesthetic relevance of form and utility are explored by Carolyn Korsmeyer (1976), while utility is emphasized by Taylor (2011). Given Hume’s debt to Hutcheson, Korsmeyer notes that it is tempting to read such passages as foreshadowing the subsequent theory of aesthetic response as “disinterested” pleasure. However, we should be careful here. Hume uses the term “disinterest” as the contrary of “self-love” (EPM, 296), but he does not use the term in relation to aesthetic sentiment. Hume’s “common,” “universal,” or “general view of things” is a simpler proposal. He wants to remind us that we cannot expect the agreement of others if we judge things from a limited and prejudiced perspective (EPM, 272).
+    step1: |-
+      休谟关于形式与效用的审美相关性的观点由卡罗琳·科尔斯梅耶（Carolyn Korsmeyer，1976）探讨，而效用由泰勒（Taylor，2011）强调。鉴于休谟对哈奇森的欠负，科尔斯梅耶指出，把这些段落解读为预示后来把审美反应视为“无利害”愉悦的理论是很诱人的。然而，我们在此应当谨慎。休谟把“无利害”（disinterest）用作“自爱”（self-love）的反面（EPM, 296），但他并不把该术语用于审美情感。休谟的“共同的”、“普遍的”或“事物的普遍观点”是一个更简单的提议。他想提醒我们：如果我们从一种有限而有偏见的视角来判断事物，就不能期望他人的赞同（EPM, 272）。
+    step2: |-
+      休谟关于形式与效用的审美相关性的观点由卡罗琳·科尔斯梅耶（Carolyn Korsmeyer，1976）探讨，而效用由泰勒（Taylor，2011）强调。鉴于休谟对哈奇森的欠负，科尔斯梅耶指出，把这些段落解读为预示后来把审美反应视为“无利害”愉悦的理论是很诱人的。然而，我们在此应当谨慎。休谟把“无利害”（disinterest）用作“自爱”（self-love）的反面（EPM, 296），但他并不把该术语用于审美情感。休谟的“共同的”、“普遍的”或“事物的普遍观点”是一个更简单的提议。他想提醒我们：如果我们从一种有限而有偏见的视角来判断事物，就不能期望他人的赞同（EPM, 272）。
+  - id: 47
+    source: |-
+      Relations of form and function can operate at an extremely abstract level: “A building, whose doors and windows were exact squares, would hurt the eye by that very proportion: as ill adapted to the figure of a human creature, for whose service the fabric was intended” (EPM, 212–13). Those who respond with sentiment are moved by “imaginary” and general consequences, not simply utility for the person passing judgment (EPM, 217–18). Furthermore, formal design itself can convey emotions which influence aesthetic response: “There is no rule in painting or statuary more indispensable than that of balancing the figures, and placing them with the greatest exactness on their proper centre of gravity. A figure, which is not justly balanced, is ugly; because it conveys the disagreeable ideas of fall, harm, and pain” (EPM, 245).
+    step1: |-
+      形式与功能的关系可以在一种极其抽象的层面上运作：“一座门窗为正方的建筑会因这一比例而伤害眼睛：因为它不适应人类的形象，而该建筑物正是为人类服务而设计的”（EPM, 212–13）。那些以情感回应的人被“想象的”与一般的后果所打动，而不只是对作出判断者的效用（EPM, 217–18）。此外，形式设计本身可以传达影响审美反应的情感：“绘画或雕塑中没有比平衡形象、把它们以最大的精确性置于其恰当重心上更不可缺少的规则。一个没有得到恰当平衡的形象是丑的；因为它传达了坠落、伤害与痛苦的令人不快的观念”（EPM, 245）。
+    step2: |-
+      形式与功能的关系可以在一种极其抽象的层面上运作：“一座门窗为正方的建筑会因这一比例而伤害眼睛：因为它不适应人类的形象，而该建筑物正是为人类服务而设计的”（EPM, 212–13）。那些以情感回应的人被“想象的”与一般的后果所打动，而不只是对作出判断者的效用（EPM, 217–18）。此外，形式设计本身可以传达影响审美反应的情感：“绘画或雕塑中没有比平衡形象、把它们以最大的精确性置于其恰当重心上更不可缺少的规则。一个没有得到恰当平衡的形象是丑的；因为它传达了坠落、伤害与痛苦的令人不快的观念”（EPM, 245）。

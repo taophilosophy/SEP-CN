@@ -1,0 +1,22 @@
+{
+  "slug": "horkheimer",
+  "kind": "retranslate",
+  "zh_doc": "h/horkheimer.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T13:05:51Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:33Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 18, 2022",
+    "archive_edition": "Fall 2024",
+    "sha256": "21d2c9af3bdc6e2f9fdf7eb3a7617ca0c6eef5125a85892d687079e70f58c903"
+  }
+}

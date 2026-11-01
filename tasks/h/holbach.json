@@ -1,0 +1,22 @@
+{
+  "slug": "holbach",
+  "kind": "retranslate",
+  "zh_doc": "h/holbach.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T11:12:04Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:30Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 1, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "12bd246cf3fd4a75a2dafad8127d3c78585e6eb3825f5af1415062711d0cac7e"
+  }
+}

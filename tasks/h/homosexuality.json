@@ -1,0 +1,22 @@
+{
+  "slug": "homosexuality",
+  "kind": "retranslate",
+  "zh_doc": "h/homosexuality.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:23:16Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:32Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 28, 2020",
+    "archive_edition": "Spring 2021",
+    "sha256": "7a9b279f0ddfe8aebd911393942058d6ffd478999d142b65e0112bac5e31a972"
+  }
+}

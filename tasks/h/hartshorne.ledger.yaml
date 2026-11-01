@@ -1,0 +1,589 @@
+version: 1
+slug: hartshorne
+segments:
+  - id: 1
+    source: |-
+      Charles Hartshorne (pronounced Harts-horne) is considered by many philosophers to be one of the most important philosophers of religion and metaphysicians of the twentieth century. Although Hartshorne often criticized the metaphysics of substance found in medieval philosophy, he was very much like medieval thinkers in developing a philosophy that was theocentric. Throughout his career he defended the rationality of theism and for several decades was almost alone in doing so among English-language philosophers. Hartshorne was also one of the thinkers responsible for the rediscovery of St. Anselm’s ontological argument. But his most influential contribution to philosophical theism did not concern arguments for the *existence* of God, but rather was related to a theory of the *actuality* of God, i.e., *how* God exists. In traditional or classical theism, God was seen as the supreme, unchanging being, but in Hartshorne’s process-based or neoclassical conception, God is seen as supreme becoming in which there is a factor of supreme being. That is, we humans change for a while, whereas God *always* changes, Hartshorne maintains. The neoclassical view of Hartshorne has influenced the way many philosophers understand the concept of God. In fact, a small number of scholars—some philosophers and some theologians—think of him as the greatest metaphysician of the second half of the twentieth century, yet, with a few exceptions to be treated below, his work has had limited influence among analytic philosophers who are theists.
+    step1: |-
+      查尔斯·哈茨霍恩（Hartshorne 读作 Harts-horne）被许多哲学家视为二十世纪最重要的宗教哲学家和形而上学家之一。尽管哈茨霍恩经常批评中世纪哲学中的实体形而上学，他却在发展一种以神为中心的哲学方面与中世纪思想家非常相似。在他整个学术生涯中，他都为有神论的理性辩护，并且在数十年间，他是英语哲学家中几乎唯一这样做的人。哈茨霍恩也是圣安塞姆的本体论论证重新发现的推动者之一。但他对哲学有神论最有影响的贡献并不涉及上帝 **存在** 的论证，而是与上帝 **现实性** 的理论有关，即上帝 **如何** 存在。在传统或古典有神论中，上帝被视为最高的、不变的存在者，但在哈茨霍恩的过程论的或新古典的概念中，上帝被视为最高的生成，其中包含一个最高存在的因素。也就是说，哈茨霍恩主张，我们人类变化一段时间，而上帝 **总是** 在变化。哈茨霍恩的新古典观点影响了许多哲学家理解上帝概念的方式。事实上，少数一些学者——一些哲学家和一些神学家——认为他是二十世纪下半叶最伟大的形而上学家，然而，除了下面要讨论的少数例外，他的著作对分析哲学家中那些有神论者的影响有限。
+    step2: |-
+      查尔斯·哈茨霍恩（Hartshorne 读作 Harts-horne）被许多哲学家视为二十世纪最重要的宗教哲学家和形而上学家之一。尽管哈茨霍恩常批评中世纪哲学中的实体形而上学，他却在发展一种以神为中心的哲学方面与中世纪思想家颇为相似。在整个学术生涯中，他都为有神论的理性辩护，而且数十年来，在英语世界的哲学家中，几乎只有他一人如此。哈茨霍恩也是重新发现圣安塞姆本体论论证的学者之一。但他对哲学有神论最具影响的贡献，并不在于上帝 **存在** 的论证，而在于一种关于上帝 **现实性** 的理论，即上帝 **如何** 存在。在传统或古典有神论中，上帝被视为最高的、不变的存在者；而在哈茨霍恩的过程论或新古典概念中，上帝被视为最高的生成，其中包含一个最高存在的因素。也就是说，哈茨霍恩主张，我们人类变化一段时间，而上帝 **总是** 在变化。哈茨霍恩的新古典观点影响了众多哲学家对上帝概念的理解。事实上，有少数几位学者——其中一些是哲学家、一些是神学家——认为他是二十世纪下半叶最伟大的形而上学家；然而，除了下文将要讨论的少数例外，他的著作对信有神论的分析哲学家影响有限。
+  - id: 2
+    source: |-
+      In addition to Hartshorne’s many books, listed in the bibliography below, scholars can benefit from four anthologies, also listed in the bibliography, that gather together much of the significant secondary literature on Hartshorne. These are the anthologies edited by Cobb and Gamwell, Hahn, Reese and Freeman, and Shields.
+    step1: |-
+      除了下面书目中列出的哈茨霍恩的许多著作之外，学者们还可以从四本文集中受益，这些文集也列在书目中，它们汇集了关于哈茨霍恩的大量重要的二手文献。这些是由科布与加姆韦尔、哈恩、里斯与弗里曼、希尔兹编辑的文集。
+    step2: |-
+      除了下文书目所列哈茨霍恩的众多著作之外，学者们还可从四本文集中受益，这四本文集亦列于书目中，汇集了关于哈茨霍恩的大量重要二手文献。这四本文集分别由科布与加姆韦尔、哈恩、里斯与弗里曼、希尔兹编辑。
+  - id: 3
+    source: |-
+      Charles Hartshorne was born in the nineteenth century and lived to philosophize in the twenty-first. He was born in Kittanning, Pennsylvania (U.S.A.) on June 5, 1897. He was, like Alfred North Whitehead, the son of an Anglican minister, although many of his ancestors were Quakers. After attending Haverford College he served in World War One in France as a medic, taking a box of philosophy books with him to the front. After the war Hartshorne received his bachelor’s degree and doctorate in philosophy at Harvard, and there he met Whitehead. Most of the major elements of Hartshorne’s philosophy were already apparent by the time he became familiar with Whitehead’s thought, contrary to a popular misconception. That is, Hartshorne came to many of the same conclusions as Whitehead independently of Whitehead’s influence. (One exception is Whitehead’s defense of eternal objects, in partial contrast to Hartshorne’s theory of emergent universals, the latter of which are arguably more consistent with a process worldview.) From 1923–1925 a postdoctoral fellowship took him to Germany, where he had classes with both Husserl and Heidegger. But neither of these thinkers influenced his philosophy as much as C.S. Peirce, whose collected papers he edited with Paul Weiss (see Thompson 1984)[^thompson-1984]. In addition to many visiting appointments, Hartshorne spent his teaching career at three institutions. From 1928–1955 he taught at the University of Chicago, where he was a dominant intellectual force in the School of Divinity, despite the fact that he was housed in the Philosophy Department, where he was not nearly as influential. He was at Emory University from 1955 until 1962, when he moved to the University of Texas at Austin. Hartshorne eventually became a long-term emeritus professor at Austin and lived there until his death on October 9, 2000. His wife, Dorothy, was as colorful as her husband and was mentioned often in his writings. Hartshorne never owned an automobile, nor did he smoke or drink alcohol or caffeine; he had a passion for birdsong and became an internationally known expert in the field.
+    step1: |-
+      查尔斯·哈茨霍恩生于十九世纪，活到二十一世纪仍在从事哲学研究。他于 1897 年 6 月 5 日出生于美国宾夕法尼亚州的基坦宁。像阿尔弗雷德·诺思·怀特海一样，他是英国圣公会一位牧师的儿子，尽管他的许多祖先是贵格会教徒。在进入哈弗福德学院之后，他在第一次世界大战期间于法国担任医疗兵，随身带了一箱哲学书籍上前线。战后，哈茨霍恩在哈佛获得了学士学位和哲学博士学位，并在那里结识了怀特海。哈茨霍恩哲学的大部分主要因素在他熟悉怀特海的思想之前就已经显现，这与一种流行的误解相反。也就是说，哈茨霍恩独立于怀特海的影响，得出了与怀特海许多相同的结论。（一个例外是怀特海对永恒对象的辩护，这与哈茨霍恩的突现共相理论部分形成对照，后者可以说更符合过程世界观。）1923 至 1925 年间，一笔博士后奖学金把他带到德国，在那里他上了胡塞尔和海德格尔两位的课。但这两位思想家对他哲学的影响都不如 C.S. 皮尔士大，皮尔士的论文集是他与保罗·韦斯共同编辑的（见 Thompson 1984）[^thompson-1984]。除了许多客座职位之外，哈茨霍恩的教学生涯主要在三个机构度过。1928 至 1955 年间，他在芝加哥大学任教，在那里他是神学院中一股主导性的知识力量，尽管他实际上被安置在哲学系，而在哲学系他的影响力远没有那么显著。1955 至 1962 年间他在埃默里大学，之后他转到得克萨斯大学奥斯汀分校。哈茨霍恩最终成为奥斯汀的长期荣誉退休教授，并在那里生活直到他于 2000 年 10 月 9 日去世。他的妻子多萝西与丈夫一样富有活力，并在他的著作中被频繁提及。哈茨霍恩从未拥有过汽车，也不抽烟、不饮酒、不摄入咖啡因；他对鸟鸣有着强烈的热情，并成为这一领域国际知名的专家。
+    step2: |-
+      查尔斯·哈茨霍恩生于十九世纪，活到二十一世纪仍在从事哲学研究。他于 1897 年 6 月 5 日生于美国宾夕法尼亚州基坦宁。与阿尔弗雷德·诺思·怀特海一样，他是英国圣公会一位牧师的儿子，不过他的许多祖先是贵格会教徒。在哈弗福德学院就读后，他于第一次世界大战期间在法国担任医疗兵，随身带了一箱哲学书籍上前线。战后，哈茨霍恩在哈佛获得学士学位和哲学博士学位，并在那里结识了怀特海。与一种流行的误解相反，哈茨霍恩哲学的大部分主要因素在他熟悉怀特海思想之前就已显现。也就是说，哈茨霍恩独立于怀特海的影响，得出了与怀特海许多相同的结论。（一个例外是怀特海对永恒对象的辩护，它与哈茨霍恩的突现共相理论部分形成对照，后者可以说更契合一种过程世界观。）1923 至 1925 年，一笔博士后奖学金带他到德国，他在那里上了胡塞尔和海德格尔两位的课。但这两位思想家对他哲学的影响都不及 C.S. 皮尔士，皮尔士的论文集是他与保罗·韦斯合编的（见 Thompson 1984）[^thompson-1984]。除了诸多客座职位外，哈茨霍恩的教学生涯主要在三个机构度过。1928 至 1955 年间他在芝加哥大学任教，在那里他是神学院中一股主导性的知识力量，尽管他被安置在哲学系，而他在哲学系的影响力远没有那么大。1955 至 1962 年间他在埃默里大学，之后转到得克萨斯大学奥斯汀分校。哈茨霍恩最终成为奥斯汀的长期荣誉退休教授，在那里生活直至 2000 年 10 月 9 日去世。他的妻子多萝西与丈夫一样富有活力，在他的著作中屡被提及。哈茨霍恩从未拥有过汽车，也不抽烟、不饮酒、不摄入咖啡因；他对鸟鸣怀有强烈热情，并成为这一领域的国际知名专家。
+  - id: 4
+    source: |-
+      Three primary methodological devices or procedures are at work in Hartshorne’s metaphysics. First, he very often uses a systematic exhaustion of theoretical options—or the development of position matrices, sometimes containing thirty-two alternatives (!)—in considering philosophical problems. This procedure is evident throughout his philosophy, but it is most apparent in his various treatments of the ontological argument. To take another example, he thinks it important to notice that regarding the mind-body problem there are three options available to us, not two, as is usually assumed: some form of dualism, some form of the materialist view that psyche is reducible to body, *and* some form of the panpsychist (or, as he terms it, psychicalist) view that body is in some way reducible to psyche if all concrete singulars (e.g., cells or electrons) in some way show signs of self-motion or activity. Thomas Nagel famously considers this third option, but Hartshorne actually defends it. The recent surge of interest in panpsychism indicates that Hartshorne was ahead of his time by several decades in his ideas in philosophy of mind.
+    step1: |-
+      在哈茨霍恩的形而上学中有三种主要的工具或程序在起作用。第一，他在考虑哲学问题时，非常经常使用对理论选项的系统穷尽——或者说发展立场矩阵，有时包含三十二个选项（！）。这一程序贯穿他的全部哲学，但在他对本体论论证的各种处理中最为明显。再举一个例子，他认为重要的是注意到：关于心身问题，我们可用的选项有三个，而不是通常所认为的两个：某种形式的二元论，某种形式的唯物论观点（心可还原为身），**以及** 某种形式的泛心论（或者，用他的话说，心理主义）观点（如果所有具体个别物（例如细胞或电子）都以某种方式显示出自我运动或活动的迹象，那么身在某种程度上可还原为心）。托马斯·内格尔著名地考虑了这第三个选项，但哈茨霍恩实际上为之辩护。最近对泛心论兴趣的激增表明，哈茨霍恩在心智哲学的观念上领先于他的时代数十年。
+    step2: |-
+      哈茨霍恩的形而上学中有三种主要的工具或程序在起作用。第一，他在考虑哲学问题时，常常系统地穷尽理论选项——或者说发展出立场矩阵，有时包含三十二个选项（！）。这一程序贯穿他的全部哲学，但在他对本体论论证的各种处理中最为明显。再举一例：他认为重要的是注意到，就心身问题而言，我们可用的选项有三个，而非通常所认为的两个：某种形式的二元论；某种形式的唯物论观点（心可还原为身）；**以及** 某种形式的泛心论（或用他的话说，心理主义）观点（如果一切具体个别物（如细胞或电子）都以某种方式显示出自我运动或活动的迹象，那么身在某种程度上可还原为心）。托马斯·内格尔著名地考虑了这第三个选项，而哈茨霍恩实际上为之辩护。近来对泛心论兴趣的激增表明，哈茨霍恩在心智哲学观念上领先于他的时代数十年。
+  - id: 5
+    source: |-
+      Second, Hartshorne frequently uses the history of philosophy to see which of the logically possible options made available by position matrices have been defended before so as to avail ourselves of the insights of others in the effort to examine in detail the consistency of these positions and to assess their consequences (see J. Smith 1991; and Lucas 1991)[^lucas-1991][^smith-1991]. Nonetheless, those logically possible options that have not historically found support should be analyzed both in terms of internal consistency and practical ramifications. It should be noted that Hartshorne’s use of the history of philosophy often involves lesser known views of famous thinkers (like Plato’s belief in God as the soul for the body of the whole natural world, or Leibniz’s defense of panpsychism) as well as the thought of lesser known thinkers (such as Faustus Socinus, Nicholas Berdyaev, Mohammed Iqbal, or Jules Lecquier).
+    step1: |-
+      第二，哈茨霍恩经常利用哲学史来看立场矩阵所提供的那些逻辑上可能的选项中，哪些在以前被辩护过，以便利用他人的洞见，来详细考察这些立场的一致性并评估其后果（见 J. Smith 1991；以及 Lucas 1991）[^lucas-1991][^smith-1991]。尽管如此，那些在历史上没有得到支持的逻辑上可能的选项，既应从内部一致性分析，也应从实际后果分析。应当指出，哈茨霍恩对哲学史的运用往往涉及著名思想家的较不为人知的观点（如柏拉图相信上帝是整个世界自然之身体的心灵或灵魂，或莱布尼茨对泛心论的辩护），以及较不为人知的思想家的思想（如福斯图斯·索齐尼、尼古拉·别尔嘉耶夫、穆罕默德·伊克巴尔，或儒勒·勒基耶）。
+    step2: |-
+      第二，哈茨霍恩经常借助哲学史，来看立场矩阵所提供的那些逻辑上可能的选项中，哪些在过去已被辩护，以便借重他人的洞见，详细考察这些立场的一致性并评估其后果（见 J. Smith 1991；以及 Lucas 1991）[^lucas-1991][^smith-1991]。尽管如此，那些在历史上未获支持的逻辑上可能的选项，既应就内部一致性来分析，也应就其实际后果来分析。应当指出，哈茨霍恩对哲学史的运用常涉及著名思想家的较不为人知的观点（如柏拉图相信上帝是整个世界自然之身体的心灵或灵魂，或莱布尼茨对泛心论的辩护），也涉及较不为人知的思想家的思想（如福斯图斯·索齐尼、尼古拉·别尔嘉耶夫、穆罕默德·伊克巴尔，或儒勒·勒基耶）。
+  - id: 6
+    source: |-
+      Third, after a careful reading of the history of philosophy has facilitated the conceptual and pragmatic examination of all the available options made explicit by a position matrix, the (Greek) principle of moderation is used by Hartshorne as a guide to negotiate the way between extreme views on either side. For example, regarding the issue of personal identity, the view of Hume (and of Bertrand Russell at one stage in his career) is that, strictly speaking, there is no personal identity in that each event in “a person’s life” is externally related to the others. This is just as disastrous, Hartshorne thinks, as Leibniz’s view that all such events are internally related to the others, so that implicit in the fetus are all the experiences of the adult. (This Leibnizian view relies on the classical theistic, strong notion of omniscience, wherein God knows in minute detail and with absolute assurance what will happen in the future.) The Humean view fails to explain the continuity we experience in our lives and the Leibnizian view fails to explain the indeterminateness we experience when considering the future. The truth lies between these two extremes, Hartshorne thinks. His view of personal identity is based on a conception of time as asymmetrical in which later events in a person’s life are internally related to former events, but they are externally related to those that follow, thus leading to a position that is at once partially deterministic and partially indeterministic. That is, the past supplies necessary but not sufficient conditions for human identity in the present, which always faces a partially indeterminate future.
+    step1: |-
+      第三，在对哲学史的仔细阅读促进了对立场矩阵所明确提供的全部可用选项的概念性和实用性考察之后，哈茨霍恩使用（希腊的）适度原则作为指导，在两端极端观点之间寻找道路。例如，关于人格同一性问题，休谟（以及伯特兰·罗素在其职业生涯某一阶段）的观点是：严格说来，不存在人格同一性，因为“一个人的一生”中的每一事件都与其他事件外在相关。哈茨霍恩认为，这与莱布尼茨的观点同样糟糕：莱布尼茨认为所有这些事件都相互内在相关，以至于胎儿中已隐含了成人的全部经验。（这一莱布尼茨式的观点依赖于古典有神论的、强的全知观念，其中上帝以详尽细节和绝对把握知道将来会发生什么。）休谟式的观点未能解释我们在生活中所经验的连续性，而莱布尼茨式的观点未能解释我们在考虑未来时所经验的不确定性。哈茨霍恩认为，真理位于这两个极端之间。他的人格同一性观基于一种时间不对称的概念，其中一个人一生中较晚的事件与较早的事件内在相关，但与随后的事件外在相关，从而导向一种既部分决定论又部分非决定论的立场。也就是说，过去为现在的人格同一性提供了必要的但非充分的条件，而现在总是面对一个部分不确定的未来。
+    step2: |-
+      第三，在对哲学史的仔细阅读促进了对立场矩阵所明确给出的全部可用选项作概念与实用性考察之后，哈茨霍恩以（希腊的）适度原则为指引，在两端极端观点之间开辟道路。例如，关于人格同一性问题，休谟（以及伯特兰·罗素在职业生涯某一阶段）的观点是：严格说来不存在人格同一性，因为“一个人的一生”中的每一事件都与其他事件外在相关。哈茨霍恩认为，这与莱布尼茨的观点同样糟糕：莱布尼茨主张所有这些事件都相互内在相关，以至于胎儿之中已隐含了成人的全部经验。（这一莱布尼茨式观点依赖于古典有神论的强全知观念，其中上帝以详尽细节和绝对把握知道将来会发生什么。）休谟式观点未能解释我们生活中所经验的连续性，而莱布尼茨式观点未能解释我们考虑未来时所经验的不确定性。哈茨霍恩认为，真理位于这两个极端之间。他的人格同一性观基于一种时间不对称的概念：一个人一生中较晚的事件与较早的事件内在相关，但与随后的事件外在相关，从而导向一种既部分决定论又部分非决定论的立场。也就是说，过去为现在的人格同一性提供了必要的但非充分的条件，而现在总在面对一个部分不确定的未来。
+  - id: 7
+    source: |-
+      Only the first of these methodological devices or procedures supports the widely held claim that Hartshorne is a rationalist. His overall method is a complex one that involves the other two methods or procedures, where he does borrow from the rationalists, but also from the pragmatists and the Greeks (see Lee 1991; and Dombrowski 1991)[^dombrowski-1991][^lee-1991]. It must be admitted, however, that Hartshorne was educated in a philosophic world still heavily influenced by late nineteenth and early twentieth century idealism. (On Hartshorne’s method, see Peters 1984; and Frankenberry 1991.)[^frankenberry-1991][^peters-1984]
+    step1: |-
+      这些方法论工具或程序中只有第一个支持了那个广泛持有的主张，即哈茨霍恩是理性主义者。他的总体方法是一种复杂的方法，涉及另外两种方法或程序，在其中他确实借鉴了理性主义者，但也借鉴了实用主义者和希腊人（见 Lee 1991；以及 Dombrowski 1991）[^dombrowski-1991][^lee-1991]。然而必须承认，哈茨霍恩所受的教育处于一个仍深受十九世纪末和二十世纪初唯心主义影响的哲学世界。（关于哈茨霍恩的方法，见 Peters 1984；以及 Frankenberry 1991。）[^frankenberry-1991][^peters-1984]
+    step2: |-
+      这些方法论工具或程序中，只有第一个支持了那个广泛持有的主张——哈茨霍恩是理性主义者。他的总体方法是一种复杂的方法，涉及另外两种方法或程序；在其中他确实借鉴了理性主义者，但也借鉴了实用主义者和希腊人（见 Lee 1991；以及 Dombrowski 1991）[^dombrowski-1991][^lee-1991]。然而必须承认，哈茨霍恩所受的教育处于一个仍深受十九世纪末和二十世纪初唯心主义影响的哲学世界。（关于哈茨霍恩的方法，见 Peters 1984；以及 Frankenberry 1991。）[^frankenberry-1991][^peters-1984]
+  - id: 8
+    source: |-
+      Philosophers commonly use a metaphor that suggests that the chain of an argument, say for the existence of God, is only as strong as its weakest link. Hartshorne rejects this metaphor on Peircian grounds. He replaces it by suggesting that various arguments for the existence of God—ontological, cosmological, design, etc.—are like mutually reinforcing strands in a cable, as detailed by the Hartshorne scholar Donald Viney.
+    step1: |-
+      哲学家们常用一个隐喻，暗示论证之链（例如关于上帝存在的论证）的强度只取决于其最薄弱的一环。哈茨霍恩在皮尔士式的理由上拒绝这一隐喻。他用另一种说法取而代之：关于上帝存在的各种论证——本体论的、宇宙论的、设计的，等等——就像缆绳中相互加强的股线，正如哈茨霍恩研究学者唐纳德·瓦伊尼所详述的那样。
+    step2: |-
+      哲学家们常用一个隐喻：论证之链（例如关于上帝存在的论证）的强度只取决于其最薄弱的一环。哈茨霍恩基于皮尔士式的理由拒绝这一隐喻。他用另一种说法取而代之：关于上帝存在的各种论证——本体论的、宇宙论的、设计的，等等——就像缆绳中相互加强的股线，正如哈茨霍恩研究学者唐纳德·瓦伊尼所详述的那样。
+  - id: 9
+    source: |-
+      He argues that Hume’s and Kant’s criticisms of the ontological argument of St. Anselm are not directed at the strongest version of his argument found in *Proslogion*, chapter 3. Here, he thinks, there is a modal distinction implied between existing necessarily and existing contingently. Hartshorne’s view is that existence alone might not be a real predicate, but existing necessarily certainly is. To say that something exists without the possibility of not existing is to say something significant about the being in question. That is, contra Kant and others, Hartshorne believes that there are necessary truths concerning existence. To say that absolute nonexistence in some fashion exists is to contradict oneself; hence he thinks that absolute nonexistence is unintelligible. It is necessarily the case that *something* exists, he thinks, and, relying on the ontological argument, he also thinks it true that God necessarily exists (see Gamwell 2020; also see Reese 1964; and R. M. Martin 1964)[^gamwell-2020][^martin-1964][^reese-1964][^reese-1964-2].
+    step1: |-
+      他认为，休谟和康德对圣安塞姆本体论论证的批评，并非针对《宣讲》（*Proslogion*）第 3 章中这一论证的最强版本。他在这里认为，在必然存在与偶然存在之间暗含一种模态区分。哈茨霍恩的观点是：单纯的存在本身可能不是真正的谓词，但必然存在肯定是。说某物存在而没有不存在的可能，就是对该存在者说出某种有意义的东西。也就是说，与康德等人相反，哈茨霍恩相信关于存在存在必然真理。以某种方式说绝对不存在存在，就是自我矛盾；因此他认为绝对不存在是不可理解的。他认为，**某物** 存在是必然的；并且，依靠本体论论证，他也认为上帝必然存在为真（见 Gamwell 2020；亦见 Reese 1964；以及 R. M. Martin 1964）[^gamwell-2020][^martin-1964][^reese-1964][^reese-1964-2]。
+    step2: |-
+      他认为，休谟和康德对圣安塞姆本体论论证的批评，并非针对《宣讲》（*Proslogion*）第 3 章中该论证的最强版本。在他看来，必然存在与偶然存在之间在这里暗含一种模态区分。哈茨霍恩的观点是：单纯的存在本身可能不是真正的谓词，但必然存在肯定是。说某物存在而无不存在的可能，就是对该存在者说出某种有意义的东西。也就是说，与康德等人相反，哈茨霍恩相信关于存在存在必然真理。以某种方式说绝对不存在存在，就是自我矛盾；因此他认为绝对不存在不可理解。他认为，**某物** 存在是必然的；并且，依靠本体论论证，他也认为上帝必然存在为真（见 Gamwell 2020；亦见 Reese 1964；以及 R. M. Martin 1964）[^gamwell-2020][^martin-1964][^reese-1964][^reese-1964-2]。
+  - id: 10
+    source: |-
+      On Hartshorne’s view, metaphysics does not deal with realities beyond the physical, but rather with those features of reality that are ubiquitous or that would exist in any possible world. And he does not think that it is possible to think of a preeminent being that existed only contingently since if it did exist contingently rather than necessarily, it would not be preeminent. That is, God’s existence is either impossible (positivism) or possible, and, if possible, then necessary (theism). He is assuming here that there are three alternatives for us to consider: (1) God is impossible; (2) God is possible, but may or may not exist; (3) God exists necessarily. The ontological argument shows that the second alternative makes no sense. Hence, he thinks that the prime task for the philosophical theist is to show that God is not impossible (see Goodwin 1978; also see J. Smith 1984)[^goodwin-1978][^smith-1984].
+    step1: |-
+      在哈茨霍恩看来，形而上学并不处理物理之外的存在者，而是处理现实中那些无处不在的、或会在任何可能世界中存在的特征。他并不认为可以设想一个仅仅偶然存在的最卓越存在者，因为如果它偶然地而非必然地存在，它就不可能是最卓越的。也就是说，上帝的存在要么不可能（实证主义），要么可能，而如果可能，则必然（有神论）。他在这里假设我们有三个要考虑的选项：（1）上帝不可能；（2）上帝可能，但可能不存在也可能存在；（3）上帝必然存在。本体论论证表明第二个选项毫无意义。因此他认为，哲学有神论者的首要任务是表明上帝并非不可能（见 Goodwin 1978；亦见 J. Smith 1984）[^goodwin-1978][^smith-1984]。
+    step2: |-
+      在哈茨霍恩看来，形而上学并不处理物理之外的存在者，而是处理现实中那些无处不在的、或会在任何可能世界中存在的特征。他并不认为可以设想一个仅偶然存在的最卓越存在者，因为如果它偶然地而非必然地存在，它就不可能是最卓越的。也就是说，上帝的存在要么不可能（实证主义），要么可能；而如果可能，则必然（有神论）。他在这里假设我们有三个要考虑的选项：（1）上帝不可能；（2）上帝可能，但可能存在也可能不存在；（3）上帝必然存在。本体论论证表明第二个选项毫无意义。因此他认为，哲学有神论者的首要任务是表明上帝并非不可能（见 Goodwin 1978；亦见 J. Smith 1984）[^goodwin-1978][^smith-1984]。
+  - id: 11
+    source: |-
+      A Hartshornian version of the ontological argument can be put as follows: (1) Even if Kant was correct that existence is not a predicate, modality of existence is a predicate in the sense that saying that X exists necessarily or contingently or impossibly, rather than merely saying that X exists, is to say something or to predicate something significant about X. (2) There are three (and only three) modes of existence: (a) impossible (cannot exist); (b) contingent (may or may not exist--i.e., being such that it exists but might not or being such that it does not exist but might); and (c) necessary (must exist). (3) To say that God exists contingently (as in 2b) is to contradict the logic of perfection (which is Anselm’s great discovery) because a being that existed only contingently would not be the greatest conceivable. (4) Therefore, the existence of God--the greatest conceivable being or a perfect being--is either impossible or necessary (preliminary conclusion). (5) The existence of God is not impossible (which is the conclusion from other theistic arguments and from the history of religious experience). (6) Therefore, the existence of God is necessary; or, at the very least, the nonexistence of God is inconceivable (ultimate conclusion). Hartshorne also offered a version of the argument in formal logic, perhaps the very first to do so (see Hartshorne 1962; also see Hubbeling 1991)[^hubbeling-1991].
+    step1: |-
+      哈茨霍恩式的本体论论证版本可以陈述如下：（1）即使康德认为存在不是谓词是正确的，存在的模态性是一个谓词，因为说 X 必然地或偶然地或不可能地存在，而不仅仅是说 X 存在，就是对 X 说出某种有意义的东西或对 X 作出某种有意义的谓述。（2）存在有三种（且仅有三种）模态：（a）不可能（不能存在）；（b）偶然（可能存在也可能不存在——即是这样一种存在：它存在但可能不存在，或它不存在但可能存在）；以及（c）必然（必须存在）。（3）说上帝偶然地存在（如 2b）是与完善性的逻辑（这是安塞姆的伟大发现）相矛盾的，因为一个仅偶然存在的存在者不可能是可设想的至大者。（4）因此，上帝的存在——可设想的至大者或完善的存在者——要么不可能，要么必然（初步结论）。（5）上帝的存在并非不可能（这是从其他有神论论证和宗教经验史中得出的结论）。（6）因此，上帝的存在是必然的；或者，至少，上帝的不存在是不可设想的（最终结论）。哈茨霍恩还提供了一个形式逻辑版本，也许是最早这样做的人（见 Hartshorne 1962；亦见 Hubbeling 1991）[^hubbeling-1991]。
+    step2: |-
+      哈茨霍恩式的本体论论证可以陈述如下：（1）即使康德关于存在不是谓词的观点是正确的，存在的模态性仍是一个谓词，因为说 X 必然地、偶然地或不可能地存在，而不仅仅是说 X 存在，就是对 X 说出某种有意义的东西或对 X 作出某种有意义的谓述。（2）存在有三种（且仅有三种）模态：（a）不可能（不能存在）；（b）偶然（可能存在也可能不存在——即它存在但可能不存在，或它不存在但可能存在）；以及（c）必然（必须存在）。（3）说上帝偶然地存在（如 2b），是与完善性的逻辑（安塞姆的伟大发现）相矛盾的，因为一个仅偶然存在的存在者不可能是可设想的至大者。（4）因此，上帝的存在——即可设想的至大者或完善的存在者——要么不可能，要么必然（初步结论）。（5）上帝的存在并非不可能（这是从其他有神论论证和宗教经验史中得出的结论）。（6）因此，上帝的存在是必然的；或者，至少，上帝的不存在是不可设想的（最终结论）。哈茨霍恩还提供了该论证的一个形式逻辑版本，也许是最早这样做的人（见 Hartshorne 1962；亦见 Hubbeling 1991）[^hubbeling-1991]。
+  - id: 12
+    source: |-
+      In addition, Hartshorne’s detailed treatment of the argument from design is connected to his view of biology. It is hard to reconcile the idea of an omnipotent, classical theistic God with the fact of the monstrosities and chance mutations produced in nature, but the general orderliness of the natural world is just as difficult to reconcile with there being no Orderer or Persuader at all. Belief in God as omnipotent, he thinks, has three problems: (1) it is at odds with the disorderliness in nature; (2) it yields the acutest form of the theodicy problem; and (3) it conflicts with the notion from Plato’s *Sophist*, defended by Hartshorne, that being *is* dynamic power (*dynamis*). An *omni*potent being would ultimately have all power over others, who would ultimately be powerless. But any being-in-becoming, according to Hartshorne, has *some* power to be affected by others and to affect others; this power, however slight, provides counterevidence to a belief in divine omnipotence. In contrast, God is ideally powerful, on the Hartshornian view. That is, God is as powerful as it is possible to be, given the partial freedom and power of creatures (see Birch 1991; and Kuntz 1991)[^birch-1991][^kuntz-1991].
+    step1: |-
+      此外，哈茨霍恩对设计论证的详细处理与他的生物学观相关。很难把全能的、古典有神论的上帝观念与自然界中产生的怪物和偶然突变这一事实调和起来，但自然世界的一般有序性也同样难以与根本不存在任何秩序者或劝导者相调和。他认为，相信全能的上帝有三个问题：（1）它与自然界中的无序相悖；（2）它产生神正论问题最尖锐的形式；（3）它与柏拉图《智士》中的观念相冲突——这一观念为哈茨霍恩所辩护——即存在 **是** 动态力量（*dynamis*）。一个 **全** 能的存在者最终会对他人拥有全部力量，而他人最终将毫无力量。但根据哈茨霍恩，任何生成中的存在者都有 **一些** 受他人影响和影响他人的力量；这种力量，无论多么微小，都为反对神圣全能的信念提供了反证。相反，在哈茨霍恩式的观点中，上帝是理想地有力的。也就是说，考虑到被造物的部分自由和力量，上帝尽可能强有力（见 Birch 1991；以及 Kuntz 1991）[^birch-1991][^kuntz-1991]。
+    step2: |-
+      此外，哈茨霍恩对设计论证的详细处理与其生物学观相关。很难把全能的、古典有神论的上帝观念与自然界中产生的畸形和偶然突变这一事实调和起来；但自然世界的一般有序性，也同样难以与根本不存在任何秩序者或劝导者相调和。他认为，相信全能的上帝有三个问题：（1）它与自然界中的无序相悖；（2）它产生神正论问题最尖锐的形式；（3）它与柏拉图《智士》中的观念相冲突——这一观念为哈茨霍恩所辩护——即存在 **是** 动态力量（*dynamis*）。一个 **全** 能的存在者最终会对他人拥有全部力量，而他人最终将毫无力量。但根据哈茨霍恩，任何生成中的存在者都有 **一些** 受他人影响和影响他人的力量；这种力量，无论多么微小，都为反对神圣全能的信念提供了反证。相反，在哈茨霍恩式的观点中，上帝是理想地有力的。也就是说，考虑到被造物的部分自由与力量，上帝尽可能强有力（见 Birch 1991；以及 Kuntz 1991）[^birch-1991][^kuntz-1991]。
+  - id: 13
+    source: |-
+      Hartshorne’s dispute with traditional or classical philosophical theism concerns not so much the *existence* of God, but rather its assumption that the *actuality* of God (i.e., *how* God exists) could be described in the same terms as the existence of God. A God who exists necessarily is not necessary or unchanging in every other respect (e.g., in terms of divine responsiveness to creaturely changes), he thinks. Although Hartshorne believes that the medieval thinkers were correct in trying to think through the logic of perfection, he also thinks that this logic has traditionally been misapplied in the effort to articulate the attributes of a being called “God,” roughly defined as the greatest conceivable being. The traditional or classical theistic logic of perfection sees God as monopolar in that regarding various contrasts (permanence-change, one-many, activity-passivity, etc.) the traditional or classical philosophical theist has chosen one element in each pair as a divine attribute (the former element of each pair) and denigrated the other (see Fitch 1964)[^fitch-1964].
+    step1: |-
+      哈茨霍恩与传统或古典哲学有神论的争议，与其说关乎上帝的 **存在**，不如说关乎它的这一假设：上帝的 **现实性**（即上帝 **如何** 存在）可以用与上帝存在相同的术语来描述。他认为，一个必然存在的上帝，在其它每一个方面并非必然或不变（例如，在对被造物变化的神圣回应方面）。尽管哈茨霍恩相信中世纪思想家试图彻底思考完善性的逻辑是正确的，他也认为这一逻辑传统上被误用，用以表述被称为“上帝”的存在者的属性——粗略定义为可设想的至大者。传统或古典有神论的完善性逻辑把上帝视为单极的，因为关于各种对照（恒常—变化、一—多、主动—被动，等等），传统或古典哲学有神论者在每一对中选择了其中一个要素作为神圣属性（每一对的第一个要素），而贬低了另一个（见 Fitch 1964）[^fitch-1964]。
+    step2: |-
+      哈茨霍恩与传统或古典哲学有神论的争议，与其说关乎上帝的 **存在**，不如说关乎它的这一假设：上帝的 **现实性**（即上帝 **如何** 存在）可以用与上帝存在相同的术语来描述。他认为，一个必然存在的上帝，在其它每一个方面并非必然或不变（例如，在对被造物变化的神圣回应方面）。尽管哈茨霍恩相信中世纪思想家试图彻底思考完善性的逻辑是正确的，他也认为这一逻辑传统上被误用，用以表述被称为“上帝”的存在者的属性——粗略定义为可设想的至大者。传统或古典有神论的完善性逻辑把上帝视为单极的，因为关于各种对照（恒常—变化、一—多、主动—被动，等等），传统或古典哲学有神论者在每一对中选择了其中一个要素作为神圣属性（每一对的第一个要素），而贬低了另一个（见 Fitch 1964）[^fitch-1964]。
+  - id: 14
+    source: |-
+      By way of contrast, Hartshorne’s logic of perfection is dipolar. Within each element of these pairs there are good features that should be attributed in the preeminent sense to God (e.g., excellent permanence in the sense of steadfastness, excellent change in the sense of preeminent ability to respond to the sufferings of creatures). In each element in these pairs there are also invidious features (e.g., pigheaded stubbornness, fickleness). The task for the philosophical theist, he thinks, is to attribute the excellences of both elements of these pairs to God and to eschew the invidious aspects of both elements. However, it should be noted that *some* contrasts are not fit for dipolar analysis (e.g., good-evil) in that “good good” is a redundancy and “evil good” is a contradiction. The greatest conceivable being, he thinks, cannot be evil in any sense whatsoever.
+    step1: |-
+      相比之下，哈茨霍恩的完善性逻辑是双极的。在这些每一对的每个要素之中，都有一些好的特征，应以最卓越的意义归属于上帝（例如，以坚定不移为意义的卓越恒常性，以卓越地回应被造物苦难的能力为意义的卓越变化）。在这些每一对的每个要素中，也有一些可憎的特征（例如，顽固的倔强、反复无常）。他认为，哲学有神论者的任务，是既把这些对的两个要素的卓越性归属于上帝，又避免这两个要素的可憎方面。然而应当指出，**一些** 对照不适合双极分析（例如，善—恶），因为“善善”是赘余，“恶善”是矛盾。他认为，可设想的至大者在任何意义上都不可能恶。
+    step2: |-
+      相比之下，哈茨霍恩的完善性逻辑是双极的。在每一对的每个要素之中，都有一些好的特征，应以最卓越的意义归属于上帝（例如，以坚定不移为意义的卓越恒常性，以卓越回应被造物苦难之能力为意义的卓越变化）。在每一对的每个要素中，也有一些可憎的特征（例如，顽固的倔强、反复无常）。他认为，哲学有神论者的任务，是既把每一对两个要素的卓越性归属于上帝，又避免这两个要素的可憎方面。然而应当指出，**一些** 对照不适合双极分析（例如，善—恶），因为“善善”是赘余，“恶善”是矛盾。他认为，可设想的至大者在任何意义上都不可能为恶。
+  - id: 15
+    source: |-
+      Hartshorne does not claim to believe in two gods, nor does he wish to defend a cosmological dualism. In fact, we can see that the opposite is the case when we consider that, in addition to calling his theism *dipolar*, he refers to it as a type of *panentheism*, which literally means that all is *in* the one God. This inclusion of the world in God occurs by means of omniscience (as Hartshorne defines the term) and omnibenevolence. All creaturely feelings, especially feelings of suffering, are included in the divine life. God is seen by Hartshorne as the mind or soul for the whole body of the natural world (see above regarding Plato’s World Soul), although he thinks of God as distinguishable from the creatures. Another way to categorize Hartshorne’s theism is to see it as *neoclassical* in the sense that he relies on the classical or traditional theistic arguments for the existence of God and on the classical theistic metaphysics of being as *first steps* in the effort to think through properly the logic of perfection. However, these efforts need to be supplemented, he thinks, by the efforts of those who see becoming as more inclusive than being. God is not outside of time, as in the Boethian view that is influential among traditional philosophical theists, but rather exists through all of time, on Hartshorne’s view. On the neoclassical view, God’s permanent “being” consists in steadfast benevolence exhibited through everlasting becoming (see Findlay 1964).
+    step1: |-
+      哈茨霍恩并不声称相信两位神，也不愿为宇宙论二元论辩护。事实上，当我们考虑到：除了称其有神论为 **双极的** 之外，他还把它称为一种 **万有在神论**——字面意思是万物都在独一上帝 **之中**——我们就能看到情况恰恰相反。世界在上帝之中的这种包含，是通过全知（如哈茨霍恩所界定的那样）和全善而实现的。一切被造物的感受，尤其是苦难的感受，都被包含在神圣生命中。哈茨霍恩把上帝视为整个自然世界之身体的心灵或灵魂（见上文关于柏拉图世界灵魂的论述），尽管他认为上帝与被造物可区分。对哈茨霍恩有神论的另一种归类方式，是把它视为 **新古典的**，因为他依赖古典或传统有神论关于上帝存在的论证，并依赖古典有神论的存在形而上学，作为恰当地彻底思考完善性逻辑的 **第一步**。然而他认为，这些努力需要被那些视生成比存在更具包容性的人的努力所补充。在哈茨霍恩看来，上帝不在时间之外——如波爱修斯式的观点（在传统哲学有神论者中很有影响）所认为的那样——而是贯穿全部时间存在。在新古典观点中，上帝恒久的“存在”在于通过永续生成而展示的坚定仁慈（见 Findlay 1964）。
+    step2: |-
+      哈茨霍恩并不声称相信两位神，也不愿为宇宙论二元论辩护。事实上，当我们考虑到：除了称其有神论为 **双极的** 之外，他还把它称为一种 **万有在神论**——字面意思是万物都在独一上帝 **之中**——就能看到情况恰恰相反。世界在上帝之中的这种包含，是通过全知（如哈茨霍恩所界定的那样）和全善而实现的。一切被造物的感受，尤其是苦难的感受，都被包含在神圣生命之中。哈茨霍恩把上帝视为整个自然世界之身体的心灵或灵魂（见上文关于柏拉图世界灵魂的论述），尽管他认为上帝与被造物可区分。对哈茨霍恩有神论的另一种归类方式，是把它视为 **新古典的**，因为他依赖古典或传统有神论关于上帝存在的论证，并依赖古典有神论的存在形而上学，作为恰当地彻底思考完善性逻辑的 **第一步**。然而他认为，这些努力还需要被那些视生成比存在更具包容性的人的努力所补充。在哈茨霍恩看来，上帝不在时间之外——如波爱修斯式的观点（在传统哲学有神论者中颇有影响）所认为的那样——而是贯穿全部时间而存在。在新古典观点中，上帝恒久的“存在”在于通过永续生成而展示的坚定仁慈（见 Findlay 1964）。
+  - id: 16
+    source: |-
+      God is omniscient, on Hartshorne’s view, but “omniscience” here refers to the divine ability to know everything that is knowable: past actualities as already actualized; present realities to the extent that they are knowable according to the laws of physics (e.g., what is present epistemically may very well be the most recent past, given the speed of light); and future possibilities or probabilities *as possibilities or probabilities*. On the traditional or classical conception of omniscience, however, God has knowledge of future possibilities or probabilities as already actualized. According to Hartshorne, this is not an example of supreme knowledge, but is rather an example of ignorance of the (at least partially) indeterminate character of the future (see the excellent article Shields and Viney 2003)[^shields-2003][^shields-2003-2].
+    step1: |-
+      在哈茨霍恩看来，上帝是全知的，但这里的“全知”指的是神圣的能力，即知道一切可知之物：已经现实化的过去现实；就物理定律而言可知的现在实在（例如，认识论上现在的东西很可能就是最近的过去，考虑到光速）；以及 **作为可能性或概率** 的未来可能性或概率。然而，在传统或古典的全知概念中，上帝把未来的可能性或概率当作已经现实化的来知道。根据哈茨霍恩，这不是最高知识的例证，而是对未来的（至少部分）不确定特征的忽视的例证（见希尔兹和瓦伊尼 2003 那篇出色的文章）[^shields-2003][^shields-2003-2]。
+    step2: |-
+      在哈茨霍恩看来，上帝是全知的，但这里的“全知”指的是神圣的能力，即知道一切可知之物：已经现实化的过去现实；就物理定律而言可知的现在实在（例如，认识论上现在的东西很可能就是最近的过去，考虑到光速）；以及 **作为可能性或概率** 的未来可能性或概率。然而，在传统或古典的全知概念中，上帝把未来的可能性或概率当作已经现实化的来知道。根据哈茨霍恩，这不是最高知识的例证，而是对未来的（至少部分）不确定特征的无知的例证（见希尔兹和瓦伊尼 2003 年那篇出色的文章）[^shields-2003][^shields-2003-2]。
+  - id: 17
+    source: |-
+      The asymmetrical view of time, common to process thinkers in general (e.g., Bergson, Whitehead, Hartshorne), in which the relationship between the present and the past is radically different from the relationship between the present and the future, also has implications for Hartshorne’s theodicy (see Devlin 1991)[^devlin-1991]. A plurality of partially free agents, including nonhuman ones, facing a future that is neither completely determined nor foreknown in detail, makes it not only possible, but likely, that these agents will get in each other’s way, clash, and cause each other to suffer. On this view, God is the fellow sufferer who understands.
+    step1: |-
+      时间的不对称观点——普遍见于过程思想家（例如柏格森、怀特海、哈茨霍恩），其中现在与过去的关系根本不同于现在与未来的关系——也对哈茨霍恩的神正论有影响（见 Devlin 1991）[^devlin-1991]。面对一个既非完全决定也非被详细预知的未来，一部分自由的行为者（包括非人类行为者）的多元性，使得这些行为者互相妨碍、冲突、并使彼此受苦不仅可能，而且很可能。在这种观点中，上帝是理解的共同受苦者。
+    step2: |-
+      时间的不对称观点——普遍见于过程思想家（例如柏格森、怀特海、哈茨霍恩），其中现在与过去的关系根本不同于现在与未来的关系——也对哈茨霍恩的神正论有影响（见 Devlin 1991）[^devlin-1991]。面对一个既非完全决定也非被详细预知的未来，一部分自由的行为者（包括非人类行为者）的多元性，使得这些行为者互相妨碍、冲突并使彼此受苦不仅可能，而且很可能。在这种观点中，上帝是理解的共同受苦者。
+  - id: 18
+    source: |-
+      Hartshorne views the cosmos as a “metaphysical monarchy,” with God as the presiding, but not omnipotent, head, and he sees human society as a “metaphysical democracy,” with each member as an equal. This makes him a liberal in politics if “liberalism” refers to the egalitarian belief that none of us is God. That is, due to the fact of pervasive pluralism of comprehensive doctrines that citizens affirm, none of us should presume to act like the classical theistic God by unreasonably imposing our view of the world on others (see Wild 1964)[^wild-1964]. Although Hartshorne and Whitehead are both political liberals, Hartshorne is, despite his view of panpsychist reality as thoroughly social (see Kegley 1991)[^kegley-1991], more of a libertarian liberal and Whitehead more of a redistributive liberal (see Morris 1991)[^morris-1991]. In axiology as well as in metaphysics/theodicy, freedom is crucial, on Hartshorne’s view (see Kane 1991)[^kane-1991]. Further, Hartshorne’s process view has implications for fetal development that informs his liberal view regarding the permissibility of abortion (see Engelhardt 1991)[^engelhardt-1991].
+    step1: |-
+      哈茨霍恩把宇宙视为一个“形而上学的君主国”，以上帝为主持但非全能的元首，他又把人类社会视为一个“形而上学的民主国”，每个成员都是平等的。如果“自由主义”指的是平等的信念——我们中没有人是上帝——那么这使他在政治上成为自由主义者。也就是说，由于公民所信奉的整全性学说普遍多元这一事实，我们中没有人应妄图像古典有神论的上帝那样，不合理地把我们对世界的看法强加于他人（见 Wild 1964）[^wild-1964]。尽管哈茨霍恩和怀特海都是政治自由主义者，但哈茨霍恩——尽管他把泛心论的实在视为彻底社会性的（见 Kegley 1991）[^kegley-1991]——更是一位自由意志论的自由主义者，而怀特海更是一位再分配的自由主义者（见 Morris 1991）[^morris-1991]。在价值论以及形而上学/神正论中，自由都是关键的，按哈茨霍恩的观点（见 Kane 1991）[^kane-1991]。此外，哈茨霍恩的过程观对胎儿发育有影响，这影响了他关于堕胎可允许性的自由主义观点（见 Engelhardt 1991）[^engelhardt-1991]。
+    step2: |-
+      哈茨霍恩把宇宙视为一个“形而上学的君主国”，以上帝为主持但非全能的元首，又把人类社会视为一个“形而上学的民主国”，每个成员都是平等的。如果“自由主义”指的是平等的信念——我们中没有人是上帝——那么这使他在政治上成为自由主义者。也就是说，由于公民所信奉的整全性学说普遍多元这一事实，我们中没有人应妄图像古典有神论的上帝那样，不合理地把我们对世界的看法强加于他人（见 Wild 1964）[^wild-1964]。尽管哈茨霍恩和怀特海都是政治自由主义者，但哈茨霍恩——尽管他把泛心论的实在视为彻底社会性的（见 Kegley 1991）[^kegley-1991]——更是一位自由意志论的自由主义者，而怀特海更是一位再分配的自由主义者（见 Morris 1991）[^morris-1991]。在价值论以及形而上学与神正论中，自由都是关键的，按哈茨霍恩的观点（见 Kane 1991）[^kane-1991]。此外，哈茨霍恩的过程观对胎儿发育有影响，这影响了他关于堕胎可允许性的自由主义观点（见 Engelhardt 1991）[^engelhardt-1991]。
+  - id: 19
+    source: |-
+      Hartshorne’s panpsychism (or psychicalism) entails the belief that each active singular in nature, even those like electrons and plant cells that exhibit feeling if not mentality, is nonetheless a center of intrinsic, and not merely instrumental, value. As a result, Hartshorne’s metaphysics is meant to provide a basis for both an aesthetic appreciation of the value in nature, as well as for an environmental ethics where intrinsic and instrumental values in nature are weighed. In fact, Hartshorne was one of the first philosophers to write in detail on topics in environmental ethics.
+    step1: |-
+      哈茨霍恩的泛心论（或心理主义）蕴含这样的信念：自然中每一个能动的个别物，即使是那些像电子和植物细胞一样虽无心灵却有感受的，也仍然是内在价值的中心，而不仅仅是工具价值的中心。其结果是，哈茨霍恩的形而上学旨在既为对自然价值的审美鉴赏提供基础，也为一种对环境伦理——在其中自然的内在价值和工具价值被衡量——提供基础。事实上，哈茨霍恩是第一批详细撰写环境伦理话题的哲学家之一。
+    step2: |-
+      哈茨霍恩的泛心论（或心理主义）蕴含这样的信念：自然中每一个能动的个别物，即使是那些像电子和植物细胞一样虽无心灵却有感受的，也仍然是内在价值的中心，而不仅仅是工具价值的中心。其结果是，哈茨霍恩的形而上学旨在既为对自然价值的审美鉴赏提供基础，也为一种环境伦理——在其中自然的内在价值与工具价值被衡量——提供基础。事实上，哈茨霍恩是第一批详细撰写环境伦理话题的哲学家之一。
+  - id: 20
+    source: |-
+      As a published expert on bird song, Hartshorne is the first philosopher since Aristotle to be an expert in both metaphysics and ornithology. He writes specifically of the aesthetic categories required to explain why birds sing outside of mating season and when territory is not threatened—two occasions for bird song that are crucial to the behaviorists’ account. Birds *like* to sing, he concludes (see Skutch 1991)[^skutch-1991]. His discovery of the “monotony threshold” regarding bird song is still cited by ornithologists. Hartshorne’s ornithology thus serves to highlight the crucial role that aesthetic categories play in Hartshorne’s philosophy (from the ancient Greek word for feeling: *aesthesis*), from the minuscule feelings of microscopic reality to divine feelings (see Chiaraviglio 1991; Hospers 1991; and Dombrowski 2004)[^chiaraviglio-1991][^dombrowski-2004][^hospers-1991].
+    step1: |-
+      作为一位发表过著作的鸟鸣专家，哈茨霍恩是自亚里士多德以来第一位同时精通形而上学和鸟类学的哲学家。他特别写到解释为什么鸟在交配季节之外、以及当领地未受威胁时仍会鸣叫所需的审美范畴——这两种鸟鸣场合对行为主义者的说明至关重要。他得出结论：鸟 **喜欢** 鸣叫（见 Skutch 1991）[^skutch-1991]。他关于鸟鸣的“单调阈值”的发现至今仍被鸟类学家引用。因此，哈茨霍恩的鸟类学有助于凸显审美范畴在哈茨霍恩哲学中扮演的关键角色（源于古希腊语表示感受的词：*aesthesis*），从微观实在的微小感受到神圣感受（见 Chiaraviglio 1991；Hospers 1991；以及 Dombrowski 2004）[^chiaraviglio-1991][^dombrowski-2004][^hospers-1991]。
+    step2: |-
+      作为一位已发表著作的鸟鸣专家，哈茨霍恩是自亚里士多德以来第一位同时精通形而上学与鸟类学的哲学家。他专门写到解释鸟为何在交配季节之外、以及当领地未受威胁时仍会鸣叫所需的审美范畴——这两种鸟鸣场合对行为主义者的说明至关重要。他得出结论：鸟 **喜欢** 鸣叫（见 Skutch 1991）[^skutch-1991]。他关于鸟鸣“单调阈值”的发现至今仍被鸟类学家引用。因此，哈茨霍恩的鸟类学有助于凸显审美范畴在哈茨霍恩哲学中扮演的关键角色（源于古希腊语表感受的词：*aesthesis*），从微观实在的微小感受到神圣感受（见 Chiaraviglio 1991；Hospers 1991；以及 Dombrowski 2004）[^chiaraviglio-1991][^dombrowski-2004][^hospers-1991]。
+  - id: 21
+    source: |-
+      Hartshorne’s criticism of anthropocentrism is due not only to his concern for God, but also for beings-in-becoming who experience in a less sophisticated way than humans. To say that all active singulars feel—leaving out of the picture abstractions like “twoness” or insentient composites of active singulars that do not themselves feel as wholes—is not to say that they are self-conscious or that they think. As before, however, Hartshorne’s axiology is ultimately theocentric in character. It should be noted, however, that Hartshorne has exerted considerable influence on several scholars of Asian philosophy, including some who are not theists (see King 1991; Arapura 1991; and Matsunobu 1991)[^arapura-1991][^king-1991][^matsunobu-1991].
+    step1: |-
+      哈茨霍恩对人类中心主义的批评，不仅出于他对上帝的关切，也出于他对那些以不如人类复杂的方式经验的生成中存在者的关切。说一切能动的个别物都有感受——把像“二性”这样的抽象，或本身不作为整体感受的能动个别物的无情复合体排除在画面之外——并不是说它们有自我意识或它们能思维。然而，和以前一样，哈茨霍恩的价值论最终在性格上是以神为中心的。然而应当指出，哈茨霍恩对若干亚洲哲学学者产生了相当大的影响，其中一些不是有神论者（见 King 1991；Arapura 1991；以及 Matsunobu 1991）[^arapura-1991][^king-1991][^matsunobu-1991]。
+    step2: |-
+      哈茨霍恩对人类中心主义的批评，不仅出于他对上帝的关切，也出于他对那些以不如人类复杂的方式经验的生成中存在者的关切。说一切能动的个别物都有感受——把像“二性”这样的抽象，或本身不作为整体感受的能动个别物的无情复合体排除在画面之外——并不是说它们有自我意识或能思维。然而，和以前一样，哈茨霍恩的价值论最终在性格上是以神为中心的。不过应当指出，哈茨霍恩对若干亚洲哲学学者产生了相当大的影响，其中一些不是有神论者（见 King 1991；Arapura 1991；以及 Matsunobu 1991）[^arapura-1991][^king-1991][^matsunobu-1991]。
+  - id: 22
+    source: |-
+      It should be noted that for Hartshorne the value of a person’s life does not depend on personal immortality, which he rejects. In this regard he is unlike many or most theists, including many process theists. But Hartshorne does not think that death ends all. To believe in an everlasting God who has perfect memory and who is all-loving itself constitutes a sort of vicarious life after bodily death, if not a sort of personal immortality. He calls this view “contributionism.” To wish for, or perhaps even to expect as a sort of entitlement, more than this Hartshorne finds hubristic for biological animals such as ourselves. Further, much of what we contribute to the divine life is *present* happiness (or unhappiness) and virtue (or vice), thus counteracting the fear that contributionism compromises the intrinsic value of the experiences in our lives.
+    step1: |-
+      应当指出，对哈茨霍恩来说，一个人生命的价值并不依赖于人格不朽，而他拒绝人格不朽。在这方面，他不同于许多或大多数有神论者，包括许多过程有神论者。但哈茨霍恩并不认为死亡终结一切。相信一个有着完美记忆、且全爱的永在上帝，本身就构成了一种身体死亡后的替代性生活，如果不是一种人格不朽的话。他把这种观点称为“贡献主义”。对像我们这样的生物性动物而言，希望——或甚至作为一种权利而期待——比这更多的东西，哈茨霍恩认为是狂妄的。此外，我们贡献给神圣生命的许多东西是 **当下** 的幸福（或不幸福）和德性（或恶习），从而抵消了这样的担忧：贡献主义损害了我们生活中经验的内在价值。
+    step2: |-
+      应当指出，对哈茨霍恩来说，一个人生命的价值并不依赖于人格不朽，而他拒绝人格不朽。在这方面，他不同于许多或大多数有神论者，包括许多过程有神论者。但哈茨霍恩并不认为死亡终结一切。相信一个有着完美记忆、且全爱的永在上帝，本身就构成了一种身体死亡后的替代性生活，如果不是一种人格不朽的话。他把这种观点称为“贡献主义”。对像我们这样的生物性动物而言，希望得到——或甚至作为一种权利而期待——比这更多的东西，哈茨霍恩认为狂妄。此外，我们贡献给神圣生命的许多东西是 **当下** 的幸福（或不幸福）和德性（或恶习），从而抵消了这样的担忧：贡献主义损害了我们生活中经验的内在价值。
+  - id: 23
+    source: |-
+      Hartshorne is well-known for his lifelong defense from the 1920s on of panpsychism, even when it was not fashionable to do so. His preferred designation is “psychicalism,” and this for two reasons. First, this label provides a clearer contrast to “materialism,” which is the main competitor to this position. And second, the “pan” component of panpsychism gives the mistaken impression that mind or psyche can be attributed to *everything* that exists, in contrast to Hartshorne’s more modest view that all concrete singulars feel (see Wiehl 1991)[^wiehl-1991]. Hartshorne’s psychicalism is very close to Whitehead’s reformed subjectivism, views that can be based on metaphysical considerations, psychological reflection, and scientific support.
+    step1: |-
+      哈茨霍恩以自 1920 年代以来毕生为泛心论辩护而闻名，即使在这样做并不时髦的时候也是如此。他偏爱的名称是“心理主义”，这有两个原因。第一，这个标签提供了与“唯物主义”——这一立场的主要竞争者——更清晰的对照。第二，“泛”这个成分给人一种错误的印象：心灵或心可以被归属于 **一切** 存在之物，这与哈茨霍恩更审慎的观点——一切具体个别物都有感受——形成对照（见 Wiehl 1991）[^wiehl-1991]。哈茨霍恩的心理主义与怀特海的改革主观主义非常接近，这些观点可以建立在形而上学考量、心理学反思和科学支持之上。
+    step2: |-
+      哈茨霍恩以自 1920 年代以来毕生为泛心论辩护而闻名，即使在这样做并不时髦的时候也是如此。他偏爱的名称是“心理主义”，这有两个原因。第一，这个标签提供了与“唯物主义”——这一立场的主要竞争者——更清晰的对照。第二，“泛”这个成分给人一种错误的印象：心灵或心可以被归属于 **一切** 存在之物，这与哈茨霍恩更审慎的观点——一切具体个别物都有感受——形成对照（见 Wiehl 1991）[^wiehl-1991]。哈茨霍恩的心理主义与怀特海的改革主观主义非常接近，这些观点可建立在形而上学考量、心理学反思与科学支持之上。
+  - id: 24
+    source: |-
+      Like Whitehead, Hartshorne seeks a coherent view that avoids the bifurcation of nature that has plagued philosophy since at least the seventeenth century. “Mind” and “matter” are not two different sorts of reality, but two different ways of describing the real, with mind, broadly construed, more inclusive than matter. If it is objected that neural processes, say, are physical events, Hartshorne would agree in that “physical” in Hartshorne refers to extended reality, which is compatible with the claim that physical processes exhibit minimal mentality. By “minimal mentality” Hartshorne means *some* sense of the contrast between the actual and the possible or, in different terms, between the past and the future. Ultimately, mind-matter dualism is unintelligible, as numerous opponents to dualism have consistently argued, in that all metaphysical dualisms violate a basic tenet of rationality relating to coherence. There is a radical inconsistency that is the basis for modern thought, according to Hartshorne, between the mechanism and determinism of science and the human world where we feel intensely and have to make decisions. Materialism is ironically less scientific than psychicalism because the bifurcation created by materialism encourages human beings to ignore science in their personal lives in that we cannot live truly human lives as machines. But for the mechanist both molecules and human beings blindly run (see Cobb 1991).
+    step1: |-
+      像怀特海一样，哈茨霍恩寻求一种连贯的观点，避免至少自十七世纪以来一直困扰哲学的自然的分裂。“心灵”和“物质”不是两种不同的实在，而是描述实在的两种不同方式，其中心灵，作广义理解，比物质更具包容性。如果有人反对说，例如，神经过程是物理事件，哈茨霍恩会同意，因为哈茨霍恩那里的“物理的”指的是广延的实在，这与物理过程展现出最小心灵性的主张相容。所谓“最小心灵性”，哈茨霍恩指的是现实与可能之间的 **某种** 对比感，或者用不同的说法，是过去与未来之间的对比感。归根结底，心物二元论是不可理解的，正如许多二元论的反对者一贯主张的那样，因为一切形而上学二元论都违反了与连贯性相关的理性基本信条。根据哈茨霍恩，现代思想的基础在于科学中的机械论与决定论与我们强烈感受且必须作出决定的人类世界之间存在一种根本的不一致。具有讽刺意味的是，唯物主义不如心理主义科学，因为唯物主义所造成的分裂鼓励人类在自己的个人生活中忽视科学，因为我们不能作为机器过真正的人类生活。但对机械论者来说，分子和人类都盲目地运行（见 Cobb 1991）。
+    step2: |-
+      像怀特海一样，哈茨霍恩寻求一种连贯的观点，避免至少自十七世纪以来一直困扰哲学的自然的分裂。“心灵”与“物质”不是两种不同的实在，而是描述实在的两种不同方式，其中心灵（作广义理解）比物质更具包容性。如果有人反对说，例如，神经过程是物理事件，哈茨霍恩会同意，因为在他那里“物理的”指的是广延的实在，这与物理过程展现出最小心灵性的主张相容。所谓“最小心灵性”，哈茨霍恩指的是现实与可能之间的 **某种** 对比感，或用另一种说法，是过去与未来之间的对比感。归根结底，心物二元论是不可理解的，正如许多二元论反对者一贯主张的那样，因为一切形而上学二元论都违反了与连贯性相关的理性基本信条。根据哈茨霍恩，现代思想的基础在于：科学的机械论与决定论，同我们强烈感受且必须作出决定的人类世界之间，存在一种根本的不一致。具有讽刺意味的是，唯物主义不如心理主义科学，因为唯物主义所造成的分裂鼓励人类在自己的个人生活中忽视科学——我们无法作为机器过真正的人类生活。但对机械论者来说，分子和人类都盲目地运行（见 Cobb 1991）。
+  - id: 25
+    source: |-
+      Psychicalism is more coherent than dualism because it provides an intellectual way to *integrate* physics as well as psychology, an integration that is prohibited or made exceedingly difficult in dualism. By making mind the primary category, matter is not eliminated but is made a derivative category dealing with dynamic singulars when they are aggregated. The most important function of psychicalism in Hartshorne is to avoid the bifurcation of nature without denying a significant amount of what is given in reality in terms of experience with qualitative content.
+    step1: |-
+      心理主义比二元论更连贯，因为它提供了一种理智的方式来 **整合** 物理学以及心理学，而这种整合在二元论中被禁止或变得极其困难。通过把心灵作为首要范畴，物质并未被消除，而是成为一个衍生的范畴，处理的是当动力个别物被聚集时的情形。心理主义在哈茨霍恩那里最重要的功能，是避免自然的分裂，同时不否认实在中在具有质的内容的经验方面所给予的大量东西。
+    step2: |-
+      心理主义比二元论更连贯，因为它提供了一种理智的方式来 **整合** 物理学以及心理学，而这种整合在二元论中被禁止或变得极其困难。通过把心灵作为首要范畴，物质并未被消除，而是成为一个衍生的范畴，处理的是动力个别物被聚集时的情形。心理主义在哈茨霍恩那里最重要的功能，是避免自然的分裂，同时不否认实在中在具有质的内容的经验方面所给予的大量东西。
+  - id: 26
+    source: |-
+      Hartshorne is well aware of the fact that, once the bifurcation of nature or dualism has been refuted, there is also the dominant view to contend with: materialism. But there is no way that materialism can adequately explain the qualitative experiences that we have as a matter of course. Indeed, materialism leaves experience *un*explained. Further, as Hartshorne sees things, materialism is actually an emergent type of dualism or a type of dualism in disguise wherein wholly unfeeling stuff eventually and miraculously becomes stuff with feeling. That is, materialism is in reality a sort of bifurcation in time in that there is no way to consistently deny *qualitative experience* (which is something of a redundancy). The denial itself is a qualitative experience. In this regard, there is something half-hearted about materialism (see Wolf 1991).
+    step1: |-
+      哈茨霍恩深知这样一个事实：一旦自然的分裂或二元论被驳斥，还有一个主导的观点需要对付：唯物主义。但唯物主义无法充分解释我们理所当然所具有的质性经验。事实上，唯物主义使经验 **未** 被解释。此外，在哈茨霍恩看来，唯物主义实际上是一种突现类型的二元论，或一种伪装的二元论，其中完全无感受的物质最终奇迹般地变成有感受的物质。也就是说，唯物主义实际上是时间中的一种分裂，因为没有办法一致地否认 **质性经验**（这多少是一种赘余）。否认本身是一种质性经验。在这方面，唯物主义有某种半心半意之处（见 Wolf 1991）。
+    step2: |-
+      哈茨霍恩深知这样一个事实：一旦自然的分裂或二元论被驳斥，还有一个主导的观点需要对付：唯物主义。但唯物主义无法充分解释我们理所当然所具有的质性经验。事实上，唯物主义使经验 **未** 被解释。此外，在哈茨霍恩看来，唯物主义实际上是一种突现类型的二元论，或一种伪装的二元论，其中完全无感受的物质最终奇迹般地变成有感受的物质。也就是说，唯物主义实际上是时间中的一种分裂，因为没有办法一致地否认 **质性经验**（这多少是一种赘余）。否认本身是一种质性经验。在这方面，唯物主义有某种半心半意之处（见 Wolf 1991）。
+  - id: 27
+    source: |-
+      On Hartshorne’s psychicalist view, by contrast, feeling is not an addition to matter but the whole of what ultimately makes up the physical world, even in its most primitive forms. Relying on (and slightly modifying) Plato’s view (*Sophist* 247E), Hartshorne holds that being *is* the dynamic power to affect others, and to be affected by others, in however slight a way.
+    step1: |-
+      相比之下，在哈茨霍恩的心理主义观点中，感受不是对物质的附加，而是最终构成物理世界之整体的东西，即使在其最原始的形式中也是如此。依靠（并稍微修改）柏拉图的观点（《智士》247E），哈茨霍恩主张：存在 **是** 影响他人、并受他人影响（无论多么微小）的动态力量。
+    step2: |-
+      相比之下，在哈茨霍恩的心理主义观点中，感受不是对物质的附加，而是最终构成物理世界之整体的东西，即使在其最原始的形式中也是如此。依靠（并稍微修改）柏拉图的观点（《智士》247E），哈茨霍恩主张：存在 **是** 影响他人、并受他人影响（无论多么微小）的动态力量。
+  - id: 28
+    source: |-
+      Hartshorne agrees with materialists that we should deny that “mind” and “physical” are incompatible predicates. But psychicalism is not only a more coherent alternative to dualism, it is also superior to materialism because the latter adds nothing to the description of reality in itself. In fact, it can achieve coherence only by subtracting much of what we experience as real. Like materialism, psychicalism is a type of monism when these two positions are contrasted with dualism. But psychicalism is the better alternative to dualism, he thinks, in its defense of the graduated character of mentality, which includes, but is not terminated at, the level of cells. The superiority of psychicalism to materialism is largely due to the coherent system of concepts it offers that includes metaphysics, theology, biology, psychology, and physics. Some of these fields are in effect omitted or rejected altogether in materialism and are included in a dualist account in an incoherent manner. In both materialism and dualism there is a lack of integration; only in psychicalism is there the possibility of integration or coherence (see N. Martin 1991)[^martin-1991].
+    step1: |-
+      哈茨霍恩同意唯物主义者的看法：我们应否认“心灵”和“物理的”是不相容的谓词。但心理主义不仅是比二元论更连贯的替代方案，它也优于唯物主义，因为后者没有给实在本身的描述增添任何东西。事实上，它只能通过减去我们所经验为真实的大量东西来获得连贯性。当这两个立场与二元论相对照时，像唯物主义一样，心理主义是一种一元论。但他认为，心理主义是比二元论更好的替代方案，因为它辩护了心灵性的渐进性质，这种性质包括细胞层面但并不终止于细胞层面。心理主义优于唯物主义，主要归功于它提供的概念上的连贯体系，这个体系包括形而上学、神学、生物学、心理学和物理学。其中一些领域在唯物主义中被实际省略或完全拒绝，而在二元论的说明中则以不连贯的方式被包括。在唯物主义和二元论中都缺乏整合；只有在心理主义中才有整合或连贯的可能（见 N. Martin 1991）[^martin-1991]。
+    step2: |-
+      哈茨霍恩同意唯物主义者的看法：我们应否认“心灵”与“物理的”是不相容的谓词。但心理主义不仅是比二元论更连贯的替代方案，它也优于唯物主义，因为后者没有给实在本身的描述增添任何东西。事实上，它只能通过减去我们所经验为真实的大量东西来获得连贯性。当这两个立场与二元论相对照时，像唯物主义一样，心理主义是一种一元论。但他认为，心理主义是比二元论更好的替代方案，因为它辩护了心灵性的渐进性质，这种性质包括细胞层面但并不终止于细胞层面。心理主义优于唯物主义，主要归功于它所提供的概念上的连贯体系，这个体系包括形而上学、神学、生物学、心理学和物理学。其中一些领域在唯物主义中被实际省略或完全拒绝，而在二元论的说明中则以不连贯的方式被包括。在唯物主义和二元论中都缺乏整合；只有在心理主义中才有整合或连贯的可能（见 N. Martin 1991）[^martin-1991]。
+  - id: 29
+    source: |-
+      A common misconception is that, because the psychicalist is committed to the claim that a minimal form of experiencing is ubiquitous, *everything* experiences or feels. There are at least two significant qualifications that are needed. First, *abstractions from* dynamic singulars that feel do not themselves feel, as in “blueness” or “triangularity” or even the abstraction “feeling.” Second, *groups or aggregates* of dynamic singulars that feel do not themselves feel because these are collections rather than true dynamic singulars, as in tables or crystals or a flock of birds. Nonetheless there can be activity *in* tables or crystals or a flock of birds, even if these aggregates are themselves inert wholes with active parts. In this regard, Hartshorne has us notice the abstractness of many of our pragmatic concepts that are assumed to deal with the most concrete reality (see J. Smith 1964)[^smith-1964][^smith-1964-2].
+    step1: |-
+      一个常见的误解是：由于心理主义者承诺了最小形式的经验无处不在这一主张，**一切** 事物都在经验或感受。至少需要两个重要的限定。第一，感受着的动力个别物的 **抽象** 本身并不感受，如“蓝性”或“三角形性”，甚至“感受”这一抽象本身。第二，感受着的动力个别物的 **群体或集合** 本身并不感受，因为这些是集合而非真正的动力个别物，如桌子或水晶或一群鸟。尽管如此，桌子或水晶或一群鸟 **之中** 仍可有活动，即使这些集合本身是有着能动部分的情性整体。在这方面，哈茨霍恩让我们注意到我们许多实用概念的抽象性，这些概念被假定处理最具体的实在（见 J. Smith 1964）[^smith-1964][^smith-1964-2]。
+    step2: |-
+      一个常见的误解是：由于心理主义者承诺了最小形式的经验无处不在这一主张，**一切** 事物都在经验或感受。至少需要两个重要的限定。第一，感受着的动力个别物的 **抽象** 本身并不感受，如“蓝性”或“三角形性”，甚至“感受”这一抽象本身。第二，感受着的动力个别物的 **群体或集合** 本身并不感受，因为这些是集合而非真正的动力个别物，如桌子、水晶或一群鸟。尽管如此，桌子、水晶或一群鸟 **之中** 仍可有活动，即使这些集合本身是有着能动部分的情性整体。在这方面，哈茨霍恩让我们注意到我们许多实用概念的抽象性，这些概念被假定处理最具体的实在（见 J. Smith 1964）[^smith-1964][^smith-1964-2]。
+  - id: 30
+    source: |-
+      Further, Hartshorne sees trees as collectives or aggregates without the unity found in either an individual cell or an individual animal with a central nervous system. That is, “sentient individual” does not lose its distinctive meaning in psychicalism in that many things viewed as individuals in everyday life are really pseudo-individuals. Stones and crowds of people cannot feel even if their members can. Apparent singulars are composites, in contrast to true singulars, which can themselves feel as compound individuals. If something acts as an individual it also feels as an individual, on Hartshorne’s view, in contrast to the pseudo-individuals who neither act nor feel *as individuals* (see Weiss 1984)[^weiss-1984].
+    step1: |-
+      此外，哈茨霍恩把树视为集体或集合，而不具有个别细胞或具有中枢神经系统的个别动物所具有的统一性。也就是说，“有感受的个体”在心理主义中并未失去其独特意义，因为日常生活中被视为个体的许多东西其实是伪个体。石头和人群即使其成员能感受，本身也不能感受。表面上的个别物是复合物，与真正的个别物相对照——后者自身能作为复合个体而感受。在哈茨霍恩看来，如果某物作为个体而行动，它也就作为个体而感受，这与伪个体相对照——伪个体既不行动也不 **作为个体** 而感受（见 Weiss 1984）[^weiss-1984]。
+    step2: |-
+      此外，哈茨霍恩把树视为集体或集合，而不具有个别细胞或具有中枢神经系统的个别动物所具有的统一性。也就是说，“有感受的个体”在心理主义中并未失去其独特意义，因为日常生活中被视为个体的许多东西其实是伪个体。石头和人群即使其成员能感受，本身也不能感受。表面上的个别物是复合物，与真正的个别物相对照——后者自身能作为复合个体而感受。在哈茨霍恩看来，如果某物作为个体而行动，它也就作为个体而感受，这与伪个体相对照——伪个体既不行动也不 **作为个体** 而感受（见 Weiss 1984）[^weiss-1984]。
+  - id: 31
+    source: |-
+      The physical things of everyday experience are either aggregates (metaphysical democracies) or dynamic singulars in their own right (metaphysical monarchies). In the latter category are to be found cells and whole persons. Once again, the psychical is not a special sort of reality, according to Hartshorne, but reality itself in that dynamic singulars (or actual occasions) feel, however minimally. Abstract aspects of the psychical do not feel, but these are not so much exceptions to the rule as abstract aspects of that which is basic to the real. Some of these dynamic singulars are brought together by a central nervous system or something like it so as to produce a higher order singular. Alternatives to psychicalism tend to commit what Whitehead calls the fallacy of misplaced concreteness, where mere aggregates of dynamic singulars are taken to be the most concretely real entities.
+    step1: |-
+      日常经验的物理事物要么是集合（形而上学的民主国），要么本身就是动力个别物（形而上学的君主国）。在后一范畴中可找到细胞和完整的人。再一次地，根据哈茨霍恩，心理的不是一种特殊的实在，而是实在本身，因为动力个别物（或现实事态）感受，无论多么微小。心理的抽象方面并不感受，但这些与其说是规则的例外，不如说是对实在之根本东西的抽象方面。其中一些动力个别物由中枢神经系统或类似的东西聚集在一起，以产生一个较高阶的个别物。心理主义的替代方案往往犯下怀特海所谓的错置具体性谬误，即仅仅把动力个别物的集合当作最具体地真实的存在者。
+    step2: |-
+      日常经验的物理事物要么是集合（形而上学的民主国），要么本身就是动力个别物（形而上学的君主国）。在后一范畴中可找到细胞和完整的人。再一次地，根据哈茨霍恩，心理的不是一种特殊的实在，而是实在本身，因为动力个别物（或现实事态）感受，无论多么微小。心理的抽象方面并不感受，但这些与其说是规则的例外，不如说是对实在之根本东西的抽象方面。其中一些动力个别物由中枢神经系统或类似的东西聚集在一起，以产生一个较高阶的个别物。心理主义的替代方案往往犯下怀特海所谓的错置具体性谬误，即把动力个别物的集合径直当作最具体地真实的存在者。
+  - id: 32
+    source: |-
+      Whitehead, in partial contrast to Hartshorne, did not call his position panpsychism or psychicalism (although he did not object if others referred to his view as panpsychist). He preferred to call his view philosophy of organism, with the ultimate units or *res verae* called “actual occasions,” which are gathered together as “societies” that are either mere aggregates or compound individuals who exhibit psyche in their own right. Each actual occasion prehends its past, although some process scholars prefer to call this ability “mnemonic” rather than in terms of “memory” in that the latter designation might too easily be interpreted as a conscious procedure. The Greek *mnema* is close to Hartshorne’s and Whitehead’s view because it refers to a memorial or a record that is not necessarily conscious.
+    step1: |-
+      怀特海，与哈茨霍恩部分相对照，不称其立场为泛心论或心理主义（尽管他不反对他人把他的观点称为泛心论的）。他更愿意称其观点为机体哲学，其终极单位或*res verae*被称为“现实事态”，它们作为“社会”被聚集在一起，而“社会”要么是纯粹的集合，要么是自身展现出心灵的复合个体。每个现实事态都摄受其过去，尽管一些过程学者更愿意称这种能力为“记忆的”而非“记忆”，因为后一名称可能太容易被解释为一种有意识的过程。希腊语*mnema*接近哈茨霍恩和怀特海的观点，因为它指称一种未必有意识的纪念物或记录。
+    step2: |-
+      怀特海，与哈茨霍恩部分相对照，不称其立场为泛心论或心理主义（尽管他不反对他人把他的观点称为泛心论的）。他更愿意称其观点为机体哲学，其终极单位或*res verae*被称为“现实事态”，它们作为“社会”被聚集在一起，而“社会”要么是纯粹的集合，要么是自身展现出心灵的复合个体。每个现实事态都摄受其过去，尽管一些过程学者更愿意称这种能力为“记忆的”而非“记忆”，因为后一名称可能太容易被解释为一种有意识的过程。希腊语*mnema*接近哈茨霍恩和怀特海的观点，因为它指称一种未必有意识的纪念物或记录。
+  - id: 33
+    source: |-
+      It might be objected that Hartshorne’s psychicalism is an overuse of an argument from analogy. It might be claimed that “feeling” or “sentiency” apply only to human beings or other animals with central nervous systems. On the basis of this criticism, there is merely a verbal connection when feeling is attributed “all the way down” in nature. Hartshorne’s response is to suggest that terms that are used universally are of necessity very abstract, including psychical terms associated with feeling or sentiency. It is such abstractness that enables him to deal with this criticism. All dynamic singulars have *some* sense of the past (in terms of physical feeling or prehension) and *some* sense of the future (in terms of primitive mentality or possibility). There are two extremes to be avoided: that we could completely capture others’ feelings, on the one hand, and that we are completely in the dark regarding others’ feelings, on the other. However remote the analogy may be, it never completely lapses (see Ogden 1984)[^ogden-1984].
+    step1: |-
+      有人可能反对：哈茨霍恩的心理主义过度使用了类比论证。有人可能声称，“感受”或“感受性”只适用于人类或其它具有中枢神经系统的动物。基于这一批评，当感受被归属“一直向下”到自然之中时，只存在一种语词上的联系。哈茨霍恩的回应是提出：普遍使用的术语必然非常抽象，包括与感受或感受性相关的心理术语。正是这种抽象性使他能够处理这一批评。所有动力个别物对过去都有 **某种** 感觉（就物理感受或摄受而言），对未来也有 **某种** 感觉（就原始心灵性或可能性而言）。有两个极端要避免：一方面，我们可能完全捕捉到他人的感受；另一方面，我们对他人的感受完全一无所知。无论类比多么遥远，它从不完全消失（见 Ogden 1984）[^ogden-1984]。
+    step2: |-
+      有人可能反对：哈茨霍恩的心理主义过度使用了类比论证。有人可能声称，“感受”或“感受性”只适用于人类或其它具有中枢神经系统的动物。基于这一批评，当感受被归属“一直向下”到自然之中时，只存在一种语词上的联系。哈茨霍恩的回应是提出：普遍使用的术语必然非常抽象，包括与感受或感受性相关的心理术语。正是这种抽象性使他能够处理这一批评。所有动力个别物对过去都有 **某种** 感觉（就物理感受或摄受而言），对未来也有 **某种** 感觉（就原始心灵性或可能性而言）。有两个极端要避免：一方面，我们可能完全捕捉到他人的感受；另一方面，我们对他人的感受完全一无所知。无论类比多么遥远，它从不完全消失（见 Ogden 1984）[^ogden-1984]。
+  - id: 34
+    source: |-
+      Hartshorne’s psychicalism is based not only on metaphysical considerations or on an argument from analogy, but also on personal experience, which takes one to sentiency at the microscopic level. This means that the human body is not entirely disanalogous to the rest of nature. Granted, many characteristics of psyche cannot be generalized, such as consciousness or thinking (see W. Viney 1991)[^viney-1991]. Hence, another label for Hartshorne’s view (derived from David Ray Griffin) is panexperientialism, *not* panconsciousness. Hartshorne thinks it crucial to point out that psychicalism is not so much an (illegitimate) extension of human traits like feeling as a movement *away from* human traits like consciousness and advanced thinking. He has us notice that pleasure and pain are *localized*, as in good food on the tongue or sexual excitement, on the one hand, or a toothache or a stubbed toe, on the other. We literally sympathize or feel with the enjoyments or negative experiences of cells in our bodies. In effect, one feels previous suffering at the cellular level. These cells have rapport with each other, otherwise psychosomatic illness might be very difficult to explain. All pain involves damage to cells. Pain is an instance of the psychical that is just as revelatory of the real as experiences we have via sight, although cells in the eye also have feelings of a primitive sort.
+    step1: |-
+      哈茨霍恩的心理主义不仅建立在形而上学考量或类比论证之上，也建立在个人经验之上，这种经验把人带到微观层面的感受性。这意味着人体并非与自然的其余部分完全不相类似。诚然，心灵的许多特征不能被普遍化，例如意识或思维（见 W. Viney 1991）[^viney-1991]。因此，哈茨霍恩观点的另一个标签（源自戴维·雷·格里芬）是泛经验主义，**而非** 泛意识论。哈茨霍恩认为，指出这一点至关重要：心理主义与其说是对人类特征（如感受）的（不正当）扩展，不如说是一种 **远离** 人类特征（如意识和高级思维）的运动。他让我们注意到，快乐和痛苦是 **局部化的**，一方面是舌上美味或性兴奋，另一方面是牙痛或踢伤的脚趾。我们确实与身体内细胞的可喜或消极经验共鸣或同感。实际上，人们是在细胞层面感受先前的痛苦。这些细胞彼此相通，否则心身疾病可能很难解释。所有疼痛都涉及细胞的损伤。疼痛是心理的一个实例，它正如我们通过视觉所经验的经验一样，都能揭示实在，尽管眼睛中的细胞也有一种原始的感受。
+    step2: |-
+      哈茨霍恩的心理主义不仅建立在形而上学考量或类比论证之上，也建立在个人经验之上，这种经验把人带到微观层面的感受性。这意味着人体并非与自然的其余部分完全不相类似。诚然，心灵的许多特征不能被普遍化，例如意识或思维（见 W. Viney 1991）[^viney-1991]。因此，哈茨霍恩观点的另一个标签（源自戴维·雷·格里芬）是泛经验主义，**而非** 泛意识论。哈茨霍恩认为，指出这一点至关重要：心理主义与其说是对人类特征（如感受）的（不正当）扩展，不如说是一种 **远离** 人类特征（如意识和高级思维）的运动。他让我们注意到，快乐与痛苦是 **局部化的**，一方面是舌上美味或性兴奋，另一方面是牙痛或踢伤的脚趾。我们确实与身体内细胞的可喜或消极经验共鸣或同感。实际上，人们是在细胞层面感受先前的痛苦。这些细胞彼此相通，否则心身疾病可能很难解释。所有疼痛都涉及细胞的损伤。疼痛是心理的一个实例，它正如我们通过视觉所经验的经验一样，都能揭示实在，尽管眼睛中的细胞也有一种原始的感受。
+  - id: 35
+    source: |-
+      In the trilemma treated by Hartshorne (some form of dualism, some form of materialism, or some form of psychicalism, three alternatives that Hartshorne sees as logically exhaustive), psychicalism is often dismissed as absurd. The fact that personal experience takes us to sentiency at the microscopic level effectively counteracts this alleged absurdity, as Hartshorne sees things. Hurt my cells and you hurt *me*, he holds. Further, psychicalism is not odd in being a metaphysical view because materialism and dualism are also metaphysical views. The materialist is saying, whether explicitly or implicitly, that *the* real is purely material with psyche being, at best, an epiphenomenal shadow reality.
+    step1: |-
+      在哈茨霍恩处理的三难困境中（某种形式的二元论、某种形式的唯物主义，或某种形式的心理主义，这三个哈茨霍恩视为逻辑上穷尽的选项），心理主义常被斥为荒谬。在哈茨霍恩看来，个人经验把我们带到微观层面的感受性这一事实，有效地反驳了这一所谓的荒谬性。他主张：伤害我的细胞，你就伤害了 **我**。此外，心理主义作为一种形而上学观点并不奇怪，因为唯物主义和二元论也是形而上学观点。唯物主义者在说——无论是明确地还是隐含地——**实在** 纯粹是物质的，而心灵至多是一种附带现象的阴影实在。
+    step2: |-
+      在哈茨霍恩处理的三难困境中（某种形式的二元论、某种形式的唯物主义，或某种形式的心理主义，这三个哈茨霍恩视为逻辑上穷尽的选项），心理主义常被斥为荒谬。在哈茨霍恩看来，个人经验把我们带到微观层面的感受性这一事实，有效地反驳了这一所谓的荒谬性。他主张：伤害我的细胞，你就伤害了 **我**。此外，心理主义作为一种形而上学观点并不奇怪，因为唯物主义和二元论也是形而上学观点。唯物主义者在说——无论是明确地还是隐含地——**实在** 纯粹是物质的，而心灵至多是一种附带现象的阴影实在。
+  - id: 36
+    source: |-
+      It is interesting from a Hartshornian point of view that cells can absorb food even though they do not have stomachs, they can absorb oxygen without lungs, they can reproduce without sexual organs, and they can flee intruders without legs. From this evidence he thinks that it is legitimate to attribute sentience to them without a central nervous system present. The mind-body relation in us and in other animals with central nervous systems is one that is participatory in that we are able to refeel through memory and perception what was felt at the cellular level. Qualities as well as abstract structures are given in experience, with the qualitative experiences of cells given more directly than those at the atomic level. As before, to think that the experiences of cells appear miraculously out of inert lifeless stuff strikes Hartshorne as unbelievable. If one cuts one’s finger and it hurts, the experience of pain is both one’s own and not one’s own in that the damaged cells in one’s finger have their own lives that are partially independent of what one is as a whole individual.
+    step1: |-
+      从哈茨霍恩式的观点看，有趣的是：细胞虽然没有胃却能吸收食物，没有肺却能吸收氧气，没有生殖器官却能繁殖，没有腿却能逃避入侵者。从这一证据他认为，在没有中枢神经系统的情况下把感受性归属它们是正当的。我们以及其它具有中枢神经系统的动物身上的心身关系是一种参与性的关系，因为我们能够通过记忆和知觉重新感受在细胞层面所感受到的东西。性质以及抽象结构都在经验中被给予，其中细胞的质性经验比原子层面的质性经验更直接地被给予。和以前一样，认为细胞的经验奇迹般地出自惰性无生命的物质，在哈茨霍恩看来难以置信。如果一个人割伤手指并感到疼痛，疼痛的经验既是自己的又不是自己的，因为手指中受损的细胞有自己的生命，这些生命部分地独立于一个人作为整体个体的存在。
+    step2: |-
+      从哈茨霍恩式的观点看，有趣的是：细胞虽然没有胃却能吸收食物，没有肺却能吸收氧气，没有生殖器官却能繁殖，没有腿却能逃避入侵者。从这一证据他认为，在没有中枢神经系统的情况下把感受性归属它们是正当的。我们以及其它具有中枢神经系统的动物身上的心身关系是一种参与性的关系，因为我们能够通过记忆和知觉重新感受在细胞层面所感受到的东西。性质以及抽象结构都在经验中被给予，其中细胞的质性经验比原子层面的质性经验更直接地被给予。和以前一样，认为细胞的经验奇迹般地出自惰性无生命的物质，在哈茨霍恩看来难以置信。如果一个人割伤手指并感到疼痛，疼痛的经验既是自己的又不是自己的，因为手指中受损的细胞有自己的生命，这些生命部分地独立于一个人作为整体个体的存在。
+  - id: 37
+    source: |-
+      Relying on the psychologist Gustav Fechner, Hartshorne distinguishes between monadological psyche at the microscopic level and synechological psyche at the level of compound individuals like us with sentiency per se. Our own synechological experiences are filtered through monadological psyche, including the experiences of nerve cells. What are fundamental are feelings, activity, dynamism. We feel feelings and we experience experiences. This is because “mere matter” refers to very low levels of psyche. This widespread sharing in the feelings of others indicates Hartshorne’s distance from Hume’s denial that one experience can really share in the experience of another that causally influences it. It is precisely such influence that is given in a later experience in relation to an earlier one. Unlike Fechner, however, Hartshorne does not attribute synechological psyche to plants, which as wholes have less integration than even the cells that constitute them.
+    step1: |-
+      依靠心理学家古斯塔夫·费希纳，哈茨霍恩区分了微观层面的单子论心灵与像我们这样具有自身感受性的复合个体层面的连续论心灵。我们自己的连续论经验通过单子论心灵被过滤，包括神经细胞的经验。根本的东西是感受、活动、动力。我们感受感受，我们经验经验。这是因为“纯粹物质”指的是非常低层次的心灵。这种对他人感受的广泛共享表明哈茨霍恩与休谟的否认——一个经验能真正分享到另一个因果地影响它的经验——之间的距离。正是这种影响在较晚的经验中相对于较早的经验被给予。然而，与费希纳不同，哈茨霍恩不把连续论心灵归属于植物，植物作为整体其整合程度甚至低于构成它们的细胞。
+    step2: |-
+      依靠心理学家古斯塔夫·费希纳，哈茨霍恩区分了微观层面的单子论心灵与像我们这样具有自身感受性的复合个体层面的连续论心灵。我们自己的连续论经验通过单子论心灵被过滤，包括神经细胞的经验。根本的东西是感受、活动、动力。我们感受感受，我们经验经验。这是因为“纯粹物质”指的是非常低层次的心灵。这种对他人感受的广泛共享表明哈茨霍恩与休谟的否认——一个经验能真正分享到另一个因果地影响它的经验——之间的距离。正是这种影响在较晚的经验中相对于较早的经验被给予。然而，与费希纳不同，哈茨霍恩不把连续论心灵归属于植物，因为植物作为整体其整合程度甚至低于构成它们的细胞。
+  - id: 38
+    source: |-
+      It is surprising that Hartshorne enlists Kant in the defense of psychicalism. In his *Dreams of a Spirit-Seer*, Kant rebukes those who ridicule Leibniz’s panpsychism. *If* we had to find a positive concept of reality in-itself, Leibniz points the way (see Loemker 1964)[^loemker-1964]. Either we remain agnostic regarding things-in-themselves (Kant’s own view) or we hold with Leibniz that things-*in-themselves* are psychical individuals (Hartshorne’s view). In a sense, the most viable alternative to psychicalism, on this view, is not so much materialism but agnosticism regarding things-in-themselves. What resembles no aspect of experience is bare nothing rather than some thing-in-itself. The “qualities” of sheer material beings would of necessity be quite unknown to us. What is needed, by contrast, is a view that accommodates the continuity among qualities in various types of psyche.
+    step1: |-
+      令人惊讶的是，哈茨霍恩征引康德来为心理主义辩护。在他的《一位通灵者的梦》中，康德斥责那些嘲笑莱布尼茨泛心论的人。**如果** 我们必须找到实在自身的积极概念，莱布尼茨指明了道路（见 Loemker 1964）[^loemker-1964]。要么我们继续对物自体持不可知论（康德自己的观点），要么我们与莱布尼茨一起主张：物 **自体** 是心理的个体（哈茨霍恩的观点）。在某种意义上，在这种观点中，心理主义最可行的替代方案与其说是唯物主义，不如说是对物自体的不可知论。与经验的任何方面都不相似的东西，是纯粹的无，而不是某种物自体。纯粹物质存在者的“性质”必然为我们所完全不知。相比之下，所需要的是这样一种观点：它容纳各种类型心灵中性质之间的连续性。
+    step2: |-
+      令人惊讶的是，哈茨霍恩征引康德来为心理主义辩护。在他的《一位通灵者的梦》中，康德斥责那些嘲笑莱布尼茨泛心论的人。**如果** 我们必须找到实在自身的积极概念，莱布尼茨指明了道路（见 Loemker 1964）[^loemker-1964]。要么我们继续对物自体持不可知论（康德自己的观点），要么我们与莱布尼茨一起主张：物 **自体** 是心理的个体（哈茨霍恩的观点）。在某种意义上，在这种观点中，心理主义最可行的替代方案与其说是唯物主义，不如说是对物自体的不可知论。与经验的任何方面都不相似的东西，是纯粹的无，而非某种物自体。纯粹物质存在者的“性质”必然为我们所完全不知。相比之下，所需要的是这样一种观点：它容纳各种类型心灵中性质之间的连续性。
+  - id: 39
+    source: |-
+      Like Plato, Hartshorne sees psyche as a sort of self-motion, an activity that is found throughout nature. The fallacy of division occurs when the inert characteristics of an aggregate are assumed to apply to members of the group, as when the complete lack of feeling in a stone is assumed to apply to molecular *activities* in the stone. And the fallacy of composition occurs when the activities in members of a group are assumed to apply to the group as a whole. The key contrast within psychicalism is that between the singular and the composite, which creates the need to think through carefully the relations between these contrasting features.
+    step1: |-
+      像柏拉图一样，哈茨霍恩把心灵视为一种自我运动，一种贯穿整个自然的能动性。当集合的情性特征被假定适用于群体的成员时，就出现分割谬误，例如当石头完全缺乏感受被假定适用于石头中的分子 **活动** 时。当群体成员的活动被假定适用于群体整体时，就出现合成谬误。心理主义内部的关键对照是个别物与复合物之间的对照，这产生了仔细思考这些对照特征之间关系的需要。
+    step2: |-
+      像柏拉图一样，哈茨霍恩把心灵视为一种自我运动，一种贯穿整个自然的能动性。当集合的情性特征被假定适用于群体的成员时，就出现分割谬误，例如当石头完全缺乏感受被假定适用于石头中的分子 **活动** 时。当群体成员的活动被假定适用于群体整体时，就出现合成谬误。心理主义内部的关键对照，是个别物与复合物之间的对照，这产生了仔细思考这些对照特征之间关系的需要。
+  - id: 40
+    source: |-
+      In a way, pre-literate animists were on the right track, as are children and Romantic poets like William Wordsworth, in tending toward psychicalism. The possible defects in these proto-psychicalists are not responded to adequately by seeing them as “primitive” and in need of correction by “common sense,” which should no more be legislative in metaphysics than it is in science. Both psychicalism and contemporary science, in contrast to common sense, see dynamism throughout the microscopic world. The pure materialist absolutizes the anthropocentric biases of ordinary language. Psychicalism tries to transcend these biases (see Ogden 1964)[^ogden-1964].
+    step1: |-
+      在某种意义上，前文字的万物有灵论者走对了路，儿童和像威廉·华兹华斯这样的浪漫主义诗人也是如此，他们都倾向于心理主义。这些原始心理主义者的可能缺陷，不能通过把他们视为“原始的”、需要被“常识”纠正来充分回应——常识在形而上学中不应比在科学中更具立法性。心理主义和当代科学，与常识相对照，都在微观世界中看到动力。纯粹唯物主义者把日常语言的人类中心偏见绝对化了。心理主义试图超越这些偏见（见 Ogden 1964）[^ogden-1964]。
+    step2: |-
+      在某种意义上，前文字的万物有灵论者走对了路，儿童和像威廉·华兹华斯这样的浪漫主义诗人也是如此，他们都倾向于心理主义。这些原始心理主义者的可能缺陷，不能通过把他们视为“原始的”、需要被“常识”纠正来充分回应——常识在形而上学中不应比在科学中更具立法性。心理主义与当代科学，跟常识相对照，都在微观世界中看到动力。纯粹唯物主义者把日常语言的人类中心偏见绝对化了。心理主义试图超越这些偏见（见 Ogden 1964）[^ogden-1964]。
+  - id: 41
+    source: |-
+      Reality is composed of pulses of experience, on Hartshorne’s psychicalist view. The data of human experience, for example, are themselves experiences, the clearest cases of which are memories and perceptions, most especially experiences of pleasure and pain. Our experiences exhibit both independence and dependence on the experiences of cells in our own bodies. This dependence is called “prehension” by Hartshorne, who relies here on Whitehead (see Ford 1991)[^ford-1991]. Contra Hume, what we experience are previous instances of experience that have a causal influence on us. To doubt that we experience the past is to doubt everything, on Hartshorne view, in that experience itself is internally related to the past, but is externally related to the future, on the asymmetrical view of time prevalent in process philosophy.
+    step1: |-
+      在哈茨霍恩的心理主义观点中，实在由经验的脉冲组成。例如，人类经验的数据本身是经验，其中最清楚的例子是记忆和知觉，尤其是快乐和痛苦的经验。我们的经验既表现出独立性，也表现出对我们自己身体内细胞经验的依赖性。这种依赖性被哈茨霍恩称为“摄受”，他在这里依靠怀特海（见 Ford 1991）[^ford-1991]。与休谟相反，我们所经验的是对我们有因果影响的先前经验实例。在哈茨霍恩看来，怀疑我们经验过去就是怀疑一切，因为经验本身与过去内在相关，但与未来外在相关，这在过程哲学流行的非对称时间观中是如此。
+    step2: |-
+      在哈茨霍恩的心理主义观点中，实在由经验的脉冲组成。例如，人类经验的数据本身是经验，其中最清楚的例子是记忆和知觉，尤其是快乐与痛苦的经验。我们的经验既表现出独立性，也表现出对我们自己身体内细胞经验的依赖性。这种依赖性被哈茨霍恩称为“摄受”，他在这里依靠怀特海（见 Ford 1991）[^ford-1991]。与休谟相反，我们所经验的是对我们有因果影响的先前经验实例。在哈茨霍恩看来，怀疑我们经验过去就是怀疑一切，因为经验本身与过去内在相关，而与未来外在相关，这在过程哲学流行的非对称时间观中正是如此。
+  - id: 42
+    source: |-
+      Hartshorne goes so far as to say that the participation in each other’s being found in prehension is his strongest belief in that the mind-body relation is clearly social. The perceived precedes the perceiving by providing necessary but not sufficient conditions for what comes next. That is, events do not necessitate their precise successors, even if some successors or other are required.
+    step1: |-
+      哈茨霍恩甚至说，摄受中所发现的彼此存在的参与是他最坚定的信念，因为心身关系显然是社会性的。被知觉者通过为接下来发生的事情提供必要的而非充分的条件而先于知觉者。也就是说，事件并不必然化其精确的后续者，即使某些后继者是必需的。
+    step2: |-
+      哈茨霍恩甚至说，摄受中所发现的彼此存在的参与，是他最坚定的信念，因为心身关系显然是社会性的。被知觉者通过为接下来发生的事情提供必要的而非充分的条件而先于知觉者。也就是说，事件并不必然化其精确的后续者，即使某些后继者是必需的。
+  - id: 43
+    source: |-
+      If metaphysics is seen, as it is by Hartshorne, as the study of nonrestrictive existential statements, then “something exists” and “experience exists” are metaphysical statements because of their extreme range. They are statements that cannot be denied without contradiction. That is, psychicalism is metaphysically true rather than contingently true or false (see H. Smith 1964)[^smith-1964][^smith-1964-2]. But this does not mean that there is an incompatibility between psychicalism and the contingently true or false deliverances in science. It is understandable why scientists restrict their investigations to what can be quantified and hence be capable of precise measurement. But such restriction is nonetheless compatible with psychicalism as a sort of comparative psychology of the widest sort, with physics dealing with the simplest instances of psyche or with the behavioristic aspect of the lowest instances of psyche. Whereas science is concerned with the control of nature, philosophy, according to Hartshorne, should be concerned with the most general sort of *understanding* of nature.
+    step1: |-
+      如果形而上学如哈茨霍恩所认为的那样，被视为对非限制性存在陈述的研究，那么“某物存在”和“经验存在”由于其极端范围而是形而上学陈述。它们是不能无矛盾地被否认的陈述。也就是说，心理主义是形而上学地为真的，而非偶然地为真或为假（见 H. Smith 1964）[^smith-1964][^smith-1964-2]。但这并不意味着心理主义与科学中偶然地为真或为假的陈述之间不相容。科学家把他们的研究限制在可量化的、因而能够被精确测量的东西上，这是可以理解的。但这种限制与心理主义仍然相容，心理主义是一种最广泛意义上的比较心理学，其中物理学处理心灵的最简单实例，或处理心灵最低实例的行为主义方面。科学关注自然的控制，而根据哈茨霍恩，哲学应关注对自然的最一般意义上的 **理解**。
+    step2: |-
+      如果形而上学如哈茨霍恩所认为的那样，被视为对非限制性存在陈述的研究，那么“某物存在”与“经验存在”由于其极端范围而是形而上学陈述。它们是不能无矛盾地被否认的陈述。也就是说，心理主义是形而上学地为真的，而非偶然地为真或为假（见 H. Smith 1964）[^smith-1964][^smith-1964-2]。但这并不意味着心理主义与科学中偶然地为真或为假的陈述之间不相容。科学家把他们的研究限制在可量化的、因而能够被精确测量的东西上，这是可以理解的。但这种限制与心理主义仍然相容，心理主义是一种最广泛意义上的比较心理学，其中物理学处理心灵的最简单实例，或处理心灵最低实例的行为主义方面。科学关注自然的控制，而根据哈茨霍恩，哲学应关注对自然的最一般意义上的 **理解**。
+  - id: 44
+    source: |-
+      A further connection between psychicalism and science can be seen in terms of Kant’s rejection of psychicalism as being due in part to the materialistic and mechanistic physics of his day. In principle, scientists today could be psychicalists and some of them were in fact psychicalists, as in Hartshorne’s friend at University of Chicago, the geneticist Sewall Wright (see Wright 1964)[^wright-1964]. Science deals with structure, not quality, yet without qualitative feeling, structures are empty. Only psychicalism generalizes both structure as well as feeling. The physical *is* the psychical when considered only in its causal relations and structures, abstracting away from qualitative aspects.
+    step1: |-
+      心理主义与科学之间的进一步联系可以从康德对心理主义的拒绝看出，这种拒绝部分是由于他那个时代的唯物主义和机械论物理学。原则上，今天的科学家可以是心理主义者，其中一些事实上就是心理主义者，如哈茨霍恩在芝加哥大学的朋友、遗传学家休厄尔·赖特（见 Wright 1964）[^wright-1964]。科学处理结构而非性质，然而没有质性感受，结构是空洞的。只有心理主义把结构以及感受都加以普遍化。当仅就其因果关系和结构来考虑、抽象掉质性方面时，物理的 **就是** 心理的。
+    step2: |-
+      心理主义与科学之间的进一步联系，可以从康德对心理主义的拒绝看出，这种拒绝部分是由于他那个时代的唯物主义和机械论物理学。原则上，今天的科学家可以是心理主义者，其中一些事实上就是心理主义者，如哈茨霍恩在芝加哥大学的朋友、遗传学家休厄尔·赖特（见 Wright 1964）[^wright-1964]。科学处理结构而非性质，然而没有质性感受，结构就是空洞的。只有心理主义把结构以及感受都加以普遍化。当仅就其因果关系和结构来考虑、抽象掉质性方面时，物理的 **就是** 心理的。
+  - id: 45
+    source: |-
+      Hartshorne’s generalized concept of sentience is integrally connected to his commitment to process philosophy, to the primacy of becoming over being. Without memory and anticipation, “past” and “future” would be meaningless words. In fact, if time is a universal feature of the real, then psychicalism is required, otherwise time could easily be reduced to (static) space. If an electron, say, does not have memory per se it nonetheless exhibits present behavior in some sort of prehensive relationship with the past that influences it (see Sprigge 1991)[^sprigge-1991]. A reductionistic view of nature purely in spatial terms plays into the hands of the dualist or the materialist. No positive conception of time can be derived from dead matter or matter that can neither remember nor anticipate. If all dynamic singulars are some type of experience, each of these unities has *some* type of memory (prehension) and anticipation, otherwise an objective temporal order is inexplicable (see Levi 1964)[^levi-1964].
+    step1: |-
+      哈茨霍恩的普遍化感受性概念与他对过程哲学、对生成优于存在的承诺有着内在的联系。没有记忆和预期，“过去”和“未来”将是无意义的词。事实上，如果时间是实在的普遍特征，那么心理主义就是必需的，否则时间很容易被还原为（静态的）空间。例如，如果一个电子没有记忆本身，它仍然在与影响它的过去的某种摄受关系中展现出当下的行为（见 Sprigge 1991）[^sprigge-1991]。纯粹在空间术语上对自然的还原论观点正中二元论者或唯物主义者的下怀。从死物质或既不能记忆也不能预期的物质中，无法推导出任何积极的时间概念。如果所有动力个别物都是某种类型的经验，那么这些统一体中的每一个都有 **某种** 类型的记忆（摄受）和预期，否则客观的时间秩序就无法解释（见 Levi 1964）[^levi-1964]。
+    step2: |-
+      哈茨霍恩的普遍化感受性概念，与他对过程哲学、对生成优于存在的承诺有着内在的联系。没有记忆和预期，“过去”和“未来”将是无意义的词。事实上，如果时间是实在的普遍特征，那么心理主义就是必需的，否则时间很容易被还原为（静态的）空间。例如，如果一个电子没有记忆本身，它仍然在与影响它的过去的某种摄受关系中展现出当下的行为（见 Sprigge 1991）[^sprigge-1991]。纯粹在空间术语上对自然的还原论观点，正中二元论者或唯物主义者的下怀。从死物质或既不能记忆也不能预期的物质中，无法推导出任何积极的时间概念。如果所有动力个别物都是某种类型的经验，那么这些统一体中的每一个都有 **某种** 类型的记忆（摄受）和预期，否则客观的时间秩序就无法解释（见 Levi 1964）[^levi-1964]。
+  - id: 46
+    source: |-
+      Hartshorne’s psychicalism is also connected to his theism, although some scholars like Wright adopt his psychicalism without agreeing to his theism. Hartshorne holds that psychicalism is implicit in theism, at least if God is seen as psyche that animates not this or that particular body but that animates omnipresently the body of the universe (see Viney and Dombrowski forthcoming). God is the supreme experience in relation to particular experiences on the model of soul-body cosmic hylomorphism. Mere matter or a zero of feeling is a complete negation that can be approached only asymptotically. Thus, psychicalism is, as Hartshorne sees things, a scientific sort of spiritualism. Dead matter, if such existed, would be at odds with an ubiquitous, living God. Hartshorne goes so far as to claim that without psychicalism theism is incoherent and vice versa (see Van der Veken 1991)[^van-1991].
+    step1: |-
+      哈茨霍恩的心理主义也与他的有神论相关，尽管像赖特这样的一些学者接受他的心理主义却不同意他的有神论。哈茨霍恩主张，心理主义在有神论中是隐含的，至少如果上帝被视为一种心灵，它赋予的不是这个或那个特定的身体以生命，而是无所不在地赋予宇宙的身体以生命（见 Viney and Dombrowski forthcoming）。上帝是相对于特定经验而言的最高经验，其模式是灵魂—身体的宇宙形质论。纯粹物质或感受的零是完全的否定，只能渐近地接近。因此，在哈茨霍恩看来，心理主义是一种科学意义上的唯心论。死物质，如果存在的话，会与无处不在的、活的上帝相悖。哈茨霍恩甚至主张，没有心理主义，有神论就是无连贯的，反之亦然（见 Van der Veken 1991）[^van-1991]。
+    step2: |-
+      哈茨霍恩的心理主义也与他的有神论相关，尽管像赖特这样的一些学者接受他的心理主义却不同意他的有神论。哈茨霍恩主张，心理主义在有神论中是隐含的，至少如果上帝被视为一种心灵，它赋予的不是这个或那个特定的身体以生命，而是无所不在地赋予宇宙的身体以生命（见 Viney and Dombrowski forthcoming）。上帝是相对于特定经验而言的最高经验，其模式是灵魂—身体的宇宙形质论。纯粹物质或感受的零，是完全的否定，只能渐近地接近。因此，在哈茨霍恩看来，心理主义是一种科学意义上的唯心论。死物质，如果存在的话，会与无处不在的、活的上帝相悖。哈茨霍恩甚至主张，没有心理主义，有神论就是无连贯的，反之亦然（见 Van der Veken 1991）[^van-1991]。
+  - id: 47
+    source: |-
+      It seems fair to say that analytic philosophers, in general, even analytic philosophers who are theists, have largely ignored Hartshorne’s philosophy. (The point is debateable. There has been a move among many analytic philosophers who are theists, as in Richard Swinburne, away from the eternal, Boethian God who is outside of time altogether. Might it be that Hartshorne’s influence is greater than initially appears to be the case when the temporality, or the sempiternity, of the God of many analytic philosophers is concerned?) This is in contrast to his wide influence among theologians, which is odd when it is considered that he is not a theologian and does not rely on sacred scripture or religious authority for his insights. Another oddity is the fact that Hartshorne’s influence among theologians is due to the defense he offers of the *rationality* of belief in a neoclassical God (see R. M. Martin 1984; and Shields 2003a)[^martin-1984][^shields-2003a].
+    step1: |-
+      似乎可以公平地说，分析哲学家总体上，甚至那些信有神论的分析哲学家，都在很大程度上忽视了哈茨霍恩的哲学。（这一点是可争议的。许多信有神论的分析哲学家，如理查德·斯温伯恩，已经转向远离那永恒的、波爱修斯式的、完全在时间之外的上帝。当涉及许多分析哲学家的上帝的暂时性或永存性时，哈茨霍恩的影响是否比最初看起来更大呢？）这与他在神学家中的广泛影响形成对照，而这一点是奇怪的，因为人们考虑到他不是神学家，也不依赖圣经或宗教权威来获得洞见。另一个奇怪之处是，哈茨霍恩在神学家中的影响，归功于他为一个新古典的上帝信念的 **理性** 所提供的辩护（见 R. M. Martin 1984；以及 Shields 2003a）[^martin-1984][^shields-2003a]。
+    step2: |-
+      似乎可以公平地说，分析哲学家总体上，甚至那些信有神论的分析哲学家，都在很大程度上忽视了哈茨霍恩的哲学。（这一点是有争议的。许多信有神论的分析哲学家，如理查德·斯温伯恩，已经转向远离那永恒的、波爱修斯式的、完全在时间之外的上帝。当涉及许多分析哲学家的上帝的暂时性或永存性时，哈茨霍恩的影响是否比最初看起来更大呢？）这与他在神学家中的广泛影响形成对照，而这是奇怪的，因为人们考虑到他并不是神学家，也不依赖圣经或宗教权威来获得洞见。另一个奇怪之处是，哈茨霍恩在神学家中的影响，归功于他为一个新古典的上帝信念的 **理性** 所提供的辩护（见 R. M. Martin 1984；以及 Shields 2003a）[^martin-1984][^shields-2003a]。
+  - id: 48
+    source: |-
+      There is at least one important philosopher whose work indicates the sort of debate that has occurred between Hartshorne and analytic theists, who tend to rely on traditional or classical versions of the concept of God. That is William Alston. There are two reasons why an evaluation of Hartshorne’s philosophy is facilitated by a consideration of Alston’s critique. First, Alston is as important a theist as any among analytic philosophers and his criticisms of Hartshorne’s thought are like those of other analytic philosophers like Thomas Morris, Richard Creel, Michael Durrant, and others. And second, Alston is a former student of Hartshorne’s and is thoroughly familiar with Hartshorne’s arguments. Alston is a philosopher who is not scandalized by Hartshorne’s panentheism, nor by his neoclassical theism. But Alston thinks that the contrast that Hartshorne draws between his neoclassical theism and the classical theism of Thomas Aquinas is too sharp.
+    step1: |-
+      至少有一位重要的哲学家，其著作显示了哈茨霍恩与信有神论的分析哲学家（他们倾向于依赖传统或古典版本的上帝概念）之间发生的那种争论。那就是威廉·阿尔斯顿。考虑阿尔斯顿的批评有助于评价哈茨霍恩的哲学，这有两个原因。第一，阿尔斯顿在分析哲学家中与任何一位有神论者一样重要，他对哈茨霍恩思想的批评与托马斯·莫里斯、理查德·克里尔、迈克尔·杜兰特等其他分析哲学家的批评相似。第二，阿尔斯顿是哈茨霍恩以前的学生，对哈茨霍恩的论证非常熟悉。阿尔斯顿是一位不为哈茨霍恩的万有在神论、也不为他的新古典有神论所震惊的哲学家。但阿尔斯顿认为，哈茨霍恩在他的新古典有神论与托马斯·阿奎那的古典有神论之间所作的对照过于尖锐。
+    step2: |-
+      至少有一位重要的哲学家，其著作显示了哈茨霍恩与信有神论的分析哲学家（他们倾向于依赖传统或古典版本的上帝概念）之间发生的那种争论。那就是威廉·阿尔斯顿。考虑阿尔斯顿的批评有助于评价哈茨霍恩的哲学，这有两个原因。第一，阿尔斯顿在分析哲学家中与任何一位有神论者一样重要，他对哈茨霍恩思想的批评与托马斯·莫里斯、理查德·克里尔、迈克尔·杜兰特等其他分析哲学家的批评相似。第二，阿尔斯顿是哈茨霍恩以前的学生，对哈茨霍恩的论证非常熟悉。阿尔斯顿是一位不为哈茨霍恩的万有在神论、也不为他的新古典有神论所震惊的哲学家。但阿尔斯顿认为，哈茨霍恩在他的新古典有神论与托马斯·阿奎那的古典有神论之间所作的对照过于尖锐。
+  - id: 49
+    source: |-
+      Alston thinks that Hartshorne presents neoclassical theism and classical theism as complete packages, whereas it would be better to be able to pick and choose among individual items within these packages. Alston seeks some sort of rapprochement between Thomism and neoclassical theism, a rapprochement that Hartshorne himself would like to bring about to the extent that he is a neo*classical* thinker, but that is difficult to accomplish to the extent that he is *neo*classical (see McMurrin 1991)[^mcmurrin-1991].
+    step1: |-
+      阿尔斯顿认为，哈茨霍恩把新古典有神论和古典有神论呈现为完整的包裹，而更好的做法是能够在这些包裹内的个别条目中进行挑选。阿尔斯顿在托马斯主义与新古典有神论之间寻求某种和解，这种和解是哈茨霍恩本人所希望实现的——就其是 **古典** 的新思想者而言——但难以实现——就其是 **新** 古典者而言（见 McMurrin 1991）[^mcmurrin-1991]。
+    step2: |-
+      阿尔斯顿认为，哈茨霍恩把新古典有神论和古典有神论呈现为完整的包裹，而更好的做法是能够在这些包裹内的个别条目中进行挑选。阿尔斯顿在托马斯主义与新古典有神论之间寻求某种和解，这种和解是哈茨霍恩本人所希望实现的——就其是 **古典** 的新思想者而言——但难以实现——就其是 **新** 古典者而言（见 McMurrin 1991）[^mcmurrin-1991]。
+  - id: 50
+    source: |-
+      A consideration of ten contrasting attributes will best facilitate an initial understanding of Hartshorne’s view of God. Consider the first group of attributes treated by Alston.
+    step1: |-
+      考虑十种对照属性，将最能促进对哈茨霍恩上帝观的最初理解。考虑阿尔斯顿处理的第一组属性。
+    step2: |-
+      考虑十种对照属性，最能促进对哈茨霍恩上帝观的最初理解。且看阿尔斯顿处理的第一组属性。
+  - id: 51
+    source: |-
+      | CLASSICAL ATTRIBUTES | NEOCLASSICAL ATTRIBUTES |
+      | --- | --- |
+      | 1. absoluteness (absence of internal relatedness) | 1. relativity (God is internally related to creatures by way of knowledge of them and actions toward them) |
+      | 2. pure actuality (there is no potentiality in God) | 2. potentiality (not everything is actualized that is possible for God) |
+      | 3. total necessity (every truth about God is necessarily true) | 3. necessity and contingency (God exists necessarily, but various things are true of God contingently, e.g., God’s knowledge of what is contingent) |
+      | 4. absolute simplicity | 4. complexity |
+    step1: |-
+      | 古典属性 | 新古典属性 |
+      | :---: | :---: |
+      | 1. 绝对性（缺乏内在关联） | 1. 相对性（上帝通过对被造物的认知及对其的行动而与被造物内在相关） |
+      | 2. 纯粹现实性（上帝之中没有潜在性） | 2. 潜在性（并非对上帝可能的一切都被现实化） |
+      | 3. 完全必然性（关于上帝的一切真理都必然为真） | 3. 必然性与偶然性（上帝必然存在，但各种事情对上帝偶然为真，例如上帝对偶然之物的知识） |
+      | 4. 绝对单纯性 | 4. 复杂性 |
+    step2: |-
+      | 古典属性 | 新古典属性 |
+      | :---: | :---: |
+      | 1. 绝对性（缺乏内在关联） | 1. 相对性（上帝通过对被造物的认知及对其的行动而与被造物内在相关） |
+      | 2. 纯粹现实性（上帝之中没有潜在性） | 2. 潜在性（并非对上帝可能的一切都被现实化） |
+      | 3. 完全必然性（关于上帝的一切真理都必然为真） | 3. 必然性与偶然性（上帝必然存在，但各种事情对上帝偶然为真，例如上帝对偶然之物的知识） |
+      | 4. 绝对单纯性 | 4. 复杂性 |
+  - id: 52
+    source: |-
+      Alston distinguishes two lines of argument regarding absoluteness and relativity, which he sees as the key contrast. Alston thinks that only one of these is successful. As indicated in the diagram above, what Hartshorne means by absoluteness is absence of internal relatedness. A relation is internal to a term of a relation just in case that term would not be exactly as it is if it were not in that relationship. Hartshorne’s view is that God has internal relations to creatures by way of knowing and acting towards them and receiving influence from them.
+    step1: |-
+      阿尔斯顿区分了关于绝对性与相对性的两条论证线索，他把这视为关键的对照。阿尔斯顿认为只有其中一条是成功的。如上图所示，哈茨霍恩所说的绝对性是指缺乏内在关联。一个关系对一个关系项是内在的，当且仅当该关系项如果不在该关系中就不会恰好是它现在的样子。哈茨霍恩的观点是：上帝通过对被造物的认知、对它们的行动以及接受它们的影响，而与被造物有内在关系。
+    step2: |-
+      阿尔斯顿区分了关于绝对性与相对性的两条论证线索，他把这视为关键的对照。阿尔斯顿认为只有其中一条是成功的。如上图所示，哈茨霍恩所说的绝对性是指缺乏内在关联。一个关系对一个关系项是内在的，当且仅当该关系项如果不在该关系中就不会恰好是它现在的样子。哈茨霍恩的观点是：上帝通过认知被造物、对它们行动以及接受它们的影响，而与被造物有内在关系。
+  - id: 53
+    source: |-
+      On Alston’s interpretation, Hartshorne’s first line of argument is to say that if the relation of the absolute to the world really fell outside the absolute, then this relation would necessarily fall within some further and genuinely single entity that embraced both the absolute and the world and the relations between them. Thus, we must hold, according to Hartshorne, that the God-creature relation is internal to God; otherwise we will have to admit that there is something greater or more inclusive than God. Alston does not find this argument convincing because it includes the claim that God “contains” the world due to the internal relations God has with the world. Alston’s view is that the entity to which a relation is internal contains the terms only in the minimal sense that those terms enter into a description of the entity, but it does not follow from this that those terms are contained in that entity in an organic way.
+    step1: |-
+      在阿尔斯顿的解释中，哈茨霍恩的第一条论证线索是：如果绝对者与世界的关系真的落在绝对者之外，那么这种关系就必然落在某个更进一步的、真正单一的实体之内，这个实体既包含绝对者又包含世界以及它们之间的关系。因此，根据哈茨霍恩，我们必须主张：上帝—被造物关系对上帝是内在的；否则我们将不得不承认有比上帝更大或更具包容性的东西。阿尔斯顿并不认为这一论证有说服力，因为它包含了这样的主张：上帝由于与世界的内在关系而“包含”世界。阿尔斯顿的观点是：一个关系对其为内在的那个实体，仅在最低限度的意义上包含关系项，即那些关系项进入该实体的描述；但这并不推出这些关系项以有机的方式被包含在该实体中。
+    step2: |-
+      在阿尔斯顿的解释中，哈茨霍恩的第一条论证线索是：如果绝对者与世界的关系真的落在绝对者之外，那么这种关系就必然落在某个更进一步的、真正单一的实体之内，这个实体既包含绝对者又包含世界以及它们之间的关系。因此，根据哈茨霍恩，我们必须主张：上帝—被造物关系对上帝是内在的；否则我们将不得不承认有比上帝更大或更具包容性的东西。阿尔斯顿并不认为这一论证有说服力，因为它包含了这样的主张：上帝由于与世界的内在关系而“包含”世界。阿尔斯顿的观点是：一个关系对其为内在的那个实体，仅在最低限度的意义上包含关系项，即那些关系项进入该实体的描述；但这并不推出这些关系项以有机的方式被包含在该实体之中。
+  - id: 54
+    source: |-
+      Divine inclusiveness, for Hartshorne, is sometimes like the inclusion of thoughts in a mind, but usually it is described as like the inclusion of cells within a living body. It is never like the inclusion of marbles in a box. The inorganic and insentient character of a box is inadequate as a model for divinity, he thinks, and divine inclusiveness is never like the inclusion of theorems in a set of axioms, as it might be for certain idealists. Divine inclusiveness in Hartshorne is *organic* inclusiveness (see Reese 1991)[^reese-1991].
+    step1: |-
+      对哈茨霍恩而言，神圣包容性有时像思想在心灵中的包含，但通常被描述为像细胞在活身体内的包含。它绝不像盒子中的弹珠的包含。他认为，盒子的无机的和无感觉的性质作为神性的模型是不充分的，而神圣包容性绝不像定理在公理集中的包含，正如对某些唯心主义者可能的那样。哈茨霍恩的神圣包容性是 **有机的** 包容性（见 Reese 1991）[^reese-1991]。
+    step2: |-
+      对哈茨霍恩而言，神圣包容性有时像思想在心灵中的包含，但通常被描述为像细胞在活身体内的包含。它绝不像盒子中弹珠的包含。他认为，盒子的无机的、无感觉的性质作为神性的模型是不充分的，而神圣包容性也绝不像定理在公理集中的包含，正如对某些唯心主义者可能的那样。哈茨霍恩的神圣包容性是 **有机的** 包容性（见 Reese 1991）[^reese-1991]。
+  - id: 55
+    source: |-
+      Hartshorne’s second argument against absoluteness fares much better, according to Alston. He agrees with Hartshorne’s stance regarding the cognitive relation God has with the world; in any case of knowledge, the knowledge relation is internal to the subject, external to the object. When a human being knows something, the fact that she knows it is part of what makes her the concrete being that she is. If she recognizes a certain tree she is different from the being she might have been if she had not recognized the tree. But the tree is unaffected by her recognition. Likewise, according to Alston, one cannot maintain that God has perfect knowledge of everything knowable and still hold that God is not qualified to any degree by relations with other beings (see Shields and Viney 2003)[^shields-2003][^shields-2003-2].
+    step1: |-
+      根据阿尔斯顿，哈茨霍恩反对绝对性的第二条论证要好得多。他同意哈茨霍恩关于上帝与世界之认知关系的立场；在任何知识情形中，知识关系对主体是内在的，对客体是外在的。当一个人知道某物时，她知道它这一事实是她成为她所是的那个具体存在者的一部分。如果她认出了一棵特定的树，她就不同于如果她没有认出那棵树所可能成为的存在者。但那棵树不受她的辨认影响。同样地，根据阿尔斯顿，一个人不能既主张上帝对一切可知之物有完善的知识，又仍然主张上帝不被与其他存在者的关系以任何程度所限定（见 Shields and Viney 2003）[^shields-2003][^shields-2003-2]。
+    step2: |-
+      根据阿尔斯顿，哈茨霍恩反对绝对性的第二条论证要好得多。他同意哈茨霍恩关于上帝与世界之认知关系的立场；在任何知识情形中，知识关系对主体是内在的，对客体是外在的。当一个人知道某物时，她知道它这一事实是她成为她所是的那个具体存在者的一部分。如果她认出了一棵特定的树，她就不同于如果她没有认出那棵树所可能成为的存在者。但那棵树不受她的辨认影响。同样地，根据阿尔斯顿，一个人不能既主张上帝对一切可知之物有完善的知识，又仍然主张上帝不被与其他存在者的关系以任何程度所限定（见 Shields and Viney 2003）[^shields-2003][^shields-2003-2]。
+  - id: 56
+    source: |-
+      One might respond to Alston and Hartshorne on this point by saying that since creatures depend for their existence on God, their relations to God affect *them*, but not God. Richard Creel seems to make this very point. But even if beings other than God depend for their existence on God, it still remains true that if God had created a different world from the one that exists at present, then God would be somewhat different from the way God is at present: God’s knowledge would have been of *that* world and not this one, according to both Alston and Hartshorne.
+    step1: |-
+      有人可能就这一点回应阿尔斯顿和哈茨霍恩说：既然被造物的存在依赖于上帝，它们与上帝的关系影响 **它们**，而不是上帝。理查德·克里尔似乎正是提出了这一点。但即使上帝之外的存在者的存在依赖于上帝，以下这一点仍然成立：如果上帝创造了一个与现在存在的世界不同的世界，那么上帝就与上帝现在的样子有所不同：上帝的知识将是关于 **那个** 世界的，而不是关于这个世界的，根据阿尔斯顿和哈茨霍恩两人。
+    step2: |-
+      有人可能就这一点回应阿尔斯顿和哈茨霍恩说：既然被造物的存在依赖于上帝，它们与上帝的关系影响 **它们**，而不是上帝。理查德·克里尔似乎正是提出了这一点。但即使上帝之外的存在者的存在依赖于上帝，以下这一点仍然成立：如果上帝创造了一个与现在存在的世界不同的世界，那么上帝就会与上帝现在的样子有所不同：上帝的知识将是关于 **那个** 世界的，而不是关于这个世界的，根据阿尔斯顿和哈茨霍恩两人。
+  - id: 57
+    source: |-
+      Alston’s concessions to Hartshorne’s concept of God extend to contrasts 2–4. The above argument for the internal relatedness of God (as cognitive subject) to the world presupposes that there are alternative possibilities for God, and if there are alternative possibilities for divine knowledge then this implies that there are unrealized potentialities for God. *Pure* actuality and *total* necessity cannot be defended as divine attributes, according to Alston and Hartshorne. Alston’s version of Hartshorne’s argument goes as follows:
+    step1: |-
+      阿尔斯顿对哈茨霍恩上帝概念的让步延伸到对照 2–4。上述关于上帝（作为认知主体）与世界之内在关联的论证预设了上帝有替代的可能性；如果神圣知识有替代的可能性，那么这就意味着上帝有未现实化的潜在性。根据阿尔斯顿和哈茨霍恩，**纯粹** 现实性和 **完全** 必然性不能作为神圣属性来辩护。阿尔斯顿版本的哈茨霍恩论证如下：
+    step2: |-
+      阿尔斯顿对哈茨霍恩上帝概念的让步延伸到对照 2–4。上述关于上帝（作为认知主体）与世界之内在关联的论证，预设了上帝有替代的可能性；如果神圣知识有替代的可能性，那么这就意味着上帝有未现实化的潜在性。根据阿尔斯顿和哈茨霍恩，**纯粹** 现实性和 **完全** 必然性不能作为神圣属性来辩护。阿尔斯顿版本的哈茨霍恩论证如下：
+  - id: 58
+    source: |-
+      > (1) (a) “God knows that W exists” entails (b) “W exists.”
+      >
+      > (2) If (a) were necessary, (b) would be necessary.
+      >
+      > (3) But (b) is contingent.
+      >
+      > (4) Hence (a) is contingent.
+    step1: |-
+      > (1) (a) “上帝知道 W 存在” 蕴涵 (b) “W 存在。”
+      >
+      > (2) 如果 (a) 是必然的，(b) 就是必然的。
+      >
+      > (3) 但 (b) 是偶然的。
+      >
+      > (4) 因此 (a) 是偶然的。
+    step2: |-
+      > (1) (a) “上帝知道 W 存在” 蕴涵 (b) “W 存在。”
+      >
+      > (2) 如果 (a) 是必然的，(b) 就是必然的。
+      >
+      > (3) 但 (b) 是偶然的。
+      >
+      > (4) 因此 (a) 是偶然的。
+  - id: 59
+    source: |-
+      We can totally exclude contingency from God only by denying God any knowledge of anything contingent, a step that not even traditional or classical theists wish to take. Contrast 4 must also be treated in a dipolar way in that the main support for a doctrine of pure divine simplicity is the absence of any unrealized potentialities in God.
+    step1: |-
+      我们只有通过否认上帝对任何偶然之物的任何知识，才能完全排除上帝的偶然性，这一步连传统或古典有神论者也不愿走。对照 4 也必须以双极的方式处理，因为纯粹神圣单纯性教义的主要支持在于上帝之中没有任何未现实化的潜在性。
+    step2: |-
+      我们只有通过否认上帝对任何偶然之物的任何知识，才能完全排除上帝的偶然性，这一步连传统或古典有神论者也不愿走。对照 4 也必须以双极的方式处理，因为纯粹神圣单纯性教义的主要支持，在于上帝之中没有任何未现实化的潜在性。
+  - id: 60
+    source: |-
+      In sum, Alston and Hartshorne agree on contrasts 1–4, except for the fact that Hartshorne’s concept of divine inclusiveness, in contrast to Alston’s, is organic in character.
+    step1: |-
+      总之，阿尔斯顿和哈茨霍恩在对照 1–4 上意见一致，除了这一事实：哈茨霍恩的神圣包容性概念，与阿尔斯顿的相比，在性格上是有机的。
+    step2: |-
+      总之，阿尔斯顿和哈茨霍恩在对照 1–4 上意见一致，除了这一事实：哈茨霍恩的神圣包容性概念，与阿尔斯顿的相比，在性格上是有机的。
+  - id: 61
+    source: |-
+      Regarding a second group of attributes, however, Alston and many other theists who are analytic philosophers diverge from Hartshorne rather significantly:
+    step1: |-
+      然而，关于第二组属性，阿尔斯顿和许多作为分析哲学家的其他有神论者与哈茨霍恩有相当大的分歧：
+    step2: |-
+      然而，关于第二组属性，阿尔斯顿和许多作为分析哲学家的其他有神论者，与哈茨霍恩有相当大的分歧：
+  - id: 62
+    source: |-
+      | CLASSICAL ATTRIBUTES | NEOCLASSICAL ATTRIBUTES |
+      | --- | --- |
+      | 5. creation *ex nihilo* by a free act of will; God could have refrained from creating anything | 5. both God and the world of creatures exist necessarily, although the details are contingent |
+      | 6. omnipotence (God has the power to do anything God wills to do that is logically consistent) | 6. God has all the power one agent could have given metaphysical, in addition to logical, limitations |
+      | 7. incorporeality | 7. corporeality (the world is the body of God) |
+      | 8. nontemporality (God does not live through a series of moments) | 8. temporality (God lives through temporal succession, but everlastingly) |
+      | 9. immutability (God cannot change because God is not temporally successive) | 9. mutability (God is continually attaining richer syntheses of experience) |
+      | 10. absolute perfection (God is eternally that than which no more perfect can be conceived) | 10. relative perfection (at any moment God is more perfect than any other, but God is self-surpassing at a later stage of development) |
+    step1: |-
+      | 古典属性 | 新古典属性 |
+      | :---: | :---: |
+      | 5. 凭自由意志行为从 **无** 中创造；上帝本可以不创造任何东西 | 5. 上帝与被造物世界都必然存在，尽管细节是偶然的 |
+      | 6. 全能（上帝有能力做上帝意愿做的一切逻辑上一致之事） | 6. 上帝拥有一个行为者在形而上学（此外还有逻辑的）限制下所能拥有的全部力量 |
+      | 7. 无形体性 | 7. 有形体性（世界是上帝的身体） |
+      | 8. 非时间性（上帝不经历一系列瞬间） | 8. 时间性（上帝经历时间上的承续，但永续地） |
+      | 9. 不变性（上帝不能变化，因为上帝不是时间上承续的） | 9. 可变性（上帝不断获得更丰富的经验综合） |
+      | 10. 绝对完善（上帝永恒地是可设想的、无比更完善者） | 10. 相对完善（在任何瞬间上帝都比任何其他更完善，但上帝在发展的较晚阶段自我超越） |
+    step2: |-
+      | 古典属性 | 新古典属性 |
+      | :---: | :---: |
+      | 5. 凭自由意志行为从 **无** 中创造；上帝本可以不创造任何东西 | 5. 上帝与被造物世界都必然存在，尽管细节是偶然的 |
+      | 6. 全能（上帝有能力做上帝意愿做的一切逻辑上一致之事） | 6. 上帝拥有一个行为者在形而上学（此外还有逻辑的）限制下所能拥有的全部力量 |
+      | 7. 无形体性 | 7. 有形体性（世界是上帝的身体） |
+      | 8. 非时间性（上帝不经历一系列瞬间） | 8. 时间性（上帝经历时间上的承续，但永续地） |
+      | 9. 不变性（上帝不能变化，因为上帝不是时间上承续的） | 9. 可变性（上帝不断获得更丰富的经验综合） |
+      | 10. 绝对完善（上帝永恒地是可设想的、无比更完善者） | 10. 相对完善（在任何瞬间上帝都比任何其他更完善，但上帝在发展的较晚阶段自我超越） |
+  - id: 63
+    source: |-
+      Concerning contrast 5, Alston takes creation *ex nihilo* to be fundamental to theism because it has deep roots in religious experience. He thinks that to say that God has unrealized potentialities and contingent properties is not to say that God *must* be in relation with some world of entities other than God. Alston admits that Hartshorne legitimately points out some of the internal contradictions contained in the classical theistic version of creation *ex nihilo*, but he claims that there is no connection drawn by Hartshorne between divine creation and metaphysical principles regarding relativity, contingency, and potentiality. Alston’s belief seems to be that those who accept creation *ex nihilo* are not saying that there is absolutely nothing at any stage: there is God. Rather, creation *ex nihilo* only means that there is nothing out of which God creates the universe. Here Alston seems to agree with Norman Kretzmann, Eleonore Stump, and most other theists who are analytic philosophers.
+    step1: |-
+      关于对照 5，阿尔斯顿把从 **无** 中创造视为有神论的基础，因为它深深植根于宗教经验。他认为，说上帝有未现实化的潜在性和偶然属性，并不是说上帝 **必须** 与某个上帝之外的实体世界有关系。阿尔斯顿承认，哈茨霍恩合理地指出了古典有神论版本从 **无** 中创造所包含的一些内在矛盾，但他声称，哈茨霍恩没有在神圣创造与关于相对性、偶然性和潜在性的形而上学原则之间建立联系。阿尔斯顿的信念似乎是：那些接受从 **无** 中创造的人并不是说在任何阶段都绝对空无：有上帝。相反，从 **无** 中创造只是意味着，上帝创造宇宙所凭借的东西之中空无。在这里，阿尔斯顿似乎同意诺曼·克雷茨曼、埃莉奥诺尔·斯顿普，以及大多数作为分析哲学家的其他有神论者。
+    step2: |-
+      关于对照 5，阿尔斯顿把从 **无** 中创造视为有神论的基础，因为它深深植根于宗教经验。他认为，说上帝有未现实化的潜在性和偶然属性，并不是说上帝 **必须** 与某个上帝之外的实体世界有关系。阿尔斯顿承认，哈茨霍恩合理地指出了古典有神论版本从 **无** 中创造所包含的一些内在矛盾，但他声称，哈茨霍恩没有在神圣创造与关于相对性、偶然性和潜在性的形而上学原则之间建立联系。阿尔斯顿的信念似乎是：那些接受从 **无** 中创造的人并不是说在任何阶段都绝对空无——有上帝。相反，从 **无** 中创造只是意味着，上帝创造宇宙所凭借的东西之中空无。在这里，阿尔斯顿似乎同意诺曼·克雷茨曼、埃莉奥诺尔·斯顿普，以及大多数作为分析哲学家的其他有神论者。
+  - id: 64
+    source: |-
+      Alston’s stance here is problematic for two reasons, from Hartshorne’s point of view. First, although belief in *some* sort of divine creativity has deep roots in the history of religious experience, it is not clear that these roots have to tap into creation *ex nihilo*. For example, it is not clear that creation *ex nihilo* is the sort of creation described in Genesis, in that when the Bible starts with the statement that the spirit of God hovered above the waters, one gets the impression that both God and the aqueous muck had been around forever. If one believes in creation *ex nihilo*, however, as Alston does, one might nonetheless claim that creation *ex nihilo* does not necessarily mean a temporal beginning to the act of creation. But even on this hypothesis there are problems, and this would seem to be Hartshorne’s second point. If Plato and Hartshorne are correct that being *is* dynamic power, then the sort of unlimited power implied by creation *ex nihilo* is impossible. Hartshorne would argue, contra Alston, that there is a connection between belief in creation *ex hyle* (as opposed to creation *ex nihilo*) and the metaphysical principle that being is dynamic power. Creation *ex nihilo*, Hartshorne thinks, is a convenient fiction invented in the first centuries B.C.E. and C.E. in order to exalt divine power, but it is not the only sort of creation that religious believers have defended, nor is it defensible if being is dynamic power (see Boyce Gibson 1964)[^boyce-1964].
+    step1: |-
+      从哈茨霍恩的观点看，阿尔斯顿这里的立场有两个问题。第一，尽管相信 **某种** 神圣创造性深深植根于宗教经验史，但尚不清楚这些根必须触及从 **无** 中创造。例如，尚不清楚从 **无** 中创造是《创世记》所描述的那种创造，因为当《圣经》以“上帝的灵运行在水面上”这一陈述开始时，人们得到的印象是：上帝和那含水的淤泥都已存在了永远。然而，如果一个人像阿尔斯顿那样相信从 **无** 中创造，他仍可能声称从 **无** 中创造并不必然意味着创造行为在时间上的开端。但即使在这一假设下也有问题，而这似乎是哈茨霍恩的第二点。如果柏拉图和哈茨霍恩正确——存在 **是** 动态力量——那么从 **无** 中创造所隐含的那种无限力量就是不可能的。哈茨霍恩会与阿尔斯顿相反地论证：相信从 **质** 中创造（与从 **无** 中创造相对）与存在是动态力量这一形而上学原则之间有联系。哈茨霍恩认为，从 **无** 中创造是公元前和公元最初几个世纪为了抬高神圣力量而发明的一种方便的虚构，但它不是宗教信徒所辩护的唯一一种创造，而且如果存在是动态力量，它也不可辩护（见 Boyce Gibson 1964）[^boyce-1964]。
+    step2: |-
+      从哈茨霍恩的观点看，阿尔斯顿这里的立场有两个问题。第一，尽管相信 **某种** 神圣创造性深深植根于宗教经验史，但尚不清楚这些根是否必须触及从 **无** 中创造。例如，尚不清楚从 **无** 中创造是《创世记》所描述的那种创造，因为当《圣经》以“上帝的灵运行在水面上”这一陈述开头时，人们得到的印象是：上帝和那含水的淤泥都已存在了永远。然而，如果一个人像阿尔斯顿那样相信从 **无** 中创造，他仍可能声称从 **无** 中创造并不必然意味着创造行为在时间上的开端。但即使在这一假设下也有问题，而这似乎是哈茨霍恩的第二点。如果柏拉图和哈茨霍恩正确——存在 **是** 动态力量——那么从 **无** 中创造所隐含的那种无限力量就是不可能的。哈茨霍恩会与阿尔斯顿相反地论证：相信从 **质** 中创造（与从 **无** 中创造相对）与存在是动态力量这一形而上学原则之间有联系。哈茨霍恩认为，从 **无** 中创造是公元前和公元最初几个世纪为了抬高神圣力量而发明的一种方便的虚构，但它不是宗教信徒所辩护的唯一一种创造，而且如果存在是动态力量，它也不可辩护（见 Boyce Gibson 1964）[^boyce-1964]。
+  - id: 65
+    source: |-
+      Concerning contrast 6, Alston claims that belief in creation *ex nihilo* and belief in divine omnipotence are separate beliefs such that to argue against the former is not necessarily to argue against the latter. Hartshorne tries to do too much, he thinks, with the claim that being is power when he uses this claim to argue against divine omnipotence. According to Alston, God can have *unlimited* power, power to do anything that God wills to do, without having *all* power in that, if being is power, the creatures also have some power.
+    step1: |-
+      关于对照 6，阿尔斯顿声称，相信从 **无** 中创造与相信神圣全能是两种不同的信念，因此反对前者并不必然是反对后者。他认为，哈茨霍恩在用“存在是力量”这一主张反对神圣全能时，试图做得太多。根据阿尔斯顿，上帝可以有 **无限的** 力量——做上帝意愿做的任何事的力量——而不必有 **全部** 力量，因为如果存在是力量，被造物也有一些力量。
+    step2: |-
+      关于对照 6，阿尔斯顿声称，相信从 **无** 中创造与相信神圣全能是两种不同的信念，因此反对前者并不必然反对后者。他认为，哈茨霍恩在用“存在是力量”这一主张反对神圣全能时，试图做得太多。根据阿尔斯顿，上帝可以有 **无限的** 力量——做上帝意愿做的任何事的力量——而不必有 **全部** 力量，因为如果存在是力量，被造物也有一些力量。
+  - id: 66
+    source: |-
+      On Hartshorne’s interpretation of Alston, however, God can have ideal power, but not all power, because in addition to divine power there are the existences of others with powers of their own. Although God does not have all power, Hartshorne thinks that on Alston’s view God *could* have all power. In effect, what Alston has done, according to Hartshorne, is reduce his stance regarding divine omnipotence to that regarding creation *ex nihilo* in that the claim that God could have all power is due to the prior belief that God brings everything into existence out of absolutely nothing, a belief that Alston thinks has to be the traditional one and in point of fact is intelligible. It is not quite clear to Hartshorne, however, that it is unquestionably the traditional one, nor is it clear to him that we can develop an intelligible concept of “absolutely nothing.”
+    step1: |-
+      然而，在哈茨霍恩对阿尔斯顿的解释中，上帝可以有理想的力量，但不能有全部力量，因为除了神圣力量之外，还有拥有自己力量的其它存在者的存在。尽管上帝没有全部力量，哈茨霍恩认为在阿尔斯顿的观点中上帝 **可以** 有全部力量。实际上，根据哈茨霍恩，阿尔斯顿所做的是把他关于神圣全能的立场还原为关于从 **无** 中创造的立场，因为“上帝可以有全部力量”这一主张是由于先前的信念——上帝从绝对空无中使一切进入存在——阿尔斯顿认为这一信念必须是传统的，并且事实上是可理解的。然而，在哈茨霍恩看来，它无疑是否是传统的并不很清楚，我们能否发展出一个可理解的“绝对空无”概念也不清楚。
+    step2: |-
+      然而，在哈茨霍恩对阿尔斯顿的解释中，上帝可以有理想的力量，但不能有全部力量，因为除了神圣力量之外，还有拥有自己力量的其它存在者的存在。尽管上帝没有全部力量，哈茨霍恩认为在阿尔斯顿的观点中上帝 **可以** 有全部力量。实际上，根据哈茨霍恩，阿尔斯顿所做的是把他关于神圣全能的立场还原为关于从 **无** 中创造的立场，因为“上帝可以有全部力量”这一主张，是由于先前的信念——上帝从绝对空无中使一切进入存在——而阿尔斯顿认为这一信念必须是传统的，并且事实上是可理解的。然而，在哈茨霍恩看来，它无疑是否传统的并不很清楚，我们能否发展出一个可理解的“绝对空无”概念也不清楚。
+  - id: 67
+    source: |-
+      Hartshorne’s Platonic or Bergsonian argument against creation *ex nihilo*, in simplified form, looks something like this: one can in fact imagine the nonexistence of this or that, or even of this or that class of things, a fact that gives some the confidence to (erroneously) think that this process can go on infinitely such that one could imagine a state in which there was “absolutely nothing.” However, not every verbally possible statement is made conceptually cogent by even the most generous notion of “conceptual,” according to Hartshorne. At the specific, ordinary, empirical level negative instances are possible (e.g., this corkscrew is not a dog), but at the generic, metaphysical level only positive instances are possible (e.g., something must exist), on this view. The sheer absence of reality cannot conceivably be experienced, he thinks, for if it were experienced an existing experiencer would be presupposed.
+    step1: |-
+      哈茨霍恩反对从 **无** 中创造的柏拉图式的或柏格森式的论证，简化形式大致如下：一个人事实上能想象这个或那个的不存在，甚至这一类或那一类事物的不存在，这一事实使一些人（错误地）相信这个过程可以无限地进行下去，以至于一个人能想象一个“绝对空无”的状态。然而，根据哈茨霍恩，并非每一个语词上可能的陈述，都能被甚至最宽厚的“概念的”概念使之在概念上融贯。在这种观点中，在特定的、日常的、经验的层面上，否定实例是可能的（例如，这个开塞钻不是一只狗），但在类属的、形而上学的层面上，只有肯定实例是可能的（例如，某物必须存在）。他认为，实在的纯粹缺席不能被设想地经验，因为如果它被经验，就会预设一个存在的经验者。
+    step2: |-
+      哈茨霍恩反对从 **无** 中创造的柏拉图式或柏格森式论证，简化形式大致如下：一个人事实上能想象这个或那个的不存在，甚至这一类或那一类事物的不存在，这一事实使一些人（错误地）相信这个过程可以无限地进行下去，以至于一个人能想象一个“绝对空无”的状态。然而，根据哈茨霍恩，并非每一个语词上可能的陈述，都能被甚至最宽厚的“概念的”概念使之在概念上融贯。在这种观点中，在特定的、日常的、经验的层面上，否定实例是可能的（例如，这个开塞钻不是一只狗），但在类属的、形而上学的层面上，只有肯定实例是可能的（例如，某物必须存在）。他认为，实在的纯粹缺席不能被设想地经验，因为如果它被经验，就会预设一个存在的经验者。
+  - id: 68
+    source: |-
+      Contrast 7 deals with divine embodiment. Alston is willing to grant that God is embodied in two senses: (1) God is aware, with maximal immediacy, of what goes on in the world; and (2) God can directly affect what happens in the world. That is, Alston defends a limited version of divine embodiment, similar to that defended by Richard Swinburne. However, Alston is sceptical regarding a stronger version of divine embodiment wherein the world exists by metaphysical necessity such that God *must* animate it. Alston is willing to accept the idea that God has a body, but *only if* having such a body is on God’s terms. It seems that this weaker version of divine embodiment defended by Alston, as opposed to Hartshorne’s stronger version wherein there is essential corporeality in God, stands or falls with the defense of creation *ex nihilo*. In fact, despite Alston’s desire to examine each contrast individually, as opposed to Hartshorne’s stark contrast between classical theistic attributes (all ten of them) and neoclassical attributes (all ten of them), he ends up linking his criticisms of Hartshorne regarding contrasts 5–7, at the very least. All three of these classical theistic attributes stand together only with a defensible version of creation *ex nihilo*.
+    step1: |-
+      对照 7 处理神圣具身。阿尔斯顿愿意承认上帝在两种意义上是具身的：（1）上帝以最大的直接性意识到世界中发生的事情；以及（2）上帝能直接影响世界中发生的事情。也就是说，阿尔斯顿为神圣具身的一个有限版本辩护，类似于理查德·斯温伯恩所辩护的版本。然而，阿尔斯顿对一种更强的神圣具身版本持怀疑态度，在这种版本中，世界凭借形而上学必然性而存在，以至于上帝 **必须** 使其具有生命。阿尔斯顿愿意接受上帝有身体这一观念，但 **只有当** 拥有这样一个身体是以上帝的条件为准时。阿尔斯顿所辩护的这一较弱的具身版本——与哈茨霍恩的较强版本（其中有上帝的本质有形体性）相对——似乎与从 **无** 中创造的辩护共存亡。事实上，尽管阿尔斯顿渴望逐一考察每个对照，与哈茨霍恩在古典有神论属性（全部十个）与新古典属性（全部十个）之间的鲜明对照相对，他最终还是把他对哈茨霍恩在对照 5–7 上的批评联系起来，至少如此。这三个古典有神论属性，只有与一个可辩护版本的从 **无** 中创造一起，才站得住。
+    step2: |-
+      对照 7 处理神圣具身。阿尔斯顿愿意承认上帝在两种意义上是具身的：（1）上帝以最大的直接性意识到世界中发生的事情；以及（2）上帝能直接影响世界中发生的事情。也就是说，阿尔斯顿为神圣具身的一个有限版本辩护，类似于理查德·斯温伯恩所辩护的版本。然而，阿尔斯顿对一种更强的神圣具身版本持怀疑态度，在这种版本中，世界凭借形而上学必然性而存在，以至于上帝 **必须** 使其具有生命。阿尔斯顿愿意接受上帝有身体这一观念，但 **只有当** 拥有这样一个身体是以上帝的条件为准时。阿尔斯顿所辩护的这一较弱的具身版本——与哈茨霍恩的较强版本（其中有上帝的本质有形体性）相对——似乎与从 **无** 中创造的辩护共存亡。事实上，尽管阿尔斯顿渴望逐一考察每个对照，与哈茨霍恩在古典有神论属性（全部十个）与新古典属性（全部十个）之间的鲜明对照相对，他最终还是把他对哈茨霍恩在对照 5–7 上的批评联系起来，至少如此。这三个古典有神论属性，只有与一个可辩护版本的从 **无** 中创造一起，才站得住。
+  - id: 69
+    source: |-
+      Contrasts 8–9, concerning nontemporality and immutability, are also linked by Alston. He concedes that if God is temporal, Hartshorne has offered us the best version to date of what divine temporality and divine mutability would be like. Alston dismisses as idle the view that God could remain completely unchanged through a succession of temporal moments, but this admission still leaves us, he thinks, with the following conditional statement: “God undergoes change *if* God is in time.” Alston’s critique of Hartshorne’s view also consists in a refusal to grant that contingency and temporality are coextensive in the way mutability and temporality are. Alston believes, contra Hartshorne, that God can be in some way contingent (that any relation in which God stands to the world might have been otherwise) and still be nontemporal.
+    step1: |-
+      关于非时间性和不变性的对照 8–9，阿尔斯顿也把它们联系起来。他承认，如果上帝是时间性的，哈茨霍恩就为我们提供了迄今为止最好的版本，说明神圣时间性和神圣可变性会是什么样子。阿尔斯顿把上帝能通过一系列时间瞬间保持完全不变的观点斥为空洞，但他认为这一承认仍给我们留下了如下的条件陈述：“上帝经历变化 **如果** 上帝在时间之中。”阿尔斯顿对哈茨霍恩观点的批评也在于拒绝承认：偶然性与时间性共延，正如可变性与时间性共延那样。阿尔斯顿与哈茨霍恩相反地相信，上帝能以某种方式偶然（上帝与世界所站的任何关系本来可能不是这样），并且仍然是非时间性的。
+    step2: |-
+      关于非时间性与不变性的对照 8–9，阿尔斯顿也把它们联系起来。他承认，如果上帝是时间性的，哈茨霍恩就为我们提供了迄今为止最好的版本，说明神圣时间性与神圣可变性会是什么样子。阿尔斯顿把上帝能通过一系列时间瞬间保持完全不变的观点斥为空洞，但他认为这一承认仍给我们留下了如下的条件陈述：“上帝经历变化 **如果** 上帝在时间之中。”阿尔斯顿对哈茨霍恩观点的批评也在于拒绝承认：偶然性与时间性共延，正如可变性与时间性共延那样。阿尔斯顿与哈茨霍恩相反地相信，上帝能以某种方式偶然（上帝与世界所站的任何关系本来可能不是这样），并且仍然是非时间性的。
+  - id: 70
+    source: |-
+      Alston knows that the notion of a nontemporal God who is nonetheless qualified by relation to temporal beings will strike Hartshorne as unintelligible. Alston’s attempt to make his position intelligible rests on his own Thomistic-Whiteheadian stance, or better, on his Thomistic or Boethian interpretation of Whitehead (strange as this seems); Alston is also influenced here by Eleanore Stump and Norman Kretzmann. We should not think of God as involved in process or becoming of any sort. The best temporal analogy, he thinks, for this conception is an unextended instant or an “eternal now.” For Alston this does not commit one, however, as Hartshorne would allege, to a static deity frozen in immobility. On the contrary, according to Alston, God is eternally active in ways that do not require temporal succession. God’s acts can be complete in an instant. Alston includes God’s acts of knowledge, a stance that at least seems to conflict with one of the concessions he made to Hartshorne regarding the first group of attributes (see Neville 1991)[^neville-1991].
+    step1: |-
+      阿尔斯顿知道，一个非时间性的、却被与时间性存在者的关系所限定的上帝的观念，会被哈茨霍恩视为不可理解。阿尔斯顿使其立场可理解的尝试，依赖于他自己的托马斯—怀特海式的立场，或者更恰当地说，依赖于他对怀特海的托马斯式或波爱修斯式的解释（尽管这看起来很奇怪）；阿尔斯顿在这里也受埃莉奥诺尔·斯顿普和诺曼·克雷茨曼影响。我们不应把上帝视为参与任何种类的过程或生成。他认为，对这种概念而言，最好的时间类比是未延展的瞬间或“永恒的现在”。然而，对阿尔斯顿来说，这并不使一个人——如哈茨霍恩会指控的那样——承诺一个冻结在不动中的静态神祇。相反，根据阿尔斯顿，上帝在不需要时间承续的方式中永恒地活动。上帝的行为可以在一个瞬间完成。阿尔斯顿把上帝的知识行为也包括在内，这一立场至少似乎与他关于第一组属性向哈茨霍恩所作的让步之一相冲突（见 Neville 1991）[^neville-1991]。
+    step2: |-
+      阿尔斯顿知道，一个非时间性的、却被与时间性存在者的关系所限定的上帝的观念，会被哈茨霍恩视为不可理解。阿尔斯顿使其立场可理解的尝试，依赖于他自己的托马斯—怀特海式的立场，或者更恰当地说，依赖于他对怀特海的托马斯式或波爱修斯式的解释（尽管这看起来很奇怪）；阿尔斯顿在这里也受埃莉奥诺尔·斯顿普和诺曼·克雷茨曼影响。我们不应把上帝视为参与任何种类的过程或生成。他认为，对这种概念而言，最好的时间类比是未延展的瞬间或“永恒的现在”。然而，对阿尔斯顿来说，这并不使一个人——如哈茨霍恩会指控的那样——承诺一个冻结在不动中的静态神祇。相反，根据阿尔斯顿，上帝在不需要时间承续的方式中永恒地活动。上帝的行为可以在一个瞬间完成。阿尔斯顿把上帝的知识行为也包括在内，这一立场至少似乎与他关于第一组属性向哈茨霍恩所作的让步之一相冲突（见 Neville 1991）[^neville-1991]。
+  - id: 71
+    source: |-
+      The Boethian-Thomistic notion of the specious present for God, on the analogue of a human being’s perceiving some temporally extended stretch of a process in one temporally indivisible act, is also defended by Alston. For example, one can perceive the flight of a bee “all at once” without first perceiving the first half of the stretch of flight and then perceiving the second. One’s perception can be without temporal succession even if the object of one’s perception is, in fact, temporally successive (see Gale 2003)[^gale-2003]. All we have to do, on Alston’s view, is expand our specious present to cover all of time and we have a model for God’s awareness of the world. This is a much more difficult project for Hartshorne to imagine than it is for Alston. Apparently Alston thinks that it is easy to conceptualize God “seeing” Neanderthal man (or Adam), Moses, Jesus, and Dorothy Day all at once in their immediacy. Here Alston has a view similar to that of William Mann.
+    step1: |-
+      阿尔斯顿也辩护了波爱修斯—托马斯式的、关于上帝之可感当下的观念，其类比是：一个人在时间上不可分割的一次行动中知觉某个时间上延展的过程片段。例如，一个人可以“一下子”知觉到一只蜜蜂的飞行，而不必先知觉飞行片段的前半、再知觉后半。一个人的知觉可以没有时间承续，即使知觉的对象事实上是时间上承续的（见 Gale 2003）[^gale-2003]。在阿尔斯顿看来，我们所要做的只是把我们可感的当下扩展以覆盖全部时间，这样我们就有了上帝对世界之觉知的模型。这对哈茨霍恩来说，是比阿尔斯顿更难设想的计划。显然，阿尔斯顿认为，概念化上帝“看到”尼安德特人（或亚当）、摩西、耶稣和多萝西·戴都在其直接性中同时呈现，是容易的。在这里，阿尔斯顿有与威廉·曼恩相似的观点。
+    step2: |-
+      阿尔斯顿也辩护了波爱修斯—托马斯式的、关于上帝之可感当下的观念，其类比是：一个人在时间上不可分割的一次行动中知觉某个时间上延展的过程片段。例如，一个人可以“一下子”知觉到一只蜜蜂的飞行，而不必先知觉飞行片段的前半、再知觉后半。一个人的知觉可以没有时间承续，即使知觉的对象事实上是时间上承续的（见 Gale 2003）[^gale-2003]。在阿尔斯顿看来，我们所要做的只是把我们可感的当下扩展以覆盖全部时间，这样我们就有了上帝对世界之觉知的模型。这对哈茨霍恩来说，是比阿尔斯顿更难设想的计划。显然，阿尔斯顿认为，概念化上帝“看到”尼安德特人（或亚当）、摩西、耶稣和多萝西·戴都在其直接性中同时呈现，是容易的。在这里，阿尔斯顿有与威廉·曼恩相似的观点。
+  - id: 72
+    source: |-
+      But even if it were possible to have nonsuccessive *awareness* of a vast succession, which Hartshorne would deny, it is even more implausible, from Hartshorne’s point of view, to claim, as does Alston, that God could have nonsuccessive *responses* to stages of that succession. It might make more sense for Alston to say “indesponses” or “presponses” rather than “responses,” as Creel would urge.
+    step1: |-
+      但即使对巨大承续的非承续 **觉知** 是可能的——哈茨霍恩会否认这一点——从哈茨霍恩的观点看，像阿尔斯顿那样声称上帝能对该承续的各阶段有非承续的 **回应**，就更不可信了。对阿尔斯顿来说，说“内回应”或“前回应”而不是“回应”可能更有意义，正如克里尔会敦促的那样。
+    step2: |-
+      但即使对巨大承续的非承续 **觉知** 是可能的——哈茨霍恩会否认这一点——从哈茨霍恩的观点看，像阿尔斯顿那样声称上帝能对该承续的各阶段有非承续的 **回应**，就更不可信了。对阿尔斯顿来说，说“内回应”或“前回应”而不是“回应”，可能更有意义，正如克里尔会敦促的那样。
+  - id: 73
+    source: |-
+      It is correct of Alston to notice that there is no loss in God, but this is not incompatible with God’s temporality, according to Hartshorne. There can be succession in God without there being loss or perishing due to the fact that God’s inheritance of what happens in the world and God’s memory are ideal. Hartshorne thinks that the future is incomplete and indeterminate for God as well as from our limited perspective. Alston, by way of contrast, wants to defend a God who is not strictly necessary in actuality, but is contingent, *despite the fact that* God does not undergo temporal change, nor is God fluent. Hartshorne’s defenders, by way of contrast, think that one of the greatest virtues of process thinking is its effort to eliminate what they see as such self-contradiction in philosophical theology.
+    step1: |-
+      阿尔斯顿注意到上帝之中没有损失，这是正确的，但根据哈茨霍恩，这与上帝的暂时性并不矛盾。上帝之中可以有承续而没有损失或消亡，因为上帝对世界中发生的事情的继承和上帝的记忆是理想的。哈茨霍恩认为，未来对上帝以及从我们有限的观点来看都是不完整和不确定的。相比之下，阿尔斯顿想要辩护一个在现实性上并非严格必然、而是偶然的上帝，**尽管** 上帝不经历时间变化，也不流动。相比之下，哈茨霍恩的辩护者认为，过程思想最伟大的德性之一，是它努力消除他们所视为哲学神学中这种自我矛盾的东西。
+    step2: |-
+      阿尔斯顿注意到上帝之中没有损失，这是正确的，但根据哈茨霍恩，这与上帝的暂时性并不矛盾。上帝之中可以有承续而没有损失或消亡，因为上帝对世界中发生的事情的继承和上帝的记忆是理想的。哈茨霍恩认为，未来对上帝以及从我们有限的观点来看，都是不完整和不确定的。相比之下，阿尔斯顿想要辩护一个在现实性上并非严格必然、而是偶然的上帝，**尽管** 上帝不经历时间变化，也不流动。相比之下，哈茨霍恩的辩护者认为，过程思想最伟大的德性之一，是它努力消除他们所视为哲学神学中这种自我矛盾的东西。
+  - id: 74
+    source: |-
+      Alston’s treatment of contrast 10, concerning absolute versus relative perfection, follows from what he has said regarding contrasts 8–9. Relative perfection in God, as opposed to absolute perfection, has a point only for a temporal being; hence God is absolutely perfect, according to Alston. A being that does not successively assume different states could not possibly surpass itself. Here, once again, Alston engages in linkage, thereby, at the very least, confirming Hartshorne’s belief that we need both to consider the divine attributes together and to determine whether the classical theist’s linkage or the neoclassical theist’s linkage is more defensible. For the most part, Alston opts for classical theism. Or more precisely, he thinks that the strongest concept of God is acquired when we take a modified version of the neoclassical attributes in contrasts 1–4 and combine them with the classical attributes in contrasts 5–10.
+    step1: |-
+      阿尔斯顿对对照 10（关于绝对完善与相对完善）的处理，遵循了他就对照 8–9 所说的。上帝中的相对完善，与绝对完善相对，只有对一个时间性存在者才有意义；因此，根据阿尔斯顿，上帝是绝对完善的。一个不依次呈现不同状态的存在者不可能超越自身。在这里，阿尔斯顿再次进行了关联，从而至少证实了哈茨霍恩的信念：我们既需要把神圣属性放在一起考虑，也需要确定古典有神论者的关联还是新古典有神论者的关联更可辩护。在很大程度上，阿尔斯顿选择古典有神论。或者更确切地说，他认为，当我们把对照 1–4 中的新古典属性的修改版本，与对照 5–10 中的古典属性结合起来时，就获得了最强的上帝概念。
+    step2: |-
+      阿尔斯顿对对照 10（关于绝对完善与相对完善）的处理，遵循了他就对照 8–9 所说的。上帝中的相对完善，与绝对完善相对，只有对一个时间性存在者才有意义；因此，根据阿尔斯顿，上帝是绝对完善的。一个不依次呈现不同状态的存在者不可能超越自身。在这里，阿尔斯顿再次进行了关联，从而至少证实了哈茨霍恩的信念：我们既需要把神圣属性放在一起考虑，也需要确定古典有神论者的关联还是新古典有神论者的关联更可辩护。在很大程度上，阿尔斯顿选择古典有神论。或者更确切地说，他认为，当我们把对照 1–4 中的新古典属性的修改版本，与对照 5–10 中的古典属性结合起来时，就获得了最强的上帝概念。
+  - id: 75
+    source: |-
+      This rapproachement in Alston between classical theism and neoclassical theism is a step beyond James Ross’s belief that these are two competing descriptions of God at an impasse. Hartshorne partially agrees with Ross. Neoclassical, dipolar theism *already* includes the best insights of classical theism, he thinks. For this and other reasons, Hartshorne thinks that there are rich possibilities for progress in philosophy in the future made available through neoclassical theism (see Rescher 2003; and Shields 2009)[^rescher-2003][^shields-2009].
+    step1: |-
+      阿尔斯顿身上古典有神论与新古典有神论之间的这一和解，超越了詹姆斯·罗斯的信念——这两者是对上帝的两种相互竞争的描述，处于僵局。哈茨霍恩部分同意罗斯。他认为，新古典的、双极的有神论 **已经** 包含了古典有神论的最佳洞见。出于这个及其它原因，哈茨霍恩认为，通过新古典有神论，未来哲学进步有丰富的可能性（见 Rescher 2003；以及 Shields 2009）[^rescher-2003][^shields-2009]。
+    step2: |-
+      阿尔斯顿身上古典有神论与新古典有神论之间的这一和解，超越了詹姆斯·罗斯的信念——这两者是对上帝的两种相互竞争的描述，处于僵局。哈茨霍恩部分同意罗斯。他认为，新古典的、双极的有神论 **已经** 包含了古典有神论的最佳洞见。出于这个及其它原因，哈茨霍恩认为，通过新古典有神论，未来哲学进步有丰富的可能性（见 Rescher 2003；以及 Shields 2009）[^rescher-2003][^shields-2009]。
+  - id: 76
+    source: |-
+      From Hartshorne’s point of view the linkage of attributes *within* the first group and *within* the second group needs to be corrected by a greater concern for reticulating the attributes in these two groups. He thinks that an explanation is needed regarding how Alston can be committed to both monopolar and dipolar theism. For example, Alston ends up defending the view that God is changed by the objects God knows (pace the neoclassical, dipolar attributes), but these are not changes that occur in time (pace the classical, monopolar attributes). It is one thing, Hartshorne thinks, to say that God exists in a nontemporal specious present, and it is another to say that God is changed by temporal beings in a nontemporal specious present. The former view is at least problematic, he thinks, and the latter seems to be part of the traditional classical theistic view wherein, from a Hartshornian perspective, inconsistency goes in the guise of mystery.
+    step1: |-
+      从哈茨霍恩的观点看，**第一组内部** 和 **第二组内部** 的属性关联，需要通过更关注这两组属性的网状连接来纠正。他认为，需要解释阿尔斯顿如何能同时承诺单极有神论和双极有神论。例如，阿尔斯顿最终辩护了这样的观点：上帝被上帝所认识的对象所改变（尽管有新古典的、双极的属性），但这些不是在时间中发生的变化（尽管有古典的、单极的属性）。哈茨霍恩认为，说上帝存在于一个非时间性的可感当下是一回事，说上帝在一个非时间性的可感当下被时间性存在者所改变是另一回事。他认为，前一种观点至少是有问题的，而后一种观点似乎是传统古典有神论观点的一部分，在这种观点中，从哈茨霍恩的视角看，不一致以神秘的面目出现。
+    step2: |-
+      从哈茨霍恩的观点看，**第一组内部** 和 **第二组内部** 的属性关联，需要通过更关注这两组属性的网状连接来纠正。他认为，需要解释阿尔斯顿如何能同时承诺单极有神论和双极有神论。例如，阿尔斯顿最终辩护了这样的观点：上帝被上帝所认识的对象所改变（尽管有新古典的、双极的属性），但这些不是在时间中发生的变化（尽管有古典的、单极的属性）。哈茨霍恩认为，说上帝存在于一个非时间性的可感当下是一回事，说上帝在一个非时间性的可感当下被时间性存在者所改变是另一回事。他认为，前一种观点至少是有问题的，而后一种观点似乎是传统古典有神论观点的一部分，在这种观点中，从哈茨霍恩的视角看，不一致以神秘的面目出现。

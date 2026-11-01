@@ -1,0 +1,133 @@
+version: 1
+slug: hobbes-science
+params:
+  model: "sensenova-6.8-flash-lite"
+  temperature: 0.2
+  batch_segments: 10
+segments:
+  - id: 1
+    source: |-
+      Thomas Hobbes is rightly regarded as a monumental figure in the history of philosophy, especially for his masterpiece *Leviathan* (1651 in English; 1668 in Latin). The scholarly literature on *Leviathan* is voluminous and has been especially focused upon issues in political philosophy, such as representation and authorization, sovereignty and absolutism, contracts and covenants, and the relationship of civil authority to religion, among others. Since its printing the portrayal in *Leviathan* XIII of humans in their natural state—an existence that is “solitary, poor, nasty, brutish, and short”—has struck the imagination of many of Hobbes’ readers, leaving many seeing Hobbes as pessimistic at best or hopelessly unrealistic at worst.
+    step1: |-
+      托马斯·霍布斯有充分理由被视为哲学史上里程碑式的人物，尤其因其代表作《利维坦》（1651 年英文版；1668 年拉丁文版）。关于《利维坦》的学术文献卷帙浩繁，尤其聚焦于政治哲学问题，如代表与授权、主权与绝对主义、契约与盟约，以及公民权威与宗教的关系，等等。自其刊印以来，《利维坦》第十三章对人在自然状态中的描绘——一种“孤独、贫穷、肮脏、野蛮而短暂”的生存——打动了许多霍布斯读者的想象，使许多人至多把霍布斯视为悲观主义者，至少视为无可救药的不切实际者。
+    step2: |-
+      托马斯·霍布斯有充分理由被看作哲学史上的一座丰碑，尤其体现在其代表作《利维坦》（1651 年英文版；1668 年拉丁文版）上。关于《利维坦》的学术文献卷帙浩繁，而焦点尤其落在政治哲学诸问题上：代表与授权、主权与绝对主义、契约与盟约，以及公民权威同宗教的关系，等等。自该书刊行以来，《利维坦》第十三章对人在自然状态下的刻画——一种“孤独、贫穷、肮脏、野蛮而短暂”的生存——深深打动了众多霍布斯读者的想象，许多人因而要么视霍布斯为悲观主义者，要么视其为无可救药的不切实际者。
+  - id: 2
+    source: |-
+      In Hobbes’ own time, however, he was also well-known, even if sometimes ridiculed, for his views in mathematics, natural philosophy, and optics. In *A Minute or First Draught of the Optiques* (1646), Hobbes’ own assessment of his work is laudatory:
+    step1: |-
+      然而，在霍布斯自己的时代，他也因数学、自然哲学与光学方面的观点而为人所知，尽管有时受到嘲笑。在《光学初稿》（*A Minute or First Draught of the Optiques*，1646）中，霍布斯对自己工作的评价是赞许性的：
+    step2: |-
+      然而在霍布斯自己的时代，他也以数学、自然哲学与光学方面的见解著称，尽管有时备受讥嘲。在《光学初稿》（*A Minute or First Draught of the Optiques*，1646）中，霍布斯对自己工作的评价不无赞誉：
+  - id: 3
+    source: |-
+      > …I shall deserve the Reputation of having been the first to lay the ground of two Sciences, this of Opticques, the most curious, and that other of natural Justice, which I have done in my book de Cive, the most profitable of all other. (Hobbes 1646 [1983: 622])
+    step1: |-
+      > ……我将配得上这样的声誉：第一个为两门科学奠定基础，一门是光学这门最奇妙的，另一门是自然正义，我已在《论公民》一书中做到了，它是所有其他[科学]中最有用的。（Hobbes 1646 [1983: 622]）
+    step2: |-
+      > ……我将配得上这样的名声：第一个为两门科学奠定地基，一门是最奇妙的科学即光学，另一门是自然正义，后者我已在《论公民》一书中完成，是一切其他[科学]中最有用的。（Hobbes 1646 [1983: 622]）
+  - id: 4
+    source: |-
+      Although some contemporaries saw promise in Hobbes’ optics, such as Mersenne, who published Hobbes’ work in this area in 1644 in *Ballistica*, in the years following the publication of *Leviathan* Hobbes’ pursuits apart from political philosophy were taken less seriously. There are a number of possible explanations for this decline in the opinion of Hobbes’ competence in these areas, including his numerous attempts to square the circle, the association of his views with atheism by many critics, and the conflicts he had with Robert Boyle at the time of the rise of experimental philosophy. These all contributed to some extent to Hobbes’ exclusion from the Royal Society when it was founded.
+    step1: |-
+      尽管一些同时代人看到霍布斯光学的前景，例如梅森（Mersenne），他在 1644 年于《弹道学》（*Ballistica*）中出版了霍布斯这一领域的工作，但在《利维坦》出版后的岁月里，霍布斯在政治哲学以外的追求被较少严肃对待。对于霍布斯在这些领域之能力的评价之所以下降，有多种可能解释，包括他多次试图化圆为方、许多批评者把他的观点与无神论相联系，以及他在实验哲学兴起之时与罗伯特·波义耳（Robert Boyle）的冲突。所有这些都在一定程度上促成了霍布斯在皇家学会成立时被排除在外。
+    step2: |-
+      尽管一些同时代人看到了霍布斯光学的前景，例如梅森（Mersenne）便于 1644 年在《弹道学》（*Ballistica*）中出版了霍布斯这一领域的工作，但在《利维坦》问世后的岁月里，霍布斯在政治哲学以外的追求便较少被认真对待。霍布斯在这些领域的能力之所以受到贬抑，可有多种解释：他多次试图化圆为方；许多批评者把他的观点与无神论挂钩；以及他在实验哲学兴起之际与罗伯特·波义耳（Robert Boyle）的冲突。这些都在一定程度上造成霍布斯在皇家学会创立时被拒之门外。
+  - id: 5
+    source: |-
+      If Hobbes’ mathematical and natural-philosophical endeavors failed to be taken seriously by his contemporaries near the end of his life, what purpose is served by understanding these failed attempts?[^note-1] Apart from interest in them on their own terms as episodes in the history of science and philosophy, there are several reasons why we may find these areas of Hobbes’ thought valuable for study. First, Hobbes himself understood his political philosophy, or as he called it “civil philosophy”, to be a science capable of demonstration. Thus, understanding his general views about the nature of scientific demonstration promises to shed light on the way in which he saw civil philosophy as scientific. Second, Hobbes understood natural-philosophical explanations in physics as needing to make use of mathematical principles to count, as he says, as “true physics” and to be useful for improving humans’ quality of life. This claim about the use of mathematics to explain natural phenomena may seem banal to a twenty-first century reader, but it was not so to many in the sixteenth and seventeenth centuries. Hobbes’ natural philosophy thus situates him within the shift from qualitative to quantitative physics. Third, Hobbes’ conflicts with the Royal Society show us not only his views of the role of experimentation but also contextualize the rise of experimentalism. After discussing Hobbes’ criteria for scientific knowledge, this entry will address each of these areas.
+    step1: |-
+      如果霍布斯的数学与自然哲学的努力在他生命将近尾声时未被同时代人认真对待，那么理解这些失败的努力又有何用？[^note-1] 除了作为科学与哲学史上的插曲而对它们本身感兴趣之外，还有几个理由说明为何我们可能觉得霍布斯思想的这些领域值得研究。第一，霍布斯本人把他的政治哲学——或者如他所称的“公民哲学”——理解为一种可演证的科学。因此，理解他关于科学演证之性质的一般观点，有望阐明他何以把公民哲学视为科学的。第二，霍布斯把物理学中的自然哲学解释理解为需要运用数学原理，才能如他所说算得上“真正的物理学”，并有益于改善人类的生活质量。这一关于用数学解释自然现象的主张，对二十一世纪的读者而言或许显得陈腐，但对十六、十七世纪的许多人来说却并非如此。霍布斯的自然哲学由此把他置于从定性物理学向定量物理学转变的进程之中。第三，霍布斯与皇家学会的冲突不仅向我们展示了他关于实验之作用的观点，也使实验主义的兴起获得了语境。在讨论霍布斯关于科学知识的判准之后，本词条将逐一处理这些领域。
+    step2: |-
+      如果说霍布斯在数学与自然哲学上的努力在他生命将尽之际未能得到同时代人的认真对待，那么理解这些受挫的努力又有何意义？[^note-1] 除了作为科学与哲学史中的插曲而本身令人兴味之外，还有若干理由使我们觉得霍布斯思想的这些领域值得研究。其一，霍布斯本人把他所谓的“公民哲学”（亦即他的政治哲学）理解为一种可演证的科学。因此，理解他关于科学演证之性质的总体看法，当能阐明他何以认为公民哲学具有科学性。其二，霍布斯认为，物理学中的自然哲学解释必须运用数学原理，方能如他所说算作“真正的物理学”，并有裨于改善人类的生活质量。这一“以数学解释自然现象”的主张，对二十一世纪的读者或许显得平淡无奇，但对十六、十七世纪的许多人而言绝非如此。霍布斯的自然哲学由此把他定位在从定性物理学走向定量物理学的转变之中。其三，霍布斯与皇家学会的冲突不仅显明了他对实验之作用的看法，也为实验主义的兴起提供了历史语境。在讨论过霍布斯关于科学知识的判准之后，本词条将依次处理这些领域。
+  - id: 6
+    source: |-
+      The fundamental aspects of Hobbes’ materialism are well known. Hobbes believed that everything that exists is a body, and that bodies are sometimes in motion and sometimes at rest. Furthermore, he held that the only essential property of body is extension, or magnitude. All other apparent properties of bodies, such as those of color, taste, and firmness, are the result of motions from bodies being continued through media to humans’ sense organs. These motions, when continued into the bodies of perceivers, are constitutive of conceptions, or ideas.[^note-2] Ideas of the objects of sense are caused by motions from things outside of perceivers and those continued motions constitute ideas and serve to individuate one idea from another. Thus, all ideas in the human mind are either from sense perception or derived from ideas gained from sense perception (*Leviathan* I; LEV 22).
+    step1: |-
+      霍布斯唯物主义的根本方面是众所周知的。霍布斯相信，凡存在者皆为物体，物体有时运动、有时静止。此外，他主张物体的唯一本质属性是广延，或曰大小。物体的所有其他表面属性，如颜色、味觉与坚实性，都是运动自物体经由介质延续到人类感觉器官的结果。这些运动当延续进入感知者的身体时，便构成观念（conceptions）或理念（ideas）。[^note-2] 关于感觉对象的理念，是由感知者之外的事物所产生的运动引起的，而延续的运动构成理念，并使一个理念区别于另一个理念。因此，人类心灵中的一切理念，要么来自感觉知觉，要么派生自得自感觉知觉的理念（*Leviathan* I; LEV 22）。
+    step2: |-
+      霍布斯唯物主义的根本要点是人所共知的。霍布斯相信，凡存在者皆为物体，物体有时在运动，有时静止。他还主张，物体的唯一本质属性是广延，或曰大小。物体的其余一切表观属性，诸如颜色、味觉与坚实性，皆源于物体之运动经由介质延续到人类感觉器官的结果。这些运动当延续进入感知者身体时，便构成观念（conceptions）或理念（ideas）。[^note-2] 关于感觉对象的理念，乃由感知者之外的事物之运动所引起，而延续的运动既构成理念，又使一个理念与另一个理念区分开来。由此，人类心灵中的一切理念，要么来自感觉知觉，要么派生自得自感觉知觉的理念（*Leviathan* I; LEV 22）。
+  - id: 7
+    source: |-
+      This account of the origin and nature of ideas shows Hobbes’ clear empiricist leanings; however, Hobbes does not hold that knowers should uncritically accept what the ideas of sense objects seem to represent. Like many other philosophers in the seventeenth century, Hobbes held that our knowledge of the external world was not direct but was instead mediated by ideas. This recognition that “we compute nothing but our phantasms or ideas” (Hobbes 1642–43 [1973: 450]; cf. OL I.82)[^note-3] resulted in two worries about human knowledge.
+    step1: |-
+      这一关于理念之起源与性质的说明，显示出霍布斯明显的经验主义倾向；然而，霍布斯并不认为认知者应当不加批判地接受感觉对象的理念似乎所代表的东西。如同十七世纪的许多其他哲学家一样，霍布斯主张我们对外部世界的知识不是直接的，而是由理念所中介的。这一“我们所计算的不过是我们自己的幻象或理念”的承认（Hobbes 1642–43 [1973: 450]; cf. OL I.82）[^note-3]，导致了关于人类知识的两个担忧。
+    step2: |-
+      这一关于理念之起源与性质的说明，显出霍布斯鲜明的经验主义倾向；但他并不认为认知者应当不加批判地接受感觉对象的理念似乎代表的东西。与十七世纪的许多哲学家一样，霍布斯主张我们对外部世界的知识并非直接，而是经由理念中介的。正是“我们所计算的不过是我们自己的幻象或理念”这一认识（Hobbes 1642–43 [1973: 450]; cf. OL I.82）[^note-3]，引发了关于人类知识的两个疑虑。
+  - id: 8
+    source: |-
+      First, knowers must examine what resemblance ideas in the mind have to objects in the outside world. This worry seems similar, at first glance, to the concerns of Descartes’ meditator in the *Meditations on First Philosophy* (1641), but Hobbes aimed to provide a solution that made no reference whatsoever to God or to anything at all immaterial, such as a soul. In the early work *Elements of Law*, composed in 1640 and published in 1650 (EL), Hobbes offered arguments that attempted to show that ideas are distinct from that which they purport to represent, and he claimed that as a result we could know that the so-called secondary qualities, such as color, taste, and sound, were not in bodies. To do this, he used everyday experience to provide evidence for his claims:
+    step1: |-
+      第一，认知者必须考察心灵中的理念与外部世界对象之间的相似之处。这一担忧初看似乎类似于笛卡尔《第一哲学沉思集》（1641）中沉思者的关切，但霍布斯旨在提供一种完全不诉诸上帝或任何非质料之物（如灵魂）的解决方案。在早期著作《法的要素》（*Elements of Law*）中——作于 1640 年、出版于 1650 年（EL）——霍布斯提出了试图证明理念与其声称所代表之物相区别的论证，并主张由此我们能知道所谓第二性质（如颜色、味觉与声音）并不在物体之中。为此，他运用日常经验来为他的主张提供证据：
+    step2: |-
+      首先，认知者必须考察心灵中的理念同外部世界对象之间有何相似。这一疑虑初看起来近似于笛卡尔《第一哲学沉思集》（1641）中沉思者的关切，但霍布斯旨在提供一种完全不诉诸上帝或任何非质料之物（例如灵魂）的解决方案。在早期著作《法的要素》（*Elements of Law*，作于 1640 年、出版于 1650 年，即 EL）中，霍布斯提出若干论证，试图证明理念不同于它们声称所代表的东西，并主张由此我们可知所谓第二性质（如颜色、味觉与声音）并不存在于物体之中。为此，他以日常经验为他的主张提供证据：
+  - id: 9
+    source: |-
+      > Every man hath so much experience as to have seen the sun and other visible objects by reflection in the water and in glasses, and this alone is sufficient for this conclusion: that colour and image may be there where the thing seen is not. (*Elements of Law* II.5; EL 3)
+    step1: |-
+      > 每个人都有这样的经验，即在水面与镜子的反射中看见太阳及其他可见对象，而仅此一点便足以得出这一结论：颜色与影像可以存在于所见之物并不在的地方。（*Elements of Law* II.5; EL 3）
+    step2: |-
+      > 人人都有这般经验：曾在水面与镜子的反射中看见太阳与其他可见对象；仅凭这一点便足以得出结论——颜色与影像能够存在于所见之物并不在的地方。（*Elements of Law* II.5; EL 3）
+  - id: 10
+    source: |-
+      He used similar considerations in *Leviathan* I, concluding that we can know, for example, that color and sound are not in bodies since if they were “they could not bee severed from them, as by glasses, and in Ecchoes by reflection” (LEV 24).
+    step1: |-
+      他在《利维坦》第一章中运用了类似的考虑，得出结论：例如，我们能知道颜色与声音并不在物体之中，因为如果它们存在，“它们就不能如通过镜子、以及回声中的反射那样从物体中被分离出来”（LEV 24）。
+    step2: |-
+      他在《利维坦》第一章作了类似推理，得出结论：例如我们能知道颜色与声音不在物体之中，因为倘若它们在内，“它们就不能从物体中被剥离出来，正如通过镜子、以及回声中的反射那样”（LEV 24）。
+  - id: 11
+    source: |-
+      A second worry that follows from Hobbes’ view that we have only mediated access to bodies in the world relates to the possibility of gaining knowledge of the causes of natural events. Most of the ideas that knowers possess of bodies are received passively. When interested in the cause of some phenomenon, all one may examine are ideas caused by the motions of the bodies involved. However, when interested in, say, the cause of billiard ball *B* being put into motion after apparent contact with moving billiard ball *A*, one does not find an idea of *A* being the cause of *B*’s motion. Even if one were to look to a lower ‘level’, as it were, smaller than billiard balls by use of a microscope, one would not find any idea of *A*’s motion causing *B*’s motion. Hobbes diagnosed this lack of causal knowledge by highlighting that human agents are not the makers of natural phenomena. He thought that makers gain this causal knowledge by attending to their constructions through the process of creating something. Since we lack the ideas of the causes of individual phenomena from our experience, Hobbes claimed that we cannot know their actual causes at all. All that we may know are possible causes. Hobbes asserted in *Six Lessons to the Professors of Mathematiques* (1656) that because “of natural bodies we know not the construction but seek it from the effects” we can know “only of what [the causes] may be” (EW VII.184).
+    step1: |-
+      从霍布斯的观点——我们只能经由中介接近世界中的物体——所引出的第二个担忧，与获得自然事件之原因知识的可能性相关。认知者拥有的关于物体的理念，大多是被动接受的。当对某个现象的原因感兴趣时，一个人所能考察的只是由相关物体之运动所引起的理念。然而，当对例如台球 *B* 在与运动中的台球 *A* 明显接触之后开始运动的原因感兴趣时，一个人找不到 *A* 是 *B* 运动之原因的理念。即使一个人借助显微镜看向比台球更小的、如同更低“层次”之处，也找不到任何 *A* 的运动引起 *B* 的运动的理念。霍布斯诊断了这一因果知识的缺失，其方法是强调人类行动者并不是自然现象的制造者。他认为，制造者通过在创造某物的过程中关注其构造而获得这种因果知识。既然我们缺乏从经验中获得个别现象之原因的理念，霍布斯声称我们根本不可能知道它们的实际原因。我们所能知道的只是可能的原因。霍布斯在《致数学教授的六堂课》（1656）中断言，因为“关于自然物体，我们不知道其构造，而是从结果中寻求它”，我们只能知道“[原因]可能是什么”（EW VII.184）。
+    step2: |-
+      由霍布斯关于我们只能间接接近世界中的物体这一观点，引出第二个疑虑，它关乎能否获得自然事件之原因的知识。认知者所拥有的关于物体的理念，大多是被动地接受的。当关心某一现象的原因时，一个人所能考察的，只是由所涉物体之运动所引发的理念。然而，当关心譬如台球 *B* 在与运动中的台球 *A* 明显接触后开始运动这一现象的原因时，我们找不到任何 *A* 是 *B* 运动之原因的理念。即便借助显微镜望向比台球更小的、所谓更低“层次”，也找不到任何 *A* 的运动引起 *B* 的运动这样的理念。霍布斯对此因果知识之匮乏的诊断，在于强调人类行动者并非自然现象的制造者。他认为，制造者在创造某物的过程中通过关注其构造而获得这种因果知识。既然我们缺乏从经验中得来的、关于个别现象之原因的理念，霍布斯便声称我们根本无从知晓它们的实际原因；所能知道的只是可能的原因。霍布斯在《致数学教授的六堂课》（1656）中断言，因为“关于自然物体，我们不知其构造，而要从结果中寻求”，所以我们只能知道“[原因]可能是些什么”（EW VII.184）。
+  - id: 12
+    source: |-
+      This second worry brings to the fore Hobbes’ condition for the possibility of scientific knowledge, namely, the possession of (actual) causal knowledge. He claimed that
+    step1: |-
+      这第二个担忧凸显了霍布斯关于科学知识之可能性的条件，即拥有（实际的）因果知识。他声称
+    step2: |-
+      这第二个疑虑将霍布斯关于科学知识之可能性的条件推到台前，即拥有（实际的）因果知识。他宣称
+  - id: 13
+    source: |-
+      > we are said to know [*scire*] some effect when we know what its causes are, in what subject they are, in what subject they introduce the effect and how they do it. Therefore, this is the knowledge [*scientia*] τοῦ διότι or of causes. (OL I.59)
+    step1: |-
+      > 当我们知道某个结果的原因是什么、它们位于什么主体之中、它们在什么主体中引起该结果、以及它们如何做到这一点时，我们就说知道了[拉丁文 *scire*]这个结果。因此，这就是关于 τοῦ διότι（“为什么”）即原因的知识[*scientia*]。（OL I.59）
+    step2: |-
+      > 当我们知道某一结果的原因是什么、这些原因居于何种主体之中、它们在何种主体中引发该结果、以及它们如何引发时，我们便说知道了[拉丁文 *scire*]这个结果。因此，这便是关于 τοῦ διότι（“所以然”）即原因的知识[*scientia*]。（OL I.59）
+  - id: 14
+    source: |-
+      Having scientific knowledge required one to know the actual causes of a phenomenon, not its mere possible causes. However, the only way to possess such causal knowledge is to act as a maker, as God did in the case of natural things.
+    step1: |-
+      拥有科学知识要求一个人知道一个现象的实际原因，而非仅仅它的可能原因。然而，拥有这种因果知识的唯一途径是作为制造者行事，正如上帝在自然事物方面所做的那样。
+    step2: |-
+      要拥有科学知识，就得知道一个现象的实际原因，而不只是它可能的种种原因。然而，获得这种因果知识的唯一途径，是像制造者那样行事——正如上帝在自然事物上所做的那样。
+  - id: 15
+    source: |-
+      This restriction that Hobbes made allowed him to consider only geometry and civil philosophy as bodies of scientific knowledge, since in only these two disciplines do humans make the objects that they study. In *Six Lessons to the Professors of Mathematiques*, Hobbes distinguished these two disciplines from all others by connecting them to making:
+    step1: |-
+      霍布斯所作的这一限制，使他只能把几何学与公民哲学视为科学知识的体（bodies），因为唯有在这两门学科中，人类才制造他们研究的事物。在《致数学教授的六堂课》中，霍布斯通过把这两门学科与制造相联系，而将它们与所有其他学科区分开来：
+    step2: |-
+      霍布斯这一限制，使他得以只把几何学与公民哲学视为科学知识的体系，因为唯有在这两门学科中，人类所研究的对象是由人类自己制造的。在《致数学教授的六堂课》中，霍布斯正是通过把这两门学科同“制造”联系起来，从而把它们与其余一切学科区分开：
+  - id: 16
+    source: |-
+      > Geometry therefore is demonstrable for the lines and figures from which we reason are drawn and described by ourselves and civil philosophy is demonstrable because we make the commonwealth ourselves. (EW VII.184)
+    step1: |-
+      > 几何学因此是可演证的，因为我们据以推理的线与图形是由我们自己绘制和描述的；而公民哲学之所以可演证，是因为我们亲自制造国家。（EW VII.184）
+    step2: |-
+      > 因此几何学是可演证的，因为我们据以推理的线条与图形皆由我们自己绘出并描述；公民哲学之所以可演证，则在于国家是由我们亲手缔造的。（EW VII.184）
+  - id: 17
+    source: |-
+      In the three following sections, this entry considers ways in which these two bodies of scientific knowledge are used within other disciplines to provide an epistemic grounding for the explanations therein. In natural philosophy, or physics, Hobbes borrowed geometrical principles to provide the cause—the reason ‘why’—for many phenomena, while the making of the commonwealth, and its laws, out of the state of nature was the genesis of the science of civil philosophy.
+    step1: |-
+      在随后三节中，本词条考察这两个科学知识体被用于其他学科、从而为其中的解释提供认识论根据的方式。在自然哲学（即物理学）中，霍布斯借用了几何学原理来为许多现象提供原因——即“为什么”的理由——而国家及其法律之出自自然状态的制造，则是公民哲学这一科学的起源。
+    step2: |-
+      在接下来的三节里，本词条将考察这两个科学知识体系如何被用于其他学科，从而为其中的种种解释提供认识论根基。在自然哲学（即物理学）中，霍布斯借用几何学原理为许多现象提供原因——即“所以然”的理由；而国家及其法律之出自自然状态的创造，正是公民哲学这门科学的缘起。
+  - id: 18
+    source: |-
+      There has been debate among scholars of Hobbes’ thought about the relationship of the different parts of his philosophy to one another. Much of the focus has been upon the methodological statements in Part I of *De Corpore*, and scholars have traditionally divided over whether Hobbes understood philosophy as unified or disunified. However, more recent scholarship has drawn attention to Hobbes’ practice of explanation, such as the explanations found in *De Corpore* Part IV, and has argued that aspects of both the unified and disunified views track Hobbes’ discussions and practice while those views on their own miss that Hobbes explicitly borrowed principles from mathematics to use in natural philosophy (and provided citations to show this activity). This section will discuss these three approaches to understanding how the parts of Hobbes’ system fit with one another and then provide an example of an explanation in Hobbes’ natural philosophy from *De Corpore* XXV.
+    step1: |-
+      在霍布斯思想的研究者之间，关于其哲学不同部分彼此之间关系的问题一直存在争论。焦点多集中于《论物体》第一部分中的方法论陈述，而学者们传统上在霍布斯究竟把哲学理解为统一的还是非统一的这一点上产生分歧。然而，较晚近的研究开始关注霍布斯的解释实践，例如《论物体》第四部分中的解释，并主张：统一观与非统一观的某些方面确实追踪霍布斯的讨论与实践，但这两者本身却忽略了霍布斯明确地从数学借用原理用于自然哲学（并且提供了引证来表明这一活动）。本节将讨论这三种理解霍布斯体系各部分如何相互契合的进路，然后提供《论物体》第二十五章中霍布斯自然哲学里一个解释的实例。
+    step2: |-
+      关于霍布斯哲学诸部分彼此之间的关系，研究者之间一直存有争议。焦点大多落在《论物体》第一部分的种种方法论陈述上，而学者们历来在“霍布斯是把哲学理解为统一的还是非统一的”这个问题上分道扬镳。不过，晚近研究把目光转向霍布斯的解释实践，例如《论物体》第四部分中的解释，并主张：统一观与非统一观的确各有若干方面切合霍布斯的讨论与实践，但就这两种观点本身而言，它们都忽略了霍布斯曾明确地从数学借用原理用于自然哲学（他还提供了引证以表明这一活动）。本节将讨论理解霍布斯体系诸部分如何相互契合的这三种进路，然后给出《论物体》第二十五章中霍布斯自然哲学里一个解释的实例。

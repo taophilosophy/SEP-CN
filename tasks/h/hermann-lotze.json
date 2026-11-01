@@ -1,0 +1,22 @@
+{
+  "slug": "hermann-lotze",
+  "kind": "retranslate",
+  "zh_doc": "h/hermann-lotze.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T13:39:50Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:36:41Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 12, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "c925d48191cd595affc3dfc4add67c6a22f29b2ea4e75da6a70a6c47400281a9"
+  }
+}
