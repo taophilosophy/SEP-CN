@@ -2,7 +2,7 @@
   "slug": "epictetus",
   "kind": "retranslate",
   "zh_doc": "e/epictetus.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:29:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:44:19Z",
+      "evidence": "主代理直译：零信任译自 yuanwen/e/epictetus.md（2008-12-23/2025-07-16 版），六节全译+文献照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:44:19Z",
+      "evidence": "一校：对照源核销 MTPE，幻觉/漏译/增译 0，术语统一（意志抉择/同意/印象/外在之物/无差别物）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:44:20Z",
+      "evidence": "二校：中文斜体转加粗+bold空格修整+英文残词清除，语言回核"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:44:20Z",
+      "evidence": "三校：check_style 仅 bibliography 照录豁免 18 条；check_academic --strict 0 硬错误"
     }
   ],
   "blockers": [],
