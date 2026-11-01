@@ -2,8 +2,44 @@
   "slug": "evolution",
   "kind": "retranslate",
   "zh_doc": "e/evolution.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:25:46Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T19:26:22Z",
+      "evidence": "主代理直译：零信任译自 yuanwen/e/evolution.md（2017-08-25/2026-05-27 版），全节+脚注7定义+相关词条"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T19:26:23Z",
+      "evidence": "一校：对照源核销 MTPE，幻觉/漏译/增译 0，术语统一（自然选择/遗传漂变/适合度/等位基因）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T19:26:23Z",
+      "evidence": "二校：check_prose 告警处理，de-chain 句改写"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T19:26:23Z",
+      "evidence": "三校：check_style 0；check_academic --strict 0 硬错误；check_math 无数学内容"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:46Z",
   "version_pin": {
