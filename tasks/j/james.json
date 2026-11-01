@@ -1,0 +1,50 @@
+{
+  "slug": "james",
+  "kind": "retranslate",
+  "zh_doc": "j/james.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:00Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-james",
+      "at": "2026-11-01T21:07:45Z",
+      "evidence": "ledger: 47 segments step1+step2 全部非空，source 与 yuanwen 正文 47 块逐字符机检一致（空白归一）；j/james.md 由 47 段 step2 拼合（step2 在稿 47/47，脚注 defs/refs 与 yuanwen 守恒机检通过）；H1=威廉·詹姆斯 James, William (Russell Goodman)；图片 1 幅（../yuanwen/assets/james/james.gif，图注中译）；References（引用注释）结构照 cockburn 先例，脚注定义照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-james",
+      "at": "2026-11-01T21:44:42Z",
+      "evidence": "MTPE 对照 47 段全读核销: 幻觉0 漏译2（若干一般条件、PP959 整句强调）增译0; 标记守恒: 拉丁斜体恢复3（a priori/telos/ambulando）+what/that 括注恢复1, 中文斜体12处按 italic-cjk 规则转加粗; 术语统一: 宗教经验之种种11/理性感3/中立一元论/多元主义/评斯宾塞定义3/朗曼斯·格林3/哲学概念与实际结果2/论人类的某种盲目2/劳伦斯科学学院2/实用主义：一些旧思想方法的新名称/朗曼斯·格林/鲍灵格林/巴德特普利茨/亨利·阿林(Alline)/再生者(twice-born)/忏悔录; 事实核销: 年表31条日期与人物逐一对照, 版本行与 baseline 一致, 两处源文瑕疵已回源 en/james 核实(年表 Mary Walsh. James. 按全名 Mary Walsh James 译出并留痕, 文末括号不配对照源保留); 账本冻结为 draft 记录, s1 修正清单见本 evidence"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "j-子代理",
+      "at": "2026-11-01T22:02:28Z",
+      "evidence": "s2 语言自校：check_prose j/james.md 32 条告警（de-chain 16/long-sentence 12/passive-bei 4）逐条人工判定为英文源密致学术句式与英文被动结构的忠实转写（多为詹姆斯引文），拆分/改写将损及零信任保真，按告警级工具与 cassirer 93 条同状态先例判定豁免留痕；反欧化无硬伤"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "j-子代理",
+      "at": "2026-11-01T22:03:01Z",
+      "evidence": "s3 体例：check_style j/james.md 0（体例修复：中文强调斜体转加粗 12、** 两侧空格 14、脚注定义移入 References 节，弯引号误报 13 归零）；check_academic --strict 0 硬错误（OK：学术规范无硬错误）；check_math 1 文档 0 公式缺失/失衡。学术+体例双绿"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:33:59Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 3, 2021",
+    "archive_edition": "Summer 2024",
+    "sha256": "7c2ff8fdc94bf2a87e6da59e99f1cabe13917bd5251c33e02c45cf98c469bd67"
+  }
+}
