@@ -1,0 +1,581 @@
+version: 1
+slug: cognitive-science
+params:
+  model: "sensenova-6.8-flash-lite"
+  temperature: 0.2
+  batch_segments: 5
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    source: "Cognitive science is the interdisciplinary study of mind and intelligence, embracing philosophy, psychology, artificial intelligence, neuroscience, linguistics, and anthropology. Its intellectual origins are in the mid-1950s when researchers in several fields began to develop theories of mind based on complex representations and computational procedures. Its organizational origins are in the mid-1970s when the Cognitive Science Society was formed and the journal *Cognitive Science* began. Since then, more than one hundred universities in North America, Europe, Asia, and Australia have established cognitive science programs, and many others have instituted courses in cognitive science."
+    step1: "认知科学是对心灵与智能的跨学科研究，涵盖哲学、心理学、人工智能、神经科学、语言学与人类学。其思想起源在 20 世纪 50 年代中期，当时若干领域的研究者开始基于复杂的表征与计算程序发展心灵理论。其组织起源在 20 世纪 70 年代中期，当时认知科学学会成立，《认知科学》期刊创刊。自那以来，北美、欧洲、亚洲与澳大利亚的一百多所大学设立了认知科学项目，许多其他大学开设了认知科学课程。"
+    step2: "认知科学是研究心灵与智能的跨学科领域，涵盖哲学、心理学、人工智能、神经科学、语言学与人类学。其思想渊源可追溯至 20 世纪 50 年代中期，当时若干领域的研究者开始发展基于复杂表征与计算程序的心灵理论。其建制渊源则在 20 世纪 70 年代中期，认知科学学会成立，《认知科学》期刊随之创刊。此后，北美、欧洲、亚洲与澳大利亚的一百余所大学设立了认知科学专业，另有众多大学开设了认知科学课程。"
+  - id: 2
+    source: "Attempts to understand the mind and its operation go back at least to the Ancient Greeks, when philosophers such as Plato and Aristotle tried to explain the nature of human knowledge. The study of mind remained the province of philosophy until the nineteenth century, when experimental psychology developed. Wilhelm Wundt and his students initiated laboratory methods for studying mental operations more systematically. Within a few decades, however, experimental psychology became dominated by behaviorism, a view that virtually denied the existence of mind. According to behaviorists such as J. B. Watson, psychology should restrict itself to examining the relation between observable stimuli and observable behavioral responses. Talk of consciousness and mental representations was banished from respectable scientific discussion. Especially in North America, behaviorism dominated the psychological scene through the 1950s."
+    step1: "理解心灵及其运作的努力至少可追溯至古希腊人，当时像柏拉图与亚里士多德这样的哲学家试图解释人类知识的本性。心灵研究一直是哲学的领地，直到 19 世纪实验心理学发展起来。威廉·冯特及其学生开创了更系统地研究心理运作的实验室方法。然而，几十年内，实验心理学被行为主义所主导，这种观点几乎否认心灵的存在。按照像 J. B. 沃森这样的行为主义者的说法，心理学应限于考察可观察刺激与可观察行为反应之间的关系。关于意识与心理表征的谈论被逐出体面的科学讨论。尤其在北美，行为主义主导了心理学界直到 20 世纪 50 年代。"
+    step2: "理解心灵及其运作的尝试至少可追溯到古希腊人，当时像柏拉图与亚里士多德这样的哲学家力图解释人类知识的本性。心灵研究长期属于哲学的领域，直到 19 世纪实验心理学兴起。威廉·冯特（Wilhelm Wundt）及其学生开创了实验室方法，更系统地研究心理运作。然而短短数十年间，实验心理学便为行为主义所主导——这种观点几乎全然否认心灵的存在。按照 J. B. 沃森（J. B. Watson）等行为主义者的主张，心理学应限于考察可观察刺激与可观察行为反应之间的关系。关于意识与心理表征的谈论，被逐出了体面的科学讨论。尤其是在北美，行为主义直至 20 世纪 50 年代都主导着心理学界。"
+  - id: 3
+    source: "Around 1956, the intellectual landscape began to change dramatically. George Miller summarized numerous studies which showed that the capacity of human thinking is limited, with short-term memory, for example, limited to around seven items. He proposed that memory limitations can be overcome by recoding information into chunks, mental representations that require mental procedures for encoding and decoding the information. At this time, primitive computers had been around for only a few years, but pioneers such as John McCarthy, Marvin Minsky, Allen Newell, and Herbert Simon were founding the field of artificial intelligence. In addition, Noam Chomsky rejected behaviorist assumptions about language as a learned habit and proposed instead to explain language comprehension in terms of mental grammars consisting of rules. The six thinkers mentioned in this paragraph can be viewed as the founders of cognitive science."
+    step1: "1956 年前后，思想景观开始剧变。乔治·米勒总结了大量研究表明人类思维的能力有限，例如短时记忆限于约七个项目。他提出记忆局限可以通过把信息重新编码为组块来克服，组块是需要心理程序来编码与解码信息的心理表征。此时，原始计算机才出现没几年，但像约翰·麦卡锡、马文·明斯基、艾伦·纽厄尔与赫伯特·西蒙这样的先驱正创立人工智能领域。此外，诺姆·乔姆斯基拒斥把语言视为习得习惯的行为主义假设，转而主张依据由规则构成的心理语法来解释语言理解。本段提到的六位思想家可被视为认知科学的奠基人。"
+    step2: "约在 1956 年，思想图景开始发生剧变。乔治·米勒（George Miller）总结了大量研究，表明人类思维的能力是有限的，例如短时记忆大约只限于七个项目。他提出，记忆的限制可以通过把信息重新编码为组块（chunks）来克服；组块是心理表征，需要心理程序来编码与解码信息。彼时，原始计算机才问世数年，但约翰·麦卡锡（John McCarthy）、马文·明斯基（Marvin Minsky）、艾伦·纽厄尔（Allen Newell）与赫伯特·西蒙（Herbert Simon）等先驱正在创立人工智能领域。此外，诺姆·乔姆斯基（Noam Chomsky）拒斥把语言视为习得习惯的行为主义假设，转而主张用由规则构成的心理语法来解释语言理解。本段提到的六位思想家可视为认知科学的奠基人。"
+  - id: 4
+    source: "Cognitive science has unifying theoretical ideas, but we have to appreciate the diversity of outlooks and methods that researchers in different fields bring to the study of mind and intelligence. Although cognitive psychologists today often engage in theorizing and computational modeling, their primary method is experimentation with human participants. People, often undergraduates satisfying course requirements, are brought into the laboratory so that different kinds of thinking can be studied under controlled conditions. For example, psychologists have experimentally examined the kinds of mistakes people make in deductive reasoning, the ways that people form and apply concepts, the speed of people thinking with mental images, and the performance of people solving problems using analogies. Our conclusions about how the mind works must be based on more than “common sense” and introspection, since these can give a misleading picture of mental operations, many of which are not consciously accessible. Increasingly, psychologists draw their experimental participants from Amazon’s Mechanical Turk and from culturally diverse sources. Psychological experiments that carefully approach mental operations from diverse directions are therefore crucial for cognitive science to be scientific. Experimentation is also a methodology employed by experimental philosophy."
+    step1: "认知科学有统一的理论观念，但我们必须认识到不同领域的研究者给心灵与智能研究带来的观点与方法的多样性。尽管今天的认知心理学家常从事理论建构与计算建模，他们的首要方法是与人类参与者做实验。人们，通常是满足课程要求的本科生，被带进实验室，以便在受控条件下研究不同种类的思维。例如，心理学家以实验考察人们在演绎推理中犯的错误的种类、人们形成与应用概念的方式、人们用心理意象思考的速度、以及人们用类比解决问题时的表现。我们关于心灵如何运作的结论必须建立的基础不止是“常识”与内省，因为这些可能对心理运作给出误导性的图景，而许多心理运作并非意识可及的。越来越多的心理学家从 Amazon 的 Mechanical Turk 以及文化多样的来源招募实验参与者。因此，从多样方向仔细逼近心理运作的心理实验，对认知科学成为科学至关重要。实验也是实验哲学采用的一种方法论。"
+    step2: "认知科学拥有统一的理论观念，但我们也须看到，不同领域的研究者为心灵与智能研究带来了各异的观点与方法。今天的认知心理学家虽然常从事理论建构与计算建模，其首要方法仍是与人类参与者进行实验。人们——多为满足课程要求的本科生——被请进实验室，以便在受控条件下研究不同类型的思维。例如，心理学家以实验考察人们在演绎推理中犯错的类型、人们形成与运用概念的方式、人们借助心理意象思考的速度，以及人们运用类比解题时的表现。我们关于心灵如何运作的结论，不能仅仅建立在“常识”与内省之上，因为二者都可能对心理运作给出误导性的图景，而许多心理运作并非意识所能触及。越来越多的心理学家从 Amazon 的 Mechanical Turk 以及文化多元的来源招募实验参与者。因此，从多个方向仔细逼近心理运作的心理实验，对认知科学成为一门科学至关重要。实验也是实验哲学所采用的方法论之一。"
+  - id: 5
+    source: "Although theory without experiment is empty, experiment without theory is blind. To address the crucial questions about the nature of mind, the psychological experiments need to be interpretable within a theoretical framework that postulates mental representations and procedures. One of the best ways of developing theoretical frameworks is by forming and testing computational models intended to be analogous to mental operations. To complement psychological experiments on deductive reasoning, concept formation, mental imagery, and analogical problem solving, researchers have developed computational models that simulate aspects of human performance. Designing, building, and experimenting with computational models is the central method of artificial intelligence (AI), the branch of computer science concerned with intelligent systems. Ideally in cognitive science, computational models and psychological experimentation go hand in hand, but much important work in AI has examined the power of different approaches to knowledge representation in relative isolation from experimental psychology."
+    step1: "没有实验的理论是空洞的，没有理论的实验是盲目的。要解决关于心灵本性的关键问题，心理实验须能在设定心理表征与程序的理论框架内得到解释。发展理论框架的最佳方式之一是构造并检验意在类比心理运作的计算模型。为了补充关于演绎推理、概念形成、心理意象与类比问题求解的心理实验，研究者已发展出模拟人类表现某些方面的计算模型。设计、构建并实验计算模型，是人工智能（AI）的核心方法，人工智能是计算机科学中关注智能系统的分支。在认知科学中，理想的情形是计算模型与心理实验携手并进，但人工智能中的许多重要工作，是在相对脱离实验心理学的情况下考察不同知识表征进路的力量。"
+    step2: "没有实验的理论是空洞的，没有理论的实验是盲目的。要解决关于心灵本性的关键问题，心理实验必须能够在一种设定心理表征与程序的理论框架内得到解释。发展理论框架的最佳途径之一，是构造并检验旨在类比心理运作的计算模型。为补充关于演绎推理、概念形成、心理意象与类比问题求解的心理实验，研究者已开发出模拟人类表现某些侧面的计算模型。设计、构建并实验计算模型，是人工智能（AI）的核心方法——人工智能是计算机科学中研究智能系统的分支。理想上，认知科学中的计算模型与心理实验应携手并进；但人工智能中的许多重要工作，是在相对脱离实验心理学的情况下，考察不同知识表征进路的效力。"
+  - id: 6
+    source: "While some linguists do psychological experiments or develop computational models, most currently use different methods. For linguists in the Chomskian tradition, the main theoretical task is to identify grammatical principles that provide the basic structure of human languages. Identification takes place by noticing subtle differences between grammatical and ungrammatical utterances. In English, for example, the sentences “She hit the ball” and “What do you like?” are grammatical, but “She the hit ball” and “What does you like?” are not. A grammar of English will explain why the former are acceptable but not the latter. An alternative approach, cognitive linguistics, puts less emphasis on syntax and more on semantics and concepts."
+    step1: "尽管一些语言学家做心理实验或发展计算模型，大多数目前使用不同方法。对乔姆斯基传统的语言学家而言，主要理论任务是识别为人类语言提供基本结构的语法原则。识别通过注意合乎语法与不合乎语法的言语之间的细微差别而进行。例如在英语中，“She hit the ball”与“What do you like?”是合乎语法的，但“She the hit ball”与“What does you like?”则不是。英语语法将解释为何前者可接受而后者不可。另一种进路，认知语言学，较少强调句法而较多强调语义与概念。"
+    step2: "尽管有些语言学家从事心理实验或发展计算模型，多数人目前采用不同的方法。对乔姆斯基传统的语言学家而言，主要理论任务是识别为人类语言提供基本结构的语法原则。识别通过察觉合乎语法与不合乎语法的言语之间的细微差异而完成。例如，英语中“She hit the ball”与“What do you like?”合乎语法，而“She the hit ball”与“What does you like?”不合语法。英语语法将解释前者为何可接受而后者为何不可。另一种进路是认知语言学，它较少强调句法，而更多强调语义与概念。"
+  - id: 7
+    source: "Like cognitive psychologists, neuroscientists often perform controlled experiments, but their observations are very different, since neuroscientists are concerned directly with the nature of the brain. With nonhuman subjects, researchers can insert electrodes and record the firing of individual neurons. With humans for whom this technique would be too invasive, it is now common to use magnetic and positron scanning devices to observe what is happening in different parts of the brain while people are doing various mental tasks. For example, brain scans have identified the regions of the brain involved in mental imagery and word interpretation. Additional evidence about brain functioning is gathered by observing the performance of people whose brains have been damaged in identifiable ways. A stroke, for example, in a part of the brain dedicated to language can produce deficits such as the inability to utter sentences. Like cognitive psychology, neuroscience is often theoretical as well as experimental, and theory development is frequently aided by developing computational models of the behavior of groups of neurons."
+    step1: "与认知心理学家一样，神经科学家常做受控实验，但他们的观察非常不同，因为神经科学家直接关注大脑的本性。对非人类受试者，研究者可以插入电极记录单个神经元的放电。对这项技术过于侵入性的人类，如今常用磁性与正电子扫描装置来观察人们在从事各种心理任务时大脑不同部分发生了什么。例如，脑扫描已识别出参与心理意象与词语解释的大脑区域。关于大脑运作的进一步证据，通过观察大脑以可识别方式受损的人的表现来收集。例如，中风于专门负责语言的大脑部位，可产生诸如无法说出句子的缺陷。与认知心理学一样，神经科学常常既是理论的也是实验的，而理论发展常通过发展神经元群体行为的计算模型来辅助。"
+    step2: "与认知心理学家相似，神经科学家常进行受控实验，但其观察颇为不同，因为神经科学家直接关切大脑的本性。对非人类受试者，研究者可插入电极，记录单个神经元的放电。对于这项技术过于侵入性的人类受试者，如今普遍采用磁性与正电子扫描装置，观察人们在从事各种心理任务时大脑不同部位的活动。例如，脑扫描已识别出参与心理意象与词语理解的大脑区域。关于大脑运作的更多证据，来自对大脑以可辨识方式受损者表现的观察。例如，发生在专司语言的大脑区域的中风，可造成无法说出完整句子等缺陷。与认知心理学一样，神经科学常常既重理论也重实验，而理论发展常借助开发神经元群体行为的计算模型来推进。"
+  - id: 8
+    source: "Cognitive anthropology expands the examination of human thinking to consider how thought works in different cultural settings. The study of mind should obviously not be restricted to how English speakers think but should consider possible differences in modes of thinking across cultures. Cognitive science is becoming increasingly aware of the need to view the operations of mind in particular physical and social environments. For cultural anthropologists, the main method is ethnography, which requires living and interacting with members of a culture to a sufficient extent that their social and cognitive systems become apparent. Cognitive anthropologists have investigated, for example, the similarities and differences across cultures in words for colors."
+    step1: "认知人类学扩展对人类思维的考察，以考虑思想在不同文化环境中如何运作。心灵研究显然不应限于英语使用者如何思考，而应考虑跨文化思维模式的可能差异。认知科学日益认识到需要在特定物理与社会环境中看待心灵的运作。对文化人类学家而言，主要方法是民族志，它要求与一种文化的成员共同生活并互动到足够程度，使其社会与认知系统显现出来。例如，认知人类学家已考察跨文化中颜色词的异同。"
+    step2: "认知人类学扩展了对人类思维的考察，以探究思想在不同文化情境中如何运作。对心灵的研究显然不应局限于英语使用者如何思考，而应考察跨文化思维模式的可能差异。认知科学日益意识到，必须在具体的物理与社会环境中看待心灵的运作。对文化人类学家而言，主要方法是民族志，它要求与某文化的成员共同生活并充分互动，直至其社会与认知系统得以显现。例如，认知人类学家已考察不同文化中颜色词的异同。"
+  - id: 9
+    source: "Traditionally, philosophers do not perform systematic empirical observations or construct computational models, although there has been a rise in work in experimental philosophy. But philosophy remains important to cognitive science because it deals with fundamental issues that underlie the experimental and computational approach to mind. Abstract questions such as the nature of representation and computation need not be addressed in the everyday practice of psychology or artificial intelligence, but they inevitably arise when researchers think deeply about what they are doing. Philosophy also deals with general questions such as the relation of mind and body and with methodological questions such as the nature of explanations found in cognitive science. In addition, philosophy concerns itself with normative questions about how people should think as well as with descriptive ones about how they do. Besides the theoretical goal of understanding human thinking, cognitive science can have the practical goal of improving it, which requires normative reflection on what we want thinking to be. Philosophy of mind does not have a distinct method, but should share with the best theoretical work in other fields a concern with empirical results."
+    step1: "传统上，哲学家不做系统的经验观察或构建计算模型，尽管实验哲学的工作有所增长。但哲学对认知科学仍然重要，因为它处理的是支撑心灵实验与计算方法的基本问题。表征与计算的本性这类抽象问题，在心理学或人工智能的日常实践中不必处理，但当研究者深入思考自己所做之事时，它们必然出现。哲学也处理一般问题，如心灵与身体的关系，以及方法论问题，如认知科学中说明的本性。此外，哲学关注人们应当如何思维的规范问题，也关注人们实际上如何思维的描述问题。除了理解人类思维的理论目标，认知科学还可有改进它的实践目标，这要求对我们希望思维成为什么进行规范反思。心灵哲学没有独特的方法，但应与其他领域最优秀的理论工作共享对经验结果的关切。"
+    step2: "传统上，哲学家并不进行系统的经验观察，也不构建计算模型，尽管实验哲学的研究正在增长。但哲学对认知科学仍至关重要，因为它处理的是支撑心灵之实验与计算方法的基础问题。诸如表征与计算的本性这类抽象问题，在心理学或人工智能的日常实践中或许无需处理；但当研究者深入省思自己所做之事时，这些问题必然浮现。哲学还处理一般问题，如心灵与身体的关系，以及方法论问题，如认知科学中说明的本性。此外，哲学既关注人们应当如何思维的规范问题，也关注人们实际上如何思维的描述问题。除了理解人类思维这一理论目标，认知科学还可抱有改进思维这一实践目标，而这要求对我们希望思维成为何种样态进行规范反思。心灵哲学并无独特的方法，但它应当与其他领域最优秀的理论工作一样，关切经验结果。"
+  - id: 10
+    source: "In its weakest form, cognitive science is just the sum of the fields mentioned: psychology, artificial intelligence, linguistics, neuroscience, anthropology, and philosophy. Interdisciplinary work becomes much more interesting when there is theoretical and experimental convergence on conclusions about the nature of mind. For example, psychology and artificial intelligence can be combined through computational models of how people behave in experiments. The best way to grasp the complexity of human thinking is to use multiple methods, especially psychological and neurological experiments and computational models. Theoretically, the most fertile approach has been to understand the mind in terms of representation and computation."
+    step1: "在最弱的意义上，认知科学只是所提及诸领域之和：心理学、人工智能、语言学、神经科学、人类学与哲学。当关于心灵本性的结论出现理论与实验的汇聚时，跨学科工作就变得更有趣得多。例如，心理学与人工智能可以通过人们在实验中如何行为的计算模型来结合。把握人类思维复杂性的最佳方式是使用多种方法，尤其是心理与神经实验以及计算模型。理论上，最富有成果的进路一直是依据表征与计算来理解心灵。"
+    step2: "在最弱的意义上，认知科学只是上述诸领域的简单相加：心理学、人工智能、语言学、神经科学、人类学与哲学。当关于心灵本性的结论出现理论与实验的汇聚时，跨学科工作便大为有趣。例如，心理学与人工智能可通过人们在实验中的行为之计算模型而结合起来。把握人类思维复杂性的最佳途径，是运用多种方法，尤其是心理与神经实验以及计算模型。在理论上，最丰饶的进路一直是依据表征与计算来理解心灵。"
+  - id: 11
+    source: "The central hypothesis of cognitive science is that thinking can best be understood in terms of representational structures in the mind and computational procedures that operate on those structures. While there is much disagreement about the nature of the representations and computations that constitute thinking, the central hypothesis is general enough to encompass the current range of thinking in cognitive science, including connectionist theories which model thinking using artificial neural networks."
+    step1: "认知科学的中心假设是：思维最好依据心灵中的表征结构与作用于这些结构的计算程序来理解。尽管对构成思维的表征与计算的本性存在许多分歧，这一中心假设足够一般，足以涵盖认知科学当前的思想范围，包括用人工神经网络为思维建模的联结主义理论。"
+    step2: "认知科学的中心假设是：思维最好依据心灵中的表征结构以及作用于这些结构的计算程序来理解。尽管对构成思维的表征与计算的本性存在诸多分歧，这一中心假设已足够宽泛，足以涵盖认知科学当前的思想谱系，包括用人工神经网络为思维建模的联结主义理论。"
+  - id: 12
+    source: "Most work in cognitive science assumes that the mind has mental representations analogous to computer data structures, and computational procedures similar to computational algorithms. Cognitive theorists have proposed that the mind contains such mental representations as logical propositions, rules, concepts, images, and analogies, and that it uses mental procedures such as deduction, search, matching, rotating, and retrieval. The dominant mind-computer analogy in cognitive science has taken on a novel twist from the use of another analog, the brain."
+    step1: "认知科学中的多数工作假设心灵具有类似于计算机数据结构的心理表征，以及类似于计算算法的计算程序。认知理论家已提出，心灵包含逻辑命题、规则、概念、意象与类比这样的心理表征，并使用演绎、搜索、匹配、旋转与提取这样的心理程序。认知科学中主导的心-计算机类比，因使用另一类比项——大脑——而呈现出新的转向。"
+    step2: "认知科学中的多数工作假定，心灵具有类比于计算机数据结构的心理表征，以及类比于计算算法的计算程序。认知理论家提出，心灵包含逻辑命题、规则、概念、意象与类比等心理表征，并运用演绎、搜索、匹配、旋转与提取等心理程序。认知科学中占主导地位的心—计算机类比，由于引入另一类比项——大脑——而呈现出新颖的转折。"
+  - id: 13
+    source: "Connectionists have proposed novel ideas about representation and computation that use neurons and their connections as inspirations for data structures, and neuron firing and spreading activation as inspirations for algorithms. Cognitive science then works with a complex 3-way analogy among the mind, the brain, and computers. Mind, brain, and computation can each be used to suggest new ideas about the others. There is no single computational model of mind, since different kinds of computers and programming approaches suggest different ways in which the mind might work. The computers that most of us work with today are serial processors, performing one instruction at a time, but the brain and some recently developed computers are parallel processors, capable of doing many operations at once."
+    step1: "联结主义者已提出关于表征与计算的新观念，以神经元及其连接为数据结构之灵感，以神经元放电与扩散激活为算法之灵感。于是认知科学在心灵、大脑与计算机之间运用一种复杂的三方类比。心灵、大脑与计算都可被用来为彼此提示新观念。不存在单一的心灵计算模型，因为不同种类的计算机与编程进路提示心灵可能运作的不同方式。我们今天多数人使用的计算机是串行处理器，一次执行一条指令，但大脑与一些新近开发的计算机是并行处理器，能同时进行许多运算。"
+    step2: "联结主义者提出了关于表征与计算的新观念：以神经元及其连接为数据结构的灵感，以神经元放电与激活扩散为算法的灵感。于是认知科学在心灵、大脑与计算机之间展开一种复杂的三方类比。心灵、大脑与计算，皆可用来为其他两者提示新观念。并不存在单一的心灵计算模型，因为不同种类的计算机与编程进路提示了心灵可能运作的不同方式。我们今天多数人使用的计算机是串行处理器，一次执行一条指令；但大脑与一些新近开发的计算机是并行处理器，能同时完成许多运算。"
+  - id: 14
+    source: "A major trend in current cognitive science is the integration of neuroscience with many areas of psychology, including cognitive, social, developmental, and clinical. This integration is partly experimental, resulting from an explosion of new instruments for studying the brain, such as functional magnetic resonance imaging, transcranial magnetic stimulation, and optogenetics. The integration is also theoretical, because of advances in understanding how large populations of neurons can perform tasks usually explained with cognitive theories of rules and concepts."
+    step1: "当前认知科学的一大趋势是神经科学与心理学许多领域的整合，包括认知、社会、发展与临床。这种整合部分是实验性的，源于研究大脑的新仪器激增，如功能性磁共振成像、经颅磁刺激与光遗传学。这种整合也是理论性的，因为对大量神经元群体如何完成通常用规则与概念的认知理论解释的任务的理解有所进展。"
+    step2: "当前认知科学的一大趋势，是神经科学与心理学众多领域的整合，涵盖认知、社会、发展与临床心理学。这种整合部分是实验性的，源于研究大脑的新仪器大量涌现，如功能性磁共振成像、经颅磁刺激与光遗传学。它也是理论性的，因为人们对大量神经元群体如何完成那些通常以规则与概念的认知理论来解释的任务，理解已有进展。"
+  - id: 15
+    source: "Here is a schematic summary of current theories about the nature of the representations and computations that explain how the mind works."
+    step1: "以下是对当前关于解释心灵如何运作的表征与计算之本性的理论的纲要性概述。"
+    step2: "以下是关于解释心灵如何运作的表征与计算之本性的现有理论之纲要概述。"
+  - id: 16
+    source: "Formal logic provides some powerful tools for looking at the nature of representation and computation. Propositional and predicate calculus serve to express many complex kinds of knowledge, and many inferences can be understood in terms of logical deduction with inferences rules such as modus ponens. The explanation schema for the logical approach is:"
+    step1: "形式逻辑为考察表征与计算的本性提供了一些有力的工具。命题演算与谓词演算能表达许多复杂类型的知识，许多推理可以依据带肯定前件等推理规则的逻辑演绎来理解。逻辑进路的解释图式是："
+    step2: "形式逻辑为考察表征与计算的本性提供了若干有力工具。命题演算与谓词演算可表达许多复杂类型的知识，许多推理可以借助带有肯定前件等推理规则的逻辑演绎来理解。逻辑进路的解释图式是："
+  - id: 17
+    source: |-
+      > *Explanation target:*
+      >
+      > - Why do people make the inferences they do?
+      >
+      > *Explanatory pattern:*
+      >
+      > - People have mental representations similar to sentences in predicate logic.
+      > - People have deductive and inductive procedures that operate on those sentences.
+      > - The deductive and inductive procedures, applied to the sentences, produce the inferences.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 人们为何作出他们所做出的推理？
+      >
+      > **解释模式：**
+      >
+      > - 人们具有类似于谓词逻辑句子的心理表征。
+      > - 人们具有作用于这些句子的演绎与归纳程序。
+      > - 这些演绎与归纳程序，施加于这些句子，便产生那些推理。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 人们为何作出他们所做出的推理？
+      >
+      > **解释模式：**
+      >
+      > * 人们具有类似于谓词逻辑句子的心理表征。
+      > * 人们具有作用于这些句子的演绎与归纳程序。
+      > * 这些演绎与归纳程序，施加于这些句子，便产生那些推理。
+  - id: 18
+    source: "It is not certain, however, that logic provides the core ideas about representation and computation needed for cognitive science, since more efficient and psychologically natural methods of computation may be needed to explain human thinking. (See the entry on logic and artificial intelligence.)"
+    step1: "然而，逻辑是否为认知科学所需的关于表征与计算的核心观念提供基础，尚不确定，因为解释人类思维可能需要更高效且心理上更自然的计算方法。（参见逻辑与人工智能词条。）"
+    step2: "然而，逻辑是否提供了认知科学所需的、关于表征与计算的核心观念，尚无定论；因为要解释人类思维，或许需要更高效、心理上更自然的计算方法。（参见“逻辑与人工智能”词条。）"
+  - id: 19
+    source: "Much of human knowledge is naturally described in terms of rules of the form IF … THEN …, and many kinds of thinking such as planning can be modeled by rule-based systems. The explanation schema used is:"
+    step1: "人类知识的许多部分自然地以“如果……则……”形式的规则来描述，而诸如规划之类的许多思维可以用基于规则的系统来建模。所用的解释图式是："
+    step2: "人类知识的相当部分，自然地以“如果……则……”形式的规则来描述；诸如规划等许多思维活动可以用基于规则的系统来建模。所用的解释图式是："
+  - id: 20
+    source: |-
+      > *Explanation target:*
+      >
+      > - Why do people have a particular kind of intelligent behavior?
+      >
+      > *Explanatory pattern:*
+      >
+      > - People have mental rules.
+      > - People have procedures for using these rules to search a space of possible solutions, and procedures for generating new rules.
+      > - Procedures for using and forming rules produce the behavior.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > - 人们具有心理规则。
+      > - 人们具有运用这些规则搜索可能解空间的程序，以及生成新规则的程序。
+      > - 运用与形成规则的程序产生该行为。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > * 人们具有心理规则。
+      > * 人们具有运用这些规则搜索可能解空间的程序，以及生成新规则的程序。
+      > * 运用与形成规则的程序产生该行为。
+  - id: 21
+    source: "Computational models based on rules have provided detailed simulations of a wide range of psychological experiments, from cryptarithmetic problem solving to skill acquisition to language use. Rule-based systems have also been of practical importance in suggesting how to improve learning and how to develop intelligent machine systems."
+    step1: "基于规则的计算模型已对从密码算术问题求解到技能习得到语言使用的广泛心理实验提供了详细模拟。基于规则的系统在提示如何改进学习与发展智能机器系统方面也具有实际重要性。"
+    step2: "基于规则的计算模型，已对从密码算术题求解、技能习得到语言使用等广泛的心理实验提供了详尽模拟。基于规则的系统在实际层面也颇为重要，提示了如何改进学习、如何发展智能机器系统。"
+  - id: 22
+    source: "Concepts, which partly correspond to the words in spoken and written language, are an important kind of mental representation. There are computational and psychological reasons for abandoning the classical view that concepts have strict definitions. Instead, concepts can be viewed as sets of typical features. Concept application is then a matter of getting an approximate match between concepts and the world. Schemas and scripts are more complex than concepts that correspond to words, but they are similar in that they consist of bundles of features that can be matched and applied to new situations. The explanatory schema used in concept-based systems is:"
+    step1: "概念部分地对应于口头与书面语言中的词语，是一种重要的心理表征。有计算与心理方面的理由放弃概念具有严格定义这一经典看法。相反，概念可被视为典型特征的集合。概念的应用于是是在概念与世界之间获得近似匹配的问题。图式与脚本比对应于词语的概念更复杂，但相似之处在于它们由可被匹配并应用于新情境的特征束构成。基于概念的系统所用的解释图式是："
+    step2: "概念部分对应于口头与书面语言中的词语，是一种重要的心理表征。无论从计算还是心理的角度，都有理由放弃“概念具有严格定义”这一经典观点。相反，概念可被视为典型特征的集合。于是，概念的应用便是在概念与世界之间达成近似匹配的问题。图式与脚本比对应于词语的概念更为复杂，但相似之处在于，它们都由可被匹配并应用于新情境的特征束构成。基于概念的系统所用的解释图式是："
+  - id: 23
+    source: |-
+      > *Explanatory target:*
+      >
+      > - Why do people have a particular kind of intelligent behavior?
+      >
+      > *Explanation pattern:*
+      >
+      > - People have a set of concepts, organized via kind and part hierarchies and other associations.
+      > - People have a set of procedures for concept application, including spreading activation, matching, and inheritance.
+      > - The procedures applied to the concepts produce the behavior.
+      > - Concepts can be translated into rules, but they bundle information differently than sets of rules, making possible different computational procedures.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > - 人们具有一组概念，经由属与部分等层级以及其他关联而组织起来。
+      > - 人们具有一组概念应用的程序，包括扩散激活、匹配与继承。
+      > - 施加于概念的程序产生该行为。
+      > - 概念可以转译为规则，但它们对信息的捆绑方式不同于规则集合，从而使得不同的计算程序成为可能。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > * 人们具有一组概念，经由属与部分等层级以及其他关联而组织起来。
+      > * 人们具有一组概念应用的程序，包括扩散激活、匹配与继承。
+      > * 施加于概念的程序产生该行为。
+      > * 概念可以转译为规则，但它们对信息的捆绑方式不同于规则集合，从而使得不同的计算程序成为可能。
+  - id: 24
+    source: "(See the entry on concepts.)"
+    step1: "（参见概念词条。）"
+    step2: "（参见“概念”词条。）"
+  - id: 25
+    source: "Analogies play an important role in human thinking, in areas as diverse as problem solving, decision making, explanation, and linguistic communication. Computational models simulate how people retrieve and map source analogs in order to apply them to target situations. The explanation schema for analogies is:"
+    step1: "类比在人类思维中扮演重要角色，其领域之多样如问题求解、决策、说明与语言交流。计算模型模拟人们如何提取与映射源类比，以便将其应用于目标情境。类比的解释图式是："
+    step2: "类比在人类思维中扮演重要角色，其领域之广泛如问题求解、决策、说明与语言交流。计算模型模拟人们如何提取并映射源类比，以便将其应用于目标情境。类比的解释图式是："
+  - id: 26
+    source: |-
+      > *Explanation target:*
+      >
+      > - Why do people have a particular kind of intelligent behavior?
+      >
+      > *Explanatory pattern:*
+      >
+      > - People have verbal and visual representations of situations that can be used as cases or analogs.
+      > - People have processes of retrieval, mapping, and adaptation that operate on those analogs.
+      > - The analogical processes, applied to the representations of analogs, produce the behavior.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > - 人们具有对情境的言语与视觉表征，可被用作案例或类比。
+      > - 人们具有作用于这些类比的提取、映射与适应过程。
+      > - 这些类比过程，施加于类比的表征，便产生该行为。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > * 人们具有对情境的言语与视觉表征，可被用作案例或类比。
+      > * 人们具有作用于这些类比的提取、映射与适应过程。
+      > * 这些类比过程，施加于类比的表征，便产生该行为。
+  - id: 27
+    source: "The constraints of similarity, structure, and purpose overcome the difficult problem of how previous experiences can be found and used to help with new problems. Not all thinking is analogical, and using inappropriate analogies can hinder thinking, but analogies can be effective in applications such as education and design."
+    step1: "相似性、结构与目的的约束，克服了以往经验如何能被找到并用来帮助解决新问题这一难题。并非所有思维都是类比的，使用不恰当的类比会阻碍思维，但类比在教育与设计等应用中可以是有效的。"
+    step2: "相似性、结构与目的诸约束，克服了以往经验如何被发现并用以帮助解决新问题这一难题。并非所有思维都是类比性的，使用不恰当的类比会妨碍思维；但类比在教育与设计等应用中可发挥实效。"
+  - id: 28
+    source: "Visual and other kinds of images play an important role in human thinking. Pictorial representations capture visual and spatial information in a much more usable form than lengthy verbal descriptions. Computational procedures well suited to visual representations include inspecting, finding, zooming, rotating, and transforming. Such operations can be very useful for generating plans and explanations in domains to which pictorial representations apply. The explanatory schema for visual representation is:"
+    step1: "视觉及其他种类的意象在人类思维中扮演重要角色。图画性表征以远比冗长言语描述更可用的形式捕捉视觉与空间信息。非常适合视觉表征的计算程序包括检视、寻找、缩放、旋转与变换。这类运算在图画性表征适用的领域中，对生成计划与说明可以非常有用。视觉表征的解释图式是："
+    step2: "视觉及其他种类的意象在人类思维中扮演重要角色。图画性表征以远比冗长的言语描述更可用的形式，捕捉视觉与空间信息。特别适合视觉表征的计算程序包括检视、寻找、缩放、旋转与变换。在图画性表征适用的领域，这类运算对生成计划与说明极为有用。视觉表征的解释图式是："
+  - id: 29
+    source: |-
+      > *Explanation target:*
+      >
+      > - Why do people have a particular kind of intelligent behavior?
+      >
+      > *Explanatory pattern:*
+      >
+      > - People have visual images of situations.
+      > - People have processes such as scanning and rotation that operate on those images.
+      > - The processes for constructing and manipulating images produce the intelligent behavior.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > - 人们具有对情境的视觉意象。
+      > - 人们具有扫描与旋转等作用于这些意象的过程。
+      > - 构造与操纵意象的过程产生该智能行为。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > * 人们具有对情境的视觉意象。
+      > * 人们具有扫描与旋转等作用于这些意象的过程。
+      > * 构造与操纵意象的过程产生该智能行为。
+  - id: 30
+    source: "Imagery can aid learning, and some metaphorical aspects of language may have their roots in imagery. Psychological experiments suggest that visual procedures such as scanning and rotating employ imagery, and neurophysiological results confirm a close physical link between reasoning with mental imagery and perception. Imagery is not just visual, but can also operate with other sensory experiences such as hearing, touch, smell, taste, pain, balance, nausea, fullness, and emotion."
+    step1: "意象可辅助学习，语言的一些隐喻方面可能扎根于意象。心理实验表明，扫描与旋转等视觉程序运用意象，而神经生理结果确认了用心理意象推理与知觉之间存在密切的物理联系。意象不只是视觉的，也可与听觉、触觉、嗅觉、味觉、痛觉、平衡、恶心、饱胀与情绪等其他感觉经验运作。"
+    step2: "意象有助于学习，语言的一些隐喻层面可能植根于意象。心理实验表明，扫描与旋转等视觉程序运用了意象；神经生理学的结果则确认，用心理意象进行推理与知觉之间存在紧密的物理关联。意象并不限于视觉，还可与听觉、触觉、嗅觉、味觉、痛觉、平衡、恶心、饱胀与情绪等其他感官经验一同运作。"
+  - id: 31
+    source: "Connectionist networks consisting of simple nodes and links are very useful for understanding psychological processes that involve parallel constraint satisfaction. Such processes include aspects of vision, decision making, explanation selection, and meaning making in language comprehension. Connectionist models can simulate learning by methods that include Hebbian learning and backpropagation. The explanatory schema for the connectionist approach is:"
+    step1: "由简单节点与连接构成的联结主义网络，对理解涉及并行约束满足的心理过程非常有用。这类过程包括视觉、决策、说明选择以及语言理解中意义生成的诸方面。联结主义模型可以用赫布学习与反向传播等方法模拟学习。联结主义进路的解释图式是："
+    step2: "由简单节点与连接构成的联结主义网络，对理解涉及并行约束满足的心理过程极为有用。这类过程涵盖视觉、决策、说明选择以及语言理解中意义生成的若干侧面。联结主义模型可通过赫布学习与反向传播等方法模拟学习。联结主义进路的解释图式是："
+  - id: 32
+    source: |-
+      > *Explanation target:*
+      >
+      > - Why do people have a particular kind of intelligent behavior?
+      >
+      > *Explanatory pattern:*
+      >
+      > - People have representations that involve simple processing units linked to each other by excitatory and inhibitory connections.
+      > - People have processes that spread activation between the units via their connections, as well as processes for modifying the connections.
+      > - Applying spreading activation and learning to the units produces the behavior.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > - 人们具有由兴奋性与抑制性连接相互联系的简单加工单元所构成的表征。
+      > - 人们具有经由连接在单元之间扩散激活的过程，以及修改连接的过程。
+      > - 对单元施加激活扩散与学习，便产生该行为。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 人们为何具有某一特定类型的智能行为？
+      >
+      > **解释模式：**
+      >
+      > * 人们具有由兴奋性与抑制性连接相互联系的简单加工单元所构成的表征。
+      > * 人们具有经由连接在单元之间扩散激活的过程，以及修改连接的过程。
+      > * 对单元施加激活扩散与学习，便产生该行为。
+  - id: 33
+    source: "Simulations of various psychological experiments have shown the psychological relevance of the connectionist models, which are, however, only very rough approximations to actual neural networks. (For more information, see the entry on connectionism.)"
+    step1: "对各种心理实验的模拟已显示联结主义模型的心理相关性，但它们只是对实际神经网络的非常粗略的近似。（更多信息参见联结主义词条。）"
+    step2: "对多种心理实验的模拟，已显示出联结主义模型的心理相关性；然而，它们仅是对实际神经网络非常粗略的近似。（更多信息，参见“联结主义”词条。）"
+  - id: 34
+    source: "Theoretical neuroscience is the attempt to develop mathematical and computational theories and models of the structures and processes of the brains of humans and other animals. It differs from connectionism in trying to be more biologically accurate by modeling the behavior of large numbers of realistic neurons organized into functionally significant brain areas. Computational models of the brain have become biologically richer, both with respect to employing more realistic neurons such as ones that spike and have chemical pathways, and with respect to simulating the interactions among different areas of the brain such as the hippocampus and the cortex. These models are not strictly an alternative to computational accounts in terms of logic, rules, concepts, analogies, images, and connections, but should mesh with them and show how mental functioning can be performed at the neural level. The explanatory schema for theoretical neuroscience is:"
+    step1: "理论神经科学是发展关于人类与其他动物大脑的结构与过程的数学与计算理论与模型的尝试。它与联结主义的不同之处在于，它通过为组织成具有功能意义的大脑区域的大量真实神经元的行径建模，试图更生物学地精确。大脑的计算模型在生物学上已变得更丰富，无论是就采用更真实的神经元（如会放电、具有化学通路的神经元）而言，还是就模拟海马体与皮层等大脑不同区域之间的相互作用而言。这些模型并非严格地替代以逻辑、规则、概念、类比、意象与连接为基础的计算说明，而应与之相互契合，并表明心理功能如何在神经层面被实现。理论神经科学的解释图式是："
+    step2: "理论神经科学是发展关于人类及其他动物大脑结构与过程的数学与计算理论与模型的努力。它与联结主义的不同在于，它试图更具生物学精确性，为组织成具有功能意义的大脑区域的大量真实神经元的行为建模。大脑的计算模型在生物学上已日益丰富，无论就采用更真实的神经元（如会放电、具有化学通路的神经元）而言，还是就模拟海马体与皮层等大脑不同区域之间的相互作用而言。这些模型并非严格地替代以逻辑、规则、概念、类比、意象与连接为基础的计算说明，而应与之相互契合，并表明心理功能如何在神经层面得以实现。理论神经科学的解释图式是："
+  - id: 35
+    source: |-
+      > *Explanation target:*
+      >
+      > - How does the brain carry out functions such as cognitive tasks?
+      >
+      > *Explanatory pattern:*
+      >
+      > - The brain has neurons organized by synaptic connections into populations and brain areas.
+      > - The neural populations have spiking patterns that are transformed via sensory inputs and the spiking patterns of other neural populations.
+      > - Interactions of neural populations carry out functions including cognitive tasks.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 大脑如何完成诸如认知任务之类的功能？
+      >
+      > **解释模式：**
+      >
+      > - 大脑具有经突触连接而组织成群体与大脑区域的神经元。
+      > - 这些神经群体具有放电模式，经感觉输入与其他神经群体的放电模式而转换。
+      > - 神经群体的相互作用完成包括认知任务在内的功能。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 大脑如何完成诸如认知任务之类的功能？
+      >
+      > **解释模式：**
+      >
+      > * 大脑具有经突触连接而组织成群体与大脑区域的神经元。
+      > * 这些神经群体具有放电模式，经感觉输入与其他神经群体的放电模式而转换。
+      > * 神经群体的相互作用完成包括认知任务在内的功能。
+  - id: 36
+    source: "From the perspective of theoretical neuroscience, mental representations are patterns of neural activity, and inference is transformation of such patterns. (See the entries on neuroscience and the neuroscience of consciousness.)"
+    step1: "从理论神经科学的视角看，心理表征是神经活动的模式，而推理是这类模式的转换。（参见神经科学与意识神经科学词条。）"
+    step2: "从理论神经科学的视角看，心理表征是神经活动的模式，推理则是这类模式的转换。（参见“神经科学”与“意识的神经科学”词条。）"
+  - id: 37
+    source: "Bayesian models are prominent in cognitive science, with applications to such psychological phenomena as learning, vision, motor control, language, and social cognition. They have also had effective applications in robotics. The Bayesian approach assumes that cognition is approximately optimal in accord with probability theory, especially Bayes’ theorem, which says that the probability of a hypothesis given evidence is equal to the result of multiplying the prior probability of the hypothesis by the conditional probability of the evidence given the hypothesis, all divided by the probability of the evidence. The explanatory schema for Bayesian cognition is:"
+    step1: "贝叶斯模型在认知科学中十分突出，应用于学习、视觉、运动控制、语言与社会认知等心理现象。它们也在机器人学中有有效应用。贝叶斯进路假设认知依据概率论而近似最优，尤其是贝叶斯定理，它说：给定证据时假设的概率，等于假设的先验概率乘以给定假设时证据的条件概率，再除以证据的概率。贝叶斯认知的解释图式是："
+    step2: "贝叶斯模型在认知科学中十分显赫，其应用遍及学习、视觉、运动控制、语言与社会认知等心理现象，并在机器人学中也有有效应用。贝叶斯进路假定，认知依据概率论而近似最优，尤其是贝叶斯定理：给定证据时某一假设的概率，等于该假设的先验概率乘以给定该假设时证据的条件概率，再除以证据的概率。贝叶斯认知的解释图式是："
+  - id: 38
+    source: |-
+      > *Explanation target:*
+      >
+      > - How does the mind carry out functions such as inference?
+      >
+      > *Explanatory pattern:*
+      >
+      > - The mind has representations for statistical correlations and conditional probabilities.
+      > - The mind has the capacity for probabilistic computations such as applications of Bayes’ theorem.
+      > - Applying probabilistic computations to statistical representations accomplishes mental tasks such as inference.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 心灵如何完成诸如推理之类的功能？
+      >
+      > **解释模式：**
+      >
+      > - 心灵具有对统计相关与条件概率的表征。
+      > - 心灵具有进行诸如贝叶斯定理应用之类的概率计算的能力。
+      > - 将概率计算施加于统计表征，便完成推理等心理任务。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 心灵如何完成诸如推理之类的功能？
+      >
+      > **解释模式：**
+      >
+      > * 心灵具有对统计相关与条件概率的表征。
+      > * 心灵具有进行诸如贝叶斯定理应用之类的概率计算的能力。
+      > * 将概率计算施加于统计表征，便完成推理等心理任务。
+  - id: 39
+    source: "Although Bayesian methods have had impressive applications to a wide range of phenomena, their psychological plausibility is debatable because of assumptions about optimality and computations based on probability theory."
+    step1: "尽管贝叶斯方法已在广泛现象中有令人印象深刻的应用，但由于对最优性的假设与基于概率论的计算，其心理合理性仍可争论。"
+    step2: "尽管贝叶斯方法已在广泛现象中取得令人瞩目的应用，但由于其关于最优性的假设以及基于概率论的计算，其心理学上的可信性仍存争议。"
+  - id: 40
+    source: "Artificial intelligence has been a central part of cognitive since the 1950s, and the most dramatic recent advances in AI have come from the approach of deep learning, which has produced major breakthroughs in fields that include game playing, object recognition, and translation. Deep learning builds on ideas from connectionism and theoretical neuroscience, but uses neural networks with more layers and improved algorithms, benefitting from faster computers and large data bases of examples. Another important innovation is combining learning from examples with reinforcement learning, resulting by 2016 in the world’s leading Go player, AlphaGo. Ideas from deep learning are spreading back into neuroscience and also beginning to influence research in cognitive psychology. The explanatory schema for deep learning is:"
+    step1: "自 20 世纪 50 年代以来，人工智能一直是认知科学的核心部分，而人工智能最近最戏剧性的进展来自深度学习进路，它在包括游戏、物体识别与翻译在内的领域产生了重大突破。深度学习建立在联结主义与理论神经科学的观念之上，但使用层数更多、算法更优的神经网络，得益于更快的计算机与大型示例数据库。另一项重要创新是把从示例学习与强化学习相结合，至 2016 年产生了世界领先的围棋棋手阿尔法狗。深度学习的观念正在回流到神经科学，并开始影响认知心理学的研究。深度学习的解释图式是："
+    step2: "自 20 世纪 50 年代以来，人工智能一直是认知科学的核心组成部分；人工智能近期最引人注目的进展来自深度学习进路，它在游戏、物体识别与翻译等领域取得了重大突破。深度学习依托联结主义与理论神经科学的观念，但采用层数更多、算法更优的神经网络，并得益于更快的计算机与大型示例数据库。另一项重要创新，是将从示例学习与强化学习相结合，至 2016 年产生了世界顶尖的围棋棋手阿尔法狗（AlphaGo）。深度学习的观念正回流到神经科学，并开始影响认知心理学的研究。深度学习的解释图式是："
+  - id: 41
+    source: |-
+      > *Explanation target:*
+      >
+      > - How does the brain carry out functions such as cognitive tasks?
+      >
+      > *Explanatory pattern:*
+      >
+      > - The brain has large numbers of neurons organized into 6–20 layers.
+      > - The brain has powerful mechanisms for learning from examples and for learning actions that are reinforced by their successes.
+      > - Applying learning mechanisms to layered neural networks makes them capable of human and sometimes even super-human performance.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 大脑如何完成诸如认知任务之类的功能？
+      >
+      > **解释模式：**
+      >
+      > - 大脑具有组织成 6–20 层的大量神经元。
+      > - 大脑具有从示例中学习、以及学习那些因成功而得到强化的行动的强有力机制。
+      > - 把学习机制施加于分层神经网络，使之能有人类的、有时甚至超人类的表现。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 大脑如何完成诸如认知任务之类的功能？
+      >
+      > **解释模式：**
+      >
+      > * 大脑具有组织为 6–20 层的大量神经元。
+      > * 大脑具有强大的机制，能从示例中学习，也能学习那些因成功而得到强化的行动。
+      > * 将学习机制施加于分层神经网络，使其能够达到人类、有时甚至超越人类的表现。
+  - id: 42
+    source: "Although deep learning has produced dramatic improvements in some AI systems, it is not clear how it can be applied to aspects of human thought that include causal reasoning, imagery, emotion, and analogy. For further discussion, see Section 11 (on deep learning) of the entry on connectionism."
+    step1: "尽管深度学习已在一些人工智能系统中产生显著改进，但它如何能被应用于人类思维的诸方面——包括因果推理、意象、情绪与类比——尚不清楚。进一步讨论参见联结主义词条第 11 节（论深度学习）。"
+    step2: "尽管深度学习已让一些人工智能系统取得显著进步，但如何将它应用于人类思维的某些方面——如因果推理、意象、情绪与类比——仍不清楚。进一步的讨论，参见“联结主义”词条第 11 节（关于深度学习）。"
+  - id: 43
+    source: "Predictive processing is an approach to theoretical neuroscience that views the brain as constantly generating and updating models of the environment in order to predict the results of perceptions and actions. Active inference is a version of predictive processing that hypothesizes that the brain uses Bayesian calculations to minimize “free energy” consisting of discrepancies between expectations and actual observations. Organisms survive when brains reduce prediction errors by changing their models of the environment or by changing the environment through action."
+    step1: "预测加工是理论神经科学的一种进路，它把大脑视为不断生成与更新环境模型，以便预测知觉与行动的结果。主动推断是预测加工的一个版本，它假设大脑使用贝叶斯计算来最小化由期望与实际观察之间的差异构成的“自由能”。当大脑通过改变其环境模型、或通过行动改变环境来减少预测误差时，有机体得以生存。"
+    step2: "预测加工是理论神经科学的一种进路，它将大脑视为不断生成并更新环境模型，以预测知觉与行动的结果。主动推断是预测加工的一个版本，它假设大脑运用贝叶斯计算，把由期望与实际观察之间的差异所构成的“自由能”最小化。当大脑通过改变环境模型、或通过行动改变环境来减少预测误差时，生物体便能存活。"
+  - id: 44
+    source: "The explanatory schema for active inference is:"
+    step1: "主动推断的解释图式是："
+    step2: "主动推断的解释图式如下："
+  - id: 45
+    source: |-
+      > *Explanation target:*
+      >
+      > - How does the brain function to support perception and action?
+      >
+      > *Explanatory pattern:*
+      >
+      > - The brain is a prediction engine that uses probabilistic models to anticipate perceptions and the results of actions.
+      > - To reduce prediction error, the brain uses Bayesian updating to change its models and uses actions to change its environment, e.g. by moving.
+      > - Effective inference, perception, and action result from these reductions in prediction errors.
+    step1: |-
+      > **解释目标：**
+      >
+      > - 大脑如何运作以支持知觉与行动？
+      >
+      > **解释模式：**
+      >
+      > - 大脑是一台预测引擎，使用概率模型来预期知觉与行动的结果。
+      > - 为减少预测误差，大脑使用贝叶斯更新来改变其模型，并使用行动来改变其环境，例如通过移动。
+      > - 有效的推断、知觉与行动，产生于这些预测误差的减少。
+    step2: |-
+      > **解释目标：**
+      >
+      > * 大脑如何运作以支持知觉与行动？
+      >
+      > **解释模式：**
+      >
+      > * 大脑是一台预测引擎，利用概率模型来预期知觉与行动的结果。
+      > * 为减少预测误差，大脑通过贝叶斯更新来改变模型，并通过行动（例如移动）来改变环境。
+      > * 有效的推断、知觉与行动，正是这些预测误差减少的结果。
+  - id: 46
+    source: "Active inference is open to numerous challenges. Is brain functioning really Bayesian updating rather than connectionist constraint satisfaction or deep reinforcement learning? Can predictive processing subsume other brain functions that include pattern recognition, explanation, emotional evaluation, memory, and communication? Does active inference explain high-level cognitive operations such as causal reasoning, language, and creativity?"
+    step1: "主动推断面临众多挑战。大脑运作真的是贝叶斯更新，而非联结主义约束满足或深度强化学习吗？预测加工能包容模式识别、说明、情绪评估、记忆与交流等其他大脑功能吗？主动推断能解释因果推理、语言与创造性等高层次认知运作吗？"
+    step2: "主动推断面临众多挑战。大脑的运作真的是贝叶斯更新，而非联结主义的约束满足或深度强化学习吗？预测加工能够涵盖模式识别、说明、情绪评价、记忆与交流等大脑的其他功能吗？主动推断能解释因果推理、语言与创造力等高级认知运作吗？"
+  - id: 47
+    source: "Some philosophy, in particular naturalistic philosophy of mind, is part of cognitive science. But the interdisciplinary field of cognitive science is relevant to philosophy in several ways. First, the psychological, computational, and other results of cognitive science investigations have important potential applications to traditional philosophical problems in epistemology, metaphysics, and ethics. Second, cognitive science can serve as an object of philosophical critique, particularly concerning the central assumption that thinking is representational and computational. Third and more constructively, cognitive science can be taken as an object of investigation in the philosophy of science, generating reflections on the methodology and presuppositions of the enterprise."
+    step1: "某些哲学，尤其是自然主义的心灵哲学，是认知科学的一部分。但认知科学这一跨学科领域在多个方面与哲学相关。第一，认知科学研究在心理学、计算及其他方面的结果，对认识论、形而上学与伦理学中的传统哲学问题有重要的潜在应用。第二，认知科学可作为哲学批判的对象，尤其是关于思维是表征性与计算性这一中心假设。第三，更具建设性地，认知科学可被当作科学哲学的研究对象，引发对该事业的方法论与预设的反思。"
+    step2: "有些哲学，尤其是自然主义的心灵哲学，是认知科学的一部分。但认知科学这一跨学科领域与哲学有多方面的关联。其一，认知科学研究在心理学、计算等方面的成果，对认识论、形而上学与伦理学中的传统哲学问题具有重要的潜在应用。其二，认知科学可以作为哲学批判的对象，特别是针对“思维是表征性的、计算性的”这一中心假设。其三，更具建设性的是，认知科学可以被当作科学哲学的研究对象，引发对这门事业的方法论与前提预设的反思。"
+  - id: 48
+    source: "Much philosophical research today is naturalistic, treating philosophical investigations as continuous with empirical work in fields such as psychology. From a naturalistic perspective, philosophy of mind is closely allied with theoretical and experimental work in cognitive science. Metaphysical conclusions about the nature of mind are to be reached, not by a priori speculation, but by informed reflection on scientific developments in fields such as psychology, neuroscience, and computer science. Similarly, epistemology is not a stand-alone conceptual exercise, but depends on and benefits from scientific findings concerning mental structures and learning procedures. Ethics can benefit by using greater understanding of the psychology of moral thinking to bear on ethical questions such as the nature of deliberations concerning right and wrong. Here are some philosophical problems to which ongoing developments in cognitive science are highly relevant. Links are provided to other relevant articles in this *Encyclopedia.*"
+    step1: "今天许多哲学研究是自然主义的，把哲学研究视为与心理学等领域中的经验工作相连续。从自然主义视角看，心灵哲学与认知科学中的理论与实验工作密切结盟。关于心灵本性的形而上学结论，不应通过先验思辨达到，而应通过对心理学、神经科学与计算机科学等领域中科学发展的知情反思达到。类似地，认识论不是独立的概念练习，而是依赖并受益于关于心理结构与学习程序的科学发现。伦理学可以通过把对道德思维心理学的更深入理解应用于伦理问题（如关于对错的思考的本性）而受益。以下是一些认知科学中的持续发展与之高度相关的哲学问题。链接指向本百科全书中其他相关条目。"
+    step2: "今天的许多哲学研究是自然主义的，把哲学探究视为与心理学等领域的经验工作连续不断。从自然主义的视角看，心灵哲学与认知科学的理论与实验工作紧密结盟。关于心灵本性的形而上学结论，不应当通过先验思辨得出，而应当通过对心理学、神经科学与计算机科学等领域科学进展的知情反思来得出。同样，认识论也不是一项独立的纯概念训练，而是依赖并得益于关于心理结构与学习程序的科学发现。伦理学也能受益，只要把对道德思维心理学的更深入理解运用于对错之辨等伦理问题。以下列举一些哲学问题，认知科学的持续进展与它们高度相关。文中附有指向本百科全书其他相关条目的链接。"
+  - id: 49
+    source: |-
+      - *Innateness*. To what extent is knowledge innate or acquired by experience? Is human behavior shaped primarily by nature or nurture?
+      - *Language of thought*. Does the human brain operate with a language-like code or with a more general connectionist architecture? What is the relation between symbolic cognitive models using rules and concepts and sub-symbolic models using neural networks?
+      - *Mental imagery*. Do human minds think with visual and other kinds of imagery, or only with language-like representations?
+      - *Folk psychology*. Does a person’s everyday understanding of other people consist of having a theory of mind, or of merely being able to simulate them?
+      - *Meaning*. How do mental representations acquire meaning or mental content? To what extent does the meaning of a representation depend on its relation to other representations, its relation to the world, and its relation to a community of thinkers?
+      - *Mind-brain identity*. Are mental states brain states? Or can they be multiply realized by other material states? What is the relation between psychology and neuroscience? Is materialism true?
+      - *Free will*. Is human action free or merely caused by brain events?
+      - *Moral psychology*. How do minds/brains make ethical judgments?
+      - *The meaning of life*. How can minds construed naturalistically as brains find value and meaning?
+      - *Emotions*. What are emotions, and what role do they play in thinking?
+      - *Consciousness*. Can conscious experience be scientifically explained, for example by the neuroscience of consciousness?
+      - *Mental disorder*. What are mental disorders, and how are psychological and neural processes relevant to their explanation and treatment?
+      - *Perception and reality*. How do minds/brains form and evaluate representations of the external world?
+      - Perception and cognition. How does perception differ from other kinds of cognition with respect to representational format and justification?
+      - *Realism*. Is cognitive science consistent with views that minds grasp the real world? Could minds be computer simulations? Is virtual reality a kind of reality?
+      - *Information*. How does cognitive science illuminate the operations of information and misinformation in minds and societies?
+      - *Social science*. How do explanations of the operations of minds interact with explanations of the operations of groups and societies?
+    step1: |-
+      - **天赋性（Innateness）**：知识在多大程度上是天生的，还是通过经验获得的？人类行为主要由天性塑造，还是由教养塑造？
+      - **思维语言（Language of thought）**：人类大脑是用类似语言的代码运作，还是用更一般的联结主义架构运作？使用规则与概念的符号认知模型，与使用神经网络的亚符号模型之间是什么关系？
+      - **心理意象（Mental imagery）**：人类心灵是用视觉及其他种类的意象思维，还是只用类似语言的表征思维？
+      - **民间心理学（Folk psychology）**：一个人对他人日常的理解，在于拥有一种关于心灵的理论，还是仅仅在于能够模拟他们？
+      - **意义（Meaning）**：心理表征如何获得意义或心理内容？一个表征的意义，在多大程度上依赖于它与其他表征的关系、它与世界的关系，以及它与思想者共同体的关系？
+      - **心脑同一（Mind-brain identity）**：心理状态是脑状态吗？还是它们可以被其他物质状态多重实现？心理学与神经科学之间是什么关系？唯物主义为真吗？
+      - **自由意志（Free will）**：人类行动是自由的，还是仅仅由脑事件所引起？
+      - **道德心理学（Moral psychology）**：心灵/大脑如何作出伦理判断？
+      - **生命的意义（The meaning of life）**：把心灵自然主义地理解为大脑，它们如何发现价值与意义？
+      - **情绪（Emotions）**：情绪是什么？它们在思维中扮演什么角色？
+      - **意识（Consciousness）**：意识经验能被科学地解释吗，例如通过意识的神经科学？
+      - **精神障碍（Mental disorder）**：精神障碍是什么？心理与神经过程与其说明和治疗有何关联？
+      - **知觉与现实（Perception and reality）**：心灵/大脑如何形成并评价对外部世界的表征？
+      - 知觉与认知：就表征格式与证成而言，知觉与其他种类的认知有何不同？
+      - **实在论（Realism）**：认知科学与心灵把握真实世界的观点相容吗？心灵能是计算机模拟吗？虚拟现实是一种现实吗？
+      - **信息（Information）**：认知科学如何阐明信息与错误信息在心灵与社会中的运作？
+      - **社会科学（Social science）**：对心灵运作的说明，与对群体与社会运作的说明如何相互作用？
+    step2: |-
+      * **天赋性（Innateness）**：知识在多大程度上是天生的，还是通过经验获得的？人类行为主要是由天性塑造，还是由教养塑造？
+      * **思维语言（Language of thought）**：人类大脑是用类似语言的代码运作，还是用更一般的联结主义架构运作？使用规则与概念的符号认知模型，与使用神经网络的亚符号模型之间是什么关系？
+      * **心理意象（Mental imagery）**：人类心灵是用视觉及其他种类的意象思维，还是只用类似语言的表征思维？
+      * **民间心理学（Folk psychology）**：一个人对他人日常的理解，在于拥有一种关于心灵的理论，还是仅仅在于能够模拟他们？
+      * **意义（Meaning）**：心理表征如何获得意义或心理内容？一个表征的意义，在多大程度上依赖于它与其他表征的关系、它与世界的关系，以及它与思想者共同体的关系？
+      * **心脑同一（Mind-brain identity）**：心理状态是脑状态吗？还是它们可以被其他物质状态多重实现？心理学与神经科学之间是什么关系？唯物主义为真吗？
+      * **自由意志（Free will）**：人类行动是自由的，还是仅仅由脑事件所引起？
+      * **道德心理学（Moral psychology）**：心灵/大脑如何作出伦理判断？
+      * **生命的意义（The meaning of life）**：把心灵自然主义地理解为大脑，它们如何发现价值与意义？
+      * **情绪（Emotions）**：情绪是什么？它们在思维中扮演什么角色？
+      * **意识（Consciousness）**：意识经验能被科学地解释吗，例如通过意识的神经科学？
+      * **精神障碍（Mental disorder）**：精神障碍是什么？心理与神经过程与其说明和治疗有何关联？
+      * **知觉与现实（Perception and reality）**：心灵/大脑如何形成并评价对外部世界的表征？
+      * 知觉与认知：就表征格式与证成而言，知觉与其他种类的认知有何不同？
+      * **实在论（Realism）**：认知科学与心灵把握真实世界的观点相容吗？心灵能是计算机模拟吗？虚拟现实是一种现实吗？
+      * **信息（Information）**：认知科学如何阐明信息与错误信息在心灵与社会中的运作？
+      * **社会科学（Social science）**：对心灵运作的说明，与对群体与社会运作的说明如何相互作用？
+  - id: 50
+    source: "Additional philosophical problems arise from examining the presuppositions of current approaches to cognitive science."
+    step1: "考察当前认知科学进路的预设，会引伸出附加的哲学问题。"
+    step2: "考察当前认知科学各进路的前提预设，还会引出更多的哲学问题。"
+  - id: 51
+    source: "The claim that human minds work by representation and computation is an empirical conjecture and might be wrong. Although the computational-representational approach to cognitive science has been successful in explaining many aspects of human problem solving, learning, and language use, some philosophical critics have claimed that this approach is fundamentally mistaken. Critics of cognitive science have offered such challenges as:"
+    step1: "人类心灵通过表征与计算运作这一主张是一个经验猜想，可能是错的。尽管认知科学的计算-表征进路在说明人类问题求解、学习与语言使用的许多方面是成功的，一些哲学批评者声称这一进路根本上是错误的。认知科学的批评者提出了如下挑战："
+    step2: "人类心灵通过表征与计算而运作，这一主张是经验性的猜想，可能是错的。尽管认知科学的计算—表征进路在说明人类问题求解、学习与语言使用的诸多方面颇为成功，一些哲学批评者却称这一进路根本错误。认知科学的批评者提出了如下种种挑战："
+  - id: 52
+    source: |-
+      1. The emotion challenge: Cognitive science neglects the important role of emotions in human thinking.
+      2. The consciousness challenge: Cognitive science ignores the importance of consciousness in human thinking.
+      3. The world challenge: Cognitive science disregards the significant role of physical environments in human thinking, which is embedded in and extended into the world.
+      4. The body challenge: Cognitive science neglects the contribution of embodiment to human thought and action.
+      5. The dynamical systems challenge: The mind is a dynamical system, not a computational system.
+      6. The social challenge: Human thought is inherently social in ways that cognitive science ignores.
+      7. The mathematics challenge: Mathematical results show that human thinking cannot be computational in the standard sense, so the brain must operate differently, perhaps as a quantum computer.
+      8. The interdisciplinarity challenge: Cognitive science has failed to go beyond multidisciplinary interactions by developing a core theory that unifies work in its many disciplines.
+    step1: |-
+      1. 情绪挑战：认知科学忽视了情绪在人类思维中的重要作用。
+      2. 意识挑战：认知科学忽略了意识在人类思维中的重要性。
+      3. 世界挑战：认知科学无视物理环境在人类思维中的重要作用，而人类思维是嵌入世界并延伸入世界的。
+      4. 身体挑战：认知科学忽视了具身对人类思想与行动的贡献。
+      5. 动力系统挑战：心灵是动力系统，而非计算系统。
+      6. 社会挑战：人类思维本质上是社会的，而认知科学忽视了这一点。
+      7. 数学挑战：数学结果表明，人类思维不可能是标准意义上的计算的，因此大脑必须以不同方式运作，或许作为量子计算机。
+      8. 跨学科挑战：认知科学未能超越多学科互动，通过发展一种统一其众多学科工作的核心理论。
+    step2: |-
+      1. 情绪挑战：认知科学忽视了情绪在人类思维中的重要作用。
+      2. 意识挑战：认知科学无视意识在人类思维中的重要性。
+      3. 世界挑战：认知科学不理会物理环境在人类思维中的重要作用，而人类思维既嵌入世界之中，又延伸入世界。
+      4. 身体挑战：认知科学忽视了具身性对人类思想与行动的贡献。
+      5. 动力系统挑战：心灵是动力系统，不是计算系统。
+      6. 社会挑战：人类思维在某些方面本质上具有社会性，而认知科学忽略了这些方面。
+      7. 数学挑战：数学结果表明，人类思维不可能是标准意义上的计算性的，因此大脑必须以别的方式运作，或许作为一台量子计算机。
+      8. 跨学科挑战：认知科学未能超越多学科的互动，去发展一种把其众多学科的工作统一起来的核心理论。
+  - id: 53
+    source: "The first five challenges are increasingly addressed by advances that explain emotions, consciousness, action, and embodiment in terms of neural mechanisms. The social challenge is being met by the development of computational models of interacting agents. The mathematics challenge is based on misunderstanding of Gödel’s theorem and on exaggeration of the relevance of quantum theory to neural processes. Response to the interdisciplinary challenge must recognize that cognitive science still has many contending theoretical approaches, without the unification that theories of evolution and genetics provide for biology. Nevertheless, interactions among psychology, neuroscience, linguistics, philosophy, anthropology, and computer modeling have contributed to theoretical and empirical progress concerning many aspects of cognition. For example, [computational philosophy](https://plato.stanford.edu/entries/computational-philosophy/#Intr) uses programmed models to address questions in epistemology, ethics, and other areas of philosophy."
+    step1: "前五个挑战正日益被以神经机制说明情绪、意识、行动与具身的进展所应对。社会挑战正通过发展相互作用主体的计算模型而应对。数学挑战基于对哥德尔定理的误解，以及夸大量子理论与神经过程的相关性。对跨学科挑战的回应必须承认，认知科学仍有许多相互竞争的理论进路，缺少进化论与遗传学为生物学提供的统一。然而，心理学、神经科学、语言学、哲学、人类学与计算机建模之间的互动，已对关于认知许多方面的理论与经验进步作出贡献。例如，[计算哲学](https://plato.stanford.edu/entries/computational-philosophy/#Intr) 使用程序化模型来处理认识论、伦理学与哲学其他领域中的问题。"
+    step2: "前五个挑战，正日益被那些以神经机制说明情绪、意识、行动与具身的进展所回应。社会挑战则通过发展关于相互作用主体的计算模型来应对。数学挑战建立在对哥德尔定理的误解之上，也建立在对量子理论与神经过程之相关性的夸大之上。回应跨学科挑战时，必须承认认知科学仍有众多相互竞争的理论进路，缺少进化论与遗传学为生物学所提供的那种统一。尽管如此，心理学、神经科学、语言学、哲学、人类学与计算机建模之间的互动，已为认知诸多方面的理论与经验进步作出贡献。例如，[计算哲学](https://plato.stanford.edu/entries/computational-philosophy/#Intr) 运用程序化模型处理认识论、伦理学及其他哲学领域的问题。"
+  - id: 54
+    source: "Cognitive science raises many interesting methodological questions that are worthy of investigation by philosophers of science. What is the nature of representation? What role do computational models play in the development of cognitive theories? What is the relation among apparently competing accounts of mind involving symbolic processing, neural networks, and dynamical systems? What is the relation among the various fields of cognitive science such as psychology, linguistics, and neuroscience? Are psychological phenomena subject to reductionist explanations via neuroscience? Are levels of explanation best characterized in terms of ontological levels (molecular, neural, psychological, social) or methodological ones (computational, algorithmic, physical)?"
+    step1: "认知科学提出许多有趣的、值得科学哲学家研究的方法论问题。表征的本性是什么？计算模型在认知理论的发展中扮演什么角色？涉及符号加工、神经网络与动力系统的明显竞争的心灵说明之间是什么关系？认知科学各领域（如心理学、语言学与神经科学）之间是什么关系？心理现象可经由神经科学作还原论说明吗？说明的层次最好以本体论层次（分子、神经、心理、社会）还是方法论层次（计算、算法、物理）来刻画？"
+    step2: "认知科学提出许多有趣的方法论问题，值得科学哲学家研究。表征的本性是什么？计算模型在认知理论的发展中起什么作用？涉及符号加工、神经网络与动力系统的、显然彼此竞争的心灵说明之间是什么关系？心理学、语言学、神经科学等认知科学各领域之间是什么关系？心理现象能否接受经由神经科学的还原论说明？说明的层次，最好以本体论层次（分子、神经、心理、社会）还是方法论层次（计算的、算法的、物理的）来刻画？"
+  - id: 55
+    source: "The increasing prominence of neural explanations in cognitive, social, developmental, and clinical psychology raises important philosophical questions about explanation and reduction. Anti-reductionism, according to which psychological explanations are completely independent of neurological ones, is becoming increasingly implausible, but it remains controversial to what extent psychology can be reduced to neuroscience and molecular biology. Crucial to answering questions about the nature of reduction are answers to questions about the nature of explanation. Explanations in psychology, neuroscience, and biology in general are plausibly viewed as descriptions of mechanisms, which are combinations of connected parts that interact to produce regular changes. In psychological explanations, the parts are mental representations that interact by computational procedures to produce new representations. In neuroscientific explanations, the parts are neural populations that interact by electrochemical processes to produce new neural activity that leads to actions. If progress in theoretical neuroscience continues, it should become possible to tie psychological to neurological explanations by showing how mental representations such as concepts are constituted by activities in neural populations, and how computational procedures such as spreading activation among concepts are carried out by neural processes."
+    step1: "神经说明在认知、社会、发展与临床心理学中日渐突出，引发关于说明与还原的重要哲学问题。反还原论——按照它心理说明完全独立于神经说明——正变得日益不可信，但心理学能在多大程度上还原为神经科学与分子生物学仍有争议。回答关于还原本性的问题，关键在于回答关于说明本性的问题。心理学、神经科学以及一般生物学中的说明，可合理被视为对机制的描述，机制是相互作用的连接部件之组合，以产生规则的变化。在心理说明中，部件是心理表征，它们通过计算程序相互作用以产生新的表征。在神经科学说明中，部件是神经群体，它们通过电化学过程相互作用以产生导致行动的新神经活动。如果理论神经科学继续进步，应当有可能通过表明诸如概念之类的心理表征如何由神经群体中的活动构成、以及诸如概念间激活扩散之类的计算程序如何由神经过程执行，从而把心理说明与神经说明联系起来。"
+    step2: "神经说明在认知、社会、发展与临床心理学中日渐突出，引发出关于说明与还原的重要哲学问题。反还原论——即认为心理说明完全独立于神经说明——正变得日益不可信；但心理学能在多大程度上还原为神经科学与分子生物学，仍有争议。回答关于还原本性的问题，关键在于回答关于说明本性的问题。心理学、神经科学乃至一般生物学中的说明，可以合理地视为对机制的描述；机制是相互作用的连接部件之组合，它们相互作用以产生规则的变化。在心理说明中，部件是心理表征，它们通过计算程序相互作用，产生新的表征。在神经科学说明中，部件是神经群体，它们通过电化学过程相互作用，产生导致行动的新神经活动。倘若理论神经科学继续进步，我们应当有可能把心理说明与神经说明联系起来。具体而言，即说明心理表征（如概念）如何由神经群体中的活动构成，以及计算程序（如概念间的激活扩散）如何由神经过程执行。"
+  - id: 56
+    source: "The increasing integration of cognitive psychology with neuroscience provides evidence for the mind-brain identity theory according to which mental processes are neural, representational, and computational. Other philosophers dispute such identification on the grounds that minds are embodied in biological systems and extended into the world. However, moderate claims about embodiment are consistent with the identity theory because brain representations operate in several modalities (e.g. visual and motor) that enable minds to deal with the world. Another materialist alternative to mind-brain identity comes from recognizing that explanations of mind employ molecular and social mechanisms as well as neural and representational ones."
+    step1: "认知心理学与神经科学日益增长的整合，为心脑同一论提供证据，按照该理论心理过程是神经的、表征性的与计算性的。其他哲学家基于心灵被具身于生物系统并延伸入世界而反驳这种同一。然而，关于具身的温和主张与同一论相容，因为大脑表征在若干模态（如视觉与运动）中运作，使心灵能够与世界打交道。心脑同一的另一种唯物论替代，来自承认对心灵的说明既运用分子与社会机制，也运用神经与表征机制。"
+    step2: "认知心理学与神经科学日益加深的整合，为心脑同一论提供了证据；按照该理论，心理过程是神经过程，也是表征过程与计算过程。其他哲学家则否认这种同一，理由是心灵具身于生物系统之中，并延伸入世界。不过，关于具身的温和主张与同一论是相容的，因为大脑表征在若干模态（如视觉与运动）中运作，使心灵得以与世界打交道。心脑同一的另一条唯物论替代进路，来自承认对心灵的说明既运用分子与社会机制，也运用神经与表征机制。"
