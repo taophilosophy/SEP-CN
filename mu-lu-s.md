@@ -836,6 +836,8 @@ outline: [1, 6]
 
 # 哲学通论
 
+
+## 语言哲学与逻辑学
 ### 逻辑学家
 
 * [阿瑟·普赖尔 Prior, Arthur (B. Jack Copeland)](p/prior.md)

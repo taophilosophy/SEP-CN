@@ -274,10 +274,10 @@ def inline_to_md(html, slug=None):
     # <b> 保结构稳定。<b>（数学记号粗体，如 <b>P</b>(<em>H</em>)）保留 raw
     # HTML 不转 md 星：与 <em>/字面星交错会产生星流奇偶错位并连锁整段
     def _md_bold(m):
-        inner = m.group(1)
+        inner = m.group(1).strip()
         return ('<b>%s</b>' % inner) if '*' in inner else ('**%s**' % inner)
 
-    s = re.sub(r'<(?:em|i)>([^<]*)</(?:em|i)>', r'*\1*', s, flags=re.I)
+    s = re.sub(r'<(?:em|i)>([^<]*)</(?:em|i)>', lambda m: '*' + m.group(1).strip() + '*', s, flags=re.I)
     s = re.sub(r'<strong>([^<]*)</strong>', _md_bold, s, flags=re.I)
     s = re.sub(r'<code>([^<]*)</code>', r'`\1`', s, flags=re.S | re.I)
     s = re.sub(r'<br\s*/?>', ' ', s, flags=re.I)

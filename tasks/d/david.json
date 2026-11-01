@@ -1,0 +1,22 @@
+{
+  "slug": "david",
+  "kind": "retranslate",
+  "zh_doc": "d/david.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T22:26:54Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:09:32Z",
+  "version_pin": {
+    "pubinfo_date": "May 18, 2018",
+    "archive_edition": "Summer 2018",
+    "sha256": "bbda8f36a5c260376a4d9b7bedd0d5c70d355baad78b280e863dd7ef12dbd976"
+  }
+}

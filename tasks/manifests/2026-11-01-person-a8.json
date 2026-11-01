@@ -1,0 +1,26 @@
+{
+ "batch": "2026-11-01-person-a8",
+ "scope": "person 查遗续批（rank 335-410）：人物 20（含补遗 2）+ 术语 3 直裁；池清理重分型 44 拒 26；Routley 归并行扩充",
+ "published_persons": [
+  {"en": "William Paley", "zh": "威廉·佩利"}, {"en": "John Earman", "zh": "约翰·厄尔曼"},
+  {"en": "John Norton", "zh": "约翰·诺顿"}, {"en": "Norman Malcolm", "zh": "诺曼·马尔科姆"},
+  {"en": "John Harsanyi", "zh": "约翰·海萨尼", "basis": "审定“海萨尼”在案（博弈论）"},
+  {"en": "John MacFarlane", "zh": "约翰·麦克法兰"}, {"en": "Jean Hampton", "zh": "让·汉普顿"},
+  {"en": "Richard Fitzralph", "zh": "理查德·菲茨拉尔夫"}, {"en": "Samuel Scheffler", "zh": "塞缪尔·谢弗勒"},
+  {"en": "José Ortega", "zh": "何塞·奥尔特加"}, {"en": "Michael Moore", "zh": "迈克尔·摩尔", "note": "法哲学；与纪录片导演同名"},
+  {"en": "Donna Haraway", "zh": "唐娜·哈拉维"}, {"en": "Richard Boyd", "zh": "理查德·博伊德"},
+  {"en": "Richard Lewontin", "zh": "理查德·列万廷"}, {"en": "Robert Holcot", "zh": "罗伯特·霍尔科特"},
+  {"en": "Derk Pereboom", "zh": "德克·佩雷布姆"}, {"en": "Arius Didymus", "zh": "阿里乌斯·迪迪穆斯"},
+  {"en": "David Davies", "zh": "大卫·戴维斯"}, {"en": "Stuart Hampshire", "zh": "斯图尔特·汉普希尔"}
+ ],
+ "published_terms": [
+  {"en": "Trolley Problem", "zh": "电车难题", "basis": "学界惯例（伦理学/行动哲学）"},
+  {"en": "Four Dimensionalism", "zh": "四维主义", "basis": "学界惯例（形而上学）"},
+  {"en": "Saṃdhinirmocana Sūtra", "zh": "《解深密经》", "basis": "学界惯例（佛典译名）"}
+ ],
+ "alias_extension": "Routley, Richard 行原文扩充 / Richard Routley（名前姓后变体归并）",
+ "pool_cleanup": "重分型 44+14（两轮）、rejected 26（地理/机构/日期残片/截断/虚构）",
+ "incident": "登记脚本两处锚点错位（Trota/Seuse 行不存在）→ 手工补插；José Ortega 漏列与 Michael Moore 误拒 → 补遗脚本修正",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（22 键，tl-person-a8 三批）",
+ "registry_sync": "yi-zhe-shuo-ming.md +3 行（手工补插 2 + Trolley 自动）、ren-ming-biao.md +20 行、ci-hui-biao.md +22 行"
+}

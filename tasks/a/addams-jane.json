@@ -2,8 +2,16 @@
   "slug": "addams-jane",
   "kind": "retranslate",
   "zh_doc": "a/addams-jane.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T07:48:35Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:34Z",
   "version_pin": {

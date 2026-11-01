@@ -17,8 +17,8 @@
   },
   "b": {
    "phase": "pending",
-   "claimed_by": null,
-   "claimed_at": null,
+   "claimed_by": "b组翻译代理",
+   "claimed_at": "2026-10-31T22:04:32Z",
    "note": "交叉同步演练认领已释放，阶段复位 pending（演练未做实际 intake 工作）",
    "advanced_at": "2026-10-27T12:10:00Z"
   },
@@ -170,5 +170,5 @@
    "advanced_at": "2026-10-27T11:31:25Z"
   }
  },
- "updated_at": "2026-10-28T16:35:48Z"
+ "updated_at": "2026-10-31T22:04:32Z"
 }

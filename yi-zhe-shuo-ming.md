@@ -362,6 +362,27 @@
 | Wolffianism | 沃尔夫主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | īśvara | 自在天（亦作“自在”） | 语料回收 | 学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | yì | 义（義） | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
+| Boolean algebra | 布尔代数 | 首现（boolalg-math） | 学界惯例（数学教材通行译名） | 2026-11-01 |
+| Boolean-valued model | 布尔值模型（亦作“布尔值模型论”） | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
+| ultrafilter | 超滤子 | 首现（boolalg-math） | 学界惯例（集合论/拓扑通行译名） | 2026-11-01 |
+| subalgebra | 子代数 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
+| homomorphism | 同态 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
+| isomorphism | 同构 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
+| interval algebra | 区间代数 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
+| tree algebra | 树代数 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
+| free algebra | 自由代数 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
+| completion | 完备化 | 首现（boolalg-math） | 学界惯例（序理论通行译名） | 2026-11-01 |
+| atomless | 无原子 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
+| idempotent | 幂等 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
+| distributive law | 分配律 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
+| atom (of a Boolean algebra) | 原子（布尔代数的原子） | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
+| partial order | 偏序 | 首现（boolalg-math） | 学界惯例（序理论通行译名） | 2026-11-01 |
+| least upper bound | 最小上界（亦作“上确界”） | 首现（boolalg-math） | 学界惯例（序理论通行译名） | 2026-11-01 |
+| greatest lower bound | 最大下界（亦作“下确界”） | 首现（boolalg-math） | 学界惯例（序理论通行译名） | 2026-11-01 |
+| disjunctive normal form | 析取范式 | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
+| Stone representation theorem | 斯通表示定理 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
+| Lindenbaum–Tarski algebra | 林登鲍姆–塔尔斯基代数 | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
+| Sikorski's extension criterion | 西科尔斯基扩张判准 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 

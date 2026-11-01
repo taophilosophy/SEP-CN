@@ -2,8 +2,16 @@
   "slug": "descartes-ethics",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ethics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T22:34:07Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:03Z",
   "version_pin": {

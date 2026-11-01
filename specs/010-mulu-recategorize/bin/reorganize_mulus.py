@@ -388,6 +388,89 @@ def main():
     for t, body in wblocks:
         west2.extend(body)
 
+    # R10 拆"现代西方哲学 1750-1900"为 19/20 世纪两节（用户批准方案 b；断代判定基准=PhilPapers 主归属+成熟代表作年）
+    S19 = {
+        'fechner', 'wilhelm-wundt', 'transcendentalism', 'thoreau', 'emerson', 'comte',
+        'ernst-mach', 'spencer', 'frege', 'frege-logic', 'frege-hilbert', 'frege-theorem',
+        'whewell', 'twardowski', 'brentano', 'brentano-judgement', 'ehrenfels', 'stumpf',
+        'neo-kantianism', 'friedrich-lange', 'natorp', 'wilhelm-windelband', 'cohen', 'heinrich-rickert',
+        'green', 'bosanquet', 'bradley', 'bradley-moral', 'bradley-regress',
+        'schopenhauer', 'schopenhauer-aesthetics', 'nietzsche', 'nietzsche-life-works',
+        'nietzsche-moral-political', 'nietzsche-aesthetics', 'kierkegaard', 'dilthey',
+        'utilitarianism-history', 'bentham', 'well-being', 'godwin', 'mill', 'mill-moral-political',
+        'sidgwick', 'peirce', 'peirce-logic', 'peirce-semiotics', 'peirce-benjamin',
+        'royce', 'wright', 'james-ward', 'james-mill', 'alexander-humboldt', 'alexander-crummell',
+    }
+    # west2 拆 h2 块
+    wb = split_sub(west2[1:])
+    bi_mod = next(i for i, (t, b) in enumerate(wb) if t and t.startswith('现代西方哲学'))
+    body = wb[bi_mod][1]
+    # 1) 仅拆 austin-jl 下误挂嵌套块（hare…alexander-crummell 18 条英国伦理学家/亚历山大系群）：块内缩进整体减 2，其余合法嵌套保留
+    out_body = []
+    in_wb_block = False
+    for it in body:
+        if it[0] == 'li':
+            ind = len(it[1].indent)
+            if ind == 0:
+                in_wb_block = (it[1].slug == 'austin-jl')
+                out_body.append(it)
+            elif in_wb_block and ind >= 2:
+                out_body.append(('li', Li(it[1].indent[2:], it[1].text, it[1].target, it[1].tail)))
+            else:
+                out_body.append(it)
+        else:
+            out_body.append(it)
+    body = out_body
+    # 2) 特殊移节三摘：alexander-aphrodisias→中期希腊哲学、james-viterbo→经院哲学、marx→马克思主义节
+    def take(slugs, seq):
+        take_set = set(slugs)
+        got, rest = [], []
+        i = 0
+        while i < len(seq):
+            it = seq[i]
+            if it[0] == 'li' and it[1].slug in take_set:
+                base = len(it[1].indent)
+                got.append(it)
+                j = i + 1
+                while j < len(seq):
+                    if seq[j][0] == 'li' and len(seq[j][1].indent) > base:
+                        got.append(seq[j]); j += 1
+                    else:
+                        break
+                i = j
+            else:
+                rest.append(it); i += 1
+        return rest, got
+    body, move_anc = take({'alexander-aphrodisias'}, body)
+    body, move_vit = take({'james-viterbo'}, body)
+    body, move_marx = take({'marx'}, body)
+    # 3) 按 S19 分组（保持原相对顺序）
+    seq19, seq20 = [], []
+    for it in body:
+        (seq19 if (it[0] == 'li' and it[1].slug in S19) or (it[0] != 'li') else seq20).append(it)
+        if it[0] != 'li':
+            # raw 行归入 19C 节前的间隔行不复制——跳过空行，渲染时统一
+            if seq19 and it[0] != 'li':
+                seq19.pop()
+    # 4) 重组两节替换原块
+    wb[bi_mod:bi_mod+1] = [
+        (('19 世纪西方哲学 1750-1900'), [('h', 2, '19 世纪西方哲学 1750-1900')] + seq19),
+        (('20 世纪西方哲学 1900—'), [('h', 2, '20 世纪西方哲学 1900—')] + seq20),
+    ]
+    # 5) 特殊条目归位
+    bi_gk = next(i for i, (t, b) in enumerate(wb) if t and t.startswith('中期希腊哲学'))
+    wb[bi_gk] = (wb[bi_gk][0], wb[bi_gk][1] + move_anc)
+    bi_js = next(i for i, (t, b) in enumerate(wb) if t and t.startswith('经院哲学'))
+    wb[bi_js] = (wb[bi_js][0], wb[bi_js][1] + move_vit)
+    bi_mz = next(i for i, (t, b) in enumerate(wb) if t and t.startswith('马克思主义'))
+    wb[bi_mz] = (wb[bi_mz][0], wb[bi_mz][1] + move_marx)
+    # 6) 回写 west2
+    west2 = [('h', 1, '西方哲学史')]
+    for t, b in wb:
+        west2.extend(b)
+    r_notes.append('R10 拆断代节：19 世纪 %d 条 / 20 世纪 %d 条；austin-jl 下误挂嵌套块 18 条拆平铺；alexander-aphrodisias→中期希腊、james-viterbo→经院、marx→马克思主义节' % (
+        sum(1 for it in seq19 if it[0] == 'li'), sum(1 for it in seq20 if it[0] == 'li')))
+    new_items = new_items[:new_items.index(('h', 1, '西方哲学史'))] + west2 + new_items[new_items.index(('h', 1, '区域哲学')):]
     # 区域哲学手术（对 new_region 拆块）
     rblocks = split_sub(new_region[1:])
     # R2 韩国三条归位

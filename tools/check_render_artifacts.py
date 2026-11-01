@@ -44,7 +44,7 @@ def main():
                 by_kind.setdefault(k, []).append({"file": os.path.relpath(p, dist), "count": v})
     summary = {
         "pages": pages,
-        "pages_with_artifacts": len({p for lst in by_kind.values() for p in lst}),
+        "pages_with_artifacts": len({x["file"] for lst in by_kind.values() for x in lst}),
         "kinds": {
             k: {"pages": len(v), "total": sum(x["count"] for x in v), "top": sorted(v, key=lambda x: -x["count"])[:8]}
             for k, v in by_kind.items()
