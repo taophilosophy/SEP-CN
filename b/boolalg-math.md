@@ -1,1 +1,113 @@
 # 数学中的逻辑代数 the mathematics of (J. Donald Monk)
+
+*首次发表于 2002 年 7 月 5 日；2018 年 7 月 11 日实质修订。*
+
+布尔代数是只有命题联结词的两值逻辑的代数，或者等价地，是在并与补运算之下的集合的代数。其严格概念是某种代数的概念，类似于数学中群的概念。这一概念在逻辑学（林登鲍姆–塔尔斯基（Lindenbaum-Tarski）代数与模型论）、集合论（集合域）、拓扑学（完全不连通紧豪斯多夫（Hausdorff）空间）、集合论基础（布尔值模型）、测度论（测度代数）、泛函分析（投影代数）以及环论（布尔环）中皆有根源与应用。布尔代数的研究有多个方面：结构理论、布尔代数的模型论、布尔代数类的可判定性与不可判定性问题，以及上述应用。此外，虽然此处不作解释，它与其他逻辑也有联系，作为特殊代数逻辑的一部分被纳入，并与有限布尔代数和开关电路理论、布尔矩阵有联系。
+
+## 1 定义与简单性质
+
+一个布尔代数（BA）是一个集合 $A$ 连同二元运算 + 与 $\cdot$、一个一元运算 $-$，以及 $A$ 的元素 0、1，使得以下定律成立：加法和乘法的交换律与结合律、乘法对加法与加法对乘法的分配律，以及以下特殊定律：
+
+$$\begin{align*} x + (x \cdot y) &= x \\ x \cdot(x + y) &= x \\ x + (-x) &= 1 \\ x \cdot(-x) &= 0 \end{align*}$$
+
+这些定律通过 BA 的基本例子更好理解：它由集合 $X$ 的子集的一个集合 $A$ 组成，对并、交、关于 $X$ 的补运算封闭，以 $\varnothing$ 和 $X$ 为成员。记住这个例子作为动机，人们可以容易地从这些公理推出许多初等定律。任何 BA 都有一个自然偏序 $\le$ 定义其上：$x \le y$ 当且仅当 $x + y = y$。在我们的主要例子中这对应 $\subseteq$。特别重要的是两元素 BA，由取集合 $X$ 恰有一个元素形成。两元素 BA 显示了与初等逻辑的直接联系。两个成员 0 和 1 分别对应假与真。布尔运算于是表达析取（with $+)$、合取（with $\cdot)$ 与否定（with $-)$ 的通常真值表。一个重要的初等结果是：一个等式在所有 BA 中成立当且仅当它在两元素 BA 中成立。接下来，我们定义 $x \oplus y = (x \cdot -y) + (y \cdot -x)$。于是 $A$ 连同 $\oplus$ 和 $\cdot$，以及 0 和 1，构成一个带单位元的环，其中每个元素都幂等。反过来，给定这样的环，加法为 $\oplus$、乘法，定义 $x + y = x \oplus y \oplus(x \cdot y)$ 与 $-x = 1 \oplus x$。这使环成为一个 BA。这两个过程互为逆，表明布尔代数理论与带单位元且每个元素幂等的环理论在定义上等价。这把 BA 理论置于代数中一个标准的研究对象。BA 中的原子是非零元素 $a$，使得不存在元素 $b$ 满足 $0 \lt b \lt a$。BA 是原子的，若其每个非零元素都在某个原子之上。有限 BA 是原子的，许多无穷 BA 也是。在上述偏序 $\le$ 下，$x + y$ 是 $x$ 和 $y$ 的最小上界，$x \cdot y$ 是 $x$ 和 $y$ 的最大下界。我们可以推广：$\Sigma X$ 是元素集合 $X$ 的最小上界，$\Pi X$ 是元素集合 $X$ 的最大下界。这些并非在所有布尔代数的所有集合中都存在；若它们总是存在，则称该布尔代数是完备的。
+
+## 2 初等代数理论
+
+布尔代数的若干代数构造有显然的定义与简单性质：子代数、同态、同构与直积（甚至无限多个代数的直积）。另一些标准代数构造更特别地属于 BA。BA 中的理想是子集 $I$，对 + 封闭，以 0 为成员，并且若 $a \le b \in I$，则也有 $a \in I$。虽然并非一目了然，这与环论概念相同。存在滤子的对偶概念（在一般环中普遍没有对应物）。滤子是子集 $F$，对 $\cdot$ 封闭，以 1 为成员，并且若 $a \ge b \in F$，则也有 $a \in F$。$A$ 上的超滤子是滤子 $F$，具有以下性质：$0 \not\in F$，且对任意 $a \in A$，要么 $a \in F$，要么 $-a \in F$。对任意 $a \in A$，令
+
+$$ S(a)= \{F : F \text{ is an ultrafilter on } A \text{ and } a \in F\}. $$
+
+于是 $S$ 是同构，映到 $A$ 上所有超滤子之集合 $X$ 的子集的一个 BA 上。这确立了基本的斯通（Stone）表示定理，并澄清了 BA 作为具体集合代数的起源。此外，集合 $S(a)$ 可被宣布为 $X$ 上拓扑的一个基，这使 $X$ 成为一个完全不连通紧豪斯多夫空间。这确立了 BA 类与这类空间之间的一一对应。作为推论——在 BA 理论中大量使用——许多拓扑定理与概念对 BA 有推论。若 $x$ 是 BA 的元素，我们令 $0x = -x$ 与 $1x = x$。若 $(x$(0), $\ldots x(m - 1))$ 是 BA $A$ 的元素的有穷序列，则由 $\{x(0), \ldots, x(m - 1)\}$ 生成的 $A$ 的子代数的每个元素都可写成单项式 $e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1)$ 之和，其中 $e$ 在某个把 $m = \{0,\ldots , m - 1\}$ 映到 $2 = \{0, 1\}$ 的函数集合中。这是命题逻辑析取范式定理的代数表达。若 $f$ 是从 BA $A$ 的生成元集合 $X$ 到 BA $B$ 的函数，则 $f$ 可扩张为同态当且仅当
+
+$$ e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1) = 0 $$
+
+总是蕴含
+
+$$e(0)f(x(0)) \cdot \ldots \cdot e(m - 1)f(x(m - 1)) = 0. $$
+
+这是西科尔斯基（Sikorski）的扩张判准。每个 BA $A$ 都可嵌入一个完备 BA $B$，使得 $B$ 的每个元素都是 $A$ 的元素集合的最小上界。$B$ 在 $A$-同构意义下唯一，称为 $A$ 的完备化。若 $f$ 是从 BA $A$ 到完备 BA $B$ 的同态，且 $A$ 是 $C$ 的子代数，则 $f$ 可扩张为 $C$ 到 $B$ 的同态。这是西科尔斯基的扩张定理。另一个适用于布尔代数的普遍代数概念是自由代数的概念。对 BA 它可以具体构造。即，$\kappa$ 上的自由 BA 是两元素离散空间升到 $\kappa$ 次幂的闭开子集的 BA。
+
+## 3 布尔代数的特殊类
+
+布尔代数有许多特殊类，无论对 BA 的内在理论还是对应用都很重要：
+
+- 原子 BA，上文已提到。
+- 无原子 BA，定义为没有任何原子的 BA。例如，任何无限自由 BA 都是无原子的。
+- 完备 BA，上文已定义。它们在集合论基础中特别重要。
+- 区间代数。这些是从带首元素的线性序集 $(L, \lt)$ 如下导出的。取 $L$ 的子集的最小代数，包含所有半开区间 [$a, b)$，其中 $a$ 在 $L$ 中，$b$ 在 $L$ 中或等于 $\infty$。这些 BA 在研究林登鲍姆–塔尔斯基代数时有用。每个可数 BA 都同构于一个区间代数，因此一个可数 BA 可以通过指明一个序集来描述，使得它同构于相应的区间代数。
+- 树代数。树是偏序集 $(T, \lt)$，其中任何元素的前驱集合都是良序的。给定这样一棵树，考虑 $T$ 的子集代数，由所有形如 $\{b : a \le b\}$（对 $T$ 中某个 $a$）的集合生成。
+- 超原子 BA。这些 BA 不仅原子，而且每个子代数和同态像都是原子的。
+
+## 4 结构理论与布尔代数上的基数函数
+
+布尔代数的许多更深层理论——关于其结构与分类——可以用为所有布尔代数定义的、以无穷基数为值的某些函数来表述。我们定义这些基数函数中较重要的几个，并陈述一些已知的结构事实，它们大多以此表述。
+
+1. BA 的胞腔度（cellularity）$c(A)$ 是 $A$ 中两两不交元素集合的基数的上确界。
+2. BA $A$ 的子集 $X$ 是独立的，若 $X$ 是它所生成的子代数的自由生成元集合。$A$ 的独立度（independence）是 $A$ 的独立子集基数的上确界。
+3. BA $A$ 的子集 $X$ 在 $A$ 中稠密，若 $A$ 的每个非零元素都 $\ge$ $X$ 的一个非零元素。$A$ 的 $\pi$-权（$\pi$-weight）是 $A$ 的稠密子集的最小基数。
+4. $A$ 的两个元素 $x, y$ 不可比较，若没有一个 $\le$ 另一个。$A$ 中由两两不可比较元素组成的子集 $X$ 的基数的上确界是 $A$ 的不可比度（incomparability）。
+5. $A$ 的子集 $X$ 是无冗余的（irredundant），若 $X$ 中没有元素在其他元素生成的子代数中。
+
+关于胞腔度的一个重要事实是厄多斯–塔尔斯基（Erdős-Tarski）定理：若 BA 的胞腔度是奇异基数，则实际上存在该大小的不交元素集合；对于胞腔度为正则极限（不可达）的情形，存在反例。每个无穷完备 BA 都有一个与代数同大小的独立子集。每个无穷 BA $A$ 都有一个无冗余的不可比子集，其大小为 $A$ 的 $\pi$-权。每个区间代数都有可数独立度。超原子代数甚至没有无穷独立子集。每个树代数都可嵌入一个区间代数。只有恒等自同构的 BA 称为刚性的。存在刚性完备 BA，也存在刚性区间代数和刚性树代数。
+
+更近期，许多 min-max 型基数函数被研究。例如，小独立度是无穷极大独立集的最小大小；小胞腔度是无穷个单位划分的最小大小。
+
+## 5 可判定性与不可判定性问题
+
+塔尔斯基的一个基本结果是：布尔代数的初等理论是可判定的。即使带有一个指定理想的布尔代数理论也是可判定的。另一方面，带有一个指定子代数的布尔代数理论是不可判定的。可判定性与不可判定性结果都以各种方式扩展到一阶逻辑的扩张中的布尔代数。
+
+## 6 林登鲍姆–塔尔斯基代数
+
+一个非常重要的构造——可推广到许多逻辑和除布尔代数外的许多代数——是与某个逻辑中的语句相关联的布尔代数的构造。最简单的情形是命题逻辑。这里有语句符号，以及由它们构造更长语句的常见联结词：析取、合取与否定。给定此语言中的语句集 $A$，两个语句 $s$ 和 $t$ 模 $A$ 等价，当且仅当它们之间的双条件式是 $A$ 的逻辑后承。等价类可做成一个 BA，使得 + 对应析取、$\cdot$ 对应合取、$-$ 对应否定。任何 BA 都同构于这种形式之一。对一阶理论可以做类似的事。设 $T$ 是一阶语言 $L$ 中的一阶理论。我们称公式 $\phi$ 与 $\psi$ 等价，若 $T \vdash \phi \leftrightarrow \psi$。语句 $\phi$ 的等价类记为 [$\phi$]。设 $A$ 是此等价关系下所有等价类的集合。我们可以通过以下定义把 $A$ 做成一个 BA，这些定义容易证明成立：
+
+$$\begin{align*} [\phi] + [\psi] &= [\phi \vee \psi] \\ [\phi] \cdot[\psi] &= [\phi \wedge \psi] \\ -[\phi] &= [\neg \phi] \\ 0 &= [\mathrm{F}] \\ 1 &= [\mathrm{T}] \end{align*}$$
+
+每个 BA 都同构于一个林登鲍姆–塔尔斯基代数。然而，这些经典林登鲍姆–塔尔斯基代数最重要的用途之一，是为重要理论（通常是可判定理论）描述它们。对可数语言，这可以通过描述其同构的区间代数来完成。一般这给出对该理论的透彻了解。一些例子是：
+
+|   | **理论** | **同构于其上的区间代数** |
+| :---: | :---: | :---: |
+| (1) | 本质不可判定理论 | $\mathbb{Q}$，有理数 |
+| (2) | BA | $\mathbb{N} \times \mathbb{N}$，正整数的平方，按字典序排序 |
+| (3) | 线性序 | $\mathbf{A} \times \mathbb{Q}$ 按反字典序排序，其中 $\mathbf{A}$ 是通常序下的 $\mathbb{N}^\mathbb{N}$ |
+| (4) | 阿贝尔群 | $(\mathbb{Q} + \mathbf{A}) \times \mathbb{Q}$ |
+
+## 7 布尔值模型
+
+在模型论中，可以取任何完备 BA 中的值，而不只是两元素 BA。这种布尔值模型论约在 1950–1970 年间发展起来，但此后未受太多研究。但一个特殊情形——集合论的布尔值模型——非常处于当前集合论研究的前沿。它实际上构成看待科恩（Cohen）的力迫构造的一种等价方式，并有一些技术上的优点和缺点。在哲学上它似乎比力迫概念更令人满意。我们在此描述这个集合论情形；然后就会明白为什么只考虑完备 BA。设 B 是一个完备 BA。首先我们定义布尔值宇宙 $V(B)$。通常的集合论宇宙可与 $V$(2) 等同，其中 2 是两元素 BA。定义通过超穷递归进行，其中 $\alpha , \beta$ 是序数，$\lambda$ 是极限序数：
+
+$$\begin{align*} V(B, 0) &= \varnothing \\ V(B, \alpha + 1) &= \{ f : \dom(f) \subset V(B, \alpha) \text{ and } \range(f) \subset B \} \\ V(B, \lambda) &= \bigcup_{\beta \lt \lambda} V(B, \beta). \end{align*}$$
+
+其中 $\dom(f)$ 是函数 $f$ 的定义域，$\range(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，通过对良基集合上的一个相当复杂的超穷递归，定义集合论公式的值，其自由变量赋以布尔值宇宙的元素：
+
+$$\begin{align*} \val{x \in y} &= \sum_{t \in \dom(y)} \val{x=t}\cdot y(t) \\ \val{x \subseteq y} &= \prod_{t \in \dom(x)} -x(t) + \val{t \in y} \\ \val{x = y} &= \val{x \subseteq y} \cdot \val{y \subseteq x} \\ \val{\neg \phi} &= -\val{\phi} \\ \val{\phi \vee \psi} &= \val{\phi} + \val{\psi} \\ \val{\exists x\phi(x)} &= \sum_{a \in V(B)} \val{\phi(a)}. \end{align*}$$
+
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+## 学术工具
+
+> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boolalg-math). |
+> | --- | --- |
+> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/boolalg-math/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=boolalg-math&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Enhanced bibliography for this entry](http://philpapers.org/sep/boolalg-math/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## 其他网络资源
+
+[欢迎向作者提出建议。]
+
+## 相关词条
+
+代数 | 逻辑代数的传统 | 乔治·布尔 | 代数命题逻辑 | 模型论 | 集合论
+
+[^halmos-1963]: Halmos, P., 1963, *Lectures on Boolean Algebras*, Princeton: Van Nostrand
+
+[^heindorf-1994]: Heindorf, L., and Shapiro, L., 1994, *Nearly projective Boolean algebras*, Lecture Notes in Mathematics no. 1596, Berlin: Springer-Verlag
+
+[^jech-1997]: Jech, T., 1997, *Set Theory*, 2nd corrected edition, Berlin, New York: Springer-Verlag
+
+[^monk-1989]: Monk, J. D., and R. Bonnet (eds.), 1989, *Handbook of Boolean algebras*, 3 volumes, Amsterdam: North-Holland.
+
+[^monk-2014]: Monk, J. D., 2014, *Cardinal Invariants on Boolean Algebras, Second Revised Edition*, Basel: Birkaüser

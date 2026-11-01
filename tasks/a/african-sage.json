@@ -2,13 +2,24 @@
   "slug": "african-sage",
   "kind": "retranslate",
   "zh_doc": "a/african-sage.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T22:54:32Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:39Z",
   "version_pin": {
     "pubinfo_date": "Feb 22, 2016",
     "archive_edition": "Spring 2016",
     "sha256": "b3d881ce9ee8460f284d30c56185634e94722a758a5999316241946886cc2931"
-  }
+  },
+  "evidence": [
+    "方向声明：把 SEP 词条 African Sage Philosophy（非洲圣贤哲学；作者 Dismas Masolo，2006-02-14 首次发表，2016-02-22 实质修订）自英文译为简体中文，走完 retranslate 前五步 cleared→drafted→s1_checked→s2_checked→s3_checked→r1_reviewed。词条范围：主文 a/african-sage.md（唯一文件，无补充材料/figdesc）。目标读者：中文哲学读者。验收判据：结构完整（节集合与英文源一致）、check_style.py 0 问题、check_academic.py --strict 0 硬错误、check_prose.py 告警清零或逐条豁免留痕、biblio_audit 中国文献已译、脚注键与 yuanwen 逐字符一致、CI 全绿。非目标：不改原文、不补内容、不造引文、不改登记册（yi-zhe-shuo-ming.md/ren-ming-biao.md）、不做 r2/r3/done（由主会话另派复核）。执行者：a-tr-african-sage。"
+  ]
 }

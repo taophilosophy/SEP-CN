@@ -2,8 +2,16 @@
   "slug": "aesthetics-existentialist",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-existentialist.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T23:09:58Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:37Z",
   "version_pin": {

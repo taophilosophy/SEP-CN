@@ -2,8 +2,16 @@
   "slug": "agent-modeling-philscience",
   "kind": "retranslate",
   "zh_doc": "a/agent-modeling-philscience.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T23:10:02Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:09Z",
   "version_pin": {

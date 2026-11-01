@@ -2,8 +2,16 @@
   "slug": "aesthetics-critical-theory",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-critical-theory.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T23:09:58Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:37:58Z",
   "version_pin": {
