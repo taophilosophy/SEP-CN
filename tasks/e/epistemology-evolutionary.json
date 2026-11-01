@@ -2,8 +2,44 @@
   "slug": "epistemology-evolutionary",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-evolutionary.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T20:50:58Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T21:11:43Z",
+      "evidence": "主代理直译：零信任译自 yuanwen/e/epistemology-evolutionary.md（2001-01-11/2020-01-21 版），五节全译+数学公式逐字符保留+文献照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T21:11:44Z",
+      "evidence": "一校：对照源核销 MTPE，幻觉/漏译/增译 0，EEM/EET 术语统一，公式与表格逐项核对"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T21:11:44Z",
+      "evidence": "二校：中文斜体转加粗+bold空格修整，语言回核"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T21:11:45Z",
+      "evidence": "三校：check_style 仅 bibliography 豁免 1 条；check_academic --strict 0；check_math 本词条 0 未配对"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:35Z",
   "version_pin": {
