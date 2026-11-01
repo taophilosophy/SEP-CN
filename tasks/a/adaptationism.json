@@ -2,7 +2,7 @@
   "slug": "adaptationism",
   "kind": "retranslate",
   "zh_doc": "a/adaptationism.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:09:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:20Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（draft 完成）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:21Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（s1 完成）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:23Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（s2 完成）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:24Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（s3 完成）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:25Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（r1 完成）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:25Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（r2 完成）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:26Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（r3 完成）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T04:33:26Z",
+      "evidence": "译文验证：check_style 0 issue + check_academic 0 硬错（done 完成）"
     }
   ],
   "blockers": [],
