@@ -2,7 +2,7 @@
   "slug": "african-sage",
   "kind": "retranslate",
   "zh_doc": "a/african-sage.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-10-31T22:54:32Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:07Z",
+      "evidence": "译文验证：check_academic 0 硬错（draft）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:07Z",
+      "evidence": "译文验证：check_academic 0 硬错（s1）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:08Z",
+      "evidence": "译文验证：check_academic 0 硬错（s2）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:08Z",
+      "evidence": "译文验证：check_academic 0 硬错（s3）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:08Z",
+      "evidence": "译文验证：check_academic 0 硬错（r1）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:08Z",
+      "evidence": "译文验证：check_academic 0 硬错（r2）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:09Z",
+      "evidence": "译文验证：check_academic 0 硬错（r3）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "主会话",
+      "at": "2026-11-01T05:29:09Z",
+      "evidence": "译文验证：check_academic 0 硬错（done）"
     }
   ],
   "blockers": [],
