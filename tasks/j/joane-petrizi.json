@@ -1,0 +1,50 @@
+{
+  "slug": "joane-petrizi",
+  "kind": "retranslate",
+  "zh_doc": "j/joane-petrizi.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:06Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-joane-petrizi",
+      "at": "2026-11-01T21:18:34Z",
+      "evidence": "ledger: 26 segments step1+step2 全部齐备(tasks/j/joane-petrizi.ledger.yaml); source 与 yuanwen 26 段逐字符校验一致; 脚注键 17/17 多重集相等; H1=乔安·佩特里齐 Petrizi, Joane (Tengiz Iremadze)"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-joane-petrizi",
+      "at": "2026-11-01T21:40:09Z",
+      "evidence": "MTPE 对照(26段 vs yuanwen 逐段): 幻觉0; 漏译0; 增译1处已修(seg24 '禀赋'→'标明为人所特有', 源文 designating...as specific to man); 术语漂移: 智性学/智性学说 统一为'智性学说'(seg22/24), 其余 grep 核销: 太一/分有/流溢/善本身/神学要素论/诠释/普罗克洛斯评注/努斯/波菲利/巴门尼德/柏拉图/亚里士多德/普塞洛斯(册内一致); 事实核销: 年代(1658-1726/1720-1788/1768-1830/1248/1651/1757/1752/1937/1940/1984/86章/148-149章) 人名(三位评注者世纪标注/两处Svimeon/Alexidse原拼写保留) 命题号(20/30/75/11) 全部与源一致; 引用组17个逐字符保留; 脚注定义58条照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "sub-joane-petrizi",
+      "at": "2026-11-01T22:01:14Z",
+      "evidence": "check_prose 告警 13 条: 修 11 条/豁免 2 条; 修复: 弱动词2(作出区分→区分/作出实在的设定→实在地设定)、存在句1(既存在着…也存在着→既有…又有…)、长句2(75字拆两句/85字冒号改句号)、被动1(已被证明→事实证明)、的链5(密度削减重写); 豁免留痕2: ①L33 '被产生者'系 the caused 哲学术语(与'原因'对举)非被动句式 ②L29 术语链'纯粹的善/终极本原/超单纯的参照点'(the pure Good/ultimate source/super-simple reference point)削'的'损义; 全部修复已同步账本 step2; 复跑 check_prose 仅剩 2 条已豁免项"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "sub-joane-petrizi",
+      "at": "2026-11-01T22:05:40Z",
+      "evidence": "check_style: 25→4, 修 21 条(italic-cjk 13 条斜体→加粗+邻汉字补半角空格; bold-spacing 8 条同批解决), 余 4 条 curly-quotes 豁免留痕——均在照录英文脚注定义内(153/173/179/191行, 英文排版引号, certainty.md 先例同型残留 6 条为库内既定现状); check_academic --strict 0 硬错误; check_math 0 missing/unbalanced; 尾部节序 References（引用注释）→学术工具→其他网络资源→相关词条, H1 与 SUMMARY 一致, 版本行 2006-08-29/2025-12-27 与 baseline pubinfo 一致, 脚注定义 58 条照录"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:08Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 27, 2025",
+    "archive_edition": "Spring 2026",
+    "sha256": "9f9d4e178e11f4d1daf17ac8afabb427f51f6566aa632f773c0c2e5525d7ce96"
+  }
+}
