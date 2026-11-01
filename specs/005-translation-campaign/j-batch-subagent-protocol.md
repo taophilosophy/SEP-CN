@@ -1,8 +1,8 @@
 # J 批 40 路子代理滚动协议（长线任务）
 
-**日期**：2026-11-01 | **效力**：本会话 38 路子代理滚动执行 J 组 38 词条 retranslate 任务
+**日期**：2026-11-01 | **效力**：本会话子代理滚动执行 J 组 38 词条 retranslate 任务
 **上位依据**：`rules/04-translation-workflow.md`（状态机）、`rules/02-style.md`（体例）、`rules/03-terminology.md`（术语）、`rules/07-academic-norms.md`（学术规范）、`specs/005-translation-campaign/fan-yi-mu-ban.md`（模板 v1.2）、`e-batch-subagent-protocol.md`（母协议，本文件为其 J 化变体）
-**规模裁定**：38 路 ≤ 用户 2026-11-01 批准的 40 路上限（超 plan.md 8 路属已裁定偏离，见 c 批裁定），单波 38 全量起跑。
+**规模裁定**：2026-11-01 曾按 38 路单波起跑；实测 25 路报「user concurrency limit exceeded」（并发额度被 e/h/i 批并行会话共享挤占）。**2026-11-02 用户裁定：降为 2 路并发**，2 路滚动（完成一补一，fresh 模式重派），直至批次收口。
 
 ## 1. 子代理任务边界
 
@@ -98,7 +98,7 @@
 
 ## 12. 长线任务与监控（本会话强化）
 
-* **滚动**：单波 38 路（≤40 路批准上限）；失败/停滞词条按 c 批经验重试，fresh 模式（重译）产出率高于 resume。
+* **滚动**：**2 路并发（用户 2026-11-02 裁定）**，完成一路补一路；重派一律 fresh 模式（重译，产出率高于 resume，见 c 批实测）；派发顺序按 `yuanwen/j/<slug>.md` 字节升序（短词条先验证管线）。
 * **长线**：子代理以 `run_in_background: true` 运行，主代理不阻塞等待（避免死等）。
 * **监控**：主代理周期性运行 `python specs/005-translation-campaign/bin/j_batch_monitor.py`（聚合进度、断点凭证、停滞检测）；超时/浅工（只写 H1 存根）标记重试。
 * **收口**：主代理统一执行 git add/commit（每词条一行中文信息），r1→r3→done 独立复核。
