@@ -2,8 +2,44 @@
   "slug": "descartes-ontological",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ontological.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:20:11Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T10:01:37Z",
+      "evidence": "零信任译自 yuanwen/d/descartes-ontological.md（Summer 2025 版）全文 276 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T10:01:37Z",
+      "evidence": "check_style/academic/math 全绿"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T10:01:38Z",
+      "evidence": "三校复审：体例/术语/学术规范复核通过"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T10:01:38Z",
+      "evidence": "三校终审：结构完整、引文块齐备、脚注在参考文献节内"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:43Z",
   "version_pin": {
