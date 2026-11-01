@@ -2,8 +2,44 @@
   "slug": "du-bos",
   "kind": "retranslate",
   "zh_doc": "d/du-bos.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:17:20Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:31:47Z",
+      "evidence": "初译完成：零信任译自 yuanwen/d/du-bos.md，三检查器全绿"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:31:47Z",
+      "evidence": "自校一：体例修复（法文撇号/中文斜体/脚注区/参考文献标题），check_style 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:31:47Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:31:47Z",
+      "evidence": "自校三：check_math 0，check_style 复跑 0"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:59Z",
   "version_pin": {
