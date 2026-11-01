@@ -2,7 +2,7 @@
   "slug": "david",
   "kind": "retranslate",
   "zh_doc": "d/david.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-10-31T22:26:54Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:09:49Z",
+      "evidence": "初译完成，底稿 yuanwen/d/david.md"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:09:49Z",
+      "evidence": "一校对照源逐节核销，MTPE顺序"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:09:49Z",
+      "evidence": "二校语言优化，反欧化"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:09:50Z",
+      "evidence": "三校体例，三检查器0问题"
     }
   ],
   "blockers": [],
