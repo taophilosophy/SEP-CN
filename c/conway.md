@@ -58,7 +58,7 @@
 
 ### Secondary Sources
 
-## Academic Tools
+## 学术工具
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conway). |
 > | --- | --- |

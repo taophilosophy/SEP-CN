@@ -94,6 +94,8 @@
 
 ## 参考文献
 
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
 [^cudworth-nd]: Cudworth, Ralph, *Three Treatises on “Liberty and Necessity”*, London, British Library, Additional MSS 4978–4982.
 
 [^newton-nd]: Newton, Isaac, “Out of Cudworth”, Los Angeles, CA, William Andrews Clark Memorial Library MS, fN563Z. [[“Out of Cudworth” available online](http://www.newtonproject.ox.ac.uk/view/texts/normalized/THEM00118)]

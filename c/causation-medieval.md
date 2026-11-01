@@ -234,6 +234,14 @@
 
 [^zupko-2001]: Zupko, Jack, 2001, “On Certitude”, in J.M.M.H. Thijssen and Jack Zupko (eds.) *The Metaphysics and Natural Philosophy of John Buridan*, Leiden: Brill, 165–182.
 
+## References（引用注释）
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Literature
+
+### Secondary Literature
+
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=causation-medieval)。

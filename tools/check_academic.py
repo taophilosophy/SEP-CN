@@ -134,12 +134,9 @@ def find_biblio_span(headings):
     """返回参考文献节内容的 (start_lineno, stop_lineno|None)，未找到返回 None。"""
     for pos, (lineno, level, text) in enumerate(headings):
         if text.casefold() in BIBLIO_HEADINGS:
-            # SEP 引用注释方案：转换器把整份文献表转为文末 [^key]: 定义
-            # （References 说明："完整条目见本文末脚注定义"），定义区在文末、
-            # 不在 References 节标题之下；biblio_span 延伸到文末，豁免孤儿误报
-            # （转换器与检查器契约一致；中文"参考文献"节不含"引用注释"字样，不受影响）
-            if '引用注释' in text:
-                return lineno, None
+            # 孤儿豁免已由 check_footnotes 的内容判据（文献表条目含年份/-nd）
+            # 覆盖，biblio_span 保持 References 节标题范围（不延伸）——
+            # 延伸会让相关词条节的译注被误判 trans-note（certainty 实见）。
             for j in range(pos + 1, len(headings)):
                 if headings[j][1] <= level:
                     return lineno, headings[j][0]
