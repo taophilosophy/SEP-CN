@@ -2,7 +2,7 @@
   "slug": "delmedigo",
   "kind": "retranslate",
   "zh_doc": "d/delmedigo.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "主代理",
       "at": "2026-11-01T07:20:48Z",
       "evidence": "自校三：check_math 0 公式缺失衡，check_style 复跑 0，术语先登记后使用（登记册见术语批次）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "r1-reviewer",
+      "at": "2026-11-01T17:02:15Z",
+      "evidence": "独立初审：三检查器全绿；L84 引注漏译已修复并复核；抽检 8-10 段无漏译/错译/事实错误"
     }
   ],
   "blockers": [],
