@@ -8,6 +8,41 @@
 
 ## 术语（希腊文原词保留斜体原文，括注通行译法）
 
+| abstract entities | 抽象实体 | 语料回收（标题词） | 学界惯例（哲学通行（与 abstract objects 抽象对象配对））；凭证 2026-11-01 | 2026-11-01 |
+| Actualism | 现实主义（模态形而上学；亦作“现实论”） | 语料回收（标题词） | 学界惯例（模态形而上学通行；审定“现实论”为地质学域同名不采）；凭证 2026-11-01 | 2026-11-01 |
+| Best Interests standard | 最佳利益标准 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
+| care ethics | 关怀伦理 | 语料回收（标题词） | 审定“关怀伦理学”直接命中（新闻传播学域）；凭证 2026-11-01 | 2026-11-01 |
+| Celestial Masters | 天师道 | 语料回收（标题词） | 审定“天师”佐证（道教）；凭证 2026-11-01 | 2026-11-01 |
+| concrete objects | 具体对象 | 语料回收（标题词） | 学界惯例（哲学通行（与抽象对象相对））；凭证 2026-11-01 | 2026-11-01 |
+| conditional analysis | 条件分析 | 语料回收（标题词） | 学界惯例（能力哲学通行（abilities 词条核心））；凭证 2026-11-01 | 2026-11-01 |
+| constitutive aim | 构成性目的 | 语料回收（标题词） | 学界惯例（行动哲学（belief 的 aim 之辩））；凭证 2026-11-01 | 2026-11-01 |
+| current self | 当前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×40））；凭证 2026-11-01 | 2026-11-01 |
+| deontic status | 道义地位 | 语料回收（标题词） | 学界惯例（道义逻辑通行）；凭证 2026-11-01 | 2026-11-01 |
+| earlier self | 先前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×31））；凭证 2026-11-01 | 2026-11-01 |
+| efference copy | 传出副本 | 语料回收（标题词） | 学界惯例（行动感知/认知科学通行）；凭证 2026-11-01 | 2026-11-01 |
+| enactive approach | 生成进路 | 语料回收（标题词） | 学界惯例（生成认知（enactivism）通行）；凭证 2026-11-01 | 2026-11-01 |
+| extramural speech | 校外言论 | 语料回收（标题词） | 学界惯例（学术自由词条核心（×15））；凭证 2026-11-01 | 2026-11-01 |
+| full moral status | 完全道德地位 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
+| general ability | 一般能力 | 语料回收（标题词） | 学界惯例（能力哲学（与特殊能力相对））；凭证 2026-11-01 | 2026-11-01 |
+| Hypothetical Reasoning | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
+| intentional action | 意向行动 | 语料回收（标题词） | 学界惯例（行动哲学核心（action 词条×53））；凭证 2026-11-01 | 2026-11-01 |
+| Massive Modularity Hypothesis | 大规模模块性假说 | 语料回收（标题词） | 学界惯例（Carruthers 心灵架构理论）；凭证 2026-11-01 | 2026-11-01 |
+| maximal act-set | 极大行动集 | 语料回收（标题词） | 学界惯例（行动哲学（A批正文定案）；审定“极大集”数学域佐证）；凭证 2026-11-01 | 2026-11-01 |
+| Maximalism | 极大主义 | 语料回收（标题词） | 学界惯例（行动哲学（actualism-possibilism 语境））；凭证 2026-11-01 | 2026-11-01 |
+| modal analysis | 模态分析 | 语料回收（标题词） | 学界惯例（能力哲学通行（与条件分析相对））；凭证 2026-11-01 | 2026-11-01 |
+| Negative Magnitudes | 负量（康德《负量概念试论》） | 语料回收（标题词） | 学界惯例（学界惯例（康德前批判期著作）；审定“负片”异域不采）；凭证 2026-11-01 | 2026-11-01 |
+| Possibilism | 可能论 | 语料回收（标题词） | 学界惯例（模态形而上学通行（与现实主义相对））；凭证 2026-11-01 | 2026-11-01 |
+| practical knowledge | 实践知识 | 语料回收（标题词） | 学界惯例（行动哲学（实践知识/techne 与 phronesis 之分））；凭证 2026-11-01 | 2026-11-01 |
+| Protestant Reformation | 新教改革 | 语料回收（标题词） | 学界惯例（宗教改革通行）；凭证 2026-11-01 | 2026-11-01 |
+| retinal image | 视网膜像 | 语料回收（标题词） | 学界惯例（视觉科学通行；审定“视网膜成像”复合佐证）；凭证 2026-11-01 | 2026-11-01 |
+| Sleeping Beauty | 睡美人问题 | 语料回收（标题词） | 审定直接命中（自然辩证法·科学哲学）；凭证 2026-11-01 | 2026-11-01 |
+| specific ability | 特殊能力 | 语料回收（标题词） | 学界惯例（能力哲学（与一般能力相对））；凭证 2026-11-01 | 2026-11-01 |
+| Supreme Ultimate | 太极 | 语料回收（标题词） | 审定直接命中（中国古代史/自然辩证法）；凭证 2026-11-01 | 2026-11-01 |
+| Ten Wings | 十翼 | 语料回收（标题词） | 学界惯例（学界惯例（易经 Commentary 通行）；审定“十问”异域不采）；凭证 2026-11-01 | 2026-11-01 |
+| Thinking Dispositions | 思维倾向 | 语料回收（标题词） | 审定“思维”复合词群佐证（认知心理学）；凭证 2026-11-01 | 2026-11-01 |
+| violinist case | 小提琴家案例 | 语料回收（标题词） | 学界惯例（汤姆森思想实验（abortion 词条））；凭证 2026-11-01 | 2026-11-01 |
+| Wittgensteinian Fideism | 维特根斯坦式信仰主义 | 语料回收（标题词） | 学界惯例（宗教哲学（Kai Nielsen/D.Z. Phillips 论辩））；凭证 2026-11-01 | 2026-11-01 |
+| Yellow Emperor | 黄帝 | 语料回收（标题词） | 审定直接命中（中医药/中国古代史）；凭证 2026-11-01 | 2026-11-01 |
 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |
 | ---- | ---- | ---- | ---- | -------- |
 | abductive reasoning | 溯因推理 | 语料回收（abduction） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -367,7 +402,6 @@
 | ultrafilter | 超滤子 | 首现（boolalg-math） | 学界惯例（集合论/拓扑通行译名） | 2026-11-01 |
 | subalgebra | 子代数 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
 | homomorphism | 同态 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
-| isomorphism | 同构 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
 | interval algebra | 区间代数 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
 | tree algebra | 树代数 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
 | free algebra | 自由代数 | 首现（boolalg-math） | 学界惯例（抽象代数通行译名） | 2026-11-01 |
@@ -383,6 +417,55 @@
 | Stone representation theorem | 斯通表示定理 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
 | Lindenbaum–Tarski algebra | 林登鲍姆–塔尔斯基代数 | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
 | Sikorski's extension criterion | 西科尔斯基扩张判准 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
+| hermeneutics | 诠释学（亦作“解释学”） | gadamer-aesthetics | 权威译本通行译法（洪汉鼎《真理与方法》）；审定库无直接收录（凭证 2026-11-01） | 2026-11-01 |
+| philosophical hermeneutics | 哲学诠释学（亦作“哲学解释学”） | gadamer-aesthetics | 权威译本通行译法（洪汉鼎《真理与方法》） | 2026-11-01 |
+| hermeneutical aesthetics | 诠释学美学 | gadamer-aesthetics | 学界惯例（伽达默尔美学研究通行） | 2026-11-01 |
+| phenomenology | 现象学 | gadamer-aesthetics | 学界惯例（现象学通行）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
+| aesthetic consciousness | 审美意识 | gadamer-aesthetics | 学界惯例（美学/康德译本通行） | 2026-11-01 |
+| Erlebnis | 体验（狄尔泰/伽达默尔语境；亦作“亲历体验”） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
+| Erfahrung | 经验（伽达默尔语境；与 Erlebnis 体验相区分） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
+| Darstellung | 呈现（伽达默尔/美学语境；darstellen 呈现的） | gadamer-aesthetics | 学界惯例（美学/德国古典哲学通行） | 2026-11-01 |
+| mimesis | 模仿（亦作“摹仿”） | gadamer-aesthetics | 学界惯例（美学/诗学通行） | 2026-11-01 |
+| speculative | 思辨的（speculative dimension 思辨维度） | gadamer-aesthetics | 学界惯例（德国古典哲学通行） | 2026-11-01 |
+| Ereignis | 事件（伽达默尔语境；“居有事件”） | gadamer-aesthetics | 学界惯例（海德格尔/伽达默尔通行） | 2026-11-01 |
+| Sache selbst | 事情本身（die Sache selbst；亦作“事情自身”） | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
+| Überlieferung | 传承（伽达默尔语境） | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
+| hermeneutical sublime | 诠释学的崇高 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| subject-matter | 主题（伽达默尔/艺术语境；Gadamer 的 Sache） | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| aesthetic appearance | 审美外观（亦作“审美显现”） | gadamer-aesthetics | 学界惯例（美学通行） | 2026-11-01 |
+| aesthetic attitude | 审美态度 | gadamer-aesthetics | 学界惯例（康德/美学通行） | 2026-11-01 |
+| play | 游戏（伽达默尔/美学语境；Spiel） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行） | 2026-11-01 |
+| festival | 节日（节庆；festive celebration 节庆） | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| symbol | 象征 | gadamer-aesthetics | 学界惯例（美学/符号学通行） | 2026-11-01 |
+| cognitive content | 认知内容 | gadamer-aesthetics | 学界惯例（认识论/美学通行） | 2026-11-01 |
+| aesthetic subjectivity | 审美主体性 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| hermeneutic circle | 诠释学循环 | gadamer-aesthetics | 学界惯例（诠释学通行） | 2026-11-01 |
+| phenomenology of mind | 精神现象学（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔《精神现象学》） | 2026-11-01 |
+| Critique of Judgment | 《判断力批判》（康德） | gadamer-aesthetics | 权威译本通行译法（康德《判断力批判》） | 2026-11-01 |
+| Letters on Aesthetic Education | 《审美教育书简》（席勒） | gadamer-aesthetics | 权威译本通行译法（席勒《审美教育书简》） | 2026-11-01 |
+| Truth and Method | 《真理与方法》（伽达默尔） | gadamer-aesthetics | 权威译本通行译法（洪汉鼎译本） | 2026-11-01 |
+| nacherleben | 再体验（nacherleben；狄尔泰） | gadamer-aesthetics | 学界惯例（狄尔泰研究通行） | 2026-11-01 |
+| Erlebnis-Ästhetik | 体验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| Erfahrung-Ästhetik | 经验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| Werden | 生成（Werden） | gadamer-aesthetics | 学界惯例（德国古典哲学通行） | 2026-11-01 |
+| sensuous appearing of the Idea | 理念的感性显现（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔美学） | 2026-11-01 |
+| hermeneutic identity | 诠释学同一性 | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
+| standing-in-itself | 自立（standing-in-itself；亦作“自身站立”） | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
+| excess of meaning | 意义的盈余（亦作“意义盈余”） | gadamer-aesthetics | 学界惯例（诠释学/美学研究通行） | 2026-11-01 |
+| recognition | 再认识（Wiedererkennung；亦作“认出”） | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| ex-stasis | 出离（ex-stasis） | gadamer-aesthetics | 学界惯例（现象学/美学通行） | 2026-11-01 |
+| contemporaneity | 同时代性（亦作“共时性”） | gadamer-aesthetics | 学界惯例（伽达默尔研究通行） | 2026-11-01 |
+| aesthetic spectator | 审美旁观者 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| dialogical | 对话性的 | gadamer-aesthetics | 学界惯例（诠释学通行） | 2026-11-01 |
+| linguistic turn | 语言学转向 | gadamer-aesthetics | 学界惯例（哲学史通行） | 2026-11-01 |
+| signifier | 能指 | gadamer-aesthetics | 学界惯例（符号学/索绪尔通行） | 2026-11-01 |
+| signified | 所指 | gadamer-aesthetics | 学界惯例（符号学/索绪尔通行） | 2026-11-01 |
+| horizon | 视域 | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
+| substance | 实体（黑格尔/伽达默尔语境） | gadamer-aesthetics | 学界惯例（德国古典哲学通行） | 2026-11-01 |
+| substantiality | 实体性 | gadamer-aesthetics | 学界惯例（德国古典哲学通行） | 2026-11-01 |
+| prejudice | 偏见 | gadamer-aesthetics | 学界惯例（诠释学/社会理论通行） | 2026-11-01 |
+| autonomy | 自主性 | gadamer-aesthetics | 学界惯例（美学/哲学通行） | 2026-11-01 |
+| ontological | 存在论的 | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
@@ -474,6 +557,26 @@
 | Yan Buke | 阎步克 | confucius（上游印汉字 閻步克，转通行简体） | 上游汉字 + 学界通行 | 2026-10-28 |
 | Yang Bojun | 杨伯峻 | confucius（上游印汉字） | 上游汉字 | 2026-10-28 |
 | Lunyu yizhu | 《论语译注》 | confucius（上游印汉字） | 上游汉字 | 2026-10-28 |
+| madhyamaka | 中观 | gelukpa | 佛学界通行译名；与权威哲学史译本一致 | 2026-11-01 |
+| prāsaṅgika | 应成派 | gelukpa | 藏传佛教通译（应成中观）；学界通行 | 2026-11-01 |
+| svātantrika | 自续派 | gelukpa | 藏传佛教通译（自续中观）；学界通行 | 2026-11-01 |
+| Cittamātra | 唯识 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| Yogācāra | 瑜伽行派 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| pramāṇa | 量论 | gelukpa | 因明学通行译名 | 2026-11-01 |
+| vinaya | 毗奈耶 | gelukpa | 佛学界通行译名（律藏） | 2026-11-01 |
+| Abhisamayālaṃkāra | 《现观庄严论》 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| Pramāṇavārttika | 《释量论》 | gelukpa | 因明学通行译名 | 2026-11-01 |
+| emptiness | 空性 | gelukpa | 佛学界通行译名（空/空性） | 2026-11-01 |
+| two truths | 二谛 | gelukpa | 佛学界通行译名（真谛/俗谛） | 2026-11-01 |
+| reductio | 归谬法 | gelukpa | 逻辑学通译（归谬论证） | 2026-11-01 |
+| coherence theory of truth | 真理融贯论 | gelukpa | 哲学通译（融贯论） | 2026-11-01 |
+| non-implicative negation | 无遮 | gelukpa | 藏传佛教因明通译（med dgag） | 2026-11-01 |
+| foundational consciousness | 基识 | gelukpa | 藏传佛教通译（kun gzhi rnam shes） | 2026-11-01 |
+| reflexive awareness | 自证 | gelukpa | 藏传佛教通译（rang rig） | 2026-11-01 |
+| intrinsic characteristic | 自相 | gelukpa | 因明学通行译名（rang mtshan） | 2026-11-01 |
+| general characteristic | 共相 | gelukpa | 因明学通行译名 | 2026-11-01 |
+| ontological deflationism | 本体论紧缩主义 | gelukpa | 哲学通译 | 2026-11-01 |
+| soteriology | 救度论 | gelukpa | 宗教学通译 | 2026-11-01 |
 
 ## 登记格式说明
 

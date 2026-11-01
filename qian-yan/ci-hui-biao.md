@@ -3,14 +3,19 @@
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
 |Abraham ibn Ezra|亚伯拉罕·伊本·以斯拉|亦作“伊本·以斯拉”；犹太哲学|
+|abstract entities|抽象实体|与 abstract objects 抽象对象配对|
 |abstract objects|抽象对象|审定名词（自然辩证法·科学哲学）|
+|Actualism|现实主义（模态形而上学；亦作“现实论”）|模态形而上学；亦作“现实论”|
 |Adolf Reinach|阿道夫·莱纳赫|早期现象学（普莱斯纳学派前驱）|
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
 |Agent Intellect|主动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
 |Alain Locke|阿兰·洛克||
 |Alexander Bain|亚历山大·贝恩|联想主义心理学|
+|Alexandre Koyré|亚历山大·柯瓦雷||
 |Allan Gibbard|艾伦·吉伯德|规范伦理学/表达主义|
+|Allen Buchanan|艾伦·布坎南||
+|Amy Allen|艾米·艾伦||
 |Annette Baier|安内特·拜尔|德性伦理学（代理情感）|
 |Anti-Dühring|《反杜林论》|恩格斯|
 |Anton Marty|安东·马蒂|早期现象学（布伦塔诺学派）|
@@ -27,28 +32,38 @@
 |belief formation|信念形成|认识论|
 |Benjamin Franklin|本杰明·富兰克林|美国启蒙|
 |Bertrand Russell|伯特兰·罗素||
+|Best Interests standard|最佳利益标准|生命伦理学|
 |Bildung|教化|伽达默尔语境|
 |biodiversity|生物多样性|审定名词（多域）|
+|Brian Leftow|布莱恩·莱夫托||
 |Bruce Bridgeman|布里奇曼|视觉/动作心理学；首现括注|
+|care ethics|关怀伦理|审定直接命中（新闻传播学域）|
 |Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
 |Catharine MacKinnon|凯瑟琳·麦金农|激进女性主义法学|
 |causal influence|因果影响|佐证审定“因果性”|
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
+|Celestial Masters|天师道|道教天师道；审定“天师”佐证|
 |Chan Buddhism|禅宗|审定名词（中国古代史·宗教）|
 |Charles Mills|查尔斯·米尔斯|当代政治哲学|
 |Cheng Hao|程颢|宋明理学（与程颐并称二程）|
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
 |common good|公共善|亦作“共同善”；政治哲学|
+|concrete objects|具体对象|与抽象对象相对|
+|conditional analysis|条件分析|能力哲学|
+|constitutive aim|构成性目的|行动哲学（belief 的 aim 之辩）|
 |Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
+|current self|当前自我|advance-directives 词条核心|
 |Dana Scott|达纳·斯科特|逻辑学/集合论|
 |Dao|道|拼音转写；中国哲学核心范畴|
 |Dasein|此在|海德格尔；亦作“缘在”|
 |David Armstrong|大卫·阿姆斯特朗|形而上学（共相/事态）|
 |David Hull|大卫·赫尔|生物学哲学|
+|David Velleman|大卫·维勒曼||
 |deflationary|紧缩|「紧缩论」（deflationism）形容词形|
+|deontic status|道义地位|道义逻辑|
 |dharma|法|佛教语境；亦作“达摩”|
 |diffeomorphism|微分同胚|广义相对论哲学；物理学通行|
 |différance|延异|德里达定译|
@@ -56,18 +71,24 @@
 |disability studies|残障研究|社会哲学|
 |distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
 |divine intellect|神圣理智|亦作“神性理智”；中世纪哲学|
+|earlier self|先前自我|advance-directives 词条核心|
 |Edith Stein|艾迪特·施泰因|现象学|
+|efference copy|传出副本|行动感知/认知科学|
+|Emil Lask|埃米尔·拉斯克||
+|enactive approach|生成进路|生成认知（enactivism）|
 |Encyclopédie|《百科全书》|狄德罗主编；启蒙哲学|
 |epistêmê|知识|与 doxa 意见相对|
 |Epistemic Closure|认知封闭|知识论|
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
 |epoché|悬搁|亦作“悬置”；胡塞尔|
 |Ernest Sosa|欧内斯特·索萨|德性知识论|
+|Ernst Mayr|恩斯特·迈尔||
 |Ernst Zermelo|恩斯特·策梅洛|集合论（策梅洛公理）|
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
 |evolutionary epistemology|进化认识论|审定名词（自然辩证法·科学哲学）|
 |expected utility|期望效用|审定名词（管理科学）|
 |external world|外部世界|认识论|
+|extramural speech|校外言论|学术自由词条核心|
 |first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
 |Frankfurt School|法兰克福学派|审定名词（新闻传播学）|
 |Fred Dretske|弗雷德·德雷斯基|知识论与心灵哲学|
@@ -75,13 +96,18 @@
 |Friedrich Schiller|弗里德里希·席勒|美学书简|
 |Friedrich Schleiermacher|弗里德里希·施莱尔马赫|诠释学/浪漫主义|
 |Friedrich Waismann|弗里德里希·魏斯曼|维也纳学派/语言哲学|
+|full moral status|完全道德地位|生命伦理学|
 |game theory|博弈论|亦作“对策论”；审定双形在案|
 |Gary Watson|加里·沃森|行动理论/道德心理学|
 |gauge freedom|规范自由度|广义相对论哲学；物理学通行|
 |gauge transformation|规范变换|广义相对论哲学；物理学通行|
+|general ability|一般能力|能力哲学（与特殊能力相对）|
 |general covariance|广义协变性|广义相对论哲学；物理学通行|
 |Georg Gadamer|格奥尔格·伽达默尔|哲学诠释学|
+|George Boolos|乔治·布洛斯||
 |George Washington|乔治·华盛顿|美国建国|
+|Gerald Gaus|杰拉尔德·高斯||
+|Giuseppe Peano|朱塞佩·皮亚诺||
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
@@ -90,35 +116,64 @@
 |Hao Wang|王浩|逻辑学家/哥德尔研究|
 |Harriet Taylor|哈丽雅特·泰勒|密尔合作者/女性主义先声|
 |Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
+|Hermann Diels|赫尔曼·第尔斯||
 |Hilary Putnam|希拉里·普特南||
 |Hillel Steiner|希勒尔·斯坦纳|分析马克思主义/权利论|
 |hole transformation|洞变换|与“空穴论证”（hole argument）复合同源|
 |Holy Spirit|圣灵|宗教学|
 |Hui Shi|惠施|中国哲学家|
+|Hypothetical Reasoning|假说推理|皮尔士溯因语境|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
 |identity relation|同一关系|逻辑学/形而上学|
 |intelligible forms|可理知形式|柏拉图/中世纪哲学|
+|intentional action|意向行动|行动哲学核心|
 |intentional inexistence|意向内的存在|布伦塔诺|
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
+|James Ward|詹姆斯·沃德||
+|John Dupré|约翰·杜普雷||
+|John Norris|约翰·诺里斯||
+|John Pollock|约翰·波洛克||
 |John Stuart Mill|约翰·斯图亚特·穆勒|亦作“密尔”|
 |José Ortega|何塞·奥尔特加|西班牙存在主义另有同名导演，随词条|
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
 |Leibniz Equivalence|莱布尼茨等价|时空哲学；Stachel/Weatherall 用语|
+|Leon Henkin|莱昂·亨金||
 |manifold|流形|数学通行|
 |manifold of events|事件流形|时空哲学|
+|Massive Modularity Hypothesis|大规模模块性假说|Carruthers 心灵架构理论|
 |matter field|物质场|物理学通行|
+|maximal act-set|极大行动集|A批正文定案；审定“极大集”数学域佐证|
+|Maximalism|极大主义|actualism-possibilism 语境|
 |metric|度规|物理学通行，“度规”优于“度量”|
 |metric field|度规场|物理学通行|
 |Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
 |Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
+|modal analysis|模态分析|能力哲学（与条件分析相对）|
+|Negative Magnitudes|负量（康德《负量概念试论》）|康德前批判期著作|
+|Norman Daniels|诺曼·丹尼尔斯||
 |observable|可观测量|物理学/科学哲学通行|
+|Peter Kivy|彼得·基维||
 |point-coincidence argument|点重合论证|Stachel 术语|
+|Possibilism|可能论|模态形而上学（与现实主义相对）|
+|practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
+|Protestant Reformation|新教改革|宗教改革|
+|retinal image|视网膜像|视觉科学；审定复合佐证|
 |Robert Post|Robert Post|现代学者保留英文；通行汉译“波斯特”|
+|Shaun Nichols|肖恩·尼科尔斯||
+|Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
 |spacetime substantivalism|时空实体论|与时空关系论相对|
+|specific ability|特殊能力|能力哲学（与一般能力相对）|
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
+|Stephen Schiffer|斯蒂芬·希弗||
+|Supreme Ultimate|太极|审定直接命中（中国古代史/自然辩证法）|
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
+|Ten Wings|十翼|易经 Commentary；审定异域不采|
+|Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
+|violinist case|小提琴家案例|汤姆森思想实验|
+|Wittgensteinian Fideism|维特根斯坦式信仰主义|Kai Nielsen/D.Z. Phillips 论辩|
 |worldline|世界线|相对论通行|
+|Yellow Emperor|黄帝|审定直接命中（中医药/中国古代史）|
 |Øystein Linnebo|林内博|数学哲学；首现括注|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |Jacques Lacan|雅克·拉康|精神分析哲学|

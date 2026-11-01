@@ -57,15 +57,19 @@ def norm_key(text):
 
 def build_row(spec, date):
     en, zh, table = spec['en'], spec['zh'], spec.get('table', 'term')
-    note = spec.get('note', '学界惯例')
-    if note.startswith('审定'):
-        basis = note + '（%s）' % date
-    else:
-        basis = '学界惯例（%s）；凭证 %s' % (note, date)
+    basis = spec.get('basis')
+    if not basis:
+        note = spec.get('note', '学界惯例')
+        if note.startswith('审定'):
+            basis = note + '；凭证 ' + date
+        else:
+            basis = '学界惯例（%s）；凭证 %s' % (note, date)
     if table == 'term':
-        reg_row = '| %s | %s | 语料回收（标题词） | %s | %s |' % (en, zh, basis, date)
+        reg_row = '| %s | %s | %s | %s | %s |' % (
+            en, zh, spec.get('first_seen', '语料回收（标题词）'), basis, date)
     else:
-        reg_row = '| %s | %s | 语料回收（全目录） | %s | %s |' % (en, zh, basis, date)
+        reg_row = '| %s | %s | %s | %s | %s |' % (
+            en, zh, spec.get('first_seen', '语料回收（全目录）'), basis, date)
     glo_row = '|%s|%s|%s|' % (en, zh, spec.get('glo_note', ''))
     return reg_row, glo_row
 
