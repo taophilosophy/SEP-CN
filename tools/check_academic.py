@@ -263,6 +263,11 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None):
         if dm:
             defs.setdefault(dm.group(1), (lineno, s))
             continue
+        # References 注记的字面 [^key] 是说明文字（转换器措辞
+        # "文内“作者-年份”引用组后附 [^key] 标记"），非真引用；
+        # 跳过以免 orphan-ref 误报（英文源同含此注记）
+        if '已转为脚注引用' in s or '引用组后附' in s:
+            continue
         for m in RE_FOOTREF.finditer(line):
             refs.setdefault(m.group(1), lineno)
     for key, lineno in sorted(refs.items()):
@@ -280,11 +285,14 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None):
             if biblio_span and biblio_span[0] <= lineno and (biblio_span[1] is None or lineno < biblio_span[1]):
                 continue
             # 文献表条目豁免：SEP 引用注释方案把整份文献表转为文末 [^key]: 定义，
-            # 条目含作者-年份-书目结构（4 位年份是文献表条目的稳定特征），
-            # 未被文内引用的条目是文献表的自然组成部分，非孤儿（转换器契约）。
-            # 判据用内容而非 References 标题标记——子代理翻译时可能把
-            # "References（引用注释）"译成"参考文献"而丢标记，标题定位不可靠。
-            if re.search(r'\b(?:1[6-9]\d{2}|20\d{2})\b', dline):
+            # 条目含作者-年份-书目结构，未被文内引用的条目是文献表的自然
+            # 组成部分，非孤儿（转换器契约）。判据用内容而非 References 标题
+            # 标记——子代理翻译时可能把"References（引用注释）"译成"参考文献"
+            # 而丢标记，标题定位不可靠。年份判据放宽覆盖：中世纪年份（1274）、
+            # 字母后缀（2019a）、no-date 键（-nd）、不确定年份（197?）。
+            if (re.search(r'\b\d{4}[a-z]?\b', dline)
+                    or key.endswith('-nd')
+                    or re.search(r'1[0-9]\d\?', dline)):
                 continue
             hard.append('[orphan-def] %s:%d 文末定义 [^%s]: 无正文引用' % (rel, lineno, key))
 
