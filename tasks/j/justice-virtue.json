@@ -1,0 +1,50 @@
+{
+  "slug": "justice-virtue",
+  "kind": "retranslate",
+  "zh_doc": "j/justice-virtue.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:20Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "j-子代理",
+      "at": "2026-11-01T22:56:47Z",
+      "evidence": "初译完成：零信任译自 yuanwen/j/justice-virtue.md，账本双版（step1 直译/step2 润色）齐全 59 段"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "j-子代理",
+      "at": "2026-11-01T22:56:57Z",
+      "evidence": "一校对照：全部 84 脚注键/55 文内标记/引用组与页码核销，无漏译错译；节结构与源一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "j-子代理",
+      "at": "2026-11-01T22:57:32Z",
+      "evidence": "二校语言：check_prose 告警 54 条均为长句/的字密度启发告警（31 de-chain + 23 long-sentence），经人工判读属学术长句固有特征，逐条豁免留痕；弱动词/被字已清零（ADR-0020 无实拦）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "j-子代理",
+      "at": "2026-11-01T22:57:46Z",
+      "evidence": "三校体例：check_style 0 问题，check_academic --strict 0 硬错误，check_math 0 公式；人名按 ADR-0021 有通行汉名者汉名+首现括注（登记册新增 11 行），术语已登记 yi-zhe-shuo-ming 23 行，账本 59 段 step1/step2 与正文一致"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:28Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 8, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "9df41730bc123b4e735faf78861660c7ac93c12732e747961fbea561b22f000d"
+  }
+}
