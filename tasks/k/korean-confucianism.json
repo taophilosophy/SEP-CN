@@ -1,0 +1,22 @@
+{
+  "slug": "korean-confucianism",
+  "kind": "retranslate",
+  "zh_doc": "k/korean-confucianism.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:10Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 15, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "513f16fef561b0bbaebeea35224911b1a26883502160f2667b3ff052a7839e57"
+  }
+}

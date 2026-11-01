@@ -1,0 +1,22 @@
+{
+  "slug": "knowledge-acquaindescrip",
+  "kind": "retranslate",
+  "zh_doc": "k/knowledge-acquaindescrip.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:44Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:08Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 12, 2019",
+    "archive_edition": "Summer 2024",
+    "sha256": "c023e84f3c53ccbbbcd834cc960ae6ef1f71f454566c3a3089ce198bb09464f2"
+  }
+}

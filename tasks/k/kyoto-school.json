@@ -1,0 +1,22 @@
+{
+  "slug": "kyoto-school",
+  "kind": "retranslate",
+  "zh_doc": "k/kyoto-school.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:37Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:40:59Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 14, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "0bf68b2c3e782090559d76588d53986cbd7dfe1be86289f0aad08359847795ac"
+  }
+}

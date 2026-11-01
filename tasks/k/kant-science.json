@@ -1,0 +1,22 @@
+{
+  "slug": "kant-science",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-science.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:40Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:04Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 18, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "51b8609227d9513bcfc30f0e3da60659525eb188f56a74dc953db3aa3c27fd51"
+  }
+}

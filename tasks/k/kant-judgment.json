@@ -1,0 +1,22 @@
+{
+  "slug": "kant-judgment",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-judgment.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:41Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:04Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 23, 2017",
+    "archive_edition": "Spring 2022",
+    "sha256": "614cf9cd294afc1a770f268cd816cb879a43d92f3939145ff8b24584a9e3ae4a"
+  }
+}

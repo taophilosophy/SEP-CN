@@ -1,0 +1,22 @@
+{
+  "slug": "kepler",
+  "kind": "retranslate",
+  "zh_doc": "k/kepler.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:43Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:06Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 14, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "c8024755d64caf81eecd7f7d5f288dc36dc2a31b368f9ad4f20fc92d4708181b"
+  }
+}

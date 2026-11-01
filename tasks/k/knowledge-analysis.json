@@ -1,0 +1,22 @@
+{
+  "slug": "knowledge-analysis",
+  "kind": "retranslate",
+  "zh_doc": "k/knowledge-analysis.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:43Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:07Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 21, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "0157e33c1698bec237e8b6a6897fb266ae8efa6d5f09a75b07fb4fa7745cec65"
+  }
+}

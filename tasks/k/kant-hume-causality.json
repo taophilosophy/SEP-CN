@@ -1,0 +1,22 @@
+{
+  "slug": "kant-hume-causality",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-hume-causality.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:38Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:01Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 31, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "c43a9ce2f1197e13024dce3548a64d642dc28ea72130171a449e95871d0cedc3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "kilvington",
+  "kind": "retranslate",
+  "zh_doc": "k/kilvington.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:43Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:07Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 6, 2022",
+    "archive_edition": "Fall 2022",
+    "sha256": "268a950c3916992a74c87be29521502521d5966ea87bcae361e3703971ec405e"
+  }
+}

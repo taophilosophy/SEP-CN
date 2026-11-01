@@ -1,0 +1,22 @@
+{
+  "slug": "knowledge-value",
+  "kind": "retranslate",
+  "zh_doc": "k/knowledge-value.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:44Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:08Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 1, 2026",
+    "archive_edition": null,
+    "sha256": "cf4572a059a39f6c248fdbbd9ba536fae3bf1e1acccfba4bf25f52e93f12f172"
+  }
+}

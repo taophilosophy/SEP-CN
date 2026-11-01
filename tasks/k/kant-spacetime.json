@@ -1,0 +1,22 @@
+{
+  "slug": "kant-spacetime",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-spacetime.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:42Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:06Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 1, 2022",
+    "archive_edition": "Summer 2022",
+    "sha256": "da1e4ade4573f1ccff62257e0cd531d2205aa538e92edf2002daccbcfbf4991c"
+  }
+}

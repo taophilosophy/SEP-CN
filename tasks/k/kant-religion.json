@@ -1,0 +1,22 @@
+{
+  "slug": "kant-religion",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-religion.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:40Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:03Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 13, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "e7d6a7471697368641b9a0c8e0c3fb815e5977cb803c7a31f80f23843e080db7"
+  }
+}

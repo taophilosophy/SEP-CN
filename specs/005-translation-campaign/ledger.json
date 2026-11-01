@@ -75,10 +75,11 @@
    "advanced_at": "2026-11-01T10:36:59Z"
   },
   "k": {
-   "phase": "pending",
-   "claimed_by": null,
-   "claimed_at": null,
-   "note": ""
+   "phase": "translate",
+   "claimed_by": "ses-K-batch-rolling",
+   "claimed_at": "2026-11-01T17:38:21Z",
+   "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务），依据 tasks/k/ 36 json state=cleared",
+   "advanced_at": "2026-11-01T17:44:45Z"
   },
   "l": {
    "phase": "pending",
@@ -172,5 +173,5 @@
    "advanced_at": "2026-10-27T11:31:25Z"
   }
  },
- "updated_at": "2026-11-01T11:03:27Z"
+ "updated_at": "2026-11-01T17:44:45Z"
 }

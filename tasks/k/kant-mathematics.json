@@ -1,0 +1,22 @@
+{
+  "slug": "kant-mathematics",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-mathematics.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:40Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:03Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 11, 2021",
+    "archive_edition": "Fall 2025",
+    "sha256": "95ad5974db252dfa693f7ebc6020a6e6462dfc34fcdef8e03af7aa12b77ca41d"
+  }
+}

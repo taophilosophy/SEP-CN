@@ -1,0 +1,22 @@
+{
+  "slug": "karl-reinhold",
+  "kind": "retranslate",
+  "zh_doc": "k/karl-reinhold.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:46Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:39:13Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 23, 2026",
+    "archive_edition": null,
+    "sha256": "6863c1195db7f163e0823ba8d9e067718d478091b6b6c637a48fd2bc748bc5cb"
+  }
+}

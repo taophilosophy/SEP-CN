@@ -1,0 +1,22 @@
+{
+  "slug": "korean-philosophy",
+  "kind": "retranslate",
+  "zh_doc": "k/korean-philosophy.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:09Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 14, 2022",
+    "archive_edition": "Spring 2022",
+    "sha256": "f4cba1f40050549bf5fdfe9be91973ea7f6a6623c7ec8534e757ac652f8e4235"
+  }
+}

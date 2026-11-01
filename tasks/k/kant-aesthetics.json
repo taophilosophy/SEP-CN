@@ -1,0 +1,22 @@
+{
+  "slug": "kant-aesthetics",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-aesthetics.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:38Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:00Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 15, 2022",
+    "archive_edition": "Fall 2022",
+    "sha256": "08c67e29dc058dc113c5dff782d072d514be29d34f8ab023906dbcd03e65af80"
+  }
+}

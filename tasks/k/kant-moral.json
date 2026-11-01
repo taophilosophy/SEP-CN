@@ -1,0 +1,22 @@
+{
+  "slug": "kant-moral",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-moral.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:39Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:02Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 2, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "cc4105b10e2e351d93a73414752fb623c082c003d85f0899101488958341fa44"
+  }
+}

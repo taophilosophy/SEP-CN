@@ -1,0 +1,22 @@
+{
+  "slug": "kant-reason",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-reason.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:37Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:00Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 4, 2023",
+    "archive_edition": "Summer 2024",
+    "sha256": "7acafcd15a4a24f271c0cbbb2fcb8b4650dea2eb8d1f36b2534bc642658b9105"
+  }
+}

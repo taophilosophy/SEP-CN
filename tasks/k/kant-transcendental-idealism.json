@@ -1,0 +1,22 @@
+{
+  "slug": "kant-transcendental-idealism",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-transcendental-idealism.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:42Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:05Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 4, 2016",
+    "archive_edition": "Spring 2024",
+    "sha256": "9611fcb7fc36ef9481d7db626555df00578fc05fa842dea26395d30e48cd4fc5"
+  }
+}

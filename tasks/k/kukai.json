@@ -1,0 +1,22 @@
+{
+  "slug": "kukai",
+  "kind": "retranslate",
+  "zh_doc": "k/kukai.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:36Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:40:59Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 10, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "b38970e5eff8e66da979b4fd231ded06dd792c851eda7ed3348a3e113d2aae47"
+  }
+}

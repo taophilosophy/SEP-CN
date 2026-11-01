@@ -1,0 +1,22 @@
+{
+  "slug": "kant-conceptualism",
+  "kind": "retranslate",
+  "zh_doc": "k/kant-conceptualism.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:43:38Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T17:41:01Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 25, 2025",
+    "archive_edition": "Spring 2025",
+    "sha256": "c509080084a167817638b9d985df979c7ad5cc750b892176b2c18cbe24668c69"
+  }
+}
