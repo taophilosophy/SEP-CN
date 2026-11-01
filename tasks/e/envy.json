@@ -2,8 +2,44 @@
   "slug": "envy",
   "kind": "retranslate",
   "zh_doc": "e/envy.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T19:48:28Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:01:53Z",
+      "evidence": "主代理直译：零信任译自 yuanwen/e/envy.md（2002-12-18/2016-12-22 版），三节+四小节全译+注29条+文献照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:01:54Z",
+      "evidence": "一校：对照源核销 MTPE，幻觉/漏译/增译 0，嫉妒/妒忌/怨恨三分术语统一"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:01:54Z",
+      "evidence": "二校：文献照录弯引号还原，语言回核"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T20:01:55Z",
+      "evidence": "三校：check_style 0；check_academic --strict 0 硬错误"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:32Z",
   "version_pin": {
