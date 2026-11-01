@@ -2,8 +2,44 @@
   "slug": "delmedigo",
   "kind": "retranslate",
   "zh_doc": "d/delmedigo.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:17:25Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:20:05Z",
+      "evidence": "初译完成：基于 yuanwen/d/delmedigo.md 零信任翻译，三检查器全绿（style 0/academic OK/math 0）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:20:16Z",
+      "evidence": "自校一：对照 yuanwen 通读体例，italic-cjk 6 处修复，check_style 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:20:30Z",
+      "evidence": "自校二：学术规范 check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T07:20:48Z",
+      "evidence": "自校三：check_math 0 公式缺失衡，check_style 复跑 0，术语先登记后使用（登记册见术语批次）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:37Z",
   "version_pin": {
