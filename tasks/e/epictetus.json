@@ -1,0 +1,22 @@
+{
+  "slug": "epictetus",
+  "kind": "retranslate",
+  "zh_doc": "e/epictetus.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:29:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T11:02:32Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 16, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "ecd01d482e1aeac1e1c49fc9555cb406aae08fe3479426e044fc45e60cc0f183"
+  }
+}

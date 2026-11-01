@@ -1,0 +1,22 @@
+{
+  "slug": "epistemology-language-tibetan",
+  "kind": "retranslate",
+  "zh_doc": "e/epistemology-language-tibetan.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T13:11:02Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T11:02:55Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 16, 2025",
+    "archive_edition": "Spring 2025",
+    "sha256": "f78949d3bd2f5ef35473515292acccef75ccf37b4882b4b45e8750f19beb6863"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "emilie-du-chatelet",
+  "kind": "retranslate",
+  "zh_doc": "e/emilie-du-chatelet.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T13:07:04Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T11:02:20Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 13, 2014",
+    "archive_edition": "Winter 2018",
+    "sha256": "43362ec9760ba126776a4f9394575fd53dc56e5c87cec76e990126abe35563c3"
+  }
+}

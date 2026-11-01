@@ -1,0 +1,22 @@
+{
+  "slug": "elias",
+  "kind": "retranslate",
+  "zh_doc": "e/elias.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T13:03:34Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T11:02:27Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 27, 2022",
+    "archive_edition": "Fall 2022",
+    "sha256": "0a2fec23e055ac6e7a1b47aa53f8ebe755621937a7faf21282f0be8c77280200"
+  }
+}

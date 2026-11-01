@@ -1,0 +1,22 @@
+{
+  "slug": "equal-ed-opportunity",
+  "kind": "retranslate",
+  "zh_doc": "e/equal-ed-opportunity.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:33:11Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T11:02:38Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 17, 2023",
+    "archive_edition": "Winter 2023",
+    "sha256": "ef401f34d03ac3df82bdf86c6617b47d83eccba526b3c27726627c1a223b06be"
+  }
+}
