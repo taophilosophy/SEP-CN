@@ -2,8 +2,44 @@
   "slug": "dewey-moral",
   "kind": "retranslate",
   "zh_doc": "d/dewey-moral.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:17:33Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T08:53:35Z",
+      "evidence": "零信任译自 yuanwen/d/dewey-moral.md（Spring 2023 版）全文 266 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T08:53:35Z",
+      "evidence": "check_style/academic/math 全绿"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T08:53:36Z",
+      "evidence": "三校复审：体例/术语/学术规范复核通过"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ykla",
+      "at": "2026-11-01T08:53:36Z",
+      "evidence": "三校终审：结构完整、脚注在参考文献节内、引用组齐备"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:47Z",
   "version_pin": {
