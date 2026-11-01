@@ -1,0 +1,22 @@
+{
+  "slug": "gadamer-aesthetics",
+  "kind": "retranslate",
+  "zh_doc": "g/gadamer-aesthetics.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:53:41Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:31:14Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 6, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "089db2a3f19acb2671ec8299125b927948a313dea08257575a9e89d3c003870e"
+  }
+}
