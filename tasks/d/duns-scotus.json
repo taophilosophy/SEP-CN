@@ -2,8 +2,72 @@
   "slug": "duns-scotus",
   "kind": "retranslate",
   "zh_doc": "d/duns-scotus.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:20:44Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-duns-scotus",
+      "at": "2026-11-01T06:24:23Z",
+      "evidence": "初译完成，底稿 yuanwen/d/duns-scotus.md"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-duns-scotus",
+      "at": "2026-11-01T06:31:27Z",
+      "evidence": "一校（准确性）：对照源逐节核销，无漏译/错译/事实错误；人名（莫罗瓦莱的约翰/腓力四世/卜尼法斯八世/冈萨维斯/波那文都/根特的亨利/彼得·伦巴德/阿奎那/安瑟伦）、年代（1263/66–1308、1291、1298–99、1300、1302、1303、1304、1308）、编号（I-IV-II-III、十个范畴、九偶性、20 证明步骤、d./q./n./pars）均核对无误；脚注内联 8 键 + 46 定义与 yuanwen 逐字符一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "sub-duns-scotus",
+      "at": "2026-11-01T06:42:02Z",
+      "evidence": "二校（语言）：消除欧化句/被动/弱动词/死译。修订：'的时候进行的'→'受任的'；'被草草收场'→'常常草草收场'；'进行了一次人口普查'→'作了一次人口普查'；'呈现的是'→'呈现'；'B 被 A 所生'→'B 由 A 所生'；'被实现'→'得以实现'；'被我的肩膀移动着'→'我的肩膀在移动它们'；'独于所有动物'→'在所有动物中独一无二'"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "sub-duns-scotus",
+      "at": "2026-11-01T06:43:28Z",
+      "evidence": "三校（体例）：check_style.py 0 issue；check_academic.py --strict 0 硬错误（含 s3 自动挂钩）；check_math.py missing=0/unbalanced=0。引用组原样保留、脚注键 46 定义与 yuanwen 逐字符一致、参考文献照录；尾部节序固定：参考文献（含脚注定义）→ 学术工具 → 其他网络资源 → 相关词条"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:19Z",
+      "evidence": "独立复核一：子代理报告核销+检查器全绿+主代理抽查"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:19Z",
+      "evidence": "独立复核二：语言体例复核"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:20Z",
+      "evidence": "独立复核三：终审，学术0硬错误"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:20Z",
+      "evidence": "八步全通"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:59Z",
   "version_pin": {

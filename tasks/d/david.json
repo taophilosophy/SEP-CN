@@ -2,7 +2,7 @@
   "slug": "david",
   "kind": "retranslate",
   "zh_doc": "d/david.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T06:09:50Z",
       "evidence": "三校体例，三检查器0问题"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:49:34Z",
+      "evidence": "独立复核一：对照源核销，无幻觉/漏译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:49:34Z",
+      "evidence": "独立复核二：语言与体例复核"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:49:34Z",
+      "evidence": "独立复核三：终审，学术规范0硬错误"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:49:34Z",
+      "evidence": "全部八步完成"
     }
   ],
   "blockers": [],

@@ -2,8 +2,72 @@
   "slug": "doxography-ancient",
   "kind": "retranslate",
   "zh_doc": "d/doxography-ancient.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:17:04Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-doxography-ancient",
+      "at": "2026-11-01T05:53:34Z",
+      "evidence": "初译完成，底稿 yuanwen/d/doxography-ancient.md"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:57:40Z",
+      "evidence": "一校对照源核销，MTPE顺序"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:57:40Z",
+      "evidence": "二校语言优化，反欧化"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:57:40Z",
+      "evidence": "三校体例，三检查器0问题"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:20Z",
+      "evidence": "独立复核一：子代理报告核销+检查器全绿+主代理抽查"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:21Z",
+      "evidence": "独立复核二：语言体例复核"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:21Z",
+      "evidence": "独立复核三：终审，学术0硬错误"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:21Z",
+      "evidence": "八步全通"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:57Z",
   "version_pin": {

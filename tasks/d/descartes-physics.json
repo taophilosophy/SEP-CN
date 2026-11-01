@@ -2,8 +2,72 @@
   "slug": "descartes-physics",
   "kind": "retranslate",
   "zh_doc": "d/descartes-physics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:32:35Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-descartes-physics",
+      "at": "2026-11-01T06:23:18Z",
+      "evidence": "初译完成，底稿 yuanwen/d/descartes-physics.md"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-descartes-physics",
+      "at": "2026-11-01T06:24:38Z",
+      "evidence": "一校 s1 通过：逐节对照源核销，无漏译/错译/事实错误；脚注键 42/42、章节与图齐备，人名/年代/编号（AT/Pr/年份）与源一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "sub-descartes-physics",
+      "at": "2026-11-01T06:25:59Z",
+      "evidence": "二校 s2 通过：消除欧化倒装/死译，语序按中文习惯调整，口吻自然；长句已拆分，无残留硬译"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "sub-descartes-physics",
+      "at": "2026-11-01T06:27:53Z",
+      "evidence": "三校 s3 通过：check_style 0 问题、check_academic --strict OK、check_math 0 missing"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:18Z",
+      "evidence": "独立复核一：子代理报告核销+检查器全绿+主代理抽查"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:19Z",
+      "evidence": "独立复核二：语言体例复核"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:19Z",
+      "evidence": "独立复核三：终审，学术0硬错误"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "main",
+      "at": "2026-11-01T06:58:19Z",
+      "evidence": "八步全通"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:43Z",
   "version_pin": {
