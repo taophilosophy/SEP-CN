@@ -24,6 +24,7 @@
 |arché|本原|亦作“始基”；希腊哲学术语|
 |aretê|德性|亦作“卓越”；希腊哲学术语|
 |Aristotelian categories|亚里士多德范畴|希腊哲学|
+|Arius Didymus|阿里乌斯·迪迪穆斯||
 |Arthur Danto|阿瑟·丹托|分析美学/历史哲学|
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
 |Aulus Gellius|奥卢斯·盖利乌斯|罗马阿提卡之夜|
@@ -60,10 +61,12 @@
 |Dao|道|拼音转写；中国哲学核心范畴|
 |Dasein|此在|海德格尔；亦作“缘在”|
 |David Armstrong|大卫·阿姆斯特朗|形而上学（共相/事态）|
+|David Davies|大卫·戴维斯||
 |David Hull|大卫·赫尔|生物学哲学|
 |David Velleman|大卫·维勒曼||
 |deflationary|紧缩|「紧缩论」（deflationism）形容词形|
 |deontic status|道义地位|道义逻辑|
+|Derk Pereboom|德克·佩雷布姆||
 |dharma|法|佛教语境；亦作“达摩”|
 |diffeomorphism|微分同胚|广义相对论哲学；物理学通行|
 |différance|延异|德里达定译|
@@ -71,6 +74,7 @@
 |disability studies|残障研究|社会哲学|
 |distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
 |divine intellect|神圣理智|亦作“神性理智”；中世纪哲学|
+|Donna Haraway|唐娜·哈拉维||
 |earlier self|先前自我|advance-directives 词条核心|
 |Edith Stein|艾迪特·施泰因|现象学|
 |efference copy|传出副本|行动感知/认知科学|
@@ -90,6 +94,7 @@
 |external world|外部世界|认识论|
 |extramural speech|校外言论|学术自由词条核心|
 |first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
+|Four Dimensionalism|四维主义|形而上学（刘易斯）|
 |Frankfurt School|法兰克福学派|审定名词（新闻传播学）|
 |Fred Dretske|弗雷德·德雷斯基|知识论与心灵哲学|
 |Freedom|自由|审定名词在案；学界通行同形|
@@ -131,8 +136,13 @@
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
 |James Ward|詹姆斯·沃德||
+|Jean Hampton|让·汉普顿||
 |John Dupré|约翰·杜普雷||
+|John Earman|约翰·厄尔曼||
+|John Harsanyi|约翰·海萨尼||
+|John MacFarlane|约翰·麦克法兰||
 |John Norris|约翰·诺里斯||
+|John Norton|约翰·诺顿||
 |John Pollock|约翰·波洛克||
 |John Stuart Mill|约翰·斯图亚特·穆勒|亦作“密尔”|
 |José Ortega|何塞·奥尔特加|西班牙存在主义另有同名导演，随词条|
@@ -152,6 +162,7 @@
 |modal analysis|模态分析|能力哲学（与条件分析相对）|
 |Negative Magnitudes|负量（康德《负量概念试论》）|康德前批判期著作|
 |Norman Daniels|诺曼·丹尼尔斯||
+|Norman Malcolm|诺曼·马尔科姆||
 |observable|可观测量|物理学/科学哲学通行|
 |Peter Kivy|彼得·基维||
 |point-coincidence argument|点重合论证|Stachel 术语|
@@ -159,18 +170,27 @@
 |practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
 |Protestant Reformation|新教改革|宗教改革|
 |retinal image|视网膜像|视觉科学；审定复合佐证|
+|Richard Boyd|理查德·博伊德||
+|Richard Fitzralph|理查德·菲茨拉尔夫||
+|Richard Lewontin|理查德·列万廷||
+|Robert Holcot|罗伯特·霍尔科特||
 |Robert Post|Robert Post|现代学者保留英文；通行汉译“波斯特”|
+|Saṃdhinirmocana Sūtra|《解深密经》|佛典译名（玄奘译本通行）|
+|Samuel Scheffler|塞缪尔·谢弗勒||
 |Shaun Nichols|肖恩·尼科尔斯||
 |Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
 |spacetime substantivalism|时空实体论|与时空关系论相对|
 |specific ability|特殊能力|能力哲学（与一般能力相对）|
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
 |Stephen Schiffer|斯蒂芬·希弗||
+|Stuart Hampshire|斯图尔特·汉普希尔||
 |Supreme Ultimate|太极|审定直接命中（中国古代史/自然辩证法）|
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
 |Ten Wings|十翼|易经 Commentary；审定异域不采|
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
+|Trolley Problem|电车难题||
 |violinist case|小提琴家案例|汤姆森思想实验|
+|William Paley|威廉·佩利||
 |Wittgensteinian Fideism|维特根斯坦式信仰主义|Kai Nielsen/D.Z. Phillips 论辩|
 |worldline|世界线|相对论通行|
 |Yellow Emperor|黄帝|审定直接命中（中医药/中国古代史）|

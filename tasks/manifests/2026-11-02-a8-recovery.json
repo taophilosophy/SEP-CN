@@ -1,0 +1,27 @@
+{
+  "batch": "2026-11-02-a8-recovery",
+  "date": "2026-11-01",
+  "scope": "A8 批（c38acd36）登记行丢失恢复：提交说明声称人物 18+术语 3 收口，但 diff 实际未含 ren-ming-biao.md，yi-zhe-shuo-ming.md 仅 +2（Routley 相关），登记册行从未入库；凭证（termonline-all 22 键）与池状态（published@2026-11-01）已在库。本 rowspec 经 tools/term_flow.py 幂等重落：17 人物 + Trolley Problem（Ortega/Moore 已由 a7b989ee 补遗落地、Four Dimensionalism/Saṃdhinirmocana Sūtra 已由 6e5e86fe 补行落地，均自动跳过）。",
+  "recovered_at": "2026-11-02",
+  "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/（william_paley 等凭证在库）；tasks/manifests/2026-11-01-person-a8.json（原裁定 zh/basis 记录）",
+  "rows": [
+    {"en": "William Paley", "zh": "威廉·佩利", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "John Earman", "zh": "约翰·厄尔曼", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "John Norton", "zh": "约翰·诺顿", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Norman Malcolm", "zh": "诺曼·马尔科姆", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "John Harsanyi", "zh": "约翰·海萨尼", "table": "person", "basis": "审定“海萨尼”在案（博弈论）；凭证 2026-11-01"},
+    {"en": "John MacFarlane", "zh": "约翰·麦克法兰", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Jean Hampton", "zh": "让·汉普顿", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Richard Fitzralph", "zh": "理查德·菲茨拉尔夫", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Samuel Scheffler", "zh": "塞缪尔·谢弗勒", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Donna Haraway", "zh": "唐娜·哈拉维", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Richard Boyd", "zh": "理查德·博伊德", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Richard Lewontin", "zh": "理查德·列万廷", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Robert Holcot", "zh": "罗伯特·霍尔科特", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Derk Pereboom", "zh": "德克·佩雷布姆", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Arius Didymus", "zh": "阿里乌斯·迪迪穆斯", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "David Davies", "zh": "大卫·戴维斯", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Stuart Hampshire", "zh": "斯图尔特·汉普希尔", "table": "person", "basis": "学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）"},
+    {"en": "Trolley Problem", "zh": "电车难题", "table": "term", "anchor": "| Token / type |", "basis": "学界惯例（伦理学/行动哲学）；凭证 2026-11-01"}
+  ]
+}

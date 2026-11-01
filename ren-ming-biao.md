@@ -18,6 +18,7 @@
 | Amy Allen | 艾米·艾伦 | 语料回收（全目录） | 学界惯例（批判理论/女性主义）；凭证 2026-11-01 | 2026-11-01 |
 | Annette Baier | 安内特·拜尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Anton Marty | 安东·马蒂 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Arius Didymus | 阿里乌斯·迪迪穆斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Arthur Danto | 阿瑟·丹托 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Aulus Gellius | 奥卢斯·盖利乌斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Bahya ibn Paquda | 巴希亚·伊本·帕库达 | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -33,9 +34,12 @@
 | Cornel West | 康奈尔·韦斯特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Dana Scott | 达纳·斯科特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | David Armstrong | 大卫·阿姆斯特朗 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| David Davies | 大卫·戴维斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | David Hull | 大卫·赫尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | David Velleman | 大卫·维勒曼 | 语料回收（全目录） | 学界惯例（行动哲学/康德伦理学）；凭证 2026-11-01 | 2026-11-01 |
+| Derk Pereboom | 德克·佩雷布姆 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Dionysius the Areopagite | 亚略巴古的狄奥尼修斯（伪狄奥尼修斯） | abner-burgos | 教父学界通行汉译；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Donna Haraway | 唐娜·哈拉维 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Duns Scotus | 邓斯·司各脱（亦作“司各脱”） | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Edith Stein | 艾迪特·施泰因 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Emil Lask | 埃米尔·拉斯克 | 语料回收（全目录） | 学界惯例（新康德主义（西南学派））；凭证 2026-11-01 | 2026-11-01 |
@@ -70,12 +74,17 @@
 | James Ward | 詹姆斯·沃德 | 语料回收（全目录） | 学界惯例（英国观念论心理学家）；凭证 2026-11-01 | 2026-11-01 |
 | Jan Łukasiewicz | 扬·卢卡西维茨 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jason Stanley | 杰森·斯坦利 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Jean Hampton | 让·汉普顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Jerrold Levinson | 杰罗德·莱文森 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Johannes Kepler | 约翰内斯·开普勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | John Dewey | 约翰·杜威 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | John Dupré | 约翰·杜普雷 | 语料回收（全目录） | 学界惯例（生物学哲学/分类学批判）；凭证 2026-11-01 | 2026-11-01 |
+| John Earman | 约翰·厄尔曼 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
+| John Harsanyi | 约翰·海萨尼 | 语料回收（全目录） | 审定“海萨尼”在案（博弈论）；凭证 2026-11-01 | 2026-11-01 |
 | John Locke | 约翰·洛克 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
+| John MacFarlane | 约翰·麦克法兰 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | John Norris | 约翰·诺里斯 | 语料回收（全目录） | 学界惯例（英国柏拉图主义者）；凭证 2026-11-01 | 2026-11-01 |
+| John Norton | 约翰·诺顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | John Pollock | 约翰·波洛克 | 语料回收（全目录） | 学界惯例（人工智能/认识论（OSCAR 系统））；凭证 2026-11-01 | 2026-11-01 |
 | John Rawls | 约翰·罗尔斯 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | John Stuart Mill | 约翰·斯图亚特·穆勒（亦作“密尔”；SUMMARY 登记形 m/mill.md） | academic-freedom | 学界通行汉译（SUMMARY 单一事实源锚定）；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
@@ -109,25 +118,31 @@
 | Nancy Cartwright | 南希·卡特赖特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Nicholas Wolterstorff | 尼古拉斯·沃尔特斯托夫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Norman Daniels | 诺曼·丹尼尔斯 | 语料回收（全目录） | 学界惯例（罗尔斯研究/卫生公正）；凭证 2026-11-01 | 2026-11-01 |
+| Norman Malcolm | 诺曼·马尔科姆 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Paul Bernays | 保罗·贝尔奈斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Paul Grice | 保罗·格赖斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Paul Tillich | 保罗·蒂利希 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Peter Kivy | 彼得·基维 | 语料回收（全目录） | 学界惯例（音乐美学）；凭证 2026-11-01 | 2026-11-01 |
 | Porphyry | 波菲利 | abelard | 古典通行汉译（希腊哲学史工具书通行）；审定库命中 1 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Prophet Muhammad | 穆罕默德（先知） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Richard Boyd | 理查德·博伊德 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Richard Dedekind | 理查德·戴德金 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Richard Fitzralph | 理查德·菲茨拉尔夫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Richard Jeffrey | 理查德·杰弗里 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Richard Kilvington | 理查德·基尔文顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Richard Lewontin | 理查德·列万廷 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Richard Popkin | 理查德·波普金 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Richard Price | 理查德·普莱斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Richard Rufus | 理查德·鲁弗斯（Richard Rufus of Cornwall） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Robert Adams | 罗伯特·亚当斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Robert Audi | 罗伯特·奥迪 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Robert Brandom | 罗伯特·布兰登 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Robert Holcot | 罗伯特·霍尔科特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Robert Post | Robert Post（现代学者正文保留英文；通行汉译“波斯特”备查） | academic-freedom | 学界通行；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Roberto Torretti | 罗伯托·托雷蒂 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Roger Scruton | 罗杰·斯克鲁顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Roman Ingarden | 罗曼·英加尔登 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Samuel Scheffler | 塞缪尔·谢弗勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Sandra Harding | 桑德拉·哈丁 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Sewall Wright | 休厄尔·赖特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Sextus Empiricus | 塞克斯都·恩披里柯（亦作“恩培里柯”） | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
@@ -136,6 +151,7 @@
 | Stanley Fish | Stanley Fish（现代学者正文保留英文；通行汉译“费什”备查） | academic-freedom | 学界通行；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Stephen Schiffer | 斯蒂芬·希弗 | 语料回收（全目录） | 学界惯例（语言哲学/心灵哲学）；凭证 2026-11-01 | 2026-11-01 |
 | Stephen Stich | 斯蒂芬·斯蒂奇 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Stuart Hampshire | 斯图尔特·汉普希尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Szilágyi, K. | K. 西拉吉（首现括注 Szilágyi） | abraham-daud | 匈牙利语通行音译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Theodor Lipps | 西奥多·李普斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Thomas Carlyle | 托马斯·卡莱尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -149,6 +165,7 @@
 | Wilhelm Wundt | 威廉·冯特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | William Hamilton | 威廉·汉密尔顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | William Heytesbury | 威廉·海特斯伯里 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| William Paley | 威廉·佩利 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | William Wimsatt | 威廉·温萨特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Yan Hui | 颜回 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Yang Zhu | 杨朱 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -237,6 +254,45 @@
 | Künzang Sönam | Künzang Sönam（kun bzang bsod nams，1823–1905） | gelukpa | 无通行汉名，保留英文待裁定 | 2026-11-01 |
 | Bötrül | Bötrül（bod sprul mdo sngags bstan pa'i nyi ma，1898–1959） | gelukpa | 无通行汉名，保留英文待裁定 | 2026-11-01 |
 | Douglas Duckworth | Douglas Duckworth | gelukpa | 无通行汉名，保留英文 | 2026-11-01 |
+| Condorcet, Marie Jean Antoine Nicolas de Caritat, Marquis de | 孔多塞 | jury-theorems | 学界通行汉译（法国启蒙思想家、数学家）；凭据 2026-11-02 | 2026-11-02 |
+| Galton, Francis | 高尔顿 | jury-theorems | 学界通行汉译；凭据 2026-11-02 | 2026-11-02 |
+| Rousseau, Jean-Jacques | 卢梭 | jury-theorems | 学界通行汉译；凭据 2026-11-02 | 2026-11-02 |
+| Dietrich, Franz | Franz Dietrich | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Spiekermann, Kai | Kai Spiekermann | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Estlund, David | David Estlund | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Goldman, Alvin | Alvin Goldman | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| List, Christian | Christian List | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Landemore, Hélène | Hélène Landemore | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Goodin, Robert | Robert E. Goodin | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Ober, Josiah | Josiah Ober | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Grofman, Bernard | Bernard Grofman | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Paroush, Jacob | Jacob Paroush | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Pivato, Marcus | Marcus Pivato | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Dōgen | 道元 | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名） | 2026-11-02 |
+| Yoshida Kenkō | 吉田兼好 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
+| Murasaki Shikibu | 紫式部 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
+| Ozu Yasujirō | 小津安二郎 | japanese-aesthetics | 学界惯例（日本电影史通行汉名） | 2026-11-02 |
+| Sen no Rikyū | 千利休 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“千利休”） | 2026-11-02 |
+| Murata Shukō | 村田珠光 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“村田珠光”） | 2026-11-02 |
+| Takeno Jōō | 武野绍鸥 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“武野 紹鴎”） | 2026-11-02 |
+| Tanizaki Jun'ichirō | 谷崎润一郎 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
+| Matsuo Bashō | 松尾芭蕉 | japanese-aesthetics | 学界惯例（日本俳谐史通行汉名） | 2026-11-02 |
+| Mishima Yukio | 三岛由纪夫 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
+| Ichikawa Kon | 市川昆 | japanese-aesthetics | 学界惯例（日本电影史通行汉名） | 2026-11-02 |
+| Kamo no Chōmei | 鸭长明 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
+| Zeami Motokiyo | 世阿弥 | japanese-aesthetics | 学界惯例（日本能乐史通行汉名） | 2026-11-02 |
+| Sesshū Tōyō | 雪舟等杨 | japanese-aesthetics | 学界惯例（日本美术史通行汉名；源文自注“雪舟等楊”） | 2026-11-02 |
+| Kuki Shūzō | 九鬼周造 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
+| Nishitani Keiji | 西谷启治 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
+| Nishida Kitarō | 西田几多郎 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
+| Hakuin | 白隐 | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名） | 2026-11-02 |
+| Hideyoshi | 丰臣秀吉 | japanese-aesthetics | 学界惯例（日本战国史通行汉名） | 2026-11-02 |
+| Sasaki "Raku" Chōjirō | 长次郎 | japanese-aesthetics | 学界惯例（日本陶艺史通行汉名；源文自注“長次郎”） | 2026-11-02 |
+| Stanley Cavell | Stanley Cavell | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
+| Leslie Pincus | Leslie Pincus | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
+| Yukio Lippit | Yukio Lippit | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
+| Graham Parkes | Graham Parkes | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
+| Adam Loughnane | Adam Loughnane | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
 
 ## 登记格式说明
 
