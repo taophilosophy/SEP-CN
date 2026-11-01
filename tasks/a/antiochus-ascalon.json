@@ -2,8 +2,72 @@
   "slug": "antiochus-ascalon",
   "kind": "retranslate",
   "zh_doc": "a/antiochus-ascalon.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:31:11Z",
+      "evidence": "子代理已产出完整译文（零信任照译源钉），免清正文，仅状态迁移"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:32:12Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:35:13Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:35:13Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:35:14Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T17:18:16Z",
+      "evidence": "主会话复核推进（40路滚动收口）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T17:18:16Z",
+      "evidence": "主会话复核推进（40路滚动收口）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T17:18:17Z",
+      "evidence": "主会话复核推进（40路滚动收口）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T17:18:17Z",
+      "evidence": "主会话复核推进（40路滚动收口）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:51Z",
   "version_pin": {
