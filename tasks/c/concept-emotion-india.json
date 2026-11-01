@@ -1,14 +1,50 @@
 {
-  "slug": "concept-emotion-india",
-  "kind": "retranslate",
-  "zh_doc": "c/concept-emotion-india.md",
-  "state": "pending",
-  "steps": [],
-  "blockers": [],
-  "created_at": "2026-10-31T22:09:59Z",
-  "version_pin": {
-    "pubinfo_date": "Oct 30, 2025",
-    "archive_edition": "Winter 2025",
-    "sha256": "596e69290fcd10b2d4c2bd410336135e9397c8dd71cb86c91eaea9761d320a45"
+ "slug": "concept-emotion-india",
+ "kind": "retranslate",
+ "zh_doc": "c/concept-emotion-india.md",
+ "state": "s3_checked",
+ "steps": [
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-01T08:56:10Z",
+   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+  },
+  {
+   "step": "draft",
+   "status": "ok",
+   "actor": "主代理",
+   "at": "2026-11-01T08:56:10Z",
+   "evidence": "初译完成：零信任译自 yuanwen/concept-emotion-india.md，账本双版（step1/step2）齐全"
+  },
+  {
+   "step": "s1",
+   "status": "ok",
+   "actor": "主代理",
+   "at": "2026-11-01T08:56:10Z",
+   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+  },
+  {
+   "step": "s2",
+   "status": "ok",
+   "actor": "主代理",
+   "at": "2026-11-01T08:56:10Z",
+   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+  },
+  {
+   "step": "s3",
+   "status": "ok",
+   "actor": "主代理",
+   "at": "2026-11-01T08:56:10Z",
+   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-10-31T22:09:59Z",
+ "version_pin": {
+  "pubinfo_date": "Oct 30, 2025",
+  "archive_edition": "Winter 2025",
+  "sha256": "596e69290fcd10b2d4c2bd410336135e9397c8dd71cb86c91eaea9761d320a45"
+ }
 }
