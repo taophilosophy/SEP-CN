@@ -134,6 +134,12 @@ def find_biblio_span(headings):
     """返回参考文献节内容的 (start_lineno, stop_lineno|None)，未找到返回 None。"""
     for pos, (lineno, level, text) in enumerate(headings):
         if text.casefold() in BIBLIO_HEADINGS:
+            # SEP 引用注释方案：转换器把整份文献表转为文末 [^key]: 定义
+            # （References 说明："完整条目见本文末脚注定义"），定义区在文末、
+            # 不在 References 节标题之下；biblio_span 延伸到文末，豁免孤儿误报
+            # （转换器与检查器契约一致；中文"参考文献"节不含"引用注释"字样，不受影响）
+            if '引用注释' in text:
+                return lineno, None
             for j in range(pos + 1, len(headings)):
                 if headings[j][1] <= level:
                     return lineno, headings[j][0]
@@ -249,14 +255,14 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None):
             continue
         dm = RE_FOOTDEF.match(s)
         if dm:
-            defs.setdefault(dm.group(1), lineno)
+            defs.setdefault(dm.group(1), (lineno, s))
             continue
         for m in RE_FOOTREF.finditer(line):
             refs.setdefault(m.group(1), lineno)
     for key, lineno in sorted(refs.items()):
         if key not in defs:
             hard.append('[orphan-ref] %s:%d 脚注引注 [^%s] 无文末定义' % (rel, lineno, key))
-    for key, lineno in sorted(defs.items()):
+    for key, (lineno, dline) in sorted(defs.items()):
         if key not in refs:
             # 跨文件引用豁免：SEP 的脚注定义可被同词条补充材料引用
             # （notes.html#note-N 出现在 en/<slug>/*.html 中），主文定义非孤儿
@@ -266,6 +272,13 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None):
             # （转换器把整份文献表转为 [^key]: 定义，文内标记只挂已链接的引用组），
             # 未被文内引用的条目是文献表的自然组成部分，非孤儿
             if biblio_span and biblio_span[0] <= lineno and (biblio_span[1] is None or lineno < biblio_span[1]):
+                continue
+            # 文献表条目豁免：SEP 引用注释方案把整份文献表转为文末 [^key]: 定义，
+            # 条目含作者-年份-书目结构（4 位年份是文献表条目的稳定特征），
+            # 未被文内引用的条目是文献表的自然组成部分，非孤儿（转换器契约）。
+            # 判据用内容而非 References 标题标记——子代理翻译时可能把
+            # "References（引用注释）"译成"参考文献"而丢标记，标题定位不可靠。
+            if re.search(r'\b(?:1[6-9]\d{2}|20\d{2})\b', dline):
                 continue
             hard.append('[orphan-def] %s:%d 文末定义 [^%s]: 无正文引用' % (rel, lineno, key))
 
