@@ -2,7 +2,7 @@
   "slug": "identity-politics",
   "kind": "retranslate",
   "zh_doc": "i/identity-politics.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main-session",
       "at": "2026-11-01T19:24:00Z",
       "evidence": "第二批子代理已产出译文，主会话收口推进：体例/学术门禁核验通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:28:03Z",
+      "evidence": "独立复审：对照 yuanwen 三节+Combahee/Kruks/Connolly/Lilla/Fukuyama/Kumar 六条引块逐段核销，无漏译；Connolly 引文 'conceal into fixed forms' 回 en/ 原始 HTML 核对确系源文如此（疑 Connolly 原文 congeal），照录；2024 修订新增段落（OIR 三条、交叉性文献、profilicity）全数在场"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:28:04Z",
+      "evidence": "逐句回核修 9 处：Kruks 引文'而自身的尊重'破句→'而得到的尊重'/'主体间多元性'→'主体内多元性'（intrasubjective 误作 inter）/ '政治本体论'→'社会本体论'（social ontology）/ '原初位置'→'原初状态'（罗尔斯 standard）/ '毋宁，'脱'说' / 著名地主张×2 → 著名的论断/论点 / '被认为的上升'/'他的身份政治目标'措辞"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:28:04Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；批判理论术语一致性核验（交叉性/操演性/怨恨/精英俘获/本真性/承认与再分配/原住民）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:28:05Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
