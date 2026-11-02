@@ -116,7 +116,6 @@
 | Motoori Norinaga | 本居宣长 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Mou Zongsan | 牟宗三 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Nancy Cartwright | 南希·卡特赖特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Nicholas Wolterstorff | 尼古拉斯·沃尔特斯托夫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Norman Daniels | 诺曼·丹尼尔斯 | 语料回收（全目录） | 学界惯例（罗尔斯研究/卫生公正）；凭证 2026-11-01 | 2026-11-01 |
 | Norman Malcolm | 诺曼·马尔科姆 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Paul Bernays | 保罗·贝尔奈斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -173,6 +172,24 @@
 | Øystein Linnebo | 林内博（首现括注 Øystein Linnebo） | abstract-objects | 学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Śrīgupta | 室利笈多 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Śāntarakṣita | 寂护 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Amartya Sen | 阿马蒂亚·森 | justice-healthcareaccess | 学界惯例（《以自由看待发展》中译本通行） | 2026-11-02 |
+| Ronald Dworkin | 罗纳德·德沃金 | justice-healthcareaccess | 学界惯例（《认真对待权利》中译本通行） | 2026-11-02 |
+| G. A. Cohen | G. A. 科恩 | justice-healthcareaccess | 学界惯例（分析马克思主义政治哲学通行译法） | 2026-11-02 |
+| Richard Arneson | 理查德·阿内森 | justice-healthcareaccess | 学界惯例（政治哲学通行译法） | 2026-11-02 |
+| Bernard Williams | 伯纳德·威廉斯 | justice-healthcareaccess | 学界惯例（《伦理学与哲学的限度》中译本通行） | 2026-11-02 |
+| Charles Fried | 查尔斯·弗里德 | justice-healthcareaccess | 学界惯例（法学/生物伦理通行译法） | 2026-11-02 |
+| Kenneth Arrow | 肯尼斯·阿罗 | justice-healthcareaccess | 学界惯例（《社会选择与个人价值》中译本通行） | 2026-11-02 |
+| Michael Marmot | 迈克尔·马莫特 | justice-healthcareaccess | 学界惯例（公共卫生/健康不平等通行译法） | 2026-11-02 |
+| Gopal Sreenivasan | 戈帕尔·斯里尼瓦桑 | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
+| Shlomi Segall | 什洛米·塞加尔 | justice-healthcareaccess | 学界惯例（健康正义理论通行译法） | 2026-11-02 |
+| Lu Ann Aday | 卢·安·阿代 | justice-healthcareaccess | 学界惯例（卫生服务研究通行译法） | 2026-11-02 |
+| Ronald Andersen | 罗纳德·安德森 | justice-healthcareaccess | 学界惯例（卫生服务研究通行译法） | 2026-11-02 |
+| Alain Enthoven | 阿兰·恩索文 | justice-healthcareaccess | 学界惯例（卫生经济学通行译法） | 2026-11-02 |
+| Philip Bump | 菲利普·邦普 | justice-healthcareaccess | 学界惯例（新闻/政治评论通行译法） | 2026-11-02 |
+| Anne Fadiman | 安妮·法迪曼 | justice-healthcareaccess | 学界惯例（《神灵之箭》中译本通行） | 2026-11-02 |
+| Thomas Selden | 托马斯·塞尔登 | justice-healthcareaccess | 学界惯例（卫生经济学通行译法） | 2026-11-02 |
+| James E. Sabin | 詹姆斯·萨宾 | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
+| K. Ladin | K. 拉丁 | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |
 | ---- | ---- | ---- | ---- | -------- |
 | Alcmaeon | 阿尔克迈翁 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
@@ -293,6 +310,17 @@
 | Yukio Lippit | Yukio Lippit | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
 | Graham Parkes | Graham Parkes | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
 | Adam Loughnane | Adam Loughnane | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
+| Carol Gilligan | 卡罗尔·吉利根 | justice-virtue | 学界通行汉译（女性主义/关怀伦理，《不同的声音》中译本）；凭证 2026-11-02 | 2026-11-02 |
+| David Schmidtz | 戴维·施密茨 | justice-virtue | 学界通行汉译（政治哲学，《正义要素》）；凭证 2026-11-02 | 2026-11-02 |
+| David Wiggins | 戴维·威金斯 | justice-virtue | 学界通行汉译（伦理学/形而上学）；凭证 2026-11-02 | 2026-11-02 |
+| Jean Hampton | 琼·汉普顿 | justice-virtue | 学界通行汉译（政治哲学）；凭证 2026-11-02 | 2026-11-02 |
+| Jean Piaget | 皮亚杰 | justice-virtue | 学界通行汉译（儿童心理学/认识论）；凭证 2026-11-02 | 2026-11-02 |
+| Lawrence Kohlberg | 劳伦斯·科尔伯格 | justice-virtue | 学界通行汉译（道德发展心理学）；凭证 2026-11-02 | 2026-11-02 |
+| Michael Slote | 迈克尔·斯洛特 | justice-virtue | 学界通行汉译（德性/关怀伦理）；凭证 2026-11-02 | 2026-11-02 |
+| Nel Noddings | 内尔·诺丁斯 | justice-virtue | 学界通行汉译（关怀伦理，《关心》中译本）；凭证 2026-11-02 | 2026-11-02 |
+| Nicholas Wolterstorff | 尼古拉斯·沃尔特斯托夫 | justice-virtue | 学界通行汉译（宗教/政治哲学）；凭证 2026-11-02 | 2026-11-02 |
+| Virginia Held | 弗吉尼亚·赫尔德 | justice-virtue | 学界通行汉译（关怀伦理）；凭证 2026-11-02 | 2026-11-02 |
+| W.D. Ross | W.D.罗斯 | justice-virtue | 学界通行汉译（伦理学史，《正当与善》）；凭证 2026-11-02 | 2026-11-02 |
 
 ## 登记格式说明
 

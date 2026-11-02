@@ -461,7 +461,7 @@
 |Bergson|柏格森||
 |Berkeley|贝克莱||
 |Bernard Bosanquet|伯纳德·鲍桑葵||
-|Bernard Williams|伯纳德·威廉姆斯||
+|Bernard Williams|伯纳德·威廉斯||
 |Bernardino Telesio|贝尔纳迪诺·特勒肖||
 |Bessarion|贝萨里翁||
 |Big Data|大数据||

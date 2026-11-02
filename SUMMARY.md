@@ -2747,7 +2747,7 @@
 * [尚波的威廉 William of Champeaux (Kevin Guilfoy)](w/william-champeaux.md)
 * [\*奥卡姆的威廉——见奥卡姆的威廉 William of Ockham — see Ockham, William](o/ockham.md)
 * [舍伍德的威廉 William of Sherwood (Sara L. Uckelman)](w/william-sherwood.md)
-* [伯纳德·威廉姆斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)](w/williams-bernard.md)
+* [伯纳德·威廉斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)](w/williams-bernard.md)
 * [唐纳德·卡里·威廉姆斯 Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring)](w/williams-dc.md)
 * [约翰·库克·威尔逊 Wilson, John Cook (Mathieu Marion)](w/wilson.md)
 * [威廉·文德尔班 Windelband, Wilhelm (Katherina Kinzel)](w/wilhelm-windelband.md)

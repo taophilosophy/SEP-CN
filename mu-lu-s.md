@@ -392,7 +392,7 @@ outline: [1, 6]
 ## 19 世纪西方哲学 1750-1900
 * [亚历山大·冯·洪堡 Humboldt, Alexander von (Dalia Nassar)](a/alexander-humboldt.md)
 * [亚历山大·克鲁梅尔 Crummell, Alexander (Stephen Thompson)](a/alexander-crummell.md)
-* [詹姆斯·瓦德 Ward, James (Pierfrancesco Basile)](j/james-ward.md)
+* [詹姆斯·沃德 Ward, James (Pierfrancesco Basile)](j/james-ward.md)
 * [詹姆斯·穆勒 Mill, James (Terence Ball and Antis Loizides)](j/james-mill.md)
 * [古斯塔夫·特奥多尔·费希纳 Fechner, Gustav Theodor (Frederick C. Beiser)](f/fechner.md)
 * [威廉·马克西米利安·冯特 Wundt, Wilhelm Maximilian (Alan Kim)](w/wilhelm-wundt.md)
@@ -472,7 +472,7 @@ outline: [1, 6]
         * [维特根斯坦的数学哲学 philosophy of mathematics (Victor Rodych)](w/wittgenstein-mathematics.md)
         * [维特根斯坦的美学 aesthetics (Garry Hagberg)](w/wittgenstein-aesthetics.md)
   * [斯坦尼斯瓦夫·莱什涅夫斯基 Leśniewski, Stanisław (Peter Simons)](l/lesniewski.md)
-* [伯纳德·威廉姆斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)](w/williams-bernard.md)
+* [伯纳德·威廉斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)](w/williams-bernard.md)
 * [彼得·弗雷德里克·斯特劳森 Strawson, Peter Frederick (Paul Snowdon and Anil Gomes)](s/strawson.md)
 * [吉尔伯特·赖尔 Ryle, Gilbert (Julia Tanney)](r/ryle.md)
 * [约翰·朗肖·奥斯丁 Austin, John Langshaw (Guy Longworth)](a/austin-jl.md)

@@ -587,7 +587,7 @@
 | general competence | 一般胜任度 | jury-theorems | 学界惯例（本词条定名，无条件正确概率）；凭据 2026-11-02 | 2026-11-02 |
 | specific competence | 具体胜任度 | jury-theorems | 学界惯例（本词条定名，给定事实的条件正确概率）；凭据 2026-11-02 | 2026-11-02 |
 | unconditional independence | 无条件独立 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
-| conditional independence | 条件独立 | jury-theorems | 学界惯例（概率论通行）；凭据 2026-11-02 | 2026-11-02 |
+| conditional independence | 条件独立 | jury-theorems、justep-coherence | 学界惯例（概率论通行）；凭据 2026-11-02 | 2026-11-02 |
 | unconditional competence | 无条件胜任度 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
 | conditional competence | 条件胜任度 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
 | tendency to competence | 胜任倾向 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
@@ -674,3 +674,47 @@
 | self-cultivation | 修身 | japanese-aesthetics | 学界惯例（儒学/东亚哲学通行译法“修身”） | 2026-11-02 |
 | tea ceremony | 茶道仪式（茶会） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”） | 2026-11-02 |
 | wabi-sabi | 侘寂 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“侘寂”） | 2026-11-02 |
+| epistemic justification | 知识证成 | justep-coherence | 学界惯例（知识论通行译法；SUMMARY 词条名“知识证成的融贯论”） | 2026-11-02 |
+| coherentism | 融贯论 | justep-coherence | 学界惯例（哲学通译；已登记“coherence theory of truth=真理融贯论”） | 2026-11-02 |
+| coherence | 融贯 | justep-coherence | 学界惯例（哲学通译“融贯/融贯性”） | 2026-11-02 |
+| coherence theory of justification | 证成的融贯理论 | justep-coherence | 学界惯例（知识论通行译法） | 2026-11-02 |
+| weak foundationalism | 弱基础主义 | justep-coherence | 学界惯例（基础主义=foundationalism 已登记） | 2026-11-02 |
+| regress problem | 回溯问题 | justep-coherence | 学界惯例（证成回溯/无穷回溯通行译法） | 2026-11-02 |
+| justified true belief | 被证成的真信念 | justep-coherence | 学界惯例（JTB 通行译法） | 2026-11-02 |
+| truth candidate | 真理候选者 | justep-coherence | 学界惯例（Rescher 术语通行译法） | 2026-11-02 |
+| prima facie | 初显的 | justep-coherence | 学界惯例（哲学通译“初显的/prima facie”） | 2026-11-02 |
+| bona fide | 真实的 | justep-coherence | 学界惯例（哲学通译“真正的/bona fide”） | 2026-11-02 |
+| explanatory coherence | 解释性融贯 | justep-coherence | 学界惯例（Thagard 理论通行译法） | 2026-11-02 |
+| Content Determination Thesis | 内容决定论题 | justep-coherence | 学界惯例（Huemer 术语，直译） | 2026-11-02 |
+| testimonial system | 证言系统 | justep-coherence | 学界惯例（证词认识论通行译法） | 2026-11-02 |
+| truth conducive | 导向真理的 | justep-coherence | 学界惯例（truth-conducive 通行译法“导向真理”） | 2026-11-02 |
+| acceptance system | 接受系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
+| evaluation system | 评价系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
+| congruence | 一致（吻合） | justep-coherence | 学界惯例（Lewis 术语 congruence 通行译法“一致/吻合”） | 2026-11-02 |
+| isolation objection | 孤立性反驳 | justep-coherence | 学界惯例（直译） | 2026-11-02 |
+| alternative systems objection | 替代系统反驳 | justep-coherence | 学界惯例（直译） | 2026-11-02 |
+| ceteris paribus | 其余条件相同 | justep-coherence | 学界惯例（哲学通译“其余情况相同”） | 2026-11-02 |
+| Bayesian networks | 贝叶斯网络 | justep-coherence | 学界惯例（机器学习/哲学通行译法） | 2026-11-02 |
+| virtue ethics | 德性伦理学 | 首现（justice-virtue） | 学界惯例（德性伦理复兴通行译法，Hursthouse/Foot 谱系）；凭证 2026-11-02 | 2026-11-02 |
+| norm-prior | 规范优先 | 首现（justice-virtue） | 学界惯例（LeBar《Just People》等：规范在先、德性在后）；凭证 2026-11-02 | 2026-11-02 |
+| virtue-prior | 德性优先 | 首现（justice-virtue） | 学界惯例（与规范优先相对：德性在先、规范在后）；凭证 2026-11-02 | 2026-11-02 |
+| ataraxia | 心神宁静（亦作“不动心”） | 首现（justice-virtue） | 学界惯例（希腊化哲学伊壁鸠鲁/斯多葛通行）；凭证 2026-11-02 | 2026-11-02 |
+| pleonexia | 贪得（亦作“攫取过度”） | 首现（justice-virtue） | 学界惯例（亚里士多德《尼各马可伦理学》卷五）；凭证 2026-11-02 | 2026-11-02 |
+| sophrosune | 节制（亦作“明智”） | 首现（justice-virtue） | 学界惯例（柏拉图/亚里士多德）；凭证 2026-11-02 | 2026-11-02 |
+| dikaiosune | 正义 | 首现（justice-virtue） | 学界惯例（柏拉图《理想国》正义，希腊语原词）；凭证 2026-11-02 | 2026-11-02 |
+| phusis | 自然 | 首现（justice-virtue） | 学界惯例（自然/约定之辩）；凭证 2026-11-02 | 2026-11-02 |
+| nomos | 约定（亦作“习俗”） | 首现（justice-virtue） | 学界惯例（自然/约定之辩）；凭证 2026-11-02 | 2026-11-02 |
+| original position | 原初状态 | 首现（justice-virtue） | 学界惯例（《正义论》译本通行）；凭证 2026-11-02 | 2026-11-02 |
+| veil of ignorance | 无知之幕 | 首现（justice-virtue） | 学界惯例（《正义论》译本通行）；凭证 2026-11-02 | 2026-11-02 |
+| basic structure | 基本结构 | 首现（justice-virtue） | 学界惯例（罗尔斯《正义论》通行）；凭证 2026-11-02 | 2026-11-02 |
+| regulative desire | 规约性欲望 | 首现（justice-virtue） | 学界惯例（罗尔斯《正义论》通行）；凭证 2026-11-02 | 2026-11-02 |
+| capability approach | 可行能力进路 | 首现（justice-virtue） | 学界惯例（Sen/Nussbaum 通行，亦作“能力进路”）；凭证 2026-11-02 | 2026-11-02 |
+| goods of fortune | 幸运之善 | 首现（justice-virtue） | 学界惯例（亚里士多德）；凭证 2026-11-02 | 2026-11-02 |
+| metanormative | 元规范性 | 首现（justice-virtue） | 学界惯例（Rasmussen & Den Uyl《Norms of Liberty》）；凭证 2026-11-02 | 2026-11-02 |
+| doctrine of the mean | 中道学说 | 首现（justice-virtue） | 学界惯例（亚里士多德，亦作“中庸学说”）；凭证 2026-11-02 | 2026-11-02 |
+| eudaimonism | 幸福论 | 首现（justice-virtue） | 学界惯例（希腊伦理）；凭证 2026-11-02 | 2026-11-02 |
+| practical wisdom | 实践智慧 | 首现（justice-virtue） | 学界惯例（phronesis 通行译法）；凭证 2026-11-02 | 2026-11-02 |
+| agapic love | 圣爱 | 首现（justice-virtue） | 学界惯例（基督教 agape 通行译法）；凭证 2026-11-02 | 2026-11-02 |
+| caritas | 仁爱（亦作“博爱”） | 首现（justice-virtue） | 学界惯例（神学德性，托马斯·阿奎那）；凭证 2026-11-02 | 2026-11-02 |
+| negative virtue | 消极德性 | 首现（justice-virtue） | 学界惯例（亚当·斯密《道德情操论》通行）；凭证 2026-11-02 | 2026-11-02 |
+| ethical skill | 伦理技能 | 首现（justice-virtue） | 学界惯例（Widlok 直译）；凭证 2026-11-02 | 2026-11-02 |

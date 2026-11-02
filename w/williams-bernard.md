@@ -1,1 +1,1 @@
-# 伯纳德·威廉姆斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)
+# 伯纳德·威廉斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)
