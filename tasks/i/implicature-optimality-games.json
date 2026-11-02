@@ -2,7 +2,7 @@
   "slug": "implicature-optimality-games",
   "kind": "retranslate",
   "zh_doc": "i/implicature-optimality-games.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:55:11Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:37:03Z",
+      "evidence": "独立复审（复审者≠初译会话，满足 ADR-0020 独立性）：对照 yuanwen/i/implicature-optimality-games.md 逐节核销。发现 Critical 漏译：§1.2 末段整段缺失（weak optimality/blocking/Jäger 2002 算法，en 源 L61），已补译并回补 [^note-3] 正文锚点（原孤儿脚注定义已在校译文中）；其余六节+表格+公式+31 条脚注逐段核销无漏译错译；引用组照录核验（Parikh 1988/1991/2010/2024 等年份页码与源一致）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:37:50Z",
+      "evidence": "逐句回核原文与逻辑（r2）：定点修 5 处语言问题——①Grice（1967）引用组并入人名括注合流；②'把…用于把…'双把结构消除；③'公共已知'→'共同已知'（commonly known 博弈论惯译）；④结论段'区分出来'长定语链重构；⑤'语用地加强'→'语用上强化'。逐句逻辑回核：§2.2 双均衡论证、§2.3 蕴涵链方向（four⊂three⊂two⊂one 与源一致）、编号引用（1）–（6）跨节指涉核验无误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:38:16Z",
+      "evidence": "终稿验收：check_style --strict 0（补译段含 **阻断**（*blocking*）/弱最优 粗体空格惯例）；check_math 0 公式问题（45 处 $...$ + 2 处 $$...$$ + 2 表格逐字符保留）；check_summary 无 H1 偏差；学术门禁见 advance 自动拦截；终审签字"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:38:46Z",
+      "evidence": "终审验收签字：六道全过；Critical 漏译（§1.2 末段）已补；独立复审三步全由非初译会话执行；exit 0"
     }
   ],
   "blockers": [],
