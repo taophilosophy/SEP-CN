@@ -2,7 +2,7 @@
   "slug": "integrity",
   "kind": "retranslate",
   "zh_doc": "i/integrity.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:57:40Z",
       "evidence": "主会话收口：三校全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:37:44Z",
+      "evidence": "独立复审：对照 yuanwen 八节+Frankfurt/McFall/Korsgaard/Calhoun/Halfon/Williams 六家引块+乔治/高更/卡索邦三案例逐段核销，无漏译（2025 修订新增内容全在场：Golden 谦逊、Pianalto/Archer、personites n/a、齐格勒批评、迪宁-戈夫学术诚信元美德、罗森鲍姆实用主义、拉博德豁免两检验、Marrone/Venkatesh 辩护）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:37:44Z",
+      "evidence": "逐句回核修 4 处：真诚→本真性（authenticity 跨条目对齐）/要嘛→要么×2/'认为这可能，但一点也不像'脱字补全（not at all likely）/mark against'对立面'→'于诚信不利的一笔'"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:37:45Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；德性伦理术语一致性核验（诚信/完整性分立、自我整合/自我构成/赋予身份的承诺/全心全意/定言命令/超义务/簇概念）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:37:45Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
