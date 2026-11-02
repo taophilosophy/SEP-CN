@@ -2,7 +2,7 @@
   "slug": "ideology",
   "kind": "retranslate",
   "zh_doc": "i/ideology.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ideology-translator",
       "at": "2026-11-01T19:09:28Z",
       "evidence": "三校全绿：check_style 0 问题、check_academic --strict 0 硬错误、check_math 0；脚注 139 条照录逐字符一致、文内引注 212 处与源顺序一致；六节齐全"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:54:22Z",
+      "evidence": "独立复审：对照 yuanwen 三大节+全部小节（1.1-1.3/1.3.1-2/2.1-2.3/3.1-3.3/3.1.1.1-3/3.1.2）+Destutt/Connolly 类引块逐段核销，无漏译；引文核验：马克思'统治阶级的思想'、列宁两条、恩格斯'虚假意识'、加尔拉太书'并不分犹太人希腊人'近和合本体；施蒂纳本名 Schmitt 系源文如此照录；idéologues=观念学家 与 ideologists=意识形态家 之分立保持"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:54:23Z",
+      "evidence": "逐句回核修 6 处：'殖民政治生活世界'定语链重构/显白隐含→显性隐性（防施特劳斯显白隐微之联想，explicit/implicit 惯译）/有利害关切的生物→存在者×2（being 全库一致）/规则书 calque→按他们自己的规则行事（Alinsky）/失当支配者→不当主宰者（inappropriate governor）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:54:24Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；批判理论术语一致性核验（异化/物化/询唤/历史集团/霸权/支配意识形态论题/交叉性 n/a/适应性偏好/偏好伪装/刻板印象威胁/习得性无助）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:54:24Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
