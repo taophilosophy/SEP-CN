@@ -2,8 +2,44 @@
   "slug": "computability",
   "kind": "retranslate",
   "zh_doc": "c/computability.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:22:20Z",
+      "evidence": "在途快照 641faf13 已含零信任译文，免清正文仅状态迁移（albert-saxony 先例）；本会话清除装配重复 23 组与 MISSING 占位段"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:23:02Z",
+      "evidence": "初译稿 641faf13 在库；本会话重大收口：装配重复 23 组清除（三重重复的图灵机定义/对角线证明/原始递归函数段）、10 段 <<<MISSING>>> 占位英文段补译（描述复杂性图说/SAT 求解器/NP 哲学义等）、装配残留零残余"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:23:02Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：1（丘奇-图灵论题/entscheidungsproblem/哥德尔完备性不完全性）2（通用机/停机问题/对角线集 K/r.e. 与 co-r.e.）3（初始函数/复合与原始递归/加乘指数/超指数 H/对角函数 D/μ 算子）4（复杂度类/Cobham-Edmonds/NP/归约与完全性/Cook-Karp/Ladner/Schaefer 二分法/CSP/描述复杂性）全节+公式逐一对应对齐；查获并修正实义误译 1 处：323 行一阶存在逻辑→二阶存在逻辑（源文 second-order existential logic）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:23:02Z",
+      "evidence": "check_prose 19→11：实修 6 处（数学家枚举句拆分 9、法典化去加以 13、为算法分类 177、择一 196、选取 196、宣告接受 230）；余 11 条逐条豁免：9 条 de-chain 为自然中文或术语链，2 条长句（42 破折号插入语、189 Cobham 同位语句）为源文等长"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:23:02Z",
+      "evidence": "check_style 0 issue（补译段加粗空格合规）；check_math 0 unbalanced（公式显示块经去重后逐一核对）；check_academic --strict 0 硬错误（门禁实拦）；其他网络资源 2 项与相关词条 9 项已汉化（阿隆佐·邱奇|邱奇-图灵论题|计算复杂性理论|库尔特·哥德尔|量子计算|递归函数|集合论|艾伦·图灵|图灵机）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:11Z",
   "version_pin": {

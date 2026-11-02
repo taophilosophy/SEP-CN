@@ -6,11 +6,11 @@
 
 ## 1 原则上能计算什么？导言与历史
 
-20 世纪 30 年代，远在计算机问世之前，世界各地多位数学家发明了“可计算”的精确而彼此独立的定义。阿隆佐·邱奇（Alonzo Church）定义了 λ 演算（lambda calculus），库尔特·哥德尔（Kurt Gödel）定义了递归函数，斯蒂芬·克林（Stephen Kleene）定义了形式系统，马尔可夫（A. A. Markov）定义了后来所称的马尔可夫算法，埃米尔·波斯特（Emil Post）与艾伦·图灵（Alan Turing）定义了如今所称的波斯特机与图灵机的抽象机器。
+20 世纪 30 年代，远在计算机问世之前，世界各地多位数学家发明了“可计算”的精确而彼此独立的定义。阿隆佐·邱奇（Alonzo Church）定义了 λ 演算（lambda calculus），库尔特·哥德尔（Kurt Gödel）定义了递归函数，斯蒂芬·克林（Stephen Kleene）定义了形式系统。马尔可夫（A. A. Markov）定义了后来所称的马尔可夫算法，埃米尔·波斯特（Emil Post）与艾伦·图灵（Alan Turing）定义了如今所称的波斯特机与图灵机的抽象机器。
 
 令人惊讶的是，所有这些模型恰好彼此等价：凡在 λ 演算中可计算者，皆可被图灵机计算，对上述计算系统任意其他一对亦然。这一事实被证明之后，邱奇表达了如下信念：直观的“原则上可计算”概念与上述精确概念是同一的。这一信念现称“邱奇-图灵论题”（Church-Turing Thesis），为数学家们一致接受。
 
-推动“将可计算之物加以法典化”这一工作的部分动力，来自数学家大卫·希尔伯特（David Hilbert）。希尔伯特相信，全部数学都能被精确地公理化。一旦做到这一点，便会有一个“有效程序”，即一个算法，它取任何精确的数学陈述为输入，并在有限步之后判定该陈述为真或为假。希尔伯特所要求的，正是如今所称的全数学的 **判定过程**（decision procedure）。
+推动“将可计算之物法典化”这一工作的部分动力，来自数学家大卫·希尔伯特（David Hilbert）。希尔伯特相信，全部数学都能被精确地公理化。一旦做到这一点，便会有一个“有效程序”，即一个算法，它取任何精确的数学陈述为输入，并在有限步之后判定该陈述为真或为假。希尔伯特所要求的，正是如今所称的全数学的 **判定过程**（decision procedure）。
 
 作为这一判定问题的特例，希尔伯特考虑了一阶逻辑的有效性（判定）问题。一阶逻辑是一种数学语言，大多数数学陈述都可在其中表述。一阶逻辑中的每个陈述在每个适当的逻辑结构中都有精确的意义，即它在每个这样的结构中或真或假。凡在每个适当结构中为真的陈述，称为 **有效的**（valid）；凡在某个结构中为真的陈述，称为 **可满足的**（satisfiable）。注意，一个公式 $\varphi$ 是有效的，当且仅当其否定 $\neg \varphi$ 不可满足。
 
@@ -39,21 +39,6 @@
 - 一个读/写磁头 $h \ge 1$，扫描纸带单元 $\sigma_{h}$；以及最后，
 - 一个转移函数 $\delta : Q \times \Sigma \rightarrow Q \times \Sigma \times \{-1,0,1\}$。（转移函数的意义是：自任何给定状态 $q$ 出发，看到任何给定符号 $\sigma_{h}$ 时，$\delta$ 告诉我们机器应进入的新状态、应在当前方格写入的新符号，以及新磁头位置 $h' = h + d$，其中 $d \in \{-1,0,1\}$ 是 $\delta$ 给出的位移。）
 
-- 一个有限集 $Q$，为可能状态之集，因为任何装置都必须处于有限多个可能状态之一；
-- 一条潜在地无限的纸带，由相邻单元 $\sigma_{1}, \sigma_{2}, \sigma_{3}$ 组成，取自某个有限字母表 $\Sigma$；（$\Sigma$ 可以是任何至少含两个符号的有限集。取 $\Sigma = \{0, 1, b\}$ 较为方便，它由二进制字母表加上空白单元符号构成。我们通常假定纸带的一个有限初始段含有二进制符号，其余部分为空白。）
-- 一个读/写磁头 $h \ge 1$，扫描纸带单元 $\sigma_{h}$；以及最后，
-- 一个转移函数 $\delta : Q \times \Sigma \rightarrow Q \times \Sigma \times \{-1,0,1\}$。（转移函数的意义是：自任何给定状态 $q$ 出发，看到任何给定符号 $\sigma_{h}$ 时，$\delta$ 告诉我们机器应进入的新状态、应在当前方格写入的新符号，以及新磁头位置 $h' = h + d$，其中 $d \in \{-1,0,1\}$ 是 $\delta$ 给出的位移。）
-
-- 一个有限集 $Q$，为可能状态之集，因为任何装置都必须处于有限多个可能状态之一；
-- 一条潜在地无限的纸带，由相邻单元 $\sigma_{1}, \sigma_{2}, \sigma_{3}$ 组成，取自某个有限字母表 $\Sigma$；（$\Sigma$ 可以是任何至少含两个符号的有限集。取 $\Sigma = \{0, 1, b\}$ 较为方便，它由二进制字母表加上空白单元符号构成。我们通常假定纸带的一个有限初始段含有二进制符号，其余部分为空白。）
-- 一个读/写磁头 $h \ge 1$，扫描纸带单元 $\sigma_{h}$；以及最后，
-- 一个转移函数 $\delta : Q \times \Sigma \rightarrow Q \times \Sigma \times \{-1,0,1\}$。（转移函数的意义是：自任何给定状态 $q$ 出发，看到任何给定符号 $\sigma_{h}$ 时，$\delta$ 告诉我们机器应进入的新状态、应在当前方格写入的新符号，以及新磁头位置 $h' = h + d$，其中 $d \in \{-1,0,1\}$ 是 $\delta$ 给出的位移。）
-
-- 一个有限集 $Q$，为可能状态之集，因为任何装置都必须处于有限多个可能状态之一；
-- 一条潜在地无限的纸带，由相邻单元 $\sigma_{1}, \sigma_{2}, \sigma_{3}$ 组成，取自某个有限字母表 $\Sigma$；（$\Sigma$ 可以是任何至少含两个符号的有限集。取 $\Sigma = \{0, 1, b\}$ 较为方便，它由二进制字母表加上空白单元符号构成。我们通常假定纸带的一个有限初始段含有二进制符号，其余部分为空白。）
-- 一个读/写磁头 $h \ge 1$，扫描纸带单元 $\sigma_{h}$；以及最后，
-- 一个转移函数 $\delta : Q \times \Sigma \rightarrow Q \times \Sigma \times \{-1,0,1\}$。（转移函数的意义是：自任何给定状态 $q$ 出发，看到任何给定符号 $\sigma_{h}$ 时，$\delta$ 告诉我们机器应进入的新状态、应在当前方格写入的新符号，以及新磁头位置 $h' = h + d$，其中 $d \in \{-1,0,1\}$ 是 $\delta$ 给出的位移。）
-
 其存储纸带的线性性质——与随机存取存储器相对——限制的是计算速度而非能力：图灵机能够找到任何存储位置（即纸带单元），但这可能很耗时，因为它须沿纸带一步步移动磁头。
 
 图灵机之优美，在于该模型极其简单，却极其强大。图灵机拥有潜在地无限的工作空间，故能处理任意大的输入，例如相乘两个巨大的数；但它每一步只能读写有界的信息量，即一个符号。甚至在证明图灵机与所有其他数学计算模型等价之前、在任何邱奇-图灵论题的表述之前，图灵便令人信服地论证：他的机器与任何可能的计算装置一样强大。
@@ -61,9 +46,6 @@
 ### 2.1 通用机
 
 每台图灵机都可由其转移表唯一地描述：对每个状态 $q$ 与每个符号 $\sigma$，$\delta(q,\sigma)$ 给出新状态、新符号与磁头位移。这些转移表可写成一个有限的符号串，给出每台图灵机的完整指令集。此外，这些符号串可按字典序列出如下：$M_{1}, M_{2}, M_{3},\ldots$，其中 $M_{i}$ 是第 $i$ 号图灵机的转移表，即完整指令集。$M_{i}$ 的转移表便是第 $i$ 号图灵机的程序，或更简单地说，第 $i$ᵗʰ 个程序。
-
-图灵表明，他能构造一台图灵机 $U$，它是 **通用的**（universal），即它能运行任何其他图灵机的程序。更明确地说，对任何 $i$ 与任何输入 $w$，$U$ 在输入 $i$ 与 $w$ 上所做的，恰与 $M_{i}$ 在输入 $w$ 上所做的相同。用符号表示，
-$$ U(i,w) = M_{i}(w) $$
 
 图灵表明，他能构造一台图灵机 $U$，它是 **通用的**（universal），即它能运行任何其他图灵机的程序。更明确地说，对任何 $i$ 与任何输入 $w$，$U$ 在输入 $i$ 与 $w$ 上所做的，恰与 $M_{i}$ 在输入 $w$ 上所做的相同。用符号表示，
 $$ U(i,w) = M_{i}(w) $$
@@ -85,13 +67,7 @@ $$ U(i,w) = M_{i}(w) $$
 现在我们可以形式地定义“集合 **递归可枚举**（r.e.）”意味着什么——此前我们只是非形式地描述过它。设 $S \subseteq \mathbf{N}$。则 $S$ 是递归可枚举的，当且仅当存在某台图灵机 $M$，使 $S$ 为 $M$ 所计算函数的值域。用符号表示，
 $$ S = \{M(n) \mid n \in \mathbf{N}; M(n) \ne\nearrow\}. $$
 
-现在我们可以形式地定义“集合 **递归可枚举**（r.e.）”意味着什么——此前我们只是非形式地描述过它。设 $S \subseteq \mathbf{N}$。则 $S$ 是递归可枚举的，当且仅当存在某台图灵机 $M$，使 $S$ 为 $M$ 所计算函数的值域。用符号表示，
-$$ S = \{M(n) \mid n \in \mathbf{N}; M(n) \ne\nearrow\}. $$
-
 因此，$S$ 是递归可枚举的，当且仅当它能被某台图灵机列出。设 $S$ 是递归可枚举的，其元素如上被图灵机 $M$ 枚举。我们便可描述另一台图灵机 $P$：它在输入 $n$ 上，以轮转方式（round-robin）在 $M$ 的一切可能输入上运行 $M$，直到 $M$ 最终输出 $n$。若此事发生，则 $P$ 停机并输出“1”，即 $P(n)=1$。若 $n \not\in S$，则 $M$ 永不输出 $n$，故 $P(n)$ 永不停机，即 $P(n)=\nearrow$。
-
-令记号 $P(n)\downarrow$ 表示图灵机 $P$ 在输入 $n$ 上最终停机。对图灵机 $P$，定义 $L(P)$——*被 $P$ 接受的集合*——为那些使 $P$ 在输入 $n$ 上最终停机的数 $n$，
-$$ L(P) = \{n \mid P(n)\downarrow \}. $$
 
 令记号 $P(n)\downarrow$ 表示图灵机 $P$ 在输入 $n$ 上最终停机。对图灵机 $P$，定义 $L(P)$——*被 $P$ 接受的集合*——为那些使 $P$ 在输入 $n$ 上最终停机的数 $n$，
 $$ L(P) = \{n \mid P(n)\downarrow \}. $$
@@ -111,31 +87,16 @@ $$ L(P) = \{n \mid P(n)\downarrow \}. $$
 图灵如下构造一个对角线停机集 $K$：
 $$ K = \{n \mid M_{n}(n)\downarrow \}. $$
 
-图灵如下构造一个对角线停机集 $K$：
-$$ K = \{n \mid M_{n}(n)\downarrow \}. $$
-
 也就是说，$K$ 由那些以自身程序为输入时最终停机的图灵机组成。
 
 不难看出 $K$ 是递归可枚举的。为引出矛盾，假设 $K$ 亦余递归可枚举，并设 $d$ 为接受 $K$ 之补集的那台图灵机的编号。也就是说，对任何 $n$，
 $$ n \not\in K \Leftrightarrow M_{d}(n)\downarrow $$
 
-不难看出 $K$ 是递归可枚举的。为引出矛盾，假设 $K$ 亦余递归可枚举，并设 $d$ 为接受 $K$ 之补集的那台图灵机的编号。也就是说，对任何 $n$，
-$$ n \not\in K \Leftrightarrow M_{d}(n)\downarrow $$
-
-但试考虑把上式中的 $n$ 代换为 $d$ 时会发生什么：
-$$ d \not\in K \Leftrightarrow M_{d}(d)\downarrow. $$
-
 但试考虑把上式中的 $n$ 代换为 $d$ 时会发生什么：
 $$ d \not\in K \Leftrightarrow M_{d}(d)\downarrow. $$
 
 然而，$K$ 的定义告诉我们：
 $$ d \in K \Leftrightarrow M_{d}(d)\downarrow . $$
-
-然而，$K$ 的定义告诉我们：
-$$ d \in K \Leftrightarrow M_{d}(d)\downarrow . $$
-
-于是我们得到
-$$ d \in K \Leftrightarrow d \not\in K, $$
 
 于是我们得到
 $$ d \in K \Leftrightarrow d \not\in K, $$
@@ -145,21 +106,6 @@ $$ d \in K \Leftrightarrow d \not\in K, $$
 ## 3 原始递归函数
 
 我们接下来定义 **原始递归函数**（primitive recursive functions）类。这是一类非常有趣的函数，由斯科伦（Thoralf Skolem）在一篇 1923 年的论文中描述，并被哥德尔用于其不完备性定理的证明。我们关注从 $\mathbf{N}^{r}$ 到 $\mathbf{N}$ 的函数 $f$，其中 $r = 0, 1, 2,\ldots$。这里 $r$ 称为函数 $f$ 的元数（arity），即它所取参数的个数。哥德尔从三个非常简单的函数（初始函数）和两个自然的闭包运算（复合与原始递归）出发，其中每一个都取若干已定义的函数，并用它们定义一个新函数。我们接下来详细解释他的定义。本节是技术性的，可以放心跳过。重要的观念在于：原始递归函数构成一个非常大而强大的可计算函数类，而且全部以极其简单的方式生成。
-
-我们从三个 **初始** 原始递归函数出发：
-- $\zeta$，元数为 0 的零函数，$\zeta$( ) $= 0$；
-- $\eta$，元数为 1 的恒等函数，$\eta(n) = n$；以及
-- $\sigma$，元数为 1 的后继函数，$\sigma(n) = n +1$。
-
-我们从三个 **初始** 原始递归函数出发：
-- $\zeta$，元数为 0 的零函数，$\zeta$( ) $= 0$；
-- $\eta$，元数为 1 的恒等函数，$\eta(n) = n$；以及
-- $\sigma$，元数为 1 的后继函数，$\sigma(n) = n +1$。
-
-我们从三个 **初始** 原始递归函数出发：
-- $\zeta$，元数为 0 的零函数，$\zeta$( ) $= 0$；
-- $\eta$，元数为 1 的恒等函数，$\eta(n) = n$；以及
-- $\sigma$，元数为 1 的后继函数，$\sigma(n) = n +1$。
 
 我们从三个 **初始** 原始递归函数出发：
 - $\zeta$，元数为 0 的零函数，$\zeta$( ) $= 0$；
@@ -183,19 +129,10 @@ $$ d \in K \Leftrightarrow d \not\in K, $$
 如下定义加法函数 $P(x,y)$：
 $$\begin{align} P(0,y) &= \eta(y) \\ P(n+1,y) &= \sigma(P(n,y)) \end{align}$$
 
-如下定义加法函数 $P(x,y)$：
-$$\begin{align} P(0,y) &= \eta(y) \\ P(n+1,y) &= \sigma(P(n,y)) \end{align}$$
-
 （注意，这符合原始递归的定义，因为函数 $g(x_{1},x_{2},x_{3}) = \eta(\sigma(x_{1}))$ 可由初始函数 $\eta$ 与 $\sigma$ 经复合定义。）
 
 接下来，如下定义乘法函数 $T(x,y)$：
 $$\begin{align} T(0,y) &= \zeta(\ ) \\ T(n+1,y) &= P(T(n,y),y). \end{align}$$
-
-接下来，如下定义乘法函数 $T(x,y)$：
-$$\begin{align} T(0,y) &= \zeta(\ ) \\ T(n+1,y) &= P(T(n,y),y). \end{align}$$
-
-接下来，我们定义指数函数 $E(x,y)$。（通常 $0^{0}$ 被视为无定义，但由于原始递归函数必须是全的，我们把 $E$(0,0) 定义为 1。）由于原始递归只允许我们在第一个参数上递归，我们分两步定义指数函数：
-$$\begin{align} R(0,y) &= \sigma(\zeta(\ )) \\ R(n+1,y) &= T(R(n,y),y). \end{align}$$
 
 接下来，我们定义指数函数 $E(x,y)$。（通常 $0^{0}$ 被视为无定义，但由于原始递归函数必须是全的，我们把 $E$(0,0) 定义为 1。）由于原始递归只允许我们在第一个参数上递归，我们分两步定义指数函数：
 $$\begin{align} R(0,y) &= \sigma(\zeta(\ )) \\ R(n+1,y) &= T(R(n,y),y). \end{align}$$
@@ -219,26 +156,11 @@ $$\begin{align} H(0,y) &= y \\ H(n+1,y) &= E(2,H(n,y)) \end{align}$$
 注意，$D$ 是从 $\mathbf{N}$ 到 $\mathbf{N}$ 的、全的、可计算的函数，但它不是原始递归的。为什么？为引出矛盾，假设 $D$ 是原始递归的。则 $D$ 将等于某个 $d\in \mathbf{N}$ 的 $p_{d}$。但如此便会推出
 $$ p_{d}(d) = p_{d}(d) +1, $$
 
-注意，$D$ 是从 $\mathbf{N}$ 到 $\mathbf{N}$ 的、全的、可计算的函数，但它不是原始递归的。为什么？为引出矛盾，假设 $D$ 是原始递归的。则 $D$ 将等于某个 $d\in \mathbf{N}$ 的 $p_{d}$。但如此便会推出
-$$ p_{d}(d) = p_{d}(d) +1, $$
-
 这是一个矛盾。因此，$D$ 不是原始递归的。
 
 遗憾的是，上述对角论证适用于任何可被视为“所有可计算函数类”之候选的全函数类。若我们想要所有原则上（而不仅是实践上）可计算的函数，绕开这一点的唯一办法，便是添加某种无界搜索运算。这正是哥德尔为把原始递归函数扩展为递归函数所做的。
 
 如下定义无界极小化算子（unbounded minimization operator）$\mu$。设 $f$ 是一个也许部分的、元数为 $k+1$ 的函数。则 $\mu[f$] 定义为下列元数为 $k$ 的函数。在输入 $x_{1}, \ldots ,x_{k}$ 上执行如下步骤：
-
-对于 $i = 0$ 到 $\infty$ 执行 $\{$
-
-如果 $f(i,x_{1},\ldots ,x_{k}) = 1$，则输出 $i$
-
-$\}$
-
-对于 $i = 0$ 到 $\infty$ 执行 $\{$
-
-如果 $f(i,x_{1},\ldots ,x_{k}) = 1$，则输出 $i$
-
-$\}$
 
 对于 $i = 0$ 到 $\infty$ 执行 $\{$
 
@@ -252,10 +174,7 @@ $\}$
 
 ## 4 计算复杂性：实践中可计算的函数
 
-二战期间，图灵在布莱切利园（Bletchley Park）协助设计并建造了一种名为 Bombe 的专用计算装置。他用 Bombe 破解了德国的“恩尼格玛”（Enigma）密码，大大助益了盟军事业 [Hodges, 1992]。到 20 世纪 60 年代，计算机已在工业界与大学中广泛可得。随着算法被开发出来解决无数问题，一些数学家与科学家开始按效率对算法进行分类，并为某些问题寻求最佳算法。这是现代计算理论的开端。
-
-本节讨论的是复杂性而非可计算性，而且我们考虑的所有图灵机都将在其一切输入上停机。我们不采用“停机即接受”的方式，而是假定图灵机以输出“1”表示接受、以输出“0”表示拒绝，于是重新定义一台全机器 $M$ 所接受的集合，
-$$ L(M) = \{n \mid M(n) = 1\}. $$
+二战期间，图灵在布莱切利园（Bletchley Park）协助设计并建造了一种名为 Bombe 的专用计算装置。他用 Bombe 破解了德国的“恩尼格玛”（Enigma）密码，大大助益了盟军事业 [Hodges, 1992]。到 20 世纪 60 年代，计算机已在工业界与大学中广泛可得。随着算法被开发出来解决无数问题，一些数学家与科学家开始按效率为算法分类，并为某些问题寻求最佳算法。这是现代计算理论的开端。
 
 本节讨论的是复杂性而非可计算性，而且我们考虑的所有图灵机都将在其一切输入上停机。我们不采用“停机即接受”的方式，而是假定图灵机以输出“1”表示接受、以输出“0”表示拒绝，于是重新定义一台全机器 $M$ 所接受的集合，
 $$ L(M) = \{n \mid M(n) = 1\}. $$
@@ -267,20 +186,14 @@ $$ L(M) = \{n \mid M(n) = 1\}. $$
 对任何函数 $T : \mathbf{N} \rightarrow \mathbf{N}$，设
 $$ \TIME[T(n)] = \{ A \mid A = L(M) \text{ for some } M \text{ that runs in time } T(n)\}. $$
 
-对任何函数 $T : \mathbf{N} \rightarrow \mathbf{N}$，设
-$$ \TIME[T(n)] = \{ A \mid A = L(M) \text{ for some } M \text{ that runs in time } T(n)\}. $$
-
-艾伦·科巴姆（Alan Cobham）与杰克·埃德蒙兹（Jack Edmonds）把在某个多项式时间内可识别的复杂性类 $\P$，确认为可行问题类的一个极佳数学包装——所谓可行问题，即那些其全部中等规模实例都能被可行地识别的问题，
-$$ \P = \bigcup_{i=1,2,\ldots} \TIME[n^{i}] $$
-
-艾伦·科巴姆（Alan Cobham）与杰克·埃德蒙兹（Jack Edmonds）把在某个多项式时间内可识别的复杂性类 $\P$，确认为可行问题类的一个极佳数学包装——所谓可行问题，即那些其全部中等规模实例都能被可行地识别的问题，
+艾伦·科巴姆（Alan Cobham）与杰克·埃德蒙兹（Jack Edmonds）把在某个多项式时间内可识别的复杂性类 $\P$，确认为可行问题类的一个极佳数学包装——所谓可行问题，即那些其全部中等规模实例都能被可行地识别的问题：
 $$ \P = \bigcup_{i=1,2,\ldots} \TIME[n^{i}] $$
 
 任何不在 $\P$ 中的问题，当然不是可行的。另一方面，凡在 $\P$ 中拥有算法的自然问题，通常最终都会为其发现实际可行的算法。
 
 除 P 之外，许多重要的复杂性类已被定义并研究；其中若干是 $\NP$、$\PSPACE$ 与 $\EXPTIME$。$\PSPACE$ 由那些可用某个多项式量内存空间解决的问题组成；$\EXPTIME$ 则是在时间 $2^{p(n)}$（$p$ 为某个多项式）内可解决的问题集。
 
-上述各类中最有趣的，或许是 NP：非确定性多项式时间。其定义并非来自真实机器，而是一种数学抽象。一台非确定性图灵机 $N$，在每一步都要在两种可能的动作中作出一个选择（猜测）。若在输入 $w$ 上，这些选择的某个序列导致接受，则我们说 $\mathbf{N}$ 接受 $w$，并说 $\mathbf{N}$ 在输入 $w$ 上所用的 **非确定性时间**（nondeterministic time），就是导致接受的那个序列所走的步数。非确定性机器并不为它可能作出的所有其他选择计费，只计费那单一的正确选择序列。
+上述各类中最有趣的，或许是 NP：非确定性多项式时间。其定义并非来自真实机器，而是一种数学抽象。一台非确定性图灵机 $N$，在每一步都要在两种可能的动作中择一（猜测）。若在输入 $w$ 上，这些选择的某个序列导致接受，则我们说 $\mathbf{N}$ 接受 $w$，并说 $\mathbf{N}$ 在输入 $w$ 上所用的 **非确定性时间**（nondeterministic time），就是导致接受的那个序列所走的步数。非确定性机器并不为它可能选取的所有其他选择计费，只计费那单一的正确选择序列。
 
 NP 有时被描述为拥有成员资格短证明的问题 $S$ 之集。例如，假设给定我们一个由 $m$ 个大的自然数组成的列表 $a_{1}, \ldots ,a_{m}$，以及一个目标数 $t$。这是子集和（Subset Sum）问题的一个实例：是否存在这 $m$ 个数的一个子集，其和恰好等于 $t$？这个问题在非确定性线性时间内容易解决：对每个 $i$，我们猜测是否取 $a_{i}$；接着把决定取的所有数加起来，若和等于 $t$ 则接受。因此非确定性时间是线性的，即某个常数乘以输入长度 $n$。然而，尚无已知的（确定性）方法能在小于 $n$ 的指数时间内解决此问题。
 
@@ -314,13 +227,13 @@ NP 有时被描述为拥有成员资格短证明的问题 $S$ 之集。例如，
 
 NP 类之所以被研究得如此透彻，是因为大量重要的实际问题都是 NP 完全的，包括子集和。这些问题中没有一个已知拥有快于指数时间的算法，尽管某些 NP 完全问题容许对其解作可行的近似。
 
-关于计算复杂性，仍有许多未解之事。我们知道，拥有严格更多的某种特定计算资源，使我们能解决严格更难的问题，例如 $\TIME[n]$ 严格包含于 $\TIME[n^{1.01}]$，对 $\SPACE$ 与其他度量亦然。然而，不同计算资源之间的权衡仍相当不为人所理解。显然 $\P$ 包含于 $\NP$。此外，$\NP$ 包含于 $\PSPACE$，因为在 $\PSPACE$ 中我们可以系统地尝试 $\NP$ 计算的每一个分支，为相继的分支重用空间，并在这些分支中任一者导致接受时予以接受。$\PSPACE$ 包含于 $\EXPTIME$，因为若一台 $\PSPACE$ 机器耗时超过指数时间，则它必已恰好重复了某个构型，故必处于无限循环之中。下列是上述各类之间的已知关系：
+关于计算复杂性，仍有许多未解之事。我们知道，拥有严格更多的某种特定计算资源，使我们能解决严格更难的问题，例如 $\TIME[n]$ 严格包含于 $\TIME[n^{1.01}]$，对 $\SPACE$ 与其他度量亦然。然而，不同计算资源之间的权衡仍相当不为人所理解。显然 $\P$ 包含于 $\NP$。此外，$\NP$ 包含于 $\PSPACE$，因为在 $\PSPACE$ 中我们可以系统地尝试 $\NP$ 计算的每一个分支，为相继的分支重用空间，并在这些分支中任一者导致接受时即宣告接受。$\PSPACE$ 包含于 $\EXPTIME$，因为若一台 $\PSPACE$ 机器耗时超过指数时间，则它必已恰好重复了某个构型，故必处于无限循环之中。下列是上述各类之间的已知关系：
 
 $$ \P \subseteq \NP \subseteq \PSPACE \subseteq \EXPTIME $$
 
 然而，尽管 $\P$ 严格包含于 $\NP$、$\NP$ 严格包含于 $\PSPACE$、$\PSPACE$ 严格包含于 $\EXPTIME$ 似乎显而易见，但这些不等式却无一被证明。事实上，人们甚至不知道 $\P$ 是否异于 $\PSPACE$，也不知道 $\NP$ 是否异于 $\EXPTIME$。上述关系中唯一已知的真包含，是 $\P$ 严格包含于 $\EXPTIME$。至于不同计算资源相对力量的其他问题，则是计算理论中一些基本的未解难题。
 
-下图描绘了我们讨论过的所有复杂性类，另加少数几个。该图来自描述复杂性（Descriptive Complexity）方面的工作 [Immerman, 1999]，它表明一切重要的复杂性类都具有描述性刻画。法金（Fagin）开创了这一领域，他证明 NP = SO$\exists$，即一个性质属于 NP，当且仅当它可在一阶存在逻辑中表达 [Fagin, 1974]。
+下图描绘了我们讨论过的所有复杂性类，另加少数几个。该图来自描述复杂性（Descriptive Complexity）方面的工作 [Immerman, 1999]，它表明一切重要的复杂性类都具有描述性刻画。法金（Fagin）开创了这一领域，他证明 NP = SO$\exists$，即一个性质属于 NP，当且仅当它可在二阶存在逻辑中表达 [Fagin, 1974]。
 
 瓦尔迪（Vardi）与本词条作者后来各自独立地证明 P = FO(LFP)：一个性质属于 P，当且仅当它可用一阶逻辑加上一个最小不动点算子（least fixed-point operator，LFP）表达，该算子形式化了通过归纳定义新关系的力量。这一结论的一个引人入胜的推论是：P = NP，当且仅当 SO = FO(LFP)。也就是说，P 等于 NP，当且仅当每个可用二阶逻辑表达的性质，已可用一阶逻辑加上归纳定义表达。（所涉语言定义在有限有序输入结构上；详见 [Immerman, 1999]。）
 
@@ -328,25 +241,25 @@ $$ \P \subseteq \NP \subseteq \PSPACE \subseteq \EXPTIME $$
 
 可计算性与复杂性的世界
 
-<<<MISSING>>>The top right of the diagram shows the recursively enumerable (r.e.) problems; this includes r.e.-complete problems such as the halting problem (Halt). On the left is the set of co-r.e. problems including the co-r.e.-complete problem $\overline{{\rm Halt}}$ -- the set of Turing Machines that never halt on a given input. We mentioned at the end of Section 2.3 that the intersection of the set of r.e problems and the set of co-r.e problems is equal to the set of Recursive problems. The set of Primitive Recursive problems is a strict subset of the Recursive problems.
+图的右上方是递归可枚举（r.e.）问题；其中包括停机问题（Halt）等 r.e. 完全问题。左侧是 co-r.e. 问题集，包括 co-r.e. 完全问题 $\overline{{\rm Halt}}$——即在给定输入上从不停机的图灵机之集合。我们在 2.3 节末尾提到，r.e. 问题集与 co-r.e. 问题集之交等于递归（Recursive）问题集。原始递归（Primitive Recursive）问题集是递归问题集的真子集。
 
-<<<MISSING>>>Moving toward the bottom of the diagram, there is a region marked with a green dotted line labelled “truly feasible”. Note that this is not a mathematically defined class, but rather an intuitive notion of those problems that can be solved exactly, for all the instances of reasonable size, within a reasonable amount of time, using a computer that we can afford. (Interestingly, as the speed of computers has dramatically increased over the years, our expectation of how large an instance we should be able to handle has increased accordingly. Thus, the boundary of what is “truly feasible” changes more slowly than the increase of computer speed might suggest.)
+向图的下方看，有一个以绿色虚线标出的区域，标注为“真正可行”（truly feasible）。注意这并非一个数学上定义的类，而是这样一个直观概念：那些能够被精确求解、对所有合理规模的实例、在合理时间内、用我们买得起的计算机求解的问题。（有趣的是，随着多年来计算机速度的急剧提升，我们对所能处理实例规模的预期也相应提高。因此，“真正可行”的边界变化，比计算机速度的提升所暗示的要慢。）
 
-<<<MISSING>>>As mentioned before, P is a good mathematical wrapper for the set of feasible problems. There are problems in P requiring $n^{1,000}$ time for problems of size $n$ and thus not feasible. Nature appears to be our friend here, which is to say naturally occurring problems in P favor relatively simple algorithms, and “natural” problems tend to be feasible. The number of steps required for problems of size $n$ tends to be less than $c n^k$ with small multiplicative constants $c$, and very small exponents, $k$, i.e., $k\leq 2$.
+如前所述，P 是可行问题集的一个良好的数学包装。P 中有些问题对规模 $n$ 的输入需要 $n^{1,000}$ 的时间，因而不可行。大自然在此似乎是我们的朋友：自然出现于 P 中的问题偏爱相对简单的算法，而“自然的”问题往往是可行的。对规模 $n$ 的问题所需的步数往往小于 $c n^k$，其中乘法常数 $c$ 很小，指数 $k$ 也极小，即 $k\leq 2$。
 
-<<<MISSING>>>In practice the asymptotic complexity of naturally occurring problems tends to be the key issue determining whether or not they are feasible. A problem with complexity $17n$ can be handled in under a minute on modern computers, for *every* instance of size a billion. On the other hand, a problem with worst-case complexity $2^n$ cannot be handled in our lifetimes for *some* instance of size a hundred.
+实践中，自然出现问题的渐近复杂度往往是决定其是否可行的关键。复杂度为 $17n$ 的问题，在现代计算机上，对规模为十亿的 **每一个** 实例都能在一分钟内处理。另一方面，最坏情形复杂度为 $2^n$ 的问题，对规模仅为一百的 **某些** 实例，我们终其一生也无法处理。
 
-<<<MISSING>>>As discussed, natural problems tend to be complete for important complexity classes, namely the ones in the diagram and only a very few others. This fascinating phenomenon means that algorithms and complexity are more than abstract concepts; they are important at a practical level. We have had remarkable success in proving that our problem of interest is complete for a well-known complexity class. If the class is contained in P, then we can usually just look up a known efficient algorithm. Otherwise, we must look at simplifications or approximations of our problem which may be feasible.
+如前所述，自然问题往往对重要复杂性类是完全的，即图中所列的那些类以及仅极少数其他类。这一迷人的现象意味着，算法与复杂性不只是抽象概念；它们在实践层面上也很重要。我们在证明所关注的问题对某一知名复杂性类是完全的这方面，已取得显著成功。若该类包含于 P，我们通常只需查找一个已知的高效算法；否则，我们就必须考察该问题的简化或近似，后者或许是可行的。
 
-<<<MISSING>>>There is a rich theory of the approximability of NP optimization problems (See [Arora & Barak, 2009]). For example, the Subset Sum problem mentioned above is an NP-complete problem. Most likely it requires exponential time to tell whether a given Subset Sum problem has an exact solution. However, if we only want to see if we can reach the target up to a fixed number of digits of accuracy, then the problem is quite easy, i.e., Subset Sum is hard, but very easy to approximate.
+关于 NP 优化问题的可近似性，已有丰富的理论（见 [Arora & Barak, 2009]）。例如，上文提到的子集和（Subset Sum）问题是 NP 完全的。判定一个给定的子集和问题是否有精确解，多半需要指数时间。然而，若我们只想知道能否在固定精度的位数内达到目标，该问题就相当容易，即子集和问题很难，却极易近似。
 
-<<<MISSING>>>Even the r.e.-complete Halting problem has many important feasible subproblems. Given a program, it is in general not possible to figure out what it does and whether or not it eventually halts. However, most programs written by programmers or students can be automatically analyzed, optimized and even corrected by modern compilers and model checkers.
+即便是 r.e. 完全的停机问题，也有许多重要的可行子问题。给定一个程序，一般而言无法弄清它做什么、是否会最终停机。然而，程序员或学生编写的大多数程序，可以由现代编译器与模型检查器自动分析、优化乃至纠正。
 
-<<<MISSING>>>The class NP is very important practically and philosophically. It is the class of problems, $S$, such that any input $w$ is in $S$ iff there is a proof, $p(w)$, that $w\in S$ and $p(w)$ is not much larger than $w$. Thus, very informally, we can think of NP has the set of intellectual endeavors that may be in reach: if we find the answer to whether $w \in S$, we can convince others that we have done so.
+NP 类在实践与哲学上都极为重要。它是这样一类问题 $S$：任一输入 $w$ 属于 $S$，当且仅当存在一个证明 $p(w)$ 表明 $w\in S$，且 $p(w)$ 不比 $w$ 大多少。因此，非常不严格地说，我们可以把 NP 想成那些可能企及的智识事业的集合：若我们找到了 $w\in S$ 与否的答案，就能使他人相信我们确实找到了。（源文“NP has the set”系笔误，当作 “NP as the set”，照其义译出。）
 
-<<<MISSING>>>The boolean satisfiability problem, SAT, was the first problem proved NP complete [Cook, 1971], i.e., it is a hardest NP problem. The fact that SAT is NP complete means that all problems in NP are reducible to SAT. Over the years, researchers have built very efficient SAT solvers which can quickly solve many SAT instances – i.e., find a satisfying assignment or prove that there is none -- even for instances with millions of variables. Thus, SAT solvers are being used as general purpose problem solvers. On the other hand, there are known classes of small instances for which current SAT solvers fail. Thus part of the P versus NP question concerns the practical and theoretical complexity of SAT [Nordström, 2015].
+布尔可满足性问题 SAT 是第一个被证明为 NP 完全的问题 [Cook, 1971]，即它是 NP 中最难的问题之一。SAT 为 NP 完全，意味着 NP 中的一切问题都可归约到 SAT。多年来，研究者构建了极为高效的 SAT 求解器，能快速求解许多 SAT 实例——即找到一个满足赋值或证明其不存在——即便实例拥有数百万个变量。因此，SAT 求解器正被用作通用的问题求解器。另一方面，也存在一些已知的小实例类，是当前 SAT 求解器无法处理的。因此，P 对 NP 问题的一部分，关乎 SAT 的实践与理论复杂性 [Nordström, 2015]。
 
-<<<MISSING>>>There is an extensive theory of computational complexity. This entry briefly describes the area, putting it into the context of the question of what is computable in principle versus in practice. For readers interested in learning more about complexity, there are excellent books, for example, [Papadimitriou, 1994] and [Arora and Barak, 2009]. There is also the entry on Computational Complexity Theory.
+计算复杂性理论已极为宏富。本词条对这一领域作了简要描述，并将其置于“原则上可计算与实践上可计算”这一问题语境之中。有意深入了解复杂性的读者，可读一些优秀著作，例如 [Papadimitriou, 1994] 与 [Arora and Barak, 2009]。另有“计算复杂性理论”词条。
 
 ## 参考文献
 
@@ -362,12 +275,12 @@ $$ \P \subseteq \NP \subseteq \PSPACE \subseteq \EXPTIME $$
 
 ## 其他网络资源
 
-- [Descriptive Complexity](http://people.cs.umass.edu/~immerman/descriptive_complexity.html): a webpage describing research in Descriptive Complexity which is Computational Complexity from a Logical Point of View (with a diagram showing the World of Computability and Complexity). Maintained by Neil Immerman, University of Massachusetts, Amherst.
-- [Mass, Size, and Density of the Universe](http://www.cs.umass.edu/~immerman/stanford/universe.html), from the National Solar Observatory/Sacramento Peak.
+- [描述复杂性（Descriptive Complexity）](http://people.cs.umass.edu/~immerman/descriptive_complexity.html)：介绍描述复杂性研究的网页；描述复杂性即从逻辑观点看的计算复杂性（附“可计算性与复杂性的世界”示意图）。由麻省大学阿默斯特分校的 Neil Immerman 维护。
+- [宇宙的质量、大小与密度（Mass, Size, and Density of the Universe）](http://www.cs.umass.edu/~immerman/stanford/universe.html)，来自国家太阳天文台／萨克拉门托峰。
 
 ## 相关词条
 
-Church, Alonzo: logic, contributions to | Church-Turing Thesis | computational complexity theory | Gödel, Kurt | quantum theory: quantum computing | recursive functions | set theory | Turing, Alan | Turing machines
+阿隆佐·邱奇 | 邱奇-图灵论题 | 计算复杂性理论 | 库尔特·哥德尔 | 量子计算 | 递归函数 | 集合论 | 艾伦·图灵 | 图灵机
 
 [^allender-2009]: Allender, E., M. Bauland, N. Immerman, H. Schnoor and H. Vollmer, 2009, “The Complexity of Satisfiability Problems: Refining Schaefer’s Theorem”, *Journal of Computer and System Science* 75(4): 245–254.
 
