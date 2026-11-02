@@ -2,8 +2,44 @@
   "slug": "autrecourt",
   "kind": "retranslate",
   "zh_doc": "a/autrecourt.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:31:11Z",
+      "evidence": "子代理已产出完整译文（零信任照译源钉），免清正文，仅状态迁移"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:36:44Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:36:45Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:36:45Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T10:36:46Z",
+      "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:10Z",
   "version_pin": {
