@@ -1,0 +1,14 @@
+[
+ {
+  "id": "p1",
+  "source": "To most AI researchers, the frame problem is the challenge of representing the effects of action in logic without having to represent explicitly a large number of intuitively obvious non-effects. But to many philosophers, the AI researchers' frame problem is suggestive of wider epistemological issues. Is it possible, in principle, to limit the scope of the reasoning required to derive the consequences of an action? And, more generally, how do we account for our apparent ability to make decisions on the basis only of what is relevant to an ongoing situation without having explicitly to consider all that is not relevant?"
+ },
+ {
+  "id": "p2",
+  "source": "The frame problem originated as a narrowly defined technical problem in logic-based artificial intelligence (AI). But it was taken up in an embellished and modified form by philosophers of mind, and given a wider interpretation. The tension between its origin in the laboratories of AI researchers and its treatment at the hands of philosophers engendered an interesting and sometimes heated debate in the 1980s and 1990s. But since the narrow, technical problem is largely solved, recent discussion has tended to focus less on matters of interpretation and more on the implications of the wider frame problem for cognitive science. To gain an understanding of the issues, this article will begin with a look at the frame problem in its technical guise. Some of the ways in which philosophers have re-interpreted the problem will then be examined. The article will conclude with an assessment of the significance of the frame problem today."
+ },
+ {
+  "id": "p3",
+  "source": "Put succinctly, the frame problem in its narrow, technical form is this (McCarthy & Hayes 1969)[^mccarthy-1969]. Using mathematical logic, how is it possible to write formulae that describe the effects of actions without having to write a large number of accompanying formulae that describe the mundane, obvious non-effects of those actions? Let's take a look at an example. The difficulty can be illustrated without the full apparatus of formal logic, but it should be borne in mind that the devil is in the mathematical details. Suppose we write two formulae, one describing the effects of painting an object and the other describing the effects of moving an object."
+ }
+]

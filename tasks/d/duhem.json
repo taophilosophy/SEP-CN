@@ -2,8 +2,16 @@
   "slug": "duhem",
   "kind": "retranslate",
   "zh_doc": "d/duhem.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:21:07Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:59Z",
   "version_pin": {

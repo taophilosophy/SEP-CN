@@ -2,8 +2,16 @@
   "slug": "hedonism",
   "kind": "retranslate",
   "zh_doc": "h/hedonism.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:35:55Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:20Z",
   "version_pin": {

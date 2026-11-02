@@ -2,8 +2,16 @@
   "slug": "hermann-helmholtz",
   "kind": "retranslate",
   "zh_doc": "h/hermann-helmholtz.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:51:20Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:23Z",
   "version_pin": {

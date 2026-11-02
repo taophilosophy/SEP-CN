@@ -2,8 +2,16 @@
   "slug": "george-eliot",
   "kind": "retranslate",
   "zh_doc": "g/george-eliot.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T18:33:53Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:05Z",
   "version_pin": {

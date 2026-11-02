@@ -2,8 +2,16 @@
   "slug": "health-disease",
   "kind": "retranslate",
   "zh_doc": "h/health-disease.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:53:39Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:19Z",
   "version_pin": {

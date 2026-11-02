@@ -2,8 +2,16 @@
   "slug": "hegel-dialectics",
   "kind": "retranslate",
   "zh_doc": "h/hegel-dialectics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T18:11:39Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:21Z",
   "version_pin": {

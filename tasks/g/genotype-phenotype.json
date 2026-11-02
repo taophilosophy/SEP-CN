@@ -2,8 +2,16 @@
   "slug": "genotype-phenotype",
   "kind": "retranslate",
   "zh_doc": "g/genotype-phenotype.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T18:42:54Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:31:25Z",
   "version_pin": {

@@ -66,8 +66,13 @@ def check_line(path, lineno, line, issues):
         if kind == "code" or not seg:
             continue
         # curly-quotes：直引号（词内撇号除外）、直角/半角引号、成对与方向；
-        # 数学定界符 $…$/$$…$$ 内的 LaTeX 记号（如撇号 prime \mathbf{A}'）不是引号，先遮蔽再查
-        stripped = re.sub(r"[A-Za-z]'[A-Za-z]", "AA", seg)
+        # 数学定界符 $…$/$$…$$ 内的 LaTeX 记号（如撇号 prime \mathbf{A}'）不是引号，先遮蔽再查；
+        # 字母间的撇号（'‘’）是转写撇号（法语 l’âme、希伯来 Shi‘ur、阿拉伯 Ya’qub 等），
+        # 不是引号，先遮蔽再查（[^\W\d_] 为 Unicode 字母类，覆盖变音字母）
+        stripped = re.sub(r"[^\W\d_]['‘’][^\W\d_]", "AA", seg)
+        # 词尾/词首撇号遮蔽排除汉字邻接：中文 “是如何’ 的 ’ 是引号不是转写撇号
+        stripped = re.sub(r"[^\W\d_]['‘’](?![\u4e00-\u9fff])", "A", stripped)
+        stripped = re.sub(r"(?<![\u4e00-\u9fff])['‘’][^\W\d_]", "A", stripped)
         _math = re.compile(r"\$\$.+?\$\$|\$[^$]+\$")
         stripped = _math.sub("\x00", stripped)
         for ch in stripped:

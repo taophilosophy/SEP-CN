@@ -2,8 +2,16 @@
   "slug": "hist-westphilmusic-to-1800",
   "kind": "retranslate",
   "zh_doc": "h/hist-westphilmusic-to-1800.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:56:43Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:43Z",
   "version_pin": {

@@ -2,8 +2,16 @@
   "slug": "global-democracy",
   "kind": "retranslate",
   "zh_doc": "g/global-democracy.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T18:43:53Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:31:12Z",
   "version_pin": {

@@ -2,8 +2,16 @@
   "slug": "generics",
   "kind": "retranslate",
   "zh_doc": "g/generics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T19:28:33Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:31:23Z",
   "version_pin": {

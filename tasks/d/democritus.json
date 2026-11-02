@@ -2,7 +2,7 @@
   "slug": "democritus",
   "kind": "retranslate",
   "zh_doc": "d/democritus.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "主代理",
       "at": "2026-11-01T07:53:59Z",
       "evidence": "初译三校（s3）：零信任译自 Jan 2023 版，三检查器全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "r1-reviewer",
+      "at": "2026-11-01T16:56:59Z",
+      "evidence": "独立初审：三检查器全绿；L21 local motion 译名已修复并复核；抽检 8-10 段无漏译/错译/事实错误"
     }
   ],
   "blockers": [],
