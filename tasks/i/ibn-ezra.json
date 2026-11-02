@@ -1,0 +1,50 @@
+{
+  "slug": "ibn-ezra",
+  "kind": "retranslate",
+  "zh_doc": "i/ibn-ezra.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:38:52Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T15:26:32Z",
+      "evidence": "主会话收口：初译（285行完整）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T15:26:32Z",
+      "evidence": "主会话收口：一校核销"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T15:26:32Z",
+      "evidence": "主会话收口：二校语言"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T15:26:32Z",
+      "evidence": "主会话收口：三校全绿"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:17Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 22, 2018",
+    "archive_edition": "Fall 2021",
+    "sha256": "2b614598587b6654796bd9688f0ee83560f1fbeb65ef8405321cd39445c76269"
+  }
+}
