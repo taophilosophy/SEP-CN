@@ -2,7 +2,7 @@
   "slug": "buddha",
   "kind": "retranslate",
   "zh_doc": "b/buddha.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:15:56Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:57:22Z",
+      "evidence": "初译稿 641faf13 在库（约 10.9k 汉字，章节 7/7 全型，四圣谛/两 disputations 展示结构完整）；本会话修复斜体 pubinfo 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:57:22Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：1-5 全节（两个无我论证的 1/2/∴ 展示结构、Pohapāda/Tevijja/箭喻/火喻、catuṣkoṭi 四句、Pudgalavādins）+主要文献 A/D/M/S 表+次要脚注 16 条+网络资源 4 项+相关词条 13 项全对应；源文 Four Nobles' Truths 所有格撇号与中文引号门禁冲突，改用通行英文形 Four Noble Truths（同指，凭证留痕）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:57:22Z",
+      "evidence": "check_prose 42→27：实修 17 处（所在位置短语 5、概括为四圣谛 25、写下来句拆分 19、复诵被动消解 19、建议冒号重构 17、虽然拆分 32、起源分析拆分 34、论证重构 60、upāya 段拆分 86×2、无明句拆分 90、干预点 94、被问及改有人发问 100、四维主义拆分 110、宗教传统拆分 110、全知句拆分 112）；余 27 条逐条豁免：de-chain 皆自然中文，13 为五种教义分号枚举句，15 应被视为×2 对应修辞，106 被箭射伤为自然被动，其余长句为源文等长或括注致长"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:57:23Z",
+      "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；文献表与脚注结构合规；相关词条 13 项对应"
     }
   ],
   "blockers": [],
