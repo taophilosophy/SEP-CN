@@ -1,0 +1,22 @@
+{
+  "slug": "buddhism-huayan",
+  "kind": "retranslate",
+  "zh_doc": "b/buddhism-huayan.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:16:03Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:15:00Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 17, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "8ab8d2eb4dea7515083caada2cf34a62f8c213cb6cc3af30f1fd1ebd0ffe06a0"
+  }
+}

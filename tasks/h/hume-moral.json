@@ -2,8 +2,16 @@
   "slug": "hume-moral",
   "kind": "retranslate",
   "zh_doc": "h/hume-moral.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:51:34Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:36Z",
   "version_pin": {

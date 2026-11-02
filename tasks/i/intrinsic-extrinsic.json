@@ -1,0 +1,22 @@
+{
+  "slug": "intrinsic-extrinsic",
+  "kind": "retranslate",
+  "zh_doc": "i/intrinsic-extrinsic.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:13:44Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:53Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 18, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "869f5aae19fbb71cfcc47de2d785c518987633ddf216c08a3cf33629a3d2fa4e"
+  }
+}

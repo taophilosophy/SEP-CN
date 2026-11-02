@@ -2,8 +2,16 @@
   "slug": "holkot",
   "kind": "retranslate",
   "zh_doc": "h/holkot.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:04:34Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:31Z",
   "version_pin": {

@@ -1,0 +1,22 @@
+{
+  "slug": "bayle",
+  "kind": "retranslate",
+  "zh_doc": "b/bayle.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:15:59Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:56Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 12, 2023",
+    "archive_edition": "Spring 2023",
+    "sha256": "6b498bdd21b1c1d22db9f85e26582846642dc3a35a03656ed6f1efeaf04a479d"
+  }
+}

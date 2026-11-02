@@ -1,0 +1,22 @@
+{
+  "slug": "information-biological",
+  "kind": "retranslate",
+  "zh_doc": "i/information-biological.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:10:18Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:40Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 19, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "00e3e68da980729878433234783dbb2a6f5bb837cad897f275e2bef0c1f65f11"
+  }
+}

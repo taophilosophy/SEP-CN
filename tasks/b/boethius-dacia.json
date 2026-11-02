@@ -1,0 +1,22 @@
+{
+  "slug": "boethius-dacia",
+  "kind": "retranslate",
+  "zh_doc": "b/boethius-dacia.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:15:56Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:53Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 7, 2020",
+    "archive_edition": "Fall 2020",
+    "sha256": "7d430eae0fd463be73d99176cc9091e8a925ecdc43ecba268cd2d0bda86edbc2"
+  }
+}

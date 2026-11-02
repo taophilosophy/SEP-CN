@@ -1,0 +1,29 @@
+{
+  "slug": "brouwer",
+  "kind": "retranslate",
+  "zh_doc": "b/brouwer.md",
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:52Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-01T20:48:21Z",
+      "evidence": ""
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:56Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 26, 2020",
+    "archive_edition": "Spring 2020",
+    "sha256": "8f8d656962d2744a0d7a6b37548e68f59253f13fe6bc3ed9063eca082319e3d1"
+  }
+}

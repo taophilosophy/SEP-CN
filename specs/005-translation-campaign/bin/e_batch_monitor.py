@@ -58,6 +58,8 @@ def load_tasks():
     out = {}
     for f in glob.glob(os.path.join(TASKS_DIR, "*.json")):
         slug = os.path.splitext(os.path.basename(f))[0]
+        if slug.startswith("_"):  # 跳过子代理草稿（_tr_*.json 等非任务文件）
+            continue
         try:
             out[slug] = json.load(open(f, encoding="utf-8"))
         except (json.JSONDecodeError, OSError) as e:

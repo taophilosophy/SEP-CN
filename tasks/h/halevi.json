@@ -2,8 +2,16 @@
   "slug": "halevi",
   "kind": "retranslate",
   "zh_doc": "h/halevi.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:48:52Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:36:14Z",
   "version_pin": {

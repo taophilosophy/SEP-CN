@@ -1,0 +1,22 @@
+{
+  "slug": "impossible-worlds",
+  "kind": "retranslate",
+  "zh_doc": "i/impossible-worlds.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:19:52Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:34Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 27, 2023",
+    "archive_edition": "Summer 2023",
+    "sha256": "04c9311eef5139291b61ffa3fd7872ea2002911638ed03a924863c9915c0a33a"
+  }
+}

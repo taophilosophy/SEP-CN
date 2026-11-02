@@ -2,7 +2,7 @@
   "slug": "kant-mathematics",
   "kind": "retranslate",
   "zh_doc": "k/kant-mathematics.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:40Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-kant-mathematics",
+      "at": "2026-11-01T21:46:49Z",
+      "evidence": "ledger: 29 segments step1+step2 (tasks/k/kant-mathematics.ledger.yaml); H1=康德的数学哲学 philosophy of mathematics (Lisa Shabel); pubinfo 2013-07-19/2021-08-11 与 baseline 一致; 源强调 em->中文粗体映射(Latin 斜体保留), <trapezium>/<triangle> 概念记号转〈〉(no-html 门禁), 2.1 末段源文未闭合括号已按义补全并留痕; 无数学定界符/无图片/无补充材料链接"
     }
   ],
   "blockers": [],

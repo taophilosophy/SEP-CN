@@ -1,0 +1,22 @@
+{
+  "slug": "boethius",
+  "kind": "retranslate",
+  "zh_doc": "b/boethius.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:16:00Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:57Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 14, 2026",
+    "archive_edition": null,
+    "sha256": "2c5dff089dded604fa0c9d78229f8297a458c21906d4ef0e17e8880ede15eeea"
+  }
+}

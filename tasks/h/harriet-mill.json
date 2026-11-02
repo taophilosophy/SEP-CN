@@ -2,7 +2,7 @@
   "slug": "harriet-mill",
   "kind": "retranslate",
   "zh_doc": "h/harriet-mill.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-01T11:53:05Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-harriet-mill",
+      "at": "2026-11-01T15:31:41Z",
+      "evidence": "ledger: 60 segments step1+step2; H1=哈丽雅特·泰勒·密尔; md=281 lines"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-harriet-mill",
+      "at": "2026-11-01T16:44:31Z",
+      "evidence": "MTPE 对照: 幻觉0 漏译0 增译0; 术语漂移: 锁定密尔(H1+ren-ming-biao 亦作), 引文作者姓回改英文(J.S./H.T. Mill), et al./op. cit. 回拉丁; 事实: 人名/年代/引用组/版本钉核销; 发现并修 8 处正文体例(斜体中/加粗间距/中西空格)"
     }
   ],
   "blockers": [],

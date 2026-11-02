@@ -34,12 +34,14 @@ TEXT_FENCE_RE = re.compile(r"^\s*```text\s*$", re.M)
 CJK_GAP_RE = re.compile(
     r"(?<=[%s])[A-Za-z0-9]|(?<=[A-Za-z0-9])[%s]" % (HAN, HAN))
 EMPH_RE = re.compile(r"\*\*[^*\n]+\*\*")
-AFTER_PUNCT = "，。、；：？！）】》”’…—,.!?)]}"
+AFTER_PUNCT = "，。、；：？！）】》”’…—（《,.!?)]}"
 HEADING_RE = re.compile(r"^(#{1,6})\s")
 BIB_HEADING_RE = re.compile(
     r"^#{1,6}\s*(?:参考文献|Bibliography|References（引用注释）)\s*$", re.I)
 # 文献节内含汉字的行是 ADR-0011 还原的中国文献条目，按正体例检查
 CJK_LINE_RE = re.compile(r"[%s]" % HAN)
+# 脚注定义行 [^key]: ... 照录豁免：参考文献脚注定义区可位于 ## 学术工具 之后
+FN_DEF_RE = re.compile(r"^\[\^[^\]]+\]:\s")
 
 
 def _segments(line):
@@ -92,7 +94,14 @@ def check_line(path, lineno, line, issues):
         # 遮蔽 **粗体**（已用 * 粗体的不重复报）与数学定界符与行内代码
         _bold_masked = EMPH_RE.sub("\x00", seg)
         _math_masked = re.sub(r"\$\$.+?\$\$|\$[^$]+\$", "\x00", _bold_masked)
-        for m2 in re.finditer(r"\*([^* \x00]+)\*", _math_masked):
+        # 遮蔽含空格的多词拉丁斜体短语（如 *ceteris paribus*、*a fortiori*、*bien pensant*）：
+        # 它们是拉丁术语（非中文强调，保留斜体）。单词语正则 \*([^* \x00]+)\* 无法整体匹配含空格短语，
+        # 会留下裸星号与下一 *...* 错配，把其间中文误报为 "*中文*" 假阳性（一行两个 *ceteris paribus* 即触发）。
+        # 只遮蔽"内容含空格"的 *...* 段，内容无空格的中文斜体 *中文* 不受影响。
+        def _mask_multiword(m):
+            return "\x00" if " " in m.group(0) else m.group(0)
+        _multi_masked = re.sub(r"\*[^*\n]+?\*", _mask_multiword, _math_masked)
+        for m2 in re.finditer(r"\*([^* \x00]+)\*", _multi_masked):
             t2 = m2.group(1)
             if t2.startswith('）') or t2.endswith('（'):
                 continue
@@ -155,6 +164,8 @@ def check_file(path):
             continue  # 图片嵌入行豁免：alt 为照录的英文机器描述，引号/空格规则针对中文正文
         if in_bib and not CJK_LINE_RE.search(line):
             continue  # 非中文照录行豁免；含汉字行（还原的中国文献）照常检查
+        if FN_DEF_RE.match(line):
+            continue  # 脚注定义行（[^key]: ...）照录豁免：参考文献脚注定义区可位于##学术工具之后
         check_line(path, i, line, issues)
     return issues
 

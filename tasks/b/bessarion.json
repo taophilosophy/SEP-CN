@@ -1,0 +1,29 @@
+{
+  "slug": "bessarion",
+  "kind": "retranslate",
+  "zh_doc": "b/bessarion.md",
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:15:55Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-01T20:24:19Z",
+      "evidence": ""
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:52Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 18, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "68e2e19b0ec0a5a5edc6911789504b5087e13067d39ecb485b4c0eb5a26ef7fa"
+  }
+}

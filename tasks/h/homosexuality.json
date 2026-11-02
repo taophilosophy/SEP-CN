@@ -2,7 +2,7 @@
   "slug": "homosexuality",
   "kind": "retranslate",
   "zh_doc": "h/homosexuality.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,20 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:23:16Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-homosexuality",
+      "at": "2026-11-01T16:02:26Z",
+      "evidence": "ledger: 43 segments step1+step2; H1=同性恋 homosexuality (Brent Pickett); composed h/homosexuality.md"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-homosexuality",
+      "at": "2026-11-01T19:34:28Z",
+      "evidence": "s1对照yuanwen/h/homosexuality.md核销: 43/43段源文本逐字映射无缺失; 幻觉0漏译0增译0; 术语漂移0(本质主义/自然法/建构主义/酷儿理论/鸡奸者/性倒错均合yi-zhe-shuo-ming.md); 事实抽查26项全过(本克特/查士丁尼529/拉特兰1179/圣队500/石墙1969/APA/拿破仑法典等)"
     }
   ],
   "blockers": [],

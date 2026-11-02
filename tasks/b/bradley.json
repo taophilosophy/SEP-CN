@@ -1,0 +1,22 @@
+{
+  "slug": "bradley",
+  "kind": "retranslate",
+  "zh_doc": "b/bradley.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:51Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:54Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 23, 2021",
+    "archive_edition": "Spring 2024",
+    "sha256": "6aef9ec200d3be9c1f8f957bbb2ec7c4d0a2e4519714a91d395a67fd72c2f657"
+  }
+}

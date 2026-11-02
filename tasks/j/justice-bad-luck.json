@@ -1,0 +1,22 @@
+{
+  "slug": "justice-bad-luck",
+  "kind": "retranslate",
+  "zh_doc": "j/justice-bad-luck.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:13Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:19Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 2, 2023",
+    "archive_edition": "Spring 2023",
+    "sha256": "de76cdc18c4a34a759f4878966d37df4421d4a6ba3d0e6c0980abea0c2ec372d"
+  }
+}

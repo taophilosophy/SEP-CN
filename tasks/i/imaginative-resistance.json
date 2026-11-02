@@ -1,0 +1,22 @@
+{
+  "slug": "imaginative-resistance",
+  "kind": "retranslate",
+  "zh_doc": "i/imaginative-resistance.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:14:38Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:29Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 1, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "782d962c35ed0d4c5cf79b6080c980ea690c18fe5d8b5acfa5be187c90f30518"
+  }
+}

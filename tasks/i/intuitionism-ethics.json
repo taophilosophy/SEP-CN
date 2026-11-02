@@ -1,0 +1,22 @@
+{
+  "slug": "intuitionism-ethics",
+  "kind": "retranslate",
+  "zh_doc": "i/intuitionism-ethics.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T17:12:10Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:57Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 27, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "f356ccd1c99a604fb4680790d9b30869aa552f57a60528379f54a24f7182e7cf"
+  }
+}
