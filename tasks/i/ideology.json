@@ -2,8 +2,44 @@
   "slug": "ideology",
   "kind": "retranslate",
   "zh_doc": "i/ideology.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:20:28Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ideology-translator",
+      "at": "2026-11-01T18:43:19Z",
+      "evidence": "初译完成，六节齐全；脚注 139 条照录逐字符一致，文内引注 212 处与源顺序一致"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ideology-translator",
+      "at": "2026-11-01T18:50:51Z",
+      "evidence": "一校核销：对照 yuanwen 逐节核销；文内引注 212 处与源顺序逐字符一致，脚注定义 139 条照录一致；初稿漏译 3.3 范围缺陷段已补入；无幻觉无增译；事实（人名/年代/页码/版本）核对一致；check_terms 0 硬错误。新术语候选（登记册无载，待主会话裁定登记）：虚假意识/偏私性/党派性/物化/异化/拜物教/询唤/观念学家/褒贬色彩/完备性学说/防疫线/意识形态批判/认知主义/文化主义/支配意识形态论题/情感变位/刻板印象威胁/偏好适应/偏好伪装/立场认识论/文化技艺"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ideology-translator",
+      "at": "2026-11-01T19:02:57Z",
+      "evidence": "二校语言：消欧化句——弱动词（进行/作出/加以/予以）全部改写、存在句/作为一个直译改写、被动句 17→12、的字链 43→41；引注 212 处与源顺序仍逐字符一致、脚注 139 条照录一致、check_style 0。剩余 long-sentence 告警 65 条为源文本密度所固有（忠实直译不可避免），未强行拆句以免损伤准确性"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ideology-translator",
+      "at": "2026-11-01T19:09:28Z",
+      "evidence": "三校全绿：check_style 0 问题、check_academic --strict 0 硬错误、check_math 0；脚注 139 条照录逐字符一致、文内引注 212 处与源顺序一致；六节齐全"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:06Z",
   "version_pin": {
