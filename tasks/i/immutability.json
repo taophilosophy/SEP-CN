@@ -1,0 +1,50 @@
+{
+  "slug": "immutability",
+  "kind": "retranslate",
+  "zh_doc": "i/immutability.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T11:46:05Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "immutability-translator",
+      "at": "2026-11-01T12:53:47Z",
+      "evidence": "初译完成：六节全译+参考文献照录+学术工具/其他/相关词条节"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "immutability-translator",
+      "at": "2026-11-01T13:32:40Z",
+      "evidence": "s1 准确性核销：逐节对照 yuanwen 无漏译/错译/增译/幻觉；事实细节（版本、编号 381b-c/1:14/6:6、页码引证 1993 p.222、1989 175-90、2001 119-23、2004 107、1967 207、1993 170-1、ST Ia 9-10/14 15 ad 3、De Ver. 2 5 ad 11）全部核销；术语统一（偶性/不变/无时态/此性/无条件地）；源文 DDS 系 DDI 笔误按意图译 DDI"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:23:20Z",
+      "evidence": "主会话收口：二校语言检查通过（check_prose 无欧化告警，译文 148 行完整）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:23:20Z",
+      "evidence": "主会话收口：三校体例+学术+数学全 0（check_style 0 / check_academic OK / check_math 0）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:31Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 28, 2024",
+    "archive_edition": "Summer 2024",
+    "sha256": "40982650afba2d16bbcd47886ba4f2bfe7bdf2e70f9a148cc268502ff15d451d"
+  }
+}
