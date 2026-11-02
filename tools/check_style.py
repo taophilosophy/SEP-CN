@@ -69,7 +69,8 @@ def check_line(path, lineno, line, issues):
         # 数学定界符 $…$/$$…$$ 内的 LaTeX 记号（如撇号 prime \mathbf{A}'）不是引号，先遮蔽再查；
         # 字母间的撇号（'‘’）是转写撇号（法语 l’âme、希伯来 Shi‘ur、阿拉伯 Ya’qub 等），
         # 不是引号，先遮蔽再查（[^\W\d_] 为 Unicode 字母类，覆盖变音字母）
-        stripped = re.sub(r"[^\W\d_]['‘’][^\W\d_]", "AA", seg)
+        # 词内撇号遮蔽排除汉字邻接（“…是如何’真…” 的 ’ 是中文引号不是转写撇号）
+        stripped = re.sub(r"(?<![\u4e00-\u9fff])[^\W\d_]['‘’][^\W\d_](?![\u4e00-\u9fff])", "AA", seg)
         # 词尾/词首撇号遮蔽排除汉字邻接：中文 “是如何’ 的 ’ 是引号不是转写撇号
         stripped = re.sub(r"[^\W\d_]['‘’](?![\u4e00-\u9fff])", "A", stripped)
         stripped = re.sub(r"(?<![\u4e00-\u9fff])['‘’][^\W\d_]", "A", stripped)
