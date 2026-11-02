@@ -14,11 +14,7 @@
 
 哲学对观念艺术的考察所遇到的第一个困难，与确定考察对象、或至少确定所审视对象的范畴有关。用艺术史家保罗·伍德（Paul Wood）的话说：
 
-      > 根本不清楚“观念艺术”的边界应当画在哪里，应当包括哪些艺术家、哪些作品。从一个角度看，观念艺术变得像刘易斯·卡罗尔（Lewis Carroll）的柴郡猫，渐渐消融，直到只剩下一副咧嘴的笑容：一小批艺术家在短短几年里创作的屈指可数的作品……然而，换一个角度看，观念艺术又似乎正是过去转向现在的枢纽。（Wood 2002, 6）[^wood-2002]
-
-哲学对观念艺术的考察所遇到的第一个困难，与确定考察对象、或至少确定所审视对象的范畴有关。用艺术史家保罗·伍德（Paul Wood）的话说：
-
-      > 根本不清楚“观念艺术”的边界应当画在哪里，应当包括哪些艺术家、哪些作品。从一个角度看，观念艺术变得像刘易斯·卡罗尔（Lewis Carroll）的柴郡猫，渐渐消融，直到只剩下一副咧嘴的笑容：一小批艺术家在短短几年里创作的屈指可数的作品……然而，换一个角度看，观念艺术又似乎正是过去转向现在的枢纽。（Wood 2002, 6）[^wood-2002]
+> 根本不清楚“观念艺术”的边界应当画在哪里，应当包括哪些艺术家、哪些作品。从一个角度看，观念艺术变得像刘易斯·卡罗尔（Lewis Carroll）的柴郡猫，渐渐消融，直到只剩下一副咧嘴的笑容：一小批艺术家在短短几年里创作的屈指可数的作品……然而，换一个角度看，观念艺术又似乎正是过去转向现在的枢纽。（Wood 2002, 6）[^wood-2002]
 
 按严格的历史读法，“观念艺术”一词指的是在 1966 年至 1972 年间达到顶峰的艺 术运动（Lippard 1973）[^lippard-1973]。[^note-1] 其早期阶段最著名的拥护者中有约瑟夫·科苏斯（Joseph Kosuth）、罗伯特·莫里斯（Robert Morris）、约瑟夫·博伊斯（Joseph Beuys）、阿德里安·派珀（Adrian Piper）等艺术家，仅举数例。将这一时期观念艺术联结在一起的，是对达达主义、超现实主义、至上主义、抽象表现主义与激浪派等二十世纪其他艺术运动所吸取的教训的消化，再加上一劳永逸地把艺术“解放”出现代主义范式的抱负。或许最重要的是，20 世纪 60、70 年代的观念艺术力图克服这样一种背景：在该背景下，艺术的主要目标是创造出美的或令人愉悦的东西。早期观念艺术家主张，艺术如果不能使我们思考，便是多余的。由于他们相信大多数艺术机构不利于反思，而仅仅助长一种保守、甚至消费主义的艺术与艺术家观念，20 世纪 60 年代中期至 70 年代初的观念艺术家转而试图倡导一种修正性的艺术、艺术家与艺术经验理解。
 
@@ -54,7 +50,7 @@
 
 其次，观念艺术从一个更宏观的视角提出哲学问题，因为人们或许会期望哲学为我们提供关于艺术本性、艺术家角色与艺术经验的统一说明。在许多重要方面，观念艺术与那些往往更传统的艺术形式和艺术作品相处得格格不入，这种张力凸显了一个紧迫的问题，凡是关心普遍艺术理论之可能性的人都无法回避。因为如果观念艺术适用一条规则，而所有其他种类的艺术适用另一条规则，那么把观念艺术视为一种艺术，是否还有充分的理由？再者，难道每一种特定的艺术形式或艺术作品，不都可以要求一套关于艺术、艺术家与艺术经验的独立理论吗？
 
-倘若我们要绕开这种内在的划分——一边是观念艺术，另一边是其他种类的艺术——那么主要关注非观念艺术的理论，为了把观念艺术作品所呈现的那个棘手案例也纳进来，就不得不作出许多重大让步。至少，在“艺术作品”一词的所指上必须达成某种妥协。
+倘若我们要绕开这种内在的划分——一边是观念艺术，另一边是其他种类的艺术——那么主要关注非观念艺术的理论，为了把观念艺术作品所呈现的那个棘手案例也纳进来，就不得不接受许多重大让步。至少，在“艺术作品”一词的所指上必须达成某种妥协。
 
 于是，困扰观念艺术哲学的一个首要问题便是：我们是否应当——以及若应当，为何应当——积极追求艺术哲学中的统一说明。无论那番考察之后，我们是接受了一套比原先更宽泛（尽管或许也更模糊）的概念与工具，还是觉得自己不得不放弃除极其具体的艺术、艺术家与艺术经验理论之外的一切指望，观念艺术都迫使我们反思自己站在这些问题上的何处。
 
@@ -70,11 +66,7 @@
 
 以这种方式给艺术下定义的尝试从不匮乏。最显眼的或许是：有人提出，艺术应当依据其审美品格来定义，即粗略地说，*x* 是一件艺术作品，当且仅当 *x* 引起一种审美经验（如 Beardsley 1958）。尽管这一特定主张有其困难（我们稍后将在 §3.3 再回到这一点），但像观念艺术这样一种深刻修正、难以归类的艺术的出现，使得提供一条适用于 **所有** 艺术的普遍定义的尝试变得尤为复杂。于是，新维特根斯坦主义进路在二十世纪五十年代末至六十年代主导艺术哲学，绝非偶然。它从反本质主义的语言理论汲取支持，主张艺术属于某些就其本性而言“本质上可争议”的概念（Gallie 1948；另见 Weitz 1956）[^weitz-1956]。也就是说，有些概念——譬如与体育相关的概念——根本无法用必要且充分条件来定义，而艺术最好被理解为其中之一。用莫里斯·韦茨（Morris Weitz）的话说，艺术或许是
 
-      > 一个开放的概念。新的条件已经不断出现，将来也无疑会不断出现；新的艺术形式、新的运动将会涌现，这将要求那些关切此事的人作出决定……即这一概念是否应当扩展。（Weitz 1956, 32）[^weitz-1956]
-
-以这种方式给艺术下定义的尝试从不匮乏。最显眼的或许是：有人提出，艺术应当依据其审美品格来定义，即粗略地说，*x* 是一件艺术作品，当且仅当 *x* 引起一种审美经验（如 Beardsley 1958）。尽管这一特定主张有其困难（我们稍后将在 §3.3 再回到这一点），但像观念艺术这样一种深刻修正、难以归类的艺术的出现，使得提供一条适用于 **所有** 艺术的普遍定义的尝试变得尤为复杂。于是，新维特根斯坦主义进路在二十世纪五十年代末至六十年代主导艺术哲学，绝非偶然。它从反本质主义的语言理论汲取支持，主张艺术属于某些就其本性而言“本质上可争议”的概念（Gallie 1948；另见 Weitz 1956）[^weitz-1956]。也就是说，有些概念——譬如与体育相关的概念——根本无法用必要且充分条件来定义，而艺术最好被理解为其中之一。用莫里斯·韦茨（Morris Weitz）的话说，艺术或许是
-
-      > 一个开放的概念。新的条件已经不断出现，将来也无疑会不断出现；新的艺术形式、新的运动将会涌现，这将要求那些关切此事的人作出决定……即这一概念是否应当扩展。（Weitz 1956, 32）[^weitz-1956]
+> 一个开放的概念。新的条件已经不断出现，将来也无疑会不断出现；新的艺术形式、新的运动将会涌现，这将要求那些关切此事的人定夺……即这一概念是否应当扩展。（Weitz 1956, 32）[^weitz-1956]
 
 于是，提出一个艺术定义的活动，便成为一种不那么严苛的观念分析。新维特根斯坦主义者（如韦茨）在试图识别艺术、并说明我们如何把艺术与非艺术区分开来时，提出的替代方法是 **家族相似**（*family resemblance*）概念（见 Wittgenstein 1953, §66–71）。面对“*X* 是一件艺术作品吗？”这一问题，我们该做的是去察觉它同艺术作品的原型实例之间的相似性脉络。倘若观察到与这样一个原型案例的某种显著相似，我们便可正当地把所审视的对象称为一件艺术作品。
 
@@ -92,13 +84,9 @@
 
 首先，观念艺术驱使我们重新检讨那个常见的假定：对一件艺术作品的适当欣赏与参与，必定包含对那件作品本身的一次直接的第一手经验。这里的观念，借用弗兰克·西布利（Frank Sibley）的话来说，就是
 
-      > 人们必须 **看到** 一件作品的优雅或统一，**听到** 音乐中的哀婉或狂乱，**注意到** 配色方案的俗艳，**感受到** 一部小说的力量、它的基调，或它音调的犹疑。他们可能一下子就被这些性质击中，也可能要经过反复的观看、聆听或阅读，并在批评家的帮助下，才渐渐感知到它们。但除非他们亲自感知到这些性质，否则审美享受、欣赏与判断都与他们无缘……关键就在于去看、去听、去感受。（Sibley 1965, 137）[^sibley-1965]
+> 人们必须 **看到** 一件作品的优雅或统一，**听到** 音乐中的哀婉或狂乱，**注意到** 配色方案的俗艳，**感受到** 一部小说的力量、它的基调，或它音调的犹疑。他们可能一下子就被这些性质击中，也可能要经过反复的观看、聆听或阅读，并在批评家的帮助下，才渐渐感知到它们。但除非他们亲自感知到这些性质，否则审美享受、欣赏与判断都与他们无缘……关键就在于去看、去听、去感受。（Sibley 1965, 137）[^sibley-1965]
 
-首先，观念艺术驱使我们重新检讨那个常见的假定：对一件艺术作品的适当欣赏与参与，必定包含对那件作品本身的一次直接的第一手经验。这里的观念，借用弗兰克·西布利（Frank Sibley）的话来说，就是
-
-      > 人们必须 **看到** 一件作品的优雅或统一，**听到** 音乐中的哀婉或狂乱，**注意到** 配色方案的俗艳，**感受到** 一部小说的力量、它的基调，或它音调的犹疑。他们可能一下子就被这些性质击中，也可能要经过反复的观看、聆听或阅读，并在批评家的帮助下，才渐渐感知到它们。但除非他们亲自感知到这些性质，否则审美享受、欣赏与判断都与他们无缘……关键就在于去看、去听、去感受。（Sibley 1965, 137）[^sibley-1965]
-
-于是，所论的假设是这样的：尽管我们似乎能从观看葛饰北斋（Katsushika Hokusai）的 *Fine Wine, Clear Morning* 或伊丽莎白·维热·勒布伦（Élisabeth Vigée Le Brun）的 *Self-Portrait in a Straw Hat* 的明信片或海报中有所收获，但要对其艺术品格作出真正的判断，仍需我们自己对该作品有未经中介的感知经验。然而——而观念艺术问题的症结正在于此——倘若我们没有任何东西可以获得第一手的感知经验，那又当如何？以沃尔特·德·玛丽亚（Walter De Maria）的 *Vertical Earth Kilometer*（1977）[^note-6]为例：那是一根一公里长的金属轴插入地表，仅顶端可见，第一手的感知经验根本无从谈起。更切要的是，去与一件基本上宣称自己就是观念的艺术作品发生感知上的参与，这究竟意味着什么？
+于是，所论的假设是这样的：尽管我们似乎能从观看葛饰北斋（Katsushika Hokusai）的 *Fine Wine, Clear Morning* 或伊丽莎白·维热·勒布伦（Élisabeth Vigée Le Brun）的 *Self-Portrait in a Straw Hat* 的明信片或海报中有所收获，但要对其艺术品格给出真正的判断，仍需我们自己对该作品有未经中介的感知经验。然而——而观念艺术问题的症结正在于此——倘若我们没有任何东西可以获得第一手的感知经验，那又当如何？以沃尔特·德·玛丽亚（Walter De Maria）的 *Vertical Earth Kilometer*（1977）[^note-6]为例：那是一根一公里长的金属轴插入地表，仅顶端可见，第一手的感知经验根本无从谈起。更切要的是，去与一件基本上宣称自己就是观念的艺术作品发生感知上的参与，这究竟意味着什么？
 
 然而，或许最迫切的问题，在于我们应在多大程度上认真看待观念艺术的去物质化主张。这种艺术的去物质化，难道不意味着观念艺术不仅拒斥传统艺术媒介，而且干脆否弃一般意义上的艺术媒介吗？要理解这一观念，一种可能的途径是借助戴维斯勾勒的区分，即 **物理媒介**（*physical medium*）与 **载体媒介**（*vehicular medium*）之分（Davies 2004）[^davies-2004]。关键之处在于，载体媒介据说不仅包含物理对象（比方说绘画与雕塑），也包含行动、事件，以及一般说来更复杂的实体。用戴维斯的话说：“艺术家操纵一种载体媒介的产物，将是借以表达某一特定艺术陈述的 **载体**……这一载体，如毕加索（Picasso）的 *Guernica* 那样，可以是一件物理对象；如柯勒律治（Coleridge）的 *Kubla Kahn* 那样，可以是一种语言结构类型；又如杜尚（Duchamp）的 *Fountain* 那样，则是一种特定类型的行动。”（Davies 2004, 59）[^davies-2004]。坚持艺术中的这种载体媒介，至少能让哲学家获得一种概念，足以消解这样一个担忧：观念艺术拒斥物理媒介，是否等于否认了对 **一切** 艺术媒介的需要。
 
@@ -124,49 +112,49 @@
 
 在最基本的探究层面，关于艺术解释会出现两个问题：（i）我们使用什么“工具”来解释艺术作品？（ii）当我们解释艺术作品时，我们究竟在做什么？就观念艺术而言，对（i）的满意回答很可能诉诸这样一些要素：艺术家或策展人提供的叙事性辅助（如目录、标题、展陈说明、标签等）；适当的感知方式（即观看或聆听）；以及我们所知道的、关于作品与艺术家的社会、历史、政治或艺术语境的情况。取决于特定作品的本体论地位（比方说它是现成品还是表演），这些要素可以以不同方式组合，用以说明我们的解释习惯与实践。
 
-<<<MISSING>>>In addressing (ii) we will most likely need to refer to the various mental abilities we put to use in such interpretative exercises (e.g. imagination, empathy); and also to ask precisely what the target of our interpretation is. This latter task is not as unproblematic as it may seem, for it is not always clear whether it is the object itself that should be under scrutiny, the object’s perceptual properties (and, if so, which), the idea at the heart of the work, or the artist’s intentions in making the piece. It seems unlikely that the question will find an adequate answer until we find an acceptable solution to the problem mentioned above, namely ‘Is the vehicular medium a constitutive part of the conceptual artwork or not, and if so how?’.
+在处理（ii）时，我们很可能需要援引我们在此类解释练习中运用的各种心智能力（如想象力、共感）；还须确切追问：我们解释的对象究竟是什么？后一项任务并不像表面那么无碍，因为受审视的究竟是对象本身、对象的知觉属性（若是，是哪些属性）、作品核心处的观念，还是艺术家创作该作品的意图，并不总是清楚的。看来，除非我们为上述问题找到一个可接受的解决——即“载体媒介是不是概念艺术作品的构成部分？若是，又如何是？”——这一问题才能得到充分的回答。
 
-<<<MISSING>>>Two further philosophical questions about the notion of artistic interpretation take on a particularly complex dimension in relation to conceptual art. First, exactly what information is relevant in artistic interpretation? And, more importantly, to what extent should the *artist’s intention* be allowed to determine the appropriate interpretation? Views differ widely on this topic. In their article, ‘The Intentional Fallacy’, William Wimsatt and Monroe Beardsley famously argue in relation to the literary arts that the only kind of evidence that is relevant to interpretation is that which is internal to the work in question. (Wimsatt & Beardsley 1946)[^wimsatt-1946]. An artist’s intention or design is of no interpretative significance. Obviously, this position seems difficult to defend in the case of conceptual art: when we are dealing with pieces such as Warhol’s *Brillo Boxes*, where the internal evidence is clearly insufficient to discern that it is an artwork in the first place, it seems that we need to know that Warhol intended the boxes to be viewed *qua* art, at the very least.
+关于艺术诠释概念，还有两个哲学问题在与观念艺术相关时呈现出特别复杂的维度。其一，在艺术诠释中，究竟什么信息是相关的？其二，更重要的是，应当在何种程度上允许艺术家意图决定恰当的诠释？在这一问题上，看法分歧极大。在《意图谬误》一文中，威廉·威姆萨特与门罗·比尔斯利就文学艺术提出了著名主张：与诠释相关的唯一证据，是所论作品内部的证据（Wimsatt & Beardsley 1946）[^wimsatt-1946]。艺术家的意图或设计没有任何诠释上的意义。显然，这一立场在观念艺术的情形中难以辩护：当我们面对沃霍尔的 *Brillo Boxes* 这样的作品——其内部证据明显不足以辨明它原本就是一件艺术作品——我们至少需要知道，沃霍尔意图让人们把那些盒子 **作为** 艺术来观看。
 
-<<<MISSING>>>Now, even if we do wish to defend the view that the artist’s intention needs to be taken into account somehow in the interpretation of conceptual art, further questions still require our attention here. Most centrally, should the artist’s intention always be considered the *decisive* factor in interpretation and *must* it always be involved? Generally speaking, there are two main strands of intentionalist positions available. On the one hand, there is an approach which holds that the artist’s intention determines an artwork’s meaning, and thus cannot be overlooked – or indeed superseded – in artistic interpretation (e.g., Carroll 1992)[^carroll-1992]. On the other hand, there is a view that the interpreter ought to construct the best hypothesis concerning the artist’s actual intention with the help of, say, the text and biographical notes, and that this hypothesis confers meaning on the work in question (e.g., Levinson 1992)[^levinson-1992].
+如今，即便我们确实想为下述观点辩护——在诠释概念艺术时须以某种方式把艺术家的意图考虑进去——仍有进一步的问题需要关注。最核心的是：艺术家的意图是否应始终被视为诠释的决定性因素？它是否必须始终参与其中？大体而言，可用的意图论立场有两条主线。一方面，有一种进路主张艺术家的意图决定作品的意义，因而在艺术诠释中不可忽视——确实也不可被取代（如 Carroll 1992）[^carroll-1992]。另一方面，有一种观点认为，诠释者应当借助文本与传记性笔记等，就艺术家的实际意图构造最佳假说，正是这一假说赋予所论作品以意义（如 Levinson 1992）[^levinson-1992]。
 
-<<<MISSING>>>At least at a first glance, it may seem that conceptual art presents a stronger case for the first approach to interpretation, since the artist’s intention is all we have to go by, quite literally, in works such as Robert Barry’s simple statement entitled *All the Things I Know But of which I am Not at the Moment Thinking* (1969) (see, e.g., Maes 2010 and Gover 2012)[^gover-2012][^maes-2010]. Nevertheless, the question cannot be settled quite so easily, for many conceptual artists make a point of putting all the interpretative onus on the spectator. How often are we told, after all, that a specific artwork’s meaning rests entirely in our hands; that ‘it means whatever you want it to mean’?
+至少初看之下，观念艺术似乎为第一种诠释进路提供了更有力的案例，因为在一类作品中，我们唯一可资凭依的，恰恰就是艺术家的意图，例如罗伯特·巴里那件题为《我所知道而此刻未想的一切》（*All the Things I Know But of which I am Not at the Moment Thinking*，1969）的简单陈述（如见 Maes 2010 与 Gover 2012）[^gover-2012][^maes-2010]。然而，这一问题无法如此轻易了结，因为许多观念艺术家刻意把全部诠释责任推给观赏者。毕竟，我们有多少次被告知：某件特定作品的意义完全握在我们手中；“它意指什么，全随你想”？
 
-<<<MISSING>>>This leads us to the second question that is especially pertinent for a kind of art that sets out to convey an idea or meaning, namely whether there can be more than one correct or appropriate interpretation of an artwork. Again, several theories present themselves as eligible candidates in relation to this problem. One suggestion has centred around the idea that there can be a multiplicity of appropriate or correct divergent interpretations of one and the same artwork which cannot be reduced to one underlying interpretation or ranked in relation to each other (e.g., Margolis 1991; Goldman 1990)[^goldman-1990][^margolis-1991]. In opposition to this view, however, another approach has it that there is in fact always a single best interpretation which is better than any other (e.g., Beardsley 1970)[^beardsley-1970]. The aim of artistic interpretation is, then, in Matthew Kieran’s words, ‘restricted to discovering the one true meaning of an artwork.’ (Kieran 1996, 239)[^kieran-1996]. Whilst conceptual art certainly seems to rest on something like the interpretative plurality of the first view, it is not obvious how a kind of art that presents itself as an idea can, in reality, accommodate such indeterminacy.
+由此引出第二个对一种以传达观念或意义为务的艺术尤为切要的问题：一件艺术作品是否可以有一种以上正确或恰当的诠释？同样，有几种理论都自认有资格回答这一问题。一种建议围绕如下观念：同一件作品可以有多种恰当或正确的分歧诠释，它们既不能还原为某一个底层诠释，也不能相互排出高下（如 Margolis 1991；Goldman 1990）[^goldman-1990][^margolis-1991]。与之相反，另一种进路主张事实上总是存在一个优于其他一切诠释的最佳诠释（如 Beardsley 1970）[^beardsley-1970]。用马修·基兰（Matthew Kieran）的话说，艺术诠释的目标于是“局限于发现艺术作品的唯一真义”（Kieran 1996, 239）[^kieran-1996]。虽然观念艺术看起来确实立足于类似第一种观点的诠释多元论，但一种把自己呈现为观念的艺术究竟能否在现实中容纳这种不确定性，并不显然。
 
-<<<MISSING>>>There are good reasons to believe that of all the questions conceptual art gives rise to, interpretation is the most problematic from an internal point of view. The conundrum can be put in the following terms. If the conceptual work is the idea, it seems reasonable to assume that artistic interpretation will consist primarily in coming to understand that idea (which is conceded by the artist to the artwork considered as such). In other words, if we take conceptual art’s de-materialisation claim seriously, we are left with a notion of interpretation which is relatively constrained to the artist’s intention and to the claim that that intention determines *the* appropriate or correct interpretation for that particular work.
+有充分理由认为，在观念艺术引发的全部问题中，诠释从内部视角看是最棘手的。这一难题可以这样表述：如果概念作品就是观念，那么假定艺术诠释主要在于理解那个观念（艺术家已把它让渡给作为如此这般的艺术作品）似乎是合理的。换言之，如果我们认真对待观念艺术的去物质化主张，我们便剩下一个相对受限的诠释概念：它局限于艺术家的意图，以及“该意图决定该作品的那个恰当或正确诠释”这一主张。
 
-<<<MISSING>>>As we have seen, though, we are often encouraged by conceptual artists to take the interpretative exercise into our own hands, so to speak, and not be shy to use features about ourselves and our own lives as interpretive tools. We are, in other words, asked to combine the idea of art as idea with the claim that we can, as spectators, convey an entirely new and fresh interpretation onto an artwork that is nothing but an idea which, by definition, needs to be about or concerned with something. So, if the idea is the art, then how can my idiosyncratic interpretation of that idea be anywhere near valid? It seems, then that in order to be coherent, conceptual art must give up either the claim that the actual artwork is nothing other than the idea, or the claim that the interpretative onus lies on the viewer.
+然而，如我们所见，观念艺术家常常鼓励我们把诠释练习掌握在自己手中，不妨大胆使用关于我们自身与我们生活的特征作为诠释工具。换言之，我们被要求把“艺术即观念”与另一个主张结合起来：作为观赏者，我们可以把一种全新的诠释加诸一件除观念外别无所有的作品——而观念按定义必须是关于某物或关切某物的。那么，如果观念就是艺术，我对该观念的独特诠释又怎能接近有效？看来，为求融贯，观念艺术必须放弃如下两个主张之一：要么“实际的艺术作品无非就是观念”，要么“诠释责任在观赏者”。
 
 ### 3.5 艺术的认知价值
 
-<<<MISSING>>>In seeking to convey a semantic representation through a vehicular medium, conceptual art arguably aims to have cognitive – rather than aesthetic – value. By cognitive value, what is meant is simply the value an artwork may have in virtue of enhancing or increasing our understanding of some topic, notion or event. Interestingly, conceptual art seems to assume that the aesthetic detracts from or divests art of its possible cognitive value in such a way as to render the two kinds of value close to mutually exclusive (Schellekens 2007)[^schellekens-2007].
+在力求经载体媒介传达一种语义呈现时，观念艺术可以说以认知价值——而非审美价值——为目标。所谓认知价值，指的只是艺术作品因增进或加深我们对某个主题、概念或事件的理解而可能具有的价值。有趣的是，观念艺术似乎假定：审美因素会有损于、乃至剥夺艺术可能的认知价值，以致两种价值近乎互斥（Schellekens 2007）[^schellekens-2007]。
 
-<<<MISSING>>>The attempt to separate the aesthetic from the cognitive is far from a recent investigative endeavour in philosophical circles. In the very first section of Kant’s *Critique of the Power of Judgement*, a clear-cut distinction is outlined between aesthetic and cognitive (or ‘logical’) judgements. However, few artistic movements have pressed these questions about the division between aesthetic value on the one hand, and cognitive value on the other, as scrupulously and explicitly as conceptual art. In fact, conceptual art makes things very difficult for itself by holding that the *only* kind of artistic value that is entirely legitimate is cognitive value.
+把审美与认知区分开来的尝试，在哲学圈子中绝非晚近才有的探究。在康德《判断力批判》开篇第一节，就勾画了审美判断与认知（或“逻辑”）判断之间的明确区分。然而，很少有艺术运动像观念艺术这样，如此审慎而明确地追问审美价值与认知价值之分。事实上，观念艺术给自己出了难题：它主张唯一完全正当的艺术价值是认知价值。
 
-<<<MISSING>>>Clearly, conceptual art is not the only kind of art that may have cognitive value – many other artforms aim to have cognitive value *in addition* to aesthetic value – and most of us would agree that part of why we find art rewarding is precisely because it often yields some kind of understanding. That is to say, we read novels, look at paintings and listen to music not only because of the pleasure it may afford, but also because it tends to make us richer human beings, better able to make sense of the world around us.
+显然，观念艺术并非唯一可能具有认知价值的艺术——许多其他艺术形式以拥有认知价值为审美价值 **之外** 的目标——而我们大多数人都同意：艺术之所以让我们觉得有价值，部分正在于它常常带来某种理解。也就是说，我们读小说、看绘画、听音乐，不仅因其可能带来的愉悦，也因为它往往使我们成为更丰盈的人，更能理解周围的世界。
 
-<<<MISSING>>>Uncontroversial as this claim may seem, some philosophers have denied that art should either have or seek to have cognitive value. Most famously perhaps, expressivists such as Clive Bell and Roger Fry held that art should only seek to express and arouse emotions (Bell 1914; Fry 1920)[^bell-1914][^fry-1920]. James Young has defended a view whereby *avant-garde* art, like conceptual art, cannot yield any significant knowledge or understanding (Young 2001, 77)[^young-2001].
+这一主张看似无可争议，却有一些哲学家否认艺术应当具有或追求认知价值。最著名的或许是表达主义者如克莱夫·贝尔与罗杰·弗莱，他们主张艺术只应表达并唤起情感（Bell 1914；Fry 1920）[^bell-1914][^fry-1920]。詹姆斯·扬（James Young）则为一观点辩护：像观念艺术这样的先锋艺术，不能带来任何重要的知识或理解（Young 2001, 77）[^young-2001]。
 
-<<<MISSING>>>Young’s argument focuses on the notion of exemplification which he locates at the heart of the only kind of semantic representation and cognitive value that can be ascribed to artworks such as conceptual ones. Exemplification is a form of reference to properties by means of a sample (or exemplar). An exemplar ‘stands for some property by [non-metaphorically, literally] possessing the property’ (Young 2001, 72)[^young-2001]. In the case of conceptual art, a work then exemplifies an idea or concept. So, for example, Tom Marioni’s *The Act of Drinking Beer with One’s Friends is the Highest Form of Art* (1970)[^note-9] – a piece involving the artist and his friends drinking beer together – is an exemplar of the idea at the heart of the work, namely that drinking beer with one’s friends is the highest art-form of all. This is the work’s statement. However, as Young points out, it doesn’t follow from the fact that something expresses a statement or has meaning that it has significant cognitive value. All things considered, the kind of statement that conceptual artworks and their like are typically able to make, according to Young, are merely truisms. If conceptual art yields cognitive value, that is to say, it tends to be so trivial that it barely deserves the name.
+扬的论证聚焦于例示（exemplification）概念，他把它置于可归于观念艺术这类作品的唯一语义呈现与认知价值的中心。例示是借助一个样本（或范例）指称属性的一种方式。一个范例“通过[非隐喻地、字面地]拥有某属性而代表该属性”（Young 2001, 72）[^young-2001]。就观念艺术而言，作品例示一个观念或概念。例如，汤姆·马里奥尼（Tom Marioni）的《与朋友共饮啤酒是艺术的最高形式》（*The Act of Drinking Beer with One’s Friends is the Highest Form of Art*，1970）[^note-9]——一件艺术家与朋友们一起喝啤酒的作品——就是该作品核心观念的范例，即与朋友共饮啤酒是一切艺术形式中的最高形式。这就是该作品的陈述。然而，正如扬指出的，从某物表达一个陈述或有意义，并不能推出它具有重要认知价值。总而言之，依扬之见，观念艺术作品及同类作品通常所能提出的那类陈述，不过是老生常谈。倘若观念艺术真的带来认知价值，那也就是说，它带来的认知价值琐碎到几乎不配此名。
 
-<<<MISSING>>>The argument puts a finger on an experience shared by many spectators of conceptual art who feel conned or deceived by it. Not only are conceptual artworks not beautiful, one might object, they don’t even tell us anything over and beyond banal clichés. What, then, is conceptual art really good for?
+这一论证点出了许多观念艺术观赏者共有的一种经验：他们觉得自己被欺骗、被愚弄了。有人或许会反驳说：观念艺术作品不仅不美，甚至连陈词滥调之外的东西也不告诉我们。那么，观念艺术究竟有什么用？
 
-<<<MISSING>>>If there is to be a way out of this difficulty, we will have to take the bull by the horns and discuss exactly what (kind of) understanding one may gain from it. This answer will have to be cashed out in terms of two concerns: one about the *content* of the knowledge, and another about the *kind* of knowledge in question. First, knowledge yielded by art can be about the artwork – not only the techniques employed, the work’s history and tradition, and so on, but also the meaning and thoughts that the work conveys. Second, art can yield either propositional knowledge or knowledge by acquaintance. Whereas the first consists of knowledge given to us in terms of propositions and can either be concerned with the artwork itself (e.g. knowledge ‘that [Manet's famous painting] represents the Emperor Maximilan’s execution') or a reality beyond that work (e.g. knowledge ‘that horrible things are often done in the name of political revolutions’), the second kind of knowledge has the potential to enable one to imagine what it would be like to be in a certain position or situation, to empathize, to come very close to experiencing what it would be like to have that kind of experience first-hand (e.g. what it is like to witness the execution of a dishonoured Emperor).
+若要有摆脱这一困难的出路，我们就得迎难而上，确切讨论人们从中可以获得什么样的（何种）理解。这一回答必须落实为两方面的关切：一是关于知识的内容，一是关于所论知识的种类。其一，艺术带来的知识可以是关于作品本身的——不仅涉及所用的技法、作品的历史与传统等，也涉及作品传达的意义与思想。其二，艺术带来的知识可以是命题知识，也可以是亲知。前者以命题的形式给予我们，或关乎作品本身（如知道“[马奈的这幅名画]描绘了马克西米连皇帝被处决”），或关乎作品之外的现实（如知道“以政治革命之名，可怕的事情时有发生”）；后者则有可能使人设想处于某种位置或情形之中会是什么样子，使人共感，使人极近于亲历那种经验（如亲历一位蒙羞皇帝被处决会是什么感受）。
 
-<<<MISSING>>>The notions of knowledge and cognitive value, whilst at the very heart of the conceptual project, raise a manifold of important questions that require solid and cogent philosophical answers. Perhaps exemplification can still serve an epistemological purpose by inviting us to engage with the issues raised by a work of art in a richer and more imaginative way; in a way that makes us think about questions of philosophical interest in particular way – a way that propositions alone cannot do? Perhaps the key to conceptual art’s value lies in a more challenging intellectual relationship with the work, a genuine engagement with the idea in question. Exploring this avenue may yet help us see what kind of non-trivial cognitive value conceptual art is capable of yielding.
+知识与认知价值虽是观念方案的核心，却引出一系列需要坚实而有说服力的哲学回答的重要问题。或许，例示仍能通过邀请我们以更丰富、更有想象力的方式介入一件艺术作品所提出的问题而服务于认识论目的——以命题所不能为的方式，让我们以某种特定方式思考有哲学意趣的问题？或许，观念艺术价值的关键，在于与作品之间一种更具挑战性的智识关系，在于与所论观念的真实交涉。探究这条路径，或许终将帮助我们看清：观念艺术能够带来的那种非琐碎的认知价值究竟是什么。
 
 ## 4 进一步的问题
 
-<<<MISSING>>>Many more questions centred around these five philosophical themes remain to be examined in relation to conceptual art. With regards to concerns about defining art, we need to address the increasing number of worries to do with exactly how we are to distinguish art from non-art, and indeed whether there really is a distinction (if only theoretical) to be drawn here. That is to say, if conceptual art is at times not only perceptually indistinguishable from non-art but it is also the case that everything is alleged to be (part of) a potential artwork, perhaps the inevitable outcome is that there simply cannot be a principled distinction between art and non-art. So, does the conceptual project lead to the end of the category of art as such?
+围绕这五个哲学主题，还有更多问题有待在观念艺术的关联中考察。就艺术的界定而言，我们需要处理越来越多的担忧：究竟如何区分艺术与非艺术，甚至这里是否真的有（哪怕只是理论上的）区分可划。也就是说，如果观念艺术有时不仅在知觉上与非艺术无法区分，而且一切东西都被说成是（潜在艺术作品的）一部分，那么不可避免的结局或许是：艺术与非艺术之间根本不可能有一条原则性界限。那么，观念方案是否会导致艺术范畴本身的终结？
 
-<<<MISSING>>>From the ontological perspective, this set of concerns acquires an even more aggressive flavour: if art should be all about putting forward ideas and making statements, why, one might wonder, do we need the conceptual artwork at all? Can we not merely ask the same questions and make the same statements directly?
+从本体论视角看，这组关注带上了更为凌厉的色彩：如果艺术应当全关乎提出观念、发表陈述，那么人们或许要问：我们为什么还需要概念艺术作品？难道不能直接提出同样的问题、发表同样的陈述吗？
 
-<<<MISSING>>>In addition to these questions, the host of issues that have been raised about interpretation, intention, appreciation and the way they are (or should be) related have not yet been silenced. For art that is as discourse-dependent as most conceptual art is, it is not always clear whether there is anything more to interpreting conceptual art than just being told what the idea in question is. And if so, can we still call this *interpretation*?
+除这些问题外，围绕诠释、意图、欣赏及其相互关系（或应当如何相关）而提出的大量问题，也尚未平息。对于像大多数观念艺术这样依赖话语的艺术，诠释概念艺术是否无非就是被告知所论的观念是什么，并不总是清楚。而若果真如此，我们还能把这称为诠释吗？
 
-<<<MISSING>>>Finally, what are we to make of the relation between aesthetic and cognitive value in conceptual art – should they be considered as in opposition or even as mutually exclusive? If the only kind of value that is of genuine artistic importance is cognitive value, it will be difficult to avoid the definitional and ontological concerns mentioned above. Also, it will call for a deeply revisionary conception of art, one fundamentally hostile to the very notions we are probably most used to associating with art, namely beauty and aesthetic pleasure.
+最后，如何看待观念艺术中审美价值与认知价值的关系——应当视之为对立，甚至互斥吗？如果唯一真正具有重要艺术意义的价值是认知价值，那么就难以避免前述定义与本体论的关切。这也将要求一种深具修正性的艺术观：它对我们最习惯与艺术相联的那些观念——美与审美愉悦——在根本上怀有敌意。
 
-<<<MISSING>>>Central to the philosophy of conceptual art is thus the provocative spirit of the project under investigation – conceptual art throws down the gauntlet by challenging us to reconsider every aspect of artistic experience, and it may well be up to philosophy to pick it up and address some of the questions conceptual art makes its business to raise. Conceptual art actively aims to be thought-provoking, stimulating and inspiring, and if only for that reason, philosophers interested in art should not pass it by unaffected.
+因此，概念艺术哲学的核心，是所考察方案的挑衅精神——观念艺术掷下挑战的手套，迫使我们重新考虑艺术经验的每一个方面；而把它拾起、回应观念艺术以之为己任的那些问题，或许正是哲学的职分。观念艺术主动以求引人思考、激人灵感为目标；单是为此，关心艺术的哲学家就不应无动于衷地路过。
 
 ## 参考文献
 
@@ -182,36 +170,34 @@
 
 ## 其他网络资源
 
-- [artnet: Fine Art, Decorative Art, and Design – The Art World Online](https://www.artnet.com/)
-- [The Guggenheim Collection Online](https://www.guggenheim.org/new-york/collections/collection-online/)
-- [The Museum of Modern Art](https://www.moma.org/) (MoMA)
-- [Tate Online](https://www.tate.org.uk/)
+- [artnet：美术、装饰艺术与设计——艺术世界在线](https://www.artnet.com/)
+- [古根海姆在线馆藏（The Guggenheim Collection Online）](https://www.guggenheim.org/new-york/collections/collection-online/)
+- [现代艺术博物馆（The Museum of Modern Art）](https://www.moma.org/)（MoMA）
+- [泰特在线（Tate Online）](https://www.tate.org.uk/)
 
 ## 相关词条
 
-aesthetic, concept of the | aesthetic experience | aesthetics: aesthetic judgment | art, definition of | Beardsley, Monroe C.: aesthetics | Kant, Immanuel: aesthetics and teleology | Wittgenstein, Ludwig: aesthetics
+美学的概念 | 审美体验 | 审美判断 | 艺术的定义 | 比厄斯利的美学 | 康德的美学与目的论 | 维特根斯坦的美学
 
-## Notes（原文脚注）
+## 脚注
 
-## Notes to Conceptual Art
+[^note-1]: 然而，这一术语似乎早在 1961 年就在纽约被艺术家亨利·弗林特用于指称激浪派的一些作品与表演（Wood, 2002: 8）。
 
-[^note-1]: The term does, however, seems to have been used as early as 1961 in New York by the artist Henry Flynt in relation to some of the pieces and performances originating in the Fluxus Group (Wood, 2002: 8).
+[^note-2]: 理查德·朗，1967，《一条由行走而成的线》（*A Line Made by Walking*）。文献记录见[外部图片](http://www.fototensioni.net/imgs/long.jpg)。
 
-[^note-2]: Richard Long, 1967, *A Line Made by Walking*. For documentation, see the [external image](http://www.fototensioni.net/imgs/long.jpg).
+[^note-3]: 布鲁斯·瑙曼，1968，《在工作室里边走边在提琴上拉一个音》（*Playing a Note on the Violin While I Walk around the Studio*）。文献记录见[外部图片](http://www.moma.org/collection_images/resized/576/w500h420/CRI_151576.jpg)。
 
-[^note-3]: Bruce Nauman, 1968, *Playing a Note on the Violin While I Walk around the Studio*. For documentation, see the [external image](http://www.moma.org/collection_images/resized/576/w500h420/CRI_151576.jpg).
+[^note-4]: 皮耶罗·曼佐尼，1961。文献记录见[外部图片](https://classconnection.s3.amazonaws.com/191/flashcards/1135191/jpg/manzoni-signingarm-m1353601165610.jpg)。
 
-[^note-4]: Piero Manzoni, 1961. For documentation, see the [external image](https://classconnection.s3.amazonaws.com/191/flashcards/1135191/jpg/manzoni-signingarm-m1353601165610.jpg).
+[^note-5]: 基于这一观念的两种重要理论：（i）乔治·迪基的“艺术体制论”；（ii）杰罗德·列文森的“艺术的历史定义”。就（i）而言，*X* 是一件艺术作品，当且仅当 *X* 是一件人工物，且有人代表某个体制（艺术世界）赋予它“可供欣赏的候选者”之地位。就（ii）而言，*X* 是一件艺术作品，如果它被创作出来的意图是促成（或阻止）愉悦，而最重要的是，在艺术创作与艺术欣赏的历史框架内作为一件艺术作品被知觉与欣赏。这样，这一理论便容许了在艺术世界这类社会语境之外制作人工物的可能性，转而强调制作者的意图。关于这些理论的更多内容，见 Dickie (1973) 与 Levinson (1979)。
 
-[^note-5]: Two important theories based on this idea: (i) George Dickie’s ‘Institutional Theory of Art’; (ii) Jerrold Levinson’s ‘Historical Definition of Art’. For (i), *X* is an artwork if and only if *X* is an artefact upon which someone acting on behalf of a certain institution (the artworld) confers the status of being a candidate for appreciation. For (ii), *X* is an artwork if it is made with the intention of promoting (or preventing) pleasure, and, most importantly, of being perceived and appreciated as a work of art within the historical framework of art making and art appreciation. This theory thus allows for the possibility that an artefact could be made outside a social context such as the artworld, but emphasizes the intention of the maker instead. For more on these theories, see Dickie (1973) and Levinson (1979).
+[^note-6]: 这件作品由一根一公里长的圆柱构成，插入地下，顶端置一块黄铜板以标示其所在。文献记录见[外部图片](http://territoiresinoccupes.free.fr/art/2_1_F39.jpg)。
 
-[^note-6]: This piece consists of a cylinder measuring one kilometre, inserted into the ground, with a brass plate placed at the top to indicate where it is. For documentation, see the [external image](http://territoiresinoccupes.free.fr/art/2_1_F39.jpg)
+[^note-7]: 对贝尔（1914）与弗莱（1920）而言，拥有“有意味的形式”就是这样一套必要且充分条件。此外，比尔斯利（1958）把艺术定义为：以赋予其满足审美兴趣之能力为意图而制作的东西。
 
-[^note-7]: For Bell (1914) and Fry (1920) possessing ‘significant form’ is such a necessary and sufficient condition. Also, Beardsley (1958) defines art as something produced with the intention of giving it the capacity to satisfy aesthetic interest.
+[^note-8]: 关于一般艺术价值的更多内容，见 (Budd 1995)[^budd-1995]。
 
-[^note-8]: For more on the value of art in general, see (Budd 1995)[^budd-1995].
-
-[^note-9]: For documentation, see the [external image](http://www.artnet.com/magazine/news/ntm3/Images/ntm1-1-5.jpg).
+[^note-9]: 文献记录见[外部图片](http://www.artnet.com/magazine/news/ntm3/Images/ntm1-1-5.jpg)。
 
 [^alberro-1999]: Alberro, Alexander & Blake, Stimson (eds.), 1999. *Conceptual Art: A Critical Anthology*, Cambridge, MA: MIT Press.
 
