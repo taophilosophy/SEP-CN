@@ -1,29 +1,57 @@
 {
- "slug": "boolalg-math",
- "kind": "retranslate",
- "zh_doc": "b/boolalg-math.md",
- "state": "cleared",
- "steps": [
-  {
-   "step": "intent",
-   "status": "ok",
-   "actor": "b组翻译代理",
-   "at": "2026-10-31T22:11:27Z",
-   "evidence": "方向声明（rules/08）：意图=完成 boolalg-math（B组/数学中的逻辑代数）中译，从英文源 yuanwen/b/boolalg-math.md 零信任重译；目标=译文入库 b/boolalg-math.md，走完 draft→s1→s2→s3→r1→r2→r3→done；非目标=不改原文结构/不补内容/不造引文；验收判据=check_academic --strict 0硬错误+check_style 0问题+check_prose 告警逐条处理+门禁全绿；批参数=试点单条，子代理滚动第1条"
-  },
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-10-31T22:07:25Z",
-   "evidence": "baseline gate: hash_ok"
+  "slug": "boolalg-math",
+  "kind": "retranslate",
+  "zh_doc": "b/boolalg-math.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "intent",
+      "status": "ok",
+      "actor": "b组翻译代理",
+      "at": "2026-10-31T22:11:27Z",
+      "evidence": "方向声明（rules/08）：意图=完成 boolalg-math（B组/数学中的逻辑代数）中译，从英文源 yuanwen/b/boolalg-math.md 零信任重译；目标=译文入库 b/boolalg-math.md，走完 draft→s1→s2→s3→r1→r2→r3→done；非目标=不改原文结构/不补内容/不造引文；验收判据=check_academic --strict 0硬错误+check_style 0问题+check_prose 告警逐条处理+门禁全绿；批参数=试点单条，子代理滚动第1条"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-31T22:07:25Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "b组翻译代理",
+      "at": "2026-11-01T04:10:34Z",
+      "evidence": "初译完成：对照 yuanwen/b/boolalg-math.md 全节译出（113行）；标记守恒核对（数学定界符/表格/引用组计数）；术语用词与登记册一致；L9源文固有怪定界符照录（源HTML固有，豁免留痕）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "b组翻译代理",
+      "at": "2026-11-01T04:12:26Z",
+      "evidence": "一校（准确性）：对照 yuanwen/b/boolalg-math.md 逐节核销——7节全译无漏节漏句；参考文献5条逐字符照录并移入节内；引用组原样；术语/人名与登记册一致；源文固有怪定界符（with $+)$等）照录（en HTML固有，豁免留痕）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "b组翻译代理",
+      "at": "2026-11-01T04:12:27Z",
+      "evidence": "二校（语言）：check_prose 8条逐条判断——L5总起分述列举豁免、L21/L47/L49/L58/L62数学定义必要的链豁免、L81 weak-verb已修；脱稿通读顺畅"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "b组翻译代理",
+      "at": "2026-11-01T04:12:27Z",
+      "evidence": "三校（体例）：check_style 0问题 + check_academic --strict 0硬错误；markdownlint待CI"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:06:52Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 11, 2018",
+    "archive_edition": "Spring 2022",
+    "sha256": "28c221d1ed3aaa2ed849ebbfa95ead2c145a715fb89df5c803ef162ed2b886f3"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:06:52Z",
- "version_pin": {
-  "pubinfo_date": "Jul 11, 2018",
-  "archive_edition": "Spring 2022",
-  "sha256": "28c221d1ed3aaa2ed849ebbfa95ead2c145a715fb89df5c803ef162ed2b886f3"
- }
 }

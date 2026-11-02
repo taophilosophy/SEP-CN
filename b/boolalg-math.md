@@ -2,11 +2,11 @@
 
 *首次发表于 2002 年 7 月 5 日；2018 年 7 月 11 日实质修订。*
 
-布尔代数是只有命题联结词的两值逻辑的代数，或者等价地，是在并与补运算之下的集合的代数。其严格概念是某种代数的概念，类似于数学中群的概念。这一概念在逻辑学（林登鲍姆–塔尔斯基（Lindenbaum-Tarski）代数与模型论）、集合论（集合域）、拓扑学（完全不连通紧豪斯多夫（Hausdorff）空间）、集合论基础（布尔值模型）、测度论（测度代数）、泛函分析（投影代数）以及环论（布尔环）中皆有根源与应用。布尔代数的研究有多个方面：结构理论、布尔代数的模型论、布尔代数类的可判定性与不可判定性问题，以及上述应用。此外，虽然此处不作解释，它与其他逻辑也有联系，作为特殊代数逻辑的一部分被纳入，并与有限布尔代数和开关电路理论、布尔矩阵有联系。
+布尔代数是只有命题联结词的两值逻辑的代数，或者等价地，是在并与补运算之下的集合的代数。其严格概念是某种代数的概念，类似于数学中群的概念。这一概念在多个学科中皆有根源与应用：在逻辑学中（林登鲍姆–塔尔斯基（Lindenbaum-Tarski）代数与模型论）、集合论中（集合域）、拓扑学中（完全不连通紧豪斯多夫（Hausdorff）空间）、集合论基础中（布尔值模型）、测度论中（测度代数）、泛函分析中（投影代数），以及环论中（布尔环）。布尔代数的研究有多个方面：结构理论、布尔代数的模型论、布尔代数类的可判定性与不可判定性问题，以及上述应用。此外，虽然此处不作解释，它与其他逻辑也有联系，作为特殊代数逻辑的一部分被纳入，并与有限布尔代数和开关电路理论、布尔矩阵有联系。
 
 ## 1 定义与简单性质
 
-一个布尔代数（BA）是一个集合 $A$ 连同二元运算 + 与 $\cdot$、一个一元运算 $-$，以及 $A$ 的元素 0、1，使得以下定律成立：加法和乘法的交换律与结合律、乘法对加法与加法对乘法的分配律，以及以下特殊定律：
+一个布尔代数（BA）由一个集合 $A$、二元运算 + 与 $\cdot$、一元运算 $-$ 以及 $A$ 的元素 0、1 组成，满足以下定律：加法和乘法的交换律与结合律、乘法对加法与加法对乘法的分配律，以及以下特殊定律：
 
 $$\begin{align*} x + (x \cdot y) &= x \\ x \cdot(x + y) &= x \\ x + (-x) &= 1 \\ x \cdot(-x) &= 0 \end{align*}$$
 
@@ -18,7 +18,7 @@ $$\begin{align*} x + (x \cdot y) &= x \\ x \cdot(x + y) &= x \\ x + (-x) &= 1 \\
 
 $$ S(a)= \{F : F \text{ is an ultrafilter on } A \text{ and } a \in F\}. $$
 
-于是 $S$ 是同构，映到 $A$ 上所有超滤子之集合 $X$ 的子集的一个 BA 上。这确立了基本的斯通（Stone）表示定理，并澄清了 BA 作为具体集合代数的起源。此外，集合 $S(a)$ 可被宣布为 $X$ 上拓扑的一个基，这使 $X$ 成为一个完全不连通紧豪斯多夫空间。这确立了 BA 类与这类空间之间的一一对应。作为推论——在 BA 理论中大量使用——许多拓扑定理与概念对 BA 有推论。若 $x$ 是 BA 的元素，我们令 $0x = -x$ 与 $1x = x$。若 $(x$(0), $\ldots x(m - 1))$ 是 BA $A$ 的元素的有穷序列，则由 $\{x(0), \ldots, x(m - 1)\}$ 生成的 $A$ 的子代数的每个元素都可写成单项式 $e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1)$ 之和，其中 $e$ 在某个把 $m = \{0,\ldots , m - 1\}$ 映到 $2 = \{0, 1\}$ 的函数集合中。这是命题逻辑析取范式定理的代数表达。若 $f$ 是从 BA $A$ 的生成元集合 $X$ 到 BA $B$ 的函数，则 $f$ 可扩张为同态当且仅当
+于是 $S$ 是一个同构，映到 $A$ 上全体超滤子的集合 $X$ 的子集所成的 BA 上。这确立了基本的斯通（Stone）表示定理，并澄清了 BA 作为具体集合代数的起源。此外，集合 $S(a)$ 可被宣布为 $X$ 上拓扑的一个基，这使 $X$ 成为一个完全不连通紧豪斯多夫空间。这确立了 BA 类与这类空间之间的一一对应。作为推论——在 BA 理论中大量使用——许多拓扑定理与概念对 BA 有推论。若 $x$ 是 BA 的元素，我们令 $0x = -x$ 与 $1x = x$。若 $(x$(0), $\ldots x(m - 1))$ 是 BA $A$ 的元素的有穷序列，则由 $\{x(0), \ldots, x(m - 1)\}$ 生成的 $A$ 的子代数中每个元素都可写成单项式 $e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1)$ 之和，其中 $e$ 在某个把 $m = \{0,\ldots , m - 1\}$ 映到 $2 = \{0, 1\}$ 的函数集合中。这是命题逻辑析取范式定理的代数表达。若 $f$ 是从 BA $A$ 的生成元集合 $X$ 到 BA $B$ 的函数，则 $f$ 可扩张为同态当且仅当
 
 $$ e(0)x(0) \cdot \ldots \cdot e(m - 1)x(m - 1) = 0 $$
 
@@ -59,7 +59,7 @@ $$e(0)f(x(0)) \cdot \ldots \cdot e(m - 1)f(x(m - 1)) = 0. $$
 
 ## 6 林登鲍姆–塔尔斯基代数
 
-一个非常重要的构造——可推广到许多逻辑和除布尔代数外的许多代数——是与某个逻辑中的语句相关联的布尔代数的构造。最简单的情形是命题逻辑。这里有语句符号，以及由它们构造更长语句的常见联结词：析取、合取与否定。给定此语言中的语句集 $A$，两个语句 $s$ 和 $t$ 模 $A$ 等价，当且仅当它们之间的双条件式是 $A$ 的逻辑后承。等价类可做成一个 BA，使得 + 对应析取、$\cdot$ 对应合取、$-$ 对应否定。任何 BA 都同构于这种形式之一。对一阶理论可以做类似的事。设 $T$ 是一阶语言 $L$ 中的一阶理论。我们称公式 $\phi$ 与 $\psi$ 等价，若 $T \vdash \phi \leftrightarrow \psi$。语句 $\phi$ 的等价类记为 [$\phi$]。设 $A$ 是此等价关系下所有等价类的集合。我们可以通过以下定义把 $A$ 做成一个 BA，这些定义容易证明成立：
+一个可推广到许多逻辑以及布尔代数以外的许多代数的非常重要的构造，就是把某个逻辑中的语句关联起来而得到一个布尔代数。最简单的情形是命题逻辑。这里有语句符号，以及由它们构造更长语句的常见联结词：析取、合取与否定。给定此语言中的语句集 $A$，两个语句 $s$ 和 $t$ 模 $A$ 等价，当且仅当它们之间的双条件式是 $A$ 的逻辑后承。等价类可做成一个 BA，使得 + 对应析取、$\cdot$ 对应合取、$-$ 对应否定。任何 BA 都同构于这种形式之一。对一阶理论可以做类似的事。设 $T$ 是一阶语言 $L$ 中的一阶理论。我们称公式 $\phi$ 与 $\psi$ 等价，若 $T \vdash \phi \leftrightarrow \psi$。语句 $\phi$ 的等价类记为 [$\phi$]。设 $A$ 是此等价关系下所有等价类的集合。我们可以通过以下定义把 $A$ 做成一个 BA，这些定义容易证明成立：
 
 $$\begin{align*} [\phi] + [\psi] &= [\phi \vee \psi] \\ [\phi] \cdot[\psi] &= [\phi \wedge \psi] \\ -[\phi] &= [\neg \phi] \\ 0 &= [\mathrm{F}] \\ 1 &= [\mathrm{T}] \end{align*}$$
 
@@ -78,13 +78,23 @@ $$\begin{align*} [\phi] + [\psi] &= [\phi \vee \psi] \\ [\phi] \cdot[\psi] &= [\
 
 $$\begin{align*} V(B, 0) &= \varnothing \\ V(B, \alpha + 1) &= \{ f : \dom(f) \subset V(B, \alpha) \text{ and } \range(f) \subset B \} \\ V(B, \lambda) &= \bigcup_{\beta \lt \lambda} V(B, \beta). \end{align*}$$
 
-其中 $\dom(f)$ 是函数 $f$ 的定义域，$\range(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，通过对良基集合上的一个相当复杂的超穷递归，定义集合论公式的值，其自由变量赋以布尔值宇宙的元素：
+其中 $\dom(f)$ 是函数 $f$ 的定义域，$\range(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，用一个在良基集合上展开的相当复杂的超穷递归，来定义集合论公式的值——其自由变量被赋以布尔值宇宙的元素：
 
 $$\begin{align*} \val{x \in y} &= \sum_{t \in \dom(y)} \val{x=t}\cdot y(t) \\ \val{x \subseteq y} &= \prod_{t \in \dom(x)} -x(t) + \val{t \in y} \\ \val{x = y} &= \val{x \subseteq y} \cdot \val{y \subseteq x} \\ \val{\neg \phi} &= -\val{\phi} \\ \val{\phi \vee \psi} &= \val{\phi} + \val{\psi} \\ \val{\exists x\phi(x)} &= \sum_{a \in V(B)} \val{\phi(a)}. \end{align*}$$
 
-## References（引用注释）
+## 参考文献
 
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+
+[^halmos-1963]: Halmos, P., 1963, *Lectures on Boolean Algebras*, Princeton: Van Nostrand
+
+[^heindorf-1994]: Heindorf, L., and Shapiro, L., 1994, *Nearly projective Boolean algebras*, Lecture Notes in Mathematics no. 1596, Berlin: Springer-Verlag
+
+[^jech-1997]: Jech, T., 1997, *Set Theory*, 2nd corrected edition, Berlin, New York: Springer-Verlag
+
+[^monk-1989]: Monk, J. D., and R. Bonnet (eds.), 1989, *Handbook of Boolean algebras*, 3 volumes, Amsterdam: North-Holland.
+
+[^monk-2014]: Monk, J. D., 2014, *Cardinal Invariants on Boolean Algebras, Second Revised Edition*, Basel: Birkaüser
 
 ## 学术工具
 
@@ -101,13 +111,3 @@ $$\begin{align*} \val{x \in y} &= \sum_{t \in \dom(y)} \val{x=t}\cdot y(t) \\ \v
 ## 相关词条
 
 代数 | 逻辑代数的传统 | 乔治·布尔 | 代数命题逻辑 | 模型论 | 集合论
-
-[^halmos-1963]: Halmos, P., 1963, *Lectures on Boolean Algebras*, Princeton: Van Nostrand
-
-[^heindorf-1994]: Heindorf, L., and Shapiro, L., 1994, *Nearly projective Boolean algebras*, Lecture Notes in Mathematics no. 1596, Berlin: Springer-Verlag
-
-[^jech-1997]: Jech, T., 1997, *Set Theory*, 2nd corrected edition, Berlin, New York: Springer-Verlag
-
-[^monk-1989]: Monk, J. D., and R. Bonnet (eds.), 1989, *Handbook of Boolean algebras*, 3 volumes, Amsterdam: North-Holland.
-
-[^monk-2014]: Monk, J. D., 2014, *Cardinal Invariants on Boolean Algebras, Second Revised Edition*, Basel: Birkaüser
