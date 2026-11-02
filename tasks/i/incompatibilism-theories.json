@@ -1,0 +1,50 @@
+{
+  "slug": "incompatibilism-theories",
+  "kind": "retranslate",
+  "zh_doc": "i/incompatibilism-theories.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T13:35:12Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "incompatibilism-theories-translator",
+      "at": "2026-11-01T14:09:25Z",
+      "evidence": "draft 完成：以 en/incompatibilism-theories/index.html 为底稿，六节全译（正文 1-4 节 + 参考文献照录 + 学术工具 + 其他网络资源 + 相关词条）；en 无脚注（notes=0）；引号/空格/加粗体例初落"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:55:12Z",
+      "evidence": "主会话收口：一校准确性核销（对照 yuanwen 逐节无漏译错译）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:55:12Z",
+      "evidence": "主会话收口：二校语言欧化清除"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:55:12Z",
+      "evidence": "主会话收口：三校体例+学术+数学全 0"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:35Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 18, 2021",
+    "archive_edition": "Fall 2021",
+    "sha256": "31ad3bcb209cd1d40965b803b8319a88f1b4fdb340420bef8a4edfa36b268782"
+  }
+}
