@@ -70,21 +70,28 @@ def fix_seg(seg, seen_manual=None):
     masked, holes = _mask(seg)
     for _ in range(4):  # 不动点循环，上限防震荡
         changed = False
-        # italic-cjk：纯中文 *..* → **..**；含拉丁的混合段留待 check_line 残余门挂人工
-        def _ital(m):
-            t = m.group(1)
-            if re.search(r"[一-鿿]", t) and not re.search(r"[A-Za-z0-9]", t):
-                return "**%s**" % t
-            return m.group(0)
+        # italic-cjk：纯中文 *..* → **..**；先遮蔽既有 **粗体** 再扫描，
+        # 否则 `**X**（*Y*）` 相邻结构上 ITALIC_RE 会跨对错配（*（* 被包成粗体）
+        bold_holes = []
+        def _stash_bold(m):
+            bold_holes.append(m.group(0))
+            return "\x00B%d\x00" % (len(bold_holes) - 1)
+        _bold_masked = re.sub(r"\*\*[^*\n]+\*\*", _stash_bold, masked)
         if not mixed_seen:
-            for m in ITALIC_RE.finditer(masked):
+            for m in ITALIC_RE.finditer(_bold_masked):
                 t = m.group(1)
                 if re.search(r"[一-鿿]", t) and re.search(r"[A-Za-z0-9]", t):
                     key = ("italic-mixed", t[:60])
                     if key not in seen_manual:
                         seen_manual.add(key)
                         manual.append({"rule": "italic-mixed", "detail": t[:60]})
-        new_masked = ITALIC_RE.sub(_ital, masked)
+        def _ital(m):
+            t = m.group(1)
+            if re.search(r"[一-鿿]", t) and not re.search(r"[A-Za-z0-9]", t):
+                return "**%s**" % t
+            return m.group(0)
+        new_masked = ITALIC_RE.sub(_ital, _bold_masked)
+        new_masked = re.sub(r"\x00B(\d+)\x00", lambda m: bold_holes[int(m.group(1))], new_masked)
         if new_masked != masked:
             masked = new_masked
             changed = True
