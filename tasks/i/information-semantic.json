@@ -2,7 +2,7 @@
   "slug": "information-semantic",
   "kind": "retranslate",
   "zh_doc": "i/information-semantic.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:56:06Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:02:05Z",
+      "evidence": "独立复审：对照 yuanwen 四节+图1+50 条文献逐段核销，无漏译；源文讹误清点：possible words→可能世界、metal files→心理档案、⊤公式段'false'应为'true'（均已被前会话静修，经复核数学上被迫为真，记档）；Firstly→Thirdly 跳号与 Dinnen/Dinneen 不一致系原文如此，照录"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:02:05Z",
+      "evidence": "逐句回核修 23 处：'有信息得以至于不真'破句×2/'不会任何'脱字/'规律性关系'与 regularity 撞名→律则关系/'认知上丰益'→'认知上有回报'（rewarding）/bunyip 首现加注（澳洲传说怪物）/'或另一种意义'欧化×3/§4 总结段残句合并/雷卡纳蒂指称句重构/杰克逊描述维度句重构/范本特姆语序/'通常的术语谈论'等"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:02:29Z",
+      "evidence": "终稿验收：check_style --strict 0；check_math 平衡（16 处 $$ 公式块+行内公式+λ演算记号逐字符保留）；学术门禁见自动拦截；信息哲学术语一致性核验（信息通道/呈现方式/心理档案/子结构逻辑/兰贝克演算/真实性论题）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:02:29Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
