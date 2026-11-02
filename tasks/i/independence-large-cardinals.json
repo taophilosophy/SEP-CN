@@ -2,7 +2,7 @@
   "slug": "independence-large-cardinals",
   "kind": "retranslate",
   "zh_doc": "i/independence-large-cardinals.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main-session",
       "at": "2026-11-01T19:24:01Z",
       "evidence": "第二批子代理已产出译文，主会话收口推进：体例/学术门禁核验通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:51:07Z",
+      "evidence": "独立复审：对照 yuanwen 五节+11 条脚注逐段核销，无漏译（三表两定义块、blockquote 公式、奥雷语句/单跳无跳双跳三分类完整）；可疑处回原始 HTML 核对：L135 Kunen 句源文确缺 no（SEP 出版原文如此），按零信任照录并加译注说明"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:51:07Z",
+      "evidence": "逐句回核：修 13 处——'推理关于'介词错位/'通过（1963年）发明'语序/'在关系≤下的集合'丢 ordered/'在给予…前提下'/'arise in nature'误作'在自然界中出现'×5（数学惯语非物理自然）/双'之间'/'进入混合'/'测量理论的强度'歧义/'在…光照下'/'传统各样'/'那个其他语句'/'而这由…推出'句式；数学记号 η-强/γ-超紧/n-巨大/伍丁/赖因哈特/库嫩/厄多斯 与源逐字符核对"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:51:25Z",
+      "evidence": "终稿验收：check_style --strict 0；check_math 0（公式/下标记号平衡）；学术门禁见自动拦截；集合论术语一致性核验（力迫/内模型/可测/超紧/伍丁/可解释度）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:51:25Z",
+      "evidence": "终审签字：六道全过；源文 Kunen 句脱 no 已照录+译注；exit 0"
     }
   ],
   "blockers": [],
