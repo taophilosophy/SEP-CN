@@ -48,8 +48,10 @@ class CheckTermsTests(unittest.TestCase):
     def test_missing_date_is_warning_not_error(self):
         self.assertIn('缺裁定日期（告警）：nodate', self.out)
 
-    def test_subset_is_lagging_warning(self):
-        self.assertIn('词汇表滞后（告警）: [登记册] lagging', self.out)
+    def test_glossary_superset_not_lagging(self):
+        # 词汇表含更宽通行变体（甲、乙 ⊃ 登记侧 甲）不报滞后：
+        # 2026-11-03 口径收窄（发布视图允许含更宽变体，只报词汇表缺登记侧变体）
+        self.assertNotIn('[登记册] lagging', self.out)
 
     def test_key_normalization_ignores_italics_and_case(self):
         # *isonomia*（登记册）与 isonomia（词汇表）应命中同键且无冲突
