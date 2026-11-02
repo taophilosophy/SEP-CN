@@ -89,8 +89,19 @@ def main():
         full = registry_variants(kind, en) or zhname
         if not full or full.strip() == en.strip():
             continue
-        variants = [v for v in re.split(r"[／/、；]", full) if v]
-        if any(v in zh for v in variants):
+        variants = []
+        for v in re.split(r"[／/、；]", full):
+            v = v.strip()
+            # 剥括注与引号：「亚伯拉罕·伊本·以斯拉（亦作“伊本·以斯拉”）」→ 两变体
+            v = re.sub(r"（[^）]*）", "", v).strip(" “”\"")
+            if v:
+                variants.append(v)
+        # 名字简形豁免：「哈贝马斯」⊂「于尔根·哈贝马斯」——zh 用任一段简形也算落实
+        seg_variants = []
+        for v in variants:
+            if "·" in v:
+                seg_variants += v.split("·")
+        if any(v in zh for v in variants + seg_variants):
             continue  # zh 正文其实有（term_coverage 口径差异）
         # EN 正文级确认
         en_hit = None

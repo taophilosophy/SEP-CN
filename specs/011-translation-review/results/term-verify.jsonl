@@ -209,6 +209,7 @@
 {"kind": "T", "en": "coherence", "zh": "融贯", "slug": "a/autrecourt", "en_body": true, "ctx": []}
 {"kind": "T", "en": "play", "zh": "游戏", "slug": "a/autrecourt", "en_body": true, "ctx": []}
 {"kind": "T", "en": "Nō", "zh": "能剧", "slug": "a/autrecourt", "en_body": false, "ctx": []}
+{"kind": "T", "en": "Nō", "zh": "能剧", "slug": "b/boethius-dacia", "en_body": false, "ctx": []}
 {"kind": "T", "en": "Stone representation theorem", "zh": "斯通表示定理", "slug": "b/boolalg-math", "en_body": true, "ctx": []}
 {"kind": "T", "en": "free variables", "zh": "自由变元", "slug": "b/boolalg-math", "en_body": true, "ctx": []}
 {"kind": "T", "en": "symbol", "zh": "象征", "slug": "b/boolalg-math", "en_body": true, "ctx": []}
@@ -425,7 +426,6 @@
 {"kind": "T", "en": "Nō", "zh": "能剧", "slug": "i/identity-ethics", "en_body": false, "ctx": []}
 {"kind": "T", "en": "epistemic", "zh": "认知的", "slug": "i/identity-personal", "en_body": true, "ctx": []}
 {"kind": "T", "en": "Nō", "zh": "能剧", "slug": "i/identity-personal", "en_body": false, "ctx": []}
-{"kind": "T", "en": "original position", "zh": "原初状态", "slug": "i/identity-politics", "en_body": true, "ctx": ["ohn Rawls）著名的思想实验就使用了“原初位置”（original position），在其中，公民的代表被概念性地剥夺所有特定身份或归属，"]}
 {"kind": "T", "en": "materialism", "zh": "唯物论／物质主义", "slug": "i/identity-politics", "en_body": true, "ctx": ["在马克思主义期刊《历史唯物主义》（Historical Materialism）2018 年的一期特刊中，编者导言赞许地描述了随后的一"]}
 {"kind": "T", "en": "recognition", "zh": "再认识／认出", "slug": "i/identity-politics", "en_body": true, "ctx": ["。在其 2008 年的著作《反对承认》（Against Recognition）中，洛伊丝·麦克内（Lois McNay）主张，作为许"]}
 {"kind": "T", "en": "ontological", "zh": "存在论的", "slug": "i/identity-politics", "en_body": true, "ctx": []}
@@ -535,23 +535,10 @@
 {"kind": "P", "en": "Quine", "zh": "蒯因", "slug": "a/action", "en_body": true, "ctx": ["定位——有人试图据此个别化它（Lemmon 1967; Quine 1985; Davidson 1985）[^david", "son-1985][^lemmon-1967][^quine-1985]。相比之下，过程没有一个本质性的时空定位：现"]}
 {"kind": "P", "en": "Richard Lewontin", "zh": "理查德·列万廷", "slug": "a/adaptationism", "en_body": true, "ctx": ["义的争论，通常被追溯到 Stephen Gould 与 Richard Lewontin 1979 年的一篇论文《圣马可的拱肩与潘格罗斯范式：对"]}
 {"kind": "P", "en": "Sewall Wright", "zh": "休厄尔·赖特", "slug": "a/adaptationism", "en_body": true, "ctx": ["响力的两位进化生物学家：Ronald Fisher 与 Sewall Wright。Fisher 1930 年的重要著作《自然选择的遗传理", "Sewall Wright 的多元主义进化观在若干处都有阐述，其中以他 1931 "]}
-{"kind": "P", "en": "Jerrold Levinson", "zh": "杰罗德·莱文森", "slug": "a/aesthetic-concept", "en_body": true, "ctx": ["lton 1993、Malcolm Budd 1995、Jerrold Levinson 1996, 2002、Gary Iseminger 2"]}
-{"kind": "P", "en": "Lord Kames", "zh": "凯姆斯勋爵", "slug": "a/aesthetics-18th-german", "en_body": true, "ctx": ["n）、亨利·霍姆（卡姆斯勋爵）（Henry Home, Lord Kames）与亚历山大·杰勒德（Alexander Gerard）"]}
-{"kind": "P", "en": "Jürgen Habermas", "zh": "于尔根·哈贝马斯", "slug": "a/aesthetics-critical-theory", "en_body": false, "ctx": []}
-{"kind": "P", "en": "Ḥunayn ibn Isḥāq", "zh": "侯奈因·本·伊斯哈格", "slug": "a/al-kindi", "en_body": false, "ctx": []}
 {"kind": "P", "en": "Alexandre Koyré", "zh": "亚历山大·柯瓦雷", "slug": "c/cambridge-platonists", "en_body": false, "ctx": ["脱离主流（最著名者如 Ernst Cassirer 与 Alexandre Koyré）。其宗教旨趣又使人们多半视之为神学家，乃至牧师或神秘主"]}
-{"kind": "P", "en": "Richard Fitzralph", "zh": "理查德·菲茨拉尔夫", "slug": "c/crathorn", "en_body": true, "ctx": ["John Duns Scotus）、理查德·腓茨拉尔夫（Richard Fitzralph）与罗伯特·霍尔柯特等人的观点（Schepers 197"]}
-{"kind": "P", "en": "Theophrastus", "zh": "特奥弗拉斯托斯", "slug": "d/democritus", "en_body": true, "ctx": []}
 {"kind": "P", "en": "Marin Mersenne", "zh": "马兰·梅森", "slug": "d/descartes-ontological", "en_body": true, "ctx": ["明这一批评之前很久已去世，但这一批评对《第二组反驳者》（Marin Mersenne *et al*.）是熟悉的（AT 7:127; CSM"]}
 {"kind": "P", "en": "Robert Adams", "zh": "罗伯特·亚当斯", "slug": "d/descartes-ontological", "en_body": true, "ctx": ["能或无矛盾，那么上帝存在。但它未能证明这一条件式的前件（Robert Adams 1998, 135）。为强化这一反驳，有时观察到神圣完"]}
-{"kind": "P", "en": "Arius Didymus", "zh": "阿里乌斯·迪迪穆斯", "slug": "d/doxography-ancient", "en_body": true, "ctx": ["- 阿里乌斯·狄迪穆斯（Arius Didymus），公元 1 世纪末：其著作中被引作《论学派》（*On "]}
-{"kind": "P", "en": "Theophrastus", "zh": "特奥弗拉斯托斯", "slug": "d/doxography-ancient", "en_body": true, "ctx": ["著作的传统，始于亚里士多德的学生兼继任者泰奥弗拉斯托斯（Theophrastus）。在其《生平》（见第欧根尼·拉尔修）所保存的著作目录中"]}
-{"kind": "P", "en": "Van Helmont", "zh": "范·海尔蒙特", "slug": "e/elisabeth-bohemia", "en_body": true, "ctx": []}
 {"kind": "P", "en": "David Hull", "zh": "大卫·赫尔", "slug": "e/evolution", "en_body": true, "ctx": ["最后，许多学者考察了围绕系统发育推断的哲学问题，David Hull（1970）是——即便不是第一位——最早的哲学家之一。正"]}
-{"kind": "P", "en": "Abraham ibn Ezra", "zh": "亚伯拉罕·伊本·以斯拉／伊本·以斯拉", "slug": "i/ibn-ezra", "en_body": true, "ctx": []}
-{"kind": "P", "en": "David Wiggins", "zh": "戴维·威金斯", "slug": "i/identity", "en_body": true, "ctx": []}
-{"kind": "P", "en": "Fred Dretske", "zh": "弗雷德·德雷斯基", "slug": "i/information-semantic", "en_body": true, "ctx": ["erry Fodor）（1990）与弗雷德·德雷特斯基（Fred Dretske）（1981）提出了一种与上述非常相似的语义理论（见“心"]}
 {"kind": "P", "en": "Carol Gilligan", "zh": "卡罗尔·吉利根", "slug": "i/integrity", "en_body": true, "ctx": [" 2003, 56–68。Putman 1996 借助 Carol Gilligan 1982 的研究，提出克服“有诚信的纳粹分子”这一问题"]}
-{"kind": "P", "en": "Michael Smith", "zh": "迈克尔·史密斯", "slug": "i/intellectual-property", "en_body": true, "ctx": ["电影、书籍、文章与音乐，并出售、交易或允许他人免费复制。Michael Smith 与 Rahul Telang 论证，盗版通过削弱生产者"]}
 {"kind": "P", "en": "John Earman", "zh": "约翰·厄尔曼", "slug": "s/spacetime-holearg", "en_body": true, "ctx": ["与现在略有不同。后来，它在现代语境中由 John³ = John Earman $\\times$ John Stachel $\\tim"]}
 {"kind": "P", "en": "John Norton", "zh": "约翰·诺顿", "slug": "s/spacetime-holearg", "en_body": true, "ctx": ["imes$ John Stachel $\\times$ John Norton 复活并重新表述。"]}

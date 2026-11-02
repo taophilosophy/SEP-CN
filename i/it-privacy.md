@@ -1,4 +1,4 @@
-# 隐私与信息技术 and privacy (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)
+# 隐私与信息技术 Privacy and Information Technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)
 
 *首次发表于 2014 年 11 月 20 日；2024 年 10 月 4 日实质修订。*
 
@@ -38,7 +38,7 @@
 
 个人信息或数据，是指与个别个人相关联或可与其相关联的信息或数据。例子包括明确陈述的特征，如个人的出生日期、性偏好、行踪、宗教信仰，也包括你计算机的 IP 地址或与这类信息相关的元数据。此外，个人数据也可以是更隐晦的形式，例如来自社交媒体的、可与个人相关联的行为数据。个人数据可以与因其他原因被视为敏感、珍贵或重要的数据相对照，如秘方、金融数据或军事情报。用于保护其他信息的数据（如密码）在此不予考虑。尽管这类安全措施（密码）可能有助于隐私，但它们的保护只是对保护其他（更私密的）信息起工具性作用，因此这类安全措施的质量不在我们这里的考虑范围之内。
 
-在哲学语义学中，有一个相关区分，即描述性标签对个人的指称性（referential）使用与属性性（attributive）使用之间的区分（van den Hoven 2008）[^hoven-2008]。法律上把个人数据定义为可与自然人相关联的数据。这种关联可以有两种方式：指称性模式和非指称性模式。法律主要关注描述或属性的“指称性使用”，即基于说话者与认识对象之间（可能的）相识关系的那种使用。“肯尼迪的凶手必定是疯子”——在法庭上指着他说的这句话——就是一个指称性使用描述的例证。这可以与属性性使用的描述相对照，如“肯尼迪的凶手必定是疯子，无论他是谁”。在后一种情形中，描述的使用者并不——而且可能永远不会——认识他正在谈论或打算指涉的人。如果法律对个人数据的定义作指称性解释，那么许多在某个时间点可能被用于个人的数据将不受保护；也就是说，对这些数据的处理不会因与隐私或个人生活领域相关的道德理由而受到约束，因为它并不以一种直接的方式“指涉”个人，因此不构成严格意义上的“个人数据”。
+在哲学语义学中，有一个相关区分，即描述性标签对个人的指称性（referential）使用与归属性（attributive）使用之间的区分（van den Hoven 2008）[^hoven-2008]。法律上把个人数据定义为可与自然人相关联的数据。这种关联可以有两种方式：指称性模式和非指称性模式。法律主要关注描述或属性的“指称性使用”，即基于说话者与认识对象之间（可能的）相识关系的那种使用。“肯尼迪的凶手必定是疯子”——在法庭上指着他说的这句话——就是一个指称性使用描述的例证。这可以与归属性使用的描述相对照，如“肯尼迪的凶手必定是疯子，无论他是谁”。在后一种情形中，描述的使用者并不——而且可能永远不会——认识他正在谈论或打算指涉的人。如果法律对个人数据的定义作指称性解释，那么许多在某个时间点可能被用于个人的数据将不受保护；也就是说，对这些数据的处理不会因与隐私或个人生活领域相关的道德理由而受到约束，因为它并不以一种直接的方式“指涉”个人，因此不构成严格意义上的“个人数据”。
 
 ### 1.4 保护个人数据的道德理由
 
@@ -217,25 +217,25 @@
 
 ## 其他网络资源
 
-- Albright, J., 2016, “[How Trump's campaign used the new data-industrial complex to win the election](https://blogs.lse.ac.uk/usappblog/2016/11/26/how-trumps-campaign-used-the-new-data-industrial-complex-to-win-the-election/)”, LSE, US Centre, USApp-American Politics and Policy Blog.
-- Allen, C., 2016, [The Path to Self-Sovereign Identity](https://www.coindesk.com/markets/2016/04/27/the-path-to-self-sovereign-identity), Coindesk.
-- Broenink, G., J.H. Hoepman, C.V.T. Hof, R. Van Kranenburg, D. Smits, & T. Wisman, 2010, “[The privacy coach: Supporting Customer Privacy in the Internet of Things](http://arxiv.org/abs/1001.4459)”, *arXiv manuscript* 1001.4459.
-- Cadwalladr, C., 2019, [Facebook's role in Brexit – and the threat to democracy](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy). TED Talk
-- Campbell, D., 2023, [Patient privacy fears as US spy tech firm Palantir wins £330m NHS contract](https://www.theguardian.com/society/2023/nov/21/patient-privacy-fears-us-spy-tech-firm-palantir-wins-nhs-contract) The Guardian
-- Danezis, G & S. Gürses, 2010, “[A critical review of 10 years of Privacy Technology](http://homes.esat.kuleuven.be/~sguerses/papers/DanezisGuersesSurveillancePets2010.pdf).”
-- [Electronic Privacy Information Center](http://epic.org/).
-- [European Commission, Data protection](https://ec.europa.eu/info/law/law-topic/data-protection_en).
-- Gellman, R., 2014, “[Fair information practices: a basic history](http://bobgellman.com/rg-docs/rg-FIPShistory.pdf),”, Version 2.12, August 3, 2014, online manuscript.
-- Germain, R., 2023, “[Google Says It'll Scrape Everything You Post Online for AI](https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486)”, Gizmodo.
-- Inan, H. A., Ramadan, O., Wutschitz, L., Jones, D., Rühle, V., Withers, J., & Sim, R., 2021, “[Training data leakage analysis in language models](https://arxiv.org/abs/2101.05405)”, arXiv.org
-- Nakamoto, S., [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf), www.bitcoin.org.
-- [Neuralink](https://neuralink.com/).
-- [OpenAI, ChatGPT](https://chat.openai.com/).
-- PCI DSS (= Payment Card Industry Data Security Standard), v3.2 (2018), [PCI DSS related documents](https://www.pcisecuritystandards.org/document_library), PCI Security Standards Council, LLC.
-- Richter, H., W. Mostowski, & E. Poll, 2008, “[Fingerprinting passports](http://cs.ru.nl/E.Poll/papers/nluug.pdf)”, presented at NLUUG Spring Conference on Security.
-- Stickgold, Robert, Antonio Zadra, and AJH Haar, 2021 [Advertising in Dreams is Coming: Now What](https://dxe.pubpub.org/pub/dreamadvertising/release/1) – An opinion piece on recent developments in dream incubation technologies and their ethical implications.
-- [U.S. Department of State, Privacy Policy](https://www.state.gov/privacy-policy/).
-- [U.S. Department of Treasury, Privacy Act of 1974](https://home.treasury.gov/footer/privacy-act).
+- Albright, J.，2016 年，“[特朗普的竞选团队如何利用新的数据产业综合体赢得选举](https://blogs.lse.ac.uk/usappblog/2016/11/26/how-trumps-campaign-used-the-new-data-industrial-complex-to-win-the-election/)”，LSE 美国中心，USApp 美国政治与政策博客。
+- Allen, C.，2016 年，[通往自主主权身份之路](https://www.coindesk.com/markets/2016/04/27/the-path-to-self-sovereign-identity)，Coindesk。
+- Broenink, G. 等，2010 年，“[隐私教练：在物联网中支持顾客隐私](http://arxiv.org/abs/1001.4459)”，*arXiv 手稿* 1001.4459。
+- Cadwalladr, C.，2019 年，[脸书在脱欧中的角色——及对民主的威胁](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy)。TED 演讲。
+- Campbell, D.，2023 年，[美国间谍技术公司 Palantir 赢得 3.3 亿英镑 NHS 合同引发患者隐私忧虑](https://www.theguardian.com/society/2023/nov/21/patient-privacy-fears-us-spy-tech-firm-palantir-wins-nhs-contract)，《卫报》。
+- Danezis, G. 与 S. Gürses，2010 年，“[对十年隐私技术的批判性回顾](http://homes.esat.kuleuven.be/~sguerses/papers/DanezisGuersesSurveillancePets2010.pdf)”。
+- [电子隐私信息中心（EPIC）](http://epic.org/)。
+- [欧盟委员会：数据保护](https://ec.europa.eu/info/law/law-topic/data-protection_en)。
+- Gellman, R.，2014 年，“[公平信息实践：一部基础历史](http://bobgellman.com/rg-docs/rg-FIPShistory.pdf)”，版本 2.12，2014 年 8 月 3 日，在线手稿。
+- Germain, R.，2023 年，“[谷歌称将抓取你在线发布的所有内容用于 AI](https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486)”，Gizmodo。
+- Inan, H. A. 等，2021 年，“[语言模型中的训练数据泄漏分析](https://arxiv.org/abs/2101.05405)”，arXiv.org。
+- Nakamoto, S.，[比特币：一种点对点电子现金系统](https://bitcoin.org/bitcoin.pdf)，www.bitcoin.org。
+- [Neuralink（神经连接）](https://neuralink.com/)。
+- [OpenAI：ChatGPT](https://chat.openai.com/)。
+- PCI DSS（即支付卡行业数据安全标准），v3.2（2018），[PCI DSS 相关文件](https://www.pcisecuritystandards.org/document_library)，PCI 安全标准委员会。
+- Richter, H. 等，2008 年，“[对护照的指纹采集](http://cs.ru.nl/E.Poll/papers/nluug.pdf)”，发表于 NLUUG 春季安全会议。
+- Stickgold, Robert 等，2021 年，[广告入梦已成现实：现在怎么办](https://dxe.pubpub.org/pub/dreamadvertising/release/1)——关于梦境孵化技术新近发展及其伦理意涵的评论文章。
+- [美国国务院：隐私政策](https://www.state.gov/privacy-policy/)。
+- [美国财政部：1974 年隐私法](https://home.treasury.gov/footer/privacy-act)。
 
 ## 相关词条
 

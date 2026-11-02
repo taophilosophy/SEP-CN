@@ -1287,7 +1287,7 @@
 * [\*信息技术 information technology](README.md)
   * [信息技术与道德价值 and moral values (John Sullins)](i/it-moral-values.md)
   * [信息技术伦理学的现象学方法 phenomenological approaches to ethics and (Lucas Introna)](e/ethics-it-phenomenology.md)
-  * [隐私与信息技术 and privacy (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/it-privacy.md)
+  * [隐私与信息技术 Privacy and Information Technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/it-privacy.md)
 * [知情同意 informed consent (Nir Eyal)](i/informed-consent.md)
 * [罗曼·英伽登 Ingarden, Roman (Amie Thomasson)](i/ingarden.md)
 * [\*内在性——见实体 inherence — see substance](s/substance.md)
