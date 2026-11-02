@@ -1,0 +1,50 @@
+{
+  "slug": "legrand",
+  "kind": "retranslate",
+  "zh_doc": "l/legrand.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-02T17:51:53Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:12:55Z",
+      "evidence": "方向声明同批次（六道全过、不改源、不造引文）。ADR-0021 账本 tasks/l/legrand.ledger.yaml 24 段（反思两步齐备），守恒校验通过（软旗留痕：4 个标题/OIR机械段 step1==step2，5 处斜体→书名号 * 计数差，长度比校准 0.15-1.2 后无越界）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:12:55Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 23 正文段+OIR：引用组（Wood 1691/Armogathe 2003/Dobre 2021/1694 Book I/1985-91 III）与书名拉丁文逐字符照录；克拉克引文、勒·格兰德序言引文、两处 1694/1985-91 引文对照无漏译；相关词条 Descartes:epistemology/physics 映射 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:12:55Z",
+      "evidence": "check_prose 首跑 15 处实修：长句拆分×7（L8/18/22/24/30/34/36）、的链消解×6（含引文内 2 处轻改）、弱动词'加以组织'改'纳入…框架'、'鹄的是'句重排；复跑 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:12:56Z",
+      "evidence": "四检全过：check_style 0（中文斜体强调 3 处改加粗+空格）、check_academic 0 硬错误、check_math 0 公式、prose 0；人名 9 位新登记 ren-ming-biao.md（勒·格兰德/帕克/萨金特/克拉克/伍德/罗奥/法布里/塞涅卡/伽桑狄）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-02T17:51:53Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 26, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "daac126f65e80fffacbd0c96c507443386a5716675bd29cf104fdeb0aa2cd5b1"
+  }
+}
