@@ -1,5 +1,5 @@
 # 达西亚的波爱修斯 Boethius of Dacia (Sten Ebbesen)
-*首次发表于 2020 年 9 月 7 日。*
+**首次发表于 2020 年 9 月 7 日。**
 
 *Ebbesen, Sten*
 
@@ -27,35 +27,35 @@
 
 ### 语法
 
-1. *†§ *Modi Significandi = Quaestiones super Priscianum Maiorem*（“*Modi Sign.*”）。论普里西安第 I–XVI 卷（形态学）。波爱修斯本人称之为*nostra grammatica*。版本：Jan Pinborg 与 Heinrich Roos 编，收入*CPhD* IV，1969 年。有一删节英译本（McDermott 1980）[^mcdermott-1980]。
+1. \*§ *Modi Significandi = Quaestiones super Priscianum Maiorem*（“*Modi Sign.*”）。论普里西安第 I–XVI 卷（形态学）。波爱修斯本人称之为*nostra grammatica*。版本：Jan Pinborg 与 Heinrich Roos 编，收入*CPhD* IV，1969 年。有一删节英译本（McDermott 1980）[^mcdermott-1980]。
 2. † *Quaestiones super librum Constructionum*。论普里西安第 XVII–XVIII 卷（句法学）。
-3. † *De naturali ortu omnium accentuum ex ipsis proprietatibus rerum **（“论一切重音源自事物自身的属性”）。大概是关于伪普里西安《论重音》（** De accentibus*）课程的副产品。
-4. * *Sophisma Syllogizantem ponendum est terminos*。版本：Irène Rosier-Catach 编，收入*CPhD* IX，2020 年。
+3. † *De naturali ortu omnium accentuum ex ipsis proprietatibus rerum*（“论一切重音源自事物自身的属性”）。大概是关于伪普里西安《论重音》（*De accentibus*）课程的副产品。
+4. \* Sophisma Syllogizantem ponendum est terminos*。版本：Irène Rosier-Catach 编，收入*CPhD* IX，2020 年。
 
 ### 逻辑学
 
-1. † *Super librum Perihermenias **。论亚里士多德的《解释篇》（** De interpretatione*）。大概是问答体。
+1. † *Super librum Perihermenias*。论亚里士多德的《解释篇》（*De interpretatione*）。大概是问答体。
 2. † *Ars demonstrativa*。或是关于亚里士多德《后分析篇》的问答，或更可能是——一部呈现其学说要旨的著作。
-3. *†§ *Quaestiones super librum Topicorum*（“*Quaest. Top.*”）。版本：Niels Jørgen Green-Pedersen 与 Jan Pinborg 编，收入*CPhD* VI.1，1976 年。
+3. \*§ *Quaestiones super librum Topicorum*（“*Quaest. Top.*”）。版本：Niels Jørgen Green-Pedersen 与 Jan Pinborg 编，收入*CPhD* VI.1，1976 年。
 4. † *Quaestiones super librum Elenchorum*。
 5. † *Ars de modis arguendi sophistice et solutionibus eorum*（“论诡辩论证的类型及其解法”）。可能与第 9 项和／或第 11 项相同。
 6. † *Sophistria*。关于如何解诡辩命题。可能与第 9 项和／或第 11 项相同。
 7. † *Ars sophistica*。可能与第 9 项和／或第 10 项相同。
-8. * *Sophisma Omnis homo de necessitate est animal*。有两个版本：*F*，最初由 Grabmann 编于 1940 年，有英译节本（Stump 1998）[^stump-1998]；*B*，最初由 Roos 编于 1962 年。*B* 比 *F* 长得多，但新增部分并非波爱修斯所作，文本中波爱修斯的部分经过一位中世纪编者修订。版本：Sten Ebbesen 编，收入*CPhD* IX，2020 年。
+8. \* Sophisma Omnis homo de necessitate est animal*。有两个版本：*F*，最初由 Grabmann 编于 1940 年，有英译节本（Stump 1998）[^stump-1998]；*B*，最初由 Roos 编于 1962 年。*B* 比 *F* 长得多，但新增部分并非波爱修斯所作，文本中波爱修斯的部分经过一位中世纪编者修订。版本：Sten Ebbesen 编，收入*CPhD* IX，2020 年。
 
 ### 自然哲学
 
-1. *§ *Quaestiones super libros Physicorum*（“*Quaest. Ph.*”）。仅部分存留。版本：Géza Sajó 编，收入*CPhD* V.2，1974 年。文本讹误颇多，且有若干编辑错误。参见*CPhD* IX 的订正。
+1. \* *Quaestiones super libros Physicorum*（“*Quaest. Ph.*”）。仅部分存留。版本：Géza Sajó 编，收入*CPhD* V.2，1974 年。文本讹误颇多，且有若干编辑错误。参见*CPhD* IX 的订正。
 2. § *Quaestiones super librum de Caelo et mundo*。
-3. *§ *Quaestiones super De generatione et corruptione*。仅部分存留。版本：Géza Sajó 编，收入*CPhD* V.1，1972 年。文本讹误颇多，且有若干编辑错误。参见*CPhD* IX 的订正。
-4. * *Quaestiones super quartum Meteorologicorum*。版本：Gianfranco Fioravanti 编，收入*CPhD* VIII，1979 年。
-5. † *Super librum De minerabilibus **。对《论矿物》（** De mineralibus **）的注疏，大概是问答体；《论矿物》是阿维森纳《治疗书》（** Shifā*）的节选，附于亚里士多德《气象学》的阿拉伯—拉丁译本之后。
-6. *§ *Quaestiones super librum De anima*。仅存关于第 I–II 卷问答的节本。在唯一的手稿中它是匿名之作，一些学者对归于波爱修斯表示怀疑；尤其参见 Calma 2011。版本：Robert Wielockx 编，收入*CPhD* XIV，2009 年。
+3. \* *Quaestiones super De generatione et corruptione*。仅部分存留。版本：Géza Sajó 编，收入*CPhD* V.1，1972 年。文本讹误颇多，且有若干编辑错误。参见*CPhD* IX 的订正。
+4. \* Quaestiones super quartum Meteorologicorum*。版本：Gianfranco Fioravanti 编，收入*CPhD* VIII，1979 年。
+5. † *Super librum De minerabilibus*。对《论矿物》（*De mineralibus*）的注疏，大概是问答体；《论矿物》是阿维森纳《治疗书》（*Shifā*）的节选，附于亚里士多德《气象学》的阿拉伯—拉丁译本之后。
+6. \* *Quaestiones super librum De anima*。仅存关于第 I–II 卷问答的节本。在唯一的手稿中它是匿名之作，一些学者对归于波爱修斯表示怀疑；尤其参见 Calma 2011。版本：Robert Wielockx 编，收入*CPhD* XIV，2009 年。
 7. § *Quaestiones super libros De sensu et sensato, De somno et vigilia, De longitudine et brevitate vitae, De morte et vita*。
-8. * *De somniis*（《论梦》）。无疑基于已散佚的《论睡眠与觉醒》问答（第 19 项）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、意大利语译本（Sannelli 1997）[^sannelli-1997]。
+8. \* De somniis*（《论梦》）。无疑基于已散佚的《论睡眠与觉醒》问答（第 19 项）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、意大利语译本（Sannelli 1997）[^sannelli-1997]。
 9. † *Quaestiones super librum De animalibus*。
 10. § *Quaestiones super librum De plantis et vegetabilibus*。
-11. *§ *De aeternitate mundi*（《论世界的永恒》）（“*De aetern.*”）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、德语译本（Nicki 2000）[^nicki-2000]、意大利语译本（Bianchi 2003）[^bianchi-2003]、葡萄牙语译本（Santiago de Carvalho 1996）[^santiago-1996]。
+11. \* *De aeternitate mundi*（《论世界的永恒》）（“*De aetern.*”）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、德语译本（Nicki 2000）[^nicki-2000]、意大利语译本（Bianchi 2003）[^bianchi-2003]、葡萄牙语译本（Santiago de Carvalho 1996）[^santiago-1996]。
 
 ### 形而上学
 
@@ -64,7 +64,7 @@
 ### 伦理学
 
 1. † *Quaestiones morales*。关于或关联于《尼各马可伦理学》的问答。
-2. * *De summo bono*（《论至善》）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、德语译本（Wöhler 1990）[^wöhler-1990]、法语译本（Imbach 1986; Imbach & Fouche 2006）[^imbach-1986][^imbach-2006]、意大利语译本（Fioravanti 1984, Bottin 1989）[^bottin-1989][^fioravanti-1984]。
+2. \* De summo bono*（《论至善》）。版本：Niels Jørgen Green-Pedersen 编，收入*CPhD* VI.2，1976 年。有丹麦语译本（Green-Pedersen 2001）[^green-pedersen-2001]、英语译本（Wippel 1987）[^wippel-1987]、德语译本（Wöhler 1990）[^wöhler-1990]、法语译本（Imbach 1986; Imbach & Fouche 2006）[^imbach-1986][^imbach-2006]、意大利语译本（Fioravanti 1984, Bottin 1989）[^bottin-1989][^fioravanti-1984]。
 
 ### 修辞学
 
@@ -78,7 +78,7 @@
 
 波爱修斯可被归类为温和的实在论者。
 
-> 每一个存在者（*ens*）要么是一物（*res*），要么是一物的样式（*modus rei **）。……在物之中，有些是自然的，有些是数学的，第三类是神圣的。……每一物的样式都可还原为该物本身作为其原因，并已由它派生而来，因为它不可能是理智的纯粹虚构。（** Quaest. Top.*, 3–4）
+> 每一个存在者（*ens*）要么是一物（*res*），要么是一物的样式（*modus rei*）。……在物之中，有些是自然的，有些是数学的，第三类是神圣的。……每一物的样式都可还原为该物本身作为其原因，并已由它派生而来，因为它不可能是理智的纯粹虚构。（*Quaest. Top.*, 3–4）
 
 波爱修斯在如此高的抽象层次上运用“物”（*res*），以至于它们如同阿维森纳式的本质（quiddities）或共同本性那样，在特殊性与普遍性上未受规定，但具有这样或那样的存在样式或方式（*modi essendi*）；因此，具体词 *album*（“（某个）白色的东西”）与抽象词 *albedo*（“白”）所指相同，只是方式不同，反映了该“物”的两种不同存在样式（Ebbesen 1988）[^ebbesen-1988]。另一方面，他明确认为世界的基本构成物是殊相；虽然他相信本质，却拒绝将其实体化：他拒斥这样的观念——存在（*esse*）对本质而言是偶然的，且一个未被实例化的共相可以凭借某种“本质存在”（*esse essentiale*）充当命题的判定者，一如他的一些同时代人所主张。
 
@@ -114,7 +114,7 @@
 
 他反复这样说。这意味着，例如，一个语法学家 **作为** 语法学家（*qua*）必须撇开他可能拥有的关于特定词义的任何知识。知道“驴”意指驴、以及驴是什么，并非语法学家的分内之事。“驴”是动物学中的初始词项；如果这位语法学家恰好也是动物学家，他就应当小心，不要把所精通的这两门科学混为一谈。波爱修斯甚至责备语法学的权威普里西安，因其把非语法的考量引入著作（*Modi sign.*, 47）。
 
-亚里士多德在《后分析篇》中对科学程序的描述以论辩语言写成；在波爱修斯自己的时代，辩论是大学教学的重要组成部分，事实上也是哲学研究的重要组成部分，其中一些是真正的多方辩论，另一些则是问答体（*quaestiones*）的虚构辩论，由教师同时提出 *pro*（赞成）与 *con*（反对）两方面论证以及解答。在波爱修斯对各科学自主性的标志性表述中，“给予或否定”（*concedere vel negare **）这一表达属于这样一种辩论语境：提问者提出“** S* 是 *P* 吗？”形式的命题，回答者通常答“我给予”或“我否定”。波爱修斯似乎把科学活动设想为与参加辩论根本相似，而把保持在某一特定科学范围内设想为类似于遵守某一特定类型辩论的规则。几乎并非偶然，他描述了一种称为 *ars obligatoria* 的辩论操练的不寻常变体。在他的版本中，对手向回答者提出若干命题，回答者必须全部给予，不论其真值，只拒斥那些与他已给予之物不相容者。一段时间后，辩论进入第二阶段，此时对手提出更多命题，但这一次回答者只被允许且必须给予那些从第一阶段他已给予之物中推出者。对手的任务是试图迫使他自相矛盾（*Quaest. Top.*, 329–30; 参见 Yrjönsuuri 1994, 31–35）[^yrjönsuuri-1994]。这一操练模仿对一门科学的一组试探性公理的汇集，继而检验这组公理的一致性。
+亚里士多德在《后分析篇》中对科学程序的描述以论辩语言写成；在波爱修斯自己的时代，辩论是大学教学的重要组成部分，事实上也是哲学研究的重要组成部分，其中一些是真正的多方辩论，另一些则是问答体（*quaestiones*）的虚构辩论，由教师同时提出 *pro*（赞成）与 *con*（反对）两方面论证以及解答。在波爱修斯对各科学自主性的标志性表述中，“给予或否定”（*concedere vel negare*）这一表达属于这样一种辩论语境：提问者提出“*S* 是 *P* 吗？”形式的命题，回答者通常答“我给予”或“我否定”。波爱修斯似乎把科学活动设想为与参加辩论根本相似，而把保持在某一特定科学范围内设想为类似于遵守某一特定类型辩论的规则。几乎并非偶然，他描述了一种称为 *ars obligatoria* 的辩论操练的不寻常变体。在他的版本中，对手向回答者提出若干命题，回答者必须全部给予，不论其真值，只拒斥那些与他已给予之物不相容者。一段时间后，辩论进入第二阶段，此时对手提出更多命题，但这一次回答者只被允许且必须给予那些从第一阶段他已给予之物中推出者。对手的任务是试图迫使他自相矛盾（*Quaest. Top.*, 329–30; 参见 Yrjönsuuri 1994, 31–35）[^yrjönsuuri-1994]。这一操练模仿对一门科学的一组试探性公理的汇集，继而检验这组公理的一致性。
 
 在大学辩论中，何者算作“真实”的回答取决于该特定类型辩论的规则。在辩证式辩论中，回答者只应给予一个或然（probable）的命题；在这种语境下，给予一个非或然命题等于说假话（*mentiri*），即使实际上情形正如命题所言（*Quaest. Top.*, 139）。在某一特定科学中的类似情形，是给予一个与该科学原理相悖的命题。是（亚里士多德式）物理学的一条基本原理：每一运动都以一个先前运动为前提，因此，“曾经有一个最初的运动”这一主张在物理学中必须算作虚假。
 
