@@ -1,0 +1,50 @@
+{
+  "slug": "information-semantic",
+  "kind": "retranslate",
+  "zh_doc": "i/information-semantic.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:48:16Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "information-semantic-translator",
+      "at": "2026-11-01T14:21:49Z",
+      "evidence": "初译：以 en/information-semantic/index.html 为唯一底稿（零信任），按 fan-yi-mu-ban §2+§4 从头翻译。导语 5 段+§1-4 全译（含 1.1/1.2/3.1/3.2 小节）；9 个 display 公式逐字符保留（check_math 226 公式 missing=0）；4 个文内脚注标记（evans-1982/fodor-1990/barwise-1993×2）+65 条文献脚注定义照录；引用组全宽括号保留；图 1 本地化 ../yuanwen/assets/information-semantic/informativeness.svg；尾部节序 参考文献→学术工具→其他网络资源→相关词条"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "information-semantic-translator",
+      "at": "2026-11-01T14:27:02Z",
+      "evidence": "一校（准确性，MTPE：先查幻觉/漏译/增译→再查术语漂移→后语言）：对照 yuanwen/i/information-semantic.md 逐节核销——导语 5 段+§1(1.1,1.2)+§2+§3(3.1,3.2)+§4 全译无漏节（正文 86 段↔84 段，差为图注行合并）；9 个 display 公式逐字符一致（check_math 226 公式 missing=0）；4 个文内标记（evans-1982/fodor-1990/barwise-1993×2）+65 条文献脚注定义照录；50 个引用组全宽括号保留；人名/年代/编号抽查全命中（Bar-Hillel/Carnap 1952:229/223/244-5、Hintikka 1970/1973、Wittgenstein Tractatus 4.46/6.1、Evans 1982:128-129、Fodor 1990:100、Sedlár 2019:358-539、Barwise 1993:4/5/26）；术语主形锁定（语义信息/强语义信息/真实性论题/信息通道/呈现方式/心理档案/信息多元主义 用词一致无漂移）；源笔误 3 处按意图译出（L26 'if'→为真、L38 'has give rise'→引起了、L53 重言式 'false'→为真，公式 \\tCont(\\top)=\\varnothing 佐证）；\\u0024s,\\u0024 逗号随中文语序出定界符（符号 s 保留，非失真）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:56:06Z",
+      "evidence": "主会话收口：二校语言欧化清除"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:56:06Z",
+      "evidence": "主会话收口：三校体例+学术+数学全 0"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:41Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 14, 2022",
+    "archive_edition": "Spring 2026",
+    "sha256": "edcc55ffba1607c8fac0e729f8bba14d2993aebc25fa41a50215e90ed07c59df"
+  }
+}
