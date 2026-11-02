@@ -2,7 +2,7 @@
   "slug": "intellectual-property",
   "kind": "retranslate",
   "zh_doc": "i/intellectual-property.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:57:41Z",
       "evidence": "主会话收口：三校全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:11:15Z",
+      "evidence": "独立复审：对照 yuanwen 四节+全部小节（1/2.1-2.7/3.1-3.4/3.1.1-2/3.2.2-3/3.3.1-2/4.1-4.7）+Statute of Anne 引言块/Fisher/Barro/Moser/Spooner/Moore/Palmer 引块与四位论战例（Buchwald 案、Crusoe 画、Ginger 配方、Beren-Lúthien 囚徒困境）逐段核销，无漏译；源文讹误清点：§4.4 标题重复+跳 4.5 系 SEP 出版原文如此照录、Axelrod '198'→1981 静修正确（脚注键 axelrod-1981 迫真）、Vitruvius 年代照录"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:11:16Z",
+      "evidence": "逐句回核修 5 处：moral 'strings' 误译'纽带'→'附带条件'（strings attached 惯义）/spoilage '腐败'→'耗损'（防廉政歧义）/取得前'立刻'→'前一刻'/版权思想/表达规则→版权的思想/表达规则/SUMMARY+H1 全题化（intellectual 片段→intellectual property，citation_title 核对）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:11:16Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary 一致（本次同修）；学术门禁见自动拦截；法哲学术语一致性核验（知识共享/著佐权/精神权利/思想表达二分/合理使用/首次销售/非竞争性/足量且同样好条款）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:11:16Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],

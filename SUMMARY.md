@@ -2143,7 +2143,7 @@
   * [\*本质与偶然——见本质属性与偶然属性 essential vs. accidental — see essential vs. accidental properties](e/essential-accidental.md)
   * [自然属性 natural (Cian Dorr)](n/natural-properties.md)
 * [\*产权 property](README.md)
-  * [知识产权 intellectual (Adam Moore and Ken Himma)](i/intellectual-property.md)
+  * [知识产权 intellectual property (Adam Moore and Ken Himma)](i/intellectual-property.md)
 * [财产和所有权 property and ownership (Jeremy Waldron and James Penner)](p/property.md)
 * [预言 prophecy (Scott A. Davison)](p/prophecy.md)
 * [命题态度报告 propositional attitude reports (Michael Nelson)](p/prop-attitude-reports.md)
