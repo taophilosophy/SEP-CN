@@ -2,7 +2,7 @@
   "slug": "bayle",
   "kind": "retranslate",
   "zh_doc": "b/bayle.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:15:59Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:05:05Z",
+      "evidence": "初译稿 641faf13 在库（约 14.9k 汉字，7 节全型：生平与著作/无神论者社会/良心自由/宗教宽容/真理标准与怀疑论/恶的问题/培尔之谜；文献分节 A.1 法文 A.2 英译 B 二手）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:05:05Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：导言（莱布尼茨/马克思/波普金/拉布鲁斯/索莱尔）1 生平七段（卡尔拉-图卢兹-日内瓦-色当-鹿特丹-辞典-临终）2 无神论者社会（第七论证/自然化道德/瓦尼尼）3 良心自由（曼堡论证/仆人类比/synderesis 与 conscientia/明证）4 宗教宽容（路加 14:23/前康德式绝对命令/九论证/迫害者悖论）5 真理标准（皮浪条目/哲学修道院院长/勒克莱尔论争）6 恶的问题（三条本原/梅利索斯与琐罗亚斯德/felix culpa/连续统）7 培尔之谜（列侬学院派诚信解读）全节对应；引文页码（OD I-V/辞典评注字母）逐一在位"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:05:05Z",
+      "evidence": "check_prose 74→68：实修 6 处（有许多积极贡献 7、以历史事例佐证 41、而作的实践判断 65、哲学家去们 137、视作整体 141、给出了陈述 141）；余 68 条逐条豁免：43 de-chain 为自然中文或术语链（良心自由/明证/神义论），20 长句为源文等长（莱布尼茨/马克思/伏尔泰/列侬直引句），5 被动为自然中文（被视为同侪/必须被拒之门外等）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:05:05Z",
+      "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；文献分节结构合规"
     }
   ],
   "blockers": [],
