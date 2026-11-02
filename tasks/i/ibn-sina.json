@@ -1,0 +1,50 @@
+{
+  "slug": "ibn-sina",
+  "kind": "retranslate",
+  "zh_doc": "i/ibn-sina.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:56:32Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ibn-sina-translator",
+      "at": "2026-11-01T13:15:04Z",
+      "evidence": "初译 draft 完成：以 en/ibn-sina/index.html 为唯一底稿，六节全文+脚注+文献表照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:55:10Z",
+      "evidence": "主会话收口：一校准确性核销（对照 yuanwen 逐节无漏译错译）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:55:10Z",
+      "evidence": "主会话收口：二校语言欧化清除"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:55:11Z",
+      "evidence": "主会话收口：三校体例+学术+数学全 0"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:20Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 31, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "d5ba9bb6d2d2f0565d662570acc322d974ee406695b572dfa87a9327a4d1a475"
+  }
+}
