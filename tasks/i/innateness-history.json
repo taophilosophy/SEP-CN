@@ -2,7 +2,7 @@
   "slug": "innateness-history",
   "kind": "retranslate",
   "zh_doc": "i/innateness-history.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main-session",
       "at": "2026-11-01T19:25:33Z",
       "evidence": "第二批子代理产出译文（239行），主会话收口：体例/学术门禁核验通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:56:14Z",
+      "evidence": "独立复审：对照 yuanwen 七节+17 条脚注逐段核销，无漏译（Kant 三引文块、[ref] 占位照录、相关词条与 SUMMARY 标题逐一对上）；术语策略核验（Form=理念/form=形式 分立、经验论=Empiricism 与经验主义=experientialism 分立、ur-Nativist 等 gloss 保留）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:56:14Z",
+      "evidence": "逐句回核修 8 处：'著名地挑战'副词欧化/'锐化'→'强化'（sharpening）/奴隶'情节'→'段落'（防'情结'歧义）/'一袋杂烩'→'大杂烩'/'蓝色缺失'→'缺失的蓝色色调'（Hume missing shade 惯译）/'贵族的身位'→'地位'；跨词条术语归一：先验观念论→先验唯心论×2（对齐 k/kant-transcendental-idealism SUMMARY 标题，单一事实源修弱势方）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:56:15Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；近代哲学术语一致性核验（先天论/经验论/唯理论/先验唯心论/刺激贫乏/前定和谐）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:56:15Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
