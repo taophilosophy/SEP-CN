@@ -130,8 +130,23 @@ def parse_glossary(path):
             continue
         trans = cells[1]
         if len(cells) >= 3:
-            extra = [m.group(1) for m in
-                     re.finditer(r'亦作[“"]([^”"]{1,40})[”"]', cells[2])]
+            # 第 3 列注记变体提取：前缀词含亦作/译作/亦译/亦音译/音译/又译/又作，
+            # 连排引号（"X""Y"）逐个吸收（与登记册 translations 口径对齐 2026-11-03）
+            extra = []
+            for m in re.finditer(
+                    r'(?:亦作|译作|亦译|亦音译|音译|又译|又作)[“"]([^”"]{1,40})[”"]', cells[2]):
+                for v in re.split(r'[/／；、;，]', m.group(1)):
+                    if v.strip():
+                        extra.append(v.strip())
+                rest = cells[2][m.end():]
+                while True:
+                    m2 = re.match(r'[“"]([^”"]{1,40})[”"]', rest.strip())
+                    if not m2:
+                        break
+                    for v in re.split(r'[/／；、;，]', m2.group(1)):
+                        if v.strip():
+                            extra.append(v.strip())
+                    rest = rest.strip()[m2.end():]
             if extra:
                 trans += '；' + '；'.join(extra)
         rows.append((cells[0], trans, lineno))
@@ -177,14 +192,15 @@ def check_registry_self(rows):
 
 
 def check_conflicts(reg, glos, label):
-    """登记册↔词汇表：互斥 = 冲突（硬错误），真子集 = 滞后（告警）。"""
+    """登记册↔词汇表：互斥 = 冲突（硬错误）；词汇表缺登记侧变体 = 滞后（告警）。
+    词汇表多出的变体不报（发布视图允许含更宽通行变体，2026-11-03 口径收窄）。"""
     conflicts, lagging = [], []
     for key in sorted(set(reg) & set(glos)):
         rt, gt = reg[key]['trans'], glos[key]['trans']
         if rt and gt and not (rt & gt):
             conflicts.append((label, reg[key]['display'], sorted(rt), sorted(gt),
                               reg[key]['lines'], glos[key]['lines']))
-        elif rt and gt and (rt < gt or gt < rt):
+        elif rt and gt and (gt < rt):
             lagging.append((label, reg[key]['display'], sorted(rt), sorted(gt)))
     return conflicts, lagging
 

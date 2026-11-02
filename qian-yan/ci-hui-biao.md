@@ -136,7 +136,7 @@
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
 |James Ward|詹姆斯·沃德||
-|Jean Hampton|让·汉普顿||
+|Jean Hampton|琼·汉普顿||
 |John Dupré|约翰·杜普雷||
 |John Earman|约翰·厄尔曼||
 |John Harsanyi|约翰·海萨尼||
@@ -609,7 +609,7 @@
 |empirical|经验的|作形容词；empiricism 才是“经验主义”（经验论）；亦译“实证（的）”，见上行所引专文|
 |empirical approaches|经验主义研究||
 |empirical equivalence|经验等价性|亦作“经验等价”；首现 abduction；审定名词（自然辩证法名词）|
-|empirically equivalent|经验等价的|科学实在论争论术语；审定名词作“经验等价的理论”|
+|empirically equivalent|经验等价的|科学实在论争论术语；亦作“经验等价”；审定名词作“经验等价的理论”|
 |empiricism|经验主义|亦译“经验论”；形容词 empirical 见专行|
 |entanglement|纠缠||
 |Epicurus|伊壁鸠鲁||
@@ -632,7 +632,7 @@
 |Faith in a Seed|种子的信仰||
 |Fakhr al-Din|法赫尔丁·拉齐||
 |Fall|堕落||
-|Falsafa|哲学|阿拉伯语借词（源自希腊 philosophia），指伊斯兰“哲学”传统，与 Kalām（伊斯兰教义学）相对；首次出现可括注原文|
+|Falsafa|哲学|阿拉伯语借词（源自希腊 philosophia），指伊斯兰“哲学”传统，亦音译“法尔萨法”，与 Kalām（伊斯兰教义学）相对；首次出现可括注原文|
 |fatalism|宿命论|与 determinism 决定论相区别，勿混|
 |feminism|女性主义||
 |fictionalism|虚构主义|数学哲学与话语理论语境|
@@ -901,7 +901,7 @@
 |Pragmatist|实用主义者|名词指人；形容词“实用主义的”|
 |predicate letter|谓词字母||
 |presentism|现在主义|时间哲学：只有现在存在；与永恒主义（eternalism）相对|
-|prima facie|初步的|拉丁语“乍看之下”；伦理学 prima facie duty 初定义务（罗斯）|
+|prima facie|初步的|拉丁语“乍看之下”；亦作“初显的”；伦理学 prima facie duty 初定义务（罗斯）|
 |probability theory|概率论|审定名词（数学）|
 |Principia Mathematica|《数学原理》|罗素、怀特海著，通行译名《数学原理》|
 |Prior Analytics|《前分析篇》|亚里士多德著作，通行译名|
@@ -1035,7 +1035,7 @@
 |subjectivism|主观主义||
 |Substance|实体||
 |sufficient reason|充足理由|充足理由原则（principle of sufficient reason），莱布尼茨提出|
-|suniêmi|汇通|指集合感官信息的能力；阿尔克迈翁条裁定|
+|suniêmi|汇通、理解|指集合感官信息的能力；阿尔克迈翁条裁定|
 |Superdeterminism|超决定论|贝尔定理语境|
 |Supertasks|超级任务||
 |Supervenience|随附性||
