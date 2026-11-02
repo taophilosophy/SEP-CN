@@ -2,7 +2,7 @@
   "slug": "intensional-trans-verbs",
   "kind": "retranslate",
   "zh_doc": "i/intensional-trans-verbs.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:57:39Z",
       "evidence": "主会话收口：三校全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:57:39Z",
+      "evidence": "独立复审：对照 yuanwen 七节（ITV 行为/机制/命题主义/蒙太古语义学/修正精炼/普赖尔之谜/逻辑）+三大案例（圭尔奇诺/乔治与化学武器/宙斯）+12 条原文脚注逐段核销，无漏译；类型论记号（*ib*、(*ib*)(*ib*)、sb、boldface 内涵语言、(19) 等公式）逐字符保真；发现极性反转误译一处（Thomason 句'no believing Cicero without Tully'被反译）与利特尔港半音译、truth-maker 译名、若干粗体斜体装配噪声"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:57:39Z",
+      "evidence": "逐句回核修 19 处：Thomason 极性反转实修（不会出现相信西塞罗而不相信图利）/《诺曼底的利特尔港》→《诺曼底的小港湾》/'需要 *'与'that 件 *'与'种类 *'转义残迹清除/性质 singer-dancer 粗斜体装配噪声重排/passim/真值基→真值制造者（跨条目对齐）/常数→不变/内涵外延与一阶性质与 G 与 Rab 与 xy 等处粗体记号噪声重排（粗体在本词条=内涵语言记号，语义攸关）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:57:39Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；语言哲学术语一致性核验（内涵及物动词/替换抗拒/特指非特指/存在中立/窄辖域/惯常涵义指称/语义无邪/命题主义/高阶内涵类型论/对应物/普赖尔之谜/轭式搭配）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:57:40Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
