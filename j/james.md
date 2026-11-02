@@ -1,6 +1,6 @@
-# 威廉·詹姆斯 James, William (Russell Goodman)
+# 威廉·詹姆斯 William James (Russell Goodman)
 
-**首次发表于 2000 年 9 月 7 日；2021 年 11 月 3 日实质修订。**
+*首次发表于 2000 年 9 月 7 日；2021 年 11 月 3 日实质修订。*
 
 ![威廉·詹姆斯照片](../yuanwen/assets/james/james.gif)（约 1895 年，载《威廉·詹姆斯书信集》（*The Letters of William James*），亨利·詹姆斯（Henry James）编，波士顿，1920 年）
 

@@ -2,7 +2,7 @@
   "slug": "james",
   "kind": "retranslate",
   "zh_doc": "j/james.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "j-子代理",
       "at": "2026-11-01T22:03:01Z",
       "evidence": "s3 体例：check_style j/james.md 0（体例修复：中文强调斜体转加粗 12、** 两侧空格 14、脚注定义移入 References 节，弯引号误报 13 归零）；check_academic --strict 0 硬错误（OK：学术规范无硬错误）；check_math 1 文档 0 公式缺失/失衡。学术+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:49:53Z",
+      "evidence": "独立复审：对照 yuanwen 六节（年表 34 条/早期著作两篇/心理学原理/大众论文集/宗教经验之种种/晚期著作三部）+四条内省引文+WB/PP/PU/MT/ERE 引用缩写体系逐段核销，无漏译；图片行按模板 #9 本地化（yuanwen/assets 路径+图注译出）；源文讹误照录：重复 H1 已删（源文页面双 H1）、National 讣告句缺右括号照录"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:49:54Z",
+      "evidence": "逐句回核修 3 处：pubinfo 体例粗体→斜体/H1 与 SUMMARY 英文全题化（TOC 倒装式→citation_title 'William James'，沿用先例）；其余语言过关（前会话 s2 已扎实：check_prose 告警已清）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-GHIJK-main-1103",
+      "at": "2026-11-02T21:49:54Z",
+      "evidence": ""
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:49:54Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],

@@ -1328,7 +1328,7 @@
 
 * [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni)](f/friedrich-jacobi.md)
 * [耆那教哲学 Jaina Philosophy (Marie-Hélène Gorisse)](j/jaina-philosophy.md)
-* [威廉·詹姆斯 James, William (Russell Goodman)](j/james.md)
+* [威廉·詹姆斯 William James (Russell Goodman)](j/james.md)
 * [维泰博的詹姆斯 James of Viterbo (Antoine Côté)](j/james-viterbo.md)
 * [日本哲学 Japanese Philosophy (Thomas Kasulis and Raquel Bouso)](j/japanese-philosophy.md)
   * [日本美学 aesthetics (Graham Parkes and Adam Loughnane)](j/japanese-aesthetics.md)
