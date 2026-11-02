@@ -2,7 +2,7 @@
   "slug": "humanism-civic",
   "kind": "retranslate",
   "zh_doc": "h/humanism-civic.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "sub-humanism-civic",
       "at": "2026-11-01T22:12:59Z",
       "evidence": "check_style 0 (修 italic-cjk 2: *本身*/*十五世纪* 还原为拉丁斜体 *per se*/*quattrocento* 照源; 修 curly-quotes 1: de'Medici 词内撇号用 ASCII 照 AGENTS.md 豁免); check_academic --strict 0 硬错; check_math 0 (humanism-civic 无数学问题); 脚注 40 定义照录 byte-identical 源, 移入参考文献节内 与 african-sage 0-issue 体例一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:19:29Z",
+      "evidence": "r1 独立对照复审（yuanwen/h/humanism-civic.md 194 行 ↔ h/humanism-civic.md 195 行逐段核销）：导言 2 段+四节（巴伦论题/与共和主义/诸变体 3.1-3.4 四小节/前史）全数在位；引文括注 30+ 处（Pettit 1999、Fubini 1992、Witt 1996/Hankins 1995、Garin 1947[1965]、Kallendorf 1996、Yoran 2007、Nederman 2016/Hankins 2016/Monfasani 2016、Jurdjevic 2001: 727–728、Bock-Skinner-Viroli 1990: 121–141、Skinner 1998、2019: xii/37/449–475/xxi、Hankins 1995: 327/Witt 2003: 392–442、Skinner 1978: 118–128/Skinner 2002: 118–159、1927: 86、Bock 1990、Lee 2018、Najemy 1996、Nederman 2023、Hörnqvist 2004、Seigel 1966、Blythe 2009/Yun 2008/Nederman-Sullivan 2012、Nederman 2009）逐一对位；专名核销（巴伦/加林/波科克/汉金斯/布鲁尼/萨卢塔蒂/布兰多利尼/皮科洛米尼/马基雅维利/萨沃纳罗拉/拉蒂尼/卢卡的托勒密/马加什/洛伦佐·德·美第奇/庇护二世）；拉丁术语保留形与源文一致（vita activa/Bürgerhumanismus/studia humanitas/occasione/libertas/aequalitas/ius/grandi/popolo/palazzi/quattrocento/per se）；脚注定义 38 条与源文逐字相符（含源文原样 Caluccio/Tranformations/Tresor 括号错位保留）；零信任抽查 4 处（巴伦 1955 书题、De tyranno 罗马法引文 1927: 86、Laudatio 三元原则、马基雅维利 grandi/popolo 段）与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:19:29Z",
+      "evidence": "r2 语言与忠实定点修 9 处：①L78 关键误译修正——source 'its conquest of huge amounts of territory, as a result of the X setting aside their struggles' 因果方向译反（原文放下斗争是征服之因），「其结果是显贵与平民放下了…」改为「这源于显贵与平民放下了…」；②L82「对共和政府体制一般地、尤其是对罗马共和国特殊地的辩护」状语杂糅→通顺重构；③L34 教皇国→教廷（papacy 指教廷机构非领土国家）；④L52 残字「工具体」→「工具」；⑤L52「单一一人的卓越之治」叠床架屋→「单一卓越个人之治」；⑥L60「某位特定君主在位者」赘余→「特定在位君主」；⑦L28「就主题性地取用」→「按主题地取用」；⑧L7「Baron 1968 与 1988 年」悬空年字→「1968 与 1988 中」；⑨L15/16 之间补空行（## 2 标题前缺空行）；check_style --strict 0 issues、check_math/check_summary/check_academic 全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:19:44Z",
+      "evidence": "r3 门禁全绿：check_style --strict 0 issues（9 处修复后复跑）；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦通过）；H1=SUMMARY 473 行（公民人文主义 civic humanism (Cary Nederman)）、pubinfo 斜体 2019-03-19/2024-01-02、尾部节序 参考文献→学术工具→其他网络资源（含 Moulakis 前版词条说明）→相关词条→致谢 完整"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:19:44Z",
+      "evidence": "done 收口：r1 四节四小节全核销（引文 30+ 处、脚注 38 条逐字相符）+r2 9 处定点修（含 L78 因果方向误译 1 处硬伤）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103"
     }
   ],
   "blockers": [],
