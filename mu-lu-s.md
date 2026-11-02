@@ -1163,7 +1163,7 @@ outline: [1, 6]
 * [相容论 compatibilism (Michael McKenna and D. Justin Coates)](c/compatibilism.md)
 * [宿命论 fatalism (Hugh Rice)](f/fatalism.md)
 * [自由意志 free will (Timothy O’Connor and Christopher Franklin)](f/freewill.md)
-* [自由意志的不相容主义（非决定性）理论 (nondeterministic) theories of free will (Randolph Clarke, Justin Capes, and Philip Swenson)](i/incompatibilism-theories.md)
+* [自由意志的不相容主义（非决定性）理论 incompatibilist (nondeterministic) theories of free will (Randolph Clarke, Justin Capes, and Philip Swenson)](i/incompatibilism-theories.md)
 * [自由意志的不相容论论证 arguments for (Kadri Vihvelin)](i/incompatibilism-arguments.md)
 * [古代自由与决定论理论 ancient theories of (Tim O’Keefe)](f/freedom-ancient.md)
 
@@ -1507,7 +1507,7 @@ outline: [1, 6]
   * [简单性 simplicity (Alan Baker)](s/simplicity.md)
   * [神圣单纯性 divine (William F. Vallicella)](d/divine-simplicity.md)
   * [科学中的计算机模拟 simulations in science (Eric Winsberg and Ramon Alvarado)](s/simulations-science.md)
-* [科学理论的不可通约性 of scientific theories (Eric Oberheim and Paul Hoyningen-Huene)](i/incommensurability.md)
+* [科学理论的不可通约性 the incommensurability of scientific theories (Eric Oberheim and Paul Hoyningen-Huene)](i/incommensurability.md)
 * [自然法则 laws of nature (John W. Carroll)](l/laws-of-nature.md)
 * [其他条件不变律 ceteris paribus (Alexander Reutlinger, Gerhard Schurz, Andreas Hüttemann, and Siegfried Jaag)](c/ceteris-paribus.md)
 * [科学解释 scientific explanation (James Woodward and Lauren Ross)](s/scientific-explanation.md)
@@ -1570,7 +1570,7 @@ outline: [1, 6]
 * [语义概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)](i/information-semantic.md)
 * [信息技术与道德价值 and moral values (John Sullins)](i/it-moral-values.md)
 * [信息技术伦理学的现象学方法 phenomenological approaches to ethics and (Lucas Introna)](e/ethics-it-phenomenology.md)
-* [隐私与信息技术 and privacy (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/it-privacy.md)
+* [隐私与信息技术 privacy and information technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)](i/it-privacy.md)
 * [逻辑与信息 and information (Maricarmen Martinez and Sebastian Sequoiah-Grayson)](l/logic-information.md)
 
 ### 信息和数字文化哲学（信息哲学、伦理学相关）
@@ -2048,7 +2048,7 @@ outline: [1, 6]
 * [文化遗产伦理 cultural heritage, ethics of (Erich Hatala Matthes)](e/ethics-cultural-heritage.md)
 * [造成伤害与允许伤害 doing vs. allowing harm (Fiona Woollard, Frances Howard-Snyder, and Charlotte Unruh)](d/doing-allowing.md)
   * [商业伦理学 business (Jeffrey Moriarty)](e/ethics-business.md)
-  * [知识产权 intellectual (Adam Moore and Ken Himma)](i/intellectual-property.md)
+  * [知识产权 intellectual property (Adam Moore and Ken Himma)](i/intellectual-property.md)
 
 ## 女性哲学与性哲学相关
 ### 女性主义哲学
