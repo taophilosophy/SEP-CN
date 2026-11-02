@@ -2,7 +2,7 @@
   "slug": "justice-virtue",
   "kind": "retranslate",
   "zh_doc": "j/justice-virtue.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "j-子代理",
       "at": "2026-11-01T22:57:46Z",
       "evidence": "三校体例：check_style 0 问题，check_academic --strict 0 硬错误，check_math 0 公式；人名按 ADR-0021 有通行汉名者汉名+首现括注（登记册新增 11 行），术语已登记 yi-zhe-shuo-ming 23 行，账本 59 段 step1/step2 与正文一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:38:07Z",
+      "evidence": "独立复审：对照 yuanwen 五节（分类/正义与其他德性/作为社会德性的正义/社会心理学/结论）+柏拉图《理想国》链+亚里士多德分配矫正正义+休谟惯例论+斯密+阿奎那+康德+女性主义关怀伦理链+罗尔斯/皮亚杰/科尔伯格/吉利根逐段核销，无漏译（2025 修订新增 LeBar 2025 规范优先/德性优先分类全在场）；转写照录：源文 Gillian/双句点等讹误照录"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:38:07Z",
+      "evidence": "逐句回核修 3 处：'是一不过度索取'衍字删除/H1 与 SUMMARY 英文全题化（TOC 片段→citation_title 'justice as a virtue'，沿用先例）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:38:08Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary 一致（本次同修）；学术门禁见自动拦截；德性伦理术语一致性核验（规范优先/德性优先/解释优先性主张/主德/特殊与一般正义/分配矫正/可行能力/关怀伦理）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:38:08Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],

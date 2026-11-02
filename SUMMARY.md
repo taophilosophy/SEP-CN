@@ -1367,7 +1367,7 @@
   * [应报正义 retributive (Alec Walen)](j/justice-retributive.md)
   * [\*领土——见领土权利与领土正义 territorial — see territorial rights and justice](t/territorial-rights.md)
   * [转型正义 transitional (Nir Eisikovits)](j/justice-transitional.md)
-  * [作为美德的正义 as a virtue (Mark LeBar)](j/justice-virtue.md)
+  * [作为美德的正义 justice as a virtue (Mark LeBar)](j/justice-virtue.md)
 * [\*知识证成 justification, epistemic](README.md)
   * [\*先验——见先验论证与知识 a priori — see a priori justification and knowledge](a/apriori.md)
   * [知识证成的融贯论 coherentist theories of (Erik Olsson)](j/justep-coherence.md)
