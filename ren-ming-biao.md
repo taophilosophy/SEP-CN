@@ -148,6 +148,11 @@
 | John Maynard Keynes | 约翰·梅纳德·凯恩斯 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Michal Kalecki | 米哈尔·卡莱茨基 | luxemburg | 学界通行汉译（波兰经济学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Hyman Minsky | 海曼·明斯基 | luxemburg | 学界通行汉译（金融不稳定假说）；待 specs/008 审定库复核 | 2026-11-03 |
+| Antoine Arnauld | 安托万·阿尔诺 | leibniz-mind | 学界通行汉译（冉森派神学家，莱布尼茨通信者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Des Bosses | 德博斯 | leibniz-mind | 学界通行汉译（耶稣会士，莱布尼茨通信者巴特洛梅乌斯·德博斯）；待 specs/008 审定库复核 | 2026-11-03 |
+| De Volder | 德伏尔德 | leibniz-mind | 学界通行汉译（布尔哈夫学莱顿学者，莱布尼茨通信者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Géraud de Cordemoy | 科尔迪莫伊 | leibniz-mind | 学界通行汉译（17 世纪原子论者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Sigmund Freud | 弗洛伊德 | leibniz-mind | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |

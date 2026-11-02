@@ -1,0 +1,50 @@
+{
+  "slug": "leibniz-mind",
+  "kind": "retranslate",
+  "zh_doc": "l/leibniz-mind.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-02T21:11:55Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T22:01:47Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/leibniz-mind.ledger.yaml 54 段（反思两步真实双版）；守恒校验通过（软旗：OIR/标题机械段、斜体→书名号计数差×8 留痕）；refs 节缩写表（A/A&G/C/G/Grua/H/L/LA/MP/P/RB/S/W&F/W 共 14 项块引用表格）经解析器修复后照录保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T22:01:47Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 53 段：引证缩写（G IV 482/G II 96/LA 120/A&G 215/RB 333/C 521 等逐字符）；磨坊论证/前定和谐三原则/单子无窗/普遍文字/微知觉/野猪统觉例逐段核销；德文 s'apperçoit d'une personne 照录；相关词条 8 项映射 SUMMARY 定名（含 7 个莱布尼茨子词条）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T22:01:47Z",
+      "evidence": "check_prose 首跑 32 处实修至 12：被造→受造统一（消被动旗）、长句拆分×6、的链消解×10、弱动词×3（进行推理/进行思考/进行计算）、（2）（3）编号项拆句；余 12 处豁免留痕：莱布尼茨引文与编号公式内部三'的'/被字结构（忠实引文所需）；斜体转加粗事故一次（跨引号误吞）经 script/fix_bold_leibniz2.py 函数式转换修复，*P* 等拉丁变量斜体保留"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T22:01:48Z",
+      "evidence": "四检：check_style 0（中文斜体 29 处转加粗+空格，含事故修复）、check_academic 0 硬错误、check_math 0、prose 12 豁免；术语 单子/前定和谐/统觉/微知觉 登记 yi-zhe-shuo-ming.md；人名 5 位登记 ren-ming-biao.md（阿尔诺/德博斯/德伏尔德/科尔迪莫伊/弗洛伊德）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-02T21:11:54Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 29, 2020",
+    "archive_edition": "Winter 2020",
+    "sha256": "63d15c9157494b6c43a7c92342610e2b5566e551cac898b9f952477a42e5381f"
+  }
+}

@@ -1,0 +1,462 @@
+version: 1
+slug: leibniz-mind
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Leibniz’s place in the history of the philosophy of mind is best secured by his *pre-established harmony*. In a more popular view, this is the thesis that, roughly, there is no mind-body interaction strictly speaking, for there is only a non-causal relationship of harmony, parallelism, or correspondence between mind and body. Certainly, the pre-established harmony is important for a proper understanding of Leibniz’s philosophy of mind. But there is much more to be considered, and even when it comes to the pre-established harmony, this more popular view needs to be refined, particularly insofar as it suggests that Leibniz accepts a roughly Cartesian, albeit non-interactionist dualism. He does not accept such a dualism, and in fact, Leibniz is justly famous for his critiques not only of materialism but also of any dualism of this sort. In short, he made important contributions to a number of classical topics in the philosophy of mind, including materialism, dualism, and mind-body interaction.
+    step1: |-
+      莱布尼茨在心灵哲学历史中的地位，最可靠地奠立于他的*前定和谐*。在一种较流行的看法中，这大致是这样一条论题：严格说来不存在身心交互，因为心灵与身体之间只有一种非因果的和谐、平行或对应关系。当然，前定和谐对于正确理解莱布尼茨的心灵哲学十分重要。但还有多得多的东西需要考虑；而且即便就前定和谐而言，这种较流行的看法也需要修正——尤其当它暗示莱布尼茨接受一种大致笛卡尔式的、虽非交互论的二元论时。他不接受这样的二元论；事实上，莱布尼茨之享有盛名，正在于他不仅批判唯物主义，也批判任何这类二元主义。总之，他对心灵哲学中若干经典论题——包括唯物主义、二元论与身心交互——作出了重要贡献。
+    step2: |-
+      莱布尼茨在心灵哲学史上的地位，最可靠地奠立于其*前定和谐*（pre-established harmony）学说。在一种较为流行的理解中，这大致是说：严格讲来，身心之间并无交互作用，二者之间只有一种非因果性的和谐、平行或对应关系。诚然，前定和谐对正确理解莱布尼茨的心灵哲学至关重要。但尚有远多的东西需要考虑；而且即便就前定和谐而论，这种流行看法也须修正——尤其当它暗示莱布尼茨接受一种大致笛卡尔式的、虽非交互论的二元论之时。他不接受这样的二元论；事实上，莱布尼茨之享有盛名，正在于他既批判唯物主义，也批判任何这类二元主义。总之，他对心灵哲学中若干经典论题——唯物主义、二元论与身心交互——皆有重要贡献。
+  - id: 2
+    kind: body
+    source: |-
+      But Leibniz had much to say about the philosophy of mind that goes well beyond these traditionally important topics. Perhaps surprisingly, his system sometimes contains ideas of relevance even to contemporary discussions in the cognitive sciences. More generally, he discusses in depth the nature of perception and thought (conscious and unconscious) and the nature of human motivation and striving (or, as he would say, appetition). We will take up such topics in what follows.
+    step1: |-
+      但莱布尼茨关于心灵哲学还有许多论述，远远超出这些传统上重要的论题。或许令人惊讶，他的体系有时甚至包含与当代认知科学讨论相关的观念。更一般地说，他深入讨论了知觉与思想（有意识的与无意识的）的本性，以及人类动机与奋力（或如他会说的，欲求）的本性。下文将讨论这些论题。
+    step2: |-
+      但莱布尼茨关于心灵哲学的论述，远远超出这些传统要题。或许令人惊讶：他的体系有时甚至包含与当代认知科学讨论相关的观念。更一般地说，他深入探讨了知觉与思想（有意识的与无意识的）的本性，以及人类动机与奋力（appetition，如他自己的措辞）的本性。下文将逐一讨论。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Matter and Thought
+    step1: |-
+      ## 1 物质与思想
+    step2: |-
+      ## 1 物质与思想
+  - id: 4
+    kind: body
+    source: |-
+      For present purposes, we may think of materialism as the view that everything that exists is material (or physical) with this view closely allied to another, namely, that mental states and processes are either identical to, or realized by, physical states and processes. Leibniz remained opposed to materialism throughout his career, particularly as it figured in the writings of Epicurus and Hobbes. The realms of the mental and the physical, for Leibniz, form two distinct realms—but not in a way conducive to dualism or the view that there exists both thinking substance and extended substance. By opposing both materialism and dualism, Leibniz carved himself an interesting place in the history of views concerning the relationship between thought and matter.
+    step1: |-
+      就本文的目的而言，我们可以把唯物主义看作这样一种观点：一切存在的东西都是物质的（或物理的）；这一观点与另一个观点紧密相连，即心理状态与过程或者同一于、或者实现于物理状态与过程。莱布尼茨终其一生都反对唯物主义，尤其是它体现在伊壁鸠鲁与霍布斯著作中的样子。在莱布尼茨看来，心灵领域与物理领域构成两个不同的领域——但这并不导向二元论，也不导向认为既存在思维实体又存在广延实体的观点。通过既反对唯物主义又反对二元论，莱布尼茨在关于思想与物质之关系的观点史上为自己开辟了一个有趣的位置。
+    step2: |-
+      就本文的目的而言，不妨把唯物主义看作这样一种主张：凡存在者皆是物质的（或物理的）；此说又与另一主张紧密相连——心理状态与过程，或者同一于、或者实现于物理状态与过程。莱布尼茨终其一生反对唯物主义，尤其反对它在伊壁鸠鲁与霍布斯著作中的形态。在他看来，心灵领域与物理领域判然有别——但这并不导向二元论，也不导向“既存在思维实体、又存在广延实体”的观点。既反对唯物主义、又反对二元论——莱布尼茨由此在思想与物质关系之观点史上，为自己辟出一个耐人寻味的位置。
+  - id: 5
+    kind: body
+    source: |-
+      Most of Leibniz’s arguments against materialism are directly aimed at the thesis that perception and consciousness can be given mechanical (i.e. physical) explanations. His position is that perception and consciousness cannot *possibly* be explained mechanically, and, hence, could not be physical processes. His most famous argument against the possibility of materialism is found in section 17 of the *Monadology* (1714):
+    step1: |-
+      莱布尼茨反对唯物主义的大部分论证，直接针对这样一个论题：知觉与意识可以得到力学的（即物理的）解释。他的立场是：知觉与意识*绝无可能*得到力学解释，因而也不可能是物理过程。他反对唯物主义可能性的最著名论证，见于《单子论》（1714）第 17 节：
+    step2: |-
+      莱布尼茨反对唯物主义的论证，大多直接针对这样一个论题：知觉与意识可以获得力学的（即物理的）解释。他的立场是：知觉与意识*绝无可能*获得力学解释，因而也不可能是物理过程。他反对唯物主义可能性之最著名的论证，见于《单子论》（1714）第 17 节：
+  - id: 6
+    kind: body
+    source: |-
+      > One is obliged to admit that *perception* and what depends upon it is *inexplicable on mechanical principles*, that is, by figures and motions. In imagining that there is a machine whose construction would enable it to think, to sense, and to have perception, one could conceive it enlarged while retaining the same proportions, so that one could enter into it, just like into a windmill. Supposing this, one should, when visiting within it, find only parts pushing one another, and never anything by which to explain a perception. Thus it is in the simple substance, and not in the composite or in the machine, that one must look for perception. (G VI, 609/A&G 215)
+    step1: |-
+      > 人们不得不承认，*知觉*以及依赖于它的东西，是*无法用力学原则*——即用形状与运动——来解释的。设想有一台机器，其构造使它能思考、能感觉、能有知觉；可以设想把它按原比例放大，大到人可以走进去，就像走进一座磨坊。假定如此，人们在其中参观时只会发现一些部件相互推挤，而绝找不到任何可以用来解释知觉的东西。因此，必须在单纯实体中、而不是在复合物或机器中寻找知觉。（G VI, 609/A&G 215）
+    step2: |-
+      > 人们不得不承认：*知觉*以及依赖于知觉的东西，*无法用力学原则*——即用形状与运动——来解释。设想有一台机器，其构造使之能思考、能感觉、能有知觉；再设想把它按原比例放大，大到人可走入其中，如同走入一座磨坊。果真如此，人们在其中游览时只会见到部件相互推挤，绝见不到任何足以解释知觉的东西。故而，必须在单纯实体中寻找知觉，而不是在复合物或机器中。（G VI, 609/A&G 215）
+  - id: 7
+    kind: body
+    source: |-
+      Leibniz’s argument seems to be this: the visitor of the machine, upon entering it, would observe nothing but the properties of the parts and the relations they bear to one another. But no explanation of perception or consciousness can possibly be deduced from this conglomerate. No matter how complex the inner workings of this machine, nothing about them reveals that what is being observed are the inner workings of a conscious being. Hence, materialism must be false, for there is no possible way that the purely mechanical principles of materialism can account for the phenomena of consciousness. (For detailed discussion of this argument, see Lodge and Bobro 1998; Lodge 2014.)[^lodge-2014][^lodge-1998]
+    step1: |-
+      莱布尼茨的论证似乎是这样的：机器的参观者一旦走入其中，所观察到的只会是各部件的性质及其相互关系。但从这一堆东西中不可能推出对知觉或意识的任何解释。无论这台机器的内部运作多么复杂，其中没有任何东西表明：人们所观察到的，是一个有意识的存在者的内部运作。因此，唯物主义必定为假，因为唯物主义的纯力学原则绝无可能解释意识现象。（关于这一论证的详细讨论，见 Lodge and Bobro 1998; Lodge 2014。）[^lodge-2014][^lodge-1998]
+    step2: |-
+      莱布尼茨的论证似乎是这样：参观者一旦步入机器，所见无非各部件的性质及其相互关系；而从这一大堆东西中，绝无可能推出对知觉或意识的解释。无论这台机器的内部运作何等复杂，其中没有任何东西显示：人们观察到的，乃是一个有意识存在者的内部运作。故唯物主义必假——唯物主义的纯力学原则，绝无可能解释意识现象。（此论证的详细讨论，见 Lodge and Bobro 1998; Lodge 2014。）[^lodge-2014][^lodge-1998]
+  - id: 8
+    kind: body
+    source: |-
+      In other writings, Leibniz suggests exactly what characteristic it is of perception and consciousness for which the mechanical principles of materialism cannot account. The following passages, the first from the *New System of Nature* (1695), the second from the *Reply to Bayle* (1702), are revealing in this regard:
+    step1: |-
+      在其它著述中，莱布尼兹指明了知觉与意识的何种特征是唯物主义的力学原则无法解释的。下面两段文字——第一段出自《自然新体系》（1695），第二段出自《答培尔》（1702）——在这方面很有启发：
+    step2: |-
+      在其它著述中，莱布尼茨确切指明了知觉与意识的何种特征，是唯物主义力学原则无法解释的。下面两段文字——其一出自《自然新体系》（1695），其二出自《答培尔》（1702）——在这方面颇具启发：
+  - id: 9
+    kind: body
+    source: |-
+      > Furthermore, by means of the soul or form, there is a true unity which corresponds to what is called the *I* in us; such a thing could not occur in artificial machines, nor in the simple mass of matter, however organized it may be. (G IV, 482/W&F 16)
+      >
+      > But in addition to the general principles which establish the monads of which compound things are merely the results, internal experience refutes the Epicurean [i.e. materialist] doctrine. This experience is the consciousness which is in us of this *I* which apperceives things which occur in the body. This perception cannot be explained by figures and movements. (G IV, 559f./W&F 113)
+    step1: |-
+      > 此外，凭借灵魂或形式，有一种真实的统一体，它对应于我们之中所谓的*我*；这样的人工机器中不可能出现，无论其构造如何，单纯的一块物质中也不可能出现。（G IV, 482/W&F 16）
+      >
+      > 但是，除了确立单子的一般原则之外——复合物只是这些单子的结果——内在经验也驳斥了伊壁鸠鲁派[即唯物主义]的学说。这种经验就是我们之内的意识：对那个统觉到身体中发生之事的*我*的意识。这种知觉无法用形状与运动来解释。（G IV, 559f./W&F 113）
+    step2: |-
+      > 此外，凭借灵魂或形式，有一种真实统一体，对应于我们之中所谓的*我*；这般东西，人工机器中无从出现，单纯一团物质——无论其组织得多么精巧——中也无从出现。（G IV, 482/W&F 16）
+      >
+      > 然而，除了确立单子的一般原则之外——复合物不过是这些单子的结果——内在经验同样驳斥伊壁鸠鲁派[即唯物主义]学说。这种经验，就是我们之内对那个*我*的意识：正是这个*我*统觉着身体中发生的事项。这种知觉，无法用形状与运动来解释。（G IV, 559f./W&F 113）
+  - id: 10
+    kind: body
+    source: |-
+      Leibniz’s point is that whatever is the subject of perception and consciousness must be truly one, a single “I” properly regarded as *one* conscious being. An aggregate of matter is not truly one and so cannot be regarded as a single *I* capable of being the subject of a unified mental life. This interpretation fits nicely with Lebniz’s oft-repeated definition of perception as “the representation in the simple of the compound, or of that which is outside” (*Principles of Nature and Grace,* sec.2 (1714)). More explicitly, in a letter to Antoine Arnauld of 9 October 1687, Leibniz wrote that “in natural perception and sensation, it is enough for what is divisible and material and dispersed into many entities to be expressed or represented in a single indivisible entity or in a substance which is endowed with genuine unity.” If perception (and hence, consciousness) essentially involves a representation of a variety of content in a simple, indivisible “I,” then we may construct Leibniz’s argument against materialism as follows: Materialism holds that matter can explain (is identical with, can give rise to) perception. A perception is a state whereby a variety of content is represented in a true unity. Thus, whatever is not a true unity cannot give rise to perception. Whatever is divisible is not a true unity. Matter is infinitely divisible. Hence, matter cannot form a true unity. Hence, matter cannot explain (be identical with, give rise to) perception. If matter cannot explain (be identical to, give rise to) perception, then materialism is false. Hence, materialism is false.
+    step1: |-
+      莱布尼茨的要点是：凡作为知觉与意识之主体的东西，必须真实地是一，即一个“我”，被恰当地看作*一个*有意识的存在者。物质聚集体并非真实地是一，因此不能被看作能够承担统一心理生活之主体的单个*我*。这一解释与莱布尼茨反复申说的知觉定义十分契合：知觉是“单纯物中对复合物、或对外物的表现”（《自然与神恩的原则》第 2 节（1714））。更明确地，在 1687 年 10 月 9 日致安托万·阿尔诺的信中，莱布尼茨写道：“在自然知觉与感觉中，只要可分的、物质的、散布于众多实体中的东西，在一个不可分的单一实体中——亦即在一个被赋予真实统一性的实体中——得到表现或再现，就足够了。”如果知觉（从而意识）本质上涉及在单纯的、不可分的“我”之中对多样内容的再现，那么我们可以把莱布尼茨反对唯物主义的论证构造如下：唯物主义主张物质能够解释（同一于、产生）知觉。知觉是一种状态，其中多样内容在一种真实统一体中被再现。因此，凡不是真实统一体的东西都不能产生知觉。凡可分的东西都不是真实统一体。物质无限可分。因此，物质不能构成真实统一体。因此，物质不能解释（同一于、产生）知觉。如果物质不能解释（同一于、产生）知觉，那么唯物主义为假。因此，唯物主义为假。
+    step2: |-
+      莱布尼茨的要点是：凡作为知觉与意识之主体者，必须真实地是一——一个“我”，被恰当地认作*一个*有意识的存在者。物质的聚集体并非真实地是一，故不能被看作单个的*我*，不能承担统一心理生活之主体。这一解读与莱布尼茨反复申说的知觉定义颇为契合：知觉是“单纯物中对复合物、或对外物的表现”（《自然与神恩的原则》第 2 节，1714）。更明确地说，在 1687 年 10 月 9 日致安托万·阿尔诺的信中，莱布尼茨写道：“在自然知觉与感觉中，只要那可分的、物质的、散布于众多实体中的东西，在一个不可分的单一实体中——亦即在一个被赋予真实统一性的实体中——得到表现或再现，便已足够。”倘若知觉（从而意识）本质上涉及在单纯的、不可分的“我”之中再现多样内容，那么莱布尼茨反对唯物主义的论证可重构如下：唯物主义主张，物质能够解释（同一于、产生）知觉。知觉是一种状态，其中多样内容在一种真实统一体中得到再现。故凡非真实统一体者，皆不能产生知觉。凡可分者，皆非真实统一体。物质无限可分。故物质不能构成真实统一体。故物质不能解释（同一于、产生）知觉。若物质不能解释（同一于、产生）知觉，则唯物主义为假。故唯物主义为假。
+  - id: 11
+    kind: body
+    source: |-
+      Leibniz rejected materialism on the grounds that it could not, in principle, ever capture the “true unity” of perceptual consciousness, that characteristic of the self which can simultaneously unify a manifoldness of perceptual content. If this is Leibniz’s argument, it is of some historical interest that it bears striking resemblances to contemporary objections to certain materialist theories of mind. Many contemporary philosophers have objected to some versions of materialism on the basis of thought experiments similar to Leibniz’s, experiments designed to show that qualia and consciousness are bound to elude certain materialist conceptions of the mind (cf. Searle 1980; Nagel 1974; McGinn 1989; Jackson 1982)[^jackson-1982][^mcginn-1989][^nagel-1974]. It is also of historical interest that Leibniz coupled his rejection of materialism with a version of naturalism (or what *he* would have regarded as naturalism - see Jorgensen 2019)[^jorgensen-2019].
+    step1: |-
+      莱布尼茨拒绝唯物主义的理由是：它在原则上永远无法捕捉知觉意识的“真实统一性”——自我的那种能够同时统一众多知觉内容的特征。如果这就是莱布尼茨的论证，那么从历史角度看，有趣的是它与当代针对某些唯物主义心灵理论的反驳惊人地相似。许多当代哲学家基于与莱布尼茨类似的思想实验，反对某些版本的唯物主义；这些实验旨在表明，感受质与意识注定躲开某些唯物主义的心灵概念（参见 Searle 1980; Nagel 1974; McGinn 1989; Jackson 1982）[^jackson-1982][^mcginn-1989][^nagel-1974]。从历史角度看同样有趣的是：莱布尼茨把他之拒绝唯物主义与一种自然主义（或*他*会视为自然主义的东西）结合在一起——见 Jorgensen 2019[^jorgensen-2019]。
+    step2: |-
+      莱布尼茨拒绝唯物主义的理由是：它在原则上永远无法捕捉知觉意识的“真实统一性”——自我的那种能同时统一众多知觉内容的特征。若这确是莱布尼茨的论证，那么从历史角度看，耐人寻味的是：它与当代对某些唯物主义心灵理论的反驳惊人相似。许多当代哲学家基于与莱布尼茨类似的思想实验反对某些版本的唯物主义；这类实验旨在表明：感受质与意识，注定逃逸于某些唯物主义的心灵概念之外（参见 Searle 1980; Nagel 1974; McGinn 1989; Jackson 1982）[^jackson-1982][^mcginn-1989][^nagel-1974]。历史上同样耐人寻味的是：莱布尼茨把拒绝唯物主义同一种自然主义（或*他*所认定的自然主义）结合在一起——见 Jorgensen 2019[^jorgensen-2019]。
+  - id: 12
+    kind: body
+    source: |-
+      Leibniz’s rejection of materialist conceptions of the mind was coupled with a strong opposition to dualistic views concerning the relationship between mind and body, particularly the substance dualism that figured in the philosophy of Descartes and his followers. According to this dualism, the world fundamentally consists of two disparate substances: extended material substance (body) and unextended thinking substance (mind). This bifurcation, of course, carries no burden of holding that the operations of the mental are realized by the operations of the physical. But despite his claim that consciousness and perception cannot be realized by, nor reduced to, the mechanical operations of matter, Leibniz found the alternative of postulating two distinct kinds of substance equally implausible.
+    step1: |-
+      莱布尼茨拒绝唯物主义的心灵概念，同时强烈反对关于身心关系的二元论观点，尤其是笛卡尔及其追随者哲学中的实体二元论。按照这种二元论，世界根本上由两种迥异的实体构成：广延的物质实体（身体）与非广延的思维实体（心灵）。这种二分当然不承担这样的主张：心理的运作由物理的运作实现。但是，尽管他主张意识与知觉不能由物质的力学运作实现、也不能还原为物质的力学运作，莱布尼兹却发现设定两种不同实体的替代方案同样不可信。
+    step2: |-
+      莱布尼茨拒绝唯物主义的心灵概念，同时强烈反对关于身心关系的二元论观点——尤其是笛卡尔及其追随者哲学中的实体二元论。照这种二元论，世界根本上由两种迥异的实体构成：广延的物质实体（身体）与非广延的思维实体（心灵）。这种二分当然不背负如下主张：心理的运作由物理的运作所实现。然而，尽管莱布尼茨主张意识与知觉既不能由物质的力学运作实现、也不能还原于它，他仍然发现：设定两种不同实体的替代方案，同样难以取信。
+  - id: 13
+    kind: body
+    source: |-
+      Leibniz’s opposition to Cartesian dualism stems not from a rejection of unextended substance, but from his denial of the existence of genuine extended material substance. To begin with, Leibniz held the Scholastic thesis that “being” and “one” are equivalent. He writes to Arnauld: “To be brief, I hold as axiomatic the identical proposition which varies only in emphasis: that what is not truly *one* being is not truly one *being* either” (30 April 1687; G II, 97/LA 121). For Leibniz, in order for something to count as a real being—a substance—it must be “truly one,” an entity endowed with genuine unity. And, as we saw above, in order for something to be a genuine unity, it must be a simple, indivisible entity. “Substantial unity,” he writes, “requires a complete, indivisible and naturally indestructible entity” (to Arnauld, 28 November 1686; G II, 76/LA 94). But matter is extended, and thus, Leibniz believes, infinitely divisible. Hence, there is no such thing, for Leibniz, as material substance.
+    step1: |-
+      莱布尼茨反对笛卡尔式二元论，并非由于拒斥非广延实体，而是由于他否认真实广延物质实体的存在。首先，莱布尼茨持经院哲学的论题：“存在”与“一”等价。他写信给阿尔诺说：“简言之，我把那条只在强调上有所变化的同一命题当作公理：凡不是真实地*一*的存在者，也不是真实地一的存在者。”（1687 年 4 月 30 日；G II, 97/LA 121）对莱布尼茨来说，某物要算作实在的存在者——一个实体——就必须“真实地是一”，即一个被赋予真实统一性的实体。而且，正如上文所见，某物要成为真实的统一体，就必须是单纯的、不可分的实体。“实体统一性”，他写道，“要求一个完全的、不可分的、自然不可毁灭的实体”（致阿尔诺，1686 年 11 月 28 日；G II, 76/LA 94）。但物质是广延的，因而——莱布尼茨相信——无限可分。因此，对莱布尼茨来说，根本不存在物质实体这样的东西。
+    step2: |-
+      莱布尼茨反对笛卡尔式二元论，并非出于对非广延实体的拒斥，而是出于对“真实广延物质实体存在”的否认。首先，莱布尼茨持经院哲学的论题：“存在”与“一”等价。他致信阿尔诺：“简言之，我把那条只在强调上有所变化的同一命题奉为公理：凡不是真实地*一*的存在者，也就不是真实地一的存在者。”（1687 年 4 月 30 日；G II, 97/LA 121）在莱布尼茨看来，某物要算作实在的存在者——一个实体——就必须“真实地是一”：一个被赋予真实统一性的实体。而如上文所见，某物要成为真实统一体，就必须是单纯的、不可分的实体。“实体统一性”，他写道，“要求一个完全的、不可分的、自然不可毁灭的实体”（致阿尔诺，1686 年 11 月 28 日；G II, 76/LA 94）。然而物质是广延的，因而——莱布尼茨相信——无限可分。故而对莱布尼茨而言，根本不存在物质实体这回事。
+  - id: 14
+    kind: body
+    source: |-
+      There is a positive thesis which goes hand-in-hand with Leibniz’s negative thesis against material substance and which helps to explain further his rejection of material substance. It is summarized in the following passage from a letter to Arnauld of 30 April 1687:
+    step1: |-
+      有一个正面论题与莱布尼茨反对物质实体的否定性论题携手并进，并进一步解释了他对物质实体的拒斥。它概括在 1687 年 4 月 30 日致阿尔诺信中的下面这段话里：
+    step2: |-
+      有一个正面论题，与莱布尼茨反对物质实体的否定性论题相伴而行，并进一步解释他何以拒斥物质实体。它概括于 1687 年 4 月 30 日致阿尔诺信中的下面一段话：
+  - id: 15
+    kind: body
+    source: |-
+      > I believe that *where there are only beings through aggregation, there will not even be real beings*. For every being through aggregation presupposes beings endowed with a true unity, because it obtains its reality from nowhere but that of its constituents, so that it will have no reality at all if each constituent being is still an entity through aggregation; or else, one must yet seek another basis to its reality, which in this way, if one must constantly go on searching, can never be found…. If there are aggregates of substances, there must also be genuine substances from which all the aggregates result. One must therefore necessarily arrive either at mathematical points from which certain authors make up extension, or at Epicurus’ and M. Cordemoy’s atoms (which you, like me, dismiss), or else one must acknowledge that no reality can be found in bodies, or finally one must recognize certain substances in them that possess a true unity. (G II, 96/LA 120)
+    step1: |-
+      > 我相信，*凡是只有凭聚合而存在的存在者之处，甚至连实在的存在者也不会有*。因为每一个凭聚合而存在的存在者，都预设了被赋予真实统一性的存在者；它的实在性除来自其组成成分的实在性之外别无来源，以致如果每个组成成分仍是凭聚合而成的实体，它就根本没有任何实在性；否则，就必须再为它的实在性另寻基础——这样下去，如果必须不断寻找，就永远找不到……如果有实体的聚集体，就必定也有真实的实体，一切聚集体都由之产生。因此人们必定要么走到数学点——某些作者由之构造广延——要么走到伊壁鸠鲁与科尔迪莫伊先生的原子（您同我一样摈弃它们），要么必须承认物体中找不到任何实在性，要么最终必须承认物体中有某些拥有真实统一性的实体。（G II, 96/LA 120）
+    step2: |-
+      > 我相信，*凡只有凭聚合而存在之存在者处，连实在的存在者也不会有*。因为每一个凭聚合而存在的存在者，都预设了被赋予真实统一性的存在者：它的实在性除取自其组成成分外别无来源；倘若每个组成成分仍是凭聚合而成的实体，它便根本没有任何实在性。否则，就得再为它的实在性另寻基础——如此层层上溯，若须不断寻找，便永远找不到……如果有实体的聚集体，就必定也有真实的实体，一切聚集体皆由之而生。因此，人们必定要么抵达数学点——某些作者由之构造广延；要么抵达伊壁鸠鲁与科尔迪莫伊先生的原子（您同我一样摈弃它们）；要么承认物体中找不到任何实在性；要么最终承认：物体中有某些拥有真实统一性的实体。（G II, 96/LA 120）
+  - id: 16
+    kind: body
+    source: |-
+      According to Leibniz, bodies (qua material) are aggregates, and an aggregate, of course, is not a substance on account of its lack of unity. The claim in the above passage is that whatever being or reality an aggregate has derives from the being and reality of its constituents. Thus, Leibniz thinks that if a body is to have any reality at all, if it is to be more than a mere “phenomenon, lacking all reality as would a coherent dream,” then it must ultimately be composed of things which are real beings. Atoms, he claims, are unfit for this role, because they are themselves extended beings, and for Leibniz, divisibility is of the essence of extension. That is, those who believe in indivisible atoms make matter “divisible in one place, indivisible in another” (*On Nature Itself* (1698); G IV, 513/A&G 165), but “we cannot explain why bodies of a definite smallness [i.e. atoms] should not be further divisible” (*Primary Truths* (1686); C 522/A&G 34). Every extended mass, for Leibniz, is composed of extended parts, and so even if we could conceive of an atom as composed of parts which cannot be physically divided, “an invincible attachment of one part to another would not at all destroy the diversity of these parts” (*New System of Nature,* (1695); G IV, 482/W&F 16), or it would not at all overcome the fact that it is an aggregate composed of parts and not truly one being. Likewise, mathematical points, “even an infinity of points gathered into one, will not make extension,” (to Des Bosses, 30 April 1709; G II, 370/L 597) and so cannot be understood as the constituents of extended bodies. Hence, Leibniz opts for the last of the above quoted alternatives: the constituents of bodies are “certain substances … that possess a true unity.” These substances are partless, unextended, and indivisible, and therefore real beings in Leibniz’s sense. Indeed, in several writings, Leibniz invites us to conceive of these substances on the model of our notion of souls. These simple substances are the only things which suffice for grounding the reality of bodies. To be sure, substances, Leibniz tells us, do not constitute a body as parts of the body, but as the “first elements,” or “primitive unities,” of the body. As he sometimes puts it, bodies “result from” these constitutive unities. That is, bodies just are aggregates of substances which *appear to us* as extended corporeal phenomena, though they are “well-founded” phenomena; they have their foundation in real beings.
+    step1: |-
+      按照莱布尼茨，物体（作为物质）是聚集体，而聚集体当然由于缺乏统一性而不是实体。上文的说法是：聚集体所具有的任何存在或实在性，都来自其组成成分的存在与实在性。因此，莱布尼茨认为，如果一个物体要有任何实在性，如果它要不只是“一个缺乏一切实在性的现象，如同一场连贯的梦”，那么它最终必须由真实存在的东西构成。他主张，原子不适于这一角色，因为原子本身是广延的存在者，而对莱布尼茨来说，可分性是广延的本质。也就是说，相信不可分原子的人使物质“在这一处可分，在另一处不可分”（《论自然本身》（1698）；G IV, 513/A&G 165），但“我们无法解释为什么具有确定微小尺寸的物体[即原子]不应当进一步可分”（《第一真理》（1686）；C 522/A&G 34）。对莱布尼茨来说，每一广延的质量都由广延的部分构成；因此，即便我们能设想一个原子由物理上不可分划的部分构成，“一部分对另一部分的不可克服的黏合也丝毫不会破坏这些部分的多样性”（《自然新体系》（1695）；G IV, 482/W&F 16），也就是说，丝毫不能克服这样的事实：它是由部分构成的聚集体，而非真实地是一的存在者。同样，数学点“即便无限多的点聚为一个，也不会构成广延”（致德博斯，1709 年 4 月 30 日；G II, 370/L 597），因此不能被理解为广延物体的组成成分。因此，莱布尼茨选择了上引诸选项中的最后一项：物体的组成成分是“某些……拥有真实统一性的实体”。这些实体无部分、非广延、不可分，因此是莱布尼茨意义上的实在存在者。的确，在若干著述中，莱布尼茨邀请我们按照我们关于灵魂的概念来设想这些实体。这些单纯实体是唯一足以莫基底物实在性的东西。诚然，莱布尼茨告诉我们，实体并不作为物体的部分构成物体，而是作为物体的“最初元素”或“原始统一体”。如他有时所说，物体“产生自”这些构成性统一体。也就是说，物体就是诸实体的聚集体，它们*在我们看来*是广延的有形现象，尽管它们是“有根基的”现象；它们奠基于实在的存在者。
+    step2: |-
+      按照莱布尼茨，物体（作为物质）是聚集体；而聚集体因缺乏统一性，当然不是实体。上文的要旨是：聚集体所具有的任何存在或实在性，皆来自其组成成分的存在与实在性。因此莱布尼茨认为：物体若要有任何实在性——若要不只是“一个缺乏一切实在性的现象，如同一场连贯的梦”——就最终必须由真实存在的东西构成。他主张，原子不胜此任：原子本身是广延的存在者，而对莱布尼茨来说，可分性正是广延的本质。也就是说，相信不可分原子的人，使物质“在这一处可分，在另一处不可分”（《论自然本身》，1698；G IV, 513/A&G 165）；可是“我们无法解释，为什么具有确定微小尺寸的物体[即原子]不应当进一步可分”（《第一真理》，1686；C 522/A&G 34）。对莱布尼茨而言，每一广延的质量皆由广延的部分构成；因此，即便我们能设想一个原子由物理上不可分划的部分构成，“一部分对另一部分的不可克服的黏合，也丝毫不会破坏这些部分的多样性”（《自然新体系》，1695；G IV, 482/W&F 16）——丝毫不能克服如下事实：它是由部分构成的聚集体，而非真实地是一的存在者。同样，数学点“即便无限多的点聚为一个，也不会构成广延”（致德博斯，1709 年 4 月 30 日；G II, 370/L 597），故不能被理解为广延物体的组成成分。于是，莱布尼茨择取上引诸选项的最后一项：物体的组成成分是“某些……拥有真实统一性的实体”。这些实体无部分、非广延、不可分，故而是莱布尼茨意义上的实在存在者。的确，在若干著述中，莱布尼茨邀请我们循我们关于灵魂的概念来设想这些实体。唯有这些单纯实体，足以莫基底物的实在性。诚然，莱布尼茨告诉我们：实体并不作为物体的部分构成物体，而是作为物体的“最初元素”或“原始统一体”。如他有时所说，物体“产生自”这些构成性统一体。也就是说，物体就是诸实体的聚集体——*在我们看来*，它们是广延的有形现象；但它们是“有根基的”现象，奠基于实在的存在者。
+  - id: 17
+    kind: body
+    source: |-
+      In short, Leibniz stands in a special position with respect to the history of views concerning thought and its relationship to matter. He rejects the materialist position that thought and consciousness can be captured by purely mechanical principles. But he also rejects the dualist position that the universe must therefore be bifurcated into two different kinds of substance, thinking substance and material substance. Rather, it is his view that the world consists solely of one *type* of substance, though there are infinitely many substances of that type. These substances are partless, unextended entities, some of which are endowed with thought and consciousness, and others of which found the phenomenality of the corporeal world. The sum of these views secures Leibniz a distinctive position in the history of the philosophy of mind.
+    step1: |-
+      总之，就关于思想及其与物质之关系的观点史而言，莱布尼茨占据一个特殊位置。他拒绝唯物主义立场——思想与意识可以为纯力学原则所捕捉；但他也拒绝二元论立场——宇宙因此必须二分为两种不同的实体，思维实体与物质实体。毋宁说，他的观点是：世界仅仅由一种*类型*的实体构成，尽管该类型的实体有无限多。这些实体是无部分、非广延的实体；其中一些被赋予思想与意识，另一些则奠底有形世界的现象性。这些观点的总和，为莱布尼茨在心灵哲学史上赢得了一个独特的位置。
+    step2: |-
+      要而言之，就关于思想及其与物质之关系的观点史而言，莱布尼茨占据一个特殊位置。他拒绝唯物主义立场——思想与意识可被纯力学原则捕捉；但也拒绝二元论立场——宇宙因此须二分为思维实体与物质实体两种。毋宁说，他的观点是：世界仅由一种*类型*的实体构成，尽管该类型实体有无限之多。这些实体无部分、非广延；其中一些被赋予思想与意识，另一些则奠底有形世界的现象性。诸观点合观，为莱布尼茨在心灵哲学史上赢得了一个独特位置。
+  - id: 18
+    kind: body
+    source: |-
+      ## 2. Denial of Mind-Body Interaction, Assertion of Pre-established Harmony
+    step1: |-
+      ## 2 否认身心交互，主张前定和谐
+    step2: |-
+      ## 2 否认身心交互，主张前定和谐
+  - id: 19
+    kind: body
+    source: |-
+      A central philosophical issue of the seventeenth century concerned the apparent causal relations which hold between the mind and the body. In most seventeenth-century settings, this issue was discussed within the context of substance dualism, the view that mind and body are different kinds of substance. As noted above, Leibniz remained fundamentally opposed to dualism. But although Leibniz held that there is only one type of substance in the world, and thus that mind and body are ultimately composed of the same kind of substance (a version of monism), he also held that mind and body are metaphysically distinct. There are a variety of interpretations of what this metaphysical distinctness consists in for Leibniz, but on any plausible interpretation it is safe to assume (as Leibniz seems to have done) that for any person *P*, *P*’s mind is a distinct substance (a soul) from *P*’s body. With this assumption in hand, we may formulate the central issue in the form of a question: how is it that certain mental states and events are coordinated with certain bodily states and events, and vice-versa? There were various attempts to answer this question in Leibniz’s time period. For Descartes, the answer was mind-body interactionism: the mind can causally influence the body and (most commentators have held) vice-versa. For Malebranche, the answer was that neither created minds nor bodies can enter into causal relations because God is the only causally efficient being in the universe. God causes certain bodily states and events on the occasion of certain mental states and events, and vice-versa. Leibniz found Descartes’ answer unintelligible (cf. *Theodicy,* sec. 60; G VI, 135f.) and Malebranche’s excessive because miraculous (cf. Letter to Arnauld, 14 July 1686; G II, 57/LA 65).
+    step1: |-
+      十七世纪的一个核心哲学问题，涉及心灵与身体之间看似成立的因果关系。在十七世纪的大多数语境中，这个问题在实体二元论的框架内讨论——即认为心灵与身体是不同种类的实体。如上文所述，莱布尼茨从根本上反对二元论。但是，尽管莱布尼茨认为世界上只有一种类型的实体，从而心灵与身体最终由同一种实体构成（一种一元论），他也认为心灵与身体在形而上学上判然有别。对这种形而上学区别在莱布尼茨那里在于什么，有多种解释；但无论采取哪种可信的解释，都可以稳妥地假定（莱布尼茨似乎也是这样做的）：对任一主体 *P* 而言，*P* 的心灵是一个不同于 *P* 之身体的实体（一个灵魂）。有了这一假定，我们可以把核心问题表述为一个问题：某些心理状态与事件如何与某些身体状态与事件相互配合，反之亦然？在莱布尼茨的时代，对此问题有各种回答。对笛卡尔来说，答案是身心交互论：心灵能够因果地影响身体，（多数评注者认为）反之亦然。对马勒伯朗士来说，答案是：被造的心灵与身体都不能进入因果关系，因为上帝是宇宙中唯一有因果效力的存在者。上帝在某些心理状态与事件之际引起某些身体状态与事件，反之亦然。莱布尼茨认为笛卡尔的回答不可理解（参见《神义论》第 60 节；G VI, 135f.），而马勒伯朗士的回答因为诉诸奇迹而失之过度（参见致阿尔诺信，1686 年 7 月 14 日；G II, 57/LA 65）。
+    step2: |-
+      十七世纪的一个核心哲学问题，关乎心灵与身体之间看似成立的因果关系。在十七世纪的大多数语境中，这个问题是在实体二元论——即主张心灵与身体是不同种类的实体——的框架内讨论的。如上文所述，莱布尼茨从根本上反对二元论。不过，尽管他认为世界上只有一种类型的实体，从而心灵与身体最终由同一种实体构成（一种一元论），他仍认为心灵与身体在形而上学上判然有别。至于这种形而上学区别在莱布尼茨那里究竟何在，解释不一；但无论采取哪种可信的解释，都可以稳妥地假定（莱布尼茨似乎也作如此想）：对任一主体 *P* 而言，*P* 的心灵是一个不同于 *P* 之身体的实体（一个灵魂）。手握这一假定，我们可以把核心问题表述为一个问题：某些心理状态与事件，如何同某些身体状态与事件相互配合，反之亦然？在莱布尼茨的时代，答案不一。对笛卡尔，答案是身心交互论：心灵能因果地影响身体（多数评注者认为反之亦然）。对马勒伯朗士，答案是：被造的心灵与身体都不能进入因果关系，因为上帝是宇宙中唯一有因果效力的存在者——上帝在某些心理状态与事件之际引起某些身体状态与事件，反之亦然。莱布尼茨认为笛卡尔的回答不可理解（参见《神义论》第 60 节；G VI, 135f.），而马勒伯朗士的回答则因诉诸奇迹而失之过度（参见致阿尔诺信，1686 年 7 月 14 日；G II, 57/LA 65）。
+  - id: 20
+    kind: body
+    source: |-
+      Leibniz’s account of mind-body causation was in terms of his famous doctrine of the *pre-established harmony*. According to the latter, (1) no state of a created substance has as a real cause some state of another created substance (i.e. a denial of inter-substantial causality); (2) every non-initial, non-miraculous, state of a created substance has as a real cause some previous state of that very substance (i.e. an affirmation of intra-substantial causality); and (3) each created substance is programmed at creation such that all its natural states and actions are carried out in conformity with all the natural states and actions of every other created substance.
+    step1: |-
+      莱布尼茨对身心因果的说明，是以他著名的前定和谐学说给出的。按照该学说：（1）一个被造实体的任何状态都不以另一个被造实体的某个状态为实在原因（即否认实体间因果性）；（2）一个被造实体的每一个非初始、非奇迹的状态，都以该实体自身的某个先前状态为实在原因（即肯定实体内因果性）；（3）每个被造实体在创造时即被编程，使其一切自然状态与行动，同所有其他被造实体的一切自然状态与行动相符合地展开。
+    step2: |-
+      莱布尼茨对身心因果的说明，系于其著名的前定和谐学说。按照该学说：（1）一个被造实体的任何状态，都不以另一个被造实体的某个状态为实在原因（即否认实体间因果性）；（2）一个被造实体的每一个非初始、非奇迹的状态，都以该实体自身的某个先前状态为实在原因（即肯定实体内因果性）；（3）每个被造实体在受造之初即被编程：其一并自然状态与行动，皆同所有其他被造实体的一切自然状态与行动相符合地展开。
+  - id: 21
+    kind: body
+    source: |-
+      Formulating (1) through (3) in the language of minds and bodies, Leibniz held that no mental state has as a real cause some state of another created mind or body, and no bodily state has as a real cause some state of another created mind or body. Further, every non-initial, non-miraculous, mental state of a substance has as a real cause some previous state of that mind, and every non-initial, non-miraculous, bodily state has as a real cause some previous state of that body. Finally, created minds and bodies are programmed at creation such that all their natural states and actions are carried out in mutual coordination.
+    step1: |-
+      用心灵与身体的语言来表述（1）至（3）：莱布尼茨主张，没有任何心理状态以另一个被造心灵或身体的某个状态为实在原因，也没有任何身体状态以另一个被造心灵或身体的某个状态为实在原因。进而，一个实体的每一个非初始、非奇迹的心理状态，都以该心灵的某个先前状态为实在原因；每一个非初始、非奇迹的身体状态，都以该身体的某个先前状态为实在原因。最后，被造的心灵与身体在创造时即被编程，使其一切自然状态与行动相互协调地展开。
+    step2: |-
+      用心灵与身体的语言表述（1）至（3）：莱布尼茨主张，没有任何心理状态以另一个被造心灵或身体的某个状态为实在原因；也没有任何身体状态以另一个被造心灵或身体的某个状态为实在原因。进而，一个实体的每一个非初始、非奇迹的心理状态，都以该心灵的某个先前状态为实在原因；每一个非初始、非奇迹的身体状态，都以该身体的某个先前状态为实在原因。最后，被造的心灵与身体在受造之初即被编程：其一切自然状态与行动相互协调地展开。
+  - id: 22
+    kind: body
+    source: |-
+      According to Leibniz, what *appear* to be real causal relations between mind and body are, in metaphysical reality, the mutual conformity or coordination of mind and body—in accordance with (3)—with no interaction or divine intervention involved. For example, suppose that Smith is pricked with a pin (call this bodily state *Sb*) and pain ensues (call this mental state *Sm*), a case of apparent body to mind causation. Leibniz would say that in such a case some state of Smith’s mind (soul) prior to *Sm* was the real cause of *Sm* and *Sb* was not a causal factor in the obtaining of *Sm*. Suppose now that Smith has a desire to raise his arm (call this mental state *Sm*), and the raising of his arm ensues (call this bodily state *Sb*), a case of apparent mind to body causation. Leibniz would say that in such a case some state of Smith’s body prior to *Sb* was the real cause of *Sb* and *Sm* was not a causal factor in the obtaining of *Sb*. So although substances do not causally interact, their states accommodate one another *as if* there were causal interaction among substances.
+    step1: |-
+      按照莱布尼茨，看似真实存在的身心因果关系的那些东西，在形而上学的实在中，是心灵与身体的相互符合或协调——符合（3）——其间没有交互，也没有神助。例如，假设史密斯被针刺了一下（把这个身体状态称作 *Sb*），随之而来的是疼痛（把这个心理状态称作 *Sm*）——这是一例看似身体到心灵的因果作用。莱布尼茨会说：在这一情形中，史密斯心灵（灵魂）在 *Sm* 之前的某个状态是 *Sm* 的实在原因，而 *Sb* 并不是 *Sm* 得以成立的因果因素。再假设史密斯有举起手臂的欲望（把这个心理状态称作 *Sm*），随之而来的是手臂的举起（把这个身体状态称作 *Sb*）——这是一例看似心灵到身体的因果作用。莱布尼茨会说：在这一情形中，史密斯身体在 *Sb* 之前的某个状态是 *Sb* 的实在原因，而 *Sm* 并不是 *Sb* 得以成立的因果因素。所以，尽管实体之间没有因果交互，它们的状态却相互配合，*仿佛*实体之间有因果交互一般。
+    step2: |-
+      按照莱布尼茨，看似真实存在的身心因果关系，在形而上学的实在中，其实是心灵与身体的相互符合或协调——符合第（3）条——其间既无交互，也无神助。例如，假设史密斯被针刺了一下（名此身体状态为 *Sb*），疼痛随之而来（名此心理状态为 *Sm*）——这是一例看似身体到心灵的因果作用。莱布尼茨会说：在此情形中，史密斯心灵（灵魂）在 *Sm* 之前的某个状态，才是 *Sm* 的实在原因；*Sb* 并非 *Sm* 得以成立的因果因素。再假设史密斯有举臂之欲（名此心理状态为 *Sm*），手臂随之举起（名此身体状态为 *Sb*）——这是一例看似心灵到身体的因果作用。莱布尼茨会说：在此情形中，史密斯身体在 *Sb* 之前的某个状态，才是 *Sb* 的实在原因；*Sm* 并非 *Sb* 得以成立的因果因素。故而，实体之间虽无因果交互，其状态却相互配合，*仿佛*实体之间果真有因果交互一般。
+  - id: 23
+    kind: body
+    source: |-
+      It should be noted, however, that Leibniz did think that there was a sense in which one could say that mental events influence bodily events and vice-versa. He wrote to Antoine Arnauld that although “one particular substance has no physical influence on another … nevertheless, one is quite right to say that my will is the cause of this movement of my arm …; for the one expresses distinctly what the other expresses more confusedly, and one must ascribe the action to the substance whose expression is more distinct” (28 November 1686 (draft); G II, 71/LA 87). In this passage, Leibniz sets forth what he takes the metaphysical reality of apparent inter-substantial causation to amount to. We begin with the thesis that every created substance perceives the entire universe, though only a portion of it is perceived distinctly, most of it being perceived unconsciously, and, hence, confusedly. Now consider two created substances, *x* and *y* (*x* not identical to *y*), where some state of *x* is said to be the cause of some state of *y*. Leibniz’s analysis is this: when the causal state of affairs occurred, the relevant perceptions of substance *x* became more distinct, while the relevant perceptions of substance *y* became more confused. Insofar as the relevant perceptions of *x* become increasingly distinct, it is “causally” active; insofar as the relevant perceptions of substance *y* become increasingly confused, it is passive. In general, causation is to be understood as an increase in distinctness on the part of the causally active substance and an increase in confusedness on the part of the passively affected substance. Again, each substance is programmed at creation to be active/passive at the relevant moment with no occurrence of real substantial interaction.
+    step1: |-
+      然而应当注意，莱布尼茨确实认为，在某种意义上可以说心理事件影响身体事件，反之亦然。他写给安托万·阿尔诺说：虽然“一个特定实体对另一个实体没有物理影响……但是，我们完全有理由说，我的意志是我手臂这一运动的原因……；因为一者分明地表现另一者较为混乱地表现的东西，必须把行动归于表现得更分明的那个实体”（1686 年 11 月 28 日（草稿）；G II, 71/LA 87）。在这一段落中，莱布尼茨阐明了：在他看来，看似实体间因果作用的东西在形而上学的实在中究竟是什么。我们从这样一个论题开始：每一个被造实体都知觉整个宇宙，尽管只有一部分被分明地知觉，大部分被无意识地、从而混乱地知觉。现在考虑两个被造实体 *x* 与 *y*（*x* 不等同于 *y*），其中 *x* 的某个状态据说是 *y* 的某个状态的原因。莱布尼茨的分析是：当因果事态发生时，实体 *x* 的相关知觉变得更分明，而实体 *y* 的相关知觉变得更混乱。就 *x* 的相关知觉变得越来越分明而言，它是“因果地”主动的；就实体 *y* 的相关知觉变得越来越混乱而言，它是被动的。一般地说，因果作用应理解为：因果地主动的实体一方分明星度的提高，被动受作用的实体一方混乱度的提高。同样，每个实体在创造时即被编程，在相关时刻作为主动者/被动者，其间没有任何真实的实体交互发生。
+    step2: |-
+      然而应当注意：莱布尼茨确实认为，在某种意义上可以说心理事件影响身体事件，反之亦然。他致信安托万·阿尔诺：虽然“一个特定实体对另一个实体没有物理影响……但是，我们完全有理由说，我的意志是我手臂这一运动的原因……；因为一者分明地表现另一者较为混乱地表现的东西，必须把行动归于表现得更分明的那个实体”（1686 年 11 月 28 日（草稿）；G II, 71/LA 87）。在这一段落中，莱布尼茨阐明：在他看来，看似实体间因果作用的东西，在形而上学的实在中究竟是什么。我们从这样一个论题开始：每一个被造实体都知觉整个宇宙——尽管只有一小部分被分明地知觉，大部分被无意识地、从而混乱地知觉。现在考虑两个被造实体 *x* 与 *y*（*x* 不等同于 *y*），其中 *x* 的某个状态据称为 *y* 的某个状态之原因。莱布尼茨的分析是：当因果事态发生时，实体 *x* 的相关知觉变得更分明，而实体 *y* 的相关知觉变得更混乱。就 *x* 的相关知觉日益分明而言，它是“因果地”主动的；就 *y* 的相关知觉日益混乱而言，它是被动的。一般地说，因果作用应理解为：因果地主动的实体一方分明星度提高，被动受作用的实体一方混乱度提高。同样，每个实体在受造之初即被编程：在相关时刻充当主动者/被动者，其间没有任何真实的实体交互发生。
+  - id: 24
+    kind: body
+    source: |-
+      It is difficult to say exactly why Leibniz denied inter-substantial causation. Some of the things he tells us, in both private and public writings, seem unsatisfactory. For example, in *Primary Truths* (1686?), we are given this:
+    step1: |-
+      很难确切说明莱布尼茨为何否认实体间因果作用。他在私人著述与公开著述中告诉我们的某些理由，似乎并不令人满意。例如，《第一真理》（1686?）给出的理由是：
+    step2: |-
+      莱布尼茨究竟为何否认实体间因果作用？确切答案殊难给出。他在私人著述与公开著述中给出的某些理由，似乎并不令人满意。例如，《第一真理》（1686?）给出的是：
+  - id: 25
+    kind: body
+    source: |-
+      > Strictly speaking, one can say that *no created substance exerts a metaphysical action or influx on any other thing*. For, not to mention the fact that one cannot explain how something can pass from one thing into the substance of another, we have already shown that from the notion of each and every thing follows all of its future states. What we call causes are only concurrent requisites, in metaphysical rigor. (C 521/A&G 33)
+    step1: |-
+      > 严格说来，可以说*没有任何被造实体对任何其他事物施加形而上学的行动或流入*。因为，姑且不提人们无法解释某物如何能从一物进入另一物的实体，我们已经表明：从每一事物的概念可以推出它的全部未来状态。在形而上学的严格意义上，我们所谓的原因只是并列的必要条件。（C 521/A&G 33）
+    step2: |-
+      > 严格说来，可以说*没有任何被造实体对任何其他事物施加形而上学的行动或流入*。姑且不提人们无法解释某物如何能从一物进入另一物之实体——我们已经表明：从每一事物的概念，可以推出它的全部未来状态。在形而上学的严格意义上，我们所谓的原因，只是并列的必要条件。（C 521/A&G 33）
+  - id: 26
+    kind: body
+    source: |-
+      Leibniz’s first reason for denying inter-substantial causation, that “one cannot explain how something can pass from one thing into the substance of another,” is a clear reference to the *influx theory* of causation. Leibniz found this theory inconsistent with his conception of substance. Influx theory could only explain causal relations between entities with parts, according to Leibniz. It is through these parts that “something can pass from one thing into … another.” But Leibnizian substances do not have parts in the requisite sense. (For more on influx theory, see O’Neil 1993.) Leibniz also gives a reason tied to his complete concept theory of substance, according to which “the nature of an individual substance or of a complete being is to have a notion so complete that it is sufficient to contain and to allow us to deduce from it all the predicates of the subject to which this notion is attributed” (*Discourse on Metaphysics*, sec. 8; (G IV, 433/A&G 41)). But there are, it seems, at least two problems with this explanation. First, Leibniz moves rather quickly from a conceptual explanation of substance in terms of the complete concept theory to the conclusion that this consideration is sufficient to explain the activity of concrete substances. Second, even if conceptual considerations about substances were sufficient to explain their apparent causal activity, it does not seem to follow that substances do not interact—unless one is assuming that causal overdetermination is not a genuine possibility. Leibniz seems to be assuming just that but without argument.
+    step1: |-
+      莱布尼茨否认实体间因果作用的第一条理由——“人们无法解释某物如何能从一物进入另一物的实体”——明确指向因果的*流入理论*。莱布尼茨认为这一理论与他的实体概念不一致。按照莱布尼茨，流入理论只能解释有部分的实体之间的因果关系。正是通过这些部分，“某物才能从一物进入……另一物”。但莱布尼茨式的实体在必需的意义上没有部分。（关于流入理论的更多内容，见 O’Neil 1993。）莱布尼茨还给出一个与他的实体完全概念理论相联系的理由。按照该理论，“一个个别实体或一个完全存在者的本性，在于拥有一个如此完全的概念，足以包含、并使我们能从中推出该概念所属主词的全部谓词”（《形而上学谈话》第 8 节；（G IV, 433/A&G 41））。但这一解释似乎至少有两个问题。第一，莱布尼茨相当快地从完全概念理论对实体的概念解释，跳到如下结论：这一考量足以解释具体实体的活动。第二，即便关于实体的概念考量足以解释它们看似的因果活动，似乎也得不出实体不交互——除非人们假定因果过度决定不是真正的可能性。莱布尼茨似乎正是这样假定，却未给出论证。
+    step2: |-
+      莱布尼茨否认实体间因果作用的第一条理由——“人们无法解释某物如何能从一物进入另一物的实体”——明确指向因果的*流入理论*（influx theory）。莱布尼茨认为该理论与他的实体概念不相容。照他看，流入理论只能解释有部分的实体之间的因果关系：正是经由这些部分，“某物才能从一物进入……另一物”。但莱布尼茨式的实体在必需的意义上没有部分。（流入理论详见 O’Neil 1993。）莱布尼茨还给出一条理由，系于其实体的完全概念理论。照该理论，“一个个别实体或一个完全存在者的本性，在于拥有一个如此完全的概念，足以包含、并使我们能从中推出该概念所属主词的全部谓词”（《形而上学谈话》第 8 节；（G IV, 433/A&G 41））。但这一解释似乎至少有两处疑难。第一，莱布尼茨相当轻率地从完全概念理论对实体的概念解释，跳到如下结论：这一考量足以解释具体实体的活动。第二，即便关于实体的概念考量足以解释它们看似的因果活动，似乎也推不出实体不交互——除非人们假定因果过度决定并非真正的可能性。莱布尼茨似乎正作如此假定，却未给出论证。
+  - id: 27
+    kind: body
+    source: |-
+      Sometimes Leibniz gives a more familiar line of reasoning. At *Monadology* 7, we read this:
+    step1: |-
+      有时莱布尼茨给出一条更为人熟悉的推理路线。《单子论》第 7 节写道：
+    step2: |-
+      有时莱布尼茨诉诸一条更为人熟悉的推理。《单子论》第 7 节写道：
+  - id: 28
+    kind: body
+    source: |-
+      > There is no way of explaining how a monad can be altered or changed internally by some other creature, since one cannot transpose anything in it, nor can one conceive of any internal motion that can be excited, directed, augmented, or diminished within it, as can be done in composites, where there can be change among the parts. The monads have no windows through which something can enter or leave. Accidents cannot be detached, nor can they go about outside of substances, as the sensible species of the Scholastics once did. Thus, neither substance nor accident can enter a monad from without. (G VI, 607/A&G 213f.)
+    step1: |-
+      > 无法解释一个单子如何能被其他受造物从内部改变或变更，因为人们不能在它里面移换任何东西，也不能设想任何能在它里面被激发、被引导、被增强或被减弱的内部运动——复合物中可以做到这一点，因为其中部分之间可以有变化。单子没有窗户，任何东西都不能借此进入或出去。偶性不能脱离，也不能在实体之外游荡，如同经院学者们曾经认为的可感种相那样。因此，无论实体还是偶性，都不能从外部进入一个单子。（G VI, 607/A&G 213f.）
+    step2: |-
+      > 无法解释一个单子如何能被其他受造物从内部改变或变更：人们不能在它里面移换任何东西，也不能设想任何能在它里面被激发、引导、增强或减弱的内部运动——复合物中可以如此，因为其部分之间可以有变化。单子没有窗户，任何东西都无法借之出入。偶性不能被剥离，也不能如经院学者曾经设想的可感种相那样在实体之外游荡。故而，无论实体还是偶性，都不能从外部进入一个单子。（G VI, 607/A&G 213f.）
+  - id: 29
+    kind: body
+    source: |-
+      He seems to think that causal interaction between two beings requires the transmission or transposition of the parts of those beings. But substances are simple unextended entities which contain no parts. Thus, there is no way to explain how one substance could influence another. Unfortunately, however, this line of reasoning would seem to also rule out one case of inter-substantial causation which Leibniz allows, viz., God’s concurrent causal action on finite simple substances.
+    step1: |-
+      他似乎认为：两个存在者之间的因果交互，要求这两个存在者的部分之传递或移换。但实体是单纯的非广延实体，不包含部分。因此，没有办法解释一个实体如何能影响另一个实体。然而遗憾的是，这条推理路线似乎也会排除莱布尼茨所允许的一例实体间因果作用，即上帝对有限单纯实体的并行因果作用。
+    step2: |-
+      他似乎认为：两个存在者之间的因果交互，要求二者部分的传递或移换。但实体是单纯的非广延实体，不包含部分。因此，一个实体如何能影响另一个实体，无从解释。然而遗憾的是，这条推理路线似乎也会排除莱布尼茨所允许的一例实体间因果作用——上帝对有限单纯实体的并行因果作用。
+  - id: 30
+    kind: body
+    source: |-
+      ## 3. Language and Mind
+    step1: |-
+      ## 3 语言与心灵
+    step2: |-
+      ## 3 语言与心灵
+  - id: 31
+    kind: body
+    source: |-
+      Some scholars have suggested that Leibniz should be regarded as one of the first thinkers to envision something like the idea of artificial intelligence (cf. Churchland 1984; Pratt 1987)[^churchland-1984][^pratt-1987]. Whether or not he should be regarded as such, it is clear that Leibniz, like contemporary cognitive scientists, saw an intimate connection between the form and content of language, and the operations of the mind. Indeed, according to his own testimony in the *New Essays*, he “really believe[s] that languages are the best mirror of the human mind, and that a precise analysis of the signification of words would tell us more than anything else about the operations of the understanding” (bk.III, ch.7, sec.6 (RB, 333)). This view of Leibniz’s led him to formulate a plan for a “universal language,” an artificial language composed of symbols, which would stand for concepts or ideas, and logical rules for their valid manipulation. He believed that such a language would perfectly mirror the processes of intelligible human reasoning. It is this plan that has led some to believe that Leibniz came close to anticipating artificial intelligence. At any rate, Leibniz’s writings about this project (which, it should be noted, he never got the chance to actualize) reveal significant insights into his understanding of the nature of human reasoning. This understanding, it turns out, is not that different from contemporary conceptions of the mind, as many of his discussions bear considerable relevance to discussions in the cognitive sciences.
+    step1: |-
+      一些学者提出，莱布尼茨应被视为最早构想出某种人工智能观念的思想家之一（参见 Churchland 1984; Pratt 1987）[^churchland-1984][^pratt-1987]。无论他是否应被如此看待，显然，莱布尼茨与当代认知科学家一样，看到了语言的形式与内容和心灵的运作之间的密切联系。确实，按照他在《人类理智新论》中的自述，他“真正相信语言是人类心灵最好的镜子，对词语意义的精确分析比任何东西都更能告诉我们理智的运作”（第三卷第 7 章第 6 节（RB, 333））。莱布尼茨的这一观点促使他制定了一个“普遍语言”的方案：一种由符号构成的人工语言，符号代表概念或观念，并附有对它们进行有效操作的逻辑规则。他相信这样一种语言会完美地映照人类可理智推理的过程。正是这个方案使一些人相信莱布尼茨几乎预见了人工智能。无论如何，莱布尼茨关于这一工程的著述（应当指出，他从未有机会将其付诸实现）揭示了他对人类推理本性的理解中的重要洞见。事实证明，这一理解与当代心灵概念相去不远，因为他的许多讨论与认知科学中的讨论有相当大的关联。
+    step2: |-
+      一些学者提出：莱布尼茨应被视为最早构想出某种人工智能观念的思想家之一（参见 Churchland 1984; Pratt 1987）[^churchland-1984][^pratt-1987]。无论他是否当得起这一评价，显然，莱布尼茨与当代认知科学家一样，看到了语言的形式与内容同心灵运作之间的密切联系。诚然，照他在《人类理智新论》中的自述，他“真正相信语言是人类心灵最好的镜子，对词语意义的精确分析，比任何东西都更能告诉我们理智的运作”（第三卷第 7 章第 6 节（RB, 333））。这一观点促使莱布尼茨制定“普遍语言”的方案：一种由符号构成的人工语言——符号代表概念或观念，并附有对其作有效操作的逻辑规则。他相信，这样的语言会完美映照人类可理智推理的过程。正是这个方案，使一些人相信莱布尼茨几乎预见了人工智能。无论如何，莱布尼茨关于该工程的著述（应当指出，他从未有机会将其付诸实现）揭示了他对人类推理本性之理解的重要洞见。事实证明，这一理解与当代心灵概念相去不远：他的许多讨论，同认知科学的讨论有相当大的关联。
+  - id: 32
+    kind: body
+    source: |-
+      According to Leibniz, natural language, despite its powerful resources for communication, often makes reasoning obscure since it is an imperfect mirror of intelligible thoughts. As a result, it is often difficult to reason with the apparatus of natural language, “since it is full of innumerable equivocations” (*On the Universal Science: Characteristic* (undated); G VII, 205/S 18). Perhaps this is because of his view that the terms of natural language stand for complex, or derivative, concepts—concepts which are composed of, and reducible to, simpler concepts. With this “combinatorial” view of concepts in hand, Leibniz notices “that all human ideas can be resolved into a few as their primitives” (*On the Universal Science: Characteristic*; G VII, 205/S 18). We could then assign symbols, or “characters,” to these primitive concepts from which we could form characters for derivative concepts by means of combinations of the symbols. As a result, Leibniz tells us, “it would be possible to find correct definitions and values and, hence, also the properties which are demonstrably implied in the definitions” (*On the Universal Science: Characteristic*; G VII, 205/S 19). The totality of these symbols would form a “universal characteristic,” an ideal language in which all human concepts would be perfectly represented, and their constitutive nature perfectly transparent. Now it is true that Leibniz eventually came to doubt “whether any concept of this [primitive] kind appears distinctly to men, namely, in such a way that they know they have it” (*An Introduction to a Secret Encyclopedia* (1679?); C 513/MP 7). But it is also clear that he did not see this skepticism concerning our ability to reach the primitive concepts as much of a barrier to the project of a universal language. He writes in *The Art of Discovery* (1685) that “there are certain primitive terms which can be posited, if not absolutely, at least relatively to us” (C 176/W 51). The suggestion seems to be that even if we cannot provide a catalog of absolutely primitive concepts, we can nevertheless construct a characteristic based on concepts which cannot be further resolved *by humans*.
+    step1: |-
+      按照莱布尼茨，自然语言尽管具有强大的交流资源，却常常使推理变得晦暗，因为它是可理智思想的一面不完善的镜子。结果，用自然语言的工具进行推理常常是困难的，“因为它充满无数歧义”（《论普遍科学：文字》（未注明日期）；G VII, 205/S 18）。也许这是因为他的如下观点：自然语言的词项代表复合的或派生的概念——那些由更简单的概念构成并可还原为更简单概念的概念。手握这种“组合式”的概念观，莱布尼茨注意到“所有人观念都可以被分解为少数作为其初始要素的观念”（《论普遍科学：文字》；G VII, 205/S 18）。于是我们可以为这些初始概念指定符号或“文字”，并经由符号的组合，为派生概念构造文字。结果，莱布尼茨告诉我们，“将有可能找到正确的定义与值，从而也找到可证明地蕴含于定义之中的性质”（《论普遍科学：文字》；G VII, 205/S 19）。这些符号的总体将构成一种“普遍文字”——一种理想语言，其中一切人类概念都得到完美的再现，其构造本性完美透明。诚然，莱布尼茨最终开始怀疑“是否有任何这类[初始]概念对人显得分明，即分明到人们知道自己拥有它”（《秘密百科全书导论》（1679?）；C 513/MP 7）。但同样清楚的是，他并不认为这种关于我们能否达到初始概念的怀疑是普遍语言工程的太大障碍。他在《发现的艺术》（1685）中写道：“有某些初始词项可以被设定，即便不是绝对的，至少是相对于我们而言的”（C 176/W 51）。这建议似乎是：即便我们不能提供绝对初始概念的目录，我们仍然能够构造一种文字，其依据是*对人类而言*不能再分解的概念。
+    step2: |-
+      按照莱布尼茨，自然语言尽管交流资源强大，却常使推理晦暗——因为它是可理智思想的一面不完善的镜子。结果，用自然语言的工具进行推理常常很困难，“因为它充满无数歧义”（《论普遍科学：文字》（未注明日期）；G VII, 205/S 18）。这也许缘于他的如下观点：自然语言的词项代表复合的或派生的概念——由更简单的概念构成、并可还原为更简单概念的概念。手握这种“组合式”概念观，莱布尼茨注意到：“所有人观念都可以被分解为少数作为其初始要素的观念”（《论普遍科学：文字》；G VII, 205/S 18）。于是，我们可以为这些初始概念指定符号或“文字”，并经由符号的组合，为派生概念构造文字。如此，莱布尼茨告诉我们，“将有可能找到正确的定义与值，从而也找到可证明地蕴含于定义之中的性质”（《论普遍科学：文字》；G VII, 205/S 19）。这些符号的总体将构成一种“普遍文字”（universal characteristic）——一种理想语言：一切人类概念在其中得到完美再现，其构造本性完美透明。诚然，莱布尼茨最终开始怀疑：“是否有任何这类[初始]概念对人显得分明，即分明到人们知道自己拥有它”（《秘密百科全书导论》（1679?）；C 513/MP 7）。但同样清楚的是：他并不认为这种关于我们能否企及初始概念的怀疑，是普遍语言工程的太大障碍。他在《发现的艺术》（1685）中写道：“有某些初始词项可以被设定——即便不是绝对的，至少是相对于我们而言的”（C 176/W 51）。这番话的旨趣似乎是：即便我们不能提供绝对初始概念的目录，我们仍能构造一种文字，其依据是*对人类而言*不能再分解的概念。
+  - id: 33
+    kind: body
+    source: |-
+      In addition to the resolution of concepts, and their symbolic assignments, Leibniz envisages the formulation of logical rules for the universal characteristic. He claims that “it is plain that men make use in reasoning of several axioms which are not yet quite certain” (*The Method of Certitude and the Art of Discovery* (undated); G VII, 183/W 49). Yet with the explicit formulation of these rules for the logical manipulation of the symbols—rules which humans use in reasoning—we would be in possession of a universal language which would mirror the relations between the concepts used in human reasoning. Indeed, the universal characteristic was intended by Leibniz as an instrument for the effective calculation of truths. Like formal logic systems, it would be a language capable of representing valid reasoning patterns by means of the use of symbols. Unlike formal logic systems, however, the universal language would also express the content of human reasoning in addition to its formal structure. In Leibniz’s mind, “this language will be the greatest instrument of reason,” for “when there are disputes among persons, we can simply say: Let us calculate, without further ado, and see who is right” (*The Art of Discovery* (1685); C 176/W 51).
+    step1: |-
+      除概念的分解与符号指定之外，莱布尼茨还设想为普遍文字制定逻辑规则。他声称“显而易见，人们在推理中使用若干尚不完全确定的公理”（《确定性的方法与发现的艺术》（未注明日期）；G VII, 183/W 49）。然而，一旦把这些用于符号之逻辑操作的规则——即人类推理中使用的规则——明确地表述出来，我们就会拥有一种普遍语言，它将映照人类推理所用概念之间的关系。确实，莱布尼茨把普遍文字设想为有效计算真理的工具。像形式逻辑系统一样，它将是一种能够借助符号的使用来再现有效推理模式的语言。但与形式逻辑系统不同，普遍语言除形式结构外，还将表达人类推理的内容。在莱布尼茨心目中，“这种语言将是理性的最大工具”，因为“当人们之间有争论时，我们只需说：让我们来计算吧，不必再费口舌，看看谁对”（《发现的艺术》（1685）；C 176/W 51）。
+    step2: |-
+      除概念的分解与符号指定之外，莱布尼茨还设想为普遍文字制定逻辑规则。他声称：“显而易见，人们在推理中使用若干尚不完全确定的公理”（《确定性的方法与发现的艺术》（未注明日期）；G VII, 183/W 49）。然而，一旦把这些规则——人类推理中所使用的符号逻辑操作规则——明确表述出来，我们便会拥有一种普遍语言，映照人类推理所用概念之间的关系。诚然，莱布尼茨把普遍文字设想为有效计算真理的工具：像形式逻辑系统一样，它是能借符号之使用来再现有效推理模式的语言；但不同于形式逻辑系统，普遍语言除形式结构外，还将表达人类推理的内容。在莱布尼茨心目中，“这种语言将是理性的最大工具”——因为“当人们之间有争论时，我们只需说：让我们来计算吧，不必再费口舌，看看谁对”（《发现的艺术》（1685）；C 176/W 51）。
+  - id: 34
+    kind: body
+    source: |-
+      Judging from Leibniz’s plans for a universal language, it is clear that Leibniz had a specific view about the nature of human cognitive processes, particularly about the nature of human reasoning. According to this view, cognition is essentially symbolic: it takes place in a system of representations which possesses language-like structure. Indeed, it was Leibniz’s view that “all human reasoning uses certain signs or characters,” (*On the Universal Science: Characteristic*; G VII, 204/S 17) and “if there were no characters, we could neither think of anything distinctly nor reason about it” (*Dialogue* (1677); G VII, 191/A&G 271)). Add to this conception Leibniz’s view that human cognitive processes follow determinable axioms of logic, and the picture that emerges is one according to which the mind operates, at least when it comes to intelligible reasoning, by following implicit algorithmic procedures. Regardless of whether or not Leibniz should be seen as the grandfather of artificial intelligence, he did conceive of human cognition in essentially computational terms. In fact, as early as 1666, remarking favorably on Hobbes’ writings, Leibniz wrote: “Thomas Hobbes, everywhere a profound examiner of principles, rightly stated that everything done by our mind is a *computation*” (*On the Art of Combinations* (1666); G IV, 64/P 3).
+    step1: |-
+      从莱布尼茨关于普遍语言的方案来看，显然，他对人类认知过程的性质、特别是对人类推理的性质持有特定的观点。按照这种观点，认知本质上是符号性的：它发生在一个具有类语言结构的再现系统中。确实，莱布尼茨的观点是：“一切人类推理都使用某些符号或文字”（《论普遍科学：文字》；G VII, 204/S 17），并且“如果没有文字，我们既不能分明地思考任何东西，也不能对它进行推理”（《对话》（1677）；G VII, 191/A&G 271）。在这一概念之上，再加上莱布尼茨的观点——人类认知过程遵循可确定的逻辑公理——浮现出来的图景便是：心灵至少在涉及可理智推理时，遵循隐式的算法程序运作。无论莱布尼茨是否应被看作人工智能的祖父，他确实以本质上是计算的术语构想人类认知。事实上，早在 1666 年，莱布尼茨就在赞许地评论霍布斯的著作时写道：“托马斯·霍布斯到处都是原则的深刻审察者，他正确地指出：我们心灵所做的一切都是一种*计算*”（《论组合术》（1666）；G IV, 64/P 3）。
+    step2: |-
+      从莱布尼茨的普遍语言方案看，显然，他对人类认知过程的性质——尤其是人类推理的性质——持有特定观点。照这种观点，认知本质上是符号性的：它发生在一个具有类语言结构的再现系统之中。诚然，莱布尼茨主张：“一切人类推理都使用某些符号或文字”（《论普遍科学：文字》；G VII, 204/S 17）；“如果没有文字，我们既不能分明地思考任何东西，也不能对它进行推理”（《对话》（1677）；G VII, 191/A&G 271）。在此概念之上，再加莱布尼茨的观点——人类认知过程遵循可确定的逻辑公理——浮现出的图景便是：心灵至少在可理智推理之时，遵循隐式的算法程序运作。无论莱布尼茨是否当得起人工智能的祖父之名，他确实以本质上是计算的术语构想人类认知。事实上，早在 1666 年，莱布尼茨就在赞许地评论霍布斯著作时写道：“托马斯·霍布斯到处都是原则的深刻审察者，他正确地指出：我们心灵所做的一切都是一种*计算*”（《论组合术》（1666）；G IV, 64/P 3）。
+  - id: 35
+    kind: body
+    source: |-
+      ## 4. Perception and Appetition
+    step1: |-
+      ## 4 知觉与欲求
+    step2: |-
+      ## 4 知觉与欲求
+  - id: 36
+    kind: body
+    source: |-
+      What do we find in the human mind? Representations on the one hand, and tendencies, inclinations, or strivings on the other, according to Leibniz. Or, to put this in Leibniz’s more customary terminology, what is found within us is perception and appetition. Human minds count for Leibniz as simple substances, and, as he says in a letter to De Volder of 30 June 1704, “it may be said that there is nothing in the world except simple substances, and, in them, perception and appetite” (G II, 270/A&G 181).
+    step1: |-
+      在人类心灵中我们发现了什么？按照莱布尼茨，一边是再现，另一边是倾向、爱好或奋力。或者用莱布尼茨更惯用的术语说，在我们之内发现的是知觉与欲求。在莱布尼茨那里，人类心灵算作单纯实体；正如他在 1704 年 6 月 30 日致德伏尔德的信中所说：“可以说，世界上除了单纯实体，以及在它们之中的知觉与欲求，别无他物”（G II, 270/A&G 181）。
+    step2: |-
+      在人类心灵中，我们发现了什么？照莱布尼茨：一边是再现；另一边是倾向、爱好或奋力。或者用他更惯用的术语说：在我们之内发现的，是知觉与欲求。人类心灵在莱布尼茨那里算作单纯实体。正如他在 1704 年 6 月 30 日致德伏尔德的信中所言：“可以说，世界上除了单纯实体，以及在它们之中的知觉与欲求，别无他物”（G II, 270/A&G 181）。
+  - id: 37
+    kind: body
+    source: |-
+      Perception has already been discussed briefly above. But it will be advisable to consider also a definition from a letter to Des Bosses (and echoed in many other passages) in which Leibniz discusses perception as the representation or “expression” of “the many in the one” (letter to Des Bosses, 11 July 1706; G II, 311). We shall return to this definition below. Appetitions are explained as “tendencies from one perception to another” (*Principles of Nature and Grace,* sec.2 (1714); G VI, 598/A&G 207). Thus, we represent the world in our perceptions, and these representations are linked with an internal principle of activity and change (*Monadology*, sec.15 (1714); G VI, 609/A&G 215) which, in its expression in appetitions, urges us ever onward in the constantly changing flow of mental life. More technically explained, the principle of action, that is, the primitive force which is our essence, expresses itself in momentary derivative forces involving two aspects: on the one hand, there is a representative aspect (perception), by which the many without are expressed within the one, the simple substance; on the other, there is a dynamical aspect, a tendency or striving towards new perceptions, which inclines us to change our representative state, to move towards new perceptions. (For more details, see Carlin 2004 and Jorati 2017.)[^carlin-2004][^jorati-2017]
+    step1: |-
+      知觉已在上文简要讨论。但最好再考虑来自致德博斯信中的另一个定义（在其他许多段落中也有回响）：莱布尼茨把知觉讨论为“多在一中”的再现或“表现”（致德博斯信，1706 年 7 月 11 日；G II, 311）。下文将回到这个定义。欲求被解释为“从一个知觉到另一个知觉的倾向”（《自然与神恩的原则》第 2 节（1714）；G VI, 598/A&G 207）。因此，我们在知觉中再现世界，而这些再现与一个活动和变化的内在原则相联系（《单子论》第 15 节（1714）；G VI, 609/A&G 215）——该原则在欲求中的表现，推动我们在不断变化的心理生活之流中前行。更技术性地解释，行动的原则——即作为我们本质的原始力——在涉及时刻派生力中表现自身，后者包含两个方面：一方面，有一个再现性的方面（知觉），借此，外在的多在单一体即单纯实体之内得到表现；另一方面，有一个动态的方面，即朝向新知觉的倾向或奋力，它使我们倾向于改变再现状态，走向新的知觉。（更多细节，见 Carlin 2004 与 Jorati 2017。）[^carlin-2004][^jorati-2017]
+    step2: |-
+      知觉已在上文简要讨论；但最好再考虑来自致德博斯信中的另一个定义（在其他许多段落中亦有回响）：莱布尼茨把知觉讨论为“多在一中”的再现或“表现”（致德博斯信，1706 年 7 月 11 日；G II, 311）。下文将回到这个定义。欲求则被解释为“从一个知觉到另一个知觉的倾向”（《自然与神恩的原则》第 2 节（1714）；G VI, 598/A&G 207）。于是，我们在知觉中再现世界；这些再现又同一个活动与变化的内在原则相联系（《单子论》第 15 节（1714）；G VI, 609/A&G 215）——该原则在欲求中的表现，推动我们在不断流变的心理生活中前行。更技术性地说：行动的原则——即作为我们本质的原始力——在诸时刻性派生力中表现自身；派生力涉及两个方面：其一，再现性的方面（知觉）——借此，外在的多在单一体即单纯实体之内得到表现；其二，动态的方面——朝向新知觉的倾向或奋力，使我们倾向于改变再现状态、走向新的知觉。（细节见 Carlin 2004 与 Jorati 2017。）[^carlin-2004][^jorati-2017]
+  - id: 38
+    kind: body
+    source: |-
+      It should not be inferred that this appetitive tendency to change is entirely governed by efficient causation only. For in Leibniz’s view, value and final causes are not excluded from the action of the mind, the change of mental states. As he says in section 13 of the *Discourse on Metaphysics* (1686), just as “God will always do the best, … a man shall always do … that which appears to him to be the best” (G IV, 438/A&G 46). Appearance, of course, has to do with perception; doing, with appetition. So this principle of human action applies directly, as one would expect, to the two key factors of monadic interior life, only with the role of value, or an end in view, now more clearly in focus. This is why Leibniz says that, at the level of bodies (that is, for Leibniz, at the level of well-founded phenomena), all occurs according to the laws of efficient causes; whereas with respect to perceptions and appetites (or at least with some of these—interpretations differ here) all occurs according to the laws of final causes. And although both types of causation can be found at both levels (cf. Carlin 2006)[^carlin-2006], there is no clash here given the harmony of final and efficient causes in Leibniz’s system.
+    step1: |-
+      不应由此推断：这种趋向变化的欲求倾向完全只受动力因的支配。因为在莱布尼茨看来，价值与目的因并没有被排除在心灵的活动、心理状态的变化之外。正如他在《形而上学谈话》第 13 节（1686）所说，正如“上帝将永远做最好的事情，……人也总是做……在他看来最好的事情”（G IV, 438/A&G 46）。显现当然与知觉有关；做与欲求有关。因此，正如人们所期待的，这条人类行动的原则直接适用于单子内在生活的两个关键因素——只是价值或所思目的的角色如今更清晰地聚焦。这正是为什么莱布尼茨说，在物体的层面（对莱布尼茨来说，即有根基的现象的层面），一切都依照动力因的法则发生；而就知觉与欲求而言（或者至少就其中一些而言——这里的解释有分歧），一切都依照目的因的法则发生。虽然两类因果作用都可以在两个层面找到（参见 Carlin 2006）[^carlin-2006]，但鉴于莱布尼茨体系中目的因与动力因的和谐，这里并没有冲突。
+    step2: |-
+      不应由此推断：这种趋向变化的欲求倾向，完全只受动力因支配。因为在莱布尼茨看来，价值与目的因并没有被排除在心灵的活动——心理状态的变化——之外。正如他在《形而上学谈话》第 13 节（1686）所说：正如“上帝将永远做最好的事情，……人也总是做……在他看来最好的事情”（G IV, 438/A&G 46）。显现，当然关乎知觉；做，关乎欲求。故而，一如所期，这条人类行动原则直接适用于单子内在生活的两个关键因素——只是价值或所思目的的角色，如今更清晰地聚焦。这正是莱布尼茨说下述话的原因：在物体的层面（对莱布尼茨而言，即有根基的现象的层面），一切都依动力因的法则发生；而就知觉与欲求而言（或者至少其中一些——此处解释有分歧），一切都依目的因的法则发生。虽然两类因果作用皆可见于两个层面（参见 Carlin 2006）[^carlin-2006]，但鉴于莱布尼茨体系中目的因与动力因的和谐，这里并无冲突。
+  - id: 39
+    kind: body
+    source: |-
+      To be sure, at an ultimate level, the only actions of substances *are* changes of perceptions. Thus, at the ultimate level, the appetitions are not so much the tendencies impelling a person towards voluntary motions of the human body (although at the level of well-founded phenomena this may indeed be the case) but rather tendencies arising out of present perceptions (present appearances) towards new perceptions. This explains why Leibniz defines appetitions in the initially surprising way noted above, as “tendencies from one perception to *another*”—another *perception*, that is.
+    step1: |-
+      的确，在终极层面，实体的唯一行动*就是*知觉的变化。因此，在终极层面，欲求与其说是推动人做出人体自愿运动的倾向（尽管在有根基现象的层面这也许确实是情形），不如说是从当下知觉（当下显现）产生、朝向新知觉的倾向。这解释了为什么莱布尼茨以上文初看令人惊讶的方式定义欲求：即“从一个知觉到*另一个*知觉的倾向”——另一个*知觉*。
+    step2: |-
+      的确，在终极层面，实体的唯一行动*就是*知觉的变化。故在终极层面，欲求与其说是推动人做出人体自愿运动的倾向（尽管在有根基现象的层面，这也许确实是情形），不如说是从当下知觉（当下显现）生出、朝向新知觉的倾向。这便解释了：莱布尼茨为何以上文初看令人惊讶的方式定义欲求——即“从一个知觉到*另一个*知觉的倾向”。所谓*另一个*，指的是另一个*知觉*。
+  - id: 40
+    kind: body
+    source: |-
+      The last two paragraphs have helped to clarify appetition. It is time to return to perception. In Leibniz’s definition (the expression of the many in the one) the two key terms are “expression” and “one.” Both of them bear considerable weight in Leibniz’s metaphysics. Representation or expression (Leibniz uses the two terms interchangeably) has its own definition: “One thing expresses another … when there is a constant and regulated relation between what can be said of the one and of the other” (letter to Arnauld, 9 October 1687; G II, 112/LA 144). Examples, in addition to perception, include a map expressing or representing a geographical region and an algebraic equation representing or expressing a geometric figure, such as a circle or an ellipse.
+    step1: |-
+      前两段有助于澄清欲求。现在是回到知觉的时候了。在莱布尼茨的定义（多在一中的表现）中，两个关键术语是“表现”与“一”。二者在莱布尼茨的形而上学中都举足轻重。再现或表现（莱布尼茨交替使用这两个术语）自有其定义：“当一个东西上可说的与另一个东西上可说的之间存在恒常而有规则的关系时，一个东西就表现另一个东西”（致阿尔诺信，1687 年 10 月 9 日；G II, 112/LA 144）。除知觉之外的例子包括：地图表现或再现一个地理区域，代数方程再现或表现一个几何图形，如圆或椭圆。
+    step2: |-
+      前两段有助于澄清欲求；现在该回到知觉了。在莱布尼茨的定义（多在一中之表现）中，两个关键术语是“表现”与“一”。二者在莱布尼茨的形而上学中都举足轻重。再现或表现（莱布尼茨交替使用这两个术语）自有其定义：“当一个东西上可说的与另一个东西上可说的之间，存在恒常而有规则的关系时，一个东西就表现另一个东西”（致阿尔诺信，1687 年 10 月 9 日；G II, 112/LA 144）。除知觉之外的例子还有：地图表现或再现一个地理区域；代数方程再现或表现一个几何图形——如圆或椭圆。
+  - id: 41
+    kind: body
+    source: |-
+      As we saw in the first section, with respect to oneness, Leibniz famously claims that only something with true unity is truly real. For Leibniz, what truly *is* is substance, so it is not surprising that at one point he clarifies his definition of perception by saying that perception is “the expression of many things in one, *or in simple substance*” (*A New Method of Learning and Teaching Jurisprudence*, revision notes of 1697–1700; A VI, i, 272/L 91).
+    step1: |-
+      如我们在第一节所见，关于“一”，莱布尼茨的著名主张是：唯有拥有真实统一性的东西才是真实实在的。对莱布尼茨来说，真实*存在*的是实体；因此毫不奇怪，他曾在某处澄清知觉的定义，说知觉是“多在一中之表现，*或在单纯实体中之表现*”（《学习和讲授法学的新方法》1697–1700 年修订笔记；A VI, i, 272/L 91）。
+    step2: |-
+      如第一节所见，关于“一”，莱布尼茨的著名主张是：唯有拥有真实统一性的东西，才是真实实在的。对莱布尼茨来说，真实*存在*的是实体。因此毫不奇怪，他曾在某处澄清知觉的定义：知觉是“多在一中之表现，*或在单纯实体中之表现*”（《学习和讲授法学的新方法》1697–1700 年修订笔记；A VI, i, 272/L 91）。
+  - id: 42
+    kind: body
+    source: |-
+      Finally, it should be recalled that for Leibniz there are quite distinct levels of perception among created substances. Some of these will be taken up in more detail in the following section, but the basic point for now is that the three major levels, from the lowest to the highest, are bare perception (without special distinctness or memory), sensation (with heightened distinctness and memory), and thought (with distinctness, memory, and reflection). These are distinctive of the three levels of monads, respectively, the bare monads, souls, and spirits. Only the last of these may properly be said to have reason. Only the last of these is strictly a mind in the Leibnizian classification.
+    step1: |-
+      最后应当记得，对莱布尼茨来说，被造实体中有颇为不同的知觉层级。其中一些将在下一节更详细地讨论，但现在的基本要点是：从最低到最高的三个主要层级是赤裸知觉（没有特别的分明性与记忆）、感觉（有更强的分明性与记忆）与思想（有分明性、记忆与反省）。它们分别是三个层级单子的特征：赤裸单子、灵魂与精神。只有最后一种才可以说恰当地拥有理性。只有最后一种在莱布尼茨的分类中才是严格意义的心灵。
+    step2: |-
+      最后应当记得：对莱布尼茨而言，被造实体中有颇为不同的知觉层级。其中一些将在下一节细论；眼下要义是：从最低到最高的三个主要层级，分别是赤裸知觉（无特别的分明性与记忆）、感觉（有更强的分明性与记忆）、思想（有分明性、记忆与反省）。它们分别是三个层级单子的特征：赤裸单子、灵魂、精神。唯最后一种可以说恰当地拥有理性；唯最后一种在莱布尼茨的分类中，才是严格意义的心灵。
+  - id: 43
+    kind: body
+    source: |-
+      ## 5. Apperception, Desire and the Unconscious
+    step1: |-
+      ## 5 统觉、欲望与无意识
+    step2: |-
+      ## 5 统觉、欲望与无意识
+  - id: 44
+    kind: body
+    source: |-
+      One of the better-known terms of Leibniz’s philosophy, and of his philosophy of mind, is “apperception.” A famous definition is presented in section 4 of the *Principles of Nature and of Grace* (1714), where Leibniz says that apperception is “*consciousness*, or the reflective knowledge of this internal state.” He adds that this is “something not given to all souls, nor at all times to a given soul” (G VI, 600/A&G 208).
+    step1: |-
+      莱布尼茨哲学——以及他的心灵哲学——中较为人知的术语之一是“统觉”。一个著名的定义见于《自然与神恩的原则》（1714）第 4 节：莱布尼茨说，统觉是“*意识*，或对这一内部状态的反省知识”。他补充说，这是“并非所有灵魂都拥有的东西，也不是一个给定的灵魂在所有时候都拥有的东西”（G VI, 600/A&G 208）。
+    step2: |-
+      莱布尼茨哲学——以及其心灵哲学——中较为人知的术语之一，是“统觉”（apperception）。一个著名的定义见于《自然与神恩的原则》（1714）第 4 节：莱布尼茨说，统觉是“*意识*，或对这一内部状态的反省知识”。他补充道：这是“并非所有灵魂都拥有的东西，也不是一个给定的灵魂在所有时候都拥有的东西”（G VI, 600/A&G 208）。
+  - id: 45
+    kind: body
+    source: |-
+      Despite being well known, Leibniz’s concept of apperception is not necessarily well understood. In particular, the place of apperception in the three-fold classifications given at the end of the previous section—of three kinds of perceptions and of simple substances—is not agreed upon, despite the fact that this would seem to be of considerable importance. (See Kulstad 1991a for discussion.)[^kulstad-1991a] A common understanding is that for Leibniz apperception is distinctive of spirits and is not present in even the highest of animals beneath humans. While there is evidence that Leibniz at least sometimes adopts this position, there is also evidence that he sometimes endorses the view that (at least some) beasts also apperceive. Since we may assume that at a minimum apperception involves consciousness (though not necessarily certain higher forms of consciousness, e.g., self-consciousness, or reflective consciousness, in one sense or another), this leads to some uncertainty as to whether Leibniz assigns consciousness to beasts, that is, whether he does or does not agree with the famous Cartesian principle that beasts are not conscious but only material automata.
+    step1: |-
+      尽管广为人知，莱布尼茨的统觉概念并不必然被很好地理解。特别是，统觉在上一节末尾给出的三重分类——三种知觉与单纯实体——中的位置尚无共识，尽管这一点似乎相当重要。（讨论见 Kulstad 1991a。）[^kulstad-1991a]一种常见的理解是：对莱布尼茨来说，统觉是精神的专属特征，人类之下的最高等动物也不具备。虽然有证据表明莱布尼茨至少有时采取这一立场，但也有证据表明他有时赞同（至少某些）野兽也能统觉的观点。既然我们可以假定统觉至少涉及意识（尽管不必涉及某些更高形式的意识，例如某种意义上的自我意识或反省意识），这就带来了一些不确定性：莱布尼茨是否把意识归于野兽，也就是说，他究竟是否同意那个著名的笛卡尔原则——野兽没有意识，只是物质的自动机。
+    step2: |-
+      尽管广为人知，莱布尼茨的统觉概念并不必然得到很好的理解。特别是：统觉在上一节末尾给出的三重分类——三种知觉与单纯实体——中究竟居于何处，尚无共识，尽管此事似乎相当重要。（讨论见 Kulstad 1991a。）[^kulstad-1991a]一种常见的理解是：对莱布尼茨而言，统觉是精神的专属特征，人类之下的最高等动物也不具备。虽然有证据表明莱布尼茨至少有时采取这一立场，但也有证据表明他有时赞同（至少某些）野兽也能统觉的观点。既然我们可以假定统觉至少涉及意识——尽管不必涉及某些更高形式的意识，例如某种意义上的自我意识或反省意识——这就带来一层不确定：莱布尼茨是否把意识归于野兽？换言之，他究竟是否同意那个著名的笛卡尔原则——野兽没有意识，只是物质的自动机？
+  - id: 46
+    kind: body
+    source: |-
+      There are at least three specific lines of evidence for apperception in beasts. The first is that Leibniz sometimes uses very similar definitions and examples when talking about the contrast between, on the one hand, apperceptions and *petites* perceptions (perceptions which are not apperceived), and, on the other, sensation and bare perceptions. This suggests, though it does not demonstrate, that Leibniz is identifying apperception and sensation, not apperception and rational thought. The second line of evidence is that he often appears to take the side of the common man against Descartes’ position on beasts, for example, when he says,
+    step1: |-
+      野兽有统觉，至少有三条具体的证据线索。第一，莱布尼茨在谈论一方面统觉与*微*知觉（未被统觉的知觉）、另一方面感觉与赤裸知觉之间的对照时，有时使用非常相似的定义与例子。这暗示——尽管并未证明——莱布尼茨是在把统觉与感觉等同，而不是把统觉与理性思想等同。第二条证据线索是：在野兽问题上，他常常显得站在普通人一边反对笛卡尔的立场，例如当他说，
+    step2: |-
+      野兽有统觉——至少有三条具体的证据线索。第一，莱布尼茨在谈论两组对照时——一方面是统觉与*微*知觉（未被统觉的知觉）之对照，另一方面是感觉与赤裸知觉之对照——有时使用非常相似的定义与例子。这暗示（尽管并未证明）：莱布尼茨是在把统觉与感觉等同，而不是把统觉与理性思想等同。第二条证据线索是：在野兽问题上，他常显得站在普通人一边反对笛卡尔的立场。例如当他说：
+  - id: 47
+    kind: body
+    source: |-
+      > It will be difficult to rid mankind of this opinion which has been held always and everywhere and which is universal if any opinion deserves that term, namely, that beasts have feelings (letter to Arnauld, 9 October 1687; G II, 117/LA 150).
+    step1: |-
+      > 要使人类摆脱这个看法是困难的：它一向处处为人持有，如果说有任何看法配得上“普遍”一词，它就是普遍的——即野兽有感觉（致阿尔诺信，1687 年 10 月 9 日；G II, 117/LA 150）。
+    step2: |-
+      > 要使人类摆脱这个看法，殊为不易：它一向处处为人持有；若说有什么看法配得上“普遍”二字，那便是它——野兽有感觉（致阿尔诺信，1687 年 10 月 9 日；G II, 117/LA 150）。
+  - id: 48
+    kind: body
+    source: |-
+      Finally, there are passages, notably in the *New Essays concerning Human Understanding* (1704), in which Leibniz quite simply ascribes apperception, directly or indirectly, to beasts, as, for example, when he discusses the case of a wild boar that has only a bare perception of a human until the human shouts at it, at which point the boar apperceives the person (“*s’apperçoit d’une personne*”) and begins a charge (Bk.II ch.21, sec.5; A vi VI 173).
+    step1: |-
+      最后，有一些段落——尤其在《人类理智新论》（1704）中——莱布尼茨相当直接或间接地把统觉归于野兽。例如，他讨论了一头野猪的情形：野猪起初对人只有赤裸知觉，直到那人向它喊叫，野猪便统觉到这个人（“*s’apperçoit d’une personne*”），开始冲锋（第二卷第 21 章第 5 节；A vi VI 173）。
+    step2: |-
+      最后，还有一些段落——尤见于《人类理智新论》（1704）——莱布尼茨相当直接或间接地把统觉归于野兽。例如他讨论过一头野猪：它起初对人只有赤裸知觉，直到那人向它喊叫；此时野猪统觉到这个人（“*s’apperçoit d’une personne*”），开始冲锋（第二卷第 21 章第 5 节；A vi VI 173）。
+  - id: 49
+    kind: body
+    source: |-
+      Without trying to proceed further with this issue here, we can see that whichever of these views is ultimately adopted, it remains the case that Leibniz’s theory of perception involves something very distinctive in an age dominated by Descartes’ theory of ideas, the thesis that there are some perceptions of which we are not conscious, the much-discussed *petites* perceptions. Although Leibniz may not have been the first to propose such an idea (Aquinas, for example, might have had a similar view; see his *Summa Theologiae*, I-II, q.1, art.3), and although the view in his hands did not have the explosive quality that it did in the hands of Freud, the thesis remains an intriguing and important part of his philosophy of mind. Indeed, the Preface of the *New Essays concerning Human Understanding* contains as strong a statement as one is likely to find about the centrality of this view in a particular metaphysical system. Among other things, Leibniz makes it very clear that it is not just lower simple substances that have such unconscious perceptions but also human minds.
+    step1: |-
+      不打算在这里进一步追究这个问题，但我们可以看到，无论最终采纳哪种观点，有一点不变：在一个由笛卡尔观念论支配的时代，莱布尼茨的知觉理论包含某种非常独特的东西——这一论题：有些知觉是我们意识不到的，即广受讨论的*微*知觉。虽然莱布尼茨可能不是第一个提出这类观念的人（例如阿奎那就可能有类似观点；见其《神学大全》I-II, q.1, art.3），虽然这一观点在他手里没有像在弗洛伊德手里那样具有爆炸性，这一论题仍然是他心灵哲学中引人入胜而重要的部分。确实，《人类理智新论》的序言 contains 关于这一观点在特定形而上学体系中居于中心地位的、人们所能找到的最有力表述之一。其中，莱布尼茨非常明确地表示：拥有这类无意识知觉的，不只是较低级的单纯实体，还有人类心灵。
+    step2: |-
+      此处不拟进一步追究这个问题；但可以看到，无论最终采纳哪种观点，有一点不变：在一个由笛卡尔观念论支配的时代，莱布尼茨的知觉理论包含某种非常独特的东西——这一论题：有些知觉是我们意识不到的，即广受讨论的*微*知觉。莱布尼茨或许不是第一个提出这类观念的人（例如阿奎那就可能有类似观点；见其《神学大全》I-II, q.1, art.3）；这一观点在他手里，也不似在弗洛伊德手里那般具有爆炸性。但这一论题始终是其心灵哲学中引人入胜而重要的部分。确实，《人类理智新论》的序言，对此说在一个特定形而上学体系中的中心地位，作了人们所能找到的最有力表述之一。其中莱布尼茨非常明确地表示：拥有这类无意识知觉的，不只是较低级的单纯实体，还有人类心灵。
+  - id: 50
+    kind: body
+    source: |-
+      Having raised the issue of unconscious perceptions, we should consider also the question of unconscious appetitions. This is infrequently discussed, but the question should not be overlooked. Since appetitions are tendencies or strivings, ones which profoundly influence human actions, it is relevant whether or not an individual human is conscious of all of these strivings. Certainly, some have taken the possibility of urges of which we are not conscious as highly important for the proper understanding of individual humans and, indeed, of the human condition generally.
+    step1: |-
+      提出了无意识知觉的问题，我们还应当考虑无意识欲求的问题。这个问题很少被讨论，但不应当被忽视。既然欲求是倾向或奋力——深刻影响人类行动的倾向或奋力——那么一个人是否意识到所有这些奋力，便是相关的。诚然，有些人把我们意识不到的冲动之可能性，看作正确理解个体人类——乃至一般人类处境——极其重要的东西。
+    step2: |-
+      提出了无意识知觉的问题，还应当考虑无意识欲求的问题。此题鲜被讨论，却不容忽视。欲求是倾向或奋力——深刻影响人类行动的倾向或奋力。既然如此，一个人是否意识到所有这些奋力，便是相关的问题。诚然，有些人把我们意识不到的冲动之可能性，看作正确理解个体人类——乃至一般人类处境——至关重要的东西。
+  - id: 51
+    kind: body
+    source: |-
+      There is evidence, notably from the *New Essays*, that Leibniz did indeed draw a parallel between perceptions and appetitions with respect to consciousness. Although he did not always explain the distinction between conscious and unconscious appetitions with care and uniformity, it seems clear that he committed himself to appetitions of which we are not conscious, or which we do not apperceive, just as he had committed himself to perceptions which are not apperceived. Consider the following two statements in combination: “desires and tendencies which are apperceived are often called volitions” (*New Essays*, Bk.II, ch.21, sec.39; RB 192); and, “There are also efforts that result from insensible perceptions which one does not apperceive, and these I prefer to call *appetitions* rather than volitions (although there are also apperceptible appetitions)” (*New Essays*, Bk.2, ch.21, sec.5; RB 173).
+    step1: |-
+      有证据——尤其来自《新论》——表明莱布尼茨确实在意识问题上于知觉与欲求之间作了平行比较。虽然他并不总是以细致而一致的方式解释有意识欲求与无意识欲求的区分，但显然，他承诺了我们所意识不到的、或我们不予统觉的欲求，正如他曾承诺未被统觉的知觉。请把下面两段话合起来考虑：“被统觉的欲望与倾向常被称为意志”（《新论》第二卷第 21 章第 39 节；RB 192）；“还有一些努力，产生自人们不予统觉的无法感觉的知觉；我更愿意把这些称为*欲求*而不是意志（尽管也有可统觉的欲求）”（《新论》第二卷第 21 章第 5 节；RB 173）。
+    step2: |-
+      有证据——尤见于《新论》——表明：莱布尼茨确实在意识问题上，于知觉与欲求之间作了平行比较。虽然他并不总是以细致而一致的方式解释有意识欲求与无意识欲求之别，但显然，他承诺了我们所意识不到的、或我们不予统觉的欲求——正如他曾承诺未被统觉的知觉。请把下面两段话合观：“被统觉的欲望与倾向常被称为意志”（《新论》第二卷第 21 章第 39 节；RB 192）；“还有一些努力，产生自人们不予统觉的无法感觉的知觉；我更愿意把这些称为*欲求*而不是意志（尽管也有可统觉的欲求）”（《新论》第二卷第 21 章第 5 节；RB 173）。
+  - id: 52
+    kind: body
+    source: |-
+      In short, and perhaps oversimplifying to a certain extent, we can say that in the Leibnizian realm of mind there are indeed only perceptions and appetitions, but in these there is a fundamental divide between the realm of consciousness and unconsciousness. In the former, there are apperceptions and desires, the perceptions and appetitions of which we are conscious. In the latter, there are perceptions and appetitions of which we are not conscious. That does not mean, however, that this latter realm is unimportant in our mental lives. As Leibniz says, “insensible perceptions are as important to [the science of minds, souls, and soul-like substances] as insensible corpuscles are to natural science, and it is just as unreasonable to reject the one as the other on the pretext that they are beyond the reach of our senses” (*New Essays*, Preface; RB 56). He would have said the same, no doubt, about inapperceptible appetitions.
+    step1: |-
+      简言之——或许在一定程度上过度简化——我们可以说：在莱布尼茨的心灵领域中确实只有知觉与欲求，但在它们之中，意识领域与无意识领域之间存在一条根本的分界。在前一领域中，有统觉与欲望，即我们意识到的知觉与欲求。在后一领域中，有我们意识不到的知觉与欲求。但这并不意味着后一领域在我们的心理生活中不重要。如莱布尼茨所说：“无法感觉的知觉之于[心灵、灵魂及类灵魂实体的科学]，正如无法感觉的微粒之于自然科学；以超出感官所及为借口而拒斥其中一个，同拒斥另一个一样不讲道理”（《新论》序言；RB 56）。毫无疑问，关于不可统觉的欲求，他也会说同样的话。
+    step2: |-
+      简言之——或许在一定程度上过度简化——我们可以说：在莱布尼茨的心灵领域中，确实只有知觉与欲求；而在它们之中，意识领域与无意识领域之间存在一条根本的分界。前一领域有统觉与欲望，即我们意识到的知觉与欲求；后一领域则藏有我们意识不到的知觉与欲求。但这并不意味着：后一领域在我们的心理生活中无足轻重。如莱布尼茨所说：“无法感觉的知觉之于[心灵、灵魂及类灵魂实体的科学]，正如无法感觉的微粒之于自然科学；以超出感官所及为借口而拒斥其一，同拒斥其二一样不讲道理”（《新论》序言；RB 56）。毫无疑问，关于不可统觉的欲求，他也会说同样的话。
+  - id: 53
+    kind: oir
+    source: |-
+      - [Leibnitiana by Gregory Brown (University of Houston)](http://www.gwleibniz.com/)
+      - [Academy Edition Leibniz texts](http://www.leibniz-edition.de/)
+      - [G.W. Leibniz: Texts and Translations](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/), maintained by Donald Rutherford, University of California, San Diego.
+      - [ Garth Kemerling’s Leibniz Page](http://www.philosophypages.com/ph/leib.htm)
+      - [Leibniz Resources](https://www.mv.helsinki.fi/home/mroinila/leibniz1.htm), maintained by Markku Roinila, University of Helsinki.
+      - [Leibniz - Online Texts](http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/leibniz.html), maintained by Clinton Tolley, University of California, San Diego.
+    step1: |-
+      - [Leibnitiana（Gregory Brown 制作，休斯顿大学）](http://www.gwleibniz.com/)
+      - [科学院版莱布尼茨文本](http://www.leibniz-edition.de/)
+      - [G.W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/)，Donald Rutherford 维护，加州大学圣迭戈分校。
+      - [Garth Kemerling 的莱布尼茨页面](http://www.philosophypages.com/ph/leib.htm)
+      - [莱布尼茨资源](https://www.mv.helsinki.fi/home/mroinila/leibniz1.htm)，Markku Roinila 维护，赫尔辛基大学。
+      - [莱布尼茨——在线文本](http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/leibniz.html)，Clinton Tolley 维护，加州大学圣迭戈分校。
+    step2: |-
+      - [Leibnitiana（Gregory Brown 制作，休斯顿大学）](http://www.gwleibniz.com/)
+      - [科学院版莱布尼茨文本](http://www.leibniz-edition.de/)
+      - [G.W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/)，Donald Rutherford 维护，加州大学圣迭戈分校。
+      - [Garth Kemerling 的莱布尼茨页面](http://www.philosophypages.com/ph/leib.htm)
+      - [莱布尼茨资源](https://www.mv.helsinki.fi/home/mroinila/leibniz1.htm)，Markku Roinila 维护，赫尔辛基大学。
+      - [莱布尼茨——在线文本](http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/leibniz.html)，Clinton Tolley 维护，加州大学圣迭戈分校。
+  - id: 54
+    kind: ack
+    source: |-
+      The editors would like to thank Sally Ferguson for noting and informing us about a number of typographical errors in this entry; we are grateful for her careful eye.
+    step1: |-
+      编者感谢 Sally Ferguson 指出并告知本词条中的若干排版错误；我们感念她的细心。
+    step2: |-
+      编者谨谢 Sally Ferguson——她指出并告知本词条中的若干排版错误；我们感念其细心。
