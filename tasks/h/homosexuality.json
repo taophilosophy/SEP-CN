@@ -2,7 +2,7 @@
   "slug": "homosexuality",
   "kind": "retranslate",
   "zh_doc": "h/homosexuality.md",
-  "state": "s1_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,48 @@
       "actor": "sub-homosexuality",
       "at": "2026-11-01T19:34:28Z",
       "evidence": "s1对照yuanwen/h/homosexuality.md核销: 43/43段源文本逐字映射无缺失; 幻觉0漏译0增译0; 术语漂移0(本质主义/自然法/建构主义/酷儿理论/鸡奸者/性倒错均合yi-zhe-shuo-ming.md); 事实抽查26项全过(本克特/查士丁尼529/拉特兰1179/圣队500/石墙1969/APA/拿破仑法典等)"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:27:40Z",
+      "evidence": "s2 二校（复审人独立重读）：全文五节逐段对照 yuanwen 镜像核销；修正 3 处（Erotikos 误作《爱神》→《论爱》、orgasm 射精→性高潮、medical intervention is appropriate 句式残缺），check_style --strict 0 issues"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:27:41Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）；H1=SUMMARY 1176 行（同性恋 homosexuality (Brent Pickett)）；脚注定义 48 条与源文逐字相符（含源文原样 Weitham/amicus curae/–––,1985 缺空格保留）；相关词条三处对齐 SUMMARY 852/981 登记形"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:28:10Z",
+      "evidence": "r1 独立对照复审（yuanwen/h/homosexuality.md 216 行 ↔ h/homosexuality.md 168 行逐段核销，行差因脚注紧凑排版）：导言+五节（历史/史学争论/自然法/酷儿理论与性的社会建构/结论）全数在位；引文括注 45+ 处（Foucault 1980、Dover 1989/Halperin 1990、Greenberg 1988: 144/146/260/277/313–4/ch.5/ch.15、Boswell 1980 ch.4/277/ch.8-9、Crompton 2003 ch.6、Shilts 1993 ch.28、Berman 1993、Anderson 2016、Kampler-Connell 2018、Coleman-Fountain 2014、Halperin 2002/1995: 62、Nussbaum 1999 ch.12、Cicero 1966: 407-415、Sullivan 1995/1996、Weitham 1997、George 1999a: 168/ch.15/1999b、Finnis 1994、Macedo 1995、Lago 2018/Goldstein 2011、Rich 1980、Faderman 1985、Jagose 1996/2009、Spargo 1999/Stychin 2005、Butler 1990,1993、Fausto-Sterling 2000、Sedgwick 1990、Carter 2005、Wilson 1996: 35、Eskridge 1999、Eribon 2004、Malinowitz 1993、Bawer 1996: xii、Phelan 2001、Sandel 1995）逐一对位；专名核销（本克特/第欧根尼·拉尔修/亚西比德/芝诺/普鲁塔克/博斯韦尔/奥古斯丁/麦金托什/哈尔柏林/克朗普顿/巴特勒/塞奇威克/威尔逊/桑德尔/鲍尔/沙利文）；希腊-拉丁术语保留形与源文一致（eros/erastes/eromenos/paidika/phusis/amicus curae）；年份与史实核销（1807 误? 无——1826/1833/1848/1849/1851/529 年查士丁尼法典/1179 拉特兰三世/1730 荷兰/1969-06-28 石墙/500 名圣队）；Halperin 1995 酷儿定义引文斜体强调以粗体对应并标『原文强调』；零信任抽查 4 处（Boswell ch.4 论证段、阿奎那 generative requirement 段、Wilson 1996 段、Halperin 定义引文）与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:28:10Z",
+      "evidence": "r2 语言与忠实定点修 3 处：①L11 Erotikos 篇名误作《爱神》（Erotikos 为『情爱的』形容词性篇名，源文自注 Dialogue on Love）→《论爱》并删冗余双括注；②L63 orgasm 译『射精』→『获得性高潮』（source: a male orgasm anywhere except in the vagina）；③L29『因此适当的医疗干预以求治愈』残缺句式→『因此以医疗干预求治愈便是适当的』（source: medical intervention for a cure is appropriate）；check_style --strict 复跑 0 issues、四道全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:28:11Z",
+      "evidence": "r3 门禁全绿：check_style --strict 0 issues；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦通过）；pubinfo 斜体 2002-08-06/2020-04-28"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:28:11Z",
+      "evidence": "done 收口：s2/s3 补校（3 处定点修）+r1 五节全核销（引文 45+ 处、脚注 48 条逐字相符）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103；H 批 s1_checked 队列至此清零"
     }
   ],
   "blockers": [],
