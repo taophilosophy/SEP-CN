@@ -2,7 +2,7 @@
   "slug": "boethius",
   "kind": "retranslate",
   "zh_doc": "b/boethius.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:16:00Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:57:31Z",
+      "evidence": "初译稿 641faf13 在库（约 14.5k 汉字，8 节全型：生平/逻辑规划/逻辑教科书/神学论著/慰藉论证 I-V.2/预知偶然永恒/诠释/影响；文献 apparatus 拉丁校勘本齐备）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:57:31Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：1 生平（狄奥多里克/首席大臣/处决）2 逻辑规划（波菲利权威/pros ti/共相三问与抽象回应/海战段落偶然性）3 教科书（论题种差与最大命题/西塞罗-特米斯提乌斯/假言三段论与斯多亚逻辑）4 神学论著（三一谓述/关系谓述/个体化/论著 III per impossibile 思想实验）5 慰藉 I-V.2（复合与简单最高善/高尔吉亚篇/IV.5 天意转向/意志非因果决定）6 预知（(7)(8) 论证/辖域谬误两种读法/认知样式原则/永恒定义/单纯与条件必然性/praesentaria 概念与普罗克洛斯拯救）7 诠释（修正主义三理由/雷利汉极端版/马伦邦温和版/马吉 2024）8 影响（翻译注疏教科书/opuscula sacra 注疏传统/慰藉的俗语译本与另一种哲学/注疏者雷米吉乌斯-威廉-特里维特）全节对应；引文页码逐一在位"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:57:31Z",
+      "evidence": "check_prose 107→102：实修 8 处（各节中考察 7、就其抽象来观照 25、据命题逻辑思考 55、推演 55、作了思想实验 69、实际展开 95、读作对话 135、促成态度 149）；余 102 条逐条豁免：44 de-chain 为自然中文或术语链（共相/谓述/偶然性/认知样式），43 长句为源文等长（马伦邦长句风格与波爱修斯定义引句），9 被动为术语性或自然被动"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:57:31Z",
+      "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；拉丁校勘本文献条目照录合规"
     }
   ],
   "blockers": [],
