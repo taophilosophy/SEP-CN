@@ -16,24 +16,25 @@
    "advanced_at": "2026-10-28T16:35:48Z"
   },
   "b": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "b组翻译代理",
    "claimed_at": "2026-10-31T22:04:32Z",
-   "note": "交叉同步演练认领已释放，阶段复位 pending（演练未做实际 intake 工作）",
-   "advanced_at": "2026-10-27T12:10:00Z"
+   "note": "对账补记（2026-11-03）：任务 62=cleared 59/drafted 2/s3_checked 1；11 条在途快照 641faf13（正文未完）",
+   "advanced_at": "2026-11-02T16:12:59Z"
   },
   "c": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": null,
    "claimed_at": null,
-   "note": "交叉同步演练认领已释放，阶段复位 pending（演练未做实际 intake 工作）",
-   "advanced_at": "2026-10-27T12:10:00Z"
+   "note": "对账补记（2026-11-03）：批次未认领但工作已发生：任务 172=s3_checked 18/pending 154；7 条在途快照 641faf13",
+   "advanced_at": "2026-11-02T16:12:59Z"
   },
   "d": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": null,
    "claimed_at": null,
-   "note": ""
+   "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71",
+   "advanced_at": "2026-11-02T16:12:59Z"
   },
   "e": {
    "phase": "translate",
@@ -43,22 +44,25 @@
    "advanced_at": "2026-11-01T11:03:27Z"
   },
   "f": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": null,
    "claimed_at": null,
-   "note": ""
+   "note": "对账补记（2026-11-03）：基线 96/96 镜像 96/96，intake/fetch/convert 事实满足；任务已建 40=全部 pending",
+   "advanced_at": "2026-11-02T16:12:59Z"
   },
   "g": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "ses-040-g-translate",
    "claimed_at": "2026-11-01T10:06:30Z",
-   "note": ""
+   "note": "对账补记（2026-11-03）：任务 49=cleared 19/pending 30",
+   "advanced_at": "2026-11-02T16:12:59Z"
   },
   "h": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "h-batch-40way",
    "claimed_at": "2026-11-01T10:08:43Z",
-   "note": ""
+   "note": "对账补记（2026-11-03）：任务 61=s3_checked 3/s1_checked 2/cleared 32/pending 24；11 条在途快照 641faf13",
+   "advanced_at": "2026-11-02T16:13:00Z"
   },
   "i": {
    "phase": "translate",
@@ -173,5 +177,5 @@
    "advanced_at": "2026-10-27T11:31:25Z"
   }
  },
- "updated_at": "2026-11-01T17:44:45Z"
+ "updated_at": "2026-11-02T16:13:00Z"
 }
