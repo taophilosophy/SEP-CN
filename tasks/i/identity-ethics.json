@@ -2,7 +2,7 @@
   "slug": "identity-ethics",
   "kind": "retranslate",
   "zh_doc": "i/identity-ethics.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "s1",
@@ -24,6 +24,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T15:24:15Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0（尾部节补译后全绿）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:08:08Z",
+      "evidence": "独立复审：对照 yuanwen 十一节+致谢+前版本链接逐段核销，无漏译；抓到误译：L119 'the end of consciousness'→'意识的结果'应为'意识的终结'（r2 修）；Reid 军官例/俄国贵族例/玛戈预先指示例全链核验；63 条文献 doi 逐字符照录"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:08:08Z",
+      "evidence": "逐句回核修 16 处：意识的结果→意识的终结（误译实修）/pubinfo 粗体改斜体（模板 §2）/'现代心理的'歧义/'允许…是同一个'/'实存的某些阶段'/'为过去的罪行惩罚'语序/'保证…关切'→'足以证成'/'悬而未决'主语错位/'超过'→'之上'（over and above）/'谴责社会象征'/'不必当受到尊重'病句/'不敏感于分配'/'从溺水者中救出'/'著名地论证'欧化/'更根本重要'/'庞杂阵列'字面直译"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:08:09Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；生命伦理术语一致性核验（人格同一性/心理连续性/动物主义/脑死亡判准/预先指示/人的分离性/优先主义）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:08:09Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
