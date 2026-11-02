@@ -1,0 +1,36 @@
+{
+  "slug": "identity-ethics",
+  "kind": "retranslate",
+  "zh_doc": "i/identity-ethics.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T15:24:15Z",
+      "evidence": "主会话收口：一校准确性核销"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T15:24:15Z",
+      "evidence": "主会话收口：二校语言"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T15:24:15Z",
+      "evidence": "主会话收口：三校体例+学术+数学全 0（尾部节补译后全绿）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:58Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 30, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "c625abc07a0bc5239d7e61c646728d2debc858c294e7bcbcbd7964ff2dfa8780"
+  }
+}
