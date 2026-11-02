@@ -93,6 +93,7 @@ def main(argv=None):
             continue
         zh_text = open(zh_path, encoding='utf-8').read()
         en_text = fold(load_en(doc))
+        en_raw = load_en(doc).casefold()  # 保留变音符的原形态（仅 casefold）
         if not en_text:
             continue
         checked += 1
@@ -100,7 +101,11 @@ def main(argv=None):
         for en_key, variants, term, label, first_seen in entries:
             if en_key in seen_in_doc:
                 continue
-            m = en_pattern(en_key).search(en_text)
+            # 含变音符的键（如 Nō、qiyās）不剥变音符匹配：折叠态会撞英文普通词
+            # （Nō→no），须在原形态文本上按原形态匹配（Nōs? 词边界）；term 为原文形态
+            has_diacritic = any(ord(ch) > 127 for ch in term)
+            hay = en_raw if has_diacritic else en_text
+            m = en_pattern(term if has_diacritic else en_key).search(hay)
             if m:
                 seen_in_doc.add(en_key)
                 found = [v for v in variants if v and v in zh_text]

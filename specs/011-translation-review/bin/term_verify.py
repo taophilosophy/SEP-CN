@@ -60,10 +60,27 @@ def registry_variants(kind, en):
     return res
 
 
+def load_gaps():
+    """实时跑 term_coverage 并解析缺口（避免 term-gaps.txt 静态文件过时）。"""
+    import subprocess
+    r = subprocess.run([sys.executable, "tools/term_coverage.py"],
+                       capture_output=True, text=True, encoding="utf-8", errors="replace")
+    rows = []
+    for l in r.stdout.splitlines():
+        m = re.search(r"\[术语\] (.+?) 「(.+?)」未见于 (\S+?)\.md", l)
+        if m:
+            rows.append(("T", m.group(2), m.group(1), m.group(3)))
+            continue
+        m = re.search(r"\[人名\] (.+?) 「(.+?)」未见于 (\S+?)\.md", l)
+        if m:
+            rows.append(("P", m.group(2), m.group(1), m.group(3)))
+    return rows
+
+
 def main():
     # 登记册变体表
     reg = ct.load_registry() if hasattr(ct, "load_registry") else None
-    rows = [l.rstrip("\n").split("\t") for l in io.open(GAPS, encoding="utf-8") if l.strip()]
+    rows = load_gaps()
     tasks = {}
     out = io.open(OUT, "w", encoding="utf-8")
 
