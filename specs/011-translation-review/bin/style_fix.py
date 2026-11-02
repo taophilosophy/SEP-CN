@@ -36,7 +36,8 @@ AFTER_PUNCT = check_style.AFTER_PUNCT
 BEFORE_EXEMPT = " \t（“‘【《—…，。、；：？！）】》”’"
 EMPH_RE = re.compile(r"\*\*[^*\n]+\*\*")
 ITALIC_RE = re.compile(r"(?<!\*)\*([^* \n\x00]+?)\*(?!\*)")  # 与 check_style 同构：含空格斜体（拉丁短语/版本行）体例豁免不碰
-CJK_GAP_RE = re.compile(r"(?<=[%s])[A-Za-z0-9]|(?<=[A-Za-z0-9])[%s]" % (HAN, HAN))
+GAP1_RE = re.compile(r"(?<=[%s])([A-Za-z0-9])" % HAN)   # 汉字|拉丁 → 补前空格
+GAP2_RE = re.compile(r"([A-Za-z0-9])(?=[%s])" % HAN)    # 拉丁|汉字 → 补后空格
 MASK_RE = re.compile(r"\$\$[^$]+?\$\$|\$[^$\n]+?\$|<[^<>\n]{1,60}>|\]\([^)\n]*\)")
 BIB_HEADING_RE = check_style.BIB_HEADING_RE
 FN_DEF_RE = check_style.FN_DEF_RE
@@ -60,9 +61,12 @@ def _unmask(seg, holes):
     return re.sub(r"\x00(\d+)\x00", lambda m: holes[int(m.group(1))], seg)
 
 
-def fix_seg(seg):
+def fix_seg(seg, seen_manual=None):
     """对单个正文段做三类修复，返回 (new_seg, edits, manual_notes)。"""
     edits, manual = [], []
+    if seen_manual is None:
+        seen_manual = set()
+    mixed_seen = False
     masked, holes = _mask(seg)
     for _ in range(4):  # 不动点循环，上限防震荡
         changed = False
@@ -72,10 +76,14 @@ def fix_seg(seg):
             if re.search(r"[一-鿿]", t) and not re.search(r"[A-Za-z0-9]", t):
                 return "**%s**" % t
             return m.group(0)
-        for m in ITALIC_RE.finditer(masked):
-            t = m.group(1)
-            if re.search(r"[一-鿿]", t) and re.search(r"[A-Za-z0-9]", t):
-                manual.append({"rule": "italic-mixed", "detail": t[:60]})
+        if not mixed_seen:
+            for m in ITALIC_RE.finditer(masked):
+                t = m.group(1)
+                if re.search(r"[一-鿿]", t) and re.search(r"[A-Za-z0-9]", t):
+                    key = ("italic-mixed", t[:60])
+                    if key not in seen_manual:
+                        seen_manual.add(key)
+                        manual.append({"rule": "italic-mixed", "detail": t[:60]})
         new_masked = ITALIC_RE.sub(_ital, masked)
         if new_masked != masked:
             masked = new_masked
@@ -95,10 +103,8 @@ def fix_seg(seg):
         if new_masked != masked:
             masked = new_masked
             changed = True
-        # cjk-spacing：汉字↔拉丁/数字补空格
-        def _gap(m):
-            return m.group(0)[0] + " " + m.group(0)[1]
-        new_masked = CJK_GAP_RE.sub(_gap, masked)
+        # cjk-spacing：汉字↔拉丁/数字补空格（捕获组双正则，lookbehind 零宽不占 group）
+        new_masked = GAP2_RE.sub(lambda m: m.group(1) + " ", GAP1_RE.sub(lambda m: " " + m.group(1), masked))
         if new_masked != masked:
             masked = new_masked
             changed = True
