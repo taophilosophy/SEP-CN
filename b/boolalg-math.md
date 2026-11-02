@@ -78,7 +78,7 @@ $$\begin{align*} [\phi] + [\psi] &= [\phi \vee \psi] \\ [\phi] \cdot[\psi] &= [\
 
 $$\begin{align*} V(B, 0) &= \varnothing \\ V(B, \alpha + 1) &= \{ f : \dom(f) \subset V(B, \alpha) \text{ and } \range(f) \subset B \} \\ V(B, \lambda) &= \bigcup_{\beta \lt \lambda} V(B, \beta). \end{align*}$$
 
-其中 $\dom(f)$ 是函数 $f$ 的定义域，$\range(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，用一个在良基集合上展开的相当复杂的超穷递归，来定义集合论公式的值——其自由变量被赋以布尔值宇宙的元素：
+其中 $\dom(f)$ 是函数 $f$ 的定义域，$\range(f)$ 是函数 $f$ 的值域。$B$-值宇宙是真类 $V(B)$，是所有这样的 $V$ 之并。接下来，用一个在良基集合上展开的相当复杂的超穷递归，来定义集合论公式的值——其自由变元被赋以布尔值宇宙的元素：
 
 $$\begin{align*} \val{x \in y} &= \sum_{t \in \dom(y)} \val{x=t}\cdot y(t) \\ \val{x \subseteq y} &= \prod_{t \in \dom(x)} -x(t) + \val{t \in y} \\ \val{x = y} &= \val{x \subseteq y} \cdot \val{y \subseteq x} \\ \val{\neg \phi} &= -\val{\phi} \\ \val{\phi \vee \psi} &= \val{\phi} + \val{\psi} \\ \val{\exists x\phi(x)} &= \sum_{a \in V(B)} \val{\phi(a)}. \end{align*}$$
 

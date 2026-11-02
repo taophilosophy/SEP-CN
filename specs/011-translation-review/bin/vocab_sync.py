@@ -41,7 +41,7 @@ def main():
                        text=True, encoding="utf-8", errors="replace")
     lags = []
     for l in r.stdout.splitlines():
-        m = re.search(r"词汇表滞后（告警）: \[(登记册|人名表)\] (\S+?) \| 登记侧: (.+?) \| 词汇表: (.+?)$", l)
+        m = re.search(r"词汇表滞后（告警）: \[(登记册|人名表)\] (.+?) \| 登记侧: (.+?) \| 词汇表: (.+?)$", l)
         if m:
             lags.append((m.group(1), m.group(2), m.group(3), m.group(4)))
     print("滞后 %d 条" % len(lags))

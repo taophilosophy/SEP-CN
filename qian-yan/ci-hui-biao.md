@@ -8,7 +8,7 @@
 |Actualism|现实主义（模态形而上学；亦作“现实论”）|模态形而上学；亦作“现实论”|
 |Adolf Reinach|阿道夫·莱纳赫|早期现象学（普莱斯纳学派前驱）|
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
-|Agent Intellect|主动理智|阿奎那 intellectus agens|
+|Agent Intellect|主动理智、能动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
 |Alain Locke|阿兰·洛克||
 |Alexander Bain|亚历山大·贝恩|联想主义心理学|
@@ -51,7 +51,7 @@
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
 |common good|公共善|亦作“共同善”；政治哲学|
 |concrete objects|具体对象|与抽象对象相对|
-|conditional analysis|条件分析|能力哲学|
+|conditional analysis|条件分析、条件句分析|能力哲学|
 |constitutive aim|构成性目的|行动哲学（belief 的 aim 之辩）|
 |Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
@@ -180,7 +180,7 @@
 |Shaun Nichols|肖恩·尼科尔斯||
 |Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
 |spacetime substantivalism|时空实体论|与时空关系论相对|
-|specific ability|特殊能力|能力哲学（与一般能力相对）|
+|specific ability|特定能力、特殊能力|能力哲学（与一般能力相对）|
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
 |Stephen Schiffer|斯蒂芬·希弗||
 |Stuart Hampshire|斯图尔特·汉普希尔||
@@ -316,7 +316,7 @@
 |universal quantification|全称量化|逻辑学|
 |Van Helmont|范·海尔蒙特|化学/气体研究先驱|
 |vijñāna|识|审定名词（哲学）|
-|visual perception|视知觉|亦作“视觉感知”；审定名词（心理学）|
+|visual perception|视知觉、视觉感知、视觉知觉|亦作“视觉感知”；审定名词（心理学）|
 |Vorstellung|表象|康德/叔本华；审定精确查无|
 |waḥdat al-wujūd|存在单一论|亦作“存在统一论”；伊斯兰哲学|
 |Wang Fuzhi|王夫之|明清之际思想家|
@@ -538,7 +538,7 @@
 |Coming of Age|老年|波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》|
 |Commentators|评注者|指古代晚期注释亚里士多德的评注传统（the ancient commentators）|
 |common cause principle|共因原理|亦作“共因原则”；赖欣巴哈（Reichenbach）提出；审定名词（自然辩证法名词）|
-|common sense|常识||
+|common sense|共通感觉、常识||
 |compatibilism|相容论|亦作“相容主义”|
 |Computing|计算||
 |conditional probabilities|条件概率||
@@ -708,7 +708,7 @@
 |Individuality|个体性||
 |Individuals|个体||
 |induction hypothesis|归纳假设|数学归纳法语境|
-|infinite regress|无穷倒退|亦作“无限倒退”|
+|infinite regress|无穷倒退、无限倒退、无限回溯|亦作“无限倒退”|
 |Inertial Frames|惯性系||
 |Inference to the Best Explanation|最佳说明推理|亦作“最佳解释推理”；abduction 词条核心概念；审定名词（自然辩证法名词）|
 |Inference to the Worst Explanation (IWE)|最差解释推理|与 IBE 对偶；首现 abduction|
@@ -847,7 +847,7 @@
 |observation|观察||
 |observation sentences|观察句|奎因术语，与理论句子（theoretical sentences）相对|
 |occasionalism|偶因论|马勒伯朗士等：因果偶因学说|
-|ontological commitments|本体论承诺|蒯因；审定名词（ontological commitment）|
+|ontological commitments|存在论承诺、本体论承诺|蒯因；审定名词（ontological commitment）|
 |Olympiodorus|奥林匹奥多罗斯||
 |ontic structural realism|本体的结构实在论||
 |pacifism|和平主义|亦译“反战主义”|
@@ -986,7 +986,7 @@
 |social justice|社会正义|亦作“社会公正”；罗尔斯语境|
 |Simone de Beauvoir|西蒙娜·德·波伏瓦|通行“波伏瓦”，见 Beauvoir 条|
 |Simone Weil|西蒙娜·薇依||
-|Simplicius|辛普利修斯||
+|Simplicius|辛普里丘||
 |Simultaneity|同时性；同时性的||
 |Singularities|奇点||
 |Skepticism|怀疑论||
@@ -1065,7 +1065,7 @@
 |Theological-Political Treatise|神学政治论||
 |Theophrastus|特奥弗拉斯托斯|亦译“泰奥弗拉斯特”“忒俄弗拉斯托斯”“提奥弗拉斯特”（2026-10-27 按登记册对齐）|
 |Theoretical Terms|理论术语||
-|theoretical virtues|理论美德|首现 abduction|
+|theoretical virtues|理论德性、理论美德|首现 abduction|
 |Theory|理论||
 |theory of judgement|判断理论||
 |thermodynamic time asymmetry|热力学时间非对称性||
