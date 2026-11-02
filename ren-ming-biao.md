@@ -82,7 +82,6 @@
 | John Harsanyi | 约翰·海萨尼 | 语料回收（全目录） | 审定“海萨尼”在案（博弈论）；凭证 2026-11-01 | 2026-11-01 |
 | John Locke | 约翰·洛克 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | John MacFarlane | 约翰·麦克法兰 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
-| John Norris | 约翰·诺里斯 | 语料回收（全目录） | 学界惯例（英国柏拉图主义者）；凭证 2026-11-01 | 2026-11-01 |
 | John Norton | 约翰·诺顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | John Pollock | 约翰·波洛克 | 语料回收（全目录） | 学界惯例（人工智能/认识论（OSCAR 系统））；凭证 2026-11-01 | 2026-11-01 |
 | John Rawls | 约翰·罗尔斯 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
@@ -120,6 +119,17 @@
 | Jean Le Clerc | 让·勒克莱尔 | lady-masham | 学界通行汉译（胡格诺学者、《精选文库》主编）；待 specs/008 审定库复核 | 2026-11-03 |
 | Pierre Coste | 皮埃尔·科斯特 | lady-masham | 学界通行汉译（洛克著作法译者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Edward Stillingfleet | 爱德华·斯蒂林弗利特 | lady-masham | 学界通行汉译（伍斯特主教）；待 specs/008 审定库复核 | 2026-11-03 |
+| Karl Marx | 卡尔·马克思 | law-ideology | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Friedrich Engels | 弗里德里希·恩格斯 | law-ideology | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Destutt de Tracy | 德斯蒂·德·特拉西 | law-ideology | 学界通行汉译（意识形态学创导者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Karl Mannheim | 卡尔·曼海姆 | law-ideology | 学界通行汉译（知识社会学）；待 specs/008 审定库复核 | 2026-11-03 |
+| F.A. Hayek | 弗里德里希·哈耶克 | law-ideology | 学界通行汉译（经济学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Lon Fuller | 朗·富勒 | law-ideology | 学界通行汉译（法哲学家，《法律的道德性》中译通行）；待 specs/008 审定库复核 | 2026-11-03 |
+| John Austin | 约翰·奥斯丁 | law-ideology | 学界通行汉译（法实证主义者；《法理学的范围》中译通行）；待 specs/008 审定库复核 | 2026-11-03 |
+| E.P. Thompson | E.P. 汤普森 | law-ideology | 学界通行汉译（马克思主义史学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Richard Rorty | 理查德·罗蒂 | law-ideology | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Daniel Bell | 丹尼尔·贝尔 | law-ideology | 学界通行汉译（社会学家，《意识形态的终结》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Susan Moller Okin | 苏珊·莫勒·奥金 | law-ideology | 学界通行汉译（女性主义政治哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
