@@ -1,0 +1,185 @@
+version: 1
+slug: lady-masham
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Damaris Masham (1658–1708) was one of the earliest English woman philosophers. The main sources for her philosophy are two anonymously published books, *A Discourse Concerning the Love of God* (1696) and *Occasional Thoughts in Reference to a Vertuous and Christian Life* (1705), and her correspondence with Locke and with Leibniz.
+    step1: |-
+      达马里斯·马沙姆（Damaris Masham，1658–1708）是最早的英格兰女性哲学家之一。其哲学的主要文献来源是两本匿名出版的著作《论上帝之爱》（*A Discourse Concerning the Love of God*，1696）与《关于德性与基督徒生活的偶思》（*Occasional Thoughts in Reference to a Vertuous and Christian Life*，1705），以及她与洛克和莱布尼茨的通信。
+    step2: |-
+      达马里斯·马沙姆（Damaris Masham，1658–1708）是最早的英格兰女性哲学家之一。其哲学的主要文献来源，是两部匿名刊行的著作——《论上帝之爱》（*A Discourse Concerning the Love of God*，1696）与《关于德性与基督徒生活的偶思》（*Occasional Thoughts in Reference to a Vertuous and Christian Life*，1705）——以及她与洛克和莱布尼茨的往来书信。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life
+    step1: |-
+      ## 1 生平
+    step2: |-
+      ## 1 生平
+  - id: 3
+    kind: body
+    source: |-
+      Damaris Masham was born in 1658, the daughter of the Cambridge Platonist, Ralph Cudworth, who was Master of Christ’s College, Cambridge. Little is known of her education, but she did have the advantage of being born into a family with a considerable library. However, despite the fact that her father was one of the most learned men of his generation he did not teach her Latin or Greek. She did apparently learn French as was deemed requisite for a gentlewoman of the time, and she taught herself Latin, later in life, according to the method recommended in Locke’s *Some Thoughts Concerning Education*.
+    step1: |-
+      达马里斯·马沙姆 1658 年出生，是剑桥柏拉图主义者拉尔夫·库德沃斯（Ralph Cudworth）的女儿；库德沃斯时任剑桥基督学院院长。关于她所受的教育我们所知甚少，但她确有一项优势：出身于一个藏书可观的家族。然而，尽管她的父亲是同代人中最博学的学者之一，他却没有教她拉丁文或希腊文。她显然学过法语——这被视为当时的淑女必备的素养——而拉丁文则是她后来依照洛克《教育片论》（*Some Thoughts Concerning Education*）所推荐的方法自学的。
+    step2: |-
+      达马里斯·马沙姆生于 1658 年，是剑桥柏拉图主义者拉尔夫·库德沃斯（Ralph Cudworth）之女；库德沃斯时任剑桥基督学院院长。关于其所受教育，我们所知甚少；但她确有一项得天独厚之处：生于一个藏书极富的书香之家。不过，尽管其父是同辈中最博学的学者之一，却并未教她拉丁文或希腊文。她显然学过法语——那是当时淑女必备的素养——拉丁文则是她成年后依照洛克《教育片论》（*Some Thoughts Concerning Education*）所荐之法自修而成。
+  - id: 4
+    kind: body
+    source: |-
+      As a young woman, Damaris Cudworth (as she then was) was able to escape ‘the learned dullness’ of Cambridge by visiting London where she frequented the more stimulating environment of the circle of Elizabeth Stillingfleet, whom she nicknamed ‘Urgunda’ in her letters. Elizabeth Stillingfeet was the second wife of Edward Stillingfleet, future Bishop of Worcester, who later engaged in controversy with Locke. It was probably here, that she met her husband, Sir Francis Masham, who was a relative of Elizabeth Stillingfleet.
+    step1: |-
+      年轻时，达马里斯·库德沃斯（她当时的名字）得以借造访伦敦逃脱剑桥“博学的沉闷”；她常去伊丽莎白·斯蒂林弗利特（Elizabeth Stillingfleet）的圈子，那里的环境更能激发思想，并在书信中给后者起了“乌尔贡达”（Urgunda）的绰号。伊丽莎白·斯蒂林弗利特是爱德华·斯蒂林弗利特（Edward Stillingfleet）的第二任妻子，后者即日后的伍斯特主教，后来曾与洛克论战。她很可能就是在这里结识了丈夫弗朗西斯·马沙姆爵士（Sir Francis Masham）——他是伊丽莎白·斯蒂林弗利特的亲戚。
+    step2: |-
+      年少时，达马里斯·库德沃斯（她当时的称呼）得以借造访伦敦逃离剑桥那“博学的沉闷”；她流连于伊丽莎白·斯蒂林弗利特（Elizabeth Stillingfleet）的圈子——那里更能激发思想，并在书信中给后者起了“乌尔贡达”（Urgunda）的绰号。伊丽莎白·斯蒂林弗利特是爱德华·斯蒂林弗利特（Edward Stillingfleet）的第二任妻子；后者即日后的伍斯特主教，曾与洛克展开论战。她与丈夫弗朗西斯·马沙姆爵士（Sir Francis Masham）的相识，很可能就在此处——他是伊丽莎白·斯蒂林弗利特的亲戚。
+  - id: 5
+    kind: body
+    source: |-
+      It was also in London, sometime before 1682, that she met John Locke, probably through their mutual friend, Edward Clarke. By all accounts Locke held her in high esteem as a philosophical mind, and she was to be one of the earliest proponents of his philosophy. Their acquaintance, at least in the early stages, was more than merely an intellectual friendship. Among their earliest letters is a series of pastoral love poems, conducted under the *noms de plume*, Philoclea and Philander. They continued to correspond on a variety of philosophical subjects during Locke’s years in Holland. On his return in 1688, he became guest and later permanent resident at her home at Oates in Essex.
+    step1: |-
+      同样是在伦敦，1682 年之前的某个时候，她经由两人的共同朋友爱德华·克拉克（Edward Clarke）结识了约翰·洛克（John Locke）。众所皆知，洛克极其推重她作为哲学头脑的才具，而她后来也成为其哲学最早的拥护者之一。两人的交谊，至少在早期，不限于思想上的友谊。他们最早的书信中有一组田园牧歌式的爱情诗，以笔名（*noms de plume*）“菲洛克勒娅”（Philoclea）与“菲兰德”（Philander）往还唱和。洛克旅居荷兰的岁月里，两人继续就各种哲学题目通信。1688 年洛克归国后，先是客居她在埃塞克斯奥茨的家宅，后来长住于此。
+    step2: |-
+      同样是在伦敦，1682 年之前的某个时候，她经由两人共同的朋友爱德华·克拉克（Edward Clarke）结识了约翰·洛克（John Locke）。众所皆知，洛克极为推重她的哲学才具；她后来也成为洛克哲学最早的拥护者之一。两人的交谊，至少在早期，并不止于思想上的友谊：他们最早的书信中有一组田园牧歌式的爱情诗，以笔名（*noms de plume*）“菲洛克勒娅”（Philoclea）与“菲兰德”（Philander）往还唱和。洛克旅居荷兰期间，两人继续就各类哲学题目通信。1688 年洛克归国后，先是在她埃塞克斯奥茨（Oates）的家宅做客，继而长住于此。
+  - id: 6
+    kind: body
+    source: |-
+      Her interest in philosophy was nurtured by her reading of the Cambridge Platonists (Ralph Cudworth, Henry More and John Smith), with whose works she was familiar by the time she met Locke. It was her good fortune to make his acquaintance, since he certainly encouraged her interest in philosophy. Thus, unlike most women of her time, Damaris Cudworth had the relative advantages of a family and a friendship that enabled her to develop her philosophical interests. On the other hand, her marriage in 1685, to Sir Francis Masham, an Essex squire and widower with nine children, was hardly one that enhanced her opportunities to pursue philosophy. She had one son, Francis Cudworth Masham. Damaris Masham’s philosophical writings constitute only a small part of her philosophical activity. Her surviving correspondence, especially with Locke and with Leibniz show that her interest in philosophy went far beyond what she published. Her two books, *A Discourse Concerning the Love of God* (1696) and *Occasional Thoughts in Reference to a Vertuous or Christian Life* (1705), were printed anonymously, and with encouragement from Locke. She also wrote a biography of Locke which is the source of the first printed biographies of Locke.
+    step1: |-
+      她对哲学的兴趣，是在阅读剑桥柏拉图主义者（拉尔夫·库德沃斯、亨利·莫尔与约翰·史密斯）的著作中滋养起来的；结识洛克时，她已熟习这些人的著作。结识洛克是她的幸运，因为他无疑鼓励了她对哲学的兴趣。因此，与她同时代的大多数女性不同，达马里斯·库德沃斯拥有家庭与友谊这两重相对优势，使她得以发展自己的哲学兴趣。另一方面，她 1685 年与弗朗西斯·马沙姆爵士的婚姻——后者是埃塞克斯乡绅、带着九个孩子的鳏夫——几乎无助于增进她追求哲学的机会。她育有一子，即弗朗西斯·库德沃斯·马沙姆。达马里斯·马沙姆的文字著述只是其哲学活动的一小部分。她存世的通信，尤其是与洛克和莱布尼茨的通信表明，她对哲学的兴趣远超她所刊行的作品。她的两部著作《论上帝之爱》（1696）与《关于德性或基督徒生活的偶思》（1705）都是在洛克的鼓励下匿名印行的。她还写了一部洛克传记，它是洛克最早一批刊行传记的来源。
+    step2: |-
+      她对哲学的兴趣，是在研读剑桥柏拉图主义者（拉尔夫·库德沃斯、亨利·莫尔与约翰·史密斯）的著作中滋养起来的；结识洛克时，她对这些人的著作已然烂熟。结识洛克是她的幸运：他无疑鼓励了她对哲学的兴趣。因此，与其同时代的大多数女性不同，达马里斯·库德沃斯坐拥家庭与友谊两重相对优势，得以发展其哲学志趣。然而另一方面，她 1685 年与弗朗西斯·马沙姆爵士的婚姻——后者是埃塞克斯乡绅、膝下九子的鳏夫——却几乎无益于她追求哲学的机会。她育有一子，即弗朗西斯·库德沃斯·马沙姆（Francis Cudworth Masham）。达马里斯·马沙姆的文字著述，只是其哲学活动的一小部分：她存世的通信——尤其是与洛克、莱布尼茨的通信——表明她对哲学的兴趣远超其刊行之作。她的两部著作《论上帝之爱》（1696）与《关于德性或基督徒生活的偶思》（1705），都是在洛克的鼓励下匿名印行的。她还撰有一部洛克传记，正是洛克最早一批刊行传记的底本。
+  - id: 7
+    kind: body
+    source: |-
+      On the little evidence available it is impossible to establish her early philosophical views with any certainty. Her published writings contain clear echoes of Locke, which led to their being attributed by some to Locke. Nonetheless her Cambridge Platonist background remains evident, especially in the religious and ethical views which connect both her books which are both concerned with practical ethics. While these show that she became closer to Locke in epistemology, on ethics, she is closer to Cudworth, especially with regard to moral accountability, her acceptance that moral principles exist independently as part of the nature of things, and her anti-voluntarism. In fact her receptivity to Locke may be attributed to her Cambridge Platonist background, reflecting the fact that there is more common ground between Locke and the Cambridge Platonists than is normally assumed. Areas where she is most in agreement with Locke entail no sacrifice of Cudworthian principles, in particular her holding that morality is founded in reason and the freedom to act, that that the end of ethics is human happiness, and that the exercise of virtue requires a right disposition of mind. Like both Locke and the Cambridge Platonists she was a strong advocate of religious toleration.
+    step1: |-
+      凭借现有的少量证据，我们无法确切地建立她的早期哲学观点。她刊行的著作中有明显的洛克回声，以至于有人把其中的内容归于洛克。尽管如此，她的剑桥柏拉图主义背景依然明显，尤其是在宗教与伦理观点上——这些观点把她的两部著作联系起来，二者都关注实践伦理学。虽然这些著作表明她在认识论上更接近洛克，但在伦理学上她更接近库德沃斯，特别是在道德可归责性、她接受道德原则作为事物本性的一部分而独立存在、以及她的反唯意志论等方面。事实上，她对洛克的亲和或许可以归因于她的剑桥柏拉图主义背景，这反映出洛克与剑桥柏拉图主义者之间的共同点比通常假设的更多。她与洛克最一致的那些方面，并不以牺牲库德沃斯的原则为代价，尤其是她主张道德奠基于理性与行动自由、伦理学的目的是人的幸福、德性的践行需要心灵的正确意向。与洛克和剑桥柏拉图主义者一样，她是宗教宽容的坚定拥护者。
+    step2: |-
+      凭现有的少量证据，我们无法确切重建她的早期哲学观点。她刊行的著作中有明显的洛克回声，以至于有人将其中部分内容归于洛克。尽管如此，她的剑桥柏拉图主义底色依然醒目，尤其在宗教与伦理观点上——正是这些观点把她的两部著作联结起来，二者皆关注实践伦理。这些著作表明：她在认识论上更贴近洛克，在伦理学上却更贴近库德沃斯——特别是在道德可归责性、道德原则作为事物本性之一部分而独立实存的主张，以及她的反唯意志论等方面。事实上，她之亲近洛克，或许正可归因于其剑桥柏拉图主义背景——这折射出洛克与剑桥柏拉图主义者之间的共同地基，比通常所设想的更为深厚。她与洛克最相契合的那些主张，并不以牺牲库德沃斯的原则为代价：尤其是她认定道德奠基于理性与行动自由，伦理学的鹄的是人的幸福，德性的践行需要心灵的正当意向。与洛克和剑桥柏拉图主义者一样，她也是宗教宽容的坚定拥护者。
+  - id: 8
+    kind: body
+    source: |-
+      ## 2. *A Discourse Concerning the Love of God*
+    step1: |-
+      ## 2 《论上帝之爱》（*A Discourse Concerning the Love of God*）
+    step2: |-
+      ## 2 《论上帝之爱》（*A Discourse Concerning the Love of God*）
+  - id: 9
+    kind: body
+    source: |-
+      Notwithstanding their religious-sounding titles, both of Damaris Masham’s books address philosophical issues which were topical at the time: love, happiness and moral virtue. In both she offers an optimistic view of human beings as rational and social creatures motivated by the love of happiness. This “earliest and strongest principle,” consists of the enjoyment of pleasure achieved through the regulatory exercise of reason, which directs us to the greatest happiness.
+    step1: |-
+      尽管书名听起来宗教气息浓厚，达马里斯·马沙姆的两部著作处理的都是当时的热点哲学问题：爱、幸福与道德德性。在这两部著作中，她对人都持一种乐观的看法：人是有理性的社会造物，受对幸福的爱的驱动。这“最早且最强的原则”包括通过理性的调节性运用而获得的快乐享受，理性指引我们走向最大的幸福。
+    step2: |-
+      尽管书名颇具宗教气息，达马里斯·马沙姆的两部著作处理的都是当时的哲学热点：爱、幸福与道德德性。在两部著作中，她对人性均持乐观之见：人是有理性的社会造物，为幸福之爱所推动。这“最早且最强的原则”，包含着经由理性的调节性运用而获得的快乐享受——理性指引我们走向最大的幸福。
+  - id: 10
+    kind: body
+    source: |-
+      *A Discourse Concerning the Love of God* (1696) was written in explicit critique of John Norris, the most important English proponent of the philosophy of Nicholas Malebranche. Norris had, in 1690, attacked Locke in *Cursory Reflections upon a Book Call’d Essay Concerning Human Understanding*. This may in part explain Masham’s hostility to Norris, in spite of the fact that she was dedicatee of another book by him: *Reflections on the Conduct of Human Life* (London, 1690). However, the immediate context for *A Discourse* was the debate about the nature of love, which was a theme in Norris’s writings, especially his *Practical Discourses* (1691, to which she makes direct reference), and his correspondence with Mary Astell published as *Letters Concerning the Love of God* (1695). Lady Masham’s critique of Norris and Astell is also aimed, indirectly, at Nicolas Malebranche. Further in the background to it was the so-called *Querelle du Quietisme*, the debate on *amour pur* [pure love] between Malebranche, François de Fénelon and Jacques-Bénigne Bossuet which was sparked by the mystical writings of Madame Guyon.
+    step1: |-
+      《论上帝之爱》（1696）是明确针对约翰·诺里斯（John Norris）而写的批评，后者是尼古拉·马勒伯朗士（Nicolas Malebranche）哲学在英格兰最重要的拥护者。诺里斯曾在 1690 年于《对一部名为〈人类理解论〉的书的简略反思》中攻击洛克。这或许可以部分解释马沙姆对诺里斯的敌意，尽管她是他另一部著作的题献对象：《关于人类生活经营之反思》（*Reflections on the Conduct of Human Life*，伦敦，1690）。不过，《论上帝之爱》的直接背景是关于爱之本性的论战——这是诺里斯著作的主题，尤其是他的《实践论集》（*Practical Discourses*，1691，她直接提及此书），以及他与玛丽·阿斯特尔（Mary Astell）的通信，后者以《关于上帝之爱的书信》（*Letters Concerning the Love of God*，1695）为题刊行。马沙姆夫人对诺里斯与阿斯特尔的批评，也间接指向尼古拉·马勒伯朗士。更远的背景则是所谓的“寂静主义之争”（*Querelle du Quietisme*），即马勒伯朗士、弗朗索瓦·德·费奈隆（François de Fénelon）与雅克-贝尼涅·博叙埃（Jacques-Bénigne Bossuet）之间关于 *amour pur*［纯粹之爱］的论战，其导火索是盖恩夫人（Madame Guyon）的神秘主义著作。
+    step2: |-
+      《论上帝之爱》（1696）是明确针对约翰·诺里斯（John Norris）的批评之作；后者乃尼古拉·马勒伯朗士（Nicolas Malebranche）哲学在英格兰最重要的拥护者。诺里斯曾于 1690 年在《对一部名为〈人类理解论〉的书的简略反思》中抨击洛克——这或可部分解释马沙姆对诺里斯的敌意，尽管她正是诺里斯另一部著作《关于人类生活经营之反思》（*Reflections on the Conduct of Human Life*，伦敦，1690）的题献对象。不过，《论上帝之爱》的直接背景，是关于爱之本性的论战——那是诺里斯著作的主题，尤见于其《实践论集》（*Practical Discourses*，1691，马沙姆直接提及此书），以及他与玛丽·阿斯特尔（Mary Astell）的通信——后者以《关于上帝之爱的书信》（*Letters Concerning the Love of God*，1695）为题刊行。马沙姆夫人对诺里斯与阿斯特尔的批评，也间接指向尼古拉·马勒伯朗士。更远的背景，则是所谓“寂静主义之争”（*Querelle du Quietisme*）——马勒伯朗士、弗朗索瓦·德·费奈隆（François de Fénelon）与雅克-贝尼涅·博叙埃（Jacques-Bénigne Bossuet）之间关于 *amour pur*［纯粹之爱］的论战，其导火索是盖恩夫人（Madame Guyon）的神秘主义著述。
+  - id: 11
+    kind: body
+    source: |-
+      Norris had taken an occasionalist position, maintaining that God is the immediate cause of pleasure for us and is therefore the sole and proper object of our love. Creatures are therefore merely the occasional causes of pleasing effects in us, and our love of creatures is inferior and secondary to our love of God. Accordingly he distinguishes two kinds of love: love of God or benevolence and love of creatures or concupiscence, claiming that desire only pertains to the love of God. In response Lady Masham denies Norris’s distinction between love of God and love of creatures, insisting that desire pertains to our love of created things. She argues that our love of God comes not from a divinely instilled idea of God in our minds, but from observing the world around us, whence we conclude, rationally, that we owe love to its creator, God. Her fundamental objection to Norris’s occasionalism is that it undermines the basis of morality because, by denigrating God’s works, it destroys the bonds of human society and the very basis of Christian morality. In opposition to Norris, Lady Masham emphasises the importance of practical morality, arguing that it is integral to religious conduct.
+    step1: |-
+      诺里斯持偶因论立场，主张上帝是我们快乐的直接原因，因此是我们之爱的唯一正当对象。受造物因此只是我们内部愉悦效果的偶因，我们对受造物的爱低于且次于我们对上帝的爱。据此他区分两种爱：对上帝之爱即仁爱，对受造物之爱即贪爱，并声称欲望只与对上帝之爱相关。作为回应，马沙姆夫人否认诺里斯对上帝之爱与受造物之爱的区分，坚持认为欲望与我们对受造之物的爱相关。她论证说，我们对上帝的爱并非来自上帝灌输到我们心灵中的观念，而是来自对周围世界的观察；由此我们理性地得出结论：我们应当爱这个世界的创造者上帝。她对诺里斯偶因论的根本异议在于：它动摇了道德的基础，因为通过贬低上帝的作品，它摧毁了人类社会的纽带以及基督教道德的根基。与诺里斯相对，马沙姆夫人强调实践道德的重要性，主张它是宗教操守的组成部分。
+    step2: |-
+      诺里斯持偶因论立场，主张上帝是我们快乐的直接原因，因而也是我们之爱的唯一正当对象；受造物只是我们内部愉悦效果的偶因，我们对受造物的爱低劣而居次，逊于对上帝之爱。据此他区分两种爱：对上帝之爱即仁爱（benevolence），对受造物之爱即贪爱（concupiscence），并声称唯有对上帝之爱才牵涉欲望。作为回应，马沙姆夫人否认诺里斯关于上帝之爱与受造物之爱的区分，坚持认为欲望牵涉我们对受造之物的爱。她论证：我们对上帝的爱，并非来自上帝灌注于我们心中的观念，而是来自对周遭世界的观察——由此我们理性地得出结论：我们应当爱这个世界的创造者，上帝。她对诺里斯偶因论的根本异议在于：该学说动摇了道德的根基——通过贬低上帝的作品，它摧毁了人类社会的纽带与基督教道德的根基。与诺里斯相对，马沙姆夫人强调实践道德之重要，主张它是宗教操守的组成部分。
+  - id: 12
+    kind: body
+    source: |-
+      Her affinity with Locke is most apparent in her epistemology. For instance she argues that we derive our knowledge of God by comparing ideas “received from Sense and Reflection” and that the idea of God is “a Proposition containing many complex Ideas in it; and which we are not capable of framing till we have been long acquainted with pleasing Sensations” (*A Discourse*, p. 66). She also defines love in a Lockean manner as “complaisance”. A French translation of *A Discourse* by Pierre Coste was published in Amsterdam in 1705, and reviewed in Jean Le Clerc’s *Bibliotheque Choisie* in the same year.
+    step1: |-
+      她与洛克的亲和在认识论上最为明显。例如，她论证说，我们通过比较“从感觉与反省得来的”观念而获得关于上帝的知识，而上帝观念是“一个包含许多复杂观念的命题；在我们长久熟悉愉悦的感觉之前，我们无力构造它”（*A Discourse*，第 66 页）。她还以洛克的方式把爱定义为“和悦”（complaisance）。《论上帝之爱》的法译本由皮埃尔·科斯特（Pierre Coste）翻译，1705 年在阿姆斯特丹出版，同年让·勒克莱尔（Jean Le Clerc）的《精选文库》对其发表了评论。
+    step2: |-
+      她与洛克的亲缘，在认识论上最为显豁。例如她论证：我们通过比较“从感觉与反省得来的”观念而获得关于上帝的知识；上帝观念是“一个包含众多复杂观念的命题；唯有在长久熟悉愉悦的感觉之后，我们才有能力构造它”（*A Discourse*，第 66 页）。她还以洛克的方式把爱定义为“和悦”（complaisance）。《论上帝之爱》的法译本由皮埃尔·科斯特（Pierre Coste）移译，1705 年在阿姆斯特丹出版；同年，让·勒克莱尔（Jean Le Clerc）的《精选文库》（*Bibliotheque Choisie*）刊文评述此书。
+  - id: 13
+    kind: body
+    source: |-
+      ## 3. *Occasional Thoughts*
+    step1: |-
+      ## 3 《偶思》（*Occasional Thoughts*）
+    step2: |-
+      ## 3 《偶思》（*Occasional Thoughts*）
+  - id: 14
+    kind: body
+    source: |-
+      *Occasional Thoughts in Reference to a Vertuous or Christian Life* (1705) develops Lady Masham’s views on practical morality that she had set out in *A Discourse*. The book is also, in part, an answer to Mary Astell’s *The Christian Religion as Professed by a Daughter of the Church* which was published as a reply to *A Discourse Concerning the Love of God*. In a discussion of the role of reason in religious matters and the relationship between religion and virtuous conduct, Lady Masham sets out to defend reasonable Christianity from Deism on the one hand and superstition on the other. Against the Deists, Masham insists on the importance of revelation and faith and denies that natural religion based purely on reason is possible. On the other hand religious belief that ignores the role of reason in religion is mere superstition and will result in bigotry and atheism, because “an Irrational Religion can never Rationally be conceived to come from God” (*Occasional Thoughts*, p. 36). (In Masham’s view, Roman Catholicism, with its stress on the externals of religion is largely superstition). For her part, Lady Masham emphasises the moral aspect of religion, its practical application, rather than doctrinal content. She shares Locke’s view that virtuous living is more important than religious ceremonial. Like Locke in the *Epistola de tolerantia*, she argues that moral conduct is central to religious practice. Accordingly she argues that morality and religion should not be separated in religious instruction. Furthermore, civil and religious liberties are necessary for the exercise of virtue.
+    step1: |-
+      《关于德性或基督徒生活的偶思》（1705）发展了马沙姆夫人在《论上帝之爱》中阐述的实践道德观。这部著作在某种程度上也是对玛丽·阿斯特尔《一个教会之女所信奉的基督教》的回应，后者是作为对《论上帝之爱》的答复而出版的。在关于理性在宗教事务中的作用以及宗教与德行之间关系的讨论中，马沙姆夫人力图捍卫合乎理性的基督教，使其既免于自然神论，也免于迷信。针对自然神论者，马沙姆坚持启示与信仰的重要性，否认纯粹基于理性的自然宗教是可能的。另一方面，无视理性在宗教中之作用的宗教信仰只是迷信，将导致偏执与无神论，因为“一个非理性的宗教永远不能被理性地设想为来自上帝”（*Occasional Thoughts*，第 36 页）。（在马沙姆看来，强调宗教外在形式的罗马天主教在很大程度上就是迷信。）就其自身立场而言，马沙姆夫人强调宗教的道德面向，即其实践应用，而非教义内容。她与洛克一样认为，有德性的生活比宗教仪式更重要。如同《论宽容》中的洛克，她主张道德行为是宗教实践的核心。据此她论证，在宗教教导中不应把道德与宗教分开。此外，公民自由与宗教自由是践行德性所必需的。
+    step2: |-
+      《关于德性或基督徒生活的偶思》（1705）发展了马沙姆夫人在《论上帝之爱》中申说的实践道德观。此书在某种程度上也是对玛丽·阿斯特尔《一个教会之女所信奉的基督教》的回应——后者正是作为对《论上帝之爱》的答复而刊行的。在关于理性于宗教事务中的作用、以及宗教与德行之关系的讨论中，马沙姆夫人力图捍卫合乎理性的基督教，使其既免于自然神论，亦免于迷信。针对自然神论者，马沙姆坚持启示与信仰之重要，否认纯粹基于理性的自然宗教为可能。另一方面，罔顾理性在宗教中之作用的信仰只是迷信，终将沦为偏执与无神论——因为“一个非理性的宗教，永远不能被理性地设想为来自上帝”（*Occasional Thoughts*，第 36 页）。（在马沙姆看来，强调宗教外在仪文的罗马天主教，大体就是迷信。）就自身立场而言，马沙姆夫人强调宗教的道德面向——其实践应用——而非教义内容。她与洛克一样认为：有德的生活重于宗教仪节。如同《论宽容》（*Epistola de tolerantia*）中的洛克，她主张道德行为是宗教实践的核心；并据此论证：在宗教教导中，道德与宗教不应分开。此外，公民自由与宗教自由，是践行德性所必需。
+  - id: 15
+    kind: body
+    source: |-
+      In developing her arguments about practical morality she argues that the exercise of virtue is grounded in civil and religious liberty. “Freedom or Liberty of action”, she insists, is “the greatest endowment that a Created Being is capable of heeding”(*Occasional Thoughts*, pp. 68–78). Education is the key means to inculcate virtue. And virtue is to be learned not through precept but by developing a rational understanding of moral principles. Lack of education and poor education are destructive socially, morally and spiritually, a point which she develops into a feminist argument for the education of women. This centres on the traditional role of mothers in the moral education of their children. Highly critical of the limited and distorted education which girls receive, she argues that a mother cannot give her children a meaningful moral education if she herself is denied education.
+    step1: |-
+      在展开关于实践道德的论证时，她主张德性的践行植根于公民自由与宗教自由。“行动的自由或自由权”，她坚称，是“一个受造物所能拥有的最伟大的禀赋”（*Occasional Thoughts*，第 68–78 页）。教育是灌输德性的关键手段。而德性之习得，不是通过训诫，而是通过形成对道德原则的理性理解。缺乏教育和糟糕的教育在社会、道德与灵性上都具有破坏性——她把这一点发展为支持女性受教育的女性主义论证。这一论证围绕母亲在子女道德教育中的传统角色展开。她对女孩所受的有限而扭曲的教育提出尖锐批评，主张如果母亲自身被剥夺了受教育的机会，她就无法给子女有意义的道德教育。
+    step2: |-
+      在展开实践道德的论证时，她主张：德性的践行植根于公民自由与宗教自由。“行动的自由或自由权”，她坚称，是“一个受造物所能拥有的最伟大禀赋”（*Occasional Thoughts*，第 68–78 页）。教育是熏陶德性的关键手段；而德性之习得，不在训诫，而在养成对道德原则的理性理解。教育的缺乏与低劣，在社会、道德与灵性上皆有破坏性——她由此发展出一项支持女性受教育的女性主义论证。这一论证围绕母亲在子女道德教育中的传统角色而展开：她对女孩所受的有限而扭曲的教育批评甚力，主张母亲若自身被剥夺受教育的机会，便无法给子女有意义的道德教育。
+  - id: 16
+    kind: body
+    source: |-
+      ## 4. Correspondence
+    step1: |-
+      ## 4 书信
+    step2: |-
+      ## 4 书信
+  - id: 17
+    kind: body
+    source: |-
+      Damaris Masham’s correspondence is important for the insight it gives into her philosophical interests. It is not a perfect source, as it is far from complete. She herself preferred what she called “rationall conversation” as a medium for philosophical discussion. After Locke’s arrival at Oates, she was able to engage in person with visitors from Locke’s otherwise male social world of friends and associates, such as his nephew Peter King, Anthony Collins, John Shute (later Viscount Barrington), Francis Mercury van Helmont, Samuel Bolde, Lord Shaftesbury, Lord Peterborough and Isaac Newton. Among these, Pierre Coste was engaged as tutor to her son. Prior to this, letter-writing enabled her to engage with others beyond her domestic environment. Letters also mitigated her isolation from company at Oates after her marriage. Subsequently, the review of her *Discourse* in Jean Le Clerc’s *Bibliotheque Choisie*, was confirmation that she acquired a place of sorts in the international intellectual network known as the ‘Republic of Letters’, which was centred on Huguenot diaspora in the Netherlands. Her international correspondents from this network besides Jean Le Clerc included Philip van Limborch and Gottfried Wilhelm Leibniz.
+    step1: |-
+      达马里斯·马沙姆的通信为了解她的哲学兴趣提供了重要窗口。它并非完美的文献，因为它远非完整。她本人更偏爱她所谓“有理性的交谈”作为哲学讨论的媒介。洛克抵达奥茨之后，她得以亲自接触洛克社交圈——那是一个以男性为主的朋友与同道的世界——的来访者，例如洛克的侄子彼得·金（Peter King）、安东尼·柯林斯（Anthony Collins）、约翰·舒特（John Shute，即后来的巴林顿子爵）、弗朗西斯·墨丘利·范·赫尔蒙特（Francis Mercury van Helmont）、塞缪尔·博尔德（Samuel Bolde）、沙夫茨伯里勋爵（Lord Shaftesbury）、彼得伯勒勋爵（Lord Peterborough）与牛顿（Isaac Newton）。其中，皮埃尔·科斯特受聘为她儿子的家庭教师。在此之前，书信使她得以与家庭环境之外的人交流。书信也缓解了她婚后在奥茨与世隔绝的孤独。后来，让·勒克莱尔的《精选文库》对她《论上帝之爱》的评论，证实她在那个以荷兰胡格诺流亡者为中心的“文人共和国”国际思想网络中获得了一席之地。她在这个网络中的国际通信人，除让·勒克莱尔外，还包括菲利普·范·林博尔赫（Philip van Limborch）与戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz）。
+    step2: |-
+      达马里斯·马沙姆的通信，为了解她的哲学兴趣提供了重要窗口；但它并非完美的文献——远非完整。她本人更偏爱她所谓的“有理性的交谈”（rationall conversation）作为哲学讨论的媒介。洛克抵达奥茨之后，她得以亲自接待来自洛克社交圈的访客——那本是一个以男性为主的朋友与同道世界——如洛克的侄子彼得·金（Peter King）、安东尼·柯林斯（Anthony Collins）、约翰·舒特（John Shute，即后来的巴林顿子爵）、弗朗西斯·墨丘利·范·赫尔蒙特（Francis Mercury van Helmont）、塞缪尔·博尔德（Samuel Bolde）、沙夫茨伯里勋爵（Lord Shaftesbury）、彼得伯勒勋爵（Lord Peterborough）与牛顿（Isaac Newton）。其中，皮埃尔·科斯特受聘为她儿子的家庭教师。在此之前，书信使她得以与家庭之外的人士往还；书信也纾解了她婚后在奥茨独处无侣的孤寂。后来，让·勒克莱尔的《精选文库》刊文评述其《论上帝之爱》，证实她在那个以荷兰胡格诺流亡者为中枢的“文人共和国”（Republic of Letters）国际思想网络中占得了一席之地。她在这个网络中的国际通信人，除让·勒克莱尔外，还有菲利普·范·林博尔赫（Philip van Limborch）与戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz）。
+  - id: 18
+    kind: body
+    source: |-
+      Damaris Masham’s extant correspondence indicates a lively interest in a range of topics, such as friendship and religious toleration. The most philosophically important letters were those she exchanged with Locke and Leibniz.
+    step1: |-
+      达马里斯·马沙姆存世的通信表明她对一系列论题有活跃的兴趣，如友谊与宗教宽容。哲学上最重要的书信是她与洛克和莱布尼茨的通信。
+    step2: |-
+      达马里斯·马沙姆存世的通信显示，她对友谊、宗教宽容等一系列论题抱有活跃的兴趣。哲学上最重要的，是她与洛克、与莱布尼茨的通信。
+  - id: 19
+    kind: body
+    source: |-
+      The correspondence with Locke, conducted between 1682 and Locke’s taking up residence at Oates, is the largest extant group of letters (some 45 letters survive). Most of Locke’s letters to her have been lost and many of the letters are of a personal nature. But themes include proof of the existence of God and the role of reason in matters of religion. Early on she defends the epistemology of the Cambridge Platonist, John Smith, arguing that there is a supra-rational/elevated form of knowledge accessible by a ‘Higher Principle’ than reason, which may nonetheless be activated with the help of reason. Locke however, dismissed this as a form of ‘Enthusiasm’. Later she commented on the Epitome of Locke’s *Essay* which he sent her in 1688.
+    step1: |-
+      与洛克的通信从 1682 年持续到洛克入住奥茨，是存世书信中规模最大的一组（约 45 封存世）。洛克写给她的信大多散佚，许多书信带有私人性质。但其中论题包括上帝存在的证明以及理性在宗教事务中的作用。早期她为剑桥柏拉图主义者约翰·史密斯的认识论辩护，主张存在一种超理性/高级的知识形式，可以经由一个高于理性的“更高原则”通达，尽管它仍可以借助理性的帮助而被激活。然而洛克斥之为“狂热”（Enthusiasm）的一种形式。后来她评论了洛克 1688 年寄给她的《人类理解论》节要（Epitome）。
+    step2: |-
+      与洛克的通信自 1682 年始，迄于洛克入住奥茨，是存世书信中规模最大的一组（约存 45 封）。洛克写给她的信大多散佚，许多书信纯属私人性质；但其中论题包括上帝存在的证明，以及理性在宗教事务中的作用。早期，她为剑桥柏拉图主义者约翰·史密斯的认识论辩护，主张存在一种超理性/高级的知识形式，可经由一个高于理性的“更高原则”通达——尽管它仍可借助理性而被激活。洛克却斥之为“狂热”（Enthusiasm）之一种。后来她评注了洛克 1688 年寄给她的《人类理解论》节要（Epitome）。
+  - id: 20
+    kind: body
+    source: |-
+      Between 1704 and 1705–6, Lady Masham corresponded with Leibniz, at his instigation, perhaps because he hoped thereby, to have contact with Locke. This gave her the opportunity to discuss Leibniz’s philosophy with him, and for Leibniz to discuss the philosophy of her father, Ralph Cudworth. Lady Masham knew Leibniz’s philosophy only indirectly from the *Journal des Sçavans* of 1695, and Bayle’s article “Rorarius” in the first edition of his *Dictionnaire*. She takes issue with Leibniz on a number of points, including his theory of pre-established harmony, the nature of substance and free will.
+    step1: |-
+      1704 年至 1705–6 年间，马沙姆夫人应莱布尼茨之请与之通信，他或许希望借此与洛克取得联系。这使她有机会与莱布尼茨讨论他的哲学，也使莱布尼茨得以讨论她父亲拉尔夫·库德沃斯的哲学。马沙姆夫人对莱布尼茨哲学的了解只是间接的，来自 1695 年的《学者杂志》（*Journal des Sçavans*）与培尔《历史与批判词典》第一版中的“罗拉里乌斯”（Rorarius）条目。她在若干论点上与莱布尼茨争执，包括他的前定和谐理论、实体本性与自由意志。
+    step2: |-
+      1704 年至 1705–6 年间，马沙姆夫人应莱布尼茨之请与之通信——他或许希望借此与洛克搭上线。这使她得以与莱布尼茨讨论其哲学，也使莱布尼茨得以讨论她父亲拉尔夫·库德沃斯的哲学。马沙姆夫人对莱布尼茨哲学的了解纯然间接：来自 1695 年的《学者杂志》（*Journal des Sçavans*），以及培尔《历史与批判词典》（*Dictionnaire*）第一版中的“罗拉里乌斯”（Rorarius）条目。她在若干论点上与莱布尼茨争执不下：包括前定和谐理论、实体本性，以及自由意志。
+  - id: 21
+    kind: body
+    source: |-
+      Her correspondence with Jean Le Clerc gives some insight into her views on religious toleration. It also includes her defence of her father’s *True Intellectual System of the Universe* against the critique of Cudworth by Pierre Bayle, a controversy which was conducted by proxy through Jean Le Clerc. This is revealing in a number of ways. It shows she was willing to disagree with Cudworth (e.g., on the question of whether there could be such a thing as unextended substance), whilst retaining her respect for him and being prepared to defend him against his detractors (in this case Pierre Bayle). It also indicates that she had not abandoned all the Platonist tenets to which she subscribed before she met Locke.
+    step1: |-
+      她与让·勒克莱尔的通信为了解她的宗教宽容观提供了某些洞见。其中还包括她为其父亲的《宇宙的真正理智体系》辩护、回击培尔对库德沃斯的批评的内容——这场论战是经由让·勒克莱尔代为进行的。这些书信在多个方面颇有启示。它表明她愿意与父亲意见相左（例如关于是否存在无广延的实体的问题），同时又保持对他的尊敬，并准备挺身回击那些贬损他的人（在这里是皮埃尔·培尔）。这也表明，她并未放弃自己在结识洛克之前信奉的全部柏拉图主义信条。
+    step2: |-
+      她与让·勒克莱尔的通信，为了解其宗教宽容观提供了若干洞见。其中还包括她为其父《宇宙的真正理智体系》辩护、回击培尔对库德沃斯的批评——这场论战是借让·勒克莱尔代为进行的。这些书信在多个方面颇具启示：它表明她愿意与父亲意见相左（例如关于是否存在无广延实体的问题），同时仍保持对他的敬意，并准备挺身为他回击贬损者（此处即皮埃尔·培尔）。这也表明：她并未抛弃自己在结识洛克之前信奉的全部柏拉图主义信条。
+  - id: 22
+    kind: oir
+    source: |-
+      - [Project Vox](http://projectvox.org/masham-1659-1708/)
+    step1: |-
+      - [Project Vox](http://projectvox.org/masham-1659-1708/)
+    step2: |-
+      - [Project Vox](http://projectvox.org/masham-1659-1708/)

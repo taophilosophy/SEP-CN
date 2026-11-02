@@ -1,0 +1,50 @@
+{
+  "slug": "lady-masham",
+  "kind": "retranslate",
+  "zh_doc": "l/lady-masham.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-02T18:39:45Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:52:45Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/lady-masham.ledger.yaml 22 段（反思两步齐备），守恒校验通过（软旗留痕：5 个机械段 step1==step2、7 处斜体→书名号计数差）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:52:45Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 21 段：书名（A Discourse/Occasional Thoughts/Epistola de tolerantia）与引用（*A Discourse* p.66 / *Occasional Thoughts* p.36, pp.68-78）逐字符核验；人名对齐 SUMMARY 定名 达玛里斯（正文原用 达马里斯，修弱势方）；相关词条 5 项全映射"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:52:46Z",
+      "evidence": "check_prose 首跑 11 处实修：长句拆分×4（16/32/36/44）、的链消解×6、最大幸福/鹄的句重排；复跑 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:52:46Z",
+      "evidence": "四检全过：check_style 0 / check_academic 0 硬错误 / check_math 0 / prose 0；人名 10 位新登记 ren-ming-biao.md（马沙姆/莱布尼茨/马勒伯朗士/培尔/库德沃斯/莫尔/诺里斯/勒克莱尔/科斯特/斯蒂林弗利特）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-02T18:39:44Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 25, 2020",
+    "archive_edition": "Winter 2020",
+    "sha256": "845ed4c205795f14c78fc6d9f7f5ec580585e38a6dbb436813b56135eaa058a5"
+  }
+}

@@ -110,6 +110,16 @@
 | Hans Kelsen | 汉斯·凯尔森 | lawphil-theory | 学界通行汉译（纯粹法学创始人）；待 specs/008 审定库复核 | 2026-11-03 |
 | Joseph Raz | 约瑟夫·拉兹 | lawphil-theory | 学界通行汉译（法哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | H.L.A. Hart | 哈特（首现括注 H.L.A. Hart） | lawphil-theory | 学界通行汉译（法哲学家，《法律的概念》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Damaris Masham | 达玛里斯·马沙姆 | lady-masham | 学界通行汉译（早期英格兰女性哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Gottfried Wilhelm Leibniz | 戈特弗里德·威廉·莱布尼茨 | lady-masham | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Nicolas Malebranche | 尼古拉·马勒伯朗士 | lady-masham | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-03 |
+| Pierre Bayle | 皮埃尔·培尔 | lady-masham | 学界通行汉译（《历史与批判词典》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Ralph Cudworth | 拉尔夫·库德沃斯 | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Henry More | 亨利·莫尔 | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
+| John Norris | 约翰·诺里斯 | lady-masham | 学界通行汉译（马勒伯朗士派英格兰拥护者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Jean Le Clerc | 让·勒克莱尔 | lady-masham | 学界通行汉译（胡格诺学者、《精选文库》主编）；待 specs/008 审定库复核 | 2026-11-03 |
+| Pierre Coste | 皮埃尔·科斯特 | lady-masham | 学界通行汉译（洛克著作法译者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Edward Stillingfleet | 爱德华·斯蒂林弗利特 | lady-masham | 学界通行汉译（伍斯特主教）；待 specs/008 审定库复核 | 2026-11-03 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
