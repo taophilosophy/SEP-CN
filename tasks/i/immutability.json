@@ -2,7 +2,7 @@
   "slug": "immutability",
   "kind": "retranslate",
   "zh_doc": "i/immutability.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:23:20Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0（check_style 0 / check_academic OK / check_math 0）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:44:05Z",
+      "evidence": "独立复审（复审者≠初译会话）：对照 yuanwen/i/immutability.md 四节+导语逐段核销，无漏译（全部小节、论证编号（1）–（4）、引块（P）、脚注文献格式核验）；发现系统性死译'知识到'×10（know 的误译，L31/33/37）与 proper parts 误译'固有部分'→真部分，已修"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:44:05Z",
+      "evidence": "逐句回核：修 11 处欧化与措辞——'被承诺于'/'停止成为它之所是'/'怀念其过去'（miss 误译）/ '一新造的'/'从无宇宙存在过'（语序歧义）/ '西方神论'省称归一/'理所当然'（ipso facto）/'仅在其…时'（only if 逻辑）/ '做了…进路'搭配/'我是'命名句重构/en *every* 斜体强调按体例转加粗"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:44:44Z",
+      "evidence": "终稿验收：check_style --strict 0；check_math 无不平衡（本文无数学定界符）；学术门禁见 advance 自动拦截；神学术语一致性核验（偶性/此性/无时间性/现在主义）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T16:44:44Z",
+      "evidence": "终审签字：六道全过，独立复审完成（r1 抓系统性死译10处+术语1处，r2 修12处），exit 0"
     }
   ],
   "blockers": [],
