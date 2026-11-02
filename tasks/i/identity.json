@@ -2,7 +2,7 @@
   "slug": "identity",
   "kind": "retranslate",
   "zh_doc": "i/identity.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main-session",
       "at": "2026-11-01T19:23:19Z",
       "evidence": "第二批子代理已产出译文（459行），主会话收口推进：体例/学术门禁核验通过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:26:46Z",
+      "evidence": "独立复审：对照 yuanwen 十节（引言/逻辑/相对同一性/标准/历时/跨界/偶然/组合即同一/模糊/结论）+Tibbles 两版/Tibbles 千毛/Gibbard 伦普尔-歌利亚/Hawley 阿尔法-欧米伽/刘易斯五相似性主张+ Lewis 1986 引块逐段核销，无漏译（2026 修订新增的 personites 认识论反驳、Gallois 同一性约定、奠基文献 Litland/Rubenstein/Kappes/Thornton、Burgess 分割职能全在场）；源文 Lumpl*/Goliath* 星标名转义残迹确认"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:26:46Z",
+      "evidence": "逐句回核修 20 处：pubinfo 体例/数值同一→数目同一×5（对齐 identity-personal）/可分者→不可分者同一性原理（对齐 SUMMARY 登记名）/L71 person 被泛化为 F（实修）/persistence→持存×3、persisting→持存事物×2（本档内三词三分：持存/持续=endure/延续=perdure）/mereological→部分学×3/祛魅→紧缩论×2（deflationary）/空复数→空复多（empty plurality）/星标转义修复×2；跨条目：identity-personal 持续主义→延续主义（perdurantism 对齐）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:26:47Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；形而上学术语一致性核验（莱布尼茨律/同指称词/I谓词/种词/一级二级标准/休谟原理/延续-持续-持存三立/对应物理论/组合即同一/奠基与零奠基）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T20:26:47Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
