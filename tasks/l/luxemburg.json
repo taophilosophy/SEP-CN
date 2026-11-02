@@ -1,0 +1,50 @@
+{
+  "slug": "luxemburg",
+  "kind": "retranslate",
+  "zh_doc": "l/luxemburg.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-02T20:26:43Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T21:08:53Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/luxemburg.ledger.yaml 52 段（反思两步齐备：step1 忠实初译/step2 语言优化，全文真实双版）；守恒校验通过——身份门两次抓错并纠正：段45 漏译'双重压迫'句重写补齐（漏译实修）、段18/35 source 混排修正；软旗留痕：标题/OIR 机械段×3、斜体计数差×2"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T21:08:53Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 51 段：引用组（Luxemburg 1900/1905/1913/1915/1917/1922 各 RLR/AK/CW 页码、Marx 1887 p.727、Lenin 1929 pp.95/113、Nettl 1966 pp.17/310、Fröhlich 1940 pp.239/273）与德文书名（Die Akkumulation des Kapitals/Juniusbrochüre/Rote Fahne/Sprawa Robotnica）逐字符核验；德雷福斯事件/纳马-赫雷罗种族灭绝/布列斯特-立托夫斯克和约等史实核销；相关词条 12 项映射 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T21:08:53Z",
+      "evidence": "check_prose 首跑 92 处，三轮批量实修 119 处替换归至 17：长句拆分×30+、的链/三连消解×40+、弱动词×3（加以剥削/加以反思/作出反应）、被动×2、as-one×1；余 17 处按 ADR-0020 豁免留痕：引文内部三'的'结构（卢森堡/列宁/马克思引文忠实所需，拆改有损引文）及破折号插入结构跨引号计算所致，人工逐条判读无破句无漏译"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T21:08:54Z",
+      "evidence": "四检：check_style 0（中文斜体 市民/公民/总/无产阶级群众运动的方法 改加粗）、check_academic 0 硬错误、check_math 0、prose 17 豁免留痕；人名 19 位登记 ren-ming-biao.md（卢森堡/列宁/伯恩施坦/考茨基/倍倍尔/蔡特金/李卜克内西/梅林/希法亭/约吉希斯/诺斯克/艾伯特/俾斯麦/密茨凯维奇/布哈林/凯恩斯/卡莱茨基/明斯基）；refs 节实义文献块（[AK]/[CW]/[RLR]）解析修复后照录保留"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-02T20:26:43Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 13, 2022",
+    "archive_edition": "Summer 2025",
+    "sha256": "0158645955826c6ad525f5017cd42a70730fb58b729e404a88cca846f6e07dcf"
+  }
+}

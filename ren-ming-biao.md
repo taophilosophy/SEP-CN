@@ -130,6 +130,24 @@
 | Richard Rorty | 理查德·罗蒂 | law-ideology | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Daniel Bell | 丹尼尔·贝尔 | law-ideology | 学界通行汉译（社会学家，《意识形态的终结》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Susan Moller Okin | 苏珊·莫勒·奥金 | law-ideology | 学界通行汉译（女性主义政治哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Rosa Luxemburg | 罗莎·卢森堡 | luxemburg | 学界通行汉译（《卢森堡文选》通行）；待 specs/008 审定库复核 | 2026-11-03 |
+| Vladimir Lenin | 弗拉基米尔·列宁 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Eduard Bernstein | 爱德华·伯恩施坦 | luxemburg | 学界通行汉译（修正主义者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Karl Kautsky | 卡尔·考茨基 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| August Bebel | 奥古斯特·倍倍尔 | luxemburg | 学界通行汉译（德国工人运动领袖）；待 specs/008 审定库复核 | 2026-11-03 |
+| Clara Zetkin | 克拉拉·蔡特金 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Karl Liebknecht | 卡尔·李卜克内西 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Franz Mehring | 弗兰茨·梅林 | luxemburg | 学界通行汉译（《马克思传》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Rudolph Hilferding | 鲁道夫·希法亭 | luxemburg | 学界通行汉译（《金融资本》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Leo Jogiches | 莱奥·约吉希斯 | luxemburg | 学界通行汉译（卢森堡战友与伴侣，《卢森堡文选》译名惯例）；待 specs/008 审定库复核 | 2026-11-03 |
+| Gustav Noske | 古斯塔夫·诺斯克 | luxemburg | 学界通行汉译（社民党国防部长）；待 specs/008 审定库复核 | 2026-11-03 |
+| Friedrich Ebert | 弗里德里希·艾伯特 | luxemburg | 学界通行汉译（魏玛首任总统）；待 specs/008 审定库复核 | 2026-11-03 |
+| Otto von Bismarck | 奥托·冯·俾斯麦 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Adam Mickiewicz | 亚当·密茨凯维奇 | luxemburg | 学界通行汉译（波兰诗人）；待 specs/008 审定库复核 | 2026-11-03 |
+| Nikolai Bukharin | 尼古拉·布哈林 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| John Maynard Keynes | 约翰·梅纳德·凯恩斯 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Michal Kalecki | 米哈尔·卡莱茨基 | luxemburg | 学界通行汉译（波兰经济学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Hyman Minsky | 海曼·明斯基 | luxemburg | 学界通行汉译（金融不稳定假说）；待 specs/008 审定库复核 | 2026-11-03 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
