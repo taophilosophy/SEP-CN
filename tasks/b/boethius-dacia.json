@@ -2,7 +2,7 @@
   "slug": "boethius-dacia",
   "kind": "retranslate",
   "zh_doc": "b/boethius-dacia.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:15:56Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:26:53Z",
+      "evidence": "初译稿 641faf13 在库（约 9.7k 汉字，章节 9/9 全型，著作清单 26 项与源文对应）；本会话修复畸形强调标记 9 组（*X** 型）与斜体 pubinfo 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:26:53Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：1.1-1.2/著作清单（语法4+逻辑8+自然哲学11+形而上1+伦理2+修辞1）/3.1-3.6/影响/文献+脚注 13 条+相关词条 11 项全对应；存佚标记 *†§ 语义保留（转义字面星号）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:26:53Z",
+      "evidence": "check_prose 34→21：实修 12 处（贡献卓著 6、理智句拆分 85×2、辩论句拆分 117、回归句拆分 121、形而上学家句拆分 123、其义为 153、这样 161、大年句拆分 171、论预言句拆分 173×2、划线句拆分 201）；余 21 条逐条豁免：de-chain 皆自然中文或直引句，147/149 被动为经院术语句式（不被存在/被生成/被毁坏），83/85/117/153/161/173 长句为源文等长或括注致长"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T17:26:53Z",
+      "evidence": "check_style 0 issue（存佚标记 \\* 字面转义、清单星号与斜体错配修复、F/B 稿本符号改加粗裁定留痕、第58行括注重排）；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；相关词条 11 项与 SUMMARY 登记名一致（艾尔伯图斯·麦格努斯（大阿尔伯特）等）"
     }
   ],
   "blockers": [],
