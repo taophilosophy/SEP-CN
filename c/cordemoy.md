@@ -9,17 +9,17 @@
 
 热罗（或热罗尔）·德·科尔德穆瓦（Géraud (or Gerauld) de Cordemoy）于 1626 年 10 月出生，是巴黎大学一位教授之子。他是热罗与妮可·德·科尔德穆瓦所生四个孩子中的第三个，也是唯一的儿子。他九岁时父亲去世；除此之外，关于科尔德穆瓦的早年岁月几乎一无所知。他与玛丽·德·沙泽勒（Marie de Chazelles）的结婚日期虽无记录，但已知他五个孩子中的第一个生于 1651 年 12 月 7 日，时科尔德穆瓦二十五岁。
 
-科尔德穆瓦以律师为业谋生，却在巴黎哲学圈中十分活跃。他出入各种哲学沙龙，并结识了米尼姆会士埃马纽埃尔·马尼昂（Emmanuel Maignan）与物理学家雅克·罗奥（Jacques Rohault），二人皆为哲学会议的组织者。1664 年，科尔德穆瓦的论文《论物体的作用》（*Discours de l’áction des corps*）与罗奥的一篇谈话一同，被收入克洛德·克莱尔瑟利耶（Claude Clerselier）所编笛卡尔《世界》（*Le Monde **）的遗著之中。该文后来成为科尔德穆瓦两部最重要著作之一所收六篇谈话中的第二篇，即《论身体与灵魂之辨别——六篇谈话，为阐明物理学而作》（** Le Discernement du corps et de l’âme en six discours pour servir à l’éclaircissement de la physique*）（1666）。在这部著作中，科尔德穆瓦陈述其原子论、其对偶因论的论证，以及他对心灵与物体之区分及其相互作用的说明。
+科尔德穆瓦以律师为业谋生，却在巴黎哲学圈中十分活跃。他出入各种哲学沙龙，并结识了米尼姆会士埃马纽埃尔·马尼昂（Emmanuel Maignan）与物理学家雅克·罗奥（Jacques Rohault），二人皆为哲学会议的组织者。1664 年，科尔德穆瓦的论文《论物体的作用》（*Discours de l’áction des corps*）与罗奥的一篇谈话一同，被收入克洛德·克莱尔瑟利耶（Claude Clerselier）所编笛卡尔《世界》（*Le Monde*）的遗著之中。该文后来成为科尔德穆瓦两部最重要著作之一所收六篇谈话中的第二篇，即《论身体与灵魂之辨别——六篇谈话，为阐明物理学而作》（*Le Discernement du corps et de l’âme en six discours pour servir à l’éclaircissement de la physique*）（1666）。在这部著作中，科尔德穆瓦陈述其原子论、其对偶因论的论证，以及他对心灵与物体之区分及其相互作用的说明。
 
 科尔德穆瓦的另一部重要著作《言语的物理学谈话》（*Discours physique de la parole*）于 1668 年问世，他的《致耶稣会一位博学修士的信的抄本》（*Copie d’une lettre ecrite à un sçavant religieux de la Compagnie de Jésus*）亦于同年出版。后者是科尔德穆瓦试图调和笛卡尔哲学与《创世记》所载创世故事之作；前者则是对言语产生过程的说明，其流传使科尔德穆瓦被公认为当时较重要的法国哲学家之一。他甚至成为莫里哀（Molière）戏剧《贵人迷》（*Le Bourgeois Gentilhomme*）中“哲学教师”这一人物的原型。
 
-科尔德穆瓦的其他较短作品，包括他的《形而上学论集》（*Traitez de Metaphysique **）与《历史与政治论集》（** Traitez sur l’Histoire et la Politique*）。去世时，科尔德穆瓦正在撰写一部法国史，此书由其长子路易-热罗（Louis-Géraud）续成，分两卷于 1685 与 1689 年问世。除哲学与历史著述外，科尔德穆瓦还短暂出任法兰西学院（*l’Academie Français*）院长（他于 1675 年当选为院士），并一度担任国王路易十四之子王太子（Dauphin）的教师。就在他 58 岁生日后不久，科尔德穆瓦罹患一场小恙，于 1684 年 10 月 15 日辞世。
+科尔德穆瓦的其他较短作品，包括他的《形而上学论集》（*Traitez de Metaphysique*）与《历史与政治论集》（*Traitez sur l’Histoire et la Politique*）。去世时，科尔德穆瓦正在撰写一部法国史，此书由其长子路易-热罗（Louis-Géraud）续成，分两卷于 1685 与 1689 年问世。除哲学与历史著述外，科尔德穆瓦还短暂出任法兰西学院（*l’Academie Français*）院长（他于 1675 年当选为院士），并一度担任国王路易十四之子王太子（Dauphin）的教师。就在他 58 岁生日后不久，科尔德穆瓦罹患一场小恙，于 1684 年 10 月 15 日辞世。
 
 ## 2. 原子论
 
 笛卡尔主张，物体的本质是广延，因此物质可以无限分割。如果物体的本性是在三维空间中占据位置，也就是说，具有宽、长与高，那么我们总能设想这种宽、长或高被分割。此外，按照笛卡尔形而上学，广延是物体的主要属性，因而不能脱离物体而独立存在（物体也不能脱离它而独立存在）。因此按笛卡尔的说法，凡有广延空间之处，便有物体占据该空间，这就使虚空的存在成为不可能。有鉴于此，科尔德穆瓦——其形而上学在大多数其他方面都相当笛卡尔式——在《辨别》开篇就论证不可分割的原子与空的空间两者都存在，便令人惊讶了。
 
-《辨别》的第一篇谈话开篇提出五条关于物体的主张，为科尔德穆瓦的物理学奠定基础（他随后在第二、三篇谈话中加以讨论）。他告诉我们：物体（1）在广延上是有限的，这一界限被称为物体的‘形状’；（2）既然每一物体都是一个实体，物体便不可分割为更小的物体，也不可被其他物体所穿透；（3）一个物体与其他物体之间的关系被称为它的‘位置’；（4）这种关系的变化便是该物体的运动；（5）当这种关系保持不变时，该物体便处于静止。科尔德穆瓦随后宣称，物质被清晰分明地理解为物体的集合。恰当地说，物体是物质的部分，而这些物体彼此相关的方式决定了该集合是哪一种物质部分：如果它们彼此非常接近，它就是一堆（*un tas*）；如果它们“不断改变其位置”（1968, 96）[^cordemoy-1968]，它就是流体（*une liqueur **）；而如果这些物体不动、彼此又不能分离，它就是团块（** une masse*）。
+《辨别》的第一篇谈话开篇提出五条关于物体的主张，为科尔德穆瓦的物理学奠定基础（他随后在第二、三篇谈话中讨论）。他告诉我们：物体（1）在广延上是有限的，这一界限被称为物体的‘形状’；（2）既然每一物体都是一个实体，物体便不可分割为更小的物体，也不可被其他物体所穿透；（3）一个物体与其他物体之间的关系被称为它的‘位置’；（4）这种关系的变化便是该物体的运动；（5）当这种关系保持不变时，该物体便处于静止。科尔德穆瓦随后宣称，物质被清晰分明地理解为物体的集合。恰当地说，物体是物质的部分，而这些物体彼此相关的方式决定了该集合是哪一种物质部分：如果它们彼此非常接近，它就是一堆（*un tas*）；如果它们“不断改变其位置”（1968, 96）[^cordemoy-1968]，它就是流体（*une liqueur*）；而如果这些物体不动、彼此又不能分离，它就是团块（*une masse*）。
 
 科尔德穆瓦接受原子论的理由虽未明言，却似乎建立在他对实体概念的理解之上。追随笛卡尔，科尔德穆瓦把实体理解为不依赖任何其他东西而存在的东西。严格说来，这将使上帝成为唯一的实体；但在受造世界中，笛卡尔主张，我们可以把心灵与物体在一种有限定的意义上视为实体。这些实体中的每一个都有一个仅凭理性便可与其相区分的主要属性。正是通过这一属性我们才构想该实体，也正是它，实体的所有其他性质才被归于其上。就心灵而言，这一属性是思维；就物体而言，如上所述，是广延。
 
@@ -38,9 +38,9 @@
 
 第二与第三个*inconveniens*都涉及笛卡尔关于物理物体个体化的理论。对笛卡尔而言，物体依运动而个体化：一个个别物体是那一起运动的部分物质，亦即相对于其邻近物体而改变位置者。科尔德穆瓦的第一个问题是：按照这一说明，我们如何能个体化一个静止的物体：“按照他们的学说，我们无法设想一个位于其他物体之间的静止物体，因为假定它接触它们，这一学说便教导说，它与它们一起只构成一个物体。然而在我看来，我们对一个完全静止于其他物体之间、其中毫无运动之物的物体有一个非常清晰、非常自然的观念，而我对每个物体所说的与这一观念完全吻合”（1968, 99）[^cordemoy-1968]。于是，正是我们关于一个位于其他物体之间、同时又与它们相区别的静止物体的清晰构想，给笛卡尔派的理论带来了麻烦。另一方面，科尔德穆瓦没有这样的问题，因为对他而言，唯一 **真正** 的物理个体是物体/原子；所有其他‘物体’都应正当地称为物质，而只是在该词的松散意义上才是个体。
 
-科尔德穆瓦提出的第三个问题涉及一个其不同部分朝不同方向运动的物体，例如一棵树及其枝叶在风中飘动。按照笛卡尔自己对物理个体的定义，我们似乎会遇到一个问题，因为这些不同部分相对于那些会被视为其邻近者的其他个体而各自不同地变化。在诸如此类的情形中，似乎会“得出：当邻近物体沿相对之线在不同位置推它时，它们将按它被推的方式把它分成同样多的部分”（同上）。与第二项不满一样，这违反我们对该对象作为一个东西所具有的清晰观念。而和先前一样，科尔德穆瓦指出，他的原子论不会出现这样的问题。
+科尔德穆瓦提出的第三个问题涉及一个其不同部分朝不同方向运动的物体，例如一棵树及其枝叶在风中飘动。按照笛卡尔自己对物理个体的定义，我们似乎会遇到一个问题，因为这些不同部分相对于那些会被视为其邻近者的其他个体而各自不同地变化。在诸如此类的情形中，似乎会“得出：当邻近物体沿相对之线在不同位置推它时，它们将按它被推的方式把它分成同样多的部分”（同上）。与第二项不满一样，这违反我们对“该对象是一个东西”的清晰观念。而和先前一样，科尔德穆瓦指出，他的原子论不会出现这样的问题。
 
-如前所述，科尔德穆瓦在笛卡尔的追随者中是唯一接受原子论的人。他最严厉的批评者之一是他的笛卡尔派同道、多姆·罗贝尔·戴加贝（Dom Robert Desgabets），后者指责科尔德穆瓦给笛卡尔的敌人——即伽桑狄派，他们本身就是原子论者——提供了弹药。克莱尔瑟利耶曾寄给戴加贝一册《辨别》，戴加贝随即以其《致克莱尔塞利耶先生书：关于〈论身体与灵魂之辨别〉一书中所载支持原子与虚空的新论证》（*Lettre écrite a M. Clerselier touchant les nouveaux raisonnements pour les atomes et le vide contenus dans le livre du discernement du corps et de l’âme **）作答。除了指控他背叛真正的哲学之外，戴加贝还为‘不定/无限’之区分的可理解性辩护，并对科尔德穆瓦的立场提出数项批评。他指出，按照笛卡尔的术语，既然距离是一种样态，它就只能作为实体的样态而存在。因此，凡有距离之处，它必是** 某物*的距离，而既然距离以定量方式表达，那个某物便总可以被分割，哪怕只能由上帝分割。同样的思路表明虚空不可能：如果人们声称两点之间只有空的空间，那么那里便没有任何能具有任何性质（包括长度）的东西。那么，两点之间的长度究竟是何种东西的性质呢？科尔德穆瓦没有在出版物中回应戴加贝，但这位本笃会修士似乎为任何持基于笛卡尔形而上学的原子论的人提出了一些重要问题。
+如前所述，科尔德穆瓦在笛卡尔的追随者中是唯一接受原子论的人。他最严厉的批评者之一是他的笛卡尔派同道、多姆·罗贝尔·戴加贝（Dom Robert Desgabets），后者指责科尔德穆瓦给笛卡尔的敌人——即伽桑狄派，他们本身就是原子论者——提供了弹药。克莱尔瑟利耶曾寄给戴加贝一册《辨别》，戴加贝随即以其《致克莱尔塞利耶先生书：关于〈论身体与灵魂之辨别〉一书中所载支持原子与虚空的新论证》（*Lettre écrite a M. Clerselier touchant les nouveaux raisonnements pour les atomes et le vide contenus dans le livre du discernement du corps et de l’âme*）作答。除了指控他背叛真正的哲学之外，戴加贝还为‘不定/无限’之区分的可理解性辩护，并对科尔德穆瓦的立场提出数项批评。他指出，按照笛卡尔的术语，既然距离是一种样态，它就只能作为实体的样态而存在。因此，凡有距离之处，它必是 **某物** 的距离，而既然距离以定量方式表达，那个某物便总可以被分割，哪怕只能由上帝分割。同样的思路表明虚空不可能：如果人们声称两点之间只有空的空间，那么那里便没有任何能具有任何性质（包括长度）的东西。那么，两点之间的长度究竟是何种东西的性质呢？科尔德穆瓦没有在出版物中回应戴加贝，但这位本笃会修士似乎为任何持基于笛卡尔形而上学的原子论的人提出了一些重要问题。
 
 ## 3. 偶因论
 
@@ -50,7 +50,7 @@
 
 至于第一推动者，它本身不可能是一个物体，因为如果它是，它就不得不从自身拥有运动（因为作为第一推动者，它还能从哪里获得运动呢？），而这已表明对物体而言不可能。因此我们也可以得出结论：第一推动者不是物体。但既然只有两种实体（科尔德穆瓦的第三条公理），即物体与心灵，那么唯一可能作为第一推动者的候选者便是心灵。此外，显然我们（有限的）心灵并不是物体中运动的来源。首先，我们的心灵无法以某些方式作用于我们的身体，要么因为它们不受这种影响（例如，我无法意愿我的肝细胞停止分裂），要么因为年老或受伤（例如，一个瘸子无法意愿自己行走）。其次——值得一提，因为这预示了马勒布朗士与休谟——如果我们只限于我们所观察到的东西，我们便从未经验到因果联系，而只经验到我们某一时刻的意愿与我们身体下一刻动作之间的时间相继。第三，如果我们能随意在物体中产生运动，那么科尔德穆瓦说，这将打乱上帝为世界所保存的运动量所定的计划。于是他得出结论：一个无限的意志必定是第一推动者。
 
-正是科尔德穆瓦的第四条与第五条公理，连同这一结论，使我们得到偶因论。第四条公理说运动是一种作用，第五条声称一种作用只能由发起它的那个能动者继续。因此，发起物体运动的那个心灵，即上帝，也就是现在继续其运动的同一个能动者。与那些不能区分物体与物质的人一样，设定有限原因者的过错在于从其感官经验作出无根据的推断。提出一个马勒布朗士与休谟后来都会重申的论点，科尔德穆瓦说：“例如，当我们说物体 B 把物体 A 从其位置推开时，如果我们仔细考察此例中被认为确定无疑的东西，我们将只看到：物体 B 曾运动，它遇到了静止的 C，而自这次相遇之后，前者停止了运动，[而]后者开始运动。但如果承认 B 把它的部分运动给了 C，那确实只是一种来自我们所不见之物的偏见。”本着良好的笛卡尔精神，科尔德穆瓦是在主张：正是理性指出世界必须如何，而毫不批判地接受感官所提供的东西只会导致错误。
+正是科尔德穆瓦的第四条与第五条公理，连同这一结论，使我们得到偶因论。第四条公理说运动是一种作用，第五条声称一种作用只能由发起它的那个能动者继续。因此，发起物体运动的那个心灵，即上帝，也就是现在继续其运动的同一个能动者。与那些不能区分物体与物质的人一样，设定有限原因者的过错在于从其感官经验引出无根据的推断。提出一个马勒布朗士与休谟后来都会重申的论点，科尔德穆瓦说：“例如，当我们说物体 B 把物体 A 从其位置推开时，如果我们仔细考察此例中被认为确定无疑的东西，我们将只看到：物体 B 曾运动，它遇到了静止的 C，而自这次相遇之后，前者停止了运动，[而]后者开始运动。但如果承认 B 把它的部分运动给了 C，那确实只是一种来自我们所不见之物的偏见。”本着良好的笛卡尔精神，科尔德穆瓦是在主张：正是理性指出世界必须如何，而毫不批判地接受感官所提供的东西只会导致错误。
 
 学者们对于科尔德穆瓦的偶因论是否完备、是否也适用于心灵与心灵自身的样态，意见不一。Nadler（2005）写道：“那些相信科尔德穆瓦是一个彻底偶因论者、否认心灵与物体的一切因果效力的人，是正确的”（41）[^nadler-2005]。Battail（1973）就是这样的一个相信者。另一方面，Pyle（2003）认为科尔德穆瓦并非一个完备的偶因论者。Prost（1907）也得出了同样的结论。Schmaltz（2017）更为谨慎，只主张“完备偶因论的论证仍有待作出”（204）[^schmaltz-2017]。
 
@@ -74,7 +74,75 @@
 
 ### 原始文献
 
+[^cordemoy-1968]: Cordemoy, Géraud de, *Oeuvres philosophiques*, Pierre Clair & François Girbal (eds.), Paris: Presses Universitaires de France, 1968.
+
+[^cordemoy-1664]: –––, 1664, *Discours de l’áction des corps*, Paris: Jacques Le Gras.
+
+[^cordemoy-1666]: –––, 1666, *Le Discernement du corps et de l’âme en six discours pour servir à l’eclaircissement de la physique*, Paris.
+
+[^cordemoy-1668]: –––, 1668, *Discours physique de la parole*, Paris.
+
+[^cordemoy-1691]: –––, 1691, *Divers Traitez de metaphysique, d’histoire, et de politique*, Paris.
+
+[^cordemoy-1704]: –––, 1704, *Copie d’une lettre ecrite à un sçavant religieux de la Compagnie de Jésus*, Paris: Remy.
+
+[^cordemoy-nd]: –––, [PDC], *A Philosophical Discourse Concerning Speech*, Delmar, NY: Scholars’ Facsimiles & Reprints.
+
+[^cordemoy-nd-2]: –––, [SDD], *Six Discourses on the Distinction Between the Body and the Soul* and *Treatises on Metaphysics*, translated with an Introduction by Steven Nadler, New York: Oxford University Press.
+
+[^descartes-1964]: Descartes, René, *Oeuvres de Descartes* (12 volumes), Charles Adam and Pierre Tannery (eds.), Paris: Vrin/CNRS, 1964–76.
+
+[^descartes-1985]: –––, *The Philosophical Writings of Descartes* (3 volumes), J. Cottingham, R. Stoothoff, D. Murdoch, and A. Kenny (eds. and trans.), Cambridge: Cambridge University Press, 1985–91.
+
+[^la-1974]: La Forge, Louis de, *Oeuvres philosophiques*, Pierre Clair (ed.), Paris: Presses Universitaires de France, 1974.
+
+[^la-1666]: –––, 1666, *Traité de l’esprit de l’homme et de ses facultez et fonctions, et de son union avec le corps. Suivant les principes de René Descartes*, Paris.
+
+[^rochon-1672]: Rochon, A., 1672, *Lettre d’un philosophe à un cartesien de ses amis*, Paris: Thomas Jolly.
+
 ### 研究文献与批评性讨论
+
+[^ablondi-2005]: Ablondi, Fred, 2005, *Gerauld de Cordemoy: Atomist, Occasionalist, Cartesian*, Milwaukee: Marquette University Press.
+
+[^ablondi-2023]: –––, 2023, “On Splitting the Atom: Cordemoy’s Cartesianism and the Indivisibility of Bodies,” *History of Philosophy Quarterly*, 40: 222–36.
+
+[^balz-1951]: Balz, Albert, 1951, *Cartesian Studies*, New York: Columbia University Press.
+
+[^battail-1973]: Battail, Jean-François, 1973, *L’avocat philosophe Géraud de Cordemoy*, The Hague: M. Nijhoff.
+
+[^clair-1976]: Clair, Pierre, 1976, “Louis de la Forge et les origins de l’occasionalisme,” *Recherches sur le XVIIᵉ siècle*, 1: 63–72.
+
+[^chomsky-1966]: Chomsky, Noam, 1966, *Cartesian Linguistics: A Chapter in the History of Rationalist Thought*, New York: Harper and Row.
+
+[^garber-1998]: Garber, Daniel; Henry, John; Lynn, Joy; and Gabbey, Alan, 1998, “New Doctrines of Body and Its Power, Place, and Space,” in *The Cambridge History of Seventeenth-Century Philosophy* (2 vols.), D. Garber and M. Ayers (eds.), Cambridge: Cambridge University Press, 553–623.
+
+[^guerrini-1994]: Guerrini, Luigi, 1994, “Occasinalismo e teoria della communicazione in Gerauld de Cordemoy,” *Annali di dipartimento di filosophia*, 9: 63–80.
+
+[^henkel-2025]: Henkel, Christian, 2025, “Political Theory among Cartesians: Géraud de Cordemoy and Antoine Le Grand,” *History of European Ideas*, 51: 1795–1813.
+
+[^lennon-1974]: Lennon, Thomas M., 1974, “Occasionalism and the Cartesian Metaphysic of Motion,” *Canadian Journal of Philosophy*, (Supplementary Volume I): 29–40.
+
+[^lennon-1993]: –––, 1993, *The Battle of Gods and Giants: The Legacies of Descartes and Gassendi, 1655–1715*, Princeton: Princeton University Press.
+
+[^manning-2012]: Manning, Gideon, 2012, “Descartes, Other Minds and Impossible Human Bodies,” *Philosopher’s Imprint*, 12 (16); [Manning 2012 available online](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/descartes-other-minds-and-impossible-human-bodies.pdf?c=phimp;idno=3521354.0012.016;format=pdf).
+
+[^mouy-1934]: Mouy, Paul, 1934, *Le développement de la physique cartésienne 1646–1712*, Paris: Vrin.
+
+[^nadler-2005]: Nadler, Steven, 2005, “ Cordemoy and Occasionalism,” *Journal of the History of Philosophy*, 43: 37–54.
+
+[^platt-2020]: Platt, Andrew, 2020, *One True Cause: Causal Powers, Divine Concurrence, and the Seventeenth Century Revival of Occasionalism*, Oxford: Oxford University Press.
+
+[^prost-1907]: Prost, Joseph, 1907, *Essai sur l’atomisme et l’occasionalisme dans la philosophie cartésienne*, Paris: Paulin.
+
+[^pyle-2003]: Pyle, Andrew, 2003, *Malebranche*, London: Routledge.
+
+[^rosenfeld-1968]: Rosenfeld, Leonora Cohen, 1968, *From Beast-Machine to Man-Machine: Animal Soul in French Letters from Descartes to Le Mettre*, New York: Octagon Books.
+
+[^scheib-1997]: Scheib, Andreas, 1997, *Zur Theorie individueller Substanzen bei Géraud de Cordemoy*, New York, Frankfurt am Main: P. Lang.
+
+[^schmaltz-2017]: Schmaltz, Tad, 2017, *Early Modern Cartesianisms: Dutch and French Constructions*, Oxford: Oxford University Press.
+
+[^schmaltz-2019]: –––, 2019, “Cartesian Causation and Cognition: Louis de la Forge and Géraud de Cordemoy,” in *Causation and Cognition in Early Modern Philosophy*, D. Perler and S. Bender (eds.), London: Routledge, 61–82.
 
 ## 学术工具
 

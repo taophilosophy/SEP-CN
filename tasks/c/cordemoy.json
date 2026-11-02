@@ -2,8 +2,44 @@
   "slug": "cordemoy",
   "kind": "retranslate",
   "zh_doc": "c/cordemoy.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:38:10Z",
+      "evidence": "在途快照 641faf13 已含零信任译文，免清正文仅状态迁移（albert-saxony 先例）"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:38:58Z",
+      "evidence": "初译稿 641faf13 在库（约 6.9k 汉字，5 节全型）；本会话补全装配缺失的脚注定义区 34 条（原始文献 13+研究文献 21，法/英文文献照录，无中文条目）、修复畸形强调标记 4 组"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:38:58Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：1 生平与著作/2 原子论（五主张、实体论证、虚空、三个不便、戴加贝批评）/3 偶因论（五公理、第一推动者、拉弗尔热）/4 心灵与身体（结合定义、两个区分论证）/5 语言与言语（他心问题、鹦鹉与回声、罗森菲尔德评语）全节对应；孤儿脚注 6 处经补定义后学术门禁 0 硬错误；相关词条 4 项对应"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:38:58Z",
+      "evidence": "check_prose 30→27：实修 3 处（作为一个东西→该对象是一个东西 41、加以讨论 22、作出推断→引出推断 53）；余 27 条逐条豁免：科尔德穆瓦/笛卡尔直引句计入句长（28/37/39/53/61/63/67），其余长句为源文等长，de-chain 为自然中文，被感知/被误导为自然被动"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:38:59Z",
+      "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（补 34 条定义后孤儿引注清零，门禁实拦）；其他网络资源与相关词条 4 项对应"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:40Z",
   "version_pin": {
