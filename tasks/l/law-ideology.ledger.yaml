@@ -1,0 +1,361 @@
+version: 1
+slug: law-ideology
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      If law is a system of enforceable rules governing social relations and legislated by a political system, it might seem obvious that law is connected to ideology. Ideology refers, in a general sense, to a system of political ideas, and law and politics are inextricably intertwined. Just as ideologies are dotted across the political spectrum, so too are legal systems. Thus we speak of both legal systems and ideologies as liberal, fascist, communist, and so on, and most people probably assume that a law is the legal expression of a political ideology. One would expect the practice and activity of law to be shaped by people’s political beliefs, so law would seem to emanate from ideology in a straightforward and uncontroversial way.
+    step1: |-
+      如果法律是一套由政治体系立法、用以规制社会关系的可执行规则，那么法律与意识形态相关联，似乎是不言自明的。意识形态泛指一套政治观念体系，而法律与政治千丝万缕地交织在一起。正如意识形态遍布政治光谱，法律体系也是如此。因此我们既说法律体系也谈意识形态是自由主义的、法西斯主义的、共产主义的等等，而且大多数人可能想当然地认为，法律就是某种政治意识形态的法律表达。人们会预期法律的实践与活动受到人们政治信念的塑造，因此法律似乎以一种直白而无可争议的方式发源于意识形态。
+    step2: |-
+      如果法律是一套由政治体系立法、用以规制社会关系的可执行规则，那么法律与意识形态相关联，似乎是不言自明的。意识形态泛指一套政治观念体系，而法律与政治千丝万缕地交织在一起。正如意识形态遍布政治光谱，法律体系亦然。因此我们既说法律体系、也说意识形态是自由主义的、法西斯主义的、共产主义的，等等；多数人恐怕还想当然地认为，法律无非是某种政治意识形态的法律表达。人们自然会预期，法律的实践与活动受到人们政治信念的塑造——如此看来，法律似乎以直白而无可争议的方式发源于意识形态。
+  - id: 2
+    kind: body
+    source: |-
+      However, the connection between law and ideology is both complex and contentious. This is because of the diversity of definitions of ideology and the various ways in which ideology might be related to law. Moreover, whilst the observation about law’s link with ideology might seem a sociological commonplace, the link between law and ideology is more often made in a critical spirit, in order to impugn law.
+    step1: |-
+      然而，法律与意识形态的关联既复杂又有争议。这是因为意识形态的定义多种多样，意识形态与法律相关联的方式也各不相同。此外，尽管法律与意识形态的联系看似一个社会学常识，这种联系却更多是在批判的意图下被提出的，目的在于质疑法律。
+    step2: |-
+      然而，法律与意识形态的关联既复杂又有争议。个中缘由，一是意识形态的定义五花八门，二是意识形态与法律相关联的方式各不相同。再者，法律与意识形态的联系看似一个社会学常识，这种联系却更多是在批判的意图下被提出的——其目的在于质疑法律。
+  - id: 3
+    kind: body
+    source: |-
+      At issue is an understanding of ideology as a source of manipulation. Law as ideology directs its subjects in ways that are not transparent to the subjects themselves; law, on this view, cloaks power. The ideal of law, in contrast, involves a set of institutions that regulate or restrain power with reference to norms of justice. Thus, the presence of the ideological in law must, in some sense, compromise law’s integrity. Not only is the view of law as ideology at odds with a lot of mainstream thinking about law, it seems difficult to reconcile with the central philosophical positions on the nature of law, e.g. a positivist conception of law as a set of formal rules, or a natural law conception where law is identified with moral principles.
+    step1: |-
+      争论的核心在于把意识形态理解为一种操纵的来源。作为意识形态的法律，以主体自身无法看透的方式引导其属民；在这种观点看来，法律为权力披上了伪装。与此相对，法律的理想涉及一套以正义规范为参照来规制或约束权力的制度。因此，意识形态在法律中的存在必然在某种意义上损害法律的正直。法律即意识形态的观点不仅与大量关于法律的主流思想相左，而且似乎难以与关于法律本性的核心哲学立场相调和，例如把法律视为一套形式规则的实证主义观念，或把法律等同于道德原则的自然法观念。
+    step2: |-
+      争论的核心，在于把意识形态理解为一种操纵之源。作为意识形态的法律，以主体自身无法看透的方式引导其属民；在这派观点看来，法律给权力披上了伪装。与此相对，法律的理想则涉及一套以正义规范为参照来规制或约束权力的制度。如此，意识形态在法律中的存在，必然在某种意义上损害法律的正直。法律即意识形态的观点不仅与大量主流法律思想相左，似乎也难以同关于法律本性的核心哲学立场相调和——例如把法律视为一套形式规则的实证主义观念，或把法律等同于道德原则的自然法观念。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Liberal Concepts of Ideology
+    step1: |-
+      ## 1 自由主义的意识形态概念
+    step2: |-
+      ## 1 自由主义的意识形态概念
+  - id: 5
+    kind: body
+    source: |-
+      What is ideology? The term was likely coined by the French thinker Claude Destutt de Tracy at the turn of the nineteenth century, in his study of the Enlightenment. For De Tracy, ideology was the science of ideas and their origins. Ideology understands ideas to issue, not haphazardly from mind or consciousness, but as the result of forces in the material environment that shape what people think. De Tracy believed his view of ideology could be put to progressive political purposes, since understanding the source of ideas might enable efforts on behalf of human progress (see Steger 2007, 24–32)[^steger-2007].
+    step1: |-
+      什么是意识形态？这个词很可能是法国思想家德斯蒂·德·特拉西（Destutt de Tracy）在十九世纪之交研究启蒙运动时创造的。对德·特拉西而言，意识形态是关于观念及其起源的科学。意识形态把观念理解为并非从心灵或意识中随意产生，而是作为物质环境中诸种力量塑造人们所思所想的结果。德·特拉西相信他的意识形态观可以用于进步的政治目的，因为理解观念的来源或可有助于推动人类进步的事业（见 Steger 2007, 24–32）[^steger-2007]。
+    step2: |-
+      什么是意识形态？这个词很可能是法国思想家德斯蒂·德·特拉西（Destutt de Tracy）在十九世纪之交研究启蒙运动时造出的。对德·特拉西而言，意识形态是关于观念及其起源的科学：观念并非从心灵或意识中随意生出，而是物质环境中诸种力量塑造人之所思的结果。德·特拉西相信，他的意识形态观可用于进步的政治目的——理解观念的来源，或可助力人类进步的事业（见 Steger 2007, 24–32）[^steger-2007]。
+  - id: 6
+    kind: body
+    source: |-
+      Ideology today is generally taken to mean not a science of ideas, but the ideas themselves, and moreover ideas of a particular kind. Ideologies are ideas whose purpose is not epistemic but political. Thus an ideology exists to confirm a certain political viewpoint, serve the interests of certain people, or to perform a functional role in relation to social, economic, political and legal institutions. Daniel Bell (1960) dubbed ideology ‘an action-oriented system of beliefs,’ and the fact that ideology is action-oriented indicates that its role is not to render reality transparent but to motivate people to do or not do certain things. Such a role may involve a process of justification that requires the obfuscation of reality. Nonetheless, Bell and other liberal sociologists do not assume any particular relation between ideology and the status quo; some ideologies serve the status quo, others call for its reform or overthrow.
+    step1: |-
+      今天的意识形态，一般不再指观念的科学，而是指观念本身，而且是特定类型的观念。意识形态是目的不在于认知而在于政治的观念。因此，意识形态的存在是为了确证某种政治观点，服务于某些人的利益，或者在社会、经济、政治与法律制度中发挥一种功能性作用。丹尼尔·贝尔（Daniel Bell，1960）把意识形态称为“以行动为导向的信念体系”；意识形态以行动为导向这一事实表明，它的作用不是使实在变得透明，而是激励人们去做或不做某些事情。这样一种作用可能涉及一个合理化的过程，而合理化需要遮蔽实在。尽管如此，贝尔与其他自由主义社会学家并不假定意识形态与现状之间有任何特定关系；有些意识形态服务于现状，另一些则要求改革或推翻现状。
+    step2: |-
+      今天的意识形态，一般不再指观念的科学，而是指观念本身，而且是特定一类的观念：其目的不在于认知，而在于政治。意识形态的存在，是为了确证某种政治观点、服务于某些人的利益，或在社会、经济、政治与法律制度中发挥功能性作用。丹尼尔·贝尔（Daniel Bell，1960）称之为“以行动为导向的信念体系”；意识形态以行动为导向，恰恰表明它的作用不是让实在变得透明，而是激励人们去做或不做某些事。这样一种作用，可能牵涉一个合理化过程——而合理化需要遮蔽实在。尽管如此，贝尔与其他自由主义社会学家并不假定意识形态与现状之间有任何特定的关系：有些意识形态服务于现状，另一些则要求改革乃至推翻现状。
+  - id: 7
+    kind: body
+    source: |-
+      On this view, ideology can shape law, but a variety of ideologies might be vying for legal mastery; there is no necessary connection between law and a particular ideology. Law need not be understood as compromised, since law being ideological might just refer to the institutions of popular sovereignty, where public policy reflects citizens’ principles and beliefs; ideology would in that case just be a shorthand way of referring to the views of citizens that are legitimately instantiated in the laws of the land. Nonetheless, Bell argued that a postwar consensus on capitalism and liberal democracy might spell the ‘end of ideology.’
+    step1: |-
+      按照这种观点，意识形态能够塑造法律，但可能有多种意识形态争夺法律上的主导地位；法律与特定意识形态之间并无必然联系。不必把法律理解为受了损害，因为法律带有意识形态色彩，可能只是指人民主权的诸制度——公共政策反映公民的原则与信念；在这种情况下，意识形态不过是一种简便的说法，指公民那些被合法地体现于国家法律之中的观点。尽管如此，贝尔仍认为，战后关于资本主义与自由民主的共识可能预示着“意识形态的终结”。
+    step2: |-
+      照这种观点，意识形态能够塑造法律，但可能有多种意识形态争夺法律上的主导；法律与特定意识形态之间并无必然联系。法律不必被理解为受了损害：法律带有意识形态色彩，或许只是指人民主权的诸制度——公共政策反映着公民的原则与信念；在此情形下，意识形态不过是简便说法，指公民那些被合法体现于国家法律之中的观点。尽管如此，贝尔仍认为，战后关于资本主义与自由民主的共识，可能预示着“意识形态的终结”。
+  - id: 8
+    kind: body
+    source: |-
+      ## 2. Radical Concepts of Ideology
+    step1: |-
+      ## 2 激进的意识形态概念
+    step2: |-
+      ## 2 激进的意识形态概念
+  - id: 9
+    kind: body
+    source: |-
+      A more critical understanding of law’s relation to ideology, and of the role and purposes that ideology serves, is found in the writings of Karl Marx and Friedrich Engels. Like De Tracy, Marx and Engels contend that ideas are shaped by the material world, but as historical materialists they understand the material to consist of relations of production that undergo change and development. Moreover, for Marx and Engels, it is the exploitative and alienating features of capitalist economic relations that prompt ideas they dub ‘ideology.’ Ideology only arises where there are social conditions such as those produced by private property that are vulnerable to criticism and protest; ideology exists to protect these social conditions from attack by those who are disadvantaged by them. Capitalist ideologies give an inverted explanation for market relations, for example, so that human beings perceive their actions as the consequence of economic factors, rather than the other way around, and moreover, thereby understand the market to be natural and inevitable. Members of the Frankfurt School such as Jürgen Habermas drew on the Marxist idea of ideology as a distortion of reality to point to its role in communication, wherein interlocutors find that power relations prevent the open, uncoerced articulation of beliefs and values (see Geuss, 1981).
+    step1: |-
+      在卡尔·马克思（Karl Marx）与弗里德里希·恩格斯（Friedrich Engels）的著作中，可以找到对法律与意识形态的关系、以及意识形态的角色与目的的更为批判的理解。与德·特拉西一样，马克思和恩格斯主张观念由物质世界塑造，但作为历史唯物主义者，他们把物质理解为经历变化与发展的生产关系。此外，对马克思和恩格斯来说，正是资本主义经济关系的剥削性与异化性引发了他们称之为“意识形态”的观念。唯当存在私人财产所造成的那类易于招致批评与抗议的社会条件，意识形态才会产生；意识形态的存在，就是保护这些社会条件免受深受其害者的攻击。例如，资本主义意识形态对市场关系给出一种颠倒的解释：人们把自己的行动视为经济因素的后果，而非其原因，而且由此把市场理解为自然的、不可避免的。于尔根·哈贝马斯（Jürgen Habermas）等法兰克福学派的成员，借马克思主义“意识形态即对实在之歪曲”的观念，指明意识形态在交往中的作用：对话双方发现，权力关系阻碍了信念与价值的公开而不受强制的表达（见 Geuss, 1981）。
+    step2: |-
+      在卡尔·马克思（Karl Marx）与弗里德里希·恩格斯（Friedrich Engels）的著作中，可以找到对法律与意识形态之关系、以及意识形态之角色与目的的更为批判的理解。与德·特拉西一样，马克思和恩格斯主张观念由物质世界塑造；但作为历史唯物主义者，他们把物质理解为经历变化与发展的生产关系。此外，在他们看来，正是资本主义经济关系的剥削性与异化性，引发了他们称之为“意识形态”的观念。唯当存在私人财产所造成的那类易于招致批评与抗议的社会条件，意识形态才会产生；意识形态的使命，就是保护这些社会条件免遭深受其害者的攻击。例如，资本主义意识形态对市场关系给出一种颠倒的解释：人们把自己的行动当作经济因素的后果，而非其原因，并且由此把市场理解为自然而不可避免的。于尔根·哈贝马斯（Jürgen Habermas）等法兰克福学派的成员，借马克思主义“意识形态即对实在之歪曲”的观念，指明意识形态在交往中的作用：对话双方发现，权力关系阻碍了信念与价值的公开而不受强制的表达（见 Geuss, 1981）。
+  - id: 10
+    kind: body
+    source: |-
+      Thus ideology, far from being a science, as De Tracy contends, or any set of action-oriented beliefs as Bell puts it, is inherently conservative, quietist, and epistemically unreliable. Ideology conserves by camouflaging flawed social conditions, giving an illusory account of their rationale and role, in order to legitimate and win acceptance of them. Indeed, on this view of the ideological role of law, in a just society there would be no need for a mystifying account of reality, and thus no need for law. The concept of law as ideology is thus central to the Marxist view that law will wither away with the full flowering of communism (Sypnowich 1990, ch. 1)[^sypnowich-1990].
+    step1: |-
+      因此，意识形态远非德·特拉西所主张的科学，也不是贝尔所说的任何一套以行动为导向的信念，它天生是保守的、主静的、在认知上不可靠的。意识形态通过掩盖有缺陷的社会状况来保存它们，对它们的理据与角色给出一种虚幻的说明，以使它们获得正当性并赢得接受。的确，按照这种关于法律之意识形态角色的观点，在一个公正的社会里，将不需要对实在的神秘化说明，因而也不需要法律。法律即意识形态的概念，因此成为马克思主义如下观点的核心：法律将随着共产主义的全面实现而消亡（Sypnowich 1990, ch. 1）[^sypnowich-1990]。
+    step2: |-
+      于是，意识形态远非德·特拉西所主张的科学，也不是贝尔所谓任何一套以行动为导向的信念——它天生保守、主静，且在认知上不可靠。意识形态靠掩盖有缺陷的社会状况来保存它们，对其理据与角色给出虚幻的说明，使之获得正当性并赢得接受。诚然，照这种关于法律之意识形态角色的观点，在一个公正的社会里，人们不再需要对实在的神秘化说明，因而也不再需要法律。法律即意识形态的概念，由此成为马克思主义如下论断的核心：随着共产主义的全面实现，法律将自行消亡（Sypnowich 1990, ch. 1）[^sypnowich-1990]。
+  - id: 11
+    kind: body
+    source: |-
+      The negative view of ideology taken by Marxists might suggest a crude conception where legal ideology is a tool cynically wielded by the powerful to ensure submission by the powerless; and indeed, perhaps the most famous claim about ideology uttered by Marx and Engels (1976) is that ‘the ideas of the ruling class are in every epoch the ruling ideas: i.e., the class which is the ruling *material* force of society, is at the same time its ruling *intellectual* force’. However, the Marxist view is in fact more nuanced than this quote suggests. For example, Engels (1890) contends that it offends the ‘conception of right’ if ‘a code of law is the blunt, unmitigated, unadulterated expression of the domination of a class’. And because ideology such as law takes a formal and normative form, the powerful are in its grips too, persuaded by an account of the inevitable and just order from which they profit.
+    step1: |-
+      马克思主义者对意识形态的消极看法，或许暗示一种粗糙的构想：法律意识形态是当权者愤世嫉俗地挥舞的工具，用以确保无权者的顺从；而且，马克思和恩格斯（1976）关于意识形态最著名的论断似乎也支持这一点：“统治阶级的思想在每一个时代都是占统治地位的思想：这就是说，一个阶级是社会上占统治地位的*物质*力量，同时也是社会上占统治地位的*精神*力量。”然而，马克思主义的观点实际上比这句引文所暗示的更为精细。例如，恩格斯（1890）主张，如果“一部法典是某个阶级之统治的赤裸裸的、不加掩饰的、纯粹的表达”，那就冒犯了“权利的观念”。而且，由于意识形态（如法律）采取形式的与规范性的形态，当权者也身受其制，被一种关于他们从中渔利的、不可避免且公正的秩序的说明所说服。
+    step2: |-
+      马克思主义者对意识形态的消极看法，或许暗示一种粗糙的构想：法律意识形态不过是当权者愤世嫉俗地挥舞的工具，用以确保无权者的顺从；马克思和恩格斯（1976）关于意识形态最著名的论断似乎也印证这一点：“统治阶级的思想在每一个时代都是占统治地位的思想：这就是说，一个阶级是社会上占统治地位的*物质*力量，同时也是社会上占统治地位的*精神*力量。”然而，马克思主义的观点实际比这句引文所示更为精细。例如，恩格斯（1890）主张：倘若“一部法典是某个阶级之统治的赤裸裸的、不加掩饰的、纯粹的表达”，那就冒犯了“权利的观念”。况且，意识形态（如法律）取形式的与规范性的形态，当权者亦身受其制——他们同样被一种说法所说服：那个他们从中渔利的秩序，既不可避免，又公正无欺。
+  - id: 12
+    kind: body
+    source: |-
+      Moreover, ideology is no mere fiction; it is produced by real social conditions and reflects them. Thus ideology must succeed in constituting a consensus about capitalism, and it must do so by giving expression to capitalism’s recognizable features. Equality before the law, for example, is both elicited by, and reflects, the reality of capitalist economic relations, even if it is an equality that is formal and incomplete. Consent will not be forthcoming if legal ideology bears no relation whatsoever to the social conditions it seeks to justify. The idea that ideology inverts reality is important here. In his camera obscura metaphor in *The German Ideology*, Marx and Engels contend that reality appears upside down in ideology, much like the way that the photographic process provides an inverted image. The inverted image is telling; it is a recognisable depiction of reality, even if it is at the same time a distorted one (Marx and Engels 1976, 25)[^marx-1976]. Karl Mannheim (1936) elaborated further on the idea of the complex relation between reality and ideology by pointing to the human need for ideology. Ideologies are neither true nor false but are a set of socially conditioned ideas that provide a truth that people, both the advantaged and the disadvantaged, want to hear.
+    step1: |-
+      此外，意识形态绝非纯粹的虚构；它由真实的社会条件产生，并反映这些条件。因此，意识形态必须成功地构成关于资本主义的一致意见，而且必须通过表达资本主义可辨认的特征来做到这一点。例如，法律面前人人平等，既由资本主义经济关系的实在所引发，也反映这种实在，即使这是一种形式的、不完全的平等。如果法律意识形态与它试图为之辩护的社会条件毫无关系，就不会有同意可言。意识形态颠倒实在这一观念在此很重要。在《德意志意识形态》的暗箱比喻中，马克思和恩格斯主张，实在在意识形态中呈现为颠倒的，正如照相术提供倒立的影像。倒立的影像意味深长：它是实在的一幅可辨认的描绘，尽管同时也是一幅被歪曲的描绘（Marx and Engels 1976, 25）[^marx-1976]。卡尔·曼海姆（Karl Mannheim，1936）进一步阐发了实在与意识形态之间复杂关系的观念，他指出人类对意识形态的需要。意识形态既不真也不假，而是一组受社会制约的观念，它提供一种人们——无论得势者还是失势者——都乐于听闻的真理。
+    step2: |-
+      此外，意识形态绝非纯粹的虚构：它由真实的社会条件所产生，也反映这些条件。因此，意识形态必须成功地构成关于资本主义的一致意见，而且必须借表达资本主义可辨认的特征来做到这一点。例如，法律面前人人平等，既由资本主义经济关系的实在所引发，也反映这种实在——尽管这是一种形式的、不完全的平等。倘若法律意识形态与它欲为之辩护的社会条件毫无干系，同意便无从谈起。意识形态颠倒实在这一观念在此至为关键。在《德意志意识形态》的暗箱比喻中，马克思和恩格斯主张：实在在意识形态中呈现为颠倒的，一如照相术提供倒立的影像。倒立的影像意味深长——它是实在的一幅可辨认的描绘，尽管同时也是一幅被歪曲的描绘（Marx and Engels 1976, 25）[^marx-1976]。卡尔·曼海姆（Karl Mannheim，1936）进而阐发实在与意识形态之间复杂关系的观念，点出人类对意识形态的需要：意识形态既不真也不假，而是一组受社会制约的观念，它提供一种人人乐于听闻的真理——无论得势者还是失势者。
+  - id: 13
+    kind: body
+    source: |-
+      In the 1920s, American jurisprudence came under the influence of another version of the critical view of ideology and law. The school of legal realism abandoned Marx’s specifically historical materialist explanation and took up the idea that social forces outside the law are central in determining what the law is (see Cohen 1935, 818–21)[^cohen-1935]. Realists opposed traditional ‘formalist’ accounts of adjudication, where judges are understood to rely on uniquely and distinctively legal materials in rendering their judgments. Instead, the realists contended that law is inherently indeterminate, and thus judicial decisions must be explained by factors outside the law. Ideology emerges as one kind of realist explanation, where judicial decisions are the effect of political ideas, be they of the judge, the legal profession more generally, societal elites, or majority public opinion. The realists aligned their critique of law with a progressive politics. The inevitable influence of factors external to the law meant that social and political changes augured by the emerging welfare state were no threat to the purity of law. Indeed, the expanding regulative power of the administrative state would make it more likely that the influences on the law were now those of popular sovereignty and social justice, rather than the more nefarious influences of the past.
+    step1: |-
+      二十世纪二十年代，美国的法理学受到意识形态与法律之批判观的另一个版本的影响。法律现实主义学派抛弃了马克思特有的历史唯物主义解释，转而采纳这样一种观念：法律之外的社会力量，在决定法律为何这一点上居于中心（见 Cohen 1935, 818–21）[^cohen-1935]。现实主义者反对传统的“形式主义”裁判理论——在那类理论中，法官被理解为依凭独有的、独特的法律材料作出判决。相反，现实主义者主张法律在本性上是不确定的，司法判决必须由法律之外的因素来解释。意识形态便是现实主义解释之一种：司法判决乃是政治观念的结果——无论这些观念属于法官本人、整个法律职业界、社会精英，抑或多数公众舆论。现实主义者将其法律批判与进步政治结盟：法律外部因素之影响既然不可避免，新兴福利国家所预示的社会与政治变革，便不致威胁法律的纯粹性。诚然，行政国家不断扩张的规制权力，将使法律所受的影响更可能来自人民主权与社会正义，而非昔日那些更阴险的势力。
+    step2: |-
+      二十世纪二十年代，美国的法理学受到意识形态与法律之批判观的另一个版本的影响。法律现实主义学派抛弃了马克思特有的历史唯物主义解释，转而采纳这样的观念：法律之外的社会力量，在决定法律为何这一点上居于中心（见 Cohen 1935, 818–21）[^cohen-1935]。现实主义者反对传统的“形式主义”裁判理论——在那类理论中，法官被理解为依凭独有的、独特的法律材料作出判决。相反，现实主义者主张法律在本性上是不确定的，司法判决必须由法律之外的因素来解释。意识形态便是现实主义解释之一种：司法判决乃是政治观念的结果——无论这些观念属于法官本人、整个法律职业界、社会精英，抑或多数公众舆论。现实主义者将其法律批判与进步政治结盟：法律外部因素之影响既然不可避免，新兴福利国家所预示的社会与政治变革，便不致威胁法律的纯粹性。诚然，行政国家不断扩张的规制权力，将使法律所受的影响更可能来自人民主权与社会正义，而非昔日那些更阴险的势力。
+  - id: 14
+    kind: body
+    source: |-
+      The view that law is ideological was taken up again in the 1970s and 80s, with the emergence of the Critical Legal Studies movement. Critical Legal Studies is a radical school of thought shaped by a number of influences: the Marxist and realist traditions; the philosophical perspective of ‘deconstruction;’ and the politics of issues such as feminism, environmentalism and anti-racism. The movement takes up the realist idea that law is fundamentally indeterminate, echoing Marxist views about how the interests of the powerful shape law. Exponents offer some astute observations about the ways in which law is taught and practiced in order to give the misleading impression of law’s certainty and legitimacy. Particular legal doctrines are targeted for papering over the inconsistent and arbitrary features of legal decision-making; the rule of law, for example, is criticized as a naïve view of the form of law as unaffected by law’s content and the social context in which law operates. The indeterminacy of law can produce a variety of results; Duncan Kennedy, for example, points out the surprising ways in which the ideology of formal legal reasoning can remedy injustice, even if ideology often disables such remedies as well (Kennedy 1976)[^kennedy-1976]. Thus the ideology view can now be taken to reflect a consensus among radicals of all stripes on the role of law as a dissembling force to safeguard the unjust relations of the status quo.
+    step1: |-
+      法律是意识形态的这一观点，在二十世纪七十、八十年代再度兴起，其标志是批判法学研究运动。批判法学研究是一场激进的思想流派，受多重影响塑造：马克思主义与现实主义传统、“解构”的哲学视角，以及女权主义、环保主义与反种族主义等议题的政治。该运动接过现实主义关于法律根本不确定的观念，呼应马克思主义关于强者利益如何塑造法律的看法。其倡导者就法律的教授与实践方式提出了一些敏锐的观察，指出这些方式给人以“法律确定而正当”的误导性印象。某些法律学说因粉饰法律决策中不一致与任意的特征而成为靶子；例如，法治被批评为一种天真的看法——把法律的形式看作不受法律内容及其运作的社会语境影响。法律的不确定性可以引出多种结果；例如 Duncan Kennedy 指出，形式法律推理的意识形态能以出人意料的方式补救不义，尽管意识形态也常使这类补救归于失效（Kennedy 1976）[^kennedy-1976]。于是，意识形态观如今可以被视为反映了一切激进派别的共识：法律是一种虚饰性的力量，为现状之不义关系保驾护航。
+    step2: |-
+      法律即意识形态的观点，于二十世纪七十、八十年代随批判法学研究运动的兴起而再度登场。批判法学研究是一场激进的思想流派，其来源多股：马克思主义与现实主义传统、“解构”的哲学视角，以及女权主义、环保主义、反种族主义诸议题的政治。该运动接过现实主义“法律根本不确定”的观念，呼应马克思主义关于强者利益如何塑造法律的看法。其倡导者细察法律的教授与实践之道，指出它们给人以“法律确定而正当”的假象。若干法律学说因粉饰法律决策中不一致与任意的成分而被点名抨击；例如，法治被讥为天真之见——仿佛法律的形式可以不受其内容与所处社会语境的染指。法律的不确定可引出多种结果；Duncan Kennedy 便指出，形式法律推理的意识形态竟能出人意料地补救不义，尽管它同样常使这类补救落空（Kennedy 1976）[^kennedy-1976]。至此，意识形态观大可视为各路激进派的共识：法律乃一种虚饰之力，专为现状的不义关系保驾护航。
+  - id: 15
+    kind: body
+    source: |-
+      ## 3. Ideology and the Sources of Law
+    step1: |-
+      ## 3 意识形态与法律的渊源
+    step2: |-
+      ## 3 意识形态与法律的渊源
+  - id: 16
+    kind: body
+    source: |-
+      The well-known debate about the sources of law appears to be radically undercut by a view of law as ideology. The sources debate has usually been posed in terms of the extent to which morality is intrinsic to the content of law. Natural lawyers argue that what is law must partly depend on moral criteria. Following Thomas Aquinas, the traditional criteria have not strayed far from the teachings of the Roman Catholic Church, but more recent natural law arguments, such as those of Lon Fuller and Ronald Dworkin, have proffered secular standards emanating from the procedural ideals of the rule of law or the constitutionalism of American liberalism. All natural lawyers, however, are agreed that what the law is must be determined, in some sense, by what the law ought to be.
+    step1: |-
+      关于法律渊源的著名论战，似乎被法律即意识形态的观点釜底抽薪。渊源之争通常围绕道德在何种程度上内在于法律内容而展开。自然法学家主张：何为法律，必定部分地取决于道德判准。追随托马斯·阿奎那（Thomas Aquinas），传统的判准未曾远离罗马天主教会的教导；但较晚近的自然法论证——如朗·富勒（Lon Fuller）与罗纳德·德沃金（Ronald Dworkin）的论证——则提出了源自法治之程序理想或美国自由主义立宪主义的世俗标准。然而，全体自然法学家都一致同意：法律是什么，必须在某种意义上由法律应当是什么来决定。
+    step2: |-
+      关于法律渊源的那场著名论战，似乎被法律即意识形态的观点釜底抽薪。渊源之争，通常围绕道德在何种程度上内在于法律的内容而展开。自然法学家主张：何为法律，必部分取决于道德判准。自托马斯·阿奎那（Thomas Aquinas）以降，传统的判准未曾远离罗马天主教会的教导；而较晚近的自然法论证——朗·富勒（Lon Fuller）与罗纳德·德沃金（Ronald Dworkin）是其中翘楚——则提出世俗标准，其源出于法治的程序理想，或美国自由主义的立宪主义。然而全体自然法学家一致同意：法律是什么，必须在某种意义上由法律应当是什么来决定。
+  - id: 17
+    kind: body
+    source: |-
+      Positivists, in contrast, have argued that what is law is determined only by the institutional facts internal to a legal system, facts that may or may not meet moral standards. Early positivists, such as Thomas Hobbes and John Austin, argued that even the legitimacy of law did not depend on moral criteria; law must be obeyed, however much it falls short of moral ideals. More recent exponents, such as H.L.A. Hart and Joseph Raz, have argued that legal positivism is committed only to the idea that because what is law is a factual question, law’s legitimacy can be determined by moral criteria outside the law that might recommend disobedience. All positivists, however, are agreed that, although law may meet moral criteria, what the law is and what it ought to be should be kept distinct.
+    step1: |-
+      与之相对，实证主义者主张：法律是什么，仅由法律体系内部的制度性事实决定；这些事实可能符合道德标准，也可能不符合。早期实证主义者如托马斯·霍布斯与约翰·奥斯丁主张，甚至法律的正当性也不取决于道德判准：法律必须被服从，无论它在多大程度上有悖于道德理想。较晚近的倡导者，如 H.L.A. 哈特与 Joseph Raz，则主张法律实证主义只承诺这样一个观念：法律是什么是一个事实问题；法律的正当性可以由法律之外的道德判准来判定，而这些判准可能主张不服从。然而，全体实证主义者都一致同意：尽管法律可能符合道德判准，法律是什么与法律应当是什么必须严加区分。
+    step2: |-
+      与之相对，实证主义者主张：法律是什么，仅由法律体系内部的制度性事实决定；这些事实或合乎道德标准，或不合。早期实证主义者——托马斯·霍布斯与约翰·奥斯丁——更进一步：连法律的正当性也不系于道德判准；法律必须服从，无论它多么背离道德理想。较晚近的倡导者，如 H.L.A. 哈特与 Joseph Raz，则主张法律实证主义只承诺一件事：法律是什么是一个事实问题；法律的正当性可由法律之外的道德判准来判定，而这类判准可能主张不服从。然而全体实证主义者一致同意：法律是什么与法律应当是什么，必须严加区分——纵使法律可能合乎道德判准。
+  - id: 18
+    kind: body
+    source: |-
+      The natural law and legal positivist positions are united, however, in the aim to provide a concept of the essence of law. This endeavour supplies them with a common enemy in the view of law as ideology, which finds trying to determine the essence of law as fundamentally misconceived. After all, if law is inevitably shaped by ideas emanating from power relations outside of the law, then it would seem that law has no essence, be it moral or institutional. If law is reduced to ideology, or seen as its mere effect, then legality looks contingent and unprincipled, having no necessary content or definition, no intrinsic character. If law both mirrors and distorts the realities of power, it is power, not principles of legality, which tells us what law is. Even the positivist view that the source of law is a matter of institutional fact that may well be shaped by political and ideological factors is at odds with the radical ideological view. After all, for the positivist, what is law is an institutional matter; it may be ideological, but it isn’t necessarily so. By contrast, for most mainstream legal theorists, the ideological is no necessary feature of the law, and law should certainly not be defined according to the radical conception where intrinsic to law is a mystification of reality, or an obfuscation of social relations in order to exact compliance.
+    step1: |-
+      然而，自然法与法律实证主义这两种立场，在以下目标上是一致的：给出一个关于法律本质的概念。这一努力使二者在法律即意识形态的观点面前拥有共同的敌人——后者认定，试图确定法律的本质根本就是误解。毕竟，倘若法律不可避免地由来自法律之外权力关系的观念塑造，法律似乎便没有本质，无论道德的本质还是制度的本质。倘若法律被还原为意识形态，或被视为其单纯结果，合法性看起来便是偶然的、无原则的：没有必要的内容或定义，没有内在品格。倘若法律既映照又歪曲权力的实在，那么告诉我们法律为何的，就是权力，而非合法性的原则。即便是实证主义的观点——法律渊源是制度性事实问题，可能深受政治与意识形态因素塑造——也与激进的意识形态观相左。毕竟，对实证主义者而言，法律是什么是一个制度性问题：它可能带有意识形态色彩，但并非必然如此。相比之下，在多数主流法律理论家看来，意识形态的并非法律的必要特征；法律当然不应按激进构想来定义——仿佛内在于法律的，正是对实在的神秘化，或为求得服从而对社会关系的遮蔽。
+    step2: |-
+      然而，自然法与法律实证主义两派在一件事情上同仇敌忾：给出一个关于法律本质的概念。这一志业使它们在法律即意识形态的观点面前有了共同的敌人——后者认定，试图确定法律的本质根本就是找错了方向。毕竟，倘若法律不可避免地由法律之外权力关系所生的观念塑造，法律便似乎无所谓本质——无论道德的本质还是制度的本质。倘若法律被还原为意识形态，或被视为其单纯结果，合法性看起来便是偶然的、无原则的：没有必需的内容或定义，没有内在品格。倘若法律既映照又歪曲权力的实在，那么告诉我们法律为何的，是权力，而非合法性的原则。即便是实证主义观点——法律渊源是制度性事实问题，可能深受政治与意识形态因素的塑造——也与激进的意识形态观相抵。毕竟，对实证主义者而言，法律是什么是一个制度性问题：它可以带有意识形态色彩，却并非必然如此。相比之下，在多数主流法律理论家看来，意识形态的并非法律的必要特征；法律当然不应按激进构想来定义——仿佛内在于法律的，正是对实在的神秘化，或为求得服从而对社会关系的遮蔽。
+  - id: 19
+    kind: body
+    source: |-
+      The picture is more complicated, however. The Marxist view of law as ideology does, after all, have some affinities with rival views on the sources of law (see Sypnowich 1990, ch.2)[^sypnowich-1990]. The Marxist view concedes to the positivist, for example, that law emerges from the practices of society, though the practices are extra-legal -- political, economic and social -- rather than the practices of institutional facts internal to a legal system. Social forces are ultimately determining of the content and form of a legal system. Indeed, the Marxist Louis Althusser’s idea of ideological state apparatuses (Althusser 1971)[^althusser-1971] has a positivist flavour in its insistence that political reality can be exhaustively described by reference to structures rather than norm-bearing agents. Nonetheless, we might expect that the radical exponent of ideology would resist the combination of a positivist-ideology view. The radical would find in the positivist emphasis on institutions a too uncritical attitude to the ideological structures that shape those institutions. Yet the positivist position could be interpreted as refusing to ascribe any kind of legitimacy to the institutions that define law and thus at least potentially congenial to the ideology view.
+    step1: |-
+      然而，图景更为复杂。法律即意识形态的马克思主义观点，毕竟与法律渊源问题上的竞争性观点有几分亲缘（见 Sypnowich 1990, ch.2）[^sypnowich-1990]。例如，马克思主义观点向实证主义者让步，承认法律产生于社会实践——尽管这些实践是法律之外的（政治的、经济的与社会的），而非法律体系内部的制度性事实之实践。社会力量最终决定法律体系的内容与形式。诚然，马克思主义者路易·阿尔都塞的意识形态国家机器观念（Althusser 1971）[^althusser-1971]带有实证主义味道：它坚持政治实在可以仅凭结构而非承载规范的行动者来穷尽描述。尽管如此，激进的意识形态论者想必会抵制实证主义-意识形态观点的结合：在实证主义对制度的强调中，激进者会看出一种对塑造那些制度的意识形态结构太过缺乏批判的态度。然而，实证主义立场也可以被解释为拒绝把任何正当性归于那些定义法律的制度——如此，它至少在潜在意义上与意识形态观相合。
+    step2: |-
+      然而，图景更形复杂。法律即意识形态的马克思主义观点，与法律渊源问题上的竞争性观点毕竟有几分亲缘（见 Sypnowich 1990, ch.2）[^sypnowich-1990]。例如，马克思主义观点向实证主义者让了一步：承认法律产生于社会实践——尽管这些实践是法律之外的（政治的、经济的、社会的），而非法律体系内部制度性事实之实践。社会力量终究决定着一个法律体系的内容与形式。诚然，马克思主义者路易·阿尔都塞的意识形态国家机器观念（Althusser 1971）[^althusser-1971]颇有实证主义味道：它坚持政治实在可以仅凭结构、而无须诉诸承载规范的行动者，便得到穷尽的描述。尽管如此，激进的意识形态论者想必仍会抵制实证主义与意识形态观点的合流：在实证主义对制度的强调里，激进者会嗅出一种对塑造那些制度的意识形态结构缺乏批判的态度。然而，实证主义立场亦可解作拒绝把任何正当性归于定义法律的那些制度——果如此，它至少潜在地与意识形态观声气相通。
+  - id: 20
+    kind: body
+    source: |-
+      As for the natural law position, the Marxist view of law as ideology concedes to the natural lawyer that law is normative. What is ideology, after all, but a set of values and ideals? However, on the Marxist view, the norms are defined in terms of the interests they serve, rather than the justice they embody. Law is normative, but it is certainly not moral, the Marxist insists against the natural lawyer. The critical aspect of the radical ideology view suggests an impasse between the natural lawyer and the ideology position that is more difficult to overcome than in the positivist case.
+    step1: |-
+      至于自然法立场，法律即意识形态的马克思主义观点向自然法学家让步，承认法律是规范性的——意识形态是什么？不就是一套价值与理想吗？然而照马克思主义的观点，规范是按其所服务的利益、而非其所体现的正义来定义的。马克思主义者针对自然法学家坚持认为：法律固然是规范性的，却绝非道德的。激进意识形态观的批判面向表明，自然法学家与意识形态立场之间的僵局，比实证主义一方的更难化解。
+    step2: |-
+      至于自然法立场，法律即意识形态的马克思主义观点也向自然法学家让了半步：承认法律是规范性的。意识形态是什么？不就是一套价值与理想吗？然而在马克思主义看来，规范是按其所服务的利益来定义的，而非按其所体现的正义。马克思主义者针对自然法学家坚持：法律固然是规范性的，却绝非道德的。激进意识形态观的批判锋芒表明，自然法学家与意识形态立场之间的僵局，比实证主义那一方更难化解。
+  - id: 21
+    kind: body
+    source: |-
+      Of course, natural lawyers and positivists could quite easily find room for the liberal view of ideology as an action-oriented system of beliefs as a supplement to their views about the sources of law, in the sense that ideology is part of the sociological landscape to which their concepts of law apply. Natural law can find popular expression in a society’s ideology, and positivist legal institutions might reflect ideological beliefs.
+    step1: |-
+      当然，自然法学家与实证主义者可以相当容易地为自由主义的意识形态观——作为以行动为导向的信念体系——留出位置，作为其法律渊源观点的补充：意识形态不过是其法律概念所适用的社会学图景的一部分。自然法可以在一个社会的意识形态中找到通俗的表达；实证主义的法律制度也可能映现意识形态信念。
+    step2: |-
+      当然，自然法学家与实证主义者可以相当轻松地为自由主义的意识形态观——即把意识形态视作以行动为导向的信念体系——留出位置，作为其法律渊源观点的补白：意识形态不过是其法律概念所适用的那幅社会学图景的一部分。自然法可以在一个社会的意识形态中找到通俗的表达；实证主义的法律制度也可能映现种种意识形态信念。
+  - id: 22
+    kind: body
+    source: |-
+      ## 4. Ideology and the Rule of Law
+    step1: |-
+      ## 4 意识形态与法治
+    step2: |-
+      ## 4 意识形态与法治
+  - id: 23
+    kind: body
+    source: |-
+      All this points to another, related tension. This is the tension between the radical ideology view and the concept of the rule of law, the centrepiece of a liberal legal order. At their most basic, the terms the rule of law, due process, procedural justice, legal formality, procedural rationality, justice as regularity, all refer to the idea that law should meet certain procedural requirements so that the individual is enabled to obey it. These requirements center on the principle that the law be general, that it take the form of *rules*. Law by definition should be directed to more than a particular situation or individual; as Lon Fuller notes, the rule of law also requires that law be relatively certain, clearly expressed, open, prospective and adequately publicised.
+    step1: |-
+      凡此种种，都指向另一种相关的紧张：激进意识形态观与法治概念之间的紧张——后者是自由主义法律秩序的中枢。就其最基本的意义而言，法治、正当程序、程序正义、法律形式性、程序合理性、作为规则性的正义这些说法，都指向同一个观念：法律应当满足某些程序要求，个人方得以服从它。这些要求集中于一条原则：法律须有一般性，须采取*规则*的形式。按定义，法律所指向的不应只是特定情形或特定个人；如朗·富勒所言，法治还要求法律相对确定、表述清晰、公开、面向未来并得到充分颁布。
+    step2: |-
+      凡此种种，指向另一种相关的紧张：激进意识形态观与法治概念之间的紧张——而法治正是自由主义法律秩序的中枢。就其最基本的意义而言，法治、正当程序、程序正义、法律形式性、程序合理性、作为规则性的正义，这些说法都指向同一个观念：法律应当满足某些程序要求，个人方得以服从它。诸要求集中于一条原则：法律须有一般性，须采取*规则*的形式。按定义，法律所指向的不应只是特定情形或特定个人；朗·富勒更进而指出，法治还要求法律相对确定、表述清晰、公开、面向未来并得到充分的颁布。
+  - id: 24
+    kind: body
+    source: |-
+      The view of law as ideology, even in its radical variants, would not deny the presence of the rule of law in the liberal legal order; indeed, the rule of law is often invoked as a paradigmatic example of legal ideology. This is because, however, the rule of law is interpreted as a device that serves the interests of the powerful; moreover, it is a device that dissembles itself. The rule of law, in its restraint on the exercise of governmental and judicial power, facilitates the aims of those with power of other kinds, particularly economic power. This is not a surprising argument, if one considers how right-wing thinkers like Frederick Hayek (1971, 57–9) have lauded the rule of law for its essential role in buttressing the free market. Left-wing and right-wing thinkers are agreed, then, on the capitalist function of the rule of law.
+    step1: |-
+      法律即意识形态的观点，即便是其激进变体，也不会否认自由主义法律秩序中法治的存在；事实上，法治常被援引为法律意识形态的典范。然而，这恰恰因为法治被解释为一种服务于当权者利益的装置；而且，它是一种为自身作掩饰的装置。法治约束着政府权力与司法权力的行使，却便利了那些握有其他权力——尤其是经济权力——者的目标。这并不奇怪：只要想想弗里德里希·哈耶克（1971, 57–9）这类右翼思想家如何赞颂法治在支撑自由市场方面的枢纽作用。于是，左翼与右翼思想家在法治的资本主义功能上殊途同归。
+    step2: |-
+      法律即意识形态的观点，即便是其激进变体，也不会否认法治存在于自由主义法律秩序之中；事实上，法治常被援为法律意识形态的典范。然而这恰恰因为：法治被解释为一种服务于当权者利益的装置，而且是一种为自身作掩护的装置。法治约束着政府权力与司法权力的行使，却成全了那些握有其他权力——尤其是经济权力——者的目标。这并不奇怪：只要想想弗里德里希·哈耶克（1971, 57–9）这类右翼思想家如何盛赞法治之于自由市场的支撑之功。于是，在法治的资本主义功能上，左翼与右翼思想家殊途同归。
+  - id: 25
+    kind: body
+    source: |-
+      For the left-wing theorist of ideology, however, the rule of law also has ideological aspects that mean it serves capitalist purposes in more sinister ways. For in its restraint on political and legal power, the rule of law implies that these public forms of power are the only forms of power that exist, or at least the only ones that matter. Moreover, in assuring the subjects of the law that that law is applied with generality and certainty, the rule of law also implies that formal justice is the only relevant kind of justice; that equality before the law is identical to equality per se.
+    step1: |-
+      然而，在左翼意识形态理论家看来，法治还有另外的意识形态面向，意味着它以更阴险的方式服务于资本主义的目的：法治约束着政治权力与法律权力，便暗示这些公共形式的权力是仅存的权力形式，或至少是唯一要紧的形式。此外，法治向法律的属民保证法律以一般性与确定性适用，便又暗示：形式的正义是唯一相干的正义，法律面前的平等即平等本身。
+    step2: |-
+      然而，在左翼意识形态理论家看来，法治还有别的意识形态面向，意味着它以更阴险的方式为资本主义效力：法治约束政治权力与法律权力，便暗示这类公共权力是仅存的权力形式，至少是唯一要紧的形式。再者，法治向法律的属民保证法律以一般性与确定性适用，便又暗示：形式的正义是唯一相干的正义，法律面前的平等无异于平等本身。
+  - id: 26
+    kind: body
+    source: |-
+      These claims about the rule of law and ideology are complex and need careful scrutiny. Does the rule of law necessarily involve manipulation on behalf of the capitalist order? Given its formal virtues, and its agnosticism on the content of law, the rule of law seems innocent of charges of a capitalist bias, or a bias of any kind. As Raz puts it, the rule of law’s virtue is like the virtue of a sharp knife; it enables the law to fulfill its function, whatever the function might be (Raz 1979)[^raz-1979]. Moreover, it is hard to see how the rule of law itself is engaged in any project of deception. Generality in the law, for example, does not necessarily entail any particular commitments on how the economy or society should be organized; nor does it propagate falsity or error. Nonetheless, it is true that the proceduralism of the rule of law can be put to ideological purposes, to deflect social criticism and prevent radical change. And if enthusiasts of the rule of law place enough emphasis on procedural justice, this can reduce the likelihood that more substantive conceptions of justice will have success. Historically, societies governed by the rule of law have tended to be structured by capitalist markets, suggesting an affinity between the two sets of institutions. The rule of law can have an ideological effect even if it is not ideological in its essence.
+    step1: |-
+      关于法治与意识形态的这些主张错综复杂，须仔细审视。法治必然包含代表资本主义秩序的操纵吗？鉴于其形式美德及其对法律内容的不预设，法治似乎与“资本主义偏见”的指控——或任何偏见——无涉。如 Raz 所言，法治之美德如同一把锋利小刀的美德：它使法律得以履行其功能，无论那功能为何（Raz 1979）[^raz-1979]。此外，很难看出法治本身如何参与任何欺骗的图谋：例如，法律中的一般性并不必然蕴含任何关于经济或社会应如何组织的特定承诺，它也不传播虚假或谬误。尽管如此，法治的程序主义确实可以被用于意识形态的目的——转移社会批评、阻止激进变革。而倘若法治的热情拥护者把程序正义强调到足够程度，便可能降低更实质的正义观获得成功的几率。历史上，法治治理的社会往往以资本主义市场构筑其结构，这暗示两套制度之间的亲和。法治可以产生意识形态的效果，即使其本性并非意识形态的。
+    step2: |-
+      这些关于法治与意识形态的论断错综复杂，须细加审视。法治必然包含为资本主义秩序张目的操纵吗？鉴于其形式美德及其对法律内容的不预设，法治似乎与“资本主义偏见”的指控——或任何偏见——无涉。如 Raz 所言，法治之美德犹如一把快刀之美德：它使法律得以履行其功能，无论那功能为何（Raz 1979）[^raz-1979]。此外，很难看出法治本身如何参与任何欺骗的图谋：例如，法律的一般性并不必然蕴含任何关于经济或社会应如何组织的特定承诺，也不传播虚假或谬误。尽管如此，法治的程序主义确实可能被挪作意识形态之用——转移社会批评、阻止激进变革。而法治的热情拥护者若把程序正义强调到足够程度，更实质的正义观获得成功的机会便随之下降。历史上，法治治理的社会往往以资本主义市场构筑其结构，这暗示两套制度之间的亲和。法治可以产生意识形态的效果，纵使其本性并非意识形态的。
+  - id: 27
+    kind: body
+    source: |-
+      ## 5. Ideology and Justice
+    step1: |-
+      ## 5 意识形态与正义
+    step2: |-
+      ## 5 意识形态与正义
+  - id: 28
+    kind: body
+    source: |-
+      The idea that law is ideological is an important contribution to legal scholarship. First, it enables a more critical view of the law and its role, and thereby demystifies a set of vital social institutions. Second, it points to the importance of sociological and political factors in our understanding of the law. Legality is shaped and influenced by non-legal aspects of society, and law, in turn, has an impact on society and social change, not just in the obvious effects of particular judgments, but in the political culture that a legal system helps produce.
+    step1: |-
+      法律是意识形态的这一观念，是法学研究的一项重要贡献。其一，它让我们得以更批判地看待法律及其角色，从而揭开一批关键社会制度的神秘面纱。其二，它点明社会学与政治因素在我们理解法律时的分量。合法性由社会的非法律面向塑造与影响；反过来，法律也影响社会与社会变迁——不只在具体判决的显著效果上，更在一个法律制度助成的政治文化上。
+    step2: |-
+      法律即意识形态的观念，是法学研究的一项重要贡献。其一，它让我们得以更批判地审视法律及其角色，从而揭开一批关键社会制度的神秘面纱。其二，它点明：在我们对法律的理解中，社会学与政治因素自有其分量。合法性由社会的非法律面向塑造并影响；反过来，法律也作用于社会与社会变迁——不只在具体判决的显著效果上，更在一个法律制度助成的政治文化上。
+  - id: 29
+    kind: body
+    source: |-
+      The Marxist view of law as ideology risks, however, an unhelpful reductionism. Conceiving of law as ideological above all else in the Marxist sense can promote a crude and erroneous understanding of the relation between power and legality, where law serves only the interests of the powerful and where legal guarantees are mere shams. Moreover, this can license a cynicism about the law that is paradoxically contrary to the emancipatory aims of the radical politics that was the impetus for the critique of law as ideology in the first place. That is, radical critics risk dismissing altogether the possibility of legal resources for remedying injustice.
+    step1: |-
+      然而，法律即意识形态的马克思主义观点，冒着一种无益还原论的风险。在马克思主义意义上把法律首要地构想为意识形态，可能助长对权力与合法性关系的一种粗糙而错误的理解：法律只服务于当权者的利益，法律保障只是骗局。此外，这还可能纵容对法律的犬儒主义——而它吊诡地违背了激进政治的解放目标，正是那种政治最初推动了对法律即意识形态的批判。换言之，激进的批评者冒着把法律资源补救不义的可能性一笔勾销的风险。
+    step2: |-
+      然而，法律即意识形态的马克思主义观点，冒着一种无益的还原论风险。在马克思主义意义上把法律首先构想为意识形态，可能助长对权力与合法性关系的一种粗糙而错误的图景：法律只侍奉当权者的利益，法律保障不过是骗局。此外，这可能纵容对法律的犬儒主义——而这犬儒主义吊诡地有悖于激进政治的解放目标，正是那种政治最初推动了法律即意识形态的批判。申言之，激进的批评者有把法律补救不义的资源一笔勾销之虞。
+  - id: 30
+    kind: body
+    source: |-
+      Furthermore, the cynicism of some ideology views is in fact the fruits of a kind of utopianism about law, for it counters the bleak portrait of legal ideology manipulated on behalf of the powerful with an ideal society without ideology or law, where human beings’ relations to each other and to reality are transparent and conflict-free. The ‘end of ideology’ thesis, advanced by Bell in a triumphalist spirit on behalf of liberal capitalism, but interestingly even more salient in Marxist ideals of communism, might be wrong in its assumption that human beings can transcend ideology. Indeed, the radical concept of ideology ultimately casts doubt on the likelihood that individuals’ beliefs can ever provide an objective account of reality, untainted by distorted and self-justifying processes of inquiry.
+    step1: |-
+      此外，某些意识形态观的犬儒主义，实际上是一种法律乌托邦主义的果实：它以一个没有意识形态也没有法律的理想社会，来对抗那幅法律意识形态受操纵而服务于当权者的阴郁图景——在那个理想社会里，人与人、人与实在的关系透明而无冲突。“意识形态的终结”论题由贝尔以代表自由资本主义的胜利姿态提出；但有趣的是，它在马克思主义的共产主义理想中甚至更为突出。这一论题假定人可以超越意识形态，可能是错的。的确，激进的意识形态概念最终使人怀疑：个人的信念是否还能提供一幅关于实在的客观图景——不受歪曲的、自我辩护的探究过程的沾染。
+    step2: |-
+      再者，某些意识形态观的犬儒主义，实则是一种法律乌托邦主义的果实：它拿一个没有意识形态也没有法律的理想社会，去对抗那幅法律意识形态受操纵而侍奉当权者的阴郁图景——在那个理想社会里，人与人、人与实在的关系透明而无冲突。“意识形态的终结”论题，由贝尔以代表自由资本主义的凯旋姿态提出；但有趣的是，它在马克思主义的共产主义理想中甚至更显豁。这一论题假定人能超越意识形态——恐怕是错的。的确，激进的意识形态概念终究令人怀疑：个人的信念还能否提供一幅关于实在的客观图景，不受歪曲的、自我辩护的探究过程的沾染。
+  - id: 31
+    kind: body
+    source: |-
+      How then, can the concept of ideology be deployed in progressive legal scholarship? In fact, the more subtle critiques of ideology grasp the extent to which both liberation and manipulation can be embodied in the law. Recall the nuanced conception of Marx and Engels, where ideology gives an inverted image of reality, but a recognizable image nonetheless. This suggests that the ideals of legality are not a mere charade but are instantiated in the law, if only in a partial and incomplete form. The Marxist historian E.P. Thompson (1975, 265) made this point in his argument for the universal value of the rule of law. Thompson contended that in order for law to function as ideology it must proffer some genuine moral value.
+    step1: |-
+      那么，意识形态概念在进步的法学研究中如何施展？事实上，较为精微的意识形态批判把握了这样一个道理：解放与操纵皆可寓于法律之中。回想马克思和恩格斯那个精细的构想——意识形态给出实在的颠倒影像，却仍是可辨认的影像。这表明：合法性的诸理想并非一场单纯的闹剧，而是体现于法律之中，哪怕只以一种部分的、不完全的形式。马克思主义史学家 E.P. 汤普森（1975, 265）在为法治之普遍价值辩护时提出了这一点。汤普森主张：法律要发挥意识形态的功能，就必须提供某种真实的道德价值。
+    step2: |-
+      那么，意识形态概念在进步的法学研究中如何施展？事实上，较为精微的意识形态批判把握了这样一个道理：解放与操纵皆可寓于法律之中。回想马克思和恩格斯的精细构想——意识形态给出实在的颠倒影像，却仍是可辨认的影像。这表明：合法性的诸理想并非一场单纯的闹剧，而是体现于法律之中，哪怕只以一种部分的、不完全的形式。马克思主义史学家 E.P. 汤普森（1975, 265）为法治的普遍价值辩护时正持此论。汤普森主张：法律要发挥意识形态的功能，就必须拿出某种真实的道德价值。
+  - id: 32
+    kind: body
+    source: |-
+      To illustrate, consider how someone’s cruelty might be masked by polite manners; this does not demonstrate that good manners have no worth. Legal ideology, too, might paper over injustice in ways that serve justice nonetheless. A functional argument about ideology, then, must concede the value of the phenomenon that serves ideological aims. Ideology cannot be devoid of emancipatory aspects altogether; if law trumpets justice, equality and freedom, then it must succeed in realizing these ideals, however imperfectly, in order for law to function as ideology. We can thus appreciate legal guarantees of a procedural kind for the genuine protection they offer the subjects of the law, whilst at the same time conceding the quietist politics that proceduralism might engender.
+    step1: |-
+      举例来说，一个人的残忍可以被彬彬有礼的举止所遮掩；但这并不能证明良好的举止毫无价值。法律意识形态同样可能以某种方式掩盖不义，而这些方式反倒服务于正义。于是，关于意识形态的功能性论证，必须承认那个服务于意识形态目的的现象自有其价值。意识形态不可能全无解放的面向：法律若高唱正义、平等与自由，就必须——哪怕不完美地——实现这些理想，方能发挥意识形态的功能。因此，我们既可赞赏法律保障在程序层面的真实保护作用，又同时承认程序主义可能滋生的主静政治。
+    step2: |-
+      试举一例：一个人的残忍，可以被彬彬有礼的举止遮掩；但这证明不了良好的举止毫无价值。法律意识形态同样可能以某种方式掩盖不义，而这些方式反倒成全了正义。于是，关于意识形态的功能性论证，必须承认那个效力于意识形态目的的现象自有其价值。意识形态不可能全无解放的面向：法律若高唱正义、平等与自由，就必须——哪怕不完美地——实现这些理想，方能发挥意识形态的功能。由此，我们既可赞赏法律保障在程序层面的真实护佑，又同时承认程序主义可能滋生的主静政治。
+  - id: 33
+    kind: body
+    source: |-
+      ## 6. A New Wave in Ideology Scholarship
+    step1: |-
+      ## 6 意识形态研究的新浪潮
+    step2: |-
+      ## 6 意识形态研究的新浪潮
+  - id: 34
+    kind: body
+    source: |-
+      After a long period of disinterest among analytical philosophers in the question of ideology (deemed ‘not worth the trouble’ by Richard Rorty (1995, 232)), several writings have made a significant contribution. What might be termed a welcome ‘new wave’ in ideology scholarship reprises some familiar themes, particularly the question of the relationship between ideology and rationality. Yet a new, pluralistic context, informed by attention to the politics of difference, race, gender and identity, renders the analysis of these familiar questions particularly illuminating. Tommie Shelby, for example, defines ideology as ‘epistemically defective beliefs that function to promote social injustice’, focussing on how ideology justifies unjust racist institutions (Shelby 2003, 66)[^shelby-2003], or as Chris Lebron puts it, how racism is perpetuated by ‘legitimizing myths’ (Lebron 2013, 57)[^lebron-2013]. Shelby’s analysis draws on his bracing command of the Marxist tradition and deploys the critical theory typology of Raymond Geuss. This approach identifies ideology as possessing the function of perpetuating injustice, yet nonetheless purporting to meet cognitivist criteria, in the sense of referring to beliefs, judgements and forms of reasoning (Geuss, 1981, 123–22). Thus, just as Marx contrasted ideology with science, and predicted that communism would be beyond ideology, Shelby contends that key to the anti-racist project is to expose the cognitive failings of racist ideology.
+    step1: |-
+      在分析哲学家对意识形态问题长期冷落之后（理查德·罗蒂径直认为此问题“不值得费心”（1995, 232）），一些著述作出了重要贡献。意识形态研究中一场可喜的“新浪潮”，重提了一些熟悉的主题，尤其是意识形态与理性之关系的问题。然而，一个关注差异政治、种族、性别与身份的新多元语境，使这些老问题的分析格外具有启发性。例如，Tommie Shelby 把意识形态定义为“在认知上有缺陷、其功能在于助长社会不义的信念”，聚焦于意识形态如何为不义的种族主义制度辩护（Shelby 2003, 66）[^shelby-2003]；或如 Chris Lebron 所说，种族主义如何借“合法化的神话”得以延续（Lebron 2013, 57）[^lebron-2013]。Shelby 的分析植根于他对马克思主义传统的扎实掌握，并动用 Raymond Geuss 的批判理论类型学。这一进路认定意识形态具有延续不义的功能，却仍自称满足认知主义的判准——即涉及信念、判断与推理形式（Geuss, 1981, 123–22）。于是，正如马克思把意识形态与科学对举、预言共产主义将超越意识形态，Shelby 主张反种族主义事业的关键，在于揭露种族主义意识形态的认知失败。
+    step2: |-
+      在分析哲学家对意识形态问题长期冷落之后（理查德·罗蒂径直断言此问题“不值得费心”（1995, 232）），若干著述作出了重要贡献。意识形态研究中一场可喜的“新浪潮”，重提了一些熟题，尤其是意识形态与理性之关系的问题。然而，一个关注差异政治、种族、性别与身份的新多元语境，使这些老问题的分析格外启人深思。例如，Tommie Shelby 把意识形态定义为“在认知上有缺陷、其功能在于助长社会不义的信念”，聚焦于意识形态如何为不义的种族主义制度张目（Shelby 2003, 66）[^shelby-2003]；或如 Chris Lebron 所言，种族主义如何借“合法化的神话”得以延续（Lebron 2013, 57）[^lebron-2013]。Shelby 的分析植根于他对马克思主义传统的精熟掌握，并动用 Raymond Geuss 的批判理论类型学。这一进路认定意识形态具有延续不义的功能，却仍自称满足认知主义的判准——即涉及信念、判断与推理形式（Geuss, 1981, 123–22）。于是，正如马克思把意识形态与科学对举、预言共产主义终将超越意识形态，Shelby 主张反种族主义事业的关键，在于揭露种族主义意识形态的认知失败。
+  - id: 35
+    kind: body
+    source: |-
+      The pejorative understanding of ideology appears to be contested by Jason Stanley, who speaks of ‘flawed ideological belief’ (Stanley 2015, 179)[^stanley-2015] with the implication that ideological belief need not be flawed. Yet he contends that ideology is connected to, and legitimates, one’s identity, implying that such a relationship impugns the veracity of ideology in its very essence (Stanley 2015, 182)[^stanley-2015]. Ideology is in the realm of belief to which one has emotional attachments, and thus in need of correction by clear-sighted rational discourse. Indeed, Stanley goes on to say that ideological belief is ‘by its nature epistemically defective’ or at least ‘epistemically suspect’, echoing Shelby (2003, 198–9), though Stanley also singles out ideologies that have ‘additional epistemological flaws’ (2015, 200). Noting this vacillation on ideology’s relation to truth, Charles Mills contends that though dominant ideologies mislead in the service of oppression, ‘subversive ideologies’ can counter those narratives and foment revolution (Mills 2018, 496)[^mills-2018].
+    step1: |-
+      意识形态的贬义理解似乎受到 Jason Stanley 的质疑：他谈到“有缺陷的意识形态信念”（Stanley 2015, 179）[^stanley-2015]，言下之意是意识形态信念未必有缺陷。然而他又主张意识形态与一个人的身份相连并为后者背书，暗示这样一种关系本身就质疑意识形态的真实性（Stanley 2015, 182）[^stanley-2015]。意识形态属于人怀有情感依附的信念领域，因而需要清醒的理性话语来纠正。诚然，Stanley 进而说，意识形态信念“在本性上认知有缺陷”，或至少“认知上可疑”——这与 Shelby（2003, 198–9）相呼应；不过 Stanley 也单独挑出那些另有“额外认识论缺陷”的意识形态（2015, 200）。Charles Mills 注意到意识形态与真理关系上的这种摇摆，主张：尽管占主导地位的意识形态为压迫而误导人，“颠覆性的意识形态”可以对抗那些叙事、并发动革命（Mills 2018, 496）[^mills-2018]。
+    step2: |-
+      意识形态的贬义理解，似乎受到 Jason Stanley 的质疑：他谈的是“有缺陷的意识形态信念”（Stanley 2015, 179）[^stanley-2015]，言下之意是意识形态信念未必有缺陷。然而他又主张，意识形态与一个人的身份相连并为后者背书——暗示这样一种关系本身便动摇意识形态的真实性（Stanley 2015, 182）[^stanley-2015]。意识形态属于人怀有情感依附的信念领域，故需清醒的理性话语来纠偏。诚然，Stanley 接着说，意识形态信念“在本性上认知有缺陷”，或至少“认知上可疑”——与 Shelby（2003, 198–9）遥相呼应；不过 Stanley 也单挑出那些另有“额外认识论缺陷”的意识形态（2015, 200）。Charles Mills 注意到意识形态与真理关系上的这种摇摆，主张：尽管主导性的意识形态为压迫而误导人，“颠覆性的意识形态”却可以对抗那些叙事、并发动革命（Mills 2018, 496）[^mills-2018]。
+  - id: 36
+    kind: body
+    source: |-
+      Some theorists cast doubt on the capacity of the theorist, however emancipatory their aims, to stand outside of ideological formations, particularly if ideology insinuates itself in habits of mind, attitudes and practices. Thus even if we believe ourselves to have rationally corrected racist error, we might still persist in a racist outlook. Moreover, in our anti-racist efforts, we might do well to marshall ideological strategies for emancipation, as counselled by Mills. Understanding ideology critique as immanent, as proposed by Rahel Jaeggi (2009), means that the paradox of ideology being ‘both true and false’ can be, if not resolved, explicated by revealing, from an internal perspective, the contradictions of capitalism that ideology seeks to obscure. Sally Haslanger (2017) joins Jaeggi in stressing the illuminating point made by Marx – that even on the epistemically defective view, ideology can only function if it is not wholly false. As Jaeggi puts it (2009, 68–9), law has an ‘unrealised truth content’ a ‘deficient realisation’ of genuine ideals. Thus, sexist ideology functions because, e.g., women do indeed tend to be the caregivers in our society, and proffers ideals that have genuine value – e.g., rights for women do make a difference, if not all the difference. For Haslanger (2017, 11), ideology’s reach is beyond the propositional, including attitudes, emotions, and practices: ‘our unthinking responses, our bodily comportment, the social and material realities that constitute our milieu’.
+    step1: |-
+      一些理论家对理论家的能力表示怀疑——无论其目标多么解放——怀疑其能否立于意识形态构型的外部，尤其当意识形态把自己悄悄织入思维习惯、态度与实践之时。因此，即便我们相信自己已理性地纠正了种族主义错误，仍可能保有种族主义的眼光。此外，在反种族主义的努力中，我们或许应当如 Mills 所建议的，善用意识形态的解放策略。把意识形态批判理解为内在批判——如 Rahel Jaeggi（2009）所提议——意味着：意识形态“既真又假”的悖论纵然无从化解，也可以得到阐明——从内部视角揭示意识形态试图遮蔽的资本主义矛盾。Sally Haslanger（2017）与 Jaeggi 一道强调马克思那个富有启发性的论点：即便在认知有缺陷的观点上，意识形态也唯有不全然虚假方能发挥功能。如 Jaeggi 所说（2009, 68–9），法律有一种“未实现的真理内容”，是真实理想的“有缺陷的实现”。于是，性别歧视意识形态之所以能发挥功能，是因为——例如——女性在我们的社会中确实多为照料者，且它所提供的理想具有真实的价值——例如，女性权利确实带来了改变，即便不是全部改变。对 Haslanger（2017, 11）而言，意识形态的作用范围超出命题之外，包括态度、情感与实践：“我们未经思考的回应，我们身体的姿态，构成我们处境的社会与物质实在。”
+    step2: |-
+      一些理论家怀疑理论家的能力——无论其目标多么解放——怀疑其能否立于意识形态构形之外，尤其当意识形态把自己悄悄织入思维习惯、态度与实践之时。如此，即便我们自信已理性地纠正了种族主义错误，种族主义的眼光仍可能盘踞不去。此外，在反种族主义的努力中，我们或许应当如 Mills 所建言，善用意识形态的解放策略。把意识形态批判理解为内在批判——Rahel Jaeggi（2009）持此论——意味着：意识形态“既真又假”的悖论纵然无从化解，也可获致阐明——从内部视角揭示意识形态试图遮蔽的资本主义矛盾。Sally Haslanger（2017）与 Jaeggi 一道强调马克思那个启人心智的论点：即便在认知有缺陷的观点上，意识形态也唯有不全然虚假方能发挥功能。如 Jaeggi 所言（2009, 68–9），法律有一种“未实现的真理内容”，是真实理想的“有缺陷的实现”。于是，性别歧视意识形态之所以能运转，是因为——比如说——女性在我们的社会中确实多为照料者，而且它所标举的理想具有真实的价值——比如说，女性权利确实带来了改变，纵非全部改变。对 Haslanger（2017, 11）而言，意识形态的作用范围超出命题之外，包括态度、情感与实践：“我们未经思考的回应，我们身体的姿态，构成我们处境的社会与物质实在。”
+  - id: 37
+    kind: body
+    source: |-
+      At the same time, the role of ideology can be overstated. As Marx contended, ideology plays a cementing role, but capitalism (and racism and sexism) are material institutions first and foremost. Thus Shelby (2003, 188) concludes that it is the ‘oppressive conditions that make ideologies necessary’ and thus those conditions must be transformed if we are to be rid of ideologies and their pernicious, obfuscating role. Haslanger (2017, 15) too insists that ‘social change requires changes in our practices’. The functional definition of ideology helps make this clear. Worries about the validity of functional explanation, e.g., that the cause of a legal institution is explained by a future function, can be allayed, as proposed by G.A. Cohen in his classic work on Marx, by the idea of an ideology’s tendency to cement the institutions that caused it. Thus, the legal domain is particularly interesting, for it is both a domain of values and beliefs (equality before the law, impartial procedures, individual rights), and material practices that determine people’s lots in life, not just whether they are convicted of some crime, but also the institutional structures within which the distribution of property and power operates.
+    step1: |-
+      与此同时，意识形态的作用可能被夸大。正如马克思所主张，意识形态发挥黏合作用，但资本主义（以及种族主义与性别歧视）首先是物质的制度。因此 Shelby（2003, 188）得出结论：是“压迫性的条件使意识形态成为必要的”；若要摆脱意识形态及其有害的遮蔽作用，就必须改造那些条件。Haslanger（2017, 15）也坚持“社会变革要求改变我们的实践”。意识形态的功能性定义有助于澄清这一点。对功能性解释之效力的担忧——例如，法律制度的原因由未来的功能来解释——可以按 G. A. 科恩在其马克思研究经典中提出的办法消解：意识形态有一种巩固“引发它的那些制度”的倾向。由此，法律领域尤为耐人寻味：它既是一个价值与信念的领域（法律面前的平等、公正的程序、个人权利），也是决定人之命运荣枯的物质实践的领域——不仅决定人们是否被定罪，而且决定财产与权力分配运作于其中的那些制度结构。
+    step2: |-
+      与此同时，意识形态的作用也可能被夸大。正如马克思所言，意识形态发挥黏合之功，但资本主义（连同种族主义与性别歧视）首先是物质的制度。因此 Shelby（2003, 188）断言：是“压迫性的条件使意识形态成为必要的”；要摆脱意识形态及其有害的遮蔽之效，就必须改造那些条件。Haslanger（2017, 15）也坚持“社会变革要求改变我们的实践”。意识形态的功能性定义有助于把这一点讲清楚。对功能性解释效力的担忧——比如，法律制度的原因由未来的功能来解释——可以按 G. A. 科恩在其马克思研究经典中提出的办法化解：意识形态有一种巩固“引发它的那些制度”的倾向。由此，法律领域尤为耐人寻味：它既是价值与信念的领域（法律面前的平等、公正的程序、个人权利），也是决定人之命运荣枯的物质实践的领域——不仅决定人们是否被定罪，而且决定财产与权力分配运作于其中的诸制度结构。
+  - id: 38
+    kind: body
+    source: |-
+      ## 7. The Juridicalisation of Politics
+    step1: |-
+      ## 7 政治的司法化
+    step2: |-
+      ## 7 政治的司法化
+  - id: 39
+    kind: body
+    source: |-
+      It is interesting to reflect on the provocative suggestion that liberal political philosophy is itself a form of ideology. This might be deduced from the canonical critiques by feminists such as Susan Moller Okin (1989) and critical race theorists like Charles Mills (1997) who point to the problematic assumptions of, e.g., Rawls’s theory of justice, when it comes to issues of gender and race. Another issue, I propose, is the pervasive impact of the juridical ideal so central to liberal political theory. The values of legal proceduralism have had considerable influence on political philosophy, particularly liberalism. We saw that in his critique of the welfare state, Hayek contended that law’s procedural rules dictated a laissez-faire economy in which the state is expected only to provide a framework for private initiatives. Left-wing liberals such as Rawls and Dworkin, in contrast, insist that the state properly plays a role in remedying economic disadvantage. Rawls was concerned that citizens enjoy the genuine ‘worth’ or ‘fair value’ of equal political liberties (Rawls 2007, 148–9)[^rawls-2007]. Moreover, he also took the view that both liberal democratic socialism and a property-owning democracy were candidates for realising his principles of justice. Articulating this as the effort to find an ‘alternative to capitalism’, (2001, 135–6) Rawls was picking up on the claim in his political philosophy lectures that Marx’s idea of ‘freely associated producers’ involves a ‘democratic economic plan’ (2007, 372).
+    step1: |-
+      反思一下这个挑衅性的建议，是很有意思的：自由主义政治哲学本身就是一种意识形态。这或许可以从苏珊·莫勒·奥金（1989）等女性主义者与 Charles Mills（1997）等批判种族理论家的经典批判中推演出来——他们指出了罗尔斯正义论在性别与种族问题上的成问题假定。我想提出的另一个问题，是司法理想——它对自由主义政治理论至关紧要——的弥漫性影响。法律程序主义的价值对政治哲学影响甚巨，尤见于自由主义。前文已见，哈耶克在其对福利国家的批判中主张：法律的程序规则要求一种自由放任的经济，国家只应为私人首创精神提供框架。相比之下，罗尔斯与德沃金这样的左翼自由主义者坚持：国家理应在补救经济劣势上发挥作用。罗尔斯关心的是公民享有平等政治自由的真正“价值”或“公平价值”（Rawls 2007, 148–9）[^rawls-2007]。此外他还认为，自由民主社会主义与有产者的民主，都是实现其正义原则的候选方案。罗尔斯把这表述为寻求“资本主义的替代方案”（2001, 135–6），并援引其政治哲学讲演中的主张：马克思“自由联合的生产者”观念包含一种“民主的经济计划”（2007, 372）。
+    step2: |-
+      自由主义政治哲学本身就是一种意识形态——这个挑衅的建议，值得玩味。它或可从苏珊·莫勒·奥金（1989）等女性主义者与 Charles Mills（1997）等批判种族理论家的经典批判中推演出来：他们指出了罗尔斯正义论在性别与种族问题上的成问题假定。而我想提出的另一个问题，是司法理想——自由主义政治理论的枢机——的弥漫性影响。法律程序主义的价值对政治哲学影响甚巨，尤见于自由主义。前文已见，哈耶克批判福利国家时主张：法律的程序规则注定了一种自由放任的经济，国家只应为私人首创精神提供框架。相比之下，罗尔斯与德沃金这样的左翼自由主义者坚持：国家理应在补救经济劣势上有所作为。罗尔斯关心的是公民享有平等政治自由的真正“价值”或“公平价值”（Rawls 2007, 148–9）[^rawls-2007]。此外他还主张，自由民主社会主义与有产者的民主，皆是实现其正义原则的候选方案。罗尔斯把这表述为寻求“资本主义的替代方案”（2001, 135–6），并援引其政治哲学讲演中的论断：马克思“自由联合的生产者”观念包含一种“民主的经济计划”（2007, 372）。
+  - id: 40
+    kind: body
+    source: |-
+      Nonetheless, Rawls’s political liberalism does not reject Hayek’s counsel altogether, retaining a preoccupation with keeping the state at bay. In particular, Rawls contends that ‘the basic institutions and public policies of justice’ should be understood as ‘neutral with respect to comprehensive doctrines and their associated conceptions of the good’ (2001, 153n27). Rawls’s ‘neutrality of aim’ (2001, 153n27) reflects what Raz dubbed (1994, 46) an ‘epistemic withdrawal from the fray’ which dictates that the scope of the political be constrained by formal procedures: the decision process of the original position; the tenets of public reason; or political liberalism’s explicit exclusion of considerations about the good life. Indeed, Rawls’s proceduralist ethic became especially prominent in his later work, where the focus on constitutional questions over the remedy of economic disadvantage attracted much critical comment (see Barry 1995; Okin 1993; Williams 1993)[^barry-1995][^okin-1993][^williams-1993].
+    step1: |-
+      尽管如此，罗尔斯的政治自由主义并未全盘拒绝哈耶克的忠告，仍执着于使国家不得越界。特别是，罗尔斯主张“正义的基本制度与公共政策”应被理解为“对整全性学说及其相关的善观念保持中立”（2001, 153n27）。罗尔斯的“目标的中立性”（2001, 153n27）映现了 Raz 所谓的“认知上退出纷争”（1994, 46）——政治的范围须受形式程序约束：原初状态的决策程序、公共理性的信条，或政治自由主义对良善生活考量的明确排除。事实上，罗尔斯的程序主义伦理在其后期著作中变得尤为突出：对宪制问题的关注压过了对经济劣势的补救，招致大量批评（见 Barry 1995; Okin 1993; Williams 1993）[^barry-1995][^okin-1993][^williams-1993]。
+    step2: |-
+      尽管如此，罗尔斯的政治自由主义并未全盘拒绝哈耶克的忠告，仍念念不忘把国家挡在门外。特别是，罗尔斯主张“正义的基本制度与公共政策”应被理解为“对整全性学说及其相关的善观念保持中立”（2001, 153n27）。罗尔斯的“目标的中立性”（2001, 153n27）正应和了 Raz 所谓的“认知上退出纷争”（1994, 46）：政治的范围须受形式程序约束——原初状态的决策程序、公共理性的信条，或政治自由主义对良善生活考量的明确排除。事实上，罗尔斯的程序主义伦理在其后期著作中愈显突出：宪制问题盖过了经济劣势的补救，招致大量批评（见 Barry 1995; Okin 1993; Williams 1993）[^barry-1995][^okin-1993][^williams-1993]。
+  - id: 41
+    kind: body
+    source: |-
+      It should be noted that Rawls put much store by ‘the good’ of a well-ordered political society (2001, 198–9) and admitted that perfectionist views about valuable ways of living might play a role in legislative decisions about ‘suitably circumscribed questions’ such as the protection of wildlife habitat (2001, 152n26). However, he retained a traditional view of perfectionism as in principle inegalitarian, involving the idea that ‘some people have special claims because their greater gifts enable them to engage in the higher activities that realise perfectionist values’ (2001, 152). ‘Egalitarian perfectionists’ such as the author of this entry, in contrast, argue it is human flourishing that we should seek to make more equal in our theories of justice. On this, doubtless controversial, view, the concern for impartiality in the law should not be allowed to have ‘imperialistic designs’ on all political questions (Sypnowich 2017, 85–7)[^sypnowich-2017], so that the community forfeits its responsibility to foster equal human wellbeing. On this view, recent work that seeks to marry perfectionism with Rawlsian justice (Kramer 2017, Tahzib 2022)[^kramer-2017][^tahzib-2022], are not radical enough in their efforts to overthrow the ideology of neutralism and what might be termed the ‘juridicalisation of politics’ that can hamper a robust radical egalitarianism.
+    step1: |-
+      应当指出，罗尔斯对良序政治社会的“善”寄望甚殷（2001, 198–9），并承认关于有价值生活方式的至善论观点，可以在“适当限定的问题”——如野生动物栖息地的保护——的立法决策中发挥作用（2001, 152n26）。然而他仍持传统的至善论观点，认为它在原则上不平等，内含这样的观念：“有些人拥有特殊的主张，因为他们更大的天赋使其得以从事实现至善价值的更高活动”（2001, 152）。“平等主义的至善论者”——如本词条作者——则主张：在正义理论中，我们应当力求使人的繁荣更加平等。照这一无疑有争议的观点，法律中对公正性的关切不应被容许对一切政治问题抱有“帝国主义式的图谋”（Sypnowich 2017, 85–7）[^sypnowich-2017]，以致共同体放弃了培育平等人类福祉的责任。照这种观点，晚近试图把至善论与罗尔斯式正义联姻的著作（Kramer 2017, Tahzib 2022）[^kramer-2017][^tahzib-2022]，在推翻中立主义意识形态、以及那类不妨碍强劲激进平等主义的“政治的司法化”方面，仍不够激进。
+    step2: |-
+      应当指出，罗尔斯对良序政治社会的“善”寄望甚殷（2001, 198–9），并承认关于有价值生活方式的至善论观点，可以在“适当限定的问题”——例如野生动物栖息地的保护——的立法决策中占一席之地（2001, 152n26）。然而他仍持传统的至善论观，认为它在原则上不平等，内含这样的观念：“有些人拥有特殊的主张，因为他们更大的天赋使其得以从事实现至善价值的更高活动”（2001, 152）。“平等主义的至善论者”——本词条作者即在其列——则主张：在正义理论中，我们应当力求使人的繁荣更为平等。照这一无疑有争议的观点，法律中对公正性的关切，不应被容许对一切政治问题怀有“帝国主义式的图谋”（Sypnowich 2017, 85–7）[^sypnowich-2017]，以致共同体卸下了培育平等人类福祉的责任。照这种观点，晚近试图把至善论与罗尔斯式正义联姻的著作（Kramer 2017, Tahzib 2022）[^kramer-2017][^tahzib-2022]，在推翻中立主义意识形态、以及那类不妨碍强劲激进平等主义的“政治的司法化”方面，仍不够激进。
+  - id: 42
+    kind: body
+    source: |-
+      Nevertheless, concerns about the ideological impact of proceduralism do not tell against the valuable role that the rule of law itself should play, even in the most ambitious egalitarian community. The potential for a dismissive approach to law, perhaps, along with the general decline of the influence of Marxism (despite refreshing indications of interest in contemporary philosophy), accounts for why some recent literature has avoided the term ‘ideology’ and opted instead for terms like ‘discourse’ or ‘narrative.’ Such terms also suggest that law should be understood in a political context, but they are less specific about the nature of that context or its impact. This seems a loss. Properly understood, the concept of ideology offers a nuanced and illuminating approach to legality that gives a precise rendering of the relation between law and politics that need not be nihilist or reductionist. After all, a proper understanding of the ideological role of law is compatible with other conceptions of how law is to be defined or understood. This is particularly so if we recognize the improbability of eliminating altogether ideological modes of understanding.
+    step1: |-
+      尽管如此，对程序主义之意识形态影响的担忧，并不否定法治本身应当发挥的宝贵作用——即便在最雄心勃勃的平等主义共同体中亦然。对法律的一种轻慢态度的潜在可能，或许再加上马克思主义影响力的普遍衰落（尽管当代哲学中出现了令人振奋的兴趣迹象），可以解释晚近一些文献为何回避“意识形态”一词，转而选用“话语”或“叙事”之类的说法。这些术语同样暗示法律应在政治语境中理解，但对该语境的性质或其影响，就笼统得多了。这似乎是一种损失。理解得当的话，意识形态概念为合法性提供了一种精细而有启发性的进路，能对法律与政治的关系给出精确的刻画，而无须陷入虚无主义或还原论。毕竟，对法律之意识形态角色的恰当理解，与其他关于如何定义或理解法律的概念是相容的——倘若我们认识到，完全消除意识形态式的理解模式何其不可能，就尤其如此。
+    step2: |-
+      尽管如此，对程序主义之意识形态影响的忧虑，并不否定法治本身应当发挥的宝贵作用——即便在最雄心勃勃的平等主义共同体中亦然。对法律持一种轻慢态度的潜在可能，或许再加上马克思主义影响力的普遍式微（尽管当代哲学中出现了令人振奋的兴趣迹象），可以解释晚近一些文献为何回避“意识形态”一词，转而选用“话语”或“叙事”之类的说法。这些术语同样暗示法律应在政治语境中理解，但对该语境的性质或其影响，便笼统得多。这似乎是一种损失。理解得当的话，意识形态概念为合法性提供了一条精细而有启发性的进路，能对法律与政治的关系给出精确的刻画，而无须堕入虚无主义或还原论。毕竟，对法律之意识形态角色的恰当理解，与其他关于如何定义或理解法律的概念是相容的——倘若我们认识到，意识形态式的理解模式根本无法尽数消除，就尤其如此。
+  - id: 43
+    kind: body
+    source: |-
+            A conception of law as having a moral source, or a source in a system’s institutions, can be independent of a realistic appraisal of law’s ideological function, or the ideological process in which laws are made. Indeed, radical critics of the ‘war on terror’ waged by western governments have pointed to the value of liberal legal ideals such as human rights and the rule of law at the same time as they have noted the ideological purposes to which such ideals are put (see Bartholomew 2007, Steger, 2007)[^bartholomew-2007]. Both positivists and natural lawyers, so long as they do not insist that their conceptions of law are exhaustive of law’s reality, can permit the influence of ideology, even in its more radical interpretations. Law can be ideology as well as other moral or institutional phenomena at the same time; indeed, law will probably not succeed as ideology unless it is multi-dimensional in just this way.
+    step1: |-
+      法律有一个道德渊源，或有一个体系制度中的渊源——这样一种法律观，可以独立于对法律之意识形态功能的现实主义评估，也独立于对法律制定之意识形态过程的认识。事实上，西方政府发动的“反恐战争”的激进批评者，既指出人权与法治等自由主义法律理想的价值，同时注意到这些理想被赋予的意识形态目的（见 Bartholomew 2007, Steger, 2007）[^bartholomew-2007]。只要实证主义者与自然法学家不坚持其法律概念穷尽了法律的实在，他们便可容许意识形态的影响——哪怕是其更激进的解释。法律可以既是意识形态，又是其他道德的或制度的现象；的确，法律若非在这个意义上多维并存，恐怕难以作为意识形态而成功。
+    step2: |-
+      法律有一个道德渊源，或有一个体系制度中的渊源——这样一种法律观，可以独立于对法律之意识形态功能的现实主义评估，也独立于对法律制定之意识形态过程的认识。事实上，西方政府发动“反恐战争”的激进批评者，一面指出人权与法治等自由主义法律理想的价值，一面注意到这些理想被赋予的意识形态目的（见 Bartholomew 2007, Steger, 2007）[^bartholomew-2007]。只要实证主义者与自然法学家不坚持其法律概念已穷尽法律的实在，他们便可容许意识形态的影响——哪怕是其更激进的解释。法律可以既是意识形态，又是其他道德的或制度的现象；的确，法律若非在这个意义上多维并存，恐怕难以作为意识形态而奏效。
+  - id: 44
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
