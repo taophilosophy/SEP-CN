@@ -1,4 +1,4 @@
-# 笛卡尔的生平与著作 Descartes's Life and Works (Kurt Smith)
+# 笛卡尔的生平及著作 life and works (Kurt Smith)
 
 *首次发表于 2001 年 4 月 9 日；2023 年 3 月 1 日实质修订。*
 

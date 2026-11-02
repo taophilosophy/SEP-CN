@@ -1,4 +1,4 @@
-# 概念艺术 Conceptual Art (Elisabeth Schellekens)
+# 观念艺术 art, conceptual (Elisabeth Schellekens)
 
 **首次发表于 2007 年 6 月 7 日；2022 年 3 月 23 日实质修订。**
 

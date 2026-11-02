@@ -1,4 +1,4 @@
-# 杜威的伦理学 Dewey's Moral Philosophy (Elizabeth Anderson)
+# 杜威的伦理学 moral philosophy (Elizabeth Anderson)
 
 *首次发表于 2005 年 1 月 20 日；2023 年 1 月 28 日实质修订。*
 

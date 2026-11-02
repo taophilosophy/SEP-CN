@@ -1,4 +1,4 @@
-# 笛卡尔的本体论论证 Descartes's Ontological Argument (Lawrence Nolan)
+# 笛卡尔的本体论论证 ontological argument (Lawrence Nolan)
 
 *首次发表于 2001 年 6 月 18 日；2025 年 5 月 5 日实质修订。*
 

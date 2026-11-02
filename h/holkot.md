@@ -1,4 +1,4 @@
-# 罗伯特·霍尔柯特 Holkot \[Holcot\], Robert (Hester Gelber and John T. Slotemaker)
+# 罗伯特·霍尔柯特 Holkot [Holcot], Robert (Hester Gelber and John T. Slotemaker)
 
 *首次发表于 2001 年 7 月 23 日；2017 年 2 月 15 日实质修订。*
 

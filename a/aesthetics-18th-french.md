@@ -1,4 +1,4 @@
-# 18 世纪的法国美学 18th Century French Aesthetics
+# 18 世纪的法国美学 18th Century French Aesthetics and Jacques Morizot)
 
 **首次发表于 2004 年 2 月 29 日；2023 年 11 月 13 日实质修订。**
 
