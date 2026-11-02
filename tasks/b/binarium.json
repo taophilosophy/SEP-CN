@@ -2,7 +2,7 @@
   "slug": "binarium",
   "kind": "retranslate",
   "zh_doc": "b/binarium.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:15:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:31:22Z",
+      "evidence": "初译稿 641faf13 在库（约 6.7k 汉字，章节 5/5 全型、脚注 21 条含拉丁原文注）；无 MISSING 无重复块（预检通过）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:31:22Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：引言/1.1 普遍的形质论（伍德拉夫定义、两论题、动力因推理、精神质料）/1.2 形式的多样性（奥卡姆遗体论证、阿奎那两论证引文）/2 支持者与反对者（阿维斯布朗=伊本·加比罗尔、阿奎那 esse 复合）/3 表达式史（哲学大全原文、卡卢斯、吉尔松、Weisheipl、Synan）/4 概念性问题（嵌套谓述、形而上洋葱、亚里士多德谓述观）/5 结论+脚注 21 条+相关词条 6 项全对应"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:31:22Z",
+      "evidence": "check_prose 42→36：实修 5 处（加以诠释→得到诠释 14、存在着→已有 42/44、加以接受→接受 76、作出断言重构 86）；余 36 条逐条豁免：de-chain 多为术语链（普遍的形质论）与直引句/脚注引文，38/56/76/82/88 长句为源文等长或平行结构，30 被创造因而被引起为经院句式"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T18:31:23Z",
+      "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；相关词条 6 项与 SUMMARY 登记名对应"
     }
   ],
   "blockers": [],
