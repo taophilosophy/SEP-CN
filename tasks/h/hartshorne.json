@@ -2,7 +2,7 @@
   "slug": "hartshorne",
   "kind": "retranslate",
   "zh_doc": "h/hartshorne.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:31:31Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-hartshorne",
+      "at": "2026-11-01T15:25:57Z",
+      "evidence": "ledger: 76 segments step1+step2; yuanwen source match 76/76; check_style 0; H1=查尔斯·哈茨霍恩"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-hartshorne",
+      "at": "2026-11-01T15:41:28Z",
+      "evidence": "MTPE 对照: 幻觉0 漏译0 增译0; 术语漂移 核销: 安瑟伦混形统一为安瑟伦、psychicalism→心理主义/panpsychism→泛心论/panentheism→万有在神论 主形锁定、人名首现括注 32 处; 事实 核销: pubinfo 2001-07-23 首刊/2024-03-03 修订、引用组与年份守恒 76/76、check_style 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "sub-hartshorne",
+      "at": "2026-11-01T15:48:51Z",
+      "evidence": "check_prose 告警 88 条: 修 16 条(被动/弱动/欧化)/豁免 72 条(中文哲学文本 de-chain 49 为正常密度、long-sentence 22 为并列复合句、plural-men 1); 逐句回核; check_style 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "sub-hartshorne",
+      "at": "2026-11-01T15:50:07Z",
+      "evidence": "check_style 0; check_academic --strict 0; check_math 0; 文献定义区 86 条照录; 相关词条 11 中文名; 版本行 2001-07-23/2024-03-03"
     }
   ],
   "blockers": [],
