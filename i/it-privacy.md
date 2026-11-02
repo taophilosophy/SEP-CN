@@ -1,4 +1,4 @@
-# 隐私与信息技术 Privacy and Information Technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)
+# 隐私与信息技术 privacy and information technology (Jeroen van den Hoven, Martijn Blaauw, Wolter Pieters, and Martijn Warnier)
 
 *首次发表于 2014 年 11 月 20 日；2024 年 10 月 4 日实质修订。*
 

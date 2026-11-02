@@ -2,7 +2,7 @@
   "slug": "incompatibilism-theories",
   "kind": "retranslate",
   "zh_doc": "i/incompatibilism-theories.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:55:12Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:11:50Z",
+      "evidence": "独立复审：对照 yuanwen 四节+全部小节（1.1-1.3/2.1-2.3/3.1-3.3/4）+吉内特 S/T 例、凯恩 SFW/加倍努力、奥康纳闪电灌木例、利奥例、托尼蛋糕例逐段核销，无漏译；SUMMARY 主行英文系上游 TOC 片段，回 en/ 核对 citation_title 后全题化（沿用 A 批 66 件先例），it-privacy 同步小写归一"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:11:50Z",
+      "evidence": "逐句回核修 18 处，含 4 处硬伤：'不相信主义'（incompatibilism 误译）/L117 '努力的确定性'（indeterminacy 反译）/L183 '不相主义'脱字/'当且仅当'强于源文 just in case→仅当；其余：主宰控制→主动控制归一/中心论→中心式说明（防读作'中心主义'）/严格同一性→完全相同（exact sameness）/两处长句重构/实体因果标题/独占地根本等"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:11:50Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary H1 与 SUMMARY 一致（本次同修）；自由意志术语一致性核验（不相容主义/相容论/非决定论/行动者因果/事件因果/终极负责/自我形成行动/运气论证/强化控制）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:11:50Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
