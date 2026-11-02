@@ -168,10 +168,19 @@ def fix_seg(seg, seen_manual=None):
 
 
 def star_ok(seg):
-    """星号标记结构 tokenizer 检查（** 与 * 依序配对，栈空为健康）。"""
+    """星号标记结构 tokenizer 检查（** 与 * 依序配对，栈空为健康）。
+
+    行首列表标记 `* `（后随空格）是结构记号不是强调，跳过。
+    """
     i, stack, n = 0, [], len(seg)
     while i < n:
         if seg[i] == "*":
+            if i == 0 or (seg[i - 1] in " \t" and i >= 1 and
+                          (i - 2 < 0 or seg[i - 2] in " \t>")):
+                # 行首（或引用块内行首）的列表星：后随空格即豁免
+                if i + 1 < n and seg[i + 1] == " ":
+                    i += 1
+                    continue
             if i + 1 < n and seg[i + 1] == "*":
                 tok = "**"
             else:
