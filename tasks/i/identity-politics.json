@@ -1,0 +1,50 @@
+{
+  "slug": "identity-politics",
+  "kind": "retranslate",
+  "zh_doc": "i/identity-politics.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T16:11:04Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T19:23:59Z",
+      "evidence": "第二批子代理已产出译文，主会话收口推进：体例/学术门禁核验通过"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T19:23:59Z",
+      "evidence": "第二批子代理已产出译文，主会话收口推进：体例/学术门禁核验通过"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T19:24:00Z",
+      "evidence": "第二批子代理已产出译文，主会话收口推进：体例/学术门禁核验通过"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "main-session",
+      "at": "2026-11-01T19:24:00Z",
+      "evidence": "第二批子代理已产出译文，主会话收口推进：体例/学术门禁核验通过"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:26Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 1, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "4dbd67b4bb6dcd47bd96710490e7bc71c5738a3f909c687d02e182cac06a27eb"
+  }
+}
