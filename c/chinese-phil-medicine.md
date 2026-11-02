@@ -18,7 +18,7 @@
 
 其次，医学著作与其他科学著作一样，被归类为技术专门类，区别于通论性著作，包括与中国哲学相关的“诸子”文本（Raphals 2008–2009，即将出版）[^raphals-2008]。医学及其相关学科见于汉代正史《汉书》（*Han shu*）《艺文志》（卷 30）的最后一节。此《志》包含六个部分。前两部分（“六艺”与“诸子”）包含哲学著作。最后两部分是技术性的：“数术”（*Shu shu* 數術）与“方技”（*Fang ji* 方技）。后者包含论医学与长寿的著作，包括医经（*yi jing* 醫經）、经方（*jing fang* 經方）、房中术（*fang zhong* 房中，亦称“床笫之术”）与神仙（*shen xian* 神仙）等类别。这些篇章反映了与汉廷紧密相关的“方士”（*fang shi* 方士）的技术与仪式专门家的关切与专长。但他们的关切也出现在早期哲学文本中，以至于把他们的哲学内容与其宗教和技术内容截然分开是任意且人为的（Harper 1998 与 1999；Kalinowski 2004）[^harper-1998][^harper-1999][^kalinowski-2004]。
 
-尽管如此，中国哲学与中国医学在其早期发展中共享重要的思想语境。中国科学的起源似乎在于哲学家与技术专门家（包括医家）思想的融合。据 Sivin（1988 与 1990），中国的基本诸科学建立于公元前一世纪至公元一世纪之间的某个时期，其途径是他所描述的儒（“Confucian”）家观念与技术专门家观念的结合，尤其是精通阴阳、五行（*wu xing* 五行，下称 *wuxing*）的专家，以及与“数术”（*Shu shu*）、“方技”（*Fang ji*，上文提及）相关的技术专长传统。
+尽管如此，中国哲学与中国医学在其早期发展中共享重要的思想语境。中国科学的起源似乎在于哲学家与技术专门家（包括医家）思想的融合。据 Sivin（1988 与 1990），中国的基本诸科学建立于公元前一世纪至公元一世纪之间的某个时期，其途径是他所描述的儒（“Confucian”）家观念与技术专门家观念的结合。其中尤其是精通阴阳、五行（*wu xing* 五行，下称 *wuxing*）的专家，以及与“数术”（*Shu shu*）、“方技”（*Fang ji*，上文提及）相关的技术专长传统。
 
 这一融合的关键在于两个群体共有、却以非常不同的方式运用的若干概念。早期医学——以及宇宙论——思想把宇宙描绘为最终由气（*qi* 氣，即构成并组织物质、引起生长与变化的能量）构成，处于不断变化的过程中，这些变化基于阴阳（*yin* 与 *yang* 陰陽）的相互作用以及“五行”或“五德”（*wuxing*。参见 Graham 1986，Raphals 1998 与 2013）[^graham-1986][^raphals-1998][^raphals-2013]。
 
@@ -84,7 +84,7 @@
 
 > 十种姿势：第一是“虎游”（tiger roving）；第二是“蝉附”（cicada clinging）；第三是“尺蠖”（measuring worm）；第四是“河鹿抵角”（river deer butting）；第五是“蝗虫张开”（locust splayed）；第六是“长臂猿抓取”（gibbon grabbing）；第七是“蟾蜍”（toad）；第八是“兔奔”（rabbit bolting）；第九是“蜻蜓”（dragonfly）；第十是“鱼吞”（fish gobbling）。（Harper 1998，418）[^harper-1998]
 
-这些文本强调，性活动是一个自然过程，但必须加以调控。如《天下至道谈》所说，人们天生知道如何呼吸、如何进食，但其他一切都关乎学习与习惯。“助生者食，伤生者欲。是以圣人合男女必有法”（Zhou 与 Xiao 1989，431；Harper 1998，432）[^harper-1998]。
+这些文本强调，性活动是一个自然过程，但须经调控。如《天下至道谈》所说，人们天生知道如何呼吸、如何进食，但其他一切都关乎学习与习惯。“助生者食，伤生者欲。是以圣人合男女必有法”（Zhou 与 Xiao 1989，431；Harper 1998，432）[^harper-1998]。
 
 《养生方》（*Yang sheng fang* 養生方）包含八十七种方子，包括食物、药物与饮剂，以及若干性养生练习。《却谷食气》（*Que gu shi qi* 卻榖食氣）规定了早晚进行的饮食与呼吸练习，以及通过食六气、避另五气来修养呼吸的季节性方案（Harper 1998，25–30）[^harper-1998]。另一文本《十问》（*Shi wen* 十問）就养生术提供建议（Harper 1998，22–30）[^harper-1998]，例如：
 
@@ -114,7 +114,7 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 
 据其自传（《抱朴子外篇》，第 50 章；Sailey 1978，242–272；Ware（1966，6–21）），他在青年时研习儒家经典，但与此同时对旨在养身、以求成仙的准医学技术产生兴趣。他成为炼丹大师郑隐（*Zheng Yin* 鄭隱，约公元 215–约 302）的学生，并作为其弟子约十五年。在短暂的功业之后，他放弃军旅生涯，前往都城洛阳搜求神仙之书。在南方政治动荡中遭遇困难后，葛洪完全放弃政治生活，潜心于神仙术。316 年他回到北方，被东晋朝廷封为侯，并担任行政职务。得知南方（今越南北部）发现丹砂后，他在南方广西谋得县令之职，在罗浮山（*Mt. Luofu* 羅浮）定居并开始研习炼丹术，终老于此（Sailey 1978，277–78；Ware 1981；Wells 2003）[^sailey-1978][^ware-1981][^wells-2003]。
 
-葛洪是第一位系统描述道教神仙术历史与理论的人，这些技术包括“守一”（*shou yi* 守一）、行气（*xing qi* 行氣）、“导引”（*dao yin*）与性长寿术（*fang zhong* 房中；《抱朴子内篇》，第 2 章；Lai Chi-tim 1998，203-204）[^lai-1998]。但他对这些技术的记述明显反映出按照大致儒家原则进行自我修养的兴趣。例如，他认为道德自我修养是追求成仙的前提；自我修养包括仁（*ren*）、信（*xin*）、忠（*zhong*）、孝（*xiao*）等儒家德性。葛洪批评道教的“清谈”（*qing tan*），并强调道德德性与道学研究两者都重要。他专门的道教著作强调“玄”（*xuan* 玄）与“虚”（*xu* 虛）以及包罗万象的统一的重要性，这种统一须由道士通过冥想实践、“保精”（*bao jing* 保精）术与服食药草（*fu yao* 服藥）来积极保持。
+葛洪是第一位系统描述道教神仙术历史与理论的人，这些技术包括“守一”（*shou yi* 守一）、行气（*xing qi* 行氣）、“导引”（*dao yin*）与性长寿术（*fang zhong* 房中；《抱朴子内篇》，第 2 章；Lai Chi-tim 1998，203-204）[^lai-1998]。但他对这些技术的记述明显反映出按大致儒家原则自我修养的兴趣。例如，他认为道德自我修养是追求成仙的前提；自我修养包括仁（*ren*）、信（*xin*）、忠（*zhong*）、孝（*xiao*）等儒家德性。葛洪批评道教的“清谈”（*qing tan*），并强调道德德性与道学研究两者都重要。他专门的道教著作强调“玄”（*xuan* 玄）与“虚”（*xu* 虛）以及包罗万象的统一的重要性，这种统一须由道士通过冥想实践、“保精”（*bao jing* 保精）术与服食药草（*fu yao* 服藥）来积极保持。
 
 作为炼丹家，葛洪试验药物与矿物。《抱朴子内篇》的“金丹”（*Jin dan* 金丹）与“黄白”（*Huang bai* 黄白）两章考察了炼丹术的历史，并详述了一种“炼丹砂”（“alloying cinnabar”）的方法，征引古代方子与“丹砂之法”。“仙药”（*Xian yao* 仙藥）章提供了关于药草的信息（Gao 1996，Qing 1994，Theobald 2013）[^gao-1996][^qing-1994][^theobald-2013]。
 
@@ -172,11 +172,11 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 
 ## 5 结语
 
-总之，这篇简短的论述涉及中国哲学与中国医学发展之间联系的重要问题。哲学文本显然以多种方式影响了医学。第一，两者都基于气、阴阳与五行理论，以及基于这些理论的微观宇宙—宏观宇宙类比。然而，正如更一般的科学情形一样，哲学文本学者从方士中分化出来，成为独特的社会群体，尤其如此。尽管如此，我们仍能在若干医学兴趣领域追溯哲学关切，尤其是“养生”（*yang sheng*）实践的持续历史——它首先见于哲学文本，却被葛洪、陶弘景与孙思邈等医家与炼丹家以详尽而实用的细节加以阐述。这一联系被二十世纪中国最伟大的医家与医学改革者之一张锡纯明确化，他毫不含糊地把哲学描述为医学的基础。
+总之，这篇简短的论述涉及中国哲学与中国医学发展之间联系的重要问题。哲学文本显然以多种方式影响了医学。第一，两者都基于气、阴阳与五行理论，以及基于这些理论的微观宇宙—宏观宇宙类比。然而，正如更一般的科学情形一样，哲学文本学者从方士中分化出来，成为独特的社会群体，尤其如此。尽管如此，我们仍能在若干医学兴趣领域追溯哲学关切，尤其是“养生”（*yang sheng*）实践的持续历史。它首先见于哲学文本，其后经葛洪、陶弘景与孙思邈等医家与炼丹家阐发，细节详尽而实用。这一联系被二十世纪中国最伟大的医家与医学改革者之一张锡纯明确化，他毫不含糊地把哲学描述为医学的基础。
 
 ## 参考文献
 
-> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。**非中文文献从原文照录，不作翻译；中国文献译为中文。**
 
 ## 学术工具
 
@@ -188,16 +188,16 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 
 ## 其他网络资源
 
-- [Daoism and Daoist Studies](http://www.daoiststudies.org/), James Miller, Duke University.
-- [ Golden Elixirs](http://www.goldenelixir.com/)(Chinese alchemy), Fabrizio Predagio, University of Erlangen-Nuremberg.
-- [Guides to Research: Chinese Science and Medicine](http://ccat.sas.upenn.edu/~nsivin/refe.html), Nathan Sivin, History and Sociology of Science, University of Pennsylvania.
-- [Needham Research Institute](http://www.nri.org.uk/), a centre for the study of the history of East Asian science, technology and medicine.
+- [道教与道教研究（Daoism and Daoist Studies）](http://www.daoiststudies.org/)，James Miller，杜克大学。
+- [金丹（Golden Elixirs）](http://www.goldenelixir.com/)（中国炼丹术），Fabrizio Predagio，埃尔朗根-纽伦堡大学。
+- [研究指南：中国科学与医学（Guides to Research: Chinese Science and Medicine）](http://ccat.sas.upenn.edu/~nsivin/refe.html)，Nathan Sivin，宾夕法尼亚大学科学史与社会学系。
+- [李约瑟研究所（Needham Research Institute）](http://www.nri.org.uk/)，东亚科学技术与医学史研究中心。
 
 ## 相关词条
 
-Chinese Philosophy: science | Daoism
+中国哲学与科学 | 道家/道教
 
-[^baopuzi-1996]: *Baopuzi neipian jiao shi* 抱樸子内篇校釋 (The Inner Chapters of the Master Who Embraces Simplicity) , Wang Ming 王明 (ed.), Beijing: Zhonghua shuju, 1996.
+[^baopuzi-1996]: Wang Ming 王明（编）, 1996, 《抱朴子内篇校释》（*Baopuzi neipian jiao shi*）, 北京：中华书局。
 
 [^campany-2002]: Campany, R., 2002, *To Live as Long as Heaven and Earth: A Translation and Study of Ge Hong’s Traditions of Divine Transcendents*, Berkeley and Los Angeles: University of California Press.
 
@@ -209,13 +209,13 @@ Chinese Philosophy: science | Daoism
 
 [^furth-1986]: Furth, C., 1986, *A Flourishing Yin: Gender in China’s Medical History, 960–1665*, Berkeley: University of California Press.
 
-[^gao-1996]: Gao Riguang 高日光, 1996, “Ge Hong 葛洪,” in *Zhuzi baijia da cidian* 諸子百家大辭典 (Dictionary of Philosophers), Feng Kezheng 馮克正 and Fu Qingsheng 傅慶升 (eds.), Shenyang: Liaoning renmin chubanshe, p. 87.
+[^gao-1996]: Gao Riguang 高日光, 1996, “葛洪”, 载 Feng Kezheng 冯克正, Fu Qingsheng 傅庆升（编）, 《诸子百家大辞典》（*Zhuzi baijia da cidian*）, 沈阳：辽宁人民出版社, 第 87 页。
 
 [^graham-1986]: Graham, A. C., 1986, *Yin-Yang and the Nature of Correlative Thinking*, Singapore: Institute of East Asian Philosophies.
 
 [^graham-1986b]: –––, 1986b, *Chuang-tzu: The Inner Chapters*, London: George Allen & Unwin.
 
-[^han-1962]: *Han shu* 漢書 (Standard History of the Han Dynasty), Beijing: Zhonghua shuju, 1962.
+[^han-1962]: 《汉书》（*Han shu*）, 北京：中华书局, 1962。
 
 [^harper-1998]: Harper, D., 1998, *Early Chinese Medical Literature*, London and New York: Kegan Paul International.
 
@@ -223,9 +223,9 @@ Chinese Philosophy: science | Daoism
 
 [^ho-2007]: Ho, Peng-Yoke, 2007, *Explorations in Daoism: Medicine and Alchemy in Literature*, J. P. C. Moffett and Cho Sungwu (eds.), with a foreword by T. H. Barrett, London: RoutledgeCurzon.
 
-[^huainanzi-nd]: *Huainanzi* 淮南子 (*Huainan Annals*), Zhuzi jicheng edition.
+[^huainanzi-nd]: 《淮南子》（*Huainanzi*）, 诸子集成本。
 
-[^huang-1986]: *Huang Di neijing zhang ju suo yin* 黃帝內經章句索引 (Concordance to the Huang Di neijing), Ren Yingqiu 任應秋 et. al. (eds.), Beijing: Renmin weisheng chubanshe, 1986.
+[^huang-1986]: Ren Yingqiu 任应秋等（编）, 1986, 《黄帝内经章句索引》（*Huang Di neijing zhang ju suo yin*）, 北京：人民卫生出版社。
 
 [^kalinowski-2004]: Kalinowski, M., 2004, “Technical Traditions in Ancient China and Shushu Culture in Chinese Religion,” in *Religion and Chinese Society. Volume 1: Ancient and Medieval*, J. Lagerwey (ed.), Hong Kong: Chinese University Press, pp. 223–248.
 
@@ -235,9 +235,9 @@ Chinese Philosophy: science | Daoism
 
 [^lai-1998]: Lai Chi-Tim, 1998, “Ko Hung’s Discourse of Hsien-Immortality: A Taoist Configuration of an Alternate Ideal Self-Identity,” *Numen*, 45 (2): 183–220.
 
-[^li-1993]: Li, Ling 李零, 1993, *Zhongguo fang shu kao* 中國方術考 (*Study of the Magical Arts of China*), Beijing: Renmin Zhongguo chubanshe.
+[^li-1993]: Li Ling 李零, 1993, 《中国方术考》（*Zhongguo fang shu kao*）, 北京：人民出版社。
 
-[^li-2000]: –––, 2000, *Zhongguo fang shu xu kao* 中國方術續考 (*Supplementary Studies of the Magical Arts of China*), Beijing: Renmin Zhongguo chubanshe.
+[^li-2000]: –––, 2000, 《中国方术续考》（*Zhongguo fang shu xu kao*）, 北京：人民出版社。
 
 [^lo-2001]: Lo, V., 2001, “The Influence of Nurturing Life Culture,” in *Innovation in Chinese Medicine*, E. Hsu (ed.), Needham Research Institute Studies, Cambridge: Cambridge University Press, pp. 19–50.
 
@@ -251,11 +251,11 @@ Chinese Philosophy: science | Daoism
 
 [^lloyd-2002]: Lloyd, G. E. R., and N. Sivin, 2002, *The Way and the Word:* *Science and Medicine in Early China and Greece*, New Haven: Yale University Press.
 
-[^lü-1984]: *Lü shi chunqiu jiao shi* 呂氏春秋校釋 (Springs and Autumns of Master Lü), by Lü Buwei 呂不韋 (291?-235 BCE), Chen Qiyou 陳奇猷 (ed.), Shanghai: Guji chubanshe, 1984
+[^lü-1984]: Chen Qiyou 陈奇猷（编）, 1984, 《吕氏春秋校释》（*Lü shi chunqiu jiao shi*）, 吕不韦（前 291?–235）撰, 上海：上海古籍出版社。
 
-[^ma-1992]: Ma, Jixing 馬幾興 (ed.), 1992, *Mawangdui gu yi shu kao shi* 馬王堆古醫書考釋 (*Explanation of medical documents from Mawangdui*), Hunan: Hunan kexue jishu chubanshe.
+[^ma-1992]: Ma Jixing 马几兴（编）, 1992, 《马王堆古医书考释》（*Mawangdui gu yi shu kao shi*）, 湖南：湖南科学技术出版社。
 
-[^mawangdui-1985]: *Mawangdui Hanmu boshu* 馬王堆漢墓帛書 (The Silk Manuscripts from the Han Tombs at Mawangdui), Mawangdui Hanmu boshu zhengli xiaozu (ed.), Volume 4, Beijing: Wenwu, 1985.
+[^mawangdui-1985]: 《马王堆汉墓帛书》（*Mawangdui Hanmu boshu*）, 马王堆汉墓帛书整理小组（编）, 第 4 卷, 北京：文物出版社, 1985。
 
 [^metailié-2015]: Metailié, G., 2015, *Science and Civilisation in China Pt. 4. Traditional Botany: An Ethnographic Approach*, Cambridge: Cambridge University Press.
 
@@ -267,7 +267,7 @@ Chinese Philosophy: science | Daoism
 
 [^predagio-2013]: Predagio, F. (ed.), 2013, *The Encyclopedia of Daoism*, 2 volumes, London: Routledge.
 
-[^qing-1994]: Qing Xitai 卿希泰, 1994, *Zhongguo daojiao* 中國道教 (Chinese Daoism), Shanghai: Zhishi chubanshe, vol. 1, pp. 236–238.
+[^qing-1994]: Qing Xitai 卿希泰, 1994, 《中国道教》（*Zhongguo daojiao*）, 上海：知识出版社, 第 1 卷, 第 236–238 页。
 
 [^raphals-1998]: Raphals, L., 1998, *Sharing the Light: Representations of Women and Virtue in Early China*, Albany: State University of New York Press.
 
@@ -291,7 +291,7 @@ Chinese Philosophy: science | Daoism
 
 [^scheid-1995]: Scheid, V.,1995, “The Great Qi: Zhang Xichun’s Reflections On the Nature, Pathology and Treatment of the Daqi,” *Journal of Chinese Medicine*, 49 (5): 5–16.
 
-[^shi-1959]: *Shi ji* 史記 (Annals), by Sima Qian 司馬遷 (?145-?86) and others, Beijing: Zhonghua, 1959.
+[^shi-1959]: Sima Qian 司马迁（?前 145–?前 86）等撰, 1959, 《史记》（*Shi ji*）, 北京：中华书局。
 
 [^sivin-1968]: Sivin, N., 1968, *Chinese Alchemy: Preliminary Studies*, Cambridge: Harvard University Press.
 
@@ -343,10 +343,10 @@ Chinese Philosophy: science | Daoism
 
 [^yates-2005]: Yates, R. D. S., 2005, “Medicine for Women in Early China: A Preliminary Survey,” *Nan Nü*, 7(2): 127–181.
 
-[^zhang-1918]: Zhang Xichun 張錫純, 1918–1934, *Lun zhexue yu yixue zhi guanxi* 論哲學與醫學之關係 (Concerning The Relation of Philosophy and Medicine) in *Yi xue zhong zhong can xi lu* 醫學衷中參西錄 (Records of Heart-felt Experiences in Medicine with Reference to the West), rpt. Taiyuan: Shanxi kexue jizhu chubanshe, 1990, pp. 296–298.
+[^zhang-1918]: Zhang Xichun 张锡纯, 1918–1934, 《论哲学与医学之关系》（*Lun zhexue yu yixue zhi guanxi*）, 载《医学衷中参西录》（*Yi xue zhong zhong can xi lu*）, 太原：山西科学技术出版社, 1990 年重印, 第 296–298 页。
 
-[^zhou-1987]: Zhou Yimou 周一謀, and Xiao Zuotao 蕭佐桃, 1987, *Mawangdui yi shu kao zhu* 馬王堆醫書考注 (*Investigations and Notes on the Medical Books from Mawangdui*), Tianjin: Tianjin kexue.
+[^zhou-1987]: Zhou Yimou 周一谋, Xiao Zuotao 萧佐桃, 1987, 《马王堆医书考注》（*Mawangdui yi shu kao zhu*）, 天津：天津科学技术出版社。
 
-[^zhou-1994]: Zhou Yimou 周一謀 (ed.), 1994, *Mawangdui yi xue wenhua* 馬王堆醫學文化 (*The Medical Culture of Mawangdui*), Shanghai: Wenhui chubanshe.
+[^zhou-1994]: Zhou Yimou 周一谋（编）, 1994, 《马王堆医学文化》（*Mawangdui yi xue wenhua*）, 上海：文汇出版社。
 
-[^zhuangzi-1961]: *Zhuangzi ji shi* 莊子集釋 (*Collected Explanations of the* Zhuangzi), ed. Guo Qingfan 郭慶籓, Beijing: Zhonghua shuju, 1961.
+[^zhuangzi-1961]: Guo Qingfan 郭庆藩（编）, 1961, 《庄子集释》（*Zhuangzi ji shi*）, 北京：中华书局。
