@@ -2,7 +2,7 @@
   "slug": "basing-epistemic",
   "kind": "retranslate",
   "zh_doc": "b/basing-epistemic.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:15:55Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:14:26Z",
+      "evidence": "初译稿 641faf13 在库（约 11.3k 汉字，5 节全型：因果论/反事实论/信念论/因果—信念论/与认识论；六种理论定义式 Moser/McCain/CCB/CMA/DPO/DB/(B)/(CD) 全部照录）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:14:26Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：导言/1 因果论（莫泽联结关系/遗忘理由/普兰丁格西尔维娅偏离链/麦凯恩干预主义/叶如 CCB/图里 CMA/莱勒迷信律师/戈德曼异议）2 反事实论（斯温伪过度决定者 DPO/DB/摆锤反例与回应）3 信念论（朗吉诺-奥迪/托利弗 (B)/以西结反例）4 因果—信念论（科尔奇 (CD)/拒绝理由/聂鲁达例/ad hoc 异议与回应）5 与认识论（可靠论冲突/强通达内在主义/证据主义/谢弗贬损恶魔）全节对应；定义式编号与引文页码逐一在位"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:14:27Z",
+      "evidence": "check_prose 70→63：实修 7 处（实施干预 47、就其整体而言 71×2、模式推理 71、作最少必要改变 90、作进一步推理 114、作了推理 130）；余 63 条逐条豁免：41 de-chain 为自然中文或术语链（基础关系/偏离因果链/伪过度决定者），18 长句为源文等长定义式与论证句，4 被动为术语性被动（过度决定/被引起）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T20:14:27Z",
+      "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；参考文献 40+ 条照录合规"
     }
   ],
   "blockers": [],
