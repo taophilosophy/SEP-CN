@@ -2,7 +2,7 @@
   "slug": "holbach",
   "kind": "retranslate",
   "zh_doc": "h/holbach.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T11:12:04Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-holbach",
+      "at": "2026-11-01T16:14:35Z",
+      "evidence": "ledger composed; doc complete"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-holbach",
+      "at": "2026-11-01T16:44:36Z",
+      "evidence": "MTPE 对照: 幻觉0 漏译0 增译0 (42段账本 step1 核销, 全部 source 逐字节一致 yuanwen); 术语漂移: 新词候选 self-preservation/social contract/utilitarian/primary-secondary qualities/hypothetical imperative/ethocracy (yi-zhe-shuo-ming.md 未登记, 待主代理登记); 事实核销: 版本钉 2024-10-01/Winter 2024 SHA 12bd246c... 一致; 参考文献 41 脚注定义照录, Onfray 误拼 Onfrey 照源保留(原文体误)"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "sub-holbach",
+      "at": "2026-11-01T17:01:57Z",
+      "evidence": "check_prose 反欧化: 44 告警→修 2 豁免 42. 修正: SEG10 双被→主动(某些地方因过度简化而严重受损), SEG13 存在句→有(意思是有一些...). 豁免: 15 long-sentence+22 de-chain=忠实繁密原文, 2 weak-verb(作出贡献/作出解释 惯用搭配), 2 passive-bei+1 as-one=《自然体系》直接引文. 无机械改写."
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "sub-holbach",
+      "at": "2026-11-01T17:22:56Z",
+      "evidence": "check_academic --strict 0硬错(门禁自动挂钩通过); check_style 33 全豁免: 6 body curly=合法 d’Holbach/d’Aine U+2019 撇号(含 SUMMARY 钦定 H1, collingwood/arendt 先例), 26 脚注定义 curly=ADR-0011 照录非中文行(cockburn 先例 12 接受), 1 italic-cjk=译注(alcmaeon 先例同文); check_math 0 公式 无问题; 42/42 账本 step2 与文档逐段一致."
     }
   ],
   "blockers": [],
