@@ -723,7 +723,7 @@ outline: [1, 6]
 * [格肖姆·朔勒姆 Scholem, Gershom (Daniel Weidner)](s/scholem.md)
 * [马丁·布伯 Buber, Martin (Michael Zank and Zachary Braiterman)](b/buber.md)
   * [亚伯拉罕·伊本·达乌德 Ibn Daud, Abraham (Resianne Fontaine and Amira Eran)](a/abraham-daud.md)
-  * [亚伯拉罕·伊本·埃兹拉 Ibn Ezra, Abraham (Tzvi Langermann)](i/ibn-ezra.md)
+  * [亚伯拉罕·伊本·以斯拉 Abraham Ibn Ezra (Tzvi Langermann)](i/ibn-ezra.md)
 * [非裔哲学 Africana Philosophy (Lucius T. Outlaw Jr.)](a/africana.md)
 * [当代非裔哲学 contemporary (Paul C. Taylor)](a/africana-contemporary.md)
 * [非洲伦理学 ethics (Kwame Gyekye)](a/african-ethics.md)
