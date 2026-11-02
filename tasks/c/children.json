@@ -2,8 +2,44 @@
   "slug": "children",
   "kind": "retranslate",
   "zh_doc": "c/children.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T21:57:15Z",
+      "evidence": "在途快照 641faf13 已含零信任译文，免清正文仅状态迁移（albert-saxony 先例）；本会话清除装配重复 68 块（34540→8942 汉字，轶事顺序 TIM→Ian→Timmy→Chip→Emily 与源文一致）"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T21:57:15Z",
+      "evidence": "快照骨架在库；本会话重大收口：相邻周期重复 54 组+非相邻重复 14 块清除（保留首次出现，34540→8942 汉字），去重后与源文逐段核对无内容损失"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T21:57:15Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：1 儿童能进行哲学思考吗（Piaget/Matthews 轶事 TIM-JORDAN-JOHN EDGAR/Ian 电视/Lisa 互惠/五年级讨论/沙粒与问题/Chip-Jeff 分类法/Emily 百科全书）2 拥挤课程（Lipman 起源/批判性思维 Delphi 陈述/Lipman 元标准/语境敏感性异议）3 IAPC（哈利·斯托特迈耶/思考之思考/探究共同体/Splitter-Sharp 合理性/夏普纪念文集）4 与他人一起做哲学 5 今日（ICPIC/NAACI/PLATO/FAPSA/SAPERE/哲学基金会/Wartenberg/Murris/Worley）全节对应；对话引文逐句在位"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T21:57:15Z",
+      "evidence": "check_prose 31→22：实修 14 处（作假设思考 9、思考那思考本身 9×2、能作严肃哲学思考 17、所作长篇讨论 37、贡献力量 133、繁简不一 137、自我调节判断 139、有宝贵贡献 165、回应他人所言 165、能作娴熟推理 165、有哲学禀赋 173、能与他人进行 181、下判断时审慎 139）；余 22 条逐条豁免：14 de-chain 为自然中文或术语链（探究共同体/批判性思维），5 长句为源文等长（Delphi 陈述引句）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T21:57:16Z",
+      "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；文献子节（Books and Articles/Periodicals）照录合规"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:08:46Z",
   "version_pin": {
