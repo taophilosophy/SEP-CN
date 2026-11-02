@@ -2,7 +2,7 @@
   "slug": "identity-personal",
   "kind": "retranslate",
   "zh_doc": "i/identity-personal.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "identity-personal-translator",
       "at": "2026-11-01T19:42:01Z",
       "evidence": "三校体例核销：check_style --strict 0（修正 bold-spacing 45 处加空格、italic-cjk 1 处改加粗）；check_academic --strict 0 硬错误（92 条文献照录、66 处引注对应、结构完整、pubinfo 一致、无孤儿引注）；check_math 0（词条无公式）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:18:35Z",
+      "evidence": "独立复审：对照 yuanwen 八节+致谢逐段核销，无漏译；Locke 人定义引文/Reid 军官例/Blott-Clott/复制机例核验；跨条目术语分歧清点：connectedness 联结 vs 连接（本档归连接）、数上/数目同一（归数目）、fission 分裂/裂变混用（归分裂）、characterization 刻画 vs 特征化（对 identity-ethics 做反向对齐）、cerebrum 端脑 vs 大脑皮层（对 identity-ethics 做反向对齐）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:18:35Z",
+      "evidence": "逐句回核修 28 处：'现在决定了我们有多少人'错读主语（what determines）/'知觉的束'→知觉束/两处 garbled 句（间接记忆回应句、候选存在者句）重写/'随移植大脑而去'歧义→'跟着…走'×4/'留在空头后面'→'留在原地只剩空头颅'×3/'有威胁地蕴含'/'最好的被提出的回答'/裂变→分裂/反标准主义→反判准主义（对齐判准词根）/数上→数目×5/联结→连接全局/'持续通过时间'统一/Phaedo→《斐多篇》"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:18:36Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；人格同一性术语一致性核验（心理连续性/心理连接性/判准/动物主义/时间部分/四维主义/僵尸）；identity-ethics 已同步对齐（端脑/刻画问题）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:18:37Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
