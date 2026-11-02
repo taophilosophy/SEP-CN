@@ -2,8 +2,44 @@
   "slug": "copernicus",
   "kind": "retranslate",
   "zh_doc": "c/copernicus.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T19:06:51Z",
+      "evidence": "在途快照 641faf13 已含零信任译文，免清正文仅状态迁移（albert-saxony 先例）"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T19:06:51Z",
+      "evidence": "初译稿 641faf13 在库（约 8.7k 汉字，2 节 6 小节全型）；本会话收口：装配重复 4 组清除、8 段 <<<MISSING>>> 占位段补译（献辞与刊印史/维滕贝格解释/第谷/克拉维乌斯/布鲁诺/马埃斯特林与开普勒）、14 条学术注（Swerdlow-Neugebauer 论争、库斯勒驳斥等）全部汉译、脚注节标题归一（## 脚注）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T19:06:51Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：1 生平（克拉科夫/博洛尼亚/帕多瓦/弗龙堡/短论缘起/雷蒂库斯来访）2.1 前哥白尼天文学（亚里士多德-托勒密/马拉盖学派四家/雷乔蒙塔努斯）2.2 短论 2.3 运行论 2.4 初论 2.5 刊印与奥西安德尔序言 2.6 十六世纪反应全节对应；引文（MW/Revolutions 页码、皮科、伊本·海什木）逐一在位；术语统一（初述→初论、神秘的宇宙图景→宇宙的奥秘）；相关词条 5 项与 SUMMARY 登记名对应"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T19:06:51Z",
+      "evidence": "check_prose 38→32：实修 5 处（坚持观测 23、给出近似 33、开展观测 59、逐一推算 77、予采纳 89）；余 32 条逐条豁免：19 长句多为《短论》《运行论》直引句与源文等长学术句（48 行 131 字为哥白尼原文引句），13 de-chain 为术语链（偏心匀速点/均匀圆周运动）与自然中文"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T19:06:52Z",
+      "evidence": "check_style 0 issue（4 处 6 空格缩进 blockquote 修复，避免代码块误渲染）；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；其他网络资源 1 项汉化"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:39Z",
   "version_pin": {
