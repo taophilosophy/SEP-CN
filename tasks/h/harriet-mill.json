@@ -2,7 +2,7 @@
   "slug": "harriet-mill",
   "kind": "retranslate",
   "zh_doc": "h/harriet-mill.md",
-  "state": "s1_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,48 @@
       "actor": "sub-harriet-mill",
       "at": "2026-11-01T16:44:31Z",
       "evidence": "MTPE 对照: 幻觉0 漏译0 增译0; 术语漂移: 锁定密尔(H1+ren-ming-biao 亦作), 引文作者姓回改英文(J.S./H.T. Mill), et al./op. cit. 回拉丁; 事实: 人名/年代/引用组/版本钉核销; 发现并修 8 处正文体例(斜体中/加粗间距/中西空格)"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:24:03Z",
+      "evidence": "s2 二校（复审人独立重读）：全文五节+8 注逐段对照 yuanwen 镜像核销；修正 18 处语言与忠实问题（详见 r2 步证据清单），含 contemporary 误译『当时的标准』→『今天（当代）的标准』、三子→三个孩子（海伦为女）、『是天』残句补『天才人物』、『他的笔最常执笔』杂糅、『超越了切分类』脱一字等；check_style --strict 0 issues"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:24:04Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）；H1=SUMMARY 1740 行（哈丽雅特·泰勒·密尔 Mill, Harriet Taylor (Dale E. Miller)）；J.S. 密尔=密尔/关联词条=穆勒 依 ren-ming-biao L88 主形登记与『亦作密尔』许可、关联行对齐 SUMMARY 1742/1743；脚注定义 42 条与源文逐字相符；八条尾注全数在位"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:24:33Z",
+      "evidence": "r1 独立对照复审（yuanwen/h/harriet-mill.md 282 行 ↔ h/harriet-mill.md 282 行逐段核销）：卷首密尔题献+导言+五节（生平概述/同时代人记述 2.1-2.3/作为作者 3.1-3.4/影响 4.1-4.4/结论）+8 条尾注全数在位；《自传》两大段长引文与《论自由》题献逐句核销；引文括注 40+ 处（[OL] 216、[TEL] 486–7、Packe 1954: 360/325–6/315/349–57、Jacobs 2002: 117/207–8/129–31/203n27、Stillinger 1961: 24–5、Bain 1882: 173/166/173–4、MacMinn et al. 1945: 59–76/79/69/92/viii、[PPE] 758–96/1026n2、[TLL] 8–9/294/332/539,581/13/55–6,65–6/190/17/19、[CW] 360/51–73/51/60–1/141/238–91、[TSW] 297–8/306、[OMA] 43、[ALE] 193–7/255–7/257–9/251/197/251–3/253n、Rossi 1970: 41–5/44–5、Krouse 1982: 169、Mott 2002: 209、Robson 1984: lxxv、Himmelfarb 1974: 208–72/183–6、Warnock 1996: xxxv、Reeves 2007: 206–7/86、Pappe 1960: 47–8、Mineka 1963: 306、Kinzer 2007: 111、McCabe 2017: 115、Philips 2018: 629/634/630、Le Doeuff 2003: 203–4、O’Rourke 2001: 60–1、Manning 2019、Jacobs 1998、Hayek 2015: 19/22、Robson 1966: 178、Trilling 1952: 118、Mazlish 1975: 286–91）逐一对位；专名核销（哈迪/约翰·泰勒/赫伯特/阿尔杰农·哈吉/海伦·莉莉/福克斯/布莱克希思/阿维尼翁/卡莱尔夫妇/拉斯基/莫利/路易·勃朗/贝恩/博查德/帕佩/米内卡/金策/罗西/雅各布斯/希梅尔法布/麦凯布/菲利普斯/施密特-佩特里/舍夫奇克/奥斯堡/克劳斯/勒杜夫/奥罗克/莫特/加里森/斯特林/史蒂文森/卡克斯顿）；术语核销（计量文体学 stylometric/书记员 amanuensis/极简主义-极多主义/mala in se 自体恶-mala prohibita 禁止恶/vita activa→积极生活/essentially contested 本质上充满争议）；零信任抽查 4 处（1848 题献风波段、[PPE] 1026n2 题献全文、stylometry 段、note-3 修订说明）与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:24:33Z",
+      "evidence": "r2 语言与忠实定点修 18 处：①L7 残字『概述其要著作』→『主要著作』；②L11 关键性别忠实『育有三子』→『育有三个孩子』（海伦为女儿）；③L13 关键误译 contemporary=今天（当代）的标准，误作『当时的标准』致与维多利亚对照失效；④L13 special copies 误作『精装本』→『特制本』；⑤L25 残句『只有一位…是天［伊莱扎·弗劳尔］』补『天才人物』（source: was a person of genius）；⑥L25 organisation=体质（非『组织』）；⑦L31 转述代词『路易·勃朗告诉莫利，勃朗…』→『告诉他，自己…』；⑧L48 many of these occasional pieces 误作『之一』→『许多这类』；⑨L48 credit X with Y 方向纠正（把泰勒·密尔归功于→细节应归功于泰勒·密尔）；⑩L63『是否足以称其为』杂糅→『大到足以称她为』；⑪L95『他的笔最常执笔』杂糅→『最常执笔的是他自己』；⑫L121 脱字『超越了切分类』→『一切分类』；⑬L123 provocative 煽动性→挑衅性；⑭L125 credit 句式『把泰勒·密尔归于…带来改变』→『认为泰勒·密尔曾对…造成改变』+补『的』；⑮L129 把其→将其并补『按自己的方式』；⑯L129『对人类可能性之希望而开阔的看法』杂糅→『对人类可能性的、充满希望而开阔的看法』；⑰L129『转向一组…事业之辩护』→『转向为一组…事业辩护』；⑱L165 关联词条『穆勒的伦理学和政治哲学』经查与 SUMMARY 1743 行登记标题一致、保留（关联行对齐单一事实源）；check_style --strict 复跑 0 issues、四道全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:24:46Z",
+      "evidence": "r3 门禁全绿：check_style --strict 0 issues（18 处修复后复跑）；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦通过）；pubinfo 斜体 2002-03-11/2022-07-29；尾部节序 参考文献（原始文献/二手文献）→学术工具→其他网络资源→相关词条→致谢→Notes 全部对应源文"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:24:47Z",
+      "evidence": "done 收口：s2/s3 补校（18 处定点修，含 contemporary 误译、三子性别忠实、两处 credit 句式方向）+r1 五节八注全核销（引文 40+ 处、脚注 42 条逐字相符）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103"
     }
   ],
   "blockers": [],
