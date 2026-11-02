@@ -70,31 +70,39 @@ def fix_seg(seg, seen_manual=None):
     masked, holes = _mask(seg)
     for _ in range(4):  # 不动点循环，上限防震荡
         changed = False
-        # italic-cjk：纯中文 *..* → **..**；先遮蔽既有 **粗体** 再扫描，
-        # 否则 `**X**（*Y*）` 相邻结构上 ITALIC_RE 会跨对错配（*（* 被包成粗体）
+        # italic-cjk：纯中文 *..* → **..**。
+        # v3 安全降级：行内已有 **粗体** 时一律不做 italic 替换（v1/v2 在粗斜相邻结构上
+        # 曾产生跨对错配与文本重复，rules/05 前置门教训），整段挂人工逐处处理。
         bold_holes = []
         def _stash_bold(m):
             bold_holes.append(m.group(0))
             return "\x00B%d\x00" % (len(bold_holes) - 1)
         _bold_masked = re.sub(r"\*\*[^*\n]+\*\*", _stash_bold, masked)
-        if not mixed_seen:
-            for m in ITALIC_RE.finditer(_bold_masked):
+        if bold_holes and ITALIC_RE.search(_bold_masked) and re.search(r"[一-鿿]", masked):
+            key = ("italic-bold-coexist", masked[:60])
+            if key not in seen_manual:
+                seen_manual.add(key)
+                manual.append({"rule": "italic-bold-coexist", "detail": masked[:80]})
+        if not bold_holes:
+            if not mixed_seen:
+                for m in ITALIC_RE.finditer(masked):
+                    t = m.group(1)
+                    if re.search(r"[一-鿿]", t) and re.search(r"[A-Za-z0-9]", t):
+                        key = ("italic-mixed", t[:60])
+                        if key not in seen_manual:
+                            seen_manual.add(key)
+                            manual.append({"rule": "italic-mixed", "detail": t[:60]})
+            def _ital(m):
                 t = m.group(1)
-                if re.search(r"[一-鿿]", t) and re.search(r"[A-Za-z0-9]", t):
-                    key = ("italic-mixed", t[:60])
-                    if key not in seen_manual:
-                        seen_manual.add(key)
-                        manual.append({"rule": "italic-mixed", "detail": t[:60]})
-        def _ital(m):
-            t = m.group(1)
-            if re.search(r"[一-鿿]", t) and not re.search(r"[A-Za-z0-9]", t):
-                return "**%s**" % t
-            return m.group(0)
-        new_masked = ITALIC_RE.sub(_ital, _bold_masked)
-        new_masked = re.sub(r"\x00B(\d+)\x00", lambda m: bold_holes[int(m.group(1))], new_masked)
-        if new_masked != masked:
-            masked = new_masked
-            changed = True
+                if re.search(r"[一-鿿]", t) and not re.search(r"[A-Za-z0-9]", t):
+                    return "**%s**" % t
+                return m.group(0)
+            new_masked = ITALIC_RE.sub(_ital, masked)
+            if new_masked != masked:
+                masked = new_masked
+                changed = True
+        else:
+            masked = re.sub(r"\x00B(\d+)\x00", lambda m: bold_holes[int(m.group(1))], masked)
         # bold-spacing：两侧补空格（豁免标点/段边界）
         def _bold(m):
             s, e = m.start(), m.end()
@@ -123,6 +131,25 @@ def fix_seg(seg, seen_manual=None):
     return new_seg, edits, manual
 
 
+def star_ok(seg):
+    """星号标记结构 tokenizer 检查（** 与 * 依序配对，栈空为健康）。"""
+    i, stack, n = 0, [], len(seg)
+    while i < n:
+        if seg[i] == "*":
+            if i + 1 < n and seg[i + 1] == "*":
+                tok = "**"
+            else:
+                tok = "*"
+            if stack and stack[-1] == tok:
+                stack.pop()
+            else:
+                stack.append(tok)
+            i += len(tok)
+            continue
+        i += 1
+    return not stack
+
+
 def fix_file(slug, dry=False):
     """返回 (ledger_rows, manual_rows, residual)。"""
     path = os.path.join(ROOT, slug + ".md")
@@ -146,6 +173,13 @@ def fix_file(slug, dry=False):
             out_lines.append(line)
             continue
         if in_bib and not CJK_LINE_RE.search(line):
+            out_lines.append(line)
+            continue
+        # 畸形行（星号结构不平衡）整行跳过：修复器在畸形结构上会跨对错配
+        _segs_txt = "".join(p for idx, p in enumerate(line.split("`")) if idx % 2 == 0)
+        if not star_ok(_segs_txt):
+            manual.append({"slug": slug, "line": i, "rule": "original-broken",
+                           "detail": line[:120]})
             out_lines.append(line)
             continue
         # 逐段修复
@@ -195,16 +229,18 @@ def main():
     if probe:
         slugs = [probe]
 
-    # 基线还原前置门：目标文件必须无未提交改动
-    r = subprocess.run(["git", "status", "--porcelain", "--"] + ["%s.md" % s for s in slugs],
-                       capture_output=True, text=True, cwd=ROOT)
-    dirty = [l[3:] for l in r.stdout.splitlines() if l.strip()]
-    if dirty and not probe:
-        print("前置门拒绝：目标文件有未提交改动 %d 个（先提交或还原）" % len(dirty))
-        print(dirty[:10])
-        return 1
-    if dirty:
-        print("探针告警：%s 有未提交改动，diff 将混入既有修改" % dirty)
+    # 基线前置门：有未提交改动的目标文件跳过（并行翻译会话可能在动它），不整体拒绝
+    if slugs:
+        r = subprocess.run(["git", "status", "--porcelain", "--"] + ["%s.md" % s for s in slugs],
+                           capture_output=True, text=True, cwd=ROOT)
+        dirty = {l[3:].strip() for l in r.stdout.splitlines() if l.strip()}
+        skipped = [s for s in slugs if ("%s.md" % s) in dirty]
+        if skipped:
+            print("跳过（并行会话改动中）: %s" % " ".join(skipped))
+            slugs = [s for s in slugs if s not in skipped]
+        if not slugs:
+            print("无可处理目标")
+            return 0
 
     all_ledger, all_manual, touched = [], [], 0
     for slug in slugs:
