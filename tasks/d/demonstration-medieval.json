@@ -2,8 +2,44 @@
   "slug": "demonstration-medieval",
   "kind": "retranslate",
   "zh_doc": "d/demonstration-medieval.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T05:17:40Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "sub-demonstration-medieval",
+      "at": "2026-11-01T06:27:49Z",
+      "evidence": "初译完成，底稿 yuanwen/d/demonstration-medieval.md"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "sub-demonstration-medieval",
+      "at": "2026-11-01T06:59:49Z",
+      "evidence": "一校准确性：逐节对照源核销，无漏译/错译/事实错误；56 条脚注定义逐字符一致；引用组原样保留（作者姓/年份/编号不译）；术语一致（证明/演绎/科学知识/第一原理/中项/实在定义/名义定义/从属）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "sub-demonstration-medieval",
+      "at": "2026-11-01T07:07:41Z",
+      "evidence": "二校语言：反欧化打磨（ADR-0020）。消除 3-被叠加句（改主动式\"组装成那样\"）；重排 9-的与 8-的超长定语链（数学证明句、雷之因果句）；拆三连\"的\"（存在依赖于他物的东西之因果定义、混淆而简单的概念）；\"被...普遍接受\"改\"为...所\"、\"遭抛弃\"；改正\"具具体例\"笔误为\"具体实例\"。被 59→54，无三连\"的\"，无单句>=8\"的\"。术语一致（证明/演绎/科学知识/第一原理/中项/实在定义/名义定义/从属/主项/谓项）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "sub-demonstration-medieval",
+      "at": "2026-11-01T07:08:06Z",
+      "evidence": "三校体例：check_style 0 issue（curly-quotes/bold-spacing/cjk-spacing/no-html/no-text-fence/no-asciiart/italic-cjk）；check_academic --strict 无硬错误（pubinfo 2005-08-12 钉、56 脚注定义在文献节内无孤儿、引用组照录、文献节照录豁免）；check_math 0（无公式）；check_terms 定点核销 0 疑似缺译法（登记册自洽违例为既有重复行，非本词条所致）。H1/版本行/尾节序与约定一致"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:39Z",
   "version_pin": {
