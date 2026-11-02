@@ -2,7 +2,7 @@
   "slug": "joane-petrizi",
   "kind": "retranslate",
   "zh_doc": "j/joane-petrizi.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "sub-joane-petrizi",
       "at": "2026-11-01T22:05:40Z",
       "evidence": "check_style: 25→4, 修 21 条(italic-cjk 13 条斜体→加粗+邻汉字补半角空格; bold-spacing 8 条同批解决), 余 4 条 curly-quotes 豁免留痕——均在照录英文脚注定义内(153/173/179/191行, 英文排版引号, certainty.md 先例同型残留 6 条为库内既定现状); check_academic --strict 0 硬错误; check_math 0 missing/unbalanced; 尾部节序 References（引用注释）→学术工具→其他网络资源→相关词条, H1 与 SUMMARY 一致, 版本行 2006-08-29/2025-12-27 与 baseline pubinfo 一致, 脚注定义 58 条照录"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:27:15Z",
+      "evidence": "独立复审：对照 yuanwen 三节（人物与著作/哲学/历史接受与影响）+格鲁吉亚接受三阶段（奥尔别利阿尼/安东·巴格拉季昂尼/约安·巴格拉季昂尼）+命题 30/75 细节+学术版史逐段核销，无漏译（2025 修订新增 Zakaradze 2025 回译史全在场）；人名书名全链核验（尼梅西乌斯/梅托涅的尼古拉/莫斯堡的贝特霍尔德/斯维梅翁两代人/86 章评注）；发现 zh 误留镜像作者行 *Iremadze, Tengiz*（模板无此行，H1 括注已含作者）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:27:15Z",
+      "evidence": "逐句回核修 3 处：pubinfo 体例粗体→斜体/删除误留镜像作者行/H1 与 SUMMARY 英文全题化（TOC 倒装式→citation_title 'Joane Petrizi'，沿用先例）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:27:16Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary 一致（本次同修）；学术门禁见自动拦截；中世纪哲学术语一致性核验（太一/分有/流溢/智性 noetic/种词 n/a/创造因第五因/回译）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:27:16Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],

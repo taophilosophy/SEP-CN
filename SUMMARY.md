@@ -2011,7 +2011,7 @@
 * [\*人格——见人格同一性 persons — see personal identity](i/identity-personal.md)
 * [\*将人作为手段——见把人当作手段 persons, treating as means — see treating persons as means](p/persons-means.md)
 * [西班牙的彼得（彼得·希斯帕努斯）的逻辑学 The Logic of Peter of Spain (Joke Spruyt)](p/peter-spain.md)
-* [乔安·佩特里齐 Petrizi, Joane (Tengiz Iremadze)](j/joane-petrizi.md)
+* [乔安·佩特里齐 Joane Petrizi (Tengiz Iremadze)](j/joane-petrizi.md)
 * [\*现象意向性——见意向性：现象意向性 phenomenal intentionality — see intentionality: phenomenal](p/phenomenal-intentionality.md)
 * [现象学 phenomenology (David Woodruff Smith)](p/phenomenology.md)
   * [道德现象学 moral (John Drummond and Mark Timmons)](m/moral-phenomenology.md)
