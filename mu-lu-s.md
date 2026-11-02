@@ -329,7 +329,7 @@ outline: [1, 6]
 * [皮埃尔·培尔 Bayle, Pierre (Michael Hickson)](b/bayle.md)
 * [艾蒂安·博诺·德·孔狄亚克 Condillac, Étienne Bonnot de (Lorne Falkenstein and Giovanni Grandi)](c/condillac.md)
 * [夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵 Montesquieu, Charles-Louis de Secondat, Baron de (Hilary Bok)](m/montesquieu.md)
-* [保尔-亨利·提利·霍尔巴赫 Holbach, Paul-Henri Thiry (Baron) d’ (Michael LeBuffe)](h/holbach.md)
+* [保尔-亨利·提利·霍尔巴赫 Paul-Henri Thiry (Baron) d’Holbach (Michael LeBuffe)](h/holbach.md)
 * [让-雅克·卢梭 Rousseau, Jean Jacques (Christopher Bertram)](r/rousseau.md)
 * [伏尔泰 Voltaire (J.B. Shank)](v/voltaire.md)
 * [德尼·狄德罗 Diderot, Denis (Charles T. Wolfe and J.B. Shank)](d/diderot.md)
