@@ -1,0 +1,50 @@
+{
+  "slug": "identity-personal",
+  "kind": "retranslate",
+  "zh_doc": "i/identity-personal.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T15:59:17Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "identity-personal-translator",
+      "at": "2026-11-01T17:19:45Z",
+      "evidence": "初译完成：正文 8 节齐全，尾部参考文献/学术工具/其他网络资源/相关词条/致谢齐全，92 条文献照录，66 处引注对应，引用键与 yuanwen 一致，无直引号/直角引号"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "identity-personal-translator",
+      "at": "2026-11-01T17:47:13Z",
+      "evidence": "一校准确性核销：对照 yuanwen 逐节段落数一致（1-8 节全匹配），66 引注键/92 定义键一致，22 引用组齐全（2 处说明语译出、作者年份保留），核心术语一致，无直引号/直角引号，无漏译错译"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "identity-personal-translator",
+      "at": "2026-11-01T18:59:11Z",
+      "evidence": "二校语言核销：check_prose 从 37 告警降至 3；改写被动句 2（续存/大脑分裂）、作为→成为/身为 3、长句拆分 7、\"的\"链去冗 21 处；余 3 条 de-chain 逐条人工判断为术语必然短语（\"由此产生的存在者\"/\"是人的虚假信念\"/\"最常见的反驳\"），依 ADR-0020 豁免留痕；引用键 66/92 无孤儿，无直引号"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "identity-personal-translator",
+      "at": "2026-11-01T19:42:01Z",
+      "evidence": "三校体例核销：check_style --strict 0（修正 bold-spacing 45 处加空格、italic-cjk 1 处改加粗）；check_academic --strict 0 硬错误（92 条文献照录、66 处引注对应、结构完整、pubinfo 一致、无孤儿引注）；check_math 0（词条无公式）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:57Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 30, 2023",
+    "archive_edition": "Winter 2024",
+    "sha256": "bed25f23b2d088442cddd5f3f9fbe5957585dd2cabd85afbb4761039321a755d"
+  }
+}
