@@ -1,0 +1,50 @@
+{
+  "slug": "leucippus",
+  "kind": "retranslate",
+  "zh_doc": "l/leucippus.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-02T17:33:05Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T17:50:59Z",
+      "evidence": "方向声明：全文重译至六道全过；非目标=不改源结构/不造引文。ADR-0021 账本 tasks/l/leucippus.ledger.yaml 13 段（反思两步齐备），守恒校验通过（script/lq.py check，软旗4留痕：标题/OIR机械段step1==step2×3、OIR固定话术长度比0.27）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T17:51:00Z",
+      "evidence": "主会话逐节对照 yuanwen 核销：11正文段+OIR+致谢无漏译；DK编号/引用组/脚注键[^graham-2008][^barnes-1984][^taylor-1999]照录核验；相关词条 Melissus→麦里梭（melissus 不在 SUMMARY/1879 intake，缺口移交 specs/004）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T17:51:00Z",
+      "evidence": "check_prose 实修2处：长句72字拆分（回应。后者主张）、'存在着'存在句改'确有'；复跑0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T17:51:00Z",
+      "evidence": "四检全过：check_style 0 / check_academic 0硬错误 / check_math 0公式无失衡 / markdownlint待CI；人名 留基伯/麦里梭/辛普里丘 先登记 ren-ming-biao.md 后使用"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-02T17:33:05Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 9, 2023",
+    "archive_edition": "Spring 2023",
+    "sha256": "a35765e3d545787be7cb397f8dc85947f97fa84f38cdd807e26af88bf546c2b8"
+  }
+}

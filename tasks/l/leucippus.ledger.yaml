@@ -1,0 +1,113 @@
+version: 1
+slug: leucippus
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The Greek tradition regarded Leucippus as the founder of atomism in ancient Greek philosophy. Little is known about him, and his views are hard to distinguish from those of his associate Democritus. He is sometimes said to have been a student of Zeno of Elea, and to have devised the atomist philosophy in order to escape from the problems raised by Parmenides and his followers.
+    step1: |-
+      希腊传统视留基伯（Leucippus）为古希腊哲学中原子论的奠基人。关于他所知甚少，他的观点也很难与其同道德谟克利特（Democritus）的观点区分开来。有人说他曾是爱利亚的芝诺（Zeno of Elea）的学生，并为了逃避巴门尼德（Parmenides）及其追随者提出的问题而设计了原子论哲学。
+    step2: |-
+      希腊传统尊留基伯（Leucippus）为古希腊哲学中原子论的奠基人。其人生事迹所传甚少，其学说也难以同其同道德谟克利特（Democritus）的观点相区分。有说法称他曾受学于爱利亚的芝诺（Zeno of Elea），并为摆脱巴门尼德（Parmenides）及其追随者所提出的种种难题而创立了原子论哲学。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Leucippus is variously said to have been born in Elea, Abdera or Miletus (DK 67A1). His dates are unknown, other than that he lived during the fifth century BCE. Diogenes Laertius reports that he was a student of Parmenides’ follower Zeno (DK 67A1). Zeno is best known for paradoxes suggesting that motion would be impossible if a magnitude could be divided into an infinite number of parts, each of which must be traversed, and other absurdities associated with taking magnitudes to be infinitely divisible. The likelihood that atomism is thought to have been formulated at least partly in response to these arguments may account for the story that Leucippus was a student of Zeno.
+    step1: |-
+      关于留基伯的出生地有不同说法：爱利亚（Elea）、阿布德拉（Abdera）或米利都（Miletus）（DK 67A1）。他的生卒年代不详，只知道他生活在公元前五世纪。第欧根尼·拉尔修（Diogenes Laertius）记载，他是巴门尼德的追随者芝诺的学生（DK 67A1）。芝诺最为人知的是这样一些悖论：如果一个量可以被分割成无限多个部分，而运动者必须逐一经过每个部分，那么运动就是不可能的；此外还有其他与“量可无限分割”这一主张相联系的荒谬结论。原子论之所以被认为至少部分是针对这些论证而提出的，这或许可以解释留基伯是芝诺学生的传说。
+    step2: |-
+      至于留基伯的出生地，说法不一：爱利亚（Elea）、阿布德拉（Abdera）或米利都（Miletus）（DK 67A1）。其生卒年代无从考定，仅知他活跃于公元前五世纪。第欧根尼·拉尔修（Diogenes Laertius）记载，他曾受业于巴门尼德的追随者芝诺（DK 67A1）。芝诺以悖论闻名：倘若一个量可以分割为无限多个部分，而运动又必须逐一经过每个部分，运动便不可能发生；此外还有若干同样源于“量可无限分割”这一设定的谬论。原子论通常被认为至少部分是应答这些论证而成形的——留基伯师从芝诺的传闻，或许正可以由此得到解释。
+  - id: 4
+    kind: body
+    source: |-
+      The extent of Leucippus’ contribution to the developed atomist theory is unknown. His relationship to Democritus, and even his very existence, was a subject of considerable controversy in nineteenth century scholarship (Graham 2008)[^graham-2008]. Most reports on early Greek atomism refer to the views of Democritus alone, or to both atomists together; Epicurus seems even to have denied that there was a philosopher Leucippus (DK 67A2). Aristotle certainly ascribes the foundation of the atomist system to Leucippus. Leucippus is sometimes said to have been the author of a work called the *Great World-System*; one surviving quotation is said to have come from a work *On Mind*.
+    step1: |-
+      留基伯对成熟的原子论理论的贡献有多大，不得而知。他与德谟克利特的关系，甚至他是否实有其人，都是十九世纪学术界相当有争议的问题（Graham 2008）[^graham-2008]。关于早期希腊原子论的大多数记载，或者只提德谟克利特的观点，或者把两位原子论者放在一起谈论；伊壁鸠鲁（Epicurus）甚至似乎否认存在一位名叫留基伯的哲学家（DK 67A2）。亚里士多德（Aristotle）则明确把原子论体系的创立归于留基伯。有人说留基伯是一部题为《大宇宙系统》（*Great World-System*）的著作的作者；一条传世的引文据说出自一部《论心灵》（*On Mind*）。
+    step2: |-
+      留基伯对成形后的原子论究竟贡献几何，已无从确知。他与德谟克利特的关系，乃至他本人是否实有其人，在十九世纪的学术界曾引起不小的争论（Graham 2008）[^graham-2008]。记载早期希腊原子论的文献，大多或者单述德谟克利特的观点，或者将两位原子论者并而论之；伊壁鸠鲁（Epicurus）甚至似乎否认过世上有留基伯这位哲学家（DK 67A2）。亚里士多德（Aristotle）则明确将原子论体系的奠基归诸留基伯。据说留基伯著有《大宇宙系统》（*Great World-System*）一书；仅存的一条引文，据说出自《论心灵》（*On Mind*）一书。
+  - id: 5
+    kind: body
+    source: |-
+      ## 2. Atomist Doctrine
+    step1: |-
+      ## 2 原子论学说
+    step2: |-
+      ## 2 原子论学说
+  - id: 6
+    kind: body
+    source: |-
+      Leucippus is named by most sources as the originator of the theory that the universe consists of two different elements, which he called ‘the full’ or ‘solid,’ and ‘the empty’ or ‘void’. Both the void and the solid atoms within it are thought to be infinite, and between them to constitute the elements of everything. Because little is known of Leucippus’ views and his specific contributions to atomist theory, a fuller discussion of the developed atomist doctrine is found in the entry for Democritus.
+    step1: |-
+      大多数史料把留基伯称作下述理论的首创者：宇宙由两种不同的元素构成，他称之为“充实的”或“坚实的”，以及“空的”或“虚空”。虚空与其中的坚实原子都被认为是无限的，二者共同构成万物的元素。由于关于留基伯的观点及其对原子论理论的具体贡献所知甚少，关于成熟原子论学说的更充分讨论见于德谟克利特词条。
+    step2: |-
+      多数史料将留基伯视为如下理论的创始者：宇宙由两种不同的元素构成——他称之为“充实的”（the full）或“坚实的”（solid），以及“空的”（the empty）或“虚空”（void）。虚空与其中的坚实原子均被设想为无限，两者一道构成万物的元素。由于留基伯本人的观点及其对原子论的具体贡献所传甚少，成熟形态的原子论学说，可参看德谟克利特词条中的更充分讨论。
+  - id: 7
+    kind: body
+    source: |-
+      Early Greek atomism is generally taken to have been formulated in response to the Eleatic claim that ‘what is’ must be one and unchanging, because any assertion of differentiation or change within ‘what is’ involves the assertion of ‘what is not,’ an unintelligible concept. While Parmenides’ argument is difficult to interpret, he was understood in antiquity to have forced philosophers after him to explain how change is possible without supposing that something comes from ‘what is not,’ i.e. nothing. Aristotle tells us that Leucippus tried to formulate a theory that is consistent with the evidence of the senses that change and motion and a multiplicity of things exists in the world (DK 67A7). In the atomist system, many of the changes we perceive are merely apparent: the real constituents of being persist unchanged, merely rearranging themselves into new combinations that form the world of appearance. Like Parmenidean Being, the atoms cannot change or disintegrate into ‘what is not’ and each is a solid unit; nonetheless, the combinations of atoms that form the world of appearance continually alter. Aristotle cites an analogy to the letters of the alphabet, which can produce a multitude of different words from a few elements in combinations; the differences all stem from the shape (*schêma*) of the letters, as A differs from N; by their arrangement (*taxis*), as AN differs from NA; and by their positional orientation (*thesis*), as N differs from Z (DK 67A6).
+    step1: |-
+      人们通常认为，早期希腊原子论是针对爱利亚学派（Eleatic）的主张而提出的：“是者”必定是一且不变，因为任何关于“是者”内部有差异或变化的断言，都包含对“非是者”（what is not）的断言，而这是一个无法理解的概念。巴门尼德的论证虽难以解释，但在古代，人们理解为他迫使后来的哲学家解释：如果不假设某物来自“非是者”即无，变化如何可能。亚里士多德告诉我们，留基伯试图建立一种与感官证据相一致的理论，即世界上存在着变化、运动和众多事物（DK 67A7）。在原子论体系中，我们知觉到的许多变化只是表象：存在的真实成分保持不变，只是重新组合成构成现象世界的新组合。与巴门尼德的存在一样，原子不能变化或分解为“非是者”，每个原子都是坚实的单元；尽管如此，构成现象世界的原子组合却不断改变。亚里士多德举了字母表的类比：少数元素通过组合可以产生大量不同的词；差异全都源于字母的形状（*schêma*），如 A 不同于 N；源于它们的排列（*taxis*），如 AN 不同于 NA；以及源于它们的位置朝向（*thesis*），如 N 不同于 Z（DK 67A6）。
+    step2: |-
+      通常认为，早期希腊原子论的提出，是对爱利亚学派（Eleatic）主张的回应：该派主张，“是者”（what is）必是一而不变，因为凡断言“是者”内部有差异或变化，便已断言了“非是者”（what is not）——而这是个不可理解的概念。巴门尼德的论证虽难疏解，古人却认为他迫使后继的哲学家必须说明：若不假设某物出于“非是者”——亦即出于无——变化如何可能。亚里士多德告诉我们，留基伯试图建立一种与感官证据相容的理论，即承认世上存在着变化、运动与众多事物（DK 67A7）。在原子论体系中，我们知觉到的许多变化只是表象：存在的真实成分恒持不变，只是重新组合，形成现象世界的新组合。与巴门尼德式的“存在”一样，原子既不能变化、也不能分解为“非是者”，每一个都是坚实的单元；然而，构成现象世界的原子组合却在不断改换。亚里士多德举字母表为喻：寥寥几个元素，经组合便能拼出无数不同的词；其差异全出于字母的形状（*schêma*），如 A 之别于 N；出于排列（*taxis*），如 AN 之别于 NA；亦出于位置朝向（*thesis*），如 N 之别于 Z（DK 67A6）。
+  - id: 8
+    kind: body
+    source: |-
+      Leucippus also reportedly accepted the Eleatic Melissus’ argument that void is necessary for motion, but took this to be evidence that, since we experience motion, there must be void (DK 67A7). The reason for positing smallest indivisible magnitudes is also reported to be a response to Zeno’s paradoxes that arise from assuming magnitudes are infinitely divisible (DK 29A22). Leucippus is reported to hold that the atoms are always in motion (DK 67A18). Aristotle criticizes him for not offering an account that says not only why a particular atom is moving (because it collided with another) but why there is motion at all. Because the atoms are indestructible and unchangeable, their properties presumably stay the same through all time.
+    step1: |-
+      据报道，留基伯也接受了爱利亚学派的麦里梭（Melissus）关于虚空为运动所必需的论证，但把它当作如下结论的证据：既然我们经验到运动，就必定有虚空（DK 67A7）。据记载，设定最小不可分量的理由，也是对芝诺悖论的回应，这些悖论源于假设量可以无限分割（DK 29A22）。据记载，留基伯主张原子永远处于运动之中（DK 67A18）。亚里士多德批评他没有给出一种说明，不仅说明某个特定原子为何在运动（因为它与另一个碰撞了），而且说明为什么会存在运动。由于原子不可毁灭且不可改变，它们的性质想必在整个时间中保持不变。
+    step2: |-
+      据传留基伯也接受了爱利亚学派的麦里梭（Melissus）的论证——虚空为运动所必需——却反将其引为如下结论的证据：既然我们经验到运动，虚空就必定存在（DK 67A7）。据载，之所以设定最小而不可分的量，同样是为回应芝诺悖论，后者正源于“量可无限分割”的假设（DK 29A22）。又据载，留基伯主张原子永远处于运动之中（DK 67A18）。亚里士多德批评他未能给出一种说明，既说明某个特定原子为何运动（因为它与另一原子相撞），又说明究竟为何有运动存在。由于原子不可毁灭、不可改变，其性质想必亘古不变。
+  - id: 9
+    kind: body
+    source: |-
+      As Diogenes Laertius reports Leucippus’ cosmology, worlds or *kosmoi* are formed when groups of atoms combine to form a cosmic whirl, which causes the atoms to separate out and sort by like kind. A sort of membrane of atoms forms out of the circling atoms, enclosing others within it, and creating pressure by whirling. The outer membrane continually acquires other atoms from outside when it contacts them, which get ignited as they revolve and form the stars, with the sun in the outermost circle. Worlds are formed, grow and perish, according to a kind of necessity (DK 67A1).
+    step1: |-
+      按照第欧根尼·拉尔修对留基伯宇宙论的记载，当成群的原子结合形成一个宇宙旋涡时，世界或 *kosmoi*（诸宇宙）便形成了，旋涡使原子分离出来并按同类归类。一层由原子构成的膜状物从旋转的原子中形成，把其他原子包裹在内，并通过旋转产生压力。外膜在接触时不断从外面获得其他原子，这些原子在旋转中被点燃，形成星辰，太阳位于最外圈。世界按照某种必然性形成、成长和毁灭（DK 67A1）。
+    step2: |-
+      依第欧根尼·拉尔修所载的留基伯宇宙论，当成群的原子结合成一个宇宙旋涡时，世界即 *kosmoi* 便告形成；旋涡使原子分离而出，按类相聚。旋转的原子中会生成一层膜状的原子壳，将其他原子包裹其中，并借旋转产生压力。外层之膜一旦与外界接触，便不断从外面获取别的原子；这些原子在回旋中被点燃，化为诸星辰，太阳则居于最外一圈。世界依某种必然性而形成、生长、毁灭（DK 67A1）。
+  - id: 10
+    kind: body
+    source: |-
+      One direct quotation preserved from Leucippus says that nothing happens in vain (*matên*) but everything from *logos* and by necessity (DK 67B2). This has been found puzzling, since the reference to *logos* might seem to suggest that things are ruled by reason, an idea that Democritus’ system excludes. Either Leucippus’ system is different in this respect from that of Democritus, or the reference to *logos* here cannot be to a controlling mind. Barnes takes there to be no grounds for preferring either interpretation (Barnes 1984)[^barnes-1984], but Taylor argues that Leucippus’ position is that an account (or *logos*) can be given of the causes of all occurrences (Taylor 1999, p. 189)[^taylor-1999]. There is nothing in other reports to suggest that Leucippus endorsed the idea of a universal intelligence governing events.
+    step1: |-
+      从留基伯传世的一段直接引文说，没有什么是徒然（*matên*）发生的，一切都出于 *logos* 并由于必然（DK 67B2）。这一直令人困惑，因为对 *logos* 的提及似乎暗示事物由理性统治，而德谟克利特的体系排除了这种观念。要么留基伯的体系在这方面不同于德谟克利特，要么这里对 *logos* 的指涉不可能是指一个掌控的心灵。Barnes 认为没有理由偏爱任何一种解释（Barnes 1984）[^barnes-1984]，但 Taylor 论证说，留基伯的立场是：对一切发生之事的原因都可以给出一个说明（或 *logos*）（Taylor 1999, p. 189）[^taylor-1999]。其他记载中没有任何内容表明留基伯赞成由一种普遍理智支配事件的观念。
+    step2: |-
+      留基伯仅存的一句直接引文说：没有什么出于徒然（*matên*）而发生，万事皆出于 *logos*、依乎必然（DK 67B2）。此语历来令人费解：提到 *logos*，似乎暗示万物受理性支配，而德谟克利特的体系恰恰排除这种观念。要么留基伯的体系在这一方面不同于德谟克利特，要么此处所说的 *logos* 不可能意指一个主宰性的心灵。Barnes 认为没有理由在这两种解释之间有所偏袒（Barnes 1984）[^barnes-1984]；Taylor 则主张，留基伯的立场是：一切发生之事的原因都可以给出一个说明（即 *logos*）（Taylor 1999, p. 189）[^taylor-1999]。此外并无其他记载显示留基伯接受过“由普遍理智主宰万事”的观念。
+  - id: 11
+    kind: body
+    source: |-
+      Aristotle frequently pairs Leucippus and Democritus in his reports, including his account of the motivation for positing atoms and void. In particular, Aristotle associates Leucippus as well as Democritus with the deliberately paradoxical assertion that ‘being is no more than not-being,’ i.e., that void exists as much as the full or solid (DK 67A6). Schofield (2002) has argued that the more careful account in Simplicius shows that the *ou mallon* or ‘no more’ doctrine is due to Democritus. Following this lead, Graham (2008) suggests a new reading of Leucippus, wherein the distinction between atom and void is actually based on a reading of Parmenides’ Doxa, his cosmological account. Rather than logical abstractions, Being and Not-being, Leucippus’ atoms would in essence be based on Parmenides’ cosmological contraries, night and light. If this line of interpretation is followed, Leucippus’ notion of atom and void might have been rather different from Democritus’, and Aristotle’s tendency to refer to the two in conjunction somewhat misleading.
+    step1: |-
+      亚里士多德在记载中经常把留基伯与德谟克利特并提，包括他关于设定原子与虚空的动机的叙述。特别是，亚里士多德把留基伯和德谟克利特都同那个故意悖理的断言联系在一起：“存在不多于非存在”，即虚空与充实或坚实之物同样存在（DK 67A6）。Schofield（2002）论证说，辛普里丘（Simplicius）更审慎的叙述表明，*ou mallon*（“不多于”）学说应归于德谟克利特。循此线索，Graham（2008）提出了对留基伯的一种新读法：原子与虚空的区分实际上基于对巴门尼德《意见》（Doxa，即他的宇宙论叙述）的解读。留基伯的原子在本质上并非“存在”与“非存在”这样的逻辑抽象，而是基于巴门尼德宇宙论中的对立面——夜与光。如果循这条解释路线，留基伯关于原子与虚空的观念可能与德谟克利特的颇为不同，而亚里士多德把两人相提并论的做法也就有些误导了。
+    step2: |-
+      亚里士多德的记载中，留基伯与德谟克利特常常并提，包括他关于为何要设定原子与虚空的叙述。尤其值得注意的是，亚里士多德把留基伯同德谟克利特一道，与那句有意悖理的断言相连：“存在不多于非存在”——也就是说，虚空与充实坚实之物同样存在（DK 67A6）。Schofield（2002）论证，辛普里丘（Simplicius）笔下更审慎的叙述表明，*ou mallon*（“不多于”）学说实应归于德谟克利特。循此线索，Graham（2008）提出一种关于留基伯的新读法：原子与虚空之别，实际上源自对巴门尼德《意见》（Doxa，其宇宙论部分）的解读。如此，留基伯的原子在本质上便不是“存在”与“非存在”这类逻辑抽象，而是以巴门尼德宇宙论中的一对对立面——夜与光——为根基。若取这条解释路线，留基伯的原子与虚空观念或许与德谟克利特大异其趣，亚里士多德动辄将二人并称，也就未免有误导之嫌。
+  - id: 12
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
+  - id: 13
+    kind: ack
+    source: |-
+      I wish to thank the ancient philosophy editor John Cooper, A.P.D. Mourelatos, Tim O’Keefe and anonymous referees for helpful comments and suggestions.
+    step1: |-
+      笔者感谢古代哲学编辑 John Cooper、A.P.D. Mourelatos、Tim O’Keefe 以及各位匿名审稿人提出的有益意见与建议。
+    step2: |-
+      谨向古代哲学编辑 John Cooper、A.P.D. Mourelatos、Tim O’Keefe 以及各位匿名审稿人致谢，感谢他们提出的宝贵意见与建议。
