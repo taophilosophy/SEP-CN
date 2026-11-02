@@ -1,0 +1,22 @@
+{
+  "slug": "justice-moral-psych",
+  "kind": "retranslate",
+  "zh_doc": "j/justice-moral-psych.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:18Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:25Z",
+  "version_pin": {
+    "pubinfo_date": "May 30, 2025",
+    "archive_edition": "Summer 2025",
+    "sha256": "0e16c1ed5912ee0841a96f6b82dcebce868acbb131bf664abac82394bd56952b"
+  }
+}

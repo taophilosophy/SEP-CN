@@ -1,0 +1,22 @@
+{
+  "slug": "john-norris",
+  "kind": "retranslate",
+  "zh_doc": "j/john-norris.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:09Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:12Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 11, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "62715f2ec010e94df54b7043b71b5452a8df7482c88cd4bd8dca9c1e35efc697"
+  }
+}

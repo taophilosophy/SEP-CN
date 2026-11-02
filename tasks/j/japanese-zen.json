@@ -1,0 +1,22 @@
+{
+  "slug": "japanese-zen",
+  "kind": "retranslate",
+  "zh_doc": "j/japanese-zen.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:05Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:05Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 7, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "68592d2564533ed926fe652b7c109168356e2d9a531ebcd6662882a4a5204143"
+  }
+}

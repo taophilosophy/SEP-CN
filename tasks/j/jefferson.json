@@ -1,0 +1,22 @@
+{
+  "slug": "jefferson",
+  "kind": "retranslate",
+  "zh_doc": "j/jefferson.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:06Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:07Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 28, 2025",
+    "archive_edition": "Spring 2026",
+    "sha256": "05118e26c7bd0b5dd2a4794896972babd11ed2e1aebd1392855893f16107d667"
+  }
+}

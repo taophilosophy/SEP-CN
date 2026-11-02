@@ -1,0 +1,22 @@
+{
+  "slug": "justice-distributive",
+  "kind": "retranslate",
+  "zh_doc": "j/justice-distributive.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:14Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:21Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 26, 2017",
+    "archive_edition": "Winter 2017",
+    "sha256": "00643a2e1b3395ec5304129630b349170e8cf296a20bf4be710963c9ef41fa19"
+  }
+}

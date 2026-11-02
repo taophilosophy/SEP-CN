@@ -1,0 +1,22 @@
+{
+  "slug": "john-salisbury",
+  "kind": "retranslate",
+  "zh_doc": "j/john-salisbury.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:10Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:13Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 27, 2022",
+    "archive_edition": "Fall 2024",
+    "sha256": "2fcc2aace72234584e12dbc0a01fc4f8e7c1bb5a3d7c4dca87b71582336818cd"
+  }
+}

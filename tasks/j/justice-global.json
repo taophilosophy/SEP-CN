@@ -1,0 +1,22 @@
+{
+  "slug": "justice-global",
+  "kind": "retranslate",
+  "zh_doc": "j/justice-global.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:15Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:22Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 9, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "046695a717ef6de2e1c1a6c1a3aa8f4fb059c8e29145b497780d0ddfbb3d6efb"
+  }
+}

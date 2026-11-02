@@ -1,0 +1,22 @@
+{
+  "slug": "jaina-philosophy",
+  "kind": "retranslate",
+  "zh_doc": "j/jaina-philosophy.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:00Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:33:58Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 13, 2023",
+    "archive_edition": "Summer 2024",
+    "sha256": "fbda54e0bb711b2413a9c51af408dcf354b8b9b80332ac1278b0ceebeb56b4b8"
+  }
+}

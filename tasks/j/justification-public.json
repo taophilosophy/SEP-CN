@@ -1,0 +1,22 @@
+{
+  "slug": "justification-public",
+  "kind": "retranslate",
+  "zh_doc": "j/justification-public.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:20Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:28Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 2, 2022",
+    "archive_edition": "Winter 2022",
+    "sha256": "a40c0fc7f7e8c8fa2140900df38b9158568f54611cbb5176b6b8b78f58e11ef7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "justus-lipsius",
+  "kind": "retranslate",
+  "zh_doc": "j/justus-lipsius.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:21Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:29Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 1, 2019",
+    "archive_edition": "Fall 2023",
+    "sha256": "fd12f4f9c22d9aaa6ad41f7369adb839869feca2f3bb0469acc459c2c356bfe9"
+  }
+}

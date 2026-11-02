@@ -1,0 +1,22 @@
+{
+  "slug": "immunology",
+  "kind": "retranslate",
+  "zh_doc": "i/immunology.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T15:50:22Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:30Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 22, 2026",
+    "archive_edition": "Spring 2026",
+    "sha256": "68793f3afe5f32405903fd7dc6f7a7fe346fbbed7a2df38606367d19360494f3"
+  }
+}

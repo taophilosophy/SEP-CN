@@ -1,0 +1,22 @@
+{
+  "slug": "justice-inequality-health",
+  "kind": "retranslate",
+  "zh_doc": "j/justice-inequality-health.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:16Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:24Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 1, 2021",
+    "archive_edition": "Winter 2021",
+    "sha256": "552079193060017dc5b93b856bfbdc48ac38a360b13928b9ba2e49dd9fcdf6b2"
+  }
+}

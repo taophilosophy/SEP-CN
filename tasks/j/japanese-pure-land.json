@@ -1,0 +1,22 @@
+{
+  "slug": "japanese-pure-land",
+  "kind": "retranslate",
+  "zh_doc": "j/japanese-pure-land.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:04Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:04Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 7, 2022",
+    "archive_edition": "Fall 2022",
+    "sha256": "c588386ddcdf2843eedccb2bb18f0cd308d9712c3af7fe09e16288e6e6406b5b"
+  }
+}

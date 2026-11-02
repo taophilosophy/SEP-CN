@@ -1,0 +1,91 @@
+  - id: 16
+    source: |-
+      By a traditional account of coherence we will mean one which construes coherence as a relation of mutual support or agreement among given data (propositions, beliefs, memories, testimonies etc.). Early characterizations were given by, among others, Brand Blanshard (1939) and A. C. Ewing (1934). According to Ewing, a coherent set is characterized partly by consistency and partly by the property that every belief in the set follows logically from the others taken together. Thus, a set such as $\{A_1, A_2, A_1 \amp A_2\}$, if consistent, is highly coherent on this view because each element follows by logical deduction from the rest in concert.
+    step1: |-
+      所谓传统的融贯说明，我们指的是把融贯构想为给定材料（命题、信念、记忆、证词等）之间的相互支持或一致关系的说明。早期的刻画出自布兰德·布兰沙德（1939）与 A. C. 尤因（1934）等人。按照尤因，一个融贯集合部分地由一致性、部分地由如下性质所刻画：集合中每个信念都从其余信念合在一起逻辑地推出。因此，像 $\{A_1, A_2, A_1 \amp A_2\}$ 这样的集合，如果一致，按此看法就是高度融贯的，因为每个元素都由其余元素协同一致地逻辑演绎出来。
+    step2: |-
+      所谓传统的融贯说明，我们指的是把融贯构想为给定材料（命题、信念、记忆、证词等）之间相互支持或一致关系的说明。早期的刻画出自布兰德·布兰沙德（1939）与 A. C. 尤因（1934）等人。按照尤因，一个融贯集合部分地由一致性、部分地由如下性质刻画：集合中每个信念都从其余信念合在一起逻辑地推出。因此，像 $\{A_1, A_2, A_1 \amp A_2\}$ 这样的集合，如果一致，按此看法就是高度融贯的，因为每个元素都由其余元素协同一致地逻辑演绎出来。
+  - id: 17
+    source: |-
+      While Ewing’s definition is admirably precise, it defines coherence too narrowly. Few belief sets that occur naturally in everyday life satisfy the austere second part of his definition: the requirement that each element follow logically from the rest when combined. Consider, for instance, the set consisting of propositions $A, B$ and $C$, where
+    step1: |-
+      尽管尤因的定义精确得令人钦佩，它却把融贯定义得太窄。日常生活中自然出现的信念集合中，很少能满足他定义中苛刻的第二部分：每个元素在合并时都从其余部分逻辑地推出的要求。例如考虑由命题 $A$、$B$ 与 $C$ 组成的集合，其中
+    step2: |-
+      尽管尤因的定义精确得令人钦佩，它却把融贯定义得太窄。日常生活中自然出现的信念集合中，很少能满足他定义中苛刻的第二部分：每个元素在合并时都从其余部分逻辑地推出的要求。例如考虑由命题 $A$、$B$ 与 $C$ 组成的集合，其中
+  - id: 18
+    source: |-
+      | $A =$ | “John was at the crime scene at the time of the robbery” |
+      | --- | --- |
+      | $B =$ | “John owns a gun of the type used by the robber” |
+      | $C =$ | “John deposited a large sum of money in his bank account the next day” |
+    step1: |-
+      | $A =$ | “约翰在抢劫发生时位于犯罪现场” |
+      | :---: | :---: |
+      | $B =$ | “约翰拥有一支与抢劫者所用型号相同的枪” |
+      | $C =$ | “约翰第二天向他的银行账户存入一大笔钱” |
+    step2: |-
+      | $A =$ | “约翰在抢劫发生时位于犯罪现场” |
+      | :---: | :---: |
+      | $B =$ | “约翰拥有一支与抢劫者所用型号相同的枪” |
+      | $C =$ | “约翰第二天向他的银行账户存入一大笔钱” |
+  - id: 19
+    source: |-
+      This set is intuitively coherent, and yet it fails to satisfy Ewing’s second condition. The proposition $A$, for instance, does not follow logically from $B$ and $C$ taken together: that John owns a gun of the relevant type and deposited money in his bank the day after does not logically imply him being at the crime scene at the time of the crime. Similarly, neither $B$ nor $C$ follows from the rests of the propositions in the set by logic alone.
+    step1: |-
+      这个集合在直觉上是融贯的，然而它不能满足尤因的第二条件。例如，命题 $A$ 并不从 $B$ 与 $C$ 合在一起逻辑地推出：约翰拥有一支相关型号的枪并在第二天向银行存钱，这在逻辑上并不蕴含他在犯罪发生时位于犯罪现场。同样，$B$ 或 $C$ 都不能仅凭逻辑从集合中其余命题推出。
+    step2: |-
+      这个集合在直觉上是融贯的，然而它不能满足尤因的第二条件。例如，命题 $A$ 并不从 $B$ 与 $C$ 合在一起逻辑地推出：约翰拥有一支相关型号的枪并在第二天向银行存钱，这在逻辑上并不蕴含他在犯罪发生时位于犯罪现场。同样，$B$ 或 $C$ 都不能仅凭逻辑从集合中其余命题推出。
+  - id: 20
+    source: |-
+      C. I. Lewis’s definition of coherence, or “congruence” to use his term, can be seen as a refinement and improvement of Ewing’s basic idea. As Lewis defines the term, a set of “supposed facts asserted” is coherent (congruent) just in case every element in the set is supported by all the other elements taken together, whereby “support” is understood not in logical terms but in a probabilistic sense. In other words, $P$ supports $Q$ if and only if the probability of $Q$ is raised on the assumption that $P$ is true. As is readily appreciated, Lewis’s definition is less restrictive than Ewing’s: more sets will turn out to be coherent on the former than on the latter. (There are some uninteresting limiting cases for which this is not true. For instance, a set of tautologies will be coherent in Ewing’s but not in Lewis’s sense, since the probabiity of any tautology is maximal and cannot be raised. These cases are not significant parts of anyone’s actual body of beliefs.)
+    step1: |-
+      C. I. 刘易斯关于融贯的定义，或按他的用语称为“一致（congruence）”，可以被视为对尤因基本理念的提炼与改进。按刘易斯的定义，一个“被断定的所谓事实”集合是融贯的（一致的），当且仅当集合中每个元素都被其余所有元素合在一起所支持，其中“支持”不是从逻辑意义而是从概率意义上来理解的。换言之，$P$ 支持 $Q$，当且仅当在假定 $P$ 为真的条件下 $Q$ 的概率被提高。不难看出，刘易斯的定义不如尤因的那么严格：按前者，会有更多集合被视为融贯的。（有一些无趣的极限情形并不如此。例如，一个重言式集合在尤因的意义上会是融贯的，但在刘易斯的意义上则不然，因为任何重言式的概率都是极大的，不能被提高。这些情形并不构成任何人的实际信念体中意义重大的部分。）
+    step2: |-
+      C. I. 刘易斯关于融贯的定义，或按他的用语称为“一致（congruence）”，可以被视为对尤因基本理念的提炼与改进。按刘易斯的定义，一个“被断定的所谓事实”集合是融贯的（一致的），当且仅当集合中每个元素都被其余所有元素合在一起所支持，其中“支持”不是从逻辑意义而是从概率意义上来理解的。换言之，$P$ 支持 $Q$，当且仅当在假定 $P$ 为真的条件下 $Q$ 的概率被提高。不难看出，刘易斯的定义不如尤因的那么严格：按前者，会有更多集合被视为融贯的。（有一些无趣的极限情形并不如此。例如，一个重言式集合在尤因的意义上会是融贯的，但在刘易斯的意义上则不然，因为任何重言式的概率都是极大的，不能被提高。这些情形并不构成任何人的实际信念体中意义重大的部分。）
+  - id: 21
+    source: |-
+      Let us return to the example with John. The proposition $A$, while not logically entailed by $B$ and $C$, is under normal circumstances nevertheless supported by those propositions taken together. If we assume that John owns the relevant type of gun and deposited a large sum the next day, then this should raise the probability that John did it and thereby also raise the probability that he was at the crime scene when the robbery took place. Similarly, one could hold that each of $B$ and $C$ is supported, in the probabilistic sense, by the other elements of the set. If so, this set is not only coherent in an intuitive sense but also coherent according to Lewis’s definition. Against Lewis’s proposal one could hold that it seems arbitrary to focus merely on the support single elements of a set receive from the rest of the set (cf. Bovens and Olsson 2000)[^bovens-2000]. Why not consider the support any subset, not just singletons, receives from the rest? We will return to this question later in this entry.
+    step1: |-
+      让我们回到约翰的例子。命题 $A$ 尽管不被 $B$ 与 $C$ 逻辑地蕴含，在正常情况下却仍然被这两个命题合在一起所支持。如果我们假定约翰拥有相关型号的枪并在第二天存入一大笔钱，那么这应当会提高“约翰作案”的概率，从而也提高“抢劫发生时他在犯罪现场”的概率。同样，人们可以主张，$B$ 与 $C$ 各自在概率意义上被集合中其他元素所支持。若是如此，这个集合不仅在直觉意义上融贯，而且按刘易斯的定义也是融贯的。针对刘易斯的提议，人们可以主张，仅仅关注集合中单个元素从集合其余部分得到的支持，似乎有些武断（cf. Bovens and Olsson 2000）[^bovens-2000]。为什么不考虑任何子集（而不只是单元素子集）从其余部分得到的支持呢？我们将在本词条后面回到这个问题。
+    step2: |-
+      让我们回到约翰的例子。命题 $A$ 尽管不被 $B$ 与 $C$ 逻辑地蕴含，在正常情况下却仍然被这两个命题合在一起所支持。如果我们假定约翰拥有相关型号的枪并在第二天存入一大笔钱，那么这应当会提高“约翰作案”的概率，从而也提高“抢劫发生时他在犯罪现场”的概率。同样，人们可以主张，$B$ 与 $C$ 各自在概率意义上被集合中其他元素所支持。若是如此，这个集合不仅在直觉意义上融贯，而且按刘易斯的定义也是融贯的。针对刘易斯的提议，人们可以主张，仅仅关注集合中单个元素从集合其余部分得到的支持，似乎有些武断（cf. Bovens and Olsson 2000）[^bovens-2000]。为什么不考虑任何子集（而不只是单元素子集）从其余部分得到的支持呢？我们将在本词条后面回到这个问题。
+  - id: 22
+    source: |-
+      Another influential proposal concerning how to define coherence originates from Laurence BonJour (1985), whose account is considerably more complex than earlier suggestions. Where Ewing and Lewis proposed to define coherence in terms of one single concept—logical consequence and probability, respectively—BonJour thinks that coherence is a concept with a multitude of different aspects corresponding to the following “coherence criteria” (97–99):
+    step1: |-
+      另一个关于如何定义融贯的有影响的主张出自劳伦斯·邦久（1985），他的说明比早先的提议复杂得多。尤因与刘易斯提出分别用单一概念——逻辑后承与概率——来定义融贯，而邦久则认为融贯是一个具有众多不同方面的概念，对应于以下“融贯判准”（97–99）：
+    step2: |-
+      另一个关于如何定义融贯的有影响的主张出自劳伦斯·邦久（1985），他的说明比早先的提议复杂得多。尤因与刘易斯提出分别用单一概念——逻辑后承与概率——来定义融贯，而邦久则认为融贯是一个具有众多不同方面的概念，对应于以下“融贯判准”（97–99）：
+  - id: 23
+    source: |-
+      1. A system of beliefs is coherent only if it is logically consistent.
+      2. A system of beliefs is coherent in proportion to its degree of probabilistic consistency.
+      3. The coherence of a system of beliefs is increased by the presence of inferential connections between its component beliefs and increased in proportion to the number and strength of such connections.
+      4. The coherence of a system of beliefs is diminished to the extent to which it is divided into subsystems of beliefs which are relatively unconnected to each other by inferential connections.
+      5. The coherence of a system of beliefs is decreased in proportion to the presence of unexplained anomalies in the believed content of the system.
+    step1: |-
+      1. 一个信念系统是融贯的，仅当它在逻辑上一致。
+      2. 一个信念系统的融贯程度与其概率一致性的程度成比例。
+      3. 一个信念系统的融贯性因其组成信念之间的推理联系的存在而增强，并与此类联系的数量与强度成比例地增强。
+      4. 一个信念系统的融贯性，因其分裂为彼此相对缺乏推理联系之联系的信念子系统而降低。
+      5. 一个信念系统的融贯性，因系统中被相信内容中存在未解释的反常现象而成比例地降低。
+    step2: |-
+      1. 一个信念系统是融贯的，仅当它在逻辑上一致。
+      2. 一个信念系统的融贯程度与其概率一致性的程度成比例。
+      3. 一个信念系统的融贯性因其组成信念之间的推理联系的存在而增强，并与此类联系的数量与强度成比例地增强。
+      4. 一个信念系统的融贯性，因其分裂为彼此相对缺乏推理联系的信念子系统而降低。
+      5. 一个信念系统的融贯性，因系统中被相信内容中存在未解释的反常现象而成比例地降低。
+  - id: 24
+    source: |-
+      A difficulty pertaining to theories of coherence that construe coherence as a multidimensional concept is to specify how the different dimensions are to be amalgamated so as to produce an overall coherence judgment. It could well happen that one system $S$ is more coherent than another system $T$ in one respect, whereas $T$ is more coherent than $S$ in another. Perhaps $S$ contains more inferential connections than $T$, but $T$ is less anomalous than $S$. If so, which system is more coherent in an overall sense? Bonjour’s theory is largely silent on this point.
+    step1: |-
+      把融贯构想为多维概念的那些融贯理论，其一个困难在于说明如何把不同维度加以合并，以产生一个总体的融贯判断。完全可能发生这样的情况：一个系统 $S$ 在某一方面比另一个系统 $T$ 更融贯，而 $T$ 在另一方面比 $S$ 更融贯。也许 $S$ 比 $T$ 包含更多推理联系，但 $T$ 比 $S$ 更少反常。若是如此，哪个系统在总体意义上更融贯？邦久的理论在这一点上大体语焉不详。
+    step2: |-
+      把融贯构想为多维概念的那些融贯理论，其一个困难在于说明如何把不同维度加以合并，以产生一个总体的融贯判断。完全可能发生这样的情况：一个系统 $S$ 在某一方面比另一个系统 $T$ 更融贯，而 $T$ 在另一方面比 $S$ 更融贯。也许 $S$ 比 $T$ 包含更多推理联系，但 $T$ 比 $S$ 更少反常。若是如此，哪个系统在总体意义上更融贯？邦久的理论在这一点上大体语焉不详。
+  - id: 25
+    source: |-
+      BonJour’s account also raises another general issue. The third criterion stipulates that the degree of coherence increases with the number of inferential connections between different parts of the system. Now as a system grows larger the probability that there will be relatively many inferentially connected beliefs is increased simply because there are more possible connections to be made. Hence, one could expect there to be a positive correlation between the size of a system and the number of inferential connections between the beliefs contained in the system. BonJour’s third criterion, taken at face value, entails therefore that a bigger system will generally have a higher degree of coherence due to its sheer size. But this is at least not obviously correct. A possible modified coherence criterion could state that what is correlated with higher coherence is not the number of inferential connections but rather the inferential *density* of the system, where the latter is obtained by dividing the number of inferential connections by the number of beliefs in the system.
+    step1: |-
+      邦久的说明还提出另一个一般性问题。第三判准规定，融贯程度随系统不同部分之间推理联系的数量而增加。现在，随着系统变大，存在相对较多推理上相联的信念的概率增加，原因很简单：可以建立的联系更多了。因此，人们可以预期系统的大小与系统所含信念之间推理联系的数量之间存在正相关。于是，邦久的第三判准若按字面理解，就蕴含着一个更大的系统因其纯粹规模而一般具有更高的融贯程度。但这至少并非显然正确。一个可能的修改过的融贯判准可以规定：与更高融贯相关的不是推理联系的数量，而是系统的推理*密度*，后者由推理联系的数量除以系统中的信念数量而得到。
+    step2: |-
+      邦久的说明还提出另一个一般性问题。第三判准规定，融贯程度随系统不同部分之间推理联系的数量而增加。现在，随着系统变大，存在相对较多推理上相联的信念的概率增加，原因很简单：可以建立的联系更多了。因此，人们可以预期系统的大小与系统所含信念之间推理联系的数量之间存在正相关。于是，邦久的第三判准若按字面理解，就蕴含着一个更大的系统因其纯粹规模而一般具有更高的融贯程度。但这至少并非显然正确。一个可能的修改过的融贯判准可以规定：与更高融贯相关的不是推理联系的数量，而是系统的推理*密度*，后者由推理联系的数量除以系统中的信念数量而得到。

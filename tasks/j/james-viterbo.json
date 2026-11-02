@@ -1,0 +1,22 @@
+{
+  "slug": "james-viterbo",
+  "kind": "retranslate",
+  "zh_doc": "j/james-viterbo.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:01Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:01Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 22, 2020",
+    "archive_edition": "Fall 2020",
+    "sha256": "3de5eca7882fcd9148adfc2ae3323e5dcec05fe5f7e414bd91905960319f1b1b"
+  }
+}

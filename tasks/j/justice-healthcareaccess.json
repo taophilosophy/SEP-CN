@@ -1,0 +1,22 @@
+{
+  "slug": "justice-healthcareaccess",
+  "kind": "retranslate",
+  "zh_doc": "j/justice-healthcareaccess.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:16Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:23Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 20, 2017",
+    "archive_edition": "Winter 2017",
+    "sha256": "66f4c6789658077f2b343c48f1ed40278a119ac05287eba2c9a5ef39adfabb40"
+  }
+}

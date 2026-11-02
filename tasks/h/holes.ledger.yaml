@@ -1,0 +1,66 @@
+version: 1
+slug: holes
+segments:
+  - id: 1
+    source: |-
+      Holes are an interesting case study for ontologists and epistemologists. On the one hand, naive descriptions of the world treat holes as objects of reference and quantification, on a par with ordinary material objects ('This hole has no lid'; 'That cheese has seven holes'). Moreover, we often appeal to holes to account for causal interactions ('The hole in the roof caused a leak'), or to explain the occurrence of certain events ('The water spilled because the bucket has a hole'). All this provides initial evidence for treating holes as real entities. On the other hand, holes appear to be much more elusive than ordinary objects, ontologically as well as epistemologically; after all, they are a paradigm example of nothingness. So one may wonder whether such evidence is to be taken seriously. Should we instead think that all talk about holes is a misleading *façon de parler*? Are holes real things, or are they mere *entia representationis*, *as-if* entities, fictions?
+    step1: |-
+      洞对于本体论学者与认识论学者而言是有趣的研究案例。一方面，对世界的朴素描述把洞当作指称与量化的对象，与普通物质对象平起平坐（'这个洞没有盖子'；'那块奶酪有七个洞'）。此外，我们常常诉诸洞来解释因果相互作用（'屋顶上的洞导致了漏水'），或解释某些事件的发生（'水洒了出来，因为桶上有个洞'）。所有这一切都为把洞视为真实存在物提供了初步证据。另一方面，洞似乎远比普通对象难以捉摸，无论在本体论上还是认识论上；毕竟，它们是虚无的典型例证。所以人们可能想知道这样的证据是否应被认真对待。我们是否应该转而认为所有关于洞的谈论都是误导的 *façon de parler*？洞是真实的东西，还是仅仅是 *entia representationis*、仿佛存在物、虚构物？
+    step2: |-
+      洞对于本体论学者与认识论学者而言是一个有趣的研究案例。一方面，对世界的朴素描述把洞当作指称与量化的对象，与普通物质对象平起平坐（“这个洞没有盖子”；“那块奶酪有七个洞”）。此外，我们常常诉诸洞来解释因果相互作用（“屋顶上的洞导致了漏水”），或解释某些事件的发生（“水洒了出来，因为桶上有个洞”）。凡此种种，都为把洞视为真实存在物提供了初步证据。另一方面，洞似乎远比普通对象难以捉摸，无论在本体论上还是在认识论上都是如此；毕竟，它们是虚无的典型例证。于是人们不免要问：这样的证据是否应当认真对待？我们是否应当转而认为，所有关于洞的谈论都是一种误导性的“说话方式”（*façon de parler*）？洞是真实的东西，还是仅仅是“表象存在物”（*entia representationis*）、仿佛存在物、虚构物？
+  - id: 2
+    source: |-
+      > *'A hole?' the rock chewer grunted. 'No, not a hole', said the will-o'-the-wisp despairingly. 'A hole, after all, is something. This is nothing at all'.* —Ende (1979/1983: 19)
+    step1: |-
+      > *'一个洞？'咬岩者咕哝道。'不，不是洞'，鬼火绝望地说。'洞，毕竟，是某种东西。这根本什么也不是。'* ——Ende (1979/1983: 19)
+    step2: |-
+      > “一个洞？”咬岩者咕哝道。“不，不是洞”，鬼火绝望地说。“洞，说到底，是某种东西。这根本什么也不是。”——Ende (1979/1983: 19)
+  - id: 3
+    source: |-
+      Hole representations—no matter whether veridical—appear to be commonplace in human cognition. Not only do people have the impression of seeing holes; they also form a corresponding concept, which is normally lexicalised as a noun in ordinary languages. (Some languages even discriminate different types of hole, distinguishing e.g. between superficial *hollows*, inner *cavities*, and see-through *perforations*.) Moreover, data from developmental psychology and the psychology of perception confirm that infants and adults are able to perceive, count, and track holes just as easily as they perceive, count, and track paradigm material objects such as cookies and tins (Giralt & Bloom 2000; Horowitz & Kuzmova 2011; Porter *et al.* 2016)[^giralt-2000][^horowitz-2011][^porter-2016]. These facts do not prove that holes and material objects are on equal psychological footing, let alone on equal metaphysical footing. But they indicate that the concept of a hole is of significant salience in the common-sense picture of the world, specifically of the spatiotemporal world.
+    step1: |-
+      洞的表征——无论是否真实——似乎在人类认知中是常见的。人们不仅有看见洞的印象；他们还形成相应的概念，后者在普通语言中通常被词汇化为名词。（有些语言甚至区分不同类型的洞，例如区分表面的 *hollows*、内部的 *cavities* 与贯穿的 *perforations*。）此外，来自发展心理学与知觉心理学的数据证实，婴儿与成人能够像知觉、计数与追踪饼干、罐头等典型物质对象一样容易地知觉、计数与追踪洞（Giralt & Bloom 2000; Horowitz & Kuzmova 2011; Porter *et al.* 2016）[^giralt-2000][^horowitz-2011][^porter-2016]。这些事实并不证明洞与物质对象处于同等的心理学地位，更不必说同等的形而上学地位。但它们表明，洞的概念在常识世界图景——尤其是时空世界图景——中具有显著的重要性。
+    step2: |-
+      对洞的表征——无论是否真实——似乎在人类认知中司空见惯。人们不仅产生看见洞的印象，还形成相应的概念，后者在普通语言中通常词汇化为名词。（有些语言甚至区分不同类型的洞，例如区分表面的凹窝、内部的空腔与贯穿的孔洞。）此外，发展心理学与知觉心理学的数据证实，婴儿与成人能够像知觉、计数与追踪饼干、罐头等典型物质对象一样容易地知觉、计数与追踪洞（Giralt & Bloom 2000; Horowitz & Kuzmova 2011; Porter *et al.* 2016）[^giralt-2000][^horowitz-2011][^porter-2016]。这些事实并不能证明洞与物质对象处于同等的心理学地位，更不必说同等的形而上学地位。但它们表明，洞的概念在常识世界图景——尤其是时空世界图景——中具有显著的重要性。
+  - id: 4
+    source: |-
+      If holes are entities of a kind, then, they appear to be spatiotemporal particulars, like cookies and tins and unlike numbers or moral values. They appear to have a determinate shape, a size, and a location. ('These things have birthplaces and histories. They can change, and things can happen to them', Hofstadter & Dennett 1981: 6–7.)[^hofstadter-1981] On the other hand, if holes are particulars, then they are not particulars of the familiar sort. For holes appear to be *immaterial*: every hole has a material "host" (the stuff around it, such as the edible part of a donut) and it may have a material "guest" (such as the liquid filling a cavity), but the hole itself does not seem to be made of matter. Indeed, holes seem to be *made of nothing*, if anything is. And this gives rise to a number of conundrums. For example:
+    step1: |-
+      如果洞是某种存在物，那么它们似乎是时空殊相，像饼干与罐头那样，而不像数或道德价值那样。它们似乎具有确定的形状、大小与位置。（'这些东西有出生地与历史。它们能够变化，事情也能发生在它们身上'，Hofstadter & Dennett 1981: 6–7.）[^hofstadter-1981] 另一方面，如果洞是殊相，那么它们并非熟悉意义上的殊相。因为洞似乎是 *immaterial*：每个洞都有一个物质 "host"（它周围的东西，例如甜甜圈的可食部分），也可能有一个物质 "guest"（例如填充空腔的液体），但洞本身似乎并非由物质构成。事实上，洞似乎正是 *made of nothing*——如果真有什么东西是的话。而这引出了一系列难题。例如：
+    step2: |-
+      那么，如果洞是某种存在物，它们似乎是时空殊相，像饼干与罐头那样，而不像数或道德价值那样。它们似乎具有确定的形状、大小与位置。（“这些东西有出生地与历史。它们能够变化，事情也能发生在它们身上”， Hofstadter & Dennett 1981: 6–7.）[^hofstadter-1981] 另一方面，如果洞是殊相，那么它们并非熟悉意义上的殊相。因为洞似乎是**非物质的**：每个洞都有一个物质“宿主”（它周围的东西，例如甜甜圈的可食部分），也可能有一个物质“住客”（例如填充空腔的液体），但洞本身似乎并非由物质构成。事实上，洞似乎正是由**无**构成的——如果真有什么东西是由无构成的话。而这引出了一系列难题。例如：
+  - id: 5
+    source: |-
+      It is difficult to explain how holes can in fact be perceived. If perception is grounded on causation, as Locke urged (*Essay*, II-viii-6), and if causality has to do with materiality, then immaterial bodies cannot be the source of any causal flow. So a causal theory of perception would not apply to holes. Our impression of perceiving holes would then be a sort of systematic illusion, on pain of rejecting causal accounts of perception. (On the other hand, if one accepts that absences can be causally efficacious, as urged by Lewis 2004, then a causal account could maintain that we truly perceive holes; see Sorensen 2008 and 2015 along with Siegel 2009, Farennikova 2013, and Calabi 2019.)[^calabi-2019][^farennikova-2013][^lewis-2004][^siegel-2009][^sorensen-2008][^sorensen-2015]
+    step1: |-
+      洞事实上如何能被知觉，这是难以解释的。如果知觉以因果性为基础，如洛克所主张（*Essay*, II-viii-6），并且如果因果性与物质性有关，那么非物质物体不能成为任何因果流的来源。所以知觉的因果理论不适用于洞。我们知觉到洞的印象于是会是某种系统性的幻觉，除非拒斥对知觉的因果说明。（另一方面，如果人们接受缺失可以是因果有效的，如 Lewis 2004 所主张，那么因果说明可以坚持我们真正知觉洞；参见 Sorensen 2008 与 2015，连同 Siegel 2009、Farennikova 2013 与 Calabi 2019。）[^calabi-2019][^farennikova-2013][^lewis-2004][^siegel-2009][^sorensen-2008][^sorensen-2015]
+    step2: |-
+      洞事实上如何能被知觉，这是难以解释的。如果知觉以因果性为基础，如洛克所主张（*Essay*, II-viii-6），而因果性又与物质性相关，那么非物质物体就不能成为任何因果流的来源。因此，知觉的因果理论并不适用于洞。我们知觉到洞的印象，就会成为一种系统性的幻觉——除非我们拒斥对知觉的因果说明。（另一方面，如果人们接受缺失可以是因果有效的，如 Lewis 2004 所主张，那么因果说明就可以坚持我们确实知觉到了洞；参见 Sorensen 2008 与 2015，以及 Siegel 2009、Farennikova 2013 与 Calabi 2019。）[^calabi-2019][^farennikova-2013][^lewis-2004][^siegel-2009][^sorensen-2008][^sorensen-2015]
+  - id: 6
+    source: |-
+      It is difficult to specify identity criteria for holes—more difficult than for ordinary material objects. If holes are immaterial, we cannot account for the identity of a hole *via* the identity of any constituting stuff. But neither can we rely on the identity conditions of the hole's material host, for we can imagine changing the host—partly or wholly, gradually or abruptly—without affecting the hole. And we cannot rely on the identity conditions of its guest, for it would seem that we can empty a hole of whatever might partially or fully occupy it and leave the hole intact. (Indeed, both "host" and "guest" are relative notions. Doesn't their proper application presuppose that we already know how to identify holes in the first place? See Meadows 2015.)[^meadows-2015]
+    step1: |-
+      为洞规定同一性判据是困难的——比普通物质对象更困难。如果洞是非物质的，我们不能借任何构成性材料的同一性来说明洞的同一性。但我们也不能依赖洞的物质宿主的同一性条件，因为我们可以设想改变宿主——部分或全部、逐渐或突然——而不影响洞。我们也不能依赖其住客的同一性条件，因为似乎我们可以把洞中可能部分或完全占据它的东西掏空而让洞保持完好。（事实上，'host' 与 'guest' 都是相对概念。它们的恰当运用，难道不预设我们已经知道如何识别洞吗？参见 Meadows 2015。）[^meadows-2015]
+    step2: |-
+      为洞规定同一性判据是困难的——比普通物质对象更为困难。如果洞是非物质的，我们就不能借任何构成性材料的同一性来说明洞的同一性。但我们也不能依赖洞的物质宿主的同一性条件，因为我们可以设想改变宿主——部分或全部、逐渐或突然——而不影响洞。我们也不能依赖其住客的同一性条件，因为似乎我们可以把洞中可能部分或全部占据它的东西掏空，而让洞保持完好。（事实上，“宿主”与“住客”都是相对概念。它们的恰当运用，难道不预设我们本来就已经知道如何识别洞吗？参见 Meadows 2015。）[^meadows-2015]
+  - id: 7
+    source: |-
+      It is equally difficult to account for the mereology of holes. Take a card and punch a hole in it. You have made one hole. Now punch again next to it. Have you made another hole? In a way, yes: now the card is doubly perforated. But what prevents us from saying that we still have one hole, though a hole that comes in two disconnected parts? After all, material objects can be disconnected: a bikini, your copy of the *Recherche*, a token of the lowercase letter 'i'. Perhaps holes may be disconnected, too? If so, perhaps we have just punched a single, disconnected hole? (Casati & Varzi 2004, 2021)[^casati-2004]
+    step1: |-
+      同样困难的是说明洞的分体论。拿一张卡片，在上面打一个洞。你打了一个洞。再在它旁边打一个。你是否打了另一个洞？在某种意义上，是的：现在卡片被双重穿孔了。但什么阻止我们说我们仍然只有一个洞，尽管是一个由两个不连通部分构成的洞？毕竟，物质对象可以是不连通的：比基尼、你那本 *Recherche*、小写字母 'i' 的一个实例。或许洞也可以是不连通的？如果是这样，或许我们刚打的只是一个单个的、不连通的洞？（Casati & Varzi 2004, 2021）[^casati-2004]
+    step2: |-
+      同样困难的是说明洞的分体论（mereology）。拿一张卡片，在上面打一个洞。你打了一个洞。再在它旁边打一个。你是否打了另一个洞？从某种意义上说，是的：现在卡片被双重穿孔了。但有什么阻止我们说我们仍然只有一个洞——尽管这个洞由两个不连通的部分构成？毕竟，物质对象可以是不连通的：比基尼、你那本《追忆似水年华》、小写字母“i”的一个实例。或许洞也可以是不连通的？如果是这样，或许我们刚打的只是一个单个的、不连通的洞？（Casati & Varzi 2004, 2021）[^casati-2004]
+  - id: 8
+    source: |-
+      It is also difficult to assess the explanatory relevance of holes. Arguably, whenever a physical interaction can be explained by appealing to the concept of a hole, a matching explanation could be offered that invokes only material objects and their properties. (That the water ran out of the bucket can be explained by appealing to various facts about fluid dynamics, together with an accurate account of the physical and geometric conditions of the bucket.) Aren't these latter explanations enough?
+    step1: |-
+      评估洞的解释相关性也是困难的。可以说，每当一个物理相互作用可以通过诉诸洞的概念来解释，就能给出一个只涉及物质对象及其属性的匹配说明。（水从桶中流出，可以通过诉诸流体动力学的各种事实，连同对桶的物理与几何条件的精确说明来解释。）这些后一种说明难道不够吗？
+    step2: |-
+      评估洞的解释相关性也是困难的。可以说，凡能通过诉诸洞的概念来解释的物理相互作用，都能给出一个只涉及物质对象及其属性的匹配说明。（水从桶中流出，可以通过诉诸流体动力学的种种事实，连同对桶的物理与几何条件的精确描述来说明。）这些后一种说明难道还不够吗？
+  - id: 9
+    source: |-
+      Further problems arise from the ambiguous status of holes in figure-ground displays. On the one hand, we have robust evidence that their perception is influenced by such factors as convexity (Arnheim 1948)[^arnheim-1948], contour relationship (Bozzi 1975)[^bozzi-1975], grouping (Nelson & Palmer 2001)[^nelson-2001], or pattern entropy (Gillam & Grove 2011)[^gillam-2011], and we understand how these factors relate to others, such as texture and shading (Bertamini & Helmy 2012)[^bertamini-2012]. On the other hand, while it appears that the shapes of holes can be recognized by humans as accurately as the shapes of ordinary objects, the area seen through a hole typically belongs to the background of its host, and there is evidence to the effect that background regions are represented as shapeless (Rubin 1915)[^rubin-1915]. So what would the shape of a hole be, if any? (Bertamini & Croucher 2003; Palmer *et al.* 2008; Nelson *et al.* 2014; Bertamini & Casati 2015.)[^bertamini-2015][^bertamini-2003][^nelson-2014][^palmer-2008]
+    step1: |-
+      进一步的难题源于洞在图形-背景显示中的模糊地位。一方面，我们有充分的证据表明对它们的知觉受凸性（Arnheim 1948）[^arnheim-1948]、轮廓关系（Bozzi 1975）[^bozzi-1975]、分组（Nelson & Palmer 2001）[^nelson-2001]或图案熵（Gillam & Grove 2011）[^gillam-2011]等因素影响，而且我们理解这些因素如何与诸如纹理与阴影（Bertamini & Helmy 2012）[^bertamini-2012]等其他因素相关联。另一方面，虽然洞的形状似乎能被人类像普通对象的形状一样准确地识别，但透过洞看到的区域通常属于其宿主的背景，而且有证据表明背景区域被表征为无形状的（Rubin 1915）[^rubin-1915]。那么，如果有的话，洞的形状会是什么？（Bertamini & Croucher 2003; Palmer *et al.* 2008; Nelson *et al.* 2014; Bertamini & Casati 2015.）[^bertamini-2015][^bertamini-2003][^nelson-2014][^palmer-2008]
+    step2: |-
+      更多的难题源于洞在图形-背景显示中的模糊地位。一方面，我们有充分的证据表明，对洞的知觉受凸性（Arnheim 1948）[^arnheim-1948]、轮廓关系（Bozzi 1975）[^bozzi-1975]、分组（Nelson & Palmer 2001）[^nelson-2001]或图案熵（Gillam & Grove 2011）[^gillam-2011]等因素的影响，而且我们理解这些因素如何与其他因素相关联，例如纹理与阴影（Bertamini & Helmy 2012）[^bertamini-2012]。另一方面，虽然洞的形状似乎能被人类像识别普通对象的形状一样准确地识别，但透过洞看到的区域通常属于其宿主的背景，而且有证据表明背景区域被表征为无形状的（Rubin 1915）[^rubin-1915]。那么，如果洞有形状的话，它的形状会是什么呢？（Bertamini & Croucher 2003; Palmer *et al.* 2008; Nelson *et al.* 2014; Bertamini & Casati 2015.）[^bertamini-2015][^bertamini-2003][^nelson-2014][^palmer-2008]

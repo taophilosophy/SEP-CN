@@ -1,0 +1,133 @@
+  - id: 46
+    source: |-
+      The arguably most significant development of the coherence theory in recent years has been the revival of C. I. Lewis’s work and the research program he inspired by translating parts of the coherence theory into the language of probability. The kind of coherence in question should be distinguished from a probability function being coherent in the sense of conforming to the axioms of the probability calculus. The theory of coherence that we are concerned with here is an application of such coherent probability functions to model coherence as mutual support, agreement etc. Thus “probabilistic coherence” means something else than it does in standard Bayesian theories. The probabilistic translations of coherence theory has made it possible to define concepts and prove results with mathematical precision. It has also led to increased transferability of concepts and results across fields, e.g., between coherence theory and confirmation theory as it is studied in philosophy of science. As a result, the study of coherence has developed into an interdisciplinary research program with connections to philosophy of science, cognitive psychology, artificial intelligence and philosophy of law. (We will encounter a spectacular example of such theoretical cross-fertilization in a moment.) The rest of this entry will be devoted to this recent transformation of the subject.
+    step1: |-
+      近年来融贯理论堪称最重要的进展，是 C. I. 刘易斯著作及其所开创研究纲领的复兴，这个纲领把融贯理论的部分内容翻译成概率语言。这里所讨论的那种融贯，应当与一个概率函数在符合概率演算公理这一意义上的“融贯”区分开来。我们关心的融贯理论，正是把这种融贯的概率函数应用于把融贯建模为相互支持、一致等等。因此，“概率性融贯”所指的与标准贝叶斯理论中的含义不同。融贯理论的概率化翻译使得以数学精确性来定义概念和证明结果成为可能。它也使概念与结果在领域间更可迁移，例如在融贯理论与科学哲学中研究的确认理论之间。其结果是，融贯研究发展成了一个跨学科研究纲领，与科学哲学、认知心理学、人工智能和法律哲学相联结。（我们马上就会遇到这种理论交叉授粉的一个惊人例子。）本词条的其余部分将专门讨论这一主题的近期转变。
+    step2: |-
+      近年来融贯理论堪称最重要的进展，是 C. I. 刘易斯著作及其所开创研究纲领的复兴，这个纲领把融贯理论的部分内容翻译成概率语言。这里所讨论的那种融贯，应当与一个概率函数在符合概率演算公理这一意义上的“融贯”区分开来。我们关心的融贯理论，正是把这种融贯的概率函数应用于把融贯建模为相互支持、一致等等。因此，“概率性融贯”所指的与标准贝叶斯理论中的含义不同。融贯理论的概率化翻译使得以数学精确性来定义概念和证明结果成为可能。它也使概念与结果在领域间更可迁移，例如在融贯理论与科学哲学中研究的确认理论之间。其结果是，融贯研究发展成了一个跨学科研究纲领，与科学哲学、认知心理学、人工智能和法律哲学相联结。（我们马上就会遇到这种理论交叉授粉的一个惊人例子。）本词条的其余部分将专门讨论这一主题的近期转变。
+  - id: 47
+    source: |-
+      To introduce Lewis’s view on the role of coherence, consider the following famous passage on “relatively unreliable witnesses who independently tell the same story” from his 1946 book:
+    step1: |-
+      为了引入刘易斯关于融贯之角色的看法，请考虑他 1946 年著作中关于“相对不可靠却独立讲述同一故事的证人”的著名段落：
+    step2: |-
+      为了引入刘易斯关于融贯之角色的看法，请考虑他 1946 年著作中关于“相对不可靠却独立讲述同一故事的证人”的著名段落：
+  - id: 48
+    source: |-
+      > For any one of these reports, taken singly, the extent to which it confirms what is reported may be slight. And antecedently, the probability of what is reported may also be small. But congruence of the reports establishes a high probability of what they agree upon, by principles of probability determination which are familiar: on any other hypothesis than that of truth-telling, this agreement is highly unlikely; the story any one false witness might tell being one out of so very large a number of equally possible choices. (It is comparable to the improbability that successive drawings of one marble out of a very large number will each result in the one white marble in the lot.) And the one hypothesis which itself is congruent with this agreement becomes thereby commensurably well established. (346)
+    step1: |-
+      > 对于这些报告中的任何一个，单独来看，它确认所报告之事的程度可能很轻微。而且先行地，所报告之事的概率也可能很小。但报告之间的一致（congruence）确立了它们所共同同意之事的很高概率，依据的是我们熟悉的概率确定原则：在除“说真话”之外的任何其他假说下，这种一致是极不可能的；任何一个作假证者所讲的故事，都只是数量如此庞大的同等可能选择之一。（这可比拟于：从一个非常庞大的数量中接连抽取一颗弹子，每次都抽到这批弹子中唯一的那颗白色弹子的不可能性。）而那个本身与此一致相符的假说，因此就相应地被很好地确立起来。（346）
+    step2: |-
+      > 对于这些报告中的任何一个，单独来看，它确认所报告之事的程度可能很轻微；而且先行地，所报告之事的概率也可能很小。但报告之间的一致（congruence）依据我们熟悉的概率确定原则，确立了它们所共同同意之事的很高概率：在除“说真话”之外的任何其他假说下，这种一致是极不可能的；任何一个作假证者所讲的故事，都只是数量如此庞大的同等可能选择之一。（这可比拟于：从一个非常庞大的数量中接连抽取一颗弹子，每次都抽到这批弹子中唯一的那颗白色弹子的不可能性。）而那个本身与此一致相符的假说，因此就相应地被很好地确立起来。（346）
+  - id: 49
+    source: |-
+      While Lewis allows that individual reports need not be very credible considered in isolation for coherence to have a positive effect, he is firmly committed to the view that their credibility must not be nil. He writes, in his discussion of reports from memory, that “[i]f … there were no initial presumption attaching to the mnemically presented … then no extent of congruity with other such items would give rise to any eventual credibility” (357). In other words, if the beliefs in a set have no initial credibility, then no justification will ensue from observing the coherence of that set. Thus, Lewis is advocating weak foundationalism rather than a pure coherence theory.
+    step1: |-
+      尽管刘易斯承认，为了使融贯产生积极效果，个别报告孤立地考虑时不必非常可信，他却坚定地主张它们的可信性不得为零。他在讨论来自记忆的报告时写道：“[如]果……没有与记忆所呈现者相伴随的初始推定……那么与这类其他项目的任何程度的一致都不会产生任何最终的可信性”（357）。换言之，如果一组信念没有初始可信性，那么观察该集合的融贯不会产生任何证成。因此，刘易斯提倡的是弱基础主义而非纯粹的融贯理论。
+    step2: |-
+      尽管刘易斯承认，为了使融贯产生积极效果，个别报告孤立地考虑时不必非常可信，他却坚定地主张它们的可信性不得为零。他在讨论来自记忆的报告时写道：“[如]果……没有与记忆所呈现者相伴随的初始推定……那么与这类其他项目的任何程度的一致都不会产生任何最终的可信性”（357）。换言之，如果一组信念没有初始可信性，那么观察该集合的融贯不会产生任何证成。因此，刘易斯提倡的是弱基础主义而非纯粹的融贯理论。
+  - id: 50
+    source: |-
+      In apparent agreement with Lewis, Laurence BonJour (1985, 148) writes: “[a]s long as we are confident that the reports of the various witnesses are genuinely independent of each other, a high enough degree of coherence among them will eventually dictate the hypothesis of truth telling as the only available explanation of their agreement.” However, BonJour proceeds to reject Lewis’s point about the need for positive antecedent credibility: “[w]hat Lewis does not see, however, is that his own [witness] example shows quite convincingly that no antecedent degree of warrant or credibility is required” (148). BonJour is here apparently denouncing Lewis’s claim that coherence will not have any confidence boosting power unless the sources are initially somewhat credible. BonJour is proposing that coherence can play this role even if there is no antecedent degree of warrant, so long as the witnesses are delivering their reports independently.
+    step1: |-
+      表面上与刘易斯一致，劳伦斯·邦久（1985, 148）写道：“只要我们确信各证人的报告彼此真正独立，它们之间足够高的融贯程度最终将规定‘说真话’的假说，作为对其一致的唯一可得的解释。”然而，邦久接着拒绝刘易斯关于需要正面先行可信性的论点：“[不]过，刘易斯没有看到的是，他自己的[证人]例子相当有说服力地表明，无需任何先行的证成度或可信性”（148）。邦久在此显然谴责刘易斯的主张：除非来源起初有些可信，融贯不会有任何提升信心的力量。邦久提出，即使没有先行的证成度，只要证人是独立地作出报告的，融贯也能扮演这一角色。
+    step2: |-
+      表面上与刘易斯一致，劳伦斯·邦久（1985, 148）写道：“只要我们确信各证人的报告彼此真正独立，它们之间足够高的融贯程度最终将规定‘说真话’的假说，作为对其一致的唯一可得的解释。”然而，邦久接着拒绝刘易斯关于需要正面先行可信性的论点：“[不]过，刘易斯没有看到的是，他自己的[证人]例子相当有说服力地表明，无需任何先行的证成度或可信性”（148）。邦久在此显然谴责刘易斯的主张：除非来源起初有些可信，融贯不会有任何提升信心的力量。邦久提出，即使没有先行的证成度，只要证人是独立地作出报告的，融贯也能扮演这一角色。
+  - id: 51
+    source: |-
+      Several authors have objected to this claim of BonJour’s, arguing that coherence does not have any effect on the probability of the report contents if the independent reports lack individual credibility. The first argument to that effect was given by Michael Huemer (1997). A more general proof in the same vein is presented in Olsson (2002). What follows is a sketch of the latter argument for the special case of two testimonies, couched essentially in the terminology of Huemer (2011). In the following, all probabilities are assumed to lie strictly between 0 and 1.
+    step1: |-
+      有几位作者反对邦久的这一主张，论证说如果独立的报告缺乏个别可信性，融贯就对报告内容的概率没有任何影响。这方面的第一个论证由迈克尔·休默（1997）给出。同一思路的一个更一般的证明见奥尔森（2002）。以下是对后一个论证在两项证词这一特殊情形下的概述，其表述基本采用休默（2011）的术语。在以下讨论中，假定所有概率都严格介于 0 与 1 之间。
+    step2: |-
+      有几位作者反对邦久的这一主张，论证说如果独立的报告缺乏个别可信性，融贯就对报告内容的概率没有任何影响。这方面的第一个论证由迈克尔·休默（1997）给出。同一思路的一个更一般的证明见奥尔森（2002）。以下是对后一个论证在两项证词这一特殊情形下的概述，其表述基本采用休默（2011）的术语。在以下讨论中，假定所有概率都严格介于 0 与 1 之间。
+  - id: 52
+    source: |-
+      Let $E_1$ be the proposition that the first witness reports that $A$, and let $E_2$ be the proposition that the second witness reports that $A$. Consider the following conditions:
+    step1: |-
+      设 $E_1$ 为第一位证人报告 $A$ 的命题，$E_2$ 为第二位证人报告 $A$ 的命题。考虑以下条件：
+    step2: |-
+      设 $E_1$ 为第一位证人报告 $A$ 的命题，$E_2$ 为第二位证人报告 $A$ 的命题。考虑以下条件：
+  - id: 53
+    source: |-
+      **Conditional Independence** $P(E_2 \mid E_1, A) = P(E_2 \mid A)$ $P(E_2 \mid E_1,\neg A) = P(E_2 \mid \neg A)$
+    step1: |-
+      **条件独立** $P(E_2 \mid E_1, A) = P(E_2 \mid A)$ $P(E_2 \mid E_1,\neg A) = P(E_2 \mid \neg A)$
+    step2: |-
+      **条件独立** $P(E_2 \mid E_1, A) = P(E_2 \mid A)$ $P(E_2 \mid E_1,\neg A) = P(E_2 \mid \neg A)$
+  - id: 54
+    source: |-
+      **Nonfoundationalism** $P(A \mid E_1) = P(A)$ $P(A \mid E_2) = P(A)$
+    step1: |-
+      **非基础主义** $P(A \mid E_1) = P(A)$ $P(A \mid E_2) = P(A)$
+    step2: |-
+      **非基础主义** $P(A \mid E_1) = P(A)$ $P(A \mid E_2) = P(A)$
+  - id: 55
+    source: |-
+      **Coherence Justification** $P(A \mid E_1, E_2) \gt P(A)$
+    step1: |-
+      **融贯性证成** $P(A \mid E_1, E_2) \gt P(A)$
+    step2: |-
+      **融贯性证成** $P(A \mid E_1, E_2) \gt P(A)$
+  - id: 56
+    source: |-
+      Conditional independence is intended to capture the idea that the testimonies are independent in the sense that there is no direct influence between the testimonies. The probability of a testimony is influenced only by the fact it reports on, meaning that once that fact is given, this “screens off” any probabilistic influence between the individual testimonies making them irrelevant to each other. Nonfoundationalism states that neither testimony confers any justification upon $A$ by itself: assuming merely that one single witness has testified that $A$ has no effect on the probability of $A$. Finally, Coherence Justification states that testimonies, when combined, do provide justification for $A$.
+    step1: |-
+      条件独立旨在把握这一观念：证词是独立的，即证词之间没有直接影响。一项证词的概率只受它所报告的那个事实影响，这意味着一旦给定该事实，它就把个别证词之间的任何概率影响“屏蔽”掉，使它们彼此不相关。非基础主义表明：两项证词各自都不能单独赋予 $A$ 任何证成——仅仅假定一位证人就 $A$ 作证，对 $A$ 的概率没有影响。最后，融贯性证成表明：证词结合起来时确实为 $A$ 提供证成。
+    step2: |-
+      条件独立旨在把握这一观念：证词是独立的，即证词之间没有直接影响。一项证词的概率只受它所报告的那个事实影响，这意味着一旦给定该事实，它就把个别证词之间的任何概率影响“屏蔽”掉，使它们彼此不相关。非基础主义表明：两项证词各自都不能单独赋予 $A$ 任何证成——仅仅假定一位证人就 $A$ 作证，对 $A$ 的概率没有影响。最后，融贯性证成表明：证词结合起来时确实为 $A$ 提供证成。
+  - id: 57
+    source: |-
+      The debate between Lewis and BonJour can be reconstructed as a debate over the joint consistency of these three conditions. BonJour is claiming that the conditions are jointly consistent, and that Coherence Justification follows from Conditional Independence even in the context of Nonfoundationalism, whereas Lewis is rejecting these claims. Olsson (2002) established that if the dispute is couched in these terms, then Lewis was provably right. From Conditional Independence and Nonfoundationalism it follows, via Bayes’s theorem, that
+    step1: |-
+      刘易斯与邦久之间的争论可以重构为关于这三个条件之联合一致性的争论。邦久主张这些条件是联合一致的，而且融贯性证成甚至在非基础主义的语境下也从条件独立中推出；刘易斯则拒绝这些主张。奥尔森（2002）确立：如果争论以此措辞进行，那么刘易斯被证明是对的。由条件独立与非基础主义，经由贝叶斯定理，可得
+    step2: |-
+      刘易斯与邦久之间的争论可以重构为关于这三个条件之联合一致性的争论。邦久主张这些条件是联合一致的，而且融贯性证成甚至在非基础主义的语境下也从条件独立中推出；刘易斯则拒绝这些主张。奥尔森（2002）确立：如果争论以此措辞进行，那么刘易斯被证明是对的。由条件独立与非基础主义，经由贝叶斯定理，可得
+  - id: 58
+    source: |-
+      $$ P(A \mid E_1, E_2) = P(A) $$
+    step1: |-
+      $$ P(A \mid E_1, E_2) = P(A) $$
+    step2: |-
+      $$ P(A \mid E_1, E_2) = P(A) $$
+  - id: 59
+    source: |-
+      so that combining collectively independent but individually useless testimonies, however coherent, fails to give rise to anything useful. (As noted in Olsson, 2005, section 3.5, the matter is somewhat complicated by the fact that Lewis adopted a notion of independence that is weaker than Conditional Independence. Ironically, Lewis’s weaker notion turns out to be compatible with the combination of Nonfoundationalism and Coherence Justification.) This result might not apply to coherence theories in general. Poston (2021) argues that BonJour’s view being provably false in probability theory is an artefact of the probabilistic framework not shared by Thagard’s theory of explanatory coherence.
+    step1: |-
+      因此，把集体独立却各自无用的证词结合起来，无论多么融贯，都无法产生任何有用的东西。（正如奥尔森 2005 年第 3.5 节所指出的，事情因刘易斯采用了一种比条件独立更弱的独立性概念而稍显复杂。具有讽刺意味的是，刘易斯的更弱概念竟与非基础主义与融贯性证成的结合相容。）这一结果可能不适用于一般的融贯理论。波斯坦（2021）论证说，邦久的看法在概率论中可被证明为假，这是概率论框架的产物，而萨加德的解释性融贯理论并不分享这一框架。
+    step2: |-
+      因此，把集体独立却各自无用的证词结合起来，无论多么融贯，都无法产生任何有用的东西。（正如奥尔森 2005 年第 3.5 节所指出的，事情因刘易斯采用了一种比条件独立更弱的独立性概念而稍显复杂。具有讽刺意味的是，刘易斯的更弱概念竟与非基础主义与融贯性证成的结合相容。）这一结果可能不适用于一般的融贯理论。波斯坦（2021）论证说，邦久的看法在概率论中可被证明为假，这是概率论框架的产物，而萨加德的解释性融贯理论并不分享这一框架。
+  - id: 60
+    source: |-
+      Nonfoundationalism should be contrasted with the following condition:
+    step1: |-
+      非基础主义应当与以下条件相对照：
+    step2: |-
+      非基础主义应当与以下条件相对照：
+  - id: 61
+    source: |-
+      **Weak Foundationalism** $P(A \mid E_1) \gt P(A)$ $P(A \mid E_2) \gt P(A)$
+    step1: |-
+      **弱基础主义** $P(A \mid E_1) \gt P(A)$ $P(A \mid E_2) \gt P(A)$
+    step2: |-
+      **弱基础主义** $P(A \mid E_1) \gt P(A)$ $P(A \mid E_2) \gt P(A)$
+  - id: 62
+    source: |-
+      Weak Foundationalism, which states that each testimony confirms at least some justification upon A by itself, does not entail Coherence Justification: it is common knowledge in probability theory that even if two pieces of evidence each support a given conclusion, that support may disappear, or even turn into disconfirmation, if they are combined. However, in the context of Conditional Independence, Weak Foundationalism does imply Coherence Justification. Indeed, the combined testimonies will, in this case, confer more support upon the conclusion than the testimonies did individually. As confirmed by James Van Cleve (2011), the conclusions supported by these considerations are that coherence can boost justification or credibility that is already there without being able to create such justification or credibility from scratch.
+    step1: |-
+      弱基础主义表明每项证词都独自赋予 A 至少某些证成，它并不蕴含融贯性证成：概率论中众所周知，即使两条证据各自支持一个给定结论，如果把它们结合起来，这种支持也可能消失，甚至变成否定支持。然而，在条件独立的语境下，弱基础主义确实蕴含融贯性证成。事实上，在这种情况下，结合起来的证词将比各自单独的证词赋予结论更多支持。正如詹姆斯·范·克利夫（2011）所确认的，这些考量所支持的结论是：融贯能够增强已经存在的证成或可信性，却不能从零开始创造这种证成或可信性。
+    step2: |-
+      弱基础主义表明每项证词都独自赋予 A 至少某些证成，它并不蕴含融贯性证成：概率论中众所周知，即使两条证据各自支持一个给定结论，如果把它们结合起来，这种支持也可能消失，甚至变成否定支持。然而，在条件独立的语境下，弱基础主义确实蕴含融贯性证成。事实上，在这种情况下，结合起来的证词将比各自单独的证词赋予结论更多支持。正如詹姆斯·范·克利夫（2011）所确认的，这些考量所支持的结论是：融贯能够增强已经存在的证成或可信性，却不能从零开始创造这种证成或可信性。
+  - id: 63
+    source: |-
+      There are various ways to save the coherence theory from this probabilistic attack. The most radical strategy would be to dismiss the probabilistic framework as altogether unsuitable for coherentism. Independent reasons for this response can be found in Thagard’s work (e.g., Thagard 2000 and 2005)[^thagard-2000][^thagard-2005]. A less radical approach would be to refrain from any blanket dismissal of probability theory in this context but reject one of the premises of the troublesome proof. This is the strategy recently taken by Huemer, who now considers his 1997 probabilistic refutation of coherentism to be mistaken (Huemer 2011, 39, footnote 6)[^huemer-2011]. While he thinks that Coherentist Justification correctly captures a minimal sense of coherentism, he reports dissatisfaction with both Conditional Independence and Nonfoundationalism (his term for the latter is “Strong Nonfoundationalism”). Huemer now thinks independence, in the intuitive sense, is better captured by the condition $P(E_2 \mid E_1, A) \gt P(E_2 \mid E_1, \neg A)$. Moreover, he takes the condition $P(A \mid E_1, \neg E_2) = P(A)$, or “Weak Nonfoundationalism” in his terminology, to be a more suitable explication of nonfoundationalist intuitions than the condition $P(A \mid E_1) = P(A)$. He goes on to show that they are jointly consistent with Coherentist Justification: there are probability distributions satisfying all three conditions. Thus the immediate threat to coherentism presented by the observed inconsistency of the three original conditions has been neutralized, even though a critic might point out that the defense is incomplete since it has not been shown that Coherence Justification follows from the two new conditions.
+    step1: |-
+      有多种方式可以把融贯理论从这一概率攻击中拯救出来。最激进的策略是拒绝这一概率框架，认为它完全不适用于融贯论。这一回应的独立理由可以在萨加德的工作中找到（例如 Thagard 2000 and 2005）[^thagard-2000][^thagard-2005]。一个不那么激进的做法是：在此语境下不作任何一概而论的拒绝，而是拒绝那个令人困扰的证明的一个前提。这正是休默最近采取的策略，他现在认为自己 1997 年对融贯论的概率反驳是错的（Huemer 2011, 39, footnote 6）[^huemer-2011]。尽管他认为融贯论者的证成正确地把握了融贯论的一个最低限度的意义，他却表示对条件独立与非基础主义二者都不满意（他对后者的用语是“强非基础主义”）。休默现在认为，在直觉意义上，独立性由条件 $P(E_2 \mid E_1, A) \gt P(E_2 \mid E_1, \neg A)$ 更好地把握。此外，他把条件 $P(A \mid E_1, \neg E_2) = P(A)$，或按他的术语称为“弱非基础主义”，视为对非基础主义直觉的更适合的阐释，而非条件 $P(A \mid E_1) = P(A)$。他进而表明它们与融贯论者的证成是联合一致的：存在满足全部三个条件的概率分布。于是，由原三个条件的不一致性所呈现的对融贯论的直接威胁已被化解，尽管批评者可能指出这一辩护并不完整，因为并未证明融贯性证成从这两个新条件中推出。
+    step2: |-
+      有多种方式可以把融贯理论从这一概率攻击中拯救出来。最激进的策略是拒绝这一概率框架，认为它完全不适用于融贯论。这一回应的独立理由可以在萨加德的工作中找到（例如 Thagard 2000 and 2005）[^thagard-2000][^thagard-2005]。一个不那么激进的做法是：在此语境下不作任何一概而论的拒绝，而是拒绝那个令人困扰的证明的一个前提。这正是休默最近采取的策略，他现在认为自己 1997 年对融贯论的概率反驳是错的（Huemer 2011, 39, footnote 6）[^huemer-2011]。尽管他认为融贯论者的证成正确地把握了融贯论的一个最低限度的意义，他却表示对条件独立与非基础主义二者都不满意（他对后者的用语是“强非基础主义”）。休默现在认为，在直觉意义上，独立性由条件 $P(E_2 \mid E_1, A) \gt P(E_2 \mid E_1, \neg A)$ 更好地把握。此外，他把条件 $P(A \mid E_1, \neg E_2) = P(A)$，或按他的术语称为“弱非基础主义”，视为对非基础主义直觉的更适合的阐释，而非条件 $P(A \mid E_1) = P(A)$。他进而表明它们与融贯论者的证成是联合一致的：存在满足全部三个条件的概率分布。于是，由原三个条件的不一致性所呈现的对融贯论的直接威胁已被化解，尽管批评者可能指出这一辩护并不完整，因为并未证明融贯性证成从这两个新条件中推出。
+  - id: 64
+    source: |-
+      Whatever merits Huemer’s new conditions might have, their standing in the literature is hardly comparable to that of the original conditions. Conditional Independence, for instance, is an extremely powerful and intuitive concept which has been put to fruitful use in many areas in philosophy and computer science, the most spectacular example being the theory of Bayesian networks (Pearl, 1985). Similarly, the Nonfoundationalist condition is still the most widely used—and many would say most natural—way of stating, in the language of probability theory, that a testimony fails to support that which is testified. Thus, it would seem that coherentism is saved at the price of disconnecting it from the way in which probability theory is standardly applied. Roche (2010) criticizes Nonfoundationalism from another perspective. In his view, a close reading of BonJour reveals that the latter requires only that the witness reports lack individual credibility in the sense that $P(A \mid E_i) = 0.5$ and not in the sense of $P(A \mid E_i) = P(A)$, which is the condition we called Nonfoundationalism. Since the former does not entail the latter, coherentists, to the extent that they follow BonJour, need not worry about the joint inconsistency of Conditional Independence, Nonfoundationalism and Coherence Justification. Still, this account of what it means to lack initial credibility is non-standard if taken as a general characterization, and it may in the end be more charitable to interpret BonJour as not having subscribed to it. For an elaboration of this point the reader is referred to Olsson (2005, 65), footnote 4. In later works, BonJour has gradually distanced himself his original coherentist position (e.g., BonJour 1989 and 1999)[^bonjour-1989][^bonjour-1999].
+    step1: |-
+      无论休默的新条件有何优点，它们在文献中的地位几乎无法与原条件相比。例如，条件独立是一个极其强大而直观的概念，在哲学与计算机科学的许多领域都得到了富有成果的运用，最惊人的例子是贝叶斯网络理论（Pearl, 1985）。同样，非基础主义条件仍然是——许多人会说最自然的——用概率论语言表述“一项证词未能支持所证之事”的最广泛使用的方式。因此，融贯论似乎是以下列代价得救的：把它与概率论的标准应用方式脱钩。罗奇（2010）从另一个角度批评非基础主义。在他看来，仔细阅读邦久可以发现，后者只要求证人报告在 $P(A \mid E_i) = 0.5$ 的意义上缺乏个别可信性，而非在 $P(A \mid E_i) = P(A)$ 的意义上——后者才是我们称为非基础主义的条件。由于前者不蕴含后者，融贯论者就他们遵循邦久的程度而言，不必担心条件独立、非基础主义与融贯性证成的联合不一致。尽管如此，如果把这种对“缺乏初始可信性”意味什么的说明当作一般刻画，它却是非标准的，而且最终更宽容的做法是把邦久解释为并未接受它。关于这一点的详述，读者可参见奥尔森（2005, 65）脚注 4。在后来的著作中，邦久已逐渐疏远他最初的融贯论立场（例如 BonJour 1989 and 1999）[^bonjour-1989][^bonjour-1999]。
+    step2: |-
+      无论休默的新条件有何优点，它们在文献中的地位几乎无法与原条件相比。例如，条件独立是一个极其强大而直观的概念，在哲学与计算机科学的许多领域都得到了富有成果的运用，最惊人的例子是贝叶斯网络理论（Pearl, 1985）。同样，非基础主义条件仍然是——许多人会说最自然的——用概率论语言表述“一项证词未能支持所证之事”的最广泛使用的方式。因此，融贯论似乎是以下列代价得救的：把它与概率论的标准应用方式脱钩。罗奇（2010）从另一个角度批评非基础主义。在他看来，仔细阅读邦久可以发现，后者只要求证人报告在 $P(A \mid E_i) = 0.5$ 的意义上缺乏个别可信性，而非在 $P(A \mid E_i) = P(A)$ 的意义上——后者才是我们称为非基础主义的条件。由于前者不蕴含后者，融贯论者就他们遵循邦久的程度而言，不必担心条件独立、非基础主义与融贯性证成的联合不一致。尽管如此，如果把这种对“缺乏初始可信性”意味什么的说明当作一般刻画，它却是非标准的，而且最终更宽容的做法是把邦久解释为并未接受它。关于这一点的详述，读者可参见奥尔森（2005, 65）脚注 4。在后来的著作中，邦久已逐渐疏远他最初的融贯论立场（例如 BonJour 1989 and 1999）[^bonjour-1989][^bonjour-1999]。

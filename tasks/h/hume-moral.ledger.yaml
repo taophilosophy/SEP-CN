@@ -1,0 +1,52 @@
+version: 1
+slug: hume-moral
+segments:
+  - id: 1
+    source: |-
+      Hume’s position in ethics, which is based on his empiricist theory of the mind, is best known for asserting four theses: (1) Reason alone cannot be a motive to the will, but rather is the “slave of the passions” (see Section 3) (2) Moral distinctions are not derived from reason (see Section 4). (3) Moral distinctions are derived from the moral sentiments: feelings of approval (esteem, praise) and disapproval (blame) felt by spectators who contemplate a character trait or action (see Section 7). (4) While some virtues and vices are natural (see Section 13), others, including justice, are artificial (see Section 9). There is heated debate about what Hume intends by each of these theses and how he argues for them. He articulates and defends them within the broader context of his metaethics and his ethic of virtue and vice.
+    step1: |-
+      休谟在伦理学上的立场，建立在其经验主义的心灵理论之上，以主张四个论题而最为著名：（1）理性自身不能是意志的动机，而毋宁是“激情的奴隶”（见第 3 节）。（2）道德区分不是派生于理性（见第 4 节）。（3）道德区分是派生于道德情感的：旁观者静观一个品格特质或行动时所感到的赞许（敬重、称赞）与贬斥（责备）之情（见第 7 节）。（4）虽然有些德性与恶习是自然的（见第 13 节），另一些，包括正义，是人为的（见第 9 节）。关于休谟对每个这些论题意图什么、以及他如何论证它们，有激烈的争论。他在他的元伦理学和他的德性与恶习的伦理学的更广阔语境中阐明并辩护它们。
+    step2: |-
+      休谟在伦理学上的立场建立在其经验主义心灵理论之上，其最著名的表述是提出四个论题：（1）理性自身不能成为意志的动机，而毋宁是“激情的奴隶”（见第 3 节）。（2）道德区分并非派生于理性（见第 4 节）。（3）道德区分派生于道德情感：即旁观者静观某一品格特质或行动时所感到的赞许（敬重、称赞）与贬斥（责备）之情（见第 7 节）。（4）有些德性与恶习是自然的（见第 13 节），另一些——包括正义——则是人为的（见第 9 节）。关于休谟对其中每一个论题究竟作何理解、以及他如何为它们辩护，存在着激烈的争论。他在其元伦理学以及德性与恶习的伦理学的更广阔语境中阐述并捍卫这些论题。
+  - id: 2
+    source: |-
+      Hume’s main ethical writings are Book 3 of his *Treatise of Human Nature*, “Of Morals” (which builds on Book 2, “Of the Passions”), his *Enquiry concerning the Principles of Morals*, and some of his *Essays*. In part the moral *Enquiry* simply recasts central ideas from the moral part of the *Treatise* in a more accessible style; but there are important differences. The ethical positions and arguments of the *Treatise* are set out below, noting where the moral *Enquiry* agrees; differences between the *Enquiry* and the *Treatise* are discussed afterwards.
+    step1: |-
+      休谟主要的伦理学著作是《人性论》第三卷“论道德”（它建立在第二卷“论激情”之上）、他的《道德原理探究》，以及他的某些《随笔》。道德《探究》在某种程度上只是以一种更易接近的风格重述《人性论》道德部分的中心观念；但存在重要差异。《人性论》的伦理立场和论证在下面列出，注明道德《探究》在哪些地方同意；《探究》与《人性论》之间的差异在后面讨论。
+    step2: |-
+      休谟主要的伦理学著作是《人性论》第三卷“论道德”（该卷建立在第二卷“论激情”之上）、他的《道德原理探究》，以及他的部分《随笔》。道德《探究》在某种程度上只是以更易读的笔法重述《人性论》道德部分的核心观念；但两者存在重要差异。《人性论》的伦理立场与论证述之如下，并注明道德《探究》在哪些方面与之相符；《探究》与《人性论》的差异随后再作讨论。
+  - id: 3
+    source: |-
+      Hume inherits from his predecessors several controversies about ethics and political philosophy.
+    step1: |-
+      休谟从他的前人那里继承了若干关于伦理学和政治哲学的争论。
+    step2: |-
+      休谟从前人那里继承了几场关于伦理学与政治哲学的争论。
+  - id: 4
+    source: |-
+      One is a question of moral epistemology: how do human beings become aware of, or acquire knowledge or belief about, moral good and evil, right and wrong, duty and obligation? Ethical theorists and theologians of the day held, variously, that moral good and evil are discovered: (a) by reason in some of its uses (Hobbes, Locke, Clarke), (b) by divine revelation (Filmer), (c) by conscience or reflection on one’s (other) impulses (Butler), or (d) by a moral sense: an emotional responsiveness manifesting itself in approval or disapproval (Shaftesbury, Hutcheson). Hume sides with the moral sense theorists: we gain awareness of moral good and evil by experiencing the pleasure of approval and the uneasiness of disapproval when we contemplate a character trait or action from an imaginatively sensitive and unbiased point of view. Hume maintains against the rationalists that, although reason is needed to discover the facts of any concrete situation and the general social impact of a trait of character or a practice over time, reason alone is insufficient to yield a judgment that something is virtuous or vicious. In the last analysis, the facts as known must trigger a response by sentiment or “taste.”
+    step1: |-
+      其中之一是道德认识论的问题：人类如何意识到、或获得关于道德善恶、正误、义务与责任的道德知识或信念？当时的伦理理论家和神学家们以不同方式主张，道德善恶是被发现的：（a）通过理性的某些运用（霍布斯、洛克、克拉克），（b）通过神圣启示（费尔默），（c）通过良知或对自己（其他）冲动的反思（巴特勒），或（d）通过一种道德感：一种表现在赞许或贬斥中的情感反应性（沙夫茨伯里、哈奇森）。休谟站在道德感理论家一边：我们通过在一个想象上敏感而不偏不倚的立场静观一种品格特质或行动时体验到赞许的快乐和贬斥的不安，从而获得对道德善恶的意识。休谟反对理性主义者，主张：虽然需要理性来发现任何具体情境的事实和一种品格特质或一种实践在时间中的一般社会影响，但理性自身不足以产生某个东西是德性或恶习的判断。归根结底，被认识的事实必须通过情感或“趣味”触发一种回应。
+    step2: |-
+      其中之一是道德认识论问题：人类如何意识到、或获得关于道德善恶、正误、义务与责任的信念？当时的伦理理论家与神学家各执一说，认为道德善恶可被（a）通过理性的某些运用（霍布斯、洛克、克拉克）、（b）通过神圣启示（费尔默）、（c）通过良知或对自身（其他）冲动的反思（巴特勒）、（d）通过一种道德感——一种表现在赞许或贬斥中的情感反应性（沙夫茨伯里、哈奇森）——而发现。休谟站在道德感理论家一边：当我们从一种想象上敏锐、不偏不倚的立场静观一种品格特质或行动时，我们体验到赞许的快乐与贬斥的不安，由此获得对道德善恶的意识。休谟反对理性主义者，主张：虽然要发现任何具体情境的事实以及一种品格特质或一种实践长期的社会影响需要理性，但理性自身不足以产生“某物是德性或恶习”的判断。归根结底，被认识的事实必须经由情感或“趣味”触发一种回应。
+  - id: 5
+    source: |-
+      A related but more metaphysical controversy would be stated thus today: what is the source or foundation of moral norms? In Hume’s day this is the question what is the ground of moral obligation (as distinct from what is the faculty for acquiring moral knowledge or belief). Moral rationalists of the period such as Clarke (and in some moods, Hobbes and Locke) argue that moral standards or principles are requirements of reason — that is, that the very rationality of right actions is the ground of our obligation to perform them. Divine voluntarists of the seventeenth and eighteenth centuries such as Samuel Pufendorf claim that moral obligation or requirement, if not every sort of moral standard, is the product of God’s will. The moral sense theorists (Shaftesbury and Hutcheson) and Butler see all requirements to pursue goodness and avoid evil as consequent upon human nature, which is so structured that a particular feature of our consciousness (whether moral sense or conscience) evaluates the rest. Hume sides with the moral sense theorists on this question: it is because we are the kinds of creatures we are, with the dispositions we have for pain and pleasure, the kinds of familial and friendly interdependence that make up our life together, and our approvals and disapprovals of these, that we are bound by moral requirements at all.
+    step1: |-
+      一个相关但更具形而上学色彩的争论，在今天会被这样表述：道德规范的来源或基础是什么？在休谟的时代，这就是如下问题：道德义务的根据是什么（区别于获取道德知识或信念的能力）。当时的道德理性主义者，如克拉克（以及在某些心境下的霍布斯和洛克），主张道德标准或原则是理性的要求——也就是说，正当行为的合理性本身就是我们履行它的义务的根据。十七、十八世纪的神圣意志论者，如塞缪尔·普芬道夫，主张道德义务或要求（如果不是每一种道德标准的话）是上帝意志的产物。道德感理论家（沙夫茨伯里和哈奇森）与巴特勒把追求善、避免恶的一切要求视为依赖于人性，人性被如此构造，以至于我们意识的一个特定特征（无论是道德感还是良知）对其余部分作出评价。休谟在这个问题上站在道德感理论家一边：正是因为我们是我们所是的那种造物，拥有我们所拥有的对于痛苦和快乐的倾向、构成我们共同生活的家庭性与友善性相互依存的类型、以及我们对此的赞许与贬斥，我们才受道德要求的约束。
+    step2: |-
+      一个相关但更具形而上学色彩的争论，在今天会被这样表述：道德规范的来源或基础是什么？在休谟的时代，这就是如下问题：道德义务的根据是什么（区别于获取道德知识或信念的能力）。当时的道德理性主义者，如克拉克（以及在某些心境下的霍布斯和洛克），主张道德标准或原则是理性的要求——也就是说，正当行为的合理性本身就是我们履行它的义务的根据。十七、十八世纪的神圣意志论者，如塞缪尔·普芬道夫，主张道德义务或要求（如果不是每一种道德标准的话）是上帝意志的产物。道德感理论家（沙夫茨伯里和哈奇森）与巴特勒把追求善、避免恶的一切要求视为依赖于人性，人性被如此构造，以至于我们意识的一个特定特征（无论是道德感还是良知）对其余部分作出评价。休谟在这个问题上站在道德感理论家一边：正是因为我们是我们所是的那种造物，拥有我们所拥有的对于痛苦和快乐的倾向、构成我们共同生活的家庭性与友善性相互依存的类型、以及我们对此的赞许与贬斥，我们才受道德要求的约束。
+  - id: 6
+    source: |-
+      Closely connected with the issue of the foundations of moral norms is the question whether moral requirements are natural or conventional. Hobbes and Mandeville see them as conventional, and Shaftesbury, Hutcheson, Locke, and others see them as natural. Hume mocks Mandeville’s contention that the very concepts of vice and virtue are foisted on us by scheming politicians trying to manage us more easily. If there were nothing in our experience and no sentiments in our minds to produce the concept of virtue, Hume says, no lavish praise of heroes could generate it. So to a degree moral requirements have a natural origin. Nonetheless,Hume thinks natural impulses of humanity and dispositions to approve cannot entirely account for our virtue of justice; a correct analysis of that virtue reveals that mankind, an “inventive species,” has cooperatively constructed rules of property and promise. Thus he takes an intermediate position: some virtues are natural, and some are the products of convention.
+    step1: |-
+      与道德规范基础问题密切相关的问题是：道德要求是自然的还是约定的。霍布斯和曼德维尔视其为约定的，而沙夫茨伯里、哈奇森、洛克等人视其为自然的。休谟嘲笑曼德维尔的主张，即恶与德性的概念本身是由试图更方便地统治我们的诡计多端的政客强加给我们的。休谟说，如果我们的经验中没有任何东西、我们的心灵中也没有任何情感能产生德性的概念，那么对英雄的过分颂扬也不能产生它。因此，在某种程度上，道德要求有着自然的起源。尽管如此，休谟认为，人性的自然冲动和赞许的倾向并不能完全说明我们的正义德性；对该德性的正确分析表明，人类这个“有发明能力的物种”合作地建构了财产与承诺的规则。于是他采取一种中间立场：有些德性是自然的，有些则是约定的产物。
+    step2: |-
+      与道德规范基础问题密切相关的问题是：道德要求是自然的还是约定的。霍布斯和曼德维尔视其为约定的，而沙夫茨伯里、哈奇森、洛克等人视其为自然的。休谟嘲笑曼德维尔的主张，即恶与德性的概念本身是由试图更方便地统治我们的诡计多端的政客强加给我们的。休谟说，如果我们的经验中没有任何东西、我们的心灵中也没有任何情感能产生德性的概念，那么对英雄的过分颂扬也不能产生它。因此，在某种程度上，道德要求有着自然的起源。尽管如此，休谟认为，人性的自然冲动和赞许的倾向并不能完全说明我们的正义德性；对该德性的正确分析表明，人类这个“有发明能力的物种”合作地建构了财产与承诺的规则。于是他采取一种中间立场：有些德性是自然的，有些则是约定的产物。
+  - id: 7
+    source: |-
+      Linked with these meta-ethical controversies is the dilemma of understanding the ethical life either as the “ancients” do, in terms of virtues and vices of character, or as the “moderns” do, primarily in terms of principles of duty or natural law. While even so law-oriented a thinker as Hobbes has a good deal to say about virtue, the ethical writers of the seventeenth and eighteenth centuries predominantly favor a rule- or law-governed understanding of morals, giving priority to laws of nature or principles of duty. The chief exception here is the moral sense school, which advocates an analysis of the moral life more like that of the Greek and Hellenistic thinkers, in terms of settled traits of character — although they too find a place for principles in their ethics. Hume explicitly favors an ethic of character along “ancient” lines. Yet he insists on a role for rules of duty within the domain of what he calls the artificial virtues.
+    step1: |-
+      与这些元伦理学争论相连的是这样一个两难：要么像“古人”那样，从品格德性与恶习的角度理解伦理生活；要么像“现代人”那样，主要从义务原则或自然法的角度理解。尽管连霍布斯这样以法律为取向的思想家对德性也多有论述，但十七、十八世纪的伦理作家们主要偏向以规则或法律来支配对道德的理解，给予自然法或义务原则以优先地位。这里主要的例外是道德感学派，它主张一种更像希腊和希腊化思想家那样的道德生活分析，即从固定的品格特质出发——尽管他们在其伦理学中也为原则留有一席之地。休谟明确偏爱一种沿“古代”路线的品格伦理学。然而他坚持，在他所谓的人为德性领域中，义务规则扮演着角色。
+    step2: |-
+      与这些元伦理学争论相连的是这样一个两难：要么像“古人”那样，从品格德性与恶习的角度理解伦理生活；要么像“现代人”那样，主要从义务原则或自然法的角度理解。尽管连霍布斯这样以法律为取向的思想家对德性也多有论述，但十七、十八世纪的伦理作家们主要偏向以规则或法律来支配对道德的理解，给予自然法或义务原则以优先地位。这里主要的例外是道德感学派，它主张一种更像希腊和希腊化思想家那样的道德生活分析，即从固定的品格特质出发——尽管他们在其伦理学中也为原则留有一席之地。休谟明确偏爱一种沿“古代”路线的品格伦理学。然而他坚持，在他所谓的人为德性领域中，义务规则扮演着角色。

@@ -1,0 +1,133 @@
+  - id: 65
+    source: |-
+      We recall that Lewis’s defined coherence, or congruence, not for any old set of proposition but rather for a set of supposed facts asserted. One way to capture this idea is in terms of the notion of a testimonial system introduced in Olsson (2005). A testimonial system $S$ is a set $\{\langle E_1,A_1\rangle ,\ldots ,\langle E_n,A_n\rangle \}$ where $E_i$ is a report to the effect that $A_i$ is true. We will say that $A_i$ is the *content* of report $E_i$. The content of a testimonial system $S = \{\langle E_1,A_1\rangle , \ldots ,\langle E_n,A_n\rangle \}$ is the ordered set of report contents $\langle A_1 ,\ldots ,A_n\rangle$. By the degree of coherence $C(S)$ of such a testimonial system we will mean the degree of coherence *of its content*. Bovens and Hartmann (2003) proposed a similar representation of supposed facts asserted in terms of ordered sets.
+    step1: |-
+      我们记得，刘易斯所定义的融贯（或一致）不是针对任何任意的命题集合，而是针对一组被断定的所谓事实。把握这一观念的一种方式，是借助奥尔森（2005）引入的证言系统概念。一个证言系统 $S$ 是一个集合 $\{\langle E_1,A_1\rangle ,\ldots ,\langle E_n,A_n\rangle \}$，其中 $E_i$ 是关于 $A_i$ 为真的报告。我们说 $A_i$ 是报告 $E_i$ 的*内容*。证言系统 $S = \{\langle E_1,A_1\rangle , \ldots ,\langle E_n,A_n\rangle \}$ 的内容是报告内容的有序集 $\langle A_1 ,\ldots ,A_n\rangle$。所谓这样一个证言系统的融贯度 $C(S)$，我们指的是*其内容*的融贯度。博文斯与哈特曼（2003）提出了一种类似的以有序集表示被断定的所谓事实的方式。
+    step2: |-
+      我们记得，刘易斯所定义的融贯（或一致）不是针对任何任意的命题集合，而是针对一组被断定的所谓事实。把握这一观念的一种方式，是借助奥尔森（2005）引入的证言系统概念。一个证言系统 $S$ 是一个集合 $\{\langle E_1,A_1\rangle ,\ldots ,\langle E_n,A_n\rangle \}$，其中 $E_i$ 是关于 $A_i$ 为真的报告。我们说 $A_i$ 是报告 $E_i$ 的*内容*。证言系统 $S = \{\langle E_1,A_1\rangle , \ldots ,\langle E_n,A_n\rangle \}$ 的内容是报告内容的有序集 $\langle A_1 ,\ldots ,A_n\rangle$。所谓这样一个证言系统的融贯度 $C(S)$，我们指的是*其内容*的融贯度。博文斯与哈特曼（2003）提出了一种类似的以有序集表示被断定的所谓事实的方式。
+  - id: 66
+    source: |-
+      To illustrate these concepts, consider a case in which all witnesses report exactly the same thing, e.g., that John was at the crime scene. That would be a paradigm case of a (highly) coherent set of reports. Now contrast this situation with one in which only one witness reports this. That would be a situation which would intuitively not qualify as coherent. Indeed, it does not even seem meaningful to apply the concept of coherence to a case of just one report (except in the trivial sense in which everything coheres with itself). Letting $A$ be the proposition “John was at the crime scene”, and $E_1 ,\ldots ,E_n$ the corresponding reports, this intuitive difference can be represented as the difference between two testimonial systems: $S = \{\langle E_1,A\rangle ,\ldots ,\langle E_n ,A\rangle \}$ and $S' = \{\langle E_1,A\rangle \}$. If, by contrast, the entities to which coherence applies are represented as simple unstructured sets, the sets of testimonies in question would be given the same formal representation in terms of the set having $A$ as its sole member.
+    step1: |-
+      为了说明这些概念，考虑所有证人都报告完全相同的事情的情形，例如约翰在犯罪现场。那将是（高度）融贯的报告集合的典型情形。现在把这一情形与只有一位证人如此报告的情形相对照。那将是一种在直觉上不配称为融贯的情形。事实上，把融贯概念应用于只有一份报告的情形似乎甚至没有意义（除了每一事物都与自身相融贯这一无关紧要的意义）。设 $A$ 为命题“约翰在犯罪现场”，$E_1 ,\ldots ,E_n$ 为相应报告，这一直觉差异可以表示为两个证言系统之间的差异：$S = \{\langle E_1,A\rangle ,\ldots ,\langle E_n ,A\rangle \}$ 与 $S' = \{\langle E_1,A\rangle \}$。相反，如果融贯所适用的实体被表示为简单的无结构集合，那么所讨论的这些证词集合就会以“以 $A$ 为唯一成员的集合”这种形式得到相同的表示。
+    step2: |-
+      为了说明这些概念，考虑所有证人都报告完全相同的事情的情形，例如约翰在犯罪现场。那将是（高度）融贯的报告集合的典型情形。现在把这一情形与只有一位证人如此报告的情形相对照。那将是一种在直觉上不配称为融贯的情形。事实上，把融贯概念应用于只有一份报告的情形似乎甚至没有意义（除了每一事物都与自身相融贯这一无关紧要的意义）。设 $A$ 为命题“约翰在犯罪现场”，$E_1 ,\ldots ,E_n$ 为相应报告，这一直觉差异可以表示为两个证言系统之间的差异：$S = \{\langle E_1,A\rangle ,\ldots ,\langle E_n ,A\rangle \}$ 与 $S' = \{\langle E_1,A\rangle \}$。相反，如果融贯所适用的实体被表示为简单的无结构集合，那么所讨论的这些证词集合就会以“以 $A$ 为唯一成员的集合”这种形式得到相同的表示。
+  - id: 67
+    source: |-
+      By a (probabilistic) coherence measure, as defined for ordered sets of propositions, we shall mean any numerical measure $C(A_1 ,\ldots ,A_n)$ defined solely in terms of the probability of $A_1 ,\ldots ,A_n$ (and their Boolean combinations) and standard arithmetical operations (Olsson, 2002). This definition makes the degree of coherence of a set of witness reports a function of the probability of the report contents (and their Boolean combinations). Huemer (2011, 45) refers to this consequence as the Content Determination Thesis. We will return to the status of this thesis in section 8, in connection with the recent impossibility results for coherence. A reasonable constraint on any coherence measure is that the degree of coherence of an ordered set should be independent of the particular way in which the content propositions are listed. Thus, $C(\langle A_1,A_2 , \ldots ,A_n\rangle) = C(\langle B_1,B_2 , \ldots ,B_n\rangle)$ whenever $\langle B_1,B_2 , \ldots ,B_n\rangle$ is a permutation of $\langle A_1,A_2 , \ldots ,A_n\rangle$. This is a formal way of stating that all propositions in the relevant set should be treated as epistemic equals. All measures that will be discussed below satisfy this condition.
+    step1: |-
+      所谓（概率性的）融贯度，就命题的有序集所定义者而言，我们指的是任何仅以 $A_1 ,\ldots ,A_n$ 的概率（及其布尔组合）与标准算术运算来定义的数值测度 $C(A_1 ,\ldots ,A_n)$（Olsson, 2002）。这一定义使一组证人报告的融贯度成为报告内容（及其布尔组合）的概率的函数。休默（2011, 45）把这一后承称为内容决定论题。我们将在第 8 节结合近期关于融贯的不可行性结果回到这一论题的地位。对任何融贯度而言，一个合理的约束是：一个有序集的融贯度应当独立于内容命题被列举的特定方式。于是，只要 $\langle B_1,B_2 , \ldots ,B_n\rangle$ 是 $\langle A_1,A_2 , \ldots ,A_n\rangle$ 的一个排列，就有 $C(\langle A_1,A_2 , \ldots ,A_n\rangle) = C(\langle B_1,B_2 , \ldots ,B_n\rangle)$。这是把“相关集合中的全部命题都应被视为认识论上的平等者”这一主张加以形式化的方式。下面将讨论的所有测度都满足这一条件。
+    step2: |-
+      所谓（概率性的）融贯度，就命题的有序集所定义者而言，我们指的是任何仅以 $A_1 ,\ldots ,A_n$ 的概率（及其布尔组合）与标准算术运算来定义的数值测度 $C(A_1 ,\ldots ,A_n)$（Olsson, 2002）。这一定义使一组证人报告的融贯度成为报告内容（及其布尔组合）的概率的函数。休默（2011, 45）把这一后承称为内容决定论题。我们将在第 8 节结合近期关于融贯的不可行性结果回到这一论题的地位。对任何融贯度而言，一个合理的约束是：一个有序集的融贯度应当独立于内容命题被列举的特定方式。于是，只要 $\langle B_1,B_2 , \ldots ,B_n\rangle$ 是 $\langle A_1,A_2 , \ldots ,A_n\rangle$ 的一个排列，就有 $C(\langle A_1,A_2 , \ldots ,A_n\rangle) = C(\langle B_1,B_2 , \ldots ,B_n\rangle)$。这是把“相关集合中的全部命题都应被视为认识论上的平等者”这一主张加以形式化的方式。下面将讨论的所有测度都满足这一条件。
+  - id: 68
+    source: |-
+      Our starting point will be an attempt to identify the degree of coherence of a set with its joint probability:
+    step1: |-
+      我们的出发点是试图把一个集合的融贯度等同于它的联合概率：
+    step2: |-
+      我们的出发点是试图把一个集合的融贯度等同于它的联合概率：
+  - id: 69
+    source: |-
+      $$ C_0 (A,B) = P(A\wedge B) $$
+    step1: |-
+      $$ C_0 (A,B) = P(A\wedge B) $$
+    step2: |-
+      $$ C_0 (A,B) = P(A\wedge B) $$
+  - id: 70
+    source: |-
+      However, it is easily seen that this is not a plausible proposal. Consider the following two cases. Case 1: Two witnesses point out the same person as the perpetrator, John, say. Case 2: One witness states that John or James did it, and the other witness that John or Mary did it. Since the joint probability is the same in both cases, equaling the probability that John did it, they yield the same degree of coherence as measured by $C_0$. And yet, the reports in the first case are more coherent from a presystematic standpoint because the witnesses are in complete agreement.
+    step1: |-
+      然而，不难看出这不是一个合理的主张。考虑以下两种情形。情形一：两位证人指出同一人为作案者，例如约翰。情形二：一位证人陈述约翰或詹姆斯作案，另一位证人陈述约翰或玛丽作案。由于两种情形的联合概率相同，都等于约翰作案的概率，它们按 $C_0$ 度量会产生相同的融贯度。然而，从系统前立场看，第一种情形的报告更融贯，因为两位证人完全一致。
+    step2: |-
+      然而，不难看出这不是一个合理的主张。考虑以下两种情形。情形一：两位证人指出同一人为作案者，例如约翰。情形二：一位证人陈述约翰或詹姆斯作案，另一位证人陈述约翰或玛丽作案。由于两种情形的联合概率相同，都等于约翰作案的概率，它们按 $C_0$ 度量会产生相同的融贯度。然而，从系统前立场看，第一种情形的报告更融贯，因为两位证人完全一致。
+  - id: 71
+    source: |-
+      One way of handling this example would be to define coherence as relative overlap, in the following sense (Glass 2002, Olsson 2002)[^glass-2002][^olsson-2002]:
+    step1: |-
+      处理这一例子的一种方式是以下述意义把融贯定义为相对重叠（Glass 2002, Olsson 2002）[^glass-2002][^olsson-2002]：
+    step2: |-
+      处理这一例子的一种方式是以下述意义把融贯定义为相对重叠（Glass 2002, Olsson 2002）[^glass-2002][^olsson-2002]：
+  - id: 72
+    source: |-
+      $$ C_1 (A,B) = \frac{P(A\wedge B)} {P(A\vee B)} $$
+    step1: |-
+      $$ C_1 (A,B) = \frac{P(A\wedge B)} {P(A\vee B)} $$
+    step2: |-
+      $$ C_1 (A,B) = \frac{P(A\wedge B)} {P(A\vee B)} $$
+  - id: 73
+    source: |-
+      $C_1 (A,B)$, which also takes on values between 0 and 1, measures how much of the total probability mass assigned to either $A$ or $B$ falls into their intersection. The degree of coherence is 0 if and only if $P(A\wedge B) = 0$, i.e., just in case $A$ and $B$ do not overlap at all, and it is 1 if and only if $P(A\wedge B) = P(A\vee B)$, i.e., just in case $A$ and $B$ coincide. The measure is straightforwardly generalizable:
+    step1: |-
+      $C_1 (A,B)$ 也在 0 与 1 之间取值，它度量的是赋予 $A$ 或 $B$ 的总概率质量中有多少落入它们的交集。融贯度为 0，当且仅当 $P(A\wedge B) = 0$，即 $A$ 与 $B$ 完全不相交；融贯度为 1，当且仅当 $P(A\wedge B) = P(A\vee B)$，即 $A$ 与 $B$ 重合。这一测度可以直接推广：
+    step2: |-
+      $C_1 (A,B)$ 也在 0 与 1 之间取值，它度量的是赋予 $A$ 或 $B$ 的总概率质量中有多少落入它们的交集。融贯度为 0，当且仅当 $P(A\wedge B) = 0$，即 $A$ 与 $B$ 完全不相交；融贯度为 1，当且仅当 $P(A\wedge B) = P(A\vee B)$，即 $A$ 与 $B$ 重合。这一测度可以直接推广：
+  - id: 74
+    source: |-
+      $$ C_1 (A_1 ,\ldots A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)} {P(A_1\vee \ldots \vee A_n)} $$
+    step1: |-
+      $$ C_1 (A_1 ,\ldots A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)} {P(A_1\vee \ldots \vee A_n)} $$
+    step2: |-
+      $$ C_1 (A_1 ,\ldots A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)} {P(A_1\vee \ldots \vee A_n)} $$
+  - id: 75
+    source: |-
+      This measure assigns the same coherence value, namely 1, to all cases of total agreement, regardless of the number of witnesses that are involved. Against this it may be objected that agreement among the many is more coherent than agreement among the few, an intuition that can be accounted for by the following alternative measure introduced by Shogenji (1999):
+    step1: |-
+      这一测度对所有完全一致的情形都赋予相同的融贯值，即 1，无论涉及多少位证人。对此可以反驳说，多数人之间的一致比少数人之间的一致更融贯；这一直觉可以由将司（1999）引入的以下替代测度来说明：
+    step2: |-
+      这一测度对所有完全一致的情形都赋予相同的融贯值，即 1，无论涉及多少位证人。对此可以反驳说，多数人之间的一致比少数人之间的一致更融贯；这一直觉可以由将司（1999）引入的以下替代测度来说明：
+  - id: 76
+    source: |-
+      $$ C_2 (A,B) = \frac{P(A \mid B)}{P(A)} = \frac{P(A\wedge B)}{P(A)\times P(B)} $$
+    step1: |-
+      $$ C_2 (A,B) = \frac{P(A \mid B)}{P(A)} = \frac{P(A\wedge B)}{P(A)\times P(B)} $$
+    step2: |-
+      $$ C_2 (A,B) = \frac{P(A \mid B)}{P(A)} = \frac{P(A\wedge B)}{P(A)\times P(B)} $$
+  - id: 77
+    source: |-
+      or, as Shogenji proposes to generalize it,
+    step1: |-
+      或者，按将司提出的推广方式，
+    step2: |-
+      或者，按将司提出的推广方式，
+  - id: 78
+    source: |-
+      $$ C_2 (A_1 ,\ldots ,A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)}{P(A_1)\times \ldots \times P(A_n)} $$
+    step1: |-
+      $$ C_2 (A_1 ,\ldots ,A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)}{P(A_1)\times \ldots \times P(A_n)} $$
+    step2: |-
+      $$ C_2 (A_1 ,\ldots ,A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)}{P(A_1)\times \ldots \times P(A_n)} $$
+  - id: 79
+    source: |-
+      It is easy to see that this measure is sensitive, in the way we suggested, to the number of reports in cases of total agreement: $n$ agreeing reports correspond to a coherence value of $\bfrac{1}{P(A)^{n-1}}$, meaning that as $n$ approaches infinity, so does the degree of coherence. Like the other measures, $C_2 (A,B)$ equals 0 if and only if $A$ and $B$ do not overlap. An alternative generalization of the Shogenji measure is presented in Shupbach (2011). However, whatever its philosophical merits, Schupbach’s proposal is considerably more complex than Shogenji’s original suggestion. Akiba (2000) and Moretti and Akiba (2007) raise a number of worries for the Shogenji measure and for probabilistic measures of coherence generally but they seem to be predicated on the assumption that the concept of coherence is interestingly applicable to unordered sets of propositions, an assumption that we found reason to question above.
+    step1: |-
+      不难看出，在完全一致的情形下，这一测度如我们所提示的那样对报告的数量敏感：$n$ 份一致的报告对应融贯值 $\bfrac{1}{P(A)^{n-1}}$，这意味着随着 $n$ 趋于无穷大，融贯度也趋于无穷大。与其他测度一样，$C_2 (A,B)$ 等于 0，当且仅当 $A$ 与 $B$ 不相交。将司测度的一个替代推广见舒普巴赫（2011）。然而，无论其哲学优点如何，舒普巴赫的主张都远比将司最初的建议复杂。秋叶（2000）与莫雷蒂和秋叶（2007）对将司测度以及一般的概率性融贯测度提出了若干担忧，但它们似乎以这样一个假定为前提：融贯概念可有趣地适用于无序的命题集合——而我们在上面已找到质疑这一假定的理由。
+    step2: |-
+      不难看出，在完全一致的情形下，这一测度如我们所提示的那样对报告的数量敏感：$n$ 份一致的报告对应融贯值 $\bfrac{1}{P(A)^{n-1}}$，这意味着随着 $n$ 趋于无穷大，融贯度也趋于无穷大。与其他测度一样，$C_2 (A,B)$ 等于 0，当且仅当 $A$ 与 $B$ 不相交。将司测度的一个替代推广见舒普巴赫（2011）。然而，无论其哲学优点如何，舒普巴赫的主张都远比将司最初的建议复杂。秋叶（2000）与莫雷蒂和秋叶（2007）对将司测度以及一般的概率性融贯测度提出了若干担忧，但它们似乎以这样一个假定为前提：融贯概念可有趣地适用于无序的命题集合——而我们在上面已找到质疑这一假定的理由。
+  - id: 80
+    source: |-
+      $C_1$ and $C_2$ can also be contrasted with regard to their sensitivity to the specificity of the propositions involved. Consider two cases. The first case involves two witnesses both claiming that John committed the crime. The second case involves two witnesses both making the weaker disjunctive claim that John, Paul or Mary committed the crime. Which pair of witnesses are delivering the more coherent set? One way to reason is as follows. Since both cases involve fully agreeing testimonies, the degree of coherence should be the same. This is also the result we get if we apply $C_1$. But one could maintain instead that since the first two witnesses agree on something more specific—a particular individual’s guilt—the degree of coherence should be higher. This is what we get if we apply $C_2$. In an attempt at reconciliation, Olsson (2002) suggested that $C_1$ and $C_2$ may capture two different concepts of coherence. While $C_1$ measures the degree of agreement of a set, $C_2$ is more plausible as a measure of how *striking* the agreement is. See Olsson (2022) for an extended discussion of this point.
+    step1: |-
+      $C_1$ 与 $C_2$ 也可以在它们对所涉命题之特殊性的敏感度上加以对照。考虑两种情形。第一种情形涉及两位证人都主张约翰犯了罪。第二种情形涉及两位证人都作出更弱的选言主张：约翰、保罗或玛丽犯了罪。哪一对证人给出了更融贯的集合？一种推理方式如下：既然两种情形都涉及完全一致的证词，融贯度应当相同。这也是我们应用 $C_1$ 所得到的结果。但人们可以转而主张：既然前两位证人在更特殊的东西——某个特定个体的罪行——上一致，融贯度应当更高。这正是我们应用 $C_2$ 所得到的结果。为了调和，奥尔森（2002）提出 $C_1$ 与 $C_2$ 可能把握了两种不同的融贯概念：$C_1$ 度量一个集合的一致程度，而 $C_2$ 作为对一致有多*惊人*的度量更为合理。关于这一点的详细讨论，见奥尔森（2022）。
+    step2: |-
+      $C_1$ 与 $C_2$ 也可以在它们对所涉命题之特殊性的敏感度上加以对照。考虑两种情形。第一种情形涉及两位证人都主张约翰犯了罪。第二种情形涉及两位证人都作出更弱的选言主张：约翰、保罗或玛丽犯了罪。哪一对证人给出了更融贯的集合？一种推理方式如下：既然两种情形都涉及完全一致的证词，融贯度应当相同——这也是我们应用 $C_1$ 所得到的结果。但人们可以转而主张：既然前两位证人在更特殊的东西——某个特定个体的罪行——上一致，融贯度应当更高，这正是我们应用 $C_2$ 所得到的结果。为了调和，奥尔森（2002）提出 $C_1$ 与 $C_2$ 可能把握了两种不同的融贯概念：$C_1$ 度量一个集合的一致程度，而 $C_2$ 作为对一致有多*惊人*的度量更为合理。关于这一点的详细讨论，见奥尔森（2022）。
+  - id: 81
+    source: |-
+      Recently, however, Koscholke and Schippers (2015) have noted a counterintuitive feature of $C_1$: that it is impossible to increase a set’s degree of coherence by adding further propositions to the set. They also show that according to a more sophisticated relative overlap measure which avoids this issue no set’s degree of coherence exceeds the degree of coherence of its maximally coherent subset. On the other hand, they also prove in a later article, in collaboration with Stegman, that there is a further relative overlap measure which avoids both these problems and which therefore in their view re-establishes relative overlap as a candidate for a proper formalization of coherence (Koscholke, Schippers and Stegman, 2019).
+    step1: |-
+      然而最近，科朔尔克与席佩斯（2015）指出了 $C_1$ 的一个反直觉特征：通过向集合添加更多命题来提高一个集合的融贯度是不可能的。他们还表明，按照一种避免这一问题的更精细的相对重叠测度，没有任何集合的融贯度会超过其最大融贯子集的融贯度。另一方面，他们在后来与斯特格曼合作的文章中还证明，存在一种避免了这两个问题的进一步相对重叠测度，因此在他们看来，它重新确立相对重叠作为融贯之恰当形式化的候选（Koscholke, Schippers and Stegman, 2019）。
+    step2: |-
+      然而最近，科朔尔克与席佩斯（2015）指出了 $C_1$ 的一个反直觉特征：通过向集合添加更多命题来提高一个集合的融贯度是不可能的。他们还表明，按照一种避免这一问题的更精细的相对重叠测度，没有任何集合的融贯度会超过其最大融贯子集的融贯度。另一方面，他们在后来与斯特格曼合作的文章中还证明，存在一种避免了这两个问题的进一步相对重叠测度，因此在他们看来，它重新确立相对重叠作为融贯之恰当形式化的候选（Koscholke, Schippers and Stegman, 2019）。
+  - id: 82
+    source: |-
+      A further much discussed measure is that proposed in Fitelson (2003). It is based on the intuition that the degree of coherence of a set $E$ should be “a quantitative, probabilistic generalization of the (deductive) logical coherence of $E$” (ibid., 194). Fitelson takes it to be a consequence of this idea that a maximum (constant) degree of coherence is attained if the propositions in $E$ are all logically equivalent (and consistent). This is in accordance with $C_1$ but not with $C_2$, which as we saw is sensitive to the specificity (prior probability) of the propositions involved. Fitelson, who approached the subject from the standpoint of confirmation theory, proposed a complex coherence measure based on Kemeny and Oppenheim’s (1952) measure of factual support. A further innovative idea is that Fitelson extends this measure to take into account support relations holding between *all* subsets in the set $E$, whereas Lewis, we recall, only considered the support relation holding between one element and the rest. The degree of coherence of a set, finally, is defined as the mean support among the subsets of $E$. An alleged counterexample to this measure can be found in Siebel (2004) and criticisms and proposed amendments in Meijs (2006). An extended critique of “subset measures”, i.e. measures that require extensive computation of support relations between subsets, can be found in Olsson (2022). Olsson’s criticism focuses on problems of epistemic access (computational complexity), probability assessment and excessive support. The reader may wish to consult Bovens and Hartmann (2003), Douven and Meijs (2007), Roche (2013a), Shippers (2014a), Koscholke (2016) and Hartmann and Trpin (forthcoming) for further coherence measures and how they fare in relation to test cases in the literature, and Koscholke and Jekel (2017) for an empirical study of coherence assessments drawing on similar examples. The latter study indicates that the measures by Douven and Meijs and by Roche are more in line with intuitive judgement than other established measures. Olsson’s 2022 treatise is an updated defense of the Glass-Olsson measure ($C_1$), not as a conceptual analysis but as an explication in the sense of Carnap (1950). Finally, some authors have applied coherence measures to inconsistent sets, e.g., Schippers (2014b) and Schippers and Siebel (2015).
+    step1: |-
+      另一个广受讨论的测度是菲特尔森（2003）提出的。它基于这一直觉：一个集合 $E$ 的融贯度应当是“$E$ 的（演绎的）逻辑融贯性的一个定量的、概率性的推广”（ibid., 194）。菲特尔森认为，这一观念的一个后承是：如果 $E$ 中的命题全部逻辑等价（且一致），就达到一个极大（恒定）的融贯度。这与 $C_1$ 一致，却不与 $C_2$ 一致——正如我们看到的，$C_2$ 对所涉命题的特殊性（先验概率）敏感。菲特尔森从确认理论的立场接近这一主题，提出了一种基于凯梅尼与奥本海姆（1952）的事实支持测度的复杂融贯测度。另一个创新之处在于，菲特尔森把这一测度扩展到考虑集合 $E$ 中*所有*子集之间的支持关系，而我们记得，刘易斯只考虑一个元素与其余元素之间的支持关系。最后，一个集合的融贯度被定义为 $E$ 的各子集之间的平均支持。这一测度的一个所谓反例见西贝尔（2004），批评与修正建议见迈斯（2006）。对“子集测度”即要求大量计算子集间支持关系的测度的一个详细批评，见奥尔森（2022）。奥尔森的批评聚焦于认知可及问题（计算复杂性）、概率评估与过度支持。读者可参见博文斯与哈特曼（2003）、杜文与迈斯（2007）、罗奇（2013a）、席佩斯（2014a）、科朔尔克（2016）与哈特曼和特平（即将出版），以了解进一步融贯测度及其在文献测试案例中的表现；并参见科朔尔克与耶克尔（2017）关于利用类似例子的融贯评估的实证研究。后一项研究表明，杜文与迈斯以及罗奇的测度比其他既有测度更符合直觉判断。奥尔森 2022 年的专论是对格拉斯—奥尔森测度（$C_1$）的更新辩护，不是作为概念分析，而是作为卡尔纳普（1950）意义上的阐释。最后，一些作者把融贯测度应用于不一致的集合，例如席佩斯（2014b）与席佩斯和西贝尔（2015）。
+    step2: |-
+      另一个广受讨论的测度是菲特尔森（2003）提出的。它基于这一直觉：一个集合 $E$ 的融贯度应当是“$E$ 的（演绎的）逻辑融贯性的一个定量的、概率性的推广”（ibid., 194）。菲特尔森认为，这一观念的一个后承是：如果 $E$ 中的命题全部逻辑等价（且一致），就达到一个极大（恒定）的融贯度。这与 $C_1$ 一致，却不与 $C_2$ 一致——正如我们看到的，$C_2$ 对所涉命题的特殊性（先验概率）敏感。菲特尔森从确认理论的立场接近这一主题，提出了一种基于凯梅尼与奥本海姆（1952）的事实支持测度的复杂融贯测度。另一个创新之处在于，菲特尔森把这一测度扩展到考虑集合 $E$ 中*所有*子集之间的支持关系，而我们记得，刘易斯只考虑一个元素与其余元素之间的支持关系。最后，一个集合的融贯度被定义为 $E$ 的各子集之间的平均支持。这一测度的一个所谓反例见西贝尔（2004），批评与修正建议见迈斯（2006）。对“子集测度”即要求大量计算子集间支持关系的测度的一个详细批评，见奥尔森（2022）。奥尔森的批评聚焦于认知可及问题（计算复杂性）、概率评估与过度支持。读者可参见博文斯与哈特曼（2003）、杜文与迈斯（2007）、罗奇（2013a）、席佩斯（2014a）、科朔尔克（2016）与哈特曼和特平（即将出版），以了解进一步融贯测度及其在文献测试案例中的表现；并参见科朔尔克与耶克尔（2017）关于利用类似例子的融贯评估的实证研究。后一项研究表明，杜文与迈斯以及罗奇的测度比其他既有测度更符合直觉判断。奥尔森 2022 年的专论是对格拉斯—奥尔森测度（$C_1$）的更新辩护，不是作为概念分析，而是作为卡尔纳普（1950）意义上的阐释。最后，一些作者把融贯测度应用于不一致的集合，例如席佩斯（2014b）与席佩斯和西贝尔（2015）。
+  - id: 83
+    source: |-
+      It is fair to say that coherence theorists have yet to reach anything like consensus on how best to define coherence in probabilistic terms. Nevertheless, the debate so far has given rise to a much more fine-grained understanding of what the options are and what consequences they have. The probably most notable result of this debate outside philosophy is the application of probabilistic coherence measures to “topic coherence” in AI, where a topic is viewed as a set of keywords giving the gist of a text (e.g. a blog entry or a newspaper article). Newman et al. (2010) are credited for the idea of the coherence of a topic being a significant factor aiding understanding. However, their article does not refer to the philosophical literature on coherence measures. Ideally, evaluating the coherence of a topic should be automatic. Röder et al. (2015) suggested using known probabilistic coherence measures for this purpose, taking as their point of departure the measures proposed by Bovens and Hartmann (2003), Douven and Meijs (2007), Fitelson (2003), Olsson (2002) and Shogenji (1999). Röder et al. proceed to define the concept of a coherence measures abstractly, and they show that a new measure they construct performs better (in terms of giving rise to a stronger correlation with user assessments of topic coherence) than the above known measures. Returning to philosophy, some quite surprising conclusions can be drawn for epistemological purposes even without philosophers agreeing on how to measure coherence: all we need to assume in order to prove that no coherence measure can be truth conducive, in a sense to be explained, is that those measures respect the aforementioned Content Determination Thesis.
+    step1: |-
+      可以公正地说，融贯论者尚未就如何以概率术语最好地定义融贯达成任何共识。尽管如此，迄今的争论已使人们更精细地理解有哪些选项及其后果。这一争论在哲学之外最显著的成果，也许是概率性融贯测度在人工智能中“主题融贯”上的应用，其中主题被视为给出文本要旨的一组关键词（例如一篇博客或一篇报纸文章）。纽曼等人（2010）因提出“主题的融贯是促进理解的一个重要因素”这一观念而受到赞誉。然而，他们的文章并未参考关于融贯测度的哲学文献。理想情况下，评估一个主题的融贯应当是自动的。勒德等人（2015）建议为此目的使用已知的概率性融贯测度，其出发点是博文斯与哈特曼（2003）、杜文与迈斯（2007）、菲特尔森（2003）、奥尔森（2002）与将司（1999）提出的测度。勒德等人进而抽象地定义了融贯测度的概念，并表明他们所构造的一个新测度表现优于上述已知测度（在与用户对主题融贯之评估产生更强相关方面）。回到哲学，即使哲学家们未就如何度量融贯达成一致，也能为认识论目的得出一些相当令人惊讶的结论：为了证明没有融贯测度能导向真理（其意义后文说明），我们只需假定这些测度尊重前述内容决定论题。
+    step2: |-
+      可以公正地说，融贯论者尚未就如何以概率术语最好地定义融贯达成任何共识。尽管如此，迄今的争论已使人们更精细地理解有哪些选项及其后果。这一争论在哲学之外最显著的成果，也许是概率性融贯测度在人工智能中“主题融贯”上的应用，其中主题被视为给出文本要旨的一组关键词（例如一篇博客或一篇报纸文章）。纽曼等人（2010）因提出“主题的融贯是促进理解的一个重要因素”这一观念而受到赞誉。然而，他们的文章并未参考关于融贯测度的哲学文献。理想情况下，评估一个主题的融贯应当是自动的。勒德等人（2015）建议为此目的使用已知的概率性融贯测度，其出发点是博文斯与哈特曼（2003）、杜文与迈斯（2007）、菲特尔森（2003）、奥尔森（2002）与将司（1999）提出的测度。勒德等人进而抽象地定义了融贯测度的概念，并表明他们所构造的一个新测度表现优于上述已知测度（在与用户对主题融贯之评估产生更强相关方面）。回到哲学，即使哲学家们未就如何度量融贯达成一致，也能为认识论目的得出一些相当令人惊讶的结论：为了证明没有融贯测度能导向真理（其意义后文说明），我们只需假定这些测度尊重前述内容决定论题。

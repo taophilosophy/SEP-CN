@@ -1,0 +1,158 @@
+  - id: 84
+    source: |-
+      Peter Klein and Ted Warfield’s 1994 paper in *Analysis* initiated a lively and instructive debate on the relationship between coherence and probability (e.g., Klein and Warfield 1994 and 1996, Merricks 1995, Shogenji 1999, Cross 1999, Akiba 2000, Olsson 2001, Fitelson 2003 and Siebel 2004)[^akiba-2000][^cross-1999][^fitelson-2003][^klein-1994][^klein-1996][^merricks-1995][^olsson-2001][^shogenji-1999][^siebel-2004]. According to Klein and Warfield, just because one set of beliefs is more coherent than another set, this does not mean that the first set is more likely to be true. On the contrary, a higher degree of coherence can, so they claimed, be associated with a lower probability of the whole set. The idea behind their reasoning is simple: We can often raise the coherence of an informational set by adding more information that explains the information already in the set. But as more genuinely new information is added, the probability that all the elements of the set are true is correspondingly diminished. This, Klein and Warfield wrote, follows from the well-known inverse relationship between probability and informational content. They concluded that coherence is not truth conducive.
+    step1: |-
+      彼得·克莱因与特德·沃菲尔德 1994 年在《分析》（*Analysis*）上发表的论文，引发了一场关于融贯与概率之关系的生动而富有教益的争论（例如 Klein and Warfield 1994 and 1996, Merricks 1995, Shogenji 1999, Cross 1999, Akiba 2000, Olsson 2001, Fitelson 2003 and Siebel 2004）[^akiba-2000][^cross-1999][^fitelson-2003][^klein-1994][^klein-1996][^merricks-1995][^olsson-2001][^shogenji-1999][^siebel-2004]。按照克莱因与沃菲尔德，一个信念集合比另一个集合更融贯，并不表示第一个集合更可能为真。相反，他们声称，更高的融贯度可以与整个集合更低的概率相关联。他们推理背后的观念很简单：我们常常可以通过添加更多信息来提高一个信息集合的融贯，这些新信息解释集合中已有的信息。但随着真正新的信息被添加，集合所有元素都为真的概率相应地降低。克莱因与沃菲尔德写道，这来自概率与信息内容之间众所周知的逆关系。他们得出结论：融贯不导向真理。
+    step2: |-
+      彼得·克莱因与特德·沃菲尔德 1994 年在《分析》（*Analysis*）上发表的论文，引发了一场关于融贯与概率之关系的生动而富有教益的争论（例如 Klein and Warfield 1994 and 1996, Merricks 1995, Shogenji 1999, Cross 1999, Akiba 2000, Olsson 2001, Fitelson 2003 and Siebel 2004）[^akiba-2000][^cross-1999][^fitelson-2003][^klein-1994][^klein-1996][^merricks-1995][^olsson-2001][^shogenji-1999][^siebel-2004]。按照克莱因与沃菲尔德，一个信念集合比另一个集合更融贯，并不表示第一个集合更可能为真。相反，他们声称，更高的融贯度可以与整个集合更低的概率相关联。他们推理背后的观念很简单：我们常常可以通过添加更多信息来提高一个信息集合的融贯，这些新信息解释集合中已有的信息。但随着真正新的信息被添加，集合所有元素都为真的概率相应地降低。克莱因与沃菲尔德写道，这来自概率与信息内容之间众所周知的逆关系。他们得出结论：融贯不导向真理。
+  - id: 85
+    source: |-
+      Much in the spirit of C. I. Lewis, Klein and Warfield illustrated their argument referring to a detective story (the so-called “Dunnit example”). It turns out that this example is unnecessarily complex and that the main point can be illustrated by reference to a simpler case (borrowed from computer science where it is used to exemplify the concept of non-monotonic inference). Suppose that you are told by one source, Jane, that Tweety is a bird and by another source, Carl, that Tweety cannot fly. The resulting information set $S = \langle$“Tweety is a bird”, “Tweety cannot fly”$\rangle$ is not particularly coherent from an intuitive standpoint. Nor is it coherent from the point of view of Lewis’s definition: assuming one of the items true decreases the probability of the other. At this point, it would be reasonable to conjecture that either Jane or Carl is not telling the truth. However, upon consulting a further source, Rick, we receive the information that Tweety is a penguin. The new set $S' = \langle$“Tweety is a bird”, “Tweety cannot fly”, “Tweety is a penguin”$\rangle$ is surely more coherent than $S$. In explaining the previous anomaly, the information supplied by Rick contributes to the explanatory coherence of the set.
+    step1: |-
+      大体上沿袭 C. I. 刘易斯的精神，克莱因与沃菲尔德借助一个侦探故事（所谓的“邓尼特例”）来说明他们的论证。结果证明这一例子不必要的复杂，主要论点可以参照一个更简单的例子来说明（借自计算机科学，在那里它被用来例示非单调推理概念）。假设一个来源简告诉你图伊蒂（Tweety）是一只鸟，另一个来源卡尔告诉你图伊蒂不能飞。所得到的信息集合 $S = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”$\rangle$ 从直觉立场看并不特别融贯。从刘易斯定义的角度看它也不融贯：假定其中一项为真会降低另一项的概率。此时，合理的猜测是简或卡尔没有说真话。然而，在咨询进一步来源里克后，我们得到图伊蒂是一只企鹅的信息。新集合 $S' = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”，“图伊蒂是一只企鹅”$\rangle$ 肯定比 $S$ 更融贯。在解释先前反常时，里克提供的信息贡献于该集合的解释性融贯。
+    step2: |-
+      大体上沿袭 C. I. 刘易斯的精神，克莱因与沃菲尔德借助一个侦探故事（所谓的“邓尼特例”）来说明他们的论证。结果证明这一例子不必要的复杂，主要论点可以参照一个更简单的例子来说明（借自计算机科学，在那里它被用来例示非单调推理概念）。假设一个来源简告诉你图伊蒂（Tweety）是一只鸟，另一个来源卡尔告诉你图伊蒂不能飞。所得到的信息集合 $S = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”$\rangle$ 从直觉立场看并不特别融贯；从刘易斯定义的角度看它也不融贯：假定其中一项为真会降低另一项的概率。此时，合理的猜测是简或卡尔没有说真话。然而，在咨询进一步来源里克后，我们得到图伊蒂是一只企鹅的信息。新集合 $S' = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”，“图伊蒂是一只企鹅”$\rangle$ 肯定比 $S$ 更融贯。在解释先前反常时，里克提供的信息贡献于该集合的解释性融贯。
+  - id: 86
+    source: |-
+      The new enlarged set $S'$ is more coherent than the original smaller set $S$. And yet $S$, being less informative, is more probable than $S'$: the conjunction of all the propositions in $S$ is more probable than the conjunction of all the propositions in $S'$. Hence, more coherence does not necessarily imply higher likelihood of truth in the sense of higher joint probability. Klein and Warfield seem to be right: coherence is not truth conducive.
+    step1: |-
+      新的扩大集合 $S'$ 比原来的较小集合 $S$ 更融贯。然而 $S$ 因信息更少而比 $S'$ 更可能：$S$ 中全部命题的合取比 $S'$ 中全部命题的合取更可能。因此，更多融贯并不必然意味着更高联合概率意义上的更高为真可能。克莱因与沃菲尔德似乎是对的：融贯不导向真理。
+    step2: |-
+      新的扩大集合 $S'$ 比原来的较小集合 $S$ 更融贯。然而 $S$ 因信息更少而比 $S'$ 更可能：$S$ 中全部命题的合取比 $S'$ 中全部命题的合取更可能。因此，更多融贯并不必然意味着更高联合概率意义上的更高为真可能。克莱因与沃菲尔德似乎是对的：融贯不导向真理。
+  - id: 87
+    source: |-
+      But, as will soon be clear, this conclusion is premature. As a preliminary, let us state Klein and Warfield’s argument more formally using the following abbreviations:
+    step1: |-
+      但正如很快会清楚的，这一结论为时过早。作为预备，让我们使用以下缩写更形式化地陈述克莱因与沃菲尔德的论证：
+    step2: |-
+      但正如很快会清楚的，这一结论为时过早。作为预备，让我们使用以下缩写更形式化地陈述克莱因与沃菲尔德的论证：
+  - id: 88
+    source: |-
+      | $A_1 =$ | “Tweety is a bird.” |
+      | --- | --- |
+      | $A_2 =$ | “Tweety cannot fly.” |
+      | $A_3 =$ | “Tweety is a penguin.” |
+    step1: |-
+      | $A_1 =$ | “图伊蒂是一只鸟。” |
+      | :---: | :---: |
+      | $A_2 =$ | “图伊蒂不能飞。” |
+      | $A_3 =$ | “图伊蒂是一只企鹅。” |
+    step2: |-
+      | $A_1 =$ | “图伊蒂是一只鸟。” |
+      | :---: | :---: |
+      | $A_2 =$ | “图伊蒂不能飞。” |
+      | $A_3 =$ | “图伊蒂是一只企鹅。” |
+  - id: 89
+    source: |-
+      The first information set $S$ consists of $A_1$ and $A_2$. The second, more coherent set $S'$ contains, in addition, $A_3$. We let $C$ denote the degree of coherence, intuitively understood. What we have then is:
+    step1: |-
+      第一个信息集合 $S$ 由 $A_1$ 与 $A_2$ 组成。第二个更融贯的集合 $S'$ 另外还包含 $A_3$。我们用 $C$ 表示融贯度（直觉上理解的）。于是我们有：
+    step2: |-
+      第一个信息集合 $S$ 由 $A_1$ 与 $A_2$ 组成。第二个更融贯的集合 $S'$ 另外还包含 $A_3$。我们用 $C$ 表示融贯度（直觉上理解的）。于是我们有：
+  - id: 90
+    source: |-
+      $$ C(A_1,A_2) \lt C(A_1,A_2,A_3). $$
+    step1: |-
+      $$ C(A_1,A_2) \lt C(A_1,A_2,A_3). $$
+    step2: |-
+      $$ C(A_1,A_2) \lt C(A_1,A_2,A_3). $$
+  - id: 91
+    source: |-
+      As we saw, due to the greater informational content of the larger set, its probability is lower than that of the smaller set:
+    step1: |-
+      正如我们所看到的，由于较大集合的信息内容更多，它的概率低于较小集合：
+    step2: |-
+      正如我们所看到的，由于较大集合的信息内容更多，它的概率低于较小集合：
+  - id: 92
+    source: |-
+      $$ P(A_1,A_2,A_3) \lt P(A_1,A_2). $$
+    step1: |-
+      $$ P(A_1,A_2,A_3) \lt P(A_1,A_2). $$
+    step2: |-
+      $$ P(A_1,A_2,A_3) \lt P(A_1,A_2). $$
+  - id: 93
+    source: |-
+      Yet behind this seemingly impeccable piece of reasoning lurks a serious difficulty. As we saw, it is part of the example that we are supposed to know also that *Jane reports* that Tweety is a bird, that *Carl reports* that Tweety cannot fly and that *Rick reports* that Tweety is a penguin (Klein and Warfield’s example is similar in this way). Let:
+    step1: |-
+      然而，在这段看似无懈可击的推理背后潜伏着一个严重困难。正如我们所看到的，这一例子的一个部分是我们还应当知道*简报告*图伊蒂是一只鸟、*卡尔报告*图伊蒂不能飞、*里克报告*图伊蒂是一只企鹅（克莱因与沃菲尔德的例子在这方面类似）。设：
+    step2: |-
+      然而，在这段看似无懈可击的推理背后潜伏着一个严重困难。正如我们所看到的，这一例子的一个部分是：我们还应当知道*简报告*图伊蒂是一只鸟、*卡尔报告*图伊蒂不能飞、*里克报告*图伊蒂是一只企鹅（克莱因与沃菲尔德的例子在这方面类似）。设：
+  - id: 94
+    source: |-
+      | $E_1 =$ | “Jane reports that Tweety is a bird” |
+      | --- | --- |
+      | $E_2 =$ | “Carl reports that Tweety cannot fly” |
+      | $E_3 =$ | “Rick reports that Tweety is a penguin” |
+    step1: |-
+      | $E_1 =$ | “简报告图伊蒂是一只鸟” |
+      | :---: | :---: |
+      | $E_2 =$ | “卡尔报告图伊蒂不能飞” |
+      | $E_3 =$ | “里克报告图伊蒂是一只企鹅” |
+    step2: |-
+      | $E_1 =$ | “简报告图伊蒂是一只鸟” |
+      | :---: | :---: |
+      | $E_2 =$ | “卡尔报告图伊蒂不能飞” |
+      | $E_3 =$ | “里克报告图伊蒂是一只企鹅” |
+  - id: 95
+    source: |-
+      The well-known principle of total evidence now dictates that all relevant evidence should be taken into consideration when computing probabilities. Since it cannot be excluded at the outset that the evidence represented by $E_1$–$E_3$ may be relevant to the probability of the information sets $S$ and $S'$, the probability of the smaller set is not $P(A_1,A_2)$ but rather $P(A_1,A_2 \mid E_1,E_2)$. Similarly, the probability of the larger set is not $P(A_1,A_2,A_3)$ but rather $P(A_1,A_2,A_3 \mid E_1, E_2, E_3)$.
+    step1: |-
+      众所周知的全部证据原则规定，在计算概率时应考虑全部相关证据。既然不能一开始就排除由 $E_1$–$E_3$ 所代表的证据可能与信息集合 $S$ 与 $S'$ 的概率相关，较小集合的概率就不是 $P(A_1,A_2)$，而是 $P(A_1,A_2 \mid E_1,E_2)$。同样，较大集合的概率就不是 $P(A_1,A_2,A_3)$，而是 $P(A_1,A_2,A_3 \mid E_1, E_2, E_3)$。
+    step2: |-
+      众所周知的全部证据原则规定，在计算概率时应考虑全部相关证据。既然不能一开始就排除由 $E_1$–$E_3$ 所代表的证据可能与信息集合 $S$ 与 $S'$ 的概率相关，较小集合的概率就不是 $P(A_1,A_2)$，而是 $P(A_1,A_2 \mid E_1,E_2)$。同样，较大集合的概率就不是 $P(A_1,A_2,A_3)$，而是 $P(A_1,A_2,A_3 \mid E_1, E_2, E_3)$。
+  - id: 96
+    source: |-
+      Bovens and Olsson (2002) raised the question whether, given this revised understanding of the probability of a set of reported propositions, it would still follow that extended sets are no more probable than the sets they extend. Referring to our Tweety example, would it still hold that
+    step1: |-
+      博文斯与奥尔森（2002）提出这样一个问题：给定对被报告命题集合之概率的这一修正理解，是否仍能推出扩展集合不比它们所扩展的集合更可能？就我们的图伊蒂例子而言，以下命题是否仍成立：
+    step2: |-
+      博文斯与奥尔森（2002）提出这样一个问题：给定对被报告命题集合之概率的这一修正理解，是否仍能推出扩展集合不比它们所扩展的集合更可能？就我们的图伊蒂例子而言，以下命题是否仍成立：
+  - id: 97
+    source: |-
+      $$ P(A_1,A_2,A_3 \mid E_1,E_2,E_3) \lt P(A_1,A_2 \mid E_1,E_2)? $$
+    step1: |-
+      $$ P(A_1,A_2,A_3 \mid E_1,E_2,E_3) \lt P(A_1,A_2 \mid E_1,E_2)? $$
+    step2: |-
+      $$ P(A_1,A_2,A_3 \mid E_1,E_2,E_3) \lt P(A_1,A_2 \mid E_1,E_2)? $$
+  - id: 98
+    source: |-
+      Bovens and Olsson demonstrated that the answer to the general question is in the negative by giving an example of a more coherent extended set that is also more probable, on the revised understanding of what this means, than the original smaller set. Klein and Warfield’s reasoning is based on a problematic understanding of the joint probability of a set of reported propositions. In the end, they have not shown that coherence is not truth conducive.
+    step1: |-
+      博文斯与奥尔森通过给出一个例子——一个更融贯的扩展集合，按照修正后的理解，也比原来的较小集合更可能——证明一般问题的答案是否定的。克莱因与沃菲尔德的推理基于对被报告命题集合之联合概率的一个有问题理解。归根结底，他们并未证明融贯不导向真理。
+    step2: |-
+      博文斯与奥尔森通过给出一个例子——一个更融贯的扩展集合，按照修正后的理解，也比原来的较小集合更可能——证明一般问题的答案是否定的。克莱因与沃菲尔德的推理基于对被报告命题集合之联合概率的一个有问题理解。归根结底，他们并未证明融贯不导向真理。
+  - id: 99
+    source: |-
+      Let us say that a measure $C$ of coherence is *propositionally truth conducive* if and only if the following holds:
+    step1: |-
+      我们说一个融贯测度 $C$ 是*命题地导向真理的*，当且仅当以下成立：
+    step2: |-
+      我们说一个融贯测度 $C$ 是*命题地导向真理的*，当且仅当以下成立：
+  - id: 100
+    source: |-
+      if $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$, then $P(A_1\wedge \ldots \wedge A_n) \gt P(B_1\wedge \ldots \wedge B_m)$.
+    step1: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n) \gt P(B_1\wedge \ldots \wedge B_m)$。
+    step2: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n) \gt P(B_1\wedge \ldots \wedge B_m)$。
+  - id: 101
+    source: |-
+      One lesson emerging from the *Analysis* debate is that this way of construing truth conduciveness should be replaced by a notion of truth conduciveness where the relevant probabilities take all relevant evidence into account, whatever that evidence may be (beliefs, testimonies etc.). For example, a coherence measure $C$ is *doxastically truth conducive* (for a subject $S)$ if and only if:
+    step1: |-
+      从《分析》之争中浮现的一个教训是：这种对导向真理的构想，应当被一种“相关概率把所有相关证据都纳入考量”（无论那证据是什么：信念、证词等）的导向真理概念所取代。例如，一个融贯测度 $C$ 是*信念地（doxastically）导向真理的*（对一个主体 $S$），当且仅当：
+    step2: |-
+      从《分析》之争中浮现的一个教训是：这种对导向真理的构想，应当被一种“相关概率把所有相关证据都纳入考量”（无论那证据是什么：信念、证词等）的导向真理概念所取代。例如，一个融贯测度 $C$ 是*信念地（doxastically）导向真理的*（对一个主体 $S$），当且仅当：
+  - id: 102
+    source: |-
+      if $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$, then $P(A_1\wedge \ldots \wedge A_n \mid \mathrm{Bel}_S A_1,\ldots,\mathrm{Bel}_{S}A_n) \gt$ $P(B_1\wedge \ldots \wedge B_m \mid \mathrm{Bel}_S B_1,\ldots,\mathrm{Bel}_{S}B_m)$,
+    step1: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n \mid \mathrm{Bel}_S A_1,\ldots,\mathrm{Bel}_{S}A_n) \gt$ $P(B_1\wedge \ldots \wedge B_m \mid \mathrm{Bel}_S B_1,\ldots,\mathrm{Bel}_{S}B_m)$，
+    step2: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n \mid \mathrm{Bel}_S A_1,\ldots,\mathrm{Bel}_{S}A_n) \gt$ $P(B_1\wedge \ldots \wedge B_m \mid \mathrm{Bel}_S B_1,\ldots,\mathrm{Bel}_{S}B_m)$，
+  - id: 103
+    source: |-
+      where $\mathrm{Bel}_S A$ abbreviates “$S$ believes that $A$”. In other words, a measure of coherence is doxastically truth conducive just in case a more coherent set of *believed* propositions is jointly more probable than a less coherent set of *believed* propositions. While this suggestion has not been without its critics (e.g. McGrew 2016)[^mcgrew-2016], it has been highly influential. In the following, we will adopt this understanding of truth-conduciveness.
+    step1: |-
+      其中 $\mathrm{Bel}_S A$ 是“$S$ 相信 $A$”的缩写。换言之，一个融贯测度是信念地导向真理的，当且仅当一个更融贯的*被相信*命题集合比一个较不融贯的*被相信*命题集合联合地更可能。这一建议并非没有批评者（例如 McGrew 2016）[^mcgrew-2016]，但它极具影响。在下文中，我们将采纳这种对导向真理的理解。
+    step2: |-
+      其中 $\mathrm{Bel}_S A$ 是“$S$ 相信 $A$”的缩写。换言之，一个融贯测度是信念地导向真理的，当且仅当一个更融贯的*被相信*命题集合比一个较不融贯的*被相信*命题集合联合地更可能。这一建议并非没有批评者（例如 McGrew 2016）[^mcgrew-2016]，但它极具影响。在下文中，我们将采纳这种对导向真理的理解。

@@ -1,0 +1,479 @@
+version: 1
+slug: film
+segments:
+  - id: p1
+    source: |
+      The philosophy of film is now a firmly established subfield of contemporary philosophy of art. Although philosophers were among the first academics to publish studies of the new artform in the early decades of the twentieth century, the field did not experience significant growth until the 1980s when a renaissance occurred. There are many reasons for the field’s recent growth. Suffice it to say here that changes in both academic philosophy and the cultural role of the movies in general made it imperative for philosophers to take film seriously as an artform on a par with the more traditional ones like theater, dance, and painting. As a result of this surge in interest in film as a subject for philosophical reflection, the philosophy of film has become an important area of research in aesthetics.
+    step1: |
+      电影哲学如今已是当代艺术哲学中一个牢固确立的分支。尽管哲学家是二十世纪初最早出版这一新兴艺术形式研究著作的学者之一，但该领域直到二十世纪八十年代发生文艺复兴时才获得显著发展。该领域最近的发展有许多原因。这里只消说，学术哲学的变化和电影在文化上整体角色的变化，使得哲学家必须认真对待电影，把它当作与戏剧、舞蹈、绘画等更传统艺术形式同等的艺术形式。由于人们对电影作为哲学反思对象的兴趣激增，电影哲学已成为美学中的一个重要研究领域。
+    step2: |
+      电影哲学如今已是当代艺术哲学中一个牢固确立的分支。尽管在二十世纪头几十年，哲学家是率先为这一新兴艺术形式出版研究著作的学者之一，但该领域直到二十世纪八十年代一场复兴出现时才获得显著发展。这个领域近来的成长原因众多。这里只需说明一点：无论学术哲学自身的变化，还是电影在文化上整体角色的变化，都使得哲学家必须认真对待电影，把它视为与戏剧、舞蹈、绘画等更传统艺术形式同等的艺术形式。由于人们对电影作为哲学反思对象的兴趣激增，电影哲学已成为美学中的一个重要研究领域。
+  - id: p2
+    source: |
+      This entry is organized around a number of issues that are central to the philosophy of film. They explore different aspect of film as an artistic medium, illustrating the range of concerns addressed within the philosophy of film.
+    step1: |
+      本词条围绕若干对电影哲学至关重要的问题展开。这些问题探讨电影作为一种艺术媒介的不同方面，说明电影哲学所处理的问题范围。
+    step2: |
+      本词条围绕若干对电影哲学而言至关重要的问题来组织。这些问题探讨电影作为一种艺术媒介的不同方面，展示出电影哲学所涉及的问题范围。
+  - id: p3
+    source: |
+      There are two features of the philosophy of film that need to be discussed before delving into more specific issues. The first is that film scholars who are not professional philosophers have made many contributions to the field. (See, for example, Chatman (1990) and Smith (1995).) This differentiates this area from many other philosophical disciplines. While physicists often write about the philosophy of science, the academic discipline of the philosophy of physics is dominated by professional philosophers. Not so in the philosophy of film. As a result, my use of the term “philosopher of film” will be broad, intended to include all of those interested in theoretical issues about the cinema.
+    step1: |
+      在深入更具体的问题之前，需要讨论电影哲学的两个特征。第一个是，并非专业哲学家的电影学者为该领域做出了许多贡献。（例如见 Chatman (1990) 与 Smith (1995)。）这使该领域有别于许多其他哲学学科。物理学家常常写科学哲学，但物理学哲学的学术学科由专业哲学家主导。电影哲学则并非如此。因此，我对“电影哲学家”一词的使用将是宽泛的，旨在包括所有对电影的理论问题感兴趣的人。
+    step2: |
+      在深入更具体的问题之前，有两个关于电影哲学的特征需要讨论。其一是，并非专业哲学家的电影学者为这一领域贡献良多。（参见例如 Chatman (1990) 与 Smith (1995)。）这使该领域有别于许多其他哲学学科。物理学家固然常写科学哲学，但物理学哲学这一学术学科却由专业哲学家主导。电影哲学则不是这样。因此，我对“电影哲学家”一词的使用将是宽泛的，旨在囊括所有对电影的理论问题感兴趣的人。
+  - id: p4
+    source: |
+      The second peculiarity is that within film studies—itself an institutionalized area of academic study—there is a sub-field of *film theory* that has significant overlap with the philosophy of film even though the majority of its practitioners operate on significantly different philosophical assumptions than Anglo-American philosophers of film. In the balance of this entry, I shall include both of these areas under the rubric of the philosophy of film, although my primary emphasis is on the contributions of Anglo-American theorists and I will occasionally distinguish this field from film theory as practiced within the area of film studies. One of the characteristics of philosophy as a discipline is its questioning of its own nature and basis. The philosophy of film shares this characteristic with the field in general. Indeed, a first issue that the philosophy of film must address is the grounds for its own existence. This involves not only the question of what the field should look like, but also that of whether it has any reason to exist at all.
+    step1: |
+      第二个独特之处是，在电影研究——本身是学术研究的制度化领域——内部，有一个与电影哲学有大量重叠的 电影理论 分支，尽管其多数从业者所依据的哲学假设与英美电影哲学家截然不同。在本词条余下部分，我将把这两者都归入电影哲学名下，尽管我主要强调的是英美理论家的贡献，我也会偶尔把这一领域与电影研究范围内所实践的电影理论区分开来。哲学作为一门学科的特征之一是它对自己本性与基础的追问。电影哲学与这一领域整体共有这一特征。的确，电影哲学必须处理的第一个问题是它自身存在的根据。这不仅涉及该领域应当是什么样子的问题，也涉及它是否有任何理由存在的问题。
+    step2: |
+      第二个独特之处在于：在电影研究——其本身就是一个制度化的学术研究领域——内部，有一个与电影哲学大量重叠的 **电影理论** 分支，尽管其多数从业者所依据的哲学假设，与英美电影哲学家截然不同。在本词条余下部分，我将把这两者都纳入电影哲学的名下，尽管我主要强调的是英美理论家的贡献；我也偶尔会把这一领域与电影研究范围内所实践的电影理论区分开来。哲学作为一门学科的特征之一，是它对自身本性与根据的追问。电影哲学与这一领域整体共有这一特征。的确，电影哲学必须处理的第一个问题，就是它自身存在的根据。这既涉及该领域应当呈现为何种面貌的问题，也涉及它是否根本有任何理由存在的问题。
+  - id: p5
+    source: |
+      Is there any need for a separate philosophic discipline devoted to film in addition to more empirical studies of film undertaken under the aegis of film studies itself? Although this question has not always received the attention it deserves from philosophers, it is actually a pressing one, for it asks philosophers to justify their newly found interest in film as more than an opportunistic incorporation of a highly popular form of popular culture into their domain.
+    step1: |
+      除了在电影研究自身庇护下所进行的更经验性的电影研究之外，是否还需要一个专门研究电影的独立哲学学科？尽管这一问题并非总是得到哲学家应有的关注，它实际上是一个紧迫的问题，因为它要求哲学家证明他们新近对电影的兴趣不仅仅是机会主义地把一种极受欢迎的大众文化形式纳入自己的领域。
+    step2: |
+      除了在电影研究自身的庇护下所从事的、更为经验性的电影研究之外，是否还需要一个专门研究电影的独立哲学学科？这一问题虽然并非总能得到哲学家应有的关注，实际上却十分紧迫，因为它要求哲学家证明：他们对电影新生的兴趣，不只是机会主义地把一种极受欢迎的大众文化形式收编进自己的领域。
+  - id: p6
+    source: |
+      In one sense, however, philosophers need not justify their interest in film, for philosophical aesthetics has always had a concern not just with art in general but with specific art forms. Beginning with Aristotle’s *Poetics*—a work devoted to explaining the nature of Greek tragedy—philosophers have sought to explain the specific characteristics of each significant art form of their culture. From this point of view, there is no more reason to question the existence of a philosophy of film than there is that of a philosophy of music or a philosophy of painting, two fields that are well accepted as components of aesthetics. Since film is a significant artform in our contemporary world, philosophy might even be judged to have a responsibility to investigate its nature.
+    step1: |
+      然而从一种意义上说，哲学家无需证明他们对电影的兴趣，因为哲学美学一直关心的不只是艺术整体，也包括具体的艺术形式。从亚里士多德的《诗学》——一部专事解释希腊悲剧本性的著作——开始，哲学家一直在寻求解释其文化中每一种重要艺术形式的具体特征。从这一观点看，质疑电影哲学存在的理由，并不比质疑音乐哲学或绘画哲学存在的理由更多，后两者是公认的美学组成部分。既然电影是我们当代世界中一种重要的艺术形式，哲学甚至可以被认为有责任研究其本性。
+    step2: |
+      然而，从一种意义上说，哲学家无须证明自己对电影的兴趣，因为哲学美学向来关心的不只是艺术整体，也关心具体的艺术形式。自亚里士多德的《诗学》——一部专事解释希腊悲剧本性的著作——以来，哲学家便一直寻求解释其文化中每一种重要艺术形式的具体特征。由此观之，质疑电影哲学存在的理由，并不比质疑音乐哲学或绘画哲学存在的理由更充分，后两者都是公认的美学组成部分。既然电影是我们当代世界一种重要的艺术形式，哲学甚至可被认为有责任研究其本性。
+  - id: p7
+    source: |
+      Still, there are some reasons why it might seem problematic for there to be a separate academic field of the philosophy of film. Because the study of film is already institutionalized within academia in the discipline of film studies, and because that field includes a separate sub-field of film theory, it might seem that, unlike literature and music, say, film is already well-served by this institutional base. From this point of view, the philosophy of film is redundant, occupying a space that has already been carved out by an alternative discipline.
+    step1: |
+      不过，仍有一些理由使得存在一个独立的电影哲学学术领域似乎成问题。因为电影研究已经在学术界以电影研究这一学科的形式制度化，而且这一领域包含一个独立的电影理论分支，所以与文学、音乐等不同，电影似乎已经得到这一制度基础的良好服务。从这一观点看，电影哲学是多余的，占据了一个已经由另一学科开辟出来的空间。
+    step2: |
+      尽管如此，仍有一些理由使一个独立的电影哲学学术领域显得成问题。由于电影研究已经在学术界以电影研究这一学科的形式制度化了，又由于该领域包含一个独立的电影理论分支，因此与文学、音乐等不同，电影似乎已经得到这一制度基础的良好服务。由此观之，电影哲学是多余的，占据了一个早已被另一学科开辟出来的空间。
+  - id: p8
+    source: |
+      The problem is that the sub-field of film theory within film studies has been dominated by a range of theoretical commitments that many Anglo-American philosophers do not share. Many such philosophers have therefore felt a need not just to make minor revisions in the field and its understanding of film but rather to make a new beginning in the study of film that does not share the problematic assumptions of film theory itself. For this reason, as well as the earlier-cited view of film as a legitimate topic within aesthetics, they have felt it important to develop a philosophically informed mode of thinking about film.
+    step1: |
+      问题在于，电影研究内部的电影理论分支一直由一系列许多英美哲学家并不认同的理论承诺所主导。因此，许多这样的哲学家感到需要的，不只是对这一领域及其电影理解作出微调，而是要在电影研究中另起炉灶，不再承袭电影理论本身那些成问题的假设。出于这一原因，也出于前面提到的将电影视为美学中一个合法议题的观点，他们感到发展一种有哲学素养的思考电影的方式很重要。
+    step2: |
+      问题在于，电影研究内部的电影理论分支，一直由一系列许多英美哲学家并不认同的理论承诺所主导。因此，许多这样的哲学家感到需要的，不只是对这一领域及其对电影的理解略作修补，而是要在电影研究中另起炉灶，不再承袭电影理论本身那些成问题的假设。出于这一原因，也出于前文提到的把电影视为美学中一个正当议题的看法，他们认为发展一种有哲学素养的思考电影的方式十分重要。
+  - id: p9
+    source: |
+      But once the philosophy of film is granted autonomy as a separate sub-field of aesthetics, the question arises as to its form. That is, philosophers are concerned with the issue of how the philosophy of film should be constituted as a field of study. What role is there for film interpretation in the field? How do studies of particular films relate to more theoretical studies of the medium as such? And what about philosophy *in* film, a popular mode of philosophic thinking about film? Is there a unified model that can be employed to characterize this newly vitalized domain of philosophic inquiry?
+    step1: |
+      但一旦电影哲学作为美学的独立分支获得自主性，就产生了关于其形态的问题。也就是说，哲学家关心的是电影哲学应如何被构成为一个研究领域的问题。电影阐释在这一领域中起什么作用？对特定电影的研究与对媒介本身的更理论研究有何关系？还有哲学 在 电影之中（一种流行的思考电影的哲学方式）呢？是否存在一个统一的模式，可以用来刻画这一新近获得生机的哲学探究领域？
+    step2: |
+      但一旦电影哲学作为美学的独立分支获得自主，便产生了关于其形态的问题。也就是说，哲学家关心的是：电影哲学应如何被构成为一个研究领域。电影阐释在这一领域中扮演什么角色？对特定电影的研究，与对媒介本身的更为理论性的研究，是何关系？那么哲学“在电影之中”（一种流行的思考电影的哲学方式）呢？是否存在一个统一的模式，可以用来刻画这一新近焕发生机的哲学探究领域？
+  - id: p10
+    source: |
+      An increasingly popular way of thinking about the philosophy of film is to model it on scientific theorizing. Although there is disagreement on the precise details of such a proposal, its adherents urge that the study of film be treated as a scientific discipline with an appropriate relationship between theory and evidence. For some, this means having an empirical body of film interpretations that gives rise to wider theoretical generalizations. For others, it means developing a set of small scale theories that attempt to explain different aspect of films and our experience of them. The emphasis here is on developing models or theories of various features of films.
+    step1: |
+      一种日益流行的思考电影哲学的方式，是把它比照科学理论化来构建。尽管对这种提议的精确细节存在分歧，其拥护者主张把电影研究当作一门科学学科来对待，使理论与证据之间具有适当关系。对某些人而言，这意味着拥有一批经验性的电影阐释，从而产生更广泛的理论概括。对另一些人而言，这意味着发展一系列小规模理论，试图解释电影的不同方面以及我们对它们的经验。这里的重点是发展关于电影各种特征的模型或理论。
+    step2: |
+      一种日益流行的思考电影哲学的方式，是效法科学理论化来构建它。尽管对这一提议的精确细节存在分歧，其拥护者主张：电影研究应被当作一门科学学科来对待，使理论与证据之间保持适当关系。对某些人来说，这意味着积累一批经验性的电影阐释，进而引出更宽泛的理论概括；对另一些人来说，这意味着发展一系列小规模理论，试图解释电影的不同方面以及我们观看它们的经验。这里的重点，在于发展关于电影各种特征的模型或理论。
+  - id: p11
+    source: |
+      This idea of modeling the discipline of the philosophy of film on the natural sciences has been prominent among *cognitive film theorists* (Bordwell and Carroll 1996; Currie 1995)[^bordwell-1996][^carroll-1996][^currie-1995]. This rapidly developing approach emphasizes viewers’ conscious processing of films, as opposed to the emphasis within traditional film theory on unconscious processes. In general, these theorists lean towards seeing the study of film as a scientific undertaking.
+    step1: |
+      这种把电影哲学这一学科比照自然科学来构建的观念，在 认知电影理论家 中很突出（Bordwell and Carroll 1996; Currie 1995）[^bordwell-1996][^carroll-1996][^currie-1995]。这一迅速发展的进路强调观看者对电影的意识加工，与电影理论传统中对无意识过程的强调相对。总体而言，这些理论家倾向于把电影研究视为一项科学事业。
+    step2: |
+      这种把电影哲学这一学科效法自然科学来构建的观念，在 **认知电影理论家** 中十分突出（Bordwell and Carroll 1996; Currie 1995）[^bordwell-1996][^carroll-1996][^currie-1995]。这一迅速发展的进路强调观看者对电影的意识性加工，与传统电影理论强调无意识过程形成对照。总体而言，这些理论家倾向于把电影研究视为一项科学事业。
+  - id: p12
+    source: |
+      The idea that the philosophy of film should model itself upon a scientific model has been contested from a variety of points of view. Some philosophers, relying on the writings of pragmatists like William James, have questioned the idea that natural science provides a useful way to think about what philosophers are doing in their reflections on film. Here, there is an emphasis on the particularity of films as works of art in contrast the to the urge to move to a general theory of film. Others, making use of later Wittgenstein as well as the tradition of hermeneutics, also question such a natural scientific orientation for philosophic reflections on film. This camp sees the study of film as a humanistic discipline that is misunderstood when it is assimilated to a natural science.
+    step1: |
+      电影哲学应效法科学模型的观念，已从多种观点受到质疑。一些哲学家借助威廉·詹姆斯等实用主义者的著作，质疑自然科学为思考哲学家在反思电影时所做之事提供了有用方式这一观念。这里强调电影作为艺术作品的特殊性，与转向一种一般电影理论的冲动相对。另一些人则利用后期维特根斯坦以及诠释学传统，同样质疑这种以自然科学为导向的对电影的哲学反思。这一阵营把电影研究视为一门人文学科，当它被同化于自然科学时就被误解了。
+    step2: |
+      电影哲学应效法科学模型的观念，已从多种角度受到质疑。一些哲学家借助威廉·詹姆斯（William James）等实用主义者的著作，质疑下列观念：自然科学为思考哲学家在反思电影时究竟在做什么，提供了有用的方式。这里强调的是电影作为艺术作品的特殊性，与走向一种一般电影理论的冲动形成对照。另一些人则利用后期维特根斯坦以及诠释学传统，同样质疑这种以自然科学为取向的对电影的哲学反思。这一阵营把电影研究视为一门人文学科，而一旦被归并于自然科学，它便遭到误解。
+  - id: p13
+    source: |
+      The debates about what the philosophy of film should look like are really just being joined. This is because it is only recently that a scientific conception of the philosophy of film has emerged as a competitor. But despite the increasing popularity of a cognitive approach to film, there are fundamental issues about the structure of the philosophy of film that remain to be settled.
+    step1: |
+      关于电影哲学应当是什么样子的争论其实才刚刚开始。这是因为只是最近，一种科学性的电影哲学观念才作为竞争者出现。但尽管认知进路对电影日益流行，关于电影哲学结构的根本问题仍有待解决。
+    step2: |
+      关于电影哲学应当呈现何种面貌的争论，其实才刚刚拉开。这是因为直到最近，一种科学性的电影哲学观念才作为竞争者登场。但尽管认知进路对电影日益流行，关于电影哲学结构的根本问题仍未获解决。
+  - id: p14
+    source: |
+      One fundamental issue is what mediums are to be included under the term "film." Although "film" initially referred to the celluloid stock on which movies were recorded, restricting the term to just celluloid-based works would be unduly restrictive. After all, many of the films we watch today are either recorded digitally or projected digitally or both. Such works are clearly part of the same art form as celluloid-based films, so the referent of the term "film" has to be taken to include works made on both mediums.
+    step1: |
+      一个根本问题是，“电影”（film）一词应涵盖哪些媒介。尽管“film”最初指录制电影的赛璐珞胶片，但把该词限制在仅指基于赛璐珞的作品将过分局限。毕竟，我们今天观看的许多电影要么以数字方式录制，要么以数字方式放映，或两者皆是。这类作品显然与基于赛璐珞的电影同属一种艺术形式，所以“film”一词的指称必须被认为包括用两种媒介制作的作品。
+    step2: |
+      一个根本问题是，“film”一词应涵盖哪些媒介。尽管“film”最初指用以录制电影的赛璐珞胶片，但把该词局限于仅指基于赛璐珞的作品，会过分狭隘。毕竟，我们今天观看的许多电影，或以数字方式录制，或以数字方式放映，或兼而有之。这类作品显然与基于赛璐珞的电影同属一种艺术形式，因此“film”一词的指称必须被认为涵盖用两种媒介制作的作品。
+  - id: p15
+    source: |
+      And then is television. Although many film scholars and philosophers of film has a disparaging view of television, the emergence of such shows as *The Sopranos* and *The Wire* established television as a medium for making valuable works of art. As a result, it makes sense to include such shows under the rubric of films.
+    step1: |
+      然后还有电视。尽管许多电影学者和电影哲学家对电视持贬低看法，但《黑道家族》（*The Sopranos*）和《火线》（*The Wire*）这类剧集的出现，确立了电视作为制作有价值艺术作品的一种媒介。因此，把这类剧集归入电影名下是说得通的。
+    step2: |
+      然后便是电视。尽管许多电影学者和电影哲学家对电视抱轻视态度，但《黑道家族》（*The Sopranos*）与《火线》（*The Wire*）这类剧集的出现，确立了电视作为创作有价值艺术作品的一种媒介。因此，把这些剧集纳入电影名下是合理的。
+  - id: p16
+    source: |
+      This stretching of the concept "film" to include both non-celluloid movies and television and other related mediums has led some philosophers of film to suggest replacing the term "film" with a broader category, such as moving picture or moving image. So far, such suggestions have not yet changed the way in which the field is designated, so I retain the term "philosophy of film" throughout this entry.
+    step1: |
+      这种把“film”概念扩展到既包括非赛璐珞电影、也包括电视及其他相关媒介的做法，已使一些电影哲学家建议用一个更宽泛的范畴取代“film”一词，例如“活动影像”（moving picture）或“动态图像”（moving image）。迄今为止，这类建议尚未改变该领域的命名方式，所以我在本词条中始终保留“philosophy of film”这一术语。
+    step2: |
+      这种把“film”概念扩展到涵盖非赛璐珞电影、电视及其他相关媒介的做法，已使一些电影哲学家建议用一个更宽泛的范畴取代“film”一词，例如“活动影像”（moving picture）或“动态图像”（moving image）。迄今，这类建议尚未改变该领域的命名方式，因此我在本词条中始终使用“philosophy of film”这一术语。
+  - id: p17
+    source: |
+      The question that dominated early philosophical inquiry into film was whether the cinema—a term that emphasizes the institutional structure within which films were produced, distributed, and viewed—could be regarded as an artform. There were two reasons why cinema did not seem worthy of the honorific designation of an art. The first was that early contexts for the exhibition of films included such venues as the vaudeville peep show and the circus side show. As a popular cultural form, film seemed to have a vulgarity that made it an unsuitable companion to theater, painting, opera, and the other fine arts. A second problem was that film seemed to borrow too much from other art forms. To many, early films seemed little more than recordings of either theatrical performances or everyday life. The rationale for the former was that they could be disseminated to a wider audience than that which could see a live performance. But film then only seems to be a means of access to art and not an independent art form on its own. The latter, on the other hand, seemed too direct a reproduction of life to qualify as art, for there seemed little mediation by any guiding consciousness.
+    step1: |
+      主导早期电影哲学探究的问题是：电影（cinema）——一个强调电影被生产、发行和观看的制度结构的术语——能否被视为一种艺术形式。电影似乎不配享有艺术这一尊称，有两个原因。第一个是，早期电影放映的场合包括杂耍西洋镜和马戏团旁设场子之类场所。作为一种流行文化形式，电影似乎有一种粗俗，使它不适合与戏剧、绘画、歌剧及其他高雅艺术为伴。第二个问题是，电影似乎从其他艺术形式借鉴太多。对许多人而言，早期电影似乎不过是戏剧演出或日常生活的记录。前者的理由是，它们可以被传播给比现场演出所能容纳的更广泛的观众。但电影因而似乎只是接近艺术的一种手段，而非一种独立的艺术形式本身。后者则似乎是对生活过于直接的复制，不足以称为艺术，因为似乎几乎没有什么引导性意识的调节。
+    step2: |
+      主导早期电影哲学探究的问题是：电影（cinema）——一个强调电影被生产、发行、观看之制度结构的术语——能否被视为一种艺术形式。电影似乎不配享有“艺术”这一尊称，有两个原因。其一，早期电影放映的场合包括杂耍表演的西洋镜和马戏团的旁设场子之类场所。作为一种流行文化形式，电影似乎带着一种粗俗，使它不适宜与戏剧、绘画、歌剧及其他高雅艺术为伍。其二，电影似乎从其他艺术形式借鉴过多。对许多人来说，早期电影似乎不过是戏剧演出或日常生活的记录。前一种的理由在于：它们可以被传播给比现场演出所能见到的更广泛的观众。但电影因而似乎只是接近艺术的一种手段，而非一种独立的艺术形式本身。后一种则似乎是对生活过于直接的复制，不足以称为艺术，因为其中似乎几乎没有什么引导性意识的调节。
+  - id: p18
+    source: |
+      In order to justify the claim that film deserves to be considered an independent art form, philosophers investigated the ontological structure of film. The hope was to develop a conception of film that made it clear that it differed in significant ways from the other fine arts. For this reason, the question of film’s nature was a crucial one for theorists of film during what we might call the classic period.
+    step1: |
+      为了证明电影应当被视为一种独立艺术形式这一主张，哲学家考察了电影的存在论结构。希望在于发展一种电影观念，表明它与其他高雅艺术有重大差异。为此，在我们可称之为经典时期的那段时期，电影本性的问题对电影理论家而言至关重要。
+    step2: |
+      为了证明电影应被视为一种独立艺术形式的主张，哲学家考察了电影的存在论结构。其希望在于发展出一种电影观念，表明它与其他高雅艺术存在重大差异。正因如此，在我们不妨称之为经典时期的那段岁月里，电影本性问题对电影理论家来说至关重要。
+  - id: p19
+    source: |
+      Hugo Münsterberg, the first philosopher to write a monograph about the new art form, sought to distinguish film by means of the technical devices that it employed in presenting its narratives (Münsterberg 1916)[^münsterberg-1916]. Flashbacks, close-ups, and edits are some examples of the technical means that filmmakers employ to present their narratives that theater lacks. For Münsterberg, the use of these devices distinguished film from the theater as an artform.
+    step1: |
+      雨果·闵斯特伯格（Hugo Münsterberg）是第一位为这一新艺术形式撰写专著的哲学家，他试图借助电影在呈现其叙事时使用的技术装置来区分电影（Münsterberg 1916）[^münsterberg-1916]。闪回、特写和剪辑是电影制作者用以呈现叙事而戏剧所缺乏的一些技术手段的例子。对闵斯特伯格而言，使用这些装置使电影作为一种艺术形式区别于戏剧。
+    step2: |
+      雨果·闵斯特伯格（Hugo Münsterberg）是第一位为这一新艺术形式撰写专著的哲学家，他试图借助电影在呈现其叙事时所采用的技术装置来为电影划界（Münsterberg 1916）[^münsterberg-1916]。闪回、特写与剪辑，是电影制作者用以呈现叙事、而戏剧所缺乏的技术手段的若干例证。对闵斯特伯格来说，运用这些装置使电影作为一种艺术形式而与戏剧区别开来。
+  - id: p20
+    source: |
+      Münsterberg went on to ask how viewers are able to understand the role that these technical devices play in the articulation of cinematic narratives. His answer is that these devices are all objectifications of mental processes. A close-up, for example, presents in visual form a correlate to the mental act of paying attention to something. Viewers naturally understand how such cinematic devices function because they are familiar with the workings of their own minds and can recognize these objectified mental functions when they see them. Although this aspect of Münsterberg’s theory links him to contemporary cognitive philosophers of film, he does not explain how viewers know that what they are looking at are objectified mental functions.
+    step1: |
+      闵斯特伯格进而追问：观看者如何能够理解这些技术装置在电影叙事的表达中所起的作用？他的回答是，这些装置都是心理过程的客观化。例如，特写以视觉形式呈现了注意某物这一心理行为的对应物。观看者自然而然地理解这类电影装置如何运作，因为他们熟悉自己心智的运作方式，并且看到这些客观化的心理功能时能够辨认出来。尽管闵斯特伯格理论的这一方面把他与当代认知电影哲学家联系起来，他并未解释观看者如何知道他们所看到的乃是客观化的心理功能。
+    step2: |
+      闵斯特伯格进而追问：观看者如何能够理解这些技术装置在电影叙事的表达中所起的作用？他的回答是，这些装置都是心理过程的客观化。例如，特写便以视觉形式呈现了注意某物这一心理行为的对应物。观看者之所以自然而然地理解这类电影装置如何运作，是因为他们熟悉自己心智的运作方式，见到这些客观化的心理功能时也能辨认出来。尽管闵斯特伯格理论的这一面把他与当代认知电影哲学家联系在一起，他却未解释观看者如何知道眼前所见乃是客观化的心理功能。
+  - id: p21
+    source: |
+      Münsterberg was writing during the silent era. The development of the simultaneous sound track—the “talkie”—changed film forever. It is not surprising that this important innovation spawned interesting theoretical reflections.
+    step1: |
+      闵斯特伯格写作于无声片时代。同时声轨——即“有声片”（talkie）——的发展永久地改变了电影。这一重要革新催生了有趣的理论反思，并不令人惊讶。
+    step2: |
+      闵斯特伯格写作于无声片时代。同时声轨——即“有声片”（talkie）——的发展永久地改变了电影。这一重要革新催生了有趣的理论反思，实不足为奇。
+  - id: p22
+    source: |
+      The well-known psychologist of art, Rudolph Arnheim, made the surprising claim that the talkie represented a decline from the highpoint of silent cinema. (Arnheim 1957)[^arnheim-1957] Relying on the idea that, in order to be a unique artform, film had to be true to its own specific medium, Arnheim denigrates the sound film as a mixture of two distinct artistic media that do not constitute a satisfying whole.
+    step1: |
+      著名的艺术心理学家鲁道夫·阿恩海姆（Rudolph Arnheim）提出了一个令人惊讶的主张：有声片代表了对无声电影高峰的衰退。（Arnheim 1957）[^arnheim-1957] 阿恩海姆依据这样一种观念——为了成为一种独特的艺术形式，电影必须忠实于其自身特有的媒介——而贬低有声电影，认为它是两种不同艺术媒介的混合，不能构成一个令人满意的整体。
+    step2: |
+      著名的艺术心理学家鲁道夫·阿恩海姆（Rudolph Arnheim）提出了一个令人惊讶的主张：有声片代表了从无声电影巅峰的衰落。（Arnheim 1957）[^arnheim-1957] 阿恩海姆依据如下观念——要成为一种独特的艺术形式，电影必须忠实于自身特有的媒介——而贬抑有声电影，视其为两种不同艺术媒介的混合，不能构成令人满意的整体。
+  - id: p23
+    source: |
+      For Arnheim, the silent film had achieved artistic status by focusing on its ability to present moving bodies. Indeed, for him, the artistic aspect of cinema consisted in its ability to present abstractions, an ability completely lost when films began to employ simultaneous soundtracks. Writing near the dawn of the talkie, Arnheim could only see what we now recognize as a natural development of the artform as a decline from a previously attained height.
+    step1: |
+      对阿恩海姆而言，无声电影通过专注于呈现运动物体的能力而获得了艺术地位。的确，对他而言，电影的艺术性在于其呈现抽象的能力，这一能力在电影开始采用同时声轨时完全丧失。写作于有声片黎明之际，阿恩海姆只能把我们现在公认的艺术形式的自然发展，看作从先前达到的高度的衰落。
+    step2: |
+      在阿恩海姆看来，无声电影凭借专注于呈现运动物体的能力而赢得艺术地位。的确，对他而言，电影的艺术性在于其呈现抽象的能力，而当电影开始采用同时声轨时，这一能力便完全丧失。写作于有声片破晓之际，阿恩海姆只能把我们如今公认的艺术形式的自然发展，视为从先前所达高度的衰落。
+  - id: p24
+    source: |
+      André Bazin, though not a professional philosopher or even an academic, countered Arnheim’s assessment in a series of articles that still exert an important influence on the field. (Bazin 1967; 1971)[^bazin-1967] For Bazin, the important dichotomy is not that between the sound and the silent film but rather between films that focus on the image and those that emphasize reality. Although editing had emerged for many such as Sergei Eisenstein as the distinctive aspect of film, Bazin returns to the silent era to demonstrate the presence of an alternative means of achieving film art, namely an interest in allowing the camera to reveal the actual nature of the world. Relying on a conception of film as having a realist character because of its basis in photography, Bazin argues that the future of cinema as an artform depends on its development of this capacity to present the world to us “frozen in time.”
+    step1: |
+      安德烈·巴赞（André Bazin）虽然不是专业哲学家，甚至不是学者，却在一系列至今仍对该领域有重要影响的文章中反驳了阿恩海姆的评估。（Bazin 1967; 1971）[^bazin-1967] 对巴赞而言，重要的二分不是有声电影与无声电影之分，而是专注于影像的电影与强调现实的电影之分。尽管对谢尔盖·爱森斯坦（Sergei Eisenstein）等许多人而言，剪辑已成为电影的标志性方面，巴赞却回到无声片时代，以证明存在另一种达成电影艺术的手段，即对让摄影机揭示世界真实本性的兴趣。巴赞依据电影因基于摄影而具有现实主义特征的观念，论证电影作为一种艺术形式的未来，取决于它发展这种把世界呈现给我们、“凝固在时间中”的能力。
+    step2: |
+      安德烈·巴赞（André Bazin）虽然不是专业哲学家，甚至不是学者，却在一系列至今仍对该领域产生重要影响的文章中反驳了阿恩海姆的论断。（Bazin 1967; 1971）[^bazin-1967] 在巴赞看来，重要的二分并非有声电影与无声电影之分，而是专注于影像的电影与强调现实的电影之分。尽管对谢尔盖·爱森斯坦（Sergei Eisenstein）等许多人而言，剪辑已成为电影的标志性方面，巴赞却回溯到无声片时代，以表明存在另一种达成电影艺术的手段，即对让摄影机揭示世界真实本性的兴趣。巴赞依据电影因植基于摄影而具有现实主义特征的观念，论证：电影作为一种艺术形式的未来，有赖于它发展出这种把世界呈现给我们、“凝固在时间中”的能力。
+  - id: p25
+    source: |
+      In making his argument, Bazin valorizes the film style he dubs realism, characterized by extended shots and deep focus. Jean Renoir, Orson Welles, and the Italian neo-Realists are the filmmakers whom Bazin sees as culminating this imagist tradition of filmmaking that has realized the true potential of the medium.
+    step1: |
+      在提出其论证时，巴赞推崇他所称的现实主义这一电影风格，其特征是长镜头和深焦距。让·雷诺阿（Jean Renoir）、奥逊·威尔斯（Orson Welles）以及意大利新现实主义（Italian neo-Realists）电影人，是巴赞视为将这种实现了媒介真正潜能的影像主义电影制作传统推向顶峰的电影人。
+    step2: |
+      在提出其论证时，巴赞推崇他所称的现实主义这一电影风格，其特点是长镜头与深焦距。让·雷诺阿（Jean Renoir）、奥逊·威尔斯（Orson Welles）以及意大利新现实主义（Italian neo-Realists）电影人，在巴赞看来正是把这种实现了媒介真正潜能的影像主义电影制作传统推向顶峰的创作者。
+  - id: p26
+    source: |
+      In his pathbreaking study of what he called “classical film theory,” Noël Carroll (1988) argued that there were many illicit presuppositions at play in the classical theorists’ attempts to define film’s nature. In particular, he accused them of confusing particular styles of filmmaking with more abstract claims about the nature of the medium itself. His accusations seemed to spell the end of such attempts to justify film styles by their grounding in the medium’s nature.
+    step1: |
+      诺埃尔·卡罗尔（Noël Carroll）在他所称的“经典电影理论”的开创性研究（1988）中论证，经典理论家试图界定电影本性的做法背后，有许多不正当的预设。具体而言，他指责他们把特定的电影制作风格与关于媒介本身性质的更抽象主张混为一谈。他的指责似乎宣告了这种以媒介本性为基础为电影风格辩护的努力的终结。
+    step2: |
+      诺埃尔·卡罗尔（Noël Carroll）在他所称“经典电影理论”的开创性研究（1988）中论证：经典理论家试图界定电影本性的做法，背后存在许多不正当的预设。具体说来，他指责他们把特定的电影制作风格，与关于媒介本身性质的更抽象主张混为一谈。他的指责似乎标志着这种以媒介本性为依据为电影风格辩护的努力的终结。
+  - id: p27
+    source: |
+      Recently, however, Bazin’s claim about film’s realism has received new life, albeit without the extravagances of Bazin’s own writing. Kendall Walton, in an extremely influential paper (1984), argued that film, because of its basis in photography, was a realistic medium that allowed viewers to actually see the objects that appear on screen. The *transparency thesis* has been the subject of a great deal of debate among philosophers and aestheticians. Gregory Currie, for example, rejects the transparency thesis while still defending a form of realism. He argues that film’s realism is the result of the fact that objects depicted on screen trigger the same recognitional capacities that are used to identify real objects.
+    step1: |
+      然而最近，巴赞关于电影现实主义的说法重获新生，尽管没有巴赞本人写作中的夸张。肯德尔·沃尔顿（Kendall Walton）在一篇极具影响力的论文（1984）中论证，电影因其植基于摄影，是一种现实主义的媒介，它使观看者能够真正看到屏幕上出现的对象。透明性论题 一直是哲学家和美学家之间大量争论的主题。例如格雷戈里·柯里（Gregory Currie）在仍为某种形式的现实主义辩护的同时，拒绝了透明性论题。他论证，电影的现实主义源于这样一个事实：屏幕上描绘的对象所触发的识别能力，与用来识别真实对象的能力相同。
+    step2: |
+      然而近来，巴赞关于电影现实主义的说法重新焕发生机，尽管没有了巴赞本人写作中的夸饰。肯德尔·沃尔顿（Kendall Walton）在一篇极具影响力的论文（1984）中论证：电影因植基于摄影，是一种现实主义的媒介，它使观看者得以真正看到屏幕上出现的对象。**透明性论题** 一直是哲学家与美学家之间大量争论的主题。例如，格雷戈里·柯里（Gregory Currie）在仍为某种形式的现实主义辩护的同时，拒绝了透明性论题。他论证，电影的现实主义源于这样一个事实：屏幕上所描绘的对象，所触发的识别能力与用以识别真实对象的能力相同。
+  - id: p28
+    source: |
+      The discussion of the realist character of film continues to be a topic of heated debate among philosophers of film. Most recently, the emergence of digital technologies for fashioning the image raise very basic questions about the plausibility of this view.
+    step1: |
+      关于电影现实主义特征的讨论，仍是电影哲学家之间激烈争论的话题。最近，用于塑造影像的数字技术的出现，对这一看法的合理性提出了非常基本的问题。
+    step2: |
+      关于电影现实主义特征的讨论，至今仍是电影哲学家之间激烈争论的话题。最近，用以塑造影像的数字技术的出现，对这一观点的可信性提出了十分根本的问题。
+  - id: p29
+    source: |
+      Films are the product of many individuals working together. This is apparent when one watches the credits at the end of any recent Hollywood film and sees the myriad names that come scrolling by. To coin a phrase, it takes a village to make a movie.
+    step1: |
+      电影是众多个人协作的产物。当你在任何一部近期好莱坞电影结尾观看演职员表、看到滚动而过的无数名字时，这一点显而易见。用一句习语来说，拍一部电影需要整个村子的人。
+    step2: |
+      电影是众多个人协作的产物。当你在任何一部近期好莱坞电影片尾观看演职员表、看到滚动而过的无数名字时，这一点便昭然若揭。用一句现成的话说：拍一部电影，需要一村人的力量。
+  - id: p30
+    source: |
+      It might therefore seem surprising that there is a significant tendency among film scholars to treat films as the product of a single individual, its *auteur* or author. On this line of interpretation, the director of the film is the creative intelligence who shapes the entire film in a manner parallel to how we think of, say, literary works being authored.
+    step1: |
+      因此，电影学者中存在着一种显著倾向，把电影视为单一个人的产物，即它的 *auteur*（作者），这或许令人惊讶。按这种解释思路，电影的导演是塑造整部电影的创造性心智，其方式类似于我们看待文学作品被创作的方式。
+    step2: |
+      因此，电影学者中相当普遍地存在一种倾向，把电影视为单一个人的作品，即它的 *auteur*（作者），这或许令人惊讶。依照这种解释思路，电影的导演是塑造整部影片的创造性心智，其方式与我们看待——比方说——文学作品被创作出来的方式相似。
+  - id: p31
+    source: |
+      The idea of the director as *auteur* was first suggested by Francois Truffaut—later to become one of the central directors in the French New Wave. Truffaut used the term polemically to denigrate the then dominant mode of filmmaking that emphasized the adaptation of great works of literature to the screen. In the attempt to valorize a different style of filmmaking, Truffaut argued that the only films that deserved to be designated art were those in which the director had complete control over its production by writing the screenplay as well as actually directing the actors. Only films made in this way deserved to be given the status of works of art.
+    step1: |
+      导演作为 *auteur*（作者）的观念，最初由弗朗索瓦·特吕弗（Francois Truffaut）提出——他后来成为法国新浪潮的中心导演之一。特吕弗以论战方式使用该词，贬低当时占主导地位、强调把伟大文学作品搬上银幕的电影制作模式。在试图为一种不同的电影制作风格正名的努力中，特吕弗论证：唯有导演对影片制作拥有完全控制权——既亲自撰写剧本又实际指导演员——的电影，才配得上被称为艺术。只有以这种方式制作的电影，才配享艺术作品的地位。
+    step2: |
+      导演作为 *auteur*（作者）的观念，最初由弗朗索瓦·特吕弗（Francois Truffaut）提出——他后来成为法国新浪潮（French New Wave）的核心导演之一。特吕弗以论战的方式使用该词，来贬抑当时占主导地位、强调把伟大文学作品搬上银幕的电影制作模式。在试图为一种不同的电影制作风格正名的过程中，特吕弗论证：唯有导演对影片制作拥有完全控制权——既亲自编写剧本，又实际执导演员——的电影，才配称为艺术。只有以这种方式制作的电影，才配得上艺术作品的地位。
+  - id: p32
+    source: |
+      The well-known American film scholar and reviewer, Andrew Sarris, adopted Truffaut’s theory in order to legitimate film studies as an academic discipline. For Sarris, the *auteur* theory was a theory of film evaluation, for it suggested to him that the works of great directors were the only significant ones. In his somewhat idiosyncratic use of the idea, he even argued that the flawed works of major directors were artistically better than masterpieces made by minor ones. A more defensible aspect of his ideas was the emphasis on the entire *ouvre* of a director. Within film studies, the emphasis on synoptic studies of individual directors is derived from Sarris’ version of the *auteur* theory.
+    step1: |
+      著名的美国电影学者兼评论家安德鲁·萨里斯（Andrew Sarris）采纳了特吕弗的理论，以使电影研究作为一门学科合法化。对萨里斯而言，*auteur* 论是一种电影评价理论，因为它使他认为伟大导演的作品才是唯一重要的作品。在他对该观念有些独特的运用中，他甚至论证，重要导演的有瑕疵的作品在艺术上优于次要导演的杰作。他观念中更站得住脚的一面，是强调一位导演的全部 *ouvre*（作品）。在电影研究中，对个别导演的综合性研究的强调，源自萨里斯版的 *auteur* 论。
+    step2: |
+      著名的美国电影学者兼影评人安德鲁·萨里斯（Andrew Sarris）采纳了特吕弗的理论，以便为电影研究作为一门学科正名。在萨里斯看来，**作者论**是一种电影评价理论，因为它使他认定：伟大导演的作品才是唯一重要的作品。在他对该观念有些独特的运用中，他甚至主张，重要导演的有瑕疵之作在艺术上优于次要导演的杰作。他的观念中更站得住脚的一面，是强调一位导演的全部 *ouvre*（作品）。在电影研究中，对个别导演作综合性研究的强调，正是源自萨里斯版本的**作者论**。
+  - id: p33
+    source: |
+      A negative consequence of the influence of *auterism* is the relative neglect of other important contributors to the making of a film. Actors, cinematographers, screenwriters, composers, and art directors all make significant contributions to films that the *auteur* theory underestimates. While Truffaut introduced the term polemically to support a new style of filmmaking, subsequent theorists have tended to ignore the context of his remarks.
+    step1: |
+      作者论 影响的一个负面后果，是相对忽视了电影制作中的其他重要贡献者。演员、摄影师、编剧、作曲家和美术指导都对电影作出了 *auteur* 论所低估的重要贡献。尽管特吕弗以论战方式引入该词以支持一种新的电影制作风格，其后继理论家却往往忽略他言论的语境。
+    step2: |
+      **作者论**影响的一个负面后果，是相对忽视了电影制作的其他重要贡献者。演员、摄影师、编剧、作曲家和美术指导，都对电影作出了**作者论**所低估的重要贡献。尽管特吕弗是以论战方式引入该词来支持一种新的电影制作风格，后来的理论家却往往忽略他这番言论的语境。
+  - id: p34
+    source: |
+      As a general theory of the cinema, then, the *auteur* theory is clearly flawed. Not all films—not even all great ones—can be attributed to the control of the director. Actors are the clearest examples of individuals who may have such a significant impact on the making of a specific film that the film has to be seen as attributable to them even more importantly than the director. Although films like Truffaut’s own may be (mostly) the product of his authoring, a Clint Eastwood film owes a great deal of its success to that actor’s presence. It is a mistake to treat all films as if they were simply the product of one crucial individual, the director. Still, old habits die slowly, and films are still referenced by means of their directors.
+    step1: |
+      那么，作为电影的普遍理论，*auteur* 论显然有缺陷。并非所有电影——甚至并非所有伟大电影——都能归因于导演的控制。演员是最明显的例子：他们可能对某部特定电影的制作产生如此重大的影响，以致必须把该电影视为归功于他们，其重要性甚至超过导演。尽管像特吕弗自己的电影也许（大体上）是他创作的产物，克林特·伊斯特伍德（Clint Eastwood）的电影却在很大程度上得益于那位演员的存在。把所有电影都当作仅仅是某个关键个人——导演——的产物，这是一个错误。不过，旧习难改，电影至今仍以导演来指称。
+    step2: |
+      那么，作为电影的普遍理论，**作者论**显然有缺陷。并非所有电影——甚至并非所有伟大电影——都能归因于导演的控制。演员是最清楚的例子：他们可能对某部特定影片的制作产生如此重大的影响，以致该影片必须被视为归功于他们，其重要性甚至超过导演。尽管像特吕弗自己的电影也许（大体上）是他创作的产物，克林特·伊斯特伍德（Clint Eastwood）的电影却在很大程度上得益于那位演员的在场。把所有电影都仅仅当作某个关键人物——导演——的产物，是一个错误。然而，旧习难改，电影至今仍以导演来指称。
+  - id: p35
+    source: |
+      A more general criticism of the *auteur* theory is its emphasis on individuals. Most of the great directors studied by film theorists worked within well-defined institutional settings, the most famous of which is Hollywood. To attempt to understand films without placing them within their broader context of production has been seen as a real shortcoming of the theory.
+    step1: |
+      对 *auteur* 论的一个更一般批评，是它对个人的强调。电影理论家所研究的大多数伟大导演，都在界定明确的制度环境中工作，其中最著名的是好莱坞。试图理解电影而不把它们置于更广阔的制作语境之中，一直被视为该理论的一个真正缺陷。
+    step2: |
+      对**作者论**的一个更一般批评，是它对个人的强调。电影理论家研究的大多数伟大导演，都在界定明确的制度环境中工作，其中最著名的是好莱坞。试图理解电影，却不把它们置于更广阔的制作语境之中，一直被视为该理论的一个真正缺陷。
+  - id: p36
+    source: |
+      This sort of criticism of *auterism* has received a more theoretical formulation within postmodernism, with its famous (or infamous) declaration of the death of the author. What this self-consciously rhetorical gesture asserts is that works of art, including films, should not be seen as the product of a single controlling intelligence, but have to seen as products of their times and social contexts. The goal of the critic should not be to reconstruct the intentions of the author but to display the various different contexts that explain the production of the work as well as its limitations.
+    step1: |
+      对 作者论 的这种批评，在后现代主义中获得了更理论化的表述，即其著名的（或臭名昭著的）“作者之死”宣言。这一自觉的修辞姿态所断言的是：艺术作品，包括电影，不应被视为单一控制性心智的产物，而必须被视为其时代与社会语境的产物。批评家的目标不应是重构作者的意图，而应揭示解释作品之产生及其局限的各种不同语境。
+    step2: |
+      对**作者论**的这种批评，在后现代主义中获得了更为理论化的表述，即其著名的（或臭名昭著的）“作者之死”宣言。这一自觉的修辞姿态所主张的是：艺术作品——包括电影——不应被视为单一控制性心智的产物，而必须被视为其时代与社会语境的产物。批评家的目标不应是重构作者的意图，而应揭示那些解释作品之产生以及作品局限的种种不同语境。
+  - id: p37
+    source: |
+      While the general institutional context is certainly crucial for understanding a film, the *auteur* theory does nonetheless provide a useful focus for *some* efforts in the scholarly study of film: an exploration of the work of individual directors. But even here, there has been worry that the theory overemphasizes the contribution of the director at the expense of other people—actors, directors of photography, screenwriters—whose contributions may be equally important to the making of at least some films.
+    step1: |
+      虽然一般制度语境对理解一部电影当然至关重要，*auteur* 论却仍为电影学术研究中的 一些 努力提供了有用的焦点：对个别导演作品的探索。但即使在这里，也有人担心该理论过分强调导演的贡献，而牺牲了其他人——演员、摄影指导、编剧——的贡献，而对至少某些电影的制作而言，这些人的贡献可能同样重要。
+    step2: |
+      尽管一般的制度语境对理解一部电影当然至关重要，**作者论**却仍为电影学术研究中的某些努力提供了有用的焦点：对个别导演作品的探索。但即便在这里，也有人担心该理论过分强调导演的贡献，而牺牲了其他人的贡献——演员、摄影指导、编剧——因为对至少某些影片的制作来说，这些人的贡献可能同样重要。
+  - id: p38
+    source: |
+      Philosophic discussion of viewer involvement with films starts out with a puzzle that has been raised about many artforms: Why should we care what happens to fictional characters? After all, since they are fictional, their fates shouldn’t matter to us in the way that the fates of real people do. But, of course, we do get involved in the destinies of these imaginary beings. The question is why. Because so many films that attract our interest are fictional, this question is an important one for philosophers of film to answer.
+    step1: |
+      关于观看者投入电影的哲学讨论，始于一个针对许多艺术形式提出的难题：我们为什么要关心虚构人物的遭遇？毕竟，既然他们是虚构的，他们的命运本不应像真实人物的命运那样牵动我们。但是，当然，我们确实关心这些想象中存在的命运。问题在于为什么。由于吸引我们兴趣的那么多电影都是虚构的，这一问题成为电影哲学家需要回答的重要问题。
+    step2: |
+      关于观看者对电影投入的哲学讨论，始于一个针对许多艺术形式都提出过的难题：我们为什么要关心虚构人物的遭遇？毕竟，既然他们是虚构的，他们的命运本不应像真实人物的命运那样牵动我们。但事实上，我们确实关心这些想象中存在的命运。问题在于为什么。由于吸引我们兴趣的那么多电影都是虚构的，这一问题成为电影哲学家必须回答的一个重要问题。
+  - id: p39
+    source: |
+      One answer, common in the film theory tradition, is that the reason that we care about what happens to some fictional characters is because we *identify* with them. Although or, perhaps, because these characters are highly idealized—they are more beautiful, brave, resourceful, etc. than any actual human being could be—viewers identify with them, thereby also taking themselves to be correlates of these ideal beings. But once we see the characters as versions of ourselves, their fates matter to us, for we see ourselves as wrapped up in their stories. In the hands of feminist theorists, this idea was used to explain how films use their viewers’ pleasures to support a sexist society. Male viewers of film, it was held, identify with their idealized screen counterparts and enjoy the objectification of women through both screen images that they view with pleasure and also narratives in which the male characters with whom they identify come to possess the sought after female character.
+    step1: |
+      电影理论传统中常见的一个回答是，我们关心某些虚构人物的遭遇，是因为我们与他们 认同。尽管——或者也许正因为——这些人物被高度理想化（他们比任何真实人类更美丽、勇敢、足智多谋等等），观看者与他们认同，从而也把自己视为这些理想存在的对应物。但一旦我们把这些人物视为自身的版本，他们的命运便与我们相关，因为我们看到自己卷入他们的故事。在女性主义理论家手中，这一观念被用来解释电影如何利用观看者的快感来支持一个性别歧视的社会。据认为，男性电影观看者与他们理想化的银幕对应者认同，并享受女性的物化——既通过他们欣然观看的银幕影像，也通过那些叙事：在其中，他们所认同的男性角色最终占有了所追求的女性角色。
+    step2: |
+      电影理论传统中常见的一个回答是：我们关心某些虚构人物的遭遇，是因为我们与他们**认同**。尽管——或者也许正因为——这些人物被高度理想化（他们比任何真实人类都更美丽、更勇敢、更足智多谋，等等），观看者与他们认同，从而也把自己视为这些理想存在的对应物。可一旦我们把这些人物视为自身的版本，他们的命运便与我们相关，因为我们看到自己被裹挟进他们的故事。在女性主义理论家手中，这一观念被用来解释电影如何利用观看者的快感来支持性别歧视的社会。据信，男性电影观看者与他们理想化的银幕对应者认同，并享受对女性的物化——既通过他们欣然观看的银幕影像，也通过那些叙事：在其中，他们所认同的男性角色最终占有了所追求的女性角色。
+  - id: p40
+    source: |
+      Philosophers of film have argued that identification is too crude a tool to use to explain our emotional engagement with characters, for there is a wide variety of attitudes that we take to the fictional characters we see projected on the screen. (See, for example, Smith (1995).) And even if we did identify with some characters, this would not explain why we had any emotional reactions to characters with whom we did not identify. Clearly, a more general account of viewer involvement with cinematic characters and the films in which they appear is required.
+    step1: |
+      电影哲学家论证说，认同是用以解释我们对人物情感投入的过于粗糙的工具，因为我们对屏幕上投射出的虚构人物采取多种多样的态度。（参见例如 Smith (1995)。）而且即使我们确实与某些人物认同，这也不能解释我们为何对并未与之认同的人物产生情感反应。显然，需要一种关于观看者对电影人物及其所出现于其中的电影之投入的更一般说明。
+    step2: |
+      电影哲学家论证说，认同是解释我们对人物情感投入的过于粗糙的工具，因为我们对银幕上投射出的虚构人物抱持多种多样的态度。（参见例如 Smith (1995)。）而且即便我们确实与某些人物认同，这也无法解释我们为何对并未与之认同的人物产生情感反应。显然，我们需要一种关于观看者对电影人物及其出现于其中的影片之投入的更为一般的说明。
+  - id: p41
+    source: |
+      The general outline of the answer philosophers of film have provided to the question of our emotional involvement with films is that we care about what happens in films because films get us to imagine things taking place, things that we do care about. Because how we imagine things working out does affect our emotions, fiction films have an emotional impact upon us.
+    step1: |
+      电影哲学家对我们在电影中的情感投入这一问题所提供答案的一般轮廓是：我们关心电影中发生的事情，因为电影使我们想象某些事情正在发生，而这些都是我们确实关心的事情。由于我们想象事情如何发展确实会影响我们的情感，虚构电影对我们产生情感冲击。
+    step2: |
+      电影哲学家对我们与电影的情感投入这一问题所给出答案的一般轮廓是：我们关心电影中发生的事情，因为电影让我们想象某些事情正在发生，而这些正是我们确实关心的事情。由于我们如何想象事情的发展确实会影响我们的情感，虚构电影便对我们产生情感冲击。
+  - id: p42
+    source: |
+      There are two basic accounts that philosophers have put forward to explain the effects that the imagination has upon us. *Simulation theory* employs a computer analogy, saying that imagining something involves one having one’s usual emotional response to situations and people, only the emotions are running *off-line*. What this means is that, when I have an emotional response like anger to an imagined situation, I feel the same emotion that I would normally feel only I am not inclined to act on this emotion, say, by yelling or responding in an angry way, as I would be if the emotion was a full-fledged emotion.
+    step1: |
+      哲学家提出了两种基本说明，以解释想象对我们的影响。模拟理论 采用计算机类比，认为想象某物涉及一个人对情境和人作出其通常的情感反应，只是这些情感在 离线 运行。这意味着，当我对一个想象情境产生诸如愤怒的情感反应时，我感受到的情感与我通常感受到的相同，只是我不倾向于将这一情感付诸行动——例如大喊或作出愤怒回应——而如果这是一种充分发展的情感，我本会如此。
+    step2: |
+      哲学家提出了两种基本说明，以解释想象对我们的影响。**模拟理论**采用计算机类比，认为想象某物涉及一个人对情境与人作出其惯常的情感反应，只不过这些情感在离线（*off-line*）状态下运行。这意味着：当我对一个想象情境产生诸如愤怒这样的情感反应时，我所感受到的情感与我平素感受到的相同，只是我不倾向于付诸行动——例如大喊或作出愤怒回应——而假如这是一种充分发展的情感，我本会如此行事。
+  - id: p43
+    source: |
+      What this explains, then, is a seemingly paradoxical feature of our film-going experience: that we seem to enjoy watching things on the screen that we would hate seeing in real life. The most obvious context for this is horror films, for we may enjoy seeing horrific events and beings that we would strongly desire not to witness in real life. The last thing I would want to see more of in real life is a rampaging giant ape, yet I am fascinated to watch its screen expoits. The simulation theorist says that the reason for this is that, when we experience an emotion off-line that would be distressing in real life, we may actually enjoy having that emotion in the safety of the off-line situation.
+    step1: |
+      那么，这解释了我们的观影经验中一个看似悖论的特征：我们似乎乐于在银幕上观看那些在真实生活中我们不愿看到的东西。最明显的背景是恐怖片，因为我们可能乐于看到在真实生活中强烈不愿目睹的恐怖事件和存在物。在真实生活中我最不想多看到的是一头狂暴的巨猿，然而我却着迷于观看它在银幕上的冒险。模拟理论家说，其原因是：当我们在离线状态下经历一种在真实生活中会令人痛苦的情感时，我们实际上可能在离线情境的安全中享受那种情感。
+    step2: |
+      那么，这便解释了我们的观影经验中一个看似悖论的特征：我们似乎乐于在银幕上观看那些在真实生活中会憎恶看到的东西。最明显的背景是恐怖片，因为我们可能乐于看到在真实生活中强烈不愿目睹的恐怖事件与存在物。在真实生活中我最不想多见的是一头横冲直撞的巨猿，然而我却着迷于观看它在银幕上的冒险。模拟理论家说，其原因在于：当我们在离线状态下经历一种在真实生活中会令人痛苦的情感时，我们实际上可能在离线情境的安全中享受那种情感。
+  - id: p44
+    source: |
+      One problem facing the simulation theorist is explaining what it means for an emotion to be off-line. While this is an intriguing metaphor, it is not clear that the simulation theorist can provide an adequate account of how we are to cash it out.
+    step1: |
+      模拟理论家面临的一个问题是，解释一种情感处于离线状态意味着什么。尽管这是一个耐人寻味的隐喻，但模拟理论家能否为如何兑现它提供充分的说明，这一点并不清楚。
+    step2: |
+      模拟理论家面临的一个问题是：解释一种情感处于离线状态究竟意味着什么。尽管这是一个耐人寻味的隐喻，但模拟理论家能否为如何把它兑现为具体内容提供充分说明，却并不清楚。
+  - id: p45
+    source: |
+      An alternative account of our emotional response to imagined scenarios has been dubbed the *thought theory*. The idea here is that we can have emotional responses to mere thoughts. When I am told that a junior colleague of mine was unjustly denied reappointment, the thought of this injustice is sufficient to make me experience anger. Similarly, when I imagine such a scenario in relation to someone, the mere thought of them being treated in this way can occasion my anger. Mere thought can bring about real emotion.
+    step1: |
+      对我们回应想象场景的情感反应的另一种说明，被称为 思想理论。其观念是，我们可以对纯粹的思想产生情感反应。当有人告诉我，我的一位年轻同事被不公正地拒绝续聘时，对这一不公正的想法足以使我感到愤怒。同样，当我针对某人想象这样一个场景时，仅仅是想到他们被如此对待，便能激起我的愤怒。纯粹的思想能带来真实的情感。
+    step2: |
+      对我们回应想象场景的情感反应的另一种说明，被称为**思想理论**。其观念是：我们可以对纯粹的思想产生情感反应。当有人告诉我，我的一位年轻同事被不公正地拒绝续聘时，想到这一不公正便足以使我愤怒。同样，当我针对某人想象这样一个场景时，仅仅想到他们被如此对待，便能激起我的愤怒。纯粹的思想能够带来真实的情感。
+  - id: p46
+    source: |
+      What the thought theory claims about our emotional response to films is that our emotions are brought about by the thoughts that occur to us as we are watching a film. When we see the dastardly villain tying the innocent heroine to the tracks, we are both concerned and outraged by the very thought that he is acting in this way and that she is therefore in danger. Yet all the time we are aware that this is a merely fictional situation, so there is no temptation to yield to a desire to save her. We are always aware that no one is really in danger. As a result, there is no need, says the thought theorist, for the complexities of simulation theory in order to explain why we are moved by the movies.
+    step1: |
+      思想理论 关于我们回应电影的情感反应的断言是：我们的情感是由我们观看电影时产生的思想所引发的。当我们看到卑鄙的反派把无辜的女主角绑在铁轨上时，我们既担忧又愤慨，正是因为他以这种方式行事、因而使她陷入危险这一思想本身。然而我们始终意识到这只是一个虚构情境，所以没有诱惑去屈从于救她的欲望。我们始终意识到没有人真正处于危险之中。因此，思想理论家说，无需模拟理论的复杂性来解释我们为何被电影打动。
+    step2: |
+      **思想理论**关于我们回应电影的情感反应的断言是：我们的情感由我们观看电影时浮现于心中的思想所引发。当我们看到卑鄙的反派把无辜的女主角绑在铁轨上时，我们既担忧又愤慨，正是因为他以这种方式行事、从而令她陷入危险这一思想本身。然而我们始终意识到这只是一个虚构情境，因此并无诱惑使我们屈从于救她的欲望。我们始终意识到，并没有人真正处于危险之中。所以，思想理论家说，我们无需诉诸模拟理论的种种复杂性，来解释我们为何被电影打动。
+  - id: p47
+    source: |
+      There are some problems with thought theory as well. Why should a mere thought, as opposed to a belief, be something that occasions an emotional response from us? If I believe that you were wronged, that’s one thing. But the thought of your being wronged is another. Since we can’t have full-fledged beliefs about the fictional characters in films, the thought theory needs to explain why we are so moved by their fates. (See Plantinga and Smith (1999) for more discussion of this issue.)
+    step1: |
+      思想理论 也有一些问题。为什么纯粹的思想，而非信念，应当是激起我们情感反应的东西？如果我相信你受到了冤屈，那是一回事。但想到你受到冤屈，则是另一回事。由于我们无法对电影中的虚构人物形成充分发展的信念，思想理论需要解释我们为何如此被他们的命运打动。（关于这一问题的更多讨论，见 Plantinga and Smith (1999)。）
+    step2: |
+      **思想理论**同样存在一些问题。为什么是纯粹的思想，而非信念，能够激起我们的情感反应？如果我相信你受了冤屈，那是一回事；但想到你受了冤屈，则是另一回事。由于我们无法对电影中的虚构人物形成充分发展的信念，思想理论需要解释我们为何如此被他们的命运打动。（对这一问题的进一步讨论，见 Plantinga and Smith (1999)。）
+  - id: p48
+    source: |
+      Fiction films tell stories. Unlike literary media such as novels, they do so with images and sound—including both words and music. Clearly, some films have narrators. These narrators are generally character narrators, narrators who are characters within the fictional world of the film. They tell us the film’s stories and, supposedly, show us the images that we see. Sometimes, however, a voice-over narration presents us with an apparently objective view of the situation of the characters, as if it originated from outside of the film world. In addition, there are fiction films, films that tell stories, in which there is no clear agent who is doing the telling. These facts have given rise to a number of puzzles about film narration that have been discussed by philosophers of film. (See Chatman (1990) and Gaut (2004).)
+    step1: |
+      虚构电影讲故事。与小说等文学媒介不同，它们借助影像和声音——包括言辞和音乐——来讲故事。显然，有些电影有叙述者。这些叙述者通常是角色叙述者，即电影虚构世界内部的人物。他们告诉我们电影的故事，并且据说向我们展示我们所看到的影像。然而有时，画外音叙述向我们呈现一个看似客观的人物处境视角，仿佛它源自电影世界之外。此外，还有一些虚构电影——讲故事的影片——其中没有一个明确的叙述者。这些事实引发了关于电影叙事的一系列难题，电影哲学家对此进行了讨论。（见 Chatman (1990) 与 Gaut (2004)。）
+    step2: |
+      虚构电影讲故事。与小说等文学媒介不同，它们借助影像与声音——包括言辞和音乐——来讲故事。显然，有些电影有叙述者。这些叙述者一般是角色叙述者，即电影虚构世界内部的人物。他们告诉我们电影的故事，并且据称向我们展示我们所看到的影像。不过有时，画外音叙述向我们呈现一个看似客观的人物处境视角，仿佛它源自电影世界之外。此外，还有一些虚构电影——讲故事的影片——其中没有一个明确的叙述者。这些事实引发了关于电影叙事的一系列难题，电影哲学家对此进行了讨论。（见 Chatman (1990) 与 Gaut (2004)。）
+  - id: p49
+    source: |
+      One central issue that has been a subject of controversy among philosophers is unreliable narration. There are films in which the audience comes to see that the character narrator of the film has a limited or misguided view of the film world. One example is Max Ophuls’ *Letter from an Unknown Woman* (1948), a film that has been discussed by a number of different philosophers. The majority of the film is a voice-over narration by Lisa Berndle, the unknown woman of the film’s title, who recites the words of the letter she sends to her lover, Max Brand, shortly before her death. The audience comes to see that Lisa has a distorted view of the events she narrates, most clearly in her misestimation of the character of Brand. This raises the question of how the audience can come to know that Lisa’s view is distorted, since what we hear and see is narrated (or shown) by her. George Wilson (1986) has argued that unreliable narratives such as this require the positing of an implicit narrator of the film, while Gregory Currie (1995) has argued that an implied filmmaker suffices. This question has become very relevant with the increased popularity of filmmaking styles involving unreliable narration. Bryan Singer’s *The Usual Suspects* (1995) touched off a flurry of films whose narrators were unreliable in one way or another.
+    step1: |
+      哲学家之间有争议的一个核心问题，是不可靠叙事。有些电影中，观众逐渐认识到影片的角色叙述者对电影世界抱持一种有限或误导的看法。一个例子是马克斯·奥菲尔斯（Max Ophuls）的《一封陌生女子的来信》（*Letter from an Unknown Woman*，1948），一部被许多不同哲学家讨论过的电影。影片大部分是莉莎·贝恩德勒（Lisa Berndle）的画外音叙述，她是片名中的陌生女子，在临死前不久念出她寄给情人马克斯·布兰德（Max Brand）的那封信。观众逐渐认识到，莉莎对她所叙述的事件抱有一种扭曲的看法，最明显的是她对布兰德品性的误判。这提出了一个问题：观众如何能够知道莉莎的看法是扭曲的，因为我们所听到和看到的，是由她叙述（或展示）的。乔治·威尔逊（George Wilson，1986）论证，像这样的不可靠叙事需要假定影片有一个隐含叙述者，而格雷戈里·柯里（Gregory Currie，1995）则论证，一个隐含的电影制作者就够了。随着涉及不可靠叙事的电影制作风格的流行，这一问题已变得非常重要。布莱恩·辛格（Bryan Singer）的《非常嫌疑犯》（*The Usual Suspects*，1995）引发了一连串叙述者以各种方式不可靠的电影。
+    step2: |
+      哲学家之间一个引发争议的核心问题，是不可靠叙事。有些电影中，观众逐渐认识到影片的角色叙述者，对电影世界抱有一种有限或误导的看法。一个例子是马克斯·奥菲尔斯（Max Ophuls）的《一封陌生女子的来信》（*Letter from an Unknown Woman*，1948），这是一部被众多不同哲学家讨论过的电影。影片大部分是莉莎·贝恩德勒（Lisa Berndle）的画外音叙述，她是片名中的那位陌生女子，在临死前不久念出她寄给情人马克斯·布兰德（Max Brand）的那封信。观众逐渐认识到，莉莎对她所叙述的事件抱有一种扭曲的看法，最明显地体现在她对布兰德品性的误判上。这便提出一个问题：观众如何能够知道莉莎的看法是扭曲的，因为我们所听到和看到的，皆由她叙述（或展示）。乔治·威尔逊（George Wilson，1986）论证，像这样的不可靠叙事需要假定影片存在一个隐含叙述者；而格雷戈里·柯里（Gregory Currie，1995）则论证，一个隐含的电影制作者便已足够。随着涉及不可靠叙事的电影制作风格日益流行，这一问题已变得极为切要。布莱恩·辛格（Bryan Singer）的《非常嫌疑犯》（*The Usual Suspects*，1995）引发了一连串叙述者在某方面不可靠的电影。
+  - id: p50
+    source: |
+      A related issue concerning narrative that has been a focus of debate is whether all films have narrators, including those without explicit ones. Initially, it was argued that the idea of a narratorless narrative did not make sense, that narration required an agent doing the narrating, who was the film’s narrator. In cases where there were no explicit narrators, an implicit narrator needed to be posited to make sense of how viewers gained access to the fictional world of the film. Opponents responded that the narrator in the sense of the agent who gave film audiences access to a film’s fictional world could be the filmmaker(s), so there was no need to posit such a dubious entity as an implicit narrator of a film.
+    step1: |
+      一个关于叙事、并一直是争论焦点的相关问题，是是否所有电影都有叙述者，包括那些没有明确叙述者的电影。最初有人论证，无叙述者叙事的观念说不通，叙事需要一个进行叙述的动因，即影片的叙述者。在没有明确叙述者的情况下，需要假定一个隐含叙述者，以使观看者如何进入电影虚构世界变得可以理解。反对者回应说，在赋予电影观众进入电影虚构世界之途径的动因这一意义上，叙述者可以是电影制作者，因此无需假定一个像影片隐含叙述者这样可疑的实体。
+    step2: |
+      一个关于叙事、并一直是争论焦点的相关问题，是：是否所有电影都有叙述者，包括那些没有明确叙述者的电影。最初有人论证，无叙述者叙事的观念说不通——叙事需要一个进行叙述的动因，即影片的叙述者。在没有明确叙述者的情形下，需要假定一个隐含叙述者，才能解释观看者如何进入电影的虚构世界。反对者回应说，在“赋予电影观众进入电影虚构世界之途径的动因”这一意义上，叙述者可以是电影制作者，因此无需假定一个像影片隐含叙述者那样可疑的实体。
+  - id: p51
+    source: |
+      There is, however, an even deeper problem in regard to film narration over what has been called the “Imagined Seeing Thesis” (Wilson 1997)[^wilson-1997]. According to this Thesis, viewers of mainstream fiction films imagine themselves to be looking into the world of the story and seeing segments of the narrative action from a series of definite visual perspectives. In its traditional version, viewers are taken to imagine the movie screen as a kind of window that allows them to watch the unfolding of the story on the “other side.” However, it is hard for this view to account for what is being imagined when, for example, the camera moves, or there is an edit to a shot that incorporates a different perspective on a scene, etc. As a result, an alternative view has been suggested, namely that viewers imagine themselves to be seeing motion picture images that have been photographically derived, in some indeterminate way, from within the fictional world itself. But this position runs into problems, since it is normally part of the film’s fiction that no camera was present in the fictional space of the narrative. The resulting debate is over whether to reject as incoherent the Imagined Seeing Thesis or whether it is possible to develop an acceptable version of this Thesis. Philosophers remain sharply divided on this fundamental issue.
+    step1: |
+      然而，就电影叙事而言，还有一个更深刻的问题，即人们所称的“想象性看见论题”（Imagined Seeing Thesis，Wilson 1997）[^wilson-1997]。根据这一论题，主流虚构电影的观看者想象自己正看向故事世界，并从一系列确定的视觉视角观看叙事行动的片段。在其传统版本中，观看者被认为想象电影银幕是一扇窗户，使他们得以观看故事在“另一侧”的展开。然而，当摄影机移动，或当某个镜头被剪辑以纳入对场景的不同视角等等时，这一看法难以说明所想象的内容。因此，有人提出了另一种看法：观看者想象自己看到的，是以某种不确定的方式从虚构世界自身内部摄影衍生的电影影像。但这一立场遇到问题，因为通常属于电影虚构内容之一部分的，是叙事虚构空间中并不存在摄影机。由此产生的争论，是究竟把想象性看见论题作为不连贯而拒斥，还是可能发展出这一论题的一个可接受版本。哲学家在这一根本问题上仍然严重分歧。
+    step2: |
+      然而，就电影叙事而言，还有一个更为深刻的问题，即人们所称的“想象性看见论题”（Imagined Seeing Thesis，Wilson 1997）[^wilson-1997]。根据这一论题，主流虚构电影的观看者想象自己正看向故事世界，并从一系列确定的视觉视角观看叙事行动的若干片段。在其传统版本中，观看者被认定想象电影银幕如同一扇窗户，使他们得以观看故事在“另一侧”的展开。然而，当摄影机移动，或当某一镜头被剪辑而纳入对场景的不同视角等等情形发生时，这一看法难以说明所想象的内容。于是有人提出另一种看法：观看者想象自己看到的，是以某种不确定方式从虚构世界自身内部摄影衍生的电影影像。但这一立场遇到困难，因为通常属于影片虚构内容之一的，是叙事的虚构空间中并无摄影机。由此产生的争论是：究竟把想象性看见论题作为不连贯而予以拒斥，还是可能发展出这一论题的一个可接受版本。哲学家在这一根本问题上仍严重分歧。
+  - id: p52
+    source: |
+      The topic of film narration thus continues to be a subject of intense philosophical discussion and investigation. Various attempts to explain its nature remain hotly debated. As new and more complex styles of film narration become popular, it is likely that the subject of film narration will continue to receive attention from philosophers and aestheticians.
+    step1: |
+      电影叙事这一话题因此仍是激烈哲学讨论和研究的对象。解释其本性的各种尝试仍在热烈争论中。随着新的、更复杂的电影叙事风格变得流行，电影叙事这一主题很可能将继续受到哲学家和美学家关注。
+    step2: |
+      电影叙事这一话题，因而仍是激烈哲学讨论与研究的对象。解释其本性的种种尝试，至今仍在热烈争论。随着新的、更复杂的电影叙事风格变得流行，电影叙事这一主题很可能将继续获得哲学家与美学家的关注。
+  - id: p53
+    source: |
+      The best way to understand the innovations made by philosophers in our understanding of how films relate to society is to look at the view that was dominant in film theory some years ago. According to that view, popular narrative films—especially those produced by “Hollywood,” a term that referred to the entertainment industry located in Hollywood, California, but also included popular narrative films produced on a similar model—inevitably supported social oppression by denying, in one way or another, its existence. Such films were taken to present nothing but fairytales that used the realistic character of the medium to present those imaginary stories as if they were accurate pictures of reality. In this way, the actual character of the social domination assumed by such a view to be rampant in contemporary society was obscured in favor of a rosy picture of the realities of human social existence.
+    step1: |
+      理解哲学家在我们对电影与社会关系的理解方面所取得之创新的最佳方式，是看看数年前电影理论中占主导地位的观点。根据那种观点，流行的叙事电影——尤其是“好莱坞”制作的影片，“好莱坞”一词指位于加利福尼亚州好莱坞的娱乐产业，但也包括按类似模式制作的流行叙事电影——必然通过这样或那样的方式否认社会压迫的存在，从而支持社会压迫。这类电影被认为只呈现童话，利用媒介的现实主义特征把这些想象故事呈现为仿佛是现实的精确图景。这样，那种观点所假设的、在当代社会中猖獗的社会支配的真实特征，便被一幅人类社会生活现实的玫瑰色图景所遮蔽。
+    step2: |
+      要理解哲学家在我们对电影与社会之关系的理解上所实现的创新，最好的办法是看看数年前电影理论中占主导地位的观点。依那—观点，流行的叙事电影——尤其是“好莱坞”制作的影片（“好莱坞”一词指位于加利福尼亚州好莱坞的娱乐产业，但也包括按类似模式制作的流行叙事电影）——必然以这样或那样的方式否认社会压迫的存在，从而支持社会压迫。这类电影被认为只呈现童话，利用媒介的现实主义特征，把这些想象故事呈现为仿佛就是现实的精确图景。于是，那—观点所认定的、在当代社会中横行无忌的社会支配的真实特征，便被一幅人类社会生活现实的玫瑰色图景所遮蔽。
+  - id: p54
+    source: |
+      As part of their argument, these film theorists have gone beyond examining individual films themselves and have argued that the very structure of the narrative film functions to assist in the maintenance of social domination. From this point of view, an overcoming of narrativity itself is required for films to be genuinely progressive.
+    step1: |
+      作为其论证的一部分，这些电影理论家超越了考察个别电影本身，进而论证：叙事电影的结构本身就有助于维持社会支配。从这一观点看，要电影真正具有进步性，就需要克服叙事性本身。
+    step2: |
+      作为其论证的一部分，这些电影理论家不再满足于考察个别电影本身，进而论证：叙事电影的结构本身就在协助维持社会支配。依此观点，要让电影真正进步，就必须克服叙事性本身。
+  - id: p55
+    source: |
+      In opposition to such a negative view of film’s relationship to society, philosophers of film have argued that popular films need not support social domination but can even give expression to socially critical attitudes. In making this argument, they have corrected film theory’s tendency to make broad generalizations about the relationship between film and society that are not grounded in careful analysis of individual films. They have instead concentrated upon presenting detailed interpretations of films that show how their narratives present critical takes on various social practices and institutions. Class, race, gender, and sexuality are among the different social arenas in which philosophers of film have seen films make socially conscious, critical interventions in public debates.
+    step1: |
+      与这种关于电影与社会关系的消极看法相对，电影哲学家论证说，流行电影不必支持社会支配，甚至可以表达具有社会批判性的态度。在提出这一论证时，他们纠正了电影理论那种对电影与社会关系作宽泛概括、而缺乏对个别电影细致分析基础的倾向。他们转而集中呈现对电影的细致阐释，展示其叙事如何对各种社会实践和制度提出批判性看法。阶级、种族、性别和性，是电影哲学家看到电影在公共辩论中作出具有社会意识、批判性介入的不同社会领域中的若干。
+    step2: |
+      与这种关于电影与社会之关系的消极看法相对，电影哲学家论证说：流行电影不必支持社会支配，甚至可以表达具有社会批判性的态度。在提出这一论证时，他们纠正了电影理论的一种倾向——即对电影与社会的关系作宽泛概括，而这种概括并不以对个别电影的细致分析为基础。他们转而集中呈现对电影的细致阐释，展示其叙事如何对各种社会实践和制度提出批判性看法。阶级、种族、性别和性，是电影哲学家看到电影在公共辩论中作出具有社会意识、批判性介入的几个不同社会领域。
+  - id: p56
+    source: |
+      One interesting example of films that develop political stances that are not merely supportive of existing modes of social domination are those that involve interracial couples. So Stanley Kramer’s 1967 film, *Guess Who’s Coming to Dinner*, investigates the plausibility of racial integration as a solution to the problems of anti-black racism in America through its portrayal of the problems facing an interracial couple. Nearly 25 years later, Spike Lee’s *Jungle Fever* argues against the earlier film’s political agenda, once again using an interracial couple that encounters racism. Only this time, the film asserts that the intransigent racism of White Americans undermines integration as a panacea to the ills of this racist society (Wartenberg 1999)[^wartenberg-1999]. And many other films employ this narrative figure to investigate other aspects of racism and possibilities for its overcoming.
+    step1: |
+      发展出并非仅仅支持现存社会支配模式之政治立场的电影，一个有趣的例子是涉及异族情侣的电影。斯坦利·克雷默（Stanley Kramer）1967 年的影片《猜猜谁来吃晚餐》（*Guess Who's Coming to Dinner*），通过描绘一对异族情侣所面临的问题，考察了种族融合作为解决美国反黑人种族主义问题之方案的合理性。近 25 年后，斯派克·李（Spike Lee）的《丛林热》（*Jungle Fever*）反驳了前一部电影的政治议程，再次使用一对遭遇种族主义的异族情侣。只不过这一次，影片断言美国白人冥顽不化的种族主义，破坏了把融合当作治愈这一种族主义社会痼疾的万灵药（Wartenberg 1999）[^wartenberg-1999]。许多其他电影也运用这一叙事形象，考察种族主义的其他方面及其克服的可能性。
+    step2: |
+      在那些发展出并非仅仅支持现存社会支配模式之政治立场的电影中，一个有趣的例子是涉及异族情侣的电影。斯坦利·克雷默（Stanley Kramer）1967 年的影片《猜猜谁来吃晚餐》（*Guess Who's Coming to Dinner*），通过描绘一对异族情侣所面临的问题，考察了种族融合作为解决美国反黑人种族主义问题之方案的合理性。将近 25 年后，斯派克·李（Spike Lee）的《丛林热》（*Jungle Fever*）反驳了前一部电影的政治议程，再次使用一对遭遇种族主义的异族情侣。只不过这一次，影片断言：美国白人冥顽不化的种族主义，破坏了把融合当作治愈这一种族主义社会之痼疾的万灵药（Wartenberg 1999）[^wartenberg-1999]。许多其他电影也运用这一叙事形象，考察种族主义的其他方面及其克服的可能。
+  - id: p57
+    source: |
+      Similarly, philosophers have looked outside of Hollywood to the films of progressive filmmakers like John Sayles to illustrate their belief that narrative films can make sophisticated political statements. A film like *Matewan* is shown to involve a sophisticated investigation of the relationship between class and race as sites of social domination.
+    step1: |
+      同样，哲学家把目光投向好莱坞之外，关注约翰·塞尔斯（John Sayles）等进步电影制作者的作品，以说明他们相信叙事电影能够作出老练的政治表述。像 *Matewan* 这样的电影，被认为涉及对阶级与种族作为社会支配场域之关系的老练考察。
+    step2: |
+      同样，哲学家把目光投向好莱坞之外，关注约翰·塞尔斯（John Sayles）等进步电影制作者的影片，以表明他们相信叙事电影能够作出老练的政治表述。像 *Matewan* 这样的电影，被认为涉及对阶级与种族作为社会支配场域之关系的老练考察。
+  - id: p58
+    source: |
+      In general, then, we can say that philosophers have resisted a monolithic condemnation of films as socially regressive and explored the different means that filmmakers have used to present critical perspectives on areas of social concern. While they have not ignored the ways in which standard Hollywood narratives undermine critical social awareness, they have shown that narrative film is an important vehicle for communal reflection on important social issues of the day.
+    step1: |
+      那么，总体而言，我们可以说哲学家抵制了对电影作为社会倒退之物的单一谴责，并探索了电影制作者用以对社会关切领域提出批判性视角的不同手段。尽管他们没有忽视标准好莱坞叙事削弱批判性社会意识的种种方式，他们表明叙事电影是共同体反思当代重要社会议题的重要载体。
+    step2: |
+      那么，总体而言，我们可以说：哲学家抵制了对电影的一元化谴责——斥其为社会倒退之物——并探索了电影制作者用以对社会关切领域提出批判性视角的不同手段。尽管他们没有忽视标准好莱坞叙事削弱批判性社会意识的种种方式，他们表明了叙事电影是共同体反思当世重要社会议题的一个重要载体。
+  - id: p59
+    source: |
+      Ever since Plato banished poets from his ideal city in *The Republic*, hostility towards the arts has been endemic to philosophy. To a large extent, this is because philosophy and the various artforms were perceived to be competing sources of knowledge and belief. Philosophers concerned to maintain the exclusivity of their claim to truth have dismissed the arts as poor pretenders to the title of purveyors of truth.
+    step1: |
+      自从柏拉图在《理想国》（*The Republic*）中把诗人逐出他的理想城邦以来，对艺术的敌意就在哲学中根深蒂固。在很大程度上，这是因为哲学与各种艺术形式被视为知识与信念的竞争性来源。关心维护其真理主张之排他性的哲学家，把艺术贬斥为真理提供者头衔的拙劣觊觎者。
+    step2: |
+      自从柏拉图在《理想国》（*The Republic*）中把诗人逐出他的理想城邦以来，对艺术的敌意便在哲学中根深蒂固。这在很大程度上是因为：哲学与各种艺术形式被视为知识与信念的竞争性来源。那些关心维护自身真理主张之排他性的哲学家，把艺术贬斥为“真理提供者”这一头衔的拙劣觊觎者。
+  - id: p60
+    source: |
+      Philosophers of film have generally opposed this view, seeing film as a source of knowledge and, even, as potential contributor to philosophy itself. This view was forcefully articulated by Stanley Cavell, whose interest in the philosophy of film helped spark the field’s development. For Cavell, philosophy is inherently concerned with skepticism and the different ways that it can be overcome. In his many books and articles, Cavell has argued that film shares this concern with philosophy and can even provide philosophic insights of its own (Cavell 1981; 1996; 2004)[^cavell-1981].
+    step1: |
+      电影哲学家普遍反对这一看法，把电影视为知识的来源，甚至视为哲学本身的潜在贡献者。这一看法由斯坦利·卡维尔（Stanley Cavell）有力阐述，他对电影哲学的兴趣帮助点燃了该领域的发展。对卡维尔而言，哲学内在地关注怀疑论及其可以克服的不同方式。在他的许多著作和文章中，卡维尔论证电影与哲学共有这一关切，甚至能提供它自己的哲学洞见（Cavell 1981; 1996; 2004）[^cavell-1981]。
+    step2: |
+      电影哲学家普遍反对这一看法，把电影视为知识的来源，甚至视为哲学本身的潜在贡献者。这一看法由斯坦利·卡维尔（Stanley Cavell）有力阐述，他对电影哲学的兴趣助燃了这一领域的发展。在卡维尔看来，哲学内在地关注怀疑论及其能够被克服的不同方式。在他的许多著作与文章中，卡维尔论证：电影与哲学共有这一关切，甚至能提供属于自身的哲学洞见（Cavell 1981; 1996; 2004）[^cavell-1981]。
+  - id: p61
+    source: |
+      Until recently, there have been few adherents to the idea that films can make a philosophical contribution. (But see Kupfer (1999) and Freeland (2000) for counterinstances.) In part, this is because Cavell’s linking of film to skepticism seems inadequately grounded, while his account of skepticism as a live option for contemporary philosophy is based on a highly idiosyncratic reading of the history of modern philosophy. Nonetheless, Cavell’s interpretations of individual films’ encounter with skepticism are highly suggestive and have influenced many philosophers and film scholars with the seriousness with which they take film. (For one example, see Mulhall (2001).)
+    step1: |
+      直到最近，支持电影能够作出哲学贡献这一观念的人很少。（但见 Kupfer (1999) 与 Freeland (2000) 作为反例。）部分原因在于，卡维尔把电影与怀疑论联系起来似乎根据不足，而他关于怀疑论作为当代哲学一个现实选项的说明，建立在对现代哲学史高度独特的解读之上。尽管如此，卡维尔对个别电影与怀疑论相遇的阐释极具启发性，并以他们对待电影的严肃态度影响了众多哲学家和电影学者。（一个例子，见 Mulhall (2001)。）
+    step2: |
+      直到最近，支持电影能够作出哲学贡献这一观念的人寥寥无几。（但作为反例，见 Kupfer (1999) 与 Freeland (2000)。）这部分是因为：卡维尔把电影与怀疑论相联系的作法似乎根据不足，而他关于怀疑论作为当代哲学一个现实选项的说明，则建立在对现代哲学史高度独特的解读之上。尽管如此，卡维尔对个别电影与怀疑论相遇的阐释极富启发性，并以他们认真对待电影的严肃态度影响了众多哲学家和电影学者。（一个例子，见 Mulhall (2001)。）
+  - id: p62
+    source: |
+      Now, however, there is an ongoing debate about the philosophical capacity of film. In opposition to views like that of Cavell, a number of philosophers have argued that films can have at most a heuristic or pedagogic function in relation to philosophy. Others have asserted that there are clear limits to what films can accomplish philosophically. Both of these types of views regard the narrative character of fiction films as disqualifying them from genuinely being or doing philosophy.
+    step1: |
+      然而现在，关于电影的哲学能力有一场持续的争论。与卡维尔等人的看法相对，一些哲学家论证说，电影相对于哲学至多具有启发或教学功能。另一些人则断言，电影在哲学上所能成就的东西有明确的界限。这两种看法都认为，虚构电影的叙事性使它们丧失真正成为或从事哲学的资格。
+    step2: |
+      然而现在，关于电影的哲学能力有一场持续的争论。与卡维尔等人的看法相对，一些哲学家论证说：电影相对于哲学至多具有启发或教学的功能。另一些人则断言：电影在哲学上所能成就之事有着明确的界限。这两种看法都认为，虚构电影的叙事性使它们丧失真正成为哲学或从事哲学的资格。
+  - id: p63
+    source: |
+      Opponents to this point of view have pointed to a number of different ways in which films can do philosophy. Foremost among these is the thought experiment. Thought experiments involve imaginary scenarios in which readers are asked to imagine what things would be like if such-and-such were the case. Those who think that films can actually do philosophy point out that fiction films can function as philosophical thought experiments and thus qualify as philosophical (See Wartenberg 2007)[^wartenberg-2007]. Many films have been suggested as candidates for doing philosophy, including the Wachowski’s 1999 hit *The Matrix*, a film that has engendered more philosophical discussion than any other film, *Memento* (2000), and *Eternal Sunshine of the Spotless Mind* (2004).
+    step1: |
+      持相反观点的人指出了电影能够从事哲学的多种不同方式。其中首要的是思想实验。思想实验涉及想象场景，读者被要求想象如果如此这般情形会怎样。那些认为电影能够真正从事哲学的人指出，虚构电影可以作为哲学思想实验发挥作用，从而具有哲学资格（见 Wartenberg 2007）[^wartenberg-2007]。许多电影被提议为从事哲学的候选者，包括沃卓斯基（Wachowski）1999 年的卖座片《黑客帝国》（*The Matrix*）——一部引发的哲学讨论比任何其他电影都多的影片——《记忆碎片》（*Memento*，2000）和《暖暖内含光》（*Eternal Sunshine of the Spotless Mind*，2004）。
+    step2: |
+      持相反观点的人指出了电影能够从事哲学的多种不同方式。其中首要的是思想实验。思想实验涉及想象性场景，读者被要求想象：如果如此这般情形成立，事情会怎样。那些认为电影能够真正从事哲学的人指出：虚构电影可以作为哲学思想实验发挥作用，因而具有哲学资格（见 Wartenberg 2007）[^wartenberg-2007]。许多电影被提议为从事哲学的候选者，包括沃卓斯基（Wachowski）1999 年的卖座片《黑客帝国》（*The Matrix*）——一部引发的哲学讨论比任何其他电影都多的影片——《记忆碎片》（*Memento*，2000）与《暖暖内含光》（*Eternal Sunshine of the Spotless Mind*，2004）。
+  - id: p64
+    source: |
+      Philosophers have also begun to pay attention to a strand of avant-garde filmmaking known as *structural* films. These films are analogues to minimalism in the other arts and thus give rise to the question of whether they are not actual experiments that seek to show necessary criteria for something being a film. If this view is accepted, then these films—examples include *The Flicker* (1995) and *Serene Velocity* (1970)—could be seen as making a contribution to philosophy by identifying such putative necessary features of films. This view, while adopted by Nöel Carroll (See Carroll and Choi 2006; Thomas Wartenberg 2007)[^wartenberg-2007], has also been criticized on similar grounds to those used to deny the philosophical potential of fiction films, namely that films cannot actually do the “hard work” of philosophy.
+    step1: |
+      哲学家也开始关注一种被称为 结构 电影的前卫电影制作脉络。这些电影是其他艺术中极简主义的类似物，因而引起这样的问题：它们是否正是寻求证明某物成为电影之必要标准的实际实验。如果这一看法被接受，那么这些电影——例子包括《*The Flicker*》（1995）和《*Serene Velocity*》（1970）——就可以被视为通过识别电影这种假定必要的特征而为哲学作出贡献。这一看法虽然被诺埃尔·卡罗尔（Nöel Carroll）采纳（见 Carroll and Choi 2006；Thomas Wartenberg 2007）[^wartenberg-2007]，但也因与否认虚构电影哲学潜能的理由类似的理由而受到批评，即电影无法真正从事哲学的“艰苦工作”。
+    step2: |
+      哲学家也开始关注一种被称为 *structural*（结构）电影的前卫电影制作脉络。这些电影是其他艺术中极简主义的类似物，因而引发这样的问题：它们是否正是旨在证明“某物成为电影”之必要标准的实际实验。如果这一看法被接受，那么这些电影——例子包括 *The Flicker*（1995）与 *Serene Velocity*（1970）——就可以被视为通过识别这些假定必要的电影特征而为哲学作出贡献。这一看法虽然为诺埃尔·卡罗尔（Nöel Carroll）所采纳（见 Carroll and Choi 2006；Thomas Wartenberg 2007）[^wartenberg-2007]，却也因与否认虚构电影哲学潜能的理由相似的理由而受到批评，即电影无法真正从事哲学的“艰苦工作”。
+  - id: p65
+    source: |
+      Philosophers working in the Continental tradition have advocated a more sweeping account of film’s contribution to philosophy. Indeed, the term "film-philosophy" has been introduced to refer to the allegedly new form of philosophizing that takes place on film. (See Sinnerbrink 2011 for a discussion of this idea.)[^sinnerbrink-2011]
+    step1: |
+      在大陆传统中工作的哲学家，主张一种对电影哲学贡献的更全面说明。的确，“film-philosophy”一词已被引入，用以指称据称发生在电影中的新哲学化形式。（这一观念的讨论，见 Sinnerbrink 2011。）[^sinnerbrink-2011]
+    step2: |
+      在大陆传统中工作的哲学家，主张对电影之哲学贡献的一种更全面的说明。的确，“电影哲学（film-philosophy）”一词已被引入，用以指称据称发生在电影中的一种新的哲学化形式。（对这一观念的讨论，见 Sinnerbrink 2011。）[^sinnerbrink-2011]
+  - id: p66
+    source: |
+      Whatever position one takes on the possibility of “cinematic philosophy,” it is clear that the philosophical relevance of film has been recognized by philosophers. Even those who deny that films can actually do philosophy have to acknowledge that films provide audiences with access to philosophical questions and issues. Indeed, the success of the book series entitled “Philosophy and X,” where one can substitute any film or television show for X, indicates that films are bringing philosophical issues to the attention of wide audiences. There can be no doubt that this is a healthy development for philosophy itself.
+    step1: |
+      无论一个人对“电影哲学”（cinematic philosophy）的可能性持何种立场，显然哲学家已经承认了电影的哲学相关性。即使是那些否认电影能够真正从事哲学的人，也必须承认电影为观众提供了接触哲学问题的途径。的确，题为“哲学与 X”（Philosophy and X）的丛书系列的成功——其中可以把任何电影或电视节目代入 X——表明电影正把哲学问题带给广大观众的注意。毫无疑问，这对哲学本身是一种健康的发展。
+    step2: |
+      无论一个人对“电影哲学”（cinematic philosophy）的可能性持何种立场，显然哲学家已承认电影的哲学相关性。即使是那些否认电影能够真正从事哲学的人，也不得不承认：电影为观众提供了通向哲学问题的途径。的确，题为“哲学与 X”（Philosophy and X）的丛书系列的成功——其中可以拿任何电影或电视节目代入 X——表明电影正把哲学问题带到广大观众的眼前。毫无疑问，这对哲学本身是一种健康的发展。
+  - id: p67
+    source: |
+      The philosophy of film has become a significant area for philosophical and aesthetic research. Philosophers have concentrated both on aesthetic issues about film as an artistic medium — the philosophy of film — and questions about the philosophical content of films — films as philosophy. The sophistication and quantity of contributions in both of these areas continue to increase, as more philosophers have taken film seriously as a subject for philosophical investigation.
+    step1: |
+      电影哲学已成为哲学和美学研究的一个重要领域。哲学家既专注于电影作为一种艺术媒介的美学问题——即电影哲学——也专注于关于电影哲学内容的问题——即作为哲学的电影。这两个领域的贡献在精妙度和数量上都在持续增加，因为更多哲学家认真对待电影作为哲学研究的对象。
+    step2: |
+      电影哲学已成为哲学与美学研究的一个重要领域。哲学家既专注于电影作为一种艺术媒介的美学问题——即电影哲学——也专注于关于电影哲学内容的问题——即作为哲学的电影。这两个领域的贡献在精妙程度与数量上都在持续增长，因为越来越多哲学家认真对待电影，视其为哲学研究的对象。
+  - id: p68
+    source: |
+      As film and its related digital media continue to expand in their influence upon the lives of human beings, the philosophy of film can be expected to become an even more vital area for philosophic investigation. In the coming years, we can look forward to new and innovative contributions to this exciting area of philosophical research.
+    step1: |
+      随着电影及其相关数字媒介对人类生活的影响持续扩大，可以预期电影哲学将成为哲学研究的一个更加重要的领域。在未来几年，我们可以期待这一激动人心的哲学研究领域出现新的、创新的贡献。
+    step2: |
+      随着电影及其相关数字媒介对人类生活的影响持续扩大，可以预期电影哲学将成为哲学研究中一个更具活力的领域。在未来几年，我们可以期待这一激动人心的哲学研究领域涌现出新的、创新的贡献。

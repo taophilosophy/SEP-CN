@@ -1,0 +1,22 @@
+{
+  "slug": "james-mill",
+  "kind": "retranslate",
+  "zh_doc": "j/james-mill.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:01Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:00Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 16, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "d4f4db7883d5c2759f2d6acf3330a582bf759eccadd3e5661e18b9f0e16a4aa7"
+  }
+}

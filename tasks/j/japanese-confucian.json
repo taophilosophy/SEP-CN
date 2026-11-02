@@ -1,0 +1,22 @@
+{
+  "slug": "japanese-confucian",
+  "kind": "retranslate",
+  "zh_doc": "j/japanese-confucian.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:03Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:03Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 3, 2022",
+    "archive_edition": "Winter 2022",
+    "sha256": "dfb30a350ce0917a0139b399b0dfa12c01e39c9dda84c034f77017a5f7f6b0cf"
+  }
+}

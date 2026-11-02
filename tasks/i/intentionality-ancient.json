@@ -1,0 +1,22 @@
+{
+  "slug": "intentionality-ancient",
+  "kind": "retranslate",
+  "zh_doc": "i/intentionality-ancient.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:54:08Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:52Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 18, 2019",
+    "archive_edition": "Winter 2019",
+    "sha256": "36c1612ee1b355aed34a7d51a2ac0bc91d05995d22e77ce9c81a312adb46f086"
+  }
+}

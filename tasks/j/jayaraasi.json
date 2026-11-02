@@ -1,0 +1,22 @@
+{
+  "slug": "jayaraasi",
+  "kind": "retranslate",
+  "zh_doc": "j/jayaraasi.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:06Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:06Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 30, 2020",
+    "archive_edition": "Summer 2024",
+    "sha256": "7d5230900f161b53fe8f151cfdd80501c8a2500c0c67256caecabc95c282ec8a"
+  }
+}

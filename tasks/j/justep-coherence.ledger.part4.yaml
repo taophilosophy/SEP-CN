@@ -1,0 +1,140 @@
+  - id: 26
+    source: |-
+      We will return, in section 6, to the problem of defining the traditional concept of coherence while addressing some of the concerns that we have raised, e.g., concerning the relationship between coherence and system size. The point of departure for the present discussion, however, is the observation that several prominent self-proclaimed coherentists construe the central concept, and to some extent also its role in philosophical inquiry, in ways that depart somewhat from the traditional view. Among them we find Nicolas Rescher, Keith Lehrer and Paul Thagard.
+    step1: |-
+      我们将在第 6 节回到定义传统融贯概念的问题，同时回应我们已经提出的一些关切，例如关于融贯与系统大小之关系的关切。不过，当前讨论的出发点是这样一个观察：几位著名的自称融贯论者在某种程度上以偏离传统看法的方式构想这一核心概念及其在哲学探究中的角色。他们中有尼古拉斯·雷舍尔、基思·莱勒与保罗·萨加德。
+    step2: |-
+      我们将在第 6 节回到定义传统融贯概念的问题，同时回应我们已经提出的一些关切，例如关于融贯与系统大小之关系的关切。不过，当前讨论的出发点是这样一个观察：几位著名的自称融贯论者在某种程度上以偏离传统看法的方式构想这一核心概念及其在哲学探究中的角色。他们中有尼古拉斯·雷舍尔、基思·莱勒与保罗·萨加德。
+  - id: 27
+    source: |-
+      Central in Rescher’s account, as laid out in Rescher (1973), his most influential book on the subject, is the notion of a truth-candidate. A proposition is a truth-candidate if there is something that speaks in its favor. Rescher’s truth-candidates are related to Lewis’s “supposed facts asserted”. In both cases, the propositions of interest are *prima facie* rather than *bona fide* truths. Although Rescher’s 1973 book is entitled *A Coherence Theory of Truth*, the purpose of Rescher’s investigation is not to investigate the possibility of *defining* truth in terms of coherence but to find a truth *criterion*, which he understands to be a systematic procedure for selecting from a set of conflicting and even contradictory truth-candidates those elements which it is rational to accept as *bona fide* truths. His solution amounts to first identifying the maximal consistent subsets of the original set, i.e., the subsets that are consistent but would become inconsistent if extended by further elements of the original set, and then choosing the most “plausible” among these subsets. Plausibility is characterized in way that reveals no obvious relation to the traditional concept of coherence. While the traditional concept of coherence plays a role in the philosophical underpinning of Rescher’s theory, it does not figure essentially in the final product. In a later book, Rescher develops a more traditional “system-theoretic” view on coherence (Rescher 1979)[^rescher-1979].
+    step1: |-
+      雷舍尔说明的核心，正如他在其关于该主题最有影响的著作雷舍尔（1973）中所述，是真理候选者的概念。一个命题是真理候选者，如果有某种东西为其说话。雷舍尔的真理候选者与刘易斯的“被断定的所谓事实”相关。在两种情形中，所关注的命题都是*初显的*而非*真正的*真理。尽管雷舍尔 1973 年的著作题为《一种真理的融贯理论》，雷舍尔探究的目的却不是考察以融贯来*定义*真理的可能性，而是要找到一种真理*判准*，他把它理解为一种系统性的程序，用于从一组冲突甚至矛盾的真理候选者中挑选出那些理性地接受为*真正的*真理的元素。他的解答在于：先确定原集合的最大一致子集，即那些一致、但若再添加原集合的进一步元素就会变得不一致的子集，然后在这些子集中选择最“合理的”一个。合理性（plausibility）的刻画没有显示出与传统融贯概念的任何明显关联。尽管传统融贯概念在雷舍尔理论的哲学基础中扮演一定角色，它却并不本质地出现在最终产物中。在后来的一本书中，雷舍尔发展出一种更传统的“系统论”的融贯观（Rescher 1979）[^rescher-1979]。
+    step2: |-
+      雷舍尔说明的核心，正如他在其关于该主题最有影响的著作雷舍尔（1973）中所述，是真理候选者的概念。一个命题是真理候选者，如果有某种东西为其说话。雷舍尔的真理候选者与刘易斯的“被断定的所谓事实”相关。在两种情形中，所关注的命题都是*初显的*而非*真正的*真理。尽管雷舍尔 1973 年的著作题为《一种真理的融贯理论》，雷舍尔探究的目的却不是考察以融贯来*定义*真理的可能性，而是要找到一种真理*判准*，他把它理解为一种系统性的程序，用于从一组冲突甚至矛盾的真理候选者中挑选出那些理性地接受为*真正的*真理的元素。他的解答在于：先确定原集合的最大一致子集，即那些一致、但若再添加原集合的进一步元素就会变得不一致的子集，然后在这些子集中选择最“合理的”一个。合理性（plausibility）的刻画没有显示出与传统融贯概念的任何明显关联。尽管传统融贯概念在雷舍尔理论的哲学基础中扮演一定角色，它却并不本质地出现在最终产物中。在后来的一本书中，雷舍尔发展出一种更传统的“系统论”的融贯观（Rescher 1979）[^rescher-1979]。
+  - id: 28
+    source: |-
+      Keith Lehrer employs the concept of coherence in his definition of justification, which in turn is a chief ingredient in his complex definition of knowledge. According to Lehrer, a person is justified in accepting a proposition just in case that proposition coheres with the relevant part of her cognitive system. This is the relational concept of coherence alluded to earlier. In Lehrer (1990), the relevant part is the “acceptance system” of the person, consisting of propositions to the effect that the subject accepts this and that. Thus, “$S$ accepts that $A$” would initially be in $S$’s acceptance system, but not $A$ itself. In later works, Lehrer has emphasized the importance of coherence with a more complex cognitive entity which he calls the “evaluation system” (e.g., Lehrer 2000 and 2003)[^lehrer-2000][^lehrer-2003]. The starting point of Lehrer’s account of coherence is the fact that we can think of all sorts of objections an imaginative critic may raise to what a person accepts. These objections might be directly incompatible with what that person accepts or they might threaten to undermine her reliability in making assessments of the kind in question. For instance, a critic might object to her claim that she sees a tree by suggesting that she is merely hallucinating. That would be an example of the first sort of objection. An example of the second sort would be a case in which the critic replies that the person cannot tell whether she is hallucinating or not. Coherence, and (personal) justification, results when all objections have been met. Lehrer’s concept of coherence does not seem to have much in common with the traditional concept of mutual support. If one takes it as essential that such a theory make use of a concept of systematic or global coherence, then Lehrer’s theory is not a coherence theory in the traditional sense because, in Lehrer’s view, “[c]oherence … is not a global feature of the system” (1997, 31), nor does it depend on global features of the system (31). Olsson (1999) has objected to this view by pointing out that it is difficult to understand what it means for a belief to fit into a system unless the former does so in virtue of adding to the global coherence of the latter.
+    step1: |-
+      基思·莱勒在其证成定义中运用融贯概念，而证成又是其复杂知识定义中的主要成分。按照莱勒，一个人有资格（证成地）接受一个命题，当且仅当该命题与她认知系统的相关部分相融贯。这就是前文提到的关系性融贯概念。在莱勒（1990）中，相关部分是人的“接受系统”，由这样的命题组成：主体接受这个那个。于是“$S$ 接受 $A$”起初会在 $S$ 的接受系统中，但 $A$ 本身不在其中。在后来著作中，莱勒强调了与一种更复杂的认知实体相融贯的重要性，他把这种实体称为“评价系统”（例如 Lehrer 2000 and 2003）[^lehrer-2000][^lehrer-2003]。莱勒融贯说明的出发点是：我们可以设想一位富有想象力的批评者对一个人所接受的东西可能提出种种反对。这些反对可能与该人所接受的东西直接不相容，也可能威胁到她在作出此类评估时的可靠性。例如，批评者可能通过提示她只是在幻觉中来反对她“看到一棵树”的主张。这是第一种反对的例子。第二种反对的例子是批评者回应说，该人无法辨别自己是否在幻觉中。当所有反对都得到回应时，就产生了融贯与（个人的）证成。莱勒的融贯概念似乎与传统相互支持概念没有多少共同之处。如果人们把这类理论必须使用某种系统的或整体的融贯概念视为本质，那么莱勒的理论就不是传统意义上的融贯理论，因为按照莱勒的看法，“[融贯]……不是系统的整体特征”（1997, 31），它也不依赖于系统的整体特征（31）。奥尔森（1999）反对这一看法，他指出：除非一个信念因增加后者的整体融贯而契合于系统，否则很难理解“一个信念契合于一个系统”是什么意思。
+    step2: |-
+      基思·莱勒在其证成定义中运用融贯概念，而证成又是其复杂知识定义中的主要成分。按照莱勒，一个人有资格（证成地）接受一个命题，当且仅当该命题与她认知系统的相关部分相融贯。这就是前文提到的关系性融贯概念。在莱勒（1990）中，相关部分是人的“接受系统”，由这样的命题组成：主体接受这个那个。于是“$S$ 接受 $A$”起初会在 $S$ 的接受系统中，但 $A$ 本身不在其中。在后来著作中，莱勒强调了与一种更复杂的认知实体相融贯的重要性，他把这种实体称为“评价系统”（例如 Lehrer 2000 and 2003）[^lehrer-2000][^lehrer-2003]。莱勒融贯说明的出发点是：我们可以设想一位富有想象力的批评者对一个人所接受的东西可能提出种种反对。这些反对可能与该人所接受的东西直接不相容，也可能威胁到她在作出此类评估时的可靠性。例如，批评者可能通过提示她只是在幻觉中来反对她“看到一棵树”的主张——这是第一种反对的例子。第二种反对的例子是批评者回应说，该人无法辨别自己是否在幻觉中。当所有反对都得到回应时，就产生了融贯与（个人的）证成。莱勒的融贯概念似乎与传统相互支持概念没有多少共同之处。如果人们把这类理论必须使用某种系统的或整体的融贯概念视为本质，那么莱勒的理论就不是传统意义上的融贯理论，因为按照莱勒的看法，“[融贯]……不是系统的整体特征”（1997, 31），它也不依赖于系统的整体特征（31）。奥尔森（1999）反对这一看法，他指出：除非一个信念因增加后者的整体融贯而契合于系统，否则很难理解“一个信念契合于一个系统”是什么意思。
+  - id: 29
+    source: |-
+      Paul Thagard’s theory is clearly influenced by the traditional concept of coherence but the specific way in which the theory is developed gives it a somewhat non-traditional flavor, in particular considering its strong emphasis on explanatory relations between beliefs. Like Rescher, Thagard takes the fundamental problem to be which elements of a given set of typically conflicting claims that have the status of *prima facie* truths to single out as acceptable. However, where Rescher proposes to base the choice of acceptable truths on considerations of plausibility, Thagard suggests the use of explanatory coherence for that purpose. According to Thagard, *prima facie* truths can cohere (fit together) or “incohere” (resist fitting together). The first type of relation includes relations of explanation and deduction, whereas the second type includes various types of incompatibility, such as logical inconsistency. If two propositions cohere, this gives rise to a positive constraint. If they incohere, the result is a negative constraint. A positive constraint between two propositions can be satisfied either by accepting both or by rejecting both. By contrast, satisfying a negative constraint means accepting one proposition while rejecting the other. A “coherence problem”, as Thagard sees it, is one of dividing the initial set of propositions into those that are accepted and those that are rejected in such a way that most constraints are satisfied. Thagard presents several different computational models for solving coherence problems, including a model based on neural networks.
+    step1: |-
+      保罗·萨加德的理论显然受到传统融贯概念的影响，但该理论得以发展的特定方式赋予了它某种非传统的色彩，尤其是考虑到它强烈强调信念之间的解释关系。与雷舍尔一样，萨加德认为根本问题是：在给定的一组通常相互冲突的、具有*初显真理*地位的主张中，挑出哪些作为可接受者。不过，雷舍尔提出以合理性考量为基础来选择可接受的真理，而萨加德则建议为此目的运用解释性融贯。按照萨加德，*初显*真理可以相融贯（契合在一起）或“不相融贯”（抗拒契合在一起）。第一种关系包括解释与演绎的关系，第二种关系包括各种不相容，例如逻辑不一致。如果两个命题相融贯，就产生一个正向约束；如果他们不相融贯，结果就是一个负向约束。两个命题之间的正向约束可以通过同时接受二者或同时拒斥二者来满足。相比之下，满足一个负向约束意味着接受一个命题而拒斥另一个。在萨加德看来，“融贯问题”是这样一种问题：把初始命题集合划分为被接受与被拒斥的两部分，使得大多数约束得到满足。萨加德提出了若干种解决融贯问题的不同计算模型，其中包括一种基于神经网络的模型。
+    step2: |-
+      保罗·萨加德的理论显然受到传统融贯概念的影响，但该理论得以发展的特定方式赋予了它某种非传统的色彩，尤其是考虑到它强烈强调信念之间的解释关系。与雷舍尔一样，萨加德认为根本问题是：在给定的一组通常相互冲突的、具有*初显真理*地位的主张中，挑出哪些作为可接受者。不过，雷舍尔提出以合理性考量为基础来选择可接受的真理，而萨加德则建议为此目的运用解释性融贯。按照萨加德，*初显*真理可以相融贯（契合在一起）或“不相融贯”（抗拒契合在一起）。第一种关系包括解释与演绎的关系，第二种关系包括各种不相容，例如逻辑不一致。如果两个命题相融贯，就产生一个正向约束；如果他们不相融贯，结果就是一个负向约束。两个命题之间的正向约束可以通过同时接受二者或同时拒斥二者来满足。相比之下，满足一个负向约束意味着接受一个命题而拒斥另一个。在萨加德看来，“融贯问题”是这样一种问题：把初始命题集合划分为被接受与被拒斥的两部分，使得大多数约束得到满足。萨加德提出了若干种解决融贯问题的不同计算模型，其中包括一种基于神经网络的模型。
+  - id: 30
+    source: |-
+      How acceptability depends on coherence, more precisely, is codified in Thagard’s “principles of explanatory coherence” (Thagard, 2000):
+    step1: |-
+      更精确地说，可接受性如何依赖于融贯，被编码在萨加德的“解释性融贯原则”中（Thagard, 2000）：
+    step2: |-
+      更精确地说，可接受性如何依赖于融贯，被编码在萨加德的“解释性融贯原则”中（Thagard, 2000）：
+  - id: 31
+    source: |-
+      **Principle E1 (Symmetry)**
+    step1: |-
+      **原则 E1（对称性）**
+    step2: |-
+      **原则 E1（对称性）**
+  - id: 32
+    source: |-
+      Explanatory coherence is a symmetric relation. That is, two propositions $A$ and $B$ cohere with each other equally.
+    step1: |-
+      解释性融贯是一种对称关系。也就是说，两个命题 $A$ 与 $B$ 彼此相等地相融贯。
+    step2: |-
+      解释性融贯是一种对称关系。也就是说，两个命题 $A$ 与 $B$ 彼此相等地相融贯。
+  - id: 33
+    source: |-
+      **Principle E2 (Explanation)**
+    step1: |-
+      **原则 E2（解释）**
+    step2: |-
+      **原则 E2（解释）**
+  - id: 34
+    source: |-
+      A hypothesis coheres with what it explains, which can either be evidence or another hypothesis. Hypotheses that together explain some other proposition cohere with each other. The more hypotheses it takes to explain something, the lower the degree of coherence.
+    step1: |-
+      一个假说与其所解释的东西相融贯，后者既可以是证据，也可以是另一个假说。共同解释某个其他命题的假说彼此相融贯。解释某物所需的假说越多，融贯程度越低。
+    step2: |-
+      一个假说与其所解释的东西相融贯，后者既可以是证据，也可以是另一个假说。共同解释某个其他命题的假说彼此相融贯。解释某物所需的假说越多，融贯程度越低。
+  - id: 35
+    source: |-
+      **Principle E3 (Analogy)**
+    step1: |-
+      **原则 E3（类比）**
+    step2: |-
+      **原则 E3（类比）**
+  - id: 36
+    source: |-
+      Similar hypotheses that explain similar pieces of evidence cohere.
+    step1: |-
+      解释相似证据的相似假说相融贯。
+    step2: |-
+      解释相似证据的相似假说相融贯。
+  - id: 37
+    source: |-
+      **Principle E4 (Data Priority)**
+    step1: |-
+      **原则 E4（数据优先性）**
+    step2: |-
+      **原则 E4（数据优先性）**
+  - id: 38
+    source: |-
+      Propositions that describe the results of observation have a degree of acceptability on their own.
+    step1: |-
+      描述观察结果的命题自身具有某种可接受度。
+    step2: |-
+      描述观察结果的命题自身具有某种可接受度。
+  - id: 39
+    source: |-
+      **Principle E5 (Contradiction)**
+    step1: |-
+      **原则 E5（矛盾）**
+    step2: |-
+      **原则 E5（矛盾）**
+  - id: 40
+    source: |-
+      Contradictory propositions are incoherent with each other.
+    step1: |-
+      相互矛盾的命题彼此不相融贯。
+    step2: |-
+      相互矛盾的命题彼此不相融贯。
+  - id: 41
+    source: |-
+      **Principle E6 (Competition)**
+    step1: |-
+      **原则 E6（竞争）**
+    step2: |-
+      **原则 E6（竞争）**
+  - id: 42
+    source: |-
+      If $A$ and $B$ both explain a proposition, and if $A$ and $B$ are not explanatorily connected, then $A$ and $B$ are incoherent with each other $(A$ and $B$ are explanatorily connected if one explains the other or if together they explain something).
+    step1: |-
+      如果 $A$ 与 $B$ 都解释一个命题，且 $A$ 与 $B$ 不处于解释性联系之中，那么 $A$ 与 $B$ 彼此不相融贯（$A$ 与 $B$ 处于解释性联系之中，如果其中一个解释另一个，或二者共同解释某物）。
+    step2: |-
+      如果 $A$ 与 $B$ 都解释一个命题，且 $A$ 与 $B$ 不处于解释性联系之中，那么 $A$ 与 $B$ 彼此不相融贯（$A$ 与 $B$ 处于解释性联系之中，如果其中一个解释另一个，或二者共同解释某物）。
+  - id: 43
+    source: |-
+      **Principle E7 (Acceptance)**
+    step1: |-
+      **原则 E7（接受）**
+    step2: |-
+      **原则 E7（接受）**
+  - id: 44
+    source: |-
+      The acceptability of a proposition in a system of propositions depends on its coherence with them.
+    step1: |-
+      一个命题在命题系统中的可接受性，取决于它与它们的融贯。
+    step2: |-
+      一个命题在命题系统中的可接受性，取决于它与它们的融贯。
+  - id: 45
+    source: |-
+      Principle E4 (Data Priority) reveals that Thagard’s theory is not a pure coherence theory, as it gives some epistemic priority to observational beliefs, making it rather a form of weak foundationalism, i.e., the view that some propositions have some initial epistemic support apart from coherence. Moreover, Thagard’s theory is based on binary coherence/incoherence relations, i.e., relations holding between two propositions. His basic theory does not handle incompatibilities that involve, in an essential way, more than two propositions. But incompatibilities of that sort may very well arise, as exemplified by the three propositions “Jane is taller than Martha”, “Martha is taller than Karen” and “Karen is taller than Jane”. Nevertheless, Thagard reports the existence of computational methods for converting constraint satisfaction problems whose constraints involve more than two elements into problems that involve only binary constraints, concluding that his characterization of coherence “suffices in principle for dealing with more complex coherence problems with nonbinary constraints” (Thagard 2000, 19)[^thagard-2000]. Thagard (2009) argues that there is a connection between explanatory coherence and (approximate) truth, where explaining consists in describing causal mechanisms. Several other authors have advocated coherence theories that emphasize the importance of explanatory relations. See, for example, Lycan (1988, 2012) and, for a book-length defense of explanatory coherentism, Poston (2014). Also related to Thagard’s work is Susan Haack’s so-called foundherentist theory, which draws on a proposed analogy between coherence justification (with foundationalist ingredients) and crossword puzzle-solving (Haack, 2009).
+    step1: |-
+      原则 E4（数据优先性）表明萨加德的理论不是一种纯粹的融贯理论，因为它赋予观察信念某种认识论上的优先性，从而使其毋宁成为一种弱基础主义的形式，即认为某些命题除融贯之外还具有某种初始的认识论支持。此外，萨加德的理论建立在二元的融贯/不相融贯关系之上，即两个命题之间的关系。他的基本理论不处理本质上涉及两个以上命题的不相容。但这类不相容很可能出现，例如这三个命题“简比玛莎高”“玛莎比凯伦高”“凯伦比简高”。尽管如此，萨加德报告说，存在一些计算方法，可以把约束涉及两个以上元素的约束满足问题转化为只涉及二元约束的问题，并总结说他的融贯刻画“原则上足以处理具有非二元约束的更复杂的融贯问题”（Thagard 2000, 19）[^thagard-2000]。萨加德（2009）论证说，解释性融贯与（近似）真理之间存在联系，其中解释在于描述因果机制。还有其他几位作者提倡强调解释关系之重要性的融贯理论。例如见 Lycan (1988, 2012)，关于解释性融贯论的整书辩护见 Poston (2014)。与萨加德的工作相关的还有苏珊·哈克所谓的“基础融贯论”（foundherentism），它借用了融贯性证成（带有基础主义成分）与解填字游戏之间的类比（Haack, 2009）。
+    step2: |-
+      原则 E4（数据优先性）表明萨加德的理论不是一种纯粹的融贯理论，因为它赋予观察信念某种认识论上的优先性，从而使其毋宁成为一种弱基础主义的形式，即认为某些命题除融贯之外还具有某种初始的认识论支持。此外，萨加德的理论建立在二元的融贯/不相融贯关系之上，即两个命题之间的关系。他的基本理论不处理本质上涉及两个以上命题的不相容。但这类不相容很可能出现，例如这三个命题“简比玛莎高”“玛莎比凯伦高”“凯伦比简高”。尽管如此，萨加德报告说，存在一些计算方法，可以把约束涉及两个以上元素的约束满足问题转化为只涉及二元约束的问题，并总结说他的融贯刻画“原则上足以处理具有非二元约束的更复杂的融贯问题”（Thagard 2000, 19）[^thagard-2000]。萨加德（2009）论证说，解释性融贯与（近似）真理之间存在联系，其中解释在于描述因果机制。还有其他几位作者提倡强调解释关系之重要性的融贯理论。例如见 Lycan (1988, 2012)，关于解释性融贯论的整书辩护见 Poston (2014)。与萨加德的工作相关的还有苏珊·哈克所谓的“基础融贯论”（foundherentism），它借用了融贯性证成（带有基础主义成分）与解填字游戏之间的类比（Haack, 2009）。

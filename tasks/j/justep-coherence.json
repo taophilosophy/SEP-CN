@@ -1,0 +1,22 @@
+{
+  "slug": "justep-coherence",
+  "kind": "retranslate",
+  "zh_doc": "j/justep-coherence.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:37:11Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:34:15Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 2, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "1f4bebbdd0cd61fa0e4af4c64c1584ace1f671ef8ca10c10f4703122029935c3"
+  }
+}
