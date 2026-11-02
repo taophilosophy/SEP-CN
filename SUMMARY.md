@@ -1249,7 +1249,7 @@
 * [\*内隐偏见——见内隐偏见 implicit bias — see bias, implicit](i/implicit-bias.md)
 * [不可能世界 impossible worlds (Francesco Berto and Mark Jago)](i/impossible-worlds.md)
 * [\*不可通约性 incommensurability](README.md)
-  * [科学理论的不可通约性 of scientific theories (Eric Oberheim and Paul Hoyningen-Huene)](i/incommensurability.md)
+  * [科学理论的不可通约性 the incommensurability of scientific theories (Eric Oberheim and Paul Hoyningen-Huene)](i/incommensurability.md)
   * [\*价值——见价值：不可通约性价值 of values — see value: incommensurable](v/value-incommensurable.md)
 * [\*价值不可共量——见价值：不可通约性价值 incomparable values — see value: incommensurable](v/value-incommensurable.md)
 * [\*不相容论 incompatibilism](README.md)

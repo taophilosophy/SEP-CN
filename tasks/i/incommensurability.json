@@ -2,7 +2,7 @@
   "slug": "incommensurability",
   "kind": "retranslate",
   "zh_doc": "i/incommensurability.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:56:05Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:21:40Z",
+      "evidence": "独立复审：对照 yuanwen 四节+全部小节（2.1-2.3/2.2.1-4/2.3.1-2/3.1-3.3/3.2.1-3/4）+库恩/费耶阿本德/迪昂/克勒/爱因斯坦/波普尔六家引块逐段核销，无漏译；源文讹误清点：intentional→intensional（内延，静修正确）、unbalanced parens 三处照录、Schmitt/Whorff/Einstein1949b 照录；发现 r1 级方向错误：内格尔还原 L87 演绎方向反了（源文 it 歧义，L88 明确立场为既定理论可从新理论推出），已按 L88 修正"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:21:40Z",
+      "evidence": "逐句回核修 12 处：还原方向句/形式地矛盾…的陈述 句重构/记录语句（protocol statements 惯译，陈述句系误解）/话句→语句×2/激剧→根本性/缩写版→节略版×2/对比集归一/误解混淆句去把字/锐度双需句重构/说明（explanation）消歧；SUMMARY+H1 全题化（TOC 片段→citation_title 小写全题，沿用先例）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:21:41Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary H1 与 SUMMARY 一致（本次同修）；科学哲学术语一致性核验（不可通约性/不可比较性/分类学与方法论不可通约/无重叠原则/理论负载性/格式塔转换/观察语言/翻译失败/逼真度）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T18:21:41Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
