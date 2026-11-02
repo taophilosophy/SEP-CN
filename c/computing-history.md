@@ -1,4 +1,4 @@
-# 现代计算机发展史 The Modern History of Computing (B. Jack Copeland)
+# 现代计算机发展史 modern history of (B. Jack Copeland)
 
 **首次发表于 2000 年 12 月 18 日；2006 年 6 月 9 日实质修订。**
 
