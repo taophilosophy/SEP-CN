@@ -61,48 +61,84 @@ def _unmask(seg, holes):
     return re.sub(r"\x00(\d+)\x00", lambda m: holes[int(m.group(1))], seg)
 
 
+def italic_single_pass(text, seen_manual, manual):
+    """线性 tokenizer 斜体转换：纯中文 *X* → **X**。
+
+    re.sub 的回退重试会让「*Latin phrase*」的闭星错当下一对的开星，跨对吞掉
+    其间整段中文（al-khunaji L54 复现实锤）。本扫描器保证：
+    开星找不到合法闭星（遇 ** 边界/空格/占位/行尾）时原样前进一格；
+    ** 粗体块整块跳过不参与配对。
+    """
+    out = []
+    i, n = 0, len(text)
+    while i < n:
+        ch = text[i]
+        if ch != "*":
+            out.append(ch)
+            i += 1
+            continue
+        if i + 1 < n and text[i + 1] == "*":
+            # ** 粗体块：整块跳过
+            j = text.find("**", i + 2)
+            if j == -1:
+                out.append(text[i:])
+                break
+            out.append(text[i:j + 2])
+            i = j + 2
+            continue
+        # 单星候选开：内容含空格=合法拉丁斜体对（原样保留整对，闭星不得再当开星）；
+        # 仅遇 ** 边界/占位/换行才放弃（放弃时开星原样前进一格）
+        j = i + 1
+        closed = -1
+        has_space = False
+        while j < n:
+            if text[j] == "*":
+                if j + 1 < n and text[j + 1] == "*":
+                    break  # 碰到 ** 边界，此开星无合法闭星
+                closed = j
+                break
+            if text[j] == "\x00" or text[j] == "\n":
+                break  # 占位/换行边界不可跨
+            if text[j] == " ":
+                has_space = True
+            j += 1
+        if closed > i:
+            content = text[i + 1:closed]
+            if has_space:
+                out.append(text[i:closed + 1])  # 拉丁短语/版本行体例豁免，整对保留
+            elif re.search(r"[一-鿿]", content) and not re.search(r"[A-Za-z0-9]", content):
+                out.append("**%s**" % content)
+            else:
+                out.append(text[i:closed + 1])
+                if re.search(r"[一-鿿]", content):
+                    key = ("italic-mixed", content[:60])
+                    if key not in seen_manual:
+                        seen_manual.add(key)
+                        manual.append({"rule": "italic-mixed", "detail": content[:60]})
+            i = closed + 1
+        else:
+            out.append("*")
+            i += 1
+    return "".join(out)
+
+
 def fix_seg(seg, seen_manual=None):
-    """对单个正文段做三类修复，返回 (new_seg, edits, manual_notes)。"""
+    """对单个正文段做三类修复，返回 (new_seg, edits, manual_notes)。
+
+    v4 安全形态（011 复核 v1/v2/v3 事故复盘）：italic 替换只做**单遍**（第 1 轮），
+    不进入不动点循环——多轮 italic 会让第 1 轮新产生的 `**` 与行内既有孤立 `*`
+    跨对错配，把整段中文包成粗体（al-khunaji L54 复现实锤）。bold/cjk 保留循环。
+    """
     edits, manual = [], []
     if seen_manual is None:
         seen_manual = set()
-    mixed_seen = False
     masked, holes = _mask(seg)
-    for _ in range(4):  # 不动点循环，上限防震荡
+    # ---- italic-cjk：单遍 tokenizer。v4 起**粗体块整块跳过+单星线性配对，
+    # 粗斜共存行可安全处理（v1/v2/v3 的事故根因=正则回退跨对，已根治） ----
+    masked = italic_single_pass(masked, seen_manual, manual)
+    # ---- bold-spacing / cjk-spacing：不动点循环（不产生新星号结构，安全） ----
+    for _ in range(4):
         changed = False
-        # italic-cjk：纯中文 *..* → **..**。
-        # v3 安全降级：行内已有 **粗体** 时一律不做 italic 替换（v1/v2 在粗斜相邻结构上
-        # 曾产生跨对错配与文本重复，rules/05 前置门教训），整段挂人工逐处处理。
-        bold_holes = []
-        def _stash_bold(m):
-            bold_holes.append(m.group(0))
-            return "\x00B%d\x00" % (len(bold_holes) - 1)
-        _bold_masked = re.sub(r"\*\*[^*\n]+\*\*", _stash_bold, masked)
-        if bold_holes and ITALIC_RE.search(_bold_masked) and re.search(r"[一-鿿]", masked):
-            key = ("italic-bold-coexist", masked[:60])
-            if key not in seen_manual:
-                seen_manual.add(key)
-                manual.append({"rule": "italic-bold-coexist", "detail": masked[:80]})
-        if not bold_holes:
-            if not mixed_seen:
-                for m in ITALIC_RE.finditer(masked):
-                    t = m.group(1)
-                    if re.search(r"[一-鿿]", t) and re.search(r"[A-Za-z0-9]", t):
-                        key = ("italic-mixed", t[:60])
-                        if key not in seen_manual:
-                            seen_manual.add(key)
-                            manual.append({"rule": "italic-mixed", "detail": t[:60]})
-            def _ital(m):
-                t = m.group(1)
-                if re.search(r"[一-鿿]", t) and not re.search(r"[A-Za-z0-9]", t):
-                    return "**%s**" % t
-                return m.group(0)
-            new_masked = ITALIC_RE.sub(_ital, masked)
-            if new_masked != masked:
-                masked = new_masked
-                changed = True
-        else:
-            masked = re.sub(r"\x00B(\d+)\x00", lambda m: bold_holes[int(m.group(1))], masked)
         # bold-spacing：两侧补空格（豁免标点/段边界）
         def _bold(m):
             s, e = m.start(), m.end()
