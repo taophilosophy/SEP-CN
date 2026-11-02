@@ -2,7 +2,7 @@
   "slug": "ibn-sina",
   "kind": "retranslate",
   "zh_doc": "i/ibn-sina.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:55:11Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:45:38Z",
+      "evidence": "独立复审：对照 yuanwen（Gutas 2025 修订版）五节+33 项著作分类表+Works by Ibn Sina 表+10 条技术性原文脚注逐段核销，无漏译；人名地名年代全链核验（布哈拉/乌尔根奇/戈尔甘/雷伊/哈马丹/伊斯法罕、999 喀喇汗、750 阿拔斯、1330 年间隔、Λ 卷 6-10 章）；注 8（ittiṣāl≠junction 之辨、Ross 触喻）与注 10（fa-in kāna 补 ḥāl 校勘）等高难段落忠实；仅 L93 错字'水恒'→'永恒'"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:45:39Z",
+      "evidence": "逐句回核：译文语言过关（前会话 s2 已扎实，欧化极少）；定点复核术语（哲学总汇/治疗论/拯救论/指要与提醒/能动理智/获得的理智/可理知者/四艺/直言命题/中项击中/穆尔太齐赖派/体液平衡）；《为阿鲁齐而作的哲学》与《为阿拉而作的哲学》两部异作辨析无误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:45:39Z",
+      "evidence": "终稿验收：check_style --strict 0；学术门禁见自动拦截；伊斯兰哲学术语一致性核验（伊本·西那/阿维森纳双名、凯拉姆 n/a、流溢说/月下月上/先知立法/理性灵魂的形而上学）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:45:39Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
