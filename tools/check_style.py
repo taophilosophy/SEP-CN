@@ -109,9 +109,13 @@ def check_line(path, lineno, line, issues):
                 issues.append({"path": path, "line": lineno, "rule": "italic-cjk",
                                "detail": "中文强调不应使用斜体，应改为加粗: *%s*" % m2.group(1)[:30]})
 
-        # bold-spacing
+        # bold-spacing（遮蔽数学区间的 ** 误配：$w^{**}$ 等数学星号不是强调标记，
+        # 与上方 italic 检测的数学遮蔽对称）
+        _math_spans = [m.span() for m in re.finditer(r"\$\$.+?\$\$|\$[^$\n]+?\$", seg)]
         for m in EMPH_RE.finditer(seg):
             start, end = m.start(), m.end()
+            if any(s <= start < e or s <= end - 1 < e for s, e in _math_spans):
+                continue
             before = seg[start - 1] if start > 0 else ""
             after = seg[end] if end < len(seg) else ""
             if before and before not in " \t" and before not in "（“‘【《—…，。、；：？！）】》”’":
