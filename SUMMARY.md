@@ -923,7 +923,7 @@
   * [外在主义与自我认识 and self-knowledge (T. Parent)](s/self-knowledge-externalism.md)
 * [心灵外在主义 externalism about the mind (Mark Rowlands, Joe Lau, and Max Deutsch)](c/content-externalism.md)
 * [\*外在性——见内在属性与外在属性 extrinsic — see intrinsic vs. extrinsic properties](i/intrinsic-extrinsic.md)
-* [\*亚伯拉罕·伊本·埃兹拉——见亚伯拉罕·伊本·埃兹拉 Ezra, Abraham Ibn — see Ibn Ezra, Abraham](i/ibn-ezra.md)
+* [\*亚伯拉罕·伊本·以斯拉——见亚伯拉罕·伊本·以斯拉 Ezra, Abraham Ibn — see Ibn Ezra, Abraham](i/ibn-ezra.md)
 
 ## F
 
@@ -1210,7 +1210,7 @@
 * [伊本·阿拉比 Ibn ‘Arabî (William Chittick)](i/ibn-arabi.md)
 * [伊本·巴哲 Ibn Bâjja \[Avempace\] (Josep Puig Montada)](i/ibn-bajja.md)
 * [亚伯拉罕·伊本·达乌德 Ibn Daud, Abraham (Resianne Fontaine and Amira Eran)](a/abraham-daud.md)
-* [亚伯拉罕·伊本·埃兹拉 Ibn Ezra, Abraham (Tzvi Langermann)](i/ibn-ezra.md)
+* [亚伯拉罕·伊本·以斯拉 Abraham Ibn Ezra (Tzvi Langermann)](i/ibn-ezra.md)
 * [\*闪-托夫·伊本·法拉奎拉——见闪-托夫·伊本·法拉奎拉 Ibn Falaquera, Shem Tov — see Falaquera, Shem Tov Ibn](f/falaquera.md)
 * [所罗门·伊本·盖比鲁勒 Solomon Ibn Gabirol [Avicebron] (Sarah Pessin)](i/ibn-gabirol.md)
 * [伊本·凯姆那 Ibn Kammūna (Tzvi Langermann)](i/ibn-kammuna.md)

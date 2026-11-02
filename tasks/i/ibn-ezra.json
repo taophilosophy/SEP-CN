@@ -2,7 +2,7 @@
   "slug": "ibn-ezra",
   "kind": "retranslate",
   "zh_doc": "i/ibn-ezra.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T15:26:32Z",
       "evidence": "主会话收口：三校全绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:30:35Z",
+      "evidence": "独立复审：对照 yuanwen 十一节+5 条原文脚注（含 Author's Note）逐段核销，无漏译；发现 SUMMARY 与正文中文名系统性不一致：SUMMARY/别名行用'伊本·埃兹拉'，正文用'伊本·以斯拉'×40（圣经专名以斯拉记惯例），修弱势方 SUMMARY 两行归一；源文讹误照录：Temple temple/Guttman vs Guttmann/Neuplatnismus/Zahut-Tzahut 变体；Template 尾部节序违规（脚注误置相关词条之后）已按'脚注→参考文献'模板序移位"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:30:36Z",
+      "evidence": "逐句回核修 10 处：small sampling 语义丢失回复/'回应塑造'破句/阿维斯布朗→阿维斯布隆（对齐 SUMMARY）/归功句重构/凯拉姆的博士们→学者们/统摄→支配（domineering）/法理学的→律法主义式（legalistic）/阿维森纳→伊本·西那（本档内归一，i/ibn-sina 亦以伊本·西那为主名）/H1 与 SUMMARY 英文全题化（Ibn Ezra, Abraham→Abraham Ibn Ezra，citation_title 核对）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:30:36Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary H1 与 SUMMARY 一致（本次同修含中文译名归一）；学术门禁见自动拦截；中世纪犹太哲学术语一致性核验（凯拉姆/高尼德/疏解/秘义 sod/流溢/巨匠造物主/询唤 n/a/算术学）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T19:30:36Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
