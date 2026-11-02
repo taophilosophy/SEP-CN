@@ -1,0 +1,50 @@
+{
+  "slug": "lawphil-theory",
+  "kind": "retranslate",
+  "zh_doc": "l/lawphil-theory.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-02T18:15:21Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:39:11Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/lawphil-theory.ledger.yaml 29 段（反思两步齐备），守恒校验通过（软旗留痕：4 个标题/OIR机械段 step1==step2）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:39:12Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 28 段：PT1/PT2/GT 引用组与缩写表照录（refs_tables 修复后 compose 已保留主文献表）；[^raz-1979][^paulson-2012][^green-2016][^hart-1961] 四键照录核验；Hart 1961 p.105 括注/康德-休谟对照逐句核销；相关词条 4 项映射 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:39:12Z",
+      "evidence": "check_prose 首跑 18 处实修：长句拆分×4（43/49/57/引文内）、的链消解×13（含 PT2 引文与哈特括注内轻改）、弱动词'旨在进行…认知'改'旨在认识法律自身'；复跑 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-02T18:39:12Z",
+      "evidence": "四检全过：check_style 0 / check_academic 0 硬错误 / check_math 0 / prose 0；术语 基本规范/实效/承认规则 登记 yi-zhe-shuo-ming.md，人名 凯尔森/拉兹/哈特 登记 ren-ming-biao.md"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-02T18:15:21Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 13, 2026",
+    "archive_edition": "Spring 2026",
+    "sha256": "b042dcd5bee621902f3955e7619aa31112750b34c171f48344ca274b716b4194"
+  }
+}

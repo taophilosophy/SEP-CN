@@ -1,0 +1,250 @@
+version: 1
+slug: lawphil-theory
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The idea of a Pure Theory of Law was propounded by the formidable Austrian jurist and philosopher Hans Kelsen (1881–1973) (see the bibliographical note). Kelsen began his long career as a legal theorist at the beginning of the 20th century. The traditional legal philosophies at the time, were, Kelsen claimed, hopelessly contaminated with political ideology and moralizing on the one hand, or with attempts to reduce the law to natural or social sciences, on the other hand. He found both of these reductionist endeavors seriously flawed. Instead, Kelsen suggested a ‘pure’ theory of law which would avoid reductionism of any kind. The jurisprudence Kelsen propounded “characterizes itself as a ‘pure’ theory of law because it aims at cognition focused on the law alone” and this purity serves as its “basic methodological principle” (PT1, 7).
+    step1: |-
+      纯粹法理论这一构想，由这位声名卓著的奥地利法学家兼哲学家汉斯·凯尔森（Hans Kelsen，1881–1973）提出（参见文献说明）。凯尔森作为法律理论家的漫长生涯始于二十世纪初。他声称，当时的各种传统法律哲学，一方面无可救药地沾染了政治意识形态与道德说教，另一方面则试图把法律还原为自然科学或社会科学。他认为这两种还原论努力都有严重缺陷。有鉴于此，凯尔森提出了一种“纯粹的”法理论，以避免任何形式的还原论。他所倡导的法理学“自命为一种‘纯粹的’法理论，因为它旨在进行只关注法律本身的认知”，这种纯粹性构成其“基本的方法论原则”（PT1, 7）。
+    step2: |-
+      纯粹法理论之构想，出自这位声名卓著的奥地利法学家兼哲学家汉斯·凯尔森（Hans Kelsen，1881–1973）（参见文献说明）。凯尔森作为法律理论家的漫长生涯，始于二十世纪初。依他之见，当时的各派传统法律哲学，或则无可救药地沾染政治意识形态与道德说教，或则力图把法律还原为自然科学或社会科学。在他看来，这两种还原论努力皆有严重缺陷。有鉴于此，凯尔森倡导一种“纯粹的”法理论，以避免任何形式的还原论。他所倡立的法理学“自命为一种‘纯粹的’法理论，因为它旨在进行只专注于法律本身的认知”；这种纯粹性正是其“基本的方法论原则”（PT1, 7）。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. The Basic Norm
+    step1: |-
+      ## 1 基本规范
+    step2: |-
+      ## 1 基本规范
+  - id: 3
+    kind: body
+    source: |-
+      The main challenge for a theory of law, as Kelsen saw it, is to provide an explanation of legality and the normativity of law, without an attempt to reduce jurisprudence, or “legal science”, to other domains. The law, Kelsen maintained, is basically a scheme of interpretation. Its reality, or objectivity, resides in the sphere of meaning; we attach a legal-normative meaning to certain actions and events in the world (PT1, 10). Suppose, for example, that a new law is enacted by the California legislature. How is it done? Presumably, some people gather in a hall, debate the issue, eventually raise their hands in response to the question of whether they approve a certain document or not, count the number of people who say “yes”, and then promulgate a string of words, etc. Now, of course, the actions and events described here are not the law. To say that the description is of the enactment of a new law is to interpret these actions and events in a certain way. But then, of course, the question is why certain acts or events have such a legal meaning and others don’t?
+    step1: |-
+      在凯尔森看来，法理论面临的主要挑战是：如何说明合法性（legality）与法律的规范性，而不试图把法理学或“法律科学”还原为其他领域。凯尔森坚持认为，法律基本上是一种解释图式。它的实在性或客观性居于意义领域之中；我们给世界上某些行动与事件附加上法律-规范的含义（PT1, 10）。举例来说，假设加利福尼亚州立法机关颁布了一部新法律。这是怎么做到的？大概是这样：一些人聚集在一个大厅里，辩论议题，最终就是否批准某份文件的问题举手表决，统计说“是”的人数，然后颁布一串词语，等等。当然，这里描述的行动与事件并不是法律。说这一描述是关于一部新法律的颁布，就是以某种方式解释这些行动与事件。但这样一来，问题自然是：为什么某些行为或事件具有这种法律含义，而另一些则没有？
+    step2: |-
+      在凯尔森看来，法理论面临的主要挑战是：如何说明合法性与法律的规范性，而不把法理学或“法律科学”还原为别的领域。凯尔森坚持认为，法律基本上是一种解释图式；其实在性或客观性居于意义领域之中——我们给世界上某些行动与事件附加法律-规范的含义（PT1, 10）。试举一例：假设加利福尼亚州立法机关颁布了一部新法律。这是如何做到的？大致如此：一些人聚于议事大厅，辩论议题，最终就是否批准某份文件举手表决，清点答“是”者的人数，继而颁布一串字句，如此等等。当然，此处描述的行动与事件并非法律本身。说这段描述是关于一部新法律的颁布，就是以某种方式解释这些行动与事件。但由此而来的问题自然是：何以某些行为或事件具有这种法律含义，另一些却没有？
+  - id: 4
+    kind: body
+    source: |-
+      Kelsen’s answer to this question is surprisingly simple: an act or an event gains its legal-normative meaning by another legal norm that confers this normative meaning on it. An act can create or modify the law if it is created in accordance with another, “higher” legal norm that authorizes its creation in that way. And the “higher” legal norm, in turn, is legally valid if and only if it has been created in accord with yet another, “higher” norm that authorizes its enactment in that way. In other words: it is the law in the United States that the California legislature can enact certain types of laws. But what makes this the law? The California Constitution confers this power on the state legislature to enact laws within certain prescribed boundaries of content and jurisdiction. But then what makes the California Constitution legally valid? The answer is that the legal validity of the Constitution of California derives from an authorization granted by the US Constitution. What makes the US Constitution legally valid? Surely, not the fact that the US Constitution proclaims itself to be “the supreme law of the land”. Any document can say that, but only the particular document of the US Constitution is actually the supreme law in the United States.
+    step1: |-
+      凯尔森对这一问题的回答出奇地简单：一个行为或事件获得其法律-规范含义，是由于另一个法律规范赋予它这种规范含义。一个行为能够创制或修改法律，仅当它是依照另一个“更高”的法律规范、并以该规范授权的方式创制出来的。而这个“更高”的法律规范，反过来，当且仅当它也是依照又一个“更高”的规范、并以该规范授权的方式制定的，才具有法律效力。换言之：加利福尼亚州立法机关可以制定某些类型的法律，这是美国法律的规定。但什么使这成为法律？是加州宪法把这项权力授予州立法机关，使其得以在内容与管辖权的特定边界内制定法律。那么又是什么使加州宪法具有法律效力？答案是：加州宪法的法律效力来自美国宪法授予的授权。什么使美国宪法具有法律效力？当然不是美国宪法宣称自己是“国家的最高法律”这一事实。任何文件都可以这么说，但只有美国宪法这份特定文件才实际是美国的最高法律。
+    step2: |-
+      凯尔森对此的回答简单得出奇：一个行为或事件之所以获得其法律-规范含义，是因为另一个法律规范把这种规范含义赋予了它。一个行为能够创制或修改法律，仅当它是依照另一个“更高”的法律规范、并以该规范授权的方式作出的。而这个“更高”的法律规范，反过来，又当且仅当它是依照再一个“更高”的规范、并以该规范授权的方式制定的，才具有法律效力。换言之：加州立法机关可以制定某些类型的法律，这是美国法律的规定。然而，什么使这成为法律？是加州宪法把这项权力授予州立法机关，使其得以在特定划定的内容与管辖权边界内制定法律。那么，又是什么使加州宪法具有法律效力？答案是：加州宪法的法律效力，来自美国宪法所授予的授权。什么使美国宪法具有法律效力？断乎不是美国宪法自称“国家最高法律”这一事实——任何文件都可以如此自命，唯有美国宪法这份特定文件，才实际是美国的最高法律。
+  - id: 5
+    kind: body
+    source: |-
+      The problem is that here the chain of authorization comes to an end: There isn’t a higher legal norm that authorizes the enactment of the (original) US Constitution. At this point, Kelsen famously argued, one must presuppose the legal validity of the Constitution. At some stage, in every legal system, we get to an authorizing norm that has not been authorized by any other legal norm, and thus it has to be presupposed to be legally valid. The normative content of this presupposition is what Kelsen has called the basic norm. The basic norm is the content of the presupposition of the legal validity of the (first, historical) constitution of the relevant legal system (GT, 110–111).
+    step1: |-
+      问题在于，授权链条在此走到了尽头：并没有一个更高的法律规范来授权制定（最初的）美国宪法。凯尔森的名论是：在这一点上，人们必须预设宪法的法律效力。在任何一个法律体系中，我们总会在某个阶段遇到一个未被其他法律规范授权的授权规范，因而不得不预设它是法律上有效的。这一预设的规范内容，就是凯尔森所说的基本规范。基本规范是预设相关法律体系（最初的、历史上的）宪法之法律效力的内容（GT, 110–111）。
+    step2: |-
+      问题在于，授权之链至此走到尽头：并没有更高的法律规范来授权制定（最初的）美国宪法。凯尔森的名论是：在这一点上，人们必须预设宪法的法律效力。在任何一个法律体系中，我们总会在某个阶段碰到一个未经其他法律规范授权的授权规范，于是不得不预设它在法律上有效。这一预设的规范内容，就是凯尔森所谓的基本规范。基本规范，即预设相关法律体系（最初的、历史上的）宪法具有法律效力时所得的内容（GT, 110–111）。
+  - id: 6
+    kind: body
+    source: |-
+      As Kelsen saw it, there is simply no alternative. More precisely, any alternative would violate David Hume’s injunction against deriving an “ought” from an “is”. Hume famously argued that any practical argument that concludes with some prescriptive statement, a statement of the kind that one ought to do this or that, would have to contain at least one prescriptive statement in its premises. If all the premises of an argument are descriptive, telling us what this or that is the case, then there is no prescriptive conclusion that can logically follow. Kelsen took this argument very seriously. He observed that the actions and events that constitute, say, the enactment of a law, are all within the sphere of what “is” the case, they are all within the sphere of actions and events that take place in the world. The law, or legal norms, are within the sphere of “ought”, they are norms that purport to guide conduct. Thus, to get an “ought” type of conclusion from a set of “is” premises, one must point to some “ought” premise in the background, an “ought” that confers the normative meaning on the relevant type of “is”. Since the actual, legal, chain of validity comes to an end, we inevitably reach a point where the “ought” has to be presupposed, and this is the presupposition of the basic norm.
+    step1: |-
+      在凯尔森看来，根本没有别的选择。更确切地说，任何替代方案都会违反休谟（David Hume）关于不得从“实然”推出“应然”的诫命。休谟的名论是：任何以某个规范性陈述——即“应当做这个或那个”式的陈述——作结的实践论证，其前提中必定至少含有一个规范性陈述。如果一个论证的所有前提都是描述性的，告诉我们这个或那个情况如何，那么在逻辑上就不可能得出规范性结论。凯尔森极为严肃地对待这一论证。他注意到，构成（比如说）一部法律的颁布的那些行动与事件，全都处于“实然”的范围之内，全都属于发生在世界上的行动与事件的范围。而法律或法律规范则处于“应然”的范围之内，它们是旨在指导行为的规范。因此，要从一组“实然”前提得出“应然”式结论，就必须指出背景中的某个“应然”前提，一个给相关类型的“实然”赋予规范含义的“应然”。由于实际的法律效力链条终有尽头，我们不可避免地到达某个点，在那里“应然”必须被预设，而这正是对基本规范的预设。
+    step2: |-
+      在凯尔森看来，别无他途。说得确切些，任何替代方案都会违反休谟（David Hume）“不得从实然推出应然”的诫命。休谟的名论是：凡以规范性陈述——“应当做这个或那个”式陈述——作结的实践论证，其前提中必至少含有一个规范性陈述。倘若一个论证的前提全属描述性，只告诉我们事情如何，那就在逻辑上得不出规范性结论。凯尔森极为严肃地对待这一论证。他注意到：构成（比方说）一部法律之颁布的那些行动与事件，全都落在“实然”的范围内，全都属于世间发生的行动与事件；而法律或法律规范则处于“应然”的范围，它们是旨在指导行为的规范。因此，要从一组“实然”前提得出“应然”式结论，就必须指出背景中的某个“应然”前提——某个给相关“实然”赋予规范含义的“应然”。既然实际的法律效力之链终有尽头，我们便不可避免地走到这样一点：在那里，“应然”必须被预设——这正是对基本规范的预设。
+  - id: 7
+    kind: body
+    source: |-
+      The idea of the basic norm serves three theoretical functions in Kelsen’s theory of law: The first is to ground a non-reductive explanation of legal validity. The second function is to ground a non-reductive explanation of the normativity of law. The third function is to explain the systematic nature of legal norms. These three issues are not un-related.
+    step1: |-
+      基本规范这一观念在凯尔森法理论中承担三种理论功能：其一是为法律效力提供一种非还原的解释；其二是为法律的规范性提供一种非还原的解释；其三是说明法律规范的系统性。这三个问题并非互不相干。
+    step2: |-
+      在凯尔森的法理论中，基本规范观念承担着三种理论功能：其一，为法律效力提供非还原的解释；其二，为法律的规范性提供非还原的解释；其三，说明法律规范的系统性。这三者并非互不相干。
+  - id: 8
+    kind: body
+    source: |-
+      Kelsen rightly noticed that legal norms necessarily come in systems. There are no free-floating legal norms. If, for example, somebody suggests that “the law requires a will to be attested by two witnesses”, one should always wonder which legal system is talked about; is it US law, Canadian law, German law, or the law in some other legal system? Furthermore, legal systems are themselves organized in a hierarchical structure, manifesting a great deal of complexity but also a certain systematic unity. We talk about Canadian law, or German law, etc., not only because these are separate countries in which there is law. They are also separate legal systems, manifesting a certain cohesion and unity. This systematic unity Kelsen meant to capture by the following two postulates:
+    step1: |-
+      凯尔森正确地注意到，法律规范必然成体系地出现，不存在游离漂浮的法律规范。例如，如果有人说“法律要求遗嘱须有两名见证人见证”，人们总不免要问：这里说的是哪个法律体系——是美国法、加拿大法、德国法，还是其他法律体系中的法？此外，法律体系本身也以层级结构组织起来，呈现出高度的复杂性，但也呈现出某种系统统一性。我们谈论加拿大法或德国法等，不仅因为它们是存在法律的各自独立的国家，也因为它们是各自独立的法律体系，表现出某种内聚性与统一性。凯尔森意图用以下两个公设来把握这种系统统一性：
+    step2: |-
+      凯尔森正确地注意到：法律规范必然成体系，绝无游离漂浮的法律规范。例如，有人说“法律要求遗嘱须有两名见证人见证”，人们总不免要问：此处所说的是哪个法律体系——美国法、加拿大法、德国法，还是别的什么法？再者，法律体系本身又以层级结构组织起来，既呈现高度复杂性，也呈现某种系统统一性。我们谈论加拿大法、德国法云云，不仅因为它们是各自存在法律的独立国家，更因为它们是各自独立的法律体系，表现出某种内聚与统一。凯尔森意欲借以下两条公设把握这种系统统一性：
+  - id: 9
+    kind: body
+    source: |-
+      1. Every two norms that ultimately derive their validity from one basic norm belong to the same legal system.
+      2. All legal norms of a given legal system ultimately derive their validity from one basic norm.
+    step1: |-
+      1. 凡最终从一个基本规范获得其效力的两个规范，都属于同一法律体系。
+      2. 一个给定法律体系的全部法律规范，最终都从同一个基本规范获得其效力。
+    step2: |-
+      1. 凡效力最终源自同一基本规范的两个规范，皆属同一法律体系。
+      2. 任一法律体系的全部法律规范，其效力最终皆源自同一个基本规范。
+  - id: 10
+    kind: body
+    source: |-
+      Whether these two postulates are actually true is a contentious issue. Joseph Raz argued that they are both inaccurate, at best. Two norms can derive their validity from the same basic norm, but fail to belong to the same system as, for example, in case of an orderly secession whereby a new legal system is created by the legal authorization of another. Nor is it necessarily true that all the legally valid norms of a given system derive their validity from the same basic norm (Raz 1979, 127–129)[^raz-1979].
+    step1: |-
+      这两条公设是否真的成立，是一个有争议的问题。Joseph Raz 论证说，它们充其量都不够准确。两个规范可以源自同一个基本规范，却不属于同一体系——例如在有序分离（secession）的情形中，一个新法律体系由另一个体系的法律授权而创生。同样，一个给定体系的全部有效法律规范都源自同一个基本规范，也未必为真（Raz 1979, 127–129）[^raz-1979]。
+    step2: |-
+      这两条公设是否属实，大有争议。Joseph Raz 论证说，二者至多都不够准确。两个规范可以同源于一个基本规范，却不属于同一体系——例如有序分离的情形：新法律体系由另一体系的法律授权而创生。同理，“任一体系的全部有效法律规范都源自同一基本规范”亦未必为真（Raz 1979, 127–129）[^raz-1979]。
+  - id: 11
+    kind: body
+    source: |-
+      Be this as it may, even if Kelsen erred about the details of the unity of legal systems, his main insight remains true, and quite important. It is true that law is essentially systematic, and it is also true that the idea of legal validity and law’s systematic nature are very closely linked. Norms are legally valid within a given system, they have to form part of a system of norms that is in force in a given place and time.
+    step1: |-
+      尽管如此，即便凯尔森在法律体系统一性的细节上有误，他的主要洞见依然为真，而且相当重要。法律在本质上是系统性的，这一点为真；法律效力观念与法律的系统本性紧密相连，这一点也为真。规范在给定体系内具有法律效力，它们必须构成一个在特定地点与时间生效的规范体系的组成部分。
+    step2: |-
+      尽管如此，即便凯尔森在法律体系统一性的细节上有误，他的主要洞见依然成立，且颇为重要。法律本质上就是系统性的；法律效力观念与法律的系统本性也确实紧密相连。规范之具有法律效力，总是相对于给定体系而言——它们必须构成某个在特定地点与时间生效的规范体系的一部分。
+  - id: 12
+    kind: body
+    source: |-
+      This last point brings us to another observation that is central to Kelsen’s theory, about the relations between legal validity and, what he called, “efficacy”. The latter is a term of art in Kelsen’s writings: A norm is efficacious if it is actually (generally) followed by the relevant population. Thus, “a norm is considered to be legally valid”, Kelsen wrote, “on the condition that it belongs to a system of norms, to an order which, on the whole, is efficacious” (GT, 42). So the relationship here is this: efficacy is not a condition of legal validity of individual norms. Any given norm can be legally valid even if nobody follows it. (e.g. think about a new law, just enacted; it is legally valid even if nobody has yet had an opportunity to comply with it.) However, a norm can only be legally valid if it belongs to a system, a legal order, that is by and large actually practiced by a certain population. And thus the idea of legal validity, as Kelsen admits, is closely tied to this reality of a social practice; a legal system exists, as it were, only as a social reality, a reality that consists in the fact that people actually follow certain norms.
+    step1: |-
+      这最后一点把我们引向凯尔森理论的另一个核心论点，即法律效力与他所谓的“实效”（efficacy）之间的关系。后者是凯尔森著作中的术语：如果一个规范实际上（普遍地）被相关人群遵循，它就是有实效的。因此，“一个规范被认为在法律上有效”，凯尔森写道，“其条件是它属于一个规范体系，属于一个总体上有实效的秩序”（GT, 42）。所以这里的关系是：实效不是单个规范法律效力的条件。任何给定规范即使无人遵循也可以在法律上有效（例如想一想一部刚刚颁布的新法律：即使还没有人有服从它的机会，它也已在法律上有效）。然而，一个规范要具有法律效力，就必须属于一个被特定人群大体上实际践行的体系，即法律秩序。因而，正如凯尔森所承认的，法律效力观念与这种社会实践的实在性紧密相连；法律体系仿佛只作为一种社会实在而存在，这种实在在于人们实际上遵循某些规范这一事实。
+    step2: |-
+      这最后一点把我们引向凯尔森理论的另一核心论断：法律效力与他所谓的“实效”（efficacy）之间的关系。后者是凯尔森著述中的术语：一个规范若实际上（普遍地）被相关人群遵循，便是有实效的。故此，“一个规范被认为在法律上有效”，凯尔森写道，“其条件是它属于一个规范体系，属于一个总体上有实效的秩序”（GT, 42）。于是，这里的关系是：实效并非单个规范法律效力之条件。任何给定规范，即便无人遵循，也可以在法律上有效（例如一部甫经颁布的新法律：纵然尚无人有机会服从它，它已具有法律效力）。然而，一个规范要具有法律效力，就必须属于一个被特定人群大体上实际践行的体系，亦即法律秩序。因而，正如凯尔森所承认的，法律效力观念与这种社会实践的实在性紧密相连；法律体系仿佛只作为一种社会实在而存在——这种实在就在于人们实际遵循某些规范这一事实。
+  - id: 13
+    kind: body
+    source: |-
+      What about the basic norm, is efficacy a condition of its validity? One might have thought that Kelsen would have opted for a negative answer here. After all, the basic norm is a presupposition that is logically required to render the validity of law intelligible. This would seem to be the whole point of an anti-reductionist explanation of legal validity: since we cannot derive an “ought” from an “is”, some “ought” must be presupposed in the background that would enable us to interpret certain acts or events as having legal significance. Kelsen, however, quite explicitly admits that efficacy is a condition of the validity of the basic norm: A basic norm is legally valid if and only if it is actually followed in a given population. In fact, as we shall see below, Kelsen had no choice here. And this is precisely why at least one crucial aspect of his anti-reductionism becomes questionable.
+    step1: |-
+      那么基本规范呢，实效是不是其效力的条件？人们也许以为凯尔森在这里会给出否定的回答。毕竟，基本规范是一个逻辑上必需的预设，它使法律效力的概念变得可理解。这似乎正是法律效力的反还原解释的全部要义：既然我们不能从“实然”推出“应然”，就必须在背景中预设某个“应然”，以便我们把某些行为或事件解释为具有法律意义。然而，凯尔森相当明确地承认，实效是基本规范效力的条件：一个基本规范在法律上有效，当且仅当它在一个给定人群中实际被遵循。事实上，正如我们下文将看到的，凯尔森在这里别无选择。而这正是他的反还原主义至少有一个关键方面变得可疑的原因。
+    step2: |-
+      那么基本规范又如何？实效是不是其效力的条件？人们或许以为凯尔森在此会给出否定回答。毕竟，基本规范是一个逻辑上必需的预设，正是它使法律效力可以理解；这似乎正是法律效力之反还原解释的全部要义：既然不能从“实然”推出“应然”，就必须在背景中预设某个“应然”，我们方能将某些行为或事件解释为具有法律意义。然而凯尔森相当明确地承认：实效是基本规范效力之条件——一个基本规范在法律上有效，当且仅当它在给定人群中实际被遵循。事实上，正如下文所见，凯尔森在此别无选择。而这正是其反还原主义至少有一个关键方面变得可疑的缘由。
+  - id: 14
+    kind: body
+    source: |-
+      ## 2. Relativism and Reduction
+    step1: |-
+      ## 2 相对主义与还原
+    step2: |-
+      ## 2 相对主义与还原
+  - id: 15
+    kind: body
+    source: |-
+      Common wisdom has it that Kelsen’s argument for the presupposition of the basic norm takes the form of a Kantian transcendental argument. The structure is as follows:
+    step1: |-
+      人们通常认为，凯尔森为基本规范之预设所作的论证，采取的是康德式先验论证的形式。其结构如下：
+    step2: |-
+      流行的看法是：凯尔森为预设基本规范所作的论证，采取康德式先验论证的形式。其结构如下：
+  - id: 16
+    kind: body
+    source: |-
+      1. *P* is possible only if *Q*
+      2. *P* is possible (or, possibly *P*)
+      3. Therefore, *Q*.
+    step1: |-
+      1. *P* 可能，仅当 *Q*
+      2. *P* 是可能的（或者，可能 *P*）
+      3. 所以，*Q*。
+    step2: |-
+      1. *P* 仅当 *Q* 方为可能
+      2. *P* 是可能的（或者：可能 *P*）
+      3. 所以，*Q*。
+  - id: 17
+    kind: body
+    source: |-
+      In Kelsen’s argument, *P* stands for the fact that legal norms are “ought” statements , and *Q* is the presupposition of the basic norm. In other words, the necessary presupposition of the basic norm is derived from the possibility conditions for ascribing legal significance to actions and events. In order to interpret an action as one of creating or modifying the law, it is necessary to show that the relevant legal significance of the act/event is conferred on it by some other legal norm. At some point, as we have noted, we necessarily run out of legal norms that confer the relevant validity on law creating acts, and at that point the legal validity has to be presupposed. The content of this presupposition is the basic norm.
+    step1: |-
+      在凯尔森的论证中，*P* 代表法律规范是“应然”陈述这一事实，*Q* 则是对基本规范的预设。换言之，基本规范之为必然预设，是从给行动与事件赋予法律意义的可能性条件中推导出来的。为了把一个行为解释为创制或修改法律的行为，就必须表明该行为/事件的相应法律意义是由另一个法律规范赋予它的。如前所述，我们总会到达某个点，在那里不再有法律规范为立法行为赋予相应效力，在这一点上，法律效力就必须被预设。这一预设的内容就是基本规范。
+    step2: |-
+      在凯尔森的论证中，*P* 代表“法律规范是‘应然’陈述”这一事实，*Q* 则是对基本规范的预设。换言之，基本规范之所以为必然预设，是从赋予行动与事件以法律意义的可能性条件中推导出来的。要把一个行为解释为创制或修改法律之举，就必须表明：该行为/事件的相应法律意义，是由另一个法律规范赋予它的。如前所述，我们总会走到某个点：在那里，再没有法律规范可以为创法行为赋予相应效力；此时，法律效力便必须被预设。这一预设的内容，就是基本规范。
+  - id: 18
+    kind: body
+    source: |-
+      It would be a mistake, however, to look for an explanation of Kelsen’s argument in the logic of Kant’s transcendental argument. (Kelsen himself seems to have changed his views about this over the years; he may have started with a kind of neo-Kantian perspective one can discern in PT1, and gradually shifted to a Humean version of his main argument, which is quite evident in GT. However, this is a very controversial issue; for a different view, see Paulson 2013 and Green 2016.) Kant employed a transcendental argument to establish the necessary presuppositions of some categories and modes of perception that are essential for rational cognition, or so he thought. They form deep, universal, and necessary features of human cognition. Suffice it to recall that it was Hume’s skepticism about knowledge that Kant strove to answer by his transcendental argument. Kelsen, however, remains much closer to Hume’s skeptical views than to Kant’s rationalism. In particular, Kelsen was very skeptical of any objective grounding of morality, Kant’s moral theory included. Kelsen’s view of morality was relativist all the way down. (More on this, below). Second, and not unrelated, as we shall see, Kelsen has explicitly rejected the idea that the basic norm (in law, or of any other normative domain) is something like a necessary feature or category of human cognition. The presupposition of a basic norm is optional. One does not have to accept the normativity of law; anarchism, as a rejection of law’s normative validity is certainly an option, Kelsen maintained. The basic norm is presupposed only by those who accept the “ought”, that is, the normative validity, of the law. But one is not rationally compelled to have this attitude:
+    step1: |-
+      然而，若到康德先验论证的逻辑中寻找凯尔森论证的解释，那就错了。（凯尔森本人的观点似乎多年来有所变化；他也许从 PT1 中可辨认的某种新康德主义视角出发，逐渐转向其主论证的休谟式版本——这在 GT 中十分明显。不过，这是一个非常有争议的问题；另一种观点见 Paulson 2013 与 Green 2016。）康德用先验论证来确立某些范畴与知觉样式的必然预设，他认为这些对于理性认知不可或缺。它们构成人类认知深层的、普遍的、必然的特征。只需回想，康德的先验论证正是要回应休谟对知识的怀疑论。然而，凯尔森更接近休谟的怀疑论，而远离康德的理性主义。特别是，凯尔森对道德的任何客观奠基都深表怀疑，康德的道德理论也不例外。凯尔森的道德观是彻底的相对主义。（详见下文。）其次，我们将看到，这一点与之相关：凯尔森明确拒绝这样一种观念，即基本规范（无论法律的还是其他规范领域的）是人类认知的某种必然特征或范畴。对基本规范的预设是可选的。凯尔森坚持认为，人们不必接受法律的规范性；无政府主义作为对法律规范效力的拒绝，当然是一种选项。只有那些接受法律之“应然”（即其规范效力）的人，才预设基本规范。但并没有什么理性强制人持有这种态度：
+    step2: |-
+      然而，若到康德先验论证的逻辑里去寻求凯尔森论证的解释，那就错了。（凯尔森本人的立场似乎历经变迁：他或曾从 PT1 中依稀可辨的新康德主义视角出发，逐渐转向其主论证的休谟式版本——这在 GT 中显而易见。不过，此事极有争议；另见 Paulson 2013 与 Green 2016 的不同看法。）康德以先验论证确立某些范畴与知觉样式的必然预设——在他看来，这些对于理性认知不可或缺，构成人类认知深层的、普遍的、必然的特征。只需回想：康德的先验论证，本是要回应休谟对知识的怀疑论。然而，凯尔森远为贴近休谟的怀疑论，而疏离康德的理性主义。尤其值得一提的是，凯尔森对道德的任何客观奠基都深表怀疑，康德道德理论亦不例外——他的道德观是彻头彻尾的相对主义（详见下文）。其次，这一点与之不无关联：凯尔森明确拒绝把基本规范（无论法律的，还是任何其他规范领域的）当作人类认知的某种必然特征或范畴。对基本规范的预设是可选的：凯尔森坚持认为，人不必接受法律的规范性；无政府主义作为对法律规范效力的拒绝，当然是一种选项。唯有接受法律之“应然”（即其规范效力）的人，才预设基本规范；但并没有什么理性力量强制人持守这种态度：
+  - id: 19
+    kind: body
+    source: |-
+      > The Pure Theory describes the positive law as an objectively valid order and states that this interpretation is possible only under the condition that a basic norm is presupposed…. The Pure Theory, thereby characterizes this interpretation as possible, not necessary, and presents the objective validity of positive law only as conditional—namely conditioned by the presupposed basic norm. (PT2, 217–218)
+    step1: |-
+      > 纯粹法理论把实在法描述为客观有效的秩序，并指出，只有在一个基本规范被预设的条件下，这种解释才是可能的……纯粹法理论由此把这种解释描述为可能的而非必然的，并把实在法的客观效力仅仅呈现为有条件的——即以被预设的基本规范为条件。（PT2, 217–218）
+    step2: |-
+      > 纯粹法理论将实在法描述为客观有效的秩序，并申明：唯有在预设一个基本规范的条件下，这种解释方为可能……由此，纯粹法理论把这种解释刻画为可能的而非必然的，并将实在法的客观效力仅仅呈现为有条件的——即以被预设的基本规范为条件。（PT2, 217–218）
+  - id: 20
+    kind: body
+    source: |-
+      A comparison to religion, that Kelsen himself offered, might be helpful here. The normative structure of religion is very similar to that of law. It has the same logic: religious beliefs about what one ought to do ultimately derive from one’s beliefs about God’s commands. God’s commands, however, would only have normative validity for those who presuppose the basic norm of their respective religion, namely, that one ought to obey God’s commands. Thus the normativity of religion, like that of the law, rests on the presupposition of its basic norm. But in both cases, as, in fact, with any other normative system, the presupposition of the basic norm is logically required only of those who regard the relevant norms as reasons for their actions. Thus, whether you actually presuppose the relevant basic norm is a matter of choice, it is an ideological option, as it were, not something that is dictated by Reason. Similarly, the normativity of law, presupposed by its basic norm, is optional: “An anarchist, for instance, who denied the validity of the hypothetical basic norm of positive law…. will view its positive regulation of human relationships… as mere power relations” (GT, 413).
+    step1: |-
+      凯尔森本人提供的一个与宗教的比较，在此或有助益。宗教的规范结构与法律的规范结构非常相似。它有同样的逻辑：关于一个人应当做什么的宗教信念，最终源于其关于上帝诫命的信念。然而，上帝的诫命只对那些预设其所属宗教之基本规范的人——即人应当服从上帝的诫命——才具有规范效力。因此，宗教的规范性如同法律的规范性一样，依赖于对其基本规范的预设。但在这两种情形中，事实上在任何其他规范体系中，基本规范的预设只是在逻辑上要求那些把相关规范当作自己行动之理由的人作出。因此，你是否实际预设相关的基本规范，是一个选择问题，可以说是意识形态选项，而非理性所规定的。同样，由其基本规范所预设的法律规范性也是可选的：“例如，一个否认实在法的假设性基本规范之效力的无政府主义者……将把实在法对人际关系的规制……视为单纯的权力关系”（GT, 413）。
+    step2: |-
+      凯尔森本人提供的一则宗教类比，在此或有助益。宗教的规范结构与法律的规范结构极为相似，二者共享同一逻辑：关于人应当做什么的宗教信念，最终源自其关于上帝诫命的信念。然而，上帝的诫命只对那些预设其所属宗教之基本规范——即“人应当服从上帝的诫命”——的人才具有规范效力。因此，宗教的规范性一如法律的规范性，皆系于对其基本规范的预设。但在这两种情形中，事实上在任何规范体系中，基本规范的预设，在逻辑上只要求那些把相关规范视为自身行动理由的人作出。于是，你是否实际预设相关的基本规范，便是一个选择问题——可以说是意识形态的选项，而非理性所规定。同样，由基本规范所预设的法律规范性也是可选的：“例如，一个否认实在法假设性基本规范之效力的无政府主义者……将把实在法对人际关系的规制……视为单纯的权力关系”（GT, 413）。
+  - id: 21
+    kind: body
+    source: |-
+      Relativism, however, comes with a price. Consider this question: What is the content of the basic norm that one needs to presuppose in order to render positive law intelligible as a normative legal order? The simple answer is that what one presupposes here is precisely the normative validity of positive law, namely, the law that is actually practiced by a certain population. The validity of the basic norm, as we noted briefly earlier, is conditional on its “efficacy”. The content of the basic norm of any given legal system is determined by the actual practices that prevail in the relevant community. As Kelsen himself repeatedly argued, a successful revolution brings about a radical change in the content of the basic norm. Suppose, for example, that in a given legal system the basic norm is that the constitution enacted by Rex One is binding. At a certain point, a *coup d’etat* takes place and a republican government is successfully installed. At this point, Kelsen admits, ‘one presupposes a new basic norm, no longer the basic norm delegating law making authority to the monarch, but a basic norm delegating authority to the revolutionary government’ (PT1, 59).
+    step1: |-
+      然而，相对主义是有代价的。考虑这个问题：为了把实在法理解为一个规范性的法律秩序，人们需要预设的基本规范，其内容是什么？简单的回答是：人们在此预设的，恰恰是实在法的规范效力，即被特定人群实际践行的法律。如前文简述，基本规范的效力以其“实效”为条件。任何给定法律体系的基本规范之内容，都由相关共同体中盛行的实际实践所决定。正如凯尔森反复论证的，一场成功的革命会带来基本规范内容的根本改变。例如，假设在某个法律体系中，基本规范是“由君主一世（Rex One）制定的宪法具有约束力”。在某个时刻，一场政变（*coup d’etat*）发生，一个共和政府成功建立。凯尔森承认，此时“人们预设一个新的基本规范，不再是把立法权威授予君主的基本规范，而是把权威授予革命政府的基本规范”（PT1, 59）。
+    step2: |-
+      然而，相对主义自有其代价。试想这个问题：要把实在法理解为一个规范性的法律秩序，人们所需预设的基本规范，其内容为何？简单的回答是：人们在此所预设的，恰恰是实在法的规范效力——即被特定人群实际践行的法律。如前文简述，基本规范的效力以其实效为条件；任何给定法律体系之基本规范的内容，都由相关共同体盛行的实际实践所决定。正如凯尔森反复论证的：一场成功的革命，会带来基本规范内容的根本改变。试想在某个法律体系中，基本规范是“君主一世（Rex One）制定的宪法具有约束力”。某日政变（*coup d’etat*）骤起，共和政府成功立国。凯尔森承认，此时“人们预设一个新的基本规范——不再是把立法权威授予君主的基本规范，而是把权威授予革命政府的基本规范”（PT1, 59）。
+  - id: 22
+    kind: body
+    source: |-
+      Has Kelsen just violated his own adherence to Hume’s injunction against deriving “ought” from an “is” here? One gets the clear impression that Kelsen was aware of a serious difficulty in his position. In both editions of the Pure Theory of Law, Kelsen toys with the idea that perhaps changes in the basic norms of municipal legal systems legally derive from the basic norm of public international law. It is a basic principle of international law that state sovereignty is determined by actual control over a territory/population (PT1 61–62, though in PT2, 214–215, the idea is presented with greater hesitation; notably, some commentators argue that Kelsen took the idea of a universal legal order much more seriously than suggested here—see Green 2016)[^green-2016]. But this led Kelsen to the rather uncomfortable conclusion that there is only one basic norm in the entire world, namely, the basic norm of public international law. Be this as it may, the main worry lies elsewhere. The worry stems from the fact that it is very difficult, if not impossible, to maintain both a profound relativist and an anti-reductionist position with respect to a given normative domain. If you hold the view that the validity of a type of norms is entirely relative to a certain vantage point—in other words, if what is involved here is only the actual conduct, beliefs/presuppositions and attitudes of people—it becomes very difficult to detach the explanation of that normative validity from the facts that constitute the relevant point of view (namely, the facts about people’s actions, beliefs, attitudes, etc). This is basically what was meant earlier by the comment that Kelsen had no option but to admit that the validity of the basic norm is conditional on its efficacy. The normative relativism which is inherent in Kelsen’s conception forces him to ground the content of the basic norm in the social facts that constitute its content, namely, the facts about actions, beliefs, and attitudes actually entertained by the population in question. And this makes it very questionable that reductionism can be avoided. In fact, what Kelsen really offered us here is an invitation to provide a reductive explanation of the concept of legal validity in terms of some set of social facts, the facts that constitute the content of any given basic norm. (Which is precisely the kind of reduction H.L.A. Hart later offered in his account of the Rules of Recognition as social rules [see Hart 1961, at p. 105, where Hart alludes to the difference between his conception of the rules of recognition and Kelsen’s idea of the basic norm.])[^hart-1961]
+    step1: |-
+      凯尔森在这里是否恰好违背了他自己恪守的休谟诫命——不得从“实然”推出“应然”？人们得到一种清晰的印象：凯尔森意识到了他的立场中有一个严重的困难。在《纯粹法理论》的两个版本中，凯尔森都在玩味这样一种想法：也许国内法律体系之基本规范的变更，在法律上源自国际公法的基本规范。国际法的一条基本原理是：国家主权取决于对领土/人口的实际控制（PT1, 61–62；不过在 PT2, 214–215 中，这一想法表述得更为犹疑；值得注意的是，一些评论者认为，凯尔森对普遍法律秩序这一观念的认真程度远超此处所示——见 Green 2016）[^green-2016]。但这却把凯尔森引向一个相当令人不安的结论：全世界只有一个基本规范，即国际公法的基本规范。尽管如此，主要的担忧在别处。这一担忧来自如下事实：对于给定的规范领域，很难——甚至不可能——既持深刻的相对主义立场，又持反还原论立场。如果你认为某类规范的效力完全相对于某个视角——换言之，如果这里涉及的只是人们的实际行为、信念/预设与态度——那么，把那种规范效力的解释与构成相关视角的事实（即关于人们行动、信念、态度等的事实）分离开来，就变得非常困难。这基本上就是前文所说凯尔森别无选择、只能承认基本规范之效力以其实效为条件的意思。凯尔森概念中固有的规范相对主义，迫使他把基本规范的内容奠基于构成其内容的社会事实，即相关人群实际持有的行动、信念与态度方面的事实。而这使得“还原论可以避免”变得非常可疑。事实上，凯尔森在这里真正提供给我们的，是一种邀请：以某组社会事实——即构成任何给定基本规范之内容的事实——为法律效力概念提供还原解释。（这恰恰是 H.L.A. 哈特（H.L.A. Hart）后来在其把承认规则作为社会规则的说明中所提供的那类还原[见 Hart 1961, 第 105 页，哈特在该处提及他的承认规则观念与凯尔森基本规范观念之间的差异]。）[^hart-1961]
+    step2: |-
+      凯尔森在此是否恰好违背了他自己恪守的休谟诫命——不得从“实然”推出“应然”？人们得到清晰的印象：凯尔森意识到其立场中有一处严重的困难。在《纯粹法理论》的两个版本中，凯尔森都在玩味这样的想法：国内法律体系之基本规范的变更，或许在法律上源自国际公法的基本规范。国际法的一条基本原理是：国家主权取决于对领土/人口的实际控制（PT1, 61–62；不过在 PT2, 214–215 中，此想法表述得更为犹疑；值得注意的是，有评论者认为，凯尔森对“普遍法律秩序”观念的认真程度远超此处所示——见 Green 2016）[^green-2016]。但这样一来，凯尔森便被引向一个相当尴尬的结论：普天之下只有一个基本规范，即国际公法的基本规范。尽管如此，主要的担忧仍在别处。它源于这样一个事实：对于给定的规范领域，很难——甚至不可能——既持彻底的相对主义，又持反还原论。倘若你认为某类规范的效力完全相对于某个视角——换言之，这里涉及的只是人们的实际行为、信念/预设与态度——那么，把那种规范效力的解释，同构成相关视角的事实（关于人们行动、信念、态度等等的事实）剥离，就变得非常困难。这基本就是前文所说“凯尔森别无选择，只能承认基本规范之效力以其实效为条件”的意思。凯尔森概念中固有的规范相对主义，迫使他将基本规范的内容奠基于构成该内容的社会事实——相关人群实际持有的行动、信念与态度诸事实。于是，“还原论可以避免”这一点就大可怀疑了。事实上，凯尔森在此真正提供给我们的，是一份邀请：请以某组社会事实——构成任何给定基本规范之内容的事实——来对法律效力概念作还原解释。（这恰恰是 H.L.A. 哈特（H.L.A. Hart）后来在把承认规则作为社会规则来处理时给出的那类还原[见 Hart 1961, 第 105 页，哈特于该处论及他的承认规则观念与凯尔森基本规范观念之别]。）[^hart-1961]
+  - id: 23
+    kind: body
+    source: |-
+      Kelsen’s problem here is not due to the fact that he was a relativist with respect to every normative system, like morality, religion etc.; it is not the scope of his relativism that is relevant to the question of reduction. The problem stems from the fact that Kelsen was quite right about the law. Legal validity is essentially relative to the social facts that constitute the content of the basic norm in each and every legal order. Notice that legal validity is always relative to a time and place. A law enacted by the California legislature only applies within the boundaries of the state of California, and it applies during a certain period of time, after its enactment and until a time when it is modified or repealed. And we can see why: because legal validity is determined by the content of the basic norm that is actually followed in a given society. The laws in UK, for example, are different from those in the US, because people (mostly judges and other officials) actually follow different rules, or basic norms, in Kelsen’s terminology, about what counts as law in their respective jurisdictions. Once Kelsen admits, as he does, that the content of a basic norm is fully determined by practice, it becomes very difficult to understand how the explication of legal validity he offers is non-reductive.
+    step1: |-
+      凯尔森在这里的问题，并不是由于他对每一个规范体系（如道德、宗教等）都持相对主义立场；与还原问题相关的，并不是他的相对主义的范围。问题源于这一事实：凯尔森关于法律的看法是对的。法律效力在本质上相对于构成每个法律秩序之基本规范内容的社会事实。请注意，法律效力总是相对于时间与地点。加州立法机关制定的法律只在加州范围内适用，而且只在一定时期内适用：从颁布之后，到它被修改或废止之时。个中缘由不难看出：因为法律效力由特定社会中实际被遵循的基本规范的内容所决定。例如，英国的法律不同于美国的法律，因为（主要是法官与其他官员的）人们在其各自的管辖范围内，实际上遵循着关于什么算作法律的不同规则——用凯尔森的术语说，不同的基本规范。一旦凯尔森承认——他确实承认——基本规范的内容完全由实践决定，他所提供的法律效力解释如何能是非还原的，就变得很难理解了。
+    step2: |-
+      凯尔森在这里的麻烦，并不在于他对每一个规范体系（道德、宗教等等）都持相对主义；与还原问题相关的，也不是其相对主义的范围。麻烦源于：凯尔森关于法律的看法是对的。法律效力本质上就相对于那些构成每个法律秩序之基本规范内容的社会事实。请注意，法律效力总是相对于时间与地点：加州立法机关制定的法律，只在加州范围内适用，且只在一定时期内适用——自颁布起，至其被修改或废止时止。个中缘由不难看清：法律效力由特定社会中实际被遵循的基本规范的内容决定。例如，英国法不同于美国法，因为（主要是法官与其他官员的）人们在其各自法域中，实际遵循着关于什么算作法律的不同规则——用凯尔森的术语说，不同的基本规范。一旦凯尔森承认——他确实承认——基本规范的内容完全由实践决定，他所给出的法律效力解释如何还能是非还原的，就变得殊难理解了。
+  - id: 24
+    kind: body
+    source: |-
+      ## 3. The Normativity of Law
+    step1: |-
+      ## 3 法律的规范性
+    step2: |-
+      ## 3 法律的规范性
+  - id: 25
+    kind: body
+    source: |-
+      Let us now see how Kelsen thought that the basic norm helps to explain the sense in which law is a normative domain and what this normativity consists in. The first and crucial point to realize is that for Kelsen the idea of normativity is tantamount to a genuine “ought”, as it were; it is a justified demand on practical deliberation. A certain content is regarded as normative by an agent if and only if the agent regards that content as a valid reason for action. As Joseph Raz noticed, Kelsen agrees with the Natural Law tradition in this particular respect; both assume that the normativity of law can only be explained as one would explain the normativity of morality, or religion for that matter, namely, in terms of valid reasons for action (Raz 1979, 134–137; but cf. Paulson 2012)[^paulson-2012][^raz-1979]. But then, the problem for Kelsen is how to explain the difference between the normativity of law and that of morality; if legal “ought” is a genuine “ought”, what makes a legal obligation distinct from a moral one? Kelsen’s answer is that the relevant “ought” is always relative to a given point of view. Each and every type of “ought”, be it religious, moral or legal, must presuppose a certain point of view, a point of view which is constituted by the basic norm of the relevant normative system.
+    step1: |-
+      现在让我们看看凯尔森如何认为基本规范有助于说明法律是一个规范性的领域，以及这种规范性在于什么。首先要认识的关键一点是：对凯尔森而言，规范性观念等同于一个真正的“应然”，可以说，它是对实践思虑的一个有正当理由的要求。一个主体把某个内容视为规范性的，当且仅当该主体把那个内容视为行动的有效理由。正如 Joseph Raz 注意到的，凯尔森在这个特定方面与自然法传统立场一致；二者都假定，法律的规范性只能像解释道德（或宗教）的规范性那样来解释，即以行动的有效理由来解释（Raz 1979, 134–137；但参较 Paulson 2012）[^paulson-2012][^raz-1979]。但这样一来，凯尔森的问题就是如何说明法律的规范性与道德的规范性之间的差异；如果法律“应然”是一个真正的“应然”，是什么使法律义务不同于道德义务？凯尔森的回答是：相关的“应然”总是相对于一个给定的视角。每一种“应然”，无论宗教的、道德的还是法律的，都必须预设某个视角，而该视角由相关规范体系的基本规范所构成。
+    step2: |-
+      现在来看凯尔森如何借基本规范说明法律之为一规范性领域，以及这种规范性究竟何在。首先要认识的关键一点是：对凯尔森而言，规范性观念无异于一个真正的“应然”——可谓对实践思虑的一项有理据的要求。一个主体视某个内容为规范性的，当且仅当该主体视之为行动的有效理由。正如 Joseph Raz 所注意到的，在这一点上凯尔森与自然法传统立场一致：二者都假定，法律的规范性只能像解释道德（或宗教）的规范性那样来解释，即以行动的有效理由来解释（Raz 1979, 134–137；但参较 Paulson 2012）[^paulson-2012][^raz-1979]。但如此一来，凯尔森的难题便是：如何说明法律的规范性同道德的规范性之别？如果法律“应然”是一个真正的“应然”，什么使法律义务有别于道德义务？凯尔森的回答是：相关的“应然”总是相对于一个给定的视角。每一种“应然”，无论宗教的、道德的还是法律的，都必须预设某个视角；该视角由相关规范体系的基本规范所构成。
+  - id: 26
+    kind: body
+    source: |-
+      In other words, Kelsen’s conception of legal normativity turns out to be a form of Natural Law completely relativized to a certain point of view. However, in Kelsen’s theory the relevant point of view is distinctly a legal one, not some general conception of morality or Reason. That these two basic norms, or points of view, can come apart, is nicely demonstrated by Kelsen’s comment that “even an anarchist, if he were a professor of law, could describe positive law as a system of valid norms, without having to approve of this law” (PT2 218n). The anarchist does not endorse the legal point of view as one that reflects her own views about what is right and wrong. Anarchism is understood here precisely as a rejection of the normative validity of law; however, even the anarchist can make an argument about what the law in this or that context requires; and when she makes such an argument, she must presuppose the legal point of view, she must argue as if she endorses the basic norm of the relevant legal system. Joseph Raz has called these kinds of statements “detached normative statements”; the anarchist argues as if she endorses the basic norm, without actually endorsing it. Another example that Raz gave is this: suppose that at Catholic priest is an expert in Jewish Law; the priest can make various interpretative arguments about what Jewish law really requires in this or that context. In such a case, the priest must argue as if he endorses the basic norm of Jewish Law, but of course, being a Catholic, he does not really endorse it, it does not reflect his own views about what is right and wrong (Raz 1979, 153–157)[^raz-1979].
+    step1: |-
+      换言之，凯尔森的法律规范性概念最终是一种完全相对化于特定视角的自然法。不过，在凯尔森的理论中，相关视角鲜明地是法律的视角，而非关于道德或理性的某种一般概念。这两种基本规范或视角可以分道扬镳，凯尔森的一句评论漂亮地展示了这一点：“即使一个无政府主义者，如果他是法学教授，也可以把实在法描述为一个有效规范的体系，而不必赞同这种法律”（PT2, 218n）。无政府主义者并不认可法律视角作为反映其自身是非观的视角。无政府主义在此正是作为对法律规范效力的拒绝来理解的；然而，即便是无政府主义者，也能就这个或那个情境中的法律要求什么提出论证；而当她作出这种论证时，她必须预设法律视角，必须仿佛赞同相关法律体系的基本规范那样去论证。Joseph Raz 把这类陈述称为“超脱的规范陈述”（detached normative statements）：无政府主义者仿佛赞同基本规范地论证，而实际上并不赞同它。Raz 给出的另一个例子是：设想一位天主教神父是犹太法专家；这位神父可以就犹太法在这个或那个情境中真正要求什么提出各种解释性论证。在这种情形下，神父必须仿佛赞同犹太法的基本规范那样去论证；但当然，身为天主教徒，他并不真的赞同它——它并不反映他自己的是非观（Raz 1979, 153–157）[^raz-1979]。
+    step2: |-
+      换言之，凯尔森的法律规范性概念，终归是一种彻底相对化于特定视角的自然法。不过在凯尔森的理论中，相关视角鲜明地是法律的视角，而非关于道德或理性的某种一般概念。这两种基本规范（亦即两种视角）可以各行其是——凯尔森的一句评论巧妙地展示了这一点：“即使一个无政府主义者，只要他是法学教授，也可以把实在法描述为一个有效规范的体系，而不必赞同这种法律”（PT2, 218n）。无政府主义者并不认可法律视角为反映其自身是非观的视角。此处所谓无政府主义，正是对法律规范效力的拒绝；然而，即便是无政府主义者，也能就“这个或那个情境中法律要求什么”提出论证；而一旦她如此论证，她就必须预设法律视角，必须仿佛赞同相关法律体系的基本规范那样论证。Joseph Raz 称这类陈述为“超脱的规范陈述”（detached normative statements）：无政府主义者仿佛赞同基本规范地论证，实则并不赞同。Raz 给出的另一例是：设想一位天主教神父恰好是犹太法专家；他可以就“犹太法在这个或那个情境中真正要求什么”提出种种解释性论证。在此情形下，神父必须仿佛赞同犹太法的基本规范那样论证；但当然，身为天主教徒，他并不真的赞同——那并不反映他自己的是非观（Raz 1979, 153–157）[^raz-1979]。
+  - id: 27
+    kind: body
+    source: |-
+      So here is what emerges so far: the concept of normativity, the sense in which normative content is related to reasons for action, is the same across all normative domains. To regard something as normative is to regard it as justified, as a warranted requirement on practical deliberation. However, the difference resides in the difference in points of view. Each basic norm determines, as it were, a certain point of view. So it turns out that normativity (contra Kant) always consists of conditional imperatives: if, and only if, one endorses a certain normative point of view, determined by its basic norm, then the norms that follow from it are reason giving, so to speak. This enables Kelsen to maintain the same understanding of the nature of normativity as Natural Law’s conception, namely, normativity qua reasons for action, without having to conflate the normativity of morality with that of law. In other words, the difference between legal normativity and, say, moral normativity, is not a difference in normativity (viz, about the nature of normativity, per se), but only in the relevant vantage point that is determined by their different basic norms. What makes legal normativity unique is the uniqueness of its point of view, the legal point of view, as it were.
+    step1: |-
+      于是，到此为止可以得出：规范性概念——规范内容与行动理由相关联的那种意义——在一切规范领域中都是相同的。把某物视为规范性的，就是把它视为有正当理由的，视为对实践思虑的一项有据可依的要求。然而，差异在于视角的差异。可以说，每个基本规范都确定了一个特定的视角。于是（与康德相反），规范性总是由条件式命令构成的：当且仅当一个人赞同某个由其基本规范确定的规范性视角时，从它引出的规范才谈得上是给出理由的。这使凯尔森能够像自然法的概念那样理解规范性的本性——规范性即行动的理由——而不必把道德的规范性与法律的规范性混为一谈。换言之，法律规范性与（比如说）道德规范性之间的差异，不在于规范性本身（即不在于规范性自身的本性），而只在于由它们各自不同的基本规范所确定的视角。使法律规范性独特的是其视角的独特性，可以说是法律视角的独特性。
+    step2: |-
+      于是，至此可以归结为：规范性概念——规范内容与行动理由相关联的那种意义——在一切规范领域中并无二致。视某物为规范性的，就是视之为有理据的，视为对实践思虑的一项有据的要求。然而，差异在于视角之异。可以说，每个基本规范都划定一个特定视角。于是（与康德相反），规范性总是由条件式命令构成的：当且仅当一个人赞同某个由其基本规范划定的规范性视角，从中引出的规范才谈得上给出理由。这使凯尔森得以持守与自然法相同的规范性概念——规范性即行动的理由——而不必把道德的规范性同法律的规范性混为一谈。换言之，法律规范性与道德规范性之别，不在规范性本身（即不在规范性自身的本性），而只在由各自不同的基本规范所确定的视角。法律规范性的独特之处，正在于其视角——所谓法律视角——的独特性。
+  - id: 28
+    kind: body
+    source: |-
+      We can set aside the difficulties that such a view raises with respect to morality. Obviously, many philosophers would reject Kelsen’s view that moral reasons for action only apply to those who choose to endorse morality’s basic norm (whatever it may be). Even if Kelsen is quite wrong about this conditional nature of moral imperatives, he may be right about the law. What remains questionable, however, is whether Kelsen succeeds in providing a non-reductive explanation of legal normativity, given the fact that his account of legal validity turned out to be reductive after all. The trouble here is not simply the relativity to a point of view; the trouble resides in Kelsen’s failure to ground the choice of the relevant point of view in anything like Reason or reasons of any kind. By deliberately avoiding any explanation of what it is that might ground an agent’s choice of endorsing the legal point of view, or any given basic norm, Kelsen left the most pressing questions about the normativity of law unanswered. Instead of providing an explanation of what makes the presupposition of the legal point of view rational, or what makes it rational to regard the requirements of law as binding requirements, Kelsen invites us to stop asking.
+    step1: |-
+      我们可以把这种观点在道德方面引起的困难搁置一边。显然，许多哲学家会拒绝凯尔森的下述观点：道德上的行动理由只适用于那些选择赞同道德之基本规范（无论它是什么）的人。即便凯尔森关于道德命令的这种条件性质看错了，他也可能在法律问题上看对了。然而，仍然可疑的是：鉴于他的法律效力说明最终被证明是还原的，凯尔森是否成功地提供了法律规范性的非还原解释。这里的麻烦不只是相对于视角的问题；麻烦在于凯尔森未能把相关视角的选择奠基于理性或任何种类的理由。由于刻意回避对“是什么使一个主体选择赞同法律视角或任何给定的基本规范”的任何解释，凯尔森把关于法律规范性的最紧迫的问题搁置未答。他没有解释是什么使对法律视角的预设成为合理的，或是什么使把法律的要求视为有约束力的要求成为合理的，反而邀请我们别再问了。
+    step2: |-
+      这种观点在道德方面引起的困难，我们可以暂且搁置。显然，许多哲学家会拒绝凯尔森的下述看法：道德上的行动理由只适用于那些选择赞同道德基本规范（无论它是什么）的人。即便凯尔森把道德命令的这种条件性质看错了，他也可能在法律问题上看对了。然而，仍然可疑的是：鉴于他的法律效力说明最终被证明是还原的，凯尔森是否当真给出了法律规范性的非还原解释。麻烦不只在“相对于视角”这一点；更在于凯尔森未能把相关视角的选择奠基于理性或任何种类的理由。由于刻意回避解释“是什么使一个主体选择赞同法律视角或任何给定的基本规范”，凯尔森把关于法律规范性的最紧迫问题搁置未答。他没有说明是什么使预设法律视角成为合理的、是什么使把法律的要求当作有约束力的要求成为合理的，反倒邀请我们别再问了。
+  - id: 29
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
