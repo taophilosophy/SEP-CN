@@ -2,7 +2,7 @@
   "slug": "holbach",
   "kind": "retranslate",
   "zh_doc": "h/holbach.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "sub-holbach",
       "at": "2026-11-01T17:22:56Z",
       "evidence": "check_academic --strict 0硬错(门禁自动挂钩通过); check_style 33 全豁免: 6 body curly=合法 d’Holbach/d’Aine U+2019 撇号(含 SUMMARY 钦定 H1, collingwood/arendt 先例), 26 脚注定义 curly=ADR-0011 照录非中文行(cockburn 先例 12 接受), 1 italic-cjk=译注(alcmaeon 先例同文); check_math 0 公式 无问题; 42/42 账本 step2 与文档逐段一致."
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:14:50Z",
+      "evidence": "独立复审：对照 yuanwen 四节（生平/形而上学/伦理学/政治理论）+System of Nature 五条引文+洛克第一第二性质学说链+两阶段契约论逐段核销，无漏译（42 段账本与 s1 凭证链完整）；人名地名全链核验（埃德斯海姆/莱顿/皇家街/格朗瓦勒、圈子十一人、访客十五人）；歌德《诗与真》归功句语义核验正确；Eléments/La morale universelle 两标题系源文如此照录"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:14:50Z",
+      "evidence": "逐句回核修 7 处：四处书名粗斜体装配噪声重排（《新爱洛伊斯》《揭穿基督教》《自然体系》《常识》）/'行动的目'脱'的'字/H1 与 SUMMARY 英文全题化（TOC 倒装式→citation_title，沿用先例）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:14:50Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary 一致（本次同修）；学术门禁见自动拦截；启蒙哲学术语一致性核验（霍尔巴赫/唯物论/第一性质第二性质/德治主义/社会契约两阶段/革命权）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T21:14:50Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],

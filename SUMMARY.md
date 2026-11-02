@@ -1169,7 +1169,7 @@
   * [霍布斯的道德与政治哲学 moral and political philosophy (Sharon A. Lloyd and Susanne Sreedhar)](h/hobbes-moral.md)
   * [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/hobbes-science.md)
   * [\*情感学说——见情感：17 世纪和 18 世纪的情感理论 theory of emotion — see emotion: 17th and 18th century theories of](e/emotions-17th18th.md)
-* [保尔-亨利·提利·霍尔巴赫 Holbach, Paul-Henri Thiry (Baron) d’ (Michael LeBuffe)](h/holbach.md)
+* [保尔-亨利·提利·霍尔巴赫 Paul-Henri Thiry (Baron) d’Holbach (Michael LeBuffe)](h/holbach.md)
 * [洞 holes (Roberto Casati and Achille Varzi)](h/holes.md)
 * [罗伯特·霍尔柯特 Holkot \[Holcot\], Robert (Hester Gelber and John T. Slotemaker)](h/holkot.md)
 * [\*亨利·霍姆——见苏格兰哲学：18 世纪苏格兰哲学 Home, Henry \[Lord Kames\] — see Scottish Philosophy: in the 18th Century](s/scottish-18th.md)
