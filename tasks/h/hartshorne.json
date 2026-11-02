@@ -2,7 +2,7 @@
   "slug": "hartshorne",
   "kind": "retranslate",
   "zh_doc": "h/hartshorne.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "sub-hartshorne",
       "at": "2026-11-01T15:50:07Z",
       "evidence": "check_style 0; check_academic --strict 0; check_math 0; 文献定义区 86 条照录; 相关词条 11 中文名; 版本行 2001-07-23/2024-03-03"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:15:45Z",
+      "evidence": "r1 独立对照复审（yuanwen/h/hartshorne.md 387 行 ↔ h/hartshorne.md 395 行逐段核销）：六节（生平/方法/上帝的存在与现实性/价值论/泛心论或心理主义/批判性评价）+两张十对照属性表+形式论证四步引块全数在位；引文括注 60+ 处（Thompson 1984、Lucas 1991、Smith 1991、Gamwell 2020、Reese 1964×2、Martin 1964、Goodwin 1978、Smith 1984、Hubbeling 1991、Birch 1991、Kuntz 1991、Fitch 1964、Findlay 1964、Shields-Viney 2003、Devlin 1991、Wild 1964、Kegley 1991、Morris 1991、Kane 1991、Engelhardt 1991、Skutch 1991、Chiaraviglio/Hospers/Dombrowski 2004、King/Arapura/Matsunobu 1991、Wiehl 1991、Cobb 1991、N. Martin 1991、J. Smith 1964、Weiss 1984、Ogden 1984、W. Viney 1991、Loemker 1964、Ogden 1964、Ford 1991、H. Smith 1964、Wright 1964、Sprigge 1991、Levi 1964、Van der Veken 1991、R. M. Martin 1984、Shields 2003a、McMurrin 1991、Reese 1991、Neville 1991、Gale 2003、Rescher 2003、Shields 2009、Boyce Gibson 1964）逐一对位；术语沿 s1 锁定主形（psychicalism=心理主义/panentheism=万有在神论/prehension=摄受/contributionism=贡献主义/logic of perfection=完善性的逻辑/dipolar=双极/hylomorphism=形质论/synechological=连续论/comprehensive doctrines=整全性学说）；脚注定义 72 条与源文逐字相符（含源文原样 Devlin James/(ed) 缺点保留）；零信任抽查 5 处（Proslogion 第 3 章、Sophist 247E、创世记 'hovered above the waters'、形式论证四步、对照 5 表行）与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:15:46Z",
+      "evidence": "r2 语言与忠实定点修 30 处：①L7 括注插入撕裂人名「希尔（George Shields）兹编辑」→「希尔兹…编辑」（stranded 兹，硬伤）；②L15「著名地考虑了」translationese→「对这第三个选项的考虑广为人知」；③L17 语序「世界自然之身体」→「自然世界之身体」与 L39 归一；④L19 双括号相撞重构；⑤L21/L128 idealism 依登记表主形（yi-zhe-shuo-ming L200）唯心主义→唯心论/唯心论者；⑥L27 三处连读硬伤（关于存在存在必然真理/绝对不存在存在/上帝必然存在为真）；⑦L33+L67 Sophist 台译《智士》→学界通行《智者》；⑧其它→其他 5 处；⑨L43 关键误译「一部分自由的行为者」→「部分自由的行为者」（partially free 修饰 free 非 agents 数量）；⑩L47 政治语境 libertarian 误用自由意志论（自由意志论=意志自由之争）→自由至上主义；⑪L53「无情复合体」（读作 heartless）→「无感受复合体」；⑫⑭L71/L91 惰性误写情性 2 处；⑬L89 康德 Träume eines Geistersehers 通行译名《一位通灵者的梦》→《视灵者的梦》；⑮L103 语序；⑯L105 关键误译 spiritualism（唯灵论）误作唯心论→「科学式的唯灵论」；⑰L113 neo*classical/*neo*classical 强调形乱码重构；⑱L157 安瑟伦公式「可设想的、无比更完善者」乱序→「无可设想比之更完善的那样一个存在者」；⑲L165「它无疑是否传统的并不很清楚」杂糅→通顺；⑳L167「不能被设想地经验」→「无法被设想为可经验的东西」；(21)L105「无连贯的」→「不连贯」；(22)L393 相关词条 Whitehead 台译形「阿弗烈·诺夫」→正文主形「阿尔弗雷德·诺思」归一；check_style --strict 复跑 0 issues、check_math/check_summary/check_academic 全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:15:59Z",
+      "evidence": "r3 门禁全绿：check_style --strict 0 issues（30 处修复后复跑）；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦通过）；H1=查尔斯·哈茨霍恩 Hartshorne, Charles (Dan Dombrowski)、pubinfo 斜体 2001-07-23/2024-03-03、两张属性表 10 对照全数对应源文"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:15:59Z",
+      "evidence": "done 收口：r1 六节+两表+形式论证全核销（引文 60+ 处、脚注 72 条逐字相符）+r2 30 处定点修（含 spiritualism 唯灵论、partially free、libertarian 政治语境三处关键误译）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103，与 james-ward 同标准"
     }
   ],
   "blockers": [],
