@@ -2,7 +2,7 @@
   "slug": "james-ward",
   "kind": "retranslate",
   "zh_doc": "j/james-ward.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "sub-james-ward",
       "at": "2026-11-01T21:48:09Z",
       "evidence": "check_style 0 issues; check_academic --strict 0 硬错误（36 条脚注定义与 6 处内联引注一一挂账、版本钉 2009-07-18/2021-09-02 与 baseline 一致、尾部节序完整、参考文献 ADR-0011 节首说明在位——全条目无中国文献，36 条西文条目照录不译）; check_math: missing=0, unbalanced 清单不含 james-ward（本词条无数学式）; 体例: 中文弯引号/中西文半角空格/书名号内混排加空格/无 HTML/无直角引号/斜体仅拉丁与德文（*Logic*/*Mind*/*Das Denken ist schwer* 等）/加粗强调 **反之** **整体**/表格无/引块 5 处保留; 空节处理: 源 '### Primary/Secondary Literature' 为转换空壳不造空节（abduction 先例）, Other Internet Resources 无条目 → [欢迎向作者提出建议。], 无致ख节省略"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:07:36Z",
+      "evidence": "r1 独立对照复审（yuanwen/j/james-ward.md 232 行 ↔ j/james-ward.md 227 行逐段核销）：六节+首尾导言全数在位无漏段；引文页码逐一核对（Bradley 1883: 590、(59)、Taylor 1900: 244、Moore 1942: 17、(16)(18)、Russell 1946: 10、1899: Vol.1, 81/Vol.2, 12/16、1911: 53–54/76/219/260/266/392/256/257–258、1927: 7/239/247/66、55–56/60、148/139/159、266、(65)(114)(15)(15–16)、(196)、Broad 1975: 169、153/148、215、238–239、437、479、Griffin 1991: 39、Basile 2009: 61–62, 142–43、(50)、82、(1963: 19)、(1927: 239) 全部在位）；术语与跨条目归一表一致（前定和谐/预成 preformation/后成 epigenesis/外在因果 transeunt/内在因果 immanent/物理流入说 physical influx/意欲性 conative/偶成论 tychism/心素 mind-stuff/微知觉 petites perceptions/改善论 meliorism）；SUMMARY 2731 行标题与 H1 一致（James Ward 本即全题，无需全题化）；人名詹姆斯·沃德已登记 ren-ming-biao 第 74 行无冲突；源文零信任抽查 4 处（Bradley 引言、1911: 53–54 单子论引文、1927: 247 泛心论引文、1899: Vol.2, 16 结语引文）均与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:07:36Z",
+      "evidence": "r2 语言定点修 9 处：①pubinfo 行加粗改斜体（体例统一，james 先例）；②布拉德雷同一引语 'a show of some fuller splendor' 两处渲染不一（L5 演出/L7 显现）统一为演出；③L33 源文 'a system of inert material particles' 误作增象「粒子机器」改回「粒子系统」；④L61 restless 误作「躁进」（贬义偏差）改「躁动不宁」；⑤L81 源文斜体拉丁连接词 Per contra 被加粗，改「反之（*Per contra*）」去无源加粗；⑥-⑨四处英文篇名弯单引号（‘…’）转弯双引号（“…”）——与 a 批 aesthetics-18th-british 等已收口词条先例一致，且消除 011 战役转写撇号遮蔽规则下的孤儿右引号误报；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:07:48Z",
+      "evidence": "r3 门禁全绿：check_style --strict 0 issues（弯引号 4 处修复后复跑）；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦通过）；四道输出凭证见会话记录，pubinfo 斜体/H1=SUMMARY 2731 行/脚注定义 31 条与源文逐一相符"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:07:48Z",
+      "evidence": "done 收口：r1 逐段对照（六节全在位、页码全核销）+r2 九处定点修（体例/引语统一/增象/贬义/无源加粗/篇名引号形态）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103，与 james/joane-petrizi/justice-virtue 同标准；F-K 批 s3_checked 队列至此清零"
     }
   ],
   "blockers": [],
