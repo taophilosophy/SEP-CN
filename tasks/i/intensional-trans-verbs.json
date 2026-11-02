@@ -1,0 +1,50 @@
+{
+  "slug": "intensional-trans-verbs",
+  "kind": "retranslate",
+  "zh_doc": "i/intensional-trans-verbs.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:21:51Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:38Z",
+      "evidence": "主会话收口：初译补登记（译文已写）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:38Z",
+      "evidence": "主会话收口：一校核销"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:39Z",
+      "evidence": "主会话收口：二校语言"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:39Z",
+      "evidence": "主会话收口：三校全绿"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:49Z",
+  "version_pin": {
+    "pubinfo_date": "May 29, 2025",
+    "archive_edition": "Summer 2025",
+    "sha256": "ed2769a0fd1426c0a71c82e3f4d30dbaf0ff16de144f79564cac65d865b059c1"
+  }
+}
