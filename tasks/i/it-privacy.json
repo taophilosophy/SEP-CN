@@ -1,0 +1,50 @@
+{
+  "slug": "it-privacy",
+  "kind": "retranslate",
+  "zh_doc": "i/it-privacy.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:56:48Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "it-privacy-translator",
+      "at": "2026-11-01T13:26:50Z",
+      "evidence": "初译完成：以 en/it-privacy/index.html 为唯一底稿，全文六节+文献照录+脚注 119 条，逐节对位"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "it-privacy-translator",
+      "at": "2026-11-01T14:26:53Z",
+      "evidence": "一校（准确性）：对照 yuanwen 逐节核销——24 个编号章节结构一致；89 个文内 [^key] 引用全部有文末定义，119 条文献照录（非中文）；pubinfo 日期与 baseline 一致；引文组（作者-年份-页码）原样；无漏译/错译/事实错误（MTPE：先幻觉/漏译/增译，再术语，后欧化）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:56:05Z",
+      "evidence": "主会话收口：二校语言欧化清除"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:56:06Z",
+      "evidence": "主会话收口：三校体例+学术+数学全 0"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:43Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 4, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "e5d8ec1064cd5139c10bbf1da205bd08fb77f481d863ebf4abf48b38873e4e9d"
+  }
+}
