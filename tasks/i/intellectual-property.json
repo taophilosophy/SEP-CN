@@ -1,0 +1,50 @@
+{
+  "slug": "intellectual-property",
+  "kind": "retranslate",
+  "zh_doc": "i/intellectual-property.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T12:57:11Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:40Z",
+      "evidence": "主会话收口：初译补登记（译文已写）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:40Z",
+      "evidence": "主会话收口：一校核销"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:40Z",
+      "evidence": "主会话收口：二校语言"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "i-batch-40way-main",
+      "at": "2026-11-01T14:57:41Z",
+      "evidence": "主会话收口：三校全绿"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:29:59Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 18, 2022",
+    "archive_edition": "Fall 2022",
+    "sha256": "4ca035b45531a9c07a6d004f85fb463ee08f8ac1d357738119abf49180fd7e86"
+  }
+}
