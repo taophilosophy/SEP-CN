@@ -2,7 +2,7 @@
   "slug": "it-privacy",
   "kind": "retranslate",
   "zh_doc": "i/it-privacy.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "i-batch-40way-main",
       "at": "2026-11-01T14:56:06Z",
       "evidence": "主会话收口：三校体例+学术+数学全 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:42:47Z",
+      "evidence": "独立复审：对照 yuanwen 四节逐段核销，无漏译（2024 修订新增段落全在场：新共和主义说明/认识论说明/GDPR by design/基础模型与 LLM/认知自由/profilicity 后续/暗黑模式）；发现并修复三件：①H1 与 SUMMARY 标题系上游 TOC 截断片'and privacy'，回 en/ 核对 citation_title='Privacy and Information Technology' 后修 SUMMARY 主行+H1（别名行 2123 系上游挂载名合规不动）②Donnellan attributive 误译'属性性'→惯译'归属性'×2 ③OIR 整节 19 条未译违反模板 §16，全部译出（URL 原样）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:42:47Z",
+      "evidence": "逐句回核：正文语言过关（前会话 s2 已扎实）；定点复核 EB/艾字节、寒蝉效应、功能蔓延、无收据性、k-匿名、可否认性、自主主权身份、安全(security)vs安全性(safety) 带 gloss 等技术术语翻译；引块 0；数值事实核验（100EB/720MB 光盘堆、GDPR 第25条、1995 指令、剑桥分析案）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:42:48Z",
+      "evidence": "终稿验收：check_style --strict 0；check_summary H1 与 SUMMARY 一致（本次同修）；学术门禁见自动拦截；IT 伦理术语一致性核验（隐私增强技术/设计即隐私/语境完整性/监控资本主义/差分隐私/同态加密/价值敏感设计）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T17:42:48Z",
+      "evidence": "终审签字：六道全过，独立复审完成，exit 0"
     }
   ],
   "blockers": [],
