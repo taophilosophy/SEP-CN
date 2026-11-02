@@ -2,7 +2,7 @@
   "slug": "buddhism-huayan",
   "kind": "retranslate",
   "zh_doc": "b/buddhism-huayan.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:16:03Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T16:35:00Z",
+      "evidence": "初译稿 641faf13 在库（约 13.8k 汉字，章节 12/12、尾节 2/2 全型）；本会话复核脚注定义与源文逐一对应、未译外文碎片 0"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T16:35:00Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：导言/1.1-1.3/2-8.2 全节+脚注 44 条+网络资源 3 项+相关词条 16 项全对应；史实存疑点 1 处（源文 Emperor Gaozu，译文作高宗并保留原罗马字注，可追溯不擅改）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T16:35:00Z",
+      "evidence": "check_prose 16→12：实修 6 处（畸形强调标记 31/41/71/109、乱码字符 177、长句拆分 29、存在句 39、的链+其佛教 77、名录嵌套句 141 其一其二拆分）；余 12 条逐条豁免：15/95/111×2/115/135/201 的链为对照源文语义所需或自然中文，25/83 括注插入语致长，93/195 被动为源文镜像修辞与史叙惯用"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-02T16:35:01Z",
+      "evidence": "check_style 0 issue（curly-quotes 修 41 行弯引号对、加粗/斜体标记 6 组归位）；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；中文强调加粗/拉丁术语斜体按 rules/02；biblio_audit flagged=0 errors=0"
     }
   ],
   "blockers": [],
