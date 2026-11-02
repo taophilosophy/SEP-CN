@@ -2,7 +2,7 @@
   "slug": "kant-mathematics",
   "kind": "retranslate",
   "zh_doc": "k/kant-mathematics.md",
-  "state": "drafted",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,55 @@
       "actor": "sub-kant-mathematics",
       "at": "2026-11-01T21:46:49Z",
       "evidence": "ledger: 29 segments step1+step2 (tasks/k/kant-mathematics.ledger.yaml); H1=康德的数学哲学 philosophy of mathematics (Lisa Shabel); pubinfo 2013-07-19/2021-08-11 与 baseline 一致; 源强调 em->中文粗体映射(Latin 斜体保留), <trapezium>/<triangle> 概念记号转〈〉(no-html 门禁), 2.1 末段源文未闭合括号已按义补全并留痕; 无数学定界符/无图片/无补充材料链接"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:32:36Z",
+      "evidence": "s1 一校（复审人独立重读，账本 29 段 step1+step2 装配稿为底）：全文三节（前批判期/批判期 2.1-2.3/评论研究 3.1-3.3）+6 脚注+71 条参考文献逐段对照 yuanwen 镜像核销；修正 7 处（H1 与 SUMMARY 1393 全题化 Kant's Philosophy of Mathematics（citation_title 已核 en/ index.html）、星号错位 ×4（L33/L55/L79×2）、polyadic 多原子逻辑→多元逻辑与 monadic 一元配对）；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:32:37Z",
+      "evidence": "s2 二校：引文括注 50+ 处逐一复核（2:278/2:281/2:282/2:289/2:296/2:382/2:403、A711/B739、A713/B741、A714/B742、A717/B745、A724/B752、A727/B755、B19/B23、B14/B15、A716–7/B744–5、A725/B753、B110/B111、4:283、A136/B175、A148–9/B188–9、A161/B202、5:248ff、A164/B205、Hintikka 1969 p.49、Friedman 2012 n.17）；专名核销（门德尔松/欧几里得/阿奎那? 无——卡西尔/贝克/罗素/布里坦/欣提卡/帕森斯/弗里德曼/卡森/波西/雷克特/萨瑟兰/贝特/马丁/卡尔纳普/鲁斯诺克）；术语核销（构造/演证的-符号的构造/不等称对应物/图型化/先验图型/直观的公理/广延的量/数学性的崇高/有穷主义/序数性-基数性/存在例示/斯科伦函数/证据主义）； Academy 版页码引用体系一致；check_math/check_summary/check_academic --strict 全绿"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:33:01Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）；H1=SUMMARY 1393 行（全题化后一致）；尾部节序 脚注（含 references-nd 科学院版说明）→参考文献（71 条照录，源文原样 in in/G. ,/W. , 保留）→学术工具→其他网络资源→相关词条 完整"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:33:01Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/kant-mathematics.md 346 行 ↔ k/kant-mathematics.md 341 行逐段核销）：导言+三节九小节全数在位；康德原文引用逐条核对（获奖论文 2:278-296 五条、就职论文 2:382/2:403、批判版 A/B 交替页码 18 处、4:283、5:248ff）；『7+5=12』B15 引文逐句核对（分析找不到十二/五根手指/看到 12 产生）；概念尖括号记号〈梯形〉〈三角形〉保留源文形；脚注 6 条核销（trapezium/trapezoid 英美定义反转、Rusnock 异见、Hintikka 预备性-完整理论、B 版逐字添加、数值公式单称性、科学院版页码说明）；参考文献 71 条与源文逐字相符；相关词条 9 项逐一对照 SUMMARY 登记形（分析/分析-综合的区别/先验证成与先验知识 L153/康德对形而上学的批判 L1387/康德哲学的发展历程 L1392/康德的科学哲学 L1395/康德的先验论证 L1398/康德对空间和时间的观点/数学哲学）全部一致；零信任抽查 4 处（获奖论文出版信息 1764、Discipline 节 A711/B739 开篇、7+5=12 段、Posy-Rechter 2020 文集描述）与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:33:02Z",
+      "evidence": "r2 语言与忠实定点修 7 处（s1 阶段一并实施并留痕）：①H1+SUMMARY 全题化 philosophy of mathematics→Kant's Philosophy of Mathematics（TOC 片段修复，citation_title 已核 en/index.html）；②-⑤四处星号标记错位（a priori/a posteriori/in concreto/Kant's Philosophy of Mathematics Volume I/Kant: Studies on Mathematics 五处斜体对恢复）；⑥polyadic logic 译『多原子逻辑』→『多元逻辑』（与 monadic=一元逻辑配对）；⑦关联词条行经查与 SUMMARY 登记形全部一致、无需改动（先验证成为登记主形）；check_style --strict 复跑 0 issues、四道全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:33:20Z",
+      "evidence": "r3 门禁全绿：check_style --strict 0 issues（7 处修复后复跑）；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦通过）；pubinfo 斜体 2013-07-19/2021-08-11"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-02T22:33:20Z",
+      "evidence": "done 收口：s1-s3 三校（7 处定点修：H1/SUMMARY 全题化+星号错位×4+polyadic 多元逻辑）+r1 三节九小节全核销（康德原文引用 18 处 A/B 页码、脚注 6 条、参考文献 71 条逐字相符、相关词条 9 项对齐 SUMMARY）+r3 四道门禁全绿；独立复审人 ses-FGHIJK-main-1103；F-K 批审查通道（s3/s1/drafted 在途）至此全部清零"
     }
   ],
   "blockers": [],
