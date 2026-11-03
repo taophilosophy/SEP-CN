@@ -2,7 +2,7 @@
   "slug": "richard-sophister",
   "kind": "retranslate",
   "zh_doc": "r/richard-sophister.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "direction",
@@ -31,6 +31,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:04:33Z",
       "evidence": "s1 一校（MTPE 顺序，账本为对照底逐段核销）：①幻觉/漏译/增译——41 段源文↔step2 数字多集合逐段比对全守恒（sophism 编号/年代/页码/folio 全保）；脚注键闭环 18 引用↔18 定义，biblio 21 条（含 o'donnell 弯撇号条）零孤立引用；②术语漂移——check_terms 定点核销 0 缺译，登记册 13 新条全部落地（非范畴词/诡辩句/义务论辩/习性存在/意谓/排除词/《辨谬篇》/《箴言四书注》）；biblio_audit 21 条 0 标旗（无中国文献，无 ADR-0011 还原项）；③核销修正 2 处——段3 masterful 译「精彩」漂移改「大师级处理」、段15 predicated of 被动方向还原「同一事物被谓述于同一事物」，账本+成稿同步重建（守恒复检 HARD=0）；④顺带修弱势方：词汇表 Lorenzo Valla 劳伦佐→洛伦佐（对齐人名表，存量冲突非本词条引入）；版本事实行与 baseline pubinfo 一致（1999-08-04/2016-11-26）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:18:12Z",
+      "evidence": "s2 二校（Fluency/Style）：check_prose 5 条告警逐条人工修改归零——de-chain×3（段8「对这类句子的处理」链式重排两轮、段19 逻辑学家们→逻辑学家的、段22「否定与否定的词项的一般说明」→「关于否定和否定词项」+长句 75 字拆分改分号句）；long-sentence×1（段22 更重要的是句 75 汉字，以「；威廉所用的是同一区分……」拆分）；plural-men×1（段19 题跋 gloss）。脱稿通读全稿一遍，中文行文无阻涩；修正工具 rz_postfix.py 固化 H1 还原+相关词条 SUMMARY 对齐（含别名行不覆盖 canonical 的坑）；step1 忠实底未动，全部修改仅落 step2/成稿"
     }
   ],
   "blockers": [],

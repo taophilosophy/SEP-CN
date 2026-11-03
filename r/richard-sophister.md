@@ -15,7 +15,7 @@
 
 *Abstractiones* 的成书年代看来在 1230 年代或 40 年代前后。对 *Abstractiones* 最早的提及出现于十三世纪晚期，见于伍斯特座堂图书馆（Worcester Cathedral Library）Q. 13 号抄本；其定年可靠地不晚于 1295 年，而且可能早至 1270 年。[^note-4] 伍斯特 Q. 13 含有四处对“Magister Abstractionum”的提及。另一处对 *Abstractiones* 的引用，见于阿尔尼克的威廉（William of Alnwick）的一份随意问题（Quodlibetal Question）：“上帝是否认识无限多的事物（*Utrum Deus cognoscat infinita*）？”即第 9 问，约成于 1320 年前后。沃尔特·伯利（Walter Burley）的短著 *De Exceptivis*（L. M. de Rijk 编辑）含有一处对 Magister Abstractionum 的引用。[^note-5] 奥卡姆的威廉（William of Ockham）的 *Summa Logicae* 里也有一处有意思的引用；Ps. Richard of Campsall、John of Reading 与亚当·德·沃德汉姆（Adam Wodeham）那里还能找到另外的引用。[^note-6]
 
-*Abstractiones* 存在两个衍生文本，成书约七十年后又有多位一流逻辑学家频频引用，这些都表明 *Abstractiones* 是一部相当流行、经受了时间考验的书。与十四世纪的诡辩文献相比，理查德对诡辩句的分析显得有些朴素；但与他同时代人对诡辩句的处理相比，理查德的分析在性质上是相近的。理查德最大的成就，或许在于他有能力浓缩并总结数量巨大的这类逻辑难题，为学生提供了一本便于查阅的参考书，里面装满了形形色色逻辑谬误的例子。
+*Abstractiones* 存在两个衍生文本，成书约七十年后又有多位一流逻辑学家频频引用，这些都表明 *Abstractiones* 是一部相当流行、经受了时间考验的书。与十四世纪的诡辩文献相比，理查德对诡辩句的分析显得有些朴素；但与他同时代人的处理相比，理查德的分析在性质上相近。理查德最大的成就，或许在于他有能力浓缩并总结数量巨大的这类逻辑难题，为学生提供了一本便于查阅的参考书，里面装满了形形色色逻辑谬误的例子。
 
 理查德的 *Abstractiones* 校勘本终于在 2016 年问世，由 Sten Ebbesen、Mary Sirridge 与 E. Jennifer Ashworth 编辑，牛津大学出版社出版，列于 *Auctores Britannici Medii Aevi* 丛书。
 
@@ -63,13 +63,13 @@
 
 > Expliciunt ista, quae tu, Ricarde Sophista, fecesti, morum flos et doctor logicorum. Dirige scribentis, Spiritus alme, manum. Expliciunt Abstractiones. (Digby 24, f.90rb)
 >
-> （这些［诡辩句］是完整的，是你——诡辩家理查德，美德之花、逻辑学家们的导师——作出的。圣善的灵啊，请调转抄写者的手［让它离开这项工作］。*Abstractiones* 到此完结。）
+> （这些［诡辩句］是完整的，是你——诡辩家理查德，美德之花、逻辑学家的导师——作出的。圣善的灵啊，请调转抄写者的手［让它离开这项工作］。*Abstractiones* 到此完结。）
 
 De Rijk 提出 Richard Fishacre 之名，不同意 Macray 提出的 Richard Fitz-Ralph 之说，理由是：文本定年在十三世纪第二个二十五年，与 Fishacre 的年表更为相合。[^note-8] Jan Pinborg 则提出 Richard Rufus，理由同样是 *Abstractiones* 的定年与 Rufus 身在牛津的时期相合。[^note-9] 人们一般假定作者是英国人。Pinborg 为 Richard Rufus 之说又添了一条证据：有理由认为，罗吉尔·培根（Roger Bacon）所批评的理查德·鲁弗斯（Richard Rufus）的某些学说，就见于 *Abstractiones*。归于理查德·鲁弗斯名下而受培根批评的那条主要学说，粗略说来是：即使一个名称所指的实际事物不复存在，名称的意谓（signification）仍可留存；不过，正如培根提示的，持此论者必须为这类名称已失去的实际所指补设某种“习性存在”（habitual being）。培根所反对的，正是这条关于 “*esse habituale*” 的学说。理查德·鲁弗斯确乎持有这样的学说，这一点清楚见于他在《箴言四书注》（*Sentences Commentary*）第三卷区分 22 中对“基督在墓中三天是否为人”（“*Utrum Christus in triduo mortis fuerit homo*”）一问的讨论。[^note-10]
 
 处理理查德·鲁弗斯对这一问题的讨论，连同罗吉尔·培根对 “*esse habituale*” 观念的激烈批评，两者交织的复杂性会超出本文范围。这里的关键问题是：理查德·鲁弗斯拥护的学说，是否与诡辩家理查德 *Abstractiones* 中的任何内容严格平行。重要的是不仅要找到术语上的类似，还要找到学说上的类似。理查德·鲁弗斯作出上述区分所用的术语，是 “*esse in habitu*” 与 “*esse in actu*” 的对立；前者他又标为 “*esse simpliciter*”，后者标为 “*esse ut nunc*”。[^note-11] 培根似乎以 “*esse habituale*” 替换了 “*esse in habitu*” 这个表达式；Rufus 则不使用 “*esse habituale*”。如前所述，Pinborg 注意到 Abstractiones 中有 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 两个表达式。培根也使用 “*esse habitudinis*”，但他似乎认识到 “*esse habituale*” 与 “*esse habitudinis*” 之间的一种区别；他说，后者“用于命题，稍后谈到命题时将会被驳倒”。[^note-12] 这句话或许表明，培根在 “*esse habitudinis*” 上看到的学说问题与他在 “*esse habituale*” 上看到的相同（即它为谈论某种虚构的存在提供了口实）；但这一点无法确证，因为他在《Compendium》中再未回到这个话题。诡辩家理查德并不使用培根与 Rufus 各自那套 “*esse habituale*／*esse actuale*”、“*esse in habitu/esse in actu*” 术语。[^note-13] Pinborg 还注意到，奥卡姆的威廉批评那些作出 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 之分的人不懂假言命题与直言命题的简单区别；在奥卡姆看来，这种区分的全部内容不过如此。[^note-14] Pinborg 认为奥卡姆的批评可能与培根的论点相同：这套术语会引来对某种虚构存在的谈论。奥卡姆想废除旧术语、改用问题较少的语言，这大概是对的；但重要的问题在于：诡辩家理查德对 “*esse habitudinis*／*esse quod est operatio entis*” 这一区分的使用，是否除命题类型的区别之外还意味着别的什么？他对这一区分的使用，是否像培根的攻击看来适用于理查德·鲁弗斯那个术语上类似的区分那样，同样落在培根的攻击范围之内？
 
-要完整回答这些问题，不仅要详细考察 *Abstractiones* 解答诡辩句时对这一区分的使用，还要考察理查德对“断言非存在”的词项所持的立场，以及他对否定与否定的词项的一般说明。[^note-15] 这些任务显然超出本文范围。至于第一个问题，这里只能记下一件事：*Abstractiones* 中理查德在解答诡辩句时运用这一区分的地方只有三处，而且没有一处可以清楚认定这是他偏好的解答。[^note-16] 更重要的是，理查德在解答诡辩句时对这一区分的运用，似乎与舍伍德的威廉（William of Sherwood）对同一区分的运用相合（威廉用的术语是 “*esse habituale*／*esse actuale*”）——也就是说，基本上是标记假言命题与直言命题之别的一种方式。[^note-17] Braakhuis 已经成功地论证，罗吉尔·培根的攻击并不适用于威廉对这一区分的使用，尽管在上述所有作者中，唯有威廉的术语与培根的术语完全相同。[^note-18] 于是，如果培根所攻击的学说不能归于威廉，它同样不能归于诡辩家理查德。看来，理查德·鲁弗斯与诡辩家理查德不能认定为同一人——至少凭这些所谓的学说与术语上的类似不能。
+要完整回答这些问题，不仅要详细考察 *Abstractiones* 解答诡辩句时对这一区分的使用，还要考察理查德对“断言非存在”的词项所持的立场，以及他关于否定和否定词项的一般说明。[^note-15] 这些任务显然超出本文范围。至于第一个问题，这里只能记下一件事：*Abstractiones* 中理查德在解答诡辩句时运用这一区分的地方只有三处，而且没有一处可以清楚认定这是他偏好的解答。[^note-16] 更重要的是，理查德在解答诡辩句时对这一区分的运用，似乎与舍伍德的威廉（William of Sherwood）的用法相合；威廉所用的是同一区分（术语作 “*esse habituale*／*esse actuale*”），基本上是借它标记假言命题与直言命题之别。[^note-17] Braakhuis 已经成功地论证，罗吉尔·培根的攻击并不适用于威廉对这一区分的使用，尽管在上述所有作者中，唯有威廉的术语与培根的术语完全相同。[^note-18] 于是，如果培根所攻击的学说不能归于威廉，它同样不能归于诡辩家理查德。看来，理查德·鲁弗斯与诡辩家理查德不能认定为同一人——至少凭这些所谓的学说与术语上的类似不能。
 
 ## 脚注
 
