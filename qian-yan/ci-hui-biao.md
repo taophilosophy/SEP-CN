@@ -884,7 +884,7 @@
 |Long March|长征||
 |Lord Keeper of the Seal|掌玺大臣||
 |Lord Monboddo|蒙博多勋爵||
-|Lorenzo Valla|劳伦佐·瓦拉||
+|Lorenzo Valla|洛伦佐·瓦拉||
 |Ludwig Boltzmann|路德维希·玻尔兹曼||
 |Ludwig Wittgenstein|路德维希·维特根斯坦||
 |Luitzen Egbertus Jan Brouwer|勒伊岑·艾赫贝特斯·扬·布劳威尔||
