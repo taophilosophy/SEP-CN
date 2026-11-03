@@ -144,7 +144,7 @@
 | Damaris Masham | 达玛里斯·马沙姆 | lady-masham | 学界通行汉译（早期英格兰女性哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Gottfried Wilhelm Leibniz | 戈特弗里德·威廉·莱布尼茨 | lady-masham | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Nicolas Malebranche | 尼古拉·马勒伯朗士 | lady-masham | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-03 |
-| Pierre Bayle | 皮埃尔·培尔 | lady-masham | 学界通行汉译（《历史与批判词典》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Pierre Bayle | 皮埃尔·培尔 | lady-masham、leibniz-evil | 学界通行汉译（《历史与批判词典》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Ralph Cudworth | 拉尔夫·库德沃斯 | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Henry More | 亨利·莫尔 | lady-masham | 学界通行汉译（剑桥柏拉图主义者）；待 specs/008 审定库复核 | 2026-11-03 |
 | John Norris | 约翰·诺里斯 | lady-masham | 学界通行汉译（马勒伯朗士派英格兰拥护者）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -207,6 +207,11 @@
 | Immanuel Kant | 伊曼努尔·康德 | leibniz-modal | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Jorge Luis Borges | 豪尔赫·路易斯·博尔赫斯 | leibniz-modal | 学界通行汉译（作家，《巴别图书馆》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Bourguet | 布尔盖 | leibniz-modal | 学界通行汉译（莱布尼茨通信者 Louis Bourguet）；待 specs/008 审定库复核 | 2026-11-03 |
+| Luis de Molina | 路易斯·德·莫利纳 | leibniz-evil | 学界通行汉译（耶稣会神学家，中知识说）；待 specs/008 审定库复核 | 2026-11-04 |
+| Sophie Charlotte | 索菲·夏洛特 | leibniz-evil | 学界通行汉译（普鲁士王后）；待 specs/008 审定库复核 | 2026-11-04 |
+| Magnus Wedderkopf | 马格努斯·韦德科普夫 | leibniz-evil | 学界通行汉译（莱布尼茨通信者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Nicolas Steno | 尼古拉·斯滕诺 | leibniz-evil | 学界通行汉译（丹麦科学家-主教，亦作斯特诺）；待 specs/008 审定库复核 | 2026-11-04 |
+| Johann Friedrich | 约翰·弗里德里希 | leibniz-evil | 学界通行汉译（汉诺威公爵）；待 specs/008 审定库复核 | 2026-11-04 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -355,7 +360,7 @@
 | Abū Bishr Mattā | 阿布·比什尔·马塔 | al-farabi-logic | 学界通行 | 2026-10-28 |
 | Ibn Kammūna | 伊本·凯姆那 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | Ibn ʿArabī | 伊本·阿拉比 | arabic-islamic-mysticism | 学界通行 | 2026-10-28 |
-| Thomas Aquinas | 托马斯·阿奎那 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| Thomas Aquinas | 托马斯·阿奎那 | 语料回收（全目录）、leibniz-evil | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | David Hume | 大卫·休谟 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | William James | 威廉·詹姆斯 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | ʿAyn al-Quḍāt | 艾因·库扎特（哈马丹的艾因·库扎特） | 语料回收（arabic-islamic-mysticism） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
