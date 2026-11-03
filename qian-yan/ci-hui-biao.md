@@ -2,12 +2,17 @@
 
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
+|abilities|能力||
 |Abraham ibn Ezra|亚伯拉罕·伊本·以斯拉|亦作“伊本·以斯拉”；犹太哲学|
 |abstract entities|抽象实体|与 abstract objects 抽象对象配对|
 |abstract objects|抽象对象|审定名词（自然辩证法·科学哲学）|
+|action|行动||
 |Actualism|现实主义（模态形而上学；亦作“现实论”）|模态形而上学；亦作“现实论”|
+|adaptationism|适应主义||
 |Adolf Reinach|阿道夫·莱纳赫|早期现象学（普莱斯纳学派前驱）|
+|advance directives|预先指示||
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
+|Africana Philosophy|非裔哲学||
 |Agent Intellect|主动理智、能动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
 |Alain Locke|阿兰·洛克||
@@ -36,6 +41,7 @@
 |Best Interests standard|最佳利益标准|生命伦理学|
 |Bildung|教化|伽达默尔语境|
 |biodiversity|生物多样性|审定名词（多域）|
+|biological information|生物信息||
 |Brian Leftow|布莱恩·莱夫托||
 |Bruce Bridgeman|布里奇曼|视觉/动作心理学；首现括注|
 |care ethics|关怀伦理|审定直接命中（新闻传播学域）|
@@ -44,12 +50,18 @@
 |causal influence|因果影响|佐证审定“因果性”|
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
 |Celestial Masters|天师道|道教天师道；审定“天师”佐证|
+|certainty|确定性||
 |Chan Buddhism|禅宗|审定名词（中国古代史·宗教）|
 |Charles Mills|查尔斯·米尔斯|当代政治哲学|
 |Cheng Hao|程颢|宋明理学（与程颐并称二程）|
+|Chinese medicine|中医||
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
+|civic humanism|公民人文主义||
+|cloning|克隆||
+|cognitive science|认知科学||
 |common good|公共善|亦作“共同善”；政治哲学|
+|conceptual art|观念艺术||
 |concrete objects|具体对象|与抽象对象相对|
 |conditional analysis|条件分析、条件句分析|能力哲学|
 |constitutive aim|构成性目的|行动哲学（belief 的 aim 之辩）|
@@ -75,12 +87,14 @@
 |distributive justice|分配正义|亦作“分配公平”；审定“分配公平”在案|
 |divine intellect|神圣理智|亦作“神性理智”；中世纪哲学|
 |Donna Haraway|唐娜·哈拉维||
+|dynamic choice|动态选择||
 |earlier self|先前自我|advance-directives 词条核心|
 |Edith Stein|艾迪特·施泰因|现象学|
 |efference copy|传出副本|行动感知/认知科学|
 |Emil Lask|埃米尔·拉斯克||
 |enactive approach|生成进路|生成认知（enactivism）|
 |Encyclopédie|《百科全书》|狄德罗主编；启蒙哲学|
+|envy|嫉妒||
 |epistêmê|知识|与 doxa 意见相对|
 |Epistemic Closure|认知封闭|知识论|
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
@@ -89,12 +103,15 @@
 |Ernst Mayr|恩斯特·迈尔||
 |Ernst Zermelo|恩斯特·策梅洛|集合论（策梅洛公理）|
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
+|evolution|进化||
 |evolutionary epistemology|进化认识论|审定名词（自然辩证法·科学哲学）|
+|existentialist aesthetics|存在主义美学||
 |expected utility|期望效用|审定名词（管理科学）|
 |external world|外部世界|认识论|
 |extramural speech|校外言论|学术自由词条核心|
 |first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
 |Four Dimensionalism|四维主义|形而上学（刘易斯）|
+|frame problem|框架问题||
 |Frankfurt School|法兰克福学派|审定名词（新闻传播学）|
 |Fred Dretske|弗雷德·德雷斯基|知识论与心灵哲学|
 |Freedom|自由|审定名词在案；学界通行同形|
@@ -106,6 +123,7 @@
 |Gary Watson|加里·沃森|行动理论/道德心理学|
 |gauge freedom|规范自由度|广义相对论哲学；物理学通行|
 |gauge transformation|规范变换|广义相对论哲学；物理学通行|
+|gene|基因||
 |general ability|一般能力|能力哲学（与特殊能力相对）|
 |general covariance|广义协变性|广义相对论哲学；物理学通行|
 |Georg Gadamer|格奥尔格·伽达默尔|哲学诠释学|
@@ -117,6 +135,8 @@
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
 |Gómez Pereira|戈麦斯·佩雷拉|西班牙文艺复兴|
+|haecceitism|此性论||
+|Han Dynasty philosophy|中国汉代哲学||
 |Hans Hahn|汉斯·哈恩|维也纳学派|
 |Hao Wang|王浩|逻辑学家/哥德尔研究|
 |Harriet Taylor|哈丽雅特·泰勒|密尔合作者/女性主义先声|
@@ -125,17 +145,27 @@
 |Hilary Putnam|希拉里·普特南||
 |Hillel Steiner|希勒尔·斯坦纳|分析马克思主义/权利论|
 |hole transformation|洞变换|与“空穴论证”（hole argument）复合同源|
+|holes|洞||
 |Holy Spirit|圣灵|宗教学|
+|homosexuality|同性恋||
+|Huayan Buddhism|华严宗||
 |Hui Shi|惠施|中国哲学家|
 |Hypothetical Reasoning|假说推理|皮尔士溯因语境|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
+|identity politics|身份政治||
 |identity relation|同一关系|逻辑学/形而上学|
+|imaginative resistance|想象性抗拒||
+|immutability|不变性||
+|impossible worlds|不可能世界||
+|integrity|诚信||
+|intellectual property|知识产权||
 |intelligible forms|可理知形式|柏拉图/中世纪哲学|
 |intentional action|意向行动|行动哲学核心|
 |intentional inexistence|意向内的存在|布伦塔诺|
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
 |James Ward|詹姆斯·沃德||
+|Japanese aesthetics|日本美学||
 |Jean Hampton|琼·汉普顿||
 |John Dupré|约翰·杜普雷||
 |John Earman|约翰·厄尔曼||
@@ -164,6 +194,8 @@
 |Norman Daniels|诺曼·丹尼尔斯||
 |Norman Malcolm|诺曼·马尔科姆||
 |observable|可观测量|物理学/科学哲学通行|
+|ontological argument|本体论论证||
+|personal identity|人格同一性||
 |Peter Kivy|彼得·基维||
 |point-coincidence argument|点重合论证|Stachel 术语|
 |Possibilism|可能论|模态形而上学（与现实主义相对）|
@@ -175,6 +207,7 @@
 |Richard Lewontin|理查德·列万廷||
 |Robert Holcot|罗伯特·霍尔科特||
 |Robert Post|Robert Post|现代学者保留英文；通行汉译“波斯特”|
+|sage philosophy|智者哲学（非洲语境）||
 |Saṃdhinirmocana Sūtra|《解深密经》|佛典译名（玄奘译本通行）|
 |Samuel Scheffler|塞缪尔·谢弗勒||
 |Shaun Nichols|肖恩·尼科尔斯||

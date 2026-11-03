@@ -584,6 +584,7 @@
 | pramāṇa | 量论 | gelukpa | 因明学通行译名 | 2026-11-01 |
 | vinaya | 毗奈耶 | gelukpa | 佛学界通行译名（律藏） | 2026-11-01 |
 | Abhisamayālaṃkāra | 《现观庄严论》 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| abilities | 能力 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/abilities））；凭证 2026-11-04 | 2026-11-04 |
 | Pramāṇavārttika | 《释量论》 | gelukpa | 因明学通行译名 | 2026-11-01 |
 | emptiness | 空性 | gelukpa | 佛学界通行译名（空/空性） | 2026-11-01 |
 | two truths | 二谛（佛教；犹太哲学语境亦作“两种真理”） | gelukpa、delmedigo | 佛学界通行译名（真谛/俗谛） | 2026-11-01 |
@@ -707,6 +708,10 @@
 | testimonial system | 证言系统 | justep-coherence | 学界惯例（证词认识论通行译法） | 2026-11-02 |
 | truth conducive | 导向真理的 | justep-coherence | 学界惯例（truth-conducive 通行译法“导向真理”） | 2026-11-02 |
 | acceptance system | 接受系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
+| Africana Philosophy | 非裔哲学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/africana））；凭证 2026-11-04 | 2026-11-04 |
+| advance directives | 预先指示 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/advance-directives））；凭证 2026-11-04 | 2026-11-04 |
+| adaptationism | 适应主义 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/adaptationism））；凭证 2026-11-04 | 2026-11-04 |
+| action | 行动 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/action））；凭证 2026-11-04 | 2026-11-04 |
 | evaluation system | 评价系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
 | congruence | 一致（吻合） | justep-coherence | 学界惯例（Lewis 术语 congruence 通行译法“一致/吻合”） | 2026-11-02 |
 | isolation objection | 孤立性反驳 | justep-coherence | 学界惯例（直译） | 2026-11-02 |
@@ -733,6 +738,34 @@
 | eudaimonism | 幸福论 | 首现（justice-virtue） | 学界惯例（希腊伦理）；凭证 2026-11-02 | 2026-11-02 |
 | practical wisdom | 实践智慧 | 首现（justice-virtue） | 学界惯例（phronesis 通行译法）；凭证 2026-11-02 | 2026-11-02 |
 | agapic love | 圣爱 | 首现（justice-virtue） | 学界惯例（基督教 agape 通行译法）；凭证 2026-11-02 | 2026-11-02 |
+| biological information | 生物信息 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/information-biological））；凭证 2026-11-04 | 2026-11-04 |
 | caritas | 仁爱（亦作“博爱”） | 首现（justice-virtue） | 学界惯例（神学德性，托马斯·阿奎那）；凭证 2026-11-02 | 2026-11-02 |
+| envy | 嫉妒 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 e/envy））；凭证 2026-11-04 | 2026-11-04 |
+| dynamic choice | 动态选择 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/choice-dynamic））；凭证 2026-11-04 | 2026-11-04 |
+| conceptual art | 观念艺术 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/conceptual-art））；凭证 2026-11-04 | 2026-11-04 |
+| cognitive science | 认知科学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/cognitive-science））；凭证 2026-11-04 | 2026-11-04 |
+| cloning | 克隆 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/cloning））；凭证 2026-11-04 | 2026-11-04 |
+| civic humanism | 公民人文主义 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/humanism-civic））；凭证 2026-11-04 | 2026-11-04 |
+| Chinese medicine | 中医 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/chinese-phil-medicine））；凭证 2026-11-04 | 2026-11-04 |
+| certainty | 确定性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/certainty））；凭证 2026-11-04 | 2026-11-04 |
 | negative virtue | 消极德性 | 首现（justice-virtue） | 学界惯例（亚当·斯密《道德情操论》通行）；凭证 2026-11-02 | 2026-11-02 |
 | ethical skill | 伦理技能 | 首现（justice-virtue） | 学界惯例（Widlok 直译）；凭证 2026-11-02 | 2026-11-02 |
+| sage philosophy | 智者哲学（非洲语境） | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/african-sage））；凭证 2026-11-04 | 2026-11-04 |
+| personal identity | 人格同一性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/identity-personal））；凭证 2026-11-04 | 2026-11-04 |
+| ontological argument | 本体论论证 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 d/descartes-ontological））；凭证 2026-11-04 | 2026-11-04 |
+| Japanese aesthetics | 日本美学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 j/japanese-aesthetics））；凭证 2026-11-04 | 2026-11-04 |
+| intellectual property | 知识产权 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/intellectual-property））；凭证 2026-11-04 | 2026-11-04 |
+| integrity | 诚信 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/integrity））；凭证 2026-11-04 | 2026-11-04 |
+| impossible worlds | 不可能世界 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/impossible-worlds））；凭证 2026-11-04 | 2026-11-04 |
+| immutability | 不变性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/immutability））；凭证 2026-11-04 | 2026-11-04 |
+| imaginative resistance | 想象性抗拒 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/imaginative-resistance））；凭证 2026-11-04 | 2026-11-04 |
+| identity politics | 身份政治 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/identity-politics））；凭证 2026-11-04 | 2026-11-04 |
+| Huayan Buddhism | 华严宗 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 b/buddhism-huayan））；凭证 2026-11-04 | 2026-11-04 |
+| homosexuality | 同性恋 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/homosexuality））；凭证 2026-11-04 | 2026-11-04 |
+| holes | 洞 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/holes））；凭证 2026-11-04 | 2026-11-04 |
+| Han Dynasty philosophy | 中国汉代哲学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/han-dynasty））；凭证 2026-11-04 | 2026-11-04 |
+| haecceitism | 此性论 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/haecceitism））；凭证 2026-11-04 | 2026-11-04 |
+| gene | 基因 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 g/gene））；凭证 2026-11-04 | 2026-11-04 |
+| frame problem | 框架问题 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 f/frame-problem））；凭证 2026-11-04 | 2026-11-04 |
+| existentialist aesthetics | 存在主义美学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/aesthetics-existentialist））；凭证 2026-11-04 | 2026-11-04 |
+| evolution | 进化 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 e/evolution））；凭证 2026-11-04 | 2026-11-04 |
