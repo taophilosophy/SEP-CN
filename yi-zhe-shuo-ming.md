@@ -45,6 +45,11 @@
 | pre-established harmony | 前定和谐 | leibniz-mind | 学界惯例（莱布尼茨译本通行，亦作"预定和谐"备查）；凭证 2026-11-03 | 2026-11-03 |
 | apperception | 统觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | petites perceptions | 微知觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
+| universal characteristic | 普遍文字 | leibniz-logic-influence | 学界惯例（莱布尼茨 characteristica universalis 通行译法）；凭证 2026-11-03 | 2026-11-03 |
+| Begriffsschrift | 概念文字 | leibniz-logic-influence | 学界惯例（弗雷格中译本通行）；凭证 2026-11-03 | 2026-11-03 |
+| algebra of logic | 逻辑代数 | leibniz-logic-influence | 学界惯例（SUMMARY 定名沿用）；凭证 2026-11-03 | 2026-11-03 |
+| ars inveniendi | 发明术 | leibniz-logic-influence | 学界惯例（莱布尼茨研究通行，与判断术 ars iudicandi 相对）；凭证 2026-11-03 | 2026-11-03 |
+| ars iudicandi | 判断术 | leibniz-logic-influence | 学界惯例（同上）；凭证 2026-11-03 | 2026-11-03 |
 | Sleeping Beauty | 睡美人问题 | 语料回收（标题词） | 审定直接命中（自然辩证法·科学哲学）；凭证 2026-11-01 | 2026-11-01 |
 | specific ability | 特殊能力（亦作“特定能力”） | 语料回收（标题词） | 学界惯例（能力哲学（与一般能力相对））；凭证 2026-11-01 | 2026-11-01 |
 | Supreme Ultimate | 太极 | 语料回收（标题词） | 审定直接命中（中国古代史/自然辩证法）；凭证 2026-11-01 | 2026-11-01 |

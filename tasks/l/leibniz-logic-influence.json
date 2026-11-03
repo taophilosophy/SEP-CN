@@ -2,7 +2,7 @@
   "slug": "leibniz-logic-influence",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-logic-influence.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-02T22:03:44Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T15:27:52Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/leibniz-logic-influence.ledger.yaml 46 段（反思两步真实双版）；守恒校验通过（软旗：标题/OIR/公式行机械段×4、斜体→书名号计数差×2 留痕）；写前自查抓英文残留 2 处（objected 说/devoted 于）修正"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T15:27:53Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 45 段：引证（Couturat 1901 p.386/Kneale 1962 p.320/Scholz 1931/Frege 1879 VI/Schröder 1877 III/1880 p.82/Venn 1881 xxxi/Trendelenburg 1857 pp.3,55 等逐字符）；德文/拉丁书名（Begriffsschrift/Vorlesungen über die Algebra der Logik/Generales Inquisitiones/Opuscules et fragments inédits 等）照录；布尔律 a²=a/Ellis-Harley-Jevons-Venn 接受链核销；相关词条 5 项映射 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T15:27:53Z",
+      "evidence": "check_prose 首跑 15 处一轮实修归零：长句拆分×4、的链消解×8（含 DE_CHAIN 12字窗末例）、弱动词×2（加以扩充/进行到底）；复跑 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T15:27:53Z",
+      "evidence": "四检全过：check_style 0（中文斜体 8 处转加粗）、check_academic 0 硬错误、check_math 0、prose 0；术语 普遍文字/概念文字/逻辑代数/发明术/判断术 登记 yi-zhe-shuo-ming.md，人名 14 位登记 ren-ming-biao.md（库蒂拉/布尔/施罗德/卡西尔/特伦德伦堡/兰伯特/德摩根/肖尔茨/鲍尔查诺/杰文斯/文恩/培根/洪堡/卢尔）"
     }
   ],
   "blockers": [],

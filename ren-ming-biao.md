@@ -153,6 +153,20 @@
 | De Volder | 德伏尔德 | leibniz-mind | 学界通行汉译（布尔哈夫学莱顿学者，莱布尼茨通信者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Géraud de Cordemoy | 科尔迪莫伊 | leibniz-mind | 学界通行汉译（17 世纪原子论者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Sigmund Freud | 弗洛伊德 | leibniz-mind | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Louis Couturat | 路易·库蒂拉 | leibniz-logic-influence | 学界通行汉译（《莱布尼茨的逻辑学》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| George Boole | 乔治·布尔 | leibniz-logic-influence | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-03 |
+| Ernst Schröder | 恩斯特·施罗德 | leibniz-logic-influence | 学界通行汉译（《逻辑代数讲义》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Ernst Cassirer | 恩斯特·卡西尔 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Friedrich Adolf Trendelenburg | 弗里德里希·阿道夫·特伦德伦堡 | leibniz-logic-influence | 学界通行汉译（新亚里士多德主义者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Johann Heinrich Lambert | 约翰·海因里希·兰伯特 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Augustus De Morgan | 奥古斯都·德摩根 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Heinrich Scholz | 海因里希·肖尔茨 | leibniz-logic-influence | 学界通行汉译（《逻辑学史》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Bernard Bolzano | 伯纳德·鲍尔查诺 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| William Stanley Jevons | 威廉·斯坦利·杰文斯 | leibniz-logic-influence | 学界通行汉译（经济学家-逻辑学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| John Venn | 约翰·文恩 | leibniz-logic-influence | 学界通行汉译（《符号逻辑》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Francis Bacon | 弗朗西斯·培根 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Wilhelm von Humboldt | 威廉·冯·洪堡 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Raymundus Lullus | 拉蒙·卢尔 | leibniz-logic-influence | 学界通行汉译（中世纪加泰罗尼亚哲人，通行“卢尔”）；待 specs/008 审定库复核 | 2026-11-03 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |

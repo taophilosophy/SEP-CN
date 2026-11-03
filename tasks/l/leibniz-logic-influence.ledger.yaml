@@ -11,275 +11,367 @@ segments:
     kind: body
     source: |-
       It is an important question in the historiography of modern logic whether Leibniz’s logical calculi influenced logic in its present state or whether they were only ingenious anticipations. The most significant of Leibniz’s contributions to formal logic were published in the early 20th century. Only then, Leibniz’s logic could be fully understood. Nevertheless, the essentials of his philosophy of logic and some technical elaborations could be derived from early editions of his writings published in the 18th and 19th centuries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在现代逻辑的史学编纂中，一个重要问题是：莱布尼茨的逻辑演算影响了逻辑的当前形态，还是它们只是天才的预见？莱布尼茨对形式逻辑的最重要贡献发表于二十世纪初。只是到那时，莱布尼茨的逻辑才能被充分理解。尽管如此，其逻辑哲学的要点与某些技术性发挥，可以从十八与十九世纪出版的其著作早期版本中获知。
+    step2: |-
+      在现代逻辑的史学编纂中，有一个重要问题：莱布尼茨的逻辑演算究竟影响了逻辑的当前形态，抑或只是天才的预见？莱布尼茨对形式逻辑的最重要贡献，迟至二十世纪初才刊布。唯其如此，莱布尼茨的逻辑方得充分理解。尽管如此，其逻辑哲学的要点与某些技术性发挥，仍可从十八、十九世纪刊行的其著作早期版本中获知。
   - id: 2
     kind: body
     source: |-
       The most important of these editions was Johann Eduard Erdmann’s collection of Leibniz’s philosophical works (1839/40) which led to a first wave of reception of Leibniz’s logic. This edition and Adolf Trendelenburg’s discussion of Leibniz’s theory of signs on the basis of texts published in it allowed a further reception of Leibnizian ideas among mathematical logicians at the end of the 19th century.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些版本中最重要的，是约翰·爱德华·埃尔德曼编纂的莱布尼茨哲学著作集（1839/40），它引发了莱布尼茨逻辑接受的第一波浪潮。这个版本，以及特伦德伦堡以其中刊布的文本为基础对莱布尼茨符号理论的讨论，使十九世纪末的数学逻辑学家得以进一步接受莱布尼茨的观念。
+    step2: |-
+      这些版本中最重要的，是约翰·爱德华·埃尔德曼（Johann Eduard Erdmann）编纂的莱布尼茨哲学著作集（1839/40）——它引发了莱布尼茨逻辑接受的第一波浪潮。此版本连同特伦德伦堡据其中刊布文本对莱布尼茨符号理论的讨论，使十九世纪末的数学逻辑学家得以进一步接受莱布尼茨的观念。
   - id: 3
     kind: body
     source: |-
       ## 1. Introduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 引言
+    step2: |-
+      ## 1 引言
   - id: 4
     kind: body
     source: |-
       Leibniz’s impact on the emergence of modern logic, be it mathematical, algebraic, algorithmic or symbolic logic, is an important topic for understanding the emergence and development of the logic predominant today (on Leibniz’s papers and editions cf. Waldhoff 2022; on Leibniz’s influence and reception cf. Heinekamp (ed.) 1986; on his influence in logic cf. Peckhaus 1997, 2020). However, the question whether Leibniz had any influence at all, or whether his ideas were rather not more than ingenious anticipations of later developments, is still disputed. The significance of this problem can be shown by referring to Louis Couturat, who claimed that in respect to the logical calculus Leibniz already had all the principles of much more recent logical systems of the algebra of logic (George Boole, Ernst Schröder) and was even more advanced in some points (Couturat 1901, 386)[^couturat-1901]. But did early “modern” logicians like Boole, Schröder, or Frege have any knowledge of Leibnizian logic, i.e., could Leibniz have had any influence on these pioneers of modern logic?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨对现代逻辑之兴起的影响——无论那是数学逻辑、代数逻辑、算法逻辑还是符号逻辑——是理解今日占主导地位的逻辑之兴起与发展的一个重要论题（关于莱布尼茨的文稿与版本，参见 Waldhoff 2022；关于其影响与接受，参见 Heinekamp (ed.) 1986；关于其在逻辑中的影响，参见 Peckhaus 1997, 2020）。然而，莱布尼茨究竟有没有任何影响，抑或他的观念不过是对后来发展的天才预见，仍有争议。这个问题的分量，可以借路易·库蒂拉（Louis Couturat）来显示：他主张，就逻辑演算而言，莱布尼茨已经拥有逻辑代数（乔治·布尔、恩斯特·施罗德）那些晚近得多的逻辑系统的全部原则，而且在某些点上更为先进（Couturat 1901, 386）[^couturat-1901]。但布尔、施罗德或弗雷格这些早期“现代”逻辑学家，对莱布尼茨逻辑有任何了解吗？也就是说，莱布尼茨可能对这些现代逻辑的先驱有过任何影响吗？
+    step2: |-
+      莱布尼茨对现代逻辑——无论数学逻辑、代数逻辑、算法逻辑抑或符号逻辑——之兴起的影响，是理解今日占主导地位的逻辑之缘起与发展的一个重要论题（莱布尼茨文稿与版本，参见 Waldhoff 2022；其影响与接受，参见 Heinekamp (ed.) 1986；其在逻辑中的影响，参见 Peckhaus 1997, 2020）。然而，莱布尼茨究竟有无影响，抑或其观念不过是对后来发展的天才预见，至今仍有争议。这个问题的分量，借路易·库蒂拉（Louis Couturat）即可显示：他主张，就逻辑演算而论，莱布尼茨已拥有逻辑代数（乔治·布尔、恩斯特·施罗德）那些晚近得多的逻辑系统的全部原则，且在某些点上更为先进（Couturat 1901, 386）[^couturat-1901]。可是，布尔、施罗德、弗雷格这些早期“现代”逻辑学家，对莱布尼茨逻辑可有任何了解？换言之，莱布尼茨可曾对这些现代逻辑的先驱有过任何影响？
   - id: 5
     kind: body
     source: |-
       There are different answers to these questions. Wolfgang Lenzen, e.g., wrote that Leibniz was the most significant logician between Aristotle and Frege, but despite the enormous significance of his logic, he played hardly any role in the history of logic (Lenzen 2004a, 15; cf. also Lenzen 2004b)[^lenzen-2004a][^lenzen-2004b]. According to Lenzen, Leibniz’s mature logical theory was present in his *Generales Inquisitiones de Analysi Notionum et Veritatum*, which was only published in Couturat’s edition of Leibniz’s minor writings and fragments (Leibniz 1903, 356–399)[^leibniz-1903]. Couturat had already referred to it in his book on Leibniz’s logic which had appeared two years earlier (Couturat 1901)[^couturat-1901]. We find similar evaluations by William and Martha Kneale*,* who in *The Development of Logic* rank Leibniz among “the greatest of all logicians,” but stress “that his work on logic had little influence for nearly 200 years after he wrote it” (Kneale/Kneale 1962, 320)[^kneale-1962]. In the Kneales’ opinion, Leibniz had rather become notorious for claiming to have made great discoveries in logic while there was little published evidence for this claim.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这些问题有不同的回答。例如 Wolfgang Lenzen 写道：莱布尼茨是亚里士多德与弗雷格之间最重要的逻辑学家，但尽管其逻辑意义重大，他在逻辑史中几乎没有扮演任何角色（Lenzen 2004a, 15；另参见 Lenzen 2004b）[^lenzen-2004a][^lenzen-2004b]。照 Lenzen 的说法，莱布尼茨成熟的逻辑理论见于其《概念与真理分析的一般探究》（*Generales Inquisitiones de Analysi Notionum et Veritatum*），后者直到库蒂拉编纂的莱布尼茨短篇著作与残篇集才得以刊布（Leibniz 1903, 356–399）[^leibniz-1903]。库蒂拉早在此前两年出版的论莱布尼茨逻辑的书中已提到它（Couturat 1901）[^couturat-1901]。威廉·涅尔与玛尔塔·涅尔也给出类似评价：他们在《逻辑学的发展》中把莱布尼茨列入“所有逻辑学家中的最伟大者”，但强调“他的逻辑著作在写成之后近两百年里影响甚微”（Kneale/Kneale 1962, 320）[^kneale-1962]。照涅尔夫妇的看法，莱布尼茨之所以出名，反倒是由于他声称在逻辑中作出了伟大发现，而支持这一声称的已刊证据却寥寥无几。
+    step2: |-
+      对这些问题，回答不一。例如 Wolfgang Lenzen 写道：莱布尼茨是亚里士多德与弗雷格之间最重要的逻辑学家；但尽管其逻辑意义重大，他在逻辑史上几乎不曾扮演任何角色（Lenzen 2004a, 15；另参见 Lenzen 2004b）[^lenzen-2004a][^lenzen-2004b]。照 Lenzen 所考，莱布尼茨成熟的逻辑理论见于其《概念与真理分析的一般探究》（*Generales Inquisitiones de Analysi Notionum et Veritatum*）——此作直到库蒂拉编纂的莱布尼茨短篇著作与残篇集方得刊布（Leibniz 1903, 356–399）[^leibniz-1903]。库蒂拉在早两年出版的论莱布尼茨逻辑的书中已提及它（Couturat 1901）[^couturat-1901]。威廉·涅尔与玛尔塔·涅尔的评价类似：他们在《逻辑学的发展》中把莱布尼茨列入“所有逻辑学家中的最伟大者”，却强调“其逻辑著作在写成之后近两百年里影响甚微”（Kneale/Kneale 1962, 320）[^kneale-1962]。照涅尔夫妇之见，莱布尼茨之出名反倒近乎恶名：他声称在逻辑中作出了伟大发现，而支持这一声称的已刊证据却寥寥无几。
   - id: 6
     kind: body
     source: |-
       > For years Leibniz had written copiously on his many projects, but in the form of notes or memoranda, and most of what he had written remained unpublished in the library of Hanover, where he had served the Elector as historian, scientific advisor and expert on international law. (Ibid., 321)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 多年来，莱布尼茨就其诸多方案写了大量文字，但都以笔记或备忘录的形式；他写下的东西大多未刊，藏于汉诺威的图书馆——他在那里为选帝侯充任史官、科学顾问与国际法专家。（同上，321）
+    step2: |-
+      > 多年来，莱布尼茨就其诸多方案笔耕甚勤，但所作者多为笔记或备忘录；其手稿大多未刊，藏于汉诺威图书馆——他在那里为选帝侯充任史官、科学顾问与国际法专家。（同上，321）
   - id: 7
     kind: body
     source: |-
       Heinrich Scholz, a great admirer of Leibniz and author of the first history of modern logic (Scholz 1931)[^scholz-1931], argues along the same lines. For him, Leibniz is the creator of logistic, i.e., modern formal logic using logical calculi (Scholz 1931, 54, n. 9)[^scholz-1931]. Scholz reports that Leibniz inspired 18th-century logicians in Germany, above all Johann Heinrich Lambert (1728–1777) and Gottfried Ploucquet (1716–1790). But then he stresses (ibid., 56) that the logical calculi created in the middle of the 19th century by the English logician Augustus De Morgan and George Boole living in Ireland were completely independent of Leibniz and German 18th-century research on logic. These calculi were amplified by the German mathematician Ernst Schröder in his monumental *Vorlesungen über die Algebra der Logik* (Schröder 1890–1905)[^schröder-1890].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      海因里希·肖尔茨——莱布尼茨的仰慕者、第一部现代逻辑史的作者（Scholz 1931）[^scholz-1931]——沿同样的思路论证。在他看来，莱布尼茨是逻辑斯缔的创造者，即使用逻辑演算的现代形式逻辑（Scholz 1931, 54, n. 9）[^scholz-1931]。肖尔茨说，莱布尼茨启发了十八世纪德国的逻辑学家，尤其是约翰·海因里希·兰伯特（1728–1777）与戈特弗里德·普卢凯（1716–1790）。但他随后强调（同上，56），十九世纪中叶由英格兰逻辑学家奥古斯都·德摩根与旅居爱尔兰的乔治·布尔所创造的逻辑演算，完全独立于莱布尼茨与十八世纪德国的逻辑研究。这些演算后来由德国数学家恩斯特·施罗德在其巨著《逻辑代数讲义》中加以扩充（Schröder 1890–1905）[^schröder-1890]。
+    step2: |-
+      海因里希·肖尔茨——莱布尼茨的仰慕者、第一部现代逻辑史的作者（Scholz 1931）[^scholz-1931]——持论相仿。在他看来，莱布尼茨是逻辑斯缔（logistic）的创造者，即运用逻辑演算的现代形式逻辑（Scholz 1931, 54, n. 9）[^scholz-1931]。肖尔茨说，莱布尼茨曾启发十八世纪德国的逻辑学家，尤以约翰·海因里希·兰伯特（1728–1777）与戈特弗里德·普卢凯（1716–1790）为著。但他随后强调（同上，56）：十九世纪中叶由英格兰逻辑学家奥古斯都·德摩根与旅居爱尔兰的乔治·布尔所创造的逻辑演算，完全独立于莱布尼茨与十八世纪德国的逻辑研究。这些演算后来由德国数学家恩斯特·施罗德在其巨著《逻辑代数讲义》（*Vorlesungen über die Algebra der Logik*）中加以扩充（Schröder 1890–1905）[^schröder-1890]。
   - id: 8
     kind: body
     source: |-
       If this thesis of the independence of 19th-century algebra of logic from Leibniz is accepted, it is possible to connect the discovery of Leibniz, the logician, with the Leibniz renaissance in early 20th century. In addition to Couturat’s book *La logique de Leibniz d’après des documents inédits* (1901), with a presentation of Leibniz’s logic in the spirit of the new logic (cf. Schmid 2012)[^schmid-2012], the following landmark publications have to be mentioned: Bertrand Russell’s *A Critical Exposition of the Philosophy of Leibniz* (1900), providing an axiomatic deductive reconstruction of Leibnizian metaphysics (cf. Griffin 2012)[^griffin-2012], and Ernst Cassirer’s *Leibniz’ System in seinen wissenschaftlichen Grundlagen* (1902), focussing on a Neo-Kantian interpretation of Leibniz’s philosophy (cf. Seidengart 2012)[^seidengart-2012]. Undoubtedly, Couturat’s edition of Leibniz’s *Opuscules et fragments inédits de Leibniz* (Leibniz 1903)[^leibniz-1903], taken from the manuscripts in the Royal Library in Hanover and published in 1903, gave for the first time access to the wealth of Leibniz’s different approaches to logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果接受十九世纪逻辑代数独立于莱布尼茨这一论题，那么就有可能把逻辑学家莱布尼茨的发现同二十世纪初的莱布尼茨复兴联系起来。除了库蒂拉的《根据未刊文献论莱布尼茨的逻辑》（1901）——以新逻辑的精神呈现莱布尼茨的逻辑（参见 Schmid 2012）[^schmid-2012]——还必须提到下面几部里程碑式的出版物：伯特兰·罗素的《对莱布尼茨哲学的批判性论述》（1900），对莱布尼茨形而上学作公理演绎重构（参见 Griffin 2012）[^griffin-2012]；恩斯特·卡西尔的《莱布尼茨体系在其科学基础上》（1902），聚焦于对莱布尼茨哲学的新康德主义解释（参见 Seidengart 2012）[^seidengart-2012]。毫无疑问，库蒂拉编纂的《莱布尼茨未刊短篇与残篇》（Leibniz 1903）[^leibniz-1903]——取自汉诺威王家图书馆的手稿、1903 年出版——首次使人得以接触莱布尼茨通达逻辑的诸多进路之全貌。
+    step2: |-
+      若接受十九世纪逻辑代数独立于莱布尼茨这一论题，那么便可以把“逻辑学家莱布尼茨”的发现，同二十世纪初的莱布尼茨复兴联系起来。除了库蒂拉的《根据未刊文献论莱布尼茨的逻辑》（1901）——以新逻辑的精神呈现莱布尼茨的逻辑（参见 Schmid 2012）[^schmid-2012]——还须提及几部里程碑式的出版物：伯特兰·罗素的《对莱布尼茨哲学的批判性论述》（1900），对莱布尼茨形而上学作公理演绎重构（参见 Griffin 2012）[^griffin-2012]；恩斯特·卡西尔的《莱布尼茨体系在其科学基础上》（1902），聚焦于莱布尼茨哲学的新康德主义解释（参见 Seidengart 2012）[^seidengart-2012]。毫无疑问，库蒂拉编纂的《莱布尼茨未刊短篇与残篇》（Leibniz 1903）[^leibniz-1903]——取自汉诺威王家图书馆的手稿、1903 年刊行——首次使人得以窥见莱布尼茨通达逻辑的诸般进路之全貌。
   - id: 9
     kind: body
     source: |-
       Other authors assign Leibniz a key role in the development of modern logic. Eric J. Aiton, e.g., wrote that the Leibnizian project of a universal characteristic and the logical calculi resulting from it, “played a significant role in the history of logic” (1985, ix). Franz Schupp, starting from Couturat’s evaluation quoted earlier, assumed “that the Leibnizian logic might be relevant for the further development of modern logic, beyond the historically interesting aspect of an ‘ingenious anticipation’” (Schupp 1988, 42)[^schupp-1988]. Schupp wrote that every step in the development of modern logic led to new insights into the Leibnizian logic, but sometimes dealing with Leibniz influenced the development itself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一些作者则赋予莱布尼茨在现代逻辑发展中的关键角色。例如 Eric J. Aiton 写道，莱布尼茨的普遍文字方案及由此产生的逻辑演算“在逻辑史上发挥了重要作用”（1985, ix）。Franz Schupp 从前面引述的库蒂拉评价出发，认为“莱布尼茨逻辑可能对现代逻辑的进一步发展有意义，而不止于‘天才预见’这一历史上有趣的方面”（Schupp 1988, 42）[^schupp-1988]。Schupp 写道，现代逻辑发展的每一步都带来对莱布尼茨逻辑的新洞见，但有时处理莱布尼茨反过来影响了发展本身。
+    step2: |-
+      另一些作者则把关键角色派给莱布尼茨。例如 Eric J. Aiton 写道：莱布尼茨的普遍文字方案及由此产生的逻辑演算，“在逻辑史上发挥了重要作用”（1985, ix）。Franz Schupp 从前引库蒂拉的评价出发，认为“莱布尼茨逻辑可能对现代逻辑的进一步发展有意义——而不止于‘天才预见’这一历史上有趣的方面”（Schupp 1988, 42）[^schupp-1988]。Schupp 写道：现代逻辑发展的每一步，都带来对莱布尼茨逻辑的新洞见；但有时，处理莱布尼茨反过来影响了发展本身。
   - id: 10
     kind: body
     source: |-
       It seems to be in accord with the second position that the pioneers of modern logic themselves referred to Leibniz. George Boole’s widow, Mary Everest Boole, e.g., wrote that her husband, having been informed of Leibniz’s anticipations of his own logic, felt “as if Leibnitz had come and shaken hands with him across the centuries” (M. E. Boole 1905, quoted in Laita 1976, 243)[^boole-1905][^laita-1976]. William Stanley Jevons, who was responsible for the great public success of modern logic in Great Britain after Boole, claimed that “Leibnitz’ logical tracts are […] evidence of his wonderful sagacity” (Jevons 1883 [1874], xix). Ernst Schröder thought that Leibniz’s ideal of a logical calculus had been brought to perfection by George Boole (Schröder 1877, III)[^schröder-1877]. The special controversy between Ernst Schröder and Gottlob Frege which was at the root of the later distinction between two kinds of modern logic, the algebra of logic and the Frege-style mathematical logic, was centered on the question how far the Leibnizian heritage was present in the respective variations of logic. In his *Begriffsschrift,* Frege had written that the idea of a general characteristic, of a *calculus philosophicus* or *ratiocinator* was too ambitious to be achieved by Leibniz alone. Frege’s own *Begriffsschrift* provides the first steps towards this goal, which can be found in the formula languages of arithmetic and chemistry (Frege 1879, VI)[^frege-1879]. In his review of Frege’s *Begriffsschrift*, Schröder (Schröder 1880, 82)[^schröder-1880] objected that the title “Begriffsschrift” promises too much. According to Schröder, Frege’s system is less of a ‘general characteristic’ and more of a *calculus ratiocinator*, and its development would have been significant, had it not already been achieved by others (esp. by Boole). Frege replied (Frege 1883, 1)[^frege-1883] that he did not intend to present an abstract logic in formulae like Boole, but to express contents by written signs in a more precise and clear manner than it would be possible by words. Therefore the *Begriffsschrift* is not a mere *calculus ratiocinator*, but a *lingua characteristica* in the Leibnizian sense, although he accepted that inferential calculation (*schlussfolgernde Rechnung*) was a necessary constituent of the *Begriffsschrift*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现代逻辑的先驱们自己也援引莱布尼茨，这似乎与第二种立场相合。例如，乔治·布尔的遗孀玛丽·埃弗雷斯特·布尔写道：她的丈夫在得知莱布尼茨预见了其自己的逻辑之后，感觉“仿佛莱布尼茨跨过几个世纪走来，与他握了握手”（M. E. Boole 1905，转引自 Laita 1976, 243）[^boole-1905][^laita-1976]。继布尔之后在英国推动现代逻辑获得巨大公众成功的威廉·斯坦利·杰文斯主张，“莱布尼茨的逻辑论著……是其惊人洞察力的证据”（Jevons 1883 [1874], xix）。恩斯特·施罗德认为，莱布尼茨的逻辑演算理想已由乔治·布尔臻于完善（Schröder 1877, III）[^schröder-1877]。恩斯特·施罗德与戈特洛布·弗雷格之间的那场特殊论战——它后来演变为现代逻辑两种形态之分野的根源，即逻辑代数与弗雷格式数学逻辑——正围绕莱布尼茨遗产在各自逻辑变体中体现到何种程度而展开。弗雷格在《概念文字》中曾写道：普遍文字的观念、*calculus philosophicus*（哲学演算）或 *ratiocinator*（推理演算）的观念，对莱布尼茨一人而言过于宏大，难以实现。弗雷格自己的《概念文字》提供了迈向这一目标的第一步——这一目标可见于算术与化学的公式语言（Frege 1879, VI）[^frege-1879]。在评弗雷格的《概念文字》时，施罗德（Schröder 1880, 82）[^schröder-1880]提出异议：“概念文字”这一标题许诺过多。照施罗德的看法，弗雷格的体系与其说是“普遍文字”，不如说是*推理演算*（*calculus ratiocinator*）；它的发展本会意义重大，倘若它不曾已被他人（尤其是布尔）达成。弗雷格答复（Frege 1883, 1）[^frege-1883]说，他不打算像布尔那样用公式呈现一种抽象逻辑，而是要以书面符号表达内容，比词语所能做到的更精确、更清晰。因此《概念文字》不只是一个*推理演算*，而是莱布尼茨意义上的*特征语言*（*lingua characteristica*），尽管他也承认推论计算（*schlussfolgernde Rechnung*）是《概念文字》的必要成分。
+    step2: |-
+      现代逻辑的先驱们自己也援引莱布尼茨——这似与第二种立场相合。例如，乔治·布尔的遗孀玛丽·埃弗雷斯特·布尔写道：她的丈夫在得知莱布尼茨预见了其自己的逻辑之后，感觉“仿佛莱布尼茨跨过几个世纪走来，与他握了握手”（M. E. Boole 1905，转引自 Laita 1976, 243）[^boole-1905][^laita-1976]。继布尔之后在英国推动现代逻辑赢得巨大公众声誉的威廉·斯坦利·杰文斯主张：“莱布尼茨的逻辑论著……是其惊人洞察力的证据”（Jevons 1883 [1874], xix）。恩斯特·施罗德则认为：莱布尼茨的逻辑演算理想，已由乔治·布尔臻于完善（Schröder 1877, III）[^schröder-1877]。恩斯特·施罗德与戈特洛布·弗雷格之间的那场特殊论战——日后现代逻辑两种形态（逻辑代数与弗雷格式数学逻辑）之分野即植根于此——正围绕莱布尼茨遗产在各自逻辑变体中体现到何种程度而展开。弗雷格在《概念文字》中曾写道：普遍文字的观念——*calculus philosophicus*（哲学演算）或 *ratiocinator*（推理演算）——对莱布尼茨一人而言过于宏大，难以实现。弗雷格自己的《概念文字》提供了迈向这一目标的第一步，这一目标可见于算术与化学的公式语言（Frege 1879, VI）[^frege-1879]。在评弗雷格《概念文字》时，施罗德（Schröder 1880, 82）[^schröder-1880]提出异议：“概念文字”这一标题许诺过多。照施罗德之见，弗雷格的体系与其说是“普遍文字”，不如说是*推理演算*（*calculus ratiocinator*）；它的发展本会意义重大——倘若它不曾已被他人（尤其是布尔）达成。弗雷格答复（Frege 1883, 1）[^frege-1883]：他并不打算像布尔那样以公式呈现一种抽象逻辑，而是要以书面符号表达内容，比词语所能做到的更精确、更清晰。因此《概念文字》不只是一个*推理演算*，而是莱布尼茨意义上的*特征语言*（*lingua characteristica*）——尽管他也承认，推论计算（*schlussfolgernde Rechnung*）是《概念文字》的必要成分。
   - id: 11
     kind: body
     source: |-
       ## 2. Logic in the First Editions of Leibniz’s Works
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 莱布尼茨著作早期版本中的逻辑
+    step2: |-
+      ## 2 莱布尼茨著作早期版本中的逻辑
   - id: 12
     kind: body
     source: |-
       Referring to Leibniz was a common place in the initial period of development of modern mathematical logic. Obviously, the early logicians saw some of their ideas represented in Leibniz, and in addition they had access to at least some of Leibniz’s writings that could lend support to this claim. But which of Leibniz’s ideas on logic could have been known in the middle of the 19th century?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在现代数理逻辑发展的初期，援引莱布尼茨是司空见惯的事。显然，早期逻辑学家在莱布尼茨那里看到了自己的某些观念；此外，他们至少还能接触到莱布尼茨的某些著述，后者可以为这种说法提供支持。但是，十九世纪中叶的人们可能知道莱布尼茨关于逻辑的哪些观念呢？
+    step2: |-
+      在现代数理逻辑发展的初期，援引莱布尼茨乃司空见惯之事。显然，早期逻辑学家在莱布尼茨那里看到了自己的某些观念；而且，他们至少还能接触到莱布尼茨的某些著述，足以为此说张目。不过，十九世纪中叶的人们可能知道莱布尼茨逻辑观念中的哪些呢？
   - id: 13
     kind: body
     source: |-
       The edition of Leibniz’s philosophical works in Latin and French, published by Rudolph Erich Raspe (Leibniz 1765; cf. Hallo 1934)[^hallo-1934][^leibniz-1765] contained some up to then unpublished letters and six pieces from the unpublished papers, of which two, “Difficultates quaedam logicae” and “Historia et commendatio linguae charactericae”, are relevant to logic. The most important feature of Raspe’s edition was the first publication of the “Nouveaux Essais sur l’entendement humain” which had been missing for sixty years. They influenced, e.g., Bernard Bolzano who regarded Leibniz as an ally when writing his seminal *Wissenschaftslehre* (Bolzano 1837, [TS]; Mugnai 2011)[^bolzano-1837][^bolzano-1837-2][^mugnai-2011].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鲁道夫·埃里希·拉斯佩刊行的拉丁文与法文莱布尼茨哲学著作集（Leibniz 1765；参见 Hallo 1934）[^hallo-1934][^leibniz-1765]收有一些此前未刊的书信与未刊文稿中的六篇，其中两篇与逻辑相关：《若干逻辑难题》（“Difficultates quaedam logicae”）与《特征语言的历史与推荐》（“Historia et commendatio linguae charactericae”）。拉斯佩版最重要的特色，是首次刊布失踪六十年的《人类理智新论》。例如，伯纳德·鲍尔查诺在撰写其开山之作《科学论》时把莱布尼茨视为盟友，即受其影响（Bolzano 1837, [TS]；Mugnai 2011）[^bolzano-1837][^bolzano-1837-2][^mugnai-2011]。
+    step2: |-
+      鲁道夫·埃里希·拉斯佩刊行的拉丁文与法文莱布尼茨哲学著作集（Leibniz 1765；参见 Hallo 1934）[^hallo-1934][^leibniz-1765]，收有此前未刊的书信若干、未刊文稿六篇；其中两篇与逻辑相关：《若干逻辑难题》（“Difficultates quaedam logicae”）与《特征语言的历史与推荐》（“Historia et commendatio linguae charactericae”）。拉斯佩版最重要的特色，是首次刊布失踪六十年的《人类理智新论》。例如伯纳德·鲍尔查诺——他撰写开山之作《科学论》时把莱布尼茨视为盟友——即受其影响（Bolzano 1837, [TS]；Mugnai 2011）[^bolzano-1837][^bolzano-1837-2][^mugnai-2011]。
   - id: 14
     kind: body
     source: |-
       In 1768 Louis Dutens published the *Opera omnia nunc primum collecta in Classes distributa praefationibus & indicibus exornata* (Leibniz 1768; cf. Heinekamp 1986)[^heinekamp-1986][^heinekamp-1986-2][^leibniz-1768], a rather complete collection of Leibniz’s published works. It contained some hitherto unpublished correspondences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1768 年，路易·迪唐刊行《全集：今首次辑集，按类编排，附序言与索引》（Leibniz 1768；参见 Heinekamp 1986）[^heinekamp-1986][^heinekamp-1986-2][^leibniz-1768]——一部相当完备的莱布尼茨已刊著作集。其中收有迄今未刊的若干通信。
+    step2: |-
+      1768 年，路易·迪唐刊行《全集：今首次辑集，按类编排，附序言与索引》（*Opera omnia nunc primum collecta in Classes distributa praefationibus & indicibus exornata*；Leibniz 1768；参见 Heinekamp 1986）[^heinekamp-1986][^heinekamp-1986-2][^leibniz-1768]——一部相当完备的莱布尼茨已刊著作集，其中收有迄今未刊的若干通信。
   - id: 15
     kind: body
     source: |-
       The “Nouveaux Essais” count as Leibniz’s main work in epistemology. They were written between 1703 and 1705 and contained criticism of John Locke’s *An* *Essay Concerning Human Understanding* (Locke 1690)[^locke-1690]. Locke died in 1704 when Leibniz was still working on the essays. The text caused a great sensation when it was published by Raspe. It can therefore be regarded as a key text for the reception of Leibniz in the late 18th and the 19th century. Logical considerations can be found in the fourth book “De la connaissance”. They concentrate on the theory of syllogism, but all elements of Leibniz’s theory of logic are present, to the extent that they are regarded as a device for the evaluation of the validity of given theses (*ars iudicandi*) and for finding new truths on the basis of given truths (*ars inveniendi*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《新论》被视为莱布尼茨在认识论方面的主要著作。它写于 1703 至 1705 年间，包含对约翰·洛克《人类理解论》（Locke 1690）[^locke-1690]的批评。洛克死于 1704 年，当时莱布尼茨仍在写作此书。该书经拉斯佩刊布后引起巨大轰动。因此它可以被看作十八世纪末与十九世纪莱布尼茨接受的关键文本。逻辑方面的思考见于第四卷“论认识”。它们集中于三段论理论，但莱布尼茨逻辑理论的全部要素都在场——就此而言，逻辑被看作评价给定论题之有效性（判断术）以及在此基础上发现新真理（发明术）的装置。
+    step2: |-
+      《新论》被视为莱布尼茨在认识论方面的主要著作。它写于 1703 至 1705 年间，包含对约翰·洛克《人类理解论》（Locke 1690）[^locke-1690]的批评。洛克死于 1704 年，彼时莱布尼茨仍在写作此书。经拉斯佩刊布后，此书引起巨大轰动；因此可视为十八世纪末与十九世纪莱布尼茨接受的关键文本。逻辑方面的思考见于第四卷“论认识”（De la connaissance）：集中于三段论理论，但莱布尼茨逻辑理论的全部要素俱在——在此，逻辑被看作评价给定论题之有效性（判断术，*ars iudicandi*）以及据给定真理发现新真理（发明术，*ars inveniendi*）的装置。
   - id: 16
     kind: body
     source: |-
       Leibniz stresses in the “Nouveaux essais” that syllogistic is part of a sort of universal mathematics, an art of infallibility (*art d’infaillibilité*). This art is not restricted to syllogisms, but concerns all kinds of formal proofs, i.e. all reasoning in which inferences are executed by virtue of their form (*NE*, ch. XVII, §4). According to Leibniz, there are some problems with algebra in that it is still far from being an art of invention. It has to be supplemented by a general art of signs or an art of characteristic (*NE*, ch. XVII, §9).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨在《新论》中强调，三段论学说是某种普遍数学的一部分，是一门无误性的技艺（*art d’infaillibilité*）。这门技艺不限于三段论，而关乎一切形式的证明，即一切凭借形式而执行推理的推理（*NE*，第十七章第 4 节）。照莱布尼茨的说法，代数有一些问题：它离一门发明的技艺还远。它必须由一门一般的符号技艺或文字技艺来补充（*NE*，第十七章第 9 节）。
+    step2: |-
+      莱布尼茨在《新论》中强调：三段论学说是某种普遍数学的一部分——一门无误性的技艺（*art d’infaillibilité*）。这门技艺不限于三段论，而关乎一切形式的证明，即一切凭形式而执行推理的推理（*NE*，第十七章第 4 节）。照莱布尼茨的说法，代数尚有不足：它离一门发明的技艺还远，必须由一门一般的符号技艺或文字技艺来补充（*NE*，第十七章第 9 节）。
   - id: 17
     kind: body
     source: |-
       ## 3. Second Wave of Reception
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 接受的第二波
+    step2: |-
+      ## 3 接受的第二波
   - id: 18
     kind: body
     source: |-
       When access to Leibniz’s papers stored in Hanover became possible in the 1830s, interest in Leibniz arose almost immediately. It can be said that German research on Leibniz started as an aftermath of this event (Glockner 1932, 60)[^glockner-1932]. The pioneers in this period of research were the first editors of these papers. Although the philological interest stood at the center, one could also observe an emerging interest in systematic aspects of Leibniz’s logic. The following editorial milestones have to be mentioned: Gottschalk Eduard Guhrauer (1809–1854) edited the *Deutsche Schriften* (Leibniz 1838/40)[^leibniz-1838]; Georg Heinrich Pertz (1795–1876) directed the edition of the collected works, of which a first series was devoted to the mathematical writings (Leibniz 1849–1863)[^leibniz-1849]. The latter were edited by Carl Immanuel Gerhardt (1816–1899). In addition, Pertz also edited Leibniz’s *Annales imperii occidentis Brunsvicenses* (Leibniz 1843–1846)[^leibniz-1843].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当人们于十九世纪三十年代有可能接触藏于汉诺威的莱布尼茨文稿时，对莱布尼茨的兴趣几乎立即兴起。可以说，德国的莱布尼茨研究就是这一事件的后果（Glockner 1932, 60）[^glockner-1932]。这一研究时期的先驱，是这些文稿的第一批编者。虽然语文学兴趣居于中心，但也可以观察到对莱布尼茨逻辑之系统方面的兴趣正在出现。必须提到以下编辑里程碑：戈特沙尔克·爱德华·古劳尔（1809–1854）编成《德文著作》（Leibniz 1838/40）[^leibniz-1838]；格奥尔格·海因里希·佩尔茨（1795–1876）主持全集的编纂，其第一个系列专收数学著作（Leibniz 1849–1863）[^leibniz-1849]。后者由卡尔·伊曼努尔·格哈特（1816–1899）编辑。此外，佩尔茨还编辑了莱布尼茨的《西方不伦瑞克编年史》（Leibniz 1843–1846）[^leibniz-1843]。
+    step2: |-
+      十九世纪三十年代，人们得以接触藏于汉诺威的莱布尼茨文稿；对莱布尼茨的兴趣几乎立时兴起。可以说，德国的莱布尼茨研究正以此事为发端（Glockner 1932, 60）[^glockner-1932]。这一研究时期的先驱，是这些文稿的第一批编者。语文学兴趣固然居于中心，但也可以观察到对莱布尼茨逻辑之系统层面的兴趣正在浮现。编辑里程碑有如下数端：戈特沙尔克·爱德华·古劳尔（1809–1854）编成《德文著作》（*Deutsche Schriften*；Leibniz 1838/40）[^leibniz-1838]；格奥尔格·海因里希·佩尔茨（1795–1876）主持全集编纂，其第一系列专收数学著作（Leibniz 1849–1863）[^leibniz-1849]。后者由卡尔·伊曼努尔·格哈特（1816–1899）编辑。此外，佩尔茨还编辑了莱布尼茨的《西方不伦瑞克编年史》（*Annales imperii occidentis Brunsvicenses*；Leibniz 1843–1846）[^leibniz-1843]。
   - id: 19
     kind: body
     source: |-
       ### 3.1 Johann Eduard Erdmann
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 约翰·爱德华·埃尔德曼
+    step2: |-
+      ### 3.1 约翰·爱德华·埃尔德曼
   - id: 20
     kind: body
     source: |-
       The most important among these editorial projects was the edition of Leibniz’s philosophical works *God. Guil. Leibnitii opera philosophica quae exstant Latina Gallica Germanica omnia* (Leibniz 1839/40; cf. Glockner 1932, 59–65)[^glockner-1932][^leibniz-1839] prepared in two volumes by Johann Eduard Erdmann (1805–1892), which included fragments, published there for the first time, containing elaborations of Leibniz’s ideas concerning logical calculi. One of the documents is Leibniz’s 1696 letter to Gabriel Wagner which contains the famous definition of logic or the art of reasoning as the art to use the intellect (*Verstand*), i.e., not only to evaluate what is imagined, but also to discover (invent) what is hidden. The edition also contains the seminal fragments “Specimen demonstrandi in abstractis” and “Non inelegans specimen demonstrandi in abstractis” (Leibniz 1839/40, 94–97)[^leibniz-1839], the last with the algebraic plus-minus calculus, i.e. a central specimen of Leibniz’s various attempts to create logical calculi working with the two “constituting” operations “gathering together”, symbolized by +, and “taking away”, symbolized by – (cf. Leibniz 1999, no. 178)[^leibniz-1999].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些编辑工程中最重要的，是两卷本的莱布尼茨哲学著作集《戈·威·莱布尼茨现存哲学著作：拉丁文、法文、德文全部》（Leibniz 1839/40；参见 Glockner 1932, 59–65）[^glockner-1932][^leibniz-1839]，由约翰·爱德华·埃尔德曼（1805–1892）编成；其中收有首次刊布的残篇，包含对莱布尼茨逻辑演算观念的阐发。其中一件文献是莱布尼茨 1696 年致加布里埃尔·瓦格纳的信，包含逻辑或推理技艺的著名定义：运用理智（*Verstand*）的技艺，即不仅评价所想象的东西，还发现（发明）隐藏的东西。该版本还收录了开创性的残篇《在抽象物中证明的示范》与《在抽象物中证明的不无优雅的示范》（Leibniz 1839/40, 94–97）[^leibniz-1839]；后者包含代数加减演算，即莱布尼茨创制逻辑演算之各种尝试的一个核心样本——这种演算以两个“构成性”操作运作：“聚拢”，以 + 表示；“拿走”，以 – 表示（参见 Leibniz 1999, no. 178）[^leibniz-1999]。
+    step2: |-
+      这些编辑工程中最重要的，是两卷本的莱布尼茨哲学著作集《戈·威·莱布尼茨现存哲学著作：拉丁文、法文、德文全部》（Leibniz 1839/40；参见 Glockner 1932, 59–65）[^glockner-1932][^leibniz-1839]，由约翰·爱德华·埃尔德曼（1805–1892）编成；其中收有首次刊布的残篇——包含对莱布尼茨逻辑演算观念的阐发。其中一件文献，是莱布尼茨 1696 年致加布里埃尔·瓦格纳的信，内含逻辑或推理技艺的著名定义：运用理智（*Verstand*）的技艺——不仅评价所想象者，还发现（发明）隐藏者。该版本还收录开创性的残篇《在抽象物中证明的示范》与《在抽象物中证明的不无优雅的示范》（Leibniz 1839/40, 94–97）[^leibniz-1839]；后者含代数加减演算——莱布尼茨创制逻辑演算之诸种尝试的核心样本：这种演算以两个“构成性”操作运作——“聚拢”，以 + 表示；“拿走”，以 – 表示（参见 Leibniz 1999, no. 178）[^leibniz-1999]。
   - id: 21
     kind: body
     source: |-
       Johann Eduard Erdmann studied theology and philosophy at Tartu and Berlin (cf. Glockner 1932)[^glockner-1932]. Friedrich Schleiermacher and Georg Friedrich Wilhelm Hegel were among his teachers. He later became a member of the right wing Hegelian school. In 1839 he was appointed full professor of philosophy at the University of Halle. Erdmann became well-known for his comprehensive history of modern philosophy entitled *Versuch einer wissenschaftlichen Darstellung der Geschichte der Neueren Philosophie* (“Attempt at a scientific presentation of the history of recent philosophy”), published in seven volumes (Erdmann 1834–1853)[^erdmann-1834]. This history of philosophy covers the period between Descartes and Hegel. In part 2 of vol. 2 of this work, Erdmann presented a discussion of Leibniz and the development of idealism before Kant. This presentation was published in 1842, two years after his edition of Leibniz’s philosophical works. Erdmann reported that while preparing his history he grew unsatisfied with the available editions of Leibniz’s works. He therefore intended to unite Raspe’s edition with the philosophical parts of Dutens’ edition and some pieces from the unpublished papers. He started editorial work at the archive in Hanover in 1836.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰·爱德华·埃尔德曼在塔尔图与柏林学习神学与哲学（参见 Glockner 1932）[^glockner-1932]。弗里德里希·施莱尔马赫与格奥尔格·弗里德里希·威廉·黑格尔都在他的老师之列。他后来成为黑格尔学派右翼的成员。1839 年他被聘为哈勒大学哲学正教授。埃尔德曼以其现代哲学通史闻名，题为《近代哲学史之科学性呈现的尝试》，凡七卷（Erdmann 1834–1853）[^erdmann-1834]。这部哲学史涵盖从笛卡尔到黑格尔的时期。在该书第二卷第二部分，埃尔德曼讨论了莱布尼茨与康德以前唯心论的发展。这一论述刊于 1842 年，即其莱布尼茨哲学著作集出版之后两年。埃尔德曼自述，撰写其哲学史期间，他对现有的莱布尼茨著作版本渐生不满。因此他打算把拉斯佩版与迪唐版的哲学部分以及未刊文稿中的某些篇什合而为一。1836 年他开始在汉诺威档案馆从事编辑工作。
+    step2: |-
+      约翰·爱德华·埃尔德曼在塔尔图与柏林学习神学与哲学（参见 Glockner 1932）[^glockner-1932]。弗里德里希·施莱尔马赫与格奥尔格·弗里德里希·威廉·黑格尔皆出其师门。他后来成为黑格尔学派右翼的一员。1839 年受聘为哈勒大学哲学正教授。埃尔德曼以其现代哲学通史闻名——题为《近代哲学史之科学性呈现的尝试》，凡七卷（Erdmann 1834–1853）[^erdmann-1834]。这部哲学史涵盖从笛卡尔到黑格尔的时期。在该书第二卷第二部分，埃尔德曼讨论了莱布尼茨与康德以前唯心论的发展。此论述刊于 1842 年，即其莱布尼茨哲学著作集出版之后两年。埃尔德曼自述：撰写哲学史期间，他对现有的莱布尼茨著作版本渐生不满，因此打算把拉斯佩版、迪唐版的哲学部分以及未刊文稿中的某些篇什合而为一。1836 年，他开始在汉诺威档案馆从事编辑工作。
   - id: 22
     kind: body
     source: |-
       In the chapter on Leibniz, Erdmann stressed the connection between mathematics and philosophy. He dealt with Leibniz’s logic in the section on the philosophical method and mentioned Leibniz’s definition of “method” as the way to derive all knowledge with the help of “principles of knowledge” (*Erkenntnisprinzipien*) (Erdmann 1842, 109)[^erdmann-1842]. These principles are the law of contradiction and the law of sufficient reason. Erdmann quoted Leibniz’s letter to Gabriel Wagner containing the statement that logic is the art to use the intellect; logic is therefore the key to all sciences and arts. According to Erdmann, Leibniz identifies the logical method with the mathematical method regarding it as the true philosophical method. Erdmann furthermore dealt at length with Leibniz’s “mathematical treatment of philosophy” not only because it was important for Christian Wolff and his school, but also “because just this point is usually ignored in presentations of Leibniz’s philosophy” (ibid., 114). He had good reasons for this evaluation because most of the relevant writings became only accessible in his own edition (Leibniz 1839/40)[^leibniz-1839]. Erdmann discussed Leibniz’s calculi calling them “methodic operations” with data in the “way of calculating”. He mentioned Leibniz’s idea of a character script for the calculus which allows using signs without always having a particular meaning in view. Such “pasigraphy” would eliminate the differences between the languages, but, according to Erdmann’s evaluation, the idea of a universal language was not at the center of Leibniz’s interests. Leibniz’s main point was that “all mistakes in reasoning will at once show up in a wrong combination of characters, and therefore the application of the characteristic script provides a means to discover the mistake in a disputed point like in every other calculation” (ibid., 122–123).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在论莱布尼茨的一章，埃尔德曼强调数学与哲学的联系。他在论哲学方法的一节处理莱布尼茨的逻辑，提到莱布尼茨对“方法”的定义：借助“认识原则”推出一切知识的途径（Erdmann 1842, 109）[^erdmann-1842]。这些原则是矛盾律与充足理由律。埃尔德曼引用了莱布尼茨致加布里埃尔·瓦格纳的信，其中说逻辑是运用理智的技艺；因此逻辑是一切科学与技艺的钥匙。照埃尔德曼的说法，莱布尼茨把逻辑方法等同于数学方法，视之为真正的哲学方法。埃尔德曼还详尽讨论了莱布尼茨“对哲学的数学处理”，这不仅因为它对克里斯蒂安·沃尔夫及其学派重要，也因为“恰恰这一点在莱布尼茨哲学的通常呈现中被忽视”（同上，114）。他这样评价自有其理由，因为相关著述大多正是在他自己的版本中方得寓目（Leibniz 1839/40）[^leibniz-1839]。埃尔德曼讨论了莱布尼茨的诸演算，称之为以“计算的方式”对数据进行“方法性操作”。他提到莱布尼茨为演算设想一种文字的念头：使用符号而无需时时顾及特定含义。这种“万国笔语”将消除诸语言之间的差异；但照埃尔德曼的评价，普遍语言的观念并非莱布尼茨兴趣的中心。莱布尼茨的要点是：“推理中的一切错误都会立刻显示为文字的错误组合；因此应用特征文字提供了一种手段，可以像在一切其他计算中那样发现争议之点上的错误”（同上，122–123）。
+    step2: |-
+      在论莱布尼茨的一章，埃尔德曼强调数学与哲学的联系。他在论哲学方法的一节处理莱布尼茨的逻辑，提到莱布尼茨对“方法”的定义：借助“认识原则”（*Erkenntnisprinzipien*）推出一切知识的途径（Erdmann 1842, 109）[^erdmann-1842]。这些原则，即矛盾律与充足理由律。埃尔德曼引用莱布尼茨致加布里埃尔·瓦格纳的信——其中说逻辑是运用理智的技艺；因此逻辑是一切科学与技艺的钥匙。照埃尔德曼的说法，莱布尼茨把逻辑方法等同于数学方法，视之为真正的哲学方法。埃尔德曼还详论莱布尼茨“对哲学的数学处理”：这不仅因为它对克里斯蒂安·沃尔夫及其学派重要，也因为“恰恰这一点在莱布尼茨哲学的通常呈现中被忽视”（同上，114）。他如此评价自有其理据——相关著述大多正是在他自己的版本中方得寓目（Leibniz 1839/40）[^leibniz-1839]。埃尔德曼讨论莱布尼茨的诸演算，称之为以“计算的方式”对数据进行“方法性操作”。他提到莱布尼茨为演算设想一种文字的念头：使用符号而无需时时顾及特定含义。这种“万国笔语”（pasigraphy）将消除诸语言之间的差异；但照埃尔德曼的评价，普遍语言的观念并非莱布尼茨兴趣的中心。莱布尼茨的要点是：“推理中的一切错误都会立刻显示为文字的错误组合；因此应用特征文字提供了一种手段，可以像在其他一切计算中那样发现争议之点上的错误”（同上，122–123）。
   - id: 23
     kind: body
     source: |-
       Erdmann’s discussion of Leibniz can be evaluated as follows. He opened the way for the inclusion of Leibniz’s conception of logic into the actual philosophical debates on logic. This is all the more astonishing as Erdmann was a Hegelian. Hegel was known and heavily criticized for his depreciation of formal logic. On the other hand, stressing the close connection between philosophy and mathematics fits into a time when many philosophers tried to bring philosophy back into contact with the sciences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃尔德曼对莱布尼茨的讨论可以这样评价：他为把莱布尼茨的逻辑观念纳入当时实际的逻辑哲学辩论开辟了道路。这更加令人惊讶，因为埃尔德曼是黑格尔派。黑格尔因贬低形式逻辑而为人所知并受到严厉批评。另一方面，强调哲学与数学的密切联系，契合于一个许多哲学家力图使哲学重新与科学接触的时代。
+    step2: |-
+      埃尔德曼对莱布尼茨的讨论可以这样评价：他为把莱布尼茨的逻辑观念纳入当时实际的逻辑哲学辩论开辟了道路。这愈发令人惊讶——埃尔德曼是黑格尔派，而黑格尔正以贬低形式逻辑为人所知、饱受批评。另一方面，强调哲学与数学的密切联系，恰契合一个许多哲学家力图使哲学重新与科学接触的时代。
   - id: 24
     kind: body
     source: |-
       ### 3.2 The Impact of Erdmann’s Edition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 埃尔德曼版本的影响
+    step2: |-
+      ### 3.2 埃尔德曼版本的影响
   - id: 25
     kind: body
     source: |-
       Erdmann’s edition immediately stimulated further research on Leibniz’s logic. Gottschalk Eduard Guhrauer criticized extensively Leibniz’s universal characteristic in the first volume of his biography of Leibniz (Guhrauer 1846). He stressed its absurd and utopian character: According to Guhrauer, Leibniz’s general characteristic must almost be seen as on a par with the philosopher’s stone and the secrets of producing gold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃尔德曼的版本立即刺激了对莱布尼茨逻辑的进一步研究。戈特沙尔克·爱德华·古劳尔在其莱布尼茨传记第一卷中详尽批评了莱布尼茨的普遍文字（Guhrauer 1846）。他强调其荒诞与乌托邦的性质：照古劳尔的说法，莱布尼茨的普遍文字几乎必须被看作与哲人石和炼金秘诀相当的东西。
+    step2: |-
+      埃尔德曼的版本立时刺激了对莱布尼茨逻辑的进一步研究。戈特沙尔克·爱德华·古劳尔在其莱布尼茨传记第一卷中详尽批评莱布尼茨的普遍文字（Guhrauer 1846），强调其荒诞与乌托邦的性质。照古劳尔之见，莱布尼茨的普遍文字几乎须被看作与哲人石、炼金秘诀比肩之物。
   - id: 26
     kind: body
     source: |-
       In a paper on “Über Leibnitz’ens Universal-Wissenschaft,” (1843) the Austrian philosopher Franz Exner referred explicitly to Erdmann’s edition. For Exner, the edition throws a brighter light on Leibniz’s conception of a universal science. Even though in Exner’s opinion it had its weaknesses, he predicted a healthy impact on philosophy. He wrote (Exner 1843, 39)[^exner-1843]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      奥地利哲学家弗朗茨·埃克斯纳在一篇论“莱布尼茨的普遍科学”（1843）的文章中明确引用埃尔德曼的版本。对埃克斯纳来说，这个版本使莱布尼茨的普遍科学观念更为明晰。尽管在他看来它有自身的弱点，他仍预言它将对哲学产生健康的影响。他写道（Exner 1843, 39）[^exner-1843]：
+    step2: |-
+      奥地利哲学家弗朗茨·埃克斯纳在一篇论“莱布尼茨的普遍科学”（1843）的文章中明确援引埃尔德曼的版本。对埃克斯纳来说，这个版本使莱布尼茨的普遍科学观念更为明晰。尽管在他看来它自有弱点，他仍预言它将对哲学产生健康的影响。他写道（Exner 1843, 39）[^exner-1843]：
   - id: 27
     kind: body
     source: |-
       > For him [Leibniz], the universal science is the true logic; both, universal science and logic, are the arts of judgment and invention; writing mathematically means for him writing *in forma*, which he believes to be possible outside mathematics; for him, the logical form of reasoning is a calculus; formulas, relations and operations of his universal science correlate with concepts, judgments and inferences of his logic; finally, the second part of the universal science, the art of invention, is an epitome of relatively general methods. We cannot accuse him of having overestimated logic. It was not his opinion that simple knowledge of logical rules would do great things, but its application. In the application of logical rules, however, men who had the knowledge of logical rules to a great extent had shown weaknesses.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对他[莱布尼茨]而言，普遍科学是真正的逻辑；普遍科学与逻辑二者，都是判断与发明的技艺；数学式的写作对他来说意味着*依形式*（*in forma*）写作，他相信这在数学之外也是可能的；对他来说，推理的逻辑形式是一个演算；其普遍科学的公式、关系与运算，同其逻辑的概念、判断与推理相关联；最后，普遍科学的第二部分即发明术，是相对一般的方法之缩影。我们不能指责他高估了逻辑。他的看法不是：仅仅知道逻辑规则就能成就大事，而是规则的应用。然而在逻辑规则的应用上，在很大程度上掌握逻辑规则的人们已经显出了弱点。
+    step2: |-
+      > 对他[莱布尼茨]而言，普遍科学是真正的逻辑；普遍科学与逻辑二者，都是判断与发明的技艺。数学式写作对他来说意味着*依形式*（*in forma*）写作——他相信这在数学之外也是可能的。对他来说，推理的逻辑形式是一个演算；其普遍科学的公式、关系与运算，同其逻辑的概念、判断与推理一一相应。最后，普遍科学的第二部分即发明术，是较为一般的方法之缩影。我们不能指责他高估逻辑：他的看法不是仅仅知道逻辑规则便能成就大事，而是规则之应用。然而在逻辑规则的应用上，那些在很大程度上掌握规则的人们已经显出了弱点。
   - id: 28
     kind: body
     source: |-
       In 1857 the Herbartian philosopher from Bohemia, František Bolemír Květ (1825–1864), published a booklet entitled *Leibniz’ens Logik*. Květ reconstructed the elements of Leibniz’s *scientia generalis* stressing the originality of their combination, but not of every single element. He discussed the “extremely meager” fragments concerning the philosophical calculus. They showed, Květ wrote, how far their author stood behind his aims. He dismissed Leibniz’s *ars inveniendi*, calling it embarrassing because of its weaknesses, defects and impossibility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1857 年，来自波希米亚的赫尔巴特派哲学家弗朗蒂舍克·博莱米尔·克韦特（1825–1864）出版了一本题为《莱布尼茨的逻辑》的小册子。克韦特重构了莱布尼茨*一般科学*的诸要素，强调其组合的原创性，而非每个单独要素的原创性。他讨论了关于哲学演算的“极其单薄”的残篇。克韦特写道，它们表明其作者距离自己的目标何等遥远。他摈弃了莱布尼茨的发明术，称其因弱点、缺陷与不可能性而令人尴尬。
+    step2: |-
+      1857 年，来自波希米亚的赫尔巴特派哲学家弗朗蒂舍克·博莱米尔·克韦特（1825–1864）刊行小册子《莱布尼茨的逻辑》（*Leibniz’ens Logik*）。克韦特重构了莱布尼茨*一般科学*（*scientia generalis*）的诸要素：强调其组合的原创性，而非每个单独要素的原创性。他讨论了关于哲学演算的“极其单薄”的残篇。克韦特写道：它们表明其作者距离自己的目标何等遥远。他摈弃莱布尼茨的发明术，斥之为因弱点、缺陷与不可能性而令人尴尬。
   - id: 29
     kind: body
     source: |-
       ## 4. Friedrich Adolf Trendelenburg on Leibniz’s General Characteristic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 弗里德里希·阿道夫·特伦德伦堡论莱布尼茨的普遍文字
+    step2: |-
+      ## 4 弗里德里希·阿道夫·特伦德伦堡论莱布尼茨的普遍文字
   - id: 30
     kind: body
     source: |-
       The most important figure in this second period of reception was Friedrich Adolf Trendelenburg (1802–1872). He had studied philology, history and philosophy at the universities of Kiel, Leipzig and Berlin (cf. Bratuschek 1872; Vilkko 2002, 56–81; Vilkko 2009, 211–217; Peckhaus 2007)[^bratuschek-1872][^peckhaus-2007][^vilkko-2002][^vilkko-2009]. Among his teachers were Karl Leonhard Reinhold and Johann Erich von Berger. He became professor in 1833; in 1837 he was promoted to full professor of practical philosophy and education at the Friedrich-Wilhelms-University Berlin where he grew into one of the main leaders of Prussian education and German philosophy. An ordinary member of the Royal Prussian Academy of Science at Berlin since 1846, he became the secretary of the Philosophical-Historical Section of this Academy in 1847. Trendelenburg was an anti-Hegelian who started from Hegelian philosophy. His fame as a neo-Aristotelian goes back to his *Elementa logices Aristotelicae*, first published in 1836 with five further editions (Trendelenburg 1836)[^trendelenburg-1836]. In his systematic work on logic he pleaded for a unity of logic and metaphysics as found in the Aristotelian organon. This systematic attitude is developed in a comprehensive work containing heavy criticism of logical systems of his time, his *Logische Untersuchungen*, published in two volumes in 1840 (Trendelenburg 1840)[^trendelenburg-1840].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      接受第二时期最重要的人物是弗里德里希·阿道夫·特伦德伦堡（1802–1872）。他曾在基尔、莱比锡与柏林大学学习语文学、历史与哲学（参见 Bratuschek 1872; Vilkko 2002, 56–81; Vilkko 2009, 211–217; Peckhaus 2007）[^bratuschek-1872][^peckhaus-2007][^vilkko-2002][^vilkko-2009]。卡尔·莱昂哈德·赖因霍尔德与约翰·埃里希·冯·贝格尔都在他的老师之列。他于 1833 年成为教授；1837 年升任柏林弗里德里希-威廉大学实践哲学与教育学正教授，并在那里成长为普鲁士教育与德国哲学的主要领袖之一。自 1846 年起任柏林王家普鲁士科学院正式院士，1847 年出任该院哲学-历史学部秘书。特伦德伦堡是一个从黑格尔哲学出发的反黑格尔主义者。他作为新亚里士多德主义者的名声，源于其《亚里士多德逻辑要义》，1836 年初版、后又五版（Trendelenburg 1836）[^trendelenburg-1836]。在其系统的逻辑著作中，他为逻辑与形而上学的统一辩护，如亚里士多德《工具论》中所见。这种系统态度在一部综述性著作中得到发展——该书严厉批评其时代的逻辑系统，即 1840 年出版的两卷本《逻辑研究》（Trendelenburg 1840）[^trendelenburg-1840]。
+    step2: |-
+      接受第二时期最重要的人物，是弗里德里希·阿道夫·特伦德伦堡（1802–1872）。他曾在基尔、莱比锡与柏林大学学习语文学、历史与哲学（参见 Bratuschek 1872; Vilkko 2002, 56–81; Vilkko 2009, 211–217; Peckhaus 2007）[^bratuschek-1872][^peckhaus-2007][^vilkko-2002][^vilkko-2009]。卡尔·莱昂哈德·赖因霍尔德与约翰·埃里希·冯·贝格尔皆出其师门。他 1833 年成为教授；1837 年升任柏林弗里德里希-威廉大学实践哲学与教育学正教授，并在那里成长为普鲁士教育与德国哲学的主要领袖之一。自 1846 年起任柏林王家普鲁士科学院正式院士，1847 年出任该院哲学-历史学部秘书。特伦德伦堡是一个从黑格尔哲学出发的反黑格尔主义者。他作为新亚里士多德主义者的名声，源于其《亚里士多德逻辑要义》（*Elementa logices Aristotelicae*）——1836 年初版、后又五版（Trendelenburg 1836）[^trendelenburg-1836]。在其系统的逻辑著作中，他为逻辑与形而上学的统一辩护，一如亚里士多德《工具论》所示。这种系统态度在一部综述性著作中得到发展——该书严厉批评其时代的诸逻辑系统，即 1840 年出版的两卷本《逻辑研究》（*Logische Untersuchungen*；Trendelenburg 1840）[^trendelenburg-1840]。
   - id: 31
     kind: body
     source: |-
       As a secretary of the Academy, Trendelenburg was charged with honoring Leibniz’s memory. Leibniz had been the first president of the “Societät der Wissenschaften” at Berlin, the predecessor institution of the Royal Prussian Academy of Science, founded on his initiative in 1700. In 1856, Trendelenburg delivered a seminal lecture entitled “Über Leibnizens Entwurf einer allgemeinen Charakteristik” at the Leibniz ceremony of the Academy at Berlin (Trendelenburg 1857)[^trendelenburg-1857]. This paper was reprinted in the third volume of his *Historische Beiträge zur Philosophie* (1867). In this discussion of Leibniz, Trendelenburg stressed the essential role of signs in communication and reasoning. There is no logical relation between sign and intuition, but science has provided the opportunity to “bring the composition of the signs into immediate contact with contents of the concept” (Trendelenburg 1857, 3)[^trendelenburg-1857]. The composition of the sign presents the characteristic marks distinguished and comprehended in the concept (ibid.). Trendelenburg called such a script “Begriffsschrift”. Maybe he took over this term from Wilhelm von Humboldt who had introduced it in 1824 (v. Humboldt 1826, quoted 1848, 532; cf. Thiel 1995, 20)[^humboldt-1826][^thiel-1995]. According to Trendelenburg the beginnings of a *Begriffsschrift* were made, e.g., in the decimal number system. Trendelenburg saw the objectives of Leibniz’s program as widening such an approach to the complete domain of objects, thereby aiming at a “characteristic language of concepts” and a “general language of matter.” He mentioned the different names used by Leibniz: *lingua characterica universalis* (in fact Trendelenburg’s term; Leibniz used *characteristica universalis*), alphabet of human thoughts, *calculus philosophicus*, *calculus ratiocinator*, *spécieuse générale*. These names underline the significance Leibniz ascribed to this program for his philosophy. According to Trendelenburg, Leibniz aimed at “an adequate and therefore general signification of the essence [of conceptual content], namely by such analysis into the elements of concepts, that it becomes possible to treat it by calculation” (ibid., 6). He mentioned as historical precursors the *ars magna* of Raymundus Lullus and other conceptions of universal languages. Because of its generality, Leibniz’s *characteristica universalis* stands out compared with competing proposals by George Dalgarno (1661) and John Wilkins (1668), which were obtained from “choice, nature and chance,” and relied upon existing languages (ibid., 14–15).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为科学院的秘书，特伦德伦堡受命纪念莱布尼茨。莱布尼茨曾是柏林“科学会”的第一任会长——那是王家普鲁士科学院的前身机构，1700 年依其倡议而创立。1856 年，特伦德伦堡在柏林科学院的莱布尼茨纪念会上发表了一篇开创性演讲，题为“论莱布尼茨的普遍文字方案”（Trendelenburg 1857）[^trendelenburg-1857]。这篇文章重印于其《哲学史论集》第三卷（1867）。在这篇对莱布尼茨的讨论中，特伦德伦堡强调符号在交流与推理中的关键作用。符号与直观之间没有逻辑关系，但科学提供了机会，“使符号的组合与概念的内容直接接触”（Trendelenburg 1857, 3）[^trendelenburg-1857]。符号的组合呈现概念中所分辨、所把握的特征标记（同上）。特伦德伦堡把这样一种文字称为“概念文字”。也许他是从威廉·冯·洪堡那里接过这个术语的——后者于 1824 年引入它（v. Humboldt 1826，转引 1848, 532；参见 Thiel 1995, 20）[^humboldt-1826][^thiel-1995]。照特伦德伦堡的说法，*概念文字*的开端已见于例如十进制数系。特伦德伦堡把莱布尼茨方案的目标看作把这样一种进路拓宽到对象的完整领域，从而以“概念的特征语言”与“质料的普遍语言”为目标。他提到莱布尼茨使用的各种名称：*lingua characterica universalis*（其实是特伦德伦堡的术语；莱布尼茨用 *characteristica universalis*）、人类思想的字母、*calculus philosophicus*、*calculus ratiocinator*、*spécieuse générale*。这些名称凸显了莱布尼茨赋予这一方案在其哲学中的重要性。照特伦德伦堡的说法，莱布尼茨的目标是“对[概念内容的]本质给予充分并因此一般的意谓，即通过这样一组分析，分析到概念的诸元素，以致可以按计算来处理它”（同上，6）。他提到历史上的先驱：拉蒙·卢尔的*ars magna*（伟大技艺）与其他普遍语言的构想。由于其一般性，莱布尼茨的*characteristica universalis*与乔治·达尔加诺（1661）和约翰·威尔金斯（1668）的竞争性方案相比卓然出众——后二者得自“选择、自然与偶然”，依赖既有语言（同上，14–15）。
+    step2: |-
+      作为科学院的秘书，特伦德伦堡受命纪念莱布尼茨。莱布尼茨曾是柏林“科学会”的第一任会长——那是王家普鲁士科学院的前身，1700 年依其倡议而创立。1856 年，特伦德伦堡在柏林科学院的莱布尼茨纪念会上发表一篇开创性演讲，题为“论莱布尼茨的普遍文字方案”（Trendelenburg 1857）[^trendelenburg-1857]。这篇文章重印于其《哲学史论集》第三卷（1867）。在这篇对莱布尼茨的讨论中，特伦德伦堡强调符号在交流与推理中的枢纽作用。符号与直观之间没有逻辑关系，但科学提供了机会，“使符号的组合与概念的内容直接接触”（Trendelenburg 1857, 3）[^trendelenburg-1857]。符号的组合，呈现概念中所分辨、所把握的特征标记（同上）。特伦德伦堡把这样一种文字称为“概念文字”（Begriffsschrift）。这个术语，他也许得自威廉·冯·洪堡——后者于 1824 年引入它（v. Humboldt 1826，转引 1848, 532；参见 Thiel 1995, 20）[^humboldt-1826][^thiel-1995]。照特伦德伦堡的说法，*概念文字*的开端已见于例如十进制数系。特伦德伦堡把莱布尼茨方案的目标看作把这样一种进路拓宽到对象的完整领域，从而以“概念的特征语言”与“质料的普遍语言”为鹄的。他提到莱布尼茨使用的各种名称：*lingua characterica universalis*（其实是特伦德伦堡的术语；莱布尼茨用 *characteristica universalis*）、人类思想的字母、*calculus philosophicus*、*calculus ratiocinator*、*spécieuse générale*。这些名称凸显了莱布尼茨赋予这一方案在其哲学中的分量。照特伦德伦堡的说法，莱布尼茨旨在“对[概念内容的]本质给予充分并因此一般的意谓——即通过如此这般分析到概念的诸元素，以致可以按计算来处理它”（同上，6）。他举出的历史先驱，有拉蒙·卢尔的*ars magna*（伟大技艺）与其他普遍语言的构想。由于其一般性，莱布尼茨的*characteristica universalis*与乔治·达尔加诺（1661）和约翰·威尔金斯（1668）的竞争性方案相比卓然出众——后二者得自“选择、自然与偶然”，依赖既有语言（同上，14–15）。
   - id: 32
     kind: body
     source: |-
       Trendelenburg, however, did not welcome all the elements of Leibniz’s program. He heavily criticized its practical side, in particular, calculation in logic. The connection of properties in a concept is much more complicated than can be expressed with Leibniz’s operations (ibid., 24). He recommended abstaining from calculation (Trendelenburg 1857, 55)[^trendelenburg-1857]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，特伦德伦堡并不欢迎莱布尼茨方案的全部要素。他严厉批评其实践面，尤其是逻辑中的计算。一个概念中诸属性的联系，远比莱布尼茨的运算所能表达的更为复杂（同上，24）。他建议放弃计算（Trendelenburg 1857, 55）[^trendelenburg-1857]：
+    step2: |-
+      然而，特伦德伦堡并不欢迎莱布尼茨方案的全部要素。他严厉批评其实践面——尤其是逻辑中的计算。一个概念中诸属性的联系，远比莱布尼茨的运算所能表达的更为复杂（同上，24）。他建议放弃计算（Trendelenburg 1857, 55）[^trendelenburg-1857]：
   - id: 33
     kind: body
     source: |-
       > If the side of calculus, invention and discovery is excluded from general characteristic, there still remains an attractive logical task: [the task of finding] a sign that distinguishes the elements and which is therefore clear and avoids contradictions; [the task of] leading back the intricate [intuition] to the simple contained in it. There remains the task of finding a sign which is determined by the concept of the matter itself, like our number script. But such adequate sign presupposes an analysis brought to an end and deepened down to the ground to become possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果从普遍文字中排除演算、发明与发现这一面，仍然剩下一项有吸引力的逻辑任务：[找到]一种区分诸元素的符号，它因此是清晰的、避免矛盾的；[把]复杂的[直观]引回到其中所包含的单纯者。剩下来的任务是找到一种由事情本身的概念所决定的符号，就像我们的数字文字那样。但这样一种充分的符号，预设一种进行到底、深挖到底的分析方才可能。
+    step2: |-
+      > 如果从普遍文字中排除演算、发明与发现这一面，仍剩下一项有吸引力的逻辑任务：[找到]一种区分诸元素的符号——它因此清晰而无矛盾；[把]复杂的[直观]引回到其中所含的单纯者。剩下的任务，是找到一种由事情本身的概念所决定的符号，一如我们的数字文字。但这样一种充分的符号，预设一种进行到底、深掘到底的分析方才可能。
   - id: 34
     kind: body
     source: |-
       Trendelenburg stresses that such analysis cannot be done given the state of science of that time. If the *characteristica universalis* is not given up the still pending analytical formula has to be replaced by arbitrary conjectures, a procedure which, according to Trendelenburg, contradicts the idea and even the possibility of the intended calculation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      特伦德伦堡强调，鉴于当时的科学状况，这样的分析无法完成。如果不放弃*普遍文字*，那么尚付阙如的分析公式就不得不被任意猜想所取代——照特伦德伦堡的说法，这一做法与所期许的计算的观念、乃至其可能性相矛盾。
+    step2: |-
+      特伦德伦堡强调：鉴于当时的科学状况，这样的分析无法完成。若不放弃*普遍文字*，尚付阙如的分析公式便不得不被任意猜想所取代——照特伦德伦堡之见，这一做法与所期许的计算之观念、乃至其可能性相矛盾。
   - id: 35
     kind: body
     source: |-
       Erdmann’s edition induced a second wave of reception. This reception is characterized by an interest in Leibniz’s ideas on logic. Its context was the reorganization of the philosophical scene after Hegel’s death (1831). This process was connected with a discussion of the so-called “Logical Question”, a term created by Adolf Trendelenburg (Trendelenburg 1842)[^trendelenburg-1842] who initiated these debates. The discussions concerned the role of formal logic in the system of philosophy (cf. Peckhaus 1997, 130–163; Peckhaus 1999; Vilkko 2002, 56–81; Vilkko 2009)[^peckhaus-1997][^peckhaus-1999][^vilkko-2002][^vilkko-2009]. The authors aimed at overcoming Hegel’s identification of logic and metaphysics without re-establishing the old system of Aristotelian logic. The philosophical dominance of metaphysics was subsequently replaced by that of epistemology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      埃尔德曼的版本引发了接受的第二波。这次接受的特点是对莱布尼茨逻辑观念的兴趣。其背景是黑格尔死后（1831）哲学界的重组。这一过程与对所谓“逻辑问题”的讨论相联系——这个词是阿道夫·特伦德伦堡创造的（Trendelenburg 1842）[^trendelenburg-1842]，他也是这些辩论的发起者。讨论关乎形式逻辑在哲学体系中的角色（参见 Peckhaus 1997, 130–163; Peckhaus 1999; Vilkko 2002, 56–81; Vilkko 2009）[^peckhaus-1997][^peckhaus-1999][^vilkko-2002][^vilkko-2009]。作者们的目标，是克服黑格尔对逻辑与形而上学的等同，而不重建亚里士多德逻辑的旧体系。形而上学在哲学中的主导地位，随后被认识论的主导地位所取代。
+    step2: |-
+      埃尔德曼的版本引发了接受的第二波。这次接受的特点，是对莱布尼茨逻辑观念的兴趣。其背景是黑格尔死后（1831）哲学界的重组。这一过程与对所谓“逻辑问题”的讨论相联——“逻辑问题”一词出自阿道夫·特伦德伦堡（Trendelenburg 1842）[^trendelenburg-1842]，他也是这些辩论的发起者。讨论关乎形式逻辑在哲学体系中的角色（参见 Peckhaus 1997, 130–163; Peckhaus 1999; Vilkko 2002, 56–81; Vilkko 2009）[^peckhaus-1997][^peckhaus-1999][^vilkko-2002][^vilkko-2009]。作者们的目标，是克服黑格尔对逻辑与形而上学的等同，而不重建亚里士多德逻辑的旧体系。形而上学在哲学中的主导地位，随后为认识论所取代。
   - id: 36
     kind: body
     source: |-
       Trendelenburg’s comprehensive discussion was most significant, and his results are typical: He was interested in the *characteristica universalis* as a tool for knowledge representation, although he stressed its utopian character. He had no interest in the logical calculus due to a philosophical skepticism towards mechanical tools. They cannot explain creativity and have no relations to the predominant interest of philosophy in that time, namely the fields of dynamical (temporal) logics which should help to model the movement of thought (*Denkbewegung*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      特伦德伦堡的全面讨论意义重大，其结果也具典型性：他有兴趣把*普遍文字*当作知识再现的工具，尽管他强调其乌托邦性质。他对逻辑演算没有兴趣，因为他对机械工具抱有哲学上的怀疑态度。它们无法解释创造性，也与当时哲学的主导兴趣——即有助于为思想运动（*Denkbewegung*）建模的动态（时间）逻辑诸领域——没有关系。
+    step2: |-
+      特伦德伦堡的全面讨论意义重大，其结果也具典型性：他有兴趣把*普遍文字*当作知识再现的工具，尽管他强调其乌托邦性质。他对逻辑演算没有兴趣——源于他对机械工具的哲学怀疑：它们无法解释创造性，也与当时哲学的主导兴趣无涉，即有助于为思想运动（*Denkbewegung*）建模的动态（时间）逻辑诸领域。
   - id: 37
     kind: body
     source: |-
       Given the nature of Trendelenburg’s presentation of the Leibnizian system, his significance for the mathematical reception of Leibniz’s ideas in the context of the emergence of formal mathematics and mathematical logic in the second half of the 19th century is astonishing. Trendelenburg’s paper on Leibniz’s program of a general characteristic became a point of reference for logical pioneers such as Gottlob Frege and Ernst Schröder (on their controversy cf. Peckhaus 1997, 287–296)[^peckhaus-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于特伦德伦堡呈现莱布尼茨体系的方式，他在十九世纪下半叶形式数学与数理逻辑兴起的语境中、对莱布尼茨观念的数学接受所具有的意义，是惊人的。特伦德伦堡论莱布尼茨普遍文字方案的文章，成为戈特洛布·弗雷格与恩斯特·施罗德等逻辑先驱的一个参照点（关于他们的论战，参见 Peckhaus 1997, 287–296）[^peckhaus-1997]。
+    step2: |-
+      鉴于特伦德伦堡呈现莱布尼茨体系的方式，他在十九世纪下半叶形式数学与数理逻辑兴起的语境中、对莱布尼茨观念之数学接受的意义，令人惊讶。特伦德伦堡论莱布尼茨普遍文字方案的文章，成为戈特洛布·弗雷格与恩斯特·施罗德等逻辑先驱的参照点（关于他们的论战，参见 Peckhaus 1997, 287–296）[^peckhaus-1997]。
   - id: 38
     kind: body
     source: |-
       ## 5. The Discovery of Leibniz in Mathematical Logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 数理逻辑中对莱布尼茨的发现
+    step2: |-
+      ## 5 数理逻辑中对莱布尼茨的发现
   - id: 39
     kind: body
     source: |-
       The discovery of Leibniz in mathematical logic can be shown by example in the case of George Boole, the founder of the algebra of logic (cf. Peckhaus 1997, 185–232; on Ernst Schröder’s discovery of Leibniz cf. ibid., 233–287)[^peckhaus-1997]. In his first writing on logic, the booklet *The Mathematical Analysis of Logic* of 1847, he gave an algebraic interpretation of traditional logic. His fame as one of the founders of modern logic goes back to his *An Investigation of the Laws of Thought* of 1854. According to Boole’s own evaluation, his main innovation was the Index Law (1847), later revised to the Law of Duality, also called “Boole’s Law”. This law expresses idempotence:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      数理逻辑中对莱布尼茨的发现，可以借乔治·布尔——逻辑代数的奠基人——之例来说明（参见 Peckhaus 1997, 185–232；关于恩斯特·施罗德对莱布尼茨的发现，参见同上，233–287）[^peckhaus-1997]。在其第一部逻辑著作——1847 年的小册子《逻辑的数学分析》——中，他对传统逻辑给出了一种代数解释。他作为现代逻辑奠基人之一的声名，源于其 1854 年的《思维规律的研究》。照布尔自己的评价，他的主要创新是指数律（1847），后修订为二值律，也称“布尔律”。这条定律表达幂等性：
+    step2: |-
+      数理逻辑中对莱布尼茨的发现，可以借乔治·布尔——逻辑代数的奠基人——之例来说明（参见 Peckhaus 1997, 185–232；关于恩斯特·施罗德对莱布尼茨的发现，参见同上，233–287）[^peckhaus-1997]。在其第一部逻辑著作——1847 年的小册子《逻辑的数学分析》——中，他对传统逻辑给出一种代数解释。他作为现代逻辑奠基人之一的声名，则源于 1854 年的《思维规律的研究》。照布尔自己的评价，他的主要创新是指数律（1847），后修订为二值律，亦称“布尔律”。这条定律表达幂等性：
   - id: 40
     kind: body
     source: |-
       *A* = *AA*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *A* = *AA*
+    step2: |-
+      *A* = *AA*
   - id: 41
     kind: body
     source: |-
       What are the connections to Leibniz’s logic? Are there anticipations of the Boolean calculus in the work of Leibniz? One of those authors looking for anticipations was Robert Leslie Ellis (1817–1859), who edited Francis Bacon’s *Novum Organon* in *The Works of Francis Bacon* (1858–1874; vol. 1: 1858). During his editorial works he found a parallel to Boole’s Law (p. 281, footnote 1): “Mr. Boole’s *Laws of Thought* contain the first development of ideas of which the germ is to be found in Bacon and Leibnitz; to the latter of whom the fundamental principle in logic *a*² = *a* was known.” As reference he gave Erdmann’s edition (Erdmann 1840, p. 130). Robert Harley (1828–1910), Boole’s first biographer, discussed this information in a paper entitled “Remarks on Boole’s Mathematical Analysis of Logic” (1867). He did not find the proper quote at the place indicated by Ellis, but he found other relevant texts. About the significance of Ellis’ remark he wrote: “Boole did not become aware of these anticipations by Leibnitz until more than twelve months after the publication of the ‘Laws of Thought,’ when they were pointed out to him by R. Leslie Ellis” (p. 5).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些与莱布尼茨逻辑的联系是什么？莱布尼茨的著作中有没有布尔演算的预见？寻找预见的一位作者是罗伯特·莱斯利·埃利斯（1817–1859），他在《弗朗西斯·培根全集》（1858–1874；第 1 卷：1858）中编辑了培根的《新工具》。在编辑工作期间，他发现了布尔律的一个平行（第 281 页脚注 1）：“布尔先生的《思维规律》包含这些观念的第一个发展，其萌芽见于培根与莱布尼茨；对后者而言，逻辑中的基本原理 *a*² = *a* 是已知的。”他给出的出处是埃尔德曼的版本（Erdmann 1840, p. 130）。布尔的第一位传记作者罗伯特·哈利（1828–1910）在一篇题为“布尔《逻辑的数学分析》评注”（1867）的文章中讨论了这一信息。他没有在埃利斯指示的地方找到恰当的引文，但找到了其他相关文本。关于埃利斯评论的意义，他写道：“直到《思维规律》出版十二个多月之后，当 R. 莱斯利·埃利斯向他指出时，布尔才意识到莱布尼茨的这些预见”（第 5 页）。
+    step2: |-
+      这些与莱布尼茨逻辑的联系是什么？莱布尼茨的著作中有没有布尔演算的预见？寻找预见者之一是罗伯特·莱斯利·埃利斯（1817–1859），他在《弗朗西斯·培根全集》（1858–1874；第 1 卷：1858）中编辑培根的《新工具》（*Novum Organon*）。编辑期间，他发现了布尔律的一个平行（第 281 页脚注 1）：“布尔先生的《思维规律》包含这些观念的第一个发展，其萌芽见于培根与莱布尼茨；对后者而言，逻辑中的基本原理 *a*² = *a* 已是已知。”他给出的出处是埃尔德曼的版本（Erdmann 1840, p. 130）。布尔的第一位传记作者罗伯特·哈利（1828–1910）在一篇题为“布尔《逻辑的数学分析》评注”（1867）的文章中讨论了这一信息。他没有在埃利斯指示之处找到恰当的引文，但找到了其他相关文本。关于埃利斯评论的意义，他写道：“直到《思维规律》出版十二个多月之后，当 R. 莱斯利·埃利斯向他指出时，布尔才意识到莱布尼茨的这些预见”（第 5 页）。
   - id: 42
     kind: body
     source: |-
       Harley’s research was taken up by the Manchester economist and philosopher William Stanley Jevons (1825–1882). Jevons formulated his philosophy of science, as found in the *Principles of Science* (1874), against John Stuart Mill’s predominant inductive logic. His alternative to inductive logic was the “Principle of Substitution”. He included a section “Anticipations of the Principle of Substitution”, which was enlarged in the later edition with a long discussion of Leibniz’s anticipations. There he expressed his thanks to Robert Adamson for the information that the Principle of Substitution can be traced back to Leibniz. Jevons asked what were the reasons for the long ignorance of Leibniz’s anticipations. Only Dutens’ edition was available in Owens College Library, Manchester. He regretted having overlooked Erdmann’s edition, but noted that this was also done by other “most learned logicians”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      哈利的研究被曼彻斯特的经济学家兼哲学家威廉·斯坦利·杰文斯（1825–1882）接续。杰文斯在《科学原理》（1874）中阐述其科学哲学，以对抗约翰·斯图亚特·穆勒占主导地位的归纳逻辑。他替代归纳逻辑的方案是“替换原理”。他收入一节“替换原理的预见”，后者在后来的版本中被扩充，加入对莱布尼茨预见的冗长讨论。在那里他向罗伯特·亚当森致谢，感谢他提供替换原理可以追溯到莱布尼茨的信息。杰文斯问：对莱布尼茨预见的长期忽视，原因何在？在曼彻斯特欧文斯学院图书馆，只有迪唐的版本可用。他对忽视埃尔德曼的版本表示遗憾，但指出其他“最有学问的逻辑学家”也曾如此。
+    step2: |-
+      哈利的研究，被曼彻斯特的经济学家兼哲学家威廉·斯坦利·杰文斯（1825–1882）接续。杰文斯在《科学原理》（1874）中阐述其科学哲学，以对抗约翰·斯图亚特·穆勒占主导地位的归纳逻辑。他替代归纳逻辑的方案，是“替换原理”。他收入一节“替换原理的预见”，后者在后来的版本中被扩充，加入对莱布尼茨预见的冗长讨论。在那里他向罗伯特·亚当森致谢——感谢他提供替换原理可追溯至莱布尼茨的信息。杰文斯问：对莱布尼茨预见的长期忽视，原因何在？在曼彻斯特欧文斯学院图书馆，只有迪唐版可用。他对忽视埃尔德曼版表示遗憾，但指出其他“最有学问的逻辑学家”亦曾如此。
   - id: 43
     kind: body
     source: |-
       Finally, John Venn (1834–1923) has to be mentioned. His *Symbolic Logic* (1881) is important for the historical contextualization of the new logic. He criticized Jevons’ statement on the Law of Duality according to which “the late Professor Boole is the only logician in modern times who has drawn attention to this remarkable property of logical terms” as being simply false. Besides, Leibniz, Lambert, Ploucquet and Segner had anticipated the law “perfectly explicitly” and he had no doubts “that any one better acquainted than myself with the Leibnitzian and Wolfian logicians could add many more such notices” (Venn 1881, xxxi, footnote 1)[^venn-1881].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后必须提到约翰·文恩（1834–1923）。他的《符号逻辑》（1881）对新逻辑的历史语境化很重要。他批评杰文斯关于二值律的说法——“已故的布尔教授是现代唯一注意到逻辑词项这一显著性质的逻辑学家”——是彻头彻尾的错误。此外，莱布尼茨、兰伯特、普卢凯与塞格纳已经“完全明确地”预见了这条定律；他毫不怀疑“任何比我更熟悉莱布尼茨派与沃尔夫派逻辑学家的人都能补充更多这样的按语”（Venn 1881, xxxi，脚注 1）[^venn-1881]。
+    step2: |-
+      最后必须提到约翰·文恩（1834–1923）。他的《符号逻辑》（1881）对新逻辑的历史语境化颇为重要。他批评杰文斯关于二值律的说法——“已故的布尔教授是现代唯一注意到逻辑词项这一显著性质的逻辑学家”——斥之为彻头彻尾的错误。此外，莱布尼茨、兰伯特、普卢凯与塞格纳早已“完全明确地”预见了这条定律；他毫不怀疑“任何比我更熟悉莱布尼茨派与沃尔夫派逻辑学家的人，都能补充更多这样的按语”（Venn 1881, xxxi，脚注 1）[^venn-1881]。
   - id: 44
     kind: body
     source: |-
       ## 6. Conclusions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 结论
+    step2: |-
+      ## 6 结论
   - id: 45
     kind: body
     source: |-
       No doubt, the new logic emerging in the second half of the 19th century was created in a Leibnizian spirit. The essentials of Leibniz’s logical and metaphysical program and of his ideas concerning a logical calculus were available at least since the 1840s. Erdmann’s edition of the philosophical works and Trendelenburg’s presentation of Leibniz’s semiotics were the most important steps towards the further reception of Leibnizian ideas among mathematical logicians at the end of the 19th century. As soon as these logicians became aware of Leibniz’s ideas, they recognized Leibniz’s congenial affinity and accepted his priority. But the logical systems had basically been already established. Therefore there was no initial influence of Leibniz on the emergence of modern logic in the second half of the 19th century.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      毫无疑问，十九世纪下半叶兴起的新逻辑是在一种莱布尼茨精神中创造的。莱布尼茨逻辑与形而上学方案的要点，以及他关于逻辑演算的观念，至少自十九世纪四十年代起就可得。埃尔德曼的哲学著作版本与特伦德伦堡对莱布尼茨符号学的呈现，是十九世纪末数学逻辑学家进一步接受莱布尼茨观念的最重要步骤。这些逻辑学家一旦意识到莱布尼茨的观念，就认出莱布尼茨的亲缘性并接受其优先性。但逻辑系统基本上已然确立。因此，在十九世纪下半叶现代逻辑的兴起中，莱布尼茨没有初始的影响。
+    step2: |-
+      毫无疑问，十九世纪下半叶兴起的新逻辑，是在一种莱布尼茨精神中创造的。莱布尼茨逻辑与形而上学方案的要点，及其关于逻辑演算的观念，至少自十九世纪四十年代起已可得。埃尔德曼的哲学著作版本与特伦德伦堡对莱布尼茨符号学的呈现，是十九世纪末数学逻辑学家进一步接受莱布尼茨观念的最重要步骤。这些逻辑学家一旦意识到莱布尼茨的观念，便认出其亲缘性并接受其优先性。但逻辑系统基本上已然确立。因此，在十九世纪下半叶现代逻辑的兴起中，莱布尼茨并无初始影响。
   - id: 46
     kind: oir
     source: |-
       - [Leibniz Digital Resources](http://www.gottfried-wilhelm-leibniz-gesellschaft.de/leibniz-digital-resources.html).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [莱布尼茨数字资源](http://www.gottfried-wilhelm-leibniz-gesellschaft.de/leibniz-digital-resources.html)。
+    step2: |-
+      - [莱布尼茨数字资源](http://www.gottfried-wilhelm-leibniz-gesellschaft.de/leibniz-digital-resources.html)。
