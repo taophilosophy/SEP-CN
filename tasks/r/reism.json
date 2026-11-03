@@ -2,7 +2,7 @@
   "slug": "reism",
   "kind": "retranslate",
   "zh_doc": "r/reism.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "direction",
@@ -31,6 +31,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:51:06Z",
       "evidence": "s1 一校（MTPE 顺序，账本为对照底逐段核销）：①幻觉/漏译/增译——64 段数字多集合比对：唯一差异段19「19ᵗʰ century→十九世纪末」为语料惯例换算（kokugaku 同例「十八、十九世纪」），人工判读通过；脚注键闭环：正文唯一引用 woleński-1996 ↔ biblio 定义区 30 条（含非 ASCII 键 kotarbiński/janoušek/körner/woleński×5），biblio 节定义无正文引用系现制形态（check_academic 豁免，richard-sophister 21 条同例）；②术语漂移——登记册补落后项：正文段16 落地「非范畴词/伴语义词」括注（账本+成稿同步重建，守恒 HARD=0），entia rationis 登记释义对齐正文用词「思想对象」，删本会话误加的重复 physicalism 行（并行会话先已登记 319 行，保留先登行）；③check_terms 硬错误 6→0：5 个登记册↔词汇表冲突按「修弱势方」对齐（Tarski/Telesio/Brentano/Vives/Valla，Brentano 采 SUMMARY 既定形弗朗兹并留「学界亦作弗朗茨」备注，Valla 随现行登记册劳伦佐——方向与我早前修正相反，并行会话已改判登记册，随现行）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:54:31Z",
+      "evidence": "s2 二校（Fluency/Style）：check_prose 13 条告警逐条人工修改归零——de-chain×9（含 seg1/15/28/40/49/56/58/60 的「的」链重排，seg54 被动句 2「被」改「由…指称」）、long-sentence×2（seg16 71 字分号拆句、seg56 79 字句号拆句）、weak-verb×1（seg24「加以补充」→「补充」）；两处修正落点勘误（seg15 首次替换命中 step1、seg28 破折号间隙仍<12 字，二轮精修）；step1 忠实底未动；脱稿通读全稿无阻涩"
     }
   ],
   "blockers": [],
