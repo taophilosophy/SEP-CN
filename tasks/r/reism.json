@@ -2,7 +2,7 @@
   "slug": "reism",
   "kind": "retranslate",
   "zh_doc": "r/reism.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:57:42Z",
       "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue（修 3 类：italic-cjk *经由*→去斜体中文、cjk-spacing Kotarbiński把→加空格——跨行字符串两轮定位）；markdownlint 0 issue（修 MD004：公理列表 - → * 对齐配置 asterisk）；check_academic --strict 0 硬错误；check_math 0 missing/unbalanced；check_prose 0；check_terms 定点 0 缺译、硬错误 0（承接 s1 轮冲突清理）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:58:24Z",
+      "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：64 段逐句回读 yuanwen 镜像，重点核公式块 (1)-(12)/(R1)-(R3)/(RO) 与正文衔接、LO 三公理逻辑、以及源文「(as defined by (R2)...)」疑似笔误处按零信任照录未改；结构完整性按源节集合验收（导语+4 编号节+参考文献 A/B 小节+学术工具+其他网络资源+相关词条，无脚注节——源无注）；发现 0 问题。复核独立性：r2=独立 agent（进行中），r3 终审前冷置（richard-sophister r3 介于其间）"
     }
   ],
   "blockers": [],
