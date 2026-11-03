@@ -2,7 +2,7 @@
   "slug": "richard-sophister",
   "kind": "retranslate",
   "zh_doc": "r/richard-sophister.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -52,6 +52,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:23:40Z",
       "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：段 1-22+注 1-18 以 yuanwen 镜像为底逐句回读，重点核方向/模态/指代（substitute X for Y、all that the distinction amounts to、in none of these is it clear 三处易倒句均与源一致）；结构完整性按源节集合验收（导语+3 编号节+脚注+参考文献+学术工具+其他网络资源+相关词条，无致谢——源无则省）；版本事实行与 baseline pubinfo 一致；发现 0 问题。复核独立性安排：r2=独立 agent（初译外执行，进行中），r3 终审前冷置（做下一词条后再回读）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "RZ-main-20261104+r2独立复核agent",
+      "at": "2026-11-03T20:35:09Z",
+      "evidence": "r2 复审（逐句回核原文与逻辑，ADR-0020 复核独立性：由初译外独立 agent 执行，输出 4 处 Minor、0 Critical/Major）：①「圣善的灵」vs 源文自释 nurturing Spirit——采纳改「滋养之灵」（段19）；②「切中要害」vs seem relevant 模态增强——采纳改「似乎切题」（段39/注16）；③H1 方括号串「无法溯源」——不采纳：H1 依模板=SUMMARY 条目文字（SUMMARY 2314 行同形，check_summary 管辖，复审无 SUMMARY 上下文）；④学术工具 3 项缺 PDF 预览——维持模板设计（specs/005 #15 固定三行，Wave-0 验证件 abduction 同形；cordemoy 4 项为异例，已记待 specs/005 规划书回流裁量）。专项核对全过：9 诡辩句+18 脚注键+21 biblio 逐字符+pubinfo 一致。修正后守恒 HARD=0、prose/style/academic/lint 复验全绿"
     }
   ],
   "blockers": [],

@@ -64,7 +64,7 @@
 
 > Expliciunt ista, quae tu, Ricarde Sophista, fecesti, morum flos et doctor logicorum. Dirige scribentis, Spiritus alme, manum. Expliciunt Abstractiones. (Digby 24, f.90rb)
 >
-> （这些［诡辩句］是完整的，是你——诡辩家理查德，美德之花、逻辑学家的导师——作出的。圣善的灵啊，请调转抄写者的手［让它离开这项工作］。*Abstractiones* 到此完结。）
+> （这些［诡辩句］是完整的，是你——诡辩家理查德，美德之花、逻辑学家的导师——作出的。滋养之灵啊，请调转抄写者的手［让它离开这项工作］。*Abstractiones* 到此完结。）
 
 De Rijk 提出 Richard Fishacre 之名，不同意 Macray 提出的 Richard Fitz-Ralph 之说，理由是：文本定年在十三世纪第二个二十五年，与 Fishacre 的年表更为相合。[^note-8] Jan Pinborg 则提出 Richard Rufus，理由同样是 *Abstractiones* 的定年与 Rufus 身在牛津的时期相合。[^note-9] 人们一般假定作者是英国人。Pinborg 为 Richard Rufus 之说又添了一条证据：有理由认为，罗吉尔·培根（Roger Bacon）所批评的理查德·鲁弗斯（Richard Rufus）的某些学说，就见于 *Abstractiones*。归于理查德·鲁弗斯名下而受培根批评的那条主要学说，粗略说来是：即使一个名称所指的实际事物不复存在，名称的意谓（signification）仍可留存；不过，正如培根提示的，持此论者必须为这类名称已失去的实际所指补设某种“习性存在”（habitual being）。培根所反对的，正是这条关于 “*esse habituale*” 的学说。理查德·鲁弗斯确乎持有这样的学说，这一点清楚见于他在《箴言四书注》（*Sentences Commentary*）第三卷区分 22 中对“基督在墓中三天是否为人”（“*Utrum Christus in triduo mortis fuerit homo*”）一问的讨论。[^note-10]
 
@@ -104,7 +104,7 @@ De Rijk 提出 Richard Fishacre 之名，不同意 Macray 提出的 Richard Fitz
 
 [^note-15]: 与此特别相关的是对诡辩句 OMNIS PHOENIX EST 的研究——Lewry（1985）p. 22 在其中看到了这位 Magister 采纳培根所批评观念的可能证据。
 
-[^note-16]: 这些地方与下列诡辩句有关：(1) OMNE COLORATUM EST：引入这一区分，是为了解释该诡辩句反驳中某个论证的一个被认为的错误，即 “*Omne coloratum est. Omne album est coloratum. Ergo omne album est*”。据说这个论证在 “*esse*” 上有歧义：第一个前提里是 “*esse operatio entis*”，第二个前提里则是 “*esse habitudinis sive consequentiae*”。理查德接着把前者按直言命题理解，把后者按假言命题理解。奥卡姆的批评（见前注）在此似乎切中要害：歧义是语义谬误，而命题类型的区分本质上是句法层面的。正如奥卡姆所说，任何命题都可以变成这两种之一。然而重要的观察是：理查德并没有把这一区分当作他本人对该诡辩句偏好的解答，而只是把它当作某些人对反驳中一个论证之错误的说法。(2) OMNIS HOMO DE NECESSITATE EST ANIMAL：这里他同样给出多个解答，第二个解答又是注意与 “*esse*” 相关的语词歧义谬误，如前。但这里似乎清楚，这并不是他偏好的解答；他主张这条诡辩句最好通过应用 “*necessitas*” 的组合与拆分意义来解答。(3) OMNIS ASINUS EST HOMO：这里这一区分再次被提出来，用以解释论证两个前提之间的某种歧义，如：“*Omne animal est homo. Omnis asinus est animal. Ergo omnis asinus est homo*”。
+[^note-16]: 这些地方与下列诡辩句有关：(1) OMNE COLORATUM EST：引入这一区分，是为了解释该诡辩句反驳中某个论证的一个被认为的错误，即 “*Omne coloratum est. Omne album est coloratum. Ergo omne album est*”。据说这个论证在 “*esse*” 上有歧义：第一个前提里是 “*esse operatio entis*”，第二个前提里则是 “*esse habitudinis sive consequentiae*”。理查德接着把前者按直言命题理解，把后者按假言命题理解。奥卡姆的批评（见前注）在此似乎切题：歧义是语义谬误，而命题类型的区分本质上是句法层面的。正如奥卡姆所说，任何命题都可以变成这两种之一。然而重要的观察是：理查德并没有把这一区分当作他本人对该诡辩句偏好的解答，而只是把它当作某些人对反驳中一个论证之错误的说法。(2) OMNIS HOMO DE NECESSITATE EST ANIMAL：这里他同样给出多个解答，第二个解答又是注意与 “*esse*” 相关的语词歧义谬误，如前。但这里似乎清楚，这并不是他偏好的解答；他主张这条诡辩句最好通过应用 “*necessitas*” 的组合与拆分意义来解答。(3) OMNIS ASINUS EST HOMO：这里这一区分再次被提出来，用以解释论证两个前提之间的某种歧义，如：“*Omne animal est homo. Omnis asinus est animal. Ergo omnis asinus est homo*”。
 
 [^note-17]: 这一区分见于 Norman Kretzmann (tr.), *William of Sherwood's Introduction to Logic*, (Minneapolis: University of Minnesota Press, 1966), 125–126，另见 Kretzmann (tr.), *William of Sherwood's Treatise on Syncategorematic Words*, (Minneapolis: University of Minnesota Press, 1968), 92–93。
 
