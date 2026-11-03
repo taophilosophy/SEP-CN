@@ -1,0 +1,29 @@
+{
+ "slug": "reasoning-analogy",
+ "kind": "retranslate",
+ "zh_doc": "r/reasoning-analogy.md",
+ "state": "cleared",
+ "steps": [
+  {
+   "step": "direction",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T21:10:10Z",
+   "evidence": "方向声明（rules/08）：r 批第 3 件 reasoning-analogy（160KB 大批件，274 段 body+156 biblio 照录+0 注）。目标：六道全过同验收判据；执行策略：大批件账本分段填充（build 脚本拆 2-3 轮，每轮过守恒门后合并 compose），模板与工具复用 richard-sophister/reism 成例（build_*.py + rz_postfix）。非目标同前两件。"
+  },
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-03T21:09:47Z",
+   "evidence": "baseline gate: hash_ok"
+  }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-03T21:09:47Z",
+ "version_pin": {
+  "pubinfo_date": "Jan 25, 2019",
+  "archive_edition": "Fall 2024",
+  "sha256": "e700aae9472744685be28869e9493052262501e558ef49a44bb4610f4aa3529f"
+ }
+}
