@@ -73,6 +73,8 @@
 |civic humanism|公民人文主义||
 |cloning|克隆||
 |Cockburn, Catharine Trotter|凯瑟琳·特洛特·考克本||
+|cogito|我思（笛卡尔 cogito ergo sum）||
+|cognitio|认知（经院拉丁术语）||
 |cognitive science|认知科学||
 |common good|公共善|亦作“共同善”；政治哲学|
 |conceptual art|观念艺术||
@@ -169,6 +171,7 @@
 |Harriet Taylor|哈丽雅特·泰勒|密尔合作者/女性主义先声|
 |Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
 |Hartshorne, Charles|查尔斯·哈茨霍恩||
+|hegemonikon|灵魂的主导部分（斯多亚）||
 |Hermann Diels|赫尔曼·第尔斯||
 |Heytesbury, William|威廉·海特斯伯里||
 |Hilary Putnam|希拉里·普特南||
@@ -223,6 +226,7 @@
 |Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
 |Mill, Harriet Taylor|哈丽雅特·泰勒·密尔||
 |modal analysis|模态分析|能力哲学（与条件分析相对）|
+|modi significandi|意指样式（摩迪斯泰语法）||
 |Negative Magnitudes|负量（康德《负量概念试论》）|康德前批判期著作|
 |Norman Daniels|诺曼·丹尼尔斯||
 |Norman Malcolm|诺曼·马尔科姆||
@@ -230,6 +234,7 @@
 |ontological argument|本体论论证||
 |personal identity|人格同一性||
 |Peter Kivy|彼得·基维||
+|pneuma|普纽玛||
 |point-coincidence argument|点重合论证|Stachel 术语|
 |Possibilism|可能论|模态形而上学（与现实主义相对）|
 |practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
@@ -243,6 +248,7 @@
 |sage philosophy|智者哲学（非洲语境）||
 |Saṃdhinirmocana Sūtra|《解深密经》|佛典译名（玄奘译本通行）|
 |Samuel Scheffler|塞缪尔·谢弗勒||
+|scientia|知识（经院拉丁术语）||
 |Shaun Nichols|肖恩·尼科尔斯||
 |Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
 |spacetime substantivalism|时空实体论|与时空关系论相对|
@@ -260,7 +266,9 @@
 |William Paley|威廉·佩利||
 |Wittgensteinian Fideism|维特根斯坦式信仰主义|Kai Nielsen/D.Z. Phillips 论辩|
 |worldline|世界线|相对论通行|
+|yang|阳||
 |Yellow Emperor|黄帝|审定直接命中（中医药/中国古代史）|
+|yin|阴||
 |Øystein Linnebo|林内博|数学哲学；首现括注|
 |īśvara|自在天|亦作“自在”；印度哲学|
 |Jacques Lacan|雅克·拉康|精神分析哲学|
