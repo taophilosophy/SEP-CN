@@ -43,13 +43,18 @@
 | rule of recognition | 承认规则 | lawphil-theory | 学界惯例（哈特法学通译）；凭证 2026-11-03 | 2026-11-03 |
 | monad | 单子 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | pre-established harmony | 前定和谐 | leibniz-mind | 学界惯例（莱布尼茨译本通行，亦作"预定和谐"备查）；凭证 2026-11-03 | 2026-11-03 |
-| apperception | 统觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
+| apperception | 统觉 | leibniz-mind、abhidharma | 学界惯例（莱布尼茨/康德术语通行）；凭证 2026-11-03 | 2026-11-03 |
 | petites perceptions | 微知觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | universal characteristic | 普遍文字 | leibniz-logic-influence | 学界惯例（莱布尼茨 characteristica universalis 通行译法）；凭证 2026-11-03 | 2026-11-03 |
 | Begriffsschrift | 概念文字 | leibniz-logic-influence | 学界惯例（弗雷格中译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | algebra of logic | 逻辑代数 | leibniz-logic-influence | 学界惯例（SUMMARY 定名沿用）；凭证 2026-11-03 | 2026-11-03 |
 | ars inveniendi | 发明术 | leibniz-logic-influence | 学界惯例（莱布尼茨研究通行，与判断术 ars iudicandi 相对）；凭证 2026-11-03 | 2026-11-03 |
 | ars iudicandi | 判断术 | leibniz-logic-influence | 学界惯例（同上）；凭证 2026-11-03 | 2026-11-03 |
+| compossible | 可共存的 | leibniz-modal | 学界惯例（莱布尼茨研究通行，亦作“共容的”备查）；凭证 2026-11-03 | 2026-11-03 |
+| complete individual concept | 完整个体概念 | leibniz-modal | 学界惯例（莱布尼茨研究通行，CIC）；凭证 2026-11-03 | 2026-11-03 |
+| infinite analysis | 无穷分析 | leibniz-modal | 学界惯例（莱布尼茨研究通行）；凭证 2026-11-03 | 2026-11-03 |
+| striving possibles | 力求存在的可能者 | leibniz-modal | 学界惯例（莱布尼茨研究通行，亦作“力争存在的可能者”备查）；凭证 2026-11-03 | 2026-11-03 |
+| superessentialism | 超本质主义 | leibniz-modal | 学界惯例（Mondadori 术语通行译法）；凭证 2026-11-03 | 2026-11-03 |
 | Sleeping Beauty | 睡美人问题 | 语料回收（标题词） | 审定直接命中（自然辩证法·科学哲学）；凭证 2026-11-01 | 2026-11-01 |
 | specific ability | 特殊能力（亦作“特定能力”） | 语料回收（标题词） | 学界惯例（能力哲学（与一般能力相对））；凭证 2026-11-01 | 2026-11-01 |
 | Supreme Ultimate | 太极 | 语料回收（标题词） | 审定直接命中（中国古代史/自然辩证法）；凭证 2026-11-01 | 2026-11-01 |
@@ -68,7 +73,6 @@
 | adverbial theory (of thought) | （思想的）副词论 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | aesthetic judgments | 审美判断（康德语境；aesthetic judgment 单数同） | 语料回收 | 学界惯例（美学/康德译本通行）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | aesthetic experience | 审美经验（亦作“审美体验”） | 语料回收 | 学界惯例（美学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| Agent Intellect | 主动理智（阿奎那；intellectus agens；亦作“能动理智”） | 语料回收（标题词） | 学界惯例（中世纪哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | agnosticism | 不可知论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | altruism | 利他主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | ampliative (inference) | 扩展（推理）／扩展性 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
