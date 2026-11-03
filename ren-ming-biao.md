@@ -212,6 +212,9 @@
 | Magnus Wedderkopf | 马格努斯·韦德科普夫 | leibniz-evil | 学界通行汉译（莱布尼茨通信者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Nicolas Steno | 尼古拉·斯滕诺 | leibniz-evil | 学界通行汉译（丹麦科学家-主教，亦作斯特诺）；待 specs/008 审定库复核 | 2026-11-04 |
 | Johann Friedrich | 约翰·弗里德里希 | leibniz-evil | 学界通行汉译（汉诺威公爵）；待 specs/008 审定库复核 | 2026-11-04 |
+| Hugo Grotius | 雨果·格劳秀斯 | leibniz-ethics | 学界通行汉译（国际法之父）；待 specs/008 审定库复核 | 2026-11-04 |
+| Samuel Pufendorf | 塞缪尔·普芬道夫 | leibniz-ethics | 学界通行汉译（自然法法学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Joseph Butler | 约瑟夫·巴特勒 | leibniz-ethics | 学界通行汉译（《十五篇布道文》作者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
