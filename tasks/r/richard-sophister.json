@@ -2,7 +2,7 @@
   "slug": "richard-sophister",
   "kind": "retranslate",
   "zh_doc": "r/richard-sophister.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -59,6 +59,20 @@
       "actor": "RZ-main-20261104+r2独立复核agent",
       "at": "2026-11-03T20:35:09Z",
       "evidence": "r2 复审（逐句回核原文与逻辑，ADR-0020 复核独立性：由初译外独立 agent 执行，输出 4 处 Minor、0 Critical/Major）：①「圣善的灵」vs 源文自释 nurturing Spirit——采纳改「滋养之灵」（段19）；②「切中要害」vs seem relevant 模态增强——采纳改「似乎切题」（段39/注16）；③H1 方括号串「无法溯源」——不采纳：H1 依模板=SUMMARY 条目文字（SUMMARY 2314 行同形，check_summary 管辖，复审无 SUMMARY 上下文）；④学术工具 3 项缺 PDF 预览——维持模板设计（specs/005 #15 固定三行，Wave-0 验证件 abduction 同形；cordemoy 4 项为异例，已记待 specs/005 规划书回流裁量）。专项核对全过：9 诡辩句+18 脚注键+21 biblio 逐字符+pubinfo 一致。修正后守恒 HARD=0、prose/style/academic/lint 复验全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:59:29Z",
+      "evidence": "r3 终审（终稿验收，冷置后回读）：r2 修正落点复核无残留（滋养之灵 L67/似乎切题 L107）；结构完整性终验——3 编号节+脚注（18 定义）+参考文献（21 定义）+学术工具+其他网络资源+相关词条齐备有序，39 个 [^ 定义与正文引用闭环；定点六检全绿：prose 0/style 0/academic 0 硬错误/math 0 缺失/markdownlint 0/check_terms 0 硬错误；全库 check_all 存量红（学术规范 516，均为并行会话在途词条 biblio/scholar-tools 缺节，开工基线即红，非本词条引入）；CI 于 push 后为最终裁判（本会话不 push）。冷置说明：r2 之后完成 reism 全流程（draft→s3）方回读本词条终读，符合 ADR-0020 单会话冷置要求"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:59:30Z",
+      "evidence": "done：六道全过（direction/clear/draft/s1/s2/s3/r1/r2/r3 见前证），richard-sophister 为 RZ 会话 r-z 385 词条战役首个收口件；账本+成稿+任务三件套入库，断点由 campaign.py status 记录"
     }
   ],
   "blockers": [],
