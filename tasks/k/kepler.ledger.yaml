@@ -1,398 +1,522 @@
 version: 1
 slug: kepler
-params:
-  model: "GLM-5.3-Flash（ZCode 主会话直译）"
-  temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
 segments:
   - id: 1
     kind: body
     source: |-
       Johannes Kepler (1571–1630) is one of the most significant representatives of the so-called Scientific Revolution of the 16ᵗʰ and 17ᵗʰ centuries. Although he received only the basic training of a “magister” and was professionally oriented towards theology at the beginning of his career, he rapidly became known for his mathematical skills and theoretical creativity. As a convinced Copernican, Kepler was able to defend the new system on different fronts: against the old astronomers who still sustained the system of Ptolemy, against the Aristotelian natural philosophers, against the followers of the new “mixed system” of Tycho Brahe—whom Kepler succeeded as Imperial Mathematician in Prague—and even against the standard Copernican position according to which the new system was to be considered merely as a computational device and not necessarily a physical reality. Kepler’s complete corpus can be hardly summarized as a “system” of ideas like scholastic philosophy or the new Cartesian systems which arose in the second half of the 17th century. Nevertheless, it is possible to identify two main tendencies, one linked to Platonism and giving priority to the role of geometry in the structure of the world, the other connected with the Aristotelian tradition and accentuating the role of experience and causality in epistemology. While he attained immortal fame in astronomy because of his three planetary laws, Kepler also made fundamental contributions in the fields of optics and mathematics. To the little-known facts regarding Kepler’s indefatigable scientific activity belong his efforts to develop different technical devices, for instance, a water pump, which he tried to patent and apply in different practical contexts (for the documents, see KGW 21.2.2., pp. 509–57 and 667–691). To his contemporaries he was also a famous mathematician and astrologer; for his own part, he wanted to be considered a philosopher who investigated the innermost structure of the cosmos scientifically.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰内斯·开普勒（Johannes Kepler，1571–1630）是所谓十六、十七世纪科学革命最重要的代表人物之一。尽管他只受过“硕士”级别的基础训练，且职业取向在生涯之初是神学，他却很快以数学才能与理论创造力闻名。作为坚定的哥白尼主义者，开普勒能够在不同战线上为新体系辩护：反对仍坚持托勒密体系的旧天文学家，反对亚里士多德主义的自然哲学家，反对第谷·布拉赫的新“混合体系”的追随者——开普勒在布拉格继任其帝国数学家之职——甚至反对标准的哥白尼立场，后者认为新体系只应被当作计算装置，而不必然是物理实在。开普勒的全部著作很难像经院哲学或十七世纪下半叶兴起的笛卡尔式新体系那样被概括为一个观念“系统”。尽管如此，仍可以辨认出两种主要倾向：一种与柏拉图主义相联，把几何学在世界结构中的作用置于优先地位；另一种与亚里士多德传统相联，强调经验与因果性在认识论中的作用。虽然他因三大行星定律在天文学中赢得不朽声名，开普勒在光学与数学领域也做出了根本性贡献。关于开普勒不懈的科学活动，鲜为人知的事实包括：他努力开发不同的技术装置——例如一台水泵——他试图为其申请专利并用于不同的实际场合（文件见 KGW 21.2.2, pp. 509–57 与 667–691）。对他的同时代人而言，他也是有名的数学家与占星学家；就他自己而言，他希望被看作一位以科学方式探究宇宙最深结构的哲学家。
+    step2: |-
+      约翰内斯·开普勒（Johannes Kepler，1571–1630）是所谓十六、十七世纪科学革命最重要的代表之一。他虽只受过“硕士”级的基础训练，职业取向在生涯之初也偏向神学，却很快以数学才能与理论创造力闻名。作为坚定的哥白尼主义者，开普勒能在多条战线上为新体系辩护：反对仍坚持托勒密体系的旧天文学家，反对亚里士多德主义的自然哲学家，反对第谷·布拉赫之新“混合体系”的追随者——开普勒在布拉格继任其帝国数学家之职——甚至反对标准的哥白尼立场：后者认为新体系只应被当作计算装置，而不必然是物理实在。开普勒的全部著作很难像经院哲学或十七世纪下半叶兴起的笛卡尔式新体系那样被概括成一个观念“系统”。尽管如此，仍可辨认出两种主要倾向：一种接续柏拉图主义，把几何学在世界结构中的作用置于优先；另一种接续亚里士多德传统，强调经验与因果性在认识论中的分量。他因三大行星定律在天文学中赢得不朽声名，但在光学与数学领域同样做出了根本性贡献。开普勒不懈的科学活动中还有一些鲜为人知的事实：他努力开发不同的技术装置——例如一台水泵——试图申请专利并用于多种实际场合（文件见 KGW 21.2.2, pp. 509–57 与 667–691）。在同时代人眼中，他也是有名的数学家与占星学家；而就他自己的期望而言，他是一位以科学方式探究宇宙最深结构的哲学家。
   - id: 2
     kind: body
     source: |-
       ## 1. Life and Works
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
   - id: 3
     kind: body
     source: |-
       Johannes Kepler was born on December 27, 1571 in Weil der Stadt, a little town near Stuttgart in Württemberg in southwestern Germany. Unlike his father Heinrich, who was a soldier and mercenary, his mother Katharina was able to foster Kepler’s intellectual interests. He was educated in Swabia; firstly, at the schools Leonberg (1576), Adelberg (1584) and Maulbronn (1586); later, thanks to support for a place in the famous *Tübinger Stift*, at the University of Tübingen. Here, Kepler became *Magister Artium* (1591) before he began his studies in the Theological Faculty. At Tübingen, where he received a solid education in languages and in science, he met Michael Maestlin, who introduced him to the new world system of Copernicus (see *Mysterium Cosmographicum*, trans. Duncan, p. 63, and KGW 20.1, VI, pp. 144–180).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      约翰内斯·开普勒 1571 年 12 月 27 日生于魏尔德施塔特，这是德国西南部符腾堡州斯图加特附近的一座小镇。与他的父亲海因里希——一名士兵和雇佣兵——不同，母亲卡塔琳娜能够培育开普勒的智识兴趣。他在施瓦本受教育：先在莱昂贝格（1576）、阿德尔贝格（1584）与毛尔布龙（1586）的学校；后来，得益于图宾根神学院（*Tübinger Stift*）的一个名额，进入图宾根大学。在这里，开普勒于 1591 年获得文学硕士（*Magister Artium*），随后开始神学院的学习。在图宾根——他在那里接受了语言与科学的扎实教育——他遇到了迈克尔·梅斯特林，后者把他引入哥白尼的新世界体系（见《宇宙的奥秘》英译 Duncan, p. 63，及 KGW 20.1, VI, pp. 144–180）。
+    step2: |-
+      约翰内斯·开普勒 1571 年 12 月 27 日生于魏尔德施塔特——德国西南部符腾堡州、斯图加特近旁的一座小镇。父亲海因里希是士兵与雇佣兵；母亲卡塔琳娜则能培育开普勒的智识兴趣。他在施瓦本受教育：先就读莱昂贝格（1576）、阿德尔贝格（1584）与毛尔布龙（1586）的学校；后来得益于图宾根神学院（*Tübinger Stift*）的一个名额，进入图宾根大学。1591 年他在那里获得文学硕士（*Magister Artium*），随后开始神学院的学习。图宾根给了他语言与科学的扎实教育；他在此结识迈克尔·梅斯特林——正是后者把他引入哥白尼的新世界体系（见《宇宙的奥秘》英译 Duncan, p. 63，及 KGW 20.1, VI, pp. 144–180）。
   - id: 4
     kind: body
     source: |-
       Before concluding his theology studies at Tübingen, in March/April 1594 Kepler accepted an offer to teach mathematics as the successor to Georg Stadius at the Protestant school in Graz (in Styria, Austria). During this period (1594–1600), he composed many official calendars and prognostications and published his first significant work, the *Mysterium Cosmographicum* (= MC), which catapulted him to fame overnight. On April 27, 1597 Kepler married his first wife, Barbara Müller von Mühleck. As a consequence of the anti-Protestant atmosphere in Graz and thanks also to the positive impact of his MC on the scientific community, he abandoned Graz and moved to Prague in 1600, to work under the supervision of the great Danish astronomer Tycho Brahe (1546–1601). His first contact with Tycho was, however, extremely traumatic, particularly because of the Ursus affair (see below Section 4.1). After Tycho’s unexpected death on October 1601 Kepler succeeded him as Imperial Mathematician. During his time in Prague, Kepler was particularly productive. He completed his most important optical works, *Astronomiae pars* *optica* (=APO) and *Dioptrice* (=D), published several treatises on astrology (*De fundamentis astrologiae certioribus*, *Antwort auf Roeslini Diskurs; Tertius interveniens*), discussed Galileo’s telescopic discoveries (*Dissertatio cum nuncio sidereo*), and composed his most significant astronomical work, the *Astronomia nova* (=AN), which contains his first two laws of planetary motion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在图宾根的神学学业结束之前，开普勒于 1594 年三四月间接受了去格拉茨（奥地利施蒂利亚州）新教学校接任格奥尔格·施塔迪乌斯教授数学的聘请。在这一时期（1594–1600），他编写了许多官方历书与预言书，并出版了第一部重要著作《宇宙的奥秘》（＝*MC*），该书使他一夜成名。1597 年 4 月 27 日，开普勒与第一任妻子芭芭拉·米勒·冯·米勒克结婚。由于格拉茨反新教的气氛，加之其 *MC* 对科学共同体的积极影响，他离开格拉茨，于 1600 年迁居布拉格，在伟大的丹麦天文学家第谷·布拉赫（1546–1601）指导下工作。然而他与第谷的初次接触极为痛苦，尤其因为乌尔苏斯事件（见下文 4.1 节）。1601 年 10 月第谷意外去世后，开普勒继任帝国数学家。在布拉格期间，开普勒尤其多产：他完成了最重要的光学著作《天文学的光学部分》（＝*APO*）与《折射光学》（＝*D*），出版了数篇占星学论文（《论占星学更可靠的基础》《答罗斯林的谈话；第三方插言》），讨论了伽利略的望远镜发现（《与星际信使的对话》），并写出了他最重要的天文学著作《新天文学》（＝*AN*）——其中包含他的前两条行星运动定律。
+    step2: |-
+      图宾根的神学学业尚未结束，开普勒便于 1594 年三四月间接受聘请，赴格拉茨（奥地利施蒂利亚州）新教学校接任格奥尔格·施塔迪乌斯的数学教职。这一时期（1594–1600），他编写了许多官方历书与预言书，并出版第一部重要著作《宇宙的奥秘》（＝*MC*）——一夜成名。1597 年 4 月 27 日，他与第一任妻子芭芭拉·米勒·冯·米勒克结婚。格拉茨反新教的气氛日重，加之 *MC* 在科学共同体的积极反响，他离开格拉茨，1600 年迁居布拉格，在伟大的丹麦天文学家第谷·布拉赫（1546–1601）指导下工作。然而与第谷的初次接触极为痛苦，尤其因为乌尔苏斯事件（见下文 4.1 节）。1601 年 10 月第谷意外去世，开普勒继任帝国数学家。布拉格时期是他尤其多产的阶段：完成最重要的光学著作《天文学的光学部分》（＝*APO*）与《折射光学》（＝*D*）；出版数篇占星学论文（《论占星学更可靠的基础》《答罗斯林的谈话；第三方插言》）；讨论伽利略的望远镜发现（《与星际信使的对话》）；并写出最重要的天文学著作《新天文学》（＝*AN*）——他的前两条行星运动定律即在其中。
   - id: 5
     kind: body
     source: |-
       On August 3, 1611 Kepler’s wife, Barbara Müller, died. In 1612 he moved to Linz, in Upper Austria, and became a professor at the *Landschaftsschule*. There, he served as Mathematician of the Upper Austrian Estates from 1612 to 1628. In 1613, he married Susanne Reuttinger, with whom he had six children. In 1615, he completed the mathematical works *Stereometria doliorum* and *Messekunst Archimedis*. At the end of 1617 Kepler successfully defended his mother, who had been accused of witchcraft. In 1619 he published his principal philosophical work, the *Harmonice mundi* (=HM), and wrote, partially at the same time, the *Epitome astronomiae copernicanae* (=EAC). In 1624 Kepler continued his investigations on mathematics, publishing his work on logarithms (*Chilias logarithmorum*…).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1611 年 8 月 3 日，开普勒的妻子芭芭拉·米勒去世。1612 年他迁往上奥地利的林茨，成为领地学校（*Landschaftsschule*）教授。1612 至 1628 年，他在那里担任上奥地利等级议会的数学家。1613 年，他娶苏珊娜·罗伊廷格为妻，育有六子。1615 年，他完成数学著作《酒桶的立体几何学》与《阿基米德的测量术》。1617 年末，开普勒成功地为被控施行巫术的母亲辩护。1619 年，他出版主要的哲学著作《世界的和谐》（＝*HM*），并几乎同时撰写《哥白尼天文学概要》（＝*EAC*）。1624 年，开普勒继续数学研究，出版其关于对数的著作（《千的对数》……）。
+    step2: |-
+      1611 年 8 月 3 日，开普勒的妻子芭芭拉·米勒去世。1612 年他迁往上奥地利的林茨，任领地学校（*Landschaftsschule*）教授；1612–1628 年担任上奥地利等级议会的数学家。1613 年娶苏珊娜·罗伊廷格，育有六子。1615 年完成数学著作《酒桶的立体几何学》与《阿基米德的测量术》。1617 年末，他为被控施行巫术的母亲成功辩护。1619 年出版主要哲学著作《世界的和谐》（＝*HM*），并几乎同时撰写《哥白尼天文学概要》（＝*EAC*）。1624 年继续数学研究，出版对数著作《千的对数》……
   - id: 6
     kind: body
     source: |-
       In pursuit of an accurate printer for the *Tabulae Rudolphinae*, he moved to Ulm near the end of 1626 and remained there until the end of 1627. In July 1628 he went to Sagan to enter the service of Albrecht von Wallenstein (1583–1634). He died on November 15, 1630 at Regensburg, where he was to present his financial claims before the imperial authorities (for Kepler’s life, Caspar’s biography (1993) is still the best work. KGW 19 contains biographically relevant documents. For a brief overview of Kepler’s ideas and achievements in a broadly biographical context, see Osterhage 2020).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为《鲁道夫星表》寻找一家可靠的印刷商，他于 1626 年末前后迁居乌尔姆，并待到 1627 年底。1628 年 7 月他前往萨根，进入阿尔布雷希特·冯·华伦斯坦（1583–1634）帐下效力。1630 年 11 月 15 日，他在雷根斯堡去世——他原要去那里向帝国当局陈述自己的财务诉求（关于开普勒的生平，卡斯帕尔的传记（1993）至今仍是最佳著作；KGW 19 收有与生平相关的文献。关于开普勒思想与成就的简要概览及其传记语境，见 Osterhage 2020）。
+    step2: |-
+      为《鲁道夫星表》物色可靠的印刷商，他于 1626 年末前后迁居乌尔姆，待到 1627 年底。1628 年 7 月赴萨根，投入阿尔布雷希特·冯·华伦斯坦（1583–1634）帐下效力。1630 年 11 月 15 日在雷根斯堡去世——他原要去那里向帝国当局陈述自己的财务诉求（关于开普勒的生平，卡斯帕尔的传记（1993）至今仍是最佳著作；KGW 19 收有与生平相关的文献。其思想与成就的简要概览及传记语境，见 Osterhage 2020）。
   - id: 7
     kind: body
     source: |-
       ## 2. Philosophy, theology, cosmology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 哲学、神学、宇宙论
+    step2: |-
+      ## 2 哲学、神学、宇宙论
   - id: 8
     kind: body
     source: |-
       There is probably no such thing as “Kepler’s philosophy” in any pure form. Nevertheless, many attempts to deal with the “philosophy of Kepler” have been made, all of which are very valuable in their own way. Some studies have concentrated on a particular text (see, for instance, Jardine 1988, for the *Defense of Tycho against Ursus*)[^jardine-1988], or have followed some particular ideas of Kepler over a longer period of his life and scientific career (see, for instance, Martens 2000, on Kepler’s theory of the archetypes)[^martens-2000]. Others have tried to determine from a philosophical point of view his place in the development of the astronomical revolution from the 15ᵗʰ to the 17ᵗʰ centuries (Koyré 1957 and 1961)[^koyré-1957][^koyré-1961] or in the more general context of the scientific movement of the 17ᵗʰ century (Hall, 1963 and especially Burtt, 1924). Still others have discussed a long list of philosophical principles operating in Kepler’s scientific world, and have claimed to have found, by means of such an analysis, compelling evidence for the interaction between science, philosophy, and religion (Kozhamthadam, 1994). If, in the particular case of Kepler, philosophy is immediately related to astronomy, mathematics and, finally, “cosmology” (a notion which arises much later), the core of these speculations is to be sought in the spectrum of problems with which he dealt in his *Mysterium Cosmographicum* and *Harmonice Mundi* (on this topic, Field 1988 is one of the most representative works on Kepler)[^field-1988]. In addition, because of the particular circumstances of his life and his fascinating personality and genius, the literature on Kepler is extremely wide-ranging, covering a spectrum from literary pieces like Max Brod’s *Tycho Brahes Weg zu Gott* (1915)—though still not free from mistakes concerning Kepler—to general introductions in the genre of historical novels, and even fictional stories and charlatanry on astrology or, running for some years now, portraying him as the assassin of Tycho Brahe. However, according to recent reports, it is still a matter of controversy whether Tycho was assassinated at all (see the [report at phys.org](https://phys.org/news/2012-11-mercury-poisoning-tycho-brahe-death.html)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      恐怕不存在任何纯粹形态的“开普勒哲学”。尽管如此，处理“开普勒的哲学”的尝试已有许多，各自都很有价值。一些研究集中于某一部文本（例如关于《为第谷辩护驳乌尔苏斯》的研究，见 Jardine 1988）[^jardine-1988]，或追踪开普勒某些特定思想在其生命与科学生涯较长时段中的演变（例如关于开普勒原型论的Martens 2000）[^martens-2000]。另一些研究试图从哲学角度确定他在十五至十七世纪天文学革命的发展中（Koyré 1957 与 1961）[^koyré-1957][^koyré-1961]，或在十七世纪科学运动这个更宽泛语境中（Hall 1963，尤其是 Burtt 1924）的位置。还有一些研究讨论了在开普勒科学世界中起作用的一长串哲学原则，并声称通过这种分析找到了科学、哲学与宗教之间相互作用的令人信服的证据（Kozhamthadam 1994）。如果就开普勒这个特例而言，哲学与天文学、数学以及最后与“宇宙论”（一个晚得多的概念）直接相关，那么这些思辨的核心就应到他在《宇宙的奥秘》与《世界的和谐》中处理的问题谱系中寻找（就这一主题，Field 1988 是开普勒研究中最有代表性的著作之一）[^field-1988]。此外，由于他一生的特殊际遇、迷人的个性与天才，关于开普勒的文献极为驳杂：从马克斯·布罗德《第谷·布拉赫走向上帝之路》（1915）这样的文学作品——尽管其中涉及开普勒处仍不免错误——到历史小说体裁的一般性介绍，甚至还有虚构故事和关于占星学的江湖骗术，以及多年来把他描绘成第谷·布拉赫刺客的作品。不过据近来的报告，第谷究竟是否被谋杀仍有争议（见 phys.org 上的报告：https://phys.org/news/2012-11-mercury-poisoning-tycho-brahe-death.html）。
+    step2: |-
+      恐怕不存在任何纯粹形态的“开普勒哲学”。尽管如此，处理“开普勒的哲学”的尝试已有很多，各有其价值：有的聚焦某一部文本（如论《为第谷辩护驳乌尔苏斯》，见 Jardine 1988）[^jardine-1988]；有的追踪开普勒某些特定思想在较长生涯时段中的演变（如论其原型论，Martens 2000）[^martens-2000]；有的试图从哲学角度确定他在十五至十七世纪天文学革命中的位置（Koyré 1957 与 1961）[^koyré-1957][^koyré-1961]，或在十七世纪科学运动的更宽泛语境中的位置（Hall 1963，尤其 Burtt 1924）；还有的讨论了开普勒科学世界中起作用的一长串哲学原则，并声称借这种分析找到了科学、哲学与宗教相互作用的令人信服的证据（Kozhamthadam 1994）。就开普勒这个特例而言，哲学与天文学、数学乃至最后与“宇宙论”（一个晚得多的概念）直接相关——这些思辨的核心，应到他在《宇宙的奥秘》与《世界的和谐》中处理的问题谱系里寻找（就这一主题，Field 1988 是开普勒研究中最有代表性的著作之一）[^field-1988]。加之他一生的特殊际遇、迷人的个性与天才，关于开普勒的文献极为驳杂：从马克斯·布罗德《第谷·布拉赫走向上帝之路》（1915）这类文学作品——其中涉及开普勒处仍不免错误——到历史小说体裁的一般性介绍，甚至虚构故事、占星学的江湖骗术，以及多年来把他描绘成第谷·布拉赫刺客的作品。不过据近来的报告：第谷究竟是否被谋杀，仍有争议（见 phys.org 报告：https://phys.org/news/2012-11-mercury-poisoning-tycho-brahe-death.html）。
   - id: 9
     kind: body
     source: |-
       Kepler mastered, like the best scientists, the most complicated technical issues, especially in astronomy, but he always emphasized his philosophical, even theological, approach to the questions he dealt with: God manifests himself not only in the words of the Scriptures but also in the wonderful arrangement of the universe and in its conformity with the human intellect. Thus, astronomy represents for Kepler, if done philosophically, the best path to God (see Hübner 1975; Methuen 1998 and 2009; Jardine 2009, Kirby 2019)[^hübner-1975][^jardine-2009][^kirby-2019][^methuen-1998][^methuen-2009]. As Kepler at the core of his greatest astronomical work confesses (AN, Part II, chap. 7, KGW 6, p. 108, Engl. trans., p. 183), at the beginning of his career he “was able to taste the sweetness of philosophy … with no special interest whatsoever in astronomy.” And, even in his later work, after having calculated many ephemerides and different astronomical data, Kepler writes in a letter of February 17, 1619 to V. Bianchi: “I also ask you, my friends, that you do not condemn me to the treadmill of mathematical calculations; allow me time for philosophical speculation, my only delight!” (KGW 17, let. N° 827, p. 327, lin. 249– 51).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与最优秀的科学家一样，开普勒精通最复杂的技术问题，尤其是在天文学中；但他始终强调自己处理问题时的哲学进路，甚至神学进路：上帝不仅显现在《圣经》的话语中，也显现在宇宙的奇妙秩序及其与人类理智的契合之中。因此，对开普勒来说，天文学若以哲学的方式来做，便是通往上帝的最佳道路（见 Hübner 1975；Methuen 1998 与 2009；Jardine 2009；Kirby 2019）[^hübner-1975][^jardine-2009][^kirby-2019][^methuen-1998][^methuen-2009]。正如开普勒在其最伟大的天文学著作的核心处所坦承的（AN 第二编第 7 章，KGW 6, p. 108；英译 p. 183），生涯之初他“品尝到哲学的甘美……对天文学没有任何特别的兴趣”。而即使在后期著作中——在计算了众多星历表与各种天文数据之后——开普勒在 1619 年 2 月 17 日致 V. 比安基的信中写道：“我也请求你们，我的朋友们，不要把我钉在数学计算的踏车上；给我留出哲学思辨的时间吧，那是我唯一的快乐！”（KGW 17, let. N° 827, p. 327, lin. 249–51）。
+    step2: |-
+      与最优秀的科学家一样，开普勒精通最复杂的技术问题——尤其在天文学；但他始终强调自己处理问题的哲学进路，甚至神学进路：上帝不仅显现在《圣经》的话语中，也显现在宇宙的奇妙秩序及其与人类理智的契合之中。因此，对开普勒来说，天文学若以哲学的方式来研究，便是通往上帝的最佳道路（见 Hübner 1975；Methuen 1998 与 2009；Jardine 2009；Kirby 2019）[^hübner-1975][^jardine-2009][^kirby-2019][^methuen-1998][^methuen-2009]。正如他在自己最伟大的天文学著作的核心处所坦承（AN 第二编第 7 章，KGW 6, p. 108；英译 p. 183）：生涯之初他“品尝到哲学的甘美……对天文学没有任何特别的兴趣”。而即使到了后期——在计算了众多星历表与各种天文数据之后——开普勒仍在 1619 年 2 月 17 日致 V. 比安基的信中写道：“我也请求你们，我的朋友们，不要把我钉在数学计算的踏车上；给我留出哲学思辨的时间吧，那是我唯一的快乐！”（KGW 17, let. N° 827, p. 327, lin. 249–51）。
   - id: 10
     kind: body
     source: |-
       Especially where Kepler deals with the geometrical structure of the cosmos, he always returns to his Platonic and Neoplatonic framework of thought (Michalik, J., 2019, Rudenko and Lastovets, 2023). Thus, the polyhedral hypothesis (see Section 3 below) he postulated for the first time in his MC represents a kind of “formal cause” constituting the foundational structure of the universe. In addition, an “efficient cause,” which realizes this structure in the corporeal world, is also needed. This is, of course, God the Creator, who accomplished His work according to the model of the five regular polyhedra. Kepler reinterprets the traditional statements about the Creation as an image of the Creator giving to the ancient ideas a more systematic and a quantitative character. Even the doctrine of the Trinity could be geometrically represented, taking the center for the Father, the spherical surface for the Son, and the intermediate space, which is mathematically expressed in the regularity of the relationship between the point and the surface, for the Holy Spirit. In Kepler’s model, we have to be able to reduce all appearances to straightness and curvature as providing the foundation for the geometrical structure of the world’s creation. The very first category, through which God produced a fundamental similitude of the created World to Himself, is that of quantity (see MC, chapter 2, KGW pp. 23–26). Furthermore, quantity was also introduced into the human soul for the specific purpose that this fundamental symmetry could be apprehended and known scientifically.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尤其是在处理宇宙的几何结构时，开普勒总是回到他的柏拉图主义与新柏拉图主义思想框架（Michalik, J., 2019；Rudenko and Lastovets, 2023）。因此，他在 *MC* 中首次提出的多面体假说（见下文第 3 节）代表了一种构成宇宙根基结构的“形式因”。此外，还需要一种“动力因”，在形体世界中实现这一结构。这当然是造物主上帝：他依照五种正多面体的模型完成了他的作品。开普勒把关于创世的传统论述重新诠释为造物主的一个形象，赋予古代理念更系统、更定量的品格。甚至三位一体的教义也可以几何地表示：以中心为圣父，以球面为圣子，以中间的空间——它在数学上表现为点与面之间关系的规则性——为圣灵。在开普勒的模型中，我们必须能够把一切显现还原为直与曲，它们为世界之创造的几何结构提供基础。上帝借以使被造世界与自己根本相似的第一范畴，就是量这个范畴（见 MC 第 2 章，KGW pp. 23–26）。此外，量也被引入人类灵魂，其特定目的正是使这种根本对称性能够被科学地把握和认识。
+    step2: |-
+      尤其在处理宇宙的几何结构时，开普勒总是回到他的柏拉图主义与新柏拉图主义思想框架（Michalik, J., 2019；Rudenko and Lastovets, 2023）。因此，他在 *MC* 中首次提出的多面体假说（见下文第 3 节）代表一种“形式因”——宇宙根基结构的构成者。此外还需要一种“动力因”，在形体世界中实现这一结构：这当然是造物主上帝，他依照五种正多面体的模型完成了他的作品。开普勒把关于创世的传统论述重新诠释为造物主的一个形象，赋予古代理念更系统、更定量的品格。甚至三位一体的教义也可以几何地表示：以中心为圣父，以球面为圣子，以中间的空间——数学上表现为点与面之间关系的规则性——为圣灵。在开普勒的模型中，我们必须能够把一切显现还原为直与曲：它们为世界之创造的几何结构奠基。上帝借以使被造世界与自己根本相似的第一范畴，就是量（见 MC 第 2 章，KGW pp. 23–26）。此外，量也被引入人类灵魂——其特定目的，正是使这种根本对称性能够被科学地把握和认识。
   - id: 11
     kind: body
     source: |-
       This kind of speculation also belongs to the basic principles of Kepler’s philosophical optics. In Chapter 1 of APO (“On the Nature of Light”), Kepler gives a new account of this “Trinitarian Cosmogony.” As he admits in a letter to Thomas Harriot (1560–1621), his approach here is more theological than optical (KGW 15, let. 394, p. 348, lin. 18). Similar to his speculations in MC, Kepler explains again the symmetry between God and the Creation, but now he goes slightly beyond the limits of a theologico-geometrical reflection. Firstly, he seems to assume that the bodies of the world were provided in the Creation with some powers which enable them to exceed their geometrical limits and to act on other bodies (magnetic power is a good example of this). Secondly, the principle of symmetry introduced into matter constitutes “the most excellent thing in the whole corporeal world, the matrix of the animate faculties, and the chain linking the corporeal and spiritual world” (APO, Engl. trans., p. 19). Thirdly, as expressed by Kepler in a wonderful, long Latin sentence, with multiple subordinations, this principle “has passed over into the same laws (*in leges easdem*) by which the world was to be furnished” (ibid., p. 20; the original passage is in KGW 2, p. 19: the marginal note in the edition is “*lucis encomium*”). Finally, these reflections are concluded with a remark, in which—as with Copernicus, Marsilio Ficino, and others—the central position of the Sun is legitimated because of its function in spreading light and, indirectly, life. Similar speculations are still present in EAC (KGW 7, pp. 47–48 and 267). It is also worth noting that these speculations are of vital importance to the special way in which Kepler conceived of astrology (see, for instance, *De fundamentis astrologiae certioribus* with Engl. trans. and commentary in Field 1984)[^field-1984].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这类思辨同样属于开普勒哲学光学的基本原则。在 *APO* 第 1 章（“论光的性质”）中，开普勒对这一“三一创世论”给出了新的论述。正如他在致托马斯·哈里奥特（1560–1621）的信中所承认的，他在此的进路更是神学的而非光学的（KGW 15, let. 394, p. 348, lin. 18）。与他在 *MC* 中的思辨类似，开普勒再次解释上帝与创造之间的对称性，但这次他稍稍越出了神学-几何学反思的界限。首先，他似乎假定世界的物体在创世时被赋予了一些能力，使它们能够超出其几何界限并作用于其他物体（磁力就是一个好例子）。其次，引入物质中的对称性原则构成了“整个形体世界中最卓越的东西、诸有生命官能的母体、连接形体世界与精神世界的链条”（APO 英译 p. 19）。第三，正如开普勒在一个出色的、多重从句的冗长拉丁句中所表达的，这一原则“已转入世界赖以被装备起来的同一批法则之中”（*in leges easdem*）（同上 p. 20；原文见 KGW 2, p. 19：该版边注为“*lucis encomium*”）。最后，这些反思以下述评论作结：与哥白尼、马尔西利奥·费奇诺等人一样，太阳的中心位置因其散播光并间接散播生命的作用而得到辩护。类似的思辨在 *EAC* 中仍然可见（KGW 7, pp. 47–48 与 267）。同样值得注意的是：这些思辨对开普勒构思占星学的特殊方式至关重要（例如《论占星学更可靠的基础》，英译与评注见 Field 1984）[^field-1984]。
+    step2: |-
+      这类思辨同样属于开普勒哲学光学的基本原则。在 *APO* 第 1 章（“论光的性质”）中，开普勒对这一“三一创世论”给出新的论述。正如他在致托马斯·哈里奥特（1560–1621）的信中所承认的：他在此的进路更是神学的而非光学的（KGW 15, let. 394, p. 348, lin. 18）。与 *MC* 中的思辨类似，开普勒再次解释上帝与创造之间的对称性，但这次稍稍越出了神学-几何学反思的界限。首先，他似乎假定：世界的物体在创世时被赋予了一些能力，使其能超出几何界限并作用于其他物体（磁力即好例）。其次，引入物质的对称性原则构成了“整个形体世界中最卓越的东西、诸有生命官能的母体、连接形体世界与精神世界的链条”（APO 英译 p. 19）。第三，正如开普勒在一个出色的多重从句长拉丁句中所表达的，这一原则“已转入世界赖以被装备起来的同一批法则之中”（*in leges easdem*）（同上 p. 20；原文见 KGW 2, p. 19：该版边注为“*lucis encomium*”）。最后，这些反思以下述评论作结：与哥白尼、马尔西利奥·费奇诺等人一样，太阳的中心位置因其散播光、并间接散播生命的作用而得到辩护。类似思辨在 *EAC* 中仍可见到（KGW 7, pp. 47–48 与 267）。同样值得注意的是：这些思辨对开普勒构思占星学的特殊方式至关重要（如《论占星学更可靠的基础》，英译与评注见 Field 1984）[^field-1984]。
   - id: 12
     kind: body
     source: |-
       ## 3. The five regular solids
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 五种正多面体
+    step2: |-
+      ## 3 五种正多面体
   - id: 13
     kind: body
     source: |-
       Philosophical, geometrical and even theological speculations related to the five regular polyhedra, the cube or hexahedron, the tetrahedron, the octahedron, the icosahedron and the dodecahedron, were known at least from the time of the ancient Pythagoreans. Since Plato’s *Timaeus*, these five geometrical solids played a leading role, and for the later tradition they became known as the “five Platonic solids”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与五种正多面体——立方体或六面体、四面体、八面体、二十面体与十二面体——相关的哲学、几何学乃至神学思辨，至少自古毕达哥拉斯学派起就已为人所知。自柏拉图《蒂迈欧》以来，这五种几何体扮演着主导性的角色，在后来的传统中它们以“五种柏拉图立体”之名为人所知。
+    step2: |-
+      与五种正多面体——立方体（六面体）、四面体、八面体、二十面体、十二面体——相关的哲学、几何学乃至神学思辨，至少自古毕达哥拉斯学派起即已出现。自柏拉图《蒂迈欧》以来，这五种几何体扮演主导角色；在后来的传统中，它们以“五种柏拉图立体”之名为人所知。
   - id: 14
     kind: body
     source: |-
       *Figure 1.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 1。*
+    step2: |-
+      *图 1。*
   - id: 15
     kind: body
     source: |-
       ![figure 1](../assets/kepler/figure1.jpg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![figure 1](../yuanwen/assets/kepler/figure1.jpg)
+    step2: |-
+      ![figure 1](../yuanwen/assets/kepler/figure1.jpg)
   - id: 16
     kind: body
     source: |-
       Figure 1. Table 3 in *Mysterium Cosmographicum*, with Kepler’s model illustrating the intercalation of the five regular solids between the imaginary spheres of the planets (cf. KGW 1, pp. 26–27).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 1。《宇宙的奥秘》中的表 3，开普勒的模型显示五种正多面体内接于诸行星的假想球之间的情况（参 KGW 1, pp. 26–27）。
+    step2: |-
+      图 1。《宇宙的奥秘》中的表 3：开普勒的模型显示五种正多面体内接于诸行星假想球之间的情形（参 KGW 1, pp. 26–27）。
   - id: 17
     kind: body
     source: |-
       Plato establishes at the physical and chemical level a correspondence between them and the five elements—earth, water, air, fire and ether—and tries to provide this correspondence with geometrical grounds. A further source of historically decisive importance is the fact that the five regular polyhedra are treated in Euclid’s *Elements of Geometry*, a work that for Kepler, especially in the Platonic approach of Proclus, has a central position (Claessens 2011)[^claessens-2011]. At the very beginning of HM Kepler complains about the fact that the modern philosophical and mathematical school of Peter Ramus (1515–1572) had not been able to understand the architectonic structure of the *Elements*, which are crowned with the treatment of the five regular polyhedra. In addition, a revival of Platonic philosophy was taking place in Kepler’s time and inspired not only philosophers and mathematicians but also architects, artists and illustrators (see Field 1997)[^field-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      柏拉图在物理与化学的层面上建立了它们与五种元素——土、水、气、火与以太——的对应，并试图为这种对应提供几何学的根据。另一个具有历史决定性意义的来源是：五种正多面体在欧几里得《几何原本》中得到了处理——对开普勒而言，尤其在普罗克洛的柏拉图式进路中，这部著作占据中心位置（Claessens 2011）[^claessens-2011]。在 *HM* 的开篇，开普勒抱怨彼得·拉米斯（1515–1572）的现代哲学与数学学派未能理解《原本》的建筑学结构——它以对五种正多面体的处理而登峰造极。此外，开普勒的时代恰逢柏拉图哲学的复兴，它不仅启发了哲学家与数学家，也启发了建筑师、艺术家与插图画家（见 Field 1997）[^field-1997]。
+    step2: |-
+      柏拉图在物理与化学层面建立了五种正多面体与五种元素——土、水、气、火、以太——的对应，并试图为这种对应提供几何学根据。另一具有历史决定性意义的来源是：五种正多面体在欧几里得《几何原本》中得到处理——对开普勒而言，尤其在普罗克洛的柏拉图式进路中，这部著作占据中心位置（Claessens 2011）[^claessens-2011]。*HM* 开篇处，开普勒抱怨彼得·拉米斯（1515–1572）的现代哲学与数学学派未能理解《原本》的建筑学结构——它以对五种正多面体的处理而登峰造极。此外，开普勒的时代恰逢柏拉图哲学复兴，它不仅启发哲学家与数学家，也启发建筑师、艺术家与插图画家（见 Field 1997）[^field-1997]。
   - id: 18
     kind: body
     source: |-
       Amidst this general interest in the regular polyhedra during the Renaissance, Kepler was specifically concerned with their application in the resolution of a cosmological problem, namely the reality of the Copernican system (see Section 5 below). To achieve this goal, he introduced his polyhedral hypothesis already in MC, where he looked for an “a priori” foundation of the Copernican system (see Aiton 1977, Di Liscia 2009)[^aiton-1977][^di-2009]. The background for such an approach seems to be that the “a posteriori” way, which according to Kepler was taken over by Copernicus himself, cannot lead to a necessary affirmation of the reality of the new world system, but only to a probable, and hence to an “instrumental”, representation of it as a computational device. This is the “Osiander” or “Wittenberg Interpretation” of Copernicus which Kepler directly attacked not only in his MC but also later in his AN (see Westman 1972, 1975 and 2011)[^westman-1972]. In MC, he claimed to have found an answer to the following three main questions: 1) the number of the planets; 2) the size of the orbits, i.e., the distances; 3) the velocities of the planets in their orbits. By referring to the polyhedral hypothesis (see Figure 1), Kepler found a definitive and simple answer to the first question. By intercalating the polyhedra between the spheres which carry the planets, one must inevitably finish with the sphere of Saturn surrounding the cube—there are no more polyhedra to be intercalated and, as remains the standard case for Renaissance and modern astronomy, there are no more planets to be carried by the spheres. It is absolutely decisive for the consistency of the argument that the necessity of the hypothesis is guaranteed by the fact that it already exists as a mathematical demonstration (by Euclid, *Elements XIII*, prop. 18, schol.), according to which there are only five regular (“Platonic” for the tradition) polyhedra. For the second and third questions the answer is, of course, not as evident as for the first one. However, Kepler was able to show that distances which are derived from the geometrical model of the five regular bodies fit much better with the Copernican system than with that of Ptolemy. The answer to the third question needs, in addition, the introduction of a notion of power that emanates from the Sun and extends to the outer limit of the universe (see Stephenson 1987, pp. 9–20)[^stephenson-1987].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在文艺复兴对正多面体的普遍兴趣之中，开普勒特别关心的是它们在解决一个宇宙论问题——哥白尼体系的实在性（见下文第 5 节）——上的应用。为实现这一目标，他早在 *MC* 中就引入了多面体假说，在那里他为哥白尼体系寻找一种“先天”的奠基（见 Aiton 1977, Di Liscia 2009）[^aiton-1977][^di-2009]。这种进路的背景似乎是：按照开普勒的看法，“后天”的道路——哥白尼本人走的正是这条路——无法导向对新世界体系实在性的必然肯定，只能导向一个盖然的、因而是“工具论的”表象，把它当作计算装置。这就是对哥白尼的“奥西安德尔”或“维滕贝格诠释”，开普勒不仅在 *MC* 中、后来还在 *AN* 中直接攻击了它（见 Westman 1972, 1975 与 2011）[^westman-1972]。在 *MC* 中，他声称找到了以下三个主要问题的答案：1）行星的数目；2）轨道的大小，即距离；3）行星在轨道中的速度。借助多面体假说（见图 1），开普勒对第一个问题找到了决定性而简洁的答案：把多面体内接于承载行星的诸球之间，人们必然止步于包围立方体的土星之球——再没有多面体可内接，而按照文艺复兴与现代天文学的标准情形，也再没有行星可由诸球承载。对论证的一致性而言，绝对决定性的一点是：假说的必然性由如下事实保证——它已经作为数学演示存在（欧几里得《原本》第十三卷命题 18 之后的附录），据此只有五种正多面体（对传统而言即“柏拉图立体”）。对第二与第三个问题，答案当然不像第一个那样明显。然而开普勒能够表明：由五种正多面体的几何模型导出的距离，与哥白尼体系的吻合远胜于与托勒密体系的吻合。第三个问题的回答还需要引入一个来自太阳、一直延伸到宇宙最外端的 power（力）的概念（见 Stephenson 1987, pp. 9–20）[^stephenson-1987]。
+    step2: |-
+      文艺复兴对正多面体的兴趣普遍高涨；在其中，开普勒特别关心它们在解决一个宇宙论问题上的应用——哥白尼体系的实在性（见下文第 5 节）。为此，他早在 *MC* 中就引入多面体假说，为哥白尼体系寻找一种“先天”的奠基（见 Aiton 1977, Di Liscia 2009）[^aiton-1977][^di-2009]。这种进路的背景似乎是：“后天”的道路——照开普勒的看法，哥白尼本人走的正是这条路——无法导向对新世界体系实在性的必然肯定，只能导向盖然的、因而是“工具论的”表象：把它当作计算装置。这就是对哥白尼的“奥西安德尔”或“维滕贝格诠释”；开普勒不仅在 *MC* 中、后来还在 *AN* 中直接攻击了它（见 Westman 1972, 1975 与 2011）[^westman-1972]。在 *MC* 中，他声称找到了三个主要问题的答案：1）行星的数目；2）轨道的大小，即距离；3）行星在轨道中的速度。借助多面体假说（见图 1），第一问得到了决定性而简洁的回答：把多面体内接于承载行星的诸球之间，必然止步于包围立方体的土星之球——再无多面体可内接，而按文艺复兴与现代天文学的标准情形，也再无行星可由诸球承载。对论证的一致性而言，绝对决定性的一点是：假说的必然性由如下事实保证——它已作为数学演示存在（欧几里得《原本》第十三卷命题 18 之后的附录），据此正多面体（传统所谓“柏拉图立体”）仅有五种。第二与第三个问题的答案当然不如第一个明显。但开普勒能够表明：由五种正多面体的几何模型导出的距离，与哥白尼体系的吻合远胜于与托勒密体系的吻合。第三问的回答还需引入一个 power（力）的概念：它发自太阳，一直延伸到宇宙的最外端（见 Stephenson 1987, pp. 9–20）[^stephenson-1987]。
   - id: 19
     kind: body
     source: |-
       In HM, Kepler continues his investigations of the polyhedra at a cosmological as well as a mathematical level. In the second book, dealing with “congruence” (which here does not mean, as it does today, “the same size and shape”, but the property of figures filling the surface together with other regular polygons – on the plane—or, to build closed geometric solids – hence, in space), Kepler made new mathematical discoveries working with tessellations. He discovered two new solids, the so-called “small and great stellated dodecahedrons”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 *HM* 中，开普勒在宇宙论与数学两个层面继续他对多面体的研究。在讨论“贴合”的第二卷中（这里的“贴合”不似今日指“同大小同形状”，而是指图形与其他正多边形一起铺满平面——或在空间中构成封闭几何体的性质），开普勒以镶嵌图形的研究做出了新的数学发现。他发现了两种新的立体，即所谓的“小星形十二面体与大星形十二面体”。
+    step2: |-
+      在 *HM* 中，开普勒于宇宙论与数学两个层面继续多面体研究。第二卷讨论“贴合”（此处非今日“同大小同形状”之义，而是指：图形与其他正多边形一起铺满平面，或在空间中构成封闭几何体的性质）；借镶嵌图形的研究，开普勒做出了新的数学发现——他发现了两种新立体，即所谓的“小星形十二面体与大星形十二面体”。
   - id: 20
     kind: body
     source: |-
       The treatment of the regular polyhedra constitutes one of the two principal pillars of HM, Book 5 (chapters 1–2), where the third law is formulated (see Caspar in KGW 6, Nachbericht, p. 497, and Engl. trans. p. xxxiii). Following his approach from MC and complementing it with occasional references to his EAC, Kepler makes use again of the Platonic solids to determine the number of the planets and their distances from the Sun. Meanwhile, he has learned that the application of his old polyhedral hypothesis has limits. As he tells us in a footnote in the second edition of his MC from 1621, he was earlier convinced of the possibility of explaining the eccentricities of the planetary orbits by values derived “a priori” from this hypothesis (MC, Engl. trans., p. 189). Now, with access to the observational data of Tycho, Kepler had to exclude this explanation and look for another. And this is one of the most significant achievements of his basic harmonies (which in turn are derived from the regular polygons), constituting the second great pillar of Book 5.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对正多面体的处理构成 *HM* 第五卷（第 1–2 章）的两大主要支柱之一，第三定律即在其中得到表述（见 Caspar 载 KGW 6, Nachbericht, p. 497，及英译 p. xxxiii）。开普勒延续他在 *MC* 中的进路，辅以对 *EAC* 的偶尔引用，再次利用柏拉图立体来确定行星的数目及其与太阳的距离。与此同时，他已经了解到：旧的多面体假说的应用有其限度。正如他在 1621 年 *MC* 第二版的一条脚注中所说，他此前曾相信可以由该假说“先天”导出的数值来解释行星轨道的偏心率（MC 英译 p. 189）。如今，借助第谷的观测数据，开普勒不得不排除这种解释并另寻他途。而这正是他的基本和谐——它们又派生自正多边形——最重要的成就之一，构成第五卷的第二大支柱。
+    step2: |-
+      对正多面体的处理构成 *HM* 第五卷（第 1–2 章）两大主要支柱之一，第三定律即在其中得到表述（见 Caspar 载 KGW 6, Nachbericht, p. 497，及英译 p. xxxiii）。开普勒延续 *MC* 的进路，辅以对 *EAC* 的偶尔引用，再次利用柏拉图立体确定行星数目及其与太阳的距离。与此同时，他已了解到：旧的多面体假说应用有其限度。正如他在 1621 年 *MC* 第二版的一条脚注中所说，他此前曾相信：行星轨道的偏心率可以由该假说“先天”导出的数值来解释（MC 英译 p. 189）。如今借助第谷的观测数据，开普勒不得不排除这种解释、另寻他途——而这正是他的基本和谐（又派生自正多边形）最重要的成就之一，构成第五卷的第二大支柱。
   - id: 21
     kind: body
     source: |-
       ## 4. Epistemology and philosophy of sciences
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 认识论与科学哲学
+    step2: |-
+      ## 4 认识论与科学哲学
   - id: 22
     kind: body
     source: |-
       Almost all of Kepler’s scientific investigations reflect a philosophical background, and many of his philosophical questions find their final answer, even if they are of scientific interest, in the realm of theology. From a very modern point of view, one could highlight Kepler’s epistemological thought in terms of four different items: realism; causality; his philosophy of mathematics; and his—own particular—empiricism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒几乎所有的科学研究都反映了一种哲学背景；他的许多哲学问题，即便具有科学的旨趣，其最终答案也在神学的领域之中。从一个相当现代的视角出发，可以把开普勒的认识论思想凸显为四个不同的条目：实在论；因果性；他的数学哲学；以及他那独特的经验主义。
+    step2: |-
+      开普勒几乎所有的科学研究都反映一种哲学背景；他的许多哲学问题——即便具有科学的旨趣——其最终答案也在神学领域。从一个相当现代的视角出发，可以把开普勒的认识论思想凸显为四个条目：实在论；因果性；他的数学哲学；以及他那独特的经验主义。
   - id: 23
     kind: body
     source: |-
       ### 4.1 Realism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 实在论
+    step2: |-
+      ### 4.1 实在论
   - id: 24
     kind: body
     source: |-
       Realism is a constant and integral part of Kepler’s thought, and one which appears in sophisticated form from the outset. The reason for this is that his realism always runs parallel to his defense of the Copernican worldview, which appeared from his first public pronouncements and publications.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      实在论是开普勒思想中一个恒定而不可分割的组成部分，而且从一开始就以精致的形式出现。原因在于：他的实在论始终与他对哥白尼世界观的辩护并行，而这种辩护从他最早的公开声明与出版物中就已出现。
+    step2: |-
+      实在论是开普勒思想中恒定而不可分割的组成部分，且从一开始就以精致的形式出现。缘由在于：他的实在论始终与他对哥白尼世界观的辩护并行——这种辩护从他最早的公开声明与出版物中已然可见。
   - id: 25
     kind: body
     source: |-
       Many of Kepler’s thoughts about epistemology can be found in his *Defense of Tycho against Ursus* or *Contra Ursum* (=CU), a work which emerged from a polemical framework, the plagiarism conflict between Nicolaus Raimarus Ursus (1551–1600) and Tycho Brahe: causality and physicalization of astronomical theories, the concept and status of astronomical hypotheses, the polemic “realism-instrumentalism”, his criticism of skepticism in general, the epistemological role of history, etc. It is one of the most significant works ever written on this subject and is sometimes compared with Bacon’s *Novum organum* and Descartes’ *Discourse on Method* (Jardine 1988, p. 5; for an excellent new edition and complete study of this work see Jardine / Segonds 2008)[^jardine-1988][^jardine-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒关于认识论的许多思想见于其《为第谷辩护驳乌尔苏斯》或《驳乌尔苏斯》（＝*CU*）。这部著作诞生于一个论战性的框架：尼古劳斯·莱马鲁斯·乌尔苏斯（1551–1600）与第谷·布拉赫之间的剽窃冲突。其议题包括：天文理论的因果性与物理化、天文学假说的概念与地位、“实在论-工具论”的论战、他对一般怀疑论的批评、历史的认识论作用等等。它是关于这一主题所写过的最有意义的著作之一，有时被与培根的《新工具》和笛卡尔的《谈谈方法》相提并论（Jardine 1988, p. 5；关于这部著作的优秀新版与完整研究，见 Jardine / Segonds 2008）[^jardine-1988][^jardine-2008]。
+    step2: |-
+      开普勒关于认识论的许多思想，见于其《为第谷辩护驳乌尔苏斯》或《驳乌尔苏斯》（＝*CU*）。这部著作诞生于论战性的框架：尼古劳斯·莱马鲁斯·乌尔苏斯（1551–1600）与第谷·布拉赫的剽窃冲突。议题包括：天文理论的因果性与物理化、天文假说的概念与地位、“实在论-工具论”论战、他对一般怀疑论的批评、历史的认识论作用等等。它是这一主题所曾有过的最有意义的著作之一，有时被与培根《新工具》、笛卡尔《谈谈方法》相提并论（Jardine 1988, p. 5；此书的优秀新版与完整研究见 Jardine / Segonds 2008）[^jardine-1988][^jardine-2008]。
   - id: 26
     kind: body
     source: |-
       The focus of the epistemological issues could be ranked *mutatis mutandi* with modern discussion surrounding the scientific status of astronomical theories (however, as Jardine has pointed out, it would be sounder to read Kepler’s CU more as a work against skepticism than in the context of the modern realism/instrumentalism polemic). For Pierre Duhem (1861–1916), for instance, the position of Andreas Osiander, which was adopted by Ursus and which was, according to Duhem, naively criticized by Kepler in his MC, represents the modern approach known as “instrumentalism”. According to this epistemological position, held by Duhem himself, scientific theories are not to be closely linked to the concepts of truth and falsehood. Hypotheses and scientific laws are nothing more than “instruments” for describing and predicting phenomena (seldom for explaining them). The aim of physical theories is not to offer a causal explanation or to study the causes of phenomena, but simply to represent them. In the best-case scenario, theories are able to order and classify what is decisive for their predictive capacity (Duhem 1908, 1914)[^duhem-1908].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些认识论议题的焦点，可以 mutatis mutandis 地与现代围绕天文学理论之科学地位的讨论对应排列（不过，正如贾丁指出的，更稳妥的做法是把开普勒的 *CU* 更多地读作一部反对怀疑论的著作，而不是放在现代实在论/工具论论战的语境中）。例如，对皮埃尔·迪昂（1861–1916）而言，安德烈亚斯·奥西安德尔的立场——乌尔苏斯采纳了它，而按迪昂的看法开普勒在 *MC* 中对它作了天真的批评——代表着现代所谓的“工具主义”进路。照这一认识论立场（迪昂本人即持此立场），科学理论不应与真理和虚假的概念紧密相联。假说与科学定律不过是描述与预测现象的“工具”（很少用于解释现象）。物理学理论的目的不是提供因果解释或研究现象的原因，而只是表象它们。在最好的情形下，理论能够整理并分类那些对它们的预测能力至关重要的东西（Duhem 1908, 1914）[^duhem-1908]。
+    step2: |-
+      这些认识论议题的焦点，可以 mutatis mutandis 地与现代围绕天文学理论之科学地位的讨论对应排列（不过正如贾丁所指出的：更稳妥的做法，是把开普勒的 *CU* 更多地读作一部反对怀疑论的著作，而非置于现代实在论/工具论论战的语境）。例如对皮埃尔·迪昂（1861–1916）而言，安德烈亚斯·奥西安德尔的立场——乌尔苏斯采纳了它，而照迪昂的看法开普勒在 *MC* 中对它作了天真的批评——代表着现代所谓的“工具主义”进路。照这一认识论立场（迪昂本人即持之），科学理论不应与真理和虚假的概念紧密相联：假说与科学定律不过是描述与预测现象的“工具”（很少用于解释现象）；物理学理论的目的不是提供因果解释或研究现象之因，而只是表象它们；在最好的情形下，理论能整理并分类那些对其预测能力至关重要的东西（Duhem 1908, 1914）[^duhem-1908]。
   - id: 27
     kind: body
     source: |-
       Contrary to Tycho and Kepler, Ursus held a fictionalist position in astronomy. Yet in the very beginning of his work *De hypothesibus*, Ursus makes a clear declaration about the nature of astronomical theories, which is very similar to the approach suggested by Osiander in his forward to Copernicus’ *De revolutionibus*: a hypothesis is a “fictitious supposition”, introduced just for the sake of “saving the motions of the heavenly bodies” and to “calculate them” (trans. Jardine 1988, p. 41)[^jardine-1988]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与第谷和开普勒相反，乌尔苏斯在天文学中持一种虚构主义的立场。然而，乌尔苏斯在其著作《论假说》的一开头就对天文学理论的性质作出了清晰的声明，与奥西安德尔在哥白尼《天球运行论》导言中提示的进路非常相似：假说是一种“虚构的设定”，引入它只是为了“拯救天体的运动”并“计算它们”（英译 Jardine 1988, p. 41）[^jardine-1988]
+    step2: |-
+      与第谷和开普勒相反，乌尔苏斯在天文学中持虚构主义立场。然而在其著作《论假说》的一开头，乌尔苏斯就对天文学理论的性质作出清晰声明，与奥西安德尔在哥白尼《天球运行论》导言中提示的进路非常相似：假说是一种“虚构的设定”，引入它只为“拯救天体的运动”并“计算它们”（英译 Jardine 1988, p. 41）[^jardine-1988]
   - id: 28
     kind: body
     source: |-
       Following his approach in MC and anticipating the opening pages of his later AN (see particularly AN, II.21: “Why, and to what extent, may a false hypothesis yield the truth?” Engl. trans., pp. 294–301), Kepler addresses the question of Copernicanism and its reception by thinkers such as Osiander, who emphasized that the truth of astronomical hypotheses cannot necessarily be deduced from the correct prediction of astronomical facts. According to this interpretation, Copernican hypotheses are not necessarily true even if they are able to save the phenomena, otherwise one would commit a *fallacia affirmationis consequentis*. However, according to Kepler, “this happens only by chance and not always, but only when the error in the one proposition meets another proposition, whether true or false, appropriate for eliciting the truth” (trans. Jardine, p. 140). To be noted is that, as Jardine (2005, p. 137) has pointed out, the modern scientific realist departs from a real independent world, while Kepler’s notion of truth presupposes that neither nature nor the human mind are independent of God’s mind (Jardine 2005, p. 137)[^jardine-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒延续他在 *MC* 中的进路，并预示了后来 *AN* 的开篇几页（尤其见 AN II.21：“为什么以及在何种程度上，一个假假说可以产生真理？”英译 pp. 294–301），处理了哥白尼主义及其被奥西安德尔一类思想家接受的问题——这些人强调：天文学假说的真，不能必然地从对天文事实的正确预测中推出。照这种诠释，哥白尼假说即便能够拯救现象，也未必为真，否则人们就会犯下“肯定后件的谬误”（*fallacia affirmationis consequentis*）。然而照开普勒的看法，“这只是碰巧发生，并非总是如此；只有当某一命题中的错误遇上另一条适合引出真理的命题（无论真假）时，才会如此”（英译 Jardine, p. 140）。值得注意的是，正如贾丁（2005, p. 137）所指出的：现代的科学实在论者从一个实在的独立世界出发，而开普勒的真理概念预设了自然与人类心智都不独立于上帝的心智（Jardine 2005, p. 137）[^jardine-2005]。
+    step2: |-
+      开普勒延续 *MC* 的进路，并预示了后来 *AN* 的开篇几页（尤其见 AN II.21：“为什么以及在何种程度上，一个假假说可以产生真理？”英译 pp. 294–301），处理了哥白尼主义及其被奥西安德尔一类思想家接受的问题——这些人强调：天文假说的真，不能必然地从对天文事实的正确预测中推出。照这种诠释，哥白尼假说即便能拯救现象也未必为真——否则人们就会犯“肯定后件的谬误”（*fallacia affirmationis consequentis*）。而照开普勒的看法，“这只是碰巧发生，并非总是如此；只有当某一命题中的错误遇上另一条适合引出真理的命题（无论真假）时，才会如此”（英译 Jardine, p. 140）。值得注意的是：正如贾丁（2005, p. 137）所指出的，现代的科学实在论者从一个实在的独立世界出发，而开普勒的真理概念预设——自然与人类心智都不独立于上帝的心智（Jardine 2005, p. 137）[^jardine-2005]。
   - id: 29
     kind: body
     source: |-
       ### 4.2 Causality
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 因果性
+    step2: |-
+      ### 4.2 因果性
   - id: 30
     kind: body
     source: |-
       The reality of astronomical hypotheses—and hence the superiority of the Copernican world system—implied a physicalization of astronomical theories and, in turn, an accentuation of causality. Despite Kepler’s criticism of Aristotle, this aspect can actually be considered the realization in the field of astronomy of the old Aristotelian ideal of knowledge: “knowledge” means to grasp the causes of the phenomena.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      天文学假说的实在性——从而哥白尼世界体系的优越性——蕴涵着天文理论的物理化，转而又意味着对因果性的强调。尽管开普勒批评亚里士多德，这一方面实际上可以被看作亚里士多德古老的知识理想在天文学领域的实现：“知识”意味着把握现象的原因。
+    step2: |-
+      天文假说的实在性——从而哥白尼世界体系的优越性——蕴涵天文理论的物理化，转而又意味着对因果性的强调。尽管开普勒批评亚里士多德，这一方面实际可视为亚里士多德古老知识理想在天文学领域的实现：“知识”意味着把握现象的原因。
   - id: 31
     kind: body
     source: |-
       Thus, on the one hand, “causality” is a notion implying the most general idea of “actual scientific knowledge” which guides and stimulates each investigation. In this sense, Kepler already embarked in his MC on a causal investigation by asking for the *cause* of the number, the sizes and the “motions” (= the speeds) of the heavenly spheres (see Section 3 above).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这样，一方面，“因果性”是一个蕴涵“现实科学知识”这一最普遍观念的概念，它引导并激励着每一项研究。在这个意义上，开普勒早在 *MC* 中就已着手一项因果研究：追问天球之数目、大小与“运动”（＝速度）的*原因*（见上文第 3 节）。
+    step2: |-
+      这样，一方面，“因果性”是一个蕴涵“现实科学知识”这一最普遍观念的概念，它引导并激励着每一项研究。在此意义上，开普勒早在 *MC* 中就着手一项因果研究：追问天球之数目、大小与“运动”（＝速度）的*原因*（见上文第 3 节）。
   - id: 32
     kind: body
     source: |-
       On the other hand, “causality” implies in Kepler, according to the Aristotelian conception of physical science, the concrete “physical cause”, the efficient cause which produces a motion or is responsible for keeping the body in motion. Original to Kepler, however, and typical of his approach is the resoluteness with which he was convinced that the problem of equipollence of the astronomical hypotheses can be resolved and the consequent introduction of the concept of causality into astronomy – traditionally a mathematical science. This approach is already present in his MC, where he, for instance, relates for the first time the distances of the planets to a *power* *which emerges from the Sun* and decreases in proportion to the distance of each planet, up to the sphere of the fixed stars (see Stephenson 1987, pp. 9–10)[^stephenson-1987].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，照亚里士多德的物理科学构想，“因果性”在开普勒那里意味着具体的“物理原因”，即产生运动或负责维持物体运动的动力因。不过，开普勒的原创之处、其进路的典型特征在于：他坚定地相信天文假说的等价性问题可以得到解决，并随之把因果性概念引入天文学——这门传统上的数学科学。这种进路已见于 *MC*：例如，他第一次把诸行星的距离与一种从太阳发出、随各行星距离递减而递减、直至恒星天球的*力*联系起来（见 Stephenson 1987, pp. 9–10）[^stephenson-1987]。
+    step2: |-
+      另一方面，照亚里士多德的物理科学构想，“因果性”在开普勒那里意味着具体的“物理原因”：产生运动、或负责维持物体运动的动力因。不过开普勒的原创之处、其进路的典型特征在于：他坚定地相信天文假说的等价性问题可以解决，并随之把因果性概念引入天文学——这门传统上的数学科学。这种进路已见于 *MC*：例如，他第一次把诸行星的距离与一种*力*联系起来——该力发自太阳，随各行星距离递减而递减，直至恒星天球（见 Stephenson 1987, pp. 9–10）[^stephenson-1987]。
   - id: 33
     kind: body
     source: |-
       One of Kepler’s decisive innovations in his MC is that he replaced the “mean Sun” of Copernicus with the real Sun, which was no longer merely a geometrical point but a body capable of physically influencing the surrounding planets. In addition, in notes to the 1621 edition of MC Kepler strongly criticizes the notion of “soul” (*anima*) as a dynamical factor in planetary motion and proposes to substitute “force” (*vis*) for it (see KGW 8, p. 113, Engl. trans. p. 203, note 3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒在 *MC* 中的一个决定性创新，是他用真实的太阳取代了哥白尼的“平太阳”；后者不再仅仅是一个几何点，而是一个能够物理地影响周围行星的物体。此外，在 *MC* 1621 年版的注释中，开普勒强烈批评把“灵魂”（*anima*）当作行星运动的动力学因素，并提议以“力”（*vis*）取代之（见 KGW 8, p. 113；英译 p. 203, note 3）。
+    step2: |-
+      开普勒在 *MC* 中的一个决定性创新，是用真实的太阳取代哥白尼的“平太阳”：后者不再仅是几何点，而是一个能物理地影响周围行星的物体。此外，在 *MC* 1621 年版的注释中，开普勒强烈批评把“灵魂”（*anima*）当作行星运动的动力学因素，提议以“力”（*vis*）取代之（见 KGW 8, p. 113；英译 p. 203, note 3）。
   - id: 34
     kind: body
     source: |-
       One of the most important philosophical aspects of Kepler’s *Astronomia Nova* from 1609 (=AN) is its methodological approach and its causal foundation (see Mittelstrass 1972)[^mittelstrass-1972]. Kepler was sufficiently conscious of the change of perspective he was introducing into astronomy. Hence, he decided to announce this in the full title of the work: *Astronomia Nova, Aitiologetos, seu physica coelestis, tradita commentariis de motibus stellae Martis. Ex observationibus G. V. Tychonis Brahe*: *New Astronomy Based upon Causes or Celestial Physics Treated by Means of Commentaries on the Motions of the Star Mars from the observations of Tycho Brahe* … (trans. Donahue). In the introduction to AN Kepler insists on his radical change of view: his work is about physics, not pure kinematical or geometrical astronomy. “Physics”, as in the traditional, Aristotelian understanding of the discipline, deals with the causes of phenomena, and for Kepler that constitutes his ultimate approach to deciding between rival hypotheses (AN, Engl. trans., p. 48; see Krafft 1991)[^krafft-1991]. On the other hand, since his celestial physics uses not only geometrical axioms but also other, non-mathematical axioms, the knowledge obtained often has a kernel of guesswork.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒 1609 年《新天文学》（＝*AN*）最重要的哲学方面之一，是它的方法论进路与因果奠基（见 Mittelstrass 1972）[^mittelstrass-1972]。开普勒对自己引入天文学的观点转变有足够清醒的意识，因此决定在全书的标题中宣告这一点：《新天文学，因果论，或天界物理学，以关于火星运动的评注呈献，据第谷·布拉赫的观测》：*Astronomia Nova, Aitiologetos, seu physica coelestis, tradita commentariis de motibus stellae Martis. Ex observationibus G. V. Tychonis Brahe*（英译 Donahue：*New Astronomy Based upon Causes or Celestial Physics Treated by Means of Commentaries on the Motions of the Star Mars from the observations of Tycho Brahe*……）。在 *AN* 的导言中，开普勒坚持他的根本观点转变：他的著作关乎物理学，而非纯粹运动学的或几何学的天文学。“物理学”——按这门学科的传统、亚里士多德式的理解——处理现象的原因；对开普勒而言，这正是他在竞争假说之间作出裁决的最终进路（AN 英译 p. 48；见 Krafft 1991）[^krafft-1991]。另一方面，由于他的天界物理学不仅使用几何公理，还使用其他非数学的公理，所获得的认识常常带有猜测的成分。
+    step2: |-
+      开普勒 1609 年《新天文学》（＝*AN*）最重要的哲学方面之一，是它的方法论进路与因果奠基（见 Mittelstrass 1972）[^mittelstrass-1972]。开普勒对自己引入天文学的观点转变有足够清醒的意识，故决定在全书的标题中宣告之：《新天文学，因果论，或天界物理学，以关于火星运动的评注呈献，据第谷·布拉赫的观测》（*Astronomia Nova, Aitiologetos, seu physica coelestis…*；英译 Donahue：*New Astronomy Based upon Causes…*）。在 *AN* 导言中，开普勒坚持自己的根本观点转变：他的著作关乎物理学，而非纯粹运动学的或几何学的天文学。“物理学”——按这门学科的传统、亚里士多德式的理解——处理现象的原因；对开普勒而言，这正是他在竞争假说之间作出裁决的最终进路（AN 英译 p. 48；见 Krafft 1991）[^krafft-1991]。另一方面，由于他的天界物理学不仅使用几何公理，还使用其他非数学公理，所获得的认识常常带有猜测的成分。
   - id: 35
     kind: body
     source: |-
       In the third part of AN, chapters 22–40, Kepler deals with the path of the Earth and intends to offer a physical account of the Copernican theory. By so doing he includes the idea that a certain notion of power should be made responsible for the regulation of the differences in velocities of the planets, which in turn have to be established in relation to the planets’ distances. Now, the Copernican planetary theory departs from the general principle that the Earth moves regularly on an eccentric circle. For Kepler, on the contrary, the planets are moved irregularly, and the slower they are moved, the greater their distance is from the center of power, the Sun. Addressing the physical aspects of his new astronomy, he deals in chapters 32–40, perhaps the most idiosyncratic of the work, with his notion of motive power. Here, he combines different approaches and sources, sometimes producing—for the purpose of simplifying the whole geometrical construction of geometrical astronomy by introducing a power causing motions—a new confusion at the dynamical level. To begin with, it is not always absolutely clear what kind of power Kepler has in mind. He inclines, above all, to the idea of a magnetic power residing in the Sun, but he also mentions light and, at least indirectly, gravity (which he does not bring into operation in the central chapters of the AN but which is to a certain extent implied in his explanations using the model of the balance and which he surely accepts as true for the Sun-Moon system, as he explains in the general introduction). Secondly, it is not always clear what this power is and how it acts, especially when he is speaking merely analogically, “as if” (particularly in the case of light). Essentially, Kepler breaks down the motions of the planets into two components. On the one hand, the planets move around the Sun—at this state of the discussion—circularly. On the other hand, they exhibit a libration on the Sun-planet vector. The rotation of the Sun is responsible for the motion of the planets. Irradiating from the rotating Sun is a power which spreads at the ecliptic plain. This power diminishes with distance to the source of the power, that is, to the Sun. A decisive work for Kepler’s development in his physical astronomy is William Gilbert’s (1544–1603) *De magnete* (London, 1600), a work which also intends to offer a new physics for the new Copernican cosmology and which surely influenced Kepler’s thoughts about this power. One of the main problems was, of course, how to apply the general principles of magnetism to planetary motion, first to explain the difference in velocity on a circular path, and later to give an account of the motion on an ellipse. Kepler conceives of a model with parallel magnetic fibers which links the Sun with the planets in such a way that the rotation of the Sun causes the motion of the planets around it. The fibers are born in the planets parallel and perpendicular to the lines of apsides by a kind of “animal power”. The planets themselves are polarized, that is, with one pole they are attracted to the Sun, with the other pole they are pushed away from it. This explains very well the direction of planetary motion: the planets all move in one direction *because* the Sun rotates in that direction. Nevertheless, a further problem still seems to remain unresolved: according to Kepler’s explication, the planets should move around the Sun as fast as the Sun itself rotates, which is not the case. This phenomenon can be explained by referring to a property of matter, which for Kepler has an axiomatic character: the *inclinatio ad quietem*, that is, the tendency to rest (see especially AN, chap. 39; KGW 3, p. 256). As a consequence, the planets are moved around the Sun slower than they would be if the power of the Sun were at work alone.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 *AN* 的第三编（第 22–40 章），开普勒处理地球的路径，意在为哥白尼理论提供一种物理学的说明。这样一来，他便纳入了如下观念：应当让某种关于力的概念负责调节诸行星速度的差异，而这些差异又必须与诸行星的距离联系起来确立。哥白尼的行星理论始于一条一般原则：地球沿偏心圆规则地运动。开普勒恰恰相反：诸行星的运动不规则，运动越慢，它们离力的中心——太阳——就越远。在处理其新天文学的物理学方面时，开普勒在第 32–40 章——也许是全书最具个人特色的章节——讨论了他的推动力概念。这里他把不同的进路与来源结合起来，有时——为了通过引入一个引起运动的力来简化几何天文学的整体几何构造——在动力学层面造成了新的混乱。首先，开普勒心目中的力究竟属于哪一种，并不总是绝对清楚。他主要倾向于太阳中存在一种磁力的想法，但也提到光，并至少间接地提到重力——他在 *AN* 的中心章节中并未启用重力，但用它借助天平模型的解释在一定程度上暗示了重力，而且如他在总导言中所解释的，他肯定认为重力对日-月系统为真。其次，这种力是什么、如何作用，也不总是清楚——尤其当他在 merely 类比地说话、说“仿佛”如何时（在光的情况下尤其如此）。本质上，开普勒把行星的运动分解为两个分量。一方面，行星绕太阳运动——在此讨论阶段——是圆周式的。另一方面，它们在日-连线上表现出一种天平动。太阳的自转负责行星的运动：一道从自转的太阳辐射出的力沿黄道面扩散；该力随离力源（即太阳）的距离而衰减。对开普勒物理学天文学的发展具有决定性意义的著作，是威廉·吉尔伯特（1544–1603）的《论磁》（伦敦，1600）——这部著作同样意在为新的哥白尼宇宙论提供一种新物理学，肯定影响了开普勒关于这种力的思想。主要问题当然是：如何把磁力的一般原理应用于行星运动——先解释圆周路径上速度的差异，再说明椭圆上的运动。开普勒构想了一个平行磁纤维的模型：太阳与诸行星以这种方式相连，使得太阳的自转引起行星绕它的运动。纤维由一种“活力”在行星中产生，平行于且垂直于拱线。行星自身被极化，即以其一极被太阳吸引，以另一极被太阳排斥。这很好地解释了行星运动的方向：行星都朝同一方向运动，*因为*太阳朝那个方向自转。然而，似乎仍有一个问题悬而未决：按开普勒的说明，行星绕太阳运动的速度应与太阳自转的速度一样快，而实情并非如此。这一现象可以借助物质的一种属性来解释——对开普勒而言它具有公理的性质：*inclinatio ad quietem*，即趋向静止的倾向（尤其见 AN 第 39 章；KGW 3, p. 256）。结果是：行星绕太阳运动的速度，慢于太阳之力单独起作用时的速度。
+    step2: |-
+      在 *AN* 第三编（第 22–40 章），开普勒处理地球的路径，意在为哥白尼理论提供一种物理学的说明。这样一来，他便纳入如下观念：应让某种关于力的概念负责调节诸行星速度的差异，而这些差异又须与诸行星的距离联系起来确立。哥白尼行星理论始于一条一般原则：地球沿偏心圆规则运动。开普勒恰恰相反：诸行星的运动不规则——运动越慢，离力的中心（太阳）越远。处理新天文学的物理学方面时，开普勒在第 32–40 章——也许是全书最具个人特色的章节——讨论其推动力概念。这里他把不同进路与来源结合起来；有时——为通过引入一个引起运动的力来简化几何天文学的整体几何构造——反而在动力学层面造成新的混乱。首先，开普勒心目中的力究竟属于哪一种，并不总是绝对清楚：他主要倾向于太阳中有一种磁力的想法，但也提到光，并至少间接提到重力——他在 *AN* 中心章节未启用重力，但借助天平模型的解释在一定程度上暗示了它，而且如总导言所解释的，他肯定认为重力对日-月系统为真。其次，这种力是什么、如何作用，也不总是清楚——尤其当他仅在类比意义上、以“仿佛”说话时（光的情形尤其如此）。本质上，开普勒把行星运动分解为两个分量：一方面，行星绕太阳运动——在此讨论阶段——是圆周式的；另一方面，它们在日-连线上表现出一种天平动。太阳的自转负责行星的运动：一道自转太阳辐射出的力沿黄道面扩散，随离力源（太阳）的距离而衰减。对开普勒物理学天文学的发展具有决定性意义的著作，是威廉·吉尔伯特（1544–1603）的《论磁》（伦敦，1600）——这部著作同样意在为新的哥白尼宇宙论提供新物理学，肯定影响了开普勒关于这种力的思想。主要问题当然是：如何把磁力的一般原理应用于行星运动——先解释圆周路径上速度的差异，再说明椭圆上的运动。开普勒构想了一个平行磁纤维的模型：太阳与诸行星以这种方式相连，使太阳的自转引起行星绕它的运动。纤维由一种“活力”在行星中产生，平行且垂直于拱线。行星自身被极化：以其一极被太阳吸引，以另一极被排斥。这很好地解释了行星运动的方向：行星都朝同一方向运动，*因为*太阳朝那个方向自转。然而似乎仍有一个问题悬而未决：按开普勒的说明，行星绕太阳的速度应与太阳自转一样快——实情并非如此。这一现象可借助物质的一种属性解释——对开普勒而言它具有公理性质：*inclinatio ad quietem*，趋向静止的倾向（尤其见 AN 第 39 章；KGW 3, p. 256）。结果是：行星绕太阳的速度，慢于太阳之力单独起作用时的速度。
   - id: 36
     kind: body
     source: |-
       Kepler’s causal approach is above all present in his *Epitome*, a voluminous work which exercised a considerable influence on the later development of astronomy. In the second part of Book 4, he deals with the motion of the world’s parts. Not the two first laws but rather the third law, which he had recently announced in his HM, is Kepler’s starting point; for this law, rather than a calculational device for the path of one planet, represents a general cosmological statement, and thus it is more convenient for his approach here. At the same time, it should be pointed out that the third law is not necessarily the best point of departure for a dynamical, causal approach to motion, as Kepler intends here; for, in comparison with the previous causal approaches, the question of the location of the cause of power responsible for the production of motion remains relevant. The spheres, which in the traditional view transported the planets, had been abolished since the time of Tycho. Furthermore, Kepler is clearly against the “moving intelligences” of the Aristotelian tradition. The fact that the orbits are elliptical and not circular, shows that the motions are not caused by a spiritual power but rather by a natural one, which is internal to the composition of matter. The planets themselves are provided with “*inertia*”, a property, as Kepler understood it, that inhibits motion and represents an impediment to it. The motive power (*vix motrix*) comes indeed from the Sun, which sends its rays of light and power in all directions. These rays are captured by the planets. Kepler, however, tries to explain this behavior of the planets less through astrology and much more through magnetism (a physical phenomenon which was by no means clearly understood in his time). Firstly, the Sun rotates and, by so doing, sets in motion the planets around it. Secondly, since the planets are poles of magnets and the Sun itself acts with magnetic power, the planets are, at different parts of their orbits, either attracted or repelled; in this way the elliptical path is causally produced. Kepler partially gives up the mechanical approach by postulating a soul in the Sun which is responsible for its regular motion of rotation, a motion on which, finally, the entire system depends. In fact, the planets are also supposed by Kepler to rotate and are therefore provided with “a sort of soul” or some such principle which produces the rotation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒的因果进路最突出地体现在其《概要》中——这部卷帙浩繁的著作对后来天文学的发展产生了相当大的影响。在第 4 卷第二部分，他处理世界诸部分的运动。他的出发点不是前两条定律，而是第三定律——它刚在 *HM* 中公布；因为这条定律不是一个行星路径的计算装置，而是一个一般的宇宙论命题，因而更适于他在此的进路。同时应当指出：第三定律未必是开普勒在此意欲的动力学的、因果的运动进路的最佳出发点；因为与前此的因果进路相比，负责产生运动的力之位置何在的问题依然存在。传统观点中运载行星的诸天球，自第谷以降已被废弃。此外，开普勒明确反对亚里士多德传统的“推动理智”。轨道呈椭圆而非圆形这一事实表明：运动不是由一种精神的力、而是由一种自然力引起的——它内在于物质的构成。行星自身被赋予“*惯性*”（*inertia*）：照开普勒的理解，这一属性抑制运动、构成对运动的阻碍。推动力（*vix motrix*）确实来自太阳——太阳向四面八方发送其光与力的射线，这些射线为行星所捕获。不过，开普勒试图较少借助占星学、而远更多地借助磁学（这一物理现象在他那个时代远未被清楚理解）来解释行星的这种行为。第一，太阳自转，由此使其周围的行星运动。第二，既然行星是磁体的两极，而太阳本身以磁力作用，行星就在轨道的不同部分被吸引或排斥；椭圆路径就是这样因果地产生的。开普勒部分放弃了力学的进路：他设定太阳中有一个灵魂，负责其规则的旋转运动——整个系统最终依赖于这一运动。事实上，开普勒也假定行星会自转，因此它们也被赋予“某种灵魂”或产生自转的类似原则。
+    step2: |-
+      开普勒的因果进路最突出地体现在《概要》中——这部卷帙浩繁的著作对后来天文学的发展影响甚大。第 4 卷第二部分处理世界诸部分的运动。其出发点不是前两条定律，而是刚在 *HM* 中公布的第三定律：它不是一个行星路径的计算装置，而是一般的宇宙论命题，因而更合于他在此的进路。同时应当指出：第三定律未必是开普勒在此意欲的动力学的、因果的运动进路的最佳出发点——与前此的因果进路相比，负责产生运动的力之位置何在的问题依然存在。传统观点中运载行星的诸天球，自第谷以降已被废弃；开普勒也明确反对亚里士多德传统的“推动理智”。轨道呈椭圆而非圆形，这一事实表明：运动不是由精神的力引起，而是由一种自然力——它内在于物质的构成。行星自身被赋予“*惯性*”（*inertia*）：照开普勒的理解，这一属性抑制运动、构成对运动的阻碍。推动力（*vix motrix*）确实来自太阳——它向四面八方发送光与力的射线，为行星所捕获。不过开普勒试图较少借助占星学、远更多地借助磁学（这一物理现象在他那个时代远未被清楚理解）解释行星的这种行为。第一，太阳自转，由此使其周围的行星运动；第二，既然行星是磁体的两极，而太阳本身以磁力作用，行星就在轨道的不同部分被吸引或排斥——椭圆路径由此因果地产生。开普勒部分放弃力学进路：他设定太阳中有一个灵魂，负责其规则的旋转运动——整个系统最终依赖于此。事实上，开普勒也假定行星自转，因此行星也被赋予“某种灵魂”或产生自转的类似原则。
   - id: 37
     kind: body
     source: |-
       In addition to astronomy and cosmology Kepler expanded his causal approach to include the fields of optics (see Section 6 below) and harmonics (Section 7 below).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除天文学与宇宙论之外，开普勒还把他的因果进路扩展到光学（见下文第 6 节）与和声学（下文第 7 节）领域。
+    step2: |-
+      除天文学与宇宙论，开普勒还把因果进路扩展到光学（下文第 6 节）与和声学（下文第 7 节）领域。
   - id: 38
     kind: body
     source: |-
       ### 4.3 Philosophy of mathematics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 数学哲学
+    step2: |-
+      ### 4.3 数学哲学
   - id: 39
     kind: body
     source: |-
       Beyond his own original talent, it is clear that Kepler was trained in mathematics from his earliest studies at Tübingen. At least officially, his positions at Graz, Prague, Linz, Ulm and Sagan can be characterized as the typical professional occupations of a mathematician in the broadest sense, i.e., including astrology and astronomy, theoretical mechanics and pneumatics, metrology, and every topic that could in some way be related to mathematics. Besides the field of astronomy and optics, where mathematics is ordinarily applied in different ways, Kepler produced original contributions to the theory of logarithms and above all within his favorite field, geometry (especially with his stereometrical investigations. For the medieval proportions theory as a background for Kepler’s logarithms, see Rommevaux-Tani, 2018). Thus, on account of his natural predilection and talent and the importance of mathematics, particularly of geometry, for his thought, it is not surprising to find many different passages in his works where he articulated his philosophy of mathematics. However, Kepler’s principal exposition on this topic is to be found in his HM, a work in which the first two books are purely mathematical in content. As he himself declares, in HM he played the role “not of a geometer in philosophy but of a philosopher in this part of geometry” (KGW 6, p. 20, Engl. trans., p. 14).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了他本人的天赋，显然开普勒从在图宾根求学的最早时期起就接受数学训练。至少在名义上，他在格拉茨、布拉格、林茨、乌尔姆与萨根的职位，都可以刻画为最广义的数学家的典型职业——包括占星学与天文学、理论力学与气体力学、计量学，以及一切能以某种方式与数学相联的题目。除天文与光学这些通常以不同方式应用数学的领域外，开普勒对对数理论、尤其在他最钟爱的领域——几何学（特别是他的立体几何学研究）——做出了原创贡献（关于中世纪比例理论作为开普勒对数的背景，见 Rommevaux-Tani, 2018）。因此，出于他天生的偏好与才能、出于数学——尤其是几何学——对他思想的重要性，在他的著作中找到许多阐明其数学哲学的段落并不令人意外。然而，开普勒对这一主题的主要阐述见于 *HM*——这部著作的前两卷在内容上是纯数学的。正如他自己宣告的：在 *HM* 中他扮演的角色“不是哲学中的几何学家，而是几何学这一部分中的哲学家”（KGW 6, p. 20；英译 p. 14）。
+    step2: |-
+      除他本人的天赋外，显然开普勒自图宾根求学的最早时期就受数学训练。至少在名义上，他在格拉茨、布拉格、林茨、乌尔姆与萨根的职位，都可刻画为最广义数学家的典型职业——包括占星学与天文学、理论力学与气体力学、计量学，以及一切能以某种方式与数学相联的题目。除天文与光学这些通常以不同方式应用数学的领域外，开普勒对对数理论、尤其在其最钟爱的领域——几何学（特别是立体几何学研究）——做出了原创贡献（关于中世纪比例理论作为开普勒对数的背景，见 Rommevaux-Tani, 2018）。因此，出于天生的偏好与才能、出于数学——尤其几何学——对其思想的重要性，在他的著作中找到许多阐明数学哲学的段落并不令人意外。不过开普勒对这一主题的主要阐述见于 *HM*——其前两卷在内容上纯是数学。正如他自己宣告的：在 *HM* 中他扮演的角色“不是哲学中的几何学家，而是几何学这一部分中的哲学家”（KGW 6, p. 20；英译 p. 14）。
   - id: 40
     kind: body
     source: |-
       While in philosophical questions related to mathematics, Proclus and Plato were Kepler’s most important inspirational sources, he did not always see Plato and Aristotle as completely opposed, for the latter—in Kepler’s interpretation—also accepted “a certain existence of the mathematical entities” (KGW 14, let. N° 226, p. 265; see Peters, p. 130). To a great extent Kepler understood his mathematical investigations of HM as a continuation of Euclid’s *Elements*, especially of the analysis of irrationalities in Book 10. The central notion that he works out here is that of “constructability”. According to Kepler, each branch of knowledge must, in principle, be reducible to geometry if it is to be accepted as knowledge in the strong sense (although, in the case of the physics, this condition is, as the AN emphasizes, only a necessary and not a sufficient condition). Thus, the new principles he was elaborating over the years in astrology were geometrical ones. A similar case occurs with the basic notions of harmony, which, after Kepler, could be reduced to geometry. Of course, not every geometrical statement is equally relevant and equally fundamental. For Kepler, the geometrical entities, principles and propositions which are especially fundamental are those that can be constructed in the classical sense, i.e., using only ruler (without measurement units) and compass. On this are based further notions according to different degrees of “knowability” (*scibilitas*), which begins with the circle and its diameter. Once again, Kepler understood this within the framework of his cosmological and theological philosophy: geometry, and especially geometrically constructible entities, have a higher meaning than other kinds of knowledge because God has used them to delineate and to create this perfect harmonic world. From this point of view, it is clear that Kepler defends a Platonist conception of mathematics, that he cannot assume the Aristotelian theory of abstraction and that he is not able to accept algebra, at least in the way he understood it. So, for instance, there are figures that cannot be constructed “geometrically”, although they are often assumed as safe geometrical knowledge. The best example of this is perhaps the heptagon. This figure cannot be described outside of the circle, and in the circle its sides have, of course, a determinate magnitude, but this is not knowable. Kepler himself says that this is important because here he finds the explanation for why God did not use such figures to structure the world. Consequently, he devotes many pages to discussing the issue (KGW 6, Prop. 45, pp. 47–56, see also KGW 9, p. 147). Certainly for a geometer like Kepler, approximations constitute – as *mathematical* theory—a painful and precarious way to progress. The philosophical background for his rejection of algebra seems to be, at least partially, Aristotelian in some of its basic suppositions: geometrical quantities are continuous quantities which therefore cannot be treated with numbers that are, in the inverse, discrete quantities. But the difference from the Aristotelian ideal of science remains an important one: for Aristotle, a crossover between arithmetic and geometry is allowed only in the case of the “middle sciences”, while for Kepler all knowledge must be reduced to its geometrical foundations. Recent research has tried to show that Kepler has followed the criteria of a “Pythagorean methodology” when studying the phenomena of light refraction. This would be evident in Kepler’s application of the principle of “sameness is knowable by sameness” and, additionally, in his tendency to avoid the infinite or, rather, to set limits to infinite magnitudes (Cardona Suárez 2016)[^cardona-2016].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在数学相关的哲学问题上，普罗克洛与柏拉图是开普勒最重要的灵感来源；但他并不总把柏拉图与亚里士多德看作完全对立，因为后者——照开普勒的诠释——也接受“数学实体的某种存在”（KGW 14, let. N° 226, p. 265；见 Peters, p. 130）。开普勒在很大程度上把他在 *HM* 中的数学研究理解为欧几里得《几何原本》的延续，尤其是第十卷对无理量的分析。他在此阐发的核心概念是“可构造性”。照开普勒的看法，每一门知识原则上都必须可还原为几何学，才能被承认为严格意义上的知识（不过正如 *AN* 所强调的，就物理学而言，这一条件只是必要的而非充分的）。于是，他多年来在占星学中精心阐述的新原理都是几何的原理。类似的情况也出现在和声的基本概念上——经开普勒之手，它们可以被还原为几何学。当然，并非每一个几何命题都同等重要、同等根本。对开普勒而言，特别根本的几何实体、原理与命题是那些能在经典意义上构造出来的东西，即只使用直尺（不带刻度）与圆规。在此基础上，又有按不同“可知性”（*scibilitas*）程度的进一步概念——它始于圆及其直径。开普勒再次在他的宇宙论与神学哲学的框架内理解这一点：几何学、尤其是几何上可构造的实体，比其他种类的知识有更高的意义，因为上帝用它们来描绘并创造这个完美和谐的世界。照这一视角，显然开普勒为数学辩护的是一种柏拉图主义的构想；他不能接受亚里士多德的抽象理论，也无法接受代数——至少照他所理解的代数。例如，有些图形无法“几何地”构造出来，尽管它们常被当作可靠的几何知识。最好的例子也许是七边形：这个图形无法在圆外描述，而在圆内它的边当然有确定的大小，但这是不可知的。开普勒自己说这一点很重要，因为他在这里找到了解释：为什么上帝没有用这类图形来构造世界。因此，他花了许多页讨论这个问题（KGW 6, Prop. 45, pp. 47–56；另见 KGW 9, p. 147）。对一个像开普勒这样的几何学家而言，近似——作为*数学*理论——是一种痛苦而不可靠的前进方式。他拒斥代数的哲学背景，至少部分地在某些基本预设上是亚里士多德式的：几何量是连续量，因此不能用数来处理——数反过来是离散量。但与亚里士多德科学理想的差别仍是一个重要的差别：对亚里士多德而言，算术与几何之间的交叉只在“中间科学”的情形下才被允许；而对开普勒，一切知识都必须还原为它的几何基础。晚近的研究试图表明：开普勒在研究光的折射现象时遵循了“毕达哥拉斯式方法论”的判准。这在他对“同类者为同类者所知”这一原则的应用中显而易见，此外还见于他回避无限、毋宁说给无限量设限的倾向（Cardona Suárez 2016）[^cardona-2016]。
+    step2: |-
+      在数学相关的哲学问题上，普罗克洛与柏拉图是开普勒最重要的灵感来源；但他并不总把柏拉图与亚里士多德看作完全对立——后者照开普勒的诠释也接受“数学实体的某种存在”（KGW 14, let. N° 226, p. 265；见 Peters, p. 130）。开普勒在很大程度上把 *HM* 中的数学研究理解为欧几里得《几何原本》的延续，尤其是第十卷对无理量的分析。他在此阐发的核心概念是“可构造性”。照开普勒的看法，每一门知识原则上都必须可还原为几何学，才能被承认为严格意义上的知识（不过正如 *AN* 所强调的：就物理学而言，这一条件只是必要的而非充分的）。于是，他多年在占星学中精心阐述的新原理都是几何原理；和声的基本概念亦然——经开普勒之手，它们可还原为几何学。当然，并非每个几何命题都同等重要、同等根本。对开普勒而言，特别根本的几何实体、原理与命题，是能在经典意义上构造的东西——只使用直尺（不带刻度）与圆规。在此基础上，又有按不同“可知性”（*scibilitas*）程度的进一步概念——始于圆及其直径。开普勒再次在宇宙论与神学哲学的框架内理解这一点：几何学、尤其几何上可构造的实体，比其他知识有更高的意义，因为上帝用它们描绘并创造这个完美和谐的世界。照这一视角，显然开普勒为数学辩护的是柏拉图主义的构想；他不能接受亚里士多德的抽象理论，也无法接受代数——至少照他所理解的代数。例如，有些图形无法“几何地”构造，却常被当作可靠的几何知识——最好的例子也许是七边形：它无法在圆外描述；在圆内它的边当然有确定的大小，但不可知。开普勒自己说这一点很重要：他在这里找到了解释——为什么上帝没有用这类图形构造世界。因此他花了许多页讨论这个问题（KGW 6, Prop. 45, pp. 47–56；另见 KGW 9, p. 147）。对一个像开普勒这样的几何学家而言，近似——作为*数学*理论——是一种痛苦而不可靠的前进方式。他拒斥代数的哲学背景，至少部分地在某些基本预设上是亚里士多德式的：几何量是连续量，不能用数处理——数反过来是离散量。但与亚里士多德科学理想的差别仍是重要的差别：对亚里士多德而言，算术与几何的交叉只在“中间科学”情形下被允许；对开普勒，一切知识都必须还原为几何基础。晚近研究试图表明：开普勒研究光的折射时遵循“毕达哥拉斯式方法论”的判准——这在他对“同类者为同类者所知”原则的应用中显而易见，也见于他回避无限、毋宁说给无限量设限的倾向（Cardona Suárez 2016）[^cardona-2016]。
   - id: 41
     kind: body
     source: |-
       ### 4.4 Empiricism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 经验主义
+    step2: |-
+      ### 4.4 经验主义
   - id: 42
     kind: body
     source: |-
       A general presentation of Kepler’s philosophical attitude and principles is not complete without reference to his link to the world of experience. For, despite his mainly theoretical approach in the natural sciences, Kepler often emphasized the significance of experience and, in general, of empirical data. In his correspondence there are many remarks about the significance of observation and experience, as for instance in a letter to Herwart von Hohenburg from 1598 (KGW 13, let. N° 91, lines 150–152) or from 1603 to Fabricius (KGW 14, let. N° 262, p. 191, lines 129–130), to mention only two of his most important correspondents. Looking for empirical support for the Copernican system, Kepler compares different astronomical tables in his MC, and in AN he makes extensive use of Tycho’s observational treasure trove. In MC (chapter 18) he quotes a long passage from Rheticus for the sake of rhetorical support when, as was the case here, the data of the tables he used did not fit perfectly with the calculated values from the polyhedral hypothesis. In this passage, the reader learns that the great Copernicus, whose world system Kepler defends in MC, said one day to Rheticus that it made no sense to insist on absolute agreement with the data, because these themselves were surely not perfect. After all, it is questionable whether Kepler, using for instance the *Prutenic Tables* (1551) of Erasmus Reinhold (1511–1553), had access to complete and correct empirical information to confirm the Copernican hypothesis in grand style, as he claimed (for an analysis of Reihold’s tables and their influence see Gingerich 1993, pp. 205–255)[^gingerich-1993].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对开普勒哲学态度与原则的一般性阐述，若不提他与经验世界的联系便不完整。因为尽管他在自然科学中的进路以理论为主，开普勒仍常常强调经验——以及一般而言经验数据——的重要性。在他的通信中有许多关于观察与经验之意义的评论，例如 1598 年致赫瓦特·冯·霍恩堡的信（KGW 13, let. N° 91, lines 150–152），或 1603 年致法布里修斯的信（KGW 14, let. N° 262, p. 191, lines 129–130）——这里只提他最重要的两位通信者。为哥白尼体系寻找经验支持，开普勒在 *MC* 中比较了不同的星表；在 *AN* 中，他大量使用第谷的观测宝库。在 *MC*（第 18 章）中，当所用星表的数据与多面体假说算出的数值不完全吻合时——此处正是如此——他引用雷蒂库斯的一段长文以作修辞上的支持。在这段文字中，读者得知：开普勒在 *MC* 中所辩护的世界体系的伟大创立者哥白尼，曾有一天对雷蒂库斯说，坚持与数据绝对一致是没有意义的，因为数据本身肯定不完美。毕竟，这是可疑的：开普勒使用例如伊拉斯谟·莱因霍尔德（1511–1553）的《普鲁士星表》（1551），是否拥有充分而正确的经验信息来大张旗鼓地确认哥白尼假说——如他所宣称的那样（关于莱因霍尔德星表及其影响的分析，见 Gingerich 1993, pp. 205–255）[^gingerich-1993]。
+    step2: |-
+      对开普勒哲学态度与原则的一般性阐述，若不提他与经验世界的联系便不完整。尽管他在自然科学中的进路以理论为主，开普勒仍常常强调经验——以及一般而言的经验数据——之重要。他的通信中有许多关于观察与经验之意义的评论，如 1598 年致赫瓦特·冯·霍恩堡的信（KGW 13, let. N° 91, lines 150–152），或 1603 年致法布里修斯的信（KGW 14, let. N° 262, p. 191, lines 129–130）——这里只举他最重要的两位通信者。为哥白尼体系寻找经验支持，开普勒在 *MC* 中比较不同的星表；在 *AN* 中大量使用第谷的观测宝库。*MC*（第 18 章）中，当所用星表的数据与多面体假说算出的数值不完全吻合时——此处正是如此——他引用雷蒂库斯的一段长文以作修辞上的支持。这段文字告诉读者：开普勒在 *MC* 中所辩护的世界体系的伟大创立者哥白尼，曾有一天对雷蒂库斯说：坚持与数据绝对一致没有意义，因为数据本身肯定不完美。毕竟这很可疑：开普勒使用例如伊拉斯谟·莱因霍尔德（1511–1553）的《普鲁士星表》（1551），是否拥有充分而正确的经验信息，能像他宣称的那样大张旗鼓地确认哥白尼假说（关于莱因霍尔德星表及其影响的分析，见 Gingerich 1993, pp. 205–255）[^gingerich-1993]。
   - id: 43
     kind: body
     source: |-
       The situation changed completely when Kepler came into contact at Prague with Tycho’s observations (which, as Kepler often reports, were seldom at his disposal). However, a change of attitude is evident in AN, where he used Tycho’s observations without restriction (which is something he makes clear in the work’s title). In part 2 (chap. 7–21), he presents the “vicarious hypothesis”, which in the end he refutes. This hypothesis represents the best result which can be reached within the limits of traditional astronomy. This works with circular orbits and with the supposition that the motion of a planet appears regular from a point on the lines of apsides. Against the traditional method, here, Kepler does not cut the eccentricity into equal parts but leaves the partition open. To check his hypothesis, he needs observations of Mars in opposition, where Mars, the Earth, and the Sun are at midnight on the same line. From Tycho, he “inherited” ten such observations between the years 1580 and 1600, and to them he added another two for 1602 and 1604. In chapters 17–21, Kepler carries out an observational and computational check of his vicarious hypothesis. On the one hand, he points out that this hypothesis is good enough, since the variations of the calculated positions from the observed positions fall within the limits of acceptability (2 minutes of arc). In fact, Kepler presents this hypothesis as the best hypothesis which can be proposed within the framework of a “traditional astronomy”, as opposed to his new astronomy, which he will offer in the following parts of the work. On the other hand, this hypothesis can be falsified if one takes the observations of the latitudes into consideration. Further calculations with these observations produce a difference of eight minutes, something that cannot be assumed because the observations of Tycho are reliable enough. Kepler’s famous sentence runs: “these eight minutes alone will have led the way to the reformation of all of astronomy” (AN, KGW 3, p. 286; Engl. trans., p. 286). There seems to be agreement that Kepler’s AN contains the first explicit consideration of the problem of observational error (for this question see Hon 1987 and Field 2005)[^field-2005][^hon-1987].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当开普勒在布拉格接触到第谷的观测时（据他常说的，这些观测很少在他手边），情况完全改观。然而，态度的转变在 *AN* 中显而易见：他不受限制地使用第谷的观测（这一点他在书名中已经讲明）。在第 2 部分（第 7–21 章），他给出“替代假说”——最终又被他自己驳倒的假说。这一假说代表传统天文学的限度内所能达到的最好结果：它使用圆轨道，并假定行星的运动从拱线上的某点看是规则的。与传统方法相反，开普勒在这里不把偏心率等分，而是让划分保持开放。为检验这一假说，他需要火星在冲日的观测——火星、地球与太阳在午夜位于同一条线上。他从第谷那里“继承”了 1580 至 1600 年间的十次这样的观测，又补上 1602 与 1604 年的两次。在第 17–21 章，开普勒对替代假说进行了观测与计算的双重检验。一方面，他指出这一假说已经足够好，因为计算位置与观测位置的偏差落在可接受的限度之内（2 角分）。事实上，开普勒把这一假说呈现为“传统天文学”框架内所能提出的最好假说——与他在本书后面部分将要提出的新天文学相对。另一方面，如果考虑黄纬的观测，这一假说可以被证伪。用这些观测作进一步计算，产生 8 角分的差——这不能被接受，因为第谷的观测足够可靠。开普勒的名言是：“仅仅这 8 分就已为改革全部天文学指明了道路”（AN, KGW 3, p. 286；英译 p. 286）。人们似乎一致同意：开普勒的 *AN* 包含了对观测误差问题的第一次明确处理（关于这一问题见 Hon 1987 与 Field 2005）[^field-2005][^hon-1987]。
+    step2: |-
+      开普勒在布拉格接触到第谷的观测时（据他常说的，这些观测很少在他手边），情况完全改观。态度的转变在 *AN* 中显而易见：他不受限制地使用第谷的观测（书名已讲明这一点）。第 2 部分（第 7–21 章）给出“替代假说”——最终又被他自己驳倒。这一假说代表传统天文学限度内所能达到的最好结果：它使用圆轨道，并假定行星的运动从拱线上的某点看是规则的。与传统方法相反，开普勒在此不把偏心率等分，而让划分保持开放。为检验假说，他需要火星冲日的观测——火星、地球与太阳在午夜位于同一条线上。他从第谷那里“继承”了 1580–1600 年间的十次这样的观测，又补上 1602、1604 年的两次。第 17–21 章，开普勒对替代假说做了观测与计算的双重检验。一方面，他指出假说已足够好：计算位置与观测位置的偏差落在可接受限度（2 角分）之内；事实上他把这一假说呈现为“传统天文学”框架内所能提出的最好假说——与他后面部分将提出的新天文学相对。另一方面，若考虑黄纬的观测，假说可被证伪：进一步计算产生 8 角分的差——这不能接受，因为第谷的观测足够可靠。开普勒的名言是：“仅仅这 8 分就已为改革全部天文学指明了道路”（AN, KGW 3, p. 286；英译 p. 286）。人们似乎一致同意：开普勒的 *AN* 包含了对观测误差问题的第一次明确处理（见 Hon 1987 与 Field 2005）[^field-2005][^hon-1987]。
   - id: 44
     kind: body
     source: |-
       Kepler also gave an important place to experience in the field of optics. As a matter of fact, he began his research on optics because of a disagreement between theory and observation, and he made use of scientific instruments he had designed himself (see, for instance, KGW 21.1, p. 244). Recent research on the problem of the *camera obscura* and the “images in the air” shows, however, the limits of a traditional approach to Kepler’s optics following the main current of the history of physics. Rather, his notion of *experimentum* needs to be contextualized within the social practices and epistemological commitments of his time (see Dupré 2008)[^dupré-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒在光学领域也给了经验一个重要的位置。事实上，他开始光学研究正是因为理论与观察之间的分歧；他使用自己设计的科学仪器（例如见 KGW 21.1, p. 244）。然而，关于*暗箱*与“空气中的像”问题的晚近研究表明：沿物理学史主流的传统进路处理开普勒光学有其限度。毋宁说，他的 *experimentum*（实验）概念需要被置于他那个时代的社会实践与认识论承诺之中（见 Dupré 2008）[^dupré-2008]。
+    step2: |-
+      开普勒在光学领域也给了经验重要的位置。事实上，他开始光学研究正是因为理论与观察之间的分歧；他使用自己设计的科学仪器（例如见 KGW 21.1, p. 244）。然而，关于*暗箱*与“空气中的像”问题的晚近研究表明：沿物理学史主流的传统进路处理开普勒光学有其限度——毋宁说，他的 *experimentum*（实验）概念需要被置于他那个时代的社会实践与认识论承诺之中（见 Dupré 2008）[^dupré-2008]。
   - id: 45
     kind: body
     source: |-
       Finally, it should be mentioned that a similar significance is assigned to experience and empirical data in Kepler’s harmonic-musical and astrological theories, two fields which are subordinated to his greater cosmological project of HM. For astrology, he uses meteorological data, which he recorded for many years, as confirmation material. This material shows that the Earth, as a whole living being, reacts to the aspects which occur regularly in the heavens (see Boner 2013, pp. 69–99)[^boner-2013]. In his musical theory Kepler was a modern thinker, especially because of the role he gave to experience. As has been noted (Walker, 1978, p. 48), Kepler made acoustic experiments with a monochord long before he wrote his HM. In a letter to Herwart von Hohenburg (KGW 15, ep. 424, p. 450), he describes how he checked the sound of a string at different lengths, establishing in which cases the ear judges the sound to be pleasurable. Kepler does not accept that this limitation is founded on arithmetical speculations, even if this was already assumed by Plato, whom he often follows, and by the Pythagoreans. On the basis of his experiments, Kepler found that there are other divisions of the string that the ear perceives as consonant, i.e., thirds and sixths.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后应当提到，在开普勒的和声-音乐理论与占星理论中，经验与经验数据也被赋予了类似的意义——这两个领域从属于他 *HM* 的更大宇宙论计划。在占星学中，他使用自己记录多年的气象数据作为确证材料。这一材料表明：地球作为一个整体的生命存在者，对天空中规律出现的诸方位相（aspects）作出反应（见 Boner 2013, pp. 69–99）[^boner-2013]。在音乐理论中，开普勒是一位现代思想家，尤其因为他赋予经验的角色的。如已有人指出的（Walker, 1978, p. 48），开普勒早在写作 *HM* 之前很久就用单弦琴做过声学实验。在致赫瓦特·冯·霍恩堡的信中（KGW 15, ep. 424, p. 450），他描述了自己如何检验一根弦在不同长度下的声音，确立在哪些情形下耳朵判断声音为悦耳。开普勒不接受这一限制建立在算术思辨之上——即使这已为柏拉图（他常常追随的）与毕达哥拉斯学派所假定。基于他的实验，开普勒发现弦还有其他的划分也为耳朵感知为谐和，即三度与六度。
+    step2: |-
+      最后应当提到：在开普勒的和声-音乐理论与占星理论中，经验与经验数据也被赋予类似的意义——这两个领域从属于 *HM* 的更大宇宙论计划。在占星学中，他使用自己记录多年的气象数据作确证材料；这一材料表明：地球作为一个整体的生命存在者，对天空中规律出现的诸方位相（aspects）作出反应（见 Boner 2013, pp. 69–99）[^boner-2013]。在音乐理论中，开普勒是一位现代思想家——尤其因为他赋予经验的角色。如已有人指出的（Walker, 1978, p. 48），开普勒早在写作 *HM* 之前很久就用单弦琴做声学实验。在致赫瓦特·冯·霍恩堡的信中（KGW 15, ep. 424, p. 450），他描述了自己如何检验一根弦在不同长度下的声音，确立哪些情形下耳朵判断声音为悦耳。开普勒不接受这一限制建立在算术思辨之上——即使这已为柏拉图（他常追随的）与毕达哥拉斯学派所假定。基于实验，开普勒发现弦还有其他划分也为耳朵感知为谐和：即三度与六度。
   - id: 46
     kind: body
     source: |-
       If cosmology is the main framework of Kepler’s interest, there is no doubt that, as Field has pointed out, he “felt the need to seek observational support for his model of the Universe” (Field 1988, p. 28; see also Field 1982)[^field-1982][^field-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果说宇宙论是开普勒兴趣的主要框架，那么毫无疑问——正如菲尔德指出的——他“感到需要为自己的宇宙模型寻求观测支持”（Field 1988, p. 28；另见 Field 1982）[^field-1982][^field-1988]。
+    step2: |-
+      如果说宇宙论是开普勒兴趣的主要框架，那么毫无疑问——正如菲尔德指出的——他“感到需要为自己的宇宙模型寻求观测支持”（Field 1988, p. 28；另见 Field 1982）[^field-1982][^field-1988]。
   - id: 47
     kind: body
     source: |-
       ## 5. Copernicanism reformed and the three planetary laws
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 改革后的哥白尼主义与三大行星定律
+    step2: |-
+      ## 5 改革后的哥白尼主义与三大行星定律
   - id: 48
     kind: body
     source: |-
       Today Kepler is remembered in the history of sciences above all for his three planetary laws, which he produced in very specific contexts and at different times. While it is questionable whether he would have understood these scientific statements as “laws”—and it is even arguable that he used this term with a different meaning than we do today—it seems to be clear that all three laws (as a linguistic convention, we may continue to use the term) suppose some fundamentals of Kepler’s philosophy: (a) realism, (b) causality, (c) the geometric structure of the cosmos. Besides this, it should be remarked that the common denominator of all three laws is Kepler’s defense of the Copernican worldview, a cosmological system which he was not able to defend without reforming it radically (see Goldstein and Hon, 2005). It took, of course, more than ten years of sustained work to establish the new astronomy on a physical basis, as Kepler had always intended. However, he was convinced early on of the central, both positional and physical, role that must be attributed to the Sun (see Granada 2022)[^granada-2022]. It is noteworthy that already at the very beginning of his career Kepler vehemently defended the reality of the Copernican worldview in a way that he characterized, taking over the terminology from the standard Aristotelian epistemology, as “a priori” (see above Section 3 above and Di Liscia 2009)[^di-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      今天，开普勒在科学史中首先以三大行星定律为人铭记；它们是在非常特定的语境中、于不同时间提出的。虽然他是否会把这些科学陈述理解为“定律”是可疑的——甚至可以争论他对这个词的用法与我们今天不同——但似乎清楚的是：三条定律（作为语言约定，我们可以继续用这个词）都以开普勒哲学的某些基础为前提：（a）实在论；（b）因果性；（c）宇宙的几何结构。除此之外应当指出：三条定律的共同分母是开普勒对哥白尼世界观的辩护——这是一个他若不彻底改革便无法为之辩护的宇宙论体系（见 Goldstein and Hon, 2005）。当然，把新天文学建立在物理基础之上——如开普勒一贯所愿——花了十多年持续的工作。然而他很早就确信太阳所占据的中心地位——既是位置上的，也是物理上的（见 Granada 2022）[^granada-2022]。值得注意的是，早在他生涯的最初，开普勒就激烈地为哥白尼世界观的实在性辩护，其方式被他借用标准亚里士多德认识论的术语刻画为“先天的”（见上文第 3 节及 Di Liscia 2009）[^di-2009]。
+    step2: |-
+      今天，开普勒在科学史中首先以三大行星定律为人铭记；它们是在非常特定的语境中、于不同时间提出的。虽然他是否会把这些科学陈述理解为“定律”是可疑的——甚至可以争论他对这个词的用法与我们今天不同——但似乎清楚的是：三条定律（作为语言约定，我们不妨继续用这个词）都以开普勒哲学的某些基础为前提：（a）实在论；（b）因果性；（c）宇宙的几何结构。除此之外应当指出：三条定律的共同分母，是开普勒对哥白尼世界观的辩护——这个宇宙论体系，他若不彻底改革便无法为之辩护（见 Goldstein and Hon, 2005）。当然，把新天文学建立在物理基础之上——如他一贯所愿——花了十多年持续的工作。然而他很早就确信太阳的中心地位：既是位置上的，也是物理上的（见 Granada 2022）[^granada-2022]。值得注意的是：早在生涯之初，开普勒就激烈地为哥白尼世界观的实在性辩护，其方式被他借用标准亚里士多德认识论的术语刻画为“先天的”（见上文第 3 节及 Di Liscia 2009）[^di-2009]。
   - id: 49
     kind: body
     source: |-
       *Figure 2.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 2。*
+    step2: |-
+      *图 2。*
   - id: 50
     kind: body
     source: |-
       ![figure 2](../assets/kepler/figure2.jpg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![figure 2](../yuanwen/assets/kepler/figure2.jpg)
+    step2: |-
+      ![figure 2](../yuanwen/assets/kepler/figure2.jpg)
   - id: 51
     kind: body
     source: |-
       Figure 2. Kepler’s first law of ellipse and second law of areas (modern representation with greatly exaggerated eccentricity).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 2。开普勒的椭圆第一定律与面积第二定律（现代表示，偏心率大大夸大）。
+    step2: |-
+      图 2。开普勒的椭圆第一定律与面积第二定律（现代表示，偏心率大大夸大）。
   - id: 52
     kind: body
     source: |-
       The first two laws were published initially in AN (1609), although it is known that Kepler had arrived at these results much earlier. His first law establishes that the orbit of a planet is an ellipse with the Sun in one of the foci (see Figure 2). According to the second law, the radius vector from the Sun to a planet P sweeps out equal areas, for instance $SP_1P_2$ and $SP_3P_4$, in equal times. The planet *P* is therefore faster at perihelion, where it is closer to the Sun, and slower at aphelion, where it is farther from the Sun. In accordance with his dynamical approach, Kepler first found the second law and, then, as a further result because of the effect produced by the supposed force, the elliptical path of the planets (for the two first planetary laws see especially Aiton 1973, 1975a, Davis 1992a–e, and 1998a; Donahue 1994; Wilson 1968 and 1972; for Kepler’s system of conics in connection with his optics see the recent study by Del Centina, 2016)[^aiton-1973][^davis-1992a][^donahue-1994][^wilson-1968][^wilson-1972].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      前两条定律最初发表于 *AN*（1609），尽管众所周知开普勒更早便已得出这些结果。第一定律确立：行星的轨道是一个椭圆，太阳位于其中一个焦点（见图 2）。照第二定律，从太阳到行星 P 的向径在相等的时间里扫过相等的面积，例如 $SP_1P_2$ 与 $SP_3P_4$。因此，行星 P 在近日点更快——那里它离太阳更近；在远日点更慢——那里它离太阳更远。按照他的动力学进路，开普勒先找到第二定律，然后作为假设力的效果所产生的进一步结果，得到行星的椭圆路径（关于前两条行星定律，特别见 Aiton 1973, 1975a, Davis 1992a–e 与 1998a; Donahue 1994; Wilson 1968 与 1972；开普勒与光学相关的圆锥曲线系统见 Del Centina 2016 的近作）[^aiton-1973][^davis-1992a][^donahue-1994][^wilson-1968][^wilson-1972]。
+    step2: |-
+      前两条定律最初发表于 *AN*（1609），尽管众所周知开普勒更早便已得出这些结果。第一定律确立：行星的轨道是椭圆，太阳位于其中一个焦点（见图 2）。照第二定律，从太阳到行星 P 的向径在相等时间里扫过相等面积，例如 $SP_1P_2$ 与 $SP_3P_4$。因此行星 P 在近日点更快——那里离太阳更近；在远日点更慢——那里离太阳更远。按照动力学进路，开普勒先找到第二定律，然后作为假设力之效果所产生的进一步结果，得到行星的椭圆路径（关于前两条行星定律，特别见 Aiton 1973, 1975a, Davis 1992a–e 与 1998a; Donahue 1994; Wilson 1968 与 1972；开普勒与光学相关的圆锥曲线系统，见 Del Centina 2016 近作）[^aiton-1973][^davis-1992a][^donahue-1994][^wilson-1968][^wilson-1972]。
   - id: 53
     kind: body
     source: |-
       Perhaps the most significant impact of Kepler’s two laws can be found by considering their cosmological consequences. The first law abolishes the old axiom of the circular orbits of the planets, an axiom which was still valid not only for pre-Copernican astronomy and cosmology but also for Copernicus himself, and for Tycho and Galileo. The second law breaks with another axiom of traditional astronomy, according to which the motion of the planets is uniform in swiftness. The Ptolemaic tradition in astronomy was, of course, aware of this difficulty and applied a particularly effective device for saving the “appearance” of acceleration: the equant. Copernicus, for his own part, insisted on the necessity of the axiom of uniform circular motion. Ptolemy’s equant was understood by Copernicus as a technical device based on the violation of this axiom. Kepler, on the contrary, affirms the reality of changes in the velocities of the planetary motions and provides a physical account for them. After struggling strenuously with established ideas which were located not only in the tradition before him but also in his own thinking, Kepler abandoned the circular path of planetary motion and in this way initiated a more empirical approach to cosmology (though see Brackenridge 1982)[^brackenridge-1982].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒两条定律最重大的影响，也许可以在其宇宙论后果中找到。第一定律废除了行星轨道为圆周这一古老公理——它不仅对前哥白尼的天文学与宇宙论有效，对哥白尼本人、第谷与伽利略也仍然有效。第二定律则与传统天文学的另一条公理决裂：行星的运动在速度上是均匀的。托勒密的天文学传统当然意识到这一困难，并应用了一种格外有效的装置来拯救加速的“表象”：偏心匀速点（equant）。哥白尼则坚持均匀圆周运动公理的必要性：他把托勒密的偏心匀速点理解为基于违反该公理的一种技术装置。开普勒恰恰相反：他肯定行星运动速度变化的实在性，并为它们提供物理学的说明。在与既有观念——它们不仅位于他之前的传统中，也在他自己的思想中——艰苦搏斗之后，开普勒放弃了行星运动的圆形路径，由此开启了通向宇宙论的更经验性的进路（不过参见 Brackenridge 1982）[^brackenridge-1982]。
+    step2: |-
+      开普勒两条定律最重大的影响，也许在宇宙论后果中可见。第一定律废除了行星轨道为圆周这一古老公理——它不仅对前哥白尼的天文学与宇宙论有效，对哥白尼本人、第谷与伽利略也仍有效。第二定律与传统天文学的另一条公理决裂：行星运动在速度上均匀。托勒密的天文学传统当然意识到这一困难，并应用一种格外有效的装置拯救加速的“表象”：偏心匀速点（equant）。哥白尼则坚持均匀圆周运动公理的必要性：他把托勒密的偏心匀速点理解为违反该公理的一种技术装置。开普勒恰恰相反：他肯定行星运动速度变化的实在性，并为它们提供物理学说明。与既有观念——不仅在他之前的传统中，也在他自己的思想中——艰苦搏斗之后，开普勒放弃行星运动的圆形路径，由此开启通向宇宙论的更经验性的进路（不过参见 Brackenridge 1982）[^brackenridge-1982]。
   - id: 54
     kind: body
     source: |-
       Kepler published the third law, the so-called “harmonic law”, for the first time in his *Harmonice mundi* (1619), i.e., ten years later. In his *Epitome*, he provided a more systematic approach to all three laws, their grounds and implications (see Davis 2003; Stephenson 1987)[^davis-2003][^stephenson-1987]. In Book 5, chapter 3, as point 8 of 13 (KGW 6, p. 302; Engl. trans., pp. 411–12), Kepler expresses, almost accidentally, his fundamental relationship connecting elapsed times with distances, which in modern notation could be expressed as:
 
       $$ \left(\frac{T_1}{T_2}\right)^2 = \left(\frac{a_1}{a_2}\right)^3 $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒第一次发表第三定律——所谓“和谐定律”——是在《世界的和谐》（1619）中，即十年之后。在《概要》中，他对全部三条定律及其根据与含义给出了更系统的处理（见 Davis 2003; Stephenson 1987）[^davis-2003][^stephenson-1987]。在第 5 卷第 3 章，作为 13 个论点中的第 8 点（KGW 6, p. 302；英译 pp. 411–12），开普勒几乎是偶然地表达了把流逝时间与距离联系起来的基本关系，用现代记号可写作：
+    step2: |-
+      开普勒第一次发表第三定律——所谓“和谐定律”——是在《世界的和谐》（1619）中，即十年之后。在《概要》中，他对全部三条定律及其根据与含义给出了更系统的处理（见 Davis 2003; Stephenson 1987）[^davis-2003][^stephenson-1987]。在第 5 卷第 3 章，作为 13 个论点中的第 8 点（KGW 6, p. 302；英译 pp. 411–12），开普勒几乎是偶然地表达了把流逝时间与距离联系起来的基本关系，用现代记号可写作： 
+
+       $$ \left(rac{T_1}{T_2}ight)^2 = \left(rac{a_1}{a_2}ight)^3 $$
   - id: 55
     kind: body
     source: |-
       with $T_1$ and $T_2$ representing the periodic times of two planets and $a_1$ and $a_2$ the length of their semi-major axes. A further formulation of this relationship, which is often found in the literature, is: $a^3/T^2 = K$, which expresses with $K$ that the relationship between the third power of the distances and the square of the times is a constant (however, see Davis 2005, pp. 171–172; for the third planetary law see especially Stephenson 1987)[^davis-2005][^stephenson-1987]. As a consequence of the third law, the time a planet takes to travel around the Sun will significantly increase the farther away it is or the longer the radius of its orbit. Thus, for instance, Saturn’s sidereal period is almost 30 years, while Mercury needs fewer than 88 days to go around the Sun. For the history of cosmology, it is important to make clear that the third law fulfils Kepler’s search for a *systematic* representation and defense of the Copernican worldview, in which planets are not absolutely independent of each other but integrated in a harmonic world system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $T_1$ 与 $T_2$ 表示两颗行星的公转周期，$a_1$ 与 $a_2$ 表示它们半长轴的长度。这一关系的另一种表述在文献中也很常见：$a^3/T^2 = K$，它以 $K$ 表示距离的三次方与时间的平方之间的关系是一个常数（不过见 Davis 2005, pp. 171–172；关于第三行星定律特别见 Stephenson 1987）[^davis-2005][^stephenson-1987]。作为第三定律的推论，行星绕太阳一周所需的时间会随着它离得更远、或其轨道半径更长而显著增加。例如，土星的恒星周期接近 30 年，而水星绕太阳一周只需不到 88 天。就宇宙论的历史而言，重要的是讲清楚：第三定律实现了开普勒对哥白尼世界观之*系统性*表象与辩护的追求——在其中，行星并非彼此绝对独立，而是被整合进一个和谐的世界体系。
+    step2: |-
+      其中 $T_1$ 与 $T_2$ 表示两颗行星的公转周期，$a_1$ 与 $a_2$ 表示它们半长轴的长度。这一关系的另一种表述在文献中也很常见：$a^3/T^2 = K$——它以 $K$ 表示距离的三次方与时间的平方之比为常数（不过见 Davis 2005, pp. 171–172；关于第三行星定律特别见 Stephenson 1987）[^davis-2005][^stephenson-1987]。作为第三定律的推论：行星绕太阳一周所需的时间，随它离得更远、轨道半径更长而显著增加。例如土星的恒星周期接近 30 年，而水星绕太阳一周只需不到 88 天。就宇宙论的历史而言，重要的是讲清楚：第三定律实现了开普勒对哥白尼世界观之*系统性*表象与辩护的追求——在其中，行星并非彼此绝对独立，而是被整合进一个和谐的世界体系。
   - id: 56
     kind: body
     source: |-
       ## 6. Optics and metaphysics of light
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 光学与光的形而上学
+    step2: |-
+      ## 6 光学与光的形而上学
   - id: 57
     kind: body
     source: |-
       Kepler contributed to the special field of optics with two seminal works, the *Ad* *Vitellionem paralipomena* (=APO) and the *Dioptrice* (=DI), the latter motivated in large part by the publication in 1610 of Galileo’s *Sidereal Messenger* (*Sidereus Nuncius*). In his *Conversation with the Sidereal Messenger* (*Dissertatio cum Nuncio Sidereo* … *a Galillaeo Galilaeo*, KGW 4, pp. 281–311), he supported the factual information given by Galileo, indicating at the same time the necessity of giving an account of the causes of the observed phenomena. The background for his investigation into optics was undoubtedly the different particular questions of astronomical optics (see Straker 1971). In this context he concentrated his efforts on an explanation of the phenomena of eclipses, of the apparent size of the Moon and of atmospheric refraction. Kepler investigated the theory of the *camera obscura* very early and recorded its general principles (see commentary by M. Hammer in KGW 2, pp. 400–1 and Straker 1981)[^straker-1981]. In addition, he worked intensively on the theory of the telescope and invented the refracting astronomical or ‘Keplerian’ telescope, which involved a considerable improvement over the Galilean telescope (see especially DI, Problem 86, KGW 4, pp. 387–88). Besides these impressive contributions, Kepler expanded his research program to embrace mathematics as well as anatomy, discussing for instance conic sections and explaining the process of vision (see Crombie 1991 and especially Lindberg 1976b)[^crombie-1991][^lindberg-1976b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      开普勒以两部开创性的著作对光学这一特殊领域做出了贡献：《补编，天文学的光学部分》（＝*APO*）与《折射光学》（＝*DI*）；后者的动机很大程度上来自 1610 年伽利略《星际信使》的出版。在《与星际信使的对话》（*Dissertatio cum Nuncio Sidereo…a Galillaeo Galilaeo*, KGW 4, pp. 281–311）中，他为伽利略给出的事实信息辩护，同时指出必须对观测到的现象之原因作出说明。他研究光学的背景无疑是天文光学的种种具体问题（见 Straker 1971）。在此语境中，他把精力集中于解释月食现象、月球的视大小与大气折射。开普勒很早就研究了*暗箱*理论并记录了它的一般原理（见 M. Hammer 载 KGW 2, pp. 400–1 的评注，及 Straker 1981）[^straker-1981]。此外，他深入研究了望远镜理论，发明了折射式天文望远镜即“开普勒式”望远镜——相比伽利略式望远镜有相当大的改进（特别见 DI, Problem 86, KGW 4, pp. 387–88）。除了这些令人印象深刻的贡献，开普勒把研究计划扩展到数学与解剖学：例如讨论圆锥曲线、解释视觉过程（见 Crombie 1991，尤其 Lindberg 1976b）[^crombie-1991][^lindberg-1976b]。
+    step2: |-
+      开普勒以两部开创性著作对光学这一特殊领域做出贡献：《补编，天文学的光学部分》（＝*APO*）与《折射光学》（＝*DI*）；后者的动机很大程度上来自 1610 年伽利略《星际信使》的出版。在《与星际信使的对话》（*Dissertatio cum Nuncio Sidereo…a Galillaeo Galilaeo*, KGW 4, pp. 281–311）中，他为伽利略给出的事实信息辩护，同时指出：必须对观测到的现象之原因作出说明。他研究光学的背景无疑是天文光学的种种具体问题（见 Straker 1971）。在此语境中，他把精力集中于解释月食、月球视大小与大气折射。开普勒很早便研究*暗箱*理论并记录其一般原理（见 M. Hammer 载 KGW 2, pp. 400–1 的评注，及 Straker 1981）[^straker-1981]。此外，他深入研究望远镜理论，发明了折射式天文望远镜即“开普勒式”望远镜——较伽利略式望远镜有相当大的改进（特别见 DI, Problem 86, KGW 4, pp. 387–88）。除这些令人印象深刻的贡献，开普勒把研究计划扩展到数学与解剖学：例如讨论圆锥曲线、解释视觉过程（见 Crombie 1991，尤其 Lindberg 1976b）[^crombie-1991][^lindberg-1976b]。
   - id: 58
     kind: body
     source: |-
       In Chapter 1 of APO (“On the Nature of Light”), Kepler expounds 38 propositions concerning different properties of light: light flows in all directions from every point of a body’s surface; it has no matter, weight, or resistance. Following—but also inverting—the Aristotelian argument for the temporality of motion, he affirms that the motion of light takes place not in time but in an instant (*in momento*). Light is propagated by straight lines (rays), which are not light itself but its motion. It is important to note that although light travels from one body to another, it is not a body but a two-dimensional entity which tends to expand to a curved surface. The two-dimensionality of light is probably the main reason why it is incorporeal. Motion in general plays a significant role in Kepler’s philosophy of light. For Straker, the supposed link between optics and physics (especially in Prop. 20, where the mechanical analyses are introduced) “reveals the full extent of his commitment to a mechanical physics of light” (Straker 1971, p. 509).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 *APO* 第 1 章（“论光的性质”）中，开普勒阐述了关于光的不同性质的 38 个命题：光从物体表面的每一点向所有方向流出；它没有物质、重量或阻力。追随——同时也反转——亚里士多德关于运动时间性的论证，他断言光的运动不在时间中发生，而在瞬间发生（*in momento*）。光沿直线（射线）传播；射线不是光本身，而是光的运动。值得注意的是：虽然光从一个物体传到另一个物体，它却不是物体，而是一种趋于扩展为曲面的二维实体。光的二维性也许是它无形体的主要原因。运动在开普勒的光哲学中扮演着重要角色。对斯特雷克而言，光学与物理学（尤其在引入力学分析的第 20 命题中）之间假定的联系，“揭示了他对光的机械物理学的承诺的全部程度”（Straker 1971, p. 509）。
+    step2: |-
+      在 *APO* 第 1 章（“论光的性质”）中，开普勒阐述关于光之不同性质的 38 个命题：光从物体表面的每一点向所有方向流出；它没有物质、重量或阻力。追随——同时反转——亚里士多德关于运动时间性的论证，他断言：光的运动不在时间中发生，而在瞬间发生（*in momento*）。光沿直线（射线）传播；射线不是光本身，而是光的运动。值得注意的是：虽然光从一个物体传到另一个物体，它却不是物体，而是一种趋于扩展为曲面的二维实体——光的二维性也许正是它无形体的主要原因。运动在开普勒的光哲学中扮演重要角色。对斯特雷克而言，光学与物理学（尤其在引入力学分析的第 20 命题中）之间假定的联系，“揭示了他对光的机械物理学之承诺的全部程度”（Straker 1971, p. 509）。
   - id: 59
     kind: body
     source: |-
       Two questions are intensively discussed by modern specialists. Firstly, to what extent is the attribution of a mechanistic approach to Kepler justified? Secondly, how should one determine his place in the history of sciences, especially in the field of optics: do the main lines of thought in Kepler’s optics indicate a *continuity* or rather a *rupture* with tradition? There are well–grounded arguments for different positions on both questions. For Crombie (1967, 1991) and Straker, Kepler develops a mechanical approach, which can be particularly appreciated in his explanation of vision using the model of the *camera obscura*. Besides this, Straker stresses that Kepler’s basic mechanicism is also powerfully assisted by his conception of light as a non-active, passive entity. In addition, the concept of motion and the explanations using the model of the balance are indicative of a commitment to mechanicism (Straker 1970, pp. 502–3)[^straker-1970]. On the contrary, Lindberg (1976a), who supports the “continuity side” of the dispute, has quite convincingly showed that, for Kepler, light has a constructive and active function in the universe, not only in optics but also in astrology, astronomy, and natural philosophy (for Kepler’s criticism of the medieval tradition see also Chen-Morris / Unguru, 2001).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      两个问题受到现代专家的集中讨论。第一，把一种机械论的进路归于开普勒在多大程度上是正当的？第二，应如何确定他在科学史——尤其光学领域——中的位置：开普勒光学的主要思想路线表明的是与传统的*连续*，还是毋宁说是*断裂*？对这两个问题都存在有充分根据的不同立场。克龙比（1967, 1991）与斯特雷克认为，开普勒发展了一种力学的进路——这在他的视觉解释中用*暗箱*模型可以特别清楚地看到。除此之外，斯特雷克强调：开普勒的基本机械论也得到他把光构想为非主动的、被动实体的有力支持。此外，运动概念与使用天平模型的解释，都表明对机械论的承诺（Straker 1970, pp. 502–3）[^straker-1970]。相反，林德伯格（1976a）支持这场争论的“连续性一方”，他相当有说服力地表明：对开普勒而言，光在宇宙中具有建构性的、主动的功能——不仅在光学中，也在占星学、天文学与自然哲学中（关于开普勒对中世纪传统的批评，另见 Chen-Morris / Unguru, 2001）。
+    step2: |-
+      两个问题受到现代专家的集中讨论。第一：把机械论进路归于开普勒，在多大程度上正当？第二：应如何确定他在科学史——尤其光学领域——中的位置：开普勒光学的主要思想路线表明与传统的*连续*，还是毋宁*断裂*？对这两个问题都存在有充分根据的不同立场。克龙比（1967, 1991）与斯特雷克认为，开普勒发展了一种力学进路——这在他的视觉解释中用*暗箱*模型看得特别清楚。此外，斯特雷克强调：开普勒的基本机械论还得到他把光构想为非主动的、被动实体的有力支持；运动概念与天平模型的解释，也都表明对机械论的承诺（Straker 1970, pp. 502–3）[^straker-1970]。相反，林德伯格（1976a）支持争论的“连续性一方”，他相当有说服力地表明：对开普勒而言，光在宇宙中具有建构性的、主动的功能——不仅在光学中，也在占星学、天文学与自然哲学中（关于开普勒对中世纪传统的批评，另见 Chen-Morris / Unguru, 2001）。
   - id: 60
     kind: body
     source: |-
       ## 7. Harmony and Soul
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 和谐与灵魂
+    step2: |-
+      ## 7 和谐与灵魂
   - id: 61
     kind: body
     source: |-
       From a philosophical point of view, Kepler considered the HM to be his main work and the one he most cherished. Containing his third planetary law, this work represents definitively a seminal contribution to the history of astronomy. But he did not reduce his long prepared project to an astronomical investigation—his first thoughts on the notion of “harmony” arose already in 1599, although he did not publish his work until 1619—but instead extensively discussed its mathematical foundations and its philosophical implications, including astrology, natural philosophy and psychology. Thus, Kepler’s third planetary law appears in a context which goes far beyond astronomy and to a great extent takes up again the perspective of his youthful MC. When talking about “harmony” in Kepler, one needs to keep in mind that the background giving its full significance to this notion goes far beyond music theory. Of course, music is involved and plays a determining role – and along with it the corresponding mathematical concepts stemming from the Pythagorean tradition. However, in Kepler “harmony” represents the most general idea, the very core of the world as an ordered whole and, therefore, the ultimate goal to be pursued in his philosophical investigations. Social and political aspects are also included. It is surely not a minor detail that Kepler, on the threshold of the Thirty Years’ War, dedicated his HM to King James I of England “the man whom Kepler believed was best suited to apply its lessons to the most pressing harmony of all: the harmony of church and state” (Rothman 2017, p. 6)[^rothman-2017].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从哲学的角度看，开普勒把 *HM* 视为他最主要的、也是他最珍爱的著作。这部包含第三行星定律的著作，无疑是天文学史上开创性的贡献。但他没有把这个酝酿已久的项目还原为天文学研究——关于“和谐”的最初想法早在 1599 年就已出现，尽管著作迟至 1619 年才出版——而是广泛讨论了它的数学基础与哲学含义，包括占星学、自然哲学与心理学。因此，开普勒的第三行星定律出现在一个远远超出天文学的语境中，并在很大程度上重新接续了他青年时期 *MC* 的视角。谈论开普勒的“和谐”时，需要记住：赋予这一概念以完整意义的背景远远超出音乐理论。当然，音乐牵涉其中并扮演决定性的角色——与之相伴的是源自毕达哥拉斯传统的相应数学概念。然而在开普勒那里，“和谐”代表最普遍的观念，是作为一个有秩序的整体的世界之核心，因而也是他哲学探究所要追求的终极目标。社会与政治的方面也被包括在内。细节并非无关紧要：开普勒在三十年战争的前夜，把 *HM* 献给英格兰国王詹姆斯一世——“开普勒相信最适合把它的教训应用于最迫切的和谐——教会与国家的和谐——的那个人”（Rothman 2017, p. 6）[^rothman-2017]。
+    step2: |-
+      从哲学的角度看，开普勒把 *HM* 视为他最主要的、也是他最珍爱的著作。这部包含第三行星定律的著作，无疑是天文学史上开创性的贡献。但他没有把酝酿已久的项目还原为天文学研究——关于“和谐”的最初想法早在 1599 年已出现，尽管著作迟至 1619 年才出版——而是广泛讨论其数学基础与哲学含义：包括占星学、自然哲学与心理学。因此，开普勒的第三行星定律出现在一个远远超出天文学的语境中，并在很大程度上重新接续青年时期 *MC* 的视角。谈论开普勒的“和谐”，须记住：赋予这一概念以完整意义的背景远超音乐理论。当然，音乐牵涉其中且扮演决定性角色——与之相伴的是源自毕达哥拉斯传统的相应数学概念。然而在开普勒那里，“和谐”代表最普遍的观念，是作为有秩序整体的世界之核心，因而也是他哲学探究的终极目标。社会与政治的方面也包括在内。细节并非无关紧要：开普勒在三十年战争前夜把 *HM* 献给英格兰国王詹姆斯一世——“开普勒相信最适合把它的教训应用于最迫切的和谐——教会与国家的和谐——的那个人”（Rothman 2017, p. 6）[^rothman-2017]。
   - id: 62
     kind: body
     source: |-
       According to Kepler, it is necessary to distinguish “sensible” from “pure” harmony. The first is to be found among natural, sensible entities, like sounds in music or rays of light; both could be in proportion to one another and hence in harmony. He resolves this matter by combining three of the Aristotelian categories: quantity, relation and, finally, quality. Through the function of the category of relation Kepler passes over to the active function of the mind (or soul). It turns out that two things can be characterized as harmonic if they can be compared according to the category of quantity. But the fact that at least two things are needed shows that the property of “being harmonic” is not a property of an isolated thing. Furthermore, the relationship between the things cannot be found in the things themselves either; rather, it is produced by the mind: “in general every relation is nothing without mind apart from the things which it relates, because they do not have the relation which they are said to have unless the presence of some mind is assumed, to relate one to another” (KGW 6, p. 212; Engl. trans., p. 291). This process takes place through the comparison of different sensible things with an archetype (*archetypus*) present in the mind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照开普勒的看法，必须区分“可感的”和谐与“纯粹的”和谐。前者见于自然的、可感的实体之中，如音乐中的声音或光线；二者可以彼此成比例，从而处于和谐之中。他通过结合亚里士多德的三个范畴来解决这一问题：量、关系以及最后的质。经由关系范畴的功能，开普勒过渡到心灵（或灵魂）的主动功能。结果是：如果两样东西可以按量的范畴来比较，它们就可以被刻画为和谐的。但至少需要两样东西这一事实表明：“是和谐的”这一属性不是孤立之物的属性。 furthermore，事物之间的关系也不能在事物自身之中找到；毋宁说，它由心灵产生：“一般而言，每一种关系，若离开心灵、离开它所关联的事物，就什么都不是；因为除非假定有某个心灵在场把它们彼此关联，事物并不具有人们说它们具有的那种关系”（KGW 6, p. 212；英译 p. 291）。这一过程通过把不同的可感事物与心灵中在场的一个原型（*archetypus*）相比较而实现。
+    step2: |-
+      照开普勒的看法，必须区分“可感的”和谐与“纯粹的”和谐。前者见于自然的、可感的实体之中——如音乐中的声音或光线；二者可以彼此成比例，从而处于和谐之中。他通过结合亚里士多德的三个范畴解决这一问题：量、关系，以及最后的质。经由关系范畴的功能，开普勒过渡到心灵（或灵魂）的主动功能。结果是：若两样东西可以按量的范畴比较，它们就可被刻画为和谐的。但至少需要两样东西——这一事实表明：“是和谐的”不是孤立之物的属性。此外，事物间的关系也不能在事物自身之中找到；毋宁说，它由心灵产生：“一般而言，每一种关系若离开心灵、离开它所关联的事物就什么都不是；因为除非假定有某个心灵在场把它们彼此关联，事物并不具有人们说它们具有的那种关系”（KGW 6, p. 212；英译 p. 291）。这一过程经由把可感事物与心灵中在场的原型（*archetypus*）相比较而实现。
   - id: 63
     kind: body
     source: |-
       The next central question directly concerns gnoseology, for Kepler gives a psychological account of the path followed by sensible things into the mind. He resumes the scholastic species theory: immaterial species radiate from the sensible things and affect the sense organs by acting firstly on the “forecourts” and then on the internal functions (for the notion of ‘species’ in Kepler see Rabin 2005, which has found both favorable and critical reception in the literature)[^rabin-2005]. They arrive at the imagination and from there go over to the *sensus communis*, so that, according to the traditional teaching, the sensible information received is now able to be processed and used in statements. From here onwards, the sensible things are “preserved in the memory, brought forth by recollection, [and] distinguished by the higher faculty of the soul” (Caspar 1993, p. 269, cf. KGW 6, p. 214, lines 18–23; Engl. trans., p. 293)[^caspar-1993]. While harmony arises as an activity of the soul/mind consisting in relating quantitatively, Kepler adds, taking over the Aristotelian doctrine of categories, that harmony is a “qualitative relation” as well, involving the “quality of shape, being formed from the regular figures”, which provides the grounds for comparison (KGW 6, p. 216, lines 37–41; Engl. trans., p. 296). If this is how “things”, i.e., sensible entities, find their way into the soul in order to be compared, it by no means represents—as Kepler admitted—a sufficient explanation of how non-sensible things, i.e., mathematical entities, find their way into the mind. How do they come into the soul? Kepler accepted Aristotle’s criticism of Pythagorean philosophy concerning numbers: both Kepler and Aristotle are convinced that numbers constitute ontologically a lower class within mathematical entities (for Kepler, they are derived from geometrical entities). Nevertheless, Aristotle’s philosophy is insufficient to grasp the essence of mathematics. By aligning himself with Proclus, from whom he quotes a long passage of his *Commentary on Euclides*, Kepler defends Plato’s theory of *anamnêsis* against Aristotle’s doctrine of the *tabula rasa*. His discussion lies at the origin of the classical debate between empiricism and rationalism which was to dominate the philosophical scene for generations to come. A connection with idealism is, of course, apparent (see, for instance, Caspar 1993, Engl. trans., p. 269)[^caspar-1993], and it is a fact that Kepler was positively received within German Idealism of the 19ᵗʰ century (Schwaetzer 2016, esp. 217–19)[^schwaetzer-2016]. Historically, however, it seems to be more accurate to link his position with the philosophical tradition of St. Augustine.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下一个核心问题直接关乎认识论，因为开普勒对可感事物进入心灵的路径给出了一种心理学说明。他重述了经院哲学的种相理论：非物质的种相从可感事物中辐射出来，作用于感官——首先作用于“前庭”，继而作用于内部官能（关于开普勒的“种相”概念见 Rabin 2005，该说在文献中既有支持也有批评）[^rabin-2005]。它们抵达想象，再从那里转入*共通感*；于是按传统教义，所接受的感性信息现在能够被加工并被用于陈述。从这里开始，可感事物“被保存在记忆中，由回忆唤起，［并］被灵魂的更高官能所分辨”（Caspar 1993, p. 269；参 KGW 6, p. 214, lines 18–23；英译 p. 293）[^caspar-1993]。和谐作为灵魂/心灵的一种活动产生，它在于定量地建立关系；开普勒补充道——接过亚里士多德的范畴学说——和谐也是一种“性质的关系”，涉及“形状的质，它由规则的图形形成”，后者为比较提供根据（KGW 6, p. 216, lines 37–41；英译 p. 296）。如果“事物”即可感实体就是这样找到进入灵魂之路以便被比较的，那么——正如开普勒所承认的——它绝不构成对非可感事物即数学实体如何进入心灵的充分解释。它们如何进入灵魂？开普勒接受了亚里士多德对毕达哥拉斯哲学关于数的批评：开普勒与亚里士多德都相信，数在本体论上构成数学实体中较低的一个类（对开普勒而言，它们派生自几何实体）。尽管如此，亚里士多德的哲学不足以把握数学的本质。通过把自己与普罗克洛对齐——他从后者的《欧几里得几何原本评注》中引用了一大段——开普勒为柏拉图的*回忆说*（*anamnêsis*）辩护，反对亚里士多德的*白板说*。他的讨论位于经验主义与理性主义之间经典论争的源头，这场论争将在随后几代人中支配哲学舞台。与唯心论的联系当然显而易见（例如见 Caspar 1993 英译 p. 269）[^caspar-1993]；而事实上，开普勒在十九世纪德意志唯心论内部得到了积极的接受（Schwaetzer 2016, esp. 217–19）[^schwaetzer-2016]。然而从历史上看，把他的立场与圣奥古斯丁的哲学传统联系起来似乎更为准确。
+    step2: |-
+      下一个核心问题直接关乎认识论：开普勒对可感事物进入心灵的路径给出一种心理学说明。他重述经院哲学的种相理论：非物质的种相从可感事物中辐射出来，作用于感官——先作用于“前庭”，继而作用于内部官能（关于开普勒的“种相”概念见 Rabin 2005，该说在文献中既有支持也有批评）[^rabin-2005]。它们抵达想象，再转入*共通感*；于是按传统教义，所接受的感性信息如今能够被加工、被用于陈述。从这里开始，可感事物“被保存在记忆中，由回忆唤起，［并］被灵魂的更高官能所分辨”（Caspar 1993, p. 269；参 KGW 6, p. 214, lines 18–23；英译 p. 293）[^caspar-1993]。和谐作为灵魂/心灵的活动产生，在于定量地建立关系；开普勒补充道——接过亚里士多德的范畴学说——和谐也是一种“性质的关系”，涉及“形状的质，由规则的图形形成”，后者为比较提供根据（KGW 6, p. 216, lines 37–41；英译 p. 296）。如果“事物”（即可感实体）就是这样进入灵魂以便被比较的，那么——正如开普勒承认的——它绝不构成对非可感事物（即数学实体）如何进入心灵的充分解释：它们如何进入灵魂？开普勒接受亚里士多德对毕达哥拉斯哲学关于数的批评：开普勒与亚里士多德都相信，数在本体论上构成数学实体中较低的类（对开普勒而言，数派生自几何实体）。尽管如此，亚里士多德的哲学不足以把握数学的本质。开普勒与普罗克洛对齐——从其《欧几里得几何原本评注》引用一大段——为柏拉图的*回忆说*（*anamnêsis*）辩护，反对亚里士多德的*白板说*。他的讨论位于经验主义与理性主义之间经典论争的源头——这场论争将在随后几代人中支配哲学舞台。与唯心论的联系当然显而易见（例如见 Caspar 1993 英译 p. 269）[^caspar-1993]；而事实上，开普勒在十九世纪德意志唯心论内部得到积极接受（Schwaetzer 2016, esp. 217–19）[^schwaetzer-2016]。然而从历史上看，把他的立场与圣奥古斯丁的哲学传统联系起来似乎更为准确。
   - id: 64
     kind: body
     source: |-
       Besides psychology and gnoseology, the other main spectrum of questions Kepler deals with in Book 4 is his theory of “aspects”, i.e., astrology (HM, IV, Cap. 4–7), a further field of application of his psychology and further evidence of the role of geometry in his philosophy. The “aspects”, i.e., the angles between the planets, Moon and Sun, are all he wishes to save from the old astrology, which he harshly criticizes; for the aspects are or can be reduced to geometrical structures, the archetypes, which can be recognized by the soul. According to Kepler, there is no ‘mechanical influence’ of the heavens: stars and constellations are not relevant in his astrology. Nevertheless, Kepler devoted considerable effort to determining the size of the stars and their role within his Copernican astronomy (see Graney 2019)[^graney-2019], while maintaining, however, that the astrological configuration of the planets influences events on Earth and human life. Rather, both the Earth and human beings, ultimately, like all other living entities, are provided with a soul in which the geometrical archetypes are present. By the formation of an aspect in the heavens, symmetry arises and stimulates the soul of the Earth or of human beings. “The Earth,” Kepler writes, responds to “what the aspects whistle” (KGW 11.2, p. 48; for his astrology see especially Field 1984 and Rabin 1997, Boner 2005 and 2006)[^boner-2005][^boner-2006][^field-1984][^field-1997][^rabin-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除心理学与认识论之外，开普勒在第 4 卷中处理的另一主要问题谱系是他的“方位相”理论，即占星学（HM, IV, Cap. 4–7）——他的心理学的又一应用领域，也是几何学在其哲学中作用的又一证据。“方位相”即行星、月亮与太阳之间的角度，是开普勒想从旧占星学中拯救的全部——他对后者作了严厉的批评；因为方位相是、或可以还原为几何结构，即灵魂能够认出的那些原型。照开普勒的看法，不存在天界的“机械影响”：恒星与星座在他的占星学中不起作用。尽管如此，开普勒为确定恒星的大小及其在哥白尼天文学中的作用付出了相当的努力（见 Graney 2019）[^graney-2019]，同时坚持：行星的占星学构型影响尘世的事件与人的生活。毋宁说，地球与人类——最终与所有其他生命实体一样——都被赋予一个灵魂，几何原型即在灵魂之中。当天空中形成一个方位相时，对称性产生，刺激地球或人的灵魂。开普勒写道：“地球”回应“方位相所吹奏的调子”（KGW 11.2, p. 48；关于他的占星学特别见 Field 1984 与 Rabin 1997, Boner 2005 与 2006）[^boner-2005][^boner-2006][^field-1984][^field-1997][^rabin-1997]。
+    step2: |-
+      除心理学与认识论，开普勒在第 4 卷处理的另一主要问题谱系是“方位相”理论，即占星学（HM, IV, Cap. 4–7）——他的心理学的又一应用领域，也是几何学在其哲学中作用的又一证据。“方位相”即行星、月亮与太阳之间的角度，是开普勒想从旧占星学中拯救的全部——他对后者严厉批评；因为方位相是、或可还原为几何结构，即灵魂能够认出的原型。照开普勒的看法，不存在天界的“机械影响”：恒星与星座在他的占星学中不起作用。尽管如此，开普勒为确定恒星的大小及其在哥白尼天文学中的作用付出相当努力（见 Graney 2019）[^graney-2019]，同时坚持：行星的占星学构型影响尘世事件与人的生活。毋宁说，地球与人类——最终与所有其他生命实体一样——都被赋予一个灵魂，几何原型即在灵魂之中。当天空中形成一个方位相，对称性产生，刺激地球或人的灵魂。开普勒写道：“地球”回应“方位相所吹奏的调子”（KGW 11.2, p. 48；关于他的占星学特别见 Field 1984 与 Rabin 1997, Boner 2005 与 2006）[^boner-2005][^boner-2006][^field-1984][^field-1997][^rabin-1997]。
   - id: 65
     kind: oir
     source: |-
@@ -400,11 +524,21 @@ segments:
       - [Biography of Johannes Kepler](http://galileo.rice.edu/sci/kepler.html), The Galileo Project, Rice University.
       - [Kepler’s Planetary Laws](https://mathshistory.st-andrews.ac.uk/HistTopics/Keplers_laws/), by A.E.L. Davis (Imperial College London), in Historical Topics at MacTutor, University of St. Andrews.
       - [Planetary Motion Tackled Kinematically](http://web.archive.org/web/20160515234447/http://www-history.mcs.st-andrews.ac.uk/Extras/Kepler_planetary_motion.html), by A.E.L. Davis (Imperial College London), at MacTutor, University of St. Andrews.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [开普勒传记](https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/)，MacTutor，圣安德鲁斯大学。
+      - [约翰内斯·开普勒传](http://galileo.rice.edu/sci/kepler.html)，伽利略计划，莱斯大学。
+      - [开普勒的行星定律](https://mathshistory.st-andrews.ac.uk/HistTopics/Keplers_laws/)，A.E.L. 戴维斯（帝国理工学院），MacTutor 历史专题，圣安德鲁斯大学。
+      - [运动学的行星运动](http://web.archive.org/web/20160515234447/http://www-history.mcs.st-andrews.ac.uk/Extras/Kepler_planetary_motion.html)，A.E.L. 戴维斯（帝国理工学院），MacTutor，圣安德鲁斯大学。
+    step2: |-
+      - [开普勒传记](https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/)，MacTutor，圣安德鲁斯大学。
+      - [约翰内斯·开普勒传](http://galileo.rice.edu/sci/kepler.html)，伽利略计划，莱斯大学。
+      - [开普勒的行星定律](https://mathshistory.st-andrews.ac.uk/HistTopics/Keplers_laws/)，A.E.L. 戴维斯（帝国理工学院），MacTutor 历史专题，圣安德鲁斯大学。
+      - [运动学的行星运动](http://web.archive.org/web/20160515234447/http://www-history.mcs.st-andrews.ac.uk/Extras/Kepler_planetary_motion.html)，A.E.L. 戴维斯（帝国理工学院），MacTutor，圣安德鲁斯大学。
   - id: 66
     kind: ack
     source: |-
       Support from the Université de Versailles-Saint-Quentin en Yvelines (ESR Moyen âge/Temps modernes, Prof. Emmanuel Bury), where the author was a Prof. Invité from February 1, 2010 to May 30, 2010, made it possible for him to complete this entry. The author also wishes to thank David T. McAuliffe, and his colleague Patrick J. Boner for their suggestions as to how to improve the text linguistically. The editors of the SEP wish to thank Sheila Rabin and Jill Kraye, respectively, for their outstanding efforts in refereeing and editing this work.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作者在凡尔赛圣康坦大学（中世纪/近代早期 ESR，Emmanuel Bury 教授）获得的资助——2010 年 2 月 1 日至 5 月 30 日作者在那里任客座教授——使他得以完成本词条。作者还感谢大卫·T. 麦考利夫，以及他的同事帕特里克·J. 博纳为改进本文语言提出的建议。SEP 的编辑们分别感谢希拉·拉宾与吉尔·克雷耶为本词条所作的出色审稿与编辑工作。
+    step2: |-
+      作者在凡尔赛圣康坦大学（中世纪/近代早期 ESR，Emmanuel Bury 教授）获得的资助——2010 年 2 月 1 日至 5 月 30 日作者在那里任客座教授——使他得以完成本词条。作者还感谢大卫·T. 麦考利夫，以及同事帕特里克·J. 博纳为改进本文语言提出的建议。SEP 的编辑们分别感谢希拉·拉宾与吉尔·克雷耶为本词条所作的出色审稿与编辑工作。

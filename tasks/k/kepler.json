@@ -2,7 +2,7 @@
   "slug": "kepler",
   "kind": "retranslate",
   "zh_doc": "k/kepler.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:43Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:27Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：lq.py init 66 段（body=64+oir=1+ack=1）→本会话直译双版（script/build_kepler_p1+p2.py 两批）→守恒自检 HARD=0（seg54 修复：LaTeX 三大定律公式块随段落 step2 逐字符保留；seg15/50 图片路径按模板 #9 改 ../yuanwen/assets/kepler/）→lq.py check 通过→compose 写回 42313 字符；H1=SUMMARY 1402 行；参考文献 128 条照录；含图 2 幅"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:27Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：中文强调斜体→粗体 12 行转换（守卫锚定转换器）；关联词条 NOTE 1 项对齐 SUMMARY 584 行（宇宙学与神学）；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:27Z",
+      "evidence": "s2 二校：引文括注 50+ 处复核（KGW 6/8/13/14/15/17/20.1/21.1/21.2.2/11.2/2/3/9/4 多处页码行号、AN II.21/第二编第7章/第32-40章/第39章、APO 第1章38命题/Prop.20、DI Problem 86、MC 第2/18章/1621二版脚注、HM 第二卷/第五卷第1-2章第3章/IV Cap.4-7、S 29/S 42、书信 N°827/394/91/262/424）；术语核销：宇宙的奥秘 MC/新天文学 AN/世界的和谐 HM/哥白尼天文学概要 EAC/天文学的光学部分 APO/折射光学 DI/鲁道夫星表/多面体假说/五种柏拉图立体/形式因-动力因/三一创世论/奥西安德尔-维滕贝格诠释/工具主义-实在论-虚构主义/肯定后件的谬误/替代假说/偏心匀速点 equant/拱线/近日点-远日点/inclinatio ad quietem 静止倾向/惯性 inertia/可构造性/可知性 scibilitas/回忆说 anamnesis-白板说/种相理论/共通感/暗箱 camera obscura/方位相 aspects/开普勒式望远镜/平太阳-真太阳；专名核销（梅斯特林/施塔迪乌斯/芭芭拉·米勒/苏珊娜·罗伊廷格/华伦斯坦/乌尔苏斯/奥西安德尔/雷蒂库斯/莱因霍尔德普鲁士星表/拉米斯/普罗克洛/费奇诺/吉尔伯特论磁/哈里奥特/比安基/霍恩堡/法布里修斯/迪昂/贾丁/科瓦雷/斯特雷克/林德伯格/克龙比/菲尔德/波德科恩斯基无——本条无/罗斯曼/马克斯·布罗德）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:30Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues；check_math 0 missing/unbalanced（LaTeX 公式 1 块逐字符保留）；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:30Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/kepler.md 426 行 ↔ k/kepler.md 274 行逐段核销）：导言+七节（生平与著作/哲学神学宇宙论/五种正多面体/认识论与科学哲学 4.1-4.4/三大定律/光学与光的形而上学/和谐与灵魂）全数在位；图片 2 幅路径正确（../yuanwen/assets/kepler/figure1/2.jpg）；LaTeX 公式 1 块（第三定律 T/a 比）逐字符保留；引文括注密集段（KGW 版本引证 20+ 处、AN/APO/HM/EAC/MC 书题缩写体系）逐一对位；核心论证核销（多面体假说三问/内接止于土星/先天后天进路/奥西安德尔工具论/平太阳改真太阳/灵魂改力/磁纤维模型与极化/静止倾向/替代假说与 8 角分名言/观测误差第一例/可构造性与七边形不可知/拒斥代数的亚里士多德式根据/暗箱/种相理论-共通感/回忆说对白板/方位相占星学/地球回应方位相吹奏的调子）；参考文献 128 条逐字相符（KGW/英译丛书/研究文献 A.B 两编）；致谢译出（凡尔赛圣康坦大学资助）；零信任抽查 4 处（8 角分名言 AN KGW 3 p.286、三一几何表示段、lucis encomium 边注、HM 献词詹姆斯一世）与 en 镜像一致；本条为主会话自译，r1 以源文复读+抽查如实记"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:30Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施留痕，r2 复认）：斜体→粗体 12 行；图片路径本地化 2 处；关联词条 1 项对齐；seg54 公式块随段保留；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:32Z",
+      "evidence": "r3 门禁全绿：四道复跑全过（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T20:44:33Z",
+      "evidence": "done 收口：K 批直译第五条全周期（init→直译双版 66 段→守恒→compose 42313 字符→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
     }
   ],
   "blockers": [],
