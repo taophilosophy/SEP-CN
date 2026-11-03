@@ -777,3 +777,16 @@
 | pneuma | 普纽玛 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | modi significandi | 意指样式（摩迪斯泰语法） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | hegemonikon | 灵魂的主导部分（斯多亚） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
+| emotion | 情感 | 首现（emotion-Christian-tradition） | 学界惯例（SUMMARY 题名既定；Dixon《从激情到情感》语境与 passion 激情、affection 情意三分）；凭证 2026-11-04 | 2026-11-04 |
+| passion | 激情（阿奎那 passiones：人与动物共有的感官欲求之感受反应） | 首现（emotion-Christian-tradition） | 学界惯例（Dixon 著作通行《从激情到情感》）；凭证 2026-11-04 | 2026-11-04 |
+| affection | 情意（affectiones：源于意志/智性欲求的心灵倾向；爱德华兹 Religious Affections《论宗教情意》） | 首现（emotion-Christian-tradition） | 学界惯例（Dixon 三分语境直译+括注，与情感/激情相区分）；凭证 2026-11-04 | 2026-11-04 |
+| feeling of absolute dependence | 绝对依赖感（施莱尔马赫 schlechthinnige Abhängigkeitsgefühl） | 首现（emotion-Christian-tradition） | 学界惯例（汉语神学界通行）；凭证 2026-11-04 | 2026-11-04 |
+| numinous | 努秘（奥托 das Heilige 语境） | 首现（emotion-Christian-tradition） | 学界惯例（汉语宗教学界通行（《论“神圣”》译本））；凭证 2026-11-04 | 2026-11-04 |
+| mysterium tremendum et fascinans | 令人战栗又令人迷恋的奥秘（拉丁原文保留斜体） | 首现（emotion-Christian-tradition） | 学界惯例（奥托研究通行）；凭证 2026-11-04 | 2026-11-04 |
+| construal | 构解（罗伯茨情感哲学：依关切把处境“看作”的领会方式） | 首现（emotion-Christian-tradition） | 学界惯例（情感哲学文献直译+括注）；凭证 2026-11-04 | 2026-11-04 |
+| core relational theme | 核心关系主题（拉扎勒斯） | 首现（emotion-Christian-tradition） | 学界惯例（情绪心理学通行）；凭证 2026-11-04 | 2026-11-04 |
+| somatic marker | 躯体标记（达马西奥） | 首现（emotion-Christian-tradition） | 学界惯例（认知神经科学通行）；凭证 2026-11-04 | 2026-11-04 |
+| criteriological | 规准性的（regulative 译“范导性的”） | 首现（emotion-Christian-tradition） | 学界惯例（罗伯茨情感哲学语境）；凭证 2026-11-04 | 2026-11-04 |
+| startle response | 惊跳反应 | 首现（emotion-Christian-tradition） | 学界惯例（心理学通行）；凭证 2026-11-04 | 2026-11-04 |
+| Book of Common Prayer | 《公祷书》 | 首现（emotion-Christian-tradition） | 学界惯例（安立甘宗通行）；凭证 2026-11-04 | 2026-11-04 |
+| feeling-towards | 朝向感受（戈尔迪） | 首现（emotion-Christian-tradition） | 学界惯例（情感哲学直译+括注）；凭证 2026-11-04 | 2026-11-04 |

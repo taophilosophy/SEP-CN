@@ -2,7 +2,7 @@
   "slug": "emotion-Christian-tradition",
   "kind": "retranslate",
   "zh_doc": "e/emotion-Christian-tradition.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:56:24Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:22:27Z",
+      "evidence": "全量重译组装：15683 汉字，12 节标题对齐源结构，H1+pubinfo+参考文献/学术工具/其他网络资源/相关词条+28 条脚注定义齐备"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:23:10Z",
+      "evidence": "逐节对照 yuanwen 源钉（pubinfo Mar 10 2021/Spring 2021）：12 节全覆盖，希腊文/拉丁文/丹麦文原词斜体保留，新约引文按和合本风格回译，3 处内联脚注标记与 28 条定义核对一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:23:10Z",
+      "evidence": "check_prose 96→65：实修 27 处（长句拆分 9/exists-there 2/plural-men 1/weak-verb 1/passive-bei 6/误字 2/结构 6），余 65 豁免留痕：62 de-chain 为概念性定语结构，L51/L149 passive-bei 与 L149 long-sentence 均在直译引文内部（奥托/克尔凯郭尔），ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:23:10Z",
+      "evidence": "四检全绿：check_style 0 / check_math 0 / check_academic --strict OK / check_prose 65 警告（豁免留痕见 s2）；术语 14 条已登记 yi-zhe-shuo-ming.md（emotion/passion/affection 三分等）"
     }
   ],
   "blockers": [],
