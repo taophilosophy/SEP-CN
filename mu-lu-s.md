@@ -2083,7 +2083,7 @@ outline: [1, 6]
 * [苏珊·朗格 Susanne Langer (Floyd, Juliet)](l/langer.md)
 * [18 世纪的德国美学 18th Century German Aesthetics](a/aesthetics-18th-german.md)
 * [伊迪丝·兰德曼-卡利舍尔 Edith Landmann-Kalischer (Dahlstrom, Daniel)](l/landmann-kalischer.md)
-* [18 世纪的法国美学 18th Century French Aesthetics and Jacques Morizot)](a/aesthetics-18th-french.md)
+* [18 世纪的法国美学 18th Century French Aesthetics (Jennifer Tsien and Jacques Morizot)](a/aesthetics-18th-french.md)
 * [18 世纪的英国美学 18th Century British Aesthetics](a/aesthetics-18th-british.md)
 * [19 世纪浪漫主义美学 19th Century Romantic Aesthetics](a/aesthetics-19th-romantic.md)
 * [存在主义美学 existentialist (Jean-Philippe Deranty)](a/aesthetics-existentialist.md)

@@ -56,7 +56,7 @@
   * [环境美学 environmental (Allen Carlson)](e/environmental-aesthetics.md)
   * [存在主义美学 existentialist (Jean-Philippe Deranty)](a/aesthetics-existentialist.md)
   * [\*女性主义——见女性主义哲学介入：女性主义美学 feminist — see feminist philosophy, interventions: aesthetics](f/feminism-aesthetics.md)
-  * [18 世纪的法国美学 18th Century French Aesthetics and Jacques Morizot)](a/aesthetics-18th-french.md)
+  * [18 世纪的法国美学 18th Century French Aesthetics (Jennifer Tsien and Jacques Morizot)](a/aesthetics-18th-french.md)
   * [\*伽达默尔——见汉斯-格奥尔格·伽达默尔：伽达默尔的美学 Gadamer — see Gadamer, Hans-Georg: aesthetics](g/gadamer-aesthetics.md)
   * [18 世纪的德国美学 18th Century German Aesthetics](a/aesthetics-18th-german.md)
   * [\*古德曼——见纳尔逊·古德曼：古德曼的美学 Goodman — see Goodman, Nelson: aesthetics](g/goodman-aesthetics.md)
