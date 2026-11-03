@@ -1,4 +1,4 @@
-# 尼古拉·哥白尼 Nicolaus Copernicus (Sheila Rabin)
+# 尼古拉·哥白尼 Copernicus, Nicolaus (Sheila Rabin)
 
 **首次发表于 2004 年 11 月 30 日；2023 年 9 月 29 日实质修订。**
 

@@ -1,4 +1,4 @@
-# 嫉妒 envy (Justin D'Arms)
+# 嫉妒 envy (Justin D’Arms)
 
 *首次发表于 2002 年 12 月 18 日；2016 年 12 月 22 日实质修订。*
 

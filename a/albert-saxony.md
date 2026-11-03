@@ -1,4 +1,4 @@
-# 萨克森的阿尔伯特 albert-saxony (Joél Biard)
+# 萨克森的阿尔伯特 Albert of Saxony (Joél Biard)
 
 **首次发表于 2001 年 1 月 29 日；2023 年 3 月 30 日实质修订。**
 
