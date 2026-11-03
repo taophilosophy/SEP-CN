@@ -2,7 +2,7 @@
   "slug": "erasmus",
   "kind": "retranslate",
   "zh_doc": "e/erasmus.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:53:42Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:46:35Z",
+      "evidence": "全量重译组装：14823 汉字 6 节，著作名拉丁文斜体保留，74 条脚注定义+缩写词表（CWE/ASD/LB/Ep.）原样保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:46:35Z",
+      "evidence": "逐节对照源钉（pubinfo Sep 19 2025）：段落 84:84 全对齐，内联脚注标记零缺失零多余，相关词条 19 项按 SUMMARY 定名转中文"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:46:35Z",
+      "evidence": "check_prose 53→41：实修 12（长句拆分 6/weak-verb 5/as-one 1/plural-men 1），余 41 豁免留痕：37 de-chain 概念性定语，4 条在直译引文内部（愚人颂省略号引文/CWE 引文），ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T19:46:38Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 41 豁免留痕见 s2；人名 35 条登记 ren-ming-biao.md（伊拉斯谟/路德/莫尔/瓦拉/弗罗本等）"
     }
   ],
   "blockers": [],
