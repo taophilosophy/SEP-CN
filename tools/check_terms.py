@@ -188,6 +188,16 @@ def check_registry_self(rows):
                               % (term, trans, seen[sig], lineno))
             else:
                 seen[sig] = lineno
+        # 同键异译分立（告警，2026-11-04）：多行不同主形应合并为「主形（亦作…）」体例
+        if len(live) > 1:
+            mains = []
+            for it in live:
+                main = re.split(r'[；;（(]', it[1])[0].strip()
+                if main:
+                    mains.append(main)
+            if len(set(mains)) > 1:
+                warns.append('同键异译分立（告警）：%s 有 %d 行不同主形（%s），建议合并为亦作体例'
+                             % (live[0][0], len(live), '、'.join(dict.fromkeys(mains))))
     return errors, warns
 
 
