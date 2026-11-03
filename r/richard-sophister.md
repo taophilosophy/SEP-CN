@@ -1,4 +1,5 @@
 # 诡辩家理查德 Richard the Sophister [Ricardus Sophista, Magister abstractionum] (Paul Streveler)
+
 *首次发表于 1999 年 8 月 4 日；2016 年 11 月 26 日实质修订。*
 
 诡辩家理查德（Richard the Sophister；Richardus Sophista）是一位英国哲学家／逻辑学家，最可能在十三世纪第二个二十五年间的某个时候于牛津求学。其身份尚不确定，但可以确定他是 *Abstractiones* 一书的作者——这部书汇集了一批逻辑上令人困惑的句子，人称“诡辩句”。这些诡辩句之所以令人困惑，缘由各式各样，都出在某些逻辑词或“非范畴词”带来的语义或句法歧义上，例如 “all”、“every”、“or”、“if…then”、“and”、“not”、“begins”、“ceases”、“except”、“necessary”、“possible” 等等。

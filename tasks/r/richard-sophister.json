@@ -2,7 +2,7 @@
   "slug": "richard-sophister",
   "kind": "retranslate",
   "zh_doc": "r/richard-sophister.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "direction",
@@ -38,6 +38,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:18:12Z",
       "evidence": "s2 二校（Fluency/Style）：check_prose 5 条告警逐条人工修改归零——de-chain×3（段8「对这类句子的处理」链式重排两轮、段19 逻辑学家们→逻辑学家的、段22「否定与否定的词项的一般说明」→「关于否定和否定词项」+长句 75 字拆分改分号句）；long-sentence×1（段22 更重要的是句 75 汉字，以「；威廉所用的是同一区分……」拆分）；plural-men×1（段19 题跋 gloss）。脱稿通读全稿一遍，中文行文无阻涩；修正工具 rz_postfix.py 固化 H1 还原+相关词条 SUMMARY 对齐（含别名行不覆盖 canonical 的坑）；step1 忠实底未动，全部修改仅落 step2/成稿"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:22:26Z",
+      "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue；check_academic --docs --strict 0 硬错误（非存根 1，在途豁免 1）；check_math 0 missing/unbalanced；markdownlint-cli2 0 issue——发现并修复 compose 系共性缺陷：H1 与 pubinfo 间缺空行（MD022，模板 §4 骨架本有空行；收口件 kokugaku 同缺陷存续，属管线级债，登记待回修）；check_terms 定点 0 缺译 + 存量 Valla 冲突已修弱势方（词汇表对齐人名表）；检查器只报告不修复原则遵守，修改均人工逐处"
     }
   ],
   "blockers": [],
