@@ -49,3 +49,12 @@
 * 深读台账 `results/manual-deepread.jsonl` 建立；009 三层深读（1%+3%+5%，裸 slug 口径）覆盖去重后 141 条待读，清单 `results/deepread-todo.txt`。
 * 已完成 8 条全 pass：abduction.peirce、abduction、abelard、abhidharma、abilities（实修：特定→特殊能力 7 处统一登记主形，粗体+括注阻隔形态教训）、abner-burgos、abortion、abrabanel。
 * 深读协议：全文通读+结构连续性+术语人名抽检；上游笔误保真与 T-07 空壳 H3 为已知形态族不记缺陷；逐条 verdict 落台账、每批提交。
+
+## 2026-11-04 主题词汇解析轮（用户建议：根据每篇文章主题重新解析词汇）
+
+* `bin/topic_vocab.py` 三层解析器：L1 标题词（SUMMARY 英文题名去作者↔中文题名）、L2 正文斜体术语（yuanwen 剔尾 *term* 词频）、L3 登记落实。162 词条全量解析落 `results/topic-vocab/entries.jsonl`。
+* **L1 标题词**：138 未登记三分（人名 34/概念词 41/题名短语 63）——真术语 33 条经 rowspec 落册（adaptationism 适应主义/haecceitism 此性论/frame problem 框架问题/personal identity 人格同一性/impossible worlds 不可能世界/ontological argument 本体论论证/华严宗/预先指示/动态选择等）；题名短语（The Ethics of Abortion 型）跳过（SUMMARY 已锁定定名不重复登记）。
+* **人名 34 条**全部未登记（正文已用译名而人名表缺行）→ rowspec-persons 落册（SUMMARY 定名沿用格式，与 legrand 批先例一致）。
+* **L2 斜体术语**：1685 未登记经著作名词典/拉丁短语/功能词三层过滤 → 真概念 8 条落册（cogito 我思/scientia/cognitio/pneuma 普纽玛/hegemonikon/modi significandi 意指样式/yin/yang）；其余确认为著作名照录体例与斜体强调误抓，不登记。
+* **本轮净新增登记 75 条**（T 41 + P 34），term_flow 锚点格式教训（`| key |` 规范化、strip 顺序）入 rowspec 生成器。
+* 深读层并行推进中（manual-deepread.jsonl 逐条台账）。
