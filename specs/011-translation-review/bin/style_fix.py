@@ -168,30 +168,46 @@ def fix_seg(seg, seen_manual=None):
 
 
 def star_ok(seg):
-    """星号标记结构 tokenizer 检查（** 与 * 依序配对，栈空为健康）。
+    """星号标记结构 tokenizer 检查（*/**/*** 依序配对，栈空为健康）。
 
-    行首列表标记 `* `（后随空格）是结构记号不是强调，跳过。
+    行首列表标记 `* `（后随空格）是结构记号不是强调，跳过；
+    数学定界 $…$/$$…$$ 内的星号非强调，先剥离；
+    `***` 粗斜组作为独立 token 配对（***首次…*** 版本行）。
     """
+    seg = re.sub(r"\$\$[^$]*\$\$|\$[^$\n]*?\$", "M", seg)
+    seg = re.sub(r"\(\*+\)", "N", seg)  # (*)/(**) 公式编号记号豁免
     i, stack, n = 0, [], len(seg)
     while i < n:
-        if seg[i] == "*":
-            if i == 0 or (seg[i - 1] in " \t" and i >= 1 and
-                          (i - 2 < 0 or seg[i - 2] in " \t>")):
-                # 行首（或引用块内行首）的列表星：后随空格即豁免
-                if i + 1 < n and seg[i + 1] == " ":
-                    i += 1
-                    continue
-            if i + 1 < n and seg[i + 1] == "*":
-                tok = "**"
-            else:
-                tok = "*"
-            if stack and stack[-1] == tok:
+        if seg[i] == "\\" and i + 1 < n and seg[i + 1] == "*":
+            i += 2  # 转义星 \* 字面星，跳过
+            continue
+        m = re.match(r"\*+", seg[i:])
+        if not m:
+            i += 1
+            continue
+        tok = m.group(0)
+        if len(tok) >= 3:
+            if stack and stack[-1] == "***":
                 stack.pop()
+            elif stack:
+                return False
             else:
-                stack.append(tok)
+                stack.append("***")
             i += len(tok)
             continue
-        i += 1
+        if i == 0 or (seg[i - 1] in " \t" and (i - 2 < 0 or seg[i - 2] in " \t>")):
+            # 行首（或引用块内行首）的列表星：后随空格即豁免
+            if i + 1 < n and seg[i + 1] == " ":
+                i += 1
+                continue
+        t2 = "**" if len(tok) == 2 else "*"
+        if stack and stack[-1] == t2:
+            stack.pop()
+        elif stack:
+            return False  # 交叉：斜体开遇粗体闭（*X **Y** Z* 型，渲染必错乱）
+        else:
+            stack.append(t2)
+        i += len(tok)
     return not stack
 
 

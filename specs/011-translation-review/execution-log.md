@@ -65,3 +65,10 @@
 * 实修 2 项：abstract-objects 奎因→蒯因 7 处；actualism-possibilism 版本行 ** X ** 违例 1 处。
 * 并行漂移随修 3 轮：mu-lu-s 四行全题化（mulu_sync.py 通用工具）；apperception 再生重复行去重并记双来源；Kant 人名重复行、Spinoza 词汇表冲突、leibniz-evil 登记重复 2 行（删旧并记来源）——**登记册/人名表重复行随并行会话新登记不断再生，每轮收口前 check_terms 必跑**。
 * 主题词汇解析轮完成（独立节见上）。
+
+## 2026-11-04 star_ok v2（交叉判据）与 v5 交叉纠正器
+
+* star_ok 升级：①类型交叉即不健康（*X **Y** Z* 平衡但渲染必错乱形态，此前漏检）；②数学定界内星号剥离；③`***` 粗斜组独立 token（***版本行***）；④`(\*+)` 公式编号记号豁免；⑤转义星豁免；⑥列表项豁免。
+* v5 交叉纠正器 cross_fix.py：括号书名/粗体截断等启发式规则，19 行修复。
+* v2 判据全库重扫残留 63 行/25 文件（多为 mixed 挂人工行与逻辑式行的新交叉形态）——清单 cross-star-todo.txt，下批扩规则。
+* 深读累计 15 条全 pass（新增 abstract-objects 实修奎因→蒯因 7 处、academic-freedom 2026 新发词条、action-perception/action/adaptationism/addams-jane/aesthetic-concept/actualism-possibilism 实修版本行+登记域注）。
