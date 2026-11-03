@@ -65,6 +65,8 @@
 | Yellow Emperor | 黄帝 | 语料回收（标题词） | 审定直接命中（中医药/中国古代史）；凭证 2026-11-01 | 2026-11-01 |
 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |
 | ---- | ---- | ---- | ---- | -------- |
+| a priori knowledge | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| a priori | 先天（康德传统；与“先验”transzendental 相区分） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | abductive reasoning | 溯因推理 | 语料回收（abduction） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Abhidhamma | 阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”） | 首现（abhidharma） | 佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | absolute idealism | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -330,7 +332,6 @@
 | pratyakṣa | 现量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | predicate letter | 谓词字母 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | presentism | 现在主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
-| prima facie | 初步的 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | probability theory | 概率论 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | problem of universals / universals | 共相问题／共相（与“殊相”相对；勿译“普遍性问题”） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | Prisoner’s Dilemma | 囚徒困境 | 语料回收 | 审定名词库（termonline-all·经济学/管理学名词，2026-10-30 浏览器通道凭证） | 2026-10-30 |
@@ -485,6 +486,15 @@
 | prejudice | 偏见 | gadamer-aesthetics | 学界惯例（诠释学/社会理论通行） | 2026-11-01 |
 | autonomy | 自主性 | gadamer-aesthetics | 学界惯例（美学/哲学通行） | 2026-11-01 |
 | ontological | 存在论的 | gadamer-aesthetics | 学界惯例（现象学/诠释学通行） | 2026-11-01 |
+| sophism（sophisma） | 诡辩句 | richard-sophister | SUMMARY 既有 sophismata=诡辩 的单数派生；学界惯例（中世纪逻辑） | 2026-11-04 |
+| syncategorematic word | 非范畴词 | richard-sophister | 学界通行汉译（中世纪逻辑研究界）；待 specs/008 审定库复核 | 2026-11-04 |
+| casus | 情形（正文保留拉丁原词 *casus*，首现括注） | richard-sophister | 学界惯例（义务论辩研究保留拉丁术语） | 2026-11-04 |
+| obligatio / obligationes | 义务论辩（正文保留拉丁原词，首现括注） | richard-sophister | 学界通行汉译（中世纪逻辑研究界）；待 specs/008 审定库复核 | 2026-11-04 |
+| esse habituale | 习性存在（正文保留拉丁原词，首现括注） | richard-sophister | 经院哲学习惯（habitus 通译“习性”）；待 specs/008 审定库复核 | 2026-11-04 |
+| De Sophisticis Elenchis | 《辨谬篇》 | richard-sophister | 学界通行汉译（亚里士多德著作通行译名） | 2026-11-04 |
+| Sentences Commentary | 《箴言四书注》 | richard-sophister | 学界通行（《箴言四书》为中世纪通行译名，评注体裁派生） | 2026-11-04 |
+| signification | 意谓 | richard-sophister | 学界通行汉译（中世纪语义理论） | 2026-11-04 |
+| exceptive term | 排除词 | richard-sophister | 学界通行汉译（中世纪逻辑研究界）；待 specs/008 审定库复核 | 2026-11-04 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
@@ -619,7 +629,6 @@
 | aggregation rule | 聚合规则 | jury-theorems | 学界惯例（社会选择理论通行）；凭据 2026-11-02 | 2026-11-02 |
 | common causes | 共同原因 | jury-theorems | 学界惯例（赖兴巴赫共同原因原理通行）；凭据 2026-11-02 | 2026-11-02 |
 | state (of the world) | 世界状态 | jury-theorems | 学界惯例（概率论/博弈论通行）；凭据 2026-11-02 | 2026-11-02 |
-| truth-conducive | 真理导向的 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
 | deliberation | 审议 | jury-theorems | 学界惯例（审议民主通行）；凭据 2026-11-02 | 2026-11-02 |
 | pivotal | 关键性的 | jury-theorems | 学界惯例（投票理论通行）；凭据 2026-11-02 | 2026-11-02 |
 | sincere voting | 真诚投票 | jury-theorems | 学界惯例（投票理论通行）；凭据 2026-11-02 | 2026-11-02 |
@@ -701,12 +710,12 @@
 | regress problem | 回溯问题 | justep-coherence | 学界惯例（证成回溯/无穷回溯通行译法） | 2026-11-02 |
 | justified true belief | 被证成的真信念（亦作“证成的真信念”） | justep-coherence | 学界惯例（JTB 通行译法） | 2026-11-02 |
 | truth candidate | 真理候选者 | justep-coherence | 学界惯例（Rescher 术语通行译法） | 2026-11-02 |
-| prima facie | 初显的 | justep-coherence | 学界惯例（哲学通译“初显的/prima facie”） | 2026-11-02 |
+| prima facie | 初显的（亦作“初步的”） | justep-coherence、abduction | 学界惯例（哲学通译“初显的/prima facie”；罗斯初定义务语境） | 2026-11-02 |
 | bona fide | 真实的 | justep-coherence | 学界惯例（哲学通译“真正的/bona fide”） | 2026-11-02 |
 | explanatory coherence | 解释性融贯 | justep-coherence | 学界惯例（Thagard 理论通行译法） | 2026-11-02 |
 | Content Determination Thesis | 内容决定论题 | justep-coherence | 学界惯例（Huemer 术语，直译） | 2026-11-02 |
 | testimonial system | 证言系统 | justep-coherence | 学界惯例（证词认识论通行译法） | 2026-11-02 |
-| truth conducive | 导向真理的 | justep-coherence | 学界惯例（truth-conducive 通行译法“导向真理”） | 2026-11-02 |
+| truth conducive | 导向真理的（亦作“真理导向的”） | justep-coherence | 学界惯例（truth-conducive 通行译法“导向真理”） | 2026-11-02 |
 | acceptance system | 接受系统 | justep-coherence | 学界惯例（Lehrer 术语直译） | 2026-11-02 |
 | Africana Philosophy | 非裔哲学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/africana））；凭证 2026-11-04 | 2026-11-04 |
 | advance directives | 预先指示 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/advance-directives））；凭证 2026-11-04 | 2026-11-04 |
@@ -780,6 +789,7 @@
 | emotion | 情感 | 首现（emotion-Christian-tradition） | 学界惯例（SUMMARY 题名既定；Dixon《从激情到情感》语境与 passion 激情、affection 情意三分）；凭证 2026-11-04 | 2026-11-04 |
 | passion | 激情（阿奎那 passiones：人与动物共有的感官欲求之感受反应） | 首现（emotion-Christian-tradition） | 学界惯例（Dixon 著作通行《从激情到情感》）；凭证 2026-11-04 | 2026-11-04 |
 | affection | 情意（affectiones：源于意志/智性欲求的心灵倾向；爱德华兹 Religious Affections《论宗教情意》） | 首现（emotion-Christian-tradition） | 学界惯例（Dixon 三分语境直译+括注，与情感/激情相区分）；凭证 2026-11-04 | 2026-11-04 |
+| being | 存在（分析传统通行；亦作“是者”“有”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | feeling of absolute dependence | 绝对依赖感（施莱尔马赫 schlechthinnige Abhängigkeitsgefühl） | 首现（emotion-Christian-tradition） | 学界惯例（汉语神学界通行）；凭证 2026-11-04 | 2026-11-04 |
 | numinous | 努秘（奥托 das Heilige 语境） | 首现（emotion-Christian-tradition） | 学界惯例（汉语宗教学界通行（《论“神圣”》译本））；凭证 2026-11-04 | 2026-11-04 |
 | mysterium tremendum et fascinans | 令人战栗又令人迷恋的奥秘（拉丁原文保留斜体） | 首现（emotion-Christian-tradition） | 学界惯例（奥托研究通行）；凭证 2026-11-04 | 2026-11-04 |
@@ -789,4 +799,80 @@
 | criteriological | 规准性的（regulative 译“范导性的”） | 首现（emotion-Christian-tradition） | 学界惯例（罗伯茨情感哲学语境）；凭证 2026-11-04 | 2026-11-04 |
 | startle response | 惊跳反应 | 首现（emotion-Christian-tradition） | 学界惯例（心理学通行）；凭证 2026-11-04 | 2026-11-04 |
 | Book of Common Prayer | 《公祷书》 | 首现（emotion-Christian-tradition） | 学界惯例（安立甘宗通行）；凭证 2026-11-04 | 2026-11-04 |
+| consciousness | 意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| essence | 本质 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| existence | 存在 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| causality | 因果性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| dialectic | 辩证法 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| concept | 概念 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| contingency | 偶然性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| category | 范畴 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | feeling-towards | 朝向感受（戈尔迪） | 首现（emotion-Christian-tradition） | 学界惯例（情感哲学直译+括注）；凭证 2026-11-04 | 2026-11-04 |
+| self-consciousness | 自我意识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| telos | 目的（终极目的） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| the One | 太一（普罗提诺 to hen） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| mind | 心灵（当代心灵哲学；黑格尔 Geist 语境译“精神”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| soul | 灵魂 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| matter | 质料（亚里士多德 hylê 语境；近代物理语境译“物质”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| form | 形式（亚里士多德 eidos 语境） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| particular | 殊相；特殊 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| universal | 共相（中世纪-黑格尔传统） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| free will | 自由意志 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| thing-in-itself | 物自体（康德；亦作“自在之物”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| moral law | 道德法则（康德） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| reason | 理性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| perception | 知觉 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| idea | 理念（柏拉图-黑格尔传统）；观念（经验论语境） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| intuition | 直观（康德传统；日常语境亦作“直觉”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| necessity | 必然性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| quantity | 量 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| quality | 性质 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| virtue | 德性（古希腊伦理学传统；亦作“美德”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| understanding | 知性（康德 Verstand；日常语境译“理解”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| transcendental | 先验（康德术语 transzendental） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| ontology | 本体论（通行；亦作“存在论”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
+| spiritualism | 唯灵论（≠唯心论 idealism；hartshorne 实抓误译） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
+| prehension | 摄受（怀特海术语；与本仓既有“摄受”归一） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
+| libertarianism | 自由至上主义（政治语境；自由意志之争语境留给“自由意志论”） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
+| Proslogion | 《宣讲》（安瑟伦） | james-ward | 主会话复审收口 7a4e34eb；凭证 2026-11-04 | 2026-11-04 |
+| Sophist | 《智者》（柏拉图；台译《智士》已归一） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
+| Träume eines Geistersehers | 《视灵者的梦》（康德） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
+| polyadic | 多元逻辑（与 monadic=一元逻辑配对） | kant-mathematics | 主会话收口 1728e694；凭证 2026-11-04 | 2026-11-04 |
+| rhythm | 韵律（黑尔《一元论论纲》核心词） | hare.supplement | 主会话收口 ad82d512；凭证 2026-11-04 | 2026-11-04 |
+| Oxford Calculators | 牛津计算者 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| sophisma/sophismata | 诡辩题 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| metabasis | 跨类论证 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| latitude of forms | 形式的纬度 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| secundum imaginationem | 依据想象（假设情形分析程序） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| potentia dei absoluta / ordinata | 上帝绝对能力/有序能力 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| synchronic contingency | 共时偶然性 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| instantiae naturae | 自然实例 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| beneplacitum | 喜悦旨意（司各脱：上帝悦纳之意志） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| scientia necessaria / ad utrumlibet | 必然知识/两可知识 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| dynamic voluntarism | 动态唯意志论（米哈乌夫斯卡语） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| velle / nolle / non-velle | 意愿/不意愿/不愿 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| Venerabilis Inceptor | 可敬的开创者（奥卡姆别号） | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
+| Elementarphilosophie | 元素哲学（莱因霍尔德） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| Satz des Bewusstseins | 意识命题（莱因霍尔德第一原则） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| Tathandlung | 事行（费希特：自我的自身设定） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| Wissenschaftslehre | 知识学 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| rational realism | 理性实在论（巴尔迪利/莱因霍尔德） | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| Denken als Denken | 作为思维的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| sprachloses Denken | 无语言的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| Synonymik | 同义词学 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
+| kokugaku | 国学（日本本土研究传统） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Kokugakusha | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| shinkoku | 神国 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| magokoro | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| karagokoro | 汉意 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| mikunigokoro | 御国心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Yamato gokoro / damashii | 大和心/大和魂 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kannagara | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| makoto no shintō | 真神道 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kakuriyo / yūmeikai | 隐世/幽冥界 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kishin | 鬼神（平田学派：有意志与力量的灵） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| saisei itchi | 祭政一致 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Taikyō senpu undō | 大教宣布运动 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kokutai | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Nihonjinron | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| hongaku / honkyō | 本学/本教（大国隆正） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |

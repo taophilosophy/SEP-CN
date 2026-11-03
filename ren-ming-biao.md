@@ -215,6 +215,16 @@
 | Hugo Grotius | 雨果·格劳秀斯 | leibniz-ethics | 学界通行汉译（国际法之父）；待 specs/008 审定库复核 | 2026-11-04 |
 | Samuel Pufendorf | 塞缪尔·普芬道夫 | leibniz-ethics | 学界通行汉译（自然法法学家）；待 specs/008 审定库复核 | 2026-11-04 |
 | Joseph Butler | 约瑟夫·巴特勒 | leibniz-ethics | 学界通行汉译（《十五篇布道文》作者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Imre Lakatos | 伊姆雷·拉卡托什 | lakatos | 学界通行汉译（科学哲学家，《证明与反驳》作者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Karl Popper | 卡尔·波普尔 | lakatos | 学界通行汉译（《开放社会及其敌人》作者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Paul Feyerabend | 保罗·费耶阿本德 | lakatos | 学界通行汉译（《反对方法》作者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Thomas Kuhn | 托马斯·库恩 | lakatos | 学界通行汉译（《科学革命的结构》作者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Georg Lukács | 格奥尔格·卢卡奇 | lakatos | 学界通行汉译（匈牙利马克思主义哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| György Lukács | 格奥尔格·卢卡奇 | lakatos | 同上（匈牙利语原名形式）；2026-11-04 | 2026-11-04 |
+| Peter of Spain | 西班牙的彼得 | lambert-auxerre | 学界通行汉译（《逻辑总论》作者）；待 specs/008 审定库复核 | 2026-11-04 |
+| William of Sherwood | 舍伍德的威廉 | lambert-auxerre | 学界通行汉译（中世纪逻辑学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Roger Bacon | 罗吉尔·培根 | lambert-auxerre | 学界通行汉译（中世纪哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Albert the Great | 大阿尔伯特 | lambert-auxerre | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-04 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -231,7 +241,6 @@
 | Michael Psellos | 米海尔·普塞洛斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Michael Smith | 迈克尔·史密斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Moses Narboni | 摩西·纳博尼 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Motoori Norinaga | 本居宣长 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Mou Zongsan | 牟宗三 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Nancy Cartwright | 南希·卡特赖特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Norman Daniels | 诺曼·丹尼尔斯 | 语料回收（全目录） | 学界惯例（罗尔斯研究/卫生公正）；凭证 2026-11-01 | 2026-11-01 |
@@ -332,6 +341,44 @@
 | Christian Wolff | 克里斯蒂安·沃尔夫 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | Quine | 蒯因 | 语料回收（quine） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Routley, Richard / Richard Routley | 理查德·劳特利（西尔万） | 目录层（sylvan-routley 别名导航行，2026-10-30 同构重排批次二；目标行标题已用「理查德·西尔万（理查德·劳特利）」） | 学界惯例（姓氏变更前名 Routley 与婚后姓 Sylvan 并行，劳特利为通行汉译）；termonline 凭证待 008 战役补 | 2026-10-30 |
+| Erasmus, Desiderius | 德西德里乌斯·伊拉斯谟 | erasmus | 学界惯例（SUMMARY 定名沿用；文艺复兴研究通行汉译） | 2026-11-04 |
+| Luther, Martin | 马丁·路德 | erasmus | 学界惯例（宗教改革研究通行汉译） | 2026-11-04 |
+| More, Thomas | 托马斯·莫尔 | erasmus | 学界惯例（《乌托邦》作者通行汉译） | 2026-11-04 |
+| Colet, John | 约翰·科利特 | erasmus | 学界惯例（英国人文主义研究通行汉译） | 2026-11-04 |
+| Grocyn, William | 威廉·格罗辛 | erasmus | 学界惯例（英国人文主义研究通行汉译） | 2026-11-04 |
+| Linacre, Thomas | 托马斯·利纳克尔 | erasmus | 学界惯例（英国人文主义研究通行汉译） | 2026-11-04 |
+| Warham, William | 威廉·沃勒姆 | erasmus | 学界惯例（坎特伯雷大主教通译） | 2026-11-04 |
+| Blount, William (Lord Mountjoy) | 威廉·布朗特（蒙乔伊勋爵） | erasmus | 学界惯例（伊拉斯谟研究通行汉译） | 2026-11-04 |
+| Ammonio, Andrea | 安德烈亚·阿蒙尼奥 | erasmus | 学界惯例（教廷使节通译） | 2026-11-04 |
+| Bergen, Hendrik of | 卑尔根的亨德里克 | erasmus | 学界惯例（人名+封地名结构通译） | 2026-11-04 |
+| Valla, Lorenzo | 劳伦佐·瓦拉 | erasmus | 学界惯例（SUMMARY 定名沿用；《君士坦丁赠礼》辨伪者通行汉译） | 2026-11-04 |
+| Beda, Noël | 诺埃尔·贝达 | erasmus | 学界惯例（巴黎神学家通译） | 2026-11-04 |
+| Froben, Johann | 约翰·弗罗本 | erasmus | 学界惯例（巴塞尔出版家通译） | 2026-11-04 |
+| Froben, Hieronymus | 希罗尼穆斯·弗罗本 | erasmus | 学界惯例（巴塞尔出版家通译） | 2026-11-04 |
+| Charles V | 查理五世 | erasmus | 学界惯例（神圣罗马皇帝通译） | 2026-11-04 |
+| Philip (the Handsome) | 腓力（美男子腓力） | erasmus | 学界惯例（哈布斯堡通译；查理五世之父） | 2026-11-04 |
+| Pico della Mirandola, Giovanni | 乔瓦尼·皮科·德拉·米兰多拉 | erasmus | 学界惯例（SUMMARY 定名沿用） | 2026-11-04 |
+| Marguerite of Navarre | 纳瓦拉的玛格丽特 | erasmus | 学界惯例（法国文艺复兴通译） | 2026-11-04 |
+| Pickheimer, Caritas | 卡里塔斯·皮克海默 | erasmus | 学界惯例（德国人文主义圈通译） | 2026-11-04 |
+| Titelmans, Frans | 弗兰斯·蒂特尔曼斯 | erasmus | 学界惯例（鲁汶神学家通译） | 2026-11-04 |
+| Kessler, Johann | 约翰·凯斯勒 | erasmus | 学界惯例（瑞士编年史家通译） | 2026-11-04 |
+| Huizinga, Johan | 约翰·赫伊津哈 | erasmus | 学界惯例（《中世纪之秋》作者通行汉译） | 2026-11-04 |
+| Dahrendorf, Ralf | 拉尔夫·达伦多夫 | erasmus | 学界惯例（社会学家通行汉译） | 2026-11-04 |
+| Slechta, Jan | 扬·斯莱赫塔 | erasmus | 学界惯例（波希米亚人文主义者通译） | 2026-11-04 |
+| Jerome (St.) | 圣哲罗姆（哲罗姆） | erasmus | 学界惯例（教父通译） | 2026-11-04 |
+| Chrysostom, John | 克里索斯托（金口约翰） | erasmus | 学界惯例（教父通译） | 2026-11-04 |
+| Origen | 奥利金 | erasmus | 学界惯例（教父通译） | 2026-11-04 |
+| Quintilian | 昆体良 | erasmus | 学界惯例（《演说术原理》作者千年通行译名） | 2026-11-04 |
+| Lucian | 琉善 | erasmus | 学界惯例（古希腊讽刺作家通行译名） | 2026-11-04 |
+| Lynceus | 林叩斯 | erasmus | 学界惯例（阿尔戈英雄中目光锐利者通译） | 2026-11-04 |
+| Terence | 泰伦提乌斯 | erasmus | 学界惯例（罗马喜剧家通译） | 2026-11-04 |
+| Plautus | 普劳图斯 | erasmus | 学界惯例（罗马喜剧家通译） | 2026-11-04 |
+| Virgil | 维吉尔 | erasmus | 学界惯例（千年通行译名） | 2026-11-04 |
+| Horace | 贺拉斯 | erasmus | 学界惯例（千年通行译名） | 2026-11-04 |
+| Albert of Saxony | 萨克森的阿尔伯特 | richard-sophister | SUMMARY 既有条目名（a/albert-saxony.md）；学界通行 | 2026-11-04 |
+| William of Ockham | 奥卡姆的威廉 | richard-sophister | SUMMARY 既有条目名（o/ockham.md）；学界通行汉译 | 2026-11-04 |
+| Walter Burley | 沃尔特·伯利 | richard-sophister | SUMMARY 既有条目名（b/burley.md）；学界通行汉译 | 2026-11-04 |
+| Adam Wodeham | 亚当·德·沃德汉姆 | richard-sophister | SUMMARY 既有条目名（w/wodeham.md）；学界通行汉译 | 2026-11-04 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 
@@ -449,6 +496,33 @@
 
 新增一行即完成登记；若译法变更，保留旧译法并另起一行注明"已废弃，见新行"。「依据」必填，档位同 yi-zhe-shuo-ming.md；**不得引维基百科**（ADR-0012）。无法确定习惯译法的，保留英文原名并登记，不得臆造译名。
 
+| Bob Hale | 鲍勃·黑尔（正文括注〔Bob Hale〕消歧——与 R.M. Hare 同译形“黑尔”） | hare | 主会话收口 ad82d512；凭证 2026-11-04 | 2026-11-04 |
+| Keichū | 契沖 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Kada no Azumamaro | 荷田春满 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Kada Arimaro | 荷田在满 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Kamo no Mabuchi | 贺茂真渊 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Motoori Norinaga | 本居宣长 | kokugaku-school、japanese-aesthetics | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Motoori Haruniwa | 本居春庭 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Hirata Atsutane | 平田笃胤 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Hirata Kanetane | 平田铉胤 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Miyahiro Sadao | 宫贞雄（Miyahiro 汉字写法存疑，正文保留拉丁对照） | kokugaku-school | 存疑标注；凭证 2026-11-04 | 2026-11-04 |
+| Matsuo Taseko | 松尾多势子 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Hirao Rosen | 平尾鲁仙 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Tsuruya Ariyo | 鹤屋有猷（汉字写法存疑，正文保留拉丁对照） | kokugaku-school | 存疑标注；凭证 2026-11-04 | 2026-11-04 |
+| Yano Gendō / Harumichi | 矢野玄道 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Ōkuni Takamasa | 大国隆正 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Fukuba Bisei | 福羽美静 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Murata Harukado | 村田春门 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Kusunoki Masashige | 楠木正成 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Iwakura Tomomi | 岩仓具视 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Tamamatsu Misao | 玉松操 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Tayasu Munetake | 田安宗武 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Kamei Koremi | 龟井兹监 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Aizawa Seishisai | 会泽正志斋 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Matsudaira Yoshitatsu | 松平义悌 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Ban Kōkei | 伴蒿蹊 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Yanagida Kunio | 柳田国男 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Orikuchi Shinobu | 折口信夫 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
