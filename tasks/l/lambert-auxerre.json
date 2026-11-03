@@ -1,0 +1,50 @@
+{
+  "slug": "lambert-auxerre",
+  "kind": "retranslate",
+  "zh_doc": "l/lambert-auxerre.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-03T19:06:52Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T19:46:01Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/lambert-auxerre.ledger.yaml 57 段（反思两步真实双版）；守恒校验通过（软旗：斜体计数差×4、标题/OIR 机械段×1 留痕）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T19:46:01Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 56 段：引证（Logica/Maloney ¶1239-1349 各段落号 逐字符）；断代各说（de Rijk 1253-57/Alessio 1247-56/de Libera 1250-55/Lagerlund 1250-60）核销；指代四用法/称呼四用法/自然指代/单独指代/限定两类/模态六种/关系定义全链核销；相关词条 6 项映射 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T19:46:01Z",
+      "evidence": "check_prose 首跑 14 处，两轮实修 7 处至 7：长句拆分×1、的链消解×3、弱动词×2（引文定义内）、被字×1；余 7 处豁免留痕：兰伯特定义引文内部弱动词×2（忠实引文所需）、作者名引号句 de-chain×2（引号限制结构）、Maierù 引文长句+的链×2、以及一个短句的链（无更多操作空间）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T19:46:04Z",
+      "evidence": "四检：check_style 0（中文斜体 7 处转加粗）、check_academic 0 硬错误、check_math 0、prose 7 豁免；人名 4 位登记 ren-ming-biao.md（西班牙的彼得/舍伍德的威廉/罗吉尔·培根/大阿尔伯特）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-03T19:06:51Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 3, 2024",
+    "archive_edition": "Summer 2024",
+    "sha256": "893dbd180508d0fd4ab2405e98780fed6c3f56098cc17ce52b0f0e1bc50fdea8"
+  }
+}
