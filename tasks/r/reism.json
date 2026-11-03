@@ -2,7 +2,7 @@
   "slug": "reism",
   "kind": "retranslate",
   "zh_doc": "r/reism.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "direction",
@@ -38,6 +38,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:54:31Z",
       "evidence": "s2 二校（Fluency/Style）：check_prose 13 条告警逐条人工修改归零——de-chain×9（含 seg1/15/28/40/49/56/58/60 的「的」链重排，seg54 被动句 2「被」改「由…指称」）、long-sentence×2（seg16 71 字分号拆句、seg56 79 字句号拆句）、weak-verb×1（seg24「加以补充」→「补充」）；两处修正落点勘误（seg15 首次替换命中 step1、seg28 破折号间隙仍<12 字，二轮精修）；step1 忠实底未动；脱稿通读全稿无阻涩"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:57:42Z",
+      "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue（修 3 类：italic-cjk *经由*→去斜体中文、cjk-spacing Kotarbiński把→加空格——跨行字符串两轮定位）；markdownlint 0 issue（修 MD004：公理列表 - → * 对齐配置 asterisk）；check_academic --strict 0 硬错误；check_math 0 missing/unbalanced；check_prose 0；check_terms 定点 0 缺译、硬错误 0（承接 s1 轮冲突清理）"
     }
   ],
   "blockers": [],

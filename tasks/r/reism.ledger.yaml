@@ -324,9 +324,9 @@ segments:
     source: |-
       does not need to be replaced by a reistic sentence because it is itself reistic. Kotarbiński believes that (8) is meaningful, unlike (7), and that this shows that sentences with empty names are already reistic, unlike sentences with onomatoids, which are meaningless. Sentences with apparent names have either meanings *via* reistic translations or they are meaningless strings of words. Onomatoids are dangerous, because they are sources of hypostatisation, which consists in committing abstract objects as really existing, although their existence is apparent only. In particular, hypostatisation is very common in philosophy (see the sentence (7) above) and leads, according to Kotarbiński, to pointless speculations about abstract objects, their kinds, etc. Therefore, reism provides a weapon against involving philosophy in unending pseudocontroversies. In particular, reism accuses all kinds of Platonism to be the source of the hopeless problems and discussions that stem from admitting the existence of beings, like Platonic forms.
     step1: |-
-      它不需要被替换成事物论式的句子，因为它本身就是事物论式的。Kotarbiński 认为（8）有意义而不像（7），并且这表明含空名称的句子已经是事物论式的，而含 onomatoids 的句子则无意义。含表面名称的句子，要么*经由*事物论式翻译获得意义，要么只是无意义的词串。onomatoids 是危险的，因为它们是实体化（hypostatisation）的根源；实体化在于把抽象对象当作真实存在来承诺，尽管它们的存在只是表面的。特别地，实体化在哲学中极为常见（见上面的句子（7）），并且按 Kotarbiński 的看法，它导致关于抽象对象及其种类的无谓思辨。因此，事物论提供了一件武器，防止哲学陷入无休止的假争论。特别地，事物论指控一切类型的柏拉图主义是那些无望问题与讨论的根源——这些问题与讨论源于承认柏拉图式形式这类存在者的存在。
+      它不需要被替换成事物论式的句子，因为它本身就是事物论式的。Kotarbiński 认为（8）有意义而不像（7），并且这表明含空名称的句子已经是事物论式的，而含 onomatoids 的句子则无意义。含表面名称的句子，要么经由事物论式翻译获得意义，要么只是无意义的词串。onomatoids 是危险的，因为它们是实体化（hypostatisation）的根源；实体化在于把抽象对象当作真实存在来承诺，尽管它们的存在只是表面的。特别地，实体化在哲学中极为常见（见上面的句子（7）），并且按 Kotarbiński 的看法，它导致关于抽象对象及其种类的无谓思辨。因此，事物论提供了一件武器，防止哲学陷入无休止的假争论。特别地，事物论指控一切类型的柏拉图主义是那些无望问题与讨论的根源——这些问题与讨论源于承认柏拉图式形式这类存在者的存在。
     step2: |-
-      它无需替换成事物论式的句子，因为它本身就是事物论式的。Kotarbiński 认为，（8）有意义，（7）则不然；这表明含空名称的句子已然是事物论式的，而含 onomatoids 的句子无意义。含表面名称的句子，要么*经由*事物论式翻译获得意义，要么只是无意义的词串。onomatoids 的危险在于它们是实体化（hypostatisation）的根源：实体化把抽象对象当作真实存在来承诺，尽管其存在只是表面的。实体化在哲学中尤为常见（见上面的句子（7））；按 Kotarbiński 的看法，它导致关于抽象对象及其种类的无谓思辨。因此，事物论提供了一件武器，防止哲学陷入无休止的假争论。它特别指控一切类型的柏拉图主义，认为其根源正是承认柏拉图式形式这类存在者的存在——由此生出种种无望的问题与讨论。
+      它无需替换成事物论式的句子，因为它本身就是事物论式的。Kotarbiński 认为，（8）有意义，（7）则不然；这表明含空名称的句子已然是事物论式的，而含 onomatoids 的句子无意义。含表面名称的句子，要么经由事物论式翻译获得意义，要么只是无意义的词串。onomatoids 的危险在于它们是实体化（hypostatisation）的根源：实体化把抽象对象当作真实存在来承诺，尽管其存在只是表面的。实体化在哲学中尤为常见（见上面的句子（7））；按 Kotarbiński 的看法，它导致关于抽象对象及其种类的无谓思辨。因此，事物论提供了一件武器，防止哲学陷入无休止的假争论。它特别指控一切类型的柏拉图主义，认为其根源正是承认柏拉图式形式这类存在者的存在——由此生出种种无望的问题与讨论。
   - id: 41
     kind: body
     source: |-
@@ -366,13 +366,13 @@ segments:
       - For any *x*, if *x* is *a*, then *x* is *b*.
       - For any *x* and *y*, if *x* is *a* and *y* is *a*, then *x* is *y*.
     step1: |-
-      - 存在某个 *x*，使得 *x* 是 *a*。
-      - 对任一 *x*，若 *x* 是 *a*，则 *x* 是 *b*。
-      - 对任意 *x* 与 *y*，若 *x* 是 *a* 且 *y* 是 *a*，则 *x* 是 *y*。
+      * 存在某个 *x*，使得 *x* 是 *a*。
+      * 对任一 *x*，若 *x* 是 *a*，则 *x* 是 *b*。
+      * 对任意 *x* 与 *y*，若 *x* 是 *a* 且 *y* 是 *a*，则 *x* 是 *y*。
     step2: |-
-      - 存在某个 *x*，使得 *x* 是 *a*。
-      - 对任一 *x*，若 *x* 是 *a*，则 *x* 是 *b*。
-      - 对任意 *x* 与 *y*，若 *x* 是 *a* 且 *y* 是 *a*，则 *x* 是 *y*。
+      * 存在某个 *x*，使得 *x* 是 *a*。
+      * 对任一 *x*，若 *x* 是 *a*，则 *x* 是 *b*。
+      * 对任意 *x* 与 *y*，若 *x* 是 *a* 且 *y* 是 *a*，则 *x* 是 *y*。
   - id: 46
     kind: body
     source: |-
@@ -404,7 +404,7 @@ segments:
     step1: |-
       它对事物论至关重要，只有当词项 *a* 是一个殊相的名称时才为真。因此，事物论的逻辑基础蕴涵：事物的名称是单称的。LO 也为 Kotarbiński 把普通名词（按传统逻辑，即普遍名称）当作真名称的处理提供了辩护。考虑句子：
     step2: |-
-      这个句子对事物论至关重要：只有当词项 *a* 是某个殊相的名称时，它才为真。因此，事物论的逻辑基础蕴涵：事物的名称必是单称。LO 同时也为 Kotarbiński把普通名词（按传统逻辑即普遍名称）当作真名称的做法提供了辩护。考虑句子：
+      这个句子对事物论至关重要：只有当词项 *a* 是某个殊相的名称时，它才为真。因此，事物论的逻辑基础蕴涵：事物的名称必是单称。LO 同时也为 Kotarbiński 把普通名词（按传统逻辑即普遍名称）当作真名称的做法提供了辩护。考虑句子：
   - id: 50
     kind: body
     source: |-
