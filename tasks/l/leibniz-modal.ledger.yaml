@@ -1,0 +1,558 @@
+version: 1
+slug: leibniz-modal
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      In the main article on Leibniz, it was claimed that Leibniz's philosophy can be seen as a reaction to the Cartesian theory of corporeal substance and the necessitarianism of Spinoza and Hobbes. This entry will address this second aspect of his philosophy. In the course of his writings, Leibniz developed an approach to questions of modality—necessity, possibility, contingency—that not only served an important function within his general metaphysics, epistemology, and philosophical theology but also has continuing interest today. Indeed, it has been suggested that 20ᵗʰ-century developments in modal logic were either based on Leibnizian insights or at least had a Leibnizian spirit.
+    step1: |-
+      在莱布尼茨主条目中，我们曾主张：莱布尼茨的哲学可以看作对笛卡尔式有形实体理论以及斯宾诺莎与霍布斯的必然主义的一种回应。本词条将处理其哲学的这第二个方面。在其写作历程中，莱布尼茨发展出一条处理模态问题——必然性、可能性、偶然性——的进路：它不仅在莱布尼茨的一般形而上学、认识论与哲学神学中承担重要功能，而且在今天仍具持续的趣味。确实，有人提出：二十世纪模态逻辑的种种发展，或基于莱布尼茨式的洞见，或至少具有莱布尼茨式的精神。
+    step2: |-
+      在莱布尼茨主条目中我们曾主张：莱布尼茨的哲学，可以看作对笛卡尔式有形实体理论、以及斯宾诺莎与霍布斯之必然主义的回应。本词条将处理其哲学的这第二个方面。在其写作历程中，莱布尼茨发展出一条处理模态问题——必然性、可能性、偶然性——的进路：它不仅在莱布尼茨的一般形而上学、认识论与哲学神学中承担重要功能，在今天也仍具持续的趣味。确实，有人提出：二十世纪模态逻辑的种种发展，或基于莱布尼茨式的洞见，或至少具有莱布尼茨式的精神。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Individuals and Worlds
+    step1: |-
+      ## 1 个体与世界
+    step2: |-
+      ## 1 个体与世界
+  - id: 3
+    kind: body
+    source: |-
+      In order to explain Leibniz's modal metaphysics—the metaphysics of necessity, contingency, and possibility—we must look first at the foundation of Leibniz's system more generally: his conception of an *individual substance*. In §8 of the *Discourse on Metaphysics*, Leibniz presents his classic picture, writing:
+    step1: |-
+      为解释莱布尼茨的模态形而上学——必然性、偶然性与可能性的形而上学——我们必须先看莱布尼茨体系更一般的基础：他对*个体实体*的构想。在《形而上学谈话》第 8 节，莱布尼茨呈出其经典图景，写道：
+    step2: |-
+      为解释莱布尼茨的模态形而上学——必然性、偶然性与可能性之形而上学——我们必须先看莱布尼茨体系更一般的基础：他对*个体实体*的构想。在《形而上学谈话》第 8 节，莱布尼茨呈出其经典图景：
+  - id: 4
+    kind: body
+    source: |-
+      > The nature of an individual substance or of a complete being is to have a notion so complete that it is sufficient to contain and to allow us to deduce from it all the predicates of the subject to which this notion is attributed. (A VI iv 1540/AG 41)
+    step1: |-
+      > 一个个体实体或一个完全存在者的本性，在于拥有一个如此完全的概念，足以包含、并使我们能从中推出该概念所属主词的全部谓词。（A VI iv 1540/AG 41）
+    step2: |-
+      > 一个个体实体或一个完全存在者的本性，在于拥有一个如此完全的概念——足以包含、并使我们能从中推出该概念所属主词的全部谓词。（A VI iv 1540/AG 41）
+  - id: 5
+    kind: body
+    source: |-
+      In other words, each individual substance has a *complete individual concept* (CIC), which contains (or from which are deducible) all predicates true of it past, present, and future. Leibniz asks his reader to consider the case of Alexander the Great. On his view, God can, as it were, look at the complete individual concept of Alexander and see that he conquered Darius and Porus, that he was the student of Aristotle, that his armies would march into India, and so on. For our purposes, it will suffice to think of the CIC as the essence of an individual substance and to think of God as able to survey all essences of all individual substances. (The issue is, in fact, vexed; for insightful presentations of views rivaling that presented here, see Sleigh 1990 or Cover and Hawthorne 1999.)[^cover-1999][^sleigh-1990] Further, according to Leibniz, one of the consequences of this view of the nature of an individual substance is that no two substances can be qualitatively identical and differ numerically. In other words, the Principle of the Identity of Indiscernibles (PII) follows from this conception of the nature of substance, and PII entails that, for any possible world, there is at most one instance of a CIC.
+    step1: |-
+      换言之，每个个体实体都有一个*完整个体概念*（CIC），它包含（或从中可推出）凡过去、现在与未来对之为真的全部谓词。莱布尼茨请读者考虑亚历山大大帝的例子。照他的看法，上帝仿佛可以查看亚历山大的完整个体概念，看到他战胜了大流士与波鲁斯，看到他是亚里士多德的学生，看到他的军队将开进印度，等等。就本文的目的而言，把 CIC 看作个体实体的本质、把上帝看作能够通观一切个体实体的一切本质，就足够了。（这个问题实际上颇为棘手；对与此处所呈相竞观点的精到呈现，见 Sleigh 1990 或 Cover and Hawthorne 1999。）[^cover-1999][^sleigh-1990]此外，照莱布尼茨的说法，这种个体实体本性观的一个后果是：没有两个实体能够在性质上同一而在数目上有别。换言之，不可分辨者的同一性原则（PII）可以从这种实体本性构想中推出；而 PII 蕴涵：对任何可能世界，一个 CIC 至多只有一个实例。
+    step2: |-
+      换言之，每个个体实体都有一个*完整个体概念*（CIC），它包含（或从中可推出）凡过去、现在与未来对之为真的全部谓词。莱布尼茨请读者考虑亚历山大大帝的例子。照他的看法，上帝仿佛可以查看亚历山大的完整个体概念，看到他战胜大流士与波鲁斯，看到他是亚里士多德的学生，看到他的军队将开进印度，等等。就本文的目的而言，把 CIC 看作个体实体之本质、把上帝看作能通观一切个体实体之一切本质，便已足够。（此题实际上颇为棘手；对与此处所呈相竞观点的精到呈现，见 Sleigh 1990 或 Cover and Hawthorne 1999。）[^cover-1999][^sleigh-1990]此外，照莱布尼茨之说，这种个体实体本性观的一个后果是：没有两个实体能够性质上同一而数目上有别。换言之，不可分辨者的同一性原则（PII）可从这种实体本性构想中推出；而 PII 蕴涵：对任何可能世界，一个 CIC 至多只有一个实例。
+  - id: 6
+    kind: body
+    source: |-
+      Individual substances, of course, are parts of, or rather, members of a world. In other words, a *world* is a set of individual substances; or, as Leibniz puts in the opening line of *On the Ultimate Origination of Things*, a world is a “collection of finite things.” (G VII 302/AG 149) More specifically, Leibniz tells Bourguet, “the universe is only a certain kind of collection of compossibles; and the actual universe is the collection of all possible existents, that is, of those things that form the richest composite.” (G III 573) In saying that a world is a set of compossible things, however, Leibniz is saying that a world is a kind of collection of things that God *could* bring into existence. For not even God can bring into existence a world in which there is some contradiction among its members or their properties. But this opens up the question: Just what is meant by a contradiction in the case of the members of a world?
+    step1: |-
+      当然，个体实体是世界的一部分，或者更确切地说，是世界的成员。换言之，一个*世界*是一组个体实体；或者，如莱布尼茨在《论事物的终极起源》开篇所说，世界是“有限事物的集合”。（G VII 302/AG 149）更具体地，莱布尼茨告诉布尔盖：“宇宙只是某一种可共存者的集合；而现实的宇宙是所有可能存在者的集合，即那些构成最丰富复合体的东西。”（G III 573）然而，说世界是一组可共存的东西，莱布尼茨是在说：世界是上帝*可以*使其存在的东西之一种集合。因为即便是上帝，也不能使一个其成员或其属性之间存在某种矛盾的世界存在。但这 opens up 一个问题：就世界的成员而言，矛盾究竟是什么意思？
+    step2: |-
+      当然，个体实体是世界的一部分——或者更确切地说，是世界的成员。换言之，一个*世界*是一组个体实体；或者，如莱布尼茨在《论事物的终极起源》开篇所说，世界是“有限事物的集合”。（G VII 302/AG 149）更具体地，莱布尼茨告诉布尔盖：“宇宙只是某一种可共存者的集合；而现实的宇宙，是所有可能存在者的集合——即那些构成最丰富复合体的东西。”（G III 573）然而，说世界是一组可共存的东西，莱布尼茨是在说：世界是上帝*可以*使之存在的东西之一种集合。因为即便是上帝，也不能使一个其成员或其属性之间存在矛盾的世界存在。但由此生出一个问题：就世界的成员而言，矛盾究竟何所指？
+  - id: 7
+    kind: body
+    source: |-
+      Let us say that two or more substances are compossible if and only if there is no contradiction between the predicates derivable from their CICs. For example, consider the two individuals, Don and Ron. One of Don's properties is *being the tallest man (at time t)*; one of Ron's properties is also *being the tallest man (at time t)*. Naturally, Don and Ron cannot then inhabit the same world. On the other hand, each could have the property *being over 2 meters tall* and be members of the same world. Now in Leibniz's fully developed metaphysics this example might not be considered a good one, since it is most likely the case that Leibnizian individuals are not to be thought of as constituted by such relational properties. Rather than thinking of compossibility in terms of the properties of substances, it might be easier to think of it in terms of the perceptions of substances. Certainly, Don and Ron cannot be said to be members of the same world if Don perceives the moon landing of Apollo 11 on July 20, 1969 and Ron does not (or would not)—and not simply because he does not have a television set, but because on *his* July 20, 1969, there is no United States of America, let alone a space program. From this, it should also be clear that the compossibility of substances in a world is another manifestation of Leibniz's thesis of the universal harmony of perceptions of substances.
+    step1: |-
+      让我们说：两个或多个实体是可共存的，当且仅当从它们的 CIC 可推出的谓词之间没有矛盾。例如，考虑两个个体，唐与罗恩。唐的一个属性是*（在时刻 t）是最高的男人*；罗恩的一个属性也是*（在时刻 t）是最高的男人*。自然，唐与罗恩于是不能居住在同一个世界。另一方面，他们每一个都可以具有*身高超过 2 米*的属性而同属一个世界。在莱布尼茨充分发展的形而上学中，这个例子或许不算好例子，因为莱布尼茨式的个体最可能不应当被看作由这类关系性属性构成的。与其从实体属性的角度思考可共存性，不如从实体知觉的角度思考，或许更容易。当然，如果唐知觉到 1969 年 7 月 20 日阿波罗 11 号的登月而罗恩没有（或不会有），那么唐与罗恩便不能说是同一个世界的成员——而且不只是因为他没有电视机，而是因为在他的 1969 年 7 月 20 日，没有美利坚合众国，更谈不上航天计划。由此还应当清楚：一个世界中诸实体的可共存性，是莱布尼茨实体知觉普遍和谐论题的又一种表现。
+    step2: |-
+      让我们约定：两个或多个实体是可共存的，当且仅当从其 CIC 可推出的谓词之间没有矛盾。例如，考虑两个个体——唐与罗恩。唐的一个属性是*（在时刻 t）是最高的男人*；罗恩的一个属性也是*（在时刻 t）是最高的男人*。自然，唐与罗恩不能同居一个世界。另一方面，他们尽可以都有*身高超过 2 米*的属性而同属一个世界。在莱布尼茨充分发展的形而上学中，这个例子或许不算好例子：莱布尼茨式的个体，最可能不应被看作由这类关系性属性构成。与其从实体属性的角度思考可共存性，不如从实体知觉的角度思考——或许更容易。当然，若唐知觉到 1969 年 7 月 20 日阿波罗 11 号的登月而罗恩没有（或不会有），唐与罗恩便不能说是同一个世界的成员——这不只是因为他没有电视机，而是因为在他的 1969 年 7 月 20 日，没有美利坚合众国，遑论航天计划。由此还应当清楚：一个世界中诸实体的可共存性，是莱布尼茨实体知觉普遍和谐论题的又一种表现。
+  - id: 8
+    kind: body
+    source: |-
+      A possible world, however, is not simply a set of compossible individuals. According to Leibniz, a possible world also entails certain laws of nature. As Leibniz says to Arnauld in a letter from 14 July 1686,
+    step1: |-
+      然而，一个可能世界不只是一组可共存的个体。照莱布尼茨的说法，一个可能世界还蕴涵特定的自然律。如莱布尼茨在 1686 年 7 月 14 日致阿尔诺的信中所说：
+    step2: |-
+      然而，一个可能世界不只是一组可共存的个体。照莱布尼茨之说，一个可能世界还蕴涵特定的自然律。如莱布尼茨在 1686 年 7 月 14 日致阿尔诺的信中所言：
+  - id: 9
+    kind: body
+    source: |-
+      > I think there is an infinity of possible ways in which to create the world, according to the different designs which God could form, and that each possible world depends on certain principal designs or purposes of God which are distinctive of it, that is, certain primary free decrees (conceived *sub ratione possibilitatis*) or certain *laws* of the *general order* of this possible universe with which they are in accord and whose concept they determine, as they do also the concepts of all the individual substances which must enter into this same universe. (G II 51/L 333)
+    step1: |-
+      > 我认为，按照上帝能够形成的不同设计，创造世界有无限多种可能的方式；而每一个可能世界都依赖某些属于它自己的主要设计或目的，即某些原初的自由法令（以*可能性之理*来设想），或这个可能宇宙之*普遍秩序*的某些*法则*——那些设计或目的与这些法则相符合，并决定其概念，同样也决定必须进入这同一个宇宙的一切个体实体的概念。（G II 51/L 333）
+    step2: |-
+      > 我认为，按照上帝能够形成的不同设计，创造世界有无限多种可能的方式；而每一个可能世界，都依赖某些专属于它的主要设计或目的——即某些原初的自由法令（以*可能性之理*来设想），或这个可能宇宙之*普遍秩序*的某些*法则*。那些设计或目的与这些法则相符合，并决定其概念；同样也决定必须进入这同一个宇宙的一切个体实体的概念。（G II 51/L 333）
+  - id: 10
+    kind: body
+    source: |-
+      Leibniz's basic idea here should conform closely with our intuitions. Imagine God's considering a set of individuals {*a, b, c, d*}. From God's point of view he could choose to actualize this world with one set, *L**, of laws of nature or with another set of laws, *L***. And this choice represents a choice between two possible worlds. This is similar to our saying that we would have a *different* world if the gravitational constant were different. Now, this way of speaking is not exactly right, for on Leibniz's view, the different sets of laws would ultimately produce different properties and perceptions with the individual substances. As a result, the individuals in the worlds governed by *L** and *L*** would strictly speaking be different.
+    step1: |-
+      莱布尼茨这里的基本想法应当与我们的直觉密切相符。设想上帝考虑一组个体 {*a, b, c, d*}。从上帝的观点看，他可以选择用一组自然律 *L** 使这个世界现实化，或者用另一组自然律 *L***。这一选择代表在两个可能世界之间的选择。这类似于我们说：如果引力常数不同，我们就会有一个*不同的*世界。不过，这种说话方式并不完全正确，因为照莱布尼茨的看法，不同的定律组最终会在个体实体那里产生不同的属性与知觉。结果，由 *L** 与 *L*** 所支配的世界中的个体，严格说来是不同的。
+    step2: |-
+      莱布尼茨这里的基本想法，应当与我们的直觉密切相符。设想上帝考虑一组个体 {*a, b, c, d*}。从上帝的观点看，他可以选择用一组自然律 *L** 使这个世界现实化，或者用另一组自然律 *L***。这一选择，代表在两个可能世界之间的选择。这类似于我们说：若引力常数不同，我们就会有一个*不同的*世界。不过，这种说话方式并不完全正确：照莱布尼茨的看法，不同的定律组最终会在个体实体那里产生不同的属性与知觉。结果，由 *L** 与 *L*** 所支配的世界中的个体，严格说来是不同的。
+  - id: 11
+    kind: body
+    source: |-
+      The reason Leibniz mentions the different laws governing the different possible worlds is that the systems of laws and their effects serve as criteria by which God chooses a world. We know that, for Leibniz, God chooses the “best of all possible worlds.” In §6 the *Discourse on Metaphysics*, however, we learn that this means that God chooses the world that is simplest in hypotheses (or laws) and richest in phenomena. Thus, while one might be tempted to see natural laws as derivative of the actual properties and perceptions of individual substances, in fact they are objects of God's choice.
+    step1: |-
+      莱布尼茨提到支配不同可能世界的不同定律，原因在于：诸定律系统及其效果充当上帝选择一个世界的判据。我们知道，对莱布尼茨来说，上帝选择“一切可能世界中最好的世界”。然而在《形而上学谈话》第 6 节我们得知：这意味着上帝选择在假设（或定律）上最简单、在现象上最丰富的世界。因此，虽然人们可能倾向于把自然律看作个体实体的现实属性与知觉的派生物，事实上它们是上帝选择的对象。
+    step2: |-
+      莱布尼茨之所以提到支配不同可能世界的不同定律，是因为：诸定律系统及其效果，充当上帝选择世界的判据。我们知道，对莱布尼茨而言，上帝选择“一切可能世界中最好的世界”。然而《形而上学谈话》第 6 节告诉我们：这意味着上帝选择在假设（或定律）上最简单、在现象上最丰富的世界。因此，尽管人们可能倾向于把自然律看作个体实体之现实属性与知觉的派生物，事实上它们是上帝选择的对象。
+  - id: 12
+    kind: body
+    source: |-
+      When Leibniz speaks of a *possible world*, he means a set of compossible, finite things that God *could have* brought into existence *if* he were not constrained by the goodness that is part of his nature. The *actual world*, on the other hand, is simply that set of finite things that is instantiated by God, because it is greatest in goodness, reality and perfection. Naturally, the fact that we are here experiencing this world – the actual world – means that there is at least one possible world. So are there others?
+    step1: |-
+      当莱布尼茨说到一个*可能世界*时，他指的是一组可共存的有限东西——*如果*上帝不受其本性中善的约束，他*本可以*使其存在。而*现实世界*则只是被上帝实例化的那组有限东西，因为它在善、实在与完善上最大。自然，我们此时正经验着这个世界——现实世界——这一事实意味着：至少存在一个可能世界。那么还有别的吗？
+    step2: |-
+      当莱布尼茨说到一个*可能世界*时，他指的是一组可共存的有限东西——*倘若*上帝不受其本性中善之约束，他*本可以*使之存在。而*现实世界*，则只是被上帝实例化的那组有限东西——因为它在善、实在与完善上最大。自然，我们此时正经验着这个世界——现实世界——这一事实意味着：至少存在一个可能世界。那么，还有别的吗？
+  - id: 13
+    kind: body
+    source: |-
+      Yes, indeed, there are. At least Leibniz thinks so. In his view, as we saw above, there are an infinite number of possible worlds – worlds that God did not see fit to bring into existence. Now, given that Leibniz's safe claim is that “[t]here are as many possible worlds as there are series of things that can be conceived that do not imply a contradiction,” (Grua 390) it might still be the case that there is only *one* possible world – only one set of essences that implies no contradiction. If we accept the claim that a possible world is simply any set of compossible individuals (i.e. a set of individuals whose properties or perceptions do not contradict each other), then there is a rather trivial way to show that there are an infinite number of possible worlds. Namely, we just have an infinity of one-object worlds: thus *w*₁ contains a blue, 8lb. bowling ball; *w*₂, a red, 10lb. bowling ball; *w*₃, a pepperoni pizza; *w*₄, a bicycle; and so on. We could even imagine worlds with two, three, or more objects.
+    step1: |-
+      是的，确实有。至少莱布尼茨如此认为。照他的看法——如上文所见——存在无限多的可能世界：那些上帝认为不值得使之存在的世界。不过，鉴于莱布尼茨稳妥的主张是“有多少可设想的不蕴涵矛盾的事物系列，就有多少可能世界”（Grua 390），仍然可能只有*一个*可能世界——只有一组不蕴涵矛盾的本质。如果我们接受如下主张：一个可能世界就是任何一组可共存的个体（即其属性或知觉互不矛盾的一组个体），那么有一个相当平凡的办法表明存在无限多的可能世界。即：我们只须有一无限的单对象世界系列：*w*₁ 含一个蓝色 8 磅保龄球；*w*₂ 含一个红色 10 磅保龄球；*w*₃ 含一个意式腊肠比萨；*w*₄ 含一辆自行车；如此等等。我们甚至可以设想有两个、三个或更多对象的世界。
+    step2: |-
+      是的，确实有。至少莱布尼茨如此认为。照他的看法——如上文所见——存在无限多的可能世界：那些上帝认为不值得使之存在的世界。不过，鉴于莱布尼茨稳妥的主张是“有多少可设想的不蕴涵矛盾的事物系列，就有多少可能世界”（Grua 390），仍然可能只有*一个*可能世界——只有一组不蕴涵矛盾的本质。倘若我们接受如下主张：一个可能世界就是任何一组可共存的个体（即其属性或知觉互不矛盾的一组个体），那么有一个相当平凡的办法表明：可能世界有无限多个。即：只须有一无限的单对象世界系列——*w*₁ 含一个蓝色 8 磅保龄球；*w*₂ 含一个红色 10 磅保龄球；*w*₃ 含一个意式腊肠比萨；*w*₄ 含一辆自行车；如此等等。我们甚至可以设想有两个、三个或更多对象的世界。
+  - id: 14
+    kind: body
+    source: |-
+      Now, Leibniz's reasons for proposing an infinity of possible worlds are somewhat different. In his short essay *On Contingency* (*De contingentia*, 1689?), Leibniz makes the following claim:
+    step1: |-
+      莱布尼茨提出可能世界无限的理由则略有不同。在其短文《论偶然性》（*De contingentia*，1689?）中，莱布尼茨提出如下主张：
+    step2: |-
+      莱布尼茨提出可能世界无限的理由，则略有不同。在其短文《论偶然性》（*De contingentia*，1689?）中，莱布尼茨提出如下主张：
+  - id: 15
+    kind: body
+    source: |-
+      > One must certainly hold that not all possibles attain existence, otherwise one could imagine no novel that did not exist in some place and at some time. Indeed, it does not seem possible for all possible things to exist, since they get in one another's way. There are, in fact, an infinite number of series of possible things. Moreover, one series certainly cannot be contained within another, since each and every one of them is complete. (A VI iv 1651/AG 29)
+    step1: |-
+      > 人们必须肯定：并非一切可能者都达于存在；否则我们将无法设想一部不在某时某地存在的小说。确实，一切可能的东西都存在，这似乎不可能，因为它们彼此妨碍。事实上，有无限多的可能事物系列。而且，一个系列必定不能被包含在另一个之中，因为每一个系列都是完全的。（A VI iv 1651/AG 29）
+    step2: |-
+      > 人们必须肯定：并非一切可能者都达于存在；否则我们将无法设想一部不在某时某地存在的小说。诚然，一切可能的东西都存在，这似乎不可能——因为它们彼此妨碍。事实上，存在无限多的可能事物系列；而且，一个系列必不能被包含于另一个之中，因为每一个系列都是完全的。（A VI iv 1651/AG 29）
+  - id: 16
+    kind: body
+    source: |-
+      The point here is that there *are* unactualized possibles as exemplified in works of fiction. In other words, a work of fiction represents some *way the world could be*. (To be precise, works of fiction represent *partial* ways worlds could be since they do not (and cannot) depict *complete* or *total* worlds. For example, was Lincoln shot in the world described by *Moby-Dick*? We don't know.) But, insofar as these possibles conflict among themselves, it is clear that not all possibles are compossible. Rather, as we saw above, sets of compossible individuals are Leibniz's possible worlds. If we add to this picture the idea that each individual has a complete individual concept – that is, a determinate concept – which is sufficient to distinguish it from every other possible world, then we see that possible individuals are tied to determinate possible worlds.
+    step1: |-
+      这里的要点是：*确实存在*未现实化的可能者，虚构作品便是例证。换言之，一部虚构作品再现了*世界可能是的某种样子*。（确切地说，虚构作品再现的是世界可能样子的*部分*，因为它们没有、也不可能描绘*完全的*或*整体的*世界。例如，在《白鲸》所描绘的世界里林肯遇刺了吗？我们不知道。）但是，由于这些可能者彼此冲突，显然并非一切可能者都是可共存的。毋宁说，如上文所见，可共存个体的集合就是莱布尼茨的可能世界。如果我们再给这幅图景加上一个观念——每个个体都有一个完整个体概念，即一个确定的概念，足以把它同任何其他可能世界区分开来——那么我们看到：可能的个体与确定的可能世界绑在一起。
+    step2: |-
+      这里的要点是：*确实存在*未现实化的可能者——虚构作品便是例证。换言之，一部虚构作品再现了*世界可能是的某种样子*。（确切地说，虚构作品再现的是世界可能样式的*部分*：它们没有、也不可能描绘*完全的*或*整体的*世界。例如，在《白鲸》所描绘的世界里，林肯遇刺了吗？我们不知道。）但由于这些可能者彼此冲突，显然并非一切可能者都是可共存的。毋宁说，如上文所见，可共存个体的集合就是莱布尼茨的可能世界。若再给这幅图景添上一个观念——每个个体都有一个完整个体概念，即一个确定的概念，足以把它同任何其他可能世界区分开来——那么我们看到：可能的个体与确定的可能世界绑在一起。
+  - id: 17
+    kind: body
+    source: |-
+      But what is the character of these non-actualized possibles? The most natural assumption is that they are like individual substances as characterized by Leibniz in *Discourse on Metaphysics* §8, that is, as having complete individual concepts. In other words, all individuals (actual or merely possible) have determinate essences. In the case of merely possible individuals, however, their being is contained solely in the divine mind. Consider Leibniz's claim in the *Theodicy* §189: “In the region of the eternal verities are found all the possibles.” (G VI 229/H 246) And, in §44 of the *Monadology*, in the middle of his argument for God's necessary existence, Leibniz says, “if there is reality in essences or possibles, or indeed, in eternal truths, this reality must be grounded in something existent and actual, and consequently, it must be grounded in the existence of the necessary being, in whom essence involves existence, that is, in whom possible being is sufficient for actual being.” (G VI 614/AG 218) In other words, there will be determinate essences of some substances that are actualized in the world as well as determinate essences of substances that exist solely in the divine intellect.
+    step1: |-
+      但这些未现实化的可能者是什么性质的呢？最自然的假定是：它们像《形而上学谈话》第 8 节所刻画的个体实体那样，拥有完整个体概念。换言之，一切个体（现实的或单纯可能的）都有确定的本性。不过，就单纯可能的个体而言，它们的存在仅仅包含在神圣心灵之中。看莱布尼茨在《神义论》第 189 节的主张：“在永恒真理的领域里，可以找到一切可能者。”（G VI 229/H 246）而在《单子论》第 44 节——在上帝必然存在论证的中途——莱布尼茨说：“如果在本质或可能者中、或干脆在永恒真理中有实在性，这种实在性必须奠基于某种存在而现实的东西上，从而必须奠基于必然存在者的存在，在它那里本质包含存在，也就是说，在它那里可能的存在足以成为现实的存在。”（G VI 614/AG 218）换言之，将有某些实体的确定本质在这个世界中被现实化，也有仅仅存在于神圣理智中的实体的确定本质。
+    step2: |-
+      但这些未现实化的可能者是什么性质的呢？最自然的假定是：它们像《形而上学谈话》第 8 节所刻画的个体实体那样，拥有完整个体概念。换言之，一切个体（现实的或单纯可能的）都有确定的本性。不过，就单纯可能的个体而言，其存在仅仅包含于神圣心灵之中。看莱布尼茨在《神义论》第 189 节的主张：“在永恒真理的领域里，可以找到一切可能者。”（G VI 229/H 246）而在《单子论》第 44 节——在其上帝必然存在论证的中途——莱布尼茨说：“如果在本质或可能者中、或干脆在永恒真理中有实在性，这种实在性必须奠基于某种存在而现实的东西上，从而必须奠基于必然存在者的存在——在它那里本质包含存在，也就是说，在它那里可能的存在足以成为现实的存在。”（G VI 614/AG 218）换言之：既有某些实体的确定本质在这个世界中被现实化，也有仅仅存在于神圣理智中的实体的确定本质。
+  - id: 18
+    kind: body
+    source: |-
+      By way of contrast, Spinoza argues in the *Ethics* (Ip33) that there are no unactualized possibles. In the case of a story depicting another “reality,” we have only partial and confused knowledge of the world depicted. *If* we were to have true knowledge of the way all the characters and their actions extend backward and forward in time, we could ultimately arrive at some contradiction. Moreover, Spinoza holds that everything that is truly possible will be expressed at some point as God or nature expresses its infinite essence. That is, since God is a substance of infinite attributes expressed in infinite ways, everything that is *possible* finds existence at some point in *this* world. Of course, this difference between Leibniz and Spinoza is largely attributable to Leibniz's adherence to what Spinoza finds so wrong: the anthropomorphic conception of God and the attendant distinction between divine intellect and will, which is what allows for God's supposed contemplation of non-existent possibles.
+    step1: |-
+      作为对照，斯宾诺莎在《伦理学》（Ip33）中论证不存在未现实化的可能者。就一个描绘另一种“实在”的故事而言，我们对被描绘的世界只有部分而混乱的知识。*如果*我们对一切角色及其行动在时间中前后延伸的方式有真知，我们最终会达到某种矛盾。而且，斯宾诺莎主张：一切真正可能的东西都将在某处得到表现，正如上帝或自然表现其无限本质。也就是说，既然上帝是无限属性以无限方式得到表现的实体，一切*可能的*东西都在*这个*世界的某处找到存在。当然，莱布尼茨与斯宾诺莎的这种差别，很大程度上要归因于莱布尼茨坚持斯宾诺莎认为大错特错的东西：拟人化的上帝观，以及随之而来的神圣理智与意志的区分——正是后者使上帝据称能够沉思不存在的可能者。
+    step2: |-
+      作为对照，斯宾诺莎在《伦理学》（Ip33）中论证：不存在未现实化的可能者。就一个描绘另一种“实在”的故事而言，我们对被描绘的世界只有部分而混乱的知识。*倘若*我们对一切角色及其行动在时间中前后延伸的方式有真知，我们最终会抵达某种矛盾。而且，斯宾诺莎主张：一切真正可能的东西都将在某处得到表现，正如上帝或自然表现其无限本质。也就是说，既然上帝是无限属性以无限方式得到表现的实体，一切*可能的*东西都在*这个*世界的某处找到存在。当然，莱布尼茨与斯宾诺莎的这一差别，很大程度上归因于莱布尼茨所坚持、而斯宾诺莎认为大错特错的东西：拟人化的上帝观，以及随之而来的神圣理智与意志之别——正是后者，使上帝据称能够沉思不存在的可能者。
+  - id: 19
+    kind: body
+    source: |-
+      In *Meaning and Necessity*, Rudolf Carnap suggests that a Leibnizian possible world is represented by his *state-descriptions*: a class of sentences containing, for every atomic sentence, either it or its negation. In other words, for each possible world there is a series of propositions that will fully describe that world. The idea of a possible world as being such a set of sentences or propositions leads naturally to the notion of a “world-book,” a term employed by Alvin Plantinga (*The Nature of Necessity*). Lest such devices seem anachronistic, it should be pointed out that, in the fascinating conclusion to the *Theodicy*, Leibniz speaks in a similar way; indeed, Leibniz's parable is something that one might imagine has come straight from Jorge Luis Borges (cf. “The Library of Babel”). The story concerns Theodorus, a high priest present when Sextus Tarquinius complains to Jupiter about his fate. (Sextus was the son of the last king of Rome, whose crime of raping Lucretia so incensed Brutus that he led a revolt that ultimately abolished the monarchy and began the Roman Republic.) Theodorus is moved by Sextus' complaint and is sent to receive instruction at the temple of Pallas Athena where he is shown “the palace of the fates.” According to Athena, “Here are representations not only of that which happens but also of all that which is possible. Jupiter, having surveyed them before the beginning of the existing world, classified the possibilities into worlds, and chose the best of all.” (*Theodicy* §414: G VI 363/H 370) She continues,
+    step1: |-
+      在《意义与必然》中，鲁道夫·卡尔纳普提出：一个莱布尼茨式的可能世界由他的*状态描述*来表现——一类句子，对每一个原子句都包含它或它的否定。换言之，对每一个可能世界，都有一系列命题将充分描述那个世界。把可能世界看作这样一组句子或命题的观念，自然导向“世界之书”的概念——阿尔文·普兰丁格（《论必然性》）使用的术语。为免这类装置显得时代错置，应当指出：在《神义论》引人入胜的结论中，莱布尼茨以类似的方式说话；确实，人们可能设想莱布尼茨的寓言径直出自豪尔赫·路易斯·博尔赫斯（参见《巴别图书馆》）。故事关乎特奥多鲁斯——一位大祭司，塞克斯图斯·塔克文向朱庇特抱怨其命运时他在场。（塞克斯图斯是罗马最后一位国王的儿子；后者的强暴卢克蕾提娅之罪使布鲁图斯如此震怒，以致他领导了一场起义，最终废除君主制、开创罗马共和国。）特奥多鲁斯被塞克斯图斯的抱怨打动，被派往帕拉斯·雅典娜的神庙接受教诲，在那里他被示以“命运之宫”。照雅典娜的说法：“这里不仅有关于发生之事的表现，也有关于一切可能之事的表现。朱庇特在现存世界开始之前通观了它们，把种种可能性分类为诸世界，并选择了其中最好的一个。”（《神义论》第 414 节：G VI 363/H 370）她接着说：
+    step2: |-
+      在《意义与必然》中，鲁道夫·卡尔纳普提出：一个莱布尼茨式的可能世界，由他的*状态描述*来表现——一类句子，对每一个原子句都包含它或它的否定。换言之，对每一个可能世界，都有一系列命题充分描述那个世界。把可能世界看作这样一组句子或命题，自然导向“世界之书”的概念——阿尔文·普兰丁格（《论必然性》）所用的术语。为免这类装置显得时代错置，应当指出：在《神义论》引人入胜的结论中，莱布尼茨以类似的方式说话；人们甚至可能设想，莱布尼茨的寓言径直出自豪尔赫·路易斯·博尔赫斯（参见《巴别图书馆》）。故事关乎特奥多鲁斯——一位大祭司，塞克斯图斯·塔克文向朱庇特抱怨其命运时他在场。（塞克斯图斯是罗马最后一位国王之子；后者的强暴卢克蕾提娅之罪令布鲁图斯震怒，遂领导起义，终废君主制、开罗马共和。）特奥多鲁斯被塞克斯图斯的抱怨打动，被派往帕拉斯·雅典娜的神庙受教，在那里他被示以“命运之宫”。照雅典娜的说法：“这里不仅有关于发生之事的表现，也有关于一切可能之事的表现。朱庇特在现存世界开始之前通观了它们，把种种可能性分类为诸世界，并择取其中最好的一个。”（《神义论》第 414 节：G VI 363/H 370）她接着说：
+  - id: 20
+    kind: body
+    source: |-
+      > I have only to speak, and we shall see a whole world that my father might have produced, wherein will be represented anything that can be asked of him; and in this way one may know also what would happen if any particular possibility should attain unto existence. And whenever the conditions are not determinate enough, there will be as many such worlds differing from one another as one shall wish, which will answer differently the same question, in as many ways as possible… But if you put a case that differs from the actual world only in one single definite thing and in its results, a certain one of those determinate worlds will answer you. These worlds are all here, that is, in ideas. I will show you some, wherein shall be found, not absolutely the same Sextus as you have seen (that is not possible, he carries with him always that which he shall be) but several Sextuses resembling him, possessing all that is already in him imperceptibly, nor in consequence all that shall yet happen to him… (*Theodicy* §414: G VI 363/H 370–71)
+    step1: |-
+      > 我只须开口，我们就会看到一整个我父亲本可以产生的世界，其中将表现出凡可求于他的一切；由此人们也可以知道：如果任何一个特定的可能性达于存在，将发生什么。而每当条件不够确定时，这样的世界想要多少就有多少，它们彼此不同，以尽可能多的方式对同一个问题给出不同的回答……但如果你提出一个只在单个确定事项及其结果上不同于现实世界的情形，那些确定的世界中某一个将回答你。这些世界都在这里，也就是说，在观念之中。我将给你看其中几个：其中将可以找到的，不是你见过的那个绝对相同的塞克斯图斯（那不可能，他始终携带着他将成为的东西），而是几个与他相似的塞克斯图斯，拥有已经不可觉察地在他之中的一切，从而也拥有那尚未发生的一切……（《神义论》第 414 节：G VI 363/H 370–71）
+    step2: |-
+      > 我只须开口，我们就会看到一整个我父亲本可以产生的世界，其中将表现出凡可求于他的一切；由此人们也可以知道：若某一个特定的可能性达于存在，将发生什么。而每当条件不够确定时，这样的世界想要多少便有多少——它们彼此不同，以尽可能多的方式对同一个问题给出不同的回答……但如果你提出一个仅在单个确定事项及其结果上异于现实世界的情形，那些确定的世界中某一个将回答你。这些世界都在这里，也就是说，在观念之中。我将给你看其中几个：其中可以找到的，不是你见过的那个绝对相同的塞克斯图斯（那不可能——他始终携带着他将成为的东西），而是几个与他相似的塞克斯图斯：拥有已经不可觉察地在他之中的一切，从而也拥有那尚未发生的一切……（《神义论》第 414 节：G VI 363/H 370–71）
+  - id: 21
+    kind: body
+    source: |-
+      Theodorus is led into one of the halls of the palace and, observing a great volume of writings in the hall, asks what it is. “It is,” Athena tells him, “the history of this world which we are now visiting…; it is the book of fates.” (*Theodicy* §415: G VI 363/H 371–72) And, finally, we have an argument for the infinity of worlds wrapped in a fantasy tale:
+    step1: |-
+      特奥多鲁斯被引入宫中一座大厅，看到厅中一大卷文书，便问那是什么。雅典娜告诉他：“那是我们现在正在访问的这个世界的历史……；那是命运之书。”（《神义论》第 415 节：G VI 363/H 371–72）最后，我们得到一个裹在幻想故事里的、关于世界无限的论证：
+    step2: |-
+      特奥多鲁斯被引入宫中一座大厅；看到厅中一大卷文书，他问那是什么。雅典娜告诉他：“那是我们现在正在访问的这个世界的历史……；那是命运之书。”（《神义论》第 415 节：G VI 363/H 371–72）最后，我们得到一个裹在幻想故事里的、关于世界无限的论证：
+  - id: 22
+    kind: body
+    source: |-
+      > The halls rose in a pyramid, becoming even more beautiful as one mounted towards the apex, and representing more beautiful worlds. Finally they reached the highest one which completed the pyramid, and which was the most beautiful of all: for the pyramid had a beginning, but one could not see its end; it had an apex, but no base; it went on increasing to infinity. That is (as the Goddess explained) because amongst an endless number of possible worlds there is the best of all, else would God not have determined to create any; but there is not any one which has not also less perfect worlds below it: that is why the pyramid goes on descending to infinity. (*Theodicy* §416: G VI 364/H 372)
+    step1: |-
+      > 一座座大厅构成一座金字塔，越往上攀登越加美丽，表现着越来越美的世界。最后他们到达金字塔顶端的那一座，它也是一切之中最美的：因为金字塔有一个开端，却看不到它的尽头；它有一个顶点，却没有底座；它无限地持续增大。这就是说（如女神所解释的），因为在无限多的可能世界之中有一个最好的，否则上帝就不会决定创造任何一个；但没有任何一个世界之下没有更不完满的世界：这就是金字塔无限向下延伸的原因。（《神义论》第 416 节：G VI 364/H 372）
+    step2: |-
+      > 一座座大厅叠成金字塔，越向上攀登越加美丽，表现着越来越美的世界。最后他们到达金字塔顶端的那一座——它也是一切之中最美的：因为金字塔有一个开端，却看不到尽头；它有一个顶点，却没有底座；它无限地持续增大。这就是说（如女神所解释的）：无限多的可能世界之中有一个最好的，否则上帝不会决定创造任何一个；但没有任何一个世界之下不还有更不完满的世界——这就是金字塔无限向下延伸的原因。（《神义论》第 416 节：G VI 364/H 372）
+  - id: 23
+    kind: body
+    source: |-
+      Leibniz makes clear here his basic view of God's *obligation* to choose the best world possible, as well as his view that, if there were not a single best world, no world at all would have been brought into existence. At the same time, the argument for the infinity of possible worlds given here is rather comical: (granted, there must be one best world) for any world you can imagine (or find in the pyramid), there is one that is worse. So much for Leibniz the optimist!
+    step1: |-
+      莱布尼茨在这里清楚地表明其基本看法：上帝有*义务*选择可能的世界中最好的一个；以及他的看法：如果不存在唯一最好的世界，那么根本不会有任何世界被创造出来。与此同时，这里给出的关于可能世界无限的论证是相当滑稽的：（姑且承认，必有一个最好的世界）对你能想象的任何一个世界（或在金字塔中找到的），都有一个更糟的。乐天派莱布尼茨，不过如此！
+    step2: |-
+      莱布尼茨在这里清楚地表明其基本看法：上帝有*义务*选择可能世界中最好的一个；以及他的看法：若不存在唯一最好的世界，则根本不会有任何世界被创造出来。与此同时，这里给出的可能世界无限之论证相当滑稽：（姑且承认，必有一个最好的世界）对你能想象的任何一个世界——或在金字塔中找到的——都有一个更糟的。乐天派莱布尼茨，不过如此！
+  - id: 24
+    kind: body
+    source: |-
+      The world-books are on permanent display in the divine intellect. This is what Leibniz means when he says that they reside in the realm of eternal verities. But one thing should be absolutely clear: Leibniz is no modal realist à la David Lewis. Although Leibniz claims that *there are* an infinity of possible worlds, he does not mean that infinitely many possible worlds exist in the same way as this (actual) world does, or that infinitely many worlds are running, as it were, parallel to this one, or that “actual” is an indexical expression like “here” and “now.” The existence claim commits Leibniz only to the existence of different ways the world could be and to the shelving of these world-books in the infinite and eternal library of the divine mind. As he puts it in the same letter to Arnauld, “there is no other reality in pure possibles than the reality they have in the divine understanding.” (G II 45/AG 75) But it is crucial to Leibniz's position that there be one and only one *actual* world, the best of all possible worlds. As we have seen, God is obligated to bring this one world into existence. And, we have also seen that, according to Leibniz, if there were no uniquely best world, then God would not have brought any world into existence. (And God could not simply play *Eenee, Meenee, Mainee, Mo!* with two worlds; he must, according to the Principle of Sufficient Reason, have a ground for his decision.) Further, there cannot be two worlds that are absolutely equal in terms of their degrees of perfection, for God, by virtue of his omnipotence and omniscience, must be able to determine *some* distinction between the worlds. And if God had actualized more than one world and they had been of different degrees of perfection, then God would have brought into existence that which is less perfect than possible (a violation of the requirements of divine benevolence). (Concerning the reasons for *this* world, more below.)
+    step1: |-
+      世界之书永久陈列于神圣理智之中。这就是莱布尼茨说它们居于永恒真理领域时的意思。但有一件事应当绝对清楚：莱布尼茨不是大卫·刘易斯式的模态实在论者。虽然莱布尼茨主张*存在*无限多的可能世界，他并不意味着无限多的可能世界以与现实世界相同的方式存在，也不意味着无限多个世界仿佛与现实世界并行运转，也不意味着“现实的”是一个像“这里”与“现在”那样的指示词。这个存在主张，只把莱布尼茨约束于：世界可能样式的存在，以及这些世界之书被搁置在神圣心灵那无限的、永恒的图书馆中。如他在同一封致阿尔诺的信中所说：“纯粹的可能者除了它们在神圣理智中具有的实在性之外，没有别的实在性。”（G II 45/AG 75）但对莱布尼茨的立场至关紧要的是：有且只有一个*现实的*世界，即一切可能世界中最好的世界。如我们所见，上帝有义务使这一个世界存在。而且我们也已看到，照莱布尼茨的说法，如果不存在唯一最好的世界，上帝就不会使任何世界存在。（上帝也不能简单地用“点兵点将”在两个世界之间挑一个；按照充足理由律，他必须有其决定的根据。）此外，不可能有两个世界在完善度上绝对相等，因为上帝凭其全能与全知，必须能够判定世界之间的*某种*区别。而如果上帝现实化了不止一个世界、且它们完善度不同，那么上帝就是使某种不如可能那样完善的东西存在了（这违反神圣仁爱的要求）。（关于*这个*世界的理由，下文再谈。）
+    step2: |-
+      世界之书永久陈列于神圣理智之中——莱布尼茨说它们居于永恒真理领域，就是这个意思。但有一件事应当绝对清楚：莱布尼茨不是大卫·刘易斯式的模态实在论者。虽然莱布尼茨主张*存在*无限多的可能世界，他并不意味着无限多的可能世界以与现实世界相同的方式存在，也不意味着无限多个世界仿佛与现实世界并行运转，更不意味着“现实的”是一个像“这里”“现在”那样的指示词。这个存在主张，只把莱布尼茨约束于两点：世界可能样式的存在，以及这些世界之书被搁置在神圣心灵那无限而永恒的图书馆中。如他在同一封致阿尔诺的信中所说：“纯粹的可能者除了它们在神圣理智中具有的实在性之外，没有别的实在性。”（G II 45/AG 75）但对莱布尼茨的立场至关紧要的是：有且只有一个*现实的*世界——一切可能世界中最好的世界。如我们所见，上帝有义务使这一个世界存在；而且我们也已看到，照莱布尼茨之说，若不存在唯一最好的世界，上帝就不会使任何世界存在。（上帝也不能用“点兵点将”在两个世界之间随手一挑；按照充足理由律，他必须有其决定的根据。）此外，不可能有两个世界在完善度上绝对相等：上帝凭其全能与全知，必能判定世界之间的*某种*区别。而如果上帝现实化了不止一个世界、且它们完善度不同，那么上帝便是使某种不如可能那样完善的东西存在了——这违反神圣仁爱的要求。（关于*这个*世界的理由，下文再谈。）
+  - id: 25
+    kind: body
+    source: |-
+      ## 2. The Nature of Modality
+    step1: |-
+      ## 2 模态的本性
+    step2: |-
+      ## 2 模态的本性
+  - id: 26
+    kind: body
+    source: |-
+      One reason that Leibniz's conception of possible worlds has attracted the sympathetic attention of some contemporary philosophers and has proven appealing is that it appears to foreshadow the developments in possible-worlds semantics. According to this view, our basic modal concepts—necessity, contingency, possibility and impossibility—can be defined in straightforwardly non-modal terms.
+    step1: |-
+      莱布尼茨的可能世界概念之所以吸引了一些当代哲学家的同情注意并被证明富有魅力，原因之一是：它似乎预示了可能世界语义学的发展。照这种看法，我们的基本模态概念——必然性、偶然性、可能性与不可能性——可以用直截了当的非模态术语来定义。
+    step2: |-
+      莱布尼茨的可能世界概念之所以吸引当代一些哲学家的同情注意、并被证明富有魅力，原因之一是：它似乎预示了可能世界语义学的发展。照这种看法，我们的基本模态概念——必然性、偶然性、可能性与不可能性——可以用直截了当的非模态术语来定义。
+  - id: 27
+    kind: body
+    source: |-
+      1. *Possibility*: A proposition is possible if and only if it is true in some possible world. A being is possible if and only if it exists in some possible world.
+      2. *Contingency*: A proposition is contingently true if and only if it is true in this world and false in another world. A proposition is contingent if its contrary does not imply a contradiction.
+      3. *Necessity*: A proposition is necessarily true if and only if it is true in every possible world.
+      4. *Impossibility*: A proposition is impossible if and only if it is not true in any possible world.
+    step1: |-
+      1. *可能性*：一个命题是可能的，当且仅当它在某个可能世界中为真。一个存在者是可能的，当且仅当它存在于某个可能世界之中。
+      2. *偶然性*：一个命题偶然为真，当且仅当它在这个世界中为真而在另一个世界中为假。一个命题是偶然的，如果它的反面不蕴涵矛盾。
+      3. *必然性*：一个命题必然为真，当且仅当它在每一个可能世界中都为真。
+      4. *不可能性*：一个命题是不可能的，当且仅当它在任何可能世界中都不为真。
+    step2: |-
+      1. *可能性*：一个命题是可能的，当且仅当它在某个可能世界中为真；一个存在者是可能的，当且仅当它存在于某个可能世界。
+      2. *偶然性*：一个命题偶然为真，当且仅当它在此世为真而在彼世为假；一个命题是偶然的，如果其反面不蕴涵矛盾。
+      3. *必然性*：一个命题必然为真，当且仅当它在每一个可能世界中都为真。
+      4. *不可能性*：一个命题不可能，当且仅当它在任何可能世界中都不为真。
+  - id: 28
+    kind: body
+    source: |-
+      But does Leibniz's account of necessity and contingency really amount to possible-worlds semantics for modality *avant la lettre*? While Leibniz had all the tools at his disposal to develop such an account of modality, he did not, or, at least, he did not do so explicitly in any texts. Rather, his account of the nature of necessity and contingency has more to do with his account of the nature of truth and the analysis of propositions. More specifically, it has to do with his doctrine of *infinite analysis*. In his piece *On Contingency*, Leibniz writes,
+    step1: |-
+      但是，莱布尼茨关于必然与偶然的说明真的算得上先于明文的可能世界模态语义学吗？虽然莱布尼茨手头拥有发展这样一种模态说明的全部工具，他却没有这样做，或者至少没有在任何文本中明确地这样做。毋宁说，他关于必然与偶然之本性的说明，与他对真理本性的说明及对命题的分析关系更大。更具体地说，它与他的*无穷分析*学说有关。在其《论偶然性》一文中，莱布尼茨写道：
+    step2: |-
+      但是，莱布尼茨关于必然与偶然的说明，真的算得上先于明文（*avant la lettre*）的可能世界模态语义学吗？莱布尼茨手头固然拥有发展这样一种模态说明的全部工具，他却没有这样做——至少没有在任何文本中明确地这样做。毋宁说，他关于必然与偶然之本性的说明，同他对真理本性的说明、对命题的分析关系更大；更具体地说，同他的*无穷分析*学说有关。在其《论偶然性》一文中，莱布尼茨写道：
+  - id: 29
+    kind: body
+    source: |-
+      > [I]n necessary propositions, when the analysis is continued indefinitely, it arrives at an equation that is an identity… But in contingent propositions one continues the analysis to infinity through reasons for reasons, so that one never has a complete demonstration, though there is always, underneath, a reason for the truth, but the reason is understood completely by God, who alone traverses the infinite series in one stroke of mind. (A VI iv 1650/AG 28)
+    step1: |-
+      > [在]必然命题中，当分析被无限地继续下去时，它会达到一个作为同一式的等式……但在偶然命题中，人们通过理由的理由把分析继续到无限，以致永远不会有完全的证明；尽管在底下总有一个真理的理由，但只有上帝才完全理解这个理由——唯有他能够一念之间穿越无限系列。（A VI iv 1650/AG 28）
+    step2: |-
+      > [在]必然命题中，当分析被无限地继续下去时，会达到一个作为同一式的等式……但在偶然命题中，人们经由理由之理由把分析继续到无限，以致永远不会有完全的证明；尽管在底下总有一个真理的理由，但唯有上帝完全理解这个理由——唯他能一念之间穿越无限系列。（A VI iv 1650/AG 28）
+  - id: 30
+    kind: body
+    source: |-
+      In other words, a proposition is necessary (or expresses a necessary truth) if, in analyzing it, one arrives at a statement of identities. A simple example can be found in arithmetic: “2+2 = 4.” Since “2 = 1+1” and “4 = 1+1+1+1”, we can easily show that the original statement can be reduced to “1+1+1+1 = 1+1+1+1.” Here we have an obvious case of an identity and one where we can say that the concept of the predicate – in this case, “4” – is contained is contained in the subject, “2+2” (or “(1+1) + (1+1)”).
+    step1: |-
+      换言之，一个命题是必然的（或表达一个必然真理），如果在分析它时人们达到一个同一式陈述。一个简单的例子见于算术：“2+2 = 4”。既然“2 = 1+1”且“4 = 1+1+1+1”，我们可以容易地表明原陈述可以还原为“1+1+1+1 = 1+1+1+1”。这里我们有一个显而易见的同一式，并且可以说谓词的概念——此处的“4”——被包含在主词“2+2”（或“(1+1) + (1+1)”）之中。
+    step2: |-
+      换言之，一个命题是必然的（或表达一个必然真理），若在分析它时人们达到一个同一式陈述。一个简单的例子见于算术：“2+2 = 4”。既然“2 = 1+1”且“4 = 1+1+1+1”，我们可以容易地表明：原陈述可还原为“1+1+1+1 = 1+1+1+1”。这里我们有一个显而易见的同一式；并且可以说，谓词的概念——此处的“4”——包含在主词“2+2”（或“(1+1) + (1+1)”）之中。
+  - id: 31
+    kind: body
+    source: |-
+      It should be clear that Leibniz's definition of what is *necessary* will be adopted by Kant, *but* Kant will call this *analytic*. (On the other hand, Kant famously rejects the idea that the arithmetic statement given above (or any arithmetic statement) is *analytic*. Although this is a topic of some controversy, the majority of jurors have a returned a verdict in favor of Leibniz's classificatory scheme and against that of Kant.)
+    step1: |-
+      应当清楚，莱布尼茨对*必然的*定义将被康德采纳，*但*康德将称之为*分析的*。（另一方面，康德著名地拒绝这样的观念：上面给出的算术陈述（或任何算术陈述）是*分析的*。虽然这是一个颇有争议的论题，陪审团的多数已经投票支持莱布尼茨的分类方案而反对康德的方案。）
+    step2: |-
+      应当清楚：莱布尼茨对*必然的*定义将被康德采纳，*但*康德将称之为*分析的*。（另一方面，康德著名地拒绝这样的观念——上面给出的算术陈述（或任何算术陈述）是*分析的*。此题虽颇有争议，陪审团的多数已投票支持莱布尼茨的分类方案、反对康德的方案。）
+  - id: 32
+    kind: body
+    source: |-
+      A true proposition that is *contingent* is one in which it can never be demonstrated that the subject and predicate terms are reducible to identities. Indeed, according to Leibniz, the analysis of these concepts can be carried on to infinity. While this might seem vague, Leibniz often compares the distinction between necessary and contingent truths to rational and irrational numbers.
+    step1: |-
+      一个*偶然的*真命题是这样的命题：永远无法证明主词与谓词项可还原为同一式。确实，照莱布尼茨的说法，对这些概念的分析可以无限地进行下去。虽然这显得含糊，莱布尼茨经常把必然真理与偶然真理的区分比作有理数与无理数。
+    step2: |-
+      一个*偶然的*真命题是这样的命题：永远无法证明主谓词项可还原为同一式。确实，照莱布尼茨之说，对这些概念的分析可以无限地进行下去。这虽显得含糊，莱布尼茨却常把必然真理与偶然真理之别，比作有理数与无理数之别。
+  - id: 33
+    kind: body
+    source: |-
+      > [I]n proportions, while the analysis sometimes comes to an end, and arrives at a common measure, namely, one that measures out each term of the proportion through exact repetitions of itself, in other cases the analysis can be continued to infinity, as happens in the comparison between a rational number and an irrational number, such as the comparison of the side and the diagonal of a square. So, similarly, truths are sometimes provable, that is, necessary, and sometimes they are free or contingent, and so cannot be reduced by any analysis to an identity, to a common measure, as it were. And this is an essential distinction, both for proportions and for truths. (A VI iv 1657/AG 97)
+    step1: |-
+      > [在]比例中，分析有时会终止并达到一个公共尺度，即通过自身的精确重复来量度比例中每一项的尺度；在其他情形中，分析可以无限地继续下去，如同在有理数与无理数的比较中发生的那样，例如正方形的边与对角线的比较。类似地，真理有时是可证明的，即必然的；有时它们是自由的或偶然的，因而不能通过任何分析还原为一个同一式、还原为所谓的公共尺度。这是一个本质的区分，无论对比例还是对真理。（A VI iv 1657/AG 97）
+    step2: |-
+      > [在]比例中，分析有时会终止并达到一个公共尺度——即通过自身的精确重复来量度比例中每一项的尺度；在其他情形中，分析可以无限地继续下去，如同比较有理数与无理数时那样，例如正方形的边与对角线之比。类似地，真理有时是可证明的，即必然的；有时它们是自由的或偶然的，因而不能通过任何分析还原为一个同一式、还原为所谓的公共尺度。这是一个本质的区分——无论对比例还是对真理。（A VI iv 1657/AG 97）
+  - id: 34
+    kind: body
+    source: |-
+      Although “infinite analysis” might still seem a rather elusive idea, the driving thought should not be so difficult. The *reason* for any contingently true proposition is to be found in another contingently true proposition, and this chain of reasons goes back ultimately to the creation of the world (or rather to God's free choice of *this* particular world). We, with our finite minds, are not able to grasp this chain of reasons, but God can do so.
+    step1: |-
+      虽然“无穷分析”或许仍是一个难以捉摸的观念，其背后的思想却不应当太难。任何一个偶然为真的命题的*理由*，见于另一个偶然为真的命题；这条理由之链最终回溯到世界的创造（或者说，回溯到上帝对*这个*特定世界的自由选择）。我们这些心智有限的人无法把握这条理由之链，但上帝能够。
+    step2: |-
+      “无穷分析”或许仍是一个难以捉摸的观念，但其背后的思想不应太难。任何一个偶然为真的命题，其*理由*见于另一个偶然为真的命题；这条理由之链最终回溯到世界的创造——或者说，回溯到上帝对*这个*特定世界的自由选择。我们心智有限，无法把握这条理由之链，但上帝能够。
+  - id: 35
+    kind: body
+    source: |-
+      > But in contingent truths, even though the predicate is in the subject, this can never be demonstrated, nor can a proposition ever be reduced [*revocari*] to an equality or to an identity, but the resolution proceeds to infinity, God alone seeing, not the end of the resolution, of course, which does not exist, but the connection of the terms or the containment of the predicate in the subject, since he sees whatever is in the series. Indeed, this very truth was derived in part from his intellect, in part from his will, and it expresses his infinite perfection and the harmony of the entire series of things in its own particular way. (A VI iv 1656/AG 96)
+    step1: |-
+      > 但在偶然真理中，即使谓词在主词之中，这也永远无法被证明，命题也永远无法被还原[*revocari*]为一个等式或同一式；分解无限地进行下去，唯有上帝看到——当然不是分解的终点（它并不存在），而是各项之间的联系或谓词对主词的包含——因为他看到系列中的一切。而且，这个真理本身部分来自他的理智，部分来自他的意志，并以它自己的特殊方式表现他的无限完善与整个事物系列的和谐。（A VI iv 1656/AG 96）
+    step2: |-
+      > 但在偶然真理中，即使谓词在主词之中，这也永远无法被证明；命题也永远无法被还原[*revocari*]为一个等式或同一式——分解无限地进行下去。唯有上帝看到（当然不是分解的终点——它并不存在——而是各项之间的联系、谓词对主词的包含），因为他看到系列中的一切。而且，这个真理本身部分来自他的理智，部分来自他的意志，并以它自己的特殊方式表现他的无限完善与整个事物系列的和谐。（A VI iv 1656/AG 96）
+  - id: 36
+    kind: body
+    source: |-
+      Leibniz's definition of a *possibility* is simply a proposition that can be shown to be such that a contradiction will never arise in its analysis. (A VI iv 758/LLP 61) And an impossibility, not surprisingly, is defined as a proposition that can be demonstrated to generate a contradiction in its analysis.
+    step1: |-
+      莱布尼茨对一个*可能性*的定义就是：一个能够被表明在其分析中永远不会产生矛盾的命题。（A VI iv 758/LLP 61）而一个不可能性，不出所料，被定义为一个能够被证明在其分析中产生矛盾的命题。
+    step2: |-
+      莱布尼茨对一个*可能性*的定义即是：一个能够被表明在其分析中永不会产生矛盾的命题。（A VI iv 758/LLP 61）而一个不可能性，不出所料，被定义为能够被证明在其分析中产生矛盾的命题。
+  - id: 37
+    kind: body
+    source: |-
+      It was claimed above that Leibniz does not explicitly adopt the kind of possible-worlds semantics endorsed by Lewis and others in his own definitions and explanations of our basic modal concepts. But it is easy to show that Leibniz's account of these modal concepts can be translated into the now standard possible-worlds semantics. Consider the way Leibniz distinguishes necessary and contingent truths in §13 of the *Discourse on Metaphysics*.
+    step1: |-
+      上文曾主张：莱布尼茨在我们基本模态概念的定义与解释中，没有明确采纳刘易斯等人支持的那类可能世界语义学。但容易表明：莱布尼茨对这些模态概念的说明可以被翻译成如今标准的可能世界语义学。看莱布尼茨在《形而上学谈话》第 13 节区分必然真理与偶然真理的方式。
+    step2: |-
+      上文曾主张：莱布尼茨在我们基本模态概念的定义与解释中，并未明确采纳刘易斯等人支持的那类可能世界语义学。但容易表明：莱布尼茨对这些模态概念的说明，可以翻译成如今标准的可能世界语义学。且看莱布尼茨在《形而上学谈话》第 13 节区分必然真理与偶然真理的方式。
+  - id: 38
+    kind: body
+    source: |-
+      > The one whose contrary implies a contradiction is absolutely necessary; this deduction occurs in the eternal truths, for example, the truths of geometry. The other is necessary only *ex hypothesi* and, so to speak, accidentally, but it is contingent in itself, since its contrary does not imply a contradiction. And this connection is based not purely on ideas and God's simple understanding, but on his free decrees and on the sequence of the universe. (A VI iv 1547/AG 45)
+    step1: |-
+      > 其反面蕴涵矛盾的那个是绝对必然的；这一推演发生于永恒真理之中，例如几何学的真理。另一个只是*依假设*、可以说偶然地必然，但它本身是偶然的，因为其反面不蕴涵矛盾。而这种联系不是纯粹基于观念与上帝的单纯理智，而是基于他的自由法令与宇宙的序列。（A VI iv 1547/AG 45）
+    step2: |-
+      > 其反面蕴涵矛盾的那个是绝对必然的；这一推演发生于永恒真理之中，例如几何学的真理。另一个只是*依假设*（*ex hypothesi*）、可以说偶然地必然，但它本身是偶然的——因为其反面不蕴涵矛盾。而这种联系，不是纯粹基于观念与上帝的单纯理智，而是基于他的自由法令与宇宙的序列。（A VI iv 1547/AG 45）
+  - id: 39
+    kind: body
+    source: |-
+      And, slightly later, discussing Julius Caesar's crossing of the Rubicon (and predicate “crosses the Rubicon” in the concept of Caesar), Leibniz writes the following:
+    step1: |-
+      稍后，在讨论尤利乌斯·恺撒渡过卢比孔河（以及“渡过卢比孔河”这个谓词在恺撒的概念之中）时，莱布尼茨写道：
+    step2: |-
+      稍后，在讨论尤利乌斯·恺撒渡卢比孔河（以及“渡过卢比孔河”这一谓词在恺撒概念之中）时，莱布尼茨写道：
+  - id: 40
+    kind: body
+    source: |-
+      > For it will be found that the demonstration of this predicate of Caesar is not as absolute as those of numbers or of geometry, but that it supposes the sequence of things that God has freely chosen, a sequence based on God's first free decree always to do what is most perfect and on God's decree with respect to human nature, following out of the first decree, that man will always do (although freely) that which appears to be best. But every truth based on these kinds of decrees is contingent, even though it is certain; for these decrees do not change the possibility of things, and, as I have already said, even though it is certain that God always chooses the best, this does not prevent something less perfect from being and remaining possible in itself, even though it will not happen, since it is not its impossibility but its imperfection which causes it to be rejected. And nothing is necessary whose contrary is possible. (A VI iv 1548/AG 46)
+    step1: |-
+      > 因为人们会发现，恺撒的这个谓词的证明不像数字或几何学的证明那样绝对，而是预设了上帝自由选择的事物序列——这个序列基于上帝的首要自由法令：永远做最完善的事；也基于上帝关于人性的法令（它从首要法令引申而出）：人将总是做（尽管是自由地）在他看来最好的事。但基于这类法令的每一个真理都是偶然的，即使它是确定的；因为这些法令不改变事物的可能性，而且，如我已经说过的，尽管上帝总是选择最好的这一点是确定的，这并不妨碍某件较不完善的东西在自身中是并保持是可能的，尽管它不会发生——因为它被拒斥不是由于其不可能性，而是由于其不完善性。而凡其反面可能的东西都不是必然的。（A VI iv 1548/AG 46）
+    step2: |-
+      > 因为人们会发现：恺撒的这个谓词之证明，不像数字或几何学的证明那样绝对，而是预设上帝自由选择的事物序列——这个序列基于上帝的首要自由法令（永远做最完善的事），也基于上帝关于人性的法令（从首要法令引申而出）：人将总是做（尽管是自由地）在他看来最好的事。但基于这类法令的每一个真理都是偶然的，即使它是确定的；因为这些法令不改变事物的可能性。而且，如我已说过的：尽管上帝总是选择最好的这一点是确定的，这并不妨碍某件较不完善的东西在自身中是并保持是可能的——尽管它不会发生。因为它被拒斥，不是由于其不可能性，而是由于其不完善性。凡其反面可能者，皆非必然。（A VI iv 1548/AG 46）
+  - id: 41
+    kind: body
+    source: |-
+      The crucial idea here is that a proposition is contingently true in this world when it is somehow dependent upon the first free decree of God, that is, when the *reason* for the truth of the proposition is to be located in the actualization of *this* particular world. There is another world, *W**, existing in the infinite library of world-books, which is such that *if* God had brought *that* world, *W**, into existence P would be false. In other words, a proposition is contingently true when it is true in that world and false in some other world. As mentioned above, however, Leibniz defines a possible proposition in another text from this period as a proposition which will never result in a contradiction in its analysis, and given his account of worlds, this simply means that the proposition is true in some world. Further, since necessary truths are *not* dependent upon the first free decree of God but are instead revealed by analysis to be identities, they are in fact propositions that are true in *all* possible worlds. And so, while our basic modal concepts are explained in terms of the *in-esse* doctrine of truth (i.e. the Predicate-in-Notion Principle) and the notion of infinite analysis (in the case of contingency), it is a not a great jump to possible-worlds semantics.
+    step1: |-
+      这里的关键观念是：一个命题在这个世界中偶然为真，当它在某种意义上依赖于上帝的首要自由法令，也就是说，当这个命题之真理的*理由*要定位于*这个*特定世界的现实化之中。还有另一个世界 *W**，存在于世界之书的无限图书馆中，具有这样的性质：*如果*上帝使的是*那个*世界 *W*₂，P 就会为假。换言之，一个命题偶然为真，当它在这个世界中为真而在另一个世界中为假。不过，如上所述，莱布尼茨在这一时期的另一个文本中把可能的命题定义为其分析中永不会产生矛盾的命题；而鉴于他对世界的说明，这恰恰意味着：该命题在某个世界中为真。此外，既然必然真理*不*依赖上帝的首要自由法令，而是经由分析显示为同一式，它们实际上是*一切*可能世界中都为真的命题。因此，虽然我们的基本模态概念是借真理的*在其中*学说（即谓词在概念之中原则）与无穷分析的观念（就偶然性而言）来解释的，但到可能世界语义学并非一大步。
+    step2: |-
+      这里的关键观念是：一个命题在这个世界中偶然为真，当它在某种意义上依赖上帝的首要自由法令——也就是说，当这个命题之真理的*理由*定位于*这个*特定世界的现实化之中。还有另一个世界 *W**，存在于世界之书的无限图书馆中，具有这样的性质：*倘若*上帝使的是*那个*世界 *W**，P 就会为假。换言之，一个命题偶然为真，当它在此世为真而在某彼世为假。不过，如上所述，莱布尼茨在这一时期的另一个文本中把可能的命题定义为：其分析中永不会产生矛盾的命题；而鉴于他对世界的说明，这恰恰意味着：该命题在某个世界中为真。此外，既然必然真理*不*依赖上帝的首要自由法令，而是经分析显示为同一式，它们实际上是*一切*可能世界中都为真的命题。因此，虽然我们的基本模态概念是借真理的*在其中*学说（即谓词在概念之中原则）与无穷分析的观念（就偶然性而言）来解释的，但由此到可能世界语义学并非一大步。
+  - id: 42
+    kind: body
+    source: |-
+      It should probably not be surprising that Leibniz's explication of the nature of the distinction between necessary and contingent truths can be translated into the terms of contemporary possible-worlds semantics. For Leibniz tells us in *On Freedom* (*De libertate...* 1689?) that he *first* came to think of the nature of *possibilia* in terms of fictional worlds, worlds that have existence in a somewhat tenuous sense. “But the consideration of possibles, which are not, were not, and will not be, brought me back from this precipice [Spinoza's necessitarianism]. For if there are certain possibles that never exist, then the things that exist, at any rate, are not always necessary, for otherwise it would be impossible for others to exist in their place, and thus, everything that never exists would be impossible.” (A VI iv 1653–54/AG 94) It was only later that he began to conceive of the distinction between necessary and contingent truths in terms of finite and infinite analysis. In the end, then, we can say that the doctrine of infinite analysis is dependent upon the doctrine of the infinity of possible worlds.
+    step1: |-
+      莱布尼茨对必然真理与偶然真理之区分的本性所作的阐明能够翻译成当代可能世界语义学的术语，这或许不值得惊讶。因为莱布尼茨在《论自由》（*De libertate...*，1689?）中告诉我们，他*首先*是借虚构世界——那种在某种脆弱意义上具有存在的世界——来思考*可能者*之本性的。“但对那些不在、过去不在、将来也不在的可能者的考虑，把我从这个悬崖[斯宾诺莎的必然主义]边上拉了回来。因为如果有一些可能者永不存在，那么无论如何，存在的东西并不总是必然的；否则其他东西就不可能取代它们而存在，于是一切永不存在的东西都会是不可能的。”（A VI iv 1653–54/AG 94）只是到了后来，他才开始以有限分析与无限分析来设想必然真理与偶然真理的区分。归根结底，我们可以说：无穷分析学说依赖于可能世界无限学说。
+    step2: |-
+      莱布尼茨对必然与偶然真理之区分的本性所作的阐明，能够翻译成当代可能世界语义学的术语——这或许不值得惊讶。因为莱布尼茨在《论自由》（*De libertate...*，1689?）中告诉我们：他*首先*是借虚构世界——那种在某种脆弱意义上具有存在的世界——来思考*可能者*之本性的。“但对那些不在、过去不在、将来也不在的可能者的考虑，把我从这个悬崖[斯宾诺莎的必然主义]边上拉了回来。因为如果有一些可能者永不存在，那么无论如何，存在的东西并不总是必然的；否则其他东西就不可能取代它们而存在，于是一切永不存在的东西都会是不可能的。”（A VI iv 1653–54/AG 94）只是到了后来，他才开始以有限分析与无限分析设想必然真理与偶然真理之别。归根结底，我们可以说：无穷分析学说依赖于可能世界无限学说。
+  - id: 43
+    kind: body
+    source: |-
+      ## 3. Leibnizian Essentialism
+    step1: |-
+      ## 3 莱布尼茨式的本质主义
+    step2: |-
+      ## 3 莱布尼茨式的本质主义
+  - id: 44
+    kind: body
+    source: |-
+      Leibniz's logical conception of the nature of substance, according to which each individual substance has a concept so complete that it contains all predicates true of it past, present, and future (or from which all its predicates are deducible), also seems to push him to endorse a strong version of *essentialism*. Just how strong this essentialism is has been the subject of debate among scholars of Leibniz's thought.
+    step1: |-
+      莱布尼茨关于实体本性的逻辑构想——每个个体实体都有一个如此完全的概念，包含凡过去、现在与未来对之为真的全部谓词（或从中可推出其全部谓词）——似乎也促使他赞成一种强的*本质主义*。这种本质主义究竟有多强，一直是莱布尼茨思想研究者们争论的主题。
+    step2: |-
+      莱布尼茨关于实体本性的逻辑构想——每个个体实体都有一个如此完全的概念，包含凡过去、现在与未来对之为真的全部谓词（或从中可推出其全部谓词）——似乎也促使他赞成一种强版本的*本质主义*。这种本质主义究竟有多强，历来是莱布尼茨思想研究者争论的主题。
+  - id: 45
+    kind: body
+    source: |-
+      Call *essentialism* the doctrine that for any individual substance, *x*, there is a property *P* of *x* such that, necessarily, if *x* exists, then *x* has *P*. In other words, there is *some* property that is essential to *x*. For example, one could argue that humanity is essential to Caesar; and if Caesar (somehow) were to lose the property of *being a human being*, Caesar would cease to be Caesar.
+    step1: |-
+      让我们把*本质主义*称为这样一种学说：对任何一个体实体 *x*，存在 *x* 的一个属性 *P*，使得必然地，如果 *x* 存在，那么 *x* 具有 *P*。换言之，存在*某个*对 *x* 而言本质的属性。例如，人们可以论证：人性对恺撒是本质的；如果恺撒（不知怎么）失去了*是一个人*的属性，恺撒就不再是恺撒。
+    step2: |-
+      让我们把*本质主义*称为这样一种学说：对任何一个体实体 *x*，存在 *x* 的一个属性 *P*，使得必然地，若 *x* 存在，则 *x* 具有 *P*。换言之，存在*某个*对 *x* 而言本质的属性。例如，人们可以论证：人性对恺撒是本质的；若恺撒（不知怎么）失去了*是一个人*的属性，恺撒就不再是恺撒。
+  - id: 46
+    kind: body
+    source: |-
+      Call *superessentialism* the doctrine that for any individual substance, *x*, and for any property *P* of *x*, necessarily, if *x* exists, then *x* has P. In other words, *every* property is essential to *x*. For example, one might imagine that *crosser of the Rubicon* or *possessor of 12,147 hairs on his head on the Ides of March, 44 B.C.E.* were properties that, were they different, the Caesar of our world would no longer exist. (For the sake of argument, assume that the head-hair count is true; it is only supposed to get at some seemingly trivial property.) Or, put differently, if those properties were different, the Caesars would be genuinely different individual substances.
+    step1: |-
+      让我们把*超本质主义*称为这样一种学说：对任何一个体实体 *x* 及其任何属性 *P*，必然地，如果 *x* 存在，那么 *x* 具有 P。换言之，*每一个*属性对 *x* 都是本质的。例如，人们可以设想：*卢比孔河的渡河者*或*公元前 44 年三月望日头上 12,147 根头发的拥有者*是这样一些属性——若它们不同，我们这个世界的恺撒就不会存在。（为论证起见，假定这个头发计数是真的；它只是用来指向某个看似琐碎的属性。）或者换个说法：如果那些属性不同，那些恺撒就会是真正不同的个体实体。
+    step2: |-
+      让我们把*超本质主义*称为这样一种学说：对任何一个体实体 *x* 及其任何属性 *P*，必然地，若 *x* 存在，则 *x* 具有 P。换言之，*每一个*属性对 *x* 都是本质的。例如，人们可以设想：*卢比孔河的渡河者*或*公元前 44 年三月望日头上 12,147 根头发的拥有者*是这样一些属性——若它们不同，我们这个世界的恺撒便不会存在。（为论证起见，假定这个头发计数为真；它只是用来指向某个看似琐碎的属性。）或者换个说法：若那些属性不同，那些恺撒就会是真正不同的个体实体。
+  - id: 47
+    kind: body
+    source: |-
+      Now, it certainly seems that Leibniz's view is that, indeed, *every* property of an individual substance is essential to it.
+    step1: |-
+      现在，看来确实显然：莱布尼茨的观点是，个体实体的*每一个*属性对它都是本质的。
+    step2: |-
+      现在，看来确实显然：莱布尼茨的观点是——个体实体的*每一个*属性，对它都是本质的。
+  - id: 48
+    kind: body
+    source: |-
+      This very point is something that Antoine Arnauld noticed immediately upon reading the *Discourse on Metaphysics*. (More exactly, Arnauld read only what are now usually presented as brief synopses of the individual sections.) As he wrote to Leibniz, “Since it is impossible that I should not always have remained *myself*, whether I had married or lived in celibacy, the individual concept of *myself* contained neither of these two states; just as it is well to infer: this block of marble is the same whether it be at rest or be moved; therefore neither rest nor motion is contained in its individual concept.” (G II 30) Arnauld's point is quite simply that the property of *being celibate* is *not* essential to him or to his concept because he would still be Arnauld even if he had married and had children.
+    step1: |-
+      正是这一点，安托万·阿尔诺在读到《形而上学谈话》时立即注意到了。（更确切地说，阿尔诺读到的只是如今通常呈现为各节简要概要的东西。）他写信给莱布尼茨说：“既然我不可能不始终是*我自己*，无论我结婚还是独身，*我自己*的个体概念就既不包含这两个状态中的这一个，也不包含那一个；正如可以恰当地推出：这块大理石无论静止还是被移动都是同一块；因此静止与运动都不包含在它的个体概念之中。”（G II 30）阿尔诺的要点很简单：*独身*这一属性对他或他的概念*并非*本质的，因为即使他结了婚、有了孩子，他仍然是阿尔诺。
+    step2: |-
+      正是这一点，安托万·阿尔诺一读《形而上学谈话》便立即注意到了。（更确切地说，阿尔诺读到的只是如今通常呈现为各节简要概要的东西。）他写信给莱布尼茨说：“既然我不可能不始终是*我自己*——无论我结婚还是独身——*我自己*的个体概念就既不包含这两个状态中的这一个，也不包含那一个；正如可以恰当地推出：这块大理石无论静止还是被移动都是同一块；因此静止与运动都不包含在它的个体概念之中。”（G II 30）阿尔诺的要点很简单：*独身*这一属性对他或他的概念*并非*本质——因为即使他结了婚、有了孩子，他仍然是阿尔诺。
+  - id: 49
+    kind: body
+    source: |-
+      Leibniz's response takes us into some fascinating metaphysical territory. Returning to his original example of Adam and his sins, Leibniz writes the following:
+    step1: |-
+      莱布尼茨的回应把我们带入一片引人入胜的形而上学地带。回到他最初的亚当及其罪的例子，莱布尼茨写道：
+    step2: |-
+      莱布尼茨的回应把我们带入一片引人入胜的形而上学地带。回到他最初的亚当及其罪之例，莱布尼茨写道：
+  - id: 50
+    kind: body
+    source: |-
+      > I have said that all human events can be deduced not simply by assuming the creation of a vague Adam, but by assuming the creation of an Adam determined with respect to all these circumstances, chosen from among an infinity of possible Adams. This has given Arnauld the occasion to object, not without reason, that it is as difficult to conceive of several Adams, taking Adam as a particular nature, as it is to conceive of several mes. I agree, but when speaking of several Adams, I was not taking Adam as a determinate individual. I must therefore explain myself. This is what I meant. When one considers in Adam a part of his predicates, for example, that he is the first man, set in a garden of pleasure, from whose side God fashioned a woman, and similar things conceived *sub ratione generalitatis*, in a general way (that is to say, without naming Eve, Paradise, and other circumstances that fix individuality), and when one calls Adam the person to whom these predicates are attributed, all this is not sufficient to determine the individual, for there can be an infinity of Adams, that is, an infinity of possible persons, different from one another, whom this fits. Far from disagreeing with what Arnauld says against this multiplicity of the same individual, I myself used this to make it better understood that the nature of an individual must be complete and determinate. I am even quite convinced of what Saint Thomas had already taught about intelligences, which I hold to apply generally, namely, that it is not possible for there to be two individuals entirely alike, or differing only numerically. Therefore, we must not conceive of a vague Adam, that is, a person to whom certain attributes of Adam belong, when we are concerned with determining whether all human events follow from his assumption; rather, we must attribute to him a notion so complete that everything that can be attributed to him can be deduced from it. Now, there is no room for doubting that God can form such a notion of him, or rather that he finds it already formed in the realm of possibles, that is, in his understanding.
+      >
+      > It, therefore, also follows that he would not have been our Adam, but another Adam, had other events happened to him, for nothing prevents us from saying that he would be another. Therefore, he is another. (G II 41–42/AG 72–73)
+    step1: |-
+      > 我说过，一切人类事件都可以被推出，不仅是通过假定一个含糊的亚当被创造，而且是通过假定一个在所有这些方面都被确定的亚当被创造——他从无限多的可能亚当中被选出。这给了阿尔诺一个机会提出反对（不无道理）：把亚当当作一个特定本性，设想几个亚当，就像设想几个我一样困难。我同意；但当我说到几个亚当的时候，我并没有把亚当当作一个确定的个体。因此我必须解释自己。这就是我的意思。当人们在亚当身上考虑其谓词的一部分，例如他是第一个人，被安置在一个乐园里，上帝从他的一侧塑造了一个女人，以及类似的、以*一般之理*（*sub ratione generalitatis*）设想的、一般而言的东西（也就是说，不点出夏娃、乐园与其他确定个体性的情形），并且当人们把亚当称为这些谓词所归属的那个人时，这一切都不足以确定这个个体；因为可以有无限多的亚当，即无限多的可能的人，彼此不同，而这一切都适合于他们。我完全不反对阿尔诺所说的话——针对同一个个体的这种多重性；我自己恰恰利用这一点来使人更好地理解：个体的本性必须是完全的、确定的。我甚至相当确信圣托马斯关于理智已有的教导，我认为它普遍适用：不可能有两个完全相像的个体，或只在数目上有别的个体。因此，当我们关注是否一切人类事件都随其假定而来时，我们绝不可设想一个含糊的亚当——即一个分有亚当某些属性的人；毋宁说，我们必须归于他一个如此完全的概念，以致凡可归于他的一切都可以从中推出。现在，毫无疑问，上帝能够形成关于他的这样一个概念，或者说，他在可能者的领域中——即在他的理智中——发现它已经形成了。
+      >
+      > 因此，还可以推出：如果其他事件发生在他身上，他就不会是我们的亚当，而是另一个亚当；因为我们说他会是另一个，没有任何东西妨碍这一点。因此，他就是另一个。（G II 41–42/AG 72–73）
+    step2: |-
+      > 我说过：一切人类事件都可以被推出——不仅是通过假定一个含糊的亚当被创造，而且是通过假定一个在所有这些方面都被确定的亚当被创造；他从无限多的可能亚当中被选出。这给了阿尔诺一个机会提出反对（不无道理）：把亚当当作一个特定本性，设想几个亚当，就像设想几个我一样困难。我同意；但当我说到几个亚当的时候，我并没有把亚当当作一个确定的个体。因此我必须解释自己。这就是我的意思。当人们在亚当身上考虑其谓词的一部分——例如他是第一个人，被安置在一个乐园里，上帝从他的一侧塑造了一个女人，以及类似的、以*一般之理*（*sub ratione generalitatis*）设想的一般而言的东西（也就是说，不点出夏娃、乐园与其他确定个体性的情形）——并且当人们把亚当称为这些谓词所归属的那个人时，这一切都不足以确定这个个体；因为可以有无限多的亚当，即无限多的可能的人：彼此不同，而这一切都适合于他们。我非但不反对阿尔诺针对同一个个体之这种多重性所说的话，反而正是利用这一点，使人更好地理解：个体的本性必须是完全的、确定的。我甚至相当确信圣托马斯关于理智已有的教导——我认为它普遍适用：不可能有两个完全相像的个体，或只在数目上有别的个体。因此，当我们关注是否一切人类事件都随其假定而来时，绝不可设想一个含糊的亚当——即一个分有亚当某些属性的人；毋宁说，必须归于他一个如此完全的概念，以致凡可归于他的一切都可从中推出。现在，毫无疑问，上帝能够形成关于他的这样一个概念——或者说，他在可能者的领域中（即在他的理智中）发现它已经形成。
+      >
+      > 因此还可以推出：如果其他事件发生在他身上，他就不会是我们的亚当，而是另一个亚当；因为我们说他会是另一个，没有任何东西妨碍这一点。因此，他就是另一个。（G II 41–42/AG 72–73）
+  - id: 51
+    kind: body
+    source: |-
+      Leibniz's point is that, since the Adam of the actual world (call him “Adam_{@}”) has a complete concept containing all of his properties and since Adam_{@} (or any substance) expresses the entire world of which he is a member, Adam_{@} could not exist in a different world. Moreover, if *any* of Adam_{@}'s properties were somehow changed, then the resulting being would not be Adam_{@}. This is indeed an important consequence of his Principle of the Identity of Indiscernibles. When we speak of the Adam who brought sin into the world and an Adam who did not, we cannot, strictly speaking, be referring to the same individual. And that failure of identical reference is the key to seeing that all of Adam's properties are essential to him. Leibniz makes this point about as clearly as he makes any point in §30 of the *Discourse on Metaphysics* in his discussion of Judas' sin: “But someone else will say, why is it that this man will assuredly commit this sin? The reply is easy: otherwise he would not be this man.” (A VI iv 1576/AG 61) In other words, Leibniz seems to deny the possibility of “transworld-individuals” and asserts instead that every individual is “world-bound.” Nevertheless, Leibniz argues that there are “vague Adams,” that is, quasi-individuals which exist in more than one world. And when we imagine other possible worlds in which “Adam” does not sin or eats the forbidden donut, we are imagining only an incomplete or vague “Adam” who is the individual in that world – not the *same* individual. That is, the “vague Adams” are only quasi-individuals because their individual concepts are not complete. Indeed, when Leibniz speaks of the “vague Adams,” what he has in mind is some set properties that is common to a number of individuals: Adam_{@}, Adam_{*w*′} (i.e. Adam in world′), Adam_{*w*″}, Adam_{*w*′′′}, and so on. In the terminology of David Lewis's modal theory, they are the “counterparts” of Adam in other possible worlds. Strictly speaking, however, only individuals with complete individual concepts are denizens of other possible worlds; quasi-individuals per se cannot be said to exist. But an incomplete concept can be used to delimit a set of counterparts that do exist with complete individual concepts in different possible worlds. And lest it be thought that talk of the idea of a “vague Adam” is limited to his discussion in the 1680s with Arnauld about modal matters, it should be noted that Leibniz makes much the same point 20 years later in the concluding sections of the *Theodicy* discussed and quoted above when he writes of the “several Sextuses” that are to be found in the palace containing the books of fates. All of this speaks very strongly for attributing the doctrine of superessentialism to Leibniz throughout his life as well as the denial of the doctrine of transworld identity.
+    step1: |-
+      莱布尼茨的要点是：既然现实世界的亚当（称他为“Adam@”）有一个包含其全部属性的完全概念，既然 Adam@（或任何实体）表现他所属于的整个世界，Adam@ 就不可能存在于一个不同的世界。此外，如果 Adam@ 的*任何*属性不知怎么被改变了，所得的存在者就不会是 Adam@。这确实是他的不可分辨者同一性原则的一个重要后果。当我们说到把罪带入世界的亚当与没有把罪带入世界的亚当，严格说来我们不能指称同一个个体。而指称同一性的这种失效，正是看到亚当的全部属性对他是本质的关键。莱布尼茨在《形而上学谈话》第 30 节讨论犹大之罪时把这个要点讲得如同他讲任何要点一样清楚：“但有人会说，为什么这个人必定犯这个罪？回答很容易：否则他就不会是这个人。”（A VI iv 1576/AG 61）换言之，莱布尼茨似乎否认“跨世界个体”的可能性，转而主张每个个体都是“受世界约束的”。然而，莱布尼茨论证说存在“含糊的亚当”，即存在于不止一个世界中的准个体。当我们想象“亚当”没有犯罪或吃了禁忌甜甜圈的其他可能世界时，我们想象的只是那个世界中的一个不完全的或含糊的“亚当”——不是*同一个*个体。也就是说，“含糊的亚当”只是准个体，因为它们的个体概念不完全。确实，当莱布尼茨说到“含糊的亚当”时，他心里想的是为若干个体所共有的某组属性：Adam@、Adam*w*′（即世界′中的亚当）、Adam*w*″、Adam*w*′′′，等等。用大卫·刘易斯模态理论的术语说，它们是亚当在其他可能世界中的“对应体”。不过严格说来，唯有拥有完整个体概念的个体才是其他可能世界的居民；准个体本身不能说存在。但不完全的概念可以用来圈定一组对应体——它们确实存在于不同的可能世界，拥有完整个体概念。而为了免得人们以为“含糊的亚当”的观念仅限于他十七世纪八十年代与阿尔诺关于模态问题的讨论，应当指出：约二十年后，莱布尼茨在上面讨论并引用过的《神义论》的结论部分——他写到命运之书之宫中的“几个塞克斯图斯”——提出了几乎相同的要点。所有这一切，都强烈支持把超本质主义学说归于莱布尼茨的一生，也支持否认跨世界同一性的学说。
+    step2: |-
+      莱布尼茨的要点是：既然现实世界的亚当（称他为“Adam@”）有一个包含其全部属性的完全概念，既然 Adam@（或任何实体）表现其所属于的整个世界，Adam@ 就不可能存在于一个不同的世界。此外，若 Adam@ 的*任何*属性不知怎么被改变了，所得的存在者就不会是 Adam@。这确实是其不可分辨者同一性原则的一个重要后果。当我们说到把罪带入世界的亚当与没有把罪带入世界的亚当，严格说来，我们不能指称同一个个体。而指称同一性的这种失效，正是看到亚当全部属性皆为其本质的关键。莱布尼茨在《形而上学谈话》第 30 节讨论犹大之罪时，把这个要点讲得如他讲任何要点一样清楚：“但有人会说，为什么这个人必定犯这个罪？回答很容易：否则他就不会是这个人。”（A VI iv 1576/AG 61）换言之，莱布尼茨似乎否认“跨世界个体”的可能性，转而主张：每个个体都是“受世界约束的”。然而，莱布尼茨论证说存在“含糊的亚当”——即存在于不止一个世界中的准个体。当我们想象“亚当”没有犯罪、或吃了禁忌甜甜圈的其他可能世界时，我们想象的只是那个世界中的一个不完全的、含糊的“亚当”——不是*同一个*个体。也就是说，“含糊的亚当”只是准个体：其个体概念不完全。确实，当莱布尼茨说到“含糊的亚当”时，他心里想的是为若干个体所共有的某组属性：Adam@、Adam*w*′（即世界′中的亚当）、Adam*w*″、Adam*w*′′′，等等。用大卫·刘易斯模态理论的术语说，它们是亚当在其他可能世界中的“对应体”。不过严格说来，唯有拥有完整个体概念的个体，才是其他可能世界的居民；准个体本身不能说存在。但不完全的概念可以用来圈定一组对应体——它们确实存在于不同的可能世界，拥有完整个体概念。而为了免得人们以为“含糊的亚当”观念仅限于他十七世纪八十年代与阿尔诺的模态讨论，应当指出：约二十年后，莱布尼茨在上面讨论并引用过的《神义论》结论部分——他写到命运之书之宫中的“几个塞克斯图斯”——提出了几乎相同的要点。凡此种种，都强烈支持把超本质主义归于莱布尼茨的一生，也支持否认跨世界同一性的学说。
+  - id: 52
+    kind: body
+    source: |-
+      But if we attribute the doctrine of superessentialism to Leibniz, then it would seem that there will be a difficulty in distinguishing those properties that traditionally were thought to be essential to an individual and those that were thought to be mere accidents. In other words, if all properties are essential, on Leibniz's view, is there any difference between his *humanity* and his *wearing a fluffy silk shirt on 1 January 1700*? Not surprisingly, Leibniz has a solution to this apparent problem. In an important work on logic from the period of the *Discourse on Metaphysics* and Correspondence with Arnauld, the *General Inquiries about the Analysis of Concepts and of Truths* (*Generales Inquisitiones de Analysi Notionum et Veritatum*, 1686), Leibniz makes the standard, Aristotelian distinction between essential properties and accidents, saying “that thing which is called ‘a man’ cannot cease to be a man except by annihilation; but someone can begin or cease to be a king, or learned, though he himself remains the same.” (A VI iv 740/LLP 47) The important point here is the *species* to which an individual belongs contributes one level of properties to an individual; but, of course, these are properties that are held in common by all members of that particular species. Therefore, for example, Adam is not only a man, but necessarily also rational and, to use the Aristotelian chestnut, a featherless biped. Following Mondadori (1993), let us call *being a human being* a *specific essential* property. But there may also be *individuating essential* properties, those which single *x* out from the other members of the same species and which are nevertheless such that, lacking them, *x* would no longer be *x*. For example, consider several counterpart Adams: one who brought no sin into the world, one who did so by eating the forbidden donut, etc. As we have said, they *cannot* be identical to Adam_{@}, which is another way of saying that Adam_{@} would cease to be Adam_{@} if he no longer brought sin into the world by eating the forbidden fruit. But now consider a Plantinga-inspired example: the alligator who brought sin into the world. Could the alligator count as a counterpart of Adam_{@}? No, for lacking the property of humanity, there are simply no counterparts of Adam_{@}. In support of this view, consider *On Freedom, Fate and the Grace of God* (*De libertate, fato, gratia Dei*, 1686/87), where Leibniz first has a critic of his view say that, “God … has in his intellect a notion or an idea of Peter as perfect as possible containing all truths concerning Peter, the objective reality of which constitutes the complete nature or essence of Peter, and accordingly, to deny is essential to Peter and is foreknown by God.” Leibniz's response employs the distinction between necessary and contingent properties:
+    step1: |-
+      但如果我们把超本质主义学说归于莱布尼茨，那么似乎会有一个困难：如何区分传统上被认为对个体本质的那些属性与被认为只是偶性的那些属性。换言之，照莱布尼茨的看法，如果一切属性都是本质的，那么他的*人性*与他在 1700 年 1 月 1 日*穿着一件毛茸茸的丝衬衫*之间有任何区别吗？不出所料，莱布尼茨对这个表面问题有一个解法。在《形而上学谈话》与致阿尔诺通信时期的一部重要逻辑著作——《关于概念与真理分析的一般探究》（*Generales Inquisitiones de Analysi Notionum et Veritatum*，1686）——中，莱布尼茨作出标准的亚里士多德式的本质属性与偶性之分，说“那个被称为‘人’的东西，除非被消灭，不能不再是人；但一个人可以开始或停止做国王，或成为有学问的人，而他自己保持不变”。（A VI iv 740/LLP 47）这里的要点是：个体所属于的*种*为个体贡献一个层级的属性；当然，这些属性是那个特定种的一切成员所共有的。因此，例如，亚当不仅是人，还必然是理性的，并且——借用亚里士多德的老生常谈——是无羽毛的两足动物。循 Mondadori（1993），让我们把*是一个人*称为一个*种本质*属性。但也可能有*个体化本质*属性：那些把 *x* 从同种其他成员中单挑出来的属性，然而它们是这样的：缺乏它们，*x* 就不再是 *x*。例如，考虑几个对应体的亚当：一个没有把罪带入世界，一个通过吃禁忌甜甜圈把罪带入世界，等等。如我们所说，它们*不可能*与 Adam@ 同一；换个说法：如果亚当不再通过吃禁果把罪带入世界，Adam@ 就不再是 Adam@。但现在考虑一个受普兰丁格启发的例子：把罪带入世界的那只短吻鳄。这只短吻鳄能算作 Adam@ 的对应体吗？不能——因为缺乏人性，根本没有 Adam@ 的对应体。为支持这一观点，看《论自由、命运与上帝的恩典》（*De libertate, fato, gratia Dei*，1686/87）：莱布尼茨先让一位其观点的批评者说，“上帝……在他的理智中有关于彼得的尽可能完善的一个观念，包含关于彼得的一切真理，其客观实在构成彼得的完全本性或本质；因此，否认对彼得是本质的，并且被上帝预先知道。”莱布尼茨的回应动用了必然属性与偶然属性之分：
+    step2: |-
+      但如果我们把超本质主义归于莱布尼茨，那么似乎会有一个困难：如何区分传统上被认为对个体本质的属性与被认为只是偶性的属性。换言之，照莱布尼茨的看法，若一切属性都是本质的，那么他的*人性*与他在 1700 年 1 月 1 日*穿一件毛茸茸的丝衬衫*之间有任何区别吗？不出所料，莱布尼茨对这个表面问题有一个解法。在《形而上学谈话》与致阿尔诺通信时期的一部重要逻辑著作——《关于概念与真理分析的一般探究》（*Generales Inquisitiones de Analysi Notionum et Veritatum*，1686）——中，莱布尼茨作出标准的亚里士多德式本质属性与偶性之分：说“那个被称为‘人’的东西，除非被消灭，不能不再是人；但一个人可以开始或停止做国王，或成为有学问的人，而他自己保持不变”。（A VI iv 740/LLP 47）这里的要点是：个体所属于的*种*，为个体贡献一个层级的属性；当然，这些属性是那个特定种的一切成员所共有的。因此，例如，亚当不仅是人，还必然是理性的，并且——借用亚里士多德的老生常谈——是无羽毛的两足动物。循 Mondadori（1993），让我们把*是一个人*称为一个*种本质*属性。但也可能有*个体化本质*属性：那些把 *x* 从同种其他成员中单挑出来的属性，然而缺乏它们，*x* 就不再是 *x*。例如，考虑几个对应体的亚当：一个没有把罪带入世界，一个通过吃禁忌甜甜圈把罪带入世界，等等。如我们所言，它们*不可能*与 Adam@ 同一；换个说法：若亚当不再通过吃禁果把罪带入世界，Adam@ 就不再是 Adam@。但现在考虑一个受普兰丁格启发的例子：把罪带入世界的那只短吻鳄。这只短吻鳄能算作 Adam@ 的对应体吗？不能——因为缺乏人性，根本没有 Adam@ 的对应体。为支持这一观点，看《论自由、命运与上帝的恩典》（*De libertate, fato, gratia Dei*，1686/87）：莱布尼茨先让一位其观点的批评者说，“上帝……在他的理智中有关于彼得的尽可能完善的一个观念，包含关于彼得的一切真理，其客观实在构成彼得的完全本性或本质；因此，否认对彼得是本质的，并且被上帝预先知道。”莱布尼茨的回应，动用了必然属性与偶然属性之分：
+  - id: 53
+    kind: body
+    source: |-
+      > there is contained in this complete notion of a possible Peter, which I concede is observed by God, not only the essential or the necessary, namely, that which flows from incomplete or specific notions, and which are demonstrated from terms so that the contrary implies a contradiction, but also the existential or contingent so to speak are contained therein, because it is of the nature of an individual substance that its nature be perfect and complete. (A VI iv 1600)
+    step1: |-
+      > 在这个可能彼得的完全概念中——我承认它被上帝观察到——不仅包含本质的或必然的东西，即从不含糊的或种的观念中流出的东西，以及从词项得到证明以致其反面蕴涵矛盾的东西；可以说，实存的或偶然的东西也包含在其中，因为个体实体的本性就在于其本性是完全的、完全的。（A VI iv 1600）
+    step2: |-
+      > 在这个可能彼得的完全概念中——我承认它被上帝观察到——不仅包含本质的或必然的东西（即从不含糊的或种的观念中流出的东西，以及从词项得到证明以致其反面蕴涵矛盾的东西），可以说，实存的或偶然的东西也包含其中：因为个体实体的本性，就在于其本性是完全的。（A VI iv 1600）
+  - id: 54
+    kind: body
+    source: |-
+      While the first passage seems to be Leibniz's position, he actually finesses this view in the second passage. Those properties that are said to be necessary or essential are actually what were called above the *specific essential* properties. Thus, Peter's specific essential properties include being a human being and what follows from that, for example, being rational. The crucial feature of these properties is that their absence means that the individual would be annihilated entirely; for example, if humanity were somehow stripped from Peter's complete individual concept, Peter would cease to exist *completely*. Those properties that are said to be contingent or existential are all the myriad properties that individuate Peter and that make Peter the particular person that he is. As Leibniz says, they are what fill out Peter's complete individual concept. Now, these properties can still be considered *essential* in the sense relevant to Leibniz's superessentialism, but in the following way (similar to what was said above about Adam_{@}): if such a property, for example, *denying Christ*, were stripped from Peter's complete individual concept, Peter would cease to be Peter. In other words, imagine Peter's notion, containing, among other things, *humanity*, *being a disciple of Christ*, *being the founder of the church*, and *being a denier of Christ*. Leibniz's point seems to be that we *could* peer into a nearby possible world where a Peter-counterpart did not deny Christ. But there is no nearby possible world in which a Peter was the alligator or marmoset that denied Christ.
+    step1: |-
+      虽然第一段话似乎是莱布尼茨的立场，他在第二段话中实际上对这一观点作了细微处理。那些被称为必然的或本质的属性，实际上就是上文所谓的*种本质*属性。因此，彼得的种本质属性包括是一个人以及随之而来的东西，例如是理性的。这些属性的关键特征是：它们的缺乏意味着个体将被完全消灭；例如，如果人性不知怎么被从彼得的完整个体概念中剥除，彼得就会*完全*停止存在。那些被称为偶然的或实存的属性，是使彼得个体化、使彼得成为他这个特定的人的一切属性。如莱布尼茨所说，它们是填满彼得完整个体概念的东西。现在，这些属性仍然可以在与莱布尼茨超本质主义相关的意义上被看作*本质的*，但按如下方式（类似于上文关于 Adam@ 所说的）：如果这样一个属性——例如*否认基督*——被从彼得的完整个体概念中剥除，彼得就会不再是彼得。换言之，设想彼得的观念，其中除其他东西外还包含*人性*、*是基督的门徒*、*是教会的奠基者*与*是否认基督者*。莱布尼茨的要点似乎是：我们*可以*窥看一个邻近的可能世界，那里有一个没有否认基督的彼得对应体。但没有任何邻近的可能世界，其中有一个否认基督的彼得是短吻鳄或狨猴。
+    step2: |-
+      虽然第一段话似乎是莱布尼茨的立场，他在第二段话中实际上对这一观点作了细腻的处理。那些被称为必然的或本质的属性，实际上就是上文所谓的*种本质*属性。因此，彼得的种本质属性包括是一个人以及随之而来的东西——例如是理性的。这些属性的关键特征是：它们的缺乏意味着个体将被完全消灭。例如，若人性不知怎么被从彼得的完整个体概念中剥除，彼得就会*完全*停止存在。那些被称为偶然的或实存的属性，则是使彼得个体化、使彼得成为他这个特定人的一切属性。如莱布尼茨所说，它们是填满彼得完整个体概念的东西。现在，这些属性仍可以在与莱布尼茨超本质主义相关的意义上被看作*本质的*，但按如下方式（类似上文关于 Adam@ 所说）：若这样一个属性——例如*否认基督*——被从彼得的完整个体概念中剥除，彼得就不再是彼得。换言之，设想彼得的观念，其中除其他东西外还包含*人性*、*是基督的门徒*、*是教会的奠基者*与*是否认基督者*。莱布尼茨的要点似乎是：我们*可以*窥看一个邻近的可能世界，那里有一个未否认基督的彼得对应体。但没有任何邻近的可能世界，其中有一个否认基督的彼得是短吻鳄或狨猴。
+  - id: 55
+    kind: body
+    source: |-
+      If, however, this is Leibniz's view, then it might seem that we have a problem: the specific essential properties of an individual are few; the individuating essential properties are many; and the specific essential properties are in fact so few that they do little work. Yet, it should be emphasized that, for Leibniz, there is something very important about drawing a line between human beings and other animals: we are rational, while they are not; we are capable of morality, while they are not. This view comes out most clearly in Leibniz's *New Essays*, where he is trying to undermine Locke's deep anti-essentialism: “as we know the inner essence of man, namely reason, which resides in the individual man and is present in all men, and as we find among us no fixed inner feature which generates a subdivision, we have no grounds for thinking that the truth about their inner natures implies that there is any essential specific difference among men.” (A VI, vi, 325–26/RB 325–26) In other words, there are certain properties within us that necessarily differentiate us from all other species and those that differentiate us from all other individuals within that species. In this regard, Leibniz is a traditionalist, upholding a real, essential distinction between human beings and other creatures. Yet, insofar as he believes that *all* properties of an individual are essential to that individual, Leibniz is radical.
+    step1: |-
+      然而，如果这是莱布尼茨的观点，那么似乎我们就有了一个问题：一个个体的种本质属性很少；个体化本质属性很多；而种本质属性实际上少到起不了什么作用。然而应当强调：对莱布尼茨来说，在人与其他动物之间划一条界线有某种非常重要的东西：我们是理性的，而它们不是；我们能够有道德，而它们不能。这一观点在莱布尼茨的《新论》中表现得最清楚——他在那里试图削弱洛克深刻的反本质主义：“既然我们知道人的内在本质，即寓于个体人之中、为一切人所共有的理性，又既然我们在自身之中找不到会产生再划分的固定的内在特征，我们就没有根据认为：关于人内在本性的真理蕴涵人之间有任何本质的种差。”（A VI, vi, 325–26/RB 325–26）换言之，我们之内有某些属性必然地把我们同所有其他种区分开来，还有把我们同该种内所有其他个体区分开来的属性。在这一方面，莱布尼茨是一个传统主义者：坚持人与其他造物之间实在的、本质的区分。然而，就他相信一个个体的*一切*属性对那个个体都是本质的而言，莱布尼茨又是激进的。
+    step2: |-
+      然而，如果这是莱布尼茨的观点，那么似乎就有了一个问题：一个个体的种本质属性很少，个体化本质属性很多，而种本质属性实际上少到起不了什么作用。然而应当强调：对莱布尼茨而言，在人与其他动物之间划一条界线，有某种非常重要的东西——我们是理性的，而它们不是；我们能够有道德，而它们不能。这一观点在莱布尼茨的《新论》中表现得最清楚：他在那里试图削弱洛克深刻的反本质主义。“既然我们知道人的内在本质，即寓于个体人之中、为一切人所共有的理性，又既然我们在自身之中找不到会产生再划分的固定的内在特征，我们就没有根据认为：关于人内在本性的真理蕴涵人之间有任何本质的种差。”（A VI, vi, 325–26/RB 325–26）换言之，我们之内有某些属性，必然地把我们同一切其他种区分开来；还有把我们同该种内所有其他个体区分开来的属性。在这一方面，莱布尼茨是一个传统主义者：坚持人与其他造物之间实在的、本质的区分。然而，就他相信一个个体的*一切*属性对那个个体都是本质的而言，莱布尼茨又是激进的。
+  - id: 56
+    kind: body
+    source: |-
+      ## 4. Human Freedom: Certainty without Necessity
+    step1: |-
+      ## 4 人的自由：没有必然性的确定性
+    step2: |-
+      ## 4 人的自由：没有必然性的确定性
+  - id: 57
+    kind: body
+    source: |-
+      In *On Contingency*, Leibniz remarks that “there are two labyrinths of the human mind, one concerning the composition of the continuum, and the other concerning the nature of freedom, and they arise from the same source, infinity.” (A VI iv 1654/AG 95) Someone coming upon this passage for the first time might be puzzled by Leibniz's claim. Why, after all, should the labyrinth of the nature of freedom be related to infinity? Given our discussion above concerning contingency and infinite analysis, the answer should be relatively clear.
+    step1: |-
+      在《论偶然性》中，莱布尼茨评论说：“人类心灵有两个迷宫，一个关乎连续体的构成，另一个关乎自由的本性，它们源自同一个源头：无限。”（A VI iv 1654/AG 95）初遇这段话的人也许会为莱布尼茨的主张感到困惑。毕竟，自由本性的迷宫为什么会与无限相关？鉴于我们上文关于偶然性与无穷分析的讨论，答案应当相对清楚。
+    step2: |-
+      在《论偶然性》中，莱布尼茨评论说：“人类心灵有两个迷宫，一个关乎连续体的构成，另一个关乎自由的本性，它们源自同一个源头：无限。”（A VI iv 1654/AG 95）初遇此段的人，也许会为莱布尼茨的主张感到困惑：毕竟，自由本性的迷宫为什么会与无限相关？鉴于上文关于偶然性与无穷分析的讨论，答案应当相对清楚。
+  - id: 58
+    kind: body
+    source: |-
+      Leibniz's account of modality opens the way for him to present a distinctive kind of compatibilist theory of free will. For, according to Leibniz, Caesar's crossing of the Rubicon was a free act insofar as it spontaneously flowed from his own individual nature or was part of his complete concept and insofar as it represented Caesar's choice of what he perceived to be the best option for him at the time. This action was not *necessary* – and therefore *contingent –* because its contrary (for example, staying in Gaul) does not imply a contradiction. In saying that there is no contradiction, Leibniz means that either property or action – crossing the Rubicon or remaining in Gaul – could co-exist within a complete set of properties of *a* Caesar. But as we saw above, there are some properties that, were they changed, the individual would cease to be. Thus, for example, it is a fair bet that Caesar was not free to become a trout. Put differently, we can say that, while Caesar crossed the Rubicon in *this* world and thus began the Roman Civil Wars, there is another possible world in which *a* Caesar did *not* cross the Rubicon. (Again, the “existence” of the other possible world is meant only to imply that there is some set of compossible essences that include the Caesar-counterpart who does not cross the Rubicon.)
+    step1: |-
+      莱布尼茨的模态说明为他呈出一种独特的相容论自由意志理论开辟了道路。因为，照莱布尼茨的说法，恺撒渡卢比孔河是一个自由的行动，就此而言：它自发地流自他自己的个体本性，或者是其完全概念的一部分；并且它代表了恺撒对其时他所认为的于己最佳选项的选择。这个行动*不是必然的*——因此是*偶然的*——因为它的反面（例如留在高卢）不蕴涵矛盾。说不存在矛盾，莱布尼茨的意思是：两种属性或行动——渡卢比孔河或留在高卢——都可以在*一个*恺撒的一组完全属性中共存。但如上文所见，有一些属性，如果它们被改变，个体就会不复存在。因此，例如，可以相当有把握地打赌：恺撒没有变成一条鳟鱼的自由。换个说法：虽然恺撒在*这个*世界渡过卢比孔河并由此开始了罗马内战，但在另一个可能世界中，*一个*恺撒*没有*渡过卢比孔河。（再次，另一个可能世界的“存在”只是要暗示：存在某组可共存的本质，包含不渡卢比孔河的恺撒对应体。）
+    step2: |-
+      莱布尼茨的模态说明，为他呈出一种独特的相容论自由意志理论开辟了道路。因为照莱布尼茨之说，恺撒渡卢比孔河是一个自由的行动，就此而言：它自发地流自其个体本性，或者是其完全概念的一部分；并且它代表了恺撒对其时他所认为的于己最佳选项的选择。这个行动*不是必然的*——因此是*偶然的*——因为它的反面（例如留在高卢）不蕴涵矛盾。说不存在矛盾，莱布尼茨的意思是：两种属性或行动——渡卢比孔河或留在高卢——都可以在*一个*恺撒的完全属性组中共存。但如上文所见，有一些属性，若它们被改变，个体就会不复存在。因此，例如可以相当有把握地打赌：恺撒没有变成一条鳟鱼的自由。换个说法：虽然恺撒在*这个*世界渡过卢比孔河并由此开启罗马内战，但在另一个可能世界中，*一个*恺撒*没有*渡过卢比孔河。（再次，另一个可能世界的“存在”只是要暗示：存在某组可共存的本质，包含不渡卢比孔河的恺撒对应体。）
+  - id: 59
+    kind: body
+    source: |-
+      Leibniz's conception of substance, according to which each individual has a complete individual concept, still seems remarkably necessitarian. After all, even predicates related to my *future* actions are now contained within my complete individual concept. This smacks of determinism and raises in its own way the problem of future contingents. As mentioned above, Leibniz claims that we are free in part precisely because our actions follow from our very natures with complete spontaneity. But also, according to Leibniz, God “inclines our souls without necessitating them.” Indeed, in the *Discourse on Metaphysics*, Leibniz claims that the actions of an individual are *certain* but not necessary. They are, Leibniz argues, *certain ex hypothesi*—that is, they are certain given the creation or instantiation of this particular world. God saw that Caesar would cross the Rubicon, that Judas would betray Christ, that Adam would sin, and so on; each of these acts and an infinity of others were included in each individual's complete concept; and yet God chose this world in which such actions would *certainly* take place. But, at the same time, since the contraries of any such actions do not imply contradictions, they are not necessary. God, in choosing a possible world, chooses all the essences of all the actual individuals, each of which has its program, according to which it acts spontaneously and freely. While it is still a program or a complete concept, on Leibniz's view, that does imply *determination*.
+    step1: |-
+      莱布尼茨的实体构想——每个个体都有一个完整个体概念——看起来仍然引人注目地必然主义。毕竟，甚至与我的*未来*行动相关的谓词现在也包含在我的完整个体概念之中。这带有决定论的意味，并以自己的方式提出未来偶然事物的问题。如上文所述，莱布尼茨主张我们是自由的，部分恰恰因为我们的行动以完全的自发性跟随我们的本性。而且，照莱布尼茨的说法，上帝“倾斜我们的灵魂而不强制它们”。确实，在《形而上学谈话》中，莱布尼茨主张一个个体的行动是*确定的*但不是必然的。莱布尼茨论证说，它们是*依假设确定的*——也就是说，鉴于这个特定世界的创造或实例化，它们是确定的。上帝看到恺撒会渡过卢比孔河，看到犹大会背叛基督，看到亚当会犯罪，等等；这些行动中的每一个以及无限多的其他行动都包含在每一个个体的完全概念之中；然而上帝选择了这个世界，在其中这样的行动将*确定地*发生。但与此同时，既然任何这类行动的反面都不蕴涵矛盾，它们就不是必然的。上帝在选择一个可能世界时，选择一切现实个体的一切本质，其中每一个都有其程序，按照它自发而自由地行动。虽然它仍然是一个程序或完全概念，照莱布尼茨的看法，那确实蕴涵*被决定*。
+    step2: |-
+      莱布尼茨的实体构想——每个个体都有一个完整个体概念——看起来仍然颇为必然主义。毕竟，甚至与我的*未来*行动相关的谓词，如今也包含在我的完整个体概念之中。这带有决定论的意味，并以自己的方式提出未来偶然事物的问题。如上文所述，莱布尼茨主张我们是自由的，部分恰恰因为我们的行动以完全的自发性跟随我们的本性。而且，照莱布尼茨之说，上帝“倾斜我们的灵魂而不强制它们”。确实，在《形而上学谈话》中，莱布尼茨主张：一个个体的行动是*确定的*，但不是必然的。莱布尼茨论证：它们是*依假设确定的*——也就是说，鉴于这个特定世界的创造或实例化，它们是确定的。上帝看到恺撒会渡过卢比孔河，看到犹大会背叛基督，看到亚当会犯罪，等等；这些行动中的每一个，连同无限多的其他行动，都包含在每一个个体的完全概念之中；然而上帝选择了这个世界——在其中，这样的行动将*确定地*发生。但与此同时，既然任何这类行动的反面都不蕴涵矛盾，它们就不是必然的。上帝在选择一个可能世界时，选择一切现实个体的一切本质；其中每一个都有其程序，按照它自发而自由地行动。虽然它仍然是一个程序或完全概念，照莱布尼茨之见，那确实蕴涵*被决定*。
+  - id: 60
+    kind: body
+    source: |-
+      ## 5. Why This World?
+    step1: |-
+      ## 5 为什么是这个世界？
+    step2: |-
+      ## 5 为什么是这个世界？
+  - id: 61
+    kind: body
+    source: |-
+      Leibniz is famous for his “optimism,” that is, for the thesis that this is the best of all possible worlds. According to Leibniz, God surveyed the infinitely many possible worlds, determined which was best, and instantiated it or made it actual. In an important article, “Theories of Actuality,” Robert Merrihew Adams dubs this the “Divine Choice Theory” of actuality. In the main article on Leibniz, the reasons for this view are presented. But it is important to see that there are several factors that contribute to God's choice: first, according to Leibniz, God chose the world that was simplest in hypotheses (or laws) and richest in phenomena; second, it is claimed that God was chiefly concerned with the happiness of minds; third, since (it is argued) God sought to have the maximum perspectives on the universe, the world is a plenum, filled with minds each of which expresses the world from its own point of view.
+    step1: |-
+      莱布尼茨以其“乐天主义”闻名，即以其如下论题闻名：这是一切可能世界中最好的世界。照莱布尼茨的说法，上帝通观无限多的可能世界，判定哪一个最好，并使之实例化或现实化。在一篇重要文章《现实性理论》中，Robert Merrihew Adams 称之为现实性的“神圣选择理论”。在莱布尼茨主条目中已呈现这一看法的理由。但重要的是看到：有几个因素促成了上帝的选择。第一，照莱布尼茨的说法，上帝选择了在假设（或定律）上最简单、在现象上最丰富的世界；第二，有人主张上帝主要关心心灵的幸福；第三，既然（有人论证）上帝力求拥有对宇宙的最大数量的视角，世界便是一个充实，充满心灵，其中每一个都从自己的观点表现世界。
+    step2: |-
+      莱布尼茨以其“乐天主义”闻名——即以其如下论题闻名：这是一切可能世界中最好的世界。照莱布尼茨之说，上帝通观无限多的可能世界，判定哪一个最好，并使之实例化或现实化。在一篇重要文章《现实性理论》中，Robert Merrihew Adams 称之为现实性的“神圣选择理论”。莱布尼茨主条目已呈现这一看法的理由。但重要的是看到：有几个因素促成了上帝的选择。第一，照莱布尼茨之说，上帝选择了在假设（或定律）上最简单、在现象上最丰富的世界。第二，有人主张：上帝主要关心心灵的幸福。第三，既然（有人论证）上帝力求拥有对宇宙的最大数量的视角，世界便是一个充实——充满心灵，其中每一个都从自己的观点表现世界。
+  - id: 62
+    kind: body
+    source: |-
+      Although the Divine Choice Theory does seem to be Leibniz's preferred way to explain the origin of this—the actual—world, he does offer another explanation that deserves comment. This is the doctrine of *striving possibles*. According to this view, as presented principally in *On the Ultimate Origination of Things* (*De rerum originatione radicali*, 1697), each essence naturally strives for existence, and the actual world is simply the final battlefield after all possible essences have engaged in mortal combat for survival. In short, this is metaphysical Darwinism, in which the most perfect (and mutually compatible) essences survive to constitute a world. Consider the following:
+    step1: |-
+      虽然神圣选择理论看来确实是莱布尼茨解释这个世界——现实世界——之起源的首选方式，他也给出了另一个值得评论的解释。这就是*力求存在的可能者*学说。照这一观点——主要呈于《论事物的终极起源》（*De rerum originatione radicali*，1697）——每种本质都自然地力求存在，而现实世界不过是一切可能本质为生存进行殊死搏斗之后的最终战场。简言之，这是形而上学的达尔文主义：最完善（且彼此相容）的本质存活下来构成一个世界。考虑下面这段话：
+    step2: |-
+      虽然神圣选择理论看来确实是莱布尼茨解释这个世界——现实世界——之起源的首选方式，他也给出了另一个值得评论的解释。这就是*力求存在的可能者*学说。照这一观点——主要呈于《论事物的终极起源》（*De rerum originatione radicali*，1697）——每种本质都自然地力求存在；而现实世界，不过是一切可能本质为生存殊死搏斗之后的最终战场。简言之，这是形而上学的达尔文主义：最完善（且彼此相容）的本质存活下来，构成一个世界。请看下面这段话：
+  - id: 63
+    kind: body
+    source: |-
+      > Furthermore, in order to explain a bit more distinctly how temporal, contingent, or physical truths arise from eternal, essential or metaphysical truths, we must first acknowledge that since something rather than nothing exists, there is a certain urge for existence or (so to speak) a straining toward existence in possible things or in possibility or essence itself; in a word, essence in and of itself strives for existence. Furthermore, it follows from this that all possibles, that is, everything that expresses essence or possible reality, strive with equal right for existence in proportion to the amount of essence or reality or the degree of perfection they contain, for perfection is nothing but the amount of essence.
+      >
+      > From this it is obvious that of the infinite combinations of possibilities and possible series, the one that exists is the one through which the most essence or possibility is brought into existence. In practical affairs one always follows the decision rule in accordance with which one ought to seek the maximum or the minimum: namely, one prefers the maximum effect at the minimum cost, so to speak. (G VII 303/AG 150)
+    step1: |-
+      > 此外，为更清楚地解释时间性的、偶然的或物理的真理如何从永恒的、本质的或形而上学的真理中产生，我们必须首先承认：既然存在着某物而非无，在可能的东西之中、或在可能性或本质自身之中，就有某种对存在的渴求，或（可以说）一种朝向存在的紧张；一言以蔽之，本质就其自身而言力求存在。由此进一步得出：一切可能者，即一切表现本质或可能实在的东西，都以同等的权利力求存在，与其包含的本质或实在的量、或完善的程度成比例；因为完善无他，就是本质的量。
+      >
+      > 由此显而易见：在可能性与可能系列的无限组合中，存在的那个组合，是通过它把最多的本质或可能性带入存在的那个组合。在实践事务中，人们总是遵循这样的决定规则：应当寻求最大值或最小值。也就是说，人们偏爱以最小的代价获得最大的效果，可以说。（G VII 303/AG 150）
+    step2: |-
+      > 此外，为更清楚地解释时间性的、偶然的或物理的真理如何从永恒的、本质的或形而上学的真理中产生，我们必须首先承认：既然存在着某物而非无，在可能的东西之中、或在可能性或本质自身之中，便有某种对存在的渴求，或（可以说）一种朝向存在的紧张。一言以蔽之：本质就其自身而言力求存在。由此进一步得出：一切可能者——即一切表现本质或可能实在的东西——都以同等的权利力求存在，与其包含的本质或实在之量、或完善的程度成比例；因为完善无他，就是本质的量。
+      >
+      > 由此显而易见：在可能性与可能系列的无限组合中，存在的那个组合，就是把最多的本质或可能性带入存在的那个组合。在实践事务中，人们总是遵循这样的决定规则：应当寻求最大值或最小值。也就是说，人们偏爱以最小的代价获得最大的效果——可以说。（G VII 303/AG 150）
+  - id: 64
+    kind: body
+    source: |-
+      Since the theory of Striving Possibles seems so obviously to conflict with the Divine Choice Theory and since the latter is so much a part of Leibniz's mature system, we seem to have good reason to question how seriously to take this view. (The classic articles on this issue are those by Shields and Blumenfeld listed in the bibliography.) There is, however, a common way to reconcile the two views: the Divine Choice Theory literally explains the origin of this world, and the Striving Possibles Theory is merely a metaphor. But a metaphor for what? Answer: for the moral evaluation taking place in the divine intellect. In other words, God ought to be understood as surveying not simply all worlds (sets of compossible essences) prior to creation but also, in some sense, individual essences; and those essences which individually are most perfect and which collectively can form a world are in fact elected for existence.
+    step1: |-
+      既然力求存在的可能者理论看起来与神圣选择理论明显冲突，而后者是莱布尼茨成熟体系如此重要的一部分，我们似乎有充分理由追问：应当在多大程度上认真对待这一看法。（关于这个问题的经典文章是参考文献中列出的 Shields 与 Blumenfeld 的文章。）不过，有一种常见的办法调和两种观点：神圣选择理论字面上解释这个世界的起源，而力求存在的可能者理论只是一个隐喻。但它是什么的隐喻呢？回答：是神圣理智中进行的道德评价的隐喻。换言之，应当把上帝理解为：在创造之前不仅通观一切世界（可共存本质的集合），而且在某种意义上通观各个本质；而那些单独看最完善、合起来能构成一个世界的本质，实际上被选出存在。
+    step2: |-
+      既然力求存在的可能者理论看起来与神圣选择理论明显冲突，而后者是莱布尼茨成熟体系如此重要的一部分，我们似乎有充分理由追问：应当在多大程度上认真对待这一看法。（此题的经典文章，是参考文献中列出的 Shields 与 Blumenfeld 之作。）不过，有一种常见的办法调和两种观点：神圣选择理论字面上解释这个世界的起源；力求存在的可能者理论只是一个隐喻。但它是什么的隐喻呢？回答：是神圣理智中所进行的道德评价之隐喻。换言之，应当把上帝理解为：在创造之前不仅通观一切世界（可共存本质的集合），而且在某种意义上通观各个本质；那些单独看最完善、合起来能构成一个世界的本质，实际上被选出而存在。
+  - id: 65
+    kind: body
+    source: |-
+      In conclusion, it has been claimed throughout this piece that Leibniz advances his unique views on modality in opposition to the views of Hobbes and Spinoza. In short, the modal metaphysics we find in Leibniz's system is a result of the attempt to combine the insights of a mechanistic (and therefore deterministic) world-view with the demands of orthodox Christianity. There are a number of important particular points to bring out here. First, on Spinoza's view, everything that is possible is actual; that is, there are no unactualized possibilities. To claim that some particular thing or event could have been otherwise or to claim that the world itself could have been otherwise is simply to make an assertion without adequate knowledge. Indeed, one of the cornerstones of Spinoza's philosophy is the view that, if one has knowledge of the third kind, then one will recognize that *everything* happens out of the necessity of the divine nature. Second, if the Divine Choice Theory is the preferred account of the origin of this actual world, then Leibniz stands in opposition to Spinoza both because the Divine Choice Theory entails the existence of non-actualized possible worlds and also because it clearly entails a God that is anthropomorphic and transcendent. In other words, the Divine Choice Theory requires a God in whom intellect and will are distinct. Third, Leibniz's accounts of necessity and contingency are, obviously, in service of his commitment to the real freedom of human beings – and this in the face of the mechanistic world-view to which he otherwise adhered. This should be in no way surprising because Leibniz, unlike Hobbes and Spinoza, upheld the basic tenets of Christianity and had to explain how freedom and responsibility could be attributed to an individual, whose very nature (following Leibniz's account of truth) entailed all properties, past, present, and future.
+    step1: |-
+      总之，本文自始至终主张：莱布尼茨提出他关于模态的独特观点，以对抗霍布斯与斯宾诺莎的观点。简言之，我们在莱布尼茨体系中发现的模态形而上学，是把一种机械论的（从而是决定论的）世界观的洞见与正统基督教的要求结合起来的尝试之结果。这里有若干重要的具体之点要提出来。第一，照斯宾诺莎的观点，凡是可能的东西都是现实的；也就是说，不存在未现实化的可能性。主张某个特定事物或事件本可以是别的样子，或主张世界本身本可以是别的样子，只是作出一个没有充分知识的断言。确实，斯宾诺莎哲学的基石之一是这样一种观点：如果一个人拥有第三种知识，他就会认识到*一切*都出于神圣本性的必然而发生。第二，如果神圣选择理论是关于这个现实世界起源的首选说明，那么莱布尼茨就与斯宾诺莎相对立：既因为神圣选择理论蕴涵未现实化的可能世界的存在，也因为它明显蕴涵一个拟人化的、超越的上帝。换言之，神圣选择理论要求一个理智与意志有别的上帝。第三，莱布尼茨关于必然与偶然的说明，显然服务于他对人之实在自由的信守——这发生在他otherwise 坚持的机械论世界观面前。这绝不应当令人惊讶，因为莱布尼茨与霍布斯、斯宾诺莎不同，坚持基督教的基本信条，并且必须解释：自由与责任如何能够归于一个个体——照莱布尼茨对真理的说明，其本性蕴涵过去、现在与未来的全部属性。
+    step2: |-
+      总之，本文自始至终主张：莱布尼茨提出他关于模态的独特观点，以对抗霍布斯与斯宾诺莎的观点。简言之，我们在莱布尼茨体系中发现的模态形而上学，是把一种机械论的（从而决定论的）世界观之洞见与正统基督教的要求结合起来的尝试之结果。这里有若干重要的具体之点要提出来。第一，照斯宾诺莎的观点，凡是可能的东西都是现实的；也就是说，不存在未现实化的可能性。主张某个特定事物或事件本可以是别的样子，或主张世界本身本可以是别的样子，只是作出一个没有充分知识的断言。确实，斯宾诺莎哲学的基石之一是这样一种观点：如果一个人拥有第三种知识，他就会认识到*一切*都出于神圣本性的必然而发生。第二，如果神圣选择理论是关于这个现实世界起源的首选说明，那么莱布尼茨就与斯宾诺莎相对立：既因为神圣选择理论蕴涵未现实化可能世界的存在，也因为它明显蕴涵一个拟人化的、超越的上帝。换言之，神圣选择理论要求一个理智与意志有别的上帝。第三，莱布尼茨关于必然与偶然的说明，显然服务于他对人之实在自由的信守——而这发生在他所坚持的机械论世界观面前。这绝不应当令人惊讶：莱布尼茨与霍布斯、斯宾诺莎不同，坚持基督教的基本信条，并且必须解释自由与责任如何能够归于一个个体——照莱布尼茨对真理的说明，其本性蕴涵过去、现在与未来的全部属性。
+  - id: 66
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]

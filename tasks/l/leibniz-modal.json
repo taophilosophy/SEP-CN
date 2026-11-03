@@ -1,0 +1,50 @@
+{
+  "slug": "leibniz-modal",
+  "kind": "retranslate",
+  "zh_doc": "l/leibniz-modal.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-03T15:30:04Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T16:40:27Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/leibniz-modal.ledger.yaml 66 段（反思两步真实双版，本批最大件）；守恒门首跑实抓 2 处硬错：段10/41 的 *L**/*W** 源上标记号被误改为 L₁/L₂/W₂——恢复源记号后守恒通过；refs 缩写表（LLP/RB/AG/L/G/A/H 7 项）照录保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T16:40:27Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 65 段：引证（A VI iv/G II/G VI/G III/Grua/H 各页码逐字符）；单子论44节/神义论189节/形而上学谈话8·13·30节/论偶然性/论事物终极起源逐段核销；塞克斯图斯·塔克文寓言全链（命运之宫-世界之书-命运之书-金字塔）核销；亚里士多德-笛卡尔-斯宾诺莎-霍布斯-康德-卡尔纳普-普兰丁格-刘易斯对照链核销；相关词条 25 项映射（含 logic-modal-origins/logic-modal/metaphysics 三连消歧：现代模态逻辑的起源/模态逻辑/形而上学）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T16:40:27Z",
+      "evidence": "check_prose 首跑 73 处，三轮批量实修 52 处至 21：长句拆分×12、的链消解×25、被字消解×4、弱动词×3、dang-shihou×1、exists-there×1、as-one×1；余 21 处豁免留痕：莱布尼茨/阿尔诺/雅典娜引文行内部三'的'/长句结构（忠实引文所需，含神义论§414-416 寓言引文与亚当-彼得书信引文），逐类判读无破句无漏译"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T16:40:27Z",
+      "evidence": "四检：check_style 0（中文斜体 93 处转加粗；3 处 bold-spacing 为源记号 *L**/*W** 引发的检查器误报，非强调标记，豁免）、check_academic 0 硬错误、check_math 0、prose 21 豁免；术语 可共存的/完整个体概念/无穷分析/力求存在的可能者/超本质主义 登记 yi-zhe-shuo-ming.md；人名 7 位登记 ren-ming-biao.md（斯宾诺莎/卡尔纳普/普兰丁格/大卫·刘易斯/康德/博尔赫斯/布尔盖）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-03T15:30:04Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 8, 2013",
+    "archive_edition": "Winter 2022",
+    "sha256": "242ea95888f7d6e8c3d88abd4098045b1a652ca9fd0a58b830d520aeba198760"
+  }
+}
