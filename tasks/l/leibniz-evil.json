@@ -1,0 +1,50 @@
+{
+  "slug": "leibniz-evil",
+  "kind": "retranslate",
+  "zh_doc": "l/leibniz-evil.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-03T16:46:57Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T17:45:50Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/leibniz-evil.ledger.yaml 80 段（反思两步真实双版，本批最大件 322 行源）；守恒门首跑实抓 1 处硬错：段35 源混排 a拉丁→a Latin（identity 门逐字符校验生效），修复后守恒通过；refs 缩写表（A/ARN/AG/CD/CP/DPG/DSR/G/H/LGR/S 共 11 项）经 refs_tables 保留照录"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T17:45:50Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 79 段：引证（H 各页码/CP 各页码/CD 26-27/AG 36·62·152-3/SLT 92·193-4/DSR 25·29·67/Grua 390/A VI iv 各处 逐字符）；《神义论》三部分-附录-Causa Dei 结构核销；罪之作者/最好世界/先行-后行意志/物理-道德协作/缺失因/精神自动机-Fiat 全链核销；相关词条 5 项映射 SUMMARY 定名（含 theodicies→神义论）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T17:45:51Z",
+      "evidence": "check_prose 首跑 72 处，五轮批量实修 60 处至 12：长句拆分×8、的链消解×28、被字消解×6、弱动词×5、exists-there×1；余 12 处豁免留痕：莱布尼茨/阿奎那引文行内部三'的'/长句/被字结构（忠实引文所需——CP21/神义论H126-127·171·181·145·154-5/阿奎那神学大全I.25.6.ad3 引文），逐类判读无破句无漏译"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T17:45:51Z",
+      "evidence": "四检：check_style 0（中文斜体 56 处转加粗）、check_academic 0 硬错误、check_math 0、prose 12 豁免；人名 7 位登记 ren-ming-biao.md（阿奎那/莫利纳/索菲·夏洛特/韦德科普夫/斯滕诺/约翰·弗里德里希/培尔复用）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-03T16:46:57Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 12, 2026",
+    "archive_edition": "Spring 2026",
+    "sha256": "b64225d120de656b0f8ee2ec7b733421582a061b813aead42b4064a8421e11b7"
+  }
+}
