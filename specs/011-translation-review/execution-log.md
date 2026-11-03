@@ -94,3 +94,10 @@
 * mu-lu-s 的 [*别名——见Y 形态确认为历史合法形态（mulu_denoise.py 验证 0 命中），上轮回滚正确，遗留项关闭。
 * 深读累计 17 条全 pass（+aesthetics-18th-german、aesthetics-18th-british——德意志/英吉利美学谱系质量上乘）。
 * 深读实证结论（A 批 17 条样本）：40 路管线译文整体质量上乘；实修仅译名一致性小项（奎因→蒯因 7、特定→特殊 7、版本行 1）；结构/术语/引文体系零硬伤。
+
+## 2026-11-04 术语地道性审查轮（用户要求：确保术语地道、符合传统）
+
+* **核心根词审查**：48 个哲学基础术语对照中文学术传统（being/ontology/a priori/transzendental/Verstand/arete/phronesis/categorical imperative/thing-in-itself/the One 等）——已登记项全部地道（Dasein 此在、定言命令、eudaimonia 幸福与既有裁定同构）；**36 个基础根词从未入册**（being/category/substance/consciousness 等）→ 34 条按传统译法落册（一词多语境的主形+语境括注体例：understanding 知性（康德）／理解（日常）、mind 心灵／精神（Geist）、idea 理念／观念分域）。
+* **可疑模式扫描**：形容词「的」尾（合理形态豁免）、人名音译无括注（惯例豁免）、**同键异译分立行**（真问题）——fold 归一（含连字符变体）扫描出 2 组合并：prima facie 初显的（亦作初步的，罗斯初定义务语境通译）、truth conducive 导向真理的；Motoori 重复行去重。
+* **check_terms 工具盲区登记**：自洽检测只查整行重复，同键异译分立（初步的/初显的分立两行）不报——fold 归一检测待下轮工具化。
+* 本轮净新增登记 34 条 + 合并 3 行。深读累计 17 条全 pass。
