@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-03 21:00（UTC）
+生成时间：2026-11-03 21:10（UTC）
 
 ## 总览
 
@@ -12,8 +12,8 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|996|
-|已完成（done）|77|
+|已建任务|997|
+|已完成（done）|78|
 |在途（drafted 起、done 前）|283|
 |阻塞|0|
 
@@ -22,12 +22,12 @@
 |状态|数量|
 |---|---|
 |pending|636|
-|cleared|201|
+|cleared|202|
 |drafted|2|
 |s1_checked|1|
 |s3_checked|72|
-|r1_reviewed|5|
-|done|77|
+|r1_reviewed|4|
+|done|78|
 |checked（非标准状态）|1|
 |round1_augmented（非标准状态）|1|
 
@@ -52,7 +52,7 @@
 |O|21|21|1|0|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|7|1|
+|R|85|85|8|2|
 |S|161|161|6|1|
 |T|71|71|2|0|
 |U|4|4|1|0|
@@ -347,5 +347,5 @@
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |lorenzo-valla|retranslate|cleared|task_ops 2026-11-03|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|reism|retranslate|r1_reviewed|RZ-main-20261104 2026-11-03|
+|reasoning-analogy|retranslate|cleared|task_ops 2026-11-03|
 |update-drift-check-2026-11-02|daily-check|checked|daily-routine 2026-11-02|
