@@ -2,7 +2,7 @@
   "slug": "kilvington",
   "kind": "retranslate",
   "zh_doc": "k/kilvington.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:43Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:01:17Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：lq.py init 59 段（body=58+oir=1，含标题段）→本会话直译 step1/step2 双版（script/build_kilvington_p1+p2.py，两批落盘）→守恒自检 HARD=0 SOFT=19（斜体→书名号正常转换）→lq.py check 通过→compose 写回 37091 字符；H1=SUMMARY kilvington 行导出；参考文献 139 条照录（含手稿清单脚注体系 utrum-nd 系列、Firenze/Brugge 等馆藏条目）；披露：源文第 6/7 节重复编号『## 6. Impact and Influence』按原样保留为『## 6 影响与流传』；seg45 源文 and* ordinata 星号粘连在 step2 顺句理顺"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:01:17Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：中文强调斜体→粗体 11 行转换（守卫锚定转换器）；关联词条 compose NOTE 5 项人工复核对齐 SUMMARY 登记形（托马斯·布拉德沃丁/让·布里丹/沃尔特·伯利/约翰·邓·司各脱/奥卡姆的威廉；其中布拉德沃丁无 SUMMARY 行，译名留待管线挂链时对齐）；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:01:17Z",
+      "evidence": "s2 二校：引文括注 30+ 处复核（S 29: 69/S 42[43]: 112–15、DM: 215–25/221,223,239–40/225–29,258–59/229–33、DV: 168/175/178/182/183、Physics VIII/VII、Ord. I d.1/d.44、Lectura I dist. 39 qq.1–5、Quaestiones q.6 a.10、Michałowska 2011a: 488–92/2016: 13–14、Podkoński 2009: 142、Jung 2022a: 76–77、Smart 无——本条无、Seanor 无）；术语核销：牛津计算者/词项逻辑/诡辩题 sophisma/跨类论证 metabasis/incipit-desinit/de primo et ultimo instanti/de maximo et minimo/形式的纬度/增强与减弱/依据想象 secundum imaginationem/其他情况相同 ceteris paribus/最大 quod sic-非 quod non/较大不等比 maioris inequalitatis/均匀非均匀运动/绝对能力-有序能力 potentia absoluta-ordinata/共时偶然性/自然实例 instantiae naturae/beneplacitum 喜悦旨意/必然知识-两可知识 scientia necessaria-ad utrumlibet/动态唯意志论/velle-nolle-non-velle/正确理性 recta ratio/义务性论辩/可敬的开创者/贝拉基主义者-半贝拉基主义者/同伴 socii；专名核销（德·伯里/爱德华三世/菲茨拉尔夫/彼得·伦巴德/约尔丹努斯·德·内莫雷/格罗斯泰斯特/布拉德沃丁/司各脱/奥卡姆/伍德汉姆/霍尔科特/白金汉/比林厄姆/罗塞图斯/海特斯伯里/斯温斯黑德/邓布尔顿/帕尔马的布拉修斯/奥雷姆/布里丹/丁克尔斯比尔/贝瓦特/普尔考/泽豪森/小亚当/米雷库尔/克拉科夫的托马斯/米哈乌夫斯卡/波德科恩斯基/克雷茨曼夫妇/斯顿普/沙贝尔/d'Ors）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:01:17Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues；check_math 0 formulas/unbalanced；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:01:18Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/kilvington.md 428 行 ↔ k/kilvington.md 287 行逐段核销）：导言+七节（生平与著作/科学中的方法/逻辑/自然哲学/伦理学/神学/影响与流传）全数在位；三条拉丁引块（司各脱区分 DV:168、未来偶然知识 DV:182、圆心圆周 DV:183）逐句核销；两条编号列表（极限存在两条件）对应；参考文献 139 条与源文逐字相符（含拉丁问题标题 utrum 系列 35 条、手稿馆藏 30 条、波兰文研究书目）；核心论证核销（无穷四层次/一一对应与数目-量-质三重相等/变白无第一瞬间/基尔文顿运动规则 F:R 平方根诠释/虚空四球/简单体虚空内阻力/伦理学 res 度量/审慎两知识/意志三行动/预定非双重/撤销过去与童贞例）；零信任抽查 4 处（奥卡姆连续体定义段、0>v<1 段、共时偶然段、贝瓦特等维也纳名单）与 en 镜像一致；本条为主会话自译，r1 以源文复读+抽查代替独立复审，如实记"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:02:53Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施留痕，r2 复认）：中文强调斜体→粗体 11 行；关联词条 5 项对齐；seg45 星号粘连理顺；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:02:54Z",
+      "evidence": "r3 门禁全绿：四道复跑全过（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:02:54Z",
+      "evidence": "done 收口：K 批直译第二条全周期（init→直译双版 59 段→守恒→compose→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
     }
   ],
   "blockers": [],
