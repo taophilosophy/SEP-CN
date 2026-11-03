@@ -2,7 +2,7 @@
   "slug": "epsilon-calculus",
   "kind": "retranslate",
   "zh_doc": "e/epsilon-calculus.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T21:14:53Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T17:33:53Z",
+      "evidence": "全量翻译完成：以 yuanwen/e/epsilon-calculus.md 为底稿从头翻译 7499 汉字（导言+七节：概述/演算/定理/Herbrand/替换方法/晚近发展/语言学哲学应用），体例按 fan-yi-mu-ban"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T17:33:54Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：导言（希尔伯特纲领）1 概述（1904 讲演/1917 讲座/形式系统+有穷一致性两步纲领）2 演算（项与公式归纳定义/超限公理/代入规则/量词定义/非决定性/外延性图式）3 定理（第一第二 epsilon 定理表述与含义/一般一致性定理/延伸阅读）4 Herbrand 定理（存在公式情形/扩展第一定理/Skolem 化例/Herbrand 范式两款/准重言式/幂等规则/切割消去比较/Skolem 范式对偶）5 替换方法（命题-谓词一致性/最小值公理/修复过程/嵌套困难/阿克曼 1924 回溯/哥德尔 1930 影响/根岑 1936/阿克曼 1940/二阶 epsilon 与概括/直谓与非直谓分析）6 晚近发展（序数分析/Tait/Mints/Arai/强规范化/结构证明理论/HOL-Isabelle）7 语言学哲学应用（驴句/E-型代词/whe 算子/选择函数索引/任意对象/卡尔纳普重构）全节对应；数学公式逐一在位"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T17:33:54Z",
+      "evidence": "check_prose 17 条全豁免：14 de-chain 为自然中文或术语链（epsilon 项/超限公理/Skolem 化/准重言式），3 长句为源文等长（Avigad-Zach 学术句式）；斜体 CJK 批量修为加粗（25 处）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T17:33:54Z",
+      "evidence": "check_style 0 issue（斜体→加粗批量修 25 处+三重星号修复+星标公式去 (*) 记号）；check_math 0；check_academic --strict 0 硬错误"
     }
   ],
   "blockers": [],
