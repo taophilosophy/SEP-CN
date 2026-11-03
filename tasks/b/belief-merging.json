@@ -1,0 +1,22 @@
+{
+  "slug": "belief-merging",
+  "kind": "retranslate",
+  "zh_doc": "b/belief-merging.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:41Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:45Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 9, 2025",
+    "archive_edition": "Summer 2025",
+    "sha256": "494d5518f0416f74baa722ecee0c022e2b0a5ba5b13076d7c007937e60d09990"
+  }
+}

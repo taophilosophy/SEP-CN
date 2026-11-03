@@ -1,0 +1,22 @@
+{
+  "slug": "buddhism-chan",
+  "kind": "retranslate",
+  "zh_doc": "b/buddhism-chan.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:15:58Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:55Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 2, 2019",
+    "archive_edition": "Fall 2023",
+    "sha256": "30acddaf0c906aa7b5a895f0c95064b86b741c81691b7e5f09074af2a196846b"
+  }
+}

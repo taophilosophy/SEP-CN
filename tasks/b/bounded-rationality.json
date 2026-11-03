@@ -1,0 +1,22 @@
+{
+  "slug": "bounded-rationality",
+  "kind": "retranslate",
+  "zh_doc": "b/bounded-rationality.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:50Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:53Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 13, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "f263e28ce9fa848c64de6f708a95677bfc191566ff10968246449de9ee31d8b3"
+  }
+}

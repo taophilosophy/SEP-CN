@@ -1,0 +1,22 @@
+{
+  "slug": "byzantine-philosophy",
+  "kind": "retranslate",
+  "zh_doc": "b/byzantine-philosophy.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:55Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:59Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 16, 2018",
+    "archive_edition": "Fall 2018",
+    "sha256": "2224968891ee463562112a2a077d102afe6a8c9150a4872bba15e4ad081cd875"
+  }
+}

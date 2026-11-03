@@ -1,0 +1,22 @@
+{
+  "slug": "bohr-correspondence",
+  "kind": "retranslate",
+  "zh_doc": "b/bohr-correspondence.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:47Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:50Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 13, 2020",
+    "archive_edition": "Fall 2020",
+    "sha256": "310c74ea24d63c6663cceff2854455010f82b1f89450c9c2ee091cd24010ae58"
+  }
+}

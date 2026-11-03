@@ -1,0 +1,22 @@
+{
+  "slug": "berkeley",
+  "kind": "retranslate",
+  "zh_doc": "b/berkeley.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:43Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:47Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 12, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "4ac4dc45f55ed75a232f22b4cb25b9e1a053b1e044da37342f42aa5c43bd2063"
+  }
+}

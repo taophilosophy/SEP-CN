@@ -1,0 +1,22 @@
+{
+  "slug": "bosanquet",
+  "kind": "retranslate",
+  "zh_doc": "b/bosanquet.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:49Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:52Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 19, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "3b78c5b8ec9fa2490a6b68415685715814b8a9871fc4edcdcadf7886af6d4319"
+  }
+}

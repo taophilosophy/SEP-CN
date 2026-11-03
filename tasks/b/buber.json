@@ -1,0 +1,22 @@
+{
+  "slug": "buber",
+  "kind": "retranslate",
+  "zh_doc": "b/buber.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:53Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:57Z",
+  "version_pin": {
+    "pubinfo_date": "May 12, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "8dd8c10d08ef6ed66f4d7db7f9df6f4a44a8ada0c9c56ea4b7a3c68cfb61858a"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "burley",
+  "kind": "retranslate",
+  "zh_doc": "b/burley.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:54Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:58Z",
+  "version_pin": {
+    "pubinfo_date": "May 10, 2024",
+    "archive_edition": "Summer 2024",
+    "sha256": "b672c795151454dd13473980a63f1b30c559c48483076543a1cc1869dd36b0b9"
+  }
+}

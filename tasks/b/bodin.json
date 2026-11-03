@@ -1,0 +1,22 @@
+{
+  "slug": "bodin",
+  "kind": "retranslate",
+  "zh_doc": "b/bodin.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:47Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:50Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 30, 2018",
+    "archive_edition": "Spring 2026",
+    "sha256": "fa84e43061f506efbba8007e0c5f35c3cc12170223e3056f60fc5c16146a4a61"
+  }
+}

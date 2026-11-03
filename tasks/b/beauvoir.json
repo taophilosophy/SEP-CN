@@ -1,0 +1,22 @@
+{
+  "slug": "beauvoir",
+  "kind": "retranslate",
+  "zh_doc": "b/beauvoir.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:40Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:44Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 11, 2023",
+    "archive_edition": "Fall 2024",
+    "sha256": "d10d67e2a4b97526d4b8d043718cee37500628dec0804521e100ea6fbea856c6"
+  }
+}

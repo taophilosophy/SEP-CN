@@ -1,0 +1,22 @@
+{
+  "slug": "boole",
+  "kind": "retranslate",
+  "zh_doc": "b/boole.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:49Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:52Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 1, 2026",
+    "archive_edition": "Spring 2026",
+    "sha256": "1caa5b05f646959ac66f23e55a840c7f95dfb9fd0d613aa41dcb8b2844c53711"
+  }
+}

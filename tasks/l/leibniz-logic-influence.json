@@ -1,0 +1,22 @@
+{
+  "slug": "leibniz-logic-influence",
+  "kind": "retranslate",
+  "zh_doc": "l/leibniz-logic-influence.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-02T22:03:44Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-02T22:03:44Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 2, 2024",
+    "archive_edition": "Spring 2024",
+    "sha256": "8056fb17071a827cbe06db95037458c7b7f05dafc806dcb78989dc0f639f7b96"
+  }
+}

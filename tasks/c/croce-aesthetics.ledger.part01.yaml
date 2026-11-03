@@ -1,0 +1,38 @@
+version: 1
+slug: croce-aesthetics
+segments:
+  - id: seg-001
+    source: |-
+      The Neapolitan Benedetto Croce (1860–1952) was a dominant figure in the first half of the twentieth century in aesthetics and literary criticism, and to lesser but not inconsiderable extent in philosophy generally. But his fame did not last, either in Italy or in the English speaking world. He did not lack promulgators and willing translators into English: H. Carr was an early example of the former, R. G. Collingwood was perhaps both, and D. Ainslie did the latter service for most of Croce’s principal works. But his star rapidly declined after the Second World War.
+    step1: |-
+      那不勒斯的贝内德托·克罗齐（Benedetto Croce，1860–1952）是二十世纪上半叶美学与文学批评领域的主导人物，在一般哲学领域也有一定但并非微不足道的影响。但他的名声并未持久，无论在意大利还是在英语世界。他并不缺少宣扬者与自愿将其译为英文的人：H. Carr 是前者的早期例子，R. G. Collingwood 或许两者兼是，而 D. Ainslie 则为克罗齐的大部分主要著作做了后者这项工作。但他的星运在第二次世界大战后迅速衰落。
+    step2: |-
+      那不勒斯的贝内德托·克罗齐（Benedetto Croce，1860–1952）是二十世纪上半叶美学与文学批评领域的主导人物，在一般哲学上也有一定影响，虽并非微不足道。然而他的名声并未持久，无论意大利还是英语世界皆然。他从不缺少宣扬者，也不缺少自愿将其译成英文的人：H. Carr 是前者的早期例子，R. G. Collingwood 或许两者兼之，而 D. Ainslie 则为克罗齐的大部分主要著作做了后一项工作。但第二次世界大战后，他的光芒迅速黯淡。
+  - id: seg-002
+    source: |-
+      Indeed it is hard to find a figure whose reputation has fallen so far and so quickly; this is somewhat unfair not least because Collingwood’s aesthetics is still studied, when its many of its main ideas are often thought to have been borrowed from Croce. The causes are a matter for speculation, but two are likely. First, Croce’s general philosophy was very much of the preceding century. As the idealistic and historicist systems of Bradley, Green, and Joachim were in Britain superseded by Russell, Moore and Ayer, and analytical philosophy in general, Croce’s system was swept away by new ideas on the continent—from Heidegger and Sartre on the one hand to deconstructionism on the other. Second, Croce’s manner of presentation in his famous early works now seems, not to put too fine a point on it, dismissively dogmatic; it is full of the youthful conviction and fury that seldom wears well. On certain key points, opposing positions are characterized as foolish, or as confused expressions of simple truths that only waited upon Croce to articulate properly (yet his later exchange with John Dewey—see Croce 1952, Douglas 1970, Vittorio 2012—finds him more earnestly accountable)[^douglas-1970][^vittorio-2012].
+    step1: |-
+      的确，很难找到一个声誉跌落得如此之远、如此之快的人物；这多少有些不公平，尤其是因为柯林伍德的美学至今仍被研究，而它的许多主要观念常被认为借自克罗齐。其原因只能推测，但有两项很可能。第一，克罗齐的一般哲学非常属于前一个世纪。当布拉德利、格林与约阿希姆的唯心主义与历史主义体系在英国被罗素、摩尔、艾耶尔及一般的分析哲学所取代时，克罗齐的体系则被欧洲大陆的新观念扫荡而去——一边是海德格尔与萨特，另一边是解构主义。第二，克罗齐在其著名早期著作中的表达方式，如今看来（说得直白些）是轻蔑独断的；它充满了年轻人的自信与激情，而这种东西很少经得住时间。在某些关键点上，对立立场被描绘为愚蠢，或被描绘为简单真理的混乱表达，而这些真理只等着克罗齐来恰当地阐明（然而他后来与约翰·杜威的交流——见 Croce 1952, Douglas 1970, Vittorio 2012——使他显得更认真地承担责任）[^douglas-1970][^vittorio-2012]。
+    step2: |-
+      的确，很难再找到一位声誉跌落得如此之远、如此之快的人物；这多少有些不公，尤其是因为柯林伍德的美学至今仍有人研究，而它的许多主要观念常被看作借自克罗齐。原因只能猜测，但有两项很有可能。其一，克罗齐的一般哲学非常属于前一个世纪。当布拉德利、格林与约阿希姆的唯心主义与历史主义体系在英国被罗素、摩尔、艾耶尔以及一般的分析哲学取代时，克罗齐的体系则被欧洲大陆的新观念扫荡而去——一边是海德格尔与萨特，另一边是解构主义。其二，克罗齐在其著名早期著作中的表达方式，如今看来（说得直白些）带有轻蔑的独断；它充满了年轻人的自信与激情，而这类东西很少能经得起岁月的考验。在某些关键点上，对立立场被说成是愚蠢的，或是简单真理的混乱表达——这些真理只等克罗齐来恰当地道出（不过他后来与约翰·杜威的交流——见 Croce 1952, Douglas 1970, Vittorio 2012——倒使他显得更为恳切地负责）[^douglas-1970][^vittorio-2012]。
+  - id: seg-003
+    source: |-
+      Of course, these dismissals carry some weight—Croce’s reading is prodigious and there is far more insight beneath the words than initially meets the eye—but unless the reader were already convinced that here at last is the truth, their sheer number and vehemence will arouse mistrust. And since the early works, along with his long running editorship of the journal *La Critica*, rocketed him to such fame and admiration, whereas later years were devoted among other things to battling with while being tolerated by fascists, it’s not surprising that he never quite lost this habit.
+    step1: |-
+      当然，这些轻蔑之言有一些分量——克罗齐的阅读量惊人，字里行间所蕴含的洞见远多于最初所见的——但除非读者早已相信这里终于有了真理，否则它们的数量与激烈程度只会激起不信任。而且，由于这些早期著作连同他长期主持的《批判》（*La Critica*）杂志使他声名鹊起、备受景仰，而晚年的岁月则部分用于与法西斯主义者斗争（同时被他们所容忍），所以他从未完全改掉这一习惯也就不足为奇了。
+    step2: |-
+      当然，这些轻蔑之言自有分量——克罗齐读书极多，字里行间的洞见也远非乍看所及——但除非读者早已认定这里终于见到了真理，否则这些言辞的数量与激烈只会激起怀疑。况且，早期著作连同他长期主持的《批判》（*La Critica*）杂志，使他声名鹊起、广受景仰，而晚年则部分用于同法西斯主义者周旋（一面与之斗争，一面又为其所容忍），因此他始终未能完全改掉这一习惯，也就不足为奇了。
+  - id: seg-004
+    source: |-
+      Nevertheless, Croce’s signal contribution to aesthetics—an interesting new angle on the idea that art is expression—can be more or less be detached from the surrounding philosophy and polemics. In what follows, we will first see the doctrine as connected to its original philosophical context, then we will attempt to snip the connections.
+    step1: |-
+      尽管如此，克罗齐对美学的重大贡献——对“艺术即表现”这一观念的一个有趣的新角度——或多或少可以与其周围的哲学与论战分离开来。在接下来的部分，我们将首先把这一学说视为与其原初哲学语境相连，然后试图剪断这些联系。
+    step2: |-
+      尽管如此，克罗齐对美学的标志性贡献——对“艺术即表现”这一观念的一个有趣的新视角——大体上可以与其周围的哲学与论战剥离。下文我们先看这一学说如何与其原初的哲学语境相连，然后再试图切断这些联系。
+  - id: seg-005
+    source: |-
+      We are confining ourselves to Croce’s aesthetics, but it will help to have at least the most rudimentary sketch in view of his rather complex general philosophy.
+    step1: |-
+      我们把自己限制在克罗齐的美学之内，但至少具备一个最基本的纲要，会有助于看待他颇为复杂的一般哲学。
+    step2: |-
+      我们只谈克罗齐的美学，但先对他也颇为复杂的一般哲学有个最起码的轮廓，会有所帮助。

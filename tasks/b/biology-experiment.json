@@ -1,0 +1,22 @@
+{
+  "slug": "biology-experiment",
+  "kind": "retranslate",
+  "zh_doc": "b/biology-experiment.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:49Z",
+  "version_pin": {
+    "pubinfo_date": "May 17, 2018",
+    "archive_edition": "Fall 2026",
+    "sha256": "5fc4fceb9f0ecca971c0ca2274eeea1b3940f30170067fa8a66147bbbd9809f9"
+  }
+}

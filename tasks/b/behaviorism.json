@@ -1,0 +1,22 @@
+{
+  "slug": "behaviorism",
+  "kind": "retranslate",
+  "zh_doc": "b/behaviorism.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:15:57Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:54Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 13, 2023",
+    "archive_edition": "Spring 2023",
+    "sha256": "0afe8ebb9ad8ab47d7ad007fd2a9993a0c3de1401b6cfcf4aac3d269c7598759"
+  }
+}

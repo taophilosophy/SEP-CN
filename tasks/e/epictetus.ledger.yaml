@@ -1,0 +1,147 @@
+version: 1
+slug: epictetus
+params:
+  model: "sensenova-6.8-flash-lite"
+  temperature: 0.2
+  batch_segments: 46
+segments:
+  - id: 1
+    source: |-
+      A Greek philosopher of 1ˢᵗ and early 2ⁿᵈ centuries C.E., and an exponent of Stoic ethics notable for the consistency and power of his ethical thought and for effective methods of teaching. Epictetus’s chief concerns are with integrity, self-management, and personal freedom, which he advocates by demanding of his students a thorough examination of two central ideas, the capacity he terms ‘volition’ (*prohairesis*) and the correct use of impressions (*chrēsis tōn phantasiōn*), Heartfelt and satirical by turns, Epictetus has had significant influence on the popular moralistic tradition, but he is more than a moralizer; his lucid resystematization and challenging application of Stoic ethics qualify him as an important philosopher in his own right.
+    step1: |-
+      爱比克泰德是公元 1 世纪至 2 世纪初的一位希腊哲学家，斯多葛伦理学的倡导者，以其伦理思想的一致性与力量以及有效的教学方法而著称。爱比克泰德的主要关切在于正直、自我管理与个人自由，他通过要求学生彻底考察两个核心观念来倡导这些，即他称为“意愿”（*prohairesis*）的能力与对印象的正确使用（*chrēsis tōn phantasiōn*）。爱比克泰德时而真挚、时而讥讽，对通俗道德教化传统产生了重大影响，但他不只是一个道德说教者；他对斯多葛伦理学的清晰再系统化与富有挑战性的应用，使他成为一位当之无愧的重要哲学家。
+    step2: |-
+      爱比克泰德是公元 1 世纪至 2 世纪初的希腊哲学家，斯多葛伦理学的代表人物，以其伦理思想的一致与有力、教学方法的有效而著称。他关心的核心在于正直、自我管理与个人自由；为倡导这些，他要求学生彻底考察两个中心观念：他称为“意愿”（*prohairesis*）的能力，以及对印象的正确运用（*chrēsis tōn phantasiōn*）。爱比克泰德时而恳切、时而讥诮，对通俗道德训诫传统影响深远，但他远不止是一位道德说教者；他对斯多葛伦理学的清晰重述与富有挑战性的运用，使他足以成为一位自成一家的重要哲学家。
+  - id: 2
+    source: |-
+      Born sometime in the 50s C.E. in Hierapolis, a Greek city of Asia Minor, Epictetus spent a portion of his life as the slave of Epaphroditus, an important administrator in the court of Nero. The date at which he came to Rome is unknown, but it must have been either prior to 68, at which time Epaphroditus fled the capital, or after the accession of Domitian in 81, under whom Epaphroditus was allowed to return and perhaps to resume his position. The circumstances of Epictetus’s education are likewise unknown, except that he studied for a time under Musonius Rufus, a Roman senator and Stoic philosopher who taught intermittently at Rome. Eventually receiving his freedom, he began lecturing on his own account but was forced to leave the city, presumably by the edict of Domitian (in 89) banning philosophers from the Italian peninsula. He then established his own school at Nicopolis, an important communications hub and administrative center in Epirus, on the Adriatic coast of northwest Greece, and remained there teaching and lecturing until his death around 135. The teaching represented in the *Discourses* is that of his later career, around the year 108 by Millar’s (1965) dating, at which time he walked with a limp attributed variously to arthritis or to physical abuse during his time of slavery. Epictetus never married, but for reasons of benevolence he late in life adopted a child whose parents could not provide for its maintenance.
+    step1: |-
+      爱比克泰德约于公元 50 年代出生于小亚细亚的希腊城市希拉波利斯（Hierapolis），一生中有一部分时间作为埃帕弗洛狄图斯（Epaphroditus）的奴隶，后者是尼禄宫廷中的一位重要行政官员。他来到罗马的日期不详，但必定早于 68 年——当时埃帕弗洛狄图斯逃离首都——或晚于 81 年图密善即位，在图密善治下埃帕弗洛狄图斯得以返回并或许恢复其职位。爱比克泰德受教育的境况同样不详，只知道他曾一度师从穆索尼乌斯·鲁弗斯（Musonius Rufus），一位罗马元老与斯多葛哲学家，间歇性地在罗马执教。他最终获得自由，开始自行讲学，但被迫离开该城，大概是出于图密善（89 年）禁止哲学家离开意大利半岛的敕令。他随后在尼科波利斯（Nicopolis）建立了自己的学校，这是伊庇鲁斯（Epirus）的一个重要交通枢纽与行政中心，位于希腊西北部的亚得里亚海岸，他在那里教学与讲学直至约 135 年去世。《论说集》（*Discourses*）所呈现的教学属于他后期的事业，按米勒（Millar）1965 年的年代断定约在 108 年，当时他跛足行走，跛足被分别归因于关节炎或他在为奴期间所受的身体虐待。爱比克泰德从未结婚，但出于仁慈，他在晚年收养了一个其父母无法抚养的孩子。
+    step2: |-
+      爱比克泰德约于公元 50 年代生于小亚细亚的希腊城市希拉波利斯（Hierapolis）。他一生中曾有一段时期是埃帕弗洛狄图斯（Epaphroditus）的奴隶，后者是尼禄宫廷中一位重要的行政官员。他抵达罗马的时间不详，但必定早于 68 年——其时埃帕弗洛狄图斯逃离了首都——或晚于 81 年图密善即位之后；在图密善治下，埃帕弗洛狄图斯获准重返并可能恢复原职。爱比克泰德的求学经历同样不明，只知道他曾一度师从穆索尼乌斯·鲁弗斯（Musonius Rufus）——一位罗马元老、斯多葛哲学家，在罗马间歇授课。他最终获得自由，开始独立讲学，却被迫离开该城，大概是因为图密善于 89 年颁布敕令、将哲学家逐出意大利半岛。此后他在尼科波利斯（Nicopolis）建立自己的学园；此地是伊庇鲁斯（Epirus）的重要交通枢纽与行政中心，地处希腊西北部亚得里亚海岸。他在此教学讲学，直至约 135 年去世。《论说集》（*Discourses*）所反映的教学属于他晚年的事业，按米勒（Millar）1965 年的年代断定约在公元 108 年；当时他跛足而行，跛足或被归因于关节炎，或被归因于为奴期间所受的体罚。爱比克泰德终身未娶，但出于仁善，他在晚年收养了一个父母无力抚养的孩子。
+  - id: 3
+    source: |-
+      The major compilation of Epictetus’s teaching is the work standardly referred to in English as the *Discourses*; it was variously titled in antiquity. The work we have is in four books, or volumes, but the original work comprised eight or more books. According to their preface, the *Discourses* are not the writing of Epictetus but are ghostwritten by the essayist and historiographer Arrian of Nicomedia in an effort to convey the personal impact of his instruction. Although we lack independent means of verification, we have reason to be confident that the works we have represent Epictetus’s thought rather than Arrian’s own: first, because the language employed is *koinē* or common Greek rather than the sophisticated literary language of Arrian’s other writings; and second because the brusque, elliptical manner of expression, the precise philosophical vocabulary, and the intellectual rigor of the content are quite different from what Arrian produces elsewhere. A few scholars, including especially Dobbin (1998), argue that Epictetus must have composed them himself, the role of Arrian being merely to preserve a mild fiction of orality.
+    step1: |-
+      爱比克泰德教导的主要汇编是英语中通常称为《论说集》（*Discourses*）的著作；它在古代有各种书名。我们现有的著作有四卷（或四册），但原作包含八卷或更多。根据其序言，《论说集》并非爱比克泰德的著作，而是由散文家与史学家尼科米底亚的阿里安（Arrian of Nicomedia）代笔，以传达其教导所产生的个人影响。尽管我们缺乏独立的验证手段，但我们有理由相信现有著作代表的是爱比克泰德的思想而非阿里安自己的思想：第一，因为所用语言是共通希腊语（*koinē*）或普通希腊语，而非阿里安其他著作中那种精致的文学语言；第二，因为那种粗率、简洁的表达方式、精确的哲学术语以及内容的理智严谨性，与阿里安在别处的作品颇为不同。少数几位学者，尤其是多宾（Dobbin 1998），主张这些著作必是爱比克泰德本人所作，阿里安的角色仅仅是维持一种口头性的温和虚构。
+    step2: |-
+      爱比克泰德教导的主要汇编，是英语中通常称作《论说集》（*Discourses*）的那部著作；它在古代有多种书名。传世的著作有四卷（或四册），而原作实有八卷或更多。据其序言，《论说集》并非爱比克泰德亲笔，而是由散文家兼史学家尼科米底亚的阿里安（Arrian of Nicomedia）代笔，意在传达其教诲给人的切身体会。尽管我们缺乏独立的验证途径，却有理由确信：传世之作呈现的是爱比克泰德的思想，而非阿里安自己的。其一，所用语言是共通希腊语（*koinē*），即普通希腊语，而非阿里安其他著作那种精致的文学语言；其二，那种粗率而简约的表达、精确的哲学术语，以及内容的理智严谨，都与阿里安在别处的作品颇不相类。少数几位学者——尤其多宾（Dobbin 1998）——主张这些著作必出自爱比克泰德本人之手，阿里安的作用不过是维持一种口头性的温和虚构。
+  - id: 4
+    source: |-
+      The shorter *Encheiridion* (titled in English either *Manual* or *Handbook)* is a brief abridgment of the *Discourses*. As such it offers a much attenuated account which is of little independent value for the understanding of Epictetus’s thought and which at some points gives a misleading impression of his philosophical motivations. There are also some quotations by other ancient authors from the *Discourses* as they knew them. A few of these fragments, notably those numbered by Schenkl 8, 9, and 14, are useful supplements to our knowledge of Epictetus.
+    step1: |-
+      较短的《手册》（*Encheiridion*，英语中或题作 *Manual* 或 *Handbook*）是《论说集》的简略节本。作为这样的节本，它提供了一个大为削弱的记述，对于理解爱比克泰德的思想几乎没有独立价值，并且在某些点上对其哲学动机给出误导性的印象。此外还有其他古代作者对他们所知道的《论说集》的若干引文。这些残篇中的少数，尤其是申克尔（Schenkl）编号为 8、9、14 的那些，是对我们关于爱比克泰德的知识的有用补充。
+    step2: |-
+      较短的《手册》（*Encheiridion*，英译或题作 *Manual*，或题作 *Handbook*）是《论说集》的一个简略节本。作为节本，它所提供的记述大为缩减，对理解爱比克泰德思想几乎没有独立价值，且在若干处对其哲学动机造成误导。此外，还有其他古代作者对他们所知的《论说集》的一些引文。这些残篇中有少数——尤其是申克尔（Schenkl）编为 8、9、14 号者——可作为我们了解爱比克泰德的有益补充。
+  - id: 5
+    source: |-
+      The standard Greek edition of all the above works is by Schenkl (1916); there is also a valuable Loeb edition by Oldfather (2 volumes, 1926–28), and, for the *Discourses,* an edition by Souilhé (4 vols., 1948–65) which includes a French translation. Complete English translations include, besides Oldfather, Waterfield (2022) and Hard (1995). The latter, which occasionally quoted here, is a revision of the classic translation by Elizabeth Carter (1759). Dobbin (2008) is a somewhat abridged version with an excellent brief introduction and notes. Dobbin (1998) provides a more extensive general introduction and notes to accompany a translation of *Discourses* Book I. For a reliable overview of Epictetus’s main ideas with observations on many specific points, the first port of call is Long (2002). The more detailed treatments by Bonhöffer (1890 and 1894), though superseded by more recent studies on many points, retain considerable value.
+    step1: |-
+      上述所有著作的标准希腊文版本是申克尔（Schenkl 1916）所编；此外还有奥尔德法瑟（Oldfather）编的宝贵洛布（Loeb）版（2 卷，1926–28），以及就《论说集》而言的苏伊莱（Souilhé）版（4 卷，1948–65），该版包含法文译本。完整的英译本，除奥尔德法瑟外，还有沃特菲尔德（Waterfield 2022）与哈德（Hard 1995）。后者（本书偶尔征引）是伊丽莎白·卡特（Elizabeth Carter）经典译本（1759）的修订本。多宾（Dobbin 2008）是一个略加节略的版本，附有出色的简短导言与注释。多宾（Dobbin 1998）为《论说集》第一卷的译本提供了更详尽的一般导言与注释。要可靠地了解爱比克泰德的主要思想并对其许多具体观点有所观察，首选的起点是朗（Long 2002）。邦赫费尔（Bonhöffer 1890 与 1894）更详尽的研究，虽在许多点上已被较新的研究所取代，仍保有可观的价值。
+    step2: |-
+      上述诸作的希腊文标准版本为申克尔（Schenkl 1916）所编；又有奥尔德法瑟（Oldfather）编的洛布（Loeb）丛书本，颇为珍贵（2 卷，1926–28）；就《论说集》而言，还有苏伊莱（Souilhé）编本（4 卷，1948–65），附有法文译本。完整的英译本除奥尔德法瑟外，还有沃特菲尔德（Waterfield 2022）与哈德（Hard 1995）。后者（本书偶有征引）是伊丽莎白·卡特（Elizabeth Carter）经典译本（1759）的修订本。多宾（Dobbin 2008）为略加节略的版本，附有出色的简短导言与注释；多宾（Dobbin 1998）则为《论说集》第一卷的译本提供了更详尽的一般导言与注释。要可靠地把握爱比克泰德的主要思想并考察其众多具体论点，首选入门是朗（Long 2002）。邦赫费尔（Bonhöffer 1890 与 1894）的更为详尽的研究，虽在许多方面已被较新的研究超越，仍具可观的价值。
+  - id: 6
+    source: |-
+      The so-called “Golden Sayings” is a later compendium of aphorisms drawn from the *Discourses* and *Encheiridion*.
+    step1: |-
+      所谓的《金言录》（“Golden Sayings”）是后世的一部格言汇编，取材于《论说集》与《手册》。
+    step2: |-
+      所谓《金言录》（Golden Sayings），是后世的一部箴言汇编，辑自《论说集》与《手册》。
+  - id: 7
+    source: |-
+      The essentials of Epictetus’s thought derive from the early or foundational period of Stoicism, from the third-century writings of Zeno of Citium, Cleanthes, and Chrysippus. Treatises he mentions by title include Chrysippus’ *On Choice, On Impulse*, and *On the Possibles*, and he also mentions reading in works by Zeno, Cleanthes, and the second-century Stoics Antipater and Archedemus. Extant reports and fragments of these and other Stoic works are congruent at many points with what we find in him.
+    step1: |-
+      爱比克泰德思想的要旨源自斯多葛主义的早期或奠基时期，即源自基提翁的芝诺（Zeno of Citium）、克勒安忒斯（Cleanthes）与克律西波斯（Chrysippus）的公元前三世纪著作。他提到标题的论著有克律西波斯的《论选择》（*On Choice*）、《论冲动》（*On Impulse*）与《论可能者》（*On the Possibles*），他还提到阅读过芝诺、克勒安忒斯以及公元前二世纪斯多葛派安提帕特（Antipater）与阿尔克德穆斯（Archedemus）的著作。这些以及其他斯多葛著作的现存报道与残篇，在许多点上与我们在他那里所见的相一致。
+    step2: |-
+      爱比克泰德思想的要旨源出斯多葛主义的早期或奠基阶段，即源出基提翁的芝诺（Zeno of Citium）、克勒安忒斯（Cleanthes）与克律西波斯（Chrysippus）在公元前三世纪的著作。他提及其标题的论著有克律西波斯的《论选择》（*On Choice*）、《论冲动》（*On Impulse*）与《论可能者》（*On the Possibles*）；他还提到曾研读芝诺、克勒安忒斯以及公元前二世纪的斯多葛派安提帕特（Antipater）与阿尔克德穆斯（Archedemus）的著作。这些及其他斯多葛著作的现存报道与残篇，在许多方面与我们在他那里所见到的相一致。
+  - id: 8
+    source: |-
+      It may still be the case that he accepts influence from other currents in philosophy, or that he develops some ideas on his own. The clearest instance of such influence concerns Plato, for Epictetus draws much inspiration from the Socrates depicted in Plato’s shorter dialogues. Comparisons can be drawn especially to the Socrates of Plato’s *Gorgias*, with his fondness for argumentative give and take, his willingness to challenge the hearer’s presuppositions, and his optimism about what can be achieved through values clarification. The *Theaetetus* may also have been influential on Epictetus’s thinking about contemplation and the relation of human to divine; see Bénatouïl 2013. Epictetus also knows the Master Argument from Megarian philosophy (3ʳᵈ c. BCE) and even names Diodorus and Panthoides, although this knowledge might easily have been drawn from Stoic treatises on logic (2.19.1–11; see further Barnes 1997 ch. 3 and Crivelli in Scaltsas and Mason 2007)[^barnes-1997][^scaltsas-2007].
+    step1: |-
+      他仍有可能接受哲学其他流派的影响，或者自行发展某些观念。此类影响最清楚的实例涉及柏拉图，因为爱比克泰德从柏拉图较短的对话所刻画的苏格拉底那里汲取了大量灵感。尤其可以与柏拉图《高尔吉亚》（*Gorgias*）中的苏格拉底相比较：他喜爱辩论性的你来我往，愿意挑战听者的预设，并且对通过价值澄清所能达到的东西抱持乐观。《泰阿泰德》（*Theaetetus*）也可能对爱比克泰德关于沉思以及人与神之关系的思考产生影响；见 Bénatouïl 2013。爱比克泰德还知道麦加拉哲学的“主论证”（Master Argument，公元前 3 世纪），甚至提到狄奥多鲁斯（Diodorus）与潘托伊德斯（Panthoides），尽管这一知识很可能来自斯多葛派的逻辑论著（2.19.1–11；另见 Barnes 1997 第 3 章以及 Scaltsas 与 Mason 2007 中 Crivelli 的论文）[^barnes-1997][^scaltsas-2007]。
+    step2: |-
+      他仍可能接受了哲学其他潮流的某些影响，或自行发展出若干观念。此类影响最清晰的实例涉及柏拉图：爱比克泰德从柏拉图较短的对话所刻画的苏格拉底形象中汲取了大量灵感。尤其可以拿柏拉图《高尔吉亚》（*Gorgias*）中的苏格拉底作比——他喜爱辩论中的你来我往，乐于挑战听者的预设，并对通过价值澄清所能实现的东西抱持乐观。《泰阿泰德》（*Theaetetus*）或许也影响了爱比克泰德关于沉思及人神关系的思考；见 Bénatouïl 2013。爱比克泰德还熟悉麦加拉学派的“主论证”（Master Argument，公元前 3 世纪），甚至点名提到狄奥多鲁斯（Diodorus）与潘托伊德斯（Panthoides）；不过这一知识很可能是从斯多葛派的逻辑论著中得来的（2.19.1–11；另见 Barnes 1997 第 3 章，以及 Scaltsas 与 Mason 2007 中 Crivelli 的文章）[^barnes-1997][^scaltsas-2007]。
+  - id: 9
+    source: |-
+      An argument has sometimes been made for Aristotelian influence, primarily because Epictetus’s favored term *prohairesis* (see section 4.3 below) is prominent in *Nicomachean Ethics* 3.1–5 as a quasi-technical term (there usually translated “choice” or “decision”). In particular, Dobbin (1991) has suggested that Epictetus’s use of this term reflects the influence of the early Aristotle commentaries (1ˢᵗ c. BCE-1ˢᵗ c. CE), none of which has survived for our inspection. But neither Aristotle nor any author in the Aristotelian tradition is ever mentioned in the *Discourses*. It is better to make the provisional assumption that his interest in volition derives, like other main elements of his philosophy, from the early Stoa, though with greater emphasis. Although the term *prohairesis* is only barely attested in surviving accounts of early Stoic philosophy, there is some evidence to suggest that it did play a significant role; see Graver 2003.
+    step1: |-
+      有时有人提出亚里士多德影响的论证，主要是因为爱比克泰德偏爱的术语 *prohairesis*（见下文 4.3 节）在《尼各马可伦理学》（*Nicomachean Ethics*）3.1–5 中作为一个准技术术语而突出（在那里通常译为“choice”或“decision”）。尤其是多宾（Dobbin 1991）提出，爱比克泰德使用这一术语反映了早期亚里士多德注疏家（公元前 1 世纪至公元 1 世纪）的影响，这些注疏没有一部存留至今可供我们查验。但在《论说集》中从未提到亚里士多德或亚里士多德传统中的任何作者。更好的做法是作出临时性假设：他对意愿的兴趣，像他的哲学其他主要要素一样，源自早期斯多葛派，尽管带有更大的强调。尽管 *prohairesis* 一词在早期斯多葛哲学的现存记述中仅有微弱的证明，但有一些证据表明它确实发挥了重要作用；见 Graver 2003。
+    step2: |-
+      有时有人论证亚里士多德的影响，主要依据是：爱比克泰德偏爱的术语 *prohairesis*（见下文 4.3 节）在《尼各马可伦理学》（*Nicomachean Ethics*）3.1–5 中作为一个准技术术语十分突出（该处通常译作“choice”或“decision”）。尤其是多宾（Dobbin 1991）提出，爱比克泰德对这一术语的运用，反映了早期亚里士多德注疏家（公元前 1 世纪至公元 1 世纪）的影响；这些注疏没有一部留存下来可供我们查验。然而，《论说集》从未提及亚里士多德本人，也未提及亚里士多德传统中的任何作者。因此较妥当的做法是作一临时假设：他对意愿的兴趣，与其哲学的其他主要要素一样，源自早期斯多葛派，尽管被赋予更大的强调。虽然 *prohairesis* 一词在早期斯多葛哲学现存的记述中仅勉强有据，但确有迹象表明它曾发挥重要作用；见 Graver 2003。
+  - id: 10
+    source: |-
+      Epictetus never refers by name to the second century BCE Stoics Panaetius and Posidonius, and although he has something in common with Panaetius’s reported interest in practical ethics and role-based responsibilities, the evidence hardly suffices for an influence claim. References to other philosophers or schools are only in passing. He is impressed with Cynicism, but sees it as a vocation to itinerant teaching and bare-bones living rather than as a body of doctrine (3.22). Epicureanism he identifies with the pleasure principle and accordingly despises (3.7).
+    step1: |-
+      爱比克泰德从未指名提到公元前二世纪的斯多葛派帕奈提乌斯（Panaetius）与波西多尼乌斯（Posidonius），尽管他与帕奈提乌斯所报道的对于实践伦理学与角色责任的兴趣有某些共同之处，但证据不足以支持影响的主张。对其他哲学家或学派的提及只是顺带。他对犬儒主义印象深刻，但将其视为一种巡回教学与清苦生活的天职，而非一套学说（3.22）。他把伊壁鸠鲁主义等同于快乐原则，并因此加以鄙视（3.7）。
+    step2: |-
+      爱比克泰德从未指名提及公元前二世纪的斯多葛派帕奈提乌斯（Panaetius）与波西多尼乌斯（Posidonius）。尽管他与帕奈提乌斯所记载的对实践伦理学与角色化责任的兴趣不无共同之处，但证据尚不足以支持一种影响的主张。对其他哲学家或学派的提及只是顺带为之。他对犬儒主义印象深刻，却把它看作巡回传道与清苦生活的志业，而非一套教义（3.22）。他把伊壁鸠鲁主义等同于快乐原则，因而加以鄙弃（3.7）。
+  - id: 11
+    source: |-
+      Any effort to come to grips with Epictetus’s thought must proceed from an awareness of his chosen objectives. The philosopher we meet in the *Discourses* seeks above all to foster ethical development in others, keeping his personal intellectual satisfaction strictly subordinate. Consequently we possess no point-by-point exposition of his views. The themes he regards as most difficult for students to internalize appear repeatedly and are developed and expanded in many different ways. Other issues he either treats sporadically—even if passing references suggest he has knowledge of them—or omits altogether, if he regards them as inessential to moral development. His apparent inclination to hold back some of his thinking, as well as the incomplete condition in which the *Discourses* have been transmitted to us, make it quite unsafe to draw any assumption about his views from silences or gaps in the account we have. On the other hand, the recursive manner of presentation makes it unlikely that the non-extant volumes broached any entirely new themes.
+    step1: |-
+      任何试图把握爱比克泰德思想的努力都必须从对他所选目标的意识出发。我们在《论说集》中遇到的这位哲学家，首先致力于促进他人的伦理发展，将个人的理智满足严格地置于从属地位。因此我们对其观点没有逐点的阐述。他认为学生最难内化的那些主题反复出现，并以许多不同方式得到发展与扩充。其他问题他要么偶一处理——即便顺带的提及表明他了解它们——要么完全略去，如果他视之为对道德发展并非本质的话。他显然倾向于保留自己的一些思想，加上《论说集》传至我们的不完整状态，使得从他的沉默或我们所载记述的空白中推断他的观点非常不安全。另一方面，递归式的呈现方式使得不存在的卷次不大可能提出任何全新的主题。
+    step2: |-
+      任何要把握爱比克泰德思想的努力，都须从他自觉选择的目标入手。《论说集》中我们遇到的这位哲学家，首先致力于促成他人的伦理成长，而将个人智识上的满足严格置于从属。因此，我们得不到对他观点的逐点阐述。他认为学生最难内化的主题反复出现，并以诸多不同方式得到展开与扩充。至于其他问题，他要么偶尔触及——即使顺带提及表明他对此有所知——要么全然略去，前提是他视之为道德成长所非必需。他明显倾向留存一部分思想，加之《论说集》传世状态的不完整，都使得从其沉默或所述记述的空白中推断其观点颇为不妥。另一方面，其递归式的呈现方式，又使不存卷次触及全新主题的可能性不大。
+  - id: 12
+    source: |-
+      Interpreters must be careful not to prejudge the question of Epictetus’s relation to earlier Greek philosophy. While it is evident that his principal contentions are substantially related to earlier philosophical developments, claims concerning his relation to the earlier Stoics, or possible philosophical innovations or shifts of emphasis, must be governed by a healthy respect for the fragmentary nature of our sources. We possess no record of the oral teaching that took place in the Hellenistic Stoa that is comparable in scope to his. Where corroborating evidence exists in literary or doxographical works, we are justified in describing his views as reformulations of the Stoic tradition; otherwise the question of continuity should generally be left open.
+    step1: |-
+      诠释者必须小心，不要预先判定爱比克泰德与早期希腊哲学的关系这一问题。尽管他的主要论点显然与早期哲学发展有实质关联，但关于他与早期斯多葛派的关系、或可能的哲学创新或重点转移的主张，必须受对我们资料之零散性质的恰当尊重所支配。我们没有一份可与他的教学规模相当的、发生于希腊化时期斯多葛派中的口头教学的记录。凡在文学或学说汇编著作中存在确证证据之处，我们才有理由把他的观点描述为斯多葛传统的重述；否则，连续性问题一般应保持开放。
+    step2: |-
+      诠释者须谨防预先判定爱比克泰德与早期希腊哲学的关系。他的主要论点显然与早期的哲学进展有实质关联；但有关他与早期斯多葛派的关系、或可能的哲学创新或侧重点转移的主张，都须对我们资料的零散性质保持恰当的敬意。我们没有一份与他规模相当的、希腊化时期斯多葛派内部口头教学的记录。凡在文学或学说汇编著作中有旁证之处，我们才有理由把他的观点描述为斯多葛传统的重新表述；否则，连续性问题通常应保持悬而未决。
+  - id: 13
+    source: |-
+      The linchpin of Epictetus’s entire philosophy is his account of what it is to be a human being; that is, to be a rational mortal creature. “Rational” as a descriptive term means that human beings have the capacity to “use impressions” in a reflective manner. Animals, like humans, use their impressions of the world in that their behavior is guided by what they perceive their circumstances to be. But human beings also examine the content of their impressions to determine whether they are true or false; we have the faculty of “assent” (1.6.12–22).
+    step1: |-
+      爱比克泰德全部哲学的枢纽在于他对“作为人意味着什么”的说明；也就是说，做一个理性的、会死的造物。“理性的”（rational）作为一个描述性术语，意味着人类有能力以反思的方式“使用印象”。动物与人一样使用他们对世界的印象，因为它们的行止由它们所感知到的自身处境所引导。但人类还考察其印象的内容，以确定其为真为假；我们拥有“同意”（assent）的官能（1.6.12–22）。
+    step2: |-
+      爱比克泰德全部哲学的枢纽，是他关于“成为人意味着什么”的说明——亦即成为一个理性而必死的造物。“理性的”作为一个描述性术语，意指人类有能力以反思的方式“运用印象”。动物与人一样，使用其关于世界的印象，因为它们的行动受其对手处境之所感所引导。但人类还审查其印象的内容，以判定其真伪；我们拥有“同意”的官能（1.6.12–22）。
+  - id: 14
+    source: |-
+      Assent is regulated by our awareness of logical consistency or contradiction between the proposition under consideration and beliefs that we already hold: when we are not aware of any contradiction, we assent readily, but when we perceive a conflict we are strongly constrained to reject one or the other of the conflicting views (2.26.3). Thus Medea kills her children because she believes it is to her advantage to do so; if someone were to show her clearly that she is deceived in this belief, she would not do it (1.28.8). Our hatred of being deceived, our inability to accept as true what we clearly see to be false, is for Epictetus the most basic fact about human beings and the most promising (1.28.1–5).
+    step1: |-
+      同意受我们对所考虑命题与我们已持信念之间的逻辑一致或矛盾的意识所调节：当我们意识不到任何矛盾时，我们欣然同意；但当我们察觉冲突时，我们被强烈约束着要拒斥两种冲突观点中的一种（2.26.3）。因此美狄亚杀死她的孩子，因为她相信这样做对她有利；若有人清楚地向她表明她在这一信念上受骗，她就不会那样做（1.28.8）。我们对受骗的憎恨、我们无法把清楚看到为假的东西接受为真，在爱比克泰德看来是关于人类的最基本、也最有希望的事实（1.28.1–5）。
+    step2: |-
+      同意受我们意识到的、所考虑命题与已持有信念之间逻辑上的一致或矛盾所调节：当我们未察觉任何矛盾时，便欣然同意；可一旦察觉冲突，我们便强烈受到约束，须在两种冲突观点中拒斥其一（2.26.3）。于是美狄亚杀死自己的孩子，因为她相信这样做对她有利；倘若有人清楚地向她表明她在这一信念上受了蒙骗，她便不会这样做（1.28.8）。我们对受骗的憎恶、我们无法把清楚看见为假的东西信以为真，在爱比克泰德看来，是关于人类最根本也最有希望的事实（1.28.1–5）。
+  - id: 15
+    source: |-
+      Epictetus situates the rationality of the human being within a maximally rational universe. His confidence in the fundamental orderliness of all things is expressed in frequent references to Zeus or “the god” as the designer and administrator of the universe. There seems to be no question of competition with any other deities or powers. Epictetus does sometimes speak, conventionally for a Greek, of “gods” in the plural, but Zeus remains unquestionably supreme: he enjoys having some company, just as we do (3.13.4), but does not require assistance and cannot be opposed.
+    step1: |-
+      爱比克泰德把人的理性置于一个最大限度理性的宇宙之中。他对万物根本有序性的信心，表达于他频繁地提到宙斯或“神”作为宇宙的设计者与管理者。似乎不存在与其他任何神祇或力量竞争的问题。爱比克泰德有时确会——按希腊人的惯例——以复数谈论“诸神”，但宙斯仍无可争辩地至高无上：他喜欢有一些同伴，正如我们一样（3.13.4），但他不需要协助，也不会被反对。
+    step2: |-
+      爱比克泰德将人的理性安放于一个至为理性的宇宙之中。他对万物根本秩序性的信心，体现在他屡屡把宙斯或“神”称为宇宙的设计者与管理者。似乎谈不上与其他神祇或力量分庭抗礼。爱比克泰德有时确会——按希腊人的习俗——以复数说起“诸神”，但宙斯始终无可争议地至高无上：他喜欢有些同伴，正如我们一样（3.13.4），却不需人相助，亦无人能违抗。
+  - id: 16
+    source: |-
+      Immanent rather than transcendent, Zeus inheres in, and may indeed be identified with, the natural order. As such he is in theory fully accessible to human comprehension in the same way as all objects and events are accessible to our comprehension. With effort, rational beings can come to understand Zeus as a person, a rational being with thoughts and intentions like ours. That recognition inspires awe and gratitude, a “hymn of praise” that it is our duty to offer in each occasion of life (1.16.19).
+    step1: |-
+      宙斯是内在的而非超越的，他内在于自然秩序，甚至可能等同于自然秩序。正因如此，他在理论上完全可为人类理解所及，正如一切对象与事件都为我们理解所及一样。凭借努力，理性存在能够把宙斯理解为一个位格，一个与我们一样有思想与意向的理性存在。这种认识激起敬畏与感恩，即我们负有义务在生命的每一个场合献上的“赞美之歌”（1.16.19）。
+    step2: |-
+      宙斯是内在而非超越的；他内在于自然秩序，甚至可与自然秩序视为同一。正因如此，他在原则上完全能为人类所理解，正如一切对象与事件都能为我们所理解一样。凭着努力，理性存在者能够把宙斯领会为一位人格，一位与我们一样怀有思想与意向的理性存在者。这一领会唤起敬畏与感恩，也就是我们有义务在人生每个场合献上的“赞美颂歌”（1.16.19）。
+  - id: 17
+    source: |-
+      God is the creator of humankind as of all else, and his attitude toward us is one of complete benevolence. It is by his gift that we are rational beings, and our rational nature qualifies us as his kindred. More: our minds are actually fragments of Zeus’s mind, “parts and offshoots of his own being” (1.14.6, 2.8.10–12). When we make choices on our own account, we exercise the very same power as governs the universe. Hence it can be said that Zeus has ceded to us a portion of his governance (1.1.12).
+    step1: |-
+      神是人类的创造者，正如他创造一切其他事物一样，他对我们的态度是完全的仁慈。正是出于他的恩赐，我们才是理性的存在，而我们的理性本性使我们有资格作为他的亲属。更有甚者：我们的心智实际上是宙斯心智的碎片，是“他自己的存在的部分与枝条”（1.14.6, 2.8.10–12）。当我们自行作出选择时，我们行使的正是治理宇宙的同一个力量。因此可以说，宙斯已让渡给我们一部分他的治理（1.1.12）。
+    step2: |-
+      神是人类的创造者，也创造其余一切；他对我们的态度全然仁慈。正是凭他的恩赐，我们才是理性的存在者，而我们的理性本性使我们有资格成为他的亲属。不仅如此：我们的心灵实际上是宙斯心灵的碎片，是他“自身存在的部分与枝裔”（1.14.6, 2.8.10–12）。当我们自行作出抉择时，我们行使的正是统御宇宙的那同一力量。因而可以说，宙斯已把他治理的一部分让予我们（1.1.12）。
+  - id: 18
+    source: |-
+      It is, again, the capacity for choice that makes us accountable for our own actions and states. Epictetus is particularly fond of exploring the implications of this essentially Stoic conception. In studying his usage it is helpful to remember that his favored term *prohairesis* refers more often to the capacity for choice than it does to particular acts of choosing. The word is variously translated; the rendering “volition” is adopted here as in Long 2002.
+    step1: |-
+      同样地，正是选择的能力使我们为自己的行动与状态负责。爱比克泰德特别喜爱探究这一本质上属于斯多葛派的概念的意涵。在研究他的用法时，记住以下一点是有帮助的：他偏爱的术语 *prohairesis* 更常指选择的能力，而非指个别选择行为。这个词有各种译法；此处采用“意愿”（volition）这一译法，与 Long 2002 相同。
+    step2: |-
+      同样，正是选择的能力，使我们为自己的行动与状态负责。爱比克泰德尤其喜欢探究这一本质上属斯多葛派的概念所蕴含的种种意涵。研究其用法时，记住以下一点颇有助益：他偏爱的术语 *prohairesis* 更多指称选择的能力，而非个别的选择行为。该词有多种译法；此处采取“意愿”（volition）这一译法，与 Long 2002 一致。
+  - id: 19
+    source: |-
+      Volition, Epictetus argues, is “by nature unimpeded” (1.17.21), and it is for this reason that freedom is for him an inalienable characteristic of the human being. The very notion of a capacity to make one’s own decisions implies as a matter of logical necessity that those decisions are free of external compulsion; otherwise they would not be decisions. But humans do have such a capacity and are thus profoundly different from even the higher animals, which deal with impressions merely in an unreflective way (2.8).
+    step1: |-
+      爱比克泰德论证，意愿“在本性上不受阻碍”（1.17.21），正因如此，自由在他那里是人类不可剥夺的特征。作出自身决定的能力这一概念本身，作为逻辑必然性，蕴含这些决定不受外部强制；否则它们就不是决定。但人类确实拥有这种能力，因而与即便是较高等的动物也深刻不同，后者仅仅以非反思的方式处理印象（2.8）。
+    step2: |-
+      爱比克泰德论证说，意愿“在本性上不被阻碍”（1.17.21）；正因如此，自由在他看来是人类不可让渡的特征。能够自行作出决定这一观念本身，便以逻辑必然性蕴含这些决定不受外在强制；否则它们便不成其为决定。而人类确实拥有这种能力，因此与即使是高等动物也迥然不同——后者只是以非反思的方式对待印象（2.8）。
+  - id: 20
+    source: |-
+      It is the volition that is the real person, the true self of the individual. Our convictions, attitudes, intentions and actions are truly ours in a way that nothing else is; they are determined solely by our use of impressions and are thus internal to the sphere of volition. The appearance and comfort of one’s body, one’s possessions, one’s relationships with other people, the success or failure of one’s projects, and one’s power and reputation in the world are all merely contingent facts about a person, features of our experience rather than characteristics of the self. These things are all “externals”; that is, things external to the sphere of volition.
+    step1: |-
+      正是意愿才是真正的人，是个体的真实自我。我们的信念、态度、意向与行动，以其他任何东西都不具备的方式真正属于我们；它们完全由我们对印象的使用所决定，因而内在于意愿的领域。一个人身体的外貌与舒适、他的财产、他与他人的人际关系、他事业的成败、他在世上的权势与名声，都只是关于一个人的偶然事实，是我们经验的特征而非自我的特征。这些东西全都是“外在物”（externals）；也就是说，是意愿领域之外的东西。
+    step2: |-
+      正是意愿，才是个体真正的人、真实的自我。我们的信念、态度、意向与行动，都以别的东西所不具备的方式真正属于我们；它们完全由我们对印象的运用所决定，因而内在于意愿的领域。一个人身体的外貌与安逸、他的财产、他与他人之间的关系、他事业的成败、他在世上的权势与名望，都只是关于这个人的偶然事实，属于我们经验的特征，而非自我的特征。这些全都是“外在物”；也就是说，是意愿领域之外的东西。

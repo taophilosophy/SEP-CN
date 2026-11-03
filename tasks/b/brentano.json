@@ -1,0 +1,22 @@
+{
+  "slug": "brentano",
+  "kind": "retranslate",
+  "zh_doc": "b/brentano.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:51Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:55Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 30, 2019",
+    "archive_edition": "Spring 2019",
+    "sha256": "7b5066f431d73e1652bc1cba933b9ffd010b861a96e6728324ea488571225c0b"
+  }
+}

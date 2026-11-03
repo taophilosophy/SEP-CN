@@ -1,0 +1,22 @@
+{
+  "slug": "bentham",
+  "kind": "retranslate",
+  "zh_doc": "b/bentham.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:42Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:47Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 13, 2026",
+    "archive_edition": "Spring 2026",
+    "sha256": "bb43254959bd063d23c12725165e6afdd0c1c1878e39af8ec0f942a129c93ac2"
+  }
+}

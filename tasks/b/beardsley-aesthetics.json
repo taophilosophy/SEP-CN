@@ -1,0 +1,22 @@
+{
+  "slug": "beardsley-aesthetics",
+  "kind": "retranslate",
+  "zh_doc": "b/beardsley-aesthetics.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:39Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:44Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 28, 2022",
+    "archive_edition": "Fall 2024",
+    "sha256": "8b498e949dd6e17d62f15a683472be858e7c1aa04a98a123254127e148a32756"
+  }
+}

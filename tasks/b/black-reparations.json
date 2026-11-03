@@ -1,0 +1,22 @@
+{
+  "slug": "black-reparations",
+  "kind": "retranslate",
+  "zh_doc": "b/black-reparations.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:16:02Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:58Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 13, 2022",
+    "archive_edition": "Summer 2024",
+    "sha256": "30f4bd6e95279a7ada95176a5f587ecf781d2c01e7ac7ba640d667db196f3dd3"
+  }
+}

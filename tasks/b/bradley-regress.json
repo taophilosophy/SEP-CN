@@ -1,0 +1,22 @@
+{
+  "slug": "bradley-regress",
+  "kind": "retranslate",
+  "zh_doc": "b/bradley-regress.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:51Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:54Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 31, 2025",
+    "archive_edition": "Spring 2025",
+    "sha256": "7b105240a3ca3f2d13895d6d9d32cc232e1190b1e86938f2c13a0150ff6973fd"
+  }
+}

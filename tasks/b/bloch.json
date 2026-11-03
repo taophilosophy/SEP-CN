@@ -1,0 +1,22 @@
+{
+  "slug": "bloch",
+  "kind": "retranslate",
+  "zh_doc": "b/bloch.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:15:59Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:56Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 25, 2023",
+    "archive_edition": "Fall 2025",
+    "sha256": "903ca345a7e3e4499ab83a7f40434ceb84fa7c40de44646e6a3a988328a17efa"
+  }
+}

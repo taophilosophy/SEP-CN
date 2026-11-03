@@ -1,0 +1,22 @@
+{
+  "slug": "biomedicine",
+  "kind": "retranslate",
+  "zh_doc": "b/biomedicine.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:46Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:49Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 15, 2025",
+    "archive_edition": null,
+    "sha256": "4fece86f983a77664ceee1861262017d70542f378ba4cf6bd790b1f7bb97c609"
+  }
+}

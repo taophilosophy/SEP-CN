@@ -1,0 +1,22 @@
+{
+  "slug": "bell-theorem",
+  "kind": "retranslate",
+  "zh_doc": "b/bell-theorem.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:41Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:46Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 25, 2024",
+    "archive_edition": "Spring 2024",
+    "sha256": "48cb0b0c3d0031ccfc450a0e51be7bcef3960760bb9a1e4de5a5c187639a376f"
+  }
+}

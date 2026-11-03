@@ -1,0 +1,22 @@
+{
+  "slug": "biology-developmental",
+  "kind": "retranslate",
+  "zh_doc": "b/biology-developmental.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:01:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T10:00:48Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 31, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "9b465ecb9ee61603fa951e47e50154d483717df441a4ec21df8d8f03c7ac2cb0"
+  }
+}

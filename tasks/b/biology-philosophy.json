@@ -1,0 +1,22 @@
+{
+  "slug": "biology-philosophy",
+  "kind": "retranslate",
+  "zh_doc": "b/biology-philosophy.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T04:16:01Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-01T04:14:58Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 19, 2024",
+    "archive_edition": "Winter 2024",
+    "sha256": "d0cb854a374db7230d7ccfef0c01ec46feb7de7c58d13c985814a52204966210"
+  }
+}
