@@ -2,6 +2,8 @@
 
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
+|a priori|先天（康德传统；与“先验”transzendental 相区分）||
+|a priori knowledge|先天知识||
 |Abelard Peter|彼得·阿伯拉尔||
 |abilities|能力||
 |Abrabanel, Judah|犹大·莱昂·阿布拉瓦内尔||
@@ -42,6 +44,7 @@
 |Bauer, Bruno|布鲁诺·鲍威尔||
 |Bayle, Pierre|皮埃尔·培尔||
 |Bedeutung|意义|弗雷格语境；亦作“意谓”|
+|being|存在（分析传统通行；亦作“是者”“有”）||
 |belief formation|信念形成|认识论|
 |Benjamin Franklin|本杰明·富兰克林|美国启蒙|
 |Bergson, Henri|亨利·柏格森||
@@ -59,8 +62,10 @@
 |care ethics|关怀伦理|审定直接命中（新闻传播学域）|
 |Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
 |Cassirer, Ernst|恩斯特·卡西尔||
+|category|范畴||
 |Catharine MacKinnon|凯瑟琳·麦金农|激进女性主义法学|
 |causal influence|因果影响|佐证审定“因果性”|
+|causality|因果性||
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
 |Celestial Masters|天师道|道教天师道；审定“天师”佐证|
 |certainty|确定性||
@@ -77,11 +82,14 @@
 |cognitio|认知（经院拉丁术语）||
 |cognitive science|认知科学||
 |common good|公共善|亦作“共同善”；政治哲学|
+|concept|概念||
 |conceptual art|观念艺术||
 |concrete objects|具体对象|与抽象对象相对|
 |conditional analysis|条件分析、条件句分析|能力哲学|
 |Confucius|孔子||
+|consciousness|意识||
 |constitutive aim|构成性目的|行动哲学（belief 的 aim 之辩）|
+|contingency|偶然性||
 |Conway, Lady Anne|安妮·康威||
 |Copernicus, Nicolaus|尼古拉·哥白尼||
 |Cordemoy, Géraud de|热罗·德·科尔德穆瓦||
@@ -105,6 +113,7 @@
 |Derk Pereboom|德克·佩雷布姆||
 |Desgabets, Robert|罗伯特·戴加贝||
 |dharma|法|佛教语境；亦作“达摩”|
+|dialectic|辩证法||
 |diffeomorphism|微分同胚|广义相对论哲学；物理学通行|
 |différance|延异|德里达定译|
 |Dionysius the Areopagite|亚略巴古的狄奥尼修斯|即“伪狄奥尼修斯”；教父学|
@@ -129,18 +138,22 @@
 |Ernest Sosa|欧内斯特·索萨|德性知识论|
 |Ernst Mayr|恩斯特·迈尔||
 |Ernst Zermelo|恩斯特·策梅洛|集合论（策梅洛公理）|
+|essence|本质||
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
 |evolution|进化||
 |evolutionary epistemology|进化认识论|审定名词（自然辩证法·科学哲学）|
+|existence|存在||
 |existentialist aesthetics|存在主义美学||
 |expected utility|期望效用|审定名词（管理科学）|
 |external world|外部世界|认识论|
 |extramural speech|校外言论|学术自由词条核心|
 |first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
+|form|形式（亚里士多德 eidos 语境）||
 |Four Dimensionalism|四维主义|形而上学（刘易斯）|
 |frame problem|框架问题||
 |Frankfurt School|法兰克福学派|审定名词（新闻传播学）|
 |Fred Dretske|弗雷德·德雷斯基|知识论与心灵哲学|
+|free will|自由意志||
 |Freedom|自由|审定名词在案；学界通行同形|
 |Friedrich Schiller|弗里德里希·席勒|美学书简|
 |Friedrich Schleiermacher|弗里德里希·施莱尔马赫|诠释学/浪漫主义|
@@ -185,6 +198,7 @@
 |Hutcheson, Francis|弗兰西斯·哈奇森||
 |Hypothetical Reasoning|假说推理|皮尔士溯因语境|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
+|idea|理念（柏拉图-黑格尔传统）；观念（经验论语境）||
 |identity politics|身份政治||
 |identity relation|同一关系|逻辑学/形而上学|
 |imaginative resistance|想象性抗拒||
@@ -196,6 +210,7 @@
 |intentional action|意向行动|行动哲学核心|
 |intentional inexistence|意向内的存在|布伦塔诺|
 |intrinsic value|内在价值|审定名词（自然辩证法·技术哲学）|
+|intuition|直观（康德传统；日常语境亦作“直觉”）||
 |intuitive knowledge|直觉知识|认识论；审定“良知”为异域同名不采|
 |James Ward|詹姆斯·沃德||
 |Japanese aesthetics|日本美学||
@@ -217,6 +232,7 @@
 |manifold of events|事件流形|时空哲学|
 |Masham, Lady Damaris|达玛里斯·库德沃斯·马沙姆||
 |Massive Modularity Hypothesis|大规模模块性假说|Carruthers 心灵架构理论|
+|matter|质料（亚里士多德 hylê 语境；近代物理语境译“物质”）||
 |matter field|物质场|物理学通行|
 |maximal act-set|极大行动集|A批正文定案；审定“极大集”数学域佐证|
 |Maximalism|极大主义|actualism-possibilism 语境|
@@ -225,13 +241,19 @@
 |Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
 |Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
 |Mill, Harriet Taylor|哈丽雅特·泰勒·密尔||
+|mind|心灵（当代心灵哲学；黑格尔 Geist 语境译“精神”）||
 |modal analysis|模态分析|能力哲学（与条件分析相对）|
 |modi significandi|意指样式（摩迪斯泰语法）||
+|moral law|道德法则（康德）||
+|necessity|必然性||
 |Negative Magnitudes|负量（康德《负量概念试论》）|康德前批判期著作|
 |Norman Daniels|诺曼·丹尼尔斯||
 |Norman Malcolm|诺曼·马尔科姆||
 |observable|可观测量|物理学/科学哲学通行|
 |ontological argument|本体论论证||
+|ontology|本体论（通行；亦作“存在论”）||
+|particular|殊相；特殊||
+|perception|知觉||
 |personal identity|人格同一性||
 |Peter Kivy|彼得·基维||
 |pneuma|普纽玛||
@@ -239,6 +261,9 @@
 |Possibilism|可能论|模态形而上学（与现实主义相对）|
 |practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
 |Protestant Reformation|新教改革|宗教改革|
+|quality|性质||
+|quantity|量||
+|reason|理性||
 |retinal image|视网膜像|视觉科学；审定复合佐证|
 |Richard Boyd|理查德·博伊德||
 |Richard Fitzralph|理查德·菲茨拉尔夫||
@@ -249,8 +274,10 @@
 |Saṃdhinirmocana Sūtra|《解深密经》|佛典译名（玄奘译本通行）|
 |Samuel Scheffler|塞缪尔·谢弗勒||
 |scientia|知识（经院拉丁术语）||
+|self-consciousness|自我意识||
 |Shaun Nichols|肖恩·尼科尔斯||
 |Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
+|soul|灵魂||
 |spacetime substantivalism|时空实体论|与时空关系论相对|
 |specific ability|特定能力、特殊能力|能力哲学（与一般能力相对）|
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
@@ -258,10 +285,17 @@
 |Stuart Hampshire|斯图尔特·汉普希尔||
 |Supreme Ultimate|太极|审定直接命中（中国古代史/自然辩证法）|
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
+|telos|目的（终极目的）||
 |Ten Wings|十翼|易经 Commentary；审定异域不采|
+|the One|太一（普罗提诺 to hen）||
+|thing-in-itself|物自体（康德；亦作“自在之物”）||
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
+|transcendental|先验（康德术语 transzendental）||
 |Trolley Problem|电车难题||
+|understanding|知性（康德 Verstand；日常语境译“理解”）||
+|universal|共相（中世纪-黑格尔传统）||
 |violinist case|小提琴家案例|汤姆森思想实验|
+|virtue|德性（古希腊伦理学传统；亦作“美德”）||
 |Ward, James|詹姆斯·沃德||
 |William Paley|威廉·佩利||
 |Wittgensteinian Fideism|维特根斯坦式信仰主义|Kai Nielsen/D.Z. Phillips 论辩|
