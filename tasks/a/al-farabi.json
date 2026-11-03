@@ -2,7 +2,7 @@
   "slug": "al-farabi",
   "kind": "retranslate",
   "zh_doc": "a/al-farabi.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:10:05Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T16:47:38Z",
+      "evidence": "全量翻译完成：以 yuanwen/a/al-farabi.md 为底稿从头翻译 6383 汉字（导言+八节：科学的列举/语言/逻辑学/数学与音乐/物理学/形而上学/伦理学与政治学/结论），体例按 fan-yi-mu-ban"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T16:47:39Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：导言（生平/两大兴趣/研究现状）1 科学的列举（亚里士多德科学次序/年代学困难）2 语言（字母书/音乐服务言语）3 逻辑学（未来偶然/修辞与诗学归入逻辑/论证-辩证-修辞三种话语/经验性第一原理）4 数学与音乐（天文学与宇宙论/音乐大书/节奏记谱/经验原理）5 物理学（虚空实验/驳盖伦/论理智与流逸vs抽象之争）6 形而上学（亚里士多德形而上学宗旨/一与统一/字母书/完善城与政治体制/施特劳斯派争论）7 伦理学与政治学（佚失尼各马可注疏/安达卢西亚报告/幸福之获取/柏拉图法律篇摘要/调和真实性与施特劳斯- Genequand-Cherni 争论）8 结论全节对应"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T16:47:39Z",
+      "evidence": "check_prose 29→26：实修 3 处（横跨+指明 20、确有抽象 50、实有和谐 72）；余 26 条逐条豁免：14 de-chain 为自然中文或术语链（流溢/教义学/本体论），11 长句为源文等长（Rudolph/Janos/Gutas 学术引注句），1 被动为自然中文"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T16:47:39Z",
+      "evidence": "check_style 0 issue（阿拉伯转写 Ihsāʾ al-ʿulūm 用 Unicode 修饰字母替代引号字符；法文撇号 lʼauthenticité 同理）；check_math 0；check_academic --strict 0 硬错误"
     }
   ],
   "blockers": [],
