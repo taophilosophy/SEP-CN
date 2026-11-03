@@ -2,7 +2,7 @@
   "slug": "richard-sophister",
   "kind": "retranslate",
   "zh_doc": "r/richard-sophister.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:22:26Z",
       "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue；check_academic --docs --strict 0 硬错误（非存根 1，在途豁免 1）；check_math 0 missing/unbalanced；markdownlint-cli2 0 issue——发现并修复 compose 系共性缺陷：H1 与 pubinfo 间缺空行（MD022，模板 §4 骨架本有空行；收口件 kokugaku 同缺陷存续，属管线级债，登记待回修）；check_terms 定点 0 缺译 + 存量 Valla 冲突已修弱势方（词汇表对齐人名表）；检查器只报告不修复原则遵守，修改均人工逐处"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:23:40Z",
+      "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：段 1-22+注 1-18 以 yuanwen 镜像为底逐句回读，重点核方向/模态/指代（substitute X for Y、all that the distinction amounts to、in none of these is it clear 三处易倒句均与源一致）；结构完整性按源节集合验收（导语+3 编号节+脚注+参考文献+学术工具+其他网络资源+相关词条，无致谢——源无则省）；版本事实行与 baseline pubinfo 一致；发现 0 问题。复核独立性安排：r2=独立 agent（初译外执行，进行中），r3 终审前冷置（做下一词条后再回读）"
     }
   ],
   "blockers": [],
