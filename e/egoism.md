@@ -140,7 +140,7 @@ Parfit 1984 第二至三部分重新激活了关于理性利己主义的辩论�
 
 第二，理性利己主义可能受到某些人格同一性观点的挑战。假设我的一半大脑将被移植到另一个身体 *A*。我的旧身体将被销毁。*A* 将有我的记忆、特质与目标。我似乎有理由特别关心 *A*，甚至可以说 *A* 与我是同一的。现在假设我的一半大脑进入 *B*，另一半进入 *C*。同样 *B* 和 *C* 将有我的记忆、特质与目标。我似乎有理由特别关心 *B* 和 *C*。但 *B* 和 *C* 不能与我是同一的，因为它们彼此不同一（它们各自过不同的生活）。所以我的关怀的根据不是同一性，而是通过记忆等形成的心理联结。即使在 *A* 的情形中，我的关怀的根据也是这些联结，而非同一性：我与 *A* 的关系与我与 *B*（或 *C*）的关系是一样的，所以使我对 *A* 产生关怀的东西也使我对 *B*（或 *C*）产生关怀——而那不可能是同一性。（以另一种方式表述这一点——我不会采取措施确保 *B* 和 *C* 中只有一个实现。）如果是这样，我不必特别关心某些未来的自我，因为它们将不与我保持这些联结。而我确实有理由特别关心现在与我保持这些联结的其他人。
 
-一个疑虑是心理连续性可能替代同一性。设 *F*₁ 和 *F*₂ 在心理上 **相连**，因为（例如）**F** ₂ 有对 **F** ₁ 经验的记忆。又设 **F** ₃ 有对 **F** ₂ 经验的记忆但没有对 **F** ₁ 的记忆。**F** ₁ 和 **F** ₃ 在心理上 **连续**，虽然不在心理上相连。（Parfit 的观点是：如果特殊关怀有根据的话，心理联结与连续性都构成其根据。）在上述情形中，**A*、*B** 和 **C* 与我是连续的。利己主义者可以声称仅连续性就对特殊关怀重要；这与那些情形吻合。如果是这样，我确实有理由特别关心所有与我连续的未来自我，而没有理由特别关心其他不与我连续的人。（关于这一点以及对 Parfit 的其他疑虑，见 Brink 1992, Johnston 1997, Hills 2010 111–116。）[^brink-1992][^johnston-1997][^hills-2010]
+一个疑虑是心理连续性可能替代同一性。设 *F*₁ 和 *F*₂ 在心理上 **相连**，因为（例如）*F*₂ 有对 *F*₁ 经验的记忆。又设 *F*₃ 有对 *F*₂ 经验的记忆但没有对 *F*₁ 的记忆。*F*₁ 和 *F*₃ 在心理上 **连续**，虽然不在心理上相连。（Parfit 的观点是：如果特殊关怀有根据的话，心理联结与连续性都构成其根据。）在上述情形中，*A*、*B* 和 *C* 与我是连续的。利己主义者可以声称仅连续性就对特殊关怀重要；这与那些情形吻合。如果是这样，我确实有理由特别关心所有与我连续的未来自我，而没有理由特别关心其他不与我连续的人。（关于这一点以及对 Parfit 的其他疑虑，见 Brink 1992, Johnston 1997, Hills 2010 111–116。）[^brink-1992][^johnston-1997][^hills-2010]
 
 Parfit 可以回答说，连续性可能不足以构成特殊关怀。不清楚 *F*₁ 是否有理由特别关心 *F*₃——*F*₃ 可能像一个陌生人，甚至可能是一个不讨人喜欢的陌生人。年轻时，有些人为变成一个他们现在不会喜欢的人而担忧。他们看不到为这个未来的人提供特殊关怀的理由。这种担忧是有道理的，但如果连续性足以构成特殊关怀，它就没有道理了。如果是这样，也许连续性和联结都需要，或者也许连续性和可敬性都需要。这会使 Parfit 保持“我不必特别关心某些未来自我”的结论，但不能为“我有理由特别关心那些现在仅仅与我相连的其他人”这一结论辩护。
 
@@ -192,7 +192,7 @@ Parfit 可以回答说，连续性可能不足以构成特殊关怀。不清楚 
 
 ## 其他网络资源
 
-- Crisp, R., 2012, [Summary of a Discussion at PEA Soup: Katarzyna de Lazari-Radek and Peter Singer, ‘The Objectivity of Ethics and the Unity of Practical Reason’](http://peasoup.typepad.com/peasoup/2012/12/ethics-discussions-at-pea-soup-katarzyna-de-lazari-radek-and-peter-singer-the-objectivity-of-ethics-1.html).
+- Crisp, R., 2012, [Summary of a Discussion at PEA Soup: Katarzyna de Lazari-Radek and Peter Singer, ʼThe Objectivity of Ethics and the Unity of Practical Reasonʼ](http://peasoup.typepad.com/peasoup/2012/12/ethics-discussions-at-pea-soup-katarzyna-de-lazari-radek-and-peter-singer-the-objectivity-of-ethics-1.html).
 - [Papers on altruism and psychological egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org.
 
 ## 相关词条

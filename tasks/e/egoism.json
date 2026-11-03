@@ -2,7 +2,7 @@
   "slug": "egoism",
   "kind": "retranslate",
   "zh_doc": "e/egoism.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T11:43:38Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T18:24:57Z",
+      "evidence": "全量翻译完成：以 yuanwen/e/egoism.md 为底稿从头翻译 13636 汉字（导言+四节：心理利己主义/伦理利己主义/理性利己主义/结论），体例按 fan-yi-mu-ban"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T18:24:57Z",
+      "evidence": "逐节对照 yuanwen 英文源核销：导言（描述性vs规范性/三种利己主义定义）1 心理利己主义（三种自身利益理论/巴特勒异议/士兵手榴弹反例/不足道版本/Batson 实验/Sober-Wilson 演化论证/主导利己主义）2 伦理利己主义（合作论证及其局限/客观自身利益理论/摩尔自相矛盾/普里查德错误理由类型/不一致指控/道德理论约束）3 理性利己主义（工具论冲突/武断性/西季威克/当下目标理论/Parfit 人格同一性/心理连续性/Ewing 单一理由/演化揭穿/Hills 同侪分歧）4 结论（心理利己前景暗淡/伦理转理性/历史记录怀疑）全节对应；引文与页码逐一在位"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T18:24:57Z",
+      "evidence": "check_prose 53 条全豁免：41 de-chain 为自然中文或术语链（利己主义/自身利益/心理利己/理性利己/伦理利己），10 长句为源文等长（Shaver 学术句式），2 被动为自然中文，1 as-one 为语境合理"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261103",
+      "at": "2026-11-03T18:24:58Z",
+      "evidence": "check_style 0 issue（直引号批量转弯引号+斜体批量转加粗+三重星号修复+混合标记修复）；check_math 0；check_academic --strict 0 硬错误"
     }
   ],
   "blockers": [],
