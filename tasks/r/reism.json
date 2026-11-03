@@ -2,7 +2,7 @@
   "slug": "reism",
   "kind": "retranslate",
   "zh_doc": "r/reism.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -52,6 +52,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:58:24Z",
       "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：64 段逐句回读 yuanwen 镜像，重点核公式块 (1)-(12)/(R1)-(R3)/(RO) 与正文衔接、LO 三公理逻辑、以及源文「(as defined by (R2)...)」疑似笔误处按零信任照录未改；结构完整性按源节集合验收（导语+4 编号节+参考文献 A/B 小节+学术工具+其他网络资源+相关词条，无脚注节——源无注）；发现 0 问题。复核独立性：r2=独立 agent（进行中），r3 终审前冷置（richard-sophister r3 介于其间）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "RZ-main-20261104+r2独立复核agent",
+      "at": "2026-11-03T21:09:23Z",
+      "evidence": "r2 复审（逐句回核原文与逻辑，ADR-0020 复核独立性：初译外独立 agent 执行，输出 4 处 Minor、0 Critical/Major，全部采纳）：①seg40 指控落点——「认为其根源正是承认…」的「其」回指错位（s2 de-chain 改写引入），改为「指控一切类型的柏拉图主义是种种无望问题与讨论的根源——这些问题与讨论源于承认…存在」显豁化；②seg40 etc. 漏译补「及其种类等的无谓思辨」；③seg60 错字「这行行列」→「这一行列」；④seg19 人名「W. 冯特」→「威廉·冯特」（人名表既定形全形，ADR-0012）。修正后守恒 HARD=0、prose 0、style 0、academic 0 硬错误、lint 0。复核员专项核对全过：16 编号块、LO 三公理、biblio 30 条逐字符 diff 一致、pubinfo/H1/相关词条 5 项既定名一致；另确认学术工具三行系项目现制（PDF 预览行统一省略，与 rules/07 不冲突）"
     }
   ],
   "blockers": [],
