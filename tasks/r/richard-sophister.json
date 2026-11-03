@@ -1,0 +1,29 @@
+{
+ "slug": "richard-sophister",
+ "kind": "retranslate",
+ "zh_doc": "r/richard-sophister.md",
+ "state": "cleared",
+ "steps": [
+  {
+   "step": "direction",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T19:24:07Z",
+   "evidence": "方向声明（rules/08）：r–z 九批 385 词条全流程重译的首件 richard-sophister（r 批最小件，先端到端验证状态机再放量）。目标：rules/04 状态机 clear→draft→s1→s2→s3→r1→r2→r3→done 六道全过；验收=check_academic --strict 0 硬错误 + check_style 0 issue + check_prose 告警清零 + markdownlint 绿。非目标：不改英文源、不补内容、不造引文、不动他人批次在途文件、不 push。"
+  },
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-03T19:21:29Z",
+   "evidence": "baseline gate: hash_ok"
+  }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-03T19:21:29Z",
+ "version_pin": {
+  "pubinfo_date": "Nov 26, 2016",
+  "archive_edition": "Fall 2025",
+  "sha256": "ab5c92dab94a176b8822824149bbd0e5a75a6bf9c0d7d2d0ff3a3053c4f9633b"
+ }
+}
