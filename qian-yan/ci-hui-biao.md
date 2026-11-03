@@ -2,13 +2,16 @@
 
 本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
 
+|Abelard Peter|彼得·阿伯拉尔||
 |abilities|能力||
+|Abrabanel, Judah|犹大·莱昂·阿布拉瓦内尔||
 |Abraham ibn Ezra|亚伯拉罕·伊本·以斯拉|亦作“伊本·以斯拉”；犹太哲学|
 |abstract entities|抽象实体|与 abstract objects 抽象对象配对|
 |abstract objects|抽象对象|审定名词（自然辩证法·科学哲学）|
 |action|行动||
 |Actualism|现实主义（模态形而上学；亦作“现实论”）|模态形而上学；亦作“现实论”|
 |adaptationism|适应主义||
+|Addams, Jane|简·亚当斯||
 |Adolf Reinach|阿道夫·莱纳赫|早期现象学（普莱斯纳学派前驱）|
 |advance directives|预先指示||
 |aesthetic experience|审美经验|亦作“审美体验”；美学|
@@ -16,6 +19,7 @@
 |Agent Intellect|主动理智、能动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
 |Alain Locke|阿兰·洛克||
+|Albalag, Isaac|以撒·阿尔巴拉格||
 |Alexander Bain|亚历山大·贝恩|联想主义心理学|
 |Alexandre Koyré|亚历山大·柯瓦雷||
 |Allan Gibbard|艾伦·吉伯德|规范伦理学/表达主义|
@@ -33,19 +37,28 @@
 |Arthur Danto|阿瑟·丹托|分析美学/历史哲学|
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
 |Aulus Gellius|奥卢斯·盖利乌斯|罗马阿提卡之夜|
+|Austin, John|约翰·奥斯丁||
 |Bahya ibn Paquda|巴希亚·伊本·帕库达|犹太哲学家；《心的职责》|
+|Bauer, Bruno|布鲁诺·鲍威尔||
+|Bayle, Pierre|皮埃尔·培尔||
 |Bedeutung|意义|弗雷格语境；亦作“意谓”|
 |belief formation|信念形成|认识论|
 |Benjamin Franklin|本杰明·富兰克林|美国启蒙|
+|Bergson, Henri|亨利·柏格森||
 |Bertrand Russell|伯特兰·罗素||
 |Best Interests standard|最佳利益标准|生命伦理学|
 |Bildung|教化|伽达默尔语境|
 |biodiversity|生物多样性|审定名词（多域）|
 |biological information|生物信息||
+|Boethius, Anicius Manlius Severinus|亚尼修·玛理乌斯·塞味利诺·波爱修斯||
+|Bradley, Francis Herbert|弗朗西斯·赫伯特·布拉德雷||
 |Brian Leftow|布莱恩·莱夫托||
+|Brouwer, Luitzen Egbertus Jan|勒伊岑·艾赫贝特斯·扬·布劳威尔||
 |Bruce Bridgeman|布里奇曼|视觉/动作心理学；首现括注|
+|Buddha|佛陀||
 |care ethics|关怀伦理|审定直接命中（新闻传播学域）|
 |Carl Schmitt|卡尔·施米特|政治哲学/政治神学|
+|Cassirer, Ernst|恩斯特·卡西尔||
 |Catharine MacKinnon|凯瑟琳·麦金农|激进女性主义法学|
 |causal influence|因果影响|佐证审定“因果性”|
 |Causation|因果关系|亦作“因果”；审定名词（自然辩证法）|
@@ -59,26 +72,36 @@
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
 |civic humanism|公民人文主义||
 |cloning|克隆||
+|Cockburn, Catharine Trotter|凯瑟琳·特洛特·考克本||
 |cognitive science|认知科学||
 |common good|公共善|亦作“共同善”；政治哲学|
 |conceptual art|观念艺术||
 |concrete objects|具体对象|与抽象对象相对|
 |conditional analysis|条件分析、条件句分析|能力哲学|
+|Confucius|孔子||
 |constitutive aim|构成性目的|行动哲学（belief 的 aim 之辩）|
+|Conway, Lady Anne|安妮·康威||
+|Copernicus, Nicolaus|尼古拉·哥白尼||
+|Cordemoy, Géraud de|热罗·德·科尔德穆瓦||
 |Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
+|Crathorn, William|威廉·克雷索恩||
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
+|Cudworth, Ralph|拉尔夫·库德沃斯||
 |current self|当前自我|advance-directives 词条核心|
 |Dana Scott|达纳·斯科特|逻辑学/集合论|
 |Dao|道|拼音转写；中国哲学核心范畴|
 |Dasein|此在|海德格尔；亦作“缘在”|
+|David|大卫||
 |David Armstrong|大卫·阿姆斯特朗|形而上学（共相/事态）|
 |David Davies|大卫·戴维斯||
 |David Hull|大卫·赫尔|生物学哲学|
 |David Velleman|大卫·维勒曼||
 |deflationary|紧缩|「紧缩论」（deflationism）形容词形|
+|Delmedigo, Elijah|以利亚·德尔·梅第戈||
 |deontic status|道义地位|道义逻辑|
 |Derk Pereboom|德克·佩雷布姆||
+|Desgabets, Robert|罗伯特·戴加贝||
 |dharma|法|佛教语境；亦作“达摩”|
 |diffeomorphism|微分同胚|广义相对论哲学；物理学通行|
 |différance|延异|德里达定译|
@@ -91,10 +114,12 @@
 |earlier self|先前自我|advance-directives 词条核心|
 |Edith Stein|艾迪特·施泰因|现象学|
 |efference copy|传出副本|行动感知/认知科学|
+|Elisabeth, Princess of Bohemia|普法尔茨的伊丽莎白公主||
 |Emil Lask|埃米尔·拉斯克||
 |enactive approach|生成进路|生成认知（enactivism）|
 |Encyclopédie|《百科全书》|狄德罗主编；启蒙哲学|
 |envy|嫉妒||
+|Epictetus|爱比克泰德||
 |epistêmê|知识|与 doxa 意见相对|
 |Epistemic Closure|认知封闭|知识论|
 |Epistemology|认识论|审定名词（自然辩证法·科学哲学）|
@@ -136,12 +161,16 @@
 |Gödel’s theorem|哥德尔定理|数理逻辑|
 |Gómez Pereira|戈麦斯·佩雷拉|西班牙文艺复兴|
 |haecceitism|此性论||
+|Halevi, Judah|犹大·哈列维||
 |Han Dynasty philosophy|中国汉代哲学||
 |Hans Hahn|汉斯·哈恩|维也纳学派|
 |Hao Wang|王浩|逻辑学家/哥德尔研究|
+|Hare, Richard Mervyn|理查德·默尔文·黑尔||
 |Harriet Taylor|哈丽雅特·泰勒|密尔合作者/女性主义先声|
 |Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
+|Hartshorne, Charles|查尔斯·哈茨霍恩||
 |Hermann Diels|赫尔曼·第尔斯||
+|Heytesbury, William|威廉·海特斯伯里||
 |Hilary Putnam|希拉里·普特南||
 |Hillel Steiner|希勒尔·斯坦纳|分析马克思主义/权利论|
 |hole transformation|洞变换|与“空穴论证”（hole argument）复合同源|
@@ -150,6 +179,7 @@
 |homosexuality|同性恋||
 |Huayan Buddhism|华严宗||
 |Hui Shi|惠施|中国哲学家|
+|Hutcheson, Francis|弗兰西斯·哈奇森||
 |Hypothetical Reasoning|假说推理|皮尔士溯因语境|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
 |identity politics|身份政治||
@@ -179,8 +209,10 @@
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
 |Leibniz Equivalence|莱布尼茨等价|时空哲学；Stachel/Weatherall 用语|
 |Leon Henkin|莱昂·亨金||
+|Luxemburg, Rosa|罗莎·卢森堡||
 |manifold|流形|数学通行|
 |manifold of events|事件流形|时空哲学|
+|Masham, Lady Damaris|达玛里斯·库德沃斯·马沙姆||
 |Massive Modularity Hypothesis|大规模模块性假说|Carruthers 心灵架构理论|
 |matter field|物质场|物理学通行|
 |maximal act-set|极大行动集|A批正文定案；审定“极大集”数学域佐证|
@@ -189,6 +221,7 @@
 |metric field|度规场|物理学通行|
 |Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
 |Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
+|Mill, Harriet Taylor|哈丽雅特·泰勒·密尔||
 |modal analysis|模态分析|能力哲学（与条件分析相对）|
 |Negative Magnitudes|负量（康德《负量概念试论》）|康德前批判期著作|
 |Norman Daniels|诺曼·丹尼尔斯||
@@ -223,6 +256,7 @@
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
 |Trolley Problem|电车难题||
 |violinist case|小提琴家案例|汤姆森思想实验|
+|Ward, James|詹姆斯·沃德||
 |William Paley|威廉·佩利||
 |Wittgensteinian Fideism|维特根斯坦式信仰主义|Kai Nielsen/D.Z. Phillips 论辩|
 |worldline|世界线|相对论通行|
