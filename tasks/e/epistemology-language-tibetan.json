@@ -2,7 +2,7 @@
   "slug": "epistemology-language-tibetan",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-language-tibetan.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T13:11:02Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:15:02Z",
+      "evidence": "全量重译组装：13678 汉字 15 节标题对齐，2 个 markdown 表格保留，53 条脚注定义（藏文威利转写书目原样）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:15:02Z",
+      "evidence": "逐节对照源钉（pubinfo Mar 16 2025）：段落 102:102 全对齐，内联脚注标记零缺失零多余，相关词条 12 项按 SUMMARY 定名；威利转写撇号统一 U+02BC"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:15:02Z",
+      "evidence": "check_prose 75→37：实修 36（长句拆分 15/passive 改写 13/as-one 2/weak-verb 4/结构 2），余 37 豁免留痕：34 de-chain 量论术语密集定语，3 passive-bei 系'被定义项'（definiendum）逻辑学定名内含被字，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:15:05Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 37 豁免留痕见 s2；术语 38 条+人名 18 条登记（与 gelukpa 词条定名对齐：现量/比量/遮诠/摄类学/心类学等）"
     }
   ],
   "blockers": [],

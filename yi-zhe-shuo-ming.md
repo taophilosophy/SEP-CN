@@ -876,3 +876,41 @@
 | kokutai | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Nihonjinron | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | hongaku / honkyō | 本学/本教（大国隆正） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| reliable cognition（tshad ma） | 可靠认知（即"量"；藏文 tshad ma 本词条通译作"量"） | epistemology-language-tibetan | 佛学界通行（量=pramāṇa/tshad ma）；与 gelukpa 词条 pramāṇa=量论 对齐 | 2026-11-04 |
+| appearing object（snang yul） | 显现境（snang yul） | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
+| apprehended object / grasped object（gzung yul） | 所取境（gzung yul） | epistemology-language-tibetan | 藏传量论通译（所取=gzung ba） | 2026-11-04 |
+| intentional object / conceived object（zhen yul） | 意向境（zhen yul，亦作"所执境"） | epistemology-language-tibetan | 量论通译+英译对齐（intentional object） | 2026-11-04 |
+| engaged object（'jug yul） | 趣入境（'jug yul） | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
+| mental episodes（blo） | 心识事件（blo） | epistemology-language-tibetan | 直译+括注（blo=心） | 2026-11-04 |
+| Lorik（blo rigs） | 心类学（blo rigs） | epistemology-language-tibetan | 藏传佛教院教育通译 | 2026-11-04 |
+| devoid of conceptualization | 离分别（无分别） | epistemology-language-tibetan | 量论通行（现量定义"离分别"） | 2026-11-04 |
+| superimposition | 增益 | epistemology-language-tibetan | 佛学界通行（samāropa=增益） | 2026-11-04 |
+| elimination of opposite superimpositions | 遮除对立增益 | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
+| ascertainment（nges pa） | 决定（nges pa） | epistemology-language-tibetan | 量论通行（nges pa=决定知） | 2026-11-04 |
+| non-belying | 不欺诳 | epistemology-language-tibetan | 量论通行（avisaṃvāda=不欺诳） | 2026-11-04 |
+| novelty | 新得 | epistemology-language-tibetan | 量论通行（量义"新起而不欺诳"） | 2026-11-04 |
+| apoha | 遮诠（apoha，字面义"排除"） | epistemology-language-tibetan | 佛学界通译（遮诠说） | 2026-11-04 |
+| anyāpoha（gzhan sel） | 遮他（anyāpoha，Tib. gzhan sel） | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
+| correct / incorrect conventional | 正世俗／倒世俗 | epistemology-language-tibetan | 中观学通行 | 2026-11-04 |
+| Vaibhāṣika | 毗婆沙宗 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
+| Sautrāntika | 经量部 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
+| Summaries of epistemology（tshad ma'i bsdus pa） | 量论撮要（tshad ma'i bsdus pa） | epistemology-language-tibetan | 直译+括注（bsdus pa=集要） | 2026-11-04 |
+| Collected topics（bsdus grwa） | 摄类学（bsdus grwa） | epistemology-language-tibetan | 藏传佛教院教育通译 | 2026-11-04 |
+| Treasure of Reasoning（Tshad ma rigs gter） | 《量理宝藏》 | epistemology-language-tibetan | 佛学界通行（萨迦班智达著作） | 2026-11-04 |
+| Pramāṇaviniścaya | 《量抉择论》 | epistemology-language-tibetan | 因明学通行 | 2026-11-04 |
+| non-ascertaining perception（snang la ma nges pa） | 显而未定识 | epistemology-language-tibetan | 藏传量论通行（七种心识之一） | 2026-11-04 |
+| post-knowledge cognition（bcad shes） | 已决识（bcad shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
+| factive assessment（yid dpyod） | 伺察识（yid dpyod） | epistemology-language-tibetan | 藏传量论通行+英译对齐 | 2026-11-04 |
+| mistaken cognition（log shes） | 颠倒识（log shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
+| doubt（the tshom） | 疑（the tshom） | epistemology-language-tibetan | 量论通行（心识分类） | 2026-11-04 |
+| non-understanding（ma rtogs） | 不解知（ma rtogs） | epistemology-language-tibetan | 直译+括注 | 2026-11-04 |
+| direct / indirect realization（dngos rtogs / shugs rtogs） | 直证／间接证 | epistemology-language-tibetan | 藏传量论通行（亲证/影证） | 2026-11-04 |
+| aspect（rnam pa） | 行相（aspect） | epistemology-language-tibetan | 量论通行（rnam pa/ākāra=行相） | 2026-11-04 |
+| one nature and distinct exclusions（ngo bo gcig la ldog pa tha dad） | 体一而反体异 | epistemology-language-tibetan | 藏传量论通行（体一/反体异） | 2026-11-04 |
+| definiens / definiendum / definitional basis | 能表（定义项）／所表（被定义项）／表基（定义基处） | epistemology-language-tibetan | 藏传量论通行（mtshon byed/mtshon bya/mtshon gzhi） | 2026-11-04 |
+| generic word / generic object（sgra spyi / don spyi） | 声总／义共相 | epistemology-language-tibetan | 量论通行 | 2026-11-04 |
+| what expresses / what is expressed（rjod byed / brjod bya） | 能诠／所诠 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
+| verbal object（sgra don，śabdārtha） | 声义 | epistemology-language-tibetan | 量论通行 | 2026-11-04 |
+| First / Later Diffusion of Buddhism | 前弘期／后弘期 | epistemology-language-tibetan | 藏学界通行 | 2026-11-04 |
+| representationalist | 表象论的 | epistemology-language-tibetan | 哲学通译 | 2026-11-04 |
+| external-realist | 外境实在论的 | epistemology-language-tibetan | 量论文献通行 | 2026-11-04 |

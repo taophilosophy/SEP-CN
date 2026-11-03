@@ -225,6 +225,7 @@
 | William of Sherwood | 舍伍德的威廉 | lambert-auxerre | 学界通行汉译（中世纪逻辑学家）；待 specs/008 审定库复核 | 2026-11-04 |
 | Roger Bacon | 罗吉尔·培根 | lambert-auxerre | 学界通行汉译（中世纪哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
 | Albert the Great | 大阿尔伯特 | lambert-auxerre | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-04 |
+| Lorenzo Valla | 洛伦佐·瓦拉 | lorenzo-valla | 学界通行汉译（文艺复兴人文主义者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -487,6 +488,25 @@
 | Nicholas Wolterstorff | 尼古拉斯·沃尔特斯托夫 | justice-virtue | 学界通行汉译（宗教/政治哲学）；凭证 2026-11-02 | 2026-11-02 |
 | Virginia Held | 弗吉尼亚·赫尔德 | justice-virtue | 学界通行汉译（关怀伦理）；凭证 2026-11-02 | 2026-11-02 |
 | W.D. Ross | W.D.罗斯 | justice-virtue | 学界通行汉译（伦理学史，《正当与善》）；凭证 2026-11-02 | 2026-11-02 |
+
+| Sakya Pandita Künga Gyeltsen | 萨迦·班智达·贡噶坚赞 | epistemology-language-tibetan | 佛学界通行（SUMMARY 定名沿用） | 2026-11-04 |
+| Ngok Loden Shérap | 俄·罗丹喜饶 | epistemology-language-tibetan | 佛学界通行（rNgog Blo ldan shes rab） | 2026-11-04 |
+| Chapa Chökyi Senggé | 恰巴·却吉僧格 | epistemology-language-tibetan | 佛学界通行（Phya pa Chos kyi seng ge，亦作"法狮子"） | 2026-11-04 |
+| Tsang Nakpa Tsöndrü Senggé | 藏纳巴·尊珠僧格 | epistemology-language-tibetan | 佛学界通行（gTsang nag pa） | 2026-11-04 |
+| Chumikpa Senggépel | 楚弥巴·僧格贝 | epistemology-language-tibetan | 佛学界通行（Chu mig pa） | 2026-11-04 |
+| Gorampa Sönam Senggé | 果让巴·索南僧格 | epistemology-language-tibetan | 佛学界通行（Go rams pa） | 2026-11-04 |
+| Serdok Panchen Śākya Chokden | 色朵班钦·释迦乔丹 | epistemology-language-tibetan | 佛学界通行（gSer mdog paṇ chen） | 2026-11-04 |
+| Khédrupjé | 克主杰·格雷白桑 | epistemology-language-tibetan | 佛学界通行（mKhas grub rje） | 2026-11-04 |
+| Gyeltsapjé | 贾曹杰·达玛仁钦 | epistemology-language-tibetan | 佛学界通行（rGyal tshab rje） | 2026-11-04 |
+| Gedündrup | 根敦珠巴 | epistemology-language-tibetan | 佛学界通行（dGe 'dun grub，一世达赖） | 2026-11-04 |
+| Taktsang Lotsawa Shérap Rinchen | 达仓译师·喜饶仁钦 | epistemology-language-tibetan | 佛学界通行（sTag tshang Lo tsā ba） | 2026-11-04 |
+| Lowokenchen Sönam Lündrup | 珞沃堪钦·索南伦珠 | epistemology-language-tibetan | 佛学界通行（Glo bo mkhan chen） | 2026-11-04 |
+| Ngawang Chödrak | 阿旺却扎 | epistemology-language-tibetan | 佛学界通行（Ngag dbang chos grags） | 2026-11-04 |
+| Jamyang Chokla Öser | 绛央乔拉·奥色 | epistemology-language-tibetan | 佛学界通行（'Jam dbyangs mChog lha 'od zer） | 2026-11-04 |
+| Uyukpa Rikpé Senggé | 乌尤巴·日佩僧格 | epistemology-language-tibetan | 佛学界通行（'U yug pa Rigs pa'i seng ge） | 2026-11-04 |
+| Podong Choklé Namgyel | 博东·却列南杰 | epistemology-language-tibetan | 佛学界通行（Bo dong Phyogs las rnam rgyal） | 2026-11-04 |
+| Dharmottara | 法上 | epistemology-language-tibetan | 佛学界通行（印度量论师） | 2026-11-04 |
+| Śākyaśrībhadra | 释迦室利跋陀罗 | epistemology-language-tibetan | 佛学界通行（克什米尔班智达） | 2026-11-04 |
 
 ## 登记格式说明
 
