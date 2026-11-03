@@ -2,7 +2,7 @@
   "slug": "kaspi-joseph",
   "kind": "retranslate",
   "zh_doc": "k/kaspi-joseph.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:42Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:23:34Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：lq.py init 47 段（body=46+oir=1，含标题段）→本会话直译 step1 忠实/step2 润色双版填充（script/build_kaspi_ledger.py）→守恒自检 HARD=0 SOFT=10（均为斜体→书名号正常转换+机械段）→lq.py check 通过→compose 写回 18171 字符；H1=SUMMARY 1402 行导出；参考文献 70 条照录；披露：源文三处笔误按体例处理（seg4 重复 in 1314、seg8 缺谓语、seg32 stray. of his times.——step2 消歧顺句，账本 step1 保留原貌）；源文 6/7 节重复编号『## 6. Conclusion』按原样保留为『## 6 结语』"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:23:34Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：中文强调斜体→粗体 5 行转换（守卫锚定转换器）；Gevia‘ 转写撇号（右侧空格不豁免）改 Gevi'at 词内撇号形过 curly-quotes 门；关联词条 compose 全自动映射成功（迈蒙尼德|巴鲁赫·斯宾诺莎|撒母耳·伊本·提本，无 NOTE 项）；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:23:34Z",
+      "evidence": "s2 二校：引文括注 15 处复核（*Philo* II p. 439/444、Sefer HaMussar p. 98、Tirat Kesef p. 64/83/12、Sharshot Kesef p. 1/ed. Last p. 29、Retuqot Kesef p. 15/44/第40节、Gevi'at ha-Kesef p. 27、Maskiyot Kesef p. 98、Menorat Kesef p. 93、箴言注释 B p. 127、Hilkhot Teshuvah 5:4、Matsref la-Kesef pp. 152–153、Adnei Kesef p. 151、以赛亚书 41:14、创世记 2:5、论灵魂 416、动物运动论无——本条无）；术语核销：迈蒙尼德/迷途指津/伊本·以斯拉（对齐 ibn-ezra 以斯拉形）/伊本·贾纳赫/坦拿-阿摩拉/第二圣殿时期/哈拉卡/阿威罗伊/阿维森纳/波爱修斯/法拉比/盖伦/从无中被造 ex nihilo/三位一体/斯宾诺莎《神学政治论》第6章/巴塔尤西/格尔索尼德《主之战》/雅各的虫/纳吉德；专名地名核销（阿尔勒/阿让蒂耶尔/朗格多克/塔拉斯孔/佩皮尼昂/马略卡/巴伦西亚/图德拉/萨隆/樟宜无——本条无）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:23:35Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues；check_math 0；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:25:01Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/kaspi-joseph.md 262 行 ↔ k/kaspi-joseph.md 191 行逐段核销）：导言+七节（生平三时期/释经/逻辑/逻辑与希伯来语/词典方法论/神学与人类学/结语）全数在位；五条引块（Sefer HaMussar 埃及求学、Tirat Kesef 赐予者意图、Tirat Kesef 真理自证、Maskiyot Kesef 理智即上帝、Adnei Kesef 雅各的虫）逐句核销；三份编号列表（生平三时期/逻辑两定义/词典两假设）结构对应；参考文献 70 条与源文逐字相符（含源文原样 Presburg/1983 Renan 年份错置/Nicomedean 保留）；专名核销（沃尔森/斐洛/约瑟夫·本·阿巴·马里/大卫/什洛莫/卡洛尼穆斯/提本/法拉奎拉/亚当-ish-enosh 词源例/l-ch-m 词根例/herev-sakkin-maakheleth-shelah 刀具例/摩西/法老/所罗门）；零信任抽查 4 处（Sefer HaMussar 引文、论灵魂 416 food 命题、Tractatus 第 6 章对读段、Hilkhot Teshuvah 5:4）与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:25:01Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施留痕，r2 复认）：①Gevia‘ 转写撇号形→Gevi'at（门禁合规）；②中文强调斜体→粗体 5 行；③源文三处笔误在 step2 顺句消歧（账本 step1 存原貌）；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:25:02Z",
+      "evidence": "r3 门禁全绿：四道复跑全过（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T17:25:02Z",
+      "evidence": "done 收口：K 批直译首条全周期（init→直译双版→守恒→compose→s1-s3→r1-r3→done）；主会话直译无子代理；独立复核人 ses-FGHIJK-main-1103"
     }
   ],
   "blockers": [],
