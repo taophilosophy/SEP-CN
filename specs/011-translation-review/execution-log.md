@@ -58,3 +58,10 @@
 * **L2 斜体术语**：1685 未登记经著作名词典/拉丁短语/功能词三层过滤 → 真概念 8 条落册（cogito 我思/scientia/cognitio/pneuma 普纽玛/hegemonikon/modi significandi 意指样式/yin/yang）；其余确认为著作名照录体例与斜体强调误抓，不登记。
 * **本轮净新增登记 75 条**（T 41 + P 34），term_flow 锚点格式教训（`| key |` 规范化、strip 顺序）入 rowspec 生成器。
 * 深读层并行推进中（manual-deepread.jsonl 逐条台账）。
+
+## 2026-11-04 深读滚动续
+
+* 累计深读 15 条全 pass（+academic-freedom 2026 新发词条、action-perception 传出副本对齐态实证、action 意向行动对齐态实证、actualism-possibilism 实修版本行粗体违例+登记册补伦理学域注、adaptationism 因果说明对齐态实证、addams-jane）。
+* 实修 2 项：abstract-objects 奎因→蒯因 7 处；actualism-possibilism 版本行 ** X ** 违例 1 处。
+* 并行漂移随修 3 轮：mu-lu-s 四行全题化（mulu_sync.py 通用工具）；apperception 再生重复行去重并记双来源；Kant 人名重复行、Spinoza 词汇表冲突、leibniz-evil 登记重复 2 行（删旧并记来源）——**登记册/人名表重复行随并行会话新登记不断再生，每轮收口前 check_terms 必跑**。
+* 主题词汇解析轮完成（独立节见上）。
