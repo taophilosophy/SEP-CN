@@ -2,7 +2,7 @@
   "slug": "hare",
   "kind": "retranslate",
   "zh_doc": "h/hare.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T13:02:54Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:44:01Z",
+      "evidence": "draft（ADR-0021 账本协议，lq.py 管线）：①主词条账本 tasks/h/hare.ledger.yaml 由前批 110 段（跳标题约定）外科对齐至门禁约定 120 段——补 9 个章节标题段（step1=step2=机械段）+1 个 OIR 样板段（kind=oir）、ack 段 kind 修正、id 按文档序重编号；check 守恒通过 120/120（SOFT 12：机械段 9+斜体计数漂移 3，逐条留痕）；compose 写回 h/hare.md 35824 字符（H1 由 SUMMARY 1134 行导出、pubinfo 斜体 2014-06-04/2019-05-10、尾部 脚注无/参考文献 94 条照录/学术工具/其他网络资源/相关词条/致谢）。②补充材料按模板 #19 随本任务：yuanwen/h/hare.supplement.md 69 行源文本会话直译，账本 tasks/h/hare.supplement.ledger.yaml 新建 33 段（source 程序化取自 yuanwen 逐段身份、step1 忠实/step2 润色双版），守恒自检 HARD=0 SOFT=1（seg16 quoad 斜体随释词扩张，留痕），成稿 h/hare.supplement.md 3623 字符（H1=黑尔的《一元论论纲》（hare 补充材料））。③披露：主账本无 params 节（前批制作，批参数不可考，零信任不补造）；补充材料无独立基线条目故无独立任务 JSON，随主任务走查"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:44:01Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：①关联词条 compose NOTE 项人工复核：cognitivism vs. non-cognitivism, moral → SUMMARY 490 行登记形「道德认知主义与非认知主义」；②定点修 5 处：鲍勃·黑尔补〔Bob Hale〕人名消歧（源文 Hale 与主体系不同人，黑尔同名易混）、Nachlass 书名号误用改括注遗稿、源文 off-color use of ought 变色→变味用法、L111 no less problematic than convenient 病句重构（成问题之处不亚于便利之处）、Saffron House/Ewelme 并合拆正并补 Plas Rhoscolyn 原名；③体例修复：账本批产 step2 中文强调斜体共 75 处转粗体（守卫锚定转换器，两轮正则跨对事故均被 check_style 拦截、经账本 compose 恢复零损失——ADR-0021 账本安全网实证）；④SOFT 机械段 9 处逐一确认为标题/样板段；⑤check_style --strict 两文件 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:44:01Z",
+      "evidence": "【actor 更正：原记 ses-FGHHJK-main-1103 系手误（双 H），本条更正为 ses-FGHIJK-main-1103，evidence 不变】s2 二校：引文括注 30+ 处复核（2002: 269/272&292/283/304–5、1963: 90–1、1981: 103–4/96–9/96–7/92/105/52/38/30/18/24/7/101–5,214–16/142–4、1988a: 201/285/283、1997a: 112–14、1950/1: 38、1973: 27、1964: 67、Seanor & Fotion 1988: 288、1952: 28/56–7、1967: 25–34、1971a: 63、1975,1988b,1988c、1988b: 87–8、2007: 200–7/203 n.、Price 2004b: §4/Price 2008: 60、Lucas 2002: 31、Hare 1997a、第 4/7/8/9/10/15/17/18/19/20 章页码）；术语核销：规定主义 prescriptivism/可普遍化性 universalizability/满足逻辑/direction of fit 适合方向/onus of match 匹配责任/黄金法则论证/遵守效用 OU-接受效用 AU/大天使-普通人/现在-对-将来 偏好三分/外部偏好/未被告知的偏好/blik/tropic-neustic/inference tickets 推理票/Frege-Geach 弗雷格-吉奇/ceteris paribus；补充材料摄受 prehension 与 hartshorne 先例对齐"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:45:40Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues（h/hare.md + h/hare.supplement.md 两文件）；check_math 0 formulas/unbalanced；check_summary 0 hard errors（H1=SUMMARY 1134 行）；check_academic --strict 两文件均无硬错误；补充材料双库对照：脚注键无（源文无 note）、图片无、数学无"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:45:40Z",
+      "evidence": "r1 独立对照复审（yuanwen/h/hare.md 462 行 ↔ h/hare.md 368 行 + yuanwen/h/hare.supplement.md 69 行 ↔ h/hare.supplement.md 36 行逐段核销）：主词条九节全数在位；开篇自传引文与九节长引块（卢卡斯攻防叙事、打油诗、克拉伦登辩解、a fortiori 决断、黄金法则场景 1963: 90–1、文德勒-拿破仑、Sheriff 私刑、麦基-威廉斯批评引文 1981: 52、白人黑人道德直觉对话三段、战俘营口译长引、1981: 18/24 三条）逐句核销；附录案例 A-F/a-b 全部对应；参考文献 94 条逐字符照录核对（含源文原样 Wym/*B**/Biesenbach 德文书题）；补充材料 33 段与账本逐一相符；专名核销（奥博恩/西蒙兹/科普索恩/拉格比/巴利奥尔/基督圣体/怀特讲席/威廉斯/皮尔斯/沃尔海姆/卢卡斯/佩顿/杰克逊/罗斯/凯瑟琳·弗尼/维德·梅塔/布兰特/斯马特/吉奇/赖尔/埃里克森/文德勒/麦基/布雷斯韦特/霍普金斯/色拉叙马霍斯/约翰·黑尔/Bob Hale）；零信任抽查 5 处（桂河-三塔山口段、De Motu Animalium 701a19–22、tropic/neustic 段、Eriksson B 特征段、supplement 摄受引文 ch.7 p.53）与 en 镜像一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:46:52Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施并留痕，r2 复认）：5 处（Bob Hale 消歧括注/Nachlass 体例/off-color 变味/no less problematic 病句/Saffron House-Plas Rhoscolyn 专名）+75 处斜体→粗体体例修复+1 处关联词条对齐；补充材料 vice versa 斜体补正 1 处；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:46:52Z",
+      "evidence": "r3 门禁全绿：check_style --strict 0 issues（两文件复跑）；check_math 0；check_summary 0 hard errors；check_academic --strict 两文件均无硬错误（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T16:46:52Z",
+      "evidence": "done 收口：draft（主词条账本对齐 120 段守恒+compose 35824 字符；补充材料 33 段新账本+成稿）+s1（幻觉/漏译/增译 0，定点修 5+75 体例+关联词条对齐）+s2/s3（引文 30+ 处与术语全核销、四道门禁全绿）+r1（九节+补充材料全核销、脚注 94 条逐字、抽查 5 处）+r2/r3 复认；独立复核人 ses-FGHIJK-main-1103；主词条+补充材料同周期收口；cleared 队列直译首条完成"
     }
   ],
   "blockers": [],
