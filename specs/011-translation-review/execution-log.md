@@ -72,3 +72,8 @@
 * v5 交叉纠正器 cross_fix.py：括号书名/粗体截断等启发式规则，19 行修复。
 * v2 判据全库重扫残留 63 行/25 文件（多为 mixed 挂人工行与逻辑式行的新交叉形态）——清单 cross-star-todo.txt，下批扩规则。
 * 深读累计 15 条全 pass（新增 abstract-objects 实修奎因→蒯因 7 处、academic-freedom 2026 新发词条、action-perception/action/adaptationism/addams-jane/aesthetic-concept/actualism-possibilism 实修版本行+登记域注）。
+
+## 2026-11-04 深读滚动续二 + 交叉星 v6
+
+* 交叉星 v6：括号边界约束规则（（**X**）→（*X*）书名斜体、方括号、斜体闭多星）修 14 行；aesthetic-experience L311 手修两段（看作/悲伤的+是）；aesthetics-18th-french **标题作者括注截断**（SUMMARY 源头即坏——对照英文源修结构链三处）+L45 法语术语引号斜体 4 组。残留 ~40 行（intensional 类型论域 7 行+长尾）。
+* 深读累计 17 条全 pass（+aesthetic-concept、aesthetics-18th-french 实修标题截断）。**新发现类型：SUMMARY 标题截断**（作者括注丢失半个括号）——结构事实源链（SUMMARY/mu-lu-s/H1）三处联动修复先例。
