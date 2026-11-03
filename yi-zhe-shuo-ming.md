@@ -495,6 +495,19 @@
 | Sentences Commentary | 《箴言四书注》 | richard-sophister | 学界通行（《箴言四书》为中世纪通行译名，评注体裁派生） | 2026-11-04 |
 | signification | 意谓 | richard-sophister | 学界通行汉译（中世纪语义理论） | 2026-11-04 |
 | exceptive term | 排除词 | richard-sophister | 学界通行汉译（中世纪逻辑研究界）；待 specs/008 审定库复核 | 2026-11-04 |
+| reism | 事物论 | reism | SUMMARY 既有条目名（r/reism.md） | 2026-11-04 |
+| pansomatism | 泛躯体主义（正文保留拉丁，首现括注） | reism | 构词直译（pan-泛 + soma 躯体；检索无权威定译，保留原词随文括注） | 2026-11-04 |
+| concretism | 具体主义 | reism | 学界惯例（concretism 通译具体主义） | 2026-11-04 |
+| onomatoid | 似名称（正文保留 onomatoid，首现括注） | reism | 构词直译（onoma+oid）；学界无定译，保留原词 | 2026-11-04 |
+| mereology | 分体论 | reism | SUMMARY 既有条目名（m/mereology.md）；语料亦见“部分学”，以 SUMMARY 为准 | 2026-11-04 |
+| hypostatisation | 实体化 | reism | 学界惯例（hypostatize 通译实体化） | 2026-11-04 |
+| entia rationis | 思想之物（保留拉丁，随文括注） | reism | 经院哲学习惯（随源文自释 objects of thought 括注） | 2026-11-04 |
+| formal mode of speech | 形式说话方式 | reism | 学界惯例（卡尔纳普术语通行译法） | 2026-11-04 |
+| physicalism | 物理主义 | reism | 学界通行 | 2026-11-04 |
+| logical empiricism | 逻辑经验主义 | reism | 学界通行 | 2026-11-04 |
+| singularia | 殊相（保留拉丁，首现括注） | reism | 中世纪哲学惯例（particulars 通译殊相） | 2026-11-04 |
+| syncategorematica / synsemantica | 非范畴词／伴语义词（保留拉丁，首现括注） | reism | 沿用本册 syncategorematic word=非范畴词；synsemantica 按构词括注 | 2026-11-04 |
+| categorematic / autosemantic | 范畴词／自立语义词 | reism | 与非范畴词对偶的通行译法 | 2026-11-04 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
@@ -914,3 +927,20 @@
 | First / Later Diffusion of Buddhism | 前弘期／后弘期 | epistemology-language-tibetan | 藏学界通行 | 2026-11-04 |
 | representationalist | 表象论的 | epistemology-language-tibetan | 哲学通译 | 2026-11-04 |
 | external-realist | 外境实在论的 | epistemology-language-tibetan | 量论文献通行 | 2026-11-04 |
+| Donation of Constantine | 君士坦丁的赠礼 | lorenzo-valla | 学界通行汉译（伪伊西多尔教令集文献，瓦拉辨伪；亦作“君士坦丁赠礼”备查）；待 specs/008 审定库复核 | 2026-11-04 |
+| Tree of Porphyry | 波菲利之树 | lorenzo-valla | 逻辑学教科书通行 | 2026-11-04 |
+| terminism | 词项主义 | lorenzo-valla | 中世纪逻辑史学界通行（奥卡姆派语义学） | 2026-11-04 |
+| enthymeme | 省略三段论 | lorenzo-valla | 亚里士多德修辞学通行译名 | 2026-11-04 |
+| predestinarianism | 预定论 | lorenzo-valla | 神学界通行 | 2026-11-04 |
+| hylomorphism | 质形论 | lorenzo-valla | 亚里士多德学界通行 | 2026-11-04 |
+| tabula rasa | 白板 | lorenzo-valla | 学界通行（灵魂论/洛克研究） | 2026-11-04 |
+| vis aestimativa | 估量力 | lorenzo-valla | 中世纪灵魂论通行（亦作“评判力”备查） | 2026-11-04 |
+| Peripatetics | 逍遥学派 | lorenzo-valla | 学界通行（亚里士多德派；形容词作“逍遥派的”） | 2026-11-04 |
+| sorites | 堆垛论证 | lorenzo-valla | 逻辑学通行（悖论词条题名作“堆垛悖论”） | 2026-11-04 |
+| dilemma | 二难推理 | lorenzo-valla | 逻辑学与修辞学通行 | 2026-11-04 |
+| square of contraries | 对立方阵 | lorenzo-valla | 逻辑史通行（即对当方阵；SUMMARY 词条题名“传统逻辑方阵”） | 2026-11-04 |
+| fideism | 信仰主义 | lorenzo-valla | 宗教哲学通行（首见登记为“维特根斯坦式信仰主义”复合词，本行补单词） | 2026-11-04 |
+| fruition | 享用 | lorenzo-valla | 奥古斯丁研究通行（uti/frui 对偶：use=使用，frui=享用） | 2026-11-04 |
+| delectatio | 愉悦 | lorenzo-valla | 瓦拉研究通行（其道德哲学术语链 voluptas/beatitudo/fruitio/delectatio/amor） | 2026-11-04 |
+| prime matter | 第一质料 | lorenzo-valla | 亚里士多德学界通行 | 2026-11-04 |
+| insolubilia | 不可解问题 | lorenzo-valla | 中世纪逻辑史通行（亦作“不可解命题”备查） | 2026-11-04 |

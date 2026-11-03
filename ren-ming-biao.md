@@ -225,9 +225,29 @@
 | William of Sherwood | 舍伍德的威廉 | lambert-auxerre | 学界通行汉译（中世纪逻辑学家）；待 specs/008 审定库复核 | 2026-11-04 |
 | Roger Bacon | 罗吉尔·培根 | lambert-auxerre | 学界通行汉译（中世纪哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
 | Albert the Great | 大阿尔伯特 | lambert-auxerre | 学界通行汉译（SUMMARY 定名沿用）；待 specs/008 审定库复核 | 2026-11-04 |
-| Lorenzo Valla | 洛伦佐·瓦拉 | lorenzo-valla | 学界通行汉译（文艺复兴人文主义者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Lorenzo Valla | 劳伦佐·瓦拉 | lorenzo-valla | 学界通行汉译（文艺复兴人文主义者；与 SUMMARY 定名及 e/erasmus 互引一致）；待 specs/008 审定库复核 | 2026-11-04 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Leonardo Bruni | 莱奥纳尔多·布鲁尼 | lorenzo-valla | 学界通行汉译（佛罗伦萨人文主义掌门官）；待 specs/008 审定库复核 | 2026-11-04 |
+| Poggio Bracciolini | 波焦·布拉乔利尼 | lorenzo-valla | 学界通行汉译（人文主义者、教宗秘书）；待 specs/008 审定库复核 | 2026-11-04 |
+| Antonio Beccadelli (Il Panormita) | 安东尼奥·贝卡代利（别号帕诺尔米塔） | lorenzo-valla | 学界通行汉译（那不勒斯人文主义者，别号从出生地巴勒莫）；待 specs/008 审定库复核 | 2026-11-04 |
+| Melchior Scrivani | 梅尔基奥·斯克里瓦尼 | lorenzo-valla | 通行音译（瓦拉叔父、教宗书士）；待 specs/008 审定库复核 | 2026-11-04 |
+| Antonio Loschi | 安东尼奥·洛斯基 | lorenzo-valla | 学界通行汉译（人文主义者、教宗秘书）；待 specs/008 审定库复核 | 2026-11-04 |
+| Catone Sacco | 卡托内·萨科 | lorenzo-valla | 通行音译（帕维亚人文主义法学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Bartolus of Sassoferrato | 萨索费拉托的巴尔托鲁 | lorenzo-valla | 法学史通行汉译（中世纪罗马法四大博士之一）；待 specs/008 审定库复核 | 2026-11-04 |
+| Alfonso of Aragon | 阿拉贡的阿方索 | lorenzo-valla | 学界通行（阿拉贡国王阿方索一世，瓦拉庇主）；待 specs/008 审定库复核 | 2026-11-04 |
+| Angelo Poliziano | 安杰洛·波利齐亚诺 | lorenzo-valla | 学界通行汉译（佛罗伦萨人文主义语文学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Juan Luis Vives | 胡安·路易斯·比韦斯 | lorenzo-valla | 学界通行汉译（西班牙人文主义者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Johann Eck | 约翰·埃克 | lorenzo-valla | 学界通行汉译（神学家、路德论敌）；待 specs/008 审定库复核 | 2026-11-04 |
+| Bernardino Telesio | 贝尔纳迪诺·特莱西奥 | lorenzo-valla | 学界通行汉译（文艺复兴自然哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Francesco Patrizi of Cherso | 克尔索的弗朗切斯科·帕特里齐 | lorenzo-valla | 学界通行汉译（文艺复兴自然哲学家；与人文主义政治学作家帕特里齐以地名别之）；待 specs/008 审定库复核 | 2026-11-04 |
+| George of Trebizond | 特拉比松的乔治 | lorenzo-valla | 学界通行汉译（拜占庭流亡人文主义者、修辞学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Priscian | 普里西安 | lorenzo-valla | 语法学界通行汉译（晚期罗马语法学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Protagoras | 普罗塔戈拉 | lorenzo-valla | 千年通行译名（古希腊智者；哲学史工具书通行） | 2026-11-04 |
+| Euathlus | 欧绪阿卢斯 | lorenzo-valla | 希腊史工具书通行音译（普罗塔戈拉弟子、讼案当事学生） | 2026-11-04 |
+| Ralph Strode | 拉尔夫·斯特罗德 | lorenzo-valla | 学界通行汉译（14 世纪牛津逻辑学家） | 2026-11-04 |
+| Paul of Venice | 威尼斯的保罗 | lorenzo-valla | 学界通行汉译（《小逻辑》作者；SUMMARY 既有条目名沿用） | 2026-11-04 |
+| Gratian | 格拉提安 | lorenzo-valla | 教会法学界通行汉译（《教令集》作者） | 2026-11-04 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Marcus Aurelius | 马可·奥勒留 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Margaret Fuller | 玛格丽特·富勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -380,6 +400,9 @@
 | William of Ockham | 奥卡姆的威廉 | richard-sophister | SUMMARY 既有条目名（o/ockham.md）；学界通行汉译 | 2026-11-04 |
 | Walter Burley | 沃尔特·伯利 | richard-sophister | SUMMARY 既有条目名（b/burley.md）；学界通行汉译 | 2026-11-04 |
 | Adam Wodeham | 亚当·德·沃德汉姆 | richard-sophister | SUMMARY 既有条目名（w/wodeham.md）；学界通行汉译 | 2026-11-04 |
+| Franz Brentano | 弗朗兹·布伦塔诺 | reism | SUMMARY 既有条目名（b/brentano.md）；语料通行 | 2026-11-04 |
+| Stanisław Leśniewski | 莱斯涅夫斯基 | reism | 语料回收（i/identity.md 用例）；学界通行 | 2026-11-04 |
+| Alfred Tarski | 塔尔斯基 | reism | 本册既定（林登鲍姆–塔尔斯基代数）；学界通行 | 2026-11-04 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 
@@ -535,6 +558,23 @@
 | MacMahan, Jeff | 杰夫·麦克马汉 | ethics-deontological | 学界惯例（《杀戮的伦理学》作者，通行音译） | 2026-11-04 |
 | Wedgewood, Ralph | 拉尔夫·韦奇伍德 | ethics-deontological | 学界惯例（心灵哲学家，通行音译） | 2026-11-04 |
 | Bacon, Francis | 弗朗西斯·培根 | ethics-deontological | 学界千年通行译名 | 2026-11-04 |
+
+| Proudhon, Pierre-Joseph | 蒲鲁东 | economic-democracy | 学界通行汉译（《什么是所有权》作者） | 2026-11-04 |
+| Webb, Sidney and Beatrice | 西德尼与比阿特丽斯·韦伯（韦伯夫妇） | economic-democracy | 学界通行汉译（英国费边社会主义者） | 2026-11-04 |
+| Anderson, Elizabeth | 伊丽莎白·安德森 | economic-democracy | 学界通行汉译（《私人政府》作者） | 2026-11-04 |
+| Honneth, Axel | 阿克塞尔·霍耐特 | economic-democracy | 学界通行汉译（法兰克福学派） | 2026-11-04 |
+| Ferreras, Isabelle | 伊莎贝尔·费雷拉斯 | economic-democracy | 学界惯例（两院制企业提案者，通行音译） | 2026-11-04 |
+| Pettit, Philip | 菲利普·佩蒂特 | economic-democracy | 学界通行汉译（新共和主义） | 2026-11-04 |
+| Roemer, John | 约翰·罗默 | economic-democracy | 学界通行汉译（分析马克思主义经济学家） | 2026-11-04 |
+| Ostrom, Elinor | 埃莉诺·奥斯特罗姆 | economic-democracy | 学界通行汉译（诺贝尔经济学奖得主，《公地的治理》） | 2026-11-04 |
+| Hardin, Garrett | 加勒特·哈丁 | economic-democracy | 学界通行汉译（"公地悲剧"作者；与桑德拉·哈丁异人） | 2026-11-04 |
+| Coase, Ronald | 罗纳德·科斯 | economic-democracy | 学界通行汉译（诺贝尔经济学奖得主） | 2026-11-04 |
+| Williamson, Oliver | 奥利弗·威廉姆森 | economic-democracy | 学界通行汉译（交易成本经济学） | 2026-11-04 |
+| Reich, Robert | 罗伯特·赖克 | economic-democracy | 学界惯例（美国劳工部长/学者，通行音译） | 2026-11-04 |
+| Dahl, Robert | 罗伯特·达尔 | economic-democracy | 学界通行汉译（民主理论家） | 2026-11-04 |
+| Walzer, Michael | 迈克尔·沃尔泽 | economic-democracy | 学界通行汉译（《正义诸领域》作者） | 2026-11-04 |
+| Schein, Edgar | 埃德加·沙因 | economic-democracy | 学界通行汉译（组织文化理论家） | 2026-11-04 |
+| Frega, Roberto | 罗伯托·弗雷加 | economic-democracy | 学界惯例（杜威研究/职场民主，通行音译） | 2026-11-04 |
 
 ## 登记格式说明
 

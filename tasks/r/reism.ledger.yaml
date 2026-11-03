@@ -1,0 +1,527 @@
+version: 1
+slug: reism
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Reism is the doctrine that only things exist. The name is derived from the Latin noun *res* (‘thing’). The interpretation of this very rough view depends on how things are understood. Reism was anticipated by many nominalists (that is, philosophers maintaining that only individuals exist) and materialists, particularly by the *Stoics*, medieval doctrines of *singularia* (particulars) or Hobbes’ considerations on *corpora* (bodies). Some tenets of reism are to be found in *Leibniz*. *Brentano* defended reism very strongly in his later philosophy, when he argued against *entia rationis* (objects of thought; he meant by this objects which exist in thought alone). Brentano became a reist in about 1904 and attracted to this position some of his younger followers (so-called younger Brentanists), like O. Kraus, A. Kastil and G. Katkov. The most developed version of reism can be credited to Tadeusz Kotarbiński (1886–1981), a Polish philosopher and one of the leading members of *the Lvov-Warsaw School*. He introduced the term ‘reism’ to denote the philosophical view that the category of things is the sole ontological category. In other words, reism reduces all categories to that of things. Yet reists differ in their views about what exactly is included in the category of things. For example, if one takes the Aristotelian table of categories (ten rubrics: substance, relation, etc.) the reist would say that substances interpreted as things are the only existents. Reism also has a semantic dimension, for it recommends that only singular names, that is, names referring to concrete things, should be used, and abstract words avoided. Eventually, one can use sentences with abstract words provided that they have translations into statements with singular terms.
+    step1: |-
+      事物论（reism）是这样一种学说：只有事物存在。这一名称源自拉丁名词 *res*（“事物”）。对这一非常粗略的看法的解释，取决于如何理解事物。事物论被许多唯名论者（即主张只有个体存在的哲学家）和唯物主义者先行提出，尤其是斯多亚学派、中世纪关于 *singularia*（殊相）的学说，或霍布斯关于 *corpora*（物体）的思考。在莱布尼茨那里可以找到事物论的某些信条。布伦塔诺在其后期哲学中非常坚定地为事物论辩护，当时他反对 *entia rationis*（思想对象；他意指仅存在于思想中的对象）。布伦塔诺约在 1904 年成为事物论者，并吸引了他的一些年轻追随者（所谓年轻布伦塔诺派），如 O. Kraus、A. Kastil 与 G. Katkov。事物论最成熟的版本可归于 Tadeusz Kotarbiński（1886–1981），一位波兰哲学家、华沙学派（the Lvov-Warsaw School）的主要成员之一。他引入 “reism” 一词来表示这样一种哲学观点：事物的范畴是唯一的本体论范畴。换言之，事物论把一切范畴都还原为事物范畴。然而，事物论者对事物范畴中究竟包括什么，看法并不一致。例如，如果取亚里士多德的范畴表（十项：实体、关系等），事物论者会说，被解释为事物的实体是唯一的存在者。事物论还有一个语义维度，因为它主张只应使用单称名称，即指称具体事物的名称，并避免抽象词。最终，只要含抽象词的句子有翻译成含单称词的陈述，就可以使用它们。
+    step2: |-
+      事物论（reism）是这样一种学说：只有事物存在。名称源自拉丁名词 *res*（“事物”）。这一相当粗略的立场作何解释，取决于如何理解“事物”。许多唯名论者（主张只有个体存在的哲学家）与唯物主义者都先行提出过类似观点，最突出的是斯多亚学派、中世纪关于 *singularia*（殊相）的学说，以及霍布斯关于 *corpora*（物体）的思考。莱布尼茨那里也能找到事物论的若干信条。布伦塔诺在后期哲学中极为坚定地为事物论辩护，反对 *entia rationis*（思想对象；他意指仅存在于思想中的对象）。布伦塔诺约在 1904 年成为事物论者，并把一些年轻追随者（所谓年轻布伦塔诺派）吸引到这一立场上来，如 O. Kraus、A. Kastil 与 G. Katkov。事物论最成熟的版本应归于 Tadeusz Kotarbiński（1886–1981）——波兰哲学家、华沙学派（the Lvov-Warsaw School）的主要成员之一。他引入 “reism” 一词，表示这样一种哲学观点：事物范畴是唯一的本体论范畴；换言之，事物论把一切范畴都还原为事物范畴。不过，事物范畴里究竟包括什么，事物论者之间看法不一。例如，若取亚里士多德的范畴表（十项：实体、关系等），事物论者会说：被解释为事物的实体是唯一的存在者。事物论还有一个语义维度：它主张只使用单称名称——即指称具体事物的名称——并避免抽象词；最终，只要含抽象词的句子能翻译为含单称词的陈述，使用它们也是可以的。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Brentano’s Reism
+    step1: |-
+      ## 1 布伦塔诺的事物论
+    step2: |-
+      ## 1 布伦塔诺的事物论
+  - id: 3
+    kind: body
+    source: |-
+      When arguing for reism Brentano was conscious of some related views of Leibniz. He even referred to Leibniz’s statements (in *Nouveaux essais*) about the dangers caused by using abstract words. Brentano’s reism was an effect of his departure from Aristotelian ontology. Brentano’s first metaphysics has a rich list of categories, including substances, modifications, circumstance, etc. Later, he divided being into things and *irrealia*, and the latter into immanent objects, contents, relations and so-called *collectiva*. All items belonging to *irrealia* had the status of *entia rationis* (beings in the mind or thought objects). Ultimately, Brentano rejected all *entia rationis*, that is, intentional objects, immanent objects, states of affairs, existence and non-existence, modalities, relations, probabilities, universals, Gestalten, time and space, Aristotelian forms, contents of judgements, etc.. His final ontological theory was based on the equality: being = *entia realia* = things. According to Brentano’s later philosophy, things are concrete (particular) entities. They are fully determined in their properties and are extended in time. Brentano distinguished two kinds of things, namely bodies (temporal and spatially extended) and souls (only temporal).
+    step1: |-
+      布伦塔诺为事物论辩护时，意识到莱布尼茨的一些相关观点。他甚至提到莱布尼茨（在 *Nouveaux essais* 中）关于使用抽象词所生危险的论述。布伦塔诺的事物论是他偏离亚里士多德本体论的一个结果。布伦塔诺的第一种形而上学有一个繁多的范畴清单，包括实体、样态、情况等等。后来，他把存在分为事物与 *irrealia*（非实在者），又把后者分为内在对象、内容、关系与所谓 *collectiva*（集合体）。属于 *irrealia* 的一切项都具有 *entia rationis*（心灵中的存在物或思想对象）的身份。最终，布伦塔诺拒绝了所有 *entia rationis*，即意向对象、内在对象、事态、存在与非存在、模态、关系、概率、共相、格式塔（Gestalten）、时间与空间、亚里士多德式的形式、判断的内容等等。他最终的本体论理论基于这样一个等式：存在 = *entia realia*（实在存在物）= 事物。按布伦塔诺的后期哲学，事物是具体的（殊相的）实体。它们在性质上完全被确定，并在时间中延展。布伦塔诺区分两类事物：物体（在时间与空间中延展）与灵魂（只在时间中延展）。
+    step2: |-
+      布伦塔诺为事物论辩护时，意识到了莱布尼茨的一些相关观点。他甚至援引莱布尼茨（在 *Nouveaux essais* 中）关于使用抽象词之危险的论述。布伦塔诺的事物论，是他偏离亚里士多德本体论的一个结果。布伦塔诺最初形而上学里的范畴清单相当庞大，包括实体、样态、情况等等。后来，他把存在分为事物与 *irrealia*（非实在者），再把后者分为内在对象、内容、关系与所谓 *collectiva*（集合体）。凡属 *irrealia* 的项，都具有 *entia rationis*（心灵中的存在物或思想对象）的身份。最终，布伦塔诺拒绝了所有 *entia rationis*：意向对象、内在对象、事态、存在与非存在、模态、关系、概率、共相、格式塔（Gestalten）、时间与空间、亚里士多德式的形式、判断的内容，等等。他最终的本体论理论立足于这样一个等式：存在 = *entia realia*（实在存在物）= 事物。按布伦塔诺的后期哲学，事物是具体的（殊相的）实体：性质完全确定，且在时间中延展。他区分两类事物：物体（时间与空间中都延展）与灵魂（只在时间中延展）。
+  - id: 4
+    kind: body
+    source: |-
+      Brentano offered some methods on how to speak about *entia rationis* without being committed to their existence. Take the sentence:
+    step1: |-
+      布伦塔诺给出了一些方法，谈论 *entia rationis* 而不承诺其存在。看这个句子：
+    step2: |-
+      布伦塔诺给出了一些方法，谈论 *entia rationis* 而不承诺其存在。看这个句子：
+  - id: 5
+    kind: body
+    source: |-
+      **(1)**
+    step1: |-
+      **(1)**
+    step2: |-
+      **(1)**
+  - id: 6
+    kind: body
+    source: |-
+      *a* is a thought object.
+    step1: |-
+      *a* 是一个思想对象。
+    step2: |-
+      *a* 是一个思想对象。
+  - id: 7
+    kind: body
+    source: |-
+      One can maintain that (1) refers to an immanent object (sense-data in the theory of perception are a good example here). According to Brentano, this sentence means:
+    step1: |-
+      可以主张（1）指称一个内在对象（知觉理论中的感觉材料在这里是个好例子）。按布伦塔诺的看法，这个句子的意思是：
+    step2: |-
+      可以主张（1）指称一个内在对象（知觉理论中的感觉材料就是个现成的例子）。按布伦塔诺的看法，这个句子的意思是：
+  - id: 8
+    kind: body
+    source: |-
+      **(2)**
+    step1: |-
+      **(2)**
+    step2: |-
+      **(2)**
+  - id: 9
+    kind: body
+    source: |-
+      A person *X* is thinking about *a*.
+    step1: |-
+      一个人 *X* 正在想 *a*。
+    step2: |-
+      一个人 *X* 正在思考 *a*。
+  - id: 10
+    kind: body
+    source: |-
+      Now, (2) is about *X* not about *a*. Another instructive example concerns universals. Consider:
+    step1: |-
+      此时，（2）谈的是 *X* 而不是 *a*。另一个有启发性的例子涉及共相。考虑：
+    step2: |-
+      此时，（2）谈的是 *X* 而非 *a*。另一个有启发性的例子涉及共相。考虑：
+  - id: 11
+    kind: body
+    source: |-
+      **(3)**
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
+  - id: 12
+    kind: body
+    source: |-
+      Redness is a color.
+    step1: |-
+      红性是一种颜色。
+    step2: |-
+      红性是一种颜色。
+  - id: 13
+    kind: body
+    source: |-
+      Apparently, it seems to refer to two abstracts, namely Redness and Color. However, (3) means that all red things are red, and, by the rule of conversion of categorical sentences implies
+    step1: |-
+      表面上，它似乎指称两个抽象物，即红性与颜色。然而，（3）的意思是所有红色的东西都是红的，并且按直言句的换位规则蕴涵
+    step2: |-
+      表面上，它似乎指称两个抽象物：红性与颜色。然而，（3）的意思不过是：凡红的东西都是红的；再按直言句换位规则，便蕴涵
+  - id: 14
+    kind: body
+    source: |-
+      **(4)**
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
+  - id: 15
+    kind: body
+    source: |-
+      some colored things are red;
+    step1: |-
+      有的有颜色的东西是红的；
+    step2: |-
+      有的有颜色的东西是红的；
+  - id: 16
+    kind: body
+    source: |-
+      hence, the ontological commitment of (3) is reducible to individuals (red things). According to Brentano, terms referring to *entia rationis* are actually not expressions functioning as names, but they belong to so-called *syncategorematica* (or *synsemantica*), that is, the category of expressions not having an autonomous meaning, but only a contextual one as for example, logical constants (‘and’, ‘or’, etc.). Omitting sentences, only names of particulars are categorematic (or autosemantic). On the other hand, the nouns used to refer to *entia rationis* are useful because they simplify our discourse. Nevertheless, we could live without abstract terms.
+    step1: |-
+      由此，（3）的本体论承诺可还原为个体（红的东西）。按布伦塔诺的看法，指称 *entia rationis* 的词项实际上不是充当名称的表达式，而属于所谓 *syncategorematica*（或 *synsemantica*），即没有自立意义、只有语境意义的表达式一类，例如逻辑常项（“并且”、“或者”等）。除句子外，只有殊相的名称是范畴词（或自立语义词）。另一方面，用来指称 *entia rationis* 的名词是有用的，因为它们简化了我们的言谈。尽管如此，没有抽象词我们也能过。
+    step2: |-
+      由此，（3）的本体论承诺可还原为个体（红的东西）。按布伦塔诺的看法，指称 *entia rationis* 的词项实际上并不是起名称作用的表达式，而属于所谓 *syncategorematica*（或 *synsemantica*）——即没有自立意义、只有语境意义的那类表达式，如逻辑常项（“并且”、“或者”等）。除句子外，只有殊相的名称才是范畴词（或自立语义词）。另一方面，用来指称 *entia rationis* 的名词自有其用：它们让我们的言谈变得简便。尽管如此，没有抽象词我们也照样能说话。
+  - id: 17
+    kind: body
+    source: |-
+      Brentano also offered a quite general argument for reism based on the idea of intentionality as direction of thinking (and other mental acts). According to Brentano, the expression ‘to think’ is univocal in the sense that it always refers to a definite mental act directed to something. Accordingly ‘to think’ always means ‘to think of something’. This implies that the expression ‘something’ is univocal too, because there is no generic concept comprising both things and non-things as object to which intentional acts refer. This argument assumes that ‘something’ is co-extensional with ‘being’. Now, if ‘being’ is the most general noun, there is no noun which refers to being and non-being. Hence, if ‘something’ refers to a thing at time *t*, it cannot refer to a non-thing at different time. Although Brentano himself considered this argument as fully conclusive, it is dubious whether he was right in this respect. His argument eventually implies that if ‘something’ refers to the objects *a* and *b*, both belong to the same ontological category, but not that they are things, at least, in any ordinary sense. Thus, Brentano’s argument for reism is at most an argument for a unicategorial ontology, that is, an ontology based on only one kind of object. See section 4 for the further discussion.
+    step1: |-
+      布伦塔诺还为事物论提供了一个相当一般的论证，它基于这样一种意向性观念：意向性是思想（及其他心灵活动）的方向。按布伦塔诺的看法，“思想”这个表达式是单义的，其意义在于它总是指称一个指向某物的确定心灵活动。因此“思想”总是意味着“想到某物”。这蕴涵“某物”这个表达式也是单义的，因为不存在一个把事物与非事物都涵盖为其对象的属概念——意向活动所指向的对象。这一论证假定“某物”与“存在”共外延。而如果“存在”是最一般的名词，那就没有名词既指称存在又指称非存在。因此，如果“某物”在时间 *t* 指称一个事物，它就不能在另一个时间指称一个非事物。尽管布伦塔诺本人认为这一论证是完全决定性的，但他在这方面是否正确，是可疑的。他的论证最终蕴涵的是：如果“某物”指称对象 *a* 与 *b*，那么两者属于同一本体论范畴，但不蕴涵它们是事物——至少在任何通常意义上。因此，布伦塔诺的事物论论证至多是单范畴本体论的一个论证，即基于唯一一类对象的本体论。进一步讨论见第 4 节。
+    step2: |-
+      布伦塔诺还为事物论给出了一个相当一般的论证，它基于这样一种意向性观念：意向性就是思想（及其他心灵活动）的方向。按布伦塔诺的看法，“思想”这个表达式是单义的：它总是指称一个指向某物的确定心灵活动。因此，“思想”总是意味着“想到某物”。这蕴涵“某物”这个表达式也是单义的，因为没有一个属概念能把事物与非事物一并涵盖为意向活动所指向的对象。这一论证假定“某物”与“存在”共外延。而“存在”既然是最一般的名词，就没有哪个名词既能指称存在又能指称非存在。于是，如果“某物”在时间 *t* 指称一个事物，它就不能在另一个时间指称非事物。布伦塔诺本人认为这一论证完全具有决定性，但他在这方面是否正确，颇为可疑。他的论证最终蕴涵的是：如果“某物”指称对象 *a* 与 *b*，两者就属于同一本体论范畴——但并不蕴涵它们是事物，至少在任何通常意义上不是。因此，布伦塔诺的事物论论证至多是单范畴本体论（即只承认一类对象的本体论）的一个论证。进一步讨论见第 4 节。
+  - id: 18
+    kind: body
+    source: |-
+      ## 2. Kotarbiński’s Reism
+    step1: |-
+      ## 2 Kotarbiński 的事物论
+    step2: |-
+      ## 2 Kotarbiński 的事物论
+  - id: 19
+    kind: body
+    source: |-
+      Although Kotarbiński was a philosophical grandson of Brentano (*via* K. Twardowski, a student of the latter), he developed his version of reism independently (Woleński 1996, 357)[^woleński-1996]. This took place in the 1920s. The most extensive treatment of Kotarbiński’s reism is to be found in his book *Elementy*, published in 1929 (in Polish). In general, Kotarbiński followed Brentano’s criticism of abstract objects. Kotarbiński worked with a simplified table of ontological categories proposed by W. Wundt at the end of the 19ᵗʰ century. This table includes: things, states of affairs, relations and properties. Accordingly, Kotarbiński stated reism by two theses:
+    step1: |-
+      尽管 Kotarbiński 是布伦塔诺的哲学孙辈（*via* K. Twardowski，后者的学生），他独立地发展了他自己的事物论版本（Woleński 1996, 357）[^woleński-1996]。这发生在 1920 年代。对 Kotarbiński 事物论最详尽的讨论，见于其书 *Elementy*，1929 年出版（波兰文）。总体上，Kotarbiński 跟随布伦塔诺对抽象对象的批评。Kotarbiński 使用 W. 冯特在十九世纪末提出的一个简化的本体论范畴表。这个表包括：事物、事态、关系与性质。据此，Kotarbiński 用两条论题陈述事物论：
+    step2: |-
+      Kotarbiński 虽是布伦塔诺的哲学孙辈（*via* K. Twardowski，后者的学生），却独立发展出了自己的一版事物论（Woleński 1996, 357）[^woleński-1996]。这发生在 1920 年代。对 Kotarbiński 事物论最详尽的讨论，见于他 1929 年出版的（波兰文）著作 *Elementy*。总体上，Kotarbiński 跟随布伦塔诺对抽象对象的批评。他使用的是 W. 冯特在十九世纪末提出的一张简化的本体论范畴表，其中包含：事物、事态、关系与性质。据此，Kotarbiński 用两条论题来陈述事物论：
+  - id: 20
+    kind: body
+    source: |-
+      **(R1)**
+    step1: |-
+      **(R1)**
+    step2: |-
+      **(R1)**
+  - id: 21
+    kind: body
+    source: |-
+      Any object is a thing.
+    step1: |-
+      任一对象都是事物。
+    step2: |-
+      任一对象都是事物。
+  - id: 22
+    kind: body
+    source: |-
+      **(R2)**
+    step1: |-
+      **(R2)**
+    step2: |-
+      **(R2)**
+  - id: 23
+    kind: body
+    source: |-
+      No object is a state of affairs, relation or property.
+    step1: |-
+      没有对象是事态、关系或性质。
+    step2: |-
+      没有对象是事态、关系或性质。
+  - id: 24
+    kind: body
+    source: |-
+      The thesis (R1) was supplemented by a closer characterization of things given by
+    step1: |-
+      论题（R1）由下式给出的对事物的更贴切刻画来补充：
+    step2: |-
+      （R1）再由下式对事物的更贴切刻画加以补充：
+  - id: 25
+    kind: body
+    source: |-
+      **(R3)**
+    step1: |-
+      **(R3)**
+    step2: |-
+      **(R3)**
+  - id: 26
+    kind: body
+    source: |-
+      *a* is thing = *a* is a resistant and extended object (a material body).
+    step1: |-
+      *a* 是事物 = *a* 是一个有抗拒力且延展的对象（一个物质物体）。
+    step2: |-
+      *a* 是事物 = *a* 是一个有抗拒力且延展的对象（一个物质物体）。
+  - id: 27
+    kind: body
+    source: |-
+      Kotarbiński called (R3) “the thesis of pansomatism” (pansomatism is derived from the Greek term *soma* which means ‘body’; hence, pansomatism claims that every object is a body, assuming that bodies are material). It indicates that reism defined by (R1)–(R3) is a kind of materialism. Kotarbiński sometimes used the terms ‘reism’, ‘pansomatism’ and ‘concretism’ as equivalents.
+    step1: |-
+      Kotarbiński 把（R3）称为“泛躯体主义论题”（pansomatism 源自希腊词 *soma*，意为“躯体”；因此，泛躯体主义主张每个对象都是躯体，这里假定躯体是物质的）。它表明由（R1）–（R3）定义的事物论是一种唯物主义。Kotarbiński 有时把 “reism”、“pansomatism” 与 “concretism”（具体主义）三个词用作同义词。
+    step2: |-
+      Kotarbiński 把（R3）称为“泛躯体主义论题”（pansomatism 源自希腊词 *soma*，意为“躯体”；所以，泛躯体主义主张每个对象都是躯体——这里假定躯体是物质的）。这表明，由（R1）–（R3）定义的事物论是一种唯物主义。Kotarbiński 有时把 “reism”、“pansomatism” 与 “concretism”（具体主义）当作同义词使用。
+  - id: 28
+    kind: body
+    source: |-
+      The theses (R1)–(R3) concern an ontological dimension of reism or ontological reism. However, Kotarbiński’s reism, like Brentano’s version of this view, also has a semantic dimension. Semantic reism is a theory of language. In particular, it is a theory of names. According to this account, names occurring in ordinary parlance can be divided into two categories: genuine names and non-genuine names (i.e., apparent names, onomatoids). The former category is reduced to names of things in the sense of (R1) and (R3). Now, onomatoids seem to refer to abstract objects, but that is a mistake, because such objects do not exist by standards of reism. Kotarbiński supplemented this distinction with a theory of sense. Only sentences with genuine names (and logical constants) have a literal meaning (sense). If a sentence with onomatoids is replaceable by a sentence with genuine names only (call such sentences “reistic”), it is meaningful, if not it is meaningless. Consider:
+    step1: |-
+      论题（R1）–（R3）涉及事物论的本体论维度，即本体论事物论。然而，正如布伦塔诺版的这一观点一样，Kotarbiński 的事物论也有一个语义维度。语义事物论是一种语言理论，特别是一种名称理论。按这一说明，日常言谈中出现的名称可分为两类：真名称与非真名称（即表面名称、onomatoids［似名称］）。前一类被还原为（R1）与（R3）意义上的事物名称。onomatoids 似乎指称抽象对象，但这是一个错误，因为按事物论的标准这类对象不存在。Kotarbiński 用一种涵义理论补充了这个区分。只有含真名称（及逻辑常项）的句子才有字面意义（涵义）。如果一个含 onomatoids 的句子可被一个只含真名称的句子替换（称这类句子为“事物论式的”），它就是有意义的；否则就是无意义的。考虑：
+    step2: |-
+      论题（R1）–（R3）关乎事物论的本体论维度，即本体论事物论。然而，与布伦塔诺版的这一观点一样，Kotarbiński 的事物论也有一个语义维度。语义事物论是一种语言理论，尤其是一种名称理论。按这一说明，日常言谈中出现的名称可分两类：真名称与非真名称（即表面名称、onomatoids［似名称］）。前一类被还原为（R1）与（R3）意义上的事物名称。onomatoids 看似指称抽象对象，但这是错觉——按事物论的标准，这类对象并不存在。Kotarbiński 为这个区分补上了一种涵义理论：只有含真名称（及逻辑常项）的句子才有字面意义（涵义）。一个含 onomatoids 的句子，若能换成只含真名称的句子（这样的句子称为“事物论式的”），就有意义；换不了，就无意义。考虑：
+  - id: 29
+    kind: body
+    source: |-
+      **(5)**
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
+  - id: 30
+    kind: body
+    source: |-
+      Wisdom is a property of some people.
+    step1: |-
+      智慧是某些人的性质。
+    step2: |-
+      智慧是某些人的性质。
+  - id: 31
+    kind: body
+    source: |-
+      It contains two apparent names, namely ‘wisdom’ and ‘property’. Now, according to Kotarbiński, the content of (5) can be fully expressed by:
+    step1: |-
+      它包含两个表面名称，即“智慧”与“性质”。按 Kotarbiński 的看法，（5）的内容可以被充分表达为：
+    step2: |-
+      句中含两个表面名称：“智慧”与“性质”。而按 Kotarbiński 的看法，（5）的内容可以充分表达为：
+  - id: 32
+    kind: body
+    source: |-
+      **(6)**
+    step1: |-
+      **(6)**
+    step2: |-
+      **(6)**
+  - id: 33
+    kind: body
+    source: |-
+      Some people are wise.
+    step1: |-
+      有些人是智慧的。
+    step2: |-
+      有些人是有智慧的。
+  - id: 34
+    kind: body
+    source: |-
+      This sentence does not have any apparent name. On the other hand, the sentence:
+    step1: |-
+      这个句子不含任何表面名称。另一方面，句子：
+    step2: |-
+      这个句子不含任何表面名称。另一方面，再看句子：
+  - id: 35
+    kind: body
+    source: |-
+      **(7)**
+    step1: |-
+      **(7)**
+    step2: |-
+      **(7)**
+  - id: 36
+    kind: body
+    source: |-
+      States of affairs are abstract objects.
+    step1: |-
+      事态是抽象对象。
+    step2: |-
+      事态是抽象对象。
+  - id: 37
+    kind: body
+    source: |-
+      is not replaceable by any sentence in which onomatoids are replaced by genuine names. At first glance, onomatoids are similar to empty names. Yet there is an important difference between them because sentences with empty names are meaningful. For example,
+    step1: |-
+      它不能被任何把 onomatoids 换成真名称的句子所替换。初看之下，onomatoids 与空名称相似。但两者之间有一个重要差别，因为含空名称的句子是有意义的。例如，
+    step2: |-
+      没有任何一个把 onomatoids 换成真名称的句子可以替换它。初看之下，onomatoids 似乎与空名称相近。但两者有一个重要差别：含空名称的句子是有意义的。例如，
+  - id: 38
+    kind: body
+    source: |-
+      **(8)**
+    step1: |-
+      **(8)**
+    step2: |-
+      **(8)**
+  - id: 39
+    kind: body
+    source: |-
+      Centaurs are horses,
+    step1: |-
+      半人马是马，
+    step2: |-
+      半人马是马，
+  - id: 40
+    kind: body
+    source: |-
+      does not need to be replaced by a reistic sentence because it is itself reistic. Kotarbiński believes that (8) is meaningful, unlike (7), and that this shows that sentences with empty names are already reistic, unlike sentences with onomatoids, which are meaningless. Sentences with apparent names have either meanings *via* reistic translations or they are meaningless strings of words. Onomatoids are dangerous, because they are sources of hypostatisation, which consists in committing abstract objects as really existing, although their existence is apparent only. In particular, hypostatisation is very common in philosophy (see the sentence (7) above) and leads, according to Kotarbiński, to pointless speculations about abstract objects, their kinds, etc. Therefore, reism provides a weapon against involving philosophy in unending pseudocontroversies. In particular, reism accuses all kinds of Platonism to be the source of the hopeless problems and discussions that stem from admitting the existence of beings, like Platonic forms.
+    step1: |-
+      它不需要被替换成事物论式的句子，因为它本身就是事物论式的。Kotarbiński 认为（8）有意义而不像（7），并且这表明含空名称的句子已经是事物论式的，而含 onomatoids 的句子则无意义。含表面名称的句子，要么*经由*事物论式翻译获得意义，要么只是无意义的词串。onomatoids 是危险的，因为它们是实体化（hypostatisation）的根源；实体化在于把抽象对象当作真实存在来承诺，尽管它们的存在只是表面的。特别地，实体化在哲学中极为常见（见上面的句子（7）），并且按 Kotarbiński 的看法，它导致关于抽象对象及其种类的无谓思辨。因此，事物论提供了一件武器，防止哲学陷入无休止的假争论。特别地，事物论指控一切类型的柏拉图主义是那些无望问题与讨论的根源——这些问题与讨论源于承认柏拉图式形式这类存在者的存在。
+    step2: |-
+      它无需替换成事物论式的句子，因为它本身就是事物论式的。Kotarbiński 认为，（8）有意义，（7）则不然；这表明含空名称的句子已然是事物论式的，而含 onomatoids 的句子无意义。含表面名称的句子，要么*经由*事物论式翻译获得意义，要么只是无意义的词串。onomatoids 的危险在于它们是实体化（hypostatisation）的根源：实体化把抽象对象当作真实存在来承诺，尽管其存在只是表面的。实体化在哲学中尤为常见（见上面的句子（7））；按 Kotarbiński 的看法，它导致关于抽象对象及其种类的无谓思辨。因此，事物论提供了一件武器，防止哲学陷入无休止的假争论。它特别指控一切类型的柏拉图主义，认为那种承认柏拉图式形式这类存在者存在的做法，正是种种无望的问题与讨论的根源。
+  - id: 41
+    kind: body
+    source: |-
+      Some points of Kotarbiński’s reism can be illuminated by pointing out its connections with Leśniewski’s calculus of names (the Leśniewski’s Ontology, LO, for brevity). According to LO, a name is an expression which can stand for the variable *b* in the sentence:
+    step1: |-
+      Kotarbiński 事物论的某些要点，可以通过指出它与莱斯涅夫斯基的名称演算（简称莱斯涅夫斯基的本体论，LO）的联系而得到阐明。按 LO，名称是一个能在句子中充当变元 *b* 的表达式：
+    step2: |-
+      Kotarbiński 事物论的某些要点，可借它与莱斯涅夫斯基名称演算（即莱斯涅夫斯基的本体论，简称 LO）的联系来阐明。按 LO，名称就是能在句子中充当变元 *b* 的表达式：
+  - id: 42
+    kind: body
+    source: |-
+      **(9)**
+    step1: |-
+      **(9)**
+    step2: |-
+      **(9)**
+  - id: 43
+    kind: body
+    source: |-
+      *a* is *b*.
+    step1: |-
+      *a* 是 *b*。
+    step2: |-
+      *a* 是 *b*。
+  - id: 44
+    kind: body
+    source: |-
+      (Leśniewski wanted to have names in the predicative position). It is assumed that the copula ‘is’ has so-called fundamental meaning. It is established by the axiom of LO, which is, the conjuction of three following sentences:
+    step1: |-
+      （莱斯涅夫斯基想让名称占据谓述位置。）这里假定系词“是”具有所谓基本意义。它由 LO 的公理确立；该公理是下面三个句子的合取：
+    step2: |-
+      （莱斯涅夫斯基要让名称处在谓述位置上。）这里假定系词“是”具有所谓基本意义。基本意义由 LO 的公理确立，该公理是下面三个句子的合取：
+  - id: 45
+    kind: body
+    source: |-
+      - There is some *x*, such that *x* is *a*.
+      - For any *x*, if *x* is *a*, then *x* is *b*.
+      - For any *x* and *y*, if *x* is *a* and *y* is *a*, then *x* is *y*.
+    step1: |-
+      - 存在某个 *x*，使得 *x* 是 *a*。
+      - 对任一 *x*，若 *x* 是 *a*，则 *x* 是 *b*。
+      - 对任意 *x* 与 *y*，若 *x* 是 *a* 且 *y* 是 *a*，则 *x* 是 *y*。
+    step2: |-
+      - 存在某个 *x*，使得 *x* 是 *a*。
+      - 对任一 *x*，若 *x* 是 *a*，则 *x* 是 *b*。
+      - 对任意 *x* 与 *y*，若 *x* 是 *a* 且 *y* 是 *a*，则 *x* 是 *y*。
+  - id: 46
+    kind: body
+    source: |-
+      This axiom implies that, in order to be true, any sentence of the form (9) must have a singular name (that is, a name denoting exactly one object) at the place *a*. Furthermore, the copula ‘is’ is devoid of any temporal or spatial connotations. Any sentence with an empty name in the position of *a* or *b* is false; thus, (8) is false. The sentence,
+    step1: |-
+      这条公理蕴涵：形如（9）的句子要为真，必须在 *a* 的位置上有一个单称名称（即恰好指称一个对象的名称）。此外，系词“是”不带任何时间或空间涵义。任何在 *a* 或 *b* 位置上含空名称的句子都是假的；因此（8）是假的。句子
+    step2: |-
+      这条公理蕴涵：形如（9）的句子要为真，就必须在 *a* 的位置上有一个单称名称（恰好指称一个对象的名称）。此外，系词“是”不带任何时间或空间涵义。凡在 *a* 或 *b* 位置上含空名称的句子都是假的；因此（8）为假。句子
+  - id: 47
+    kind: body
+    source: |-
+      **(10)**
+    step1: |-
+      **(10)**
+    step2: |-
+      **(10)**
+  - id: 48
+    kind: body
+    source: |-
+      *a* is a thing,
+    step1: |-
+      *a* 是一个事物，
+    step2: |-
+      *a* 是一个事物，
+  - id: 49
+    kind: body
+    source: |-
+      which is crucial for reism, is true only if the term *a* is a name of a particular. Thus, the logical basis of reism implies that names of things are singular. LO justifies also Kotarbiński’s account of common nouns (general names, according to traditional logic) as genuine names. Consider the sentence:
+    step1: |-
+      它对事物论至关重要，只有当词项 *a* 是一个殊相的名称时才为真。因此，事物论的逻辑基础蕴涵：事物的名称是单称的。LO 也为 Kotarbiński 把普通名词（按传统逻辑，即普遍名称）当作真名称的处理提供了辩护。考虑句子：
+    step2: |-
+      这个句子对事物论至关重要：只有当词项 *a* 是某个殊相的名称时，它才为真。因此，事物论的逻辑基础蕴涵：事物的名称是单称的。LO 同时也为 Kotarbiński把普通名词（按传统逻辑即普遍名称）当作真名称的做法提供了辩护。考虑句子：
+  - id: 50
+    kind: body
+    source: |-
+      **(11)**
+    step1: |-
+      **(11)**
+    step2: |-
+      **(11)**
+  - id: 51
+    kind: body
+    source: |-
+      John is a sportsman,
+    step1: |-
+      约翰是一个运动员，
+    step2: |-
+      约翰是一名运动员，
+  - id: 52
+    kind: body
+    source: |-
+      where ‘John’ is a proper name, that is, referring to an individual person. The expression ‘sportsman’ should be interpreted as ‘one of the sportsmen’, that is, it refers to any individual belonging to the class of sportsmen. It enables the reader to see a connection between ‘John’ and ‘sportsman’ as expressed by:
+    step1: |-
+      其中“约翰”是一个专名，即指称一个个别的人。“运动员”这个表达式应被解释为“运动员之一”，即它指称属于运动员类的任何个体。这使读者能看到“约翰”与“运动员”之间的联系，如下式所示：
+    step2: |-
+      其中“约翰”是专名，指称一个个别的人。“运动员”这个表达式则应解作“运动员之一”——它指称属于运动员这个类的任何一个个体。由此读者可以看出“约翰”与“运动员”的联系，如下式所示：
+  - id: 53
+    kind: body
+    source: |-
+      **(12)**
+    step1: |-
+      **(12)**
+    step2: |-
+      **(12)**
+  - id: 54
+    kind: body
+    source: |-
+      If a person is denoted by ‘John’, it is also denoted by ‘sportsman’.
+    step1: |-
+      如果一个人被“约翰”所指称，那么他也被“运动员”所指称。
+    step2: |-
+      凡被“约翰”所指称的人，也被“运动员”所指称。
+  - id: 55
+    kind: body
+    source: |-
+      A further possible step consists in appealing to mereology (i.e., the theory of parts and wholes) and interpreting the class of sportsmen as a collective (mereological) set. On the other hand, LO does not motivate the division of names into genuine names and onomatoids. In particular, Leśniewski himself was not a reist.
+    step1: |-
+      更进一步的一步是诉诸分体论（即部分与整体的理论），并把运动员类解释为一个集合的（分体论的）总集。另一方面，LO 并不为名称二分为真名称与 onomatoids 提供动机。特别是，莱斯涅夫斯基本人不是一个事物论者。
+    step2: |-
+      还可以更进一步：诉诸分体论（即关于部分与整体的理论），把运动员这个类解释为一个集体性的（分体论意义上的）集合。不过，LO 并不为真名称与 onomatoids 的二分提供动机；莱斯涅夫斯基本人就不是事物论者。
+  - id: 56
+    kind: body
+    source: |-
+      Kotarbiński argued for reism mostly pragmatically. One of his arguments (concerning the dangers of hypostatization) has been pointed out already. Moreover, Kotarbiński saw reism as a very natural interpretation of natural language. He stressed that concrete terms precede abstract nouns in language acquisition and that only bodies (as defined by (R2), that is, pansomatically) are beings which we encounter in our everyday experience. Kotarbiński himself considered the above arguments for reism as sufficient, but he was perfectly conscious that they provide an inductive and partial support for the reistic standpoint.
+    step1: |-
+      Kotarbiński 主要从实用角度为事物论辩护。他的一个论证（关于实体化之危险）上文已经指出。此外，Kotarbiński 把事物论看作对自然语言的一种非常自然的解释。他强调，在语言习得中具体词先于抽象名词，并且只有物体（按（R2）定义，即按泛躯体主义定义）才是我们在日常经验中遇到的存在者。Kotarbiński 本人认为上述事物论论证已经充分，但他完全清楚，它们只是为事物论立场提供了归纳性的、部分的支持。
+    step2: |-
+      Kotarbiński 为事物论辩护，主要走的是实用路线。他的一个论证（关于实体化的危险）上文已经指出。此外，他把事物论看作对自然语言的一种十分自然的解释：他强调，在语言习得中具体词先于抽象名词出现，而且唯有物体（按（R2）定义，即按泛躯体主义定义）才是我们在日常经验中遭遇到的存在者。Kotarbiński 本人认为上述论证已足够为事物论张目，但他也完全清楚：它们为事物论立场提供的，只是归纳性的、部分的支持。
+  - id: 57
+    kind: body
+    source: |-
+      ## 3. Problems and Prospects for Reism
+    step1: |-
+      ## 3 事物论的问题与前景
+    step2: |-
+      ## 3 事物论的问题与前景
+  - id: 58
+    kind: body
+    source: |-
+      Reism had to meet several serious problems. It was very soon observed that (R2), one of the most important theses of reism, contained apparent names ‘state of affairs’, ‘relation’ and ‘property’. Hence, it should be disqualified as meaningless by reistic standards. In order to cope with this objection, Kotarbiński sharply distinguished semantic reism and ontological reism. He gradually ascribed a greater importance to semantic issues. For example, he was inclined to consider (R2) as a statement about the reistic language, that is, providing the condition for which names are admissible in our language. Another difficult problem came from various special fields and concerned the reistic interpretation of mathematics, logic, semantics, psychology sociology and the humanities. How should a reistic interpretation of set theory be presented? Is the concept of meaning explainable reistically? How should psyche, social rules or pieces of art be understood in the reistic frameworks? Kotarbiński hoped that mereology would provide a reistic alternative of set theory. He also offered a partial solution to other difficulties, but he finally recognized that the successes of reism were very partial. At the last stage, Kotarbiński considered reism rather as a program than as a theory of the world and language. However, he always stressed that every form of progress in reism, even regional or local, is a cognitive success, because it introduces a language which is free of the dangers that result from using abstract words. In spite of these difficulties, reism attracted many philosophers, mainly in Poland. Perhaps *Tarski* is the most notable example. He expressed sympathy for reism and even translated one of Kotarbiński’s papers into English, but he used Platonistic methods in his works on the foundations of mathematics.
+    step1: |-
+      事物论不得不面对几个严重问题。人们很快注意到，（R2）——事物论最重要的论题之一——包含表面名称“事态”、“关系”与“性质”。因此，按事物论的标准，它应被取消资格，判为无意义。为应付这一反驳，Kotarbiński 尖锐地区分了语义事物论与本体论事物论。他逐渐把更大的重要性归于语义问题。例如，他倾向于把（R2）看作关于事物论式语言的陈述，即为哪些名称在我们的语言中可接受提供条件。另一个困难问题来自各种专门领域，涉及数学、逻辑、语义学、心理学、社会学与人文学科的事物论解释。集合论的事物论解释应如何给出？意义概念能被事物论式地解释吗？心灵、社会规则或艺术作品在事物论框架中应如何理解？Kotarbiński 希望分体论能为集合论提供一个事物论式的替代。他也为其他困难提供过部分解答，但他最终承认事物论的成功非常有限。在最后阶段，Kotarbiński 宁可把事物论看作一个纲领，而不是关于世界与语言的理论。然而他始终强调，事物论的每一种进步——哪怕是区域性或地方性的——都是认知上的成功，因为它引入了一种语言，免除了使用抽象词所带来的种种危险。尽管有这些困难，事物论吸引了许多哲学家，主要在波兰。也许塔尔斯基是最著名的例子。他对事物论表示同情，甚至把 Kotarbiński 的一篇论文译成英文，但他在数学基础的工作中使用柏拉图主义的方法。
+    step2: |-
+      事物论不得不面对几个严重的问题。人们很快注意到，（R2）——事物论最重要的论题之一——本身就含有表面名称“事态”“关系”“性质”；按事物论自己的标准，它就该被判为无意义而取消资格。为应付这一反驳，Kotarbiński 把语义事物论与本体论事物论截然分开，并逐渐把更大的分量放在语义问题上。例如，他倾向于把（R2）看作关于事物论式语言的陈述：它给出的是哪些名称可在我们的语言中使用的条件。另一类困难来自各专门领域，涉及数学、逻辑、语义学、心理学、社会学与人文学科的事物论解释：集合论的事物论解释该如何给出？意义概念能否事物论式地得到解释？心灵、社会规则或艺术作品在事物论框架中该如何理解？Kotarbiński 指望分体论能为集合论提供一个事物论式的替代。他也为其他困难给出过部分解答，但最终承认：事物论的成功非常有限。到最后阶段，Kotarbiński 与其说把事物论当作关于世界与语言的理论，不如说当作一个纲领。尽管如此，他始终强调：事物论的每一种进步——哪怕是区域性或地方性的——都是认知上的成功，因为它引入了一种语言，免除了使用抽象词带来的种种危险。虽有这些困难，事物论仍吸引了许多哲学家，主要在波兰。最著名的例子大概要数塔尔斯基：他对事物论表示同情，甚至把 Kotarbiński 的一篇论文译成了英文，但他在数学基础研究中使用的仍是柏拉图主义的方法。
+  - id: 59
+    kind: body
+    source: |-
+      ## 4. Some Comparisons
+    step1: |-
+      ## 4 一些比较
+    step2: |-
+      ## 4 一些比较
+  - id: 60
+    kind: body
+    source: |-
+      Kotarbiński’s reism has some affinities with logical empiricism. Pansomatism is a version of physicalism and semantic reism which is similar to the formal mode of speech in Carnap’s sense. Although Kotarbiński’s later formulation of semantic reism was influenced by logical empiricism, pansomatism appeared earlier than the Viennese physicalism. There are several similarties between Kotarbiński and Brentano, but there are also important differences. For Brentano, an object is what can be presented. This definition of object is psychological. Kotarbiński wanted to give an ontological or semantic (an object is what is denoted by a genuine name) explanation of the concept of object. For Brentano, ‘to exist’ means ‘to exist now’, but for Kotarbiński, existence is free of all temporal connotations. The crucial difference is this: Brentano’s reism is dualistic (things are bodies or soul), but Kotarbiński’s reism is monistic (only bodies are things). This difference suggests an interpretation of reism. If we add Leibniz to this company, we see that he, Brentano and Kotarbiński share the following thesis:
+    step1: |-
+      Kotarbiński 的事物论与逻辑经验主义有某些亲缘关系。泛躯体主义是物理主义的一个版本，而语义事物论则类似于卡尔纳普意义上的形式说话方式。尽管 Kotarbiński 后期对语义事物论的表述受到逻辑经验主义的影响，泛躯体主义的出现早于维也纳的物理主义。Kotarbiński 与布伦塔诺之间有几处相似，但也有重要差异。对布伦塔诺来说，对象是能被呈现的东西。这个对象定义是心理学的。Kotarbiński 想给对象概念一个本体论的或语义的解释（对象是真名称所指称的东西）。对布伦塔诺来说，“存在”意味着“现在存在”，而对 Kotarbiński 来说，存在不带任何时间涵义。关键的差别是：布伦塔诺的事物论是二元论的（事物是物体或灵魂），而 Kotarbiński 的事物论是一元论的（只有物体是事物）。这一差别提示了对事物论的一种解释。如果把莱布尼茨也加入这一行列，我们看到他、布伦塔诺与 Kotarbiński 共享如下论题：
+    step2: |-
+      Kotarbiński 的事物论与逻辑经验主义有几分亲缘。泛躯体主义是物理主义的一个版本，语义事物论则近似于卡尔纳普意义上的形式说话方式。Kotarbiński 后期对语义事物论的表述虽受逻辑经验主义影响，泛躯体主义却早于维也纳的物理主义出现。Kotarbiński 与布伦塔诺之间有几处相似，差异同样重要。对布伦塔诺而言，对象是能被呈现的东西——这个对象定义是心理学的；Kotarbiński 则想给对象概念一个本体论或语义的解释（对象就是真名称所指称的东西）。对布伦塔诺而言，“存在”意味着“现在存在”；对 Kotarbiński 而言，存在不带任何时间涵义。关键的差别在此：布伦塔诺的事物论是二元论的（事物是物体或灵魂），Kotarbiński 的事物论则是一元论的（只有物体是事物）。这一差别提示了对事物论的一种解读。若把莱布尼茨也加入这行行列，便能看到：他、布伦塔诺与 Kotarbiński 共享如下论题：
+  - id: 61
+    kind: body
+    source: |-
+      **(RO)**
+    step1: |-
+      **(RO)**
+    step2: |-
+      **(RO)**
+  - id: 62
+    kind: body
+    source: |-
+      Only particulars (individuals, concreta) exist.
+    step1: |-
+      只有殊相（个体、具体物）存在。
+    step2: |-
+      只有殊相（个体、具体物）存在。
+  - id: 63
+    kind: body
+    source: |-
+      On the other hand, the inventory of particulars is different in all three cases. For Leibniz, only spiritual monads exist, for Brentano, there are spiritual souls and material bodies, but for Kotarbiński, only material bodies occur in the world. Thus, we have one formal ontological thesis (RO) and its three different metaphysical concretisations. Using Kotarbiński’s terms, concretism points out an ontological feature of reism, but pansomatism concerns metaphysical matters. If this is accepted, reism in the sense of (RO) becomes a kind of nominalism. Due to its connection with LO, it is a fairly strong version of nominalism, probably stronger than any other. This is due to the fact that identity is defined in elementary Ontology, but is not definable in standard first-order logic.
+    step1: |-
+      另一方面，三者各自的殊相清单不同。对莱布尼茨来说，只有精神的单子存在；对布伦塔诺来说，有精神的灵魂与物质的物体；而对 Kotarbiński 来说，世界中只有物质物体。这样，我们有一条形式本体论论题（RO）及其三种不同的形而上学具体化。用 Kotarbiński 的术语说，具体主义指出事物论的一个本体论特征，而泛躯体主义则涉及形而上学问题。如果接受这一点，那么（RO）意义下的事物论就成为一种唯名论。由于与 LO 的联系，它是唯名论的一个相当强的版本，可能比任何其他版本都强。这是因为，同一性在初等 Ontology 中是可定义的，而在标准一阶逻辑中不可定义。
+    step2: |-
+      另一方面，三家的殊相清单各不相同：莱布尼茨那里只有精神的单子存在；布伦塔诺那里有精神的灵魂和物质的物体；Kotarbiński 的世界里则只有物质物体。于是我们得到一条形式本体论论题（RO），以及它的三种不同的形而上学具体化。用 Kotarbiński 自己的术语说：具体主义点出事物论的本体论特征，泛躯体主义关涉的则是形而上学。若接受这一点，（RO）意义下的事物论便成了一种唯名论；又因为与 LO 的联系，它是唯名论中相当强的一个版本，可能比任何别的版本都强——同一性在初等 Ontology 中有定义，在标准一阶逻辑中却不可定义。
+  - id: 64
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
