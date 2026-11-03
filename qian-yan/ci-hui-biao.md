@@ -437,7 +437,7 @@
 |axiomatic|公理化||
 |Bacon|培根||
 |bald|秃头|堆垛悖论（sorites）的标准示例谓词；台译文献亦作“秃子”|
-|Baruch Spinoza|巴鲁赫·斯宾诺莎||
+|Baruch Spinoza|斯宾诺莎||
 |Basil Bessarion|巴兹尔·贝萨里翁||
 |basing relation|基础关系||
 |Baudrillard|鲍德里亚||

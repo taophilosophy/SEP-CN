@@ -67,7 +67,6 @@
 | Hillel Steiner | 希勒尔·斯坦纳 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hui Shi | 惠施 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Ibn Zaddiq | 伊本·扎迪克 | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Immanuel Kant | 伊曼努尔·康德 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Jacques Lacan | 雅克·拉康 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jacques Maritain | 雅克·马里旦 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jaegwon Kim | 金在权 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -167,6 +166,13 @@
 | Francis Bacon | 弗朗西斯·培根 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Wilhelm von Humboldt | 威廉·冯·洪堡 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Raymundus Lullus | 拉蒙·卢尔 | leibniz-logic-influence | 学界通行汉译（中世纪加泰罗尼亚哲人，通行“卢尔”）；待 specs/008 审定库复核 | 2026-11-03 |
+| Baruch Spinoza | 斯宾诺莎 | leibniz-modal | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Rudolf Carnap | 鲁道夫·卡尔纳普 | leibniz-modal | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Alvin Plantinga | 阿尔文·普兰丁格 | leibniz-modal | 学界通行汉译（《论必然性》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| David Lewis | 大卫·刘易斯 | leibniz-modal | 学界通行汉译（模态实在论）；待 specs/008 审定库复核 | 2026-11-03 |
+| Immanuel Kant | 伊曼努尔·康德 | leibniz-modal | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Jorge Luis Borges | 豪尔赫·路易斯·博尔赫斯 | leibniz-modal | 学界通行汉译（作家，《巴别图书馆》作者）；待 specs/008 审定库复核 | 2026-11-03 |
+| Bourguet | 布尔盖 | leibniz-modal | 学界通行汉译（莱布尼茨通信者 Louis Bourguet）；待 specs/008 审定库复核 | 2026-11-03 |
 | Linda Zagzebski | 琳达·扎格泽布斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Lord Kames | 凯姆斯勋爵 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
