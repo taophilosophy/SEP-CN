@@ -43,3 +43,9 @@
 * **style v4**：italic 线性 tokenizer 根治正则回退跨对（v1/v2/v3 事故总根因：*Latin* 闭星错当开星吞整段中文，al-khunaji L54 复现实锤）；空格斜体对整对保留、** 块跳过；粗斜共存行放开自动处理；star_ok 列表项豁免。intensional 原始译文 61 行星号畸形修复至 4 行遗留（类型论记号结构性冲突）。
 * **并行会话漂移处置**：mu-lu-s 四行英文标题错位对齐 SUMMARY（排除别名链行）；Norris 重复行去重；legrand 批新增登记行不混提。
 * **遗留登记**：①intensional 4 行类型论记号+165 处逻辑式排版（重译域，需数学定界）；②人工深读 152 条未展开（机械层已全绿覆盖其外延）；③autrecourt 7 行/akan-person 3 行畸形（还原后即干净，已随还原批解决）。
+
+## 2026-11-03 深读层启动（主会话直读，009 已覆盖 18 条去重后待读 141）
+
+* 深读台账 `results/manual-deepread.jsonl` 建立；009 三层深读（1%+3%+5%，裸 slug 口径）覆盖去重后 141 条待读，清单 `results/deepread-todo.txt`。
+* 已完成 8 条全 pass：abduction.peirce、abduction、abelard、abhidharma、abilities（实修：特定→特殊能力 7 处统一登记主形，粗体+括注阻隔形态教训）、abner-burgos、abortion、abrabanel。
+* 深读协议：全文通读+结构连续性+术语人名抽检；上游笔误保真与 T-07 空壳 H3 为已知形态族不记缺陷；逐条 verdict 落台账、每批提交。
