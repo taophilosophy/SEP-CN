@@ -11,68 +11,90 @@ segments:
     kind: body
     source: |-
       Richard the Sophister (Richardus Sophista) was an English philosopher/logician who studied at Oxford most likely sometime during the second quarter of the thirteenth century. Richard’s identity is uncertain, but he is known to be the author of a collection of logically puzzling sentences, sometimes called “sophisms”, entitled *Abstractiones*. The puzzling aspect of these sophisms is variously caused by semantic or syntactic ambiguities involved in certain logical or “syncategorematic” words such as “all”, “every”, “or”, “if…then”, “and”, “not”, “begins”, “ceases”, “except”, “necessary”, “possible”, etc.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诡辩家理查德（Richard the Sophister；Richardus Sophista）是一位英国哲学家／逻辑学家，最可能是在十三世纪第二个二十五年间的某个时候在牛津求学的。理查德的身份尚不确定，但已知他是一部名为 *Abstractiones* 的书的作者；该书汇集了一批逻辑上令人困惑的句子，这些句子有时被称为“诡辩句”。这些诡辩句令人困惑的一面，其成因各式各样，都来自某些逻辑词或“非范畴词”所含的语义或句法歧义，例如 “all”、“every”、“or”、“if…then”、“and”、“not”、“begins”、“ceases”、“except”、“necessary”、“possible” 等等。
+    step2: |-
+      诡辩家理查德（Richard the Sophister；Richardus Sophista）是一位英国哲学家／逻辑学家，最可能在十三世纪第二个二十五年间的某个时候于牛津求学。其身份尚不确定，但可以确定他是 *Abstractiones* 一书的作者——这部书汇集了一批逻辑上令人困惑的句子，人称“诡辩句”。这些诡辩句之所以令人困惑，缘由各式各样，都出在某些逻辑词或“非范畴词”带来的语义或句法歧义上，例如 “all”、“every”、“or”、“if…then”、“and”、“not”、“begins”、“ceases”、“except”、“necessary”、“possible” 等等。
   - id: 2
     kind: body
     source: |-
       ## 1. *Abstractiones*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 *Abstractiones*
+    step2: |-
+      ## 1 *Abstractiones*
   - id: 3
     kind: body
     source: |-
       The title “*Abstractiones*” was apparently meant to capture the “excerpted” nature of this collection of sophisms that are presented in a somewhat summary fashion.[^note-1] This collection of sophisms became a kind of logical textbook used to teach students to identify sophistical fallacies. This book was probably used in several medieval universities for several decades, from the late thirteenth well into the fourteenth centuries. Richard is often referred to as “Magister Abstractionum” or “Magister Richardus Sophista” to give emphasis to the masterful, albeit summary, treatment of a very large collection of over three hundred such sophism sentences.[^note-2] The title “*sophista*” simply meant “logician”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “*Abstractiones*”这个标题显然意在抓住这批诡辩句集的“摘编”性质——它们以颇为概括的方式呈现出来。[^note-1] 这部诡辩句集后来成了一种逻辑教科书，用来教学生识别诡辩性谬误。从十三世纪末一直用到十四世纪，这本书大概在好几所中世纪大学里使用了几十年。人们常称理查德为“Magister Abstractionum”或“Magister Richardus Sophista”，以强调他对三百多条此类诡辩句的大型集合所作的大师级的——尽管是概括式的——处理。[^note-2] “*sophista*”这个头衔不过就是“逻辑学家”的意思。
+    step2: |-
+      “*Abstractiones*”这个标题，显然意在体现这批诡辩句以相当概括的方式汇为一集的“摘编”性质。[^note-1] 这部诡辩句集后来成了一种逻辑教科书，用来训练学生识别诡辩性谬误。从十三世纪末一直深入十四世纪，这本书大概在好几所中世纪大学里使用了几十年。人们常称理查德为“Magister Abstractionum”或“Magister Richardus Sophista”，以强调他对这一三百多条诡辩句的大集子所作的精彩处理——虽然只是概括式的。[^note-2] “*sophista*”这个头衔，意思不过是“逻辑学家”。
   - id: 4
     kind: body
     source: |-
       The seven known manuscripts of the *Abstractiones* date from the late thirteenth to the early fourteenth centuries:[^note-3]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      已知 *Abstractiones* 的七份抄本，年代从十三世纪晚期到十四世纪早期：[^note-3]
+    step2: |-
+      已知七份 *Abstractiones* 抄本，年代从十三世纪晚期延续到十四世纪早期：[^note-3]
   - id: 5
     kind: body
     source: |-
       > Ms B = Brugge, Stedelike Bibliotheek, 497 Ms C = Oxford, Corpus Christi College, E 293B Ms D = Oxford, Bodleian Library, Digby 24 Ms K = København, Det Kongelige Bibliotek, Fragm.1075 Ms O = Oxford, Bodleian Library, Digby 2 Ms P = Paris, Bibliothèque Nationale lat. 14069 Ms R = London, British Library, Royal 12.F.xix
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Ms B = Brugge, Stedelike Bibliotheek, 497 Ms C = Oxford, Corpus Christi College, E 293B Ms D = Oxford, Bodleian Library, Digby 24 Ms K = København, Det Kongelige Bibliotek, Fragm.1075 Ms O = Oxford, Bodleian Library, Digby 2 Ms P = Paris, Bibliothèque Nationale lat. 14069 Ms R = London, British Library, Royal 12.F.xix
+    step2: |-
+      > Ms B = Brugge, Stedelike Bibliotheek, 497 Ms C = Oxford, Corpus Christi College, E 293B Ms D = Oxford, Bodleian Library, Digby 24 Ms K = København, Det Kongelige Bibliotek, Fragm.1075 Ms O = Oxford, Bodleian Library, Digby 2 Ms P = Paris, Bibliothèque Nationale lat. 14069 Ms R = London, British Library, Royal 12.F.xix
   - id: 6
     kind: body
     source: |-
       Only two of these manuscripts (B, D) are complete; the remaining five are in varying degrees of fragmentation. Two manuscripts (O, R) appear to be derivative texts, or redactions, of the *Abstractiones*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些抄本中只有两份（B、D）是完整的；其余五份在不同程度上有所残缺。两份抄本（O、R）看来是 *Abstractiones* 的衍生文本，即修订版。
+    step2: |-
+      七份抄本中只有两份（B、D）完整；其余五份程度不等地有所残缺。两份抄本（O、R）看来是 *Abstractiones* 的衍生文本，即改写本。
   - id: 7
     kind: body
     source: |-
       The dating of the composition of the *Abstractiones* appears to have been around the 1230s or 40s. Earliest references to the *Abstractiones* appear from the late thirteenth century in a manuscript at Worcester Cathedral Library, Q. 13, which is confidently dated no later than 1295, and probably as early as 1270.[^note-4] Worcester Q. 13 contains four references to the “Magister Abstractionum.” Another reference to the *Abstractiones* can be found in a Quodlibetal Question of William of Alnwick, “Does God know infinitely many things (*Utrum Deus cognoscat infinita)*?”, q. 9 probably dating from around 1320. Walter Burley’s tract, *De Exceptivis*, edited by L. M. de Rijk, contains a reference to the Magister Abstractionum.[^note-5] An interesting reference can also be found in William of Ockham’s *Summa Logicae* and additional references can be found in Ps. Richard of Campsall, John of Reading and Adam Wodeham.[^note-6]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Abstractiones* 的成书年代看来在 1230 年代或 40 年代前后。对 *Abstractiones* 最早的提及出现于十三世纪晚期，见于伍斯特座堂图书馆（Worcester Cathedral Library）的 Q. 13 号抄本；该抄本的定年可靠地不晚于 1295 年，而且可能早至 1270 年。[^note-4] 伍斯特 Q. 13 含有四处对“Magister Abstractionum”的提及。另一处对 *Abstractiones* 的引用，见于阿尔尼克的威廉（William of Alnwick）的一份随意问题（Quodlibetal Question），“上帝是否认识无限多的事物（*Utrum Deus cognoscat infinita*）？”即第 9 问，约成于 1320 年前后。沃尔特·伯利（Walter Burley）的短著 *De Exceptivis*（由 L. M. de Rijk 编辑）含有一处对 Magister Abstractionum 的引用。[^note-5] 奥卡姆的威廉（William of Ockham）的 *Summa Logicae* 里也能找到一处有意思的引用；在 Ps. Richard of Campsall、John of Reading 与亚当·德·沃德汉姆（Adam Wodeham）那里还可以找到另外的引用。[^note-6]
+    step2: |-
+      *Abstractiones* 的成书年代看来在 1230 年代或 40 年代前后。对 *Abstractiones* 最早的提及出现于十三世纪晚期，见于伍斯特座堂图书馆（Worcester Cathedral Library）Q. 13 号抄本；其定年可靠地不晚于 1295 年，而且可能早至 1270 年。[^note-4] 伍斯特 Q. 13 含有四处对“Magister Abstractionum”的提及。另一处对 *Abstractiones* 的引用，见于阿尔尼克的威廉（William of Alnwick）的一份随意问题（Quodlibetal Question）：“上帝是否认识无限多的事物（*Utrum Deus cognoscat infinita*）？”即第 9 问，约成于 1320 年前后。沃尔特·伯利（Walter Burley）的短著 *De Exceptivis*（L. M. de Rijk 编辑）含有一处对 Magister Abstractionum 的引用。[^note-5] 奥卡姆的威廉（William of Ockham）的 *Summa Logicae* 里也有一处有意思的引用；Ps. Richard of Campsall、John of Reading 与亚当·德·沃德汉姆（Adam Wodeham）那里还能找到另外的引用。[^note-6]
   - id: 8
     kind: body
     source: |-
       The fact of the existence of two derivative texts of the *Abstractiones* as well as the numerous known references by accomplished logicians some seventy years after its composition indicate that the *Abstractiones* was a quite popular book that survived the test of time. Although as compared to sophism literature of the fourteenth century Richard’s analysis of sophisms appears somewhat unsophisticated, as compared to treatments of sophisms of his contemporaries Richard’s analyses are qualitatively similar. Richard’s greatest accomplishment lay, perhaps, in his ability to encapsulate and summarize a huge number of such logical puzzles, presenting for the student a handy reference book filled with examples of a host of logical fallacies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Abstractiones* 存在两个衍生文本这一事实，加上成书约七十年之后众多知名逻辑学家的引用，表明 *Abstractiones* 是一部相当流行、经受了时间考验的书。虽然与十四世纪的诡辩文献相比，理查德对诡辩句的分析显得有些朴素，但与同时代人对诡辩句的处理相比，理查德的分析在性质上是相近的。理查德最大的成就，或许在于他有能力把大量这类逻辑难题加以浓缩与总结，为学生提供了一本便捷的参考书，其中满是大量逻辑谬误的例子。
+    step2: |-
+      *Abstractiones* 存在两个衍生文本，成书约七十年后又有多位一流逻辑学家频频引用，这些都表明 *Abstractiones* 是一部相当流行、经受了时间考验的书。与十四世纪的诡辩文献相比，理查德对诡辩句的分析显得有些朴素；但与他同时代人对诡辩句的处理相比，理查德的分析在性质上是相近的。理查德最大的成就，或许在于他有能力浓缩并总结数量巨大的这类逻辑难题，为学生提供了一本便于查阅的参考书，里面装满了形形色色逻辑谬误的例子。
   - id: 9
     kind: body
     source: |-
       An edition of Richard’s *Abstractiones* finally appeared in 2016, edited by Sten Ebbesen, Mary Sirridge, and E. Jennifer Ashworth, published by Oxford University Press in the series *Auctores Britannici Medii Aevi*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理查德 *Abstractiones* 的校勘本终于在 2016 年出版，由 Sten Ebbesen、Mary Sirridge 与 E. Jennifer Ashworth 编辑，牛津大学出版社刊行，列为 *Auctores Britannici Medii Aevi* 丛书。
+    step2: |-
+      理查德的 *Abstractiones* 校勘本终于在 2016 年问世，由 Sten Ebbesen、Mary Sirridge 与 E. Jennifer Ashworth 编辑，牛津大学出版社出版，列于 *Auctores Britannici Medii Aevi* 丛书。
   - id: 10
     kind: body
     source: |-
       ## 2. Examples of Sophisms
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 诡辩句举例
+    step2: |-
+      ## 2 诡辩句举例
   - id: 11
     kind: body
     source: |-
       In order to give the reader a better understanding of the content of this book of *Abstractiones*, it might be helpful to list a few examples of the sophism sentences discussed in it and to illustrate Richard’s treatment of just one of these. As noted above, our book contains over three hundred sophism sentences. A random sampling includes these examples:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了让读者更好地理解 *Abstractiones* 这本书的内容，列出书中讨论的几条诡辩句作为例子，并只就其中一条说明理查德的处理方式，也许会有帮助。如前所述，我们这本书包含三百多条诡辩句。随机取样包括这些例子：
+    step2: |-
+      为了让读者更好地了解 *Abstractiones* 一书的内容，不妨列出书中讨论的几条诡辩句，并只就其中一条展示理查德的处理方式。如前所述，我们这本书包含三百多条诡辩句。随机取样如下：
   - id: 12
     kind: body
     source: |-
@@ -93,20 +115,58 @@ segments:
       > (215) All ten except one are nine (*Omnia X praeter unum sunt IX*)
       >
       > (278) It is impossible that you know more than you know (*Impossibile est te scire plura quam scis*)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (1) 每个人是每个人（*Omnis homo est omnis homo*）
+      >
+      > (16) 凡是存在或者不存在的东西都存在（*Quicquid est vel non est est*）
+      >
+      > (39) 凡异于动物、并且加上苏格拉底就是二的东西，都异于苏格拉底（*Omne aliud quam animal quod et Sortes sunt duo differt a Sorte*）
+      >
+      > (79) 整个苏格拉底小于苏格拉底（*Totus Sortes est minor Sorte*）
+      >
+      > (96) 如果你知道你是石头，你就不知道你是石头（*Si tu scis te esse lapidem tu non scis te esse lapidem*）
+      >
+      > (157) 对无没有什么是真的（*De nihilo nihil est verum*）
+      >
+      > (187) 你没有停止吃铁（*Tu non cessas comedere ferrum*）
+      >
+      > (215) 所有十个除了一都是九（*Omnia X praeter unum sunt IX*）
+      >
+      > (278) 你知道多于你知道，这是不可能的（*Impossibile est te scire plura quam scis*）
+    step2: |-
+      > (1) 每个人是每个人（*Omnis homo est omnis homo*）
+      >
+      > (16) 凡存在或不存在的东西都存在（*Quicquid est vel non est est*）
+      >
+      > (39) 异于动物、且与苏格拉底一起为二的一切东西都异于苏格拉底（*Omne aliud quam animal quod et Sortes sunt duo differt a Sorte*）
+      >
+      > (79) 整个苏格拉底小于苏格拉底（*Totus Sortes est minor Sorte*）
+      >
+      > (96) 如果你知道你是石头，你就不知道你是石头（*Si tu scis te esse lapidem tu non scis te esse lapidem*）
+      >
+      > (157) 对无而言没有什么是真的（*De nihilo nihil est verum*）
+      >
+      > (187) 你没有停止吃铁（*Tu non cessas comedere ferrum*）
+      >
+      > (215) 除了一以外，所有十个都是九（*Omnia X praeter unum sunt IX*）
+      >
+      > (278) 你知道的多于你所知道的，这是不可能的（*Impossibile est te scire plura quam scis*）
   - id: 13
     kind: body
     source: |-
       From the above rather small list of sophisms, it can already be noticed that some sentences are more complex, and thus more logically puzzling, than others. Some sentences do not seem puzzling in themselves at all, but become puzzling only within a certain “context” that is set up within which arguments proving and disproving the sophism must be developed. Such a context was called a “*casus*”.[^note-7] It seems likely that the proving and disproving of the sophism sentence was done along the lines of a medieval oral “*disputatio*” within the classroom setting. This is the way Richard writes up his summaries: Proposal of the sophism, sometimes within a *casus*; arguments establishing the truth of the sentence; arguments establishing the falsity of the sentence; resolution of the sophism along with identification of the sophistical fallacy involved.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从上面这份不长的诡辩句清单已经可以看出，有些句子比另一些更复杂，因而在逻辑上更令人困惑。有些句子本身似乎一点也不令人困惑，只有在某个被设定的“情境”之内才变得令人困惑，而证明与反驳该诡辩句的论证必须在这个情境之内展开。这样的情境被称为“*casus*”。[^note-7] 对诡辩句的证明与反驳，很可能是在课堂环境中、按照中世纪口头“*disputatio*”的方式进行的。理查德撰写他的概要的方式正是如此：提出诡辩句（有时置于一个 *casus* 之内）；确立句子为真的论证；确立句子为假的论证；解答诡辩句，并指明其中涉及的诡辩性谬误。
+    step2: |-
+      从上面这份不长的清单已可看出，有些句子比别的更复杂，因而逻辑上更令人困惑。有些句子本身毫无困惑可言，只有在某种“情境”之内才变得令人困惑——证明与反驳诡辩句的论证，都必须在这种情境之内展开。这样的情境称为“*casus*”（情形）。[^note-7] 对诡辩句的证明与反驳，多半是仿照中世纪课堂口头“*disputatio*”（辩论）的方式进行的。理查德的概要正是这样写成的：提出诡辩句（有时置于一个 *casus* 之中）；确立句子为真的论证；确立句子为假的论证；然后解答诡辩句，并指明其中涉及的诡辩性谬误。
   - id: 14
     kind: body
     source: |-
       The very first sophism sentence treated is one of the least complicated (this sophism involves no *casus*):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      书中处理的第一条诡辩句是最不复杂的诡辩句之一（这条诡辩句不涉及 *casus*）：
+    step2: |-
+      全书处理的第一条诡辩句就属于最不复杂的一类（这条诡辩句不涉及 *casus*）：
   - id: 15
     kind: body
     source: |-
@@ -119,163 +179,237 @@ segments:
       > Disproof: This proposition is true, “some man is not every man” and, similarly, “no man is every man”; therefore it is false that every man is every man.
       >
       > Solution: The solution to the sophism is to note that “every man” is equivocal as to reference to every man taken singularly (as in “any man”) and as to every man taken as a whole (as in “all men”). Mixing the two senses of “every” from subject to predicate causes the logical puzzle.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 每个人是每个人
+      >
+      > 证明：这个人是这个人，那个人是那个人，如此等等对每一个个别人都成立，所以每个人是每个人。
+      >
+      > 另一证明：没有什么命题比同一事物被谓述于同一事物的命题更真……
+      >
+      > 反驳：这个命题为真：“有的人不是每个人”；同样，“没有人是每个人”。所以每个人是每个人，这是假的。
+      >
+      > 解答：解答这条诡辩句，要注意 “every man” 在指称上有歧义：既指逐个单独地看的每个人（如 “any man”），也指作为整体地看的每个人（如 “all men”）。把 “every” 的这两种意义从主项混到谓项，就造成这个逻辑难题。
+    step2: |-
+      > 每个人是每个人
+      >
+      > 证明：这个人是这个人，那个人是那个人，对每一个个体的人依此类推；所以，每个人是每个人。
+      >
+      > 另一证明：没有什么命题比“同一事物谓述同一事物”的命题更真……
+      >
+      > 反驳：这个命题是真的：“有的人不是每个人”；同理，“没有人是每个人”。所以，“每个人是每个人”是假的。
+      >
+      > 解答：解答这条诡辩句，关键在于注意到 “every man” 在指称上有歧义：既可指逐个单独来看的每一个人（如 “any man”），也可指作为整体来看的每一个人（如 “all men”）。把 “every” 的这两种意义从主项混入谓项，便造成了这个逻辑难题。
   - id: 16
     kind: body
     source: |-
       As noted, this sophism sentence is relatively uncomplicated and it is easy to spot the obvious fallacy involved, but Richard’s text proceeds with increasingly more difficult and intricate sophism sentences, many of which engage the mind in complex mental acrobatics. The fallacies noted throughout are the standard ones discussed in Aristotle’s *De Sophisticis Elenchis*: the fallacy of equivocation; the fallacy of accident; the fallacy of the composite and divided senses; the fallacy of the consequent; the fallacy of absolute and qualified senses; the fallacy of many causes of truth; amphiboly; improper supposition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如前所述，这条诡辩句相对不复杂，其中的明显谬误容易看出，但理查德的文本接着处理越来越困难、越来越繁复的诡辩句，其中许多让头脑做复杂的智力杂技。全书通篇指出的谬误，都是亚里士多德《辨谬篇》（*De Sophisticis Elenchis*）讨论的标准谬误：语词歧义谬误；偶性谬误；组合与拆分意义谬误；后件谬误；简单与限定意义谬误；多真因谬误；语句歧义；不当指代。
+    step2: |-
+      如前所述，这条诡辩句相对不复杂，其中的明显谬误一眼可见；但理查德的文本越往后，诡辩句越发困难繁复，其中许多会让头脑做复杂的智力杂技。全书指出的谬误都是亚里士多德《辨谬篇》（*De Sophisticis Elenchis*）讨论的标准谬误：语词歧义谬误；偶性谬误；组合与拆分意义谬误；后件谬误；简单与限定意义谬误；多真因谬误；语句歧义；不当指代。
   - id: 17
     kind: body
     source: |-
       ## 3. Richard’s Identity
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 理查德的身份
+    step2: |-
+      ## 3 理查德的身份
   - id: 18
     kind: body
     source: |-
       There is still no certainty as to the identity of the Magister Abstractionum. Because of the colophon appended to the two complete manuscripts of the *Abstractiones*, we know, of course, that his name was “Richard”:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这位 Magister Abstractionum 的身份至今仍无定论。不过，由于 *Abstractiones* 的两个完整抄本末尾附有题跋（colophon），我们当然知道他名叫“理查德”（Richard）：
+    step2: |-
+      这位 Magister Abstractionum 的身份至今没有定论。不过，*Abstractiones* 两个完整抄本末尾都附有题跋（colophon），我们由此当然知道他名叫“理查德”（Richard）：
   - id: 19
     kind: body
     source: |-
       > Expliciunt ista, quae tu, Ricarde Sophista, fecesti, morum flos et doctor logicorum. Dirige scribentis, Spiritus alme, manum. Expliciunt Abstractiones. (Digby 24, f.90rb)
       >
       > (These [sophisms] are complete, which you, Richard the Sophister, Flower of virtue and teacher of logic, have produced. Turn the scribe’s hand [from its task], nurturing Spirit. The *Abstractiones* are complete.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > Expliciunt ista, quae tu, Ricarde Sophista, fecesti, morum flos et doctor logicorum. Dirige scribentis, Spiritus alme, manum. Expliciunt Abstractiones. (Digby 24, f.90rb)
+      >
+      > （这些［诡辩句］是完整的，它们出自你之手——诡辩家理查德，美德之花、逻辑学家们的导师。请调转抄写者的手［让它离开这项工作］，圣善的灵。*Abstractiones* 到此完结。）
+    step2: |-
+      > Expliciunt ista, quae tu, Ricarde Sophista, fecesti, morum flos et doctor logicorum. Dirige scribentis, Spiritus alme, manum. Expliciunt Abstractiones. (Digby 24, f.90rb)
+      >
+      > （这些［诡辩句］是完整的，是你——诡辩家理查德，美德之花、逻辑学家们的导师——作出的。圣善的灵啊，请调转抄写者的手［让它离开这项工作］。*Abstractiones* 到此完结。）
   - id: 20
     kind: body
     source: |-
       De Rijk suggested the name Richard Fishacre, disagreeing with the suggestion of Richard Fitz-Ralph offered by Macray on the basis that the dating of the text within the second quarter of the thirteenth century is more consistent with Fishacre’s chronology.[^note-8] Jan Pinborg suggested the name Richard Rufus also on grounds that the dating of the *Abstractiones* is consistent with Rufus’ being at Oxford.[^note-9] It is generally assumed that the author is English. Pinborg offered one further bit of evidence for the name Richard Rufus in that there is some reason to think that certain doctrines of Richard Rufus, as criticised by Roger Bacon, are in the *Abstractiones*. The primary doctrine in question attributed to Richard Rufus and criticised by Roger Bacon is, in general terms, that the signification of a name can remain in the absence of any actual thing signified by that name, although, as Bacon suggests, the proponents of this view must supply some kind of “habitual being” for the lost actual significate of such names. It is this doctrine of the “*esse habituale*” that Bacon finds objectionable. That Richard Rufus does seem to have such a doctrine appears clear in his discussion of the question “Whether Christ while three days in the tomb was a man” (“*Utrum Christus in triduo mortis fuerit homo*”) in distinction 22, book III of his *Sentences Commentary*.[^note-10]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      De Rijk 提出的是 Richard Fishacre 这个名字，不同意 Macray 提出的 Richard Fitz-Ralph 之说，理由是文本定年在十三世纪第二个二十五年，与 Fishacre 的年表更为相合。[^note-8] Jan Pinborg 提出 Richard Rufus，其理由同样是 *Abstractiones* 的定年与 Rufus 在牛津的时间相合。[^note-9] 人们一般假定作者是英国人。Pinborg 为 Richard Rufus 之名提供了又一条证据：有理由认为，理查德·鲁弗斯（Richard Rufus）的某些学说——如罗吉尔·培根（Roger Bacon）所批评的——就见于 *Abstractiones*。归于理查德·鲁弗斯名下而受罗吉尔·培根批评的主要学说，粗略地说就是：即使某个名称所指的实际事物不复存在，该名称的意谓（signification）仍可留存；不过，正如培根所提示的，持此观点的人必须为这类名称失去的实际所指补设某种“习性存在”（habitual being）。培根所反对的，正是这条关于 “*esse habituale*” 的学说。理查德·鲁弗斯确实似乎持有这样一种学说，这一点在他于《箴言四书注》（*Sentences Commentary*）第三卷区分 22 中对“基督在墓中的三天里是否是人”（“*Utrum Christus in triduo mortis fuerit homo*”）这一问题的讨论中看得很清楚。[^note-10]
+    step2: |-
+      De Rijk 提出 Richard Fishacre 之名，不同意 Macray 提出的 Richard Fitz-Ralph 之说，理由是：文本定年在十三世纪第二个二十五年，与 Fishacre 的年表更为相合。[^note-8] Jan Pinborg 则提出 Richard Rufus，理由同样是 *Abstractiones* 的定年与 Rufus 身在牛津的时期相合。[^note-9] 人们一般假定作者是英国人。Pinborg 为 Richard Rufus 之说又添了一条证据：有理由认为，罗吉尔·培根（Roger Bacon）所批评的理查德·鲁弗斯（Richard Rufus）的某些学说，就见于 *Abstractiones*。归于理查德·鲁弗斯名下而受培根批评的那条主要学说，粗略说来是：即使一个名称所指的实际事物不复存在，名称的意谓（signification）仍可留存；不过，正如培根提示的，持此论者必须为这类名称已失去的实际所指补设某种“习性存在”（habitual being）。培根所反对的，正是这条关于 “*esse habituale*” 的学说。理查德·鲁弗斯确乎持有这样的学说，这一点清楚见于他在《箴言四书注》（*Sentences Commentary*）第三卷区分 22 中对“基督在墓中三天是否为人”（“*Utrum Christus in triduo mortis fuerit homo*”）一问的讨论。[^note-10]
   - id: 21
     kind: body
     source: |-
       It would be beyond the scope of this essay to deal with the complexities of both Richard Rufus’ treatment of this question as well as Roger Bacon’s voiceful criticisms of the notion of the “*esse habituale*.” The important question here is whether the doctrine espoused by Richard Rufus exactly parallels anything that can be found in the *Abstractiones* of Richard the Sophister. It is important to find not only terminological similarities but also doctrinal similarities. The terminology within which Richard Rufus makes the above noted distinction is “*esse in habitu*” versus “*esse in actu*”, the former he also labels “*esse simpliciter*”, the latter “*esse ut nunc*.”[^note-11] Bacon seems to substitute the expression “*esse habituale*” for the expression “*esse in habitu*.” Rufus does not use the expression “*esse habituale*.” As referenced above, Pinborg noticed the expressions “*esse consequentiae sive habitudinis*” and “*esse quod est operatio entis*” in the Abstractiones. Bacon also uses the expression “*esse habitudinis*”, but he seems to recognize a distinction between “*esse habituale*” and “*esse habitudinis*”; the latter, he says, “is used about propositions and will be destroyed later when there is talk about propositions.”[^note-12] This remark might indicate that Bacon finds the same doctrinal problem with the “*esse habitudinis*” that he finds with the “*esse habituale*” (i.e., it introduces a foil for some kind of fictive being), but we cannot be certain of this, since he never returned to this topic in the Compendium. Richardus Sophista does not use the terminology of “*esse habituale*/*esse actuale*”, “*esse in habitu/esse in actu*” that we find in Bacon and Rufus respectively.[^note-13] Pinborg also noted that William of Ockham criticizes those who make the distinction between “*esse consequentiae sive habitudinis*” and “*esse quod est operatio entis*” as ignorant of the simple distinction between hypothetical and categorical propositions, which according to Ockham is all that the distincition amounts to.[^note-14] Pinborg sees Ockham’s criticism as possibly making the same point as Bacon, i.e., the terminology invites some kind of talk of fictive being. Although Ockham is probably right to want to eliminate the old terminology in favor of less problematic language, the important questions are whether Richard the Sophister’s use of the distinction “*esse habitudinis*/*esse quod est operatio entis*” entails anything other than a distinction between types of propositions and whether his use of the distinction comes under the attacks of Roger Bacon on the same way in which these attacks seem relevant to a terminologically similar distinction in Richard Rufus.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要处理理查德·鲁弗斯对这一问题的处理以及罗吉尔·培根对 “*esse habituale*” 观念的激烈批评这两者的复杂性，会超出本文的范围。这里的重要问题是：理查德·鲁弗斯所拥护的学说，是否与诡辩家理查德的 *Abstractiones* 中能找到的任何东西严格平行。重要的不仅是找到术语上的类似，还要找到学说上的类似。理查德·鲁弗斯作出上述区分所用的术语是 “*esse in habitu*” 与 “*esse in actu*” 的对立；前者他又称作 “*esse simpliciter*”，后者称作 “*esse ut nunc*”。[^note-11] 培根似乎用 “*esse habituale*” 这个表达式替换了 “*esse in habitu*”。Rufus 不使用 “*esse habituale*” 这个表达式。如前所述，Pinborg 注意到 *Abstractiones* 中有 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 这两个表达式。培根也使用 “*esse habitudinis*” 这个表达式，但他似乎认识到 “*esse habituale*” 与 “*esse habitudinis*” 之间的一种区别；他说，后者“用于命题，稍后谈到命题时将会被驳倒”。[^note-12] 这句话或许表明，培根在 “*esse habitudinis*” 上发现的学说问题与他在 “*esse habituale*” 上发现的相同（即它为谈论某种虚构的存在提供了口实）；但这一点我们无法确定，因为他在《Compendium》中再也没有回到这个话题。诡辩家理查德并不使用我们在培根与 Rufus 那里分别看到的 “*esse habituale*／*esse actuale*”、“*esse in habitu*／*esse in actu*” 这套术语。[^note-13] Pinborg 还注意到，奥卡姆的威廉批评那些作出 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 之分的人，说他们不懂得假言命题与直言命题之间的简单区别；据奥卡姆看，这种区分的全部内容不过如此。[^note-14] Pinborg 认为奥卡姆的批评可能与培根的观点相同，即这套术语会引来对某种虚构存在的谈论。尽管奥卡姆想废除旧术语、改用问题较少的语言，这大概是对的，但重要的问题在于：诡辩家理查德对 “*esse habitudinis*／*esse quod est operatio entis*” 这一区分的使用，是否除了命题类型之间的区别之外还意谓别的什么？以及他对这一区分的使用，是否像这些攻击看来适用于理查德·鲁弗斯那个术语上类似的区分那样，同样落在罗吉尔·培根的攻击范围之内？
+    step2: |-
+      处理理查德·鲁弗斯对这一问题的讨论，连同罗吉尔·培根对 “*esse habituale*” 观念的激烈批评，两者交织的复杂性会超出本文范围。这里的关键问题是：理查德·鲁弗斯拥护的学说，是否与诡辩家理查德 *Abstractiones* 中的任何内容严格平行。重要的是不仅要找到术语上的类似，还要找到学说上的类似。理查德·鲁弗斯作出上述区分所用的术语，是 “*esse in habitu*” 与 “*esse in actu*” 的对立；前者他又标为 “*esse simpliciter*”，后者标为 “*esse ut nunc*”。[^note-11] 培根似乎以 “*esse habituale*” 替换了 “*esse in habitu*” 这个表达式；Rufus 则不使用 “*esse habituale*”。如前所述，Pinborg 注意到 Abstractiones 中有 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 两个表达式。培根也使用 “*esse habitudinis*”，但他似乎认识到 “*esse habituale*” 与 “*esse habitudinis*” 之间的一种区别；他说，后者“用于命题，稍后谈到命题时将会被驳倒”。[^note-12] 这句话或许表明，培根在 “*esse habitudinis*” 上看到的学说问题与他在 “*esse habituale*” 上看到的相同（即它为谈论某种虚构的存在提供了口实）；但这一点无法确证，因为他在《Compendium》中再未回到这个话题。诡辩家理查德并不使用培根与 Rufus 各自那套 “*esse habituale*／*esse actuale*”、“*esse in habitu/esse in actu*” 术语。[^note-13] Pinborg 还注意到，奥卡姆的威廉批评那些作出 “*esse consequentiae sive habitudinis*” 与 “*esse quod est operatio entis*” 之分的人不懂假言命题与直言命题的简单区别；在奥卡姆看来，这种区分的全部内容不过如此。[^note-14] Pinborg 认为奥卡姆的批评可能与培根的论点相同：这套术语会引来对某种虚构存在的谈论。奥卡姆想废除旧术语、改用问题较少的语言，这大概是对的；但重要的问题在于：诡辩家理查德对 “*esse habitudinis*／*esse quod est operatio entis*” 这一区分的使用，是否除命题类型的区别之外还意味着别的什么？他对这一区分的使用，是否像培根的攻击看来适用于理查德·鲁弗斯那个术语上类似的区分那样，同样落在培根的攻击范围之内？
   - id: 22
     kind: body
     source: |-
       A complete answer to these questions would require not only a detailed examination of the use of this distinction in the resolution of sophisms in the *Abstractiones*, but also an examination of Richard’s position regarding terms that “assert non-being” and his account of negation and negatives generally.[^note-15] These tasks are clearly beyond the scope of this essay. With respect to the first question, it will have to suffice to record here that there are only three places in the *Abstractiones* where Richard employs the distinction in the resolution of sophisms and in none of these is it clear that this is his favored solution.[^note-16] More importantly, Richard’s use of the distinction in the resolution of sophisms seems to match the use made of the same distinction (under the terminology “*esse habituale*/*esse actuale*”) by William of Sherwood, that is, as essentially a way of marking a distinction between hypothetical and categorical propositions.[^note-17] It has been successfully argued by Braakhuis that the attacks of Roger Bacon do not apply to William’s use of the distinction, even though, of all the authors noted so far, only William’s terminology is exactly the same terminology used by Bacon.[^note-18] Thus, if the doctrine under attack by Bacon cannot be attributed to William, neither can it be attributed to Richard the Sophister. It appears, then, that Richard Rufus and Richard the Sophister cannot be identified, at least on the basis of these alleged doctrinal and terminological similarities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      要完整回答这些问题，不仅要详细考察 *Abstractiones* 在解答诡辩句时对这一区分的使用，还要考察理查德关于“断言非存在”的词项的立场，以及他关于否定与否定的词项的一般说明。[^note-15] 这些任务显然超出本文范围。关于第一个问题，这里只能记下这一点就够了：*Abstractiones* 中只有三处，理查德在解答诡辩句时运用了这一区分，而且这三处中没有任何一处清楚表明这是他偏好的解答。[^note-16] 更重要的是，理查德在解答诡辩句时对这一区分的运用，似乎与舍伍德的威廉（William of Sherwood）对同一区分的运用（以 “*esse habituale*／*esse actuale*” 的术语）相合，也就是说，基本上是标记假言命题与直言命题之间区别的一种方式。[^note-17] Braakhuis 已成功地论证，罗吉尔·培根的攻击不适用于威廉对这一区分的使用，尽管在迄今提到的所有作者中，唯有威廉的术语与培根所用术语完全相同。[^note-18] 这样一来，如果培根所攻击的学说不能归于威廉，那么它同样不能归于诡辩家理查德。于是看来，理查德·鲁弗斯与诡辩家理查德不能认定为同一人，至少凭这些所谓学说与术语上的类似不能。
+    step2: |-
+      要完整回答这些问题，不仅要详细考察 *Abstractiones* 解答诡辩句时对这一区分的使用，还要考察理查德对“断言非存在”的词项所持的立场，以及他对否定与否定的词项的一般说明。[^note-15] 这些任务显然超出本文范围。至于第一个问题，这里只能记下一件事：*Abstractiones* 中理查德在解答诡辩句时运用这一区分的地方只有三处，而且没有一处可以清楚认定这是他偏好的解答。[^note-16] 更重要的是，理查德在解答诡辩句时对这一区分的运用，似乎与舍伍德的威廉（William of Sherwood）对同一区分的运用相合（威廉用的术语是 “*esse habituale*／*esse actuale*”）——也就是说，基本上是标记假言命题与直言命题之别的一种方式。[^note-17] Braakhuis 已经成功地论证，罗吉尔·培根的攻击并不适用于威廉对这一区分的使用，尽管在上述所有作者中，唯有威廉的术语与培根的术语完全相同。[^note-18] 于是，如果培根所攻击的学说不能归于威廉，它同样不能归于诡辩家理查德。看来，理查德·鲁弗斯与诡辩家理查德不能认定为同一人——至少凭这些所谓的学说与术语上的类似不能。
   - id: 23
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]
   - id: 24
     kind: note
     source: |-
       [^note-1]: In Albert of Saxony’s introductory remarks regarding the exceptive term “*tantum*” in his *Perutilis Logica* we read this definition of the term “*abstractio*”: “*Abstractio est dubitabilium propositionum collectio* (An abstraction is a collection of puzzling propositions)” (Erfurt ms., Amploniana, Cod. Q 242, f. 33v). This section of Albert’s treatise is not edited in the 1518 Venice edition. The only other known treatise from the Middle Ages with the title “*Abstractiones*” is that of a certain Hervaeus Sophista, edited in de Libera 1986. The term “*abstractio*”, then, seems to refer to a “collection” of sophisms, perhaps with some emphasis upon the “excerpted” nature of such a collection. Indeed, the collection of Hervaeus consists of some 298 sophisms within a space of a mere five folios. Richard considers some 305 sophisms within a space of almost thirty folios in the Digby 24 manuscript.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 在萨克森的阿尔伯特（Albert of Saxony）的 *Perutilis Logica* 中关于排除词 “*tantum*” 的开场讨论里，我们读到 “*abstractio*” 一词的如下定义：“*Abstractio est dubitabilium propositionum collectio*（abstractio 即令人困惑的命题的汇集）”（Erfurt 抄本，Amploniana，Cod. Q 242，f. 33v）。阿尔伯特这部论著的这一节在 1518 年威尼斯版中没有校勘出版。中世纪另一部以 “*Abstractiones*” 为题的已知论著出自某位 Hervaeus Sophista，由 de Libera 1986 刊布。由此看来，“*abstractio*” 一词似乎指诡辩句的“汇集”，或许还带有某种对这类汇集之“摘编”性质的强调。事实上，Hervaeus 的汇集仅在区区五张对开纸的篇幅内就容纳了约 298 条诡辩句；而理查德在 Digby 24 抄本中以将近三十张对开纸的篇幅处理了约 305 条诡辩句。
+    step2: |-
+      [^note-1]: 萨克森的阿尔伯特（Albert of Saxony）在 *Perutilis Logica* 里讨论排除词 “*tantum*” 的开场段落中，给 “*abstractio*” 一词下了这样的定义：“*Abstractio est dubitabilium propositionum collectio*（abstractio 即令人困惑的命题的汇集）”（Erfurt 抄本，Amploniana，Cod. Q 242，f. 33v）。阿尔伯特这部论著的这一节，1518 年威尼斯版未予刊布。中世纪另一部以 “*Abstractiones*” 为题的已知论著出自某位 Hervaeus Sophista，de Libera 1986 已将其刊布。由此看来，“*abstractio*” 一词似乎指诡辩句的“汇集”，或许还特别强调这类汇集的“摘编”性质。事实上，Hervaeus 的汇集仅用五张对开纸就容纳了约 298 条诡辩句；而理查德在 Digby 24 抄本中用了将近三十张对开纸处理约 305 条诡辩句。
   - id: 25
     kind: note
     source: |-
       [^note-2]: De Rijk 1962–67, Vol. II, pt 1., 62–85 and 444–447.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: De Rijk 1962–67, Vol. II, pt 1., 62–85 and 444–447.
+    step2: |-
+      [^note-2]: De Rijk 1962–67, Vol. II, pt 1., 62–85 and 444–447.
   - id: 26
     kind: note
     source: |-
       [^note-3]: For a description of manuscripts B, D, O, P and R see de Rijk 1962–67. De Rijk was unaware of manuscripts C and K. For a brief description of the C manuscript, see P.O. Lewry, “Oxford Logic 1250–1275: Nicholas and Peter of Cornwall,” in Lewry 1985, 22. For additional descriptions of these manuscripts, see Raedts 1987, 107–111.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 抄本 B、D、O、P、R 的描述见 de Rijk 1962–67。De Rijk 不知道抄本 C 与 K。抄本 C 的简要描述见 P.O. Lewry, “Oxford Logic 1250–1275: Nicholas and Peter of Cornwall,” in Lewry 1985, 22。这些抄本的更多描述见 Raedts 1987, 107–111。
+    step2: |-
+      [^note-3]: 抄本 B、D、O、P、R 的描述见 de Rijk 1962–67；De Rijk 不知晓抄本 C 与 K。抄本 C 的简要描述见 P.O. Lewry, “Oxford Logic 1250–1275: Nicholas and Peter of Cornwall,” in Lewry 1985, 22。上述抄本的更多描述见 Raedts 1987, 107–111。
   - id: 27
     kind: note
     source: |-
       [^note-4]: Ebbesen 1987, 136 and Lewry 1985. The manuscript is dated 1295, but Lewry remarks that the author uses the example “*Henricus est rex Angliae*”, and Henry died in 1272. Thus the reference to the Magister Abstractionum could be as early as the 1270s.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: Ebbesen 1987, 136 与 Lewry 1985。该抄本定年为 1295 年，但 Lewry 指出，作者使用了 “*Henricus est rex Angliae*” 这一例子，而亨利死于 1272 年。因此，对 Magister Abstractionum 的提及可能早至 1270 年代。
+    step2: |-
+      [^note-4]: Ebbesen 1987, 136；Lewry 1985。该抄本定年为 1295 年，但 Lewry 指出，作者用了 “*Henricus est rex Angliae*” 这个例子，而亨利死于 1272 年。因此对 Magister Abstractionum 的提及可能早至 1270 年代。
   - id: 28
     kind: note
     source: |-
       [^note-5]: De Rijk 1986: 27.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: De Rijk 1986: 27.
+    step2: |-
+      [^note-5]: De Rijk 1986: 27.
   - id: 29
     kind: note
     source: |-
       [^note-6]: William of Ockham, *Summa Logicae*, ed. Philotheus Boehner, Gideon Gál, and Stephen Brown (St. Bonaventure, N.Y. 1974), 367. Although this appears to be the only place where Ockham refers explicitly to the Magister Abstractionum, the editors point to other places where they believe he clearly has the Magister in mind (e.g., *Summa Logicae* III-1, c.16, 405; II, c. 4, 262). For references in Campsall, John of Reading and Adam Wodeham, see the Introduction to the *Summa Logicae*, 51*, n. 17.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: William of Ockham, *Summa Logicae*, ed. Philotheus Boehner, Gideon Gál, and Stephen Brown (St. Bonaventure, N.Y. 1974), 367。虽然这看起来是奥卡姆明确提及 Magister Abstractionum 的唯一一处，编者们指出了他们认为奥卡姆明显心中有这位 Magister 的其他地方（如 *Summa Logicae* III-1, c.16, 405；II, c. 4, 262）。Campsall、John of Reading 与亚当·德·沃德汉姆书中的引用，见 *Summa Logicae* 导言，51*, n. 17。
+    step2: |-
+      [^note-6]: William of Ockham, *Summa Logicae*, ed. Philotheus Boehner, Gideon Gál, and Stephen Brown (St. Bonaventure, N.Y. 1974), 367。虽然这看起来是奥卡姆明确提及 Magister Abstractionum 的唯一一处，但编者们指出了一些他们认为奥卡姆明显想到这位 Magister 的其他地方（如 *Summa Logicae* III-1, c.16, 405；II, c. 4, 262）。关于 Campsall、John of Reading 与亚当·德·沃德汉姆书中的引用，见 *Summa Logicae* 导言，51*, n. 17。
   - id: 30
     kind: note
     source: |-
       [^note-7]: The setting up of “contexts (*casus*)” within which proponents and opponents were obliged to develop their respective arguments gave rise to a special genre of sophism literature called “*obligationes*”. We note the techniques of “*obligatio*” especially in the development of sophisms towards the end of the *Abstractiones*. For a discussion of the historical development of obligations, see Stump 1982 and Spade 1982.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 设立“情境（*casus*）”——论辩双方有义务在其中展开各自的论证——催生了一种叫做 “*obligationes*”（义务论辩）的特殊诡辩文献文类。在 *Abstractiones* 接近结尾处的诡辩句展开中，我们特别注意到 “*obligatio*” 的技巧。关于义务论辩历史发展的讨论，见 Stump 1982 与 Spade 1982。
+    step2: |-
+      [^note-7]: 设立“情境（*casus*）”——论辩双方有义务在其中各自展开论证——催生了一类特殊的诡辩文献文类，称为 “*obligationes*”（义务论辩）。在 *Abstractiones* 接近结尾处的诡辩句展开中，我们尤其注意到 “*obligatio*” 的技巧。关于义务论辩历史发展的讨论，见 Stump 1982 与 Spade 1982。
   - id: 31
     kind: note
     source: |-
       [^note-8]: De Rijk 1962–67, Vol. II, 71.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: De Rijk 1962–67, Vol. II, 71.
+    step2: |-
+      [^note-8]: De Rijk 1962–67, Vol. II, 71.
   - id: 32
     kind: note
     source: |-
       [^note-9]: Pinborg 1976, 1–4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: Pinborg 1976, 1–4.
+    step2: |-
+      [^note-9]: Pinborg 1976, 1–4.
   - id: 33
     kind: note
     source: |-
       [^note-10]: The text of this question can be found in Franz Pelster, “Der Oxforder Theologie Richardus Rufus O.F.M. über die Frage, ‘*Utrum Christus in triduo mortis fuerit homo*’”, *Recherches de Théologie Ancienne et Médiévale*, 16 (1949), 259–280. For Bacon’s discussion, see Thomas S. Maloney (ed. & tr.), *Roger Bacon, Compendium of the Study of Theology*, Studien und Texte zur Geistesgeschichte des Mittelalters 20, (Leiden: E. J. Brill, 1988), par. 86–101.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 这一问题的文本见于 Franz Pelster, “Der Oxforder Theologie Richardus Rufus O.F.M. über die Frage, ‘*Utrum Christus in triduo mortis fuerit homo*’”, *Recherches de Théologie Ancienne et Médiévale*, 16 (1949), 259–280。培根的讨论见 Thomas S. Maloney (ed. & tr.), *Roger Bacon, Compendium of the Study of Theology*, Studien und Texte zur Geistesgeschichte des Mittelalters 20, (Leiden: E. J. Brill, 1988), par. 86–101。
+    step2: |-
+      [^note-10]: 这一问题的文本，见于 Franz Pelster, “Der Oxforder Theologie Richardus Rufus O.F.M. über die Frage, ‘*Utrum Christus in triduo mortis fuerit homo*’”, *Recherches de Théologie Ancienne et Médiévale*, 16 (1949), 259–280。培根的讨论，见 Thomas S. Maloney (ed. & tr.), *Roger Bacon, Compendium of the Study of Theology*, Studien und Texte zur Geistesgeschichte des Mittelalters 20, (Leiden: E. J. Brill, 1988), par. 86–101。
   - id: 34
     kind: note
     source: |-
       [^note-11]: Pelster 1949: p. 279, ll. 136–144.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: Pelster 1949: p. 279, ll. 136–144.
+    step2: |-
+      [^note-11]: Pelster 1949: p. 279, ll. 136–144.
   - id: 35
     kind: note
     source: |-
       [^note-12]: Bacon, *Compendium*, trans. Maloney 1988: par. 103: “*Sed adhuc cavillant de esse habitudinis, sed hoc in propositione habet locum, et ideo destruetur postea, cum de propositionibus fiet sermo*”. It is worth noting here that Maloney translates “*esse habituale*” and “*esse habitudinis*” identically as “habitual being”, but there is warrant from Bacon himself that these are different notions and, perhaps, therefore, should be translated differently.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-12]: Bacon, *Compendium*, trans. Maloney 1988: par. 103: “*Sed adhuc cavillant de esse habitudinis, sed hoc in propositione habet locum, et ideo destruetur postea, cum de propositionibus fiet sermo*”。值得注意的是，Maloney 把 “*esse habituale*” 与 “*esse habitudinis*” 一律译作 “habitual being”（习性存在），但培根本人提供了理由表明这是两个不同的概念，或许因此应当译作不同的词。
+    step2: |-
+      [^note-12]: Bacon, *Compendium*, trans. Maloney 1988: par. 103: “*Sed adhuc cavillant de esse habitudinis, sed hoc in propositione habet locum, et ideo destruetur postea, cum de propositionibus fiet sermo*”。值得注意的是，Maloney 把 “*esse habituale*” 与 “*esse habitudinis*” 都译作 “habitual being”（习性存在）；但培根本人的文本足以表明这是两个不同的概念，或许正应因此译作不同的词。
   - id: 36
     kind: note
     source: |-
       [^note-13]: In connection with this terminology, Lewry (1985, p. 22) incorrectly transcribes C 283B at folio 207va as “*esse habituale sive commune*”, (thus perhaps seeing the terminology found in Bacon’s criticism of Rufus) whereas the scribe of the *Abstractiones* clearly writes “*esse habitudinis sive consequentiae*”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-13]: 与这套术语相关，Lewry（1985, p. 22）把 C 283B 在 folio 207va 上错误地转录为 “*esse habituale sive commune*”（因而或许看到了培根批评 Rufus 时使用的那套术语），而 *Abstractiones* 的抄写者写下的分明是 “*esse habitudinis sive consequentiae*”。
+    step2: |-
+      [^note-13]: 与这套术语相关，Lewry（1985, p. 22）把 C 283B 在 folio 207va 上误录为 “*esse habituale sive commune*”（因而或许看到的是培根批评 Rufus 时用的那套术语），而 *Abstractiones* 的抄写者写下的分明是 “*esse habitudinis sive consequentiae*”。
   - id: 37
     kind: note
     source: |-
       [^note-14]: Ockham, (ed. Boehner et al.,) p. 263.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-14]: Ockham, (ed. Boehner et al.,) p. 263.
+    step2: |-
+      [^note-14]: Ockham, (ed. Boehner et al.,) p. 263.
   - id: 38
     kind: note
     source: |-
       [^note-15]: Especially relevant here would be a study of the sophism OMNIS PHOENIX EST, where Lewry (1985) p. 22, sees possible evidence of the Magister adopting notions criticized by Bacon.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-15]: 与此特别相关的是对诡辩句 OMNIS PHOENIX EST 的研究：Lewry（1985）p. 22 在其中看到了这位 Magister 采纳培根所批评观念的可能证据。
+    step2: |-
+      [^note-15]: 与此特别相关的是对诡辩句 OMNIS PHOENIX EST 的研究——Lewry（1985）p. 22 在其中看到了这位 Magister 采纳培根所批评观念的可能证据。
   - id: 39
     kind: note
     source: |-
       [^note-16]: These are in connection with the following sophisms: (1) OMNE COLORATUM EST: The distinction is introduced as a way of explaining a perceived mistake in one of the arguments in the disproof of the sophism, i.e., “*Omne coloratum est. Omne album est coloratum. Ergo omne album est*”. It is said that this argument equivocates upon “*esse*”, for in the first premiss it is “*esse operatio entis*”, whereas in the second it is “*esse habitudinis sive consequentiae*”. Richard goes on to interpret the former categorically, the latter hypothetically. Ockham’s criticisms (noted above) seem relevant here in that equivocation is a semantic fallacy, whereas the propositional distinction is essentially syntactic. As Ockham notes, any proposition can be turned into one or the other. The important observation, however, is that Richard is not adopting the distinction as a favored solution to the sophism itself, but only as what some people say about a mistake in the disproof of an argument. (2) OMNIS HOMO DE NECESSITATE EST ANIMAL: Here too he offers multiple solutions to the sophism, the second of which is again to note the fallacy of equivocation in connection with “*esse*”, as above. Here, however, it seems clear that this is not his favored solution to the sophism. Rather he argues the sophism is best solved through application of the composite and divided senses of “*necessitas*”. (3) OMNIS ASINUS EST HOMO: Here the distinction is offered again as an explanation of a kind of equivocation between two premises of the argument, as in: “*Omne animal est homo. Omnis asinus est animal. Ergo omnis asinus est homo*”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-16]: 这些地方与以下诡辩句有关：(1) OMNE COLORATUM EST：这一区分被引入，是为了解释该诡辩句的反驳中某个论证里一个被认为的错误，即 “*Omne coloratum est. Omne album est coloratum. Ergo omne album est*”。据说这个论证在 “*esse*” 上有歧义：在第一个前提里它是 “*esse operatio entis*”，而在第二个前提里它是 “*esse habitudinis sive consequentiae*”。理查德接着把前者按直言的方式理解，把后者按假言的方式理解。奥卡姆的批评（见前注）在此似乎切题，因为歧义是语义谬误，而命题类型的区分本质上是句法的。正如奥卡姆所指出的，任何命题都可以变成这一种或那一种。然而重要的观察是：理查德并没有把这一区分当作他对该诡辩句本身偏好的解答，而只是把它当作某些人关于反驳中一个论证之错误的说法。(2) OMNIS HOMO DE NECESSITATE EST ANIMAL：这里他同样给出多个解答，其中第二个又是注意到与 “*esse*” 相关的语词歧义谬误，如前。但这里似乎清楚，这并不是他对该诡辩句偏好的解答；他主张这条诡辩句最好通过应用 “*necessitas*” 的组合与拆分意义来解答。(3) OMNIS ASINUS EST HOMO：这里这一区分再次被提出来，用以解释论证的两个前提之间的某种歧义，如：“*Omne animal est homo. Omnis asinus est animal. Ergo omnis asinus est homo*”。
+    step2: |-
+      [^note-16]: 这些地方与下列诡辩句有关：(1) OMNE COLORATUM EST：引入这一区分，是为了解释该诡辩句反驳中某个论证的一个被认为的错误，即 “*Omne coloratum est. Omne album est coloratum. Ergo omne album est*”。据说这个论证在 “*esse*” 上有歧义：第一个前提里是 “*esse operatio entis*”，第二个前提里则是 “*esse habitudinis sive consequentiae*”。理查德接着把前者按直言命题理解，把后者按假言命题理解。奥卡姆的批评（见前注）在此似乎切中要害：歧义是语义谬误，而命题类型的区分本质上是句法层面的。正如奥卡姆所说，任何命题都可以变成这两种之一。然而重要的观察是：理查德并没有把这一区分当作他本人对该诡辩句偏好的解答，而只是把它当作某些人对反驳中一个论证之错误的说法。(2) OMNIS HOMO DE NECESSITATE EST ANIMAL：这里他同样给出多个解答，第二个解答又是注意与 “*esse*” 相关的语词歧义谬误，如前。但这里似乎清楚，这并不是他偏好的解答；他主张这条诡辩句最好通过应用 “*necessitas*” 的组合与拆分意义来解答。(3) OMNIS ASINUS EST HOMO：这里这一区分再次被提出来，用以解释论证两个前提之间的某种歧义，如：“*Omne animal est homo. Omnis asinus est animal. Ergo omnis asinus est homo*”。
   - id: 40
     kind: note
     source: |-
       [^note-17]: The distinction can be found in Norman Kretzmann (tr.), *William of Sherwood’s Introduction to Logic*, (Minneapolis: University of Minnesota Press, 1966), 125–126, and Kretzmann (tr.), *William of Sherwood’s Treatise on Syncategorematic Words*, (Minneapolis: University of Minnesota Press, 1968), 92–93.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-17]: 这一区分见于 Norman Kretzmann (tr.), *William of Sherwood's Introduction to Logic*, (Minneapolis: University of Minnesota Press, 1966), 125–126，以及 Kretzmann (tr.), *William of Sherwood's Treatise on Syncategorematic Words*, (Minneapolis: University of Minnesota Press, 1968), 92–93。
+    step2: |-
+      [^note-17]: 这一区分见于 Norman Kretzmann (tr.), *William of Sherwood's Introduction to Logic*, (Minneapolis: University of Minnesota Press, 1966), 125–126，另见 Kretzmann (tr.), *William of Sherwood's Treatise on Syncategorematic Words*, (Minneapolis: University of Minnesota Press, 1968), 92–93。
   - id: 41
     kind: note
     source: |-
       [^note-18]: Braakhuis 1981, 145–149.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-18]: Braakhuis 1981, 145–149.
+    step2: |-
+      [^note-18]: Braakhuis 1981, 145–149.

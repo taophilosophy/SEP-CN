@@ -1,29 +1,36 @@
 {
- "slug": "richard-sophister",
- "kind": "retranslate",
- "zh_doc": "r/richard-sophister.md",
- "state": "cleared",
- "steps": [
-  {
-   "step": "direction",
-   "status": "ok",
-   "actor": "RZ-main-20261104",
-   "at": "2026-11-03T19:24:07Z",
-   "evidence": "方向声明（rules/08）：r–z 九批 385 词条全流程重译的首件 richard-sophister（r 批最小件，先端到端验证状态机再放量）。目标：rules/04 状态机 clear→draft→s1→s2→s3→r1→r2→r3→done 六道全过；验收=check_academic --strict 0 硬错误 + check_style 0 issue + check_prose 告警清零 + markdownlint 绿。非目标：不改英文源、不补内容、不造引文、不动他人批次在途文件、不 push。"
-  },
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-03T19:21:29Z",
-   "evidence": "baseline gate: hash_ok"
+  "slug": "richard-sophister",
+  "kind": "retranslate",
+  "zh_doc": "r/richard-sophister.md",
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T19:24:07Z",
+      "evidence": "方向声明（rules/08）：r–z 九批 385 词条全流程重译的首件 richard-sophister（r 批最小件，先端到端验证状态机再放量）。目标：rules/04 状态机 clear→draft→s1→s2→s3→r1→r2→r3→done 六道全过；验收=check_academic --strict 0 硬错误 + check_style 0 issue + check_prose 告警清零 + markdownlint 绿。非目标：不改英文源、不补内容、不造引文、不动他人批次在途文件、不 push。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-03T19:21:29Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T19:57:17Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译双版）：lq.py init 41 段（body=22+oir=1+note=18，biblio 21 条照录）→script/build_richard_sophister.py 填 step1/step2→前置自检拦 4 处修复（段8 漏 1 斜体对、段21 误增斜体+拆散源文单一斜体对 esse in habitu/esse in actu、段24 丢 Perutilis Logica 斜体、段4/40 双版雷同）→lq.py check HARD=0 SOFT=12（全为机械段白名单：标题 3+抄本清单+oir+纯引注注 7）→compose 写回 13670 字符；H1 手工修复（SUMMARY 转义括号截断，还原 [Ricardus Sophista, Magister abstractionum] 全形）；相关词条 3 个未匹配手工对齐 SUMMARY（沃尔特·伯利/奥卡姆的威廉/诡辩）；术语登记 yi-zhe-shuo-ming 9 条 + ren-ming-biao 4 条（SUMMARY 既定名/学界通行，待 specs/008 复核）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-03T19:21:29Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 26, 2016",
+    "archive_edition": "Fall 2025",
+    "sha256": "ab5c92dab94a176b8822824149bbd0e5a75a6bf9c0d7d2d0ff3a3053c4f9633b"
   }
- ],
- "blockers": [],
- "created_at": "2026-11-03T19:21:29Z",
- "version_pin": {
-  "pubinfo_date": "Nov 26, 2016",
-  "archive_edition": "Fall 2025",
-  "sha256": "ab5c92dab94a176b8822824149bbd0e5a75a6bf9c0d7d2d0ff3a3053c4f9633b"
- }
 }
