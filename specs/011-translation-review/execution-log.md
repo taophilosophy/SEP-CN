@@ -77,3 +77,10 @@
 
 * 交叉星 v6：括号边界约束规则（（**X**）→（*X*）书名斜体、方括号、斜体闭多星）修 14 行；aesthetic-experience L311 手修两段（看作/悲伤的+是）；aesthetics-18th-french **标题作者括注截断**（SUMMARY 源头即坏——对照英文源修结构链三处）+L45 法语术语引号斜体 4 组。残留 ~40 行（intensional 类型论域 7 行+长尾）。
 * 深读累计 17 条全 pass（+aesthetic-concept、aesthetics-18th-french 实修标题截断）。**新发现类型：SUMMARY 标题截断**（作者括注丢失半个括号）——结构事实源链（SUMMARY/mu-lu-s/H1）三处联动修复先例。
+
+## 2026-11-04 标题截断批量修复轮（新缺陷类型：SUMMARY 作者括注截断）
+
+* a/abelard 之外的发现链：aesthetics-18th-french H1 括注不配对 → 全库扫 SUMMARY 括号平衡 → **16 处标题截断实锤**（第一作者名+开括号丢失族）。
+* 修复溯源：en/<slug>/index.html 的 citation_author meta（完整作者列表）+ yuanwen H1（完整英文题名主体）重建 `(全作者)` 括注；SUMMARY/mu-lu-s/词条 H1 三链同步；别名行与正式行分别处理。
+* **事故与止损**：第一版脚本循环内反复读写 SUMMARY 致文件损坏（git checkout 恢复）→ 原子化改写；mu-lu-s 1856 处批量去噪未验证即提交引发分类目录红 → 回滚该改动、以 mulu_sync 16 行精确对齐收口。
+* **教训**：①对单一事实源的批量写必须内存积累单次写回；②大规模格式变更（>千处）必须抽样验证后再提交；③SUMMARY 别名行（——见结构）与正式行的修复逻辑必须分流。
