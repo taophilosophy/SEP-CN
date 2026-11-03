@@ -2,7 +2,7 @@
   "slug": "karl-reinhold",
   "kind": "retranslate",
   "zh_doc": "k/karl-reinhold.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:46Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:35:58Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：lq.py init 63 段（body=61+oir=1+note=1）→本会话直译双版（script/build_reinhold_p1+p2.py 两批）→守恒自检 HARD=0 SOFT=30（斜体→书名号正常；seg63 note 长度比 0.11 系括注短句对长脚注键，人工判读无漏译）→lq.py check 通过→compose 写回 48636 字符；H1=SUMMARY 2278 行；参考文献 143 条照录；披露：seg63 为 note-kind（源文括注脚注），step1=step2"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:35:58Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：中文强调斜体→粗体 22 行转换（守卫锚定转换器）；关联词条 compose 全自动映射成功（费希特/黑格尔/康德，无 NOTE 项）；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:35:58Z",
+      "evidence": "s2 二校：引文括注 40+ 处复核（Beyträge I: 167/171/182f/216f/367、Fundament pp. 72–73/191n、RGS 4: 47/107n、RGS 5/2: 4/5/126/127/139、Vermischter Schriften II: vii/x/322f/324/359、Versuch pp. 244–255、BzÜ 1: 108–109/111、BzÜ 2: 182–199/182f、BzÜ 4: 219、BzÜ 5: iii、Fichte im Gespräch 1: 62/66、GA III/2, 50、CPR A 15/B 29、Ord. I d.44、Lectura I dist. 39、Bardili 1800: 67、各研究年份引注）；术语核销：元素哲学 Elementarphilosophie/意识命题/表象-表象能力 Vorstellung-Vorstellungsvermögen/认识能力-欲求能力/事行 Tathandlung/知识学 Wissenschaftslehre/理性实在论-逻辑实在论/作为思维的思维 Denken als Denken/无语言的思维 sprachloses Denken/同义词学 Synonymik/语言学转向/无神论之争/共济会-光明会/巴尔纳伯会/约瑟夫改革/埃奈西德穆/先天-普遍有效-普遍约束 allgemeingültig-allgemeingeltend；专名核销（维兰德/德·伯里无——本条无/费希特/雅可比/迈蒙/巴尔迪利/黑格尔/谢林/赫尔德/哈曼/弗里斯/舒尔策/伯恩哈迪/布特韦克/洪堡/弗雷格/维特根斯坦/莱布尼茨/培根-洛克-休谟/拉瓦特/库尔茨/亨利希/施塔姆/席勒）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:35:59Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues；check_math 0；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:35:59Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/karl-reinhold.md 440 行 ↔ k/karl-reinhold.md 约 300 行逐段核销）：导言+六节（生平与著作/元素哲学/费希特阶段/理性实在论/语言学转向/接受）全数在位；零引块（本条无 blockquote）；六条德文书题照录形核销（Versuch/Beyträge/Fundament/Auswahl/Paradoxien/Beyträge leichtern Uebersicht/Critik der Logik/Fibel/Synonymik/menschliche Erkenntniß/Alte Frage/Grundriß 巴尔迪利长题）；核心论证核销（意识命题三分结构-客体三义/系统形式-一致性-完备性-第一原则-自明/表象理论四成果/费希特三批评-先天可能性-物自体-理论实践鸿沟/理性实在论 A as A-C 质料演算/同义词学两缺陷/六次国际会议与编辑史/自由意志研究两条线）；参考文献 143 条逐字相符；零信任抽查 4 处（意识命题引文 Beyträge I 167、纯粹理性福音段、BzÜ 演算段、1998 巴特洪堡会议段）与 en 镜像一致；本条为主会话自译，r1 以源文复读+抽查如实记"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:35:59Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施留痕，r2 复认）：斜体→粗体 22 行；seg30 ** 误用修正为斜体原本；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:35:59Z",
+      "evidence": "r3 门禁全绿：四道复跑全过（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-03T18:36:00Z",
+      "evidence": "done 收口：K 批直译第三条全周期（init→直译双版 63 段→守恒→compose 48636 字符→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
     }
   ],
   "blockers": [],
