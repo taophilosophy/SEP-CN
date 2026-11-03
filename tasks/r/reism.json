@@ -2,7 +2,7 @@
   "slug": "reism",
   "kind": "retranslate",
   "zh_doc": "r/reism.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "direction",
@@ -24,6 +24,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-03T20:47:45Z",
       "evidence": "draft（ADR-0021 账本协议，主会话直译双版）：lq.py init 64 段（body=63+oir=1，biblio 30 条照录含 A/B 小节标题）→script/build_reism.py 填 step1/step2→前置自检：守恒 HARD=0，软标旗 2 处计划内脱斜体（段1 Stoics/Leibniz/Brentano/华沙学派、段58 Tarski 译中文后按 italic-cjk 规则去斜体；* 计数差=软标旗与 lq 语义对齐）→compose 写回 11819 字符→rz_postfix 补 H1 空行+相关词条 5/5 对齐（本轮修强 rz_postfix：相关词条行改从 yuanwen 源重导出，规避 lq summary_index 被 SUMMARY 别名行覆盖的污染；SEP 子词条 Parent: child 前缀剥离匹配）。术语登记 14 条（reism=事物论 用 SUMMARY 既定名；pansomatism=泛躯体主义/onomatoid=似名称 构词直译留拉丁；mereology=分体论 SUMMARY 既定），人名 3 条（布伦塔诺/莱斯涅夫斯基语料回收，塔尔斯基册内既定；Kotarbiński/Twardowski 无权威通行汉名保留英文）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-03T20:51:06Z",
+      "evidence": "s1 一校（MTPE 顺序，账本为对照底逐段核销）：①幻觉/漏译/增译——64 段数字多集合比对：唯一差异段19「19ᵗʰ century→十九世纪末」为语料惯例换算（kokugaku 同例「十八、十九世纪」），人工判读通过；脚注键闭环：正文唯一引用 woleński-1996 ↔ biblio 定义区 30 条（含非 ASCII 键 kotarbiński/janoušek/körner/woleński×5），biblio 节定义无正文引用系现制形态（check_academic 豁免，richard-sophister 21 条同例）；②术语漂移——登记册补落后项：正文段16 落地「非范畴词/伴语义词」括注（账本+成稿同步重建，守恒 HARD=0），entia rationis 登记释义对齐正文用词「思想对象」，删本会话误加的重复 physicalism 行（并行会话先已登记 319 行，保留先登行）；③check_terms 硬错误 6→0：5 个登记册↔词汇表冲突按「修弱势方」对齐（Tarski/Telesio/Brentano/Vives/Valla，Brentano 采 SUMMARY 既定形弗朗兹并留「学界亦作弗朗茨」备注，Valla 随现行登记册劳伦佐——方向与我早前修正相反，并行会话已改判登记册，随现行）"
     }
   ],
   "blockers": [],

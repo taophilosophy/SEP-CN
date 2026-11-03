@@ -507,7 +507,7 @@
 |Alexander Gerard|亚历山大·杰拉德||
 |Alexander of Aphrodisias|阿佛洛狄西亚的亚历山大|旧键 Aphrosias 系拼写笔误；中文维基百科作“阿佛洛狄西亚的亚历山大”|
 |Alfred North Whitehead|阿尔弗雷德·诺思·怀特海|国家图书馆规范标目亦作“艾尔弗雷德·诺思·怀特海”|
-|Alfred Tarski|阿尔弗雷德·塔尔斯基|通译“阿尔弗雷德”，与怀特海行用字一致|
+|Alfred Tarski|塔尔斯基|对齐人名表（2026-11-04）；本册既定「林登鲍姆–塔尔斯基代数」同形|
 |All Men are Mortal|人都是要死的||
 |Allan Ramsay|艾伦·拉姆齐||
 |Alternative Axiomatic Set Theories|替代性公理集合论||
@@ -571,7 +571,7 @@
 |Berkeley|贝克莱||
 |Bernard Bosanquet|伯纳德·鲍桑葵||
 |Bernard Williams|伯纳德·威廉斯||
-|Bernardino Telesio|贝尔纳迪诺·特勒肖||
+|Bernardino Telesio|贝尔纳迪诺·特莱西奥|对齐人名表（2026-11-04）|
 |Bessarion|贝萨里翁||
 |Big Data|大数据||
 |binarium famosissimum|最著名的一对||
@@ -754,7 +754,7 @@
 |Francis Herbert Bradley|弗朗西斯·赫伯特·布拉德雷||
 |Francis Hutcheson|弗朗西斯·哈奇森|Francis 统一译“弗朗西斯”（与 Francis Bacon 一致）|
 |Francisco Suárez|弗朗西斯科·苏亚雷斯||
-|Franz Brentano|弗朗茨·布伦塔诺|通译“弗朗茨”|
+|Franz Brentano|弗朗兹·布伦塔诺|对齐人名表与 SUMMARY 条目名（2026-11-04）；学界亦作“弗朗茨”|
 |François-Marie d’Arouet|弗朗索瓦-马里·阿鲁埃|伏尔泰本名；旧值分隔符“‧”系误植，正为间隔号“·”|
 |free speech|言论自由|与 academic freedom 学术自由相关联|
 |free variables|自由变元|亦作“自由变项”；与约束变元（bound variables）相对|
@@ -853,7 +853,7 @@
 |John Buridan|让·布里丹||
 |John Cook Wilson|约翰·库克·威尔逊||
 |Joseph Butler|约瑟夫·巴特勒||
-|Juan Luis Vives|胡安·路易斯·维夫斯||
+|Juan Luis Vives|胡安·路易斯·比韦斯|对齐人名表（2026-11-04）|
 |Judah Abrabanel|犹大·莱昂·阿布拉瓦内尔||
 |Judaism|犹太教||
 |judgment aggregation|判断聚合||
@@ -884,7 +884,7 @@
 |Long March|长征||
 |Lord Keeper of the Seal|掌玺大臣||
 |Lord Monboddo|蒙博多勋爵||
-|Lorenzo Valla|洛伦佐·瓦拉||
+|Lorenzo Valla|劳伦佐·瓦拉|对齐人名表（2026-11-04）|
 |Ludwig Boltzmann|路德维希·玻尔兹曼||
 |Ludwig Wittgenstein|路德维希·维特根斯坦||
 |Luitzen Egbertus Jan Brouwer|勒伊岑·艾赫贝特斯·扬·布劳威尔||

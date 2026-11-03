@@ -501,9 +501,8 @@
 | onomatoid | 似名称（正文保留 onomatoid，首现括注） | reism | 构词直译（onoma+oid）；学界无定译，保留原词 | 2026-11-04 |
 | mereology | 分体论 | reism | SUMMARY 既有条目名（m/mereology.md）；语料亦见“部分学”，以 SUMMARY 为准 | 2026-11-04 |
 | hypostatisation | 实体化 | reism | 学界惯例（hypostatize 通译实体化） | 2026-11-04 |
-| entia rationis | 思想之物（保留拉丁，随文括注） | reism | 经院哲学习惯（随源文自释 objects of thought 括注） | 2026-11-04 |
+| entia rationis | 思想对象（保留拉丁，随文括注） | reism | 经院哲学习惯（随源文自释 objects of thought 括注；正文用「思想对象」） | 2026-11-04 |
 | formal mode of speech | 形式说话方式 | reism | 学界惯例（卡尔纳普术语通行译法） | 2026-11-04 |
-| physicalism | 物理主义 | reism | 学界通行 | 2026-11-04 |
 | logical empiricism | 逻辑经验主义 | reism | 学界通行 | 2026-11-04 |
 | singularia | 殊相（保留拉丁，首现括注） | reism | 中世纪哲学惯例（particulars 通译殊相） | 2026-11-04 |
 | syncategorematica / synsemantica | 非范畴词／伴语义词（保留拉丁，首现括注） | reism | 沿用本册 syncategorematic word=非范畴词；synsemantica 按构词括注 | 2026-11-04 |
