@@ -205,6 +205,30 @@ segments:
 
 账本 step2 → draft 成稿落入词条 md（骨架与元素映射照本模板 §2–§4）→ 一校以账本为对照底逐节核销（rules/04 MTPE 顺序：先幻觉漏译增译，再术语漂移，后语言）。账本文件随任务入库，evidence 引用其路径与校验输出。
 
+### 6.5 已知陷阱与工具要点（2026-11-04，F–K 批实践沉淀）
+
+**直译流水线（主会话，无子代理）**：①`python script/lq.py init <L> <slug>`（骨架自动含标题段与 oir 段）②通读 yuanwen → 写 `script/build_<slug>.py` 双版翻译 dict（**分批落盘、每批即 commit 账本**，防会话中断丢失；注意 `json.dumps` 把元组转列表，取值须 `s1, s2 = v[0], v[1]`）③组装账本＋守恒自检 → `lq.py check`（HARD=0 方可写回）→ `lq.py compose --write` ④`script/italic_to_bold_cjk.py <md>`（中文强调斜体→粗体）⑤四检（style/math/summary/academic --strict）→ task_ops 八步推进 → pathspec commit。
+
+**compose 陷阱**：
+1. SUMMARY 行含转义括号 `\[...\]` 时 `summary_title` 截断 H1——s1 手工补全（kokugaku-school 实例）。
+2. 关联词条 NOTE 项（未匹配者）留 s1 人工复核对齐 SUMMARY 登记形；无 SUMMARY 行者保留中文译名，待管线挂链。
+3. 脚注键/`$`/`**` 计数守恒是硬门——勿在 step2 加粗源文斜体词（`**` 计数漂移即 HARD）。
+
+**前批账本对齐手术**（hare 先例）：旧账本按“compose 补标题”约定制作会 check 失败——补标题段（kind=body、step1=step2 机械段，SOFT 可过）+OIR 样板段（kind=oir）+ack 段改 kind，id 按文档序重编号。
+
+**斜体→粗体转换**：守卫锚定正则 `(?<!\*)\*([^*
+]+?)\*(?!\*)`（`script/italic_to_bold_cjk.py` v3）；裸正则会跨对误配（011 v1-v3 事故重现），账本 compose 是零损失恢复的安全网。豁免行：标题/列表子弹/脚注定义/表格/pubinfo 斜体行；`**` 与相邻汉字间补半角空格。
+
+**curly-quotes 转写撇号**：`Gevia‘` 类转写撇号右邻为空格时不豁免——改词内撇号形（`Gevi'at`，两侧拉丁）过门。
+
+**补充材料**：无独立基线条目（task_ops create 拒），按模板 #19 随主任务走同周期：账本手建（source 程序化取自 yuanwen 保逐段身份）、手工装配。
+
+**SUMMARY 全题化联动**：主行英文为 TOC 片段时回 en/ 查 citation_title 全题化；**必须联动 mu-lu-s.md 同路径行**（holbach 漏联动被 check_mulu_s 抓到）。
+
+**审校实抓先例**（复审对照时优先排查）：Bob **Hale**≠R.M. Hare（均译“黑尔”，需〔Bob Hale〕消歧）；Nachlass 非书名（不用书名号）；源文 off-color 译“变味”非“变色”；no less problematic than convenient 病句型；contemporary=今天/当代（非“当时”）；partially free=部分自由的（非“一部分”）；spiritualism=唯灵论≠唯心论；mistranslation credit X with Y 的方向（把 Y 归于 X）。
+
+**git 纪律**：并行会话活跃时提交一律带 pathspec；重置前先 `git log -2` 确认 HEAD 无他人新提交；共享登记册（ren-ming-biao 等）被他会占用时，用 `git apply --cached` 只暂存己方 hunk。
+
 ## 7. 演示与修订
 
 * 本模板 v1.0 由 alcmaeon（一校通过）验证主体骨架；**spacetime-holearg（空穴论证）为四要素演示件**（2026-10-28，任务 state=s3_checked）：图片（`../yuanwen/assets/` 路径裁定**首跑确认**）、脚注（note-1..8 含跨文件孤儿豁免）、数学（`$$…$$` 配对 0 缺失）、表格元素中图/脚注/数学三类已实跑验证，表格类元素仍待首个含表词条确认。演示发现的问题按 rules/04"演示与纠偏循环"回修本模板。
