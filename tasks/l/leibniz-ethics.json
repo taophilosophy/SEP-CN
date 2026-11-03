@@ -1,0 +1,50 @@
+{
+  "slug": "leibniz-ethics",
+  "kind": "retranslate",
+  "zh_doc": "l/leibniz-ethics.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-03T17:53:51Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T18:38:29Z",
+      "evidence": "方向声明同批次。ADR-0021 账本 tasks/l/leibniz-ethics.ledger.yaml 84 段（反思两步真实双版，本批第二最大件 389 行源）；守恒校验通过（软旗：标题/OIR/机械段×3、斜体计数差×4 留痕）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T18:38:29Z",
+      "evidence": "主会话逐节对照 yuanwen 核销 83 段：引证（T §20·21·31·45·147·209/H 130·139·239·282/NE p.71·163·173·185-195/PW Felicity·Codex Iuris·Opinion·Meditation/PE Monadology·Discourse·PNG 各节 逐字符）；善三分-形而上学完善-智者仁爱-自然法三原则-无私爱-进步-笛卡尔批评 全链核销；相关词条 3 项映射（含 ethics: natural law tradition→伦理学中的自然法传统）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T18:38:29Z",
+      "evidence": "check_prose 首跑 48 处，四轮批量实修 35 处至 13：长句拆分×8、的链消解×20、弱动词×1；余 13 处豁免留痕：莱布尼茨/笛卡尔引文行内部三'的'/长句结构（忠实引文所需——NE Felicity §15-16/Principles of Nature and Grace/Meditation/Discourse §2·15/AT V Burman 引文），逐类判读无破句无漏译"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-03T18:38:30Z",
+      "evidence": "四检：check_style 0（中文斜体 26 处转加粗；中西文空格 3 处修零）、check_academic 0 硬错误、check_math 0、prose 13 豁免；人名 3 位登记 ren-ming-biao.md（格劳秀斯/普芬道夫/巴特勒）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-03T17:53:51Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 17, 2025",
+    "archive_edition": "Summer 2025",
+    "sha256": "55288647b321381a4b1649154cf716a4b5887fefcf1a86aa406be22c6508e6d7"
+  }
+}

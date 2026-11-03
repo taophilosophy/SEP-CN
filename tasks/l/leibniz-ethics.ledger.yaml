@@ -1,0 +1,708 @@
+version: 1
+slug: leibniz-ethics
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Although Leibniz never wrote a systematic ethical treatise, in his view theology is a type of jurisprudence, a science of law (NE, p. 526). And Leibniz contributed a systematic work to the field of theology, namely, the *Theodicy* (1710), the only large-scale philosophical work that he published during his lifetime. Given that Leibniz the natural theologian and metaphysician is, at the same time, a moral philosopher, ethics has a central place in his philosophical system. No divisions exist among the nominally different fields. Thus the view that he never wrote a systematic ethical treatise is not true without qualification. Moreover, the fact that he views theology as a science of law provides some insight into the character of his ethics. He offers a natural law theory, and, like other such theories, its basic structure consists of a theory of the good and a theory of law. Compliance with the principles spelled out in the latter is necessary and sufficient to achieve the good. Since, according to Leibniz, God is the measure of the good, the primary directive of his ethics is that one ought to imitate divinity as far as possible.
+    step1: |-
+      尽管莱布尼茨从未写过系统的伦理学专著，但依他之见，神学是一种法理学，即法的科学（NE, p. 526）。而莱布尼茨为神学领域贡献了一部系统著作，即《神义论》（1710）——他生前出版的唯一大型哲学著作。鉴于作为自然神学家与形而上学家的莱布尼茨同时是一位道德哲学家，伦理学在其哲学体系中居核心地位。名义上不同的领域之间并不存在分界。因此，“他从未写过系统的伦理学专著”这一说法不加限定便不为真。此外，他把神学看作法的科学，这一事实为其伦理学的品格提供了一些洞察。他提出了一种自然法理论；与其他此类理论一样，其基本结构由善的理论与法的理论构成。遵循后者所阐明之原则，对于达至善既是必要的也是充分的。既然照莱布尼茨的说法，上帝是善的尺度，其伦理学的首要指令便是：人应当尽可能仿效神性。
+    step2: |-
+      尽管莱布尼茨从未写过系统的伦理学专著，但依他之见，神学是一种法理学——法的科学（NE, p. 526）。而莱布尼茨为神学领域贡献了一部系统著作，即《神义论》（1710）：他生前出版的唯一大型哲学著作。鉴于作为自然神学家与形而上学家的莱布尼茨同时是一位道德哲学家，伦理学在其哲学体系中居核心地位；名义上不同的领域之间并无分界。因此，“他从未写过系统的伦理学专著”这一说法，不加限定便不为真。此外，他把神学看作法的科学——这一事实为其伦理学的品格提供了一些洞察。他提出一种自然法理论；与其他此类理论一样，其基本结构由善的理论与法的理论构成。遵循后者所阐明之原则，对达至善既必要又充分。既然照莱布尼茨之说，上帝是善的尺度，其伦理学的首要指令便是：人应当尽可能仿效神性。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Theory of the Good
+    step1: |-
+      ## 1 善的理论
+    step2: |-
+      ## 1 善的理论
+  - id: 3
+    kind: body
+    source: |-
+      Leibniz’s ethics centers on a composite theory of the good. Three longstanding philosophical doctrines compose the theory: (1) the Platonic view that goodness is coextensive with reality or being, (2) the perfectionist view that the highest good consists in the development and perfection of one’s nature, and (3) the hedonist view that the highest good is pleasure. This set of doctrines is disclosed in Leibniz’s tripartite division of the good into the metaphysical good, the moral good, and the physical good (T §209, p. 258). He equates the metaphysical good with reality, moral goodness with virtue, and the physical good with pleasure. Moreover, with each type of good exists a correlative type of evil. The metaphysical good of reality correlates with the metaphysical evil of privation of reality or non-being. Similarly, the moral goodness of virtue relates to the moral evil of sin or vice. Finally, the physical good of pleasure is contrary to the physical evil of pain (T §21, p. 136). The theory constructed out of these divergent doctrines illustrates Leibniz’s eclectic approach to philosophical investigation. As he puts it in a comment on his own system of philosophy, “This system appears to unite Plato with Democritus, Aristotle with Descartes, the Scholastics with the moderns, theology and morality with reason. Apparently it takes the best from all systems and then advances further than anyone has yet done” (NE, p. 71).
+    step1: |-
+      莱布尼茨的伦理学以一个复合的善理论为核心。三个源远流长的哲学学说构成该理论：（1）柏拉图式的观点——善与实在或存在同广延；（2）完善论观点——至善在于人的本性之发展与完善；（3）快乐主义观点——至善即快乐。这组学说披露于莱布尼茨把善三分的划分：形而上学的善、道德的善与物理的善（T §209, p. 258）。他把形而上学的善等同于实在，把道德的善等同于德性，把物理的善等同于快乐。而且，与每一类善相应的，存在一类相应的恶。实在的形而上学善，关联于实在之缺乏或非存在的形而上学恶。同样，德性的道德善，关联于罪或恶习的道德恶。最后，快乐的物理善与痛苦的物理恶相对（T §21, p. 136）。由这些分歧学说构造的理论，例示了莱布尼茨对哲学研究的折中进路。如他在评自己的哲学体系时所说：“这个体系似乎把柏拉图与德谟克利特、亚里士多德与笛卡尔、经院学者与今人、神学与道德同理性联合起来。显然它取各体系之最佳，然后推进到迄今无人所及之处”（NE, p. 71）。
+    step2: |-
+      莱布尼茨的伦理学以一个复合的善理论为核心。三个源远流长的哲学学说构成该理论：（1）柏拉图式的观点——善与实在或存在同广延；（2）完善论观点——至善在于人之本性的发展与完善；（3）快乐主义观点——至善即快乐。这组学说披露于莱布尼茨对善的三分：形而上学的善、道德的善与物理的善（T §209, p. 258）。他把形而上学的善等同于实在，把道德之善等同于德性，把物理的善等同于快乐。而且，每一类善都对应一类恶：实在的形而上学善，关联于实在之缺乏——即非存在——的形而上学恶；同样，德性的道德善，关联于罪或恶习的道德恶；最后，快乐的物理善与痛苦的物理恶相对（T §21, p. 136）。由这些分歧学说构造的理论，例示了莱布尼茨对哲学研究的折中进路。如他在评自己的哲学体系时所说：“这个体系似乎把柏拉图与德谟克利特、亚里士多德与笛卡尔、经院学者与今人、神学与道德同理性联合起来。显然它取各体系之最佳，然后推进到迄今无人所及之处”（NE, p. 71）。
+  - id: 4
+    kind: body
+    source: |-
+      Before looking at the way he attempts to advance moral philosophy and the theory of the good, it will help to have some background concerning what Leibniz calls the *metaphysical good* and its correlative *metaphysical evil*. In uniting goodness with reality, Leibniz borrows, not without putting his own stamp on it, a view that had currency with certain medieval philosophers (e.g., Augustine, Boethius, and Aquinas). The doctrine nonetheless originated in the Neoplatonic philosophy of Plotinus (204–269) and Porphyry (234–c.305), though there is clearly suggestion of it in Plato (e.g., *Republic* 518c, *Timaeus* 28b). In reuniting goodness and reality, or to what he interchangeably refers to as *perfection*, Leibniz thus characteristically recovers and attempts to restore a doctrine that had currency among medieval thinkers (for a study of the medieval treatment of the doctrine of metaphysical goodness, see the essays in MacDonald (ed.) 1991).
+    step1: |-
+      在考察他如何推进道德哲学与善理论之前，先了解莱布尼茨所谓的*形而上学善*及其相应的*形而上学恶*会有所帮助。在把善与实在联合起来时，莱布尼茨借用了一种在某些中世纪哲学家（如奥古斯丁、波爱修斯与阿奎那）那里流行的观点——并非不加己意。该学说起源于普罗提诺（204–269）与波菲利（234–约305）的新柏拉图主义哲学，尽管柏拉图那里已有明确的提示（如《理想国》518c，《蒂迈欧》28b）。在重新联合善与实在——即他交替称为*完善*的东西——时，莱布尼茨以一贯的作风恢复并试图重建一个曾在中世纪思想家中间流行的学说（关于中世纪对形而上学善学说之处理的研究，见 MacDonald (ed.) 1991 中的论文）。
+    step2: |-
+      在考察他如何推进道德哲学与善理论之前，先了解莱布尼茨所谓的*形而上学善*及其相应的*形而上学恶*，会有所帮助。在把善与实在联合起来时，莱布尼茨借用了某些中世纪哲学家（如奥古斯丁、波爱修斯与阿奎那）流行的观点——并非不加己意。该学说起源于普罗提诺（204–269）与波菲利（234–约305）的新柏拉图主义哲学；不过柏拉图已有明确提示（如《理想国》518c，《蒂迈欧》28b）。在重新联合善与实在——即他交替称作*完善*者——时，莱布尼茨以一贯的作风恢复并试图重建一个曾在中世纪思想家中间流行的学说（中世纪对形而上学善学说之处理的研究，见 MacDonald (ed.) 1991 中的论文）。
+  - id: 5
+    kind: body
+    source: |-
+      Reality (i.e., perfection) in Leibniz’s view is not the sort of thing that something either has or does not have. It is not an all-or-nothing matter. Rather, perfection is scalar—it comes in varying degrees. God has infinite perfection, the maximum amount, because He is limitless (PE, “Monadology,” §41). Every existent other than God, including the universe, possesses a limited degree of perfection. “For,” as Leibniz explains, “God could not give the creature all without making of it a God; therefore there must needs be different degrees in the perfection of things, and limitations also of every kind” (T §31, p. 142). Because nothing but God is infinite, everything else exhibits metaphysical perfection in varying, limited degrees.
+    step1: |-
+      照莱布尼茨的看法，实在（即完善）不是某物要么有要么没有的东西；它不是全有或全无之事。毋宁说，完善是分级的——它以不同的程度出现。上帝有无限的完善，即最大量，因为他是无界限的（PE, “Monadology,” §41）。上帝之外的每一个存在者——包括宇宙——都具有有限的完善度。“因为”，莱布尼茨解释道，“上帝不能把一切给予受造物而不把它变成上帝；因此事物的完善必然有不同的程度，也有各种各样的限定”（T §31, p. 142）。因为除上帝外没有什么是无限的，其余一切事物都以不同的、有限的程度表现形而上学完善。
+    step2: |-
+      照莱布尼茨的看法，实在（即完善）不是某物有或没有的东西；它不是全有或全无之事。毋宁说，完善是分级的——以不同的程度出现。上帝有无限的完善，即最大量，因为他是无界限的（PE, “Monadology,” §41）。上帝之外的每一个存在者——包括宇宙——都具有有限的完善度。“因为”，莱布尼茨解释道，“上帝不能把一切给予受造物而不把它变成上帝；因此事物的完善必然有不同的程度，也有各种各样的限定”（T §31, p. 142）。因为除上帝外没有什么是无限的，其余一切事物都以不同的、有限的程度表现形而上学完善。
+  - id: 6
+    kind: body
+    source: |-
+      Since everything but God exhibits a finite level of perfection, everything but God also exhibits a degree of imperfection, some privation of reality. Privation of reality necessarily belongs to creation in the sense that it is logically impossible for a created thing to be unlimited (PE, “Principles of Nature and Grace, Based on Reason,” §9; T §20, p. 135). Only that whose existence is absolutely necessary and therefore depends on nothing other than itself has infinite perfection. For Leibniz, metaphysical evil is the privation of reality inherent in the natures of created things (T §21, p. 136) (for further reading on Leibniz’s conception of metaphysical evil, see Latzer 1994 and Antognazza 2014)[^antognazza-2014][^latzer-1994].
+    step1: |-
+      既然除上帝外一切事物都表现出有限的完善层级，它们也都表现出某种程度的不完善——实在的某种缺乏。实在的缺乏必然属于创造，其意义在于：受造物是无界限的，这在逻辑上不可能（PE, “Principles of Nature and Grace, Based on Reason,” §9; T §20, p. 135）。唯有其存在绝对必然、从而不依赖任何他物者，才有无限的完善。对莱布尼茨来说，形而上学恶是受造物本性中固有的实在之缺乏（T §21, p. 136）（关于莱布尼茨形而上学恶概念的延伸阅读，见 Latzer 1994 与 Antognazza 2014）[^antognazza-2014][^latzer-1994]。
+    step2: |-
+      既然除上帝外一切事物都表现出有限的完善层级，它们也都表现出某种程度的不完善——实在的某种缺乏。实在之缺乏必然属于创造：受造物无界限，这在逻辑上不可能（PE, “Principles of Nature and Grace, Based on Reason,” §9; T §20, p. 135）。唯有其存在绝对必然、从而不依赖任何他物者，才有无限的完善。对莱布尼茨而言，形而上学恶是受造物本性中固有的实在之缺乏（T §21, p. 136）（莱布尼茨形而上学恶概念的延伸阅读，见 Latzer 1994 与 Antognazza 2014）[^antognazza-2014][^latzer-1994]。
+  - id: 7
+    kind: body
+    source: |-
+      In a letter in which he replies to an inquiry by the philosopher Christian Wolff (1679–1754) about the concept of perfection, Leibniz gives the following analysis:
+    step1: |-
+      在答复哲学家克里斯蒂安·沃尔夫（1679–1754）关于完善概念的一封信中，莱布尼茨给出如下分析：
+    step2: |-
+      在答复哲学家克里斯蒂安·沃尔夫（1679–1754）关于完善概念的一封信中，莱布尼茨给出如下分析：
+  - id: 8
+    kind: body
+    source: |-
+      > *Perfection* is the harmony of things, or the state where everything is worthy of being observed, that is, the state of agreement [*consensus*] or identity in variety; you can even say that it is the degree of contemplatibility [*considerabilitas*] (PE, 18 May 1715, p. 233–4).
+    step1: |-
+      > *完善*是事物的和谐，或一切都值得被观察的状态，即一致[*consensus*]或多中之一同的状态；你甚至可以说它是可思量度[*considerabilitas*]（PE, 1715 年 5 月 18 日，p. 233–4）。
+    step2: |-
+      > *完善*是事物的和谐，或一切都值得被观察的状态——即一致[*consensus*]或多中之一同的状态；你甚至可以说，它是可思量度[*considerabilitas*]（PE, 1715 年 5 月 18 日，p. 233–4）。
+  - id: 9
+    kind: body
+    source: |-
+      This indicates that there are in a sense two aspects of metaphysical perfection. First, metaphysical perfection is constituted by harmony, that is, unity in variety. A situation is harmonious to the extent that a variety of things are ordered in accordance with general laws or principles, such as laws of motion governing terrestrial and celestial objects (PE, “Principles of Nature and Grace, Based on Reason,” §11). Second, that which possesses a degree of metaphysical perfection in the sense of harmony can also be said to be worthy of observation to some extent. If there were nothing ordered in accordance with general laws, there would be nothing worthy of observation because everything would be submerged in chaos. Thus harmony makes something contemplatible, like a painting by the Italian Renaissance artist Raphael (PW, “Codex Iuris Gentium,” p. 171).
+    step1: |-
+      这表明：在某种意义上，形而上学完善有两个面向。第一，形而上学完善由和谐构成，即多中的一同。一种情形是和谐的，其程度在于：多样的事物依照一般法则或原理得到整理，如支配地面与天上物体的运动定律（PE, “Principles of Nature and Grace, Based on Reason,” §11）。第二，在和谐意义上拥有某种形而上学完善度的东西，也可以说在某种程度上值得观察。如果没有任何东西依照一般法则得到整理，就没有任何东西值得观察，因为一切都将沉没于混沌。因此和谐使某物可思量，如意大利文艺复兴艺术家拉斐尔的一幅画（PW, “Codex Iuris Gentium,” p. 171）。
+    step2: |-
+      这表明：形而上学完善在某种意义上有两个面向。第一，形而上学完善由和谐构成——即多中的一同。一种情形是和谐的，其程度在于：多样的事物依照一般法则或原理得到整理，如支配地面与天上物体的运动定律（PE, “Principles of Nature and Grace, Based on Reason,” §11）。第二，在和谐意义上拥有某种形而上学完善度的东西，也可说在某种程度上值得观察。若没有任何东西依照一般法则得到整理，便没有任何东西值得观察——一切都将沉没于混沌。因此和谐使某物可思量，如意大利文艺复兴艺术家拉斐尔的一幅画（PW, “Codex Iuris Gentium,” p. 171）。
+  - id: 10
+    kind: body
+    source: |-
+      Leibniz’s ethics is therefore perfectionist in two distinct but related senses. On the one hand, the metaphysical good consists in the reality of a thing, its degree of metaphysical perfection, which is identical to its harmony. This may be called *metaphysical perfectionism*. On the other hand, Leibniz maintains that moral goodness involves the development and perfection of a characteristic or set of characteristics fundamental to human nature. Such a characteristic in a cultivated state is called a virtue. This is *moral perfectionism*. For Leibniz, metaphysical perfection is a necessary condition for moral perfection in that intellectual apprehension of harmony gives rise to moral perfection.
+    step1: |-
+      因此，莱布尼茨的伦理学在两个不同但相关的意义上是完善论的。一方面，形而上学的善在于一个事物的实在——其形而上学完善度——后者等同于其和谐。这可称为*形而上学完善论*。另一方面，莱布尼茨主张：道德之善涉及对人本性之根本的一个特征或一组特征的发展与完善。这类特征在修养状态中称为德性。这是*道德完善论*。对莱布尼茨来说，形而上学完善是道德完善的必要条件：对和谐的理智把握产生道德完善。
+    step2: |-
+      因此，莱布尼茨的伦理学在两个不同但相关的意义上是完善论的。一方面，形而上学的善在于一个事物的实在——其形而上学完善度——后者等同于其和谐。这可称为*形而上学完善论*。另一方面，莱布尼茨主张：道德之善涉及对人本性之根本特征（或一组特征）的发展与完善。这类特征在修养状态中称为德性。这是*道德完善论*。对莱布尼茨而言，形而上学完善是道德完善的必要条件：对和谐的理智把握产生道德完善。
+  - id: 11
+    kind: body
+    source: |-
+      To see how he arrives at this position, it is necessary to return to the other two types of goodness: the moral good and the physical good. “Virtue,” according to Leibniz, “is the habit of acting according to wisdom” (PW, “Felicity,” §1, p. 83). Yet one virtue in particular reigns supreme and contains all the others, and that virtue is justice, which Leibniz defines as the “charity of the wise man” (PW, “Codex Iuris Gentium,” p. 171; cf. PW, p. 57 & p. 83). One whose love is guided by wisdom possesses the charity of the wise. Love is the pleasure one takes in the happiness and perfection of others (PW, “Felicity,” §5; NE, p. 163). God’s wisdom is infinite and His love is universal, extending to all beings capable of happiness. God’s universal benevolence, Leibniz suggests, is an ideal we ought to do our best to imitate and continuously aspire to (PW, “Meditation on the Common Concept of Justice”, pp. 57–8; cf. PE, “Principles of Nature and Grace, Based on Reason,” §14, pp. 211–12). The more one’s benevolence expands to encompass the happiness of more and more others, the more one grows in justice and virtue, thereby increasing in moral goodness (for further reading on Leibniz’s view of justice as the charity of the wise, see Riley 1996 (Chapter 4) and 2003).
+    step1: |-
+      要看他如何得出这一立场，有必要回到另外两类善：道德的善与物理的善。照莱布尼茨的说法，“德性是按智慧行动的习惯”（PW, “Felicity,” §1, p. 83）。但有一种德性卓居首位并包含其余一切，那便是正义——莱布尼茨把它定义为“智者的仁爱”（PW, “Codex Iuris Gentium,” p. 171；参见 PW, p. 57 & p. 83）。爱受智慧引导的人，拥有智者的仁爱。爱是人从他者的幸福与完善中取得的快乐（PW, “Felicity,” §5; NE, p. 163）。上帝的智慧无限，其爱普遍，延伸到一切有能力幸福的存在者。莱布尼茨提示：上帝的普遍仁爱是我们应当尽力仿效并不断向往的理想（PW, “Meditation on the Common Concept of Justice”, pp. 57–8；参见 PE, “Principles of Nature and Grace, Based on Reason,” §14, pp. 211–12）。一个人的仁爱越扩展、涵纳越多他者的幸福，他就在正义与德性中越成长，从而在道德之善中增长（关于莱布尼茨“正义即智者仁爱”观点的延伸阅读，见 Riley 1996（第四章）与 2003）。
+    step2: |-
+      要看他如何得出这一立场，须回到另外两类善：道德的善与物理的善。照莱布尼茨之说，“德性是按智慧行动的习惯”（PW, “Felicity,” §1, p. 83）。但有一种德性卓居首位、包含其余一切——那便是正义。莱布尼茨把它定义为“智者的仁爱”（PW, “Codex Iuris Gentium,” p. 171；参见 PW, p. 57 & p. 83）。爱受智慧引导者，拥有智者的仁爱。爱是人从他者的幸福与完善中取得的快乐（PW, “Felicity,” §5; NE, p. 163）。上帝的智慧无限，其爱普遍，延伸到一切有能力幸福的存在者。莱布尼茨提示：上帝的普遍仁爱是我们应当尽力仿效并不断向往的理想（PW, “Meditation on the Common Concept of Justice”, pp. 57–8；参见 PE, “Principles of Nature and Grace, Based on Reason,” §14, pp. 211–12）。一个人的仁爱越扩展、涵纳越多他者的幸福，他就在正义与德性中越成长，从而在道德之善中增长（莱布尼茨“正义即智者仁爱”观点的延伸阅读，见 Riley 1996（第四章）与 2003）。
+  - id: 12
+    kind: body
+    source: |-
+      The physical good thus bridges the moral good with the metaphysical good. It links virtue and harmony because, for Leibniz, pleasure is the perception or knowledge of perfection. Pain, on the other hand, is the perception or knowledge of imperfection (NE, p. 194; PW, “Felicity,” §4). A sensual pleasure, such as the pleasure of listening to music or that of viewing a painting, is a confused perception of perfection (i.e., a confused perception of harmony). In contrast, an intellectual pleasure, such as the pleasure of knowing the fundamental order of reality, is a distinct perception of perfection. Sensual pleasures in some cases approximate intellectual pleasures, but they inevitably fall short because they tend to be deceptive and transitory, whereas intellectual pleasures are pure and lasting, and true happiness, according to Leibniz, is simply a lasting state of pleasure (PW, “Felicity,” §3; NE, p. 194).
+    step1: |-
+      物理的善由此架起道德的善与形而上学的善之间的桥。它联结德性与和谐，因为照莱布尼茨的说法，快乐是对完善的知觉或认识。而痛苦是对不完善的知觉或认识（NE, p. 194; PW, “Felicity,” §4）。感官快乐——如听音乐或观画的快乐——是对完善的混乱知觉（即对和谐的混乱知觉）。相比之下，理智快乐——如认识实在之根本秩序的快乐——是对完善的分明知觉。感官快乐在某些情形中接近理智快乐，但必然有所不及：它们往往欺骗性且短暂，而理智快乐纯粹而持久；照莱布尼茨的说法，真正的幸福不过是快乐的持久状态（PW, “Felicity,” §3; NE, p. 194）。
+    step2: |-
+      物理的善由此在道德的善与形而上学的善之间架桥。它联结德性与和谐——因为照莱布尼茨之说，快乐是对完善的知觉或认识；而痛苦是对不完善的知觉或认识（NE, p. 194; PW, “Felicity,” §4）。感官快乐——如听音乐或观画之乐——是对完善的混乱知觉（即对和谐的混乱知觉）。相比之下，理智快乐——如认识实在之根本秩序的快乐——是对完善的分明知觉。感官快乐在某些情形中接近理智快乐，但必然有所不及：它们往往欺骗而短暂，理智快乐却纯粹而持久。照莱布尼茨之说，真正的幸福不过是快乐的持久状态（PW, “Felicity,” §3; NE, p. 194）。
+  - id: 13
+    kind: body
+    source: |-
+      Despite his identification of happiness with lasting pleasure, however, it is an oversimplification to characterize Leibniz’s theory of the good as nothing more than a form of hedonism. Given that pleasure is a confused or distinct apprehension of harmony, knowledge serves as the necessary means by which an individual cultivates the moral good, the charity of the wise. Knowledge of the perfection of others, of the perfection of the universe, and of God, the perfect being, is inherently pleasurable and concomitantly contributes to the proper order of one’s character by generating love in conformity with wisdom.
+    step1: |-
+      然而，尽管他把幸福等同于持久的快乐，把莱布尼茨的善理论刻画为不外乎一种快乐主义是过于简单化的。既然快乐是对和谐的混乱或分明把握，知识便是个人修养道德之善——智者的仁爱——的必要手段。对他者之完善、宇宙之完善以及完善存在者上帝的认识，本身就令人愉悦，同时通过产生符合智慧的爱而有助于品格的正确秩序。
+    step2: |-
+      然而，尽管他把幸福等同于持久的快乐，把莱布尼茨的善理论刻画为不外乎一种快乐主义，便过于简单化。既然快乐是对和谐的混乱或分明把握，知识便是个人修养道德之善——智者的仁爱——的必要手段。对他者之完善、宇宙之完善以及完善存在者上帝的认识，本身就令人愉悦，同时经由产生符合智慧的爱，有助于品格的正确秩序。
+  - id: 14
+    kind: body
+    source: |-
+      The harmony of the universe then is a precondition for virtue and happiness, but harmony alone is not sufficient. Knowledge is also necessary. If there were no minds, or if there were no minds capable of knowledge, the universe would be devoid of virtue and happiness. Thus knowledge unifies Leibniz’s composite theory of the good. He says,
+    step1: |-
+      于是，宇宙的和谐是德性与幸福的前提，但仅有和谐并不充分；知识也是必要的。如果没有心灵，或没有能够认识的心灵，宇宙便没有德性与幸福。因此，知识统一了莱布尼茨的复合善理论。他说：
+    step2: |-
+      于是，宇宙的和谐是德性与幸福的前提；但仅有和谐并不充分，知识也是必要的。如果没有心灵，或没有能认识的心灵，宇宙便没有德性与幸福。因此，知识统一了莱布尼茨的复合善理论。他说：
+  - id: 15
+    kind: body
+    source: |-
+      > §15. One must hold as certain that the more a mind desires to know order, reason, the beauty of things which God has produced, and the more he is moved to imitate this order in the things which God has left to his direction, the happier he will be.
+      >
+      > §16. It is most true, as a result, that one cannot know God without loving one’s brother, that one cannot have wisdom without having charity (which is the real touchstone of virtue), and that one even advances one’s own good in working for that of others…. (PW, “Felicity,” p. 84)
+    step1: |-
+      > §15. 必须视之为确定的：一个心灵越渴望认识秩序、理性、上帝所造事物的美，越受感动要在上帝交由其指导的事物中仿效这种秩序，他就越幸福。
+      >
+      > §16. 因此最真实的是：人不爱其兄弟便不能认识上帝；人没有仁爱便不能有智慧（仁爱是德性真正的试金石）；人甚至在他者的善而工作时推进自己的善……（PW, “Felicity,” p. 84）
+    step2: |-
+      > §15. 必须视之为确定的：一个心灵越渴望认识秩序、理性、上帝所造事物之美，越受感动要在上帝交由其指导的事物中仿效这种秩序，他就越幸福。
+      >
+      > §16. 因此最真实的是：人不爱其兄弟，便不能认识上帝；人没有仁爱，便不能有智慧（仁爱是德性真正的试金石）；人甚至在他者之善而工作时推进自己的善……（PW, “Felicity,” p. 84）
+  - id: 16
+    kind: body
+    source: |-
+      The intellectualist cast of Leibniz’s ethics stands out unmistakably in this passage. Knowledge of the order, rationality, and beauty of creation is necessary for happiness. So too is actively imitating that order. Together, they are sufficient. Without knowledge, action and the effort to promote the perfection of others do not necessarily meet with success and may even backfire, leading to greater physical evil. Without actively promoting rational order, knowledge alone does not lead to happiness. Leibniz’s ethics no doubt has an intellectualist character, but mere passive contemplation of the rational order of the universe is not the ideal of moral goodness. Instead, moral goodness combines knowledge of the rational order with the active promotion of rational order as far as possible (for a discussion of Leibniz’s view of the role of divine grace in the attainment of salvation, see Rutherford 2014)[^rutherford-2014].
+    step1: |-
+      莱布尼茨伦理学的理智主义色彩在这段话中清晰可见。对创造的秩序、理性与美的认识，是幸福所必需的；主动仿效那种秩序也同样必需。二者合起来便是充分的。没有知识，促进他者之完善的行动与努力不一定成功，甚至可能事与愿违，导致更大的物理恶。没有对理性秩序的主动促进，仅有知识也不导向幸福。莱布尼茨的伦理学无疑有理智主义的品格，但单纯被动地沉思宇宙的理性秩序并不是道德之善的理想。毋宁说，道德之善把对理性秩序的认识与尽可能主动促进理性秩序结合起来（关于莱布尼茨对神圣恩典在达致救赎中之角色的讨论，见 Rutherford 2014）[^rutherford-2014]。
+    step2: |-
+      莱布尼茨伦理学的理智主义色彩，在这段话中清晰可见。对创造的秩序、理性与美的认识，是幸福所必需的；主动仿效那种秩序也同样必需；二者合起来便是充分的。没有知识，促进他者之完善的行动与努力不一定成功，甚至可能事与愿违、导致更大的物理恶。没有对理性秩序的主动促进，仅有知识也不导向幸福。莱布尼茨的伦理学无疑有理智主义品格，但单纯被动地沉思宇宙的理性秩序，并不是道德之善的理想。毋宁说，道德之善把对理性秩序的认识，与尽可能主动促进理性秩序结合起来（莱布尼茨关于神圣恩典在达致救赎中之角色的讨论，见 Rutherford 2014）[^rutherford-2014]。
+  - id: 17
+    kind: body
+    source: |-
+      ## 2. Natural Law Theory
+    step1: |-
+      ## 2 自然法理论
+    step2: |-
+      ## 2 自然法理论
+  - id: 18
+    kind: body
+    source: |-
+      So far we have seen that, for Leibniz, the human good consists in the lasting state of pleasure that accompanies moral perfection. Moral perfection, in turn, is cultivated through the perpetual pursuit and acquisition of knowledge of the perfection of others, the universe, and God. Although all knowledge contributes to moral perfection and is therefore practical in a broad sense of the term, ethics nevertheless is a distinct branch of science, capable of the same level of demonstrative rigor as arithmetic and geometry (NE, Preface, p. 50; PW, “Meditation on the Common Concept of Justice,” pp. 49–50). Leibniz shares this view of ethics with other important seventeenth-century thinkers, such as Hobbes (1588–1679), Spinoza (1632–1677), and Locke (1632–1704). And although Leibniz never wrote a comprehensive ethical treatise in the geometrical style, it is clear from what he left us that, in addition to a naturalistic-metaphysical theory of the good, ethical science also includes a science of natural law.
+    step1: |-
+      迄今我们已看到，照莱布尼茨的说法，人的善在于伴随道德完善的持久快乐状态。道德完善又经由对他人之完善、宇宙与上帝之完善的认识的持续追求与获得而得到修养。尽管一切知识都有助于道德完善、因而在该词的宽泛意义上是实践的，伦理学仍然是科学的一个独特分支，能够达到与算术、几何同样的论证严格性（NE, Preface, p. 50; PW, “Meditation on the Common Concept of Justice,” pp. 49–50）。莱布尼茨与其他重要的十七世纪思想家——如霍布斯（1588–1679）、斯宾诺莎（1632–1677）与洛克（1632–1704）——分享这一伦理学观。虽然莱布尼茨从未以几何风格写出一部全面的伦理学专著，但从他留下的东西可以清楚看到：除了自然主义-形而上学的善理论，伦理科学还包括一门自然法的科学。
+    step2: |-
+      迄今我们已看到：照莱布尼茨之说，人的善在于伴随道德完善的持久快乐状态。道德完善又经由对他人、宇宙与上帝之完善的持续追求与获得而得到修养。尽管一切知识都有助于道德完善、因而在宽泛意义上是实践的，伦理学仍是科学的独特分支，能达到与算术、几何同级的论证严格性（NE, Preface, p. 50; PW, “Meditation on the Common Concept of Justice,” pp. 49–50）。莱布尼茨与其他重要的十七世纪思想家——霍布斯（1588–1679）、斯宾诺莎（1632–1677）、洛克（1632–1704）——分享这一伦理学观。虽然莱布尼茨从未以几何风格写出全面的伦理学专著，但从他留下的东西可以清楚看到：除了自然主义-形而上学的善理论，伦理科学还包括一门自然法的科学。
+  - id: 19
+    kind: body
+    source: |-
+      As a natural law theorist, Leibniz holds that compliance with the set of universal ethical principles that make up the natural law is necessary and sufficient to achieve the good. Also, like the eminent modern natural lawyer Hugo Grotius (1583–1645), whom Leibniz greatly admired—referring to him as the “incomparable Grotius” (PW, “Opinion on the Principles of Pufendorf,” p. 65; T §6, p. 77), he believes that the natural law and the obligation to comply with it are independent of God’s will. It is not possible, in other words, for God to have legislated a different set of moral absolutes than those that obtain; nor do the moral absolutes derive their obligatory authority from having been legislated by God. According to Leibniz,
+    step1: |-
+      作为自然法理论家，莱布尼茨主张：遵循构成自然法的普遍伦理原则之集合，对达至善既是必要的也是充分的。而且，与他极为敬佩的杰出近代自然法学家雨果·格劳秀斯（1583–1645）一样——他称后者为“无与伦比的格劳秀斯”（PW, “Opinion on the Principles of Pufendorf,” p. 65; T §6, p. 77）——他相信自然法与遵循自然法的义务独立于上帝的意志。换言之，上帝不可能立法出一套不同于实际通行的道德绝对律；道德绝对律的约束权威也不是来自上帝的立法。照莱布尼茨的说法：
+    step2: |-
+      作为自然法理论家，莱布尼茨主张：遵循构成自然法的普遍伦理原则之集合，对达至善既必要又充分。而且，与他极为敬佩的杰出近代自然法学家雨果·格劳秀斯（1583–1645）一样——他称后者为“无与伦比的格劳秀斯”（PW, “Opinion on the Principles of Pufendorf,” p. 65; T §6, p. 77）——他相信：自然法与遵循自然法的义务，独立于上帝的意志。换言之，上帝不可能立法出一套不同于实际通行的道德绝对律；道德绝对律的约束权威，也并非来自上帝的立法。照莱布尼茨之说：
+  - id: 20
+    kind: body
+    source: |-
+      > Neither the norm of conduct itself, nor the essence of the just, depends on his [God’s] free decision, but rather on eternal truths, objects of the divine intellect, which constitute, so to speak, the essence of divinity itself. . . . And, indeed, justice follows certain rules of equality and of proportion [which are] no less founded in the immutable nature of things, and in the divine ideas, than are the principles of arithmetic and of geometry (PW, “Opinion on the Principles of Pufendorf,” p. 71).
+    step1: |-
+      > 行为规范本身、正义的本质，都不依赖他[上帝]的自由决定，而是依赖永恒真理——神圣理智的对象；可以说，它们构成神性自身的本质……而且，正义遵循某些平等与比例的规则，这些规则奠基于不变的事物本性之中、神圣观念之中，不亚于算术与几何的原理（PW, “Opinion on the Principles of Pufendorf,” p. 71）。
+    step2: |-
+      > 行为规范本身、正义的本质，都不依赖他[上帝]的自由决定，而依赖永恒真理——神圣理智的对象；可以说，它们构成神性自身的本质……而且，正义遵循某些平等与比例的规则；这些规则奠基于不变的事物本性之中、神圣观念之中，不亚于算术与几何的原理（PW, “Opinion on the Principles of Pufendorf,” p. 71）。
+  - id: 21
+    kind: body
+    source: |-
+      The concept of justice in Leibniz’s view is fixed independent of God’s choice, and so God has no more power to alter the nature of justice than He does to alter the nature of circularity.
+    step1: |-
+      照莱布尼茨的看法，正义的概念独立于上帝的选择而被固定；因此上帝没有更多的能力去改变正义的本性，如同他没有能力去改变圆的本性。
+    step2: |-
+      照莱布尼茨的看法，正义的概念独立于上帝的选择而被固定；因此，上帝改变正义本性的能力，并不比改变圆之本性的能力更大。
+  - id: 22
+    kind: body
+    source: |-
+      The idea that justice and moral obligation do not depend on a free decree of God is a significant doctrine in Leibniz’s philosophy. In the seventeenth and eighteenth centuries, a focal point of debate in moral philosophy centered on a version of the *Euthyphro* problem—between those who sided with Grotius and Leibniz in holding that moral goodness and obligation do not depend on God’s will and those who held the opposite view, that moral goodness and obligation are as they are as a result of God’s free choice. Two of the most important seventeenth-century proponents of the latter, voluntarist position are Thomas Hobbes and Samuel Pufendorf (1632–1694). Leibniz’s objections to voluntarism became widely known in the early eighteenth century when a letter he wrote attacking voluntarism was appended to a new edition of Pufendorf’s *The Duty of Man and Citizen* (1718). This anti-voluntarist tract, “Opinion on the Principles of Pufendorf” (written in 1706), contains one of his fullest discussions of justice. A full treatment of Leibniz’s anti-voluntarism would take us too far afield, but a central criticism is that, in regarding moral goodness and obligation as dependent on God’s free choice, voluntarism undermines the basis for our love of God (PW, “Opinion on the Principles of Pufendorf,” p. 71–2). If, as the voluntarist holds, moral goodness is an artifact of God, it is not an essential attribute of the divine nature. God therefore cannot be loved for His goodness. Voluntarism thus subverts morality and religion because love of God is essential to both (for more in depth discussions of Leibniz’s anti-voluntarism, see Schneewind 1998 (250–259) and Haakonssen 1996 (46–9)).
+    step1: |-
+      正义与道德义务不依赖上帝自由法令这一观念，是莱布尼茨哲学中一个重要学说。在十七与十八世纪，道德哲学辩论的一个焦点集中于*游叙弗伦*问题的一个版本——一方站在格劳秀斯与莱布尼茨一边，主张道德之善与义务不依赖上帝的意志；另一方持相反观点：道德之善与义务之如此，是上帝自由选择的结果。后者——唯意志论立场——在十七世纪最重要的两位倡导者是托马斯·霍布斯与塞缪尔·普芬道夫（1632–1694）。莱布尼茨对唯意志论的反驳在十八世纪初广为人知：他写的一封攻击唯意志论的信被附于普芬道夫《人与公民的义务》（1718）新版之后。这篇反唯意志论短文《论普芬道夫原理的意见》（作于 1706）包含他关于正义的最充分讨论之一。全面处理莱布尼茨的反唯意志论会使我们离题太远，但一个核心批评是：唯意志论把道德之善与义务看作依赖上帝的自由选择，从而破坏了我们爱上帝的根据（PW, “Opinion on the Principles of Pufendorf,” p. 71–2）。如果照唯意志论者的主张，道德之善是上帝的制品，它就不是神圣本性的本质属性；因此上帝不能因其善而被爱。唯意志论由此颠覆道德与宗教，因为爱上帝对二者都是本质的（莱布尼茨反唯意志论的更深入讨论，见 Schneewind 1998 (250–259) 与 Haakonssen 1996 (46–9)）。
+    step2: |-
+      正义与道德义务不依赖上帝的自由法令——这一观念是莱布尼茨哲学中的重要学说。在十七与十八世纪，道德哲学辩论的一个焦点集中于*游叙弗伦*问题的一个版本：一方站在格劳秀斯与莱布尼茨一边，主张道德之善与义务不依赖上帝的意志；另一方持相反观点——道德之善与义务之如此，是上帝自由选择的结果。后者即唯意志论立场，其在十七世纪最重要的两位倡导者是托马斯·霍布斯与塞缪尔·普芬道夫（1632–1694）。莱布尼茨对唯意志论的反驳在十八世纪初广为人知：他写的一封攻击唯意志论的信，被附于普芬道夫《人与公民的义务》（1718）新版之后。这篇反唯意志论短文《论普芬道夫原理的意见》（作于 1706），包含他关于正义的最充分讨论之一。全面处理莱布尼茨的反唯意志论会使我们离题太远；但其核心批评是：唯意志论把道德之善与义务看作依赖上帝的自由选择，从而破坏了我们爱上帝的根据（PW, “Opinion on the Principles of Pufendorf,” p. 71–2）。若照唯意志论者的主张，道德之善是上帝的制品，它便不是神圣本性的本质属性；因此上帝不能因其善而被爱。唯意志论由此颠覆道德与宗教——因为爱上帝对二者都是本质的（莱布尼茨反唯意志论的更深入讨论，见 Schneewind 1998 (250–259) 与 Haakonssen 1996 (46–9)）。
+  - id: 23
+    kind: body
+    source: |-
+      Following a current in the natural law tradition, Leibniz supplements his account of justice as the charity of the wise with three principles handed down from Roman law via Justinian’s *Institutes* (533 AD). The three principles are “to hurt no one” (*neminem laedere)*, “to give each his due” (*suum cuique tribuere)*, and “to live honorably” (*honeste vivere)* or, as Leibniz glosses it, to live piously. Leibniz suggests that these principles underwrite three distinct degrees of justice (PW, “Codex Iuris Gentium,” pp. 171–2). The lowest degree is “strict right” (*ius strictum*), which has as its precept that “no one is to be injured, so that he will not be given a motive for a legal action within the state, nor outside the state a right of war” (PW, “Codex Iuris Gentium,” p. 172). Strict right primarily includes a bare minimum set of negative duties, such as the duties not to harm, not to murder, and not to commit theft. The function of this degree of justice is the “conservation of peace.” The second degree Leibniz calls “equity” or “charity” in the narrow sense of the term, which has its basis in the principle “to give each his due.” This grade of justice includes, for example, duties of gratitude and of charitable donation, things we owe to others but which failure to fulfill is not sanctioned by law. Whereas strict right functions merely to avoid misery by fostering peace, the duties of equity actively promote the happiness of others as far as possible within this life.
+    step1: |-
+      循自然法传统中的一条支流，莱布尼茨以三条经查士丁尼《法学总论》（公元 533 年）传自罗马法的原则，补充其“正义即智者仁爱”的说明。这三条原则是“勿伤任何人”（*neminem laedere*）、“给各人以其应得”（*suum cuique tribuere*）与“正直地生活”（*honeste vivere*）——或如莱布尼茨所释，虔敬地生活。莱布尼茨提示，这三条原则支撑正义的三个不同层级（PW, “Codex Iuris Gentium,” pp. 171–2）。最低层级是“严格权利”（*ius strictum*），其诫命是“不得伤害任何人，以免他在邦国内得到提起法律行动的动机，或在邦国外得到战争的权利”（PW, “Codex Iuris Gentium,” p. 172）。严格权利主要包括最低限度的消极义务，如不伤害、不谋杀、不偷窃的义务。这一层级正义的功能是“维持和平”。第二层级莱布尼茨称为“公平”或狭义的“仁爱”，其基础是“给各人以其应得”原则。这一层级的正义包括例如感恩与慈善捐赠的义务——我们欠他人的东西，但不履行也不受法律制裁。严格权利的功能仅是靠促进和平来避免悲惨；公平的义务则在此生内尽可能积极地促进他人的幸福。
+    step2: |-
+      循自然法传统中的一条支流，莱布尼茨以三条经查士丁尼《法学总论》（公元 533 年）传自罗马法的原则，补充其“正义即智者仁爱”的说明。三条原则是“勿伤任何人”（*neminem laedere*）、“给各人以其应得”（*suum cuique tribuere*）与“正直地生活”（*honeste vivere*）——或如莱布尼茨所释，虔敬地生活。莱布尼茨提示：这三条原则支撑正义的三个不同层级（PW, “Codex Iuris Gentium,” pp. 171–2）。最低层级是“严格权利”（*ius strictum*），其诫命是“不得伤害任何人，以免他在邦国内得到提起法律行动的动机，或在邦国外得到战争的权利”（PW, “Codex Iuris Gentium,” p. 172）。严格权利主要包括最低限度的消极义务——如不伤害、不谋杀、不偷窃。这一层级正义的功能是“维持和平”。第二层级，莱布尼茨称为“公平”或狭义的“仁爱”，其基础是“给各人以其应得”原则。这一层级包括例如感恩与慈善捐赠的义务——我们欠他人之物，不履行也不受法律制裁。严格权利的功能仅是靠促进和平避免悲惨；公平的义务则在此生内尽可能积极地促进他人的幸福。
+  - id: 24
+    kind: body
+    source: |-
+      Strict right and equity, he explains, correspond to Grotius’ distinction between perfect and imperfect rights (PW, “Codex Iuris Gentium,” p. 172). Unlike Grotius, however, Leibniz views this distinction as one of degree rather than as one of kind. Also, equity, the second grade of justice, comprehends strict right within its scope, and strict right and equity are comprehended under the third and highest grade of justice, namely, piety.
+    step1: |-
+      他解释说，严格权利与公平对应于格劳秀斯对完全权利与不完全权利的区分（PW, “Codex Iuris Gentium,” p. 172）。然而与格劳秀斯不同，莱布尼茨把这一区分看作程度之分而非种类之分。而且，第二层级的正义——公平——把严格权利涵纳于其范围之内；而严格权利与公平又被涵纳于第三层、最高层的正义——虔敬——之下。
+    step2: |-
+      他解释说：严格权利与公平，对应于格劳秀斯对完全权利与不完全权利的区分（PW, “Codex Iuris Gentium,” p. 172）。然而与格劳秀斯不同，莱布尼茨把这一区分看作程度之分，而非种类之分。而且，第二层级的正义——公平——把严格权利涵纳于其范围；严格权利与公平又被涵纳于第三层、最高层的正义——虔敬——之下。
+  - id: 25
+    kind: body
+    source: |-
+      The principle of piety is “to live honorably.” An important difference between strict right and equity, on the one hand, and piety, on the other, is that the former pertain to our pursuit of goods and avoidance of evils over the course of our natural lives while the latter pertains to our pursuit of goods and avoidance of evils throughout our entire lives, that is, over the whole course of our immortal existence. The third grade of justice thus relies on two central tenets of Leibniz’s metaphysics, for which he believes there are demonstrative proofs; indeed, he believes he provides such proofs (PE, “Principles of Nature and Grace, Based on Reason,” §4, §8; PE, “Monadology,” §4, §38). The tenets on which this account relies are (1) that the soul is immortal and (2) that God is the ruler of the universe. Most relevant to our purpose are not the arguments he supplies in support of these but, rather, the work that the theses do in his account of piety.
+    step1: |-
+      虔敬的原则是“正直地生活”。严格权利与公平——一方——同虔敬——另一方——之间的一个重要区别是：前者关乎我们在自然生命历程中对善的追求与对恶的回避，后者关乎我们在整个生命——即整个不朽存在——中对善的追求与对恶的回避。因此第三层级的正义依赖莱布尼茨形而上学的两个核心信条；他相信它们有证明，实际上他认为自己提供了这样的证明（PE, “Principles of Nature and Grace, Based on Reason,” §4, §8; PE, “Monadology,” §4, §38）。这一说明所依赖的信条是：（1）灵魂不朽；（2）上帝是宇宙的统治者。与我们的目的最相关的，不是他为这些信条提供的论证，而是这些论题在他的虔敬说明中所起的作用。
+    step2: |-
+      虔敬的原则是“正直地生活”。严格权利与公平——一方——同虔敬——另一方——之间有一个重要区别：前者关乎我们在自然生命历程中对善的追求与对恶的回避；后者关乎我们在整个生命——即整个不朽存在——中的同样追求与回避。因此第三层级的正义依赖莱布尼茨形而上学的两个核心信条；他相信它们有证明，实际上他认为自己已提供这样的证明（PE, “Principles of Nature and Grace, Based on Reason,” §4, §8; PE, “Monadology,” §4, §38）。这一说明所依赖的信条是：（1）灵魂不朽；（2）上帝是宇宙的统治者。与我们的目的最相关的，不是他为这些信条提供的论证，而是这些论题在其虔敬说明中所起的作用。
+  - id: 26
+    kind: body
+    source: |-
+      A person is pious in Leibniz’s sense of the term in virtue of being perfectly just, which means that the pious person loves others in conformity with wisdom. But it is extremely difficult to fully realize this ideal love so long as one’s outlook is restricted to the goods and evils that may be encountered in one’s natural life. If one’s outlook is limited to this life, one may come to fulfill the first and second grades of justice without too much difficulty, but rarely does anyone achieve the highest level of justice without consideration of the soul’s immortality and God’s governance (PW, “Codex Iuris Gentium,” p. 173; PW, “Meditation on the Common Concept of Justice,” p. 58). This is because, even though the virtuous person’s “interior harmony” is intrinsically pleasing, most are unable to appreciate virtue due to the fact that, from the perspective of mortality, virtuous actions often go unrewarded while vicious ones go unpunished. Thus most people will not bear tremendous hardships for the sake of virtue. Only the most exceptional individuals are willing to be virtuous and do the right thing at any mortal cost. And this very willingness, this “spiritual disposition” as Leibniz calls it, constitutes piety (PW, “Meditation on the Common Concept of Justice,” p. 58).
+    step1: |-
+      一个人在莱布尼茨的意义上是虔敬的，凭其完全正义：这意味着虔敬的人以符合智慧的方式爱他人。但只要一个人的视野局限于其自然生命中可能遭遇的善与恶，充分实现这一理想之爱就极为困难。如果视野局限于今生，人也许能不太困难地履行第一与第二层级的正义；但若不考虑灵魂不朽与上帝的治理，极少有人达到最高层级的正义（PW, “Codex Iuris Gentium,” p. 173; PW, “Meditation on the Common Concept of Justice,” p. 58）。这是因为，尽管德性之人的“内在和谐”本身令人愉悦，多数人无法赏识德性：从有死的视角看，德性行动常不得回报，恶行常不受惩罚。因此多数人不肯为德性承受巨大的艰辛。唯有最特出的人才愿意为德性行正事而不计任何尘世代价。而这一意愿本身——莱布尼茨称之为“精神气质”——构成虔敬（PW, “Meditation on the Common Concept of Justice,” p. 58）。
+    step2: |-
+      一个人在莱布尼茨的意义上是虔敬的，凭其完全正义：这意味着虔敬者以符合智慧的方式爱他人。但只要一个人的视野局限于其自然生命中的善恶，充分实现这一理想之爱便极为困难。若视野局限于今生，人也许能不太困难地履行第一与第二层级的正义；但若不考虑灵魂不朽与上帝的治理，极少有人达到最高层级的正义（PW, “Codex Iuris Gentium,” p. 173; PW, “Meditation on the Common Concept of Justice,” p. 58）。原因在于：尽管德性之人的“内在和谐”本身令人愉悦，多数人无法赏识德性——从有死的视角看，德性行动常不得回报，恶行常不受惩罚。因此多数人不肯为德性承受巨大艰辛。唯有最特出者，愿意为德性行正事而不计任何尘世代价。而这一意愿本身——莱布尼茨称之为“精神气质”——构成虔敬（PW, “Meditation on the Common Concept of Justice,” p. 58）。
+  - id: 27
+    kind: body
+    source: |-
+      In the opening chapter of his dialogue between himself, represented by *Theophilus*, and a spokesperson for Locke, named *Philalethes*, Leibniz makes the following autobiographical remark:
+    step1: |-
+      在他本人的对话——由*泰奥菲勒斯*代表——与洛克代言人*菲拉莱特斯*的开篇一章中，莱布尼茨作了如下自传性评论：
+    step2: |-
+      在他本人的对话——由*泰奥菲勒斯*代表——与洛克代言人*菲拉莱特斯*的开篇一章中，莱布尼茨作了如下自传性评论：
+  - id: 28
+    kind: body
+    source: |-
+      > You [Philalethes] had more to do with the speculative philosophers, while I was more inclined towards moral questions. *But I have been learning, more and more, how greatly morality can be strengthened by the solid principles of true philosophy*; which is why I have lately been studying them more intensively, and have started on some quite new trains of thought (NE, p. 71, emphasis added).
+    step1: |-
+      > 你[菲拉莱特斯]更多与思辨哲学家打交道，而我更倾向于道德问题。*但我一直在越来越多地体会到，真正的哲学之坚实原则能把道德强化到何等程度*；这就是为什么我近来更 intense 地研究它们，并开始了一些全新的思路（NE, p. 71，强调为引者所加）。
+    step2: |-
+      > 你[菲拉莱特斯]更多与思辨哲学家打交道，而我更倾向于道德问题。*但我一直在越来越多地体会到：真正的哲学之坚实原则，能把道德强化到何等程度*；这就是为什么我近来更加 intense 地研究它们，并开始了一些全新的思路（NE, p. 71，强调为引者所加）。
+  - id: 29
+    kind: body
+    source: |-
+      We are now in a position to see how specifically the solid principles of philosophy strengthen morality. True philosophy (i.e., sound metaphysics) aids morality by providing grounds for assurance that in the end happiness is directly proportioned to merit. The more virtuous one is, the greater the happiness one can expect because one’s well-being does not completely depend on the goods of this life and because it is incompatible with God’s universal benevolence and infinite wisdom that even a single virtuous deed should go unrewarded and a vicious one unpunished. “After this,” Leibniz concludes, “it must be imprudent not to be just, because no one will fail to derive good or evil from what he will have done, according as it is just or unjust” (PW, “Meditation on the Common Concept of Justice,” pp. 58–9). Even though exceptional individuals may be able to remain virtuous at any apparent mortal cost, it follows from Leibniz’s metaphysics that there is in fact no mortal price to pay for being virtuous. On the contrary, virtue is necessary and sufficient for true happiness (for further reading on Leibniz’s natural law theory, see Brown 1995 and 2011a)[^brown-1995][^brown-2011a].
+    step1: |-
+      我们现在能够看到：哲学的坚实原则究竟如何具体地强化道德。真正的哲学（即健全的形而上学）援助道德的方式，是为如下确信提供根据：幸福最终与功绩直接成比例。一个人越有德性，就能期待越大的幸福，因为其福祉并不完全依赖此生的善物，而且连一个德性行动不受回报、一个恶行不受惩罚，都与上帝的普遍仁爱与无限智慧不相容。“在此之后”，莱布尼茨总结道，“不正义必定是轻率的，因为没有人不会从其所作所为中、按其为正义或不正义而得到善或恶”（PW, “Meditation on the Common Concept of Justice,” pp. 58–9）。尽管特出的个体也许能在任何表面上的尘世代价下保持德性，从莱布尼茨的形而上学可以推出：为德性实际上没有尘世代价要付。相反，德性对真正的幸福既是必要的也是充分的（莱布尼茨自然法理论的延伸阅读，见 Brown 1995 与 2011a）[^brown-1995][^brown-2011a]。
+    step2: |-
+      我们现在能够看到：哲学的坚实原则究竟如何具体地强化道德。真正的哲学（即健全的形而上学）援助道德的方式，是为如下确信提供根据：幸福最终与功绩直接成比例。一个人越有德性，就能期待越大的幸福——因为其福祉并不完全依赖此生的善物，而且连一个德性行动不受回报、一个恶行不受惩罚，都与上帝的普遍仁爱与无限智慧不相容。“在此之后”，莱布尼茨总结道，“不正义必定是轻率的：没有人不会从其所作所为中、按其为正义或不正义而得到善或恶”（PW, “Meditation on the Common Concept of Justice,” pp. 58–9）。尽管特出的个体也许能在任何表面上的尘世代价下保持德性，从莱布尼茨的形而上学可以推出：为德性，实际上没有尘世代价要付。相反，德性对真正的幸福既必要又充分（莱布尼茨自然法理论的延伸阅读，见 Brown 1995 与 2011a）[^brown-1995][^brown-2011a]。
+  - id: 30
+    kind: body
+    source: |-
+      ## 3. Moral Psychology
+    step1: |-
+      ## 3 道德心理学
+    step2: |-
+      ## 3 道德心理学
+  - id: 31
+    kind: body
+    source: |-
+      Leibniz believes that enlightened self-interest is in complete agreement with the requirements of virtue. The cornerstone of this harmony between interest and morality is metaphysics, his doctrines concerning the soul’s immortality and God’s governance. Still, the virtuous person does not regard right action and the well-being of others as a means to his or her own happiness. According to Leibniz,
+    step1: |-
+      莱布尼茨相信，开明的自利与德性的要求完全一致。利益与道德之间这种和谐的基石是形而上学——他关于灵魂不朽与上帝治理的学说。不过，有德性的人并不把正当行动与他人福祉看作自己幸福的手段。照莱布尼茨的说法：
+    step2: |-
+      莱布尼茨相信：开明的自利与德性的要求完全一致。利益与道德之间这种和谐的基石，是形而上学——他关于灵魂不朽与上帝治理的学说。不过，有德性的人并不把正当行动与他人福祉，看作自己幸福的手段。照莱布尼茨之说：
+  - id: 32
+    kind: body
+    source: |-
+      > Thus he who acts well, not out of hope or fear, but by an inclination of his soul, is so far from not behaving justly that, on the contrary, he acts more justly than all others, imitating, in a certain way, as a man, divine justice. Whoever, indeed, does good out of love for God or of his neighbor, takes pleasure precisely in the action itself (such being the nature of love) and does not need any other incitement, or the command of a superior; for that man the saying that the law is not made for the just is valid (PW, “Opinion on the Principles of Pufendorf,” p. 72).
+    step1: |-
+      > 因此，行动良善的人——不是出于希望或恐惧，而是出于灵魂的倾向——非但没有不正义地行动，反而比一切其他人更正义，作为人以某种方式仿效神圣正义。确实，凡出于对上帝或邻人的爱而行善的人，恰恰在行动本身中取得快乐（爱之本性如此），不需要任何别的激励，也不需要上级的命令；对那个人来说，“法律不是为正义之人立的”这句话是有效的（PW, “Opinion on the Principles of Pufendorf,” p. 72）。
+    step2: |-
+      > 因此，行动良善的人——不出于希望或恐惧，而出自灵魂的倾向——非但没有不正义地行动，反而比一切其他人更正义：作为人，以某种方式仿效神圣正义。确实，凡出于对上帝或邻人之爱而行善者，恰恰在行动本身中取得快乐（爱之本性如此），不需要任何别的激励，也不需要上级的命令；对那个人来说，“法律不是为正义之人立的”一语有效（PW, “Opinion on the Principles of Pufendorf,” p. 72）。
+  - id: 33
+    kind: body
+    source: |-
+      Not self-love but love of others motivates the virtuous person, or what Leibniz calls “disinterested love” (PW, “Codex Iuris Gentium,” p. 171). Metaphysics thus strengthens morality without overhauling it. In revealing that virtue alone ultimately satisfies self-interest, true philosophy guides us steadfastly along the path to virtue. Yet the truly virtuous person performs a morally right action for its own sake.
+    step1: |-
+      激励有德之人的不是自爱而是对他人的爱，即莱布尼茨所谓的“无私的爱”（PW, “Codex Iuris Gentium,” p. 171）。形而上学由此强化道德而不改造道德。真正的哲学通过揭示唯有德性最终满足自利，坚定地引导我们走上德性之路。然而真正有德性的人为行动自身而做道德上正当的行动。
+    step2: |-
+      激励有德之人的，不是自爱而是对他人的爱——即莱布尼茨所谓的“无私的爱”（PW, “Codex Iuris Gentium,” p. 171）。形而上学由此强化道德而不改造道德。真正的哲学通过揭示“唯有德性最终满足自利”，坚定地引导我们走上德性之路；然而真正有德性的人，为行动自身而做道德上正当的行动。
+  - id: 34
+    kind: body
+    source: |-
+      Disinterested love is not completely selfless however. Nor can it consistently be on Leibniz’s view since he subscribes to a version of psychological egoism; “for we do all for our own good,” he maintains, “and it is impossible for us to have other feelings whatever we may say” (W, “Letter to Nicaise,” p. 565). In his account of disinterested love, Leibniz in fact seeks to reconcile egoism and altruism, and, in doing so, anticipates Bishop Butler’s (1692–1752) landmark attack against psychological egoism (BM1, *Fifteen Sermons* (1726), pp. 364–373).
+    step1: |-
+      然而无私的爱并非完全无我。照莱布尼茨的看法它也不可能始终如此，因为他接受一种版本的心理学利己主义：“因为我们所做的一切都是为了自己的善”，他主张，“无论我们说什么，我们不可能有别的感受”（W, “Letter to Nicaise,” p. 565）。在其无私爱的说明中，莱布尼茨实际上寻求调和利己主义与利他主义；这样做时，他预示了巴特勒主教（1692–1752）对心理学利己主义的里程碑式攻击（BM1, *Fifteen Sermons* (1726), pp. 364–373）。
+    step2: |-
+      然而无私的爱并非完全无我。照莱布尼茨的看法，它也不可能始终如此——因为他接受一种版本的心理学利己主义：“我们所做的一切都是为了自己的善”，他主张，“无论我们说什么，我们不可能有别的感受”（W, “Letter to Nicaise,” p. 565）。在其无私爱的说明中，莱布尼茨实际上寻求调和利己主义与利他主义；这样做时，他预示了巴特勒主教（1692–1752）对心理学利己主义的里程碑式攻击（BM1, *Fifteen Sermons* (1726), pp. 364–373）。
+  - id: 35
+    kind: body
+    source: |-
+      The key to Leibniz’s reconciliation is a distinction between the pleasure involved in the satisfaction of a desire and the object of a desire. Desires spur all human actions. Some desires emerge distinctly in conscious awareness while many do not, or do so only confusedly. The former he calls *volitions* and the latter *appetitions* (NE, p. 173). Satisfaction of any desire gives its subject at least a minimal degree of pleasure, however fleeting. An unfulfilled volition causes at a minimum enough suffering for one to be aware of it, but an unfulfilled appetition, by contrast, gives rise to “semi-suffering,” or what he calls, following Locke, “uneasiness” (NE, p. 188–9). Such semi-suffering, Leibniz explains, “does not amount to discomfort, but is restricted to the elements or rudiments of suffering, which we cannot be aware of in themselves but which suffice to act as spurs and to stimulate the will” (NE, p. 189). No finite being is ever totally free of semi-sufferings and, to a lesser degree, semi-pleasures. Even where we appear to ourselves to be completely indifferent about our options, unconscious desires move us toward one course of action rather than another (NE, p. 188).
+    step1: |-
+      莱布尼茨调和的关键，是欲望之满足所涉及的快乐与欲望的对象之间的区分。欲望推动一切人类行动。一些欲望分明地浮现于意识之中，而许多不然，或只是混乱地浮现。前者他称为*意志*，后者*欲求*（NE, p. 173）。任何欲望的满足都给其主体至少最低限度的快乐，无论多么短暂。一个未实现的意志至少造成足以让人察觉的痛苦；相比之下，一个未实现的欲求引起“半痛苦”，或如他随洛克所称的“不安”（NE, p. 188–9）。这种半痛苦，莱布尼茨解释说，“够不上不适，只限于痛苦的要素或雏形——我们无法就其本身察觉它们，但它们足以起刺激作用、激发意志”（NE, p. 189）。没有哪个有限存在者能完全摆脱半痛苦以及程度较轻的半快乐。即便在我们对自己显得对选项全然漠心的地方，无意识的欲望也推动我们走向这一行动路线而非另一条（NE, p. 188）。
+    step2: |-
+      莱布尼茨调和的关键，是欲望之满足所涉及的快乐与欲望之对象之间的区分。欲望推动一切人类行动。一些欲望分明地浮现于意识，许多则不然，或只是混乱地浮现。前者他称为*意志*，后者*欲求*（NE, p. 173）。任何欲望的满足都给其主体至少最低限度的快乐，无论多么短暂。未实现的意志至少造成足以察觉的痛苦；相比之下，未实现的欲求引起“半痛苦”——或如他随洛克所称的“不安”（NE, p. 188–9）。这种半痛苦，莱布尼茨解释说，“够不上不适，只限于痛苦的要素或雏形——我们无法就其本身察觉它们，但它们足以起刺激作用、激发意志”（NE, p. 189）。没有哪个有限存在者能完全摆脱半痛苦，以及程度较轻的半快乐。即便在我们对选项显得全然漠心的地方，无意识的欲望也推动我们走向这条行动路线而非那条（NE, p. 188）。
+  - id: 36
+    kind: body
+    source: |-
+      Every desire inclines one to joy, its immediate satisfaction and the transitory pleasure arising therefrom. Moreover, Leibniz takes it as axiomatic that no one pursues anything but what appears to him or her to be the greatest good (NE, p. 185; T §45, p. 148). Failure to be virtuous and achieve happiness is therefore a consequence of ignorance, error, or inattention to what one knows. Inattention results from a lapse in the ability to call to mind the knowledge one possesses, and this, according to Leibniz, accounts for the puzzling psychological phenomenon known as weakness of will (NE, pp. 186–187). Weakness of will, it turns out, is a type of forgetfulness. As such, an individual has some control over it, albeit indirectly. Upbringing and education certainly affect an individual’s ability to bring specific thoughts to mind, but steps may be taken to ensure that certain considerations rather than others occur to one in practical deliberation (NE, p. 187 & pp. 195–196). For example, Leibniz counsels,
+    step1: |-
+      每一个欲望都使人倾向于快乐——即其直接满足及由此产生的短暂快乐。此外，莱布尼茨视之为公理：人所追求的，唯有在他或她看来最大的善（NE, p. 185; T §45, p. 148）。因此未能有德性、未能达至幸福，是无知、错误或对自己已知之事不加注意的后果。不加注意源于唤起已有知识之能力的失效；照莱布尼茨的说法，这解释了称为意志薄弱的那个令人困惑的心理现象（NE, pp. 186–187）。意志薄弱原来是一种遗忘。就此而言，个人对它有某种控制，尽管是间接的。教养与教育当然影响个人把特定思想带到心前的能力，但可以采取步骤，确保在实践思虑中想到的是某些考量而非其他（NE, p. 187 & pp. 195–196）。例如，莱布尼茨建议：
+    step2: |-
+      每一个欲望都使人倾向于快乐——其直接满足及由此产生的短暂快乐。此外，莱布尼茨视之为公理：人所追求的，唯有在他或她看来最大的善（NE, p. 185; T §45, p. 148）。因此，未能有德性、未能达至幸福，是无知、错误或对已知之事不加注意的后果。不加注意源于唤起已有知识之能力的失效；照莱布尼茨之说，这解释了称为意志薄弱的那个令人困惑的心理现象（NE, pp. 186–187）。意志薄弱原来是一种遗忘。就此而言，个人对它有某种控制——尽管是间接的。教养与教育当然影响个人把特定思想带到心前的能力；但可以采取步骤，确保在实践思虑中想到的是某些考量而非其他（NE, p. 187 & pp. 195–196）。例如，莱布尼茨建议：
+  - id: 37
+    kind: body
+    source: |-
+      > Thus when a man is in a good frame of mind he ought to make himself laws and rules for the future, and then carry them out strictly, drawing himself away–abruptly or gradually, depending on the nature of the case–from situations which are capable of corrupting him. A lover will be cured by a voyage undertaken just for that purpose; a period of seclusion will stop us from keeping company with people who confirm some bad disposition in us. (NE, p. 187)
+    step1: |-
+      > 因此当一个人心境良好时，他应当为自己制定未来的法律与规则，然后严格执行，视情形之性质——或骤然或渐进地——使自己脱离可能败坏他的处境。恋人可以借一场专为此目的的旅行得到治愈；一段隐居期可以使我们不再与那些confirm我们身上某种坏倾向的人为伴。（NE, p. 187）
+    step2: |-
+      > 因此当一个人心境良好时，他应当为自己制定未来的法律与规则，然后严格执行；视情形之性质——或骤然或渐进——使自己脱离可能败坏他的处境。恋人可以借一场专为此目的的旅行得到治愈；一段隐居期可以使我们不再与那些confirm我们身上某种坏倾向的人为伴。（NE, p. 187）
+  - id: 38
+    kind: body
+    source: |-
+      Advance preparation is the key to strength of will. An individual needs to equip him- or herself with principles and appropriate habits of thought in order to make correct choices in pressure situations. Otherwise, he or she is merely an instrument of conscious and unconscious inclinations (for a discussion of Leibniz’s view of practical rationality see Roinila 2008)[^roinila-2008].
+    step1: |-
+      预先准备是意志坚强的关键。个人需要以原理与恰当的思维习惯装备自己，以便在压力情形中作出正确的选择。否则，他或她只是有意识与无意识倾向的器具（莱布尼茨实践理性观的讨论，见 Roinila 2008）[^roinila-2008]。
+    step2: |-
+      预先准备是意志坚强的关键。个人需以原理与恰当的思维习惯装备自己，方能在压力情形中作出正确选择。否则，他或她只是有意识与无意识倾向的器具（莱布尼茨实践理性观的讨论，见 Roinila 2008）[^roinila-2008]。
+  - id: 39
+    kind: body
+    source: |-
+      Recall that true happiness is a lasting state of pleasure. The most direct route to happiness, as commonsense testifies, is not through the gratification of every desire that happens to occur to one. Volitions and appetitions must be moderated by experience and reason (NE, p. 189). Experience and reason teach us to neglect or postpone fulfillment of some desires so that others may be fulfilled instead, the most valuable among them being those that reason gives us (NE, p. 194–5). Reason generates inclinations whose strength and objects are distinct, as opposed to bodily inclinations whose strength and objects are confused. The confusion inherent in bodily inclinations makes their fulfillment considerably more problematic than that of rational inclinations. The bodily desire for nourishment, for example, may be satisfied by eating a piece of fruit, but, as Leibniz points out, “a fruit with a good taste and a good odor can conceal a poison” (PW, “Felicity,” §6a, p. 83). Fulfillment of confused bodily inclinations may, and too often does, lead to pain and suffering further on. Such however is not the case with rational inclinations. Distinct knowledge, which is a distinct perception of harmony, satisfies the distinct inclinations of reason. And since the universe is maximally harmonious, there is no end to the pleasure we can derive from the acquisition of distinct knowledge.
+    step1: |-
+      回想真正的幸福是快乐的持久状态。常识表明，通往幸福最直接的路，不是通过满足碰巧出现的每一个欲望。意志与欲求必须由经验与理性来节制（NE, p. 189）。经验与理性教我们忽略或推迟某些欲望的满足，以便另一些欲望得到满足——其中最有价值的是理性给我们的那些（NE, p. 194–5）。理性产生的倾向，其力量与对象是分明的；与此相对，身体倾向的力量与对象是混乱的。身体倾向固有的混乱使其满足远比理性倾向的满足成问题。例如，对滋养的身体欲望可以靠吃一块水果满足，但如莱布尼茨指出的，“一个味道好、气味好的水果可以藏毒”（PW, “Felicity,” §6a, p. 83）。混乱身体倾向的满足可能、也常常确实导致后来的痛苦与苦难。理性倾向则不然。分明知识——即对和谐的分明知觉——满足理性的分明倾向。而既然宇宙是最大和谐的，我们从获得分明知识中能取得的快乐没有止境。
+    step2: |-
+      回想真正的幸福是快乐的持久状态。常识表明，通往幸福最直接的路，并非满足碰巧出现的每一个欲望。意志与欲求须由经验与理性节制（NE, p. 189）。经验与理性教我们忽略或推迟某些欲望的满足，以便另一些欲望得到满足——其中最有价值的是理性给我们的那些（NE, p. 194–5）。理性产生的倾向，其力量与对象是分明的；身体倾向的力量与对象则是混乱的。身体倾向固有的混乱，使其满足远比理性倾向的满足成问题。例如，对滋养的身体欲望可以靠吃一块水果满足；但如莱布尼茨指出的，“一个味道好、气味好的水果可以藏毒”（PW, “Felicity,” §6a, p. 83）。混乱身体倾向的满足可能——也常常确实——导致后来的痛苦与苦难。理性倾向则不然。分明知识——即对和谐的分明知觉——满足理性的分明倾向。而既然宇宙是最大和谐的，我们从获得分明知识中能取得的快乐便没有止境。
+  - id: 40
+    kind: body
+    source: |-
+      All desires, no matter how confused or distinct, incline one toward the pleasure one takes in their satisfaction. Leibniz then can be understood as subscribing to psychological egoism where by this is meant that a person does all to satisfy one or more of his or her own inclinations. But it does not follow that all inclinations are alike—that, say, all of one’s desires have one’s own pleasure as their object. This is where the egoist goes wrong and where Leibniz finds room for accommodating both egoism and altruism. What all actions have in common is that they are spurred by an inclination of the agent, the satisfaction of which gives him or her pleasure. But the same type of object does not satisfy all inclinations alike. For Leibniz, some inclinations have confused sensible objects, such as the sweetness of fruit, the melody of a song, or the beauty of a painting. Others have distinct intellectual objects, such as the perfection of God, of the natural world, or of another human being. A sweet piece of fruit cannot satisfy a desire for perfection in the natural world any more than a distinct perception of harmony in the natural world can satisfy a bodily desire for nourishment. Different inclinations concern different objects.
+    step1: |-
+      一切欲望——无论多么混乱或分明——都使人倾向于其在满足中取得的快乐。于是可以理解莱布尼茨接受心理学利己主义：所谓一个人所做的一切都是为了满足其一个或多个倾向。但由此得不出一切倾向都相似——比如说，一个人的一切欲望都以自己的快乐为对象。利己主义者正是在这里出错，莱布尼茨也正是在这里找到同时容纳利己主义与利他主义的空间。一切行动的共同点是：它们受行动者的一个倾向推动，其满足给他或她快乐。但同一类型的对象并不同等地满足一切倾向。照莱布尼茨的说法，一些倾向有混乱的感官对象，如水果的甜、一首歌的旋律、一幅画的美。另一些倾向有分明的理智对象，如上帝的完善、自然界的完善、另一个人的完善。一块甜水果不能满足对自然界完善之欲望，正如对自然界和谐的分明知觉不能满足对滋养的身体欲望。不同的倾向关乎不同的对象。
+    step2: |-
+      一切欲望——无论多么混乱或分明——都使人倾向于其在满足中取得的快乐。于是可以理解：莱布尼茨接受心理学利己主义——所谓一个人所做的一切都是为了满足其一个或多个倾向。但由此得不出一切倾向都相似——比如说，一个人的一切欲望都以自己的快乐为对象。利己主义者正是在这里出错；莱布尼茨也正是在这里找到同时容纳利己主义与利他主义的空间。一切行动的共同点是：它们受行动者的一个倾向推动，其满足给他或她快乐。但同一类型的对象并不同等地满足一切倾向。照莱布尼茨之说，一些倾向有混乱的感官对象——水果的甜、一首歌的旋律、一幅画的美；另一些倾向有分明的理智对象——上帝的完善、自然界的完善、另一个人的完善。一块甜水果不能满足对自然界完善之欲望，正如对自然界和谐的分明知觉不能满足对滋养的身体欲望。不同的倾向关乎不同的对象。
+  - id: 41
+    kind: body
+    source: |-
+      To be inclined toward the perfection of another rational being is to be disposed to take pleasure in their perfection. Notice however that the object of the inclination, that which one’s view is fixed on, is not one’s own pleasure. This does not mean that an individual’s own pleasure cannot be the object of one of his or her desires. For most, self-love may be their predominant motive. Nevertheless, an individual can have an other-directed desire for the perfection of another rational being, which is to have disinterested love. To love disinterestedly, Leibniz explains, is to be “disposed to take pleasure in the perfection, well-being or happiness of the object of one’s love. And this involves not thinking about or asking for any pleasure of one’s own except what one can get from the happiness or pleasure of the loved one” (NE, p. 163). Since happiness is the outward manifestation of perfection, it makes no real difference whether love is said to have the perfection or the happiness of another rational being as its object. Leibniz thus makes the insightful suggestion that, though we do everything we do out of an inclination whose satisfaction gives us pleasure, this is perfectly compatible with desiring the perfection of another without any other end in view, which actually occurs whenever the object of our desire is another’s perfection or happiness. “In truth,” Leibniz concludes, “the happiness of those whose happiness pleases us turns into our own happiness, since things which please us are desired for their own sake” (PW, “Codex Iuris Gentium,” p. 171) (for further reading on Leibniz’s conception of disinterested love, see Brown 2011b)[^brown-2011b].
+    step1: |-
+      倾向于另一个理性存在者的完善，就是倾向于以其完善为乐。但要注意：倾向的对象——一个人的视线所固定者——不是自己的快乐。这并不意味着个人自己的快乐不能是其某个欲望的对象。对多数人而言，自爱也许是其主导动机。尽管如此，个人可以有一个指向他者的欲望——对另一个理性存在者之完善的欲望——这就是有无私的爱。无私地爱，莱布尼茨解释说，就是“倾向于为其所爱对象的完善、福祉或快乐而愉悦。这包含不想、不求自己任何快乐，除非能从所爱者的幸福或快乐中得到的快乐”（NE, p. 163）。既然幸福是完善的外在表现，说爱的对象是另一个理性存在者的完善还是幸福，实际上没有区别。莱布尼茨由此提出一个富有洞见的建议：尽管我们所做的一切都出于一个倾向——其满足给我们快乐——这完全可以与“以他者的完善为目的而别无他图”相容；每当我们的欲望对象是他者的完善或幸福时，这种情形实际发生。“实际上”，莱布尼茨总结道，“其幸福令我们愉悦的那些人的幸福，变成我们自己的幸福；因为令我们愉悦的东西是为其自身之故而被欲望的”（PW, “Codex Iuris Gentium,” p. 171）（莱布尼茨无私爱概念的延伸阅读，见 Brown 2011b）[^brown-2011b]。
+    step2: |-
+      倾向于另一个理性存在者的完善，就是倾向于以其完善为乐。但要注意：倾向的对象——一个人的视线所固定者——不是自己的快乐。这并不意味着个人自己的快乐不能是其某个欲望的对象；对多数人而言，自爱也许是主导动机。尽管如此，个人可以有一个指向他者的欲望——对另一个理性存在者之完善的欲望——这就是有无私的爱。无私地爱，莱布尼茨解释说，就是“倾向于为其所爱对象的完善、福祉或快乐而愉悦。这包含不想、不求自己任何快乐，除非能从所爱者的幸福或快乐中得到的快乐”（NE, p. 163）。既然幸福是完善的外在表现，说爱的对象是另一个理性存在者的完善还是幸福，实际上没有区别。莱布尼茨由此提出一个富有洞见的建议：尽管我们所做的一切都出于一个倾向——其满足给我们快乐——这完全可以与“以他者的完善为目的而别无他图”相容；每当我们的欲望对象是他者的完善或幸福，这种情形便实际发生。“实际上”，莱布尼茨总结道，“其幸福令我们愉悦的那些人的幸福，变成我们自己的幸福；因为令我们愉悦的东西是为其自身之故而被欲望的”（PW, “Codex Iuris Gentium,” p. 171）（莱布尼茨无私爱概念的延伸阅读，见 Brown 2011b）[^brown-2011b]。
+  - id: 42
+    kind: body
+    source: |-
+      Genuine altruism, then, does not require complete selflessness. Indeed, selflessness, even if it were possible, would not be desirable (W, “Letter to Nicaise,” p. 566). After all, according to Leibniz,
+    step1: |-
+      于是，真正的利他主义不需要完全的无我。实际上，无我即便可能，也不可欲（W, “Letter to Nicaise,” p. 566）。毕竟，照莱布尼茨的说法：
+    step2: |-
+      于是，真正的利他主义不需要完全的无我。实际上，无我即便可能，也不可欲（W, “Letter to Nicaise,” p. 566）。毕竟，照莱布尼茨之说：
+  - id: 43
+    kind: body
+    source: |-
+      > One cannot envisage in God any other motive than that of perfection, or, if you like, of his pleasure; supposing (according to my definition) that pleasure is nothing but a feeling of perfection, he has nothing to consider outside himself; on the contrary everything depends on him. But his goodness would not be supreme, if he did not aim at the good and at perfection so far as is possible. But what will one say, if I show that this same motive has a place in truly virtuous and generous men, whose supreme function [*degré*] is to imitate divinity, in so far as human nature is capable of it? (PW, “Meditation on the Common Concept of Justice,” pp. 57–8).
+    step1: |-
+      > 在上帝之中不能设想完善之外的任何动机，或者如果你愿意，他自己的快乐；假定（按我的定义）快乐不过是完善之感，他就没有什么自身之外的东西要考虑；相反，一切都依赖他。但如果他不尽其可能地指向善与完善，他的善就不会是至上的。但如果我表明：这同一个动机在真正有德而慷慨的人之中也有一席之地——其最高功能[*degré*]是在人性所能及的范围内仿效神性——人们会说什么呢？（PW, “Meditation on the Common Concept of Justice,” pp. 57–8）
+    step2: |-
+      > 在上帝之中不能设想完善之外的任何动机——或者，如果你愿意，他自己的快乐。假定（按我的定义）快乐不过是完善之感，他就没有什么自身之外的东西要考虑；相反，一切都依赖他。但如果他不尽其可能地指向善与完善，他的善便不会是至上的。而如果我表明：这同一个动机在真正有德而慷慨的人之中也有一席之地——其最高功能[*degré*]是在人性所能及的范围内仿效神性——人们会说什么呢？（PW, “Meditation on the Common Concept of Justice,” pp. 57–8）
+  - id: 44
+    kind: body
+    source: |-
+      Imitate divinity—this is the overarching imperative of Leibniz’s ethics, if not the guiding principle of his entire philosophical system. For him, God, not humanity, is the “measure of all things” (PW, “Opinion on the Principles of Pufendorf,” p. 69). Our chief task therefore is to make perpetual progress toward the ideal of divine nature, for each of us is like a little divinity in the City of God (PE, “Monadology,” §83 & §85, pp. 223–4; T §147, pp. 215–216).
+    step1: |-
+      仿效神性——这是莱布尼茨伦理学的总括命令，即便不是其整个哲学体系的指导原则。对他来说，是上帝而非人类，才是“万物的尺度”（PW, “Opinion on the Principles of Pufendorf,” p. 69）。因此我们的首要任务是朝着神圣本性的理想不断前进，因为我们每一个都像上帝之城中的一位小神（PE, “Monadology,” §83 & §85, pp. 223–4; T §147, pp. 215–216）。
+    step2: |-
+      仿效神性——这是莱布尼茨伦理学的总括命令，即便不是其整个哲学体系的指导原则。对他来说，是上帝而非人类，才是“万物的尺度”（PW, “Opinion on the Principles of Pufendorf,” p. 69）。因此我们的首要任务，是朝着神圣本性的理想不断前进——因为我们每一个都像上帝之城中的一位小神（PE, “Monadology,” §83 & §85, pp. 223–4; T §147, pp. 215–216）。
+  - id: 45
+    kind: body
+    source: |-
+      ## 4. Progress
+    step1: |-
+      ## 4 进步
+    step2: |-
+      ## 4 进步
+  - id: 46
+    kind: body
+    source: |-
+      An interpretive issue in Leibniz’s ethics concerns the relationship between his optimism and views on progress. Leibniz tells Wedderkopf that “whatever has happened, is happening, or will happen is best” (L, p. 147; See also *Discourse* §3). But a famous objection to Leibniz’s optimism is that the world could have been constructed in a better manner, and at they very least in terms of morality and the human condition, the world could and should be able to get better over time. As such, the interpretive issue is whether Leibniz’s optimism implies that the best of all possible worlds is *maximally perfect* with respect to all perfections from moment to moment or whether there can be *progress in perfection* over time. In particular, considering Leibniz’s ethics, can there be *moral progress* in the best of all possible worlds? That is, net increases in happiness and virtue for rational minds or substances (and corresponding decreases in their suffering and vice)?
+    step1: |-
+      莱布尼茨伦理学中有一个解释性问题：他的乐天主义与进步观之间的关系。莱布尼茨告诉韦德科普夫：“凡已发生的、正发生的或将要发生的，都是最好的”（L, p. 147；另见《谈话》§3）。但对莱布尼茨乐天主义的一个著名反驳是：世界本可以构造得更好；至少就道德与人的境况而言，世界能够且应当能够随时间变得更好。因此，解释性问题在于：莱布尼茨的乐天主义是否蕴涵一切可能世界中最好的世界在所有完善上时刻都是*最大完善的*，还是完善可以随时间*进步*。特别是，考虑到莱布尼茨的伦理学，一切可能世界中最好的世界能有*道德进步*吗？即理性心灵或实体的幸福与德性之净增长（及其苦难与恶习的相应减少）？
+    step2: |-
+      莱布尼茨伦理学有一个解释性问题：其乐天主义与进步观之间的关系。莱布尼茨告诉韦德科普夫：“凡已发生的、正发生的或将要发生的，都是最好的”（L, p. 147；另见《谈话》§3）。但对莱布尼茨乐天主义的一个著名反驳是：世界本可以构造得更好；至少就道德与人的境况而言，世界能够且应当能够随时间变好。因此，解释性问题在于：莱布尼茨的乐天主义是否蕴涵——一切可能世界中最好的世界，在所有完善上时刻都是*最大完善的*；抑或完善可以随时间*进步*。特别是，考虑到莱布尼茨的伦理学：一切可能世界中最好的世界能有*道德进步*吗？即理性心灵或实体之幸福与德性的净增长（及其苦难与恶习的相应减少）？
+  - id: 47
+    kind: body
+    source: |-
+      One inroad into this issue comes from considering the various perfections the best of all possible worlds is supposed to instantiate. Leibniz distinguishes between three types of perfection (*Theodicy*, T: 258): *metaphysical perfection*(harmony, quantity of essence, knowledge, etc.), *physical perfection*(happiness), and *moral perfection*(virtue). Leibniz is sometimes unclear about God’s criteria in evaluating and instantiating these perfections in the best of all possible worlds. Are all of these perfections maximized or do some take precedence over others? That is, is God faced with a conflict of goods in selecting the best of all possible worlds?
+    step1: |-
+      深入这一问题的一条路径，是考察一切可能世界中最好的世界应当例示的各种完善。莱布尼茨区分三种完善（《神义论》，T: 258）：*形而上学完善*（和谐、本质的量、知识等）、*物理完善*（幸福）与*道德完善*（德性）。莱布尼茨有时不清楚上帝在评价并在最好的可能世界中例示这些完善时的判准。所有这些完善都被最大化吗，还是一些优先于另一些？也就是说，上帝在选择一切可能世界中最好的世界时，面临诸善的冲突吗？
+    step2: |-
+      深入这一问题的一条路径，是考察一切可能世界中最好的世界应当例示的各种完善。莱布尼茨区分三种完善（《神义论》，T: 258）：*形而上学完善*（和谐、本质的量、知识等）、*物理完善*（幸福）与*道德完善*（德性）。莱布尼茨有时不清楚：上帝在评价并在最好的可能世界中例示这些完善时，其判准为何。所有这些完善都被最大化吗？抑或一些优先于另一些？也就是说，上帝在选择一切可能世界中最好的世界时，面临诸善的冲突吗？
+  - id: 48
+    kind: body
+    source: |-
+      In some texts, Leibniz emphasizes metaphysical perfection in God’s selection: “God has chosen the most perfect world, that is the one which is at the same time the simplest in hypotheses and the richest in phenomena” (PE, *Discourse* § 6, p. 39). On this view, our world is the best because it has been metaphysically constructed in the most optimal way (Couturat 1901, p. 237)[^couturat-1901]. However, in other texts, Leibniz suggests that God’s principal aim in creating the world was to maximize physical and moral perfection (happiness and virtue) for rational minds. For example, Leibniz writes, “the entire universe is made for minds, such that it can contribute to their happiness as much as possible” (PW, *Memoir for Enlightened Persons of Good Intention*, p. 105, see also *Discourse*§ 36; see also Grua 1953, pp. 338–9)[^grua-1953].
+    step1: |-
+      在一些文本中，莱布尼茨在上帝的选择中强调形而上学完善：“上帝选择了最完善的世界，即同时在假设上最简单、在现象上最丰富的世界”（PE, *Discourse* § 6, p. 39）。照这种观点，我们的世界是最好的，因为它在形而上学上以最优方式被构造（Couturat 1901, p. 237）[^couturat-1901]。然而在另一些文本中，莱布尼茨提示：上帝创造世界的主要目的，是为理性心灵最大化物理完善与道德完善（幸福与德性）。例如莱布尼茨写道：“整个宇宙是为心灵而造的，使它能尽可能多地促进其幸福”（PW, *Memoir for Enlightened Persons of Good Intention*, p. 105；另见 *Discourse*§ 36；另见 Grua 1953, pp. 338–9）[^grua-1953]。
+    step2: |-
+      在一些文本中，莱布尼茨于上帝的选择中强调形而上学完善：“上帝选择了最完善的世界，即同时在假设上最简单、在现象上最丰富的世界”（PE, *Discourse* § 6, p. 39）。照这种观点，我们的世界是最好的——因为它在形而上学上以最优方式被构造（Couturat 1901, p. 237）[^couturat-1901]。然而在另一些文本中，莱布尼茨提示：上帝创造世界的主要目的，是为理性心灵最大化物理与道德完善（幸福与德性）。例如莱布尼茨写道：“整个宇宙是为心灵而造的，使它能尽可能多地促进其幸福”（PW, *Memoir for Enlightened Persons of Good Intention*, p. 105；另见 *Discourse*§ 36；另见 Grua 1953, pp. 338–9）[^grua-1953]。
+  - id: 49
+    kind: body
+    source: |-
+      One solution to this problem, offered by Rutherford, is found in Leibniz’s views on progress in the kingdom of grace. Leibniz writes in *On the Ultimate Origination of Things*:
+    step1: |-
+      Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典国度中进步的观点。莱布尼茨在《论事物的终极起源》中写道：
+    step2: |-
+      Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典国度中进步的观点。莱布尼茨在《论事物的终极起源》中写道：
+  - id: 50
+    kind: body
+    source: |-
+      > [W]e must also recognize a certain constant and unbounded progress in the whole universe, so that it always proceeds to greater development, just as a large portion of our world is now cultivated and will become more and more so. (PE, p. 154)
+    step1: |-
+      > [我]们还必须承认整个宇宙中有某种持续而无界限的进步，以致它总是向更大的发展前进，正如我们的世界有一大部分如今已得到开垦，并将越来越如此。（PE, p. 154）
+    step2: |-
+      > [我]们还必须承认：整个宇宙中有某种持续而无界限的进步，以致它总是向更大的发展前进——正如我们的世界有一大部分如今已得开垦，并将越来越如此。（PE, p. 154）
+  - id: 51
+    kind: body
+    source: |-
+      Similarly, he writes in a 1706 Letter to Electress Sophie:
+    step1: |-
+      类似地，他在 1706 年致选帝侯夫人索菲的信中写道：
+    step2: |-
+      类似地，他在 1706 年致选帝侯夫人索菲的信中写道：
+  - id: 52
+    kind: body
+    source: |-
+      > And just as there are grounds to think that the universe itself develops more and more, and that everything tends towards some goal (since everything comes from an author whose wisdom is perfect) it can likewise be believed that souls, which endure as long as the universe, also proceed to get better and better (at least physically), and that their perfections carry on growing; although more often than not this happens only insensibly, and sometimes after large steps backwards. (SLT, p. 83)
+    step1: |-
+      > 正如有理由认为宇宙自身发展得越来越多、一切都趋向某个目标（因为一切都来自一位智慧完善的作者），同样可以相信：与宇宙同样长存的灵魂也继续变得越来越好（至少在物理上），其完善持续增长；尽管这多半只在不知不觉中发生，有时还经历大的倒退。（SLT, p. 83）
+    step2: |-
+      > 正如有理由认为宇宙自身发展得越来越多、一切都趋向某个目标（因为一切都来自一位智慧完善的作者），同样可以相信：与宇宙同样长存的灵魂也继续变得越来越好（至少在物理上），其完善持续增长；尽管这多半只在不知不觉中发生，有时还经历大的倒退。（SLT, p. 83）
+  - id: 53
+    kind: body
+    source: |-
+      And in the *Principles of Nature and Grace*, he writes:
+    step1: |-
+      而在《自然与神恩的原则》中，他写道：
+    step2: |-
+      而在《自然与神恩的原则》中，他写道：
+  - id: 54
+    kind: body
+    source: |-
+      > Our happiness will never consist, and must never consist, in complete joy, in which nothing is left to desire, and which would dull our mind, but must consist in a perpetual progress to new pleasures and new perfections. (PE: 213; see also *Theodicy*, p. 379)
+    step1: |-
+      > 我们的幸福将永不会、也绝不应在于完全的快乐——其中没有什么可欲求的、会使我们的心灵迟钝的东西——而必须在于向新的快乐与新的完善的持续进步。（PE: 213；另见《神义论》，p. 379）
+    step2: |-
+      > 我们的幸福将永不会、也绝不应在于完全的快乐——其中没有什么可欲求、会使我们的心灵迟钝——而必须在于向新的快乐与新的完善的持续进步。（PE: 213；另见《神义论》，p. 379）
+  - id: 55
+    kind: body
+    source: |-
+      According to Rutherford, such texts show that the world must realize maximal degrees of physical and moral perfection *over time*. Indeed, in the case of the physical and moral perfections of rational minds, it is not possible for the world to initially realize maximal degrees of happiness and virtue, for these perfections depend on the actions of rational minds, which are not all conscious and active from the world’s inception. Thus God selects the world where rational minds freely and collectively choose to realize their happiness and virtue.
+    step1: |-
+      照 Rutherford 的说法，这些文本表明：世界必须*随时间*实现最大程度的物理与道德完善。确实，就理性心灵的物理与道德完善而言，世界不可能一开始就实现最大程度的幸福与德性，因为这些完善依赖理性心灵的行动——它们并非从世界开端起就都有意识且活跃。因此上帝选择这样一个世界：理性心灵在其中自由地、集体地选择实现其幸福与德性。
+    step2: |-
+      照 Rutherford 的说法，这些文本表明：世界必须*随时间*实现最大程度的物理与道德完善。确实，就理性心灵的物理与道德完善而言，世界不可能一开始就实现最大程度的幸福与德性——因为这些完善依赖理性心灵的行动，而后者并非从世界开端起就都有意识且活跃。因此上帝选择这样一个世界：理性心灵在其中自由地、集体地选择实现其幸福与德性。
+  - id: 56
+    kind: body
+    source: |-
+      For a rational mind, its increase in moral and physical perfection depends on increases in metaphysical perfection, that is, *knowledge* or clear and distinct expression of the world: “creatures possess greater moral perfection only to the extent that they possess greater metaphysical perfection—in particular, a more developed intellect, which serves as the foundation for both virtue and happiness” (1995: 47). As such, Rutherford writes that God reserves “their [rational minds] final enlightenment and the final perfection of the universe as a whole, for some distant future” (1995, p. 52)
+    step1: |-
+      对一个理性心灵而言，其道德与物理完善的增长依赖于形而上完善的增长，即*知识*或对世界的清楚分明的表现：“受造物拥有更大的道德完善，仅当它们拥有更大的形而上学完善——特别是更发展的理智，它是德性与幸福二者的基础”（1995: 47）。因此 Rutherford 写道，上帝把“它们[理性心灵]的最终启蒙与宇宙整体的最终完善留给某个遥远的未来”（1995, p. 52）
+    step2: |-
+      对一个理性心灵而言，其道德与物理完善的增长依赖形而上学完善的增长——即*知识*，或对世界的清楚分明表现：“受造物拥有更大的道德完善，仅当它们拥有更大的形而上学完善——特别是更发展的理智；它是德性与幸福二者的基础”（1995: 47）。因此 Rutherford 写道，上帝把“它们[理性心灵]的最终启蒙与宇宙整体的最终完善，留给某个遥远的未来”（1995, p. 52）
+  - id: 57
+    kind: body
+    source: |-
+      Other commentators, however, maintain that Leibniz is committed to the world being *static* in perfection, that is, not increasing in any of the perfections from moment to moment (Look 2007; Strickland 2006a and 2006b; cf. Phemister 2006)[^look-2007][^phemister-2006][^strickland-2006a][^strickland-2006b]. Indeed, there are texts where Leibniz suggests such a view. For example:
+    step1: |-
+      然而另一些评注者主张：莱布尼茨 commitment 于世界在完善上是*静态的*，即不在任何完善上随时刻增长（Look 2007; Strickland 2006a and 2006b；参见 Phemister 2006）[^look-2007][^phemister-2006][^strickland-2006a][^strickland-2006b]。确实，有一些文本中莱布尼茨提示了这样的观点。例如：
+    step2: |-
+      然而另一些评注者主张：莱布尼茨接受世界在完善上是*静态的*——即不在任何完善上随时刻增长（Look 2007; Strickland 2006a and 2006b；参见 Phemister 2006）[^look-2007][^phemister-2006][^strickland-2006a][^strickland-2006b]。确实，有一些文本中莱布尼茨提示了这样的观点。例如：
+  - id: 58
+    kind: body
+    source: |-
+      > The question is whether the whole world increases or decreases in perfection, or whether in fact it always preserves the same perfection, as I rather think, even if the different parts variously exchange perfections between themselves, so that it is mutually transferred. (SLT, p. 196)
+    step1: |-
+      > 问题是整个世界在完善上是增加还是减少，或者实际上它总是保持同样的完善——我倾向于认为如此——即便不同部分彼此之间以各种方式交换完善，以致完善被相互转移。（SLT, p. 196）
+    step2: |-
+      > 问题是：整个世界在完善上是增是减，或者实际上总保持同样的完善——我倾向于认为如此——即便不同部分彼此以各种方式交换完善，以致完善被相互转移。（SLT, p. 196）
+  - id: 59
+    kind: body
+    source: |-
+      Leibniz seems to have metaphysical grounds for denying that the world as a whole can increase in perfection. The perfection of the world seems to be a sum of the perfection of individual substances. Given that the world contains all compossible substances from its inception, it cannot increase by new substances being added to the world (Strickland 2006a)[^strickland-2006a]. In order for the world as a whole to increase in perfection, then, individual substances must increase in perfection.
+    step1: |-
+      莱布尼茨似乎有形而上学的根据否认世界整体能增加完善。世界的完善似乎是个体实体完善的总和。鉴于世界从其开端就包含一切可共存的实体，它不能靠向世界添加新实体而增长（Strickland 2006a）[^strickland-2006a]。那么，要让世界整体增加完善，个体实体必须增加完善。
+    step2: |-
+      莱布尼茨似乎有形而上学的根据否认世界整体能增加完善。世界的完善，似乎是个体实体完善的总和。鉴于世界从其开端就包含一切可共存的实体，它不能靠添加新实体而增长（Strickland 2006a）[^strickland-2006a]。那么，要让世界整体增加完善，个体实体必须增加完善。
+  - id: 60
+    kind: body
+    source: |-
+      However, while it may be possible for individual substances to increase in perfection (cf. Phemister 2006)[^phemister-2006], it may not be possible for substances to collectively increase in perfection, because an increase in perfection of one substance may require the decrease in perfection of another substance. This is due to Leibniz’s metaphysics of activity and passivity, and his more general theory of the relationship between causation, power, and perfection. In the *Discourse*§15, for example, Leibniz writes:
+    step1: |-
+      然而，虽然个体实体可能增加完善（参见 Phemister 2006）[^phemister-2006]，实体们可能无法集体增加完善，因为一个实体完善的增加可能要求另一实体完善的减少。这是由于莱布尼茨关于主动与被动的形而上学，以及他关于因果、力量与完善之关系的更一般理论。例如在《谈话》§15 中，莱布尼茨写道：
+    step2: |-
+      然而，虽然个体实体可能增加完善（参见 Phemister 2006）[^phemister-2006]，实体们可能无法集体增加完善——因为一个实体完善之增加，可能要求另一实体完善之减少。这源于莱布尼茨关于主动与被动的形而上学，及其关于因果、力量与完善之关系的更一般理论。例如在《谈话》§15，莱布尼茨写道：
+  - id: 61
+    kind: body
+    source: |-
+      > For it can happen that a change that increases the expression of one diminishes that of another…Therefore, when a change takes place by which several substances are affected (in fact every change affects all of them), I believe one may say that the substance which immediately passes to a great degree of perfection or to a more perfect expression exercises its power and acts, an the substance which passes to a lesser degree shows its weakness and is *acted upon*. I also hold that every action of a substance which has perfection involves some *pleasure*, and every passions some *pain* and vice versa. (PE: 48)
+    step1: |-
+      > 因为可能出现这样的变化：它增加一个实体的表现而减少另一个的表现……因此，当一个影响几个实体的变化发生时（实际上每个变化都影响所有实体），我认为可以说：直接通向更高完善度或更完善表现的实体运用其力量并行动，而通向较低程度的实体显示其软弱并*受作用*。我还主张：一个具有完善的实体的每一行动都包含某种*快乐*，每一受动都包含某种*痛苦*，反之亦然。（PE: 48）
+    step2: |-
+      > 因为可能出现这样的变化：它增加一个实体的表现，而减少另一个的表现……因此，当一个影响若干实体的变化发生时（实际上每个变化都影响所有实体），我认为可以说：直接通向更高完善度或更完善表现的实体，运用其力量并行动；而通向较低程度者显示其软弱并*受作用*。我还主张：具有完善之实体的每一行动都包含某种*快乐*，每一受动都包含某种*痛苦*，反之亦然。（PE: 48）
+  - id: 62
+    kind: body
+    source: |-
+      Similarly, Leibniz writes in the *Monadology*§5 2that “actions and passions among creatures are mutual” (PE, p. 219). According to Look (2007), what Leibniz is fundamentally expressing in such texts is a *conservation law for perfection:*For any substances *x* and *y* in the agent-patient rational, if substance *x* acts and thereby increases in perfection, substance *y* must thereby proportionally decrease in perfection. On Look’s interpretation of Leibniz’s idealism, everything in the universe is composed of the same type of thing (simple mind-like substances or monads); and consequently, all beings must be subject to the same laws. The moral and physical perfections of rational substances, then, cannot be exempt from the general laws that govern substances, which include the conservation law.
+    step1: |-
+      类似地，莱布尼茨在《单子论》§52 写道：“受造物之间的行动与受动是相互的”（PE, p. 219）。照 Look（2007）的说法，莱布尼茨在这类文本中根本表达的是一条*完善守恒律*：对行动者-承受者域中的任何实体 *x* 与 *y*，如果实体 *x* 行动并因此增加完善，实体 *y* 就必须相应地减少完善。照 Look 对莱布尼茨观念论的解读，宇宙中的一切都由同一种东西（单纯的心灵样实体或单子）构成；因而一切存在者都必须服从同样的定律。于是理性实体的道德与物理完善不能免于支配实体的诸一般定律——其中包括守恒律。
+    step2: |-
+      类似地，莱布尼茨在《单子论》§52 写道：“受造物之间的行动与受动是相互的”（PE, p. 219）。照 Look（2007）之说，莱布尼茨在这类文本中根本表达的是一条*完善守恒律*：对行动者-承受者域中的任何实体 *x* 与 *y*，若实体 *x* 行动并因此增加完善，实体 *y* 就必须相应地减少完善。照 Look 对莱布尼茨观念论的解读，宇宙中的一切都由同一种东西构成——单纯的心灵样实体或单子；因而一切存在者都必须服从同样的定律。于是理性实体的道德与物理完善，不能免于支配实体的诸一般定律——其中包括守恒律。
+  - id: 63
+    kind: body
+    source: |-
+      While there is certainly a tension in Leibniz’s views on progress (see Phemister 2006 for a reconciliation of these views)[^phemister-2006], it is clear that Leibniz has differing views on the progress of the world throughout his writings. Indeed, Leibniz’s last statement on progress suggests uncertainty about the matter. In a 1715 letter to Bourguet Leibniz writes regarding progress that “two hypotheses can be formed, one that nature is always equally perfect, the other that it always increases in perfection” but that he can not “see a way of showing demonstratively by pure reason which of these we should choose” (SLT: 198). According to Strickland, however, Leibniz’s indecision is not really odd at all, for with the fates of an infinity of creatures to take into consideration even a superlative mathematician like Leibniz was at a loss to calculate whether the infinite gains made by the minority of creatures either balanced or outweighed the finite losses incurred by the majority of others. (2006a: 135; Cf. Futch 2008)[^futch-2008]
+    step1: |-
+      虽然莱布尼茨关于进步的观点中确实存在张力（这些观点的调和见 Phemister 2006）[^phemister-2006]，但清楚的是：莱布尼茨在其著述中对世界的进步持不同看法。实际上，莱布尼茨关于进步的最后一次陈述暗示他对这一问题不确定。在 1715 年致布尔盖的信中，莱布尼茨关于进步写道：“可以形成两个假设，其一自然是总是同样完善的，其二是它总在增加完善”；但他不能“看出一种方式，以纯理性论证地表明我们应当选择哪一项”（SLT: 198）。然而照 Strickland 的说法，莱布尼茨的犹豫其实毫不奇怪，因为要把无限多受造物的命运考虑在内，连莱布尼茨这样的卓越数学家也难以算清：少数受造物取得的无限收益，究竟是平衡了还是超过了多数其他受造物遭受的有限损失。（2006a: 135；参见 Futch 2008）[^futch-2008]
+    step2: |-
+      虽然莱布尼茨关于进步的观点中确实存在张力（这些观点的调和见 Phemister 2006）[^phemister-2006]，但清楚的是：莱布尼茨在其著述中对世界的进步持不同看法。实际上，他关于进步的最后一次陈述暗示对此题的不确定。在 1715 年致布尔盖的信中，莱布尼茨关于进步写道：“可以形成两个假设，其一自然是总同样完善的，其二它总在增加完善”；但他不能“看出一种方式，以纯理性论证地表明我们应当选择哪一项”（SLT: 198）。然而照 Strickland 的说法，莱布尼茨的犹豫其实毫不奇怪：要把无限多受造物的命运考虑在内，连莱布尼茨这样的卓越数学家也难以算清——少数受造物取得的无限收益，究竟是平衡了还是超过了多数其他受造物遭受的有限损失。（2006a: 135；参见 Futch 2008）[^futch-2008]
+  - id: 64
+    kind: body
+    source: |-
+      ## 5. Criticisms of Cartesian Ethics
+    step1: |-
+      ## 5 对笛卡尔伦理学的批评
+    step2: |-
+      ## 5 对笛卡尔伦理学的批评
+  - id: 65
+    kind: body
+    source: |-
+      In a letter to Molanus (ca. 1679), Leibniz famously writes that “Descartes has not much advanced the practice of morality,” for he has effectively reproduced the ethics of the Stoics and Epicureans (PE: 241). Leibniz’s issue with the ethics of Descartes, who he considers a member of “the sect of new Stoics,” is not merely its lack of novelty (*Two Sects of Naturalists*, PE: 282). Rather, his disdain for Descartes’ ethics (and by extension aspects of Stoicism) is that it can only offer the moral agent *patience without hope* (in short, a prevention of the moral agent’s happiness) because Descartes’ metaphysics is one that precludes God’s wisdom, goodness, and justice. This is unlike Leibniz’s own metaphysical and ethical system, which he claims does offer the possibility of hope:
+    step1: |-
+      在致莫拉努斯（Molanus）的信（约 1679）中，莱布尼茨著名地写道：“笛卡尔没有多大推进道德的实践”，因为他实际上复现了斯多亚派与伊壁鸠鲁派的伦理学（PE: 241）。莱布尼茨对笛卡尔伦理学的异议——他认为笛卡尔属于“新斯多亚派”——不只在于其缺乏新颖性（《自然主义者的两个教派》，PE: 282）。毋宁说，他对笛卡尔伦理学（以及延伸的斯多亚主义某些方面）的不屑在于：它只能给道德行动者*没有希望的耐心*（简言之，阻止道德行动者的幸福），因为笛卡尔的形而上学排除了上帝的智慧、善与正义。这不同于莱布尼茨自己的形而上学与伦理学体系——他主张后者确实提供希望的可能：
+    step2: |-
+      在致莫拉努斯（Molanus）的信（约 1679）中，莱布尼茨著名地写道：“笛卡尔没有多大推进道德的实践”——因为他实际上复现了斯多亚派与伊壁鸠鲁派的伦理学（PE: 241）。莱布尼茨对笛卡尔伦理学的异议——他认为笛卡尔属于“新斯多亚派”——不只在于其缺乏新颖性（《自然主义者的两个教派》，PE: 282）。毋宁说，他对笛卡尔伦理学（以及延伸的斯多亚主义某些方面）的不屑在于：它只能给道德行动者*没有希望的耐心*（简言之，阻止道德行动者的幸福）——因为笛卡尔的形而上学排除了上帝的智慧、善与正义。这不同于莱布尼茨自己的形而上学与伦理学体系：他主张后者确实提供希望的可能：
+  - id: 66
+    kind: body
+    source: |-
+      > One can even say that the love of God gives us, in the present, a foretaste of future felicity… For it gives us perfect confidence in the goodness of our author and master, which produces real tranquility of mind, unlike the Stoics, who are forced to be patient, but one that is produced by present contentment, which also assures us future happiness. (PE, *Principles of Nature and Grace*, p. 212; see Roinila 2012 for a discussion of Leibnizian hope)[^roinila-2012]
+    step1: |-
+      > 甚至可以说，对上帝的爱在当下给予我们对未来福祉的预尝……因为它使我们对我们的作者与主人的善怀有完全的信心，产生真正的心灵安宁——不像斯多亚派，他们被迫耐心，而这一种安宁由当下的满足产生，它也向我们保证未来的幸福。（PE, *Principles of Nature and Grace*, p. 212；莱布尼茨式希望的讨论见 Roinila 2012）[^roinila-2012]
+    step2: |-
+      > 甚至可以说，对上帝的爱在当下给予我们对未来福祉的预尝……因为它使我们对我们的作者与主人之善怀有完全的信心，产生真正的心灵安宁——不像斯多亚派被迫耐心；而这一种安宁由当下的满足产生，它也向我们保证未来的幸福。（PE, *Principles of Nature and Grace*, p. 212；莱布尼茨式希望的讨论见 Roinila 2012）[^roinila-2012]
+  - id: 67
+    kind: body
+    source: |-
+      Hope in the wisdom, goodness, and justice of God is a necessary condition for happiness because without it the moral agent would be forced to endure the circumstances of life without knowing that the world (and the circumstances she faces) is, at least in part, designed for her moral benefit.
+    step1: |-
+      对上帝智慧、善与正义的希望是幸福的必要条件，因为没有它，道德行动者将被迫忍受生活的种种境况，而不知道世界（以及她面对的境况）至少部分是为她的道德益处设计的。
+    step2: |-
+      对上帝智慧、善与正义的希望，是幸福的必要条件。没有它，道德行动者将被迫忍受生活的种种境况，而不知道世界（以及她面对的境况）至少部分是为她的道德益处而设计的。
+  - id: 68
+    kind: body
+    source: |-
+      In the letter to Molanus, Leibniz offers a brief characterization of Cartesian ethics, and then proceeds to offer three main metaphysical objections to Descartes’ ethical system based on Descartes’ voluntarism, his denial of divine teleology, and his views on the immortality of the soul (For a discussion of Leibniz’s criticisms of Stoicism in particular, see Forman 2016 and Rutherford 2003)[^forman-2016][^rutherford-2003].
+    step1: |-
+      在致莫拉努斯的信中，莱布尼茨简要刻画了笛卡尔伦理学，然后基于笛卡尔的唯意志论、他对神圣目的论的否认及其关于灵魂不朽的观点，对笛卡尔伦理体系提出三项主要的形而上学反驳（关于莱布尼茨对斯多亚主义的批评的讨论，见 Forman 2016 与 Rutherford 2003）[^forman-2016][^rutherford-2003]。
+    step2: |-
+      在致莫拉努斯的信中，莱布尼茨简要刻画笛卡尔伦理学，然后基于笛卡尔的唯意志论、他对神圣目的论的否认及其灵魂不朽观，对笛卡尔伦理体系提出三项主要的形而上学反驳（莱布尼茨对斯多亚主义批评的讨论，见 Forman 2016 与 Rutherford 2003）[^forman-2016][^rutherford-2003]。
+  - id: 69
+    kind: body
+    source: |-
+      Leibniz seems to have an adequate understanding of Descartes’ ethics (PE, p. 241). He correctly identifies two fundamental features of Descartes’ ethics. First, the virtuous will must be guided by reason and knowledge of the truth (Letter to Princess Elizabeth 4 August 1645, AT IV: 267/CSMK: 258). Second, since the will is the only thing that is within our control, we are only responsible for our volitions (Letter to Princess Elizabeth 6 October 1645, AT IV 308/CSMK: 269; See also Letter to Queen Christina 20 November 1647, AT V: 83/CSMK: 325). We are not responsible for things that occur outside of our sphere of control, and thus virtue—the supreme good—does not depend on such contingencies. Regarding this second feature, Leibniz writes: “That is precisely the Stoic doctrine; it places the greatness and freedom of their much-praised wise man in his strength of mind to do without things that do not depend upon us, and endure things when they come in spite of ourselves” (PE, p. 241).
+    step1: |-
+      莱布尼茨似乎对笛卡尔的伦理学有充分的理解（PE, p. 241）。他正确地识别出笛卡尔伦理学的两个根本特征。第一，有德的意志必须由理性与真理的知识引导（致伊丽莎白公主信，1645 年 8 月 4 日，AT IV: 267/CSMK: 258）。第二，既然意志是唯一在我们控制之内的东西，我们只对自己的意志负责（致伊丽莎白公主信，1645 年 10 月 6 日，AT IV 308/CSMK: 269；另见致瑞典女王克里斯蒂娜信，1647 年 11 月 20 日，AT V: 83/CSMK: 325）。我们不对发生在我们控制范围之外的东西负责，因此德性——至善——不依赖这类偶然。关于第二个特征，莱布尼茨写道：“这正是斯多亚学说；它把他们备受赞美的智者之伟大与自由，置于其心灵力量之中：不需要不依赖我们的东西，并在这些东西违背我们意愿而来时忍受它们”（PE, p. 241）。
+    step2: |-
+      莱布尼茨似乎对笛卡尔的伦理学有充分的理解（PE, p. 241）。他正确识别出笛卡尔伦理学的两个根本特征。第一，有德的意志必须由理性与真理的知识引导（致伊丽莎白公主信，1645 年 8 月 4 日，AT IV: 267/CSMK: 258）。第二，既然意志是唯一在我们控制之内的东西，我们只对自己的意志负责（致伊丽莎白公主信，1645 年 10 月 6 日，AT IV 308/CSMK: 269；另见致瑞典女王克里斯蒂娜信，1647 年 11 月 20 日，AT V: 83/CSMK: 325）。我们不对发生在控制范围之外的东西负责；因此德性——至善——不依赖这类偶然。关于第二个特征，莱布尼茨写道：“这正是斯多亚学说。它把他们备受赞美的智者之伟大与自由，置于其心灵力量之中：不需要不依赖我们的东西，并在这些东西违背我们意愿而来时忍受它们”（PE, p. 241）。
+  - id: 70
+    kind: body
+    source: |-
+      The first objection concerns Descartes’ voluntarism:
+    step1: |-
+      第一项反驳关乎笛卡尔的唯意志论：
+    step2: |-
+      第一项反驳关乎笛卡尔的唯意志论：
+  - id: 71
+    kind: body
+    source: |-
+      > Since Descartes’s God, or perfect being, is not a God like the one we imagine or hope for, that is, a God just and wise, doing everything possible for the good of creatures…Descartes’s God has neither will nor understanding, since according to Descartes he does not have the good as object of the will, nor the true as object of the understanding. (PE, p. 242)
+    step1: |-
+      > 既然笛卡尔的上帝或完善存在者，不是我们想象或希望的那种上帝——即正义而智慧、为受造物的善做一切可能的事情的上帝……笛卡尔的上帝既无意志也无理智，因为照笛卡尔的看法，他不以善为意志的对象，也不以真为理智的对象。（PE, p. 242）
+    step2: |-
+      > 既然笛卡尔的上帝或完善存在者，不是我们想象或希望的那种上帝——即正义而智慧、为受造物之善做一切可能的事情的上帝……笛卡尔的上帝既无意志也无理智。照笛卡尔的看法，他不以善为意志的对象，也不以真为理智的对象。（PE, p. 242）
+  - id: 72
+    kind: body
+    source: |-
+      Descartes’s voluntarism arises out of his commitment to the ontological simplicity of the divine essence, which requires an identity between God’s “intellect” and “will”: “there is always a single identical and perfectly simple act by means of which he simultaneously understands, wills and accomplishes everything” (*Principles* I.23, AT VIIIA: 14/CSM I: 201). Leibniz’s problem with voluntarism is that there are no standards of goodness by which God acts, thus making God’s actions arbitrary, unwise, and unjust. As Leibniz tells us in *Discourse*§ 2:
+    step1: |-
+      笛卡尔的唯意志论出自他对神圣本质存在论单一性的 commitment，后者要求上帝的“理智”与“意志”同一：“总有一个单一同一而完全单纯的行动，借以他同时理解、愿意并完成一切”（《原理》I.23, AT VIIIA: 14/CSM I: 201）。莱布尼茨对唯意志论的异议是：没有上帝据以行动的善之标准，从而使上帝的行动任意、不明智且不正义。如莱布尼茨在《谈话》§2 告诉我们的：
+    step2: |-
+      笛卡尔的唯意志论，出自他对神圣本质存在论单一性的接受——后者要求上帝的“理智”与“意志”同一：“总有一个单一同一而完全单纯的行动，借以他同时理解、愿意并完成一切”（《原理》I.23, AT VIIIA: 14/CSM I: 201）。莱布尼茨对唯意志论的异议是：没有上帝据以行动的善之标准，从而使上帝的行动任意、不明智且不正义。如莱布尼茨在《谈话》§2 告诉我们的：
+  - id: 73
+    kind: body
+    source: |-
+      > In saying that things are not good by virtue of any rule of goodness but solely by virtue of the will of God, it seems to me that we unknowingly destroy all of God’s love and all his glory. For why praise him for what he has done if he would be equally praiseworthy in doing the exact contrary? Where will his justice and wisdom reside if there remains only a certain despotic power, if will holds the place of reason, and if, according to the definition of tyrants, justice consists in whatever pleases the most powerful? (PE, p. 36)
+    step1: |-
+      > 说事物不是凭任何善的规则而是善的，仅凭上帝的意志而是善的，这在我看来不知不觉地摧毁了上帝的一切爱与一切荣耀。因为如果他做恰恰相反的事也同样值得赞美，为什么赞美他所做的？如果只剩下某种专制的力量，如果意志占据了理性的位置，如果照暴君的定义正义在于最强者的所好，他的正义与智慧将安放于何处？（PE, p. 36）
+    step2: |-
+      > 说事物不是凭任何善的规则、而仅凭上帝的意志而是善的，这在我看来不知不觉地摧毁了上帝的一切爱与一切荣耀。因为若他做恰恰相反的事也同样值得赞美，为什么赞美他所做的？如果只剩某种专制的力量，如果意志占据理性的位置，如果照暴君的定义正义在于最强者的所好——他的正义与智慧将安放于何处？（PE, p. 36）
+  - id: 74
+    kind: body
+    source: |-
+      Descartes’ voluntarism leads to patience without hope because if God’s actions are arbitrary, in that they are not guided by perceptions of the good, then we cannot know—or at least have hope—that God is in fact acting for the good. This is problematic because of the limited sphere of control of the moral agent. According to Descartes, the moral agent can only control how she disposes of her volitions. Every state of affairs that occur outside of her volitions is ultimately under the control of God. Thus, while the moral agent might believe that she herself is virtuously acting for the good, voluntarism precludes the moral agent from having assurance that states of affairs that that fall under the purview of God’s control are occurring for the genuine good of creatures. There is no real divine providence in Descartes’ system.
+    step1: |-
+      笛卡尔的唯意志论导致没有希望的耐心，因为如果上帝的行动是任意的——即不受善的知觉引导——我们就不能知道、或至少不能希望上帝实际在为善行动。这是成问题的，因为道德行动者的控制范围有限。照笛卡尔的看法，道德行动者只能控制她如何处置其意志。发生在其意志之外的每一个事态最终都在上帝的控制之下。因此，虽然道德行动者也许相信她自己在为善而德性地行动，唯意志论使道德行动者无法确信：落入上帝控制范围的事态正在为受造物的真正之善发生。笛卡尔的体系中没有真正的神圣天意。
+    step2: |-
+      笛卡尔的唯意志论导致没有希望的耐心：如果上帝的行动是任意的——即不受善的知觉引导——我们就不能知道、至少不能希望上帝实际在为善行动。这是成问题的，因为道德行动者的控制范围有限。照笛卡尔之说，道德行动者只能控制她如何处置其意志；发生在其意志之外的每一个事态，最终都在上帝的控制之下。因此，虽然道德行动者也许相信她自己在为善而德性地行动，唯意志论使她无法确信：落入上帝控制范围的事态，正在为受造物的真正之善发生。笛卡尔的体系中没有真正的神圣天意。
+  - id: 75
+    kind: body
+    source: |-
+      The second objection concerns Descartes’ denial of divine teleology:
+    step1: |-
+      第二项反驳关乎笛卡尔对神圣目的论的否认：
+    step2: |-
+      第二项反驳关乎笛卡尔对神圣目的论的否认：
+  - id: 76
+    kind: body
+    source: |-
+      > He does not want his God to act in accordance with some end; this is why he eliminates the search for final causes from philosophy, under the clever pretext that we are not capable of knowing God’s ends. (PE, p. 242)
+    step1: |-
+      > 他不愿他的上帝按某个目的行动；这就是为什么他以巧妙的借口把对目的因的探求从哲学中排除——我们无能认识上帝的目的。（PE, p. 242）
+    step2: |-
+      > 他不愿他的上帝按某个目的行动。这就是为什么他以巧妙的借口——我们无能认识上帝的目的——把对目的因的探求从哲学中排除。（PE, p. 242）
+  - id: 77
+    kind: body
+    source: |-
+      Here too, Leibniz’s interpretation of Descartes is accurate. As Descartes tells Burman:
+    step1: |-
+      这里莱布尼茨对笛卡尔的解读也是准确的。如笛卡尔告诉布尔曼的：
+    step2: |-
+      这里莱布尼茨对笛卡尔的解读同样准确。如笛卡尔告诉布尔曼的：
+  - id: 78
+    kind: body
+    source: |-
+      > All the purposes of God are hidden from us, and it is rash to want to plunge into them…We think of God as a sort of superman, who thinks up such-and-such a scheme, and tries to realize it by such-and-such a means. This is clearly quite unworthy of God. (AT V: 158/CSMK: 341; See also *Principles* I.28 AT VIIIA: 15/CSM I: 202 and *Principles* III.2, AT VIIIA: 81/CSM I: 248)
+    step1: |-
+      > 上帝的一切目的对我们都是隐藏的，想要一头扎进去是轻率的……我们把上帝想成某种超人：想出如此这般的方案，试图以如此这般的方式实现它。这显然全然配不上上帝。（AT V: 158/CSMK: 341；另见《原理》I.28, AT VIIIA: 15/CSM I: 202 与《原理》III.2, AT VIIIA: 81/CSM I: 248）
+    step2: |-
+      > 上帝的一切目的对我们都是隐藏的，想要一头扎进去是轻率的……我们把上帝想成某种超人：想出如此这般的方案，试图以如此这般的方式实现它。这显然全然配不上上帝。（AT V: 158/CSMK: 341；另见《原理》I.28, AT VIIIA: 15/CSM I: 202 与《原理》III.2, AT VIIIA: 81/CSM I: 248）
+  - id: 79
+    kind: body
+    source: |-
+      Descartes’ denial of our knowledge of divine teleology must be read against his account of divine simplicity. If God has ends or purposes, it cannot in any way require a division between intellect and will whereby God perceives an end, and then wills and acts accordingly. This is objectionable to Leibniz, because his optimism implies that one of God’s main ends is to create the best of all possible worlds. However, the Cartesian moral agent cannot have any certainty that God created the best of all possible worlds, let alone a good world. Again, the moral agent must hold out and be excessively patient, and endure what comes to her. She cannot have contentment of mind in the face of such uncertainty.
+    step1: |-
+      笛卡尔对我们认识神圣目的论的否认，必须对照其神圣单一性说明来读。如果上帝有目的或目标，这无论如何不能要求理智与意志的分割——上帝知觉一个目的，然后相应地愿意并行动。这对莱布尼茨是可反对的，因为他的乐天主义蕴涵上帝的主要目的之一是创造一切可能世界中最好的世界。然而，笛卡尔式的道德行动者不能有任何确定性：上帝创造了一切可能世界中最好的世界，更不用说一个好的世界。再一次，道德行动者必须坚持并过度耐心，忍受降临于她的一切。面对这样的不确定，她不能有心灵的满足。
+    step2: |-
+      笛卡尔对我们认识神圣目的论的否认，必须对照其神圣单一性说明来读。如果上帝有目的或目标，这无论如何不能要求理智与意志的分割——上帝知觉一个目的，然后相应地愿意并行动。这对莱布尼茨是可反对的：他的乐天主义蕴涵上帝的主要目的之一，是创造一切可能世界中最好的世界。然而笛卡尔式的道德行动者不能有任何确定性——上帝创造了一切可能世界中最好的世界，遑论一个好的世界。再一次，道德行动者必须坚持并过度耐心，忍受降临于她的一切。面对这样的不确定，她不能有心灵的满足。
+  - id: 80
+    kind: body
+    source: |-
+      Leibniz’s final objection is against Descartes’ views on the immortality of the soul. One might think, in defense of Descartes, that his views on the immortality of the soul will secure justice for moral agents in the afterlife. Leibniz claims, however, that “the immortality of soul, as established by Descartes, is useless and could not console us in any way” (PE, p. 243). Leibniz offers the following memory argument against Descartes:
+    step1: |-
+      莱布尼茨最后一项反驳针对笛卡尔关于灵魂不朽的观点。有人可能为笛卡尔辩护，认为其灵魂不朽观将为道德行动者在来世确保正义。然而莱布尼茨声称，“如笛卡尔所确立的灵魂不朽是无用的，不能以任何方式安慰我们”（PE, p. 243）。莱布尼茨针对笛卡尔提出如下记忆论证：
+    step2: |-
+      莱布尼茨的最后一项反驳，针对笛卡尔关于灵魂不朽的观点。有人可能为笛卡尔辩护，认为其灵魂不朽观将为道德行动者在来世确保正义。然而莱布尼茨声称：“如笛卡尔所确立的灵魂不朽是无用的，不能以任何方式安慰我们”（PE, p. 243）。莱布尼茨针对笛卡尔提出如下记忆论证：
+  - id: 81
+    kind: body
+    source: |-
+      1. The soul must be held morally responsible for its past actions, by God, in the afterlife. This is because God, being just, must reward and punish souls for their past actions, in order for true justice to obtain.
+      2. Memory of our past actions, in the present life, is required for moral responsibility in the afterlife.
+      3. After Cartesian disembodiment, the soul will go through innumerable changes, ultimately losing its memories of its actions when it was embodied.
+      4. The Cartesian soul will not remember its past actions, and thus cannot be held morally responsible
+      5. Therefore, Descartes’ account of the immortality of the soul is inconsistent with justice.
+    step1: |-
+      1. 在来世，灵魂必须由上帝为其过去的行动负道德责任。这是因为上帝是正义的，必须为灵魂过去的行动奖惩它们，以使真正的正义成立。
+      2. 在今生对我们的过去行动的记忆，是来世道德责任所要求的。
+      3. 笛卡尔式的脱身后，灵魂将经历无数变化，最终失去其 embodied 时对行动的记忆。
+      4. 笛卡尔式的灵魂不会记得其过去的行动，因此不能负道德责任。
+      5. 因此，笛卡尔的灵魂不朽说明与正义不一致。
+    step2: |-
+      1. 在来世，灵魂必须由上帝为其过去的行动负道德责任。这是因为上帝是正义的：他必须为灵魂过去的行动奖惩它们，以使真正的正义成立。
+      2. 今生对我们过去行动的记忆，是来世道德责任所要求的。
+      3. 笛卡尔式脱身后，灵魂将经历无数变化，最终失去其 embodied 时对行动的记忆。
+      4. 笛卡尔式的灵魂不会记得其过去的行动，因此不能负道德责任。
+      5. 因此，笛卡尔的灵魂不朽说明与正义不一致。
+  - id: 82
+    kind: body
+    source: |-
+      Descartes account of the immortality of the soul also leads to patience without hope, because if moral agents cannot be held morally responsible for their actions in the next life, then they cannot have any hope that they will be rewarded for their virtue. Again, Leibniz views his ethical system as avoiding this issue, for in the kingdom of grace “there will be no good action that is unrewarded, no bad action that goes unpunished, and everything must result in the well-being of the good” (PE, *Monadology* § 90, p. 224, see also PE, *Discourse*§ 37, p. 68; for more on Leibniz’s theory of reward and punishment see Carlin 2002 and Strickland 2009)[^carlin-2002][^strickland-2009]
+    step1: |-
+      笛卡尔对灵魂不朽的说明也导致没有希望的耐心，因为如果道德行动者不能在来世为其行动负道德责任，他们便不能有任何希望：他们将因德性得到回报。再一次，莱布尼茨认为其伦理体系避免了这一问题，因为在恩典国度中“将没有不受回报的善行，没有不受惩罚的恶行，一切都必然导向善者的福祉”（PE, *Monadology* § 90, p. 224；另见 PE, *Discourse*§ 37, p. 68；莱布尼茨奖惩理论的更多内容见 Carlin 2002 与 Strickland 2009）[^carlin-2002][^strickland-2009]
+    step2: |-
+      笛卡尔对灵魂不朽的说明也导致没有希望的耐心：如果道德行动者不能在来世为其行动负道德责任，他们便不能有任何希望——他们将因德性得到回报。再一次，莱布尼茨认为其伦理体系避免了这一问题，因为在恩典国度中“将没有不受回报的善行，没有不受惩罚的恶行，一切都必然导向善者的福祉”（PE, *Monadology* § 90, p. 224；另见 PE, *Discourse*§ 37, p. 68；莱布尼茨奖惩理论的更多内容见 Carlin 2002 与 Strickland 2009）[^carlin-2002][^strickland-2009]
+  - id: 83
+    kind: oir
+    source: |-
+      - [Leibniz Translations](http://www.leibniz-translations.com/), maintained by Lloyd Strickland (Lancaster University)
+      - [Leibnitiana](http://www.gwleibniz.com/), maintained by Gregory Brown (University of Houston)
+      - [Leibnizian Resources](http://www.helsinki.fi/~mroinila/leibniz.htm), maintained by Markku Roinila (University of Helsinki)
+      - [G. W. Leibniz: Texts and Translations](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/index.php), maintained by Donald Rutherford (University of California San Diego)
+    step1: |-
+      - [莱布尼茨翻译](http://www.leibniz-translations.com/)，Lloyd Strickland 维护（兰卡斯特大学）
+      - [Leibnitiana](http://www.gwleibniz.com/)，Gregory Brown 维护（休斯顿大学）
+      - [莱布尼茨资源](http://www.helsinki.fi/~mroinila/leibniz.htm)，Markku Roinila 维护（赫尔辛基大学）
+      - [G. W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/index.php)，Donald Rutherford 维护（加州大学圣迭戈分校）
+    step2: |-
+      - [莱布尼茨翻译](http://www.leibniz-translations.com/)，Lloyd Strickland 维护（兰卡斯特大学）
+      - [Leibnitiana](http://www.gwleibniz.com/)，Gregory Brown 维护（休斯顿大学）
+      - [莱布尼茨资源](http://www.helsinki.fi/~mroinila/leibniz.htm)，Markku Roinila 维护（赫尔辛基大学）
+      - [G. W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/index.php)，Donald Rutherford 维护（加州大学圣迭戈分校）
+  - id: 84
+    kind: ack
+    source: |-
+      The author is indebted to Saja Parvizian for his help in producing the Bibliography update to this entry in September 2024.
+    step1: |-
+      作者感谢 Saja Parvizian 在 2024 年 9 月为本词条制作文献目录更新所提供的帮助。
+    step2: |-
+      作者谨谢 Saja Parvizian——他于 2024 年 9 月为本词条制作文献目录更新提供了帮助。
