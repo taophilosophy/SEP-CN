@@ -508,6 +508,34 @@
 | Dharmottara | 法上 | epistemology-language-tibetan | 佛学界通行（印度量论师） | 2026-11-04 |
 | Śākyaśrībhadra | 释迦室利跋陀罗 | epistemology-language-tibetan | 佛学界通行（克什米尔班智达） | 2026-11-04 |
 
+| Rawls, John | 约翰·罗尔斯 | ethics-deontological | 学界通行汉译（《正义论》作者） | 2026-11-04 |
+| Scanlon, Thomas | 托马斯·斯坎伦 | ethics-deontological | 学界通行汉译（《我们彼此负有什么义务》作者） | 2026-11-04 |
+| Gauthier, David | 戴维·戈蒂耶 | ethics-deontological | 学界通行汉译（《作为契约的道德》作者） | 2026-11-04 |
+| Harsanyi, John | 约翰·海萨尼 | ethics-deontological | 学界通行汉译（诺贝尔经济学奖得主） | 2026-11-04 |
+| Nozick, Robert | 罗伯特·诺齐克 | ethics-deontological | 学界通行汉译（《无政府、国家与乌托邦》作者） | 2026-11-04 |
+| Parfit, Derek | 德里克·帕菲特 | ethics-deontological | 学界通行汉译（《理与人》作者） | 2026-11-04 |
+| Nagel, Thomas | 托马斯·内格尔 | ethics-deontological | 学界通行汉译（《本然的观点》作者） | 2026-11-04 |
+| Williams, Bernard | 伯纳德·威廉斯 | ethics-deontological | 学界通行汉译（《道德运气》作者） | 2026-11-04 |
+| Anscombe, Elizabeth | 伊丽莎白·安斯康姆 | ethics-deontological | 学界通行汉译（《现代道德哲学》作者） | 2026-11-04 |
+| Foot, Philippa | 菲利帕·富特 | ethics-deontological | 学界通行汉译（电车难题原提出者） | 2026-11-04 |
+| Thomson, Judith Jarvis | 朱迪斯·贾维斯·汤姆森 | ethics-deontological | 学界通行汉译（电车难题经典论文作者） | 2026-11-04 |
+| Kamm, F.M. | F.M.卡姆 | ethics-deontological | 学界通行汉译（《义务伦理学》作者） | 2026-11-04 |
+| Scheffler, Samuel | 塞缪尔·谢弗勒 | ethics-deontological | 学界通行汉译（《人类的分裂》作者） | 2026-11-04 |
+| Quinn, Warren | 沃伦·奎因 | ethics-deontological | 学界通行汉译（义务论伦理学家；与逻辑学家 Quine 蒯因异人） | 2026-11-04 |
+| Raz, Joseph | 约瑟夫·拉兹 | ethics-deontological | 学界通行汉译（法哲学界通行） | 2026-11-04 |
+| Katz, Leo | 利奥·卡茨 | ethics-deontological | 学界惯例（lawphil-theory 同款；"avoision"生造者） | 2026-11-04 |
+| Hurd, Heidi | 海蒂·赫德 | ethics-deontological | 学界惯例（义务论/法哲学家，通行音译） | 2026-11-04 |
+| Alexander, Larry | 拉里·亚历山大 | ethics-deontological | 学界惯例（本词条作者，通行音译） | 2026-11-04 |
+| Moore, Michael | 迈克尔·摩尔 | ethics-deontological | 学界惯例（本词条作者；与 G.E. 摩尔异人） | 2026-11-04 |
+| Zimmerman, Michael | 迈克尔·齐默曼 | ethics-deontological | 学界惯例（规范伦理学家，通行音译） | 2026-11-04 |
+| Broome, John | 约翰·布鲁姆 | ethics-deontological | 学界通行汉译（《权衡生死》作者） | 2026-11-04 |
+| Taurek, John | 约翰·陶雷克 | ethics-deontological | 学界惯例（"数字不算数"论文作者，通行音译） | 2026-11-04 |
+| Sen, Amartya | 阿马蒂亚·森 | ethics-deontological | 学界通行汉译（诺贝尔经济学奖得主） | 2026-11-04 |
+| Lyons, David | 戴维·莱昂斯 | ethics-deontological | 学界惯例（规则后果主义批评者，通行音译） | 2026-11-04 |
+| MacMahan, Jeff | 杰夫·麦克马汉 | ethics-deontological | 学界惯例（《杀戮的伦理学》作者，通行音译） | 2026-11-04 |
+| Wedgewood, Ralph | 拉尔夫·韦奇伍德 | ethics-deontological | 学界惯例（心灵哲学家，通行音译） | 2026-11-04 |
+| Bacon, Francis | 弗朗西斯·培根 | ethics-deontological | 学界千年通行译名 | 2026-11-04 |
+
 ## 登记格式说明
 
 ```

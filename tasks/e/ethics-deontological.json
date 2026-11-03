@@ -2,7 +2,7 @@
   "slug": "ethics-deontological",
   "kind": "retranslate",
   "zh_doc": "e/ethics-deontological.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:58:40Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:31:39Z",
+      "evidence": "全量重译组装：18746 汉字 13 节标题对齐（含致谢节），129 条脚注定义保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:31:40Z",
+      "evidence": "逐节对照源钉（pubinfo Dec 11 2024）：段落 84:84 全对齐，内联脚注标记零缺失零多余，相关词条 7 项按 SUMMARY 定名（规则后果主义/双重效应原则/康德的道德哲学等）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:31:40Z",
+      "evidence": "check_prose 93→49：实修 44（长句拆分 27/passive 改写 9/weak-verb 3/结构 5），余 49 豁免留痕：41 de-chain 哲学论证定语结构，8 passive-bei 系道义术语（被要求/被禁止/被许可）与'被困工人'描述词，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-03T20:31:43Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 49 豁免留痕见 s2；人名 28 条登记（罗尔斯/斯坎伦/诺齐克/安斯康姆/富特/拉兹等，沃伦·奎因与蒯因异人注明）"
     }
   ],
   "blockers": [],
