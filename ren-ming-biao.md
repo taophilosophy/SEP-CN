@@ -250,11 +250,11 @@
 | Gratian | 格拉提安 | lorenzo-valla | 教会法学界通行汉译（《教令集》作者） | 2026-11-04 |
 | Edith Landmann-Kalischer | 伊迪丝·兰德曼-卡利舍尔 | landmann-kalischer | SUMMARY 定名沿用（20 世纪女哲学家，美学/价值论） | 2026-11-04 |
 | Georg Simmel | 格奥尔格·齐美尔 | landmann-kalischer | 学界通行汉译（社会学家、生命哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
-| Carl Stumpf | 卡尔·施通普夫 | landmann-kalischer | 学界通行汉译（现象学心理学先驱）；待 specs/008 审定库复核 | 2026-11-04 |
+| Carl Stumpf | 卡尔·斯图姆夫 | landmann-kalischer | SUMMARY 定名沿用（现象学心理学先驱）；待 specs/008 审定库复核 | 2026-11-05 |
 | Stefan George | 斯特凡·格奥尔格 | landmann-kalischer | 学界通行汉译（德国诗人，格奥尔格圈核心）；待 specs/008 审定库复核 | 2026-11-04 |
 | Ernst Meumann | 恩斯特·迈曼 | landmann-kalischer | 学界通行汉译（实验教育学/美学学者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Hugo Münsterberg | 雨果·明斯特伯格 | landmann-kalischer | 学界通行汉译（新康德主义心理学家）；待 specs/008 审定库复核 | 2026-11-04 |
-| Alexius Meinong | 阿历克修斯·迈农 | landmann-kalischer | 学界通行汉译（对象理论、价值论）；待 specs/008 审定库复核 | 2026-11-04 |
+| Alexius Meinong | 亚历克修斯·迈农 | landmann-kalischer | SUMMARY 定名沿用（对象理论、价值论）；待 specs/008 审定库复核 | 2026-11-05 |
 | Wilhelm Windelband | 威廉·文德尔班 | landmann-kalischer | 学界通行汉译（新康德主义西南学派创始者）；待 specs/008 审定库复核 | 2026-11-04 |
 | Heinrich Rickert | 海因里希·李凯尔特 | landmann-kalischer | 学界通行汉译（新康德主义西南学派）；待 specs/008 审定库复核 | 2026-11-04 |
 | Max Dessoir | 马克斯·德索 | landmann-kalischer | 美学界通行汉译（《美学与一般艺术学》作者，商务译本作"德索"）；待 specs/008 审定库复核 | 2026-11-04 |

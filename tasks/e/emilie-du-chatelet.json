@@ -2,7 +2,7 @@
   "slug": "emilie-du-chatelet",
   "kind": "retranslate",
   "zh_doc": "e/emilie-du-chatelet.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T13:07:04Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T16:05:17Z",
+      "evidence": "全量重译组装：19406 汉字 7 节标题对齐，108 条脚注定义保留（书目原样），29 条内容性注译出并入'脚注'节"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T16:05:17Z",
+      "evidence": "逐节对照源钉（pubinfo Jun 13 2014）：段落 64:64 全对齐，内联脚注标记零缺失零多余，IP（Institutions de physique）节引一律照源，相关词条 11 项按 SUMMARY 定名（女性主义哲学史/充足理由律等）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T16:05:17Z",
+      "evidence": "check_prose 105→70：实修 35（长句拆分 23/weak-verb 7/exists-there 3/passive 2），余 70 豁免留痕：40 de-chain 学术史定语，29 长句中多数为《奠基》法译引文内部与 70-84 区间密集论证句，1 passive 系术语'被动力'（passive force）内含被字，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T16:05:19Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 70 豁免留痕见 s2；人名 21 条登记（夏特莱侯爵夫人 SUMMARY 定名沿用/沃尔夫/莫佩尔蒂/梅朗/柯尼希/弗赖因德/凯尔等）"
     }
   ],
   "blockers": [],
