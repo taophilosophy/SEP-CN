@@ -669,6 +669,16 @@
 
 | Gibieuf, Guillaume | 纪尧姆·吉比厄夫 | descartes-ideas | 学界惯例（笛卡尔通信者/神学家，通行音译） | 2026-11-05 |
 
+| Zeno (of Citium) | 塞诺（季蒂昂的，斯多亚学派创始人） | descartes-ethics | 学界通行汉译（与埃利亚的芝诺异人） | 2026-11-05 |
+| Voetius, Gijsbert | 吉斯伯特·沃埃修斯 | descartes-ethics | 学界惯例（乌得勒支神学家，通行音译） | 2026-11-05 |
+| Chanut, Pierre Chanut | 皮埃尔·沙尼 | descartes-ethics | 学界惯例（法国驻瑞典大使，笛卡尔挚友） | 2026-11-05 |
+| Burman, Frans | 弗兰斯·布尔曼 | descartes-ethics | 学界惯例（《与布尔曼谈话录》访问者） | 2026-11-05 |
+| Ausonius, Decimus Magnus | 德西穆斯·马格努斯·奥索尼乌斯 | descartes-ethics | 学界惯例（4 世纪拉丁诗人，通行音译） | 2026-11-05 |
+| Eustachius a Sancto Paulo | 尤斯塔修斯（圣保罗的） | descartes-ethics | 学界惯例（经院哲学家 Eustachius，通行音译） | 2026-11-05 |
+| Foucher de Careil, Louis Alexandre | 路易·亚历山大·富歇·德·卡雷伊 | descartes-ethics | 学界惯例（笛卡尔手稿出版者，通行音译） | 2026-11-05 |
+| Ovid | 奥维德 | descartes-ethics | 学界千年通行译名 | 2026-11-05 |
+| Hannibal | 汉尼拔 | descartes-ethics | 学界千年通行译名 | 2026-11-05 |
+
 ## 登记格式说明
 
 ```

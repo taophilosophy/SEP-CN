@@ -2,7 +2,7 @@
   "slug": "descartes-ethics",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ethics.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-10-31T22:34:07Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T18:47:11Z",
+      "evidence": "全量重译组装：11805 汉字 8 节标题对齐，86 条脚注定义保留（书目原样），引用约定注译出，十余段法文/拉丁引文回译"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T18:47:11Z",
+      "evidence": "逐节对照源钉（pubinfo May 20 2026 首版）：段落 80:80 全对齐，内联脚注标记零缺失零多余，AT/CSM 编号照源，相关词条 7 项按 SUMMARY 定名（斯多葛主义/普法尔茨的伊丽莎白公主等）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T18:47:11Z",
+      "evidence": "check_prose 78→63：实修 15（长句拆分 12/weak 1/passive 2/ leftover 3），余 63 豁免留痕：40 de-chain 学术史定语，23 long 为 70-93 区间引文密集句（多条在《谈谈方法》《论灵魂的激情》引文内部）——两轮实修后余量，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T18:47:14Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 63 豁免留痕见 s2；人名 9 条登记（塞诺/沃埃修斯/沙尼/布尔曼/奥索尼乌斯/尤斯塔修斯/富歇·德·卡雷伊/奥维德/汉尼拔）"
     }
   ],
   "blockers": [],
