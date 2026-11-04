@@ -459,86 +459,114 @@ segments:
     kind: body
     source: |-
       Baumgarten’s philosophical works cover a wide range of topics. The 1000 sections of his *Metaphysica* of 1739 offers a synopsis of his views, following the Wolffian division, on ontology, cosmology, empirical and rational psychology, and natural theology. He also published two influential textbooks on ethics: the *Ethica philosophica* (*Philosophical Ethics*) of 1740 and *Initia philosophiae practicae primae* (*Elements of First Practical Philosophy*), both of which Kant also regularly used in his lectures on moral philosophy. Baumgarten’s abiding interest in aesthetics issued in two texts, the first a dissertation entitled *Meditationes philosophicae de nonnullis ad poema pertinentibus* (*Reflections on Poetry*) in 1735, and the second the ambitious *Aesthetica*, the first volume of which appeared in 1750, with a second unfinished volume printed (at the request of the publisher) in 1758.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鲍姆嘉通的哲学著作涵盖广泛的主题。其 1739 年《形而上学》的 1000 个小节，依沃尔夫式的划分，概述了他在本体论、宇宙论、经验心理学与理性心理学以及自然神学上的观点。他还出版了两部有影响的伦理学教科书：1740 年的《哲学伦理学》（*Ethica philosophica*，*Philosophical Ethics*）与《第一实践哲学要义》（*Initia philosophiae practicae primae*，*Elements of First Practical Philosophy*）；康德在其道德哲学讲课中也经常使用这两部书。鲍姆嘉通对美学的持久兴趣结出两部文本：第一部是 1735 年题为《论诗的若干哲学沉思》（*Meditationes philosophicae de nonnullis ad poema pertinentibus*，*Reflections on Poetry*）的学位论文；第二部是雄心勃勃的《美学》（*Aesthetica*），第一卷 1750 年问世，第二卷未完成，应出版人之请于 1758 年印行。
+    step2: |-
+      鲍姆嘉通的哲学著作题材极广。他 1739 年的《形而上学》共 1000 个小节，按沃尔夫式的划分，概述了他在本体论、宇宙论、经验心理学与理性心理学、自然神学上的全部观点。他还出版了两部影响深远的伦理学教科书：1740 年的《哲学伦理学》（*Ethica philosophica*，*Philosophical Ethics*）和《第一实践哲学要义》（*Initia philosophiae practicae primae*，*Elements of First Practical Philosophy*）——康德讲道德哲学课，也常年使用这两本书。他对美学的持久兴趣则结出了两部文本：第一部是 1735 年的学位论文《论诗的若干哲学沉思》（*Meditationes philosophicae de nonnullis ad poema pertinentibus*，*Reflections on Poetry*）；第二部便是雄心勃勃的《美学》（*Aesthetica*）——第一卷 1750 年问世，第二卷未竟，应出版人之请于 1758 年印行。
   - id: 58
     kind: body
     source: |-
       ### 4.2 Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 哲学
+    step2: |-
+      ### 4.2 哲学
   - id: 59
     kind: body
     source: |-
       Baumgarten’s metaphysics is frequently characterized as inclining more towards Leibniz than to the “Leibnizian-Wolffian” philosophy; for instance, he makes explicit reference to monads in his presentation of ontology and cosmology, and concerning the pre-established harmony he accepts that it obtains between all substances (not just between soul and body) and does not qualify his endorsement of the system as Wolff came to do (Baumgarten 1739: §761–9; cf. Watkins 2005: 73–81 for discussion)[^baumgarten-1739][^watkins-2005]. While there is no doubt that Baumgarten adopts a fundamentally Leibnizian picture in his ontology, including the endorsement of the principle of sufficient reason, to leave it at this would be to ignore the important and fruitful role that his Pietist background plays in his philosophical thought (Look 2018)[^look-2018]. Indeed, Baumgarten’s originality as a thinker consists in his efforts to amend key planks of Leibnizian (and Wolffian) thinking in light of his underlying Pietist commitments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鲍姆嘉通的形而上学常被刻画为更偏向莱布尼茨，而非“莱布尼茨—沃尔夫学派”哲学；例如，他在陈述本体论与宇宙论时明确提及单子；关于前定和谐，他接受它存在于一切实体之间（而不仅在灵魂与身体之间），并且不像沃尔夫后来那样对他的背书加以限定（Baumgarten 1739: §761–9；讨论见 Watkins 2005: 73–81）[^baumgarten-1739][^watkins-2005]。毫无疑问，鲍姆嘉通在本体论中采纳了一幅根本上是莱布尼茨式的图景，包括对充足理由原则的背书；但仅止于此，就会忽视其虔敬派背景在哲学思想中所扮演的重要而多产的角色（Look 2018）[^look-2018]。事实上，鲍姆嘉通作为思想家的独创性，正在于他力图依其底层的虔敬派承诺来修正莱布尼茨（和沃尔夫）思想的若干关键支柱。
+    step2: |-
+      人们常说，鲍姆嘉通的形而上学偏向莱布尼茨，甚于偏向“莱布尼茨—沃尔夫学派”哲学。比方说：陈述本体论和宇宙论时，他明确点出单子；论前定和谐，他接受它存在于一切实体之间（而不仅在灵魂与身体之间），而且不像沃尔夫后来那样给自己的背书打折扣（Baumgarten 1739: §761–9；相关讨论见 Watkins 2005: 73–81）[^baumgarten-1739][^watkins-2005]。鲍姆嘉通在本体论里采纳了一幅根本上的莱布尼茨式图景——包括对充足理由原则的背书——这没有疑问；可若仅止于此，就看不到他的虔敬派出身在其哲学思想中扮演的那个重要而多产的角色了（Look 2018）[^look-2018]。事实上，鲍姆嘉通的独创性正在这里：他依其底层的虔敬派承诺，动手修补莱布尼茨（和沃尔夫）思想的几根关键支柱。
   - id: 60
     kind: body
     source: |-
       This is particularly evident in Baumgarten’s treatment of freedom and immortality, where Wolff’s position on each was targeted by his Pietist critics. By way of addressing the Pietist objections to Wolff’s moral intellectualism and his reduction of freedom to mere spontaneity, Baumgarten offers an enriched empirical psychology, one that considers the influence of expectations of the future (and a future life) as motives, that allows that immoral action can proceed not only from ignorance but also from less lively cognition of the good, and that explicitly distinguishes spontaneity from freedom proper (Kawamura 1996; Schwaiger 2011)[^kawamura-1996][^schwaiger-2011]. On the topic of immortality, the Pietists had likewise objected to Wolff’s emphasis on the human soul’s preservation of its *cognitive* capacities in the afterlife, which state seems for Wolff to be disconnected to the human’s cultivation of virtue and piety in this life. Baumgarten seeks to rectify this by arguing that in addition to preserving its cognitive capacities in the afterlife, the soul will also retain its moral capacities including freedom, and that its condition of blessedness or damnation in the life to come will be a direct function of its moral condition (1739: §§782, 791; Dyck 2018)[^dyck-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一点在鲍姆嘉通对自由与不朽的处理中尤为明显；沃尔夫在这两个问题上的立场都曾是其虔敬派批评者的靶子。为了回应虔敬派对沃尔夫道德理智主义及其把自由还原为单纯自发性的批评，鲍姆嘉通提供了一种丰富化的经验心理学：它考虑对未来的（以及来世的）期许作为动机的影响；它允许不道德的行动不仅可以源于无知，也可以源于对善的较不生动的认识；它明确区分了自发性与严格意义的自由（Kawamura 1996; Schwaiger 2011）[^kawamura-1996][^schwaiger-2011]。在不朽问题上，虔敬派同样反对沃尔夫强调人类灵魂在身后保存其*认知*官能——在沃尔夫那里，这种状态似乎与人在此世对德性与虔诚的培养脱节。鲍姆嘉通力图矫正这一点：他论证说，灵魂除了在身后保存其认知官能之外，还将保有包括自由在内的道德官能；它在来世的福乐或诅咒的境况，将是其道德境况的直接函数（1739: §§782, 791; Dyck 2018）[^dyck-2018]。
+    step2: |-
+      这在鲍姆嘉通处理自由与不朽时最为显眼——沃尔夫在这两点上的立场，正是虔敬派批评者瞄准的靶心。为回应虔敬派对沃尔夫道德理智主义、以及把自由还原为单纯自发性的抨击，鲍姆嘉端出了一套加料的经验心理学：把对未来的（以及来世的）期许作为动机计入其影响；承认不道德行动不仅可以出自无知，也可以出自对善的认识不够鲜活；并把自发性同严格意义的自由明确区分开来（Kawamura 1996; Schwaiger 2011）[^kawamura-1996][^schwaiger-2011]。不朽问题上，虔敬派同样不满沃尔夫：他只强调人类灵魂在身后保存其*认知*官能——这层状态在他那里似乎同人在此世培养德性与虔诚毫不相干。鲍姆嘉通要矫正的正是这一点：他论证说，灵魂在身后除了保存认知官能，还将保有包括自由在内的道德官能；它在来世得福乐还是受诅咒，将是其道德境况的直接函数（1739: §§782, 791; Dyck 2018）[^dyck-2018]。
   - id: 61
     kind: body
     source: |-
       Consistent with his orientation in metaphysics, Baumgarten is an original moral philosopher within the Wolffian tradition. He is notable, for instance, for the centrality of the notion of obligation in his ethics (Schierbaum and Walschots 2024)[^walschots-2024][^schierbaum-2024]. Wolff had framed a novel concept of obligation, rooted in the nature of things and actions themselves rather than the will of a sovereign, in accordance with which an obligation arises simply insofar as some motive is naturally connected to an action (GE §9). Yet, whereas Wolff only treats obligation briefly before considering specific duties, in Baumgarten’s hands the problem of obligation becomes the unifying theme for ethics, particularly in his *Initia* (Schwaiger 2009)[^schwaiger-2009]. Moreover, while Baumgarten accepts Wolff’s ethical perfectionism, in contrast with Wolff he downplays the connection between perfection and happiness, perhaps in response to Pietist denunciations of Wolff’s perfectionism as a veiled form of hedonism (Schwaiger 2011: 163ff; Bacin 2015)[^bacin-2015][^schwaiger-2011]. A last innovation is Baumgarten’s consideration of the ways in which ethical systems themselves can be flawed in that, for instance, they make a virtuous condition too easily attainable (flattering ethics) or set the bar for virtue too high for human nature (chimerical ethics) (Thorndike 2008; Dyck 2012)[^dyck-2012][^thorndike-2008].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与其形而上学取向一致，鲍姆嘉通是沃尔夫派传统内一位有独创性的道德哲学家。例如，他之著称，在于义务概念在其伦理学中的核心地位（Schierbaum and Walschots 2024）[^walschots-2024][^schierbaum-2024]。沃尔夫曾提出一种新颖的义务概念，植根于事物与行动自身的本性，而非君主的意志；按照这一概念，义务之产生，仅在于某动机与某行动天然相连（GE §9）。然而，沃尔夫只是在考虑具体义务之前简略处理义务，而在鲍姆嘉通手中，义务问题成为伦理学的统摄主题，在其《要义》（*Initia*）中尤为如此（Schwaiger 2009）[^schwaiger-2009]。此外，鲍姆嘉通接受沃尔夫的伦理至善论，但与沃尔夫不同，他淡化了完善与幸福之间的联系，或许是为了回应虔敬派对沃尔夫至善论的抨击——他们斥之为一种变相的快乐主义（Schwaiger 2011: 163ff; Bacin 2015）[^bacin-2015][^schwaiger-2011]。最后一项创新，是鲍姆嘉通对伦理体系自身可能如何出错的考察：例如，体系把德性境况弄得唾手可得（谄媚伦理学），或把德性的标准设得超出人性所能（空想伦理学）（Thorndike 2008; Dyck 2012）[^dyck-2012][^thorndike-2008]。
+    step2: |-
+      与其形而上学取向相一致，鲍姆嘉通还是沃尔夫派传统中一位有独创性的道德哲学家。比方说，义务概念在他的伦理学中占据核心位置，这一点让他格外显眼（Schierbaum and Walschots 2024）[^walschots-2024][^schierbaum-2024]。沃尔夫曾提出一种新颖的义务概念：义务植根于事物与行动自身的本性，而不在君主的意志；按这一概念，只要某个动机与某个行动天然相连，义务便随之而生（GE §9）。然而沃尔夫只是点到即止，随后就转入具体义务；到了鲍姆嘉通手里，义务问题却成了伦理学的统摄主题——他的《要义》（*Initia*）尤其如此（Schwaiger 2009）[^schwaiger-2009]。此外，鲍姆嘉通接受沃尔夫的伦理至善论，却比沃尔夫更淡化完善与幸福的联系——或许正是为了回应虔敬派对沃尔夫至善论的口诛笔伐：他们斥之为变相的快乐主义（Schwaiger 2011: 163ff; Bacin 2015）[^bacin-2015][^schwaiger-2011]。最后一项创新：鲍姆嘉通还考察了伦理体系自身会怎样出毛病——比如，体系把德性境况说得唾手可得（谄媚伦理学），或者把德性标准抬到人性够不着的高度（空想伦理学）（Thorndike 2008; Dyck 2012）[^dyck-2012][^thorndike-2008]。
   - id: 62
     kind: body
     source: |-
       Turning finally to Baumgarten’s aesthetics, it is notable that while Wolff himself had comparatively little to say about the philosophy of art (but see Beiser 2009; and Buchenau 2013)[^beiser-2009][^buchenau-2013], a number of thinkers in the Wolffian tradition took a keen interest in the topic. The first to develop a theory of the arts, particularly poetry, was Johann Christoph Gottsched (1700–1766), who published his *Versuch einer critischen Dichtkunst vor die Deutschen* (*Attempt at a Critical Poetry for the Germans*) in 1730. Treating poetry scientifically, he set out a set of rules that were to guide the composition. Given his conception of what a poem was (a moral fable) and given as well his idea of what was involved in its composition (a set of rules), there was little room here for beauty and even less for sentiment and inspiration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后转向鲍姆嘉通的美学。值得注意的是，虽然沃尔夫本人对艺术哲学相对少有论述（但见 Beiser 2009；Buchenau 2013）[^beiser-2009][^buchenau-2013]，沃尔夫派传统中的不少思想家却对这一话题兴致浓厚。第一个发展出艺术理论——尤其是诗论——的是约翰·克里斯托弗·戈特舍德（Johann Christoph Gottsched，1700–1766）；他于 1730 年出版了《为德国人试作一种批判的诗学》（*Versuch einer critischen Dichtkunst vor die Deutschen*，*Attempt at a Critical Poetry for the Germans*）。他以科学的态度对待诗，立下一套指导创作的规则。鉴于他对诗的理解（一首道德寓言）以及他对创作所含内容的理解（一套规则），这里几乎没有为美留下余地，为情感与灵感留下的余地就更少了。
+    step2: |-
+      最后来看鲍姆嘉通的美学。值得注意：沃尔夫本人对艺术哲学着墨甚少（但见 Beiser 2009；Buchenau 2013）[^beiser-2009][^buchenau-2013]，沃尔夫派传统里却不乏对这一话题兴致浓厚的思想家。头一个发展出艺术理论——尤其是诗论——的，是约翰·克里斯托弗·戈特舍德（Johann Christoph Gottsched，1700–1766）：1730 年，他出版了《为德国人试作一种批判的诗学》（*Versuch einer critischen Dichtkunst vor die Deutschen*，*Attempt at a Critical Poetry for the Germans*）。他用科学的眼光看诗，立下一套指导创作的规则。可他既把诗理解为道德寓言，又把创作理解为按规则行事，那么这里留给美的空间就所剩无几，留给情感与灵感的就更少了。
   - id: 63
     kind: body
     source: |-
       It was left to Baumgarten to formulate a recognizably modern aesthetic doctrine on Wolffian foundations. This he did through focusing on the soul’s faculty of sensibility, ultimately identifying aesthetics as the science of sensible cognition. Where Wolff had conceived of the senses merely as providing the raw material for thinking, Baumgarten thought that the senses had their own rules and their own perfection, rules and perfection that differ from logical rules and the knowledge generated by the process of intellectual clarification. So, while representations might be logically perfect and attain to intensive clarity insofar as we distinguish a number of marks within it, representations of the senses, even as confused representations, can attain to *extensive* clarity inasmuch as they represent a multitude of things (Baumgarten 1735: §17)[^baumgarten-1735]. In this way, poetic representation can be richer, and more moving, than representations attained through the use of the understanding—moving since Baumgarten contends that such representations as (aesthetically) perfect can occasion pleasure in us, and accordingly can also play a role in the development of our character (Spalinger 2025)[^spalinger-2025].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在沃尔夫派的基础上制定一种可辨认的现代美学学说，这一任务留给了鲍姆嘉通。他的做法是聚焦于灵魂的感受性官能，最终把美学认定为感性认识的科学。沃尔夫只把感官设想为为思维提供原材料；鲍姆嘉通则认为，感官有它自己的规则与它自己的完善——不同于逻辑规则、也不同于理智澄清过程所产生的知识的规则与完善。因此，虽然表象可以在逻辑上完善，并在我们于其中分辨出若干标记的范围内达到*强度上的*清晰，感官的表象——哪怕作为混乱的表象——却可以达到*广度上的*清晰，因为它们表象了众多的事物（Baumgarten 1735: §17）[^baumgarten-1735]。如此一来，诗的表象可以比借助知性获得的表象更丰富、更动人——之所以动人，是因为鲍姆嘉通主张，这类（审美上）完善的表象能在我们心中引发愉悦，因而也能在品性的养成中发挥作用（Spalinger 2025）[^spalinger-2025]。
+    step2: |-
+      在沃尔夫派的地基上，立起一种一眼可辨的现代美学学说——这活儿留给了鲍姆嘉通。他的路径是聚焦灵魂的感受性官能，最终把美学界定为感性认识的科学。沃尔夫只把感官当作思维的原料供应站；鲍姆嘉通却认为，感官自有其规则、自有其完善——既不同于逻辑规则，也不同于理智澄清过程所生成的知识。于是：一个表象可以在逻辑上完善——只要我们能在其中分辨出若干标记，它就达到了*强度上的*清晰；而感官的表象，哪怕是混乱的表象，也能达到*广度上的*清晰——因为它们把众多事物一并表象出来（Baumgarten 1735: §17）[^baumgarten-1735]。照此，诗的表象可以比知性的产物更丰富、更动人——之所以动人，是因为在鲍姆嘉通看来，这类（审美上）完善的表象能撩起我们心中的愉悦，因而也能在品性养成中派上用场（Spalinger 2025）[^spalinger-2025]。
   - id: 64
     kind: body
     source: |-
       ## 5. Christian August Crusius
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 克里斯蒂安·奥古斯特·克鲁修斯
+    step2: |-
+      ## 5 克里斯蒂安·奥古斯特·克鲁修斯
   - id: 65
     kind: body
     source: |-
       As Baumgarten sought in a conciliatory spirit to make the Wolffian philosophy responsive to Pietist concerns, Christian August Crusius mounted a renewed, Pietist-inspired but philosophically-sophisticated assault on the foundations of that system. Through his dissertations and textbooks, Crusius succeeded in raising trenchant objections to the Leibnizian-Wolffian philosophy, and indeed to the strongest forms of philosophical rationalism, and he formulated an influential and systematic alternative in which the will and its freedom are central concerns.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当鲍姆嘉通以和解的精神力图使沃尔夫派哲学回应虔敬派的关切时，克里斯蒂安·奥古斯特·克鲁修斯（Christian August Crusius）对该体系的根基发动了一场新的攻势——受虔敬派启发，但在哲学上精湛老练。通过其学位论文与教科书，克鲁修斯成功地对莱布尼茨—沃尔夫学派哲学——实际上是对最强形态的哲学理性主义——提出了犀利的反驳，并制定了一个有影响、成体系的替代方案；在其中，意志及其自由是核心关切。
+    step2: |-
+      鲍姆嘉通摆出和解的姿态，力图让沃尔夫派哲学听得进虔敬派的关切；克里斯蒂安·奥古斯特·克鲁修斯（Christian August Crusius）却不然——他对这一体系的根基发动了一场新攻势：受虔敬派启发，哲学上却精湛老练。凭着手头的学位论文和教科书，克鲁修斯对莱布尼茨—沃尔夫学派哲学——实际上是对最强形态的哲学理性主义——打出了一记记犀利的重拳，并立起一套影响深远、体系严整的替代方案：在这套方案里，意志及其自由居于核心。
   - id: 66
     kind: body
     source: |-
       ### 5.1 Life and Works
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 生平与著作
+    step2: |-
+      ### 5.1 生平与著作
   - id: 67
     kind: body
     source: |-
       Christian August Crusius was born 10 June 1715 in Leuna, near Halle, the son of a pastor (and his mother was a pastor’s daughter). He matriculated at the University of Leipzig in 1734, where he studied a number of subjects but was particularly interested in theology and philosophy. At Leipzig, Crusius came under the influence of the philosopher (and physician) Adolf Friedrich Hoffmann (1707–1741), a disciple of Andreas Rüdiger (1673–1731) who had been a close associate of Thomasius. Crusius attained the *Magister* in philosophy in 1737 and habilitated in philosophy in 1740. He followed his philosophical studies with a baccalaureat in theology in 1742, though he would proceed to seek a position in the philosophy faculty. To this end, he defended two dissertations in philosophy, one of which, the *Dissertatio philosophica de usu et limitibus principii rationis determinantis, vulgo sufficientis* (*Philosophical Dissertation on the Use and Limits of the Principle of Determining Reason, commonly called Sufficient*) of 1743 was a critical discussion of the principle of sufficient reason. He became a professor of philosophy (*extraordinarius*) at Leipzig in 1744.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克里斯蒂安·奥古斯特·克鲁修斯（Christian August Crusius）1715 年 6 月 10 日生于哈勒附近的莱纳（Leuna），是一位牧师的儿子（母亲也是牧师之女）。他 1734 年注册入莱比锡大学，修习多门学科，但尤其对神学与哲学感兴趣。在莱比锡，克鲁修斯受到哲学家（兼医生）阿道夫·弗里德里希·霍夫曼（Adolf Friedrich Hoffmann，1707–1741）的影响；霍夫曼是安德烈亚斯·吕迪格（Andreas Rüdiger，1673–1731）的门徒，而吕迪格曾是托马修斯的亲密同道。克鲁修斯 1737 年获哲学硕士（*Magister*）学位，1740 年在哲学系取得教授资格。1742 年，他在哲学学业之后又取得神学学士学位，不过他随后寻求的是哲学系的职位。为此，他答辩了两篇哲学学位论文，其中一篇——1743 年的《论决定理由原则（俗称充足理由原则）的运用与界限的哲学学位论文》（*Dissertatio philosophica de usu et limitibus principii rationis determinantis, vulgo sufficientis*，*Philosophical Dissertation on the Use and Limits of the Principle of Determining Reason, commonly called Sufficient*）——是对充足理由原则的批判性讨论。1744 年，他成为莱比锡的哲学教授（编外，*extraordinarius*）。
+    step2: |-
+      克里斯蒂安·奥古斯特·克鲁修斯（Christian August Crusius）1715 年 6 月 10 日生于哈勒附近的莱纳（Leuna），父亲是牧师，母亲也是牧师之女。1734 年他注册入莱比锡大学，科目修了不少，兴致却特别放在神学与哲学上。在莱比锡，对他影响最深的是哲学家（兼医生）阿道夫·弗里德里希·霍夫曼（Adolf Friedrich Hoffmann，1707–1741）；霍夫曼是安德烈亚斯·吕迪格（Andreas Rüdiger，1673–1731）的门徒，而吕迪格当年是托马修斯的亲密同道。克鲁修斯 1737 年获哲学硕士（*Magister*）学位，1740 年取得哲学教授资格。1742 年，他在哲学学业之外又拿下神学学士学位，不过他谋求的始终是哲学系的教职。为此他答辩了两篇哲学学位论文，其中一篇——1743 年的《论决定理由原则（俗称充足理由原则）的运用与界限的哲学学位论文》（*Dissertatio philosophica de usu et limitibus principii rationis determinantis, vulgo sufficientis*，*Philosophical Dissertation on the Use and Limits of the Principle of Determining Reason, commonly called Sufficient*）——就是对充足理由原则的批判性讨论。1744 年，他出任莱比锡哲学编外教授（*extraordinarius*）。
   - id: 68
     kind: body
     source: |-
       Crusius’ major philosophical works followed in quick succession. He published his textbook on ethics, the *Anweisung vernünftig zu Leben* (*Guide to Rational Living*) in 1744; this was followed by the elaboration of his metaphysics, *Entwurf der nothwendigen Vernunft-Wahrheiten* (*Sketch of the Necessary Truths of Reason*) in 1745; and a text in logic, the *Weg zur Gewißheit und Zuverläßigkeit der menschlichen Erkenntiß* (*Path to the Certainty and Reliability of Human Cognition*) was published in 1747 (a final philosophical treatise on physics followed in 1749). As an ordinary professorship in philosophy was not available, Crusius joined the theology faculty at Leipzig in 1750. While he remained a member of the philosophy faculty and continued his lectures (and revised his previous publications for later editions), from this point on his original publications are devoted to theological topics. He died in Leipzig on 18 October 1775.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克鲁修斯的主要哲学著作接踵而至。1744 年，他出版伦理学教科书《合理生活指南》（*Anweisung vernünftig zu Leben*，*Guide to Rational Living*）；其后是其形而上学的展开，《必然理性真理之草案》（*Entwurf der nothwendigen Vernunft-Wahrheiten*，*Sketch of the Necessary Truths of Reason*）于 1745 年问世；1747 年又出版一部逻辑学文本《人类认识之确定性与可靠性之路》（*Weg zur Gewißheit und Zuverläßigkeit der menschlichen Erkenntiß*，*Path to the Certainty and Reliability of Human Cognition*）（最后一部论物理学的哲学论著于 1749 年问世）。由于哲学正教授职位无缺，克鲁修斯于 1750 年转入莱比锡神学系。虽然他仍是哲学系成员并继续授课（且为后续版本修订其先前出版物），但从此时起，他的原创出版物转向神学主题。1775 年 10 月 18 日，他卒于莱比锡。
+    step2: |-
+      克鲁修斯的主要哲学著作一部接一部：1744 年，伦理学教科书《合理生活指南》（*Anweisung vernünftig zu Leben*，*Guide to Rational Living*）出版；接着是形而上学的系统展开，《必然理性真理之草案》（*Entwurf der nothwendigen Vernunft-Wahrheiten*，*Sketch of the Necessary Truths of Reason*）1745 年问世；1747 年又出一部逻辑学文本《人类认识之确定性与可靠性之路》（*Weg zur Gewißheit und Zuverläßigkeit der menschlichen Erkenntiß*，*Path to the Certainty and Reliability of Human Cognition*）（最后一部物理学题材的哲学论著 1749 年出版）。哲学正教授一席难得，克鲁修斯便在 1750 年转入莱比锡神学系。哲学系成员的身份他仍然保留，课也照讲（旧著还为再版不断修订），但从此以后，他的原创著述都献给神学题目了。1775 年 10 月 18 日，克鲁修斯卒于莱比锡。
   - id: 69
     kind: body
     source: |-
       ### 5.2 Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 哲学
+    step2: |-
+      ### 5.2 哲学
   - id: 70
     kind: body
     source: |-
       Crusius is widely and rightly regarded as the most sophisticated philosopher within the so-called “Thomasian-Pietist tradition” (on the appropriateness of such a designation, see Fugate 2026)[^fugate-2026]. Crusius sets out to offer an alternative to the core claims of the Leibnizian-Wolffian philosophy on topics in metaphysics, epistemology, logic and practical philosophy. As Lange had previously, Crusius targets the principle of sufficient reason, and its employment in Leibnizian-Wolffian metaphysics, for criticism. Crusius diagnoses a number of ambiguities in the Wolffian presentation of the principle. He opts to refer to a reason (*ratio*; *Grund*) that, when present, determines something to come to be such that the opposite would be impossible as a *determining reason*, and accordingly refers to the principle (in the sense intended by Leibniz and Wolff) as the *principle of determining reason* (Crusius 1743: §II–III)[^crusius-1743]. Crusius then critically discusses each of Wolff’s attempts to prove the principle—concerning the first such proof (presented in §3.1, above), Crusius claims that the most charitable reconstruction of it is circular. To show this, Crusius reformulates Wolff’s proof as the following syllogism (using Wolff’s preferred terminology):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克鲁修斯被广泛且正当地视为所谓“托马修斯—虔敬派传统”中最精湛的哲学家（关于这一称谓是否恰当，见 Fugate 2026）[^fugate-2026]。克鲁修斯立志在形而上学、认识论、逻辑与实践哲学诸问题上，为莱布尼茨—沃尔夫学派哲学的核心主张提供一种替代方案。与先前的朗格一样，克鲁修斯把批判的矛头对准充足理由原则及其在莱布尼茨—沃尔夫学派形而上学中的运用。克鲁修斯诊断出沃尔夫式陈述中的若干歧义。他选择把这样一种理由（*ratio*；*Grund*）称为*决定理由*：当它在场时，它决定某物生成，以至于相反的情况不可能；并据此把（莱布尼茨与沃尔夫所意指的）那一原则称为*决定理由原则*（Crusius 1743: §II–III）[^crusius-1743]。随后，克鲁修斯逐一批判性讨论沃尔夫证明该原则的诸次尝试——关于第一次证明（见上文 §3.1），克鲁修斯声称，对它最宽容的重构也是循环的。为表明这一点，克鲁修斯把沃尔夫的证明重新表述为如下三段论（使用沃尔夫偏好的术语）：
+    step2: |-
+      克鲁修斯被公认——而且当之无愧——是所谓“托马修斯—虔敬派传统”中最精湛的哲学家（这个称谓是否贴切，见 Fugate 2026）[^fugate-2026]。他的志向，是在形而上学、认识论、逻辑与实践哲学的各个题目上，替莱布尼茨—沃尔夫学派哲学的核心主张立一个替代方案。朗格当年瞄准的靶子，克鲁修斯接着打：充足理由原则，以及它在莱布尼茨—沃尔夫学派形而上学中的运用。克鲁修斯诊断出沃尔夫式陈述里的若干歧义。他把这样一种理由（*ratio*；*Grund*）称作*决定理由*：它在场时便决定某物生成，以至于相反情况根本不可能；并据此把（莱布尼茨和沃尔夫意指的那条）原则称作*决定理由原则*（Crusius 1743: §II–III）[^crusius-1743]。接着，克鲁修斯逐一批判沃尔夫证明该原则的历次尝试——就说第一次证明（见上文 §3.1）：克鲁修斯断言，哪怕按最宽容的方式重构，它也是循环的。为挑明这一点，他把沃尔夫的证明改写成下面这个三段论（用沃尔夫自己偏好的术语）：
   - id: 71
     kind: body
     source: |-
