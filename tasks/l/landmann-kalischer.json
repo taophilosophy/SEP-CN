@@ -2,7 +2,7 @@
   "slug": "landmann-kalischer",
   "kind": "retranslate",
   "zh_doc": "l/landmann-kalischer.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-04T15:22:35Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T16:25:58Z",
+      "evidence": "draft+compose: lq.py 守恒门 90 段全绿（source 逐字符一致，残余=0）；相关词条 3 未匹配项按 SUMMARY 定名回填（美学的概念/审美体验/审美判断）；斯图姆夫与亚历克修斯·迈农按 SUMMARY 归一（ren-ming-biao/ci-hui-biao 同步）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T16:25:58Z",
+      "evidence": "s1 一校：check_prose 79→16（两轮 SUBS 批修 script/tmp_lk_prose*.py）；16 项残余均为直接引语内部结构（普日瓦拉/舍恩哈尔叙述句已实修），ADR-0020 引文豁免：引文内长句(L84/92/120/146)、引文内三'的'(L18/30/64/76/104/112/144/164/180/146)、引文内被字(L140)、引文内存在着(L146)——引文照录忠实所需"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T16:25:58Z",
+      "evidence": "s2 二校：术语 16 条（感情/无利害性/幻想/原初现象/倾向论的/错觉/移情/美善合一/美的灵魂/格奥尔格圈/认识的超越/价值判断/审美直观/审美心境/世内的/内涵）+人名 28 条（齐美尔/施通普夫/斯特凡·格奥尔格/迈农/德索/康托洛维茨等）登记入册；check_terms 硬错误 0（Stumpf 按 SUMMARY 定名斯图姆夫归一三处）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T16:26:01Z",
+      "evidence": "s3 三校：check_style 0（13 处 italic-cjk 中文斜体改平文——粗体与守恒硬门冲突，同 lorenzo-valla 先例）；check_academic --strict OK；check_math 0；check_prose 复跑 16 项全为引文豁免"
     }
   ],
   "blockers": [],

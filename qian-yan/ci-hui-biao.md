@@ -623,7 +623,7 @@
 |Cardano|卡尔达诺||
 |Cardinal|枢机主教||
 |Carl Friedrich Stumpf|卡尔·弗里德里希·斯图姆夫||
-|Carl Stumpf|卡尔·施通普夫|对齐人名表（2026-11-04）||
+|Carl Stumpf|卡尔·斯图姆夫|对齐 SUMMARY 与人名表（2026-11-05）||
 |Carnap|卡尔纳普||
 |Carneades|卡涅阿德斯||
 |Cassirer|卡西尔||
