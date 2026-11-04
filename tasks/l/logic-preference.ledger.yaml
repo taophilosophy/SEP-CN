@@ -46,7 +46,7 @@ segments:
     step1: |-
       行动者作比较时，产生的偏好或者只反映其自身趣味、无需外部证成，或者源自得到外部证成的特定理由。纯粹基于行动者自身趣味而形成的偏好称为*内在偏好*；反之，能由外部理由解释或证成的偏好称为*外在偏好*。在本词条中，von Wright（1963）提出的这一著名区分，是引介偏好逻辑中经典与当代工作的中心主题。
     step2: |-
-      行动者作比较时，产生的偏好或者只反映其自身趣味、无需外部证成，或者源自得到外部证成的特定理由。纯粹基于行动者自身趣味而形成的偏好称为*内在偏好*；反之，能由外部理由解释或证成的偏好称为*外在偏好*。本词条以 von Wright（1963）的这一著名区分为中心主题，引介偏好逻辑中的经典与当代工作。
+      行动者作比较时，产生的偏好或者只反映其自身趣味、无需外部证成，或者源自得到外部证成的特定理由。纯粹基于行动者自身趣味而形成的偏好称为内在偏好；反之，能由外部理由解释或证成的偏好称为外在偏好。本词条以 von Wright（1963）的这一著名区分为中心主题，引介偏好逻辑中的经典与当代工作。
   - id: 6
     kind: body
     source: |-
@@ -54,7 +54,7 @@ segments:
     step1: |-
       外在偏好要求模型中额外的要素，以同时表示偏好与证成它们的理由。这类理由可以是优先性、对象属性或价值。逻辑与理性选择理论中已提出若干主要框架——在这两个学科中，偏好传统上被当作固定的。“双层结构”一词将用来描述这些框架。这一更丰富的建模方式使推理不仅针对偏好本身，也针对其底层理由。有趣的是，道义逻辑中可以看到平行的发展：基于规范的语义为道义概念引入了附加结构，与外在偏好模型背后的想法高度契合。
     step2: |-
-      外在偏好要求模型中有额外要素，以同时表示偏好与证成它们的理由。这类理由可以是优先性、对象属性或价值。逻辑与理性选择理论中已提出若干主要框架——在这两个学科中，偏好传统上被当作固定的。“双层结构”一词将用来描述这些框架。这一更丰富的建模方式，使推理不仅针对偏好本身，也针对其底层理由。有趣的是，道义逻辑中可见平行的发展：基于规范的语义为道义概念引入附加结构，与外在偏好模型背后的想法高度契合。
+      外在偏好要求模型中有额外要素，以同时表示偏好与证成它们的理由。这类理由可以是优先性、对象属性或价值。逻辑与理性选择理论中已提出若干主要框架——在这两个学科中，偏好传统上被当作固定的。“双层结构”一词将用来描述这些框架。这一更丰富的建模方式，使推理不仅针对偏好本身，也针对其底层理由。有趣的是，道义逻辑中可见一种平行发展：基于规范的语义为道义概念引入附加结构，与外在偏好模型背后的想法高度契合。
   - id: 7
     kind: body
     source: |-
@@ -102,25 +102,23 @@ segments:
     step1: |-
       Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻辑分析的起点，是所有其他偏好逻辑的参照点。Halldén 以两个新联结词扩充命题逻辑——他称之为“伦理联结词”：“更好”($>$)与“一样好”($\equiv$)。他区分了 $\equiv$ 的肯定义与否定义，由此得出理论 A 与理论 B。理论 A 基于*肯定义*，形式上由 $p\equiv q$ 当且仅当对一切 r，$r>p$ 当且仅当 $r>q$，且 $p>r$ 当且仅当 $q>r$ 给出。理论 B 基于*否定义*，其中 $p\equiv q$ 即 $\neg(p>q)\land \neg(q>p)$。
     step2: |-
-      Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻辑分析的起点，是所有其他偏好逻辑的参照点。Halldén 以两个新联结词扩充命题逻辑——他称之为“伦理联结词”：“更好”($>$)与“一样好”($\equiv$)。他区分 $\equiv$ 的肯定义与否定义，由此得出理论 A 与理论 B。理论 A 基于*肯定义*，形式上由 $p\equiv q$ 当且仅当对一切 r，$r>p$ 当且仅当 $r>q$，且 $p>r$ 当且仅当 $q>r$ 给出。理论 B 基于*否定义*，其中 $p\equiv q$ 即 $\neg(p>q)\land \neg(q>p)$。
+      Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻辑分析的起点，是所有其他偏好逻辑的参照点。Halldén 以两个新联结词扩充命题逻辑——他称之为“伦理联结词”：“更好”($>$)与“一样好”($\equiv$)。他区分 $\equiv$ 的肯定义与否定义，由此得出理论 A 与理论 B。理论 A 基于肯定义，形式上由 $p\equiv q$ 当且仅当对一切 r，$r>p$ 当且仅当 $r>q$，且 $p>r$ 当且仅当 $q>r$ 给出。理论 B 基于否定义，其中 $p\equiv q$ 即 $\neg(p>q)\land \neg(q>p)$。
   - id: 13
     kind: body
     source: |-
       The sentences, built up from propositional variables and ordinary truth-functional connectives as well as the two new connectives, are called “A-formulas”. They follow the usual convention of leaving out brackets, with the reading then based on decreasing binding order for $\neg$, $>$, $\equiv$, $\land$, $\lor$, $\rightarrow$, $\leftrightarrow$.
     step1: |-
       由命题变元与普通真值函项联结词以及两个新联结词构造起来的句子称为“A 公式”。它们遵循惯常的省略括号约定，读法基于递减的结合次序：$\neg$、$>$、$\equiv$、$\land$、$\lor$、$\rightarrow$、$\leftrightarrow$。
-ightarrow$、$\leftrightarrow$。
     step2: |-
       由命题变元、普通真值函项联结词以及两个新联结词构造起来的句子称为“A 公式”。它们遵循惯常的省略括号约定，读法基于递减的结合次序：$\neg$、$>$、$\equiv$、$\land$、$\lor$、$\rightarrow$、$\leftrightarrow$。
-ightarrow$、$\leftrightarrow$。
   - id: 14
     kind: body
     source: |-
       **Theory A.** Theory A, presented in Figure 1, is an extension of propositional calculus. Postulates $A_1–A_5$ show that Halldén treats $>$ as an asymmetrical and transitive relation, i.e., a partial order, while “$\equiv$” is treated as a reflexive, symmetrical and transitive relation, i.e., an equivalence relation. Halldén traced these assumptions back to Menger as early as 1939 (cf. Menger 1939)[^menger-1939]. $A_6$ concerns the interrelationship between the notions of better and equal value. The expansion principles $A_7$ and $A_8$ make use of negation. They also play a central role in von Wright’s preference logic later on.
     step1: |-
-      **理论 A.** 理论 A 如图 1 所示，是命题演算的扩充。公设 $A_1$–$A_5$ 表明 Halldén 把 $>$ 当作非对称且传递的关系，即偏序；而“$\equiv$”被当作自反、对称且传递的关系，即等价关系。Halldén 早在 1939 年就把这些假定追溯到 Menger（参 Menger 1939）[^menger-1939]。$A_6$ 关乎“更好”与“等值”这两个概念的相互关系。扩充原理 $A_7$ 与 $A_8$ 使用否定；它们在后来 von Wright 的偏好逻辑中也居于中心地位。
+      **理论 A.** 理论 A 如图 1 所示，是命题演算的扩充。公设 $A_1–A_5$ 表明 Halldén 把 $>$ 当作非对称且传递的关系，即偏序；而“$\equiv$”被当作自反、对称且传递的关系，即等价关系。Halldén 早在 1939 年就把这些假定追溯到 Menger（参 Menger 1939）[^menger-1939]。$A_6$ 关乎“更好”与“等值”这两个概念的相互关系。扩充原理 $A_7$ 与 $A_8$ 使用否定；它们在后来 von Wright 的偏好逻辑中也居于中心地位。
     step2: |-
-      **理论 A.** 理论 A 如图 1 所示，是命题演算的扩充。公设 $A_1$–$A_5$ 表明 Halldén 把 $>$ 当作非对称且传递的关系，即偏序；而“$\equiv$”被当作自反、对称且传递的关系，即等价关系。Halldén 早在 1939 年就把这些假定追溯到 Menger（参 Menger 1939）[^menger-1939]。$A_6$ 关乎“更好”与“等值”两概念的相互关系。扩充原理 $A_7$ 与 $A_8$ 使用否定；它们在后来 von Wright 的偏好逻辑中也居于中心地位。
+      **理论 A.** 理论 A 如图 1 所示，是命题演算的扩充。公设 $A_1–A_5$ 表明 Halldén 把 $>$ 当作非对称且传递的关系，即偏序；而“$\equiv$”被当作自反、对称且传递的关系，即等价关系。Halldén 早在 1939 年就把这些假定追溯到 Menger（参 Menger 1939）[^menger-1939]。$A_6$ 关乎“更好”与“等值”两概念的相互关系。扩充原理 $A_7$ 与 $A_8$ 使用否定；它们在后来 von Wright 的偏好逻辑中也居于中心地位。
   - id: 15
     kind: body
     source: |-
@@ -128,7 +126,7 @@ ightarrow$、$\leftrightarrow$。
     step1: |-
       *图 1.*
     step2: |-
-      *图 1.*
+      图 1.
   - id: 16
     kind: body
     source: |-
@@ -159,10 +157,8 @@ ightarrow$、$\leftrightarrow$。
       If $\varphi$ and $\varphi\rightarrow\psi$ are theorems of A, then $\psi$ is a theorem of A (*modus ponens*)
     step1: |-
       若 $\varphi$ 与 $\varphi\rightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
-ightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
     step2: |-
-      若 $\varphi$ 与 $\varphi\rightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
-ightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
+      若 $\varphi$ 与 $\varphi\rightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（分离规则）。
   - id: 20
     kind: body
     source: |-
@@ -195,8 +191,12 @@ ightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）�
       $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
     step1: |-
       设 $\varphi$ 与 $\tau_1\equiv\tau_2$ 是 A 的定理，$\psi$ 是 A 公式，且 $\psi$ 除一处外处处与 $\psi$ 相似：$\tau_1$ 在 $\psi$ 的一处或多处出现，而 $\tau_2$ 在 $\varphi$ 中出现。则 $\psi$ 是 A 的定理（替换）。
+      
+      $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
     step2: |-
       设 $\varphi$ 与 $\tau_1\equiv\tau_2$ 是 A 的定理，$\psi$ 是 A 公式，且 $\psi$ 除一处外处处与 $\psi$ 相似：$\tau_1$ 在 $\psi$ 的一处或多处出现，而 $\tau_2$ 在 $\varphi$ 中出现。则 $\psi$ 是 A 的定理（替换）。
+      
+      $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
   - id: 24
     kind: body
     source: |-
@@ -211,16 +211,8 @@ ightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）�
       Halldén proves that Theory A is consistent. He presents several theorems of theory A such as contraposition: $p>q \rightarrow\neg q>\neg p$. He also considers fourteen optional postulates that can be added to Theory A. For example, there is the distribution postulate, $p>(q\land r)\rightarrow p>q \land p>r$, and the connectedness postulate, $p>q \lor p\equiv q \lor q>p$.
     step1: |-
       Halldén 证明理论 A 是一致的。他给出理论 A 的若干定理，如逆否：$p>q \rightarrow\neg q>\neg p$。他还考虑了可以加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)\rightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
-ightarrow
-      eg q>
-      eg p$。他还考虑了可以加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)
-ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
     step2: |-
       Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否：$p>q \rightarrow\neg q>\neg p$。他还考虑了可加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)\rightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
-ightarrow
-      eg q>
-      eg p$。他还考虑了可加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)
-ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
   - id: 26
     kind: body
     source: |-
@@ -234,9 +226,9 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     source: |-
       Theory B consists of the rules and postulates in Figure 2. Postulates $B_1–B_5$ are identical to $A_1–A_5$, $B6$ can be derived from Theory A, and $B_7$ represents connectedness.
     step1: |-
-      理论 B 由图 2 中的规则与公设构成。公设 $B_1$–$B_5$ 与 $A_1$–$A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
+      理论 B 由图 2 中的规则与公设构成。公设 $B_1–B_5$ 与 $A_1–A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
     step2: |-
-      理论 B 由图 2 中的规则与公设构成。公设 $B_1$–$B_5$ 与 $A_1$–$A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
+      理论 B 由图 2 中的规则与公设构成。公设 $B_1–B_5$ 与 $A_1–A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
   - id: 28
     kind: body
     source: |-
@@ -244,7 +236,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       *图 2。*
     step2: |-
-      *图 2。*
+      图 2。
   - id: 29
     kind: body
     source: |-
@@ -262,10 +254,14 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
     step1: |-
       - 命题演算的一切定理都是 B 的公设。
-      - 理论 A 的推理规则 $R_1$、$R_2$ 与 $R_3$ 也适用于理论 B。
+      - 理论 A 的推理规则 $R_1, R_2$ 与 $R_3$ 也适用于理论 B。
+      
+      $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
     step2: |-
       - 命题演算的一切定理都是 B 的公设。
-      - 理论 A 的推理规则 $R_1$、$R_2$ 与 $R_3$ 也适用于理论 B。
+      - 理论 A 的推理规则 $R_1, R_2$ 与 $R_3$ 也适用于理论 B。
+      
+      $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
   - id: 31
     kind: body
     source: |-
@@ -281,7 +277,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       理论 B 已被证明一致。有趣的是，书中给出一个程序，可判定给定公式是否为 B 的定理。它由两步构成，称为*单义*展开与*多义*展开。
     step2: |-
-      理论 B 已被证明一致。有趣的是，书中给出一个程序，可判定给定公式是否为 B 的定理。它由两步构成，称为*单义*展开与*多义*展开。
+      理论 B 已被证明一致。有趣的是，书中给出一个程序，可判定给定公式是否为 B 的定理。它由两步构成，称为单义展开与多义展开。
   - id: 33
     kind: body
     source: |-
@@ -290,8 +286,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$p\equiv \neg p\land q\equiv \neg q \rightarrow \neg (p>q)$$
     step1: |-
       第一阶段把逻辑原理应用于展开公式。例如 $p\equiv q$ 被替换为 $p\equiv q \land q \equiv p$，$p> q\land q>r$ 被替换为 $p> q\land q>r\land p>r$。考虑 Halldén（1957）给出的如下替换序列，用以判定是否
+      
+      $$p\equiv \neg p\land q\equiv \neg q \rightarrow \neg (p>q)$$
     step2: |-
-      第一阶段把逻辑原理应用于展开公式。例如 $p\equiv q$ 被替换为 $p\equiv q \land q \equiv p$，$p> q\land q>r$ 被替换为 $p> q\land q>r\land p>r$。考虑 Halldén（1957）给出的如下替换序列，用以判定是否
+      第一阶段把逻辑原理应用于展开公式。例如 $p\equiv q$ 换为 $p\equiv q \land q \equiv p$，$p> q\land q>r$ 换作 $p> q\land q>r\land p>r$。考虑 Halldén（1957）给出的如下替换序列，用以判定是否
+      
+      $$p\equiv \neg p\land q\equiv \neg q \rightarrow \neg (p>q)$$
   - id: 34
     kind: body
     source: |-
@@ -322,8 +322,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\begin{align} &p>q\land \neg q> \neg p\land p>\neg p, \\ &p>q\land \neg q> \neg p\land p\equiv \neg p, \\ &p>q\land \neg q> \neg p\land \neg p>p, \\ &p>q\land \neg q> \neg p\land \neg p\equiv p, \end{align}$$
     step1: |-
       若第一阶段无法判定，则第二步把每个公式展开为一组更复杂的公式。例如 $p>q\land \neg q> \neg p$ 无法再用单义展开推进，但可展开为如下公式集：
+      
+      $$\begin{align} &p>q\land \neg q> \neg p\land p>\neg p, \\ &p>q\land \neg q> \neg p\land p\equiv \neg p, \\ &p>q\land \neg q> \neg p\land \neg p>p, \\ &p>q\land \neg q> \neg p\land \neg p\equiv p, \end{align}$$
     step2: |-
       若第一阶段无法判定，则第二步把每个公式展开为一组更复杂的公式。例如 $p>q\land \neg q> \neg p$ 无法再用单义展开推进，但可展开为如下公式集：
+      
+      $$\begin{align} &p>q\land \neg q> \neg p\land p>\neg p, \\ &p>q\land \neg q> \neg p\land p\equiv \neg p, \\ &p>q\land \neg q> \neg p\land \neg p>p, \\ &p>q\land \neg q> \neg p\land \neg p\equiv p, \end{align}$$
   - id: 37
     kind: body
     source: |-
@@ -347,7 +351,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       第二个参照点是 von Wright（1963）的《偏好逻辑》。在此书中，von Wright 区分了与偏好相关的三组概念，同时指出它们之间没有截然分界。相关概念组是：道义论概念（正当、义务、命令、禁止）、价值论概念（善、恶、较优）与人类学概念（需要、意愿、决定、选择）。这些概念在道义逻辑与决策论中得到探讨，并与偏好逻辑相交。这一关联将在第 7 节讨论。von Wright 还作出了对偏好逻辑后续发展至关重要的几个区分：
     step2: |-
-      第二个参照点是 von Wright（1963）的《偏好逻辑》。在此书中，von Wright 区分了与偏好相关的三组概念，同时指出它们之间没有截然分界。相关概念组是：道义论概念（正当、义务、命令、禁止）、价值论概念（善、恶、较优）与人类学概念（需要、意愿、决定、选择）。这些概念在道义逻辑与决策论中得到探讨，并与偏好逻辑相交。这一关联将在第 7 节讨论。von Wright 还作出了对偏好逻辑后续发展至关重要的几个区分：
+      第二个参照点是 von Wright（1963）的《偏好逻辑》。在此书中，von Wright 区分了与偏好相关的三组概念，同时指出它们之间没有截然分界。相关概念组是：道义论概念（正当、义务、命令、禁止）、价值论概念（善、恶、较优）与人类学概念（需要、意愿、决定、选择）。这些概念在道义逻辑与决策论中得到探讨，并与偏好逻辑相交。这一关联将在第 7 节讨论。von Wright 还提出几个对偏好逻辑后续发展至关重要的区分：
   - id: 40
     kind: body
     source: |-
@@ -389,8 +393,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$(p>\neg p)\land (\neg q>q)\rightarrow(p>q).$$
     step1: |-
       偏好逻辑基于五条关键原理，见图 3。前两条——非对称与传递——描述偏好间的关系，源自 Halldén 的系统。其余三条——扩充、析取分配与放大——使任何 P 表达式都能变换为标准形，从而可应用判定技术。此技术以一例说明。考虑 P 表达式
+      
+      $$(p>\neg p)\land (\neg q>q)\rightarrow(p>q).$$
     step2: |-
       偏好逻辑基于五条关键原理，见图 3。前两条——非对称与传递——描述偏好间的关系，源自 Halldén 的系统。其余三条——扩充、析取分配与放大——使任何 P 表达式都能变换为标准形，从而可应用判定技术。此技术以一例说明。考虑 P 表达式
+      
+      $$(p>\neg p)\land (\neg q>q)\rightarrow(p>q).$$
   - id: 44
     kind: body
     source: |-
@@ -427,8 +435,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q), \\ &(p\land \neg q>p\land q) \textrm{ and} \\ &(\neg p\land \neg q>\neg p\land q) \end{align}$$
     step1: |-
       这个公式是重言式，可以如下解释。该公式为假，当且仅当头四个成分
+      
+      $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q), \\ &(p\land \neg q>p\land q) \textrm{ and} \\ &(\neg p\land \neg q>\neg p\land q) \end{align}$$
     step2: |-
       这个公式是重言式，可以如下解释。该公式为假，当且仅当头四个成分
+      
+      $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q), \\ &(p\land \neg q>p\land q) \textrm{ and} \\ &(\neg p\land \neg q>\neg p\land q) \end{align}$$
   - id: 47
     kind: body
     source: |-
@@ -523,8 +535,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg r)).$$
     step1: |-
       原理 $V_5$ 是所谓偏好的*整体性*性质。设 $\varphi$ 为一公式，$PL(\varphi)$ 为 $\varphi$ 中出现的命题字母之集——von Wright 称之为论域。设 $r \not\in PL(\varphi>\psi)$，则把每个公式 $\varphi> \psi$ 替换为合取
+      
+      $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg r)).$$
     step2: |-
-      原理 $V_5$ 是所谓偏好的*整体性*性质。设 $\varphi$ 为一公式，$PL(\varphi)$ 为 $\varphi$ 中出现的命题字母之集——von Wright 称之为论域。设 $r \not\in PL(\varphi>\psi)$，则把每个公式 $\varphi> \psi$ 替换为合取
+      原理 $V_5$ 是所谓偏好的整体性性质。设 $\varphi$ 为一公式，$PL(\varphi)$ 为 $\varphi$ 中出现的命题字母之集——von Wright 称之为论域。设 $r \not\in PL(\varphi>\psi)$，则把每个公式 $\varphi> \psi$ 替换为合取
+      
+      $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg r)).$$
   - id: 58
     kind: body
     source: |-
@@ -532,7 +548,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       这一原理也称为*放大*，应用于命题字母集中 $PL(\varphi > \psi)$ 的补集中的每一个 r。放大保证：论域中每个与偏好子公式之评估没有直接关联的 r 都保持恒定。
     step2: |-
-      这一原理也称为*放大*，应用于命题字母集中 $PL(\varphi > \psi)$ 的补集中的每一个 r。放大保证：论域中每个与偏好子公式之评估没有直接关联的 r 都保持恒定。
+      这一原理也称为放大，应用于命题字母集中 $PL(\varphi > \psi)$ 的补集中的每一个 r。放大保证：论域中每个与偏好子公式之评估没有直接关联的 r 都保持恒定。
   - id: 59
     kind: body
     source: |-
@@ -711,9 +727,13 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       - 古典命题逻辑的一切重言式都是公理。
       - *分离规则*与替换（见 Halldén 的理论 A）
+      
+      $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \land \psi >\chi \rightarrow \varphi> \chi\\ \tag*{P3} \varphi>\psi \land \psi \equiv\chi \rightarrow \varphi> \chi\\ \tag*{P4} \varphi>\psi \rightarrow \neg \psi > \neg \varphi\\ \end{align*}$$
     step2: |-
       - 古典命题逻辑的一切重言式都是公理。
-      - *分离规则*与替换（见 Halldén 的理论 A）
+      - 分离规则与替换（见 Halldén 的理论 A）
+      
+      $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \land \psi >\chi \rightarrow \varphi> \chi\\ \tag*{P3} \varphi>\psi \land \psi \equiv\chi \rightarrow \varphi> \chi\\ \tag*{P4} \varphi>\psi \rightarrow \neg \psi > \neg \varphi\\ \end{align*}$$
   - id: 78
     kind: body
     source: |-
@@ -737,7 +757,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       公理 P1, P2（只应用*分离规则*）
     step2: |-
-      公理 P1, P2（只应用*分离规则*）
+      公理 P1, P2（只应用分离规则）
   - id: 81
     kind: body
     source: |-
@@ -959,8 +979,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\begin{align*} p\geq^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succeq w \\ p>^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\geq^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succeq w \\ p>^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\unrhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succ w \\ p\rhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succeq w\\ \end{align*}$$
     step1: |-
       上述模态偏好语言可以表达可能世界之间偏好关系的性质。但要处理可能世界集合之间的关系，会遇到一个提升问题（Thomason & Horty 1996）[^thomason-1996]：它涉及把一个适用于个别世界的性质加以扩展，使之也适用于世界的集合。实现方式有多种。下面三个例子只使用两个量词。
+      
+      $$\begin{align*} p\geq^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succeq w \\ p>^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\geq^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succeq w \\ p>^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\unrhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succ w \\ p\rhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succeq w\\ \end{align*}$$
     step2: |-
-      上述模态偏好语言可以表达可能世界之间偏好关系的性质。但要处理可能世界集合之间的关系，会遇到一个提升问题（Thomason & Horty 1996）[^thomason-1996]：它涉及把一个适用于个别世界的性质加以扩展，使之也适用于世界的集合。实现方式有多种。下面三个例子只使用两个量词。
+      上述模态偏好语言可以表达可能世界之间偏好关系的性质。但要处理可能世界集合之间的关系，会遇到一个提升问题（Thomason & Horty 1996）[^thomason-1996]：它涉及把适用于个别世界的性质扩展到世界集合。实现方式有多种。下面三个例子只使用两个量词。
+      
+      $$\begin{align*} p\geq^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succeq w \\ p>^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\geq^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succeq w \\ p>^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\unrhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succ w \\ p\rhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succeq w\\ \end{align*}$$
   - id: 106
     kind: body
     source: |-
@@ -985,8 +1009,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
     step1: |-
       有了这一模态词，语言获得更大的表达力，可以定义与提升问题相关的一般偏好概念。我们给出一个例子：
+      
+      $$\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
     step2: |-
       有了这一模态词，语言获得更大的表达力，可以定义与提升问题相关的一般偏好概念。我们给出一个例子：
+      
+      $$\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
   - id: 109
     kind: body
     source: |-
@@ -994,7 +1022,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 $\varphi$-世界，都存在一个与之同样好的 $\psi$-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
     step2: |-
-      我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 $\varphi$-世界，都存在一个与之同样好的 $\psi$-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
+      我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 $\varphi$-世界，都存在一个与该 $\varphi$-世界同样好的 $\psi$-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
   - id: 110
     kind: body
     source: |-
@@ -1117,8 +1145,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
     step1: |-
       Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方法，即 Egli-Milner 序。这一双向进路（形式定义见下）同时考虑集合中的最好与最坏元素，与趋利避害地平衡最坏结果的最大最小原则相呼应：
+      
+      $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
     step2: |-
       Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方法，即 Egli-Milner 序。这一双向进路（形式定义见下）同时考虑集合中的最好与最坏元素，与趋利避害地平衡最坏结果的最大最小原则相呼应：
+      
+      $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
   - id: 123
     kind: body
     source: |-
@@ -1142,7 +1174,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       过去二十年，基于理由的偏好逻辑研究是本节所综述的若干研究工作的主要焦点。
     step2: |-
-      过去二十年，基于理由的偏好逻辑研究是本节所综述的若干研究工作的主要焦点。
+      过去二十年，基于理由的偏好逻辑研究是本节综述之诸工作的主要焦点。
   - id: 126
     kind: body
     source: |-
@@ -1166,7 +1198,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       *外在偏好*产生于如下情形：一个选项之所以优于另一个，是因为它在某个特定方面被认为更好。例如在 von Wright 的例子中，某人偏好波尔多红酒胜过莱茵白葡萄酒，因为红酒有益于其健康。这里对红酒的偏好是外在的，因为它基于一个关于健康益处的客观判断。因此，外在偏好系于某种底层理据——常涉及健康、实际考量或专家建议等外部因素。
     step2: |-
-      *外在偏好*产生于如下情形：一个选项之所以优于另一个，是因为它在某个特定方面被认为更好。例如在 von Wright 的例子中，某人偏好波尔多红酒胜过莱茵白葡萄酒，因为红酒有益其健康。这里对红酒的偏好是外在的，因为它基于一个关于健康益处的客观判断。因此，外在偏好系于某种底层理据——常涉及健康、实际考量或专家建议等外部因素。
+      外在偏好产生于如下情形：一个选项之所以优于另一个，是因为它在某个特定方面被认为更好。例如在 von Wright 的例子中，某人偏好波尔多红酒胜过莱茵白葡萄酒，因为红酒有益其健康。这里对红酒的偏好是外在的，因为它基于一个关于健康益处的客观判断。因此，外在偏好系于某种底层理据——常涉及健康、实际考量或专家建议等外部因素。
   - id: 129
     kind: body
     source: |-
@@ -1174,7 +1206,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       相比之下，*内在偏好*是纯粹基于个人喜好的偏好，无需明确的理由或证成。例如，某人可能偏好红酒胜过白酒，仅仅因为喜欢其口味。这一偏好是内在的，因为它完全由主观享受驱动，不涉及任何外部理据。
     step2: |-
-      相比之下，*内在偏好*是纯粹基于个人喜好的偏好，无需明确的理由或证成。例如，某人可能偏好红酒胜过白酒，仅仅因为喜欢其口味。这一偏好是内在的，因为它完全由主观享受驱动，不涉及任何外部理据。
+      相比之下，内在偏好是纯粹基于个人喜好的偏好，无需明确的理由或证成。例如，某人可能偏好红酒胜过白酒，仅仅因为喜欢其口味。这一偏好是内在的，因为它完全由主观享受驱动，不涉及任何外部理据。
   - id: 130
     kind: body
     source: |-
@@ -1182,7 +1214,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       在外在偏好的形式模型中，通常采用*双层结构*来兼顾理由基与偏好。
     step2: |-
-      在外在偏好的形式模型中，通常采用*双层结构*来兼顾理由基与偏好。
+      在外在偏好的形式模型中，通常采用双层结构来兼顾理由基与偏好。
   - id: 131
     kind: body
     source: |-
@@ -1214,7 +1246,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       双层结构由一个优先基与偏好构成。*优先基*是按行动者的考量排序的一组属性。考虑爱丽丝决定买哪套房的例子。她依三条标准评估每套房——成本、质量与社区——并按此重要次序。对爱丽丝而言，若房价符合预算则其成本是好的，否则是坏的。她的决定便由房子是否满足其优先标准、以及这些标准的相对重要性所引导。
     step2: |-
-      双层结构由一个优先基与偏好构成。*优先基*是按行动者的考量排序的一组属性。考虑爱丽丝决定买哪套房的例子。她依三条标准评估每套房——成本、质量与社区，并按此重要次序。对爱丽丝而言，若房价符合预算则其成本是好的，否则是坏的。她的决定便由房子是否满足其优先标准、以及这些标准的相对重要性所引导。
+      双层结构由一个优先基与偏好构成。优先基是按行动者的考量排序的一组属性。考虑爱丽丝决定买哪套房的例子。她依三条标准评估每套房——成本、质量与社区，并按此重要次序。对爱丽丝而言，若房价符合预算则其成本是好的，否则是坏的。她的决定便由房子是否满足其优先标准、以及这些标准的相对重要性所引导。
   - id: 135
     kind: body
     source: |-
@@ -1231,8 +1263,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$C_1(x) \gg C_2(x) \gg \dots \gg C_n(x) \quad (n \in \mathbb{N}),$$
     step1: |-
       形式上，优先基是一个有序的公式序列，写作
+      
+      $$C_1(x) \gg C_2(x) \gg \dots \gg C_n(x) \quad (n \in \mathbb{N}),$$
     step2: |-
       形式上，优先基是一个有序的公式序列，写作
+      
+      $$C_1(x) \gg C_2(x) \gg \dots \gg C_n(x) \quad (n \in \mathbb{N}),$$
   - id: 137
     kind: body
     source: |-
@@ -1249,8 +1285,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$C(x) \gg Q(x) \gg N(x),$$
     step1: |-
       为说明这一点，爱丽丝的优先基可能是
+      
+      $$C(x) \gg Q(x) \gg N(x),$$
     step2: |-
       为说明这一点，爱丽丝的优先基可能是
+      
+      $$C(x) \gg Q(x) \gg N(x),$$
   - id: 139
     kind: body
     source: |-
@@ -1306,7 +1346,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       理性选择理论通常假定行动者有固定的偏好，但不解释这些偏好从何而来。Dietrich 与 List（2013a,b）开始填补这一空缺。他们提出一个建模偏好形成与改变的框架：偏好基于备选物的“动机上显著的”属性，而非备选物本身。这一进路使偏好可以是基于理由的——随着不同属性变得显著而演化。
     step2: |-
-      理性选择理论通常假定行动者有固定的偏好，但不解释这些偏好从何而来。Dietrich 与 List（2013a,b）开始填补这一空缺。他们提出一个建模偏好形成与改变的框架：偏好基于备选物的“动机上显著的”属性，而非备选物本身。这一进路使偏好可以是基于理由的——随着不同属性变得显著而演化。
+      理性选择理论通常假定行动者有固定的偏好，但不解释这些偏好从何而来。Dietrich 与 List（2013a,b）开始填补这一空缺。他们提出一个建模偏好形成与改变的框架：偏好基于备选物那些“动机上显著”的属性，而非备选物本身。这一进路使偏好可以是基于理由的——随着不同属性变得显著而演化。
   - id: 146
     kind: body
     source: |-
@@ -1338,7 +1378,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       为照顾动机状态之间的偏好差异，Dietrich 与 List（2013a,b）引入了*属性组合*上的*权衡关系* $\geq$：
     step2: |-
-      为照顾动机状态之间的偏好差异，Dietrich 与 List（2013a,b）引入了*属性组合*上的*权衡关系* $\geq$：
+      为照顾动机状态之间的偏好差异，Dietrich 与 List（2013a,b）引入了属性组合上的权衡关系 $\geq$：
   - id: 150
     kind: body
     source: |-
@@ -1361,8 +1401,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$x \succeq_M y \iff S_x \geq S_y,$$
     step1: |-
       形式上，若 x 与 y 是备选物，则行动者在状态 M 中的偏好 $x \succeq_M y$ 可表示如下：
+      
+      $$x \succeq_M y \iff S_x \geq S_y,$$
     step2: |-
       形式上，若 x 与 y 是备选物，则行动者在状态 M 中的偏好 $x \succeq_M y$ 可表示如下：
+      
+      $$x \succeq_M y \iff S_x \geq S_y,$$
   - id: 152
     kind: body
     source: |-
@@ -1378,7 +1422,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       Dietrich 与 List（2013a,b）的工作通过对比两种理性来探讨理性问题：*结构理性*——聚焦偏好中的内在一致性（如传统经济学）——与*实质理性*——评估偏好内容的正当与否。形式理性要求逻辑融贯，例如若 A 优于 B 且 B 优于 C 则 A 优于 C。实质理性则认为：即便偏好是一致的，若其自我毁灭或有害，也应视为“非理性的”——它评估的是偏好的价值，而不只是其融贯性。对这些哲学问题的更早讨论见 Pettit（2002）。
     step2: |-
-      Dietrich 与 List（2013a,b）的工作通过对比两种理性来探讨理性问题：*结构理性*——聚焦偏好中的内在一致性（如传统经济学）——与*实质理性*——评估偏好内容的正当与否。形式理性要求逻辑融贯，例如若 A 优于 B 且 B 优于 C 则 A 优于 C。实质理性则认为：即便偏好一致，若其自我毁灭或有害，也应视为“非理性的”——它评估的是偏好的价值，而不只是其融贯性。对这些哲学问题的更早讨论见 Pettit（2002）。
+      Dietrich 与 List（2013a,b）的工作通过对比两种理性来探讨理性问题：结构理性——聚焦偏好中的内在一致性（如传统经济学）——与实质理性——评估偏好内容的正当与否。形式理性要求逻辑融贯，例如若 A 优于 B 且 B 优于 C 则 A 优于 C。实质理性则认为：即便偏好一致，若其自我毁灭或有害，也应视作“非理性的”——它评估偏好自身的价值，而不只是其融贯性。对这些哲学问题的更早讨论见 Pettit（2002）。
   - id: 154
     kind: body
     source: |-
@@ -1394,7 +1438,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       Osherson 与 Weinstein（2012）提出一种偏好逻辑：偏好不是任意的或仅仅一致的，而是基于可辨识的理由。这一框架引入模态联结词，使渴望某一结果的理由得以形式表达，从而提供一种建模方式：各种理由如何结合起来塑造行动者的偏好。
     step2: |-
-      Osherson 与 Weinstein（2012）提出一种偏好逻辑：偏好不是任意的或仅仅一致的，而是基于可辨识的理由。这一框架引入模态联结词，使渴望某一结果的理由得以形式表达，从而提供一种建模方式：各种理由如何结合起来塑造行动者的偏好。
+      Osherson 与 Weinstein（2012）提出一种偏好逻辑：偏好并非任意、也不仅求一致，而是基于可辨识的理由。这一框架引入模态联结词，使渴望某一结果的理由得以形式表达，从而提供一种建模方式：各种理由如何结合起来塑造行动者的偏好。
   - id: 156
     kind: body
     source: |-
@@ -1411,8 +1455,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$u: W \times S \rightarrow \mathbb{R}$$
     step1: |-
       每条理由（如安全或成本）都可以用*效用尺度*来量化——它们表示依据特定标准，各选择好多少或差多少。形式上，“效用函数” u 定义为一个映射
+      
+      $$u: W \times S \rightarrow \mathbb{R}$$
     step2: |-
-      每条理由（如安全或成本）都可以用*效用尺度*来量化——它们表示依据特定标准，各选择好多少或差多少。形式上，“效用函数” u 定义为一个映射
+      每条理由（如安全或成本）都可以用效用尺度来量化——它们表示依据特定标准，各选择好多少或差多少。形式上，“效用函数” u 定义为一个映射
+      
+      $$u: W \times S \rightarrow \mathbb{R}$$
   - id: 158
     kind: body
     source: |-
@@ -1448,8 +1496,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$s(w, A) = \text{closest world in } A \text{ to } w.$$
     step1: |-
       形式上，“选择函数” $s(w, A)$ 依据与当前世界 w 的相似性，从集合 A 中选出一个代表世界：
+      
+      $$s(w, A) = \text{closest world in } A \text{ to } w.$$
     step2: |-
       形式上，“选择函数” $s(w, A)$ 依据与当前世界 w 的相似性，从集合 A 中选出一个代表世界：
+      
+      $$s(w, A) = \text{closest world in } A \text{ to } w.$$
   - id: 162
     kind: body
     source: |-
@@ -1563,8 +1615,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ iff }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
     step1: |-
       Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以推理偏好改变。文中引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 $\varphi$ 被公开建议之后，$\psi$ 成立”，定义为：
+      
+      $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ iff }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
     step2: |-
       Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以推理偏好改变。文中引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 $\varphi$ 被公开建议之后，$\psi$ 成立”，定义为：
+      
+      $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ iff }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
   - id: 175
     kind: body
     source: |-
@@ -1587,8 +1643,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
     step1: |-
       更一般地，在此框架中，建议 $\sharp(\varphi)$ 可以理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel, Kozen, & Tiuryn 2000），即
+      
+      $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
     step2: |-
       更一般地，在此框架中，建议 $\sharp(\varphi)$ 可以理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel, Kozen, & Tiuryn 2000），即
+      
+      $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
   - id: 177
     kind: body
     source: |-
@@ -1664,7 +1724,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       得知寿司以不新鲜的鱼做成改变了我的信念，进而反转了我最初的偏好。这里，偏好改变是信念改变的结果，信念改变因此成为建模的关键要素。
     step2: |-
-      得知寿司以不新鲜的鱼做成改变了我的信念，进而反转了我最初的偏好。这里，偏好改变是信念改变的结果，信念改变因此成为建模的关键要素。
+      得知寿司以不新鲜的鱼做成，这一消息改变了我的信念，进而反转初始偏好。这里，偏好改变是信念改变的结果，信念改变因此成为建模的关键要素。
   - id: 185
     kind: body
     source: |-
@@ -1673,8 +1733,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
     step1: |-
       AGM 框架通过建立公设来处理信念修正：规定信念集应如何适应新的、可能冲突的信息。Lang 与 Van der Torre（2008）把类似进路应用于由信念更新导致的偏好改变。其提出的形式语言包括：信念的二元模态算子 $N(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是正常的（或被相信的）”；偏好算子 $P(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是更偏好的”；以及动态算子 $[*\alpha]\beta$，读作“在习得 $\alpha$ 后，$\beta$ 成立”。为刻画偏好改变的性质，他们提出八条公设。两条例子如下：
+      
+      $$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
     step2: |-
       AGM 框架通过建立公设处理信念修正：规定信念集应如何适应新的、可能冲突的信息。Lang 与 Van der Torre（2008）把类似进路应用于由信念更新导致的偏好改变。其提出的形式语言包括：信念的二元模态算子 $N(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是正常的（或被相信的）”；偏好算子 $P(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是更偏好的”；以及动态算子 $[*\alpha]\beta$，读作“在习得 $\alpha$ 后，$\beta$ 成立”。为刻画偏好改变的性质，他们提出八条公设。两条例子如下：
+      
+      $$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
   - id: 186
     kind: body
     source: |-
@@ -1683,8 +1747,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
     step1: |-
       （P1）意味着：习得某物已是所偏好的，并不改变初始偏好。例如，若我渴望财富，那么在变得富有时，这一偏好仍然保持。这种持续性通常显得自然，但也有争议：例如在 Jeffrey 的决策论中，一旦你变得富有，变富的欲望可能就不再适用。
+      
+      $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
     step2: |-
       （P1）意味着：习得某物已是所偏好的，并不改变初始偏好。例如，若我渴望财富，那么在变得富有时，这一偏好仍保持。这种持续性通常显得自然，但也有争议：例如在 Jeffrey 的决策论中，一旦你变得富有，变富的欲望可能就不再适用。
+      
+      $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
   - id: 187
     kind: body
     source: |-
@@ -1800,9 +1868,13 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
 
       $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
     step1: |-
-      为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，若
+      为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，则称 $\alpha$ *诱导* $\sigma$，若：
+      
+      $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
     step2: |-
-      为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，若
+      为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，则称 $\alpha$ 诱导 $\sigma$，若：
+      
+      $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
   - id: 200
     kind: body
     source: |-
@@ -1811,8 +1883,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
     step1: |-
       若一个操作 $\alpha$ 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出一个 *PDL*-可定义的关系变换器 $\sigma$，则称 $\alpha$ 为 *PDL*-可定义操作：
+      
+      \pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
     step2: |-
-      若一个操作 $\alpha$ 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出 *PDL*-可定义的关系变换器 $\sigma$，则称 $\alpha$ 为 *PDL*-可定义操作：
+      若一个操作 $\alpha$ 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出一个 *PDL*-可定义的关系变换器 $\sigma$，则称 $\alpha$ 为 *PDL*-可定义操作：
+      
+      \pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
   - id: 201
     kind: body
     source: |-
@@ -1820,7 +1896,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       它们被解释为标准的 *PDL* 程序操作：*测试* $?\varphi$、*顺序复合*“;”与*选择*“$\cup$”。
     step2: |-
-      它们被解释为标准的 *PDL* 程序操作：*测试* $?\varphi$、*顺序复合*“;”与*选择*“$\cup$”。
+      它们被解释为标准的 *PDL* 程序操作：测试 $?\varphi$、顺序复合 $“;”$ 与选择 $“\cup”$。
   - id: 202
     kind: body
     source: |-
@@ -1836,7 +1912,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       *图 A：*
     step2: |-
-      *图 A：*
+      图 A：
   - id: 204
     kind: body
     source: |-
@@ -1868,7 +1944,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       *图 B*
     step2: |-
-      *图 B*
+      图 B
   - id: 208
     kind: body
     source: |-
@@ -1924,7 +2000,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       > 爱丽丝正在找公寓。她认为价格比社区更重要。她相信公寓 $d_1$ 价格低但社区不好。她对公寓 $d_2$ 的价格*没有任何信息*，但相信它社区好。
     step2: |-
-      > 爱丽丝正在找公寓。她认为价格比社区更重要。她相信公寓 $d_1$ 价格低但社区不好。她对公寓 $d_2$ 的价格*没有任何信息*，但相信它社区好。
+      > 爱丽丝正在找公寓。她认为价格比社区更重要。她相信公寓 $d_1$ 价格低但社区不好。她对公寓 $d_2$ 的价格没有任何信息，但相信它社区好。
   - id: 215
     kind: body
     source: |-
@@ -1940,7 +2016,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       然而，如果她的信念改变（例如她得知 $d_2$ 价格低），她的偏好可能随之移动，转而偏好 $d_2$ 胜过 $d_1$。这凸显了由信念更新引起的偏好改变与由优先性移动引起的偏好改变之间的区别——如前面的例子所示。
     step2: |-
-      然而，如果她的信念改变（例如她得知 $d_2$ 价格低），她的偏好可能随之移动，转而偏好 $d_2$ 胜过 $d_1$。这凸显了由信念更新引起的偏好改变与由优先性移动引起的偏好改变之间的区别——如前面的例子所示。
+      然而，如果她的信念改变（例如她得知 $d_2$ 价格低），她的偏好可能随之移动，转而偏好 $d_2$ 胜过 $d_1$。这凸显了两种偏好改变之间的区别：其一是信念更新所引发，其二是优先性移动所引发——如前面的例子所示。
   - id: 217
     kind: body
     source: |-
@@ -1948,7 +2024,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       总之，优先动态与偏好动态虽密切相关，却各有独特之处；这凸显了同时建模内在偏好与基于理由的偏好的价值，以便全面理解行动者的决策。
     step2: |-
-      总之，优先动态与偏好动态虽密切相关，却各有独特之处；这凸显了同时建模内在偏好与基于理由的偏好的价值，以便全面理解行动者的决策。
+      总之，优先动态与偏好动态虽密切相关，却各有独特之处；总之，优先动态与偏好动态虽密切相关，却各有独特之处；这表明：为全面理解行动者如何决策，宜同时建模内在偏好与基于理由的偏好。
   - id: 218
     kind: body
     source: |-
@@ -1964,7 +2040,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       其余条件相同的偏好（*ceteris paribus* preference）是在“其余一切相同”的条件下表达偏好的方式。它使行动者得以宣称一个选项优于另一个，同时假定所有其他相关因素保持不变。在作决策的 AI 系统中，CP 网是一种用于表示条件偏好的图形模型。它依赖如下原则：选项间的比较是在其他因素不变的假定下进行的——这与其余条件相同的概念紧密契合。
     step2: |-
-      其余条件相同的偏好（*ceteris paribus* preference）是在“其余一切相同”的条件下表达偏好的方式。它使行动者得以宣称一个选项优于另一个，同时假定所有其他相关因素保持不变。在作决策的 AI 系统中，CP 网是一种表示条件偏好的图形模型。它依赖如下原则：选项间的比较是在其他因素不变的假定下进行的——与其余条件相同的概念紧密契合。
+      其余条件相同的偏好（*ceteris paribus* preference）是在“其余一切相同”的条件下表达偏好的方式。它使行动者得以宣称一个选项优于另一个，同时假定所有其他相关因素保持不变。在作决策的 AI 系统中，CP 网是一种表示条件偏好的图形模型。它依赖如下原则：各选项间的比较，以其他因素不变为假定——与其余条件相同的概念紧密契合。
   - id: 220
     kind: body
     source: |-
@@ -2013,8 +2089,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
     step1: |-
       Van Benthem、Girard 与 Roy（2009）把这一想法应用于可能世界之间的等价关系：对某个特定集合中所有相关模态公式的真值等价。此外，他们展示了这一概念如何与 von Wright 的工作相衔接，以及它如何应用于博弈论解概念。他们向语言引入形如 $\langle \Gamma \rangle\varphi$ 的新模态词，形式定义如下：
+      
+      $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
     step2: |-
       Van Benthem、Girard 与 Roy（2009）把这一想法应用于可能世界之间的等价关系：对某个特定集合中所有相关模态公式的真值等价。此外，他们展示这一概念如何与 von Wright 的工作相衔接，以及它如何应用于博弈论解概念。他们向语言引入形如 $\langle \Gamma \rangle\varphi$ 的新模态词，形式定义如下：
+      
+      $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
   - id: 226
     kind: body
     source: |-
@@ -2237,8 +2317,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \text{Dom}(X_3) = \{c_1, c_2\},$$
     step1: |-
       *结果*（outcome）是对 CP 网中所有变量的一个完全赋值。例如，若 $V = \{X_1, X_2, X_3\}$ 且各域为
+      
+      $$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \text{Dom}(X_3) = \{c_1, c_2\},$$
     step2: |-
-      *结果*（outcome）是对 CP 网中所有变量的一个完全赋值。例如，若 $V = \{X_1, X_2, X_3\}$ 且各域为
+      结果（outcome）是对 CP 网中所有变量的一个完全赋值。例如，若 $V = \{X_1, X_2, X_3\}$ 且各域为
+      
+      $$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \text{Dom}(X_3) = \{c_1, c_2\},$$
   - id: 250
     kind: body
     source: |-
@@ -2263,8 +2347,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\begin{align*} \text{if } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ and }\\ &o_2 = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}, \text{then } o_1 \succ o_2.\\ \end{align*}$$
     step1: |-
       例如，若 $X_2$ 的 CPT 规定在 $X_1 = a_1$ 时 $b_1 \succ b_2$，则：
+      
+      $$\begin{align*} \text{if } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ and }\\ &o_2 = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}, \text{then } o_1 \succ o_2.\\ \end{align*}$$
     step2: |-
       例如，若 $X_2$ 的 CPT 规定在 $X_1 = a_1$ 时 $b_1 \succ b_2$，则：
+      
+      $$\begin{align*} \text{if } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ and }\\ &o_2 = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}, \text{then } o_1 \succ o_2.\\ \end{align*}$$
   - id: 253
     kind: body
     source: |-
@@ -2329,8 +2417,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\varphi\geq^{\forall\exists} \psi :=\neg ((\varphi\lor \psi)\Rightarrow \neg \varphi).$$
     step1: |-
       若以 $\varphi\Rightarrow \psi$ 表示条件句“若 $\varphi$ 则 $\psi$”，则在适当条件下，我们可以定义：$\varphi$ 优于 $\psi$，当 $\varphi\lor \psi$ 蕴涵 $\varphi$ 而不蕴涵 $\psi$：
+      
+      $$\varphi\geq^{\forall\exists} \psi :=\neg ((\varphi\lor \psi)\Rightarrow \neg \varphi).$$
     step2: |-
       若以 $\varphi\Rightarrow \psi$ 表示条件句“若 $\varphi$ 则 $\psi$”，则在适当条件下可定义：$\varphi$ 优于 $\psi$，当 $\varphi\lor \psi$ 蕴涵 $\varphi$ 而不蕴涵 $\psi$：
+      
+      $$\varphi\geq^{\forall\exists} \psi :=\neg ((\varphi\lor \psi)\Rightarrow \neg \varphi).$$
   - id: 261
     kind: body
     source: |-
@@ -2339,8 +2431,12 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       $$\varphi\Rightarrow \psi := (\psi\land \varphi)>^{\forall\exists}(\neg \psi\land \varphi).$$
     step1: |-
       于是我们也有：条件句“若 $\varphi$ 则 $\psi$”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
+      
+      $$\varphi\Rightarrow \psi := (\psi\land \varphi)>^{\forall\exists}(\neg \psi\land \varphi).$$
     step2: |-
       于是我们也有：条件句“若 $\varphi$ 则 $\psi$”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
+      
+      $$\varphi\Rightarrow \psi := (\psi\land \varphi)>^{\forall\exists}(\neg \psi\land \varphi).$$
   - id: 262
     kind: body
     source: |-
@@ -2372,7 +2468,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       Makinson（1999）强调规范（无真值的命令）与道义命题（关于义务或许可的、可真可假的陈述）之间的区分。他指出这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为一个以明确命令而非抽象真值条件为基础的系统。在其 2012 年的书中，Horty 作出显著贡献：他提出一个理解行动背后理由的框架，以缺省逻辑为基本结构。他阐明了多种理由如何互动——支持、压倒或相互冲突——以决定个体应当做什么。
     step2: |-
-      Makinson（1999）强调规范（无真值的命令）与道义命题（关于义务或许可的、可真可假的陈述）之间的区分。他指出这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为一个以明确命令而非抽象真值条件为基础的系统。在其 2012 年的书中，Horty 作出显著贡献：他提出一个理解行动背后理由的框架，以缺省逻辑为基本结构。他阐明多种理由如何互动——支持、压倒或相互冲突——以决定个体应当做什么。
+      Makinson（1999）强调两类东西的区分：规范（无真值的命令）与道义命题（关于义务或许可、可真可假的陈述）。他指出这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为一个以明确命令而非抽象真值条件为基础的系统。在其 2012 年的书中，Horty 贡献显著：他提出一个理解行动背后理由的框架，以缺省逻辑为基本结构。他阐明多种理由如何互动——支持、压倒或相互冲突——以决定个体应当做什么。
   - id: 266
     kind: body
     source: |-
@@ -2380,7 +2476,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       这些对理由的关注促成道义逻辑中基于命令的语义的发展：它相对于明确的命令集合定义道义算子。标准道义系统（如一元与二元系统）被改造以适配这一模型，并扩展以处理命令之间的优先性冲突与两难。道义逻辑也采纳了双层结构。值得注意的工作包括 Hansen（2008, 2014）；Van Benthem、Grossi 与 Liu（2014）；以及 Benzmüller、Parent 与 Van der Torre（2020）。
     step2: |-
-      这些对理由的关注促成道义逻辑中基于命令的语义的发展：它相对于明确的命令集合定义道义算子。标准道义系统（如一元与二元系统）被改造以适配这一模型，并扩展以处理命令间的优先性冲突与两难。道义逻辑也采纳了双层结构。值得注意的工作包括 Hansen（2008, 2014）；Van Benthem、Grossi 与 Liu（2014）；以及 Benzmüller、Parent 与 Van der Torre（2020）。
+      这些对理由的关注，促成道义逻辑中以命令为本的语义：它相对于明确的命令集合定义道义算子。标准道义系统（如一元与二元系统）被改造以适配这一模型，并扩展以处理命令间的优先性冲突与两难。道义逻辑也采纳了双层结构。值得注意的工作包括 Hansen（2008, 2014）；Van Benthem、Grossi 与 Liu（2014）；以及 Benzmüller、Parent 与 Van der Torre（2020）。
   - id: 267
     kind: body
     source: |-
@@ -2396,7 +2492,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       在决策论与博弈论中，“偏好”与“偏好关系”被用来建模选择，常带行为解释。偏好关系的形式性质及其经由效用函数的表示，已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调偏好的定性进路——聚焦偏好关系的形式性质。与之相对，定量进路通常依赖效用函数以数值方式表示偏好。不确定性下的决策常用期望值框架建模：它把行动者的信念（表示为概率）与效用结合起来以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）区分了作为选择、福祉与价值的偏好概念，提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种融合定性与定量方法的新进路，以更准确地反映现实决策的复杂性。要把本词条与决策论连接起来，关键在于考虑：由第 4 节呈现的更丰富的双层结构所导出的、基于理由的偏好的数值化定量表示。
     step2: |-
-      在决策论与博弈论中，“偏好”与“偏好关系”被用来建模选择，常带行为解释。偏好关系的形式性质及其经由效用函数的表示，已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调偏好的定性进路——聚焦偏好关系的形式性质。与之相对，定量进路通常依赖效用函数以数值方式表示偏好。不确定性下的决策常用期望值框架建模：它把行动者的信念（表示为概率）与效用结合以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）区分了作为选择、福祉与价值的偏好概念，提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种融合定性与定量方法的新进路，以更准确地反映现实决策的复杂性。要把本词条与决策论连接起来，关键在于考虑：由第 4 节呈现的更丰富的双层结构所导出的、基于理由的偏好的数值化定量表示。
+      在决策论与博弈论中，“偏好”与“偏好关系”被用来建模选择，常带行为解释。偏好关系的形式性质及其经由效用函数的表示，已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调偏好的定性进路——聚焦偏好关系的形式性质。与之相对，定量进路通常依赖效用函数以数值方式表示偏好。不确定性下的决策常用期望值框架建模：它把行动者的信念（表示为概率）与效用结合以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）区分了作为选择、福祉与价值的偏好概念，提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种融合定性与定量方法的新进路，以更准确地反映现实决策的复杂性。要把本词条与决策论连接起来，关键在于：为第 4 节那种更丰富的双层结构所导出的基于理由偏好，给出数值化定量表示。
   - id: 269
     kind: body
     source: |-
@@ -2412,7 +2508,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       在社会选择理论中，核心问题是如何把个体偏好聚合成一个融贯的群体偏好。这一领域的一个著名结果是 Arrow（1951）的不可能性定理：它表明构造一个满足某些合意条件的公平聚合规则有其限度。后续研究探索了替代假定，得出新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）（社会选择理论词条）对这一主题给出有用综述。在社会环境中，个体偏好常常并非完全独立，而是受同伴看法的影响。作为一个共同体，值得思考的是：社会偏好如何随时间演化，以及能否出现稳定的偏好。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）讨论了这一主题的逻辑研究。这一领域需要探索共同体结构、更新个体偏好的机制，以及定义社会偏好的方法。相关洞见也可以得自社会信念方面的工作，如 Shi（2021）。演化博弈论中也研究了类似问题，尤其是社会偏好的所谓“间接演化进路”。例如，Bowles 与 Gintis（2011）探讨利他、公平与合作等亲社会偏好如何演化并达到稳定。
     step2: |-
-      在社会选择理论中，核心问题是如何把个体偏好聚合成一个融贯的群体偏好。这一领域的一个著名结果是 Arrow（1951）的不可能性定理：它表明构造一个满足某些合意条件的公平聚合规则有其限度。后续研究探索替代假定，得出新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）（社会选择理论词条）对这一主题给出有用综述。在社会环境中，个体偏好常常并非完全独立，而是受同伴看法的影响。作为一个共同体，值得思考的是：社会偏好如何随时间演化，以及能否出现稳定的偏好。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）讨论了这一主题的逻辑研究。这一领域需要探索共同体结构、更新个体偏好的机制，以及定义社会偏好的方法。相关洞见也可得自社会信念方面的工作，如 Shi（2021）。演化博弈论中也研究类似问题，尤其是社会偏好的所谓“间接演化进路”。例如，Bowles 与 Gintis（2011）探讨利他、公平与合作等亲社会偏好如何演化并达到稳定。
+      在社会选择理论中，核心问题是如何把个体偏好聚合成一个融贯的群体偏好。这一领域的一个著名结果是 Arrow（1951）的不可能性定理：它表明构造一个满足某些合意条件的公平聚合规则有其限度。后续研究探索替代假定，得出新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）（社会选择理论词条）对这一主题给出有用综述。在社会环境中，个体偏好常常并非完全独立，而是受同伴看法的影响。作为共同体，值得思考的是：社会偏好如何随时间演化，以及能否出现稳定的偏好。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）讨论了这一主题的逻辑研究。这一领域需要探索共同体结构、更新个体偏好的机制，以及定义社会偏好的方法。相关洞见也可得自社会信念方面的工作，如 Shi（2021）。演化博弈论中也研究类似问题，尤其是社会偏好的所谓“间接演化进路”。例如，Bowles 与 Gintis（2011）探讨利他、公平与合作等亲社会偏好如何演化并达到稳定。
   - id: 271
     kind: body
     source: |-
@@ -2436,7 +2532,7 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     step1: |-
       偏好改变的研究与其余条件相同偏好的概念，凸显了偏好逻辑的动态性与实用性，尤其在决策语境中。这些框架仍将是应对未来挑战、推进该领域研究的基础。
     step2: |-
-      偏好改变的研究与其余条件相同偏好的概念，凸显了偏好逻辑的动态性与实用性，尤其在决策语境中。这些框架仍将是应对未来挑战、推进该领域研究的基础。
+      偏好改变的研究与其余条件相同之偏好概念，凸显了偏好逻辑的动态性与实用性，尤其在决策语境中。这些框架仍将是应对未来挑战、推进该领域研究的基础。
   - id: 274
     kind: oir
     source: |-

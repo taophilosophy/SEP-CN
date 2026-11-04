@@ -2,8 +2,44 @@
   "slug": "logic-preference",
   "kind": "retranslate",
   "zh_doc": "l/logic-preference.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-04T18:06:30Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T20:50:35Z",
+      "evidence": "draft+compose: lq.py 守恒门 274 段全绿（$ 计数硬门经三轮程序化修复：公式段 source 原样拼装、散段漏式回填、\\r/\\v/\\a 控制字符清扫）；相关词条 5 项按 SUMMARY 定名回填（动态认知逻辑/逻辑学：模态逻辑/信念修正的逻辑）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T20:50:35Z",
+      "evidence": "s1 一校：check_prose 18→0（18 项散文 de-chain/weak-verb/passive/as-one 全实修）；数学公式段照录不译"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T20:50:35Z",
+      "evidence": "s2 二校：术语 13 条（偏好/偏好逻辑/内在外在偏好/偏好提升/双层结构/优先基/偏好改变/信念修正/CP网/动机状态/权衡关系/放大/其余条件相同的偏好）登记入册；现代学者名（Halldén/von Wright/Rescher/Van Dalen/Hansson 等）按体例保留英文不登记；check_terms 硬错误 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T20:50:38Z",
+      "evidence": "s3 三校：check_style 0（47 处 italic-cjk 平文化+8 段粗体误伤恢复+PREFL/PREFR/修正/收缩/添加/删除/并列粗体重建+seg201 TeX 引号全角化）；check_math 0（公式 0 missing 0 unbalanced）；check_academic --strict OK；check_prose 0"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:07Z",
   "version_pin": {
