@@ -540,129 +540,129 @@ segments:
     source: |-
       ### 2.3 Plausibility
     step1: |-
-      ### 2.3 Plausibility
+      ### 2.3 可信性
     step2: |-
-      ### 2.3 Plausibility
+      ### 2.3 可信性
   - id: 63
     kind: body
     source: |-
       To say that a hypothesis is plausible is to convey that it has epistemic support: we have some reason to believe it, even prior to testing. An assertion of plausibility within the context of an inquiry typically has pragmatic connotations as well: to say that a hypothesis is plausible suggests that we have some reason to investigate it further. For example, a mathematician working on a proof regards a conjecture as plausible if it “has some chances of success” (Polya 1954 (v. 2): 148). On both points, there is ambiguity as to whether an assertion of plausibility is categorical or a matter of degree. These observations point to the existence of two distinct conceptions of plausibility, *probabilistic* and *modal*, either of which may reflect the intended conclusion of an analogical argument.
     step1: |-
-      To say that a hypothesis is plausible is to convey that it has epistemic support: we have some reason to believe it, even prior to testing. An assertion of plausibility within the context of an inquiry typically has pragmatic connotations as well: to say that a hypothesis is plausible suggests that we have some reason to investigate it further. For example, a mathematician working on a proof regards a conjecture as plausible if it “has some chances of success” (Polya 1954 (v. 2): 148). On both points, there is ambiguity as to whether an assertion of plausibility is categorical or a matter of degree. These observations point to the existence of two distinct conceptions of plausibility, *probabilistic* and *modal*, either of which may reflect the intended conclusion of an analogical argument.
+      说一个假说是可信的，就是说它有知识论上的支持：我们有一些理由相信它，甚至在检验之前。在探究语境中，可信性断言通常也有语用上的意涵：说一个假说是可信的，暗示我们有理由进一步研究它。例如，一位从事证明的数学家把一个猜想看作可信的，如果它“有某种成功的机会”（Polya 1954（卷 2）: 148）。在这两点上都有含混之处：可信性断言究竟是范畴性的，还是程度性的。这些观察指向两种不同的可信性概念的存在，*概率性的*与*模态性的*，两者都可能与类比论证的预期结论相对应。
     step2: |-
-      To say that a hypothesis is plausible is to convey that it has epistemic support: we have some reason to believe it, even prior to testing. An assertion of plausibility within the context of an inquiry typically has pragmatic connotations as well: to say that a hypothesis is plausible suggests that we have some reason to investigate it further. For example, a mathematician working on a proof regards a conjecture as plausible if it “has some chances of success” (Polya 1954 (v. 2): 148). On both points, there is ambiguity as to whether an assertion of plausibility is categorical or a matter of degree. These observations point to the existence of two distinct conceptions of plausibility, *probabilistic* and *modal*, either of which may reflect the intended conclusion of an analogical argument.
+      说一个假说可信，就是说它在知识论上有支持：哪怕尚未检验，我们已有理由相信它。在探究语境中，可信性断言往往还带着语用意涵：说一个假说可信，意味着我们有理由进一步研究它。例如，做证明的数学家会视一个猜想的可信，倘若它“有某种成功的机会”（Polya 1954（卷 2）: 148）。这两处都含混：可信性断言究竟是范畴性的，还是程度性的？这些观察指向两种彼此有别的可信性概念——*概率性的*与*模态性的*——类比论证的预期结论可以落在其中任一之上。
   - id: 64
     kind: body
     source: |-
       On the *probabilistic* conception, plausibility is naturally identified with rational credence (rational subjective degree of belief) and is typically represented as a probability. A classic expression may be found in Mill’s analysis of the argument from analogy in *A System of Logic*:
     step1: |-
-      On the *probabilistic* conception, plausibility is naturally identified with rational credence (rational subjective degree of belief) and is typically represented as a probability. A classic expression may be found in Mill’s analysis of the argument from analogy in *A System of Logic*:
+      按*概率性的*概念，可信性自然被等同于合理信从（合理的主观信念度），并且典型地被表示为一个概率。一个经典表述可见于穆勒在《逻辑体系》中对类比论证的分析：
     step2: |-
-      On the *probabilistic* conception, plausibility is naturally identified with rational credence (rational subjective degree of belief) and is typically represented as a probability. A classic expression may be found in Mill’s analysis of the argument from analogy in *A System of Logic*:
+      按*概率性的*概念，可信性自然被等同于合理信从（合理的主观信念度），并典型地表示为一个概率。经典表述见于穆勒在《逻辑体系》中对类比论证的分析：
   - id: 65
     kind: body
     source: |-
       > There can be no doubt that every resemblance [not known to be irrelevant] affords some degree of probability, beyond what would otherwise exist, in favour of the conclusion. (Mill 1843/1930: 333)[^mill-1843]
     step1: |-
-      > There can be no doubt that every resemblance [not known to be irrelevant] affords some degree of probability, beyond what would otherwise exist, in favour of the conclusion. (Mill 1843/1930: 333)[^mill-1843]
+      > 毫无疑问，每一个［未已知为不相干的］相似性都为结论提供某种程度的概率，超出本来会有的程度。（Mill 1843/1930: 333）[^mill-1843]
     step2: |-
-      > There can be no doubt that every resemblance [not known to be irrelevant] affords some degree of probability, beyond what would otherwise exist, in favour of the conclusion. (Mill 1843/1930: 333)[^mill-1843]
+      > 毫无疑问，每一个［未已知为不相干的］相似性都为结论提供某种程度的概率，超出本来会有的程度。（Mill 1843/1930: 333）[^mill-1843]
   - id: 66
     kind: body
     source: |-
       In the terminology introduced in §2.2, Mill’s idea is that each element of the positive analogy boosts the probability of the conclusion. Contemporary ‘structure-mapping’ theories (§3.4) employ a restricted version: each *structural* similarity between two domains contributes to the overall measure of similarity, and hence to the strength of the analogical argument.
     step1: |-
-      In the terminology introduced in §2.2, Mill’s idea is that each element of the positive analogy boosts the probability of the conclusion. Contemporary ‘structure-mapping’ theories (§3.4) employ a restricted version: each *structural* similarity between two domains contributes to the overall measure of similarity, and hence to the strength of the analogical argument.
+      用 §2.2 引入的术语来说，穆勒的想法是：正类比中的每一个元素都提升结论的概率。当代的“结构映射”理论（§3.4）采用一个受限版本：两个域之间每一个*结构性的*相似都对总体的相似性度量有贡献，从而对类比论证的强度有贡献。
     step2: |-
-      In the terminology introduced in §2.2, Mill’s idea is that each element of the positive analogy boosts the probability of the conclusion. Contemporary ‘structure-mapping’ theories (§3.4) employ a restricted version: each *structural* similarity between two domains contributes to the overall measure of similarity, and hence to the strength of the analogical argument.
+      用 §2.2 的术语说，穆勒的想法是：正类比中的每个元素都抬升结论的概率。当代“结构映射”理论（§3.4）取其受限版本：两域之间每一个*结构性的*相似都计入总相似性度量，从而计入类比论证的强度。
   - id: 67
     kind: body
     source: |-
       On the alternative *modal* conception, ‘it is plausible that $p$’ is not a matter of degree. The meaning, roughly speaking, is that there are sufficient initial grounds for taking $p$ seriously, i.e., for further investigation (subject to feasibility and interest). Informally: $p$ passes an initial screening procedure. There is no assertion of degree. Instead, ‘It is plausible that’ may be regarded as an epistemic modal operator that aims to capture a notion, *prima facie* plausibility, that is somewhat stronger than ordinary epistemic possibility. The intent is to single out $p$ from an undifferentiated mass of ideas that remain bare epistemic possibilities. To illustrate: in 1769, Priestley’s argument (*Example 9*), if successful, would establish the *prima facie* plausibility of an inverse square law for electrostatic attraction. The set of *epistemic* possibilities—hypotheses about electrostatic attraction compatible with knowledge of the day—was much larger. Individual analogical arguments in mathematics (such as *Example 7*) are almost invariably directed towards *prima facie* plausibility.
     step1: |-
-      On the alternative *modal* conception, ‘it is plausible that $p$’ is not a matter of degree. The meaning, roughly speaking, is that there are sufficient initial grounds for taking $p$ seriously, i.e., for further investigation (subject to feasibility and interest). Informally: $p$ passes an initial screening procedure. There is no assertion of degree. Instead, ‘It is plausible that’ may be regarded as an epistemic modal operator that aims to capture a notion, *prima facie* plausibility, that is somewhat stronger than ordinary epistemic possibility. The intent is to single out $p$ from an undifferentiated mass of ideas that remain bare epistemic possibilities. To illustrate: in 1769, Priestley’s argument (*Example 9*), if successful, would establish the *prima facie* plausibility of an inverse square law for electrostatic attraction. The set of *epistemic* possibilities—hypotheses about electrostatic attraction compatible with knowledge of the day—was much larger. Individual analogical arguments in mathematics (such as *Example 7*) are almost invariably directed towards *prima facie* plausibility.
+      按另一种*模态性的*概念，“$p$ 是可信的”不是程度问题。其意思大致是说：有充分的初始理由认真对待 $p$，即进一步研究它（视可行性与兴趣而定）。非正式地说：$p$ 通过了一道初筛程序。这里没有对程度的断言。毋宁说，“$p$ 是可信的”可以被看作一个知识论模态算子，它意在把握一个比寻常知识论可能性稍强的概念，即*初步的*（*prima facie*）可信性。其用意是把 $p$ 从一大堆仍然只是赤裸裸的知识论可能性的想法中挑出来。举例来说：1769 年，普里斯特利的论证（*例 9*）如果成功，将确立静电吸引平方反比律的*初步*可信性。而*知识论上的*可能性集合——与当时知识相容的关于静电吸引的假说——要大得多。数学中的单个类比论证（如*例 7*）几乎总是指向*初步*可信性。
     step2: |-
-      On the alternative *modal* conception, ‘it is plausible that $p$’ is not a matter of degree. The meaning, roughly speaking, is that there are sufficient initial grounds for taking $p$ seriously, i.e., for further investigation (subject to feasibility and interest). Informally: $p$ passes an initial screening procedure. There is no assertion of degree. Instead, ‘It is plausible that’ may be regarded as an epistemic modal operator that aims to capture a notion, *prima facie* plausibility, that is somewhat stronger than ordinary epistemic possibility. The intent is to single out $p$ from an undifferentiated mass of ideas that remain bare epistemic possibilities. To illustrate: in 1769, Priestley’s argument (*Example 9*), if successful, would establish the *prima facie* plausibility of an inverse square law for electrostatic attraction. The set of *epistemic* possibilities—hypotheses about electrostatic attraction compatible with knowledge of the day—was much larger. Individual analogical arguments in mathematics (such as *Example 7*) are almost invariably directed towards *prima facie* plausibility.
+      按另一种*模态性的*概念，“$p$ 是可信的”不是程度问题：大意是，已有充分的初始理由认真对待 $p$——即进一步研究它（视可行性与兴趣而定）。不拘地说：$p$ 通过了初筛。这里没有任何程度断言。毋宁说，“它是可信的”这一表述可视为一个知识论模态算子，意在刻画比寻常知识论可能性稍强的概念：*初步的*（*prima facie*）可信性。用意是把 $p$ 从一大堆仍只是赤裸知识论可能性的想法里挑出来。举例说：1769 年，普里斯特利的论证（*例 9*）若成功，便确立了静电吸引平方反比律的*初步*可信性；而与当时知识相容的静电吸引假说构成的*知识论*可能性集合要大得多。数学中的单个类比论证（如*例 7*）几乎总是指向*初步*可信性。
   - id: 68
     kind: body
     source: |-
       The modal conception figures importantly in some discussions of analogical reasoning. The physicist N. R. Campbell (1957) writes:
     step1: |-
-      The modal conception figures importantly in some discussions of analogical reasoning. The physicist N. R. Campbell (1957) writes:
+      模态性概念在一些关于类推推理的讨论中扮演重要角色。物理学家 N. R. Campbell（1957）写道：
     step2: |-
-      The modal conception figures importantly in some discussions of analogical reasoning. The physicist N. R. Campbell (1957) writes:
+      模态性概念在一些类推推理讨论中举足轻重。物理学家 N. R. Campbell（1957）写道：
   - id: 69
     kind: body
     source: |-
       > But in order that a theory may be valuable it must … display an analogy. The propositions of the hypothesis must be analogous to some known laws…. (1957: 129)
     step1: |-
-      > But in order that a theory may be valuable it must … display an analogy. The propositions of the hypothesis must be analogous to some known laws…. (1957: 129)
+      > 但一个理论要有价值，它必须……展示出一个类比。该假说的诸命题必须与某些已知定律类似……（1957: 129）
     step2: |-
-      > But in order that a theory may be valuable it must … display an analogy. The propositions of the hypothesis must be analogous to some known laws…. (1957: 129)
+      > 但一个理论要有价值，它必须……展示出一个类比。该假说的诸命题必须与某些已知定律类似……（1957: 129）
   - id: 70
     kind: body
     source: |-
       Commenting on the role of analogy in Fourier’s theory of heat conduction, Campbell writes:
     step1: |-
-      Commenting on the role of analogy in Fourier’s theory of heat conduction, Campbell writes:
+      在评论类比于傅里叶热传导理论中的作用时，Campbell 写道：
     step2: |-
-      Commenting on the role of analogy in Fourier’s theory of heat conduction, Campbell writes:
+      评论类比在傅里叶热传导理论中的作用时，Campbell 写道：
   - id: 71
     kind: body
     source: |-
       > *Some* analogy is essential to it; for it is only this analogy which distinguishes the theory from the multitude of others… which might also be proposed to explain the same laws. (1957: 142)
     step1: |-
-      > *Some* analogy is essential to it; for it is only this analogy which distinguishes the theory from the multitude of others… which might also be proposed to explain the same laws. (1957: 142)
+      > *某种*类比对此是必不可少的；因为正是这种类比把该理论与同样可能被提出来解释同一批定律的众多其他理论区分开来。（1957: 142）
     step2: |-
-      > *Some* analogy is essential to it; for it is only this analogy which distinguishes the theory from the multitude of others… which might also be proposed to explain the same laws. (1957: 142)
+      > *某种*类比是必不可少的；正是这种类比把这个理论与其他同样可能被提出来解释同一批定律的理论区分开来。（1957: 142）
   - id: 72
     kind: body
     source: |-
       The interesting notion here is that of a “valuable” theory. We may not agree with Campbell that the existence of analogy is “essential” for a novel theory to be “valuable.” But consider the weaker thesis that an acceptable analogy is *sufficient* to establish that a theory is “valuable”, or (to qualify still further) that an acceptable analogy provides defeasible grounds for taking the theory seriously. (Possible defeaters might include internal inconsistency, inconsistency with accepted theory, or the existence of a (clearly superior) rival analogical argument.) The point is that Campbell, following the lead of 19ᵗʰ century philosopher-scientists such as Herschel and Whewell, thinks that analogies can establish this sort of *prima facie* plausibility. Snyder (2006) provides a detailed discussion of the latter two thinkers and their ideas about the role of analogies in science.
     step1: |-
-      The interesting notion here is that of a “valuable” theory. We may not agree with Campbell that the existence of analogy is “essential” for a novel theory to be “valuable.” But consider the weaker thesis that an acceptable analogy is *sufficient* to establish that a theory is “valuable”, or (to qualify still further) that an acceptable analogy provides defeasible grounds for taking the theory seriously. (Possible defeaters might include internal inconsistency, inconsistency with accepted theory, or the existence of a (clearly superior) rival analogical argument.) The point is that Campbell, following the lead of 19ᵗʰ century philosopher-scientists such as Herschel and Whewell, thinks that analogies can establish this sort of *prima facie* plausibility. Snyder (2006) provides a detailed discussion of the latter two thinkers and their ideas about the role of analogies in science.
+      这里有意思的概念是“有价值的”理论。我们未必同意 Campbell：类比的存在对一个大有价值的新理论来说是“必不可少的”。但考虑一个较弱的论题：一个可接受的类比*足以*确立一个理论是“有价值的”，或者（再退一步）一个可接受的类比为认真对待该理论提供了可挫败的理由。（可能的挫败者包括内部不一致、与被接受的理论不一致，或存在一个（明显更优的）竞争对手类比论证。）要点在于：Campbell 精神上追随赫尔歇（Herschel）与休厄尔（Whewell）等十九世纪哲学家—科学家，认为类比能够确立这种*初步的*可信性。Snyder（2006）详细讨论了后两位思想家及其关于类比在科学中之作用的看法。
     step2: |-
-      The interesting notion here is that of a “valuable” theory. We may not agree with Campbell that the existence of analogy is “essential” for a novel theory to be “valuable.” But consider the weaker thesis that an acceptable analogy is *sufficient* to establish that a theory is “valuable”, or (to qualify still further) that an acceptable analogy provides defeasible grounds for taking the theory seriously. (Possible defeaters might include internal inconsistency, inconsistency with accepted theory, or the existence of a (clearly superior) rival analogical argument.) The point is that Campbell, following the lead of 19ᵗʰ century philosopher-scientists such as Herschel and Whewell, thinks that analogies can establish this sort of *prima facie* plausibility. Snyder (2006) provides a detailed discussion of the latter two thinkers and their ideas about the role of analogies in science.
+      这里有意思的概念是“有价值的”理论。我们未必同意 Campbell——类比的存在对一个新的“有价值的”理论来说是“必不可少的”；但可以考虑一个较弱的论题：一个可接受的类比*足以*确立理论“有价值”，或者（再退一步）为认真对待该理论提供可挫败的理由。（可能的挫败者：内部不一致、与既有理论冲突，或存在（明显更优的）竞争性类比论证。）要点是：Campbell 承接 Herschel、Whewell 等十九世纪哲学家—科学家的路线，认为类比能确立这种*初步的*可信性。Snyder（2006）详细讨论了后两位思想家及其类比观。
   - id: 73
     kind: body
     source: |-
       In general, analogical arguments may be directed at establishing either sort of plausibility for their conclusions; they can have a probabilistic use or a modal use. *Examples 7* through 9 are best interpreted as supporting modal conclusions. In those arguments, an analogy is used to show that a conjecture is worth taking seriously. To insist on putting the conclusion in probabilistic terms distracts attention from the point of the argument. The conclusion might be modeled (by a Bayesian) as having a certain probability value *because* it is deemed *prima facie* plausible, but not vice versa. *Example 2*, perhaps, might be regarded as directed primarily towards a probabilistic conclusion.
     step1: |-
-      In general, analogical arguments may be directed at establishing either sort of plausibility for their conclusions; they can have a probabilistic use or a modal use. *Examples 7* through 9 are best interpreted as supporting modal conclusions. In those arguments, an analogy is used to show that a conjecture is worth taking seriously. To insist on putting the conclusion in probabilistic terms distracts attention from the point of the argument. The conclusion might be modeled (by a Bayesian) as having a certain probability value *because* it is deemed *prima facie* plausible, but not vice versa. *Example 2*, perhaps, might be regarded as directed primarily towards a probabilistic conclusion.
+      一般而言，类比论证可以指向为其结论确立两种可信性中的任何一种；它们可以有概率性的用途或模态性的用途。*例 7* 至 *例 9* 最好被解释为支持模态性的结论。在那些论证中，类比被用来表明一个猜想值得认真对待。坚持把结论放进概率性的术语里，会把注意力从论证的要点上引开。结论可以（由贝叶斯主义者）被建模为具有某个概率值，*因为*它被视为*初步地*可信，但不能反过来说。*例 2* 或许可被看作主要指向一个概率性的结论。
     step2: |-
-      In general, analogical arguments may be directed at establishing either sort of plausibility for their conclusions; they can have a probabilistic use or a modal use. *Examples 7* through 9 are best interpreted as supporting modal conclusions. In those arguments, an analogy is used to show that a conjecture is worth taking seriously. To insist on putting the conclusion in probabilistic terms distracts attention from the point of the argument. The conclusion might be modeled (by a Bayesian) as having a certain probability value *because* it is deemed *prima facie* plausible, but not vice versa. *Example 2*, perhaps, might be regarded as directed primarily towards a probabilistic conclusion.
+      一般而言，类比论证可以指向两种可信性中的任一种：概率性用途或模态性用途。*例 7* 至 *例 9* 最好解读为支持模态性结论——其中的类比旨在表明一个猜想值得认真对待。硬把结论塞进概率术语，反而岔开了论证的要点。结论可以（由贝叶斯主义者）被建模为具有某个概率值，*因为*它被视为*初步地*可信——但不能反过来。*例 2* 倒或许可以看作主要指向概率性结论。
   - id: 74
     kind: body
     source: |-
       There should be connections between the two conceptions. Indeed, we might think that the same analogical argument can establish both *prima facie* plausibility and a degree of probability for a hypothesis. But it is difficult to translate between epistemic modal concepts and probabilities (Cohen 1980; Douven and Williamson 2006; Huber 2009; Spohn 2009, 2012)[^cohen-1980][^douven-2006][^huber-2009][^huber-2009-2][^spohn-2009]. We cannot simply take the probabilistic notion as the primitive one. It seems wise to keep the two conceptions of plausibility separate.
     step1: |-
-      There should be connections between the two conceptions. Indeed, we might think that the same analogical argument can establish both *prima facie* plausibility and a degree of probability for a hypothesis. But it is difficult to translate between epistemic modal concepts and probabilities (Cohen 1980; Douven and Williamson 2006; Huber 2009; Spohn 2009, 2012)[^cohen-1980][^douven-2006][^huber-2009][^huber-2009-2][^spohn-2009]. We cannot simply take the probabilistic notion as the primitive one. It seems wise to keep the two conceptions of plausibility separate.
+      两种概念之间应当有联系。的确，我们也许会认为，同一个类比论证既能确立*初步的*可信性，又能为假说确立某种概率度。但是，在知识论模态概念与概率之间进行翻译是困难的（Cohen 1980; Douven and Williamson 2006; Huber 2009; Spohn 2009, 2012）[^cohen-1980][^douven-2006][^huber-2009][^huber-2009-2][^spohn-2009]。我们不能简单地把概率性概念当作初始概念。把两种可信性概念分开看待似乎是明智的。
     step2: |-
-      There should be connections between the two conceptions. Indeed, we might think that the same analogical argument can establish both *prima facie* plausibility and a degree of probability for a hypothesis. But it is difficult to translate between epistemic modal concepts and probabilities (Cohen 1980; Douven and Williamson 2006; Huber 2009; Spohn 2009, 2012)[^cohen-1980][^douven-2006][^huber-2009][^huber-2009-2][^spohn-2009]. We cannot simply take the probabilistic notion as the primitive one. It seems wise to keep the two conceptions of plausibility separate.
+      两种概念之间理应有联系。的确，我们或许会想：同一个类比论证既能确立*初步的*可信性，又能给出假说的某种概率度。但在知识论模态概念与概率之间作翻译是困难的（Cohen 1980; Douven and Williamson 2006; Huber 2009; Spohn 2009, 2012）[^cohen-1980][^douven-2006][^huber-2009][^huber-2009-2][^spohn-2009]。我们不能径把概率性概念当作初始概念。把两种可信性概念分而治之，看来是明智的。
   - id: 75
     kind: body
     source: |-
       ### 2.4 Analogical inference rules?
     step1: |-
-      ### 2.4 Analogical inference rules?
+      ### 2.4 类比推理规则？
     step2: |-
-      ### 2.4 Analogical inference rules?
+      ### 2.4 类比推理规则？
   - id: 76
     kind: body
     source: |-
       Schema (4) is a template that represents *all* analogical arguments, good and bad. It is not an inference rule. Despite the confidence with which particular analogical arguments are advanced, nobody has ever formulated an acceptable rule, or set of rules, for valid analogical inferences. There is not even a plausible candidate. This situation is in marked contrast not only with deductive reasoning, but also with elementary forms of inductive reasoning, such as induction by enumeration.
     step1: |-
-      Schema (4) is a template that represents *all* analogical arguments, good and bad. It is not an inference rule. Despite the confidence with which particular analogical arguments are advanced, nobody has ever formulated an acceptable rule, or set of rules, for valid analogical inferences. There is not even a plausible candidate. This situation is in marked contrast not only with deductive reasoning, but also with elementary forms of inductive reasoning, such as induction by enumeration.
+      图式（4）是一个模板，它表示*所有*类比论证，好的和坏的。它不是一条推理规则。尽管人们提出特定类比论证时满怀信心，但从未有人为有效的类比推理制定出一条可接受的规则或规则集。甚至连一个说得过去的候选者也没有。这种局面不仅与演绎推理形成鲜明对照，也与初级的归纳推理形式（如枚举归纳）形成鲜明对照。
     step2: |-
-      Schema (4) is a template that represents *all* analogical arguments, good and bad. It is not an inference rule. Despite the confidence with which particular analogical arguments are advanced, nobody has ever formulated an acceptable rule, or set of rules, for valid analogical inferences. There is not even a plausible candidate. This situation is in marked contrast not only with deductive reasoning, but also with elementary forms of inductive reasoning, such as induction by enumeration.
+      图式（4）是一个表示*所有*类比论证的模板——好的坏的都在内。它不是推理规则。尽管提出具体类比论证时人们满怀信心，但迄今为止，无人为有效的类比推理制定出任何可接受的规则或规则集，连说得过去的候选者都没有。这种局面不只与演绎推理形成鲜明对照，与枚举归纳这类初级归纳推理形式同样如此。
   - id: 77
     kind: body
     source: |-
       Of course, it is difficult to show that no successful analogical inference rule will ever be proposed. But consider the following candidate, formulated using the concepts of schema (4) and taking us only a short step beyond that basic characterization.
     step1: |-
-      Of course, it is difficult to show that no successful analogical inference rule will ever be proposed. But consider the following candidate, formulated using the concepts of schema (4) and taking us only a short step beyond that basic characterization.
+      当然，要证明永远不会有人提出成功的类比推理规则，是困难的。但请考虑下面这个候选规则，它使用图式（4）的概念来表述，只比那个基本刻画多走一小步。
     step2: |-
-      Of course, it is difficult to show that no successful analogical inference rule will ever be proposed. But consider the following candidate, formulated using the concepts of schema (4) and taking us only a short step beyond that basic characterization.
+      当然，要证明成功的类比推理规则永远不会出现，是困难的。但不妨考虑下面这个候选规则：它用图式（4）的概念表述，只比那个基本刻画多走一小步。
   - id: 78
     kind: body
     source: |-
@@ -676,105 +676,105 @@ segments:
     source: |-
       Suppose $S$ and $T$ are the source and target domains. Suppose $P_1 , \ldots ,P_n$ (with $n \ge 1)$ represents the positive analogy, $A_1 , \ldots ,A_r$ and ${\sim}B_1 , \ldots ,{\sim}B_s$ represent the (possibly vacuous) negative analogy, and $Q$ represents the hypothetical analogy. In the absence of reasons for thinking otherwise, infer that $Q^*$ holds in the target domain with degree of support $p \gt 0$, where $p$ is an increasing function of $n$ and a decreasing function of $r$ and $s$.
     step1: |-
-      Suppose $S$ and $T$ are the source and target domains. Suppose $P_1 , \ldots ,P_n$ (with $n \ge 1)$ represents the positive analogy, $A_1 , \ldots ,A_r$ and ${\sim}B_1 , \ldots ,{\sim}B_s$ represent the (possibly vacuous) negative analogy, and $Q$ represents the hypothetical analogy. In the absence of reasons for thinking otherwise, infer that $Q^*$ holds in the target domain with degree of support $p \gt 0$, where $p$ is an increasing function of $n$ and a decreasing function of $r$ and $s$.
+      假设 $S$ 与 $T$ 是源域与目标域。假设 $P_1 , \ldots ,P_n$（其中 $n \ge 1$）表示正类比，$A_1 , \ldots ,A_r$ 与 ${\sim}B_1 , \ldots ,{\sim}B_s$ 表示（可能为空的）负类比，$Q$ 表示假说类比。在没有相反理由的情况下，推出 $Q^*$ 以支持度 $p \gt 0$ 在目标域中成立，其中 $p$ 是 $n$ 的增函数，是 $r$ 与 $s$ 的减函数。
     step2: |-
-      Suppose $S$ and $T$ are the source and target domains. Suppose $P_1 , \ldots ,P_n$ (with $n \ge 1)$ represents the positive analogy, $A_1 , \ldots ,A_r$ and ${\sim}B_1 , \ldots ,{\sim}B_s$ represent the (possibly vacuous) negative analogy, and $Q$ represents the hypothetical analogy. In the absence of reasons for thinking otherwise, infer that $Q^*$ holds in the target domain with degree of support $p \gt 0$, where $p$ is an increasing function of $n$ and a decreasing function of $r$ and $s$.
+      设 $S$ 与 $T$ 为源域与目标域；设 $P_1 , \ldots ,P_n$（$n \ge 1$）表示正类比，$A_1 , \ldots ,A_r$ 与 ${\sim}B_1 , \ldots ,{\sim}B_s$ 表示（可能为空的）负类比，$Q$ 表示假说类比。在没有相反理由时，推出：$Q^*$ 以支持度 $p \gt 0$ 在目标域中成立，其中 $p$ 是 $n$ 的增函数、$r$ 与 $s$ 的减函数。
   - id: 80
     kind: body
     source: |-
       Rule (5) is modeled on the straight rule for enumerative induction and inspired by Mill’s view of analogical inference, as described in §2.3. We use the generic phrase ‘degree of support’ in place of probability, since other factors besides the analogical argument may influence our probability assignment for $Q^*$.
     step1: |-
-      Rule (5) is modeled on the straight rule for enumerative induction and inspired by Mill’s view of analogical inference, as described in §2.3. We use the generic phrase ‘degree of support’ in place of probability, since other factors besides the analogical argument may influence our probability assignment for $Q^*$.
+      规则（5）以枚举归纳的直规则为模型，并受到 §2.3 所述穆勒类比推理观的启发。我们用通用的短语“支持度”替代概率，因为除类比论证外，其他因素也可能影响我们对 $Q^*$ 的概率指派。
     step2: |-
-      Rule (5) is modeled on the straight rule for enumerative induction and inspired by Mill’s view of analogical inference, as described in §2.3. We use the generic phrase ‘degree of support’ in place of probability, since other factors besides the analogical argument may influence our probability assignment for $Q^*$.
+      规则（5）仿枚举归纳的直规则而立，并受 §2.3 所述穆勒类比推理观启发。我们用泛称“支持度”代替概率：除类比论证外，其他因素也会影响我们对 $Q^*$ 的概率指派。
   - id: 81
     kind: body
     source: |-
       It is pretty clear that (5) is a non-starter. The main problem is that the rule justifies too much. The only substantive requirement introduced by (5) is that there be a nonempty positive analogy. Plainly, there are analogical arguments that satisfy this condition but establish no *prima facie* plausibility and no measure of support for their conclusions.
     step1: |-
-      It is pretty clear that (5) is a non-starter. The main problem is that the rule justifies too much. The only substantive requirement introduced by (5) is that there be a nonempty positive analogy. Plainly, there are analogical arguments that satisfy this condition but establish no *prima facie* plausibility and no measure of support for their conclusions.
+      相当清楚，（5）是一个不成功的起点。主要问题在于：这条规则为过多的东西作了辩护。（5）引入的唯一实质性要求是存在一个非空的类比。显然，有些类比论证满足这一条件，却既不确立任何*初步的*可信性，也不为其结论提供任何支持度量。
     step2: |-
-      It is pretty clear that (5) is a non-starter. The main problem is that the rule justifies too much. The only substantive requirement introduced by (5) is that there be a nonempty positive analogy. Plainly, there are analogical arguments that satisfy this condition but establish no *prima facie* plausibility and no measure of support for their conclusions.
+      相当清楚，（5）出师即败。主要问题是：这条规则辩护得太多。（5）引入的唯一实质性要求是存在非空的正类比。显然，有些类比论证满足这一条件，却既确立不了任何*初步的*可信性，也给不出结论的任何支持度量。
   - id: 82
     kind: body
     source: |-
       Here is a simple illustration. Achinstein (1964: 328) observes that there is a formal analogy between swans and line segments if we take the relation ‘has the same color as’ to correspond to ‘is congruent with’. Both relations are reflexive, symmetric, and transitive. Yet it would be absurd to find positive support from this analogy for the idea that we are likely to find congruent lines clustered in groups of two or more, just because swans of the same color are commonly found in groups. The positive analogy is antecedently known to be irrelevant to the hypothetical analogy. In such a case, the analogical inference should be utterly rejected. Yet rule (5) would wrongly assign non-zero degree of support.
     step1: |-
-      Here is a simple illustration. Achinstein (1964: 328) observes that there is a formal analogy between swans and line segments if we take the relation ‘has the same color as’ to correspond to ‘is congruent with’. Both relations are reflexive, symmetric, and transitive. Yet it would be absurd to find positive support from this analogy for the idea that we are likely to find congruent lines clustered in groups of two or more, just because swans of the same color are commonly found in groups. The positive analogy is antecedently known to be irrelevant to the hypothetical analogy. In such a case, the analogical inference should be utterly rejected. Yet rule (5) would wrongly assign non-zero degree of support.
+      这里有一个简单的例示。Achinstein（1964: 328）注意到，如果我们让关系“与……同色”对应于“与……全等”，那么天鹅与线段之间存在形式类比。两个关系都是自反的、对称的、传递的。然而，仅仅因为同色的天鹅常成群出现，就认为这一类比为我们可能成群地发现全等线段这一想法提供了正支持，那是荒谬的。正类比在先已知与假说类比不相干。在这种情形下，类比推理应当被完全拒绝。然而规则（5）会错误地指派一个非零的支持度。
     step2: |-
-      Here is a simple illustration. Achinstein (1964: 328) observes that there is a formal analogy between swans and line segments if we take the relation ‘has the same color as’ to correspond to ‘is congruent with’. Both relations are reflexive, symmetric, and transitive. Yet it would be absurd to find positive support from this analogy for the idea that we are likely to find congruent lines clustered in groups of two or more, just because swans of the same color are commonly found in groups. The positive analogy is antecedently known to be irrelevant to the hypothetical analogy. In such a case, the analogical inference should be utterly rejected. Yet rule (5) would wrongly assign non-zero degree of support.
+      举个简单的例子。Achinstein（1964: 328）注意到：若让“与……同色”对应“与……全等”，天鹅与线段之间便有形式类比——两个关系都自反、对称、传递。然而，仅仅因为同色天鹅常成群，便认为这层类比为我们可能成群发现全等线段的想法提供了正支持，显然荒谬：正类比在先已知与假说类比不相干。这种情形下，类比推理应被彻底拒绝；而规则（5）却会错指一个非零支持度。
   - id: 83
     kind: body
     source: |-
       To generalize the difficulty: not every similarity increases the probability of the conclusion and not every difference decreases it. Some similarities and differences are known to be (or accepted as being) utterly irrelevant and should have no influence whatsoever on our probability judgments. To be viable, rule (5) would need to be supplemented with considerations of *relevance*, which depend upon the subject matter, historical context and logical details particular to each analogical argument. To search for a simple rule of analogical inference thus appears futile.
     step1: |-
-      To generalize the difficulty: not every similarity increases the probability of the conclusion and not every difference decreases it. Some similarities and differences are known to be (or accepted as being) utterly irrelevant and should have no influence whatsoever on our probability judgments. To be viable, rule (5) would need to be supplemented with considerations of *relevance*, which depend upon the subject matter, historical context and logical details particular to each analogical argument. To search for a simple rule of analogical inference thus appears futile.
+      把困难一般化：并非每个相似性都提高结论的概率，也并非每个差异都降低它。有些相似与差异已知（或被接受为）完全不相干，对我们的概率判断不应有任何影响。要使规则（5）可行，需要补充关于*相关性*的考虑，而后者取决于每个类比论证特有的题材、历史语境与逻辑细节。为类比推理寻找一条简单规则，看起来是徒劳的。
     step2: |-
-      To generalize the difficulty: not every similarity increases the probability of the conclusion and not every difference decreases it. Some similarities and differences are known to be (or accepted as being) utterly irrelevant and should have no influence whatsoever on our probability judgments. To be viable, rule (5) would need to be supplemented with considerations of *relevance*, which depend upon the subject matter, historical context and logical details particular to each analogical argument. To search for a simple rule of analogical inference thus appears futile.
+      把困难一般化：并非每个相似性都抬升结论的概率，也并非每个差异都压低它。有些相似与差异已知（或被接受为）毫不相干，理应对我们的概率判断毫无影响。规则（5）要可行，就得补上关于*相关性*的考量——而那取决于各个类比论证特有的题材、历史语境与逻辑细节。为类比推理寻觅一条简单规则，看来是徒劳的。
   - id: 84
     kind: body
     source: |-
       Carnap and his followers (Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006)[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006] have formulated principles of analogy for inductive logic, using Carnapian $\lambda \gamma$ rules. Generally, this body of work relates to “analogy by similarity”, rather than the type of analogical reasoning discussed here. Romeijn (2006) maintains that there is a relation between Carnap’s concept of analogy and analogical prediction. His approach is a hybrid of Carnap-style inductive rules and a Bayesian model. Such an approach would need to be generalized to handle the kinds of arguments described in §2.1. It remains unclear that the Carnapian approach can provide a general rule for analogical inference.
     step1: |-
-      Carnap and his followers (Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006)[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006] have formulated principles of analogy for inductive logic, using Carnapian $\lambda \gamma$ rules. Generally, this body of work relates to “analogy by similarity”, rather than the type of analogical reasoning discussed here. Romeijn (2006) maintains that there is a relation between Carnap’s concept of analogy and analogical prediction. His approach is a hybrid of Carnap-style inductive rules and a Bayesian model. Such an approach would need to be generalized to handle the kinds of arguments described in §2.1. It remains unclear that the Carnapian approach can provide a general rule for analogical inference.
+      Carnap 及其追随者（Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006）[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006]为归纳逻辑制定了类比原则，使用 Carnap 式的 $\lambda \gamma$ 规则。总体上，这批工作涉及的是“基于相似性的类比”，而非这里讨论的那种类推推理。Romeijn（2006）主张 Carnap 的类比概念与类比预测之间存在一种关系。他的进路是 Carnap 式归纳规则与贝叶斯模型的混合。这种进路需要加以推广，才能处理 §2.1 描述的那几类论证。Carnap 式进路能否为类比推理提供一般规则，仍不清楚。
     step2: |-
-      Carnap and his followers (Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006)[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006] have formulated principles of analogy for inductive logic, using Carnapian $\lambda \gamma$ rules. Generally, this body of work relates to “analogy by similarity”, rather than the type of analogical reasoning discussed here. Romeijn (2006) maintains that there is a relation between Carnap’s concept of analogy and analogical prediction. His approach is a hybrid of Carnap-style inductive rules and a Bayesian model. Such an approach would need to be generalized to handle the kinds of arguments described in §2.1. It remains unclear that the Carnapian approach can provide a general rule for analogical inference.
+      Carnap 及其追随者（Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006）[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006]曾用 Carnap 式 $\lambda \gamma$ 规则为归纳逻辑制定类比原则。总体上，这批工作处理的是“基于相似性的类比”，而非此处讨论的类推推理。Romeijn（2006）认为Carnap 的类比概念与类比预测之间有关系：他的进路是 Carnap 式归纳规则与贝叶斯模型的混合体。要处理 §2.1 那几类论证，这种进路还需推广。Carnap 式进路能否给出类比推理的一般规则，仍不清楚。
   - id: 85
     kind: body
     source: |-
       Norton (2010, and 2018—see Other Internet Resources) has argued that the project of formalizing inductive reasoning in terms of one or more simple formal schemata is doomed. His criticisms seem especially apt when applied to analogical reasoning. He writes:
     step1: |-
-      Norton (2010, and 2018—see Other Internet Resources) has argued that the project of formalizing inductive reasoning in terms of one or more simple formal schemata is doomed. His criticisms seem especially apt when applied to analogical reasoning. He writes:
+      Norton（2010，以及 2018——见其他网络资源）论证说，用一条或多条简单的形式图式把归纳推理形式化的方案注定失败。他的批评用于类推推理时显得格外贴切。他写道：
     step2: |-
-      Norton (2010, and 2018—see Other Internet Resources) has argued that the project of formalizing inductive reasoning in terms of one or more simple formal schemata is doomed. His criticisms seem especially apt when applied to analogical reasoning. He writes:
+      Norton（2010，及 2018——见其他网络资源）论证：以一条或几条简单形式图式将归纳推理形式化的方案注定失败。这类批评放到类推推理上，显得格外贴切。他写道：
   - id: 86
     kind: body
     source: |-
       > If analogical reasoning is required to conform only to a simple formal schema, the restriction is too permissive. Inferences are authorized that clearly should not pass muster… The natural response has been to develop more elaborate formal templates… The familiar difficulty is that these embellished schema never seem to be quite embellished enough; there always seems to be some part of the analysis that must be handled intuitively without guidance from strict formal rules. (2018: 1)
     step1: |-
-      > If analogical reasoning is required to conform only to a simple formal schema, the restriction is too permissive. Inferences are authorized that clearly should not pass muster… The natural response has been to develop more elaborate formal templates… The familiar difficulty is that these embellished schema never seem to be quite embellished enough; there always seems to be some part of the analysis that must be handled intuitively without guidance from strict formal rules. (2018: 1)
+      > 如果类推推理被要求只遵从一个简单的形式图式，这一限制就太过宽松。一些明显不该过关的推理得到了授权……自然的反应是发展更精致的形式模板……熟悉的困难在于，这些饰加了图式似乎永远饰加得不够；分析中似乎总有一部分必须凭直觉处理，得不到严格形式规则的指引。（2018: 1）
     step2: |-
-      > If analogical reasoning is required to conform only to a simple formal schema, the restriction is too permissive. Inferences are authorized that clearly should not pass muster… The natural response has been to develop more elaborate formal templates… The familiar difficulty is that these embellished schema never seem to be quite embellished enough; there always seems to be some part of the analysis that must be handled intuitively without guidance from strict formal rules. (2018: 1)
+      > 若要求类推推理只遵从一个简单的形式图式，这个限制便太宽松：一些明显不该过关的推理得到了授权……自然的回应是发展更精致的形式模板……熟悉的困难在于：这些经过饰加的图式似乎永远饰加得不够；分析中似乎总有一部分要凭直觉处理，得不到严格形式规则的指引。（2018: 1）
   - id: 87
     kind: body
     source: |-
       Norton takes the point one step further, in keeping with his “material theory” of inductive inference. He argues that there is no universal logical principle that “powers” analogical inference “by asserting that things that share some properties must share others.” Rather, each analogical inference is warranted by some local constellation of facts about the target system that he terms “the fact of analogy”. These local facts are to be determined and investigated on a case by case basis.
     step1: |-
-      Norton takes the point one step further, in keeping with his “material theory” of inductive inference. He argues that there is no universal logical principle that “powers” analogical inference “by asserting that things that share some properties must share others.” Rather, each analogical inference is warranted by some local constellation of facts about the target system that he terms “the fact of analogy”. These local facts are to be determined and investigated on a case by case basis.
+      Norton 把这一点再推进一步，与他关于归纳推理的“实质理论”一脉相承。他论证说，不存在“通过断言共享某些属性的事物必然共享另一些属性”来“驱动”类比推理的普遍逻辑原则。毋宁说，每一个类比推理的证成都依赖于关于目标系统的某种局部事实配置，他称之为“类比的事实”。这些局部事实须逐案确定与研究。
     step2: |-
-      Norton takes the point one step further, in keeping with his “material theory” of inductive inference. He argues that there is no universal logical principle that “powers” analogical inference “by asserting that things that share some properties must share others.” Rather, each analogical inference is warranted by some local constellation of facts about the target system that he terms “the fact of analogy”. These local facts are to be determined and investigated on a case by case basis.
+      Norton 把这一点再推一步，与他关于归纳推理的“实质理论”一脉相承。他论证：不存在一条普遍逻辑原则，能“凭借断言‘共享某些属性的事物必然共享另一些属性’”来“驱动”类比推理。毋宁说，每个类比推理的证成都靠目标系统的一组局部事实配置——他称之为“类比的事实”（the fact of analogy）。这些局部事实要逐案确定、逐案研究。
   - id: 88
     kind: body
     source: |-
       To embrace a purely formal approach to analogy and to abjure formalization entirely are two extremes in a spectrum of strategies. There are intermediate positions. Most recent analyses (both philosophical and computational) have been directed towards elucidating criteria and procedures, rather than formal rules, for reasoning by analogy. So long as these are not intended to provide a universal ‘logic’ of analogy, there is room for such criteria even if one accepts Norton’s basic point. The next section discusses some of these criteria and procedures.
     step1: |-
-      To embrace a purely formal approach to analogy and to abjure formalization entirely are two extremes in a spectrum of strategies. There are intermediate positions. Most recent analyses (both philosophical and computational) have been directed towards elucidating criteria and procedures, rather than formal rules, for reasoning by analogy. So long as these are not intended to provide a universal ‘logic’ of analogy, there is room for such criteria even if one accepts Norton’s basic point. The next section discusses some of these criteria and procedures.
+      拥抱一种纯形式的类比进路与完全拒斥形式化，是一条策略光谱上的两个极端。中间立场是存在的。最近的大多数分析（哲学的与计算的）都致力于阐明类推推理的判据与程序，而不是形式规则。只要这些判据无意提供一种普遍的类比“逻辑”，那么即便接受 Norton 的基本论点，这类判据仍有存在空间。下一节讨论其中的一些判据与程序。
     step2: |-
-      To embrace a purely formal approach to analogy and to abjure formalization entirely are two extremes in a spectrum of strategies. There are intermediate positions. Most recent analyses (both philosophical and computational) have been directed towards elucidating criteria and procedures, rather than formal rules, for reasoning by analogy. So long as these are not intended to provide a universal ‘logic’ of analogy, there is room for such criteria even if one accepts Norton’s basic point. The next section discusses some of these criteria and procedures.
+      全盘拥抱形式进路与彻底拒斥形式化，是策略光谱上的两个极端；中间立场是存在的。晚近的大多数分析（哲学的与计算的）都致力于阐明类推推理的判据与程序，而非形式规则。只要这些判据并不自命为普遍的类比“逻辑”，即便接受 Norton 的基本论点，它们仍有存身之地。下一节讨论其中一些判据与程序。
   - id: 89
     kind: body
     source: |-
       ## 3. Criteria for evaluating analogical arguments
     step1: |-
-      ## 3. Criteria for evaluating analogical arguments
+      ## 3 评价类比论证的判据
     step2: |-
-      ## 3. Criteria for evaluating analogical arguments
+      ## 3 评价类比论证的判据
   - id: 90
     kind: body
     source: |-
       ### 3.1 Commonsense guidelines
     step1: |-
-      ### 3.1 Commonsense guidelines
+      ### 3.1 常识性指引
     step2: |-
-      ### 3.1 Commonsense guidelines
+      ### 3.1 常识性指引
   - id: 91
     kind: body
     source: |-
       Logicians and philosophers of science have identified ‘textbook-style’ general guidelines for evaluating analogical arguments (Mill 1843/1930; Keynes 1921; Robinson 1930; Stebbing 1933; Copi and Cohen 2005; Moore and Parker 1998; Woods, Irvine, and Walton 2004)[^copi-2005][^keynes-1921][^mill-1843][^moore-1998][^robinson-1930][^stebbing-1933]. Here are some of the most important ones:
     step1: |-
-      Logicians and philosophers of science have identified ‘textbook-style’ general guidelines for evaluating analogical arguments (Mill 1843/1930; Keynes 1921; Robinson 1930; Stebbing 1933; Copi and Cohen 2005; Moore and Parker 1998; Woods, Irvine, and Walton 2004)[^copi-2005][^keynes-1921][^mill-1843][^moore-1998][^robinson-1930][^stebbing-1933]. Here are some of the most important ones:
+      逻辑学家与科学哲学家已经总结出评价类比论证的“教科书式”一般指引（Mill 1843/1930; Keynes 1921; Robinson 1930; Stebbing 1933; Copi and Cohen 2005; Moore and Parker 1998; Woods, Irvine, and Walton 2004）[^copi-2005][^keynes-1921][^mill-1843][^moore-1998][^robinson-1930][^stebbing-1933]。以下是最重要的几条：
     step2: |-
-      Logicians and philosophers of science have identified ‘textbook-style’ general guidelines for evaluating analogical arguments (Mill 1843/1930; Keynes 1921; Robinson 1930; Stebbing 1933; Copi and Cohen 2005; Moore and Parker 1998; Woods, Irvine, and Walton 2004)[^copi-2005][^keynes-1921][^mill-1843][^moore-1998][^robinson-1930][^stebbing-1933]. Here are some of the most important ones:
+      逻辑学家与科学哲学家总结过评价类比论证的“教科书式”一般指引（Mill 1843/1930; Keynes 1921; Robinson 1930; Stebbing 1933; Copi and Cohen 2005; Moore and Parker 1998; Woods, Irvine, and Walton 2004）[^copi-2005][^keynes-1921][^mill-1843][^moore-1998][^robinson-1930][^stebbing-1933]。其中最重要的几条如下：
   - id: 92
     kind: body
     source: |-
@@ -788,9 +788,9 @@ segments:
     source: |-
       The more similarities (between two domains), the stronger the analogy.
     step1: |-
-      The more similarities (between two domains), the stronger the analogy.
+      两个域之间相似之处越多，类比越强。
     step2: |-
-      The more similarities (between two domains), the stronger the analogy.
+      两个域之间相似之处越多，类比越强。
   - id: 94
     kind: body
     source: |-
@@ -804,9 +804,9 @@ segments:
     source: |-
       The more differences, the weaker the analogy.
     step1: |-
-      The more differences, the weaker the analogy.
+      差异越多，类比越弱。
     step2: |-
-      The more differences, the weaker the analogy.
+      差异越多，类比越弱。
   - id: 96
     kind: body
     source: |-
@@ -820,9 +820,9 @@ segments:
     source: |-
       The greater the extent of our ignorance about the two domains, the weaker the analogy.
     step1: |-
-      The greater the extent of our ignorance about the two domains, the weaker the analogy.
+      我们对两个域越无知，类比越弱。
     step2: |-
-      The greater the extent of our ignorance about the two domains, the weaker the analogy.
+      我们对两个域越无知，类比越弱。
   - id: 98
     kind: body
     source: |-
@@ -836,9 +836,9 @@ segments:
     source: |-
       The weaker the conclusion, the more plausible the analogy.
     step1: |-
-      The weaker the conclusion, the more plausible the analogy.
+      结论越弱，类比越可信。
     step2: |-
-      The weaker the conclusion, the more plausible the analogy.
+      结论越弱，类比越可信。
   - id: 100
     kind: body
     source: |-
@@ -852,9 +852,9 @@ segments:
     source: |-
       Analogies involving causal relations are more plausible than those not involving causal relations.
     step1: |-
-      Analogies involving causal relations are more plausible than those not involving causal relations.
+      涉及因果关系的类比比不涉及因果关系的类比更可信。
     step2: |-
-      Analogies involving causal relations are more plausible than those not involving causal relations.
+      涉及因果关系的类比比不涉及因果关系的类比更可信。
   - id: 102
     kind: body
     source: |-
@@ -868,9 +868,9 @@ segments:
     source: |-
       Structural analogies are stronger than those based on superficial similarities.
     step1: |-
-      Structural analogies are stronger than those based on superficial similarities.
+      结构性的类比比基于表面相似性的类比更强。
     step2: |-
-      Structural analogies are stronger than those based on superficial similarities.
+      结构性的类比比基于表面相似性的类比更强。
   - id: 104
     kind: body
     source: |-
@@ -884,9 +884,9 @@ segments:
     source: |-
       The relevance of the similarities and differences to the conclusion (i.e., to the hypothetical analogy) must be taken into account.
     step1: |-
-      The relevance of the similarities and differences to the conclusion (i.e., to the hypothetical analogy) must be taken into account.
+      必须考虑相似与差异同结论（即与假说类比）的相关性。
     step2: |-
-      The relevance of the similarities and differences to the conclusion (i.e., to the hypothetical analogy) must be taken into account.
+      必须考虑相似与差异同结论（即与假说类比）的相关性。
   - id: 106
     kind: body
     source: |-
@@ -900,65 +900,65 @@ segments:
     source: |-
       Multiple analogies supporting the same conclusion make the argument stronger.
     step1: |-
-      Multiple analogies supporting the same conclusion make the argument stronger.
+      支持同一结论的多重类比使论证更强。
     step2: |-
-      Multiple analogies supporting the same conclusion make the argument stronger.
+      支持同一结论的多重类比使论证更强。
   - id: 108
     kind: body
     source: |-
       These principles can be helpful, but are frequently too vague to provide much insight. How do we count similarities and differences in applying (G1) and (G2)? Why are the structural and causal analogies mentioned in (G5) and (G6) especially important, and which structural and causal features merit attention? More generally, in connection with the all-important (G7): how do we determine which similarities and differences are relevant to the conclusion? Furthermore, what are we to say about similarities and differences that have been omitted from an analogical argument but might still be relevant?
     step1: |-
-      These principles can be helpful, but are frequently too vague to provide much insight. How do we count similarities and differences in applying (G1) and (G2)? Why are the structural and causal analogies mentioned in (G5) and (G6) especially important, and which structural and causal features merit attention? More generally, in connection with the all-important (G7): how do we determine which similarities and differences are relevant to the conclusion? Furthermore, what are we to say about similarities and differences that have been omitted from an analogical argument but might still be relevant?
+      这些原则可以有帮助，但常常过于含糊，提供不了多少洞见。应用（G1）与（G2）时，我们如何清点相似与差异？（G5）与（G6）提到的结构类比与因果类比为何格外重要，哪些结构性与因果性特征值得注意？更一般地，联系到至关重要的（G7）：我们如何确定哪些相似与差异同结论相关？此外，对那些未被一个类比论证提及但可能仍然相关的相似与差异，我们又该说什么？
     step2: |-
-      These principles can be helpful, but are frequently too vague to provide much insight. How do we count similarities and differences in applying (G1) and (G2)? Why are the structural and causal analogies mentioned in (G5) and (G6) especially important, and which structural and causal features merit attention? More generally, in connection with the all-important (G7): how do we determine which similarities and differences are relevant to the conclusion? Furthermore, what are we to say about similarities and differences that have been omitted from an analogical argument but might still be relevant?
+      这些原则或有帮助，却常常过于含糊，给不出多少洞见。应用（G1）（G2）时，相似与差异怎么清点？（G5）（G6）说结构类比与因果类比格外重要——何以如此？哪些结构与因果特征值得注意？更一般地，回到至关重要的（G7）：怎样确定哪些相似与差异同结论相关？还有：有些相似与差异未被论证提及、却可能相关——对此又该怎么说？
   - id: 109
     kind: body
     source: |-
       An additional problem is that the criteria can pull in different directions. To illustrate, consider Reid’s argument for life on other planets (*Example 2*). Stebbing (1933) finds Reid’s argument “suggestive” and “not unplausible” because the conclusion is weak (G4), while Mill (1843/1930) appears to reject the argument on account of our vast ignorance of properties that might be relevant (G3).
     step1: |-
-      An additional problem is that the criteria can pull in different directions. To illustrate, consider Reid’s argument for life on other planets (*Example 2*). Stebbing (1933) finds Reid’s argument “suggestive” and “not unplausible” because the conclusion is weak (G4), while Mill (1843/1930) appears to reject the argument on account of our vast ignorance of properties that might be relevant (G3).
+      另一个问题是，这些判据可能彼此冲突。举例来说，考虑里德关于其他行星上有生命的论证（*例 2*）。Stebbing（1933）认为里德的论证“有启发性”且“并非不可信”，因为结论弱（G4）；而穆勒（1843/1930）则似乎因我们对可能相关的性质极其无知而拒绝该论证（G3）。
     step2: |-
-      An additional problem is that the criteria can pull in different directions. To illustrate, consider Reid’s argument for life on other planets (*Example 2*). Stebbing (1933) finds Reid’s argument “suggestive” and “not unplausible” because the conclusion is weak (G4), while Mill (1843/1930) appears to reject the argument on account of our vast ignorance of properties that might be relevant (G3).
+      另一个麻烦是：各判据可能互相打架。比如里德关于其他行星有生命的论证（*例 2*）：Stebbing（1933）因其结论弱（G4）而认为它“有启发性”“并非不可信”；穆勒（1843/1930）却似乎因我们对可能相关的性质无知至极而拒绝它（G3）。
   - id: 110
     kind: body
     source: |-
       There is a further problem that relates to the distinction just made (in §2.3) between two kinds of plausibility. Each of the above criteria apart from (G7) is expressed in terms of the strength of the argument, i.e., the degree of support for the conclusion. The criteria thus appear to presuppose the *probabilistic* interpretation of plausibility. The problem is that a great many analogical arguments aim to establish *prima facie* plausibility rather than any degree of probability. Most of the guidelines are not directly applicable to such arguments.
     step1: |-
-      There is a further problem that relates to the distinction just made (in §2.3) between two kinds of plausibility. Each of the above criteria apart from (G7) is expressed in terms of the strength of the argument, i.e., the degree of support for the conclusion. The criteria thus appear to presuppose the *probabilistic* interpretation of plausibility. The problem is that a great many analogical arguments aim to establish *prima facie* plausibility rather than any degree of probability. Most of the guidelines are not directly applicable to such arguments.
+      还有一个问题，与刚刚（在 §2.3 中）作出的两种可信性之分有关。除（G7）外，上述每条判据都是用论证的强度、即对结论的支持度来表述的。这些判据因此显得预设了可信性的*概率性*解释。问题在于，大量类比论证旨在确立的是*初步的*可信性，而非任何概率度。这些指引大多并不直接适用于这类论证。
     step2: |-
-      There is a further problem that relates to the distinction just made (in §2.3) between two kinds of plausibility. Each of the above criteria apart from (G7) is expressed in terms of the strength of the argument, i.e., the degree of support for the conclusion. The criteria thus appear to presuppose the *probabilistic* interpretation of plausibility. The problem is that a great many analogical arguments aim to establish *prima facie* plausibility rather than any degree of probability. Most of the guidelines are not directly applicable to such arguments.
+      还有一重麻烦，牵涉刚才（§2.3）作出的两种可信性之分。除（G7）外，上述判据都以论证强度——即对结论的支持度——来表述，于是显得预设了可信性的*概率性*解释。问题在于：大量类比论证要确立的是*初步的*可信性，而不是什么概率度；这些指引大多对这类论证并不直接适用。
   - id: 111
     kind: body
     source: |-
       ### 3.2 Aristotle’s theory
     step1: |-
-      ### 3.2 Aristotle’s theory
+      ### 3.2 亚里士多德的理论
     step2: |-
-      ### 3.2 Aristotle’s theory
+      ### 3.2 亚里士多德的理论
   - id: 112
     kind: body
     source: |-
       Aristotle sets the stage for all later theories of analogical reasoning. In his theoretical reflections on analogy and in his most judicious examples, we find a sober account that lays the foundation both for the commonsense guidelines noted above and for more sophisticated analyses.
     step1: |-
-      Aristotle sets the stage for all later theories of analogical reasoning. In his theoretical reflections on analogy and in his most judicious examples, we find a sober account that lays the foundation both for the commonsense guidelines noted above and for more sophisticated analyses.
+      亚里士多德为后来所有关于类推推理的理论搭好了舞台。在他关于类比的思辨以及他最有分寸的例子里，我们找到一种清醒的论述，它既为上述常识性指引也为更精致的分析奠定了基础。
     step2: |-
-      Aristotle sets the stage for all later theories of analogical reasoning. In his theoretical reflections on analogy and in his most judicious examples, we find a sober account that lays the foundation both for the commonsense guidelines noted above and for more sophisticated analyses.
+      亚里士多德为后来一切类推推理理论搭好了舞台。在他关于类比的思辨与他最有分寸的例证里，有一种清醒的论述：既为上述常识性指引奠基，也为更精致的分析奠基。
   - id: 113
     kind: body
     source: |-
       Although Aristotle employs the term analogy (*analogia*) and discusses analogical predication, he never talks about analogical reasoning or analogical arguments *per se*. He does, however, identify two argument forms, the *argument from example* (*paradeigma*) and the *argument from likeness* (*homoiotes*), both closely related to what would we now recognize as an analogical argument.
     step1: |-
-      Although Aristotle employs the term analogy (*analogia*) and discusses analogical predication, he never talks about analogical reasoning or analogical arguments *per se*. He does, however, identify two argument forms, the *argument from example* (*paradeigma*) and the *argument from likeness* (*homoiotes*), both closely related to what would we now recognize as an analogical argument.
+      虽然亚里士多德使用类比（*analogia*）一词并讨论类比谓述，但他从不谈及类推推理或类比论证*本身*。不过，他确实识别出两种论证形式，*例证论证*（*paradeigma*）与*例似论证*（*homoiotes*），两者都与我们如今认可的类比论证密切相关。
     step2: |-
-      Although Aristotle employs the term analogy (*analogia*) and discusses analogical predication, he never talks about analogical reasoning or analogical arguments *per se*. He does, however, identify two argument forms, the *argument from example* (*paradeigma*) and the *argument from likeness* (*homoiotes*), both closely related to what would we now recognize as an analogical argument.
+      亚里士多德虽用过类比（*analogia*）一词、也讨论类比谓述，却从不谈类推推理或类比论证*本身*。但他确实辨析出两种论证形式：*例证论证*（*paradeigma*）与*例似论证*（*homoiotes*）——二者都与我们今天认可的类比论证密切相关。
   - id: 114
     kind: body
     source: |-
       The *argument from example* (*paradeigma*) is described in the *Rhetoric* and the *Prior Analytics*:
     step1: |-
-      The *argument from example* (*paradeigma*) is described in the *Rhetoric* and the *Prior Analytics*:
+      *例证论证*（*paradeigma*）在《修辞学》与《前分析篇》中得到描述：
     step2: |-
-      The *argument from example* (*paradeigma*) is described in the *Rhetoric* and the *Prior Analytics*:
+      *例证论证*（*paradeigma*）见于《修辞学》与《前分析篇》：
   - id: 115
     kind: body
     source: |-
@@ -966,117 +966,117 @@ segments:
       >
       > Let $A$ be evil, $B$ making war against neighbours, $C$ Athenians against Thebans, $D$ Thebans against Phocians. If then we wish to prove that to fight with the Thebans is an evil, we must assume that to fight against neighbours is an evil. Conviction of this is obtained from similar cases, e.g., that the war against the Phocians was an evil to the Thebans. Since then to fight against neighbours is an evil, and to fight against the Thebans is to fight against neighbours, it is clear that to fight against the Thebans is an evil. (*Pr. An.* 69a1)
     step1: |-
-      > Enthymemes based upon example are those which proceed from one or more similar cases, arrive at a general proposition, and then argue deductively to a particular inference. (*Rhetoric* 1402b15)
+      > 基于例子的恩梯茂式推理由一个或多个类似案例出发，到达一个一般命题，然后演绎地推出一个个别结论。（《修辞学》1402b15）
       >
-      > Let $A$ be evil, $B$ making war against neighbours, $C$ Athenians against Thebans, $D$ Thebans against Phocians. If then we wish to prove that to fight with the Thebans is an evil, we must assume that to fight against neighbours is an evil. Conviction of this is obtained from similar cases, e.g., that the war against the Phocians was an evil to the Thebans. Since then to fight against neighbours is an evil, and to fight against the Thebans is to fight against neighbours, it is clear that to fight against the Thebans is an evil. (*Pr. An.* 69a1)
+      > 设 $A$ 是恶，$B$ 是与邻邦作战，$C$ 是雅典人对忒拜人作战，$D$ 是忒拜人对福基斯人作战。那么，如果我们想证明与忒拜人作战是恶，就必须假定与邻邦作战是恶。对这一点的信念得自类似的案例，例如与福基斯人的战争对忒拜人是恶。既然与邻邦作战是恶，而与忒拜人作战就是与邻邦作战，那么显然，与忒拜人作战是恶。（*前分析篇* 69a1）
     step2: |-
-      > Enthymemes based upon example are those which proceed from one or more similar cases, arrive at a general proposition, and then argue deductively to a particular inference. (*Rhetoric* 1402b15)
+      > 基于例子的恩梯茂式推理，由一个或多个相似案例出发，达于一个一般命题，再演绎地推向个别结论。（《修辞学》1402b15）
       >
-      > Let $A$ be evil, $B$ making war against neighbours, $C$ Athenians against Thebans, $D$ Thebans against Phocians. If then we wish to prove that to fight with the Thebans is an evil, we must assume that to fight against neighbours is an evil. Conviction of this is obtained from similar cases, e.g., that the war against the Phocians was an evil to the Thebans. Since then to fight against neighbours is an evil, and to fight against the Thebans is to fight against neighbours, it is clear that to fight against the Thebans is an evil. (*Pr. An.* 69a1)
+      > 设 $A$ 为恶，$B$ 为与邻邦作战，$C$ 为雅典人对忒拜人作战，$D$ 为忒拜人对福基斯人作战。若要证明与忒拜人作战是恶，须先假定与邻邦作战是恶；此点的确信来自类似案例，例如福基斯人的战争之于忒拜人是恶。既然与邻邦作战是恶，而与忒拜人作战正是与邻邦作战，那么与忒拜人作战是恶，一望即知。（*前分析篇* 69a1）
   - id: 116
     kind: body
     source: |-
       Aristotle notes two differences between this argument form and induction (69a15ff.): it “does not draw its proof from all the particular cases” (i.e., it is not a “complete” induction), and it requires an additional (deductively valid) syllogism as the final step. The argument from example thus amounts to single-case induction followed by deductive inference. It has the following structure (using $\supset$ for the conditional):
     step1: |-
-      Aristotle notes two differences between this argument form and induction (69a15ff.): it “does not draw its proof from all the particular cases” (i.e., it is not a “complete” induction), and it requires an additional (deductively valid) syllogism as the final step. The argument from example thus amounts to single-case induction followed by deductive inference. It has the following structure (using $\supset$ for the conditional):
+      亚里士多德指出这种论证形式与归纳之间的两个差别（69a15 以下）：它“并不从所有个别案例中取得其证明”（即它不是一种“完全的”归纳），而且它需要一个额外的（演绎有效的）三段论作为最后一步。例证论证因此等于单例归纳加上演绎推理。它有如下结构（用 $\supset$ 表示条件句）：
     step2: |-
-      Aristotle notes two differences between this argument form and induction (69a15ff.): it “does not draw its proof from all the particular cases” (i.e., it is not a “complete” induction), and it requires an additional (deductively valid) syllogism as the final step. The argument from example thus amounts to single-case induction followed by deductive inference. It has the following structure (using $\supset$ for the conditional):
+      亚里士多德指出这种论证形式与归纳的两点差别（69a15 以下）：其一，它“并不从所有个别案例取得证明”（即不是“完全的”归纳）；其二，它需要一个额外的、演绎有效的三段论收尾。所以例证论证等于单例归纳加演绎推理。其结构如下（以 $\supset$ 表示条件词）：
   - id: 117
     kind: body
     source: |-
       *Figure 2.*
     step1: |-
-      *Figure 2.*
+      *图 2。*
     step2: |-
-      *Figure 2.*
+      *图 2。*
   - id: 118
     kind: body
     source: |-
       ![[a tree diagram where S is source domain and T is target domain. First node is P(S)&Q(S) in the lower left corner. It is connected by a dashed arrow to (x)(P(x) superset Q(x)) in the top middle which in turn connects by a solid arrow to P(T) and on the next line P(T) superset Q(T) in the lower right. It in turn is connected by a solid arrow to Q(T) below it.]](../assets/reasoning-analogy/example.png)
     step1: |-
-      ![[a tree diagram where S is source domain and T is target domain. First node is P(S)&Q(S) in the lower left corner. It is connected by a dashed arrow to (x)(P(x) superset Q(x)) in the top middle which in turn connects by a solid arrow to P(T) and on the next line P(T) superset Q(T) in the lower right. It in turn is connected by a solid arrow to Q(T) below it.]](../assets/reasoning-analogy/example.png)
+      ![[一幅树状图：S 为源域，T 为目标域。左下角首节点为 P(S)&Q(S)，以虚线箭头连至顶部中间的 (x)(P(x) superset Q(x))，后者以实线箭头连至 P(T)，其下一行为右下角的 P(T) superset Q(T)，再由实线箭头连至其下方的 Q(T)。]](../yuanwen/assets/reasoning-analogy/example.png)
     step2: |-
-      ![[a tree diagram where S is source domain and T is target domain. First node is P(S)&Q(S) in the lower left corner. It is connected by a dashed arrow to (x)(P(x) superset Q(x)) in the top middle which in turn connects by a solid arrow to P(T) and on the next line P(T) superset Q(T) in the lower right. It in turn is connected by a solid arrow to Q(T) below it.]](../assets/reasoning-analogy/example.png)
+      ![[一幅树状图：S 为源域，T 为目标域。左下角首节点为 P(S)&Q(S)，以虚线箭头连至顶部中间的 (x)(P(x) superset Q(x))，后者以实线箭头连至 P(T)，其下一行为右下角的 P(T) superset Q(T)，再由实线箭头连至其下方的 Q(T)。]](../yuanwen/assets/reasoning-analogy/example.png)
   - id: 119
     kind: body
     source: |-
       Figure 2.
     step1: |-
-      Figure 2.
+      图 2。
     step2: |-
-      Figure 2.
+      图 2。
   - id: 120
     kind: body
     source: |-
       In the terminology of §2.2, $P$ is the positive analogy and $Q$ is the hypothetical analogy. In Aristotle’s example, $S$ (the source) is war between Phocians and Thebans, $T$ (the target) is war between Athenians and Thebans, $P$ is war between neighbours, and $Q$ is evil. The first inference (dashed arrow) is inductive; the second and third (solid arrows) are deductively valid.
     step1: |-
-      In the terminology of §2.2, $P$ is the positive analogy and $Q$ is the hypothetical analogy. In Aristotle’s example, $S$ (the source) is war between Phocians and Thebans, $T$ (the target) is war between Athenians and Thebans, $P$ is war between neighbours, and $Q$ is evil. The first inference (dashed arrow) is inductive; the second and third (solid arrows) are deductively valid.
+      用 §2.2 的术语来说，$P$ 是正类比，$Q$ 是假说类比。在亚里士多德的例子里，$S$（源域）是福基斯人与忒拜人之间的战争，$T$（目标域）是雅典人与忒拜人之间的战争，$P$ 是与邻邦的战争，$Q$ 是恶。第一个推理（虚线箭头）是归纳的；第二与第三个（实线箭头）是演绎有效的。
     step2: |-
-      In the terminology of §2.2, $P$ is the positive analogy and $Q$ is the hypothetical analogy. In Aristotle’s example, $S$ (the source) is war between Phocians and Thebans, $T$ (the target) is war between Athenians and Thebans, $P$ is war between neighbours, and $Q$ is evil. The first inference (dashed arrow) is inductive; the second and third (solid arrows) are deductively valid.
+      用 §2.2 的术语说：$P$ 是正类比，$Q$ 是假说类比。在亚里士多德的例子里，$S$（源域）是福基斯人与忒拜人之战，$T$（目标域）是雅典人与忒拜人之战，$P$ 是与邻邦之战，$Q$ 是恶。第一道推理（虚线箭头）是归纳的；第二、第三道（实线箭头）演绎有效。
   - id: 121
     kind: body
     source: |-
       The *paradeigma* has an interesting feature: it is amenable to an alternative analysis as a purely *deductive* argument form. Let us concentrate on Aristotle’s assertion, “we must assume that to fight against neighbours is an evil,” represented as $\forall x(P(x) \supset Q(x))$. Instead of regarding this intermediate step as something reached by induction from a single case, we might instead regard it as a hidden presupposition. This transforms the *paradeigma* into a syllogistic argument with a missing or *enthymematic* premise, and our attention shifts to possible means for establishing that premise (with single-case induction as one such means). Construed in this way, Aristotle’s *paradeigma* argument foreshadows deductive analyses of analogical reasoning (see §4.1).
     step1: |-
-      The *paradeigma* has an interesting feature: it is amenable to an alternative analysis as a purely *deductive* argument form. Let us concentrate on Aristotle’s assertion, “we must assume that to fight against neighbours is an evil,” represented as $\forall x(P(x) \supset Q(x))$. Instead of regarding this intermediate step as something reached by induction from a single case, we might instead regard it as a hidden presupposition. This transforms the *paradeigma* into a syllogistic argument with a missing or *enthymematic* premise, and our attention shifts to possible means for establishing that premise (with single-case induction as one such means). Construed in this way, Aristotle’s *paradeigma* argument foreshadows deductive analyses of analogical reasoning (see §4.1).
+      *paradeigma* 有一个有趣的特点：它可以被另作分析，当成一种纯*演绎的*论证形式。让我们聚焦亚里士多德的断言“我们必须假定与邻邦作战是恶”，即表示为 $\forall x(P(x) \supset Q(x))$ 的那句断言。我们可以不把这个中间步骤看作由单个案例归纳而来，而把它看作一个隐藏的预设。这就把 *paradeigma* 变成一个带有缺失前提——即*恩梯茂式*前提——的三段论论证，而我们的注意力转向确立该前提的可能手段（单例归纳是其中之一）。按这种方式来理解，亚里士多德的 *paradeigma* 论证预示了类推推理的演绎分析（见 §4.1）。
     step2: |-
-      The *paradeigma* has an interesting feature: it is amenable to an alternative analysis as a purely *deductive* argument form. Let us concentrate on Aristotle’s assertion, “we must assume that to fight against neighbours is an evil,” represented as $\forall x(P(x) \supset Q(x))$. Instead of regarding this intermediate step as something reached by induction from a single case, we might instead regard it as a hidden presupposition. This transforms the *paradeigma* into a syllogistic argument with a missing or *enthymematic* premise, and our attention shifts to possible means for establishing that premise (with single-case induction as one such means). Construed in this way, Aristotle’s *paradeigma* argument foreshadows deductive analyses of analogical reasoning (see §4.1).
+      *paradeigma* 有个有趣的特点：它容得下另一种分析——当作纯*演绎的*论证形式。聚焦亚里士多德那句“我们必须假定与邻邦作战是恶”（形式化为 $\forall x(P(x) \supset Q(x))$）：我们不必把这个中间步骤看作由单个案例归纳而来，而可将其视为一个隐藏的预设。于是 *paradeigma* 变成一个带缺失前提——即*恩梯茂式*（enthymematic）前提——的三段论，注意力也随之转向：用什么办法可以确立那个前提（单例归纳是办法之一）。如此解读，亚里士多德的 *paradeigma* 论证便预示了类推推理的演绎分析（见 §4.1）。
   - id: 122
     kind: body
     source: |-
       The *argument from likeness* (*homoiotes*) seems to be closer than the *paradeigma* to our contemporary understanding of analogical arguments. This argument form receives considerable attention in *Topics* I, 17 and 18 and again in VIII, 1. The most important passage is the following.
     step1: |-
-      The *argument from likeness* (*homoiotes*) seems to be closer than the *paradeigma* to our contemporary understanding of analogical arguments. This argument form receives considerable attention in *Topics* I, 17 and 18 and again in VIII, 1. The most important passage is the following.
+      *例似论证*（*homoiotes*）似乎比 *paradeigma* 更接近我们对类比论证的当代理解。这种论证形式在《论题篇》第一卷第 17、18 章以及第八卷第 1 章受到相当多的关注。最重要的段落如下。
     step2: |-
-      The *argument from likeness* (*homoiotes*) seems to be closer than the *paradeigma* to our contemporary understanding of analogical arguments. This argument form receives considerable attention in *Topics* I, 17 and 18 and again in VIII, 1. The most important passage is the following.
+      *例似论证*（*homoiotes*）似乎比 *paradeigma* 更贴近我们当代对类比论证的理解。这种论证形式在《论题篇》I, 17 与 18、以及 VIII, 1 得到相当多关注。最重要的段落如下。
   - id: 123
     kind: body
     source: |-
       > Try to secure admissions by means of likeness; for such admissions are plausible, and the universal involved is less patent; e.g. that as knowledge and ignorance of contraries is the same, so too perception of contraries is the same; or vice versa, that since the perception is the same, so is the knowledge also. This argument resembles induction, but is not the same thing; for in induction it is the universal whose admission is secured from the particulars, whereas in arguments from likeness, what is secured is not the universal under which all the like cases fall. (*Topics* 156b10–17)
     step1: |-
-      > Try to secure admissions by means of likeness; for such admissions are plausible, and the universal involved is less patent; e.g. that as knowledge and ignorance of contraries is the same, so too perception of contraries is the same; or vice versa, that since the perception is the same, so is the knowledge also. This argument resembles induction, but is not the same thing; for in induction it is the universal whose admission is secured from the particulars, whereas in arguments from likeness, what is secured is not the universal under which all the like cases fall. (*Topics* 156b10–17)
+      > 试着借相似性获得承认；因为这类承认是可信的，而其中涉及的普遍者不那么显眼；例如，既然对对立者的知识与无知是同一个，那么对对立者的感知也是同一个；或者反过来：既然感知是同一个，知识也是同一个。这种论证类似归纳，但不是一回事；因为在归纳中，其承认由个别者获得的是那个普遍者，而在例似论证中，所获得的并非那个统摄一切相似案例的普遍者。（《论题篇》156b10–17）
     step2: |-
-      > Try to secure admissions by means of likeness; for such admissions are plausible, and the universal involved is less patent; e.g. that as knowledge and ignorance of contraries is the same, so too perception of contraries is the same; or vice versa, that since the perception is the same, so is the knowledge also. This argument resembles induction, but is not the same thing; for in induction it is the universal whose admission is secured from the particulars, whereas in arguments from likeness, what is secured is not the universal under which all the like cases fall. (*Topics* 156b10–17)
+      > 要设法借相似获得承认：这类承认可信，而其中涉及的普遍者不那么显眼。例如：既然对对立面之知识与无知是同一个，那么对对立面的感知也是同一个；或者倒过来——既然感知是同一个，知识也是同一个。这种论证像归纳，却不是归纳：归纳由个别者获得其承认的，是那个普遍者；而在例似论证中，获得的并非那个统摄一切相似案例的普遍者。（《论题篇》156b10–17）
   - id: 124
     kind: body
     source: |-
       This passage occurs in a work that offers advice for framing dialectical arguments when confronting a somewhat skeptical interlocutor. In such situations, it is best not to make one’s argument depend upon securing agreement about any universal proposition. The argument from likeness is thus clearly distinct from the *paradeigma*, where the universal proposition plays an essential role as an intermediate step in the argument. The argument from likeness, though logically less straightforward than the *paradeigma*, is exactly the sort of analogical reasoning we want when we are unsure about underlying generalizations.
     step1: |-
-      This passage occurs in a work that offers advice for framing dialectical arguments when confronting a somewhat skeptical interlocutor. In such situations, it is best not to make one’s argument depend upon securing agreement about any universal proposition. The argument from likeness is thus clearly distinct from the *paradeigma*, where the universal proposition plays an essential role as an intermediate step in the argument. The argument from likeness, though logically less straightforward than the *paradeigma*, is exactly the sort of analogical reasoning we want when we are unsure about underlying generalizations.
+      这段话出自一部为面对多少持怀疑态度的对话者时构造辩证论证提供建议的著作。在这类情形中，最好不要让自己的论证依赖于就任何普遍命题达成一致。因此，例似论证显然不同于 *paradeigma*，在后者那里，普遍命题作为论证的中间步骤起着本质作用。例似论证虽然在逻辑上不如 *paradeigma* 直截了当，但当我们对底层概括没有把握时，它恰恰是我们想要的那种类推推理。
     step2: |-
-      This passage occurs in a work that offers advice for framing dialectical arguments when confronting a somewhat skeptical interlocutor. In such situations, it is best not to make one’s argument depend upon securing agreement about any universal proposition. The argument from likeness is thus clearly distinct from the *paradeigma*, where the universal proposition plays an essential role as an intermediate step in the argument. The argument from likeness, though logically less straightforward than the *paradeigma*, is exactly the sort of analogical reasoning we want when we are unsure about underlying generalizations.
+      这段话出自一部教人如何在多少怀疑的对话者面前构造辩证论证的书。在这种场合，最好不要让论证依赖任何普遍命题上的共识。因此，例似论证显然有别于 *paradeigma*——后者中普遍命题作为中间步骤起着本质作用。例似论证在逻辑上虽不如 *paradeigma* 直截，但当我们对底层概括没有把握时，它恰恰是我们需要的那种类推推理。
   - id: 125
     kind: body
     source: |-
       In *Topics* I 17, Aristotle states that any shared attribute contributes some degree of likeness. It is natural to ask when the degree of likeness between two things is sufficiently great to warrant inferring a further likeness. In other words, when does the argument from likeness succeed? Aristotle does not answer explicitly, but a clue is provided by the way he justifies particular arguments from likeness. As Lloyd (1966) has observed, Aristotle typically justifies such arguments by articulating a (sometimes vague) causal principle which governs the two phenomena being compared. For example, Aristotle explains the saltiness of the sea, by analogy with the saltiness of sweat, as a kind of residual earthy stuff exuded in natural processes such as heating. The common principle is this:
     step1: |-
-      In *Topics* I 17, Aristotle states that any shared attribute contributes some degree of likeness. It is natural to ask when the degree of likeness between two things is sufficiently great to warrant inferring a further likeness. In other words, when does the argument from likeness succeed? Aristotle does not answer explicitly, but a clue is provided by the way he justifies particular arguments from likeness. As Lloyd (1966) has observed, Aristotle typically justifies such arguments by articulating a (sometimes vague) causal principle which governs the two phenomena being compared. For example, Aristotle explains the saltiness of the sea, by analogy with the saltiness of sweat, as a kind of residual earthy stuff exuded in natural processes such as heating. The common principle is this:
+      在《论题篇》第一卷第 17 章，亚里士多德说，任何共享的属性都对相似性有所贡献。自然会产生这样一个问题：两物之间的相似度何时大到足以支持推出进一步的相似？换言之，例似论证何时成功？亚里士多德没有明说，但他为具体例似论证作辩护的方式提供了线索。正如 Lloyd（1966）所观察到的，亚里士多德通常通过阐明一个（有时含糊的）因果原则来为这类论证辩护，该原则支配着被比较的两种现象。例如，亚里士多德以汗水之咸为类比，把海之咸解释为一种在加热等自然过程中渗出的残余土性物质。共同的原则是：
     step2: |-
-      In *Topics* I 17, Aristotle states that any shared attribute contributes some degree of likeness. It is natural to ask when the degree of likeness between two things is sufficiently great to warrant inferring a further likeness. In other words, when does the argument from likeness succeed? Aristotle does not answer explicitly, but a clue is provided by the way he justifies particular arguments from likeness. As Lloyd (1966) has observed, Aristotle typically justifies such arguments by articulating a (sometimes vague) causal principle which governs the two phenomena being compared. For example, Aristotle explains the saltiness of the sea, by analogy with the saltiness of sweat, as a kind of residual earthy stuff exuded in natural processes such as heating. The common principle is this:
+      《论题篇》I, 17 中，亚里士多德说：任何共享属性都对相似性有所贡献。自然会问：两物之间的相似度何时大到足以支持推出进一步的相似？换言之，例似论证何时成功？亚里士多德没有明说，但他为具体例似论证辩护的方式给出了线索。正如 Lloyd（1966）观察到的：亚里士多德通常靠阐明一条（有时含糊的）因果原则来为这类论证辩护——该原则支配着被比较的两种现象。例如，他以汗水之咸类比海之咸，把海的咸解释为一种在加热等自然过程中渗出的残余土性物质。共同原则是：
   - id: 126
     kind: body
     source: |-
       > Everything that grows and is naturally generated always leaves a residue, like that of things burnt, consisting in this sort of earth. (*Mete* 358a17)
     step1: |-
-      > Everything that grows and is naturally generated always leaves a residue, like that of things burnt, consisting in this sort of earth. (*Mete* 358a17)
+      > 凡生长且自然生成之物，总留下残余，如燃烧之物那样，由这类土构成。（《气象学》358a17）
     step2: |-
-      > Everything that grows and is naturally generated always leaves a residue, like that of things burnt, consisting in this sort of earth. (*Mete* 358a17)
+      > 凡生长且自然生成之物，总留下残余，如燃烧之物那样，由这类土构成。（《气象学》358a17）
   - id: 127
     kind: body
     source: |-
       From this method of justification, we might conjecture that Aristotle believes that the important similarities are those that enter into such general causal principles.
     step1: |-
-      From this method of justification, we might conjecture that Aristotle believes that the important similarities are those that enter into such general causal principles.
+      从这种辩护方法，我们可以猜想：亚里士多德认为，重要的相似是那些进入这类一般因果原则的相似。
     step2: |-
-      From this method of justification, we might conjecture that Aristotle believes that the important similarities are those that enter into such general causal principles.
+      由这种辩护方法可以猜想：在亚里士多德看来，重要的相似，正是进入这类一般因果原则的那些相似。
   - id: 128
     kind: body
     source: |-
       Summarizing, Aristotle’s theory provides us with four important and influential criteria for the evaluation of analogical arguments:
     step1: |-
-      Summarizing, Aristotle’s theory provides us with four important and influential criteria for the evaluation of analogical arguments:
+      总结起来，亚里士多德的理论为我们提供了评价类比论证的四条重要而有影响的判据：
     step2: |-
-      Summarizing, Aristotle’s theory provides us with four important and influential criteria for the evaluation of analogical arguments:
+      总结一下：亚里士多德的理论留下四条重要而有影响的判据，供评价类比论证之用：
   - id: 129
     kind: body
     source: |-
@@ -1085,47 +1085,47 @@ segments:
       - *Good analogies derive from underlying common causes or general laws.*
       - *A good analogical argument need not pre-suppose acquaintance with the underlying universal (generalization).*
     step1: |-
-      - *The strength of an analogy depends upon the number of similarities.*
-      - *Similarity reduces to identical properties and relations.*
-      - *Good analogies derive from underlying common causes or general laws.*
-      - *A good analogical argument need not pre-suppose acquaintance with the underlying universal (generalization).*
+      - 类比的强度取决于相似性的数量。
+      - 相似性还原为相同的性质与关系。
+      - 好的类比源自共同的底层原因或一般定律。
+      - 一个好的类比论证不必预设对底层普遍者（概括）的认识。
     step2: |-
-      - *The strength of an analogy depends upon the number of similarities.*
-      - *Similarity reduces to identical properties and relations.*
-      - *Good analogies derive from underlying common causes or general laws.*
-      - *A good analogical argument need not pre-suppose acquaintance with the underlying universal (generalization).*
+      - 类比的强度取决于相似性的数量。
+      - 相似性还原为相同的性质与关系。
+      - 好的类比源自共同的底层原因或一般定律。
+      - 好的类比论证不必预设对底层普遍者（概括）的认识。
   - id: 130
     kind: body
     source: |-
       These four principles form the core of a *common-sense model* for evaluating analogical arguments (which is not to say that they are correct; indeed, the first three will shortly be called into question). The first, as we have seen, appears regularly in textbook discussions of analogy. The second is largely taken for granted, with important exceptions in computational models of analogy (§3.4). Versions of the third are found in most sophisticated theories. The final point, which distinguishes the argument from likeness and the argument from example, is endorsed in many discussions of analogy (e.g., Quine and Ullian 1970)[^quine-1970].
     step1: |-
-      These four principles form the core of a *common-sense model* for evaluating analogical arguments (which is not to say that they are correct; indeed, the first three will shortly be called into question). The first, as we have seen, appears regularly in textbook discussions of analogy. The second is largely taken for granted, with important exceptions in computational models of analogy (§3.4). Versions of the third are found in most sophisticated theories. The final point, which distinguishes the argument from likeness and the argument from example, is endorsed in many discussions of analogy (e.g., Quine and Ullian 1970)[^quine-1970].
+      这四条原则构成一个评价类比论证的*常识模型*的核心（这不等于说它们是正确的；事实上，前三条很快就会受到质疑）。第一条如我们所见，定期出现在教科书的类比讨论中。第二条大体被视作理所当然，在类比的计算模型（§3.4）中有重要例外。第三条的种种版本见于大多数精致的理论。最后一条把例似论证与例证论证区分开来，在许多类比讨论中获得支持（如 Quine and Ullian 1970）[^quine-1970]。
     step2: |-
-      These four principles form the core of a *common-sense model* for evaluating analogical arguments (which is not to say that they are correct; indeed, the first three will shortly be called into question). The first, as we have seen, appears regularly in textbook discussions of analogy. The second is largely taken for granted, with important exceptions in computational models of analogy (§3.4). Versions of the third are found in most sophisticated theories. The final point, which distinguishes the argument from likeness and the argument from example, is endorsed in many discussions of analogy (e.g., Quine and Ullian 1970)[^quine-1970].
+      这四条原则构成评价类比论证之*常识模型*的核心（这不等于说它们正确——事实上，前三条很快就会遭到质疑）。第一条如前所见，常见于教科书的类比讨论；第二条大体被视作理所当然，类比的计算模型（§3.4）是重要例外；第三条的种种版本见于大多数精致理论；最后一条区分了例似论证与例证论证，在许多讨论中得到支持（如 Quine and Ullian 1970）[^quine-1970]。
   - id: 131
     kind: body
     source: |-
       A slight generalization of Aristotle’s first principle helps to prepare the way for discussion of later developments. As that principle suggests, Aristotle, in common with just about everyone else who has written about analogical reasoning, organizes his analysis of the argument form around overall similarity. In the terminology of section 2.2, *horizontal relationships* drive the reasoning: *the greater the overall similarity of the two domains, the stronger the analogical argument*. Hume makes the same point, though stated negatively, in his *Dialogues Concerning Natural Religion*:
     step1: |-
-      A slight generalization of Aristotle’s first principle helps to prepare the way for discussion of later developments. As that principle suggests, Aristotle, in common with just about everyone else who has written about analogical reasoning, organizes his analysis of the argument form around overall similarity. In the terminology of section 2.2, *horizontal relationships* drive the reasoning: *the greater the overall similarity of the two domains, the stronger the analogical argument*. Hume makes the same point, though stated negatively, in his *Dialogues Concerning Natural Religion*:
+      对亚里士多德第一条原则稍作推广，有助于为讨论后面的发展做好准备。正如那条原则所提示的，亚里士多德与几乎所有论述过类推推理的人一样，围绕总体相似性来组织他对论证形式的分析。用 §2.2 的术语说，驱动推理的是*水平关系*：*两个域的总体相似性越大，类比论证越强*。休谟在《自然宗教对话录》中以否定的方式说了同样的意思：
     step2: |-
-      A slight generalization of Aristotle’s first principle helps to prepare the way for discussion of later developments. As that principle suggests, Aristotle, in common with just about everyone else who has written about analogical reasoning, organizes his analysis of the argument form around overall similarity. In the terminology of section 2.2, *horizontal relationships* drive the reasoning: *the greater the overall similarity of the two domains, the stronger the analogical argument*. Hume makes the same point, though stated negatively, in his *Dialogues Concerning Natural Religion*:
+      把亚里士多德的第一条原则稍加推广，可为讨论后续发展铺路。正如那条原则所示，亚里士多德与几乎所有谈过类推推理的人一样，围绕总体相似性来组织他对论证形式的分析。用 §2.2 的术语说：驱动推理的是*水平关系*——*两域总体相似性越大，类比论证越强*。休谟在《自然宗教对话录》里从反面说了同一层意思：
   - id: 132
     kind: body
     source: |-
       > Wherever you depart, in the least, from the similarity of the cases, you diminish proportionably the evidence; and may at last bring it to a very weak analogy, which is confessedly liable to error and uncertainty. (1779/1947: 144)
     step1: |-
-      > Wherever you depart, in the least, from the similarity of the cases, you diminish proportionably the evidence; and may at last bring it to a very weak analogy, which is confessedly liable to error and uncertainty. (1779/1947: 144)
+      > 无论你在何处、哪怕极小地偏离案例之间的相似性，你都按比例削弱证据；最终可能把它变成一种非常弱的类比，后者公认易于出错与不确定。（1779/1947: 144）
     step2: |-
-      > Wherever you depart, in the least, from the similarity of the cases, you diminish proportionably the evidence; and may at last bring it to a very weak analogy, which is confessedly liable to error and uncertainty. (1779/1947: 144)
+      > 无论你在何处、哪怕极小地偏离案例间的相似性，你都按比例削弱证据；到头来可能只剩一种极弱的类比——公认易于出错、易于不确定。（1779/1947: 144）
   - id: 133
     kind: body
     source: |-
       Most theories of analogy agree with Aristotle and Hume on this general point. Disagreement relates to the appropriate way of measuring overall similarity. Some theories assign greatest weight to *material analogy*, which refers to shared, and typically observable, features. Others give prominence to *formal analogy*, emphasizing high-level structural correspondence. The next two sub-sections discuss representative accounts that illustrate these two approaches.
     step1: |-
-      Most theories of analogy agree with Aristotle and Hume on this general point. Disagreement relates to the appropriate way of measuring overall similarity. Some theories assign greatest weight to *material analogy*, which refers to shared, and typically observable, features. Others give prominence to *formal analogy*, emphasizing high-level structural correspondence. The next two sub-sections discuss representative accounts that illustrate these two approaches.
+      大多数类比理论在这一点上与亚里士多德和休谟一致。分歧在于测量总体相似性的恰当方式。有些理论把最大的权重给*实质类比*，后者指共享的、通常可观察的特征。另一些理论突出*形式类比*，强调高层的结构对应。接下来两个小节讨论体现这两种进路的代表性学说。
     step2: |-
-      Most theories of analogy agree with Aristotle and Hume on this general point. Disagreement relates to the appropriate way of measuring overall similarity. Some theories assign greatest weight to *material analogy*, which refers to shared, and typically observable, features. Others give prominence to *formal analogy*, emphasizing high-level structural correspondence. The next two sub-sections discuss representative accounts that illustrate these two approaches.
+      在这一点上，大多数类比理论与亚里士多德、休谟一致；分歧在测量总体相似性的恰当方式。有的理论把最大权重给*实质类比*（material analogy）——即共享的、通常可观察的特征；有的突出*形式类比*（formal analogy），强调高层结构对应。接下来两小节分别讨论体现这两种进路的代表性学说。
   - id: 134
     kind: body
     source: |-
