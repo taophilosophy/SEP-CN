@@ -2,7 +2,7 @@
   "slug": "economic-democracy",
   "kind": "retranslate",
   "zh_doc": "e/economic-democracy.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T12:56:29Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T15:11:04Z",
+      "evidence": "全量重译组装：15125 汉字 18 节标题对齐，156 条脚注定义保留（书目原样），9 条内容性注译出并入'脚注'节"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T15:11:04Z",
+      "evidence": "逐节对照源钉（pubinfo May 14 2026 首版）：段落 75:75 全对齐，内联脚注标记零缺失零多余，交叉引用 § 号一律照源（含源文自身的 §5.1/§4 指向），相关词条 4 项按 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T15:11:04Z",
+      "evidence": "check_prose 61→31：实修 30（长句拆分 17/weak-verb 8/passive 3/as-one 1/结构 1），余 31 全为 de-chain（社科论证定语结构）豁免留痕，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T15:11:06Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 31 豁免留痕见 s2；人名 16 条登记（蒲鲁东/韦伯夫妇/安德森/霍耐特/费雷拉斯/佩蒂特/罗默/奥斯特罗姆/加勒特·哈丁等）"
     }
   ],
   "blockers": [],
