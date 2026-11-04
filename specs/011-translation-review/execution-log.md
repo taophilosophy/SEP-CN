@@ -131,3 +131,9 @@
 * 深读累计 22 条全 pass（+african-sage 全文通读蒯因对齐再实证、africana 850 行大部头三阶元哲学体系、akan-person 实修）。
 * **截断族形态学扩展**：akan-person 的 H1 英文题名主体丢失（"of the person" 残段）——与 16 条作者括注丢失型不同的第二形态；yuanwen H1 重建法通用（对照 citation_author 补作者括注）。
 * ADR-0019 渲染域清零已入账（独立节见上）。
+
+## 2026-11-05 深读滚动续七
+
+* 深读累计 28 条全 pass（+al-farabi-psych、al-khunaji、albalag、boethius-dacia、buddhism-huayan——A 批收口推进至 B 批）。
+* check_terms 同键异译分立告警工具化入库；倒装括注 64 处+署名行体例归一；ADR-0019 渲染域 398→0（scan_inner_space.py 栈解析双模入库）。
+* 体例归一轮：作者括注倒装正装化（SUMMARY/mu-lu-s/H1 三链）+署名行汉化（6 作者登记+5 行）。
