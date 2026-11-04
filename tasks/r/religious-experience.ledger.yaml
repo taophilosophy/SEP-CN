@@ -11,185 +11,247 @@ segments:
     kind: body
     source: |-
       Religious experiences can be characterized generally as experiences that seem to the person having them to be of some objective reality and to have some religious import. That reality can be an individual, a state of affairs, a fact, or even an absence, depending on the religious tradition the experience is a part of. A wide variety of kinds of experience fall under the general rubric of religious experience. The concept is vague, and the multiplicity of kinds of experiences that fall under it makes it difficult to capture in any general account. Part of that vagueness comes from the term ‘religion,’ which is difficult to define in any way that does not either rule out institutions that clearly are religions, or include terms that can only be understood in the light of a prior understanding of what religions are. Nevertheless, we can make some progress in elucidating the concept by distinguishing it from distinct but related concepts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      宗教经验一般可以这样刻画：它们对经历者来说显得是关于某种客观实在的经验，并且具有某种宗教意涵。这种实在可以是一个个体、一种事态、一个事实，甚至是一种缺席，取决于该经验所属的宗教传统。各种各样的经验都可以归入宗教经验这个总目之下。这个概念是含混的，归入其下的经验种类之多，使得很难用任何一般性的说明来把握它。这种含混部分来自“宗教”一词：要给宗教下定义而不排除明显是宗教的制度，或不掺入只有先理解了宗教是什么才能理解的语词，是很困难的。尽管如此，我们仍可以通过把宗教经验与一些不同但相关的概念区分开来，在阐明这一概念上取得一些进展。
+    step2: |-
+      宗教经验大致可以这样刻画：对经历者而言，它们显得是关于某种客观实在的经验，且带有某种宗教意涵。这种实在可以是一个个体、一种事态、一个事实，甚至是一种缺席——全看该经验属于哪个宗教传统。五花八门的经验都可归入“宗教经验”这个总目。这个概念是含混的；归入其下的经验种类繁多，任何一般性说明都难以尽收。这种含混部分源自“宗教”一词：给宗教下定义，若不把明显是宗教的制度排除在外，就难免掺入只有先懂宗教是什么才能懂的语词——两头都难。尽管如此，把宗教经验与几个不同而相关的概念区分开来，仍能让我们在阐明这一概念上有所推进。
   - id: 2
     kind: body
     source: |-
       First, religious experience is to be distinguished from religious feelings, in the same way that experience in general is to be distinguished from feelings in general. A feeling of elation, for example, even if it occurs in a religious context, does not count in itself as a religious experience, even if the subject later comes to think that the feeling was caused by some objective reality of religious significance. An analogy with sense experience is helpful here. If a subject feels a general feeling of happiness, not on account of anything in particular, and later comes to believe the feeling was caused by the presence of a particular person, that fact does not transform the feeling of happiness into a perception of the person. Just as a mental event, to be a perception of an object, must in some sense seem to be an experience *of* that object, a religiously oriented mental event, to be a religious experience, must in some way seem to be an experience *of* a religiously significant reality. So, although religious feelings may be involved in many, or even most, religious experiences, they are not the same thing. Discussions of religious experience in terms of feelings, like Schleiermacher’s (1998) “feeling of absolute dependence,” or Otto’s (1923) feeling of the numinous, were important early contributions to theorizing about religious experience, but some have since then argued (see Gellman 2001 and Alston 1991, for example)[^alston-1991][^gellman-2001] that religious affective states are not all there is to religious experience. To account for the experiences *qua* experiences, we must go beyond subjective feelings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先，宗教经验必须与宗教感受区分开来，正如一般意义上的经验必须与一般意义上的感受区分开来。例如，一种欣快之感，即便发生在宗教语境中，本身也不算宗教经验，即使主体后来认为这种感受是由某个具有宗教意义的客观实在引起的。这里用感官经验作个类比会有帮助。如果主体感到一种一般性的快乐，不是因为任何特殊的东西，后来又相信这种快乐是由某个特定的人在场引起的，这一事实并不会把快乐之感变成对那个人的知觉。正如一个心理事件要成为对一个对象的知觉，就必须在某种意义上显得是关于那个对象的经验，一个带有宗教取向的心理事件要成为宗教经验，也必须以某种方式显得是关于某个具有宗教意义的实在的经验。所以，尽管宗教感受可能卷入许多、甚至大多数宗教经验，它们并不是一回事。以感受来讨论宗教经验，如施莱尔马赫（1998）的“绝对依赖感”，或奥托（1923）的努秘（numinous）之感，是关于宗教经验理论化的重要早期贡献，但此后有些人论证说（例如见 Alston 1991 与 Gellman 2001）[^alston-1991][^gellman-2001]，宗教性的情感状态并不是宗教经验的全部。要说明经验之为经验，我们必须超出主观感受。
+    step2: |-
+      首先，宗教经验须与宗教感受区分开来，正如一般意义上的经验须与一般意义上的感受相区分。例如，一阵欣快之感，即便发生在宗教语境里，本身并不算宗教经验——哪怕主体事后认为这感受是某个具有宗教意义的客观实在引起的。这里借感官经验作个类比会有帮助：假如主体感到一种说不清缘由的快乐，事后又相信这是某个特定的人在场所致；这一事实并不会把快乐之感变成对那个人的知觉。一个心理事件要成为对某对象的知觉，就必须在某种意义上显得是关于该对象的经验；同理，一个带有宗教取向的心理事件要成为宗教经验，也必须以某种方式显得是关于某个具有宗教意义的实在的经验。所以，尽管宗教感受可能卷入许多、甚至大多数宗教经验，二者并不是一回事。以感受来讨论宗教经验——如施莱尔马赫（1998）的“绝对依赖感”、奥托（1923）的努秘（numinous）之感——是宗教经验理论化的重要早期贡献；但此后有人论证（例如见 Alston 1991 与 Gellman 2001）[^alston-1991][^gellman-2001]：宗教性的情感状态并非宗教经验的全部。要说明经验之为经验，我们必须超出主观感受。
   - id: 3
     kind: body
     source: |-
       Religious experience is also to be distinguished from mystical experience. Although there is obviously a close connection between the two, and mystical experiences are religious experiences, not all religious experiences qualify as mystical. The word ‘mysticism’ has been understood in many different ways. James (1902) took mysticism to necessarily involve ineffability, which would rule out many cases commonly understood to be mystical. Alston (1991) adopted the term grudgingly as the best of a bad lot and gave it a semi-technical meaning. But in its common, non-technical sense, mysticism is a specific religious system or practice, deliberately undertaken in order to come to some realization or insight, to come to unity with the divine, or to experience the ultimate reality directly. At the very least, religious experiences form a broader category; many religious experiences, like those of Saint Paul, Arjuna, Moses, Muhammad, and many others come unsought, not as the result of some deliberate practice undertaken to produce an experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      宗教经验还必须与神秘经验区分开来。虽然二者之间显然联系紧密，神秘经验也确实是宗教经验，但并非所有宗教经验都够得上神秘。“神秘主义”一词已被以多种不同的方式理解。詹姆斯（1902）认为神秘经验必然涉及不可言说性，这就会把许多通常被理解为神秘的案例排除在外。Alston（1991）勉强采纳这个词，视之为一批坏选项中最好的一个，并给了它一个半技术的意义。但在其通常的、非技术的意义上，神秘主义是一种特定的宗教体系或实践，人们有意为之，以求达到某种领悟或洞见、与神圣者合一，或直接经验终极实在。至少可以说，宗教经验构成一个更宽的范畴；许多宗教经验——如圣保罗、阿周那、摩西、穆罕默德以及许多其他人的经验——是不请自来的，并非某种旨在产生经验的刻意修行的结果。
+    step2: |-
+      宗教经验还须与神秘经验相区分。二者显然联系紧密，神秘经验也确属宗教经验，但并非所有宗教经验都够得上“神秘”。“神秘主义”一词向有多种理解：詹姆斯（1902）认为神秘经验必然涉及不可言说性——这会把许多通常算作神秘的案例排除在外；Alston（1991）则勉强采纳此词，视之为一批坏选项里最不坏的，并给它一个半技术的意义。而在通常的、非技术的意义上，神秘主义是一套特定的宗教体系或修行：人有意为之，以求达成某种领悟或洞见、与神圣者合一，或直接经验终极实在。至少可以说，宗教经验是个更宽的范畴——许多宗教经验（如圣保罗、阿周那、摩西、穆罕默德等人的经验）不请自来，并不是刻意修行以求经验的产物。
   - id: 4
     kind: body
     source: |-
       ## 1. Types of Religious Experience
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 宗教经验的类型
+    step2: |-
+      ## 1 宗教经验的类型
   - id: 5
     kind: body
     source: |-
       Reports of religious experiences reveal a variety of different kinds. Perhaps most are visual or auditory presentations (visions and auditions), but not through the physical eyes or ears. Subjects report “seeing” or “hearing,” but quickly disavow any claim to seeing or hearing with bodily sense organs. Such experiences are easy to dismiss as hallucinations, but the subjects of the experience frequently claim that though it is entirely internal, like a hallucination or imagination, it is nevertheless a veridical experience, through some spiritual analog of the eye or ear (James 1902 and Alston 1991 cite many examples)[^alston-1991][^james-1902].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对宗教经验的报告显示出多种不同的类型。也许大多数是视觉或听觉的呈现（异象与异声），但并非通过肉眼或肉耳。主体报告“看见”或“听见”，却随即否认那是用身体感官去看或听。这类经验很容易被斥为幻觉，但经验的主体常常声称：虽然它完全像幻觉或想象一样是内在的，它却仍然是一个真实的经验，是经由眼睛或耳朵的某种灵性类似物而发生的（James 1902 与 Alston 1991 引了许多例子）[^alston-1991][^james-1902]。
+    step2: |-
+      对宗教经验的报告显示出多种类型。也许最常见的是视觉或听觉的呈现（异象与异声），却不经由肉眼肉耳。主体报告“看见”或“听见”，却随即否认那是用身体感官看或听。这类经验很容易被斥为幻觉；但经验主体往往声称：它虽然像幻觉或想象一样完全是内在的，却仍是真实的经验。其发生之道，据称是眼睛或耳朵的某种灵性对应物（James 1902 与 Alston 1991 引有许多例子）[^alston-1991][^james-1902]。
   - id: 6
     kind: body
     source: |-
       In other cases, the language of “seeing” is used in its extended sense of realization, as when a yogi is said to “see” his or her identity with Brahman; Buddhists speak of “seeing things as they are” as one of the hallmarks of true enlightenment, where this means grasping or realizing the emptiness of things, but not in a purely intellectual way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在另一些情形中，“看见”的语言是在其引申义——领悟——上使用的，例如据说瑜伽行者“看见”自己与梵同一；佛教徒说“如实见”是真正觉悟的标志之一，意指把握或领悟到诸法皆空，但不是纯智性的方式。
+    step2: |-
+      另一些情形里，“看见”用的是引申义——领悟。例如瑜伽行者据说“看见”自己与梵同一；佛教徒以“如实见”为真觉悟的标志之一——意指把握、领悟到诸法性空，却不是纯智性的把握。
   - id: 7
     kind: body
     source: |-
       A third type is the religious experience that comes through sensory experiences of ordinary objects, but seems to carry with it extra information about some supramundane reality. Examples include experiencing God in nature, in the starry sky, or a flower, or the like. Another person standing nearby would see exactly the same sky or flower, but would not necessarily have the further religious content to his or her experience. There are also cases in which the religious experience just is an ordinary perception, but the physical object is itself the object of religious significance. Moses’s experience of the burning bush, or the Buddha’s disciples watching him levitate, are examples of this type. A second person standing nearby would see exactly the same phenomenon. Witnesses to miracles are having that kind of religious experience, whether they understand it that way or not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三类宗教经验经由对普通对象的感官经验而来，但似乎附带了对某个超世间实在的额外信息。例子包括在自然中、在星空里、在一朵花或类似之物中经验到上帝。站在近旁的另一个人会看见完全相同的天空或花朵，但他的经验未必定带有这层进一步的宗教内容。还有些情形中，宗教经验恰恰就是一个普通的知觉，只是那个物理对象本身就是宗教意义的对象：摩西对燃烧荆棘的经验，或佛陀的弟子们看他悬浮，都属此类。站在近旁的第二个人会看见完全相同的现象。神迹的目击者所拥有的正是这类宗教经验，无论他们自己是否这样理解。
+    step2: |-
+      第三类宗教经验经由对普通对象的感官经验而来，却似乎附带关于某个超世间实在的额外信息——例如在自然中、星空下、一朵花或类似之物里经验到上帝。站在一旁的另一人看见完全相同的天空或花朵，其经验却未必带有这层宗教内容。还有些情形：宗教经验恰恰就是一个普通知觉，只是那个物理对象本身即是宗教意义的对象——摩西与燃烧的荆棘、佛陀弟子看他悬浮，皆属此类；站在近旁的第二个人看到的现象完全相同。神迹的目击者拥有的正是这类宗教经验，无论他们自己是否如此理解。
   - id: 8
     kind: body
     source: |-
       A fourth type of religious experience is harder to describe: it can’t be characterized accurately in sensory language, even analogically, yet the subject of the experience insists that the experience is a real, direct awareness of some religiously significant reality external to the subject. These kinds of experiences are usually described as “ineffable.” Depending on one’s purposes, other ways of dividing up religious experiences will suggest themselves. For example, William James (1902) divides experiences into “healthy-minded” and “sick-minded,” according to the personality of the subject, which colors the content of the experience itself. Keith Yandell (1993, 25–32) divided them into five categories, according to the content of the experiences: monotheistic, nirvanic (enlightenment experiences associated with Buddhism), kevalic (enlightenment experiences associated with Jainism), moksha (experiences of release from karma, associated with Hinduism), and nature experiences. Differences of object certainly make differences in content, and so make differences in what can be said about the experiences. See Section 4 for further discussion of this issue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第四类宗教经验更难描述：它无法用感官语言——即便类比地——被准确刻画，然而经验的主体坚称，这是对某种外在于主体的、具有宗教意义的实在的真实而直接的觉知。这类经验通常被描述为“不可言说的”。视论者目的不同，划分宗教经验的其他方式也会浮现。例如，威廉·詹姆斯（1902）依主体的性格把经验分为“健康心态的”与“病态心态的”，主体性格为经验内容本身着色。Keith Yandell（1993, 25–32）则按经验内容把它们分为五类：一神论的、涅槃式的（与佛教相联系的觉悟经验）、kevalic 的（与耆那教相联系的觉悟经验）、moksha 的（与印度教相联系的从业中解脱的经验），以及自然经验。对象的不同当然造成内容的不同，从而造成关于这些经验所能说的话的不同。这一问题进一步见第 4 节。
+    step2: |-
+      第四类宗教经验更难描述：它无法用感官语言——即便作类比——被准确刻画，但经验主体坚称：这真实而直接地觉知到了某个外在的、具有宗教意义的实在。这类经验通常被称作“不可言说的”。视论者目的，别的划分方式也会浮现。例如威廉·詹姆斯（1902）按主体性格把经验分为“健康心态”与“病态心态”两类，主体性格为经验内容本身着色；Keith Yandell（1993, 25–32）则按经验内容分五类：一神论的、涅槃式的（佛教的觉悟经验）、kevalic 的（耆那教的觉悟经验）、moksha 的（印度教的从业解脱经验）与自然经验。对象不同自然造成内容不同，也就造成关于这些经验能说什么的不同。此问题详见第 4 节。
   - id: 9
     kind: body
     source: |-
       ## 2. Language and Experience
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 语言与经验
+    step2: |-
+      ## 2 语言与经验
   - id: 10
     kind: body
     source: |-
       Many have thought that there is some special problem with religious language, that it can’t be meaningful in the same way that ordinary language is. The Logical Positivists claimed that language is meaningful only insofar as it is moored in our experiences of the physical world. Since we can’t account for religious language by linking it to experiences of the physical world, such language is meaningless. Even though religious claims look in every way like ordinary assertions about the world, their lack of empirical consequences makes them meaningless. Ayer (1952) calls such language “metaphysical,” and therefore meaningless. He says, “That a transcendent god exists 3s a metaphysical assertion, and therefore not literally significant.” The principle of verification went through many formulations as it faced criticism. But if it is understood as a claim about meaning in ordinary language, it seems to be self-undermining, since there is no empirical way to verify it. Eventually, that approach to language fell out of favor, but some still use a modified, weaker version to criticize religious language. For example, Antony Flew (Flew and MacIntyre, 1955) relies on a principle to the effect that if a claim is not falsifiable, it is somehow illegitimate. Martin (1990) and Nielsen (1985) invoke a principle that combines verifiability and falsifiability; to be meaningful, a claim must be one or the other. It is not clear that even these modified and weakened versions of the verification principle entirely escape self-undermining. Even if they do, they seem to take other kinds of language with them—like moral language, talk about the future or past, and talk about the contents of others’ minds — that we might be loath to lose. Moreover, to deny the meaningfulness of religious-experience claims on the grounds that it is not moored in experience begs the question, in that it assumes that religious experiences are not real experiences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多人认为宗教语言有某种特殊问题：它不能像日常语言那样是有意义的。逻辑实证主义者主张，语言只有锚定于我们对物理世界的经验时才是有意义的。由于我们无法通过把宗教语言与对物理世界的经验联系起来来说明它，这种语言就是无意义的。尽管宗教主张在各方面看起来都像关于世界的寻常断言，它们缺乏经验后果这一点使其无意义。艾耶尔（1952）称这类语言为“形而上学的”，因而无意义。他说：“存在一个超验的神 3s 一个形而上学断言，因而没有字面意义。”可证实性原则在遭到批评的过程中经历了许多表述。但如果把它理解为关于日常语言意义的主张，它似乎是自我拆台的，因为并没有经验的方法来证实它。最终，这种语言观失宠了，但仍有人用一个修改过的、较弱的版本来批评宗教语言。例如，Antony Flew（Flew and MacIntyre, 1955）依赖一条大意如下的原则：如果一个主张不可证伪，它就在某种程度上是不合法的。Martin（1990）与 Nielsen（1985）则诉诸一条结合了可证实与可证伪的原则：要有意义，一个主张必须二者居其一。即便这些修改弱化版的可证实性原则也未必完全逃过自我拆台；即便逃过了，它们似乎会把其他种类的语言一并拖下水——比如道德语言、关于未来或过去的谈论、关于他心内容的谈论——这些我们或许都不愿失去。此外，以宗教经验主张没有锚定于经验为由否认其意义，是丐题：它已经假定宗教经验不是真实的经验。
+    step2: |-
+      许多人认为宗教语言有某种特殊问题：它无法像日常语言那样有意义。逻辑实证主义者主张：语言唯有锚定于我们对物理世界的经验才有意义；宗教语言既无法通过与物理世界经验的联系得到说明，便是无意义的。宗教主张在各方面看上去都像关于世界的寻常断言，但缺乏经验后果使其无意义。艾耶尔（1952）称这类语言为“形而上学的”，故而无意义——他说：“存在一个超验的神 3s 一个形而上学断言，因而没有字面意义。”可证实性原则在批评声中几经改写；可若把它理解为关于日常语言意义的主张，它近乎自我拆台——并没有经验方法可以证实它自己。最终这一语言观失了宠，但仍有人持一个修改过的较弱版本来批评宗教语言。例如 Antony Flew（Flew and MacIntyre, 1955）依赖一条大意如此的原则：主张若不可证伪，便在某种程度上不合法。Martin（1990）与 Nielsen（1985）则诉诸一条可证实与可证伪并举的原则：要有意义，二者必居其一。即便这些弱化版也没能完全逃过自我拆台；即便逃过了，它们似乎会把别的语言一并拖下水——道德语言、关于未来与过去的谈论、关于他心的谈论——这些我们未必舍得丢。此外，以宗教经验主张未锚定于经验为由否认其意义，是丐题：它已经假定了宗教经验不是真实的经验。
   - id: 11
     kind: body
     source: |-
       Another possibility is to allow that religious claims are meaningful, but they are not true or false, because they should not be understood as assertions. Braithwaite (1970), for example, understands religious claims to be expressions of commitments to sets of values. On such a view, what appears to be a claim about a religious experience is not in fact a claim at all. It might be that some set of mental events, with which the experience itself can be identified, would be the ground and prompting of the claim, but it would not properly be what the claim is about.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一种可能是容许宗教主张有意义，但它们不真不假，因为不应把它们理解为断言。例如 Braithwaite（1970）把宗教主张理解为对一组价值的承诺之表达。按这种看法，看似关于宗教经验的主张其实根本不是主张。也许某组心理事件——经验本身可以与之同一——会是该主张的根据与推动，但严格说来它不是该主张所谈论的东西。
+    step2: |-
+      另一种可能：容许宗教主张有意义，但无真假可言——因为不该把它们理解为断言。例如 Braithwaite（1970）把宗教主张理解为对一组价值的承诺之表达。照此看法，看似关于宗教经验的主张，其实根本不是主张。或许某组心理事件（经验本身即可与之同一）构成了该主张的根据与动因，但严格说，那并不是主张所谈论的东西。
   - id: 12
     kind: body
     source: |-
       A second challenge to religious-experience claims comes from Wittgensteinian accounts of language. Wittgenstein (1978) muses at some length on the differences between how ordinary language is used, and how religious language is used. Others (see Phillips 1970, for example)[^phillips-1970], following Wittgenstein, have tried to give an explanation of the strangeness of religious language by invoking the idea of a language-game. Each language-game has its own rules, including its own procedures for verification. As a result, it is a mistake to treat it like ordinary language, expecting evidence in the ordinary sense, in the same way that it would be a mistake to ask for the evidence for a joke. “I saw God” should not be treated in the same way as “I saw Elvis.” Some even go so far as to say the religious language-game is isolated from other practices, such that it would be a mistake to derive any claims about history, geography, or cosmology from them, never mind demand the same kind of evidence for them. On this view, religious experiences should not be treated as comparable to sense experiences, but that does not entail that they are not important, nor that they are not in some sense veridical, in that they could still be avenues for important insights about reality. Such a view can be attributed to D. Z. Phillips (1970).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对宗教经验主张的第二个挑战来自维特根斯坦式的语言观。维特根斯坦（1978）对日常语言的用法与宗教语言的用法之间的差异作了相当长的沉思。另一些人（例如见 Phillips 1970）[^phillips-1970]追随维特根斯坦，试图借语言游戏这个观念来解释宗教语言的奇特。每种语言游戏有自己的规则，包括自己的证实程序。因此，把宗教语言当作日常语言来对待、要求通常意义上的证据，是一个错误，就像要求为一个笑话给出证据是错误一样。“我看见了上帝”不应与“我看见了猫王”以同样的方式对待。有些人甚至走得更远，说宗教语言游戏与其他实践相隔离，以至于从它引出任何关于历史、地理或宇宙学的主张都是错误的，更不用说要求为它们提供同类的证据了。按这种看法，宗教经验不应被当作可与感官经验相比的东西，但这并不意味着它们不重要，也不意味着它们在某种意义上不真实——它们仍可以是通向关于实在之重要洞见的门径。这样一种看法可以归于 D. Z. Phillips（1970）。
+    step2: |-
+      对宗教经验主张的第二种挑战来自维特根斯坦式的语言观。维特根斯坦（1978）就日常语言与宗教语言用法之别作了长篇沉思。另一些人（例如见 Phillips 1970）[^phillips-1970]追随维特根斯坦，借“语言游戏”解释宗教语言之奇特：每种语言游戏有自己的规则，包括自己的证实程序；因此把宗教语言当日常语言对待、要求通常意义的证据，是弄错了对象——正如要求给一个笑话出示证据是弄错了对象。“我看见了上帝”不该与“我看见了猫王”同样对待。有人甚至更进一步：宗教语言游戏与其他实践相互隔离，从它引出任何关于历史、地理或宇宙学的主张都是错的，更遑论要求同类证据。照此看法，宗教经验不该与感官经验等量齐观；但这不等于它们不重要，也不等于它们在某种意义上不真实——它们仍可以是通往关于实在之重要洞见的门径。此说可归于 D. Z. Phillips（1970）。
   - id: 13
     kind: body
     source: |-
       While this may account for some of the unusual aspects of religious language, it certainly does not capture what many religious people think about the claims they make. As creationism illustrates, many religious folk think it is perfectly permissible to draw empirical conclusions from religious doctrine. Hindus and Buddhists for many centuries thought there was a literal Mount Meru in the middle of the (flat, disc-shaped) world. It would be very odd if “The Buddha attained enlightenment under the bo tree” had to be given a very different treatment from “The Buddha ate rice under the bo tree” because the first is a religious claim and the second is an ordinary empirical claim. There are certainly entailment relations between religious and non-religious claims, too: “Jesus died for my sins” straightforwardly entails “Jesus died.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然这或许能说明宗教语言的某些不寻常之处，但它肯定没有把握住许多宗教信众对自己所作主张的看法。正如创造论所显示的，许多宗教信众认为从宗教教义引出经验结论是完全允许的。几个世纪以来，印度教徒与佛教徒一直认为在（扁平圆盘状的）世界中央实实在在地有一座须弥山。如果“佛陀在菩提树下觉悟”必须因它是宗教主张而得到与“佛陀在菩提树下吃饭”截然不同的对待——后者是寻常的经验主张——那就非常奇怪了。宗教主张与非宗教主张之间当然也存在蕴涵关系：“耶稣为我的罪而死”直截了当地蕴涵“耶稣死了”。
+    step2: |-
+      这或许能说明宗教语言的某些奇特之处，却肯定没有把握住许多信众对自己主张的看法。创造论即是一例：许多信众认为，从宗教教义引出经验结论完全正当。几百年来，印度教徒与佛教徒相信（扁平圆盘状的）世界中央实实在在立着一座须弥山。倘若“佛陀在菩提树下觉悟”仅仅因为它是宗教主张，就得与“佛陀在菩提树下吃饭”（寻常的经验主张）受到截然不同的对待，岂不怪哉？宗教主张与非宗教主张之间确有蕴涵关系：“耶稣为我的罪而死”直截了当地蕴涵“耶稣死了”。
   - id: 14
     kind: body
     source: |-
       ## 3. Epistemological Issues
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 知识论问题
+    step2: |-
+      ## 3 知识论问题
   - id: 15
     kind: body
     source: |-
       Since the subjects of religious experiences tend to take them to be real experiences of some external reality, we may ask what reason there is to think they are right. That is to say, do religious experiences amount to good reasons for religious belief? One answer to that question is what is often called the Argument from Religious Experience: Religious experiences are in all relevant respects like sensory experiences; sensory experiences are excellent grounds for beliefs about the physical world; so religious experiences are excellent grounds for religious beliefs. This argument, or one very like it, can be found in Swinburne (1979), Alston (1991), Plantinga (1981, 2000), Netland (2022) and others. Critics of this approach generally find ways in which religious experiences are different from sensory experiences, and argue that those differences are enough to undermine the evidential value of the experiences. Swinburne (1979) invokes what he calls the “Principle of Credulity,” according to which one is justified in believing that what seems to one to be present actually is present, unless some appropriate defeater is operative. He then discusses a variety of circumstances that would be defeaters in the ordinary sensory case, and argues that those defeaters do not obtain, or not always, in the case of religious experience. To reject his argument, one would have to show that religious experience is unlike sensory experience in that in the religious case, one or more of the defeaters always obtains. Anyone who accepts the principle has excellent reason to accept the deliverances of religious experience, unless he or she believes that defeaters always, or almost always, obtain.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于宗教经验的主体倾向于把它们当作对某种外部实在的真实经验，我们可以问：有什么理由认为他们是对的？也就是说，宗教经验构成宗教信念的好理由吗？对这个问题的一种回答，就是常被称为宗教经验论证的东西：宗教经验在一切相关方面都像感官经验；感官经验是关于物理世界的信念的极好根据；所以宗教经验是宗教信念的极好根据。这个论证，或与之非常类似的论证，可见于 Swinburne（1979）、Alston（1991）、Plantinga（1981, 2000）、Netland（2022）等人。这种进路的批评者一般会找出宗教经验与感官经验的种种不同之处，并论证这些差异足以瓦解这些经验的证据价值。Swinburne（1979）诉诸他所谓的“轻信原则”：一个人有理由相信在他看来在场的东西确实在场，除非有某种适当的击败因子在起作用。他接着讨论了在寻常感官情形中会成为击败因子的种种情况，并论证这些击败因子在宗教经验的情形中不出现，或并非总是出现。要拒绝他的论证，就得表明宗教经验与感官经验的不同在于：在宗教情形中，一个或多个击败因子总是起作用。凡接受该原则的人，都有极好的理由接受宗教经验所给予的东西——除非他认为击败因子总是、或几乎总是起作用。
+    step2: |-
+      宗教经验的主体倾向于把它们当作对某种外部实在的真实经验；那么我们可以问：有什么理由认为他们是对的？换言之，宗教经验构成宗教信念的好理由吗？一种回答即常说的“宗教经验论证”：宗教经验在一切相关方面都像感官经验；感官经验是关于物理世界的信念的极好根据；所以宗教经验是宗教信念的极好根据。这个论证（或其近亲）可见于 Swinburne（1979）、Alston（1991）、Plantinga（1981, 2000）、Netland（2022）等人。批评者一般会找出宗教经验不同于感官经验之处，并论证这些差异足以瓦解经验的证据价值。Swinburne（1979）诉诸他所谓的“轻信原则”：一个人有理由相信在他看来在场的东西确实在场，除非有某种适当的击败因子在起作用。他继而讨论寻常感官情形中的种种击败因子，并论证：在宗教经验情形中，这些因子不出现，或并非总出现。要驳倒他，就得表明宗教经验之不同在于：宗教情形下总有一个或多个击败因子在场。凡接受该原则者，都有极好的理由接受宗教经验所给予的东西——除非他认为击败因子总是（或几乎总是）在场。
   - id: 16
     kind: body
     source: |-
       Plantinga offers a different kind of argument. According to Cartesian-style foundationalism, in order to count as justified, a belief must either be grounded in other justified beliefs, or derive its justification from some special status, like infallibility, incorrigibility, or indubitability. There is a parallel view about knowledge. Plantinga (1981) argued that such a foundationalism is inconsistent with holding one’s own ordinary beliefs about the world to be justified (or knowledge), because our ordinary beliefs derived from sense-experience aren’t derived from anything infallible, indubitable, or incorrigible. In fact, we typically treat them as foundational, in need of no further justification. If we hold sensory beliefs to be properly basic, then we have to hold similarly formed religious beliefs, formed on experiences of God manifesting himself to a believer (Plantinga calls them ‘M-beliefs’), as properly basic. He proposed that human beings have a faculty—what John Calvin called the ‘*sensus divinitatis*’—that allows them to be aware of God’s actions or dispositions with respect to them. If beliefs formed by sense-experience can be properly basic, then beliefs formed by this faculty cannot, in any principled way, be denied that same status. His developed theory of warrant (2000) implies that, if the beliefs are true, then they are warranted. One cannot attack claims of religious experience without first addressing the question as to whether the religious claims are true. He admits that, since there are people in other religious traditions who have based beliefs about religious matters on similar purported manifestations, they may be able to make the same argument about their own religious experiences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普兰丁格给出了另一种论证。按笛卡尔式的基础主义，一个信念要算得到证成，要么必须奠基于其他得到证成的信念之上，要么必须从某种特殊地位——如不可谬性、不可矫正性或不可怀疑性——获得其证成。关于知识也有一个平行的看法。普兰丁格（1981）论证说，这样的基础主义与我们把自己关于世界的寻常信念看作得到证成的（或知识）不相容，因为我们从感官经验得来的寻常信念并非从任何不可谬的、不可怀疑的或不可矫正的东西推导而来。事实上，我们通常把它们当作基础性的，无须进一步的证成。如果我们认为感官信念是恰当基本的，那么我们就必须把类似地形成的宗教信念——形成于上帝向信徒显现自身的经验（普兰丁格称之为“M-信念”）——也当作恰当基本的。他提出，人类拥有一种官能——加尔文称之为神圣感知（*sensus divinitatis*）——使他们能够觉知上帝相对于他们的行动或意向。如果由感官经验形成的信念可以是恰当基本的，那么由这种官能形成的信念就不能以任何有原则的方式被否认同样的地位。他发展出来的证成理论（2000）蕴含：如果这些信念为真，那么它们就是得到证成的。人们不先处理宗教主张是否为真的问题，就无法攻击宗教经验的主张。他承认，由于其他宗教传统中有人把关于宗教事情的信念建立在类似的自称显现之上，他们也许能就自己的宗教经验提出同样的论证。
+    step2: |-
+      普兰丁格给出另一类论证。按笛卡尔式基础主义，信念要得到证成，要么奠基于其他已证成的信念，要么从某种特殊地位（不可谬性、不可矫正性、不可怀疑性）获得证成；关于知识也有平行的看法。普兰丁格（1981）论证：这种基础主义与我们把寻常的世界信念看作得到证成的（或知识）不相容。因为我们从感官经验得来的寻常信念，并非从任何不可谬、不可怀疑、不可矫正的东西推导而来；事实上我们通常径直把它们当作基础的，无须进一步证成。若我们认为感官信念是恰当基本的，就必须同样对待以类似方式形成的宗教信念——即形成于上帝向信徒显现之经验（普兰丁格谓之“M-信念”）的信念。他提出，人类有一种官能——加尔文称之为神圣感知（*sensus divinitatis*）——使人能觉知上帝对待他们的行动与意向。既然感官经验形成的信念可以是恰当基本的，便没有任何有原则的办法否认：这种官能形成的信念具有同等地位。他成熟的证成理论（2000）蕴含：这些信念若为真，便是得到证成的——不先处理宗教主张是否为真，就无从攻击宗教经验的主张。他也承认：其他宗教传统中有人把宗教信念建立在类似的自称显现之上，他们或许能就自己的宗教经验提出同样的论证。
   - id: 17
     kind: body
     source: |-
       Alston develops a general theory of doxastic practices (constellations of belief-forming mechanisms, together with characteristic background assumptions and sets of defeaters), gives an account of what it is to rationally engage in such a practice, and then argues that at least the practice of forming beliefs on the basis of Christian religious experiences fulfills those requirements. If we think of the broad doxastic practices we currently employ, we see that some of them can be justified by the use of other practices. The practice of science, for example, reduces mostly to the practices of sense-perception, deductive reasoning, and inductive reasoning (memory and testimony also make contributions, of course). The justificatory status the practice gives to its product beliefs derives from those more basic practices. Most, however, cannot be so reduced. How are they justified, then? It seems that they cannot be justified non-circularly, that is, without the use of premises derived from the practices themselves. Our only justification for continuing to trust these practices is that they are firmly established, interwoven with other practices and projects of ours, and have “stood the test of time” by producing mostly consistent sets of beliefs. They produce a sufficiently consistent set of beliefs if they don’t produce massive, unavoidable contradictions on central matters, either internally, or with the outputs of other equally well-established practices. If that’s all there is to be said about our ordinary practices, then we ought to extend the same status to other practices that have the same features. He then argues that the Christian practice of belief-formation on the basis of religious experience does have those features. Like Plantinga, he admits that such an argument might be equally available to other religious practices; it all depends on whether the practice in question generates massive and unavoidable contradictions, on central matters, either internally, or with other equally well-established practices. To undermine this argument, one would have to show either that Alston’s criteria for rationality of a practice are too permissive, or that religious practices never escape massive contradictions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Alston 发展了一个关于信念实践的一般理论（信念形成机制的星座，连同特有的背景假设与击败因子集），说明了理性地投入这样一种实践是什么意思，然后论证：至少基于基督教宗教经验形成信念的实践满足那些要求。如果我们考察我们目前运用的那些宽泛的信念实践，会发现其中一些可以借其他实践来证成。例如科学实践大多可还原为感官知觉、演绎推理与归纳推理的实践（记忆与证言当然也有贡献）。该实践给予其产品信念的证成地位，来自那些更基本的实践。然而大多数实践不能如此还原。那么它们如何得到证成？看来它们无法被非循环地证成，也就是说，不使用从这些实践自身得出的前提就无法证成。我们继续信任这些实践的惟一证成是：它们牢固确立，与我们的其他实践和事业交织在一起，并且通过产生大体一致的信念集而“经受了时间的考验”。如果这些实践不在中心问题上——无论是内部还是与其他同等确立的实践的输出之间——产生大量的、不可避免的矛盾，它们就产生了一个足够一致的信念集。如果关于我们的寻常实践能说的就这么多，那么我们就应当把同样的地位延伸给具有同样特征的其他实践。然后他论证：基于宗教经验的基督教信念形成实践确实具有那些特征。与普兰丁格一样，他承认这样的论证可能同样适用于其他宗教实践；这全取决于有关的实践是否在中心问题上——无论是内部还是与其他同等确立的实践之间——产生大量不可避免的矛盾。要瓦解这个论证，就得表明要么 Alston 的实践合理性判据过于宽松，要么宗教实践永远逃不出大量矛盾。
+    step2: |-
+      Alston 发展出一套信念实践（doxastic practices）的一般理论——信念形成机制的星座，连同特有的背景假定与击败因子集；他说明理性地投入这类实践是什么意思，继而论证：至少基于基督教宗教经验形成信念的实践满足那些要求。考察我们现行的宽泛信念实践：其中一些可以借别的实践证成——例如科学实践大多可还原为感官知觉、演绎推理与归纳推理的实践（记忆与证言当然也有功劳）；该实践赋予其产品信念的证成地位，源自那些更基本的实践。但多数实践无法如此还原。那它们如何证成？看来无法非循环地证成——不借用这些实践自身产出的前提就不行。我们继续信任它们的惟一证成是：它们确立已久、与我们的其他实践和事业交织，并靠产出大体一致的信念集而“经受了时间的考验”。只要不在中心问题上（无论内部，还是与其他同等确立的实践的输出之间）产生大量不可避免的矛盾，一个实践产出的信念集就足够一致。若关于寻常实践能说的就这么多，我们就应当把同等地位延伸给具有同样特征的其他实践。他继而论证：基于宗教经验的基督教信念形成实践确实具备那些特征。与普兰丁格一样，他承认这一论证或许同样向其他宗教实践开放——全看有关实践是否在中心问题上（内部或与其他同等确立的实践之间）产生大量不可避免的矛盾。要瓦解它，就得表明：要么 Alston 的实践合理性判据过宽，要么宗教实践永远逃不出大量矛盾。
   - id: 18
     kind: body
     source: |-
       Both Plantinga’s and Alston’s defense of the epistemic value of religious experiences turn crucially on some degree of similarity with sense-experience. But they are not simple arguments from analogy; not just any similarities will do to make the positive argument, and not just any dissimilarities will do to defeat the argument. The similarities or dissimilarities need to be epistemologically relevant. It is not enough, for example, to show that religious experiences do not typically allow for independent public verification, unless one wants to give up on other perfectly respectable practices, like rational intuition, that also lack that feature.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      普兰丁格与 Alston 为宗教经验之知识论价值所作的辩护，都关键地依赖于宗教经验与感官经验的某种程度的相似。但它们不是简单的类比论证；并非任何相似都能构成正面论证，也并非任何不相似都能击败论证。相似或不相似需要在知识论上相关。例如，仅仅表明宗教经验通常不容许独立的公共证实是不够的，除非人们愿意同时放弃其他完全体面的实践——如理性直觉——后者同样缺乏那一特征。
+    step2: |-
+      普兰丁格与 Alston 为宗教经验知识论价值所作的辩护，都关键地系于宗教经验与感官经验的某种相似。但它们不是简单的类比论证：并非任何相似都足以支撑正面论证，也并非任何不相似都足以击败它——相似或不相似须在知识论上相关。例如，只表明宗教经验通常不容许独立的公共证实，并不够：除非你打算连理性直觉这类同样缺乏该特征的完全体面的实践一起放弃。
   - id: 19
     kind: body
     source: |-
       The two most important defeaters on the table for claims of the epistemic authority of religious experience are the fact of religious diversity, and the availability of naturalistic explanations for religious experiences. Religious diversity is a prima facie defeater for the veridicality of religious experiences in the same way that wildly conflicting eyewitness reports undermine each other. If the reports are at all similar, then it may be reasonable to conclude that there is some truth to the testimony, at least in broad outline. A version of this objection is the argument from divine hiddenness (cf. Lovering 2013)[^lovering-2013]. If God exists, and shows himself to some people in religious experiences, then the fact that he doesn’t do so for more people, more widely distributed, requires some explanation. Axtell provides another version of that objection. He argues that to insist that one’s own religious convictions are true in the face of the diversity of religions is to reason counter-inductively, and is therefore irrational. The reasoning is counter-inductive because your own convictions come from the same kinds of epistemic sources (investment in testimonial authority) as those you deem to be wrong, so if you are right, it is just a matter of luck. But if two eyewitness reports disagree on the most basic facts about what happened, then it seems that neither gives you good grounds for any beliefs about what happened. It certainly seems that the contents of religious-experience reports are radically different from one another. Some subjects of religious experiences report experience of nothingness as the ultimate reality, some a vast impersonal consciousness in which we all participate, some an infinitely perfect, personal creator. To maintain that one’s own religious experiences are veridical, one would have to a) find some common core to all these experiences, such that in spite of differences of detail, they could reasonably be construed as experiences of the same reality, or b) insist that one’s own experiences are veridical, and that therefore those of other traditions are not veridical. The first is difficult to manage, in the face of the manifest differences across religions. Nevertheless, John Hick (1989) develops a view of that kind, making use of a Kantian two-worlds epistemology. The idea is that the object of these experiences, in itself, is one and the same reality, but it is experienced phenomenally by different people differently. Thus, is possible to see how one and the same object can be experienced in ways that are completely incompatible with one another. This approach is only as plausible as the Kantian framework itself is. Jerome Gellman (2001) proposes a similar idea, without the Kantian baggage. Solutions like these leave the problem untouched: If the different practices produce experiences the contents of which are inconsistent with one another, one of the practices must be unreliable. Alston (1991) and Plantinga (2000) develop the second kind of answer. The general strategy is to argue that, from within a tradition, a person acquires epistemic resources not available to those outside the tradition, just as travelling to the heart of a jungle allows one to see things that those who have not made the journey can’t see. As a result, even if people in other traditions can make the same argument, it is still reasonable to say that some are right and the others are wrong. The things that justify my beliefs still justify them, even if you have comparable resources justifying a contrary view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      摆在宗教经验之知识论权威主张面前的两个最重要的击败因子是：宗教多样性的事实，以及宗教经验的自然主义解释的可得性。宗教多样性是宗教经验真实性的初步击败因子，正如彼此严重冲突的目击证词相互削弱一样。如果那些报告还有相似之处，那么得出结论说证言有某种真实性——至少在大致轮廓上——也许就是合理的。这一反驳的一个版本是神圣隐藏的论证（参见 Lovering 2013）[^lovering-2013]：如果上帝存在，并在宗教经验中向某些人显现自己，那么他没有向更多的人、在更广的分布中这样做，这一事实就需要某种解释。Axtell 给出了这一反驳的另一个版本。他论证说，面对宗教的多样性而坚持自己的宗教信念为真，是在作反归纳的推理，因此是非理性的。之所以是反归纳的，是因为你自己的信念来自与你认为错误的那些信念同类的知识论来源（对证言权威的投入），所以如果你是对的，那纯属运气。但如果两份目击证词就所发生之事的最基本事实意见相左，那么看来两者都不能为关于所发生之事的信念提供好根据。宗教经验报告的内容看来确实彼此截然不同。有些宗教经验的主体报告经验到空无是终极实在，有些报告一个我们全都参与其中的巨大的非人格意识，有些报告一位无限完美的位格创造者。要坚持自己的宗教经验是真实的，人们就得：a) 为所有这些经验找到某种共同内核，使得尽管细节有差异，它们仍可合理地被解释为对同一实在的经验；或者 b) 坚持自己的经验是真实的，因此其他传统的经验不真实。面对诸宗教之间显而易见的差异，第一条路很难走通。尽管如此，John Hick（1989）发展了那样一种观点，利用康德式的两界知识论。其想法是：这些经验的对象就其自身而言是同一个实在，但不同的人以现象的方式经验到它时各不相同。由此便可以说明，同一个对象如何能以彼此完全不相容的方式被经验。这一进路的可信度与康德框架本身的可信度相当。Jerome Gellman（2001）提出了一个类似的想法，但不带康德的包袱。这类方案并没有触动问题本身：如果不同的实践产生的经验内容彼此不一致，那么其中必有一个实践是不可靠的。Alston（1991）与普兰丁格（2000）发展了第二类回答。总的策略是论证：从传统内部出发，一个人会获得传统之外的人得不到的知识论资源，正如深入丛林腹地让人看到未曾同行者看不到的东西。由此，即便其他传统中的人能提出同样的论证，说有些人对而另一些人错仍然是合理的。证成我的信念的那些东西仍然证成它们，即使你有可比的资源证成一个相反的看法。
+    step2: |-
+      宗教经验的知识论权威面临两大击败因子：一是宗教多样性的事实，二是自然主义解释的可得性。宗教多样性的事实，以及宗教经验之自然主义解释的可得性。宗教多样性是宗教经验真实性的初步击败因子——正如互相严重冲突的目击证词彼此削弱。若各报告尚有相似之处，那么断认证言有某种真实性（至少在大致轮廓上）或许还算合理。这一反驳的一个版本是神的隐藏论证（参见 Lovering 2013）[^lovering-2013]：若上帝存在，并在宗教经验中向某些人显现，那么他未曾向更多的人、在更广的人群中显现，这一事实就需要解释。Axtell 给出另一版本：面对宗教多样性仍坚持一己宗教信念为真，是在作反归纳推理，故而非理性。你自己的信念，与被判为错误的那些信念出自同类的知识论来源（对证言权威的投入）：你若是对的，纯属运气。而若两份目击证词就事情的最基本事实相左，两者就都不能为关于此事的信念提供好根据。宗教经验报告的内容看来确实彼此悬殊：有的报告经验到空无为终极实在；有的报告一个众人皆参与其中的巨大非人格意识，有的报告一位无限完美的位格创造者。要坚持自己的宗教经验为真，就得：a) 为所有这些经验找到某种共同内核，使它们尽管细节有异，仍可合理地解作对同一实在的经验；或 b) 坚持自己的经验为真，故其他传统的经验不真。面对诸宗教间显著的差异，第一条路很难走。尽管如此，希克（1989）借康德式两界知识论发展了这样一套观点：这些经验的对象就其自身而言是同一个实在，只是不同的人以现象的方式经验它时各有所得。由此便说得通：同一个对象如何能以彼此完全不相容的方式被经验。这一进路的可信度不会高于康德框架本身。Jerome Gellman（2001）提出过一个类似想法，但不背康德的包袱。这类方案并未触动问题：不同实践产出的经验内容若彼此不一致，其中必有一个实践不可靠。Alston（1991）与普兰丁格（2000）发展了第二类回答，总策略是：身处传统之内的人，会获得局外人得不到的得不到的知识论资源——正如深入丛林腹地者能看到未同行者看不到的东西。于是，即便其他传统中的人能作同样的论证，说有些人对而另一些人错仍属合理。证成我信念的那些东西依然证成它们，哪怕你有可比的资源证成一个相反的看法。
   - id: 20
     kind: body
     source: |-
       Naturalistic explanations for religious experiences are thought to undermine their epistemic value because, if the naturalistic explanation is sufficient to explain the experience, we have no grounds for positing anything beyond that naturalistic cause. Freud (1927) and Marx (1876/1977) are frequently held up as offering such explanations. Freud claims that religious experiences can be adequately explained by psychological mechanisms having their root in early childhood experience and psychodynamic tensions. Marx similarly attributes religious belief in general to materialistic economic forces. Both claim that, since the hidden psychological or economic explanations are sufficient to explain the origins of religious belief, there is no need to suppose, in addition, that the beliefs are true. Freud’s theory of religion has few adherents, even among the psychoanalytically inclined, and Marx’s view likewise has all but been abandoned, but that is not to say that something in the neighborhood might not be true. More recently, neurological explanations of religious experience have been put forward as reasons to deny the veridicality of the experiences. Events in the brain that occur during meditative states and other religious experiences are very similar to events that happen during certain kinds of seizures, or with certain kinds of mental disorders, and can also be induced with drugs. Therefore, it is argued, there is nothing more to religious experiences than what happens in seizures, mental disorders, or drug experiences. Some who are studying the neurological basis of religious experience do not infer that they are not veridical (see, e.g., d’Aquili and Newberg 1999), but many do. Guthrie (1995), for example, argues that religion has its origin in our tendency to anthropomorphize phenomena in our vicinity, seeing agency where there is none.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      宗教经验的自然主义解释之所以被认为会削弱其知识论价值，是因为：如果自然主义的解释足以解释该经验，我们就没有根据在那一自然主义原因之外再设定任何东西。Freud（1927）与 Marx（1876/1977）常被举作给出这类解释的人。弗洛伊德声称，宗教经验可以由植根于童年早期经验与心理动力学张力的心理机制得到充分的解释。马克思类似地把宗教信念一般地归因于唯物主义的经济力量。两人都主张：既然隐藏的心理解释或经济解释足以解释宗教信念的起源，就无须再假定这些信念为真。弗洛伊德的宗教理论即使在倾向精神分析的人中也没有多少追随者，马克思的看法同样几乎被弃置，但这并不是说这一邻域中的某种东西不可能是真的。晚近，宗教经验的神经学解释被提出来作为否认这些经验真实性的理由。冥想状态与其他宗教经验期间发生的大脑事件，与某些类型的癫痫发作或某些精神障碍期间发生的事件非常相似，而且可以用药物诱发。因此有人论证说，宗教经验除癫痫、精神障碍或药物经验中发生的事情之外并没有更多的东西。一些研究宗教经验之神经基础的人并不推断它们不真实（例如见 d’Aquili and Newberg 1999），但许多人这样推断。例如 Guthrie（1995）论证说，宗教源于我们把周遭现象人格化的倾向，在并无行动之处看出行动者。
+    step2: |-
+      宗教经验的自然主义解释之所以被认为削弱其知识论价值：若自然主义解释已足以解释经验，我们就没有根据在此自然原因之外再设定什么。Freud（1927）与 Marx（1876/1977）常被举为给出这类解释者。弗洛伊德声称：宗教经验可由植根于童年早期经验与心理动力学张力的心理机制充分解释。马克思则把宗教信念一般地归因于唯物的经济力量。二人都主张：隐藏的心理或经济解释既足以解释宗教信念的起源，便无须再假定这些信念为真。弗洛伊德的宗教理论即使在倾向精神分析者中也少有追随者，马克思的看法同样近乎被弃；但这不等于这一邻域中的某种东西不可能是真的。晚近，宗教经验的神经学解释被提出来，作为否认其真实性的理由：冥想状态与其他宗教经验期间的大脑事件，与某些癫痫发作或某些精神障碍期间的事件非常相似，且可由药物诱发。故有人论证：宗教经验无非癫痫、精神障碍或药物经验中发生的事。研究宗教经验之神经基础的人里，有的并不推断它们不真实（例如见 d’Aquili and Newberg 1999），但许多人如此推断。例如 Guthrie（1995）论证：宗教源于我们把周遭现象人格化的倾向——在并无行动者处看出行动者。
   - id: 21
     kind: body
     source: |-
       There are general problems with all kinds of naturalistic explanations as defeaters. First of all, as Gellman (2001) points out, most such explanations (like the psychoanalytic and socio-political ones) are put forward as hypotheses, not as established facts. The proponent assumes that the experiences are not veridical, then casts around for an explanation. This is not true of the neurological explanations, but they face another kind of weakness noted by Ellwood (1999): *every* experience, whatever its source, is accompanied by a corresponding neurological state. To argue that the experience is illusory because there is a corresponding brain state is fallacious. The same reasoning would lead us to conclude that sensory experiences are illusory, since in each sensory experience, there is some corresponding neurological state that is just like the state that occurs in the corresponding hallucination. The proponent of the naturalistic explanation as a defeater owes us some reason to believe that his or her argument is not just another skeptical argument from the veil of perception.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      各种自然主义解释作为击败因子都存在一般性的问题。首先，正如 Gellman（2001）指出的，这类解释（如精神分析与社会政治的解释）大多作为假说提出，而非作为已确立的事实。提出者先假定经验不是真实的，然后四下寻找一种解释。神经学的解释并非如此，但它们面临 Ellwood（1999）指出的另一种弱点：*每一个*经验，无论其来源如何，都伴随一个相应的神经状态。因为存在相应的大脑状态而论证经验是虚幻的，是错误的推理。同样的推理会引导我们断定感官经验是虚幻的，因为每个感官经验都有某个相应的神经状态，它与相应幻觉中出现的状态一模一样。把自然主义解释当作击败因子的提出者，欠我们一个理由，让我们相信他的论证不只是又一个从知觉之幕出发的怀疑论论证。
+    step2: |-
+      各类自然主义解释作为击败因子，都有一类通病。其一，正如 Gellman（2001）指出的：这类解释（如精神分析与社会政治的解释）多作为假说提出，而非确立的事实——提出者先假定经验不真，再四下找解释。神经学解释不属此列，却另有 Ellwood（1999）指出的弱点：*每一个*经验——无论来源——都伴随相应的神经状态。因有相应脑状态便断定经验虚幻，是错误推理：同样的推理会让我们断定感官经验也虚幻——每个感官经验都有相应的神经状态，与相应幻觉中的状态一模一样。以自然主义解释为击败因子者，欠我们一个理由，让我们相信其论证不只是又一个出自知觉之幕的怀疑论论证。
   - id: 22
     kind: body
     source: |-
       One further epistemological worry accompanies religious experience. James claimed that, while mystical experiences proved authoritative grounds for belief in the person experiencing them, they cannot give grounds for a person to whom the experience is reported. In other words, my experience is evidence for me, but not for you. Bovens (2012) gives a modern expansion and explanation of this claim. The claim can be understood in a variety of ways, depending on the kind of normativity that attaches to the purported evidential relation. Some (see Oakes 1976, for example)[^oakes-1976] have claimed that religious experiences epistemically can necessitate belief; that is, anyone who has the experience and doesn’t form the corresponding belief is making an epistemic mistake, much like a person who, in normal conditions, refuses to believe his or her eyes. More commonly, defenders of the epistemic value of religious experience claim that the experiences make it epistemically permissible to form the belief, but you may also be justified in not forming the belief. The testimony of other people about what they have experienced is much the same. In some cases, a person would be unjustified in rejecting the testimony of others, and in other cases, one would be justified in accepting it, but need not accept it. This leaves us with three possibilities, on the assumption that the subject of the experience is justified in forming a religious belief on the basis of his or her experience, and that he or she tells someone else about it: the testimony might provide compelling evidence for the hearer, such that he or she would be unjustified in rejecting the claim; the testimony might provide non-compelling justification for the hearer to accept the claim; or the testimony might fail to provide any kind of grounds for the hearer to accept the claim. When a subject makes a claim on the basis of an ordinary experience, it might fall into any one of these three categories, depending on the claim’s content and the epistemic situation of the hearer. The most natural thing to say about religious experience claims is that they work the same way (on the assumption that they give the subject of the experience, who is making the claim, any justification for his or her beliefs). James, and some others after him, claim that testimony about religious experiences cannot fall under either of the first two categories. If that’s true, it must be because of something special about the nature of the experiences. If we assume that the experiences cannot be shown *a priori* to be defective somehow, and that religious language is intelligible—and if we do not make these assumptions, then the question of religious testimony doesn’t even arise—then it must be because the evidential value of the experience is so small that it cannot survive transmission to another person; that is, it must be that in the ordinary act of reporting an experience to someone else, there is some defeater at work that is always stronger than whatever evidential force the experience itself has. While there are important differences between ordinary sense-experience and religious experience (clarity of the experience, amount of information it contains, presence of competing explanations, and the like), it is not clear whether the differences are great enough to disqualify religious testimony always and everywhere.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      还有一个进一步的知识论担忧伴随着宗教经验。詹姆斯主张，虽然神秘经验对经历它们的人来说是信念的权威根据，它们却不能给经验被报告给的那个人提供根据。换言之，我的经验是我的证据，但不是你的。Bovens（2012）对这一主张给出了一个现代的扩展与解释。这一主张可以按多种方式理解，取决于所宣称的证据关系带有哪种规范性。有些人（例如见 Oakes 1976）[^oakes-1976]主张宗教经验在知识论上能必然化信念；也就是说，任何有此经验却不形成相应信念的人都在犯一个知识论错误，就像一个在正常条件下拒绝相信自己眼睛的人。更常见的是，宗教经验之知识论价值的辩护者主张，这些经验使形成信念在知识论上得到允许，但你仍然可以有理由不形成该信念。他人关于其所经验的证言大体相同。在某些情形中，一个人拒绝他人证言会是不合理性的；在另一些情形中，接受证言是合理性的，但无须接受。于是，假定经验的主体有理由基于自己的经验形成一个宗教信念、并且把这事告诉了别人，我们就剩下三种可能：证言也许为听者提供强迫性的证据，以至于他拒绝该主张就会是不合理性的；证言也许为听者接受该主张提供非强迫性的证成；或者证言也许不能为听者接受该主张提供任何根据。当主体基于一个寻常经验作出主张时，视主张的内容与听者的知识论处境，它可以落入这三类中的任何一类。关于宗教经验主张，最自然的说法是：它们以同样的方式起作用（假定它们给予作出主张的经验主体其信念的某种证成）。詹姆斯及其后的某些人主张，关于宗教经验的证言不能落入前两类中的任何一类。如果这是真的，那必定是因为这些经验的本性有某种特殊之处。如果我们假定这些经验不能被*先验地*表明有缺陷，并且宗教语言是可理解的——而如果我们不作这些假定，宗教证言的问题根本不会产生——那么必定是因为经验的证据价值太小，经不起向他人的传递；也就是说，必定是因为在向他人报告经验的寻常行为中，有某个击败因子在起作用，它总是强于经验本身具有的任何证据力量。尽管寻常感官经验与宗教经验之间存在重要差异（经验的清晰度、它所含信息量、竞争性解释的存在等等），这些差异是否大到足以使宗教证言在任何地方都永远不合格，并不清楚。
+    step2: |-
+      宗教经验还伴随一个进一步的知识论担忧。詹姆斯主张：神秘经验对经历者而言是信念的权威根据，却不能为听说这经验的人提供根据——换言之，这经验是我的证据，不是你的。Bovens（2012）对这一主张作了现代的扩展与解释。该主张可有多种解读，取决于所谓证据关系带有哪种规范性。有人（例如见 Oakes 1976）[^oakes-1976]主张：宗教经验在知识论上能必然化信念——凡有此经验而不形成相应信念者，即犯知识论错误，如同正常条件下拒绝相信自己眼睛的人。更常见的立场是：宗教经验的辩护者主张这些经验使形成信念在知识论上得到允许，但你有理由不形成该信念也无妨。他人关于其经验的证言大抵相同：有的情形里拒绝他人证言便不合理性；有的情形里接受是合理的，却不必接受。于是，假定经验主体有理由基于自己的经验形成宗教信念、且告诉了别人，便剩三种可能：证言为听者提供强迫性证据——拒绝即不合理性；证言为听者提供非强迫性的接受证成；或证言给不出任何接受的根据。主体基于寻常经验作主张时，视主张内容与听者的知识论处境，三类都可能落入。关于宗教经验主张，最自然的说法是：它们同样起作用（假定它们给予作主张的经验主体以某种证成）。詹姆斯及后继的某些人主张：宗教经验的证言落不进前两类。若果真如此，必是经验的本性有某种特殊之处。若我们假定这些经验不能被*先验地*表明有缺陷、宗教语言可理解——不作这两个假定，宗教证言的问题根本不会产生——那么必定是：经验的证据价值太小，经不起传递；也就是说，在向他人报告经验的寻常行为中，总有某个击败因子在起作用，强于经验本身的任何证据力量。寻常感官经验与宗教经验之间确有重要差异（经验的清晰度、信息量、竞争性解释的有无等等），但这些差异是否大到让宗教证言永远处处不合格，并不清楚。
   - id: 23
     kind: body
     source: |-
       ## 4. The Diverse Objects of Religious Experience
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 宗教经验的多样对象
+    step2: |-
+      ## 4 宗教经验的多样对象
   - id: 24
     kind: body
     source: |-
       Just as there are a variety of religions, each with its own claims about the nature of reality, there are a variety of objects and states of affairs that the subjects of these experiences claim to be aware of. Much analytic philosophy of religion has been done in Europe and the nations descended from Europe, so much of the discussion has been in terms of God as conceived of in the Jewish, Christian, and Islamic traditions. In those traditions, the object of religious experiences is typically God himself, understood as an eternal, omniscient, omnipotent, free, and perfectly good spirit. God, for reasons of his own, reveals himself to people, some of them unbidden (like Moses, Muhammad, and Saint Paul), and some because they have undertaken a rigorous practice to draw closer to him (like the mystics). To say that an experience comes unbidden is not to say that nothing the subject has done has prepared her, or primed her, for the experience (see Luhrmann 2012)[^luhrmann-2012]; it is only to claim that the subject has not undertaken any practice aimed at producing a religious experience. In such experiences, God frequently delivers a message at the same time, but he need not. He is always identifiable as the same being who revealed himself to others in the same tradition. Other experiences can be of angels, demons, saints, heaven, hell, or other religiously significant objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如宗教多种多样、各自有关于实在之本性的主张，这些经验的主体声称觉知到的对象与事态也多种多样。大量的分析宗教哲学是在欧洲及欧洲人的后裔国家作出的，因此许多讨论是围绕犹太教、基督教与伊斯兰教传统所构想的神展开的。在这些传统中，宗教经验的对象典型地是上帝自身，被理解为一个永恒、全知、全能、自由且完全善的灵。上帝出于自己的原因向人们显现自己，有些是不请自来（如摩西、穆罕默德与圣保罗），有些则因为人们施行了严格的修行来亲近他（如神秘主义者）。说一个经验不请自来，并不是说主体所做的任何事情都没有为她准备好或预备好这一经验（见 Luhrmann 2012）[^luhrmann-2012]；这只是主张主体没有施行任何旨在产生宗教经验的修行。在这类经验中，上帝常常同时传递一个信息，但不必如此。他总是可以被辨认出是同一传统中向他人显现过的同一位存在者。其他经验的对象可以是天使、魔鬼、圣徒、天堂、地狱或其他具有宗教意义的对象。
+    step2: |-
+      宗教多种多样，各自有关于实在之本性的主张；这些经验的主体声称觉知的对象与事态同样多种多样。分析宗教哲学的大家多出于欧洲及欧洲裔国家，因此许多讨论围绕犹太教、基督教与伊斯兰教传统所构想的神展开。在这些传统里，宗教经验的对象典型地是上帝自身——一个永恒、全知、全能、自由且完全善的灵。上帝出于自己的原因向人显现：有的不请自来（摩西、穆罕默德、圣保罗），有的因人施行严格修行以亲近他（如神秘主义者）。说经验不请自来，并不是说主体所做的一切都未曾为经验作准备或铺垫（见 Luhrmann 2012）[^luhrmann-2012]；这只是说主体没有施行任何旨在产生宗教经验的修行。这类经验中上帝常同时传话，但未必。他总可以被辨认出：正是同一传统中向他人显现过的同一位。其他经验的对象可以是天使、魔鬼、圣徒、天堂、地狱或其他具有宗教意义的对象。
   - id: 25
     kind: body
     source: |-
       In other traditions, it is not necessarily a personal being who is the object of the experience, or even a positive being at all. In the traditions that find their origin in the Indian subcontinent—chiefly Hinduism, Buddhism, and Jainism—the object of religious experiences is some basic fact or feature of reality, rather than some entity separate from the universe. In the orthodox Hindu traditions, one may certainly have an experience of a god or some other supernatural entity (like Arjuna’s encounter with Krishna in the Bhagavad Gita), but a great many important kinds of experiences are of Brahman, and its identity with the self. In Yoga, which is based in the Samkhya understanding of the nature of things, the mystical practice of yoga leads to a calming and stilling of the mind, which allows the yogi to apprehend directly that he or she is not identical to, or even causally connected with, the physical body, and this realization is what liberates him or her from suffering.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其他传统中，经验的对象未必是一个位格性的存在者，甚至未必是一个实在的存在者。在起源于印度次大陆的传统——主要是印度教、佛教与耆那教——中，宗教经验的对象是实在的某种基本事实或特征，而不是某种独立于宇宙的实体。在正统印度教传统中，人当然可以有对某位神或其他超自然实体的经验（如阿周那在《薄伽梵歌》中与克里希那的相遇），但许多重要的经验是关于梵以及梵与自我的同一性的。在瑜伽中——它基于数论对事物本性的理解——瑜伽的神秘修行导向心灵的平静与止息，使瑜伽行者能够直接领悟到：他与身体并非同一，甚至没有因果联系；这一领悟正是把他从苦中解放出来的东西。
+    step2: |-
+      在其他传统中，经验对象未必是位格性的存在者，甚至未必是实在的存在者。在源于印度次大陆的传统——主要是印度教、佛教与耆那教——里，宗教经验的对象是实在的某种基本事实或特征，而非独立于宇宙的实体。正统印度教传统中，人当然可以有对某位神或其他超自然实体的经验（如阿周那在《薄伽梵歌》中与克里希那的相遇），但许多重要经验关乎梵以及梵与自我的同一。瑜伽基于数论对事物本性的理解：其神秘修行导向心灵的平静与止息，使瑜伽行者直接领悟到自己与身体并非同一、甚至没有因果联系。正是这一领悟把他从苦中解放出来。
   - id: 26
     kind: body
     source: |-
       In Theravada Buddhism, the goal of meditation is to “see things as they are,” which is to see them as unsatisfactory, impermanent, and not-self (Gowans 2003, 191)[^gowans-2003]. The meditator, as he or she makes progress along the way, sheds various delusions and attachments. The last one to go is the delusion that he or she is a self. To see this is to see all of reality as made up of sequences of momentary events, each causally dependent on the ones that went before. There are no abiding substances, and no eternal souls. Seeing reality that way extinguishes the fires of craving, and liberates the meditator from the necessity of rebirth (Laumakis 2008, 158–161)[^laumakis-2008]. Seeing things as they are involves removing from the mind all the delusions that stand in the way of such seeing, which is done by meditation practices that develop the meditator’s mastery of his or her own mind. The type of meditation that brings this mastery and allows the meditator to see the true nature of things is called *Vipassana* (insight) meditation. It typically involves some object of meditation, which can be some feature of the meditator him- or herself, some feature of the physical or mental world, or some abstraction, which then becomes the focus of the meditator’s concentration and examination. In the end, it is hoped, the meditator will see in the object the unsatisfactory and impermanent nature of things and that there is no self to be found in them. At the moment of that insight, *nirvana* is achieved. While the experience of nirvana is essentially the realization of a kind of insight, it is also accompanied by other experiential elements, especially of the cessation of negative mental states. Nirvana is described in the Buddhist canon as the extinction of the fires of desire. The Theravada tradition teaches other kinds of meditation that can help the meditator make progress, but the final goal can’t be achieved without *vipassana* meditation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在上座部佛教中，禅修的目标是“如实见”，即把事物看作不如意的、无常的与无我的（Gowans 2003, 191）[^gowans-2003]。禅修者沿这条路取得进步时，逐步摆脱种种错觉与执着，最后放下的是“他是一个自我”这一错觉。看到这一点，就是看到全部实在都由刹那事件串成，每一事件因果地依赖于先前的诸事件。没有恒存的实体，也没有永恒的灵魂。以这种方式看待实在，便熄灭了渴爱之火，把禅修者从再生的必然性中解放出来（Laumakis 2008, 158–161）[^laumakis-2008]。如实见要求从心中清除妨碍这种看见的一切错觉，而这要靠培养禅修者对自己心灵之掌握的禅修实践来完成。带来这种掌握、使禅修者见到事物真实本性的禅修类型称为*内观*（*vipassanā*，insight）禅。它通常有某个禅修对象——可以是禅修者自身的某个特征、物理或精神世界的某个特征，或某个抽象物——它成为禅修者专注与审察的焦点。人们期望，禅修者最终会在这对象中看到事物不如意与无常的本性，看到其中并无自我可得。在那洞见的一刻，*涅槃*达成。涅槃经验本质上是一种洞见的实现，但它也伴随其他经验要素，尤其是负面心理状态的止息。佛典把涅槃描述为贪欲之火的熄灭。上座部传统还教其他有助于进步的禅法，但最终目标离不开 *vipassana*（内观）禅修。
+    step2: |-
+      上座部佛教中，禅修的目标是“如实见”——把事物看作不如意、无常、无我（Gowans 2003, 191）[^gowans-2003]。禅修者一路精进，渐次脱去种种错觉与执着；最后放下的一项，是“我是一个自我”的错觉。见到这一点，便是见到整个实在由刹那事件串成，每一事件因果地系于先前的事件；没有恒存的实体，也没有永恒的灵魂。如此观实在，便熄灭渴爱之火，把禅修者从再生的必然性中解放出来（Laumakis 2008, 158–161）[^laumakis-2008]。如实见要求清除心中一切妨碍此见之错觉，靠的是培养禅修者自心掌握力的禅修实践。带来这种掌握、令禅修者得见事物真实本性的禅法，称为内观（*vipassanā*，insight）禅。它通常设有禅修对象——禅修者自身的某个特征、物理或精神世界的某个特征，或某个抽象物——成为专注与审察的焦点。人们期望禅修者最终在对象中看到事物之不如意与无常、看到其中并无自我可得；洞见一至，*涅槃*达成。涅槃经验本质上是一种洞见的实现，但也伴随其他经验要素——尤其是负面心理状态的止息。佛典谓涅槃为贪欲之火的熄灭。上座部另传多种助进之禅法，但最终目标离不开 *vipassana*（内观）。
   - id: 27
     kind: body
     source: |-
       In the Mahayana Buddhist traditions, this idea of the constantly fluctuating nature of the universe is extended in various ways. For some, even those momentary events that make up the flow of the world are understood to be empty of inherent existence (the idea of inherent existence is understood differently in different traditions) to the point that what one sees in the enlightenment experience is the ultimate emptiness (*sunyata*) of all things. In the Yogacara school of Mahayana Buddhism, this is understood as emptiness of external existence; that is, to see things as they are is to see them as all mind-dependent. In the Zen school of Mahayana Buddhism, the enlightenment experience (*kensho*) reveals that reality contains no distinctions or dualities. Since concepts and language always involve distinctions, which always involve duality, the insight so gained cannot be achieved conceptually or expressed linguistically. In all Mahayana schools, what brings enlightenment is direct realization of sunyata as a basic fact about reality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在大乘佛教传统中，宇宙不断流变这一观念以各种方式得到扩展。对一些派别而言，构成世界之流的那些刹那事件本身也被理解为空无固有存在（不同传统对固有存在的理解不同），以至于在觉悟经验中所见的是一切事物的终极空性（*sunyata*）。在大乘佛教的瑜伽行派中，这被理解为外境之空；也就是说，如实见就是见到一切法皆依心而立。在大乘佛教的禅宗中，觉悟经验（见性，*kensho*）揭示实在不包含任何分别或二元。既然概念与语言总是涉及分别，而分别总是涉及二元，由此获得的洞见便不能以概念的方式达成，也不能以语言表达。在一切大乘宗派中，带来觉悟的是对空作为实在之基本事实的直接领悟。
+    step2: |-
+      大乘佛教诸传统以各种方式扩展了宇宙恒常流变的观念。在一些派别看来，构成世界之流的刹那事件本身也空无固有存在（固有存在的观念各派理解不同）——觉悟经验中所见的，是一切事物的终极空性（*sunyata*）。大乘瑜伽行派把这理解为外境之空：如实见，即见一切法皆依心而立。大乘禅宗中，觉悟经验（见性，*kensho*）揭示实在不含任何分别与二元；概念与语言总涉及分别，分别总涉及二元，故此洞见无法以概念达成、无法以语言表达。一切大乘宗派共许：带来觉悟者，是对空作为实在之基本事实的直接领悟。
   - id: 28
     kind: body
     source: |-
       The situation is somewhat more complicated in the Chinese traditions. The idea of religious experience seems to be almost completely absent in the Confucian tradition; the social world looms large, and the idea of an ultimate reality that needs to be experienced becomes much less prominent. Before the arrival of Buddhism in China, Confucianism was primarily a political and ethical system, with no particular concern with the transcendent (though people who identified themselves as Confucians frequently engaged in Chinese folk religious practices). Nevertheless, meditation (and therefore something that could be called “religious experience”) did come to play a role in Confucian practice in the tenth century, as Confucian thought began to be influenced by Buddhist and Daoist thought. The resulting view is known as Neo-Confucianism. Neo-Confucianism retains the Mencian doctrine that human beings are by nature good, but in need of purification. Since goodness resides in every person, then examination of oneself should reveal the nature of goodness, through the experience of the vital force within (*qi*). The form of meditation that arises from this line of thought (“quiet sitting” or “sitting and forgetting”) are very like Buddhist vipassana meditation, but there is no value placed on any particular insight gained, though one can experience the principle of unity (*li*) behind the world. Success is measured in gradual moral improvement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在中国传统中，情况要更复杂一些。宗教经验的观念在儒家传统中似乎几乎完全缺席：社会世界占据压倒地位，需要去经验的终极实在的观念变得很不突出。在佛教传入中国之前，儒家主要是一套政治与伦理体系，对超验者没有特别的关切（尽管自认儒者的人们常常参与中国民间的宗教实践）。尽管如此，禅修（因而某种可以称为“宗教经验”的东西）确实在十世纪开始在儒家实践中扮演角色，当时儒家思想开始受到佛教与道家思想的影响。由此形成的观点被称为理学（Neo-Confucianism）。理学保留了孟子的学说：人性本善，但需要净化。既然善存在于每个人之中，那么省察自己就应当揭示善的本性，即通过内在之气（*qi*）的经验。由这条思路产生的禅修形式（“静坐”或“坐忘”）与佛教的内观禅非常相似，但不把任何价值放在由此获得的特定洞见上，尽管人可以经验到世界背后的统一原理（*li*，理）。成败以道德的渐进改善来衡量。
+    step2: |-
+      中国传统的情况更复杂些。宗教经验的观念在儒家传统中似乎几乎完全缺席：社会世界占压倒地位，需要去经验的终极实在之观念很不突出。佛教东来之前，儒家主要是一套政治与伦理体系，不特别关切超验者（尽管自认儒者者常参与民间宗教实践）。尽管如此，随着儒家思想开始受佛教与道家影响，禅修（因而某种可称为“宗教经验”的东西）自十世纪起确在儒家实践中扮演角色。由此形成的思想即理学（Neo-Confucianism）。理学保留孟子性善之教：人性本善，然须净化。善既在每人心中，省察自己便应当经由内在之气（*qi*）的经验揭示善的本性。由此思路而生的禅修形式（“静坐”或“坐忘”）与佛教内观禅非常相似，却不把价值放在任何特定洞见上——尽管人可以经验到世界背后的统一原理（*li*，理）。功夫成败，以道德的渐进改善衡量。
   - id: 29
     kind: body
     source: |-
       The Daoist ideal is to come to an understanding of the Dao, the fundamental nature of reality that explains all things in the world, and live according to it. Knowledge of the Dao is essential to the good life, but this knowledge cannot be learned from discourses, or transmitted by teaching. It is only known by experiential acquaintance. The Dao gives the universe a kind of grain, or flow, going against which causes human difficulty. The good human life is then one that respects the flow of Dao, and goes along with it. This is what is meant by “life in accordance with nature,” and is the insight behind the Daoist admonition of *wu wei,* sometimes glossed as “actionless action.” By paying attention to reality as it presents itself, a person can learn what the Dao is, and can experience unity with it. This picture of reality, along with the picture of how one can come to know it, heavily influenced the development of Ch’an Buddhism, which became Zen.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      道家的理想是理解道——说明世界上一切事物的实在之本性——并按道生活。对道的知识是好生活所必需的，但这种知识不能从论说中习得，也不能由教导传递；它只能以经验的亲知被认识。道赋予宇宙一种纹理或流，逆流而行会造成人的困难。善的人生因此是尊重道之流并顺之而行的人生。这就是“顺自然而生”的意思，也是道家 *wu wei*（无为）箴言背后的洞见，后者有时被疏解为“无为之为”。通过留意如其所示的现实，一个人可以学会道是什么，并可以经验与道合一。这一实在图景，连同关于人如何能认识它的图景，深深地影响了禅宗——后来成为日本禅——的发展。
+    step2: |-
+      道家的理想是理解道——说明世间一切事物的实在之本性——并依道而活。知道是好生活所必需；但这种知识无法从论说习得、无法由教导传递，只能以经验亲知。道赋予宇宙一种纹理、一种流；逆流而行，人生多艰。善的人生便是尊重道之流、顺之而行的人生——这就是“顺自然而生”的含义，也是道家 *wu wei*（无为）箴言背后的洞见（常被疏解为“无为之为”）。留意如其所示的现实，人便能学会道是什么，并经验与道合一。这幅实在图景，连同人如何认识它的图景，深深影响了禅宗——日后成为日本禅——的发展。
   - id: 30
     kind: body
     source: |-
       All of the same epistemological problems that arise for theism will also arise for these other traditions, though in different forms. That is, one can ask of experiences of Brahman, Sunyata, the Dao, and anything else that is the object of religious experience whether there is any reason to think the experience is veridical. One can also ask whether testimony about those experiences carries the same weight as ordinary experience. Naturalistic explanations can also be offered to these experiences. It is equally true that the responses that have been offered to these objections in a theistic context are also available to defenders of non-theistic religious experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为有神论产生的所有知识论问题，也会以不同的形式出现在这些其他传统中。也就是说，对梵、空、道以及其他任何宗教经验对象的经验，人们同样可以问：有什么理由认为该经验是真实的？人们也可以问，关于那些经验的证言是否与寻常经验的证言有同样的分量。自然主义的解释同样可以被提出来对付这些经验。同样确实的是：在有神论语境中给出的对那些反驳的回应，也可为非有神论宗教经验的辩护者所用。
+    step2: |-
+      有神论面临的知识论问题，也会以不同形式出现在这些传统中：对梵、空、道以及其他任何宗教经验对象的经验，人们同样可以问——有什么理由认为它真实？也可以问：关于那些经验的证言是否有寻常经验证言同样的分量。自然主义解释同样可以被提出来对付这些经验。同样确实的是：有神论语境中对那些反驳的种种回应，非有神论宗教经验的辩护者同样可用。
   - id: 31
     kind: oir
     source: |-
       - [Religious Experience Resources](http://people.bu.edu/wwildman/relexp/), by Wesley Wildman, Boston University.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      * [宗教经验资源](http://people.bu.edu/wwildman/relexp/)，Wesley Wildman 编，波士顿大学。
+    step2: |-
+      * [宗教经验资源](http://people.bu.edu/wwildman/relexp/)，Wesley Wildman 编，波士顿大学。

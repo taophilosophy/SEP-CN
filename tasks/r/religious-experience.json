@@ -1,29 +1,64 @@
 {
- "slug": "religious-experience",
- "kind": "retranslate",
- "zh_doc": "r/religious-experience.md",
- "state": "cleared",
- "steps": [
-  {
-   "step": "direction",
-   "status": "ok",
-   "actor": "RZ-main-20261104",
-   "at": "2026-11-04T19:23:07Z",
-   "evidence": "方向声明（rules/08）：r 批第 4 件 religious-experience（58KB，批次内剩余次小件）。目标：六道全过同验收判据；工具链复用 build_*.py+build_ra.py 组装器模式+rz_postfix。非目标同前三件。同时作为 reasoning-analogy r3 终审前的冷置任务。"
-  },
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-04T19:23:07Z",
-   "evidence": "baseline gate: hash_ok"
+  "slug": "religious-experience",
+  "kind": "retranslate",
+  "zh_doc": "r/religious-experience.md",
+  "state": "r1_reviewed",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T19:23:07Z",
+      "evidence": "方向声明（rules/08）：r 批第 4 件 religious-experience（58KB，批次内剩余次小件）。目标：六道全过同验收判据；工具链复用 build_*.py+build_ra.py 组装器模式+rz_postfix。非目标同前三件。同时作为 reasoning-analogy r3 终审前的冷置任务。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-04T19:23:07Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:24:51Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：31 段（body=30+oir=1，biblio 42 条照录）→script/build_re.py 单批双版→守恒自检（脚注键/$/**硬门）HARD=0（软旗 6：段2 experience of 斜体重心构传达、段26/27/29 拉丁术语保源形 sunyata/vipassana/wu wei 守恒修复、段31 OIR 列表标记 - →* 对齐 MD004）→compose 16137 字符→rz_postfix（H1 空行+相关词条 8/8）→italic_to_bold 3 行；术语登记 12 条+人名 3 条（努秘/恰当基本/M-信念/内观/见性/语言游戏等学界通行；希克/艾耶尔/加尔文）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:24:52Z",
+      "evidence": "s1 一校：31 段数字多集合比对全守恒；脚注键闭环（正文 8 引用↔8 定义+42 biblio 照录现制）；check_terms 硬错误 0；相关词条 8/8 对齐 SUMMARY（empiricism-logical 逻辑经验主义/divine-hiddenness 神的隐藏性/james 威廉·詹姆斯 逗号换序回退/mysticism slug 精确优先防同英文撞车/perception-episprob 知觉的认识论问题/religious-diversity 宗教多样性/testimony 证言的认识论问题）——rz_postfix 三处升级：别名行按链接文本 \\* 起头判定（防别名先于 canonical 污染）、slug 精确优先、姓,名换序回退；三件已收口词条回归验证 OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:24:52Z",
+      "evidence": "s2 二校：check_prose 20→6——修复 14（长句拆分×6、de-chain 重排×6、被动 1、措辞 1）；余 6 条逐条豁免留痕：Yandell 五分类术语并列的-串、Plantinga 恰当基本技术句、seg19 术语引号句×2、seg25 术语句——均为术语/引语结构非行文冗余；step1 忠实底同步；脱稿通读"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:24:53Z",
+      "evidence": "s3 三校：style --strict 0；academic --strict 0 硬错误；math 0；summary 0；prose 6（豁免留痕）；markdownlint 随 CI"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:24:53Z",
+      "evidence": "r1 初审（对照源自审）：31 段逐段回读，重点核 Plantinga/Alston 两长论证的方向与模态（恰当基本/M-信念/信念实践/击败因子）、四类宗教经验划分、诸传统对象（梵/空/道/内观/见性/理学/无为）括注体系一致；结构完整性验收（导语+4 节+参考文献+学术工具+OIR+相关词条 8 项，无脚注节——源无注）；0 问题。r2 独立复核放下会话（冷置自然形成）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-04T19:23:07Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 26, 2022",
+    "archive_edition": "Fall 2022",
+    "sha256": "0ce3558fed85e12391f21991c87fa4ae6676de9575ec892ec5e4465f795692f3"
   }
- ],
- "blockers": [],
- "created_at": "2026-11-04T19:23:07Z",
- "version_pin": {
-  "pubinfo_date": "Aug 26, 2022",
-  "archive_edition": "Fall 2022",
-  "sha256": "0ce3558fed85e12391f21991c87fa4ae6676de9575ec892ec5e4465f795692f3"
- }
 }
