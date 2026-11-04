@@ -430,6 +430,15 @@
 | Franz Brentano | 弗朗兹·布伦塔诺 | reism | SUMMARY 既有条目名（b/brentano.md）；语料通行 | 2026-11-04 |
 | Stanisław Leśniewski | 莱斯涅夫斯基 | reism | 语料回收（i/identity.md 用例）；学界通行 | 2026-11-04 |
 | Alfred Tarski | 塔尔斯基 | reism | 本册既定（林登鲍姆–塔尔斯基代数）；学界通行 | 2026-11-04 |
+| Charles Darwin | 达尔文 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
+| Galileo Galilei | 伽利略 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
+| Joseph Priestley | 约瑟夫·普里斯特利 | reasoning-analogy | 学界通行汉译（化学家） | 2026-11-05 |
+| Mary Hesse | 玛丽·赫西 | reasoning-analogy | 学界通行汉译（科学哲学家） | 2026-11-05 |
+| Carl Hempel | 卡尔·亨佩尔 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
+| Bas van Fraassen | 范·弗拉森 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
+| Douglas Hofstadter | 侯世达 | reasoning-analogy | 学界通行汉译（《哥德尔、艾舍尔、巴赫》作者） | 2026-11-05 |
+| George Pólya | 波利亚 | reasoning-analogy | 学界通行汉译（《怎样解题》作者） | 2026-11-05 |
+| Roy Harrod | 哈罗德 | reasoning-analogy | 学界通行汉译（经济学家） | 2026-11-05 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 

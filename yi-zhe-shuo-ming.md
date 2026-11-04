@@ -507,6 +507,27 @@
 | singularia | 殊相（保留拉丁，首现括注） | reism | 中世纪哲学惯例（particulars 通译殊相） | 2026-11-04 |
 | syncategorematica / synsemantica | 非范畴词／伴语义词（保留拉丁，首现括注） | reism | 沿用本册 syncategorematic word=非范畴词；synsemantica 按构词括注 | 2026-11-04 |
 | categorematic / autosemantic | 范畴词／自立语义词 | reism | 与非范畴词对偶的通行译法 | 2026-11-04 |
+| analogical reasoning | 类推推理（SUMMARY 题名既定形） | reasoning-analogy | SUMMARY 既有条目名（r/reasoning-analogy.md） | 2026-11-05 |
+| analogical argument | 类比论证 | reasoning-analogy | 学界通行 | 2026-11-05 |
+| source domain / target domain | 源域／目标域 | reasoning-analogy | 学界通行（认知科学与科学哲学） | 2026-11-05 |
+| horizontal / vertical relations | 水平关系／垂直关系 | reasoning-analogy | 学界通行（Hesse 术语） | 2026-11-05 |
+| positive/negative/neutral/hypothetical analogy | 正类比／负类比／中性类比／假说类比 | reasoning-analogy | 学界通行（Hesse/Keynes 术语；假说类比按构词） | 2026-11-05 |
+| material / formal analogy | 实质类比／形式类比 | reasoning-analogy | 学界通行（Hesse 术语） | 2026-11-05 |
+| plausibility | 可信性（prima facie plausibility → 初步可信性） | reasoning-analogy | 学界惯例（形式知识论通译可信性/似真性，本册取可信性） | 2026-11-05 |
+| structure-mapping theory | 结构映射理论 | reasoning-analogy | 学界通行（Gentner 术语） | 2026-11-05 |
+| systematicity | 系统性（Systematicity Principle → 系统性原则） | reasoning-analogy | 学界通行 | 2026-11-05 |
+| articulation model | 阐明模型（正文保留英文 articulation model，首现括注） | reasoning-analogy | 构词直译；学界无定译，保留原词 | 2026-11-05 |
+| prior association / potential for generalization | 先行关联／概括潜力 | reasoning-analogy | 构词直译（Bartha 2010 术语） | 2026-11-05 |
+| nomic isomorphism | 律则同构 | reasoning-analogy | 学界通行（nomic 律则的） | 2026-11-05 |
+| ethnographic analogy | 民族志类比 | reasoning-analogy | 学界通行（考古学） | 2026-11-05 |
+| ampliative | 扩展性（ampliative reasoning → 扩展性推理） | reasoning-analogy | 学界惯例（皮尔士术语通译扩展/扩充，本册取扩展性） | 2026-11-05 |
+| stare decisis / ratio decidendi | 遵循先例（stare decisis）／判决理由（ratio decidendi） | reasoning-analogy | 学界通行（法学术语，保留拉丁） | 2026-11-05 |
+| enthymematic | 省略前提的（enthymeme → 省略三段论） | reasoning-analogy | 学界通行（亚里士多德术语） | 2026-11-05 |
+| paradeigma / homoiotes | 例证论证（paradeigma）／例似论证（homoiotes） | reasoning-analogy | 学界惯例（《修辞学》paradeigma 通译例证；homoiotes 按构词） | 2026-11-05 |
+| analogue confirmation | 类比确证（analogue simulation → 类比模拟） | reasoning-analogy | 构词直译，随文括注 | 2026-11-05 |
+| single-case induction / sampling argument | 单例归纳／抽样论证 | reasoning-analogy | 构词直译（归纳逻辑惯例） | 2026-11-05 |
+| determination rule | 决定规则 | reasoning-analogy | 构词直译（Russell/Davies 术语） | 2026-11-05 |
+| Dutch book | 荷兰赌 | reasoning-analogy | 学界通行（贝叶斯决策论） | 2026-11-05 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
