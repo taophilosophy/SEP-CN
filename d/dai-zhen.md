@@ -1,1 +1,1 @@
-# \*戴震——见戴震 Dai Zhen — see Dai Zhen
+# 戴震 Dai Zhen (Frank Y. C. Chong and Chris Fraser)

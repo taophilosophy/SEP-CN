@@ -2381,7 +2381,7 @@
   * [统一科学 unity of (Jordi Cat)](s/scientific-unity.md)
 * [科学发现 scientific discovery (Jutta Schickore)](s/scientific-discovery.md)
 * [科学解释 scientific explanation (James Woodward and Lauren Ross)](s/scientific-explanation.md)
-  * [20 世纪的科学解释理论 20 th Century Theories of Scientific Explanation (James Woodward and Lauren Ross)](s/scientific-explanation-20th.md)
+  * [20 世纪的科学解释理论 20th Century Theories of Scientific Explanation (James Woodward and Lauren Ross)](s/scientific-explanation-20th.md)
   * [科学解释的因果方法 causal approaches to (Lauren Ross and James Woodward)](c/causal-explanation-science.md)
 * [\*科学知识 scientific knowledge](README.md)
   * [科学知识的社会维度 social dimensions of (Helen Longino)](s/scientific-knowledge-social.md)

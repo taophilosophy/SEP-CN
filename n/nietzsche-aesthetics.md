@@ -1,1 +1,1 @@
-# \*尼采——见尼采的美学 Nietzsche — see Nietzsche, Friedrich: aesthetics
+# 尼采的美学 Nietzsche’s Aesthetics (Timothy Stoll)

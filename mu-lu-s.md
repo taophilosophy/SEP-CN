@@ -1512,7 +1512,7 @@ outline: [1, 6]
 * [其他条件不变律 ceteris paribus (Alexander Reutlinger, Gerhard Schurz, Andreas Hüttemann, and Siegfried Jaag)](c/ceteris-paribus.md)
 * [科学解释 scientific explanation (James Woodward and Lauren Ross)](s/scientific-explanation.md)
 * [科学解释的因果方法 causal approaches to (Lauren Ross and James Woodward)](c/causal-explanation-science.md)
-* [20 世纪的科学解释理论 20 th Century Theories of Scientific Explanation (James Woodward and Lauren Ross)](s/scientific-explanation-20th.md)
+* [20 世纪的科学解释理论 20th Century Theories of Scientific Explanation (James Woodward and Lauren Ross)](s/scientific-explanation-20th.md)
 * [科学中的测量 in science (Eran Tal)](m/measurement-science.md)
 
 ### 科学实在论(理论解释力、理论变化、理论结构、现实的真实性、概念的实在性)

@@ -1,1 +1,1 @@
-# \*实验法理学——见实验法理学 experimental jurisprudence — see jurisprudence, experimental
+# 实验法理学 Experimental Jurisprudence (Kevin Tobia, Guilherme Almeida, Karolina Prochownik, and Ivar Hannikainen)

@@ -1,1 +1,1 @@
-# \*手语语义学——见手语语义学 of sign language — see sign language semantics
+# 手语语义学 Sign Language Semantics (Philippe Schlenker, Jonathan Lamberton, and Jeremy Kuhn)
