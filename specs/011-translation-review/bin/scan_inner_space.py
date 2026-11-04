@@ -16,8 +16,7 @@ os.chdir(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..
 
 def scan_line(line):
     """返回该行的内侧空格违例数。"""
-    seg = re.sub(r"\$\$[^$]*\$\$|\$[^$\n]*?\$", "M", line)
-    seg = re.sub(r"`[^`]*`", "C", seg)
+    seg = re.sub(r"`[^`]*`", "C", line)  # 与 locate 同口径：原行（仅剥行内代码）
     i, n = 0, len(seg)
     stack = []
     bad = 0
