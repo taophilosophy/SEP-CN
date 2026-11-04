@@ -2,7 +2,7 @@
   "slug": "descartes-ideas",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ideas.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T05:20:37Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:53:40Z",
+      "evidence": "全量重译组装：12081 汉字 6 节标题对齐，100 条脚注定义保留（书目原样），引用约定注译出，两段《沉思集》拉丁引文回译"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:53:40Z",
+      "evidence": "逐节对照源钉（pubinfo Sep 18 2025）：段落 53:53 全对齐，内联脚注标记零缺失零多余，AT/CSM 引用编号一律照源，相关词条 5 项按 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:53:40Z",
+      "evidence": "check_prose 60→48：实修 14（长句拆分 7/weak 4/dang-shihou 1/italic-CJK 5 并 style），余 48 豁免留痕：39 de-chain 经院论证定语，4 passive 为'被理解为/被认识/被说成'自然认识性被动，5 long 为 71-78 区间论证句与引文内部，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:53:43Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 48 豁免留痕见 s2；人名 1 条登记（吉比厄夫），术语沿用既有登记（样态/简单本性/天赋-外来-虚构观念三分）"
     }
   ],
   "blockers": [],

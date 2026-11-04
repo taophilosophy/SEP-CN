@@ -669,6 +669,8 @@
 | Meehl, Paul | 保罗·米尔 | behaviorism | 学界惯例（临床心理学家，通行音译） | 2026-11-05 |
 | Churchland, Paul | 保罗·丘奇兰德 | behaviorism | 学界通行汉译（神经哲学） | 2026-11-05 |
 
+| Gibieuf, Guillaume | 纪尧姆·吉比厄夫 | descartes-ideas | 学界惯例（笛卡尔通信者/神学家，通行音译） | 2026-11-05 |
+
 ## 登记格式说明
 
 ```
