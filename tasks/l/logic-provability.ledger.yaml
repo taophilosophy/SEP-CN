@@ -657,213 +657,293 @@ segments:
       Together with the assumption that $PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$, this gives
 
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与假设 $PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$ 合起来，这给出
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
+    step2: |-
+      与假设 $PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$ 合起来，这给出
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
   - id: 72
     kind: body
     source: |-
       Finally, the equation produced by the diagonalization lemma implies that $\PA \vdash B$, so $\PA \vdash \Prov(\ulcorner B\urcorner )$, thus
 
       $$ \PA \vdash A, $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，对角化引理产生的等式蕴涵 $\PA \vdash B$，于是 $\PA \vdash \Prov(\ulcorner B\urcorner )$，从而
+      
+      $$ \PA \vdash A, $$
+    step2: |-
+      最后，对角化引理产生的等式蕴涵 $\PA \vdash B$，于是 $\PA \vdash \Prov(\ulcorner B\urcorner )$，从而
+      
+      $$ \PA \vdash A, $$
   - id: 73
     kind: body
     source: |-
       as desired.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如所愿。
+    step2: |-
+      如所愿。
   - id: 74
     kind: body
     source: |-
       Note that substituting $\bot$ for $A$ in Löb’s theorem, we derive that $\PA \vdash \neg\, \Prov(\ulcorner \bot\urcorner )$ implies $\PA \vdash \bot$, which is just the contraposition of Gödel’s second incompleteness theorem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意在 Löb 定理中以 $\bot$ 代 $A$，我们导出：$\PA \vdash \neg\, \Prov(\ulcorner \bot\urcorner )$ 蕴涵 $\PA \vdash \bot$——这正是哥德尔第二不完备性定理的逆否。
+    step2: |-
+      注意在 Löb 定理中以 $\bot$ 代 $A$，我们导出：$\PA \vdash \neg\, \Prov(\ulcorner \bot\urcorner )$ 蕴涵 $\PA \vdash \bot$——这正是哥德尔第二不完备性定理的逆否。
   - id: 75
     kind: body
     source: |-
       ### 4.2 Arithmetical completeness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 算术完全性
+    step2: |-
+      ### 4.2 算术完全性
   - id: 76
     kind: body
     source: |-
       The landmark result in provability logic is R. Solovay’s arithmetical completeness theorem of 1976, showing that GL is indeed adequate for Peano Arithmetic:
 
       $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可证性逻辑的里程碑式结果是 R. Solovay 1976 年的算术完全性定理：它表明 GL 对皮亚诺算术确实足够：
+      
+      $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
+    step2: |-
+      可证性逻辑的里程碑式结果是 R. Solovay 1976 年的算术完全性定理：它表明 GL 对皮亚诺算术确实足够：
+      
+      $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
   - id: 77
     kind: body
     source: |-
       This theorem says essentially that the modal logic GL captures everything that Peano Arithmetic can truthfully say in modal terms about its own provability predicate. The direction from left to right, arithmetical soundness of GL, is discussed above. Solovay set out to prove the other, much more difficult, direction by contraposition. His proof is based on intricate self-referential techniques, and only a small glimpse can be given here.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一定理的要旨是：模态逻辑 GL 捕捉了皮亚诺算术能以模态术语就其自身可证性谓词真实说出的一切。从左到右的方向——GL 的算术可靠性——已在上文讨论。Solovay 以逆否的方式着手证明另一个难艰巨得多的方向。他的证明基于精巧的自指技术，这里只能窥豹一斑。
+    step2: |-
+      这一定理的要旨是：模态逻辑 GL 捕捉了皮亚诺算术能以模态术语就其自身可证性谓词真实说出的一切。从左到右的方向——GL 的算术可靠性——已在上文讨论。Solovay 以逆否的方式着手证明另一个难艰巨得多的方向。他的证明基于精巧的自指技术，这里只能窥豹一斑。
   - id: 78
     kind: body
     source: |-
       The modal completeness theorem by Segerberg was an important first step in Solovay’s proof of arithmetical completeness of GL with respect to Peano Arithmetic. Suppose that GL does not prove the modal formula $A$. Then, by modal completeness, there is a finite transitive irreflexive tree such that $A$ is false at the root of that tree. Now Solovay devised an ingenious way to simulate such a finite tree in the language of Peano Arithmetic. Thus he found a realization $f$ from modal formulas to sentences of arithmetic, such that Peano Arithmetic does not prove $f(A)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Segerberg 的模态完全性定理是 Solovay 证明 GL 相对于皮亚诺算术之算术完全性的重要第一步。假设 GL 不证明模态公式 $A$。那么由模态完全性，存在一棵有穷传递非自反树，使 $A$ 在该树的根处为假。Solovay 设计了一种精巧的方式，在皮亚诺算术的语言中模拟这样一棵有穷树。于是他找到一个从模态公式到算术句子的实现 $f$，使得皮亚诺算术不证明 $f(A)$。
+    step2: |-
+      Segerberg 的模态完全性定理是 Solovay 证明 GL 相对于皮亚诺算术之算术完全性的重要第一步。假设 GL 不证明模态公式 $A$。那么由模态完全性，存在一棵有穷传递非自反树，使 $A$ 在该树的根处为假。Solovay 设计精巧的方式，在皮亚诺算术的语言中模拟这样一棵有穷树。于是他找到一个从模态公式到算术句子的实现 $f$，使得皮亚诺算术不证明 $f(A)$。
   - id: 79
     kind: body
     source: |-
       Solovay’s completeness theorem provides an alternative way to construct many arithmetical sentences that are not provable in Peano Arithmetic. For example, it is easy to make a possible worlds model to show that GL does not prove $\Box p \vee \Box\neg\, p$, so by Solovay’s theorem, there is an arithmetical sentence $f(p)$ such that Peano Arithmetic does not prove $\Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$. In particular, this implies that neither $f(p)$ nor $\neg\, f(p)$ is provable in Peano Arithmetic; for suppose on the contrary that $\PA \vdash f(p)$, then by Löb’s first condition and propositional logic, $\PA \vdash \Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$, leading to a contradiction, and similarly if one supposes that $\PA \vdash \neg\, f(p)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Solovay 的完全性定理提供一种构造许多皮亚诺算术不可证算术句子的替代方式。例如，容易构造一个可能世界模型表明 GL 不证明 $\Box p \vee \Box\neg\, p$；于是由 Solovay 定理，存在算术句子 $f(p)$ 使得皮亚诺算术不证明 $\Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$。特别地，这意味着 $f(p)$ 与 $\neg\, f(p)$ 在皮亚诺算术中都不可证：因为假设相反情形 $\PA \vdash f(p)$，则由 Löb 第一条件与命题逻辑得 $\PA \vdash \Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$，导致矛盾；假设 $\PA \vdash \neg\, f(p)$ 时同理。
+    step2: |-
+      Solovay 的完全性定理提供一种构造许多皮亚诺算术不可证算术句子的替代方式。例如，容易构造可能世界模型表明 GL 不证明 $\Box p \vee \Box\neg\, p$；于是由 Solovay 定理，存在算术句子 $f(p)$ 使得皮亚诺算术不证明 $\Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$。特别地，这意味着 $f(p)$ 与 $\neg\, f(p)$ 在皮亚诺算术中都不可证：假设相反情形 $\PA \vdash f(p)$，则由 Löb 第一条件与命题逻辑得 $\PA \vdash \Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$，导致矛盾；假设 $\PA \vdash \neg\, f(p)$ 时同理。
   - id: 80
     kind: body
     source: |-
       Solovay’s theorem is so significant because it shows that an interesting fragment of an undecidable formal theory like Peano Arithmetic—namely that which arithmetic can express in propositional terms about its own provability predicate—can be studied by means of a decidable modal logic, GL, with a perspicuous possible worlds semantics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Solovay 定理意义重大，因为它表明：一个不可判定形式理论（如皮亚诺算术）的有趣片段——即算术能以命题术语就其自身可证性谓词表达的那部分——可以借由一个有清晰可能世界语义的可判定模态逻辑 GL 来研究。
+    step2: |-
+      Solovay 定理意义重大，因为它表明：一个不可判定形式理论（如皮亚诺算术）的有趣片段——即算术能以命题术语就其自身可证性谓词表达的那部分——可以借由一个有清晰可能世界语义的可判定模态逻辑 GL 来研究。
   - id: 81
     kind: body
     source: |-
       ## 5. The scope of provability logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 可证性逻辑的范围
+    step2: |-
+      ## 5 可证性逻辑的范围
   - id: 82
     kind: body
     source: |-
       In this section, some trends in research on provability logic are discussed. One important strand concerns the limits on the scope of GL, where the main question is, for which formal theories, other than Peano Arithmetic, is GL the appropriate propositional provability logic? Next, we discuss some generalizations of propositional provability logic in more expressive modal languages.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节讨论可证性逻辑研究的一些趋势。一条重要线索关乎 GL 的范围界限：除皮亚诺算术外，GL 对哪些形式理论是合适的命题可证性逻辑？接下来我们讨论命题可证性逻辑在更有表达力的模态语言中的若干推广。
+    step2: |-
+      本节讨论可证性逻辑研究的一些趋势。一条重要线索关乎 GL 的范围界限：除皮亚诺算术外，GL 对哪些形式理论是合适的命题可证性逻辑？接下来我们讨论命题可证性逻辑在更有表达力的模态语言中的若干推广。
   - id: 83
     kind: body
     source: |-
       ### 5.1 Boundaries
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 边界
+    step2: |-
+      ### 5.1 边界
   - id: 84
     kind: body
     source: |-
       Since the late 1980s, logicians have investigated many other systems of arithmetic that are weaker than Peano Arithmetic. Often these logicians took their inspiration from computability issues, for example the study of functions computable in polynomial time. They have given a partial answer to the question: “For which theories of arithmetic does Solovay’s arithmetical completeness theorem (with respect to the appropriate provability predicate) still hold?” To discuss this question, two concepts are needed. $\Delta_0$-formulas are arithmetical formulas in which all quantifiers are bounded by a term, for example
 
       $$ \forall y \le \bs\bs 0 \: \forall z \le y \: \forall x \le y + z \: (x + y \le (y+(y+z))), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 1980 年代末以来，逻辑学家研究了弱于皮亚诺算术的许多其他算术系统。这些逻辑学家常从可计算性问题获取灵感，例如多项式时间可计算函数的研究。他们对如下问题给出部分回答：“对哪些算术理论，Solovay 的算术完全性定理（相对于合适的可证性谓词）仍然成立？”为讨论这一问题，需要两个概念。$\Delta_0$-公式是所有量词都由一个项限定的算术公式，例如
+    step2: |-
+      自 1980 年代末以来，逻辑学家研究弱于皮亚诺算术的许多其他算术系统。这些逻辑学家常从可计算性问题获取灵感，例如多项式时间可计算函数的研究。他们对如下问题给出部分回答：“对哪些算术理论，Solovay 的算术完全性定理（相对于合适的可证性谓词）仍然成立？”为讨论这一问题，需要两个概念。$\Delta_0$-公式是所有量词都由一个项限定的算术公式，例如
   - id: 85
     kind: body
     source: |-
       where $\bs$ is the successor operator (“$+1$”). The arithmetical theory $I \Delta_0$ (where I stands for “induction”), is similar to Peano Arithmetic, except that it allows less induction: the induction scheme
 
       $$ A(0) \wedge \forall x\, (A(x) \rightarrow A(\bs x)) \rightarrow \forall x \, A(x) $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $\bs$ 是后继算子（“$+1$”）。算术理论 $I \Delta_0$（I 代表“归纳”）与皮亚诺算术类似，只是它允许较少的归纳：归纳模式
+    step2: |-
+      其中 $\bs$ 是后继算子（“$+1$”）。算术理论 $I \Delta_0$（I 代表“归纳”）与皮亚诺算术类似，只是它允许较少的归纳：归纳模式
   - id: 86
     kind: body
     source: |-
       is restricted to $\Delta_0$-formulas $A$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      限定于 $\Delta_0$-公式 $A$。
+    step2: |-
+      限定于 $\Delta_0$-公式 $A$。
   - id: 87
     kind: body
     source: |-
       As De Jongh and others (1991) pointed out, arithmetical completeness certainly holds for theories $T$ that satisfy the following two conditions:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如 De Jongh 等人（1991）指出的，对满足以下两个条件的理论 $T$，算术完全性肯定成立：
+    step2: |-
+      如 De Jongh 等人（1991）指出的，对满足以下两个条件的理论 $T$，算术完全性肯定成立：
   - id: 88
     kind: body
     source: |-
       1. $T$ proves induction for $\Delta_0$-formulas, and $T$ proves EXP, the formula expressing that for all $x$, its power $2^x$ exists. In more standard notation: $T$ extends $I \Delta_0$+EXP;
       2. $T$ does not prove any false sentences of the form $\exists x\, A(x)$, with $A(x)$ a $\Delta_0$-formula.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $T$ proves induction for $\Delta_0$-formulas, and $T$ proves EXP, the formula expressing that for all $x$, its power $2^x$ exists. In more standard notation: $T$ extends $I \Delta_0$+EXP;
+      2. $T$ does not prove any false sentences of the form $\exists x\, A(x)$, with $A(x)$ a $\Delta_0$-formula.
+    step2: |-
+      1. $T$ proves induction for $\Delta_0$-formulas, and $T$ proves EXP, the formula expressing that for all $x$, its power $2^x$ exists. In more standard notation: $T$ extends $I \Delta_0$+EXP;
+      2. $T$ does not prove any false sentences of the form $\exists x\, A(x)$, with $A(x)$ a $\Delta_0$-formula.
   - id: 89
     kind: body
     source: |-
       For such theories, arithmetical soundness and completeness of GL hold, provided that $\Box$ translates to $\Prov_T$, a natural provability predicate with respect to a sufficiently simple axiomatization of $T$. Thus for modal sentences $A$:
 
       $$ \GL \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对这类理论，GL 的算术可靠性与完全性成立——只要 $\Box$ 翻译为 $\Prov_T$，即相对于 $T$ 的一个足够简单公理化的自然可证性谓词。于是对模态句子 $A$：
+    step2: |-
+      对这类理论，GL 的算术可靠性与完全性成立——只要 $\Box$ 翻译为 $\Prov_T$，即相对于 $T$ 的一个足够简单公理化的自然可证性谓词。于是对模态句子 $A$：
   - id: 90
     kind: body
     source: |-
       It is not clear yet whether Condition 1 gives a lower bound on the scope of provability logic. For example, it is still an open question whether GL is the provability logic of $I \Delta_0+\Omega_1$, a theory which is somewhat weaker than $I \Delta_0$+EXP in that $\Omega_1$ is the axiom asserting that for all $x$, its power $x^{\log(x)}$ exists. Provability logic GL is arithmetically sound with respect to $I \Delta_0+\Omega_1$, but except for some partial results by Berarducci and Verbrugge (1993), providing arithmetic realizations consistent with $I \Delta_0+\Omega_1$ for a restricted class of sentences consistent with GL, the question remains open. Its answer may hinge on open problems in computational complexity theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      It is not clear yet whether Condition 1 gives a lower bound on the scope of provability logic. For example, it is still an open question whether GL is the provability logic of $I \Delta_0+\Omega_1$, a theory which is somewhat weaker than $I \Delta_0$+EXP in that $\Omega_1$ is the axiom asserting that for all $x$, its power $x^{\log(x)}$ exists. Provability logic GL is arithmetically sound with respect to $I \Delta_0+\Omega_1$, but except for some partial results by Berarducci and Verbrugge (1993), providing arithmetic realizations consistent with $I \Delta_0+\Omega_1$ for a restricted class of sentences consistent with GL, the question remains open. Its answer may hinge on open problems in computational complexity theory.
+    step2: |-
+      It is not clear yet whether Condition 1 gives a lower bound on the scope of provability logic. For example, it is still an open question whether GL is the provability logic of $I \Delta_0+\Omega_1$, a theory which is somewhat weaker than $I \Delta_0$+EXP in that $\Omega_1$ is the axiom asserting that for all $x$, its power $x^{\log(x)}$ exists. Provability logic GL is arithmetically sound with respect to $I \Delta_0+\Omega_1$, but except for some partial results by Berarducci and Verbrugge (1993), providing arithmetic realizations consistent with $I \Delta_0+\Omega_1$ for a restricted class of sentences consistent with GL, the question remains open. Its answer may hinge on open problems in computational complexity theory.
   - id: 91
     kind: body
     source: |-
       The above result by De Jongh et al. shows a strong feature of provability logic: for many different arithmetical theories, GL captures exactly what those theories say about their own provability predicates. At the same time this is a weakness. For example, propositional provability logic does not point to any differences between those theories that are finitely axiomatizable and those that are not.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尚不清楚条件 1 是否给出可证性逻辑范围的下界。例如，GL 是否是 $I \Delta_0+\Omega_1$ 的可证性逻辑仍是未决问题——该理论在某种意义上弱于 $I \Delta_0$+EXP：$\Omega_1$ 是断言对一切 $x$ 其幂 $x^{\log(x)}$ 存在的公理。可证性逻辑 GL 相对于 $I \Delta_0+\Omega_1$ 算术可靠，但除 Berarducci 与 Verbrugge（1993）的部分结果——为与 GL 一致的受限句子类提供与 $I \Delta_0+\Omega_1$ 一致的算术实现——之外，问题仍未决。其答案可能系于计算复杂性理论的未决问题。
+    step2: |-
+      尚不清楚条件 1 是否给出可证性逻辑范围的下界。例如，GL 是否是 $I \Delta_0+\Omega_1$ 的可证性逻辑仍是未决问题——该理论在某种意义上弱于 $I \Delta_0$+EXP：$\Omega_1$ 是断言对一切 $x$ 其幂 $x^{\log(x)}$ 存在的公理。可证性逻辑 GL 相对于 $I \Delta_0+\Omega_1$ 算术可靠，但除 Berarducci 与 Verbrugge（1993）的部分结果——为与 GL 一致的受限句子类提供与 $I \Delta_0+\Omega_1$ 一致的算术实现——之外，问题仍未决。其答案可能系于计算复杂性理论的未决问题。
   - id: 92
     kind: body
     source: |-
       ### 5.2 Interpretability logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      De Jongh 等人的上述结果展示了可证性逻辑的一个强特征：对许多不同的算术理论，GL 恰好捕捉这些理论就其自身可证性谓词所说的一切。与此同时这也是一个弱点。例如，命题可证性逻辑无法区分哪些理论可有限公理化、哪些不能。
+    step2: |-
+      De Jongh 等人的上述结果展示可证性逻辑的一个强特征：对许多不同的算术理论，GL 恰好捕捉这些理论就其自身可证性谓词所说的一切。与此同时这也是一个弱点。例如，命题可证性逻辑无法区分哪些理论可有限公理化、哪些不能。
   - id: 93
     kind: body
     source: |-
       In order to be able to speak in a modal language about important distinctions between theories, researchers have extended provability logic in many different ways. Let us mention a few. One extension is to add a binary modality $\interprets$, where for a given arithmetical theory $T$, the modal sentence $A \interprets B$ is meant to stand for “$T+B$ is interpretable in $T+A$” (Švejdar, 1983). De Jongh and Veltman (1990) investigated modal semantics for several interpretability logics, while De Jongh and Visser (1991) proved the explicit fixed-point property for the most important ones. Visser characterized the interpretability logic of the most common finitely axiomatized theories, and Berarducci and Shavrukov independently characterized the one for PA, which is not finitely axiomatizable. It appears that indeed, the interpretability logic of finitely axiomatizable theories is different from the interpretability logic of Peano Arithmetic (see Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000)[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 可解释性逻辑
+    step2: |-
+      ### 5.2 可解释性逻辑
   - id: 94
     kind: body
     source: |-
       ### 5.3 Propositional quantifiers
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充了可证性逻辑。略举几例。一种扩充是添加二元模态词 $\interprets$：对给定算术理论 $T$，模态句子 $A \interprets B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察了若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明了其中最重要几个的显式不动点性质。Visser 刻画了最常见的可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画了 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990]。
+    step2: |-
+      为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充可证性逻辑。略举几例。一种扩充是添加二元模态词 $\interprets$：对给定算术理论 $T$，模态句子 $A \interprets B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明其中最重要几个的显式不动点性质。Visser 刻画最常见可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990]。
   - id: 95
     kind: body
     source: |-
       Another way to extend the framework of propositional provability logic is to add propositional quantifiers, so that one can express principles like Goldfarb’s:
 
       $$ \forall p \,\forall q \,\exists r \: \Box((\Box p \vee \Box q) \leftrightarrow \Box r), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 命题量词
+    step2: |-
+      ### 5.3 命题量词
   - id: 96
     kind: body
     source: |-
       saying that for any two sentences there is a third sentence which is provable if and only if either of the first two sentences is provable. This principle is provable in Peano Arithmetic (see e.g. Artemov and Beklemishev 1993)[^artemov-1993]. The set of sentences of GL with propositional quantifiers that is arithmetically valid turns out to be undecidable (Shavrukov 1997)[^shavrukov-1997].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      扩充命题可证性逻辑框架的另一种方式是添加命题量词，从而能表达诸如 Goldfarb 原理之类的东西：
+    step2: |-
+      扩充命题可证性逻辑框架的另一种方式是添加命题量词，从而能表达诸如 Goldfarb 原理之类的东西：
   - id: 97
     kind: body
     source: |-
       ### 5.4 Japaridze’s bimodal and polymodal provability logics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.4 Japaridze’s bimodal and polymodal provability logics
+    step2: |-
+      ### 5.4 Japaridze’s bimodal and polymodal provability logics
   - id: 98
     kind: body
     source: |-
       Japaridze’s (1988) bimodal logic GLB has two $\Box$-like provability operators, denoted by $[0]$ and $[1]$, with their dual $\Diamond$-like operators $\langle 0\rangle$ and $\langle 1\rangle$, respectively. In Japaridze’s interpretation, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic. On the other hand, $[1]$ corresponds to a stronger provability predicate, namely $\omega$-*provabilty*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它说的是：对任意两个句子，存在第三个句子，其可证当且仅当前两个句子之一可证。这一原理在皮亚诺算术中可证（见例如 Artemov and Beklemishev 1993）[^artemov-1993]。带命题量词的 GL 句子中算术有效的那个集合，结果是不可判定的（Shavrukov 1997）[^shavrukov-1997]。
+    step2: |-
+      它说的是：对任意两个句子，存在第三个句子，其可证当且仅当前两句之一可证。这一原理在皮亚诺算术中可证（见例如 Artemov and Beklemishev 1993）[^artemov-1993]。带命题量词的 GL 句子中算术有效的那个集合，结果不可判定（Shavrukov 1997）[^shavrukov-1997]。
   - id: 99
     kind: body
     source: |-
       Let us define the concepts that are needed to understand this intended interpretation of GLB. An arithmetical theory $T$ is defined to be $\omega$-*consistent* if and only if for all formulas A with free variable $x$, $T\vdash \neg\, A(I_n)$ for all $n$ implies that $T \not\vdash \exists x \, A(x)$; here, $I_n$ is the numeral of $n$, i.e., the term $\bs\bs\ldots\bs 0$ with $n$ occurrences of the successor operator $\bs$. Peano Arithmetic (PA) is the most well-known example of an $\omega$-consistent theory (see also Gödel’s incompleteness theorems). Now let PA$^+$ be the arithmetical theory whose axioms are those of PA together with all sentences $\forall x \, \neg \, A(x)$ such that for every $n$, PA$\vdash \neg \, A(I_n)$. Now $\omega$-provability is simply provability in PA$^+$, so it is the dual of $\omega$-consistency.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.4 Japaridze 的双模与多模可证性逻辑
+    step2: |-
+      ### 5.4 Japaridze 的双模与多模可证性逻辑
   - id: 100
     kind: body
     source: |-
       Japaridze’s bimodal provability logic GLB can be axiomatized by the axioms and rules of GL (see Section 2), formulated separately for [0] and [1]. In addition, GLB has two mixed axioms, namely: $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ Japaridze’s logic is decidable and has a reasonable Kripke semantics, and it is arithmetically sound and complete with respect to Peano Arithmetic (Japaridze 1988, Boolos 1993)[^boolos-1993][^japaridze-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Japaridze（1988）的双模逻辑 GLB 有两个类 $\Box$ 的可证性算子，记作 $[0]$ 与 $[1]$，其对偶的类 $\Diamond$ 算子分别为 $\langle 0\rangle$ 与 $\langle 1\rangle$。在 Japaridze 的解释中，可以把 $[0]$ 看作皮亚诺算术中的标准可证性谓词；另一方面，$[1]$ 对应一个更强的可证性谓词，即 $\omega$-*可证性*。
+    step2: |-
+      Japaridze（1988）的双模逻辑 GLB 有两个类 $\Box$ 的可证性算子，记作 $[0]$ 与 $[1]$，其对偶的类 $\Diamond$ 算子分别为 $\langle 0\rangle$ 与 $\langle 1\rangle$。在 Japaridze 的解释中，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词；而 $[1]$ 对应一个更强的可证性谓词，即 $\omega$-*可证性*。
   - id: 101
     kind: body
     source: |-
       A polymodal analogue of Japaridze’s GLB, named GLP, has received a lot of attention in recent years. GLP has infinitely many $\Box$-like provability operators, denoted by boxes $[n]$ for every natural number $n$, with their dual $\Diamond$-like operators $\langle n\rangle$. Again, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic, $\langle 1\rangle$ for $\omega$-provability, etcetera. GLP has been axiomatized by starting from the axioms and rules of GL (see Section 2), formulated separately for each $[n]$. In addition, GLP has three mixed axiom schemes, namely, as formulated by Beklemishev (2010): $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们定义理解 GLB 这一意向解释所需的概念。算术理论 $T$ 定义为 $\omega$-*一致的*，当且仅当对所有带自由变元 $x$ 的公式 A：若 $T\vdash \neg\, A(I_n)$ 对所有 $n$ 成立，则 $T \not\vdash \exists x \, A(x)$；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。皮亚诺算术（PA）是 $\omega$-一致理论最著名的例子（另见哥德尔不完备性定理）。现在令 PA$^+$ 为这样的算术理论：其公理是 PA 的公理，加上所有形如 $\forall x \, \neg \, A(x)$ 的句子——只要对每个 $n$ 都有 PA$\vdash \neg \, A(I_n)$。于是 $\omega$-可证性就是在 PA$^+$ 中的可证性：它是 $\omega$-一致性的对偶。
+    step2: |-
+      让我们定义理解 GLB 这一意向解释所需的概念。算术理论 $T$ 定义为 $\omega$-*一致的*，当且仅当对所有带自由变元 $x$ 的公式 A：若 $T\vdash \neg\, A(I_n)$ 对所有 $n$ 成立，则 $T \not\vdash \exists x \, A(x)$；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。皮亚诺算术（PA）是 $\omega$-一致理论最著名的例子（另见哥德尔不完备性定理）。现在令 PA$^+$ 为这样的算术理论：其公理是 PA 的公理，加上所有形如 $\forall x \, \neg \, A(x)$ 的句子——只要对每个 $n$ 都有 PA$\vdash \neg \, A(I_n)$。于是 $\omega$-可证性就是在 PA$^+$ 中的可证性：它是 $\omega$-一致性的对偶。
   - id: 102
     kind: body
     source: |-
       GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
+    step2: |-
+      GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
   - id: 103
     kind: body
     source: |-
       Over the last three decades, a number of results have been proved about the polymodal logic GLP of strong provability predicates. Here follow some particularly fruitful topics:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Japaridze 的逻辑可判定、有合理的 Kripke 语义，并且相对于皮亚诺算术算术可靠且完全（Japaridze 1988, Boolos 1993）[^boolos-1993][^japaridze-1988]。
+    step2: |-
+      Japaridze 的逻辑可判定、有合理的 Kripke 语义，并且相对于皮亚诺算术算术可靠且完全（Japaridze 1988, Boolos 1993）[^boolos-1993][^japaridze-1988]。
   - id: 104
     kind: body
     source: |-
@@ -872,14 +952,18 @@ segments:
       - Neighbourhood semantics for GLP (Shamkanov 2020)[^shamkanov-2020][^shamkanov-2020-2];
       - Interpolation theorems for GLP (see Beklemishev 2010b, Shamkanov 2011)[^shamkanov-2011][^beklemishev-2010b];
       - The relationship between topological semantics and set theory, among others particular large cardinal axioms and stationary reflection (see Beklemishev 2011b; Beklemishev and Gabelaia 2013, 2014; Fernández-Duque 2014; Aguilera and Fernández-Duque 2017)[^beklemishev-2011b][^beklemishev-2013][^fernández-duque-2014][^aguilera-2017][^fernández-duque-2014-2].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\Diamond$ 算子为 $\langle n\rangle$。同样，可以把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的：
+    step2: |-
+      Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\Diamond$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的：
   - id: 105
     kind: body
     source: |-
       ### 5.5 Predicate provability logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段是多项式时间可判定的（Pakhomov 2014）[^pakhomov-2014]。
+    step2: |-
+      GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段多项式时间可判定（Pakhomov 2014）[^pakhomov-2014]。
   - id: 106
     kind: body
     source: |-
