@@ -181,7 +181,7 @@ $$\tag{4} \text{Augmented tabular representation} \\ \begin{array}{ccc} \text{So
 
 把困难一般化：并非每个相似性都抬升结论的概率，也并非每个差异都压低它。有些相似与差异已知（或被接受为）毫不相干，理应对我们的概率判断毫无影响。规则（5）要可行，就得补上关于 **相关性** 的考量——而那取决于各个类比论证特有的题材、历史语境与逻辑细节。为类比推理寻觅一条简单规则，看来是徒劳的。
 
-Carnap 及其追随者（Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006）[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006]曾用 Carnap 式 $\lambda \gamma$ 规则为归纳逻辑制定类比原则。总体上，这批工作处理的是“基于相似性的类比”，而非此处讨论的类推推理。Romeijn（2006）认为Carnap 的类比概念与类比预测之间有关系：他的进路是 Carnap 式归纳规则与贝叶斯模型的混合体。要处理 §2.1 那几类论证，这种进路还需推广。Carnap 式进路能否给出类比推理的一般规则，仍不清楚。
+Carnap 及其追随者（Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006）[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006]曾用 Carnap 式 $\lambda \gamma$ 规则为归纳逻辑制定类比原则。总体上，这批工作处理的是“基于相似性的类比”，而非此处讨论的类推推理。Romeijn（2006）认为 Carnap 的类比概念与类比预测之间有关系：他的进路是 Carnap 式归纳规则与贝叶斯模型的混合体。要处理 §2.1 那几类论证，这种进路还需推广。Carnap 式进路能否给出类比推理的一般规则，仍不清楚。
 
 Norton（2010，及 2018——见其他网络资源）论证：以一条或几条简单形式图式将归纳推理形式化的方案注定失败。这类批评放到类推推理上，显得格外贴切。他写道：
 
