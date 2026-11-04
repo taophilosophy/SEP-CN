@@ -575,86 +575,122 @@ segments:
       > Everything that is cannot come to be except from another cause.
       >
       > Therefore, whatever is has a sufficient reason. (Crusius 1743: §XI [2019: 207])[^crusius-1743]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 凡不从一个其他原因就不能生成的东西，都有一个充足理由。
+      >
+      > 凡存在的东西都不能不从另一个原因而生成。
+      >
+      > 所以，凡存在的东西都有一个充足理由。（Crusius 1743: §XI [2019: 207]）[^crusius-1743]
+    step2: |-
+      > 凡不是从某个其他原因就无法生成的东西，都有一个充足理由。
+      >
+      > 凡存在的东西，都只能从另一个原因生成。
+      >
+      > 所以，凡存在的东西都有一个充足理由。（Crusius 1743: §XI [2019: 207]）[^crusius-1743]
   - id: 72
     kind: body
     source: |-
       As Crusius notes, however, the minor in this case is just a version of the principle of sufficient reason itself, so that as a proof of that principle this argument begs the question.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，正如克鲁修斯指出的，这里的中小前提只是充足理由原则本身的一个版本，因此作为对该原则的证明，这一论证是在回避问题。
+    step2: |-
+      然而克鲁修斯指出：这个论证的小前提，其实只是充足理由原则本身的又一个版本；所以，拿它来证明这条原则，实属丐题。
   - id: 73
     kind: body
     source: |-
       More positively, Crusius endorses the principle of determining reason but denies that it admits of unlimited use, which he claims, echoing Lange, would entail fatalism. Rather, Crusius excludes what he terms “free first [or *fundamental*] actions” from the scope of the principle. These actions proceed directly from the basic powers of the acting substance under appropriate circumstances (Crusius 1745: §82)[^crusius-1745], but are such that they can be undertaken or omitted by the acting subject (that is, they are not *determined*) (Crusius 1743: §XXV)[^crusius-1743]. That such actions are possible, Crusius claims, is clear given that God’s action would be of this sort, but also given the testimony of our own inner experience, which discloses the acts of our own will to be just such actions (Crusius 1743: §IX)[^crusius-1743]. Crusius thus accepts that the principle of determining reason holds for all events that are *not* the result of a free first action, whereas free first actions no doubt have a cause but are not such that could not have occurred otherwise (or not at all).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更积极地说，克鲁修斯支持决定理由原则，但否认它容许无限制的使用；他说——回应着朗格——无限制的使用会蕴含宿命论。毋宁说，克鲁修斯把他所谓的“自由的第一行动［或*首要*行动］”排除在该原则的适用范围之外。这些行动在适当的情况下直接出自行动着实体的基本能力（Crusius 1745: §82）[^crusius-1745]，但其性质是行动主体可以为之或不为（也就是说，它们不是*被决定的*）（Crusius 1743: §XXV）[^crusius-1743]。克鲁修斯主张，这类行动之可能是明显的：上帝的行动就属于此类，而且我们自己内部经验的见证也表明，我们意志的种种行为恰是这样的行动（Crusius 1743: §IX）[^crusius-1743]。因此，克鲁修斯接受：决定理由原则对一切*不是*自由第一行动之结果的事件成立；而自由的第一行动固然有其原因，却不是那种不可能以别的方式发生（或根本不发生）的事件。
+    step2: |-
+      往积极处说，克鲁修斯支持决定理由原则，却否认它可以无限制地使用——无限制地用，就会像朗格说的那样滑向宿命论。毋宁说，克鲁修斯把他所说的“自由的第一行动［或*首要*行动］”划出了这条原则的适用范围。这类行动在适当的境况下直接出自行动着实体的基本能力（Crusius 1745: §82）[^crusius-1745]，但行动主体可做可不做——也就是说，它们不是*被决定的*（Crusius 1743: §XXV）[^crusius-1743]。这类行动何以可能？克鲁修斯说，再明白不过：上帝的行动就属于此类；而且我们自己内在经验的见证也表明，我们意志的种种行为恰恰就是这样的行动（Crusius 1743: §IX）[^crusius-1743]。于是克鲁修斯接受：凡*不是*自由第一行动之结果的事件，决定理由原则一概适用；而自由的第一行动固然也有原因，却不是那种不可能换一种方式发生（或干脆不发生）的事件。
   - id: 74
     kind: body
     source: |-
       Along with his efforts to secure a place for genuine freedom of the will in his metaphysics, Crusius also emphasizes the limits of the human understanding. Crusius claims that the acts of the understanding are governed by principles, including a formal principle (the principle of contradiction), but also and importantly a number of “material” principles that govern what is thinkable for the human mind (where what is unthinkable is not for that reason contradictory). Among these principles are the *principle of inseparability*, according to which that which cannot be separated in thought cannot be separated in fact, and the *priniciple of incombinability*, according to which that which cannot be combined in thought cannot in fact be combined (Crusius 1743: §XXVII; 1745: §15)[^crusius-1743]. Significantly, and drawing on Thomasius (via Hoffmann 1737)[^hoffmann-1737], Crusius contends that these principles which together constitute the “essence of the understanding” supply us with a criterion of truth, which consists in the agreement of thoughts with things, such that only that can be true which conforms to the principles of human understanding (Crusius 1745: §15; 1747: §51)[^crusius-1745]. These material principles are subsequently used by Crusius to vindicate a variety of substantive metaphysical claims, including one he dubs the principle of sufficient *cause* (Crusius 1745: §31)[^crusius-1745]. (For discussion of many of these points, see Chapman 2023.)[^chapman-2023] On this basis, Crusius erects his own distinctive metaphysics, proceeding through the now-established Wolffian topics, though Crusius assigns natural theology a place more befitting its importance and ignores empirical psychology because it takes up spontaneous and free acts of the mind and so does not concern *necessary* truths of reason, the only proper subject of metaphysics (but see Heßbrüggen-Walter 2021 on the role of experience in Crusius’ metaphysics)[^heßbrüggen-walter-2021].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在为意志的真正自由在其形而上学中争得一席之地的同时，克鲁修斯还强调人类知性的界限。克鲁修斯主张，知性的活动受原理支配：包括一条形式原理（矛盾原则），但同样重要的还有若干支配人类心灵可思者的“质料”原理（不可思者并不因此就是矛盾的）。这些原理中有*不可分离原则*——在思想中不可分离者，在事实中亦不可分离——以及*不可组合原则*——在思想中不可组合者，在事实中亦不可组合（Crusius 1743: §XXVII; 1745: §15）[^crusius-1743]。值得注意的是，克鲁修斯取资于托马修斯（经由 Hoffmann 1737）[^hoffmann-1737]，主张这些原理——合起来构成“知性的本质”——为我们提供了一条真理判准：真理在于思想与事物的符合，因而唯有符合人类知性诸原理的东西才能为真（Crusius 1745: §15; 1747: §51）[^crusius-1745]。克鲁修斯随后用这些质料原理来辩护各种实质性的形而上学主张，其中包括他所称的充足*原因*原则（Crusius 1745: §31）[^crusius-1745]。（关于其中许多论点的讨论，见 Chapman 2023。）[^chapman-2023]在此基础上，克鲁修斯立起其独具特色的形而上学，循着如今已成定制的沃尔夫式论题推进；不过克鲁修斯给自然神学安排了更合其重要性的位置，并搁置经验心理学——因为它处理心灵的自发而自由的活动，从而不涉及*必然的*理性真理，而后者才是形而上学的正当主题（关于经验在克鲁修斯形而上学中的角色，另见 Heßbrüggen-Walter 2021）[^heßbrüggen-walter-2021]。
+    step2: |-
+      一边为意志的真正自由在形而上学里争地盘，一边克鲁修斯还强调人类知性的界限。他主张，知性的活动受原理支配：其中一条是形式原理（矛盾原则），但同样要紧的，是若干支配人类心灵可思范围的“质料”原理（不可思的东西并不因此就自相矛盾）。这些原理之中，有*不可分离原则*——思想上分不开的，事实中也分不开；有*不可组合原则*——思想上拼不起来的，事实上也拼不起来（Crusius 1743: §XXVII; 1745: §15）[^crusius-1743]。值得留意的是，克鲁修斯上承托马修斯（经 Hoffmann 1737）[^hoffmann-1737]，主张这些原理——合起来即“知性的本质”——供给我们一条真理判准：真，在于思想与事物相符合；因而唯有合于人类知性诸原理的东西才能为真（Crusius 1745: §15; 1747: §51）[^crusius-1745]。随后，克鲁修斯拿这些质料原理去撑起一桩桩实质的形而上学主张，其中就有他命名为充足*原因*原则的那一条（Crusius 1745: §31）[^crusius-1745]。（对其中许多论点的讨论，见 Chapman 2023。）[^chapman-2023]在此基础上，克鲁修斯立起了自己独具一格的形而上学，循着如今已成定制的那套沃尔夫式论题推进；不同的是：他给自然神学安排了一个更配得上其分量的位置，却把经验心理学搁置一旁——因为它处理的是心灵自发而自由的活动，不涉及*必然的*理性真理，而后者才是形而上学的正当论题（经验在克鲁修斯形而上学中的角色，另见 Heßbrüggen-Walter 2021）[^heßbrüggen-walter-2021]。
   - id: 75
     kind: body
     source: |-
       Crusius’ attack on Wolffianism continues in his logic and his thoughts on moral philosophy. In a clear rebuke of Wolff, Crusius begins his logic by rigidly distinguishing between the methods of mathematics and philosophy, contending that where the former makes use of demonstrations that rely solely on the principle of contradiction (and relate to mere possibilities or hypothetical realities), the latter must take into account other principles when, for instance, the investigation of causes are at issue (Crusius 1747: §10)[^crusius-1747]. Commensurate with this, Crusius’ considerations of the traditional topics of logic—concepts, propositions, and inferences—is thoroughly informed by his account of the essence of the understanding: a philosophical inference, as opposed to a mathematical syllogism, can have as its basis what permits of being separated or combined in thought (Crusius 1747: §262)[^crusius-1747]. Crusius also considers the relation between philosophy and theology or revealed religion, contending for the utility of philosophy for students of theology but also arguing that religion provides a needed corrective to the misuse of philosophy which, when left to its own devices, tends to lay claim to the unrestricted use of its principles (such as PSR) whereas the appropriate restrictions are typically evident to the theologian (Crusius 1747: §32)[^crusius-1747].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克鲁修斯对沃尔夫主义的攻击延续到其逻辑学与道德哲学思考中。作为对沃尔夫的明确申斥，克鲁修斯在其逻辑学开篇便严格区分数学方法与哲学方法：前者运用的证明仅依赖矛盾原则（且只涉及单纯的可能性或假设的实在），而后者——例如在考察原因时——必须顾及其他原理（Crusius 1747: §10）[^crusius-1747]。与此相应，克鲁修斯对逻辑学传统主题——概念、命题、推理——的考察，完全贯透着他关于知性本质的说明：哲学推理有别于数学三段论，它可以以思想中容许分离或组合的东西为根据（Crusius 1747: §262）[^crusius-1747]。克鲁修斯还考察了哲学与神学或启示宗教的关系：他既力陈哲学对神学学生的用处，又论证宗教为哲学的滥用提供了必要的矫正——哲学若放任自流，往往要求对其原理（如充足理由原则）的无限制使用，而恰当的限制通常对神学家来说是显明的（Crusius 1747: §32）[^crusius-1747]。
+    step2: |-
+      克鲁修斯对沃尔夫主义的攻击，延续到了他的逻辑学和道德哲学思考里。他给自己的逻辑学开篇就是对沃尔夫的明确申斥：严格划清数学方法与哲学方法的界限——数学的证明只靠矛盾原则（且只关乎单纯可能性或假设的实在），哲学却必须顾及其他原理，比如考察原因的时候（Crusius 1747: §10）[^crusius-1747]。与此相应，他处理逻辑学传统主题——概念、命题、推理——时，处处贯透着他那套知性本质的说明：哲学推理不同于数学三段论，凡思想上容许分离或组合的东西，都可以作它的根据（Crusius 1747: §262）[^crusius-1747]。他还考察了哲学同神学或启示宗教的关系：一面力陈哲学对神学学生的用处，一面又论证宗教能给哲学的滥用一剂必要的解药——哲学一旦放任自流，就往往要求其原理（如充足理由原则）的无限制使用，而恰当的限制，在神学家眼里通常一望即知（Crusius 1747: §32）[^crusius-1747]。
   - id: 76
     kind: body
     source: |-
       Crusius’ ethics is characterized by the principled separation of the will from the understanding as distinct powers, and a re-orientation of his moral theory with respect to the former. The human will depends on the understanding to supply it with ideas in accordance with which it acts, but Crusius is clear that the will is not solely determined to its action through some cognition (i.e., of perfection) in the act itself; rather, the goodness of an action consists more generally in its being conformable to the will (Crusius 1745: §26; Schneewind 1998: 447)[^crusius-1745][^schneewind-1998], and in any case the human will is always free to act or to omit to act in accordance with the understanding’s ideas. The human will is possessed of three basic desires—the first is for our own perfection, in accordance with which the talents of the intellect among others are promoted (Crusius 1745: §117)[^crusius-1745]; for unification with objects perceived as perfect, from which proceeds a drive to moral love through which we desire to join with other rational beings without any further end (Crusius 1745: §125)[^crusius-1745]; and finally, the desire to recognize a divine law which, despite its abstract-sounding name, is identified by Crusius with the phenomenon of conscience (*Gewissenstrieb*). It is through conscience that we are able to recognize the divinely given moral law (Crusius 1745: §132)[^crusius-1745], and conscience thereby also discloses our dependence on God as divine lawgiver (Crusius 1745: §165)[^crusius-1745]. As such, conscience supplies us with a motivation to obedience where, according to Crusius, this obedience constitutes an essential component (the “form”) of virtue (Crusius 1745: §177)[^crusius-1745]. A derivation of our duties thus depends on a consideration of God and His aim in creating the world, which Crusius identifies as *all* human beings’ attainment of virtue, as opposed to knowledge or happiness in its own right, through their free actions (Crusius 1745: §213)[^crusius-1745]. On this basis, he proceeds to derive duties to God, to others, and to the self (for discussion, see Schneewind 1998: 452–6)[^schneewind-1998].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克鲁修斯伦理学的特点在于把意志与知性作为不同官能原则性地分离开来，并使其道德理论重新以意志为定向。人的意志依赖知性为其提供观念，意志依之行动；但克鲁修斯明确指出，意志的行动并不单单通过行动本身中的某种认识（即对完善的认识）而被决定；毋宁说，一个行动的善更一般地在于它合于意志（Crusius 1745: §26; Schneewind 1998: 447）[^crusius-1745][^schneewind-1998]，而且无论如何，人的意志总是自由地可以依照知性的观念而行动或搁置行动。人的意志拥有三种基本欲望：其一为自身的完善——智性的诸般才华等依此得到促进（Crusius 1745: §117）[^crusius-1745]；其二为与被知觉为完善的对象的合一——由此生出道德爱的驱力，我们借之渴望与其他理性存在者结合而无任何进一步的目的（Crusius 1745: §125）[^crusius-1745]；其三，是认出一条神圣法则的欲望——尽管其名字听起来抽象，克鲁修斯却把它等同于良知现象（*Gewissenstrieb*）。正是通过良知，我们才能认出神圣赋予的道德法则（Crusius 1745: §132）[^crusius-1745]；良知由此也揭示出我们对作为神圣立法者的上帝的依赖（Crusius 1745: §165）[^crusius-1745]。如此，良知为我们提供服从的动机；在克鲁修斯看来，这种服从构成德性的一个本质成分（“形式”）（Crusius 1745: §177）[^crusius-1745]。我们的义务的推导，因而取决于对上帝及其创造世界之目的的考量；克鲁修斯把这一目的认定为*一切*人经由其自由行动而达成德性——而非以自身为目的的知识或幸福（Crusius 1745: §213）[^crusius-1745]。在此基础之上，他进而推导出对上帝的义务、对他人的义务与对自己的义务（相关讨论见 Schneewind 1998: 452–6）[^schneewind-1998]。
+    step2: |-
+      克鲁修斯伦理学的标志，是把意志同知性作为两种不同的官能原则性地分离开，并让道德理论重新围绕意志来定盘。人的意志要靠知性供给观念才有所依凭而行动；但克鲁修斯说得明白：意志的行动并不是单单被行动本身里的某种认识（即对完善的认识）决定的；毋宁说，一个行动的善，更一般地系于它合乎意志（Crusius 1745: §26; Schneewind 1998: 447）[^crusius-1745][^schneewind-1998]。而且无论如何，人总可以依照知性的观念自由行动、或搁置不动。人的意志怀有三种基本欲望：其一，求自身的完善——智性才华等种种禀赋由此得到滋养（Crusius 1745: §117）[^crusius-1745]；其二，求与被知觉为完善的对象合一——由此生出道德爱这一驱力，我们凭它渴望同其他理性存在者结合，别无进一步的目的（Crusius 1745: §125）[^crusius-1745]；其三，是认出一条神圣法则的欲望——这名头听着抽象，克鲁修斯却把它直接等同于良知现象（*Gewissenstrieb*）。正是借着良知，我们才认得出神圣赋予的道德法则（Crusius 1745: §132）[^crusius-1745]；良知由此也揭示出：我们依赖于上帝这位神圣立法者（Crusius 1745: §165）[^crusius-1745]。如此一来，良知便给我们提供了服从的动机；而在克鲁修斯看来，这种服从正是德性的一个本质成分（其“形式”）（Crusius 1745: §177）[^crusius-1745]。既然如此，推导我们的义务，就得先考量上帝及其创造世界的目的；克鲁修斯把这个目的认定为：*一切*人经由自由行动而达成德性——而不是知识或幸福本身（Crusius 1745: §213）[^crusius-1745]。以此为据，他进而推出对上帝的义务、对他人的义务、对自己的义务（相关讨论见 Schneewind 1998: 452–6）[^schneewind-1998]。
   - id: 77
     kind: body
     source: |-
       ## 6. Women and Other Under-Represented Thinkers
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 女性与其他代表性不足的思想家
+    step2: |-
+      ## 6 女性与其他代表性不足的思想家
   - id: 78
     kind: body
     source: |-
       *(Note: Treatment of these figures has not been integrated into the foregoing solely for the convenience of those interested primarily in their contributions.)*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *（按：对这些人物的论述之所以未编入前文，仅仅是为了便于那些主要关心其贡献的读者。）*
+    step2: |-
+      *（按：对这些人物的论述之所以未编入前文，只为方便那些主要关心其贡献的读者。）*
   - id: 79
     kind: body
     source: |-
       A variety of circumstances—religious, political, and social—conspired to give women limited opportunities to engage in and with the contemporary intellectual culture, even compared to their French- and English-speaking contemporaries. The German-speaking lands of Europe lacked a major cosmopolitan centre, like London or Paris, to germinate progressive ideas and to propagate those developed abroad. Moreover, the fact that, in spite of Thomasius’ and Wolff’s efforts, German intellectuals continued to publish (and teach) in Latin through the first half of the eighteenth century, meant that women’s avenues of access to these ideas remained limited. There were a handful of notable attempts by reformers (including Francke) to redress the general oversight of girls’ education, but by and large their education was a private matter and in any case guided by the traditional conception of women’s threefold *Bestimmung* as *Gattin*, *Mutter*, and *Hausfrau* (wife, mother, and housewife).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      各种境况——宗教的、政治的与社会的——合谋使女性接触并参与当时思想文化的机会有限，甚至与讲法语和英语的同代人相比也是如此。欧洲的德语地区缺少一个像伦敦或巴黎那样的大都会中心，来孕育进步观念、传播在国外发展起来的观念。此外，尽管有托马修斯与沃尔夫的努力，德国知识人整个 18 世纪上半叶仍用拉丁语出版（和授课），这意味着女性接触这些观念的途径仍然有限。改革者（包括弗兰克）曾有过少数值得注意的尝试，以矫正对女童教育的普遍忽视；但大体而言，她们的教育是私人事务，且无论如何都受着关于女性三重*天职*（*Bestimmung*）——*Gattin*（妻子）、*Mutter*（母亲）、*Hausfrau*（主妇）——的传统观念的引导。
+    step2: |-
+      宗教的、政治的、社会的种种境况合在一起，把女性接触并参与当时思想文化的机会压得很低——跟讲法语、英语的同代人比也是如此。欧洲的德语地区缺一个伦敦或巴黎那样的大都会中心：既没能孕育本土的进步观念，也难以传播国外发展起来的观念。更何况，尽管有托马修斯与沃尔夫的努力，德国知识人整个 18 世纪上半叶还在用拉丁语出版（和授课）；女性通向这些观念的路，自然依旧窄狭。改革者（弗兰克也在内）确实有过几次引人注目的尝试，想纠正对女童教育的普遍忽视；但大体上，她们的教育仍属私人事务，而且无论如何都受着那套传统观念的指引：女性的三重*天职*（*Bestimmung*）——*Gattin*（妻子）、*Mutter*（母亲）、*Hausfrau*（主妇）。
   - id: 80
     kind: body
     source: |-
       Despite these substantial obstacles, however, women did engage with the figures and debates of the time, and indeed they contributed in various and integral ways to the history of German philosophy throughout the eighteenth century. Similar to the British and French contexts, women in Germany exerted an important influence on intellectual culture directly through the publication of conventional treatises, but also indirectly through their correspondence with well-known philosophers, through provoking and mediating intellectual disputes, and (particularly in the second half of the eighteenth century) through hosting salons that attracted leading philosophers and scientists, among others (on all this, see the contributions in Dyck 2021b)[^dyck-2021b]. And, likewise comparable to the British and French contexts (cf. O’Neill 1997)[^o’neill-1997], these contributions have been widely overlooked in subsequent histories of German philosophy, both for familiar reasons having to do both with the narrowness of the conception of the philosophical canon (Shapiro 2016)[^shapiro-2016], but also due to the concerted efforts among nineteenth-century German philosophers to erase women’s contributions from the historical record (Ebbersmeyer 2020)[^ebbersmeyer-2020].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管有这些巨大的障碍，女性确实参与了当时的人物与辩论，而且事实上在整个 18 世纪，她们以多种多样的、不可或缺的方式为德国哲学史作出了贡献。与不列颠和法国的情形类似，德国女性对思想文化施加了重要影响：直接通过出版常规论著，也间接通过与知名哲学家的通信、通过挑起与斡旋思想论争、以及（尤其在 18 世纪下半叶）通过主持吸引一流哲学家与科学家等的沙龙（凡此种种，见 Dyck 2021b 中的各篇论文）[^dyck-2021b]。同样与不列颠和法国的情形相仿（cf. O’Neill 1997）[^o’neill-1997]，这些贡献在此后的德国哲学史中被普遍忽视：既有人们熟知的缘由——哲学正典观念的狭隘（Shapiro 2016）[^shapiro-2016]——也由于 19 世纪德国哲学家合力把女性的贡献从历史记录中抹去的努力（Ebbersmeyer 2020）[^ebbersmeyer-2020]。
+    step2: |-
+      障碍虽重，女性却实实在在地参与了那个时代的人物与辩论；放眼整个 18 世纪，她们以多种多样、不可或缺的方式为德国哲学史作出了贡献。同不列颠与法国的情形相仿：德国女性对思想文化的影响，既直接——出版正经的论著；也间接——同知名哲学家通信、挑起并斡旋思想论争，还有（尤其在 18 世纪下半叶）主持沙龙，把一流哲学家与科学家都招到席上（凡此种种，见 Dyck 2021b 所收各文）[^dyck-2021b]。同样同不列颠与法国相仿的是（cf. O’Neill 1997）[^o’neill-1997]：这些贡献在此后的德国哲学史里遭到了普遍的漠视——原因既有大家都熟的那一条：哲学正典的观念太窄（Shapiro 2016）[^shapiro-2016]；还有一条：19 世纪的德国哲学家们同心协力，把女性的贡献从历史记录里抹了个干净（Ebbersmeyer 2020）[^ebbersmeyer-2020]。
   - id: 81
     kind: body
     source: |-
       ### 6.1 Women and the Thomasian Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 女性与托马修斯派哲学
+    step2: |-
+      ### 6.1 女性与托马修斯派哲学
   - id: 82
     kind: body
     source: |-
       Women played crucial roles in the conception, refinement, and popularization of the key ideas and systems of the German Enlightenment, as can be seen by considering their contributions to and connections with the two major early philosophical schools of the period already discussed: the Leibnizian-Wolffian and the Thomasian(-Pietist). With respect to Thomasius, it should be noted that he makes quite clear himself that his intention in publishing his works in logic and ethics in the vernacular was to reach a wider audience, including women. Thus, the subtitle of his *Introduction to the Doctrine of Reason* indicates that it will show
-    step1: TBD
-    step2: TBD
+    step1: |-
+      女性在德国启蒙的关键观念与体系的构想、打磨与普及中扮演了关键角色；这一点，只要考察她们对上文已讨论的该时期两大早期哲学流派——莱布尼茨—沃尔夫学派与托马修斯（—虔敬派）学派——的贡献与联系，便可看到。就托马修斯而言，应当指出，他自己说得很清楚：他用本国语言出版其逻辑学与伦理学著作，用意在于触达更广的受众，包括女性。因此，其《理性学说导论》的副标题表明，本书将展示
+    step2: |-
+      在德国启蒙那些关键观念与体系的构想、打磨与普及中，女性都扮演着要角。看一看她们同上文已论及的该时期两大早期哲学流派——莱布尼茨—沃尔夫学派、托马修斯（—虔敬派）学派——的贡献与往来，这一点便一目了然。单说托马修斯：他自己讲得明明白白，用本国语言出版逻辑学与伦理学著作，就是为了让更广的受众读到——女性也在内。所以，《理性学说导论》的副标题写明，此书要向
   - id: 83
     kind: body
     source: |-
       > in an intelligible manner [how] to distinguish the true, probable, and false from one another and to discover new truths, all without syllogistics, for all reasonable people of whatever estate or gender they might be.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 以明白易懂的方式，为一切有理性的人——无论其身份或性别如何——［指明］如何相互区分真、概然与假，并发现新的真理，而无需三段论技艺。
+    step2: |-
+      > 一切有理性的人，无论身份贵贱、性别如何，都能借它以明白易懂的方式［学会］把真、概然、假区分开来，还能发现新的真理——而全程不必动用三段论技艺。
   - id: 84
     kind: body
     source: |-
       Among those women impacted by Thomasius’ logic is Dorothea Christiane Erxleben (*née* Leporin, 1715–62), who would later receive the first doctorate of medicine in Germany from the Friedrichs-Universität in Halle in 1753. In 1742 she published a treatise entitled *Gründliche Untersuchung der Ursachen, die das weibliche Geschlecht vom Studiren abhalten* (*Rigorous Investigation of the Causes that Obstruct the Female Sex from Study*). While Erxleben there draws on a variety of sources, including Wolffian thought (cf. Stiening 2020)[^stiening-2020], she makes good use of two aspects of Thomasius’ logic, namely, his practically-oriented account of *learnedness*, and the doctrine of prejudice presented in the concluding chapter (cf. Dyck 2021c)[^dyck-2021c]. So, in the *Rigorous Investigation*, Erxleben defines learnedness (“*Gelehrsamkeit*”) as
-    step1: TBD
-    step2: TBD
+    step1: |-
+      受托马修斯逻辑学影响的女性之中，有多罗特娅·克里斯蒂安妮·埃克斯莱本（Dorothea Christiane Erxleben，娘家姓莱波林，1715–62）；她后来于 1753 年在哈勒弗里德里希大学获得德国第一个医学博士学位。1742 年，她出版了一部题为《对阻碍女性性别求学的诸原因的缜密考察》（*Gründliche Untersuchung der Ursachen, die das weibliche Geschlecht vom Studiren abhalten*，*Rigorous Investigation of the Causes that Obstruct the Female Sex from Study*）的论著。埃克斯莱本在其中取资于多种来源，包括沃尔夫派思想（cf. Stiening 2020）[^stiening-2020]，但她也很好地利用了托马修斯逻辑学的两个方面，即他面向实践的*学识*说明，以及卷末一章呈述的偏见学说（cf. Dyck 2021c）[^dyck-2021c]。于是，在《缜密考察》中，埃克斯莱本把学识（“*Gelehrsamkeit*”）定义为
+    step2: |-
+      受托马修斯逻辑学影响的女性里，有一位多罗特娅·克里斯蒂安妮·埃克斯莱本（Dorothea Christiane Erxleben，娘家姓莱波林，1715–62）——她后来于 1753 年在哈勒弗里德里希大学拿下了德国第一个医学博士学位。1742 年，她出版了《对阻碍女性性别求学的诸原因的缜密考察》（*Gründliche Untersuchung der Ursachen, die das weibliche Geschlecht vom Studiren abhalten*，*Rigorous Investigation of the Causes that Obstruct the Female Sex from Study*）。书里她取资极广，沃尔夫派思想也在其中（cf. Stiening 2020）[^stiening-2020]；但托马修斯逻辑学的两面，她用得尤其顺手：一是他那套面向实践的*学识*之说，二是卷末一章的偏见学说（cf. Dyck 2021c）[^dyck-2021c]。于是，在《缜密考察》里，埃克斯莱本给学识（“*Gelehrsamkeit*”）下的定义是
   - id: 85
     kind: body
     source: |-
