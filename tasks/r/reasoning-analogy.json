@@ -2,7 +2,7 @@
   "slug": "reasoning-analogy",
   "kind": "retranslate",
   "zh_doc": "r/reasoning-analogy.md",
-  "state": "s1_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -31,6 +31,27 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-04T18:12:47Z",
       "evidence": "s1 一校（MTPE 顺序，账本为对照底）：①幻觉/漏译/增译——278 段数字多集合逐段比对：3 处差异全为合法换算（段13 May→5 月、段72 19ᵗʰ→十九世纪、段166 3.5 billion→35 亿）；脚注键对源全验：源 91 引用/75 唯一/156 定义，译文无漏无多，81 条无正文引用系源文现制（与 richard-sophister 同）；②术语漂移——check_terms 硬错误 0，登记名落地（Hesse 叙述处全改赫西+首现全形、Hofstadter/van Fraassen/Harrod 同），引用组人名保持英文（Hempel/Pólya 过度登记已删）；③成稿曾遭并发覆盖（人名丢失），以账本为准重 compose 恢复并经 HEAD 核验 18 命中"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T19:09:08Z",
+      "evidence": "s2 二校（Fluency/Style）：check_prose 56→34——修复 22 条（de-chain 重排×10、长句拆分×7、被动改写×3、弱动词×3，含 seg13 达尔文引文拆句、seg73 被动、seg50/57 被接受→获接受/已接受、seg110 作出的两种之分、seg248 作出的分析→给出的分析）；余 34 条逐条裁定豁免并留痕：de-chain 30 条全系三类非行文冗余（A.加粗术语并列「概率性的/模态性的/保守的/进步的/动态的/纲领性的」的-串×14；B.译文中引语内部×8——Norton/穆勒/赫西引文保真优先；C.数学-拉丁交错句×4——$跨段计数稀释窗口；D.术语引号「可观察的/前理论的/瞬态的」×4）；long-sentence 3 条均译文引语（保真）；passive-bei 1 条引语内。step1 忠实底同步部分修复。脱稿通读两遍"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T19:09:09Z",
+      "evidence": "s3 三校：check_style --strict 0；check_academic --docs --strict 0 硬错误；check_math 0 missing/unbalanced；check_summary 0（H1=SUMMARY 全形）；markdownlint 28 条 MD060 全系图 1 表格 aligned 式 vs 源紧凑式（源文即紧凑，kokugaku 收口件同态，属 lint 默认规则与源形态冲突的存量类，随体例归一轮裁量）；check_terms 硬错误 0、缺译法告警 2（van Fraassen/Hofstadter 首现全形核——check 按原文全串匹配，正文已用汉名+括注，误报留痕）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T19:09:09Z",
+      "evidence": "r1 初审（对照源自审，初译 actor）：278 段抽查回核+结构完整性验收（导语+5 编号节+4 小节+7 子节+参考文献+学术工具+OIR 2 小节+相关词条 13 项，无脚注节——源无注）；16 编号块（例/公式/G1-G8/(RO)/(LIV)/(11)）与 LO 外数学块逐字符核对（(4)(6)(7)(8)(9)(12) LaTeX 逐字符保留）；图片路径 ../yuanwen/assets/ 模板 #9 裁定形；发现 0 问题。r2 独立 agent 复核进行中，r3 终审前冷置"
     }
   ],
   "blockers": [],
