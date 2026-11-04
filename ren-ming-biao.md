@@ -785,6 +785,9 @@
 | Giordano Bruno | 乔尔丹诺·布鲁诺 | 18thGerman-preKant | 学界千年通行译名 | 2026-11-05 |
 
 | Ernst Christoph Graf von Manteuffel | 恩斯特·克里斯托夫·冯·曼托伊费尔伯爵 | 18thGerman-preKant | 学界通行汉译（萨克森贵族，沃尔夫派护法人）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Martin Knutzen | 马丁·克努岑 | kant-science | 学界通行汉译（康德早年师承，哥尼斯堡逻辑学与形而上学教授） | 2026-11-05 |
+| Georg Ernst Stahl | 格奥尔格·恩斯特·施塔尔 | kant-science | 化学史通行汉译（燃素说提出者；与 locke-on-medicine 登记的 Peter Stahl「彼得·施塔尔」为不同人，键以全名区分） | 2026-11-05 |
+| Antoine-Laurent Lavoisier | 安托万-洛朗·拉瓦锡 | kant-science | 化学史通行汉译（化学革命） | 2026-11-05 |
 
 ## 待裁定
 

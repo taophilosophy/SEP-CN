@@ -2,7 +2,7 @@
   "slug": "buddhism-chan",
   "kind": "retranslate",
   "zh_doc": "b/buddhism-chan.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:15:58Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T20:45:43Z",
+      "evidence": "全量重译组装：13928 汉字 7 节标题对齐，26 条脚注定义保留，汉梵术语对照（公案/佛性/真如/法界四句）照源保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T20:45:44Z",
+      "evidence": "逐节对照源钉（pubinfo Mar 2 2019/Fall 2023）：段落 76:72（4 处相邻段合并、内容零缺失），内联脚注标记零缺失零多余，相关词条 4 项按 SUMMARY 定名；威利撇号 gongʼan、pinyin ʼ 统一"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T20:45:44Z",
+      "evidence": "check_prose 114→85：实修 29（长句拆分 16/weak 4/passive 3/as-one 1/斜体CJK 5/curly 2/leftover 8），余 85 豁免留痕：58 de-chain 学术论定语，27 long 为 70-84 区间引文密集中文哲理论证句——三轮拆分后余量，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T20:45:47Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 85 豁免留痕见 s2；人名 26 条登记（马祖道一/惠能/菩提达摩/临济义玄/玄奘/鸠摩罗什/法藏/智顗/龙树/月称等佛门师承谱系）"
     }
   ],
   "blockers": [],
