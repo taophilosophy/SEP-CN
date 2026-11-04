@@ -101,3 +101,10 @@
 * **可疑模式扫描**：形容词「的」尾（合理形态豁免）、人名音译无括注（惯例豁免）、**同键异译分立行**（真问题）——fold 归一（含连字符变体）扫描出 2 组合并：prima facie 初显的（亦作初步的，罗斯初定义务语境通译）、truth conducive 导向真理的；Motoori 重复行去重。
 * **check_terms 工具盲区登记**：自洽检测只查整行重复，同键异译分立（初步的/初显的分立两行）不报——fold 归一检测待下轮工具化。
 * 本轮净新增登记 34 条 + 合并 3 行。深读累计 17 条全 pass。
+
+## 2026-11-04 作者括注体例归一轮（aesthetics-critical-theory 深读发现）
+
+* 发现：SUMMARY/H1 作者括注存在 `姓, 名` 倒装形态 64 处（citation_author 原格式直录，与正装 `名 姓` 体例混用）。
+* 修复：citation_author 溯源重建（名前姓后，多作者 SEP 格式 `A, B, and C`），SUMMARY/mu-lu-s/词条 H1 三链同步 64 条。
+* 抽验：The Ethics of Abortion (Elizabeth Harman)、Implicature (Robert van Rooij and Michael Franke) ✓；剩余逗号形态为三作者分隔（合法豁免）。
+* 双门禁绿。
