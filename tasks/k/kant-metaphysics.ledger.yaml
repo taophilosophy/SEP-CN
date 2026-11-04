@@ -1,180 +1,230 @@
 version: 1
 slug: kant-metaphysics
-params:
-  model: "GLM-5.3-Flash（ZCode 主会话直译）"
-  temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
 segments:
   - id: 1
     kind: body
     source: |-
       *How are synthetic a priori propositions possible*? This question is often times understood to frame the investigations at issue in Kant’s *Critique of Pure Reason*. In answer to it, Kant saw fit to divide the question into three: 1) How are the synthetic *a priori* propositions of mathematics possible? 2) How are the synthetic *a priori* propositions of natural science possible? Finally, 3) How are the synthetic *a priori* propositions of metaphysics possible? In systematic fashion, Kant responds to each of these questions. The answer to question one is broadly found in the Transcendental Aesthetic, and the doctrine of the transcendental ideality of space and time. The answer to question two is found in the Transcendental Analytic, where Kant seeks to demonstrate the essential role played by the categories in grounding the possibility of knowledge and experience. The answer to question three is found in the Transcendental Dialectic, and it is a resoundingly blunt conclusion: the synthetic *a priori* propositions that characterize metaphysics are not really possible at all. Metaphysics, that is, is inherently dialectical. Kant’s *Critique of Pure Reason* is thus as well known for what it rejects as for what it defends. Thus, in the Dialectic, Kant turns his attention to the central disciplines of traditional, rationalist, metaphysics — rational psychology, rational cosmology, and rational theology. Kant aims to reveal the errors that plague each of these fields.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *综合先天命题如何可能*？这一问题通常被认为构成了康德《纯粹理性批判》中的核心研究。作为回答，康德认为应当把问题分为三个：1）数学的综合*先天*命题如何可能？2）自然科学的综合*先天*命题如何可能？最后，3）形而上学的综合*先天*命题如何可能？康德以系统的方式逐一回应。第一个问题的回答大抵见于先验感性论以及空间与时间的先验观念性学说。第二个问题的回答见于先验分析论——康德在那里试图表明范畴在奠基知识与经验之可能性中的本质作用。第三个问题的回答见于先验辩证论，而且是一个干脆响亮的结论：表征形而上学的综合*先天*命题根本不是真正可能的。也就是说，形而上学内在地是辩证的。因此康德的《纯粹理性批判》既以它所拒斥的、也以它所捍卫的而为人所知。于是，在辩证论中，康德把注意力转向传统理性主义形而上学的核心学科——理性心理学、理性宇宙论与理性神学。康德旨在揭示纠缠这些学科的诸种错误。
+    step2: |-
+      *综合先天命题如何可能*？这一问题通常被认为构成康德《纯粹理性批判》中的核心研究。作为回答，康德认为应当把问题分为三个：1）数学的综合*先天*命题如何可能？2）自然科学的综合*先天*命题如何可能？最后，3）形而上学的综合*先天*命题如何可能？康德以系统的方式逐一回应。第一个问题的回答大抵见于先验感性论及空间与时间的先验观念性学说；第二个问题的回答见于先验分析论——康德在那里试图表明范畴在奠基知识与经验之可能性中的本质作用；第三个问题的回答见于先验辩证论——且是一个干脆响亮的结论：表征形而上学的综合*先天*命题根本不是真正可能的。也就是说，形而上学内在地是辩证的。故康德的《纯粹理性批判》既以它所拒斥的、也以它所捍卫的而为人所知。在辩证论中，康德把注意力转向传统理性主义形而上学的核心学科——理性心理学、理性宇宙论与理性神学——旨在揭示纠缠这些学科的诸种错误。
   - id: 2
     kind: body
     source: |-
       ## 1. Preliminary Remarks: The Rejection of Ontology (general metaphysics) and the Transcendental Analytic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 预备评论：对本体论（一般形而上学）的拒斥与先验分析论
+    step2: |-
+      ## 1 预备评论：对本体论（一般形而上学）的拒斥与先验分析论
   - id: 3
     kind: body
     source: |-
       Despite the fact that Kant devotes an entirely new section of the *Critique* to the branches of special metaphysics, his criticisms reiterate some of the claims already defended in both the Transcendental Aesthetic and the Transcendental Analytic. Indeed, two central teachings from these earlier portions of the *Critique* — the transcendental ideality of space and time, and the critical limitation of all application of the concepts of the understanding to “appearances” — already carry with them Kant’s rejection of “ontology (*metaphysica generalis*).” Accordingly, in the Transcendental Analytic Kant argues against any attempt to acquire knowledge of “objects in general” through the formal concepts and principles of the understanding, taken by themselves alone. In this connection, Kant denies that the principles or rules of either general logic (e.g., the principle of contradiction), or those of his own “transcendental logic” (the pure concepts of the understanding) *by themselves* yield knowledge of objects. These claims follow from Kant’s well-known “kind distinction” between the understanding and sensibility, together with the view that knowledge requires the cooperation of both faculties. This position, articulated throughout the Analytic, entails that independently of their application to intuitions, the concepts and principles of the understanding are mere forms of thought which cannot yield knowledge of objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管康德为特殊形而上学的各分支在《批判》中开辟了全新的部分，他的批评却在重申先验感性论与先验分析论中已经得到辩护的某些主张。事实上，来自《批判》这些较早部分的两个核心教导——空间与时间的先验观念性，以及把知性概念的一切应用批判性地限制于“显象”——已经携带了康德对“本体论（*metaphysica generalis*）”的拒斥。相应地，在先验分析论中，康德反对任何试图仅凭知性的形式概念与原理来获得“一般对象”的知识的努力。在此关联中，康德否认一般逻辑的原则或规则（如矛盾律），或他自己的“先验逻辑”的原则或规则（知性的纯粹概念）*凭其自身*产出关于对象的知识。这些主张出自康德著名的知性与感性之间的“种类区分”，以及知识需要两种官能合作的观点。这一立场贯穿整个分析论，蕴涵：独立于其对直观的应用，知性的概念与原理只是思想的单纯形式，不能产出关于对象的知识。
+    step2: |-
+      尽管康德为特殊形而上学的各分支在《批判》中开辟了全新的部分，他的批评却在重申先验感性论与先验分析论中已得到辩护的某些主张。事实上，来自《批判》这些较早部分的两个核心教导——空间与时间的先验观念性、把知性概念的一切应用批判性地限制于“显象”——已经携带了康德对“本体论（*metaphysica generalis*）”的拒斥。相应地，在先验分析论中，康德反对任何试图仅凭知性的形式概念与原理来获得“一般对象”知识的努力。在此关联中，康德否认一般逻辑的原则或规则（如矛盾律），或他自己的“先验逻辑”的原则或规则（知性的纯粹概念）*凭其自身*产出关于对象的知识。这些主张出自康德著名的知性与感性之间的“种类区分”，及知识需要两种官能合作的观点。这一立场贯穿整个分析论，蕴涵：独立于其对直观的应用，知性的概念与原理只是思想的单纯形式，不能产出关于对象的知识。
   - id: 4
     kind: body
     source: |-
       > For if no intuition could be given corresponding to the concept, the concept would still be a thought, so far as its form is concerned, but would be without any object, and no knowledge of anything would be possible by means of it. So far as I could know, there would be nothing, and could be nothing, to which my thought could be applied. B146
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为如果没有与概念相对应的直观能够被给予，那么就其形式而言，概念仍然是一个思想，但会没有任何对象，且凭借它不可能有任何关于某物的知识。就我所能知而言，将没有任何东西、也不可能有任何东西，我的思想可以被应用于其上。B146
+    step2: |-
+      > 因为如果没有与概念相对应的直观能够被给予，那么就其形式而言，概念仍然是一个思想，但会没有任何对象，且凭借它不可能有任何关于某物的知识。就我所能知而言，将没有任何东西、也不可能有任何东西，我的思想可以被应用于其上。B146
   - id: 5
     kind: body
     source: |-
       We thus find one general complaint about efforts to acquire metaphysical knowledge: the use of formal concepts and principles, in abstraction from the sensible conditions under which objects can be given, cannot yield knowledge. Hence, the “transcendental” use of the understanding (its use independently of the conditions of sensibility) is considered by Kant to be dialectical, to involve erroneous applications of concepts in order to acquire knowledge of things independently of sensibility/experience. Throughout the Analytic Kant elaborates on this general view, noting that the transcendental employment of the understanding, which aims towards knowledge of things independently of experience (and thus knowledge of “noumena”), is illicit (cf. A246/B303). It is in this connection that Kant states, famously, in the Analytic, that “…the proud name of ontology, which presumes to offer synthetic *a priori* cognitions of things in general… must give way to the more modest title of a transcendental analytic” (cf. A247/B304). Filling this out, Kant suggests that to take ourselves to have unmediated intellectual access to objects (to have “non-sensible” knowledge) correlates with the assumption that there are non-sensible objects that we can know. To assume this, however, is to conflate “phenomena” (or appearances) with “noumena” (or things in themselves). The failure to draw the distinction between appearances and things in themselves is the hallmark of all those pernicious systems of thought that stand under the title of “transcendental realism.” Kant’s transcendental idealism is the remedy for these.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是我们发现一个关于获取形而上学知识之努力的一般性抱怨：在与对象能够被给予的感性条件相分离的情况下使用形式概念与原理，不能产出知识。因此，知性的“先验”使用（它独立于感性条件的使用）被康德认为是辩证的，涉及为获得独立于感性/经验的事物之知识而对概念的错误应用。贯穿整个分析论，康德展开了这一一般观点，指出知性的先验运用——它以独立于经验的知识（从而“本体”的知识）为目标——是不正当的（参 A246/B303）。正是在这一关联中，康德在分析论中说出那句名言：“……本体论这一骄傲的名称——它妄称提供关于一般事物的综合*先天*知识——必须让位于一个更谦逊的名称：先验分析论”（参 A247/B304）。康德进一步阐述：认为我们对对象拥有无中介的理智通达（拥有“非感性的”知识），与假定存在我们可以认识的非感性对象相关联。然而假定这一点，就是把“现象”（或显象）与“本体”（或物自体）混为一谈。未能划清显象与物自体的区分，是所有冠以“先验实在论”之名的有害思想体系的标志。康德的先验观念论是它们的解毒剂。
+    step2: |-
+      于是我们发现一个关于获取形而上学知识之努力的一般性抱怨：在与对象能够被给予的感性条件相分离的情况下使用形式概念与原理，不能产出知识。因此，知性的“先验”使用（独立于感性条件的使用）被康德认为是辩证的——涉及为获得独立于感性/经验的事物之知识而对概念的错误应用。贯穿整个分析论，康德展开这一一般观点，指出知性的先验运用（以独立于经验的知识、从而“本体”的知识为目标）不正当（参 A246/B303）。正是在这一关联中，康德在分析论中说出那句名言：“……本体论这一骄傲的名称——它妄称提供关于一般事物的综合*先天*知识——必须让位于一个更谦逊的名称：先验分析论”（参 A247/B304）。康德进一步阐述：认为我们对对象拥有无中介的理智通达（拥有“非感性的”知识），与假定存在可认识的非感性对象相关联；然而假定这一点，就是把“现象”（或显象）与“本体”（或物自体）混为一谈——未能划清显象与物自体的区分，是所有冠以“先验实在论”之名的有害思想体系的标志。康德的先验观念论是它们的解毒剂。
   - id: 6
     kind: body
     source: |-
       ## 2. The Rejection of Special Metaphysics and the Transcendental Dialectic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 对特殊形而上学的拒斥与先验辩证论
+    step2: |-
+      ## 2 对特殊形而上学的拒斥与先验辩证论
   - id: 7
     kind: body
     source: |-
       Kant’s rejection of the more specialized branches of metaphysics is grounded in part on this earlier claim, to wit, that any attempt to apply the concepts and principles of the understanding independently of the conditions of sensibility (i.e., any transcendental use of the understanding) is illicit. Thus, one of Kant’s main complaints is that metaphysicians seek to deduce *a priori* synthetic knowledge simply from the unschematized (pure) concepts of the understanding. The effort to acquire metaphysical knowledge through concepts alone, however, is doomed to fail, according to Kant, because (in its simplest formulation) “concepts without intuitions are empty” (A52/B76).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对形而上学更专门分支的拒斥，部分奠基于这一较早的主张：任何独立于感性条件而应用知性概念与原理的尝试（即知性的任何先验使用）都是不正当的。于是，康德的一个主要抱怨是：形而上学家试图仅仅从知性的未图型化（纯粹）概念中演绎出综合*先天*知识。然而，照康德的看法，仅凭概念获取形而上学知识的努力注定失败，因为（以最简表述）“没有直观的概念是空的”（A52/B76）。
+    step2: |-
+      康德对形而上学更专门分支的拒斥，部分奠基于这一较早的主张：任何独立于感性条件而应用知性概念与原理的尝试（即知性的任何先验使用）不正当。于是康德的一个主要抱怨是：形而上学家试图仅从知性的未图型化（纯粹）概念演绎出综合*先天*知识。然而照康德的看法，仅凭概念获取形而上学知识的努力注定失败——因为（以最简表述）“没有直观的概念是空的”（A52/B76）。
   - id: 8
     kind: body
     source: |-
       Although this general charge is certainly a significant part of Kant’s complaint, the story does not stop there. In turning to the specific disciplines of special metaphysics (those concerning the soul, the world, and God), Kant devotes a considerable amount of time discussing the human interests that nevertheless pull us into the thorny questions and controversies that characterize special metaphysics. These interests are of two types, and include theoretical goals of achieving completeness and systematic unity of knowledge, and practical interests in securing the immortality of the soul, freedom, and the existence of God. Despite their contributions to metaphysical illusion, Kant tells us that the goals and interests in question are unavoidable, inevitable, and inherent in the very nature of human reason. In the Introduction to the Transcendental Dialectic Kant thus introduces “reason” as the locus of these metaphysical interests.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管这一一般指控确实是康德抱怨的重要部分，故事并没有到此为止。在转向特殊形而上学的专门学科（涉及灵魂、世界与上帝的学科）时，康德花了相当多的时间讨论那些仍然把我们拉入特殊形而上学特有的棘手问题与论争的人类兴趣。这些兴趣有两类：实现知识的完备性与系统统一的理论目标，以及保障灵魂不朽、自由与上帝存在的实践兴趣。尽管它们对形而上学幻象有贡献，康德告诉我们：所论的目标与兴趣是不可避免的、必然的，且内在于人类理性的本性之中。于是在先验辩证论的导言中，康德引入“理性”作为这些形而上学兴趣的所在。
+    step2: |-
+      尽管这一一般指控确实是康德抱怨的重要部分，故事没有到此为止。在转向特殊形而上学的专门学科（涉及灵魂、世界与上帝）时，康德花相当多时间讨论那些仍把我们拉入特殊形而上学特有的棘手问题与论争的人类兴趣。这些兴趣有两类：实现知识完备性与系统统一的理论目标，及保障灵魂不朽、自由与上帝存在的实践兴趣。尽管它们对形而上学幻象有贡献，康德告诉我们：所论的目标与兴趣是不可避免的、必然的，内在于人类理性的本性。于是在先验辩证论的导言中，康德引入“理性”作为这些形而上学兴趣的所在。
   - id: 9
     kind: body
     source: |-
       ### 2.1 The Theory of Reason and Transcendental Illusion
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 理性的理论与先验幻象
+    step2: |-
+      ### 2.1 理性的理论与先验幻象
   - id: 10
     kind: body
     source: |-
       The emphasis on reason in this connection is important, and it links up with the project of Kant’s “critique” of pure reason. A major component of this critique involves illuminating the basis in reason for our efforts to draw erroneous metaphysical conclusions (to employ concepts “transcendentally”), despite the fact that such use has already been shown (in the Transcendental Analytic) to be illicit. What emerges in the Dialectic is a more complex story, one in which Kant seeks to disclose and critique the “transcendental ground” that leads to the misapplications of thought which characterize specific metaphysical arguments. In developing the position that our metaphysical propensities are grounded in the “very nature of human reason,” Kant (in the Introduction to the Dialectic) relies on a conception of reason as a capacity for syllogistic reasoning. This logical function of reason resides in the formal activity of subsuming propositions under ever more general principles in order to systematize, unify, and “bring to completion” the knowledge given through the real use of the understanding (A306/B363-A308/B365). Kant thus characterizes this activity as one which seeks “conditions” for everything that is conditioned. It is therefore central to this Kantian conception of reason that it is preoccupied with the “unconditioned which would stop the regress of conditions by providing a condition that is not itself conditioned in its turn.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此处对理性的强调很重要，它与康德对纯粹理性的“批判”计划相衔接。这一批判的一个重要部分，涉及阐明我们力图得出错误的形而上学结论（“先验地”使用概念）的理性根据——尽管这种使用已在先验分析论中被表明不正当。辩证论中浮现的是一个更复杂的故事：康德在其中试图披露并批评导致特殊形而上学论证所特有的思想误用的“先验根据”。在发展我们的形而上学倾向奠基于“人类理性的本性”这一立场时，康德（在辩证论的导言中）依赖于理性作为三段论推理能力的构想。理性的这一逻辑功能寓于把命题归摄于越来越一般的原则之下的形式活动，以系统化、统一并“完成”经由知性的实在运用所给予的知识（A306/B363-A308/B365）。康德因此把这一活动刻画为为一切被制约者寻求“条件”的活动。因此，对这一康德的理性构想而言，核心在于：它专注于“不被制约者”——它通过提供一个自身不再被制约的条件来中止条件的回溯。
+    step2: |-
+      此处对理性的强调很重要，它衔接康德对纯粹理性的“批判”计划。这一批判的重要部分，涉及阐明我们力图得出错误的形而上学结论（“先验地”使用概念）的理性根据——尽管这种使用已在先验分析论中被表明不正当。辩证论中浮现一个更复杂的故事：康德试图披露并批评导致特殊形而上学论证所特有的思想误用的“先验根据”。在发展“形而上学倾向奠基于人类理性的本性”这一立场时，康德（辩证论导言中）依赖理性作为三段论推理能力的构想：理性的逻辑功能寓于把命题归摄于越来越一般的原则之下的形式活动，以系统化、统一并“完成”经知性实在运用所给予的知识（A306/B363-A308/B365）。康德因此把这一活动刻画为为一切被制约者寻求“条件”的活动；故对这一康德的理性构想而言，核心在于：它专注于“不被制约者”——通过提供一个自身不再被制约的条件来中止条件的回溯。
   - id: 11
     kind: body
     source: |-
       The demand for the unconditioned is essentially a demand for ultimate explanation, and links up with the rational prescription to secure systematic unity and completeness of knowledge. Reason, in short, is in the business of ultimately accounting for all things. As Kant formulates this interest of reason in the first *Critique*, it is characterized by the logical maxim or precept: “*Find for the conditioned knowledge given through the understanding the unconditioned whereby its unity is brought to completion*” (A308/B364). It is central to Kant’s Dialectic that this requirement for systematic unity and completeness of knowledge is inherent in the very nature of our reason. Controversially, Kant does not take it that this demand for the unconditioned is something we can dismiss, nor does he take the interests we have in metaphysics to be *merely* products of misguided enthusiasm.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对不被制约者的要求本质上是对终极解释的要求，它与确保知识之系统统一与完备性的理性诫命相衔接。简言之，理性就是为一切事物做最终说明的事业。康德在第一《批判》中如此表述理性的这一兴趣：它以逻辑准则为特征——“为经由知性被给予的被制约的知识找到不被制约者，由此其统一被完成”（A308/B364）。对康德的辩证论而言，核心在于：对知识之系统统一与完备性的这一要求内在于我们理性的本性。有争议的是：康德并不认为对不被制约者的要求是我们能够置之不理的东西；他也不认为我们在形而上学中的兴趣*仅仅是*误入歧途的热情的产物。
+    step2: |-
+      对不被制约者的要求本质上是对终极解释的要求，它衔接确保知识之系统统一与完备性的理性诫命。简言之，理性就是为一切事物做最终说明的事业。康德在第一《批判》中如此表述理性的这一兴趣：它以逻辑准则为特征——“为经由知性被给予的被制约的知识找到不被制约者，由此其统一被完成”（A308/B364）。对康德的辩证论而言，核心在于：对知识之系统统一与完备性的要求内在于我们理性的本性。有争议的是：康德并不认为对不被制约者的要求是可置之不理的；也不认为我们在形而上学中的兴趣*仅仅是*误入歧途的热情的产物。
   - id: 12
     kind: body
     source: |-
       Although the demand for the unconditioned is inherent in the very nature of our reason, although it is unavoidable and indispensably necessary, Kant nevertheless does not take it to be without problems of a unique sort; for the very same demand that guides our rational scientific inquiries and defines our (human) reason is also the locus of error that needs to be curbed or prevented. In connection with this principle, then, Kant also identifies reason as the seat of a unique kind of error, one that is essentially linked up with metaphysical propensities, and one which he refers to as “transcendental illusion [*transzendentale Illusion*].” Kant identifies transcendental illusion with the propensity to “take a subjective necessity of a connection of our concepts…for an objective necessity in the determination of things in themselves” (A297/B354). Very generally, Kant’s claim is that it is a peculiar feature of reason that it unavoidably takes its own subjective interests and principles to hold “objectively.” And it is this propensity, this “transcendental illusion,” according to Kant, that paves the way for metaphysics. Reason plays this role by generating principles and interests that incite us to defy the limitations of knowledge already detailed in the Transcendental Analytic. The Introduction to the Transcendental Dialectic is therefore interesting for Kant’s presentation of reason as a presumably distinct capacity for cognizing in a way that, as Kant puts it, incites us to tear down the boundaries already enforced in the Analytic (cf. A296/B352). Kant refers to this capacity of reason as one that leads to the specifically *transcendent* judgments that characterize metaphysics. Thus, the Transcendental Dialectic is said to be concerned “to expose the illusion in transcendent judgments” (A297/B354). Indeed, Dialectic is defined as “the logic of illusion [*Schein]*” (A293/B350).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管对不被制约者的要求内在于我们理性的本性，尽管它不可避免且必不可少，康德却不认为它没有一类独特的问题；因为正是这同一引导我们理性科学探究、规定我们（人类）理性的要求，也是需要被遏制或防止的错误所在。与这一原则相关联，康德还把理性确认为一种独特错误的所在——这种错误本质上与形而上学倾向相联，他称之为“先验幻象［*transzendentale Illusion*］”。康德把先验幻象确认为“把我们概念的联结……的主观必然性当作物自体规定中的客观必然性”的倾向（A297/B354）。非常一般地说，康德的主张是：理性有一个奇特的特征——它不可避免地把自己的主观利益与原则当作“客观地”成立。照康德的看法，正是这一倾向、这一“先验幻象”，为形而上学铺平了道路。理性扮演这一角色的方式是生成原则与兴趣，怂恿我们蔑视先验分析论中已经详细说明的知识界限。因此，先验辩证论的导言之所以有趣，在于康德把理性呈现为一种据推想不同的认知能力，它照康德的说法怂恿我们拆毁分析论中已经划定的边界（参 A296/B352）。康德把理性的这一能力称为导向表征形而上学的特殊*超验*判断的能力。因此，据说先验辩证论关注“暴露超验判断中的幻象”（A297/B354）。事实上，辩证论被定义为“幻象［*Schein*］的逻辑”（A293/B350）。
+    step2: |-
+      尽管对不被制约者的要求内在于我们理性的本性，尽管它不可避免且必不可少，康德却不认为它没有一类独特的问题：正是这同一引导我们理性科学探究、规定我们（人类）理性的要求，也是需要被遏制或防止的错误所在。与这一原则相关联，康德还把理性确认为一种独特错误的所在——这种错误本质上与形而上学倾向相联，他称之为“先验幻象［*transzendentale Illusion*］”：康德把先验幻象确认为“把我们概念的联结……的主观必然性当作物自体规定中的客观必然性”的倾向（A297/B354）。非常一般地说，康德的主张是：理性有一个奇特特征——它不可避免地把自己的主观利益与原则当作“客观地”成立；照康德的看法，正是这一倾向、这一“先验幻象”，为形而上学铺平了道路。理性扮演这一角色的方式是生成原则与兴趣，怂恿我们蔑视先验分析论中已详细说明的知识界限。故先验辩证论的导言之所以有趣，在于康德把理性呈现为一种据推想不同的认知能力——它照康德的说法怂恿我们拆毁分析论中已划定的边界（参 A296/B352）；康德把理性的这一能力称为导向表征形而上学的特殊*超验*判断的能力。故先验辩证论据说关注“暴露超验判断中的幻象”（A297/B354）；事实上，辩证论被定义为“幻象［*Schein*］的逻辑”（A293/B350）。
   - id: 13
     kind: body
     source: |-
       The central problem is that the above *prescription to seek* the unconditioned presents to reason as a metaphysical principle that tells us that the unconditioned is *already given*, and is (as it were) “there” to be found. This problematic principle is formulated by Kant as follows*: “If the conditioned is given, the absolutely unconditioned… is also given”* (A308/B366). This “supreme principle of pure reason” provides the background assumption under which the metaphysician proceeds. These claims set the agenda for Kant’s project, which involves showing not simply that the metaphysical arguments are fallacious, but also exposing their source in reason’s more general illusions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      核心问题是：上述*寻求*不被制约者的诫命，向理性呈现为一个形而上学原则，它告诉我们不被制约者*已经被给予*，并且（可以说）“在那儿”等着被发现。康德把这一有问题的原则表述如下：“如果被制约者被给予，绝对的不被制约者……也就被给予”（A308/B366）。这一“纯粹理性的最高原则”提供了形而上学家赖以进行论证的背景假定。这些主张为康德的计划设定了议程——这一计划不仅涉及表明形而上学论证是谬误的，还涉及暴露其在理性更一般幻象中的源泉。
+    step2: |-
+      核心问题是：上述*寻求*不被制约者的诫命，向理性呈现为一个形而上学原则——它告诉我们不被制约者*已经被给予*，且（可以说）“在那儿”等着被发现。康德把这一有问题的原则表述如下：“如果被制约者被给予，绝对的不被制约者……也就被给予”（A308/B366）。这一“纯粹理性的最高原则”提供了形而上学家赖以论证的背景假定。这些主张为康德的计划设定议程——不仅表明形而上学论证谬误，还暴露其在理性更一般幻象中的源泉。
   - id: 14
     kind: body
     source: |-
       Kant has been traditionally taken to be offering a method of avoiding the insidious “transcendental illusion” that gives rise to metaphysics. Read in this way, Kant’s Dialectic offers a criticism not only of the specific arguments of metaphysics, but also of transcendent, metaphysical (speculative or theoretical) *interests and propensities themselves*. This certainly accords with much in the Dialectic, and specifically with Kant’s well-known claim that knowledge has to be limited to possible experience. Kant, however, complicates things somewhat by also stating repeatedly that the illusion that grounds metaphysics (roughly, that the unconditioned is already given) is unavoidable. Moreover, Kant sometimes suggests that such illusion is somehow necessary for our epistemological projects (cf. A645/B673). In this connection, Kant argues that the transcendent ideas and principles of reason do have a positive role to play in knowledge acquisition, so long as they are construed “regulatively” and not “constitutively.” He thus suggests that rather than jettison the ideas of metaphysical objects (something, it seems, he does not think we are in a position to do), it is best to identify the proper use and function of these ideas and principles. This critical reinterpretation involves the claim that the ideas and principles of reason are to be used “regulatively,” as devices for guiding and grounding our empirical investigations and the project of knowledge acquisition. What the ideas do not do, according to Kant, is provide the concepts through which we might access objects that could be known through the speculative use of reason.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      传统上，人们把康德当作在提供一种避免产生形而上学的阴险“先验幻象”的方法。照这种读法，康德的辩证论不仅批评形而上学的具体论证，还批评超验的、形而上学的（思辨的或理论的）*兴趣与倾向本身*。这当然与辩证论中的许多内容一致，特别与康德著名的知识必须局限于可能经验的主张一致。然而，康德也通过反复陈述奠定形而上学的幻象（大致地说，不被制约者已被给予）是不可避免的，而使事情复杂化。 moreover，康德有时暗示这种幻象以某种方式对我们的认识论计划是必要的（参 A645/B673）。在此关联中，康德论证理性的超验理念与原则在知识获取中确实有积极的角色要扮演——只要它们被“调节地”而非“建构地”解释。于是他建议：与其抛弃形而上学对象的理念（他似乎认为我们处于无能为力的境地），不如辨识这些理念与原则的恰当使用与功能。这一批判性的重新诠释包含如下主张：理性的理念与原则要“调节地”使用，作为引导与奠基我们的经验探究及知识获取计划的装置。照康德的看法，这些理念不做的，是提供我们可以通过理性的思辨使用通达可认识对象的那些概念。
+    step2: |-
+      传统上，人们把康德当作在提供避免产生形而上学的阴险“先验幻象”的方法。照这种读法，康德的辩证论不仅批评形而上学的具体论证，还批评超验的、形而上学的（思辨的或理论的）*兴趣与倾向本身*。这当然与辩证论中的许多内容一致——特别与康德著名的知识必须局限于可能经验的主张一致。然而康德也通过反复陈述奠定形而上学的幻象（大致：不被制约者已被给予）不可避免，而使事情复杂化； moreover 他有时暗示这种幻象以某种方式对我们的认识论计划必要（参 A645/B673）。在此关联中，康德论证：理性的超验理念与原则在知识获取中确实有积极角色——只要它们被“调节地”而非“建构地”解释。于是他建议：与其抛弃形而上学对象的理念（他似乎认为我们无能为力），不如辨识这些理念与原则的恰当使用与功能。这一批判性重新诠释包含如下主张：理性的理念与原则要“调节地”使用——作为引导与奠基经验探究及知识获取计划的装置；照康德的看法，这些理念不做的，是提供我们可以通过理性的思辨使用通达可认识对象的那些概念。
   - id: 15
     kind: body
     source: |-
       The need for this critical reinterpretation stems from the fact that reason’s demand for the unconditioned cannot be met or satisfied. The absolutely “unconditioned,” regardless of the fact that it presents to reason as objective, is not an object or state of affairs that could be captured in any possible human experience. In emphasizing this last point, Kant identifies metaphysics with an effort to acquire knowledge of “objects” conceived, but in no wise given (or giveable) to us in experience. In its efforts to bring knowledge to completion, that is, reason posits certain ideas, the “soul,” the “world” and “God.” Each of these ideas represents reason’s efforts to think the unconditioned in relation to various sets of objects that are experienced by us as conditioned.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一批判性重新诠释的需要源于如下事实：理性对不被制约者的要求无法被满足。绝对的“不被制约者”，不管它向理性呈现为客观的，都不是一个在任何可能的人类经验中可以被捕捉的对象或事态。在强调这最后一点时，康德把形而上学等同于获取“对象”——被构想、却绝未（或绝不可能）在经验中被给予我们——的知识的一种努力。在力求使知识完成的努力中，理性设定某些理念：“灵魂”、“世界”与“上帝”。这些理念的每一个都代表理性努力去思考不被制约者，相对于我们经验为被制约的各类对象。
+    step2: |-
+      这一批判性重新诠释的需要源于：理性对不被制约者的要求无法满足。绝对的“不被制约者”——不管它向理性呈现为客观的——不是任何可能的人类经验中可捕捉的对象或事态。在强调这一点时，康德把形而上学等同于获取“对象”（被构想、却绝未或绝不可能在经验中被给予我们）的知识的一种努力。在力求使知识完成的努力中，理性设定某些理念：“灵魂”“世界”与“上帝”——每一个都代表理性努力思考不被制约者（相对于我们经验为被制约的各类对象）。
   - id: 16
     kind: body
     source: |-
       It is this general theory of reason, as a capacity to think (by means of “ideas”) beyond all standards of sense, and as carrying with it a unique and unavoidable demand for the unconditioned, that frames the Kantian rejection of metaphysics. At the heart of that rejection is the view that although reason is unavoidably motivated to seek the unconditioned, its theoretical efforts to achieve it are inevitably sterile. The ideas which might secure such unconditioned knowledge lack objective reality (refer to no object), and our misguided efforts to acquire ultimate metaphysical knowledge are led astray by the illusion which, according to Kant, “unceasingly mocks and torments us” (A339/B397).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是这一关于理性的一般理论——理性作为一种通过“理念”超越一切感官标准进行思考的能力，携带一个独特且不可避免的对不被制约者的要求——构成了康德对形而上学的拒斥的框架。那一拒斥的核心是如下观点：虽然理性不可避免地被推动去寻求不被制约者，其达成它的理论努力不可避免是徒劳的。可能确保这种不被制约知识的那些理念缺乏客观实在性（不指涉任何对象）；而我们误入歧途的获取终极形而上学知识的努力，被康德所说“不停地嘲弄与折磨我们”的幻象引入歧途（A339/B397）。
+    step2: |-
+      正是这一关于理性的一般理论——理性作为通过“理念”超越一切感官标准进行思考的能力、携带独特且不可避免的对不被制约者的要求——构成康德对形而上学拒斥的框架。拒斥的核心是：虽然理性不可避免地被推动寻求不被制约者，其达成它的理论努力不可避免是徒劳的——可能确保这种不被制约知识的理念缺乏客观实在性（不指涉任何对象），而我们误入歧途的获取终极形而上学知识的努力，被康德所说“不停地嘲弄与折磨我们”的幻象引入歧途（A339/B397）。
   - id: 17
     kind: body
     source: |-
       The Dialectic is concerned to undermine three distinct branches of special metaphysics in the philosophical tradition: Rational Psychology, Rational Cosmology and Rational Theology. Each of these disciplines seeks to acquire knowledge of a particular metaphysical “object” — the “soul,” the “world,” and “God,” respectively. This being stated, the Dialectic proceeds systematically to undermine the arguments specific to each of these disciplines—arguments about, for example, the nature of the soul and the world, and the existence of God. Despite the difference in their objects, however, there are a number of problems shared by all the disciplines of special metaphysics. In its most general terms, the central problem with each of these attempts has to do with the fact that the alleged “objects” under consideration are “transcendent.” Although we think the soul, the world, and God (necessarily) *as* objects, these ideas actually lack objective reality (there is no object corresponding to the ideas that is or could be given to us in any intuition). It is thus not uncommon to find Kant referring to these alleged metaphysical entities as “mere thought entities,” “fictions of the brain,” or “pseudo objects.” Although the Dialectic does not presume to prove that such objects do not or could not exist, Kant is committed by the strictures of his own transcendental epistemology to the claim that the ideas of reason do not provide us with concepts of “knowable” objects. For this reason alone, the efforts of the metaphysicians are presumptuous, and at the very least, an epistemological modesty precludes the knowledge that is sought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      辩证论要削弱的是哲学传统中特殊形而上学的三个不同分支：理性心理学、理性宇宙论与理性神学。这些学科各自寻求获取一个特定形而上学“对象”——分别是“灵魂”、“世界”与“上帝”——的知识。既然这一点已陈述，辩证论系统地削弱这些学科各自的论证——例如关于灵魂与世界之本性、上帝之存在的论证。尽管对象不同，特殊形而上学的所有学科却共享许多问题。用最一般的术语说，这些尝试的核心问题在于：所论的所谓“对象”是“超验的”。虽然我们（必然地）*把*灵魂、世界与上帝思考*为*对象，这些理念实际上缺乏客观实在性（没有对应于这些理念的对象已经或能够在任何直观中被给予我们）。因此不难发现康德把这些所谓的形而上学实体称为“单纯的思想实体”、“大脑的虚构”或“伪对象”。尽管辩证论不冒昧证明这样的对象不存在或不可能存在，康德被他自己的先验认识论的严格约束所承诺：理性的理念不为我们提供“可认识的”对象的概念。仅凭这一理由，形而上学家的努力就是僭越的；至少，认识论上的谦逊排除了所寻求的知识。
+    step2: |-
+      辩证论要削弱的是哲学传统中特殊形而上学的三个不同分支：理性心理学、理性宇宙论与理性神学。各学科寻求获取特定形而上学“对象”（分别是“灵魂”“世界”“上帝”）的知识。既然已陈述，辩证论系统地削弱这些学科各自的论证——例如关于灵魂与世界之本性、上帝之存在的论证。尽管对象不同，特殊形而上学的所有学科共享许多问题；用最一般的术语说，核心问题在于：所论的所谓“对象”是“超验的”。虽然我们（必然地）*把*灵魂、世界与上帝思考*为*对象，这些理念实际缺乏客观实在性（没有对应这些理念的对象已经或能在任何直观中被给予我们）。因此不难发现康德把这些所谓的形而上学实体称为“单纯的思想实体”“大脑的虚构”或“伪对象”。辩证论虽不冒昧证明这样的对象不存在或不可能存在，康德被他自己的先验认识论严格约束承诺：理性的理念不为我们提供“可认识的”对象的概念。仅凭这一理由，形而上学家的努力就是僭越的；至少，认识论上的谦逊排除了所寻求的知识。
   - id: 18
     kind: body
     source: |-
       For more on Kant’s theory of illusion, see Allison (2004), Butts (1997), Grier (2001, forthcoming), Neiman (1994), Theis (1985), Bird (2006). See also Ameriks (2006), Dyck (2014).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于康德幻象理论的更多内容，见 Allison (2004), Butts (1997), Grier (2001, forthcoming), Neiman (1994), Theis (1985), Bird (2006)。另见 Ameriks (2006), Dyck (2014)。
+    step2: |-
+      关于康德幻象理论的更多内容，见 Allison (2004), Butts (1997), Grier (2001, forthcoming), Neiman (1994), Theis (1985), Bird (2006)；另见 Ameriks (2006), Dyck (2014)。
   - id: 19
     kind: body
     source: |-
       ### 2.2 Hypostatization and Subreption
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 实体化与僭越
+    step2: |-
+      ### 2.2 实体化与僭越
   - id: 20
     kind: body
     source: |-
       There are two noteworthy themes implicit in Kant’s criticism of metaphysics. First, Kant offers an account and critique of the ideas of reason specific to each discipline. In relation to this, the general theory of reason plays a role in Kant’s efforts to argue against the “hypostatization” of each of the ideas. More specifically, Kant’s criticism of the metaphysical disciplines centers on his efforts to show that the ideas of reason (the soul, the world and God), which are thought in accordance with the demand for an unconditioned that could unify the relevant domain of conditions, get erroneously “hypostatized” by reason, or thought as mind-independent “objects” about which we might seek knowledge. In the same way, that is, that the prescription to seek the unconditioned appears to reason as an objective principle, so too, the subjective ideas appear to reason as objects existing in a mind-independent way. Kant’s aim is to secure the subjective ideas while enforcing their subjective status, and thereby defusing the metaphysics that attends to them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对形而上学的批评中隐含两个值得注意的主题。第一，康德为每个学科特有的理性理念提供说明与批评。与此相关，理性的一般理论在康德论证反对各理念的“实体化”的努力中扮演角色。更具体地说，康德对形而上学学科的批评，集中于他努力表明：理性理念（灵魂、世界与上帝）——它们是按照统一相关领域之条件的不被制约者的要求被思考的——被理性错误地“实体化”，或被当作独立于心灵的“对象”来思考，而我们也许可以从中寻求知识。同样地，寻求不被制约者的诫命向理性呈现为一个客观原则，主观理念也向理性呈现为以独立于心灵的方式存在的对象。康德的目标是保全主观理念，同时强化其主观地位，从而消解附着于它们的形而上学。
+    step2: |-
+      康德对形而上学的批评中隐含两个值得注意的主题。第一：康德为每个学科特有的理性理念提供说明与批评。与此相关，理性的一般理论在其论证反对各理念“实体化”的努力中扮演角色。更具体地说，康德对形而上学学科的批评集中于他努力表明：理性理念（灵魂、世界与上帝）——按统一相关领域之条件的不被制约者的要求被思考——被理性错误地“实体化”，或被当作独立于心灵的“对象”来思考（我们也许可从中寻求知识）。同样地，寻求不被制约者的诫命向理性呈现为客观原则，主观理念也向理性呈现为独立于心灵地存在的对象。康德的目标是保全主观理念、同时强化其主观地位，从而消解附着于它们的形而上学。
   - id: 21
     kind: body
     source: |-
       Thus, Kant’s criticism of metaphysics simultaneously involves denying the pure use of theoretical reason as an instrument for *knowledge* of transcendent objects, *and* defending reason’s ideas as projections or goals that have some significant role to play in the overall project of knowledge acquisition. As we shall see, Kant unfortunately is not as clear as we might like on this issue. Sometimes, he seems to argue that the ideas and principles of reason play a merely heuristic role in guiding and systematizing the knowledge already obtained. Other times, he suggests that these ideas are deeply essential to the project of knowledge acquisition, and that their presupposition is utterly necessary if we are to acquire knowledge. Regardless of how the matter is to be resolved, it is clear that Kant’s criticism of metaphysics does not entail any straightforward rejection of the ideas and principles of reason. Indeed, it appears to be precisely the rational constraint to move to the ideas of reason that binds us to our metaphysical propensities and which thus demands a critique of the kind offered by Kant.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是，康德对形而上学的批评同时涉及：否认理论理性作为通达超验对象之*知识*的工具的纯粹使用，*以及*捍卫理性的理念作为投影或目标——它们在知识获取的总体计划中有某种重要作用。我们将看到，康德不幸在这一点上不如我们所希望的那样清楚。有时，他似乎论证理性的理念与原则在引导和系统化已获得的知识中只扮演启发式的角色。另一些时候，他暗示这些理念对知识获取的计划深为必要，且若我们要获得知识，对它们的预设绝对必需。无论此事如何解决，清楚的是：康德对形而上学的批评并不蕴涵对理性理念与原则的任何直截了当的拒斥。事实上，似乎恰恰是走向理性理念的理性约束把我们绑在形而上学倾向上，因此要求康德所提供的那类批判。
+    step2: |-
+      于是康德对形而上学的批评同时涉及：否认理论理性作为通达超验对象之*知识*的工具的纯粹使用，*以及*捍卫理性的理念作为投影或目标（在知识获取的总体计划中有重要作用）。我们将看到，康德不幸在这一点上不如我们所希望的那样清楚：有时他似乎论证理性的理念与原则在引导和系统化已获得的知识中只扮演启发式角色；另一些时候他暗示这些理念对知识获取的计划深为必要——若要获得知识，对它们的预设绝对必需。无论此事如何解决，清楚的是：康德对形而上学的批评不蕴涵对理性理念与原则的任何直截了当的拒斥。事实上似乎恰是走向理性理念的理性约束把我们绑在形而上学倾向上，因此要求康德所提供的那类批判。
   - id: 22
     kind: body
     source: |-
       In addition to criticizing the “hypostatization” of the ideas of reason, Kant seeks to expose the “subreptions” involved in the use of the ideas. The term “subreption” refers to a fallacy that specifically involves the surreptitious substitution of different *kinds* of terms and concepts. Kant usually uses the term to refer to the error of confusing or substituting concepts and principles meant for use in experience (those which properly apply to appearances) with principles of “pure reason.” By this means, a concept or principle which is a condition of our experience (e.g., the principle of apperception) is used in a way that assumes its applications to “objects in general” or things in themselves. Alternatively, a most general, formal, principle that would only hold for things in general is taken, by itself alone, to yield knowledge about appearances. This second kind of criticism found throughout the Dialectic thus pertains to Kant’s efforts to expose the subreptions that ground the illusory metaphysical arguments. Ultimately, Kant will *also* seek to reveal the very specific formal fallacies that vitiate the metaphysical arguments, to demonstrate that (although they have the appearance of soundness) the positions in each case are implicitly grounded in, or deploy, dialectical uses of terms and concepts, misapplications of principles, and conflations of appearances with things in themselves. What we find in Kant’s criticism of metaphysics, in other words, is a complex account, one grounded in a fairly robust theory of human reason. Accordingly, he identifies reason as the locus of certain principles and propensities, and certain “illusions,” which cooperate with misapplications of concepts and principles to create the errors already exposed in the Transcendental Analytic. Although this variety of aims and complaints certainly complicates Kant’s discussions in the Dialectic, it also makes for a richer and more penetrating criticism of metaphysics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了批评理性理念的“实体化”，康德还试图暴露理念使用中涉及的“僭越”。“僭越”一词指一种特别涉及不同*种类*的词项与概念的偷偷替换的谬误。康德通常用这个词指这样的错误：混淆或替换意在经验中使用的概念与原则（那些正确地适用于显象者）与“纯粹理性”的原则。由此，一个是我们经验之条件的概念或原则（如统觉的原则）被以假定其对“一般对象”或物自体的应用的方式使用。或者，一个只对一般事物成立的最一般的、形式的原则，被单独当作产出关于显象的知识。贯穿辩证论的这第二类批评，因此关乎康德暴露奠基幻象性形而上学论证的僭越的努力。最终，康德将*还*试图揭示损害形而上学论证的那些非常具体的 formal 谬误，以表明（尽管它们有可靠性的外观）每一情形中的立场都隐含地奠基于或使用词项与概念的辩证使用、原则的误用、以及显象与物自体的混淆。换言之，我们在康德对形而上学的批评中发现的是一个复杂的说明——它奠基于一个相当有力的人类理性理论。相应地，他把理性确认为某些原则与倾向、某些“幻象”的所在——它们与概念和原则的误用合作，造成先验分析论中已经暴露的错误。尽管这多种目标与抱怨确实使康德在辩证论中的讨论复杂化，它也使对形而上学的批评更丰富、更透彻。
+    step2: |-
+      除了批评理性理念的“实体化”，康德还试图暴露理念使用中涉及的“僭越”。“僭越”一词指一种特别涉及不同*种类*词项与概念的偷偷替换的谬误。康德通常用这个词指：混淆或替换意在经验中使用的概念与原则（正确适用于显象者）与“纯粹理性”的原则。由此，一个是我们经验之条件的概念或原则（如统觉的原则）被以假定其对“一般对象”或物自体的应用的方式使用；或者，一个只对一般事物成立的最一般形式原则，被单独当作产出关于显象的知识。贯穿辩证论的这第二类批评，关乎康德暴露奠基幻象性形而上学论证的僭越的努力。最终康德将*还*试图揭示损害形而上学论证的那些非常具体的 formal 谬误，以表明（尽管它们有可靠性的外观）每一情形中的立场都隐含地奠基于或使用词项与概念的辩证使用、原则的误用、显象与物自体的混淆。换言之，我们在康德对形而上学的批评中发现的是复杂的说明——奠基于相当有力的人类理性理论：他把理性确认为某些原则与倾向、某些“幻象”的所在——它们与概念和原则的误用合作，造成先验分析论已暴露的错误。这多种目标与抱怨虽使康德在辩证论中的讨论复杂化，也使对形而上学的批评更丰富、更透彻。
   - id: 23
     kind: body
     source: |-
       ## 3. The Soul and Rational Psychology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 灵魂与理性心理学
+    step2: |-
+      ## 3 灵魂与理性心理学
   - id: 24
     kind: body
     source: |-
       One historically predominant metaphysical interest has to do with identifying the nature and the constitution of the soul. Partly for practical reasons, partly for theoretical explanation, reason forms the idea of a metaphysically simple being, the soul. Such an idea is motivated by reason’s demand for the unconditioned. Kant puts this point in a number of ways, suggesting that the idea of the soul is one to which we are led necessarily insofar as we are constrained by reason to seek the “totality” of the “synthesis of conditions of a thought in general” (A397), or insofar as we seek to represent “the unconditioned unity” of “subjective conditions of representations in general” (A406/B433). More straightforwardly, Kant states that a metaphysics of the soul is generated by the demand for the “absolute (unconditioned) unity of the thinking subject itself” (A334/B391). The branch of metaphysics devoted to this topic is Rational Psychology. Rational psychologists, among whom Descartes or Leibniz would serve as apt historical examples, seek to demonstrate, for example, the substantiality, simplicity, and personal identity of the soul. Each such inference, however, involves concluding “from the transcendental concept of the subject, which contains nothing manifold, the absolute unity of this subject itself, of which I possess no concept whatsoever” (A340/B398). In other words, Kant takes the rational psychologist to slide (mistakenly) from formal features of our self concept to material or substantive metaphysical claims about an alleged (super-sensible) object (the soul).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      历史上占主导地位的一个形而上学兴趣，与确认灵魂的本性与构成有关。部分出于实践理由，部分出于理论解释，理性形成了形而上学单纯存在者——灵魂——的理念。这样的理念由理性对不被制约者的要求所推动。康德以多种方式表达这一点：暗示灵魂的理念是我们必然被引向的理念，只要我们被理性约束去寻求“一般思想之诸条件的综合”的“总体”（A397），或者只要我们力求表象“一般表象的主观条件”的“不被制约的统一”（A406/B433）。更直截了当地，康德陈述：灵魂的形而上学由对“思维主体自身的绝对（不被制约的）统一”的要求所生成（A334/B391）。献身于这一论题的形而上学分支是理性心理学。理性心理学家——其中笛卡尔或莱布尼茨可充任恰当的历史例子——试图证明例如灵魂的实体性、单纯性与人格同一性。然而每一个这样的推理都涉及“从主体的先验概念——它不包含任何杂多——得出这一主体自身的绝对统一，而我对其根本不拥有任何概念”（A340/B398）的结论。换言之，康德认为理性心理学家（错误地）从我们自我概念的形式特征滑向关于一个所谓（超感官）对象（灵魂）的实质的或实体性的形而上学主张。
+    step2: |-
+      历史上占主导地位的一个形而上学兴趣与确认灵魂的本性与构成有关：部分出于实践理由，部分出于理论解释，理性形成了形而上学单纯存在者（灵魂）的理念。这样的理念由理性对不被制约者的要求推动。康德以多种方式表达：暗示灵魂的理念是我们必然被引向的理念——只要我们被理性约束寻求“一般思想之诸条件的综合”的“总体”（A397），或力求表象“一般表象的主观条件”的“不被制约的统一”（A406/B433）。更直截了当地，康德陈述：灵魂的形而上学由对“思维主体自身的绝对（不被制约的）统一”的要求生成（A334/B391）。献身于这一论题的分支是理性心理学：理性心理学家（笛卡尔或莱布尼茨可充任恰当的历史例子）试图证明灵魂的实体性、单纯性与人格同一性。然而每一个这样的推理都涉及“从主体的先验概念——它不包含任何杂多——得出这一主体自身的绝对统一，而我对其根本不拥有任何概念”（A340/B398）的结论。换言之，康德认为理性心理学家（错误地）从我们自我概念的形式特征滑向关于一个所谓（超感官）对象（灵魂）的实质的形而上学主张。
   - id: 25
     kind: body
     source: |-
       An essential aspect of all these arguments, according to Kant, is their attempt to derive conclusions about the nature and constitution of the “soul” *a priori*, simply from an analysis of the activity of thinking. A classic example of such an attempt is provided by Descartes, who deduced the substantiality of the self from the proposition (or, perhaps better, the activity) “I think.” This move is apparent in the Cartesian inference from “I think” to the claim that the “I” is therefore “a thing” that thinks. For Descartes, this move is unproblematic: thought is an attribute, and thus presupposes a substance in which it inheres. Kant emphasizes the *a priori* basis for the metaphysical doctrine of the soul by claiming that in rational psychology, the “I think” is supposed to provide the “sole text” (A343–4/B401–02). It is this feature of the discipline that serves to distinguish it from any empirical doctrine of the self (any empirical psychology), and which secures its status as a “metaphysics” that purports to provide synthetic *a priori* knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照康德的看法，所有这些论证的一个本质方面是它们试图*先天地*——仅仅从对思维活动的分析——推导出关于“灵魂”之本性与构成的结论。这类尝试的经典例子由笛卡尔提供：他从命题（或毋宁说活动）“我思”演绎出自我的实体性。这一动作在笛卡尔从“我思”到“我”因此是思维着的“一个物”的主张的推理中显而易见。对笛卡尔而言这一动作不成问题：思想是一个属性，因此预设一个它内在于其中的实体。康德强调灵魂的形而上学学说的*先天*基础，主张在理性心理学中，“我思”应当提供“唯一的文本”（A343–4/B401–02）。正是这一学科的特征把它与任何经验性的自我学说（任何经验心理学）区分开来，并确保它作为一个号称提供综合*先天*知识的“形而上学”的地位。
+    step2: |-
+      照康德的看法，所有这些论证的一个本质方面是试图*先天地*（仅从对思维活动的分析）推导关于“灵魂”之本性与构成的结论。经典例子由笛卡尔提供：他从命题（或毋宁说活动）“我思”演绎自我的实体性。这一动作在笛卡尔从“我思”到“我”因此是思维着的“一个物”的推理中显而易见——对笛卡尔它不成问题：思想是属性，故预设它内在于其中的实体。康德强调灵魂的形而上学学说的*先天*基础，主张在理性心理学中“我思”应当提供“唯一的文本”（A343–4/B401–02）——正是这一学科特征把它与任何经验性的自我学说（任何经验心理学）区分，确保它作为号称提供综合*先天*知识的“形而上学”的地位。
   - id: 26
     kind: body
     source: |-
       Kant’s criticisms of rational psychology draw on a number of distinct sources, one of which is the Kantian doctrine of apperception, or transcendental self-consciousness (often formulated in terms of the necessary possibility of attaching the “I think” to all my representations (B132)). Kant denies that the metaphysician is entitled to his substantive conclusions on the grounds that the activity of self-consciousness does not yield any object for thought. Nevertheless, reason is guided by its projecting and objectifying propensities. In accordance with these, self-consciousness is “hypostatized,” or objectified. Here again, Kant claims that a “natural illusion” compels us to take the apperceived unity of consciousness as an intuition of an object (A402). The ineliminably subjective nature of self-consciousness, and the elusiveness of the “I” in the context of that activity, are thus the well known bases for Kant’s response to rational psychology, and the doctrine of apperception plays an important role in Kant’s rejection. For in each case, Kant thinks that a feature of self-consciousness (the essentially subjectival, unitary and identical nature of the “I” of apperception) gets transmuted into a metaphysics of a self (as an object) that is ostensibly “known” through reason alone to be substantial, simple, identical, etc. This slide from the “I” of apperception to the constitution of an object (the soul) has received considerable attention in the secondary literature, and has fueled a great deal of attention to the Kantian theory of mind and mental activity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对理性心理学的批评动用了若干不同的源泉，其中之一是康德的统觉学说或先验自我意识（常以把“我思”附于我的一切表象之必要可能性来表述（B132））。康德否认形而上学家有权得出其实质结论，理由是自我意识的活动不为思想产出任何对象。然而，理性被其投射与对象化的倾向所引导。依照这些倾向，自我意识被“实体化”或对象化。这里康德再次主张，一种“自然的幻象”迫使我们把被统觉的意识统一当作对一个对象的直观（A402）。自我意识之不可消除的主观性，以及“我”在该活动语境中的难以捉摸，因此是康德回应理性心理学的著名基础；统觉学说在康德的拒斥中扮演重要角色。因为在每一种情形中，康德认为自我意识的一个特征（统觉的“我”的本质上主词性的、单一与同一的本性）被变形为一个自我（作为对象）的形而上学——它表面上仅通过理性“被认识”为有实体的、单纯的、同一的，等等。这一从统觉的“我”到一个对象（灵魂）之构成的滑移，在二手文献中受到了相当多的关注，并激发了人们对康德心灵理论与心理活动的大量关注。
+    step2: |-
+      康德对理性心理学的批评动用若干不同源泉，其中之一是康德的统觉学说或先验自我意识（常以把“我思”附于我的一切表象之必要可能性表述（B132））。康德否认形而上学家有权得出实质结论——理由是自我意识的活动不为思想产出任何对象。然而理性被其投射与对象化的倾向引导：依照这些倾向，自我意识被“实体化”或对象化。这里康德再次主张，一种“自然的幻象”迫使我们把被统觉的意识统一当作对一个对象的直观（A402）。自我意识之不可消除的主观性、“我”在该活动语境中的难以捉摸，因此是康德回应理性心理学的著名基础；统觉学说在其拒斥中扮演重要角色——在每种情形中，康德认为自我意识的一个特征（统觉的“我”的本质上主词性的、单一与同一的本性）被变形为自我（作为对象）的形而上学：它表面上仅通过理性“被认识”为有实体的、单纯的、同一的，等等。这一从统觉的“我”到对象（灵魂）之构成的滑移，在二手文献中受到相当多关注，并激发了人们对康德心灵理论与心理活动的大量关注。
   - id: 27
     kind: body
     source: |-
       The claim that the ‘I’ of apperception yields no object of knowledge (for it is not itself an object, but only the “vehicle” for any representation of objectivity as such) is fundamental to Kant’s critique of rational psychology. Kant thus spends a considerable amount of time arguing that no object is given in transcendental self-consciousness, and thus that the rational psychologist’s efforts to discern features of the self, construed as a metaphysical entity, through reason alone are without merit. To elucidate the ways in which the rational psychologist is nevertheless seduced into making this slide from formal representations of self consciousness to a metaphysics of the self, Kant examines each of the psychological arguments, maintaining that all such arguments about the soul are dialectical. He refers to the arguments designed to draw such conclusions, “transcendental paralogisms”, and hence the chapter of the Critique that criticizes rational psychology goes by the name “The Paralogisms of Pure Reason.” A transcendental paralogism, according to Kant, is a “syllogism in which one is constrained, by a transcendental ground, to draw a formally invalid conclusion” (A341/B399). Kant’s subsequent efforts are thus directed towards demonstrating the paralogistic (fallacious) nature of the arguments about the soul.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      统觉的“我”不产出知识的对象（因为它本身不是对象，而只是任何表象对象性之整体的“载体”）这一主张，对康德的理性心理学批评是根本性的。因此康德花相当多的时间论证：先验自我意识中没有被给予任何对象，从而理性心理学家仅凭理性辨认自我（被构想为一个形而上学实体）之特征的努力毫无价值。为阐明理性心理学家仍然如何被诱使做出从自我意识的形式表象到自我的形而上学的滑移，康德逐一检视这些心理学论证，坚持一切关于灵魂的论证都是辩证的。他把旨在得出这类结论的论证称为“先验谬误推理”，因此《批判》中批评理性心理学的一章名为“纯粹理性的谬误推理”。照康德的说法，一个先验谬误推理是“一个三段论，其中人们被一个先验根据约束，得出一个形式上无效的结论”（A341/B399）。康德随后的努力因此指向表明关于灵魂的论证的谬误推理（谬误的）性质。
+    step2: |-
+      统觉的“我”不产出知识的对象（它本身不是对象，只是任何表象对象性之整体的“载体”）这一主张，对康德的理性心理学批评是根本性的。因此康德花相当多时间论证：先验自我意识中没有被给予任何对象——理性心理学家仅凭理性辨认自我（被构想为形而上学实体）之特征的努力毫无价值。为阐明理性心理学家仍如何被诱使做出从自我意识的形式表象到自我的形而上学的滑移，康德逐一检视这些心理学论证，坚持一切关于灵魂的论证都是辩证的：他把旨在得出这类结论的论证称为“先验谬误推理”，故《批判》中批评理性心理学的一章名为“纯粹理性的谬误推理”。照康德的说法，先验谬误推理是“一个三段论，其中人们被一个先验根据约束，得出一个形式上无效的结论”（A341/B399）。康德随后的努力因此指向表明关于灵魂的论证的谬误推理（谬误的）性质。
   - id: 28
     kind: body
     source: |-
       Kant’s diagnosis of the fallacies has received considerable attention, and has generated considerable controversy. In each case, Kant tells us, the argument is guilty of the fallacy of *sophisma figurae* *dictionis*, or the fallacy of equivocation/ambiguous middle. Kant suggests that in each of the syllogisms, a term is used in different senses in the major and minor premises. Consider the first paralogism, the argument that allegedly deduces the substantiality of the soul. In the A edition, Kant formulates the argument as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对这些谬误的诊断受到了相当多的关注，并产生了相当大的争议。在每一种情形中，康德告诉我们，该论证犯有*sophisma figurae dictionis*的谬误，即歧义中项的谬误。康德暗示，在每一个三段论中，一个词项在大前提与小前提中被以不同的意义使用。考虑第一个谬误推理——据称演绎灵魂之实体性的论证。在 A 版中，康德把该论证表述如下：
+    step2: |-
+      康德对这些谬误的诊断受相当多关注，并产生相当大的争议。在每一种情形中，康德告诉我们：该论证犯有 *sophisma figurae dictionis* 的谬误，即歧义中项的谬误。康德暗示，在每一个三段论中，一个词项在大前提与小前提中被以不同意义使用。考虑第一个谬误推理——据称演绎灵魂之实体性的论证。A 版中康德把该论证表述如下：
   - id: 29
     kind: body
     source: |-
@@ -183,68 +233,98 @@ segments:
       > I, as thinking being, am the absolute subject of all my possible judgments and this representation of myself cannot be employed as determination of any other thing.
       >
       > Therefore, I, as thinking being (soul), am substance. (A349)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 其表象是我们判断的绝对主词、且不能被用作任何其他事物的规定的那个东西，是实体。
+      >
+      > 我，作为思维着的存在者，是我一切可能判断的绝对主词，而这一对自身的表象不能被用作任何其他事物的规定。
+      >
+      > 所以，我作为思维着的存在者（灵魂），是实体。（A349）
+    step2: |-
+      > 其表象是我们判断的绝对主词、且不能被用作任何其他事物的规定的那个东西，是实体。
+      >
+      > 我，作为思维着的存在者，是我一切可能判断的绝对主词，而这一对自身的表象不能被用作任何其他事物的规定。
+      >
+      > 所以，我作为思维着的存在者（灵魂），是实体。（A349）
   - id: 30
     kind: body
     source: |-
       Kant locates the equivocation contained in the argument in the use of the term “substance.” According to Kant, the major premise uses this term “transcendentally” whereas the minor premise and conclusion use the same term “empirically.” (A403). What Kant appears to mean is this: the major premise deploys the term “substance” in a very general way, one which abstracts from the conditions of our sensible intuition (space and time). As such, the major premise simply offers the most general definition of substance, and thus expresses the most general rule in accordance with which objects might be able to be thought as substances. Nevertheless, in order to apply the concept of substance in such a way as to determine an object, the category would have to be used empirically. Unfortunately, such an empirical use is precluded by the fact that the alleged object to which it is being applied is not empirical. Even more problematically, on Kant’s view, there is *no object given at all*. In Kantian jargon, the category only yields knowledge of objects if it is “schematized,” applied to given objects under the conditions of time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德把论证中包含的歧义定位于“实体”一词的使用。照康德的看法，大前提“先验地”使用这个词，而小前提与结论“经验地”使用同一词（A403）。康德似乎意指：大前提以非常一般的方式使用“实体”一词——一种抽离于我们感性直观之条件（空间与时间）的方式。因此，大前提只提供实体的最一般定义，从而表达对象可能能够被思考为实体的最一般规则。然而，为了以确定对象的方式应用实体范畴，该范畴必须被经验地使用。不幸的是，这样的经验使用被如下事实排除：它正被应用于其上的那个所谓的对象不是经验的。更有问题的是，照康德的看法，那里根本没有*被给予任何对象*。用康德的行话说，只有当范畴被“图型化”时——在时间的条件下应用于被给予的对象——它才产出关于对象的知识。
+    step2: |-
+      康德把论证中包含的歧义定位于“实体”一词的使用：照康德的看法，大前提“先验地”使用这个词，小前提与结论“经验地”使用同一词（A403）。康德似乎意指：大前提以非常一般的方式使用“实体”——抽离于我们感性直观之条件（空间与时间）；因此大前提只提供实体的最一般定义，表达对象可能被思考为实体的最一般规则。然而，为以确定对象的方式应用实体范畴，该范畴必须被经验地使用——不幸的是这样的经验使用被如下事实排除：它正被应用其上的那个所谓对象不是经验的。更有问题的是，照康德的看法，那里根本没有*被给予任何对象*：用康德的行话说，只有当范畴被“图型化”（在时间的条件下应用于被给予的对象）时，它才产出关于对象的知识。
   - id: 31
     kind: body
     source: |-
       This same kind of complaint is lodged against each of the paralogistic syllogisms that characterize Rational Psychology. Thus, Kant argues against the inference to the simplicity of the soul, by remarking that the psychologist surreptitiously deduces the actual simplicity of a metaphysical object simply from the formal features of subjectivity (the fact that the “I” is unitary in our representational economy). The personal identity of the soul is attacked on similar grounds. In each case the metaphysical conclusion is said to be drawn only by an equivocation in the use or meaning of a concept of the understanding.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样类型的抱怨也被针对表征理性心理学的每一个谬误推理三段论提出。因此，康德反对向灵魂之单纯性的推理，评论说心理学家偷偷地从主观性的形式特征（“我”在我们的表象经济中是单一的这一事实）演绎出一个形而上学对象的实际单纯性。灵魂的人格同一性也在类似的根据上受到攻击。在每一种情形中，形而上学的结论据说是仅仅通过对知性的一个概念的使用或意义的歧义而得出的。
+    step2: |-
+      同样类型的抱怨也被针对表征理性心理学的每一个谬误推理三段论提出：康德反对向灵魂之单纯性的推理，评论说心理学家偷偷地从主观性的形式特征（“我”在我们的表象经济中是单一的这一事实）演绎出一个形而上学对象的实际单纯性；灵魂的人格同一性也在类似的根据上受攻击。在每一种情形中，形而上学的结论据说是仅通过对知性的一个概念的使用或意义的歧义得出。
   - id: 32
     kind: body
     source: |-
       This illustrates Kant’s efforts to demonstrate the fallacious nature of the arguments that characterize metaphysics, as well as his interest in identifying the sources of such errors. Given this, Kant’s criticisms of rational psychology are not as straightforward as one might expect, for embedded in his criticisms of rational psychology are actually a number of distinct charges: 1) The idea of the soul, although it is one to which we are naturally led in our quest for the unconditioned ground of thought, does not correspond to any object that is (or could be) *actually given* to us in intuition. The hypostatization of this idea, therefore, although it may be natural, is deeply problematic. 2) Because the idea of the soul does not yield, by itself alone, any knowable object, the arguments about it, although they may have the appearance of being legitimate, in fact involve dialectical applications of concepts. The arguments, in other words, involve fallacies that vitiate their conclusions. 3) The arguments are traceable back to certain features of human reason that may not be eradicated, but that can and ought to be curbed and critically reinterpreted. More specifically, the demand for the unconditioned, and the idea of the soul to which it gives rise, may be construed regulatively as devices for guiding inquiries, but never constitutively — never, that is, as yielding grounds for any a priori synthetic knowledge of a metaphysical self given immediately to pure reason.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这例示了康德表明表征形而上学的论证之谬误性质的努力，以及他辨识这类错误之源泉的兴趣。鉴于这一点，康德对理性心理学的批评并不像人们可能期望的那样直截了当，因为嵌在他对理性心理学的批评中的，实际上是若干不同的指控：1）灵魂的理念——尽管它是我们在寻求思想的不被制约根据时自然被引向的理念——不对应任何（或可能）*实际被给予*我们于直观中的对象。因此这一理念的实体化，尽管可能是自然的，却深有问题。2）因为灵魂的理念凭其自身不产出任何可知的对象，关于它的论证虽然可能有合法性的外观，实际上涉及概念的辩证使用。换言之，这些论证包含损害其结论的谬误。3）这些论证可追溯到人类理性的某些特征——它们可能无法根除，但能够且应当被遏制并被批判地重新诠释。更具体地说，对不被制约者的要求及它所产生的灵魂的理念，可以被调节地解释为引导探究的装置，但绝不建构地——绝不作为产出关于一个直接被给予纯粹理性的形而上学自我的任何先天综合知识的根据。
+    step2: |-
+      这例示了康德表明表征形而上学的论证之谬误性质的努力，及他辨识这类错误源泉的兴趣。鉴于这一点，康德对理性心理学的批评并不如人们可能期望的那样直截了当——嵌在其中的实际是若干不同的指控：1）灵魂的理念（尽管是我们在寻求思想的不被制约根据时自然被引向的）不对应任何（或可能）*实际被给予*我们于直观中的对象——因此这一理念的实体化虽可能自然，却深有问题。2）因为灵魂的理念凭其自身不产出任何可知对象，关于它的论证虽有合法性的外观，实际涉及概念的辩证使用——换言之，这些论证包含损害其结论的谬误。3）这些论证可追溯到人类理性的某些特征——它们可能无法根除，但能且应当被遏制并被批判地重新诠释。更具体地说，对不被制约者的要求及它产生的灵魂的理念，可调节地解释为引导探究的装置，但绝不建构地——绝不作为产出关于直接被给予纯粹理性的形而上学自我的任何先天综合知识的根据。
   - id: 33
     kind: body
     source: |-
       Kant’s Paralogisms have received considerable and focused attention in the secondary literature. See Ameriks (1992), Brook (1994), Kitcher, Patricia (1990), Powell (1990), Sellars (1969, 1971), Wolff, R. P. (1963). There are also excellent discussions to be found in Allison (1983, 2004), Bennett (1974), Buroker (2006), Grier (2001, forthcoming), Guyer (1987), Wuerth (2010, 2021) (2010), Bird (2006), Ameriks (2006), Melnick (2006), Dyck (2014), Proops (2010), Willaschek (2018)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的谬误推理在二手文献中受到了相当多且聚焦的关注。见 Ameriks (1992), Brook (1994), Kitcher, Patricia (1990), Powell (1990), Sellars (1969, 1971), Wolff, R. P. (1963)。在 Allison (1983, 2004), Bennett (1974), Buroker (2006), Grier (2001, forthcoming), Guyer (1987), Wuerth (2010, 2021), Bird (2006), Ameriks (2006), Melnick (2006), Dyck (2014), Proops (2010), Willaschek (2018) 中也可以找到出色的讨论。
+    step2: |-
+      康德的谬误推理在二手文献中受到相当多且聚焦的关注：见 Ameriks (1992), Brook (1994), Kitcher, Patricia (1990), Powell (1990), Sellars (1969, 1971), Wolff, R. P. (1963)；Allison (1983, 2004), Bennett (1974), Buroker (2006), Grier (2001, forthcoming), Guyer (1987), Wuerth (2010, 2021), Bird (2006), Ameriks (2006), Melnick (2006), Dyck (2014), Proops (2010), Willaschek (2018) 中也有出色的讨论。
   - id: 34
     kind: body
     source: |-
       ## 4. The World and Rational Cosmology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 世界与理性宇宙论
+    step2: |-
+      ## 4 世界与理性宇宙论
   - id: 35
     kind: body
     source: |-
       The second discipline of rationalist metaphysics rejected by Kant is Rational Cosmology. Rational cosmology is concerned with the arguments about the nature and constitution of the “world,” understood as the sum-total of all appearances (objects and events in space and time) (A420/B448). The arguments about the world occupy an especially important place in Kant’s rejection of metaphysics. Not only does Kant address himself to the task of discounting the metaphysical arguments in cosmology, but the resolution to some of these conflicts provides, he claims, an indirect argument for his own transcendental idealism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德所拒斥的理性主义形而上学的第二个学科是理性宇宙论。理性宇宙论关注关于“世界”——被理解为一切显象（空间与时间中的对象与事件）的总和（A420/B448）——之本性与构成的论证。关于世界的论证在康德对形而上学的拒斥中占据特别重要的位置。康德不仅着力于驳斥宇宙论中的形而上学论证，而且声称其中一些冲突的解决为康德自己的先验观念论提供了一个间接论证。
+    step2: |-
+      康德拒斥的理性主义形而上学第二个学科是理性宇宙论。理性宇宙论关注关于“世界”（被理解为一切显象——空间与时间中的对象与事件——的总和，A420/B448）之本性与构成的论证。关于世界的论证在康德对形而上学的拒斥中占据特别重要的位置：康德不仅着力驳斥宇宙论中的形而上学论证，且声称其中一些冲突的解决为康德自己的先验观念论提供间接论证。
   - id: 36
     kind: body
     source: |-
       The arguments about the world are referred to by Kant as “antinomies” because in the field of cosmology, reason gives rise to sets of opposing arguments (the “thesis” and the “antithesis”) with respect to each issue. Thus, the case here differs from the paralogisms (and, as we shall see, from the Ideal). The reason for this difference resides in the nature of the idea of reason in question. The idea of the “world” purports to be an idea of an unconditioned but somehow still sensible object (cf. A479/B509). Unlike the soul and God, which are clearly supposed to be non-sensible metaphysical entities, the sum total of all appearances refers specifically to spatio-temporal objects or events. Kant highlights this unique feature of the idea of the world by noting that whereas the ideas of the soul and God are “pseudo-rational,” the idea of the world is “pseudo-empirical.” It is precisely this feature of the idea (that it both purports to refer to a somehow sensible object AND that it involves thinking that object as already given in its unconditioned totality) that leads to the two opposed sets of arguments. For with respect to each problem addressed (the finitude vs. the infinitude of the world, freedom vs. causality, etc.), one can either adopt a broadly “dogmatic” (Platonic) or broadly “empiricist” (Epicurean) approach, each reflecting a different way of thinking the totality of conditions (See A471–2/B499–500). More specifically, one can either think the unconditioned as an intelligible ground of appearances, or as the total (even if infinite) set of all appearances. Unfortunately, each of these conceptual strategies is unsatisfying. To accommodate the thesis interest in ultimate (intelligible) beginnings is to posit something “too big” for the understanding, something that is never to be met with empirically (e.g., freedom, ultimately simple substances). Thus, although the thesis positions satisfy reason’s demand for the unconditioned, they do so by fleeing (however unwittingly) into an intelligible realm, by providing explanations that abstract from that which is or could be given in any spatio-temporal experience. But adopting the empiricist approach is no more rewarding, in the final analysis; although the antithesis positions remain securely lodged within “nature’s own resources,” they can never measure up to the demands of reason’s ideas. Such a strategy is “too small” for reason which, even despite its capacity to think beyond all standards of sense and by its demand for more thorough explanation. Worse, the antithesis arguments, in refusing to go beyond the spatio-temporal realm, end up being just as dogmatic as their opposites, for the assumption is that whatever holds within space and time also holds generally. To assume this is to take what are for Kant merely subjective features of our intuition (forms of sensibility, space and time) to be universal ontological conditions holding of everything whatsoever.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于世界的论证被康德称为“二律背反”，因为在宇宙论的领域中，理性就每一个问题产生出成套的对立论证（“正题”与“反题”）。因此，这里的情形不同于谬误推理（以及，我们将看到，不同于理念）。这一差异的原因在于所论的理性理念的本性。“世界”的理念 purported 是一个不被制约的但仍然以某种方式可感的对象的观念（参 A479/B509）。不像灵魂与上帝——它们明确被假定是非感性的形而上学实体——一切显象的总和专门指涉时空对象或事件。康德通过指出如下事实突出了世界理念的这一独特特征：灵魂与上帝的理念是“伪理性的”，而世界的理念是“伪经验的”。正是这一理念的属性（它既 purported 指涉一个以某种方式可感的对象，又涉及把该对象思考为已在其不被制约的总体中被给予）导向了两套对立的论证。因为就每一个被处理的问题（世界的有限 vs. 无限、自由 vs. 因果性，等等），人们既可以采纳大体“独断的”（柏拉图式的）进路，也可以采纳大体“经验主义的”（伊壁鸠鲁式的）进路，每一种都反映了思考条件之总体的不同方式（参 A471–2/B499–500）。更具体地说，人们可以把不被制约者思考为显象的理知根据，或作为一切显象的（即使无限的）总体。不幸的是，这些概念策略的每一种都不令人满意。容纳正题对终极（理知的）开端的兴趣，是设定某种对知性而言“太大”的东西、某种永远无法在经验中遭遇的东西（例如自由、最终单纯的实体）。于是，尽管正题立场满足理性对不被制约者的要求，它们这样做是（不管多么不自觉）逃入理知的领域，通过提供从任何时空经验中已经或能够被给予的东西抽象出来的解释。但采纳经验主义的进路归根结底也没有更多回报；尽管反题立场安全地驻留在“自然自身的资源”之内，它们永远无法匹敌理性理念的要求。这样一种策略对理性而言“太小”——理性即使在其超越一切感官标准进行思考的能力与对更彻底解释的要求方面也是如此。更糟的是，反题论证在拒绝超越时空领域的同时，最终与其对立面一样独断，因为其假定是：在空间与时间中成立的东西也一般地成立。假定这一点，就是把康德看来仅仅是我们直观的主观特征（感性形式：空间与时间）的东西当作对一切东西普遍成立的本体论条件。
+    step2: |-
+      关于世界的论证被康德称为“二律背反”：在宇宙论的领域中，理性就每一个问题产生成套的对立论证（“正题”与“反题”）。故这里的情形不同于谬误推理（以及我们将看到的，不同于理念）——差异的原因在于所论的理性理念的本性。“世界”的理念 purported 是一个不被制约的但仍以某种方式可感的对象的观念（参 A479/B509）：不像灵魂与上帝（明确被假定是非感性的形而上学实体），一切显象的总和专门指涉时空对象或事件。康德通过指出灵魂与上帝的理念是“伪理性的”、世界的理念是“伪经验的”而突出世界理念的这一独特特征。正是这一理念的属性（既 purported 指涉一个以某种方式可感的对象，又涉及把该对象思考为已在其不被制约的总体中被给予）导向两套对立的论证：就每一个被处理的问题（世界的有限 vs. 无限、自由 vs. 因果性等），人们既可以采纳大体“独断的”（柏拉图式）进路，也可以采纳大体“经验主义的”（伊壁鸠鲁式）进路——每种反映思考条件之总体的不同方式（参 A471–2/B499–500）。更具体地说，人们可以把不被制约者思考为显象的理知根据，或作为一切显象的（即使无限的）总体。不幸的是这些概念策略的每一种都不令人满意：容纳正题对终极（理知的）开端的兴趣，是设定某种对知性而言“太大”的东西——永远无法在经验中遭遇的（如自由、最终单纯的实体）；故尽管正题立场满足理性对不被制约者的要求，它们这样做是（不管多么不自觉）逃入理知的领域，提供从任何时空经验已或能被给予者抽象出来的解释。但采纳经验主义的进路归根结底也无更多回报：尽管反题立场安全地驻留在“自然自身的资源”之内，它们永远无法匹敌理性理念的要求——这样的策略对理性而言“太小”（理性即使在其超越一切感官标准进行思考的能力与对更彻底解释的要求方面）。更糟的是，反题论证在拒绝超越时空领域的同时，最终与其对立面一样独断——其假定是：在空间与时间中成立的东西也一般地成立。假定这一点，就是把康德看来仅仅是我们直观的主观特征（感性形式：空间与时间）的东西当作对一切东西普遍成立的本体论条件。
   - id: 37
     kind: body
     source: |-
       Because both sides to the cosmological disputes seem to be able to argue successfully against the opposite, Kant finds in the antinomies a dramatic exhibition of the “conflict” into which reason inevitably falls (and in which it will remain) so long as it fails to adopt his own transcendental distinction between appearances and things in themselves. The historical debacle of reason’s conflict with itself provides Kant with a dramatic exhibition of the vacillation of reason between two alternatives, neither of which it can accept (or dismiss) without dissatisfaction. Left unresolved, this conflict leads to the “euthanasia of pure reason” (A407/B434), in the sense of provoking skeptical despair.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因为宇宙论论争的双方似乎都能成功地反驳对方，康德在二律背反中发现理性不可避免地陷入（且只要它不采纳他自己的显象与物自体的先验区分就将保持其中的）“冲突”的戏剧性展示。理性与自身冲突的历史性挫败，为康德提供了理性在两个选项之间摇摆的戏剧性展示——它无法不带着不满接受（或放弃）其中任何一个。不被解决，这一冲突导致“纯粹安乐死”的 euthanasia（A407/B434）——引发怀疑论的绝望。
+    step2: |-
+      因为宇宙论论争的双方似乎都能成功反驳对方，康德在二律背反中发现理性不可避免陷入（且只要它不采纳他自己的显象与物自体的先验区分就将保持其中）的“冲突”之戏剧性展示。理性与自身冲突的历史性挫败，为康德提供理性在两个选项之间摇摆的戏剧性展示——它无法不带着不满接受（或放弃）任何一方。不被解决，这一冲突导致“纯粹理性的安乐死”（A407/B434）——引发怀疑论的绝望。
   - id: 38
     kind: body
     source: |-
       ### 4.1 The Mathematical Antinomies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 数学二律背反
+    step2: |-
+      ### 4.1 数学二律背反
   - id: 39
     kind: body
     source: |-
       There are four “antinomies” of pure reason, and Kant divides them into two classes. The first two antinomies are dubbed “mathematical” antinomies, presumably because in each case, we are concerned with the relation between what are alleged to be sensible objects (either the world itself, or objects in it) and space and time. An important and fundamental aspect of Kant’s rejection of each of these sets of arguments rests on his view that each of these conflicts is traceable back to a fundamental error, an error that can be discerned, according to Kant, in the following dialectical syllogism:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      纯粹理性有四个“二律背反”，康德把它们分为两类。前两个二律背反被称为“数学的”二律背反，大概因为在每一种情形中，我们关心的是被认为是可感的对象（世界本身或其中的对象）与空间和时间之间的关系。康德对每一套论证的拒斥的一个重要且根本的方面，取决于他的观点：这些冲突中的每一个都可追溯到一个根本错误——照康德的看法，这一错误可以在如下辩证三段论中辨认出来：
+    step2: |-
+      纯粹理性有四个“二律背反”，康德把它们分为两类：前两个被称为“数学的”二律背反——大概因为在每一种情形中，我们关心的是被认为是可感的对象（世界本身或其中的对象）与空间和时间的关系。康德对每一套论证的拒斥的一个重要且根本的方面取决于他的观点：这些冲突中的每一个都可追溯到一个根本错误——照康德，这一错误可在如下辩证三段论中辨认：
   - id: 40
     kind: body
     source: |-
@@ -253,178 +333,248 @@ segments:
       > Objects of the senses are given as conditioned
       >
       > Consequently, the entire series of all conditions of objects of the senses is already given. (cf. A497/B525).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果被制约者被给予，那么条件的整个序列——因此这一序列本身是绝对不被制约的——也就被给予
+      >
+      > 感官的对象作为被制约的而被给予
+      >
+      > 所以，感官对象的一切条件的整个序列已经被给予。（参 A497/B525）。
+    step2: |-
+      > 如果被制约者被给予，那么条件的整个序列——因此这一序列本身是绝对不被制约的——也就被给予
+      >
+      > 感官的对象作为被制约的而被给予
+      >
+      > 所以，感官对象的一切条件的整个序列已经被给予（参 A497/B525）。
   - id: 41
     kind: body
     source: |-
       There are a number of problems with this argument, according to Kant. Obviously, one problem is located in the major premise, in the assumption that the unconditioned is “already given.” The problem, maintains Kant, is that such a totality is never to be met with in experience. The rational assumption that the total series of all conditions is already given would hold only for things in themselves. In the realm of appearances, the totality is never given to us, as finite discursive knowers. The most we are entitled to say, with respect to appearances, is that the unconditioned is *set as a task*, that there is a rational prescription to continue to seek explanations (A498/B526-A500/B528). As finite (sensible) cognizers, however, we shall never achieve an absolute completion of knowledge. To assume that we can do so is to adopt the theocentric model of knowledge characteristic of the dreaded transcendental realist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照康德的看法，这一论证有若干问题。显然，一个问题位于大前提中——在被制约者“已经被给予”的假定中。康德坚持认为，问题在于这样的总体永远无法在经验中遭遇。一切条件的总序列已经被给予的理性假定只对物自体成立。在显象的领域中，总体从不被给予我们这些有限的推论性认识者。就显象而言，我们最有资格说的是：不被制约者被*设定为一个任务*，存在一个继续寻求解释的理性诫命（A498/B526-A500/B528）。然而作为有限的（感性的）认识者，我们永远无法实现知识的绝对完成。假定我们能做到这一点，就是采纳可怕的先验实在主义者所特有的以神为中心的知识模型。
+    step2: |-
+      照康德的看法，这一论证有若干问题。显然一个问题位于大前提——在被制约者“已经被给予”的假定中。康德坚持：这样的总体永远无法在经验中遭遇；一切条件的总序列已经被给予的理性假定只对物自体成立。在显象领域，总体从不被给予我们这些有限的推论性认识者；就显象而言，我们最有资格说的是：不被制约者被*设定为一个任务*——存在继续寻求解释的理性诫命（A498/B526-A500/B528）。然而作为有限的（感性的）认识者，我们永远无法实现知识的绝对完成；假定能做到，就是采纳可怕的先验实在主义者特有的以神为中心的知识模型。
   - id: 42
     kind: body
     source: |-
       This hypostatization of the idea of the world, the fact that it is taken to be a mind-independent object, acts as the underlying assumption motivating both parties to the two mathematical antinomies. The first antinomy concerns the finitude or infinitude of the spatio-temporal world. The thesis argument seeks to show that the world in space and time is finite, i.e., has a beginning in time and a limit in space. The antithesis counters that it is infinite with regard to both space and time. The second antinomy concerns the ultimate constitution of objects in the world, with the thesis arguing for ultimately simple substances, whereas the antithesis argues that objects are infinitely divisible. In this, the thesis positions are each concerned to bring the explanatory effort to a close, by arguing for ultimate or, as Kant says, “intelligible beginnings” (cf. A466/B494). The claim that there is a “first beginning” or an ultimately simple substance is sustained only by abstracting from the spatio-temporal framework. The alleged proponent of the antithesis arguments, on the other hand, refuses any conclusion that goes beyond the sensible conditions of space and time. According to the antithesis arguments, the world is infinite in both space and time (these being infinite as well), and bodies are (in accordance with the infinite divisibility of space) also infinitely divisible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      世界理念的这一实体化——即它被视为一个独立于心灵的对象——充当推动两个数学二律背反双方的底层假定。第一个二律背反关乎时空世界的有限性或无限性。正题论证试图表明空间与时间中的世界是有限的，即在时间中有开端、在空间中有界限。反题反驳说它在空间与时间两方面都是无限的。第二个二律背反关乎世界中对象的终极构成：正题论证最终单纯的实体，而反题论证对象是无限可分的。在此，正题立场都关心把解释的努力引向终点，论证最终的或如康德所说的“理知的开端”（参 A466/B494）。有“最初开端”或最终单纯实体这一主张，只有通过从时空框架抽象才能维持。反题论证的所谓支持者则拒绝任何超出空间与时间的感性条件的结论。照反题论证，世界在空间与时间两方面都是无限的（它们本身也是无限的），而物体（按空间的无限可分性）也是无限可分的。
+    step2: |-
+      世界理念的这一实体化（它被视为独立于心灵的对象）充当推动两个数学二律背反双方的底层假定。第一个二律背反关乎时空世界的有限性或无限性：正题论证试图表明空间与时间中的世界有限（在时间中有开端、在空间中有界限）；反题反驳它在空间与时间两方面无限。第二个二律背反关乎世界中对象的终极构成：正题论证最终单纯的实体，反题论证对象无限可分。在此正题立场都关心把解释的努力引向终点——论证最终的或如康德所说的“理知的开端”（参 A466/B494）；“有最初开端或最终单纯实体”这一主张只有通过从时空框架抽象才能维持。反题论证的所谓支持者则拒绝任何超出空间与时间感性条件的结论：照反题论证，世界在空间与时间两方面无限（它们本身也无限），物体（按空间的无限可分性）也无限可分。
   - id: 43
     kind: body
     source: |-
       In each of these antinomial conflicts, reason finds itself at an impasse. Satisfying the demands placed by our rational capacity to think beyond experience, the thesis arguments offer what appears to be a satisfying resting-place for explanation. The antithesis charges that such a strategy fails to find any confirmation, and, citing the unjustified flight into an intelligible realm, lodges itself squarely in the domain of “experience.” In each of these cases, the conflicts are resolved by demonstrating that the conclusions drawn on both sides are false.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这些二律背反的每一个冲突中，理性发现自身处于僵局。满足我们超越经验进行思考的理性能力所提出的要求，正题论证提供表面上令人满意的解释的安息之地。反题则指责这样一种策略未能找到任何确认，并引证向理知领域的不正当逃逸，把它自己稳稳地安置在“经验”的领域中。在每一种情形中，冲突的解决是通过表明双方得出的结论都是假的。
+    step2: |-
+      在这些二律背反的每一个冲突中，理性发现自身处于僵局：满足我们超越经验进行思考的理性能力所提出的要求，正题论证提供表面上令人满意的解释的安息之地；反题则指责这种策略未找到任何确认，引证向理知领域的不正当逃逸，把自己稳稳安置在“经验”的领域中。在每一种情形中，冲突的解决是通过表明双方得出的结论都是假的。
   - id: 44
     kind: body
     source: |-
       How does Kant demonstrate this? Both the thesis and antithesis arguments are apagogic, i.e., that they constitute indirect proofs. An indirect proof establishes its conclusion by showing the impossibility of its opposite. Thus, for example, we may want to know, as in the first antinomy, whether the world is finite or infinite. We can seek to show that it is finite by demonstrating the impossibility of its infinitude. Alternatively, we may demonstrate the infinitude of the world by showing that it is impossible that it is finite. This is exactly what the thesis and antithesis arguments purport to do, respectively. The same strategy is deployed in the second antinomy, where the proponent of the thesis position argues for the necessity of some ultimately simple substance by showing the impossibility of infinite divisibility of substance, etc.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德如何证明这一点？正题与反题论证都是间接的，即它们构成间接证明。间接证明通过表明其对立面的不可能来确立其结论。例如，像在第一个二律背反中那样，我们可能想知道世界是有限的还是无限的。我们可以通过展示其无限的不可能来试图表明它是有限的。或者，我们可以通过表明其有限的不可能来展示世界的无限。这正是正题与反题论证各自 purported 要做的。同样的策略也被部署在第二个二律背反中，其中正题立场的拥护者通过表明实体无限可分的不可能等来论证某个最终单纯实体之必要性。
+    step2: |-
+      康德如何证明这一点？正题与反题论证都是间接的——构成间接证明：间接证明通过表明其对立面的不可能确立结论。例如像在第一个二律背反中那样，我们可能想知道世界是有限还是无限；可以通过展示其无限的不可能试图表明它是有限的，或通过表明其有限的不可能展示世界的无限。这正是正题与反题论证各自 purported 要做的。同样的策略也被部署在第二个二律背反中——正题立场的拥护者通过表明实体无限可分的不可能等论证某个最终单纯实体的必要性。
   - id: 45
     kind: body
     source: |-
       Obviously, the success of the proofs depends on the legitimacy of the exclusive disjunction agreed to by both parties. Both parties, that is, assume that “there is a world,” and that it is, for example, “either finite or infinite.” Herein lies the problem, according to Kant. The world is, for Kant, neither finite nor infinite. The opposition between these two alternatives is merely dialectical. In the cosmological debates, each party to the dispute falls prey to the ambiguity in the idea of the world.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      显然，证明的成功依赖于双方同意的排他析取的合法性。也就是说，双方都假定“有一个世界”，而且它例如“要么有限要么无限”。照康德的看法，问题就在这里。对康德而言，世界既不有限也不无限。这两个选项之间的对立仅仅是辩证的。在宇宙论的论辩中，论争的每一方都落入世界理念的歧义。
+    step2: |-
+      显然，证明的成功依赖双方同意的排他析取的合法性：双方都假定“有一个世界”，且它例如“要么有限要么无限”。照康德的看法，问题就在这里——对康德而言，世界既不有限也不无限；这两个选项之间的对立仅仅是辩证的。在宇宙论的论辩中，每一方都落入世界理念的歧义。
   - id: 46
     kind: body
     source: |-
       Kant thus structures his analysis of the mathematical antinomies by appealing to the general dialectical syllogism presented at the end of section 4.0 (If the conditioned is given, the unconditioned is given, Objects of the senses are given as conditioned....etc.). Problems stem from the application of the principle expressed in the first premise to the objects of the senses (appearances). Here again, Kant diagnoses the error or fallacy contained in this syllogism as that of ambiguous middle. He claims that the major premise uses the term “the conditioned” transcendentally, as a pure concept, whereas the minor premise uses the term ‘empirically’ – that is as a “concept of the understanding applied to mere appearances” (cf. A499–500/B527–528). What Kant means is that the major premise uses the term “the conditioned” in a very general way, one that considers things in abstraction from the sensible conditions of our intuition. The minor premise, however, which specifically refers to objects in space and time (appearances), is committed to an empirical use of the term. Indeed, such an empirical use would have to be deployed, if the conclusion is to be reached. The conclusion is that the entire series of all conditions of appearances is actually given. Put in other terms, the conclusion is that there is a world, understood as the sum total of all appearances and their conditions (A420/B448).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德因此通过诉诸 4.0 节末尾提出的一般辩证三段论（如果被制约者被给予，不被制约者就被给予；感官的对象作为被制约的而被给予……等等）来构造他对数学二律背反的分析。问题出自把第一前提表达的原则应用于感官的对象（显象）。这里康德又把这一三段论中包含的错误或谬误诊断为歧义中项。他主张大前提“先验地”使用“被制约者”一词——作为纯粹概念——而小前提“经验地”使用它——即作为“应用于单纯显象的知性概念”（参 A499–500/B527–528）。康德的意思是：大前提以非常一般的方式使用“被制约者”——以一种把事物从我们直观的感性条件抽象出来的方式；而小前提——专门指涉空间与时间中的对象（显象）——承诺该词项的经验使用。的确，如果要达到结论，就必须部署这样的经验使用。结论是：显象的一切条件的整个序列实际上被给予。换一种说法，结论是：有一个世界，被理解为一切显象及其条件的总和（A420/B448）。
+    step2: |-
+      康德因此通过诉诸 4.0 节末尾提出的一般辩证三段论（如果被制约者被给予，不被制约者就被给予；感官的对象作为被制约的而被给予……等）构造他对数学二律背反的分析：问题出自把第一前提表达的原则应用于感官的对象（显象）。这里康德又把这一三段论中包含的错误或谬误诊断为歧义中项——他主张大前提“先验地”使用“被制约者”一词（作为纯粹概念），小前提“经验地”使用它（即作为“应用于单纯显象的知性概念”，参 A499–500/B527–528）。康德的意思是：大前提以非常一般的方式使用“被制约者”——把事物从我们直观的感性条件抽象出来；而小前提（专门指涉空间与时间中的对象即显象）承诺该词项的经验使用——的确若要达到结论就必须部署这样的经验使用。结论是：显象的一切条件的整个序列实际被给予；换一种说法，结论是有一个世界——被理解为一切显象及其条件的总和（A420/B448）。
   - id: 47
     kind: body
     source: |-
       ## 4.2 The Dynamical Antinomies
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4.2 动力学二律背反
+    step2: |-
+      ## 4.2 动力学二律背反
   - id: 48
     kind: body
     source: |-
       In the dynamical antinomies, Kant changes his strategy somewhat. Rather than arguing (as in the mathematical antinomies) that both conclusions are *false*, Kant suggests that both sides to the dispute might turn out to be correct. This option is available here, and not in the two mathematical antinomies, because the proponents of the thesis arguments are not committing themselves solely to claims about spatio-temporal objects. In the third antinomy, the thesis contends that in addition to mechanistic causality, we must posit some first uncaused causal power (Transcendental Freedom), while the antithesis denies anything but mechanistic causality. Here, then, the debate is the standard (though in this case, the specifically cosmological) dispute between freedom and determinism. Finally, in the fourth antinomy, the requirement for a necessary being is pitted against its opposite. The thesis position argues for a necessary being, whereas the antithesis denies that there is any such being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在动力学的二律背反中，康德 somewhat 改变了他的策略。他不是（如在数学二律背反中那样）论证两个结论都是*假的*，而是暗示论争的双方可能结果都是正确的。这一选项在这里可用，而在两个数学二律背反中不可用，因为正题论证的拥护者并未把自己完全限定在关于时空对象的主张上。在第三个二律背反中，正题主张：除机械因果性之外，我们必须设定某种最初的、不被引起的因果力（先验自由）；反题则否认除机械因果性之外的任何东西。于是这里的论争是自由与决定论之间的标准（在此情形中，具体是宇宙论的）论争。最后，在第四个二律背反中，必然存在者的要求与它的对立面相对立。正题立场论证必然存在者，而反题否认有任何这样的存在者。
+    step2: |-
+      在动力学的二律背反中，康德 somewhat 改变策略：他不是（如数学二律背反）论证两个结论都是*假的*，而是暗示论争双方可能结果都正确。这一选项在此可用、而在两个数学二律背反中不可用——因为正题论证的拥护者并未把自己完全限定在关于时空对象的主张上。第三个二律背反中，正题主张：除机械因果性外，必须设定某种最初的、不被引起的因果力（先验自由）；反题则否认除机械因果性之外的任何东西——这里的论争是自由与决定论之间的标准（在此具体是宇宙论的）论争。最后第四个二律背反中，必然存在者的要求与它的对立面相对立：正题立场论证必然存在者，反题否认有任何这样的存在者。
   - id: 49
     kind: body
     source: |-
       In both cases the thesis opts for a position that is abstracted from the spatio-temporal framework, and thus adopts the broadly Platonic view. The postulation of freedom amounts to the postulation of a non-temporal cause, a causality outside the series of appearances in space and time (A451/B479). Similarly, in its efforts to argue for a “necessary being,” reason is forced (against its own argument) into a non-sensible realm. If there is a necessary being, it will have to be “outside” the series of appearances: “Either, therefore, reason through its demand for the unconditioned must remain in conflict with itself, or this unconditioned must be posited outside the series, in the intelligible” (A564/B592). The rational necessity of postulating such a necessary being or a causality of freedom satisfies the rational demand for intelligible explanation. Against this, the antithesis rightly notes that the conception of transcendental freedom, or a necessary being, again represents an attempt to abstract from “nature’s own resources” (A451–2/B479–80). Insofar as the antithesis denies the justification for doing this, of course, it is said to adopt a broadly Epicurean standpoint. The problem here, however, is that in refusing to move beyond “nature’s own resources,” the antithesis surreptitiously smuggles in spatio-temporal conditions as the basis for a universal ontological claim that nevertheless transcends all experience. If space and time were things in themselves, then of course the application of the demand for this unconditioned would be warranted. Kant’s view, however, is that space and time are not conditions of things in themselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在两种情形中，正题都选择了从时空框架抽象出来的立场，从而采纳大体柏拉图式的观点。对自由的设定等于设定一个非时间性的原因、一种空间与时间中显象序列之外的因果性（A451/B479）。类似地，在其为“必然存在者”论证的努力中，理性被迫（与其自己的论证相反）进入非感性的领域。如果有必然存在者，它将必须“在外部”——显象的序列之外：“因此，或者理性因其对不被制约者的要求必须保持与自身的冲突，或者这一不被制约者必须被设定在序列之外，在理知之中”（A564/B592）。设定这样一个必然存在者或自由的因果性的理性必要性满足理性对理知解释的要求。与之相反，反题正确地指出：先验自由或必然存在者的构想 again 代表一种从“自然自身的资源”抽象的尝试（A451–2/B479–80）。既然反题否认这样做的正当性，它当然被说成采纳大体伊壁鸠鲁式的立场。然而这里的问题在于：在拒绝超越“自然自身的资源”时，反题偷偷地把时空条件塞入一个尽管超出一切经验却普遍成立的本体论主张的基础之中。如果空间与时间是物自体，那么对这一不被制约者的要求的适用当然有正当理由。康德的看法却是：空间与时间不是物自体的条件。
+    step2: |-
+      在两种情形中正题都选择了从时空框架抽象的立场——采纳大体柏拉图式的观点：对自由的设定等于设定非时间性的原因、空间与时间中显象序列之外的因果性（A451/B479）。类似地在其为“必然存在者”论证的努力中，理性被迫（与其自己的论证相反）进入非感性的领域：若有必然存在者，它必须“在外部”——显象的序列之外——“因此，或者理性因其对不被制约者的要求必须保持与自身的冲突，或者这一不被制约者必须被设定在序列之外，在理知之中”（A564/B592）。设定必然存在者或自由的因果性的理性必要性满足理性对理知解释的要求。与之相反，反题正确指出：先验自由或必然存在者的构想 again 代表从“自然自身的资源”抽象的尝试（A451–2/B479–80）——既然反题否认这样做的正当性，它当然被说成采纳大体伊壁鸠鲁式的立场。然而这里的问题在于：在拒绝超越“自然自身的资源”时，反题偷偷把时空条件塞入一个虽超出一切经验却普遍成立的本体论主张的基础之中——若空间与时间是物自体，对这一不被制约者的要求的适用当然有正当理由；康德的看法却是：空间与时间不是物自体的条件。
   - id: 50
     kind: body
     source: |-
       The resolution to these antinomies here consists in giving each side its due, but simultaneously limiting the domain over which the claims hold. The thesis demand for an absolute causal beginning or a necessary being might well be allowed to stand, but certainly not as “part of” or as an explication of appearances in nature. Similarly, the antithesis conclusions can stand, but only in relation to objects in nature, considered as appearances. Here, the conflict seems irresolvable only on the assumption that appearances are things in themselves. If appearances were things in themselves, for example, then it would certainly seem true that either they are one and all subject to mechanistic causality, or not. In such a case, it makes sense both to argue for a non-temporal beginning and to deny such a beginning. Left unresolved, then, this antinomy leaves us wit the following dilemma: on the assumption of transcendental realism, both nature and freedom seem to be undermined. To avoid this, Kant appeals to transcendental idealism, which is supposed to rescue reason from the conflict. Given transcendental idealism (with its distinction between appearances and things in themselves) it remains possible that in addition to the mechanism of nature, or contingent existence, there is an intelligible causal power, or a necessary being.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些二律背反的解决在于给每一方以应得的承认，同时限制主张成立的领域。正题对绝对因果开端或必然存在者的要求也许可以被允许成立，但当然不能作为自然中的显象的“一部分”或解释。类似地，反题的结论可以成立，但只对被作为显象考虑的自然中的对象成立。这里，冲突显得不可解决，只在假定显象是物自体时如此。例如，如果显象是物自体，那么确实似乎是真的：它们要么全体受机械因果性支配，要么不是。在那种情形下，论证非时间性的开端与否认这样的开端都有意义。不被解决，这一二律背反留下如下两难：在先验实在论的假定下，自然与自由似乎都被削弱。为避免这一点，康德诉诸先验观念论——据说它把理性从冲突中拯救出来。给定先验观念论（带着显象与物自体的区分），仍然可能的是：除自然的机械机制或偶然存在之外，还有一种理知的因果力或必然存在者。
+    step2: |-
+      这些二律背反的解决在于给每一方应得的承认，同时限制主张成立的领域：正题对绝对因果开端或必然存在者的要求也许可以被允许成立，但当然不能作为自然中显象的“一部分”或解释；类似地反题的结论可以成立——但只对被作为显象考虑的自然中的对象。这里冲突显得不可解决只在假定显象是物自体时如此：例如若显象是物自体，则确实似乎真——它们要么全体受机械因果性支配，要么不是；在那种情形下论证非时间性的开端与否认这样的开端都有意义。不被解决，这一二律背反留下如下两难：在先验实在论的假定下自然与自由似乎都被削弱。为避免这一点康德诉诸先验观念论（据说把理性从冲突中拯救出来）：给定先验观念论（带着显象与物自体的区分），仍可能的是：除自然的机械机制或偶然存在之外，还有理知的因果力或必然存在者。
   - id: 51
     kind: body
     source: |-
       Detailed discussions of Kant’s antinomies can be found in Al-Azm (1972), Bennett, (1974), Grier (2001, 2006, forthcoming), Guyer (1987), Heimsoeth (1967), Strawson (1966), Thiel (2006), Watkins (1998, 2000), Van Cleve (1984). See also Allison (1983), and Walsh (1975). See also Bird (2006), Wood (2010), Wuerth (2021), Willaschek (2018).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德二律背反的详细讨论可见 Al-Azm (1972), Bennett, (1974), Grier (2001, 2006, forthcoming), Guyer (1987), Heimsoeth (1967), Strawson (1966), Thiel (2006), Watkins (1998, 2000), Van Cleve (1984)。另见 Allison (1983) 与 Walsh (1975)。另见 Bird (2006), Wood (2010), Wuerth (2021), Willaschek (2018)。
+    step2: |-
+      康德二律背反的详细讨论可见 Al-Azm (1972), Bennett, (1974), Grier (2001, 2006, forthcoming), Guyer (1987), Heimsoeth (1967), Strawson (1966), Thiel (2006), Watkins (1998, 2000), Van Cleve (1984)；另见 Allison (1983) 与 Walsh (1975)、Bird (2006), Wood (2010), Wuerth (2021), Willaschek (2018)。
   - id: 52
     kind: body
     source: |-
       ## 5. God and Rational Theology
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 上帝与理性神学
+    step2: |-
+      ## 5 上帝与理性神学
   - id: 53
     kind: body
     source: |-
       The metaphysical drive, and the demand for the unconditioned, seem to find their natural resting place in the idea of God, an absolutely necessary and supremely real being, the concept of which “contains a therefore for every wherefore” (A585/B613). It is here, in the concept of God, that the demands for systematic unity and completeness of knowledge find their “objective correlate.” Kant refers to this idea as an Ideal, suggesting it defines itself as a “concept of an individual object which is completely determined through the mere idea” (A574/B602). The Ideal represents the highest singular manifestation of reason’s demand for the unconditioned.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      形而上学的动力与对不被制约者的要求，似乎在上帝的理念中找到了它们的自然安息之地——一个绝对必然且最高实在的存在者，其概念“为每一个所以然包含一个所以然的理由”（A585/B613）。正是在上帝的概念中，对知识之系统统一与完备性的要求找到它们的“客观对应物”。康德把这一理念称为一个理念（Ideal），暗示它把自己定义为“一个仅通过理念就被完全规定的个别对象的概念”（A574/B602）。理念代表理性对不被制约者的要求的最高单一显现。
+    step2: |-
+      形而上学的动力与对不被制约者的要求，似乎在上帝的理念中找到其自然安息之地——一个绝对必然且最高实在的存在者，其概念“为每一个所以然包含一个所以然的理由”（A585/B613）。正是在上帝的概念中，对知识之系统统一与完备性的要求找到其“客观对应物”。康德把这一理念称为一个理念（Ideal）——暗示它把自己定义为“一个仅通过理念就被完全规定的个别对象的概念”（A574/B602）。理念代表理性对不被制约者的要求的最高单一显现。
   - id: 54
     kind: body
     source: |-
       The last area of metaphysics under attack, then, is Rational Theology. Kant’s criticism of rational theology is complicated by his desire to elucidate the *sources* of the dialectical errors, which he will expose in relation to the specific arguments for God’s existence. (“…Merely to describe the procedure of our reason and its dialectic does not suffice; we must also endeavor to discover the sources of this dialectic, that we may explain…the illusion to which it has given rise” (A581/B607).) Kant thus spends a considerable amount of time tracing the idea of God back to its rational, speculative, sources. According to Kant, “….the Ideal …is based on a natural, not a merely arbitrary idea” (A581/B607). On this score, Kant wants to tell us that we are compelled to think the idea of God (the *ens realissimum*) when pursuing certain speculative or philosophical interests. More specifically, the idea of a supremely real being (the *ens realissimum*) is one to which we are inevitably led during our attempts to account for the pure possibility of things in general. The upshot that the idea of the *ens realissimum* is not an arbitrary or easily dispensable one. Instead, Kant suggests that reason is philosophically constrained to move to such an idea in its efforts to thoroughly determine every thing. Such efforts require thinking the totality, or “All” of reality (the *omnitudo realitatis*). Such an idea is philosophically required because, in our efforts to thoroughly determine each thing (to know it completely, specify it exhaustively), we must be able to say, of every possible predicate and its contradictory (*p* v ˜*p*) which of the two holds of the thing in question. (For every object, it is either *A* or not *A*, either *B* or not *B*, etc., and this process is iterated until each predicate pair (each positive reality) is exhausted — Kant clearly has a Leibnizian procedure of complete determination in mind here.) This process is parasitic upon the idea of “sum total of all predicates of things in general.” Or, put in another way, we represent “every thing as deriving its own possibility from the share it has in the whole of possibility” (A572/B600). Such an idea, the All of reality, however, defines itself as an individual thing, and leads us to the representation of the “supremely real being.” The problem seems to come in, according to Kant, when the “All” of reality gets hypostatized, and (eventually) personified, thus yielding the *ens realissimum* (cf. A583/B611n). Here again, Kant thinks that this idea itself gets transmuted into the notion of a given object by virtue of a unique subreption, whereby we dialectically substitute for a principle that is only meant for empirical employment one which holds of things in general. The argument Kant offers is excruciating, but the essential point is that, just as the idea of the soul involved the subreption of the hypostatized consciousness, so too, the idea of the *ens realissimum* is generated by both a subrepted principle and a hypostatization.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      受攻击的形而上学的最后一个领域因此是理性神学。康德对理性神学的批评，因他希望阐明他将在上帝存在的具体论证中暴露的辩证错误的*源泉*而复杂化。（“……仅仅描述我们理性的程序及其辩证法并不足够；我们还必须努力发现这一辩证法的源泉，以便我们可以解释……它所引起的幻象”（A581/B607）。）于是康德花相当多的时间把上帝的理念追溯到其理性的、思辨的源泉。照康德的看法，“……理念……基于一个自然的而非仅仅任意的理念”（A581/B607）。在这一方面，康德想告诉我们：在追求某些思辨或哲学兴趣时，我们被迫思考上帝的理念（*ens realissimum*）。更具体地说，最高实在存在者（*ens realissimum*）的理念是我们在试图说明一般事物的纯粹可能性时不可避免地被引向的理念。其结果是：*ens realissimum* 的理念不是一个任意的或容易放弃的理念。毋宁说，康德暗示：理性在其彻底规定每一个事物的努力中在哲学上被迫走向这样的理念。这样的努力要求思考实在的总体或“全部”（*omnitudo realitatis*）。这样一个理念在哲学上被要求，因为在我们彻底规定每一个事物（完全地认识它、穷尽地规定它）的努力中，我们必须能够对每一个可能的谓词及其矛盾（*p* v ˜*p*）说出两者中哪一个适用于所论的事物。（对每一个对象，要么是 *A* 要么不是 *A*，要么是 *B* 要么不是 *B*，等等，这一过程被迭代直至每一对谓词（每一个肯定的实在）被穷尽——康德这里清楚地心中有一个莱布尼茨式的完全规定的程序。）这一过程寄生于“一般事物的全部谓词之总和”的理念。或者换一种说法，我们把“每一个事物表象为从它对可能性的整体所拥有的份额中获得其自身的可能性”（A572/B600）。这样一个理念——实在的全部——却把自己定义为一个个别的东西，把我们引向“最高实在存在者”的表象。照康德的看法，问题似乎出现在实在的“全部”被实体化并（最终）被人格化之时，由此产出 *ens realissimum*（参 A583/B611n）。这里 again，康德认为这一理念本身被变形为一个给定对象的观念，凭借一种独特的僭越——我们在其中 dialectically 地以一个只意在经验使用的原则替换一个对一般事物成立的原则。康德给出的论证令人痛苦，但要点是：正如灵魂的理念涉及实体化的意识的僭越，*ens realissimum* 的理念也是由一个被僭越的原则与一次实体化生成的。
+    step2: |-
+      受攻击的形而上学的最后一个领域因此是理性神学。康德对理性神学的批评，因他希望阐明他将在上帝存在的具体论证中暴露的辩证错误的*源泉*而复杂化（“……仅仅描述我们理性的程序及其辩证法并不足够；我们还必须努力发现这一辩证法的源泉，以便我们可以解释……它所引起的幻象”，A581/B607）。于是康德花相当多时间把上帝的理念追溯到其理性的、思辨的源泉：照康德，“……理念……基于一个自然的而非仅仅任意的理念”（A581/B607）。在这一方面康德想告诉我们：在追求某些思辨或哲学兴趣时，我们被迫思考上帝的理念（*ens realissimum*）。更具体地说，最高实在存在者（*ens realissimum*）的理念是我们在试图说明一般事物的纯粹可能性时不可避免被引向的理念。其结果是：*ens realissimum* 的理念不是任意的或容易放弃的。毋宁说，康德暗示理性在其彻底规定每一个事物的努力中在哲学上被迫走向这样的理念——这样的努力要求思考实在的总体或“全部”（*omnitudo realitatis*）。这一理念在哲学上被要求：在我们彻底规定每一个事物（完全地认识、穷尽地规定它）的努力中，必须能对每一个可能的谓词及其矛盾（*p* v ˜*p*）说出两者中哪一个适用于所论的事物（对每一个对象，要么 *A* 要么非 *A*，要么 *B* 要么非 *B*，等——这一过程被迭代直至每一对谓词（每个肯定的实在）被穷尽——康德这里清楚地心中有一个莱布尼茨式的完全规定的程序）。这一过程寄生于“一般事物的全部谓词之总和”的理念；或换一种说法，我们把“每一个事物表象为从它对可能性的整体所拥有的份额中获得其自身的可能性”（A572/B600）。这样一个理念（实在的全部）却把自己定义为个别的东西，把我们引向“最高实在存在者”的表象。照康德的看法，问题似乎出现在实在的“全部”被实体化并（最终）被人格化之时——由此产出 *ens realissimum*（参 A583/B611n）。这里 again，康德认为这一理念本身被变形为一个给定对象的观念，凭借一种独特的僭越——我们在其中 dialectically 地以一个只意在经验使用的原则替换一个对一般事物成立的原则。康德给出的论证令人痛苦，但要点是：正如灵魂的理念涉及实体化的意识的僭越，*ens realissimum* 的理念也是由被僭越的原则与实体化生成的。
   - id: 55
     kind: body
     source: |-
       As in the cases of both rational psychology and rational cosmology, then, one central problem thus has to do with the assumption that pure (speculative) reason yields any access to a transcendent object (in this case, God) about which it is entitled to seek *a priori* knowledge. Despite his insistence that the idea of God is indispensable and “inescapable” (cf. A584/B612), Kant again denies that we can acquire any theoretical knowledge of the alleged “object” thought through such an idea. On the one hand, then, the idea of God is “the crown of our endeavors.” On the other, as in the cases of both rational psychology and cosmology, the idea answers to no given and theoretically knowable object (A339/B397). Indeed, according to Kant, the idea of God should not lead us to “presuppose the existence of a being that corresponds to this ideal, but only the idea of such a being, and this only for the purpose of deriving from an unconditioned totality of complete determination the conditioned totality. i.e., the limited…” (A578/B606). As in the other disciplines of metaphysics, Kant suggests that we are motivated (perhaps even constrained) to represent the idea as a real object, to hypostatize it, in accordance the demand for the unconditioned:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如在理性心理学与理性宇宙论的情形中一样，一个核心问题与如下假定有关：纯粹（思辨）理性产生通达某个超验对象（在此即上帝）的任何通路——理性有权从中寻求*先天*知识。尽管康德坚持上帝的理念不可或缺且“不可逃避”（参 A584/B612），他 again 否认我们能够获取关于通过这样的理念所思想的所谓“对象”的任何理论知识。一方面，上帝的理念是“我们努力的冠冕”。另一方面，与理性心理学和宇宙论的情形一样，理念不对应任何被给予的、理论上可知的对象（A339/B397）。的确，照康德的看法，上帝的理念不应引导我们“预设一个与这一理念相对应的存在者的存在，而只是这样一个存在者的理念，且仅为了从一个不被制约的完全规定的总体中导出被制约的总体，即有限的……”（A578/B606）。与形而上学的其他学科一样，康德暗示我们被推动（甚至被约束）把理念表象为一个实在的对象、实体化它——依照对不被制约者的要求：
+    step2: |-
+      正如在理性心理学与理性宇宙论的情形中一样，一个核心问题与如下假定有关：纯粹（思辨）理性产生通达某个超验对象（在此即上帝）的任何通路——理性有权从中寻求*先天*知识。尽管康德坚持上帝的理念不可或缺且“不可逃避”（参 A584/B612），他 again 否认我们能够获取关于通过这样的理念所思想的所谓“对象”的任何理论知识：一方面上帝的理念是“我们努力的冠冕”；另一方面与理性心理学和宇宙论的情形一样，理念不对应任何被给予的、理论上可知的对象（A339/B397）。的确照康德，上帝的理念不应引导我们“预设一个与这一理念相对应的存在者的存在，而只是这样一个存在者的理念，且仅为了从一个不被制约的完全规定的总体中导出被制约的总体，即有限的……”（A578/B606）。与形而上学的其他学科一样，康德暗示我们被推动（甚至被约束）把理念表象为实在的对象、实体化它——依照对不被制约者的要求：
   - id: 56
     kind: body
     source: |-
       > Notwithstanding this pressing need of reason to presuppose something that may afford the understanding a sufficient foundation for the complete determination of its concepts, it is yet too easily conscious of the ideal and merely fictitious character of such a presuppostion to allow itself, on this ground alone, to be persuaded that a mere creature of its own thought is a real being — were it not that it is impelled from another direction to seek a resting place in the regress from the conditioned, which is given, to the unconditioned (A584/B612)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 尽管理性有这样迫切的需要——预设某个可以为知性提供充分基础以完全规定其概念的东西——它仍然太容易意识到这样一个预设的理念性与单纯虚构的性格，以至于不会仅凭这一理由就让自己被说服：自己思想的单纯造物是一个实在的存在者——若不是它从另一个方向被推动，在被给予的被制约者向不被制约者的回溯中寻求一个安息之地（A584/B612）。
+    step2: |-
+      > 尽管理性有这样迫切的需要——预设某个可以为知性提供充分基础以完全规定其概念的东西——它仍然太容易意识到这样一个预设的理念性与单纯虚构的性格，以至于不会仅凭这一理由就让自己被说服：自己思想的单纯造物是一个实在的存在者——若不是它从另一个方向被推动，在被给予的被制约者向不被制约者的回溯中寻求一个安息之地（A584/B612）。
   - id: 57
     kind: body
     source: |-
       This demand for the unconditioned, according to Kant, links up with a demand for some ultimately necessary being. Reason, that is, ceaselessly demands the ground of all the contingent beings in existence, and will not rest until it settles on the absolutely necessary being which grounds them. The idea of the *ens realissimum* plays a singular role in satisfying this desire of reason, for of all concepts, it is that “which best squares with the concept of an unconditionally necessary being” (A586/B614). In fact, according to Kant rational theology is based on the coincidence of the rational demands for a supremely real being and for a being with absolutely necessary existence. If the movement to the idea of God, as the unconditioned ground, is inevitable, it is nevertheless as troublesome as the other rational ideas:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照康德的看法，对不被制约者的这一要求，与对某个最终必然存在者的要求相衔接。也就是说，理性不停地要求一切现存偶然存在的根据，并且在 settle 于奠定它们的绝对必然存在者之前不会停止。*ens realissimum* 的理念在满足理性的这一欲望中扮演独特的角色，因为在一切概念中，它是“与无条件必然存在者的概念最相符合的”（A586/B614）。事实上，照康德的看法，理性神学基于对最高实在存在者的理性要求与对绝对必然存在的存在者的要求的重合。如果走向作为不被制约根据的上帝之理念的运动不可避免，它仍然与其他理性的理念一样麻烦：
+    step2: |-
+      照康德的看法，对不被制约者的这一要求与对某个最终必然存在者的要求相衔接：理性不停地要求一切现存偶然存在的根据，并在 settle 于奠定它们的绝对必然存在者之前不会停止。*ens realissimum* 的理念在满足理性的这一欲望中扮演独特角色——在一切概念中，它是“与无条件必然存在者的概念最相符合的”（A586/B614）。事实上照康德，理性神学基于对最高实在存在者的理性要求与对绝对必然存在的存在者的要求的重合。若走向作为不被制约根据的上帝理念的运动不可避免，它仍与其他理性的理念一样麻烦：
   - id: 58
     kind: body
     source: |-
       > This unconditioned is not, indeed, given as being in itself real, nor as having a reality that follows from its mere concept; it is, however, what alone can complete the series of conditions when we proceed to trace these conditions to their grounds. This is the course which our human reason, by its very nature, leads all of us (A584/B612; cf. A584/B612n).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这一不被制约者确实不是作为在自身中实在的而被给予，也不是作为从其单纯概念 follows 的实在而被给予；然而，当我们继续把这些条件追溯到其根据时，它是唯一能够完成条件序列的东西。这正是我们人类理性按其本性把我们所有人引上的道路（A584/B612；参 A584/B612n）。
+    step2: |-
+      > 这一不被制约者确实不是作为在自身中实在的而被给予，也不是作为从其单纯概念 follows 的实在而被给予；然而当我们继续把这些条件追溯到其根据时，它是唯一能够完成条件序列的东西。这正是我们人类理性按其本性把我们所有人引上的道路（A584/B612；参 A584/B612n）。
   - id: 59
     kind: body
     source: |-
       Thus, although Kant is most well known for his attacks on the specific arguments for God’s existence, his criticisms of rational theology are in fact more detailed, and involve a robust critique of the idea of God itself. This account of the rational origin and the importance of the idea of God clears the way for Kant’s rejection of the metaphysical arguments about God’s existence. Kant identifies three traditional arguments, the ontological, the cosmological, and the physico-theological (the argument from design). What all such arguments do is attempt to wed the idea of the *ens realissimum* with the notion of necessary existence. Whereas the Ontological argument moves *from* the concept of the *ens realissimum* *to* the claim that such a being exists necessarily, the Cosmological and physico-theological arguments move from some *necessary being* to the conclusion that such a being must be the *ens realissimum*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，尽管康德以他对上帝存在的具体论证的攻击最为知名，他对理性神学的批评事实上更为详细，涉及对上帝理念本身的 深刻的批评。关于上帝理念的理性起源与重要性的这一说明，为康德拒斥关于上帝存在的形而上学论证清除了道路。康德确认三个传统论证：本体论的、宇宙论的与自然神学的（设计论证）。所有这类论证所做的，是试图把 *ens realissimum* 的理念与必然存在的概念结合起来。本体论论证*从* *ens realissimum* 的概念出发*走向*这样一个存在者必然存在的主张，而宇宙论的与自然神学的论证从某个*必然存在者*出发走向这样的存在者必是 *ens realissimum* 的结论。
+    step2: |-
+      因此尽管康德以他对上帝存在具体论证的攻击最为知名，他对理性神学的批评实际更为详细——涉及对上帝理念本身的 深刻的批评。关于上帝理念的理性起源与重要性的说明，为康德拒斥关于上帝存在的形而上学论证清除了道路：康德确认三个传统论证——本体论的、宇宙论的与自然神学的（设计论证）。所有这类论证所做的，是试图把 *ens realissimum* 的理念与必然存在的概念结合：本体论论证*从* *ens realissimum* 的概念出发*走向*这样的存在者必然存在的主张，而宇宙论的与自然神学的论证从某个*必然存在者*出发走向这样的存在者必是 *ens realissimum* 的结论。
   - id: 60
     kind: body
     source: |-
       ### 5.1 The Ontological Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 本体论论证
+    step2: |-
+      ### 5.1 本体论论证
   - id: 61
     kind: body
     source: |-
       Kant’s formulation of the ontological argument is fairly straightforward, and may be summarized as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对本体论论证的表述相当直截了当，可以总结如下：
+    step2: |-
+      康德对本体论论证的表述相当直截了当，可总结如下：
   - id: 62
     kind: body
     source: |-
       1. God, the *ens realissimum*, is the concept of a being that contains all reality/predicates.
       2. Existence is a reality/predicate.
       3. Therefore God exists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 上帝，即 *ens realissimum*，是包含一切实在/谓词的存在者的概念。
+      2. 存在是一个实在/谓词。
+      3. 所以上帝存在。
+    step2: |-
+      1. 上帝，即 *ens realissimum*，是包含一切实在/谓词的存在者的概念。
+      2. 存在是一个实在/谓词。
+      3. 所以上帝存在。
   - id: 63
     kind: body
     source: |-
       Kant’s identification of the errors involved in this argument are so varied that it seems surprising that he is so often simply said to have argued against the use of “existence” as a predicate. His first complaint is that it is “contradictory” insofar as it introduces “existence” into the “concept of a thing which we profess to be thinking solely in reference to its possibility” (A597/B625). This suggests that he thinks that in taking “all reality” to mean or include “existence,” the rational theologist begs the question, and already posits the analytic connection between the concept of the *ens realissimum* and necessary existence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对这一论证所涉错误的辨识如此多样，以至于人们会惊讶他竟如此经常地被简单地说成论证了反对把“存在”用作谓词。他的第一个抱怨是，这样做“是矛盾的”，因为它把“存在”引入“我们宣称仅仅参照其可能性来思考的物的概念”（A597/B625）。这暗示他认为：把“一切实在”当作包含“存在”，理性神学家窃取了论题，已经设定了 *ens realissimum* 的概念与必然存在之间的分析联结。
+    step2: |-
+      康德对这一论证所涉错误的辨识如此多样，以至人们会惊讶他竟如此经常地被简单地说成论证了反对把“存在”用作谓词。他的第一个抱怨是：这样做“是矛盾的”——因为它把“存在”引入“我们宣称仅参照其可能性来思考的物的概念”（A597/B625）。这暗示他认为：把“一切实在”当作包含“存在”，理性神学家窃取论题，已设定 *ens realissimum* 的概念与必然存在之间的分析联结。
   - id: 64
     kind: body
     source: |-
       At the heart of this complaint is a more general one, to wit, that there is a problem with the attempt to infer *anything* as necessarily existing. Although, according to Kant, reason is unavoidably led to the notion of an absolutely necessary being, the understanding is in no position to identify any candidate answering to the idea. (cf. A592/B620). Clearly, the ontological argument is designed to show that, in fact, there *is* one (and only one) candidate answering to this idea, namely, the *ens realissimum*. But it does so by deducing the necessary existence from the concept of the *ens realissimum* (a being that contains all reality or predicates) only via the minor premise that “existence” is a predicate or reality. Kant, however, famously denies that existence is a “real predicate,” or determination. Thus, one criticism is that the argument conflates merely logical with real (determining) predicates. A real (determining) predicate is one that enlarges the concept to which it is attached. It seems clear that the locus of the error here, as in the other metaphysical disciplines, is the view that the idea of the *ens realissimum* provides us with a concept of an “object” to which it would be appropriate to apply categories or concepts in a determining way. Thus, included in Kant’s criticism is the claim that the category of existence is being subject to a transcendental misemployment (A598/B626). This misapplication of the category is problematic precisely because, according to Kant, we are dealing only with an object of pure thought, whose existence cannot be known (A602/B630).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一抱怨的核心是一个更一般的抱怨：从*任何*东西推断出必然存在问题。虽然照康德的看法理性不可避免地被引向绝对必然存在者的观念，知性却无法确认任何回答这一理念的候选者（参 A592/B620）。显然，本体论论证旨在表明事实上*有*一个（且只有一个）回答这一理念的候选者，即 *ens realissimum*。但它这样做是通过从 *ens realissimum*（一个包含一切实在或谓词的存在者）的概念演绎必然存在——仅经由“存在”是谓词或实在这一小前提。然而，康德著名地否认存在是“实在的谓词”或规定。因此一个批评是：该论证混淆了单纯的逻辑谓词与实在的（规定的）谓词。实在的（规定的）谓词是扩展它所附属的概念的那个东西。似乎清楚的是，这里错误的所在——如同在其他形而上学学科中——是 *ens realissimum* 的理念为我们提供了一个“对象”的概念、可以适当的方式对之应用范畴或概念以作规定。这样，康德批评中包含的主张是：存在的范畴正遭受先验误用（A598/B626）。这一范畴的误用之所以成问题，恰恰因为照康德的看法，我们处理的只是一个纯粹思想的对象——其存在无法被认识（A602/B630）。
+    step2: |-
+      这一抱怨的核心是一个更一般的抱怨：从*任何*东西推断出必然存在问题。虽然照康德理性不可避免地被引向绝对必然存在者的观念，知性却无法确认任何回答这一理念的候选者（参 A592/B620）。显然本体论论证旨在表明事实上*有*一个（且只有一个）回答这一理念的候选者——即 *ens realissimum*；但它这样做是通过从 *ens realissimum*（包含一切实在或谓词的存在者）的概念演绎必然存在——仅经由“存在”是谓词或实在这一小前提。然而康德著名地否认存在是“实在的谓词”或规定：因此一个批评是该论证混淆单纯的逻辑谓词与实在的（规定的）谓词——实在的（规定的）谓词是扩展它所附属的概念的那个东西。似乎清楚的是这里错误的所在（如同在其他形而上学学科中）是 *ens realissimum* 的理念为我们提供了“对象”的概念——可以适当方式对之应用范畴或概念以作规定。这样康德批评中包含的主张是：存在的范畴正遭受先验误用（A598/B626）——这一范畴的误用之所以成问题，恰因照康德我们处理的只是纯粹思想的对象，其存在无法被认识（A602/B630）。
   - id: 65
     kind: body
     source: |-
       ### 5.2 The Other Proofs
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 其他证明
+    step2: |-
+      ### 5.2 其他证明
   - id: 66
     kind: body
     source: |-
       If the ontological argument seeks to move from the concept of the *ens realissimum* to the concept of an absolutely necessary being, both the cosmological and physicotheological proofs move in the opposite direction. Each, that is, argues that there is something that must exist with absolute necessity and concludes that this being is the *ens realissimum*. Because these proofs aim to identify the *ens realissimum* with the necessary being, and because the attempt to do this requires an *a priori* argument (it cannot be demonstrated empirically), Kant thinks that they are both (ultimately) vitiated by their reliance on the ontological proof. More specifically, they are both mitigated by their assumption that the *ens realissimum* is the only object or candidate that can do the job of existing necessarily. Since he thinks that the ontological argument is in some sense implicitly relied upon in making such a claim, these arguments stand or fall with it. On Kant’s view, as we shall see, they fall.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果本体论论证试图从 *ens realissimum* 的概念走向绝对必然存在者的概念，那么宇宙论的与自然神学的证明则朝相反的方向运动。每一个论证，即，论证有某物必须以绝对必然性存在，并得出结论：这一存在者是 *ens realissimum*。因为这些证明旨在把 *ens realissimum* 与必然存在者等同起来，而这样做的尝试需要一个*先天的*论证（它不可能被经验地证明），康德认为它们都（最终）因依赖本体论证明而受损。更具体地说，它们都因假定 *ens realissimum* 是唯一能够承担必然存在之职的对象或候选者而减轻。既然他认为本体论论证在某种意义上被隐含地依赖以做出这样的主张，这些论证随它而存亡。照康德的观点，我们将看到：它们失败了。
+    step2: |-
+      若本体论论证试图从 *ens realissimum* 的概念走向绝对必然存在者的概念，则宇宙论的与自然神学的证明朝相反方向运动：每一个论证——即——论证有某物必须以绝对必然性存在，并得出结论：这一存在者是 *ens realissimum*。因为这些证明旨在把 *ens realissimum* 与必然存在者等同，而这样做的尝试需要*先天的*论证（不可能经验地证明），康德认为它们都（最终）因依赖本体论证明而受损。更具体地说它们都因假定 *ens realissimum* 是唯一能够承担必然存在之职的对象或候选者而减轻；既然他认为本体论论证在某种意义上被隐含依赖以做出这样的主张，这些论证随它而存亡。照康德的观点，我们将看到：它们失败了。
   - id: 67
     kind: body
     source: |-
       The *cosmological proof* has, according to Kant, two parts. As above, the proponent of the argument first seeks to demonstrate the existence of an absolutely necessary being. Second, the rational cosmologist seeks to show that this absolutely necessary being is the *ens realissimum*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照康德的看法，*宇宙论的证明*有两个部分。如上所述，论证的拥护者首先试图证明绝对必然存在者的存在。其次，理性宇宙论者试图表明这一绝对必然存在者是 *ens realissimum*。
+    step2: |-
+      照康德的看法，*宇宙论的证明*有两个部分：如上所述，论证的拥护者首先试图证明绝对必然存在者的存在；其次理性宇宙论者试图表明这一绝对必然存在者是 *ens realissimum*。
   - id: 68
     kind: body
     source: |-
       As Kant formulates it, the cosmological argument is as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      照康德的表述，宇宙论论证如下：
+    step2: |-
+      照康德的表述，宇宙论论证如下：
   - id: 69
     kind: body
     source: |-
@@ -433,97 +583,141 @@ segments:
       > I myself, at least, exist.
       >
       > Therefore an absolutely necessary being exists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果某物存在，那么绝对必然的存在者也必定存在。
+      >
+      > 我自己至少存在。
+      >
+      > 所以绝对必然的存在者存在。
+    step2: |-
+      > 如果某物存在，那么绝对必然的存在者也必定存在。
+      >
+      > 我自己至少存在。
+      >
+      > 所以绝对必然的存在者存在。
   - id: 70
     kind: body
     source: |-
       As above, the theist will ultimately want to identify this necessary being with the *ens realissimum*, an identification which Kant thinks surreptitiously smuggles in the (dialectical) ontological argument. The claim here is that the proponent of the cosmological argument is committed ultimately to accepting the ontological argument, given her attempt to identify the necessary being with the *ens realissimum*. Although this suggests that the cosmological argument relies on the ontological, Kant also indicates that the effort to produce a purely *a priori* argument for God’s existence (the ontological argument) itself gets momentum from reason’s need to find the necessary ground for existence in general, a need expressed in the cosmological argument (cf. A603–04/B631–32). This suggests that Kant takes the ontological and cosmological arguments to be complementary expressions of the one underlying rational demand for the unconditioned.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如上所述，有神论者最终将想把这个必然存在者与 *ens realissimum* 等同起来——康德认为这一等同偷偷地塞入了（辩证的）本体论论证。这里的主张是：宇宙论论证的拥护者最终被承诺接受本体论论证——鉴于她试图把必然存在者与 *ens realissimum* 等同。虽然这暗示宇宙论论证依赖本体论论证，康德也表明：产出上帝存在的纯粹*先天*论证（本体论论证）的努力本身从理性寻找一般存在的必然根据的需要中获得动力——这一需要表达在宇宙论论证中（参 A603–04/B631–32）。这暗示康德把本体论论证与宇宙论论证当作对不被制约者的同一个底层理性要求的互补表达。
+    step2: |-
+      如上所述，有神论者最终将想把这个必然存在者与 *ens realissimum* 等同——康德认为这一等同偷偷塞入（辩证的）本体论论证：这里的主张是宇宙论论证的拥护者最终被承诺接受本体论论证（鉴于她试图把必然存在者与 *ens realissimum* 等同）。虽然这暗示宇宙论论证依赖本体论论证，康德也表明：产出上帝存在的纯粹*先天*论证（本体论论证）的努力本身从理性寻找一般存在的必然根据的需要中获得动力——这一需要表达在宇宙论论证中（参 A603–04/B631–32）。这暗示康德把本体论与宇宙论论证当作对不被制约者的同一个底层理性要求的互补表达。
   - id: 71
     kind: body
     source: |-
       Even aside from its alleged commitment to the ontological argument, Kant has a number of complaints about the cosmological argument. Indeed, according to Kant, the cosmological argument is characterized by an “entire nest of dialectical presumptions” which must be illuminated and “destroyed” (A609/B637). These dialectical presumptions include the attempt to infer from the contingent (within experience) to some cause lying outside the world of sense altogether, an effort involving a transcendental misapplication of the categories. It also includes, Kant claims, the dialectical effort to infer from the *conceptual* impossibility of an infinite series of causes to some *actual* first cause outside of sense. Such efforts involve a “false self-satisfaction” according to which reason feels itself to have finally landed on a truly necessary being. Unfortunately, according to Kant, this is only achieved by conflating the merely *logical possibility* of a *concept* (that it is not self-contradictory) with the *transcendental* (real) possibility of a *thing*. In short, the cosmological argument gets its momentum by confusing rational or subjective necessities with real or objective ones, and thus involves transcendental illusion (cf. A605/B633).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      即使撇开其对本体论论证的所谓承诺，康德对宇宙论论证有若干抱怨。的确，照康德的看法，宇宙论论证以“一整窝辩证的预设”为特征——这些预设必须被阐明并“摧毁”（A609/B637）。这些辩证的预设包括：从（经验内的）偶然的东西推断出完全位于感官世界之外的某个原因的努力——一个涉及范畴的先验误用的努力。它还包括康德声称的辩证的努力：从原因的无限序列的*概念*不可能性推断出感官之外的某个*实际的*第一原因。这样的努力涉及一种“错误的自我满足”——理性感到自己终于落到一个真正必然的存在者上。不幸的是，照康德的看法，这只通过把一个*概念*的单纯*逻辑可能性*（它不自相矛盾）与一个*事物*的*先验*（实在）可能性相混淆才达成。简言之，宇宙论论证通过混淆理性的或主观的必然性与实在的或客观的必然性而获得动力，因此涉及先验幻象（参 A605/B633）。
+    step2: |-
+      即使撇开其对本体论论证的所谓承诺，康德对宇宙论论证有若干抱怨：的确照康德，宇宙论论证以“一整窝辩证的预设”为特征——这些预设必须被阐明并“摧毁”（A609/B637）。这些辩证的预设包括：从（经验内的）偶然的东西推断出完全位于感官世界之外的某个原因的努力——涉及范畴的先验误用；还包括康德声称的辩证努力：从原因的无限序列的*概念*不可能性推断出感官之外的某个*实际的*第一原因。这样的努力涉及一种“错误的自我满足”——理性感到自己终于落到真正必然的存在者上。不幸的是照康德，这只通过把一个*概念*的单纯*逻辑可能性*（不自相矛盾）与一个*事物*的*先验*（实在）可能性相混淆才达成。简言之，宇宙论论证通过混淆理性的或主观的必然性与实在的或客观的必然性而获得动力——因此涉及先验幻象（参 A605/B633）。
   - id: 72
     kind: body
     source: |-
       We come finally to the *physicotheological proof*, which argues from the particular constitution of the world, specifically its beauty, order, and purposiveness, to the necessary existence of an intelligent cause (God). Such an argument goes beyond the cosmological one by moving not from *existence in general* but from some *determinate experience* in order to demonstrate the existence of God (A621/B649). Although this might seem to be a strength, this strategy is doomed to fail, according to Kant. No experience could ever be adequate to the idea of a necessary, original being: “The transcendental idea of a necessary all-sufficient original being is so overwhelmingly great, so sublimely high above everything empirical, which is at all times conditioned, that partly one can never even procure enough material in experience to fill such a concept, and partly if one searches for the unconditioned among conditioned things, then one will seek forever and always in vain” (A621/B649).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们最后来到*自然神学的证明*，它从世界的特殊构成——特别是美、秩序与合目的性——论证一个理智原因（上帝）的必然存在。这样的论证超出宇宙论论证，因为它不是从*一般的存在*而是从某种*确定的体验*出发来证明上帝的存在（A621/B649）。虽然这看似是一个优点，照康德的看法这一策略注定失败。没有任何经验能够充分满足一个必然的、原初存在者的理念：“一个必然的、自我充足的原始存在者的先验理念是如此压倒性地伟大、如此崇高地高出一切经验性的东西——后者在任何时候都是被制约的——以至于一部分人们永远无法在经验中获得足够的材料来填满这样的概念，一部分人们如果在被制约的事物中寻找不被制约者，就会永远且徒劳地寻找”（A621/B649）。
+    step2: |-
+      我们最后来到*自然神学的证明*——它从世界的特殊构成（特别是美、秩序与合目的性）论证理智原因（上帝）的必然存在。这样的论证超出宇宙论论证：它不是从*一般的存在*而是从某种*确定的体验*出发证明上帝的存在（A621/B649）。虽然这看似优点，照康德这一策略注定失败：没有任何经验能充分满足必然的、原初存在者的理念——“一个必然的、自我充足的原始存在者的先验理念是如此压倒性地伟大、如此崇高地高出一切经验性的东西（后者在任何时候都是被制约的）——以至于一部分人们永远无法在经验中获得足够的材料来填满这样的概念，一部分人们如果在被制约的事物中寻找不被制约者，就会永远且徒劳地寻找”（A621/B649）。
   - id: 73
     kind: body
     source: |-
       Kant’s claim is that even if we could grant that the order and purposiveness of nature gives us good reason to suppose some intelligent designer, it does not warrant the inference to an *ens realissimum*. At most, Kant tells us, the proof could establish a “highest architect of the world…., but not a creator of the world.” (A627/B655). The last inference, that to the *ens realissimum*, is only drawn by moving far away from any consideration of the actual (empirical) world. In other words, here too, Kant thinks that the rational theologist is relying on a transcendental (*a priori*) argument. Indeed, according to Kant, the physicotheological proof could never, given its empirical starting point, establish the existence of a highest being by itself alone, and must rely on the ontological argument at crucial stages (cf. A625/B653). Since, according to Kant, the ontological argument fails, so does the physicotheological one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的主张是：即使我们能够承认自然的秩序与合目的性给我们好的理由假定某个理智的设计者，它也不正当化向 *ens realissimum* 的推理。至多，康德告诉我们，这个证明可以确立“世界的最高建筑师……但不是世界的创造者”（A627/B655）。最后一步推理——向 *ens realissimum* 的推理——只有通过远远离开对实际（经验）世界的任何考虑才被做出。换言之，这里 again，康德认为理性神学家依赖一个先验的（*先天的*）论证。的确，照康德的看法，自然神学的证明就其经验起点而言永远无法独自确立最高存在者的存在，必须在关键阶段依赖本体论论证（参 A625/B653）。既然照康德本体论论证失败了，自然神学的证明也随之失败。
+    step2: |-
+      康德的主张是：即使能承认自然的秩序与合目的性给我们好的理由假定某个理智的设计者，它也不正当化向 *ens realissimum* 的推理。至多康德告诉我们，这个证明可以确立“世界的最高建筑师……但不是世界的创造者”（A627/B655）。最后一步推理——向 *ens realissimum* 的推理——只有通过远远离开对实际（经验）世界的任何考虑才被做出。换言之这里 again，康德认为理性神学家依赖先验的（*先天的*）论证：的确照康德，自然神学的证明就其经验起点而言永远无法独自确立最高存在者的存在，必须在关键阶段依赖本体论论证（参 A625/B653）。既然照康德本体论论证失败了，自然神学的证明也随之失败。
   - id: 74
     kind: body
     source: |-
       Although Kant rejects the physiciotheological argument as a theoretical proof for God’s existence, he also sees in it a powerful expression of reason’s need to recognize in nature purposive unity and design (cf. A625/B651). In this, the physicotheological argument’s emphasis on the purposiveness and systematic unity of nature illuminates an assumption that Kant takes to be essential to our endeavors in the natural sciences. The essential role played by the assumption of purposive and systematic unity, and the role it plays in scientific inquiries, is taken up by Kant in the Appendix to the Transcendental Dialectic. To this topic we now turn.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管康德拒绝自然神学的论证作为上帝存在的理论证明，他也在其中看到理性在自然中认出合目的的统一与设计的需要的有力表达（参 A625/B651）。在这一方面，自然神学论证对自然的合目的性与系统统一的强调，阐明了康德认为对我们的自然科学事业必不可少的假定。合目的的与系统的统一的假定所扮演的本质角色，及其在科学探究中的角色，由康德在先验辩证论的附录中处理。现在我们转向这一主题。
+    step2: |-
+      尽管康德拒绝自然神学的论证作为上帝存在的理论证明，他也在其中看到理性在自然中认出合目的的统一与设计的需要的有力表达（参 A625/B651）——在这一方面，自然神学论证对自然的合目的性与系统统一的强调，阐明康德认为对我们的自然科学事业必不可少的假定。合目的的与系统的统一的假定所扮演的本质角色及其在科学探究中的角色，由康德在先验辩证论的附录中处理——现在我们转向这一主题。
   - id: 75
     kind: body
     source: |-
       For some discussions of the Ideal of Pure Reason and Rational Theology, see Caimi (1995). England (1968), Grier (2001, forthcoming), Henrich (1960), Longuenesse (1995, 2005), Rohs (1978), Walsh (1975), and Wood (1978), Chignell (2009), Grier (2010), Chignell (2014), Wuerth (2021), Willaschek (2018)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于纯粹理性的理念与理性神学的讨论，见 Caimi (1995), England (1968), Grier (2001, forthcoming), Henrich (1960), Longuenesse (1995, 2005), Rohs (1978), Walsh (1975), Wood (1978), Chignell (2009), Grier (2010), Chignell (2014), Wuerth (2021), Willaschek (2018)。
+    step2: |-
+      关于纯粹理性的理念与理性神学的讨论，见 Caimi (1995), England (1968), Grier (2001, forthcoming), Henrich (1960), Longuenesse (1995, 2005), Rohs (1978), Walsh (1975), Wood (1978), Chignell (2009), Grier (2010), Chignell (2014), Wuerth (2021), Willaschek (2018)。
   - id: 76
     kind: body
     source: |-
       ## 6. Reason and the Appendix to the Transcendental Dialectic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 理性与先验辩证论的附录
+    step2: |-
+      ## 6 理性与先验辩证论的附录
   - id: 77
     kind: body
     source: |-
       The criticisms of the metaphysical arguments offered in the Transcendental Dialectic do not bring Kant’s discussion to a close. Indeed, in an “Appendix” to the Transcendental Dialectic, Kant returns to the issue of reason’s positive or necessary role. The curious “Appendix” has provoked a great deal of confusion, and not without reason. After all, the entire thrust of the Dialectic seemed to be directed at “critiquing” and curbing pure reason, and undermining its pretense to any real use. Nevertheless, Kant goes on to suggest that the very reason that led us into metaphysical error is also the source of certain necessary ideas and principles, and moreover, that these rational postulations play an essential role in scientific theorizing (A645/B673; A671/B699). Exactly what role they are supposed to play in this regard is less clear.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先验辩证论中对形而上学论证的批评并没有使康德的讨论结束。事实上，在先验辩证论的一个“附录”中，康德回到理性的积极的或必要的角色问题。这个奇特的“附录”引起了很大的困惑，且不无理由。毕竟，辩证论的整个主旨似乎指向“批判”与遏制纯粹理性、削弱其任何实在使用的僭妄。然而，康德继续暗示：把我们引入形而上学错误的那个理性，也是某些必要的理念与原则的源泉； moreover，这些理性的设定在科学理论化中扮演本质的角色（A645/B673; A671/B699）。它们在此方面应当扮演的确切角色则不太清楚。
+    step2: |-
+      先验辩证论中对形而上学论证的批评并未使康德的讨论结束：事实上在先验辩证论的一个“附录”中，康德回到理性的积极的或必要的角色问题。这个奇特的“附录”引起很大困惑且不无理由——毕竟辩证论的整个主旨似乎指向“批判”与遏制纯粹理性、削弱其任何实在使用的僭妄。然而康德继续暗示：把我们引入形而上学错误的那个理性，也是某些必要的理念与原则的源泉； moreover 这些理性的设定在科学理论化中扮演本质的角色（A645/B673; A671/B699）。它们在此方面应当扮演的确切角色则不太清楚。
   - id: 78
     kind: body
     source: |-
       The Appendix to the Transcendental Dialectic is divided into two parts. In the first, “On the Regulative Use of the Ideas of Pure Reason,” Kant attempts to identify some proper “immanent” use for reason. In its most general terms, Kant is here concerned to establish a necessary role for reason’s principle of systematic unity. This principle was first formulated by Kant in the Introduction to the Transcendental Dialectic in two forms, one prescriptive, and the other in what sounded to be a metaphysical claim. In the first, prescriptive form, the principle enjoins us to “Find for the conditioned knowledge given through the understanding the unconditioned whereby its unity is brought to completion.” The complementary metaphysical principle assures us that the “unconditioned” is indeed given and there to be found. Taken together, these principles express reason’s interests in securing systematic unity of knowledge and bringing such knowledge to completion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先验辩证论的附录分为两部分。在第一部分“论纯粹理性理念的调节性使用”中，康德试图为理性确认某种恰当的“内在”使用。用最一般的术语说，康德在这里关心确立理性的系统统一原则的必要角色。这一原则由康德在先验辩证论的导言中以两种形式首次表述——一种诫命性的，另一种听起来像是形而上学的主张。在第一种诫命形式中，原则命令我们“为经由知性被给予的被制约的知识找到不被制约者，由此其统一被完成”。互补的形而上学原则向我们保证“不被制约者”确实被给予、等着被发现。合起来，这些原则表达理性确保知识的系统统一并使这样的知识完成的兴趣。
+    step2: |-
+      先验辩证论的附录分为两部分：第一部分“论纯粹理性理念的调节性使用”中，康德试图为理性确认某种恰当的“内在”使用。用最一般的术语说，康德在此关心确立理性的系统统一原则的必要角色——这一原则由康德在先验辩证论的导言中以两种形式首次表述：一种诫命性的，另一种听起来像形而上学的主张。诫命形式中，原则命令我们“为经由知性被给予的被制约的知识找到不被制约者，由此其统一被完成”；互补的形而上学原则向我们保证“不被制约者”确实被给予、等着被发现。合起来这些原则表达理性确保知识的系统统一并使知识完成的兴趣。
   - id: 79
     kind: body
     source: |-
       Kant is quite clear that he takes reason’s demand for systematicity to play an important role in empirical inquiry. In connection with this, Kant suggests that the coherent operation of the understanding somehow requires reason’s guiding influence, particularly if we are to unify the knowledge given through the real use of the understanding into scientific theory (cf. A651–52/B679–80). To order knowledge systematically, for Kant, means to subsume or unify it under fewer and fewer principles in light of the idea of one “whole of knowledge” so that its parts are exhibited in their necessary connections (cf. 646/B674). The idea of the form of a whole of knowledge is thus said to postulate “complete unity in the knowledge obtained by the understanding, by which this knowledge is to be not a mere contingent aggregate, but a system connected according to necessary laws” (A646/B676). Having said this, it should be noted that Kant’s position is, in its details, difficult to pin down. Sometimes Kant suggests merely that we ought to *seek* systematic unity of knowledge, and this merely for own theoretical convenience (A771/B799-A772/B800). Other times, however, he suggests that we must assume that the *nature itself* conforms to our demands for systematic unity, and this necessarily, if we are to secure even an empirical criterion of truth (cf. A651–53/B679–81). The precise status of the demand for systematicity is therefore somewhat controversial.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德相当清楚：他认为理性对系统性的要求在经验探究中扮演重要角色。与此相关，康德暗示知性的融贯运作 somehow 需要理性的引导影响——如果我们要把经由知性实在运用所给予的知识统一为科学理论的话（参 A651–52/B679–80）。对康德而言，系统地整理知识，意味着依照一个“知识整体”的理念把它归摄或统一于越来越少的原则之下，使它的部分在其必然联系中被展示（参 646/B674）。知识整体之形式的理念因此被认为设定“经由知性获得的知识中的完全统一，由此这一知识将不是单纯的偶然聚集，而是一个依照必然法则联结的系统”（A646/B676）。说了这些，应当注意康德的立场在其细节上难以确定。有时康德仅仅暗示我们应当*寻求*知识的系统统一，这只是为了我们自己的理论便利（A771/B799-A772/B800）。然而另一些时候，他暗示我们必须假定*自然本身*符合我们对系统统一的要求——而且这是必然的，如果我们想要保障哪怕一条真理的经验判准的话（参 A651–53/B679–81）。对系统性的要求的精确地位因此 somewhat 有争议。
+    step2: |-
+      康德相当清楚：他认为理性对系统性的要求在经验探究中扮演重要角色。与此相关康德暗示：知性的融贯运作 somehow 需要理性的引导影响——尤其如果我们要把经知性实在运用所给予的知识统一为科学理论的话（参 A651–52/B679–80）。对康德而言系统地整理知识意味着：依照一个“知识整体”的理念把它归摄或统一于越来越少的原则之下，使部分在其必然联系中被展示（参 646/B674）；知识整体之形式的理念因此被认为设定“经由知性获得的知识中的完全统一，由此这一知识将不是单纯的偶然聚集，而是一个依照必然法则联结的系统”（A646/B676）。说了这些应注意：康德的立场在细节上难以确定——有时康德仅暗示我们应当*寻求*知识的系统统一，且只是为了我们自己的理论便利（A771/B799-A772/B800）；另一些时候他暗示我们必须假定*自然本身*符合我们对系统统一的要求（且必然如此——若要保障哪怕一条真理的经验判准，参 A651–53/B679–81）。对系统性的要求的精确地位 therefore 有争议。
   - id: 80
     kind: body
     source: |-
       Regardless of these more subtle textual issues Kant remains committed to the view that reason’s proper use is always only “regulative” and never constitutive. The distinction between the regulative and the constitutive may be viewed as describing two different ways in which the claims of reason may be interpreted. A principle of reason is constitutive, according to Kant, when it is taken to supply a concept of a real object (A306/B363; A648/B676). Throughout the Dialectic Kant argued against this (constitutive) interpretation of the ideas and principles of reason, claiming that reason so far transcends possible experience that there is nothing in experience that corresponds with its ideas. Although Kant denies that reason is constitutive he nevertheless, as we have seen, insists that it has an “indispensably necessary” regulative use. In accordance with reason’s demand, the understanding is guided and led to secure systematic unity and completion of knowledge. In other words, Kant seeks to show that reason’s demand for systematic unity is related to the project of empirical knowledge acquisition. Indeed, Kant links the demand for systematicity up with three other principles — those of homogeneity, specification and affinity — which he thinks express the fundamental presumptions that guide us in theory formation. The essential point seems to be that the development and expansion of empirical knowledge is always, as it were, “already” guided by the rational interests in securing unity and completion of knowledge. Without such a guiding agenda, and without the assumption that nature conforms to our rational demands for securing unity and coherence of knowledge, our scientific pursuits would lack orientation. Thus, the claim that reason’s principles play a necessary “regulative” role in science reflects Kant’s critical reinterpretation of the traditional rationalist ideal of arriving at complete knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      不管这些更微妙的文本问题，康德仍然承诺这样的观点：理性的恰当使用永远只是“调节性的”，绝非建构性的。调节性的与建构性的区分可以被视为描述理性的主张可被解释的两种不同方式。照康德的看法，一个理性原则是建构性的，当它被认为提供一个实在对象的概念时（A306/B363; A648/B676）。贯穿辩证论，康德反对对理性的理念与原则的这一（建构的）诠释，主张理性远远超出可能经验，以至于经验中没有任何东西与其理念相应。尽管康德否认理性是建构性的，他 nevertheless 如我们所见坚持理性有一种“必不可少”的调节性使用。依照理性的要求，知性被引导去确保知识的系统统一与完成。换言之，康德试图表明理性对系统统一的要求与经验知识获取的计划相关。的确，康德把对系统性的要求与其他三条原则——同质性、专门性与亲和性——联结起来，他认为这些原则表达引导我们形成理论的基本预设。要点似乎在于：经验知识的发展与扩展总是（可以说）“已经”被确保知识之统一与完成的理性兴趣所引导。没有这样的引导议程，没有自然符合我们确保知识之统一与融贯的理性要求的假定，我们的科学追求将缺乏方向。因此，理性的原则在科学中扮演必要的“调节性”角色的主张，反映了康德对达到完全知识的传统理性主义理想的批判性重新诠释。
+    step2: |-
+      不管这些更微妙的文本问题，康德仍承诺：理性的恰当使用永远只是“调节性的”绝非建构性的。调节性的与建构性的区分可视为描述理性的主张可被解释的两种不同方式：照康德，一个理性原则是建构性的，当它被认为提供实在对象的概念时（A306/B363; A648/B676）。贯穿辩证论康德反对对理性的理念与原则的（建构的）诠释——主张理性远远超出可能经验，经验中没有任何东西与其理念相应。尽管康德否认理性是建构性的，他 nevertheless 如我们所见坚持理性有一种“必不可少”的调节性使用：依照理性的要求，知性被引导去确保知识的系统统一与完成。换言之康德试图表明：理性对系统统一的要求与经验知识获取的计划相关。的确康德把对系统性的要求与其他三条原则（同质性、专门性与亲和性）联结——他认为这些原则表达引导我们形成理论的基本预设。要点似乎在于：经验知识的发展与扩展总是（可以说）“已经”被确保知识之统一与完成的理性兴趣引导；没有这样的引导议程，没有自然符合我们确保知识之统一与融贯的理性要求的假定，我们的科学追求将缺乏方向。故理性的原则在科学中扮演必要的“调节性”角色的主张，反映康德对达到完全知识的传统理性主义理想的批判性重新诠释。
   - id: 81
     kind: body
     source: |-
       It is connection with this that Kant argues, in the second part of the Appendix (“On the Final Aim of the Natural Dialectic of Human Reason” (A669/B697)), that the three highest ideas of reason have an important *theoretical* function. More specifically, in this section Kant turns from a general discussion of the important (regulative) use of the principle of systematicity, to a consideration of the three transcendental ideas (the Soul, the World, and God) at issue in the Dialectic. As examples of the unifying and guiding role of reason’s ideas, Kant had earlier appealed to the ideas of “pure earth” and “pure air” in Chemistry, or the idea of a “fundamental power” in psychological investigations (cf. A650/B678). His suggestion earlier was that these ideas are implicit in the practices governing scientific classification, and enjoin us to seek explanatory connections between disparate phenomena. As such, reason’s postulations serve to provide an orienting point towards which our explanations strive, and in accordance with which our theories progressively achieve systematic interconnection and unity. Similarly, Kant now suggests that each of the three transcendental ideas of reason at issue in the Dialectic serves as an imaginary point (*focus imaginarius*) towards which our investigations hypothetically converge. More specifically, he suggests that the idea of the soul serves to guide our empirical investigations in psychology, the idea of the world grounds physics, and the idea of God grounds the unification of these two branches of natural science into one unified Science (cf. A684/B712-A686/B714). In each of these cases, Kant claims, the idea allows us to represent (problematically) the systematic unity towards which we aspire and which we presuppose in empirical studies. In accordance with the idea of God, for example, we “consider every connection in the world according to principles [*Principien*] of a systematic unity, hence **as if** they had all arisen from one single all-encompassing being, as supreme and all-sufficient cause” (A686/B714). Such a claim, controversial as it is, illuminates Kant’s view that empirical inquiries are one and all undertaken in light of the rational goal of a single unified body of knowledge. It also points towards the Kantian view, later emphasized in the Transcendental Doctrine of Method, that reason’s theoretical and practical interests ultimately form a higher unity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正是在与此的联系中，康德在附录的第二部分（“论人类理性的自然辩证论的最终目的”（A669/B697））论证理性的三个最高理念有重要的*理论的*功能。更具体地说，在这一节中，康德从对系统性的原则的重要（调节性）使用的一般讨论，转向对辩证论中所论的三个先验理念（灵魂、世界与上帝）的考察。作为理性的理念的统一与引导角色的例子，康德早先曾诉诸化学中“纯土”与“纯空气”的理念，或心理学研究中的“基本力”的理念（参 A650/B678）。他早先的建议是：这些理念隐含在支配科学分类的实践中，命令我们寻求不同现象之间的解释性联系。因此，理性的设定有助于提供一个我们的解释所努力趋向的定位点，我们的理论依照它渐进地取得系统的相互联结与统一。类似地，康德现在暗示：辩证论中所论的理性的三个先验理念各自作为一个想象点（*focus imaginarius*）——我们的探究假设性地向它收敛。更具体地说，他暗示灵魂的理念引导我们在心理学中的经验研究，世界的理念为物理学奠基，而上帝的理念为这两个自然科学分支统一为一门统一的科学奠基（参 A684/B712-A686/B714）。在每一种情形中，康德主张理念允许我们（成问题地）表象我们所追求的、且我们在经验研究中预设的系统统一。依照上帝的理念，例如，我们“依照系统统一的原则［*Principien*］考虑世界中的每一个联结， hence **仿佛**它们全都产生自一个单一的、包罗万象的存在者，作为最高的、自我充足的原因”（A686/B714）。这样一个主张虽有争议，却阐明了康德的观点：经验研究无一例外都是依照单一统一的知识体系的理性目标进行的。它也指向康德的观点——后来在先验方法论中得到强调——理性的理论兴趣与实践兴趣最终形成一个更高的统一。
+    step2: |-
+      正是在与此的联系中，康德在附录的第二部分（“论人类理性的自然辩证论的最终目的”，A669/B697）论证理性的三个最高理念有重要的*理论的*功能。更具体地说在这一节，康德从对系统性的原则的重要（调节性）使用的一般讨论，转向对辩证论中所论的三个先验理念（灵魂、世界与上帝）的考察。作为理性的理念的统一与引导角色的例子，康德早先曾诉诸化学中“纯土”与“纯空气”的理念、或心理学研究中“基本力”的理念（参 A650/B678）：他早先的建议是这些理念隐含在支配科学分类的实践中，命令我们寻求不同现象间的解释性联系。因此理性的设定有助于提供一个我们的解释所努力趋向的定位点——我们的理论依照它渐进地取得系统的相互联结与统一。类似地康德现在暗示：辩证论中所论的理性的三个先验理念各自作为一个想象点（*focus imaginarius*）——我们的探究假设性地向它收敛。更具体地说他暗示：灵魂的理念引导我们在心理学中的经验研究，世界的理念为物理学奠基，而上帝的理念为这两个自然科学分支统一为一门统一的科学奠基（参 A684/B712-A686/B714）。在每一种情形中康德主张：理念允许我们（成问题地）表象我们所追求的、且我们在经验研究中预设的系统统一。依照上帝的理念例如我们“依照系统统一的原则［*Principien*］考虑世界中的每一个联结， hence **仿佛**它们全都产生自一个单一的、包罗万象的存在者，作为最高的、自我充足的原因”（A686/B714）。这样的主张虽有争议，却阐明康德的观点：经验研究无一例外都依照单一统一的知识体系的理性目标进行；它也指向康德的观点（后来在先验方法论中得到强调）——理性的理论兴趣与实践兴趣最终形成更高的统一。
   - id: 82
     kind: body
     source: |-
       For discussions on the Appendix and the role of reason and systematicity, see Allison (2004), Brandt (1989), Buchdahl (1967), Britton (1978), Forster (2000), Friedman (1992), Ginsborg (1990), Grier (2001, forthcoming), Guyer (1990a, 1990b), Horstmann (1989), O’Neill (1992), Patricia Kitcher (1991), Philip Kitcher (1984), Nieman (1994), MacFarland (1970), Walker (1990), Walsh (1975), Wartenberg (1979, 1992), Rauscher (2010), Willaschek (2018).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于附录以及理性与系统性的角色的讨论，见 Allison (2004), Brandt (1989), Buchdahl (1967), Britton (1978), Forster (2000), Friedman (1992), Ginsborg (1990), Grier (2001, forthcoming), Guyer (1990a, 1990b), Horstmann (1989), O'Neill (1992), Patricia Kitcher (1991), Philip Kitcher (1984), Nieman (1994), MacFarland (1970), Walker (1990), Walsh (1975), Wartenberg (1979, 1992), Rauscher (2010), Willaschek (2018)。
+    step2: |-
+      关于附录以及理性与系统性的角色的讨论，见 Allison (2004), Brandt (1989), Buchdahl (1967), Britton (1978), Forster (2000), Friedman (1992), Ginsborg (1990), Grier (2001, forthcoming), Guyer (1990a, 1990b), Horstmann (1989), O'Neill (1992), Patricia Kitcher (1991), Philip Kitcher (1984), Nieman (1994), MacFarland (1970), Walker (1990), Walsh (1975), Wartenberg (1979, 1992), Rauscher (2010), Willaschek (2018)。
   - id: 83
     kind: body
     source: |-
       For an important discussion on the “unity” of theoretical and practical reason, see again Forster (2000). See also Velkley (1989).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关于理论理性与实践理性的“统一”的重要讨论，另见 Forster (2000)。另见 Velkley (1989)。
+    step2: |-
+      关于理论理性与实践理性的“统一”的重要讨论，另见 Forster (2000)；另见 Velkley (1989)。
   - id: 84
     kind: oir
     source: |-
       - [Mainz Kant Site](http://www.kant.uni-mainz.de/)
       - [Steve Palmquist’s Kant Site](http://www.hkbu.edu.hk/~ppp/Kant.html)
       - [Society of German Idealism](https://sites.google.com/a/lclark.edu/idealism/sgi)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [美因茨康德网站](http://www.kant.uni-mainz.de/)
+      - [Steve Palmquist 的康德网站](http://www.hkbu.edu.hk/~ppp/Kant.html)
+      - [德意志观念论学会](https://sites.google.com/a/lclark.edu/idealism/sgi)
+    step2: |-
+      - [美因茨康德网站](http://www.kant.uni-mainz.de/)
+      - [Steve Palmquist 的康德网站](http://www.hkbu.edu.hk/~ppp/Kant.html)
+      - [德意志观念论学会](https://sites.google.com/a/lclark.edu/idealism/sgi)

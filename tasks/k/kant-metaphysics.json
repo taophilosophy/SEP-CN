@@ -2,7 +2,7 @@
   "slug": "kant-metaphysics",
   "kind": "retranslate",
   "zh_doc": "k/kant-metaphysics.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:38Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:20Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：lq.py init 84 段（body=83+oir=1）→本会话直译双版两批（script/build_kmetaphysics_p1+p2.py）→守恒自检 seg59 斜体标记碰撞修复（*从**ens→*从* *ens）后 HARD=0→lq.py check 通过 84/84→compose 写回 32536 字符；H1=SUMMARY 1386 行；参考文献 79 条照录（Kant 原著+二手研究 A/B 两编）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:20Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：中文强调斜体→粗体 28 行（守卫锚定转换器）；L178 **仿佛** 补空格修正 bold-spacing；关联词条 NOTE 0 项（费希特/黑格尔/休谟 compose 全自动映射成功）；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:20Z",
+      "evidence": "s2 二校：引文括注 40+ 处复核（KRV A/B 版 20+ 处——A246/B303/A247/B304/A293-308/B350-366/A334-341/B391-404/A397-406/B433/A402/A420-500/B448-528/A526-655/B554-683/A645-686/B673-714/A70=B95/B132/B159、6:1-190/6:24、9:32、1781/7 Bxxx）；术语核销：先验感性论/先验分析论/先验辩证论/本体论 metaphysica generalis/种类区分/先验幻象 transzendentale Illusion/幻象的逻辑 Schein/不被制约者/实体化 Hypostatization/僭越 Subreption/理性心理学-理性宇宙论-理性神学/谬误推理 sophisma figurae dictionis/歧义中项/二律背反-正题-反题/数学的-动力学的二律背反/先验自由/理知的开端/伪理性-伪经验/euthanasia of pure reason/调节性-建构性/理念-理想-ens realissimum-omnitudo realitatis/focus imaginarius/完全规定/本征态-本征值联结无——本条无；专名核销（盖耶/阿利森/亨利希/斯特劳森/布鲁克/基切尔/隆格内斯/维尔特/格里尔/贝内特/布尔克/迪克/普罗普斯/威尔阿舍克/伍德/沃克/沃什/尼曼/沃特滕伯格/劳舍尔/福斯特/弗里德曼/金恩斯堡/布赫达尔/布兰特/霍斯特曼/奥尼尔/麦克法兰/瓦特金斯/凡克里夫/泰斯/卡伊米/英格兰/罗欧斯/施密特/斯韦登博格/笛卡尔/莱布尼茨/休谟/拉普拉斯无——本条无）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:23Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues（L178 修复后复跑）；check_math 0；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:23Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/kant-metaphysics.md 369 行 ↔ k/kant-metaphysics.md 322 行逐段核销）：导言+六节（预备评论-本体论拒斥/特殊形而上学拒斥与辩证论 2.1-2.2/灵魂与理性心理学/世界与理性宇宙论 4.1-4.2/上帝与理性神学 5.1-5.2/理性与附录）全数在位；两条引块（B146 无直观则概念空/第一谬误推理三段论 A349）逐句核销；核心论证核销（三问拆分—感性论/分析论/辩证论对应/骄傲的本体论名称让位/理性三段论功能-不被制约者/先验幻象=主观必然性当客观必然性/最高原则 A308/B366/调节性vs建构性/实体化-僭越两主题/第一谬误推理-实体歧义/灵魂单纯性人格同一性/四个二律背反划分/大前提歧义—先验vs经验使用/动力学二律背反正题反题策略改变/给每方应得承认/上帝理念追溯—omnitudo realitatis-完全规定/ens realissimum 实体化人格化/三论证结构—本体论/宇宙论/自然神学/存在非谓词/一整窝辩证预设/最高建筑师非创造者/附录两部分-调节性使用/同质性-专门性-亲和性三原则/focus imaginarius 三理念/仿佛全产生自一单一存在者 A686/B714）；参考文献 79 条逐字相符；零信任抽查 4 处（A247/B304 本体论让位引文/第一谬误推理 A349/A308/B366 最高原则/A686/B714 仿佛引文）与 en 镜像一致；本条为主会话自译，r1 以源文复读+抽查如实记"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:23Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施留痕，r2 复认）：斜体→粗体 28 行；seg59 斜体标记碰撞修复；L178 bold-spacing；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:25Z",
+      "evidence": "r3 门禁全绿：四道复跑全过（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T19:54:25Z",
+      "evidence": "done 收口：K 批直译第九条全周期（init→直译双版 84 段→守恒→compose 32536 字符→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
     }
   ],
   "blockers": [],
