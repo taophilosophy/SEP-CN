@@ -147,7 +147,7 @@
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=advance-directives)。
- [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/advance-directives/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/advance-directives/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=advance-directives&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](http://philpapers.org/sep/advance-directives/) 查看本词条的增强文献目录及其数据库链接。
 

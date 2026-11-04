@@ -598,7 +598,7 @@ Ross（2012: 84）类似地主张：行动者可以立即执行一个要求某�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=actualism-possibilism-ethics)。
- [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/actualism-possibilism-ethics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/actualism-possibilism-ethics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=actualism-possibilism-ethics&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/actualism-possibilism-ethics/) 查看本词条的增强文献目录及其数据库链接。
 

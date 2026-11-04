@@ -400,7 +400,7 @@ Orzack 与 Sober 提供了一个具体方案，以评估 O 对某一特定性状
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=adaptationism)。
- [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/adaptationism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/adaptationism/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=adaptationism&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](http://philpapers.org/sep/adaptationism/) 查看本词条的增强文献目录及其数据库链接。
 
