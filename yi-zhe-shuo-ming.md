@@ -507,6 +507,18 @@
 | singularia | 殊相（保留拉丁，首现括注） | reism | 中世纪哲学惯例（particulars 通译殊相） | 2026-11-04 |
 | syncategorematica / synsemantica | 非范畴词／伴语义词（保留拉丁，首现括注） | reism | 沿用本册 syncategorematic word=非范畴词；synsemantica 按构词括注 | 2026-11-04 |
 | categorematic / autosemantic | 范畴词／自立语义词 | reism | 与非范畴词对偶的通行译法 | 2026-11-04 |
+| mystical experience | 神秘经验 | religious-experience | 学界通行（宗教学） | 2026-11-05 |
+| the numinous | 努秘（保留原词，随文括注；本册既有行复核一致） | religious-experience | 学界通行（奥托《论“神圣”》汉译传统） | 2026-11-05 |
+| properly basic | 恰当基本的（properly basic belief → 恰当基本信念） | religious-experience | 学界通行（普兰丁格术语） | 2026-11-05 |
+| M-belief | M-信念 | religious-experience | 学界通行（普兰丁格术语） | 2026-11-05 |
+| sensus divinitatis | 神圣感知（保留拉丁，首现括注） | religious-experience | 加尔文术语；改革宗神学汉译惯例 | 2026-11-05 |
+| doxastic practice | 信念实践 | religious-experience | 学界通行（Alston 术语） | 2026-11-05 |
+| Principle of Credulity | 轻信原则 | religious-experience | 学界通行（Swinburne 术语） | 2026-11-05 |
+| defeater | 击败因子 | religious-experience | 学界通行（知识论；defeasible 另译可挫败） | 2026-11-05 |
+| language-game | 语言游戏 | religious-experience | 学界通行（维特根斯坦术语） | 2026-11-05 |
+| Vipassana | 内观（保留拉丁 vipassanā） | religious-experience | 学界通行（上座部佛教） | 2026-11-05 |
+| kensho | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
+| counter-inductive | 反归纳的 | religious-experience | 构词直译 | 2026-11-05 |
 | analogical reasoning | 类推推理（SUMMARY 题名既定形） | reasoning-analogy | SUMMARY 既有条目名（r/reasoning-analogy.md） | 2026-11-05 |
 | analogical argument | 类比论证 | reasoning-analogy | 学界通行 | 2026-11-05 |
 | source domain / target domain | 源域／目标域 | reasoning-analogy | 学界通行（认知科学与科学哲学） | 2026-11-05 |

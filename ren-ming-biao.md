@@ -449,6 +449,9 @@
 | Franz Brentano | 弗朗兹·布伦塔诺 | reism | SUMMARY 既有条目名（b/brentano.md）；语料通行 | 2026-11-04 |
 | Stanisław Leśniewski | 莱斯涅夫斯基 | reism | 语料回收（i/identity.md 用例）；学界通行 | 2026-11-04 |
 | Alfred Tarski | 塔尔斯基 | reism | 本册既定（林登鲍姆–塔尔斯基代数）；学界通行 | 2026-11-04 |
+| John Hick | 约翰·希克 | religious-experience | 学界通行汉译（宗教多元论） | 2026-11-05 |
+| A.J. Ayer | 艾耶尔 | religious-experience | 学界通行汉译（《语言、真理与逻辑》） | 2026-11-05 |
+| John Calvin | 约翰·加尔文 | religious-experience | 学界通行汉译 | 2026-11-05 |
 | Charles Darwin | 达尔文 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
 | Galileo Galilei | 伽利略 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
 | Joseph Priestley | 约瑟夫·普里斯特利 | reasoning-analogy | 学界通行汉译（化学家） | 2026-11-05 |
@@ -678,6 +681,33 @@
 | Foucher de Careil, Louis Alexandre | 路易·亚历山大·富歇·德·卡雷伊 | descartes-ethics | 学界惯例（笛卡尔手稿出版者，通行音译） | 2026-11-05 |
 | Ovid | 奥维德 | descartes-ethics | 学界千年通行译名 | 2026-11-05 |
 | Hannibal | 汉尼拔 | descartes-ethics | 学界千年通行译名 | 2026-11-05 |
+
+| Mazu Daoyi | 马祖道一 | buddhism-chan | 佛学界通行汉译（洪州宗开祖） | 2026-11-05 |
+| Huineng | 慧能 | buddhism-chan | 佛学界通行汉译（六祖，《坛经》） | 2026-11-05 |
+| Bodhidharma | 菩提达摩 | buddhism-chan | 佛学界通行汉译（初祖） | 2026-11-05 |
+| Huike | 慧可 | buddhism-chan | 佛学界通行汉译（二祖） | 2026-11-05 |
+| Linji Yixuan | 临济义玄 | buddhism-chan | 佛学界通行汉译（临济宗开祖） | 2026-11-05 |
+| Xuanzang | 玄奘 | buddhism-chan | 学界千年通行译名 | 2026-11-05 |
+| Kumārajīva | 鸠摩罗什 | buddhism-chan | 学界千年通行译名（译经大师） | 2026-11-05 |
+| Baizhang Huaihai | 百丈怀海 | buddhism-chan | 佛学界通行汉译（《清规》作者） | 2026-11-05 |
+| Guifeng Zongmi | 圭峰宗密 | buddhism-chan | 佛学界通行汉译（华严/荷泽宗） | 2026-11-05 |
+| Nanyue Huairang | 南岳怀让 | buddhism-chan | 佛学界通行汉译（马祖之师） | 2026-11-05 |
+| Huangbo Xiyun | 黄檗希运 | buddhism-chan | 佛学界通行汉译（临济之师） | 2026-11-05 |
+| Weishan Lingyou | 沩山灵祐 | buddhism-chan | 佛学界通行汉译（沩仰宗开祖） | 2026-11-05 |
+| Niaoke | 鸟窠 | buddhism-chan | 佛学界通行汉译（鸟窠道林禅师） | 2026-11-05 |
+| Bai Juyi | 白居易 | buddhism-chan | 学界千年通行译名 | 2026-11-05 |
+| Juzhi | 俱胝 | buddhism-chan | 佛学界通行汉译（俱胝和尚，一指禅） | 2026-11-05 |
+| Fazang | 法藏 | buddhism-chan | 佛学界通行汉译（华严三祖） | 2026-11-05 |
+| Zhiyi | 智顗 | buddhism-chan | 佛学界通行汉译（天台智者大师） | 2026-11-05 |
+| Nāgārjuna | 龙树 | buddhism-chan | 佛学界千年通行译名 | 2026-11-05 |
+| Candrakīrti | 月称 | buddhism-chan | 佛学界通行汉译（中观应成派） | 2026-11-05 |
+| Song Xiaozong | 宋孝宗 | buddhism-chan | 学界千年通行译名（谥号+庙号体例） | 2026-11-05 |
+| Mahākāśyapa | 摩诃迦叶 | buddhism-chan | 佛学界通行汉译（拈花微笑） | 2026-11-05 |
+| Angulimāla | 鸯掘摩罗 | buddhism-chan | 佛学界通行汉译（《中部》86 经） | 2026-11-05 |
+| Devadatta | 提婆达多 | buddhism-chan | 佛学界通行汉译 | 2026-11-05 |
+| Mañjuśrī | 文殊 | buddhism-chan | 佛学界通行汉译（菩萨） | 2026-11-05 |
+| Vimalakīrti | 维摩诘 | buddhism-chan | 佛学界通行汉译（居士） | 2026-11-05 |
+| Siddhartha Gautama | 悉达多·乔达摩 | buddhism-chan | 学界通行汉译 | 2026-11-05 |
 
 ## 登记格式说明
 
