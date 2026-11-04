@@ -2,7 +2,7 @@
   "slug": "behaviorism",
   "kind": "retranslate",
   "zh_doc": "b/behaviorism.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:15:57Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:12:46Z",
+      "evidence": "全量重译组装：12852 汉字 9 节标题对齐，81 条脚注定义保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:12:46Z",
+      "evidence": "逐节对照源钉（pubinfo Jan 13 2023/Spring 2023）：段落 72:72 全对齐，内联脚注标记零缺失零多余，相关词条 6 项按 SUMMARY 定名（感质/僵尸/先天和当代认知理论等）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:12:46Z",
+      "evidence": "check_prose 66→44：实修 22（长句拆分 11/weak 3/passive 2/as-one 1/结构 5），余 44 豁免留痕：30 de-chain，9 weak 系术语'激进行为主义'含'进行'二字之 S5 误报，2 passive 与 3 long 在斯金纳引文内部，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T17:12:49Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 44 豁免留痕见 s2；人名 15 条登记（斯金纳/华生/巴甫洛夫/桑代克/赖尔/托尔曼/赫尔/格思里/塞拉斯/齐硕姆/福多/米尔/丘奇兰德等）"
     }
   ],
   "blockers": [],
