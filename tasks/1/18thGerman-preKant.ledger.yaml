@@ -235,86 +235,114 @@ segments:
     kind: body
     source: |-
       ### 3.1 The “Leibnizian-Wolffian” Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 “莱布尼茨—沃尔夫学派”哲学
+    step2: |-
+      ### 3.1 “莱布尼茨—沃尔夫学派”哲学
   - id: 30
     kind: body
     source: |-
       Christian Wolff was born in Breslau (today, Wrocław) on 24 January 1679. By all accounts a gifted student, he developed an interest in theology and mathematics during his time in Gymnasium, and studied theology and mathematics at the University of Jena and then in Leipzig, gaining his *Magister* at Leizpig in 1702. His subsequent *Habilitationsschrift* on introducing mathematical method to practical philosophy drew Leibniz’s attention to him. They began a correspondence that continued until Leibniz’s death in 1716, and which covered topics from mathematics to metaphysics. Partially through Leibniz’s support, Wolff was appointed to a vacant chair in mathematics at the Friedrichs-Universität in Halle, delivering his inaugural lecture in 1707.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克里斯蒂安·沃尔夫（Christian Wolff）于 1679 年 1 月 24 日生于布雷斯劳（今弗罗茨瓦夫）。众人都说他是一名有天赋的学生；在文理中学期间，他对神学和数学产生了兴趣，先后在耶拿大学和莱比锡学习神学与数学，1702 年在莱比锡获硕士（*Magister*）学位。他其后的教授资格论文（*Habilitationsschrift*）论把数学方法引入实践哲学，引起了莱布尼茨的注意。两人开始通信，直到 1716 年莱布尼茨去世为止，通信主题从数学直到形而上学。部分由于莱布尼茨的支持，沃尔夫获聘哈勒弗里德里希大学一个空缺的数学教席，1707 年发表就职演讲。
+    step2: |-
+      克里斯蒂安·沃尔夫（Christian Wolff）1679 年 1 月 24 日生于布雷斯劳（今弗罗茨瓦夫）。人人都说他是个可造之才：文理中学时期就对神学与数学发生兴趣，此后先在耶拿大学、后到莱比锡研习这两门学问，1702 年在莱比锡获硕士（*Magister*）学位。随后一篇论“把数学方法引入实践哲学”的教授资格论文（*Habilitationsschrift*），让莱布尼茨注意到了他。两人自此开始通信，直到 1716 年莱布尼茨去世，话题从数学一路谈到形而上学。部分仰赖莱布尼茨的引荐，沃尔夫获聘哈勒弗里德里希大学空缺的数学教席，1707 年发表就职演讲。
   - id: 31
     kind: body
     source: |-
       Understandably, given the nature of his position, most of Wolff’s initial publications were devoted to mathematics and natural science, including an introduction to mathematics in 1710 and an influential mathematical dictionary in 1716. Around 1710, however, he began to lecture on more narrowly philosophical topics, publishing his *Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem richtigen Gebrauche in Erkäntnis der Wahrheit* (*Rational Thoughts on the Powers of the Human Understanding and its Propert Use in the Cognition of Truth*) [the “*German Logic”, hereafter GL*] in 1713. Thus began Wolff’s famous series of German-language textbooks on philosophical topics, which would grow to include the *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (*Rational Thoughts on God, the World and the Soul of Man, and on All Things in General*) [the “*German Metaphysics*”, hereafter GM] in 1719 (albeit with a publication date of 1720), and the *Vernünfftige Gedancken von der Menschen Thun und Lassen, zu Beförderung ihrer Glückseligkeit* (*Rational Thoughts on Human Actions for the Promotion of their Happiness*) [the “*German Ethics*”, hereafter GE] in 1720, followed by the “*German Politics*” in 1721, the “*German Physics*” in 1723, and the “*German Teleology*” in 1724.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以理解，鉴于其职位的性质，沃尔夫最初的出版物大多致力于数学与自然科学，包括 1710 年的一本数学导论和 1716 年一部有影响的数学词典。然而，大约 1710 年起，他开始讲授更狭义的哲学主题，并于 1713 年出版《关于人类理智诸能力及其在认识真理中的正确运用的理性思考》（*Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem richtigen Gebrauche in Erkäntnis der Wahrheit*，*Rational Thoughts on the Powers of the Human Understanding and its Propert Use in the Cognition of Truth*）［即“《德语逻辑学》”，下称 GL］。沃尔夫那套著名的德语哲学教科书系列由此发端，后来扩充为：1719 年的《关于上帝、世界与人的灵魂以及一般万物的理性思考》（*Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt*，*Rational Thoughts on God, the World and the Soul of Man, and on All Things in General*）［即“《德语形而上学》”，下称 GM］（不过出版日期标为 1720 年），1720 年的《关于人的行为以促进其幸福的理性思考》（*Vernünfftige Gedancken von der Menschen Thun und Lassen, zu Beförderung ihrer Glückseligkeit*，*Rational Thoughts on Human Actions for the Promotion of their Happiness*）［即“《德语伦理学》”，下称 GE］，随后是 1721 年的“《德语政治学》”、1723 年的“《德语物理学》”和 1724 年的“《德语目的论》”。
+    step2: |-
+      职位的性质摆在那里，沃尔夫早年的著述大多投入数学与自然科学，也就可以理解了：1710 年一部数学导论，1716 年一部影响深远的数学词典。不过从 1710 年前后起，他开始讲授狭义得多的哲学主题，1713 年出版《关于人类理智诸能力及其在认识真理中的正确运用的理性思考》（*Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem richtigen Gebrauche in Erkäntnis der Wahrheit*，*Rational Thoughts on the Powers of the Human Understanding and its Propert Use in the Cognition of Truth*）［即“《德语逻辑学》”，下称 GL］。沃尔夫那套赫赫有名的德语哲学教科书系列由此发端，后来陆续扩充：1719 年的《关于上帝、世界与人的灵魂以及一般万物的理性思考》（*Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt*，*Rational Thoughts on God, the World and the Soul of Man, and on All Things in General*）［即“《德语形而上学》”，下称 GM］（出版日期则标作 1720 年）；1720 年的《关于人的行为以促进其幸福的理性思考》（*Vernünfftige Gedancken von der Menschen Thun und Lassen, zu Beförderung ihrer Glückseligkeit*，*Rational Thoughts on Human Actions for the Promotion of their Happiness*）［即“《德语伦理学》”，下称 GE］；接着是 1721 年的“《德语政治学》”、1723 年的“《德语物理学》”、1724 年的“《德语目的论》”。
   - id: 32
     kind: body
     source: |-
       This series of texts constitutes the first presentation of the so-called “Leibnizian-Wolffian” philosophy that would come to dominate the philosophical landscape in Germany. There is, of course, no question that Wolff’s philosophical system is thoroughly informed by Leibniz’s: Wolff himself admits that the reading of Leibniz’s 1684 essay “Meditations on Cognition, Truth, and Ideas”, and Leibniz’s classification of ideas in particular, had sparked a “great light” that informed his *German Logic* (cf. GL “Vorrede”); moreover, Wolff himself reports that he incorporated a number of Leibnizian concepts into his presentation of ontology, cosmology, and rational psychology in the *German Metaphysics* (cf. Wuttke 1841: 141–142)[^wuttke-1841]. Even so, Wolff points out that when he started writing his series of philosophical textbooks there were few of Leibniz’s texts available through which one might get a sense of the wider Leibnizian philosophy (Wuttke 1841: 140–141; cf. also Wilson 1994)[^wilson-1994][^wuttke-1841]; thus he takes issue with the designation of his system as “Leibnizian-Wolffian”—a coinage he credits to one of his students, Georg Bernhard Bilfinger (Wuttke 1841: 142; on the source and appropriateness of this designation, see Dyck 2025: 121–124 and Favaretti Camposampiero 2026)[^dyck-2025][^favaretti-2026][^wuttke-1841]. The extent of Leibniz’s influence on Wolff is widely debated (cf. Corr 1975; École 1979)[^corr-1975][^école-1979], but it is in any case clear that Leibniz is not the sole, nor in every case the most important, influence on the development of Wolff’s ideas, as figures such as Ehrenfried Walther von Tschirnhaus (1651–1708), John Locke, and late Scholastic thinkers also exerted an important influence on his metaphysics, epistemology, and theory of science (Neveu 2018; Leduc 2018; Dyck 2021a)[^dyck-2021a][^leduc-2018][^neveu-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一系列文本第一次呈现了所谓“莱布尼茨—沃尔夫学派”哲学；这一哲学后来主导了德国的哲学版图。当然，毫无疑问，沃尔夫的哲学体系深受莱布尼茨的浸润：沃尔夫本人承认，阅读莱布尼茨 1684 年的论文《论认识、真理与观念》——尤其是莱布尼茨对观念的分类——曾点燃一盏“大灯”，照进了他的《德语逻辑学》（cf. GL “Vorrede”）；此外，沃尔夫本人报告说，他在《德语形而上学》的本体论、宇宙论和理性心理学部分吸纳了许多莱布尼茨式概念（cf. Wuttke 1841: 141–142）[^wuttke-1841]。即便如此，沃尔夫指出，当他开始撰写这套哲学教科书时，人们几乎看不到莱布尼茨的文本，无从得见更宏大的莱布尼茨哲学（Wuttke 1841: 140–141; cf. also Wilson 1994）[^wilson-1994][^wuttke-1841]；因此他对把自己的体系命名为“莱布尼茨—沃尔夫学派”持保留态度——这一名号他认为出自其学生格奥尔格·贝恩哈德·比尔芬格（Georg Bernhard Bilfinger）之手（Wuttke 1841: 142；关于这一命名的来源与恰当性，见 Dyck 2025: 121–124 与 Favaretti Camposampiero 2026）[^dyck-2025][^favaretti-2026][^wuttke-1841]。莱布尼茨对沃尔夫影响的范围广受争论（cf. Corr 1975; École 1979）[^corr-1975][^école-1979]，但无论如何清楚的是：莱布尼茨既不是沃尔夫思想发展的唯一影响者，也并非在每种情况下都是最重要的影响者；埃伦弗里德·瓦尔特·冯·契恩豪斯（Ehrenfried Walther von Tschirnhaus，1651–1708）、约翰·洛克以及晚期经院哲学家等人物，也对沃尔夫的形而上学、认识论和科学论施加过重要影响（Neveu 2018; Leduc 2018; Dyck 2021a）[^dyck-2021a][^leduc-2018][^neveu-2018]。
+    step2: |-
+      这一系列文本首次呈现了所谓“莱布尼茨—沃尔夫学派”哲学——正是这一哲学，日后主导了德国的哲学版图。沃尔夫的哲学体系深受莱布尼茨浸润，这一点当然没有疑问：沃尔夫自己承认，读莱布尼茨 1684 年的论文《论认识、真理与观念》——尤其是其中对观念的分类——曾为他点亮一盏“大灯”，后来融进了《德语逻辑学》（cf. GL “Vorrede”）；他还自陈，在《德语形而上学》讲本体论、宇宙论和理性心理学时，吸纳了不少莱布尼茨式概念（cf. Wuttke 1841: 141–142）[^wuttke-1841]。话虽如此，沃尔夫也指出：动笔写这套哲学教科书时，莱布尼茨的文本市面上寥寥无几，想借此窥见莱布尼茨哲学的全貌根本无从谈起（Wuttke 1841: 140–141; cf. also Wilson 1994）[^wilson-1994][^wuttke-1841]。因此他不同意把自己的体系称作“莱布尼茨—沃尔夫学派”——这名号按他的说法出自学生格奥尔格·贝恩哈德·比尔芬格（Georg Bernhard Bilfinger）之手（Wuttke 1841: 142；这一命名的来源与是否恰当，见 Dyck 2025: 121–124 与 Favaretti Camposampiero 2026）[^dyck-2025][^favaretti-2026][^wuttke-1841]。莱布尼茨对沃尔夫的影响究竟有多大，向来聚讼纷纭（cf. Corr 1975; École 1979）[^corr-1975][^école-1979]；但有一点无论如何是清楚的：塑造沃尔夫思想的，莱布尼茨既非唯一，也未必处处最重要——埃伦弗里德·瓦尔特·冯·契恩豪斯（Ehrenfried Walther von Tschirnhaus，1651–1708）、约翰·洛克，还有晚期经院诸家，都对他的形而上学、认识论和科学论施加过重要影响（Neveu 2018; Leduc 2018; Dyck 2021a）[^dyck-2021a][^leduc-2018][^neveu-2018]。
   - id: 33
     kind: body
     source: |-
       Turning to a brief overview of Wolff’s philosophical works, the *German Logic* is intended, quite in contrast to Thomasius’, as a handbook for the acquisition, justification, and orderly presentation of scientific cognition. So, in addition to the now expected treatment of concepts, propositions, and syllogisms, Wolff’s text contains discussion of drawing universal propositions from individual experiences, of experiments, and of science and its distinction from faith and opinion. Moreover, the *German Logic* contains Wolff’s mature presentation of his mathematical method, through which we proceed from definitions and axioms to the formulation of theorems and postulates, and ultimately to demonstrations, and it outlines how the method can be employed for the purpose of scientific discovery (for discussion, see Frketich 2019; Gava 2019)[^frketich-2019][^gava-2019][^gava-2019-2]. Significantly, it is this method that gains widespread application throughout Wolff’s philosophical enterprise, including in his metaphysics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      简要浏览沃尔夫的哲学著作：与托马修斯的逻辑学恰成对照，《德语逻辑学》旨在成为一部关于科学认识的获得、辩护与有序呈现的手册。因此，除了如今意料之中的对概念、命题和三段论的论述之外，沃尔夫的文本还包含对从个别经验引出普遍命题的讨论、对实验的讨论，以及对科学及其与信仰和意见之区分的讨论。此外，《德语逻辑学》包含沃尔夫对其数学方法的成熟呈现——经由这一方法，我们从定义和公理进到定理与公设的表述，最终进到证明——并且它概述了这一方法如何可以用于科学发现的目的（相关讨论见 Frketich 2019；Gava 2019）[^frketich-2019][^gava-2019][^gava-2019-2]。值得注意的是，正是这一方法在沃尔夫的整个哲学事业中获得广泛应用，包括在他的形而上学中。
+    step2: |-
+      大体看看沃尔夫的哲学著作。《德语逻辑学》与托马修斯的逻辑学恰成对照：它立志成为一部手册，教人如何获得科学认识、为之辩护、并有条理地陈述出来。于是，除了概念、命题、三段论这些如今意料之中的论题，书里还讨论了如何从个别经验引出普遍命题，讨论了实验，也讨论了科学是什么、科学如何区别于信仰与意见。此外，《德语逻辑学》还包含沃尔夫对其数学方法的成熟陈述：循此方法，我们从定义和公理出发，进到定理与公设的表述，最终抵达证明；书里还概述了怎样把这一方法用于科学发现（相关讨论见 Frketich 2019；Gava 2019）[^frketich-2019][^gava-2019][^gava-2019-2]。值得注意的是，后来在沃尔夫的全部哲学事业中——包括他的形而上学——得到广泛应用的，正是这一方法。
   - id: 34
     kind: body
     source: |-
       The *German Metaphysics* was Wolff’s next major philosophical text, and in it he formally introduces the division of metaphysical topics into ontology, cosmology, empirical and rational psychology and natural theology, a division that Kant, among others, would subsequently take up. The initial chapter attempts to make evident, in a Cartesian vein, both an indubitable truth (“we are certain that we exist”) and to establish a canon for what will count as a *certain* cognition for the remainder of the enterprise. In the second chapter Wolff sets out the two (Leibnizian) principles governing his philosophical thought: the principle of contradiction (“something cannot both be and not be at the same time” GM §10) and the principle of sufficient reason. Significantly, Wolff suggests that while the first is self-evident, the second admits of proof, for which Wolff offers two arguments in an apparent departure from Leibniz (Dyck 2025 187–194)[^dyck-2025]. The first proceeds as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      《德语形而上学》是沃尔夫下一部重要的哲学文本；他在其中正式引入了把形而上学主题划分为本体论、宇宙论、经验心理学与理性心理学以及自然神学的做法——康德等人在其后采纳了这一划分。开篇第一章以笛卡尔式的笔调力图彰显一条无可置疑的真理（“我们确知我们存在”），并为整个事业此后算作*确定的*认识的东西确立一个判准。在第二章，沃尔夫给出支配其哲学思考的两条（莱布尼茨式的）原则：矛盾原则（“某物不能同时既存在又不存在”，GM §10）与充足理由原则。值得注意的是，沃尔夫暗示，第一条是不证自明的，第二条则容许证明；为此沃尔夫给出了两个论证，明显偏离了莱布尼茨（Dyck 2025 187–194）[^dyck-2025]。第一个论证进行如下：
+    step2: |-
+      《德语形而上学》是沃尔夫下一部重要的哲学文本。他在书中正式引入了形而上学主题的划分：本体论、宇宙论、经验心理学与理性心理学、自然神学——康德等人后来采纳的正是这一划分。第一章开宗明义，以笛卡尔式的笔调彰显一条无可置疑的真理（“我们确知我们存在”），并立下一个判准：整个事业此后算不算*确定的*认识，以此为断。第二章里，沃尔夫亮出支配其哲学思考的两条（莱布尼茨式的）原则：矛盾原则（“某物不能同时既存在又不存在”，GM §10）与充足理由原则。值得留意的是，沃尔夫暗示：第一条不证自明，第二条却容许证明——为此他给出两个论证，明显偏离了莱布尼茨（Dyck 2025 187–194）[^dyck-2025]。第一个论证如下：
   - id: 35
     kind: body
     source: |-
       > Were it the case that something could be, or take place, in a thing without a reason why it should occur being met with either in that thing itself or something else, then it would come to be from nothing. Since, however, it is impossible that something could come to be from nothing, *everything that is must have a sufficient reason why it is*. (GM §30 [2019: 101])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 假如某物能够在一个事物中存在或发生，而不必在该事物自身或他物之中遇到它为何发生的理由，那么它就会从无中生成。然而，既然某物从无中生成是不可能的，*凡存在的东西都必定有一个它何以存在的充足理由*。（GM §30 [2019: 101]）
+    step2: |-
+      > 假如某物能在一个事物中存在或发生，而不必在该事物自身或他物之中遇到它为何发生的理由，那它就会从无中生成。可是，某物从无中生成是不可能的；所以，*凡存在的东西，都必定有一个它何以存在的充足理由*。（GM §30 [2019: 101]）
   - id: 36
     kind: body
     source: |-
       In the remainder of the ontology, Wolff provides accounts of concepts that will be key for his subsequent treatment of specific metaphysical topics, including essence and attribute, space and time, simple and composite, substance, power, and cause.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在本体论的其余部分，沃尔夫对一些概念给出说明；这些概念对他随后处理具体的形而上学主题至关重要，包括本质与属性、空间与时间、单纯物与复合物、实体、能力和原因。
+    step2: |-
+      在本体论的其余部分，沃尔夫逐一说明了一批概念——本质与属性、空间与时间、单纯物与复合物、实体、能力、原因——它们是他随后处理各具体形而上学主题的关键。
   - id: 37
     kind: body
     source: |-
       The chapters on empirical and rational psychology outline an account of the soul in general and of the human soul in particular. In his empirical treatment, Wolff considers what can be known of the soul by means of our ordinary inner experience. He contends that we can distinguish thoughts in terms of obscurity, clarity, and distinctness, but we can also distinguish the soul’s representations in terms of their content. Accordingly, they can be classified into sensations, imaginings, and thoughts proper, which can in turn be traced back to various faculties of the soul, including sensibility, imagination, and the understanding, in virtue of which it is capable of these distinct thoughts. We also discern that the soul is subject to pleasure and displeasure in its (distinct or indistinct) cognition of good and evil, which give rise to desires and willing (based on indistinct and distinct cognition respectively), and when that willing is in accordance with what pleases the soul the most then, for Wolff, its acts are free (GM §519).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      论经验心理学和理性心理学的各章勾画了关于灵魂一般的说明，尤其是关于人类灵魂的说明。在其经验性的论述中，沃尔夫考察借助于我们日常的内部经验能够认识到灵魂的什么。他主张，我们可以按晦暗、清晰和明晰来区分思想，但也可以按内容来区分灵魂的表象。据此，表象可以分为感觉、想象和本义的思想，而这些又可以回溯到灵魂的各种官能——包括感受性、想象和知性——灵魂正是凭借这些官能才能进行这些不同的思想。我们还察觉到，灵魂在对善恶的（清晰或晦暗的）认识中受快乐与不快的支配；这产生欲望和意愿（分别基于晦暗的认识与清晰的认识），而当意愿合于最使灵魂愉悦的东西时，沃尔夫认为，灵魂的这些活动就是自由的（GM §519）。
+    step2: |-
+      论经验心理学与理性心理学的各章，勾画出一套关于灵魂——尤其是人类灵魂——的说明。在经验性论述里，沃尔夫考察的是：靠我们日常的内部经验，关于灵魂能认识到什么。他主张，思想可以按晦暗、清晰、明晰来区分；灵魂的表象也可以按内容来区分。据此，表象可分为感觉、想象和本义的思想，而这些又可回溯到灵魂的种种官能——感受性、想象、知性等等；灵魂正是凭这些官能，才做得出这些不同的思想。我们还能察觉到：灵魂在对善恶的（清晰或晦暗的）认识中伴随着快乐与不快，由此生出欲望与意愿（分别基于晦暗的认识与清晰的认识）；而当意愿合于最使灵魂愉悦的东西时，沃尔夫说，灵魂的这些活动就是自由的（GM §519）。
   - id: 38
     kind: body
     source: |-
       On the basis of these empirical cognitions of the soul, rational psychology seeks to draw inferences regarding the soul’s essence and nature. Wolff argues that the soul must be immaterial given that it is impossible that a body should think (GM §738), and as a result that the soul is a simple substance endowed with a power of which its thoughts are effects, which power is identified as a power of representation (GM §§742–7). This secures the soul’s natural immortality, or incorruptibility, but Wolff argues for the soul’s personal immortality, or its preservation of its state of conscious representation and memory in the afterlife (GM §§925–6). It is in the context of rational psychology that Wolff also offers a defence of the Leibnizian doctrine of pre-established harmony (§765), which he think accounts for the empirically-observed agreement between the states of the soul and the body better than the competing systems of physical influence and occasional causation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以这些关于灵魂的经验认识为基础，理性心理学力图就灵魂的本质与本性作出推论。沃尔夫论证说，灵魂必定是非物质的，因为物体能够思维是不可能的（GM §738）；其结果是，灵魂是一个单纯实体，被赋予一种能力，其思想就是这种能力的效果；这种能力被认定为表象能力（GM §§742–7）。这就保证了灵魂的自然不朽，或者说不可腐败；但沃尔夫为灵魂的人格不朽——即灵魂在身后保存其有意识的表象状态与记忆的状态——提出论证（GM §§925–6）。正是在理性心理学的语境中，沃尔夫还为莱布尼茨的前定和谐学说提供了辩护（§765）；他认为，比起与之竞争的物理影响说和偶因因果说，前定和谐更好地说明了经验所观察到的灵魂状态与身体状态之间的一致。
+    step2: |-
+      以这些关于灵魂的经验认识为底子，理性心理学进而就灵魂的本质与本性作推论。沃尔夫论证说：既然物体能够思维是不可能的（GM §738），灵魂就必定是非物质的；由此，灵魂是一个单纯实体，被赋予一种能力，思想即这一能力的效果——这种能力被认定为表象能力（GM §§742–7）。这就保住了灵魂的自然不朽，或曰不可腐败；但沃尔夫进一步为灵魂的人格不朽辩护，即灵魂在身后仍保有有意识的表象状态与记忆（GM §§925–6）。也正是在理性心理学的语境中，沃尔夫为莱布尼茨的前定和谐学说给出了辩护（§765）：在他看来，对于经验中观察到的灵魂状态与身体状态的一致，前定和谐比物理影响说和偶因因果说这两个对手解释得更好。
   - id: 39
     kind: body
     source: |-
       The final pair of topics concern the world (cosmology) and God (natural theology). Regarding the former, Wolff identifies the world as the “series of changeable things that are next to one another and follow one upon the other” (GM §544 [2019: 120]). As such, the world is a composite consisting of ultimately simple substances, though Wolff declines to identify them as Leibnizian monads as he hesitates to ascribe representational states to the constituents (“elements”) of matter (GM §§598–9). Things and events in the world are nonetheless connected to one another in accordance with the principle of sufficient reason, and Wolff concludes that all events are certain as a result (GM §561). Concerning God, Wolff argues that He must exist inasmuch as our own evident existence requires a necessary being to serve as its sufficient reason, which necessary being must also be independent, eternal, and simple (GM §§928–936); it cannot, therefore, be the world (a composite) nor our own soul (a being dependant on the world), and so can only be God (GM §945). In addition to these attributes, God must have an understanding, through which He distinctly represents all that is possible, and a free will inasmuch as He chooses that world which pleases Him most to make actual (GM §980).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后两个主题涉及世界（宇宙论）与上帝（自然神学）。关于前者，沃尔夫把世界认定为“彼此相邻且相继相随的可变事物的系列”（GM §544 [2019: 120]）。如此看来，世界是一个复合物，由最终单纯实体构成；不过沃尔夫不愿把它们认定为莱布尼茨式的单子，因为他迟疑于把表象状态归给物质的诸构成成分（“元素”）（GM §§598–9）。尽管如此，世界中的事物与事件仍按充足理由原则彼此相连，沃尔夫据此得出结论：一切事件都是确定的（GM §561）。关于上帝，沃尔夫论证说，祂必定存在，因为我们自己显明的存在要求一个必然存在者充当其充足理由，而这个必然存在者还必须是独立的、永恒的、单纯的（GM §§928–936）；因此它不可能是世界（一个复合物），也不可能是我们自己的灵魂（一个依赖于世界的存在者），而只能是上帝（GM §945）。除这些属性之外，上帝还必须有一个知性，祂借之明晰地表象一切可能的东西；还必须有一个自由意志，祂借此选择那个最使祂愉悦的世界使之实现（GM §980）。
+    step2: |-
+      最后两个主题是世界（宇宙论）与上帝（自然神学）。先说世界：沃尔夫把世界界定为“彼此相邻、相继相随的可变事物之系列”（GM §544 [2019: 120]）。照此说法，世界是个复合物，由终究单纯的实体构成；不过沃尔夫不愿把这些实体认作莱布尼茨式单子——他迟疑于把表象状态归给物质的构成成分（“元素”）（GM §§598–9）。尽管如此，世界中的事物与事件仍按充足理由原则彼此相连；沃尔夫据此下结论：一切事件都是确定的（GM §561）。再说上帝：沃尔夫论证道，上帝必定存在，因为我们自己那显明的存在需要一个必然存在者充当其充足理由；而这个必然存在者还必须独立、永恒、单纯（GM §§928–936）。因此它不可能是世界（复合物），也不可能是我们自己的灵魂（依赖世界的存在者）——只能是上帝（GM §945）。除这些属性之外，上帝必须有一个知性，借此明晰地表象一切可能的东西；还必须有一个自由意志，借此选择那个最令祂愉悦的世界并使之实现（GM §980）。
   - id: 40
     kind: body
     source: |-
       Rounding out Wolff’s major philosophical works of this period, the *German Ethics* is composed of four parts, a theoretical part that treats the foundation of practical philosophy and three practical parts that present a doctrine of duties that human beings have towards themselves, God, and others. The central notion in Wolff’s ethics is the (metaphysical) notion of perfection which concerns the “agreement” of elements in a given manifold (cf. GM §152), and which is cognized through our intellectual powers (and the history and importance of this notion for Wolff, see Goldenbaum 2024)[^goldenbaum-2024]. It is the cognition of the (apparent) perfection in an action that moves us to act, a fact that accounts for Wolff’s emphasis on the duty to cultivate our understanding among our duties to ourselves so that we can be moved to act in (what are in fact) the most perfect ways (Walschots 2024)[^walschots-2024]. Promoting the perfection of ourselves and others serves for Wolff as the universal rule in accordance with which we ought to choose between two (or more) possible actions (GE §12). That is to say, when making a free choice we ought to consider whether the action “promotes the perfection of our inner and outer state” (GE §2) and that means considering whether the state of the soul and the body accords with the prior state or contradicts it. The outcome has greater perfection to the extent that it contributes to the continued “natural human state and its harmonious preservation over time”(GE §2). The natural human state Wolff envisions is the state of the soul in its manifold efforts to find truth, and everything has to be done to maximize that state. It so happens, that this is where happiness lies as well (Lanzini Stobbe 2024)[^lanzini-2024], and as Wolff indicates at the end of the ethics, it is incumbent upon human beings to ensure not only their own perfection/happiness, but to “contribute as much as possible to the happiness of others” (GE §767).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为沃尔夫这一时期主要哲学著作的收官，《德语伦理学》由四个部分构成：一个理论部分论实践哲学的基础，三个实践部分呈述人对自身、对上帝和对他人所负的义务学说。沃尔夫伦理学的核心概念是（形而上学的）完善概念；它关乎一个给定杂多中诸元素的“一致”（cf. GM §152），并通过我们的理智能力被认识（关于这一概念对沃尔夫的历史与重要性，见 Goldenbaum 2024）[^goldenbaum-2024]。正是对一个行动中（表面上的）完善的认识推动我们去行动；这一事实说明了沃尔夫为什么在人对自身的义务中强调培养知性的义务——以便我们能够被推动，以（事实上）最完善的方式行动（Walschots 2024）[^walschots-2024]。在沃尔夫那里，促进我们自身与他人的完善，充当着普遍规则；我们应当按照它在一（或多个）可能的行动之间作出选择（GE §12）。也就是说，在作自由选择时，我们应当考虑该行动是否“促进我们内在与外在状态的完善”（GE §2）；这意味着考虑灵魂与身体的状态是否合于先前的状态，还是与之相悖。其结果在多大程度上有助于“人的自然状态及其随时间的和谐保持”（GE §2）的延续，就在多大程度上具有更大的完善。沃尔夫所设想的人的自然状态，是灵魂多方面寻求真理的状态；为了最大化这一状态，一切都必须去做。恰好，这也是幸福之所在（Lanzini Stobbe 2024）[^lanzini-2024]；而且正如沃尔夫在伦理学末尾所表明的，人有责任不仅确保自身的完善/幸福，还要“尽可能多地促进他人的幸福”（GE §767）。
+    step2: |-
+      沃尔夫这一时期的主要哲学著作，以《德语伦理学》收尾。全书四部分：理论部分论实践哲学的基础，三个实践部分分述人对自身、对上帝、对他人所负的义务学说。沃尔夫伦理学的核心概念是（形而上学的）完善：它关乎给定杂多中诸元素的“一致”（cf. GM §152），要靠我们的理智能力来认识（这一概念的历史及其对沃尔夫的重要性，见 Goldenbaum 2024）[^goldenbaum-2024]。推动我们行动的，正是对一个行动中（表面上的）完善的认识。这一事实也解释了沃尔夫为何在人对自身的义务中，特别强调培养知性的义务——好让我们能够被推动，以（事实上）最完善的方式去行动（Walschots 2024）[^walschots-2024]。在沃尔夫看来，促进自己与他人的完善，就是普遍规则：两个（或更多）可能的行动摆在面前，我们按它来取舍（GE §12）。也就是说，作自由选择时要考虑：这个行动是否“促进我们内在与外在状态的完善”（GE §2）——即考虑灵魂与身体的状态，是合于先前状态还是与之相悖。结果在多大程度上延续了“人的自然状态及其随时间的和谐保持”（GE §2），就在多大程度上更完善。沃尔夫设想的人的自然状态，是灵魂多方求索真理的状态；凡有助于把这一状态最大化的事，都当为之。而幸福恰好就安放在这里（Lanzini Stobbe 2024）[^lanzini-2024]。沃尔夫在伦理学末尾还说：人不但要确保自己的完善/幸福，还须“尽可能多地促进他人的幸福”（GE §767）。
   - id: 41
     kind: body
     source: |-
       ### 3.2 The Halle Pietists
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 哈勒的虔敬派
+    step2: |-
+      ### 3.2 哈勒的虔敬派
   - id: 42
     kind: body
     source: |-
       Next to Thomasius and Wolff, the most important intellectual figure in the early history of the Friedrichs-Universität in Halle was August Hermann Francke (1663–1723). As we have seen, Francke had courted controversy in Leipzig through his involvement in the Pietist movement. Pietism was a spiritual movement within the Lutheran tradition that rejected the scholastic and theological turn that Lutheranism had taken and proposed a further, internal reformation to supplement the already-effected external one, and aimed at cultivating a “living faith” rather than mere lip-service to Christian ideals. The Pietists sought the personal and interior experience of a relationship to Christ, an individual transformation that was the result of an act of divine grace modelled on Francke’s own conversion experience (cf. Wallmann 1990: 63–4)[^wallmann-1990]. To this end, the Pietists focused on the study of the Bible itself and devotional literature in small groups—the so-called conventicles or *collegia pietatis*—which were notable, and controversial, for welcoming women, if only as silent observers (R. Albrecht 2004; Gierl 2015)[^albrecht-2004][^gierl-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      继托马修斯与沃尔夫之后，哈勒弗里德里希大学早期历史上最重要的思想人物是奥古斯特·赫尔曼·弗兰克（August Hermann Francke，1663–1723）。如前所见，弗兰克因卷入虔敬派运动而在莱比锡招惹争议。虔敬派是路德宗传统内部的一场属灵运动；它拒绝路德宗已走的经院哲学与神学转向，提出进一步的内在改革以补充已然实现的外在改革，并以培养“活的信仰”为目标，而不是对基督教理想的口头敷衍。虔敬派追求与基督之关系的个人性和内在性经验，即一种以神恩之举为结果、以弗兰克本人的皈依经验为范型的个体转变（cf. Wallmann 1990: 63–4）[^wallmann-1990]。为此，虔敬派专注于在小组中研读《圣经》本身与灵修文献——即所谓的虔敬集会（collegia pietatis）；这些小组以欢迎女性（哪怕只是作为沉默的旁听者）而著称，也因之备受争议（R. Albrecht 2004; Gierl 2015）[^albrecht-2004][^gierl-2015]。
+    step2: |-
+      哈勒弗里德里希大学早期历史上，排在托马修斯与沃尔夫之后的头号思想人物，是奥古斯特·赫尔曼·弗兰克（August Hermann Francke，1663–1723）。前面已经看到：弗兰克因卷入虔敬派运动，在莱比锡招惹了不少争议。虔敬派是路德宗传统内部的一场属灵运动：它不满路德宗走上经院哲学与神学的转向，主张再来一场内在的改革，去补足已然完成的外在改革；它追求的是“活的信仰”，而不是对基督教理想的口头敷衍。虔敬派要的是与基督建立起个人性、内在性的关系经验——一场个体的转变，其缘起是神恩之举，其范型就是弗兰克本人的皈依经历（cf. Wallmann 1990: 63–4）[^wallmann-1990]。为此，虔敬派热衷于小组研读《圣经》原文与灵修文献——即所谓虔敬集会（*collegia pietatis*）。这类小组以接纳女性著称（哪怕只是让她们做沉默的旁听者），也因此备受争议（R. Albrecht 2004; Gierl 2015）[^albrecht-2004][^gierl-2015]。
   - id: 43
     kind: body
     source: |-
