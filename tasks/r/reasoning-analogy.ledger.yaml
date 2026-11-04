@@ -1131,17 +1131,17 @@ segments:
     source: |-
       ### 3.3 Material criteria: Hesse’s theory
     step1: |-
-      ### 3.3 Material criteria: Hesse’s theory
+      ### 3.3 实质判据：赫西的理论
     step2: |-
-      ### 3.3 Material criteria: Hesse’s theory
+      ### 3.3 实质判据：赫西的理论
   - id: 135
     kind: body
     source: |-
       Hesse (1966) offers a sharpened version of Aristotle’s theory, specifically focused on analogical arguments in the sciences. She formulates three requirements that an analogical argument must satisfy in order to be acceptable:
     step1: |-
-      Hesse (1966) offers a sharpened version of Aristotle’s theory, specifically focused on analogical arguments in the sciences. She formulates three requirements that an analogical argument must satisfy in order to be acceptable:
+      Hesse（1966）给出了亚里士多德理论的一个锐化版本，专门聚焦科学中的类比论证。她提出了一个可接受的类比论证必须满足的三个要求：
     step2: |-
-      Hesse (1966) offers a sharpened version of Aristotle’s theory, specifically focused on analogical arguments in the sciences. She formulates three requirements that an analogical argument must satisfy in order to be acceptable:
+      Hesse（1966）把亚里士多德的理论磨得更锐，专门聚焦科学中的类比论证。她提出，一个可接受的类比论证必须满足三个要求：
   - id: 136
     kind: body
     source: |-
@@ -1149,21 +1149,21 @@ segments:
       2. *Causal condition*. The vertical relations must be causal relations “in some acceptable scientific sense” (1966: 87).
       3. *No-essential-difference condition*. The essential properties and causal relations of the source domain must not have been shown to be part of the negative analogy.
     step1: |-
-      1. *Requirement of material analogy*. The horizontal relations must include similarities between observable properties.
-      2. *Causal condition*. The vertical relations must be causal relations “in some acceptable scientific sense” (1966: 87).
-      3. *No-essential-difference condition*. The essential properties and causal relations of the source domain must not have been shown to be part of the negative analogy.
+      1. *实质类比要求*。水平关系必须包括可观察性质之间的相似性。
+      2. *因果条件*。垂直关系必须是“在某种可接受的科学意义上”的因果关系（1966: 87）。
+      3. *无本质差异条件*。源域的本质性质与因果关系不得已被表明属于负类比的一部分。
     step2: |-
-      1. *Requirement of material analogy*. The horizontal relations must include similarities between observable properties.
-      2. *Causal condition*. The vertical relations must be causal relations “in some acceptable scientific sense” (1966: 87).
-      3. *No-essential-difference condition*. The essential properties and causal relations of the source domain must not have been shown to be part of the negative analogy.
+      1. *实质类比要求*：水平关系必须包含可观察性质之间的相似。
+      2. *因果条件*：垂直关系必须是“在某种可接受的科学意义上”的因果关系（1966: 87）。
+      3. *无本质差异条件*：源域的本质性质与因果关系，不得已被证明属于负类比。
   - id: 137
     kind: body
     source: |-
       #### 3.3.1 Requirement of material analogy
     step1: |-
-      #### 3.3.1 Requirement of material analogy
+      #### 3.3.1 实质类比要求
     step2: |-
-      #### 3.3.1 Requirement of material analogy
+      #### 3.3.1 实质类比要求
   - id: 138
     kind: body
     source: |-
@@ -1171,11 +1171,11 @@ segments:
 
       $$\tag{6} \Delta v = iR $$
     step1: |-
-      For Hesse, an acceptable analogical argument must include “observable similarities” between domains, which she refers to as *material analogy*. Material analogy is contrasted with *formal analogy*. Two domains are formally analogous if both are “interpretations of the same formal theory” (1966: 68). *Nomic isomorphism* (Hempel 1965)[^hempel-1965] is a special case in which the physical laws governing two systems have identical mathematical form. Heat and fluid flow exhibit nomic isomorphism. A second example is the analogy between the flow of electric current in a wire and fluid in a pipe. Ohm’s law
+      对 Hesse 来说，一个可接受的类比论证必须包括域之间的“可观察相似性”，她称之为*实质类比*。实质类比与*形式类比*相对。如果两个域都是“同一个形式理论的解释”，那么它们就是形式上类似的（1966: 68）。*律则同构*（Hempel 1965）[^hempel-1965]是一个特例：支配两个系统的物理定律具有完全相同的数学形式。热与流体流动表现出律则同构。第二个例子是导线中电流的流动与管道中流体的流动之间的类比。欧姆定律
 
       $$\tag{6} \Delta v = iR $$
     step2: |-
-      For Hesse, an acceptable analogical argument must include “observable similarities” between domains, which she refers to as *material analogy*. Material analogy is contrasted with *formal analogy*. Two domains are formally analogous if both are “interpretations of the same formal theory” (1966: 68). *Nomic isomorphism* (Hempel 1965)[^hempel-1965] is a special case in which the physical laws governing two systems have identical mathematical form. Heat and fluid flow exhibit nomic isomorphism. A second example is the analogy between the flow of electric current in a wire and fluid in a pipe. Ohm’s law
+      在 Hesse 看来，可接受的类比论证必须包含域之间的“可观察相似”，她称之为*实质类比*（material analogy），与*形式类比*（formal analogy）相对照。若两个域都是“同一个形式理论的解释”，它们就在形式上类似（1966: 68）。*律则同构*（nomic isomorphism；Hempel 1965）[^hempel-1965]是个特例：支配两个系统的物理定律有完全相同的数学形式。热与流体流动就呈现律则同构。另一例是导线中电流与管道中流体之间的类比。欧姆定律
 
       $$\tag{6} \Delta v = iR $$
   - id: 139
@@ -1185,11 +1185,11 @@ segments:
 
       $$\tag{7} \Delta p = \dot{V}k $$
     step1: |-
-      states that voltage difference along a wire equals current times a constant resistance. This has the same mathematical form as Poiseuille’s law (for ideal fluids):
+      该定律表明，导线两端的电压差等于电流乘以一个恒定的电阻。这与泊肃叶定律（理想流体）具有相同的数学形式：
 
       $$\tag{7} \Delta p = \dot{V}k $$
     step2: |-
-      states that voltage difference along a wire equals current times a constant resistance. This has the same mathematical form as Poiseuille’s law (for ideal fluids):
+      此律说：导线上的电压差等于电流乘以恒定的电阻。它与泊肃叶定律（理想流体）数学形式相同：
 
       $$\tag{7} \Delta p = \dot{V}k $$
   - id: 140
@@ -1197,505 +1197,505 @@ segments:
     source: |-
       which states that the pressure difference along a pipe equals the volumetric flow rate times a constant. Both of these systems can be represented by a common equation. While formal analogy is linked to common mathematical structure, it should not be limited to nomic isomorphism (Bartha 2010: 209)[^bartha-2010]. The idea of formal analogy generalizes to cases where there is a common mathematical structure between *models* for two systems. Bartha offers an even more liberal definition (2010: 195): “Two features are formally similar if they occupy corresponding positions in formally analogous theories. For example, pitch in the theory of sound corresponds to color in the theory of light.”
     step1: |-
-      which states that the pressure difference along a pipe equals the volumetric flow rate times a constant. Both of these systems can be represented by a common equation. While formal analogy is linked to common mathematical structure, it should not be limited to nomic isomorphism (Bartha 2010: 209)[^bartha-2010]. The idea of formal analogy generalizes to cases where there is a common mathematical structure between *models* for two systems. Bartha offers an even more liberal definition (2010: 195): “Two features are formally similar if they occupy corresponding positions in formally analogous theories. For example, pitch in the theory of sound corresponds to color in the theory of light.”
+      后者表明，管道两端的压强差等于体积流量乘以一个常数。这两个系统都可以用一个共同的方程来表示。虽然形式类比与共同的数学结构相联系，但它不应被限于律则同构（Bartha 2010: 209）[^bartha-2010]。形式类比的概念可以推广到两个系统的*模型*之间存在共同数学结构的情形。Bartha 给出了一个更加宽松的定义（2010: 195）：“如果两个特征在形式上类似的理论中占据对应的位置，那么它们就是形式相似的。例如，声音理论中的音高对应于光理论中的颜色。”
     step2: |-
-      which states that the pressure difference along a pipe equals the volumetric flow rate times a constant. Both of these systems can be represented by a common equation. While formal analogy is linked to common mathematical structure, it should not be limited to nomic isomorphism (Bartha 2010: 209)[^bartha-2010]. The idea of formal analogy generalizes to cases where there is a common mathematical structure between *models* for two systems. Bartha offers an even more liberal definition (2010: 195): “Two features are formally similar if they occupy corresponding positions in formally analogous theories. For example, pitch in the theory of sound corresponds to color in the theory of light.”
+      后者说：管道上的压强差等于体积流量乘以常数。两个系统都可由同一个方程刻画。形式类比固然联系于共同的数学结构，但不应把它限于律则同构（Bartha 2010: 209）[^bartha-2010]：形式类比的概念可推广到两个系统的*模型*之间存在共同数学结构的情形。Bartha 给过一个更宽松的定义（2010: 195）：“两个特征若在形式上类似的理论中占据对应位置，便是形式相似的。例如，声音理论中的音高对应光理论中的颜色。”
   - id: 141
     kind: body
     source: |-
       By contrast, material analogy consists of what Hesse calls “observable” or “pre-theoretic” similarities. These are horizontal relationships of similarity between properties of objects in the source and the target. Similarities between echoes (sound) and reflection (light), for instance, were recognized long before we had any detailed theories about these phenomena. Hesse (1966, 1988) regards such similarities as metaphorical relationships between the two domains and labels them “pre-theoretic” because they draw on personal and cultural experience. We have both material and formal analogies between sound and light, and it is significant for Hesse that the former are independent of the latter.
     step1: |-
-      By contrast, material analogy consists of what Hesse calls “observable” or “pre-theoretic” similarities. These are horizontal relationships of similarity between properties of objects in the source and the target. Similarities between echoes (sound) and reflection (light), for instance, were recognized long before we had any detailed theories about these phenomena. Hesse (1966, 1988) regards such similarities as metaphorical relationships between the two domains and labels them “pre-theoretic” because they draw on personal and cultural experience. We have both material and formal analogies between sound and light, and it is significant for Hesse that the former are independent of the latter.
+      相比之下，实质类比由 Hesse 所谓的“可观察的”或“前理论的”相似性组成。这些是源域与目标域中对象性质之间的水平相似关系。例如，回声（声音）与反射（光）之间的相似性，早在我们对这些现象有任何详细理论之前就被认识到了。Hesse（1966, 1988）把这类相似性看作两个域之间的隐喻关系，并把它们标记为“前理论的”，因为它们取自个人与文化经验。声音与光之间兼有实质类比与形式类比；对 Hesse 来说，重要的是前者独立于后者。
     step2: |-
-      By contrast, material analogy consists of what Hesse calls “observable” or “pre-theoretic” similarities. These are horizontal relationships of similarity between properties of objects in the source and the target. Similarities between echoes (sound) and reflection (light), for instance, were recognized long before we had any detailed theories about these phenomena. Hesse (1966, 1988) regards such similarities as metaphorical relationships between the two domains and labels them “pre-theoretic” because they draw on personal and cultural experience. We have both material and formal analogies between sound and light, and it is significant for Hesse that the former are independent of the latter.
+      相比之下，实质类比由 Hesse 所说的“可观察的”或“前理论的”相似构成——即源域与目标域中对象性质之间的水平相似关系。例如，回声（声）与反射（光）的相似，远在我们对这两种现象有任何详细理论之前就被人认出。Hesse（1966, 1988）视这类相似为两域之间的隐喻关系，并因其取自个人与文化经验而称之为“前理论的”。声与光之间兼有实质类比与形式类比；在 Hesse 看来，要紧的是前者独立于后者。
   - id: 142
     kind: body
     source: |-
       There are good reasons not to accept Hesse’s requirement of material analogy, construed in this narrow way. First, it is apparent that formal analogies *are* the starting point in many important inferences. That is certainly the case in mathematics, a field in which material analogy, in Hesse’s sense, plays no role at all. Analogical arguments based on formal analogy have also been extremely influential in physics (Steiner 1989, 1998)[^steiner-1989].
     step1: |-
-      There are good reasons not to accept Hesse’s requirement of material analogy, construed in this narrow way. First, it is apparent that formal analogies *are* the starting point in many important inferences. That is certainly the case in mathematics, a field in which material analogy, in Hesse’s sense, plays no role at all. Analogical arguments based on formal analogy have also been extremely influential in physics (Steiner 1989, 1998)[^steiner-1989].
+      有充分的理由不接受 Hesse 的实质类比要求（按这种窄的方式理解）。第一，显然在许多重要推理中，形式类比*正是*出发点。在数学中肯定如此——在那个领域，Hesse 意义上的实质类比根本不起作用。基于形式类比的类比论证在物理学中也极有影响（Steiner 1989, 1998）[^steiner-1989]。
     step2: |-
-      There are good reasons not to accept Hesse’s requirement of material analogy, construed in this narrow way. First, it is apparent that formal analogies *are* the starting point in many important inferences. That is certainly the case in mathematics, a field in which material analogy, in Hesse’s sense, plays no role at all. Analogical arguments based on formal analogy have also been extremely influential in physics (Steiner 1989, 1998)[^steiner-1989].
+      有充分理由不接受如此窄理解的实质类比要求。其一，许多重要推理的出发点恰恰是形式类比——数学中肯定如此：在那一领域，Hesse 意义上的实质类比根本不登场。基于形式类比的类比论证在物理学中也影响巨大（Steiner 1989, 1998）[^steiner-1989]。
   - id: 143
     kind: body
     source: |-
       In Norton’s broad sense, however, ‘material analogy’ simply refers to similarities rooted in factual knowledge of the source and target domains. With reference to this broader meaning, Hesse proposes two additional material criteria.
     step1: |-
-      In Norton’s broad sense, however, ‘material analogy’ simply refers to similarities rooted in factual knowledge of the source and target domains. With reference to this broader meaning, Hesse proposes two additional material criteria.
+      然而，按 Norton 的宽泛意义，“实质类比”仅指植根于源域与目标域之事实知识的相似性。参照这个更宽的意义，Hesse 提出了另外两条实质判据。
     step2: |-
-      In Norton’s broad sense, however, ‘material analogy’ simply refers to similarities rooted in factual knowledge of the source and target domains. With reference to this broader meaning, Hesse proposes two additional material criteria.
+      不过，按 Norton 的宽义，“实质类比”泛指植根于源、目标域之事实知识的相似。循这个宽义，Hesse 又提出两条实质判据。
   - id: 144
     kind: body
     source: |-
       #### 3.3.2 Causal condition
     step1: |-
-      #### 3.3.2 Causal condition
+      #### 3.3.2 因果条件
     step2: |-
-      #### 3.3.2 Causal condition
+      #### 3.3.2 因果条件
   - id: 145
     kind: body
     source: |-
       Hesse requires that the hypothetical analogy, the feature transferred to the target domain, be *causally related* to the positive analogy. In her words, the essential requirement for a good argument from analogy is “a tendency to co-occurrence”, i.e., a causal relationship. She states the requirement as follows:
     step1: |-
-      Hesse requires that the hypothetical analogy, the feature transferred to the target domain, be *causally related* to the positive analogy. In her words, the essential requirement for a good argument from analogy is “a tendency to co-occurrence”, i.e., a causal relationship. She states the requirement as follows:
+      Hesse 要求，假说类比——即被迁移到目标域的特征——与正类比*有因果关系*。用她的话说，一个好的类比论证的本质要求是“一种共同发生的倾向”，即一种因果关系。她这样表述该要求：
     step2: |-
-      Hesse requires that the hypothetical analogy, the feature transferred to the target domain, be *causally related* to the positive analogy. In her words, the essential requirement for a good argument from analogy is “a tendency to co-occurrence”, i.e., a causal relationship. She states the requirement as follows:
+      Hesse 要求：假说类比——那个被迁移到目标域的特征——须与正类比*有因果关系*。用她的话说，好类比论证的本质要求是“一种共同发生的倾向”，即因果关系。她把这条要求表述为：
   - id: 146
     kind: body
     source: |-
       > The vertical relations in the model [source] are causal relations in some acceptable scientific sense, where there are no compelling a priori reasons for denying that causal relations of the same kind may hold between terms of the explanandum [target]. (1966: 87)
     step1: |-
-      > The vertical relations in the model [source] are causal relations in some acceptable scientific sense, where there are no compelling a priori reasons for denying that causal relations of the same kind may hold between terms of the explanandum [target]. (1966: 87)
+      > 模型［源域］中的垂直关系是在某种可接受的科学意义上的因果关系，并且不存在否认同类因果关系可能在解释项［目标域］的诸词项之间成立的强有力的先验理由。（1966: 87）
     step2: |-
-      > The vertical relations in the model [source] are causal relations in some acceptable scientific sense, where there are no compelling a priori reasons for denying that causal relations of the same kind may hold between terms of the explanandum [target]. (1966: 87)
+      > 模型［源域］中的垂直关系须是某种可接受的科学意义上的因果关系，且不存在强有力的先验理由，足以否认同类的因果关系也可能在解释项［目标域］的诸词项之间成立。（1966: 87）
   - id: 147
     kind: body
     source: |-
       The causal condition rules out analogical arguments where there is no causal knowledge of the source domain. It derives support from the observation that many analogies do appear to involve a transfer of causal knowledge.
     step1: |-
-      The causal condition rules out analogical arguments where there is no causal knowledge of the source domain. It derives support from the observation that many analogies do appear to involve a transfer of causal knowledge.
+      因果条件排除了对源域没有因果知识的类比论证。它从如下观察得到支持：许多类比确实看起来涉及因果知识的迁移。
     step2: |-
-      The causal condition rules out analogical arguments where there is no causal knowledge of the source domain. It derives support from the observation that many analogies do appear to involve a transfer of causal knowledge.
+      因果条件把对源域缺乏因果知识的类比论证排除在外。其支持来自一个观察：许多类比确实像是因果知识的迁移。
   - id: 148
     kind: body
     source: |-
       The causal condition is on the right track, but is arguably too restrictive. For example, it rules out analogical arguments in mathematics. Even if we limit attention to the empirical sciences, persuasive analogical arguments may be founded upon strong statistical correlation in the absence of any *known* causal connection. Consider (*Example 11*) Benjamin Franklin’s prediction, in 1749, that pointed metal rods would attract lightning, by analogy with the way they attracted the “electrical fluid” in the laboratory:
     step1: |-
-      The causal condition is on the right track, but is arguably too restrictive. For example, it rules out analogical arguments in mathematics. Even if we limit attention to the empirical sciences, persuasive analogical arguments may be founded upon strong statistical correlation in the absence of any *known* causal connection. Consider (*Example 11*) Benjamin Franklin’s prediction, in 1749, that pointed metal rods would attract lightning, by analogy with the way they attracted the “electrical fluid” in the laboratory:
+      因果条件方向正确，但可以说限制过严。例如，它排除了数学中的类比论证。即使把注意力限于经验科学，有说服力的类比论证也可能建立在强统计相关之上，而没有任何*已知的*因果联系。考虑（*例 11*）本杰明·富兰克林 1749 年的预测：尖端金属杆会吸引闪电——凭的是它们在实验室里吸引“电流体”的方式：
     step2: |-
-      The causal condition is on the right track, but is arguably too restrictive. For example, it rules out analogical arguments in mathematics. Even if we limit attention to the empirical sciences, persuasive analogical arguments may be founded upon strong statistical correlation in the absence of any *known* causal connection. Consider (*Example 11*) Benjamin Franklin’s prediction, in 1749, that pointed metal rods would attract lightning, by analogy with the way they attracted the “electrical fluid” in the laboratory:
+      因果条件方向正确，却可以说限制过严。例如它排除了数学中的类比论证。即便把视线收窄到经验科学，有说服力的类比论证也可能奠基于强统计相关，而没有任何*已知的*因果联系。看（*例 11*）本杰明·富兰克林 1749 年的预测：尖端金属杆会吸引闪电——凭据是它们在实验室里吸引“电流体”的方式：
   - id: 149
     kind: body
     source: |-
       > Electrical fluid agrees with lightning in these particulars: 1. Giving light. 2. Colour of the light. 3. Crooked direction. 4. Swift motion. 5. Being conducted by metals. 6. Crack or noise in exploding. 7. Subsisting in water or ice. 8. Rending bodies it passes through. 9. Destroying animals. 10. Melting metals. 11. Firing inflammable substances. 12. Sulphureous smell.—The electrical fluid is attracted by points.—We do not know whether this property is in lightning.—But since they agree in all the particulars wherein we can already compare them, is it not probable they agree likewise in this? Let the experiment be made. (*Benjamin Franklin’s Experiments*, 334)
     step1: |-
-      > Electrical fluid agrees with lightning in these particulars: 1. Giving light. 2. Colour of the light. 3. Crooked direction. 4. Swift motion. 5. Being conducted by metals. 6. Crack or noise in exploding. 7. Subsisting in water or ice. 8. Rending bodies it passes through. 9. Destroying animals. 10. Melting metals. 11. Firing inflammable substances. 12. Sulphureous smell.—The electrical fluid is attracted by points.—We do not know whether this property is in lightning.—But since they agree in all the particulars wherein we can already compare them, is it not probable they agree likewise in this? Let the experiment be made. (*Benjamin Franklin’s Experiments*, 334)
+      > 电流体在如下诸点上与闪电一致：1. 发光。2. 光的颜色。3. 弯曲的方向。4. 迅捷的运动。5. 由金属传导。6. 爆炸时的噼啪声或响声。7. 存在于水或冰中。8. 撕裂它穿过的物体。9. 杀死动物。10. 熔化金属。11. 点燃易燃物。12. 硫磺气味。——电流体被尖端吸引。——我们不知道闪电是否具有这一属性。——但既然它们在我们目前已经可以比较的一切诸点上彼此一致，它们在这一点上不也同样一致吗？这不是很可能的吗？让实验做出来吧。（*Benjamin Franklin’s Experiments*, 334）
     step2: |-
-      > Electrical fluid agrees with lightning in these particulars: 1. Giving light. 2. Colour of the light. 3. Crooked direction. 4. Swift motion. 5. Being conducted by metals. 6. Crack or noise in exploding. 7. Subsisting in water or ice. 8. Rending bodies it passes through. 9. Destroying animals. 10. Melting metals. 11. Firing inflammable substances. 12. Sulphureous smell.—The electrical fluid is attracted by points.—We do not know whether this property is in lightning.—But since they agree in all the particulars wherein we can already compare them, is it not probable they agree likewise in this? Let the experiment be made. (*Benjamin Franklin’s Experiments*, 334)
+      > 电流体在以下诸点上与闪电一致：1. 发光。2. 光的颜色。3. 弯曲的方向。4. 迅捷的运动。5. 由金属传导。6. 爆炸时的噼啪声或响声。7. 存在于水或冰中。8. 撕裂所穿过的物体。9. 杀死动物。10. 熔化金属。11. 点燃易燃物。12. 硫磺气味。——电流体被尖端吸引。——我们不知道闪电是否也有这一属性。——但既然二者在我们目前已能比较的每一个点上都彼此一致，在这一点上难道不也同样一致吗？让实验来裁决吧。（*Benjamin Franklin’s Experiments*, 334）
   - id: 150
     kind: body
     source: |-
       Franklin’s hypothesis was based on a long list of properties common to the target (lightning) and source (electrical fluid in the laboratory). There was no known causal connection between the twelve “particulars” and the thirteenth property, but there was a strong correlation. Analogical arguments may be plausible even where there are no known causal relations.
     step1: |-
-      Franklin’s hypothesis was based on a long list of properties common to the target (lightning) and source (electrical fluid in the laboratory). There was no known causal connection between the twelve “particulars” and the thirteenth property, but there was a strong correlation. Analogical arguments may be plausible even where there are no known causal relations.
+      富兰克林的假说基于目标（闪电）与源（实验室中的电流体）共有的长长一列性质。在这十二个“诸点”与第十三个属性之间没有已知的因果联系，但有很强的相关性。即使在没有已知因果关系的地方，类比论证也可能是可信的。
     step2: |-
-      Franklin’s hypothesis was based on a long list of properties common to the target (lightning) and source (electrical fluid in the laboratory). There was no known causal connection between the twelve “particulars” and the thirteenth property, but there was a strong correlation. Analogical arguments may be plausible even where there are no known causal relations.
+      富兰克林的假说，靠的是目标（闪电）与源（实验室中的电流体）共有的一长串性质。这十二条“诸点”与第十三个属性之间没有已知因果联系，却有很强的相关。可见，即便在没有已知因果关系之处，类比论证仍可以是可信的。
   - id: 151
     kind: body
     source: |-
       #### 3.3.3 No-essential-difference condition
     step1: |-
-      #### 3.3.3 No-essential-difference condition
+      #### 3.3.3 无本质差异条件
     step2: |-
-      #### 3.3.3 No-essential-difference condition
+      #### 3.3.3 无本质差异条件
   - id: 152
     kind: body
     source: |-
       Hesse’s final requirement is that the “essential properties and causal relations of the [source] have not been shown to be part of the negative analogy” (1966: 91). Hesse does not provide a definition of “essential,” but suggests that a property or relation is essential if it is “causally closely related to the known positive analogy.” For instance, an analogy with fluid flow was extremely influential in developing the theory of heat conduction. Once it was discovered that heat was not conserved, however, the analogy became unacceptable (according to Hesse) because conservation was so central to the theory of fluid flow.
     step1: |-
-      Hesse’s final requirement is that the “essential properties and causal relations of the [source] have not been shown to be part of the negative analogy” (1966: 91). Hesse does not provide a definition of “essential,” but suggests that a property or relation is essential if it is “causally closely related to the known positive analogy.” For instance, an analogy with fluid flow was extremely influential in developing the theory of heat conduction. Once it was discovered that heat was not conserved, however, the analogy became unacceptable (according to Hesse) because conservation was so central to the theory of fluid flow.
+      Hesse 的最后一个要求是，“［源域的］本质性质与因果关系尚未被表明是负类比的一部分”（1966: 91）。Hesse 没有给“本质的”下定义，但提示说，如果一个性质或关系“与已知的正类比在因果上密切相关”，那么它就是本质的。例如，流体流动类比在发展热传导理论的过程中极有影响。然而，一旦发现热并不守恒，这个类比就变得不可接受了（按 Hesse 的说法），因为守恒在流体流动理论中极为核心。
     step2: |-
-      Hesse’s final requirement is that the “essential properties and causal relations of the [source] have not been shown to be part of the negative analogy” (1966: 91). Hesse does not provide a definition of “essential,” but suggests that a property or relation is essential if it is “causally closely related to the known positive analogy.” For instance, an analogy with fluid flow was extremely influential in developing the theory of heat conduction. Once it was discovered that heat was not conserved, however, the analogy became unacceptable (according to Hesse) because conservation was so central to the theory of fluid flow.
+      Hesse 的最后一条要求：源域的“本质性质与因果关系尚未被表明是负类比的一部分”（1966: 91）。她没给“本质的”下定义，只提示：一个性质或关系若“与已知的正类比在因果上密切相关”，便是本质的。例如，流体流动类比在热传导理论的发展中极有影响；可一旦发现热并不守恒，这个类比就变得不可接受（按 Hesse 的说法）——因为守恒在流体流动理论中居于核心。
   - id: 153
     kind: body
     source: |-
       This requirement, though once again on the right track, seems too restrictive. It can lead to the rejection of a good analogical argument. Consider the analogy between a two-dimensional rectangle and a three-dimensional box (*Example 7*). Broadening Hesse’s notion, it seems that there are many ‘essential’ differences between rectangles and boxes. This does not mean that we should reject every analogy between rectangles and boxes out of hand. The problem derives from the fact that Hesse’s condition is applied to the analogy *relation* independently of the use to which that relation is put. What counts as essential should vary with the analogical argument. Absent an inferential context, it is impossible to evaluate the importance or ‘essentiality’ of similarities and differences.
     step1: |-
-      This requirement, though once again on the right track, seems too restrictive. It can lead to the rejection of a good analogical argument. Consider the analogy between a two-dimensional rectangle and a three-dimensional box (*Example 7*). Broadening Hesse’s notion, it seems that there are many ‘essential’ differences between rectangles and boxes. This does not mean that we should reject every analogy between rectangles and boxes out of hand. The problem derives from the fact that Hesse’s condition is applied to the analogy *relation* independently of the use to which that relation is put. What counts as essential should vary with the analogical argument. Absent an inferential context, it is impossible to evaluate the importance or ‘essentiality’ of similarities and differences.
+      这一要求虽然再次方向正确，但似乎限制过严。它可能导致拒斥一个好的类比论证。考虑二维矩形与三维盒子之间的类比（*例 7*）。放宽 Hesse 的概念，矩形与盒子之间似乎有许多“本质的”差异。这并不意味着我们应当不加考虑地拒斥矩形与盒子之间的每一个类比。问题源于这样一个事实：Hesse 的条件被应用于类比*关系*本身，而不问这一关系被用于何种用途。什么算作本质的，应当随类比论证而变化。缺乏推理语境，就无法评价相似与差异的重要性或“本质性”。
     step2: |-
-      This requirement, though once again on the right track, seems too restrictive. It can lead to the rejection of a good analogical argument. Consider the analogy between a two-dimensional rectangle and a three-dimensional box (*Example 7*). Broadening Hesse’s notion, it seems that there are many ‘essential’ differences between rectangles and boxes. This does not mean that we should reject every analogy between rectangles and boxes out of hand. The problem derives from the fact that Hesse’s condition is applied to the analogy *relation* independently of the use to which that relation is put. What counts as essential should vary with the analogical argument. Absent an inferential context, it is impossible to evaluate the importance or ‘essentiality’ of similarities and differences.
+      这条要求虽再次方向正确，却似乎限制过严：它可能导致拒掉一个好类比。看二维矩形与三维盒子的类比（*例 7*）：把 Hesse 的概念放宽，矩形与盒子之间似乎有许许多多“本质的”差异。但这不意味着我们该不加分辨地拒斥一切矩形—盒子类比。病根在于：Hesse 的条件作用于类比*关系*本身，不问这个关系被派了什么用场。什么算本质，应当随具体的类比论证而变；脱离推理语境，根本无从评价相似与差异的重要性或“本质性”。
   - id: 154
     kind: body
     source: |-
       Despite these weaknesses, Hesse’s ‘material’ criteria constitute a significant advance in our understanding of analogical reasoning. The causal condition and the no-essential-difference condition incorporate local factors, as urged by Norton, into the assessment of analogical arguments. These conditions, singly or taken together, imply that an analogical argument can fail to generate any support for its conclusion, even when there is a non-empty positive analogy. Hesse offers no theory about the ‘degree’ of analogical support. That makes her account one of the few that is oriented towards the modal, rather than probabilistic, use of analogical arguments (§2.3).
     step1: |-
-      Despite these weaknesses, Hesse’s ‘material’ criteria constitute a significant advance in our understanding of analogical reasoning. The causal condition and the no-essential-difference condition incorporate local factors, as urged by Norton, into the assessment of analogical arguments. These conditions, singly or taken together, imply that an analogical argument can fail to generate any support for its conclusion, even when there is a non-empty positive analogy. Hesse offers no theory about the ‘degree’ of analogical support. That makes her account one of the few that is oriented towards the modal, rather than probabilistic, use of analogical arguments (§2.3).
+      尽管有这些弱点，Hesse 的“实质”判据仍构成我们理解类推推理的一个重要进步。因果条件与无本质差异条件把 Norton 所力倡的局部因素纳入类比论证的评价。这两个条件，单独或合起来，都蕴含着一个类比论证可能对其结论不产生任何支持，即使存在非空的正类比。Hesse 没有提供关于类比支持之“度”的理论。这使得她的学说成为少数面向类比论证之模态用法而非概率用法的理论之一（§2.3）。
     step2: |-
-      Despite these weaknesses, Hesse’s ‘material’ criteria constitute a significant advance in our understanding of analogical reasoning. The causal condition and the no-essential-difference condition incorporate local factors, as urged by Norton, into the assessment of analogical arguments. These conditions, singly or taken together, imply that an analogical argument can fail to generate any support for its conclusion, even when there is a non-empty positive analogy. Hesse offers no theory about the ‘degree’ of analogical support. That makes her account one of the few that is oriented towards the modal, rather than probabilistic, use of analogical arguments (§2.3).
+      尽管有这些弱点，Hesse 的“实质”判据仍是理解类推推理的一大进步：因果条件与无本质差异条件，把 Norton 力倡的局部因素纳入了类比论证的评价。二者单独或合用都蕴含着：即便存在非空的正类比，类比论证也可能对结论毫无支持。Hesse 没有给出类比支持之“度”的理论——这使她成为少数面向类比论证之模态用法（而非概率用法）的理论家之一（§2.3）。
   - id: 155
     kind: body
     source: |-
       ### 3.4 Formal criteria: the structure-mapping theory
     step1: |-
-      ### 3.4 Formal criteria: the structure-mapping theory
+      ### 3.4 形式判据：结构映射理论
     step2: |-
-      ### 3.4 Formal criteria: the structure-mapping theory
+      ### 3.4 形式判据：结构映射理论
   - id: 156
     kind: body
     source: |-
       Many people take the concept of model-theoretic isomorphism to set the standard for thinking about similarity and its role in analogical reasoning. They propose *formal criteria* for evaluating analogies, based on overall structural or syntactical similarity. Let us refer to theories oriented around such criteria as *structuralist*.
     step1: |-
-      Many people take the concept of model-theoretic isomorphism to set the standard for thinking about similarity and its role in analogical reasoning. They propose *formal criteria* for evaluating analogies, based on overall structural or syntactical similarity. Let us refer to theories oriented around such criteria as *structuralist*.
+      许多人把模型论同构的概念当作思考相似性及其在类推推理中作用的标准。他们提出评价类比的*形式判据*，依据的是总体的结构或句法相似性。让我们把围绕这类判据的理论称为*结构主义的*。
     step2: |-
-      Many people take the concept of model-theoretic isomorphism to set the standard for thinking about similarity and its role in analogical reasoning. They propose *formal criteria* for evaluating analogies, based on overall structural or syntactical similarity. Let us refer to theories oriented around such criteria as *structuralist*.
+      许多人把模型论同构的概念当作思考相似性及其在类推推理中作用的标准，并据总体的结构或句法相似提出评价类比的*形式判据*。不妨把围绕这类判据的理论称作*结构主义的*（structuralist）。
   - id: 157
     kind: body
     source: |-
       A number of leading computational models of analogy are structuralist. They are implemented in computer programs that begin with (or sometimes build) representations of the source and target domains, and then construct possible analogy mappings. Analogical inferences emerge as a consequence of identifying the ‘best mapping.’ In terms of criteria for analogical reasoning, there are two main ideas. First, the goodness of an *analogical argument* is based on the goodness of the associated *analogy mapping*. Second, the goodness of the analogy mapping is given by a metric that indicates how closely it approximates isomorphism.
     step1: |-
-      A number of leading computational models of analogy are structuralist. They are implemented in computer programs that begin with (or sometimes build) representations of the source and target domains, and then construct possible analogy mappings. Analogical inferences emerge as a consequence of identifying the ‘best mapping.’ In terms of criteria for analogical reasoning, there are two main ideas. First, the goodness of an *analogical argument* is based on the goodness of the associated *analogy mapping*. Second, the goodness of the analogy mapping is given by a metric that indicates how closely it approximates isomorphism.
+      一些领先的类比计算模型是结构主义的。它们实现于计算机程序中，这些程序从源域与目标域的（有时是自行构建的）表示出发，然后构造可能的类比映射。类比推理作为识别“最佳映射”的结果而出现。就类推推理的判据而言，有两个主要思想。第一，一个*类比论证*的好坏基于与之相联系的*类比映射*的好坏。第二，类比映射的好坏由一个度量给出，该度量指示它逼近同构的程度。
     step2: |-
-      A number of leading computational models of analogy are structuralist. They are implemented in computer programs that begin with (or sometimes build) representations of the source and target domains, and then construct possible analogy mappings. Analogical inferences emerge as a consequence of identifying the ‘best mapping.’ In terms of criteria for analogical reasoning, there are two main ideas. First, the goodness of an *analogical argument* is based on the goodness of the associated *analogy mapping*. Second, the goodness of the analogy mapping is given by a metric that indicates how closely it approximates isomorphism.
+      一些领先的类比计算模型属于结构主义。它们实现为计算机程序：从源域与目标域的表示（有时是程序自己构建的）出发，构造可能的类比映射；类比推理作为“识别最佳映射”的结果涌现。就类推推理的判据而言，这里有两个主要思想：其一，一个*类比论证*之优劣取决于与之相联的*类比映射*之优劣；其二，类比映射之优劣由一个度量给出——该度量指示映射逼近同构的程度。
   - id: 158
     kind: body
     source: |-
       The most influential structuralist theory has been Gentner’s *structure-mapping* theory, implemented in a program called the *structure-mapping engine* (SME). In its original form (Gentner 1983)[^gentner-1983], the theory assesses analogies on purely structural grounds. Gentner asserts:
     step1: |-
-      The most influential structuralist theory has been Gentner’s *structure-mapping* theory, implemented in a program called the *structure-mapping engine* (SME). In its original form (Gentner 1983)[^gentner-1983], the theory assesses analogies on purely structural grounds. Gentner asserts:
+      最有影响的结构主义理论一直是 Gentner 的*结构映射*理论，实现于一个名为*结构映射引擎*（SME）的程序中。在其最初形式中（Gentner 1983）[^gentner-1983]，该理论纯按结构根据来评价类比。Gentner 断言：
     step2: |-
-      The most influential structuralist theory has been Gentner’s *structure-mapping* theory, implemented in a program called the *structure-mapping engine* (SME). In its original form (Gentner 1983)[^gentner-1983], the theory assesses analogies on purely structural grounds. Gentner asserts:
+      最有影响的结构主义理论当推 Gentner 的*结构映射*理论（structure-mapping），实现于名为*结构映射引擎*（SME）的程序。在其最初形态中（Gentner 1983）[^gentner-1983]，该理论纯以结构论优劣。Gentner 断言：
   - id: 159
     kind: body
     source: |-
       > Analogies are about relations, rather than simple features. No matter what kind of knowledge (causal models, plans, stories, etc.), it is the structural properties (i.e., the interrelationships between the facts) that determine the content of an analogy. (Falkenhainer, Forbus, and Gentner 1989/90: 3)
     step1: |-
-      > Analogies are about relations, rather than simple features. No matter what kind of knowledge (causal models, plans, stories, etc.), it is the structural properties (i.e., the interrelationships between the facts) that determine the content of an analogy. (Falkenhainer, Forbus, and Gentner 1989/90: 3)
+      > 类比关乎关系，而非简单特征。无论何种知识（因果模型、规划、故事等等），决定类比内容的是结构性质（即诸事实之间的相互关系）。（Falkenhainer, Forbus, and Gentner 1989/90: 3）
     step2: |-
-      > Analogies are about relations, rather than simple features. No matter what kind of knowledge (causal models, plans, stories, etc.), it is the structural properties (i.e., the interrelationships between the facts) that determine the content of an analogy. (Falkenhainer, Forbus, and Gentner 1989/90: 3)
+      > 类比关乎关系，而非简单特征。无论何种知识（因果模型、规划、故事等等），决定类比内容的是结构性质（即诸事实之间的相互关系）。（Falkenhainer, Forbus, and Gentner 1989/90: 3）
   - id: 160
     kind: body
     source: |-
       In order to clarify this thesis, Gentner introduces a distinction between *properties*, or monadic predicates, and *relations*, which have multiple arguments. She further distinguishes among different *orders* of relations and functions, defined inductively (in terms of the order of the relata or arguments). The best mapping is determined by *systematicity*: the extent to which it places higher-order relations, and items that are nested in higher-order relations, in correspondence. Gentner’s *Systematicity Principle* states:
     step1: |-
-      In order to clarify this thesis, Gentner introduces a distinction between *properties*, or monadic predicates, and *relations*, which have multiple arguments. She further distinguishes among different *orders* of relations and functions, defined inductively (in terms of the order of the relata or arguments). The best mapping is determined by *systematicity*: the extent to which it places higher-order relations, and items that are nested in higher-order relations, in correspondence. Gentner’s *Systematicity Principle* states:
+      为澄清这一论题，Gentner 引入了*性质*（即一元谓词）与*关系*（有多个主目）之间的区分。她进一步区分了关系与函数的不同*阶*，后者按归纳定义（依据关系项或主目的阶）。最佳映射由*系统性*决定：即它在多大程度上把高阶关系以及嵌于高阶关系中的项置于对应之中。Gentner 的*系统性原则*陈述如下：
     step2: |-
-      In order to clarify this thesis, Gentner introduces a distinction between *properties*, or monadic predicates, and *relations*, which have multiple arguments. She further distinguishes among different *orders* of relations and functions, defined inductively (in terms of the order of the relata or arguments). The best mapping is determined by *systematicity*: the extent to which it places higher-order relations, and items that are nested in higher-order relations, in correspondence. Gentner’s *Systematicity Principle* states:
+      为讲清这一论题，Gentner 区分了*性质*（一元谓词）与*关系*（多主目）；又按归纳方式（依据关系项或主目的阶）区分关系与函数的不同*阶*。最佳映射由*系统性*（systematicity）决定：映射在多大程度上把高阶关系、以及嵌于高阶关系中的项放进对应。Gentner 的*系统性原则*如下：
   - id: 161
     kind: body
     source: |-
       > A predicate that belongs to a mappable system of mutually interconnecting relationships is more likely to be imported into the target than is an isolated predicate. (1983: 163)
     step1: |-
-      > A predicate that belongs to a mappable system of mutually interconnecting relationships is more likely to be imported into the target than is an isolated predicate. (1983: 163)
+      > 属于一个可映射的相互联结关系系统的谓词，比一个孤立的谓词更有可能被迁移到目标域。（1983: 163）
     step2: |-
-      > A predicate that belongs to a mappable system of mutually interconnecting relationships is more likely to be imported into the target than is an isolated predicate. (1983: 163)
+      > 属于一个可映射的相互联结关系系统的谓词，比孤立的谓词更有可能被迁移到目标域。（1983: 163）
   - id: 162
     kind: body
     source: |-
       A systematic analogy (one that places high-order relations and their components in correspondence) is better than a less systematic analogy. Hence, an analogical inference has a degree of plausibility that increases monotonically with the degree of systematicity of the associated analogy mapping. Gentner’s fundamental criterion for evaluating candidate analogies (and analogical inferences) thus depends solely upon the syntax of the given representations and not at all upon their content.
     step1: |-
-      A systematic analogy (one that places high-order relations and their components in correspondence) is better than a less systematic analogy. Hence, an analogical inference has a degree of plausibility that increases monotonically with the degree of systematicity of the associated analogy mapping. Gentner’s fundamental criterion for evaluating candidate analogies (and analogical inferences) thus depends solely upon the syntax of the given representations and not at all upon their content.
+      一个系统性的类比（把高阶关系及其成分置于对应的类比）优于一个不那么系统的类比。因此，类比推理具有一个随相关类比映射的系统性程度而单调增加的可信度。Gentner 评价候选类比（与类比推理）的根本判据因此只依赖于给定表示的句法，而完全不考虑它们的内容。
     step2: |-
-      A systematic analogy (one that places high-order relations and their components in correspondence) is better than a less systematic analogy. Hence, an analogical inference has a degree of plausibility that increases monotonically with the degree of systematicity of the associated analogy mapping. Gentner’s fundamental criterion for evaluating candidate analogies (and analogical inferences) thus depends solely upon the syntax of the given representations and not at all upon their content.
+      系统性的类比（把高阶关系及其成分放进对应的类比）优于不那么系统的类比；于是，类比推理的可信度随相关映射的系统性程度单调上升。Gentner 评价候选类比（与类比推理）的根本判据，因而只看给定表示的句法，全然不问内容。
   - id: 163
     kind: body
     source: |-
       Later versions of the structure-mapping theory incorporate refinements (Forbus, Ferguson, and Gentner 1994; Forbus 2001; Forbus et al. 2007; Forbus et al. 2008; Forbus et al 2017)[^forbus-2001][^forbus-2007][^forbus-2008][^forbus-2017]. For example, the earliest version of the theory is vulnerable to worries about hand-coded representations of source and target domains. Gentner and her colleagues have attempted to solve this problem in later work that generates LISP representations from natural language text (see Turney 2008 for a different approach)[^turney-2008].
     step1: |-
-      Later versions of the structure-mapping theory incorporate refinements (Forbus, Ferguson, and Gentner 1994; Forbus 2001; Forbus et al. 2007; Forbus et al. 2008; Forbus et al 2017)[^forbus-2001][^forbus-2007][^forbus-2008][^forbus-2017]. For example, the earliest version of the theory is vulnerable to worries about hand-coded representations of source and target domains. Gentner and her colleagues have attempted to solve this problem in later work that generates LISP representations from natural language text (see Turney 2008 for a different approach)[^turney-2008].
+      结构映射理论的后续版本纳入了一些改进（Forbus, Ferguson, and Gentner 1994; Forbus 2001; Forbus et al. 2007; Forbus et al. 2008; Forbus et al 2017）[^forbus-2001][^forbus-2007][^forbus-2008][^forbus-2017]。例如，该理论的最早版本容易受到关于源域与目标域手工编码表示的担忧。Gentner 及其同事在后来的工作中试图解决这一问题，从自然语言文本生成 LISP 表示（另见 Turney 2008 的一个不同进路）[^turney-2008]。
     step2: |-
-      Later versions of the structure-mapping theory incorporate refinements (Forbus, Ferguson, and Gentner 1994; Forbus 2001; Forbus et al. 2007; Forbus et al. 2008; Forbus et al 2017)[^forbus-2001][^forbus-2007][^forbus-2008][^forbus-2017]. For example, the earliest version of the theory is vulnerable to worries about hand-coded representations of source and target domains. Gentner and her colleagues have attempted to solve this problem in later work that generates LISP representations from natural language text (see Turney 2008 for a different approach)[^turney-2008].
+      结构映射理论的后续版本吸收了若干改进（Forbus, Ferguson, and Gentner 1994; Forbus 2001; Forbus et al. 2007; Forbus et al. 2008; Forbus et al 2017）[^forbus-2001][^forbus-2007][^forbus-2008][^forbus-2017]。例如，最早版本的软肋是源、目标域表示靠手工编码；Gentner 与同事在后续工作中尝试从自然语言文本自动生成 LISP 表示来解决这一问题（另见 Turney 2008 的不同进路）[^turney-2008]。
   - id: 164
     kind: body
     source: |-
       The most important challenges for the structure-mapping approach relate to the *Systematicity Principle* itself. Does the value of an analogy derive entirely, or even chiefly, from systematicity? There appear to be two main difficulties with this view. First: it is not always appropriate to give priority to systematic, high-level relational matches. Material criteria, and notably what Gentner refers to as “superficial feature matches,” can be extremely important in some types of analogical reasoning, such as ethnographic analogies which are based, to a considerable degree, on surface resemblances between artifacts. Second and more significantly: systematicity seems to be at best a fallible *marker* for good analogies rather than the essence of good analogical reasoning.
     step1: |-
-      The most important challenges for the structure-mapping approach relate to the *Systematicity Principle* itself. Does the value of an analogy derive entirely, or even chiefly, from systematicity? There appear to be two main difficulties with this view. First: it is not always appropriate to give priority to systematic, high-level relational matches. Material criteria, and notably what Gentner refers to as “superficial feature matches,” can be extremely important in some types of analogical reasoning, such as ethnographic analogies which are based, to a considerable degree, on surface resemblances between artifacts. Second and more significantly: systematicity seems to be at best a fallible *marker* for good analogies rather than the essence of good analogical reasoning.
+      结构映射进路面临的最重要挑战与*系统性原则*本身有关。类比的价值是否完全、甚至主要来自系统性？这一观点似乎有两个主要困难。第一：给系统性的、高阶的关系匹配以优先地位并不总是恰当的。实质判据——尤其是 Gentner 所说的“表面特征匹配”——在某些类型的类推推理中可以极其重要，例如在很大程度上以器物表面相似为基础的民族志类比。第二，也是更重要的：系统性似乎至多是好类比的一个可错的*标记*，而不是好的类比推理的本质。
     step2: |-
-      The most important challenges for the structure-mapping approach relate to the *Systematicity Principle* itself. Does the value of an analogy derive entirely, or even chiefly, from systematicity? There appear to be two main difficulties with this view. First: it is not always appropriate to give priority to systematic, high-level relational matches. Material criteria, and notably what Gentner refers to as “superficial feature matches,” can be extremely important in some types of analogical reasoning, such as ethnographic analogies which are based, to a considerable degree, on surface resemblances between artifacts. Second and more significantly: systematicity seems to be at best a fallible *marker* for good analogies rather than the essence of good analogical reasoning.
+      结构映射进路最大的挑战，恰在*系统性原则*本身：类比的价值是否完全、甚至主要来自系统性？这一观点似乎有两大困难。其一：给系统性的高阶关系匹配以优先地位，并不总是恰当——实质判据（尤其是 Gentner 所谓“表面特征匹配”）在某些类推推理中可以极其要紧，例如很大程度上以器物表面相似为基础的民族志类比。其二，更要紧的：系统性至多是好类比的一个可错的*标记*，而非好的类比推理之本质。
   - id: 165
     kind: body
     source: |-
       Greater systematicity is neither necessary nor sufficient for a more plausible analogical inference. It is obvious that increased systematicity is not *sufficient* for increased plausibility. An implausible analogy can be represented in a form that exhibits a high degree of structural parallelism. High-order relations can come cheap, as we saw with Achinstein’s “swan” example (§2.4).
     step1: |-
-      Greater systematicity is neither necessary nor sufficient for a more plausible analogical inference. It is obvious that increased systematicity is not *sufficient* for increased plausibility. An implausible analogy can be represented in a form that exhibits a high degree of structural parallelism. High-order relations can come cheap, as we saw with Achinstein’s “swan” example (§2.4).
+      更大的系统性对于一个更可信的类比推理来说，既不必要也不充分。显然，系统性的增加对可信性的增加来说不是*充分的*。一个不可信的类比可以被表示成展示高度结构平行性的形式。正如我们在 Achinstein 的“天鹅”例子（§2.4）中看到的，高阶关系可以来得很容易。
     step2: |-
-      Greater systematicity is neither necessary nor sufficient for a more plausible analogical inference. It is obvious that increased systematicity is not *sufficient* for increased plausibility. An implausible analogy can be represented in a form that exhibits a high degree of structural parallelism. High-order relations can come cheap, as we saw with Achinstein’s “swan” example (§2.4).
+      更大的系统性，对更可信的类比推理来说既不必要也不充分。显然，系统性增加并不是可信性增加的*充分*条件：一个不可信的类比，可以被表示成高度结构平行的样子；正如 Achinstein 的“天鹅”例（§2.4）所示，高阶关系可以来得非常廉价。
   - id: 166
     kind: body
     source: |-
       More pointedly, increased systematicity is not *necessary* for greater plausibility. Indeed, in causal analogies, it may even weaken the inference. That is because *systematicity* takes no account of the *type* of causal relevance, positive or negative. (McKay 1993)[^mckay-1993] notes that microbes have been found in frozen lakes in Antarctica; by analogy, simple life forms might exist on Mars. Freezing temperatures are *preventive* or counteracting causes; they are *negatively relevant* to the existence of life. The climate of Mars was probably *more favorable* to life 3.5 billion years ago than it is today, because temperatures were warmer. Yet the analogy between Antarctica and present-day Mars is *more systematic* than the analogy between Antarctica and ancient Mars. According to the *Systematicity Principle*, the analogy with Antarctica provides stronger support for life on Mars today than it does for life on ancient Mars.
     step1: |-
-      More pointedly, increased systematicity is not *necessary* for greater plausibility. Indeed, in causal analogies, it may even weaken the inference. That is because *systematicity* takes no account of the *type* of causal relevance, positive or negative. (McKay 1993)[^mckay-1993] notes that microbes have been found in frozen lakes in Antarctica; by analogy, simple life forms might exist on Mars. Freezing temperatures are *preventive* or counteracting causes; they are *negatively relevant* to the existence of life. The climate of Mars was probably *more favorable* to life 3.5 billion years ago than it is today, because temperatures were warmer. Yet the analogy between Antarctica and present-day Mars is *more systematic* than the analogy between Antarctica and ancient Mars. According to the *Systematicity Principle*, the analogy with Antarctica provides stronger support for life on Mars today than it does for life on ancient Mars.
+      更尖锐地说，系统性的增加对于更大的可信性来说不是*必要的*。的确，在因果类比中，它甚至可能削弱推理。这是因为*系统性*不考虑因果相关的*类型*，即正面的还是负面的。（McKay 1993）[^mckay-1993]注意到，在南极洲冰冻的湖泊中发现了微生物；凭类比，简单的生命形式可能存在于火星上。冰冻的温度是*预防性的*或抵消性的原因；它们对生命的存在是*负相关的*。火星的气候在 35 亿年前很可能比今天*更有利于*生命，因为那时温度更高。然而，南极洲与今天火星之间的类比*比*南极洲与古代火星之间的类比*更系统*。按照*系统性原则*，与南极洲的类比为今天火星上的生命提供的支持，比为古代火星上的生命提供的支持更强。
     step2: |-
-      More pointedly, increased systematicity is not *necessary* for greater plausibility. Indeed, in causal analogies, it may even weaken the inference. That is because *systematicity* takes no account of the *type* of causal relevance, positive or negative. (McKay 1993)[^mckay-1993] notes that microbes have been found in frozen lakes in Antarctica; by analogy, simple life forms might exist on Mars. Freezing temperatures are *preventive* or counteracting causes; they are *negatively relevant* to the existence of life. The climate of Mars was probably *more favorable* to life 3.5 billion years ago than it is today, because temperatures were warmer. Yet the analogy between Antarctica and present-day Mars is *more systematic* than the analogy between Antarctica and ancient Mars. According to the *Systematicity Principle*, the analogy with Antarctica provides stronger support for life on Mars today than it does for life on ancient Mars.
+      说得更尖锐些：系统性的增加对更大的可信性并非*必要*；在因果类比中，它甚至可能削弱推理——因为*系统性*全然不问因果相关的*类型*：正面还是负面。（McKay 1993）[^mckay-1993] 注意到南极洲冰冻湖泊中发现了微生物，于是凭类比推想火星上或许有简单生命。冰冻温度属于*预防性*或抵消性原因，对生命的存在是*负相关的*。火星 35 亿年前的气候很可能比今天*更有利于*生命——那时更暖。然而，南极洲与今日火星之间的类比，*比*南极洲与远古火星之间的类比*更系统*。按*系统性原则*，与南极洲的类比给“今日火星有生命”的支持，反而强于给“远古火星有生命”的支持。
   - id: 167
     kind: body
     source: |-
       The point of this example is that increased systematicity does not always increase plausibility, and reduced systematicity does not always decrease it (see Lee and Holyoak 2008)[^lee-2008]. The more general point is that systematicity can be misleading, unless we take into account the *nature* of the relationships between various factors and the hypothetical analogy. Systematicity does not magically produce or explain the plausibility of an analogical argument. When we reason by analogy, we must determine which features of both domains are relevant and *how* they relate to the analogical conclusion. There is no short-cut via syntax.
     step1: |-
-      The point of this example is that increased systematicity does not always increase plausibility, and reduced systematicity does not always decrease it (see Lee and Holyoak 2008)[^lee-2008]. The more general point is that systematicity can be misleading, unless we take into account the *nature* of the relationships between various factors and the hypothetical analogy. Systematicity does not magically produce or explain the plausibility of an analogical argument. When we reason by analogy, we must determine which features of both domains are relevant and *how* they relate to the analogical conclusion. There is no short-cut via syntax.
+      这个例子的要点是，系统性的增加并不总是提高可信性，系统性的减少也并不总是降低它（见 Lee and Holyoak 2008）[^lee-2008]。更一般的要点是：系统性可能是误导性的，除非我们把各种因素与假说类比之间关系的*性质*考虑在内。系统性并不能神奇地产生或解释类比论证的可信性。当我们凭类推推理时，我们必须确定两个域中的哪些特征是相关的，以及它们*如何*与类比结论相关联。经由句法没有捷径。
     step2: |-
-      The point of this example is that increased systematicity does not always increase plausibility, and reduced systematicity does not always decrease it (see Lee and Holyoak 2008)[^lee-2008]. The more general point is that systematicity can be misleading, unless we take into account the *nature* of the relationships between various factors and the hypothetical analogy. Systematicity does not magically produce or explain the plausibility of an analogical argument. When we reason by analogy, we must determine which features of both domains are relevant and *how* they relate to the analogical conclusion. There is no short-cut via syntax.
+      这个例子的要点：系统性增加未必提高可信性，系统性减少也未必降低它（见 Lee and Holyoak 2008）[^lee-2008]。更一般的要点：不考虑诸因素与假说类比之间关系的*性质*，系统性便可能误导。系统性并不能神奇地产生或解释类比论证的可信性。凭类推推理时，我们必须判定两域中哪些特征相关、它们与类比结论*如何*相关——经句法抄近路，此路不通。
   - id: 168
     kind: body
     source: |-
       Schlimm (2008) offers an entirely different critique of the structure-mapping theory from the perspective of analogical reasoning in mathematics—a domain where one might expect a formal approach such as *structure mapping* to perform well. Schlimm introduces a simple distinction: a domain is *object-rich* if the number of objects is greater than the number of relations (and properties), and *relation-rich* otherwise. Proponents of the structure-mapping theory typically focus on relation-rich examples (such as the analogy between the solar system and the atom). By contrast, analogies in mathematics typically involve domains with an enormous number of objects (like the real numbers), but relatively few relations and functions (addition, multiplication, less-than).
     step1: |-
-      Schlimm (2008) offers an entirely different critique of the structure-mapping theory from the perspective of analogical reasoning in mathematics—a domain where one might expect a formal approach such as *structure mapping* to perform well. Schlimm introduces a simple distinction: a domain is *object-rich* if the number of objects is greater than the number of relations (and properties), and *relation-rich* otherwise. Proponents of the structure-mapping theory typically focus on relation-rich examples (such as the analogy between the solar system and the atom). By contrast, analogies in mathematics typically involve domains with an enormous number of objects (like the real numbers), but relatively few relations and functions (addition, multiplication, less-than).
+      Schlimm（2008）从数学中的类推推理的视角对结构映射理论提出了一个完全不同的批评——在那个领域，人们本会期待*结构映射*这类形式进路表现良好。Schlimm 引入了一个简单的区分：如果一个域中对象的数量大于关系（与性质）的数量，那么它是*对象丰富的*，否则是*关系丰富的*。结构映射理论的支持者通常聚焦关系丰富的例子（如太阳系与原子之间的类比）。相比之下，数学中的类比通常涉及对象数目巨大（如实数）而关系与函数相对较少（加法、乘法、小于）的域。
     step2: |-
-      Schlimm (2008) offers an entirely different critique of the structure-mapping theory from the perspective of analogical reasoning in mathematics—a domain where one might expect a formal approach such as *structure mapping* to perform well. Schlimm introduces a simple distinction: a domain is *object-rich* if the number of objects is greater than the number of relations (and properties), and *relation-rich* otherwise. Proponents of the structure-mapping theory typically focus on relation-rich examples (such as the analogy between the solar system and the atom). By contrast, analogies in mathematics typically involve domains with an enormous number of objects (like the real numbers), but relatively few relations and functions (addition, multiplication, less-than).
+      Schlimm（2008）从数学中的类推推理出发，对结构映射理论提出了一场完全不同的批评——按理说，*结构映射*这类形式进路在数学领域应当表现良好。Schlimm 给出一个简单的区分：域中对象数量多于关系（与性质）数量的，是*对象丰富的*；否则是*关系丰富的*。结构映射理论的拥趸通常聚焦关系丰富的例子（如太阳系与原子之比）；相比之下，数学中的类比所涉的域往往对象浩繁（如实数），关系与函数却寥寥（加法、乘法、小于）。
   - id: 169
     kind: body
     source: |-
       Schlimm provides an example of an analogical reasoning problem in group theory that involves a single relation in each domain. In this case, attaining maximal systematicity is trivial. The difficulty is that, compatible with maximal systematicity, there are different ways in which the objects might be placed in correspondence. The structure-mapping theory appears to yield the wrong inference. We might put the general point as follows: in object-rich domains, systematicity ceases to be a reliable guide to plausible analogical inference.
     step1: |-
-      Schlimm provides an example of an analogical reasoning problem in group theory that involves a single relation in each domain. In this case, attaining maximal systematicity is trivial. The difficulty is that, compatible with maximal systematicity, there are different ways in which the objects might be placed in correspondence. The structure-mapping theory appears to yield the wrong inference. We might put the general point as follows: in object-rich domains, systematicity ceases to be a reliable guide to plausible analogical inference.
+      Schlimm 给出了群论中一个类推推理问题的例子，其中每个域只涉及一个关系。在这个案例中，达到最大系统性是平凡的。困难在于，与最大系统性相容，对象被置于对应之中的方式可以有多种。结构映射理论似乎产生了错误的推理。我们可以把一般要点陈述如下：在对象丰富的域中，系统性不再是可信的类比推理的可靠指南。
     step2: |-
-      Schlimm provides an example of an analogical reasoning problem in group theory that involves a single relation in each domain. In this case, attaining maximal systematicity is trivial. The difficulty is that, compatible with maximal systematicity, there are different ways in which the objects might be placed in correspondence. The structure-mapping theory appears to yield the wrong inference. We might put the general point as follows: in object-rich domains, systematicity ceases to be a reliable guide to plausible analogical inference.
+      Schlimm 给出群论中的一个类推推理问题：每个域只含一个关系。此时，达到最大系统性是平凡事；难处在于，与最大系统性相容，对象间建立对应的方式可以有好多种——而结构映射理论似乎推出了错误的推理。一般要点可以这样说：在对象丰富的域里，系统性不再是可信类比推理的可靠向导。
   - id: 170
     kind: body
     source: |-
       ### 3.5 Other theories
     step1: |-
-      ### 3.5 Other theories
+      ### 3.5 其他理论
     step2: |-
-      ### 3.5 Other theories
+      ### 3.5 其他理论
   - id: 171
     kind: body
     source: |-
       #### 3.5.1 Connectionist models
     step1: |-
-      #### 3.5.1 Connectionist models
+      #### 3.5.1 联结主义模型
     step2: |-
-      #### 3.5.1 Connectionist models
+      #### 3.5.1 联结主义模型
   - id: 172
     kind: body
     source: |-
       During the past thirty-five years, cognitive scientists have conducted extensive research on analogy. Gentner’s SME is just one of many computational theories, implemented in programs that construct and use analogies. Three helpful anthologies that span this period are Helman 1988; Gentner, Holyoak, and Kokinov 2001; and Kokinov, Holyoak, and Gentner 2009.
     step1: |-
-      During the past thirty-five years, cognitive scientists have conducted extensive research on analogy. Gentner’s SME is just one of many computational theories, implemented in programs that construct and use analogies. Three helpful anthologies that span this period are Helman 1988; Gentner, Holyoak, and Kokinov 2001; and Kokinov, Holyoak, and Gentner 2009.
+      在过去三十五年中，认知科学家对类比进行了广泛的研究。Gentner 的 SME 只是许多计算理论中的一种，这些理论实现于构造与使用类比的程序中。跨越这一时期的三部有用的文集是 Helman 1988；Gentner, Holyoak, and Kokinov 2001；以及 Kokinov, Holyoak, and Gentner 2009。
     step2: |-
-      During the past thirty-five years, cognitive scientists have conducted extensive research on analogy. Gentner’s SME is just one of many computational theories, implemented in programs that construct and use analogies. Three helpful anthologies that span this period are Helman 1988; Gentner, Holyoak, and Kokinov 2001; and Kokinov, Holyoak, and Gentner 2009.
+      三十五年来，认知科学家对类比作了大量研究；Gentner 的 SME 只是众多计算理论之一，它们都实现为构造与使用类比的程序。横贯这段时期的三部有用文集是：Helman 1988；Gentner, Holyoak, and Kokinov 2001；Kokinov, Holyoak, and Gentner 2009。
   - id: 173
     kind: body
     source: |-
       One predominant objective of this research has been to model the cognitive processes involved in using analogies. Early models tended to be oriented towards “understanding the basic constraints that govern human analogical thinking” (Hummel and Holyoak 1997: 458)[^hummel-1997]. Recent connectionist models have been directed towards uncovering the psychological mechanisms that come into play when we use analogies: *retrieval* of a relevant source domain, *analogical mapping* across domains, and *transfer* of information and *learning* of new categories or schemas.
     step1: |-
-      One predominant objective of this research has been to model the cognitive processes involved in using analogies. Early models tended to be oriented towards “understanding the basic constraints that govern human analogical thinking” (Hummel and Holyoak 1997: 458)[^hummel-1997]. Recent connectionist models have been directed towards uncovering the psychological mechanisms that come into play when we use analogies: *retrieval* of a relevant source domain, *analogical mapping* across domains, and *transfer* of information and *learning* of new categories or schemas.
+      这一研究的一个主要目标是建模使用类比所涉及的认知过程。早期模型倾向于面向“理解支配人类类比思维的基本约束”（Hummel and Holyoak 1997: 458）[^hummel-1997]。晚近的联结主义模型则指向揭示我们使用类比时起作用的心理机制：相关源域的*提取*、跨域的*类比映射*、信息的*迁移*以及新范畴或图式的*学习*。
     step2: |-
-      One predominant objective of this research has been to model the cognitive processes involved in using analogies. Early models tended to be oriented towards “understanding the basic constraints that govern human analogical thinking” (Hummel and Holyoak 1997: 458)[^hummel-1997]. Recent connectionist models have been directed towards uncovering the psychological mechanisms that come into play when we use analogies: *retrieval* of a relevant source domain, *analogical mapping* across domains, and *transfer* of information and *learning* of new categories or schemas.
+      这一研究的一大目标，是为使用类比所涉的认知过程建模。早期模型倾向于“理解支配人类类比思维的基本约束”（Hummel and Holyoak 1997: 458）[^hummel-1997]；晚近的联结主义模型则致力于揭示我们使用类比时入场的心智机制：相关源域的*提取*（retrieval）、跨域的*类比映射*（mapping）、信息的*迁移*（transfer）以及新范畴或图式的*学习*（learning）。
   - id: 174
     kind: body
     source: |-
       In some cases, such as the structure-mapping theory (§3.4), this research overlaps directly with the normative questions that are the focus of this entry; indeed, Gentner’s *Systematicity Principle* may be interpreted normatively. In other cases, we might view the projects as *displacing* those traditional normative questions with up-to-date, computational forms of naturalized epistemology. Two approaches are singled out here because both raise important challenges to the very idea of finding sharp answers to those questions, and both suggest that connectionist models offer a more fruitful approach to understanding analogical reasoning.
     step1: |-
-      In some cases, such as the structure-mapping theory (§3.4), this research overlaps directly with the normative questions that are the focus of this entry; indeed, Gentner’s *Systematicity Principle* may be interpreted normatively. In other cases, we might view the projects as *displacing* those traditional normative questions with up-to-date, computational forms of naturalized epistemology. Two approaches are singled out here because both raise important challenges to the very idea of finding sharp answers to those questions, and both suggest that connectionist models offer a more fruitful approach to understanding analogical reasoning.
+      在某些情形中，例如结构映射理论（§3.4），这一研究与本词条聚焦的规范性问题直接重叠；的确，Gentner 的*系统性原则*可以被规范地解读。在另一些情形中，我们可以把这些项目看作用最新形式的自然化知识论*取代*那些传统的规范性问题。这里挑出两种进路，因为二者都对为那些问题找到清晰答案这一想法本身提出了重要挑战，并且都提示联结主义模型为理解类推推理提供了更有成果的进路。
     step2: |-
-      In some cases, such as the structure-mapping theory (§3.4), this research overlaps directly with the normative questions that are the focus of this entry; indeed, Gentner’s *Systematicity Principle* may be interpreted normatively. In other cases, we might view the projects as *displacing* those traditional normative questions with up-to-date, computational forms of naturalized epistemology. Two approaches are singled out here because both raise important challenges to the very idea of finding sharp answers to those questions, and both suggest that connectionist models offer a more fruitful approach to understanding analogical reasoning.
+      有些情形（如结构映射理论，§3.4）里，这一研究与本词条聚焦的规范性问题直接重叠——Gentner 的*系统性原则*甚至可以作规范性解读。另一些情形里，这些项目则像是用最新形态的自然化知识论*取代*了那些传统规范性问题。这里单挑两种进路：二者都对“为那些问题找到清晰答案”这一想法本身构成重要挑战，也都提示联结主义模型是理解类推推理的更富成果之路。
   - id: 175
     kind: body
     source: |-
       The first is the *constraint-satisfaction model* (also known as the *multiconstraint theory*), developed by Holyoak and Thagard (1989, 1995). Like Gentner, Holyoak and Thagard regard the heart of analogical reasoning as *analogy mapping*, and they stress the importance of systematicity, which they refer to as a *structural* constraint. Unlike Gentner, they acknowledge two additional types of constraints. *Pragmatic* constraints take into account the goals and purposes of the agent, recognizing that “the purpose will guide selection” of relevant similarities. *Semantic* constraints represent estimates of the degree to which people regard source and target items as being alike, rather like Hesse’s “pre-theoretic” similarities.
     step1: |-
-      The first is the *constraint-satisfaction model* (also known as the *multiconstraint theory*), developed by Holyoak and Thagard (1989, 1995). Like Gentner, Holyoak and Thagard regard the heart of analogical reasoning as *analogy mapping*, and they stress the importance of systematicity, which they refer to as a *structural* constraint. Unlike Gentner, they acknowledge two additional types of constraints. *Pragmatic* constraints take into account the goals and purposes of the agent, recognizing that “the purpose will guide selection” of relevant similarities. *Semantic* constraints represent estimates of the degree to which people regard source and target items as being alike, rather like Hesse’s “pre-theoretic” similarities.
+      第一种是*约束满足模型*（亦称*多重约束理论*），由 Holyoak 与 Thagard（1989, 1995）发展。与 Gentner 一样，Holyoak 与 Thagard 把类比推理的核心看作*类比映射*，并强调系统性的重要性——他们称之为一种*结构性的*约束。与 Gentner 不同，他们承认另外两类约束。*语用的*约束考虑行动者的目标与目的，承认“目的将引导选择”相关相似性。*语义的*约束表示人们对源域与目标域项之间相似程度的估计，颇像 Hesse 的“前理论的”相似性。
     step2: |-
-      The first is the *constraint-satisfaction model* (also known as the *multiconstraint theory*), developed by Holyoak and Thagard (1989, 1995). Like Gentner, Holyoak and Thagard regard the heart of analogical reasoning as *analogy mapping*, and they stress the importance of systematicity, which they refer to as a *structural* constraint. Unlike Gentner, they acknowledge two additional types of constraints. *Pragmatic* constraints take into account the goals and purposes of the agent, recognizing that “the purpose will guide selection” of relevant similarities. *Semantic* constraints represent estimates of the degree to which people regard source and target items as being alike, rather like Hesse’s “pre-theoretic” similarities.
+      第一种是*约束满足模型*（constraint-satisfaction model，又称*多重约束理论*），由 Holyoak 与 Thagard（1989, 1995）发展。与 Gentner 相同，二人把类推推理的核心放在*类比映射*上，也强调系统性——他们称之为一种*结构性的*（structural）约束。与 Gentner 不同的是，他们还承认两类约束：*语用的*约束考虑行动者的目标与目的，承认“目的会引导（相关相似性的）选择”；*语义的*约束刻画人们估计的源、目标域项之间的相似程度——颇似 Hesse 的“前理论的”相似。
   - id: 176
     kind: body
     source: |-
       The novelty of the multiconstraint theory is that these *structural*, *semantic* and *pragmatic* constraints are implemented not as rigid rules, but rather as ‘pressures’ supporting or inhibiting potential pairwise correspondences. The theory is implemented in a connectionist program called **ACME** (Analogical Constraint Mapping Engine), which assigns an initial activation value to each possible pairing between elements in the source and target domains (based on semantic and pragmatic constraints), and then runs through cycles that update the activation values based on overall coherence (structural constraints). The best global analogy mapping emerges under the pressure of these constraints. Subsequent connectionist models, such as Hummel and Holyoak’s LISA program (1997, 2003), have made significant advances and hold promise for offering a more complete theory of analogical reasoning.
     step1: |-
-      The novelty of the multiconstraint theory is that these *structural*, *semantic* and *pragmatic* constraints are implemented not as rigid rules, but rather as ‘pressures’ supporting or inhibiting potential pairwise correspondences. The theory is implemented in a connectionist program called **ACME** (Analogical Constraint Mapping Engine), which assigns an initial activation value to each possible pairing between elements in the source and target domains (based on semantic and pragmatic constraints), and then runs through cycles that update the activation values based on overall coherence (structural constraints). The best global analogy mapping emerges under the pressure of these constraints. Subsequent connectionist models, such as Hummel and Holyoak’s LISA program (1997, 2003), have made significant advances and hold promise for offering a more complete theory of analogical reasoning.
+      多重约束理论的新颖之处在于，这些*结构性的*、*语义的*与*语用的*约束不是作为僵硬的规则、而是作为支持或抑制潜在的成对对应的“压力”来实现的。该理论实现于一个名为 **ACME**（Analogical Constraint Mapping Engine，类比约束映射引擎）的联结主义程序，它给源域与目标域元素之间的每个可能配对指派一个初始激活值（基于语义与语用约束），然后运行多轮循环，依据整体连贯性（结构约束）更新激活值。最佳的全局类比映射在这些约束的压力下涌现。随后的联结主义模型，如 Hummel 与 Holyoak 的 LISA 程序（1997, 2003），已取得显著进展，并有望提供一个更完备的类比推理理论。
     step2: |-
-      The novelty of the multiconstraint theory is that these *structural*, *semantic* and *pragmatic* constraints are implemented not as rigid rules, but rather as ‘pressures’ supporting or inhibiting potential pairwise correspondences. The theory is implemented in a connectionist program called **ACME** (Analogical Constraint Mapping Engine), which assigns an initial activation value to each possible pairing between elements in the source and target domains (based on semantic and pragmatic constraints), and then runs through cycles that update the activation values based on overall coherence (structural constraints). The best global analogy mapping emerges under the pressure of these constraints. Subsequent connectionist models, such as Hummel and Holyoak’s LISA program (1997, 2003), have made significant advances and hold promise for offering a more complete theory of analogical reasoning.
+      多重约束理论的新意在于：*结构性*、*语义*与*语用*约束不以僵硬规则实现，而以支持或抑制潜在成对对应的“压力”实现。该理论实现于联结主义程序 **ACME**（Analogical Constraint Mapping Engine，类比约束映射引擎）：它给源、目标域元素间每个可能配对指派初始激活值（依语义与语用约束），再循环更新激活值——依据整体连贯性（结构约束）。最佳的全局类比映射便在这些压力下涌现。后来的联结主义模型——如 Hummel 与 Holyoak 的 LISA 程序（1997, 2003）——进展显著，有望给出更完备的类比推理理论。
   - id: 177
     kind: body
     source: |-
       The second example is Hofstadter and Mitchell’s *Copycat* program (Hofstadter 1995; Mitchell 1993)[^hofstadter-1995][^mitchell-1993]. The program is “designed to discover insightful analogies, and to do so in a psychologically realistic way” (Hofstadter 1995: 205)[^hofstadter-1995]. Copycat operates in the domain of letter-strings. The program handles the following type of problem:
     step1: |-
-      The second example is Hofstadter and Mitchell’s *Copycat* program (Hofstadter 1995; Mitchell 1993)[^hofstadter-1995][^mitchell-1993]. The program is “designed to discover insightful analogies, and to do so in a psychologically realistic way” (Hofstadter 1995: 205)[^hofstadter-1995]. Copycat operates in the domain of letter-strings. The program handles the following type of problem:
+      第二个例子是 Hofstadter 与 Mitchell 的 *Copycat* 程序（Hofstadter 1995; Mitchell 1993）[^hofstadter-1995][^mitchell-1993]。该程序“旨在发现有洞见的类比，并以心理学上真实的方式做到这一点”（Hofstadter 1995: 205）[^hofstadter-1995]。Copycat 在字母串的领域中运作。该程序处理如下类型的问题：
     step2: |-
-      The second example is Hofstadter and Mitchell’s *Copycat* program (Hofstadter 1995; Mitchell 1993)[^hofstadter-1995][^mitchell-1993]. The program is “designed to discover insightful analogies, and to do so in a psychologically realistic way” (Hofstadter 1995: 205)[^hofstadter-1995]. Copycat operates in the domain of letter-strings. The program handles the following type of problem:
+      第二个例子是 Hofstadter 与 Mitchell 的 *Copycat* 程序（Hofstadter 1995; Mitchell 1993）[^hofstadter-1995][^mitchell-1993]。这个程序“旨在发现有洞见的类比，并以心理学上真实的方式做到这一点”（Hofstadter 1995: 205）[^hofstadter-1995]。Copycat 在字母串领域里运作，处理的是这类问题：
   - id: 178
     kind: body
     source: |-
       Suppose the letter-string *abc* were changed to *abd*; how would you change the letter-string *ijk* in “the same way”?
     step1: |-
-      Suppose the letter-string *abc* were changed to *abd*; how would you change the letter-string *ijk* in “the same way”?
+      假设字母串 *abc* 被改成了 *abd*；你会如何“以同样的方式”改动字母串 *ijk*？
     step2: |-
-      Suppose the letter-string *abc* were changed to *abd*; how would you change the letter-string *ijk* in “the same way”?
+      设字母串 *abc* 被改成 *abd*；你会怎样“以同样的方式”改动字母串 *ijk*？
   - id: 179
     kind: body
     source: |-
       Most people would answer *ijl*, since it is natural to think that *abc* was changed to *abd* by the “transformation rule”: replace the rightmost letter with its successor. Alternative answers are possible, but do not agree with most people’s sense of what counts as the natural analogy.
     step1: |-
-      Most people would answer *ijl*, since it is natural to think that *abc* was changed to *abd* by the “transformation rule”: replace the rightmost letter with its successor. Alternative answers are possible, but do not agree with most people’s sense of what counts as the natural analogy.
+      大多数人会回答 *ijl*，因为很自然地会认为 *abc* 之变为 *abd* 遵循如下“变换规则”：把最右边的字母替换为它的后继。其他答案也是可能的，但不符合多数人关于什么算作自然类比的直觉。
     step2: |-
-      Most people would answer *ijl*, since it is natural to think that *abc* was changed to *abd* by the “transformation rule”: replace the rightmost letter with its successor. Alternative answers are possible, but do not agree with most people’s sense of what counts as the natural analogy.
+      多数人会答 *ijl*：很自然地，人们认为 *abc* 变 *abd* 遵循的“变换规则”是把最右字母换成其后继。别的答案也有，但不合多数人对“什么算自然类比”的直觉。
   - id: 180
     kind: body
     source: |-
       Hofstadter and Mitchell believe that analogy-making is in large part about the *perception* of novel patterns, and that such perception requires concepts with “fluid” boundaries. Genuine analogy-making involves “slippage” of concepts. The Copycat program combines a set of core concepts pertaining to letter-sequences (*successor*, *leftmost* and so forth) with probabilistic “halos” that link distinct concepts dynamically. Orderly structures emerge out of random low-level processes and the program produces plausible solutions. Copycat thus shows that analogy-making can be modeled as a process akin to perception, even if the program employs mechanisms distinct from those in human perception.
     step1: |-
-      Hofstadter and Mitchell believe that analogy-making is in large part about the *perception* of novel patterns, and that such perception requires concepts with “fluid” boundaries. Genuine analogy-making involves “slippage” of concepts. The Copycat program combines a set of core concepts pertaining to letter-sequences (*successor*, *leftmost* and so forth) with probabilistic “halos” that link distinct concepts dynamically. Orderly structures emerge out of random low-level processes and the program produces plausible solutions. Copycat thus shows that analogy-making can be modeled as a process akin to perception, even if the program employs mechanisms distinct from those in human perception.
+      Hofstadter 与 Mitchell 相信，做类比在很大程度上关乎对新模式的*知觉*，而这种知觉要求概念有“流动的”边界。真正的做类比涉及概念的“滑移”。Copycat 程序把一组关于字母序列的核心概念（*后继*、*最左*等等）与把不同概念动态连接起来的概率性“晕环”结合起来。有序的结构从随机的低层过程中涌现，该程序产生说得过去的解。因此，Copycat 表明做类比可以被建模为一个类似于知觉的过程，即使该程序使用的机制不同于人类知觉中的机制。
     step2: |-
-      Hofstadter and Mitchell believe that analogy-making is in large part about the *perception* of novel patterns, and that such perception requires concepts with “fluid” boundaries. Genuine analogy-making involves “slippage” of concepts. The Copycat program combines a set of core concepts pertaining to letter-sequences (*successor*, *leftmost* and so forth) with probabilistic “halos” that link distinct concepts dynamically. Orderly structures emerge out of random low-level processes and the program produces plausible solutions. Copycat thus shows that analogy-making can be modeled as a process akin to perception, even if the program employs mechanisms distinct from those in human perception.
+      Hofstadter 与 Mitchell 相信：做类比，大半关乎对新模式的*知觉*；而这种知觉要求概念有“流动的”边界——真正的类比制作涉及概念的“滑移”（slippage）。Copycat 把一组字母序列核心概念（*后继*、*最左*等）与动态连接不同概念的概率性“晕环”结合：有序结构从随机的低层过程中涌现，程序给出说得过去的解。于是 Copycat 表明：类比制作可以被建模为类知觉的过程——即便程序采用的机制不同于人类知觉的机制。
   - id: 181
     kind: body
     source: |-
       The multiconstraint theory and Copycat share the idea that analogical cognition involves cognitive processes that operate below the level of abstract reasoning. Both computational models—to the extent that they are capable of performing successful analogical reasoning—challenge the idea that a successful model of analogical reasoning must take the form of a set of quasi-logical criteria. Efforts to develop a quasi-logical *theory* of analogical reasoning, it might be argued, have failed. In place of faulty inference schemes such as those described earlier (§2.2, §2.4), computational models substitute *procedures* that can be judged on their performance rather than on traditional philosophical standards.
     step1: |-
-      The multiconstraint theory and Copycat share the idea that analogical cognition involves cognitive processes that operate below the level of abstract reasoning. Both computational models—to the extent that they are capable of performing successful analogical reasoning—challenge the idea that a successful model of analogical reasoning must take the form of a set of quasi-logical criteria. Efforts to develop a quasi-logical *theory* of analogical reasoning, it might be argued, have failed. In place of faulty inference schemes such as those described earlier (§2.2, §2.4), computational models substitute *procedures* that can be judged on their performance rather than on traditional philosophical standards.
+      多重约束理论与 Copycat 共享这样一个想法：类比认知涉及在抽象推理层面之下运作的认知过程。两个计算模型——就它们能够执行成功的类比推理而言——挑战了这样一个观念：一个成功的类比推理模型必须采取一组准逻辑判据的形式。人们或许会论证说，发展类推推理的准逻辑*理论*的努力已经失败。计算机模型用*程序*取代了前文（§2.2, §2.4）描述的那类有缺陷的推理图式；这些程序可以按其表现来评价，而不是按传统的哲学标准。
     step2: |-
-      The multiconstraint theory and Copycat share the idea that analogical cognition involves cognitive processes that operate below the level of abstract reasoning. Both computational models—to the extent that they are capable of performing successful analogical reasoning—challenge the idea that a successful model of analogical reasoning must take the form of a set of quasi-logical criteria. Efforts to develop a quasi-logical *theory* of analogical reasoning, it might be argued, have failed. In place of faulty inference schemes such as those described earlier (§2.2, §2.4), computational models substitute *procedures* that can be judged on their performance rather than on traditional philosophical standards.
+      多重约束理论与 Copycat 共有一个想法：类比认知涉及在抽象推理层面之下运作的认知过程。这两个计算模型——就其能完成成功的类比推理而言——挑战了“成功的类比推理模型必须采取一组准逻辑判据的形式”这一观念。人们不妨说：发展类推推理的准逻辑*理论*的种种努力已经失败。计算模型用可按实绩评价的*程序*，取代了前文（§2.2, §2.4）那类有缺陷的推理图式——而不按传统哲学标准来评。
   - id: 182
     kind: body
     source: |-
       In response to this argument, we should recognize the value of the connectionist models while acknowledging that we still need a theory that offers normative principles for evaluating analogical arguments. In the first place, even if the construction and recognition of analogies are largely a matter of perception, this does not eliminate the need for subsequent critical evaluation of analogical inferences. Second and more importantly, we need to look not just at the construction of analogy mappings but at the ways in which individual analogical arguments are debated in fields such as mathematics, physics, philosophy and the law. These high-level debates require reasoning that bears little resemblance to the computational processes of ACME or Copycat. (Ashley’s HYPO (Ashley 1990)[^ashley-1990] is one example of a non-connectionist program that focuses on this aspect of analogical reasoning.) There is, accordingly, room for both computational and traditional philosophical models of analogical reasoning.
     step1: |-
-      In response to this argument, we should recognize the value of the connectionist models while acknowledging that we still need a theory that offers normative principles for evaluating analogical arguments. In the first place, even if the construction and recognition of analogies are largely a matter of perception, this does not eliminate the need for subsequent critical evaluation of analogical inferences. Second and more importantly, we need to look not just at the construction of analogy mappings but at the ways in which individual analogical arguments are debated in fields such as mathematics, physics, philosophy and the law. These high-level debates require reasoning that bears little resemblance to the computational processes of ACME or Copycat. (Ashley’s HYPO (Ashley 1990)[^ashley-1990] is one example of a non-connectionist program that focuses on this aspect of analogical reasoning.) There is, accordingly, room for both computational and traditional philosophical models of analogical reasoning.
+      作为对这一论证的回应，我们应当承认联结主义模型的价值，同时承认我们仍然需要一个为评价类比论证提供规范性原则的理论。首先，即使类比的构造与识别在很大程度上是知觉的事情，这也没有消除对类比推理进行后续批判性评价的需要。第二，也是更重要的，我们不仅要看类比映射的构造，还要看在数学、物理学、哲学与法律等领域中个别类比论证被辩论的方式。这些高层次的辩论所需要的推理，与 ACME 或 Copycat 的计算过程几乎没有相似之处。（Ashley 的 HYPO（Ashley 1990）[^ashley-1990] 是一个非联结主义程序的例子，它聚焦类推推理的这一方面。）因此，类推推理的计算模型与传统哲学模型都有存在的空间。
     step2: |-
-      In response to this argument, we should recognize the value of the connectionist models while acknowledging that we still need a theory that offers normative principles for evaluating analogical arguments. In the first place, even if the construction and recognition of analogies are largely a matter of perception, this does not eliminate the need for subsequent critical evaluation of analogical inferences. Second and more importantly, we need to look not just at the construction of analogy mappings but at the ways in which individual analogical arguments are debated in fields such as mathematics, physics, philosophy and the law. These high-level debates require reasoning that bears little resemblance to the computational processes of ACME or Copycat. (Ashley’s HYPO (Ashley 1990)[^ashley-1990] is one example of a non-connectionist program that focuses on this aspect of analogical reasoning.) There is, accordingly, room for both computational and traditional philosophical models of analogical reasoning.
+      回应这一论证时，我们应当承认联结主义模型的价值，同时承认：我们仍需要一个能为评价类比论证提供规范性原则的理论。首先，即便类比的构造与识别大半是知觉之事，这也消除不了对类比推理作后续批判评价的需要。其次，更要紧的是：我们不仅要看类比映射的构造，还要看个别类比论证在数学、物理学、哲学与法律等领域中被辩论的方式——这些高层次辩论所需的推理，与 ACME 或 Copycat 的计算过程几乎不沾边。（Ashley 的 HYPO（Ashley 1990）[^ashley-1990] 便是聚焦这一方面的非联结主义程序。）可见，计算模型与传统哲学模型各有存身之地。
   - id: 183
     kind: body
     source: |-
       #### 3.5.2 Articulation model
     step1: |-
-      #### 3.5.2 Articulation model
+      #### 3.5.2 阐明模型
     step2: |-
-      #### 3.5.2 Articulation model
+      #### 3.5.2 阐明模型
   - id: 184
     kind: body
     source: |-
       Most prominent theories of analogy, philosophical and computational, are based on overall similarity between source and target domains—defined in terms of some favoured subset of Hesse’s *horizontal relations* (see §2.2). Aristotle and Mill, whose approach is echoed in textbook discussions, suggest counting similarities. Hesse’s theory (§3.3) favours “pre-theoretic” correspondences. The structure-mapping theory and its successors (§3.4) look to systematicity, i.e., to correspondences involving complex, high-level networks of relations. In each of these approaches, the problem is twofold: overall similarity is not a reliable guide to plausibility, and it fails to explain the plausibility of any analogical argument.
     step1: |-
-      Most prominent theories of analogy, philosophical and computational, are based on overall similarity between source and target domains—defined in terms of some favoured subset of Hesse’s *horizontal relations* (see §2.2). Aristotle and Mill, whose approach is echoed in textbook discussions, suggest counting similarities. Hesse’s theory (§3.3) favours “pre-theoretic” correspondences. The structure-mapping theory and its successors (§3.4) look to systematicity, i.e., to correspondences involving complex, high-level networks of relations. In each of these approaches, the problem is twofold: overall similarity is not a reliable guide to plausibility, and it fails to explain the plausibility of any analogical argument.
+      大多数突出的类比理论——哲学的与计算的——都基于源域与目标域之间的总体相似性，后者按 Hesse 的*水平关系*的某个受青睐子集来定义（见 §2.2）。亚里士多德与穆勒（其进路在教科书讨论中得到回应）建议清点相似性。Hesse 的理论（§3.3）青睐“前理论的”对应。结构映射理论及其后继（§3.4）寄望于系统性，即涉及复杂的高层关系网络的对应。在这些进路的每一种中，问题都是双重的：总体相似性不是可信性的可靠指南，而且它解释不了任何类比论证的可信性。
     step2: |-
-      Most prominent theories of analogy, philosophical and computational, are based on overall similarity between source and target domains—defined in terms of some favoured subset of Hesse’s *horizontal relations* (see §2.2). Aristotle and Mill, whose approach is echoed in textbook discussions, suggest counting similarities. Hesse’s theory (§3.3) favours “pre-theoretic” correspondences. The structure-mapping theory and its successors (§3.4) look to systematicity, i.e., to correspondences involving complex, high-level networks of relations. In each of these approaches, the problem is twofold: overall similarity is not a reliable guide to plausibility, and it fails to explain the plausibility of any analogical argument.
+      大多数显赫的类比理论——哲学的与计算的——都把根基放在源、目标域的总体相似上，后者按 Hesse *水平关系*的某个受青睐子集来定义（见 §2.2）。亚里士多德与穆勒（其进路在教科书中得到回应）主张清点相似；Hesse 的理论（§3.3）青睐“前理论的”对应；结构映射理论及其后继（§3.4）寄望于系统性——即涉及复杂高层关系网络的对应。在这些进路那里，困难是双重的：总体相似性不是可信性的可靠向导，也解释不了任何类比论证何以可信。
   - id: 185
     kind: body
     source: |-
       Bartha’s *articulation model* (2010) proposes a different approach, beginning not with horizontal relations, but rather with a classification of analogical arguments on the basis of the *vertical relations* within each domain. The fundamental idea is that a good analogical argument must satisfy two conditions:
     step1: |-
-      Bartha’s *articulation model* (2010) proposes a different approach, beginning not with horizontal relations, but rather with a classification of analogical arguments on the basis of the *vertical relations* within each domain. The fundamental idea is that a good analogical argument must satisfy two conditions:
+      Bartha 的*阐明模型*（articulation model）（2010）提出了一个不同的进路，它不从水平关系出发，而是基于每个域内部的*垂直关系*对类比论证进行分类。根本的想法是：一个好的类比论证必须满足两个条件：
     step2: |-
-      Bartha’s *articulation model* (2010) proposes a different approach, beginning not with horizontal relations, but rather with a classification of analogical arguments on the basis of the *vertical relations* within each domain. The fundamental idea is that a good analogical argument must satisfy two conditions:
+      Bartha 的*阐明模型*（articulation model，2010）走另一条路：不从水平关系出发，而以各域内部的*垂直关系*为据对类比论证分类。根本想法是：好的类比论证必须满足两个条件：
   - id: 186
     kind: body
     source: |-
       *Prior Association*. There must be a clear connection, in the source domain, between the known similarities (the positive analogy) and the further similarity that is projected to hold in the target domain (the hypothetical analogy). This relationship determines which features of the source are *critical* to the analogical inference.
     step1: |-
-      *Prior Association*. There must be a clear connection, in the source domain, between the known similarities (the positive analogy) and the further similarity that is projected to hold in the target domain (the hypothetical analogy). This relationship determines which features of the source are *critical* to the analogical inference.
+      *先行关联*。在源域中，已知的相似性（正类比）与被投射到目标域中成立的进一步相似性（假说类比）之间，必须有清晰的联系。这一关系决定了源的哪些特征对类比推理是*关键性的*。
     step2: |-
-      *Prior Association*. There must be a clear connection, in the source domain, between the known similarities (the positive analogy) and the further similarity that is projected to hold in the target domain (the hypothetical analogy). This relationship determines which features of the source are *critical* to the analogical inference.
+      *先行关联*（prior association）。在源域中，已知相似（正类比）与被投射到目标域的进一步相似（假说类比）之间必须有清晰的联系；这一关系决定源的哪些特征对类比推理是*关键性的*（critical）。
   - id: 187
     kind: body
     source: |-
       *Potential for Generalization*. There must be reason to think that the same kind of connection could obtain in the target domain. More pointedly: there must be no *critical* disanalogy between the domains.
     step1: |-
-      *Potential for Generalization*. There must be reason to think that the same kind of connection could obtain in the target domain. More pointedly: there must be no *critical* disanalogy between the domains.
+      *概括的潜力*。必须有理由认为，同一种联系也可能在目标域中出现。更尖锐地说：两个域之间不得有*关键性的*不相似。
     step2: |-
-      *Potential for Generalization*. There must be reason to think that the same kind of connection could obtain in the target domain. More pointedly: there must be no *critical* disanalogy between the domains.
+      *概括潜力*（potential for generalization）。必须有理由认为同一种联系也可能在目标域中出现。说得更尖锐：两域之间不得有*关键性的*不相似（critical disanalogy）。
   - id: 188
     kind: body
     source: |-
       The first order of business is to make the prior association explicit. The standards of explicitness vary depending on the nature of this association (causal relation, mathematical proof, functional relationship, and so forth). The two general principles are fleshed out via a set of subordinate models that allow us to identify critical features and hence critical disanalogies.
     step1: |-
-      The first order of business is to make the prior association explicit. The standards of explicitness vary depending on the nature of this association (causal relation, mathematical proof, functional relationship, and so forth). The two general principles are fleshed out via a set of subordinate models that allow us to identify critical features and hence critical disanalogies.
+      头等大事是把先行关联弄清楚。清晰性的标准随这种关联的性质而变化（因果关系、数学证明、函数关系等等）。这两条一般原则通过一组从属模型得到充实，后者使我们能够识别关键特征，进而识别关键的不相似。
     step2: |-
-      The first order of business is to make the prior association explicit. The standards of explicitness vary depending on the nature of this association (causal relation, mathematical proof, functional relationship, and so forth). The two general principles are fleshed out via a set of subordinate models that allow us to identify critical features and hence critical disanalogies.
+      头等大事是把先行关联说清楚。清晰的标准随关联的性质而异（因果关系、数学证明、函数关系等等）。两条一般原则经由一组从属模型得到充实；借助它们，我们能识别关键特征，进而识别关键的不相似。
   - id: 189
     kind: body
     source: |-
       To see how this works, consider *Example 7* (Rectangles and boxes). In this analogical argument, the source domain is two-dimensional geometry: we know that of all rectangles with a fixed perimeter, the square has maximum area. The target domain is three-dimensional geometry: by analogy, we conjecture that of all boxes with a fixed surface area, the cube has maximum volume. This argument should be evaluated *not* by counting similarities, looking to pre-theoretic resemblances between rectangles and boxes, or constructing connectionist representations of the domains and computing a systematicity score for possible mappings. Instead, we should begin with a precise articulation of the prior association in the source domain, which amounts to a specific proof for the result about rectangles. We should then identify, relative to that proof, the critical features of the source domain: namely, the concepts and assumptions used in the proof. Finally, we should assess the potential for generalization: whether, in the three-dimensional setting, those critical features are known to lack analogues in the target domain. The articulation model is meant to reflect the conversations that can and do take place between an *advocate* and a *critic* of an analogical argument.
     step1: |-
-      To see how this works, consider *Example 7* (Rectangles and boxes). In this analogical argument, the source domain is two-dimensional geometry: we know that of all rectangles with a fixed perimeter, the square has maximum area. The target domain is three-dimensional geometry: by analogy, we conjecture that of all boxes with a fixed surface area, the cube has maximum volume. This argument should be evaluated *not* by counting similarities, looking to pre-theoretic resemblances between rectangles and boxes, or constructing connectionist representations of the domains and computing a systematicity score for possible mappings. Instead, we should begin with a precise articulation of the prior association in the source domain, which amounts to a specific proof for the result about rectangles. We should then identify, relative to that proof, the critical features of the source domain: namely, the concepts and assumptions used in the proof. Finally, we should assess the potential for generalization: whether, in the three-dimensional setting, those critical features are known to lack analogues in the target domain. The articulation model is meant to reflect the conversations that can and do take place between an *advocate* and a *critic* of an analogical argument.
+      为了看这如何起作用，考虑*例 7*（矩形与盒子）。在这个类比论证中，源域是二维几何：我们知道，在周长固定的所有矩形中，正方形的面积最大。目标域是三维几何：凭类比，我们猜想，在表面积固定的所有盒子中，立方体的体积最大。评价这一论证，*不应*通过清点相似性、寻找矩形与盒子之间的前理论相似、或构造各域的联结主义表示并计算可能映射的系统性得分。相反，我们应当从源域中先行关联的精确阐明开始——这相当于关于矩形结果的某个具体证明。然后，我们应相对于该证明识别源域的关键特征：即证明中使用的概念与假设。最后，我们应评估概括的潜力：在三维设定中，这些关键特征是否已知在目标域中缺乏对应物。阐明模型意在反映一个类比论证的*辩护者*与*批评者*之间能够且确实发生的对话。
     step2: |-
-      To see how this works, consider *Example 7* (Rectangles and boxes). In this analogical argument, the source domain is two-dimensional geometry: we know that of all rectangles with a fixed perimeter, the square has maximum area. The target domain is three-dimensional geometry: by analogy, we conjecture that of all boxes with a fixed surface area, the cube has maximum volume. This argument should be evaluated *not* by counting similarities, looking to pre-theoretic resemblances between rectangles and boxes, or constructing connectionist representations of the domains and computing a systematicity score for possible mappings. Instead, we should begin with a precise articulation of the prior association in the source domain, which amounts to a specific proof for the result about rectangles. We should then identify, relative to that proof, the critical features of the source domain: namely, the concepts and assumptions used in the proof. Finally, we should assess the potential for generalization: whether, in the three-dimensional setting, those critical features are known to lack analogues in the target domain. The articulation model is meant to reflect the conversations that can and do take place between an *advocate* and a *critic* of an analogical argument.
+      看它如何运作，回到*例 7*（矩形与盒子）。此论证中源域是二维几何：周长固定的矩形中，正方形面积最大；目标域是三维几何：凭类比，我们猜想表面积固定的盒子中，立方体体积最大。评价它，*不该*靠清点相似、找矩形与盒子的前理论相似、或构造联结主义表示再算映射的系统性得分；而应从精确阐明源域中的先行关联入手——那相当于给出矩形结果的一个具体证明。继而，相对于该证明识别源域的关键特征——证明所用的概念与假设。最后评估概括潜力：在三维设定中，这些关键特征是否已知在目标域缺乏对应物。阐明模型所要刻画的，正是一个类比论证的*辩护者*与*批评者*之间能够且确实发生的那种对话。
   - id: 190
     kind: body
     source: |-
       ### 3.6 Practice-based approaches
     step1: |-
-      ### 3.6 Practice-based approaches
+      ### 3.6 基于实践的进路
     step2: |-
-      ### 3.6 Practice-based approaches
+      ### 3.6 基于实践的进路
   - id: 191
     kind: body
     source: |-
       Studies of analogical reasoning based on scientific practice provide valuable perspectives on criteria for evaluating analogical arguments.
     step1: |-
-      Studies of analogical reasoning based on scientific practice provide valuable perspectives on criteria for evaluating analogical arguments.
+      基于科学实践的类推推理研究，为评价类比论证的判据提供了有价值的视角。
     step2: |-
-      Studies of analogical reasoning based on scientific practice provide valuable perspectives on criteria for evaluating analogical arguments.
+      以科学实践为据的类推推理研究，为评价类比论证的判据提供了宝贵的视角。
   - id: 192
     kind: body
     source: |-
       #### 3.6.1 Norton’s material theory of analogy
     step1: |-
-      #### 3.6.1 Norton’s material theory of analogy
+      #### 3.6.1 Norton 的类比实质理论
     step2: |-
-      #### 3.6.1 Norton’s material theory of analogy
+      #### 3.6.1 Norton 的类比实质理论
   - id: 193
     kind: body
     source: |-
       As noted in §2.4, Norton rejects analogical inference rules. But even if we agree with Norton on this point, we might still be interested in having an account that gives us guidelines for evaluating analogical arguments. How does Norton’s approach fare on this score?
     step1: |-
-      As noted in §2.4, Norton rejects analogical inference rules. But even if we agree with Norton on this point, we might still be interested in having an account that gives us guidelines for evaluating analogical arguments. How does Norton’s approach fare on this score?
+      如 §2.4 所述，Norton 拒斥类比推理规则。但即便我们在这一点上同意 Norton，我们可能仍然想要一个为我们评价类比论证提供指引的学说。Norton 的进路在这方面如何？
     step2: |-
-      As noted in §2.4, Norton rejects analogical inference rules. But even if we agree with Norton on this point, we might still be interested in having an account that gives us guidelines for evaluating analogical arguments. How does Norton’s approach fare on this score?
+      如 §2.4 所述，Norton 拒斥类比推理规则。可即便在这一点上附议 Norton，我们或许仍想要一个能为评价类比论证提供指引的学说。Norton 的进路于此表现如何？
   - id: 194
     kind: body
     source: |-
       According to Norton, each analogical argument is warranted by local facts that must be investigated and justified empirically. First, there is “the fact of the analogy”: in practice, a low-level uniformity that embraces both the source and target systems. Second, there are additional factual properties of the target system which, when taken together with the uniformity, warrant the analogical inference. Consider Galileo’s famous inference (*Example 12*) that there are mountains on the moon (Galileo 1610). Through his newly invented telescope, Galileo observed points of light on the moon ahead of the advancing edge of sunlight. Noting that the same thing happens on earth when sunlight strikes the mountains, he concluded that there must be mountains on the moon and even provided a reasonable estimate of their height. In this example, Norton tells us, *the fact of the analogy* is that shadows and other optical phenomena are generated in the same way on the earth and on the moon; the additional fact about the target is the existence of points of light ahead of the advancing edge of sunlight on the moon.
     step1: |-
-      According to Norton, each analogical argument is warranted by local facts that must be investigated and justified empirically. First, there is “the fact of the analogy”: in practice, a low-level uniformity that embraces both the source and target systems. Second, there are additional factual properties of the target system which, when taken together with the uniformity, warrant the analogical inference. Consider Galileo’s famous inference (*Example 12*) that there are mountains on the moon (Galileo 1610). Through his newly invented telescope, Galileo observed points of light on the moon ahead of the advancing edge of sunlight. Noting that the same thing happens on earth when sunlight strikes the mountains, he concluded that there must be mountains on the moon and even provided a reasonable estimate of their height. In this example, Norton tells us, *the fact of the analogy* is that shadows and other optical phenomena are generated in the same way on the earth and on the moon; the additional fact about the target is the existence of points of light ahead of the advancing edge of sunlight on the moon.
+      按 Norton 的说法，每个类比论证都由必须经验地考察与证成的局部事实来证成。首先，有“类比的事实”：在实践中，一种涵盖源系统与目标系统的低层均匀性。其次，有目标系统的一些额外的事实性质，它们与该均匀性一起，为类比推理提供证成。考虑伽利略的著名推理（*例 12*）：月球上有山（Galileo 1610）。通过他新发明的望远镜，伽利略观察到在阳光推进的边缘之前，月球上有些光点。注意到同样的情形也发生在地球上——当阳光照射山脉时——他得出结论：月球上必有山，甚至给出了其高度的一个合理估计。Norton 告诉我们，在这个例子中，*类比的事实*是：影子与其他光学现象在地球上与月球上以相同的方式产生；关于目标的额外事实是：月球上阳光推进边缘之前存在光点。
     step2: |-
-      According to Norton, each analogical argument is warranted by local facts that must be investigated and justified empirically. First, there is “the fact of the analogy”: in practice, a low-level uniformity that embraces both the source and target systems. Second, there are additional factual properties of the target system which, when taken together with the uniformity, warrant the analogical inference. Consider Galileo’s famous inference (*Example 12*) that there are mountains on the moon (Galileo 1610). Through his newly invented telescope, Galileo observed points of light on the moon ahead of the advancing edge of sunlight. Noting that the same thing happens on earth when sunlight strikes the mountains, he concluded that there must be mountains on the moon and even provided a reasonable estimate of their height. In this example, Norton tells us, *the fact of the analogy* is that shadows and other optical phenomena are generated in the same way on the earth and on the moon; the additional fact about the target is the existence of points of light ahead of the advancing edge of sunlight on the moon.
+      按 Norton 的说法，每个类比论证都由局部事实证成，而这些事实必须经验地考察与证成。其一，“类比的事实”：实践中即一种同时涵盖源系统与目标系统的低层均匀性。其二，目标系统另有若干事实性质，与该均匀性合起来，为类比推理提供证成。看伽利略的著名推理（*例 12*）：月球上有山（Galileo 1610）。他用新发明的望远镜观察到：阳光推进缘之前，月球上有些光点。又注意到阳光照到地球上山脉时情形相同，遂断定月球上必有山，甚至给出高度的合理估计。Norton 说，此例中*类比的事实*是：影子与其他光学现象在地球上与月球上以相同方式产生；关于目标的额外事实是：月球上阳光推进缘之前有光点。
   - id: 195
     kind: body
     source: |-
       What are the implications of Norton’s material theory when it comes to evaluating analogical arguments? *The fact of the analogy* is a local uniformity that powers the inference. Norton’s theory works well when such a uniformity is patent or naturally inferred. It doesn’t work well when the uniformity is itself the *target* (rather than the *driver*) of the inference. That happens with explanatory analogies such as *Example 5* (the *Acoustical Analogy*), and mathematical analogies such as *Example 7* (*Rectangles and Boxes*). Similarly, the theory doesn’t work well when the underlying uniformity is unclear, as in *Example 2* (*Life on other Planets*), *Example 4* (*Clay Pots*), and many other cases. In short, if Norton’s theory is accepted, then for most analogical arguments there are no useful evaluation criteria.
     step1: |-
-      What are the implications of Norton’s material theory when it comes to evaluating analogical arguments? *The fact of the analogy* is a local uniformity that powers the inference. Norton’s theory works well when such a uniformity is patent or naturally inferred. It doesn’t work well when the uniformity is itself the *target* (rather than the *driver*) of the inference. That happens with explanatory analogies such as *Example 5* (the *Acoustical Analogy*), and mathematical analogies such as *Example 7* (*Rectangles and Boxes*). Similarly, the theory doesn’t work well when the underlying uniformity is unclear, as in *Example 2* (*Life on other Planets*), *Example 4* (*Clay Pots*), and many other cases. In short, if Norton’s theory is accepted, then for most analogical arguments there are no useful evaluation criteria.
+      Norton 的实质理论在评价类比论证方面有何含义？*类比的事实*是驱动推理的一种局部均匀性。当这种均匀性是显明的或可自然推知的时，Norton 的理论运作良好。当均匀性本身是推理的*目标*（而非*驱动者*）时，它运作得不好。解释性类比如*例 5*（*声学类比*）与数学类比如*例 7*（*矩形与盒子*）就是这种情形。类似地，当底层均匀性不清楚时，该理论也运作不好，如*例 2*（*其他行星上的生命*）、*例 4*（*陶瓶*）与许多其他案例。简言之，如果接受 Norton 的理论，那么对大多数类比论证来说，不存在有用的评价判据。
     step2: |-
-      What are the implications of Norton’s material theory when it comes to evaluating analogical arguments? *The fact of the analogy* is a local uniformity that powers the inference. Norton’s theory works well when such a uniformity is patent or naturally inferred. It doesn’t work well when the uniformity is itself the *target* (rather than the *driver*) of the inference. That happens with explanatory analogies such as *Example 5* (the *Acoustical Analogy*), and mathematical analogies such as *Example 7* (*Rectangles and Boxes*). Similarly, the theory doesn’t work well when the underlying uniformity is unclear, as in *Example 2* (*Life on other Planets*), *Example 4* (*Clay Pots*), and many other cases. In short, if Norton’s theory is accepted, then for most analogical arguments there are no useful evaluation criteria.
+      这对评价类比论证意味着什么？*类比的事实*是驱动推理的局部均匀性。这种均匀性显明、或可自然推知时，Norton 的理论运转良好；而当均匀性本身是推理的*目标*（而非*驱动者*）时，它就失灵——解释性类比（*例 5*，*声学类比*）与数学类比（*例 7*，*矩形与盒子*）即属此类。底层均匀性含混时同样失灵，如*例 2*（*其他行星上的生命*）、*例 4*（*陶瓶*）以及许多别的案例。总之：若接受 Norton 的理论，大多数类比论证就没有任何有用的评价判据可言。
   - id: 196
     kind: body
     source: |-
       #### 3.6.2 Field-specific criteria
     step1: |-
-      #### 3.6.2 Field-specific criteria
+      #### 3.6.2 领域特定判据
     step2: |-
-      #### 3.6.2 Field-specific criteria
+      #### 3.6.2 领域特定判据
   - id: 197
     kind: body
     source: |-
       For those who sympathize with Norton’s skepticism about universal inductive schemes and theories of analogical reasoning, yet recognize that his approach may be too local, an appealing strategy is to move up one level. We can aim for field-specific “working logics” (Toulmin 1958; Wylie and Chapman 2016; Reiss 2015)[^reiss-2015][^toulmin-1958][^wylie-2016]. This approach has been adopted by philosophers of archaeology, evolutionary biology and other historical sciences (Wylie and Chapman 2016; Currie 2013; Currie 2016; Currie 2018)[^currie-2013][^currie-2016][^currie-2018][^wylie-2016]. In place of schemas, we find ‘toolkits’, i.e., lists of criteria for evaluating analogical reasoning.
     step1: |-
-      For those who sympathize with Norton’s skepticism about universal inductive schemes and theories of analogical reasoning, yet recognize that his approach may be too local, an appealing strategy is to move up one level. We can aim for field-specific “working logics” (Toulmin 1958; Wylie and Chapman 2016; Reiss 2015)[^reiss-2015][^toulmin-1958][^wylie-2016]. This approach has been adopted by philosophers of archaeology, evolutionary biology and other historical sciences (Wylie and Chapman 2016; Currie 2013; Currie 2016; Currie 2018)[^currie-2013][^currie-2016][^currie-2018][^wylie-2016]. In place of schemas, we find ‘toolkits’, i.e., lists of criteria for evaluating analogical reasoning.
+      对于那些既同情 Norton 对普遍归纳图式与类推推理理论的怀疑、又认识到他的进路可能过于局部的人来说，一个有吸引力的策略是向上一级。我们可以追求领域特定的“工作逻辑”（Toulmin 1958; Wylie and Chapman 2016; Reiss 2015）[^reiss-2015][^toulmin-1958][^wylie-2016]。这一进路已被考古学、进化生物学与其他历史科学的哲学家采纳（Wylie and Chapman 2016; Currie 2013; Currie 2016; Currie 2018）[^currie-2013][^currie-2016][^currie-2018][^wylie-2016]。取代图式的，是“工具箱”，即评价类推推理的判据清单。
     step2: |-
-      For those who sympathize with Norton’s skepticism about universal inductive schemes and theories of analogical reasoning, yet recognize that his approach may be too local, an appealing strategy is to move up one level. We can aim for field-specific “working logics” (Toulmin 1958; Wylie and Chapman 2016; Reiss 2015)[^reiss-2015][^toulmin-1958][^wylie-2016]. This approach has been adopted by philosophers of archaeology, evolutionary biology and other historical sciences (Wylie and Chapman 2016; Currie 2013; Currie 2016; Currie 2018)[^currie-2013][^currie-2016][^currie-2018][^wylie-2016]. In place of schemas, we find ‘toolkits’, i.e., lists of criteria for evaluating analogical reasoning.
+      既同情 Norton 对普遍归纳图式与类推推理理论的怀疑、又嫌其进路过于局部的人，有一个诱人的策略：向上一级，追求领域特定的“工作逻辑”（working logics）（Toulmin 1958; Wylie and Chapman 2016; Reiss 2015）[^reiss-2015][^toulmin-1958][^wylie-2016]。考古学、演化生物学与其他历史科学的哲学家已采纳此路（Wylie and Chapman 2016; Currie 2013; Currie 2016; Currie 2018）[^currie-2013][^currie-2016][^currie-2018][^wylie-2016]——取代图式的，是“工具箱”：评价类推推理的判据清单。
   - id: 198
     kind: body
     source: |-
       For example, Currie (2016) explores in detail the use of ethnographic analogy (*Example 13*) between shamanistic motifs used by the contemporary San people and similar motifs in ancient rock art, found both among ancestors of the San (direct historical analogy) and in European rock art (indirect historical analogy). Analogical arguments support the hypothesis that in each of these cultures, rock art symbolizes hallucinogenic experiences. Currie examines criteria that focus on assumptions about stability of cultural traits and environment-culture relationships. Currie (2016, 2018) and Wylie (Wylie and Chapman 2016)[^wylie-2016] also stress the importance of robustness reasoning that combines analogical arguments of moderate strength with other forms of evidence to yield strong conclusions.
     step1: |-
-      For example, Currie (2016) explores in detail the use of ethnographic analogy (*Example 13*) between shamanistic motifs used by the contemporary San people and similar motifs in ancient rock art, found both among ancestors of the San (direct historical analogy) and in European rock art (indirect historical analogy). Analogical arguments support the hypothesis that in each of these cultures, rock art symbolizes hallucinogenic experiences. Currie examines criteria that focus on assumptions about stability of cultural traits and environment-culture relationships. Currie (2016, 2018) and Wylie (Wylie and Chapman 2016)[^wylie-2016] also stress the importance of robustness reasoning that combines analogical arguments of moderate strength with other forms of evidence to yield strong conclusions.
+      例如，Currie（2016）详细考察了民族志类比（*例 13*）的运用：当代桑人使用的萨满母题与古代岩画中类似母题之间的类比——前者既见于桑人的祖先（直接历史类比），也见于欧洲岩画（间接历史类比）。类比论证支持这样一个假说：在这些文化的每一种中，岩画象征致幻体验。Currie 考察了聚焦于文化特质稳定性与文化—环境关系之假定的判据。Currie（2016, 2018）与 Wylie（Wylie and Chapman 2016）[^wylie-2016] 还强调稳健性推理的重要性，后者把强度适中的类比论证与其他形式的证据结合起来，得出强有力的结论。
     step2: |-
-      For example, Currie (2016) explores in detail the use of ethnographic analogy (*Example 13*) between shamanistic motifs used by the contemporary San people and similar motifs in ancient rock art, found both among ancestors of the San (direct historical analogy) and in European rock art (indirect historical analogy). Analogical arguments support the hypothesis that in each of these cultures, rock art symbolizes hallucinogenic experiences. Currie examines criteria that focus on assumptions about stability of cultural traits and environment-culture relationships. Currie (2016, 2018) and Wylie (Wylie and Chapman 2016)[^wylie-2016] also stress the importance of robustness reasoning that combines analogical arguments of moderate strength with other forms of evidence to yield strong conclusions.
+      例如，Currie（2016）细考了民族志类比（*例 13*）的一次运用：当代桑人的萨满母题与古代岩画中类似母题之间的类比——同类母题既见于桑人祖先（直接历史类比），也见于欧洲岩画（间接历史类比）。类比论证支持这一假说：在这些文化的每一种中，岩画都象征致幻体验。Currie 考察的判据聚焦两处假定：文化特质的稳定性、文化—环境关系。Currie（2016, 2018）与 Wylie（Wylie and Chapman 2016）[^wylie-2016] 还强调稳健性推理（robustness reasoning）：把强度中等的类比论证与其他证据形式合起来，得出强结论。
   - id: 199
     kind: body
     source: |-
       Practice-based approaches can thus yield specific guidelines unlikely to be matched by any general theory of analogical reasoning. One caveat is worth mentioning. Field-specific criteria for ethnographic analogy are elicited against a background of decades of methodological controversy (Wylie and Chapman 2016)[^wylie-2016]. Critics and defenders of ethnographic analogy have appealed to general models of scientific method (e.g., hypothetico-deductive method or Bayesian confirmation). To advance the methodological debate, practice-based approaches must either make connections to these general models or explain why the lack of any such connection is unproblematic.
     step1: |-
-      Practice-based approaches can thus yield specific guidelines unlikely to be matched by any general theory of analogical reasoning. One caveat is worth mentioning. Field-specific criteria for ethnographic analogy are elicited against a background of decades of methodological controversy (Wylie and Chapman 2016)[^wylie-2016]. Critics and defenders of ethnographic analogy have appealed to general models of scientific method (e.g., hypothetico-deductive method or Bayesian confirmation). To advance the methodological debate, practice-based approaches must either make connections to these general models or explain why the lack of any such connection is unproblematic.
+      基于实践的进路因此可以产生任何一般的类比推理理论都不太可能匹配的具体指引。值得提一个注意事项。民族志类比领域特有的判据，是在数十年的方法论争论的背景下提炼出来的（Wylie and Chapman 2016）[^wylie-2016]。民族志类比的批评者与辩护者都曾诉诸科学方法的一般模型（如假说—演绎方法或贝叶斯确证）。要推进方法论争论，基于实践的进路必须要么与这些一般模型建立联系，要么解释为什么缺乏任何这种联系是无可非议的。
     step2: |-
-      Practice-based approaches can thus yield specific guidelines unlikely to be matched by any general theory of analogical reasoning. One caveat is worth mentioning. Field-specific criteria for ethnographic analogy are elicited against a background of decades of methodological controversy (Wylie and Chapman 2016)[^wylie-2016]. Critics and defenders of ethnographic analogy have appealed to general models of scientific method (e.g., hypothetico-deductive method or Bayesian confirmation). To advance the methodological debate, practice-based approaches must either make connections to these general models or explain why the lack of any such connection is unproblematic.
+      基于实践的进路由此能给出任何一般理论都难以匹配的具体指引。但要提一个警告：民族志类比领域特有判据，是在几十年方法论争论的背景下提炼的（Wylie and Chapman 2016）[^wylie-2016]。它的批评者与辩护者都曾诉诸科学方法的一般模型（如假说—演绎法或贝叶斯确证）。要推进方法论争论，基于实践的进路要么与这些一般模型挂上钩，要么说清为何没有这种联系也无碍。
   - id: 200
     kind: body
     source: |-
       #### 3.6.3 Formal analogies in physics
     step1: |-
-      #### 3.6.3 Formal analogies in physics
+      #### 3.6.3 物理学中的形式类比
     step2: |-
-      #### 3.6.3 Formal analogies in physics
+      #### 3.6.3 物理学中的形式类比
   - id: 201
     kind: body
     source: |-
       Close attention to analogical arguments in practice can also provide valuable challenges to general ideas about analogical inference. In an interesting discussion, Steiner (1989, 1998) suggests that many of the analogies that played a major role in early twentieth-century physics count as “Pythagorean.” The term is meant to connote mathematical mysticism: a “Pythagorean” analogy is a purely formal analogy, one founded on mathematical similarities that have no known physical basis at the time it is proposed. One example is Schrödinger’s use of analogy (*Example 14*) to “guess” the form of the relativistic wave equation. In Steiner’s view, Schrödinger’s reasoning relies upon manipulations and substitutions based on purely mathematical analogies. Steiner argues that the success, and even the plausibility, of such analogies “evokes, or should evoke, puzzlement” (1989: 454). Both Hesse (1966) and Bartha (2010) reject the idea that a purely formal analogy, with no physical significance, can support a plausible analogical inference in physics. Thus, Steiner’s arguments provide a serious challenge.
     step1: |-
-      Close attention to analogical arguments in practice can also provide valuable challenges to general ideas about analogical inference. In an interesting discussion, Steiner (1989, 1998) suggests that many of the analogies that played a major role in early twentieth-century physics count as “Pythagorean.” The term is meant to connote mathematical mysticism: a “Pythagorean” analogy is a purely formal analogy, one founded on mathematical similarities that have no known physical basis at the time it is proposed. One example is Schrödinger’s use of analogy (*Example 14*) to “guess” the form of the relativistic wave equation. In Steiner’s view, Schrödinger’s reasoning relies upon manipulations and substitutions based on purely mathematical analogies. Steiner argues that the success, and even the plausibility, of such analogies “evokes, or should evoke, puzzlement” (1989: 454). Both Hesse (1966) and Bartha (2010) reject the idea that a purely formal analogy, with no physical significance, can support a plausible analogical inference in physics. Thus, Steiner’s arguments provide a serious challenge.
+      对实践中类比论证的细致关注，也能为关于类比推理的一般观念提供有价值的挑战。在一项有趣的讨论中，Steiner（1989, 1998）指出，二十世纪初物理学中发挥过主要作用的许多类比都可以算作“毕达哥拉斯式的”。这一术语意在传达数学神秘主义之意：一个“毕达哥拉斯式的”类比是纯形式的类比，它奠基于数学相似性之上，而在提出之时没有任何已知的物理基础。一个例子是薛定谔对类比的运用（*例 14*），“猜出”相对论性波动方程的形式。在 Steiner 看来，薛定谔的推理依赖于基于纯数学类比的操纵与替换。Steiner 论证说，这类类比的成功乃至其可信性“唤起了、或者说应当唤起困惑”（1989: 454）。Hesse（1966）与Bartha（2010）都拒绝这样一个想法：一个没有任何物理意义的纯形式类比，能为物理学中一个可信的类比推理提供支持。因此，Steiner 的论证构成了一个严重的挑战。
     step2: |-
-      Close attention to analogical arguments in practice can also provide valuable challenges to general ideas about analogical inference. In an interesting discussion, Steiner (1989, 1998) suggests that many of the analogies that played a major role in early twentieth-century physics count as “Pythagorean.” The term is meant to connote mathematical mysticism: a “Pythagorean” analogy is a purely formal analogy, one founded on mathematical similarities that have no known physical basis at the time it is proposed. One example is Schrödinger’s use of analogy (*Example 14*) to “guess” the form of the relativistic wave equation. In Steiner’s view, Schrödinger’s reasoning relies upon manipulations and substitutions based on purely mathematical analogies. Steiner argues that the success, and even the plausibility, of such analogies “evokes, or should evoke, puzzlement” (1989: 454). Both Hesse (1966) and Bartha (2010) reject the idea that a purely formal analogy, with no physical significance, can support a plausible analogical inference in physics. Thus, Steiner’s arguments provide a serious challenge.
+      细察实践中的类比论证，也能向关于类比推理的一般观念发出有价值的挑战。Steiner（1989, 1998）在一项有趣的讨论中指出：二十世纪初物理学中担纲的许多类比都可归为“毕达哥拉斯式的”——这个术语意在传达数学神秘主义：“毕达哥拉斯式的”类比是纯形式类比，奠基于数学相似，而提出之时并无任何已知的物理基础。一个例子是薛定谔凭类比（*例 14*）“猜出”相对论性波动方程的形式。依 Steiner 之见，薛定谔的推理依赖纯数学类比之上的操纵与替换；他论证道：这类类比的成功乃至可信性“唤起了、或者说应当唤起困惑”（1989: 454）。Hesse（1966）与 Bartha（2010）都拒绝这种想法：一个毫无物理意义的纯形式类比，竟能支持物理学中可信的类比推理。于是 Steiner 的论证构成了严峻的挑战。
   - id: 202
     kind: body
     source: |-
       Bartha (2010) suggests a response: we can decompose Steiner’s examples into two or more steps, and then establish that at least one step does, in fact, have a physical basis. Fraser (forthcoming), however, offers a counterexample that supports Steiner’s position. Complex analogies between classical statistical mechanics (CSM) and quantum field theory (QFT) have played a crucial role in the development and application of renormalization group (RG) methods in both theories (*Example 15*). Fraser notes substantial physical disanalogies between CSM and QFT, and concludes that the reasoning is based entirely on formal analogies.
     step1: |-
-      Bartha (2010) suggests a response: we can decompose Steiner’s examples into two or more steps, and then establish that at least one step does, in fact, have a physical basis. Fraser (forthcoming), however, offers a counterexample that supports Steiner’s position. Complex analogies between classical statistical mechanics (CSM) and quantum field theory (QFT) have played a crucial role in the development and application of renormalization group (RG) methods in both theories (*Example 15*). Fraser notes substantial physical disanalogies between CSM and QFT, and concludes that the reasoning is based entirely on formal analogies.
+      Bartha（2010）提示了一个回应：我们可以把 Steiner 的例子分解为两个或多个步骤，然后确立其中至少一步实际上有物理基础。然而，Fraser（即将发表）提供了一个支持 Steiner 立场的反例。经典统计力学（CSM）与量子场论（QFT）之间的复杂类比，在这两个理论的重正化群（RG）方法的发展与应用中发挥了关键作用（*例 15*）。Fraser 注意到 CSM 与 QFT 之间实质性的物理不相似，并得出结论：这一推理完全基于形式类比。
     step2: |-
-      Bartha (2010) suggests a response: we can decompose Steiner’s examples into two or more steps, and then establish that at least one step does, in fact, have a physical basis. Fraser (forthcoming), however, offers a counterexample that supports Steiner’s position. Complex analogies between classical statistical mechanics (CSM) and quantum field theory (QFT) have played a crucial role in the development and application of renormalization group (RG) methods in both theories (*Example 15*). Fraser notes substantial physical disanalogies between CSM and QFT, and concludes that the reasoning is based entirely on formal analogies.
+      Bartha（2010）给过一个回应：把 Steiner 的例子分解成两步或更多步，再论证其中至少一步实际有物理基础。然而 Fraser（即将发表）给出一个支持 Steiner 立场的反例：经典统计力学（CSM）与量子场论（QFT）之间的复杂类比，在两大理论重正化群（RG）方法的发展与应用中起了关键作用（*例 15*）。Fraser 指出 CSM 与 QFT 之间有实质性的物理不相似，并断定：这一推理完全基于形式类比。
   - id: 203
     kind: body
     source: |-
