@@ -2158,218 +2158,290 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       In the full language, $\Gamma$ in modalities $\langle\Gamma\rangle\varphi$ can be of an arbitrary size. The follow-up work of Seligman and Girard (2011) presents an axiomatization of part of the full logic, the set of what is called “flexible” validities, and provides an alternative semantics in which all validities are flexible and so completely axiomatized. The axiomatization of infinite arbitrary sets is still an open problem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在完全语言中，模态词 $\langle\Gamma\rangle\varphi$ 中的 $\Gamma$ 可以任意大。Seligman 与 Girard（2011）的后续工作给出了完全逻辑一部分——即所谓“灵活”有效式之集——的公理化，并提供另一种语义：其中所有有效式都是灵活的，因而得到完全公理化。无限任意集的公理化仍是未决问题。
+    step2: |-
+      在完全语言中，模态词 $\langle\Gamma\rangle\varphi$ 中的 $\Gamma$ 可以任意大。Seligman 与 Girard（2011）的后续工作给出了完全逻辑一部分——即所谓“灵活”有效式之集——的公理化，并提供另一种语义：其中所有有效式都是灵活的，因而得到完全公理化。无限任意集的公理化仍是未决问题。
   - id: 241
     kind: body
     source: |-
       ### 6.2 Computational models of ceteris paribus preferences
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.2 其余条件相同偏好的计算模型
+    step2: |-
+      ### 6.2 其余条件相同的偏好的计算模型
   - id: 242
     kind: body
     source: |-
       CP-nets, short for “conditional preference networks”, essentially embody the concept of ceteris paribus, which is the core principle underlying how the networks represent preferences. This section introduces the basics of CP-nets, highlighting their compact, intuitive, and structured way of representing agent preferences under the ceteris paribus assumption (all else being equal).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      CP 网（“条件偏好网络”的缩写）实质上体现了其余条件相同的概念——它是这些网络表示偏好的核心原则。本节介绍 CP 网的基础，突出其在其余条件相同假定（其余一切相同）下表示行动者偏好的紧凑、直观且结构化的方式。
+    step2: |-
+      CP 网（“条件偏好网络”的缩写）实质上体现其余条件相同的概念——它是这些网络表示偏好的核心原则。本节介绍 CP 网的基础，突出其在其余条件相同假定（其余一切相同）下表示行动者偏好的紧凑、直观且结构化的方式。
   - id: 243
     kind: body
     source: |-
       A conditional preference network (CP-net) is a graphical model defined as follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      条件偏好网络（CP 网）是一个图形模型，定义如下。
+    step2: |-
+      条件偏好网络（CP 网）是一个图形模型，定义如下。
   - id: 244
     kind: body
     source: |-
       Let $V = \{X_1, X_2, \ldots, X_n\}$ be a set of variables where each $X_i$ has a finite domain $\text{Dom}(X_i)$ of possible values. There is a directed graph G where:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 $V = \{X_1, X_2, \ldots, X_n\}$ 为变量集合，每个 $X_i$ 有一个可能值的有穷域 $\text{Dom}(X_i)$。有一个有向图 G，其中：
+    step2: |-
+      设 $V = \{X_1, X_2, \ldots, X_n\}$ 为变量集合，每个 $X_i$ 有一个可能值的有穷域 $\text{Dom}(X_i)$。有一个有向图 G，其中：
   - id: 245
     kind: body
     source: |-
       - each variable $X_i$ corresponds to a node.
       - the parents of $X_i$, denoted as $\text{Pa}(X_i)$, are nodes with edges directed towards $X_i$. These parents represent the variables that influence the preferences over $X_i$. An edge from $X_i$ to $X_j$ means that the preferences for $X_j$ depend on the value of $X_i$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 每个变量 $X_i$ 对应一个节点。
+      - $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
+    step2: |-
+      - 每个变量 $X_i$ 对应一个节点。
+      - $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
   - id: 246
     kind: body
     source: |-
       Instead of listing preferences for all possible outcomes (which grows exponentially with the number of variables), CP-nets use conditional preference tables (CPTs) to capture only relevant dependencies (i.e., the elements that the preference depends on). Each node $X_i$ is annotated with a CPT that specifies a total order $\succ_{u}$ over $\text{Dom}(X_i)$ for every possible instantiation u of $\text{Pa}(X_i)$. For example:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      CP 网不列举所有可能结果的偏好（其数量随变量数指数增长），而是使用条件偏好表（CPT）只捕捉相关依赖（即偏好所依赖的要素）。每个节点 $X_i$ 配有一张 CPT：对 $\text{Pa}(X_i)$ 的每个可能实例化 u，它规定 $\text{Dom}(X_i)$ 上的一个全序 $\succ_{u}$。例如：
+    step2: |-
+      CP 网不列举所有可能结果的偏好（其数量随变量数指数增长），而使用条件偏好表（CPT）只捕捉相关依赖（即偏好所依赖的要素）。每个节点 $X_i$ 配有一张 CPT：对 $\text{Pa}(X_i)$ 的每个可能实例化 u，它规定 $\text{Dom}(X_i)$ 上的一个全序 $\succ_{u}$。例如：
   - id: 247
     kind: body
     source: |-
       > if $\text{Pa}(X_i) = \{A, B\},$ then the CPT of $X_i$ specifies preferences for all combinations of A and B.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若 $\text{Pa}(X_i) = \{A, B\},$ 则 $X_i$ 的 CPT 规定 A 与 B 的所有组合下的偏好。
+    step2: |-
+      > 若 $\text{Pa}(X_i) = \{A, B\},$ 则 $X_i$ 的 CPT 规定 A 与 B 的所有组合下的偏好。
   - id: 248
     kind: body
     source: |-
       The semantics of CP-nets describe how preferences over outcomes are derived based on the structure of each network and the conditional preference tables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      CP 网的语义描述：如何基于各网络的结构与条件偏好表导出结果上的偏好。
+    step2: |-
+      CP 网的语义描述：如何基于各网络的结构与条件偏好表导出结果上的偏好。
   - id: 249
     kind: body
     source: |-
       An *outcome* is a complete assignment of values to all variables in the CP-net. For example, if $V = \{X_1, X_2, X_3\}$ and the domains are
 
       $$\text{Dom}(X_1) = \{a_1, a_2\}, \quad \text{Dom}(X_2) = \{b_1, b_2\}, \quad \text{Dom}(X_3) = \{c_1, c_2\},$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *结果*（outcome）是对 CP 网中所有变量的一个完全赋值。例如，若 $V = \{X_1, X_2, X_3\}$ 且各域为
+    step2: |-
+      *结果*（outcome）是对 CP 网中所有变量的一个完全赋值。例如，若 $V = \{X_1, X_2, X_3\}$ 且各域为
   - id: 250
     kind: body
     source: |-
       then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
+    step2: |-
+      then one outcome would be $o = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}$.
   - id: 251
     kind: body
     source: |-
       Following the ceteris paribus assumption, which means comparing outcomes while keeping all other variables constant, if we respect the conditional preferences specified in the CPTs of each variable, we can get preferences over outcomes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      遵循其余条件相同的假定——即在保持所有其他变量不变的情况下比较结果——如果我们尊重每个变量的 CPT 中规定的条件偏好，就可以得到结果上的偏好。
+    step2: |-
+      遵循其余条件相同的假定——即在保持所有其他变量不变的情况下比较结果——如果我们尊重每个变量的 CPT 中规定的条件偏好，就可以得到结果上的偏好。
   - id: 252
     kind: body
     source: |-
       For example, if the CPT for $X_2$ specifies that $b_1 \succ b_2$ given $X_1 = a_1$, then:
 
       $$\begin{align*} \text{if } &o_1 = \{X_1 = a_1, X_2 = b_1, X_3 = c_1\} \text{ and }\\ &o_2 = \{X_1 = a_1, X_2 = b_2, X_3 = c_1\}, \text{then } o_1 \succ o_2.\\ \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，若 $X_2$ 的 CPT 规定在 $X_1 = a_1$ 时 $b_1 \succ b_2$，则：
+    step2: |-
+      例如，若 $X_2$ 的 CPT 规定在 $X_1 = a_1$ 时 $b_1 \succ b_2$，则：
   - id: 253
     kind: body
     source: |-
       An algorithm can be designed to efficiently find the optimal outcome in a CP-net—see the work of Boutilier, Brafman, and others (2004); Wilson (2004); and Goldsmith, Lang, and others (2008).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      可以设计算法在 CP 网中高效地找到最优结果——见 Boutilier、Brafman 等人（2004）、Wilson（2004）与 Goldsmith、Lang 等人（2008）的工作。
+    step2: |-
+      可以设计算法在 CP 网中高效地找到最优结果——见 Boutilier、Brafman 等人（2004）、Wilson（2004）与 Goldsmith、Lang 等人（2008）的工作。
   - id: 254
     kind: body
     source: |-
       By capturing only relevant conditional preferences, CP-nets avoid combinatorial explosion from enumerating preferences over all possible outcomes. CP-nets have demonstrated significant value in AI-driven decision-making with applications in areas such as recommendation systems and product configuration. They have attracted considerable attention in the fields of computer science and artificial intelligence, as highlighted in the more recent work of Allen (2015) and Cai, Zhan, and Jiang (2023), among others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      通过只捕捉相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所导致的组合爆炸。CP 网在 AI 驱动的决策中已显示出重要价值，应用于推荐系统与产品配置等领域。它在计算机科学与人工智能领域吸引了大量关注，如 Allen（2015）与 Cai、Zhan、Jiang（2023）等较近期的工作所示。
+    step2: |-
+      通过只捕捉相关的条件偏好，CP 网避免了枚举所有可能结果之偏好所导致的组合爆炸。CP 网在 AI 驱动的决策中已显示重要价值，应用于推荐系统与产品配置等领域。它在计算机科学与人工智能领域吸引了大量关注，如 Allen（2015）与 Cai、Zhan、Jiang（2023）等较近期的工作所示。
   - id: 255
     kind: body
     source: |-
       ## 7. Preference across research fields
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 各研究领域中的偏好
+    step2: |-
+      ## 7 各研究领域中的偏好
   - id: 256
     kind: body
     source: |-
       ### 7.1 Preference and conditional logics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.1 偏好与条件逻辑
+    step2: |-
+      ### 7.1 偏好与条件逻辑
   - id: 257
     kind: body
     source: |-
       It is well known that there has been a strong relationship between preference logics $p\geq^{\forall\exists}q$ and conditional logics since the end of the 1960s and the early 1970s (Lewis 1973)[^lewis-1973], as some of them are interdefinable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      众所周知，自 1960 年代末与 1970 年代初以来，偏好逻辑 $p\geq^{\forall\exists}q$ 与条件逻辑之间存在紧密关系（Lewis 1973）[^lewis-1973]：其中一些可以相互定义。
+    step2: |-
+      众所周知，自 1960 年代末与 1970 年代初以来，偏好逻辑 $p\geq^{\forall\exists}q$ 与条件逻辑之间存在紧密关系（Lewis 1973）[^lewis-1973]：其中一些可以相互定义。
   - id: 258
     kind: body
     source: |-
       For example, if I prefer fish over meat, and I prefer meat over vegetarian food, and I am in a steakhouse where they offer only steak or salad, then in that context, I prefer steak. Such reasoning about preferences and facts relates preference reasoning to conditional reasoning.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      例如，若我偏好鱼胜过肉，偏好肉胜过素食，而我在一家只供应牛排或沙拉的牛排馆，那么在此语境中，我偏好牛排。这类关于偏好与事实的推理，把偏好推理与条件推理联系起来。
+    step2: |-
+      例如，若我偏好鱼胜过肉，偏好肉胜过素食，而我在一家只供应牛排或沙拉的牛排馆，那么在此语境中，我偏好牛排。这类关于偏好与事实的推理，把偏好推理与条件推理联系起来。
   - id: 259
     kind: body
     source: |-
       In possible world semantics, this can be explained from the fact that models of conditional logic are also preference structures. However, these preference logics developed as counterparts of conditional and deontic logics in the late 1960s and early 1970s, and they were rather different from the preference logics developed in the decade before by Halldén and von Wright.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在可能世界语义中，可以这样解释：条件逻辑的模型也是偏好结构。然而，这些偏好逻辑是 1960 年代末与 1970 年代初作为条件逻辑与道义逻辑的对应物发展起来的，与 Halldén 和 von Wright 在此前十年发展的偏好逻辑相当不同。
+    step2: |-
+      在可能世界语义中，可以这样解释：条件逻辑的模型也是偏好结构。然而，这些偏好逻辑是 1960 年代末与 1970 年代初作为条件逻辑与道义逻辑的对应物发展起来的，与 Halldén 和 von Wright 在此前十年发展的偏好逻辑相当不同。
   - id: 260
     kind: body
     source: |-
       If we write $\varphi\Rightarrow \psi$ for the conditional “if $\varphi$ then $\psi$”, then under suitable conditions, we can define that $\varphi$ is preferred to $\psi$ if $\varphi\lor \psi$ implies $\varphi$ and not $\psi$:
 
       $$\varphi\geq^{\forall\exists} \psi :=\neg ((\varphi\lor \psi)\Rightarrow \neg \varphi).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若以 $\varphi\Rightarrow \psi$ 表示条件句“若 $\varphi$ 则 $\psi$”，则在适当条件下，我们可以定义：$\varphi$ 优于 $\psi$，当 $\varphi\lor \psi$ 蕴涵 $\varphi$ 而不蕴涵 $\psi$：
+    step2: |-
+      若以 $\varphi\Rightarrow \psi$ 表示条件句“若 $\varphi$ 则 $\psi$”，则在适当条件下可定义：$\varphi$ 优于 $\psi$，当 $\varphi\lor \psi$ 蕴涵 $\varphi$ 而不蕴涵 $\psi$：
   - id: 261
     kind: body
     source: |-
       Then we also have that the conditional “if $\varphi$ then $\psi$” is defined as a preference of $\varphi\land \psi$ over $\varphi\land \neg \psi$:
 
       $$\varphi\Rightarrow \psi := (\psi\land \varphi)>^{\forall\exists}(\neg \psi\land \varphi).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是我们也有：条件句“若 $\varphi$ 则 $\psi$”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
+    step2: |-
+      于是我们也有：条件句“若 $\varphi$ 则 $\psi$”定义为 $\varphi\land \psi$ 优于 $\varphi\land \neg \psi$：
   - id: 262
     kind: body
     source: |-
       Conditional logics were more popular due to the frequent use of conditionals in natural language. We may say that some preference logics became known in the literature as conditional logics and others as deontic logics. However, it does not follow from this result that preference and conditional logics are the same thing. In general, the relationship between conditionals and comparatives is only partially understood (Makinson 1993)[^makinson-1993].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      条件逻辑更为流行，因为条件句在自然语言中频繁出现。可以说，某些偏好逻辑在文献中以条件逻辑之名为人所知，另一些则以道义逻辑之名。但由此结果不能推出偏好逻辑与条件逻辑是同一回事。一般而言，条件句与比较级之间的关系只有部分被理解（Makinson 1993）[^makinson-1993]。
+    step2: |-
+      条件逻辑更为流行，因为条件句在自然语言中频繁出现。可以说，某些偏好逻辑在文献中以条件逻辑之名为人所知，另一些则以道义逻辑之名。但由此结果不能推出偏好逻辑与条件逻辑是同一回事。一般而言，条件句与比较级之间的关系只有部分被理解（Makinson 1993）[^makinson-1993]。
   - id: 263
     kind: body
     source: |-
       ### 7.2 Preference and deontic logics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.2 偏好与道义逻辑
+    step2: |-
+      ### 7.2 偏好与道义逻辑
   - id: 264
     kind: body
     source: |-
       Traditional deontic logic often uses possible world semantics to interpret notions like obligation and permission, with the worlds ordered by a preference relation that ranks them by ideality. Deontic formulas are evaluated in the context of the current world based on their accessibility to these ideal worlds: an action is obligatory if it occurs in all the most preferred worlds accessible from the current world. The intricate relationship between better worlds and the best worlds has been extensively examined by Parent (2014) and Grossi, Van der Hoek, and Kuijer (2022). This ordering reflects intuitive deontic principles, but it struggles with conflicts and dilemmas because a single ordering may not fully capture multiple, potentially incompatible imperatives.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      传统道义逻辑常用可能世界语义来解释义务与许可等概念：世界由一个偏好关系排序，按理想程度分级。道义公式在当前世界的语境中评估，依据其对理想世界的可及性：一个行动是义务性的，如果它出现在从当前世界可及的所有最受偏好世界中。较好世界与最好世界之间的复杂关系，Parent（2014）与 Grossi、Van der Hoek、Kuijer（2022）作了大量考察。这一排序反映了直观的道义原理，但难以处理冲突与两难，因为单一排序可能无法完全刻画多个可能不相容的命令。
+    step2: |-
+      传统道义逻辑常用可能世界语义解释义务与许可等概念：世界由一个偏好关系排序，按理想程度分级。道义公式在当前世界的语境中评估，依据其对理想世界的可及性：一个行动是义务性的，如果它出现在从当前世界可及的所有最受偏好世界中。较好世界与最好世界之间的复杂关系，Parent（2014）与 Grossi、Van der Hoek、Kuijer（2022）作了大量考察。这一排序反映直观的道义原理，但难以处理冲突与两难，因为单一排序可能无法完全刻画多个可能不相容的命令。
   - id: 265
     kind: body
     source: |-
       Makinson (1999) emphasized the distinction between norms (imperatives without truth values) and deontic propositions (statements about obligations or permissions that can be true or false). He argued that this distinction has been overlooked in contemporary deontic logic and called for a “reconstruction” of deontic logic as a system grounded in explicit imperatives rather than abstract truth conditions. In his 2012 book, Horty made a notable contribution when he proposed a framework for understanding the reasons behind actions which employed default logic as its foundational structure. He elucidated how multiple reasons interact—supporting, overriding, or conflicting with one another—to determine what individuals ought to do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Makinson（1999）强调规范（无真值的命令）与道义命题（关于义务或许可的、可真可假的陈述）之间的区分。他指出这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为一个以明确命令而非抽象真值条件为基础的系统。在其 2012 年的书中，Horty 作出显著贡献：他提出一个理解行动背后理由的框架，以缺省逻辑为基本结构。他阐明了多种理由如何互动——支持、压倒或相互冲突——以决定个体应当做什么。
+    step2: |-
+      Makinson（1999）强调规范（无真值的命令）与道义命题（关于义务或许可的、可真可假的陈述）之间的区分。他指出这一区分在当代道义逻辑中被忽视，并呼吁把道义逻辑“重构”为一个以明确命令而非抽象真值条件为基础的系统。在其 2012 年的书中，Horty 作出显著贡献：他提出一个理解行动背后理由的框架，以缺省逻辑为基本结构。他阐明多种理由如何互动——支持、压倒或相互冲突——以决定个体应当做什么。
   - id: 266
     kind: body
     source: |-
       These concerns with reasons led to the development of imperative-based semantics in deontic logic, which defines deontic operators in relation to explicit sets of imperatives. Standard deontic systems (e.g., monadic and dyadic systems) have been adapted to fit this model, with extensions for handling priority conflicts and dilemmas between imperatives. A two-layer structure has also been adopted for deontic logic. Notable works include those of Hansen (2008, 2014); Van Benthem, Grossi, and Liu (2014); and Benzmüller, Parent, and Van der Torre (2020).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些对理由的关注促成道义逻辑中基于命令的语义的发展：它相对于明确的命令集合定义道义算子。标准道义系统（如一元与二元系统）被改造以适配这一模型，并扩展以处理命令之间的优先性冲突与两难。道义逻辑也采纳了双层结构。值得注意的工作包括 Hansen（2008, 2014）；Van Benthem、Grossi 与 Liu（2014）；以及 Benzmüller、Parent 与 Van der Torre（2020）。
+    step2: |-
+      这些对理由的关注促成道义逻辑中基于命令的语义的发展：它相对于明确的命令集合定义道义算子。标准道义系统（如一元与二元系统）被改造以适配这一模型，并扩展以处理命令间的优先性冲突与两难。道义逻辑也采纳了双层结构。值得注意的工作包括 Hansen（2008, 2014）；Van Benthem、Grossi 与 Liu（2014）；以及 Benzmüller、Parent 与 Van der Torre（2020）。
   - id: 267
     kind: body
     source: |-
       ### 7.3 Preference in decision theory and game theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.3 决策论与博弈论中的偏好
+    step2: |-
+      ### 7.3 决策论与博弈论中的偏好
   - id: 268
     kind: body
     source: |-
       In decision theory and game theory, the notions of “preference” and “preference relation” are used to model choices, often with a behavioral interpretation. The formal properties of preference relations and their representation through utility functions have been studied extensively in the literature, some of which even predates preference logic. This entry primarily emphasizes the qualitative approach to preferences, which focuses on the formal properties of preference relations. By contrast, the quantitative approach typically relies on utility functions to represent preferences numerically. Decision-making under uncertainty is commonly modeled using an expected value framework, which combines the agent’s beliefs (expressed as probabilities) with utilities to capture preferences. Critical research has reexamined the foundations of preference theory. For example, Hausman (2012) distinguishes between notions of preference as choice, welfare, and value, raising questions about whether utility functions can adequately capture well-being—especially when qualitative factors shape individual preferences. Fu (2020) proposes a novel approach that integrates both qualitative and quantitative methods to more accurately reflect the complexities of real-world decision-making. To connect this entry with decision theory, it is crucial to consider the numerical, quantitative representations of reason-based preferences derived from the richer two-layer structures presented in Section 4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在决策论与博弈论中，“偏好”与“偏好关系”被用来建模选择，常带行为解释。偏好关系的形式性质及其经由效用函数的表示，已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调偏好的定性进路——聚焦偏好关系的形式性质。与之相对，定量进路通常依赖效用函数以数值方式表示偏好。不确定性下的决策常用期望值框架建模：它把行动者的信念（表示为概率）与效用结合起来以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）区分了作为选择、福祉与价值的偏好概念，提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种融合定性与定量方法的新进路，以更准确地反映现实决策的复杂性。要把本词条与决策论连接起来，关键在于考虑：由第 4 节呈现的更丰富的双层结构所导出的、基于理由的偏好的数值化定量表示。
+    step2: |-
+      在决策论与博弈论中，“偏好”与“偏好关系”被用来建模选择，常带行为解释。偏好关系的形式性质及其经由效用函数的表示，已在文献中得到广泛研究，其中一些甚至早于偏好逻辑。本词条主要强调偏好的定性进路——聚焦偏好关系的形式性质。与之相对，定量进路通常依赖效用函数以数值方式表示偏好。不确定性下的决策常用期望值框架建模：它把行动者的信念（表示为概率）与效用结合以刻画偏好。批判性研究重新审视了偏好理论的基础。例如，Hausman（2012）区分了作为选择、福祉与价值的偏好概念，提出效用函数能否充分刻画福祉的问题——尤其当定性因素塑造个体偏好时。Fu（2020）提出一种融合定性与定量方法的新进路，以更准确地反映现实决策的复杂性。要把本词条与决策论连接起来，关键在于考虑：由第 4 节呈现的更丰富的双层结构所导出的、基于理由的偏好的数值化定量表示。
   - id: 269
     kind: body
     source: |-
       ### 7.4 Preference in social choice theory
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 7.4 社会选择理论中的偏好
+    step2: |-
+      ### 7.4 社会选择理论中的偏好
   - id: 270
     kind: body
     source: |-
       In social choice theory, the core issue is how to aggregate individual preferences into a coherent group preference. One well-known result in this area is Arrow’s (1951) impossibility theorem, which demonstrates the limitations of creating a fair aggregation rule that meets certain desirable conditions. Further research has explored alternative assumptions, leading to new results. For instance, Andréka, Ryan, and Schobbens (2002) use graphs to represent alternative orderings of options as a method for aggregating individual preferences. List (2022) (in the entry on social choice theory) provides a useful survey on this topic. In social settings, individual preferences are often not fully independent and are influenced by the views of peers. As a community, it is intriguing to consider how social preferences evolve over time and whether stable preferences can emerge. Seligman, Liu, and Girard (2011) and Liang and Seligman (2011) discuss logic research on this topic. This area of study requires an exploration of community structures, mechanisms for updating individual preferences, and methods for defining social preferences. Related insights can be drawn from works on social belief, such as that of Shi (2021). A similar issue is investigated in evolutionary game theory, particularly in the so-called “indirect evolutionary approach” to social preference. For example, Bowles and Gintis (2011) explore how prosocial preferences such as altruism, fairness and cooperation can evolve and achieve stability.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在社会选择理论中，核心问题是如何把个体偏好聚合成一个融贯的群体偏好。这一领域的一个著名结果是 Arrow（1951）的不可能性定理：它表明构造一个满足某些合意条件的公平聚合规则有其限度。后续研究探索了替代假定，得出新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）（社会选择理论词条）对这一主题给出有用综述。在社会环境中，个体偏好常常并非完全独立，而是受同伴看法的影响。作为一个共同体，值得思考的是：社会偏好如何随时间演化，以及能否出现稳定的偏好。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）讨论了这一主题的逻辑研究。这一领域需要探索共同体结构、更新个体偏好的机制，以及定义社会偏好的方法。相关洞见也可以得自社会信念方面的工作，如 Shi（2021）。演化博弈论中也研究了类似问题，尤其是社会偏好的所谓“间接演化进路”。例如，Bowles 与 Gintis（2011）探讨利他、公平与合作等亲社会偏好如何演化并达到稳定。
+    step2: |-
+      在社会选择理论中，核心问题是如何把个体偏好聚合成一个融贯的群体偏好。这一领域的一个著名结果是 Arrow（1951）的不可能性定理：它表明构造一个满足某些合意条件的公平聚合规则有其限度。后续研究探索替代假定，得出新结果。例如，Andréka、Ryan 与 Schobbens（2002）用图表示选项的替代排序，作为聚合个体偏好的一种方法。List（2022）（社会选择理论词条）对这一主题给出有用综述。在社会环境中，个体偏好常常并非完全独立，而是受同伴看法的影响。作为一个共同体，值得思考的是：社会偏好如何随时间演化，以及能否出现稳定的偏好。Seligman、Liu 与 Girard（2011）以及 Liang 与 Seligman（2011）讨论了这一主题的逻辑研究。这一领域需要探索共同体结构、更新个体偏好的机制，以及定义社会偏好的方法。相关洞见也可得自社会信念方面的工作，如 Shi（2021）。演化博弈论中也研究类似问题，尤其是社会偏好的所谓“间接演化进路”。例如，Bowles 与 Gintis（2011）探讨利他、公平与合作等亲社会偏好如何演化并达到稳定。
   - id: 271
     kind: body
     source: |-
       ## 8. Conclusions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8 结论
+    step2: |-
+      ## 8 结论
   - id: 272
     kind: body
     source: |-
       Preference logic provides a versatile framework for understanding how agents compare situations and make decisions. This entry has reviewed key developments in the field, tracing its evolution from syntactic and algorithmic approaches to semantic frameworks. It has also highlighted recent research on two-layer structures, which stem from the distinction between intrinsic and extrinsic preferences, emphasizing the role of reasons in shaping preferences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      偏好逻辑为理解行动者如何比较情形并作决策提供了一个多用途框架。本词条评述了这一领域的关键发展，追溯其从语法与算法进路到语义框架的演化。它还突出了双层结构的近期研究——后者源自内在偏好与外在偏好的区分，强调理由在塑造偏好中的作用。
+    step2: |-
+      偏好逻辑为理解行动者如何比较情形并作决策提供了一个多用途框架。本词条评述了这一领域的关键发展，追溯其从语法与算法进路到语义框架的演化。它还突出双层结构的近期研究——后者源自内在偏好与外在偏好的区分，强调理由在塑造偏好中的作用。
   - id: 273
     kind: body
     source: |-
       The study of preference change and the concept of ceteris paribus preference highlight the dynamic and practical aspects of preference logic, particularly in decision-making contexts. These frameworks will remain a foundation for addressing future challenges and advancing research in the field.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      偏好改变的研究与其余条件相同偏好的概念，凸显了偏好逻辑的动态性与实用性，尤其在决策语境中。这些框架仍将是应对未来挑战、推进该领域研究的基础。
+    step2: |-
+      偏好改变的研究与其余条件相同偏好的概念，凸显了偏好逻辑的动态性与实用性，尤其在决策语境中。这些框架仍将是应对未来挑战、推进该领域研究的基础。
   - id: 274
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [请与作者联系提供建议。]
+    step2: |-
+      [请与作者联系提供建议。]
