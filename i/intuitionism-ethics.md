@@ -2,7 +2,7 @@
 
 **首次发表于 2026 年 7 月 27 日。**
 
-*Bedke, Matthew S.*
+*Matthew S. Bedke*
 
 **编者按：以下新词条由 Matt Bedke 撰写，取代[旧词条](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)，该旧词条由前一位作者撰写。**
 
