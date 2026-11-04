@@ -336,8 +336,10 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       ### 2.2 Von Wright’s logic of preference
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 Von Wright 的偏好逻辑
+    step2: |-
+      ### 2.2 Von Wright 的偏好逻辑
   - id: 39
     kind: body
     source: |-
@@ -353,8 +355,16 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       - intrinsic preference (intrinsic betterness) vs. extrinsic preference (preference with reasons),
       - qualitative preference vs. measurable value (e.g., utility), and
       - risk-free preference vs. preference under uncertainty.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 事态之间的偏好 对 手段或方法的偏好
+      - 内在偏好（内在较优） 对 外在偏好（有理由的偏好）
+      - 定性偏好 对 可测量的价值（如效用）
+      - 无风险的偏好 对 不确定性下的偏好
+    step2: |-
+      - 事态之间的偏好 对 手段或方法的偏好
+      - 内在偏好（内在较优） 对 外在偏好（有理由的偏好）
+      - 定性偏好 对 可测量的价值（如效用）
+      - 无风险的偏好 对 不确定性下的偏好
   - id: 41
     kind: body
     source: |-
@@ -401,8 +411,14 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       As there is no disjunction in the atomic preferences, distribution is vacuous. The third step, amplification, gives the normal form
 
       $$ \begin{align} (p\land q>\neg p\land q) &\land (p\land \neg q>\neg p\land \neg q)\\ &\land (p\land \neg q>p\land q)\\ &\land (\neg p\land \neg q>\neg p\land q) \rightarrow(p\land \neg q>\neg p \land q). \end{align} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于原子偏好中没有析取，分配是空洞的。第三步放大给出标准形
+      
+      $$ \begin{align} (p\land q>\neg p\land q) &\land (p\land \neg q>\neg p\land \neg q)\\ &\land (p\land \neg q>p\land q)\\ &\land (\neg p\land \neg q>\neg p\land q) \rightarrow(p\land \neg q>\neg p \land q). \end{align} $$
+    step2: |-
+      由于原子偏好中没有析取，分配是空洞的。第三步放大给出标准形
+      
+      $$ \begin{align} (p\land q>\neg p\land q) &\land (p\land \neg q>\neg p\land \neg q)\\ &\land (p\land \neg q>p\land q)\\ &\land (\neg p\land \neg q>\neg p\land q) \rightarrow(p\land \neg q>\neg p \land q). \end{align} $$
   - id: 46
     kind: body
     source: |-
@@ -433,22 +449,32 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       *Figure 3.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 3.*
+    step2: |-
+      *Figure 3.*
   - id: 50
     kind: body
     source: |-
       **Von Wright’s 5 preference principles**
 
       $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **Von Wright’s 5 preference principles**
+      
+      $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
+    step2: |-
+      **Von Wright’s 5 preference principles**
+      
+      $$\begin{align} &\tag*{\(V_1\)} (p>q) \rightarrow\neg (q>p)&& \textrm{(\(>\)-asymmetry)}\\[1em] & \tag*{\(V_2\)} (p>q) \land (q >r)\rightarrow q>r&& \textrm{(\(>\)-transitivity)}\\[1em] & \tag*{\(V_3\)} (p>q)\leftrightarrow(p\land \neg q)> (\neg p\land q)&& \textrm{(\(>\)-expansion)}\\ \end{align}$$ $$ \begin{align}\tag*{\(V_4\)}\quad (p&\lor q)>(r \lor s) \leftrightarrow \\ &(p \land \neg r \land \neg s) > (\neg p\land \neg q \land r) \\ &\land\ (p\land \neg r \land \neg s)> (\neg p\land \neg q \land s)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land r)\\ &\land\ (q\land \neg r \land \neg s)> (\neg p\land \neg q \land s) \ \text{(disjunctive distribution)} \end{align} $$ $$ \begin{align}\tag*{\(V_5\)} (p&>q) \leftrightarrow \\ &((p\land r)> (q\land r)) \\ &\land\ ((p\land \neg r)>(q\land \neg r)) \qquad {\textrm{(amplification)}} \end{align} $$
   - id: 51
     kind: body
     source: |-
       Figure 3.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 3。
+    step2: |-
+      图 3。
   - id: 52
     kind: body
     source: |-
@@ -461,26 +487,34 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       In the case of $p\land q$, “an agent prefers p over q” means that the agent would prefer to lose q (and keep p) rather than lose p (and keep q).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 $p\land q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可失去 q（而保留 p），也不愿失去 p（而保留 q）。
+    step2: |-
+      在 $p\land q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可失去 q（而保留 p），也不愿失去 p（而保留 q）。
   - id: 54
     kind: body
     source: |-
       In the case of $p\land \neg q$, “an agent prefers p over q” means that the agent would prefer to maintain the current state than see it change into $\neg p\land q$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 $p\land \neg q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可维持当前状态，也不愿看到它变为 $\neg p\land q$。
+    step2: |-
+      在 $p\land \neg q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可维持当前状态，也不愿看到它变为 $\neg p\land q$。
   - id: 55
     kind: body
     source: |-
       In the case of $\neg p\land q$, “an agent prefers p over q” means that the agent would prefer to see the world change from $\neg p$ to p, and q into $\neg q$, rather than see no change.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 $\neg p\land q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可看到世界从 $\neg p$ 变为 p、q 变为 $\neg q$，也不愿看到毫无变化。
+    step2: |-
+      在 $\neg p\land q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可看到世界从 $\neg p$ 变为 p、q 变为 $\neg q$，也不愿看到毫无变化。
   - id: 56
     kind: body
     source: |-
       In the case of $\neg p \land \neg q$, “an agent prefers p over q” means that the agent would prefer to get p without q rather than get q without p.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 $\neg p \land \neg q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可得到没有 q 的 p，也不愿得到没有 p 的 q。
+    step2: |-
+      在 $\neg p \land \neg q$ 的情形中，“行动者偏好 p 胜过 q”意味着：行动者宁可得到没有 q 的 p，也不愿得到没有 p 的 q。
   - id: 57
     kind: body
     source: |-
@@ -495,8 +529,10 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       This principle, also called *amplification*, is applied to every r in the complement of $PL(\varphi > \psi)$ with respect to the set of propositional letters. Amplification ensures that every r in the universe of discourse that is not directly relevant to the evaluation of a preference subformula will remain constant.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一原理也称为*放大*，应用于命题字母集中 $PL(\varphi > \psi)$ 的补集中的每一个 r。放大保证：论域中每个与偏好子公式之评估没有直接关联的 r 都保持恒定。
+    step2: |-
+      这一原理也称为*放大*，应用于命题字母集中 $PL(\varphi > \psi)$ 的补集中的每一个 r。放大保证：论域中每个与偏好子公式之评估没有直接关联的 r 都保持恒定。
   - id: 59
     kind: body
     source: |-
@@ -509,106 +545,154 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       Since Halldén, numerous principles have been explored in the literature. For a comprehensive review see S. O. Hansson’s (2001) chapter on the subject, which includes the following examples:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 Halldén 以来，文献中已探索了大量原理。全面的综述见 S. O. Hansson（2001）关于该主题的章节，其中包含如下例子：
+    step2: |-
+      自 Halldén 以来，文献中已探索了大量原理。全面的综述见 S. O. Hansson（2001）关于该主题的章节，其中包含如下例子：
   - id: 61
     kind: body
     source: |-
       *Figure 4:*
 
       $$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{such that } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 4:*
+      
+      $$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{such that } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
+    step2: |-
+      *Figure 4:*
+      
+      $$\begin{align*} \tag{H1} \textrm{There is no series } p_1,\ldots, p_n \\ \textrm{such that } p_1>\ldots>p_n>p_1 && \textrm{(\(>\)-acyclic)}\\ \tag{H2} p\equiv q \land q >r \rightarrow p>r &&\textrm{(\(\equiv\)\(>\)-trans)}\\ \tag{H3} p> q \land q >r \rightarrow p>s \lor s>r && \textrm{(semi-trans)}\\ \tag{H4} p>q \land r >s \rightarrow p>s \lor r>q && \textrm{(interval order)} \end{align*} $$
   - id: 62
     kind: body
     source: |-
       Figure 4: More preference principles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 4：更多偏好原理
+    step2: |-
+      图 4：更多偏好原理
   - id: 63
     kind: body
     source: |-
       Both Halldén and von Wright emphasize the generality of the preference principles by adopting a syntactic or algorithmic approach. Later researchers have often used examples to support or challenge these principles, and many preference properties remain unsettled.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Halldén 与 von Wright 都通过采纳语法或算法进路来强调偏好原理的普遍性。后来的研究者常用例子来支持或挑战这些原理，而许多偏好性质至今悬而未决。
+    step2: |-
+      Halldén 与 von Wright 都通过采纳语法或算法进路来强调偏好原理的普遍性。后来的研究者常用例子来支持或挑战这些原理，而许多偏好性质至今悬而未决。
   - id: 64
     kind: body
     source: |-
       ## 3. Semantic approaches to preference logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 偏好逻辑的语义进路
+    step2: |-
+      ## 3 偏好逻辑的语义进路
   - id: 65
     kind: body
     source: |-
       This section provides a semantic perspective on preference by introducing an earlier proposal by Rescher (1967) and Van Dalen (1974) as well as possible world semantics, which has been central to later research in this area.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节通过引入 Rescher（1967）与 Van Dalen（1974）的早期方案以及可能世界语义，给出偏好的语义视角；后者一直是这一领域后续研究的核心。
+    step2: |-
+      本节通过引入 Rescher（1967）与 Van Dalen（1974）的早期方案以及可能世界语义，给出偏好的语义视角；后者一直是这一领域后续研究的核心。
   - id: 66
     kind: body
     source: |-
       ### 3.1 Rescher-Van Dalen semantics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 Rescher-Van Dalen 语义学
+    step2: |-
+      ### 3.1 Rescher-Van Dalen 语义学
   - id: 67
     kind: body
     source: |-
       Rescher (1966, 1967) introduced the first semantics for preference logic where models are real-valued functions on formulas. Van Dalen (1974) generalized this to partial orders, and he showed that the preference logic of Rescher is a special case. The semantic structures directly reflect the preferences expressed in the language. We present here the semantics and axiomatizations of Van Dalen.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Rescher（1966, 1967）引入了偏好逻辑的第一个语义学，其模型是公式上的实值函数。Van Dalen（1974）把它推广到偏序，并证明 Rescher 的偏好逻辑是一个特例。语义结构直接反映语言所表达的偏好。我们在此给出 Van Dalen 的语义学与公理化。
+    step2: |-
+      Rescher（1966, 1967）引入了偏好逻辑的第一个语义学，其模型是公式上的实值函数。Van Dalen（1974）把它推广到偏序，并证明 Rescher 的偏好逻辑是一个特例。语义结构直接反映语言所表达的偏好。我们在此给出 Van Dalen 的语义学与公理化。
   - id: 68
     kind: body
     source: |-
       The language coincides with the language of von Wright, i.e., it is an extension of propositional logic with the binary connective $>$, except in this case, it lacks nested preference statements. Indifference is defined in terms of preference as $\varphi\equiv \psi = \neg (\varphi>\psi)\land \neg (\psi>\varphi)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      该语言与 von Wright 的语言一致，即以二元联结词 $>$ 扩充命题逻辑——只是此处不含嵌套的偏好陈述。无差异由偏好定义：$\varphi\equiv \psi = \neg (\varphi>\psi)\land \neg (\psi>\varphi)$。
+    step2: |-
+      该语言与 von Wright 的语言一致，即以二元联结词 $>$ 扩充命题逻辑——只是此处不含嵌套的偏好陈述。无差异由偏好定义：$\varphi\equiv \psi = \neg (\varphi>\psi)\land \neg (\psi>\varphi)$。
   - id: 69
     kind: body
     source: |-
       In order to assign truth values to formulas of the form $\varphi>\psi$, Van Dalen prescribes an order relation between propositions. He simultaneously considers a truth valuation v and a measure of goodness m. In this framework, m is a mapping of the set of propositions into a partially ordered set A, and v is a mapping of propositional symbols (atoms) into $\{0,1\}$, which is extended to all formulas by the following inductive definition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为了给形如 $\varphi>\psi$ 的公式赋真值，Van Dalen 规定命题之间的一个序关系。他同时考虑真值赋值 v 与善的测度 m。在此框架中，m 是从命题集到偏序集 A 的映射；v 是从命题符号（原子）到 $\{0,1\}$ 的映射，并由如下归纳定义扩充到所有公式：
+    step2: |-
+      为了给形如 $\varphi>\psi$ 的公式赋真值，Van Dalen 规定命题之间的一个序关系。他同时考虑真值赋值 v 与善的测度 m。在此框架中，m 是从命题集到偏序集 A 的映射；v 是从命题符号（原子）到 $\{0,1\}$ 的映射，并由如下归纳定义扩充到所有公式：
   - id: 70
     kind: body
     source: |-
       1. $v(\neg \varphi) = 1-v(\varphi)$
       2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
       3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on A, or 0 otherwise
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $v(\neg \varphi) = 1-v(\varphi)$
+      2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
+      3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on A, or 0 otherwise
+    step2: |-
+      1. $v(\neg \varphi) = 1-v(\varphi)$
+      2. $v(\varphi\lor\psi) = \textrm{max}\{v(\varphi),v(\psi)\}$
+      3. $v(\varphi P\psi) = 1$ if $m(\varphi) \lt m(\psi)$ on A, or 0 otherwise
   - id: 71
     kind: body
     source: |-
       For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
 
       $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
+      
+      $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
+    step2: |-
+      For a set $\Gamma$ of formulas, the satisfaction relation is defined by:
+      
+      $$\begin{align*} A, m, v \models p &\quad \textrm{ iff}\quad v(p) = 1 \textrm{ for atomic } p\\ A, m \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } v\\ A, v \models \varphi &\quad \textrm{ iff}\quad A, m, v \models \varphi \textrm{ for all } m\\ A \models \varphi &\quad \textrm{ iff}\quad A, m, v\models \varphi \textrm{ for all } m \textrm{ and } v\\ \models \varphi &\quad \textrm{ iff}\quad A \models \varphi \textrm{ for all } A (\varphi \textrm{ is true})\\ A, m, v \models \Gamma &\quad \textrm{ iff}\quad A, m, v \models \Gamma \textrm{ for all } \varphi\in\Gamma\\ \Gamma\models \varphi &\quad \textrm{ iff}\quad A, m,v\models\Gamma \Rightarrow A, m,v\models \varphi\\ \end{align*}$$
   - id: 72
     kind: body
     source: |-
       Van Dalen calls the semantics described above irrational semantics, mainly because logically equivalent propositions can lead to different preferences. He therefore considers three extra conditions to the measure m or the partially set A in order to get semantics of a more restricted kind:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Van Dalen 把上述语义称为非理性语义，主要是因为逻辑等价的命题可以导致不同的偏好。因此他考虑对测度 m 或偏序集 A 添加三个额外条件，以得到更具受限性的语义：
+    step2: |-
+      Van Dalen 把上述语义称为非理性语义，主要是因为逻辑等价的命题可以导致不同的偏好。因此他考虑对测度 m 或偏序集 A 添加三个额外条件，以得到更具受限性的语义：
   - id: 73
     kind: body
     source: |-
       1. If $\varphi\equiv \psi$ is a tautology, then $m (\varphi) = m(\psi)$.
       2. A is linearly ordered.
       3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. If $\varphi\equiv \psi$ is a tautology, then $m (\varphi) = m(\psi)$.
+      2. A is linearly ordered.
+      3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
+    step2: |-
+      1. If $\varphi\equiv \psi$ is a tautology, then $m (\varphi) = m(\psi)$.
+      2. A is linearly ordered.
+      3. A is the set of reals and $m(\neg \varphi)=-m(\varphi)$.
   - id: 74
     kind: body
     source: |-
       Van Dalen presents several theories—**PREFIR**, **PREF**, **PREFL**, and **PREFR**—outlined in Figure 5. He demonstrates that **PREFIR** is complete for irrational semantics, **PREF** is complete for semantics with condition (i), **PREFL** is complete for linear semantics, and **PREFR** is complete for Rescher semantics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Van Dalen 给出多个理论——**PREFIR**、**PREF**、**PREFL** 与 **PREFR**——概述于图 5。他证明：**PREFIR** 对非理性语义完全，**PREF** 对带条件 (i) 的语义完全，**PREFL** 对线性语义完全，**PREFR** 对 Rescher 语义完全。
+    step2: |-
+      Van Dalen 给出多个理论——**PREFIR**、**PREF**、**PREFL** 与 **PREFR**——概述于图 5。他证明：**PREFIR** 对非理性语义完全，**PREF** 对带条件 (i) 的语义完全，**PREFL** 对线性语义完全，**PREFR** 对 Rescher 语义完全。
   - id: 75
     kind: body
     source: |-
       *Figure 5.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 5.*
+    step2: |-
+      *Figure 5.*
   - id: 76
     kind: body
     source: |-
