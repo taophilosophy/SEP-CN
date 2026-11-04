@@ -1,0 +1,43 @@
+name: 🔍 渲染产物残留审计
+
+on:
+  workflow_dispatch:  # 手动触发：构建约 10-20 分钟，不占 push 门禁（ADR-0019 分期转硬前的审计通道）
+
+concurrency:
+  group: render-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: 检出本项目（全历史，git-stamps 需要）
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: 安装依赖
+        run: bun install --frozen-lockfile
+
+      - name: 构建站点
+        run: bun run build
+
+      - name: 扫描渲染残留物（裸 **、字面 [^、链接残留、数学哨兵）
+        id: scan
+        run: |
+          set -o pipefail
+          python3 tools/check_render_artifacts.py .vitepress/dist | tee render-audit-report.txt
+
+      - name: 上传审计报告
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-audit-report-${{ github.run_id }}
+          path: render-audit-report.txt
+          retention-days: 30
+          if-no-files-found: error

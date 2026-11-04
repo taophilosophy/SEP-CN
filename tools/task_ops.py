@@ -95,8 +95,10 @@ def create(slug, kind, zh_doc=None, change_file=None):
         raise PreconditionError("任务已存在: %s" % slug)
     task = {"slug": slug, "kind": kind, "zh_doc": zh_doc, "state": "pending",
             "steps": [], "blockers": [], "created_at": utcnow_iso()}
+    # 版本钉对两种 kind 一并取：update 的变更同样源于登记过的英文源，
+    # check_academic 对词条绑定任务查 pin、缺失即硬错误（2026-11-04 修潜在陷阱）
+    task["version_pin"] = _version_pin(slug)
     if kind == "retranslate":
-        task["version_pin"] = _version_pin(slug)
         if task["zh_doc"] is None:
             task["zh_doc"] = find_zh_doc({"slug": slug, "title": _baseline_title(slug)})
     else:

@@ -80,6 +80,13 @@
       "actor": "qa-rework-ses",
       "at": "2026-10-31T16:26:14Z",
       "evidence": "纠正 9 项落实：健全（有效）/立足空间/并非无关紧要、支持选择权括注、无辜威胁统一、星内空格 9 段 17 条清零（style 20→3）、爱护/伤害顺句、对他人实施堕胎、延伸阅读分节行；check_academic --strict 0（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
+    },
+    {
+      "step": "rework-open",
+      "status": "ok",
+      "actor": "governance-session",
+      "at": "2026-11-04T16:38:42Z",
+      "evidence": "QA 返工立项（qa-rework，状态保持 done 不动，认领会话按 update 语义只走变更段）：changes: specs/005-translation-campaign/results/qa-prose-2026-10-31-summary.md#返工队列；范围=Critical 定点核对（改前回核英文镜像）+check_prose 语言告警清零或逐条豁免留痕；优先序与作业程序见 specs/005-translation-campaign/qa-rework-dispatch-2026-11-05.md"
     }
   ],
   "blockers": [],

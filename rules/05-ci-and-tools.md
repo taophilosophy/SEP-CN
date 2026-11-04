@@ -17,6 +17,7 @@
 | `md-padding.yml`、`AutoCorrect.yml` | 手动触发，自动补 CJK 空格并以 PR 提交，合并前人工核对 diff | 手动 |
 | `Auto-Assign.yml`、`GC.yml` | issue/PR 自动分配、垃圾回收 | 各自约定 |
 | `create-pdf.yml` | 手动导出本项目中文 PDF/EPUB（gitbook-pdf-export 工具只读使用；可按首字母分批，全量约 2600 词条）；产物仅上传运行工件，**不写 tag/Release/外部仓库**（2026-11-04 重写，D20） | workflow_dispatch |
+| `render-artifact-audit.yml` | 手动构建全站后跑 `check_render_artifacts.py` 扫渲染残留（裸 `**`、字面 `[^`、链接残留、`@@M` 哨兵），有残留即红；报告入运行工件（2026-11-05 接线，ADR-0019 分期转硬的审计通道） | workflow_dispatch |
 
 * 不要新增与上述约定冲突的本地规则；需要新检查时先改 `tools/` 并在此登记。
 * CI 红灯定位：打开 `checks.yml` 的第一个失败 step，按上表同名工具在本地用相同命令复现（如 `python tools/check_summary.py`）；各工具退出码语义见其 docstring，不按文字推断。

@@ -73,6 +73,13 @@
       "actor": "qa-rework-ses",
       "at": "2026-10-31T15:58:49Z",
       "evidence": "纠正 18 项落实：sufficed 残留、贝克莱引文补触觉限定、surprising、破句、类比逻辑顺句、only/commands/at least/认识论义/or absence/贝克莱例、布里奇曼统一、本体感受经验、模糊性/含混区分、所交付者、就这样一直、或大或小、星内空格×3；check_academic --strict 0；style 0；prose 112（-1）。登记册移交：Bridgeman 待 008（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
+    },
+    {
+      "step": "rework-open",
+      "status": "ok",
+      "actor": "governance-session",
+      "at": "2026-11-04T16:38:42Z",
+      "evidence": "QA 返工立项（qa-rework，状态保持 done 不动，认领会话按 update 语义只走变更段）：changes: specs/005-translation-campaign/results/qa-prose-2026-10-31-summary.md#返工队列；范围=Critical 定点核对（改前回核英文镜像）+check_prose 语言告警清零或逐条豁免留痕；优先序与作业程序见 specs/005-translation-campaign/qa-rework-dispatch-2026-11-05.md"
     }
   ],
   "blockers": [],

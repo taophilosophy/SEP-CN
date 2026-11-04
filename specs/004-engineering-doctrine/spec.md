@@ -20,7 +20,7 @@
 | D1 | 正文翻译三审三校零实跑→**已破零（2026-10-28）**：done=1（spacetime-holearg 空穴论证演示件，六道审阅全过）；批量翻译待阶段 A checklist 验收解锁（**偿还计划见 specs/005-translation-campaign**） | 项目主目标开工、进度 0.1% | 1877 词条待译（done 1/1878） | P0 |
 | D2 | en/ 原始物仅存本地 → 2026-10-27 **显式豁免**（用户裁定：不备份，禁止任何备份文件，项目由 git 管理；en/ 原始物为可再生抓取物，重抓即恢复） | 已接受的风险 | en/ 约 3998 文件 | ✅ 豁免 |
 | D3 | ~~74 条上游增量未接入~~ **✅ 已解除（2026-10-28）**：71 条补遗 intake 接入（apply-add 闭环，提交 1691cd9e）+ 3 条并行会话处置，缺口 74→0；71 个 retranslate 任务建立（转入 D1 主攻） | SUMMARY 与官方目录缺口闭合 | 0/74 待接入 | ✅ 已解除 |
-| D4 | 24 个派生 slug + 137 个导航节点待人工裁定 | 镜像路径不确定、目录导航节点无条目页 | `specs/001-sep-sync-pipeline/dir-rebuild/rebuild-review.json`；已个例裁定 aristotelianism-renaissance 等（specs/001 执行日志），整体待清 | P1 |
+| D4 | ~~24 个派生 slug~~ **✅ 派生 slug 已清（2026-11-05）**：21 项逐一核销——全部已被 ADR-0009 字母目录正确 slug 承接（映射证据 `specs/001-sep-sync-pipeline/dir-rebuild/derived-slug-verdict-2026-11-05.md`，含 on-utopia→plato-laws 误派生甄别）；**余 168 个 `*` 集群占位导航节点**按 specs/005 排期随各波 intake 顺带消化 | 镜像路径已定 | 导航节点 168 | P2（随波次） |
 | D5 | ~~baseline zh_doc 对 72 条 baseline 独有条目仍是旧拼音路径~~ **✅ 已解除（2026-10-28）**：intake apply-add 闭环重写 zh_doc；实测 1878 条 zh_doc 全部为字母目录形态、异常 0（nominalism-metaphysics 存档版 zh_doc=None 属存档词条固有，非路径漂移） | 版本钉链恢复 | 异常 0/1878 | ✅ 已解除 |
 | D6 | ~~yuanwen.py（660 行最复杂转换器）无直接单测~~ **✅ 已解除（2026-10-28）**：tools/tests/test_yuanwen.py 17 项直接单测（公式实体、脚注锚点、嵌套表格、跨块 display math、图题、PDF 注释剥离），随管线单元测试门禁全绿 | 保真判据双层化（金样本断言 + 全量 check_math） | 17 项专项测试 | ✅ 已解除 |
 | D7 | mu-lu-s 手编分类单点维护、无自动分类辅助 | 每次新增条目累积分类缺口（2026-10-28 实测 73 条正式条目：原 21 + intake 新条目） | 1817 行 | P2 |
@@ -40,8 +40,8 @@
 | D21 | ~~根级 `sm.xml` 实为上游 404 页面快照~~ **✅ 已解除（2026-11-04）**：git rm | — | — | ✅ 已解除 |
 | D22 | ~~`tasks/` 根级非字母目录 JSON 未登记归属~~ **✅ 已解除（2026-11-04）**：tasks/README 登记三类根级文件（term-pool/term-candidates=工具硬编码数据文件不迁移；ci-hui-biao=维护任务豁免字母路径）；progress.py/check_academic 例行任务豁免同族 | 归属已登记、统计口径干净 | — | ✅ 已解除 |
 | D23 | ~~许可证二义~~ **✅ 已解除（2026-11-04）**：用户裁定 BSD-2-Clause，版权说明页对齐 package.json/README/CONTRIBUTING | 表述一致 | — | ✅ 已解除 |
-| D24 | 根级 69 个已入库 `_` 脚手架散件（`_hare_seg_*.py`、`_tr_concept*.py`、`_asm_*`、`_work/` 等，并行会话 add -A 扫入）+ `tasks/e/_tr_*.json` 14 件 | 仓库杂物；check_junk 无"根级 `_` 前缀"规则 | 83 文件 | P2（处置方式待用户裁定：git rm＋门禁补规则 / 移 specs/005/bin / 批次会话自清） |
-| D25 | QA A 批返工队列悬空：specs/005/results/qa-traverse（Critical 15/Major 37/Minor 157）+ 欧化告警清单在册，qa-rework 任务 0 个 | 已 done 词条实伤未返工 | 16 词条 | P1（返工范围待用户裁定 qa-findings 五.1：定点返工 / 并入 011 深读 / 全量复查） |
+| D24 | ~~根级 69 个已入库 `_` 脚手架散件 + tasks/e/_tr_*.json~~ **✅ 已解除（2026-11-05）**：用户裁定 git rm——76 个跟踪散件删除（根级 `_` 69 件 + tasks/e/_tr_*.json 7 件；磁盘上另有未跟踪同名散件属会话本地工作区不动）；check_junk 补两条规则（根级 `^_`、任务目录 `^tasks/[a-z]/_`）防再犯 | 0 命中 | — | ✅ 已解除 |
+| D25 | QA A 批返工队列 ~~悬空~~ **已立项（2026-11-05）**：用户裁定按程序定点返工——15 词条既有任务追加 rework-open 步（状态保持 done，认领会话按 update 语义只走变更段）＋派发清单 `specs/005-translation-campaign/qa-rework-dispatch-2026-11-05.md`（优先序按欧化告警量） | 返工待认领消化 | 15 词条 | P1（认领中） |
 
 ## 三、Doctrine 落地路线（不计成本建议）
 

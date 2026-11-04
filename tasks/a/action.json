@@ -73,6 +73,13 @@
       "actor": "qa-rework-ses",
       "at": "2026-10-31T17:19:54Z",
       "evidence": "纠正 21 项落实（并行会话释放后补齐）：C1 引文删增字[形式]＋M6（破句×2/残留 pursuing/宾语错乱/被谋杀/教师语境）＋Minor（explanans/arguably×2/（（×6/髋部安全扣/though see×2/谈不上有把握/耐人寻味补句/游离［/重新挪用/减薪×3/认识性应得/被抬高的能动性条件/原文注）＋并行清扫残留星内空格 4 处；例式块已由 d22bd490 修复核验 skip；check_academic --strict 0 硬错误；style 9→3 无新增；prose 138（+2 系指定译法触碰阈值，已在案）。禁修项未动（纠正依据：specs/005-translation-campaign/results/qa-traverse-2026-10-31.md）"
+    },
+    {
+      "step": "rework-open",
+      "status": "ok",
+      "actor": "governance-session",
+      "at": "2026-11-04T16:38:42Z",
+      "evidence": "QA 返工立项（qa-rework，状态保持 done 不动，认领会话按 update 语义只走变更段）：changes: specs/005-translation-campaign/results/qa-prose-2026-10-31-summary.md#返工队列；范围=Critical 定点核对（改前回核英文镜像）+check_prose 语言告警清零或逐条豁免留痕；优先序与作业程序见 specs/005-translation-campaign/qa-rework-dispatch-2026-11-05.md"
     }
   ],
   "blockers": [],

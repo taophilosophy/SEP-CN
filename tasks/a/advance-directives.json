@@ -52,6 +52,13 @@
       "actor": "ses-007-rev",
       "at": "2026-10-29T20:30:05Z",
       "evidence": "六道走完 done：a/advance-directives.md（六节+结论+致谢全译+refs12条照录）；批次 a translate 进度 5/160"
+    },
+    {
+      "step": "rework-open",
+      "status": "ok",
+      "actor": "governance-session",
+      "at": "2026-11-04T16:38:42Z",
+      "evidence": "QA 返工立项（qa-rework，状态保持 done 不动，认领会话按 update 语义只走变更段）：changes: specs/005-translation-campaign/results/qa-prose-2026-10-31-summary.md#返工队列；范围=Critical 定点核对（改前回核英文镜像）+check_prose 语言告警清零或逐条豁免留痕；优先序与作业程序见 specs/005-translation-campaign/qa-rework-dispatch-2026-11-05.md"
     }
   ],
   "blockers": [],
