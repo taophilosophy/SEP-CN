@@ -22,6 +22,14 @@
     biblio-chinese-untranslated  文献节疑似中国文献条目仍全罗马化（ADR-0011）
     trans-note              译注未闭合或出现在参考文献节
     baseline-lookup-miss    文档未能在 baseline 定位（pubinfo 不可核）
+
+豁免规则（2026-11-04 复核纠正，对齐 rules/04 状态机与 specs/005 在途快照入库实践）:
+  `_` 前缀路径   会话脚手架（批量子代理提示词 `_f_prompts/`、拼装工作台等），
+                 非词条文档，不按词条体例检查
+  在途词条       任务 state ≠ done 的词条豁免尾节拼装类检查
+                 （biblio-*/scholar-tools/orphan-ref/orphan-def）——尾节
+                 （脚注定义表/参考文献/学术工具）按流程在收口 compose 阶段
+                 拼装，done 时全量把关；pubinfo/译注等正文级检查照常执行
 退出码: 0 无硬错误；1 有硬错误（--strict 时告警也算）；2 用法错误。
 """
 import argparse
@@ -130,6 +138,29 @@ def resolve_record(rel, by_zh_doc, records, warns):
     return cands[0]
 
 
+def load_task_states(tasks_dir):
+    """zh_doc → 任务 state 映射（在途豁免判据）；缺 zh_doc/state 的文件忽略。"""
+    states = {}
+    if not os.path.isdir(tasks_dir):
+        return states
+    for dirpath, _dirnames, filenames in os.walk(tasks_dir):
+        for fn in sorted(filenames):
+            if not fn.endswith('.json'):
+                continue
+            try:
+                with open(os.path.join(dirpath, fn), encoding='utf-8') as fh:
+                    rec = json.load(fh)
+            except (OSError, ValueError):
+                continue
+            if not isinstance(rec, dict):
+                continue
+            zh = str(rec.get('zh_doc') or '').replace('\\', '/').strip().casefold()
+            state = str(rec.get('state') or '').strip()
+            if zh and state:
+                states.setdefault(zh, state)
+    return states
+
+
 def find_biblio_span(headings):
     """返回参考文献节内容的 (start_lineno, stop_lineno|None)，未找到返回 None。"""
     for pos, (lineno, level, text) in enumerate(headings):
@@ -144,8 +175,12 @@ def find_biblio_span(headings):
     return None
 
 
-def check_doc(rel, ne, warns, is_supp=False):
-    """文档级结构检查；返回 (pubinfo_lineno, pubinfo_line)。"""
+def check_doc(rel, ne, warns, is_supp=False, defer_tail=False):
+    """文档级结构检查；返回 (pubinfo_lineno, pubinfo_line)。
+
+    defer_tail=True（在途词条，任务 state ≠ done）时豁免尾节拼装类告警：
+    biblio-missing / biblio-note-* / biblio-chinese-untranslated / scholar-tools-missing。
+    """
     headings = []
     for lineno, line in ne:
         m = RE_HEADING.match(line.strip())
@@ -153,9 +188,9 @@ def check_doc(rel, ne, warns, is_supp=False):
             headings.append((lineno, len(m.group(1)), m.group(2)))
     biblio = find_biblio_span(headings)
     if biblio is None:
-        if not is_supp:
+        if not is_supp and not defer_tail:
             warns.append('[biblio-missing] %s 非存根词条无“参考文献”节' % rel)
-    else:
+    elif not defer_tail:
         start, stop = biblio
         in_sec = [line for ln, line in ne
                   if start <= ln and (stop is None or ln < stop)]
@@ -208,7 +243,7 @@ def check_doc(rel, ne, warns, is_supp=False):
     has_scholar = (any(t.casefold() in {'学术工具', 'scholarly tools'} or '如何引用' in t
                        for _, _, t in headings)
                    or any('如何引用本词条' in line for _, line in ne))
-    if not has_scholar and not is_supp:
+    if not has_scholar and not is_supp and not defer_tail:
         warns.append('[scholar-tools-missing] %s 非存根词条无“学术工具/如何引用本词条”' % rel)
 
     pubinfo = next(((ln, l) for ln, l in ne[:PUBINFO_WINDOW] if RE_PUBINFO.search(l)), None)
@@ -246,7 +281,7 @@ def check_pubinfo(rel, pubinfo, rec, hard, warns):
                        fmt_zh(b_rev) if b_rev else '（无）'))
 
 
-def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None):
+def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None, defer_tail=False):
     refs, defs = {}, {}
     fence = False
     for lineno, line in ne:
@@ -268,10 +303,11 @@ def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None):
         for m in RE_FOOTREF.finditer(line):
             refs.setdefault(m.group(1), lineno)
     for key, lineno in sorted(refs.items()):
-        if key not in defs:
+        # 在途词条豁免：文末脚注定义表随尾节在 compose 阶段拼装
+        if key not in defs and not defer_tail:
             hard.append('[orphan-ref] %s:%d 脚注引注 [^%s] 无文末定义' % (rel, lineno, key))
     for key, (lineno, dline) in sorted(defs.items()):
-        if key not in refs:
+        if key not in refs and not defer_tail:
             # 跨文件引用豁免：SEP 的脚注定义可被同词条补充材料引用
             # （notes.html#note-N 出现在 en/<slug>/*.html 中），主文定义非孤儿
             if cross_refs and key in cross_refs:
@@ -315,8 +351,10 @@ def check_tasks(tasks_dir, hard, warns, records=None):
                 continue
             n += 1
             rel = norm_rel(fp, base)
-            if str(rec.get('kind') or '') == 'glossary-maintenance':
-                # 非词条翻译任务（词汇表维护等）无 SEP 版本可钉，不要求 version_pin
+            if (str(rec.get('kind') or '') == 'glossary-maintenance'
+                    or not str(rec.get('zh_doc') or '').strip()):
+                # 非词条绑定任务（词汇表维护、每日例行漂移检查等）无 SEP 版本
+                # 可钉，不要求 version_pin，也不按词条任务要求证据步数
                 continue
             missing = [k for k in PIN_FIELDS
                        if not str((rec.get('version_pin') or {}).get(k) or '').strip()]
@@ -350,14 +388,17 @@ def collect_docs(root):
         if parts and (parts[0] in EXCLUDE_DIRS or rel_dir.startswith('.')):
             dirnames[:] = []
             continue
+        # `_` 前缀目录/文件=会话脚手架（批量子代理提示词、拼装工作台等），
+        # 非词条文档，不按词条体例检查
+        dirnames[:] = [d for d in dirnames if not d.startswith('_')]
         for fn in sorted(filenames):
-            if not fn.endswith('.md') or fn in EXCLUDE_FILES:
+            if not fn.endswith('.md') or fn in EXCLUDE_FILES or fn.startswith('_'):
                 continue
             docs.append(os.path.join(dirpath, fn))
     return sorted(docs)
 
 
-def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats):
+def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats, task_states=None):
     rel = norm_rel(fp, root)
     try:
         with open(fp, encoding='utf-8') as fh:
@@ -373,12 +414,18 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats):
         stats['stub'] += 1
         return
     stats['entry'] += 1
+    # 在途豁免（rules/04 状态机）：任务 state ≠ done 的词条，尾节（脚注定义表/
+    # 参考文献/学术工具）尚未拼装属正常中间态，尾节类检查延至 done 全量把关
+    state = (task_states or {}).get(rel.casefold())
+    in_flight = bool(state) and state != 'done'
+    if in_flight:
+        stats['inflight'] += 1
     # 补充材料豁免（specs/007 审阅实证）：`<slug>.<x>.md` 形态的补充文件按模板
     # 不设独立参考文献/学术工具节（主词条承载），亦无独立 baseline 记录
     stem = os.path.basename(rel)[:-3] if rel.endswith('.md') else ''
     is_supp = '.' in stem and not rel.startswith(('en/', 'yuanwen/'))
     rec = resolve_record(rel, by_zh_doc, records, warns)
-    pubinfo = check_doc(rel, ne, warns, is_supp=is_supp)
+    pubinfo = check_doc(rel, ne, warns, is_supp=is_supp, defer_tail=in_flight)
     if is_supp:
         pass  # 参考文献节/学术工具节/版本钉均由主词条承载
     elif rec:
@@ -404,7 +451,7 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats):
         if m2:
             heads2.append((lineno, len(m2.group(1)), m2.group(2)))
     biblio_span = find_biblio_span(heads2)
-    check_footnotes(ne, rel, hard, cross_refs, biblio_span)
+    check_footnotes(ne, rel, hard, cross_refs, biblio_span, defer_tail=in_flight)
 
 
 def main(argv=None):
@@ -417,8 +464,9 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     hard, warns = [], []
-    stats = {'entry': 0, 'stub': 0, 'nonentry': 0}
+    stats = {'entry': 0, 'stub': 0, 'nonentry': 0, 'inflight': 0}
     by_zh_doc, records = load_baseline(args.baseline)
+    task_states = load_task_states(args.tasks_dir)
 
     if args.docs is not None:
         paths = []
@@ -429,11 +477,13 @@ def main(argv=None):
                 return 2
             paths.append(fp)
         for fp in paths:
-            check_one_doc(fp, args.root, by_zh_doc, records, hard, warns, stats)
+            check_one_doc(fp, args.root, by_zh_doc, records, hard, warns, stats,
+                          task_states)
         n_tasks = None
     else:
         for fp in collect_docs(args.root):
-            check_one_doc(fp, args.root, by_zh_doc, records, hard, warns, stats)
+            check_one_doc(fp, args.root, by_zh_doc, records, hard, warns, stats,
+                          task_states)
         n_tasks = check_tasks(args.tasks_dir, hard, warns, records)
 
     if args.strict and warns:
@@ -441,8 +491,9 @@ def main(argv=None):
         warns = []
 
     tag = '（--strict）' if args.strict else ''
-    print('学术规范门禁（specs/003，rules/07）%s：非存根词条 %d | 存根跳过 %d | 非词条跳过 %d%s'
-          % (tag, stats['entry'], stats['stub'], stats['nonentry'],
+    print('学术规范门禁（specs/003，rules/07）%s：非存根词条 %d | 存根跳过 %d | 非词条跳过 %d'
+          ' | 在途豁免 %d%s'
+          % (tag, stats['entry'], stats['stub'], stats['nonentry'], stats['inflight'],
              '' if n_tasks is None else ' | 任务 JSON %d' % n_tasks))
     if hard:
         kinds = {}

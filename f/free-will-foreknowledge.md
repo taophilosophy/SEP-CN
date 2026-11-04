@@ -1,1 +1,1 @@
-# 预知与自由意志 Foreknowledge and Free Will and Linda Zagzebski)
+# 预知与自由意志 ( Foreknowledge and Free Will (David Hunt and Linda Zagzebski)

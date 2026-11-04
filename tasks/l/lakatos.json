@@ -1,0 +1,22 @@
+{
+  "slug": "lakatos",
+  "kind": "retranslate",
+  "zh_doc": "l/lakatos.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-03T18:42:27Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-03T18:42:26Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 19, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "ed7d067a2c0b7d973f9a59babcee96c74a935a5e4c8a44cf9ea7da1ba9bce8fb"
+  }
+}

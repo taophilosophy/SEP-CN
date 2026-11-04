@@ -1,4 +1,4 @@
-# 优选论和博弈论对含义的研究方法 Optimality-Theoretic and Game-Theoretic Approaches to Implicature and Michael Franke)
+# 优选论和博弈论对含义的研究方法 Optimality-Theoretic and Game-Theoretic Approaches to Implicature (Robert van Rooij and Michael Franke)
 
 *首次发表于 2006 年 12 月 1 日；2026 年 7 月 2 日实质修订。*
 
