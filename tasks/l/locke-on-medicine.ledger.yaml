@@ -971,92 +971,122 @@ segments:
     kind: body
     source: |-
       ## 6. Locke’s Methodology in the *Essay concerning Human Understanding*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 洛克在《人类理解论》中的方法论
+    step2: |-
+      ## 6 洛克在《人类理解论》中的方法论
   - id: 122
     kind: body
     source: |-
       Locke began to write the *Essay* in the summer of 1671, no more than a few weeks after Sydenham wrote “Epidemicall diseases of the year 1670” in his “Medical Observations”, which Locke later made his own manuscript copy of. The first still extant draft of the *Essay*, now known as Draft A, shared the same basic philosophical outlook as Locke evinced in “Anatomia” and “De Arte Medica”, namely (1) we have no knowledge of nature’s unobservable causes, (2) we cannot therefore resolve disputes about such causes and consequently (3) we should rely solely upon experience as the foundation of natural philosophical knowledge.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克于 1671 年夏开始撰写《人类理解论》，距西德纳姆在其《医学观察》中写下《1670 年的流行病》不过数周——洛克后来亲手誊抄了这篇文章。《人类理解论》现存最早的草稿（今称草稿 A）与洛克在《解剖学》《论医术》中显露的基本哲学取向相同，即 (1) 我们对自然不可观察的原因没有知识；(2) 因此我们无法解决关于此类原因的争执；(3) 我们应当仅以经验为自然哲学知识的根基。
+    step2: |-
+      洛克于 1671 年夏开始撰写《人类理解论》，距西德纳姆在其《医学观察》中写下《1670 年的流行病》不过数周——洛克后来亲手誊抄了这篇文章。《人类理解论》现存最早的草稿（今称草稿 A）与洛克在《解剖学》《论医术》中显露的基本哲学取向相同，即 (1) 我们对自然不可观察的原因没有知识；(2) 因此我们无法解决关于此类原因的争执；(3) 我们应当仅以经验为自然哲学知识的根基。
   - id: 123
     kind: body
     source: |-
       Locke begins his account in robustly empiricist fashion “I imagin that all knowledg is founded on and ultimately derives it self from sense” (Draft A, §1, 1), noting that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克以坚定的经验主义笔调开始其说明：“我想一切知识都奠基于感官、并最终源自感官”（Draft A, §1, 1）；他指出
+    step2: |-
+      洛克以坚定的经验主义笔调开始其说明：“我想一切知识都奠基于感官、并最终源自感官”（Draft A, §1, 1）；他指出
   - id: 124
     kind: body
     source: |-
       > the clearest best & most certain knowledg that man kinde can possibly have of things existing without him is but Experience, which is noe thing but the Exercise & observation of his senses about particular objects. (Draft A, §33, 62–63)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人类对他之外存在的事物所能拥有的最清晰、最好、最确定的知识，不过是经验；经验无非是感官对特定对象的运用与观察。（Draft A, §33, 62–63）
+    step2: |-
+      > 人类对他之外存在的事物所能拥有的最清晰、最好、最确定的知识，不过是经验；经验无非是感官对特定对象的运用与观察。（Draft A, §33, 62–63）
   - id: 125
     kind: body
     source: |-
       But he re-iterated the strict limits he set in “Anatomia” regarding the reach of the senses. Knowledge of cause and effect pertained only to the observable level:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但他重申了在《解剖学》中为感官所及范围设定的严格界限。关于因果的知识只属于可观察的层面：
+    step2: |-
+      但他重申了在《解剖学》中为感官所及范围设定的严格界限。关于因果的知识只属于可观察的层面：
   - id: 126
     kind: body
     source: |-
       > I can have noe other certein undoubted knowledg of the constant connection of assigned causes & effects then what I have by my senses. which too is but a grosse kinde of knowledg is noe more then this, that I see when I apply fire to gold it melts it. (Draft A, §15, 30)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 对于被指定的原因与结果的恒常联结，我所能有的确定无疑的知识，不外乎我的感官所予。而那也只是粗疏的一种知识：无非是我看到，当我把火置于金子上，火把它熔化。（Draft A, §15, 30）
+    step2: |-
+      > 对于被指定的原因与结果的恒常联结，我所能有的确定无疑的知识，不外乎我的感官所予。而那也只是粗疏的一种知识：无非是我看到，当我把火置于金子上，火把它熔化。（Draft A, §15, 30）
   - id: 127
     kind: body
     source: |-
       We have this “grosse kind of knowledg” because we have “noe knowledg of the modus operandi, the way how these effects are produced” (Draft A, §15, 31). Our senses have a limited ability to provide such knowledge:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们拥有这种“粗疏的知识”，是因为我们“不知道作用方式（modus operandi）——这些结果如何被产生的方式”（Draft A, §15, 31）。我们的感官提供此类知识的能力有限：
+    step2: |-
+      我们拥有这种“粗疏的知识”，是因为我们“不知道作用方式（modus operandi）——这些结果如何被产生的方式”（Draft A, §15, 31）。我们的感官提供此类知识的能力有限：
   - id: 128
     kind: body
     source: |-
       > because these alterations being made by particles soe small & minute that they come not within the observation of my senses I cannot get knowledg how they operate, but only am informd by my senses that the alterations are indeed made from whence by the by we may take a litle light how much in the information of our understandings we are beholding to our senses. (Draft A, §15, 31)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为这些改变由如此微小、细微的微粒作出，以致它们不在我的感官的观察范围之内；我无法获得它们如何运作的知识，只能由感官得知改变确实发生了。由此我们也可以稍微看出：在构成我们的理解方面，我们在多大程度上受惠于感官。（Draft A, §15, 31）
+    step2: |-
+      > 因为这些改变由如此微小、细微的微粒作出，以致它们不在我的感官的观察范围之内；我无法获得它们如何运作的知识，只能由感官得知改变确实发生了。由此我们也可以稍微看出：在构成我们的理解方面，我们在多大程度上受惠于感官。（Draft A, §15, 31）
   - id: 129
     kind: body
     source: |-
       This meant that we had no way of determining which of several theoretical descriptions were correct. Propositions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这意味着我们无法判定几种理论描述中哪一种正确。如下命题
+    step2: |-
+      这意味着我们无法判定几种理论描述中哪一种正确。如下命题
   - id: 130
     kind: body
     source: |-
       > which being concerning matters out of the reach of our senses are capable neither of Observation nor consequently Testimony
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 既然关乎感官够不着的事情，便既不容观察，因而也不容见证
+    step2: |-
+      > 既然关乎感官够不着的事情，便既不容观察，因而也不容见证
   - id: 131
     kind: body
     source: |-
       were of two sorts: firstly concerning the spiritual world and secondly,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有两类：其一关乎精神世界；其二，
+    step2: |-
+      有两类：其一关乎精神世界；其二，
   - id: 132
     kind: body
     source: |-
       > Concerning the existence, modifications & manner of operation of insensible materiall things. (Draft A, §38, 65)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 关乎不可感的质料事物的存在、修饰及其运作方式。（Draft A, §38, 65）
+    step2: |-
+      > 关乎不可感的质料事物的存在、修饰及其运作方式。（Draft A, §38, 65）
   - id: 133
     kind: body
     source: |-
       Locke gave examples of what he had in mind:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克举例说明其所指：
+    step2: |-
+      洛克举例说明其所指：
   - id: 134
     kind: body
     source: |-
       > Natural spirits in animals. The forme soule or Effluviums of a load stone whereby it draws iron. (Draft A, §38, 65)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 动物体内的自然精气。磁石的形、灵魂或流出物——磁石借此吸铁。（Draft A, §38, 65）
+    step2: |-
+      > 动物体内的自然精气。磁石的形、灵魂或流出物——磁石借此吸铁。（Draft A, §38, 65）
   - id: 135
     kind: body
     source: |-
       Natural spirits were the Galenic explanation of how creatures were nourished and grew and “formes” were Aristotelean. The reference to the “soule” of a lodestone likely refers to Gilbert’s *De Magnete*. The reference to “Effluviums” may hint at mechanical explanations often employed by Boyle. These possible explanations were used indifferently. Being “out of the reach of our senses” they were “capable neither of Observation nor consequently Testimony”. Locke alluded to mechanical explanations in Draft A, but only to illustrate our lack of knowledge of causes:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自然精气是盖伦派关于生物如何滋养与生长的解释；“形”是亚里士多德派的。提到磁石的“灵魂”，可能暗指吉尔伯特的《论磁》。提到“流出物”或许暗示波义耳常采用的机械解释。这些可能的解释被不加区分地使用。既然“在感官够不着的地方”，它们便“既不容观察，因而也不容见证”。洛克在草稿 A 中提及机械解释，但只用来说明我们对原因的无知：
+    step2: |-
+      自然精气是盖伦派关于生物如何滋养与生长的解释；“形”是亚里士多德派的。提到磁石的“灵魂”，可能暗指吉尔伯特的《论磁》。提到“流出物”或许暗示波义耳常采用的机械解释。这些可能的解释被不加区分地使用。既然“在感官够不着的地方”，它们便“既不容观察，因而也不容见证”。洛克在草稿 A 中提及机械解释，但只用来说明我们对原因的无知：
   - id: 136
     kind: body
     source: |-
