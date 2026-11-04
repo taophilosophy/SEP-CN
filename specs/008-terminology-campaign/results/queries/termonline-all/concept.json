@@ -1,0 +1,348 @@
+{
+ "key": "concept",
+ "term": "concept",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:44+00:00",
+ "status": "ok",
+ "note": "variant=concept; 审定公布名词库=735; 海峡两岸名词对照库=204; 其他来源数据库=80; 预公布名词数据库=70; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "概念",
+   "en": "concept",
+   "code": "03.504",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "code": "04.016",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "code": "08.0647",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_知识工程"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "code": "02.614",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "code": "07.100",
+   "standard": "兽医学名词",
+   "subject": "兽医学_家畜胚胎学"
+  },
+  {
+   "cn": "受孕",
+   "en": "conception",
+   "code": "02.0040",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_妇科学"
+  },
+  {
+   "cn": "上位概念",
+   "en": "upperseat concept,upper concept",
+   "code": "04.285",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_主题法"
+  },
+  {
+   "cn": "概念词",
+   "en": "concept word,conception word",
+   "code": "05.097",
+   "standard": "语言学名词",
+   "subject": "语言学_语义学、词汇学_词与词汇"
+  },
+  {
+   "cn": "任脉",
+   "en": "conception channel,conception vessel",
+   "code": "02.0032",
+   "standard": "中医药学名词（2010）",
+   "subject": "中医药学_妇科学"
+  },
+  {
+   "cn": "概念规划",
+   "en": "concept planning",
+   "code": "01.068",
+   "standard": "城乡规划学名词",
+   "subject": "城乡规划学_城乡规划总述_城乡规划及相关规划"
+  },
+  {
+   "cn": "概念分解",
+   "en": "concept decomposition",
+   "code": "04.030",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "概念转换",
+   "en": "concept translation",
+   "code": "04.061",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念同化",
+   "en": "concept assimilation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念发展",
+   "en": "concept development",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念学习",
+   "en": "concept learning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念习得,概念获得",
+   "en": "concept acquisition",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念形成",
+   "en": "concept formation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念结构",
+   "en": "concept structure",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "概念词典",
+   "en": "concept dictionary",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概念发现",
+   "en": "concept discovery",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概念分类",
+   "en": "concept classification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概念获取",
+   "en": "concept acquisition",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概念结点",
+   "en": "concept node",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "概念",
+   "en": "Concept",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "概念泛化",
+   "en": "concept generalization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "概念确认",
+   "en": "concept identification",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "概念图",
+   "en": "concept map",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "开发运营理念",
+   "en": "DevOps concept",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "意境",
+   "en": "Aesthetic Conception",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "物联网概念模型",
+   "en": "IoT concept model",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "新发展理念",
+   "en": "new concept for development",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "新型亚洲安全观",
+   "en": "the new Asian security concept",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "经济全球化观",
+   "en": "the concept of economic globalization",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "code": "01.0205",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "code": "4.1.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_自我"
+  },
+  {
+   "cn": "自我概念",
+   "en": "self-concept",
+   "code": "2.5.10.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "道德观念",
+   "en": "moral concept",
+   "code": "1.014",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "概念模型",
+   "en": "conception model",
+   "code": "5.3.1",
+   "standard": "社会医学名词",
+   "subject": "生命质量"
+  },
+  {
+   "cn": "计划妊娠",
+   "en": "planned conception",
+   "code": "3.3.2.1.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_围婚期保健"
+  },
+  {
+   "cn": "新概念武器",
+   "en": "new concept weapons",
+   "code": "13.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_新概念武器及伤害_新概念武器"
+  },
+  {
+   "cn": "新安全观",
+   "en": "new security concept",
+   "code": "04.0194",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期"
+  },
+  {
+   "cn": "大卫生观",
+   "en": "macro-health concept",
+   "code": "8.004",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_公共卫生与健康伦理"
+  },
+  {
+   "cn": "新概念信息武器",
+   "en": "new concept information weapons",
+   "code": "13.1.3.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_新概念武器及伤害_新概念武器"
+  },
+  {
+   "cn": "新概念武器损伤",
+   "en": "new concept weapon injuries",
+   "code": "13.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_新概念武器及伤害_新概念武器损伤"
+  },
+  {
+   "cn": "新概念能量武器",
+   "en": "new concept energy weapons",
+   "code": "13.1.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_新概念武器及伤害_新概念武器"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

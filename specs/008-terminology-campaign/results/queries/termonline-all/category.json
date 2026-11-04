@@ -1,0 +1,348 @@
+{
+ "key": "category",
+ "term": "category",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:44+00:00",
+ "status": "ok",
+ "note": "variant=category; 审定公布名词库=225; 海峡两岸名词对照库=44; 其他来源数据库=23; 预公布名词数据库=17; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "[分类]阶元",
+   "en": "category",
+   "code": "2.0021",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "[分类]阶元",
+   "en": "category",
+   "code": "02.0023",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "code": "02.045",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "词性",
+   "en": "category",
+   "code": "04.036",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "code": "01.0111",
+   "standard": "古生物学名词",
+   "subject": "古生物学_总论"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "code": "02.023",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫分类与进化"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "code": "04.1556",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_范畴论"
+  },
+  {
+   "cn": "范畴",
+   "en": "category,broad facet",
+   "code": "04.014",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_一般概念"
+  },
+  {
+   "cn": "分类检索",
+   "en": "category retrieval",
+   "code": "06.03.023",
+   "standard": "档案学名词",
+   "subject": "档案学_电子文件管理_流程与方法"
+  },
+  {
+   "cn": "组合题",
+   "en": "category headline",
+   "code": "4.208",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_应用新闻_报刊实务_新闻编辑"
+  },
+  {
+   "cn": "范畴号",
+   "en": "category notation",
+   "code": "04.343",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_主题法"
+  },
+  {
+   "cn": "范畴流利性",
+   "en": "category fluency",
+   "code": "04.148",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "阶元",
+   "en": "category",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "分类阶元",
+   "en": "category\",\"taxonomic category",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "类，类别",
+   "en": "category\",\"class",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "类别电压",
+   "en": "category voltage",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "数据类别",
+   "en": "data category",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "组件目录",
+   "en": "component category",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地类",
+   "en": "land category",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "词范畴",
+   "en": "word category",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "错误类别",
+   "en": "error category",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "种类",
+   "en": "category",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "类",
+   "en": "Category",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "无差别级",
+   "en": "all categories\",\"open category",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "范畴论",
+   "en": "category theory",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "范畴论",
+   "en": "Category theory",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "比赛组别",
+   "en": "competition category",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_铁人三项名词"
+  },
+  {
+   "cn": "体重级别",
+   "en": "bodyweight category\",\"weight category\",\"weight division",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "甲类传染病",
+   "en": "Category A infectious diseases",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "乙类传染病",
+   "en": "Category B infectious diseases",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_其他医学词汇"
+  },
+  {
+   "cn": "第二类规定动作",
+   "en": "Category II of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "第三类规定动作",
+   "en": "Category III of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "第一类规定动作",
+   "en": "Category I of figures",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_花样游泳名词"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "code": "01.0204",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "范畴",
+   "en": "category",
+   "code": "1.002",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "类别匹配",
+   "en": "category matching",
+   "code": "4.4.1.2.2.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "分类归因",
+   "en": "category attribution",
+   "code": "3.7.13.5",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食源性疾病_食源性疾病负担"
+  },
+  {
+   "cn": "经济范畴",
+   "en": "economic category",
+   "code": "02.0151",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "医院分类",
+   "en": "categories of hospitals",
+   "code": "14.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_医生与医院行为_医院行为"
+  },
+  {
+   "cn": "甲类传染病",
+   "en": "category A infectious disease",
+   "code": "3.5.2.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测"
+  },
+  {
+   "cn": "乙类传染病",
+   "en": "category B infectious disease",
+   "code": "3.5.2.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测"
+  },
+  {
+   "cn": "丙类传染病",
+   "en": "category C infectious disease",
+   "code": "3.5.2.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_传染病监测"
+  },
+  {
+   "cn": "心理咨询类别",
+   "en": "category of psychological counseling",
+   "code": "6.5.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  },
+  {
+   "cn": "经济范畴人格化",
+   "en": "economic category is personified",
+   "code": "02.0152",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "生产类别分类目录",
+   "en": "catalogue of production categories",
+   "code": "5.1.5",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_企业监管"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

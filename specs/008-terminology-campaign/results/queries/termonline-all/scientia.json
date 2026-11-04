@@ -1,0 +1,96 @@
+{
+ "key": "scientia",
+ "term": "scientia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:46+00:00",
+ "status": "ok",
+ "note": "variant=scientia; 审定公布名词库=9; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": "01.054",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_科学观"
+  },
+  {
+   "cn": "东方体",
+   "en": "orientia",
+   "code": "03.0598",
+   "standard": "感染病学名词",
+   "subject": "感染病学_病原体感染_立克次体和埃立克体感染"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": "04.056",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "科学家共同体",
+   "en": "scientist community",
+   "code": "07.078",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "情报学家",
+   "en": "information scientist",
+   "code": "02.188",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书情报职业"
+  },
+  {
+   "cn": "图书馆学家",
+   "en": "library scientist",
+   "code": "02.187",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_图书情报工作管理_图书情报职业"
+  },
+  {
+   "cn": "行星际闪烁",
+   "en": "interplanetary scintil-lation",
+   "code": "05.0231",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_空间物理学_行星际与太阳"
+  },
+  {
+   "cn": "科学家的社会角色",
+   "en": "social role of scientist",
+   "code": "07.067",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "科学家的社会责任",
+   "en": "social responsibility of scientist",
+   "code": "07.068",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学、技术与社会_科学与社会"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "数据科学家",
+   "en": "data scientist",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "科学主义",
+   "en": "scientism",
+   "code": "3.10.5.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_科学社会学_科学社会学研究"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

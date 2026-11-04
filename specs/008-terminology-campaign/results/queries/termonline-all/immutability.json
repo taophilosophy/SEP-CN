@@ -1,0 +1,61 @@
+{
+ "key": "immutability",
+ "term": "immutability",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:45+00:00",
+ "status": "ok",
+ "note": "variant=immutability; 审定公布名词库=5; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "物种不变性",
+   "en": "immutability of species",
+   "code": "03.425",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_生物学哲学"
+  },
+  {
+   "cn": "物种不变论",
+   "en": "theory of species immutability",
+   "code": "04.037",
+   "standard": "生态学名词",
+   "subject": "生态学_进化生态学"
+  },
+  {
+   "cn": "可对易性",
+   "en": "commutability",
+   "code": "06.0453",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_量子理论"
+  },
+  {
+   "cn": "可突变性",
+   "en": "mutability",
+   "code": "02.289",
+   "standard": "遗传学名词",
+   "subject": "遗传学_经典遗传学"
+  },
+  {
+   "cn": "标准物质互换性",
+   "en": "commutability of a reference material",
+   "code": "01.155",
+   "standard": "计量学名词",
+   "subject": "计量学_计量学通用名词_测量标准"
+  },
+  {
+   "cn": "物种不变论",
+   "en": "theory of species immutability",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "可突变性",
+   "en": "mutability",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

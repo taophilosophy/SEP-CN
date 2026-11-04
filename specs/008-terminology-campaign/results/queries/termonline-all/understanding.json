@@ -1,0 +1,264 @@
+{
+ "key": "understanding",
+ "term": "understanding",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:46+00:00",
+ "status": "ok",
+ "note": "variant=understanding; 审定公布名词库=20; 海峡两岸名词对照库=12; 其他来源数据库=9; 预公布名词数据库=3; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "code": "03.823",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "code": "6.02",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播总论_传播行为与活动"
+  },
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "code": "04.043",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "code": "06.0472",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "code": "04.317",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_控制技术计算机应用"
+  },
+  {
+   "cn": "内容理解",
+   "en": "content understanding",
+   "code": "09.123",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "行为理解",
+   "en": "behavior understanding",
+   "code": "3.304",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_遗传学基础_行为进化"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "code": "03.584",
+   "standard": "测绘学名词",
+   "subject": "测绘学_摄影测量学与遥感"
+  },
+  {
+   "cn": "程序理解",
+   "en": "program understanding",
+   "code": "05.0146",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "code": "08.0376",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_模式识别"
+  },
+  {
+   "cn": "交互意图理解",
+   "en": "interaction intention understanding",
+   "code": "09.125",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "医学审美理解",
+   "en": "medical aesthetic understanding",
+   "code": "01.051",
+   "standard": "医学美学与美容医学名词",
+   "subject": "医学美学与美容医学_医学美学"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "理解",
+   "en": "comprehension\",\"understanding",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "共情理解",
+   "en": "empathic understanding",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "程序理解",
+   "en": "program understanding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "计算机理解",
+   "en": "computer understanding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "篇章理解",
+   "en": "text understanding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "文章理解",
+   "en": "article understanding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "汉语理解",
+   "en": "Chinese language understanding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "自然语言理解",
+   "en": "natural language understanding",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "汉语语音理解系统，汉语言语理解系统",
+   "en": "Chinese speech understanding system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "知天",
+   "en": "Understanding Heaven",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "自然语言理解",
+   "en": "natural-language understanding",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "鉴古知今",
+   "en": "Review the Past to Understand the Present",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "开物成务",
+   "en": "Understand Things and Succeed in One’s Endeavors",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "下学上达",
+   "en": "Study Concrete Things and Reach to a Higher-level Understanding",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "未来三部曲（《必然》《失控》《科技想要什么》）（〔美〕凯文·凯利）",
+   "en": "The Future Trilogy — The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future; Out of Control: The New Biology of Machines, Social Systems, and the Economic World; What Technology Wants (Kevin Kelly, USA)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "code": "3.015",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理原则"
+  },
+  {
+   "cn": "四个如何认识",
+   "en": "four points of how to understand",
+   "code": "03.0621",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "完整准确理解毛泽东思想",
+   "en": "understand Mao Zedong thought completely and accurately",
+   "code": "03.0510",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

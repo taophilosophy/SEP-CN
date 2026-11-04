@@ -1,0 +1,348 @@
+{
+ "key": "biological information",
+ "term": "biological information",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:44+00:00",
+ "status": "ok",
+ "note": "variant=biological information; 审定公布名词库=4137; 海峡两岸名词对照库=972; 其他来源数据库=598; 预公布名词数据库=217; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "生物资源信息",
+   "en": "biological resources information ",
+   "code": "3.0464",
+   "standard": "草学名词",
+   "subject": "草学_草地资源与利用"
+  },
+  {
+   "cn": "生物资源信息",
+   "en": "biological resource information",
+   "code": "06.155",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_资源信息学"
+  },
+  {
+   "cn": "生物主义",
+   "en": "biologism",
+   "code": "04.031",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "生物净化",
+   "en": "biological purification",
+   "code": "18.01.028",
+   "standard": "地质学名词",
+   "subject": "地质学_环境地质学_总论"
+  },
+  {
+   "cn": "生物景观",
+   "en": "biological landscape",
+   "code": "05.0215",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林规划_区域景观与山水风貌规划"
+  },
+  {
+   "cn": "生物入侵",
+   "en": "biological invasion",
+   "code": "10.307",
+   "standard": "农学名词",
+   "subject": "植物保护_外来入侵生物"
+  },
+  {
+   "cn": "生物富集",
+   "en": "biological enrichment",
+   "code": "12.0093",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林生态_生态系统生态学"
+  },
+  {
+   "cn": "生物排水",
+   "en": "biological drainage",
+   "code": "12.163",
+   "standard": "农学名词",
+   "subject": "农业水利_农田排水"
+  },
+  {
+   "cn": "生物农药",
+   "en": "biological pesticide",
+   "code": "03.0005",
+   "standard": "精细化工名词",
+   "subject": "精细化工_农药_通用"
+  },
+  {
+   "cn": "生物降解",
+   "en": "biological degradation",
+   "code": "03.0230",
+   "standard": "精细化工名词",
+   "subject": "精细化工_农药_生态环境"
+  },
+  {
+   "cn": "生物防治",
+   "en": "biological control",
+   "code": "03.0232",
+   "standard": "精细化工名词",
+   "subject": "精细化工_农药_生态环境"
+  },
+  {
+   "cn": "生物滤池",
+   "en": "biological filter",
+   "code": "08.1000",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_环境工程"
+  },
+  {
+   "cn": "生物膜",
+   "en": "biological film\",\"biological membrane",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物固持作用",
+   "en": "biological immobilization",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生物学种",
+   "en": "biological species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生物演替",
+   "en": "biological succession",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生物氧化",
+   "en": "biological oxidation",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生物钟",
+   "en": "biological clock",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生物自由基",
+   "en": "biological radical",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "生物去污染",
+   "en": "biological depollution",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "生物处理",
+   "en": "biological treatment",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物固体",
+   "en": "biological solid",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物过滤器",
+   "en": "biological filter",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "生物氧化",
+   "en": "biological oxidation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "污染",
+   "en": "Biological pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物强化",
+   "en": "Biological augmentation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物过程",
+   "en": "biological process",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算生物学",
+   "en": "Biological computation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微塑料",
+   "en": "Biological pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物性危害",
+   "en": "Biological hazard",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物武器",
+   "en": "Biological weapon",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "海洋污染",
+   "en": "Biological pollution",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "费希尔信息",
+   "en": "Fisher Information； information",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物半衰期",
+   "en": "Biological Half-Life",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生物战剂袭击",
+   "en": "biological attack",
+   "code": "9.5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置"
+  },
+  {
+   "cn": "生物消毒",
+   "en": "biological disinfection",
+   "code": "2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒技术"
+  },
+  {
+   "cn": "生物指示物",
+   "en": "biological indicator",
+   "code": "3.1.5",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒用品_消毒产品"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "code": "4.1.4.13.5.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_环境消毒"
+  },
+  {
+   "cn": "生物相容性",
+   "en": "biological compatibility",
+   "code": "6.3.1",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "生物多样性",
+   "en": "biological diversity",
+   "code": "7.1.8",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_生物安全"
+  },
+  {
+   "cn": "生物武器",
+   "en": "biological weapon",
+   "code": "7.1.10",
+   "standard": "消毒学",
+   "subject": "消毒学_其他_生物安全"
+  },
+  {
+   "cn": "生物样品",
+   "en": "biological samples",
+   "code": "5.4.4.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测"
+  },
+  {
+   "cn": "生物去污",
+   "en": "biological decontamination",
+   "code": "6.6.5.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役"
+  },
+  {
+   "cn": "生物决定论",
+   "en": "biological determinism",
+   "code": "3.14.1.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "生物制剂",
+   "en": "biological agent",
+   "code": "1.7.1.10",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物"
+  },
+  {
+   "cn": "生物性污染",
+   "en": "biological pollution",
+   "code": "4.1.5.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

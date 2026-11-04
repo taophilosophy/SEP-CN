@@ -1,0 +1,68 @@
+{
+ "key": "telos",
+ "term": "telos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:46+00:00",
+ "status": "ok",
+ "note": "variant=telos; 审定公布名词库=4; 海峡两岸名词对照库=4; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "正硅酸乙酯",
+   "en": "tetraethoxysilane,TEOS",
+   "code": "15.055",
+   "standard": "电子学名词",
+   "subject": "电子学_电子元器件工艺与分析技术"
+  },
+  {
+   "cn": "E光技术",
+   "en": "ELOS technique",
+   "code": "08.126",
+   "standard": "医学美学与美容医学名词",
+   "subject": "医学美学与美容医学_美容医疗应用技术"
+  },
+  {
+   "cn": "尾体",
+   "en": "telosome",
+   "code": "11.110",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_蜱螨学"
+  },
+  {
+   "cn": "尾毛",
+   "en": "telosomal seta,caudal seta",
+   "code": "11.159",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_蜱螨学"
+  },
+  {
+   "cn": "正硅酸乙酯",
+   "en": "tetraethoxysilane，TEOS",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "对端联会",
+   "en": "telosynapsis",
+   "code": null,
+   "standard": "海峡两岸细胞生物学名词",
+   "subject": "细胞生物学"
+  },
+  {
+   "cn": "尾毛",
+   "en": "telosomal seta\",\"caudal seta",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "尾体",
+   "en": "telosome",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,271 @@
+{
+ "key": "existence",
+ "term": "existence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:45+00:00",
+ "status": "ok",
+ "note": "variant=existence; 审定公布名词库=70; 海峡两岸名词对照库=19; 其他来源数据库=5; 预公布名词数据库=8; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "存在[性]",
+   "en": "existence",
+   "code": "01.0032",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "存在空间",
+   "en": "existence space",
+   "code": "01.0098",
+   "standard": "建筑学名词",
+   "subject": "建筑学_总论_建筑空间及建筑形式美学基础"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "code": "02.1194",
+   "standard": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "subject": "化工（一）_分析、化验、评定"
+  },
+  {
+   "cn": "实际胶质",
+   "en": "existent gum",
+   "code": "06.0331",
+   "standard": "石油名词",
+   "subject": "石油_石油炼制_石油炼制产品性质及评价"
+  },
+  {
+   "cn": "原地形标高",
+   "en": "existing elevation",
+   "code": "08.0065",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林工程地形整理"
+  },
+  {
+   "cn": "存在约束",
+   "en": "existing constraint",
+   "code": "07.0217",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_数据库_数据库管理系统及其实现技术"
+  },
+  {
+   "cn": "现有竞争者",
+   "en": "existing rivalry",
+   "code": "01.0614",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_战略管理"
+  },
+  {
+   "cn": "既有线",
+   "en": "existing line",
+   "code": "08.141",
+   "standard": "土木工程名词",
+   "subject": "土木工程_铁路工程_铁路设计"
+  },
+  {
+   "cn": "既有铁路",
+   "en": "existing railway",
+   "code": "01.0032",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道工程总类"
+  },
+  {
+   "cn": "现有公路",
+   "en": "existing highway",
+   "code": "01.029",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_公路交通总论"
+  },
+  {
+   "cn": "旧桥",
+   "en": "existing bridge",
+   "code": "04.163",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_桥、涵、隧道、渡口工程"
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful,ED",
+   "code": "07.0352",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航海保证"
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "现行抵押",
+   "en": "existing mortgage",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "现有数据",
+   "en": "existing data",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "现有船",
+   "en": "existing ship",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "疑存",
+   "en": "existence doubtful\",\"ED",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "生存竞争",
+   "en": "struggle for existence",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "现行特惠关税",
+   "en": "existing preferential duty",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "资源存在价值",
+   "en": "existence value of natural resources",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "既有线站场测量",
+   "en": "survey of existing station yard survey",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "共存",
+   "en": "coexistence",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "存在",
+   "en": "existence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "恍惚",
+   "en": "Intangible Existence",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "三界",
+   "en": "Traidhātuka / Three Realms of Existence",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "理一分殊",
+   "en": "There Is But One Li (Universal Principle), Which Exists in Diverse Forms.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "协和万邦",
+   "en": "Coexistence of All in Harmony",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "存在",
+   "en": "being existence",
+   "code": "01.0012",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "code": "05.0052",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外马克思主义哲学"
+  },
+  {
+   "cn": "现存照射情况",
+   "en": "existing exposure situation",
+   "code": "6.1.4.1.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_照射分类_照射情况分类"
+  },
+  {
+   "cn": "物质存在的基本形式",
+   "en": "basic forms of material existence",
+   "code": "01.0020",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "和平共处",
+   "en": "peaceful coexistence",
+   "code": "03.0274",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_列宁斯大林时期"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "code": "03.0396",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "和平共处五项原则",
+   "en": "Five Principles of Peaceful Coexistence",
+   "code": "03.0503",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "三和路线",
+   "en": "Peaceful coexistence peace contests and peaceful transition lines",
+   "code": "05.0220",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_主要事件"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

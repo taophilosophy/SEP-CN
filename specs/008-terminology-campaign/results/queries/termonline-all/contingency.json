@@ -1,0 +1,257 @@
+{
+ "key": "contingency",
+ "term": "contingency",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:44+00:00",
+ "status": "ok",
+ "note": "variant=contingency; 审定公布名词库=58; 海峡两岸名词对照库=19; 其他来源数据库=2; 预公布名词数据库=9; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "基本预备费",
+   "en": "contingency",
+   "code": "04.149",
+   "standard": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "subject": "化工（五）_工程建设_工程设计"
+  },
+  {
+   "cn": "或有事项",
+   "en": "contingency",
+   "code": "06.0078",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_会计_财务会计"
+  },
+  {
+   "cn": "预备费",
+   "en": "contingency",
+   "code": "05.0018",
+   "standard": "建筑学名词",
+   "subject": "建筑学_建筑经济_工程造价"
+  },
+  {
+   "cn": "强迫输纳制度",
+   "en": "Contingent",
+   "code": "04.0279",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_东南亚"
+  },
+  {
+   "cn": "不可预见费",
+   "en": "contingencies",
+   "code": "01.135",
+   "standard": "公路交通科技名词",
+   "subject": "公路交通科学技术_公路交通总论"
+  },
+  {
+   "cn": "预备费",
+   "en": "contingency cost",
+   "code": "13.028",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_化工技术经济"
+  },
+  {
+   "cn": "应急计划",
+   "en": "contingency plan",
+   "code": "19.192",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传媒经济_传媒经济研究"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "code": "20.036",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_公共关系_理论与学派"
+  },
+  {
+   "cn": "预想事故分析",
+   "en": "contingency analysis",
+   "code": "06.136",
+   "standard": "电力名词",
+   "subject": "电力_调度与通信、电力市场"
+  },
+  {
+   "cn": "应变计划",
+   "en": "contingency plan",
+   "code": "10.0370",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_容侵系统与生存技术"
+  },
+  {
+   "cn": "应急密钥",
+   "en": "contingency key",
+   "code": "10.0063",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_密码理论与技术"
+  },
+  {
+   "cn": "应急计划",
+   "en": "contingency plan",
+   "code": "05.0397",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "临时费用因数",
+   "en": "contingency factor",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "或有利润",
+   "en": "contingency profit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "偶然中断",
+   "en": "contingency interrupt",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "应变过程",
+   "en": "contingency procedure",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "应变计划",
+   "en": "contingency plan",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "或有损失",
+   "en": "loss contingency",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "后效强化",
+   "en": "contingent reinforcement",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "或有资产",
+   "en": "contingent asset",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "大数据安全应急预案",
+   "en": "contingency plan for big data security",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "偶然性",
+   "en": "contingency",
+   "code": "01.0052",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "code": "1.2.5.109",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_数据分析"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "code": "3.5.3.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_新经济社会学"
+  },
+  {
+   "cn": "必然性与偶然性",
+   "en": "necessity and contingency",
+   "code": "01.0053",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "条件价值评估法",
+   "en": "contingent valuation approach,CVA",
+   "code": "12.2.6.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担"
+  },
+  {
+   "cn": "军队卫勤保障预案",
+   "en": "contingency plans for military health service",
+   "code": "1.5",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事预防医学_军队卫勤保障预案"
+  },
+  {
+   "cn": "【军队卫勤保障】预案种类",
+   "en": "classification of contingency plans for military health service",
+   "code": "1.5.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事预防医学_军队卫勤保障预案"
+  },
+  {
+   "cn": "【军队卫勤保障】预案实施",
+   "en": "implementation of contingency plans for military health service",
+   "code": "1.5.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事预防医学_军队卫勤保障预案"
+  },
+  {
+   "cn": "【军队卫勤保障】预案内容",
+   "en": "the contents of contingency plans for military health service",
+   "code": "1.5.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事预防医学_军队卫勤保障预案"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

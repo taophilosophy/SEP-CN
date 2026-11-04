@@ -1,0 +1,348 @@
+{
+ "key": "quantity",
+ "term": "quantity",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:45+00:00",
+ "status": "ok",
+ "note": "variant=quantity; 审定公布名词库=1084; 海峡两岸名词对照库=201; 其他来源数据库=32; 预公布名词数据库=95; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "量",
+   "en": "quantity",
+   "code": "01.001",
+   "standard": "计量学名词",
+   "subject": "计量学_计量学通用名词_量和单位"
+  },
+  {
+   "cn": "量",
+   "en": "quantity",
+   "code": "01.0005",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "量值溯源",
+   "en": "quantity traceability",
+   "code": "18.096",
+   "standard": "农学名词",
+   "subject": "农产品质量安全_农产品质量安全监测"
+  },
+  {
+   "cn": "预算员",
+   "en": "quantity surveyor",
+   "code": "03.0248",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林管理_工程项目管理"
+  },
+  {
+   "cn": "数量折扣",
+   "en": "quantity discount",
+   "code": "07.110",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_企业经营管理"
+  },
+  {
+   "cn": "［累计］总量表",
+   "en": "quantity meter",
+   "code": "03.0164",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_传递过程与单元操作"
+  },
+  {
+   "cn": "数量验收",
+   "en": "quantity acceptance",
+   "code": "09.0607",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理"
+  },
+  {
+   "cn": "总量管理",
+   "en": "quantity management",
+   "code": "07.0802",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_其他"
+  },
+  {
+   "cn": "数量折扣",
+   "en": "quantity discount",
+   "code": "05.0319",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_生产运作管理与工业工程_生产运作管理"
+  },
+  {
+   "cn": "量方程",
+   "en": "quantity equation",
+   "code": "01.024",
+   "standard": "计量学名词",
+   "subject": "计量学_计量学通用名词_量和单位"
+  },
+  {
+   "cn": "数量地理学",
+   "en": "quantity geography",
+   "code": "25.001",
+   "standard": "地理学名词",
+   "subject": "地理学_数量地理学"
+  },
+  {
+   "cn": "数量因素",
+   "en": "quantity factor",
+   "code": "06.104",
+   "standard": "土壤学名词",
+   "subject": "土壤学_农业化学"
+  },
+  {
+   "cn": "量",
+   "en": "quantity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "字量",
+   "en": "Hanzi quantity\",\"character quantity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "［累计］总量表",
+   "en": "quantity meter",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "大量生产",
+   "en": "quantity production",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "广延量",
+   "en": "extensive quantity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "内在量",
+   "en": "intensive quantity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "特征量",
+   "en": "characteristic quantity",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "交货数量",
+   "en": "delivered quantity",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "贸易量",
+   "en": "trade quantity",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "场量",
+   "en": "field quantity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "电量",
+   "en": "electric quantities",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "物理量",
+   "en": "physical quantity",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "信息量",
+   "en": "information quantity",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "进球数",
+   "en": "quantity of goals",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "进球数",
+   "en": "quantity of goals",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "从制造大国转向制造强国",
+   "en": "transform China from a manufacturer of quantity to one of quality",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "分位数",
+   "en": "Quantile",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "品质",
+   "en": "quality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "分位数回归",
+   "en": "Quantile regression",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据质量",
+   "en": "data quality",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "质量保证",
+   "en": "quality assurance",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "空气质量指数",
+   "en": "Air Quality Index",
+   "code": null,
+   "standard": "外语中文译写规范部际联席会议专家委员会",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据质量标准",
+   "en": "data quality standard",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "量",
+   "en": "quantity",
+   "code": "01.0080",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "残留量",
+   "en": "residual quantity",
+   "code": "6.3.2.3",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_安全性检验"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "code": "5.6.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "测量量",
+   "en": "measured quantity",
+   "code": "6.3.4.26",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "均衡数量",
+   "en": "equilibrium quantity",
+   "code": "5.1.1.6.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "法律的量",
+   "en": "quantity of law",
+   "code": "3.7.8.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律文化"
+  },
+  {
+   "cn": "量的多样性",
+   "en": "diversity of quantity",
+   "code": "01.0081",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "市场供给量",
+   "en": "market supply quantity",
+   "code": "5.1.1.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "量值",
+   "en": "value of quantity",
+   "code": "1.5.69",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "供给量变动",
+   "en": "shift in supply quantity",
+   "code": "5.1.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "必要资本量壁垒",
+   "en": "necessary capital quantity barrier",
+   "code": "5.1.6.5.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "S类影响量",
+   "en": "influence quantity of type S",
+   "code": "5.6.12",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

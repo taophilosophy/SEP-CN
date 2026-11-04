@@ -1,0 +1,278 @@
+{
+ "key": "certainty",
+ "term": "certainty",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:44+00:00",
+ "status": "ok",
+ "note": "variant=certainty; 审定公布名词库=116; 海峡两岸名词对照库=21; 其他来源数据库=2; 预公布名词数据库=15; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "确定性分析",
+   "en": "certainty analysis",
+   "code": "13.103",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_化工技术经济"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "code": "13.110",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_化工技术经济"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "certainty decision",
+   "code": "10.172",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "确定性因子方法",
+   "en": "certainty factor theory",
+   "code": "08.0112",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "确定型决策",
+   "en": "decision making under certainty",
+   "code": "01.0042",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_基本概念"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "code": "03.072",
+   "standard": "经济学名词",
+   "subject": "经济学_微观经济学"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "code": "04.0329",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品安全_食品安全风险分析_风险评估"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "code": "02.593",
+   "standard": "化工名词（四）安全·环保·可持续发展",
+   "subject": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "code": "01.0283",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_物理"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "code": "05.0024",
+   "standard": "化工名词(三)化学工程基础",
+   "subject": "化工（三）_数据处理"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "code": "03.0381",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学计量学"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "code": "02.0338",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_运筹与管理_预测理论与方法"
+  },
+  {
+   "cn": "确定因子",
+   "en": "certainty factor",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "确信度",
+   "en": "certainty factor\",\"CF",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "不明阶段",
+   "en": "uncertainty phase",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "最大误差圆",
+   "en": "circle of uncertainty",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "[船位]误差圆",
+   "en": "circle of uncertainty",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "不确定型决策",
+   "en": "decision making under uncertainty",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "污染物达标排放",
+   "en": "pollutant discharge under certain standard",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据高度不确定性",
+   "en": "high uncertainty of data",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "code": "1.4.5.3",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "code": "5.6.22",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "标准不确定度",
+   "en": "standard uncertainty",
+   "code": "5.6.23",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "code": "5.6.27",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "不确定性分析",
+   "en": "uncertainty analysis",
+   "code": "1.4.5.4",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "code": "1.5.66",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险监测"
+  },
+  {
+   "cn": "不确定系数",
+   "en": "uncertainty factor, UF",
+   "code": "1.4.3.40",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "合成标准不确定度",
+   "en": "combined standard uncertainty",
+   "code": "5.6.26",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "code": "5.6.28",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "疾病的不确定性",
+   "en": "uncertainty of disease",
+   "code": "6.2.3.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场"
+  },
+  {
+   "cn": "医疗服务不确定性",
+   "en": "uncertainty of medical service",
+   "code": "5.1.6.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务供给_卫生服务供给"
+  },
+  {
+   "cn": "标准不确定度A类评定",
+   "en": "type A evaluation of standard uncertainty",
+   "code": "5.6.24",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

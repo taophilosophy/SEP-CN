@@ -1,0 +1,348 @@
+{
+ "key": "form",
+ "term": "form",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:45+00:00",
+ "status": "ok",
+ "note": "variant=form; 审定公布名词库=5944; 海峡两岸名词对照库=1137; 其他来源数据库=850; 预公布名词数据库=676; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "形式",
+   "en": "form",
+   "code": "02.046",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_基本概念"
+  },
+  {
+   "cn": "变型",
+   "en": "form",
+   "code": "02.0049",
+   "standard": "植物学名词",
+   "subject": "植物学_系统与进化植物学"
+  },
+  {
+   "cn": "形式",
+   "en": "form",
+   "code": "01.107",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "形式",
+   "en": "form",
+   "code": "01.107",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "模板",
+   "en": "form",
+   "code": "02.0956",
+   "standard": "铁道科学技术名词",
+   "subject": "铁道科学技术_铁道工程建设"
+  },
+  {
+   "cn": "型",
+   "en": "form",
+   "code": "02.0097",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_型"
+  },
+  {
+   "cn": "形状",
+   "en": "shape,form",
+   "code": "06.033",
+   "standard": "中医药学名词",
+   "subject": "中医药学_中药学_中药学总论"
+  },
+  {
+   "cn": "形音义互求",
+   "en": "form,sound and meaning prove each other",
+   "code": "10.061",
+   "standard": "语言学名词",
+   "subject": "语言学_训诂学_训诂方法与禁忌"
+  },
+  {
+   "cn": "成形",
+   "en": "forming",
+   "code": "03.004",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_锻压_一般名词"
+  },
+  {
+   "cn": "[粉末]成形",
+   "en": "forming",
+   "code": "07.085",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_粉末冶金_压制及成形"
+  },
+  {
+   "cn": "成形加工",
+   "en": "forming",
+   "code": "09.095",
+   "standard": "机械工程名词 第二分册",
+   "subject": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_切削加工工艺_切削加工方法"
+  },
+  {
+   "cn": "成形",
+   "en": "forming",
+   "code": "09.0373",
+   "standard": "冶金学名词",
+   "subject": "冶金学_金属加工_一般术语"
+  },
+  {
+   "cn": "变型",
+   "en": "form",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "曲式",
+   "en": "form",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "成形",
+   "en": "forming",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "成形法",
+   "en": "forming",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "生活型",
+   "en": "life form\",\"vegetative form",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "字形",
+   "en": "Hanzi form\",\"character form",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "型",
+   "en": "forma\",\"form",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "铺装成型",
+   "en": "mat forming\",\"spread forming",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "形状阻力",
+   "en": "form drag",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "形状阻力",
+   "en": "form drag",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "形态线",
+   "en": "form lines",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "报表轮转印刷机",
+   "en": "form press",
+   "code": null,
+   "standard": "海峡两岸测绘学名词",
+   "subject": "测绘学"
+  },
+  {
+   "cn": "竞技状态",
+   "en": "form",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "姿势",
+   "en": "form",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "姿势裁判员",
+   "en": "form judge",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "自守形式",
+   "en": "Automorphic form",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "标准化形式",
+   "en": "standardization form",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "机械加工",
+   "en": "forming (metalworking)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "螺纹加工",
+   "en": "（Forming (metalworking)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "格调",
+   "en": "Form and Melody",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "形名",
+   "en": "Form and Name",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "形神",
+   "en": "Form and Spirit",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "记录表",
+   "en": "scoresheet\",\"scoring form",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_摔跤名词"
+  },
+  {
+   "cn": "形式",
+   "en": "form",
+   "code": "01.0055",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "零形式",
+   "en": "zero form",
+   "code": "5.0064",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族语文研究_理论与概念"
+  },
+  {
+   "cn": "社会形式",
+   "en": "social form",
+   "code": "2.1.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会形式"
+  },
+  {
+   "cn": "组织形态",
+   "en": "organizational form",
+   "code": "2.5.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social forms",
+   "code": "1.0327",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "养成教育",
+   "en": "formative education",
+   "code": "3.16.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青少年政策"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "code": "5.8.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "code": "17.1.4.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队健康教育与健康促进_军队健康教育"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "code": "01.0057",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "价值形式",
+   "en": "form of value",
+   "code": "02.0056",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "所有制形式",
+   "en": "forms of ownership",
+   "code": "02.0010",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "消毒剂型",
+   "en": "disinfector dosage form",
+   "code": "5.2.7",
+   "standard": "消毒学",
+   "subject": "消毒学_监督管理_产品监管"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

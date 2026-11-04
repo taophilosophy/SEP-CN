@@ -1,0 +1,348 @@
+{
+ "key": "mind",
+ "term": "mind",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-04T21:05:45+00:00",
+ "status": "ok",
+ "note": "variant=mind; 审定公布名词库=1962; 海峡两岸名词对照库=379; 其他来源数据库=81; 预公布名词数据库=25; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "心智",
+   "en": "mind",
+   "code": "03.560",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "code": "4.001",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的心理学基础_心理与行为"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "code": "04.001",
+   "standard": "计划生育名词",
+   "subject": "计划生育_生殖健康心理卫生"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "code": "04.001",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "code": "5.008",
+   "standard": "睡眠医学名词",
+   "subject": "睡眠医学_睡眠疾病治疗学_认知行为治疗"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "code": "20.066",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为干预与治疗_行为治疗"
+  },
+  {
+   "cn": "读心术",
+   "en": "mind-reading",
+   "code": "03.499",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "code": "06.216",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_思维与创造"
+  },
+  {
+   "cn": "思想管理者",
+   "en": "mind manager",
+   "code": "18.125",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_重要概念"
+  },
+  {
+   "cn": "理念识别",
+   "en": "mind identity",
+   "code": "20.106",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_公共关系_公关关系技术"
+  },
+  {
+   "cn": "意守",
+   "en": "mind concentration",
+   "code": "08.105",
+   "standard": "运动医学名词",
+   "subject": "运动医学_中医药应用"
+  },
+  {
+   "cn": "读心症",
+   "en": "mind-reading",
+   "code": "08.081",
+   "standard": "医学名词 第四分册",
+   "subject": "医学_精神病学"
+  },
+  {
+   "cn": "心身关系",
+   "en": "mind body relation",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "心身问题",
+   "en": "mind body problem",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "心理理论",
+   "en": "theory of mind",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "信念-欲望心智理论",
+   "en": "belief desire theory of mind",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "正念认知治疗",
+   "en": "mindfulness based cognitive therapy\",\"MBCT",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "风",
+   "en": "wind",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "查找，搜索",
+   "en": "find",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "水雷",
+   "en": "mine",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "逆风",
+   "en": "head wind\",\"opposing wind",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "下坡风",
+   "en": "downslope wind\",\"katabatic wind",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "风速",
+   "en": "wind velocity\",\"wind speed",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "航行风",
+   "en": "navigation wind\",\"ship wind",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "心智",
+   "en": "mind；",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "心",
+   "en": "Heart / Mind",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "成心",
+   "en": "Biased Mind",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "正心",
+   "en": "Rectify One’s Heart / Mind",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "教化",
+   "en": "Shaping the Mind Through Education",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "有容乃大",
+   "en": "A Broad Mind Achieves Greatness.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "解蔽",
+   "en": "Clear the Mind of Enigmas",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "code": "03.0560",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "自然类",
+   "en": "natural kind",
+   "code": "03.193",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "低度近视",
+   "en": "mild myopia",
+   "code": "3.2.2.4.1.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测"
+  },
+  {
+   "cn": "轻症中暑",
+   "en": "mild heatstroke",
+   "code": "4.3.3.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_高温作业"
+  },
+  {
+   "cn": "风速",
+   "en": "wind speed",
+   "code": "4.2.3.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "code": "4.2.3.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热环境"
+  },
+  {
+   "cn": "闽越",
+   "en": "Min Yue",
+   "code": "3.0148",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  },
+  {
+   "cn": "实物工资",
+   "en": "wage in kind",
+   "code": "02.0150",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "实物地租",
+   "en": "rent in kind",
+   "code": "02.0275",
+   "standard": "马克思主义",
+   "subject": "马克思主义_政治经济学_马克思恩格斯时期"
+  },
+  {
+   "cn": "风冷指数",
+   "en": "wind chill index",
+   "code": "3.2.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_寒区军事卫生_环境冷强度"
+  },
+  {
+   "cn": "风雨桥",
+   "en": "wind-rain bridge",
+   "code": "4.0096",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "中期评价",
+   "en": "mid-term evaluation",
+   "code": "2.9.2.4.1.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
