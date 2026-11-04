@@ -108,3 +108,9 @@
 * 修复：citation_author 溯源重建（名前姓后，多作者 SEP 格式 `A, B, and C`），SUMMARY/mu-lu-s/词条 H1 三链同步 64 条。
 * 抽验：The Ethics of Abortion (Elizabeth Harman)、Implicature (Robert van Rooij and Michael Franke) ✓；剩余逗号形态为三作者分隔（合法豁免）。
 * 双门禁绿。
+
+## 2026-11-04 作者署名行体例归一（aesthetics-of-everyday 深读发现）
+
+* 发现：词条内作者署名行（`*Last, First*`）倒装残留 5 处（aesthetics-18th-british/french、aesthetics-of-everyday、boethius-dacia、intuitionism-ethics）——与 87 条汉译正装署名行体例不一。
+* 修复：citation_author 溯源正装化 5 处（*James Shelley* 等）；汉译登记（与 87 条汉译署名行统一）待后续批次——署名行的译名归属人名表域。
+* slug 前缀坑第三次踩中（en/ 平铺结构 vs a/x.md 带前缀），工具函数统一记入。
