@@ -877,7 +877,7 @@
 |Lernfreiheit|学习自由|德语：学生的选课与学习自由；亦作“学的自由”；德式学术自由传统与 Lehrfreiheit 相对；首次出现宜括注原文|
 |Leucippus|留基伯||
 |liberalism|自由主义||
-|Libertas philosophandi|哲学思考自由|亦作“哲思自由”；拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
+|Libertas philosophandi|哲学思考自由|亦作“哲思自由”；亦作“哲学自由”；拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
 |logical constants|逻辑常项|逻辑学|
 |logical atomism|逻辑原子主义||
 |logicism|逻辑主义||

@@ -66,6 +66,9 @@ def load_tasks():
     tasks, bad = [], 0
     tdir = os.path.join(ROOT, 'tasks')
     for dirpath, _, filenames in os.walk(tdir):
+        if os.path.basename(dirpath) == 'manifests':
+            # 战役清单目录（008 术语战役 manifest 等批量 JSON）不是逐词条任务记录，不扫
+            continue
         for fn in filenames:
             if fn.endswith('.json'):
                 try:
@@ -74,10 +77,12 @@ def load_tasks():
                     print('警告：任务文件解析失败 %s: %s' % (fn, exc))
                     bad += 1
                     continue
+                if isinstance(data, dict) and data.get('state') is None \
+                        and not data.get('steps'):
+                    # 无状态机的登记册/数据池（如 term-candidates 术语候选册、
+                    # term-pool 术语候选池）不是任务，不计入
+                    continue
                 if isinstance(data, dict) and data.get('slug'):
-                    if data.get('state') is None and not data.get('steps'):
-                        # 无状态机的登记册文件（如 term-candidates 术语候选册）不是任务，不计入
-                        continue
                     tasks.append(data)
                 else:
                     bad += 1

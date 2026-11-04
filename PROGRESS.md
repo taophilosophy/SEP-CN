@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-04 16:04（UTC）
+生成时间：2026-11-04 19:57（UTC）
 
 ## 总览
 
@@ -12,23 +12,23 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|995|
+|已建任务|997|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|79|
-|在途（drafted 起、done 前）|281|
+|已完成（done）|82|
+|在途（drafted 起、done 前）|282|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|635|
-|cleared|200|
+|pending|633|
+|cleared|194|
 |drafted|2|
 |s1_checked|1|
-|s3_checked|74|
-|r1_reviewed|4|
-|done|79|
+|s3_checked|80|
+|r1_reviewed|5|
+|done|82|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -44,14 +44,14 @@
 |H|61|61|61|6|
 |I|75|75|75|18|
 |J|38|38|38|4|
-|K|36|36|36|7|
+|K|36|36|36|10|
 |L|144|144|19|0|
 |M|139|139|9|0|
 |N|50|50|2|0|
 |O|21|21|1|0|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|8|2|
+|R|85|85|9|2|
 |S|161|161|6|1|
 |T|71|71|2|0|
 |U|4|4|0|0|
@@ -65,6 +65,7 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
+|18thGerman-preKant|retranslate|cleared|task_ops 2026-11-04|
 |addams-jane|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |adorno|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-judgment|retranslate|cleared|task_ops 2026-10-31|
@@ -100,7 +101,7 @@
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
 |beauvoir|retranslate|cleared|task_ops 2026-11-01|
-|behaviorism|retranslate|cleared|task_ops 2026-11-01|
+|behaviorism|retranslate|s3_checked|? 2026-11-04|
 |belief|retranslate|cleared|task_ops 2026-11-01|
 |belief-merging|retranslate|cleared|task_ops 2026-11-01|
 |bell-theorem|retranslate|cleared|task_ops 2026-11-01|
@@ -183,8 +184,8 @@
 |delmedigo|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
 |democritus|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
-|descartes-ethics|retranslate|cleared|task_ops 2026-10-31|
-|descartes-ideas|retranslate|cleared|task_ops 2026-11-01|
+|descartes-ethics|retranslate|s3_checked|? 2026-11-04|
+|descartes-ideas|retranslate|s3_checked|? 2026-11-04|
 |descartes-ontological|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
 |descartes-works|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
 |dewey-moral|retranslate|s3_checked|ykla 2026-11-01|
@@ -198,7 +199,7 @@
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |elias|retranslate|s3_checked|main 2026-11-01|
 |elisabeth-bohemia|retranslate|s3_checked|main 2026-11-01|
-|emilie-du-chatelet|retranslate|cleared|task_ops 2026-11-01|
+|emilie-du-chatelet|retranslate|s3_checked|? 2026-11-04|
 |emotion-Christian-tradition|retranslate|s3_checked|? 2026-11-03|
 |envy|retranslate|s3_checked|main 2026-11-01|
 |epictetus|retranslate|s3_checked|main 2026-11-01|
@@ -308,8 +309,6 @@
 |kant-hume-causality|retranslate|cleared|task_ops 2026-11-01|
 |kant-hume-morality|retranslate|cleared|task_ops 2026-11-01|
 |kant-judgment|retranslate|cleared|task_ops 2026-11-01|
-|kant-metaphysics|retranslate|cleared|task_ops 2026-11-01|
-|kant-mind|retranslate|cleared|task_ops 2026-11-01|
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
 |kant-reason|retranslate|cleared|task_ops 2026-11-01|
 |kant-religion|retranslate|cleared|task_ops 2026-11-01|
@@ -323,7 +322,6 @@
 |knowledge-analysis|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-value|retranslate|cleared|task_ops 2026-11-01|
-|kochen-specker|retranslate|cleared|task_ops 2026-11-01|
 |korean-buddhism|retranslate|cleared|task_ops 2026-11-01|
 |korean-confucianism|retranslate|cleared|task_ops 2026-11-01|
 |korean-philosophy|retranslate|cleared|task_ops 2026-11-01|
@@ -333,7 +331,7 @@
 |lady-masham|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |lakatos|retranslate|cleared|task_ops 2026-11-03|
 |lambert-auxerre|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
-|landmann-kalischer|retranslate|cleared|task_ops 2026-11-04|
+|landmann-kalischer|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |law-ideology|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |lawphil-theory|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |legrand|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
@@ -343,6 +341,9 @@
 |leibniz-mind|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |leibniz-modal|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
+|locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
+|logic-preference|retranslate|cleared|task_ops 2026-11-04|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|reasoning-analogy|retranslate|cleared|task_ops 2026-11-03|
+|reasoning-analogy|retranslate|r1_reviewed|RZ-main-20261104 2026-11-04|
+|religious-experience|retranslate|cleared|task_ops 2026-11-04|

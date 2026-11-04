@@ -509,7 +509,7 @@
 | René Descartes | 勒内·笛卡尔 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Tsongkhapa | 宗喀巴（tsong kha pa blo bzang grags pa，1357–1419） | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Nāgārjuna | 龙树 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
-| Candrakīrti | 月称 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
+| Candrakīrti | 月称 | gelukpa | 佛学界通行汉译（中观应成派） | 2026-11-01 |
 | Dharmakīrti | 法称 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Buddhapālita | 佛护 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Changkya Rolpé Dorjé | 章嘉·若必多吉（lcang skya rol pa'i rdo rje，1717–1786） | gelukpa | 藏传佛教通行汉译（章嘉活佛） | 2026-11-01 |
@@ -699,8 +699,6 @@
 | Juzhi | 俱胝 | buddhism-chan | 佛学界通行汉译（俱胝和尚，一指禅） | 2026-11-05 |
 | Fazang | 法藏 | buddhism-chan | 佛学界通行汉译（华严三祖） | 2026-11-05 |
 | Zhiyi | 智顗 | buddhism-chan | 佛学界通行汉译（天台智者大师） | 2026-11-05 |
-| Nāgārjuna | 龙树 | buddhism-chan | 佛学界千年通行译名 | 2026-11-05 |
-| Candrakīrti | 月称 | buddhism-chan | 佛学界通行汉译（中观应成派） | 2026-11-05 |
 | Song Xiaozong | 宋孝宗 | buddhism-chan | 学界千年通行译名（谥号+庙号体例） | 2026-11-05 |
 | Mahākāśyapa | 摩诃迦叶 | buddhism-chan | 佛学界通行汉译（拈花微笑） | 2026-11-05 |
 | Angulimāla | 鸯掘摩罗 | buddhism-chan | 佛学界通行汉译（《中部》86 经） | 2026-11-05 |
