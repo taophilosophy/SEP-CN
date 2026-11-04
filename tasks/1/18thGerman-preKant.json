@@ -2,7 +2,7 @@
   "slug": "18thGerman-preKant",
   "kind": "retranslate",
   "zh_doc": "1/18thGerman-preKant.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,13 @@
       "actor": "zcode-digit1-20261105",
       "at": "2026-11-04T20:42:46Z",
       "evidence": "prose 60→19（41 实修+19 豁免留痕，含错字修正）；style 复跑 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "zcode-digit1-20261105",
+      "at": "2026-11-04T20:45:24Z",
+      "evidence": "check_style 0 issue；check_academic --strict 0 硬错误；markdownlint 本词条 0 错（报错 3 处均非本文件：SUMMARY MD041/测试夹具/登记册 MD058 均既有）；脚注键双库比对 162=162 全对齐；『孤立引用 key』为转换器注记字面文本（yuanwen 同构，现制豁免覆盖）；孤立定义为文献表推荐文献（源文即无正文引用，照录机制）；check_mulu_s 0；登记册一致性 check_terms 0 缺译法"
     }
   ],
   "blockers": [],
