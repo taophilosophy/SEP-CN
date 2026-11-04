@@ -1,0 +1,972 @@
+version: 1
+slug: logic-provability
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Provability logic is a modal logic that is used to investigate what arithmetical theories can express in a restricted language about their provability predicates. The logic has been inspired by developments in meta-mathematics such as Gödel’s incompleteness theorems of 1931 and Löb’s theorem of 1953. As a modal logic, provability logic has been studied since the early seventies, and has had important applications in the foundations of mathematics.
+    step1: |-
+      可证性逻辑是一个模态逻辑，用于研究算术理论能以受限语言就其可证性谓词表达些什么。这一逻辑受元数学发展的启发，如哥德尔 1931 年的不完备性定理与 Löb 1953 年的定理。作为一个模态逻辑，可证性逻辑自七十年代初以来被持续研究，并在数学基础中有重要应用。
+    step2: |-
+      可证性逻辑是一个模态逻辑，用于研究算术理论能以受限语言就其可证性谓词表达些什么。这一逻辑受元数学发展的启发，如哥德尔 1931 年的不完备性定理与 Löb 1953 年的定理。作为模态逻辑，它自七十年代初以来被持续研究，并在数学基础中有重要应用。
+  - id: 2
+    kind: body
+    source: |-
+      From a philosophical point of view, provability logic is interesting because the concept of provability in a fixed theory of arithmetic has a unique and non-problematic meaning, other than concepts like necessity and knowledge studied in modal and epistemic logic. Furthermore, provability logic provides tools to study the notion of self-reference.
+    step1: |-
+      从哲学的观点看，可证性逻辑之所以有趣，是因为在一个固定的算术理论中，可证性概念有独特而无争议的含义——不同于模态逻辑与认知逻辑所研究的必然性与知识等概念。此外，可证性逻辑为研究自指概念提供了工具。
+    step2: |-
+      从哲学的观点看，可证性逻辑之所以有趣，是因为在一个固定的算术理论中，可证性概念有独特而无争议的含义——不同于模态逻辑与认知逻辑所研究的必然性与知识等概念。此外，可证性逻辑为研究自指概念提供了工具。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. The history of provability logic
+    step1: |-
+      ## 1 可证性逻辑的历史
+    step2: |-
+      ## 1 可证性逻辑的历史
+  - id: 4
+    kind: body
+    source: |-
+      Two strands of research have led to the birth of provability logic. The first one stems from a paper by K. Gödel (1933), where he introduces translations from intuitionistic propositional logic into modal logic (more precisely, into the system nowadays called S4), and briefly mentions that provability can be viewed as a modal operator. Even earlier, C.I. Lewis started the modern study of modal logic by introducing strict implication as a kind of deducibility, where he may have meant deducibility in a formal system like Principia Mathematica, but this is not clear from his writings.
+    step1: |-
+      两条研究脉络催生了可证性逻辑。第一条源自 K. Gödel（1933）的一篇论文：他在其中给出从直觉主义命题逻辑到模态逻辑（更准确地说，到今天所谓的 S4 系统）的翻译，并简短提及可证性可以被视为一个模态算子。更早之前，C.I. Lewis 以严格蕴涵作为一种演绎性（deducibility）开启了模态逻辑的现代研究——他心中的演绎或许指《数学原理》这类形式系统中的演绎，但其著作对此并不明确。
+    step2: |-
+      两条研究脉络催生了可证性逻辑。第一条源自 K. Gödel（1933）的一篇论文：他在其中给出从直觉主义命题逻辑到模态逻辑（更准确地说，到今天所谓的 S4 系统）的翻译，并简短提及可证性可被视为一个模态算子。更早之前，C.I. Lewis 以严格蕴涵作为一种演绎性（deducibility）开启模态逻辑的现代研究——他心中的演绎或许指《数学原理》这类形式系统中的演绎，但其著作对此并不明确。
+  - id: 5
+    kind: body
+    source: |-
+      The other strand starts from research in meta-mathematics: what can mathematical theories say about themselves by encoding interesting properties? In 1952, L. Henkin posed a deceptively simple question inspired by Gödel’s incompleteness theorems. In order to formulate Henkin’s question, some more background is needed. As a reminder, Gödel’s first incompleteness theorem states that, for a sufficiently strong formal theory like Peano Arithmetic, any sentence asserting its own unprovability is in fact unprovable. On the other hand, from “outside” the formal theory, one can see that such a sentence is true in the standard model, pointing to an important distinction between truth and provability.
+    step1: |-
+      另一条脉络始于元数学研究：数学理论通过编码有趣的性质，能对自身说些什么？1952 年，L. Henkin 受哥德尔不完备性定理启发，提出一个看似简单的问题。为表述 Henkin 的问题，需要一些背景。回顾一下：哥德尔第一不完备性定理说，对像皮亚诺算术这样足够强的形式理论而言，任何断言自身不可证的句子事实上不可证。另一方面，从形式理论“外部”可以看出：这样的句子在标准模型中为真——这指出了真与可证之间的一个重要区分。
+    step2: |-
+      另一条脉络始于元数学研究：数学理论通过编码有趣的性质，能对自身说些什么？1952 年，L. Henkin 受哥德尔不完备性定理启发，提出一个看似简单的问题。为表述 Henkin 的问题，需要一些背景。回顾一下：哥德尔第一不完备性定理说，对像皮亚诺算术这样足够强的形式理论而言，任何断言自身不可证的句子事实上不可证。另一方面，从形式理论“外部”可以看出：这样的句子在标准模型中为真——这指出了真与可证之间的一个重要区分。
+  - id: 6
+    kind: body
+    source: |-
+      More formally, let $\ulcorner A \urcorner$ denote the Gödel number of arithmetical formula $A$, which is the result of assigning a numerical code to $A$. Let $\Prov$ be the formalized provability predicate for Peano Arithmetic, which is of the form $\exists p \, \Proof(p,x)$. Here, $\Proof$ is the formalized proof predicate of Peano Arithmetic, and $\Proof(p,x)$ stands for “Gödel number $p$ codes a correct proof from the axioms of Peano Arithmetic of the formula with Gödel number $x$”. (For a more precise formulation, see Smoryński (1985), Davis (1958).) Now, suppose that Peano Arithmetic proves $A \leftrightarrow \neg$ $\Prov (\ulcorner A \urcorner)$, then by Gödel’s result, $A$ is not provable in Peano Arithmetic, and thus it is true, for in fact the self-referential sentence $A$ states “I am not provable”.
+    step1: |-
+      更形式化地说，令 $\ulcorner A \urcorner$ 表示算术公式 $A$ 的哥德尔数，即给 $A$ 指派数值代码的结果。令 $\Prov$ 表示皮亚诺算术的形式化可证性谓词，其形式为 $\exists p \, \Proof(p,x)$。这里 $\Proof$ 是皮亚诺算术的形式化证明谓词，$\Proof(p,x)$ 表示“哥德尔数 $p$ 为以哥德尔数 $x$ 编码的公式编码了一个出自皮亚诺算术公理的正确证明”。（更精确的表述见 Smoryński (1985), Davis (1958)。）现在假设皮亚诺算术证明 $A \leftrightarrow \neg$ $\Prov (\ulcorner A \urcorner)$，那么由哥德尔的结果，$A$ 在皮亚诺算术中不可证，因而为真——因为自指句子 $A$ 说的正是“我不可证”。
+    step2: |-
+      更形式化地说，令 $\ulcorner A \urcorner$ 表示算术公式 $A$ 的哥德尔数，即给 $A$ 指派数值代码的结果。令 $\Prov$ 表示皮亚诺算术的形式化可证性谓词，其形式为 $\exists p \, \Proof(p,x)$。这里 $\Proof$ 是皮亚诺算术的形式化证明谓词，$\Proof(p,x)$ 表示“哥德尔数 $p$ 为以哥德尔数 $x$ 编码的公式编码了一个出自皮亚诺算术公理的正确证明”。（更精确的表述见 Smoryński (1985), Davis (1958)。）现在假设皮亚诺算术证明 $A \leftrightarrow \neg$ $\Prov (\ulcorner A \urcorner)$，那么由哥德尔的结果，$A$ 在皮亚诺算术中不可证，因而为真——因为自指句子 $A$ 说的正是“我不可证”。
+  - id: 7
+    kind: body
+    source: |-
+      Henkin on the other hand wanted to know whether anything could be said about sentences asserting their own provability: supposing that Peano Arithmetic proves $B \leftrightarrow \Prov(\ulcorner B \urcorner)$, what does this imply about $B$? Three years later, M. Löb took up the challenge and answered Henkin’s question in a surprising way. Even though all sentences provable in Peano Arithmetic are indeed true about the natural numbers, Löb showed that the formalized version of this fact, $\Prov(\ulcorner B \urcorner) \rightarrow B$, can be proved in Peano Arithmetic only in the trivial case that Peano Arithmetic already proves $B$ itself. This result, now called Löb’s theorem, immediately answers Henkin’s question. (For a proof of Löb’s theorem, see Section 4.) Löb also showed a formalized version of his theorem, namely that Peano Arithmetic proves
+
+      $$ \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow B\urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ). $$
+    step1: |-
+      Henkin 则想知道：对于断言自身可证性的句子能说些什么？假设皮亚诺算术证明 $B \leftrightarrow \Prov(\ulcorner B \urcorner)$，这对 $B$ 意味着什么？三年后，M. Löb 接下这一挑战，以令人惊讶的方式回答了 Henkin 的问题。虽然在皮亚诺算术中可证的一切句子关于自然数确实为真，Löb 却证明：这一事实的形式化版本 $\Prov(\ulcorner B \urcorner) \rightarrow B$ 只有在皮亚诺算术本来就证明 $B$ 的平凡情形下才能在皮亚诺算术中得证。这一结果如今称为 Löb 定理，它立即回答了 Henkin 的问题。（Löb 定理的证明见第 4 节。）Löb 还给出了其定理的形式化版本，即皮亚诺算术证明
+    step2: |-
+      Henkin 则想知道：对于断言自身可证性的句子能说些什么？假设皮亚诺算术证明 $B \leftrightarrow \Prov(\ulcorner B \urcorner)$，这对 $B$ 意味着什么？三年后，M. Löb 接下这一挑战，以令人惊讶的方式回答了 Henkin 的问题。虽然在皮亚诺算术中可证的一切句子关于自然数确实为真，Löb 却证明：这一事实的形式化版本 $\Prov(\ulcorner B \urcorner) \rightarrow B$ 只有在皮亚诺算术本来就证明 $B$ 的平凡情形下才能在皮亚诺算术中得证。这一结果如今称为 Löb 定理，立即回答了 Henkin 的问题。（Löb 定理的证明见第 4 节。）Löb 还给出其定理的形式化版本，即皮亚诺算术证明
+  - id: 8
+    kind: body
+    source: |-
+      In the same paper, Löb formulated three conditions on the provability predicate of Peano Arithmetic, that form a useful modification of the complicated conditions that Hilbert and Bernays introduced in 1939 for their proof of Gödel’s second incompleteness theorem. In the following, derivability of $A$ from Peano Arithmetic is denoted by $\PA \vdash A$:
+    step1: |-
+      In the same paper, Löb formulated three conditions on the provability predicate of Peano Arithmetic, that form a useful modification of the complicated conditions that Hilbert and Bernays introduced in 1939 for their proof of Gödel’s second incompleteness theorem. In the following, derivability of $A$ from Peano Arithmetic is denoted by $\PA \vdash A$:
+    step2: |-
+      In the same paper, Löb formulated three conditions on the provability predicate of Peano Arithmetic, that form a useful modification of the complicated conditions that Hilbert and Bernays introduced in 1939 for their proof of Gödel’s second incompleteness theorem. In the following, derivability of $A$ from Peano Arithmetic is denoted by $\PA \vdash A$:
+  - id: 9
+    kind: body
+    source: |-
+      1. If $\PA \vdash A$, then $\PA \vdash \Prov(\ulcorner A \urcorner )$;
+      2. $\PA \vdash \Prov(\ulcorner A\rightarrow B\urcorner) \rightarrow ( \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ));$
+      3. $\PA \vdash \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner A \urcorner ) \urcorner ).$
+    step1: |-
+      1. If $\PA \vdash A$, then $\PA \vdash \Prov(\ulcorner A \urcorner )$;
+      2. $\PA \vdash \Prov(\ulcorner A\rightarrow B\urcorner) \rightarrow ( \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ));$
+      3. $\PA \vdash \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner A \urcorner ) \urcorner ).$
+    step2: |-
+      1. If $\PA \vdash A$, then $\PA \vdash \Prov(\ulcorner A \urcorner )$;
+      2. $\PA \vdash \Prov(\ulcorner A\rightarrow B\urcorner) \rightarrow ( \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ));$
+      3. $\PA \vdash \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner A \urcorner ) \urcorner ).$
+  - id: 10
+    kind: body
+    source: |-
+      These Löb conditions, as they are called nowadays, seem to cry out for a modal logical investigation, where the modality $\Box$ stands for provability in PA. Ironically, the first time that the formalized version of Löb’s theorem was stated as the modal principle
+
+      $$ \Box(\Box A \rightarrow A) \rightarrow \Box A $$
+    step1: |-
+      这些如今所谓的 Löb 条件，似乎呼唤一次模态逻辑式的考察，其中模态词 $\Box$ 表示 PA 中的可证性。讽刺的是，Löb 定理的形式化版本第一次作为模态原则
+    step2: |-
+      这些如今所谓的 Löb 条件，似乎呼唤一次模态逻辑式的考察，其中模态词 $\Box$ 表示 PA 中的可证性。讽刺的是，Löb 定理的形式化版本第一次作为模态原则
+  - id: 11
+    kind: body
+    source: |-
+      was in a paper by Smiley in 1963 about the logical basis of ethics, which did not consider arithmetic at all. More relevant investigations, however, seriously started only almost twenty years after publication of Löb’s paper. The early 1970s saw the rapid development of propositional provability logic, where several researchers in different countries independently proved the most important results, discussed in Sections 2, 3, and 4. Propositional provability logic turned out to capture exactly what many formal theories of arithmetic can say by propositional means about their own provability predicate. More recently, researchers have investigated the boundaries of this approach and have proposed several interesting more expressive extensions of provability logic (see Section 5).
+    step1: |-
+      被表述出来，是在 Smiley 1963 年一篇关于伦理学之逻辑基础的论文中——它完全没有考虑算术。然而，更相关的研究直到 Löb 论文发表近二十年后才真正开始。七十年代早期见证了命题可证性逻辑的迅速发展：不同国家的若干研究者各自独立证明了最重要的结果，见第 2、3、4 节的讨论。命题可证性逻辑最终证明恰好捕捉了许多形式算术理论能以命题手段就其自身可证性谓词所表达的内容。晚近，研究者考察了这一进路的边界，并提出若干更有表达力的可证性逻辑扩充（见第 5 节）。
+    step2: |-
+      被表述出来，是在 Smiley 1963 年一篇关于伦理学之逻辑基础的论文中——它完全没有考虑算术。然而，更相关的研究直到 Löb 论文发表近二十年后才真正开始。七十年代早期见证了命题可证性逻辑的迅速发展：不同国家的若干研究者各自独立证明了最重要的结果，见第 2、3、4 节的讨论。命题可证性逻辑最终证明恰好捕捉许多形式算术理论能以命题手段就其自身可证性谓词所表达的内容。晚近，研究者考察这一进路的边界，并提出若干更有表达力的可证性逻辑扩充（见第 5 节）。
+  - id: 12
+    kind: body
+    source: |-
+      ## 2. The axiom system of propositional provability logic
+    step1: |-
+      ## 2 命题可证性逻辑的公理系统
+    step2: |-
+      ## 2 命题可证性逻辑的公理系统
+  - id: 13
+    kind: body
+    source: |-
+      The logical language of propositional provability logic contains, in addition to propositional atoms and the usual truth-functional operators as well as the contradiction symbol $\bot$, a modal operator $\Box$ with intended meaning “is provable in $T$,” where $T$ is a sufficiently strong formal theory, let us say Peano Arithmetic (see Section 4). $\Diamond A$ is an abbreviation for $\neg\,\Box\neg\, A$. Thus, the language is the same as that of modal systems such as K and S4 presented in the entry modal logic.
+    step1: |-
+      命题可证性逻辑的语言，除命题原子、通常的真值函项算子以及矛盾符号 $\bot$ 之外，还含有一个模态算子 $\Box$，其意向含义是“在 $T$ 中可证”，其中 $T$ 是足够强的形式理论——比如皮亚诺算术（见第 4 节）。$\Diamond A$ 是 $\neg\,\Box\neg\, A$ 的缩写。因此，该语言与模态逻辑词条中 K、S4 等系统的语言相同。
+    step2: |-
+      命题可证性逻辑的语言，除命题原子、通常的真值函项算子以及矛盾符号 $\bot$ 外，还含有一个模态算子 $\Box$，其意向含义是“在 $T$ 中可证”，其中 $T$ 是足够强的形式理论——比如皮亚诺算术（见第 4 节）。$\Diamond A$ 是 $\neg\,\Box\neg\, A$ 的缩写。因此，该语言与模态逻辑词条中 K、S4 等系统的语言相同。
+  - id: 14
+    kind: body
+    source: |-
+      ### 2.1 Axioms and rules
+    step1: |-
+      ### 2.1 公理与规则
+    step2: |-
+      ### 2.1 公理与规则
+  - id: 15
+    kind: body
+    source: |-
+      Propositional provability logic is often called GL, after Gödel and Löb. (Alternative names found in the literature for equivalent systems are L, G, KW, K4W, and PrL). The logic GL results from adding the following axiom to the basic modal logic K:
+
+      $$\tag{GL} \Box(\Box A \rightarrow A) \rightarrow \Box A. $$
+    step1: |-
+      命题可证性逻辑常称为 GL，以纪念 Gödel 与 Löb。（文献中见于等价系统的别名有 L、G、KW、K4W 与 PrL。）逻辑 GL 由在基本模态逻辑 K 上添加如下公理而得：
+    step2: |-
+      命题可证性逻辑常称为 GL，以纪念 Gödel 与 Löb。（文献中见于等价系统的别名有 L、G、KW、K4W 与 PrL。）逻辑 GL 由在基本模态逻辑 K 上添加如下公理而得：
+  - id: 16
+    kind: body
+    source: |-
+      As a reminder, because GL extends K, it contains all formulas having the form of a propositional tautology. For the same reason, GL contains the
+
+      $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow \Box B). $$
+    step1: |-
+      回顾一下：由于 GL 扩充 K，它包含一切具有命题重言式形式的公式。同理，GL 包含
+    step2: |-
+      回顾一下：由于 GL 扩充 K，它包含一切具有命题重言式形式的公式。同理，GL 包含
+  - id: 17
+    kind: body
+    source: |-
+      Furthermore, it is closed under the Modus Ponens Rule, which allows to derive $B$ from $A \rightarrow B$ and $A$, and the Generalization Rule, which says that if $A$ is a theorem of GL, then so is $\Box A$.
+    step1: |-
+      此外，它在分离规则下封闭——该规则允许从 $A \rightarrow B$ 与 $A$ 导出 $B$；也在概括规则下封闭——后者说：若 $A$ 是 GL 的定理，则 $\Box A$ 亦然。
+    step2: |-
+      此外，它在分离规则下封闭——该规则允许从 $A \rightarrow B$ 与 $A$ 导出 $B$；也在概括规则下封闭——后者说：若 $A$ 是 GL 的定理，则 $\Box A$ 亦然。
+  - id: 18
+    kind: body
+    source: |-
+      The notion $\GL \vdash A$ denotes provability of a modal formula $A$ in propositional provability logic. It is not difficult to see that the modal axiom $\Box A \rightarrow \Box\Box A$ (known as Axiom 4 of modal logic) is indeed provable in GL. To prove this, one uses the substitution $A \wedge \Box A$ for $A$ in the axiom (GL). Then, seeing that the antecedent of the resulting implication follows from $\Box A$, one applies the Distribution Axiom and the Generalization Rule as well as some propositional logic.
+    step1: |-
+      记号 $\GL \vdash A$ 表示模态公式 $A$ 在命题可证性逻辑中的可证性。不难看出，模态公理 $\Box A \rightarrow \Box\Box A$（即模态逻辑的公理 4）确实在 GL 中可证。为证此，可在公理 (GL) 中以 $A \wedge \Box A$ 代入 $A$。看到所得蕴涵式的前件可从 $\Box A$ 得出后，再应用分配公理与概括规则以及一些命题逻辑即可。
+    step2: |-
+      记号 $\GL \vdash A$ 表示模态公式 $A$ 在命题可证性逻辑中的可证性。不难看出，模态公理 $\Box A \rightarrow \Box\Box A$（即模态逻辑的公理 4）确实在 GL 中可证。为证此，可在公理 (GL) 中以 $A \wedge \Box A$ 代入 $A$。看到所得蕴涵式的前件可从 $\Box A$ 得出后，再应用分配公理与概括规则以及一些命题逻辑即可。
+  - id: 19
+    kind: body
+    source: |-
+      Note that GL proves many unexpected theorems that are not shared with other well-known modal logics such as K and S4. For example, one instantiation of the axiom GL is $\Box(\Box\bot \rightarrow \bot) \rightarrow \Box\bot$, from which it follows by the other axioms and rules that $\Box\Diamond A \rightarrow \Box B$ for any formulas $A$ and $B$.[^note-1] Unless explicitly stated otherwise, in the sequel “provability logic” stands for the system GL of propositional provability logic.
+    step1: |-
+      注意 GL 证明许多出乎意料的定理，它们并不为 K、S4 等其他著名模态逻辑所共享。例如，公理 GL 的一个实例是 $\Box(\Box\bot \rightarrow \bot) \rightarrow \Box\bot$，由其他公理与规则可从它推出：对任意公式 $A$ 与 $B$ 都有 $\Box\Diamond A \rightarrow \Box B$。[^note-1] 除非另有明确说明，下文中的“可证性逻辑”指命题可证性逻辑的系统 GL。
+    step2: |-
+      注意 GL 证明许多出乎意料的定理，它们并不为 K、S4 等其他著名模态逻辑所共享。例如，公理 GL 的一个实例是 $\Box(\Box\bot \rightarrow \bot) \rightarrow \Box\bot$，由其他公理与规则可从它推出：对任意公式 $A$ 与 $B$ 都有 $\Box\Diamond A \rightarrow \Box B$。[^note-1] 除非另有明确说明，下文中的“可证性逻辑”指命题可证性逻辑的系统 GL。
+  - id: 20
+    kind: body
+    source: |-
+      As to the *proof theory* of provability logic, Valentini (1983) proved that a standard sequent calculus formulation of GL obeys *cut elimination*, which means, roughly formulated, that each formula provable from GL in the sequent calculus also has a GL sequent proof “without detours” (see the entry the development of proof theory for a precise explanation of cut elimination). In recent years, there has been renewed interest in the proof theory of GL, see for example Goré and Ramanayake (2008, 2012) and Goré, Ramanayake and Shillito (2021). Cut-elimination leads to the desirable *subformula property* for GL, because all formulas that appear in a cut-free proof are subformulas of the endsequent formulas.
+    step1: |-
+      至于可证性逻辑的*证明论*，Valentini（1983）证明 GL 的一个标准相继式演算表述服从*切割消除*——粗略地说，即每个在相继式演算中从 GL 可证的公式都有一个“无绕行”的 GL 相继式证明（切割消除的精确解释见证明论之发展词条）。近年，GL 的证明论重新受到关注，例如 Goré 与 Ramanayake（2008, 2012）以及 Goré、Ramanayake 与 Shillito（2021）。切割消除为 GL带来理想的*子公式性质*：无切割证明中出现的所有公式都是末端相继式公式的子公式。
+    step2: |-
+      至于可证性逻辑的*证明论*，Valentini（1983）证明 GL 的一个标准相继式演算表述服从*切割消除*——粗略地说，即每个在相继式演算中从 GL 可证的公式都有一个“无绕行”的 GL 相继式证明（切割消除的精确解释见证明论之发展词条）。近年，GL 的证明论重新受到关注，例如 Goré 与 Ramanayake（2008, 2012）以及 Goré、Ramanayake 与 Shillito（2021）。切割消除为 GL 带来理想的*子公式性质*：无切割证明中出现的所有公式都是末端相继式公式的子公式。
+  - id: 21
+    kind: body
+    source: |-
+      For recent proof-theoretic investigations of provability logic based on different cut-free sequent calculi see (Negri 2005, 2014; Poggiolesi 2009)[^negri-2005][^poggiolesi-2009]. Negri presents two equivalent labelled sequent calculi for GL and a syntactic proof of cut elimination. Even if a full subformula property does not hold for these calculi because of the labelling, the usual consequences of the subformula property can be established: The labelled formalism allows a direct completeness proof, which can be used to establish decidability as well as the finite model property, which means that any formula that is not provable has a *finite* counter-model.
+    step1: |-
+      关于可证性逻辑基于不同无切割相继式演算的晚近证明论研究，见（Negri 2005, 2014; Poggiolesi 2009）[^negri-2005][^poggiolesi-2009]。Negri 给出 GL 的两个等价带标记相继式演算与切割消除的语法证明。尽管因标记的缘故这些演算不满足完整的子公式性质，子公式性质的惯常推论仍可确立：带标记的形式体系允许直接完全性证明，可用于确立可判定性与有穷模型性质——即任何不可证的公式都有一个*有穷*反模型。
+    step2: |-
+      关于可证性逻辑基于不同无切割相继式演算的晚近证明论研究，见（Negri 2005, 2014; Poggiolesi 2009）[^negri-2005][^poggiolesi-2009]。Negri 给出 GL 的两个等价带标记相继式演算与切割消除的语法证明。尽管因标记的缘故这些演算不满足完整的子公式性质，子公式性质的惯常推论仍可确立：带标记的形式体系允许直接完全性证明，可用于确立可判定性与有穷模型性质——即任何不可证的公式都有一个*有穷*反模型。
+  - id: 22
+    kind: body
+    source: |-
+      An intriguing new proof-theoretical development is Shamkanov’s expansion of sequent-style proof systems by allowing *circular proofs* (Shamkanov 2014)[^shamkanov-2014]. Consider a sequent system for K4, the modal system resulting from GL by replacing the axiom GL by the weaker axiom $\Box A \rightarrow \Box\Box A$ (axiom 4). However, suppose that open hypotheses are allowed, provided that the same sequent occurs strictly below that hypothesis in the proof tree. Formulated more technically, one can find a circular derivation from an ordinary derivation tree by linking each of its non-axiomatic leaves with an identical interior node. Shamkanov (2014) proved that the resulting system is consistent and that moreover, in general, each sequent has a GL-derivation if and only if it has a circular K4-derivation. Circular proofs also provide a method to show proof-theoretically that Lyndon’s interpolation theorem holds for GL (Shamkanov 2011)[^shamkanov-2011]. Standard interpolation for GL had already been proved before by different methods (Boolos 1979; Smoryński 1978; Rautenberg 1983)[^boolos-1979][^rautenberg-1983][^smoryński-1978] and so had uniform interpolation (Shavrukov 1993b, Bílková 2016, Férée et al. [Other Internet Resources])[^bílková-2016][^shavrukov-1993b]. (For more information about Lyndon’s interpolation theorem for first-order logic, see also the entry first-order model theory ).
+    step1: |-
+      一个引人入胜的证明论新进展是 Shamkanov 对相继式式证明系统的扩充——允许*循环证明*（Shamkanov 2014）[^shamkanov-2014]。考虑 K4 的一个相继式系统：K4 是把 GL 的公理换成较弱的公理 $\Box A \rightarrow \Box\Box A$（公理 4）所得的模态系统。但假设允许开放假设，只要同一相继式在证明树中严格低于该假设处出现。更技术性地说：把普通推导树中每个非公理叶子与一个相同的内部节点相连，即可得到循环推导。Shamkanov（2014）证明所得系统一致，而且一般地，每个相继式有 GL 推导当且仅当它有循环 K4 推导。循环证明也提供一种方法，证明式地表明 Lyndon 插值定理对 GL 成立（Shamkanov 2011）[^shamkanov-2011]。GL 的标准插值此前已用不同方法证明（Boolos 1979; Smoryński 1978; Rautenberg 1983）[^boolos-1979][^rautenberg-1983][^smoryński-1978]，一致插值亦然（Shavrukov 1993b, Bílková 2016, Férée et al. [Other Internet Resources]）[^bílková-2016][^shavrukov-1993b]。（关于一阶逻辑的 Lyndon 插值定理的更多信息，另见一阶模型理论词条。）
+    step2: |-
+      一个引人入胜的证明论新进展是 Shamkanov 对相继式式证明系统的扩充——允许*循环证明*（Shamkanov 2014）[^shamkanov-2014]。考虑 K4 的一个相继式系统：K4 是把 GL 的公理换成较弱的公理 $\Box A \rightarrow \Box\Box A$（公理 4）所得的模态系统。但假设允许开放假设，只要同一相继式在证明树中严格低于该假设处出现。更技术性地说：把普通推导树中每个非公理叶子与一个相同的内部节点相连，即可得到循环推导。Shamkanov（2014）证明所得系统一致，而且一般地，每个相继式有 GL 推导当且仅当它有循环 K4 推导。循环证明也提供一种方法，证明式地表明 Lyndon 插值定理对 GL 成立（Shamkanov 2011）[^shamkanov-2011]。GL 的标准插值此前已用不同方法证明（Boolos 1979; Smoryński 1978; Rautenberg 1983）[^boolos-1979][^rautenberg-1983][^smoryński-1978]，一致插值亦然（Shavrukov 1993b, Bílková 2016, Férée et al. [Other Internet Resources]）[^bílková-2016][^shavrukov-1993b]。（关于一阶逻辑的 Lyndon 插值定理的更多信息，另见一阶模型理论词条。）
+  - id: 23
+    kind: body
+    source: |-
+      ### 2.2 The fixed point theorem
+    step1: |-
+      ### 2.2 不动点定理
+    step2: |-
+      ### 2.2 不动点定理
+  - id: 24
+    kind: body
+    source: |-
+      The main “modal” result about provability logic is the fixed point theorem, which D. de Jongh and G. Sambin independently proved in 1975 (Sambin 1976, Smoryński 1985, de Jongh forthcoming)[^smoryński-1985][^sambin-1976]. Even though it is formulated and proved by strictly modal methods, the fixed point theorem still has great arithmetical significance. It says essentially that self-reference is not really necessary, in the following sense. Suppose that all occurrences of the propositional variable $p$ in a given formula $A(p)$ are under the scope of the provability operator, for example $A(p) = \neg\Box p$, or $A(p) = \Box(p \rightarrow q)$. Then there is a formula $B$ in which $p$ does not appear, such that all propositional variables that occur in $B$ already appear in $A(p),$ and such that
+
+      $$ \GL \vdash B \leftrightarrow A(B). $$
+    step1: |-
+      关于可证性逻辑的主要“模态”结果是不动点定理，由 D. de Jongh 与 G. Sambin 于 1975 年独立证明（Sambin 1976, Smoryński 1985, de Jongh forthcoming）[^smoryński-1985][^sambin-1976]。尽管它以严格的模态方法表述并证明，不动点定理仍有重大的算术意义。其要旨是：在如下意义上，自指其实并不必要。假设给定公式 $A(p)$ 中命题变元 $p$ 的一切出现都在可证性算子的辖域内，例如 $A(p) = \neg\Box p$，或 $A(p) = \Box(p \rightarrow q)$。那么存在一个不含 $p$ 的公式 $B$，使得 $B$ 中出现的所有命题变量都已出现于 $A(p),$ 中，且
+    step2: |-
+      关于可证性逻辑的主要“模态”结果是不动点定理，由 D. de Jongh 与 G. Sambin 于 1975 年独立证明（Sambin 1976, Smoryński 1985, de Jongh forthcoming）[^smoryński-1985][^sambin-1976]。尽管它以严格的模态方法表述并证明，不动点定理仍有重大的算术意义。其要旨是：在如下意义上，自指其实并不必要。假设给定公式 $A(p)$ 中命题变元 $p$ 的一切出现都在可证性算子的辖域内，例如 $A(p) = \neg\Box p$，或 $A(p) = \Box(p \rightarrow q)$。那么存在一个不含 $p$ 的公式 $B$，使得 $B$ 中出现的所有命题变量都已出现于 $A(p),$ 中，且
+  - id: 25
+    kind: body
+    source: |-
+      This formula $B$ is called a *fixed point* of $A(p)$. Moreover, the fixed point is unique, or more accurately, if there is another formula $C$ such that $ \GL \vdash C \leftrightarrow A(C)$, then we must have $ \GL \vdash B \leftrightarrow C$. Most proofs in the literature give an algorithm by which one can compute the fixed point (see Smoryński 1985, Boolos 1993, Sambin and Valentini 1982, Lindström 2006)[^boolos-1993][^smoryński-1985][^sambin-1982][^lindström-2006][^sambin-1982-2][^lindström-2006-2]. A particularly short and clear proof, as well as a very efficient algorithm to compute fixed points, can be found in Reidhaar-Olson (1990).
+    step1: |-
+      这个公式 $B$ 称为 $A(p)$ 的一个*不动点*。而且不动点是唯一的，或更准确地说：若另有公式 $C$ 使得 $ \GL \vdash C \leftrightarrow A(C)$，则必有 $ \GL \vdash B \leftrightarrow C$。文献中的大多数证明都给出一个可计算不动点的算法（见 Smoryński 1985, Boolos 1993, Sambin and Valentini 1982, Lindström 2006）[^boolos-1993][^smoryński-1985][^sambin-1982][^lindström-2006][^sambin-1982-2][^lindström-2006-2]。Reidhaar-Olson（1990）中可找到一个特别简短清晰的证明，以及一个计算不动点的高效算法。
+    step2: |-
+      这个公式 $B$ 称为 $A(p)$ 的一个*不动点*。而且不动点是唯一的，或更准确地说：若另有公式 $C$ 使得 $ \GL \vdash C \leftrightarrow A(C)$，则必有 $ \GL \vdash B \leftrightarrow C$。文献中的大多数证明都给出可计算不动点的算法（见 Smoryński 1985, Boolos 1993, Sambin and Valentini 1982, Lindström 2006）[^boolos-1993][^smoryński-1985][^sambin-1982][^lindström-2006][^sambin-1982-2][^lindström-2006-2]。Reidhaar-Olson（1990）中可找到一个特别简短清晰的证明，以及一个计算不动点的高效算法。
+  - id: 26
+    kind: body
+    source: |-
+      For example, suppose that $A(p) = \neg \, \Box p$. Then the fixed point produced by such an algorithm is $\neg \, \Box\bot$, and indeed one can prove that
+
+      $$ \GL \vdash \neg\,\Box\bot \leftrightarrow \neg\,\Box(\neg\,\Box\bot). $$
+    step1: |-
+      例如，设 $A(p) = \neg \, \Box p$。那么由这类算法产生的不动点是 $\neg \, \Box\bot$，而且确实可以证明
+    step2: |-
+      例如，设 $A(p) = \neg \, \Box p$。那么由这类算法产生的不动点是 $\neg \, \Box\bot$，而且确实可证
+  - id: 27
+    kind: body
+    source: |-
+      If this is read arithmetically, the direction from left to right is just the formalized version of Gödel’s second incompleteness theorem: if a sufficiently strong formal theory $T$ like Peano Arithmetic does not prove a contradiction, then it is not provable in $T$ that $T$ does not prove a contradiction. Thus, sufficiently strong consistent arithmetical theories cannot prove their own consistency. We will turn to study the relation between provability logic and arithmetic more precisely in Section 4, but to that end another “modal” aspect of GL needs to be provided first: semantics.
+    step1: |-
+      若对此作算术解读，从左到右的方向正是哥德尔第二不完备性定理的形式化版本：若像皮亚诺算术这样足够强的形式理论 $T$ 不证明矛盾，则在 $T$ 中不可证“$T$ 不证明矛盾”。因此，足够强的一致算术理论无法证明自身的一致性。我们将在第 4 节更精确地考察可证性逻辑与算术的关系，但为此需先给出 GL 的另一个“模态”面向：语义学。
+    step2: |-
+      若对此作算术解读，从左到右的方向正是哥德尔第二不完备性定理的形式化版本：若像皮亚诺算术这样足够强的形式理论 $T$ 不证明矛盾，则在 $T$ 中不可证“$T$ 不证明矛盾”。因此，足够强的一致算术理论无法证明自身的一致性。我们将在第 4 节更精确地考察可证性逻辑与算术的关系，但为此需先给出 GL 的另一个“模态”面向：语义学。
+  - id: 28
+    kind: body
+    source: |-
+      ## 3. Possible worlds semantics and topological semantics
+    step1: |-
+      ## 3 可能世界语义与拓扑语义
+    step2: |-
+      ## 3 可能世界语义与拓扑语义
+  - id: 29
+    kind: body
+    source: |-
+      Provability logic has suitable possible worlds semantics, just like many other modal logics. As a reminder, a possible worlds model (or Kripke model) is a triple $M = \langle W,R,V \rangle$, where $W$ is a non-empty set of possible worlds, $R$ is a binary accessibility relation on $W$, and $V$ is a valuation that assigns a truth value to each propositional variable for each world in $W$. The pair $F = \langle W,R \rangle$ is called the frame of this model. The notion of truth of a formula $A$ in a model $M$ at a world $W$, notation $M,w \models A$, is defined inductively. Let us repeat only the most interesting clause, the one for the provability operator $\Box$:
+
+      $$ M,w \models \Box A \text{ iff for every } w', \text{ if } wRw', \text{ then } M,w' \models A. $$
+    step1: |-
+      与许多其他模态逻辑一样，可证性逻辑有合适的可能世界语义。回顾一下：可能世界模型（或 Kripke 模型）是三元组 $M = \langle W,R,V \rangle$，其中 W 是可能世界的非空集合，R 是 W 上的二元可及关系，V 是为 W 中每个世界的每个命题变元赋真值的赋值。偶对 $F = \langle W,R \rangle$ 称为该模型的框架。公式 $A$ 在模型 M 中于世界 W 处为真的概念，记作 $M,w \models A$，按归纳定义。这里只重复最有趣的一条——关于可证性算子 $\Box$ 的条款：
+    step2: |-
+      与许多其他模态逻辑一样，可证性逻辑有合适的可能世界语义。回顾一下：可能世界模型（或 Kripke 模型）是三元组 $M = \langle W,R \rangle$，其中 W 是可能世界的非空集合，R 是 W 上的二元可及关系，V 是为 W 中每个世界的每个命题变元赋真值的赋值。偶对 $F = \langle W,R \rangle$ 称为该模型的框架。公式 $A$ 在模型 M 中于世界 W 处为真的概念，记作 $M,w \models A$，按归纳定义。这里只重复最有趣的一条——关于可证性算子 $\Box$ 的条款：
+  - id: 30
+    kind: body
+    source: |-
+      See the entry modal logic for more information about possible worlds semantics in general.
+    step1: |-
+      关于可能世界语义的一般信息，见模态逻辑词条。
+    step2: |-
+      关于可能世界语义的一般信息，见模态逻辑词条。
+  - id: 31
+    kind: body
+    source: |-
+      ### 3.1 Characterization and modal soundness
+    step1: |-
+      ### 3.1 刻画与模态可靠性
+    step2: |-
+      ### 3.1 刻画与模态可靠性
+  - id: 32
+    kind: body
+    source: |-
+      The modal logic K is valid in all Kripke models. Its extension GL however, is not: we need to restrict the class of possible worlds models to a more suitable one. Let us say that a formula $A$ is valid in frame $F$, notation $F \models A$, iff $A$ is true in all worlds in Kripke models $M$ based on $F$. It turns out that the new axiom (GL) of provability logic corresponds to a condition on frames, as follows:
+    step1: |-
+      模态逻辑 K 在所有 Kripke 模型中有效。但其扩充 GL 却不然：我们需要把可能世界模型的类限制到一个更合适的类。设公式 $A$ 在框架 $F$ 中有效，记作 $F \models A$，当且仅当 $A$ 在基于 $F$ 的所有 Kripke 模型 $M$ 的所有世界中为真。结果表明，可证性逻辑的新公理 (GL) 对应于框架上的一个条件，如下：
+    step2: |-
+      模态逻辑 K 在所有 Kripke 模型中有效。但其扩充 GL 却不然：我们需要把可能世界模型的类限制到一个更合适的类。设公式 $A$ 在框架 $F$ 中有效，记作 $F \models A$，当且仅当 $A$ 在基于 $F$ 的所有 Kripke 模型 $M$ 的所有世界中为真。结果表明，可证性逻辑的新公理 (GL) 对应于框架上的一个条件，如下：
+  - id: 33
+    kind: body
+    source: |-
+      For all frames $F = \langle W,R \rangle, F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ iff $R$ is transitive and conversely well-founded.
+    step1: |-
+      对所有框架 $F = \langle W,R \rangle$：$F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ 当且仅当 $R$ 传递且逆良基。
+    step2: |-
+      对所有框架 $F = \langle W,R \rangle$：$F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ 当且仅当 $R$ 传递且逆良基。
+  - id: 34
+    kind: body
+    source: |-
+      Here, *transitivity* is the well-known property that for all worlds $w_1$, $w_2$, $w_3$ in $W$, if $w_1 Rw_2$ and $w_2 Rw_3$, then $w_1 Rw_3$. A relation is *conversely well-founded* iff there are no infinite ascending sequences, that is sequences of the form $w_1 Rw_2 Rw_3 R \ldots$. Note that conversely well-founded frames are also irreflexive, for if $wRw$, this gives rise to an infinite ascending sequence $wRwRwR\ldots$.
+    step1: |-
+      这里*传递性*是众所周知的性质：对 W 中所有世界 $w_1$、$w_2$、$w_3$，若 $w_1 Rw_2$ 且 $w_2 Rw_3$，则 $w_1 Rw_3$。一个关系是*逆良基的*，当且仅当不存在无穷上升序列，即形如 $w_1 Rw_2 Rw_3 R \ldots$ 的序列。注意逆良基框架也是非自反的：因为若 $wRw$，就会产生无穷上升序列 $wRwRwR\ldots$。
+    step2: |-
+      这里*传递性*是众所周知的性质：对 W 中所有世界 $w_1$、$w_2$、$w_3$，若 $w_1 Rw_2$ 且 $w_2 Rw_3$，则 $w_1 Rw_3$。一个关系是*逆良基的*，当且仅当不存在无穷上升序列，即形如 $w_1 Rw_2 Rw_3 R \ldots$ 的序列。注意逆良基框架也非自反：因为若 $wRw$，就会产生无穷上升序列 $wRwRwR\ldots$。
+  - id: 35
+    kind: body
+    source: |-
+      The above correspondence result immediately shows that GL is modally sound with respect to the class of possible worlds models on transitive conversely well-founded frames, because all axioms and rules of GL are valid on such models. The question is whether completeness also holds: for example, the formula $\Box A \rightarrow \Box\Box A$, which is valid on all transitive frames, is indeed provable in GL, as was mentioned in Section 1. But is *every* formula that is valid on all transitive conversely well-founded frames also provable in GL?
+    step1: |-
+      上述对应结果立即表明：GL 相对于传递逆良基框架上可能世界模型的类是模态可靠的，因为 GL 的一切公理与规则在此类模型上有效。问题是完全性是否也成立：例如，公式 $\Box A \rightarrow \Box\Box A$ 在所有传递框架上有效，且如第 1 节所述确实在 GL 中可证。但*每一个*在所有传递逆良基框架上有效的公式也都在 GL 中可证吗？
+    step2: |-
+      上述对应结果立即表明：GL 相对于传递逆良基框架上可能世界模型的类是模态可靠的，因为 GL 的一切公理与规则在此类模型上有效。问题是完全性是否也成立：例如，公式 $\Box A \rightarrow \Box\Box A$ 在所有传递框架上有效，且如第 1 节所述确实在 GL 中可证。但*每一个*在所有传递逆良基框架上有效的公式也都在 GL 中可证吗？
+  - id: 36
+    kind: body
+    source: |-
+      ### 3.2 Modal completeness
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      Unaware of the arithmetical significance of GL, K. Segerberg proved in 1971 that GL is indeed complete with respect to transitive conversely well-founded frames; D. de Jongh and S. Kripke independently proved this result as well. Segerberg showed that GL is complete even with respect to the more restricted class of finite transitive irreflexive trees, a fact which later turned out to be very useful for Solovay’s proof of the arithmetical completeness theorem (see Section 4).
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      The modal soundness and completeness theorems immediately give rise to a decision procedure to check for any modal formula $A$ whether $A$ follows from GL or not, by depth-first search through irreflexive transitive trees of bounded depth. Looking at the procedure a bit more precisely, it can be shown that GL is decidable in the computational complexity class PSPACE, like the well-known modal logics K, T and S4. This means that there is a Turing machine that, given a formula $A$ as input, answers whether $A$ follows from GL or not; the size of the memory that the Turing machine needs for its computation is only polynomial in the length of $A$. One can show that the decision problem for GL (again, like the decision problems for K, T and S4) is PSPACE-*complete*, in the sense that all other problems in PSPACE are no harder than deciding whether a given formula is a theorem of GL. (See Goré and Kelly 2007 [Other Internet Resources] for the description of an automated theorem prover for GL.)
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      To give some more perspective on complexity, the class P of functions computable in an amount of time polynomial in the length of the input, is included in PSPACE, which in turn is included in the class EXPTIME of functions computable in exponential time (see the entry computability and complexity). It remains a famous open problem whether these two inclusions are strict, although many complexity theorists believe that they are. Some other well-known modal logics, like epistemic logic with common knowledge, are decidable in EXPTIME, thus they may be more complex than GL, depending on the open problems.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      ### 3.3 Failure of strong completeness
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      Many well-known modal logics $S$ are not only complete with respect to an appropriate class of frames, but even *strongly complete*. In order to explain strong completeness, we need the notion of *derivability from a set of assumptions*. A formula $A$ is derivable from the set of assumptions $\Gamma$ in a modal logic $S$, written as $\Gamma \vdash A$, if $A$ is in $\Gamma$ or $A$ follows from formulas in $\Gamma$ and axioms of $S$ by applications of Modus Ponens and the Generalization Rule. Here, the Generalization Rule can only be applied to derivations without assumptions (see Hakli and Negri 2010).
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      Now a modal logic $S$ is *strongly complete* if for all (finite or infinite) sets $\Gamma$ and all formulas $A$:
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      If, on appropriate $S$-frames, $A$ is true in all worlds in which all formulas of $\Gamma$ are true, then $\Gamma \vdash A$ in the logic $S$.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      This condition holds for systems like K, M, K4, S4, and S5. If restricted to finite sets $\Gamma$, the above condition corresponds to completeness.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      Strong completeness does not hold for provability logic, however, because *semantic compactness* fails. Semantic compactness is the property that for each infinite set $\Gamma$ of formulas,
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      If every finite subset $\Delta$ of $\Gamma$ has a model on an appropriate $S$-frame, then $\Gamma$ also has a model on an appropriate $S$-frame.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      As a counterexample, take the infinite set of formulas
+
+      $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \Box(p_1 \rightarrow \Diamond p_2), \Box(p_2 \rightarrow \Diamond p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \Diamond p_{n+1}), \ldots\} \end{align}$$
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Then for every finite subset $\Delta$ of $\Gamma$, one can construct a model on a transitive, conversely well-founded frame and a world in the model where all formulas of $\Delta$ are true. So by modal soundness, GL does not prove $\bot$ from $\Delta$ for any finite $\Delta \subseteq \Gamma$, and *a fortiori* GL does not prove $\bot$ from $\Gamma$, as any GL-proof is finite. On the other hand, it is easy to see that there is no model on a transitive, conversely well-founded frame where in any world, all formulas of $\Gamma$ hold. Thus $\bot$ follows semantically from $\Gamma$, but is not provable from it in GL, contradicting the condition of strong completeness.[^note-2]
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      ### 3.4 Topological semantics for provability logic
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      As an alternative to possible worlds semantics, many modal logics may be given topological semantics. Clearly, propositions can be interpreted as subsets of a topological space. It is also easy to see that the propositional connective $\wedge$ corresponds to the set-theoretic operation $\cap$, while $\vee$ corresponds to $\cup$, $\neg$ corresponds to the set-theoretic complement, and $\rightarrow$ corresponds to $\subseteq$. Modal logics that contain the reflection axiom $\Box A \rightarrow A$ enjoy a particularly natural interpretation of the modal operators as well. For these logics, $\Diamond$ corresponds to the closure operator in a topological space, while $\Box$ corresponds to the interior. To see why these interpretations are appropriate, notice that the reflection axiom corresponds to the fact that each set is included in its closure and each set includes its interior.
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      However, provability logic does *not* prove reflection, as the instantiation $\Box\bot \rightarrow \bot$ of reflection would lead to a contradiction with the axiom (GL).
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      Provability logic therefore needs a different approach. Based on a suggestion by J. McKinsey and A. Tarski (1944), L. Esakia (1981, 2003) investigated the interpretation of $\Diamond$ as the derived set operator $d$, which maps a set $B$ to the set of its limit points $d(B)$. To explain the consequences of this interpretation of $\Diamond$, we need two more definitions, namely of the concepts *dense-in-itself* and *scattered*. A subset $B$ of a topological space is called *dense-in-itself* if $B \subseteq d(B)$. A topological space is called *scattered* if it has no non-empty subset that is dense-in-itself. The ordinals in their interval topology form examples of scattered spaces. Esakia (1981) proved an important correspondence: he showed that a topological space *satisfies the axiom GL* if and only if the space is *scattered*. This correspondence soon led to the result, independently found by Abashidze (1985) and Blass (1990), that provability logic is complete with respect to any ordinal $\ge \omega^\omega$.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      In the previous decades, topological semantics for provability logic has seen a veritable revival, especially in the study of Japaridze’s bimodal provability logic GLB, an extension of GL (Japaridze 1986)[^japaridze-1986]. The logic GLB turns out to be *modally incomplete* with respect to its possible worlds semantics, in the sense that it does not correspond to any class of frames.[^note-3] This feature places bimodal GLB in sharp contrast with unimodal GL, which corresponds to the class of finite transitive irreflexive trees, as mentioned above. Beklemishev et al. (2009) showed that GLB is, however, complete with respect to its *topological* semantics (see also Beklemishev 2009, Icard 2011)[^beklemishev-2009][^beklemishev-2009-2][^icard-2011]. Intriguing reverberations of Esakia’s correspondence between GL and scattered topological spaces can even be found in topological studies of spatial and epistemic logics (see Aiello et al. 2007)[^aiello-2007]. (See Section 5.4 for further discussion about GLB).
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      ## 4. Provability logic and Peano Arithmetic
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      From the time GL was formulated, researchers wondered whether it was adequate for formal theories like Peano Arithmetic (PA): does GL prove *everything* about the notion of provability that can be expressed in a propositional modal language and can be proved in Peano Arithmetic, or should more principles be added to GL? To make this notion of adequacy more precise, we define a *realization* (sometimes called translation or interpretation) to be a function *f* that assigns to each propositional atom of modal logic a sentence of arithmetic, where
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      - $f(\bot)=\bot;$
+      - $f$ respects the logical connectives, for example, $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ and
+      - $\Box$ is translated as the provability predicate $\Prov$, so $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      ### 4.1 Arithmetical soundness
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      It was already clear in the early 1970s that GL is *arithmetically sound* with respect to PA, formally:
+
+      $$ \text{If } \GL \vdash A, \text{then for all realizations } f, \PA \vdash f(A).$$
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      To give some taste of meta-mathematics, let us sketch the soundness proof.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      **Proof sketch of arithmetical soundness**. PA indeed proves realizations of propositional tautologies, and provability of the Distribution Axiom of GL translates to
+
+      $$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      for all formulas *A* and *B*, which is just Löb’s second derivability condition (see Section 1). Moreover, PA obeys Modus Ponens, as well as the translation of the Generalization Rule:
+
+      $$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      which is just Löb’s first derivability condition. Finally, the translation of the main axiom (GL) is indeed provable in PA:
+
+      $$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      This is exactly the formalized version of Löb’s theorem mentioned in Section 1.
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      Let us give a sketch of the proof of Löb’s theorem itself from his derivability conditions (the proof of the formalized version is similar). The proof is based on Gödel’s diagonalization lemma, which says that for any arithmetical formula $C(x)$ there is an arithmetical formula $B$ such that
+
+      $$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      In words, the formula $B$ says “I have property $C$.”
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      **Proof of Löb’s theorem:**. Suppose that $\PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$; we need to show that $\PA \vdash A$. By the diagonalization lemma, there is a formula $B$ such that
+
+      $$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      From this it follows by Löb’s first and second derivability conditions plus some propositional reasoning that
+
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Thus, again by Löb’s second condition,
+
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      On the other hand Löb’s third condition gives
+
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      thus
+
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Together with the assumption that $PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$, this gives
+
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Finally, the equation produced by the diagonalization lemma implies that $\PA \vdash B$, so $\PA \vdash \Prov(\ulcorner B\urcorner )$, thus
+
+      $$ \PA \vdash A, $$
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      as desired.
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Note that substituting $\bot$ for $A$ in Löb’s theorem, we derive that $\PA \vdash \neg\, \Prov(\ulcorner \bot\urcorner )$ implies $\PA \vdash \bot$, which is just the contraposition of Gödel’s second incompleteness theorem.
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      ### 4.2 Arithmetical completeness
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      The landmark result in provability logic is R. Solovay’s arithmetical completeness theorem of 1976, showing that GL is indeed adequate for Peano Arithmetic:
+
+      $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      This theorem says essentially that the modal logic GL captures everything that Peano Arithmetic can truthfully say in modal terms about its own provability predicate. The direction from left to right, arithmetical soundness of GL, is discussed above. Solovay set out to prove the other, much more difficult, direction by contraposition. His proof is based on intricate self-referential techniques, and only a small glimpse can be given here.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      The modal completeness theorem by Segerberg was an important first step in Solovay’s proof of arithmetical completeness of GL with respect to Peano Arithmetic. Suppose that GL does not prove the modal formula $A$. Then, by modal completeness, there is a finite transitive irreflexive tree such that $A$ is false at the root of that tree. Now Solovay devised an ingenious way to simulate such a finite tree in the language of Peano Arithmetic. Thus he found a realization $f$ from modal formulas to sentences of arithmetic, such that Peano Arithmetic does not prove $f(A)$.
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      Solovay’s completeness theorem provides an alternative way to construct many arithmetical sentences that are not provable in Peano Arithmetic. For example, it is easy to make a possible worlds model to show that GL does not prove $\Box p \vee \Box\neg\, p$, so by Solovay’s theorem, there is an arithmetical sentence $f(p)$ such that Peano Arithmetic does not prove $\Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$. In particular, this implies that neither $f(p)$ nor $\neg\, f(p)$ is provable in Peano Arithmetic; for suppose on the contrary that $\PA \vdash f(p)$, then by Löb’s first condition and propositional logic, $\PA \vdash \Prov(\ulcorner f(p)\urcorner ) \vee \Prov(\ulcorner \neg\, f(p)\urcorner )$, leading to a contradiction, and similarly if one supposes that $\PA \vdash \neg\, f(p)$.
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      Solovay’s theorem is so significant because it shows that an interesting fragment of an undecidable formal theory like Peano Arithmetic—namely that which arithmetic can express in propositional terms about its own provability predicate—can be studied by means of a decidable modal logic, GL, with a perspicuous possible worlds semantics.
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      ## 5. The scope of provability logic
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      In this section, some trends in research on provability logic are discussed. One important strand concerns the limits on the scope of GL, where the main question is, for which formal theories, other than Peano Arithmetic, is GL the appropriate propositional provability logic? Next, we discuss some generalizations of propositional provability logic in more expressive modal languages.
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      ### 5.1 Boundaries
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Since the late 1980s, logicians have investigated many other systems of arithmetic that are weaker than Peano Arithmetic. Often these logicians took their inspiration from computability issues, for example the study of functions computable in polynomial time. They have given a partial answer to the question: “For which theories of arithmetic does Solovay’s arithmetical completeness theorem (with respect to the appropriate provability predicate) still hold?” To discuss this question, two concepts are needed. $\Delta_0$-formulas are arithmetical formulas in which all quantifiers are bounded by a term, for example
+
+      $$ \forall y \le \bs\bs 0 \: \forall z \le y \: \forall x \le y + z \: (x + y \le (y+(y+z))), $$
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      where $\bs$ is the successor operator (“$+1$”). The arithmetical theory $I \Delta_0$ (where I stands for “induction”), is similar to Peano Arithmetic, except that it allows less induction: the induction scheme
+
+      $$ A(0) \wedge \forall x\, (A(x) \rightarrow A(\bs x)) \rightarrow \forall x \, A(x) $$
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      is restricted to $\Delta_0$-formulas $A$.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      As De Jongh and others (1991) pointed out, arithmetical completeness certainly holds for theories $T$ that satisfy the following two conditions:
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      1. $T$ proves induction for $\Delta_0$-formulas, and $T$ proves EXP, the formula expressing that for all $x$, its power $2^x$ exists. In more standard notation: $T$ extends $I \Delta_0$+EXP;
+      2. $T$ does not prove any false sentences of the form $\exists x\, A(x)$, with $A(x)$ a $\Delta_0$-formula.
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      For such theories, arithmetical soundness and completeness of GL hold, provided that $\Box$ translates to $\Prov_T$, a natural provability predicate with respect to a sufficiently simple axiomatization of $T$. Thus for modal sentences $A$:
+
+      $$ \GL \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      It is not clear yet whether Condition 1 gives a lower bound on the scope of provability logic. For example, it is still an open question whether GL is the provability logic of $I \Delta_0+\Omega_1$, a theory which is somewhat weaker than $I \Delta_0$+EXP in that $\Omega_1$ is the axiom asserting that for all $x$, its power $x^{\log(x)}$ exists. Provability logic GL is arithmetically sound with respect to $I \Delta_0+\Omega_1$, but except for some partial results by Berarducci and Verbrugge (1993), providing arithmetic realizations consistent with $I \Delta_0+\Omega_1$ for a restricted class of sentences consistent with GL, the question remains open. Its answer may hinge on open problems in computational complexity theory.
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      The above result by De Jongh et al. shows a strong feature of provability logic: for many different arithmetical theories, GL captures exactly what those theories say about their own provability predicates. At the same time this is a weakness. For example, propositional provability logic does not point to any differences between those theories that are finitely axiomatizable and those that are not.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      ### 5.2 Interpretability logic
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      In order to be able to speak in a modal language about important distinctions between theories, researchers have extended provability logic in many different ways. Let us mention a few. One extension is to add a binary modality $\interprets$, where for a given arithmetical theory $T$, the modal sentence $A \interprets B$ is meant to stand for “$T+B$ is interpretable in $T+A$” (Švejdar, 1983). De Jongh and Veltman (1990) investigated modal semantics for several interpretability logics, while De Jongh and Visser (1991) proved the explicit fixed-point property for the most important ones. Visser characterized the interpretability logic of the most common finitely axiomatized theories, and Berarducci and Shavrukov independently characterized the one for PA, which is not finitely axiomatizable. It appears that indeed, the interpretability logic of finitely axiomatizable theories is different from the interpretability logic of Peano Arithmetic (see Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000)[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990].
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      ### 5.3 Propositional quantifiers
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      Another way to extend the framework of propositional provability logic is to add propositional quantifiers, so that one can express principles like Goldfarb’s:
+
+      $$ \forall p \,\forall q \,\exists r \: \Box((\Box p \vee \Box q) \leftrightarrow \Box r), $$
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      saying that for any two sentences there is a third sentence which is provable if and only if either of the first two sentences is provable. This principle is provable in Peano Arithmetic (see e.g. Artemov and Beklemishev 1993)[^artemov-1993]. The set of sentences of GL with propositional quantifiers that is arithmetically valid turns out to be undecidable (Shavrukov 1997)[^shavrukov-1997].
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: body
+    source: |-
+      ### 5.4 Japaridze’s bimodal and polymodal provability logics
+    step1: TBD
+    step2: TBD
+  - id: 98
+    kind: body
+    source: |-
+      Japaridze’s (1988) bimodal logic GLB has two $\Box$-like provability operators, denoted by $[0]$ and $[1]$, with their dual $\Diamond$-like operators $\langle 0\rangle$ and $\langle 1\rangle$, respectively. In Japaridze’s interpretation, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic. On the other hand, $[1]$ corresponds to a stronger provability predicate, namely $\omega$-*provabilty*.
+    step1: TBD
+    step2: TBD
+  - id: 99
+    kind: body
+    source: |-
+      Let us define the concepts that are needed to understand this intended interpretation of GLB. An arithmetical theory $T$ is defined to be $\omega$-*consistent* if and only if for all formulas A with free variable $x$, $T\vdash \neg\, A(I_n)$ for all $n$ implies that $T \not\vdash \exists x \, A(x)$; here, $I_n$ is the numeral of $n$, i.e., the term $\bs\bs\ldots\bs 0$ with $n$ occurrences of the successor operator $\bs$. Peano Arithmetic (PA) is the most well-known example of an $\omega$-consistent theory (see also Gödel’s incompleteness theorems). Now let PA$^+$ be the arithmetical theory whose axioms are those of PA together with all sentences $\forall x \, \neg \, A(x)$ such that for every $n$, PA$\vdash \neg \, A(I_n)$. Now $\omega$-provability is simply provability in PA$^+$, so it is the dual of $\omega$-consistency.
+    step1: TBD
+    step2: TBD
+  - id: 100
+    kind: body
+    source: |-
+      Japaridze’s bimodal provability logic GLB can be axiomatized by the axioms and rules of GL (see Section 2), formulated separately for [0] and [1]. In addition, GLB has two mixed axioms, namely: $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ Japaridze’s logic is decidable and has a reasonable Kripke semantics, and it is arithmetically sound and complete with respect to Peano Arithmetic (Japaridze 1988, Boolos 1993)[^boolos-1993][^japaridze-1988].
+    step1: TBD
+    step2: TBD
+  - id: 101
+    kind: body
+    source: |-
+      A polymodal analogue of Japaridze’s GLB, named GLP, has received a lot of attention in recent years. GLP has infinitely many $\Box$-like provability operators, denoted by boxes $[n]$ for every natural number $n$, with their dual $\Diamond$-like operators $\langle n\rangle$. Again, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic, $\langle 1\rangle$ for $\omega$-provability, etcetera. GLP has been axiomatized by starting from the axioms and rules of GL (see Section 2), formulated separately for each $[n]$. In addition, GLP has three mixed axiom schemes, namely, as formulated by Beklemishev (2010): $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
+    step1: TBD
+    step2: TBD
+  - id: 102
+    kind: body
+    source: |-
+      GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
+    step1: TBD
+    step2: TBD
+  - id: 103
+    kind: body
+    source: |-
+      Over the last three decades, a number of results have been proved about the polymodal logic GLP of strong provability predicates. Here follow some particularly fruitful topics:
+    step1: TBD
+    step2: TBD
+  - id: 104
+    kind: body
+    source: |-
+      - the closed fragment of GLP (see Ignatiev 1993; Beklemishev, Joosten and Vervoort 2005)[^ignatiev-1993];
+      - GLP and proof-theoretic ordinals (Beklemishev 2004)[^beklemishev-2004];
+      - Neighbourhood semantics for GLP (Shamkanov 2020)[^shamkanov-2020][^shamkanov-2020-2];
+      - Interpolation theorems for GLP (see Beklemishev 2010b, Shamkanov 2011)[^shamkanov-2011][^beklemishev-2010b];
+      - The relationship between topological semantics and set theory, among others particular large cardinal axioms and stationary reflection (see Beklemishev 2011b; Beklemishev and Gabelaia 2013, 2014; Fernández-Duque 2014; Aguilera and Fernández-Duque 2017)[^beklemishev-2011b][^beklemishev-2013][^fernández-duque-2014][^aguilera-2017][^fernández-duque-2014-2].
+    step1: TBD
+    step2: TBD
+  - id: 105
+    kind: body
+    source: |-
+      ### 5.5 Predicate provability logic
+    step1: TBD
+    step2: TBD
+  - id: 106
+    kind: body
+    source: |-
+      Finally, one can of course study predicate provability logic. The language is that of predicate logic without function symbols, together with the operator $\Box$. Here, the situation becomes much more complex than in the case of propositional provability logic. To begin with, the straightforward quantified version of GL does not have the fixed-point property, is not complete with respect to any class of Kripke frames, and is not arithmetically complete with respect to Peano Arithmetic (Montagna, 1984; see Rybakov 2023 for recent generalizations)[^rybakov-2023]. The question then arises: Is there any nicely axiomatized predicate provability logic that is adequate, proving exactly the valid principles of provability? The answer is unfortunately a resounding no: Vardanyan (1986) has proved on the basis of ideas by Artemov (1985a) that the set of sentences of predicate provability logic all of whose realizations are provable in PA is not even recursively enumerable but $\Pi^0_2$-complete, so it has no reasonable axiomatization. Visser and De Jonge (2006) showed that there is no escape from Vardanyan’s theorem by proving a generalization: For a wide range of arithmetical theories $T$, the set of sentences of predicate provability logic all of whose realizations are provable in $T$ turns out to be $\Pi^0_2$-complete as well. Recently, however, Borges and Joosten (2020, 2022) showed that a fragment of predicate provability logic based on a strictly positive language containing the propositional connective $\wedge$, the modal operator $\Diamond$, and the quantifier $\forall$ is arithmetically complete and still decidable.
+    step1: TBD
+    step2: TBD
+  - id: 107
+    kind: body
+    source: |-
+      ### 5.6 Other generalizations
+    step1: TBD
+    step2: TBD
+  - id: 108
+    kind: body
+    source: |-
+      Left out in the above discussion are many other important strands of research in provability logic and its extensions. The interested reader is pointed to the following areas:
+    step1: TBD
+    step2: TBD
+  - id: 109
+    kind: body
+    source: |-
+      - the provability logic of intuitionistic arithmetic (see Troelstra 1973; Visser 1982, 1999, 2002, 2008; Iemhoff 2000, 2001, 2003; Ardeshir and Mojtahedi 2018; Litak and Visser 2018, forthcoming; Mojtahedi 2022 [Other Internet Resources]; Visser and Zoethout 2021; van der Giessen and Iemhoff 2021; van der Giessen 2023; Shillito 2023)[^shillito-2023][^ardeshir-2018][^giessen-2023][^giessen-2021][^iemhoff-2000][^litak-2018][^troelstra-1973][^visser-1982];
+      - classification of provability logics (see Visser 1980, Artemov 1985b, Beklemishev 1989, Beklemishev et al. 1999)[^artemov-1985b][^beklemishev-1989][^beklemishev-1999][^beklemishev-1999-2][^visser-1980];
+      - Rosser orderings and proof speed-up (see Guaspari and Solovay 1979, Švejdar 1983, Montagna 1992)[^guaspari-1979][^montagna-1992];
+      - several kinds of bimodal provability logics with provability operators for different theories (see Carlson 1986; Smoryński 1985; Beklemishev 1994, 1996; Visser 1995)[^smoryński-1985][^beklemishev-1994][^carlson-1986][^visser-1995];
+      - provability logics for standard provability combined with unusual provability predicates externally enumerating PA, such as Feferman’s and Parikh’s provability predicates and slow provability predicates (see Feferman 1960; Parikh 1971; Montagna 1978; Visser 1989; Carbone and Montagna 1990; Shavrukov 1994; Lindström 1994, 2006; Henk and Pakhomov 2016 (Other Internet Resources));
+      - analysis of Gödel’s second incompleteness theorem using provability and interpretability logics (Visser 2016; 2020)[^visser-2016];
+      - the logic of explicit proofs (see Artemov 1994, 2001; Artemov and Montagna 1994; Yavorskaya 2001; Artemov and Iemhoff 2007; Kuznets and Studer 2019)[^artemov-1994][^artemov-2007][^artemov-1994-2][^kuznets-2019][^yavorskaya-2001];
+      - correspondence between provability logic and justification logics (see Artemov and Nogina 2005; Shamkanov 2016 (Other Internet Resources); Fitting 2020);
+      - relevant provability logic based on the relevance logic R (see Mares 2000)[^mares-2000];
+      - applications of provability logic in proof theory (see Beklemishev 1999, 2003, 2004, 2005, 2006)[^beklemishev-1999][^beklemishev-1999-2];
+      - proof theory of propositional modal logics closely related to the provability logic GL, namely, Grzegorczyk logic (Grz) and weak Grezgorczyk logic (wGrz) (see Litak 2007; Maksimova 2014; Goré and Ramanayake 2014; Dyckhoff and Negri 2016; Savateev and Shamkanov 2019, 2021)[^dyckhoff-2016][^goré-2014][^litak-2007][^maksimova-2014][^savateev-2019];
+      - positive provability logics and reflection calculus (see Beklemishev 2012, 2014, 2018a, 2018b; Dashkov 2012)[^beklemishev-2012][^dashkov-2012];
+      - generalizations of the polymodal provability logic GLP, namely provability logics with transfinitely many modalities (see Beklemishev et al. 2014; Fernández-Duque and Joosten 2013a, 2013b, 2014, 2018; Joosten 2021; Beklemishev and Pakhomov 2022)[^beklemishev-2014][^beklemishev-2014-2][^beklemishev-2014-3][^beklemishev-2022][^fernández-duque-2013a][^joosten-2021];
+      - relations between provability logic and the $\mu$-calculus (see van Benthem 2006, Visser 2005, Alberucci and Facchini 2009)[^alberucci-2009][^benthem-2006][^visser-2005]; and
+      - provability algebras, also called diagonalizable algebras or Magari algebras (see Magari 1975a, 1975b; Montagna 1979, 1980a, 1980b; Bernardi and D’Aquino 1988; Shavrukov 1993a, 1993b, 1997; Zambella 1994; for recent results on their elementary theories, see Pakhomov 2012, 2014a (Other Internet Resources), 2015.
+    step1: TBD
+    step2: TBD
+  - id: 110
+    kind: body
+    source: |-
+      For the reader who would like to contribute to the area of provability logic and its generalizations, Beklemishev and Visser (2006) have proposed an annotated list of intriguing open problems.
+    step1: TBD
+    step2: TBD
+  - id: 111
+    kind: body
+    source: |-
+      ## 6. Philosophical significance
+    step1: TBD
+    step2: TBD
+  - id: 112
+    kind: body
+    source: |-
+      Even though propositional provability logic is a modal logic with a kind of “necessity” operator, it withstands Quine’s (1976) controversial critique of modal notions as unintelligible, already because of its clear and unambiguous arithmetic interpretation. For example, unlike for many other modal logics, formulas with nested modalities like $\Box\Diamond p \rightarrow \Box\bot$ are not problematic, nor are there any disputes about which ones should be tautologies. In fact, provability logic embodies all the desiderata that Quine (1953) set out for syntactic treatments of modality.
+    step1: TBD
+    step2: TBD
+  - id: 113
+    kind: body
+    source: |-
+      Quine’s main arrows were pointed towards modal predicate logics, especially the construction of sentences that contain modal operators under the scope of quantifiers (“quantifying in”). In predicate provability logic, however, where quantifiers range over natural numbers, both *de dicto* and *de re* modalities have straightforward interpretations, contrary to the case of other modal logics (see the note on the *de dicto* / *de re* distinction). For example, formulas like
+
+      $$ \forall x\, \Box\, \exists y \,(y=x) $$
+    step1: TBD
+    step2: TBD
+  - id: 114
+    kind: body
+    source: |-
+      are not at all problematic. If the number $n$ is assigned to $x$, then $\Box \,\exists y\,(y = x)$ is true with respect to this assignment iff the sentence $\exists y\,(y=I_n)$ is provable in Peano Arithmetic; here, $I_n$ is the numeral of $n$, i.e., the term $\bs\bs\ldots\bs 0$ with $n$ occurrences of the successor operator $\bs$. This sentence is true for all $n$ in the standard model of the natural numbers, and $\forall x \,\Box\, \exists y \,(y = x)$ is even provable in Peano Arithmetic.
+    step1: TBD
+    step2: TBD
+  - id: 115
+    kind: body
+    source: |-
+      By the way, the Barcan Formula
+
+      $$ \forall x \,\Box\, A(x) \rightarrow \Box\, \forall x\, A(x) $$
+    step1: TBD
+    step2: TBD
+  - id: 116
+    kind: body
+    source: |-
+      is not true for the integers, let alone provable (for example, take for $A(x)$ the formula “$x$ does not code a proof of $\bot$”). Its converse
+
+      $$ \Box\, \forall x \, A(x) \rightarrow \forall x \, \Box\, A(x) $$
+    step1: TBD
+    step2: TBD
+  - id: 117
+    kind: body
+    source: |-
+      on the other hand, is provable in Peano Arithmetic for any formula $A$.
+    step1: TBD
+    step2: TBD
+  - id: 118
+    kind: body
+    source: |-
+      Provability logic has very different principles from other modal logics, even those with a seemingly similar purpose. For example, while provability logic captures provability in formal theories of arithmetic, epistemic logic endeavors to describe knowledge, which could be viewed as a kind of informal provability. In many versions of epistemic logic, one of the most important principles is the truth axiom (5):
+
+      $$ \mbox{S5} \vdash \Box A \rightarrow A, (\text{if one knows } A, \text{ then } A \text{ is true}). $$
+    step1: TBD
+    step2: TBD
+  - id: 119
+    kind: body
+    source: |-
+      The analogous principle clearly does not hold for GL: after all,
+
+      $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
+    step1: TBD
+    step2: TBD
+  - id: 120
+    kind: body
+    source: |-
+      Thus, it seems misguided to compare the strength of both notions or to combine them in one modal system.
+    step1: TBD
+    step2: TBD
+  - id: 121
+    kind: body
+    source: |-
+      Since the 1940s, there has been a lot of interest among philosophers of mathematics in the concept of informal provability or *absolute provability* (Gödel 1946, Kreisel 1967)[^gödel-1946][^kreisel-1967], including controversies about its proper definition (see Leach-Krouse 2013; Kennedy 2014; Crocco 2019; for good discussions of these controversies)[^crocco-2019][^kennedy-2014][^leach-krouse-2013]. Williamson (2016) gives the following definition: “A mathematical hypothesis is *absolutely provable* if and only if it can in principle be known by a normal mathematical process.”. At any rate, it is clear that the concept of absolute provability is very different from the concept of *formal provability* in a given formal system, which is the central notion in the rest of this article on provability logic.
+    step1: TBD
+    step2: TBD
+  - id: 122
+    kind: body
+    source: |-
+      Related to the concept of absolutely provable statements is that of *absolutely undecidable statements*, namely, those statements $A$ for which neither $A$ nor $\neg A$ is absolutely provable. An interesting question is whether Gödel’s Disjunction holds: Is it the case that either “the mind cannot be mechanized ” or “there are absolutely undecidable statements”? Fascinating takes on this question can be found in (Koellner 2016, Leach-Krouse 2016, Williamson 2016)[^koellner-2016][^leach-krouse-2016][^williamson-2016].
+    step1: TBD
+    step2: TBD
+  - id: 123
+    kind: body
+    source: |-
+      Discussions of the consequences of Gödel’s incompleteness theorems sometimes involve confusion around the notion of provability, giving rise to claims that humans could beat formal systems in “knowing” theorems; see (Davis 1990, 1993; Franzén 1995; Lindström 2001)[^davis-1990][^lindström-2001] for good critical discussions of such claims.
+    step1: TBD
+    step2: TBD
+  - id: 124
+    kind: body
+    source: |-
+      All in all, formal provability is a precisely defined concept, much more so than truth and knowledge. Thus, self-reference within the scope of provability does not lead to semantic paradoxes like the Liar. Instead, it has led to some of the most important results about mathematics, such as Gödel’s incompleteness theorems.
+    step1: TBD
+    step2: TBD
+  - id: 125
+    kind: oir
+    source: |-
+      ### Papers and Presentations
+    step1: TBD
+    step2: TBD
+  - id: 126
+    kind: oir
+    source: |-
+      - Férée, H., I. van der Giessen, S. van Gool, and I. Shillito, 2024, “[Mechanised Uniform Interpolation for Modal Logics K, GL and iSL](https://arxiv.org/abs/2402.10494)”, manuscript at arxiv.org.
+      - Fitting, M., 2020, “[A Second GL Justification Logic](https://id144254.securedata.net/melvinfitting/bookspapers/pdf/papers/GLJustification.pdf),” manuscript available on the author’s website.
+      - Goré, R. and J. Kelly, 2007, “[Automated Proof Search in Gödel-Löb Provability Logic](https://www.dcs.bbk.ac.uk/~roman/blc/gore-kelly-provability.pdf),” presented at the [British Logic Colloquium](http://www.dcs.bbk.ac.uk/~roman/blc/) 2007.
+      - Henk, P., and Pakhomov, F., 2016, “[Slow and Ordinary Provability for Peano Arithmetic](https://arxiv.org/pdf/1602.01822v2.pdf),” manuscript at arxiv.org.
+      - Mojtahedi, M., 2022, “[On Provability Logic of HA](https://arxiv.org/abs/2206.00445),” manuscript at arxiv.org.
+      - Pakhomov, F., 2014a, “[On Elementary Theories of GLP-algebras](http://arxiv.org/abs/1412.4439),” manuscript at arxiv.org.
+      - Verbrugge, Rineke, [Presentation slides on provability logic](https://rinekeverbrugge.nl/wp-content/uploads/2017/02/VerbruggeProvability-Logic-clc11-1.pdf), slides, University of Groningen
+      - Visser, Albert, 1986, [On formal provability versus human provability](https://www.phil.uu.nl/onderwijs/cki/cki10/cki/slides/lucasac.pdf) (in Dutch), online manuscript, University of Utrecht.
+    step1: TBD
+    step2: TBD
+  - id: 127
+    kind: oir
+    source: |-
+      ### Other Sites
+    step1: TBD
+    step2: TBD
+  - id: 128
+    kind: oir
+    source: |-
+      - [Open problems in Provability Logic](http://www.mi.ras.ru/~bekl/problems.html), maintained by Lev Beklemishev
+      - [Mailing list Foundations of Mathematics](http://www.cs.nyu.edu/mailman/listinfo/fom/), New York University
+    step1: TBD
+    step2: TBD
+  - id: 129
+    kind: ack
+    source: |-
+      I would like to express my immense gratitude to Lev Beklemishev, who was so kind as to write me a long letter in 2017, including many literature references to developments in provability logic as seen from his perspective. Thanks are also due to Albert Visser, Sara Uckelman, Rajeev Goré, Giovanni Sambin, Vítězslav Švejdar, Sara Negri, Joost Joosten, Ian Shillito, Wesley Holliday, Revantha Ramanayake, Anupam Das, Shawn Standefer, Toby Meadows, Edson Bezerra, Nils Kürbis, and Tadeusz Litak for their suggestions of improvements and additions to the 2017 and/or 2024 versions of this article.
+    step1: TBD
+    step2: TBD
+  - id: 130
+    kind: ack
+    source: |-
+      This 2024 version of the article on provability logic is dedicated to the memory of three Nestors of provability logic and the meta-mathematics of first-order arithmetic: Franco Montagna (1948–2015), Sol Feferman (1928–2016), and Petr Hájek (1940–2016).
+    step1: TBD
+    step2: TBD
+  - id: 131
+    kind: note
+    source: |-
+      [^note-1]: Below we will present a more detailed proof sketch of GL $\vdash \Box\Diamond A \rightarrow \Box B$, a simple but surprising theorem that was suggested to us by Nils Kurbis. Let us first gather some ingredients. Note that in the modal logic K, so certainly in GL, we have that for each formula $ C $, the two formulas $ C \rightarrow \bot$ and $\neg C$ are logically equivalent and may be replaced by each other. The same holds for the two formulas $\Diamond C$ and $\neg\Box\neg C$. Moreover, by the Generalization Rule, the Distribution Axiom, and the Modus Ponens rule, we have the following derived rule for all formulas $C, D$: If GL $\vdash C \rightarrow D$, then GL $\vdash \Box C \rightarrow \Box D$. Here follows the promised proof sketch.
+    step1: TBD
+    step2: TBD
+  - id: 132
+    kind: note
+    source: |-
+      [^note-2]: It turns out that almost the same counterexample works for intuitionistic provability logic, even for the version without $\Diamond$, which was proved by Ian Shillito (2023, Theorem 13.2.1). As suggested by Rosalie Iemhoff, one only needs to replace each $\Diamond$ in the example above by $\neg\Box\neg$.
+    step1: TBD
+    step2: TBD
+  - id: 133
+    kind: note
+    source: |-
+      [^note-3]: Holliday and Litak (2019) strengthened this result by showing that GLB is not only Kripke frame incomplete, but even incomplete with respect to Boolean algebras for which the $\Diamond$ operator is *completely additive*, that is, for any set $X$ of elements, if $\bigvee X$ exists, then $\bigvee\{\Diamond x \mid x \in X \}$ also exists and $\Diamond\bigvee X = \bigvee\{\Diamond x \mid x \in X \}$. One of the nice aspects of their result is that the bimodal provability logic GLB is the first naturally occurring modal logic that shows such incompleteness with respect to completely additive Boolean algebras. Note that the logic that Van Benthem (1979) originally used to show the existence of a modally incomplete logic was also a (slightly artificial) variation on provability logic, namely, $K$ with the extra axiom $\Box\Diamond\top\rightarrow \Box(\Box(\Box p \rightarrow p) \rightarrow p)$, a weakening of GL.
+    step1: TBD
+    step2: TBD

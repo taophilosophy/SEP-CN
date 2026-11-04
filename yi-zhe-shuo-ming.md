@@ -1070,3 +1070,22 @@
 | Antinomy of Teleological Judgment | 目的论判断的二律背反 | kant-science | 《判断力批判》通名 | 2026-11-05 |
 | formative drive | 形成驱力（Bildungstrieb） | kant-science | 康德生物学文献通行；待 specs/008 审定库复核 | 2026-11-05 |
 | Transition; elementary system of the moving forces | 过渡（Übergang）；运动力的初阶系统（Elementarsystem） | kant-science | 李秋零《遗著》研究通行 | 2026-11-05 |
+| provability logic | 可证性逻辑 | logic-provability | SUMMARY 定名沿用（数理逻辑通行） | 2026-11-05 |
+| provability predicate | 可证性谓词 | logic-provability | 数理逻辑通行 | 2026-11-05 |
+| derivability conditions | 可导出性条件 | logic-provability | Löb 条件通行译名 | 2026-11-05 |
+| fixed point theorem | 不动点定理 | logic-provability | 数学通行 | 2026-11-05 |
+| arithmetical completeness/soundness | 算术完全性／算术可靠性 | logic-provability | 数理逻辑通行 | 2026-11-05 |
+| modal soundness/completeness | 模态可靠性／模态完全性 | logic-provability | 模态逻辑通行 | 2026-11-05 |
+| realization | 实现 | logic-provability | 可证性逻辑通行（亦作“翻译”“解释”备查） | 2026-11-05 |
+| interpretability logic | 可解释性逻辑 | logic-provability | 数理逻辑通行 | 2026-11-05 |
+| conversely well-founded | 逆良基的 | logic-provability | 序结构通行（no infinite ascending chains） | 2026-11-05 |
+| scattered | 散布的 | logic-provability | 拓扑学通行（Esakia 语境） | 2026-11-05 |
+| dense-in-itself | 自密的 | logic-provability | 拓扑学通行 | 2026-11-05 |
+| semantic compactness | 语义紧致性 | logic-provability | 模型论通行 | 2026-11-05 |
+| subformula property | 子公式性质 | logic-provability | 证明论通行 | 2026-11-05 |
+| cut elimination | 切割消除 | logic-provability | 证明论通行（亦作“切消”备查） | 2026-11-05 |
+| diagonalization lemma | 对角化引理 | logic-provability | 哥德尔研究通行 | 2026-11-05 |
+| ω-consistency | ω-一致性 | logic-provability | 数理逻辑通行 | 2026-11-05 |
+| ω-provability | ω-可证性 | logic-provability | 本词条定案（Japaridze GLB） | 2026-11-05 |
+| circular proofs | 循环证明 | logic-provability | 证明论通行（Shamkanov） | 2026-11-05 |
+| informal/absolute provability | 非形式可证性／绝对可证性 | logic-provability | 数学哲学通行 | 2026-11-05 |
