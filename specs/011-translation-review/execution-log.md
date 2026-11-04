@@ -114,3 +114,8 @@
 * 发现：词条内作者署名行（`*Last, First*`）倒装残留 5 处（aesthetics-18th-british/french、aesthetics-of-everyday、boethius-dacia、intuitionism-ethics）——与 87 条汉译正装署名行体例不一。
 * 修复：citation_author 溯源正装化 5 处（*James Shelley* 等）；汉译登记（与 87 条汉译署名行统一）待后续批次——署名行的译名归属人名表域。
 * slug 前缀坑第三次踩中（en/ 平铺结构 vs a/x.md 带前缀），工具函数统一记入。
+
+## 2026-11-04 署名行汉译 + 深读续四
+
+* 署名行汉译批次：6 作者人名表登记（詹姆斯·雪莱/詹妮弗·齐恩/雅克·莫里佐/斋藤百合子/斯滕·埃布森/马修·S. 贝德克）+ 5 署名行汉译括注体例（对齐 87 条汉译先例）。
+* 深读累计 19 条全 pass（+aesthetics-existentialist 实修 H1/SUMMARY/mu-lu-s 英文题名补全 existentialist aesthetics、版本行空格——**H1 英文题名缺词**为截断族新变体）。
