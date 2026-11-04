@@ -980,3 +980,16 @@
 | aesthetic state of mind | 审美心境 | landmann-kalischer | 本词条定案（Zustand=状态；席勒审美状态语境） | 2026-11-04 |
 | innerworldly | 世内的 | landmann-kalischer | 海德格尔 innerweltlich 通行 | 2026-11-04 |
 | Gehalt | 内涵 | landmann-kalischer | 艺术理论通行（作品内容义；与 form 形式相对） | 2026-11-04 |
+| chymistry | 化学论（早期近代“化学”） | locke-on-medicine | 化学史 Newman 传统通行（chymical 形容词作“化学论的”，以别于后牛顿化学） | 2026-11-05 |
+| fermentation | 发酵 | locke-on-medicine | 化学/医史通行 | 2026-11-05 |
+| mechanical philosophy | 机械哲学 | locke-on-medicine | 科学史通行 | 2026-11-05 |
+| corpuscular philosophy | 微粒哲学 | locke-on-medicine | 科学史通行（corpuscularian hypothesis=微粒假说） | 2026-11-05 |
+| humours | 体液 | locke-on-medicine | 医史通行（盖伦四体液：血液/黑胆/黄胆/黏液） | 2026-11-05 |
+| spirits | 精气 | locke-on-medicine | 医史通行（盖伦：自然/生命/动物精气） | 2026-11-05 |
+| seminal principles | 种子原理 | locke-on-medicine | 赫尔蒙特研究通行（semina） | 2026-11-05 |
+| ferment | 酵素 | locke-on-medicine | 赫尔蒙特研究通行（亦作“发酵原”备查） | 2026-11-05 |
+| Archeus | 阿尔凯厄斯 | locke-on-medicine | 赫尔蒙特研究通行（掌控器官运作的准精神实体） | 2026-11-05 |
+| volatilization | 挥发 | locke-on-medicine | 化学史通行（volatize=使挥发） | 2026-11-05 |
+| natural history | 自然史 | locke-on-medicine | 科学史/博物学通行 | 2026-11-05 |
+| venesection | 静脉切开放血 | locke-on-medicine | 医史通行（简称“放血术”） | 2026-11-05 |
+| epidemic constitution | 疫病体质 | locke-on-medicine | 西德纳姆研究通行（逐年流行病“体质”构想） | 2026-11-05 |

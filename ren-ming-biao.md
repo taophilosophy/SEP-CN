@@ -248,6 +248,25 @@
 | Ralph Strode | 拉尔夫·斯特罗德 | lorenzo-valla | 学界通行汉译（14 世纪牛津逻辑学家） | 2026-11-04 |
 | Paul of Venice | 威尼斯的保罗 | lorenzo-valla | 学界通行汉译（《小逻辑》作者；SUMMARY 既有条目名沿用） | 2026-11-04 |
 | Gratian | 格拉提安 | lorenzo-valla | 教会法学界通行汉译（《教令集》作者） | 2026-11-04 |
+| Thomas Sydenham | 托马斯·西德纳姆 | locke-on-medicine | 医史学界通行汉译（英国经验医学奠基者，“英国希波克拉底”）；待 specs/008 审定库复核 | 2026-11-05 |
+| Richard Lower | 理查德·洛厄 | locke-on-medicine | 医史学界通行汉译（牛津生理学家，《心脏论》作者）；待 specs/008 审定库复核 | 2026-11-05 |
+| Thomas Willis | 托马斯·威利斯 | locke-on-medicine | 医史学界通行汉译（《脑解剖学》作者，塞德雷自然哲学教授）；待 specs/008 审定库复核 | 2026-11-05 |
+| Joan Baptista van Helmont | 让·巴普蒂斯塔·范·赫尔蒙特 | locke-on-medicine | 医史/化学史通行汉译（《医学之源》作者）；待 specs/008 审定库复核 | 2026-11-05 |
+| Daniel Sennert | 丹尼尔·森纳特 | locke-on-medicine | 医史学界通行音译（维滕贝格医学教授）；待 specs/008 审定库复核 | 2026-11-05 |
+| Anton Deusing | 安东·多伊辛 | locke-on-medicine | 通行音译（17 世纪医学折中主义者） | 2026-11-05 |
+| Peter Stahl | 彼得·施塔尔 | locke-on-medicine | 通行音译（波义耳延请的牛津化学讲席教师） | 2026-11-05 |
+| James Tyrrell | 詹姆斯·蒂勒尔 | locke-on-medicine | 学界通行汉译（洛克友人，回忆录作者） | 2026-11-05 |
+| David Thomas | 大卫·托马斯 | locke-on-medicine | 通行译名（索尔兹伯里医生，洛克友人） | 2026-11-05 |
+| Fracassati | 弗拉卡萨蒂 | locke-on-medicine | 医史通行音译（比萨教授，血液冷却实验作者） | 2026-11-05 |
+| William Gilbert | 威廉·吉尔伯特 | locke-on-medicine | 学界通行汉译（《论磁》作者，与同名录社会哲学家以时代别之） | 2026-11-05 |
+| William Harvey | 威廉·哈维 | locke-on-medicine | 千年通行式汉译（血液循环发现者） | 2026-11-05 |
+| Paracelsus | 帕拉塞尔苏斯 | locke-on-medicine | 医史/化学史通行汉译 | 2026-11-05 |
+| Francis Glisson | 弗朗西斯·格利森 | locke-on-medicine | 医史通行音译（盖伦传统医家） | 2026-11-05 |
+| Riverius | 里维乌斯 | locke-on-medicine | 医史通行音译（盖伦传统医家 Lazare Rivière） | 2026-11-05 |
+| Jean Fernel | 让·费尔内尔 | locke-on-medicine | 医史通行音译（盖伦传统医家） | 2026-11-05 |
+| Moebius | 默比乌斯 | locke-on-medicine | 医史通行音译（盖伦传统医家） | 2026-11-05 |
+| Kerger | 克尔格 | locke-on-medicine | 医史通行音译（赫尔蒙特传统医家） | 2026-11-05 |
+| Schookius | 斯胡克乌斯 | locke-on-medicine | 医史通行音译（赫尔蒙特传统医家） | 2026-11-05 |
 | Edith Landmann-Kalischer | 伊迪丝·兰德曼-卡利舍尔 | landmann-kalischer | SUMMARY 定名沿用（20 世纪女哲学家，美学/价值论） | 2026-11-04 |
 | Georg Simmel | 格奥尔格·齐美尔 | landmann-kalischer | 学界通行汉译（社会学家、生命哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
 | Carl Stumpf | 卡尔·斯图姆夫 | landmann-kalischer | SUMMARY 定名沿用（现象学心理学先驱）；待 specs/008 审定库复核 | 2026-11-05 |
