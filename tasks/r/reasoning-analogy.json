@@ -2,7 +2,7 @@
   "slug": "reasoning-analogy",
   "kind": "retranslate",
   "zh_doc": "r/reasoning-analogy.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -52,6 +52,27 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-04T19:09:09Z",
       "evidence": "r1 初审（对照源自审，初译 actor）：278 段抽查回核+结构完整性验收（导语+5 编号节+4 小节+7 子节+参考文献+学术工具+OIR 2 小节+相关词条 13 项，无脚注节——源无注）；16 编号块（例/公式/G1-G8/(RO)/(LIV)/(11)）与 LO 外数学块逐字符核对（(4)(6)(7)(8)(9)(12) LaTeX 逐字符保留）；图片路径 ../yuanwen/assets/ 模板 #9 裁定形；发现 0 问题。r2 独立 agent 复核进行中，r3 终审前冷置"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "RZ-main-20261104+r2独立复核agent",
+      "at": "2026-11-04T20:15:50Z",
+      "evidence": "r2 复审（逐段逐句回核 925 行源↔770 行译，初译外独立 agent）：9 处问题（3 Major+6 Minor）全部采纳修复——①Major 成稿 L130 数学星号被斜体转换器误配（$Q^**$+破碎加粗）：seg57 去中文斜体根治（鉴于/尽管改平文），重 compose 后 $Q\\^\\*\\* 零命中；②Major seg35 was evidence that 译「这证明」升格→「这是……的证据」；③Major seg146 explanandum 误译「解释项」→「被解释项」（explanans 才是解释项）；④seg149 is it not probable 补「也很可能」；⑤seg22 characteristic of 谐波振子特有频率模式；⑥seg174 computational 补「计算式」；⑦seg236 In her (1974) 文章→著作（书目实为专著）；⑧seg115 对福基斯人的战争（genitive 方向）；⑨人名回退不一致——根因为人名汉名此前只落 step1 未落 step2（replace 计数 1）+成稿两度遭并发覆盖，本轮 step2 全量落地（范·弗拉森×3/侯世达×3/哈罗德×2）并经终验 grep=0 残留。复核员专项全过：16 编号块、6 数学块逐字符、91 引用键逐键 diff、156 定义抽核、四尾区、pubinfo"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T20:15:51Z",
+      "evidence": "r3 终审（冷置后回读）：冷置任务=religious-experience 立项+登记（2f419cc3/392aa71e）；r2 九处修正落点终验全过（$Q\\^\\*\\*=0、被解释项✓、也很可能✓、谐波振子特有✓、计算式✓、1974 年的著作✓、对福基斯人✓、证据不升格✓、人名 step2 全落地 grep 残留 0）；六检：style 0/academic 0 硬错误/math 0/summary 0/lint MD060 28（图 1 表格源形态，存量类）/prose 35（豁免类，见 s2 留痕）；全库 check_all 此前 7/7 绿"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T20:15:51Z",
+      "evidence": "done：六道全过，reasoning-analogy 为 RZ 会话第 3 个收口件（r 批 done=3/85；278 段为本会话最大件）"
     }
   ],
   "blockers": [],
