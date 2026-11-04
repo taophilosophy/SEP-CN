@@ -1,4 +1,4 @@
-# 阿坎哲学中的人格 of the person (Ajume Wingo)
+# 阿坎哲学中的人格 Akan Philosophy of the Person (Ajume Wingo)
 
 **首次发表于 2006 年 12 月 27 日；2024 年 4 月 15 日实质修订。**
 

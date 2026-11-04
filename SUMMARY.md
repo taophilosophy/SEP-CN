@@ -87,7 +87,7 @@
 * [\*阿格里帕——见怀疑论：古代怀疑论 Agrippa — see skepticism: ancient](s/skepticism-ancient.md)
 * [海因里希·阿格里帕·冯·内特斯海姆 Agrippa von Nettesheim, Heinrich Cornelius (Vittoria Perrone Compagni)](a/agrippa-nettesheim.md)
 * [\*阿坎哲学 Akan Philosophy](README.md)
-  * [阿坎哲学中的人格 of the person (Ajume Wingo)](a/akan-person.md)
+  * [阿坎哲学中的人格 Akan Philosophy of the Person (Ajume Wingo)](a/akan-person.md)
 * [\*不自制——见意志薄弱 akrasia — see weakness of will](w/weakness-will.md)
 * [阿卜杜勒·拉蒂夫·巴格达迪 al-Baghdadi, ‘Abd al-Latif (Cecilia Martini Bonadeo)](a/al-baghdadi.md)
 * [法拉比 al-Farabi (Therese-Anne Druart)](a/al-farabi.md)

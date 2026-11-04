@@ -729,7 +729,7 @@ outline: [1, 6]
 * [非洲伦理学 ethics (Kwame Gyekye)](a/african-ethics.md)
 * [非洲智者哲学 sage philosophy (Dismas Masolo)](a/african-sage.md)
 * [沙班·罗伯特的德性伦理学 Shaaban Robert’s virtue ethics (Dismas Masolo)](s/shaaban-robert-ethics.md)
-* [阿坎哲学中的人格 of the person (Ajume Wingo)](a/akan-person.md)
+* [阿坎哲学中的人格 Akan Philosophy of the Person (Ajume Wingo)](a/akan-person.md)
 
 ## 非裔哲学
 
