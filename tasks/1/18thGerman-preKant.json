@@ -2,7 +2,7 @@
   "slug": "18thGerman-preKant",
   "kind": "retranslate",
   "zh_doc": "1/18thGerman-preKant.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "zcode-digit1-20261105",
       "at": "2026-11-04T20:51:24Z",
       "evidence": "逐句回核完成（s2 修改回核+五论证链+尾部形态），记录见 evidence"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "zcode-digit1-20261105",
+      "at": "2026-11-04T20:54:19Z",
+      "evidence": "终稿验收：check_all 七项全绿+prose 稳定 19 豁免留痕+结构/键/编号/年份机检全过；冷置已执行（间隔任务清单见 evidence）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "zcode-digit1-20261105",
+      "at": "2026-11-04T20:54:19Z",
+      "evidence": "CI 门禁本地全绿（check_all 7 项）；推送后 CI 为最终裁判；任务全流程 pending→cleared→drafted→s1→s2→s3→r1→r2→r3→done 完整无跳步"
     }
   ],
   "blockers": [],
@@ -65,6 +79,7 @@
     "方向声明：把 SEP 词条 18th Century German Philosophy Prior to Kant（康德之前的 18 世纪德国哲学；作者 Corey Dyck 与 Brigitte Sassen，2002-03-10 首次发表，2026-07-01 实质修订）自英文译为简体中文，走完 retranslate 全流程 cleared→drafted→s1_checked→s2_checked→s3_checked→r1_reviewed→r2_reviewed→r3_reviewed→done。词条范围：主文 1/18thGerman-preKant.md（唯一文件，无补充材料/figdesc/图片/表格）。目标读者：中文哲学读者。验收判据：结构完整（节集合与英文源一致）、check_style.py 0 问题、check_academic.py --strict 0 硬错误、check_prose.py 告警清零或逐条豁免留痕、脚注键与 yuanwen 逐字符一致、术语/人名先登记后使用、CI 全绿。非目标：不改原文、不补内容、不造引文。单会话作业：r3 终审前冷置（先做其他环节再回读），届时 evidence 记明（ADR-0020）。执行者：zcode-digit1-20261105。",
     "draft 执行记录（2026-11-05，zcode-digit1-20261105）：ADR-0021 段落账本 tasks/1/18thGerman-preKant.ledger.yaml 97 段（body=96 oir=1），七批双版直译落账（d1b01-d1b07，每批即提交）；批2 曾因 fill 跨段匹配缺陷错位 14 段，写回前置门 HARD 拦截后回滚重填（commit 7a5ee181）。守恒校验 HARD=0（lq.py check：段数/逐段身份/脚注键/$ 计数/**计数全过）；SOFT 标旗 45 条逐条留痕：机械段（标题 14+OIR 1）step1==step2 属预期，书名斜体→书名号星号差 30 处属正常转换，段 63/79 中文强调斜体为作者英 gloss 对举之对位强调，s1 复核。compose --write 64217 字符（新制 References（引用注释）尾部首例，lq.py 已扩展并保持向后兼容）；italic_to_bold_cjk 14 行；四检全绿（style 0 issue / math 0 / summary HARD 0 / academic --strict 0 硬错）；check_prose 60 条告警留待 s2（27 de-chain+27 long-sentence+3 passive-bei+1 plural-men+2 weak-verb）；相关词条 3 个未匹配（aesthetics: German…/feminist philosophy interventions…/rationalism early modern）留 s1 对齐 SUMMARY 登记形。",
     "s2 执行记录（2026-11-05）：check_prose 60→19 条（41 条实修清零：27 长句拆分重排、被动改「为…所/由…所」、弱动词恢复（加以改善→改善它、作出贡献→贡献力量）、类名「们」删除、发现的错字「鲍姆嘉端出了」补「通」、多处分号/句号拆句与括号移位）。残余 19 条逐条人工判断豁免：16 条 de-chain 系排比结构（宗教的/政治的/社会的；对上帝的/对他人的/对自己的）、术语化名词结构与强调句式，「的」为汉语必需而非欧化；1 条 long-sentence（行 186）为德文专名括注撑长、不可拆；1 条 passive-bei（行 198）「被动的感官官能」系哲学术语 passive faculty 的定译；1 条 long-sentence（行 50）已再拆分后清零。豁免逐条对照源文复核语义无损。",
-    "r2 复审记录（2026-11-05）：逐句回核原文与逻辑。①s2 全部 41 处修改逐一回核：拆句/移括号/换词处对照源文复核，语义无损（重点：行 50 插入语独立成句后『未必是公开的无神论者』仍辖定『对宗教持批判态度』；行 78 被动改主动『沃尔夫将这种能力认定为表象能力』施动者与源文 identified as 一致）；②五个高风险论证链回核：seg22 内在/外在义务推导、seg40 完善-幸福-最大状态链、seg51 朗格反必然论论证（自动机→致命决定→必然论 vs 斯宾诺莎主义之别）、seg74-76 知性界限与三欲望（良知=Gewissenstrieb 定位）、seg89-92 女性群像事实链（两位索菲/通信人/著作年表）；③zh 尾部形态核验：脚注定义区随 References 节（compose 既定布局，键 162=162），学术工具四行/OIR 六条/相关词条九项/译注占位符合模板 §4 骨架；④禁止复查旧错：本轮不再重复 s1 机检项，只核 s2 后新状态。"
+    "r2 复审记录（2026-11-05）：逐句回核原文与逻辑。①s2 全部 41 处修改逐一回核：拆句/移括号/换词处对照源文复核，语义无损（重点：行 50 插入语独立成句后『未必是公开的无神论者』仍辖定『对宗教持批判态度』；行 78 被动改主动『沃尔夫将这种能力认定为表象能力』施动者与源文 identified as 一致）；②五个高风险论证链回核：seg22 内在/外在义务推导、seg40 完善-幸福-最大状态链、seg51 朗格反必然论论证（自动机→致命决定→必然论 vs 斯宾诺莎主义之别）、seg74-76 知性界限与三欲望（良知=Gewissenstrieb 定位）、seg89-92 女性群像事实链（两位索菲/通信人/著作年表）；③zh 尾部形态核验：脚注定义区随 References 节（compose 既定布局，键 162=162），学术工具四行/OIR 六条/相关词条九项/译注占位符合模板 §4 骨架；④禁止复查旧错：本轮不再重复 s1 机检项，只核 s2 后新状态。",
+    "r3 终审记录（2026-11-05）：冷置已执行（ADR-0020）——s3 后间隔完成多项其他任务（check_all 全库七项门禁、glossary_lint、campaign advance、并行会话状态核查、r1/r2 两轮独立视角回读）后再回读终审。①脱稿通读导言与 §1 开篇，成文流畅无欧化残留；②终稿门禁复跑：check_all 七项全绿（SUMMARY 结构/分类目录/文件大小/垃圾入库/术语一致性/学术规范/单元测试）；check_prose 稳定 19 条（全部豁免留痕）；③结构完整性：节集合 25=25、脚注键 162=162、编号集合对齐、年份 132/132；④登记与守恒：术语/人名 68 行先登记后使用（67+1 补登），账本 97 段 HARD=0；⑤版本钉：pubinfo Jul 1, 2026 / Fall 2026 / SHA-256 62f84fcc… 与 baseline 一致。终稿验收通过，签字：zcode-digit1-20261105。"
   ]
 }

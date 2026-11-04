@@ -2,11 +2,11 @@
  "version": 1,
  "batches": {
   "1": {
-   "phase": "convert",
+   "phase": "done",
    "claimed_by": "zcode-digit1-20261105",
    "claimed_at": "2026-11-04T18:32:39Z",
-   "note": "1/1 镜像齐",
-   "advanced_at": "2026-10-27T11:31:02Z"
+   "note": "批次1 唯一词条 18thGerman-preKant done（2026-11-05，全流程十步）；批次1 收口",
+   "advanced_at": "2026-11-04T20:57:44Z"
   },
   "a": {
    "phase": "translate",
@@ -185,5 +185,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-04T18:32:39Z"
+ "updated_at": "2026-11-04T20:57:44Z"
 }

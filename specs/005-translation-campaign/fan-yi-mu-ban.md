@@ -230,6 +230,8 @@ segments:
 
 **git 纪律**：并行会话活跃时提交一律带 pathspec；重置前先 `git log -2` 确认 HEAD 无他人新提交；共享登记册（ren-ming-biao 等）被他会占用时，用 `git apply --cached` 只暂存己方 hunk。
 
+**现制 References（引用注释）要点（2026-11-05，18thGerman-preKant 首例）**：①2026 起新修订页为「节说明 + 文末 `[^key]:` 定义区」形态，lq.py `refs_kind=modern` 分支自动识别（保留源节标题、转换器契约注记、空子节标题；定义随 References 节照录，非中文条目不译，`[^unless-nd]`/`[^following-nd]` 伪脚注同照录）；②孤立定义（文献表推荐文献未被正文引用）与注记字面 `[^key]` 为源文同构，机检现制豁免覆盖，勿当事故修；③SUMMARY 标题疑衍字时对 `en/<slug>/index.html` citation_title 实证，修 SUMMARY 必联动 mu-lu-s 同路径行；④账本填充器严禁「`- id: N` 起非贪婪跨段匹配 TBD」的正则（会吞掉中间段骨架造成错位 14 段），须按 `  - id: ` 块级切分替换——错位会被写回门脚注键守恒 HARD 拦下，回滚重填即可。
+
 ## 7. 演示与修订
 
 * 本模板 v1.0 由 alcmaeon（一校通过）验证主体骨架；**spacetime-holearg（空穴论证）为四要素演示件**（2026-10-28，任务 state=s3_checked）：图片（`../yuanwen/assets/` 路径裁定**首跑确认**）、脚注（note-1..8 含跨文件孤儿豁免）、数学（`$$…$$` 配对 0 缺失）、表格元素中图/脚注/数学三类已实跑验证，表格类元素仍待首个含表词条确认。演示发现的问题按 rules/04"演示与纠偏循环"回修本模板。
@@ -241,3 +243,4 @@ segments:
 | v1.1 | 2026-10-28 | 四要素演示件 spacetime-holearg 实跑：zh 图片路径裁定获首跑确认；跨文件脚注（补充材料引用主文 notes）定例——主文保留定义，门禁 orphan-def 跨文件豁免（tools/check_academic.py） |
 | v1.2 | 2026-10-31 | 增 §6 LLM 辅助初译操作规程（ADR-0021）：段落账本、反思两步强制（用户裁定）、守恒校验、术语与上下文注入；原 §6 演示与修订顺移为 §7 |
 | v1.3 | 2026-11-04 | 学术工具三行改四行（用户裁定「不计成本解决待裁定事项」）：补「预览本词条的 PDF 版本」行——rules/07 完整性原则优先于 v1.0 三行省略；bullet 形态对齐 36 在先成例措辞；70 存量词条批量补齐（script/rz_acat_pdf.py 幂等插入器，URL 逐条 slug 校验），lq.py compose 同步改四行；表格形态存量（31+4）四项齐备合规不改形，形态归一另行立案 |
+| v1.4 | 2026-11-05 | 现制 References（引用注释）首例落地（18thGerman-preKant，2026-07 新修订页）：lq.py 扩展 refs_kind=modern 分支（保留源节标题+转换器契约注记+空子节标题+文末 `[^key]:` 定义随 References 节照录），向后兼容旧制；伪脚注 `[^unless-nd]`/`[^following-nd]`（作者说明文字，转换器合成键）随文献定义区照录不译，s1 复核裁定留痕；§6.5 增补：SUMMARY 标题衍字须对 en/ citation_title 实证修复并联动 mu-lu-s（本例「18 18th」系 d765f061 批量修复引入，commit d16d6863 修正）；账本填充器禁用跨段非贪婪正则（批2 错位 14 段事故，写回门 HARD 拦截，块级重写修复） |

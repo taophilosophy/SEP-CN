@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-04 19:57（UTC）
+生成时间：2026-11-04 20:57（UTC）
 
 ## 总览
 
@@ -14,21 +14,21 @@
 |已建英文基线|1879|
 |已建任务|997|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|82|
-|在途（drafted 起、done 前）|282|
+|已完成（done）|84|
+|在途（drafted 起、done 前）|281|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|633|
-|cleared|194|
+|pending|632|
+|cleared|191|
 |drafted|2|
 |s1_checked|1|
-|s3_checked|80|
-|r1_reviewed|5|
-|done|82|
+|s3_checked|83|
+|r1_reviewed|4|
+|done|84|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -51,7 +51,7 @@
 |O|21|21|1|0|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|9|2|
+|R|85|85|9|3|
 |S|161|161|6|1|
 |T|71|71|2|0|
 |U|4|4|0|0|
@@ -65,7 +65,6 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|18thGerman-preKant|retranslate|cleared|task_ops 2026-11-04|
 |addams-jane|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |adorno|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-judgment|retranslate|cleared|task_ops 2026-10-31|
@@ -147,7 +146,7 @@
 |bruno|retranslate|cleared|task_ops 2026-11-01|
 |buber|retranslate|cleared|task_ops 2026-11-01|
 |buddha|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|buddhism-chan|retranslate|cleared|task_ops 2026-11-01|
+|buddhism-chan|retranslate|s3_checked|? 2026-11-04|
 |buddhism-huayan|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |buddhism-tiantai|retranslate|cleared|task_ops 2026-11-01|
 |buridan|retranslate|cleared|task_ops 2026-11-01|
@@ -312,7 +311,7 @@
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
 |kant-reason|retranslate|cleared|task_ops 2026-11-01|
 |kant-religion|retranslate|cleared|task_ops 2026-11-01|
-|kant-science|retranslate|cleared|task_ops 2026-11-01|
+|kant-science|retranslate|s3_checked|AK-main-20261105 2026-11-04|
 |kant-social-political|retranslate|cleared|task_ops 2026-11-01|
 |kant-spacetime|retranslate|cleared|task_ops 2026-11-01|
 |kant-transcendental|retranslate|cleared|task_ops 2026-11-01|
@@ -342,8 +341,8 @@
 |leibniz-modal|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|logic-preference|retranslate|cleared|task_ops 2026-11-04|
+|logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
+|logic-provability|retranslate|cleared|task_ops 2026-11-04|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|reasoning-analogy|retranslate|r1_reviewed|RZ-main-20261104 2026-11-04|
 |religious-experience|retranslate|cleared|task_ops 2026-11-04|
