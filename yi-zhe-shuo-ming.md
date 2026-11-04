@@ -1051,3 +1051,22 @@
 | weighing relation | 权衡关系 | logic-preference | Dietrich-List 研究通行 | 2026-11-05 |
 | amplification | 放大 | logic-preference | 冯·赖特偏好逻辑原则通行（V5） | 2026-11-05 |
 | ceteris paribus preference | 其余条件相同的偏好 | logic-preference | 本表既有“其余条件相同”（justep-coherence）派生 | 2026-11-05 |
+| Metaphysical Foundations of Natural Science | 《自然科学的形而上学基础》（简称《形而上学基础》） | kant-science | 学界通行（李秋零译本；本库 kant-leibniz/kant-mind 先例） | 2026-11-05 |
+| Phoronomy | 运动学（康德《形而上学基础》首章章名；源文本章即以 kinematics 释之） | kant-science | 李秋零译本通行 | 2026-11-05 |
+| vis viva | 活力（vis viva） | kant-science | 莱布尼茨力学史通行 | 2026-11-05 |
+| Physical Monadology | 《物理单子论》 | kant-science | 学界通行；kant-leibniz 先例 | 2026-11-05 |
+| A New Elucidation of the First Principles of Metaphysical Cognition | 《形而上学认识诸第一原则的新阐明》（简称《新阐明》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
+| The Only Possible Basis for a Demonstration of the Existence of God | 《上帝存在证明的唯一可能根据》 | kant-science | 学界通行 | 2026-11-05 |
+| Attempt to Introduce the Concept of Negative Magnitudes into Philosophy | 《把负量概念引入哲学的尝试》（简称《负量》） | kant-science | 学界通行；kant-leibniz 短形先例 | 2026-11-05 |
+| Inaugural Dissertation | 《就职论文》 | kant-science | 学界通行（1770） | 2026-11-05 |
+| Opus postumum | 《遗著》（*Opus postumum*） | kant-science | 李秋零全集定名；康德身后手稿合集 | 2026-11-05 |
+| ether; caloric | 以太；热质 | kant-science | 物理学史通行（热质说） | 2026-11-05 |
+| phlogiston | 燃素 | kant-science | 化学史通行 | 2026-11-05 |
+| hylozoism | 物活论 | kant-science | 学界通行 | 2026-11-05 |
+| balancing argument | 平衡论证 | kant-science | 康德物质理论文献通行直译（Warren 2010 语境） | 2026-11-05 |
+| intuitive understanding | 直观知性 | kant-science | 邓晓芒/李秋零译本通行 | 2026-11-05 |
+| discursive understanding | 推论性知性 | kant-science | 李秋零译本通行（与直观知性对举） | 2026-11-05 |
+| reflective judgment | 反思判断（力） | kant-science | 邓晓芒/李秋零译本通行 | 2026-11-05 |
+| Antinomy of Teleological Judgment | 目的论判断的二律背反 | kant-science | 《判断力批判》通名 | 2026-11-05 |
+| formative drive | 形成驱力（Bildungstrieb） | kant-science | 康德生物学文献通行；待 specs/008 审定库复核 | 2026-11-05 |
+| Transition; elementary system of the moving forces | 过渡（Übergang）；运动力的初阶系统（Elementarsystem） | kant-science | 李秋零《遗著》研究通行 | 2026-11-05 |

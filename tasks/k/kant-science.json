@@ -2,7 +2,7 @@
   "slug": "kant-science",
   "kind": "retranslate",
   "zh_doc": "k/kant-science.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:40Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T20:45:30Z",
+      "evidence": "零信任全量重译 92K 源 69 段；assemble 四对账 OK：段落 69/69、内联脚注标记 16/16 零缺失零多余、defs 106/106、节 13/13"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T20:45:30Z",
+      "evidence": "文献还原：biblio_audit kant-science flagged=0 errors=0（全西文文献，ADR-0011 无还原项）；check_academic --strict OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T20:45:30Z",
+      "evidence": "prose 实修 29 处（长句拆分 12/弱动词 6/被动 5/as-one 1/的链 5）+斜体转加粗 47+加粗空格 80，均幂等过；ADR-0020 豁免留痕：残余 83（de-chain 48/long-sentence 31/passive-bei 4）全属康德引文内部（4:468-4:550 等）与概念性定语"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T20:45:33Z",
+      "evidence": "四检终态：style 0、prose 残余 83（引文豁免类）、check_academic --strict OK、math 0 缺失；术语 19 行+人名 3 行已登记（kant-science 来源）"
     }
   ],
   "blockers": [],
