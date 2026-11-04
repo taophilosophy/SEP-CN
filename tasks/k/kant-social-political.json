@@ -2,7 +2,7 @@
   "slug": "kant-social-political",
   "kind": "retranslate",
   "zh_doc": "k/kant-social-political.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:41Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T21:32:12Z",
+      "evidence": "零信任全量重译 92K 源 51 段；assemble 四对账 OK：段落 51/51、内联脚注标记 44/44 零缺失零多余、书目 defs 91/91（内容注 6 条译入主要文献说明）、节 10/10"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T21:32:12Z",
+      "evidence": "文献还原：biblio_audit kant-social-political flagged=0 errors=0（全西文文献，ADR-0011 无还原项）；check_academic --strict OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T21:32:12Z",
+      "evidence": "prose 实修 19 处（长句拆分 7/弱动词 5/被动 5/as-one 1）+斜体转加粗 3+空格门 0，均幂等过；ADR-0020 豁免留痕：残余 65（de-chain 42/long-sentence 22/weak-verb 1）全属康德引文（6:230-8:360 等）与概念性定语；SUMMARY 定名对齐（自利契约论/积极自由和消极自由等 14 相关词条）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-04T21:32:15Z",
+      "evidence": "四检终态：style 0、prose 残余 65（引文豁免类）、check_academic --strict OK、math 0 缺失；人名 3 行登记（卢梭/贝卡里亚/费耶阿本德）；baseline Summer 2026 与源 pubinfo 一致"
     }
   ],
   "blockers": [],

@@ -508,8 +508,8 @@
 | John Donne | 约翰·多恩 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | René Descartes | 勒内·笛卡尔 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Tsongkhapa | 宗喀巴（tsong kha pa blo bzang grags pa，1357–1419） | gelukpa | 佛学界通行汉译 | 2026-11-01 |
-| Nāgārjuna | 龙树 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
-| Candrakīrti | 月称 | gelukpa | 佛学界通行汉译（中观应成派） | 2026-11-01 |
+| Nāgārjuna | 龙树 | gelukpa | 佛学界千年传统译名（汉译佛典古译，非新造） | 2026-11-01 |
+| Candrakīrti | 月称 | gelukpa | 佛学界传统译名（中观应成派；汉译佛典古译） | 2026-11-01 |
 | Dharmakīrti | 法称 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Buddhapālita | 佛护 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Changkya Rolpé Dorjé | 章嘉·若必多吉（lcang skya rol pa'i rdo rje，1717–1786） | gelukpa | 藏传佛教通行汉译（章嘉活佛） | 2026-11-01 |
@@ -707,6 +707,16 @@
 | Vimalakīrti | 维摩诘 | buddhism-chan | 佛学界通行汉译（居士） | 2026-11-05 |
 | Siddhartha Gautama | 悉达多·乔达摩 | buddhism-chan | 学界通行汉译 | 2026-11-05 |
 
+| Bayes, Thomas | 托马斯·贝叶斯 | bayes-theorem | 学界通行汉译（贝叶斯定理命名者） | 2026-11-05 |
+| Hacking, Ian | 伊恩·哈金 | bayes-theorem | 学界通行汉译（《统计推理的逻辑》作者） | 2026-11-05 |
+| Royall, Richard | 理查德·罗亚尔 | bayes-theorem | 学界惯例（生物统计学家，likelihoodism 捍卫者，通行音译） | 2026-11-05 |
+| Sober, Elliott | 埃利奥特·索伯 | bayes-theorem | 学界通行汉译（科学哲学家） | 2026-11-05 |
+| Goldman, Alvin | 阿尔文·戈德曼 | bayes-theorem | 学界通行汉译（可靠主义认识论） | 2026-11-05 |
+| Glymour, Clark | 克拉克·格利穆尔 | bayes-theorem | 学界惯例（《理论与证据》作者，通行音译） | 2026-11-05 |
+| Maher, Patrick | 帕特里克·马赫 | bayes-theorem | 学界惯例（贝叶斯认识论者，通行音译） | 2026-11-05 |
+| Fitelson, Branden | 布兰登·菲特尔森 | bayes-theorem | 学界惯例（确证理论家，通行音译） | 2026-11-05 |
+| Levi, Isaac | 艾萨克·莱维 | bayes-theorem | 学界惯例（不确定信念理论家，通行音译） | 2026-11-05 |
+
 ## 登记格式说明
 
 ```
@@ -788,6 +798,9 @@
 | Martin Knutzen | 马丁·克努岑 | kant-science | 学界通行汉译（康德早年师承，哥尼斯堡逻辑学与形而上学教授） | 2026-11-05 |
 | Georg Ernst Stahl | 格奥尔格·恩斯特·施塔尔 | kant-science | 化学史通行汉译（燃素说提出者；与 locke-on-medicine 登记的 Peter Stahl「彼得·施塔尔」为不同人，键以全名区分） | 2026-11-05 |
 | Antoine-Laurent Lavoisier | 安托万-洛朗·拉瓦锡 | kant-science | 化学史通行汉译（化学革命） | 2026-11-05 |
+| Jean-Jacques Rousseau | 让-雅克·卢梭 | kant-social-political | 学界千年通行译名 | 2026-11-05 |
+| Cesare Beccaria | 切萨雷·贝卡里亚 | kant-social-political | 学界通行汉译（启蒙刑法改革家，《论犯罪与刑罚》） | 2026-11-05 |
+| Feyerabend, Gottfried | 费耶阿本德 | kant-social-political | 学界通行音译（康德自然法课程听课笔记记录者；与科学哲学家 Paul Feyerabend 同姓） | 2026-11-05 |
 
 ## 待裁定
 
