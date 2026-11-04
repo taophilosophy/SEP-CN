@@ -2,7 +2,7 @@
   "slug": "kant-mind",
   "kind": "retranslate",
   "zh_doc": "k/kant-mind.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:42Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:12Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：lq.py init 195 段（body=183+oir=2+ack=1+note=9）→本会话直译双版三批（script/build_kmind_p1+p2+p3.py）→守恒自检 seg194 补 [^shoemaker-1970] 键后 HARD=0→lq.py check 通过 195/195→compose 写回 46016 字符；H1=SUMMARY 1399 行；参考文献 161 条照录；note 9 条译出（seg187-195）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:12Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：中文强调斜体→粗体 30 行（守卫锚定转换器）；L10 直引号 Scottish 'Cant' 去引号、L22 *先验论证* 斜体转粗、L307 中文单引号‘我’转“我”；关联词条 NOTE 6 项对齐 SUMMARY 登记形（先验证成与先验知识 153/意识的统一性 555/康德和休谟论因果关系 1387/康德和休谟论道德 1388/康德的科学哲学 1394/康德的先验论证 1397）；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:12Z",
+      "evidence": "s2 二校：引文括注 60+ 处复核（KRV A/B 版 20+ 处——A84=B116/A97-A111/A120-121/A346=B404/A352-355/A398/A546=B574/B68/B131-B135/B153-B159/B409/B422、Ak. IV:471/474/VII:133/141-3/161、Anthropology 1798 两段、2:327/277/285/392/199、1786/1783）；术语核销：先验感性论/形而上学演绎/先验演绎 TD/谬误推理/直观中领会的综合/想象中再生的综合/概念中认定的综合/先验统觉 TA/统觉的统一/意识的统一/内感官-外感官/杂多/自发性/经验性自我意识/我思/全局表象/表象基底/先验指称/不经认同的自我指称/本质索引词/不加归属的对自我的指称/捆束理论/认知架构/最佳解释推理/莱布尼茨歧义 Amphiboly/对观念论的驳斥/quid juris 权利问题/数目同一；专名核销（弗洛伊德/福多/普特南/休谟/笛卡尔/莱布尼茨/贝克莱/斯韦登博格/梅斯特林无——本条无/费希特无/弗雷格/维特根斯坦/舒梅克/佩里/特雷斯曼/罗森塔尔/斯特劳森/亨利希/盖耶/沃克/皮平/塞拉斯/贝内特/梅尔博特/法尔肯施泰因/布鲁克/德维迪/雷蒙特/阿梅里克斯/基切尔/隆格内斯无——本条引）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:16Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues（三处修复后复跑）；check_math 0；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:16Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/kant-mind.md 752 行 ↔ k/kant-mind.md 435 行逐段核销）：导言+六节（概要/批判计划 2.1-2.5/心灵观 3.1-3.4 含 3.2.1-3.2.3 三小节/自我意识与自我知识 4.1-4.7 七论题/关于心灵的知识/当代影响）全数在位；九条引块（CPR A77=B103 综合/A103 计数/A108 先验统觉统一/A116/B153 内感官两段/舒梅克 1968 两段/A355 先验指称/B422 范畴主体/A346=B404 先验主体=B404）逐句核销；七论题结构核销（两种自我意识/表象基底/内感官只显象/指称机制/无杂多/非知识/单一共同主体）；note 9 条译出逐字；参考文献 161 条逐字相符；专名史实核销（1571 苏格兰血统说/1910-1965 行为主义/1960s 功能主义/1968 舒梅克/1979 佩里/1980 特雷斯曼/1934-5 维特根斯坦 Blue-Brown Books）；零信任抽查 4 处（Bxxx 否认知识引文/A106-A111 90 度转向段/B131 不是统一的范畴/A350 单一共同主体）与 en 镜像一致；本条为主会话自译，r1 以源文复读+抽查如实记"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:16Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施留痕，r2 复认）：斜体→粗体 30 行；三处引号体例（Cant 去引号/先验论证转粗/‘我’转“我”）；seg194 补 [^shoemaker-1970] 键守恒；关联词条 6 项对齐；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:19Z",
+      "evidence": "r3 门禁全绿：四道复跑全过（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T16:55:19Z",
+      "evidence": "done 收口：K 批直译第七条全周期（init→直译双版 195 段→守恒→compose 46016 字符→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
     }
   ],
   "blockers": [],

@@ -580,7 +580,7 @@ A106 与 A111 之间的段落难读得让人眼花缭乱：它处理先验统觉
 
 ## 相关词条
 
-*a priori* justification and knowledge | consciousness: unity of | 勒内·笛卡尔 | 功能主义 | 唯心主义 | 伊曼努尔·康德 | Kant, Immanuel: and Hume on causality | Kant, Immanuel: and Hume on morality | Kant, Immanuel: philosophy of science | Kant, Immanuel: transcendental arguments | 戈特弗里德·威廉·莱布尼茨 | 托马斯·里德 | 自我意识
+先验证成与先验知识 | 意识的统一性 | 勒内·笛卡尔 | 功能主义 | 唯心主义 | 伊曼努尔·康德 | 康德和休谟论因果关系 | 康德和休谟论道德 | 康德的科学哲学 | 康德的先验论证 | 戈特弗里德·威廉·莱布尼茨 | 托马斯·里德 | 自我意识
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 

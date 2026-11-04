@@ -1,1185 +1,1581 @@
 version: 1
 slug: kant-mind
-params:
-  model: "GLM-5.3-Flash（ZCode 主会话直译）"
-  temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
 segments:
   - id: 1
     kind: body
     source: |-
       Even though Kant himself held that his view of the mind and consciousness were inessential to his main purpose, some of the ideas central to his point of view came to have an enormous influence on his successors. Some of his ideas are now central to cognitive science, for example. Other ideas equally central to his point of view had little influence on subsequent work. In this article, first we survey Kant’s model as a whole and the claims in it that have been influential. Then we examine his claims about consciousness of self specifically. Many of his ideas that have not been influential are ideas about the consciousness of self. Indeed, even though he achieved remarkable insights into consciousness of self, many of these insights next appeared only about 200 years later, in the 1960s and 1970s.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管康德本人认为他关于心灵与意识的观点对他的主要目的无关紧要，他的观点中一些核心理念后来对其继承者产生了巨大影响。例如，他的一些理念如今已是认知科学的核心。与他观点同样核心的另一些理念，对后续工作却影响甚微。本文首先综观康德的模型整体及其中产生影响的诸主张；然后专门考察他关于自我意识的诸主张。他没有产生影响的理念，很多恰恰是关于自我意识的。事实上，尽管他对自我意识取得了非凡的洞见，这些洞见的下一次出现要到大约 200 年之后——1960 与 1970 年代。
+    step2: |-
+      尽管康德本人认为他关于心灵与意识的观点对他的主要目的无关紧要，其观点中一些核心理念后来对继承者产生了巨大影响。例如，他的一些理念如今已是认知科学的核心；而与他观点同样核心的另一些理念，对后续工作却影响甚微。本文首先综观康德的模型整体及其中产生影响的诸主张，然后专门考察他关于自我意识的诸主张。没有产生影响的理念，很多恰是关于自我意识的：事实上，尽管康德对自我意识取得了非凡的洞见，这些洞见的再次出现要到约 200 年后——1960 与 1970 年代。
   - id: 2
     kind: body
     source: |-
       ## 1. A Sketch of Kant’s View of the Mind
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 康德心灵观概要
+    step2: |-
+      ## 1 康德心灵观概要
   - id: 3
     kind: body
     source: |-
       In this article, we will focus on Immanuel Kant’s (1724–1804) work on the mind and consciousness of self and related issues.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本文将聚焦伊曼努尔·康德（1724–1804）关于心灵、自我意识及相关问题的著作。
+    step2: |-
+      本文聚焦伊曼努尔·康德（1724–1804）关于心灵、自我意识及相关问题的著作。
   - id: 4
     kind: body
     source: |-
       Some commentators believe that Kant’s views on the mind are dependent on his idealism (he called it transcendental idealism). For the most part, that is not so. At worst, most of what he said about the mind and consciousness can be detached from his idealism. Though often viewed as a quintessentially German philosopher, Kant is said to have been one-quarter Scottish. Some philosophers (often Scottish) hold that ‘Kant’ is a Germanization of the Scottish name ‘Candt’, though many scholars now reject the idea. It is noteworthy, however, that his work on epistemology, which led him to his ideas about the mind, was a response to Hume as much as to any other philosopher.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一些评注者认为，康德关于心灵的观点依赖于他的观念论（他称之为先验观念论）。大体而言并非如此。往最坏处说，他关于心灵与意识所说的大部分内容都可以从其观念论中剥离出来。康德虽常被视为典型的德国哲学家，据说却有四分之一苏格兰血统。一些哲学家（常是苏格兰人）主张 ‘Kant’ 是苏格兰姓氏 ‘Candt’ 的德语化，尽管许多学者现在拒斥这一说法。然而值得注意的是：他在认识论上的工作——正是它引出了他关于心灵的理念——既是对休谟的回应，也不亚于对任何其他哲学家的回应。
+    step2: |-
+      一些评注者认为，康德关于心灵的观点依赖其观念论（他称之为先验观念论）。大体并非如此：往最坏处说，他关于心灵与意识所说的大部分内容都可以从观念论中剥离。康德虽常被视为典型的德国哲学家，据说有四分之一苏格兰血统；一些哲学家（常为苏格兰人）主张 ‘Kant’ 是苏格兰姓氏 ‘Cant’ 的德语化，但许多学者如今拒斥此说。然而值得注意的是：他的认识论工作——正是它引出其心灵理念——是对休谟的回应，其分量不亚于对任何其他哲学家的回应。
   - id: 5
     kind: body
     source: |-
       In general structure, Kant’s model of the mind was the dominant model in the empirical psychology that flowed from his work and then again, after a hiatus during which behaviourism reigned supreme (roughly 1910 to 1965), toward the end of the 20ᵗʰ century, especially in cognitive science. Central elements of the models of the mind of thinkers otherwise as different as Sigmund Freud and Jerry Fodor are broadly Kantian, for example.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在总体结构上，康德的心灵模型是源自其著作的经验心理学中的主导模型，在行为主义称雄的一段间歇（约 1910–1965）之后，又是二十世纪末——尤其在认知科学中——的主导模型。例如，西格蒙德·弗洛伊德与杰瑞·福多这两位在其他方面迥异的思想家，其心灵模型的核心要素都大体是康德式的。
+    step2: |-
+      在总体结构上，康德的心灵模型是源自其著作的经验心理学的主导模型；在行为主义称雄的一段间歇（约 1910–1965）之后，又成为二十世纪末——尤其认知科学中——的主导模型。例如，西格蒙德·弗洛伊德与杰瑞·福多这两位在其他方面迥异的思想家，其心灵模型的核心要素都大体是康德式的。
   - id: 6
     kind: body
     source: |-
       Three ideas define the basic shape (‘cognitive architecture’) of Kant’s model and one its dominant method. They have all become part of the foundation of cognitive science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      三个理念规定了康德模型的基本形态（“认知架构”），一个理念规定了它的主导方法。它们如今全都已成为认知科学基础的组成部分。
+    step2: |-
+      三个理念规定了康德模型的基本形态（“认知架构”），一个理念规定了其主导方法。它们如今全都已成为认知科学基础的组成部分。
   - id: 7
     kind: body
     source: |-
       1. The mind is a complex set of abilities (functions). (As Meerbote 1989 and many others have observed, Kant held a functionalist view of the mind almost 200 years before functionalism was officially articulated in the 1960s by Hilary Putnam and others.)[^meerbote-1989]
       2. The functions crucial for mental, knowledge-generating activity are spatio-temporal processing of, and application of concepts to, sensory inputs. Cognition requires concepts as well as percepts.
       3. These functions are forms of what Kant called synthesis. Synthesis (and the unity in consciousness required for synthesis) are central to cognition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 心灵是一套复杂的能力（功能）。（正如 Meerbote 1989 与许多其他人观察到的：在功能主义于 1960 年代由希拉里·普特南等人正式提出之前近 200 年，康德就持有关于心灵的功能主义观点。）[^meerbote-1989]
+      2. 对产生知识的心理活动至关重要的功能，是对感官输入的时空处理与把概念应用于其上。认知既需要知觉（percepts），也需要概念。
+      3. 这些功能是康德所谓综合的诸形式。综合（以及综合所需的意识中的统一）是认知的核心。
+    step2: |-
+      1. 心灵是一套复杂的能力（功能）。（正如 Meerbote 1989 与许多观察者指出的：在功能主义于 1960 年代由希拉里·普特南等人正式提出之前近 200 年，康德已持有关于心灵的功能主义观点。）[^meerbote-1989]
+      2. 对产生知识的心理活动至关重要的功能，是对感官输入的时空处理与把概念应用其上。认知既需要知觉（percepts），也需要概念。
+      3. 这些功能是康德所谓综合的诸形式。综合（以及综合所需的意识中的统一）是认知的核心。
   - id: 8
     kind: body
     source: |-
       These three ideas are fundamental to most thinking about cognition now. Kant’s most important method, the transcendental method, is also at the heart of contemporary cognitive science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这三个理念如今是关于认知的大多数思考的基础。康德最重要的方法——先验方法——也处于当代认知科学的心脏。
+    step2: |-
+      这三个理念如今是关于认知的大多数思考的基础。康德最重要的方法——先验方法——也处于当代认知科学的心脏。
   - id: 9
     kind: body
     source: |-
       - To study the mind, infer the conditions necessary for experience. Arguments having this structure are called *transcendental arguments*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 研究心灵，就要推导经验之可能的必要条件。具有这种结构的论证被称为*先验论证*。
+    step2: |-
+      - 研究心灵，就要推导经验之可能的必要条件。具有这种结构的论证被称为*先验论证*。
   - id: 10
     kind: body
     source: |-
       Translated into contemporary terms, the core of this method is inference to the best explanation, the method of postulating unobservable mental mechanisms in order to explain observed behaviour.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      翻译成当代术语，这一方法的核心是最佳解释推理：为解释被观察的行为而设定不可观察的心理机制的方法。
+    step2: |-
+      译成当代术语，这一方法的核心是最佳解释推理：为解释被观察的行为而设定不可观察的心理机制。
   - id: 11
     kind: body
     source: |-
       To be sure, Kant thought that he could get more out of his transcendental arguments than just ‘best explanations’. He thought that he could get *a priori* (experience independent) knowledge out of them. Kant had a tripartite doctrine of the *a priori.* He held that some features of the mind and its knowledge had *a priori* origins, i.e., must be in the mind prior to experience (because using them is necessary to have experience). That mind and knowledge have these features are *a priori* truths, i.e., necessary and universal (B3/4)[^note-1]. And we can come to know these truths, or that they are *a priori* at any rate, only by using *a priori* methods, i.e., we cannot learn these things from experience (B3) (Brook 1993)[^brook-1993]. Kant thought that transcendental arguments were *a priori* or yielded the *a priori* in all three ways. Nonetheless, at the heart of this method is inference to the best explanation. When introspection fell out of favour about 100 years ago, the alternative approach adopted was exactly this approach. Its nonempirical roots in Kant notwithstanding, it is now the major method used by experimental cognitive scientists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诚然，康德认为他能从先验论证中得到的不只是“最佳解释”。他认为他能从中得到*先天的*（独立于经验的）知识。康德有一套关于*先天*的三分学说。他主张：心灵及其知识的某些特征有*先天的*起源，即必然先于经验而在心灵之中（因为使用它们是拥有经验之必要条件）。心灵与知识具有这些特征，这是*先天*真理，即必然而普遍的真理（B3/4）[^note-1]。而我们要认识这些真理——或至少认识它们是*先天的*——只能使用*先天的*方法，即我们无法从经验中学到这些事情（B3）（Brook 1993）[^brook-1993]。康德认为先验论证在全部三种意义上都是*先天的*或产生*先天的*东西。尽管如此，这一方法的核心仍是最佳解释推理。约 100 年前内省法失宠时，被采纳的替代进路恰是这一进路。尽管其在康德那里有非经验的根源，它如今是实验认知科学家使用的主要方法。
+    step2: |-
+      诚然，康德认为他能从先验论证中得到的不只是“最佳解释”：他认为能从中得到*先天的*（独立于经验的）知识。康德有一套关于*先天*的三分学说。他主张：心灵及其知识的某些特征有*先天的*起源——即必然先于经验而在心灵之中（因为使用它们是拥有经验之必要条件）。心灵与知识具有这些特征，这是*先天*真理，即必然而普遍的真理（B3/4）[^note-1]。而我们要认识这些真理（或至少认识它们是*先天的*），只能使用*先天的*方法——我们无法从经验中学到这些事情（B3）（Brook 1993）[^brook-1993]。康德认为先验论证在全部三种意义上都是*先天的*或产生*先天的*东西。尽管如此，这一方法的核心仍是最佳解释推理：约 100 年前内省法失宠时，被采纳的替代进路恰是它。尽管其在康德那里有非经验的根源，它如今是实验认知科学的主要方法。
   - id: 12
     kind: body
     source: |-
       Other topics equally central to Kant’s approach to the mind have hardly been discussed by cognitive science. These include, as we will see near the end, a kind of synthesis that for Kant was essential to minds like ours and what struck him as the most striking features of consciousness of self. Far from his model having been superseded by cognitive science, some things central to the model have not even been assimilated by it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其他与康德心灵进路同样核心的论题，认知科学却几乎未加讨论。这些包括——我们将在接近结尾处看到——康德认为对像我们这样的心灵必不可少的某种综合，以及给他留下最深刻印象的自我意识的诸特征。康德的模型非但没有被认知科学取代，其某些核心内容甚至尚未被它吸收。
+    step2: |-
+      其他与康德心灵进路同样核心的论题，认知科学却几乎未加讨论。这些包括（我们将在结尾处看到）：康德认为对像我们这样的心灵必不可少的某种综合，以及给他印象最深的自我意识诸特征。康德的模型非但没有被认知科学取代，其某些核心内容甚至尚未被它吸收。
   - id: 13
     kind: body
     source: |-
       ## 2. Kant’s Critical Project and How the Mind Fits Into It
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 康德的批判计划与心灵的定位
+    step2: |-
+      ## 2 康德的批判计划与心灵的定位
   - id: 14
     kind: body
     source: |-
       The major works so far as Kant’s views on the mind are concerned are the monumental *Critique of Pure Reason (CPR)* and his little, late *Anthropology from a Pragmatic Point of View*, first published in 1798 only six years before his death. Since the *Anthropology* was worked up from notes for popular lectures, it is often superficial compared to *CPR.* Kant’s view of the mind arose from his general philosophical project in *CPR* the following way. Kant aimed among other things to,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      就康德关于心灵的观点而言，主要著作是宏伟的《纯粹理性批判》（*CPR*）与其晚年小书《实用观点下的人类学》——1798 年首次出版，即其去世前六年。由于《人类学》是由通俗讲稿整理而成，与 *CPR* 相比常常显得肤浅。康德的心灵观源于他在 *CPR* 中的总体哲学计划，方式如下。康德的目标除其他外包括：
+    step2: |-
+      就康德的心灵观而言，主要著作是宏伟的《纯粹理性批判》（*CPR*）与其晚年小书《实用观点下的人类学》（1798 年首版，即其去世前六年）。《人类学》由通俗讲稿整理而成，与 *CPR* 相比常显肤浅。康德的心灵观源于他在 *CPR* 中的总体哲学计划，方式如下。康德的目标除其他外包括：
   - id: 15
     kind: body
     source: |-
       - Justify our conviction that physics, like mathematics, is a body of necessary and universal truth.
       - Insulate religion, including belief in immortality, and free will from the corrosive effects of this very same science.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 为我们的信念辩护：物理学像数学一样，是必然且普遍真理的体系。
+      - 使宗教——包括对不朽的信念——与自由意志免受这同一种科学的腐蚀效应。
+    step2: |-
+      - 为我们的信念辩护：物理学像数学一样，是必然且普遍真理的体系。
+      - 使宗教（包括对不朽的信念）与自由意志免受这同一种科学的腐蚀。
   - id: 16
     kind: body
     source: |-
       Kant accepted without reservation that “God, freedom and immortality” (1781/7, Bxxx) exist but feared that, if science were relevant to their existence at all, it would provide reasons to doubt that they exist. As he saw it and very fortunately, science cannot touch these questions. “I have found it necessary to deny *knowledge*, … in order to make room for *faith.”* (Bxxx, his italics).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德毫无保留地接受“上帝、自由与不朽”（1781/7, Bxxx）存在，但他担心：如果科学与它们的存在有任何关联，就会提供怀疑其存在的理由。照他看来，而且十分幸运：科学触及不了这些问题。“我发现有必要否认*知识*……以便为*信仰*留出地盘。”（Bxxx，原文强调）
+    step2: |-
+      康德毫无保留地接受“上帝、自由与不朽”（1781/7, Bxxx）存在；但他担心：若科学与它们的存在有任何关联，就会提供怀疑其存在的理由。照他看来，而且十分幸运：科学触及不了这些问题。“我发现有必要否认*知识*……以便为*信仰*留出地盘。”（Bxxx，原文强调）
   - id: 17
     kind: body
     source: |-
       Laying the foundation for pursuit of the first aim, which as he saw it was no less than the aim of showing why physics is a science, was what led Kant to his views about how the mind works. He approached the grounding of physics by asking: What are the necessary conditions of experience (A96)? Put simply, he held that for our experience, and therefore our minds, to be as they are, the way that our experience is tied together must reflect the way that, according to physics, says objects in the world must be tied together. Seeing this connection also tells us a lot about what our minds must be like.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为第一个目标——照他看来，这一目标不亚于说明物理学为什么是一门科学——奠定基础，正是这一点引导康德形成了他关于心灵如何工作的观点。他通过如下问题接近物理学的奠基：经验的必要条件是什么（A96）？简言之，他主张：我们的经验、从而我们的心灵要像其所是的那样，我们经验被联结在一起的方式就必须反映物理学所说的世界中的对象被联结在一起的方式。看清这一联系，也告诉我们很多关于我们的心灵必定是什么样的东西。
+    step2: |-
+      为第一个目标（照他看来，它不亚于说明物理学为什么是一门科学）奠基，正是这一点引导康德形成其心灵工作方式的观点。他以如下问题接近物理学的奠基：经验的必要条件是什么（A96）？简言之，他主张：我们的经验、从而我们的心灵要像其所是的那样，我们经验被联结的方式就必须反映物理学所说的世界中的对象被联结的方式。看清这一联系，也告诉我们很多关于心灵必定是什么样的东西。
   - id: 18
     kind: body
     source: |-
       In pursuit of the second aim, Kant criticized some arguments of his predecessors that entailed if sound that we can know more about the mind’s consciousness of itself than Kant could allow. Mounting these criticisms led him to some extraordinarily penetrating ideas about our consciousness of ourselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在追求第二个目标的过程中，康德批评了他的一些前辈的论证——这些论证如果可靠，将意味着我们对心灵的自我意识的了解可以超出康德允许的范围。提出这些批评，使他形成了一些关于我们自我意识的非凡深刻的理念。
+    step2: |-
+      在追求第二个目标的过程中，康德批评前辈们的某些论证——它们若可靠，将意味着我们对心灵的自我意识的了解可超出康德允许的范围。提出这些批评，使他形成了一些关于自我意识的非凡深刻的理念。
   - id: 19
     kind: body
     source: |-
       In *CPR,* Kant discussed the mind only in connection with his main projects, never in its own right, so his treatment is remarkably scattered and sketchy. As he put it, “Enquiry … [into] the pure understanding itself, its possibility and the cognitive faculties upon which it rests … is of great importance for my chief purpose, … [but] does not form an essential part of it” (Axvii). Indeed, Kant offers no sustained, focussed discussion of the mind anywhere in his work except the popular *Anthropology,* which, as we just said, is quite superficial.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 *CPR* 中，康德只在与其主要计划的关联中讨论心灵，从不为其自身而讨论；因此他的处理惊人地散乱而粗略。正如他所说：“对纯粹知性本身……及其可能性与它所依赖的认知官能的研究……对我的主要目的非常重要……［但］并不构成其本质部分”（Axvii）。的确，除通俗的《人类学》之外——如我们刚说过的，它相当肤浅——康德在其著作中任何地方都没有对心灵的持续而聚焦的讨论。
+    step2: |-
+      在 *CPR* 中，康德只在与其主要计划的关联中讨论心灵，从不为其自身而讨论；因此他的处理惊人地散乱粗略。正如他所说：“对纯粹知性本身……及其可能性与它所依赖的认知官能的研究……对我的主要目的非常重要……［但］并不构成其本质部分”（Axvii）。的确，除通俗的《人类学》（如刚说过的，相当肤浅）之外，康德在其著作中任何地方都没有对心灵的持续而聚焦的讨论。
   - id: 20
     kind: body
     source: |-
       In addition, the two chapters of *CPR* in which most of Kant’s remarks on the mind occur, the chapter on the Transcendental Deduction (TD) and the chapter on what he called Paralogisms (faulty arguments about the mind mounted by his predecessors) were the two chapters that gave him the greatest difficulty. (They contain some of the most impenetrable prose ever written.) Kant completely rewrote the main body of both chapters for the second edition (though not the introductions, interestingly).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，*CPR* 中康德关于心灵的评论最集中的两章——论先验演绎（TD）的一章与论他所谓谬误推理（他的前辈们就心灵提出的错误论证）的一章——恰是给他造成最大困难的两章。（它们包含了一些有史以来最难穿透的行文。）他为第二版完全重写了这两章的主体（不过有意思的是，两章的导言未动）。
+    step2: |-
+      此外，*CPR* 中康德关于心灵的评论最集中的两章——先验演绎（TD）章与他所谓谬误推理（前辈们就心灵提出的错误论证）章——恰是给他造成最大困难的两章（其中包含一些有史以来最难穿透的行文）。他为第二版完全重写了这两章的主体（不过有意思的是：两章的导言未动）。
   - id: 21
     kind: body
     source: |-
       In the two editions of *CPR,* there are seven main discussions of the mind. The first is in the Transcendental Aesthetic, the second is in what is usually called the Metaphysical Deduction (for this term, see below). Then there are two discussions of it in the first-edition TD, in parts 1 to 3 of Section 2 (A98 up to A110) and in the whole of Section 3 (A115-A127)[^note-2] and two more in the second-edition TD, from B129 to B140 and from B153 to B159, the latter seemingly added as a kind of supplement. The seventh and last is found in the first edition version of Kant’s attack on the Paralogisms, in the course of which he says things of the utmost interest about consciousness of and reference to self. (What little was retained of these remarks in the second edition was moved to the completely rewritten TD.) For understanding Kant on the mind and self-knowledge, the first edition of *CPR* is far more valuable than the second edition. Kant’s discussion proceeds through the following stages.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在 *CPR* 的两版中，有七个关于心灵的主要讨论。第一个在先验感性论中；第二个在通常所谓形而上学演绎的一章中（关于这一术语，见下文）。然后是第一版 TD 中的两个讨论——在第 2 节的第 1 至 3 部分（A98 至 A110）与整个第 3 节（A115-A127）[^note-2]——以及第二版 TD 中的另外两个：从 B129 到 B140、从 B153 到 B159，后者似乎是作为某种补充而加上的。第七个也是最后一个，见于第一版版本来康德对谬误推理的攻击——在其中，他关于对自我的意识与指称说出了极为有趣的东西。（这些评论在第二版中保留下来的部分被移入了完全重写的 TD。）为理解康德论心灵与自我知识，*CPR* 第一版远比第二版有价值。康德的讨论经由如下阶段展开。
+    step2: |-
+      在 *CPR* 两版中，有七个关于心灵的主要讨论。第一个在先验感性论；第二个在通常所谓形而上学演绎的一章（关于这一术语，见下文）。然后是第一版 TD 中的两个讨论——第 2 节第 1 至 3 部分（A98 至 A110）与整个第 3 节（A115-A127）[^note-2]；以及第二版 TD 中的另外两个：B129 至 B140、B153 至 B159，后者似乎是作为某种补充而加。第七个也是最后一个，见于第一版版本来康德对谬误推理的攻击——在其中，他关于对自我的意识与指称说出了极为有趣的东西（这些评论在第二版中保留下来的部分被移入完全重写的 TD）。为理解康德论心灵与自我知识，*CPR* 第一版远比第二版有价值。康德的讨论经如下阶段展开。
   - id: 22
     kind: body
     source: |-
       ### 2.1 Transcendental Aesthetic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.1 先验感性论
+    step2: |-
+      ### 2.1 先验感性论
   - id: 23
     kind: body
     source: |-
       Kant calls the first stage the Transcendental Aesthetic.[^note-3] It is about what space and time must be like, and how we must handle them, if our experience is to have the spatial and temporal properties that it has. This question about the necessary conditions of experience is for Kant a ‘transcendental’ question and the strategy of proceeding by trying to find answers to such questions is, as we said, the strategy of transcendental argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德称第一阶段为先验感性论。[^note-3] 它关乎：如果我们的经验要具有它所具有的空间性与时间性属性，空间与时间必须是什么样的、我们必须如何处理它们。这个关于经验之必要条件的问题，对康德而言是一个“先验”问题；而通过寻找这类问题的答案来展开的策略，如我们所说，就是先验论证的策略。
+    step2: |-
+      康德称第一阶段为先验感性论。[^note-3] 它关乎：若我们的经验要具有其所具有的空间性与时间性属性，空间与时间必须是什么样的、我们必须如何处理它们。这个关于经验之必要条件的问题，对康德是“先验”问题；通过寻找这类问题的答案来展开的策略——如我们所说——就是先验论证的策略。
   - id: 24
     kind: body
     source: |-
       Here Kant advances one of his most notorious views: that whatever it is that impinges on us from the mind-independent world does not come located in a spatial nor even a temporal matrix (A37=B54fn.). Rather, it is the mind that organizes this ‘manifold of raw intuition’, as he called it, spatially and temporally. The mind has two pure forms of intuition, space and time, built into it to allow it to do so. (‘Pure’ means ‘not derived from experience’.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这里康德提出了他最恶名昭著的观点之一：无论从独立于心灵的世界冲击我们的是什么，它都不位于空间的甚至时间的矩阵之中（A37=B54fn.）。毋宁说，是心灵把这个他所谓的“原始直观的杂多”在空间与时间上组织起来。心灵内建了两种纯粹的直观形式——空间与时间——使它能够这样做。（“纯粹”意为“不从经验派生”。）
+    step2: |-
+      在这里康德提出了最恶名昭著的观点之一：无论从独立于心灵的世界冲击我们的是什么，它都不位于空间的甚至时间的矩阵之中（A37=B54fn.）。毋宁说，是心灵把他所谓“原始直观的杂多”在空间与时间上组织起来。心灵内建两种纯粹的直观形式——空间与时间——使它能够这样做（“纯粹”意为“不从经验派生”）。
   - id: 25
     kind: body
     source: |-
       These claims are very problematic. For example, they invite the question, in virtue of what is the mind constrained to locate a bit of information at one spatial or temporal location rather than another? Kant seems to have had no answer to this question (Falkenstein 1995; Brook 1998)[^brook-1998][^falkenstein-1995]. Most commentators have found Kant’s claim that space and time are only in the mind, not at all in the mind-independent world, to be implausible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些主张非常有问题。例如，它们引出了一个问题：心灵是凭什么被约束、把一条信息定位在一个空间或时间位置而非另一个的？康德似乎对这一问题没有答案（Falkenstein 1995; Brook 1998）[^brook-1998][^falkenstein-1995]。多数评注者认为，康德的空间与时间只在心灵中、完全不在独立于心灵的世界中的主张难以令人信服。
+    step2: |-
+      这些主张非常有问题。例如，它们引出这样的问题：心灵凭什么被约束、把一条信息定位在某个空间或时间位置而非另一个？康德似乎对此没有答案（Falkenstein 1995; Brook 1998）[^brook-1998][^falkenstein-1995]。多数评注者认为，康德的空间与时间只在心灵中、完全不在独立于心灵的世界中这一主张难以令人信服。
   - id: 26
     kind: body
     source: |-
       The activity of locating items in the ‘forms of intuition’, space and time, is one of the three kinds of what Kant called synthesis and discussed in the chapter on the Transcendental Deduction. It is not entirely clear how the two discussions relate.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在“直观形式”——空间与时间——中定位诸项的活动，是康德所谓综合的三种之一，并在先验演绎一章中得到讨论。两种讨论如何关联，并不完全清楚。
+    step2: |-
+      在“直观形式”（空间与时间）中定位诸项的活动，是康德所谓综合的三种之一，并在先验演绎章得到讨论。两种讨论如何关联，并不完全清楚。
   - id: 27
     kind: body
     source: |-
       ### 2.2 Metaphysical Deduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.2 形而上学演绎
+    step2: |-
+      ### 2.2 形而上学演绎
   - id: 28
     kind: body
     source: |-
       The Aesthetic is about the conditions of experience, Kant’s official project. The chapter leading up to the Transcendental Deduction, The Clue to the Discovery of All Pure Concepts of the Understanding (but generally called the Metaphysical Deduction because of a remark that Kant once made, B159) has a very different starting point.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      感性论关乎经验的条件，这是康德的官方计划。导向先验演绎的一章——发现一切纯粹知性概念的线索（但因康德一次评论 B159 而一般被称为形而上学演绎）——有一个非常不同的起点。
+    step2: |-
+      感性论关乎经验的条件——这是康德的官方计划。导向先验演绎的一章“发现一切纯粹知性概念的线索”（但因康德的一次评论 B159 而一般被称为形而上学演绎）——有非常不同的起点。
   - id: 29
     kind: body
     source: |-
       Starting from (and, Bvii, taking for granted the adequacy of) Aristotelian logic (the syllogisms and the formal concepts that Aristotle called categories), Kant proceeds by analysis to draw out the implications of these concepts and syllogisms for the conceptual structure (the “function of thought in judgment” (A70=B95)) within which all thought and experience must take place. The result is what Kant called the Categories. That is to say, Kant tries to deduce the conceptual structure of experience from the components of Aristotelian logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从亚里士多德逻辑（三段论与亚里士多德称为范畴的形式概念）出发（并在 Bvii 把它的充分性当作理所当然），康德经由分析抽绎出这些概念与三段论对一切思想与经验必须在其中发生的概念结构（“判断中思维的功能”（A70=B95））的含义。结果就是康德所谓的范畴。也就是说，康德试图从亚里士多德逻辑的诸成分演绎出经验的概念结构。
+    step2: |-
+      康德从亚里士多德逻辑（三段论与亚里士多德称为范畴的形式概念）出发（并在 Bvii 把它的充分性当作理所当然），经分析抽绎出这些概念与三段论对概念结构——“判断中思维的功能”（A70=B95）——的含义：一切思想与经验都必须在其中发生。结果就是康德所谓的范畴。也就是说，康德试图从亚里士多德逻辑的诸成分演绎出经验的概念结构。
   - id: 30
     kind: body
     source: |-
       Thus, in Kant’s thought about the mind early in *CPR*, there is not one central movement but two, one in the Transcendental Aesthetic and the other in the Metaphysical Deduction. The first is a move up from experience (of objects) to the necessary conditions of such experience. The second is a move down from the Aristotelian functions of judgment to the concepts that we have to use in judging, namely, the Categories. One is inference up from experience, the other deduction down from conceptual structures of the most abstract kind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，在康德 *CPR* 早期关于心灵的思考中，不是一个而是两个中心运动：一个在先验感性论中，另一个在形而上学演绎中。第一个是从（对象的）经验向上运动到这种经验的必要条件。第二个是从亚里士多德的判断功能向下运动到我们在判断中必须使用的概念，即范畴。一个是自经验向上的推理，另一个是自最抽象的概念结构向下的演绎。
+    step2: |-
+      因此，在康德 *CPR* 早期关于心灵的思考中，不是一个而是两个中心运动：一个在先验感性论，另一个在形而上学演绎。第一个是从（对象的）经验向上运动到这种经验的必要条件；第二个是从亚里士多德的判断功能向下运动到我们在判断中必须使用的概念——范畴。一个是自经验向上的推理，一个是自最抽象的概念结构向下的演绎。
   - id: 31
     kind: body
     source: |-
       ### 2.3 Transcendental Deduction, 1ˢᵗ Edition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.3 先验演绎，第一版
+    step2: |-
+      ### 2.3 先验演绎，第一版
   - id: 32
     kind: body
     source: |-
       Then we get to the second chapter of the Transcendental Logic, the brilliant and baffling Transcendental Deduction (TD). Recall the two movements just discussed, the one from experience to its conditions and the one from Aristotelian functions of judgment to the concepts that we must use in all judging (the Categories). This duality led Kant to his famous question of right (*quid juris)* (A84=B116): with what right do we apply the Categories, which are not acquired from experience, to the contents of experience? (A85=B117). Kant’s problem here is not as arcane as it might seem. It reflects an important question: How is it that the world as we experience it conforms to our logic? In briefest form, Kant thought that the trick to showing how it is *possible* for the Categories to apply to experience is to show that it is *necessary* that they apply (A97).[^note-4]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然后我们来到先验逻辑的第二章——才华横溢又令人困惑的先验演绎（TD）。回顾刚讨论过的两个运动：一个从经验到其条件，一个从亚里士多德的判断功能到我们在一切判断中必须使用的概念（范畴）。这一二元性引出了康德著名的问题：权利问题（*quid juris*）（A84=B116）：我们凭什么权利把不是从经验获得的范畴应用于经验的内容？（A85=B117）。康德在这里的问题并不像看上去那么晦涩。它反映一个重要问题：我们所经验的世界为何与我们的逻辑相契合？以最简形式，康德认为表明范畴*可能*适用于经验的诀窍，是表明它们*必然*适用（A97）。[^note-4]
+    step2: |-
+      然后我们来到先验逻辑的第二章——才华横溢又令人困惑的先验演绎（TD）。回顾刚讨论的两个运动：一个从经验到其条件，一个从亚里士多德的判断功能到我们在一切判断中必须使用的概念（范畴）。这一二元性引出康德著名的问题：权利问题（*quid juris*）（A84=B116）：我们凭什么权利把不从经验获得的范畴应用于经验的内容？（A85=B117）。康德此处的问题并不像看上去那么晦涩，它反映一个重要问题：我们所经验的世界为何与我们的逻辑相契合？以最简形式，康德认为表明范畴*可能*适用于经验的诀窍，是表明它们*必然*适用（A97）。[^note-4]
   - id: 33
     kind: body
     source: |-
       TD has two sides, though Kant never treats them separately. He once called them the objective and the subjective deductions (Axvii). The objective deduction is about the conceptual and other cognitive conditions of having representations of objects. It is Kant’s answer to the *quid juris* question. Exactly how the objective deduction goes is highly controversial, a controversy that we will sidestep here. The subjective deduction is about what the mind, the “subjective sources” of understanding (A97), must as a consequence be like. The subjective deduction is what mainly interests us.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      TD 有两面，尽管康德从未分开处理它们。他曾称之为客观的与主观的演绎（Axvii）。客观演绎关乎拥有对象表象的概念与其他认知条件。它是康德对*权利问题*的回答。客观演绎究竟如何展开，争议极大；我们在此回避这一争议。主观演绎关乎心灵——知性的“主观源泉”（A97）——因此必定是什么样的。我们主要感兴趣的正是主观演绎。
+    step2: |-
+      TD 有两面，尽管康德从未分开处理：他曾称之为客观的与主观的演绎（Axvii）。客观演绎关乎拥有对象表象的概念与其他认知条件，是康德对*权利问题*的回答。客观演绎究竟如何展开争议极大，我们在此回避这一争议。主观演绎关乎心灵——知性的“主观源泉”（A97）——因此必定是什么样的。我们主要感兴趣的正是主观演绎。
   - id: 34
     kind: body
     source: |-
       Kant argues as follows. Our experiences have objects, that is, they are about something. The objects of our experiences are discrete, unified particulars. To have such particulars available to it, the mind must construct them based on sensible input. To construct them, the mind must do three kinds of synthesis. It must generate temporal and spatial structure (Synthesis of Apprehension in Intuition). It must associate spatio-temporally structured items with other spatio-temporally structured items (Synthesis of Reproduction in the Imagination). And it must recognize items using concepts, the Categories in particular (Synthesis of Recognition in a Concept). This threefold doctrine of synthesis is one of the cornerstones of Kant’s model of the mind. We will consider it in more detail in the next Section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德论证如下。我们的经验有对象，即它们是关于某物的。我们经验的对象是分立的、统一的殊体。要使这样的殊体对心灵可用，心灵必须基于感官输入构造它们。为构造它们，心灵必须做三种综合。它必须生成时间与空间结构（直观中领会的综合）；它必须把时空上被结构化的诸项与其他这样的诸项关联起来（想象中再生的综合）；它必须使用概念——尤其是范畴——来认定诸项（概念中认定的综合）。这一三分的综合学说是康德心灵模型的基石之一。我们将在下一节更详细地考察它。
+    step2: |-
+      康德论证如下：我们的经验有对象，即它们关于某物；我们经验的对象是分立的、统一的殊体。要使这样的殊体对心灵可用，心灵必须基于感官输入构造它们；为构造它们，心灵必须做三种综合——生成时间与空间结构（直观中领会的综合）、把时空上被结构化的诸项与其他这样的诸项关联起来（想象中再生的综合）、使用概念（尤其是范畴）认定诸项（概念中认定的综合）。这一三分的综合学说，是康德心灵模型的基石之一；下一节将更详细考察它。
   - id: 35
     kind: body
     source: |-
       The ‘deduction of the categories’ should now be complete. Strangely enough, the chapter has only nicely got started. In the first edition version, for example, we have only reached A106, about one-third of the way through the chapter. At this point, Kant introduces the notion of transcendental apperception for the first time and the unity of such apperception, the unity of consciousness. Evidently, something is happening (something, moreover, not at all well heralded in the text). We will see what when we discuss Kant’s doctrine of synthesis below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “范畴的演绎”至此应当完成。奇怪的是，这一章才刚刚好开了个头。例如在第一版中，我们只到了 A106，大约走完这一章的三分之一。在这一点上，康德首次引入先验统觉的概念以及这种统觉的统一——意识的统一。显然有事情正在发生（而且文本完全没有很好地预示它）。当我们下面讨论康德的综合学说时就会看到是什么。
+    step2: |-
+      “范畴的演绎”至此应当完成。奇怪的是，这一章才刚开了个头：例如在第一版中，我们只到 A106，约走完此章的三分之一。在这一点上，康德首次引入先验统觉的概念及这种统觉的统一——意识的统一。显然有事情正在发生（而且文本完全没有很好地预示它）；下面讨论康德的综合学说时就会看到是什么。
   - id: 36
     kind: body
     source: |-
       We can now understand in more detail why Kant said that the subjective deduction is inessential (Axvii). Since the objective deduction is about the conditions of representations having objects, a better name for it might have been ‘deduction of the object’. Similarly, a better name for the subjective deduction might have been ‘the deduction of the subject’ or ‘the deduction of the subject’s nature’. The latter enquiry was inessential to Kant’s main critical project because the main project was to defend the synthetic *a priori* credentials of physics in the objective deduction. From this point of view, anything uncovered about the nature and functioning of the mind was a happy accident.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们现在可以更详细地理解康德为什么说主观演绎是非本质的（Axvii）。既然客观演绎关乎表象拥有对象的诸条件，给它起个更好的名字也许是“对象的演绎”。类似地，主观演绎的更好名字也许是“主体的演绎”或“主体本性的演绎”。后一项研究对康德的主要批判计划是非本质的，因为主要计划是在客观演绎中为物理学的综合*先天*资格辩护。照这一视角，关于心灵的本性与功能所揭示的任何东西都是愉快的偶然。
+    step2: |-
+      我们现在可以更详细地理解康德为什么说主观演绎是非本质的（Axvii）：既然客观演绎关乎表象拥有对象的诸条件，更好的名字也许是“对象的演绎”；类似地，主观演绎的更好名字也许是“主体的演绎”或“主体本性的演绎”。后一项研究对康德的主要批判计划非本质——主要计划是在客观演绎中为物理学的综合*先天*资格辩护。照这一视角，关于心灵的本性与功能所揭示的任何东西都是愉快的偶然。
   - id: 37
     kind: body
     source: |-
       ### 2.4 Attack on the Paralogisms, 1ˢᵗ Edition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.4 对谬误推理的攻击，第一版
+    step2: |-
+      ### 2.4 对谬误推理的攻击，第一版
   - id: 38
     kind: body
     source: |-
       The chapter on the Paralogisms, the first of the three parts of Kant’s second project, contains Kant’s most original insights into the nature of consciousness of the self. In the first edition, he seems to have achieved a stable position on self-consciousness only as late as this chapter. Certainly his position was not stable in TD. Even his famous term for consciousness of self, ‘I think’, occurs for the first time only in the introduction to the chapter on the Paralogisms. His target is claims that we know what the mind is like. Whatever the merits of Kant’s attack on these claims, in the course of mounting it, he made some very deep-running observations about consciousness and knowledge of self.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      谬误推理一章——康德第二个计划三部分中的第一部分——包含康德关于自我意识之本性的最具原创性的洞见。在第一版中，他似乎直到这一章才在自我意识问题上达到稳定立场。可以肯定，他在 TD 中的立场并不稳定。甚至他那著名的自我意识术语“我思”，也只在谬误推理一章的导言中首次出现。他的目标是那些主张我们知道心灵是什么样的断言。无论康德对这些主张的攻击有什么优长，在发动攻击的过程中，他做出了一些关于自我意识与自我知识的极其深入的观察。
+    step2: |-
+      谬误推理一章——康德第二个计划三部分中的第一部分——包含康德关于自我意识之本性的最具原创性的洞见。第一版中，他似乎直到这一章才在自我意识问题上达到稳定立场；可以肯定，他在 TD 中的立场并不稳定。甚至他那著名的自我意识术语“我思”，也只在谬误推理章的导言中首次出现。他的目标是那些主张我们知道心灵是什么样的断言。无论康德对这些主张的攻击有何优长，在发动攻击的过程中，他做出了一些关于自我意识与自我知识的极其深入的观察。
   - id: 39
     kind: body
     source: |-
       To summarize: in the first edition, TD contains most of what Kant had to say about synthesis and unity, but little on the nature of consciousness of self. The chapter on the Paralogisms contains most of what he has to say about consciousness of self.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总结：在第一版中，TD 包含康德关于综合与统一的大部分论述，但很少涉及自我意识的性质。谬误推理一章包含他关于自我意识的大部分论述。
+    step2: |-
+      总结：第一版中，TD 包含康德关于综合与统一的大部分论述，但很少涉及自我意识的性质；谬误推理章包含他关于自我意识的大部分论述。
   - id: 40
     kind: body
     source: |-
       ### 2.5 The Two Discussions in the 2ⁿᵈ-edition TD and Other Discussions
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 2.5 第二版 TD 中的两个讨论及其他讨论
+    step2: |-
+      ### 2.5 第二版 TD 中的两个讨论及其他讨论
   - id: 41
     kind: body
     source: |-
       As we said, Kant rewrote both TD and the chapter on the Paralogisms for the second edition of *CPR*, leaving only their introductions intact. In the course of doing so, he moved the topic of consciousness of self from the chapter on the Paralogisms to the second discussion of the mind in the new TD. The new version of the Paralogisms chapter is then built around a different and, so far as theory of mind is concerned, much less interesting strategy. The relationship of the old and new versions of the chapters is complicated (Brook 1994, Ch. 9)[^brook-1994]. Here we will just note that the underlying doctrine of the mind does not seem to change very much.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如我们所说，康德为 *CPR* 第二版重写了 TD 与谬误推理章，只保留其导言。在这样做时，他把自我意识的论题从谬误推理章移到了新 TD 中关于心灵的第二个讨论。谬误推理章的新版本随后围绕一个不同的策略构建——就心灵理论而言，这个策略远不如原来的有趣。新旧两版的章节之间的关系是复杂的（Brook 1994, Ch. 9）[^brook-1994]。这里我们只注意：关于心灵的底层学说似乎变化不大。
+    step2: |-
+      如我们所说，康德为 *CPR* 第二版重写了 TD 与谬误推理章，只保留导言。在这样做时，他把自我意识的论题从谬误推理章移到新 TD 关于心灵的第二个讨论。谬误推理章的新版本随后围绕一个不同的策略构建——就心灵理论而言远不如原来的有趣。新旧两版章节的关系复杂（Brook 1994, Ch. 9）[^brook-1994]。这里只注意：关于心灵的底层学说似乎变化不大。
   - id: 42
     kind: body
     source: |-
       *CPR* contains other discussions of the mind, discussions that remained the same in both editions. The appendix on what Kant called Leibniz’ Amphiboly contains the first explicit discussion of an important general metaphysical notion, numerical identity (being one object at and over time), and contains the first *argument* in *CPR* for the proposition that sensible input is needed for knowledge. (Kant asserts this many times earlier but assertion is not argument.) In the Antinomies, the discussion of the Second Antinomy contains some interesting remarks about the simplicity of the soul and there is a discussion of free will in the Solution to the Third Antinomy. The mind also appears a few times in the Doctrine of Method, particularly in a couple of glosses of the attack mounted against the Paralogisms. (A784=B812ff is perhaps the most interesting.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *CPR* 还包含关于心灵的其他讨论——两版中保持不变的讨论。关于康德所谓莱布尼茨歧义（*Amphiboly*）的附录，包含对一个重要的一般形而上学概念的首次明确讨论——数目同一（作为一个且在时间中是一个对象），并包含 *CPR* 中关于“知识需要感官输入”这一命题的第一个*论证*。（康德此前多次断言这一点，但断言不是论证。）在二律背反中，第二个背反的讨论包含一些关于灵魂之单纯性的有趣评论；第三个背反的解决中有关于自由意志的讨论。心灵也几次出现在方法论之争中——尤其在谬误推理攻击的两条小注中。（A784=B812ff 也许最有趣。）
+    step2: |-
+      *CPR* 还包含关于心灵的其他讨论——两版中保持不变。关于康德所谓莱布尼茨歧义（*Amphiboly*）的附录，包含对一个重要的一般形而上学概念的首次明确讨论——数目同一（作为一个且在时间中是一个对象），并包含 *CPR* 中“知识需要感官输入”命题的第一个*论证*（康德此前多次断言，但断言不是论证）。二律背反中，第二个背反的讨论包含关于灵魂单纯性的有趣评论；第三个背反的解决中有自由意志的讨论。心灵也几次出现在方法论之争——尤其谬误推理攻击的两条小注中（A784=B812ff 也许最有趣）。
   - id: 43
     kind: body
     source: |-
       In other new material prepared for the second edition, we find a first gloss on the topic of self-consciousness as early as the Aesthetic (B68). The mind also appears in a new passage called the Refutation of Idealism, where Kant attempts to tie the possibility of one sort of consciousness of self to consciousness of permanence in something other than ourselves, in a way he thought to be inconsistent with Berkeleian idealism. This new Refutation of Idealism has often been viewed as a replacement for the argument against the Fourth Paralogism of the first edition. There are problems with this view, the most important of which is that the second edition still has a separate fourth Paralogism (B409). That said, though the new passage utilizes self-consciousness in a highly original way, it says little that is new about it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在为第二版准备的其他新材料中，我们早在感性论（B68）就发现对自我意识论题的一条初步评论。心灵还出现在一段新的文字——对观念论的驳斥——中：康德在其中试图把一种自我意识的可能系于我们自己之外的某物中的持存意识，以他认为是与贝克莱式观念论不一致的方式。这一新的对观念论的驳斥常被视为对第一版第四个谬误推理之论证的替代。这一观点有问题，最重要的问题是：第二版仍有一个独立的第四谬误推理（B409）。尽管如此，虽然新段落以一种高度原创的方式利用自我意识，关于它却没有说出多少新东西。
+    step2: |-
+      在为第二版准备的其他新材料中，早在感性论（B68）就有一条对自我意识论题的初步评论。心灵还出现在一段新文字——对观念论的驳斥——中：康德试图把一种自我意识的可能系于我们自己之外的某物中的持存意识，以他认为与贝克莱式观念论不一致的方式。这一新的对观念论的驳斥，常被视为对第一版第四谬误推理之论证的替代；这一观点有问题——最重要的是：第二版仍有一个独立的第四谬误推理（B409）。尽管如此，虽然新段落以高度原创的方式利用自我意识，关于它却没说出多少新东西。
   - id: 44
     kind: body
     source: |-
       Elsewhere in his work, the only sustained discussion of the mind and consciousness is, as we said, his little, late *Anthropology from a Pragmatic Point of View*. By ‘anthropology’ Kant meant the study of human beings from the point of view of their (psychologically-controlled) behaviour, especially their behaviour toward one another, and of the things revealed in behaviour such as character. Though Kant sometimes contrasted anthropology as a legitimate study with what he understood empirical psychology to be, namely, psychology based on introspective observation, he meant by anthropology something fairly close to what we now mean by behavioural or experimental psychology.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其著作的其他地方，唯一对心灵与意识的持续讨论——如我们所说——是他晚年那本小书《实用观点下的人类学》。康德所谓的“人类学”，是指从人类（受心理控制的）行为——尤其是他们彼此之间的行为——以及行为所揭示的东西（如性格）的观点出发对人的研究。康德有时把作为正当研究的人类学与他所理解的经验心理学——即基于内省观察的心理学——对照，但他所谓的人类学相当接近我们今天所说的行为心理学或实验心理学。
+    step2: |-
+      在其著作的其他地方，唯一对心灵与意识的持续讨论（如我们所说）是晚年小书《实用观点下的人类学》。康德所谓“人类学”，指从人类（受心理控制的）行为——尤其彼此之间的行为——以及行为所揭示之物（如性格）的观点出发对人的研究。他有时把作为正当研究的人类学与他理解的经验心理学（即基于内省观察的心理学）对照；但他所谓的人类学，相当接近今天所说的行为心理学或实验心理学。
   - id: 45
     kind: body
     source: |-
       ## 3. Kant’s View of the Mind
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 康德的心灵观
+    step2: |-
+      ## 3 康德的心灵观
   - id: 46
     kind: body
     source: |-
       ### 3.1 Method
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 方法
+    step2: |-
+      ### 3.1 方法
   - id: 47
     kind: body
     source: |-
       Turning now to Kant’s view of the mind, we will start with a point about method: Kant held surprisingly strong and not entirely consistent views on the empirical study of the mind. The empirical method for doing psychology that Kant discussed was introspection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在转向康德的心灵观，我们从方法上的一点说起：康德对心灵的实证研究持有惊人强烈且并不完全一致的观点。他所讨论的做心理学的实证方法是内省。
+    step2: |-
+      现在转向康德的心灵观，从方法上的一点说起：康德对心灵的实证研究持有惊人强烈且并不完全一致的观点。他所讨论的做心理学的实证方法是内省。
   - id: 48
     kind: body
     source: |-
       Sometimes he held such study to be hopeless. The key text on psychology is in *The Metaphysical Foundations of Natural Science*. There Kant tell us that “the empirical doctrine of the soul … must remain even further removed than chemistry from the rank of what may be called a natural science proper” (Ak. IV:471). (In Kant’s defence, there was nothing resembling a single unified theory of chemical reactions in his time.) The contents of introspection, in his terms inner sense, cannot be studied scientifically for at least five reasons.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有时他认为这类研究没有希望。心理学问题的关键文本在《自然科学的形而上学基础》。康德在那里告诉我们：“灵魂的经验性学说……必须比化学更远地离开可以被恰当地称为真正自然科学的行列”（Ak. IV:471）。（为康德辩护一句：他那个时代没有任何类似统一的化学反应理论的东西。）内省的内容——用他的术语即内感官——不能被科学研究，至少有五个理由。
+    step2: |-
+      有时他认为这类研究没有希望。心理学问题的关键文本在《自然科学的形而上学基础》：康德在那里告诉我们，“灵魂的经验性学说……必须比化学更远地离开可以被恰当地称为真正自然科学的行列”（Ak. IV:471）（为康德辩护一句：他那个时代没有任何类似统一的化学反应理论）。内省的内容——用他的术语即内感官——不能被科学研究，至少有五个理由。
   - id: 49
     kind: body
     source: |-
       First, having only one universal dimension and one that they are only *represented* to have at that, namely, distribution in time, the contents of inner sense cannot be quantified; thus no mathematical model of them is possible. Second, “the manifold of internal observation is separated only by mere thought”. That is to say, only the introspective observer distinguishes the items one from another; there are no real distinctions among the items themselves. Third, these items “cannot be kept separate” in a way that would allow us to connect them again “at will”, by which Kant presumably means, according to the dictates of our developing theory. Fourth, “another thinking subject [does not] submit to our investigations in such a way as to be conformable to our purposes” – the only thinking subject whose inner sense one can investigate is oneself. Finally and most damningly, “even the observation itself alters and distorts the state of the object observed” (1786, Ak. IV:471). Indeed, introspection can be bad for the health: it is a road to “mental illness” (‘Illuminism and Terrorism’, 1798, Ak. VII:133; see 161).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一，内感官的内容只有一个普遍维度——而且只是被*表象*为具有的维度，即时间中的分布——因此无法量化；从而不可能有它们的数学模型。第二，“内部观察的杂多只由单纯的思维来分隔”。也就是说，只有内省的观察者把诸项彼此区分；诸项本身之间没有实在的区分。第三，这些项“无法保持分离”，以允许我们“随意地”——康德大概指按我们发展中的理论的指示——重新把它们联结起来。第四，“另一个思维主体［不会］以适合我们目的的方式受我们的研究支配”——唯一其内感官可被研究的思维主体是自己。最后且最具毁灭性的是：“甚至观察本身也改变并歪曲被观察对象的状态”（1786, Ak. IV:471）。的确，内省可能有害健康：它是通往“精神疾病”的一条路（‘启蒙主义与恐怖主义’，1798, Ak. VII:133；见 161）。
+    step2: |-
+      第一，内感官的内容只有一个普遍维度——且只是被*表象*为具有的维度，即时间中的分布——因此无法量化：不可能有它们的数学模型。第二，“内部观察的杂多只由单纯的思维来分隔”——即只有内省观察者把诸项彼此区分；诸项本身之间没有实在区分。第三，这些项“无法保持分离”，以允许我们“随意地”（康德大概指按我们发展中的理论的指示）重新联结。第四，“另一个思维主体［不会］以适合我们目的的方式受我们的研究支配”——唯一其内感官可被研究的思维主体是自己。最后且最具毁灭性：“甚至观察本身也改变并歪曲被观察对象的状态”（1786, Ak. IV:471）。的确，内省可能有害健康：它是通往“精神疾病”的一条路（‘启蒙主义与恐怖主义’，1798, Ak. VII:133；见 161）。
   - id: 50
     kind: body
     source: |-
       In these critical passages, it is not clear why he didn’t respect what he called anthropology more highly as an empirical study of the mind, given that he himself did it. He did so elsewhere. In the *Anthropology*, for example, he links ‘self-observation’ and observation of others and calls them both sources of anthropology (Ak. VII:142–3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这些批判性的段落中，不清楚的是：既然他自己在做人类学，为什么他不更高度地尊重他所谓的人类学作为对心灵的实证研究。他在别处这样做了。例如在《人类学》中，他把“自我观察”与对别人的观察联系起来，把两者都称为人类学的源泉（Ak. VII:142–3）。
+    step2: |-
+      在这些批判性段落中，不清楚的是：既然他自己在做人类学，为何不更高度地尊重他所谓的人类学作为对心灵的实证研究。他在别处这样做了：例如在《人类学》中，他把“自我观察”与对别人的观察联系起来，把两者都称为人类学的源泉（Ak. VII:142–3）。
   - id: 51
     kind: body
     source: |-
       Whatever, no kind of empirical psychology can yield necessary truths about the mind. In the light of this limitation, how *should* we study the mind? Kant’s answer was: transcendental method using transcendental arguments (notions introduced earlier). If we cannot observe the connections among the denizens of inner sense to any purpose, we can study what the mind *must* be like and what capacities and structures (in Kant’s jargon, faculties) it *must* have if it is to represent things as it does. With this method we can find universally true, that is to say, ‘transcendental’ psychological propositions. We have already seen what some of them are: minds must be able to synthesize and minds must have a distinctive unity, for example. Let us turn now to these substantive claims.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无论如何，没有任何一种实证心理学能产出关于心灵的必然真理。鉴于这一限制，我们*应当*如何研究心灵？康德的回答是：使用先验论证的先验方法（前面已引入的概念）。如果我们无法有目的地观察内感官诸居民之间的联系，我们可以研究心灵*必定*是什么样的、它*必定*拥有哪些能力与结构（用康德的行话：官能），才能像它所做的那样表象事物。用这种方法，我们可以找到普遍为真的、即“先验的”心理学命题。我们已经看到其中一些是什么：例如，心灵必须能够综合；心灵必须拥有一种独特的统一。现在让我们转向这些实质主张。
+    step2: |-
+      无论如何，没有任何一种实证心理学能产出关于心灵的必然真理。鉴于这一限制，我们*应当*如何研究心灵？康德的回答：使用先验论证的先验方法（前面已引入）。如果我们无法有目的地观察内感官诸居民之间的联系，我们可以研究心灵*必定*是什么样的、它*必定*拥有哪些能力与结构（用康德的行话：官能），才能像它所做的那样表象事物。用这种方法，我们可以找到普遍为真的、即“先验的”心理学命题。我们已经看到其中一些：例如，心灵必须能够综合；心灵必须拥有一种独特的统一。现在转向这些实质主张。
   - id: 52
     kind: body
     source: |-
       ### 3.2 Synthesis and Faculties
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 综合与官能
+    step2: |-
+      ### 3.2 综合与官能
   - id: 53
     kind: body
     source: |-
       We have already discussed Kant’s view of the mind’s handling of space and time, so we can proceed directly to his doctrine of synthesis. As Kant put it in one of his most famous passages, “Concepts without intuitions are empty, intuitions without concepts are blind” (A51=B75). Experience requires both percepts and concepts. As we might say now, to discriminate, we need information; but for information to be of any use to us, we must organize the information. This organization is provided by acts of synthesis.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们已经讨论过康德关于心灵处理空间与时间的观点，因此可以直接进入他的综合学说。正如康德在其最著名的段落之一中所说：“没有直观的概念是空的，没有概念的直观是盲的”（A51=B75）。经验既需要知觉也需要概念。正如我们现在可能说的：要辨别，我们需要信息；但要让信息对我们有任何用处，我们必须组织信息。这种组织由综合的行动提供。
+    step2: |-
+      我们已经讨论过康德关于心灵处理空间与时间的观点，因此可直接进入他的综合学说。正如康德在最著名的段落之一中所说：“没有直观的概念是空的，没有概念的直观是盲的”（A51=B75）。经验既需要知觉也需要概念。正如我们今天可能说的：要辨别，需要信息；但要让信息有任何用处，必须组织信息——这种组织由综合的行动提供。
   - id: 54
     kind: body
     source: |-
       > By *synthesis,* in its most general sense, I understand the act of putting different representations together, and of grasping what is manifold in them in one knowledge [A77=B103]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 所谓*综合*，就其最一般的意义而言，我把理解为把不同的表象放在一起、并把它们中的杂多把握在一个知识中的行动［A77=B103］
+    step2: |-
+      > 所谓*综合*，就其最一般的意义而言，我理解为把不同的表象放在一起、并把其中的杂多把握在一个知识中的行动［A77=B103］
   - id: 55
     kind: body
     source: |-
       If the doctrine of space and time is the first major part of his model of the mind, the doctrine of synthesis is the second. Kant claimed, as we saw earlier, that three kinds of synthesis are required to organize information, namely apprehending in intuition, reproducing in imagination, and recognizing in concepts (A97-A105). Each of the three kinds of synthesis relates to a different aspect of Kant’s fundamental duality of intuition and concept. Synthesis of apprehension concerns raw perceptual input, synthesis of recognition concerns concepts, and synthesis of reproduction in imagination allows the mind to go from the one to the other.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果说空间与时间的学说在他的心灵模型中是第一大部分，综合的学说就是第二大部分。如我们先前所见，康德主张组织信息需要三种综合：在直观中领会、在想象中再生、在概念中认定（A97-A105）。三种综合各自关联于康德直观与概念这一基本二元性的不同方面。领会的综合关乎原始的知觉输入；认定的综合关乎概念；想象中再生的综合则使心灵能够从一者走到另一者。
+    step2: |-
+      如果说空间与时间的学说是其心灵模型的第一大部分，综合的学说就是第二大部分。如先前所见，康德主张组织信息需要三种综合：在直观中领会、在想象中再生、在概念中认定（A97-A105）。三种综合各自关联于康德直观与概念这一基本二元性的不同方面：领会的综合关乎原始的知觉输入；认定的综合关乎概念；想象中再生的综合使心灵能从一者走到另一者。
   - id: 56
     kind: body
     source: |-
       They also relate to three fundamental faculties of the mind. One is the province of Sensibility, one is the province of Understanding, and the one in the middle is the province of a faculty that has a far less settled position than the other two, namely, Imagination (see A120).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它们还关联于心灵的三个根本官能。一个属于感性（Sensibility）的领地，一个属于知性（Understanding）的领地，中间那一个属于一个地位远不如前两者稳固的官能——想象（Imagination）（见 A120）的领地。
+    step2: |-
+      它们还关联于心灵的三个根本官能：一个属于感性的领地，一个属于知性的领地；中间那一个属于地位远不如前两者稳固的官能——想象（见 A120）的领地。
   - id: 57
     kind: body
     source: |-
       The first two, apprehension and reproduction, are inseparable; one cannot occur without the other (A102). The third, recognition, requires the other two but is not required by them. It seems that only the third requires the use of concepts; this problem of non-concept-using syntheses and their relationship to use of the categories becomes a substantial issue in the second edition (see B150ff.), where Kant tries to save the universality of the objective deduction by arguing that all three kinds of syntheses are required to represent objects.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      前两者——领会与再生——不可分；一者不能离开另一者发生（A102）。第三者——认定——需要前两者，却不被它们所需要。似乎只有第三者需要使用概念；这一非概念使用型综合及其与范畴使用之关系的问题，在第二版中成为实质性问题（见 B150ff.）——康德在那里试图通过论证三种综合都是表象对象所必需的，来挽救客观演绎的普遍性。
+    step2: |-
+      前两者——领会与再生——不可分：一者不能离开另一者发生（A102）。第三者——认定——需要前两者，却不被它们需要。似乎只有第三者需要使用概念；这一非概念使用型综合及其与范畴使用之关系的问题，在第二版成为实质性问题（见 B150ff.）——康德在那里试图以论证三种综合都是表象对象所必需，挽救客观演绎的普遍性。
   - id: 58
     kind: body
     source: |-
       Acts of synthesis are performed on that to which we are passive in experience, namely intuitions (*Anschauungen).* Intuitions are quite different from sense-data as classically understood; we can become conscious of intuitions only after acts of synthesis and only by inference from these acts, not directly. Thus they are something more like theoretical entities (better, events) postulated to explain something in what we do recognize. What they explain is the non-conceptual element in representations, an element over which we have no control. Intuitions determine how our representations will serve to confirm or refute theories, aid or impede our efforts to reach various goals.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      综合的行动施行于经验中我们被动接受的东西之上，即诸直观（*Anschauungen*）。直观与经典理解的所与（sense-data）相当不同：只有经过综合的行动、并从这些行动推论，我们才能意识到直观，而非直接意识到。因此它们更像理论实体（更好地说：事件），为解释我们所认出的东西中的某物而被设定。它们解释的是表象中的非概念要素——一个我们无法控制的要素。直观决定我们的表象将如何有助于确认或反驳理论、促进或妨碍我们达成各种目标的努力。
+    step2: |-
+      综合的行动施行于经验中我们被动接受的东西之上——即诸直观（*Anschauungen*）。直观与经典理解的所与（sense-data）相当不同：只有经综合的行动、并从这些行动推论，我们才能意识到直观，而非直接意识到。因此它们更像理论实体（更好说：事件），为解释我们所认出之物中的某物而被设定。它们解释的是表象中的非概念要素——一个我们无法控制的要素：直观决定我们的表象将如何确认或反驳理论、促进或妨碍达成各种目标的努力。
   - id: 59
     kind: body
     source: |-
       #### 3.2.1 Synthesis of Apprehension in Intuition
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.1 直观中领会的综合
+    step2: |-
+      #### 3.2.1 直观中领会的综合
   - id: 60
     kind: body
     source: |-
       The synthesis of apprehension is somewhat more shadowy than the other two. In the second edition, the idea does not even appear until §26, i.e., late in TD. At A120, Kant tells us that apprehending impressions is taking them up into the activity of imagination, i.e., into the faculty of the mind that becomes conscious of images. He tells us that we can achieve the kind of differentiation we need to take them up only “in so far as the mind distinguishes the time in the sequence of one impression upon another” (A99). Kant uses the term ‘impression’ (*Eindrucke*) rarely; it seems to be in the same camp as ‘appearance’ (*Erscheinung*) and ‘intuition’ (*Anschauung*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      领会的综合比其他两者更含混。在第二版中，这一观念甚至到 §26——TD 的晚段——才出现。在 A120，康德告诉我们：领会印象就是把它们纳入想象的活动，即纳入心灵中变得意识到图像的那个官能。他告诉我们，我们要获得摄取印象所需的那种区分，只有在“心灵在一个印象接续另一个印象的序列中区分出时间”时才行（A99）。康德很少使用“印象”（*Eindrucke*）一词；它似乎与“显象”（*Erscheinung*）和“直观”（*Anschauung*）属于同一阵营。
+    step2: |-
+      领会的综合比其他两者更含混。第二版中，这一观念甚至到 §26（TD 晚段）才出现。在 A120，康德告诉我们：领会印象就是把它们纳入想象的活动——即纳入心灵中变得意识到图像的那个官能。他告诉我们：要获得摄取印象所需的区分，只有在“心灵在一个印象接续另一个印象的序列中区分出时间”时才行（A99）。康德很少用“印象”（*Eindrucke*）一词；它似乎与“显象”（*Erscheinung*）、“直观”（*Anschauung*）同属一个阵营。
   - id: 61
     kind: body
     source: |-
       The idea behind the strange saying just quoted seems to be this. Kant seems to have believed that we can become conscious of only one new item at a time. Thus a group of simultaneous ‘impressions’ all arriving at the same time would be indistinguishable, “for each representation [*Vorstellung*], *in so far as it is contained in a single moment*, can never be anything but absolute unity” (A99). Kant’s use of *Vorstellung*, with its suggestion of synthesized, conceptualized organization, may have been unfortunate, but what I think he meant is this. Prior to synthesis and conceptual organization, a manifold of intuitions would be an undifferentiated unit, a seamless, buzzing confusion. Thus, to distinguish one impression from another, we must give them separate locations. Kant speaks only of temporal location but he may very well have had spatial location in mind, too.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刚才那句奇怪的话背后的观念似乎是这样。康德似乎相信：我们一次只能意识到一个新的项。因此同时到达的一组“印象”将无法区分，“因为每一个表象［*Vorstellung*］，*就其包含在一个单独的时刻而言*，永远只能是绝对的统一体”（A99）。康德对 *Vorstellung* 的使用——它暗示已被综合的、概念化的组织——也许并不幸运，但我认为他指的是这个。在综合与概念组织之前，直观的杂多将是一个未分化的单元，一种无缝的、嗡嗡作响的混乱。因此，要把一个印象与另一个区分开，我们必须给它们各自的位置。康德只谈到时间定位，但他很可能也想到了空间定位。
+    step2: |-
+      刚才那句奇怪的话背后的观念似乎是这样：康德似乎相信我们一次只能意识到一个新的项。因此同时到达的一组“印象”将无法区分——“因为每一个表象［*Vorstellung*］，*就其包含在一个单独的时刻而言*，永远只能是绝对的统一体”（A99）。康德对 *Vorstellung* 的使用（暗示已被综合的、概念化的组织）也许并不幸运；但我认为他指的是：在综合与概念组织之前，直观的杂多将是未分化的单元——一种无缝的、嗡嗡作响的混乱。因此要把一个印象与另一个区分开，必须给它们各自的位置。康德只谈时间定位，但很可能也想到了空间定位。
   - id: 62
     kind: body
     source: |-
       The synthesis of apprehension is closely related to the Transcendental Aesthetic. Indeed, it is the doing of what the Aesthetic tells us that the mind has to be able to do with respect to locating items in time and space (time anyway).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      领会的综合与先验感性论密切相关。事实上，它就是感性论告诉我们心灵必须能够做的事情的实施——就定位诸项于时间与空间之中而言（至少是时间）。
+    step2: |-
+      领会的综合与先验感性论密切相关：事实上，它就是感性论告诉我们心灵必须能做的事情的实施——就定位诸项于时间与空间而言（至少是时间）。
   - id: 63
     kind: body
     source: |-
       #### 3.2.2 Synthesis of Reproduction in Imagination
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.2 想象中再生的综合
+    step2: |-
+      #### 3.2.2 想象中再生的综合
   - id: 64
     kind: body
     source: |-
       The synthesis of reproduction in imagination has two elements, a synthesis proper and associations necessary for performing that synthesis. (Kant explicitly treats them as separate on A125: “recognition, reproduction, association, apprehension”.) Both start from the appearances, as Kant now calls them, which the synthesis of apprehension has located in time. At first glance, the synthesis of reproduction looks very much like memory; however, it is actually quite different from memory. It is a matter of retaining earlier intuitions in such a way that certain other representations can “bring about a transition of the mind” to these earlier representations, even in the absence of any current representation of them (A100). Such transitions are the result of the setting up of associations (which, moreover, need not be conscious) and do not require memory. Likewise, no recognition of any sort need be involved; that the earlier representations have become associated with later ones is not something that we need recognize. Memory and recognition are the jobs of synthesis of recognition, yet to come.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      想象中再生的综合有两个要素，综合本身与为施行该综合所必需的联想。（康德在 A125 明确把它们分开处理：“认定、再生、联想、领会”。）两者都从显象出发——如康德此刻所称的、领会的综合已将其定位于时间的显象。乍看之下，再生的综合很像记忆；但它实际上与记忆相当不同。它是一件以某种方式保持较早直观的事，使得某些其他表象能够“引起心灵的一种过渡”到这些较早的表象，甚至在没有任何当前的表象时（A100）。这类过渡是建立联想（而且不必是有意识的）的结果，不需要记忆。同样，不需要任何形式的认定；较早的表象已与较晚的表象相联想，这不是我们需要认出的东西。记忆与认定是认定综合——尚未登场者——的任务。
+    step2: |-
+      想象中再生的综合有两个要素：综合本身，与为施行该综合所必需的联想。（康德在 A125 明确分开处理：“认定、再生、联想、领会”。）两者都从显象出发——如康德此刻所称的、领会的综合已定位在时间中的显象。乍看之下，再生的综合很像记忆；但它实际与记忆相当不同：它是一件以某种方式保持较早直观的事，使得某些其他表象能“引起心灵的一种过渡”到这些较早表象——甚至在没有任何当前表象时（A100）。这类过渡是建立联想（且不必有意识）的结果，不需要记忆；同样，不需要任何形式的认定——较早表象已与较晚表象相联想，这不是我们需要认出的东西。记忆与认定是认定综合（尚未登场者）的任务。
   - id: 65
     kind: body
     source: |-
       To our ears now, it is a little strange to find Kant calling this activity of reproduction and the activity of apprehension acts of *imagination*. Kant describes the function he had in mind as “a blind but indispensable function of the soul” (A78=B103), so he meant something rather different from what we now mean by the term ‘imagination’ (A120 and fn.). For Kant, imagination is a connecting of elements by forming an image: “… imagination has to bring the manifold of intuitions into the form of an image” (A120). If ‘imagination’ is understood in its root sense of image-making and we see imagination not as opposed to but as part of perception, then Kant’s choice of term becomes less peculiar.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对我们今天的耳朵来说，发现康德把这种再生活动与领会的活动称为*想象*的行动，有点奇怪。康德把他心目中的功能描述为“灵魂的一种盲目的、但不可或缺的功能”（A78=B103），所以他的意思与我们现在用“想象”一词所意指的相当不同（A120 及注）。对康德而言，想象是通过形成图像来联结诸元素：“……想象必须把直观的杂多带入一个图像的形式”（A120）。如果按其词根意义“造像”来理解“想象”，并且不把想象看作知觉的对立面、而看作知觉的一部分，那么康德的选词就不那么奇特了。
+    step2: |-
+      对我们今天的耳朵来说，康德把这种再生活动与领会的活动称为*想象*的行动，有点奇怪。康德把心目中的功能描述为“灵魂的一种盲目的、但不可或缺的功能”（A78=B103），故其意义与我们现在用“想象”所意指的相当不同（A120 及注）。对康德而言，想象是通过形成图像来联结诸元素：“……想象必须把直观的杂多带入一个图像的形式”（A120）。若按词根意义“造像”理解“想象”，且不把想象看作知觉的对立面、而看作其一部分，康德的选词就不那么奇特了。
   - id: 66
     kind: body
     source: |-
       #### 3.2.3 Synthesis of Recognition in a Concept
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 3.2.3 概念中认定的综合
+    step2: |-
+      #### 3.2.3 概念中认定的综合
   - id: 67
     kind: body
     source: |-
       The third kind of synthesis is synthesis of recognition in a concept. To experience objects for Kant, first I have to relate the materials out of which they are constructed to one another temporally and spatially. They may not require use of concepts. Then I have to apply at least the following kinds of concepts: concepts of number, of quality, and of modality (I am experiencing something real or fictitious). These are three of the four kinds of concepts that Kant had identified as Categories. Note that we have so far not mentioned the fourth, relational concepts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第三种综合是概念中认定的综合。对康德来说，要经验到对象，首先我必须把构造它们的材料在时间与空间上彼此关联。这可能不需要使用概念。然后我必须应用至少以下几类概念：数的概念、质的概念与模态的概念（我正在经验某种实在的或虚构的东西）。这些是康德认定为范畴的四类概念中的三类。注意：到目前为止我们还没有提到第四类——关系概念。
+    step2: |-
+      第三种综合是概念中认定的综合。对康德来说，要经验到对象，首先须把构造它们的材料在时间与空间上彼此关联（这可能不需要概念）；然后必须应用至少以下几类概念：数的概念、质的概念与模态的概念（我正在经验某种实在的或虚构的东西）。这些是康德认定为范畴的四类概念中的三类；注意：到目前为止还没提到第四类——关系概念。
   - id: 68
     kind: body
     source: |-
       In Kant’s view, recognition requires memory; reproduction is not memory but memory does enter now. The argument goes as follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在康德看来，认定需要记忆；再生不是记忆，但记忆现在登场了。论证如下。
+    step2: |-
+      在康德看来，认定需要记忆；再生不是记忆，但记忆现在登场了。论证如下。
   - id: 69
     kind: body
     source: |-
       > [A merely reproduced] manifold of representation would never … form a whole, since it would lack that unity which only consciousness can impart to it. If, in counting, I forget that the units, which now hover before me, have been added to one another in succession, I should never know that a total is being produced through this successive addition of unit to unit … [A103; see A78=B104].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ［一个仅仅被再生的］表象杂多永远不会……形成一个整体，因为它缺少那种只有意识才能赋予它的统一。如果在计数时，我忘记此刻浮现在我面前的这些单位已被相继相加，我就永远不会知道，通过这种单位对单位的相继相加正在产生一个总数……［A103；参 A78=B104］
+    step2: |-
+      > ［一个仅仅被再生的］表象杂多永远不会……形成一个整体，因为它缺少那种只有意识才能赋予它的统一。如果在计数时，我忘记此刻浮现在面前的这些单位已被相继相加，我就永远不会知道：通过这种单位对单位的相继相加，正在产生一个总数……［A103；参 A78=B104］
   - id: 70
     kind: body
     source: |-
       In fact, as this passage tells us, synthesis into an object by an act of recognition requires two things. One is memory. The other is that something in the past representations must be recognized *as related to* present ones. And to recognize that earlier and later representations are both representing a single object, we must use a concept, a rule (A121, A126). In fact, we must use a number of concepts: number, quality, modality, and, of course, the specific empirical concept of the object we are recognizing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      事实上，正如这段话告诉我们的，通过认定行动综合成一个对象需要两件事。一是记忆。二是过去表象中的某物必须被认定*为与*现在的表象相关。而要认定较早与较晚的表象都表象着一个单一的对象，我们必须使用一个概念、一条规则（A121, A126）。事实上，我们必须使用若干概念：数、质、模态，当然还有我们正在认定的那个对象的特定经验概念。
+    step2: |-
+      事实上，正如这段话告诉我们的：通过认定行动综合成一个对象，需要两件事。一是记忆；二是过去表象中的某物必须被认定*为与*现在的表象相关。而要认定较早与较晚的表象都表象同一对象，必须使用一个概念、一条规则（A121, A126）。事实上须用若干概念：数、质、模态，当然还有被认定对象的特定经验概念。
   - id: 71
     kind: body
     source: |-
       Immediately after introducing recognition, Kant brings apperception and the unity of apperception into the discussion. The acts by which we achieve recognition under concepts are acts of apperception. By ‘apperception’, Kant means the faculty or capacity for judging in accord with a rule, for applying concepts. Apperceiving is an activity necessary for and parallel to perceiving (A120). This is one of the senses in which Leibniz used the term, too. To achieve recognition of a unified object, the mind must perform an act of judgment; it must find how various represented elements are connected to one another. This judgment is an act of apperception. Apperception is the faculty that performs syntheses of recognition (A115). Note that we are not yet dealing with *transcendental* apperception.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在引入认定之后，康德立即把统觉与统觉的统一带入讨论。我们借以在概念下实现认定的那些行动，是统觉的行动。康德所谓“统觉”，指依照规则进行判断的能力或官能，即应用概念的能力。统觉是与知觉相平行且为知觉所必需的活动（A120）。这也是莱布尼茨使用该术语的涵义之一。要实现对统一对象的认定，心灵必须执行一个判断行动；它必须找出各种被表象的元素如何彼此关联。这个判断就是统觉的行动。统觉是执行认定综合的官能（A115）。注意：我们还没有处理*先验*统觉。
+    step2: |-
+      在引入认定之后，康德立即把统觉与统觉的统一带入讨论：我们借以在概念下实现认定的行动，是统觉的行动。康德所谓“统觉”，指依照规则进行判断的官能——应用概念的能力。统觉是与知觉相平行且为知觉所必需的活动（A120）。这也是莱布尼茨使用该术语的涵义之一。要实现对统一对象的认定，心灵必须执行判断行动——找出诸被表象元素如何彼此关联；这个判断就是统觉的行动。统觉是执行认定综合的官能（A115）。注意：我们还没处理*先验*统觉。
   - id: 72
     kind: body
     source: |-
       To sum up: For experiences to have objects, acts of recognition that apply concepts to spatio-temporally ordered material are required. Representation requires recognition. Moreover, objects of representation share a general structure. They are all some number of something, they all have qualities, and they all have an existence-status. (Put this way, Kant’s claim that the categories are required for knowledge looks quite plausible.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总结：要使经验拥有对象，需要有把概念应用于时空有序材料的认定行动。表象需要认定。此外，表象的对象共享一种普遍结构：它们都是某物的某个数目，都有性质，都有一种存在状态。（这样说来，康德关于知识需要范畴的主张看起来相当可信。）
+    step2: |-
+      总结：要使经验拥有对象，需要有把概念应用于时空有序材料的认定行动——表象需要认定。此外，表象的对象共享一种普遍结构：都是某物的某个数目，都有性质，都有存在状态。（这样说来，康德关于知识需要范畴的主张看起来相当可信。）
   - id: 73
     kind: body
     source: |-
       ### 3.3 Synthesis: A 90° Turn
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 综合：一个 90° 转向
+    step2: |-
+      ### 3.3 综合：一个 90° 转向
   - id: 74
     kind: body
     source: |-
       With the synthesis of recognition, TD should be close to complete. Kant merely needs to argue that these concepts must include the categories, which he does at A111, and that should be that.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有了认定的综合，TD 本应接近完成。康德只需论证这些概念必须包含范畴——他在 A111 这样做了——那就该收尾了。
+    step2: |-
+      有了认定的综合，TD 本应接近完成：康德只需论证这些概念必须包含范畴（他在 A111 这样做了），那就该收尾了。
   - id: 75
     kind: body
     source: |-
       But that is not that. In fact, as we said earlier, we are only about one-third of the way through the chapter. The syntheses of apprehension, reproduction, and recognition of single objects march in a single temporal/object-generational line. Suddenly at A106 Kant makes a kind of 90ᵒ turn. From the generation of a representation of individual objects of experience *over time*, he suddenly turns to a form of recognition that requires the unification and recognition of multiple objects existing *at the same time.* He moves from acts of recognition of individual objects to unified acts of recognition of multiple objects which “stand along side one another in one experience” (A108). This 90ᵒ turn is a pivotal moment in TD and has received less attention than it deserves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但事情并非如此。事实上，如我们先前所说，我们只走了这一章的三分之一。领会、再生与对单一对象的认定的诸综合，沿着单一的时间/对象生成的路线行进。突然在 A106，康德做了一个大约 90 度的转向：从*在时间中*生成单个经验对象的表象，他突然转向一种需要对*同一时间*存在的多个对象进行统一与认定的认定形式。他从对单个对象的认定行动，转到对“在同一个经验中彼此并立”（A108）的多个对象的统一的认定行动。这个 90 度转向是 TD 的关键时刻，却得到的关注少于它应得的。
+    step2: |-
+      但事情并非如此：事实上，如先前所说，我们只走了这一章的三分之一。领会、再生与对单一对象的认定的诸综合，沿单一的时间/对象生成路线行进。突然在 A106，康德做了一个约 90 度的转向：从*在时间中*生成单个经验对象的表象，转向一种需要对*同一时间*存在的多个对象进行统一与认定的认定形式——从对单个对象的认定行动，转到对“在同一个经验中彼此并立”（A108）的多个对象的统一认定行动。这个 90 度转向是 TD 的关键时刻，得到的关注却少于它应得的。
   - id: 76
     kind: body
     source: |-
       The move that Kant makes next is interesting. He argues that the mind could not use concepts so as to have unified objects of representation *if its consciousness were not itself unified* (A107–108). Why does consciousness and its unity appear here? We have been exploring what is necessary to have experience. Why would it matter if, in addition, unified consciousness were necessary? As Walker (1978, p. 77) and Guyer (1987, pp. 94–5) have shown, Kant did not need to start from *anything* about the mind to deduce the Categories. (A famous footnote in *The Metaphysical Foundations of Natural Science* [Ak. IV:474fn.] is Kant’s best-known comment on this issue.) So why does he suddenly introduce unified consciousness?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德接下来的一步很有趣。他论证：如果心灵自身的意识不是统一的，它就不能使用概念以拥有统一的表象对象（A107–108）。为什么意识及其统一在此出现？我们一直在探讨拥有经验需要什么。为什么统一的意识若是必要的还会要紧？正如沃克（1978, p. 77）与盖耶（1987, pp. 94–5）所表明的：康德不需要从关于心灵的*任何*东西出发来演绎范畴（.《自然科学的形而上学基础》的一条著名脚注［Ak. IV:474fn.］是康德对这一问题的最著名评论）。那么他为何突然引入统一的意识？
+    step2: |-
+      康德接下来的一步很有趣：他论证，如果心灵自身的意识不统一，它就不能使用概念以拥有统一的表象对象（A107–108）。为什么意识及其统一在此出现？我们一直在探讨拥有经验需要什么；为什么统一的意识若是必要的还会要紧？正如沃克（1978, p. 77）与盖耶（1987, pp. 94–5）表明的：康德不需要从关于心灵的*任何*东西出发演绎范畴（《自然科学的形而上学基础》的一条著名脚注［Ak. IV:474fn.］是康德对此问题的最著名评论）。那么他为何突然引入统一的意识？
   - id: 77
     kind: body
     source: |-
       So far Kant has ‘deduced’ only three of the four kinds of categorical concepts, number, quality, and modality. He has said nothing about the relational categories. For Kant, this would have been a crucial gap. One of his keenest overall objectives in *CPR* is to show that physics is a real science. To do this, he thinks that he needs to show that we must use the concept of causality in experience. Thus, causality is likely the category that he cared more about than all the other categories put together. Yet up to A106, Kant has said nothing about the relational categories in general or causality in particular. By A111, however, Kant is talking about the use of the relational categories and by A112 causality is front and centre. So it is natural to suppose that, in Kant’s view at least, the material between A106 and A111 contains an argument for the necessity of applying the relational categories, even though he never says so.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到目前为止，康德只“演绎”出了四类范畴概念中的三类：数、质与模态。他对关系范畴只字未提。对康德而言，这会是一个关键缺口。他在 *CPR* 中最迫切的总体目标之一，是表明物理学是一门真正的科学。为此，他认为自己需要表明我们必须在经验中使用因果性概念。因此，因果性很可能是他比其余所有范畴加起来更在乎的范畴。然而直到 A106，康德对关系范畴总体、尤其对因果性只字未提。而到 A111，康德已在谈论关系范畴的使用；到 A112，因果性已处于前沿和中心。所以很自然的猜测是：至少在康德看来，A106 与 A111 之间的材料包含着应用关系范畴之必要性的一个论证，尽管他从未这样说。
+    step2: |-
+      到目前为止，康德只“演绎”出四类范畴概念中的三类：数、质与模态；对关系范畴只字未提。对康德而言，这是关键缺口：他在 *CPR* 中最迫切的总体目标之一，是表明物理学是真正的科学——为此他认为须表明我们必须在经验中使用因果性概念。因此因果性很可能是他比其余所有范畴加起来更在乎的范畴。然而直到 A106，康德对关系范畴总体、尤其因果性只字未提；而到 A111，他已在谈关系范畴的使用；到 A112，因果性已处于前沿和中心。所以很自然的猜测是：至少在康德看来，A106–A111 之间的材料包含应用关系范畴之必要性的论证——尽管他从未这样说。
   - id: 78
     kind: body
     source: |-
       Up to A106, Kant has talked about nothing but normal individual objects: a triangle and its three sides, a body and its shape and impenetrability. At A107, he suddenly begins to talk about tying together multiple represented objects, indeed “all possible appearances, which can stand alongside one another in one experience” (A108). The solution to the problem of showing that we have to use the category of causality must lie somewhere in this activity of tying multiple objects together.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直到 A106，康德谈论的只是普通的单个对象：一个三角形及其三条边，一个物体及其形状与不可入性。在 A107，他突然开始谈论把多个被表象的对象联结在一起——事实上是“能够在同一个经验中彼此并立的一切可能显象”（A108）。表明我们必须使用因果性范畴这一问题的解答，必定就在这种把多个对象联结在一起的活动中。
+    step2: |-
+      直到 A106，康德谈论的只是普通的单个对象：一个三角形及其三条边，一个物体及其形状与不可入性。在 A107，他突然开始谈论把多个被表象的对象联结起来——事实上是“能够在同一个经验中彼此并立的一切可能显象”（A108）。表明我们必须使用因果性范畴这一问题的解答，必定就在这种把多个对象联结起来的活动中。
   - id: 79
     kind: body
     source: |-
       The passage between A106 and A111 is blindingly difficult. It takes up transcendental apperception, the unity and identity of the mind, and the mind’s consciousness of itself as the subject of all its representations (A106–108). I think that this passage introduces either a new stage or even a new starting point for TD. Here many commentators (Strawson, Henrich, Guyer) would think immediately of self-consciousness. Kant did use consciousness of self as a starting point for deductions, at B130 in the B-edition for example. But that is not what appears here, not in the initial paragraphs anyway.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      A106 与 A111 之间的段落难读得让人眼花缭乱。它处理先验统觉、心灵的统一与同一，以及心灵对其自身作为它的一切表象之主体的意识（A106–108）。我认为这一段落为 TD 引入了一个新阶段，甚至是一个新起点。这里许多评注者（斯特劳森、亨利希、盖耶）会立刻想到自我意识。康德确实曾用自我意识作为演绎的起点——例如 B 版的 B130。但这不是此处出现的东西，至少最初几段不是。
+    step2: |-
+      A106 与 A111 之间的段落难读得让人眼花缭乱：它处理先验统觉、心灵的统一与同一，以及心灵对其自身作为一切表象之主体的意识（A106–108）。我认为这一段落为 TD 引入一个新阶段，甚至一个新起点。这里许多评注者（斯特劳森、亨利希、盖耶）会立刻想到自我意识；康德确实曾以自我意识作演绎的起点——例如 B 版的 B130。但这不是此处出现的东西，至少最初几段不是。
   - id: 80
     kind: body
     source: |-
       What Kant does say is this. Our experience is “one experience”; “all possible appearances … stand alongside one another in one experience” (A108). We have “one and the same general experience” of “all … the various perceptions” (A110), “a connected whole of human knowledge” (A121). Let us call this general experience a *global representation*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德实际说的是：我们的经验是“一个经验”；“一切可能显象……在同一个经验中彼此并立”（A108）。我们对“一切……各种知觉”有“同一个普遍经验”（A110）、“人类知识的一个联结整体”（A121）。让我们把这个普遍经验称为一个*全局表象*。
+    step2: |-
+      康德实际说的是：我们的经验是“一个经验”；“一切可能显象……在同一个经验中彼此并立”（A108）。我们对“一切……各种知觉”有“同一个普遍经验”（A110）、“人类知识的一个联结整体”（A121）。让我们把这个普遍经验称为一个*全局表象*。
   - id: 81
     kind: body
     source: |-
       *Transcendental apperception* (hereafter TA) now enters. It is the ability to tie ‘all appearances’ together into ‘one experience’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *先验统觉*（下称 TA）现在登场。它是把“一切显象”联结为“一个经验”的能力。
+    step2: |-
+      *先验统觉*（下称 TA）现在登场：它是把“一切显象”联结为“一个经验”的能力。
   - id: 82
     kind: body
     source: |-
       > This transcendental unity of apperception forms out of all possible appearances, which can stand alongside one another in one experience, a connection of all these representations according to laws. [A108]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这种先验的统觉统一，从能够在同一个经验中彼此并立的一切可能显象中，依照法则形成所有这些表象的一个联结。［A108］
+    step2: |-
+      > 这种先验的统觉统一，从能够在同一个经验中彼此并立的一切可能显象中，依照法则形成所有这些表象的一个联结。［A108］
   - id: 83
     kind: body
     source: |-
       It performs a “synthesis of all appearances according to concepts”, “whereby it subordinates all synthesis of apprehension … to a transcendental unity” (A108). This, he thought, requires unified consciousness. Unified consciousness is required for another reason, too. Representations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它执行“依照概念的一切显象的综合”，“由此把领会的一切综合……置于一个先验统一之下”（A108）。他认为这需要统一的意识。统一的意识还因另一个理由而被需要。表象
+    step2: |-
+      它执行“依照概念的一切显象的综合”，“由此把领会的一切综合……置于一个先验统一之下”（A108）。他认为这需要统一的意识；统一的意识还因另一个理由而被需要：表象
   - id: 84
     kind: body
     source: |-
       > can [so much as] represent something to me only in so far as they belong with all others to one consciousness. Therefore, they must at least be capable of being so connected [A116].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 只有在它们与所有其他表象一起属于一个意识时，才能［起码］向我表象某物。因此，它们至少必须能够这样被联结［A116］。
+    step2: |-
+      > 只有在它们与所有其他表象一起属于一个意识时，才能［起码］向我表象某物。因此，它们至少必须能够这样被联结［A116］。
   - id: 85
     kind: body
     source: |-
       The introduction of unified consciousness opens up an important new opportunity. Kant can now explore the necessary conditions of conscious content being unified in this way. To make a long story short, Kant now argues that conscious content could have the unity that it does only if the contents themselves are tied together causally.[^note-5]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      统一意识的引入开启了一个重要的新机会。康德现在可以探究意识内容以这种方式统一化的必要条件。长话短说：康德现在论证，意识内容要有它所具有的那种统一，唯有这些内容本身被因果地联结在一起才行。[^note-5]
+    step2: |-
+      统一意识的引入开启一个重要的新机会：康德现在可以探究意识内容以这种方式统一化的必要条件。长话短说——康德现在论证：意识内容要有它所具有的那种统一，唯有这些内容本身被因果地联结在一起才行。[^note-5]
   - id: 86
     kind: body
     source: |-
       With this, his deduction of the relational categories is complete and his defence of the necessity of physics is under way. The notion of unified consciousness to which Kant is appealing here is interesting in its own right, so let us turn to it next.[^note-6]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至此，他对关系范畴的演绎完成，他为物理学之必然性的辩护也已上路。康德在此所诉诸的统一意识概念本身就很有趣，所以下一步让我们转向它。[^note-6]
+    step2: |-
+      至此，他对关系范畴的演绎完成，为物理学之必然性的辩护也已上路。康德在此诉诸的统一意识概念本身就很有趣，下一步让我们转向它。[^note-6]
   - id: 87
     kind: body
     source: |-
       ### 3.4 Unity of Consciousness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 意识的统一
+    step2: |-
+      ### 3.4 意识的统一
   - id: 88
     kind: body
     source: |-
       For Kant, consciousness being unified is a central feature of the mind, our kind of mind at any rate. In fact, being a single integrated group of experiences (roughly, one person’s experiences) requires two kinds of unity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对康德而言，意识是统一的，这是心灵——至少我们这种心灵——的一个中心特征。事实上，作为一个单一而整合的经验群（粗略地说，一个人的经验），需要两种统一。
+    step2: |-
+      对康德而言，意识是统一的，这是心灵（至少我们这种心灵）的中心特征。事实上，作为单一而整合的经验群（粗略地说，一个人的经验），需要两种统一。
   - id: 89
     kind: body
     source: |-
       1. The experiences must have a single common subject (A350); and,
       2. The consciousness that this subject has of represented objects and/or representations must be unified.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 这些经验必须拥有一个单一的共同主体（A350）；并且，
+      2. 该主体对被表象的对象和/或表象所拥有的意识必须是统一的。
+    step2: |-
+      1. 这些经验必须拥有一个单一的共同主体（A350）；并且，
+      2. 该主体对被表象对象和/或表象的意识必须是统一的。
   - id: 90
     kind: body
     source: |-
       The first requirement may look trivial but it is not. For Hume, for example, what makes a group of experiences one person’s experiences is that they are associated with one another in an appropriate way (the so-called bundle theory), not that they have a common subject. The need for a subject arises from two straightforward considerations: representations not only represent something, they represent it to someone; and, representations are not given to us – to become a representation, sensory inputs must be processed by an integrated cognitive system. Kant may have been conscious of both these points, but beyond identifying the need, he had little to say about what the subject of experience might be like, so we will say no more about it. (We will, however, say something about what its consciousness of itself is like later.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一个要求看似平凡，实则不然。例如对休谟而言，使一组经验成为一个人的经验的，是它们以适当的方式彼此联想（所谓的捆束理论），而不是它们拥有一个共同主体。对主体的需要来自两点直截了当的考虑：表象不仅表象某物，还把某物表象给某人；而且表象不是被给予我们的——感官输入必须被一个整合的认知系统加工，才能成为表象。康德可能意识到这两点，但除了指明这种需要，关于经验的主体可能是什么样的，他没有多少可说的，所以我们不再多说。（不过，关于它对自身的意识是什么样的，我们后面会说几句。）
+    step2: |-
+      第一个要求看似平凡，实则不然：例如对休谟而言，使一组经验成为一个人的经验的，是它们以适当方式彼此联想（所谓捆束理论），而非拥有共同主体。对主体的需要来自两点直截了当的考虑：表象不仅表象某物，还把某物表象给某人；且表象不是被给予我们的——感官输入须经整合的认知系统加工，才能成为表象。康德可能意识到这两点，但除指明这种需要，关于经验的主体可能是什么样的他没多少可说，故不再多说（不过关于它对自身的意识是什么样的，后面会说几句）。
   - id: 91
     kind: body
     source: |-
       Kant seems to have used the terms ‘unity of consciousness’ (A103) and ‘unity of apperception’ (A105, A108) interchangeably. The well-known argument at the beginning of the first edition attack on the second paralogism (A352) focuses on this unity at a given time (among other things) and what can (or rather, cannot) be inferred from this about the nature of the mind (a topic to which we will return below). The attack on the third paralogism focuses on what can be inferred from unified consciousness over time. These are all from the first edition of *CPR*. In the second edition, Kant makes remarks about unity unlike anything in the first edition, for example, “this unity … is not the category of unity” (B131). The unity of consciousness and Kant’s views on it are complicated issues but some of the most important points include the following.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德似乎交替使用“意识的统一”（A103）与“统觉的统一”（A105, A108）这两个词。第一版对第二个谬误推理之攻击开篇的著名论证（A352）聚焦的正是（除其他外）给定时刻的这一统一，以及从它能（或毋宁不能）就心灵的本性推断出什么（这一话题我们后面还会回到）。对第三个谬误推理的攻击聚焦的则是能从跨时间的统一意识推断出什么。这些都出自 *CPR* 第一版。在第二版中，康德对统一的评论与第一版截然不同，例如“这种统一……不是统一的范畴”（B131）。意识的统一及康德关于它的观点是复杂的问题，但一些最重要的要点包括以下几条。
+    step2: |-
+      康德似乎交替使用“意识的统一”（A103）与“统觉的统一”（A105, A108）。第一版对第二个谬误推理之攻击开篇的著名论证（A352）聚焦（除其他外）给定时刻的这一统一，以及从它能（或毋宁不能）就心灵的本性推断出什么（这一话题后面还会回到）；对第三个谬误推理的攻击聚焦能从跨时间的统一意识推断出什么。这些都出自 *CPR* 第一版。第二版中，康德对统一的评论与第一版截然不同，例如“这种统一……不是统一的范畴”（B131）。意识的统一及康德关于它的观点是复杂的问题；一些最重要的要点包括以下几条。
   - id: 92
     kind: body
     source: |-
       By ‘unity of consciousness’, Kant seems to have the following in mind: I am conscious not only of single experiences but of a great many experiences at the same time. The same is true of actions; I can do and be conscious of doing a number of actions at the same time. In addition to such synchronic unity, many global representations, as we called them, display temporal unity: current representation is combined with retained earlier representation. (Temporal unity is often a feature of synthesis of recognition.) Any representation that we acquire in a series of temporal steps, such as hearing a sentence, will have unity across time (A104; A352).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所谓“意识的统一”，康德心中所想似乎是这样的：我不仅有单个经验的意识，还有同一时间大量经验的意识。行动亦然；我能同时做并意识到做若干行动。除这种共时性统一之外，许多我们所谓的全局表象还显示出时间性的统一：当前的表象与保持下来的较早表象相结合。（时间性统一常常是认定综合的一个特征。）凡我们在一系列时间步骤中获得的表象——如听一句话——都将有跨越时间的统一（A104; A352）。
+    step2: |-
+      所谓“意识的统一”，康德心中所想似乎是这样：我不仅有单个经验的意识，还有同一时间大量经验的意识。行动亦然——我能同时做并意识到做若干行动。除这种共时性统一，许多全局表象（如我们所称）还显示时间性统一：当前表象与保持下来的较早表象相结合（时间性统一常是认定综合的一个特征）。凡在一系列时间步骤中获得的表象——如听一句话——都将有跨越时间的统一（A104; A352）。
   - id: 93
     kind: body
     source: |-
       Kant himself did not explicate his notion of unified consciousness but here is one plausible articulation of the notion at work in his writings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德本人没有阐明他的统一意识概念，但这里有一种对其著作中起作用的概念的貌似合理的表述：
+    step2: |-
+      康德本人没有阐明统一意识的概念；这里有一种对其著作中起作用的概念的合理表述：
   - id: 94
     kind: body
     source: |-
       > The unity of consciousness =*df.* (i) a single act of consciousness, which (ii) makes one conscious of a number of representations and/or objects of representation in such a way that to be conscious by having any members of this group is also to be conscious by having others in the group and of at least some of them as a group.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 意识的统一＝*df.*（i）一个单一的意识行动，它（ii）使人意识到若干表象和/或表象的对象，其方式是：通过拥有这一群中的任何成员而拥有的意识，也是通过拥有该群中的其他成员而拥有的意识，并且至少对其中一些作为群体而拥有的意识。
+    step2: |-
+      > 意识的统一＝*df.*（i）一个单一的意识行动，它（ii）使人意识到若干表象和/或表象的对象，其方式是：通过拥有这一群中任何成员而拥有的意识，也是通过拥有该群其他成员而拥有的意识，且至少对其中一些作为群体而拥有。
   - id: 95
     kind: body
     source: |-
       As this definition makes clear, consciousness being unified is more than just being one state of consciousness. Unified consciousness is not just singular, it is unified.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      正如这一定义所清楚的，意识是统一的，不只是处于一个意识状态。统一的意识不仅是单一的，而且是统一的。
+    step2: |-
+      正如这一定义清楚的：意识是统一的，不只是处于一个意识状态——统一的意识不仅单一，而且统一。
   - id: 96
     kind: body
     source: |-
       Kant placed great emphasis on the unity of consciousness, both positively and negatively. Positively, he held that conceptualized representation has to be unified both at and across time. Negatively, from a mind having unified consciousness, he held that nothing follows concerning its composition, its identity, especially its identity across time, nor its materiality or immateriality. He argued these points in his attacks on the second, third and fourth Paralogisms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对意识的统一高度重视，从正面与负面皆是。从正面说，他主张概念化的表象在给定的时刻与跨越时间都必须统一。从负面说，他主张从拥有统一意识的心灵，对其构成、其同一性（尤其跨时间的同一性）、其物质性或非物质性，都得不出什么。他在对第二、第三与第四谬误推理的攻击中论证了这些论点。
+    step2: |-
+      康德对意识的统一高度重视——正面与负面皆是。正面：他主张概念化的表象在给定的时刻与跨越时间都必须统一。负面：他主张从拥有统一意识的心灵，对其构成、其同一性（尤其跨时间的同一性）、其物质性或非物质性都得不出什么。他在对第二、三、四谬误推理的攻击中论证了这些论点。
   - id: 97
     kind: body
     source: |-
       ## 4. Consciousness of Self and Knowledge of Self
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 自我意识与自我知识
+    step2: |-
+      ## 4 自我意识与自我知识
   - id: 98
     kind: body
     source: |-
       Many commentators hold that consciousness of self is central to the Critical philosophy. There is reason to question this: unified consciousness is central, but consciousness of self? That is not so clear. Whatever, the topic is intrinsically interesting and Kant achieved some remarkable insights into it. Strangely, none of his immediate successors took them up after his death and they next appeared at the earliest in Wittgenstein (1934–5) and perhaps not until Shoemaker (1968). Kant never discussed consciousness of self in its own right, only in the context of pursuing other objectives, and his remarks on the topic are extremely scattered. When we pull his various remarks together, we can see that Kant advanced at least seven major theses about consciousness of and knowledge of self. We will consider them one-by-one.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多评注者认为，自我意识对批判哲学是核心。有理由质疑这一点：统一才是核心的，自我意识吗？那就不清楚了。无论如何，这一论题本身有趣，而且康德对它取得了一些非凡的洞见。奇怪的是，他去世后其直系继承者无人接手，这些洞见最早要到维特根斯坦（1934–5）才再次出现，或许直到舒梅克（1968）才真正出现。康德从不为自我意识本身而讨论它，只在追求其他目标的语境中讨论；他关于这一话题的评论极为散乱。当我们把他的各种评论汇拢起来，可以看到康德提出了至少七条关于自我意识与自我知识的重要论题。我们将逐一考察。
+    step2: |-
+      许多评注者认为自我意识对批判哲学是核心。有理由质疑：统一才是核心，自我意识吗？不清楚。无论如何，这一论题本身有趣，且康德对它取得了一些非凡的洞见。奇怪的是：他去世后直系继承者无人接手，这些洞见最早要到维特根斯坦（1934–5）才再次出现，或许直到舒梅克（1968）才真正出现。康德从不为自我意识本身而讨论它，只在追求其他目标的语境中讨论；其评论极为散乱。把各种评论汇拢，可以看到康德提出了至少七条关于自我意识与自我知识的重要论题。以下逐一考察。
   - id: 99
     kind: body
     source: |-
       ### 4.1 Thesis 1: Two Kinds of Consciousness of Self
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 论题 1：两种自我意识
+    step2: |-
+      ### 4.1 论题 1：两种自我意识
   - id: 100
     kind: body
     source: |-
       The first thesis:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一条论题：
+    step2: |-
+      第一条论题：
   - id: 101
     kind: body
     source: |-
       1. There are two kinds of consciousness of self: consciousness of oneself and one’s psychological states in inner sense and consciousness of oneself and one’s states via performing acts of apperception.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 自我意识有两种：在内感官中对自身与自身心理状态的意识；以及通过执行统觉行动而对自身与自身状态的意识。
+    step2: |-
+      1. 自我意识有两种：在内感官中对自身与自身心理状态的意识；以及通过执行统觉行动而对自身与自身状态的意识。
   - id: 102
     kind: body
     source: |-
       Kant’s term for the former was ‘empirical self-consciousness’. A leading term for the latter was ‘transcendental apperception’ (TA). (Kant used the term ‘TA’ in two very different ways, as the name for a faculty of synthesis and as the name for what he also referred to as the ‘I think’, namely, one’s consciousness of oneself as subject.) Here is a passage from the *Anthropology* in which Kant distinguishes the two kinds of consciousness of self very clearly:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对前者的术语是“经验性的自我意识”。后者的一个主导术语是“先验统觉”（TA）。（康德以两种非常不同的方式使用‘TA’一词：既作为综合官能的名称，也作为他同样称为“我思”的东西的名称，即作为主体对自身的意识。）《人类学》中有这样一段话，康德非常清楚地区分了两种自我意识：
+    step2: |-
+      康德对前者的术语是“经验性的自我意识”；后者的一个主导术语是“先验统觉”（TA）。（康德以两种非常不同的方式用‘TA’：既作综合官能的名称，也作他同样称为“我思”的东西的名称——作为主体对自身的意识。）《人类学》中有这样一段，康德非常清楚地区分两种自我意识：
   - id: 103
     kind: body
     source: |-
       > … *the “I” of reflection* contains no manifold and is always the same in every judgment … *Inner experience*, on the other hand, contains the matter of consciousness and a manifold of empirical inner intuition: … [1798, Ak. VII:141–2, emphases in the original].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……*反思的“我”*不包含杂多，且在每一个判断中都是同一个……而*内部经验*则包含意识的质料与经验性内部直观的一个杂多……［1798, Ak. VII:141–2，原文强调］
+    step2: |-
+      > ……*反思的“我”*不包含杂多，且在每一个判断中都是同一个……而*内部经验*则包含意识的质料与经验性内部直观的一个杂多……［1798, Ak. VII:141–2，原文强调］
   - id: 104
     kind: body
     source: |-
       The two kinds of consciousness of self have very different sources.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      两种自我意识有非常不同的来源。
+    step2: |-
+      两种自我意识有非常不同的来源。
   - id: 105
     kind: body
     source: |-
       The source of empirical self-consciousness is what Kant called inner sense. He did not work out his notion of inner sense at all well. Here are just a few of the problems. Kant insists that all representational states are in inner sense, including those representing the objects of outer sense (i.e., spatially located objects):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经验性自我意识的源泉是康德所谓的内感官。他对内感官概念的阐释并不出色。这里只举几个问题。康德坚持一切表象状态都在内感官之中，包括那些表象外感官对象（即空间定位的对象）的状态：
+    step2: |-
+      经验性自我意识的源泉是康德所谓的内感官。他对内感官概念的阐释并不出色，这里只举几个问题。康德坚持一切表象状态都在内感官之中——包括表象外感官对象（即空间定位的对象）的那些：
   - id: 106
     kind: body
     source: |-
       > Whatever the origins of our representations, whether they are due to the influence of outer things, or are produced through inner causes, whether they arise *a priori*, or being appearances have an empirical origin, they must all, as modifications of the mind, belong to inner sense. [A98–9]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 无论我们的表象的起源是什么——无论它们源于外部事物的影响，还是由内部原因产生；无论它们*先天地*产生，还是作为显象有一个经验性的起源——它们作为心灵的变化，全都属于内感官。［A98–9］
+    step2: |-
+      > 无论我们的表象的起源是什么——无论源于外部事物的影响，还是由内部原因产生；无论*先天地*产生，还是作为显象有经验性的起源——它们作为心灵的变化，全都属于内感官。［A98–9］
   - id: 107
     kind: body
     source: |-
       However, he also says that the object of inner sense is the soul, the object of outer sense the body (including one’s own). He comes close to denying that we can be conscious of the denizens of inner sense—they do not represent inner objects and have no manifold of their own. Yet he also says that we can be conscious of them — representations can themselves be objects of representations, indeed, representations can make us conscious of themselves. In its role as a form of or means to consciousness of self, apperception ought to be part of inner sense. Yet Kant regularly contrasted apperception, a means to consciousness of oneself and one’s acts of thinking, with inner sense as a means to consciousness of—what? Presumably, particular representations: perceptions, imaginings, memories, etc. Here is another passage from the *Anthropology*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而他也说，内感官的对象是灵魂，外感官的对象是身体（包括自己的身体）。他几乎要否认我们能够意识到内感官的居民——它们不表象内部的对象，也没有自己的杂多。然而他又说我们能意识到它们——表象自身可以是表象的对象；事实上，表象能使我们意识到它们自身。作为自我意识的一种形式或手段，统觉应当属于内感官。然而康德一概把统觉——作为对自身与自身思考行动的意识之手段——与内感官作为对……什么的意识之手段相对照。大概，是特定的表象：知觉、想象、记忆等等。这是《人类学》中的另一段：
+    step2: |-
+      然而他也说：内感官的对象是灵魂，外感官的对象是身体（包括自己的身体）。他几乎要否认我们能意识到内感官的居民——它们不表象内部对象，也没有自己的杂多；然而他又说我们能意识到它们——表象自身可以是表象的对象；事实上，表象能使我们意识到它们自身。作为自我意识的形式或手段，统觉应属内感官；然而康德一概把统觉（作为对自身与自身思考行动的意识之手段）与内感官（作为对……什么的意识之手段）相对照——大概是对特定表象：知觉、想象、记忆等等。《人类学》中的另一段：
   - id: 108
     kind: body
     source: |-
       > §24. Inner sense is not pure apperception, consciousness of what we are doing; for this belongs to the power of thinking. It is, rather, consciousness of what we undergo as we are affected by the play of our own thoughts. This consciousness rests on inner intuition, and so on the relation of ideas (as they are either simultaneous or successive). [1798, Ak. VII:161]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > §24. 内感官不是纯粹的统觉，不是对我们正在做什么的意识；因为这属于思维能力。它毋宁是对我们自己被我们自身思想的活动影响时我们所承受的东西的意识。这种意识基于内部直观，因而基于观念的关系（它们同时或相继）。［1798, Ak. VII:161］
+    step2: |-
+      > §24. 内感官不是纯粹的统觉，不是对我们正在做什么的意识；因为这属于思维能力。它毋宁是对我们自己被自身思想的活动影响时所承受的东西的意识。这种意识基于内部直观，因而基于观念的关系（它们同时或相继）。［1798, Ak. VII:161］
   - id: 109
     kind: body
     source: |-
       Kant makes the same distinction in *CPR*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德在 *CPR* 中作出了同样的区分：
+    step2: |-
+      康德在 *CPR* 中作出同样的区分：
   - id: 110
     kind: body
     source: |-
       > … the I that I think is distinct from the I that it, itself, intuits …; I am given to myself beyond that which is given in intuition, and yet know myself, like other phenomena, only as I appear to myself, not as I am … [B155].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……我思考的我不同于我自己直观的我……；我被给予我自己，超出了直观中被给予的东西，但仍然像其他现象一样，只是如我向自己显现的那样认识我自己，而不是如我所是的那样……［B155］。
+    step2: |-
+      > ……我思考的我不同于我自己直观的我……；我被给予我自己，超出了直观中被给予的东西，但仍然像其他现象一样，只是如我向自己显现的那样认识我自己，而不是如我所是的那样……［B155］
   - id: 111
     kind: body
     source: |-
       Since most of Kant’s most interesting remarks about consciousness of and knowledge of self concern consciousness of oneself, the ‘I of reflection’ via acts of apperception, we will focus on it, though empirical consciousness of self will appear again briefly from time to time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然康德关于自我意识与自我知识的最有趣的评论大多关乎对自身的意识——经由统觉行动的“反思的我”——我们将聚焦于它，尽管自我意识的经验性形态会不时短暂再现。
+    step2: |-
+      既然康德关于自我意识与自我知识的最有趣的评论大多关乎对自身的意识（经由统觉行动的“反思的我”），我们将聚焦于它；自我意识的经验性形态会不时短暂再现。
   - id: 112
     kind: body
     source: |-
       ### 4.2 Thesis 2: Representational Base of Consciousness of Oneself and One’s States
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 论题 2：对自身与自身状态的意识的表象基底
+    step2: |-
+      ### 4.2 论题 2：对自身与自身状态的意识的表象基底
   - id: 113
     kind: body
     source: |-
       How does apperception give rise to consciousness of oneself and one’s states? In the passage just quoted from the *Anthropology,* notice the phrase “consciousness of what we are doing” — *doing.* The way in which one becomes conscious of an *act of representing* is not by receiving intuitions but by doing it: “synthesis …, as an act, … is conscious to itself, even without sensibility” (B153); “… this representation is an act of *spontaneity*, that is, it cannot be regarded as belonging to sensibility” (B132).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      统觉如何产生对自身与自身状态的意识？在刚才引自《人类学》的段落中，注意这个短语：“对我们正在做什么的意识”——*做*。人变得意识到一个*表象行动*的方式，不是通过接受直观，而是通过做它：“综合……作为行动……对它自身是自觉的，甚至没有感性也是如此”（B153）；“……这一表象是一个*自发性*的行动，即它不能被视为属于感性”（B132）。
+    step2: |-
+      统觉如何产生对自身与自身状态的意识？在刚才引自《人类学》的段落中，注意这个短语：“对我们正在做什么的意识”——*做*。人变得意识到一个*表象行动*的方式，不是通过接受直观，而是通过做它：“综合……作为行动……对它自身是自觉的，甚至没有感性也是如此”（B153）；“……这一表象是一个*自发性*的行动，即它不能被视为属于感性”（B132）。
   - id: 114
     kind: body
     source: |-
       Equally, we can be conscious of ourselves as subject merely by doing acts of representing. No further representation is needed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，我们可以仅通过做表象的行动而意识到作为主体的我们自己。不需要进一步的表象。
+    step2: |-
+      同样，我们可以仅通过做表象的行动而意识到作为主体的自己——不需要进一步的表象。
   - id: 115
     kind: body
     source: |-
       > Man, … who knows the rest of nature solely through the senses, knows himself also through pure apperception; and this, indeed, in acts and inner determinations which he cannot regard as impressions of the senses [A546=B574].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人……仅仅通过感官认识自然的其余部分，也通过纯粹统觉认识他自己；而且这确实是在行动与内部规定之中，他不能把它们视为感官的印象［A546=B574］。
+    step2: |-
+      > 人……仅仅通过感官认识自然的其余部分，也通过纯粹统觉认识他自己；而且这确实是在行动与内部规定之中，他不能把它们视为感官的印象［A546=B574］
   - id: 116
     kind: body
     source: |-
       How does one’s consciousness of oneself in one’s acts of representing work? Consider the sentence:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在表象行动中对自身的意识是如何工作的？考虑这个句子：
+    step2: |-
+      在表象行动中对自身的意识如何工作？考虑这个句子：
   - id: 117
     kind: body
     source: |-
       > I am looking at the words on the screen in front of me.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我正看着面前屏幕上的文字。
+    step2: |-
+      > 我正看着面前屏幕上的文字。
   - id: 118
     kind: body
     source: |-
       Kant’s claim seems to be that the representation of the words on the screen is all the experience I need to be conscious not just of the words and the screen but also of the act of seeing them and of *who* is seeing them, namely, me. A single representation can do all three jobs. Let us call an act of representing that can make one conscious of its object, itself and oneself as its subject the *representational base* of consciousness of these three items.[^note-7] Kant’s second major thesis is,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的主张似乎是：屏幕上文字的表象，就是我为意识到文字与屏幕、也意识到看见它们的行动以及*谁*在看见它们（即我）所需要的全部经验。单一的表象可以同时做这三件事。让我们把那种能使人意识到其对象、其自身以及作为其主体的自己的表象行动，称为这三项之意识的*表象基底*。[^note-7]康德的第二条重要论题是：
+    step2: |-
+      康德的主张似乎是：屏幕上文字的表象，就是我为意识到文字与屏幕、也意识到看见它们的行动及*谁*在看见它们（即我）所需的全部经验——单一表象可以同时做这三件事。让我们把那种能使人意识到其对象、其自身以及作为其主体的自己的表象行动，称为这三项之意识的*表象基底*。[^note-7]康德的第二条重要论题是：
   - id: 119
     kind: body
     source: |-
       1. Most ordinary representations generated by most ordinary acts of synthesis provide the representational base of consciousness of oneself and one’s states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 由大多数普通的综合行动生成的大多数普通表象，提供了对自身与自身状态之意识的表象基底。
+    step2: |-
+      1. 由大多数普通的综合行动生成的大多数普通表象，提供了对自身与自身状态之意识的表象基底。
   - id: 120
     kind: body
     source: |-
       Note that this representational base is the base not only of consciousness of one’s representational states. It is also the base of consciousness of oneself as the subject of those states—as the thing that has and does them. Though it is hard to know for sure, Kant would probably have denied that consciousness of oneself in inner sense can make one conscious of oneself as subject, of oneself as oneself, in this way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意：这一表象基底不仅是对自身表象状态之意识的基底；它还是把自身当作那些状态的主体——当作拥有并做出它们的东西——之意识的基底。虽然难以确知，康德很可能会否认：内感官中对自身的意识能使人以这种方式意识到作为主体的自己、意识到自己本身。
+    step2: |-
+      注意：这一表象基底不仅是对自身表象状态之意识的基底，还是把自身当作那些状态的主体（当作拥有并做出它们的东西）之意识的基底。虽难以确知，康德很可能会否认：内感官中对自身的意识能使人这样意识到作为主体的自己、意识到自己本身。
   - id: 121
     kind: body
     source: |-
       For Kant, this distinction between consciousness of oneself and one’s states by doing acts of synthesis and consciousness of oneself and one’s states as the objects of particular representations is of fundamental importance. When one is conscious of oneself and one’s states by doing cognitive and perceptual acts, one is conscious of oneself as spontaneous, rational, self-legislating, free—as the doer of deeds, not just as a passive receptacle for representations: “I exist as an intelligence which is conscious solely of its power of combination” (B158–159), of “the activity of the self” (B68) (Sellars, 1970–1; Pippin, 1987).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对康德而言，通过做综合行动而对自身与自身状态的意识，与作为特定表象之对象的自身与自身状态的意识之间的区分，具有根本的重要性。当一个人通过做认知与知觉的行动而意识到自身与自身状态时，他是作为自发的、理性的、自我立法的、自由的存在者而意识到自身——作为行动的做出者，而不仅是表象的被动容器：“我作为一个智能而存在，它只意识到它的组合能力”（B158–159），意识到“自我的活动”（B68）（Sellars, 1970–1; Pippin, 1987）。
+    step2: |-
+      对康德而言，通过做综合行动而对自身与自身状态的意识，与作为特定表象之对象的自身与自身状态的意识之间的区分，具有根本重要性：当一个人通过做认知与知觉的行动而意识到自身与自身状态时，他是作为自发的、理性的、自我立法的、自由的存在者而意识到自身——作为行动的做出者，而非表象的被动容器：“我作为一个智能而存在，它只意识到它的组合能力”（B158–159），意识到“自我的活动”（B68）（Sellars, 1970–1; Pippin, 1987）。
   - id: 122
     kind: body
     source: |-
       So far we have focussed on individual representations. For Kant, however, the representations that serve as the representational base of consciousness of oneself as subject are usually much ‘bigger’ than that, i.e., contain multiple objects and often multiple representations of them tied together into what Kant called ‘general experience’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到目前为止我们聚焦于单个的表象。然而对康德而言，充当作为主体的自身之意识的表象基底的表象，通常要“大”得多，即包含多个对象及对它们的多个表象，被联结成康德所谓的“普遍经验”。
+    step2: |-
+      到目前为止我们聚焦单个表象。然而对康德而言，充当作为主体的自身之意识之表象基底的表象，通常要“大”得多：包含多个对象及对它们的多个表象，被联结成康德所谓的“普遍经验”。
   - id: 123
     kind: body
     source: |-
       > When we speak of different experiences, we can refer only to the various perceptions, all of which belong to one and the same general experience. This thoroughgoing synthetic unity of perceptions is the form of experience; it is nothing less than the synthetic unity of appearances in accordance with concepts [A110].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 当我们谈论不同的经验时，我们只能指各种知觉，它们全都属于同一个普遍经验。这种知觉的彻底的综合统一，是经验的形式；它不外是依照概念的显象的综合统一［A110］。
+    step2: |-
+      > 当我们谈论不同的经验时，我们只能指各种知觉，它们全都属于同一个普遍经验。这种知觉的彻底的综合统一，是经验的形式；它不外是依照概念的显象的综合统一［A110］
   - id: 124
     kind: body
     source: |-
       This general experience is the global representation introduced earlier. When I am conscious of many objects and/or representations of them as the single object of a single global representation, the latter representation is all the representation I need to be conscious not just of the global object but also of myself as the common subject of all the constituent representations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一普遍经验就是先前引入的全局表象。当我意识到许多对象和/或对它们的表象，作为单一全局表象的单一对象时，后一表象就是我所需要的全部表象，使我不仅意识到全局对象，也意识到我自己作为所有构成性表象的共同主体。
+    step2: |-
+      这一普遍经验就是先前引入的全局表象。当我意识到许多对象和/或对它们的表象——作为单一全局表象的单一对象时，后一表象就是我所需的全部表象：使我不仅意识到全局对象，也意识到我自己作为所有构成性表象的共同主体。
   - id: 125
     kind: body
     source: |-
       > The mind could never think its identity in the manifoldness of its representations… if it did not have before its eyes the identity of its act, whereby it subordinates all [the manifold] … to a transcendental unity… [A108].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 心灵永远无法在其表象的杂多性中思考其同一性……如果它不在眼前拥有其行动的同一性——它借此把一切［杂多］……置于一个先验统一之下……［A108］。
+    step2: |-
+      > 心灵永远无法在其表象的杂多性中思考其同一性……如果它不在眼前拥有其行动的同一性——它借此把一切［杂多］……置于一个先验统一之下……［A108］
   - id: 126
     kind: body
     source: |-
       I am conscious of myself as the single common subject of a certain group of experiences by being conscious of “the identity of the consciousness in … conjoined … representations” (B133).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我通过意识到“……联结的……表象中意识的同一性”（B133），而意识到我自己是某一组经验的单一共同主体。
+    step2: |-
+      我通过意识到“……联结的……表象中意识的同一性”（B133），而意识到自己是某一组经验的单一共同主体。
   - id: 127
     kind: body
     source: |-
       ### 4.3 Thesis 3: Consciousness in Inner Sense is Only of How One Appears to Oneself
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 论题 3：内感官中的意识只关乎我们向自己显现的样子
+    step2: |-
+      ### 4.3 论题 3：内感官中的意识只关乎我们向自己显现的样子
   - id: 128
     kind: body
     source: |-
       Neither consciousness of self by doing apperceptive acts nor empirical consciousness of self as the object of particular representations yields knowledge of oneself as one is. On pain of putting his right to believe in immortality as an article of faith at risk, Kant absolutely had to claim this. As he put it,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      通过做统觉行动而有的自我意识，与作为特定表象之对象的经验性自我意识，都不能产生对我们如其所是的自我的知识。以把他对不朽作为信仰信条的权利置于风险为代价，康德绝对必须主张这一点。正如他所说：
+    step2: |-
+      通过做统觉行动而有的自我意识，与作为特定表象之对象的经验性自我意识，都不能产生对我们如其所是的自我的知识。以把他关于不朽的信仰信条权利置于风险为代价，康德绝对必须主张这一点。正如他所说：
   - id: 129
     kind: body
     source: |-
       > it would be a great stumbling block, or rather would be the one unanswerable objection, to our whole critique if it were possible to prove *a priori* that all thinking beings are in themselves simple substances. [B409]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 如果可能*先天地*证明一切思维着的存在者在自身中都是单纯的实体，那将是我们整个批判的一个巨大的绊脚石，毋宁说是唯一无法回答的反驳。［B409］
+    step2: |-
+      > 如果可能*先天地*证明一切思维着的存在者在自身中都是单纯的实体，那将是我们整个批判的巨大绊脚石，毋宁说是唯一无法回答的反驳。［B409］
   - id: 130
     kind: body
     source: |-
       The same would hold for all other properties of thinking beings. Since Kant also sometimes viewed immortality, i.e., personal continuity beyond death, as a foundation of morality, morality could also be at risk. So Kant had powerful motives to maintain that one does not know oneself as one is. Yet, according to him, we seem to know at least some things about ourselves, namely, how we must function, and it would be implausible to maintain that one never conscious of one’s real self at all. Kant’s response to these pressures is ingenious.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对思维着的存在者的所有其他属性亦然。由于康德有时也把不朽（即死亡之后的人格连续性）视为道德的基础，道德也可能处于风险之中。因此康德有强有力的动机坚持：人并不认识如其自身的自己。然而，照他的说法，我们似乎至少知道关于自身的某些事情，即我们必须如何运作；主张人完全意识不到其真实的自我是难以置信的。康德对这些压力的回应是巧妙的。
+    step2: |-
+      对思维着的存在者的所有其他属性亦然。由于康德有时也把不朽（死亡之后的人格连续性）视为道德的基础，道德也可能处于风险之中。因此康德有强有力的动机坚持：人并不认识如其自身的自己。然而照他的说法，我们似乎至少知道关于自身的某些事情——我们必须如何运作；主张人完全意识不到其真实自我是难以置信的。康德对这些压力的回应是巧妙的。
   - id: 131
     kind: body
     source: |-
       First, he treats inner sense: When we know ourselves as the object of a representation in inner sense, we “know even ourselves only .. as appearance …” (A278).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先，他处理内感官：当我们在内感官中把自己作为表象的对象来认识时，我们“甚至只……作为显象来认识我们自己……”（A278）。
+    step2: |-
+      首先，他处理内感官：当我们在内感官中把自己作为表象的对象来认识时，我们“甚至只……作为显象来认识我们自己……”（A278）。
   - id: 132
     kind: body
     source: |-
       > Inner … sense … represents to consciousness even our own selves only as we appear to ourselves, not as we are in ourselves. For we intuit ourselves only as we are inwardly *affected* [by ourselves] (B153).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 内部……感官……甚至只把我们自己的自我向意识表象为我们向自己显现的样子，而不是我们在自身中所是的样子。因为我们只有在我们被［我们自己］内在地*影响*时才直观我们自己（B153）。
+    step2: |-
+      > 内部……感官……甚至只把我们自己的自我向意识表象为我们向自己显现的样子，而不是我们在自身中所是的样子。因为我们只有在我们被［我们自己］内在地*影响*时才直观我们自己（B153）
   - id: 133
     kind: body
     source: |-
       This is the third thesis:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是第三条论题：
+    step2: |-
+      这是第三条论题：
   - id: 134
     kind: body
     source: |-
       1. In inner sense, one is conscious of oneself only as one appears to oneself, not as one is.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 在内感官中，人只意识到自己向自己显现的样子，而不是其所是。
+    step2: |-
+      1. 在内感官中，人只意识到自己向自己显现的样子，而不是其所是。
   - id: 135
     kind: body
     source: |-
       So when we seem to be directly conscious of features of ourselves, we in fact have the same kind of consciousness of them as we have of features of things in general—we appear to ourselves to be like this, that or the other, in just the way that we know of any object only as it appears to us.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，当我们似乎直接意识到自身的特征时，我们事实上对这些特征拥有的意识，与我们对一般事物特征拥有的意识是同一种——我们向自己显现为这样那样，恰如我们对任何对象只在它向我们显现的程度上有所认识。
+    step2: |-
+      因此，当我们似乎直接意识到自身的特征时，我们对这些特征的意识与对一般事物特征的意识是同一种——我们向自己显现为这样那样，恰如我们对任何对象只在它向我们显现的程度上有所认识。
   - id: 136
     kind: body
     source: |-
       Then he turns to consciousness of oneself and one’s states by doing apperceptive acts. This is a knottier problem. Here we will consider only consciousness of oneself as subject. Certainly by the second edition, Kant had come to see how implausible it would be to maintain that one has no consciousness of oneself, one’s real self, at all when one is conscious of oneself as the subject of one’s experience, agent of one’s acts, by having these experiences and doing those acts. In the 2ⁿᵈ edition, he reflects this sensitivity as early as B68; at B153, he goes so far as to say that an apparent contradiction is involved.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然后他转向通过做统觉行动而有的对自身与自身状态的意识。这是一个更棘手的问题。这里我们只考虑作为主体的自我意识。可以肯定，到第二版时，康德已看到：坚持当一个人通过拥有这些经验、做那些行动而意识到自己是其经验的主体、其行动的行动者时，完全意识不到自身——其真实的自我——是多么难以置信。在第二版中，他早在 B68 就反映了这种敏感；到 B153，他甚至说其中涉及一个表面的矛盾。
+    step2: |-
+      然后他转向通过做统觉行动而有的对自身与自身状态的意识——一个更棘手的问题。这里只考虑作为主体的自我意识。可以肯定，到第二版时，康德已看到：坚持人在通过拥有这些经验、做那些行动而意识到自己是经验的主体、行动的行动者时，完全意识不到自身（其真实的自我）是多么难以置信。第二版中，他早在 B68 就反映这种敏感；到 B153，他甚至说其中涉及一个表面的矛盾。
   - id: 137
     kind: body
     source: |-
       Furthermore, when we are conscious of ourselves as subject and agent by doing acts of apperceiving, we do *appear* to ourselves to be substantial, simple and continuing. He had to explain these appearances away; doing so was one of his aims, indeed, in his attacks on the second and third Paralogisms. Thus, Kant had strong motives to give consciousness of self as subject special treatment. The view that proposes is puzzling. I am not consciousness of myself as I appear to myself, nor as I am in myself but only “that I am” (B157). To understand what he might mean here, we need a couple of intermediate theses. They contain the remarkable insights into reference to and consciousness of self mentioned earlier.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，当我们通过做统觉行动而意识到作为主体与行动者的自己时，我们*显现*给自己为有实体的、单纯的、延续的。他必须把这些显象解释掉；这样做确实是他对第二与第三个谬误推理的攻击的目标之一。因此，康德有强烈的动机给予作为主体的自我意识特殊处理。他所提出观点令人困惑。我不是对我向自己显现的样子的意识，也不是对我在自身中所是的样子，而只是“我存在”（B157）。要理解他在此可能是什么意思，我们需要几条中介论题。它们包含了前面提到的关于自我指称与自我意识的非凡洞见。
+    step2: |-
+      此外，当我们通过做统觉行动而意识到作为主体与行动者的自己时，我们*显现*给自己为有实体的、单纯的、延续的。他必须把这些显象解释掉——这样做确实是他对第二、三谬误推理攻击的目标之一。因此康德有强烈动机给予作为主体的自我意识特殊处理。他所提出的观点令人困惑：我不是对我向自己显现之样子的意识，也不是对我在自身中所是的样子，而只是“我存在”（B157）。要理解他在此可能的意思，需要几条中介论题——它们包含前面提到的关于自我指称与自我意识的非凡洞见。
   - id: 138
     kind: body
     source: |-
       ### 4.4 Thesis 4: Referential Machinery of Consciousness of Self
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 论题 4：自我意识的指称机制
+    step2: |-
+      ### 4.4 论题 4：自我意识的指称机制
   - id: 139
     kind: body
     source: |-
       Kant generated the special treatment he needed by focussing first on reference to self. Here are some of the things that he said about reference to oneself as subject. It is a consciousness of self in which “nothing manifold is given.” (B135). In the kind of reference in which we gain this consciousness of self, we “denote” but do not “represent” ourselves (A382). We designate ourselves without noting “any quality whatsoever” in ourselves (A355). This yields his fourth thesis about consciousness of and knowledge of self.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德通过首先聚焦对自我的指称，生成他所需要的特殊处理。以下是他就作为主体的对自身的指所说的一些话。它是一种自我意识，其中“没有被给予任何杂多”（B135）。在我们获得这种自我意识的那类指称中，我们“指称”而不“表象”我们自己（A382）。我们指称我们自己而不在自己身上注意“任何性质 whatsoever（哪怕一点）”（A355）。由此得出他关于自我意识与自我知识的第四条论题。
+    step2: |-
+      康德通过首先聚焦对自我的指称，生成他所需要的特殊处理。以下是他就作为主体的对自身的指所说的一些话：它是一种自我意识，其中“没有被给予任何杂多”（B135）；在我们获得这种自我意识的那类指称中，我们“指称”而不“表象”我们自己（A382）；我们指称自己而不在自己身上注意“任何性质 whatsoever（哪怕一点）”（A355）。由此得出他关于自我意识与自我知识的第四条论题。
   - id: 140
     kind: body
     source: |-
       1. The referential machinery used to obtain consciousness of self as subject requires no identifying (or other) ascription of properties to oneself.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 用于获得作为主体的自我意识的指称机制，不需要对自身做任何认同的（或其他）属性归属。
+    step2: |-
+      1. 用于获得作为主体的自我意识的指称机制，不需要对自身做任何认同的（或其他）属性归属。
   - id: 141
     kind: body
     source: |-
       This is a remarkably penetrating claim; remember, the study of reference and semantics generally is usually thought to have begun only with Frege. Kant is anticipating two important theses about reference to self that next saw the light of day only 200 years later.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这是一个非凡深刻的主张；别忘了，指称与语义学的研究通常被认为始于弗雷格。康德预见了关于对自我指称的两条重要论题——它们要到 200 年后才重见天日。
+    step2: |-
+      这是一个非凡深刻的主张；别忘了，指称与语义学的研究通常被认为始于弗雷格。康德预见了关于对自我指称的两条重要论题——它们要到 200 年后才重见天日。
   - id: 142
     kind: body
     source: |-
       1. In certain kinds of consciousness of self, one can be conscious of something as oneself without identifying it (or anything) as oneself via properties that one has ascribed to the thing (self-reference without identification) (Shoemaker 1968)[^shoemaker-1968],[^note-8] and,
       2. In such cases, first-person indexicals (I, me, my, mine) cannot be analysed out in favour of anything else, in particular anything descriptionlike (the essential indexical) (Perry 1979).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 在某些种类的自我意识中，人可以意识到某物为自身，而不必经由自己归属于该物的性质把它（或任何东西）认同为自己（不经认同的自我指称）（Shoemaker 1968）[^shoemaker-1968]，[^note-8]；以及，
+      2. 在这种情形中，第一人称索引词（我、我［宾格］、我的）不能被分析还原为任何其他东西，尤其不能还原为任何描述性的东西（本质索引词）（Perry 1979）。
+    step2: |-
+      1. 在某些种类的自我意识中，人可以意识到某物为自身，而不必经由自己归属于该物的性质把它（或任何东西）认同为自己（不经认同的自我指称）（Shoemaker 1968）[^shoemaker-1968]，[^note-8]；以及，
+      2. 在这种情形中，第一人称索引词（我、我［宾格］、我的）不能被分析还原为任何其他东西——尤其不能还原为任何描述性的东西（本质索引词）（Perry 1979）。
   - id: 143
     kind: body
     source: |-
       Was Kant actually aware of (1) and/or (2) or had he just stumbled across something that later philosophers recognized as significant?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德是否真的意识到（1）和/或（2），还是只是偶然撞上了后来哲学家才认出其重要性的东西？
+    step2: |-
+      康德是否真的意识到（1）和/或（2），还是只是偶然撞上了后来哲学家才认出其重要性的东西？
   - id: 144
     kind: body
     source: |-
       One standard argument for (1) goes as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （1）的一个标准论证如下：
+    step2: |-
+      （1）的一个标准论证如下：
   - id: 145
     kind: body
     source: |-
       > My use of the word ‘I’ as the subject of [statements such as ‘I feel pain’ or ‘I see a canary’] is not due to my having identified as myself something [otherwise recognized] of which I know, or believe, or wish to say, that the predicate of my statement applies to it [Shoemaker 1968, pp.558][^shoemaker-1968].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我把‘我’一词用作［诸如‘我感到疼’或‘我看见一只金丝雀’这类陈述的］主词，并不是因为我已把某个［以其他方式被认出的］东西认同为我自己——我对它有所知、相信或想说我的陈述的谓词适用于它［Shoemaker 1968, pp.558］[^shoemaker-1968]。
+    step2: |-
+      > 我把‘我’一词用作［诸如‘我感到疼’或‘我看见一只金丝雀’这类陈述的］主词，并不是因为我已把某个［以其他方式被认出的］东西认同为我自己——我对它有所知、相信或想说我的陈述的谓词适用于它［Shoemaker 1968, pp.558］[^shoemaker-1968]
   - id: 146
     kind: body
     source: |-
       A standard argument for (2), that certain indexicals are essential, goes as follows. To know that *I* wrote a certain book a few years ago, it is not enough to know that someone over six feet tall wrote that book, or that someone who teaches philosophy at a particular university wrote that book, or … or … or … , for I could know all these things without knowing that it was *me* who has these properties (and I could know that it *was* me who wrote that book and not know that any of these things are properties of me). As Shoemaker puts it,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （2）的一个标准论证——某些索引词是本质的——如下。要知道*我*几年前写了一本某书，知道某个身高超过六英尺的人写了那本书、或某个在特定大学教哲学的人写了那本书、或……或……，是不够的；因为我可以知道所有这些事情，却不知道拥有这些性质的人*就是我*（而且我可以知道写那本书的人*就是*我，却不知道这些事情中有任何一件是我的性质）。正如舒梅克所说：
+    step2: |-
+      （2）的一个标准论证——某些索引词是本质的——如下：要知道*我*几年前写了某书，知道某个身高超过六英尺的人写了那本书、或某个在特定大学教哲学的人写了那本书、或……，是不够的——因为我可以知道所有这些事情，却不知道拥有这些性质的人*就是我*（而且我可以知道写那本书的人*就是*我，却不知道这些事情中有任何一件是我的性质）。正如舒梅克所说：
   - id: 147
     kind: body
     source: |-
       > … no matter how detailed a token-reflexive-free description of a person is, … it cannot possibly entail that I am that person [1968, pp. 560].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……无论一个人不受代词反射约束的描述多么详细，……它都不可能蕴涵我就是那个人［1968, pp. 560］。
+    step2: |-
+      > ……无论一个人不受代词反射约束的描述多么详细，……它都不可能蕴涵我就是那个人［1968, pp. 560］
   - id: 148
     kind: body
     source: |-
       Kant unquestionably articulated the argument for (1):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德毫无疑问地阐明了（1）的论证：
+    step2: |-
+      康德毫无疑问地阐明了（1）的论证：
   - id: 149
     kind: body
     source: |-
       > In attaching ‘I’ to our thoughts, we designate the subject only transcendentally … without noting in it any quality whatsoever—in fact, without knowing anything of it either directly or by inference [A355].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在把‘我’附到我们的思想上时，我们只是先验地指称主体……而不在其中注意任何性质——事实上，无论直接还是经推理，对它一无所知［A355］。
+    step2: |-
+      > 在把‘我’附到我们的思想上时，我们只是先验地指称主体……而不在其中注意任何性质——事实上，无论直接还是经推理，对它一无所知［A355］
   - id: 150
     kind: body
     source: |-
       This *transcendental designation,* i.e., referring to oneself using ‘I’ without ‘noting any quality’ in oneself, has some unusual features. One can refer to oneself in a variety of ways, of course: as the person in the mirror, as the person born on such and such a date in such and such a place, as the first person to do *X*, and so on, but one way of referring to oneself is special: it does not require identifying or indeed any ascription to oneself. So Kant tells us.[^note-9]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种*先验指称*——即使用‘我’指称自身而不在自己身上‘注意任何性质’——有一些不寻常的特征。当然，人可以以多种方式指称自己：作为镜中的那个人、作为某日某地出生的那个人、作为做*X*的第一人，等等；但指称自己有一种方式是特殊的：它不需要认同、甚至不需要对自己的任何归属。康德就是这样告诉我们的。[^note-9]
+    step2: |-
+      这种*先验指称*——用‘我’指称自身而不在自己身上‘注意任何性质’——有不寻常的特征。人可以以多种方式指称自己：作为镜中的那个人、作为某日某地出生者、作为做*X*的第一人，等等；但有一种方式特殊：它不需要认同、甚至不需要对自己的任何归属。康德就是这样告诉我们的。[^note-9]
   - id: 151
     kind: body
     source: |-
       The question is more complicated with respect to (2). We cannot go into the complexities here (see Brook 2001)[^brook-2001][^brook-2001-2][^brook-2001-3]. Here we will just note three passages in which Kant may be referring to the essential indexical or something like it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相对于（2），问题更复杂。我们无法在此展开其复杂性（见 Brook 2001）[^brook-2001][^brook-2001-2][^brook-2001-3]。这里只注意康德可能论及本质索引词或类似之物的三段文字。
+    step2: |-
+      相对于（2），问题更复杂。我们无法在此展开其复杂性（见 Brook 2001）[^brook-2001][^brook-2001-2][^brook-2001-3]；这里只注意康德可能论及本质索引词或类似之物的三段文字。
   - id: 152
     kind: body
     source: |-
       > The subject of the categories cannot by thinking the categories [i.e. applying them to objects] acquire a concept of itself as an object of the categories. For in order to think them, its pure self-consciousness, which is what was to be explained, must itself be presupposed. [B422]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 范畴的主体不能通过思考范畴［即把它们应用于对象］而获得一个把自身作为范畴之对象的概念。因为为了思考它们，它的纯粹自我意识——即有待解释的东西——必须本身被预设。［B422］
+    step2: |-
+      > 范畴的主体不能通过思考范畴（即把它们应用于对象）获得一个把自身作为范畴之对象的概念。因为为了思考它们，它的纯粹自我意识——即有待解释的东西——必须本身被预设。［B422］
   - id: 153
     kind: body
     source: |-
       The phrase ‘its pure self-consciousness’ seems to refer to consciousness of oneself as subject. If so, the passage may be saying that judgments about oneself, i.e., ascriptions of properties to oneself, ‘presuppose … pure self-consciousness’, i.e., consciousness of oneself via an act of ascription-free transcendental designation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      “它的纯粹自我意识”这一短语似乎指作为主体的自我意识。若是这样，这段话可能在说：关于自身的判断，即对自身的属性归属，“预设……纯粹自我意识”——即经由免归属的先验指称行动的对自身的意识。
+    step2: |-
+      “它的纯粹自我意识”这一短语似乎指作为主体的自我意识。若是这样，这段话可能在说：关于自身的判断（即对自身的属性归属）“预设……纯粹自我意识”——即经由免归属的先验指称行动的对自身的意识。
   - id: 154
     kind: body
     source: |-
       Now compare this, “it is … very evident that I cannot know as an object that which I must presuppose to know any object … .” (A402), and this,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在比较这一句：“很明显，我无法作为对象认识我必须预设才能认识任何对象的那一东西……”（A402），以及这一句：
+    step2: |-
+      现在比较：“很明显，我无法作为对象认识我必须预设才能认识任何对象的那一东西……”（A402），以及这一句：
   - id: 155
     kind: body
     source: |-
       > Through this I or he or it (the thing) which thinks, nothing further is represented than a transcendental subject of the thoughts = *X*. It is known only through the thoughts which are its predicates, and of it, apart from them, we cannot have any concept whatsoever, but can only revolve in a perpetual circle, since any judgment upon it has always already made use of its representation. [A346=B404]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 通过这个我或他或它（那个东西）——思维着的东西，除思想的一个先验主体＝*X* 外，没有被表象任何别的东西。它只通过作为其谓词的那些思想而被认识；而撇开它们，我们对它不能有任何概念，只能在一个永恒的圆圈里打转，因为对它的任何判断总是已经使用了它的表象。［A346=B404］
+    step2: |-
+      > 通过这个我或他或它（那个东西）——思维着的东西，除思想的一个先验主体＝*X* 外，没有被表象任何别的东西。它只通过作为其谓词的那些思想而被认识；撇开它们，我们对它不能有任何概念，只能在永恒的圆圈里打转——因为对它的任何判断总是已经使用了它的表象。［A346=B404］
   - id: 156
     kind: body
     source: |-
       The last clause is the key one: “any judgment upon it has always already made use of its representation”. Kant seems to be saying that to know that anything is true of me, I must first know that it is me of whom it is true. This is something very like the essential indexical claim.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后一个分句是关键：“对它的任何判断总是已经使用了它的表象”。康德似乎在说：要知道任何事情对我为真，我必须首先知道它是对我为真的。这非常接近本质索引词的主张。
+    step2: |-
+      最后一个分句是关键：“对它的任何判断总是已经使用了它的表象”。康德似乎在说：要知道任何事情对我为真，必须先知道它是对我为真——这非常接近本质索引词的主张。
   - id: 157
     kind: body
     source: |-
       If reference to self takes place without ‘noting any properties’ of oneself, the consciousness that results will also have some special features.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果对自我的指称在不‘注意自身的任何性质’的情况下发生，所产生的意识也将有一些特殊的特征。
+    step2: |-
+      如果对自我的指称在不‘注意自身任何性质’的情况下发生，所产生的意识也将有特殊特征。
   - id: 158
     kind: body
     source: |-
       ### 4.5 Thesis 5: No Manifold in Consciousness of Self
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.5 论题 5：自我意识中没有杂多
+    step2: |-
+      ### 4.5 论题 5：自我意识中没有杂多
   - id: 159
     kind: body
     source: |-
       The most important special feature is that, in this kind of consciousness of self, one is not, or need not be, conscious of any properties of oneself, certainly not any particular properties. One has the same consciousness of self no matter what else one is conscious of — thinking, perceiving, laughing, being miserable, or whatever. Kant expressed the thought this way,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最重要的特殊特征是：在这种自我意识中，人没有、或不必意识到自身的任何性质——当然不是任何特定性质。无论还意识到什么——思考、知觉、大笑、痛苦不堪，等等——人对自身的意识是同一个。康德这样表达这一思想：
+    step2: |-
+      最重要的特殊特征是：在这种自我意识中，人没有、或不必意识到自身的任何性质——尤其不是任何特定性质。无论还意识到什么（思考、知觉、大笑、痛苦不堪，等等），对自身的意识是同一个。康德这样表达这一思想：
   - id: 160
     kind: body
     source: |-
       > through the ‘I’, as simple representation, nothing manifold is given. [B135]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 通过作为单纯表象的‘我’，没有被给予任何杂多。［B135］
+    step2: |-
+      > 通过作为单纯表象的‘我’，没有被给予任何杂多。［B135］
   - id: 161
     kind: body
     source: |-
       And this,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      以及这一句：
+    step2: |-
+      以及这一句：
   - id: 162
     kind: body
     source: |-
       > the I that I think is distinct from the I that it … intuits …; I am given to myself beyond that which is given in intuition. [B155]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我思考的我不同于我自己……直观的我……；我被给予我自己，超出了直观中被给予的东西。［B155］
+    step2: |-
+      > 我思考的我不同于我自己……直观的我……；我被给予我自己，超出了直观中被给予的东西。［B155］
   - id: 163
     kind: body
     source: |-
       We now have the fifth thesis to be found in Kant:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们现在有了康德那里的第五条论题：
+    step2: |-
+      我们现在有了康德那里的第五条论题：
   - id: 164
     kind: body
     source: |-
       1. When one is conscious of oneself as subject, one has a bare consciousness of self in which “nothing manifold is given.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 当人意识到作为主体的自己时，人拥有一种单纯的自我意识，其中“没有被给予任何杂多”。
+    step2: |-
+      1. 当人意识到作为主体的自己时，拥有一种单纯的自我意识，其中“没有被给予任何杂多”。
   - id: 165
     kind: body
     source: |-
       Since, on Kant’s view, one can refer to oneself as oneself without knowing any properties of oneself, not just identifying properties, ‘non-ascriptive reference to self’ might capture what is special about this form of consciousness of self better than Shoemaker’s ‘self-reference without identification’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然照康德的看法，人可以把自己指称为自己而不知道自身的任何性质——不只是认同性质——“不加归属的对自我的指称”也许比舒梅克的“不经认同的自我指称”更能抓住这种自我意识的特殊之处。
+    step2: |-
+      既然照康德的看法，人可以把自己指称为自己而不知道自身的任何性质（不只是认同性质），“不加归属的对自我的指称”也许比舒梅克的“不经认同的自我指称”更能抓住这种自我意识的特殊之处。
   - id: 166
     kind: body
     source: |-
       ### 4.6 Thesis 6: Consciousness of Self is not Knowledge of Self
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.6 论题 6：自我意识不是自我知识
+    step2: |-
+      ### 4.6 论题 6：自我意识不是自我知识
   - id: 167
     kind: body
     source: |-
       Transcendental designation immediately yields the distinction that Kant needs to allow that one is conscious of oneself as one is, not just of an appearance of self, and yet deny knowledge of oneself as one is. If consciousness of self ascribes nothing to the self, it can be a “bare … consciousness of self [as one is]” and yet yield no knowledge of self—it is “very far from being a knowledge of the self” (B158). This thesis returns us to consciousness of self as subject:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      先验指称立即产生了康德所需要的区分——允许人意识到如其自身的自己（而不仅是自我的一个显象），却又否认对如其自身的自己的知识。如果对自我的意识不把任何东西归属于自我，它可以是一种“单纯的……［如其自身的］自我意识”，却不产生自我知识——它“远不是一种关于自我的知识”（B158）。这一论题把我们带回作为主体的自我意识：
+    step2: |-
+      先验指称立即产生康德所需的区分——允许人意识到如其自身的自己（而不仅是自我的显象），却否认对如其自身的自己的知识。如果对自我的意识不把任何东西归属于自我，它可以是一种“单纯的……［如其自身的］自我意识”，却不产生自我知识——它“远不是一种关于自我的知识”（B158）。这一论题把我们带回作为主体的自我意识：
   - id: 168
     kind: body
     source: |-
       1. When one is conscious of oneself as subject, one’s bare consciousness of self yields no knowledge of self.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 当人意识到作为主体的自己时，人的单纯自我意识不产生自我知识。
+    step2: |-
+      1. 当人意识到作为主体的自己时，其单纯自我意识不产生自我知识。
   - id: 169
     kind: body
     source: |-
       In Kant’s own work, he then put the idea of transcendental designation to work to explain how one can appear to oneself to be substantial, simple and persisting without these appearances reflecting how one actually is. The reason that one appears in these ways is not that the self is some strange, indefinable being. It is because of the kind of referring that we do to become conscious of oneself as subject. Given how long ago he worked, Kant’s insights into this kind of referring are nothing short of amazing.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在康德自己的著作中，他随后把先验指称的理念投入使用，以解释：人如何能向自己显现为有实体的、单纯的、延续的，而这些显象并不反映人的实际情况。人如此显现的原因，不是自我是某种奇怪的、不可定义的存在者；而是因为我们为意识到作为主体的自己所做的那种指称。考虑到他工作的年代之早，康德对这类指称的洞见令人惊叹。
+    step2: |-
+      在康德自己的著作中，他随后把先验指称的理念投入使用，以解释：人如何能向自己显现为有实体的、单纯的、延续的，而这些显象并不反映实际。人如此显现的原因，不是自我是某种奇怪的、不可定义的存在者，而是我们为意识到作为主体的自己所做的那种指称。考虑到年代之早，康德对这类指称的洞见令人惊叹。
   - id: 170
     kind: body
     source: |-
       ### 4.7 Thesis 7: Conscious of Self as Single, Common Subject of Experience
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.7 论题 7：作为经验的单一共同主体的自我意识
+    step2: |-
+      ### 4.7 论题 7：作为经验的单一共同主体的自我意识
   - id: 171
     kind: body
     source: |-
       The last of Kant’s seven theses about consciousness of self is an idea that we already met when we discussed the unity of consciousness:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德关于自我意识的七条论题的最后一条，是我们在讨论意识的统一时已经遇到的观念：
+    step2: |-
+      康德关于自我意识的七条论题的最后一条，是我们在讨论意识的统一时已遇到的观念：
   - id: 172
     kind: body
     source: |-
       1. When we are conscious of ourselves as subject, we are conscious of ourselves as the “single common subject” *[CPR,* A350] of a number of representations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 当我们意识到作为主体的自己时，我们意识到自己是若干表象的“单一共同主体”［CPR, A350］。
+    step2: |-
+      1. 当我们意识到作为主体的自己时，我们意识到自己是若干表象的“单一共同主体”［CPR, A350］。
   - id: 173
     kind: body
     source: |-
       What Kant likely had in mind is nicely captured in a remark of Bennett’s (1974, p. 83): to think of myself as a plurality of things is to think of *my* being conscious of this plurality, “and that pre-requires an undivided *me*.” Unlike one of anything else, it is not optional that I think of myself as one subject across a variety of experiences (A107).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德心中所想的，被贝内特的一条评论（1974, p. 83）很好地捕捉：把我自己想成一个复数的东西，就是想到*我*意识到这一复数，“而这预先要求一个不可分割的我”。不同于其他任何东西之为一，我把自己想成贯穿多种经验的同一个主体，这不是可选的（A107）。
+    step2: |-
+      康德心中所想的，被贝内特的一条评论（1974, p. 83）很好地捕捉：把我自己想成复数的东西，就是想到*我*意识到这一复数，“而这预先要求一个不可分割的我”。不同于其他任何东西之为一，我把自己想成贯穿多种经验的同一个主体——这不可选（A107）。
   - id: 174
     kind: body
     source: |-
       ## 5. Knowledge of the Mind
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 关于心灵的知识
+    step2: |-
+      ## 5 关于心灵的知识
   - id: 175
     kind: body
     source: |-
       The remarks just noted about ‘bare consciousness’ and so on by no means exhaust the concerns that can be raised about Kant and what we can know about the mind. His official view has to be: nothing — about the mind’s structure and what it is composed of, at any rate, we can know nothing. As we have seen, Kant not only maintained this but did some ingenious wiggling to account for the apparent counter-evidence. But that is not the end of the story, for two reasons.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      刚才提到的关于“单纯意识”等等的评论，绝不穷尽就康德与我们对心灵能知道什么所能提出的关切。他的官方观点必须是：关于心灵的结构与构成——至少——我们什么也不能知道。如我们所见，康德不仅坚持这一点，还做了巧妙的腾挪来解释表面上相反的证据。但这不是故事的结尾，有两个理由。
+    step2: |-
+      刚才关于“单纯意识”等等的评论，绝不穷尽就康德与我们对心灵能知道什么所能提出的关切。他的官方观点必须是：关于心灵的结构与构成（至少），我们什么也不能知道。如我们所见，康德不仅坚持这一点，还做了巧妙的腾挪以解释表面上相反的证据。但这不是故事的结尾——有两个理由。
   - id: 176
     kind: body
     source: |-
       First, whatever the commitments of his philosophy, Kant the person believed that the soul is simple and persists beyond death; he found materialism utterly repugnant (1783, Ak. IV, end of §46). This is an interesting psychological fact about Kant but needs no further discussion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先，无论其哲学的承诺如何，作为个人的康德相信灵魂是单纯的并在死后延续；他觉得唯物论可憎至极（1783, Ak. IV, §46 末尾）。这是关于康德的一个有趣的心理事实，但无需进一步讨论。
+    step2: |-
+      首先，无论其哲学的承诺如何，作为个人的康德相信灵魂单纯并在死后延续；他觉得唯物论可憎至极（1783, Ak. IV, §46 末尾）。这是关于康德的一个有趣的心理事实，无需进一步讨论。
   - id: 177
     kind: body
     source: |-
       Second and more importantly, Kant in fact held that we *do* have knowledge of the mind as it is. In particular, we know that it has forms of intuition in which it must locate things spatially and temporally, that it must synthesize the raw manifold of intuition in three ways, that its consciousness must be unified, and so on — all the aspects of the model examined above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其次且更重要的是：康德事实上主张我们*确实*拥有关于心灵如其所是的知识。特别地，我们知道心灵拥有必须在空间与时间上定位事物的直观形式，必须以三种方式综合原始的直观杂多，其意识必须是统一的，等等——即上面考察的模型的全部方面。
+    step2: |-
+      其次且更重要：康德事实上主张我们*确实*拥有关于心灵如其所是的知识。特别地：我们知道心灵拥有必须在空间与时间上定位事物的直观形式，必须以三种方式综合原始的直观杂多，其意识必须统一，等等——即上面考察的模型的全部方面。
   - id: 178
     kind: body
     source: |-
       To square his beliefs about what we cannot know and what we do know about the mind, Kant could have made at least two moves. He could have said that we know these things only ‘transcendentally’, that is to say, by inference to the necessary conditions of experience. We do not know them directly, in some sense of ‘directly’, so we don’t have intuitive, i.e., sense-derived knowledge of them. Or he could have said that ontological neutrality about structure and composition is compatible with knowledge of function. As we saw, Kant’s conception of the mind is functionalist—to understand the mind, we must study what it does and can do, its functions—and the doctrine that function does not dictate form is at the heart of contemporary functionalism. According to functionalism, we can gain knowledge of the mind’s functions while knowing little or nothing about how the mind is built. Approached this way, Kant’s view that we know *nothing* of the structure and composition of the mind would just be a radical version of this functionalist idea. Either move would restore consistency among his various claims about knowledge of the mind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为调和他关于我们不知道什么与我们确实知道什么（关于心灵）的信念，康本可以至少做两个动作。他可以说：我们只是“先验地”知道这些东西，即通过推理到经验的必要条件而知道。我们在“直接”的某种意义上不直接知道它们，因此我们没有关于它们的直观的、即源于感官的知识。或者他可以说：关于结构与构成的本体论中立，与关于功能的知识相容。如我们所见，康德的心灵构想是功能主义的——要理解心灵，我们必须研究它做什么、能做什么，即其功能——而“功能不决定形式”的学说处于当代功能主义的心脏。照功能主义，我们可以在对心灵如何被构建知之甚少或一无所知的情况下，获得关于心灵功能的知识。照这一进路，康德关于我们对心灵的结构与构成一*无所知*的观点，就只是这一功能主义理念的一个激进版本。任一动作都将恢复他关于心灵知识的各种主张之间的一致。
+    step2: |-
+      为调和他关于（心灵）不知道什么与确实知道什么的信念，康德本可至少做两个动作。其一：我们只是“先验地”知道这些东西——即通过推理到经验的必要条件；我们在“直接”的某种意义上不直接知道它们，因此没有关于它们的直观的、即源于感官的知识。其二：关于结构与构成的本体论中立，与关于功能的知识相容。如我们所见，康德的心灵构想是功能主义的——要理解心灵，必须研究它做什么、能做什么（其功能）；而“功能不决定形式”的学说处于当代功能主义的心脏。照功能主义，我们可以在对心灵如何被构建知之甚少或一无所知的情况下，获得关于心灵功能的知识。照这一进路，康德关于对心灵结构与构成一*无所知*的观点，就只是这一功能主义理念的激进版本。任一动作都将恢复他关于心灵知识的各种主张之间的一致。
   - id: 179
     kind: body
     source: |-
       ## 6. Where Kant Has and Has Not Influenced Contemporary Cognitive Research
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 康德在哪些方面影响、哪些方面未影响当代认知研究
+    step2: |-
+      ## 6 康德在哪些方面影响、哪些方面未影响当代认知研究
   - id: 180
     kind: body
     source: |-
       We will close by returning to the question of Kant’s relationship to contemporary cognitive research. As we saw, some of Kant’s most characteristic doctrines about the mind are now built into the very foundations of cognitive science. We laid out what they were. Interestingly, some of the others have played little or no role.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们将以回到康德与当代认知研究的关系问题来收尾。如我们所见，康德关于心灵的一些最具特色的学说如今被构建进认知科学的根基之中。我们已列出它们是什么。有趣的是，另一些学说几乎没有发挥作用。
+    step2: |-
+      我们以回到康德与当代认知研究的关系问题来收尾。如我们所见，康德关于心灵的一些最具特色的学说如今被构建进认知科学的根基之中（我们已列出它们是什么）；有趣的是，另一些几乎没有发挥作用。
   - id: 181
     kind: body
     source: |-
       Consider the two forms of Synthesis of Recognition in a Concept. In the form of binding, the phenomenon that he had in mind in the first kind of synthesis is now widely studied. Indeed, one model, Anne Treisman’s (1980) three-stage model, is very similar to all three stages of synthesis in Kant. According to Treisman and her colleagues, object recognition proceeds in three stages: first feature detection, then location of features on a map of locations, and then integration and identification of objects under concepts. This compares directly to Kant’s three-stage model of apprehension of features, association of features (reproduction), and recognition of integrated groups of under concepts (A98-A106). However, Kant’s second kind of recognition under concepts, the activity of tying multiple representations together into a global representation (A107–14), has received little attention.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑概念中认定的综合的两种形式。在结合（binding）的形式中，他在第一种综合中想到的现象如今被广泛研究。事实上，有一个模型——安妮·特雷斯曼（1980）的三阶段模型——与康德的全部三个综合阶段非常相似。照特雷斯曼及其同事的看法，对象识别分三个阶段进行：先是特征检测，然后把特征定位在位置图上，然后在概念下整合并识别对象。这直接对应于康德的三阶段模型：特征的领会、特征的联想（再生）、在概念下对整合群的认定（A98-A106）。然而，康德的第二种概念下的认定——把多个表象联结成一个全局表象的活动（A107–14）——几乎没有受到关注。
+    step2: |-
+      考虑概念中认定的综合的两种形式。在结合（binding）的形式中，他在第一种综合中想到的现象如今被广泛研究；事实上，安妮·特雷斯曼（1980）的三阶段模型与康德的全部三个综合阶段非常相似。照特雷斯曼及其同事的看法，对象识别分三阶段：特征检测，把特征定位在位置图上，然后在概念下整合并识别对象——这直接对应康德的三阶段模型：特征的领会、特征的联想（再生）、在概念下对整合群的认定（A98-A106）。然而康德的第二种概念下的认定——把多个表象联结成全局表象的活动（A107–14）——几乎没受关注。
   - id: 182
     kind: body
     source: |-
       The same was true until recently of the unity of consciousness and Kant’s work on it. However, this is changing. In the past twenty years, the unity of consciousness has come back onto the research agenda and there are now hundreds of papers and a number of books on the topic. However, claims such as Kant’s that a certain form of synthesis and certain links among the contents of experience are required for unity continue to be ignored in cognitive science, though a few philosophers have done some work on them (Brook 2004)[^brook-2004]. The same is true of Kant’s views on consciousness of self; cognitive science has paid no attention to non-ascriptive identification of self and the idea of the essential indexical. Here, too, a few philosophers have worked on these issues, apparently without knowing of Kant’s contribution (Brook & DeVidi, 2001), but not cognitive scientists.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      直到不久之前，意识的统一及康德关于它的研究也是如此。然而情况正在改变。在过去二十年里，意识的统一重新回到研究议程，如今已有数百篇论文与若干著作。不过，康德式的主张——某种形式的综合与经验内容之间的某些联结是统一所必需的——在认知科学中继续被忽视，尽管少数哲学家对它们做了一些工作（Brook 2004）[^brook-2004]。康德关于自我意识的观点亦然：认知科学没有注意自我认同的非归属认定与本质索引词的理念。这里同样，少数哲学家研究了这些问题，显然并不知道康德的贡献（Brook & DeVidi, 2001），但认知科学家没有。
+    step2: |-
+      直到不久前，意识的统一及康德关于它的研究也是如此；然而情况正在改变：过去二十年，意识的统一重回研究议程，如今已有数百篇论文与若干著作。不过康德式的主张——某种形式的综合与经验内容之间的某些联结是统一所必需——在认知科学中继续被忽视，尽管少数哲学家做了一些工作（Brook 2004）[^brook-2004]。康德关于自我意识的观点亦然：认知科学没有注意自我认同的非归属认定与本质索引词的理念。这里同样，少数哲学家研究了这些问题（显然并不知道康德的贡献，Brook & DeVidi, 2001），但认知科学家没有。
   - id: 183
     kind: body
     source: |-
       In short, the dominant model of the mind in contemporary cognitive science is Kantian, but some of his most distinctive contributions have not been taken into it (Brook, 2004).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      简言之，当代认知科学中的主导心灵模型是康德主义的，但他的一些最具特色的贡献没有被纳入其中（Brook, 2004）。
+    step2: |-
+      简言之，当代认知科学的主导心灵模型是康德主义的，但他的一些最具特色的贡献没有被纳入其中（Brook, 2004）。
   - id: 184
     kind: oir
     source: |-
       *Kant on the Web* and the *NAKS* site listed below contain links to many other sites.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *网络上的康德*与下文列出的*北美康德学会*网站包含指向许多其他站点的链接。
+    step2: |-
+      *网络上的康德*与下文列出的*北美康德学会*网站包含指向许多其他站点的链接。
   - id: 185
     kind: oir
     source: |-
       - [Kant on the Web](http://www.hkbu.edu.hk/~ppp/Kant.html), maintained by Steve Palmquist, Hong Kong Baptist University. Contains a bibliography of translations of Kant up to 2011 and much else.
       - [North American Kant Society (NAKS)](http://www.sandiego.edu/naks/).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [网络上的康德](http://www.hkbu.edu.hk/~ppp/Kant.html)，Steve Palmquist 维护，香港浸会大学。包含截至 2011 年的康德译本目录及许多其他内容。
+      - [北美康德学会（NAKS）](http://www.sandiego.edu/naks/)。
+    step2: |-
+      - [网络上的康德](http://www.hkbu.edu.hk/~ppp/Kant.html)，Steve Palmquist 维护，香港浸会大学。包含截至 2011 年的康德译本目录及许多其他内容。
+      - [北美康德学会（NAKS）](http://www.sandiego.edu/naks/)。
   - id: 186
     kind: ack
     source: |-
       Thanks to Paul Guyer, Paul Raymont, Rick DeVidi, Julian Wuerth, Kirsta Anderson, and an anonymous referee for the *Stanford Encyclopedia of Philosophy* for very helpful comments.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      感谢保罗·盖耶、保罗·雷蒙特、里克·德维迪、朱利安·维尔特、基尔丝塔·安德森以及《斯坦福哲学百科全书》的一位匿名审稿人提出非常有益的意见。
+    step2: |-
+      感谢保罗·盖耶、保罗·雷蒙特、里克·德维迪、朱利安·维尔特、基尔丝塔·安德森以及《斯坦福哲学百科全书》的一位匿名审稿人提出非常有益的意见。
   - id: 187
     kind: note
     source: |-
       [^note-1]: All further references to Kant will be to this work unless otherwise noted. ‘A’ refers to passages in the first edition, ‘B’ to passages in the second. ‘=’ means that the passage occurs in both editions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 除非另有说明，下文对康德的引用均指这部著作。‘A’指第一版的段落，‘B’指第二版。‘=’表示该段落同时出现于两版。
+    step2: |-
+      [^note-1]: 除非另有说明，下文对康德的引用均指这部著作。‘A’指第一版的段落，‘B’指第二版。‘=’表示该段落同时出现于两版。
   - id: 188
     kind: note
     source: |-
       [^note-2]: Section 3 largely repeats things said in Section 2, indeed twice, once beginning at A115, and a second time beginning just before A120, so we will focus on Section 2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 第 3 节在很大程度上重复第 2 节所说的话——事实上重复两次，一次始于 A115，第二次始于 A120 之前——因此我们将聚焦于第 2 节。
+    step2: |-
+      [^note-2]: 第 3 节在很大程度上重复第 2 节所说的话——事实上重复两次，一次始于 A115，第二次始于 A120 之前——因此我们将聚焦于第 2 节。
   - id: 189
     kind: note
     source: |-
       [^note-3]: In this context, the term ‘aesthetic’ sounds strange to our ears. Kant is using it in a now-archaic sense in which it contrasts with ‘anaesthetic’.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 在这一语境中，“感性论”一词在我们听来很奇怪。康德是在一个如今已过时的意义上使用它：与“麻醉”相对。
+    step2: |-
+      [^note-3]: 在这一语境中，“感性论”一词在我们听来很奇怪。康德在一个如今已过时的意义上使用它：与“麻醉”相对。
   - id: 190
     kind: note
     source: |-
       [^note-4]: On the relationship of *a prioricity* and necessity in Kant's thought and the question of whether and if so where and how he argued for the necessity of the propositions of mathematics and physics, see Brook, 1993.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 关于康德思想中先天性与必然性的关系，以及他是否、若然在哪里并如何为数学与物理学命题的必然性辩护的问题，见 Brook 1993。
+    step2: |-
+      [^note-4]: 关于康德思想中先天性与必然性的关系，以及他是否、若然在哪里并如何为数学与物理学命题的必然性辩护的问题，见 Brook 1993。
   - id: 191
     kind: note
     source: |-
       [^note-5]: This argument is a fine example of a transcendental argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 这个论证是先验论证的一个佳例。
+    step2: |-
+      [^note-5]: 这个论证是先验论证的一个佳例。
   - id: 192
     kind: note
     source: |-
       [^note-6]: There has been an enormous debate about what the argumentative structure of the transcendental deduction is. Henrich and Guyer both claim that Kant had two (or more) starting points for this deduction, for example. Many aspects of the debate are orthogonal to the issue of Kant’s model of the mind. We have discussed only the aspects relevant to this issue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 关于先验演绎的论证结构是什么，一直存在巨大的争论。例如亨利希与盖耶都主张康德为这一演绎设定了两个（或更多）起点。争论的许多方面与康德心灵模型的问题无关；我们只讨论与这一问题相关的方面。
+    step2: |-
+      [^note-6]: 关于先验演绎的论证结构是什么，一直存在巨大争论：例如亨利希与盖耶都主张康德为这一演绎设定了两个（或更多）起点。争论的许多方面与康德心灵模型的问题无关；我们只讨论相关的方面。
   - id: 193
     kind: note
     source: |-
       [^note-7]: This unifying move may seem fairly unexciting but in fact it has some far-reaching implications. If right, we have no need of a higher-order thought in order to be conscious of our own psychological states, for example (Rosenthal 1991). (For a fuller discussion of this topic, see Brook and Raymont forthcoming, Ch. 5 and 6.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 这一统一化的举动可能显得相当平淡，但实际上它有一些深远的影响。例如如果正确，我们不需要高阶思想就能意识到我们自己的心理状态（Rosenthal 1991）。（关于这一主题的更完整讨论，见 Brook and Raymont forthcoming, Ch. 5 and 6。）
+    step2: |-
+      [^note-7]: 这一统一化的举动可能显得平淡，但实际有深远的影响。例如若正确，我们不需要高阶思想就能意识到自己的心理状态（Rosenthal 1991）（更完整的讨论见 Brook and Raymont forthcoming, Ch. 5 and 6）。
   - id: 194
     kind: note
     source: |-
       [^note-8]: (2) is often taken to be closely related to another putative peculiarity of consciousness of self, what Shoemaker calls immunity to error through misidentification with respect to the first person (Shoemaker 1970, who claims to have found the core of the idea in Wittgenstein 1933-4, pp.66-70)[^shoemaker-1970]. We will not explore this issue here (see Brook 2001)[^brook-2001][^brook-2001-2][^brook-2001-3].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: （2）常被认为与自我意识的另一个疑似特密切有关：舒梅克所谓就第一人称而言免于错误认同的免疫（Shoemaker 1970——他声称在维特斯坦 1933–4, pp.66–70 中找到了这一理念的核心）。我们在此不探讨这一问题（见 Brook 2001）[^brook-2001][^brook-2001-2][^brook-2001-3]。
+    step2: |-
+      [^note-8]: （2）常被认为与自我意识的另一个疑似特密切有关：舒梅克所谓就第一人称而言免于错误认同的免疫（Shoemaker 1970[^shoemaker-1970]——他声称在维特根斯坦 1933–4, pp.66–70 中找到了这一理念的核心）。我们在此不探讨这一问题（见 Brook 2001）[^brook-2001][^brook-2001-2][^brook-2001-3]。
   - id: 195
     kind: note
     source: |-
       [^note-9]: One can compare what Kant says about reference to self to his doctrine that existence is not a predicate (A598=B626). In the same way that to be conscious of something's existence is not to be conscious of any quality of it, being conscious of oneself as oneself could be something over and above being conscious of qualities of oneself. In his criticism of Leibniz's Amphiboly, Kant says much the same thing about space and time — to be conscious of space and time is to be conscious of something over and above the qualities of space and time (A276=B332; see A281=B337).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 可以把康德关于对自我的指称所说的话，与其“存在不是谓词”的学说（A598=B626）相比较。正如意识到某物的存在并不是意识到它的任何性质，意识到自己是自己也可以是超出意识到自身性质之外的某事。在他对莱布尼茨歧义的批评中，康德就空间与时间说了几乎同样的话——意识到空间与时间，就是意识到超出空间与时间的性质之外的某事（A276=B332；参 A281=B337）。
+    step2: |-
+      [^note-9]: 可以把康德关于对自我的指称所说的话，与其“存在不是谓词”的学说（A598=B626）相比较：正如意识到某物的存在并不是意识到它的任何性质，意识到自己是自己也可以是超出意识到自身性质之外的某事。在他对莱布尼茨歧义的批评中，康德就空间与时间说了几乎同样的话——意识到空间与时间，就是意识到超出空间与时间的性质之外的某事（A276=B332；参 A281=B337）。
