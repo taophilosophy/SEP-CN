@@ -248,6 +248,33 @@
 | Ralph Strode | 拉尔夫·斯特罗德 | lorenzo-valla | 学界通行汉译（14 世纪牛津逻辑学家） | 2026-11-04 |
 | Paul of Venice | 威尼斯的保罗 | lorenzo-valla | 学界通行汉译（《小逻辑》作者；SUMMARY 既有条目名沿用） | 2026-11-04 |
 | Gratian | 格拉提安 | lorenzo-valla | 教会法学界通行汉译（《教令集》作者） | 2026-11-04 |
+| Edith Landmann-Kalischer | 伊迪丝·兰德曼-卡利舍尔 | landmann-kalischer | SUMMARY 定名沿用（20 世纪女哲学家，美学/价值论） | 2026-11-04 |
+| Georg Simmel | 格奥尔格·齐美尔 | landmann-kalischer | 学界通行汉译（社会学家、生命哲学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Carl Stumpf | 卡尔·施通普夫 | landmann-kalischer | 学界通行汉译（现象学心理学先驱）；待 specs/008 审定库复核 | 2026-11-04 |
+| Stefan George | 斯特凡·格奥尔格 | landmann-kalischer | 学界通行汉译（德国诗人，格奥尔格圈核心）；待 specs/008 审定库复核 | 2026-11-04 |
+| Ernst Meumann | 恩斯特·迈曼 | landmann-kalischer | 学界通行汉译（实验教育学/美学学者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Hugo Münsterberg | 雨果·明斯特伯格 | landmann-kalischer | 学界通行汉译（新康德主义心理学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Alexius Meinong | 阿历克修斯·迈农 | landmann-kalischer | 学界通行汉译（对象理论、价值论）；待 specs/008 审定库复核 | 2026-11-04 |
+| Wilhelm Windelband | 威廉·文德尔班 | landmann-kalischer | 学界通行汉译（新康德主义西南学派创始者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Heinrich Rickert | 海因里希·李凯尔特 | landmann-kalischer | 学界通行汉译（新康德主义西南学派）；待 specs/008 审定库复核 | 2026-11-04 |
+| Max Dessoir | 马克斯·德索 | landmann-kalischer | 美学界通行汉译（《美学与一般艺术学》作者，商务译本作"德索"）；待 specs/008 审定库复核 | 2026-11-04 |
+| Julius Landmann | 尤利乌斯·兰德曼 | landmann-kalischer | 学界通行汉译（瑞士经济学家，兰德曼-卡利舍尔之夫）；待 specs/008 审定库复核 | 2026-11-04 |
+| Erich Przywara | 埃里希·普日瓦拉 | landmann-kalischer | 汉语神学界通行音译（耶稣会士哲学家） | 2026-11-04 |
+| Edgar Salin | 埃德加·萨林 | landmann-kalischer | 学界通行汉译（经济学家，格奥尔格圈成员）；待 specs/008 审定库复核 | 2026-11-04 |
+| Gertrud Kantorowicz | 格特鲁德·康托洛维茨 | landmann-kalischer | 学界通行汉译（艺术史家、格奥尔格圈成员）；待 specs/008 审定库复核 | 2026-11-04 |
+| Renata von Scheliha | 雷娜特·冯·谢利哈 | landmann-kalischer | 通行音译（语文学家、格奥尔格圈成员） | 2026-11-04 |
+| Carl Spitteler | 卡尔·施皮特勒 | landmann-kalischer | 学界通行汉译（瑞士诗人，1919 诺贝尔文学奖）；待 specs/008 审定库复核 | 2026-11-04 |
+| Maurice Merleau-Ponty | 莫里斯·梅洛-庞蒂 | landmann-kalischer | 学界通行汉译（现象学家）；待 specs/008 审定库复核 | 2026-11-04 |
+| Johann Wolfgang von Goethe | 歌德 | landmann-kalischer | 千年通行译名（德国古典时代文学宗师；本表从简式通称） | 2026-11-04 |
+| Arthur Schopenhauer | 阿图尔·叔本华 | landmann-kalischer | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-04 |
+| Friedrich Wilhelm Joseph Schelling | 弗里德里希·谢林 | landmann-kalischer | 学界通行汉译（德国观念论者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Plotinus | 普罗提诺 | landmann-kalischer | 学界通行汉译（新柏拉图主义创立者）；待 specs/008 审定库复核 | 2026-11-04 |
+| Hesiod | 赫西俄德 | landmann-kalischer | 古典学界通行汉译（古希腊诗人） | 2026-11-04 |
+| Plutarch | 普鲁塔克 | landmann-kalischer | 千年通行译名（希腊化传记作家） | 2026-11-04 |
+| Augustine | 奥古斯丁 | landmann-kalischer | 千年通行译名（教父哲学家；希波的奥古斯丁） | 2026-11-04 |
+| Rembrandt | 伦勃朗 | landmann-kalischer | 千年通行译名（荷兰画家） | 2026-11-04 |
+| Paul Cézanne | 保罗·塞尚 | landmann-kalischer | 千年通行译名（法国后印象派画家） | 2026-11-04 |
+| Shakespeare | 莎士比亚 | landmann-kalischer | 千年通行译名（英国戏剧家） | 2026-11-04 |
 | Louis Althusser | 路易·阿尔都塞 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Marcus Aurelius | 马可·奥勒留 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Margaret Fuller | 玛格丽特·富勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -576,6 +603,28 @@
 | Schein, Edgar | 埃德加·沙因 | economic-democracy | 学界通行汉译（组织文化理论家） | 2026-11-04 |
 | Frega, Roberto | 罗伯托·弗雷加 | economic-democracy | 学界惯例（杜威研究/职场民主，通行音译） | 2026-11-04 |
 
+| Châtelet, Émilie du | 夏特莱侯爵夫人（Émilie Du Châtelet，1706–1749） | emilie-du-chatelet | 学界惯例（SUMMARY 定名沿用；科学史界通行"夏特莱侯爵夫人/沙特莱侯爵夫人"） | 2026-11-04 |
+| Voltaire | 伏尔泰 | emilie-du-chatelet | 学界千年通行译名 | 2026-11-04 |
+| Newton, Isaac | 艾萨克·牛顿 | emilie-du-chatelet | 学界千年通行译名 | 2026-11-04 |
+| Leibniz, Gottfried Wilhelm | 戈特弗里德·威廉·莱布尼茨 | emilie-du-chatelet | 学界千年通行译名（SUMMARY 定名沿用） | 2026-11-04 |
+| Wolff, Christian | 克里斯蒂安·沃尔夫 | emilie-du-chatelet | 学界通行汉译（德国理性主义） | 2026-11-04 |
+| Locke, John | 约翰·洛克 | emilie-du-chatelet | 学界千年通行译名 | 2026-11-04 |
+| Euler, Leonhard | 莱昂哈德·欧拉 | emilie-du-chatelet | 学界通行汉译 | 2026-11-04 |
+| Huygens, Christiaan | 惠更斯 | emilie-du-chatelet | 学界通行汉译 | 2026-11-04 |
+| Mandeville, Bernard | 曼德维尔 | emilie-du-chatelet | 学界通行汉译（《蜜蜂的寓言》作者） | 2026-11-04 |
+| Maupertuis, Pierre Louis de | 皮埃尔·路易·德·莫佩尔蒂 | emilie-du-chatelet | 学界通行汉译（最小作用量原理提出者） | 2026-11-04 |
+| Mairan, Jean-Jacques Dortous de | 让-雅克·多尔图·德·梅朗 | emilie-du-chatelet | 学界通行汉译（活力之争论者） | 2026-11-04 |
+| Clairaut, Alexis-Claude | 亚历克西-克洛德·克莱罗 | emilie-du-chatelet | 学界通行汉译（数学家/天文学家） | 2026-11-04 |
+| Koenig, Samuel | 塞缪尔·柯尼希 | emilie-du-chatelet | 学界惯例（沃尔夫派数学家，通行音译） | 2026-11-04 |
+| Pitot, Henri | 亨利·皮托 | emilie-du-chatelet | 学界惯例（审查官/工程师，皮托管命名者） | 2026-11-04 |
+| Saint-Lambert, Jean-François de | 让-弗朗索瓦·德·圣朗贝尔 | emilie-du-chatelet | 学界惯例（启蒙文人，通行音译） | 2026-11-04 |
+| Freind, John | 约翰·弗赖因德 | emilie-du-chatelet | 学界惯例（牛顿派化学家/医师，通行音译） | 2026-11-04 |
+| Keill, John | 约翰·凯尔 | emilie-du-chatelet | 学界惯例（牛顿派数学家，通行音译） | 2026-11-04 |
+| Clarke, Samuel | 塞缪尔·克拉克 | emilie-du-chatelet | 学界通行汉译（牛顿派神学家） | 2026-11-04 |
+| Boyle, Robert | 罗伯特·波义耳 | emilie-du-chatelet | 学界通行汉译 | 2026-11-04 |
+| Ptolemy | 托勒密 | emilie-du-chatelet | 学界千年通行译名 | 2026-11-04 |
+| Breteuil, Louis Nicholas le Tonnelier de | 路易·尼古拉·勒·托内利耶·德·布勒特伊男爵 | emilie-du-chatelet | 学界惯例（夏特莱之父，法语文人贵族名直译） | 2026-11-04 |
+
 ## 登记格式说明
 
 ```
@@ -609,8 +658,14 @@
 | Aizawa Seishisai | 会泽正志斋 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Matsudaira Yoshitatsu | 松平义悌 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Ban Kōkei | 伴蒿蹊 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Matthew S. Bedke | 马修·S. 贝德克 | intuitionism-ethics | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
+| Jacques Morizot | 雅克·莫里佐 | aesthetics-18th-french | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
+| Jennifer Tsien | 詹妮弗·齐恩 | aesthetics-18th-french | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
+| James Shelley | 詹姆斯·雪莱 | aesthetics-18th-british | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
 | Yanagida Kunio | 柳田国男 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Orikuchi Shinobu | 折口信夫 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Sten Ebbesen | 斯滕·埃布森 | boethius-dacia | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
+| Yuriko Saito | 斋藤百合子 | aesthetics-of-everyday | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。

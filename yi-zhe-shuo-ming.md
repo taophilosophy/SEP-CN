@@ -943,3 +943,19 @@
 | delectatio | 愉悦 | lorenzo-valla | 瓦拉研究通行（其道德哲学术语链 voluptas/beatitudo/fruitio/delectatio/amor） | 2026-11-04 |
 | prime matter | 第一质料 | lorenzo-valla | 亚里士多德学界通行 | 2026-11-04 |
 | insolubilia | 不可解问题 | lorenzo-valla | 中世纪逻辑史通行（亦作“不可解命题”备查） | 2026-11-04 |
+| feeling | 感情 | landmann-kalischer | 本词条定案（兰德曼-卡利舍尔：与 emotion 情感相区分；感情可为“纯粹的”“无利害的”，为价值之根基） | 2026-11-04 |
+| disinterestedness | 无利害性 | landmann-kalischer | 康德美学通行（亦作“无兴趣”备查） | 2026-11-04 |
+| phantasy | 幻想 | landmann-kalischer | 现象学 Phantasie 通行（与 imagination 想象相区分语境） | 2026-11-04 |
+| Urphänomen | 原初现象 | landmann-kalischer | 歌德-胡塞尔传统通行 | 2026-11-04 |
+| dispositionalist | 倾向论的 | landmann-kalischer | 价值理论通行（disposition=倾向；亦作“禀性论”备查） | 2026-11-04 |
+| Täuschung | 错觉 | landmann-kalischer | 心理学通行（含“迷惑”义；optical illusion=视错觉） | 2026-11-04 |
+| Einfühlung | 移情 | landmann-kalischer | 利普斯-兰德曼-卡利舍尔审美传统通行 | 2026-11-04 |
+| kalokagathos | 美善合一 | landmann-kalischer | 希腊 καλοκἀγαθός 学界通行（亦作“美且善者”备查） | 2026-11-04 |
+| beautiful soul | 美的灵魂 | landmann-kalischer | 席勒 schöne Seele 通行 | 2026-11-04 |
+| George-Kreis | 格奥尔格圈 | landmann-kalischer | 德语文学研究通行（亦作“格奥尔格派”备查） | 2026-11-04 |
+| transcendence of knowing | 认识的超越 | landmann-kalischer | 本词条定案（兰德曼-卡利舍尔书名 Die Transcendenz des Erkennens） | 2026-11-04 |
+| value judgment | 价值判断 | landmann-kalischer | 价值论/逻辑学通行 | 2026-11-04 |
+| aesthetic intuition | 审美直观 | landmann-kalischer | 美学通行 | 2026-11-04 |
+| aesthetic state of mind | 审美心境 | landmann-kalischer | 本词条定案（Zustand=状态；席勒审美状态语境） | 2026-11-04 |
+| innerworldly | 世内的 | landmann-kalischer | 海德格尔 innerweltlich 通行 | 2026-11-04 |
+| Gehalt | 内涵 | landmann-kalischer | 艺术理论通行（作品内容义；与 form 形式相对） | 2026-11-04 |

@@ -43,7 +43,7 @@ zh 侧译文按**同样的章节序**逐节对位翻译（便于逐节核销）�
 | 12 | 数学 `\(\)`/`\[\]`/环境 | 定界符转 `$…$` / `$$…$$`，LaTeX 内容**逐字符保留**（宪法 VI；含 prooftree、align、xymatrix）；`<sub>/<sup>` 转 `_{x}` / `^{x}` | （与 yuanwen 镜像逐字符一致，便于对照） |
 | 13 | 原文脚注 `<sup>[n]</sup>` → notes.html | `[^note-N]` 引用；文末 `## 脚注` 节列出 `[^note-N]: 译文`——**键名与 yuanwen 逐字符一致**（note-N；补充材料专用键 note-\<x\>-N 同理） | 见 §4 脚注骨架 |
 | 14 | Acknowledgments | `## 致谢`，整段译出 | （39% 词条适用） |
-| 15 | Academic Tools | `## 学术工具`——固定三行，链接原样：如何引用本词条（archinfo）/ InPhO / PhilPapers | alcmaeon 206–210 行 |
+| 15 | Academic Tools | `## 学术工具`——固定四行，链接原样：如何引用本词条（archinfo）/ 预览本词条的 PDF 版本（SEP 学会之友）/ InPhO / PhilPapers；bullet 形态（v1.3 裁定，在先成例 36+）；存量表格形态四项齐备者合规不再改形 | alcmaeon 206–210 行 |
 | 16 | Other Internet Resources | `## 其他网络资源`——条目译出（条目名+说明），URL 原样；无条目时写 `[欢迎向作者提出建议。]` | alcmaeon 212–214 行 |
 | 17 | References / Bibliography | `## 参考文献` + 斜体说明行 `*以下文献从原文照录，不作翻译。*`；子标题（Texts and Commentaries 等）保留英文；条目逐字符照录——**中国文献条目（古今）一律译为中文**（ADR-0011） | alcmaeon 115–204 行 |
 | 18 | Related Entries | `## 相关词条`——SEP slug 对应的 SUMMARY 中文名，` | ` 分隔一行排布；站内链接由管线在对应词条重译完成后统一挂接（先以译注占位） | alcmaeon 216–220 行 |
@@ -99,6 +99,7 @@ $$<展示公式，LaTeX 逐字符保留>$$
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=<slug>)。
+* [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/<slug>/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=<slug>&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/<slug>/) 查看本词条的增强文献目录及其数据库链接。
 
@@ -239,3 +240,4 @@ segments:
 | v1.0 | 2026-10-28 | 首版：结构总览（1878 条实测）+ 22 项元素映射 + 骨架 + 门禁对照；zh 图片路径等五项裁定待首跑确认 |
 | v1.1 | 2026-10-28 | 四要素演示件 spacetime-holearg 实跑：zh 图片路径裁定获首跑确认；跨文件脚注（补充材料引用主文 notes）定例——主文保留定义，门禁 orphan-def 跨文件豁免（tools/check_academic.py） |
 | v1.2 | 2026-10-31 | 增 §6 LLM 辅助初译操作规程（ADR-0021）：段落账本、反思两步强制（用户裁定）、守恒校验、术语与上下文注入；原 §6 演示与修订顺移为 §7 |
+| v1.3 | 2026-11-04 | 学术工具三行改四行（用户裁定「不计成本解决待裁定事项」）：补「预览本词条的 PDF 版本」行——rules/07 完整性原则优先于 v1.0 三行省略；bullet 形态对齐 36 在先成例措辞；70 存量词条批量补齐（script/rz_acat_pdf.py 幂等插入器，URL 逐条 slug 校验），lq.py compose 同步改四行；表格形态存量（31+4）四项齐备合规不改形，形态归一另行立案 |
