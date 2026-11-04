@@ -1,1 +1,1 @@
-# 权衡理由 Weighing Reasons (Tucker, Chris)
+# 权衡理由 Weighing Reasons (Chris Tucker)

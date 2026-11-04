@@ -1,1 +1,1 @@
-# 手语语义学 Sign Language Semantics (Schlenker, Philippe, Lamberton, Jonathan, Kuhn, Jeremy)
+# \*手语语义学——见手语语义学 of sign language — see sign language semantics

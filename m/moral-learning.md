@@ -1,1 +1,1 @@
-# 道德学习 Moral Learning (Kushnir, Tamar, Nichols, Shaun)
+# \*道德学习——见道德学习 learning, moral — see moral learning

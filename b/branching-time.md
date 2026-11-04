@@ -1,1 +1,1 @@
-# 分支时间 Branching Time (Spolaore, Giuseppe, Zanardo, Alberto)
+# 分支时间 Branching Time (Giuseppe Spolaore and Alberto Zanardo)

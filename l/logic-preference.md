@@ -1,1 +1,1 @@
-# 偏好逻辑 Preference Logic (Liu, Fenrong, van der Torre, Leon)
+# 偏好逻辑 Preference Logic (Fenrong Liu and Leon van der Torre)

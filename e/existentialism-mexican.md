@@ -1,1 +1,1 @@
-# 墨西哥存在主义 Mexican Existentialism (Sánchez, Carlos)
+# 墨西哥存在主义 Mexican Existentialism (Carlos S&aacute;nchez)

@@ -1,1 +1,1 @@
-# 资本主义 Capitalism (Cordelli, Chiara)
+# 资本主义 Capitalism (Chiara Cordelli)

@@ -1,1 +1,1 @@
-# 实验法理学 Experimental Jurisprudence (Tobia, Kevin, Almeida, Guilherme, Prochownik, Karolina, Hannikainen, Ivar)
+# \*实验法理学——见实验法理学 experimental jurisprudence — see jurisprudence, experimental

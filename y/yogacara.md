@@ -1,1 +1,1 @@
-# 瑜伽行派 Yogācāra (Szanyi, Szilvia)
+# 瑜伽行派 Yogācāra (Szilvia Szanyi)

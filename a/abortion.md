@@ -1,4 +1,4 @@
-# 堕胎的伦理学 The Ethics of Abortion (Harman, Elizabeth)
+# 堕胎的伦理学 The Ethics of Abortion (Elizabeth Harman)
 
 **首次发表于 2025 年 5 月 14 日。**
 

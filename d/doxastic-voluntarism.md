@@ -1,1 +1,1 @@
-# 信念自愿论 Doxastic Voluntarism (Boespflug, Mark, Jackson, Elizabeth)
+# 信念自愿论 Doxastic Voluntarism (Mark Boespflug and Elizabeth Jackson)

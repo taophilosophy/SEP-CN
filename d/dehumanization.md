@@ -1,1 +1,1 @@
-# 非人化 Dehumanization (Phillips, Ben)
+# 非人化 Dehumanization (Ben Phillips)

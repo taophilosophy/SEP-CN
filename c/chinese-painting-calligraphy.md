@@ -1,1 +1,1 @@
-# 中国哲学中的美学：绘画与书法 Aesthetics in Chinese Philosophy: Painting and Calligraphy (Escande, Yolaine)
+# \*中国哲学中的美学：绘画与书法——见中国哲学中的美学：绘画与书法 Chinese Philosophy, painting and calligraphy — see Chinese Philosophy: aesthetics, painting and calligraphy

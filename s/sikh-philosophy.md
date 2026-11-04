@@ -1,1 +1,1 @@
-# 锡克哲学 Sikh Philosophy (Mandair, Arvind-Pal S.)
+# 锡克哲学 Sikh Philosophy (Arvind-Pal S. Mandair)

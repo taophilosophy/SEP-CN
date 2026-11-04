@@ -1,4 +1,4 @@
-# 巴黎的阿尔贝里克 Alberic of Paris (Hansen, Heine, Schuman, Boaz Faraday)
+# 巴黎的阿尔贝里克 Alberic of Paris (Heine Hansen and Boaz Faraday Schuman)
 
 **首次发表于 2025 年 10 月 28 日。**
 

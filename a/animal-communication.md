@@ -1,1 +1,1 @@
-# 动物交流 Animal Communication (Moore, Richard, Palazzolo, Giulia)
+# 动物交流 Animal Communication (Richard Moore and Giulia Palazzolo)

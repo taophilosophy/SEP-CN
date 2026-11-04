@@ -1,1 +1,1 @@
-# 模式生物 Model Organisms (Dietrich, Michael, Nemati, Nedah)
+# 模式生物 Model Organisms (Michael Dietrich and Nedah Nemati)

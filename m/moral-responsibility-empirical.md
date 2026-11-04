@@ -1,1 +1,1 @@
-# 道德责任的实证进路 Empirical Approaches to Moral Responsibility (Sripada, Chandra)
+# \*道德责任——见道德责任的实证进路 moral responsibility — see moral responsibility: empirical approaches

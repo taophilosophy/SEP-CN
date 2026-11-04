@@ -1,1 +1,1 @@
-# 算法公平 Algorithmic Fairness (Hellman, Deborah)
+# \*算法公平——见算法公平 algorithmic fairness — see fairness: algorithmic

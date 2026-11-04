@@ -1,4 +1,4 @@
-# 阿夫扎勒丁·胡纳吉 Afḍal al-Dīn al-Khūnajī (Zolghadr, Behnam)
+# 阿夫扎勒丁·胡纳吉 Afḍal al-Dīn al-Khūnajī (Behnam Zolghadr)
 
 **首次发表于 2026 年 9 月 10 日。**
 

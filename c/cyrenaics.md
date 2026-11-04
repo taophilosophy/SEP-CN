@@ -1,1 +1,1 @@
-# 昔勒尼学派 The Cyrenaics (Tsouna, Voula)
+# \*阿里斯提普斯——见昔勒尼学派 Aristippus — see Cyrenaics

@@ -1,4 +1,4 @@
-# 批判理论中的美学 Aesthetics in Critical Theory (Hulatt, Owen)
+# 批判理论中的美学 Aesthetics in Critical Theory (Owen Hulatt)
 
 **首次发表于 2025 年 3 月 25 日。**
 

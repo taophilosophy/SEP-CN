@@ -1,4 +1,4 @@
-# 美学与种族 Aesthetics and Race (Roelofs, Monique)
+# 美学与种族 Aesthetics and Race (Monique Roelofs)
 
 ** 首次发表于 2026 年 9 月 22 日。**
 

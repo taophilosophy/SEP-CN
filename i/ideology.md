@@ -1,4 +1,4 @@
-# 意识形态 Ideology (Roberts, William Clare)
+# 意识形态 Ideology (William Clare Roberts)
 
 *首次发表于 2025 年 3 月 7 日。*
 

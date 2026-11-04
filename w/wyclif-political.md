@@ -1,1 +1,1 @@
-# 约翰·威克里夫的政治哲学 John Wyclif’s Political Philosophy (Lahey, Stephen)
+# 约翰·威克里夫的政治哲学 John Wyclif’s Political Philosophy (Stephen Lahey)

@@ -1,1 +1,1 @@
-# 艾因·古达特 ʿAyn al-Qudat (Faruque, Muhammad U., Rustom, Mohammed)
+# 艾因·古达特 ʿ Ayn al-Qudat (Muhammad U. Faruque and Mohammed Rustom)
