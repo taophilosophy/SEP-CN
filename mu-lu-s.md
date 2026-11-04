@@ -2086,7 +2086,7 @@ outline: [1, 6]
 * [18 世纪的法国美学 18th Century French Aesthetics (Jennifer Tsien and Jacques Morizot)](a/aesthetics-18th-french.md)
 * [18 世纪的英国美学 18th Century British Aesthetics](a/aesthetics-18th-british.md)
 * [19 世纪浪漫主义美学 19th Century Romantic Aesthetics](a/aesthetics-19th-romantic.md)
-* [存在主义美学 existentialist (Jean-Philippe Deranty)](a/aesthetics-existentialist.md)
+* [存在主义美学 existentialist aesthetics (Jean-Philippe Deranty)](a/aesthetics-existentialist.md)
 * [批判理论中的美学 Aesthetics in Critical Theory (Owen Hulatt)](a/aesthetics-critical-theory.md)
 
 ### 美学史

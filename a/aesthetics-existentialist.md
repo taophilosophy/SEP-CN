@@ -1,6 +1,6 @@
-# 存在主义美学 existentialist (Jean-Philippe Deranty)
+# 存在主义美学 existentialist aesthetics (Jean-Philippe Deranty)
 
- **首次发表于 2009 年 6 月 26 日；2025 年 2 月 27 日实质修订。** 
+**首次发表于 2009 年 6 月 26 日；2025 年 2 月 27 日实质修订。**
 
 许多通常被描述为“存在主义者”的哲学家，都对美学思想作出了原创性的、决定性的贡献。在大多数情况下，对艺术实践（作为小说家、剧作家或音乐家）的深度参与滋养了他们对审美经验的思考。这一点对启发 20 世纪存在主义的两位主要哲学家——索伦·克尔凯郭尔（Søren Kierkegaard）和弗里德里希·尼采（Friedrich Nietzsche）——来说已经成立。然而，出于篇幅考虑，本词条仅限于那些在某一时刻接受“存在主义者”这一标签以准确刻画其思想、并对美学作出最重大贡献的 20 世纪思想家：阿尔贝·加缪（Albert Camus）、西蒙娜·德·波伏瓦（Simone de Beauvoir）、加布里埃尔·马塞尔（Gabriel Marcel）、莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）和让-保罗·萨特（Jean-Paul Sartre）。
 
