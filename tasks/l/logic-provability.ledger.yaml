@@ -311,236 +311,346 @@ segments:
     kind: body
     source: |-
       ### 3.2 Modal completeness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 模态完全性
+    step2: |-
+      ### 3.2 模态完全性
   - id: 37
     kind: body
     source: |-
       Unaware of the arithmetical significance of GL, K. Segerberg proved in 1971 that GL is indeed complete with respect to transitive conversely well-founded frames; D. de Jongh and S. Kripke independently proved this result as well. Segerberg showed that GL is complete even with respect to the more restricted class of finite transitive irreflexive trees, a fact which later turned out to be very useful for Solovay’s proof of the arithmetical completeness theorem (see Section 4).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      GL 的算术意义尚无人知晓时，K. Segerberg 就于 1971 年证明 GL 相对于传递逆良基框架确实完全；D. de Jongh 与 S. Kripke 也独立证明了这一结果。Segerberg 甚至证明 GL 相对于更受限的类——有穷传递非自反树——也完全；这一事实后来证明对 Solovay 的算术完全性定理之证明非常有用（见第 4 节）。
+    step2: |-
+      GL 的算术意义尚无人知晓时，K. Segerberg 就于 1971 年证明 GL 相对于传递逆良基框架确实完全；D. de Jongh 与 S. Kripke 也独立证明了这一结果。Segerberg 甚至证明 GL 相对于更受限的类——有穷传递非自反树——也完全；这一事实后来证明对 Solovay 的算术完全性定理之证明非常有用（见第 4 节）。
   - id: 38
     kind: body
     source: |-
       The modal soundness and completeness theorems immediately give rise to a decision procedure to check for any modal formula $A$ whether $A$ follows from GL or not, by depth-first search through irreflexive transitive trees of bounded depth. Looking at the procedure a bit more precisely, it can be shown that GL is decidable in the computational complexity class PSPACE, like the well-known modal logics K, T and S4. This means that there is a Turing machine that, given a formula $A$ as input, answers whether $A$ follows from GL or not; the size of the memory that the Turing machine needs for its computation is only polynomial in the length of $A$. One can show that the decision problem for GL (again, like the decision problems for K, T and S4) is PSPACE-*complete*, in the sense that all other problems in PSPACE are no harder than deciding whether a given formula is a theorem of GL. (See Goré and Kelly 2007 [Other Internet Resources] for the description of an automated theorem prover for GL.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，可检查任意模态公式 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 PSPACE-*完全的*：PSPACE 中所有其他问题都不难于判定给定公式是否为 GL 的定理。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
+    step2: |-
+      模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，可检查任意模态公式 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 PSPACE-*完全的*：PSPACE 中所有其他问题都不难于判定给定公式是否为 GL 的定理。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
   - id: 39
     kind: body
     source: |-
       To give some more perspective on complexity, the class P of functions computable in an amount of time polynomial in the length of the input, is included in PSPACE, which in turn is included in the class EXPTIME of functions computable in exponential time (see the entry computability and complexity). It remains a famous open problem whether these two inclusions are strict, although many complexity theorists believe that they are. Some other well-known modal logics, like epistemic logic with common knowledge, are decidable in EXPTIME, thus they may be more complex than GL, depending on the open problems.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为给复杂性一些透视：P 类——可在输入长度的多项式时间内计算的函数之类——包含于 PSPACE，而 PSPACE 又包含于 EXPTIME 类——可在指数时间内计算的函数之类（见可计算性与复杂性词条）。这两个包含关系是否为真包含，仍是著名的未决问题，尽管许多复杂性理论家相信如此。另一些著名模态逻辑——如有共同知识的认知逻辑——在 EXPTIME 中可判定，因此它们可能比 GL 更复杂，取决于这些未决问题。
+    step2: |-
+      为给复杂性一些透视：P 类——可在输入长度的多项式时间内计算的函数之类——包含于 PSPACE，而 PSPACE 又包含于 EXPTIME 类——可在指数时间内计算的函数之类（见可计算性与复杂性词条）。这两个包含关系是否为真包含，仍是著名的未决问题，尽管许多复杂性理论家相信如此。另一些著名模态逻辑——如有共同知识的认知逻辑——在 EXPTIME 中可判定，因此它们可能比 GL 更复杂，取决于这些未决问题。
   - id: 40
     kind: body
     source: |-
       ### 3.3 Failure of strong completeness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 强完全性的失效
+    step2: |-
+      ### 3.3 强完全性的失效
   - id: 41
     kind: body
     source: |-
       Many well-known modal logics $S$ are not only complete with respect to an appropriate class of frames, but even *strongly complete*. In order to explain strong completeness, we need the notion of *derivability from a set of assumptions*. A formula $A$ is derivable from the set of assumptions $\Gamma$ in a modal logic $S$, written as $\Gamma \vdash A$, if $A$ is in $\Gamma$ or $A$ follows from formulas in $\Gamma$ and axioms of $S$ by applications of Modus Ponens and the Generalization Rule. Here, the Generalization Rule can only be applied to derivations without assumptions (see Hakli and Negri 2010).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      许多著名模态逻辑 $S$ 不仅相对于合适的框架类完全，甚至*强完全*。为解释强完全性，需要*从一组假设导出*的概念。公式 $A$ 从假设集 $\Gamma$ 在模态逻辑 $S$ 中可导，写作 $\Gamma \vdash A$，如果 $A$ 在 $\Gamma$ 中，或 $A$ 可从 $\Gamma$ 中的公式与 $S$ 的公理经应用分离规则与概括规则得出。这里概括规则只能用于无假设的推导（见 Hakli and Negri 2010）。
+    step2: |-
+      许多著名模态逻辑 $S$ 不仅相对于合适的框架类完全，甚至*强完全*。为解释强完全性，需要*从一组假设导出*的概念。公式 $A$ 从假设集 $\Gamma$ 在模态逻辑 $S$ 中可导，写作 $\Gamma \vdash A$，如果 $A$ 在 $\Gamma$ 中，或 $A$ 可从 $\Gamma$ 中的公式与 $S$ 的公理经应用分离规则与概括规则得出。这里概括规则只能用于无假设的推导（见 Hakli and Negri 2010）。
   - id: 42
     kind: body
     source: |-
       Now a modal logic $S$ is *strongly complete* if for all (finite or infinite) sets $\Gamma$ and all formulas $A$:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个模态逻辑 $S$ 是*强完全的*，如果对所有（有穷或无穷）集合 $\Gamma$ 与所有公式 $A$：
+    step2: |-
+      一个模态逻辑 $S$ 是*强完全的*，如果对所有（有穷或无穷）集合 $\Gamma$ 与所有公式 $A$：
   - id: 43
     kind: body
     source: |-
       If, on appropriate $S$-frames, $A$ is true in all worlds in which all formulas of $\Gamma$ are true, then $\Gamma \vdash A$ in the logic $S$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若在合适的 $S$-框架上，$A$ 在 $\Gamma$ 的所有公式都为真的所有世界中为真，则 $\Gamma \vdash A$ 在逻辑 $S$ 中成立。
+    step2: |-
+      若在合适的 $S$-框架上，$A$ 在 $\Gamma$ 的所有公式都为真的所有世界中为真，则 $\Gamma \vdash A$ 在逻辑 $S$ 中成立。
   - id: 44
     kind: body
     source: |-
       This condition holds for systems like K, M, K4, S4, and S5. If restricted to finite sets $\Gamma$, the above condition corresponds to completeness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一条件对 K、M、K4、S4 与 S5 等系统成立。若限于有穷集 $\Gamma$，上述条件对应于（普通）完全性。
+    step2: |-
+      这一条件对 K、M、K4、S4 与 S5 等系统成立。若限于有穷集 $\Gamma$，上述条件对应于（普通）完全性。
   - id: 45
     kind: body
     source: |-
       Strong completeness does not hold for provability logic, however, because *semantic compactness* fails. Semantic compactness is the property that for each infinite set $\Gamma$ of formulas,
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而强完全性对可证性逻辑不成立，因为*语义紧致性*失效。语义紧致性是这样一条性质：对每个无穷公式集 $\Gamma$，
+    step2: |-
+      然而强完全性对可证性逻辑不成立，因为*语义紧致性*失效。语义紧致性是这样一条性质：对每个无穷公式集 $\Gamma$，
   - id: 46
     kind: body
     source: |-
       If every finite subset $\Delta$ of $\Gamma$ has a model on an appropriate $S$-frame, then $\Gamma$ also has a model on an appropriate $S$-frame.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若 $\Gamma$ 的每个有穷子集 $\Delta$ 都有一个合适 $S$-框架上的模型，则 $\Gamma$ 也有一个合适 $S$-框架上的模型。
+    step2: |-
+      若 $\Gamma$ 的每个有穷子集 $\Delta$ 都有一个合适 $S$-框架上的模型，则 $\Gamma$ 也有一个合适 $S$-框架上的模型。
   - id: 47
     kind: body
     source: |-
       As a counterexample, take the infinite set of formulas
 
       $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \Box(p_1 \rightarrow \Diamond p_2), \Box(p_2 \rightarrow \Diamond p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \Diamond p_{n+1}), \ldots\} \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为反例，取无穷公式集
+    step2: |-
+      作为反例，取无穷公式集
   - id: 48
     kind: body
     source: |-
       Then for every finite subset $\Delta$ of $\Gamma$, one can construct a model on a transitive, conversely well-founded frame and a world in the model where all formulas of $\Delta$ are true. So by modal soundness, GL does not prove $\bot$ from $\Delta$ for any finite $\Delta \subseteq \Gamma$, and *a fortiori* GL does not prove $\bot$ from $\Gamma$, as any GL-proof is finite. On the other hand, it is easy to see that there is no model on a transitive, conversely well-founded frame where in any world, all formulas of $\Gamma$ hold. Thus $\bot$ follows semantically from $\Gamma$, but is not provable from it in GL, contradicting the condition of strong completeness.[^note-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是对 $\Gamma$ 的每个有穷子集 $\Delta$，都可以在传递逆良基框架上构造一个模型，以及模型中 $\Delta$ 的所有公式都为真的一个世界。因此由模态可靠性，对任何有穷 $\Delta \subseteq \Gamma$，GL 不能从 $\Delta$ 证明 $\bot$；*更不用说*从 $\Gamma$ 证明 $\bot$——因为任何 GL 证明都是有穷的。另一方面，容易看出：不存在传递逆良基框架上的模型，使得在某个世界中 $\Gamma$ 的所有公式都成立。于是 $\bot$ 语义地Follows from $\Gamma$，却不能在 GL 中从它证明——这与强完全性的条件相矛盾。[^note-2]
+    step2: |-
+      于是对 $\Gamma$ 的每个有穷子集 $\Delta$，都可以在传递逆良基框架上构造一个模型，以及模型中 $\Delta$ 的所有公式都为真的一个世界。因此由模态可靠性，对任何有穷 $\Delta \subseteq \Gamma$，GL 不能从 $\Delta$ 证明 $\bot$；*更不用说*从 $\Gamma$ 证明 $\bot$——因为任何 GL 证明都是有穷的。另一方面，容易看出：不存在传递逆良基框架上的模型，使得在某个世界中 $\Gamma$ 的所有公式都成立。于是 $\bot$ 语义上由 $\Gamma$ 得出，却不能在 GL 中从它证明——这与强完全性的条件相矛盾。[^note-2]
   - id: 49
     kind: body
     source: |-
       ### 3.4 Topological semantics for provability logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 可证性逻辑的拓扑语义
+    step2: |-
+      ### 3.4 可证性逻辑的拓扑语义
   - id: 50
     kind: body
     source: |-
       As an alternative to possible worlds semantics, many modal logics may be given topological semantics. Clearly, propositions can be interpreted as subsets of a topological space. It is also easy to see that the propositional connective $\wedge$ corresponds to the set-theoretic operation $\cap$, while $\vee$ corresponds to $\cup$, $\neg$ corresponds to the set-theoretic complement, and $\rightarrow$ corresponds to $\subseteq$. Modal logics that contain the reflection axiom $\Box A \rightarrow A$ enjoy a particularly natural interpretation of the modal operators as well. For these logics, $\Diamond$ corresponds to the closure operator in a topological space, while $\Box$ corresponds to the interior. To see why these interpretations are appropriate, notice that the reflection axiom corresponds to the fact that each set is included in its closure and each set includes its interior.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      作为可能世界语义的替代，许多模态逻辑可以赋予拓扑语义。显然，命题可以解释为拓扑空间的子集。同样容易看出：命题联结词 $\wedge$ 对应集合论运算 $\cap$，$\vee$ 对应 $\cup$，$\neg$ 对应集合论补，$\rightarrow$ 对应 $\subseteq$。包含反射公理 $\Box A \rightarrow A$ 的模态逻辑，其模态算子也有特别自然的解释：对这些逻辑，$\Diamond$ 对应拓扑空间中的闭包算子，而 $\Box$ 对应内部。为看出这些解释为何合适，注意反射公理对应于这样的事实：每个集合包含于其闭包，且每个集合包含其内部。
+    step2: |-
+      作为可能世界语义的替代，许多模态逻辑可以赋予拓扑语义。显然，命题可解释为拓扑空间的子集。同样容易看出：命题联结词 $\wedge$ 对应集合论运算 $\cap$，$\vee$ 对应 $\cup$，$\neg$ 对应集合论补，$\rightarrow$ 对应 $\subseteq$。包含反射公理 $\Box A \rightarrow A$ 的模态逻辑，其模态算子也有特别自然的解释：对这些逻辑，$\Diamond$ 对应拓扑空间中的闭包算子，而 $\Box$ 对应内部。为看出这些解释为何合适，注意反射公理对应于这样的事实：每个集合包含于其闭包，且每个集合包含其内部。
   - id: 51
     kind: body
     source: |-
       However, provability logic does *not* prove reflection, as the instantiation $\Box\bot \rightarrow \bot$ of reflection would lead to a contradiction with the axiom (GL).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，可证性逻辑*不*证明反射，因为反射的实例 $\Box\bot \rightarrow \bot$ 会与公理 (GL) 导致矛盾。
+    step2: |-
+      然而，可证性逻辑*不*证明反射，因为反射的实例 $\Box\bot \rightarrow \bot$ 会与公理 (GL) 导致矛盾。
   - id: 52
     kind: body
     source: |-
       Provability logic therefore needs a different approach. Based on a suggestion by J. McKinsey and A. Tarski (1944), L. Esakia (1981, 2003) investigated the interpretation of $\Diamond$ as the derived set operator $d$, which maps a set $B$ to the set of its limit points $d(B)$. To explain the consequences of this interpretation of $\Diamond$, we need two more definitions, namely of the concepts *dense-in-itself* and *scattered*. A subset $B$ of a topological space is called *dense-in-itself* if $B \subseteq d(B)$. A topological space is called *scattered* if it has no non-empty subset that is dense-in-itself. The ordinals in their interval topology form examples of scattered spaces. Esakia (1981) proved an important correspondence: he showed that a topological space *satisfies the axiom GL* if and only if the space is *scattered*. This correspondence soon led to the result, independently found by Abashidze (1985) and Blass (1990), that provability logic is complete with respect to any ordinal $\ge \omega^\omega$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此可证性逻辑需要不同的进路。基于 J. McKinsey 与 A. Tarski（1944）的建议，L. Esakia（1981, 2003）考察了把 $\Diamond$ 解释为导集算子 $d$——它把集合 $B$ 映到其极限点之集 $d(B)$。为解释这一 $\Diamond$ 解释的推论，还需要两个定义：概念*自密的*与*散布的*。拓扑空间的子集 $B$ 称为*自密的*，如果 $B \subseteq d(B)$。拓扑空间称为*散布的*，如果它没有非空的自密子集。区间拓扑下的序数就是散布空间的例子。Esakia（1981）证明了一个重要对应：他表明拓扑空间*满足公理 GL*当且仅当该空间*散布*。这一对应很快引出 Abashidze（1985）与 Blass（1990）各自独立发现的结果：可证性逻辑相对于任何序数 $\ge \omega^\omega$ 完全。
+    step2: |-
+      因此可证性逻辑需要不同的进路。基于 J. McKinsey 与 A. Tarski（1944）的建议，L. Esakia（1981, 2003）考察了把 $\Diamond$ 解释为导集算子 $d$——它把集合 $B$ 映到其极限点之集 $d(B)$。为解释这一 $\Diamond$ 解释的推论，还需两个定义：概念*自密的*与*散布的*。拓扑空间的子集 $B$ 称为*自密的*，如果 $B \subseteq d(B)$。拓扑空间称为*散布的*，如果它没有非空的自密子集。区间拓扑下的序数就是散布空间的例子。Esakia（1981）证明一个重要对应：他表明拓扑空间*满足公理 GL*当且仅当该空间*散布*。这一对应很快引出 Abashidze（1985）与 Blass（1990）各自独立发现的结果：可证性逻辑相对于任何序数 $\ge \omega^\omega$ 完全。
   - id: 53
     kind: body
     source: |-
       In the previous decades, topological semantics for provability logic has seen a veritable revival, especially in the study of Japaridze’s bimodal provability logic GLB, an extension of GL (Japaridze 1986)[^japaridze-1986]. The logic GLB turns out to be *modally incomplete* with respect to its possible worlds semantics, in the sense that it does not correspond to any class of frames.[^note-3] This feature places bimodal GLB in sharp contrast with unimodal GL, which corresponds to the class of finite transitive irreflexive trees, as mentioned above. Beklemishev et al. (2009) showed that GLB is, however, complete with respect to its *topological* semantics (see also Beklemishev 2009, Icard 2011)[^beklemishev-2009][^beklemishev-2009-2][^icard-2011]. Intriguing reverberations of Esakia’s correspondence between GL and scattered topological spaces can even be found in topological studies of spatial and epistemic logics (see Aiello et al. 2007)[^aiello-2007]. (See Section 5.4 for further discussion about GLB).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      过去几十年，可证性逻辑的拓扑语义经历了真正的复兴，尤其在对 Japaridze 的双模可证性逻辑 GLB 的研究中——GLB 是 GL 的扩充（Japaridze 1986）[^japaridze-1986]。结果表明 GLB 相对于其可能世界语义是*模态不完全的*：它不对应于任何框架类。[^note-3] 这一特点使双模 GLB 与单模 GL 形成鲜明对照——如上所述，后者对应于有穷传递非自反树的类。不过，Beklemishev 等人（2009）证明 GLB 相对于其*拓扑*语义完全（另见 Beklemishev 2009, Icard 2011）[^beklemishev-2009][^beklemishev-2009-2][^icard-2011]。Esakia 的 GL 与散布拓扑空间之间的对应，甚至可以在空间逻辑与认知逻辑的拓扑研究中找到引人入胜的回响（见 Aiello et al. 2007）[^aiello-2007]。（关于 GLB 的进一步讨论见第 5.4 节。）
+    step2: |-
+      过去几十年，可证性逻辑的拓扑语义经历真正的复兴，尤其在对 Japaridze 的双模可证性逻辑 GLB 的研究中——GLB 是 GL 的扩充（Japaridze 1986）[^japaridze-1986]。结果表明 GLB 相对于其可能世界语义是*模态不完全的*：它不对应于任何框架类。[^note-3] 这一特点使双模 GLB 与单模 GL 形成鲜明对照——如上所述，后者对应于有穷传递非自反树的类。不过，Beklemishev 等人（2009）证明 GLB 相对于其*拓扑*语义完全（另见 Beklemishev 2009, Icard 2011）[^beklemishev-2009][^beklemishev-2009-2][^icard-2011]。Esakia 的 GL 与散布拓扑空间之间的对应，甚至可以在空间逻辑与认知逻辑的拓扑研究中找到引人入胜的回响（见 Aiello et al. 2007）[^aiello-2007]。（关于 GLB 的进一步讨论见第 5.4 节。）
   - id: 54
     kind: body
     source: |-
       ## 4. Provability logic and Peano Arithmetic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 可证性逻辑与皮亚诺算术
+    step2: |-
+      ## 4 可证性逻辑与皮亚诺算术
   - id: 55
     kind: body
     source: |-
       From the time GL was formulated, researchers wondered whether it was adequate for formal theories like Peano Arithmetic (PA): does GL prove *everything* about the notion of provability that can be expressed in a propositional modal language and can be proved in Peano Arithmetic, or should more principles be added to GL? To make this notion of adequacy more precise, we define a *realization* (sometimes called translation or interpretation) to be a function *f* that assigns to each propositional atom of modal logic a sentence of arithmetic, where
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 GL 被表述以来，研究者一直想知道：它对皮亚诺算术（PA）这类形式理论是否足够：GL 是否证明*一切*能以命题模态语言表达且能在皮亚诺算术中证明的关于可证性概念的内容？还是应向 GL 添加更多原理？为使这一“足够”概念更精确，我们把*实现*（有时称翻译或解释）定义为函数 *f*：它为模态逻辑的每个命题原子指派一个算术句子，其中
+    step2: |-
+      自 GL 被表述以来，研究者一直想知道：它对皮亚诺算术（PA）这类形式理论是否足够：GL 是否证明*一切*能以命题模态语言表达且能在皮亚诺算术中证明的关于可证性概念的内容？还是应向 GL 添加更多原理？为使这一“足够”概念更精确，我们把*实现*（有时称翻译或解释）定义为函数 *f*：它为模态逻辑的每个命题原子指派一个算术句子，其中
   - id: 56
     kind: body
     source: |-
       - $f(\bot)=\bot;$
       - $f$ respects the logical connectives, for example, $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ and
       - $\Box$ is translated as the provability predicate $\Prov$, so $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - $f(\bot)=\bot;$
+      - $f$ respects the logical connectives, for example, $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ and
+      - $\Box$ is translated as the provability predicate $\Prov$, so $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
+    step2: |-
+      - $f(\bot)=\bot;$
+      - $f$ respects the logical connectives, for example, $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ and
+      - $\Box$ is translated as the provability predicate $\Prov$, so $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
   - id: 57
     kind: body
     source: |-
       ### 4.1 Arithmetical soundness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 算术可靠性
+    step2: |-
+      ### 4.1 算术可靠性
   - id: 58
     kind: body
     source: |-
       It was already clear in the early 1970s that GL is *arithmetically sound* with respect to PA, formally:
 
       $$ \text{If } \GL \vdash A, \text{then for all realizations } f, \PA \vdash f(A).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早在七十年代初就已清楚：GL 相对于 PA 是*算术可靠的*，形式化地说：
+    step2: |-
+      早在七十年代初就已清楚：GL 相对于 PA 是*算术可靠的*，形式化地说：
   - id: 59
     kind: body
     source: |-
       To give some taste of meta-mathematics, let us sketch the soundness proof.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为给元数学一点滋味，让我们概述可靠性证明。
+    step2: |-
+      为给元数学一点滋味，让我们概述可靠性证明。
   - id: 60
     kind: body
     source: |-
       **Proof sketch of arithmetical soundness**. PA indeed proves realizations of propositional tautologies, and provability of the Distribution Axiom of GL translates to
 
       $$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **算术可靠性证明概述**。PA 确实证明命题重言式的实现，而 GL 分配公理的可证性翻译为
+      
+      $$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
+    step2: |-
+      **算术可靠性证明概述**。PA 确实证明命题重言式的实现，而 GL 分配公理的可证性翻译为
+      
+      $$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
   - id: 61
     kind: body
     source: |-
       for all formulas *A* and *B*, which is just Löb’s second derivability condition (see Section 1). Moreover, PA obeys Modus Ponens, as well as the translation of the Generalization Rule:
 
       $$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对一切公式 *A* 与 *B*——这正是 Löb 的第二条可导出性条件（见第 1 节）。此外，PA 服从分离规则，以及概括规则的翻译：
+      
+      $$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
+    step2: |-
+      对一切公式 *A* 与 *B*——这正是 Löb 的第二条可导出性条件（见第 1 节）。此外，PA 服从分离规则，以及概括规则的翻译：
+      
+      $$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
   - id: 62
     kind: body
     source: |-
       which is just Löb’s first derivability condition. Finally, the translation of the main axiom (GL) is indeed provable in PA:
 
       $$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这正是 Löb 的第一条可导出性条件。最后，主公理 (GL) 的翻译确实在 PA 中可证：
+      
+      $$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
+    step2: |-
+      这正是 Löb 的第一条可导出性条件。最后，主公理 (GL) 的翻译确实在 PA 中可证：
+      
+      $$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
   - id: 63
     kind: body
     source: |-
       This is exactly the formalized version of Löb’s theorem mentioned in Section 1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这正是第 1 节提到的 Löb 定理的形式化版本。
+    step2: |-
+      这正是第 1 节提到的 Löb 定理的形式化版本。
   - id: 64
     kind: body
     source: |-
       Let us give a sketch of the proof of Löb’s theorem itself from his derivability conditions (the proof of the formalized version is similar). The proof is based on Gödel’s diagonalization lemma, which says that for any arithmetical formula $C(x)$ there is an arithmetical formula $B$ such that
 
       $$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      让我们从 Löb 的可导出性条件概述 Löb 定理本身的证明（形式化版本的证明类似）。该证明基于哥德尔的对角化引理：对任意算术公式 $C(x)$，存在算术公式 $B$ 使得
+      
+      $$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
+    step2: |-
+      让我们从 Löb 的可导出性条件概述 Löb 定理本身的证明（形式化版本的证明类似）。该证明基于哥德尔的对角化引理：对任意算术公式 $C(x)$，存在算术公式 $B$ 使得
+      
+      $$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
   - id: 65
     kind: body
     source: |-
       In words, the formula $B$ says “I have property $C$.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      用文字说，公式 $B$ 说的是“我具有性质 $C$。”
+    step2: |-
+      用文字说，公式 $B$ 说的是“我具有性质 $C$。”
   - id: 66
     kind: body
     source: |-
       **Proof of Löb’s theorem:**. Suppose that $\PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$; we need to show that $\PA \vdash A$. By the diagonalization lemma, there is a formula $B$ such that
 
       $$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **Löb 定理的证明：** 设 $\PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$；须证 $\PA \vdash A$。由对角化引理，存在公式 $B$ 使得
+      
+      $$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
+    step2: |-
+      **Löb 定理的证明：** 设 $\PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$；须证 $\PA \vdash A$。由对角化引理，存在公式 $B$ 使得
+      
+      $$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
   - id: 67
     kind: body
     source: |-
       From this it follows by Löb’s first and second derivability conditions plus some propositional reasoning that
 
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由此经 Löb 的第一、第二条可导出性条件加上一些命题推理可得
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
+    step2: |-
+      由此经 Löb 的第一、第二条可导出性条件加上一些命题推理可得
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
   - id: 68
     kind: body
     source: |-
       Thus, again by Löb’s second condition,
 
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是再次由 Löb 的第二条件，
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
+    step2: |-
+      于是再次由 Löb 的第二条件，
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
   - id: 69
     kind: body
     source: |-
       On the other hand Löb’s third condition gives
 
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      另一方面，Löb 的第三条件给出
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
+    step2: |-
+      另一方面，Löb 的第三条件给出
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
   - id: 70
     kind: body
     source: |-
       thus
 
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      于是
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
+    step2: |-
+      于是
+      
+      $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
   - id: 71
     kind: body
     source: |-
