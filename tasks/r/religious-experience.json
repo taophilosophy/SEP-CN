@@ -1,0 +1,29 @@
+{
+ "slug": "religious-experience",
+ "kind": "retranslate",
+ "zh_doc": "r/religious-experience.md",
+ "state": "cleared",
+ "steps": [
+  {
+   "step": "direction",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-04T19:23:07Z",
+   "evidence": "方向声明（rules/08）：r 批第 4 件 religious-experience（58KB，批次内剩余次小件）。目标：六道全过同验收判据；工具链复用 build_*.py+build_ra.py 组装器模式+rz_postfix。非目标同前三件。同时作为 reasoning-analogy r3 终审前的冷置任务。"
+  },
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-04T19:23:07Z",
+   "evidence": "baseline gate: hash_ok"
+  }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-04T19:23:07Z",
+ "version_pin": {
+  "pubinfo_date": "Aug 26, 2022",
+  "archive_edition": "Fall 2022",
+  "sha256": "0ce3558fed85e12391f21991c87fa4ae6676de9575ec892ec5e4465f795692f3"
+ }
+}
