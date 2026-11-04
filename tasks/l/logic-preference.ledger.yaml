@@ -100,23 +100,19 @@ segments:
     source: |-
       Halldén’s (1957) book *On the Logic of “Better”* is often taken as the starting point for a logical analysis of preference. It is a point of reference for all other preference logics. Halldén extended the propositional logic with two new connectives—what he called “ethical connectives”: “better” ($>$) and “equally as good as” ($\equiv$). He distinguished between the positive and negative sense of $\equiv$, which then led to Theory A and Theory B. Theory A is based on the *positive* sense and is formally given by $p\equiv q$ iff for all r, $r>p$ iff $r>q$, and $p>r$ iff $q>r$. Theory B is based on the *negative* sense, where $p\equiv q$ simply means $\neg(p>q)\land \neg(q>p)$.
     step1: |-
-      Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻辑分析的起点，是所有其他偏好逻辑的参照点。Halldén 以两个新联结词扩充命题逻辑——他称之为“伦理联结词”：“更好”($>$)与“一样好”($\equiv$)。他区分了 $\equiv$ 的肯定义与否定义，由此得出理论 A 与理论 B。理论 A 基于*肯定义*，形式上由 $p\equiv q$ 当且仅当对一切 r，$r>p$ 当且仅当 $r>q$，且 $p>r$ 当且仅当 $q>r$ 给出。理论 B 基于*否定义*，其中 $p\equiv q$ 即 $
-      eg(p>q)\land 
-      eg(q>p)$。
+      Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻辑分析的起点，是所有其他偏好逻辑的参照点。Halldén 以两个新联结词扩充命题逻辑——他称之为“伦理联结词”：“更好”($>$)与“一样好”($\equiv$)。他区分了 $\equiv$ 的肯定义与否定义，由此得出理论 A 与理论 B。理论 A 基于*肯定义*，形式上由 $p\equiv q$ 当且仅当对一切 r，$r>p$ 当且仅当 $r>q$，且 $p>r$ 当且仅当 $q>r$ 给出。理论 B 基于*否定义*，其中 $p\equiv q$ 即 $\neg(p>q)\land \neg(q>p)$。
     step2: |-
-      Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻辑分析的起点，是所有其他偏好逻辑的参照点。Halldén 以两个新联结词扩充命题逻辑——他称之为“伦理联结词”：“更好”($>$)与“一样好”($\equiv$)。他区分 $\equiv$ 的肯定义与否定义，由此得出理论 A 与理论 B。理论 A 基于*肯定义*，形式上由 $p\equiv q$ 当且仅当对一切 r，$r>p$ 当且仅当 $r>q$，且 $p>r$ 当且仅当 $q>r$ 给出。理论 B 基于*否定义*，其中 $p\equiv q$ 即 $
-      eg(p>q)\land 
-      eg(q>p)$。
+      Halldén（1957）的著作《论“更好”的逻辑》常被视为偏好逻辑分析的起点，是所有其他偏好逻辑的参照点。Halldén 以两个新联结词扩充命题逻辑——他称之为“伦理联结词”：“更好”($>$)与“一样好”($\equiv$)。他区分 $\equiv$ 的肯定义与否定义，由此得出理论 A 与理论 B。理论 A 基于*肯定义*，形式上由 $p\equiv q$ 当且仅当对一切 r，$r>p$ 当且仅当 $r>q$，且 $p>r$ 当且仅当 $q>r$ 给出。理论 B 基于*否定义*，其中 $p\equiv q$ 即 $\neg(p>q)\land \neg(q>p)$。
   - id: 13
     kind: body
     source: |-
       The sentences, built up from propositional variables and ordinary truth-functional connectives as well as the two new connectives, are called “A-formulas”. They follow the usual convention of leaving out brackets, with the reading then based on decreasing binding order for $\neg$, $>$, $\equiv$, $\land$, $\lor$, $\rightarrow$, $\leftrightarrow$.
     step1: |-
-      由命题变元与普通真值函项联结词以及两个新联结词构造起来的句子称为“A 公式”。它们遵循惯常的省略括号约定，读法基于递减的结合次序：$
-      eg$、$>$、$\equiv$、$\land$、$\lor$、$ightarrow$、$\leftrightarrow$。
+      由命题变元与普通真值函项联结词以及两个新联结词构造起来的句子称为“A 公式”。它们遵循惯常的省略括号约定，读法基于递减的结合次序：$\neg$、$>$、$\equiv$、$\land$、$\lor$、$\rightarrow$、$\leftrightarrow$。
+ightarrow$、$\leftrightarrow$。
     step2: |-
-      由命题变元、普通真值函项联结词以及两个新联结词构造起来的句子称为“A 公式”。它们遵循惯常的省略括号约定，读法基于递减的结合次序：$
-      eg$、$>$、$\equiv$、$\land$、$\lor$、$ightarrow$、$\leftrightarrow$。
+      由命题变元、普通真值函项联结词以及两个新联结词构造起来的句子称为“A 公式”。它们遵循惯常的省略括号约定，读法基于递减的结合次序：$\neg$、$>$、$\equiv$、$\land$、$\lor$、$\rightarrow$、$\leftrightarrow$。
+ightarrow$、$\leftrightarrow$。
   - id: 14
     kind: body
     source: |-
@@ -162,9 +158,11 @@ segments:
     source: |-
       If $\varphi$ and $\varphi\rightarrow\psi$ are theorems of A, then $\psi$ is a theorem of A (*modus ponens*)
     step1: |-
-      若 $arphi$ 与 $arphiightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
+      若 $\varphi$ 与 $\varphi\rightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
+ightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
     step2: |-
-      若 $arphi$ 与 $arphiightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
+      若 $\varphi$ 与 $\varphi\rightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
+ightarrow\psi$ 是 A 的定理，则 $\psi$ 是 A 的定理（*分离规则*）。
   - id: 20
     kind: body
     source: |-
@@ -178,9 +176,9 @@ segments:
     source: |-
       Suppose $\varphi$ is a theorem of A, and $\psi$ is similar to $\varphi$ in all respects except one: wherever a certain variable occurs in $\varphi$, an A-formula occurs in $\psi$. Then $\psi$ is a theorem of A (substitution)
     step1: |-
-      设 $arphi$ 是 A 的定理，且 $\psi$ 在除一处之外的所有方面都与 $arphi$ 相似：凡 $arphi$ 中出现某变元之处，$\psi$ 中出现一个 A 公式。则 $\psi$ 是 A 的定理（代入）。
+      设 $\varphi$ 是 A 的定理，且 $\psi$ 在除一处之外的所有方面都与 $\varphi$ 相似：凡 $\varphi$ 中出现某变元之处，$\psi$ 中出现一个 A 公式。则 $\psi$ 是 A 的定理（代入）。
     step2: |-
-      设 $arphi$ 是 A 的定理，且 $\psi$ 除一处外处处与 $arphi$ 相似：凡 $arphi$ 中出现某变元之处，$\psi$ 中出现一个 A 公式。则 $\psi$ 是 A 的定理（代入）。
+      设 $\varphi$ 是 A 的定理，且 $\psi$ 除一处外处处与 $\varphi$ 相似：凡 $\varphi$ 中出现某变元之处，$\psi$ 中出现一个 A 公式。则 $\psi$ 是 A 的定理（代入）。
   - id: 22
     kind: body
     source: |-
@@ -196,9 +194,9 @@ segments:
 
       $$\begin{align*} \tag*{\(A_1\)} p> q\rightarrow\neg (q > p)&& \textrm{(\(>\)-asymmetry)}\\ \tag*{\(A_2\)} p>q \land q >r\rightarrow p>r&& \textrm{(\(>\)-transitivity)}\\ \tag*{\(A_3\)} p\equiv p&& \textrm{(\(\equiv\)-reflexivity)}\\ \tag*{\(A_4\)} p\equiv q \rightarrow q\equiv p&& \textrm{(\(\equiv\)-symmetry)}\\ \tag*{\(A_5\)} p\equiv q \land q\equiv r \rightarrow p\equiv r&& \textrm{(\(\equiv\)-transitivity)}\\ \tag*{\(A_6\)} p>q\land q\equiv r \rightarrow p>r&& \textrm{(\(>\equiv\)-transitivity)}\\ \tag*{\(A_7\)} p>q\leftrightarrow(p\land \neg q)> (q\land \neg p)&& \textrm{(\(>\)-expansion)}\\ \tag*{\(A_8\)} p\equiv q\leftrightarrow(p\land \neg q)\equiv(q\land \neg p)&& \textrm{(\(\equiv\)-expansion)} \end{align*} $$
     step1: |-
-      设 $arphi$ 与 $	au_1\equiv	au_2$ 是 A 的定理，$\psi$ 是 A 公式，且 $\psi$ 除一处外处处与 $\psi$ 相似：$	au_1$ 在 $\psi$ 的一处或多处出现，而 $	au_2$ 在 $arphi$ 中出现。则 $\psi$ 是 A 的定理（替换）。
+      设 $\varphi$ 与 $\tau_1\equiv\tau_2$ 是 A 的定理，$\psi$ 是 A 公式，且 $\psi$ 除一处外处处与 $\psi$ 相似：$\tau_1$ 在 $\psi$ 的一处或多处出现，而 $\tau_2$ 在 $\varphi$ 中出现。则 $\psi$ 是 A 的定理（替换）。
     step2: |-
-      设 $arphi$ 与 $	au_1\equiv	au_2$ 是 A 的定理，$\psi$ 是 A 公式，且 $\psi$ 除一处外处处与 $\psi$ 相似：$	au_1$ 在 $\psi$ 的一处或多处出现，而 $	au_2$ 在 $arphi$ 中出现。则 $\psi$ 是 A 的定理（替换）。
+      设 $\varphi$ 与 $\tau_1\equiv\tau_2$ 是 A 的定理，$\psi$ 是 A 公式，且 $\psi$ 除一处外处处与 $\psi$ 相似：$\tau_1$ 在 $\psi$ 的一处或多处出现，而 $\tau_2$ 在 $\varphi$ 中出现。则 $\psi$ 是 A 的定理（替换）。
   - id: 24
     kind: body
     source: |-
@@ -212,13 +210,17 @@ segments:
     source: |-
       Halldén proves that Theory A is consistent. He presents several theorems of theory A such as contraposition: $p>q \rightarrow\neg q>\neg p$. He also considers fourteen optional postulates that can be added to Theory A. For example, there is the distribution postulate, $p>(q\land r)\rightarrow p>q \land p>r$, and the connectedness postulate, $p>q \lor p\equiv q \lor q>p$.
     step1: |-
-      Halldén 证明理论 A 是一致的。他给出理论 A 的若干定理，如逆否：$p>q ightarrow
+      Halldén 证明理论 A 是一致的。他给出理论 A 的若干定理，如逆否：$p>q \rightarrow\neg q>\neg p$。他还考虑了可以加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)\rightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
+ightarrow
       eg q>
-      eg p$。他还考虑了可以加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
+      eg p$。他还考虑了可以加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)
+ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
     step2: |-
-      Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否：$p>q ightarrow
+      Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否：$p>q \rightarrow\neg q>\neg p$。他还考虑了可加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)\rightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
+ightarrow
       eg q>
-      eg p$。他还考虑了可加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
+      eg p$。他还考虑了可加到理论 A 上的十四条可选公设。例如分配公设 $p>(q\land r)
+ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$。
   - id: 26
     kind: body
     source: |-
