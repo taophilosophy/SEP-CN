@@ -697,8 +697,10 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       Van Dalen’s preference theories **PREFIR**, **PREF**, **PREFL** and **PREFR**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Van Dalen 的偏好理论 **PREFIR**、**PREF**、**PREFL** 与 **PREFR**
+    step2: |-
+      Van Dalen 的偏好理论 **PREFIR**、**PREF**、**PREFL** 与 **PREFR**
   - id: 77
     kind: body
     source: |-
@@ -706,152 +708,204 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       - *Modus ponens* and replacement (see Halldén’s Theory A)
 
       $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \land \psi >\chi \rightarrow \varphi> \chi\\ \tag*{P3} \varphi>\psi \land \psi \equiv\chi \rightarrow \varphi> \chi\\ \tag*{P4} \varphi>\psi \rightarrow \neg \psi > \neg \varphi\\ \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 古典命题逻辑的一切重言式都是公理。
+      - *分离规则*与替换（见 Halldén 的理论 A）
+    step2: |-
+      - 古典命题逻辑的一切重言式都是公理。
+      - *分离规则*与替换（见 Halldén 的理论 A）
   - id: 78
     kind: body
     source: |-
       We will consider a number of axiom systems, all of which have tautologies as axioms and *modus ponens* as a rule of inference. All but the first have the rule of replacement as a rule of inference.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们将考虑若干公理系统：它们都以重言式为公理、以分离规则为推理规则；除第一个外，都以替换规则为推理规则。
+    step2: |-
+      我们将考虑若干公理系统：它们都以重言式为公理、以分离规则为推理规则；除第一个外，都以替换规则为推理规则。
   - id: 79
     kind: body
     source: |-
       **PREFIR**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **PREFIR**
+    step2: |-
+      **PREFIR**
   - id: 80
     kind: body
     source: |-
       Axioms P1, P2 (only the *modus ponens* rule is applied)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      公理 P1, P2（只应用*分离规则*）
+    step2: |-
+      公理 P1, P2（只应用*分离规则*）
   - id: 81
     kind: body
     source: |-
       **PREF**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **PREF**
+    step2: |-
+      **PREF**
   - id: 82
     kind: body
     source: |-
       Axioms P1, P2
-    step1: TBD
-    step2: TBD
+    step1: |-
+      公理 P1, P2
+    step2: |-
+      公理 P1, P2
   - id: 83
     kind: body
     source: |-
       **PREFL**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **PREFL**
+    step2: |-
+      **PREFL**
   - id: 84
     kind: body
     source: |-
       Axioms P1, P2, P3
-    step1: TBD
-    step2: TBD
+    step1: |-
+      公理 P1, P2, P3
+    step2: |-
+      公理 P1, P2, P3
   - id: 85
     kind: body
     source: |-
       **PREFR**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **PREFR**
+    step2: |-
+      **PREFR**
   - id: 86
     kind: body
     source: |-
       Axioms P1, P2, P3, P4
-    step1: TBD
-    step2: TBD
+    step1: |-
+      公理 P1, P2, P3, P4
+    step2: |-
+      公理 P1, P2, P3, P4
   - id: 87
     kind: body
     source: |-
       Figure 5.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 5。
+    step2: |-
+      图 5。
   - id: 88
     kind: body
     source: |-
       Moreover, Van Dalen shows that all systems have the finite model property and are decidable. He also extends the language with monadic operators for good, bad and neutral, and he considers nested preference statements. Other authors like Chisholm and Sosa (1966) consider first-order extensions of such preference logics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，Van Dalen 证明所有系统都有有穷模型性质且可判定。他还以“善”“恶”“中立”的一元算子扩充该语言，并考虑嵌套的偏好陈述。Chisholm 与 Sosa（1966）等其他作者则考虑这类偏好逻辑的一阶扩充。
+    step2: |-
+      此外，Van Dalen 证明所有系统都有有穷模型性质且可判定。他还以“善”“恶”“中立”的一元算子扩充该语言，并考虑嵌套的偏好陈述。Chisholm 与 Sosa（1966）等其他作者则考虑这类偏好逻辑的一阶扩充。
   - id: 89
     kind: body
     source: |-
       ### 3.2 Preference over possible worlds
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 可能世界上的偏好
+    step2: |-
+      ### 3.2 可能世界上的偏好
   - id: 90
     kind: body
     source: |-
       In an era of rapid advancements in modal logics (see entry on modal logic), binary preference relations have been incorporated naturally into possible world semantics to enable the comparison of different situations or worlds in various contexts. This subsection and the next review modal preference logic and discuss various methods for lifting preferences in order to compare sets of possible worlds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在模态逻辑迅速发展的时代（参见模态逻辑词条），二元偏好关系被自然地纳入可能世界语义，以便在不同语境中比较不同的情形或世界。本小节与下一小节评述模态偏好逻辑，并讨论提升偏好以比较可能世界集合的多种方法。
+    step2: |-
+      在模态逻辑迅速发展的时代（参见模态逻辑词条），二元偏好关系被自然地纳入可能世界语义，以便在不同语境中比较不同的情形或世界。本小节与下一小节评述模态偏好逻辑，并讨论提升偏好以比较可能世界集合的多种方法。
   - id: 91
     kind: body
     source: |-
       Dyadic modal logic has been developed since the late 1960s to model conditional obligations (B. Hansson 1969)[^hansson-1969] along with related formalisms for conditionals (Lewis 1973; Makinson 1993)[^lewis-1973][^makinson-1993]. In these frameworks, a preference structure underlying possible world semantics was employed, particularly in studies of deontic logic and conditionals.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      自 1960 年代末以来，二元模态逻辑被发展为条件义务的模型（B. Hansson 1969）[^hansson-1969]，并伴随条件句的相关形式理论（Lewis 1973; Makinson 1993）[^lewis-1973][^makinson-1993]。在这些框架中，可能世界语义下的偏好结构得到使用，尤其是在道义逻辑与条件句的研究中。
+    step2: |-
+      自 1960 年代末以来，二元模态逻辑被发展为条件义务的模型（B. Hansson 1969）[^hansson-1969]，并伴随条件句的相关形式理论（Lewis 1973; Makinson 1993）[^lewis-1973][^makinson-1993]。在这些框架中，可能世界语义下的偏好结构得到使用，尤其是在道义逻辑与条件句的研究中。
   - id: 92
     kind: body
     source: |-
       Starting in the late 1980s, a widely adopted monadic modal approach emerged that explored preferences within non-monotonic logic and belief revision (Boutilier 1990; Lamarre 1991)[^boutilier-1990][^lamarre-1991] as well as deontic logic (Tan & Van der Torre 1996)[^tan-1996]. While the motivations behind these works vary, the monadic modal approach in some cases offers a more straightforward path to axiomatizing preference logic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从 1980 年代末开始，一种被广泛采纳的一元模态进路兴起，它在非单调逻辑与信念修正（Boutilier 1990; Lamarre 1991）[^boutilier-1990][^lamarre-1991]以及道义逻辑（Tan & Van der Torre 1996）[^tan-1996]中探索偏好。这些工作的动机各异，但一元模态进路在某些情形下为偏好逻辑的公理化提供了更直接的路径。
+    step2: |-
+      从 1980 年代末开始，一种被广泛采纳的一元模态进路兴起，它在非单调逻辑与信念修正（Boutilier 1990; Lamarre 1991）[^boutilier-1990][^lamarre-1991]以及道义逻辑（Tan & Van der Torre 1996）[^tan-1996]中探索偏好。这些工作的动机各异，但一元模态进路在某些情形下为偏好逻辑的公理化提供了更直接的路径。
   - id: 93
     kind: body
     source: |-
       Research on preference logic has frequently been linked to understanding agent choices in dynamic environments. A central focus is how agents rank possible worlds in order to express their preferences. This allows for more nuanced models of decision-making and normative reasoning. The integration of preference orders into modal logic, inspired by earlier developments in conditional logic and belief revision, extends the expressive power of logical systems by incorporating preference structures over possible worlds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      偏好逻辑研究常与理解动态环境中的行动者选择相关联。一个核心焦点是：行动者如何为可能世界排序以表达其偏好。这使决策制定与规范性推理的模型更加细致。受条件逻辑与信念修正早期发展的启发，把偏好序整合进模态逻辑，通过纳入可能世界上的偏好结构而扩展了逻辑系统的表达力。
+    step2: |-
+      偏好逻辑研究常与理解动态环境中的行动者选择相关联。一个核心焦点是：行动者如何为可能世界排序以表达其偏好。这使决策制定与规范性推理的模型更加细致。受条件逻辑与信念修正早期发展的启发，把偏好序整合进模态逻辑，通过纳入可能世界上的偏好结构而扩展了逻辑系统的表达力。
   - id: 94
     kind: body
     source: |-
       A modal preference model $\mathcal{M}$ is a triple $(W, \succeq, V)$ where W is a set of possible worlds, $\succeq$ is a binary preference relation over these worlds, and V is a valuation assigning truth values to propositional letters in these worlds. Depending on the context, we assume the preference relation $\succeq$ has certain properties. For instance, it can be a (total) pre-order, or a partial order, etc. If we choose (total) pre-order, a strict preference relation “$w\succ v$” can then be defined as “$w\succeq v\land v \nsucceq w$”, and an indifference relation “$w\approx v$” can be defined as “$w\succeq v\land v\succeq w$”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      模态偏好模型 $\mathcal{M}$ 是三元组 $(W, \succeq, V)$：W 是可能世界集合，$\succeq$ 是这些世界上的二元偏好关系，V 是为这些世界中的命题字母赋真值的赋值。依语境不同，我们假定偏好关系 $\succeq$ 具有某些性质：例如可以是（全）预序，或偏序等。若选（全）预序，则严格偏好关系“$w\succ v$”可定义为“$w\succeq v\land v \nsucceq w$”，无差异关系“$w\approx v$”可定义为“$w\succeq v\land v\succeq w$”。
+    step2: |-
+      模态偏好模型 $\mathcal{M}$ 是三元组 $(W, \succeq, V)$：W 是可能世界集合，$\succeq$ 是这些世界上的二元偏好关系，V 是为这些世界中的命题字母赋真值的赋值。依语境不同，我们假定偏好关系 $\succeq$ 具有某些性质：例如可以是（全）预序，或偏序等。若选（全）预序，则严格偏好关系“$w\succ v$”可定义为“$w\succeq v\land v \nsucceq w$”，无差异关系“$w\approx v$”可定义为“$w\succeq v\land v\succeq w$”。
   - id: 95
     kind: body
     source: |-
       On the syntactic side, a modal preference language is given to express the basic preference relations and their properties. The language is an extension of propositional logic, with two new operators $\lozenge^{\geq}\varphi$ and $\lozenge^{>}\varphi$ (Van Benthem, Girard, & Roy 2009). Their truth conditions are defined below:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在语法方面，给出一套模态偏好语言以表达基本的偏好关系及其性质。该语言是命题逻辑的扩充，带有两个新算子 $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>}\varphi$（Van Benthem, Girard, & Roy 2009）。其真值条件定义如下：
+    step2: |-
+      在语法方面，给出一套模态偏好语言以表达基本的偏好关系及其性质。该语言是命题逻辑的扩充，带有两个新算子 $\lozenge^{\geq}\varphi$ 与 $\lozenge^{>}\varphi$（Van Benthem, Girard, & Roy 2009）。其真值条件定义如下：
   - id: 96
     kind: body
     source: |-
       $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
+    step2: |-
+      $\mathcal{M}$, $w \models \lozenge^{\geq} \varphi$    iff    for some v   with $v\succeq w$, $\mathcal{M}$, $v \models \varphi$.
   - id: 97
     kind: body
     source: |-
       $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
+    step2: |-
+      $\mathcal{M}$, $w \models \lozenge^{>} \varphi$    iff    for some v   with $v \succ w$, $\mathcal{M}$, $v \models \varphi.$
   - id: 98
     kind: body
     source: |-
       The theory shown in Figure 6 below is an axiomatization of the modal preference logic given by Van Benthem, Girard, and Roy (2009) where $\succeq$ is a transitive and reflexive relation and E is an existential modality, interpreted as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      下图 6 所示的理论是 Van Benthem、Girard 与 Roy（2009）给出的模态偏好逻辑公理化，其中 $\succeq$ 是传递且自反的关系，E 是存在模态词，解释如下：
+    step2: |-
+      下图 6 所示的理论是 Van Benthem、Girard 与 Roy（2009）给出的模态偏好逻辑公理化，其中 $\succeq$ 是传递且自反的关系，E 是存在模态词，解释如下：
   - id: 99
     kind: body
     source: |-
       $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
+    step2: |-
+      $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \models \varphi$.
   - id: 100
     kind: body
     source: |-
       *Figure 6.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 6.*
+    step2: |-
+      *Figure 6.*
   - id: 101
     kind: body
     source: |-
       **Modal preference logic**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **模态偏好逻辑**
+    step2: |-
+      **模态偏好逻辑**
   - id: 102
     kind: body
     source: |-
@@ -863,61 +917,95 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       - $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
       - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
+      - Inclusion axioms:
+      - $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
+      - $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
+      - Interaction axioms between $\lozenge^{\geq}\varphi$ and $\lozenge^{>} \varphi$:
+      - $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
+      - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
+      - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
+    step2: |-
+      - S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
+      - Inclusion axioms:
+      - $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
+      - $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
+      - Interaction axioms between $\lozenge^{\geq}\varphi$ and $\lozenge^{>} \varphi$:
+      - $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
+      - $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
+      - $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
   - id: 103
     kind: body
     source: |-
       Figure 6.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 6。
+    step2: |-
+      图 6。
   - id: 104
     kind: body
     source: |-
       ### 3.3 Preference lifting
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 偏好提升
+    step2: |-
+      ### 3.3 偏好提升
   - id: 105
     kind: body
     source: |-
       The modal preference language described above can express the properties of preference relations between possible worlds. But addressing relationships between sets of possible worlds presents a lifting problem (Thomason & Horty 1996)[^thomason-1996] as it involves extending a property that applies to individual worlds so that it also applies to sets of worlds. There are various ways of achieving this. The three examples below use only two quantifiers.
 
       $$\begin{align*} p\geq^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succeq w \\ p>^{\forall\forall}q & := \forall w \models q\, \forall v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\geq^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succeq w \\ p>^{\forall\exists}q & := \forall w \models q\, \exists v\models p: v\succ w \\ \end{align*}$$ $$\begin{align*} p\unrhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succ w \\ p\rhd^{\overline{\forall\forall}}q & := \forall w \models p\, \forall v\models q: v\not\succeq w\\ \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述模态偏好语言可以表达可能世界之间偏好关系的性质。但要处理可能世界集合之间的关系，会遇到一个提升问题（Thomason & Horty 1996）[^thomason-1996]：它涉及把一个适用于个别世界的性质加以扩展，使之也适用于世界的集合。实现方式有多种。下面三个例子只使用两个量词。
+    step2: |-
+      上述模态偏好语言可以表达可能世界之间偏好关系的性质。但要处理可能世界集合之间的关系，会遇到一个提升问题（Thomason & Horty 1996）[^thomason-1996]：它涉及把一个适用于个别世界的性质加以扩展，使之也适用于世界的集合。实现方式有多种。下面三个例子只使用两个量词。
   - id: 106
     kind: body
     source: |-
       On the syntactic side, to express the lifting, the basic modal preference language is extended with the universal modality $U\varphi$ (and its dual $E\varphi$) (Boutilier 1992)[^boutilier-1992]. The truth definition for this new modality is:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在语法方面，为表达提升，基本模态偏好语言以全称模态词 $U\varphi$（及其对偶 $E\varphi$）扩充（Boutilier 1992）[^boutilier-1992]。这一新模态词的真值定义是：
+    step2: |-
+      在语法方面，为表达提升，基本模态偏好语言以全称模态词 $U\varphi$（及其对偶 $E\varphi$）扩充（Boutilier 1992）[^boutilier-1992]。这一新模态词的真值定义是：
   - id: 107
     kind: body
     source: |-
       $\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      $\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
+    step2: |-
+      $\mathcal{M}$, $w \models U \varphi$    iff    for all v  , $\mathcal{M}$, $v \models \varphi$.
   - id: 108
     kind: body
     source: |-
       With this modality, the language gains greater expressive power to define generic preference notions related to the lifting problem. We provide one example:
 
       $$\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\lozenge^{\geq}\psi).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有了这一模态词，语言获得更大的表达力，可以定义与提升问题相关的一般偏好概念。我们给出一个例子：
+    step2: |-
+      有了这一模态词，语言获得更大的表达力，可以定义与提升问题相关的一般偏好概念。我们给出一个例子：
   - id: 109
     kind: body
     source: |-
       We can read $\varphi\geq^{\forall\exists}\psi$ as “for each $\varphi$-world, there exists a $\psi$-world which is as good as that $\varphi$-world”. We can define other notions of generic preference in a similar manner. For instance, $\forall\exists$-preference and $\exists\exists$-preference can be defined in the language as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 $\varphi$-世界，都存在一个与之同样好的 $\psi$-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
+    step2: |-
+      我们可以把 $\varphi\geq^{\forall\exists}\psi$ 读作“对每个 $\varphi$-世界，都存在一个与之同样好的 $\psi$-世界”。我们可以类似方式定义其他一般偏好概念。例如 $\forall\exists$-偏好与 $\exists\exists$-偏好可在语言中定义如下：
   - id: 110
     kind: body
     source: |-
       1. $\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\langle\geq\rangle\psi)$
       2. $\varphi\geq^{\exists\exists}\psi \coloneq E(\varphi\land\langle\geq\rangle\psi)$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\langle\geq\rangle\psi)$
+      2. $\varphi\geq^{\exists\exists}\psi \coloneq E(\varphi\land\langle\geq\rangle\psi)$
+    step2: |-
+      1. $\varphi\geq^{\forall\exists}\psi \coloneq U(\varphi\rightarrow\langle\geq\rangle\psi)$
+      2. $\varphi\geq^{\exists\exists}\psi \coloneq E(\varphi\land\langle\geq\rangle\psi)$
   - id: 111
     kind: body
     source: |-
