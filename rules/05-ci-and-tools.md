@@ -15,7 +15,8 @@
 | `check-images.yml` | 图片引用检查（悬空、可解析、本地化） | push |
 | `links.yml` | 链接检查 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
 | `md-padding.yml`、`AutoCorrect.yml` | 手动触发，自动补 CJK 空格并以 PR 提交，合并前人工核对 diff | 手动 |
-| `Auto-Assign.yml`、`GC.yml`、`create-pdf.yml` | issue/PR 自动分配、垃圾回收、PDF 导出 | 各自约定 |
+| `Auto-Assign.yml`、`GC.yml` | issue/PR 自动分配、垃圾回收 | 各自约定 |
+| `create-pdf.yml` | 手动导出本项目中文 PDF/EPUB（gitbook-pdf-export 工具只读使用；可按首字母分批，全量约 2600 词条）；产物仅上传运行工件，**不写 tag/Release/外部仓库**（2026-11-04 重写，D20） | workflow_dispatch |
 
 * 不要新增与上述约定冲突的本地规则；需要新检查时先改 `tools/` 并在此登记。
 * CI 红灯定位：打开 `checks.yml` 的第一个失败 step，按上表同名工具在本地用相同命令复现（如 `python tools/check_summary.py`）；各工具退出码语义见其 docstring，不按文字推断。

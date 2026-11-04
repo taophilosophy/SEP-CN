@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-03 21:10（UTC）
+生成时间：2026-11-04 16:04（UTC）
 
 ## 总览
 
@@ -12,24 +12,23 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|997|
-|已完成（done）|78|
-|在途（drafted 起、done 前）|283|
+|已建任务|995|
+|例行/维护任务（不计状态机）|2|
+|已完成（done）|79|
+|在途（drafted 起、done 前）|281|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|636|
-|cleared|202|
+|pending|635|
+|cleared|200|
 |drafted|2|
 |s1_checked|1|
-|s3_checked|72|
+|s3_checked|74|
 |r1_reviewed|4|
-|done|78|
-|checked（非标准状态）|1|
-|round1_augmented（非标准状态）|1|
+|done|79|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -37,7 +36,7 @@
 |---|---|---|---|---|
 |A|160|160|160|35|
 |B|62|62|62|0|
-|C|172|172|173|0|
+|C|172|172|172|0|
 |D|92|92|92|6|
 |E|99|99|99|0|
 |F|96|96|96|0|
@@ -45,7 +44,7 @@
 |H|61|61|61|6|
 |I|75|75|75|18|
 |J|38|38|38|4|
-|K|36|36|36|6|
+|K|36|36|36|7|
 |L|144|144|19|0|
 |M|139|139|9|0|
 |N|50|50|2|0|
@@ -55,7 +54,7 @@
 |R|85|85|8|2|
 |S|161|161|6|1|
 |T|71|71|2|0|
-|U|4|4|1|0|
+|U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|3|0|
 |X|3|3|0|0|
@@ -164,7 +163,6 @@
 |childhood|retranslate|s3_checked|主代理 2026-11-01|
 |children|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-medicine|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|ci-hui-biao|glossary-maintenance|round1_augmented|zcode-词汇表复核 2026-10-27|
 |cockburn|retranslate|s3_checked|主代理 2026-11-01|
 |cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
@@ -196,7 +194,7 @@
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
 |duhem|retranslate|cleared|task_ops 2026-11-01|
-|economic-democracy|retranslate|cleared|task_ops 2026-11-01|
+|economic-democracy|retranslate|s3_checked|? 2026-11-04|
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |elias|retranslate|s3_checked|main 2026-11-01|
 |elisabeth-bohemia|retranslate|s3_checked|main 2026-11-01|
@@ -310,7 +308,6 @@
 |kant-hume-causality|retranslate|cleared|task_ops 2026-11-01|
 |kant-hume-morality|retranslate|cleared|task_ops 2026-11-01|
 |kant-judgment|retranslate|cleared|task_ops 2026-11-01|
-|kant-leibniz|retranslate|cleared|task_ops 2026-11-01|
 |kant-metaphysics|retranslate|cleared|task_ops 2026-11-01|
 |kant-mind|retranslate|cleared|task_ops 2026-11-01|
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
@@ -336,6 +333,7 @@
 |lady-masham|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |lakatos|retranslate|cleared|task_ops 2026-11-03|
 |lambert-auxerre|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
+|landmann-kalischer|retranslate|cleared|task_ops 2026-11-04|
 |law-ideology|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |lawphil-theory|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |legrand|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
@@ -345,7 +343,6 @@
 |leibniz-mind|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |leibniz-modal|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|lorenzo-valla|retranslate|cleared|task_ops 2026-11-03|
+|lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |reasoning-analogy|retranslate|cleared|task_ops 2026-11-03|
-|update-drift-check-2026-11-02|daily-check|checked|daily-routine 2026-11-02|

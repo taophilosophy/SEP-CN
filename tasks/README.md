@@ -6,6 +6,8 @@
 
 * 一词条一文件：`tasks/<slug 首字母>/<slug>.json`，slug 为 SEP 词条标识（如 `tasks/a/alcmaeon.json`）。
 * 例外：`tasks/term-candidates.json` 为 **术语候选清单** （词汇表复核流程的中间记录，无 slug/state），不属于文档任务；`tools/progress.py` 统计时自动跳过。
+* 例外：`tasks/term-pool.json` 为 **术语工作池** 数据文件（`tools/term_harvest.py`、`term_flow.py`、`cnki_query.py` 硬编码路径读取），非任务记录，不迁移。
+* 例外：`tasks/ci-hui-biao.json` 为 **词汇表维护任务** （kind=glossary-maintenance），历史路径被 fang-fa-lun 文档引用，豁免字母目录规则；例行任务（kind=daily-check，zh_doc 为空）同属非词条任务，`progress.py` 与 `check_academic.py` 按此豁免、不计入词条状态机（2026-11-04 登记，D22）。
 * 翻译账本：`tasks/<slug 首字母>/<slug>.ledger.yaml`（LLM 辅助初译的段落账本，[ADR-0021](../rules/adr/0021-LLM辅助初译协议.md)；格式见 `specs/005-translation-campaign/fan-yi-mu-ban.md` §6）。由执行会话随 draft 创建并入库；`task_ops.py`、`progress.py` 按 `*.json` 寻址，不读取账本。
 * 文件由 `tools/task_ops.py` 创建与推进，**不要手改状态字段**；`evidence` 等叙述字段可由执行会话补写。
 * 任务开工前，`evidence` 首条写方向声明（意图复述、目标/非目标、验收判据）；缺失视为未立项（`rules/08-intent-first.md`，宪法 VII）。

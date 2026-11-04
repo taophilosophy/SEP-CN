@@ -13,19 +13,17 @@ jobs:
         - name: Checkout from repository
           uses: actions/checkout@v7
         
-        - name: Setup Node.js
-          uses: actions/setup-node@v7
-          with:
-            node-version: '24'
-          
-        - name: Install nodejs dependencies
-          run: yarn add autocorrect-node
-        
+        - name: Setup Bun
+          uses: oven-sh/setup-bun@v2
+
+        - name: Install autocorrect（--no-save 不写入 package.json/bun.lock）
+          run: bun install --no-save autocorrect-node
+
         - name: Run autocorrect lint
-          run: yarn autocorrect --config .github/.autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
-          
+          run: bun run autocorrect --config .github/.autocorrectrc --lint --no-diff-bg-color **/*.md  || true
+
         - name: Run autocorrect fix
-          run: yarn autocorrect --config .github/.autocorrectrc --fix **/*.md
+          run: bun run autocorrect --config .github/.autocorrectrc --fix **/*.md
 
         - name: Markdown add spaces
           uses: peter-evans/create-pull-request@v8

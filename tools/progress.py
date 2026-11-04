@@ -91,6 +91,17 @@ def main():
     baseline = load_baseline()
     tasks = load_tasks()
 
+    # 例行/维护任务（非词条绑定：zh_doc 为空、glossary-maintenance 等）不跟词条
+    # 状态机，单独计数，不计入在途/阻塞（2026-11-04，D9；与 check_academic 豁免同族）
+    entry_tasks, routine = [], []
+    for t in tasks:
+        if (not str(t.get('zh_doc') or '').strip()
+                or str(t.get('kind') or '') == 'glossary-maintenance'):
+            routine.append(t)
+        else:
+            entry_tasks.append(t)
+    tasks = entry_tasks
+
     states = Counter(t.get('state', '?') for t in tasks)
     done = [t for t in tasks if t.get('state') == 'done']
     wip = [t for t in tasks if t.get('state') not in ('pending', 'done')]
@@ -113,6 +124,7 @@ def main():
         '|占位母词条（* 前缀，不建任务）|%d|' % sum(v[2] for v in per_letter.values()),
         '|已建英文基线|%d|' % len(baseline),
         '|已建任务|%d|' % len(tasks),
+        '|例行/维护任务（不计状态机）|%d|' % len(routine),
         '|已完成（done）|%d|' % len(done),
         '|在途（drafted 起、done 前）|%d|' % len(wip),
         '|阻塞|%d|' % len(blocked),

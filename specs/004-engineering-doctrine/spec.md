@@ -20,26 +20,26 @@
 | D1 | 正文翻译三审三校零实跑→**已破零（2026-10-28）**：done=1（spacetime-holearg 空穴论证演示件，六道审阅全过）；批量翻译待阶段 A checklist 验收解锁（**偿还计划见 specs/005-translation-campaign**） | 项目主目标开工、进度 0.1% | 1877 词条待译（done 1/1878） | P0 |
 | D2 | en/ 原始物仅存本地 → 2026-10-27 **显式豁免**（用户裁定：不备份，禁止任何备份文件，项目由 git 管理；en/ 原始物为可再生抓取物，重抓即恢复） | 已接受的风险 | en/ 约 3998 文件 | ✅ 豁免 |
 | D3 | ~~74 条上游增量未接入~~ **✅ 已解除（2026-10-28）**：71 条补遗 intake 接入（apply-add 闭环，提交 1691cd9e）+ 3 条并行会话处置，缺口 74→0；71 个 retranslate 任务建立（转入 D1 主攻） | SUMMARY 与官方目录缺口闭合 | 0/74 待接入 | ✅ 已解除 |
-| D4 | 24 个派生 slug + 137 个导航节点待人工裁定 | 镜像路径不确定、目录导航节点无条目页 | rebuild-review.json；已个例裁定 aristotelianism-renaissance 等（specs/001 执行日志），整体待清 | P1 |
+| D4 | 24 个派生 slug + 137 个导航节点待人工裁定 | 镜像路径不确定、目录导航节点无条目页 | `specs/001-sep-sync-pipeline/dir-rebuild/rebuild-review.json`；已个例裁定 aristotelianism-renaissance 等（specs/001 执行日志），整体待清 | P1 |
 | D5 | ~~baseline zh_doc 对 72 条 baseline 独有条目仍是旧拼音路径~~ **✅ 已解除（2026-10-28）**：intake apply-add 闭环重写 zh_doc；实测 1878 条 zh_doc 全部为字母目录形态、异常 0（nominalism-metaphysics 存档版 zh_doc=None 属存档词条固有，非路径漂移） | 版本钉链恢复 | 异常 0/1878 | ✅ 已解除 |
 | D6 | ~~yuanwen.py（660 行最复杂转换器）无直接单测~~ **✅ 已解除（2026-10-28）**：tools/tests/test_yuanwen.py 17 项直接单测（公式实体、脚注锚点、嵌套表格、跨块 display math、图题、PDF 注释剥离），随管线单元测试门禁全绿 | 保真判据双层化（金样本断言 + 全量 check_math） | 17 项专项测试 | ✅ 已解除 |
 | D7 | mu-lu-s 手编分类单点维护、无自动分类辅助 | 每次新增条目累积分类缺口（2026-10-28 实测 73 条正式条目：原 21 + intake 新条目） | 1817 行 | P2 |
-| D8 | VitePress 双语站未在新结构下构建验证 | 发布链路未验证 | config.mts/theme 大改后未跑 | P2 |
-| D9 | tasks 非标准状态（round1_augmented、演练复位）不在状态机枚举 | progress.py 报"非标准状态" | 2 个任务 | P2 |
+| D8 | ~~VitePress 双语站未在新结构下构建验证~~ **✅ 已解除（2026-10-30）**：全量 build 实证（636s、dist 1001MB、sitemap 4330 条、按字母侧栏；后续主题增量随常规构建复验） | 发布链路已验证 | — | ✅ 已解除 |
+| D9 | ~~tasks 非标准状态（round1_augmented、演练复位）不在状态机枚举~~ **✅ 已解除（2026-11-04）**：progress.py 例行/维护任务（zh_doc 空、glossary-maintenance）不计状态机、单独计数（"演练复位"任务已不存在，现存例行 2 个） | 统计口径干净 | — | ✅ 已解除 |
 | D10 | 无版本标签机制（G5 缺口）→ 2026-10-27 已补：里程碑 tag `v2026.10.27-目录重建定型` | 发布/回退有锚点 | tag 机制就位 | ✅ 已解除 |
 | D11 | compare.py 移动节判定粗（仅"同标题异锚"） | 移动类变更可能误报为增删 | — | P3 |
 | D12 | specs/001 网站结构事实基础（2026-10-26 抽样）已过时 | 规格领域事实与现结构漂移 | 部分 | P3 |
-| D13 | package.json / node_modules 未在治理层登记（07-delivery 编码卫生） | 依赖无 lockfile 治理 | VitePress | P3 |
+| D13 | ~~package.json / node_modules 未在治理层登记~~ **✅ 已解除（2026-10-31）**：ADR-0014 bun 三件套落地，bun.lock 入库 | 依赖 lockfile 治理就位 | — | ✅ 已解除 |
 | D14 | ~~yuanwen 脚注定义名错位~~ **✅ 已解除（2026-10-28）**：convert_notes 改按注段锚点 id（`<div id="note-N">` 或回链 `<a id="note-N">`）切段取名，1727 条全量重转换后引用-定义零悬空 | 脚注跳转恢复 | 原 646 文件 / 3931 引用 | ✅ 已解除 |
 | D15 | ~~yuanwen 图片接线缺失~~ **✅ 已解除（2026-10-28）**：inline `<img>` 一律接线 `![](../assets/<slug>/…)`（含标签的伪公式护栏另见 D16）；路径统一 `../assets/`（ADR-0010）；资产复制过滤为图片类（local.js 历史误复制清除）；227 缺失目录随全量重转换补齐 | 图片全量可见、引用可解析 | 原 10019 图 / 227 目录缺 | ✅ 已解除 |
 | D16 | ~~yuanwen.py 块游走器吞章~~ **✅ 已解除（2026-10-28）**：真因为上游漏写 `</p>` 时深度配对永不归零（非 toc div 配平问题），`_find_close` 对 p 采用隐式闭合语义（`</p>`/`</li>`/下一块级开标签即闭合）；公式保护加护栏（含 HTML 标签或超界的未配对定界符不暂存，typelogical 40KB 吞段根因）；63 补充材料缺件随重转换补齐 | 正文完整性恢复（aquinas §2–13 等回位） | 原 19+63 文件 | ✅ 已解除 |
-| D17 | 上游双重转义实体（`&amp;rsquo;` 等）随转带入 md | 上游编辑噪声，忠实带过 | 26 文件 | P3 |
+| D17 | 上游双重转义实体（`&amp;rsquo;` 等）随转带入 md **显式豁免（2026-11-04）**：口径已定为忠实带过（零信任，不代上游清洗） | 已接受 | 26 文件 | ✅ 豁免 |
 | D18 | yuanwen 侧镜像占位（未抓取词条）**裁定保留（2026-10-28）**：维持 yuanwen/SUMMARY.md 链接可解析；占位仅允许对无 baseline 实体的 slug 存在，覆盖实体件的事故（18thGerman）已修复并重转换；2 个无 zh 对应孤儿已删 | 口径已定：保留 + 禁覆盖实体件 | 134 个 | ✅ 已解除 |
-| D19 | `AutoCorrect.yml` 仍用 yarn 全局安装（ADR-0014 已统一 bun：md-padding 已迁移，此流遗漏） | 工具链双轨、与 ADR-0014 冲突 | 1 个工作流 | P2 |
-| D20 | `create-pdf.yml` 检出第三方仓库 `FreeBSD-Ask/gitbook-pdf-export` 并向其 push tag / 发 Release（手动触发即写外部仓库） | 误触即污染他人仓库 | 1 个工作流 | P1 |
-| D21 | 根级 `sm.xml` 实为上游 404 页面快照（`<title>Document Not Found</title>`），已入库 | 仓库杂物、易被误认为站点地图 | 1 文件 | P3 |
-| D22 | `tasks/` 根级非字母目录 JSON：`ci-hui-biao.json`（kind=glossary-maintenance）按路径规则（`tasks/<首字母>/<slug>.json`）不被 `task_ops` 读取；`term-candidates.json`、`term-pool.json` 为术语工作池，未登记归属 | 任务操作对根级记录不可见 | 3 文件 | P2 |
-| D23 | 许可证二义：README/package.json/CONTRIBUTING 为 BSD-2-Clause，`qian-yan/ban-quan-shuo-ming.md` 写 BSD-3-Clause | 发布许可表述不一致 | 1 处 | P2 |
+| D19 | ~~`AutoCorrect.yml` 仍用 yarn 全局安装~~ **✅ 已解除（2026-11-04）**：迁 bun（install --no-save + bun run，与 md-padding 同模式），工具链单轨 | — | — | ✅ 已解除 |
+| D20 | ~~`create-pdf.yml` 检出第三方仓库并向其 push tag / 发 Release~~ **✅ 已解除（2026-11-04）**：重写为本项目中文导出（SUMMARY 即中文目录，可按首字母分批），产物仅上传运行工件，零 tag/Release/外部写 | 无外部副作用 | — | ✅ 已解除 |
+| D21 | ~~根级 `sm.xml` 实为上游 404 页面快照~~ **✅ 已解除（2026-11-04）**：git rm | — | — | ✅ 已解除 |
+| D22 | ~~`tasks/` 根级非字母目录 JSON 未登记归属~~ **✅ 已解除（2026-11-04）**：tasks/README 登记三类根级文件（term-pool/term-candidates=工具硬编码数据文件不迁移；ci-hui-biao=维护任务豁免字母路径）；progress.py/check_academic 例行任务豁免同族 | 归属已登记、统计口径干净 | — | ✅ 已解除 |
+| D23 | ~~许可证二义~~ **✅ 已解除（2026-11-04）**：用户裁定 BSD-2-Clause，版权说明页对齐 package.json/README/CONTRIBUTING | 表述一致 | — | ✅ 已解除 |
 
 ## 三、Doctrine 落地路线（不计成本建议）
 

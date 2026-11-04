@@ -1,50 +1,46 @@
-name: 🔗 创建并发布 PDF
+name: 📄 导出本项目中文 PDF/EPUB
 
 on:
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:  # 手动触发；不写任何外部仓库、不打 tag、不发 Release，产物从本次运行工件下载
+    inputs:
+      letters:
+        description: '只导出指定首字母区的词条（逗号分隔，如 a,b,c；留空=全部）'
+        required: false
+        default: ''
+
+# 大导出耗时长，防重叠运行
+concurrency:
+  group: pdf-export
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
 
     steps:
       # ================= 字体安装部分 =================
-      - name: 安装字体
+      - name: 安装中文字体
         run: |
           sudo apt-get update
           sudo apt-get install -y ttf-wqy-microhei ttf-wqy-zenhei fonts-noto-core fonts-noto-cjk
-          
-      - name: 设置时区    
+
+      - name: 设置时区
         run: |
           sudo timedatectl set-timezone Asia/Shanghai
           timedatectl
 
       # ================= 仓库检出部分 =================
-      - name: 检出 FreeBSD-Ask 主仓库
+      - name: 检出本项目
         uses: actions/checkout@v7
         with:
-          path: FreeBSD-Ask
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          path: sep-cn
 
-      - name: 检出 gitbook-pdf-export 工具
+      - name: 检出 gitbook-pdf-export 工具（只读使用，不回写）
         uses: actions/checkout@v7
         with:
           repository: FreeBSD-Ask/gitbook-pdf-export
           path: pdf-generator
-
-      # ================= 初始化标签检查 =================
-      - name: 检查或创建初始标签
-        working-directory: FreeBSD-Ask
-        run: |
-          timedatectl
-          if ! git describe --tags --abbrev=0 2>/dev/null; then
-            echo "创建初始标签 v0.0.0"
-            git config --global user.email "actions@github.com"
-            git config --global user.name "GitHub Actions"
-            git tag v0.0.0
-            git push origin v0.0.0
-          fi
 
       # ================= 环境配置部分 =================
       - name: 设置 Python 环境
@@ -60,78 +56,51 @@ jobs:
             libpangocairo-1.0-0
           pip install weasyprint mistune pygments EbookLib beautifulsoup4
 
+      # ================= 导出范围过滤（可选） =================
+      # 全量约 2600+ 词条，weasyprint 内存压力大；可按首字母分批导出。
+      # 仅保留：节标题等非链接行、非 a-z 单字母目录的前置节（qian-yan/ 等）
+      # 与所选字母的词条行。
+      - name: 按首字母过滤 SUMMARY（留空则全量）
+        if: ${{ inputs.letters != '' }}
+        run: |
+          python - <<'PY'
+          import re
+          letters = {c.strip().lower() for c in "${{ inputs.letters }}".split(',') if c.strip()}
+          assert letters, 'letters 输入为空'
+          link = re.compile(r'\]\(([^)#]+)')
+          with open('sep-cn/SUMMARY.md', encoding='utf-8') as f:
+              src = f.readlines()
+          out = []
+          for line in src:
+              m = link.search(line)
+              if m:
+                  seg = m.group(1).strip().split('/')[0]
+                  # 非 a-z 单字母目录（qian-yan/ 等）前置节一律保留
+                  if len(seg) == 1 and seg.isascii() and seg.isalpha() and seg not in letters:
+                      continue
+              out.append(line)
+          with open('sep-cn/SUMMARY.md', 'w', encoding='utf-8') as f:
+              f.writelines(out)
+          print('过滤后保留行数：%d' % len(out))
+          PY
+
       # ================= PDF 生成部分 =================
-      - name: 生成 PDF 文档
+      - name: 生成 PDF/EPUB
         run: |
           cd pdf-generator
-          python mdconv.py ../FreeBSD-Ask
-          mv build/final.pdf build/$(date +'%Y.%m.%d').pdf
-          mv build/final.epub build/$(date +'%Y.%m.%d').epub
+          python mdconv.py ../sep-cn
+          mv build/final.pdf build/SEP-CN-zh-$(date +'%Y.%m.%d').pdf
+          mv build/final.epub build/SEP-CN-zh-$(date +'%Y.%m.%d').epub
         env:
           PYTHONPATH: ${{ github.workspace }}/pdf-generator
 
-      # ================= 发布流程部分 =================
-      - name: 设置发布日期标签
-        id: set_tag
-        run: echo "RELEASE_TAG=$(date +'%Y.%m.%d')" >> $GITHUB_ENV
-
-      - name: 获取前一个标签
-        working-directory: FreeBSD-Ask
-        run: |
-          timedatectl
-          git fetch --tags --force
-          PREVIOUS_TAG=$(git describe --tags --abbrev=0)
-          echo "PREVIOUS_TAG=$PREVIOUS_TAG" >> $GITHUB_ENV
-
-      - name: 创建 Git 标签
-        working-directory: FreeBSD-Ask
-        run: |
-          timedatectl
-          git config --global user.email "yklaxds@gmail.com"
-          git config --global user.name "ykla"
-          git tag ${{ env.RELEASE_TAG }}
-          git push origin ${{ env.RELEASE_TAG }}
-
-      - name: 生成增量变更日志
-        uses: janheinrichmerker/action-github-changelog-generator@v2.4
+      # ================= 产物上传（不创建 Tag/Release） =================
+      - name: 上传运行工件
+        uses: actions/upload-artifact@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          sinceTag: ${{ env.PREVIOUS_TAG }}
-          user: FreeBSD-Ask
-          repo: LifeWithUnix
-
-      - name: 读取变更日志内容
-        id: read_changelog
-        run: |
-          timedatectl
-          CHANGES=$(cat CHANGELOG.md)
-          echo "CHANGES_CONTENT<<EOF" >> $GITHUB_ENV
-          echo "$CHANGES" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
-
-      - name: 创建 GitHub Release
-        uses: ncipollo/release-action@v1
-        with:
-          tag: ${{ env.RELEASE_TAG }}
-          name: ${{ env.RELEASE_TAG }}
-          artifacts: |
-            pdf-generator/build/${{ env.RELEASE_TAG }}.pdf
-            pdf-generator/build/${{ env.RELEASE_TAG }}.epub
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: 更新 Release 说明
-        uses: actions/github-script@v9
-        with:
-          script: |
-            const release = await github.rest.repos.getReleaseByTag({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              tag: process.env.RELEASE_TAG
-            });
-            
-            await github.rest.repos.updateRelease({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              release_id: release.data.id,
-              body: process.env.CHANGES_CONTENT
-            });
+          name: SEP-CN-zh-${{ github.run_id }}
+          path: |
+            pdf-generator/build/*.pdf
+            pdf-generator/build/*.epub
+          retention-days: 30
+          if-no-files-found: error
