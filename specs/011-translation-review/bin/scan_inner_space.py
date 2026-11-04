@@ -15,8 +15,9 @@ os.chdir(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..
 
 
 def scan_line(line):
-    """返回该行的内侧空格违例数。"""
-    seg = re.sub(r"`[^`]*`", "C", line)  # 与 locate 同口径：原行（仅剥行内代码）
+    """返回该行的内侧空格违例数。数学/行内代码等长占位（保 offset）。"""
+    seg = re.sub(r"\$\$[^$]*\$\$|\$[^$\n]*?\$", lambda m: "M" * len(m.group(0)), line)
+    seg = re.sub(r"`[^`]*`", lambda m: "C" * len(m.group(0)), seg)
     i, n = 0, len(seg)
     stack = []
     bad = 0
@@ -56,9 +57,10 @@ def scan_line(line):
 def locate_bad_pairs(line):
     """栈解析定位违例粗体对在原行中的 (start, end) 区间（end 含闭 **）。
 
-    直接在原行定位（数学内星号罕见；剥数学会使 offset 与原行错位）。
+    数学/行内代码等长占位剥离（保 offset，跨数学星号误配免疫）。
     """
-    seg = re.sub(r"`[^`]*`", "C", line)
+    seg = re.sub(r"\$\$[^$]*\$\$|\$[^$\n]*?\$", lambda m: "M" * len(m.group(0)), line)
+    seg = re.sub(r"`[^`]*`", lambda m: "C" * len(m.group(0)), seg)
     i, n = 0, len(seg)
     stack = []
     bad = []
