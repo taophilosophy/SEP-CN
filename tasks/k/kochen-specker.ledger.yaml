@@ -1,175 +1,225 @@
 version: 1
 slug: kochen-specker
-params:
-  model: "GLM-5.3-Flash（ZCode 主会话直译）"
-  temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
 segments:
   - id: 1
     kind: body
     source: |-
       The Kochen-Specker theorem is an important and subtle topic in the foundations of quantum mechanics (QM). The theorem demonstrates the impossibility of a certain type of interpretation of QM in terms of hidden variables (HV) that naturally suggests itself when one begins to consider the project of interpretating QM.We here present the theorem/argument and the foundational discussion surrounding it at different levels. The reader looking for a quick overview should read the following sections and subsections: 1, 2, 3.1, 3.2, 4, and 6. Those who read the whole entry will find proofs of some non-trivial claims in supplementary documents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Kochen-Specker 定理是量子力学（QM）基础中一个重要而精微的主题。该定理证明了：当人们开始思考解释 QM 的方案时，一种自然会浮现的隐变量（HV）型解释是不可能的。我们在这里分不同层次呈现该定理/论证及围绕它的基础讨论。想快速概览的读者应读以下节与小节：1、2、3.1、3.2、4 与 6。通读全词条的读者将在补充文档中找到一些非平凡主张的证明。
+    step2: |-
+      Kochen-Specker 定理是量子力学（QM）基础中一个重要而精微的主题。该定理证明了一类隐变量（HV）型 QM 解释的不可能——当人们开始思考解释 QM 的方案时，这类解释会自然浮现。本文分不同层次呈现该定理/论证及其基础讨论：想快速概览的读者应读第 1、2、3.1、3.2、4、6 节；通读全词条的读者可在补充文档中找到若干非平凡主张的证明。
   - id: 2
     kind: body
     source: |-
       ## 1. Introduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 导言
+    step2: |-
+      ## 1 导言
   - id: 3
     kind: body
     source: |-
       QM has the peculiar property that quantum-mechanical states imply, in general, only statistical restrictions on the results of measurements. The natural conclusion to be drawn is that these states are incomplete descriptions of quantum systems. QM, thus, would be incomplete in the sense that a typical QM state description of an individual system could be supplemented with a more complete description in terms of an HV theory. In an HV description of the system the QM probabilities would be naturally interpreted as epistemic probabilities of the sort that arise in ordinary statistical mechanics. Such an HV description might not be practically useful, but one is tempted to think that it should at least be possible in principle. There are, however, two powerful theorems to the effect that such a description is subject to severe constraints: QM, given certain at least prima facie plausible premises, cannot be supplemented by an HV theory. The more famous of these two theorems is Bell’s theorem which states that, given a premise of locality, an HV model cannot match the statistical predictions of QM. The second important no-go theorem against HV theories is the theorem of Kochen and Specker (KS) which states that, given a premise of noncontextuality (to be explained presently) certain sets of QM observables cannot consistently be assigned values at all (even before the question of their statistical distributions arises).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      QM 有一个奇特的性质：量子力学态对测量结果一般只给出统计性限制。由此自然得出的结论是：这些态是量子系统的不完整描述。这样，QM 就是不完整的——一个个体系统的典型 QM 态描述，可以由一种以 HV 理论的形式给出的更完整描述所补充。在系统的 HV 描述中，QM 概率将被自然地解释为普通统计力学中出现的那类认识论概率。这样一种 HV 描述或许没有实际用处，但人们忍不住会想：它至少在原则上应当是可能的。然而，有两条强有力的定理表明：这样的描述受到严格约束——在给定至少初看可信的前提时，QM 不能由 HV 理论补充。这两条定理中更有名的是贝尔定理：给定局域性前提，HV 模型无法匹配 QM 的统计预测。第二条反对 HV 理论的重要不可行定理是 Kochen 与 Specker 的定理（KS）：给定非语境性前提（稍后解释），某些 QM 可观察量集合根本无法被一致地赋值（甚至在它们统计分布的问题出现之前）。
+    step2: |-
+      QM 有一个奇特性质：量子态对测量结果一般只给统计性限制。由此自然得出：这些态是量子系统的不完整描述——QM 因此不完整：个体系统的典型 QM 态描述，可以由一个以 HV 理论形式给出的更完整描述补充。在系统的 HV 描述中，QM 概率将被自然地解释为普通统计力学中出现的那类认识论概率。这样的 HV 描述或许没有实际用处，但人们忍不住想：它至少原则上应当可能。然而有两条强定理表明：这样的描述受到严格约束——给定至少初看可信的前提，QM 不能由 HV 理论补充。更有名的是贝尔定理：给定局域性前提，HV 模型无法匹配 QM 的统计预测。第二条反对 HV 理论的重要不可行定理是 Kochen 与 Specker 定理（KS）：给定非语境性前提（稍后解释），某些 QM 可观察量集合根本无法被一致赋值（甚至在统计分布问题出现之前）。
   - id: 4
     kind: body
     source: |-
       Before seeing the workings of the KS theorem in some detail, we must clarify why it is of importance to philosophers of science. The explicit premise of HV interpretations, as understood throughout below, is one of *value definiteness*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在详细看到 KS 定理的运作之前，我们必须澄清它为何对科学哲学重要。下文通篇理解的 HV 解释的显前提是*价值确定性*：
+    step2: |-
+      在详细看到 KS 定理的运作之前，须澄清它为何对科学哲学重要。下文通篇理解的 HV 解释的显前提是*价值确定性*：
   - id: 5
     kind: body
     source: |-
       > (VD) All observables defined for a QM system have definite values at all times.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (VD) 为 QM 系统定义的所有可观察量在一切时刻都有确定值。
+    step2: |-
+      > (VD) 为 QM 系统定义的所有可观察量在一切时刻都有确定值。
   - id: 6
     kind: body
     source: |-
       (Note that for Bohmian Mechanics often viewed as an HV interpretation of QM, this statement would have to be qualified.) [^note-1] VD is motivated by an apparently innocuous assumption about experimental results, which is reflected in the custom of referring to quantum experiments as "measurements," namely, that these experiments reveal vales that exist independently of being measured. (Note that we do not need to assume here that the values are faithfully revealed by measurement, but only that they exist!) This suggest a second, seemingly innocuous assumption, that of *noncontextuality*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （注意：对常被视为 QM 的 HV 解释的玻姆力学，这一陈述须加以限定。）[^note-1] VD 的动机是一个关于实验结果的、表面上无害的假定——它反映在把量子实验称为“测量”的习惯中：这些实验揭示的是独立于被测量而存在的值。（注意：我们在此不需要假定这些值被测量忠实地揭示，只需假定它们存在！）这提示了第二个、表面上同样无害的假定，即*非语境性*：
+    step2: |-
+      （注意：对常被视为 QM 之 HV 解释的玻姆力学，此陈述须加限定。）[^note-1] VD 的动机是一个关于实验结果的、表面上无害的假定——它反映在把量子实验称为“测量”的习惯中：这些实验揭示独立于被测量而存在的值（注意：我们在此不需假定值被测量忠实揭示，只需假定它们存在！）。这提示第二个同样表面无害的假定，即*非语境性*：
   - id: 7
     kind: body
     source: |-
       > (NC) If a QM system possesses a property (value of an observable), then it does so independently of any measurement context, i.e. independently of *how* that value is eventually measured.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (NC) 如果一个 QM 系统拥有一个性质（可观察量的值），那么它独立于任何测量语境而拥有它，即独立于该值*最终如何*被测量。
+    step2: |-
+      > (NC) 如果一个 QM 系统拥有一个性质（可观察量的值），那么它独立于任何测量语境而拥有它——即独立于该值*最终如何*被测量。
   - id: 8
     kind: body
     source: |-
       When applied to specific properties that can be measured in different incompatible measurements, NC says that these properties are the same in these different measurement situations.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当应用于可以在不同的不相容测量中被测量的特定性质时，NC 说：这些性质在这些不同的测量情形中是相同的。
+    step2: |-
+      当应用于可在不同不相容测量中测量的特定性质时，NC 说：这些性质在这些不同测量情形中是相同的。
   - id: 9
     kind: body
     source: |-
       Now, suppose we adopt the usual association of properties of a quantum system, that is, yes-no observables, and projection operators on the system’s Hilbert space.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，假设我们采纳通常的做法：把量子系统的性质（即是-否可观察量）与系统希尔伯特空间上的投影算符关联起来。
+    step2: |-
+      现在假设采纳通常的做法：把量子系统的性质（即是-否可观察量）与系统希尔伯特空间上的投影算符关联。
   - id: 10
     kind: body
     source: |-
       > (O) There is a one-one correspondence between properties of a quantum system and projection operators on the system’s Hilbert space
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (O) 量子系统的性质与系统希尔伯特空间上的投影算符之间存在一一对应。
+    step2: |-
+      > (O) 量子系统的性质与系统希尔伯特空间上的投影算符之间存在一一对应。
   - id: 11
     kind: body
     source: |-
       The KS theorem establishes a contradiction between VD + NC + O and QM; thus, acceptance of QM logically forces us to renounce either VD or NC or O.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 定理确立了 VD + NC + O 与 QM 之间的矛盾；因此，接受 QM 在逻辑上迫使我们放弃 VD、NC 或 O 之一。
+    step2: |-
+      KS 定理确立了 VD + NC + O 与 QM 之间的矛盾；因此接受 QM 在逻辑上迫使我们放弃 VD、NC 或 O 之一。
   - id: 12
     kind: body
     source: |-
       If a HV theory satisfying these conditions were feasible, we would have a natural explanation of the statistical character of QM, and an elegant way of resolving the infamous measurement problem haunting all interpreters of QM (see the entry on quantum mechanics and the section on the measurement problem in the entry on philosophical issues in quantum theory for details). What the KS theorem shows is that a HV theory of the most straightforward sort, satisfying these conditions, is not an option. The HV program is left with only options that violate one or more of these conditions; see entries on Bohmian mechanics and modal interpretations of quantum mechanics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果满足这些条件的 HV 理论是可行的，我们就会有一个对 QM 统计特征的自然解释，以及一个优雅地化解纠缠着所有 QM 解释者的著名测量问题的办法（细节见量子力学词条与量子理论的哲学问题词条的测量问题一节）。KS 定理表明的是：满足这些条件的、最直截了当的那种 HV 理论不是一个选项。HV 纲领只剩下违反这些条件之一的选项；见玻姆力学与量子力学的模态解释诸词条。
+    step2: |-
+      若满足这些条件的 HV 理论可行，我们就会有对 QM 统计特征的自然解释，以及一个优雅化解著名测量问题的办法——它纠缠着所有 QM 解释者（细节见量子力学词条与量子理论的哲学问题词条之测量问题一节）。KS 定理表明：满足这些条件的最直截了当的 HV 理论不是一个选项。HV 纲领只剩违反其中条件的选项；见玻姆力学与量子力学的模态解释诸词条。
   - id: 13
     kind: body
     source: |-
       ## 2. Background to the KS Theorem
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 KS 定理的背景
+    step2: |-
+      ## 2 KS 定理的背景
   - id: 14
     kind: body
     source: |-
       In the following, we will presuppose some familiarity with elementary QM notions like ‘state’, ‘observable’, ‘value’ and their mathematical representatives ‘vector’, ‘(self-adjoint) operator’ and ‘eigenvalue’ [see the entry on quantum mechanics for details]. We will usually identify the observables and the operators on an appropriate Hilbert space which represent them; if there is a need to distinguish operators and observables, we write the operators underlined and in boldface. (Thus an operator A represents an observable *A*.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在下文中，我们将预设读者对‘态’、‘可观察量’、‘值’等初等 QM 概念及其数学代表‘矢量’、‘（自伴）算符’与‘本征值’有一定熟悉［细节见量子力学词条］。我们通常把可观察量与在适当希尔伯特空间上表示它们的算符视为同一；如需区分算符与可观察量，算符以下划线加粗书写。（因此算符 A 表示可观察量 *A*。）
+    step2: |-
+      下文预设读者对‘态’‘可观察量’‘值’等初等 QM 概念及其数学代表（‘矢量’‘（自伴）算符’‘本征值’）有一定熟悉［细节见量子力学词条］。我们通常把可观察量与其希尔伯特空间上的算符视为同一；如需区分，算符以下划线加粗书写（因此算符 A 表示可观察量 *A*）。
   - id: 15
     kind: body
     source: |-
       The present section states some elements of the historical and systematic background of the KS theorem. Most importantly, an argument by von Neumann (1932), a theorem by Gleason (1957), and a critical discussion of both plus a later argument by Bell (1966) have to be considered. Von Neumann, in his famous 1932 book *Die mathematischen Grundlagen der Quantenmechanik*, disputed the possibility of providing QM with an HV underpinning. He gave an argument that boils down to the following: Consider the mathematical fact that, if A and B are self-adjoint operators, then any real linear combination of them (any C = αA + βB, where α, β are arbitrary real numbers) is also a self-adjoint operator. QM further dictates that:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节陈述 KS 定理的历史与系统背景的一些要素。最重要的是：冯·诺依曼（1932）的一个论证、格利森（1957）的一条定理、对两者的批判性讨论，以及贝尔（1966）稍后的一个论证，都必须加以考虑。冯·诺依曼在其 1932 年的名著《量子力学的数学基础》中否定为 QM 提供 HV 基础的可能性。他给出的论证可归结如下：考虑一个数学事实——如果 A 与 B 是自伴算符，则它们的任意实线性组合（任意 C = αA + βB，其中 α、β 为任意实数）也是自伴算符。QM 进一步规定：
+    step2: |-
+      本节陈述 KS 定理的历史与系统背景的若干要素。最重要的是：冯·诺依曼（1932）的一个论证、格利森（1957）的一条定理、对两者的批判讨论，以及贝尔（1966）稍后的一个论证。冯·诺依曼在 1932 年名著《量子力学的数学基础》中否定为 QM 提供 HV 基础的可能；其论证可归结为：若 A 与 B 是自伴算符，则其任意实线性组合（任意 C = αA + βB，α、β 为任意实数）也是自伴算符。QM 进一步规定：
   - id: 16
     kind: body
     source: |-
       1. If *A* and *B* (represented by self-adjoint operators A and B) are observables on a system, then there is an observable *C* (represented by self-adjoint operator C defined as before) on the same system.
       2. If, for any QM state, the expectation values of *A* and *B* are given by <*A*> and <*B*>, then the expectation value of *C* is given by <*C*>=α<*A*> + β<*B*>.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. 如果 *A* 与 *B*（由自伴算符 A 与 B 表示）是一个系统上的可观察量，那么同一系统上存在可观察量 *C*（由前述定义的自伴算符 C 表示）。
+      2. 如果对任意 QM 态，*A* 与 *B* 的期望值由 <*A*> 与 <*B*> 给出，则 *C* 的期望值由 <*C*>=α<*A*> + β<*B*> 给出。
+    step2: |-
+      1. 如果 *A* 与 *B*（由自伴算符 A 与 B 表示）是系统上的可观察量，则同一系统上存在可观察量 *C*（由前述定义的自伴算符 C 表示）。
+      2. 若对任意 QM 态，*A* 与 *B* 的期望值由 <*A*>、<*B*> 给出，则 *C* 的期望值由 <*C*>=α<*A*> + β<*B*> 给出。
   - id: 17
     kind: body
     source: |-
       Now consider *A*, *B*, *C*, as above, and assume they have definite values *v*(*A*), *v*(*B*), *v*(*C*). Consider a ‘hidden state’ *V* which determines *v*(*A*), *v*(*B*), *v*(*C*). We can then derive from *V* trivial ‘expectation values’ which are just the possessed values themselves: <*A*>_{*V*} = *v*(*A*), and so on.[^note-2] Of course, these ‘expectation values’ do not, in general, equal the QM ones: <*A*>_{*V*} ≠ <*A*> (we would indeed think of the latter as averages over the former for different hidden states *V*!). However, von Neumann requires that the <*A*>_{*V*}, like the <*A*>, conform to (2). This automatically entails that the values themselves must conform to a condition parallel to (2), i.e.:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在考虑如上的 *A*、*B*、*C*，并假定它们有确定值 *v*(*A*)、*v*(*B*)、*v*(*C*)。考虑一个决定 *v*(*A*)、*v*(*B*)、*v*(*C*) 的“隐态” *V*。于是我们可以从 *V* 推导出平凡的“期望值”——它们恰是所拥有的值本身：<*A*>_{*V*} = *v*(*A*)，等等。[^note-2] 当然，这些“期望值”一般不等于 QM 的那些：<*A*>_{*V*} ≠ <*A*>（我们确实会把后者想成是对不同隐态 *V* 的前者的平均！）。然而冯·诺依曼要求 <*A*>_{*V*} 像 <*A*> 一样满足 (2)。这自动蕴涵：值本身必须满足一个与 (2) 平行的条件，即：
+    step2: |-
+      现在考虑如上的 *A*、*B*、*C*，并假定它们有确定值 *v*(*A*)、*v*(*B*)、*v*(*C*)。考虑决定这些值的“隐态” *V*。于是可从 *V* 推导出平凡的“期望值”——恰是所拥有的值本身：<*A*>_{*V*} = *v*(*A*)，等等。[^note-2] 当然这些“期望值”一般不等于 QM 的那些：<*A*>_{*V*} ≠ <*A*>（我们确实会把后者想成对不同隐态 *V* 的前者的平均！）。然而冯·诺依曼要求 <*A*>_{*V*} 像 <*A*> 一样满足 (2)——这自动蕴涵：值本身必须满足一个与 (2) 平行的条件，即：
   - id: 18
     kind: body
     source: |-
       1. *v*(*C*) = α*v*(*A*) + β*v*(*B*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. *v*(*C*) = α*v*(*A*) + β*v*(*B*)。
+    step2: |-
+      1. *v*(*C*) = α*v*(*A*) + β*v*(*B*)。
   - id: 19
     kind: body
     source: |-
       This, however, is impossible, in general. An example very easily shows how (3) is violated, but because of its simplicity it also shows the argument’s inadequacy. (This example is not due to von Neumann himself, but to Bell![^note-3]) Let *A* = σₓ and *B* = σ_{y}, then operator *C* = (σₓ + σ_{y})/√2 corresponds to the observable of the spin component along the direction bisecting *x* and *y*. Now all spin components have (in suitable units) possible values ±1 only, thus, the HV proponent is forced to ascribe ±1 to *A*, *B*, *C* as values, and thus as ‘expectation values’. But (3) now obviously cannot be fulfilled, since ±1 ≠ (±1 + ±1)/√2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而这一般是不可能的。一个例子极容易表明 (3) 如何被违反；但正因其简单，它也暴露了论证的不足。（这个例子不是冯·诺依曼本人所举，而是贝尔！[^note-3]）令 *A* = σₓ、*B* = σ_{y}，则算符 *C* = (σₓ + σ_{y})/√2 对应于沿平分 *x* 与 *y* 的方向的自旋分量这一可观察量。现在所有自旋分量（在合适的单位下）的可能值只有 ±1，于是 HV 的拥护者被迫把 ±1 赋给 *A*、*B*、*C* 作为值，从而作为“期望值”。但 (3) 显然无法满足，因为 ±1 ≠ (±1 + ±1)/√2。
+    step2: |-
+      然而这一般不可能。一个例子极易表明 (3) 如何被违反；但正因其简单，它也暴露论证的不足（此例非冯·诺依曼所举，而是贝尔！[^note-3]）：令 *A* = σₓ、*B* = σ_{y}，则算符 *C* = (σₓ + σ_{y})/√2 对应沿平分 *x*、*y* 方向的自旋分量这一可观察量。所有自旋分量（在合适单位下）的可能值只有 ±1，于是 HV 拥护者被迫把 ±1 赋给 *A*、*B*、*C* 作为值，从而作为“期望值”；但 (3) 显然无法满足——±1 ≠ (±1 + ±1)/√2。
   - id: 20
     kind: body
     source: |-
       The example illustrates why von Neumann’s argument is unsatisfying. Nobody disputes the move from (2) to (3) for compatible observables, i.e. those which, according to QM, are jointly measurable in one arrangement. The above choice of *A*, *B*, *C*, however, is such that any two of them are incompatible, i.e. are not jointly observable. For these we will not want to require any HV interpretation to meet (3), but only (2). The hidden values need not conform with (3) in general, only the averages of their values in a series of tests must conform with (2). The authority of von Neumann’s argument comes from the fact that requirements (1) and (2), *for QM states*, are consequences of the QM formalism, but this does not in itself justify extending these requirements to the hypothetical *hidden states*. Indeed, if (3) were unrestrictedly true, this would nicely explain, in the presence of hidden values, why (2) is. Von Neumann apparently thought that the HV proponent is committed to this explanation, but this seems an implausible restriction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个例子说明了为什么冯·诺依曼的论证不令人满意。没有人争议从 (2) 到 (3) 的推移对于相容可观察量——即照 QM 的说法可以在一个装置中被联合测量的那些——的适用性。然而上面对 *A*、*B*、*C* 的选择是：其中任何两个都不相容，即不可联合测量。对它们，我们不会要求任何 HV 解释满足 (3)，而只要求满足 (2)。隐值一般不必与 (3) 一致；只有其值在一系列检验中的平均必须与 (2) 一致。冯·诺依曼论证的权威来自如下事实：要求 (1) 与 (2) *对 QM 态而言*是 QM 形式主义的推论；但这本身并不证明把这些要求扩展到假想的*隐态*是正当的。事实上，如果 (3) 无限制地为真，这将漂亮地解释（在隐值存在的情形下）为什么 (2) 为真。冯·诺依曼显然认为 HV 的拥护者承诺了这一解释，但这似乎是一个不合理的限制。
+    step2: |-
+      这个例子说明冯·诺依曼的论证为何不令人满意。没有人争议从 (2) 到 (3) 的推移对相容可观察量（照 QM 可在一个装置中联合测量者）的适用性；然而上面 *A*、*B*、*C* 的选择是：任何两个都不相容（不可联合测量）。对它们，我们不会要求任何 HV 解释满足 (3)，只要求 (2)。隐值一般不必与 (3) 一致；只有其值在一系列检验中的平均须与 (2) 一致。冯·诺依曼论证的权威来自：要求 (1) 与 (2) *对 QM 态而言*是 QM 形式主义的推论；但这本身不证明把要求扩展到假想的*隐态*正当。事实上若 (3) 无限制为真，这会漂亮地解释（在隐值存在情形下）(2) 为何为真。冯·诺依曼显然认为 HV 拥护者承诺这一解释；但这似是不合理的限制。
   - id: 21
     kind: body
     source: |-
       The KS theorem remedies this defect, and thus strengthens the case against HV theories insofar as it assumes (3) only for sets of observables {*A*, *B*, *C*} which are all mutually compatible. The theorem requires that only for compatible observables assumption (3) must hold.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 定理弥补了这一缺陷，从而加强了反对 HV 理论的论证：它只对全部彼此相容的可观察量集合 {*A*, *B*, *C*} 假定 (3)。该定理只要求对相容可观察量，假设 (3) 必须成立。
+    step2: |-
+      KS 定理弥补了这一缺陷，从而加强反对 HV 理论的论证：它只对全部彼此相容的可观察量集合 {*A*, *B*, *C*} 假定 (3)。定理只要求：对相容可观察量，假设 (3) 必须成立。
   - id: 22
     kind: body
     source: |-
       A second, independent line of thought leading to the KS theorem is provided by Gleason’s theorem (Gleason 1957)[^gleason-1957]. The theorem states that on a Hilbert space of dimension greater than or equal to 3, the only possible probability measures are the measures μ(*P*_{α}) = Tr(*P*_{α} *W*), where *P*_{α} is a projection operator, *W* is the statistical operator characterizing the system’s actual state and Tr is the trace operation.[^note-4] The *P*_{α} can be understood as representing yes-no observables, i.e. questions for whether a QM system ‘living’ in such a Hilbert space has a property α or not, and every possible property α is associated uniquely with a vector |α> in the space — so, the task is to unambiguously assign probabilities to all vectors in the space. Now, the QM measure μ is continuous, so Gleason’s theorem in effect proves *that every probability assignment to all the possible properties in a three-dimensional Hilbert space must be continuous*, i.e. must map all vectors in the space continuously into the interval [0, 1]. On the other hand, an HV theory (if characterized by VD + NC) would imply that of every property we can say whether the system has it or not. This yields a trivial probability function which maps all the *P*_{α} to either 1 or 0, and, provided that values 1 and 0 both occur (which follows trivially from interpreting the numbers as probabilities), this function must clearly be discontinuous (cf. Redhead 1987: 28)[^redhead-1987].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      引向 KS 定理的第二条独立思路由格利森定理提供（Gleason 1957）[^gleason-1957]。该定理陈述：在维度大于或等于 3 的希尔伯特空间上，唯一可能的概率测度是 μ(*P*_{α}) = Tr(*P*_{α} *W*)，其中 *P*_{α} 是投影算符，*W* 是刻画系统实际态的统计算符，Tr 是迹运算。[^note-4] *P*_{α} 可以被理解为表示是-否可观察量，即对“生活”在这样的希尔伯特空间中的 QM 系统是否具有性质 α 的问题的提问；而每一个可能的性质 α 都唯一地与空间中的一个矢量 |α> 相联——于是任务是无歧义地为空间中的所有矢量指派概率。现在，QM 测度 μ 是连续的，所以格利森定理实际上证明：*对三维希尔伯特空间中一切可能性质的概率指派必须是连续的*，即必须把空间中的所有矢量连续地映入区间 [0, 1]。另一方面，HV 理论（如果由 VD + NC 刻画）将蕴涵：对每一个性质我们都能说系统有它还是没有。这产生一个把所有 *P*_{α} 映到 1 或 0 的平凡概率函数；而只要值 1 与 0 都出现（这从把数字解释为概率平凡地得出），这个函数显然必须不连续（参 Redhead 1987: 28）[^redhead-1987]。
+    step2: |-
+      引向 KS 定理的第二条独立思路由格利森定理提供（Gleason 1957）[^gleason-1957]：在维度 ≥3 的希尔伯特空间上，唯一可能的概率测度是 μ(*P*_{α}) = Tr(*P*_{α} *W*)——*P*_{α} 是投影算符，*W* 是刻画系统实际态的统计算符，Tr 是迹运算。[^note-4] *P*_{α} 可理解为表示是-否可观察量：对“生活”在此希尔伯特空间中的 QM 系统是否具有性质 α 的提问；每个可能的性质 α 唯一对应空间中的矢量 |α>——任务是无歧义地为空间中所有矢量指派概率。QM 测度 μ 连续，故格利森定理实际证明：*对三维希尔伯特空间中一切可能性质的概率指派必须连续*——把空间中所有矢量连续地映入区间 [0, 1]。另一方面，HV 理论（若由 VD + NC 刻画）蕴涵：对每个性质都能说系统有或没有。这产生把所有 *P*_{α} 映到 1 或 0 的平凡概率函数；只要值 1 与 0 都出现（把数字解释为概率即可平凡得出），此函数显然必须不连续（参 Redhead 1987: 28）[^redhead-1987]。
   - id: 23
     kind: body
     source: |-
       The proof of Gleason’s theorem is notoriously intricate. It is notable, however, that this corollary of Gleason’s theorem can be obtained more directly via means much more elementary than those employed in Gleason’s proof. Bell (1982: 994, 1987: 164) credits J. M. Jauch with drawing his attention (in 1963) to Gleason’s theorem, and with pointing out that it implies the strengthening of von Neumann’s result, with the additivity requirement only for commuting observables. Bell then went on to prove the result in an elementary way, without use of Gleason’s proof (Bell 1966)[^bell-1966]. Unknown to Bell, Specker had already arrived at this result, alluded to (but not presented) in Specker (1960), as *ein elementargeometrisches Argument*.[^note-5] The argument was presented in Kochen and Specker (1967). Bell’s proof and the Kochen-Specker proof utilize similar constructions in 3-dimensional Hilbert space, though they differ in their details. Kochen and Specker go on to explicitly construct a finite set of projections that cannot be assigned values subject to the constraint that the additivity requirement (3) hold when *A* and *B* commute. Though Bell does not do so, one can readily obtain from Bell’s construction also a finite set of observables that cannot be assigned values subject to the additivity constraint for commuting observables (see Mermin 1993)[^mermin-1993].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      格利森定理的证明出了名地繁复。但值得注意的是：格利森定理的这一推论可以经由比格利森证明所用的手段初等得多的手段更直接地得到。贝尔（1982: 994, 1987: 164）把（1963 年）使她注意到格利森定理、并指出它蕴涵对冯·诺依曼结果——附加性要求只对可交换算符成立——之加强的功劳归于 J. M. 若赫。贝尔接着以初等方式证明了这一结果，未使用格利森的证明（Bell 1966）[^bell-1966]。贝尔不知道的是，斯佩克早已得出这一结果——在 Specker (1960) 中被暗示（但未呈示），作为*一个初等几何的论证*。[^note-5]该论证呈示于 Kochen and Specker (1967)。贝尔的证明与 Kochen-Specker 证明在三维希尔伯特空间中使用相似的构造，尽管细节不同。Kochen 与 Specker 接着明确构造了一个有限投影集——在要求附加性要求 (3) 当 *A* 与 *B* 可交换时成立的约束下，这些投影无法被赋值。虽然贝尔没有这样做，从贝尔的构造人们同样容易得到一个有限的、在可交换算符的附加性约束下无法被赋值的可观察量集合（见 Mermin 1993）[^mermin-1993]。
+    step2: |-
+      格利森定理的证明出了名地繁复。但值得注意的是：其这一推论可以经比格利森证明初等得多的手段更直接地得到。贝尔（1982: 994, 1987: 164）把功劳归于 J. M. 若赫：他（1963 年）使贝尔注意到格利森定理，并指出它蕴涵对冯·诺依曼结果的加强——附加性要求只对可交换算符成立。贝尔接着以初等方式证明这一结果（未用格利森的证明）（Bell 1966）[^bell-1966]。贝尔不知道的是：斯佩克早已得出这一结果——在 Specker (1960) 中被暗示（未呈示），作为*一个初等几何的论证*。[^note-5]该论证呈示于 Kochen and Specker (1967)。贝尔的证明与 Kochen-Specker 证明在三维希尔伯特空间使用相似构造，细节不同。Kochen 与 Specker 接着明确构造一个有限投影集——在要求附加性 (3) 当 *A* 与 *B* 可交换时成立的约束下，这些投影无法被赋值。贝尔虽未如此，从贝尔的构造同样容易得到一个有限的、在可交换算符附加性约束下无法赋值的可观察量集合（见 Mermin 1993）[^mermin-1993]。
   - id: 24
     kind: body
     source: |-
       After having offered his variant of the argument against HV theories from Gleason’s theorem, Bell proceeds to criticise it. His strategy parallels the one against von Neumann. Bell points out that his own Gleason-type argument against arbitrary closeness of two opposite-valued points presupposes non-trivial relations between values of non-commuting observables, which are only justified given an assumption of noncontextuality (NC). He proposes as an analysis of what went wrong that his own argument “tacitly assumed that measurement of an observable must yield the same value independently of what other measurements may be made simultaneously” (1966: 9). In opposition to von Neumann, the Gleason-type argument derives restrictions on value assignments like (3) only for sets of compatible observables; but still one and the same observable can be a member of different commuting sets, and it is essential to the arguments that the observable gets assigned the same value in both sets, i.e. that the value assignment is not sensitive to a context.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在给出他从格利森定理出发的反 HV 论证的变体之后，贝尔转而批评它。他的策略与他反对冯·诺依曼的策略平行。贝尔指出，他自己的格利森型论证——针对两个相反值的点可以任意接近——预设了非可交换可观察量的值之间的非平凡关系，而这些关系只有在非语境性（NC）假定下才有正当性。作为对何处出错的分析，他提出：他自己的论证“默认假定对一个可观察量的测量必定给出相同的值，而与同时可以做出什么其他测量无关”（1966: 9）。与冯·诺依曼相反，格利森型论证只对相容可观察量集合导出诸如 (3) 的值指派限制；但同一个可观察量仍然可以是不同交换集的成员，而这些论证的要害在于：该可观察量在两个集合中被赋予同一个值，即值指派不对语境敏感。
+    step2: |-
+      在给出从格利森定理出发的反 HV 论证变体之后，贝尔转而批评它——策略与其反对冯·诺依曼者平行。贝尔指出：他自己的格利森型论证（针对两个相反值的点可任意接近）预设非可交换可观察量的值之间的非平凡关系；这些关系只在非语境性（NC）假定下才有正当性。作为对何处出错的分析，他提出：他的论证“默认假定对一个可观察量的测量必定给出相同的值，而与同时可做出什么其他测量无关”（1966: 9）。与冯·诺依曼相反，格利森型论证只对相容可观察量集合导出如 (3) 的值指派限制；但同一个可观察量仍可以是不同交换集的成员，而这些论证的要害在于：它在两个集合中被赋同一个值——值指派不对语境敏感。
   - id: 25
     kind: body
     source: |-
       ## 3. Statement and Proof of the KS Theorem
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 KS 定理的陈述与证明
+    step2: |-
+      ## 3 KS 定理的陈述与证明
   - id: 26
     kind: body
     source: |-
       ### 3.1 Statement of the KS Theorem
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.1 KS 定理的陈述
+    step2: |-
+      ### 3.1 KS 定理的陈述
   - id: 27
     kind: body
     source: |-
       An explicit statement of the KS theorem runs thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 定理的明确陈述如下：
+    step2: |-
+      KS 定理的明确陈述如下：
   - id: 28
     kind: body
     source: |-
@@ -182,56 +232,90 @@ segments:
       > > (a) If *A*, *B*, *C* are all compatible and *C* = *A*+*B*, then *v*(*C*) = *v*(*A*)+*v*(*B*);
       > >
       > > (b) if *A*, *B*, *C* are all compatible and *C* = *A*·*B*, then *v*(*C*) = *v*(*A*)·*v*(*B*).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 设 H 是维度 *x* ≥ 3 的 QM 态矢量希尔伯特空间。存在 H 上的可观察量集合 *M*，含 *y* 个元素，使得以下两个假设相矛盾：
+      >
+      > (KS1) *M* 的全部 *y* 个成员同时有值，即无歧义地被映到实数（对可观察量 *A*、*B*、*C*……记为 *v*(*A*)、*v*(*B*)、*v*(*C*)……）。
+      >
+      > (KS2) M 中所有可观察量的值满足以下约束：
+      >
+      > > (a) 若 *A*、*B*、*C* 全部相容且 *C* = *A*+*B*，则 *v*(*C*) = *v*(*A*)+*v*(*B*)；
+      > >
+      > > (b) 若 *A*、*B*、*C* 全部相容且 *C* = *A*·*B*，则 *v*(*C*) = *v*(*A*)·*v*(*B*)。
+    step2: |-
+      > 设 H 是维度 *x* ≥ 3 的 QM 态矢量希尔伯特空间。存在 H 上的可观察量集合 *M*，含 *y* 个元素，使得以下两个假设相矛盾：
+      >
+      > (KS1) *M* 的全部 *y* 个成员同时有值——即无歧义地被映到实数（对可观察量 *A*、*B*、*C*……记为 *v*(*A*)、*v*(*B*)、*v*(*C*)……）。
+      >
+      > (KS2) M 中所有可观察量的值满足以下约束：
+      >
+      > > (a) 若 *A*、*B*、*C* 全部相容且 *C* = *A*+*B*，则 *v*(*C*) = *v*(*A*)+*v*(*B*)；
+      > >
+      > > (b) 若 *A*、*B*、*C* 全部相容且 *C* = *A*·*B*，则 *v*(*C*) = *v*(*A*)·*v*(*B*)。
   - id: 29
     kind: body
     source: |-
       Assumption KS1 of the theorem obviously is an equivalent of VD. Assumptions KS2 (a) and (b) are called the *Sum Rule* and the *Product Rule*, respectively, in the literature. (The reader should again note that, in opposition to von Neumann’s implicit premise, these rules non-trivially relate the values of *compatible* observables only.) Both are consequences of a deeper principle called the functional composition principle (FUNC), which in turn is a consequence of (among other assumptions) NC. The connection between NC, FUNC, Sum Rule and Product Rule will be made explicit in Section 4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      定理的假设 KS1 显然是 VD 的等价物。假设 KS2 (a) 与 (b) 在文献中分别被称为*和规则*与*积规则*。（读者应再次注意：与冯·诺依曼的隐含前提相反，这些规则只非平凡地关联*相容*可观察量的值。）两者都是一个更深层原则的推论，该原则称为函数复合原则（FUNC）；而 FUNC 又是（在其他假定之中）NC 的推论。NC、FUNC、和规则与积规则之间的联系将在第 4 节明确。
+    step2: |-
+      定理的假设 KS1 显然是 VD 的等价物。假设 KS2 (a) 与 (b) 在文献中分别称*和规则*与*积规则*。（读者应再次注意：与冯·诺依曼的隐含前提相反，这些规则只非平凡地关联*相容*可观察量的值。）两者都是更深层原则——函数复合原则（FUNC）——的推论；而 FUNC 又是（在其他假定中）NC 的推论。NC、FUNC、和规则与积规则的联系将在第 4 节明确。
   - id: 30
     kind: body
     source: |-
       The KS Theorem claims the existence of a set M with a certain property (i.e. being such that KS1 and KS2 are contradictory)[^note-6] and the proof proceeds by explicitly presenting such a set, for different choices of *x* and *y*. In the original KS proof *x*=3 and *y*=117. More recently proofs involving less observables have been given by (among many others) Peres (1991, 1995) for *x*=3 and *y*=33, by Kernaghan (1994) for *x*=4 and *y*=20 and by Cabello *et al*. (1996) for *x*=4 and *y*=18. The KS proof is notoriously complex, and we will only sketch it in Section 3.4. The Peres proof establishes the KS result in full strength, with great simplicity, and, moreover, in an intuitively accessible way, since it operates in three dimensions; we refer the reader to Peres (1995: 197–99). The proofs by Kernaghan and Cabello *et al*. each establish a contradiction in four dimensions. These are weaker results, of course, than the KS theorem (since every contradiction in 3 dimensions is also a contradiction in higher dimensions, but not conversely). However, these other proofs are very simple and instructive. Moreover, it can be shown (Pavičić *et al*. 2005)[^pavičić-2005] that *y*=18 is the lowest number for which the KS theorem holds true, so we start by presenting the proof of Cabello and his co-workers in Section 3.2. Finally, in Section 3.5, we explain an argument by Clifton (1993) where *x*=3 and *y*=8 and an additional statistical assumption yields an easy and instructive KS argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 定理断言：存在一个具有特定性质（即 KS1 与 KS2 相矛盾）的集合 M[^note-6]，其证明通过为不同的 *x* 与 *y* 选择明确呈示这样的集合而展开。在原始 KS 证明中 *x*=3、*y*=117。更晚近，涉及更少可观察量的证明由（其他许多人之中）Peres（1991, 1995）给出 *x*=3 与 *y*=33；Kernaghan（1994）给出 *x*=4 与 *y*=20；Cabello *et al*.（1996）给出 *x*=4 与 *y*=18。KS 证明出了名地复杂；我们只在 3.4 节勾勒它。Peres 证明以完全的力度、极大的简洁性建立 KS 结果， moreover 在直觉上可达，因为它在三维中运作；我们请读者参 Peres（1995: 197–99）。Kernaghan 与 Cabello 等人的证明各自在四维中建立矛盾。这些当然是弱于 KS 定理的结果（因为三维中的矛盾也是更高维中的矛盾，反之不然）。然而这些证明非常简单且有教益。 moreover，可以证明（Pavičić *et al*. 2005）[^pavičić-2005]：*y*=18 是 KS 定理成立的最小数目。因此我们从 3.2 节呈现 Cabello 及其合作者的证明开始。最后，在 3.5 节我们解释 Clifton（1993）的一个论证：*x*=3 与 *y*=8，加上一个额外的统计假定，产生一个容易而有教益的 KS 论证。
+    step2: |-
+      KS 定理断言：存在一个具有特定性质（KS1 与 KS2 相矛盾）的集合 M[^note-6]，其证明通过为不同 *x*、*y* 选择明确呈示这样的集合而展开。原始 KS 证明中 *x*=3、*y*=117。更晚近，涉及更少可观察量的证明由（其他许多人之中）Peres（1991, 1995）给出 *x*=3 与 *y*=33；Kernaghan（1994）给出 *x*=4 与 *y*=20；Cabello *et al*.（1996）给出 *x*=4 与 *y*=18。KS 证明出了名地复杂；我们只在 3.4 节勾勒。Peres 证明以完全的力度、极大的简洁建立 KS 结果， moreover 直觉可达（它在三维运作）；请参 Peres（1995: 197–99）。Kernaghan 与 Cabello 等的证明各自在四维建立矛盾——当然弱于 KS 定理（三维中的矛盾也是更高维中的矛盾，反之不然）——但非常简单且有教益。 moreover，可以证明（Pavičić *et al*. 2005）[^pavičić-2005]：*y*=18 是 KS 定理成立的最小数目；故从 3.2 节呈现 Cabello 及合作者的证明开始。最后，3.5 节解释 Clifton（1993）的一个论证：*x*=3 与 *y*=8，加一个额外的统计假定，产生一个容易而有教益的 KS 论证。
   - id: 31
     kind: body
     source: |-
       ### 3.2 A Quick KS Argument in Four Dimensions (Cabello *et al*.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 四维中的快速 KS 论证（Cabello *et al*.）
+    step2: |-
+      ### 3.2 四维中的快速 KS 论证（Cabello *et al*.）
   - id: 32
     kind: body
     source: |-
       A particularly easy KS argument proceeds in a four-dimensional Hilbert space H₄. We will use the following, which will be proved in the next section:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个特别容易的 KS 论证在四维希尔伯特空间 H₄ 中进行。我们将使用将在下一节证明的以下内容：
+    step2: |-
+      一个特别容易的 KS 论证在四维希尔伯特空间 H₄ 中进行。我们将使用下一节证明的以下内容：
   - id: 33
     kind: body
     source: |-
       (1) From KS2 we can derive a constraint on value assignments to projection operators, namely that for every set of projection operators *P*₁, *P*₂, *P*₃, *P*₄, corresponding to the four distinct eigenvalues *q*₁, *q*₂, *q*₃, *q*₄ of an observable Q on H4 the following holds:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (1) 从 KS2 我们可以导出一个对投影算符值指派的约束：对 H4 上可观察量 Q 的四个不同本征值 *q*₁、*q*₂、*q*₃、*q*₄ 所对应的每四个投影算符 *P*₁、*P*₂、*P*₃、*P*₄ 的集合，下式成立：
+    step2: |-
+      (1) 从 KS2 可导出一个对投影算符值指派的约束：对 H4 上可观察量 Q 的四个不同本征值 *q*₁、*q*₂、*q*₃、*q*₄ 所对应的每四个投影算符 *P*₁、*P*₂、*P*₃、*P*₄ 的集合，下式成立：
   - id: 34
     kind: body
     source: |-
       > (VC1′)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) + *v*(*P*₄) = 1, where *v*(*P*_{*i*}) = 1 or 0, for *i* = 1, 2, 3, 4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (VC1′)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) + *v*(*P*₄) = 1，其中 *v*(*P*_{*i*}) = 1 或 0，*i* = 1, 2, 3, 4。
+    step2: |-
+      > (VC1′)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) + *v*(*P*₄) = 1，其中 *v*(*P*_{*i*}) = 1 或 0，*i* = 1, 2, 3, 4。
   - id: 35
     kind: body
     source: |-
       ((VC1′) is a variant of (VC1) which we prove explicitly in the next section.) This means in effect that of every set of four orthogonal rays in H4 exactly one is assigned the number 1, the others 0.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （(VC1′) 是 (VC1) 的一个变体，我们在下一节明确证明它。）这实际上意味着：H4 中每四个正交射线组成的集合里，恰有一条被赋数字 1，其余为 0。
+    step2: |-
+      （(VC1′) 是 (VC1) 的变体，我们在下一节明确证明。）这实际意味着：H4 中每四个正交射线的集合里，恰有一条被赋数字 1，其余为 0。
   - id: 36
     kind: body
     source: |-
       (2) Although the Hilbert space mentioned in the theorem, in order to be suited for QM, must be *complex*, it is enough, in order to show the inconsistency of claims KS1 and KS2, to consider a *real* Hilbert space of the same dimension. So, instead of H4 we consider a real Hilbert space R4 and translate VC1′ into the requirement: Of every set of orthogonal rays in R4, exactly one is assigned the number 1 and the others 0. As usual in the literature, we translate all this into the following colouring problem: *Of every set of orthogonal rays in R4 exactly one must be coloured white, the others black.* This, however, is impossible, as is shown immediately by the following table (Cabello *et al*. 1996)[^cabello-1996]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (2) 尽管定理中提到的希尔伯特空间为了适合 QM 必须是*复的*，但要表明 KS1 与 KS2 的主张不一致，考虑同维度的*实*希尔伯特空间就足够了。因此我们考虑实希尔伯特空间 R4 而非 H4，并把 VC1′ 翻译成要求：R4 中每个正交射线集合里，恰有一条被赋数字 1，其余为 0。照文献惯例，我们把这一切翻译成如下的着色问题：*R4 中每个正交射线集合里恰有一条必须被着白色，其余着黑色。*然而这是不可能的——下表立刻表明这一点（Cabello *et al*. 1996）[^cabello-1996]：
+    step2: |-
+      (2) 尽管定理中的希尔伯特空间为适合 QM 必须是*复的*，要表明 KS1 与 KS2 不一致，考虑同维的*实*希尔伯特空间就足够了。故考虑实空间 R4 而非 H4，把 VC1′ 翻译成要求：R4 中每个正交射线集合里恰有一条被赋数字 1，其余为 0。照文献惯例，把这一切翻译成着色问题：*R4 中每个正交射线集合里恰有一条必须着白色，其余着黑色。*然而这不可能——下表立刻表明（Cabello *et al*. 1996）[^cabello-1996]：
   - id: 37
     kind: body
     source: |-
@@ -240,270 +324,374 @@ segments:
       | 0,0, 1,0 | 0,1, 0,0 | 1,−1, −1,1 | 1,1, 1,1, | 0,1, 0,0 | 1,1, 1,1 | 1,1, 1,−1 | −1,1, 1,1 | −1,1, 1,1 |
       | 1,1, 0,0 | 1,0, 1,0 | 1,1, 0,0 | 1,0, −1,0 | 1,0, 0,1 | 1,0, 0,−1 | 1,−1, 0,0 | 1,0, 1,0 | 1,0, 0,1 |
       | 1,−1, 0,0 | 1,0, −1,0 | 0,0, 1,1 | 0,1, 0,−1 | 1,0, 0,−1 | 0,1, −1,0 | 0,0, 1,1 | 0,1, 0,−1 | 0,1, −1,0 |
-    step1: TBD
-    step2: TBD
+    step1: |-
+      | 0,0, 0,1 | 0,0, 0,1 | 1,−1, 1,−1 | 1,−1, 1,−1 | 0,0, 1,0 | 1,−1, −1,1 | 1,1, −1,1 | 1,1, −1,1 | 1,1, 1,−1 |
+      | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+      | 0,0, 1,0 | 0,1, 0,0 | 1,−1, −1,1 | 1,1, 1,1, | 0,1, 0,0 | 1,1, 1,1 | 1,1, 1,−1 | −1,1, 1,1 | −1,1, 1,1 |
+      | 1,1, 0,0 | 1,0, 1,0 | 1,1, 0,0 | 1,0, −1,0 | 1,0, 0,1 | 1,0, 0,−1 | 1,−1, 0,0 | 1,0, 1,0 | 1,0, 0,1 |
+      | 1,−1, 0,0 | 1,0, −1,0 | 0,0, 1,1 | 0,1, 0,−1 | 1,0, 0,−1 | 0,1, −1,0 | 0,0, 1,1 | 0,1, 0,−1 | 0,1, −1,0 |
+    step2: |-
+      | 0,0, 0,1 | 0,0, 0,1 | 1,−1, 1,−1 | 1,−1, 1,−1 | 0,0, 1,0 | 1,−1, −1,1 | 1,1, −1,1 | 1,1, −1,1 | 1,1, 1,−1 |
+      | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+      | 0,0, 1,0 | 0,1, 0,0 | 1,−1, −1,1 | 1,1, 1,1, | 0,1, 0,0 | 1,1, 1,1 | 1,1, 1,−1 | −1,1, 1,1 | −1,1, 1,1 |
+      | 1,1, 0,0 | 1,0, 1,0 | 1,1, 0,0 | 1,0, −1,0 | 1,0, 0,1 | 1,0, 0,−1 | 1,−1, 0,0 | 1,0, 1,0 | 1,0, 0,1 |
+      | 1,−1, 0,0 | 1,0, −1,0 | 0,0, 1,1 | 0,1, 0,−1 | 1,0, 0,−1 | 0,1, −1,0 | 0,0, 1,1 | 0,1, 0,−1 | 0,1, −1,0 |
   - id: 38
     kind: body
     source: |-
       There are 4 x 9 = 36 entries in this table. These entries are taken from a set of 18 rays and every ray appears twice. It is easy to verify that every column in the table represents a set of four *orthogonal* rays. Since there are 9 columns, we must end up with an *odd* number of the table’s entries coloured white. However, since every ray appears twice any time we colour one of them white, we commit ourselves to colouring an even number of the entries white. It follows that the total number of table entries coloured white must be even, *not* odd. Thus, a colouring of these 18 rays in accordance with VC1′ is impossible. (Note for future reference that the first part of the argument — the argument for ‘odd’ — uses only VC1′, while the second — the argument for ‘even’ — relies essentially on NC, by assuming that occurrences of the same ray in different columns are assigned the same number!)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这张表有 4 x 9 = 36 个条目。这些条目取自 18 条射线的集合，每条射线出现两次。容易验证：表中的每一列代表一个由四条*正交*射线组成的集合。既然有 9 列，我们最终必须得到表的条目中着白色的*奇数*个。然而由于每条射线出现两次，每当我们把其中之一着白色，我们就承诺把偶数个条目着白色。由此，着白色的表格条目总数必须是偶数，而*不是*奇数。因此，与 VC1′ 一致地对这 18 条射线着色是不可能的。（为将来参考注意：论证的第一部分——‘奇数’的论证——只使用 VC1′，而第二部分——‘偶数’的论证——本质上依赖 NC：它假定同一射线在不同列中的出现被赋予相同的数字！）
+    step2: |-
+      这张表有 4 x 9 = 36 个条目，取自 18 条射线的集合，每条射线出现两次。容易验证：每一列代表一个由四条*正交*射线组成的集合。既然有 9 列，我们最终必须得到表中着白色条目的*奇数*个。然而每条射线出现两次——每把其一着白色，就承诺把偶数个条目着白色。由此着白色的条目总数必须为偶数，而*非*奇数。因此与 VC1′ 一致地对这 18 条射线着色不可能。（为将来参考注意：论证第一部分——‘奇数’——只用 VC1′；第二部分——‘偶数’——本质依赖 NC：假定同一射线在不同列中的出现被赋相同数字！）
   - id: 39
     kind: body
     source: |-
       ### 3.3 The Original KS Argument. Technical Preliminaries.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.3 原始 KS 论证：技术预备
+    step2: |-
+      ### 3.3 原始 KS 论证：技术预备
   - id: 40
     kind: body
     source: |-
       The original KS proof operates on a three-dimensional complex Hilbert space H₃. It requires two things: (1) sets of triples of rays which are orthogonal in H₃; (2) a constraint to the effect that of every orthogonal triple one ray gets assigned the number 1, the two others 0. Both can be achieved as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      原始 KS 证明在三维复希尔伯特空间 H₃ 上运作。它需要两件事：(1) 在 H₃ 中正交的射线三元组的集合；(2) 一个约束——每个正交三元组中一条射线被赋数字 1，另两条为 0。两者可以如下实现：
+    step2: |-
+      原始 KS 证明在三维复希尔伯特空间 H₃ 上运作。它需要两件事：(1) 在 H₃ 中正交的射线三元组的集合；(2) 一个约束——每个正交三元组中一条射线被赋数字 1，另两条为 0。两者可如下实现：
   - id: 41
     kind: body
     source: |-
       We consider an arbitrary operator *Q* on H₃ with three distinct eigenvalues *q*₁, *q*₂, *q*₃, its eigenvectors |*q*₁>, |*q*₂>, |*q*₃>, and projection operators *P*₁, *P*₂, *P*₃ projecting on the rays spanned by these vectors. Now, *P*₁, *P*₂, *P*₃ are themselves observables (namely, *P*ᵢ is a ‘yes-no observable’ corresponding to the question ‘Does the system have value *q*ᵢ for Q?’). Moreover, *P*₁, *P*₂, *P*₃ are mutually compatible, so we can apply the Sum Rule and Product Rule, and thereby derive a constraint on the assignment of values ([VC1 Proof](kochen-specker.proofvc1.md)):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们考虑 H₃ 上具有三个不同本征值 *q*₁、*q*₂、*q*₃ 的任意算符 *Q*，其本征矢 |*q*₁>、|*q*₂>、|*q*₃>，以及投影到这些矢量所张射线上的投影算符 *P*₁、*P*₂、*P*₃。现在 *P*₁、*P*₂、*P*₃ 本身是可观察量（即 *P*ᵢ 是对应于问题“系统对 Q 是否有值 *q*ᵢ？”的‘是-否可观察量’）。 moreover，*P*₁、*P*₂、*P*₃ 彼此相容，因此我们可以应用和规则与积规则，从而导出一个对值指派的约束（［VC1 证明］(kochen-specker.proofvc1.md)）：
+    step2: |-
+      考虑 H₃ 上具有三个不同本征值 *q*₁、*q*₂、*q*₃ 的任意算符 *Q*，其本征矢 |*q*₁>、|*q*₂>、|*q*₃>，及投影到这些矢量所张射线上的投影算符 *P*₁、*P*₂、*P*₃。现在 *P*₁、*P*₂、*P*₃ 本身是可观察量（即 *P*ᵢ 是对应问题“系统对 Q 是否有值 *q*ᵢ？”的‘是-否可观察量’）； moreover 它们彼此相容，故可应用和规则与积规则，导出对值指派的约束（［VC1 证明］(kochen-specker.proofvc1.md)）：
   - id: 42
     kind: body
     source: |-
       > (VC1)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) = 1, where *v*(*P*_{*i*}) = 1 or 0, for *i* = 1, 2, 3.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (VC1)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) = 1，其中 *v*(*P*_{*i*}) = 1 或 0，*i* = 1, 2, 3。
+    step2: |-
+      > (VC1)   *v*(*P*₁) + *v*(*P*₂) + *v*(*P*₃) = 1，其中 *v*(*P*_{*i*}) = 1 或 0，*i* = 1, 2, 3。
   - id: 43
     kind: body
     source: |-
       The arbitrary choice of an observable *Q* defines new observables *P*₁, *P*₂, *P*₃ which, in turn, select rays in H₃. So, to impose that observables *P*₁, *P*₂, *P*₃ all have values means to assign numbers to rays in H₃, and VC1, in particular, means that of an arbitrary triple of orthogonal rays, specified by choice of an arbitrary *Q* (briefly: an orthogonal triple in H₃), exactly one of its rays is assigned 1, the others 0. Now, if we introduce different incompatible observables *Q*, *Q*′, *Q*″, … these observables select different orthogonal triples in H₃. Assumption (1) of the KS theorem (which, effectively, is VD) now tells us that every one of these triples has three values, and VC1 tells us that these values must be for every triple, exactly {1, 0, 0}. What KS now shows is that, *for a specific finite set of orthogonal triples in H₃, an assignment of numbers* {1, 0, 0} *to every one of them (matching in common rays) is impossible*. Further reflection yields that while H₃ is complex, it is in fact enough to consider a real three-dimensional Hilbert space R₃. For we can show that if an assignment of values according to VC1 is possible on H₃, then it is possible on R₃. Contrapositively, if the assignment is impossible on R₃, then it is impossible on H₃. So we can fulfill the conditions necessary to get the KS proof started and at the same time reduce the problem to one on R₃. Now, the equivalent in R₃ of an arbitrary orthogonal triple in H₃, is, again, an arbitrary triple of orthogonal rays (briefly: an orthogonal triple in R₃). So, if KS want to show that, for a specific set of *n* orthogonal triples in H₃ (where *n* is a natural number), an assignment of numbers {1, 0, 0} to every one of them is impossible, it is enough for them to show that, *for a specific set of n orthogonal triples in* R₃, *an assignment of numbers* {1, 0, 0} *to every one of them is impossible*. And this is exactly what they do.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对可观察量 *Q* 的任意选择定义了新的可观察量 *P*₁、*P*₂、*P*₃，后者又选择 H₃ 中的射线。于是，强令可观察量 *P*₁、*P*₂、*P*₃ 全都有值，意味着给 H₃ 中的射线赋数字；而 VC1 特别意味着：对由任意 *Q* 的选择所规定的任意正交三元组（简称：H₃ 中的一个正交三元组），其射线中恰有一条被赋 1，其余为 0。现在，如果我们引入不同的不相容可观察量 *Q*、*Q*′、*Q*″……这些可观察量在 H₃ 中选择不同的正交三元组。KS 定理的假设 (1)（实际上就是 VD）告诉我们：这些三元组中的每一个都有三个值；VC1 告诉我们：对每个三元组，这些值必须恰为 {1, 0, 0}。KS 现在表明的是：*对 H₃ 中一个特定的有限正交三元组集合，给其中每一个（在公共射线上一致地）赋数字* {1, 0, 0} *是不可能的*。进一步的反思得出：虽然 H₃ 是复的，实际上考虑一个实三维希尔伯特空间 R₃ 就足够了。因为我们可以表明：如果按 VC1 的值指派在 H₃ 上可能，那么它在 R₃ 上也可能。逆否地：如果这一指派在 R₃ 上不可能，那么它在 H₃ 上不可能。于是我们可以满足使 KS 证明启动的必要条件，同时把问题约化到 R₃ 上。现在，H₃ 中任意正交三元组在 R₃ 中的对应物，同样是一个正交射线三元组（简称：R₃ 中的正交三元组）。因此，如果 KS 想要表明：对 H₃ 中 *n* 个正交三元组的特定集合（*n* 是自然数），给其中每一个赋数字 {1, 0, 0} 是不可能的，那么他们只需表明：*对 R₃ 中 n 个正交三元组的特定集合，给其中每一个赋数字* {1, 0, 0} *是不可能的*。而这正是他们所做的。
+    step2: |-
+      对可观察量 *Q* 的任意选择定义新的可观察量 *P*₁、*P*₂、*P*₃，后者又选择 H₃ 中的射线。于是强令 *P*₁、*P*₂、*P*₃ 全都有值，意味着给 H₃ 中的射线赋数字；VC1 特别意味着：对任意 *Q* 的选择所规定的正交三元组（简称：H₃ 中的正交三元组），其射线中恰有一条被赋 1，其余为 0。引入不同的不相容可观察量 *Q*、*Q*′、*Q*″……后，这些可观察量在 H₃ 中选择不同的正交三元组。KS 定理的假设 (1)（实际即 VD）告诉我们：每个三元组都有三个值；VC1 告诉我们：对每个三元组，值必须恰为 {1, 0, 0}。KS 现在表明：*对 H₃ 中一个特定的有限正交三元组集合，给其中每一个（在公共射线上一致地）赋数字* {1, 0, 0} *不可能*。进一步反思得出：虽 H₃ 是复的，考虑实三维希尔伯特空间 R₃ 就足够——可表明：若按 VC1 的值指派在 H₃ 上可能，则在 R₃ 上也可能；逆否地，若在 R₃ 上不可能，则在 H₃ 上不可能。于是可满足使 KS 证明启动的必要条件，同时把问题约化到 R₃。R₃ 中 H₃ 的任意正交三元组之对应物，同样是正交射线三元组（简称：R₃ 中的正交三元组）。因此若 KS 想表明：对 H₃ 中 *n* 个正交三元组的特定集合（*n* 为自然数），给每个赋 {1, 0, 0} 不可能，只需表明：*对 R₃ 中 n 个正交三元组的特定集合，给每个赋* {1, 0, 0} *不可能*。这正是他们所做的。
   - id: 44
     kind: body
     source: |-
       It should be stressed that at this point there is no direct connection between R₃ and physical space. KS wish to show that for an arbitrary QM system requiring a representation in a Hilbert space of at least three dimensions, the ascription of values in conjunction with condition (KS2) (Sum Rule and Product Rule) is impossible, and in order to do this it is sufficient to consider the space R₃. This space R₃, however, does not represent physical space for the quantum system at issue. In particular, orthogonality in R₃ is not to be confused with orthogonality in physical space. This becomes obvious if we move to an example of a QM system sitting in physical space and at the same time requiring a QM representation in H₃, e.g. the spin degree of freedom of a one-particle spin-1 system. Given an arbitrary direction α in physical space and an operator *S*_{α} representing the observable of a spin component in direction α, H₃ is spanned by the eigenvectors of *S*_{α}, namely |*S*_{α}=1>, |*S*_{α}=0>, |*S*_{α}=−1>, which are mutually orthogonal in H₃. The fact that these three vectors corresponding to three possible results of measurement in one spatial direction are mutually orthogonal illustrates the different senses of orthogonality in H₃ and in physical space. (The reason lies, of course, in the structure of QM, which represents different values of an observable by different directions in H₃.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      应当强调：在这一点上，R₃ 与物理空间之间没有直接联系。KS 想要表明：对要求以至少三维的希尔伯特空间表示的任意 QM 系统，与条件 (KS2)（和规则与积规则）相结合的值的归属是不可能的；为做到这一点，考虑空间 R₃ 就足够了。然而这个 R₃ 并不表示该量子系统所处的物理空间。特别地，R₃ 中的正交性不应与物理空间中的正交性混淆。如果我们转到物理空间中坐落着的、同时又要求 H₃ 表示的 QM 系统的例子——例如单粒子自旋-1 系统的自旋自由度——这就变得显而易见。给定物理空间中的任意方向 α 与表示方向 α 的自旋分量这一可观察量的算符 *S*_{α}，H₃ 由 *S*_{α} 的本征矢 |*S*_{α}=1>、|*S*_{α}=0>、|*S*_{α}=−1> 张成——它们在 H₃ 中彼此正交。对应于一个空间方向上三个可能测量结果的这三个矢量彼此正交，这一事实例示了 H₃ 与物理空间中正交性的不同含义。（原因当然在于 QM 的结构：QM 用 H₃ 中的不同方向表示一个可观察量的不同值。）
+    step2: |-
+      应强调：在这一点上 R₃ 与物理空间无直接联系。KS 想表明：对要求以至少三维希尔伯特空间表示的任意 QM 系统，与条件 (KS2)（和规则与积规则）相结合的值归属不可能；为此考虑空间 R₃ 即足够。然而这个 R₃ 不表示该量子系统所处的物理空间——特别地，R₃ 中的正交性不应与物理空间中的正交性混淆。若转到物理空间中坐落、同时要求 H₃ 表示的 QM 系统之例——单粒子自旋-1 系统的自旋自由度——这就显而易见：给定物理空间中任意方向 α 与表示方向 α 自旋分量可观察量的算符 *S*_{α}，H₃ 由 *S*_{α} 的本征矢 |*S*_{α}=1>、|*S*_{α}=0>、|*S*_{α}=−1> 张成——它们在 H₃ 中彼此正交。对应一个空间方向上三个可能测量结果的这三个矢量彼此正交，例示了 H₃ 与物理空间中正交性的不同含义（原因当然在 QM 的结构：QM 用 H₃ 中的不同方向表示一个可观察量的不同值）。
   - id: 45
     kind: body
     source: |-
       KS themselves, in the abstract, proceed in exactly the same way, but they illustrate with an example that *does* establish a direct connection with physical space. It is important to see this connection, but also to be clear that it is produced by KS’s example and is not inherent in their mathematical result. KS propose to consider a one-particle spin-1 system and the measurement of the squared components of orthogonal directions of spin in physical space *Sₓ*², *S_{y}*², *S_{z}*², which are compatible (while *Sₓ*, *S_{y}*, *S_{z}* themselves are not).[^note-7] Measurement of a squared component of spin determines only its absolute value. Here, they derive a slightly different constraint on value assignments, again using the Sum Rule and the Product Rule ([VC2 Proof](kochen-specker.proofvc2.md)):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 本人在抽象中 exactly 以同样的方式行事，但他们用一个确实与物理空间建立直接联系的例子来说明。看到这一联系很重要，但同样要清楚：它是由 KS 的例子产生的，并非其数学结果所固有。KS 提议考虑单粒子自旋-1 系统，以及物理空间中正交方向的自旋分量平方的测量 *Sₓ*²、*S_{y}*²、*S_{z}*²——它们是相容的（而 *Sₓ*、*S_{y}*、*S_{z}* 本身不相容）。[^note-7] 对自旋分量的平方的测量只确定其绝对值。这里他们导出一个稍不同的值指派约束，再次使用和规则与积规则（［VC2 证明］(kochen-specker.proofvc2.md)）：
+    step2: |-
+      KS 本人在抽象中 exactly 以同样方式行事，但用一个确实与物理空间建立直接联系的例子说明。看到这一联系很重要，但同样须清楚：它由 KS 的例子产生，并非其数学结果所固有。KS 提议考虑单粒子自旋-1 系统，及物理空间中正交方向自旋分量平方的测量 *Sₓ*²、*S_{y}*²、*S_{z}*²——它们相容（而 *Sₓ*、*S_{y}*、*S_{z}* 本身不相容）。[^note-7] 对自旋分量平方的测量只确定其绝对值。这里他们导出稍不同的值指派约束，再次用和规则与积规则（［VC2 证明］(kochen-specker.proofvc2.md)）：
   - id: 46
     kind: body
     source: |-
       > (VC2)   *v*(*Sₓ*²) + *v*(*S_{y}*²) + *v*(*S_{z}*²) = 2, where *v*(*S*_{α}²) = 1 or 0, for α = *x*, *y*, *z*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (VC2)   *v*(*Sₓ*²) + *v*(*S_{y}*²) + *v*(*S_{z}*²) = 2，其中 *v*(*S*_{α}²) = 1 或 0，α = *x*, *y*, *z*。
+    step2: |-
+      > (VC2)   *v*(*Sₓ*²) + *v*(*S_{y}*²) + *v*(*S_{z}*²) = 2，其中 *v*(*S*_{α}²) = 1 或 0，α = *x*, *y*, *z*。
   - id: 47
     kind: body
     source: |-
       Now, since *Sₓ*², *S_{y}*², *S_{z}*² are compatible, there is an observable O such that *Sₓ*², *S_{y}*², *S_{z}*² are all functions of O. So, the choice of an arbitrary such O fixes *Sₓ*², *S_{y}*², *S_{z}*² and, since the latter can be directly associated with mutually orthogonal rays in H₃, again fixes the choice of an orthogonal triple in H₃. The resulting problem here is to assign numbers {1, 1, 0} to an orthogonal triple in H₃ specified by the choice of O or, more directly, of *Sₓ*², *S_{y}*², *S_{z}*². This is, of course, the mirror-image of our previous problem of assigning numbers {1, 0, 0} to such a triple, and we need not consider it separately.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，由于 *Sₓ*²、*S_{y}*²、*S_{z}*² 相容，存在一个可观察量 O 使 *Sₓ*²、*S_{y}*²、*S_{z}*² 都是 O 的函数。于是对这样一个 O 的任意选择固定 *Sₓ*²、*S_{y}*²、*S_{z}*²；由于后者可以直接与 H₃ 中彼此正交的射线相联，又固定了 H₃ 中一个正交三元组的选择。由此产生的问题是给一个由 O 的选择（或更直接地，由 *Sₓ*²、*S_{y}*²、*S_{z}*² 的选择）规定的 H₃ 正交三元组赋数字 {1, 1, 0}。这当然是先前给这样一个三元组赋数字 {1, 0, 0} 的问题的镜像，我们无需单独考虑。
+    step2: |-
+      由于 *Sₓ*²、*S_{y}*²、*S_{z}*² 相容，存在可观察量 O 使三者都是 O 的函数。于是对 O 的任意选择固定 *Sₓ*²、*S_{y}*²、*S_{z}*²；由于后者可直接与 H₃ 中彼此正交的射线相联，又固定了 H₃ 中一个正交三元组的选择。由此产生的问题是：给一个由 O 的选择（或更直接地由 *Sₓ*²、*S_{y}*²、*S_{z}*² 的选择）规定的 H₃ 正交三元组赋数字 {1, 1, 0}。这当然是先前给这样的三元组赋 {1, 0, 0} 的问题的镜像，无需单独考虑。
   - id: 48
     kind: body
     source: |-
       However, the choice of a specific O that selects observables *Sₓ*², *S_{y}*², *S_{z}*² at the same time selects three orthogonal rays in physical space, namely by fixing a coordinate system ±*x*, ±*y*, ±*z* (which defines along which orthogonal rays the squared spin components are to be measured) *in physical space*. So now, by choice of an observable O, there *is* a direct connection of directions in space with directions in H₃: orthogonality in H₃ now *does* correspond to orthogonality in physical space. The same holds for R₃, if, in order to give an argument for H₃, we consider R₃. Orthogonality in R₃ now corresponds to orthogonality in physical space. It is important to notice that this correspondence is not necessary to give the argument, even if we insist that the pure mathematical facts should be supplemented by a physical interpretation — since we have, just before, seen an example without any correspondence. The point is only that we *can* devise an example such that there is a correspondence. In particular, we can now follow the proof in R₃ and all along imagine a system sitting in physical space, namely a spin-1 particle, returning three values upon measurement of three physical magnitudes, associated directly with orthogonal directions in physical space, namely *v*(*Sₓ*²), *v*(*S_{y}*²), *v*(*S_{z}*²), for arbitrary choices of *x*, *y*, *z*. The KS proof then shows that it is impossible (given its premises, of course) to assign to the spin-1 particle values for all these arbitrary choices. That is, the KS argument shows that (given the premises) a spin 1 particle cannot possess all the properties at once which it displays in different measurement arrangements.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，选择一个具体的 O——它选择可观察量 *Sₓ*²、*S_{y}*²、*S_{z}*²——同时选择物理空间中的三条正交射线：即通过固定坐标系 ±*x*、±*y*、±*z*（它规定沿哪些正交射线测量自旋分量的平方）*在物理空间中*。于是现在，通过选择可观察量 O，空间中的方向与 H₃ 中的方向之间*确实*存在直接联系：H₃ 中的正交性现在*确实*对应于物理空间中的正交性。对 R₃ 亦然——如果为给 H₃ 提供论证而考虑 R₃。R₃ 中的正交性现在对应于物理空间中的正交性。重要的是要注意：这一对应并非给出论证所必需——即使我们坚持纯数学的事实应由物理诠释来补充——因为我们刚才刚刚看到了一个没有任何对应的例子。要点只是：我们*能够*设计一个有对应的例子。特别地，我们现在可以跟随 R₃ 中的证明，同时想象一个坐落于物理空间中的系统——自旋-1 粒子——在测量三个物理量时返回三个值，这些量直接与物理空间中的正交方向相联，即对任意选择的 *x*、*y*、*z* 而言的 *v*(*Sₓ*²)、*v*(*S_{y}*²)、*v*(*S_{z}*²)。KS 证明然后表明：把这些值赋给自旋-1 粒子的一切任意选择是不可能的（当然，给定其前提）。也就是说，KS 论证表明（给定前提）：自旋 1 粒子不能同时拥有它在不同测量装置中显示的所有性质。
+    step2: |-
+      然而选择具体的 O——它选择可观察量 *Sₓ*²、*S_{y}*²、*S_{z}*²——同时选择物理空间中的三条正交射线：即固定坐标系 ±*x*、±*y*、±*z*（规定沿哪些正交射线测量自旋分量的平方）*在物理空间中*。于是现在，通过选择可观察量 O，空间中的方向与 H₃ 中的方向之间*确实*有直接联系：H₃ 中的正交性现在*确实*对应物理空间中的正交性。对 R₃ 亦然（若为给 H₃ 提供论证而考虑 R₃）：R₃ 中的正交性现在对应物理空间中的正交性。重要的是注意：这一对应并非给出论证所必需——即使坚持纯数学事实应由物理诠释补充——因为刚才刚看到一个没有任何对应的例子。要点只是：我们*能*设计一个有对应的例子。特别地，现在可以跟随 R₃ 中的证明，同时想象一个坐落于物理空间中的系统——自旋-1 粒子——在测量三个物理量时返回三个值，这些量直接与物理空间中的正交方向相联：对任意选择的 *x*、*y*、*z* 而言的 *v*(*Sₓ*²)、*v*(*S_{y}*²)、*v*(*S_{z}*²)。KS 证明然后表明：把这些值赋给自旋-1 粒子的一切任意选择不可能（当然给定其前提）。即 KS 论证表明（给定前提）：自旋 1 粒子不能同时拥有它在不同测量装置中显示的所有性质。
   - id: 49
     kind: body
     source: |-
       Three further features which have become customary in KS arguments need to be mentioned:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 论证中已成为惯例的三个进一步特征需要提及：
+    step2: |-
+      KS 论证中已成为惯例的三个进一步特征需要提及：
   - id: 50
     kind: body
     source: |-
       (1) Obviously, we can unambiguously specify any ray in R₃ through the origin by just giving one point contained in it. KS thus identify rays with points on the unit sphere E. KS do not need to refer to concrete coordinates of a certain point, since their argument is ‘coordinate-free’. We will, however, for illustration sometimes mention concrete points and then (a) use Cartesian coordinates to check orthogonality relations and (b) specify rays by points not lying on E. (Thus, e.g., the triple of points (0, 0, 1), (4, 1, 0), (1, –4, 0) is used to specify a triple of orthogonal rays.) Both usages conform with the recent literature (see e.g. Peres (1991) and Clifton (1993)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (1) 显然，我们只需给出包含于其中的一点，就能无歧义地规定 R₃ 中过原点的任意射线。KS 因此把射线与单位球 E 上的点等同起来。KS 不需要引用某个点的具体坐标，因为他们的论证是“无坐标的”。不过为了说明，我们有时会提到具体的点，然后（a）用笛卡尔坐标检查正交性关系，（b）用不在 E 上的点规定射线。（例如，三元点 (0, 0, 1), (4, 1, 0), (1, –4, 0) 被用来规定一个正交射线三元组。）两种用法都符合近来的文献（见例如 Peres (1991) 与 Clifton (1993)）。
+    step2: |-
+      (1) 显然，只需给出包含于其中的一点，就能无歧义地规定 R₃ 中过原点的任意射线。KS 因此把射线与单位球 E 上的点等同。KS 不需引用某点的具体坐标，因为其论证是“无坐标的”。不过为说明，我们有时提到具体的点，然后（a）用笛卡尔坐标检查正交性关系，（b）用不在 E 上的点规定射线（例如三元点 (0, 0, 1), (4, 1, 0), (1, –4, 0) 被用来规定一个正交射线三元组）。两种用法都符合近来文献（见例如 Peres (1991) 与 Clifton (1993)）。
   - id: 51
     kind: body
     source: |-
       (2) We translate the constraints (VC1) and (VC2) on value ascriptions into constraints for colouring the points. We can, operating under (VC1) colour the points white (for “1”) and black (for “0”), or, operating under (VC2) colour the points white (for “0”) and black (for “1”). In either case the constraints translate into the same colouring problem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (2) 我们把对值归属的约束 (VC1) 与 (VC2) 翻译成对点的着色的约束。在 (VC1) 下运作时，我们可以把点着白色（表示“1”）与黑色（表示“0”）；在 (VC2) 下运作时，把点着白色（表示“0”）与黑色（表示“1”）。无论哪种情形，约束都翻译成同一个着色问题。
+    step2: |-
+      (2) 把对值归属的约束 (VC1) 与 (VC2) 翻译成对点着色的约束：在 (VC1) 下运作时，把点着白色（“1”）与黑色（“0”）；在 (VC2) 下运作时，把点着白色（“0”）与黑色（“1”）。无论哪种情形，约束都翻译成同一个着色问题。
   - id: 52
     kind: body
     source: |-
       (3) KS illustrate orthogonality relations of rays by graphs which have come to be called *KS diagrams*. In such a diagram each ray (or point specifying a ray) is represented by a vertex. Vertices joined by a straight line represent orthogonal rays. The colouring problem then translates into the problem of colouring the vertices of the diagram white or black such that joined vertices cannot be both white and triangles have exactly one white vertex.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (3) KS 用图来说明射线的正交性关系，这些图后来被称为 *KS 图*。在这种图中，每条射线（或规定射线的点）由一个顶点表示。由直线连接的顶点表示正交的射线。着色问题于是翻译成：给图的顶点着白或黑，使相连的顶点不能同为白色，且三角形恰有一个白顶点。
+    step2: |-
+      (3) KS 用图说明射线的正交性关系——这些图后来被称为 *KS 图*。图中每条射线（或规定射线的点）由一个顶点表示；由直线连接的顶点表示正交射线。着色问题于是翻译成：给图的顶点着白或黑，使相连的顶点不能同为白，且三角形恰有一个白顶点。
   - id: 53
     kind: body
     source: |-
       ### 3.4 The Original KS Argument. Sketch of the Proof.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.4 原始 KS 论证：证明概要。
+    step2: |-
+      ### 3.4 原始 KS 论证：证明概要。
   - id: 54
     kind: body
     source: |-
       KS proceed in two steps.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 分两步进行。
+    step2: |-
+      KS 分两步进行。
   - id: 55
     kind: body
     source: |-
       (1) In the first (and decisive) step they show *that two rays with opposite colours cannot be arbitrarily close*. They first show that the diagram Γ₁ depicted in Fig. 1 (where for the time being we ignore the colours specified in the figure) can be constructed, only if a₀ and a₉ are separated by an angle θ with 0 ≤ θ ≤ sin^{−1}(1/3) ([Step 1 Proof](kochen-specker.step1.md)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (1) 在第一个（决定性的）步骤中，他们表明*颜色相反的两条射线不可能任意接近*。他们首先表明：图 1 所画的图 Γ₁（暂且忽略图中指定的颜色）可以被构造，仅当 a₀ 与 a₉ 被一个 0 ≤ θ ≤ sin^{−1}(1/3) 的角 θ 分隔（［步骤 1 证明］(kochen-specker.step1.md)）。
+    step2: |-
+      (1) 在第一个（决定性的）步骤中，他们表明*颜色相反的两条射线不可能任意接近*：首先表明图 1 所画的图 Γ₁（暂且忽略图中指定的颜色）可被构造，仅当 a₀ 与 a₉ 被 0 ≤ θ ≤ sin^{−1}(1/3) 的角 θ 分隔（［步骤 1 证明］(kochen-specker.step1.md)）。
   - id: 56
     kind: body
     source: |-
       > ![fig1](../assets/kochen-specker/fig1.gif) Figure 1: Ten-point KS graph Γ₁ with inconsistent colouring.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ![fig1](../yuanwen/assets/kochen-specker/fig1.gif) 图 1：着色不一致的十点 KS 图 Γ₁。
+    step2: |-
+      > ![fig1](../yuanwen/assets/kochen-specker/fig1.gif) 图 1：着色不一致的十点 KS 图 Γ₁。
   - id: 57
     kind: body
     source: |-
       Consider now (for a *reductio ad absurdum*) that a₀ and a₉ have different colours. We arbitrarily colour a₀ white and a₉ black. The colouring constraints then force us to colour the rest of the diagram as is done in Fig. 1, but this requires that a₅ and a₆ are orthogonal and both white — which is forbidden. Hence, two points closer than sin^{−1}(1/3) cannot have different colours. Contrapositively, two points of different colour cannot be closer than sin^{−1}(1/3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在考虑（作为*归谬法*）a₀ 与 a₉ 颜色不同。我们任意把 a₀ 着白色、a₉ 着黑色。着色约束于是迫使我们把图的其余部分着色为图 1 所示；但这要求 a₅ 与 a₆ 正交且都是白色——这是被禁止的。因此，距离小于 sin^{−1}(1/3) 的两点不能有不同的颜色。逆否地：颜色不同的两点不可能比 sin^{−1}(1/3) 更近。
+    step2: |-
+      现在考虑（作为*归谬法*）a₀ 与 a₉ 颜色不同：任意把 a₀ 着白、a₉ 着黑。着色约束迫使把图的其余部分着色为图 1 所示；但这要求 a₅ 与 a₆ 正交且都是白——被禁止。因此距离小于 sin^{−1}(1/3) 的两点不能有不同颜色；逆否地：颜色不同的两点不可能比 sin^{−1}(1/3) 更近。
   - id: 58
     kind: body
     source: |-
       (2) KS now construct another quite complicated KS diagram Γ₂ in the following way. They consider a realization of Γ₁ for an angle θ=18° < sin^{−1}(1/3). Now they choose three orthogonal points *p*₀, *q*₀, *r*₀ and space interlocking copies of Γ₁ between them such that every instance of point a₉ of one copy of Γ₁ is identified with the instance of a₀ of the next copy. In this way five interlocking copies of Γ₁ are spaced between *p*₀ and *q*₀ and all five instances of a₈ are identified with *r*₀ (likewise five such interlocking copies are spaced between *q*₀ and *r*₀, identifying all copies of a₈ with *p*₀, and between *p*₀ and *r*₀, identifying all copies of a₈ with *q*₀). That Γ₂ is constructible is borne out directly by the construction itself. Spacing out five copies of Γ₁ with angles θ=18° between instances of a₀ will space out an angle of 5x18° = 90° which is exactly what is required. Moreover, wandering from one copy of Γ₁ to the next between, say, *p*₀ and *q*₀ is equivalent to a rotation by 18° of the copy about the axis through the origin and *r*₀, which evidently conserves the orthogonality between the points a₀ and a₉ of the copy and *r*₀.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (2) KS 现在按如下方式构造另一个相当复杂的 KS 图 Γ₂。他们考虑 Γ₁ 在角 θ=18° < sin^{−1}(1/3) 下的一个实现。现在他们选择三个正交点 *p*₀、*q*₀、*r*₀，并在它们之间安放咬合的 Γ₁ 副本，使得一个 Γ₁ 副本的点 a₉ 的实例与下一个副本的 a₀ 的实例相同。这样，五个咬合的 Γ₁ 副本被安置在 *p*₀ 与 *q*₀ 之间，且所有五个 a₈ 的实例与 *r*₀ 相同（同样，五个这样的咬合副本被安置在 *q*₀ 与 *r*₀ 之间，把 a₈ 的所有副本与 *p*₀ 相同；以及在 *p*₀ 与 *r*₀ 之间，把 a₈ 的所有副本与 *q*₀ 相同）。Γ₂ 可构造性由构造本身直接证明。以 a₀ 实例之间 θ=18° 的角度铺开五个 Γ₁ 副本，将铺开 5x18° = 90° 的角度，这正是所需的。 moreover，在比如说 *p*₀ 与 *q*₀ 之间从一个 Γ₁ 副本走到下一个副本，等价于该副本绕过原点与 *r*₀ 的轴旋转 18°，这显然保持了副本的点 a₀、a₉ 与 *r*₀ 之间的正交性。
+    step2: |-
+      (2) KS 现按如下方式构造另一个相当复杂的 KS 图 Γ₂：考虑 Γ₁ 在角 θ=18° < sin^{−1}(1/3) 下的一个实现；选择三个正交点 *p*₀、*q*₀、*r*₀，在它们之间安放咬合的 Γ₁ 副本，使一个副本的点 a₉ 的实例与下一副本的 a₀ 的实例相同。这样五个咬合的 Γ₁ 副本被安置在 *p*₀ 与 *q*₀ 之间，且所有五个 a₈ 的实例与 *r*₀ 相同（同样五个咬合副本被安置在 *q*₀ 与 *r*₀ 之间，把 a₈ 的所有副本与 *p*₀ 相同；以及在 *p*₀ 与 *r*₀ 之间，把 a₈ 的所有副本与 *q*₀ 相同）。Γ₂ 可构造性由构造本身直接证明：以 a₀ 实例间 θ=18° 的角度铺开五个 Γ₁ 副本，将铺开 5x18° = 90° 的角度——恰为所需； moreover 在比如 *p*₀ 与 *q*₀ 之间从一个副本走到下一个副本，等价于该副本绕过原点与 *r*₀ 的轴旋转 18°，显然保持副本的点 a₀、a₉ 与 *r*₀ 之间的正交性。
   - id: 59
     kind: body
     source: |-
       > ![fig2](../assets/kochen-specker/fig2.gif) Figure 2: 117-point KS graph Γ₂ (*From* Kochen and Specker 1967, 69; *by permission of the Indiana University Mathematics Journal*)[^kochen-1967]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ![fig2](../yuanwen/assets/kochen-specker/fig2.gif) 图 2：117 点 KS 图 Γ₂（*出自* Kochen and Specker 1967, 69；*经 Indiana University Mathematics Journal 许可*）[^kochen-1967]
+    step2: |-
+      > ![fig2](../yuanwen/assets/kochen-specker/fig2.gif) 图 2：117 点 KS 图 Γ₂（*出自* Kochen and Specker 1967, 69；*经 Indiana University Mathematics Journal 许可*）[^kochen-1967]
   - id: 60
     kind: body
     source: |-
       However, although Γ₂ is constructible it is *not* consistently colourable. From the first step we know that a copy of Γ₁ with θ=18° requires that points a₀ and a₉ have equal colour. Now, since a₉ in one copy of Γ₁ is identical to a₀ in the next copy, a₉ in the second copy must have the same colour as a₀ in the first. Indeed, by repetition of this argument all instances of a₀ must have the same colour. Now, *p*₀, *q*₀, *r*₀ are identified with points a₀, so they must be either all white or all black — both of which are inconsistent with the colouring constraint that exactly one of them be white.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，尽管 Γ₂ 是可构造的，它却*不能*被一致地着色。从第一步我们知道：θ=18° 的 Γ₁ 副本要求点 a₀ 与 a₉ 颜色相同。现在，既然一个 Γ₁ 副本中的 a₉ 与下一个副本中的 a₀ 相同，第二个副本中的 a₉必须与第一个中的 a₀ 同色。事实上，重复这一论证，a₀ 的所有实例必须有同一颜色。现在 *p*₀、*q*₀、*r*₀ 与点 a₀ 被等同，所以它们必须要么全白、要么全黑——两者都与着色约束（恰有一条为白）不一致。
+    step2: |-
+      然而尽管 Γ₂ 可构造，它却*不能*被一致地着色。从第一步知：θ=18° 的 Γ₁ 副本要求点 a₀ 与 a₉ 同色。既然一个副本中的 a₉ 与下一副本中的 a₀ 相同，第二副本中的 a₉ 必与第一副本中的 a₀ 同色；重复这一论证，a₀ 的所有实例必须有同一颜色。现在 *p*₀、*q*₀、*r*₀ 与点 a₀ 被等同——它们必须要么全白、要么全黑，两者都与着色约束（恰有一条为白）不一致。
   - id: 61
     kind: body
     source: |-
       If from the 15 copies of Γ₁ used in the process of constructing Γ₂ we subtract those points that were identified with each other, we end up with 117 different points. So, what KS have shown is that a set of 117 yes-no observables cannot consistently be assigned values in accordance with VC1 (or, equivalently, VC2).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果从构造 Γ₂ 所用的 15 个 Γ₁ 副本中减去那些彼此相同的点，我们最终得到 117 个不同的点。所以 KS 所表明的是：117 个是-否可观察量的集合不能按 VC1（或等价地 VC2）一致地被赋值。
+    step2: |-
+      从构造 Γ₂ 所用的 15 个 Γ₁ 副本中减去彼此相同的点，最终得 117 个不同的点。所以 KS 表明的是：117 个是-否可观察量的集合不能按 VC1（或等价地 VC2）一致地被赋值。
   - id: 62
     kind: body
     source: |-
       Note that in the construction of Γ₁, i.e. the set of 10 points forming 22 interlocking triples, all points except a₉ appear in more than one triple. In Γ₂ every point appears in a multiplicity of triples. It is here that the noncontextuality premise is crucial to the argument: we assume that an arbitrary point keeps its value 1 or 0 as we move from one orthogonal triple to the next (i.e. from one maximal set of compatible observables to another).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      注意：在 Γ₁ 的构造中——即形成 22 个咬合三元组的 10 个点的集合——除 a₉ 外的所有点都出现在不止一个三元组中。在 Γ₂ 中每个点出现在多个三元组中。正是在这里，非语境性前提对论证至关重要：我们假定一个任意的点在我们从一个正交三元组走到下一个时保持其值 1 或 0（即从一个相容可观察量的极大集走到另一个时）。
+    step2: |-
+      注意：在 Γ₁ 的构造（形成 22 个咬合三元组的 10 个点的集合）中，除 a₉ 外所有点都出现在不止一个三元组中；Γ₂ 中每个点出现在多个三元组中。正是在这里非语境性前提对论证至关重要：我们假定一个任意的点在从一个正交三元组走到下一个时保持其值 1 或 0（即从一个相容可观察量的极大集走到另一个时）。
   - id: 63
     kind: body
     source: |-
       ### 3.5 A Statistical KS Argument in Three Dimensions (Clifton)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.5 三维中的统计 KS 论证（Clifton）
+    step2: |-
+      ### 3.5 三维中的统计 KS 论证（Clifton）
   - id: 64
     kind: body
     source: |-
       Recall KS’s first step, which establishes that two points with opposite colour cannot be arbitrarily close. It is this first step which carries the whole force of the argument. Bell had established it in a different way and had then argued that in a noncontextual HV interpretation points with opposite colour must be arbitrarily close. It is this first step that Clifton exploits in an argument that combines Bell’s and KS’s ideas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回想 KS 的第一步，它确立了颜色相反的两点不可能任意接近。正是这第一步承载着论证的全部力量。贝尔以不同的方式确立了它，然后论证在非语境的 HV 解释中颜色相反的点必须任意接近。Clifton 在一个结合贝尔与 KS 思想的论证中利用的正是这第一步。
+    step2: |-
+      回想 KS 的第一步：确立颜色相反的两点不可能任意接近——正是这第一步承载论证的全部力量。贝尔以不同方式确立它，然后论证在非语境的 HV 解释中颜色相反的点必须任意接近。Clifton 在一个结合贝尔与 KS 思想的论证中利用的正是这第一步。
   - id: 65
     kind: body
     source: |-
       > ![fig3](../assets/kochen-specker/fig3.gif) Figure 3: 8-point KS-Clifton graph Γ₃ with inconsistent colouring.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ![fig3](../yuanwen/assets/kochen-specker/fig3.gif) 图 3：着色不一致的 8 点 KS-Clifton 图 Γ₃。
+    step2: |-
+      > ![fig3](../yuanwen/assets/kochen-specker/fig3.gif) 图 3：着色不一致的 8 点 KS-Clifton 图 Γ₃。
   - id: 66
     kind: body
     source: |-
       Consider the KS diagram Γ₃ shown in Figure 3 which obviously is a part of KS’s Γ₁, but which has additional concrete assignments of eight points satisfying the orthogonality relations (and thus proving directly that Γ₃ is constructible). From our previous colouring constraints (joined points are not both white and a triangle has exactly one white point) we see immediately that Γ₃ is colourable only if the outermost points are not both white (which would require, as shown in Fig. 3, that two joined points are white — contrary to the constraints). Moreover, we easily calculate the angle between the two outermost points to be cos^{−1}(1/3).[^note-8] So we conclude that if one wants to colour all eight points and wants to colour white one of the outer ones, then the other must be black. Taking into account that we can insert a diagram between any two points in R₃ which are separated by exactly the angle cos^{−1}(1/3) and translating our problem back from a colouring problem into KS’s example (constraint VC2), we end with a constraint VC2′:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考虑图 3 所示的 KS 图 Γ₃——它显然是 KS 的 Γ₁ 的一部分，但对八个点有额外的具体赋值，满足正交性关系（从而直接证明 Γ₃ 可构造）。从我们先前的着色约束（相连的点不能同为白色，且三角形恰有一个白点），我们立刻看到：Γ₃ 可着色，仅当最外面的两点不都是白色（那将要求——如图 3 所示——两个相连的点是白色，与约束相反）。 moreover，我们容易算出最外面两点之间的角是 cos^{−1}(1/3)。[^note-8] 于是我们得出：如果想要给全部八个点着色、且想把外面之一着白，则另一个必须是黑色。考虑到我们可以在 R₃ 中被角 cos^{−1}(1/3) 恰好分隔的任意两点之间插入一个图，并把我们的问题从着色问题翻译回 KS 的例子（约束 VC2），我们得到约束 VC2′：
+    step2: |-
+      考虑图 3 所示的 KS 图 Γ₃——显然是 KS 的 Γ₁ 的一部分，但对八个点有额外具体赋值，满足正交性关系（从而直接证明 Γ₃ 可构造）。从先前的着色约束（相连的点不能同为白，三角形恰有一个白点）立刻可见：Γ₃ 可着色，仅当最外两点不都是白（那将要求——如图 3 所示——两个相连的点为白，与约束相反）。 moreover 容易算出最外两点之间的角是 cos^{−1}(1/3)。[^note-8] 于是得出：若想给全部八点着色、且想把外面之一着白，另一个必须是黑。考虑到可在 R₃ 中被角 cos^{−1}(1/3) 恰好分隔的任意两点之间插入一个图，并把问题从着色问题翻译回 KS 的例子（约束 VC2），得到约束 VC2′：
   - id: 67
     kind: body
     source: |-
       > (VC2′)   If, for a spin-1 system, a certain direction *x* of spin in space is assigned value 0, then any other direction *x*′ which lies away from *x* by an angle cos^{−1}(1/3) must be assigned value 1, or, in symbols: If *v*(*S*_{*x*})=0, then *v*(*S*_{*x*′})=1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (VC2′)   如果自旋-1 系统在空间中的自旋方向 *x* 被赋值 0，那么离开 *x* 一个 cos^{−1}(1/3) 角度的任何其他方向 *x*′ 必须被赋值 1；用符号表示：若 *v*(*S*_{*x*})=0，则 *v*(*S*_{*x*′})=1。
+    step2: |-
+      > (VC2′)   若自旋-1 系统在空间中的自旋方向 *x* 被赋值 0，则离开 *x* 一个 cos^{−1}(1/3) 角度的任何其他方向 *x*′ 必须被赋值 1；用符号：若 *v*(*S*_{*x*})=0，则 *v*(*S*_{*x*′})=1。
   - id: 68
     kind: body
     source: |-
       The argument so far has made use of the original KS conditions KS1 and KS2. We now assume, in addition, that any constraint on value assignments will show up in the measurement statistics. In particular:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      到目前为止的论证利用了原始 KS 条件 KS1 与 KS2。我们现在额外假定：对值指派的任何约束都会表现在测量统计中。特别地：
+    step2: |-
+      到目前为止的论证利用原始 KS 条件 KS1 与 KS2。现在额外假定：对值指派的任何约束都会表现在测量统计中。特别地：
   - id: 69
     kind: body
     source: |-
       > (3) If prob[*v*(*A*)=*a*] = 1, and *v*(*A*)=*a* implies *v*(*B*)=*b*, then prob[*v*(*B*)=*b*] = 1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > (3) 如果 prob[*v*(*A*)=*a*] = 1，且 *v*(*A*)=*a* 蕴涵 *v*(*B*)=*b*，则 prob[*v*(*B*)=*b*] = 1。
+    step2: |-
+      > (3) 如果 prob[*v*(*A*)=*a*] = 1，且 *v*(*A*)=*a* 蕴涵 *v*(*B*)=*b*，则 prob[*v*(*B*)=*b*] = 1。
   - id: 70
     kind: body
     source: |-
       Despite the use of statistics, this reasoning crucially differs from von Neumann’s argument. Von Neumann had argued that algebraic relations between values should transfer into the statistics of the measured values, therefore the QM constraints on these statistics should have value constraints as their exact mirror images — which reasoning leads us to derive value constraints from statistical constraints (for arbitrary observables). Here, on the contrary, we derive a value constraint independently from any statistical reasoning, and then conclude that this constraint should transfer into the measurement statistics.[^note-9]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管使用了统计，这一推理关键地不同于冯·诺依曼的论证。冯·诺依曼曾论证：值之间的代数关系应转移到被测量值的统计中；因此 QM 对这些统计的约束应当有值约束作为其精确的镜像——这一推理使我们从统计约束（对任意可观察量）导出值约束。这里恰恰相反：我们独立于任何统计推理导出一个值约束，然后得出结论：这一约束应当转移到测量统计之中。[^note-9]
+    step2: |-
+      尽管用了统计，这一推理关键地不同于冯·诺依曼的论证：冯·诺依曼曾论证值之间的代数关系应转移到被测量值的统计中，因此 QM 对这些统计的约束应有值约束作为其精确镜像——这一推理使我们从统计约束（对任意可观察量）导出值约束。这里恰恰相反：我们独立于任何统计推理导出值约束，然后得出：这一约束应转移到测量统计之中。[^note-9]
   - id: 71
     kind: body
     source: |-
       Now, VC2′ and the statistical condition (3) entail: If prob[*v*(*S*_{*x*})=0]=1, then prob[*v*(*S*_{*x*′})=1]=1. This, however, contradicts the statistics derived from QM for a state where prob[*v*(*S*_{*x*})=0] = 1.[^note-10] In fact, there is a probability of 1/17 that *v*(*S*_{*x*′}=0). So, in a long-run test 1/17 of the spin-1 particles will violate the constraint.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，VC2′ 与统计条件 (3) 蕴涵：如果 prob[*v*(*S*_{*x*})=0]=1，则 prob[*v*(*S*_{*x*′})=1]=1。然而这 contradicts 从 QM 为 prob[*v*(*S*_{*x*})=0] = 1 的态导出的统计。[^note-10] 事实上，*v*(*S*_{*x*′}=0) 的概率是 1/17。于是，在长期检验中 1/17 的自旋-1 粒子将违反该约束。
+    step2: |-
+      现在 VC2′ 与统计条件 (3) 蕴涵：若 prob[*v*(*S*_{*x*})=0]=1，则 prob[*v*(*S*_{*x*′})=1]=1。然而这 contradicts 从 QM 为 prob[*v*(*S*_{*x*})=0] = 1 的态导出的统计。[^note-10] 事实上 *v*(*S*_{*x*′}=0) 的概率是 1/17——长期检验中 1/17 的自旋-1 粒子将违反该约束。
   - id: 72
     kind: body
     source: |-
       If we accept Clifton’s statistical reasoning, we have an entirely valid KS argument establishing a contradiction between an HV interpretation of QM and the very predictions of QM. Clifton presents also a slightly more complex set of 13 observables yielding, along the same lines, a statistical contradiction of 1/3.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果我们接受 Clifton 的统计推理，我们就有一个完全有效的 KS 论证：确立 QM 的 HV 解释与 QM 本身的预测之间的矛盾。Clifton 还呈示了一个稍复杂的 13 可观察量集合，沿同样的路线产生 1/3 的统计矛盾。
+    step2: |-
+      若接受 Clifton 的统计推理，就有一个完全有效的 KS 论证：确立 QM 的 HV 解释与 QM 本身的预测之间的矛盾。Clifton 还呈示一个稍复杂的 13 可观察量集合，沿同样的路线产生 1/3 的统计矛盾。
   - id: 73
     kind: body
     source: |-
       Clifton’s argument uses 8 (or 13) observables, fixes a value of one of them (*S*_{*x*}) and derives a HV prediction at variance with a QM prediction for a second one (*S*_{*x*′}). Hence, if a state can be produced where the QM system definitely has value *v*(*S*_{*x*})=0 the predictions can be tested empirically. But fixing such a state experimentally is not an easy matter. So Clifton’s argument depends on a state that may be difficult to produce or isolate. Recently, a construction of 13 observables has been found that allows for a state-independent statistical argument (Yu and Oh 2012).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Clifton 的论证使用 8（或 13）个可观察量，固定其中一个（*S*_{*x*}）的值，并导出一个与 QM 对第二个（*S*_{*x*′}）的预测相抵触的 HV 预测。因此，如果能产生一个 QM 系统确定地有值 *v*(*S*_{*x*})=0 的态，预测就可以被经验地检验。但以实验固定这样的态不是容易的事。所以 Clifton 的论证依赖一个可能难以产生或分离的态。近来，人们找到了一个 13 可观察量的构造，允许一个态无关的统计论证（Yu and Oh 2012）。
+    step2: |-
+      Clifton 的论证使用 8（或 13）个可观察量，固定其一（*S*_{*x*}）的值，并导出与 QM 对第二个（*S*_{*x*′}）的预测相抵触的 HV 预测。因此若能产生 QM 系统确定地有值 *v*(*S*_{*x*})=0 的态，预测就可以被经验检验；但以实验固定这样的态不容易。故 Clifton 的论证依赖一个可能难以产生或分离的态。近来人们找到 13 可观察量的构造，允许态无关的统计论证（Yu and Oh 2012）。
   - id: 74
     kind: body
     source: |-
       ## 4. The Functional Composition Principle
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 函数复合原则
+    step2: |-
+      ## 4 函数复合原则
   - id: 75
     kind: body
     source: |-
       The key ingredients of the KS theorem are the constraints on value assignments spelled out in (2): the Sum Rule and Product Rule. They can be derived from a more general principle, called the *Functional Composition Principle* (FUNC).[^note-11] The principle trades on the mathematical fact that for a self-adjoint operator A operating on a Hilbert space, and an arbitrary function f: **R**→**R** (where **R** is the set of the real numbers), we can define f(A) and show that it also is a self-adjoint operator (hence, we write f(A)). If we further assume that to every self-adjoint operator there corresponds a QM observable, then the principle can be formulated thus:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 定理的关键成分是 (2) 中陈述的值指派约束：和规则与积规则。它们可以从一个更一般的原则——所谓*函数复合原则*（FUNC）——导出。[^note-11] 该原则利用一个数学事实：对一个作用于希尔伯特空间的自伴算符 A 与任意函数 f: **R**→**R**（**R** 是实数集），我们可以定义 f(A) 并表明它也是自伴算符（因此我们写 f(A)）。如果我们进一步假定每个自伴算符都对应一个 QM 可观察量，则该原则可以如此表述：
+    step2: |-
+      KS 定理的关键成分是 (2) 中陈述的值指派约束：和规则与积规则。它们可从更一般的原则——所谓*函数复合原则*（FUNC）——导出。[^note-11] 该原则利用一个数学事实：对作用于希尔伯特空间的自伴算符 A 与任意函数 f: **R**→**R**（**R** 为实数集），可定义 f(A) 并表明它也是自伴算符（故写 f(A)）。若进一步假定每个自伴算符都对应一个 QM 可观察量，则该原则可如此表述：
   - id: 76
     kind: body
     source: |-
       > **FUNC:**  Let A be a self-adjoint operator associated with observable A, let f: **R** → **R** be an arbitrary function, such that f(A) is another self-adjoint operator, and let |φ> be an arbitrary state; then f(A) is associated uniquely with an observable *f*(*A*) such that:
       >
       > > *v*(*f*(*A*))^{|φ>} = *f*(*v*(*A*))^{|φ>}
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **FUNC:** 设 A 是与可观察量 A 相联的自伴算符，设 f: **R** → **R** 是任意函数，使得 f(A) 是另一个自伴算符，设 |φ> 是任意态；则 f(A) 唯一地对应一个可观察量 *f*(*A*)，使得：
+      >
+      > > *v*(*f*(*A*))^{|φ>} = *f*(*v*(*A*))^{|φ>}
+    step2: |-
+      > **FUNC:** 设 A 是与可观察量 A 相联的自伴算符，设 f: **R** → **R** 是任意函数，使 f(A) 是另一自伴算符，设 |φ> 是任意态；则 f(A) 唯一地对应一个可观察量 *f*(*A*)，使得：
+      >
+      > > *v*(*f*(*A*))^{|φ>} = *f*(*v*(*A*))^{|φ>}
   - id: 77
     kind: body
     source: |-
       (We introduce the state superscript above to allow for a possible dependence of values on the particular quantum state the system is prepared in.) The Sum Rule and the Product Rule are straightforward consequences of FUNC [[Sum and Product Rules Proof](kochen-specker.srprfunc.md)]. FUNC itself is not derivable from the formalism of QM, but a statistical version of it (called STAT FUNC) is [[Derivation of STAT FUNC](kochen-specker.sfderiv.md)]:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （我们引入上面的态上标，以允许值对系统被制备于其中的特定量子态的可能依赖。）和规则与积规则是 FUNC 的直接推论［［和规则与积规则的证明］(kochen-specker.srprfunc.md)］。FUNC 本身不可从 QM 的形式主义导出，但它的一个统计版本（称为 STAT FUNC）可以［［STAT FUNC 的推导］(kochen-specker.sfderiv.md)］：
+    step2: |-
+      （引入态上标是为允许值对系统被制备于其中的特定量子态的可能依赖。）和规则与积规则是 FUNC 的直接推论［［和规则与积规则的证明］(kochen-specker.srprfunc.md)］。FUNC 本身不可从 QM 形式主义导出，但其统计版本（称 STAT FUNC）可以［［STAT FUNC 的推导］(kochen-specker.sfderiv.md)］：
   - id: 78
     kind: body
     source: |-
       > **STAT FUNC:**  Given *A*, *f*, |φ> as defined in FUNC, then, for an arbitrary real number *b*:
       >
       > > prob[*v*(*f*(*A*))^{|φ>}=*b*] = prob[f*(v*(*A*))^{|φ>}=*b*]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **STAT FUNC:** 给定如 FUNC 中定义的 *A*、*f*、|φ>，则对任意实数 *b*：
+      >
+      > > prob[*v*(*f*(*A*))^{|φ>}=*b*] = prob[f*(v*(*A*))^{|φ>}=*b*]
+    step2: |-
+      > **STAT FUNC:** 给定如 FUNC 中定义的 *A*、*f*、|φ>，则对任意实数 *b*：
+      >
+      > > prob[*v*(*f*(*A*))^{|φ>}=*b*] = prob[f*(v*(*A*))^{|φ>}=*b*]
   - id: 79
     kind: body
     source: |-
       But STAT FUNC cannot only be derived from the QM formalism; it also follows from FUNC [[STAT FUNC Proof](kochen-specker.statfunc.md)]. This can be seen as providing “a plausibility argument for FUNC” (Redhead 1987: 132)[^redhead-1987]: STAT FUNC is true, as a matter of the mathematics of QM. Now, if FUNC were true, we could derive STAT FUNC, and thus understand part of the mathematics of QM as a consequence of FUNC.[^note-12]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但 STAT FUNC 不只能从 QM 形式主义导出；它也 follows from FUNC［［STAT FUNC 证明］(kochen-specker.statfunc.md)］。这可以被看作“为 FUNC 提供了一个可信性论证”（Redhead 1987: 132）[^redhead-1987]：STAT FUNC 就 QM 的数学而言为真。现在，如果 FUNC 为真，我们就能导出 STAT FUNC，从而把 QM 数学的这一部分理解为 FUNC 的推论。[^note-12]
+    step2: |-
+      但 STAT FUNC 不只能从 QM 形式主义导出；它也 follows from FUNC［［STAT FUNC 证明］(kochen-specker.statfunc.md)］。这可视为“为 FUNC 提供可信性论证”（Redhead 1987: 132）[^redhead-1987]：STAT FUNC 就 QM 的数学而言为真。若 FUNC 为真，就能导出 STAT FUNC，从而把 QM 数学的这一部分理解为 FUNC 的推论。[^note-12]
   - id: 80
     kind: body
     source: |-
       But how can we derive FUNC itself, if not from STAT FUNC? It is a direct consequence of STAT FUNC and three assumptions (two of which are familiar from the introduction):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但是，如果不是从 STAT FUNC 出发，我们如何导出 FUNC 本身？它是 STAT FUNC 与三个假定（其中两个已在导言中出现）的直接推论：
+    step2: |-
+      但若不从 STAT FUNC 出发，如何导出 FUNC 本身？它是 STAT FUNC 与三个假定（其中两个已在导言出现）的直接推论：
   - id: 81
     kind: body
     source: |-
@@ -512,236 +700,322 @@ segments:
       > **Value Definiteness (VD):** All observables defined for a QM system have definite values at all times.
       >
       > **Noncontextuality (NC):** If a QM system possesses a property (value of an observable), then it does so independently of any measurement context.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **价值实在论（VR）：** 如果存在一个被操作性地定义的实数 α，与自伴算符 A 相联，且对给定态，QM 的统计算法对 A 产出实数 β、β = prob(*v*(A)=α)，那么存在一个可观察量 *A*，其值为 α。
+      >
+      > **价值确定性（VD）：** 为 QM 系统定义的所有可观察量在一切时刻都有确定值。
+      >
+      > **非语境性（NC）：** 如果一个 QM 系统拥有一个性质（可观察量的值），那么它独立于任何测量语境而拥有它。
+    step2: |-
+      > **价值实在论（VR）：** 若存在被操作性地定义的实数 α，与自伴算符 A 相联，且对给定态，QM 的统计算法对 A 产出实数 β、β = prob(*v*(A)=α)，则存在可观察量 *A*，其值为 α。
+      >
+      > **价值确定性（VD）：** 为 QM 系统定义的所有可观察量在一切时刻都有确定值。
+      >
+      > **非语境性（NC）：** 若 QM 系统拥有一个性质（可观察量的值），则它独立于任何测量语境而拥有它。
   - id: 82
     kind: body
     source: |-
       VR and NC require further explanation. First, we need to explain the content of VR. The statistical algorithm of QM tells us how to calculate a probability from a given state, a given observable and its possible value. Here we understand it as a mere mathematical device without any physical interpretation: Given a Hilbert space vector, an operator and its eigenvalues, the algorithm tells us how to calculate new numbers (which have the properties of probabilities). In addition, by ‘operationally defined’ we here simply mean ‘made up from a number which we know to denote a real property’. So, VR, in effect, says that, if we have a real property Γ (value Γ of an observable G), and we are able to construct from Γ a new number α and find an operator A such that α is an eigenvalue of A, then (we have fulfilled everything necessary to apply the statistical algorithm; thus) A represents an observable A and its value α is a real property.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      VR 与 NC 需要进一步解释。首先，我们需要解释 VR 的内容。QM 的统计算法告诉我们如何从给定态、给定可观察量及其可能的值计算概率。这里我们把它理解为单纯的数学装置，没有任何物理诠释：给定希尔伯特空间矢量、算符及其本征值，该算法告诉我们如何计算新数字（它们具有概率的性质）。此外，我们这里所谓“操作性地定义”，就是指“由我们已知的、标示实在性质的数字构成”。于是 VR 实际上说：如果我们有一个实在性质 Γ（可观察量 G 的值 Γ），并且我们能够从 Γ 构造一个新数 α、并找到一个算符 A 使 α 是 A 的本征值，那么（我们已经满足了应用统计算法的一切必要条件；因此）A 表示一个可观察量 A，且其值 α 是一个实在性质。
+    step2: |-
+      VR 与 NC 需进一步解释。首先解释 VR 的内容：QM 的统计算法告诉我们如何从给定态、可观察量及其可能值计算概率——这里把它理解为单纯的数学装置，没有任何物理诠释：给定希尔伯特空间矢量、算符及其本征值，算法告诉我们如何计算新数字（具有概率的性质）。此外，我们所谓“操作性地定义”就是指“由已知的、标示实在性质的数字构成”。于是 VR 实际说：若有实在性质 Γ（可观察量 G 的值 Γ），且能从 Γ 构造新数 α、并找到算符 A 使 α 是 A 的本征值，则（已满足应用统计算法的一切必要条件；因此）A 表示一个可观察量 A，其值 α 是实在性质。
   - id: 83
     kind: body
     source: |-
       Second, a failure of NC could be understood in two ways. Either the value of an observable might be context-dependent, although the observable itself is not; or the value of an observable might be context-dependent, because the observable itself is. In either case, the independence from context of an observable implies that there is a correspondence of observables and operators. This implication of NC is what we will use presently in the derivation of FUNC. We will indeed assume that, if NC holds, this means that the *observable* — and *thereby* also its value — is independent of the measurement context, i.e. is independent of how it is measured. In particular, the independence from context of an observable implies that there is a 1:1 correspondence of observables and operators. This implication of NC is what we will use presently in the derivation of FUNC. *Conversely*, failure of NC will be construed solely as failure of the 1:1 correspondence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其次，NC 的失败可以被以两种方式理解。要么一个可观察量的值可能是语境依赖的，虽然可观察量本身不是；要么一个可观察量的值是语境依赖的，因为可观察量本身如此。无论哪种情形，可观察量对语境的独立性都蕴涵可观察量与算符之间有一个对应关系。这一 NC 的推论正是我们稍后在 FUNC 的推导中将要使用的。我们确实将假定：如果 NC 成立，这意味着*可观察量*——*从而*还有它的值——独立于测量语境，即独立于它如何被测量。特别地，可观察量对语境的独立性蕴涵可观察量与算符之间存在 1:1 对应。这一 NC 的推论正是我们稍后在 FUNC 的推导中将要使用的。*反过来*，NC 的失败将被仅仅解释为 1:1 对应的失败。
+    step2: |-
+      其次，NC 的失败可以两种方式理解：要么可观察量的值可能是语境依赖的（虽可观察量本身不是）；要么可观察量的值语境依赖，因为可观察量本身如此。无论哪种情形，可观察量对语境的独立性都蕴涵可观察量与算符之间有对应关系——这一 NC 的推论正是稍后 FUNC 推导中将要使用的。我们确实将假定：若 NC 成立，这意味着*可观察量*——*从而*其值——独立于测量语境（即独立于如何被测量）。特别地，可观察量对语境的独立性蕴涵可观察量与算符间存在 1:1 对应；这一推论正是稍后 FUNC 推导中将要使用的。*反过来*，NC 的失败将被仅仅解释为 1:1 对应的失败。
   - id: 84
     kind: body
     source: |-
       From VR, VD, NC and STAT FUNC, we can derive FUNC as follows. Consider an arbitrary state of a system and an arbitrary observable *Q*. By VD, *Q* possesses a value *v*(*Q*)=*a*. Thus, we can form the number *f*(*v*(*Q*))=*b* for an arbitrary function *f*. For this number, by STAT FUNC, prob[*f*(*v*(*Q*))=*b*] = prob[*v*(*f*(*Q*))=*b*]. Hence, we have, by transforming probabilities according to STAT FUNC, created a new self-adjoint operator f(Q), and associated it with the two real numbers *b* and prob[*f*(*v*(*Q*))=*b*]. Thus, by VR, there is an observable corresponding to f(Q) with value *b*, hence *f*(*v*(*Q*))=*v*(*f*(*Q*)). By NC, that observable is unique, hence FUNC follows.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      从 VR、VD、NC 与 STAT FUNC，我们可以如下导出 FUNC。考虑一个系统的任意态与一个任意可观察量 *Q*。由 VD，*Q* 拥有值 *v*(*Q*)=*a*。于是我们可以对任意函数 *f* 构造数 *f*(*v*(*Q*))=*b*。对这个数，由 STAT FUNC，prob[*f*(*v*(*Q*))=*b*] = prob[*v*(*f*(*Q*))=*b*]。于是，通过按 STAT FUNC 转换概率，我们创造了新的自伴算符 f(Q)，并把两个实数 *b* 与 prob[*f*(*v*(*Q*))=*b*] 与之相联。这样，由 VR，存在对应于 f(Q) 的可观察量，其值为 *b*，故 *f*(*v*(*Q*))=*v*(*f*(*Q*))。由 NC，那个可观察量是唯一的，于是 FUNC 得出。
+    step2: |-
+      从 VR、VD、NC 与 STAT FUNC 可如下导出 FUNC：考虑系统任意态与任意可观察量 *Q*；由 VD，*Q* 拥有值 *v*(*Q*)=*a*。于是对任意函数 *f* 构造数 *f*(*v*(*Q*))=*b*。对这个数，由 STAT FUNC，prob[*f*(*v*(*Q*))=*b*] = prob[*v*(*f*(*Q*))=*b*]。于是通过按 STAT FUNC 转换概率，我们创造了新自伴算符 f(Q)，并把两个实数 *b* 与 prob[*f*(*v*(*Q*))=*b*] 与之相联。这样由 VR，存在对应 f(Q) 的可观察量，其值为 *b*，故 *f*(*v*(*Q*))=*v*(*f*(*Q*))；由 NC，该可观察量唯一，于是 FUNC 得出。
   - id: 85
     kind: body
     source: |-
       ## 5. Escaping the KS Argument
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 逃脱 KS 论证
+    step2: |-
+      ## 5 逃脱 KS 论证
   - id: 86
     kind: body
     source: |-
       The previous section clarifies which possibilities the HV theorist has to escape the KS argument: denying one of the three premises which together entail FUNC (hence the Sum Rule and Product Rule).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上一节澄清了 HV 理论家逃脱 KS 论证的可能性：否定共同蕴涵 FUNC（从而和规则与积规则）的三个前提之一。
+    step2: |-
+      上一节澄清了 HV 理论家逃脱 KS 论证的可能：否定共同蕴涵 FUNC（从而和规则与积规则）的三个前提之一。
   - id: 87
     kind: body
     source: |-
       ### 5.1 No General Value Definiteness
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 没有普遍的价值确定性
+    step2: |-
+      ### 5.1 没有普遍的价值确定性
   - id: 88
     kind: body
     source: |-
       VD, we recall, was the fundamental presupposition of a fully-fledged HV interpretation. So, if, in order to escape a powerful argument against the possibility of HV interpretations, these interpretations drop their fundamental premise, this seems not to make much sense. But some interpreters point out that, between holding that only those observables which QM prescribes to have values[^note-13] and holding that all of them have values, there is some leeway, namely, to propose that a set of observables, different from the one prescribed in QM (but neither, in general, more than these, nor, of course, all) have values. This option is called ‘partial value definiteness.’ One way to do this is to choose, once and for, a set of observables that can be assigned definite values without running afoul of the KS Theorem. The best-known example of this is the de Broglie-Bohm pilot wave theory, on which position and functions of position always have definite values. Another approach is to let the set of definite observables vary with the state; this is the approach taken by various modal interpretations. A variant on this approach is that of Bub (1997), on which some observable *R* is chosen to to be always-definite; the set of definite observables is then expanded to the maximal set that avoids a KS obstruction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      回想一下，VD 是一个完全成熟的 HV 解释的根本预设。所以，如果为了逃脱反对 HV 解释之可能性的有力论证，这些解释放弃其根本前提，这似乎没什么意义。但一些解释者指出：在主张只有 QM 规定有值的那些可观察量有值[^note-13]与主张全部有值之间，有一些余地，即提出：一个不同于 QM 所规定的集合（但一般既不多于这些、当然也不全部）的可观察量集合有值。这一选项被称为“部分价值确定性”。一种做法是一劳永逸地选出一组可以被赋予确定值而不触犯 KS 定理的可观察量。最著名的例子是德布罗意-玻姆导波理论：位置与位置的函数总有确定值。另一种进路是让确定可观察量的集合随态而变；这是各种模态解释所采取的进路。这一进路的一个变体是 Bub（1997）：选择某个可观察量 *R* 永远确定；然后把确定可观察量的集合扩展到避免 KS 障碍的极大集合。
+    step2: |-
+      回想 VD 是一个完全成熟的 HV 解释的根本预设——若为逃脱反对 HV 解释之可能性的有力论证而放弃根本前提，似乎没什么意义。但一些解释者指出：在主张只有 QM 规定有值的可观察量有值[^note-13]与主张全部有值之间，有少许余地：提出一个不同于 QM 所规定的集合（但一般既不多于这些、当然也不全部）有值——这称“部分价值确定性”。一种做法是一劳永逸选出一组可赋确定值而不触犯 KS 定理的可观察量：最著名的例子是德布罗意-玻姆导波理论——位置与位置的函数总有确定值。另一种进路是让确定可观察量的集合随态而变：这是各种模态解释的进路。其变体是 Bub（1997）：选某可观察量 *R* 永远确定；然后把确定可观察量的集合扩展到避免 KS 障碍的极大集合。
   - id: 89
     kind: body
     source: |-
       The rocks and shoals of modal interpretations are beyond the scope of this article (see the entry on modal interpretations). We just note that it is by no means clear how these interpretations can manage to always pick out the right set of observables assumed to have values. ‘Right set’ here minimally means that observables we perceive as having values (i.e. those corresponding to the measurement apparatus’s pointer position) must always be included and must always reproduce the QM statistics. We also mention two important results which cast doubt on the feasibility of modal interpretations: First, it can be shown that either partial value definiteness collapses into total value definiteness (i.e., VD) or classical reasoning about physical properties must be abandoned (Clifton 1995)[^clifton-1995]. Second, it is possible to derive KS theorems even in certain modal interpretations (Bacciagaluppi 1995, Clifton 1996)[^bacciagaluppi-1995][^clifton-1996].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      模态解释的暗礁与险滩超出本文的范围（见模态解释词条）。我们只注意：这些解释如何能总能挑出被认为有值的正确可观察量集合，绝不清楚。“正确集合”在这里最少意味着：我们知觉为有值的可观察量（即对应测量装置指针位置的那些）必须总被包括，且必须总复制 QM 统计。我们还提到两个使模态解释的可行性可疑的重要结果：第一，可以表明：要么部分价值确定性坍缩为总体价值确定性（即 VD），要么必须放弃关于物理性质的古典推理（Clifton 1995）[^clifton-1995]；第二，在某些模态解释中也可能导出 KS 定理（Bacciagaluppi 1995, Clifton 1996）[^bacciagaluppi-1995][^clifton-1996]。
+    step2: |-
+      模态解释的暗礁与险滩超出本文范围（见模态解释词条）。只注意：这些解释如何总能挑出被认为有值的正确可观察量集合，绝不清楚。“正确集合”最少意味着：我们知觉为有值的可观察量（对应测量装置指针位置者）必须总被包括，且总复制 QM 统计。还提到两个使模态解释可行性可疑的重要结果：其一，可表明部分价值确定性要么坍缩为总体价值确定性（即 VD），要么必须放弃关于物理性质的古典推理（Clifton 1995）[^clifton-1995]；其二，在某些模态解释中也可能导出 KS 定理（Bacciagaluppi 1995, Clifton 1996）[^bacciagaluppi-1995][^clifton-1996]。
   - id: 90
     kind: body
     source: |-
       Recently it has been argued that the denial of VD is inconsistent with QM itself (Held 2008, 2012a, 2012b)[^held-2008]. The argument tries to show that VD is a consequence of the theory itself (QM → VD). If this is indeed the case we have — recalling that KS establish that QM & VD & NC implies a contradiction — an argument for the claim that QM alone implies contextuality. Since, in that case, QM also implies VD we get, all in all, an argument for the claim that QM must be interpreted in terms of contextual hidden variables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      近来有人论证：对 VD 的否认与 QM 本身不一致（Held 2008, 2012a, 2012b）[^held-2008]。该论证试图表明 VD 是理论本身的推论（QM → VD）。如果确实如此，我们就有——回想 KS 确立 QM & VD & NC 蕴涵矛盾——QM 单独蕴涵语境性的论证。既然那种情形下 QM 也蕴涵 VD，我们最终得到一个论证：QM 必须以语境隐变量的方式来解释。
+    step2: |-
+      近来有人论证：对 VD 的否认与 QM 本身不一致（Held 2008, 2012a, 2012b）[^held-2008]。该论证试图表明 VD 是理论本身的推论（QM → VD）。若确实如此，我们就有——回想 KS 确立 QM & VD & NC 蕴涵矛盾——QM 单独蕴涵语境性的论证；既然那种情形下 QM 也蕴涵 VD，最终得到论证：QM 必须以语境隐变量的方式解释。
   - id: 91
     kind: body
     source: |-
       ### 5.2 Denial of Value Realism
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 否认价值实在论
+    step2: |-
+      ### 5.2 否认价值实在论
   - id: 92
     kind: body
     source: |-
       The derivation of FUNC essentially consists in the construction of an observable (i.e. *f*(*Q*)) via an operator (i.e., f(Q)) from the probability distribution of a variable (i.e. *f*(*v*(*Q*)) which number in turn is constructed from another variable, (i.e. *v*(*Q*)). Now, instead of denying that *v*(*Q*) exists in all cases (as the first option (5.1) would have it), we can reject that the existence of a number α and the construction of f(Q) automatically lead to an observable, i.e. we reject VR. This amounts to rejecting that for every self-adjoint operator, there is a well-defined observable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      FUNC 的推导本质上在于：从一个变量（即 *f*(*v*(*Q*))，这个数又从另一个变量即 *v*(*Q*) 构造）的概率分布、经由一个算符（即 f(Q)）构造一个可观察量（即 *f*(*Q*))。现在，与其否认 *v*(*Q*) 在一切情形中存在（如第一个选项 5.1 所为），我们可以拒绝：数 α 的存在与 f(Q) 的构造自动导向一个可观察量，即我们拒绝 VR。这等于拒绝：对每个自伴算符，都有一个定义良好的可观察量。
+    step2: |-
+      FUNC 的推导本质上在于：从一个变量（即 *f*(*v*(*Q*))，这个数又从另一个变量即 *v*(*Q*) 构造）的概率分布、经由算符（即 f(Q)）构造可观察量（即 *f*(*Q*))。现在与其否认 *v*(*Q*) 在一切情形中存在（如第一个选项 5.1），我们可以拒绝：数 α 的存在与 f(Q) 的构造自动导向一个可观察量——即拒绝 VR；这等于拒绝对每个自伴算符都有定义良好的可观察量。
   - id: 93
     kind: body
     source: |-
       Now, in order to formulate VR we had to give a reduced reading to the statistical algorithm, i.e. that it is a mere mathematical device for calculating numbers from vectors, operators and numbers. This reading is very artificial and presupposes that a minimal interpretive apparatus required to make physical sense of some operators (like Q) can be withheld for others (like f(Q)).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      现在，为了表述 VR，我们曾不得不给统计算法一个缩减的读法：它是一个从矢量、算符与数字计算数字的单纯数学装置。这一读法非常人为，它预设：使某些算符（如 Q）获得物理意义的最低限度诠释装置，可以被对另一些算符（如 f(Q)）扣留。
+    step2: |-
+      为表述 VR，我们曾不得不给统计算法一个缩减的读法：它是从矢量、算符与数字计算数字的单纯数学装置。这一读法非常人为：它预设使某些算符（如 Q）获得物理意义的最低限度诠释装置，可以被对另一些算符（如 f(Q)）扣留。
   - id: 94
     kind: body
     source: |-
       Moreover, it seems entirely implausible to assume that some operators — sums and products of operators that are associated with well-defined observables — are themselves not associated with well-defined observables, even if they mathematically inherit exact values from their summands or factors. Put in a crude example, this would amount to saying that to ask for a system’s energy is a well-defined question, while to ask for the square of the system’s energy is not, even if, from our answer to the first question and trivial mathematics, we have a well-defined answer at hand. There seems no good a priori reason to justify this restriction. So, to make rejecting VR plausible at all, an additional proposal is made: It is crucial to the KS argument that one and the same operator is constructed from different maximal ones which are incompatible: f(Q) is identical to g(P), where PQ − QP ≠ 0. We now assume that only the construction of f(Q) via *Q*, but not the one via *P*, leads to a well-defined observable in a certain context.[^note-14]
-    step1: TBD
-    step2: TBD
+    step1: |-
+       moreover，假定某些算符——与定义良好的可观察量相联的算符之和与积——本身不与定义良好的可观察量相联，即便它们在数学上从其加项或因子继承精确的值，似乎完全难以置信。举一个粗略的例子：这等于说，问一个系统的能量是定义良好的问题，而问这个系统的能量的平方则不是——即使从我们对第一个问题的回答与平凡的数学，我们手头已有定义良好的答案。似乎没有好的先天理由为这一限制辩护。因此，为使拒绝 VR 本身可信，人们提出了一个额外的提案：对 KS 论证至关重要的是，同一个算符由彼此不相容的不同的极大算符构造而成：f(Q) 恒等于 g(P)，其中 PQ − QP ≠ 0。我们现在假定：只有经由 *Q* 的 f(Q) 构造（而非经由 *P* 的构造）在某语境中导向定义良好的可观察量。[^note-14]
+    step2: |-
+       moreover，假定某些算符（与定义良好的可观察量相联的算符之和与积）本身不与定义良好的可观察量相联——即便它们在数学上从加项或因子继承精确值——似乎完全难以置信。举粗略的例子：这等于说问一个系统的能量是定义良好的问题，而问其能量的平方不是——即使从第一个问题的回答与平凡的数学，手头已有定义良好的答案。似乎没有好的先天理由为这一限制辩护。因此为使拒绝 VR 本身可信，人们提出额外提案：对 KS 论证至关重要的是，同一算符由彼此不相容的不同的极大算符构造——f(Q) 恒等于 g(P)，其中 PQ − QP ≠ 0。现在假定：只有经 *Q* 的 f(Q) 构造（而非经 *P* 的构造）在某语境中导向定义良好的可观察量。[^note-14]
   - id: 95
     kind: body
     source: |-
       This move however, automatically makes some observables context-sensitive. So, this way of motivating the denial of VR amounts to a kind of contextualism, which we might come by cheaper, by directly rejecting NC, and without any tampering with the statistical algorithm. (This fact explains why we did not mention denial of VR as a separate option in the introduction.).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而这一举动自动使一些可观察量成为语境敏感的。所以，这种为否认 VR 辩护的方式相当于一种语境主义；我们本可以通过直接拒绝 NC、而不对统计算法做任何手脚，更便宜地得到它。（这一事实解释了为什么我们在导言中没有把否认 VR 作为单独的选项提到。）
+    step2: |-
+      然而这一举动自动使一些可观察量语境敏感。所以这种为否认 VR 辩护的方式相当于一种语境主义；本可以通过直接拒绝 NC、不对统计算法做任何手脚而更便宜地得到它（这一事实解释了为何我们在导言没把否认 VR 作为单独的选项提到）。
   - id: 96
     kind: body
     source: |-
       ### 5.3 Contextuality
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 语境性
+    step2: |-
+      ### 5.3 语境性
   - id: 97
     kind: body
     source: |-
       Finally, we might accept VD and VR, but deny that our construction of an observable *f*(*Q*) is unambiguous. Thus, though f(Q) and g(P) are mathematically identical, we could assume that they correspond to different observables, arguing that an actual determination of *v*(*f*(*Q*)) must proceed via measuring *Q*, but the determination of *v*(*g*(*P*)) involves measuring *P* which is incompatible with *Q*. Since *v*(*f*(*Q*)) and *v*(*g*(*P*)) are thus outcomes of different measurement situations, there is no reason to assume that *v*(*f*(*Q*)) = *v*(*g*(*P*)). This way to block the KS proof comes to understanding *f*(*Q*) and *g*(*P*) as different observables (because of sensitivity to context), thus it amounts to rejecting NC. There are mainly two ways, in the literature, to further motivate this step. Accordingly, there are two important brands of contextuality to be discussed — causal and ontological contextuality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，我们可以接受 VD 与 VR，但否认我们对可观察量 *f*(*Q*) 的构造是无歧义的。这样，尽管 f(Q) 与 g(P) 在数学上同一，我们可以假定它们对应不同的可观察量，理由是：*v*(*f*(*Q*)) 的实际确定必须经由测量 *Q* 进行，而 *v*(*g*(*P*)) 的确定涉及测量与 *Q* 不相容的 *P*。由于 *v*(*f*(*Q*)) 与 *v*(*g*(*P*)) 因而是不同测量情形的结果，没有理由假定 *v*(*f*(*Q*)) = *v*(*g*(*P*))。这一阻断 KS 证明的方式，是把 f(Q) 与 g(P) 理解为不同的可观察量（因为对语境的敏感），因此等于拒绝 NC。在文献中，主要有两种方式进一步推动这一步。相应地，有两种重要的语境性要讨论——因果的与存在论的语境性。
+    step2: |-
+      最后，我们可以接受 VD 与 VR，但否认对可观察量 *f*(*Q*) 的构造无歧义：这样，尽管 f(Q) 与 g(P) 数学上同一，可假定它们对应不同的可观察量——理由是 *v*(*f*(*Q*)) 的实际确定须经测量 *Q*，而 *v*(*g*(*P*)) 的确定涉及测量与 *Q* 不相容的 *P*。由于 *v*(*f*(*Q*)) 与 *v*(*g*(*P*)) 因而是不同测量情形的结果，没有理由假定 *v*(*f*(*Q*)) = *v*(*g*(*P*))。这一阻断 KS 证明的方式，是把 f(Q) 与 g(P) 理解为不同的可观察量（因对语境敏感），故等于拒绝 NC。文献中主要有两种方式推动这一步；相应地有两种重要的语境性要讨论——因果的与存在论的语境性。
   - id: 98
     kind: body
     source: |-
       The KS argument has been presented for possessed values of a QM system — independently of considerations about measurement. Indeed, in the argument measurement was mentioned only once and in the negative — in NC. However, since now we consider the rejection of NC, we must also take into account measurement and its complications. For that purpose it is good to explicate yet another principle that manifests our innocuous realism (see the introduction above), i.e. a principle of faithful measurement:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      KS 论证是针对 QM 系统所拥有的值而提出的——独立于关于测量的考虑。事实上，在论证中测量只被提到一次，而且是以否定的方式——在 NC 中。然而既然现在我们考虑对 NC 的拒绝，我们也必须把测量及其复杂性考虑在内。为此，最好再阐明另一条体现我们的无害实在论（见上文导言）的原则，即忠实测量的原则：
+    step2: |-
+      KS 论证是针对 QM 系统所拥有的值提出的——独立于关于测量的考虑。事实上论证中测量只被提到一次，且以否定方式——在 NC 中。然而既然现在考虑对 NC 的拒绝，也须把测量及其复杂性考虑在内。为此最好再阐明另一条体现我们的无害实在论（见上文导言）的原则——忠实测量的原则：
   - id: 99
     kind: body
     source: |-
       > **Faithful Measurement (FM):** QM measurement of an observable faithfully delivers the value which that observable had immediately prior to the measurement interaction.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > **忠实测量（FM）：** 对一个可观察量的 QM 测量，忠实地给出该可观察量在测量相互作用之前即刻拥有的值。
+    step2: |-
+      > **忠实测量（FM）：** 对一个可观察量的 QM 测量，忠实地给出该可观察量在测量相互作用之前即刻拥有的值。
   - id: 100
     kind: body
     source: |-
       FM is also an extremely plausible presupposition of natural science, in general. (Note that FM entails VD, hence we could have given a KS argument for possible measurement results, using FM). Consider now the motivation, for the HV proponent, to reject NC. Obviously, the aim is to save other presuppositions, especially VD. Now, VD and NC are independent realist convictions, but NC and FM are not quite so independent. Indeed, we will see that rejection of NC entails the rejection of FM in one version of contextuality, and strongly suggests it in the other. (This makes more precise the somewhat cryptic remark from the introduction that it is not obvious what an interpretation endorsing the realist principle VD, but rejecting the realist principle NC, should look like. Such an interpretation would have to violate a third realist principle, i.e. FM.)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      FM 也是一般自然科学极为合理的预设。（注意 FM 蕴涵 VD，因此我们本可以用 FM 给出一个关于可能测量结果的 KS 论证。）现在考虑 HV 拥护者拒绝 NC 的动机。显然，目标是拯救其他预设，尤其 VD。然而 VD 与 NC 是独立的实在论信念，NC 与 FM 则不那么独立。事实上我们将看到：对 NC 的拒绝在一种语境性中蕴涵对 FM 的拒绝，在另一种中强烈暗示它。（这使导言中那句有些隐晦的话更精确：赞同实在论原则 VD 但拒绝实在论原则 NC 的解释应当是什么样子，并不显然；这样的解释将不得不违反第三个实在论原则，即 FM。）
+    step2: |-
+      FM 也是一般自然科学极为合理的预设（注意 FM 蕴涵 VD，故本可用 FM 给出关于可能测量结果的 KS 论证）。现在考虑 HV 拥护者拒绝 NC 的动机：显然目标是拯救其他预设——尤其 VD。然而 VD 与 NC 是独立的实在论信念，NC 与 FM 则不那么独立。事实上我们将看到：对 NC 的拒绝在一种语境性中蕴涵对 FM 的拒绝，在另一种中强烈暗示它（这使导言那句隐晦的话更精确：赞同实在论原则 VD 但拒绝 NC 的解释应当是什么样子，并不显然——这样的解释将不得不违反第三个实在论原则 FM）。
   - id: 101
     kind: body
     source: |-
       #### Causal Contextuality
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 因果断言的。基本观念是：被观测的值作为系统-装置相互作用的结果而产生。因此，通过与*P*-测量装置相互作用测量一个系统，可能产出值 *v*(*g*(*P*))；通过与 *Q*-测量装置相互作用测量同一系统，产出不同的值 *v*(*f*(*Q*))，尽管两个可观察量由同一算符 f(Q) = g(P) 表示。值的差别以可观察量的语境依赖性来解释：后者是语境依赖的，因为物理地实现它们的不同方式以不同的方式因果地影响系统，从而改变被观测的值。
+    step2: |-
+      #### 因果的但可观察量由同一算符 f(Q) = g(P) 表示。值的差别以可观察量的语境依赖性解释：后者是语境依赖的，因为物理地实现它们的不同方式以不同方式因果地影响系统，从而改变被观测的值。
   - id: 102
     kind: body
     source: |-
       A property (value of an observable) might be *causally* context-dependent in the sense that it is causally sensitive to how it is measured. The basic idea is that the observed value comes about as the effect of the system-apparatus interaction. Hence, measuring a system via interaction with a *P*-measuring apparatus might yield a value *v*(*g*(*P*)), measuring the same system via interaction with a *Q*-measuring apparatus a different value *v*(*f*(*Q*)), although both observables are represented by the same operator f(Q) = g(P). The difference in values is explained in terms of a context-dependence of the observables: The latter are context-dependent, since the different ways to physically realize them causally influence the system in different ways and thereby change the observed values.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个性质（可观察量的值）可能是*因果地*语境依赖的，其意义是：它对如何被测量因果地敏感。基本观念是：被观测的值作为系统-装置相互作用的结果而产生。因此，通过与*P*-测量装置相互作用测量一个系统，可能产出值 *v*(*g*(*P*))；通过与 *Q*-测量装置相互作用测量同一系统，产出不同的值 *v*(*f*(*Q*))，尽管两个可观察量由同一算符 f(Q) = g(P) 表示。值的差别以可观察量的语境依赖性来解释：后者是语境依赖的，因为物理地实现它们的不同方式以不同的方式因果地影响系统，从而改变被观测的值。
+    step2: |-
+      一个性质（可观察量的值）可能是*因果地*语境依赖的：它对如何被测量因果地敏感。基本观念是：被观测的值作为系统-装置相互作用的结果而产生。因此，通过与 *P*-测量装置相互作用测量一个系统，可能产出值 *v*(*g*(*P*))；通过与 *Q*-测量装置相互作用测量同一系统，产出不同的值 *v*(*f*(*Q*))，尽管两个可观察量由同一算符 f(Q) = g(P) 表示。值的差别以可观察量的语境依赖性解释：后者是语境依赖的，因为物理地实现它们的不同方式以不同方式因果地影响系统，从而改变被观测的值。
   - id: 103
     kind: body
     source: |-
       If an interpreter wanted to defend causal contextuality, this would entail abandoning FM, at least for observables of the type *f*(*Q*) (non-maximal observables): Since their values causally depend on the presence of certain measurement arrangements, these arrangements are causally necessary for the values to come about, thus the values cannot be present before the system-apparatus interaction, and FM is violated. As an advantage of causal contextualism the following might be pointed out. It does not imply that the ontological status of the physical properties involved must change, i.e. does not imply that they become relational. If the property in an object is brought about via interaction with another one, it can still be one which the object has for itself after the interaction. However, the idea of causal contextuality is sometimes discussed critically, since there is reason to think that it may be empirically inadequate (see Shimony 1984, Stairs 1992)[^shimony-1984][^stairs-1992].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      如果一位解释者想要为因果语境性辩护，这将要求放弃 FM——至少对 *f*(*Q*) 型的可观察量（非极大可观察量）而言：既然它们的值因果地依赖某些测量装置的存在，这些装置对值的产生是因果地必需的，因此值不能在系统-装置相互作用之前就存在，FM 被违反。作为因果语境主义的一个优点，可以指出如下：它不蕴涵所涉物理性质的存在论地位必须改变，即不蕴涵它们变成关系性的。如果对象中的性质经由与另一对象的相互作用而产生，它仍然可以是相互作用之后对象自身拥有的性质。然而，因果语境性的理念有时被批判地讨论，因为有理由认为它可能在经验上不适当（见 Shimony 1984, Stairs 1992）[^shimony-1984][^stairs-1992]。
+    step2: |-
+      若解释者想为因果语境性辩护，这将要求放弃 FM——至少对 *f*(*Q*) 型可观察量（非极大可观察量）而言：既然其值因果地依赖某些测量装置的存在，这些装置对值的产生因果地必需，值不能在系统-装置相互作用之前就存在，FM 被违反。因果语境主义的一个优点可指出：它不蕴涵所涉物理性质的存在论地位必须改变（即不蕴涵它们变成关系性的）——若对象中的性质经由与另一对象的相互作用产生，它仍可以是相互作用之后对象自身拥有的性质。然而因果语境性的理念有时被批判讨论：有理由认为它可能经验不适当（见 Shimony 1984, Stairs 1992）[^shimony-1984][^stairs-1992]。
   - id: 104
     kind: body
     source: |-
       #### Ontological Contextuality
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 存在论的语境性
+    step2: |-
+      #### 存在论的语境性
   - id: 105
     kind: body
     source: |-
       A property (value of an observable) might be *ontologically* context-dependent in the sense that in order for it to be well-defined the specification of the observable it ‘comes from’ is necessary. Thus, in order to construct a well-defined observable from operator f(Q) = g(P), we need to know whether it is physically realized via observable *P* or observable *Q*. This way out of the KS problem, was first noted (but not advocated) by van Fraassen (1973). There are, then, as many observables and kinds of physical properties for an operator f(Q) as there are ways to construct f(Q) from maximal operators. Without further explanation, however, this idea just amounts to an *ad hoc* proliferation of physical magnitudes. A defender of ontological contextuality certainly owes us a more explicit story about the dependence of observable *f*(*Q*) on observable *Q*. Two possibilities come to mind:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一个性质（可观察量的值）可能是*存在论地*语境依赖的，其意义是：为了使它是定义良好的，对它所“来自的”可观察量的说明是必要的。这样，为了从算符 f(Q) = g(P) 构造一个定义良好的可观察量，我们需要知道它在物理上是通过可观察量 *P* 还是可观察量 *Q* 实现的。这一走出 KS 问题的出路，最先由范弗拉森（1973）指出（但未被提倡）。于是，对一个算符 f(Q) 而言，有多少从极大算符构造 f(Q) 的方式，就有多少可观察量与物理性质的种类。然而没有进一步的解释，这一理念只相当于物理量的*特设*增殖。存在论语境性的辩护者肯定欠我们一个更明确的说明：可观察量 *f*(*Q*) 对可观察量 *Q* 的依赖。有两种可能浮上心头：
+    step2: |-
+      一个性质（可观察量的值）可能*存在论地*语境依赖：为使它定义良好，对它所“来自的”可观察量的说明是必要的。这样，为从算符 f(Q) = g(P) 构造定义良好的可观察量，需要知道它在物理上经可观察量 *P* 还是 *Q* 实现。这一走出 KS 问题的出路，最先由范弗拉森（1973）指出（但未提倡）。于是对一个算符 f(Q) 而言，有多少从极大算符构造 f(Q) 的方式，就有多少可观察量与物理性质的种类；然而没有进一步的解释，这一理念只相当于物理量的*特设*增殖。存在论语境性的辩护者肯定欠我们一个更明确的说明：可观察量 *f*(*Q*) 对可观察量 *Q* 的依赖。有两种可能浮上心头：
   - id: 106
     kind: body
     source: |-
       (a) We might think that *v*(*f*(*Q*)) just is not a self-sustained physical property, but one which ontologically depends on the presence of another property *v*(*Q*). (Recall that in the proof of FUNC *v*(*f*(*Q*)) *is* constructed from *v*(*Q*).) But, since the position does not reject questions about values of *f*(*Q*) in a *P*-measurement situation as illegitimate (because it does not trade on a notion of an observable being well-defined in one context only!), this seems to lead to new and pressing questions, to say the least. As an attempt to defend a contextualist *hidden variables* interpretation, this position must concede that not only does the system have, in the *Q*-measurement situation, a value *v*(*Q*), but also, in a *P*-measurement situation, it has a value *v*′(*Q*), although perhaps *v*′(*Q*) ≠ *v*(*Q*). Now, questions for values of *f*(*Q*) in this situation at least are legitimate. Does *v*′(*Q*) imply another *v*′(*f*(*Q*)) ≠ *v*(*f*(*Q*))? Or does *v*′(*Q*), in opposition to *v*(*Q*), not lead to a value of *f*(*Q*), at all? Neither option seems plausible, for could we not, just by switching for a certain prepared system between a *P*- and *Q*-measurement situation either switch *v*(*f*(*Q*)) in and out of existence or switch between *v*(*f*(*Q*)) and *v*′(*f*(*Q*))? (b) We might think that, in order for *f*(*Q*) to be well-defined, one measurement arrangement rather than the other is necessary. The idea is strongly reminiscent of Bohr’s 1935 argument against EPR, and indeed may be viewed as the appropriate extension of Bohr’s views on QM to the modern HV discussion (see Held 1998, ch.7)[^held-1998]. In this version of ontological contextualism the property *v*(*f*(*Q*)), rather than depending on the presence of another property *v*(*Q*), is dependent on the presence of a *Q*-measuring apparatus. This amounts to a holistic position: For some properties it only makes sense to speak of them as pertaining to the system, if that system is part of a certain system-apparatus whole. Here, the question for values of *f*(*Q*) in a P-measurement situation *does* become illegitimate, since *f*(*Q*)’s being well-defined is tied to a *Q*-measurement situation. But again further clarification is required. Does the position hold that, in opposition to *f*(*Q*), *Q* itself is well-defined in a *P*-measurement situation? If it does not, *Q* can hardly have a value (since not being well-defined was the reason to deny *f*(*Q*) a value), which means that we are not considering an HV interpretation of the given type any longer, and that there is no need to block the KS argument at all. If it does, what explains that, in the *P*-measurement situation, *Q* remains well-defined, but *f*(*Q*) loses this status?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (a) 我们可能认为 *v*(*f*(*Q*)) 根本不是一个自我维持的物理性质，而是在存在论上依赖另一个性质 *v*(*Q*) 的性质。（回想在 FUNC 的证明中 *v*(*f*(*Q*)) *是*从 *v*(*Q*) 构造的。）但由于这一立场并不拒斥关于 *f*(*Q*) 在 *P*-测量情形中的值的问题（因为它不靠“可观察量只在一个语境中定义良好”的观念！），这至少会引出新的、紧迫的问题。作为为语境主义*隐变量*解释辩护的尝试，这一立场必须承认：不仅系统在 *Q*-测量情形中有值 *v*(*Q*)，而且在 *P*-测量情形中它也有值 *v*′(*Q*)，尽管也许 *v*′(*Q*) ≠ *v*(*Q*)。现在，关于这种情形中 *f*(*Q*) 的值的问题至少是合法的。*v*′(*Q*) 是否蕴涵另一个 *v*′(*f*(*Q*)) ≠ *v*(*f*(*Q*))？或者 *v*′(*Q*) 与 *v*(*Q*) 相反，根本不导向 *f*(*Q*) 的值？两个选项似乎都不可信：难道我们不能，只是在一个制备好的系统的 *P*-与 *Q*-测量情形之间切换，就把 *v*(*f*(*Q*)) 调入与调出存在，或在 *v*(*f*(*Q*)) 与 *v*′(*f*(*Q*)) 之间切换吗？(b) 我们可能认为：为了使 *f*(*Q*) 定义良好，一种测量装置而非另一种是必需的。这一理念强烈地令人想起玻尔 1935 年反对 EPR 的论证，而且确实可被看作把玻尔关于 QM 的观点恰当地延伸到现代 HV 讨论（见 Held 1998, ch.7）[^held-1998]。在这一存在论语境主义的版本中，性质 *v*(*f*(*Q*)) 不是依赖另一个性质 *v*(*Q*) 的存在，而是依赖 *Q*-测量装置的存在。这相当于一个整体论的立场：对某些性质而言，只有当该系统是某个系统-装置整体的一部分时，把它们说成属于该系统才有意义。这里，关于 *P*-测量情形中 *f*(*Q*) 的值的问题*确实*变得不合法，因为 *f*(*Q*) 的定义良好与一个 *Q*-测量情形绑定。但又一次需要进一步的澄清。这一立场是否主张：与 *f*(*Q*) 相反，*Q* 本身在 *P*-测量情形中是定义良好的？如果不是，*Q* 就难有值（因为定义不良好正是否认 *f*(*Q*) 有值的理由），这意味着我们不再考虑所给类型的那种 HV 解释，而根本无需阻断 KS 论证。如果是，那么又是什么解释了：在 *P*-测量情形中 *Q* 保持定义良好，而 *f*(*Q*) 失去这一地位？
+    step2: |-
+      (a) 我们可能认为 *v*(*f*(*Q*)) 根本不是自我维持的物理性质，而是在存在论上依赖另一个性质 *v*(*Q*) 的性质（回想 FUNC 的证明中 *v*(*f*(*Q*)) *是*从 *v*(*Q*) 构造的）。但由于这一立场不拒斥关于 *f*(*Q*) 在 *P*-测量情形中的值的问题（因为它不靠“可观察量只在一个语境中定义良好”的观念！），这至少会引出新的紧迫问题。作为为语境主义*隐变量*解释辩护的尝试，这一立场必须承认：不仅系统在 *Q*-测量情形中有值 *v*(*Q*)，在 *P*-测量情形中也有值 *v*′(*Q*)——尽管也许 *v*′(*Q*) ≠ *v*(*Q*)。现在关于这种情形中 *f*(*Q*) 的值的问题至少合法：*v*′(*Q*) 是否蕴涵另一个 *v*′(*f*(*Q*)) ≠ *v*(*f*(*Q*))？或 *v*′(*Q*) 与 *v*(*Q*) 相反根本不导向 *f*(*Q*) 的值？两个选项似乎都不可信——难道我们不能只在一个制备好的系统的 *P* 与 *Q*-测量情形之间切换，就把 *v*(*f*(*Q*)) 调入调出存在，或在 *v*(*f*(*Q*)) 与 *v*′(*f*(*Q*)) 之间切换吗？(b) 我们可能认为：为使 *f*(*Q*) 定义良好，一种测量装置而非另一种是必需的——这一理念强烈令人想起玻尔 1935 年反对 EPR 的论证，且确实可看作把玻尔关于 QM 的观点恰当地延伸到现代 HV 讨论（见 Held 1998, ch.7）[^held-1998]。在这一存在论语境主义版本中，性质 *v*(*f*(*Q*)) 不依赖另一个性质 *v*(*Q*) 的存在，而依赖 *Q*-测量装置的存在——这相当于一个整体论立场：对某些性质，只有当系统是某个系统-装置整体的一部分时，把它们说成属于该系统才有意义。这里关于 *P*-测量情形中 *f*(*Q*) 的值的问题*确实*变得不合法——因为 *f*(*Q*) 的定义良好与一个 *Q*-测量情形绑定。但又一次需要进一步澄清：这一立场是否主张与 *f*(*Q*) 相反、*Q* 本身在 *P*-测量情形中定义良好？若不是，*Q* 就难有值（定义不良好正是否认 *f*(*Q*) 有值的理由）——这意味着我们不再考虑所给类型的那种 HV 解释，根本无需阻断 KS 论证；若是，什么解释了在 *P*-测量情形中 *Q* 保持定义良好、而 *f*(*Q*) 失去这一地位？
   - id: 107
     kind: body
     source: |-
       What becomes of FM in both versions of ontological contextualism? Well, if we remain agnostic about how the position could be made plausible, we can save FM, while, if we choose version (a) or (b) to make it plausible, we lose it. Consider first an agnostic denial of NC. FM says that every QM *observable* is faithfully measured. Now, contextualism splits an operator which can be constructed from two different noncommuting operators into two observables, and ontological contextualism does not try to give us a causal story which would ruin the causal independence of the measured value from the measurement interaction embodied in FM. We simply introduce a more fine-grained conception of observables, but can still impose FM for these new contextual observables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在存在论语境主义的两个版本中，FM 变成了什么？嗯，如果我们对这个立场如何被弄可信保持不可知态度，我们可以拯救 FM；而如果我们选择版本 (a) 或 (b) 使它可信，我们就失去它。先考虑对 NC 的不可知式否认。FM 说每个 QM *可观察量*都被忠实地测量。现在，语境主义把一个可以由两个不同的不可交换算符构造的算符，拆成两个可观察量；而存在论语境主义不试图给我们一个会毁坏 FM 所体现的被测值对测量相互作用的因果独立性的因果故事。我们只是引入一个更细粒度的可观察量概念，但仍可对这些新的语境性可观察量施加 FM。
+    step2: |-
+      在存在论语境主义的两个版本中 FM 变成了什么？若对这一立场如何被弄可信保持不可知，可以拯救 FM；若选版本 (a) 或 (b) 使其可信，则失去。先考虑对 NC 的不可知式否认：FM 说每个 QM *可观察量*都被忠实测量。语境主义把一个可由两个不同不可交换算符构造的算符拆成两个可观察量；而存在论语境主义不试图给出会毁坏 FM 所体现的被测值对测量相互作用的因果独立性的因果故事——我们只引入更细粒度的可观察量概念，但仍可对新语境性可观察量施加 FM。
   - id: 108
     kind: body
     source: |-
       However, the concrete versions of ontological contextualism, by attempting to motivate the contextual feature, ruin FM. Version (a) allows *f*(*Q*) to be switched ‘on and off’ or to switch between different values upon the change between *P*- and *Q*-measurement situations — which is a flagrant violation of FM. Version (b) fares no better. It introduces the ontological dependence on the measuring arrangement. It is hard to see what else this should be, but the same causal dependence pushed to a higher, ‘ontological’ key. Again, could we not, just by flipping back and forth the measurement arrangement, change back and forth whether *f*(*Q*) is well-defined, thus flip *v*(*f*(*Q*)) in and out of existence?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，存在论语境性的具体版本，通过试图为语境性特征提供动机，毁掉了 FM。版本 (a) 允许 *f*(*Q*) 在 *P*-与 *Q*-测量情形之间的改变上被“打开与关闭”或在不同的值之间切换——这是对 FM 的公然违反。版本 (b) 也不见得好多少。它引入了对测量装置的存在论依赖。很难看出这还能是什么，而只能是同一个因果依赖被推到更高的“存在论”音调上。 again，难道我们不能只来回翻转测量装置，来回改变 *f*(*Q*) 是否定义良好，从而把 *v*(*f*(*Q*)) 调入与调出存在吗？
+    step2: |-
+      然而存在论语境性的具体版本，为语境性特征提供动机，毁掉了 FM：版本 (a) 允许 *f*(*Q*) 在 *P* 与 *Q*-测量情形的改变上被“打开与关闭”或在不同的值之间切换——对 FM 的公然违反；版本 (b) 也不见得好多少——它引入对测量装置的存在论依赖，很难看出这还能是什么，而只能是同一个因果依赖被推到更高的“存在论”音调上。 again 难道我们不能只来回翻转测量装置，来回改变 *f*(*Q*) 是否定义良好，从而把 *v*(*f*(*Q*)) 调入调出存在吗？
   - id: 109
     kind: body
     source: |-
       Finally, we note that both types of ontological contextualism, in opposition to the causal version, *do* entail that system properties which we earlier thought to be intrinsic become relational in the sense that a system can only have these properties either if it has certain others, or if it is related to a certain measurement arrangement.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后我们注意到：两种存在论语境性，与因果版本相反，*确实*蕴涵：我们先前认为是内在的系统性质变成关系性的——其意义是：一个系统只有拥有某些其他性质、或与某个测量装置相关，才能拥有这些性质。
+    step2: |-
+      最后我们注意到：两种存在论语境性与因果版本相反，*确实*蕴涵：我们先前认为内在的系统性质变成关系性的——其意义是：一个系统只有拥有某些其他性质、或与某个测量装置相关，才能拥有这些性质。
   - id: 110
     kind: body
     source: |-
       ## 6. The Question of Empirical Testing
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 经验检验的问题
+    step2: |-
+      ## 6 经验检验的问题
   - id: 111
     kind: body
     source: |-
       Famously, the violation of Bell’s inequalities, prescribed by QM, has been confirmed experimentally. Is something similar possible for the KS theorem? We should distinguish three questions: (1) Is it possible to realize the experiment proposed by KS as a motivation of their theorem? (2) Is it possible to test the principles leading to the theorem: the Sum Rule and Product Rule, FUNC, or NC? (3) Is it possible to test the theorem itself?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      著名的是，QM 所规定的对贝尔不等式的违反已被实验证实。对 KS 定理是否可能有类似之事？我们应区分三个问题：(1) 是否可能实现 KS 作为其定理的动机而提出的实验？(2) 是否可能检验导向该定理的原则：和规则与积规则、FUNC、或 NC？(3) 是否可能检验定理本身？
+    step2: |-
+      著名的是：QM 所规定的对贝尔不等式的违反已被实验证实。对 KS 定理是否可能有类似之事？应区分三个问题：(1) 是否可能实现 KS 作为定理动机而提出的实验？(2) 是否可能检验导向该定理的原则：和规则与积规则、FUNC、或 NC？(3) 是否可能检验定理本身？
   - id: 112
     kind: body
     source: |-
       (1) KS themselves describe a concrete experimental arrangement to measure *S*_{*x*}², *S*_{*y*}², *S*_{*z*}² on a one-particle spin-1 system as functions of one maximal observable. An orthohelium atom in the lowest triplet state is placed in a small electric field E of rhombic symmetry. The three observables in question then can be measured as functions of one single observable, the perturbation Hamiltonian Hₛ. Hₛ, by the geometry of E, has three distinct possible values, measurement of which reveals which two of *S*_{*x*}², *S*_{*y*}², *S*_{*z*}² have value 1 and which one has value 0 (see Kochen and Specker 1967: 72/311)[^kochen-1967]. This is, of course, a proposal to realize an experiment exemplifying our above value constraint (VC2). Could we also realize a (VC1) experiment, i.e. measure a set of commuting projectors projecting on eigenstates of one maximal observable? Peres (1995: 200) answers the question in the affirmative, discusses such an experiment, and refers to Swift and Wright (1980) for details about the technical feasibility. Kochen and Specker’s experimental proposal has, however, not been further pursued, because it does not provide a direct test of NC. Obviously, a measurement of H_{S} measures one orthogonal triple only. An HV proponent might well assume that the hidden state changes from one measurement of H_{S} to the next (even if we prepare the same QM state again) and thus maintain NC.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (1) KS 本人描述了一个具体的实验装置，用以在单粒子自旋-1 系统上测量 *S*_{*x*}²、*S*_{*y*}²、*S*_{*z*}²，作为某个极大可观察量的函数。一个处于最低三重态的正氦原子被置于具有菱形对称的小电场 E 中。所论的三个可观察量于是可以作为单个可观察量——微扰哈密顿量 Hₛ——的函数被测量。由 E 的几何，Hₛ 有三个不同的可能值；对它们的测量揭示 *S*_{*x*}²、*S*_{*y*}²、*S*_{*z*}² 中哪两个的值为 1、哪一个的值为 0（见 Kochen and Specker 1967: 72/311）[^kochen-1967]。这当然是一个实现我们上述值约束 (VC2) 的实验的提案。我们能否也实现一个 (VC1) 实验，即测量一个投射到某极大可观察量的本征态上的交换投影算符集合？Peres（1995: 200）对这一问题给出肯定回答，讨论了这样一个实验，并就技术可行性参见 Swift and Wright（1980）。然而 Kochen 与 Specker 的实验提案没有被进一步追寻，因为它不提供对 NC 的直接检验。显然，对 H_{S} 的一次测量只测量一个正交三元组。HV 的拥护者很可能假定隐态从对 H_{S} 的一次测量到下一次会改变（即使我们重新制备同一 QM 态），从而坚持 NC。
+    step2: |-
+      (1) KS 本人描述了一个具体的实验装置，在单粒子自旋-1 系统上测量 *S*_{*x*}²、*S*_{*y*}²、*S*_{*z*}²——作为某个极大可观察量的函数。一个处于最低三重态的正氦原子被置于具有菱形对称的小电场 E 中；所论三个可观察量于是可作为单个可观察量（微扰哈密顿量 Hₛ）的函数被测量。由 E 的几何，H₃ 有三个不同的可能值；对它们的测量揭示 *S*_{*x*}²、*S*_{*y*}²、*S*_{*z*}² 中哪两个的值为 1、哪一个为 0（见 Kochen and Specker 1967: 72/311）[^kochen-1967]。这当然是一个实现上述值约束 (VC2) 的实验提案。能否也实现一个 (VC1) 实验——测量投射到某极大可观察量本征态上的交换投影算符集合？Peres（1995: 200）给出肯定回答，讨论了这样的实验，技术可行性参 Swift and Wright（1980）。然而 Kochen 与 Specker 的实验提案未被进一步追寻——因为它不提供对 NC 的直接检验：显然对 H_{S} 的一次测量只测一个正交三元组；HV 拥护者很可能假定隐态从一次 H_{S} 测量到下一次会改变（即使我们重新制备同一 QM 态），从而坚持 NC。
   - id: 113
     kind: body
     source: |-
       (2) In conjunction with manifestations of FUNC, i.e. the Sum Rule and the Product Rule, QM yields constraints like VC1 or VC2 that contradict VD. So, providing concrete physical examples that could, given the Sum Rule and the Product Rule, instantiate VC1 or VC2 as just outlined is not enough. We must ask whether these rules themselves can be empirically supported. There was considerable discussion of this question in the early 80s — explicitly about whether the Sum Rule is empirically testable — and there was general agreement that it is not.[^note-15]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (2) 与 FUNC 的显现——即和规则与积规则——相结合，QM 产生像 VC1 或 VC2 那样 contradicts VD 的约束。因此，提供能在给定和规则与积规则时例示如上 VC1 或 VC2 的具体物理例子还不够。我们必须问：这些规则本身能否得到经验支持。1980 年代初对这一问题有过相当多的讨论——明确地关于和规则是否经验可检验——且存在普遍共识：它不可检验。[^note-15]
+    step2: |-
+      (2) 与 FUNC 的显现（即和规则与积规则）相结合，QM 产生像 VC1 或 VC2 那样 contradicts VD 的约束。因此提供能在给定和规则与积规则时例示如上 VC1 或 VC2 的具体物理例子还不够——必须问：这些规则本身能否得到经验支持。1980 年代初对这一问题有过相当多的讨论（明确地关于和规则是否经验可检验），且存在普遍共识：它不可检验。[^note-15]
   - id: 114
     kind: body
     source: |-
       The reason is the following. Recall that the derivation of FUNC established uniqueness of the new observable *f*(*Q*) only in its final step (via NC). It is this uniqueness which guarantees that one operator represents exactly one observable so that observables (and thereby their values) in different contexts can be equated. This allows one to establish indirect connections between different incompatible observables. Without this final step, FUNC must be viewed as holding relative to different contexts, the connection is broken and FUNC is restricted to one set of observables which are all mutually compatible. Then indeed FUNC, the Sum Rule and the Product Rule become trivial, and empirical testing in these cases would be a pointless question.[^note-16] It is NC that does all the work and deserves to be tested via checking whether for incompatible *P*, *Q* such that *f*(*Q*)=*g*(*P*) it is true that *v*(*f*(*Q*))=*v*(*g*(*P*)). However, though QM and a noncontextual HV theory contradict each other for a single system, this contradiction involves incompatible observables and, thus, is untestable (as we have just seen from Kochen and Specker’s own proposal). Physicists have, however, made ingenious proposals for overcoming this obstacle. It is well-known that the consideration of two-particle systems and products of spin components leads to very simple KS-type proofs (Mermin 1990b)[^mermin-1990b]. Cabello and Garcìa-Alcaine (1998) have shown that for such systems QM and a noncontextual HV theory make different predictions for every single case. Their reasoning makes no reference to locality considerations, but as it requires two particles, such considerations might creep in. Simon *et al*. (2000), have mapped the Cabello/Garcìa-Alcaine scheme onto a combination of position and spin observables for a single particle. Their experiment has been carried out and has confirmed the QM predictions (Huang et al. 2003; see also more recently Huang et al. 2013)[^huang-2003][^huang-2013]. All the mentioned authors consider their experimental proposals to be empirical refutations of NC, but this has been doubted (Barrett and Kent 2004)[^barrett-2004], for reasons considered in the next paragraph.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理由如下。回想 FUNC 的推导只在最后一步（经由 NC）确立了新可观察量 *f*(*Q*) 的唯一性。正是这一唯一性保证一个算符恰好表示一个可观察量，从而不同语境中的可观察量（从而其值）可以被等同。这使人得以在不同的不相容可观察量之间建立间接联系。没有这最后一步，FUNC 必须被视为相对于不同语境成立；联系被切断，FUNC 被限制到一组彼此相容的可观察量。这时 FUNC、和规则与积规则确实变成平凡的，对这些情形的经验检验将是无意义的问题。[^note-16] 是 NC 做了全部工作，并值得通过检验“对不相容的 *P*、*Q*，使 *f*(*Q*)=*g*(*P*)，是否真有 *v*(*f*(*Q*))=*v*(*g*(*P*))”来检验。然而，尽管 QM 与一个非语境的 HV 理论对单个系统相互矛盾，这一矛盾涉及不相容的可观察量，因而是不可检验的（正如我们刚从 Kochen 与 Specker 自己的提案中看到的）。物理学家们为克服这一障碍做出了巧妙的提案。众所周知，对双粒子系统与自旋分量乘积的考量导向非常简单的 KS 型证明（Mermin 1990b）[^mermin-1990b]。Cabello 和 Garcìa-Alcaine（1998）表明：对这样的系统，QM 与非语境 HV 理论对每一个单一情形都做出不同的预测。他们的推理不诉诸局域性考虑，但由于需要两个粒子，这种考虑可能混入。Simon *et al*.（2000）把 Cabello/Garcìa-Alcaine 方案映射到单粒子的位置与自旋可观察量的组合上。他们的实验已被实施并确认了 QM 的预测（Huang et al. 2003；另见更近的 Huang et al. 2013）[^huang-2003][^huang-2013]。所有提到的作者都把他们的实验提案视为对 NC 的经验反驳，但这一点受到怀疑（Barrett and Kent 2004）[^barrett-2004]——理由见下一段。
+    step2: |-
+      理由如下：回想 FUNC 的推导只在最后一步（经由 NC）确立新可观察量 *f*(*Q*) 的唯一性——正是这一唯一性保证一个算符恰好表示一个可观察量，从而不同语境中的可观察量（从而其值）可被等同，这使人得以在不同的不相容可观察量之间建立间接联系。没有这最后一步，FUNC 必须视为相对于不同语境成立：联系被切断，FUNC 被限制到一组彼此相容的可观察量——这时 FUNC、和规则与积规则确实变成平凡的，对这些情形的经验检验将是无意义的问题。[^note-16] 是 NC 做了全部工作，值得通过检验“对不相容的 *P*、*Q*，使 *f*(*Q*)=*g*(*P*)，是否真有 *v*(*f*(*Q*))=*v*(*g*(*P*))”来检验。然而尽管 QM 与非语境 HV 理论对单个系统相互矛盾，这一矛盾涉及不相容的可观察量，因而不可检验（正如刚从 Kochen 与 Specker 自己的提案看到的）。物理学家为克服这一障碍做出巧妙提案：众所周知，双粒子系统与自旋分量乘积的考量导向非常简单的 KS 型证明（Mermin 1990b）[^mermin-1990b]；Cabello 和 Garcìa-Alcaine（1998）表明对这样的系统，QM 与非语境 HV 理论对每一个单一情形都做出不同预测——其推理不诉诸局域性考虑，但因需要两个粒子，这种考虑可能混入。Simon *et al*.（2000）把 Cabello/Garcìa-Alcaine 方案映射到单粒子的位置与自旋可观察量的组合上；实验已被实施并确认 QM 的预测（Huang et al. 2003；另见更近的 Huang et al. 2013）[^huang-2003][^huang-2013]。所有提到的作者都把实验提案视为对 NC 的经验反驳，但这受怀疑（Barrett and Kent 2004）[^barrett-2004]——理由见下段。
   - id: 115
     kind: body
     source: |-
       (3) The KS theorem, by its mathematical nature, is not empirically testable. However, we could, along the lines of the previous paragraphs, try to measure a subset of a suitable KS-uncolourable set. Especially, it should be possible to produce cases along the lines of Clifton’s example (3.5) where QM and a noncontextual HV theory make measurably different predictions. It seems as if such cases could provide empirical tests of whether Nature is contextual (though not whether such contextuality is of the causal or ontological type).(For a recent version of such an approach see Tang and Yu 2017.)[^tang-2017] From the 1980s on, it has been argued that such testing is impossible. The KS theorem, it was claimed, leaves enough loopholes for a HV theory at variance with QM, but able to reproduce the theory’s empirical predictions. Pitowsky (1983, 1985) argued that it is possible to restrict attention to a subset of directions in R₃ which are colourable. His argument, however, relies on a non-standard version of probability theory that is regarded as physically implausible. Meyer (1999) has exploited the mathematical fact that a set D_{M} of directions in R₃ approximating the KS-set arbitrarily closely, but with *rational* coordinates is KS-colourable. Meyer argues that real measurements have finite precision and thus can never distinguish between a direction in R₃ and its approximation from D_{M}. Kent (1999) has generalized the result for all Hilbert spaces, and Clifton and Kent (2000) have shown that also a set of directions D_{CK} such that every one direction is a member of just *one* orthogonal triple approximates any direction arbitrarily closely. In D_{CK} there are no interlocking triples, the question of contextuality does not arise and D_{CK} trivially is KS colourable. Clifton and Kent, in addition, have explicitly shown that D_{CK} is large enough to allow probability distributions over value assignments arbitrarily close to all QM distributions. Meyer, Kent and Clifton (MKC) can be understood as thus arguing that even an empirical test of KS-uncolourable directions confirming the QM predictions cannot prove the contextuality of Nature. Because of the test’s finite precision it is impossible to disprove the contention that unwittingly we have tested close-by members of a KS-colourable set. One quite obvious objection to this type of argument is that the original KS argument works for possessed values, not measured values, so the MKC argument, dealing on finite precision of measurement, misses the mark. We might not be able to test observables which are exactly orthogonal or exactly alike in different tests, but it would be a strange HV interpretation that asserts that such components do not exist (see Cabello 1999 in Other Internet Resources). Of course, such a noncontextual HV proposal would be immune to the KS argument, but it would be forced to either assume that not for every one of the continuously many directions in physical space there is an observable, or else that there are not continuously many directions in physical space. Neither assumption seems very attractive.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (3) KS 定理就其数学性质而言不是经验可检验的。然而，我们可以沿前几段的思路，尝试测量一个合适的 KS 不可着色集合的子集。特别地，应当可能产生沿着 Clifton 例子（3.5）的路线的情形，其中 QM 与非语境 HV 理论做出可测地不同的预测。似乎这样的情形可以提供对自然是否是语境性的经验检验（虽然不能检验这种语境性是因果型还是存在论型）。（关于这样一种进路的近版，见 Tang and Yu 2017。）[^tang-2017] 从 1980 年代起，有人论证这样的检验不可能。据称 KS 定理为 HV 理论留下了足够的漏洞：该理论与 QM 相抵触，却能复制 QM 的经验预测。Pitowsky（1983, 1985）论证可以把注意力限制在 R₃ 中一个可着色的方向子集上。但他的论证依赖概率论的一个非标准版本，被视为物理上不合理。Meyer（1999）利用了如下数学事实：R₃ 中一个逼近 KS 集到任意接近、但具有*有理*坐标的方向集合 D_{M} 是 KS 可着色的。Meyer 论证：真实的测量有有限的精度，因此永远无法区分 R₃ 中的一个方向与其来自 D_{M} 的逼近。Kent（1999）把这一结果推广到所有希尔伯特空间；Clifton and Kent（2000）表明也存在一个方向集合 D_{CK}，其中每个方向是*仅一个*正交三元组的成员，它逼近任意方向到任意接近的程度。在 D_{CK} 中没有咬合的三元组，语境性的问题不出现，D_{CK} 平凡地是 KS 可着色的。Clifton 与 Kent还明确表明：D_{CK} 足够大，允许在对值指派的概率分布上任意接近所有 QM 分布。Meyer、Kent 与 Clifton（MKC）可以被理解为这样论证：即使对 KS 不可着色方向的经验测试确认了 QM 的预测，也不能证明自然是语境性的。由于检验的精度有限，不可能反驳如下主张：我们不知不觉检验的是某个 KS 可着色集合的近旁成员。对这类论证的一个相当明显的反驳是：原始 KS 论证针对的是拥有的值，而非被测的值；因此处理测量之有限精度的 MKC 论证没有击中要害。我们也许无法在不同检验中检验恰好正交或恰好相同的可观察量，但断言这样的分量不存在的 HV 解释将是很奇怪的（见 Cabello 1999，载其他网络资源）。当然，这样一个非语境的 HV 提案将对 KS 论证免疫，但它将被迫要么假定并非物理空间中连续多个方向的每一个都有可观察量，要么假定物理空间中没有连续多个方向。两个假定似乎都不太有吸引力。
+    step2: |-
+      (3) KS 定理就其数学性质而言不是经验可检验的。但可以沿前几段的思路，尝试测量合适的 KS 不可着色集合的子集：特别地，应当可能产生沿 Clifton 例子（3.5）路线的情形——QM 与非语境 HV 理论做出可测地不同的预测。似乎这样的情形可提供对自然是否语境性的经验检验（虽不能检验是因果型还是存在论型）（这一进路的近版见 Tang and Yu 2017）[^tang-2017]。从 1980 年代起有人论证这样的检验不可能：据称 KS 定理为 HV 理论留下足够的漏洞——与 QM 相抵触却能复制 QM 的经验预测。Pitowsky（1983, 1985）论证可把注意力限制在 R₃ 中可着色的方向子集；但其论证依赖概率论的非标准版本，被视为物理不合理。Meyer（1999）利用数学事实：R₃ 中逼近 KS 集到任意接近、但具有*有理*坐标的方向集合 D_{M} 是 KS 可着色的——并论证：真实测量有有限精度，永远无法区分 R₃ 中的一个方向与其来自 D_{M} 的逼近。Kent（1999）把结果推广到所有希尔伯特空间；Clifton and Kent（2000）表明也存在方向集合 D_{CK}——每个方向是*仅一个*正交三元组的成员，逼近任意方向到任意接近。D_{CK} 中没有咬合的三元组，语境性问题不出现，D_{CK} 平凡地 KS 可着色。Clifton 与 Kent 还明确表明：D_{CK} 足够大，允许对值指派的概率分布任意接近所有 QM 分布。Meyer、Kent 与 Clifton（MKC）可理解为这样论证：即使对 KS 不可着色方向的经验测试确认了 QM 的预测，也不能证明自然是语境性的——由于检验精度有限，不可能反驳“我们不知不觉检验的是某个 KS 可着色集合的近旁成员”这一主张。对这类论证的一个明显反驳是：原始 KS 论证针对拥有的值而非被测的值；处理测量有限精度的 MKC 论证没有击中要害。我们也许无法在不同检验中检验恰好正交或恰好相同的可观察量，但断言这样的分量不存在的 HV 解释将很奇怪（见 Cabello 1999，载其他网络资源）。当然这样的非语境 HV 提案将对 KS 论证免疫，但它将被迫要么假定并非物理空间中连续多个方向的每一个都有可观察量，要么假定物理空间中没有连续多个方向——两个假定都不太有吸引力。
   - id: 116
     kind: body
     source: |-
       In addition, the MKC argument is dissatisfying even for measured values, since it exploits the finite precision of real measurements only in one of the above senses, but presupposes infinite precision in the other. MKC assume, for measured observables, that there is finite precision in the choice of different orthogonal triples, such that we cannot, in general, have exactly the same observable twice, as a member of two different triples. However, MKC still assume infinite precision, i.e. exact orthogonality, within the triple (otherwise the colouring constraints could find no application, at all). It has been claimed that this feature can be exploited to rebut the argument and to re-install contextualism (see Mermin 1999 and Appleby 2000, both in Other Internet Resources, and Appleby 2005)[^appleby-2005].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，MKC 论证即使对被测的值也不令人满意，因为它只在上述涵义之一上利用真实测量的有限精度，却在另一种上预设无限精度。MKC 对被测可观察量假定：不同正交三元组的选择上有有限精度，因此我们一般不可能两次拥有恰好相同的可观察量、作为两个不同三元组的成员。然而 MKC 仍假定三元组内部有无限精度，即精确的正交性（否则着色约束根本无从应用）。有人主张可以利用这一特征反驳该论证、恢复语境主义（见 Mermin 1999 与 Appleby 2000，均载其他网络资源，及 Appleby 2005）[^appleby-2005]。
+    step2: |-
+      此外 MKC 论证即使对被测的值也不令人满意：它只在上述涵义之一上利用真实测量的有限精度，却在另一种上预设无限精度——MKC 对被测可观察量假定不同正交三元组的选择上有有限精度（因此我们一般不可能两次拥有恰好相同的可观察量、作为两个不同三元组的成员）；然而 MKC 仍假定三元组内部有无限精度（精确正交性——否则着色约束根本无从应用）。有人主张可利用这一特征反驳该论证、恢复语境主义（见 Mermin 1999 与 Appleby 2000，均载其他网络资源，及 Appleby 2005）[^appleby-2005]。
   - id: 117
     kind: body
     source: |-
       Finally, it seems plausible to assume that probabilities vary continuously as we change directions in R₃, so small imperfections of selection of observables that block the argument (but only for measured values!) in the single case will wash out in the long run (see Mermin 1999, in Other Internet Resources). This in itself does not constitute an argument, since in the colourable sets of observables in MKC’s constructions probabilities also vary (in a sense) continuously.[^note-17] We might, however, exploit Mermin’s reasoning in the following way. Reconsider Clifton’s set of eight directions (in Figure 3) leading to a colouring constraint for the outermost points which statistically contradicts the QM statistics by a fraction of 1/17. Using Clifton and Kent’s colourable set of directions D_{CK} we are unable to derive the constraint for the eight points, since these eight points do not lie in D_{CK}; namely, as we move, in the colourable subset, from one mutually orthogonal triple of rays to the next, we never hit upon exactly the same ray again, but only on one approximating it arbitrarily closely. Assume a set S of systems wherein observables, corresponding to members of D_{CK} and approximating the eight directions in Fig. 3 arbitrarily closely, all have values — in accordance with the HV premise. Then we *can* derive Clifton’s constraint for the outermost points in the following sense. Consider the subset *S*′ ⊂ *S* of systems where any direction approximating point (1, 1, 1) gets value 1 (or colour white). In order to meet the predictions of QM, in *S*′ all directions approximating (1, 0, −1) and (1, −1, 0) must receive values such that the probability of value 0 (or colour black) is extremely close to 1. Analogously, in another subset *S*″ ⊂ *S* of systems with directions approximating (−1, 1, 1) as having value 1 (colour white) all directions approximating (1, 0, 1) and (1, 1, 0) must receive values such that the probability of value 0 (colour black) is extremely close to 1. Consider now members of *S*′ ∩ *S*″. In any of them there will be, for any approximation to (1, 0, −1) with value 0 (colour black), an exactly orthogonal point that approximates (1, 0, 1) and also has value 0 (colour black) such that there is a third orthogonal point approximating (0, 1, 0) and having value 1 (colour white). Likewise for (0, 0, 1). But (0, 1, 0) and (0, 0, 1) are orthogonal, and for all members of *S*′ ∩ *S*″ the directions *approximating* them both have value 1 (colour white), while QM predicts that the probability for values 1 for the *approximated* directions values is 0. In order to ensure that this prediction is met, *S*′ ∩ *S*″ must be an extremely small subset of *S*, which is to say that the probability for both (1, 1, 1) and (−1, 1, 1) (the leftmost and rightmost points in fig. 3) must be close to 0 and approximate 0 better and better as *S* grows. QM, on the contrary, predicts a probability of 1/17. (Recall also that this number can be pushed up to 1/3 by choosing a set of 13 directions!)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，假定概率随我们在 R₃ 中改变方向而连续变化似乎是有道理的；因此，在单一情形中阻碍论证的可观察量选择的小缺陷（但只对被测的值！）会在长期中消解（见 Mermin 1999，载其他网络资源）。这本身不构成论证，因为在 MKC 构造的可着色可观察量集合中，概率也（在一种意义上）连续变化。[^note-17] 不过我们可以按如下方式利用梅明的推理。重新考虑 Clifton 的八方向集合（图 3），它导向一个对最外点的着色约束，与 QM 统计以 1/17 的比例统计性地矛盾。使用 Clifton 与 Kent 的可着色方向集合 D_{CK}，我们无法为这八个点导出约束，因为这八点不在 D_{CK} 中；即当我们在可着色子集中从一个互相正交的射线三元组走到下一个时，我们绝不会恰好碰到同一射线，只会碰到任意接近它的射线。假定一个系统集合 S，其中对应于 D_{CK} 的成员、逼近图 3 的八方向到任意接近的可观察量都有值——符合 HV 前提。那么我们*可以*在如下涵义上为最外点导出 Clifton 的约束。考虑系统子集 *S*′ ⊂ *S*：其中任何逼近点 (1, 1, 1) 的方向都得到值 1（或白色）。为满足 QM 的预测，*S*′ 中所有逼近 (1, 0, −1) 与 (1, −1, 0) 的方向必须得到使值 0（或黑色）的概率极接近 1 的值。类似地，在另一个以逼近 (−1, 1, 1) 的方向有值 1（白色）的系统子集 *S*″ ⊂ *S* 中，所有逼近 (1, 0, 1) 与 (1, 1, 0) 的方向必须得到使值 0（黑色）的概率极接近 1 的值。考虑 *S*′ ∩ *S*″ 的成员。在其中任何一个中，对任何以值 0（黑色）逼近 (1, 0, −1) 的方向，都会有一个恰好正交的点逼近 (1, 0, 1) 且也有值 0（黑色），使得有第三个正交点逼近 (0, 1, 0) 且有值 1（白色）。对 (0, 0, 1) 亦然。但 (0, 1, 0) 与 (0, 0, 1) 是正交的，且对 *S*′ ∩ *S*″ 的所有成员，*逼近*它们的方向都有值 1（白色），而 QM 预测*被逼近*方向的值为 1 的概率是 0。为确保满足这一预测，*S*′ ∩ *S*″ 必须是 *S* 的极小子集——也就是说，(1, 1, 1) 与 (−1, 1, 1)（图 3 最左与最右的点）两者的概率必须接近 0，并随 *S* 的增大而越来越好地逼近 0。QM 相反预测概率为 1/17。（还回想：通过选择 13 个方向的集合，这个数字可以推高到 1/3！）
+    step2: |-
+      最后假定概率随我们在 R₃ 中改变方向而连续变化似乎有道理：因此单一情形中阻碍论证的可观察量选择的小缺陷（但只对被测的值！）会在长期消解（见 Mermin 1999，载其他网络资源）。这本身不构成论证——因为在 MKC 构造的可着色可观察量集合中，概率也（在一种意义上）连续变化。[^note-17] 不过可按如下方式利用梅明的推理。重新考虑 Clifton 的八方向集合（图 3）——它导向对最外点的着色约束，与 QM 统计以 1/17 的比例统计矛盾。使用 Clifton 与 Kent 的可着色方向集合 D_{CK}，无法为这八点导出约束（八点不在 D_{CK} 中）：在可着色子集中从一个互相正交的射线三元组走到下一个时，绝不会恰好碰到同一射线，只会碰到任意逼近它的射线。假定系统集合 S：其中对应 D_{CK} 成员、逼近图 3 八方向到任意接近的可观察量都有值（符合 HV 前提）。那么我们*可以*在如下涵义为最外点导出 Clifton 的约束：考虑系统子集 *S*′ ⊂ *S*——任何逼近点 (1, 1, 1) 的方向都得到值 1（白色）。为满足 QM 的预测，*S*′ 中所有逼近 (1, 0, −1) 与 (1, −1, 0) 的方向必须得到使值 0（黑色）概率极接近 1 的值；类似地，在另一个以逼近 (−1, 1, 1) 的方向有值 1（白色）的子集 *S*″ ⊂ *S* 中，所有逼近 (1, 0, 1) 与 (1, 1, 0) 的方向必须得到使值 0（黑色）概率极接近 1 的值。考虑 *S*′ ∩ *S*″ 的成员：其中任何一个，对任何以值 0（黑色）逼近 (1, 0, −1) 的方向，都会有一个恰好正交的点逼近 (1, 0, 1) 且也有值 0（黑色），使得有第三个正交点逼近 (0, 1, 0) 且有值 1（白色）；对 (0, 0, 1) 亦然。但 (0, 1, 0) 与 (0, 0, 1) 正交，且对 *S*′ ∩ *S*″ 的所有成员，*逼近*它们的方向都有值 1（白色），而 QM 预测*被逼近*方向的值为 1 的概率是 0。为确保满足这一预测，*S*′ ∩ *S*″ 必须是 *S* 的极小子集——即 (1, 1, 1) 与 (−1, 1, 1)（图 3 最左与最右的点）的概率必须接近 0，并随 *S* 增大越来越好地逼近 0；QM 相反预测概率 1/17（还回想：选 13 个方向的集合，这个数字可推高到 1/3！）
   - id: 118
     kind: body
     source: |-
       Cabello (2002), using a very similar reasoning, has shown that the MKC models lead to predictions that testably differ from the ones of QM. For D_{CK}, he effectively uses the strategy sketched above: QM gives probabilities for directions in the Clifton-Kent set which their model must match in order to reproduce QM predictions. As these directions are arbitrarily close to directions from a KS-uncolourable set (or directions leading to Clifton’s constraint), this leads to restrictions for these nearby points that are measurably violated by the QM predictions. For Meyer’s D_{M} Cabello’s case is even stronger. He explicitly presents a set of nine *rational* vectors leading to predictions different from QM (for three of these directions). Hence, the Meyer argument is effectively rebutted (without recourse to Mermin’s requirement): Even if there were only observables corresponding to the rational directions in R₃ (which in itself is an implausible assumption) a theory assuming that they all have noncontextual values faithfully revealed by measurement will be measurably at variance with QM. Assume now that the Cabello directions were tested and the QM predictions reliably confirmed, then this would (modulo the reliability of the tests) constitute a proof that Nature is contextual.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Cabello（2002）用非常类似的推理表明：MKC 模型导致与 QM 可检验地不同的预测。对 D_{CK}，他实际使用上面勾勒的策略：QM 给出 Clifton-Kent 集合中方向的概率，其模型必须匹配这些概率才能复制 QM 的预测。由于这些方向任意接近 KS 不可着色集合中的方向（或导向 Clifton 约束的方向），这对邻近的点导出的限制被 QM 的预测可测地违反。对 Meyer 的 D_{M}，Cabello 的论证更强。他明确给出九个*有理*矢量的集合，导向与 QM 不同的预测（对其中三个方向）。因此 Meyer 论证被有效地反驳（不诉诸梅明的要求）：即使只有对应 R₃ 中有理方向的可观察量（这本身就是一个难以置信的假定），一个假定它们全都有被测量忠实揭示的非语境值的理论，也将与 QM 可测地不一致。现在假定 Cabello 方向被检验、QM 预测被可靠地确认，那么这将（在检验可靠性的限度内）构成自然ness 是语境性的证明。
+    step2: |-
+      Cabello（2002）用非常类似的推理表明：MKC 模型导致与 QM 可检验地不同的预测。对 D_{CK}，他实际使用上面勾勒的策略：QM 给出 Clifton-Kent 集合中方向的概率，其模型须匹配这些概率才能复制 QM 的预测；由于这些方向任意接近 KS 不可着色集合中的方向（或导向 Clifton 约束的方向），这对邻近点导出的限制被 QM 的预测可测地违反。对 Meyer 的 D_{M}，Cabello 的论证更强：他明确给出九个*有理*矢量的集合，导向与 QM 不同的预测（对其中三个方向）——Meyer 论证被有效反驳（不诉诸梅明的要求）：即使只有对应 R₃ 中有理方向的可观察量（这本身难以置信），一个假定它们全都有被测量忠实揭示的非语境值的理论，也将与 QM 可测地不一致。现在假定 Cabello 方向被检验、QM 预测被可靠确认，这将（在检验可靠性的限度内）构成自然ness 是语境性的证明。
   - id: 119
     kind: body
     source: |-
       So, in sum it seems that, as long as we assume that there are continuously many QM observables (corresponding to the continuum of directions in physical space), statistical tests building, e.g., on the Clifton 1993 or the Cabello/Garcìa-Alcaine 1998 proposal remain entirely valid as empirical confirmations of QM and, via the KS theorem, of contextuality. Since these statistical violations of the HV programme come about as contradictions of results of QM, VD, VR, and NC on the one hand, and QM and experiment on the other, the experimental data still force upon us the trilemma of giving up either VD or VR or NC. As we have seen, denial of value realism in the end becomes identical to a kind of contextualism, hence we really have only two options: (1) Giving up VD, either for all observables forbidden to have values in the orthodox interpretation (thus giving up the HV programme, as defined above), or for a subset of these observables (as modal interpretations do). (2) Endorse a kind of contextualism. Moreover, as things presently stand, the choice between these two options seems not to be a matter of empirical testing, but one of pure philosophical argument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      所以总之，只要我们假定存在连续多个 QM 可观察量（对应物理空间中方向的连续统），建立在例如 Clifton 1993 或 Cabello/Garcìa-Alcaine 1998 提案之上的统计检验，就仍然完全有效，作为 QM 的经验确认，并经 KS 定理确认语境性。由于这些对 HV 纲领的统计违反是作为 QM、VD、VR 与 NC 一方面与 QM 及实验另一方面的矛盾而发生的，实验数据仍然迫使我们面对三难困境：放弃 VD、VR 或 NC 之一。如我们所见，对价值实在论的否认最终变得等同于一种语境主义，因此我们实际上只有两个选项：(1) 放弃 VD——或者对所有在正统解释中被禁止有值的可观察量（从而放弃如上定义的 HV 纲领），或者对这些可观察量的一个子集（如模态解释所做的）；(2) 赞同某种语境主义。 moreover，就目前的情况而言，这两个选项之间的选择似乎不是经验检验的问题，而是纯粹的哲学论证的问题。
+    step2: |-
+      总之，只要假定存在连续多个 QM 可观察量（对应物理空间方向的连续统），建立在例如 Clifton 1993 或 Cabello/Garcìa-Alcaine 1998 提案之上的统计检验，仍完全有效——作为 QM 的经验确认，并经 KS 定理确认语境性。由于这些对 HV 纲领的统计违反是作为 QM、VD、VR 与 NC 一方面与 QM 及实验另一方面的矛盾而发生的，实验数据仍迫使我们面对三难困境：放弃 VD、VR 或 NC 之一。如我们所见，对价值实在论的否认最终等同于一种语境主义——故实际只有两个选项：(1) 放弃 VD：或对所有在正统解释中被禁止有值的可观察量（从而放弃如上定义的 HV 纲领），或对其子集（如模态解释所做的）；(2) 赞同某种语境主义。 moreover 就目前情况而言，两个选项之间的选择似乎不是经验检验的问题，而是纯粹哲学论证的问题。
   - id: 120
     kind: oir
     source: |-
@@ -751,107 +1025,189 @@ segments:
       - Rajan, D. and Visser, M., 2017, “Kochen-Specker Theorem Revisited”. [[Preprint available online.](http://arxiv.org/abs/1708.01380)]
       - [Kochen Specker theorem on arxiv.org](http://xstructure.inr.ac.ru/x-bin/theme2.py?arxiv=quant-ph&level=1&index1=3004)
       - [Ernst-Udo Wallenborn: “Was ist das Kochen-Specker-Theorem?”](https://web.archive.org/web/20160315033351/http://theory.gsi.de/~vanhees/faq/epr/node7.html) (in German, but with useful figures)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - Appleby, D. M., 2000, “Contextuality of Approximate Measurements”。［预印本在线可得：http://arxiv.org/abs/quant-ph/0005010。］
+      - Cabello, A., 1999, “Comment on ‘Non-Contextual Hidden Variables and Physical Measurements’”。［预印本在线可得：http://arxiv.org/abs/quant-ph/9911024v1。］
+      - Mermin, N. D., 1999, “A Kochen-Specker Theorem for Imprecisely Specified Measurements”。［预印本在线可得：http://arxiv.org/abs/quant-ph/9912081。］
+      - Rajan, D. and Visser, M., 2017, “Kochen-Specker Theorem Revisited”。［预印本在线可得：http://arxiv.org/abs/1708.01380。］
+      - [arxiv.org 上的 Kochen-Specker 定理](http://xstructure.inr.ac.ru/x-bin/theme2.py?arxiv=quant-ph&level=1&index1=3004)
+      - [Ernst-Udo Wallenborn：“什么是 Kochen-Specker 定理？”](https://web.archive.org/web/20160315033351/http://theory.gsi.de/~vanhees/faq/epr/node7.html)（德语，但配有有用的图）
+    step2: |-
+      - Appleby, D. M., 2000, “Contextuality of Approximate Measurements”。［预印本在线可得：http://arxiv.org/abs/quant-ph/0005010。］
+      - Cabello, A., 1999, “Comment on ‘Non-Contextual Hidden Variables and Physical Measurements’”。［预印本在线可得：http://arxiv.org/abs/quant-ph/9911024v1。］
+      - Mermin, N. D., 1999, “A Kochen-Specker Theorem for Imprecisely Specified Measurements”。［预印本在线可得：http://arxiv.org/abs/quant-ph/9912081。］
+      - Rajan, D. and Visser, M., 2017, “Kochen-Specker Theorem Revisited”。［预印本在线可得：http://arxiv.org/abs/1708.01380。］
+      - [arxiv.org 上的 Kochen-Specker 定理](http://xstructure.inr.ac.ru/x-bin/theme2.py?arxiv=quant-ph&level=1&index1=3004)
+      - [Ernst-Udo Wallenborn：“什么是 Kochen-Specker 定理？”](https://web.archive.org/web/20160315033351/http://theory.gsi.de/~vanhees/faq/epr/node7.html)（德语，但配有有用的图）
   - id: 121
     kind: note
     source: |-
       [^note-1]: One of the main ideas of Bohmian Mechanics is that position is the only basic observable to which all other observables of orthodox QM can be reduced. So, Bohmian Mechanics will qualify VD as follows: “Not all observables defined in orthodox QM for a physical system are defined in Bohmian Mechanics, but those that are (i.e. only position) do have definite values at all times.” Both this modification of VD and the rejection of NC immediately immunize Bohmian Mechanics against any no HV argument from the Kochen Specker Theorem. See sec.s 10 and 11 of the entry on Bohmian Mechanics for further discussion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 玻姆力学的一个主要理念是：位置是唯一的基本可观察量，正统 QM 的所有其他可观察量都可还原为它。所以玻姆力学会这样限定 VD：“并非正统 QM 为物理系统定义的所有可观察量都在玻姆力学中定义，但那些定义了的（即只有位置）确实在一切时刻都有确定值。”对 VD 的这一修改与对 NC 的拒绝，立刻使玻姆力学对来自 Kochen-Specker 定理的任何反 HV 论证免疫。进一步的讨论见玻姆力学词条的第 10、11 节。
+    step2: |-
+      [^note-1]: 玻姆力学的一个主要理念是：位置是唯一的基本可观察量，正统 QM 的所有其他可观察量都可还原为它。所以玻姆力学会这样限定 VD：“并非正统 QM 为物理系统定义的所有可观察量都在玻姆力学中定义，但那些定义了的（即只有位置）确实在一切时刻都有确定值。”对 VD 的这一修改与对 NC 的拒绝，立刻使玻姆力学对来自 Kochen-Specker 定理的任何反 HV 论证免疫。进一步的讨论见玻姆力学词条的第 10、11 节。
   - id: 122
     kind: note
     source: |-
       [^note-2]: Note that if we understand the ‘expectation’ values deriving from the hidden states as what someone knowing such a state should expect as the average measurement result, then this claim is correct only given an assumption of faithful measurement (FM). FM is another typical assumption of a realist (or noncontextualist HV) interpretation of QM. The KS argument can be given without FM, since it makes claims about possessed values, not measured values. Only in statistical arguments, like von Neumann’s and Clifton’s, FM must be assumed. We suppress FM in the main text with the exception of Contextuality (see Section 5.3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 注意：如果我们把从隐态导出的“期望”值理解为知道该态的人应当预期的平均测量结果，那么这一主张只有在忠实测量（FM）的假定下才正确。FM 是 QM 的实在论（或非语境主义 HV）解释的另一典型假定。KS 论证可以在没有 FM 的情况下给出，因为它主张的是拥有的值，而非被测的值。只有在统计论证（如冯·诺依曼与 Clifton 的）中才必须假定 FM。我们在正文中隐去 FM，语境性一节（5.3 节）除外。
+    step2: |-
+      [^note-2]: 注意：若把从隐态导出的“期望”值理解为知道该态的人应预期的平均测量结果，则这一主张只有在忠实测量（FM）假定下才正确。FM 是 QM 的实在论（或非语境主义 HV）解释的另一典型假定。KS 论证可以在没有 FM 的情况下给出——它主张的是拥有的值，而非被测的值；只有在统计论证（如冯·诺依曼与 Clifton 的）中才须假定 FM。我们在正文中隐去 FM，语境性一节（5.3 节）除外。
   - id: 123
     kind: note
     source: |-
       [^note-3]: See Bell (1966: 4) and Jammer (1974: 274, 304); see also Kochen and Specker (1967: 82/322, theorem 3) for a parallel example and criticism of von Neumann. This criticism of von Neumann’s argument was first raised by Grete Hermann (1935). Einstein is also reported to have made the same criticism (see Shimony 1993: 89)[^shimony-1993].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 见 Bell (1966: 4) 与 Jammer (1974: 274, 304)；另见 Kochen and Specker (1967: 82/322, theorem 3) 的平行例子与对冯·诺依曼的批评。对冯·诺依曼论证的这一批评最早由格蕾特·赫尔曼（1935）提出。据报告爱因斯坦也提出过同样的批评（见 Shimony 1993: 89）[^shimony-1993]。
+    step2: |-
+      [^note-3]: 见 Bell (1966: 4) 与 Jammer (1974: 274, 304)；另见 Kochen and Specker (1967: 82/322, theorem 3) 的平行例子与对冯·诺依曼的批评。这一批评最早由格蕾特·赫尔曼（1935）提出；据报告爱因斯坦也提出过同样的批评（见 Shimony 1993: 89）[^shimony-1993]。
   - id: 124
     kind: note
     source: |-
       [^note-4]: Apart from being positive and normalised (μ(id)=1, id the identity operator), a probability measure in Gleason’s sense must be (countably) additive for families of mutually orthogonal projections. This natural assumption is the analogue of KS’s assumption (3) for compatible observables.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 除了是正的与归一化的（μ(id)=1，id 为恒等算符），格利森意义上的概率测度对互相正交的投影族必须是（可数）可加的。这一自然的假定是 KS 对相容可观察量的假设 (3) 的类似物。
+    step2: |-
+      [^note-4]: 除了是正的与归一化的（μ(id)=1，id 为恒等算符），格利森意义上的概率测度对互相正交的投影族必须是（可数）可加的——这一自然假定是 KS 对相容可观察量的假设 (3) 的类似物。
   - id: 125
     kind: note
     source: |-
       [^note-5]: According to Bell (1987: 167), Kochen did not know of Gleason’s work at the time.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 照贝尔（1987: 167），Kochen 当时不知道格利森的工作。
+    step2: |-
+      [^note-5]: 照贝尔（1987: 167），Kochen 当时不知道格利森的工作。
   - id: 126
     kind: note
     source: |-
       [^note-6]: It has been claimed that the theorem’s statement requires a third condition:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 有人主张定理的陈述需要第三个条件：
+      >
+      > (KS2)(c)：存在至少一个可观察量 *X*，使 *v*(*X*) ≠ 0。
+      >
+      > […] 没有条件 KS2c，定理实际上是假的——对所有可观察量 *X* 置 *v*(*X*) = 0 的平凡赋值提供了一个明确的反例。
+
+      （见 Rajan and Visser 2017, p. 2，载其他网络资源。）但这是一个错误。定理断言存在一个赋值使 KS1 与 KS2 联合地矛盾。可以说，这一主张只能通过明确的例子来证明。给出一个使 KS1 与 KS2 联合相容（非矛盾）的赋值——即“平凡赋值”——本身与该定理的主张相容，但与其证明无关。
+    step2: |-
+      [^note-6]: 有人主张定理的陈述需要第三个条件：
+      >
+      > (KS2)(c)：存在至少一个可观察量 *X*，使 *v*(*X*) ≠ 0。
+      >
+      > […] 没有条件 KS2c，定理实际是假的——对所有可观察量 *X* 置 *v*(*X*) = 0 的平凡赋值提供明确的反例。
+
+      （见 Rajan and Visser 2017, p. 2，载其他网络资源。）但这是错误：定理断言存在一个赋值使 KS1 与 KS2 联合矛盾——可以说这一主张只能通过明确的例子证明；给出一个使 KS1 与 KS2 联合相容（非矛盾）的赋值（即“平凡赋值”）本身与定理的主张相容，但与其证明无关。
   - id: 127
     kind: note
     source: |-
       [^note-7]: See Kochen and Specker (1967: 71–72/310–11).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 见 Kochen and Specker (1967: 71–72/310–11)。
+    step2: |-
+      [^note-7]: 见 Kochen and Specker (1967: 71–72/310–11)。
   - id: 128
     kind: note
     source: |-
       [^note-8]: By elementary vector algebra, viz.: **a**·**b**=|a| |b| cos φ, where **a**·**b** is the inner product of vectors **a** and **b** and φ is the angle between them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 由初等矢量代数，即：**a**·**b**=|a| |b| cos φ，其中 **a**·**b** 是矢量 **a** 与 **b** 的内积，φ 是它们之间的角。
+    step2: |-
+      [^note-8]: 由初等矢量代数，即：**a**·**b**=|a| |b| cos φ，其中 **a**·**b** 是矢量 **a** 与 **b** 的内积，φ 是它们之间的角。
   - id: 129
     kind: note
     source: |-
       [^note-9]: Both arguments, i.e., von Neumann’s and Clifton’s, presuppose faithful measurement (FM) (see also fn 1). Indeed, an eventual failure of FM would be the natural way to explain why a certain constraint on possessed values does not show up in the measurement statistics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 两个论证，即冯·诺依曼的与 Clifton 的，都预设忠实测量（FM）（另见脚注 1）。事实上，FM 的可能失效将是解释为什么对拥有值的某个约束不出现在测量统计中的自然方式。
+    step2: |-
+      [^note-9]: 两个论证（冯·诺依曼的与 Clifton 的）都预设忠实测量（FM）（另见脚注 1）。事实上 FM 的可能失效将是解释为什么对拥有值的某个约束不出现在测量统计中的自然方式。
   - id: 130
     kind: note
     source: |-
       [^note-10]: A state of a spin-1 particle where prob(*v*(*S*_{*x*}²)=0)=1 is |*S*_{*x*}=0>. Expanding this state in the eigenvectors of *S*_{*x*′} yields
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 一个 prob(*v*(*S*_{*x*}²)=0)=1 的自旋-1 粒子的态是 |*S*_{*x*}=0>。把这个态在 *S*_{*x*′} 的本征矢中展开，得：
+
+      > |*S*_{*x*}=0> = cos φ (1 + sin² φ) ^{−½} |*S*_{*x*′} = 0> + sin φ (1 + sin² φ) ^{−½} (|*S*_{*x*′} = −1> − |*S*_{*x*′} = +1>)
+
+      现在，取 cos φ=1/3，我们得到：
+
+      > | prob(*v*(*S*_{*x*′}²) = 0) | = | prob(*v*(*S*_{*x*′}) = 0) |
+      > | --- | --- | --- |
+      > |   | = | (cos φ)² / (1 + sin² φ) |
+      > |   | = | 1/9 (1 + 8/9)^{−1} |
+      > |   | = | 1/17 |
+    step2: |-
+      [^note-10]: 一个 prob(*v*(*S*_{*x*}²)=0)=1 的自旋-1 粒子的态是 |*S*_{*x*}=0>。把这个态在 *S*_{*x*′} 的本征矢中展开，得：
+
+      > |*S*_{*x*}=0> = cos φ (1 + sin² φ) ^{−½} |*S*_{*x*′} = 0> + sin φ (1 + sin² φ) ^{−½} (|*S*_{*x*′} = −1> − |*S*_{*x*′} = +1>)
+
+      现在取 cos φ=1/3，得到：
+
+      > | prob(*v*(*S*_{*x*′}²) = 0) | = | prob(*v*(*S*_{*x*′}) = 0) |
+      > | --- | --- | --- |
+      > |   | = | (cos φ)² / (1 + sin² φ) |
+      > |   | = | 1/9 (1 + 8/9)^{−1} |
+      > |   | = | 1/17 |
   - id: 131
     kind: note
     source: |-
       [^note-11]: See Redhead (1987: 121). See also Kochen and Specker (1967: 64/299, eq. 4) and Fine and Teller (1978: 631) where the principle appears under the name “functional relation condition”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: 见 Redhead (1987: 121)。另见 Kochen and Specker (1967: 64/299, eq. 4) 与 Fine and Teller (1978: 631)——在那里该原则以“函数关系条件”之名出现。
+    step2: |-
+      [^note-11]: 见 Redhead (1987: 121)。另见 Kochen and Specker (1967: 64/299, eq. 4) 与 Fine and Teller (1978: 631)——在那里该原则以“函数关系条件”之名出现。
   - id: 132
     kind: note
     source: |-
       [^note-12]: The argument here is due to Redhead (1987: 132). Redhead himself suggests that there is an internal tension in his argument. He remarks that STAT FUNC, as derived from the QM formalism, is a statement about (probabilities for) *measured values*, (see his remark that when QM → STAT FUNC, the latter is “understood in terms of the statistics of measurement results”, p. 132), while FUNC talks about “the *possessed values* of the observables” (p. 121, my italics). This distinction seems to devaluate Redhead’s reasoning to some extent. If there is a real difference between possessed values and measured values and no explicit assumption equating both types of values is made, then STAT FUNC (version 1) derivable from FUNC talks about a statistical relation among functions of *possessed values*, while STAT FUNC (version 2) is derived from QM, hence by definition talks about the statistics of *measured values*. The two versions initially are entirely unconnected and FUNC → STAT FUNC (version 1) cannot lend plausibility to STAT FUNC (version 1). Now, don’t we have good reason to carefully distinguish measured and possessed values in QM?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-12]: 这里的论证出自 Redhead（1987: 132）。雷德海本人暗示他的论证有内在的张力。他评论说：从 QM 形式主义导出的 STAT FUNC 是关于（的概率的）*被测值*的陈述（见他的评论：当 QM → STAT FUNC 时，后者“按测量结果的统计来理解”，p. 132），而 FUNC 谈论“可观察量的*拥有的值*”（p. 121，我的强调）。这一区分在某种程度上贬低了雷德海推理的价值。如果在拥有的值与被测的值之间存在实在的差异、且没有明确假定等同两类值，那么可从 FUNC 导出的 STAT FUNC（版本 1）谈论的是*拥有的值*的函数之间的统计关系，而 STAT FUNC（版本 2）从 QM 导出，因而按定义谈论*被测值*的统计。两个版本起初完全不相干，FUNC → STAT FUNC（版本 1）不能为 STAT FUNC（版本 1）提供可信性。那么，难道我们没有好的理由在 QM 中仔细区分被测值与拥有的值吗？
+
+      幸运的是，这样的区分其实并不必要。首先，区分拥有的值的强意义与弱意义：强意义中拥有的值是系统独立于被测量而拥有的值；弱意义中拥有的值是系统*单纯地*拥有的值——系统就是有它们，也许是测量的结果，也许不是。其次，考虑系统因测量而“显示一个值”这一限定短语。至少必须是这样的短语进入统计算法为其给出概率的事件的描述。但这一限定短语实际上是多余的：物理系统若不拥有某物，就不会显示任何东西。因此，如果系统在测量时显示一个值，那么它拥有这个值（弱意义上）。相反，如果系统在测量时显示一个值且测量是忠实的，那么它独立于测量拥有该值（因此强意义上拥有它）。（关于忠实测量的更多内容见正文下文 5.3 节；关于忠实测量与拥有的值的联系另见 Redhead, p. 131 after eq. (11)。）现在，拥有值的弱意义足以表述 FUNC，而雷德海关于 STAT FUNC 的可信性论证未受触动。（事实上 FUNC → STAT FUNC 的推导本身使用统计算法；如果后者不指某种意义上拥有的值的概率，这将是非法的程序。）
+    step2: |-
+      [^note-12]: 这里的论证出自 Redhead（1987: 132）。雷德海本人暗示其论证有内在张力：他评论说，从 QM 形式主义导出的 STAT FUNC 是关于（的概率的）*被测值*的陈述（见其评论：当 QM → STAT FUNC 时，后者“按测量结果的统计来理解”，p. 132），而 FUNC 谈论“可观察量的*拥有的值*”（p. 121，我的强调）——这一区分在某种程度上贬低了雷德海推理的价值：若在拥有的值与被测值之间存在实在差异、且没有明确假定等同两类值，那么可从 FUNC 导出的 STAT FUNC（版本 1）谈论的是*拥有的值*的函数之间的统计关系，而 STAT FUNC（版本 2）从 QM 导出，因而按定义谈论*被测值*的统计。两个版本起初完全不相干，FUNC → STAT FUNC（版本 1）不能为 STAT FUNC（版本 1）提供可信性。那么，难道我们没有好的理由在 QM 中仔细区分被测值与拥有的值吗？
+
+      幸运的是这样的区分其实不必要。首先区分拥有的值的强意义与弱意义：强意义中拥有的值是系统独立于被测量而拥有的值；弱意义中拥有的值是系统*单纯地*拥有的值——系统就是有它们，也许是测量的结果，也许不是。其次考虑系统因测量而“显示一个值”这一限定短语：至少必须是这样的短语进入统计算法为其给出概率的事件的描述；但这一限定短语实际多余——物理系统若不拥有某物，就不会显示任何东西。因此若系统在测量时显示一个值，它就拥有这个值（弱意义上）；相反，若系统在测量时显示一个值且测量是忠实的，它就独立于测量拥有该值（强意义上拥有）。（关于忠实测量的更多内容见正文 5.3 节；关于忠实测量与拥有值的联系另见 Redhead, p. 131 after eq. (11)。）现在，拥有值的弱意义足以表述 FUNC，而雷德海关于 STAT FUNC 的可信性论证未受触动（事实上 FUNC → STAT FUNC 的推导本身使用统计算法；若后者不指某种意义上拥有的值的概率，这将是非法的程序）。
   - id: 133
     kind: note
     source: |-
       [^note-13]: It is not exactly true that the QM formalism prescribes *any* observable to have a value. In fact, the formalism itself is entirely silent about values, apart from the statistical predictions it entails via the statistical algorithm (see Redhead 1987: 8)[^redhead-1987]. But a crucial assumption of orthodox interpretations is the eigenstate-eigenvalue link (see Fine 1973: 20)[^fine-1973]: Observable *A* on a system has value a_{*k*} iff the system is in state |a_{*k*}>. The only if direction of this principle which leads to a minimum of value ascriptions is endorsed in van Fraassen’s original version of the modal interpretation (this direction is equivalent to the Eigenvector Rule in Redhead 1987: 73, 120)[^redhead-1987] while it denies the if direction, which prevents that more than a minimum of values are ascribed to a system.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-13]: 说 QM 形式主义规定*任何*可观察量有值并不完全正确。事实上，形式主义本身对值完全沉默，除了它经统计算法蕴涵的统计预测（见 Redhead 1987: 8）[^redhead-1987]。但正统解释的一个关键假定是本征态-本征值联结（见 Fine 1973: 20）[^fine-1973]：系统上的可观察量 *A* 有值 a_{*k*}，当且仅当系统处于态 |a_{*k*}>。模态解释的范弗拉森原始版本赞同这一原则的“仅当”方向——它导向最小限度的值归属（这一方向等价于 Redhead 1987: 73, 120 的本征矢规则）[^redhead-1987]——而否认“当”方向，后者防止把多于最小限度的值归属给系统。
+    step2: |-
+      [^note-13]: 说 QM 形式主义规定*任何*可观察量有值并不完全正确：事实上形式主义本身对值完全沉默（除了它经统计算法蕴涵的统计预测，见 Redhead 1987: 8）[^redhead-1987]。但正统解释的关键假定是本征态-本征值联结（见 Fine 1973: 20）[^fine-1973]：系统上的可观察量 *A* 有值 a_{*k*}，当且仅当系统处于态 |a_{*k*}>。模态解释的范弗拉森原始版本赞同这一原则的“仅当”方向（导向最小限度的值归属；这一方向等价于 Redhead 1987: 73, 120 的本征矢规则）[^redhead-1987]，而否认“当”方向——后者防止把多于最小限度的值归属给系统。
   - id: 134
     kind: note
     source: |-
       [^note-14]: This is Redhead’s (1987: 135–36) construal of a proposal by Fine (1974).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-14]: 这是雷德海（1987: 135–36）对范弗拉森（1974）提案的解读。
+    step2: |-
+      [^note-14]: 这是雷德海（1987: 135–36）对范弗拉森（1974）提案的解读。
   - id: 135
     kind: note
     source: |-
       [^note-15]: See Fine and Teller (1978: 636), Redhead (1987: 138) and references therein.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-15]: 见 Fine and Teller (1978: 636), Redhead (1987: 138) 及其中的文献。
+    step2: |-
+      [^note-15]: 见 Fine and Teller (1978: 636), Redhead (1987: 138) 及其中的文献。
   - id: 136
     kind: note
     source: |-
       [^note-16]: What we mean here is the following. A definition of observable *f*(*A*) (or observable *A* + *B*, or observable *A*·*B*, both constructed from observables *A* and *B*) would be that it is an observable which takes a value calculated by measuring *v*(*A*) (or measuring *v*(*A*) and *v*(*B*)) and applying *f* to the result (or calculating *v*(*A*) + *v*(*B*), or calculating *v*(*A*) *v*(*B*)). FUNC, the Sum Rule and the Product Rule, as restricted to one measurement context, trivially repeat these definitions, and there obviously is no point in testing, e.g., whether *v*(*A*·*B*) really equals *v*(*A*) *v*(*B*), if the former expression is defined by the latter.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-16]: 我们的意思如下。可观察量 *f*(*A*)（或可观察量 *A* + *B*、*A*·*B*——都从可观察量 *A* 与 *B* 构造）的定义是：它是一个可观察量，其值通过测量 *v*(*A*)（或测量 *v*(*A*) 与 *v*(*B*)）并把 *f* 应用于结果（或计算 *v*(*A*) + *v*(*B*)，或计算 *v*(*A*) *v*(*B*)）而算得。限定于一个测量语境的 FUNC、和规则与积规则，平凡地重复这些定义；显然检验诸如 *v*(*A*·*B*) 是否真的等于 *v*(*A*) *v*(*B*) 没有意义——如果前一表达式由后一定义的话。
+    step2: |-
+      [^note-16]: 我们的意思如下：可观察量 *f*(*A*)（或可观察量 *A* + *B*、*A*·*B*——都从可观察量 *A* 与 *B* 构造）的定义是：其值通过测量 *v*(*A*)（或测量 *v*(*A*) 与 *v*(*B*)）并把 *f* 应用于结果（或计算 *v*(*A*) + *v*(*B*)、*v*(*A*) *v*(*B*)）而算得。限定于一个测量语境的 FUNC、和规则与积规则，平凡地重复这些定义；显然检验诸如 *v*(*A*·*B*) 是否真的等于 *v*(*A*) *v*(*B*) 没有意义——若前一表达式由后一定义的话。
   - id: 137
     kind: note
     source: |-
       [^note-17]: The proviso ‘in a sense’ comes from the fact that a colourable subset of the set of observables corresponding to all directions in R3, since it is a proper subset of the latter, is not itself continuous in the intuitive sense. We can, however, define a probability function from such a colourable subset into [0, 1] which obeys the usual continuity definition of elementary calculus.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-17]: “在一种意义上”这一限定来自如下事实：对应于 R₃ 中全部方向的可观察量集合的可着色子集，既然是后者的真子集，在直观意义上本身不是连续的。不过我们可以定义一个从这样的可着色子集到 [0, 1] 的概率函数，它满足初等微积分的通常连续性定义。
+    step2: |-
+      [^note-17]: “在一种意义上”这一限定来自如下事实：对应 R₃ 中全部方向的可观察量集合的可着色子集，既然是后者的真子集，在直观意义上本身不是连续的；不过我们可以定义一个从这样的可着色子集到 [0, 1] 的概率函数——它满足初等微积分的通常连续性定义。

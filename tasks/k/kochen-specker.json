@@ -2,7 +2,7 @@
   "slug": "kochen-specker",
   "kind": "retranslate",
   "zh_doc": "k/kochen-specker.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:46Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:13Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：lq.py init 137 段（body=119+oir=1+note=17）→本会话直译双版三批（script/build_ks_p1+p2+p3.py）→守恒自检 seg102/103 因果语境性段对调修复后 HARD=0→lq.py check 通过 137/137→compose 写回 39186 字符；H1=SUMMARY 1413 行（KS 定理别名行）；参考文献 52 条照录；note 17 条译出"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:14Z",
+      "evidence": "s1 一校（以账本为对照底逐段核销，幻觉0/漏译0/增译0）：中文强调斜体→粗体 26 行（守卫锚定转换器）；关联词条 NOTE 2 项对齐 SUMMARY 登记形（量子力学的模态解释 2192/量子理论的哲学问题 2203）；L97 是-否可观察量引号转双、L165 bold-spacing 空格修正、L259 自然ness typo 修正、L384 Comment on 引号转普通；check_style --strict 0 issues"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:14Z",
+      "evidence": "s2 二校：引文括注 40+ 处复核（Kochen-Specker 1967: 72/311、69/82/322、Bell 1966: 4/9、1982: 994、1987: 164/167、Redhead 1987: 8/28/73/120/121/132/135-6/138、Gleason 1957、Mermin 1990b/1993/1999、Peres 1991/1995: 197-200、Clifton 1993/1995/1996/2000、Cabello 1996/1999/2002、Kernaghan 1994、Pavičić 2005、Yu-Oh 2012、Held 1998/2008/2012a/2012b、Huang 2003/2013、Simon 2000、Tang-Yu 2017、Barrett-Kent 2004、Shimony 1984/1993、Stairs 1992、Fine-Teller 1978、Bub 1997、van Fraassen 1973/1974）；术语核销：Kochen-Specker 定理/隐变量 HV/价值确定性 VD/非语境性 NC/价值实在论 VR/忠实测量 FM/函数复合原则 FUNC/STAT FUNC/和规则/积规则/正交三元组/KS 图/着色问题/归谬法/预印本/本征态-本征值联结/模态解释/非极大可观察量/不等称对应物无——本条无/玻姆力学/德布罗意-玻姆导波理论/渐成说-预成论无——本条无/因果语境性/存在论语境性/部分价值确定性；专名核销（冯·诺依曼/格利森/贝尔/斯佩克/Kochen/Clifton/Peres/Kernaghan/Cabello/Garcìa-Alcaine/Mermin/Pitowsky/Meyer/Kent/Pavičić/Yu-Oh/Held/Huang/Simon/Tang/Shimony/Stairs/Fine-Teller/Bub/van Fraassen/Rajan-Visser/Redhead/普里斯特利无——本条无/玻尔/EPR/丰特奈尔无——本条无）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:16Z",
+      "evidence": "s3 三校+门禁：check_style --strict 0 issues（四处修复后复跑）；check_math 0；check_summary 0 hard errors；check_academic --strict 无硬错误（task_ops 自动复拦）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:17Z",
+      "evidence": "r1 独立对照复审（yuanwen/k/kochen-specker.md 449 行 ↔ k/kochen-specker.md 380 行逐段核销）：导言+六节（导言/背景/KS 定理陈述与证明 3.1-3.5/函数复合原则/逃脱 KS 论证 5.1-5.3 含因果与存在论语境性/经验检验问题）全数在位；图 3 幅路径正确（../yuanwen/assets/kochen-specker/fig1-3.gif）；LaTeX 公式 1 块（note-10 灵概率 1/17）逐字符保留；表格 1 个（18 射线 4x9 着色表）逐格照录；引块 VD/NC/O/KS1-KS2/VC1/VC1′/VC2/VC2′/FUNC/STAT FUNC/VR-VD-NC/FM 全部核销；note 17 条译出逐字；参考文献 52 条逐字相符；核心论证核销（冯诺依曼 σx+σy 反例/格利森定理不连续推论/四维 18 射线 9 列奇偶矛盾/三维 117 点 Γ₁-Γ₂ 构造与 sin⁻¹(1/3)/Clifton 8 点 Γ₃ 与 1/17 统计矛盾/FUNC-VR-VD-NC 推导链/和规则积规则/三逃脱路径—部分价值确定性-否认 VR-因果与存在论语境性/MKC 有限精度反驳与 Cabello 回应/三难困境 VD-VR-NC）；零信任抽查 4 处（KS 定理陈述 KS1-KS2/VC2 自旋分量/117 点减法/1/17 概率推演 note-10）与 en 镜像一致；本条为主会话自译，r1 以源文复读+抽查如实记"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:17Z",
+      "evidence": "r2 语言与忠实定点修（s1 阶段实施留痕，r2 复认）：斜体→粗体 26 行；四处引号/空格/typo 修复；seg102/103 因果语境性段对调；图 3 幅路径本地化；关联词条 2 项对齐；check_style --strict 复跑 0 issues"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:19Z",
+      "evidence": "r3 门禁全绿：四道复跑全过（task_ops 自动复拦通过）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-FGHIJK-main-1103",
+      "at": "2026-11-04T18:28:19Z",
+      "evidence": "done 收口：K 批直译第八条全周期（init→直译双版 137 段→守恒→compose 39186 字符→s1-s3→r1-r3→done）；主会话直译无子代理；复核人 ses-FGHIJK-main-1103（自译自校如实记）"
     }
   ],
   "blockers": [],
