@@ -251,92 +251,122 @@ segments:
     kind: body
     source: |-
       > *Sanguis* Aer probably it is the nitrous salt in the aier that gives it this tincture & volatizes it, & the volatile part in circulation being either transmuted into nourishment of the part, the remaining bloud in the vains is lesse spirituosus & both in colour & consistence comes nearer a caput mortuum, & therefor is returnd by the vains to the lungues & heart to be new volatilizd & soe by sucession is made all volatile JL. v. Helmont Blas hum. n.35. p150. 52 Destill ana of the venall & arteriall bloud of an animall & try whether they will yeild different quantitys of Salt. JL. (Locke 1664–6 [2007: 463])[^locke-1664].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *Sanguis*（血）空气（Aer）很可能是空气中的硝盐赋予它这种色泽并使之挥发；循环中的易挥发部分或已转化为身体各部分的滋养，静脉中剩余的血便不那么富于精气（spirituosus），其颜色与稠度都更接近死残渣，于是由静脉送回肺与心脏，重新挥发——如此相继，血便全部变得易挥发。JL。参见赫尔蒙特《人炉》n.35, p.150.52。把一动物的静脉血与动脉血各等分蒸馏，试看二者析出的盐是否量各有差。JL。（Locke 1664–6 [2007: 463]）[^locke-1664]。
+    step2: |-
+      > *Sanguis*（血）空气（Aer）很可能是空气中的硝盐赋予它这种色泽并使之挥发；循环中的易挥发部分或已转化为身体各部分的滋养，静脉中剩余的血便不那么富于精气（spirituosus），其颜色与稠度都更接近死残渣，于是由静脉送回肺与心脏，重新挥发——如此相继，血便全部变得易挥发。JL。参见赫尔蒙特《人炉》n.35, p.150.52。把一动物的静脉血与动脉血各等分蒸馏，试看二者析出的盐是否量各有差。JL。（Locke 1664–6 [2007: 463]）[^locke-1664]。
   - id: 32
     kind: body
     source: |-
       A nitrous salt in the air volatised the blood to provide nourishment for the body. Once the body consumed the volatile part of the blood, it was sent back to the lungs and heart to be volatised again to provide a continuous supply of bodily sustenance. Locke even suggested a test for this theory—ascertain whether the venous and arterial blood have different levels of salt to indicate different levels of volatility.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      空气中的硝盐使血液挥发，为身体提供滋养。身体耗用血的易挥发部分后，血便被送回肺与心脏再度挥发，以持续供给身体养料。洛克甚至为这一理论提出一项检验：查明静脉血与动脉血的盐含量是否不同，以指示挥发程度之别。
+    step2: |-
+      空气中的硝盐使血液挥发，为身体提供滋养。身体耗用血的易挥发部分后，血便被送回肺与心脏再度挥发，以持续供给身体养料。洛克甚至为这一理论提出一项检验：查明静脉血与动脉血的盐含量是否不同，以指示挥发程度之别。
   - id: 33
     kind: body
     source: |-
       Locke’s studentship required him to submit a disputation on a medical topic, and this may have prompted his paper “Respirationis Usus”, written mid-1666. He opened his disputation with a direct attack on Galenic orthodoxy: “Would the primary purpose of respiration be to cool the blood? No” (Locke 1666a [2009: 15])[^locke-1666a]. Locke was prepared to agree that “nature seems to work greatly to this effect, that that vestal fire of our life is cherished”, but did not think that the lungs cooled this internal flame:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      学侣资格要求洛克提交一篇医学主题的论辩文，这或许催生了他作于 1666 年年中前后的论文《呼吸之用》（“Respirationis Usus”）。他以对盖伦正统的正面攻击开篇：“呼吸的首要目的难道是冷却血液吗？不”（Locke 1666a [2009: 15]）[^locke-1666a]。洛克愿意承认“自然似乎大力促成此事，使我们生命的那团维斯塔之火得到珍护”，但认为肺并不冷却这团内在的火焰：
+    step2: |-
+      学侣资格要求洛克提交一篇医学主题的论辩文，这或许催生了他作于 1666 年年中前后的论文《呼吸之用》（“Respirationis Usus”）。他以对盖伦正统的正面攻击开篇：“呼吸的首要目的难道是冷却血液吗？不”（Locke 1666a [2009: 15]）[^locke-1666a]。洛克愿意承认“自然似乎大力促成此事，使我们生命的那团维斯塔之火得到珍护”，但认为肺并不冷却这团内在的火焰：
   - id: 34
     kind: body
     source: |-
       > would Nature not be a badly wasteful Matron if she aroused such great fires in us that it would be continually necessary for her to blow cold airs through us to prevent us from being burned up? (Locke 1666a [2009: 17])[^locke-1666a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 倘若自然在我们心中激起如此巨大的火焰，以致她必须不断把冷空气吹过我们的身体，以防我们被烧毁，那她岂不是一位极不节俭的主母？（Locke 1666a [2009: 17]）[^locke-1666a]
+    step2: |-
+      > 倘若自然在我们心中激起如此巨大的火焰，以致她必须不断把冷空气吹过我们的身体，以防我们被烧毁，那她岂不是一位极不节俭的主母？（Locke 1666a [2009: 17]）[^locke-1666a]
   - id: 35
     kind: body
     source: |-
       Locke held that life and animation were constituted by “animal spirits”. These required volatisation and “ascension” by the air, then to be transported around the body in the blood to keep all parts alive:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克认为，生命与生机由“动物精气”构成。它们需要空气使之挥发并“升腾”，然后经血液输往全身，使各部分保持存活：
+    step2: |-
+      洛克认为，生命与生机由“动物精气”构成。它们需要空气使之挥发并“升腾”，然后经血液输往全身，使各部分保持存活：
   - id: 36
     kind: body
     source: |-
       > For seeing that it is upon this that animal life hinges, that there should be a continuous and constant provision of animal spirits, that is, that the parts of the blood should be changed into a subtle and volatile material, which, when diffused everywhere throughout our arteries and nerves, imparts motion, feeling and heat to the body; which appears to be the fundamental reason and whole driving force of our life. (Locke 1666a [2009: 19])[^locke-1666a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因为动物生命正系于此：动物精气必须持续而恒定地得到供给；也就是说，血液的诸部分必须转变为一种精细而易挥发的质料。它弥漫于我们的动脉与神经之中，赋予身体运动、感觉与热量；这似乎是我们生命的根本理据，也是我们生命的全部推动力。（Locke 1666a [2009: 19]）[^locke-1666a]
+    step2: |-
+      > 因为动物生命正系于此：动物精气必须持续而恒定地得到供给；也就是说，血液的诸部分必须转变为一种精细而易挥发的质料。它弥漫于我们的动脉与神经之中，赋予身体运动、感觉与热量；这似乎是我们生命的根本理据，也是我们生命的全部推动力。（Locke 1666a [2009: 19]）[^locke-1666a]
   - id: 37
     kind: body
     source: |-
       Locke supported his theory with experimental results. He first noted that air was “indispensable in order to both ferment and volatize things” (Locke 1666a [2009: 19])[^locke-1666a]. Locke next considered the specific processes at work, proposing a candidate for the active agent in the air:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克以实验结果支持其理论。他首先指出，空气“对于发酵与挥发事物都不可或缺”（Locke 1666a [2009: 19]）[^locke-1666a]。洛克继而考虑其中起作用的具体过程，为空气中的主动动因提出一个候选者：
+    step2: |-
+      洛克以实验结果支持其理论。他首先指出，空气“对于发酵与挥发事物都不可或缺”（Locke 1666a [2009: 19]）[^locke-1666a]。洛克继而考虑其中起作用的具体过程，为空气中的主动动因提出一个候选者：
   - id: 38
     kind: body
     source: |-
       > If one can conjecture something in such obscurity, this sort of spirit has a highly volatile nitrous nature (not unskilled would be those who suspected they saw salt-peter), which seems to be the proper dissolver of sulphurous and inflammable bodies. (Locke 1666a [2009: 21])[^locke-1666a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若能在如此幽暗中作些猜想，这种精气具有高度易挥发的硝的性质（谁若怀疑自己看见了硝石，也并非无稽），它似乎是含硫易燃体的恰当溶解者。（Locke 1666a [2009: 21]）[^locke-1666a]
+    step2: |-
+      > 若能在如此幽暗中作些猜想，这种精气具有高度易挥发的硝的性质（谁若怀疑自己看见了硝石，也并非无稽），它似乎是含硫易燃体的恰当溶解者。（Locke 1666a [2009: 21]）[^locke-1666a]
   - id: 39
     kind: body
     source: |-
       These nitrous particles:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些硝质微粒：
+    step2: |-
+      这些硝质微粒：
   - id: 40
     kind: body
     source: |-
       > necessary to the conservation of our life and the volatility of our blood, we inhale and imbibe together with the air. Whence the little fire of our life is continuously inflamed in our heart. (Locke 1666a [2009: 21])[^locke-1666a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 它们为我们生命之保存与血液之挥发所必需，我们连同空气一道将其吸入并吸收。我们生命的小小火焰，因此在我们心中持续燃起。（Locke 1666a [2009: 21]）[^locke-1666a]
+    step2: |-
+      > 它们为我们生命之保存与血液之挥发所必需，我们连同空气一道将其吸入并吸收。我们生命的小小火焰，因此在我们心中持续燃起。（Locke 1666a [2009: 21]）[^locke-1666a]
   - id: 41
     kind: body
     source: |-
       Locke had identified the end and means of the blood’s volatization and, consequently, the purpose of respiration, thereby overturning the Galenic view:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克已辨明血液挥发的目的与手段，从而辨明呼吸的目的，由此推翻盖伦观点：
+    step2: |-
+      洛克已辨明血液挥发的目的与手段，从而辨明呼吸的目的，由此推翻盖伦观点：
   - id: 42
     kind: body
     source: |-
       > This volatization is caused by fermentation and a kind of burning in the heart. But no kindling of this kind, be it fermentation or whatever we are permitted to call it, takes place without air itself. We conclude therefore that the air effectively kindles the heart’s heat rather than cools it. (Locke 1666a [2009: 21])[^locke-1666a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 这种挥发由发酵与心脏中的一种燃烧引起。但凡这种点燃——无论称为发酵还是别的什么——离开空气本身都不会发生。因此我们断言：空气实际上点燃而非冷却心脏之热。（Locke 1666a [2009: 21]）[^locke-1666a]
+    step2: |-
+      > 这种挥发由发酵与心脏中的一种燃烧引起。但凡这种点燃——无论称为发酵还是别的什么——离开空气本身都不会发生。因此我们断言：空气实际上点燃而非冷却心脏之热。（Locke 1666a [2009: 21]）[^locke-1666a]
   - id: 43
     kind: body
     source: |-
       Locke then sought to corroborate his theory, and refute Galenic cooling, with a wide variety of examples. Locke finally tackled potential objections to his theory by showing why, when circulation increases in exercise or fever, respiration must also increase: that the lungs should not be overwhelmed with blood, and that the blood should be fully impregnated with the aerial ferment, so that it is sufficiently nourishing for the body when it circulates (Locke 1666a [2009: 21–7])[^locke-1666a].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      随后洛克以多种例证试图证实其理论、驳斥盖伦的冷却说。最后洛克处理其理论可能遭遇的异议：说明为何运动或发热时循环加剧，呼吸也必须随之加剧——肺不应被血液淹没，血液应充分浸透空气酵素，以便在循环时足以滋养身体（Locke 1666a [2009: 21–7]）[^locke-1666a]。
+    step2: |-
+      随后洛克以多种例证试图证实其理论、驳斥盖伦的冷却说。最后洛克处理其理论可能遭遇的异议：说明为何运动或发热时循环加剧，呼吸也必须随之加剧——肺不应被血液淹没，血液应充分浸透空气酵素，以便在循环时足以滋养身体（Locke 1666a [2009: 21–7]）[^locke-1666a]。
   - id: 44
     kind: body
     source: |-
       The September 1667 edition of the *Philosophical Transactions of the Royal Society of London* printed “*An Experiment of* Signior Fracassati *upon Bloud grown cold*”. Blood at the top of a dish would be a florid red, in contrast to the blood below it. But once the florid layer was removed, the blood below would redden, showing that the air directly volatized the blood. This experiment prompted Locke to reconsider the theory he had proposed in “Respirationis usus”:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1667 年 9 月号的《伦敦皇家学会哲学汇刊》刊出《弗拉卡萨蒂先生关于冷却血液的实验》。盘顶的血液呈鲜红色，与盘底的血形成对照；而一旦移除鲜红层，下层的血也会变红——这表明空气直接使血液挥发。这一实验促使洛克重新思考他在《呼吸之用》中提出的理论：
+    step2: |-
+      1667 年 9 月号的《伦敦皇家学会哲学汇刊》刊出《弗拉卡萨蒂先生关于冷却血液的实验》。盘顶的血液呈鲜红色，与盘底的血形成对照；而一旦移除鲜红层，下层的血也会变红——这表明空气直接使血液挥发。这一实验促使洛克重新思考他在《呼吸之用》中提出的理论：
   - id: 45
     kind: body
     source: |-
       > If the melancholy bloud exposed to the aer turns florid (v. phil transact p 493) it seemes to prove that the aire in breatheing mixes with the blood since the arteriall bloud in animals is much more florid then the venall. JL (Locke 1667 [2009: 8])[^locke-1667]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 若忧郁的血暴露于空气便转为鲜红（见哲汇 p 493），似乎证明呼吸时空气与血相混合，因为动物体内动脉血比静脉血鲜红得多。JL（Locke 1667 [2009: 8]）[^locke-1667]
+    step2: |-
+      > 若忧郁的血暴露于空气便转为鲜红（见哲汇 p 493），似乎证明呼吸时空气与血相混合，因为动物体内动脉血比静脉血鲜红得多。JL（Locke 1667 [2009: 8]）[^locke-1667]
   - id: 46
     kind: body
     source: |-
