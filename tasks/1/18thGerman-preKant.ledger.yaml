@@ -123,170 +123,226 @@ segments:
     kind: body
     source: |-
       > *nothing other than an agreement between human thoughts and the constitution of things outside your thoughts.* (Thomasius 1691a: ch. 5, §13 [2019: 28]; italics in original)[^thomasius-1691a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德无疑在十八世纪德国哲学的历史上投下了一道长长的阴影。他不仅发起了一场哲学革命，而且在这一过程中把其前辈们的形而上学体系彻底揭露为理性主义的空中楼阁。他的事业的这后一个否定性部分事实上是如此成功，以至于前康德时期的德国哲学在今天仍被广泛视为一个蒙昧的教条主义时期。人们认为，在这一时期，德国哲学——就其存在而言——全神贯注于那种早已被英国和法国抛在后面的枯燥的经院哲学和僵化的形而上学；这一点也反映在如下事实中：几乎所有知名的知识人都是大学教授——当然是男性，因为女性不能上大学——他们用拉丁语而非本国语言发表篇幅冗长的学术巨著（甚至授课也如此）。的确，由于持久的教派对立和错综复杂的内部政治而与欧洲其余部分相隔离，构成神圣罗马帝国的那些德语地区看上去或许像一座思想孤岛，一道抵御现代哲学创新之推进的堡垒，一个几乎从未产生过任何值得一提的思想的地方——也就是说，直到康德哲学的出现为止。
+    step2: |-
+      康德无疑在 18 世纪德国哲学史上投下了长长的阴影。他不仅发动了一场哲学革命，还在这一过程中把前辈们的形而上学体系彻底揭露为理性主义的空中楼阁。这项事业的后一半——否定性的那一半——实在太过成功，以至于前康德时期的德国哲学直到今天仍被普遍看作一个蒙昧的教条主义时代。在人们的印象里，那段时期的德国哲学（如果算得上哲学的话）只顾埋头于干瘪的经院哲学和僵死的形而上学，而这类东西在英国和法国早就被抛在了身后；一个佐证是：当时几乎所有叫得出名字的知识人都是大学教授——清一色男性，因为女性根本进不了大学——他们用拉丁语而非本国语言撰写厚重的学术大部头（连讲课也用拉丁语）。的确，持久的教派纷争加上错综复杂的内部政治，把构成神圣罗马帝国的德语地区同欧洲其他部分隔离开来；这片土地看上去就像一座思想孤岛，一道抵挡现代哲学革新的堤坝，一个几乎不曾产出什么值得一提的观念的角落——直到康德哲学登场，情况才告改变。
   - id: 16
     kind: body
     source: |-
       While this definition *contains* the classical correspondence theory of truth (in accordance with which truth consists in the correspondence of our thoughts with things), Thomasius contends that the correspondence works in the other direction as well, namely, that truth also requires the correspondence of things with our powers of thought:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，与康德的成功所激发（并且仍在激发）的那些辉格式的哲学史恰恰相反，前康德时期的欧洲德语地区是一片丰饶的思想环境的所在地。这里当然就是莱布尼茨的故乡；他对思想文化繁荣的贡献，既包括他数量不多的出版物，也包括他为建立一个德国学者学会而付出的富有成效的努力，以及他对思想开明的哲学家谋取大学职位的支持，从而加速了德国向启蒙时代的过渡。德国的学院派哲学家深受莱布尼茨思想的浸润，但他们对其的创造性吸取带来了种种革新，例如美学和经验心理学这两门学科的创立。德国也是激烈而公开进行的思想论辩的发生地，例如在新建立的哈勒大学，哲学自由本身一度受到威胁，但最终（即便不是立即）得到了伸张。在学术语境之外，激进哲学思想以地下方式在秘密文本中流传，这些文本把德国与流经欧洲其余地区和不列颠的思想潮流连接起来。此外，在哲学史的这一时期，女性以及其他代表性不足的思想家以不可或缺的方式，为现代观念的构想、传播和精细化，也为启蒙的扩展，作出了贡献。简言之，这是哲学史上一个充满活力的时期，极其值得研究——即便撇开它与这位柯尼斯堡大哲学家之间的关系不谈（无论是作为陪衬还是作为熔炉）。
+    step2: |-
+      然而，同康德的成功所催生（且仍在催生）的那些辉格式哲学史恰恰相反，前康德时期的欧洲德语地区是一片丰沃的思想土壤。这里自然是莱布尼茨的故乡。他对思想文化繁荣的贡献，不只是那数量寥寥的著述，还包括他为创建一个德意志学者学会所作的卓有成效的努力，以及他为思想开明的哲学家谋取大学教职的助力——德国由此加速迈入启蒙时代。德国的学院派哲学家深受莱布尼茨思想浸润，而他们对这一思想的创造性汲取，带来了美学、经验心理学等学科的创立这样一些革新。德国还是激烈而公开上演的思想交锋的舞台：比如在新建的哈勒大学，哲学自由（*libertas philosophandi*）本身一度遭到威胁，但最终（即便不算立竿见影）得到了伸张。学术圈之外，激进哲学思想则以地下方式在秘密出版物中流传，正是这些文本把德国同流经欧洲各地与不列颠的思想潮流连成一体。不仅如此，在哲学史的这一时期，女性以及其他代表性不足的思想家，还以不可或缺的方式参与了现代观念的构想、传播与打磨，也推动了启蒙的扩展。简言之，这是哲学史上一个生机勃勃、极值得研究的时期——哪怕撇开它同这位柯尼斯堡大哲的关联不谈，无论这关联是陪衬还是熔炉。
   - id: 17
     kind: body
     source: |-
       > Here, however, you should not ask whether the understanding must agree with things, or the things with the understanding; rather this harmony is so constituted that neither provides the guiding principle for the other, but this harmony is simultaneously presupposed by both even though external things as it were initiate it. (Thomasius 1691a: ch. 5, §14 [2019: 28])[^thomasius-1691a]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 克里斯蒂安·托马修斯
+    step2: |-
+      ## 1 克里斯蒂安·托马修斯
   - id: 18
     kind: body
     source: |-
       In accordance with this conception of truth, Thomasius conceives of the mind as fundamentally active with its ideas (rather than merely passively reflecting the order of nature) such that things must be in agreement with its nature and capacities in order to be cognized or willed. Thomasius does not himself explore the principles that might govern the mind’s activity nor draw any idealistic consequences from this conception of truth—that, for instance, things insofar as they agree with our intellect might differ considered apart from it—though his successors such as Adolph Friedrich Hoffmann and Christian August Crusius would (on the latter, see §5.2 below).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 生平与著作
+    step2: |-
+      ### 1.1 生平与著作
   - id: 19
     kind: body
     source: |-
       This conception of the human mind as fundamentally active is taken up again in Thomasius’ lone substantial contribution to metaphysics, the *Essay on the Essence of Spirit*, where Thomasius distinguishes spirit (*Geist*) from matter in virtue of its activity. While this would appear to result in a metaphysical dualism, Thomasius complicates things by endorsing a hierarchy of spirits, not just between the human being and God, but also a class of spirits responsible for various effects in bodies (such as heating and cooling). Yet, his further postulation of an “air and light spirit [*ein Lufft- und Licht-Geist*]” which fills the spaces between parts of matter, not to mention his apparent identification of space itself as “pure spirit” (Thomasius 1709: 60, 167–8)[^thomasius-1709] muddles the original, starkly dualistic picture.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      克里斯蒂安·托马修斯（Christian Thomasius）于 1655 年 1 月 1 日生于莱比锡。他是雅各布·托马修斯（Jakob Thomasius，1622–84）之子；老托马修斯是莱比锡大学一位知名的法学家兼哲学家，莱布尼兹也曾列于其门下。克里斯蒂安（此后径称“托马修斯”）于 1669 年进入莱比锡大学哲学系注册就读，并于 1672 年获文科硕士（*Magister artium*）学位。由于父亲的讲授——尤其是关于雨果·格劳秀斯（Hugo Grotius）《战争与和平法》（*De jure belli ac pacis*）的讲课——以及他自己对塞缪尔·普芬道夫（Samuel Pufendorf）《论自然法与万民法》（*De jure naturae et gentium*）的兴趣，托马修斯于 1675 年赴奥得河畔法兰克福攻读法学，并于 1679 年获博士学位。在短暂游历荷兰之后，托马修斯回到莱比锡，一边（并不愉快地）操律师业，一边开设自然法理学的私人讲座。托马修斯亲证，阅读普芬道夫——尤其是《为自我及其著作辩护》（*Apologia pro se et suo libro*，1674）——使他的思想发生了根本的重定向；他把这一阅读归功为使自己确信自然法独立于神学，以及必须质疑权威、抵抗宗教不宽容（Thomasius 1688a, “Diss. Proem.” §§5–10; Hochstrasser 2000: 113–121）[^thomasius-1688a][^hochstrasser-2000]。这种新的反权威心智取向清楚地体现在 1685 年一篇关于重婚的论文中；托马修斯在其中为重婚实践辩护，认为其合于自然法，而这不出意料地导致了他与莱比锡大学神学系一位教授的当面对峙。托马修斯用德语开课的开创性决定（1687 年以德语公告）同样引起了争议；他自 1688 年起出版的一份月刊（第一份用德语出版的期刊）也一样，该刊名为《月度谈话》（*Monatsgespräche*），托马修斯在其中——常常以讽刺的笔调——对当地的思想界评头论足。托马修斯的讲课和出版物日益加剧了他与莱比锡神学系的冲突，后者持守一种相当严格的路德宗正统；虽然他与萨克森宫廷的联素一度使他左右逢源，但他为一起跨信仰婚姻——一位（路德宗的）萨克森伯爵与一位（加尔文宗的）勃兰登堡公主的婚姻——所作的辩护使他失去了庇护，1690 年 3 月，他被禁止在萨克森选侯国出版和开课（无论私人课程还是大学课程）。
+    step2: |-
+      克里斯蒂安·托马修斯（Christian Thomasius）1655 年 1 月 1 日生于莱比锡，是雅各布·托马修斯（Jakob Thomasius，1622–84）之子；老托马修斯是莱比锡大学颇有名望的法学家兼哲学家，莱布尼茨也曾出自他的门下。克里斯蒂安（此后径称“托马修斯”）1669 年注册进入莱比锡大学哲学系，1672 年获文科硕士（*Magister artium*）学位。父亲讲授的课程——尤其是关于雨果·格劳秀斯（Hugo Grotius）《战争与和平法》（*De jure belli ac pacis*）的课——加上他自己对塞缪尔·普芬道夫（Samuel Pufendorf）《论自然法与万民法》（*De jure naturae et gentium*）的兴趣，促使托马修斯 1675 年赴奥得河畔法兰克福改习法学，1679 年获博士学位。在荷兰小游之后，他回到莱比锡，一边（并不愉快地）操律师业，一边开设自然法理学的私人讲座。托马修斯亲口证实，读普芬道夫——特别是《为自我及其著作辩护》（*Apologia pro se et suo libro*，1674）——使他的思想发生了根本转向；正是这次阅读让他确信自然法独立于神学，也让他懂得必须质疑权威、抵抗宗教不宽容（Thomasius 1688a, “Diss. Proem.” §§5–10; Hochstrasser 2000: 113–121）[^thomasius-1688a][^hochstrasser-2000]。这种新的反权威心智取向，清楚地表露在 1685 年一篇论重婚的学位论文里：托马修斯为重婚实践辩护，称其合于自然法——这不出所料地招致他与莱比锡大学神学系一位教授的正面冲突。托马修斯 1687 年宣布（并以德语公告）用德语开课，这一开创性决定同样掀起争议；他自 1688 年起刊行的月刊——也是第一份用德语出版的期刊——同样如此。这份名为《月度谈话》（*Monatsgespräche*）的刊物里，托马修斯频频以讽刺笔调点评当地思想界。他的讲课与著述同莱比锡神学系的冲突愈演愈烈——后者持守相当严格的路德宗正统。他与萨克森宫廷的关系一度让他左右逢源，可他为一起跨信仰婚姻（路德宗的萨克森伯爵迎娶加尔文宗的勃兰登堡公主）辩护，结果失去了这层庇护：1690 年 3 月，他被禁止在萨克森选侯国境内出版和授课（私课与大学课程均在禁止之列）。
   - id: 20
     kind: body
     source: |-
       Thomasius’s moral theory is a theory of the will. He held that in moral matters, the will dominates reason. While human beings have free choice if not externally constrained, the will is not free; rather, it is dominated by human affects—our passions, impulses, and desires. Like Hobbes, Thomasius believed that even though subject to such inner (psychological) constraints, the will still chooses (with the aid of reason); it consciously wills. And a conscious choice is precisely what is required for a (good) action to be considered moral: a good instinct or good inclinations may make us good, may even be desirable, but by itself this is not enough to make us moral as morality requires a conscious act of will. The trouble with morality arises because the will is determined by evil desires, in particular, lust, ambition, and avarice. Although there are noble sentiments as well, which similarly influence the will, they are in conflict with the negative dispositions. The conflict can be brought to a positive conclusion only by appeal to divine grace (God’s salvation), and Thomasius *Application of the Doctrine of Morals* is notable for its positive treatment of mystical experience.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      托马修斯到邻邦勃兰登堡寻求庇护；该邦由加尔文宗选帝侯弗里德里希三世（Friedrich III，后来的国王弗里德里希一世）执掌，素有宽容的传统。部分地由于普芬道夫本人的支持，托马修斯获任宫廷参议，并获准在萨勒河畔哈勒的骑士学院（Ritterakademie）讲课；该院于 1694 年改为弗里德里希大学（Friedrichs-Universität），托马修斯是其创校教员之一（法学门）。虔敬派东方学家、神学家兼教育改革家奥古斯特·赫尔曼·弗兰克（August Hermann Francke）不久也来到托马修斯身边；此人在莱比锡同样得罪了宗教当局。托马修斯本人曾同情虔敬派的反经院哲学与反权威倾向（见下文 §3.2），并曾在莱比锡公开为弗兰克辩护；然而，当托马修斯于 1699 年发表对弗兰克在哈勒那几所著名教育机构所采教学法的批评时，两人公开决裂。托马修斯的讲课与著述继续掀起风波——它们常常越出法学系的职权范围（例如他对女巫审判的批判性讨论——Beck 1969: 253–254）[^beck-1969]，而且他以人身攻击冒犯其神学系同事、有失体统；这一切导致勃兰登堡宫廷于 1702 年对他提出申斥，并下令他恪守各系之间的边界。托马修斯 1713 年的论文《论纳妾》（*De concubinatu*）同样引发了激烈讨论；他在文中主张，鉴于婚姻的目的仅在于生育，纳妾之用并不违反婚约。虽然托马修斯与弗兰克于 1714 年和解，但托马修斯并未在此后沃尔夫与虔敬派的争论中扮演重要角色。他于 1728 年 9 月 23 日卒于哈勒。
+    step2: |-
+      托马修斯避往邻邦勃兰登堡。该邦由加尔文宗选帝侯弗里德里希三世（Friedrich III，即后来的国王弗里德里希一世）执掌，素来奉行宽容。部分得益于普芬道夫本人的举荐，托马修斯获任宫廷参议，并获准在萨勒河畔哈勒的骑士学院（Ritterakademie）授课；这所学院 1694 年升格为弗里德里希大学（Friedrichs-Universität），托马修斯名列创校教员（法学门）。虔敬派东方学家、神学家兼教育改革家奥古斯特·赫尔曼·弗兰克（August Hermann Francke）不久也来投——此人在莱比锡同样触怒了宗教当局。托马修斯原本就同情虔敬派的反经院哲学与反权威倾向（见下文 §3.2），还曾在莱比锡公开为弗兰克辩护；然而 1699 年，托马修斯发文批评弗兰克在哈勒那几所著名教育机构推行的教学法，两人就此公开决裂。此后托马修斯的讲课与著述风波不断：它们频频越出法学系的职权范围（例如他对女巫审判的批判性讨论——Beck 1969: 253–254）[^beck-1969]，他还以人身攻击顶撞神学系同事、有失体统。这一切导致勃兰登堡宫廷 1702 年出面申斥，并勒令他恪守各系之间的边界。1713 年，托马修斯的论文《论纳妾》（*De concubinatu*）又引起热烈争论：他主张，婚姻的目的既只在生育，纳妾便不算违背婚约。托马修斯与弗兰克虽在 1714 年和解，但在此后沃尔夫与虔敬派的争论中他再未扮演要角。1728 年 9 月 23 日，他卒于哈勒。
   - id: 21
     kind: body
     source: |-
       Thomasius’ moral philosophy is accordingly informed by theological considerations in a way not shared by his works in theoretical philosophy. While, in the theoretical context, he did believe in natural reason’s capacity to overcome corruption, in the practical context he held that an evil will is at the root of our corruption, and to ameliorate it we require God’s grace. Moreover, Thomasius’s moral outlook seems to develop from his initial presentation of morality in the *Introduction to the Doctrine of Morals* in 1692, which is an optimistic affirmation of the viability of a moral position he identified as one involving “rational love” (*vernünftige Liebe*) as the only means to a “happy, courteous and cheerful life”, to a more pessimistic position in his *Application* in 1696 where he contends that human self-interest and an evil will constitute significant obstacles to moral improvement (a development likely due to his Pietist conversion during the period; cf. Beck 1969: 251; Ahnert 2006: 27–42)[^beck-1969][^ahnert-2006].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      托马修斯的著作涵盖广泛的主题。除已提及的时论文章与学位论文之外，托马修斯还出版了自然法方面的主要文本，包括 1688 年的《神圣法理学要义》（*Institutiones jurisprudentiae divinae*，*Institutions of Divine Jurisprudence*）与 1705 年的《自然法与万民法之基础》（*Fundamentum iuris naturae et gentium*，*Foundations of the Law of Nature and Nations*）（关于托马修斯对自然法理论的贡献的讨论——此处不予论及——尤其参见 Hochstrasser 2000: ch. 4；Kühnel 2001；以及 Lutterbeck 2002）[^hochstrasser-2000][^kühnel-2001][^lutterbeck-2002]。托马修斯也出版过理论哲学与实践哲学方面的论著，尤其是在他身居哈勒的时期。托马修斯写过若干逻辑学文本，如 1688 年的《宫廷哲学导论》（*Introductio ad philosophiam auliam*，*Introduction to Court Philosophy*），以及 1691 年的《理性学说导论》（*Einleitung zur Vernunfft-Lehre*，*Introduction to the Doctrine of Reason*）与《理性学说运用》（*Ausübung der Vernunfft-Lehre*，*Application of the Doctrine of Reason*）。随后又有对其道德哲学的平行展示，即 1692 年的《道德学说导论》（*Einleitung zur Sitten-Lehre*，*Introduction to the Doctrine of Morals*）与 1696 年的《道德学说运用》（*Ausübung der Sitten-Lehre*，*Application of the Doctrine of Morals*），此外还有 1699 年（第二版 1709 年）对形而上学的一次影响深远的涉猎——《论精神本质试论》（*Versuch vom Wesen des Geistes*，*Essay on the Essence of Spirit*）。
+    step2: |-
+      托马修斯的著作题材广泛。除上面提到的时论与学位论文外，他还出版了几部自然法要籍：1688 年的《神圣法理学要义》（*Institutiones jurisprudentiae divinae*，*Institutions of Divine Jurisprudence*）和 1705 年的《自然法与万民法之基础》（*Fundamentum iuris naturae et gentium*，*Foundations of the Law of Nature and Nations*）（关于托马修斯自然法理论贡献的讨论——此处不拟展开——尤见 Hochstrasser 2000: ch. 4；Kühnel 2001；Lutterbeck 2002）[^hochstrasser-2000][^kühnel-2001][^lutterbeck-2002]。他还出版了理论与实践哲学两方面的论著，哈勒时期尤其多产。逻辑学方面，他写有 1688 年的《宫廷哲学导论》（*Introductio ad philosophiam auliam*，*Introduction to Court Philosophy*），以及同为 1691 年的《理性学说导论》（*Einleitung zur Vernunfft-Lehre*，*Introduction to the Doctrine of Reason*）与《理性学说运用》（*Ausübung der Vernunfft-Lehre*，*Application of the Doctrine of Reason*）。随后是他的道德哲学的平行展开：1692 年的《道德学说导论》（*Einleitung zur Sitten-Lehre*，*Introduction to the Doctrine of Morals*）与 1696 年的《道德学说运用》（*Ausübung der Sitten-Lehre*，*Application of the Doctrine of Morals*）；再就是 1699 年（第二版 1709 年）那部影响深远的形而上学之作——《论精神本质试论》（*Versuch vom Wesen des Geistes*，*Essay on the Essence of Spirit*）。
   - id: 22
     kind: body
     source: |-
       This ambivalence and return to theology aside, Thomasius’s moral position is a distinctive one. The theory of rational love is based on the fundamental equality of human beings as well as on their ability to think and choose independently (of authority). Ultimately, Thomasius’s ethics is a social ethics. The theory is other-directed, and given the absence of laws and principles, constitutes a contrast to the formalist universalist ethics Kant would develop by the end of the next century. At the same time, the lack of any way of making this theory applicable in a context governed not by similar but instead by conflicting interests, makes something like a formalist ethics an inevitability. By the end of the *Introduction to the Doctrine of Morals*, even Thomasius recognizes that “rational love” will function only in relatively harmonious contexts. In other contexts, however, particularly those characterized by unequal power positions, justice may well be required, a distinction in duties which Thomasius influentially characterizes in terms of “internal” and “external” obligation (cf. Barnard 1988; Schneewind 1998: 165–166)[^schneewind-1998][^barnard-1988].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 哲学
+    step2: |-
+      ### 1.2 哲学
   - id: 23
     kind: body
     source: |-
       ## 2. Radical Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      托马修斯断然不是一位体系哲学家；毋宁说——与他成熟时期对一切形态的教条主义的反感颇为一致——最好把他刻画为一位一丝不苟的折中主义者（M. Albrecht 1994: 398–416; Bottin & Longo 2015: 301–315; Rumore 2026）[^albrecht-1994][^bottin-2015][^rumore-2026]。尽管如此，托马修斯的思想仍由一个统摄性的信念统一起来，即实践生活的优先性，以及如下信念：无论何种知识领域的博学，都应当以改进我们的意志和理智、以供日常生活之用为旨归。这一点在他于《理性学说导论》开篇对“学识”（“*Gelahrheit*”）所下定义中表现得十分清楚：
+    step2: |-
+      托马修斯断然算不上体系哲学家；与他成熟时期对一切形态教条主义的反感相一致，最恰当的定位是把他说成一位一丝不苟的折中主义者（M. Albrecht 1994: 398–416; Bottin & Longo 2015: 301–315; Rumore 2026）[^albrecht-1994][^bottin-2015][^rumore-2026]。尽管如此，他的思想仍被一个统摄性的信念贯穿始终：实践生活高于一切；无论哪个知识领域的学识，都应当为改进我们的意志与理智、服务于日常生活而求。这一点在他《理性学说导论》（*Einleitung zur Vernunfft-Lehre*）开篇所下的“学识”（“*Gelahrheit*”）定义里表现得再清楚不过：
   - id: 24
     kind: body
     source: |-
       Through the efforts of Thomasius, and later Christian Wolff, the Friedrichs-Universität in Halle became the intellectual centre of the early Enlightenment in Germany. And despite, for instance, Thomasius’ conflict with Orthodox Lutheranism in Leipzig, and Wolff’s controversy with his Pietist colleagues (§3.3, below), neither were explicitly hostile towards religious belief, the Church, or to (appropriately exercised) religious authority (though see Favaretti Camposampiero 2024 on nuances in Wolff’s case)[^favaretti-2024]. Nor for that matter did either seek to challenge the existing political order. Beyond the German academy, however, a more radical philosophical tradition flourished, one that drew on the thought of, among others, Hobbes, Gassendi, and Spinoza, and proliferated through the transmission of clandestine literature within networks that spanned across Europe. While there was considerable diversity among the views held by the thinkers within this radical philosophical tradition, they tended to be highly critical of organized religion (if not necessarily professed atheists) and of the established political order, rejected the authority of the Bible as a source of revealed truth, and defended a (not always sophisticated) materialistic conception of the soul (cf. Stiehler 1966; Israel 2001: 628–636; Mulsow 2002 [2015]; Dyck 2016a; Rumore 2016)[^dyck-2016a][^israel-2001][^mulsow-2002][^rumore-2016][^stiehler-1966]. It bears noting that while this tradition flourished outside of a narrow academic context, there was nonetheless considerable exchange and mutual influence between figures in both the mainstream and radical traditions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 学识是这样一种知识：凭借它，人得以恰当地分辨真与假、善与恶……从而能够在日常生活和事务中增进自己当下而持久的福祉，也增进他人的福祉。（Thomasius 1691a: ch. 1, §1 [2019: 18]）[^thomasius-1691a]
+    step2: |-
+      > 学识是这样一种知识：凭借它，人得以恰当地分辨真与假、善与恶……从而能在日常生活与事务之中，增进自己当下而持久的福祉，也增进他人的福祉。（Thomasius 1691a: ch. 1, §1 [2019: 18]）[^thomasius-1691a]
   - id: 25
     kind: body
     source: |-
       Among the most important German thinkers within this radical philosophical tradition, and quite representative of its intellectual diversity, are Friedrich Wilhelm Stosch (1648–1704) and Theodor Ludwig Lau (1670–1740). Stosch was the son of a Reformed minister and court chaplain in Brandenburg and worked as a court secretary until ill-health forced him to resign in 1686. Stosch subsequently pursued philosophical interests and in 1692 published his sole known text, the *Concordia rationis et fidei* (*Concord of Reason and Faith*). In spite of its title, the *Concord* seeks to subordinate the claims of faith to the canons of reason, in accordance with a broadly Socinian outlook, and Stosch denies that there is any basis in reason for conviction in the natural immortality of the soul (for which he also provides a materialist account), and rejects the reasonableness of eternal damnation. Stosch’s *Concord* was published anonymously (with Amsterdam listed as the place of publication) with only 100 copies printed, but when these were discovered for sale, they were seized and burned. Stosch was forced to identify himself as the author, was arrested, and subsequently investigated by a committee consisting of, among others, Pufendorf, concluding with Stosch’s public retraction of the book in 1694.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      值得注意的是，与后来的启蒙思想家不同，托马修斯还明确主张：既然学识的达成完全可以靠心灵的自然之光（而非超自然之光）的运用来实现（cf. Thomasius 1691a: ch. 1, §16）[^thomasius-1691a]，那么无论性别或阶层，人人皆可获得学识（对此的更多讨论见下文 §6.1）。
+    step2: |-
+      值得注意的是，与后来的启蒙思想家不同，托马修斯明确主张：学识的达成全然可以凭借心灵的自然之光（而非超自然之光）来实现（cf. Thomasius 1691a: ch. 1, §16）[^thomasius-1691a]；因此无论性别贵贱，人人皆可得而求之（相关讨论见下文 §6.1）。
   - id: 26
     kind: body
     source: |-
       Lau had studied law in his home town of Königsberg before moving to Halle in 1694 where he attended lectures by Thomasius. In 1695, he embarked on a trip through Europe and England (where he apparently met Newton), taking up a position as councillor with the young Duke of Courland on his return. The early death of his patron saw Lau turn to intellectual pursuits, and in 1717 he published a number of treatises on various subjects, including the anonymous *Meditationes philosophicae de Deo, mundo et homine* (*Philosophical Meditations concerning God, the World, and the Human Being*). The text covers a wide range of philosophical (and medical and political) topics, and is distinctive in its eclectic borrowings from Spinoza, Locke, Plotinus, and Giordano Bruno, among others. Its general philosophical outlook might most accurately be characterized as pantheistic, both in the Spinozistic sense inasmuch as Lau defends the world’s pre-existence in God and denies its creation *ex nihilo* (although the extent of Lau’s Spinozism is disputed; cf. Schröder 1987: 128–132)[^schröder-1987], but also and especially in the sense of the Irish freethinker John Toland’s pantheism inasmuch as Lau attempts to outline the foundations of a universal religion. Due to its strident denunciation of the clergy and a genealogical critique of the current political order, the *Meditations* was instantly controversial, and Lau’s publisher was eventually pressured into revealing Lau’s authorship. This led to Lau’s imprisonment, during which he attempted suicide, and his subsequent expulsion from Frankfurt am Main; Lau’s appeal to his mentor, Thomasius, for a review of the proceedings was also met with a painful denunciation. Lau attempted to return to his study of the law, but his unorthodox opinions and previous brush with infamy made this impossible (in spite of a formal recantation of his earlier views). He died, in poor mental health, in Altona in 1740.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有鉴于此，在托马修斯那里，逻辑学的目的在于操练心灵诸能力——尤其是理性官能——使我们能够辨别心灵的自然之光在其所应用的任何领域中显示为真或假的东西。这不仅包括就真理如何被认识和达到提供正面的指引，还包括以否定的方式识别并驱散遮蔽自然之光的种种偏见。因此，托马修斯的逻辑学首先不是要提供一种证明理论（如经院逻辑那样），也不是要提供一种专供科学发现的工具论（如笛卡尔式逻辑，或后来的沃尔夫逻辑那样）。不过，这一独特的目的并不妨碍他介入传统逻辑与认识论意义上的种种问题；例如，他主张思维所处理的是最终来自外部感官的意象（由此拒绝天赋观念——Thomasius 1691a: ch. 3, §22）[^thomasius-1691a]，并且他勾画了一种证明理论，其焦点在于通过真理与无可置疑的第一原理的关联来保持对真理的信念。
+    step2: |-
+      有鉴于此，托马修斯认为逻辑学的目的在于操练心灵的诸种能力——尤其是理性官能——使我们能够辨别：在自然之光应用于任何领域时所显露的真与假。它不仅要从正面指明真理如何被认识、如何达成，还要从反面识别并驱散那些遮蔽自然之光的偏见。因此，托马修斯的逻辑学首要目标，既不是提供一套证明理论（那是经院逻辑的路数），也不是打造一台专供科学发现的工具论（那是笛卡尔式逻辑的路数，后来沃尔夫的逻辑也是如此）。不过，这一独特的定位并不妨碍他介入传统逻辑和认识论上的种种问题：比如，他主张思维处理的是最终源自外部感官的意象（由此拒斥天赋观念——Thomasius 1691a: ch. 3, §22）[^thomasius-1691a]；他还勾画了一种证明理论，着力点在于借真理与无可置疑的第一原理的关联，保全我们对真理的信念。
   - id: 27
     kind: body
     source: |-
       ## 3. The Controversy between Wolff and the Pietists
-    step1: TBD
-    step2: TBD
+    step1: |-
+      托马修斯的《理性学说运用》通过勾画避免错误的手段，推进了《导论》所开启的事业。避免错误涉及根除偏见；偏见是理性败坏的诸原因之一，可归为两大类，即权威之偏见与轻率之偏见。而这又借助于他所称的教条式怀疑来实现；笛卡尔式怀疑把一切都视为假的，以便找到一个第一性的无可置疑的原理，而在托马修斯看来这是一项无意义的事业。教条式怀疑是对特殊的事物、信念和意见的怀疑；他认为这种怀疑是健康的，有助于防止错误。
+    step2: |-
+      托马修斯的《理性学说运用》（*Ausübung der Vernunfft-Lehre*）通过给出避免错误的手段，把《导论》开启的事业向前推进。避免错误，在于根除偏见；偏见是理性败坏的种种原因之一，可归为两大类：权威之见与轻率之见。而根除之道，就在于他所说的教条式怀疑。笛卡尔式怀疑把一切都暂时视之为假，以便寻得某个第一性的、无可置疑的原理——在托马修斯看来，这种做法纯属徒劳。教条式怀疑则是针对具体事物、具体信念和具体意见的怀疑；他认为这种怀疑是健康的，有助于防止错误。
   - id: 28
     kind: body
     source: |-
       Thomasius would continue to exercise an important influence on German philosophy throughout the first half of the eighteenth century. However, it was his colleague in the philosophy faculty at the Friedrichs-Universität, Christian Wolff, who would contribute the most to the modernization of the German intellectual landscape and the spread of the Enlightenment. Wolff achieved this primarily through his distinctive philosophical system, the so-called “Leibnizian-Wolffian” philosophy, which incorporated the latest philosophical ideas and methods, including but not limited to those of Leibniz himself. The relevance and accessibility of Wolff’s system, expanded and refined by his many students, quickly saw it gain a foothold in academies across Germany. Wolff was not without his detractors, of course, and none were more vocal, nor more successful (at least initially) in their efforts to limit his influence, than his Pietist colleagues in the faculty of theology. The famous controversy between Wolff and the Pietists, which at its climax saw Wolff exiled from Prussia on pain of hanging in 1723, put the full menu of modern ideas—including materialism, idealism, atheism, and Spinozism—before the literate public and drew the attention of the rest of Europe to the German intellectual scene.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      无论如何，托马修斯逻辑学的核心——或许也是其最有影响的部分——是他的真理理论。按照托马修斯的定义，真理在于
+    step2: |-
+      无论如何，托马修斯逻辑学的核心——多半也是其中影响最大的部分——是他的真理理论。按他的定义，真理在于
   - id: 29
     kind: body
     source: |-
       ### 3.1 The “Leibnizian-Wolffian” Philosophy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > *无非是人的思想与你的思想之外的事物构造之间的一种符合。*（Thomasius 1691a: ch. 5, §13 [2019: 28]；原文即为斜体）[^thomasius-1691a]
+    step2: |-
+      > *无非是人的思想同你的思想之外的事物构造之间的一种符合。*（Thomasius 1691a: ch. 5, §13 [2019: 28]；原文即为斜体）[^thomasius-1691a]
   - id: 30
     kind: body
     source: |-
       Christian Wolff was born in Breslau (today, Wrocław) on 24 January 1679. By all accounts a gifted student, he developed an interest in theology and mathematics during his time in Gymnasium, and studied theology and mathematics at the University of Jena and then in Leipzig, gaining his *Magister* at Leizpig in 1702. His subsequent *Habilitationsschrift* on introducing mathematical method to practical philosophy drew Leibniz’s attention to him. They began a correspondence that continued until Leibniz’s death in 1716, and which covered topics from mathematics to metaphysics. Partially through Leibniz’s support, Wolff was appointed to a vacant chair in mathematics at the Friedrichs-Universität in Halle, delivering his inaugural lecture in 1707.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然这一定义*包含*经典的真理符合论（按照符合论，真理在于我们的思想与事物的符合），但托马修斯主张，这种符合也朝另一个方向起作用，即真理也要求事物与我们的思想能力相符合：
+    step2: |-
+      这一定义固然*包含*经典的真理符合论（按符合论的说法，真理在于我们的思想与事物相符合），但托马修斯主张，符合还朝另一个方向起作用：真理也要求事物与我们的思想能力相符合：
   - id: 31
     kind: body
     source: |-
       Understandably, given the nature of his position, most of Wolff’s initial publications were devoted to mathematics and natural science, including an introduction to mathematics in 1710 and an influential mathematical dictionary in 1716. Around 1710, however, he began to lecture on more narrowly philosophical topics, publishing his *Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem richtigen Gebrauche in Erkäntnis der Wahrheit* (*Rational Thoughts on the Powers of the Human Understanding and its Propert Use in the Cognition of Truth*) [the “*German Logic”, hereafter GL*] in 1713. Thus began Wolff’s famous series of German-language textbooks on philosophical topics, which would grow to include the *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (*Rational Thoughts on God, the World and the Soul of Man, and on All Things in General*) [the “*German Metaphysics*”, hereafter GM] in 1719 (albeit with a publication date of 1720), and the *Vernünfftige Gedancken von der Menschen Thun und Lassen, zu Beförderung ihrer Glückseligkeit* (*Rational Thoughts on Human Actions for the Promotion of their Happiness*) [the “*German Ethics*”, hereafter GE] in 1720, followed by the “*German Politics*” in 1721, the “*German Physics*” in 1723, and the “*German Teleology*” in 1724.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 然而，在这里你不应当问：究竟是知性必须与事物相符合，还是事物必须与知性相符合；毋宁说，这种和谐是这样构成的：谁也不为对方提供指导原则，但这种和谐同时被双方所预设，尽管外部事物仿佛是它的发动者。（Thomasius 1691a: ch. 5, §14 [2019: 28]）[^thomasius-1691a]
+    step2: |-
+      > 不过在这里，你不该问：究竟是知性必须迁就事物，还是事物必须迁就知性；毋宁说，这种和谐的结构使双方谁也不是对方的指导原则，而和谐本身同时被双方预设——尽管表面上看，是外部事物率先发动了它。（Thomasius 1691a: ch. 5, §14 [2019: 28]）[^thomasius-1691a]
   - id: 32
     kind: body
     source: |-
       This series of texts constitutes the first presentation of the so-called “Leibnizian-Wolffian” philosophy that would come to dominate the philosophical landscape in Germany. There is, of course, no question that Wolff’s philosophical system is thoroughly informed by Leibniz’s: Wolff himself admits that the reading of Leibniz’s 1684 essay “Meditations on Cognition, Truth, and Ideas”, and Leibniz’s classification of ideas in particular, had sparked a “great light” that informed his *German Logic* (cf. GL “Vorrede”); moreover, Wolff himself reports that he incorporated a number of Leibnizian concepts into his presentation of ontology, cosmology, and rational psychology in the *German Metaphysics* (cf. Wuttke 1841: 141–142)[^wuttke-1841]. Even so, Wolff points out that when he started writing his series of philosophical textbooks there were few of Leibniz’s texts available through which one might get a sense of the wider Leibnizian philosophy (Wuttke 1841: 140–141; cf. also Wilson 1994)[^wilson-1994][^wuttke-1841]; thus he takes issue with the designation of his system as “Leibnizian-Wolffian”—a coinage he credits to one of his students, Georg Bernhard Bilfinger (Wuttke 1841: 142; on the source and appropriateness of this designation, see Dyck 2025: 121–124 and Favaretti Camposampiero 2026)[^dyck-2025][^favaretti-2026][^wuttke-1841]. The extent of Leibniz’s influence on Wolff is widely debated (cf. Corr 1975; École 1979)[^corr-1975][^école-1979], but it is in any case clear that Leibniz is not the sole, nor in every case the most important, influence on the development of Wolff’s ideas, as figures such as Ehrenfried Walther von Tschirnhaus (1651–1708), John Locke, and late Scholastic thinkers also exerted an important influence on his metaphysics, epistemology, and theory of science (Neveu 2018; Leduc 2018; Dyck 2021a)[^dyck-2021a][^leduc-2018][^neveu-2018].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按照这种真理观，托马修斯把心灵构想为就其观念而言根本上是能动的（而不只是被动地反映自然的秩序），以至于事物必须与心灵的本性和能力相符合，才能被认识或被意愿。托马修斯本人既没有探究可能支配心灵活动的那些原理，也没有从这种真理观中引出任何观念论的结论——例如，事物就其与我们理智相符合而言，若离开理智来考虑或许会有所不同——尽管他的后继者如阿道夫·弗里德里希·霍夫曼（Adolph Friedrich Hoffmann）和克里斯蒂安·奥古斯特·克鲁修斯（Christian August Crusius）会这样做（关于后者，见下文 §5.2）。
+    step2: |-
+      顺着这种真理观，托马修斯把心灵构想为就其观念而言根本能动的（而不只是被动映现自然秩序），事物必须合于心灵的本性与能力，才能被认识、被意愿。托马修斯本人既未去探究支配心灵活动的那些原理，也未从这种真理观引出任何观念论结论——比如：事物之所以合于我们的理智，若抽开理智单独看，或许会是另一副样子——尽管他的后继者，如阿道夫·弗里德里希·霍夫曼（Adolph Friedrich Hoffmann）和克里斯蒂安·奥古斯特·克鲁修斯（Christian August Crusius），后来就这样做了（关于后者，见下文 §5.2）。
   - id: 33
     kind: body
     source: |-
       Turning to a brief overview of Wolff’s philosophical works, the *German Logic* is intended, quite in contrast to Thomasius’, as a handbook for the acquisition, justification, and orderly presentation of scientific cognition. So, in addition to the now expected treatment of concepts, propositions, and syllogisms, Wolff’s text contains discussion of drawing universal propositions from individual experiences, of experiments, and of science and its distinction from faith and opinion. Moreover, the *German Logic* contains Wolff’s mature presentation of his mathematical method, through which we proceed from definitions and axioms to the formulation of theorems and postulates, and ultimately to demonstrations, and it outlines how the method can be employed for the purpose of scientific discovery (for discussion, see Frketich 2019; Gava 2019)[^frketich-2019][^gava-2019][^gava-2019-2]. Significantly, it is this method that gains widespread application throughout Wolff’s philosophical enterprise, including in his metaphysics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这种人类心灵根本能动的构想，在托马修斯对形而上学的唯一实质性贡献——《论精神本质试论》——中再次出现；托马修斯在那里凭借活动性把精神（*Geist*）与物质区分开来。虽然这似乎会导致一种形而上学二元论，但托马修斯又通过认可一种精神的等级序列而使事情复杂化：不仅在人与上帝之间存在等级，还有一类精神负责物体中的各种效果（如加热与冷却）。然而，他进一步设定一种充满物质各部分之间空间的“空气与光之精神［*ein Lufft- und Licht-Geist*］”，更不必说他把空间本身明显地等同于“纯粹精神”（Thomasius 1709: 60, 167–8）[^thomasius-1709]，这使得原本截然二元论的图景变得含混。
+    step2: |-
+      人类心灵根本能动的这一构想，在托马修斯对形而上学的唯一一项实质贡献——《论精神本质试论》——中再度登场：托马修斯在那里凭活动性把精神（*Geist*）同物质区分开来。这看起来会导向一种形而上学二元论，可托马修斯又认可了一个精神等级序列，把事情弄复杂了：等级不只在人与上帝之间，还有一类精神专司物体中的种种效果（比如加热与冷却）。而更进一步，他又设定了一种“空气与光之精神［*ein Lufft- und Licht-Geist*］”，充塞于物质各部分之间的空间；更不必提他还把空间本身明显地等同于“纯粹精神”（Thomasius 1709: 60, 167–8）[^thomasius-1709]。凡此种种，把原先那幅截然二元的图景搅得含混不清。
   - id: 34
     kind: body
     source: |-
       The *German Metaphysics* was Wolff’s next major philosophical text, and in it he formally introduces the division of metaphysical topics into ontology, cosmology, empirical and rational psychology and natural theology, a division that Kant, among others, would subsequently take up. The initial chapter attempts to make evident, in a Cartesian vein, both an indubitable truth (“we are certain that we exist”) and to establish a canon for what will count as a *certain* cognition for the remainder of the enterprise. In the second chapter Wolff sets out the two (Leibnizian) principles governing his philosophical thought: the principle of contradiction (“something cannot both be and not be at the same time” GM §10) and the principle of sufficient reason. Significantly, Wolff suggests that while the first is self-evident, the second admits of proof, for which Wolff offers two arguments in an apparent departure from Leibniz (Dyck 2025 187–194)[^dyck-2025]. The first proceeds as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      托马修斯的道德理论是一种意志理论。他主张，在道德事务中，意志支配理性。人类若不受外在约束便拥有自由选择，但意志并不自由；毋宁说，意志被人的激情所支配——我们的激情、冲动和欲望。与霍布斯一样，托马修斯相信，尽管受制于这类内在的（心理的）约束，意志仍然在选择（借助理性的帮助）；它有意识地意愿着。而一个有意识的选择，恰恰是一个（好的）行动被视为道德行动所要求的：善良的本能或好的倾向可以使我们成为好人，甚至可能值得欲求，但这本身不足以使我们成为道德的人，因为道德要求一个有意识的意志行为。道德的麻烦在于，意志被邪恶的欲望所决定，尤其是贪欲、野心和贪婪。虽然也有高尚的情感同样影响着意志，但它们与那些消极的倾向处于冲突之中。这一冲突只有靠诉诸神恩（上帝的拯救）才能获得正面的了结；托马修斯的《道德学说运用》以对神秘经验的正面处理而著称。
+    step2: |-
+      托马修斯的道德理论是一种意志理论。他主张，在道德事务中，意志支配理性。人若不受外在约束，本有自由选择；但意志本身并不自由——它受人的种种激情支配：我们的激情、冲动与欲望。与霍布斯一样，托马修斯相信，纵然受制于这类内在的（心理的）约束，意志仍然在选择（理性从旁襄助）；它是在有意识地意愿。而一个有意识的选择，恰恰是（好的）行动称得上道德行动的先决条件：善良的本能或好的倾向可以让我们成为好人，甚至值得欲求，但单靠这个还不足以使我们成为道德的人——道德要求一个有意识的意志行为。道德的麻烦在于：意志被邪恶的欲望所决定，尤其是贪欲、野心与贪婪。固然也有高尚的情感同样左右着意志，但它们同那些消极倾向彼此冲突。这场冲突只有诉诸神恩（上帝的拯救）才能得到正面的了结；托马修斯的《道德学说运用》正以对神秘经验的正面处理而著称。
   - id: 35
     kind: body
     source: |-
       > Were it the case that something could be, or take place, in a thing without a reason why it should occur being met with either in that thing itself or something else, then it would come to be from nothing. Since, however, it is impossible that something could come to be from nothing, *everything that is must have a sufficient reason why it is*. (GM §30 [2019: 101])
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，托马修斯的道德哲学受到神学考量的影响，这是他的理论哲学著作所没有的。在理论语境中，他确实相信自然理性有克服败坏的能力；但在实践语境中，他主张邪恶的意志是我们败坏的根源，要改善它就需要上帝的恩典。此外，托马修斯的道德图景似乎经历了一个发展：从 1692 年《道德学说导论》中他最初的道德陈述——那里乐观地肯定一种他名之为“合理的爱”（*vernünftige Liebe*）的道德立场的可行，视之为通往“幸福、有礼而愉快的生活”的唯一途径——发展到 1696 年《运用》中更为悲观的立场，在那里他主张人的自利与邪恶的意志构成道德改良的重大障碍（这一发展可能归因于他在此期间的虔敬派皈依；cf. Beck 1969: 251; Ahnert 2006: 27–42）[^beck-1969][^ahnert-2006]。
+    step2: |-
+      也因此，托马修斯的道德哲学带有神学考量，这是他的理论哲学著作所没有的。在理论语境中，他确实相信自然理性有能力克服败坏；可在实践语境中，他主张邪恶的意志才是我们败坏的根源，要加以改善，非得依靠上帝的恩典。不仅如此，托马修斯的道德图景似乎还经历了一个转变：从 1692 年《道德学说导论》中最初的主张——乐观地肯定一种他称为“合理的爱”（*vernünftige Liebe*）的道德立场行得通，视之为通往“幸福、有礼而愉快的生活”的唯一途径——转到 1696 年《运用》中的悲观立场：人的自利与邪恶的意志，构成道德改良的重大障碍（这一转变多半归因于他在此期间的虔敬派皈依；cf. Beck 1969: 251; Ahnert 2006: 27–42）[^beck-1969][^ahnert-2006]。
   - id: 36
     kind: body
     source: |-
       In the remainder of the ontology, Wolff provides accounts of concepts that will be key for his subsequent treatment of specific metaphysical topics, including essence and attribute, space and time, simple and composite, substance, power, and cause.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      撇开这种摇摆和对神学的回归不谈，托马修斯的道德立场是独具一格的。合理的爱理论既以人的根本平等为基础，也以人独立于权威进行思考和选择的能力为基础。归根到底，托马修斯的伦理学是一种社会伦理学。这一理论以他人为取向；鉴于它不设法则与原理，它构成对康德在下个世纪末将要发展的形式主义普遍主义伦理学的一种对照。与此同时，由于没有任何办法使这一理论适用于一个不由相似利益、而由相互冲突的利益所支配的语境，某种类似形式主义伦理学的东西便成为必然。到《道德学说导论》的结尾，连托马修斯本人也承认，“合理的爱”只在相对和谐的语境中才起作用。而在其他语境中，尤其是在权力地位不平等的语境中，很可能需要正义；托马修斯以影响深远的方式用“内在”义务与“外在”义务的区分刻画了义务的这一区别（cf. Barnard 1988; Schneewind 1998: 165–166）[^schneewind-1998][^barnard-1988]。
+    step2: |-
+      撇开这种摇摆与向神学的回归不谈，托马修斯的道德立场自成一格。合理爱的理论，一面立基于人的根本平等，一面立基于人独立于权威去思考和选择的能力。归根到底，托马修斯的伦理学是一种社会伦理学：理论以他人为取向，又不设法则与原理，恰与康德在下个世纪末将发展的那套形式主义的普遍主义伦理学形成对照。与此同时，这个理论拿不出办法，把自己运用于一个不由相似利益、反由利益冲突所支配的语境；于是，某种类似形式主义伦理学的东西便成为必然。《道德学说导论》写到末尾，连托马修斯本人也承认，“合理的爱”只在相对和谐的语境里才起作用。而在别的语境——尤其是权力地位不平等的语境——中，很可能就需要正义了。托马修斯以影响深远的方式，用“内在”义务与“外在”义务的区分刻画了义务的这层区别（cf. Barnard 1988; Schneewind 1998: 165–166）[^schneewind-1998][^barnard-1988]。
   - id: 37
     kind: body
     source: |-
       The chapters on empirical and rational psychology outline an account of the soul in general and of the human soul in particular. In his empirical treatment, Wolff considers what can be known of the soul by means of our ordinary inner experience. He contends that we can distinguish thoughts in terms of obscurity, clarity, and distinctness, but we can also distinguish the soul’s representations in terms of their content. Accordingly, they can be classified into sensations, imaginings, and thoughts proper, which can in turn be traced back to various faculties of the soul, including sensibility, imagination, and the understanding, in virtue of which it is capable of these distinct thoughts. We also discern that the soul is subject to pleasure and displeasure in its (distinct or indistinct) cognition of good and evil, which give rise to desires and willing (based on indistinct and distinct cognition respectively), and when that willing is in accordance with what pleases the soul the most then, for Wolff, its acts are free (GM §519).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 激进哲学
+    step2: |-
+      ## 2 激进哲学
   - id: 38
     kind: body
     source: |-
       On the basis of these empirical cognitions of the soul, rational psychology seeks to draw inferences regarding the soul’s essence and nature. Wolff argues that the soul must be immaterial given that it is impossible that a body should think (GM §738), and as a result that the soul is a simple substance endowed with a power of which its thoughts are effects, which power is identified as a power of representation (GM §§742–7). This secures the soul’s natural immortality, or incorruptibility, but Wolff argues for the soul’s personal immortality, or its preservation of its state of conscious representation and memory in the afterlife (GM §§925–6). It is in the context of rational psychology that Wolff also offers a defence of the Leibnizian doctrine of pre-established harmony (§765), which he think accounts for the empirically-observed agreement between the states of the soul and the body better than the competing systems of physical influence and occasional causation.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      经过托马修斯以及后来的克里斯蒂安·沃尔夫（Christian Wolff）的努力，哈勒的弗里德里希大学成为德国早期启蒙的思想中心。而且，尽管有例如托马修斯与莱比锡正统路德宗的冲突、沃尔夫与其虔敬派同事的论战（见下文 §3.3），两人都没有对宗教信仰、教会或（得到恰当行使的）宗教权威公然表示敌意（不过沃尔夫情形中的细微之处参见 Favaretti Camposampiero 2024）[^favaretti-2024]。就此而言，两人也都没有试图挑战现存的政治秩序。然而，在德国学院之外，一种更为激进的哲学传统蓬勃发展；它取资于霍布斯、伽桑狄和斯宾诺莎等人的思想，并经由横跨欧洲的网络中秘密文献的传递而扩散开来。虽然这一激进哲学传统中思想家的观点彼此差异颇大，但他们往往对有组织的宗教（即便未必是公开的无神论者）和既定政治秩序持高度批判态度，拒绝《圣经》作为启示真理来源的权威，并捍卫一种（未必总是精致的）关于灵魂的唯物主义构想（cf. Stiehler 1966; Israel 2001: 628–636; Mulsow 2002 [2015]; Dyck 2016a; Rumore 2016）[^dyck-2016a][^israel-2001][^mulsow-2002][^rumore-2016][^stiehler-1966]。值得注意的是，虽然这一传统是在狭窄的学术语境之外繁荣起来的，主流传统与激进传统的人物之间仍存在相当多的交流与相互影响。
+    step2: |-
+      经过托马修斯、后来又有克里斯蒂安·沃尔夫（Christian Wolff）的努力，哈勒的弗里德里希大学成了德国早期启蒙的思想中心。诚然，托马修斯同莱比锡的正统路德宗有过冲突，沃尔夫也同他的虔敬派同事发生过论战（见下文 §3.3），但两人都没有公然敌视宗教信仰、教会，或（得到恰当行使的）宗教权威（沃尔夫情形中的细微之处，参见 Favaretti Camposampiero 2024）[^favaretti-2024]。同样，两人也没有谁想去挑战现存的政治秩序。然而在德国学院之外，还有一种更为激进的哲学传统在蓬勃发展：它取资于霍布斯、伽桑狄、斯宾诺莎等人的思想，并借由横跨欧洲的网络传播秘密文献而四处扩散。这个激进哲学传统内部，各家观点歧异颇大，但其思想者往往对有组织的宗教（未必是公开的无神论者，但至少态度严厉）和既定政治秩序持高度批判态度，拒绝《圣经》作为启示真理来源的权威，并捍卫一种（未必总是精致的）灵魂唯物主义构想（cf. Stiehler 1966; Israel 2001: 628–636; Mulsow 2002 [2015]; Dyck 2016a; Rumore 2016）[^dyck-2016a][^israel-2001][^mulsow-2002][^rumore-2016][^stiehler-1966]。值得注意的是：这一传统虽然繁荣于狭窄的学术语境之外，主流与激进两派人物之间仍往来频繁、相互影响不小。
   - id: 39
     kind: body
     source: |-
       The final pair of topics concern the world (cosmology) and God (natural theology). Regarding the former, Wolff identifies the world as the “series of changeable things that are next to one another and follow one upon the other” (GM §544 [2019: 120]). As such, the world is a composite consisting of ultimately simple substances, though Wolff declines to identify them as Leibnizian monads as he hesitates to ascribe representational states to the constituents (“elements”) of matter (GM §§598–9). Things and events in the world are nonetheless connected to one another in accordance with the principle of sufficient reason, and Wolff concludes that all events are certain as a result (GM §561). Concerning God, Wolff argues that He must exist inasmuch as our own evident existence requires a necessary being to serve as its sufficient reason, which necessary being must also be independent, eternal, and simple (GM §§928–936); it cannot, therefore, be the world (a composite) nor our own soul (a being dependant on the world), and so can only be God (GM §945). In addition to these attributes, God must have an understanding, through which He distinctly represents all that is possible, and a free will inasmuch as He chooses that world which pleases Him most to make actual (GM §980).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这一激进哲学传统中最重要的德国思想家里，弗里德里希·威廉·施托施（Friedrich Wilhelm Stosch，1648–1704）与特奥多尔·路德维希·劳（Theodor Ludwig Lau，1670–1740）颇具代表性，很能体现其思想上的多样性。施托施是勃兰登堡一位归正宗牧师兼宫廷牧师之子，担任宫廷秘书，直到 1686 年因健康不佳被迫辞职。此后施托施追逐哲学兴趣，并于 1692 年出版了他已知仅存的文本《理性与信仰之协和》（*Concordia rationis et fidei*，*Concord of Reason and Faith*）。尽管书名如此，《协和》却试图按照一种广义的索齐尼主义立场使信仰的主张服从理性的准则；施托施否认理性中有任何根据可以使人相信灵魂自然不朽（对此他还提供了一种唯物主义的说明），并拒绝永恒诅咒的合理性的观点。施托施的《协和》匿名出版（出版地标注为阿姆斯特丹），仅印 100 册；但这些书一旦被发现出售，即遭查缴焚毁。施托施被迫承认自己是作者，遭到逮捕，随后由一个包括普芬道夫在内的委员会审查，最终以施托施 1694 年公开撤回该书告终。
+    step2: |-
+      在这一激进哲学传统最重要的德国思想家里，弗里德里希·威廉·施托施（Friedrich Wilhelm Stosch，1648–1704）和特奥多尔·路德维希·劳（Theodor Ludwig Lau，1670–1740）最具分量，也最能代表其思想上的多样性。施托施出身勃兰登堡一个归正宗牧师兼宫廷牧师之家，本人做过宫廷秘书，1686 年因病辞职。此后他转向哲学，1692 年出版了他已知仅存的著作《理性与信仰之协和》（*Concordia rationis et fidei*，*Concord of Reason and Faith*）。书名虽叫“协和”，《协和》一书却按一种广义的索齐尼主义立场，力图让信仰的主张服从理性的准则；施托施否认理性中有任何根据能支持灵魂自然不朽的信念（对此他还给出了一种唯物主义说明），并认为永恒诅咒之说经不起理性推敲。《协和》匿名印行（出版地署阿姆斯特丹），只印了 100 册；书一经发现出售，立即遭到查缴焚毁。施托施被迫承认作者身份，遭到逮捕，随后由一个委员会审查——普芬道夫即在其中——事情最终以他 1694 年公开撤回该书告终。
   - id: 40
     kind: body
     source: |-
       Rounding out Wolff’s major philosophical works of this period, the *German Ethics* is composed of four parts, a theoretical part that treats the foundation of practical philosophy and three practical parts that present a doctrine of duties that human beings have towards themselves, God, and others. The central notion in Wolff’s ethics is the (metaphysical) notion of perfection which concerns the “agreement” of elements in a given manifold (cf. GM §152), and which is cognized through our intellectual powers (and the history and importance of this notion for Wolff, see Goldenbaum 2024)[^goldenbaum-2024]. It is the cognition of the (apparent) perfection in an action that moves us to act, a fact that accounts for Wolff’s emphasis on the duty to cultivate our understanding among our duties to ourselves so that we can be moved to act in (what are in fact) the most perfect ways (Walschots 2024)[^walschots-2024]. Promoting the perfection of ourselves and others serves for Wolff as the universal rule in accordance with which we ought to choose between two (or more) possible actions (GE §12). That is to say, when making a free choice we ought to consider whether the action “promotes the perfection of our inner and outer state” (GE §2) and that means considering whether the state of the soul and the body accords with the prior state or contradicts it. The outcome has greater perfection to the extent that it contributes to the continued “natural human state and its harmonious preservation over time”(GE §2). The natural human state Wolff envisions is the state of the soul in its manifold efforts to find truth, and everything has to be done to maximize that state. It so happens, that this is where happiness lies as well (Lanzini Stobbe 2024)[^lanzini-2024], and as Wolff indicates at the end of the ethics, it is incumbent upon human beings to ensure not only their own perfection/happiness, but to “contribute as much as possible to the happiness of others” (GE §767).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      劳早先在家乡柯尼斯堡学习法律，1694 年迁居哈勒，在那里听托马修斯的课。1695 年，他启程游历欧洲与英格兰（显然在那里见到了牛顿），回国后出任年轻的库尔兰公爵的参议。庇护人的早逝使劳转向思想追求；1717 年，他出版了若干论各种主题的论著，其中包括匿名的《关于上帝、世界与人的哲学沉思》（*Meditationes philosophicae de Deo, mundo et homine*，*Philosophical Meditations concerning God, the World, and the Human Being*）。该文本涵盖广泛的哲学（以及医学和政治）主题，其特色在于对斯宾诺莎、洛克、普罗提诺和乔尔丹诺·布鲁诺等人的折中借鉴。其总体哲学立场或许最准确地刻画为泛神论：既在斯宾诺莎主义的意义上——劳为世界在上帝中的前存在辩护并否认其从无中受造（尽管劳的斯宾诺莎主义程度尚有争议；cf. Schröder 1987: 128–132）[^schröder-1987]——但也尤其在这个意义上：爱尔兰自由思想者约翰·托兰德的泛神论，即劳试图勾画一种普遍宗教的基础。由于该书对教士的激烈谴责以及对现存政治秩序的谱系学批判，《沉思》立即引起争议；劳的出版人最终被迫供出劳是作者。这导致劳入狱（其间他曾企图自杀）以及随后被美因河畔法兰克福驱逐；劳向其师托马修斯申诉请求复审，却遭到痛苦的谴责。劳试图重操法学旧业，但他离经叛道的观点和先前的污点使这成为不可能（尽管他正式撤回了先前的观点）。1740 年，他在精神状态恶劣中卒于阿尔托纳。
+    step2: |-
+      劳早先在家乡柯尼斯堡读法律，1694 年迁居哈勒，听托马修斯讲课。1695 年他启程游历欧陆与英格兰（显然在那里见过牛顿），回国后出任年轻的库尔兰公爵的参议。庇护人早逝，劳便转向思想事业：1717 年，他出版了多篇论各色主题的著作，其中包括匿名的《关于上帝、世界与人的哲学沉思》（*Meditationes philosophicae de Deo, mundo et homine*，*Philosophical Meditations concerning God, the World, and the Human Being*）。这部书覆盖面极广——哲学（兼及医学与政治）皆有所论；其鲜明特色，是对斯宾诺莎、洛克、普罗提诺、乔尔丹诺·布鲁诺等人的兼收并蓄。它的总体哲学立场，说得最准确就是泛神论：一方面是在斯宾诺莎的意义上——劳主张世界先在并内在于上帝，否认世界从无中受造（劳的斯宾诺莎主义到底有多深，尚有争议；cf. Schröder 1987: 128–132）[^schröder-1987]；另一方面——也是更突出的——是在爱尔兰自由思想者约翰·托兰德那种泛神论的意义上：劳试图为一门普世宗教勾画基础。《沉思》对教士严词抨击，又对现存政治秩序作谱系学批判，一经问世便争议四起；出版人顶不住压力，最终供出劳是作者。劳因此下狱（狱中一度企图自杀），继而遭美因河畔法兰克福驱逐。他向老师托马修斯申诉，请求复审此案，得到的却是一场令人难堪的痛斥。劳想回头继续研习法律，但他那些离经叛道的观点加上先前的污名，使这条路走不通（尽管他已正式撤回旧说）。1740 年，他在精神状况恶劣中卒于阿尔托纳。
   - id: 41
     kind: body
     source: |-
       ### 3.2 The Halle Pietists
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 沃尔夫与虔敬派之争
+    step2: |-
+      ## 3 沃尔夫与虔敬派之争
   - id: 42
     kind: body
     source: |-
       Next to Thomasius and Wolff, the most important intellectual figure in the early history of the Friedrichs-Universität in Halle was August Hermann Francke (1663–1723). As we have seen, Francke had courted controversy in Leipzig through his involvement in the Pietist movement. Pietism was a spiritual movement within the Lutheran tradition that rejected the scholastic and theological turn that Lutheranism had taken and proposed a further, internal reformation to supplement the already-effected external one, and aimed at cultivating a “living faith” rather than mere lip-service to Christian ideals. The Pietists sought the personal and interior experience of a relationship to Christ, an individual transformation that was the result of an act of divine grace modelled on Francke’s own conversion experience (cf. Wallmann 1990: 63–4)[^wallmann-1990]. To this end, the Pietists focused on the study of the Bible itself and devotional literature in small groups—the so-called conventicles or *collegia pietatis*—which were notable, and controversial, for welcoming women, if only as silent observers (R. Albrecht 2004; Gierl 2015)[^albrecht-2004][^gierl-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在整个十八世纪上半叶，托马修斯将继续对德国哲学施加重要影响。然而，对他所在弗里德里希大学哲学系的同事克里斯蒂安·沃尔夫来说，才是对德国思想版图的现代化和启蒙的传播贡献最多的人。沃尔夫主要借其独具特色的哲学体系——所谓“莱布尼茨—沃尔夫学派”哲学——达成这一点；该体系吸纳了最新的哲学观念与方法，包括但不限于莱布尼茨本人的观念与方法。沃尔夫体系的切题性与可及性，加上其众多门徒的扩充与精炼，使它迅速在德国各学院立足。当然，沃尔夫并非没有批评者；而在限制其影响的事业中，没有谁比神学系的虔敬派同事更高声，也没有谁（至少起初）更成功。沃尔夫与虔敬派之间那场著名的争论——其高潮是 1723 年沃尔夫被逐出普鲁士，违者处以绞刑——把现代观念的全份菜单——包括唯物主义、观念论、无神论和斯宾诺莎主义——摆到了识字公众面前，并使欧洲其他地区注意到德国的思想界。
+    step2: |-
+      整个 18 世纪上半叶，托马修斯仍将持续影响德国哲学。然而，真正对德国思想版图的现代化和启蒙的传播贡献最多的，是他在弗里德里希大学哲学系的同事克里斯蒂安·沃尔夫（Christian Wolff）。沃尔夫主要靠他那套独具特色的哲学体系——所谓“莱布尼茨—沃尔夫学派”哲学——做到这一点；这一体系吸纳了最新的哲学观念与方法，包括但不限于莱布尼茨本人的那些。沃尔夫的体系切合问题、平易可入，又经众多门生扩充打磨，很快便在德国各大学院站稳脚跟。沃尔夫当然不缺批评者；而在限制他影响这件事上，谁也没有神学系那帮虔敬派同事嗓门大，也没有谁（至少在一开始）比他们更成功。沃尔夫与虔敬派的这场著名论战，在高潮处演成 1723 年沃尔夫被逐出普鲁士、违者处以绞刑的结局；它把现代观念的全套菜单——唯物主义、观念论、无神论、斯宾诺莎主义，一应俱全——摆到了识字公众面前，也让欧洲其他地方把目光投向了德国思想界。
   - id: 43
     kind: body
     source: |-
