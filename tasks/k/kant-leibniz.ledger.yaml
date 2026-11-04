@@ -1,390 +1,510 @@
 version: 1
 slug: kant-leibniz
-params:
-  model: "GLM-5.3-Flash（ZCode 主会话直译）"
-  temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
 segments:
   - id: 1
     kind: body
     source: |-
       Kant’s interest in the physics, metaphysics, epistemology, and theology of his predecessor G.W. Leibniz is evident in his writings in the philosophy of natural science as well as in the passages of the *Critique of Pure Reason* dealing with transcendental ideas and his essays on history and progress. The conventional view that Kant sought to steer a middle course between the rationalism of 18ᵗʰ century German school philosophy initiated by Leibniz’s follower Christian Wolff and the empiricism of David Hume furnishes a useful point of departure for understanding Kant’s intellectual context and his aims and intentions. However, Kant’s aim in propounding his critical philosophy was not merely to transcend the stalemate of dogmatism vs. skepticism in general epistemology, but to address what he regarded as a crisis: the inability of metaphysics, as taught in the Universities, to secure the meta-ethical objectivity of morality and the threat to human confidence and moral discipline posed by the atheism, materialism, and fatalism of contemporary forms of naturalism. Kant took Leibniz’s as a failed dogmatic enterprise in metaphysics and philosophical theology, but as one that was partially redeemed by its parallel treatment of nature and value. He addressed the Leibnizian topics of the nature of substance, the human soul and its powers, space, time, and forces, mechanism and teleology, and divine creation in passages scattered throughout his major and minor writings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对其前辈 G.W. 莱布尼茨的物理学、形而上学、认识论与神学的兴趣，在他的自然哲学著作、《纯粹理性批判》中处理先验理念的段落以及他关于历史与进步的文章中都清晰可见。一种流行的看法是：康德试图在莱布尼茨的追随者克里斯蒂安·沃尔夫开创的十八世纪德国学院哲学的理性主义与大卫·休谟的经验主义之间走一条中间道路；这一看法为理解康德的智识语境及其目标与意图提供了有益的出发点。然而，康德提出其批判哲学的目的，不仅是超越一般认识论中独断论与怀疑论的僵局，更是要处理他所认为的一场危机：大学里所传授的形而上学无力保障道德的元伦理客观性，以及当代自然主义诸形态的无神论、唯物论与宿命论对人类信心与道德纪律构成的威胁。康德把莱布尼茨的方案视为形而上学与哲学神学中一项失败的独断事业，但认为它因对自然与价值平行处理而得到部分救赎。莱布尼茨的诸主题——实体的本性、人类灵魂及其能力、空间、时间与力、机械论与目的论、神的创造——康德在其大小著作中散布的段落里一一处理。
+    step2: |-
+      康德对其前辈 G.W. 莱布尼茨的物理学、形而上学、认识论与神学的兴趣，在他的自然科学哲学著作、《纯粹理性批判》处理先验理念的段落以及论历史与进步的文章中处处可见。流行的看法是：康德试图在莱布尼茨追随者克里斯蒂安·沃尔夫开创的十八世纪德国学院哲学之理性主义，与大卫·休谟的经验主义之间走中间道路；这为理解康德的智识语境、目标与意图提供了有益起点。然而康德提出批判哲学的目的，不只是超越一般认识论中独断论与怀疑论的僵局，更是要处理他所认为的一场危机：大学里传授的形而上学无力保障道德的元伦理客观性，而当代自然主义诸形态的无神论、唯物论与宿命论，正威胁着人类的信心与道德纪律。康德把莱布尼茨的方案看作形而上学与哲学神学中一项失败的独断事业——但认为它因对自然与价值的平行处理而得到部分救赎。莱布尼茨的诸主题——实体的本性、人类灵魂及其能力、空间、时间与力、机械论与目的论、神的创造——康德在其大小著作中散布的段落里一一处理。
   - id: 2
     kind: body
     source: |-
       The main features of Kant’s reception of Leibniz are surveyed below under separate headings.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德接受莱布尼兹的主要特征，下文分节概述。
+    step2: |-
+      康德接受莱布尼兹的主要特征，下文分节概述。
   - id: 3
     kind: body
     source: |-
       ## 1. Introduction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 1 导言
+    step2: |-
+      ## 1 导言
   - id: 4
     kind: body
     source: |-
       Leibniz and his follower Christian Wolff were two of Kant’s most cited references. At one time or another, Kant addressed all of Leibniz’s main doctrines, including his defense of living forces against the Cartesians, his attack on absolute space and time against the Newtonians, his immaterial atomism or monadology, his theodicy, and his various principles and laws — the identity of indiscernibles, continuity, non-contradiction and sufficient reason. The challenging tone towards the followers of Leibniz that the young Kant, as an aspiring physicist and cosmologist, and later as a strong advocate of free will, adopted gave way in time to a more respectful engagement with the philosopher himself, as Kant became an increasingly determined critic of materialism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨及其追随者克里斯蒂安·沃尔夫，是康德引用最多的两家。康德曾以这种那种方式论及莱布尼茨的全部主要学说：包括他反对笛卡尔主义者而为活力（living forces）所作的辩护，他反对牛顿主义者而对绝对空间与时间的攻击，他的非物质原子论或单子论，他的神义论，以及他的种种原则与定律——不可分辨者的同一、连续性、矛盾律与充足理由律。青年康德——作为一个有抱负的物理学家与宇宙论者、后来又作为自由意志的坚定捍卫者——对莱布尼茨追随者们所持的挑战性语调，随时间让位于对这位哲学家本人更尊重的交锋：康德日益成为唯物论坚定的批评者。
+    step2: |-
+      莱布尼茨及其追随者克里斯蒂安·沃尔夫，是康德引用最多的两家。康德曾以这样那样的方式论及莱布尼茨的全部主要学说：他为对抗笛卡尔主义者而辩护活力（living forces），对抗牛顿主义者而攻击绝对空间与时间，提出非物质原子论或单子论，阐述神义论，以及种种原则与定律——不可分辨者的同一、连续性、矛盾律与充足理由律。青年康德——作为有抱负的物理学家与宇宙论者、后来又是自由意志的坚定捍卫者——对莱布尼茨追随者们的挑战性语调，随时间让位于对这位哲学家本人更尊重的交锋：康德日益成为唯物论坚定的批评者。
   - id: 5
     kind: body
     source: |-
       Yet Kant’s attitude towards his famous predecessor, whose ideas were extensively discussed in French, and later in Prussian intellectual circles after Leibniz’s death in 1716, never reaches equilibrium. This is unsurprising, for Kant’s own texts show an attraction to teleological theories of the whole, as well as to epistemological caution. Kant describes Leibniz as one of the greatest and most successful reformers of the modern era (9:32), along with John Locke, and as a genius, along with Isaac Newton (7.226). Yet he also refers repeatedly to the errors of the Leibnizians, whom he considers “dogmatic” philosophers. Their conviction that human reason could acquire knowledge of supersensible entities, including the soul and God, necessitated, in Kant’s view, a “critique.” Locke had attempted to construct a critical philosophy against the Cartesians but had failed to carry his programme through. At the same time, the attacks of Locke and Hume on metaphysics had “opened the door to *Schwaermerei*”. So determined were Kant’s contemporaries to find affirmations of immortality and divine justice, that, he believed, many had turned to the occult. “So much there was deceptive, that it is necessary to suspend the whole enterprise and to bring instead the method of the critical philosophy into play. This consists of examining the process of reason itself, of dividing and testing the human knowledge capacity in order to determine how far out its boundaries may be placed” (9.32).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，康德对这位著名前辈的态度——莱布尼茨 1716 年去世后，其思想在法国乃至后来的普鲁士知识圈中被广泛讨论——从未达到平衡。这并不奇怪，因为康德自己的文本既表现出对整体目的论理论的吸引，也表现出认识论上的审慎。康德把莱布尼茨描述为现代最伟大、最成功的改革者之一（9:32），与约翰·洛克并列；并把他与伊萨克·牛顿一起称为天才（7.226）。然而他又反复提到莱布尼茨主义者的错误，他认为这些人是“独断的”哲学家。他们相信人类理性能够获得关于超感性实体——包括灵魂与上帝——的知识，这在康德看来 necessitates 一次“批判”。洛克曾试图构造一种批判哲学来对抗笛卡尔主义者，却未能把纲领贯彻到底。与此同时，洛克与休谟对形而上学的攻击“为狂热打开了大门”（*Schwaermerei*）。康德的同时代人是如此急于找到不朽与神圣正义的肯定，以至于——他相信——许多人转向了神秘学。“欺骗的东西如此之多，以至于必须暂停整个事业，而把批判哲学的方法拿出来。它在于检视理性本身的进程，划分并检验人类的知识能力，以确定其边界可以放到多远”（9.32）。
+    step2: |-
+      然而，康德对这位著名前辈的态度——莱布尼茨 1716 年去世后，其思想在法国乃至后来的普鲁士知识圈中被广泛讨论——从未达到平衡。这并不奇怪：康德自己的文本既表现出对整体目的论理论的吸引，也表现出认识论上的审慎。康德把莱布尼茨描述为现代最伟大、最成功的改革者之一（9:32），与约翰·洛克并列；又把他与伊萨克·牛顿并称为天才（7.226）。但他也反复提到莱布尼茨主义者的错误——在他看来这些人是“独断的”哲学家。他们相信人类理性能够获得关于超感性实体（包括灵魂与上帝）的知识；康德认为这 necessitates（要求）一场“批判”。洛克曾试图构造一种批判哲学对抗笛卡尔主义者，却未能把纲领贯彻到底；与此同时，洛克与休谟对形而上学的攻击“为狂热打开了大门”（*Schwaermerei*）。康德的同时代人如此急于找到不朽与神圣正义的肯定，以至于——他相信——许多人转向了神秘学。“欺骗的东西如此之多，以至于必须暂停整个事业，而把批判哲学的方法拿出来。它在于检视理性本身的进程，划分并检验人类的知识能力，以确定其边界可以放到多远”（9.32）。
   - id: 6
     kind: body
     source: |-
       The suspension of the whole enterprise announced by Kant should not obscure the fact that Leibniz and Kant shared an ethico-religious conception of philosophy. Leibniz wrote in an era in which the universities were still dominated by Christian philosophy. Whatever his private leanings towards mystical and philosophical religion, he believed that a strong and unified religious authority was essential to the maintenance of moral and political order, and the content of morality did not strike him as problematic. Kant, though steeped in Protestant theology and moral philosophy, favoured the newer trend towards the academic autonomy of philosophy and secular morality and governance. Yet he had to contend with the rising influence of materialism and deterministic psychology in Germany (10:145); the sentiment- and convention-based accounts of morality and moral motivation of the British school, the attacks on metaphysics and conventional morals of Helvétius, La Mettrie (19:109), and Voltaire (15:336) and the attacks of Hume on religion and the concept of the soul. How could morality be reconciled with Newtonian science and how could the existence of ineluctable duties be established in the face of the variety of human practices and customs established by Montesquieu and the numerous travel writers on whose accounts Kant relied in compiling his lectures on Anthropology? Metaphysics could not provide knowledge of the supersensible, including the existence of God, the possibility of the realization of a highest good in the natural world, or the ability of human beings to realize that good through their endowments. Human aspirations in this regard were transcendent, futile, and “entirely vacuous” (20: 301).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德所宣告的对整个事业的暂停，不应掩盖如下事实：莱布尼茨与康德共享一种伦理-宗教的哲学构想。莱布尼茨写作的时代，大学仍由基督教哲学主导。无论他对神秘主义与哲学性宗教的私下倾向如何，他相信强大而统一的宗教权威对维护道德与政治秩序必不可少，而道德的内容在他看来不成问题。康德虽浸润于新教神学与道德哲学，却赞成哲学学术自治、世俗道德与治理的较新趋势。然而他不得不对付德国日益增长的唯物论与决定论心理学的影响（10:145）；英国学派以情感与习俗为道德和道德动机奠基的做法；爱尔维修、拉美特利（19:109）与伏尔泰（15:336）对形而上学与传统道德的攻击；以及休谟对宗教与灵魂概念的攻击。道德如何能与牛顿科学调和？面对孟德斯鸠以及康德在编写人类学讲义时所依赖的众多旅行作家所记载的人类实践与习俗的多样性，无可逃避的义务的存在又如何确立？形而上学无法提供关于超感性者的知识——包括上帝的存在、至善在自然世界中实现的可能、以及人类凭其禀赋实现该善的能力。人在这一方面的抱负是超验的、徒劳的、“完全空洞的”（20: 301）。
+    step2: |-
+      康德所宣告的对整个事业的暂停，不应掩盖如下事实：莱布尼茨与康德共享一种伦理-宗教的哲学构想。莱布尼茨写作的时代，大学仍由基督教哲学主导。无论他对神秘主义与哲学性宗教的私下倾向如何，他相信强大而统一的宗教权威对维护道德与政治秩序必不可少；而道德的内容在他看来不成问题。康德虽浸润于新教神学与道德哲学，却赞成较新的趋势：哲学的学术自治、世俗的道德与治理。但他不得不对付德国日益增长的唯物论与决定论心理学的影响（10:145）；英国学派以情感与习俗为道德和道德动机奠基的做法；爱尔维修、拉美特利（19:109）与伏尔泰（15:336）对形而上学与传统道德的攻击；以及休谟对宗教与灵魂概念的攻击。道德如何与牛顿科学调和？面对孟德斯鸠及康德编写人类学讲义时所依赖的众多旅行作家记载的人类实践与习俗的多样性，无可逃避的义务如何确立？形而上学无法提供关于超感性者的知识——包括上帝的存在、至善在自然世界中实现的可能、人类凭其禀赋实现该善的能力。人在这一方面的抱负是超验的、徒劳的、“完全空洞的”（20: 301）。
   - id: 7
     kind: body
     source: |-
       For Leibniz, the Kingdom of Nature and the Kingdom of Grace were parallel orders. Everything in nature happened, as Hobbes and Spinoza maintained, on account of ‘mechanical’ principles. At the same time, Leibniz insisted in his *Principles of Nature and Grace based on Reason* (1714):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对莱布尼茨而言，自然王国与恩典王国是平行的秩序。自然界中的一切都像霍布斯与斯宾诺莎所主张的那样，因“机械的”原则而发生。与此同时，莱布尼茨在《基于理性的自然与神恩原则》（1714）中坚持：
+    step2: |-
+      对莱布尼茨而言，自然王国与恩典王国是平行的秩序。自然界中的一切都如霍布斯与斯宾诺莎所主张，因“机械的”原则而发生。与此同时，莱布尼茨在《基于理性的自然与神恩原则》（1714）中坚持：
   - id: 8
     kind: body
     source: |-
       > [A]ll minds, whether of men or [spirits], entering into a kind of society with God, by virtue of reason and eternal truths, are members of a City of God, that is members of the perfect state, formed and governed by the greatest and best of monarchs. Here there is no crime without punishment, no good action without proportionate reward, and finally as much virtue and happiness as is possible. (Ariew and Garber, 212)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ［一切］心灵，无论人的还是［精灵的］，凭借理性与永恒真理而与上帝结成某种共同体，都是上帝之城的成员，即那个由最伟大、最善良的君主所塑造和统治的完美国家的成员。在这里，没有无罪的惩罚，没有无相应回报的善行，最后，德性与幸福之多如可能的那样。（Ariew and Garber, 212）
+    step2: |-
+      > ［一切］心灵，无论人的还是［精灵的］，凭借理性与永恒真理与上帝结成某种共同体，都是上帝之城的成员——即那个由最伟大、最善良的君主塑造并统治的完美国家的成员。在这里，没有无罪的惩罚，没有无相应回报的善行；最后，德性与幸福之多，恰如可能的那样。（Ariew and Garber, 212）
   - id: 9
     kind: body
     source: |-
       Referencing Leibniz, Kant adapted this dualistic scheme into his own scheme of transcendental ideas. In nature, everything happened accord to laws, though the course of the world might depend on a somewhat richer ontology, including lawfully-acting generative forces for the formation of plants and animals, than Leibniz had allowed for, forces that human beings might never really understand. At the same time, rational beings, though not other souls or minds, formed a moral community (see Guyer).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      参照莱布尼茨，康德把这一二元图式改造成他自己的先验理念图式。在自然中，一切依照法则发生，尽管世界的进程可能依赖一种比莱布尼茨所允许的稍丰富的本体论——包括为动植物的形成而合法地起作用的生成力；这些力人类也许永远无法真正理解。与此同时，理性存在者——尽管不包括其他灵魂或心灵——构成了一个道德共同体（见 Guyer）。
+    step2: |-
+      参照莱布尼茨，康德把这一二元图式改造为自己的先验理念图式。在自然中，一切依照法则发生——尽管世界的进程可能依赖一种比莱布尼茨所允许的稍丰富的本体论：包括为动植物形成而合法起作用的生成力；这些力人类也许永远无法真正理解。与此同时，理性存在者（尽管不包括其他灵魂或心灵）构成了一个道德共同体（见 Guyer）。
   - id: 10
     kind: body
     source: |-
       > To view ourselves, therefore, as in the world of grace, where all happiness awaits us, except insofar as we ourselves limit our share in it through being unworthy of happiness, is, from the practical standpoint, a necessary idea of reason. (KRV A812/B840)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因此，把我们自己看作在恩典世界中——那里一切幸福都在等待我们，除非我们自己因不配幸福而限制我们应得的份额——从实践的立场看，是理性的一个必要理念。（KRV A812/B840）
+    step2: |-
+      > 因此，把我们自己看作在恩典世界中——那里一切幸福都在等着我们，除非我们自己因不配幸福而限制应得的份额——从实践的立场看，是理性的一个必要理念。（KRV A812/B840）
   - id: 11
     kind: body
     source: |-
       In this community, reward for having lived a morally worthy life in the form of everlasting happiness was intrinsically deserved, but this could only be hoped for and kept in view, not proved (KRV A810–18/B841–46).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在这个共同体中，过一种道德上值得的生活而得的回报——以永恒幸福的形式——是内在地应得的，但这只能被希望和保持在视野中，而不能被证明（KRV A810–18/B841–46）。
+    step2: |-
+      在这个共同体中，过一种道德上值得的生活所应得的回报——以永恒幸福为形式——是内在地应得的；但这只能被希望、被保持在视野之中，而不能被证明（KRV A810–18/B841–46）。
   - id: 12
     kind: body
     source: |-
       Kant denied that the present world contained as much goodness and happiness as possible. Rather, it was definitely progressing towards greater cultural development, and perhaps moral development. Hope and effort, especially in the latter struggle where they were most needed, was itself morally mandated (8:8–32). So the ‘idea of a moral world’ had ‘objective reality’ as a ‘corpus mysticum of the rational beings in it’ even if it was only the sensible world viewed in a different but obligatory way.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德否认当下的世界包含了尽可能多的善与幸福。毋宁说，它确定无疑地朝更大的文化发展、或许还有道德发展前进。希望与努力——尤其在后者这一最需要它们的斗争中——本身就是道德上被命令的（8:8–32）。于是“道德世界的理念”具有“客观实在性”，作为“其中理性存在者的神秘体”（*corpus mysticum*），即便它只是以另一种却是有约束力的方式被看待的感性世界。
+    step2: |-
+      康德否认当下的世界已包含尽可能多的善与幸福。毋宁说，它确定无疑地朝更大的文化发展、或许还有道德发展前进。希望与努力——尤其在最需要它们的道德斗争中——本身就是道德上被命令的（8:8–32）。于是“道德世界的理念”具有“客观实在性”，作为“其中理性存在者的神秘体”（*corpus mysticum*）——即便它只是以另一种却有约束力的方式被看待的感性世界。
   - id: 13
     kind: body
     source: |-
       The dogmatic metaphysicians preceding him, Kant argued, imagined that they could demonstrate the truth of their doctrines in rigorous mathematical fashion, but metaphysical concepts lacked the precision and intelligibility of mathematical concepts. At the same time, they put their trust in intellectual intuition, which was no more certain than the visionary and mystical writings of Emmanuel Swedenborg, who had set down his hallucinations and angelic dictations in twelve volumes of the *Arcana Coelestia* (1749–56), which Kant read in 1765 and satirized in his *Dreams of a Spirit Seer* in 1766. Leibniz’s monadology exemplified both errors, for Leibniz thought that, merely by rationally considering the problem of the divisibility of matter, he could demonstrate that the basic constituents of the universe were not material particles obeying the laws of mechanics, but living or at least minded beings with perception and appetite, acting for the good of the universe. At the same time, the details of his picture of the world behind the appearances, incorporating slumbering monads, confused omniscience, and the pre-established harmony, seemed to Kant gratuitous fancies.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德论证说，在他之前的独断形而上学家们想象自己能以严格的数学方式证明其学说的真理，但形而上学概念缺乏数学概念的精确性与可理解性。与此同时，他们信任理智直观，而理智直观并不比埃曼努尔·斯韦登博格那些幻视与神秘主义著作更可靠——后者把他的幻觉与天使口述写进了十二卷的《天国的奥秘》（1749–56），康德 1765 年读过此书，并于 1766 年在《一位视灵者的梦》中加以讽刺。莱布尼茨的单子论兼有两种错误，因为莱布尼茨认为：仅仅通过理性地思考物质的可分性问题，他就能证明宇宙的基本构成者不是服从力学定律的物质粒子，而是有知觉与欲望、为宇宙之善而行动的活物或至少有心智的存在者。与此同时，他在显现背后的世界图景——纳入沉睡的单子、混乱的全知与前定和谐——的细节，在康德看来是多余的奇想。
+    step2: |-
+      康德论证：在他之前的独断形而上学家想象自己能以严格的数学方式证明其学说的真理；但形而上学概念缺乏数学概念的精确性与可理解性。与此同时，他们信任理智直观——而理智直观并不比埃曼努尔·斯韦登博格的幻视与神秘著作更可靠：后者把他的幻觉与天使口述写进了十二卷《天国的奥秘》（1749–56）；康德 1765 年读过此书，1766 年在《一位视灵者的梦》中加以讽刺。莱布尼茨的单子论兼有两种错误：他以为仅仅理性地思考物质的可分性问题，就能证明宇宙的基本构成者不是服从力学定律的物质粒子，而是有知觉与欲望、为宇宙之善而行动的活物或至少有心智的存在者。与此同时，他那个显现背后的世界图景——沉睡的单子、混乱的全知、前定和谐——其细节在康德看来是多余的奇想。
   - id: 14
     kind: body
     source: |-
       Where Leibniz rescued ethics and religion by claiming to discover a hidden reality of immortal, spontaneous souls forming a Kingdom of Grace beneath the material and causally-determined appearances, Kant believed he could accomplish the task of reconciling the scientific view of the world with moral aspiration and accountability by investigating the necessary preconditions of our experience. Necessary forms of thought such as space, time, causality and objecthood would thereby be distinguished from constraints embedded in reality. Though materialism is commonly associated with French Enlightenment figures, Kant considered it an English vice as well. He associated it not however with Hobbes and Locke but with Joseph Priestley (KRV B 773; 4:258), and he was most certainly aware of its German development through Ernst Platner and others (see Rumore). Determinism and materialism seemed to him to support a lax moral philosophy, in which pleasure was conceived as the summum bonum, morality was conventional, and humans were anyway machines devoid of responsibility for their actions. In those not given to dissipation, skepticism and empiricism led, Kant thought, to a sense of moral futility, misanthropy and despair. Kant was determined to attack fashionable, pessimistic, and libertine philosophies, but he had to show that he rejected rationalist demonstration as thoroughly as any empiricist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨通过宣称在物质与因果决定的显现之下发现了一个不朽的、自发的灵魂的隐秘实在——它们构成恩典王国——来拯救伦理与宗教；康德则相信，他可以通过考察我们经验的必要先决条件，来完成调和科学世界观与道德抱负及责任归属的任务。思想的形式——空间、时间、因果性与对象性——由此将与嵌入实在之中的约束区分开来。虽然唯物论通常与法国启蒙人物相联，康德认为它也是英国人的恶习。但他把它不是与霍布斯和洛克相联，而是与约瑟夫·普里斯特利相联（KRV B 773; 4:258）；他也肯定了解其经由恩斯特·普拉特纳等人的德国发展（见 Rumore）。决定论与唯物论在他看来支持一种松弛的道德哲学：快乐被构想为至善，道德是习俗性的，而人反正是不对其行为负责的机器。在那些不沉溺于放荡的人身上，怀疑论与经验主义导致的，康德认为，是道德上的徒劳感、厌世与绝望。康德决意攻击时髦的、悲观的、放荡不羁的哲学，但他必须表明：他对理性主义论证的拒斥，与任何经验主义者一样彻底。
+    step2: |-
+      莱布尼茨通过宣称在物质与因果决定的显现之下发现了不朽的、自发的灵魂之隐秘实在——它们构成恩典王国——来拯救伦理与宗教；康德则相信，通过考察我们经验的必要先决条件，他可以完成调和科学世界观与道德抱负及责任归属的任务：思想的形式——空间、时间、因果性与对象性——由此将与嵌入实在之中的约束区分开来。唯物论虽常与法国启蒙人物相联，康德认为它也是英国人的恶习。但他不是把它与霍布斯和洛克相联，而是与约瑟夫·普里斯特利相联（KRV B 773; 4:258）；他也肯定了解其经由恩斯特·普拉特纳等人的德国发展（见 Rumore）。决定论与唯物论在他看来支持一种松弛的道德哲学：快乐被当作至善，道德是习俗性的，人反正是不对其行为负责的机器。在不沉溺于放荡的人身上，怀疑论与经验主义导致的——康德认为——是道德上的徒劳感、厌世与绝望。康德决意攻击时髦的、悲观的、放荡不羁的哲学；但他必须表明：他对理性主义论证的拒斥，与任何经验主义者一样彻底。
   - id: 15
     kind: body
     source: |-
       His manner of doing so was exceedingly elegant. Kant did not merely challenge the logic of, or poke fun at the extravagances of Leibniz’s metaphysics, though he is not above a joke regarding the monads — potential human lives — he might be swallowing with his morning coffee (2:327). In the antinomies section of the *Critique of Pure Reason*, he shows that, for every “proof” of an important metaphysical proposition, such as determinism, atomism, or the eternity of the universe, a proof of the contrary proposition, such as the existence of exceptions to mechanical causality, infinite divisibility, or the temporal finitude of the world can be supplied. By attempting to prove too much, human rationality accomplished too little. Traditional metaphysics left reason perturbed, confused, and unfulfilled.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他这样做的方式极为优雅。康德不只是挑战莱布尼茨形而上学的逻辑，或对其铺张之处加以调侃——虽然他并不吝于就单子开个玩笑：那是他喝晨间咖啡时可能一并吞下的人的潜在生命（2:327）。在《纯粹理性批判》的二律背反部分，他表明：对每一个重要形而上学命题——如决定论、原子论或宇宙的永恒——的“证明”，都可以给出相反命题的证明，如机械因果性存在例外、无限可分性、或世界在时间上有限。通过试图证明得太多，人类理性达成的太少。传统形而上学让理性陷于困扰、混乱与不得满足。
+    step2: |-
+      他这样做的方式极为优雅。康德不只是挑战莱布尼茨形而上学的逻辑，或对其铺张之处调侃几句——虽然他并不吝于就单子开个玩笑：那是他喝晨间咖啡时可能一并吞下的潜在人类生命（2:327）。在《纯粹理性批判》的二律背反部分，他表明：对每一个重要形而上学命题——决定论、原子论或宇宙的永恒——的“证明”，都能给出相反命题的证明：机械因果性存在例外、无限可分性、世界在时间上有限。试图证明得太多，人类理性达成的便太少。传统形而上学让理性陷于困扰、混乱与不得满足。
   - id: 16
     kind: body
     source: |-
       As many of Leibniz’s writings were not published until the 19ᵗʰ or 20ᵗʰ century, an accurate assessment of the relation between the Leibniz and Kant can take into account only those works in circulation in the second half of the 18ᵗʰ century and available to Kant, his teachers and his interlocutors. These comprised the *Meditations on Knowledge, Truth and Ideas*, the *New System of the Nature and Communication of Substances*, the *Specimen Dynamicum*, the *Theodicy*, the *Monadology* and the *Principles of Nature and Grace*, the *Leibniz-Clarke Correspondence*, and the posthumous *New Essays*, which Kant read four years after their publication, in 1769. A collection of diverse pieces, edited by Pierre Desmaizeaux was published in 1720; followed by the more comprehensive *Oeuvres philosophiques* edited by Raspé in 1765 , and the *Opera Omnia* issued by Dutens in 1768. Christian Wolff, who may have had privileged access to some of Leibniz’s unpublished writings, wrote a series of textbooks under the title *Vernunftige Gedancken* beginning in 1719, reformulating Leibniz’s scattered thoughts on atomism, determinism, pre-established harmony, and theodicy into scholastic format, that served to bring these doctrines into prominence, as did some writings of Alexander Baumgarten and G.F. Meier, Euler’s *Letters to a German Princess* (1768–1772), and Emilie du Chatelet’s *Naturlehre an Ihren Sohn* which deal with major Leibnizian themes, including substance, soul-body relations, and the problem of evil. If Kant brooded on Leibnizian topics, however, it was not, except perhaps in the period of the controversy with J.A. Eberhard, in which Kant was concerned to distinguish Leibniz from his followers and to champion what he saw as Leibniz’s special Platonic contributions, with an eye to understanding Leibniz’s system as a whole or extracting the best possible interpretation from it, but rather with an eye to avoiding his errors.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      由于莱布尼茨的许多著作直到十九或二十世纪才出版，对莱布尼茨与康德之间关系的准确评估，只能考虑十八世纪下半叶流通的、康德及其师友所能得到的作品。这些包括《论知识、真理与观念的沉思》《论实体的本性与交通的新系统》《动力学样本》《神义论》《单子论》与《自然与神恩原则》、《莱布尼茨-克拉克通信》，以及身后出版的《人类理智新论》——康德在其出版四年之后，即 1769 年读到它。皮埃尔·德迈佐编的一部杂集于 1720 年出版；随后是拉斯佩 1765 年编的更全面的《哲学著作集》，以及杜滕 1768 年刊行的《全集》。克里斯蒂安·沃尔夫——他可能拥有接触莱布尼茨某些未刊著作的特权——自 1719 年起以《理性思考》为题写了一系列教科书，把莱布尼茨关于原子论、决定论、前定和谐与神义论的散见思想重新编整为经院格式，使这些学说得以凸显；亚历山大·鲍姆嘉通与 G.F. 迈耶的部分著作、欧拉《致一位德国公主的信》（1768–1772）、以及艾米莉·杜夏特莱的《给儿子的自然学说》（它处理实体、心身关系与恶的问题等主要莱布尼茨主题）也起到了同样作用。不过，如果康德在莱布尼茨主题上冥思苦想，那不是——除了也许在与 J.A. 埃伯哈德论战的时期——为了把莱布尼茨的体系当作一个整体来理解或从中提取最佳诠释；在那场论战中，康德关心的是把莱布尼茨与其追随者区分开，并捍卫他所认为的莱布尼茨独特的柏拉图式贡献；毋宁说，他是着眼于避免其错误。
+    step2: |-
+      由于莱布尼茨的许多著作直到十九或二十世纪才出版，对莱布尼茨与康德关系的准确评估，只能考虑十八世纪下半叶流通的、康德及其师友所能得到的作品：包括《论知识、真理与观念的沉思》《论实体的本性与交通的新系统》《动力学样本》《神义论》《单子论》与《自然与神恩原则》、《莱布尼茨-克拉克通信》，以及身后出版的《人类理智新论》——康德在其出版四年之后，即 1769 年读到。皮埃尔·德迈佐编的一部杂集 1720 年出版；随后有拉斯佩 1765 年编的更全面的《哲学著作集》、杜滕 1768 年刊行的《全集》。克里斯蒂安·沃尔夫——他可能拥有接触莱布尼茨某些未刊著作的特权——自 1719 年起以《理性思考》为题写了一系列教科书，把莱布尼茨关于原子论、决定论、前定和谐与神义论的散见思想重编为经院格式，使这些学说得以凸显；亚历山大·鲍姆嘉通与 G.F. 迈耶的部分著作、欧拉《致一位德国公主的信》（1768–1772）、艾米莉·杜夏特莱的《给儿子的自然学说》（处理实体、心身关系与恶的问题等主要莱布尼茨主题）也起了同样的作用。不过，如果康德在莱布尼茨主题上冥思苦想，那不是——除了也许在与 J.A. 埃伯哈德论战的时期——为把莱布尼茨体系当作整体来理解或从中提取最佳诠释；在那场论战中，康德关心的是把莱布尼茨与其追随者区分开、捍卫他所认为的莱布尼茨独特的柏拉图式贡献；毋宁说，他着眼于避免其错误。
   - id: 17
     kind: body
     source: |-
       Insofar as Kant professed embarrassment about his pre-1770 essays, it might be tempting to divide his discussion of Leibniz into a pre-critical (before 1770) and a critical phase. Yet this division is not specially illuminating, and recent scholars have questioned the formerly standard periodization (see the entry on Kant’s philosophical development). *The True Measurement of Living Forces*, (1747), the *Physical Monadology* (1756), *New Elucidation* (1755), the *Essay on some Treatments of Optimism* (1759), *Negative Quantities* (1763) and the *Dreams of a Spirit-Seer* (1766) are all technically “pre-critical,” but they are critical with respect to logical, physical, and theological Leibnizian principles and doctrines. It is plausible to see the “silent decade” between 1771 and 1780 as the interval in which Kant decided how to manage the skeptical problem he now saw as threatening morality, arriving finally at the positive philosophy in the *Critique of Pure Reason* (1781) which steers (perhaps only temporarily, judging by the *Opus Postumum*) a middle course between visionary and mystical enthusiasm and skepticism. Kant’s further thoughts on Leibniz were developed in the *Metaphysical Foundations of Natural Science* (1786), the polemical essays, *On a Discovery According to which any Critique of Pure Reason has been made Superfluous by an Earlier One* (1790) and *What Progress has Metaphysics Made in Germany since the Time of Leibniz and Wolff*?(1791), and in the *Critique of Judgement* (1790).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于康德对他 1770 年以前文章表示过难为情，人们可能忍不住把他关于莱布尼茨的讨论划分为前批判（1770 年前）与批判两阶段。然而这一划分并不特别有启发意义，晚近学者已质疑这一曾经标准的分期（见关于康德哲学发展的词条）。《论活力的真正度量》（1747）、《物理单子论》（1756）、《新阐明》（1755）、《论乐观主义的某些处理》（1759）、《负量》（1763）与《一位视灵者的梦》（1766）在技术上都是“前批判的”，但它们对逻辑的、物理的与神学的莱布尼茨原则与学说而言是批判的。把 1771 至 1780 年的“沉默十年”看作康德决定如何处理他现在视为威胁道德的怀疑论问题的间隔，是有道理的——他最终在《纯粹理性批判》（1781）中抵达了那个在幻视与神秘热情和怀疑论之间取中道的积极哲学（ judging by the *Opus Postumum*，也许只是暂时的）。康德关于莱布尼茨的进一步思考，发展于《自然科学的形而上学基础》（1786）、论战文章《论一项发现：据称任何对纯粹理性的批判都已被更早的一项批判取而代之》（1790）与《自莱布尼茨和沃尔夫时代以来德国形而上学取得了什么进步？》（1791），以及《判断力批判》（1790）。
+    step2: |-
+      鉴于康德对 1770 年以前的文章表示过难为情，人们可能忍不住把他关于莱布尼茨的讨论划分为前批判（1770 前）与批判两阶段。然而这一划分并不特别有启发意义；晚近学者已质疑这一曾经标准的分期（见关于康德哲学发展的词条）。《论活力的真正度量》（1747）、《物理单子论》（1756）、《新阐明》（1755）、《论乐观主义的某些处理》（1759）、《负量》（1763）与《一位视灵者的梦》（1766）在技术上都是“前批判的”，但它们对逻辑的、物理的、神学的莱布尼茨原则与学说而言是批判的。把 1771–1780 年的“沉默十年”看作康德决定如何处理他现在视为威胁道德的怀疑论问题的间隔，是有道理的——他最终在《纯粹理性批判》（1781）抵达那个在幻视与神秘热情和怀疑论之间取中道的积极哲学（ judging by the *Opus Postumum*，也许只是暂时的）。康德关于莱布尼茨的进一步思考，发展于《自然科学的形而上学基础》（1786）、论战文章《论一项发现：据称任何对纯粹理性的批判都已被更早的一项批判取而代之》（1790）、《自莱布尼茨和沃尔夫时代以来德国形而上学取得了什么进步？》（1791），以及《判断力批判》（1790）。
   - id: 18
     kind: body
     source: |-
       ## 2. The Principle of Contradiction
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 2 矛盾律
+    step2: |-
+      ## 2 矛盾律
   - id: 19
     kind: body
     source: |-
       Leibniz gives various formulations to his Principle of Contradiction or Law of Identity, but the central idea is that a proposition and its negation cannot both be true (G 7: 299). Leibniz hoped to be able to construct a logical calculus that would enable all significant truths to be demonstrated, since every concept must include, be included in, or exclude every other. A concept such as ‘human,’ he maintained, included the concepts ‘animal,’ ‘rational,’ ‘bipedal,’ etc., so that a true statement such as ‘Humans are animals’ was true in virtue of the inclusion of the predicate in the subject. Though the magnitude of Leibniz’s contribution to combinatorial mathematics and logic remained unknown until the twentieth century, Kant offers some skeptical remarks to what he takes to be the Leibnizian programme in Section II of the *New Elucidation*. Later, he offers two specific criticisms of the Principle of Contradiction taken not in a logical, but in an ontological sense:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨对他的矛盾律或同一律给出多种表述，但其核心观念是：一个命题与它的否定不能同真（G 7: 299）。莱布尼茨希望能构造一种逻辑演算，使一切有意义的真理都能得到证明，因为每个概念必须包含、被包含于或排除每一个其他概念。他主张，“人”这样的概念包含“动物”“理性”“两足”等概念，因此“人是动物”这样的真命题之为真，是由于谓词包含于主词之中。尽管莱布尼茨对组合数学与逻辑的贡献之大直到二十世纪才为人所知，康德还是在《新阐明》第二节对他所理解的莱布尼茨纲领提出了若干怀疑论的评论。后来，他又对矛盾律——不是在逻辑意义上而是在本体论意义上理解的矛盾律——提出两项具体批评：
+    step2: |-
+      莱布尼茨对他的矛盾律或同一律给出多种表述，但核心观念是：一个命题与它的否定不能同真（G 7: 299）。莱布尼茨希望能构造一种逻辑演算，使一切有意义的真理都能得到证明：每个概念必须包含、被包含于或排除每一个其他概念。他主张，“人”这样的概念包含“动物”“理性”“两足”等概念，因此“人是动物”之为真，在于谓词包含于主词。尽管莱布尼茨对组合数学与逻辑的贡献之大直到二十世纪才为人所知，康德还是在《新阐明》第二节对他所理解的莱布尼茨纲领提出了若干怀疑论评论。后来，他又对矛盾律——不是逻辑意义、而是本体论意义上的矛盾律——提出两项具体批评：
   - id: 20
     kind: body
     source: |-
       First, Kant claims, the Principle is too weak to ban nonentities from theories. In Sect 28 of the *Inaugural Dissertation* (1770), he complains of “fictitious forces fabricated at will, which, not finding any obstacle in the principle of contradiction are poured forth in multitudes by those of speculative mind.” These fictitious forces presumably included extrasensory powers of perception and the direct action of souls on souls. Second, the Principle of Contradiction is too strong. Leibniz’s Neoplatonic leanings induce him to see creatures as fragments of the divine, whose imperfections are mere lacks. There are, in his ontology, no beings or forces opposing God (*Theodicy*, §20). Kant’s orientation is more Manichaean; he thinks that acceptance of the Principle leads the theorist to underrepresent the extent of conflict in the world and its constructive aspects. Kant insists that opposing forces, “hindering and counteracting processes” operate ceaselessly in nature and in history. The opposition of attractive and repulsive forces in physics produces the phenomena of matter (4: 508 ff); the opposition of good and evil principles in the human soul produces morality, (6:1–190); and antagonism and conflict in geopolitics produce peace and progress (6:24). Kant denies the Leibnizian claim that all evil follows from the limitations of creatures (KRV A 273/B. 329).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先，康德指出，这条原则太弱，无法把虚构的存在者逐出理论。在《就职论文》（1770）第 28 节，他抱怨“随意捏造的虚构的力，它们在矛盾律中找不到任何障碍，被那些耽于思辨的心灵成群地倾泻出来”。这些虚构的力大概包括超感官的知觉能力，以及灵魂对灵魂的直接作用。其次，矛盾律太强。莱布尼茨的新柏拉图主义倾向使他把被造物看作神性的碎片，其不完善只是欠缺。在他的本体论中，不存在对抗上帝的存在者或力（《神义论》§20）。康德的取向更摩尼教式；他认为接受这条原则会使理论家低估世界中冲突的范围及其建构性的方面。康德坚持认为，对立的力、“阻碍与抵消的过程”在自然与历史中不停地运作：物理学中吸引力与排斥力的对立产生物质的现象（4: 508 ff）；人的灵魂中善恶原则的对立产生道德（6:1–190）；地缘政治中的对抗与冲突产生和平与进步（6:24）。康德否认莱布尼茨的这一主张：一切恶都源于被造物的局限（KRV A 273/B. 329）。
+    step2: |-
+      首先，康德指出：这条原则太弱，无法把虚构的存在者逐出理论。在《就职论文》（1770）第 28 节，他抱怨“随意捏造的虚构的力——它们在矛盾律中找不到任何障碍——被那些耽于思辨的心灵成群倾泻出来”。这些虚构的力大概包括超感官知觉能力，以及灵魂对灵魂的直接作用。其次，矛盾律太强。莱布尼茨的新柏拉图主义倾向使他把被造物看作神性的碎片，其不完善只是欠缺；在他的本体论中，不存在对抗上帝的存在者或力（《神义论》§20）。康德的取向更近摩尼教：他认为接受这条原则，会使理论家低估世界中冲突的范围及其建构性方面。康德坚持：对立的力、“阻碍与抵消的过程”在自然与历史中不停运作——物理学中吸引与排斥力的对立产生物质的现象（4: 508 ff）；人的灵魂中善恶原则的对立产生道德（6:1–190）；地缘政治的对抗与冲突产生和平与进步（6:24）。康德否认莱布尼茨的主张——一切恶都源于被造物的局限（KRV A 273/B. 329）。
   - id: 21
     kind: body
     source: |-
       ## 3. The Identity of Indiscernibles
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 3 不可分辨者的同一
+    step2: |-
+      ## 3 不可分辨者的同一
   - id: 22
     kind: body
     source: |-
       The Leibnizian principle that “there are never two things in nature which are exactly alike and in which it is impossible to find a difference that is internal or founded on an intrinsic denomination” is enunciated in the *Monadology* (G 6: 608), as well as in the *Correspondence* with Samuel Clarke (G 7: 372). Leibniz had abandoned his earlier view that two entities could be distinguished by place alone when he came to his view of real substances as infinitely complex and unique and space as ideal. Kant found the Principle arbitrary. To insist that any two objects presented to us in experience must be qualitatively different in some respect was, Kant said, to take appearances for intelligibilia (KRV A 264/B320). We cannot have two concepts — concepts of two things — that are alike in all their specifications, but we can certainly have two empirical objects that are exactly alike. Why should we not be able to imagine two identical water droplets? (20:280). It is sufficient for there to be two that they present themselves to us (veridically) in our visual space as two. Leibniz’s blunder on this score was, for Kant, an indication that Leibniz had failed to grasp an important feature of sensory experience, namely that it, unlike thought in general, is always spatial.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨的原则——“自然界中从来不会有完全相似的两件事物，在其中找不到内在的或基于内在称谓的差异”——载于《单子论》（G 6: 608），也载于与塞缪尔·克拉克的《通信》（G 7: 372）。莱布尼茨早已放弃他早年的观点——两个实体可以仅凭位置来区分——那时他形成了关于实在实体无限复杂而独特、空间是观念性的看法。康德认为这条原则是任意的。坚持经验中呈现给我们的任何两个对象必在某些方面有质的不同，康德说，就是把显象当作了智思物（KRV A 264/B320）。我们不能有两个概念——两个事物的概念——在其一切规定上都相似；但我们当然可以有两个完全相同的经验对象。为什么我们不能设想两滴相同的水滴？（20:280）。只要有二，它们（真实地）在我们的视觉空间中呈现为二，这就足够了。莱布尼茨在这方面的失误，对康德而言，表明莱布尼茨未能把握感性经验的一个重要特征，即它不同于一般的思想，总是空间性的。
+    step2: |-
+      莱布尼茨的原则——“自然界中从来不会有完全相似的两件事物，在其中找不到内在的或基于内在称谓的差异”——载于《单子论》（G 6: 608），也载于与塞缪尔·克拉克的《通信》（G 7: 372）。莱布尼茨早已放弃早年的观点（两个实体可仅凭位置区分），那时他形成了实在实体无限复杂而独特、空间是观念性的看法。康德认为这条原则任意：坚持经验中呈现给我们的任何两个对象必在某些方面有质的不同——康德说——就是把显象当作智思物（KRV A 264/B320）。我们不能有两个概念（两个事物的概念）在其一切规定上都相似；但我们当然可以有两个完全相同的经验对象。为什么不能设想两滴相同的水滴？（20:280）。只要有二，它们（真实地）在我们的视觉空间中呈现为二，这就足够了。莱布尼茨在这方面的失误，对康德而言，表明他未能把握感性经验的一个重要特征：它不同于一般思想，总是空间性的。
   - id: 23
     kind: body
     source: |-
       ## 4. Substance and “Matter”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 实体与“物质”
+    step2: |-
+      ## 4 实体与“物质”
   - id: 24
     kind: body
     source: |-
       Leibniz’s metaphysics was developed within, and in part as a reaction to the mechanical philosophy of the mid-to-late 17th century, revived by Galileo, Descartes, Gassendi, Boyle, Newton, and Locke. While the term “substance,” meaning the indestructible stuff of the universe, was retained by Descartes in his discussions of *res extensa*, the mechanical philosophers adopted a corpuscularian theory in which objects were temporary aggregates of solid, indestructible particles with various figures and motions, and most though by no means all change occurred through their contact, pressure, collision, entangling, and so on. Leibniz contested the corpuscularian image, insisting that it was insufficiently profound and inherently self-contradictory (G 4: 480), and holding that matter was a ‘phenomenon’ founded upon the reality of “metaphysical points” or, as he later termed them, monads: qualitatively unique,indestructible and indivisible units that also perceived and strove (G 6: 608).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨的形而上学是在十七世纪中后期的机械论哲学之内、部分作为对它的反应而发展起来的；机械论哲学由伽利略、笛卡尔、伽桑狄、波义耳、牛顿与洛克复兴。“实体”一词——意指宇宙中不可毁灭的原料——被笛卡尔在其关于*res extensa*（广延物）的讨论中保留下来；机械论哲学家则采纳了一种微粒理论：对象是坚实的、不可毁灭的粒子的暂时聚集，这些粒子有各种形状与运动，绝大多数（尽管绝非全部）变化通过它们的接触、压力、碰撞、缠结等等发生。莱布尼茨质疑微粒图像，坚持它不够深刻且内在自相矛盾（G 4: 480），主张物质是奠基于“形而上学点”——他后来称之为单子——之实在上的“现象”：单子是性质上独特、不可毁灭、不可分的单元，同时也在知觉、也在力求（G 6: 608）。
+    step2: |-
+      莱布尼茨的形而上学在十七世纪中后期的机械论哲学之内发展，部分是对它的反应；机械论哲学由伽利略、笛卡尔、伽桑狄、波义耳、牛顿与洛克复兴。“实体”一词——意指宇宙中不可毁灭的原料——被笛卡尔在其关于 *res extensa*（广延物）的讨论中保留；机械论哲学家则采纳微粒理论：对象是坚实的、不可毁灭的粒子之暂时聚集，粒子有各种形状与运动，绝大多数（虽非全部）变化经它们的接触、压力、碰撞、缠结等发生。莱布尼茨质疑微粒图像，坚持它不够深刻且内在自相矛盾（G 4: 480），主张物质是奠基于“形而上学点”——他后来称之为单子——之实在上的“现象”：单子是性质上独特、不可毁灭、不可分的单元，既知觉、也力求（G 6: 608）。
   - id: 25
     kind: body
     source: |-
       Kant accused Leibniz, along with Spinoza, of ‘taking appearances for things in themselves’ (KRV A264/B320). One can see his point with respect to water droplets as noted, but it is nevertheless a somewhat mixed-up claim. As Kant understood him, in failing to distinguish between intellectual representation and sensory perception, Leibniz believed we saw aggregates of monads as empirical objects. But Leibniz distinguished sharply between the everyday perceptual world of living beings and inanimate objects and the invisible monadic order. Unextended monads were non causally interacting but enjoyed (in a confusedly omniscient manner) the universal pre-established harmony of perceptions, while empirical humans perceived individually subvisible empirical objects such as animalcula and fine powders through causal mechanisms in a confused manner (GM III:546–7; AG IV:426). But Leibniz was not clear about how the unextended monads projected into a visible world and neither were his later commentators. After his critical turn, Kant had decided that “things in themselves” that compose external reality are not perceived at all. They are not in causal contact with us, though they affect us in such a way that we experience a sensory world structured according to the categories of time, space, causality and objecthood. The impact driven, push and pull of the appearances therefore did not, in Kant’s view, preclude the possibility of the origination of free actions by a noumenal subject.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德指责莱布尼茨，连同斯宾诺莎，“把显象当作了物自体”（KRV A264/B320）。就上面提到的水滴而论，人们可以理解他的观点，但这仍是一个有些混乱的主张。照康德对他的理解，由于未能区分理智表象与感官知觉，莱布尼茨相信我们把单子的聚集看作经验对象。但莱布尼茨在生物与无生命对象的日常知觉世界与不可见的单子秩序之间划出了鲜明的界限。无广延的单子之间没有因果性的相互作用，却（以一种混乱的全知方式）享有知觉的普遍前定和谐；而经验的人类则通过因果机制，以混乱的方式知觉到个别的亚可见经验对象，如微生物与细粉末（GM III:546–7; AG IV:426）。但莱布尼茨并不清楚无广延的单子如何投射进一个可见的世界，他的后来注释者也不清楚。经过批判转向之后，康德已判定：构成外部实在的“物自体”根本不被知觉。它们不与我们发生因果接触，尽管它们以这样一种方式影响我们：我们经验到一个按时间、空间、因果性与对象性诸范畴构造起来的感性世界。因此，显象中由冲击驱动的推与拉，在康德看来并不排除自由行动由一个本体主体产生的可能性。
+    step2: |-
+      康德指责莱布尼茨（连同斯宾诺莎）“把显象当作了物自体”（KRV A264/B320）。就上面提到的水滴而论，人们可以理解他的观点；但这仍是一个有些混乱的主张。照康德对他的理解：由于未能区分理智表象与感官知觉，莱布尼茨相信我们把单子的聚集看作经验对象。但莱布尼茨在生物与无生命对象的日常知觉世界、与不可见的单子秩序之间划出鲜明界限：无广延的单子之间没有因果相互作用，却（以一种混乱的全知方式）享有知觉的普遍前定和谐；而经验的人类经因果机制、以混乱的方式知觉个别的亚可见经验对象——微生物与细粉末（GM III:546–7; AG IV:426）。但莱布尼茨并不清楚无广延的单子如何投射进可见世界，其后来的注释者亦然。批判转向之后，康德已判定：构成外部实在的“物自体”根本不被知觉；它们不与我们发生因果接触，尽管它们如此影响我们：我们经验到一个按时间、空间、因果性与对象性诸范畴构造起来的感性世界。因此，显象中由冲击驱动的推与拉，在康德看来并不排除自由行动由本体主体产生的可能。
   - id: 26
     kind: body
     source: |-
       Matter, Kant could readily agree with Leibniz, cannot be a thing in itself, stuff possessed of characteristics and qualities independent of human perception; what we call matter is an appearance (4:507). The true nature of mind-independent external reality cannot be described by reference to shape, contact or movement, which characterize only the objects presented to us (A265–6/B 321–2). He understood Leibniz’s reasoning in favour of monads as follows: It is impossible to *conceive* two material atoms as both different from one another and as simple, i.e partless; yet possible to conceive two souls that are both different and partless (20:285). Therefore, if substances are manifold and partless, they must have representational capacities. The crucial error in this reasoning lay in supposing that our abstract conceptions are a guide to reality behind the spatio-temporal appearances. Yet properly understood, he maintained, Leibniz’s monadology was not an attempt to explain appearances but the expression of a “Platonic” view of the world, considered apart from our sensory experience of it (4:507; 8:248). In this regard, he did grasp that Leibniz did not after all take appearances for things in themselves.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      物质不能是物自体——不能是拥有独立于人类知觉的特征与性质的原料——这一点康德可以欣然同意莱布尼茨；我们称之为物质的东西是一个显象（4:507）。独立于心灵的外部实在的真正本性，无法借形状、接触或运动来描述——这些特征只属于呈现给我们的对象（A265–6/B 321–2）。他对莱布尼茨支持单子的推理理解如下：*设想*两个物质原子既彼此不同又单纯（即无部分）是不可能的；而设想两个既不同又无部分的灵魂却是可能的（20:285）。因此，如果实体是杂多的又是无部分的，它们必须具有表象能力。这一推理的关键错误，在于假定我们的抽象概念是时空显象背后实在的向导。然而他坚持，若恰当理解，莱布尼茨的单子论并非解释显象的尝试，而是一个“柏拉图式”世界观的表述——把世界与我们对其的感性经验分开来考虑（4:507; 8:248）。就此而言，他确实把握到：莱布尼茨终究没有把显象当作物自体。
+    step2: |-
+      物质不能是物自体——不能是拥有独立于人类知觉的特征与性质的原料——这一点康德可以欣然同意莱布尼茨：我们称之为物质的东西是一个显象（4:507）。独立于心灵的外部实在之真正本性，无法借形状、接触或运动描述——这些特征只属于呈现给我们的对象（A265–6/B 321–2）。他对莱布尼茨支持单子的推理理解如下：*设想*两个物质原子既彼此不同又单纯（即无部分）不可能；而设想两个既不同又无部分的灵魂却可能（20:285）。因此，若实体既杂多又无部分，它们必具有表象能力。这一推理的关键错误在于：假定我们的抽象概念是时空显象背后实在的向导。然而他坚持，若恰当理解，莱布尼茨的单子论并非解释显象的尝试，而是一个“柏拉图式”世界观的表述——把世界与我们对其的感性经验分开考虑（4:507; 8:248）。就此而言，他确实把握到：莱布尼茨终究没有把显象当作物自体。
   - id: 27
     kind: body
     source: |-
       Despite his warnings about the limited powers of human reason, Kant too believed it possible to deduce some features of matter, as physical science must theorize it, *a priori*. There are no material atoms; matter is divisible to infinity and its parts are all material (4:503f). Yet Kant recognized, first in the *Physical Monadology*, then in the *Metaphysical Foundations*, particles in the form of centres of attractive and repulsive forces that account for the space-filling property and impenetrability of matter (4: 533ff). This relatively dogmatic treatment co-exists with his critical claim that matter is the appearance of a perfectly unknown substratum. As he explains it in the *Critique of Pure Reason*, the rainbow is a mere appearance relative to rain drops which, in a physical sense, are things-in-themselves and not mirages. Yet thinking further, we realize that the raindrops too are mere appearances, and that “even their round form, indeed, even the space through which they fall are nothing in themselves, but only mere modifications or foundations of our sensible intuition; the transcendental object, however, remains unknown to us.” (KRV A 45f/B 63f). “About these appearances, further, much may be said a priori that concerns their form but nothing whatsoever about the things in themselves that may ground them.” (KRV A49/B66). This suggests that the stuff which is divisible to infinity and bears attractive and repulsive forces is an appearance of something unknown and unknowable. “We can understand nothing except what brings with it something in intuition corresponding to our words. When we complain that we do not see into the inner nature of things, this can mean no more than that we cannot grasp, through pure reason, what the things that appear to us might be in themselves…. Observation and division with respect to the appearances take us into the interior of nature, and we cannot say how far this will proceed. But every transcendental question that takes us beyond [perceptible] nature can never be answered…” (KRV (A277f/B333f).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管他警告人类理性能力有限，康德也相信有可能*先天地*推导出物质的某些特征——如物理科学必须理论化的物质。不存在物质原子；物质可分至无穷，其各部分都是物质的（4:503f）。然而康德认识到——先在《物理单子论》中、后在《形而上学基础》中——以吸引力和排斥力中心的形式存在的粒子，它们说明了物质的空间填充性与不可入性（4: 533ff）。这一相对独断的处理，与他批判性的主张——物质是一个完全未知的基体的显象——并存。正如他在《纯粹理性批判》中所解释的：彩虹相对于雨滴只是显象，而雨滴在物理意义上是物自体而非幻象。然而进一步思考，我们意识到雨滴也只是显象，“甚至它们的圆形，甚至它们坠落所穿过的空间，本身都不是什么，而只是我们感性直观的单纯变状或基础；先验对象却依然为我们所未知。”（KRV A 45f/B 63f）。“关于这些显象，可以先天说出许多关乎其形式的东西；但对可能奠定它们的那些物自体，却什么也说不出。”（KRV A49/B66）。这表明：那种可分至无穷、承载吸引与排斥力的东西，是某种未知且不可知者的显象。“除了随身带着直观中与我们词语相应的某种东西，我们什么也不能理解。当我们抱怨看不透事物的内在本性时，这只能意味着：我们不能通过纯粹理性把握向我们显现的事物本身会是什么……对显象的观察与分割把我们带入自然的内部，我们无法说这将走多远。但每一个把我们带出［可感］自然的先验问题都永远无法回答……”（KRV（A277f/B333f）。
+    step2: |-
+      尽管警告人类理性能力有限，康德也相信有可能*先天地*推导出物质的某些特征——物理科学必须理论化的物质。不存在物质原子；物质可分至无穷，其各部分都是物质的（4:503f）。然而康德认识到——先在《物理单子论》、后在《形而上学基础》——以吸引力与排斥力中心形式存在的粒子，说明了物质的空间填充性与不可入性（4: 533ff）。这一相对独断的处理，与他批判性的主张——物质是一个完全未知的基体之显象——并存。正如他在《纯粹理性批判》中所解释：彩虹相对于雨滴只是显象，而雨滴在物理意义上是物自体而非幻象；然而进一步思考，我们意识到雨滴也只是显象，“甚至它们的圆形，甚至它们坠落所穿过的空间，本身都不是什么，而只是我们感性直观的单纯变状或基础；先验对象却依然为我们所未知”（KRV A 45f/B 63f）。“关于这些显象，可以先天说出许多关乎其形式的东西；但对可能奠定它们的那些物自体，却什么也说不出”（KRV A49/B66）。这表明：那种可分至无穷、承载吸引与排斥力的东西，是某种未知且不可知者的显象。“除了随身带着直观中与我们词语相应的某种东西，我们什么也不能理解。当我们抱怨看不透事物的内在本性时，这只能意味着：我们不能通过纯粹理性把握向我们显现的事物本身会是什么……对显象的观察与分割把我们带入自然的内部，我们无法说这将走多远；但每一个把我们带出［可感］自然的先验问题都永远无法回答……”（KRV A277f/B333f）。
   - id: 28
     kind: body
     source: |-
       ## 5. Space and Time
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 空间与时间
+    step2: |-
+      ## 5 空间与时间
   - id: 29
     kind: body
     source: |-
       Leibniz held a relational theory of space and time. Without things there would be no space, and without events there would be no time. Space and time are not containers into which things and events may be inserted but which could have remained empty. In the *Third Letter to Clarke* (G 7:364), Leibniz maintains that “without the things placed in it, one point of space does not absolutely differ in any respect whatsoever from another point of space.” An even more ambitious positive proposal makes space the “order of co-existents” and time the “order of successions” (G 7: 363), or a “well-founded phenomenon.”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨持一种关于空间与时间的关系论。没有事物就没有空间，没有事件就没有时间。空间与时间不是容器——事物与事件可被置入其中、而它们本可能保持为空的容器。在《致克拉克的第三封信》（G 7:364）中，莱布尼茨主张：“没有置于其中的事物，空间的一点与空间的另一点在任何方面都绝无不同。”一个更有雄心的积极主张，把空间当作“共存者的秩序”、时间当作“接续者的秩序”（G 7: 363），或一种“有根据的现象”。
+    step2: |-
+      莱布尼茨持空间与时间的关系论：没有事物就没有空间，没有事件就没有时间。空间与时间不是容器——事物与事件可置入其中、而它们本可能保持为空。在《致克拉克的第三封信》（G 7:364）中，莱布尼茨主张：“没有置于其中的事物，空间的一点与空间的另一点在任何方面都绝无不同。”一个更有雄心的积极主张，把空间当作“共存者的秩序”、时间当作“接续者的秩序”（G 7: 363），或一种“有根据的现象”。
   - id: 30
     kind: body
     source: |-
       Despite his admiration for Newton, his presentation of a purported proof of absolute space in the essay *On the Basis of the Difference of Regions in Space* of 1768 (2: 378), and his claim in the First Critique that two distinct but absolutely identical portions of space were possible (KRV A 264/ B320), Kant rejected absolute space and absolute motion in the *Metaphysical Foundations of Natural Science*. Consistently, however, he rejected Leibniz’s claim that space was founded on the order of relations of substances. To the claim that space emerged somehow from the underlying monadic reality seemed to Kant to imply that the truths of mathematics—in this case three-dimensional geometry—depended on the existence of a world of things and events, which was absurd. Leibniz, Kant, suggests, had noticed that things appear to interact causally and to determine one another’s behaviour. This led him to insist that space was “ a certain order in the community of substances, and… time… the dynamic sequences of their states,” confusedly apprehended (KRV A 275f/B 331f). However, the composition of bodies from monads as basic elements presupposes their juxtaposition in space (20:278). If we confusedly perceive monads as physical objects in space, what would it be like to apprehend the monads distinctly as not in space but as the foundation of space? (4:481f)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管他钦佩牛顿，尽管他在 1768 年《论空间中方位区分的最初根据》一文中提出了一个所谓的绝对空间证明（2: 378），尽管他在第一《批判》中主张两个不同却绝对相同的空间部分是可能的（KRV A 264/ B320），康德还是在《自然科学的形而上学基础》中拒绝了绝对空间与绝对运动。不过，他一以贯之地拒绝了莱布尼茨的主张——空间奠基于实体的关系秩序。在康德看来，主张空间以某种方式从潜在的单子实在中涌现，似乎意味着数学的真理——此处的三维几何——依赖于事物与事件世界的存在，这是荒谬的。康德提示，莱布尼茨注意到事物似乎因果地相互作用、彼此规定行为；这使他坚持空间是“实体共同体中的某种秩序，而……时间是它们诸状态的动力学序列”，以混乱的方式被把握（KRV A 275f/B 331f）。然而，由单子作为基本元素构成的物体，预设了它们在空间中的并置（20:278）。如果我们混乱地把单子知觉为空间中的物理对象，那么把单子清晰地把握为不在空间中、而是空间的基础，又会是什么样子？（4:481f）
+    step2: |-
+      尽管钦佩牛顿，尽管在 1768 年《论空间中方位区分的最初根据》一文中提出所谓的绝对空间证明（2: 378），尽管在第一《批判》中主张两个不同却绝对相同的空间部分是可能的（KRV A 264/ B320），康德还是在《自然科学的形而上学基础》中拒绝了绝对空间与绝对运动。不过他一以贯之地拒绝莱布尼茨的主张——空间奠基于实体的关系秩序。在康德看来，主张空间以某种方式从潜在的单子实在涌现，似乎意味着数学真理（此处的三维几何）依赖事物与事件世界的存在——荒谬。康德提示：莱布尼茨注意到事物似乎因果地相互作用、彼此规定行为；这使他坚持空间是“实体共同体中的某种秩序，而……时间是它们诸状态的动力学序列”，以混乱的方式被把握（KRV A 275f/B 331f）。然而，由单子作基本元素构成的物体，预设它们在空间中的并置（20:278）。若我们混乱地把单子知觉为空间中的物理对象，那么把单子清晰地把握为不在空间中、而是空间的基础，又会是什么样子？（4:481f）
   - id: 31
     kind: body
     source: |-
       Kant’s conviction that the existence of incongruent counterparts proved that “space in general does not belong to the properties or relations of things in themselves” (4: 484) is not easy to understand, but his basic argument in the 1768 essay is that Leibniz’s view does not enable one to distinguish between a left handed glove and a right handed glove, insofar as the relations of all the parts to one another are the same in both cases. Yet if God had created just one glove, it would have been one or the other. Hence space does not depend on relations between things in space. Newton’s conception of space as a huge container does not contribute to the solution of the problem: Consider a container in which a single glove is floating. Is it a right-handed glove or a left-handed glove? We can insert various new items into this space-container, e.g., an anorak, a scarf, a shoe, but only the insertion of a human observer into the space will permit an answer. Space, Kant, decides, is related to directionality or orientation. The human observer experiences himself as intersected by three planes and as having three sets of “sides”, which he describes as up and down, back and forward, and right and left. Right-handedness and left-handedness are not merely anthropic concepts since nature itself insists on handedness in twining plants and the shells of snails (2: 380). But which direction is right and which is left can only be established by a conscious, embodied being. As he expresses it in the *Prolegomena*, “The difference between similar and equal things which are not congruent…cannot be made intelligible by any concept, but only by the relation to the right and left hands, which immediately refers to intuition” (4: 286). How spheroid beings with hands would distinguish between “front” and “back” is not however clear. It is not clear whether this orientational analysis implies that wherever there is space there must also be sentient beings with pairs of incongruent parts, as well as top-bottom and back-front asymmetry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德相信不等称对应物的存在证明了“空间一般而言不属于物自体的属性或关系”（4: 484），这一点不易理解，但他在 1768 年文章中的基本论证是：莱布尼茨的观点使人无法区分左手手套与右手手套，因为在这两种情形下所有部分彼此的关系是相同的。然而如果上帝只创造了一只手套，它就非此即彼。因此，空间不依赖于空间中事物之间的关系。牛顿把空间设想为一个大容器，这无助于问题的解决：设想一个容器，里面漂浮着一只手套。它是右手手套还是左手手套？我们可以向这个空间-容器中插入各种新物件——一件风衣、一条围巾、一只鞋——但只有把一个人类观察者插入这个空间，才能得到答案。康德断定，空间与方向性或方位相关。人类观察者经验到自己被三个平面所穿越，拥有三组“侧面”，他把它们描述为上与下、后与前、右与左。右旋与左旋并非仅仅人类的概念，因为自然本身就在缠绕植物与蜗牛的壳上坚持了手性（2: 380）。但哪个方向是右、哪个是左，只能由一个有意识的、具身的存在者确立。正如他在《导论》中所表达的：“相似而相等却不重合的事物之间的差别……无法由任何概念使之可理解，只能通过与右手和左手的关系——它直接指向直观——来理解”（4: 286）。然而，长着手的球状存在者如何区分“前”与“后”，却并不清楚。这一方位分析是否意味着——凡有空间处必也有拥有不等称部分对的、具有上下与前后的不对称的有感官能者——也不清楚。
+    step2: |-
+      康德相信不等称对应物的存在证明了“空间一般而言不属于物自体的属性或关系”（4: 484）——这一点不易理解；但他在 1768 年文章中的基本论证是：莱布尼茨的观点使人无法区分左手手套与右手手套——两种情形下所有部分彼此的关系相同。然而若上帝只创造了一只手套，它就非此即彼。因此，空间不依赖于空间中事物间的关系。牛顿把空间设想为大容器，无助于问题的解决：设想一个容器，里面漂着一只手套——它是右手还是左手手套？我们可以向这个空间-容器插入各种新物件——风衣、围巾、鞋——但只有把一个人类观察者插入空间，才能得到答案。康德断定：空间与方向性或方位相关。人类观察者经验到自己被三个平面穿越，拥有三组“侧面”——上与下、后与前、右与左。右旋与左旋并非仅仅人类的概念：自然本身就在缠绕植物与蜗牛的壳上坚持了手性（2: 380）。但哪个方向是右、哪个是左，只能由有意识的、具身的存在者确立。正如他在《导论》中所表达：“相似而相等却不重合的事物之间的差别……无法由任何概念使之可理解，只能通过与右手和左手的关系——它直接指向直观——来理解”（4: 286）。然而长着手的球状存在者如何区分“前”与“后”，并不清楚；这一方位分析是否意味着——凡有空间处必也有拥有不等称部分对、具有上下与前后不对称的有感官能者——同样不清楚。
   - id: 32
     kind: body
     source: |-
       In the *Inaugural Dissertation* §15, Kant tries to move beyond the dichotomy of taking space and time to be either substances or phenomena, taking space instead to belong to the “form”of sensible intuition. As he expresses it in the *Critique of Pure Reason*, “Space and time are [our sensibility’s] pure forms…” (KRV A42/B60). They are “merely subjective conditions of all our intuition.” (ibid., A 49/B 66). [See the entry on Kant’s views on space and time.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《就职论文》§15，康德试图超越把空间与时间当作实体或显象的两分，转而主张空间属于感性直观的“形式”。正如他在《纯粹理性批判》中所表达：“空间与时间是［我们感性的］纯粹形式……”（KRV A42/B60）。它们是“我们一切直观的仅仅主观的条件”（同上, A 49/B 66）。［见关于康德空间与时间观点的词条。]
+    step2: |-
+      在《就职论文》§15，康德试图超越把空间与时间当作实体或显象的两分，转而主张空间属于感性直观的“形式”。正如他在《纯粹理性批判》中所表达：“空间与时间是［我们感性的］纯粹形式……”（KRV A42/B60）；它们是“我们一切直观的仅仅主观的条件”（同上, A 49/B 66）。［见关于康德空间与时间观点的词条。]
   - id: 33
     kind: body
     source: |-
       For Leibniz, each monad experiences an individual succession of appetites and experiences that God has endowed it with from the creation of the world. Being fated in this way, though acting always under their own “spontaneous” power, the monads would seem to be deprived of meaningful agency and beneficiaries or victims of seemingly unjust rewards and punishments. Kant believed that locating space and time in us rather than in the world was an absolute barrier against the determinism that threatened the notion of moral responsibility (A 5:97–8; 102).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对莱布尼茨而言，每个单子经验着一种个体的、上帝自创世起就赋予它的欲望与经验的序列。既然以这种方式被命定——尽管总在自身“自发的”能力之下行动——单子似乎被剥夺了有意义的能动性，成了看似不公正的奖惩的受益者或受害者。康德相信，把空间与时间定位于我们之中而非世界之中，是对威胁道德责任观念的决定论的绝对屏障（A 5:97–8; 102）。
+    step2: |-
+      对莱布尼茨而言，每个单子经验着一种个体的欲望与经验序列——上帝自创世起就赋予它。既然以这种方式被命定（尽管总在自身“自发的”能力之下行动），单子似乎被剥夺了有意义的能动性，成了看似不公正的奖惩的受益者或受害者。康德相信：把空间与时间定位于我们之中而非世界之中，是对威胁道德责任观念的决定论的绝对屏障（A 5:97–8; 102）。
   - id: 34
     kind: body
     source: |-
       ## 6. Perception and Thought
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 知觉与思想
+    step2: |-
+      ## 6 知觉与思想
   - id: 35
     kind: body
     source: |-
       Kant’s rejection of Leibniz’s Principle of the Identity of Indiscernibles is related to his complaint that the Leibnizians treated perception and thought as a single representational faculty that was “logically” (by which Kant meant “qualitatively”) distinguished in terms of the clarity of the representation, rather than “transcendentally.” With their theory of a single cognitive faculty, Kant maintained, Leibniz and Wolff “abolished the distinction between phenomena and noumena to the great detriment of philosophy.” Leibniz treated the senses according to Kant as an inferior mode of cognition, the senses having only the “despicable task” of confusing and distorting the representations of reason (KRV B. 332).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德对莱布尼茨不可分辨者同一原则的拒斥，与他的抱怨相关：莱布尼茨主义者把知觉与思想当作单一的表象能力，它只按表象的清晰度在“逻辑上”（康德意指“性质上”）被区分，而非“先验地”被区分。康德坚持认为，凭着他们关于单一认知能力的理论，莱布尼茨与沃尔夫“废除了现象与本体的区分，给哲学带来极大的损害”。照康德的看法，莱布尼茨把感官当作认知的低级模式，感官只有“卑下的任务”——混淆与歪曲理性的表象（KRV B. 332）。
+    step2: |-
+      康德拒斥莱布尼茨的不可分辨者同一原则，与其抱怨相关：莱布尼茨主义者把知觉与思想当作单一的表象能力，只按表象的清晰度在“逻辑上”（康德意指“性质上”）区分，而非“先验地”区分。康德坚持：凭着单一认知能力的理论，莱布尼茨与沃尔夫“废除了现象与本体的区分，给哲学带来极大损害”。照康德的看法，莱布尼茨把感官当作认知的低级模式——感官只有“卑下的任务”：混淆与歪曲理性的表象（KRV B. 332）。
   - id: 36
     kind: body
     source: |-
       The basis of this accusation was Leibniz’s attribution to the soul of only two basic faculties: perception, the representation of multiplicity in a simple soul, and appetition, which he defines as “the action of an internal principle which brings about change or the passage from one perception to another” (G 6: 608–9). Perceptions, in Leibniz, as in Descartes, are thoughts — presentations in the mind. The perceptual thought that there is a green tree in front of me is not absolutely unlike the mathematical thought that triangles have three angles. Perception of material objects is “confused” because — according to the Cartesian tradition — corporeal substance has no colours or other sensory properties — which come into being through the interaction of the mind and tiny, single imperceptible, uncoloured corpuscles of matter. Though Leibniz denied the existence of purely material corpuscles and the possibility of causal influx or even interaction between real substances, he agreed that, from the perspective of what he sometimes terms mere physical science, perception required interaction, and that corpuscular motions were involved in the perception of sensory qualities such as light and colour. Perception can therefore be said to confuse what reason delivers to us clearly (A 132, 219, 403). Though we are unable to grasp the sufficient reason of particular colours, there is nothing arbitrary in their connection with their underlying causes (A 382f).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一指责的根据，是莱布尼茨只赋予灵魂两种基本能力：知觉——单纯灵魂中对杂多的表象；以及欲求（appetition），他定义为“由内部原则发起的行动，它引起变化或从一个知觉到另一个知觉的过渡”（G 6: 608–9）。莱布尼茨那里的知觉（如在笛卡尔那里）是思想——心灵中的呈现。眼前有一棵绿树的知觉性思想，与三角形有三个角的数学思想，并非全然不同。物质对象的知觉是“混乱的”，因为——照笛卡尔的传统——形体实体没有颜色或其他感性性质；这些性质经由心灵与微小的、单个不可知觉的、无色的物质微粒的相互作用而产生。尽管莱布尼茨否认纯粹物质微粒的存在、否认实在实体之间因果流入甚至相互作用的可能性，他同意：从有时被他称为单纯物理科学的视角看，知觉需要相互作用，而微粒运动卷入了对光与颜色等感性性质的知觉。因此可以说，知觉把理性清晰地给予我们的东西弄混乱了（A 132, 219, 403）。虽然我们无法把握特定颜色的充足理由，它们与其潜在原因的联系却没有任何任意之处（A 382f）。
+    step2: |-
+      这一指责的根据，是莱布尼茨只赋予灵魂两种基本能力：知觉——单纯灵魂中对杂多的表象；以及欲求（appetition）——他定义为“由内部原则发起的行动，它引起变化或从一个知觉到另一个知觉的过渡”（G 6: 608–9）。莱布尼茨那里的知觉（如笛卡尔那里）是思想——心灵中的呈现：眼前有绿树的知觉性思想，与三角形有三角的数学思想并非全然不同。物质对象的知觉是“混乱的”——照笛卡尔传统——形体实体没有颜色或其他感性性质；这些性质经心灵与微小、单个不可知觉、无色的物质微粒的相互作用而生。尽管莱布尼茨否认纯粹物质微粒的存在、否认实在实体间因果流入甚至相互作用的可能，他同意：从有时被他称作单纯物理科学的视角看，知觉需要相互作用，而微粒运动卷入对光与颜色等感性性质的知觉。因此可以说：知觉把理性清晰地给予我们的东西弄混乱了（A 132, 219, 403）。虽然我们无法把握特定颜色的充足理由，它们与其潜在原因的联系却没有任何任意之处（A 382f）。
   - id: 37
     kind: body
     source: |-
       Leibniz’s interpreters, Wolff and Baumgarten, enunciate more dogmatically the theory that there is a single faculty of representation in the soul, with perception and cognition corresponding to its lower and higher parts. It was this view that Kant presented as entirely opposed to his own teaching with regard to the faculties of the soul. Sensibility, for Kant, is the “receptivity of the subject by which it is possible for the subject’s own representative state to be affected in a particular way by the presence of some object.” Thought is “the faculty of the subject by which it has the power to represent things which cannot by their own quality come before the sense of that subject” (2:392). Thought implies an ability to experience representations of another type not involving the forms of sensibility — space, time, and causality. Spatio-temporal features are attached to all our perceptions and to our perceptual thoughts, but not to the concepts we entertain descriptively. We can *think of* things in themselves, and even of God, the soul, and other such entities, acknowledging their existence and even their powers, but we do not perceive them and we cannot represent them in sensuous form.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨的注释者沃尔夫与鲍姆嘉通更独断地宣告了灵魂中存在单一表象能力的理论，知觉与认识对应于它的低级与高级部分。正是这一观点，被康德呈现为与他自己的灵魂官能学说截然对立的东西。对康德而言，感性是“主体的接受性，凭借它，主体自身的表象状态能够因某个对象的存在而以特定方式被影响”。思想是“主体的官能，主体凭借它有能力表象那些凭其自身性质不能进入该主体感官的事物”（2:392）。思想意谓一种能力：经验不涉及感性形式——空间、时间与因果性——的另一类表象。时空特征附着于我们的一切知觉与知觉性思想，但不附着于我们以描述方式持有的概念。我们可以*想到*物自体，甚至想到上帝、灵魂与此类实体，承认其存在甚至其能力，但我们不知觉它们，也不能以感性形式表象它们。
+    step2: |-
+      莱布尼茨的注释者沃尔夫与鲍姆嘉通更独断地宣告：灵魂中存在单一表象能力，知觉与认识对应于其低级与高级部分。正是这一观点，被康德呈现为与他自己的灵魂官能学说截然对立。对康德而言，感性是“主体的接受性，凭借它，主体自身的表象状态能够因某个对象的存在而以特定方式被影响”；思想是“主体的官能，主体凭借它有能力表象那些凭其自身性质不能进入该主体感官的事物”（2:392）。思想意谓一种能力：经验不涉及感性形式（空间、时间、因果性）的另一类表象。时空特征附着于我们的一切知觉与知觉性思想，但不附着于我们以描述方式持有的概念。我们可以*想到*物自体，甚至上帝、灵魂与此类实体——承认其存在甚至其能力；但我们不知觉它们，也不能以感性形式表象它们。
   - id: 38
     kind: body
     source: |-
       In his late philosophy, Leibniz distinguished between “simple monads,” which despite their representational and appetitive faculties, merely experienced something like our swoons and dreamless sleeps; “souls,” belonging to animals with sensory organs that had awareness of an environment and desires; and “spirits,” who were able to grasp necessary truths and experience more complex appetitions such as desiring the good (G 6: 610–12). All monads, according to Leibniz, are confusedly omniscient (G 6: 604). Kant was scornful of what he regarded as transcendental reverie. The “slumbering monad” with its dim presentations, is, he complains, “not explained, but made-up” (2.277). The notion that the slumbering monads might awake to climb the ladder of awareness recalls, he said, “a kind of enchanted world” (20:285). However, Kant was favourably disposed, at least in his early years, towards Leibniz’s doctrine of confused omniscience, and he essentially accepts Leibniz’s conception of the mind as innately stocked with, as Leibniz expresses it, “inclinations, dispositions, tendencies or natural potentials” (A 52). In his early essay on *Negative Quantities*, Kant remarks “There is something great and I think, very correct in Leibniz’s notion that the soul embraces the entire universe with its representational powers, although only an infinitely small part of this representation is clear……Outer things can carry the condition of their presentation, but not the force to bring themselves into existence for us. The powers of thought of the soul must have real grounds…” (2.199). Though Kant later professed agnosticism as to whether perception and mentality in general were explicable mechanically, the emphasis on the active powers of the mind by contrast with the passivity of matter remains important in his theory of mind.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在其晚期哲学中，莱布尼茨区分了“单纯单子”——尽管有表象与欲求官能，却只经验类似我们的昏厥与无梦睡眠的东西；“灵魂”——属于具有感官器官、对环境有意识、有欲望的动物；以及“精灵”——能把握必然真理、经验更复杂的欲求（如欲求善）者（G 6: 610–12）。照莱布尼茨的说法，一切单子都混乱地全知（G 6: 604）。康德对他视为先验幻想的东西不屑一顾。“沉睡的单子”带着其暗昧的呈现，“不是被解释，而是被编造”，他抱怨道（2.277）。沉睡的单子或许会醒来攀登意识阶梯的观念，使他想起了“某种被施了魔法的世界”（20:285）。然而，至少在其早年，康德对莱布尼茨混乱全知的学说是有好感的，而且他基本上接受莱布尼茨关于心灵先天备有——照莱布尼茨的说法——“倾向、禀性、趋向或自然潜能”（A 52）的构想。在其早期论《负量》的文章中，康德评论道：“莱布尼茨的这一观念有某种伟大的、我认为非常正确的东西：灵魂以其表象能力拥抱整个宇宙，尽管这一表象只有无限小的部分是清晰的……外部事物可以携带其被呈现的条件，却不能携带使它们为我们而存在的力。灵魂的思想能力必须有实在的根据……”（2.199）。尽管康德后来宣称对知觉与一般心智是否可机械地解释持不可知态度，强调心灵的主动能力（与物质的被动性相对）在其心灵理论中始终保持重要。
+    step2: |-
+      在其晚期哲学中，莱布尼茨区分“单纯单子”（虽有表象与欲求官能，却只经验类似我们的昏厥与无梦睡眠的东西）、“灵魂”（属于有感觉器官、对环境有意识、有欲望的动物）与“精灵”（能把握必然真理、经验更复杂欲求——如欲求善——者）（G 6: 610–12）。照莱布尼茨的说法，一切单子都混乱地全知（G 6: 604）。康德对他视为先验幻想的东西不屑一顾：“沉睡的单子”带着暗昧的呈现，“不是被解释，而是被编造”，他抱怨道（2.277）；沉睡的单子或许会醒来攀登意识阶梯——这使他想起“某种被施了魔法的世界”（20:285）。然而至少在早年，康德对莱布尼茨的混乱全知学说是有好感的，且基本接受莱布尼茨的构想：心灵先天备有“倾向、禀性、趋向或自然潜能”（A 52）。在其早期论《负量》的文章中，康德评论：“莱布尼茨的这一观念有某种伟大的、我认为非常正确的东西：灵魂以其表象能力拥抱整个宇宙，尽管这一表象只有无限小的部分是清晰的……外部事物可以携带其被呈现的条件，却不能携带使它们为我们而存在的力。灵魂的思想能力必须有实在的根据……”（2.199）。尽管康德后来宣称对知觉与一般心智能否机械解释持不可知态度，强调心灵的主动能力（与物质的被动性相对）在其心灵理论中始终重要。
   - id: 39
     kind: body
     source: |-
       The distinction between perception and thought signaled Kant’s break with rationalist metaphysics but enabled him to deploy a divide-and-conquer strategy against dogmatic claims. By showing how each mode of apprehension involved certain necessary and distinct limitations on its employment, Kant was able to show that certain kinds of assertion in theology and metaphysics could not be genuine knowledge-claims. Perception was limited by the kinds of bodies we had and the manner in which we could be affected by external objects. We could not acquire scientific knowledge of the origins of the universe, or of our condition after death. Pure reason could not fill in details that were beyond all possible experience. The claims of metaphysics had to be synthetic, informative and not true by definition, yet *a priori* true. Arithmetic and geometry supplied synthetic *a priori* truths in abundance, and natural science supplied synthetic *a posteriori* truths, as well as exhibiting synthetic *a priori* propositions, such as the conservation of force.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      知觉与思想的区分标志着康德与理性主义形而上学的决裂，但使他能够对独断的主张运用分而治之的策略。通过表明每一种把握方式都涉及其运用的某些必然且不同的限制，康德能够表明：神学与形而上学中的某些断言不可能是真正的知识主张。知觉受到我们所拥有的身体种类、以及我们被外部对象影响的方式的限制。我们无法获得关于宇宙起源、或死后状况的科学知识。纯粹理性无法填补超出一切可能经验的细节。形而上学的主张必须是综合的、有内容的、不因定义为真，却又*先天*为真。算术与几何供应了大量的综合先天真理；自然科学供应综合后天真理，也表现出综合先天命题——如力的守恒。
+    step2: |-
+      知觉与思想的区分标志着康德与理性主义形而上学的决裂，但使他得以对独断主张分而治之：通过表明每一种把握方式都涉及其运用的必然且不同的限制，康德能够表明神学与形而上学中的某些断言不可能是真正的知识主张。知觉受我们所拥有的身体种类、我们被外部对象影响的方式限制。我们无法获得关于宇宙起源或死后状况的科学知识；纯粹理性无法填补超出一切可能经验的细节。形而上学的主张必须综合、有内容、不因定义为真，却又*先天*为真。算术与几何供应大量综合先天真理；自然科学供应综合后天真理，也表现出综合先天命题——如力的守恒。
   - id: 40
     kind: body
     source: |-
       Already in his prize essay of 1764, the *Investigation of the Intelligibility of the Fundamental Principles of Natural Theology and Morals*, Kant claimed that moral and theological principles were not capable of demonstration, since their terms, unlike mathematical terms, lacked precise definition. Geometrical concepts lend themselves to use in demonstrations because they are constructed and presented to intuition, which is impossible with respect to metaphysical concepts such as the soul. In the *Critique of Pure Reason*, he says: “If anyone were to pose the question to me: What is the constitution of a thing that thinks? then I do not know the least thing to answer *a priori*, because the answer ought to be synthetic…But for every synthetic solution, intuition is necessary; but this is entirely left out of so universal a problem” (KRV A 398). The *Prolegomena* returns to the question how metaphysics can, like natural science and mathematics, employ synthetic judgments when its concepts are not given in experience and are not constructed. Kant’s answer is that metaphysical judgments do not point to objects existing beyond all possible experience, but posit objects needed to “complete” our understanding, that is, to make our thinking systematic and untroubled by gaps and aporias. The soul is not a supersensible object of whose faculties and powers we can acquire knowledge but an idea that makes our practice of ascribing experiences to ourselves intelligible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早在其 1764 年的获奖论文《关于自然神学与道德的基本原理之可理解性的研究》中，康德就主张：道德与神学的原则不可能得到证明，因为它们的词项不同于数学词项，缺乏精确定义。几何概念适合用于证明，因为它们被构造并被呈现给直观；这对灵魂这类形而上学概念是不可能的。在《纯粹理性批判》中他说：“如果有人向我提出问题：一个思维着的东西的本性是怎样的？那么我*先天地*连最起码的东西也不知道可以回答，因为答案应当是综合的……但对每一个综合的解答，直观是必要的；而它在这如此普遍的问题中被完全抛在一边”（KRV A 398）。《导论》回到这一问题：形而上学的概念不在经验中被给予、也不被构造，它如何能像自然科学与数学那样运用综合判断？康德的回答是：形而上学判断并不指向存在于一切可能经验之外的对象，而是设定一些为“完成”我们的知性所需要的对象——即使我们的思维系统化、不被裂隙与难题困扰。灵魂不是一个我们能够获得关于其官能与能力的知识的超感性对象，而是一个理念——它使我们把经验归属于自己的实践变得可理解。
+    step2: |-
+      早在 1764 年的获奖论文《关于自然神学与道德的基本原理之可理解性的研究》中，康德就主张：道德与神学的原则不可能得到证明——它们的词项不同于数学词项，缺乏精确定义。几何概念适合用于证明，因为它们被构造并被呈现给直观；这对灵魂这类形而上学概念不可能。在《纯粹理性批判》中他说：“如果有人向我提出问题：一个思维着的东西的本性是怎样的？那么我*先天地*连最起码的东西也不知道可以回答，因为答案应当是综合的……但对每一个综合的解答，直观是必要的；而它在这如此普遍的问题中被完全抛在一边”（KRV A 398）。《导论》回到这一问题：形而上学的概念不在经验中被给予、也不被构造，它如何能像自然科学与数学那样运用综合判断？康德的回答：形而上学判断并不指向存在于一切可能经验之外的对象，而是设定一些为“完成”知性所需要的对象——即使思维系统化、不被裂隙与难题困扰。灵魂不是我们能获得其官能与能力之知识的超感性对象，而是一个理念：它使我们把经验归属于自己的实践变得可理解。
   - id: 41
     kind: body
     source: |-
       ## 7. Soul and Body
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 灵魂与身体
+    step2: |-
+      ## 7 灵魂与身体
   - id: 42
     kind: body
     source: |-
       For Leibniz, “I” am a substance, and my mind, as a “dominant monad,” rules over, or expresses more distinctly than they do,the subordinate monads composing my body. Thus all happenings in all parts of the body are felt distinctly or indistinctly, the sensory organs collect and concentrate the impressions of the external world, and the soul experiences them. Though commentators disagree over whether the referent of “I” is a corporeal substance — a soul-body composite — since Leibniz did not believe separated souls without organic bodies were possible — or, alternatively, a single dominant monad, an immaterial substance outside space and time, “I” assuredly named a thing that was indivisible and imperishable (G 6: 598–600). Kant eschews dogmatism both with respect to whether the soul is an immaterial substance and whether it is immortal. The use of the term “I” presupposes that my thoughts and perceptions are experienced as bound up together and as belonging to a single entity. Matter, with its properties of extension, impenetrability, etc., cannot be conceived as producing thought. But matter is only an appearance; whatever supersensible thing it is that gives rise to the appearance of matter, that thing may well be the same as whatever supersensible thing it is that gives rise to the experience of an experiencing self (KRV A 358f/B 428f).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对莱布尼茨而言，“我”是一个实体，而我的心灵作为一个“支配单子”，统治着构成我身体的诸从属单子，或比它们更清晰地表象着它们。因此身体各部分发生的一切都被清晰或不清晰地感到，感觉器官收集并集中外部世界的印象，而灵魂经验着它们。尽管注释者们对“我”的所指意见不一——是一个形体实体（灵魂-身体复合体），因为莱布尼茨不相信没有形体器官的分离灵魂是可能的；或者毋宁是一个单一的支配单子，一个空间与时间之外的非实体——“我”确定无疑地指称一个不可分且不可毁灭的东西（G 6: 598–600）。康德既回避关于灵魂是否是非物质实体的独断论，也回避其是否不朽的独断论。“我”一词的使用预设：我的思想与知觉被经验为结合在一起、属于一个单一的实体。物质——以其广延性、不可入性等属性——不能被设想为产生思想。但物质只是一个显象；无论引起物质显象的那个超感性之物是什么，它可能正是引起一个经验着自我的经验的那个超感性之物（KRV A 358f/B 428f）。
+    step2: |-
+      对莱布尼茨而言，“我”是一个实体；我的心灵作为“支配单子”，统治构成我身体的诸从属单子，或比它们更清晰地表象它们。因此身体各部分发生的一切都被清晰或不清晰地感到；感觉器官收集并集中外部世界的印象，灵魂经验着它们。注释者对“我”的所指意见不一——形体实体（灵魂-身体复合体；因莱布尼茨不相信没有形体器官的分离灵魂可能），或毋宁单一的支配单子（空间与时间之外的非物质实体）；但“我”确定无疑指称一个不可分且不可毁灭的东西（G 6: 598–600）。康德既回避灵魂是否非物质实体的独断论，也回避其是否不朽的独断论。“我”一词的使用预设：我的思想与知觉被经验为结合在一起、属于单一实体。物质——以其广延性、不可入性等属性——不能被设想为产生思想；但物质只是显象：无论引起物质显象的那个超感性之物是什么，它可能正是引起经验着自我之经验的那个超感性之物（KRV A 358f/B 428f）。
   - id: 43
     kind: body
     source: |-
       Leibniz’s theory of soul-body pre-established harmony set out in his *New System of the Nature and the Communication of Substances* of 1695 is not easy to reconcile with the interpretation of his monadology according to which what we call bodies are appearances in visual space founded upon spiritual substances lying underneath the spatio-temporal order. Yet the pre-established harmony was at least consistent with Leibniz’s claim that substances do not interact with one another and that what we call “causal interaction” does not involve a flow of power or force, but merely a regular sequence of changes in two observable things, in the case of mind and body, the experiences of perception and appetition and states of the sensory organs (G 4:76–7). Kant points to the tension between the theory of pre-established harmony and the monadology; “Why should one admit bodies, if it is possible that everything happens in the soul as a result of its own powers, which would run the same course even if entirely isolated?” (8:249).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨在其 1695 年《论实体的本性与交通的新系统》中提出的心身前定和谐理论，不容易与他的单子论的诠释——我们所谓的身体是奠基于时空秩序之下的精神实体的视觉空间中的显象——相调和。然而，前定和谐至少与莱布尼茨的主张一致：实体不彼此相互作用，我们所谓的“因果相互作用”不涉及力或力量的流动，而只是两个可观察事物——就心与身而言，知觉与欲求的经验和感觉器官的状态——的变化的有规则序列（G 4:76–7）。康德指出前定和谐理论与单子论之间的张力：“为什么要承认身体，如果一切都可能发生在灵魂中、作为其自身能力的结果——即使完全孤立，它也会走同样的进程？”（8:249）。
+    step2: |-
+      莱布尼茨 1695 年《论实体的本性与交通的新系统》提出的心身前定和谐理论，不容易与其单子论的诠释相调和——我们所谓的身体，是奠基于时空秩序之下的精神实体在视觉空间中的显象。然而前定和谐至少与莱布尼茨的主张一致：实体不彼此相互作用；我们所谓的“因果相互作用”不涉及力或力量的流动，只是两个可观察事物（就心与身而言：知觉与欲求的经验、感觉器官的状态）的变化的有规则序列（G 4:76–7）。康德指出前定和谐理论与单子论之间的张力：“为什么要承认身体，如果一切都可能发生在灵魂中、作为其自身能力的结果——即使完全孤立，它也会走同样的进程？”（8:249）。
   - id: 44
     kind: body
     source: |-
       Kant initially preferred “influx” theories of soul-body relations to the “parallelist” theories of occasionalism and pre-established harmony, but he eventually decided that dualism was incoherent. Already in the *Measurement of Living Forces*, he was grappling with the problem of the location of the soul and the nature of its action. Anatomists had long speculated that some region of the brain, e.g., the pineal gland (Descartes 1650) or the corpus callosum (Euler 1763), was the site of interaction between soul and body. For a time, Kant seems to have believed that souls were positioned in space and could act outside themselves and be acted upon by bodies. Later he became convinced that souls were not localized in space, though they could effect changes, deciding that that neither medicine nor metaphysics could illuminate the question. He denies that we can understand the entry of the soul into body at conception or its relation to the body throughout life, or its exit and separate existence after death. Because all our experience is experience of ourselves as living beings — when soul and body are bound together — we cannot know what a separated soul would experience. Leibniz compared existence after death to a deep sleep or a swoon, but to investigate these matters is, Kant says, like standing before a mirror with your eyes closed to see what you look like when you are asleep (20:309).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德起初喜欢灵魂-身体关系的“流入”理论胜于偶因论与前定和谐的“平行论”理论，但他最终认定二元论不融贯。早在《论活力的度量》中，他就在与灵魂的位置及其行动的性质问题搏斗。解剖学家们长期猜测脑的某个区域——如松果腺（笛卡尔 1650）或胼胝体（欧拉 1763）——是灵魂与身体相互作用的场所。有一段时间，康德似乎相信灵魂定位于空间中，能够作用于自身之外、并被身体作用。后来他确信灵魂不在空间中定位，尽管它们能引起变化；他判定医学与形而上学都不能阐明这一问题。他否认我们能够理解灵魂在受孕时进入身体、或其一生中与身体的关系、或其死后的离去与分离存在。因为我们的一切经验都是作为活的生命存在者的我们自己的经验——灵魂与身体结合在一起时——我们无法知道分离的灵魂会经验什么。莱布尼茨把死后的存在比作沉睡或昏厥；而研究这些问题，康德说，就像闭着眼睛站在镜子前，想看看自己睡着时是什么样子（20:309）。
+    step2: |-
+      康德起初喜欢灵魂-身体关系的“流入”理论胜于偶因论与前定和谐的“平行论”理论；但最终认定二元论不融贯。早在《论活力的度量》中，他就在与灵魂的位置及其行动性质的问题搏斗。解剖学家长期猜测脑的某个区域——松果腺（笛卡尔 1650）或胼胝体（欧拉 1763）——是灵魂与身体相互作用的场所。有一段时间，康德似乎相信灵魂定位于空间中，能作用于自身之外、也被身体作用；后来他确信灵魂不在空间中定位（尽管能引起变化），并判定医学与形而上学都不能阐明此问题。他否认我们能够理解灵魂在受孕时进入身体、一生中与身体的关系、死后的离去与分离存在。因为我们的一切经验都是作为活的生命存在者的我们自己的经验（灵魂与身体结合时），我们无法知道分离的灵魂会经验什么。莱布尼茨把死后存在比作沉睡或昏厥；而研究这些问题——康德说——就像闭着眼睛站在镜前，想看看自己睡着时是什么样子（20:309）。
   - id: 45
     kind: body
     source: |-
       ## 8. Freedom and Agency
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 8 自由与能动性
+    step2: |-
+      ## 8 自由与能动性
   - id: 46
     kind: body
     source: |-
       Leibniz believed that every phenomenon could be explained. His Principle of Sufficient Reason states that “nothing takes place without a sufficient reason; in other words,…nothing occurs for which it would be impossible for someone who has enough knowledge of things to give a reason adequate to determine why the thing is as it is and not otherwise.” Though not everything possible happens (and, therefore not everything that happens is necessary), everything that happens has a sufficient reason in an antecedent state of the world. God’s necessary existence is the only state of affairs that is caused and does not have a sufficient reason in an antecedent state. Not only does everything have a sufficient reason, but all phenomena and events, including celestial motions, the formation of plant and animal bodies, and the processes of life, are regulated by the laws of mechanics, as the movements of the hands are regulated in a watch (G 7:417–8).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨相信每一个现象都可以得到解释。他的充足理由律陈述道：“没有什么是不带着充足理由而发生的；换言之，……没有什么发生之事，是拥有关于事物的足够知识的人无法给出一个充分的理由、以决定该事物为何如此而非别样的。”虽然并非一切可能的事都发生（因此并非一切发生的事都是必然的），一切发生的事在一个先行的世界状态中都有其充足理由。上帝的必然存在是唯一一个被引起、却没有先行世界状态中的充足理由的事态。不仅一切都有充足理由，而且一切现象与事件——包括天体运动、动植物身体的形成、生命的过程——都受力学定律的调节，正如钟表的指针的运动被调节那样（G 7:417–8）。
+    step2: |-
+      莱布尼茨相信每一个现象都可解释。他的充足理由律陈述：“没有什么是不带着充足理由而发生的；换言之……没有什么发生之事，是拥有足够事物知识的人无法给出充分理由、以决定该事物为何如此而非别样的。”虽然并非一切可能的事都发生（因此并非一切发生的事都必然），一切发生的事在一个先行的世界状态中都有充足理由。上帝的必然存在是唯一被引起、却无先行世界状态中之充足理由的事态。不仅一切都有充足理由；一切现象与事件——天体运动、动植物身体的形成、生命的过程——都受力学定律调节，正如钟表指针的运动被调节那样（G 7:417–8）。
   - id: 47
     kind: body
     source: |-
       Leibniz’s Principle was incompatible with the existence of an open future and with free will. His followers recognized this aspect of his system, though his *Discourse on Metaphysics*, in which determinism is tied to his inclusion theory of predicate-subject relations remained unpublished until the twentieth century. Though Leibniz tried to avoid contradicting the theological dogma of free will outright, he denied that any creature could choose between alternatives to which it was indifferent, and he agreed with Locke that we are powerfully and necessarily motivated by disquiet and restlessness, which are, in Leibniz’s view, sometimes unconscious or subliminal (A 188f). My body is a machine in a wider mechanical system, and my thoughts and desires, including my “petites perceptions,” cannot but harmonize with or parallel states of that machine. “The organized mass in which the point of view of the soul is located, being expressed more immediately by it, [is] reciprocally ready to act on her account following the laws of the corporeal machine, at the moment when the soul wills it, without one disturbing the laws of other, the animal spirits and blood taking on, exactly the motions required to correspond to the passions and the perceptions of the soul” (G 4: 484). Yet, for Leibniz, the infinite complexity and uniqueness of any living machine make human actions unpredictable, and the truth of determinism is consistent with our experiences of self-control, self-management, and behavioural reform (A 195f). For a variety of reasons, Leibniz did not see determinism or mechanism as a threat to morality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨的原则与开放未来的存在、与自由意志不相容。他的追随者认识到了他的系统的这一方面，尽管他的《形而上学谈 диск urs》——其中决定论与他的谓词-主词关系的包含理论绑在一起——直到二十世纪才出版。虽然莱布尼茨试图避免正面抵触自由意志的神学教义，他否认任何被造物能在其漠不关心的诸选项之间做出选择；他同意洛克：我们被不安与躁动有力地、必然地推动着——照莱布尼茨的看法，它们有时是无意识的或潜意识的（A 188f）。我的身体是更大的机械系统中的机器，我的思想与欲望——包括我的“微知觉”——只能与那台机器的状态相和谐或平行。“灵魂的观点所在其中的有机团块，由于被它更直接地表现，［是］反过来随时准备为它而行动的，遵循形体机器的法则，在灵魂愿意的时刻，彼此互不干扰对方的法则——动物精神与血液恰好采取与灵魂的激情和知觉相应的运动”（G 4: 484）。然而对莱布尼茨而言，任何活的机器的无限复杂性与独特性使人的行动不可预测；决定论的真理与我们自我控制、自我管理、行为改造的经验是一致的（A 195f）。出于种种原因，莱布尼茨不认为决定论或机械论是对道德的威胁。
+    step2: |-
+      莱布尼茨的原则与开放的未来、与自由意志不相容。他的追随者认识到系统的这一方面，尽管他的《形而上学谈 disc urs》——其中决定论与谓词-主词关系的包含理论绑在一起——直到二十世纪才出版。虽然莱布尼茨试图避免正面抵触自由意志的神学教义，他否认任何被造物能在漠不关心的诸选项间选择；他同意洛克：我们被不安与躁动有力而必然地推动——照他的看法，它们有时是无意识的或潜意识的（A 188f）。我的身体是更大机械系统中的机器；我的思想与欲望——包括“微知觉”——只能与那台机器的状态相和谐或平行。“灵魂的观点所在其中的有机团块，由于被它更直接地表现，［是］反过来随时准备为它而行动的，遵循形体机器的法则，在灵魂愿意的时刻，彼此互不干扰对方的法则——动物精神与血液恰好采取与灵魂的激情和知觉相应的运动”（G 4: 484）。然而对莱布尼茨而言，任何活的机器的无限复杂性与独特性使人的行动不可预测；决定论的真理与自我控制、自我管理、行为改造的经验一致（A 195f）。出于种种原因，他不认为决定论或机械论是道德的威胁。
   - id: 48
     kind: body
     source: |-
       Kant did. His perception was facilitated by a series of attacks on Leibniz’s disciple Christian Wolff by theologians alarmed by what they saw as the horrific consequences of Sufficient Reason, attacks that led to Wolff’s banishment from the University at Halle. Leibniz’s “spiritual automaton,” moved by its presentations, has a freedom, Kant claims in his second critique, the *Critique of Practical Reason*, that is only “psychological and comparative.” If Leibniz is right, we have no more than a “freedom of the turnspit” (5: 97), wound up to run by itself. In that case, Kant thought, man is a “marionette” (5:101), and morality is but a figment of the imagination. To know that the moral law is not a figment and is genuinely binding, it might seem that we would have to know that we have the power to redirect the forces of nature. Of course we cannot know this, but, on the other hand, we cannot prove that no such power exists. [See the entry on Kant (Sect 5.2) and the entry on Kant’s moral philosophy (Sect. 10).]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德认为构成威胁。他的这一认识，得益于神学家们对莱布尼茨的追随者克里斯蒂安·沃尔夫的一系列攻击——他们对充足理由律的可怕后果感到惊恐；这些攻击导致沃尔夫被哈雷大学放逐。莱布尼茨的“精神自动机”被其呈现推动着，它拥有的自由——康德在其第二批判《实践理性批判》中主张——只是“心理学上的与比较上的”。如果莱布尼茨是对的，我们至多有“烤肉叉的自由”（5: 97）：上好发条自己转。康德认为，那样的话人就是一个“提线木偶”（5:101），而道德只是想象力的虚构。要知道道德律不是虚构、真正有约束力，似乎我们就得知道自己有改变自然之力的能力。我们当然不能知道这一点；但另一方面，我们也不能证明这种能力不存在。［见康德词条（5.2 节）与康德道德哲学词条（第 10 节）。]
+    step2: |-
+      康德认为构成威胁。他的这一认识，得益于神学家们对莱布尼茨追随者克里斯蒂安·沃尔夫的一系列攻击——他们惊恐于充足理由律的可怕后果；攻击导致沃尔夫被哈雷大学放逐。莱布尼茨的“精神自动机”被其呈现推动，它拥有的自由——康德在第二批判《实践理性批判》中主张——只是“心理学上的与比较上的”。如果莱布尼茨是对的，我们至多有“烤肉叉的自由”（5: 97）：上好发条自己转。康德认为，那样的话人就是“提线木偶”（5:101），道德只是想象力的虚构。要知道道德律不是虚构、真正有约束力，似乎我们就得知道自己有改变自然之力的能力。我们当然不能知道这一点；但另一方面，也不能证明这种能力不存在。［见康德词条（5.2 节）与康德道德哲学词条（第 10 节）。]
   - id: 49
     kind: body
     source: |-
       Reason presents compelling arguments for the inevitable nature of every event. Reason also presents compelling arguments that the human will can influence the course of nature (KRV A 445/B 473). The antinomy is dissolved, Kant now maintains, by recognizing that causal relations must structure outward phenomena. Our investigations of nature presuppose that they do, insofar as they are scientific. Human agency is not, however, an outward phenomenon, and the assumption of determinism is not required. We can view ourselves as machines, responding to the environment in predetermined ways. However, we are not compelled to do so, and we are able to regard ourselves as agents who initiate trains of events, and who can resist (not just experience resistance to) the desires, sensations, and impulses driving the bodily machine to certain actions. Since we can do so, Kant decides, we *should*: we need not in that case be driven to or fall into libertinage on the basis of speculative doctrine. What reason cannot settle theoretically, she can nevertheless decide on “practical” grounds, i.e., deciding to believe one thing rather than another to preserve satisfaction (by contrast with anxiety and despair), and to give support to our sense that morality is not a figment. We ought therefore to conceptualize our possession of free will as an exemption from the laws of nature; the power of “doing and forbearing.” (5: 95).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理性为每一事件的必然性质提出令人信服的论证。理性也为人的意志能够影响自然的进程提出令人信服的论证（KRV A 445/B 473）。这个二律背反，康德如今主张，通过认识到因果关系必须构造外向现象而消解。我们对自然的研究预设因果关系如此——就其是科学而言。然而，人的能动性不是外向现象，决定论的假定也不是必需的。我们可以把自己看作机器，以预定方式回应环境；但我们不被迫如此，而且我们能够把自己看作发起事件链条的行动者，能够抵抗（不只是经验对……的抵抗）驱动身体机器作出某些行动的欲望、感觉与冲动。既然我们能够这样做，康德断定我们就*应该*：在那种情形下，我们不必因思辨的学说而被驱入或堕入放荡。理性不能在理论上解决的，她仍可以在“实践的”基础上决定，即决定相信这个而非那个，以保持满足（与焦虑和绝望相对），并支持我们的这种感觉：道德不是虚构。因此我们应当把我们拥有自由意志构想为对自然法则的豁免；“做与不做的力量”（5: 95）。
+    step2: |-
+      理性为每一事件的必然性质提出令人信服的论证；也为人的意志能影响自然进程提出令人信服的论证（KRV A 445/B 473）。这个二律背反——康德如今主张——通过认识到因果关系必须构造外向现象而消解。我们对自然的研究预设因果如此（就其是科学而言）；然而人的能动性不是外向现象，决定论的假定并非必需。我们可以把自己看作机器，以预定方式回应环境；但我们不被迫如此，且能够把自己看作发起事件链条的行动者——能够抵抗（不只是经验对……的抵抗）驱动身体机器的欲望、感觉与冲动。既然能够，康德断定我们就*应该*：如此便不必因思辨学说被驱入或堕入放荡。理性不能在理论上解决的，她仍可在“实践的”基础上决定：决定相信这个而非那个，以保持满足（与焦虑和绝望相对），支持我们的感觉——道德不是虚构。因此我们应当把拥有自由意志构想为对自然法则的豁免：“做与不做的力量”（5: 95）。
   - id: 50
     kind: body
     source: |-
       ## 9. Mechanism and the Order of Nature
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 9 机械论与自然秩序
+    step2: |-
+      ## 9 机械论与自然秩序
   - id: 51
     kind: body
     source: |-
       Kant was perturbed by Hume’s criticisms of causal relations in nature, implying that there were no laws of nature for science to rely on, and by the antitheological application Hume made of his causal skepticism in the *Dialogues Concerning Natural Religion*. [See the entry on Kant and Hume on causality.] He sought a third way between the Leibnizian “dogmatic” assumption that the universe is a single mechanical system of deterministically interacting physical parts, designed and set going by God, and the empiricist assumption that causality corresponds to a human feeling of anticipation with respect to some sequence of ideas. For scientific purposes, Kant thought, we must represent inorganic nature to ourselves as just such a unified mechanical system. The resolve to represent it as such is facilitated (or perhaps dictated?) by our inability to experience a world unstructured by spatial, temporal, and causal relations. If Leibniz erred by ascribing to unknown noumena the properties of causal closure belonging to phenomena, Hume erred by being unaware of the inbuilt constraints on our representational capacity. But must we represent only inorganic nature — stones, stars, nebulae, planets, billiard balls — as a set of mechanically interacting mechanical systems, or earth’s plants and animals as well? Leibniz was fully committed to the Cartesian claim that plants and animals are machines, no different in principle from automata built from wood and metal parts; though, impressed by the detail revealed by the early microscope, he described them as infinitely complex machines, “machines in their smallest parts, into infinity” (G 6: 618), another indication of the divine origins of nature. Generation and growth were on his view, mechanical processes, for, according to the doctrine of preformation, which he shared with Malebranche, generation is just growth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      休谟对自然中因果关系的批评——暗示没有可供科学依赖的自然法则——以及休谟在《自然宗教对话录》中对其因果怀疑论的反神学运用，令康德不安。［见康德与休谟论因果关系词条。］他寻求一条第三道路，介于莱布尼茨式的“独断”假定（宇宙是由上帝设计并启动的、诸物理部分决定论地相互作用的单一机械系统）与经验主义的假定（因果性对应于人对观念序列的某种预期感受）之间。为了科学的目的，康德认为，我们必须向自己把无机自然表象为正是这样一个统一的机械系统。把它表象为如此的决心，被我们无法经验一个未经空间、时间与因果关系构造的世界所促成（或许是被规定了？）。如果莱布尼茨错在把属于现象的因果封闭性归于未知的本体，休谟则错在没有意识到我们表象能力的内在约束。但我们是否必须只把无机自然——石头、星辰、星云、行星、台球——表象为一套机械地相互作用的机械系统，还是地球的动植物也一样？莱布尼茨完全接受笛卡尔的主张：动植物是机器，与用木头和金属部件造出的自动机在原则上没有不同；不过，由于对早期显微镜所揭示的细节印象深刻，他把它们描述为无限复杂的机器——“在最小的部分中也直至无穷的机器”（G 6: 618）——这是自然之神圣起源的又一个标志。生成与生长在他看来是机械过程：因为按预成论（他与马勒伯朗士共有此说），生成就是生长。
+    step2: |-
+      休谟对自然中因果关系的批评（暗示没有可供科学依赖的自然法则），以及他在《自然宗教对话录》中对其因果怀疑论的反神学运用，令康德不安。［见康德与休谟论因果关系词条。］他寻求第三道路：介于莱布尼茨式“独断”假定（宇宙是上帝设计并启动的、诸物理部分决定论地相互作用的单一机械系统）与经验主义假定（因果性对应于人对观念序列的某种预期感受）之间。为科学的目的，康德认为，我们必须向自己把无机自然表象为正是这样一个统一的机械系统。把它表象为如此的决心，被我们无法经验一个未经空间、时间与因果关系构造的世界所促成（或许被规定？）。如果莱布尼茨错在把属于现象的因果封闭性归于未知的本体，休谟则错在没有意识到我们表象能力的内在约束。但我们是否必须只把无机自然——石头、星辰、星云、行星、台球——表象为一套机械相互作用的机械系统，还是地球的动植物也一样？莱布尼茨完全接受笛卡尔的主张：动植物是机器，与木头金属造的自动机在原则上无异；不过因早期显微镜揭示的细节，他把它们描述为无限复杂的机器——“在最小的部分中也直至无穷的机器”（G 6: 618）——自然之神圣起源的又一标志。生成与生长在他看来是机械过程：按预成论（与马勒伯朗士共有），生成就是生长。
   - id: 52
     kind: body
     source: |-
       Kant was not so sure. By the late 18ᵗʰ century, the theory of inorganic nature, thanks to Laplace, Black, Priestley, Franklin, and other chemists and electricians was flourishing, but so too was the study of physiology, embryology, and natural history, thanks especially to Bourguet, Boerhaave, Haller, and Buffon. Newtonian forces acting over a distance were no longer seen as incompatible with a commitment to mechanism, opening the door to the supposition of vital forces that might act in a lawlike fashion. Preformation was no longer a credible doctrine; the possibility of self-assembling “organic molecules,” working according to “organic mechanism,” was much discussed. Epigenesis reduced the need for a divine creator. Kant addresses the ensuing intellectual-theological crisis in the *Critique of Judgment*, a two-part essay dealing with beauty, beautiful forms in nature, and forms in nature generally. He tries to show that we are caught up in an antinomy. We are strongly disposed to view visible nature as a unity in which a single set of mechanical forces operates, not to divide it into an inorganic realm that came to be by the forces inherent in nature and an organic realm of plants and animals evidencing design and supernatural creation. Yet we cannot envision explaining generation or organic growth mechanistically. The solution to the dilemma is to adopt teleology as a regulative principle. We should not positively declare that organic beings could not have arisen and cannot reproduce themselves from the forces of nature, or that God must have a hand in their genesis; nevertheless, in investigating them, we look for the function and interrelation of parts, as though they were designed and built intelligently (5: 416ff). The claim that the parts of a living creature are organized *in infinitum* as Leibniz supposed is however, “something that cannot be thought at all.” (KRV A 526/B 554).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德不那么肯定。到十八世纪晚期，得益于拉普拉斯、布莱克、普里斯特利、富兰克林及其他化学家与电学家，无机自然的理论欣欣向荣；但生理学、胚胎学与自然志的研究同样欣欣向荣，这尤其要归功于布尔盖、布尔哈夫、哈勒与布丰。超距作用的牛顿力不再被看作与机械论的承诺不相容，这为假定可能以合乎法则的方式起作用的生命力打开了大门。预成论不再是一个可信的学说；按“有机机械”运作的自组装“有机分子”的可能性被广泛讨论。渐成说减少了对神圣创造者的需要。康德在《判断力批判》——一篇处理美、自然中的美的形式与自然中的一般形式的两部分文章——中处理随之而来的智识-神学危机。他试图表明我们陷入了一个二律背反。我们强烈地倾向于把可见的自然看作一个统一体，其中运作着单一的一组机械力；而不是把它分割为一个靠自然固有的力而产生的无机领域，与一个动植物的、显示设计与超自然创造的有机领域。然而我们无法设想以机械的方式解释生成或有机的生长。走出两难的办法，是采纳目的论作为一条调节性原则。我们不应正面宣告有机存在者不可能从自然之力中产生、不能自我繁殖，或上帝必得插手其起源；然而在研究它们时，我们寻找各部分的功能与相互关系，仿佛它们被智慧地设计与建造（5: 416ff）。但是，一个活物的各部分如莱布尼茨所设想的那样 *in infinitum*（无限）地被组织起来，这是“根本无法思考的东西”（KRV A 526/B 554）。
+    step2: |-
+      康德不那么肯定。到十八世纪晚期，得益于拉普拉斯、布莱克、普里斯特利、富兰克林及其他化学家与电学家，无机自然理论欣欣向荣；生理学、胚胎学与自然志的研究同样欣欣向荣——尤其归功于布尔盖、布尔哈夫、哈勒与布丰。超距作用的牛顿力不再被看作与机械论承诺不相容，为假定可能合乎法则地起作用的生命力打开了大门。预成论不再可信；按“有机机械”运作的自组装“有机分子”的可能性被广泛讨论。渐成说减少了对神圣创造者的需要。康德在《判断力批判》——处理美、自然中的美的形式与自然中的一般形式的两部分文章——中处理随之而来的智识-神学危机。他试图表明：我们陷入二律背反。我们强烈倾向于把可见的自然看作统一体，其中运作单一的一组机械力；而非分割成靠自然固有力产生的无机领域、与动植物的显示设计和超自然创造的有机领域。然而我们无法设想以机械方式解释生成或有机生长。走出两难的办法是采纳目的论为调节性原则：我们不应正面宣告有机存在者不可能从自然之力产生、不能自我繁殖，或上帝必得插手其起源；然而研究它们时，我们寻找各部分的功能与相互关系——仿佛它们被智慧地设计与建造（5: 416ff）。但一个活物的各部分如莱布尼茨设想的那样 *in infinitum*（无限）地被组织起来，是“根本无法思考的东西”（KRV A 526/B 554）。
   - id: 53
     kind: body
     source: |-
       Leibniz was often mistakenly credited in the 18ᵗʰ century with the view that organic nature contained no gaps, i.e., between any two different-looking organisms, another can be found. Though such a view might seem consistent with Leibniz’s Principle of Plenitude — that the universe is as full as possible — and his Law of Continuity — his denial that nature makes leaps (GM 6: 240) — it is inconsistent with his view that not everything possible exists, but only what is compossible with other existents, and Leibniz held no such view in any case. Kant describes the idea of perfect continuity in any case as mere intellectual prejudice, since observation of nature does not objectively support it. However, he allows the “law of the ladder of continuity among creatures” has regulative importance in natural history (KRV A 668/ B 696).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      十八世纪，莱布尼茨常被误认为持有如下观点：有机自然没有空隙，即在任何两个看起来不同的生物之间，还能找到另一个。虽然这样的观点似乎与莱布尼茨的充实原则——宇宙尽可能地满——及其连续性法则——他否认自然作飞跃（GM 6: 240）——一致，它却与他的这一观点不一致：并非一切可能的东西都存在，只有与其他存在者可共存的东西才存在；而且莱布尼茨无论如何都不持这种观点。康德无论如何都把完善连续性的观念描述为纯粹的理智偏见，因为对自然的观察并不客观地支持它。不过，他允许“造物之间连续阶梯的法则”在自然志中具有调节性的重要性（KRV A 668/ B 696）。
+    step2: |-
+      十八世纪，莱布尼茨常被误认为持有如下观点：有机自然没有空隙——在任何两个看起来不同的生物之间，还能找到另一个。虽然这看似与莱布尼茨的充实原则（宇宙尽可能地满）及连续性法则（他否认自然作飞跃，GM 6: 240）一致，它却与他的观点——并非一切可能的东西都存在，只有与其他存在者可共存者才存在——不一致；而且莱布尼茨无论如何不持这种观点。康德无论如何把完善连续性的观念描述为纯粹的理智偏见：对自然的观察不客观支持它。不过，他允许“造物之间连续阶梯的法则”在自然志中具有调节性的重要（KRV A 668/ B 696）。
   - id: 54
     kind: body
     source: |-
       ## 10. Theology and Theodicy
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 10 神学与神义论
+    step2: |-
+      ## 10 神学与神义论
   - id: 55
     kind: body
     source: |-
       Leibniz’s philosophy is theocratic. God is a king, and the world is his kingdom. Ours is the best of all possible worlds, with respect to variety, order, location, place, time, efficiency, and “the most power, knowledge, the greatest happiness and goodness in created things” (G 6: 603). For God can choose to realize any world he wishes, and it would be inconsistent with his goodness and power to realize a world that is not as good as possible. Our world metes out justice for all in the hereafter and is constantly improving. The “kingdom of nature,” in which everything happens for mechanical reasons, is at the same time, a “kingdom of grace” in which everything that happens exemplifies God’s wisdom and justice (G 6:622). Yet, though Leibniz maintained frequently that the order and regularity of nature hinted at or pointed to a divine creative hand, and suggested that the existence of anything at all implied the existence of a necessary being (G 4: 106), he produced only one actual argument for the existence of God. This was a version of Anselm’s ontological argument. Leibniz maintained that God’s existence could be deduced from the maximal concept of God as the sum of all perfections, only if it was first demonstrated that God was a possible, not an impossible object. Certain maximal concepts, such as “the greatest speed” are, he pointed out, fundamentally incoherent, and the term denotes nothing (G 4: 359–60). Leibniz saw nothing incoherent in the maximal notion of “the most perfect being” and concluded that God existed. It was unclear however, why, so long as God is possible, the Ontological Argument survives the familiar criticisms of Aquinas. The inference from possibility to necessity seems to depend less on the logic of concepts than on Leibniz’s esoteric idea that concepts, or possible objects, strive to come into existence with a tendency to exist proportional to their perfection (G 7:303).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨的哲学是神权政治论的。上帝是一个君王，世界是他的王国。我们的世界是在多样性、秩序、位置、地点、时间、效率、以及“被造物中最多的力、知识、最大的幸福与善”方面一切可能世界中最好的世界（G 6: 603）。因为上帝可以选择实现他所愿的任何世界，而实现一个不是尽可能好的世界，将与他的善与力量不一致。我们的世界在来世为所有人主持正义，并在不断改善。“自然王国”——其中一切因机械的理由而发生——同时也是一个“恩典王国”，其中发生的一切彰显上帝的智慧与正义（G 6:622）。然而，尽管莱布尼茨经常主张自然的秩序与规则性暗示或指向一只神圣的创造之手，并提出任何东西的存在都蕴涵一个必然存在者的存在（G 4: 106），他实际上只提出了一个关于上帝存在的论证。这是安瑟伦本体论论证的一个版本。莱布尼茨主张：上帝的存在可以从作为一切完善之总和的上帝的最大概念中演绎出来，但前提是首先证明上帝是一个可能的、而非不可能的对象。他 pointed out，某些最大概念，如“最大的速度”，根本不融贯，该词项无所指（G 4: 359–60）。莱布尼茨在“最完善的存在者”这一最大概念中看不到任何不融贯之处，于是断定上帝存在。然而不清楚的是：只要上帝是可能的，本体论论证为什么能经受住托马斯·阿奎那那些人所共知的批评。从可能到必然的推理，似乎更多依赖莱布尼茨的隐秘观念——概念或可能对象力求进入存在，其存在的倾向与其完善程度成正比（G 7:303）——而非概念的逻辑。
+    step2: |-
+      莱布尼茨的哲学是神权政治论的：上帝是君王，世界是他的王国。我们的世界在多样性、秩序、位置、地点、时间、效率、以及“被造物中最多的力、知识、最大的幸福与善”方面，是一切可能世界中最好的（G 6: 603）。因为上帝可选择实现所愿的任何世界，实现一个不是尽可能好的世界将与他的善和力量不一致。我们的世界在来世为所有人主持正义，并在不断改善。“自然王国”（其中一切因机械理由发生）同时是“恩典王国”（其中发生的一切彰显上帝的智慧与正义）（G 6:622）。然而，尽管莱布尼茨常主张自然的秩序与规则性暗示或指向神圣的创造之手，并提出任何东西的存在蕴涵必然存在者的存在（G 4: 106），他实际只提出了一个上帝存在的论证：安瑟伦本体论论证的版本。莱布尼茨主张：上帝的存在可以从作为一切完善之总和的上帝最大概念中演绎出来——但前提是首先证明上帝是可能的而非不可能的对象。他指出：某些最大概念（如“最大的速度”）根本不融贯，词项无所指（G 4: 359–60）。莱布尼茨在“最完善的存在者”这一最大概念中看不到不融贯之处，于是断定上帝存在。然而不清楚的是：只要上帝可能，本体论论证为何能经受住阿奎那们的熟知批评。从可能到必然的推理，似乎更多依赖莱布尼茨的隐秘观念——概念或可能对象力求进入存在，其存在的倾向与完善程度成正比（G 7:303）——而非概念的逻辑。
   - id: 56
     kind: body
     source: |-
       Kant criticized arguments for God’s existence (presumably brought to his attention through Wolff’s *Theologia Naturalis*) that departed from the premise that the concept of God is noncontradictory as fallacious hyperrationalism. The Leibnizian argument rested, he thought, on the uncritical notion that every noncontradictory concept was a possible thing (20:302), though it is unclear why he attacks this claim in particular. Kant did not think any rationalistic proofs for the existence of God actually worked, though, at least before the mauling it received at the hands of Hume, he considered the physico-theological argument the best available. He noted perceptively the arbitrariness of merging into one theological idea a creator and a judge. Without revelation, we might be drawn to the ideas of a creator God, but why would we suppose this same being to have the power of reward and punishment after death? Taking a page from Locke, Kant decided that, since the existence of God was unknowable, philosophical effort should be directed to the idea of God, especially the separate functions that the idea of God plays in regulating our moral conduct ( judge concept) and our mode of address to the problems of form and function in the organic realm (creator concept). The distinction between the realm of grace and the realm of nature, one standing under moral laws of reward and punishment, the other under natural laws, Kant describes as a “practically necessary idea of reason” (KRV A 812 f/B 840). We conceive the world both as a community of active spirits, willing and representing, and as an aggregate of objects in mechanical interplay and shift perspectives as needed.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德批评那些从“上帝概念无矛盾”这一前提出发的上帝存在论证（大概经由沃尔夫的《自然神学》引起他的注意），称之为谬误的越理性主义。莱布尼茨式的论证，他以为，依赖于一个未经批判的观念：每一个无矛盾的概念都是可能的事物（20:302）；不过他为什么偏偏攻击这一主张并不清楚。康德不认为任何理性主义的上帝存在证明真的有效，尽管至少在它遭受休谟的痛击之前，他认为物理神学的论证是可得的论证中最好的。他敏锐地注意到：把创造者与审判者合并为一个神学理念是任意的。没有启示，我们也许会被引向创造者上帝的观念；但为什么我们要假定这同一个存在者拥有死后奖惩的权力？借用洛克的一页，康德断定：既然上帝的存在不可知，哲学的努力应指向上帝的理念——尤其是上帝理念在调节我们的道德行为（审判者概念）与我们处理有机领域的形式与功能问题的方式（创造者概念）中所扮演的不同功能。恩典王国与自然王国的区分——一个立于奖惩的道德法则之下，另一个立于自然法则之下——康德描述为“实践上必要的理性理念”（KRV A 812 f/B 840）。我们既把世界构想为主动精灵的共同体——意愿着、表象着——也把它构想为机械相互作用的对象的聚集，并按需要转换视角。
+    step2: |-
+      康德批评那些从“上帝概念无矛盾”前提出发的上帝存在论证（大概经沃尔夫《自然神学》引起注意），称之为谬误的越理性主义。莱布尼茨式的论证——他以为——依赖一个未经批判的观念：每个无矛盾的概念都是可能的事物（20:302）；不过他为何偏偏攻击这一主张并不清楚。康德不认为任何理性主义的上帝存在证明真的有效；尽管至少在遭受休谟痛击之前，他认为物理神学论证是可得的论证中最好的。他敏锐地注意到：把创造者与审判者合并为一个神学理念是任意的。没有启示，我们也许会被引向创造者上帝的观念；但为什么假定这同一存在者拥有死后奖惩的权力？借用洛克的一页，康德断定：既然上帝的存在不可知，哲学的努力应指向上帝的理念——尤其上帝理念在调节道德行为（审判者概念）与处理有机领域形式与功能问题（创造者概念）中的不同功能。恩典王国与自然王国的区分（一个立于奖惩的道德法则之下，一个立于自然法则之下），康德描述为“实践上必要的理性理念”（KRV A 812 f/B 840）。我们既把世界构想为主动精灵的共同体（意愿着、表象着），也构想为机械相互作用的对象之聚集，并按需要转换视角。
   - id: 57
     kind: body
     source: |-
       Physical and increasingly moral evil were topics much discussed in the 18th century, and pessimism over the condition of the world, especially its violence and suffering, was understood to be a tempting yet in some ways deplorable option.. As befit a celebrated optimist, Leibniz had a sanguine view of human beings. Most of us, he appeared to think, are morally decent people, and evil men are best dealt with by good laws and effective legal institutions. A good education and some degree of censorship are also helpful. Posthumous divine retribution will take care of what human institutions cannot. Leibniz explained the appearance of evil in the world as consistent with God’s goodness in various ways. He claimed that evil derives from the portion of inertia or nullity present in all non-divine creation; that it is a necessary accompaniment of good, or a stimulus to action, that it is an illusion based on narrow or temporally limited experience (G 4: 120f, 196, 231). Moreover, the world has not declined since the Fall, but, on the contrary, the entire universe “takes part in a perpetual and most free progress, so that it is always advancing toward greater culture (cultivation)” (G 7: 308).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      物理的恶与日益增长的道德之恶是十八世纪热议的话题；对世界状况——尤其其暴力与苦难——的悲观主义，被理解为一种诱人却在某方面可叹的选项。作为一位著名的乐观主义者，莱布尼茨对人有乐观的看法。我们中的大多数人——他似乎认为——是道德上正派的人；恶人最好用好的法律与有效的法律制度来对付。良好的教育与某种程度的审查也有帮助。身后的神圣报应将料理人类制度料理不了的事。莱布尼茨以多种方式解释世界上恶的显现与上帝之善的一致：恶源于一切非神圣创造中固有的惰性或虚无的份额；恶是善的必要伴随，或行动的刺激；它是基于狭窄的或在时间上有限的经验的幻象（G 4: 120f, 196, 231）。此外，世界自堕落以来并没有衰败；相反，整个宇宙“参与一种永恒的、最自由的进步，以至它总是向更大的文化（教化）前进”（G 7: 308）。
+    step2: |-
+      物理的恶与日益增长的道德之恶是十八世纪热议的话题；对世界状况（尤其其暴力与苦难）的悲观主义，被理解为一种诱人却在某方面可叹的选项。作为著名的乐观主义者，莱布尼茨对人有乐观的看法：我们中的大多数人——他似乎认为——是道德上正派的人；恶人最好用好的法律与有效的法律制度对付；良好的教育与某种程度的审查也有帮助；身后的神圣报应将料理人类制度料理不了的事。莱布尼茨以多种方式解释世界上恶的显现与上帝之善的一致：恶源于一切非神圣创造中固有的惰性或虚无的份额；恶是善的必要伴随或行动的刺激；它是基于狭窄的、时间上有限的经验的幻象（G 4: 120f, 196, 231）。此外，世界自堕落以来并未衰败；相反，整个宇宙“参与一种永恒的、最自由的进步，以至它总是向更大的文化（教化）前进”（G 7: 308）。
   - id: 58
     kind: body
     source: |-
       Taken to ridiculous lengths by Wolff, Leibnizian optimism was targeted and satirized by Voltaire, who, however, took the problem of evil seriously. Kant as well was little inclined to make fun of evil and suffering, and he viewed liberation from theology as a precondition of better morals and politics. There are both optimistic and pessimistic strains in his philosophy. In his pre-critical writings, the *Nova Dilucidatio* and the *Essay on Some Considerations on Optimism*, he seemed inclined towards the best of all possible worlds position, but in his critical period he denied that cosmic justice is an item of knowledge. The conviction that moral goodness not only deserves reward but is rewarded is nevertheless an article of faith and hope that sustains morality.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      被沃尔夫推向荒谬的极端，莱布尼茨式的乐观主义被伏尔泰瞄准并讽刺——不过伏尔泰认真对待恶的问题。康德同样不倾向于取笑恶与苦难；他把从神学中解放视为更好的道德与政治的前提。他的哲学中有乐观与悲观两种张力。在其前批判著作《新阐明》与《论乐观主义的某些考虑》中，他似乎倾向于一切可能世界中最好的世界这一立场；但在批判时期，他否认宇宙的正义是一项知识。然而，道德之善不仅应得回报而且会得到回报——这一信念是支撑道德的信仰与希望的信条。
+    step2: |-
+      被沃尔夫推向荒谬的极端，莱布尼茨式乐观主义被伏尔泰瞄准并讽刺——不过伏尔泰认真对待恶的问题。康德同样不倾向取笑恶与苦难；他把从神学中解放视为更好的道德与政治的前提。他的哲学中兼有乐观与悲观两种张力。前批判著作《新阐明》与《论乐观主义的某些考虑》中，他似乎倾向一切可能世界中最好的世界这一立场；但批判时期，他否认宇宙的正义是一项知识。然而道德之善不仅应得回报、而且会得到回报——这一信念是支撑道德的信仰与希望的信条。
   - id: 59
     kind: body
     source: |-
       ## 11. Ethics and Politics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 11 伦理学与政治
+    step2: |-
+      ## 11 伦理学与政治
   - id: 60
     kind: body
     source: |-
       Kant’s ethics and political theory overlap with but also depart from Leibniz’s. Leibniz argued that justice requires not only that one forebear from harming others or giving them cause for complaint; justice also requires helping them by seeking their good and preventing evil when doing so is not too difficult. (Riley ed. 53–5). He suggested a variety of social improvements and measures for the remediation of poverty and anticipated the universalist formulations of Kant’s maxim-test from the *Groundwork*. “Put yourself in the place of another, and you will have the true point of view for judging what is just or not.” Although it is ‘impossible to act so that the whole world is content,’ the affected ones can be made as content as possible (Riley ed. 56–7). Kant’s ethics by contrast does not make the enhancement of welfare or the avoidance of harm criteria of moral goodness or rectitude, though some commentators would insist that his universalization test implicitly depends on such criteria. He acknowledges a traditional duty to benevolence but gives no socio-political examples of welfare policies and shows himself distinctly sceptical about what he considered exaggerated, tender-hearted utilitarianism (25:504–5).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      康德的伦理学与政治理论与莱布尼茨的有所重叠，但也有所偏离。莱布尼茨论证：正义不仅要求一个人克制不伤害他人或不给他们抱怨的理由；正义还要求帮助他们——寻求他们的善，并在这样做不太困难时防止恶（Riley ed. 53–5）。他提出了各种社会改进与缓解贫困的措施，并预见了康德在《奠基》中准则检验的普遍主义表述：“把自己放在他人的位置上，你就会有判断什么是正义、什么不是的真正观点。”尽管“使全世界都满意”地行动是不可能的，受影响的人可以被弄得尽可能满意（Riley ed. 56–7）。康德的伦理学与此相反，不把福祉的增进或伤害的避免作为道德善或正当的判准，尽管一些评论者会坚持认为他的普遍化检验隐含地依赖这类判准。他承认对仁爱的传统义务，却不给福利政策提供社会-政治的例子，并且对他认为夸张的、软心肠的功利主义表现出明显怀疑（25:504–5）。
+    step2: |-
+      康德的伦理学与政治理论和莱布尼茨的有所重叠，也有偏离。莱布尼茨论证：正义不仅要求克制不伤害他人或不给人抱怨的理由；还要求帮助他们——寻求他们的善，并在不太困难时防止恶（Riley ed. 53–5）。他提出各种社会改进与缓解贫困的措施，并预见康德《奠基》准则检验的普遍主义表述：“把自己放在他人的位置上，你就会有判断什么是正义的真正观点。”尽管“使全世界都满意”地行动不可能，受影响的人可以被弄得尽可能满意（Riley ed. 56–7）。康德的伦理学与此相反：不把福祉的增进或伤害的避免作为道德善或正当的判准——尽管一些评论者会坚持：他的普遍化检验隐含依赖这类判准。他承认对仁爱的传统义务，却不给福利政策提供社会-政治的例子，并对他认为夸张的、软心肠的功利主义明显怀疑（25:504–5）。
   - id: 61
     kind: body
     source: |-
       Leibniz considered some forms of slavery just, insofar as some humans were similar to dumb, ineducable animals, and because slavery is contingent and temporary because life is eternal (Riley, 78). Kant insisted on a sharper animal-human divide, was not sure about immortality, but he considered only the enslavement of criminals just (6: 332–3). American aboriginals and Africans are also described as ‘fit only to be slaves’ (XV:181). The inferior races would die out or be exterminated ( (XV: 878). White, male, Christian Europeans could, he hoped, in time bring civilization to the entire world. Leibniz’s early views were no more savoury; ‘barbarians,’ whom he considered ‘beasts’ (see Perkins, 111), could be destroyed in order to civilize them. Leibniz’s racism reflects the snobbery of the courtier, which is at any rate courteous to women, while the Kantian tendency to pathologize the other flowed rather from an excess of moral fervour and his vigorous antifeminism. True to his rejection of the Principle of Contradiction, Kant saw the human soul as the battleground of animalistic instincts vs. moral duties. Self-indulgence, credulity, and indolence, which were unfortunately built into the character of women and nonEuropeans were to be combated by moral rectitude, education and critique, and industry.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨认为某些形式的奴隶制是正义的，因为有些人类似哑的、不可教育的动物，且因为生命是永恒的，奴隶制是偶然的和暂时的（Riley, 78）。康德坚持更尖锐的动物-人类分界，对不朽并不确定，但他认为只有对罪犯的奴役是正义的（6: 332–3）。美洲原住民与非洲人也被描述为“只配做奴隶”（XV:181）。劣等种族将消亡或被灭绝（(XV: 878)。白人、男性、基督教的欧洲人——他希望——能够及时把文明带给整个世界。莱布尼茨早年的观点也并不更体面；“野蛮人”——他认为他们是“野兽”（见 Perkins, 111）——可以被消灭，以便教化他们。莱布尼茨的种族主义反映廷臣的势利——那种对女性至少保持礼貌的势利；而康德把他者病理化的倾向，则更多源于过度的道德热情与他强烈的反女性主义。忠实于他对矛盾律的拒斥，康德把人的灵魂看作动物性本能与道德义务交战的战场。自我放纵、轻信与怠惰——不幸地内置于女性与非欧洲人的性格之中——要用道德正直、教育与批判、以及勤勉来对抗。
+    step2: |-
+      莱布尼茨认为某些形式的奴隶制是正义的：因为有些人类似哑的、不可教育的动物，且因为生命永恒、奴隶制只是偶然的和暂时的（Riley, 78）。康德坚持更尖锐的动物-人类分界，对不朽并不确定，但他认为只有对罪犯的奴役是正义的（6: 332–3）。美洲原住民与非洲人也被描述为“只配做奴隶”（XV:181）；劣等种族将消亡或被灭绝（XV: 878）。白人、男性、基督教的欧洲人——他希望——能及时把文明带给整个世界。莱布尼茨早年的观点也并不更体面：“野蛮人”——他认为他们是“野兽”（见 Perkins, 111）——可以被消灭，以便教化他们。莱布尼茨的种族主义反映廷臣的势利（那种至少对女性礼貌的势利）；康德把他者病理化的倾向，则更多源于过度的道德热情与强烈的反女性主义。忠实于他对矛盾律的拒斥，康德把人的灵魂看作动物性本能与道德义务交战的战场：自我放纵、轻信与怠惰——不幸内置于女性与非欧洲人的性格之中——要用道德正直、教育与批判、勤勉来对抗。
   - id: 62
     kind: body
     source: |-
       Yet the deprivations that had to be endured by a person of strong moral fibre exercising a good will were, Kant recognized, real deprivations. If the struggle for self-mastery and self-improvement that he urged on his readers was not to seem, and indeed to be a pointless exercise, then knowledge, as he expressed it in the Preface to the second edition of the *Critique of Pure Reason*, had to be denied in order to make room for faith (B xxx). Alarmed by colonial depredations, Kant nevertheless saw social and geopolitical conflict as necessary, at least until his second thoughts in his 1795 essay on ‘Perpetual Peace’. Like Leibniz, he tried to find redeeming aspects to group aggression and interracial conflict as preconditions of pacification, civilization, and progress. His own concept of development, of the unfolding of latent potentials, is central to his anthropology and his philosophy of history. Development was, however, as much of a duty as an inevitability. He accepted Leibniz’s teleology of history: “We should be content with providence and with the course of human affairs as a whole, which does not begin with good and then proceed to evil, but develops gradually from worse to better…” (8:123). In his 1795 work, he arrived at the view that warfare was a scourge that would eliminate itself when exhausted and enlightened people would finally refuse to finance the rivalries and glory of princes. Leibniz, too, even more dependent than Kant on the favour of rulers, seems to have abandoned his earlier militarism in old age (see Wilson).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，一个具有坚强道德品格的人行使善良意志所必须忍受的匮乏，康德认识到，是真实的匮乏。如果他向读者鼓吹的自我掌控与自我改进的斗争显得——而且确实——是一场无意义的操练，那么正如他在《纯粹理性批判》第二版序言中所表达的，就必须扬弃知识，以便为信仰留出位置（B xxx）。康德为殖民劫掠而惊心，但他仍把社会与地缘政治的冲突视为必要的——至少直到他在 1795 年《论永久和平》中的重新思考为止。像莱布尼茨一样，他试图为群体侵略与种族冲突找到救赎性的方面，把它们作为和平、文明与进步的前提条件。他自己的发展概念、潜在潜能的展开概念，是人类学与历史哲学的核心。然而，发展既是必然，也同样是一种义务。他接受了莱布尼茨的历史目的论：“我们应当满足于天道与人类事务的整体进程，它不是从善开始然后走向恶，而是从更坏逐渐发展为更好……”（8:123）。在 1795 年的著作中，他得出如下观点：战争是一种祸害，当疲惫而开明的人们最终拒绝为诸侯的争斗与荣耀买单时，它将自行消除。莱布尼茨比康德更依赖君主的恩宠，他似乎也在晚年放弃了自己早年的军国主义（见 Wilson）。
+    step2: |-
+      然而，一个具有坚强道德品格的人行使善良意志所必须忍受的匮乏，康德认识到，是真实的匮乏。如果他向读者鼓吹的自我掌控与自我改进的斗争显得——而且确实——无意义，那么正如他在《纯粹理性批判》第二版序言所表达的：必须扬弃知识，以便为信仰留出位置（B xxx）。康德为殖民劫掠惊心，但仍把社会与地缘政治冲突视为必要的——至少直到他在 1795 年《论永久和平》中的重新思考为止。像莱布尼茨一样，他试图为群体侵略与种族冲突找到救赎性方面，把它们作为和平、文明与进步的前提。他自己的发展概念——潜在潜能的展开——是人类学与历史哲学的核心；然而发展既是必然，也是义务。他接受莱布尼茨的历史目的论：“我们应当满足于天道与人类事务的整体进程，它不是从善开始然后走向恶，而是从更坏逐渐发展为更好……”（8:123）。在 1795 年的著作中，他得出观点：战争是一种祸害，当疲惫而开明的人们最终拒绝为诸侯的争斗与荣耀买单时，它将自行消除。莱布尼茨比康德更依赖君主恩宠，似乎也在晚年放弃了早年的军国主义（见 Wilson）。
   - id: 63
     kind: body
     source: |-
       For Kant, philosophy is a stern discipline frequently calling for graceless prose. After publishing several floridly written popular works, and after acquiring his knowledge of physics through such accessible expositions as Bernard Fontenelle’s *Dialogues on the Plurality of Worlds* (1696), Emilie du Chatelet’s *Institutions of Physics*(1740), and Euler’s *Letters to a German Princess* (1768–72) (7:229–30), Kant traded literary charm for technicality, rigor, and repetition, especially in the first two *Critiques*. The enchanting views of the *Monadology* which Leibniz himself may have regarded as a jeu d’esprit were antithetical to philosophy’s true purpose. Yet Kant finally aestheticizes Leibniz, claiming that he meant only to express a view of the world that is true in its own way. The history of philosophy, Kant suggests, is not to be assessed in terms of right and wrong doctrines. To accuse Leibniz or Plato of errors is to take them as authorities, as one takes Cicero as the standard for Latin, and this is a confusion; for “there are no classical authors in Philosophy” (8: 218).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对康德而言，哲学是一门严厉的学科，常常要求毫无文采的散文。在出版了几部文笔华美的通俗著作之后，在通过伯纳德·丰特奈尔《论的众多世界对话》（1696）、艾米莉·杜夏特莱《物理学基础》（1740）与欧拉《致一位德国公主的信》（1768–72）这样平易的阐述获得物理学知识之后（7:229–30），康德以技术性、严格性与重复性交换文学的魅力，尤其在前两部《批判》中。《单子论》那些迷人的观点——莱布尼茨本人可能视为智力游戏——与哲学的真正目的背道而驰。然而康德最终把莱布尼茨审美化了，声称他只是想表达一种以自己的方式为真的世界观。哲学史，康德提示，不应按对错学说来评估。指责莱布尼茨或柏拉图有错误，是把他们当作权威，如同把西塞罗当作拉丁语的标准；这是一种混淆，因为“哲学中没有经典作家”（8: 218）。
+    step2: |-
+      对康德而言，哲学是一门严厉的学科，常常要求毫无文采的散文。在出版几部文笔华美的通俗著作之后，在通过伯纳德·丰特奈尔《论的众多世界对话》（1696）、艾米莉·杜夏特莱《物理学基础》（1740）、欧拉《致一位德国公主的信》（1768–72）这样平易的阐述获得物理学知识之后（7:229–30），康德以技术性、严格性与重复性交换文学的魅力——尤其在前两部《批判》中。《单子论》那些迷人的观点（莱布尼茨本人可能视之为智力游戏）与哲学的真正目的背道而驰。然而康德最终把莱布尼茨审美化了，声称他只想表达一种以自己的方式为真的世界观。哲学史，康德提示，不应按对错学说评估：指责莱布尼茨或柏拉图有错误，是把他们当作权威——如同把西塞罗当作拉丁语的标准；这是混淆，因为“哲学中没有经典作家”（8: 218）。
   - id: 64
     kind: oir
     source: |-
@@ -392,5 +512,13 @@ segments:
       - [Kant on the Web](http://www.hkbu.edu.hk/~ppp/Kant.html), maintained by Dr. Stephen Palmquist, Hong Kong Baptist University.
       - [Immanuel Kant](http://en.wikipedia.org/wiki/Immanuel_Kant), from Wikipedia, the free encyclopedia.
       - [North American Kant Society](https://northamericankantsociety.org/).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - [伊曼努尔·康德](http://www.gutenberg.org/browse/authors/k#a1426)，古腾堡计划。
+      - [网络上的康德](http://www.hkbu.edu.hk/~ppp/Kant.html)，Stephen Palmquist 博士维护，香港浸会大学。
+      - [伊曼努尔·康德](http://en.wikipedia.org/wiki/Immanuel_Kant)，自由百科全书维基百科。
+      - [北美康德学会](https://northamericankantsociety.org/)。
+    step2: |-
+      - [伊曼努尔·康德](http://www.gutenberg.org/browse/authors/k#a1426)，古腾堡计划。
+      - [网络上的康德](http://www.hkbu.edu.hk/~ppp/Kant.html)，Stephen Palmquist 博士维护，香港浸会大学。
+      - [伊曼努尔·康德](http://en.wikipedia.org/wiki/Immanuel_Kant)，自由百科全书维基百科。
+      - [北美康德学会](https://northamericankantsociety.org/)。

@@ -186,6 +186,6 @@
 
 ## 相关词条
 
-identity: of indiscernibles | 伊曼努尔·康德 | Kant, Immanuel: philosophy of science | Kant, Immanuel: views on space and time | 戈特弗里德·威廉·莱布尼茨 | Leibniz, Gottfried Wilhelm: philosophy of physics
+不可分者同一性原理 | 伊曼努尔·康德 | 康德的科学哲学 | 康德对空间和时间的观点 | 戈特弗里德·威廉·莱布尼茨 | 莱布尼茨的物理哲学
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
