@@ -453,10 +453,8 @@
 | Galileo Galilei | 伽利略 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
 | Joseph Priestley | 约瑟夫·普里斯特利 | reasoning-analogy | 学界通行汉译（化学家） | 2026-11-05 |
 | Mary Hesse | 玛丽·赫西 | reasoning-analogy | 学界通行汉译（科学哲学家） | 2026-11-05 |
-| Carl Hempel | 卡尔·亨佩尔 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
 | Bas van Fraassen | 范·弗拉森 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
 | Douglas Hofstadter | 侯世达 | reasoning-analogy | 学界通行汉译（《哥德尔、艾舍尔、巴赫》作者） | 2026-11-05 |
-| George Pólya | 波利亚 | reasoning-analogy | 学界通行汉译（《怎样解题》作者） | 2026-11-05 |
 | Roy Harrod | 哈罗德 | reasoning-analogy | 学界通行汉译（经济学家） | 2026-11-05 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
