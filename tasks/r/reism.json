@@ -1,85 +1,92 @@
 {
-  "slug": "reism",
-  "kind": "retranslate",
-  "zh_doc": "r/reism.md",
-  "state": "done",
-  "steps": [
-    {
-      "step": "direction",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T20:24:48Z",
-      "evidence": "方向声明（rules/08）：r 批第 2 件 reism（批次内次小件，同款管线复跑）。目标：六道全过同验收判据；非目标同首件。"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-03T20:24:48Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T20:47:45Z",
-      "evidence": "draft（ADR-0021 账本协议，主会话直译双版）：lq.py init 64 段（body=63+oir=1，biblio 30 条照录含 A/B 小节标题）→script/build_reism.py 填 step1/step2→前置自检：守恒 HARD=0，软标旗 2 处计划内脱斜体（段1 Stoics/Leibniz/Brentano/华沙学派、段58 Tarski 译中文后按 italic-cjk 规则去斜体；* 计数差=软标旗与 lq 语义对齐）→compose 写回 11819 字符→rz_postfix 补 H1 空行+相关词条 5/5 对齐（本轮修强 rz_postfix：相关词条行改从 yuanwen 源重导出，规避 lq summary_index 被 SUMMARY 别名行覆盖的污染；SEP 子词条 Parent: child 前缀剥离匹配）。术语登记 14 条（reism=事物论 用 SUMMARY 既定名；pansomatism=泛躯体主义/onomatoid=似名称 构词直译留拉丁；mereology=分体论 SUMMARY 既定），人名 3 条（布伦塔诺/莱斯涅夫斯基语料回收，塔尔斯基册内既定；Kotarbiński/Twardowski 无权威通行汉名保留英文）"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T20:51:06Z",
-      "evidence": "s1 一校（MTPE 顺序，账本为对照底逐段核销）：①幻觉/漏译/增译——64 段数字多集合比对：唯一差异段19「19ᵗʰ century→十九世纪末」为语料惯例换算（kokugaku 同例「十八、十九世纪」），人工判读通过；脚注键闭环：正文唯一引用 woleński-1996 ↔ biblio 定义区 30 条（含非 ASCII 键 kotarbiński/janoušek/körner/woleński×5），biblio 节定义无正文引用系现制形态（check_academic 豁免，richard-sophister 21 条同例）；②术语漂移——登记册补落后项：正文段16 落地「非范畴词/伴语义词」括注（账本+成稿同步重建，守恒 HARD=0），entia rationis 登记释义对齐正文用词「思想对象」，删本会话误加的重复 physicalism 行（并行会话先已登记 319 行，保留先登行）；③check_terms 硬错误 6→0：5 个登记册↔词汇表冲突按「修弱势方」对齐（Tarski/Telesio/Brentano/Vives/Valla，Brentano 采 SUMMARY 既定形弗朗兹并留「学界亦作弗朗茨」备注，Valla 随现行登记册劳伦佐——方向与我早前修正相反，并行会话已改判登记册，随现行）"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T20:54:31Z",
-      "evidence": "s2 二校（Fluency/Style）：check_prose 13 条告警逐条人工修改归零——de-chain×9（含 seg1/15/28/40/49/56/58/60 的「的」链重排，seg54 被动句 2「被」改「由…指称」）、long-sentence×2（seg16 71 字分号拆句、seg56 79 字句号拆句）、weak-verb×1（seg24「加以补充」→「补充」）；两处修正落点勘误（seg15 首次替换命中 step1、seg28 破折号间隙仍<12 字，二轮精修）；step1 忠实底未动；脱稿通读全稿无阻涩"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T20:57:42Z",
-      "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue（修 3 类：italic-cjk *经由*→去斜体中文、cjk-spacing Kotarbiński把→加空格——跨行字符串两轮定位）；markdownlint 0 issue（修 MD004：公理列表 - → * 对齐配置 asterisk）；check_academic --strict 0 硬错误；check_math 0 missing/unbalanced；check_prose 0；check_terms 定点 0 缺译、硬错误 0（承接 s1 轮冲突清理）"
-    },
-    {
-      "step": "r1",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T20:58:24Z",
-      "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：64 段逐句回读 yuanwen 镜像，重点核公式块 (1)-(12)/(R1)-(R3)/(RO) 与正文衔接、LO 三公理逻辑、以及源文「(as defined by (R2)...)」疑似笔误处按零信任照录未改；结构完整性按源节集合验收（导语+4 编号节+参考文献 A/B 小节+学术工具+其他网络资源+相关词条，无脚注节——源无注）；发现 0 问题。复核独立性：r2=独立 agent（进行中），r3 终审前冷置（richard-sophister r3 介于其间）"
-    },
-    {
-      "step": "r2",
-      "status": "ok",
-      "actor": "RZ-main-20261104+r2独立复核agent",
-      "at": "2026-11-03T21:09:23Z",
-      "evidence": "r2 复审（逐句回核原文与逻辑，ADR-0020 复核独立性：初译外独立 agent 执行，输出 4 处 Minor、0 Critical/Major，全部采纳）：①seg40 指控落点——「认为其根源正是承认…」的「其」回指错位（s2 de-chain 改写引入），改为「指控一切类型的柏拉图主义是种种无望问题与讨论的根源——这些问题与讨论源于承认…存在」显豁化；②seg40 etc. 漏译补「及其种类等的无谓思辨」；③seg60 错字「这行行列」→「这一行列」；④seg19 人名「W. 冯特」→「威廉·冯特」（人名表既定形全形，ADR-0012）。修正后守恒 HARD=0、prose 0、style 0、academic 0 硬错误、lint 0。复核员专项核对全过：16 编号块、LO 三公理、biblio 30 条逐字符 diff 一致、pubinfo/H1/相关词条 5 项既定名一致；另确认学术工具三行系项目现制（PDF 预览行统一省略，与 rules/07 不冲突）"
-    },
-    {
-      "step": "r3",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T21:10:44Z",
-      "evidence": "r3 终审（终稿验收，冷置后回读）：r2 四处修正落点复核无残留（指控落点显豁化 L83/补等 L83/这一行列 L125/威廉·冯特 L41）；结构完整性终验——导语+4 编号节+参考文献（A/B 小节+30 定义）+学术工具+其他网络资源+相关词条齐备有序（源无注故无脚注节）；定点六检全绿：prose 0/style 0/academic 0 硬错误/math 0 缺失/markdownlint 0/check_terms 0 硬错误；全库 check_all 存量红同前（他人会话在途词条，非本词条引入）；CI 于 push 后为最终裁判。冷置说明：r2 之后完成 reasoning-analogy 任务立项+账本骨架（dac2d8b6）方回读本词条终读"
-    },
-    {
-      "step": "done",
-      "status": "ok",
-      "actor": "RZ-main-20261104",
-      "at": "2026-11-03T21:10:45Z",
-      "evidence": "done：六道全过，reism 为 RZ 会话第 2 个收口件（r 批 done=2/85）"
-    }
-  ],
-  "blockers": [],
-  "created_at": "2026-11-03T20:24:47Z",
-  "version_pin": {
-    "pubinfo_date": "Apr 10, 2020",
-    "archive_edition": "Spring 2022",
-    "sha256": "3783d7cf77ad93bfa8fd02acc36250db1ba83c37065c258edb7fdb86d48afd63"
+ "slug": "reism",
+ "kind": "retranslate",
+ "zh_doc": "r/reism.md",
+ "state": "done",
+ "steps": [
+  {
+   "step": "direction",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T20:24:48Z",
+   "evidence": "方向声明（rules/08）：r 批第 2 件 reism（批次内次小件，同款管线复跑）。目标：六道全过同验收判据；非目标同首件。"
+  },
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-03T20:24:48Z",
+   "evidence": "baseline gate: hash_ok"
+  },
+  {
+   "step": "draft",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T20:47:45Z",
+   "evidence": "draft（ADR-0021 账本协议，主会话直译双版）：lq.py init 64 段（body=63+oir=1，biblio 30 条照录含 A/B 小节标题）→script/build_reism.py 填 step1/step2→前置自检：守恒 HARD=0，软标旗 2 处计划内脱斜体（段1 Stoics/Leibniz/Brentano/华沙学派、段58 Tarski 译中文后按 italic-cjk 规则去斜体；* 计数差=软标旗与 lq 语义对齐）→compose 写回 11819 字符→rz_postfix 补 H1 空行+相关词条 5/5 对齐（本轮修强 rz_postfix：相关词条行改从 yuanwen 源重导出，规避 lq summary_index 被 SUMMARY 别名行覆盖的污染；SEP 子词条 Parent: child 前缀剥离匹配）。术语登记 14 条（reism=事物论 用 SUMMARY 既定名；pansomatism=泛躯体主义/onomatoid=似名称 构词直译留拉丁；mereology=分体论 SUMMARY 既定），人名 3 条（布伦塔诺/莱斯涅夫斯基语料回收，塔尔斯基册内既定；Kotarbiński/Twardowski 无权威通行汉名保留英文）"
+  },
+  {
+   "step": "s1",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T20:51:06Z",
+   "evidence": "s1 一校（MTPE 顺序，账本为对照底逐段核销）：①幻觉/漏译/增译——64 段数字多集合比对：唯一差异段19「19ᵗʰ century→十九世纪末」为语料惯例换算（kokugaku 同例「十八、十九世纪」），人工判读通过；脚注键闭环：正文唯一引用 woleński-1996 ↔ biblio 定义区 30 条（含非 ASCII 键 kotarbiński/janoušek/körner/woleński×5），biblio 节定义无正文引用系现制形态（check_academic 豁免，richard-sophister 21 条同例）；②术语漂移——登记册补落后项：正文段16 落地「非范畴词/伴语义词」括注（账本+成稿同步重建，守恒 HARD=0），entia rationis 登记释义对齐正文用词「思想对象」，删本会话误加的重复 physicalism 行（并行会话先已登记 319 行，保留先登行）；③check_terms 硬错误 6→0：5 个登记册↔词汇表冲突按「修弱势方」对齐（Tarski/Telesio/Brentano/Vives/Valla，Brentano 采 SUMMARY 既定形弗朗兹并留「学界亦作弗朗茨」备注，Valla 随现行登记册劳伦佐——方向与我早前修正相反，并行会话已改判登记册，随现行）"
+  },
+  {
+   "step": "s2",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T20:54:31Z",
+   "evidence": "s2 二校（Fluency/Style）：check_prose 13 条告警逐条人工修改归零——de-chain×9（含 seg1/15/28/40/49/56/58/60 的「的」链重排，seg54 被动句 2「被」改「由…指称」）、long-sentence×2（seg16 71 字分号拆句、seg56 79 字句号拆句）、weak-verb×1（seg24「加以补充」→「补充」）；两处修正落点勘误（seg15 首次替换命中 step1、seg28 破折号间隙仍<12 字，二轮精修）；step1 忠实底未动；脱稿通读全稿无阻涩"
+  },
+  {
+   "step": "s3",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T20:57:42Z",
+   "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue（修 3 类：italic-cjk *经由*→去斜体中文、cjk-spacing Kotarbiński把→加空格——跨行字符串两轮定位）；markdownlint 0 issue（修 MD004：公理列表 - → * 对齐配置 asterisk）；check_academic --strict 0 硬错误；check_math 0 missing/unbalanced；check_prose 0；check_terms 定点 0 缺译、硬错误 0（承接 s1 轮冲突清理）"
+  },
+  {
+   "step": "r1",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T20:58:24Z",
+   "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：64 段逐句回读 yuanwen 镜像，重点核公式块 (1)-(12)/(R1)-(R3)/(RO) 与正文衔接、LO 三公理逻辑、以及源文「(as defined by (R2)...)」疑似笔误处按零信任照录未改；结构完整性按源节集合验收（导语+4 编号节+参考文献 A/B 小节+学术工具+其他网络资源+相关词条，无脚注节——源无注）；发现 0 问题。复核独立性：r2=独立 agent（进行中），r3 终审前冷置（richard-sophister r3 介于其间）"
+  },
+  {
+   "step": "r2",
+   "status": "ok",
+   "actor": "RZ-main-20261104+r2独立复核agent",
+   "at": "2026-11-03T21:09:23Z",
+   "evidence": "r2 复审（逐句回核原文与逻辑，ADR-0020 复核独立性：初译外独立 agent 执行，输出 4 处 Minor、0 Critical/Major，全部采纳）：①seg40 指控落点——「认为其根源正是承认…」的「其」回指错位（s2 de-chain 改写引入），改为「指控一切类型的柏拉图主义是种种无望问题与讨论的根源——这些问题与讨论源于承认…存在」显豁化；②seg40 etc. 漏译补「及其种类等的无谓思辨」；③seg60 错字「这行行列」→「这一行列」；④seg19 人名「W. 冯特」→「威廉·冯特」（人名表既定形全形，ADR-0012）。修正后守恒 HARD=0、prose 0、style 0、academic 0 硬错误、lint 0。复核员专项核对全过：16 编号块、LO 三公理、biblio 30 条逐字符 diff 一致、pubinfo/H1/相关词条 5 项既定名一致；另确认学术工具三行系项目现制（PDF 预览行统一省略，与 rules/07 不冲突）"
+  },
+  {
+   "step": "r3",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T21:10:44Z",
+   "evidence": "r3 终审（终稿验收，冷置后回读）：r2 四处修正落点复核无残留（指控落点显豁化 L83/补等 L83/这一行列 L125/威廉·冯特 L41）；结构完整性终验——导语+4 编号节+参考文献（A/B 小节+30 定义）+学术工具+其他网络资源+相关词条齐备有序（源无注故无脚注节）；定点六检全绿：prose 0/style 0/academic 0 硬错误/math 0 缺失/markdownlint 0/check_terms 0 硬错误；全库 check_all 存量红同前（他人会话在途词条，非本词条引入）；CI 于 push 后为最终裁判。冷置说明：r2 之后完成 reasoning-analogy 任务立项+账本骨架（dac2d8b6）方回读本词条终读"
+  },
+  {
+   "step": "done",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-03T21:10:45Z",
+   "evidence": "done：六道全过，reism 为 RZ 会话第 2 个收口件（r 批 done=2/85）"
+  },
+  {
+   "step": "tail-normalize",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-04T15:52:21Z",
+   "evidence": "学术工具补 PDF 预览行（模板 v1.3 四行制裁定，spec/001 执行日志 2026-11-04 条；fd922dc3 批量波次）——done 后体例归一，正文未动，六检复验不变"
   }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-03T20:24:47Z",
+ "version_pin": {
+  "pubinfo_date": "Apr 10, 2020",
+  "archive_edition": "Spring 2022",
+  "sha256": "3783d7cf77ad93bfa8fd02acc36250db1ba83c37065c258edb7fdb86d48afd63"
+ }
 }

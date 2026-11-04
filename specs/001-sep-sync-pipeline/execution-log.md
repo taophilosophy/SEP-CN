@@ -161,3 +161,15 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **验收**：check_summary HARD ERRORS 0；check_mulu_s HARD ERRORS 0（71 条新条目为 mu-lu-s 分类缺口——预期：归类为编辑判断，后续人工分入 mu-lu-s）；PROGRESS 正式词条 1807→1878、已建任务 75；上游增量缺口 74→0（71 接入 + 3 条此前已由并行会话处置）。
 * **登记册说明**：术语表/人名表行按 rules/03"先登记后使用"在翻译启动时登记（依据列按 ADR-0012 三档，008 战役负责复核），intake 阶段仅落标题裁定。
 * **提交**：1691cd9e（147 文件：71 桩 + 71 任务 + SUMMARY + baseline + PROGRESS + intake 凭证；baseline 携带并行会话转换波次的登记更新）。未 push。
+
+## 学术工具四行制裁定与 70 词条批量补齐（2026-11-04 会话 RZ-main-20261104，用户指令「批准不计成本解决待裁定事项」）
+
+* **前置**：r2 独立复核（richard-sophister）发现学术工具三行制与源文四项不一致（PDF 预览行被 v1.0 模板省略；cordemoy 表格四行为异例），升级为待裁定事项，用户批准解决。
+* **裁定**：bullet 四行制——rules/07 完整性原则（原文有的不丢）优先于 v1.0 三行省略；措辞对齐 36 个在先 bullet 成例（[预览本词条的 PDF 版本](…/preview/<slug>/)，见 [SEP 学会之友](…)）；表格形态存量（31+4）四项齐备合规不改形，bullet/表格形态归一另行立案。
+* **执行**：
+  1. 模板 v1.3（fan-yi-mu-ban.md §2 #15 + §4 骨架 + §7 修订记录）；
+  2. 批量补齐 70 词条：script/rz_acat_pdf.py 幂等插入器（锚定「如何引用」行后插入，URL 逐条 slug 校验，单文件至多 1 行）；首轮 marker 判定缺陷致 70 行无标记坏行（写回前 diff 自检拦截），修复模式原位改写后 70/70 合格；
+  3. 管线同步：script/lq.py compose 学术工具改四行（草稿区工具不入库，同工作树磁盘共享即生效）；script/rz_postfix.py 增第 4 钩子（幂等 + 畸形修复）。
+* **验收**：check_academic 全库 0 硬错误；check_style 70 文件插入行 0 新增告警（351 条均为该批文件存量债，逐条与插入行无关）；markdownlint 0 涉插行。
+* **同场裁定**：check_all 存量红 516 处经 aa173142（并行会话）落地在途豁免机制后清零（state≠done 豁免尾节拼装类检查，正文级照查；done 词条不豁免——RZ 两收口件全检通过实证）。
+* **提交**：fd922dc3（70 词条批量）；模板 v1.3 内容经并行扫拢提交波次入库（d8cf40a7，内容 grep 可验）；lq.py/rz_postfix 为 script/ 草稿区工具不入库。未 push。
