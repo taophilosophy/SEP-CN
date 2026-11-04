@@ -793,11 +793,11 @@ outline: [1, 6]
 ## 伊斯兰哲学
 
 * [阿卜杜勒·拉蒂夫·巴格达迪 al-Baghdadi, ‘Abd al-Latif (Cecilia Martini Bonadeo)](a/al-baghdadi.md)
-* [阿里·法拉比 al-Farabi (Therese-Anne Druart)](a/al-farabi.md)
-* [阿里·法拉比的形而上学 metaphysics (Stephen Menn)](a/al-farabi-metaphysics.md)
-* [阿里·法拉比的逻辑与语言哲学 philosophy of logic and language (Wilfrid Hodges and Therese-Anne Druart)](a/al-farabi-logic.md)
-* [阿里·法拉比的社会与宗教哲学 philosophy of society and religion (Nadja Germann)](a/al-farabi-soc-rel.md)
-* [阿里·法拉比的心理学与认识论 psychology and epistemology (Luis Xavier López-Farjeat)](a/al-farabi-psych.md)
+* [法拉比 al-Farabi (Therese-Anne Druart)](a/al-farabi.md)
+* [法拉比的形而上学 metaphysics (Stephen Menn)](a/al-farabi-metaphysics.md)
+* [法拉比的逻辑与语言哲学 philosophy of logic and language (Wilfrid Hodges and Therese-Anne Druart)](a/al-farabi-logic.md)
+* [法拉比的社会与宗教哲学 philosophy of society and religion (Nadja Germann)](a/al-farabi-soc-rel.md)
+* [法拉比的心理学与认识论 psychology and epistemology (Luis Xavier López-Farjeat)](a/al-farabi-psych.md)
 * [安萨里 al-Ghazali (Frank Griffel)](a/al-ghazali.md)
 * [艾因·古达特 ʿ Ayn al-Qudat (Muhammad U. Faruque and Mohammed Rustom)](a/al-qudat.md)
 * [肯迪 al-Kindi (Peter Adamson)](a/al-kindi.md)
