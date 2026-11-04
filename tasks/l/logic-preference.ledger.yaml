@@ -1773,281 +1773,387 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       A priority base can be modified not only by inserting new propositions but also with deletion operations that remove priorities. For example, top deletion removes any items from the priority base that are not “dominated” by others, i.e., those that have the highest priority level.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      优先基不仅可以通过插入新命题来修改，还可以通过删除操作移除优先性。例如，顶部删除会把优先基中不被其他项“支配”的项移除，即那些具有最高优先级的项。
+    step2: |-
+      优先基不仅可通过插入新命题来修改，还可通过删除操作移除优先性。例如，顶部删除会把优先基中不被其他项“支配”的项移除，即具有最高优先级的项。
   - id: 197
     kind: body
     source: |-
       These basic graph updates provide simple ways to restructure a given priority base by adding or removing propositions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些基本图更新为重构给定优先基提供了简便方式——通过添加或删除命题。
+    step2: |-
+      这些基本图更新为重构给定优先基提供了简便方式——添加或删除命题。
   - id: 198
     kind: body
     source: |-
       #### 5.3.2 Tracking dynamics
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 5.3.2 追踪动态学
+    step2: |-
+      #### 5.3.2 追踪动态学
   - id: 199
     kind: body
     source: |-
       To track changes across different levels—at the world layer and the priority layer—we define a specific technical notion. Given a priority update $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ and a world-level map $\sigma: (\preceq, A) \rightarrow \preceq'$, it is said that $\alpha$ *induces* $\sigma$ if:
 
       $$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，若
+    step2: |-
+      为追踪不同层面——世界层与优先层——的变化，我们定义一个专门的技术性概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，若
   - id: 200
     kind: body
     source: |-
       An operation $\alpha$ is a *PDL-definable operation* if it induces a *PDL*-definable relation transformer $\sigma$ by using tests for formulas in the language, weak and strict basic preference relations R, and the universal relation, while allowing arbitrary unions and sequential compositions:
 
       $$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若一个操作 $\alpha$ 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出一个 *PDL*-可定义的关系变换器 $\sigma$，则称 $\alpha$ 为 *PDL*-可定义操作：
+    step2: |-
+      若一个操作 $\alpha$ 借助语言中公式的测试、弱与强基本偏好关系 R、以及全称关系，并允许任意并集与顺序复合，而诱导出 *PDL*-可定义的关系变换器 $\sigma$，则称 $\alpha$ 为 *PDL*-可定义操作：
   - id: 201
     kind: body
     source: |-
       These are interpreted as the standard *PDL* program operations of *test* $?\varphi$, *sequential composition* $``;"$ and *choice* $``\cup"$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它们被解释为标准的 *PDL* 程序操作：*测试* $?\varphi$、*顺序复合*“;”与*选择*“$\cup$”。
+    step2: |-
+      它们被解释为标准的 *PDL* 程序操作：*测试* $?\varphi$、*顺序复合*“;”与*选择*“$\cup$”。
   - id: 202
     kind: body
     source: |-
       In the two-layer framework, it is interesting to see how priority dynamics can mirror preference dynamics. For example, it is possible to achieve a preference change due to a “suggestion” operator either by altering the world-layer preference relation or by modifying the priority base. If a new proposition A is added in parallel to an existing base $\mathscr{B}$, the preference relation is updated, as shown in the following commuting diagram:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在双层框架中，有趣的是看优先动态如何映射偏好动态。例如，可以通过改变世界层的偏好关系，也可以通过修改优先基，来实现由“建议”算子引起的偏好改变。若新命题 A 以并列方式加入既有基 $\mathscr{B}$，偏好关系便被更新——如下面的交换图所示：
+    step2: |-
+      在双层框架中，有趣的是看优先动态如何映射偏好动态。例如，可以通过改变世界层的偏好关系，也可以通过修改优先基，来实现由“建议”算子引起的偏好改变。若新命题 A 以并列方式加入既有基 $\mathscr{B}$，偏好关系便被更新——如下面的交换图所示：
   - id: 203
     kind: body
     source: |-
       *Diagram A:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 A：*
+    step2: |-
+      *图 A：*
   - id: 204
     kind: body
     source: |-
       ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
+    step2: |-
+      ![a commuting diagram: link to extended description below](../assets/logic-preference/figxy1.svg)
   - id: 205
     kind: body
     source: |-
       Diagram A: Commutative diagram where new proposition A is added in parallel to an existing base [An extended description of Diagram A is in the supplement.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 A：交换图，其中新命题 A 以并列方式加入既有基［图 A 的扩展描述见补充材料。]
+    step2: |-
+      图 A：交换图，其中新命题 A 以并列方式加入既有基［图 A 的扩展描述见补充材料。]
   - id: 206
     kind: body
     source: |-
       Similarly, placing a new proposition A at the top of the priority graph $(\mathscr{B}, <)$ aligns with a radical upgrade at the world level:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      同样，把新命题 A 置于优先图 $(\mathscr{B}, <)$ 顶部，与世界层的激进更新相呼应：
+    step2: |-
+      同样，把新命题 A 置于优先图 $(\mathscr{B}, <)$ 顶部，与世界层的激进更新相呼应：
   - id: 207
     kind: body
     source: |-
       *Diagram B*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 B*
+    step2: |-
+      *图 B*
   - id: 208
     kind: body
     source: |-
       ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
+    step2: |-
+      ![a diagram: link to extended description below](../assets/logic-preference/figxy2.svg)
   - id: 209
     kind: body
     source: |-
       Diagram B: Commutative diagram where new proposition A is placed at the top of the priority graph [An extended description of Diagram B is in the supplement.]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 B：交换图，其中新命题 A 被置于优先图顶部［图 B 的扩展描述见补充材料。]
+    step2: |-
+      图 B：交换图，其中新命题 A 被置于优先图顶部［图 B 的扩展描述见补充材料。]
   - id: 210
     kind: body
     source: |-
       These examples illustrate cases where priority-layer transformations correspond seamlessly with world-layer relation updates.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些例子展示了优先层变换与世界层关系更新无缝对应的情况。
+    step2: |-
+      这些例子展示了优先层变换与世界层关系更新无缝对应的情况。
   - id: 211
     kind: body
     source: |-
       While priority dynamics and preference dynamics will often align, there are limits. For instance, the deletion operation $\textit{del}(\mathscr{B})$ is not *PDL*-definable (Liu 2011a)[^liu-2011a]. Certain natural priority-layer modifications cannot be fully represented at the world layer.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然优先动态与偏好动态常常一致，但也有界限。例如，删除操作 $\textit{del}(\mathscr{B})$ 不是 *PDL*-可定义的（Liu 2011a）[^liu-2011a]。某些自然的优先层修改无法在世界层完全表示。
+    step2: |-
+      虽然优先动态与偏好动态常常一致，但也有界限。例如，删除操作 $\textit{del}(\mathscr{B})$ 不是 *PDL*-可定义的（Liu 2011a）[^liu-2011a]。某些自然的优先层修改无法在世界层完全表示。
   - id: 212
     kind: body
     source: |-
       #### 5.3.3 Belief-driven preference change in two-layer structures
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 5.3.3 双层结构中信念驱动的偏好改变
+    step2: |-
+      #### 5.3.3 双层结构中信念驱动的偏好改变
   - id: 213
     kind: body
     source: |-
       In two-layer structures, it also makes sense to consider preference changes driven by belief updates. Within the framework of De Jongh and Liu (2009), various strategies are employed to derive preferences from priorities and beliefs, as illustrated in the following example:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在双层结构中，考虑由信念更新驱动的偏好改变也有意义。在 De Jongh 与 Liu（2009）的框架中，人们采用多种策略从优先性与信念导出偏好，如下例所示：
+    step2: |-
+      在双层结构中，考虑由信念更新驱动的偏好改变也有意义。在 De Jongh 与 Liu（2009）的框架中，人们采用多种策略从优先性与信念导出偏好，如下例所示：
   - id: 214
     kind: body
     source: |-
       > Alice is looking for an apartment. She regards price as more important than neighborhood. She believes that apartment $d_1$ has a low price but is in a bad neighborhood. She has *no information* about the price of apartment $d_2$ but believes it is in a good neighborhood.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 爱丽丝正在找公寓。她认为价格比社区更重要。她相信公寓 $d_1$ 价格低但社区不好。她对公寓 $d_2$ 的价格*没有任何信息*，但相信它社区好。
+    step2: |-
+      > 爱丽丝正在找公寓。她认为价格比社区更重要。她相信公寓 $d_1$ 价格低但社区不好。她对公寓 $d_2$ 的价格*没有任何信息*，但相信它社区好。
   - id: 215
     kind: body
     source: |-
       In situations involving uncertainties, the “decision strategy” compares two options by prioritizing the most important criterion that each option is believed to satisfy. In this context, Alice would prefer $d_1$ over $d_2$ based on her beliefs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在涉及不确定性的情形中，“决策策略”通过比较各选项（据信）满足的最重要标准来比较两个选项。在此语境中，基于其信念，爱丽丝会偏好 $d_1$ 胜过 $d_2$。
+    step2: |-
+      在涉及不确定性的情形中，“决策策略”通过比较各选项（据信）满足的最重要标准来比较两个选项。在此语境中，基于其信念，爱丽丝会偏好 $d_1$ 胜过 $d_2$。
   - id: 216
     kind: body
     source: |-
       However, if her beliefs change (e.g., if she learns that $d_2$ has a low price), her preference may shift so that she favors $d_2$ over $d_1$. This highlights the distinction between preference changes due to belief updates and those resulting from priority shifts, as in the previous examples.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，如果她的信念改变（例如她得知 $d_2$ 价格低），她的偏好可能随之移动，转而偏好 $d_2$ 胜过 $d_1$。这凸显了由信念更新引起的偏好改变与由优先性移动引起的偏好改变之间的区别——如前面的例子所示。
+    step2: |-
+      然而，如果她的信念改变（例如她得知 $d_2$ 价格低），她的偏好可能随之移动，转而偏好 $d_2$ 胜过 $d_1$。这凸显了由信念更新引起的偏好改变与由优先性移动引起的偏好改变之间的区别——如前面的例子所示。
   - id: 217
     kind: body
     source: |-
       In conclusion, priority dynamics and preference dynamics, though closely related, retain unique features, underscoring the value of modeling both intrinsic and reason-based preferences for a comprehensive understanding of agent decision-making.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，优先动态与偏好动态虽密切相关，却各有独特之处；这凸显了同时建模内在偏好与基于理由的偏好的价值，以便全面理解行动者的决策。
+    step2: |-
+      总之，优先动态与偏好动态虽密切相关，却各有独特之处；这凸显了同时建模内在偏好与基于理由的偏好的价值，以便全面理解行动者的决策。
   - id: 218
     kind: body
     source: |-
       ## 6. *Ceteris paribus* preference and CP-nets
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 6 其余条件相同的偏好与 CP 网
+    step2: |-
+      ## 6 其余条件相同的偏好与 CP 网
   - id: 219
     kind: body
     source: |-
       *Ceteris paribus* preference refers to a way of expressing preferences under the condition of “all else being equal”. It allows agents to state that one option is preferred over another while assuming that all other relevant factors remain constant. In AI systems for decision-making, a CP-net is a graphical model used to represent conditional preferences. It relies on the principle that comparisons between options are made under the assumption that other factors are unchanged, which aligns closely with the concept of ceteris paribus.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其余条件相同的偏好（*ceteris paribus* preference）是在“其余一切相同”的条件下表达偏好的方式。它使行动者得以宣称一个选项优于另一个，同时假定所有其他相关因素保持不变。在作决策的 AI 系统中，CP 网是一种用于表示条件偏好的图形模型。它依赖如下原则：选项间的比较是在其他因素不变的假定下进行的——这与其余条件相同的概念紧密契合。
+    step2: |-
+      其余条件相同的偏好（*ceteris paribus* preference）是在“其余一切相同”的条件下表达偏好的方式。它使行动者得以宣称一个选项优于另一个，同时假定所有其他相关因素保持不变。在作决策的 AI 系统中，CP 网是一种表示条件偏好的图形模型。它依赖如下原则：选项间的比较是在其他因素不变的假定下进行的——与其余条件相同的概念紧密契合。
   - id: 220
     kind: body
     source: |-
       This section introduces results on the logic of ceteris paribus preferences along with the fundamentals of CP-nets.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      本节介绍其余条件相同偏好逻辑的结果，以及 CP 网的基础。
+    step2: |-
+      本节介绍其余条件相同偏好逻辑的结果，以及 CP 网的基础。
   - id: 221
     kind: body
     source: |-
       ### 6.1 Formalizing ceteris paribus preferences in logic
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 6.1 在逻辑中形式化其余条件相同的偏好
+    step2: |-
+      ### 6.1 在逻辑中形式化其余条件相同的偏好
   - id: 222
     kind: body
     source: |-
       The core problem of ceteris paribus preference is how to interpret “all else being equal”. For example, one man may generally prefer red wine over white wine, ceteris paribus, but not if the red wine is poisonous and the white wine is not. So the challenge of formalizing a ceteris paribus proviso is how to determine whether the conditions are the same except for the color of the wine. This issue was discussed in the first studies of preference logic by Halldén (1957) and von Wright (1963). The difference between the equality reading of ceteris paribus and the normality reading “all else being normal” was also discussed by Van Benthem, Girard, and Roy (2009).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其余条件相同偏好的核心问题，是如何解释“其余一切相同”。例如，某人一般偏好红酒胜过白酒——其余条件相同——但若红酒有毒而白酒无毒则不然。因此，形式化其余条件相同限制条件的挑战在于：如何判定除了酒的颜色之外各项条件相同。Halldén（1957）与 von Wright（1963）在偏好逻辑的最早研究中就讨论过这一问题。其余条件相同的等同解读与正常性解读（“其余一切正常”）之别，Van Benthem、Girard 与 Roy（2009）也有讨论。
+    step2: |-
+      其余条件相同偏好的核心问题，是如何解释“其余一切相同”。例如，某人一般偏好红酒胜过白酒——其余条件相同——但若红酒有毒而白酒无毒则不然。因此，形式化其余条件相同限制条件的挑战在于：如何判定除了酒的颜色之外各项条件相同。Halldén（1957）与 von Wright（1963）在偏好逻辑的最早研究中就讨论过这一问题。其余条件相同的等同解读与正常性解读（“其余一切正常”）之别，Van Benthem、Girard 与 Roy（2009）也有讨论。
   - id: 223
     kind: body
     source: |-
       When interpreting the phrase “all else being equal”, a natural approach is to use equivalence classes of worlds. This approach has been taken by many researchers in the field. For instance, Doyle and Wellman (1994) defined context-dependent equivalence relations among individuals, which is called contextual equivalence. As a consequence, this means that the equivalence class may vary according to the context under consideration.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      解释“其余一切相同”这一短语时，一个自然的做法是使用世界的等价类。该领域的许多研究者都采取了这一进路。例如，Doyle 与 Wellman（1994）为个体定义了依赖语境的等价关系，称为语境等价。由此，等价类可以随所考虑的语境而变化。
+    step2: |-
+      解释“其余一切相同”这一短语时，一个自然的做法是使用世界的等价类。该领域的许多研究者都采取了这一进路。例如，Doyle 与 Wellman（1994）为个体定义了依赖语境的等价关系，称为语境等价。由此，等价类可以随所考虑的语境而变化。
   - id: 224
     kind: body
     source: |-
       Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
+    step2: |-
+      Formally, let $\Omega$ be a set of states, and let $\mathcal{E}(\Omega)$ denote the set of all equivalence relations on $\Omega$. The contextual equivalence is defined on a set $\Omega$ as a function $\eta$: $\mathcal{P}(\mathcal{P}(\Omega))\rightarrow\mathcal{E} (\Omega)$ assigning to each set of proposition $\{p, q, \ldots\}$ an equivalence relation $\eta(p, q, \ldots)$. For $w\,\eta(p,q,\ldots)\, w^{\prime}$ , we write $w\approx_{ mod\, p,q,\ldots} w^{\prime}$, meaning that with regard to $p, q, \ldots$, it is the case that w and $w^{\prime}$ are the same. Doyle and Wellman (1994) thus proposed dividing the space of possibilities into equivalence classes and ignoring comparison links that go across these classes.
   - id: 225
     kind: body
     source: |-
       Van Benthem, Girard, and Roy (2009) applied this idea to equivalence relations between possible worlds: truth-value equivalence for all relevant modal formulas in some specified set. In addition, they showed how this notion links up with von Wright’s work, and how it applies to game-theoretic solution concepts. They introduced new modalities of the form $\langle \Gamma \rangle\varphi$ into the language, formally defined as
 
       $$p\mid \neg \varphi\mid \varphi\land \psi \mid\langle \Gamma \rangle^{>}\varphi\mid \langle \Gamma \rangle^{\geq}\varphi\mid \langle \Gamma \rangle\varphi,$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Van Benthem、Girard 与 Roy（2009）把这一想法应用于可能世界之间的等价关系：对某个特定集合中所有相关模态公式的真值等价。此外，他们展示了这一概念如何与 von Wright 的工作相衔接，以及它如何应用于博弈论解概念。他们向语言引入形如 $\langle \Gamma \rangle\varphi$ 的新模态词，形式定义如下：
+    step2: |-
+      Van Benthem、Girard 与 Roy（2009）把这一想法应用于可能世界之间的等价关系：对某个特定集合中所有相关模态公式的真值等价。此外，他们展示这一概念如何与 von Wright 的工作相衔接，以及它如何应用于博弈论解概念。他们向语言引入形如 $\langle \Gamma \rangle\varphi$ 的新模态词，形式定义如下：
   - id: 226
     kind: body
     source: |-
       where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
+    step2: |-
+      where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is part of the formal language itself. Semantically, $\Gamma$ defines an equivalence class of possible worlds. For instance, $w \approx_{\Gamma} v$ indicates that w and v are equal w.r.t. $\Gamma$—they satisfy the same formulas in $\Gamma$.
   - id: 227
     kind: body
     source: |-
       A ceteris paribus preference model is a quadruple $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$ where:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其余条件相同的偏好模型是四元组 $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$，其中：
+    step2: |-
+      其余条件相同的偏好模型是四元组 $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$，其中：
   - id: 228
     kind: body
     source: |-
       - W is a set of states, $\succeq$ is a binary preference relation, V is an evaluation
       - $\trianglerighteq_{\Gamma}$ is the binary relation given by $w\trianglerighteq_{\Gamma}v$ iff $w\succeq v$ and $w \approx_{\Gamma} v$
       - the strict subrelation $\trianglerighteq_{\Gamma}$ is defined by $w\succ v$ and $w \approx_{\Gamma} v$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - W 是状态集合，$\succeq$ 是二元偏好关系，V 是赋值
+      - $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
+      - 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
+    step2: |-
+      - W 是状态集合，$\succeq$ 是二元偏好关系，V 是赋值
+      - $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
+      - 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
   - id: 229
     kind: body
     source: |-
       The relation $\trianglerighteq_{\Gamma}$ is essentially an intersection of two relations over worlds: the basic preference relation and truth-value equivalence with respect to the formulas in $\Gamma$. The truth conditions for the new formulas that involve the equivalent classes are:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      关系 $\trianglerighteq_{\Gamma}$ 实质上是两个世界间关系的交：基本偏好关系，与对 $\Gamma$ 中公式的真值等价。涉及等价类的新公式的真值条件是：
+    step2: |-
+      关系 $\trianglerighteq_{\Gamma}$ 实质上是两个世界间关系的交：基本偏好关系，与对 $\Gamma$ 中公式的真值等价。涉及等价类的新公式的真值条件是：
   - id: 230
     kind: body
     source: |-
       - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
       - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
       - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+    step2: |-
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+      - $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
   - id: 231
     kind: body
     source: |-
       For those cases where $\Gamma$ is finite, Van Benthem, Girard, and Roy (2009) provide a complete axiomatization. For the features of ceteris paribus, the new set of axioms is found in Figure 8.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      对 $\Gamma$ 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新的公理集见图 8。
+    step2: |-
+      对 $\Gamma$ 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新公理集见图 8。
   - id: 232
     kind: body
     source: |-
       *Figure 8:*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 8:*
+    step2: |-
+      *Figure 8:*
   - id: 233
     kind: body
     source: |-
       Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
+    step2: |-
+      Reflexivity axioms for ceteris paribus sets where $\varphi\in\Gamma$:
   - id: 234
     kind: body
     source: |-
       1. $\langle \Gamma \rangle\varphi\rightarrow\varphi$
       2. $\langle \Gamma \rangle\neg \varphi\rightarrow\neg\varphi$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $\langle \Gamma \rangle\varphi\rightarrow\varphi$
+      2. $\langle \Gamma \rangle\neg \varphi\rightarrow\neg\varphi$
+    step2: |-
+      1. $\langle \Gamma \rangle\varphi\rightarrow\varphi$
+      2. $\langle \Gamma \rangle\neg \varphi\rightarrow\neg\varphi$
   - id: 235
     kind: body
     source: |-
       Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
+    step2: |-
+      Monotonicity axioms for ceteris paribus sets where $\Gamma \subseteq\Gamma^{\prime}$
   - id: 236
     kind: body
     source: |-
       1. $\langle \Gamma^{\prime} \rangle\varphi\rightarrow\langle \Gamma \rangle\varphi$
       2. $\langle \Gamma^{\prime} \rangle^{\geq}\varphi\rightarrow\langle \Gamma \rangle\varphi$
       3. $\langle \Gamma^{\prime} \rangle^{>}\varphi\rightarrow\langle \Gamma \rangle\varphi$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $\langle \Gamma^{\prime} \rangle\varphi\rightarrow\langle \Gamma \rangle\varphi$
+      2. $\langle \Gamma^{\prime} \rangle^{\geq}\varphi\rightarrow\langle \Gamma \rangle\varphi$
+      3. $\langle \Gamma^{\prime} \rangle^{>}\varphi\rightarrow\langle \Gamma \rangle\varphi$
+    step2: |-
+      1. $\langle \Gamma^{\prime} \rangle\varphi\rightarrow\langle \Gamma \rangle\varphi$
+      2. $\langle \Gamma^{\prime} \rangle^{\geq}\varphi\rightarrow\langle \Gamma \rangle\varphi$
+      3. $\langle \Gamma^{\prime} \rangle^{>}\varphi\rightarrow\langle \Gamma \rangle\varphi$
   - id: 237
     kind: body
     source: |-
       Axioms characterizing the changes to the ceteris paribus sets:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Axioms characterizing the changes to the ceteris paribus sets:
+    step2: |-
+      Axioms characterizing the changes to the ceteris paribus sets:
   - id: 238
     kind: body
     source: |-
       1. $\pm\varphi\land \langle \Gamma \rangle(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle\alpha$
       2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
       3. $\pm\varphi\land \langle \Gamma \rangle^{>}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{>}\alpha$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. $\pm\varphi\land \langle \Gamma \rangle(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle\alpha$
+      2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
+      3. $\pm\varphi\land \langle \Gamma \rangle^{>}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{>}\alpha$
+    step2: |-
+      1. $\pm\varphi\land \langle \Gamma \rangle(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle\alpha$
+      2. $\pm\varphi\land \langle \Gamma \rangle^{\geq}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{\geq}\alpha$
+      3. $\pm\varphi\land \langle \Gamma \rangle^{>}(\alpha\land \pm \varphi)\rightarrow\langle \Gamma \cup\{\varphi\} \rangle^{>}\alpha$
   - id: 239
     kind: body
     source: |-
       Figure 8: Axiomatization of ceteris paribus preferences by Van Benthem, Girard, and Roy (2009)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 8：Van Benthem、Girard 与 Roy（2009）对其余条件相同偏好的公理化
+    step2: |-
+      图 8：Van Benthem、Girard 与 Roy（2009）对其余条件相同偏好的公理化
   - id: 240
     kind: body
     source: |-
