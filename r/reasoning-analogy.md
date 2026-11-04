@@ -127,7 +127,7 @@ $$\tag{4} \text{Augmented tabular representation} \\ \begin{array}{ccc} \text{So
 
 一个类比论证于是可以概括为：
 
-有理由认为 $Q^**$ 在目标域中成立：**鉴于**与源域之间某些已知（或被接受）的相似性，** 尽管*也有某些已知（或被接受）的差异。
+有理由认为 $Q^**$ 在目标域中成立：** 鉴于 **与源域之间某些已知（或被接受）的相似性，** 尽管*也有某些已知（或被接受）的差异。
 
 要让这个刻画有意义，就得说清“有理由地”（plausibly）是什么意思。为保证它对强度差异极大的各类类比论证普遍适用，我们把“可信性”（plausibility）从宽理解，即“得到某种程度的支持”。一般说来，可信性判断是在主张被表述出来之后、严格检验或证明之前做出的。下一小节再作讨论。
 
@@ -181,7 +181,7 @@ $$\tag{4} \text{Augmented tabular representation} \\ \begin{array}{ccc} \text{So
 
 把困难一般化：并非每个相似性都抬升结论的概率，也并非每个差异都压低它。有些相似与差异已知（或被接受为）毫不相干，理应对我们的概率判断毫无影响。规则（5）要可行，就得补上关于 **相关性** 的考量——而那取决于各个类比论证特有的题材、历史语境与逻辑细节。为类比推理寻觅一条简单规则，看来是徒劳的。
 
-Carnap 及其追随者（Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006）[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006]曾用 Carnap 式 $\lambda \gamma$ 规则为归纳逻辑制定类比原则。总体上，这批工作处理的是“基于相似性的类比”，而非此处讨论的类推推理。Romeijn（2006）认为 Carnap 的类比概念与类比预测之间有关系：他的进路是 Carnap 式归纳规则与贝叶斯模型的混合体。要处理 §2.1 那几类论证，这种进路还需推广。Carnap 式进路能否给出类比推理的一般规则，仍不清楚。
+Carnap 及其追随者（Carnap 1980; Kuipers 1988; Niiniluoto 1988; Maher 2000; Romeijn 2006）[^carnap-1980][^kuipers-1988][^maher-2000][^niiniluoto-1988][^romeijn-2006]曾用 Carnap 式 $\lambda \gamma$ 规则为归纳逻辑制定类比原则。总体上，这批工作处理的是“基于相似性的类比”，而非此处讨论的类推推理。Romeijn（2006）认为Carnap 的类比概念与类比预测之间有关系：他的进路是 Carnap 式归纳规则与贝叶斯模型的混合体。要处理 §2.1 那几类论证，这种进路还需推广。Carnap 式进路能否给出类比推理的一般规则，仍不清楚。
 
 Norton（2010，及 2018——见其他网络资源）论证：以一条或几条简单形式图式将归纳推理形式化的方案注定失败。这类批评放到类推推理上，显得格外贴切。他写道：
 
@@ -273,10 +273,10 @@ Norton 把这一点再推一步，与他关于归纳推理的“实质理论”�
 
 总结一下：亚里士多德的理论留下四条重要而有影响的判据，供评价类比论证之用：
 
-- 类比的强度取决于相似性的数量。
-- 相似性还原为相同的性质与关系。
-- 好的类比源自共同的底层原因或一般定律。
-- 好的类比论证不必预设对底层普遍者（概括）的认识。
+* 类比的强度取决于相似性的数量。
+* 相似性还原为相同的性质与关系。
+* 好的类比源自共同的底层原因或一般定律。
+* 好的类比论证不必预设对底层普遍者（概括）的认识。
 
 这四条原则构成评价类比论证之 **常识模型** 的核心（这不等于说它们正确——事实上，前三条很快就会遭到质疑）。第一条如前所见，常见于教科书的类比讨论；第二条大体被视作理所当然，类比的计算模型（§3.4）是重要例外；第三条的种种版本见于大多数精致理论；最后一条区分了例似论证与例证论证，在许多讨论中得到支持（如 Quine and Ullian 1970）[^quine-1970]。
 
@@ -750,7 +750,17 @@ Knuttila 与 Loettgers（2014）考察了类推推理在合成生物学中的作
 
 ## 其他网络资源
 
-[欢迎向作者提出建议。]
+### 在线手稿
+
+* Crowther, K., N. Linnemann, and C. Wüthrich, 2018, “[What we cannot learn from analogue experiments](https://arxiv.org/abs/1811.03859),”载于 arXiv.org。
+* Dardashti, R., S. Hartmann, K. Thébault, and E. Winsberg, 2018, “[Hawking Radiation and Analogue Experiments: A Bayesian Analysis](http://philsci-archive.pitt.edu/14819/),”载于 PhilSci Archive。
+* Norton, J., 2018, “[Analogy](https://www.pitt.edu/~jdnorton/homepage/cv.html#manuscripts)”，未刊稿，匹兹堡大学。
+
+### 网站
+
+* [类比研究资源：多学科指南](https://scholar.uwindsor.ca/philosophypub/18/)（温莎大学）
+* [UCLA 推理实验室](https://reasoninglab.psych.ucla.edu/)（UCLA）
+* [Dedre Gentner 论文目录](http://groups.psych.northwestern.edu/gentner/publications2.htm)（西北大学）
 
 ## 相关词条
 
