@@ -334,7 +334,7 @@ outline: [1, 6]
 * [伏尔泰 Voltaire (J.B. Shank)](v/voltaire.md)
 * [德尼·狄德罗 Diderot, Denis (Charles T. Wolfe and J.B. Shank)](d/diderot.md)
   * [让·巴蒂斯特·杜博斯 Du Bos, Jean-Baptiste (James O. Young and Margaret Cameron)](d/du-bos.md)
-* [康德之前的 18 世纪德国哲学 18 18th Century German Philosophy Prior to Kant (Corey Dyck and Brigitte Sassen)](1/18thGerman-preKant.md)
+* [康德之前的 18 世纪德国哲学 18th Century German Philosophy Prior to Kant (Corey Dyck and Brigitte Sassen)](1/18thGerman-preKant.md)
 * [伊曼努尔·康德 Kant, Immanuel (Michael Rohlf)](k/kant.md)
   * [莱布尼茨对康德的影响 Leibniz’s Influence on Kant](k/kant-leibniz.md)
   * [康德哲学的发展历程 philosophical development (Martin Schönfeld and Michael Thompson)](k/kant-development.md)

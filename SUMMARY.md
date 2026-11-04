@@ -1081,7 +1081,7 @@
 * [乔治·艾略特 George Eliot (Clare Carlisle)](g/george-eliot.md)
 * [\*亚历山大·杰拉德——见苏格兰哲学：18 世纪苏格兰哲学 Gerard, Alexander — see Scottish Philosophy: in the 18th Century](s/scottish-18th.md)
 * [\*德国哲学 German Philosophy](README.md)
-  * [康德之前的 18 世纪德国哲学 18 18th Century German Philosophy Prior to Kant (Corey Dyck and Brigitte Sassen)](1/18thGerman-preKant.md)
+  * [康德之前的 18 世纪德国哲学 18th Century German Philosophy Prior to Kant (Corey Dyck and Brigitte Sassen)](1/18thGerman-preKant.md)
 * [吉尔松尼德 Gersonides (Tamar Rudavsky)](g/gersonides.md)
 * [罗马的吉尔斯 Giles of Rome (Roberto Lambertini)](g/giles.md)
 * [\*证成——见知识证成：知识证成的基础主义理论 given, the — see justification, epistemic: foundationalist theories of](j/justep-foundational.md)
