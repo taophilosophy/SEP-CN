@@ -2,7 +2,7 @@
   "slug": "locke-on-medicine",
   "kind": "retranslate",
   "zh_doc": "l/locke-on-medicine.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-04T16:31:04Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T18:02:09Z",
+      "evidence": "draft+compose: lq.py 守恒门 183 段全绿（source 逐字符一致，残余=0，含 17 世纪医史英/拉丁文引文 34 段照录翻译）；相关词条 7 项全匹配（compose 自动映射，无未匹配项）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T18:02:09Z",
+      "evidence": "s1 一校：check_prose 65→34（三轮 SUBS 批修 tmp_lom 脚本，散文实修 41 处）；34 项残余经逐行验证全部为直接引语行（17 世纪原始文献引文），ADR-0020 引文豁免：引文内长句/的链/被字/弱动词——照录忠实所需，evidence 记明判读依据"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T18:02:09Z",
+      "evidence": "s2 二校：术语 13 条（化学论/发酵/机械哲学/微粒哲学/体液/精气/种子原理/酵素/阿尔凯厄斯/挥发/自然史/静脉切开放血/疫病体质）+人名 19 条（西德纳姆/洛厄/威利斯/范·赫尔蒙特/森纳特等）登记入册；Cooper/Wood/Le Clerc 与既有登记去重；check_terms 硬错误 0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T18:02:12Z",
+      "evidence": "s3 三校：check_style 0（12 处引文内 italic-cjk 中文斜体平文化——粗体与守恒硬门冲突，同 lorenzo-valla 先例）；check_academic --strict OK；check_math 0；check_prose 复跑 34 项全为引文行"
     }
   ],
   "blockers": [],
