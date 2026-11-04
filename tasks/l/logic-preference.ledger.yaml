@@ -1359,133 +1359,177 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       Formally, if x and y are alternatives, then the agent’s preference $x \succeq_M y$ in state M can be represented as follows:
 
       $$x \succeq_M y \iff S_x \geq S_y,$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      形式上，若 x 与 y 是备选物，则行动者在状态 M 中的偏好 $x \succeq_M y$ 可表示如下：
+    step2: |-
+      形式上，若 x 与 y 是备选物，则行动者在状态 M 中的偏好 $x \succeq_M y$ 可表示如下：
   - id: 152
     kind: body
     source: |-
       where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
+    step2: |-
+      where $S_x = \{ P \in M : x \text{ has } P \}$ and $S_y = \{ P \in M : y \text{ has } P \}$. This relation ensures that the agent’s preferences in any motivational state M reflect the agent’s stable evaluation of property combinations across contexts.
   - id: 153
     kind: body
     source: |-
       The works of Dietrich and List (2013a,b) explore rationality by contrasting *structural rationality*, which focuses on internal consistency in preferences (as in traditional economics), with *substantive* rationality, which evaluates the content or worthiness of preferences. Formal rationality demands logical coherence, such as the preference of A over C if A is preferred over B and B over C. Substantive rationality, however, considers preferences to be “irrational” if they are self-destructive or harmful, even if they are consistent, as it assesses the value of the preferences, not just their coherence. An earlier discussion on these philosophical issues can be found in the work of Pettit (2002).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Dietrich 与 List（2013a,b）的工作通过对比两种理性来探讨理性问题：*结构理性*——聚焦偏好中的内在一致性（如传统经济学）——与*实质理性*——评估偏好内容的正当与否。形式理性要求逻辑融贯，例如若 A 优于 B 且 B 优于 C 则 A 优于 C。实质理性则认为：即便偏好是一致的，若其自我毁灭或有害，也应视为“非理性的”——它评估的是偏好的价值，而不只是其融贯性。对这些哲学问题的更早讨论见 Pettit（2002）。
+    step2: |-
+      Dietrich 与 List（2013a,b）的工作通过对比两种理性来探讨理性问题：*结构理性*——聚焦偏好中的内在一致性（如传统经济学）——与*实质理性*——评估偏好内容的正当与否。形式理性要求逻辑融贯，例如若 A 优于 B 且 B 优于 C 则 A 优于 C。实质理性则认为：即便偏好一致，若其自我毁灭或有害，也应视为“非理性的”——它评估的是偏好的价值，而不只是其融贯性。对这些哲学问题的更早讨论见 Pettit（2002）。
   - id: 154
     kind: body
     source: |-
       #### 4.2.3 Reasons and preference
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.3 理由与偏好
+    step2: |-
+      #### 4.2.3 理由与偏好
   - id: 155
     kind: body
     source: |-
       Osherson and Weinstein (2012) propose a logic of preference where preferences are not arbitrary or merely consistent but are based on identifiable reasons. This framework introduces modal connectives that allow the reasons for desiring a certain outcome to be expressed formally, which provides a way to model how various reasons combine to shape an agent’s preferences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Osherson 与 Weinstein（2012）提出一种偏好逻辑：偏好不是任意的或仅仅一致的，而是基于可辨识的理由。这一框架引入模态联结词，使渴望某一结果的理由得以形式表达，从而提供一种建模方式：各种理由如何结合起来塑造行动者的偏好。
+    step2: |-
+      Osherson 与 Weinstein（2012）提出一种偏好逻辑：偏好不是任意的或仅仅一致的，而是基于可辨识的理由。这一框架引入模态联结词，使渴望某一结果的理由得以形式表达，从而提供一种建模方式：各种理由如何结合起来塑造行动者的偏好。
   - id: 156
     kind: body
     source: |-
       When choosing whether or not to install a fire alarm, a person may consider safety and cost as different reasons that support or oppose that course of action. In this example, a preference for installing a fire alarm puts great value on increasing safety, so this preference is based on a “safety reason”. If finances are tight, the cost may serve as a reason against installing the alarm.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在决定是否安装火灾报警器时，一个人可能把安全与成本视为支持或反对该行动的不同理由。在此例中，安装报警器的偏好高度重视提升安全，因此这一偏好基于“安全理由”。若手头拮据，成本可能构成反对安装报警器的理由。
+    step2: |-
+      在决定是否安装火灾报警器时，一个人可能把安全与成本视为支持或反对该行动的不同理由。在此例中，安装报警器的偏好高度重视提升安全，因此这一偏好基于“安全理由”。若手头拮据，成本可能构成反对安装报警器的理由。
   - id: 157
     kind: body
     source: |-
       Each reason (e.g., safety or cost) can be quantified using *utility scales* representing how much better or worse each choice is, based on a specific criterion. Formally, a “utility function” u is defined as a mapping
 
       $$u: W \times S \rightarrow \mathbb{R}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      每条理由（如安全或成本）都可以用*效用尺度*来量化——它们表示依据特定标准，各选择好多少或差多少。形式上，“效用函数” u 定义为一个映射
+    step2: |-
+      每条理由（如安全或成本）都可以用*效用尺度*来量化——它们表示依据特定标准，各选择好多少或差多少。形式上，“效用函数” u 定义为一个映射
   - id: 158
     kind: body
     source: |-
       where W is the set of possible worlds and S indexes utility scales such as safety or cost.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      where W is the set of possible worlds and S indexes utility scales such as safety or cost.
+    step2: |-
+      where W is the set of possible worlds and S indexes utility scales such as safety or cost.
   - id: 159
     kind: body
     source: |-
       To evaluate a choice such as whether or not to install a fire alarm, the model uses a “selection function” s to identify alternative worlds that are closest to the real world for comparison purposes. For example, it compares
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为评估诸如是否安装火灾报警器的选择，模型使用“选择函数” s 来辨识与现实世界最接近的备选世界以供比较。例如它比较
+    step2: |-
+      为评估诸如是否安装火灾报警器的选择，模型使用“选择函数” s 来辨识与现实世界最接近的备选世界以供比较。例如它比较
   - id: 160
     kind: body
     source: |-
       - world $w_1$, where a fire alarm is installed (a safer world), and
       - world $w_2$, where no fire alarm is installed (the current, less safe world).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 世界 $w_1$：安装了火灾报警器（更安全的世界）；
+      - 世界 $w_2$：未安装火灾报警器（当前的、较不安全的世界）。
+    step2: |-
+      - 世界 $w_1$：安装了火灾报警器（更安全的世界）；
+      - 世界 $w_2$：未安装火灾报警器（当前的、较不安全的世界）。
   - id: 161
     kind: body
     source: |-
       Formally, the “selection function” $s(w, A)$ selects a representative world from set A based on its similarity to the current world w:
 
       $$s(w, A) = \text{closest world in } A \text{ to } w.$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      形式上，“选择函数” $s(w, A)$ 依据与当前世界 w 的相似性，从集合 A 中选出一个代表世界：
+    step2: |-
+      形式上，“选择函数” $s(w, A)$ 依据与当前世界 w 的相似性，从集合 A 中选出一个代表世界：
   - id: 162
     kind: body
     source: |-
       Finally, the preference relation can be formally defined using modal expressions. For instance, $p \succ_1 \neg p$ holds if, for safety reasons, installing an alarm (represented by p) is preferred over not installing one, denoted by the utility scale $u_1$ for safety. If $u_2$ (cost) is also considered, the preference relation may combine both $u_1$ and $u_2$, thereby capturing a comprehensive view that balances safety and cost.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，偏好关系可以用模态表达式形式定义。例如 $p \succ_1 \neg p$ 成立，当且仅当就安全理由而言，安装报警器（以 p 表示）优于不安装——以安全效用尺度 $u_1$ 表示。若还考虑 $u_2$（成本），偏好关系可以结合 $u_1$ 与 $u_2$，从而刻画兼顾安全与成本的综合视角。
+    step2: |-
+      最后，偏好关系可以用模态表达式形式定义。例如 $p \succ_1 \neg p$ 成立，当且仅当就安全理由而言，安装报警器（以 p 表示）优于不安装——以安全效用尺度 $u_1$ 表示。若还考虑 $u_2$（成本），偏好关系可以结合 $u_1$ 与 $u_2$，从而刻画兼顾安全与成本的综合视角。
   - id: 163
     kind: body
     source: |-
       This logic framework enables structured reasoning that incorporates specific reasons behind preferences, allowing for a nuanced representation of choices grounded in real-life decision-making contexts.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一逻辑框架支持把偏好背后的具体理由纳入结构化推理，从而对植根于现实决策语境的选择给出细致的表示。
+    step2: |-
+      这一逻辑框架支持把偏好背后的具体理由纳入结构化推理，从而对植根于现实决策语境的选择给出细致的表示。
   - id: 164
     kind: body
     source: |-
       Osherson and Weinstein explore decidability issues and various conditions for subclasses of models.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Osherson 与 Weinstein 还探讨可判定性问题以及模型子类的各种条件。
+    step2: |-
+      Osherson 与 Weinstein 还探讨可判定性问题以及模型子类的各种条件。
   - id: 165
     kind: body
     source: |-
       Two-layer structures have become a standard approach to modeling preferences with reasons, with potential applications in various fields. A recent example is preferences that stem from underlying causal considerations—see Xie and Yan’s (2024) work on this topic. In a similar vein, Chen, Shi, and Wang (2024) integrates preference and dependence into cooperative games, providing a unified perspective on concepts like Nash equilibrium, Pareto optimality, and the Shapley core.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      双层结构已成为为带理由的偏好建模的标准进路，在多个领域都有潜在应用。一个晚近的例子是源自底层因果考量的偏好——见 Xie 与 Yan（2024）关于这一主题的工作。类似地，Chen、Shi 与 Wang（2024）把偏好与依赖整合进合作博弈，为纳什均衡、帕累托最优与 Shapley 核等概念提供统一视角。
+    step2: |-
+      双层结构已成为为带理由的偏好建模的标准进路，在多个领域都有潜在应用。一个晚近的例子是源自底层因果考量的偏好——见 Xie 与 Yan（2024）关于这一主题的工作。类似地，Chen、Shi 与 Wang（2024）把偏好与依赖整合进合作博弈，为纳什均衡、帕累托最优与 Shapley 核等概念提供统一视角。
   - id: 166
     kind: body
     source: |-
       ## 5. Dynamics of preference change
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 偏好改变的动态学
+    step2: |-
+      ## 5 偏好改变的动态学
   - id: 167
     kind: body
     source: |-
       Preferences can change due to various triggers, making preference change a natural phenomenon to consider. Logical modeling has thus been proposed as a way to study reasoning about these dynamics. This section partially follows the categorization of preference change outlined by Lang and Van der Torre (2008), which is based on the type of input driving the change. Additionally, this section highlights the dynamical changes that can occur in two-layer structures. Grüne-Yanoff and Hansson (2009) discussed why preference change has been overlooked in the social sciences, particularly in economics, and the volume of essays presents various approaches to studying preference change (see also the section on preference change in the entry on [preferences](https://plato.stanford.edu/entries/preferences/#PreCha)). This section examines the primary ideas and formal frameworks within the logic tradition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      偏好可以因各种触发因素而改变，这使偏好改变成为值得考虑的自然现象。逻辑建模因此被提议为研究这些动态之推理的方式。本节部分遵循 Lang 与 Van der Torre（2008）对偏好改变的分类——它以驱动改变的输入类型为据。此外，本节着重于双层结构中可能发生的动态改变。Grüne-Yanoff 与 Hansson（2009）讨论了偏好改变为何在社会科学（尤其是经济学）中遭到忽视；其文集给出了研究偏好改变的多种进路（另见偏好词条中关于偏好改变的一节）。本节考察逻辑传统中的主要思想与形式框架。
+    step2: |-
+      偏好可以因各种触发因素而改变，这使偏好改变成为值得考虑的自然现象。逻辑建模因此被提议为研究这些动态之推理的方式。本节部分遵循 Lang 与 Van der Torre（2008）对偏好改变的分类——以驱动改变的输入类型为据。此外，本节着重双层结构中可能发生的动态改变。Grüne-Yanoff 与 Hansson（2009）讨论了偏好改变为何在社会科学（尤其是经济学）中遭到忽视；其文集给出研究偏好改变的多种进路（另见偏好词条中关于偏好改变的一节）。本节考察逻辑传统中的主要思想与形式框架。
   - id: 168
     kind: body
     source: |-
       ### 5.1 Intrinsic preference revision
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.1 内在偏好修正
+    step2: |-
+      ### 5.1 内在偏好修正
   - id: 169
     kind: body
     source: |-
       The first type of preference change is analogous to belief change: just as belief revision incorporates newly acquired beliefs into an existing belief state, intrinsic preference revision incorporates new preferences into an existing preference state. Here, preferences are revised by other preferences to form new preferences, without beliefs intervening.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一类偏好改变类似于信念改变：正如信念修正在既有信念状态中纳入新获信念，内在偏好修正在既有偏好状态中纳入新偏好。这里，偏好被其他偏好修正而形成新偏好，信念不介入。
+    step2: |-
+      第一类偏好改变类似于信念改变：正如信念修正在既有信念状态中纳入新获信念，内在偏好修正在既有偏好状态中纳入新偏好。这里，偏好被其他偏好修正而形成新偏好，信念不介入。
   - id: 170
     kind: body
     source: |-
       Two main methodologies are used to model preference change: the Alchourrón, Gärdenfors and Makinson (AGM) postulational framework (see the description of the AGM belief revision theory in the entry on logic of belief revision) and dynamic logic-based systems (see entry on dynamic epistemic logic). Both have been widely adopted by researchers to explore various forms of preference change.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      建模偏好改变主要有两种方法：Alchourrón、Gärdenfors 与 Makinson（AGM）的公设化框架（见信念修正逻辑词条中对 AGM 信念修正理论的描述）与基于动态逻辑的系统（见动态认知逻辑词条）。研究者广泛采用二者来探索偏好改变的各种形式。
+    step2: |-
+      建模偏好改变主要有两种方法：Alchourrón、Gärdenfors 与 Makinson（AGM）的公设化框架（见信念修正逻辑词条中对 AGM 信念修正理论的描述）与基于动态逻辑的系统（见动态认知逻辑词条）。研究者广泛采用二者来探索偏好改变的各种形式。
   - id: 171
     kind: body
     source: |-
       Sven Ove Hansson (1995) provided a detailed analysis of preference change, identifying four distinct types within the AGM framework:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Sven Ove Hansson（1995）对偏好改变作了细致分析，在 AGM 框架内辨识出四种类型：
+    step2: |-
+      Sven Ove Hansson（1995）对偏好改变作了细致分析，在 AGM 框架内辨识出四种类型：
   - id: 172
     kind: body
     source: |-
@@ -1493,164 +1537,238 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       - **contraction**: removing the preference that “$\varphi$ is preferable to $\psi$”.
       - **addition**: adding a new alternative to the set of options considered.
       - **subtraction**: removing an option from the set of options considered.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - **修正**：获得对 $\varphi$ 优于 $\psi$ 的偏好，伴随修正陈述“$\varphi$ 优于 $\psi$”。
+      - **收缩**：移除“$\varphi$ 优于 $\psi$”这一偏好。
+      - **添加**：向所考虑的选项集添加一个新备选物。
+      - **删除**：从所考虑的选项集中移除一个选项。
+    step2: |-
+      - **修正**：获得对 $\varphi$ 优于 $\psi$ 的偏好，伴随修正陈述“$\varphi$ 优于 $\psi$”。
+      - **收缩**：移除“$\varphi$ 优于 $\psi$”这一偏好。
+      - **添加**：向所考虑的选项集添加一个新备选物。
+      - **删除**：从所考虑的选项集中移除一个选项。
   - id: 173
     kind: body
     source: |-
       While belief revision assigns priorities to minimize changes to prior beliefs, Hansson argues that priorities are unsuitable for preference revision. In preference revision, accommodating a new statement like $\varphi\succeq \psi$ can involve adjusting the position of either $\varphi$ or $\psi$. He also proposes a similarity measure to keep the revised preference model as close to the original as possible, along with AGM-style postulates for these operators.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信念修正通过分配优先性来最小化对先前信念的改变；Hansson 则论证优先性不适合偏好修正。在偏好修正中，接纳像 $\varphi\succeq \psi$ 这样的新陈述，可能涉及调整 $\varphi$ 或 $\psi$ 任意一方的位置。他还提出一个相似性测度，使修正后的偏好模型尽可能接近原模型，并为这些算子给出 AGM 式公设。
+    step2: |-
+      信念修正通过分配优先性来最小化对先前信念的改变；Hansson 则论证优先性不适合偏好修正。在偏好修正中，接纳像 $\varphi\succeq \psi$ 这样的新陈述，可能涉及调整 $\varphi$ 或 $\psi$ 任意一方的位置。他还提出一个相似性测度，使修正后的偏好模型尽可能接近原模型，并为这些算子给出 AGM 式公设。
   - id: 174
     kind: body
     source: |-
       Van Benthem and Liu (2007) developed an extension of dynamic epistemic logic as a way to reason about preference change. A “suggestion” operator was introduced, denoted as $\sharp\varphi$. The formula $[\sharp\varphi]\psi$ means “After $\varphi$ is publicly suggested, $\psi$ holds”, and is defined as:
 
       $$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ iff }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以推理偏好改变。文中引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 $\varphi$ 被公开建议之后，$\psi$ 成立”，定义为：
+    step2: |-
+      Van Benthem 与 Liu（2007）发展了动态认知逻辑的一个扩充，用以推理偏好改变。文中引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 $\varphi$ 被公开建议之后，$\psi$ 成立”，定义为：
   - id: 175
     kind: body
     source: |-
       where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from $\varphi$-worlds to $\neg \varphi$-worlds:
 
       $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from $\varphi$-worlds to $\neg \varphi$-worlds:
+      
+      $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
+    step2: |-
+      where $\mathcal{M}_{\sharp \varphi}$ is defined with the same domain, valuation, and actual world as $(\mathcal{M}, s)$ but with the preference relations updated by subtracting the preference links from $\varphi$-worlds to $\neg \varphi$-worlds:
+      
+      $$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ and } \mathfrak{M}, t \models \neg \varphi\}.$$
   - id: 176
     kind: body
     source: |-
       More generally, in this framework, suggestion $\sharp(\varphi)$ can be understood as a relational program in propositional dynamic logic (PDL) (cf. Harel, Kozen, & Tiuryn 2000), with
 
       $$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更一般地，在此框架中，建议 $\sharp(\varphi)$ 可以理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel, Kozen, & Tiuryn 2000），即
+    step2: |-
+      更一般地，在此框架中，建议 $\sharp(\varphi)$ 可以理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel, Kozen, & Tiuryn 2000），即
   - id: 177
     kind: body
     source: |-
       indicating that all existing R links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
 
       $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      indicating that all existing R links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
+      
+      $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
+    step2: |-
+      indicating that all existing R links are retained with the exception of those links from $\varphi$-worlds to $\neg \varphi$-worlds. This setup allows for different types of preference change. For example, adding preference links (making every $\varphi$-world preferable to every $\neg \varphi$-world) can be represented as
+      
+      $$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
   - id: 178
     kind: body
     source: |-
       where $\top$ denotes the universal relation. *Radical preference upgrade* is defined as
 
       $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      where $\top$ denotes the universal relation. *Radical preference upgrade* is defined as
+      
+      $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
+    step2: |-
+      where $\top$ denotes the universal relation. *Radical preference upgrade* is defined as
+      
+      $$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
   - id: 179
     kind: body
     source: |-
       which makes all $\varphi$-worlds preferable to all $\neg \varphi$-worlds while preserving the original ordering within each group.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      它使所有 $\varphi$-世界优于所有 $\neg \varphi$-世界，同时保留每组内部的原有序。
+    step2: |-
+      它使所有 $\varphi$-世界优于所有 $\neg \varphi$-世界，同时保留每组内部的原有序。
   - id: 180
     kind: body
     source: |-
       This dynamic preference logic extends DEL by supporting various relation-changing operators, and Van Benthem and Liu (2007) provide completeness theorems for these operators. Their results leverage the PDL format, which enables reduction of dynamic modalities and recursive computation of reduction axioms.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这一动态偏好逻辑通过支持多种关系改变算子而扩充 DEL；Van Benthem 与 Liu（2007）为这些算子给出完全性定理。其结果借助 PDL 格式——它使动态模态词的归约与归约公理的递归计算成为可能。
+    step2: |-
+      这一动态偏好逻辑通过支持多种关系改变算子而扩充 DEL；Van Benthem 与 Liu（2007）为这些算子给出完全性定理。其结果借助 PDL 格式——它使动态模态词的归约与归约公理的递归计算成为可能。
   - id: 181
     kind: body
     source: |-
       ### 5.2 Preference change driven by belief update
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.2 由信念更新驱动的偏好改变
+    step2: |-
+      ### 5.2 由信念更新驱动的偏好改变
   - id: 182
     kind: body
     source: |-
       The second type of preference change arises in response to changes in belief and reflects the dynamic interplay between what an agent believes and how they evaluate options. This topic has gained reasonable attention (see the work of Bradley 2007, Lang & Van der Torre 2008, and Liu 2011b)[^bradley-2007][^lang-2008][^liu-2011b]. For instance, following the tradition of decision theory established by Savage (1954), Bradley argues that preference change can arise from a change in beliefs where “preference change is induced by a redistribution of belief across some partition of the possibility space”. He formalizes this principle using a Bayesian approach. Consider the following example by Lang and Van der Torre (2008):
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二类偏好改变应答于信念的改变，反映行动者所信与所评之间的动态互动。这一话题已获得相当关注（见 Bradley 2007、Lang & Van der Torre 2008 与 Liu 2011b 的工作）[^bradley-2007][^lang-2008][^liu-2011b]。例如，遵循 Savage（1954）确立的决策论传统，Bradley 论证偏好改变可以源于信念改变——“偏好改变由信念在可能性空间某个划分上的重新分布所引发”。他以贝叶斯进路形式化这一原则。考虑 Lang 与 Van der Torre（2008）的如下例子：
+    step2: |-
+      第二类偏好改变应答于信念的改变，反映行动者所信与所评之间的动态互动。这一话题已获相当关注（见 Bradley 2007、Lang & Van der Torre 2008 与 Liu 2011b 的工作）[^bradley-2007][^lang-2008][^liu-2011b]。例如，遵循 Savage（1954）确立的决策论传统，Bradley 论证偏好改变可以源于信念改变——“偏好改变由信念在可能性空间某个划分上的重新分布所引发”。他以贝叶斯进路形式化这一原则。考虑 Lang 与 Van der Torre（2008）的如下例子：
   - id: 183
     kind: body
     source: |-
       > Initially, I desire to eat sushi from this plate. Then I learn that this sushi has been made with old fish. Now I desire not to eat this sushi. (2008: 351)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 起初，我想吃这盘里的寿司。随后我得知这寿司是用不新鲜的鱼做的。现在我不想吃这寿司了。（2008: 351）
+    step2: |-
+      > 起初，我想吃这盘里的寿司。随后我得知这寿司是用不新鲜的鱼做的。现在我不想吃这寿司了。（2008: 351）
   - id: 184
     kind: body
     source: |-
       Learning that the sushi was made with old fish changes my belief, which then reverses my initial preference. Here, preference change is a consequence of belief change, making belief change the key element to model.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      得知寿司以不新鲜的鱼做成改变了我的信念，进而反转了我最初的偏好。这里，偏好改变是信念改变的结果，信念改变因此成为建模的关键要素。
+    step2: |-
+      得知寿司以不新鲜的鱼做成改变了我的信念，进而反转了我最初的偏好。这里，偏好改变是信念改变的结果，信念改变因此成为建模的关键要素。
   - id: 185
     kind: body
     source: |-
       The AGM framework addresses belief revision by establishing postulates for how a belief set should adapt to new, possibly conflicting, information. Lang and Van der Torre (2008) apply a similar approach to preference change resulting from belief updates. The formal language proposed includes: a dyadic modal operator for belief, $N(\alpha\mid\beta)$, meaning “$\alpha$ is normal (or believed) given $\beta$”; a preference operator, $P(\alpha\mid\beta)$, meaning “$\alpha$ is preferred given $\beta$”; and a dynamic operator, $[*\alpha]\beta$, read as “after learning $\alpha$, $\beta$ holds”. To capture the properties of preference change, they propose eight postulates. Two examples are given below:
 
       $$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      AGM 框架通过建立公设来处理信念修正：规定信念集应如何适应新的、可能冲突的信息。Lang 与 Van der Torre（2008）把类似进路应用于由信念更新导致的偏好改变。其提出的形式语言包括：信念的二元模态算子 $N(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是正常的（或被相信的）”；偏好算子 $P(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是更偏好的”；以及动态算子 $[*\alpha]\beta$，读作“在习得 $\alpha$ 后，$\beta$ 成立”。为刻画偏好改变的性质，他们提出八条公设。两条例子如下：
+    step2: |-
+      AGM 框架通过建立公设处理信念修正：规定信念集应如何适应新的、可能冲突的信息。Lang 与 Van der Torre（2008）把类似进路应用于由信念更新导致的偏好改变。其提出的形式语言包括：信念的二元模态算子 $N(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是正常的（或被相信的）”；偏好算子 $P(\alpha\mid\beta)$，意为“给定 $\beta$，$\alpha$ 是更偏好的”；以及动态算子 $[*\alpha]\beta$，读作“在习得 $\alpha$ 后，$\beta$ 成立”。为刻画偏好改变的性质，他们提出八条公设。两条例子如下：
   - id: 186
     kind: body
     source: |-
       (P1) means that learning that something is already preferred does not alter the initial preference. For instance, if I desire wealth, then upon becoming wealthy, this preference remains. This persistence generally feels natural, but is debated; in Jeffrey’s decision theory, for example, once you become wealthy, the desire to become wealthy may no longer apply.
 
       $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      （P1）意味着：习得某物已是所偏好的，并不改变初始偏好。例如，若我渴望财富，那么在变得富有时，这一偏好仍然保持。这种持续性通常显得自然，但也有争议：例如在 Jeffrey 的决策论中，一旦你变得富有，变富的欲望可能就不再适用。
+    step2: |-
+      （P1）意味着：习得某物已是所偏好的，并不改变初始偏好。例如，若我渴望财富，那么在变得富有时，这一偏好仍保持。这种持续性通常显得自然，但也有争议：例如在 Jeffrey 的决策论中，一旦你变得富有，变富的欲望可能就不再适用。
   - id: 187
     kind: body
     source: |-
       (P5) implies that learning that something that was expected is actually the case should not alter existing preferences. This principle, equivalently stated as $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$, expresses that unexpected information is necessary for preference change to occur.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      (P5) implies that learning that something that was expected is actually the case should not alter existing preferences. This principle, equivalently stated as $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$, expresses that unexpected information is necessary for preference change to occur.
+    step2: |-
+      (P5) implies that learning that something that was expected is actually the case should not alter existing preferences. This principle, equivalently stated as $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$, expresses that unexpected information is necessary for preference change to occur.
   - id: 188
     kind: body
     source: |-
       In summary, belief updates drive preference changes, which demonstrates their close relationship. Frameworks like the AGM theory and dynamic logic systems provide tools for modeling this evolution.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      总之，信念更新驱动偏好改变，这表明二者的紧密关系。AGM 理论与动态逻辑系统等框架为建模这一演化提供了工具。
+    step2: |-
+      总之，信念更新驱动偏好改变，这表明二者的紧密关系。AGM 理论与动态逻辑系统等框架为建模这一演化提供了工具。
   - id: 189
     kind: body
     source: |-
       ### 5.3 Two-layer models of preference change
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 5.3 偏好改变的双层模型
+    step2: |-
+      ### 5.3 偏好改变的双层模型
   - id: 190
     kind: body
     source: |-
       In a two-layer structure, the priority base can shift due to changes in the relative importance of factors naturally leading to corresponding changes in preferences. De Jongh and Liu (2009) examined the interplay between a linear priority base and preferences and showed how priority shifts influence preference relations. In a related context, Andréka, Ryan, and Schobbens (2002) explored methods for deriving preferences from various priority orderings within a more general, non-linear graph structure. Building on these ideas, Girard (2008) and Liu (2011a) introduced basic graph update operations that offer a formal framework for analyzing changes in priority structures. Christoff, Gratzl, and Roy (2021) studied the proof theory of priority merge in labeled sequents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在双层结构中，优先基可以随诸因素相对重要性的变化而移动，自然导致相应的偏好改变。De Jongh 与 Liu（2009）考察了线性优先基与偏好之间的互动，展示优先性移动如何影响偏好关系。在相关语境中，Andréka、Ryan 与 Schobbens（2002）在更一般的非线性图结构中探索了从各种优先序导出偏好的方法。沿这些思路，Girard（2008）与 Liu（2011a）引入基本的图更新操作，为分析优先结构的改变提供形式框架。Christoff、Gratzl 与 Roy（2021）研究了标记相继演算中优先合并的证明论。
+    step2: |-
+      在双层结构中，优先基可以随诸因素相对重要性的变化而移动，自然导致相应的偏好改变。De Jongh 与 Liu（2009）考察线性优先基与偏好之间的互动，展示优先性移动如何影响偏好关系。在相关语境中，Andréka、Ryan 与 Schobbens（2002）在更一般的非线性图结构中探索从各种优先序导出偏好的方法。沿这些思路，Girard（2008）与 Liu（2011a）引入基本的图更新操作，为分析优先结构的改变提供形式框架。Christoff、Gratzl 与 Roy（2021）研究标记相继演算中优先合并的证明论。
   - id: 191
     kind: body
     source: |-
       #### 5.3.1 Graph updates: basic operations
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 5.3.1 图更新：基本操作
+    step2: |-
+      #### 5.3.1 图更新：基本操作
   - id: 192
     kind: body
     source: |-
       Suppose there is a priority base, denoted as $\mathscr{B}$, which is a set of prioritized propositions. When a new proposition A is added, there are straightforward options for incorporating it:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设有一个优先基，记作 $\mathscr{B}$，它是一组带优先性的命题。当新命题 A 加入时，有几种直接的纳入方式：
+    step2: |-
+      设有一个优先基，记作 $\mathscr{B}$，它是一组带优先性的命题。当新命题 A 加入时，有几种直接的纳入方式：
   - id: 193
     kind: body
     source: |-
       - give A the highest priority: A can be placed at the top of the priority base to make it the most important proposition.
       - give A the lowest priority: A can be added to the bottom to give it the lowest priority.
       - **side by side**: A can be placed alongside $\mathscr{B}$ without establishing an order between A and the other priorities.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 给 A 最高优先性：可以把 A 放在优先基顶部，使之成为最重要的命题。
+      - 给 A 最低优先性：可以把 A 加在底部，使之优先性最低。
+      - **并列**：可以把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
+    step2: |-
+      - 给 A 最高优先性：可把 A 放在优先基顶部，使之成为最重要的命题。
+      - 给 A 最低优先性：可把 A 加在底部，使之优先性最低。
+      - **并列**：可把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
   - id: 194
     kind: body
     source: |-
       The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
 
       $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
+      
+      $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
+    step2: |-
+      The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
+      
+      $$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
   - id: 195
     kind: body
     source: |-
       Here, $\mathscr{B}_1 ; \mathscr{B}_2$ represents the sequential composition of adding $\mathscr{B}_1$ on top of $\mathscr{B}_2$ so that every element in $\mathscr{B}_1$ has a higher priority than every element in $\mathscr{B}_2$. Parallel composition, ($\mathscr{B}_1 \parallel \mathscr{B}_2$), combines $\mathscr{B}_1$ and $\mathscr{B}_2$ as disjoint sets with no priority ordering between them.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Here, $\mathscr{B}_1 ; \mathscr{B}_2$ represents the sequential composition of adding $\mathscr{B}_1$ on top of $\mathscr{B}_2$ so that every element in $\mathscr{B}_1$ has a higher priority than every element in $\mathscr{B}_2$. Parallel composition, ($\mathscr{B}_1 \parallel \mathscr{B}_2$), combines $\mathscr{B}_1$ and $\mathscr{B}_2$ as disjoint sets with no priority ordering between them.
+    step2: |-
+      Here, $\mathscr{B}_1 ; \mathscr{B}_2$ represents the sequential composition of adding $\mathscr{B}_1$ on top of $\mathscr{B}_2$ so that every element in $\mathscr{B}_1$ has a higher priority than every element in $\mathscr{B}_2$. Parallel composition, ($\mathscr{B}_1 \parallel \mathscr{B}_2$), combines $\mathscr{B}_1$ and $\mathscr{B}_2$ as disjoint sets with no priority ordering between them.
   - id: 196
     kind: body
     source: |-
