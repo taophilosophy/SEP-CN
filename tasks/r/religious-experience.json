@@ -2,7 +2,7 @@
   "slug": "religious-experience",
   "kind": "retranslate",
   "zh_doc": "r/religious-experience.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -52,6 +52,27 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-04T21:24:53Z",
       "evidence": "r1 初审（对照源自审）：31 段逐段回读，重点核 Plantinga/Alston 两长论证的方向与模态（恰当基本/M-信念/信念实践/击败因子）、四类宗教经验划分、诸传统对象（梵/空/道/内观/见性/理学/无为）括注体系一致；结构完整性验收（导语+4 节+参考文献+学术工具+OIR+相关词条 8 项，无脚注节——源无注）；0 问题。r2 独立复核放下会话（冷置自然形成）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "RZ-main-20261104+r2独立复核agent",
+      "at": "2026-11-04T21:59:52Z",
+      "evidence": "r2 复审（逐句回核源↔译，初译外独立 agent）：6 处（2 Major+4 Minor）全采纳——①Major 衍文残句：s2 改写 seg19 时只换前导句、旧句尾「宗教多样性的事实，以及…可得性。」未删，重建后删除；②Major 模态升格：seg10「即便这些弱化版也没能完全逃过」→「也未必能完全逃过」（It is not clear that 的存疑语气还原，且消除与后句让步的自相矛盾）；③seg19「得不到的得不到」衍字（人名汉名改写残留）删除；④seg24 主项偏移「分析宗教哲学的大家多出于」→「大量分析宗教哲学工作完成于」；⑤seg5 量项「也许最常见的是」→「也许大多数是」；⑥seg28「儒者者」叠字→「以儒者自居者」。复核员核过：42 定义逐字符 diff、8 引用位置/10 键、四行制学术工具、OIR、相关词条 8 项、pubinfo、Ayer 源文错排 3s 如实照录。终验：残句 0/衍字 0/模态与主项落稿✓，prose 6（豁免类）/style 0/academic 0 硬错误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:59:53Z",
+      "evidence": "r3 终审（冷置后回读）：冷置任务=reid-memory-identity 立项+术语侦察（33a66311）；r2 六处落点终验全过（衍文 0/衍字 0/模态主项量项落稿）；结构完整性（导语+4 节+参考文献 42+学术工具四行+OIR+相关词条 8 项，无脚注节——源无注）；六检：style 0/academic 0 硬错误/math 0/summary 0/prose 6 豁免留痕/lint 随 CI"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:59:53Z",
+      "evidence": "done：六道全过，religious-experience 为 RZ 会话第 4 个收口件（r 批 done=4/85）"
     }
   ],
   "blockers": [],
