@@ -1,0 +1,29 @@
+{
+ "slug": "reid-memory-identity",
+ "kind": "retranslate",
+ "zh_doc": "r/reid-memory-identity.md",
+ "state": "cleared",
+ "steps": [
+  {
+   "step": "direction",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-04T21:31:20Z",
+   "evidence": "方向声明（rules/08）：r 批第 5 件 reid-memory-identity（68KB）。目标：六道全过同验收判据；工具链复用 build_*.py+组装器+rz_postfix（含别名行判定/slug 精确优先/姓,名换序三升级）。非目标同前件。同时作为 religious-experience r2 复核期间的冷置任务。"
+  },
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-04T21:31:20Z",
+   "evidence": "baseline gate: hash_ok"
+  }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-04T21:31:20Z",
+ "version_pin": {
+  "pubinfo_date": "Nov 7, 2024",
+  "archive_edition": "Summer 2026",
+  "sha256": "f675fe971397c1d672fe6afe015c4fa48c8d859724b14ee029c1a9c9685a6ad7"
+ }
+}
