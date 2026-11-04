@@ -1,0 +1,16 @@
+{
+  "slug": "theta",
+  "kind": "retranslate",
+  "zh_doc": "argument/theta-inflight.md",
+  "state": "cleared",
+  "created_at": "2026-11-04T00:00:00Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 3, 2001",
+    "archive_edition": "Spring 2020",
+    "sha256": "theta0000000000000000000000000000000000000000000000000000000000"
+  },
+  "steps": [
+    {"step": "clear", "status": "ok", "actor": "task_ops", "at": "2026-11-04T00:00:00Z", "evidence": "baseline gate: hash_ok"}
+  ],
+  "blockers": []
+}

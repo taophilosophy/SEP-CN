@@ -2,7 +2,7 @@
   "slug": "lorenzo-valla",
   "kind": "retranslate",
   "zh_doc": "l/lorenzo-valla.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-03T19:54:22Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T15:13:28Z",
+      "evidence": "draft+compose: lq.py 守恒门 43 段全绿（source 与 yuanwen 逐字符一致，残余=0）；相关词条 4 未匹配项按 SUMMARY 定名回填（亚里士多德的伦理学/自由意志/诡辩/三段论：中世纪的三段论理论）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T15:13:28Z",
+      "evidence": "s1 一校：check_prose 74→2（残余 2 项均为引文内部：Peter of Spain《逻辑小集》长引文、奥古斯丁 uti/frui 引文的'的'链，ADR-0020 引文豁免）；check_style 0；check_math 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T15:13:28Z",
+      "evidence": "s2 二校：术语 17 条（君士坦丁的赠礼/波菲利之树/词项主义/省略三段论/预定论/质形论/白板/估量力/逍遥学派/堆垛论证/二难推理/对立立方阵等）+人名 20 条（波焦·布拉乔利尼/萨索费拉托的巴尔托鲁/普罗塔戈拉等）登记入册；check_terms 硬错误 0（劳伦佐/特莱西奥/比韦斯与 011 体例会话对齐一致）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261103",
+      "at": "2026-11-04T15:13:31Z",
+      "evidence": "s3 三校：check_academic --strict OK、check_prose/check_style 复跑全绿；ADR-0020 豁免 2 项（引文内部长句与'的'链）记录于 s1 证据；H1 劳伦佐·瓦拉与 SUMMARY/人名表/词汇表三方一致"
     }
   ],
   "blockers": [],

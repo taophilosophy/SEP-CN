@@ -82,6 +82,35 @@ class CheckAcademicTests(unittest.TestCase):
         code, _ = run('--docs', os.path.join(FIX, 'argument', 'no-such.md'))
         self.assertEqual(code, 2)
 
+    # ---- 2026-11-04 复核纠正：在途豁免（state ≠ done）与 `_` 前缀脚手架跳过 ----
+
+    def test_inflight_entry_tail_deferred(self):
+        # theta（state=cleared）：尾节（脚注定义表/参考文献/学术工具）未拼装
+        # 属正常中间态，不得报尾节类发现
+        self.assertNotIn('[biblio-missing] argument/theta-inflight.md', self.out)
+        self.assertNotIn('[orphan-ref] argument/theta-inflight.md', self.out)
+        self.assertNotIn('[scholar-tools-missing] argument/theta-inflight.md', self.out)
+        # 在途计数：alpha（s1_checked）+ beta（drafted）+ theta（cleared）
+        self.assertIn('在途豁免 3', self.out)
+
+    def test_done_entry_pubinfo_still_enforced(self):
+        # 在途豁免只覆盖尾节拼装类；pubinfo 等正文级检查对 done 词条照常全量把关
+        self.assertIn('[pubinfo-mismatch] argument/epsilon-wang-wu.md', self.out)
+
+    def test_done_entry_tail_still_enforced(self):
+        # zeta（state=done）尾节缺失仍上报
+        self.assertIn('[biblio-missing] argument/zeta-done.md', self.out)
+        self.assertIn('[orphan-ref] argument/zeta-done.md', self.out)
+
+    def test_underscore_scaffold_skipped(self):
+        # `_` 前缀路径=会话脚手架，不按词条体例检查（防批量提示词误报）
+        self.assertNotIn('_batch_prompts', self.out)
+        self.assertNotIn('_workspace_note', self.out)
+
+    def test_routine_task_pin_exempt(self):
+        # 非词条绑定任务（zh_doc 为空，如每日例行漂移检查）不要求 version_pin
+        self.assertNotIn('routine-drift', self.out)
+
 
 if __name__ == '__main__':
     unittest.main()

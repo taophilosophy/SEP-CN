@@ -1,0 +1,11 @@
+{
+  "slug": "routine-drift-check",
+  "kind": "daily-check",
+  "zh_doc": null,
+  "state": "checked",
+  "created_at": "2026-11-04T00:00:00Z",
+  "steps": [
+    {"step": "scan", "status": "ok", "actor": "daily-routine", "at": "2026-11-04T00:00:00Z", "evidence": "0 命中，例行登记"}
+  ],
+  "blockers": []
+}
