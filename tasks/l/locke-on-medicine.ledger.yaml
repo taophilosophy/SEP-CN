@@ -1211,92 +1211,122 @@ segments:
     kind: body
     source: |-
       > There is not so contemptible a Plant or Animal, that does not confound the most inlarged Understanding. Though the familiar use of Things about us, take off our Wonder; yet it cures not our Ignorance. When we come to examine the Stones, we tread on; or the Iron, we daily handle, we presently find, we know not their Make; and can give no reason, of the different Qualities we find in them, ’Tis evident the internal constitution whereon the Properties depend, is unknown to us … The Workmanship of the All-wise, and Powerful God, in the great Fabrick of the Universe, and every part thereof, further exceeds the Capacity and Comprehension of the most inquisitive and intelligent Man. (Locke 1690: III.vi.9 [1975: 444])[^locke-1690][^locke-1690-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 没有哪株植物或动物卑微到不至于困惑最开阔的理解。尽管对身边事物的熟悉使用减除我们的惊奇，却治不好我们的无知。当我们着手考察所踩的石头或日日触摸的铁时，我们立刻发现：我们不知道它们的构造，也无法对我们从中发现的种种不同性质给出理由。显然，性质所依赖的内部构造于我们是未知的……全知全能的上帝在宇宙这一伟大构造及其每一部分中的做工，进一步超出最有求知欲、最有智力的人的能力与理解。（Locke 1690: III.vi.9 [1975: 444]）[^locke-1690][^locke-1690-2]
+    step2: |-
+      > 没有哪株植物或动物卑微到不至于困惑最开阔的理解。尽管对身边事物的熟悉使用减除我们的惊奇，却治不好我们的无知。当我们着手考察所踩的石头或日日触摸的铁时，我们立刻发现：我们不知道它们的构造，也无法对我们从中发现的种种不同性质给出理由。显然，性质所依赖的内部构造于我们是未知的……全知全能的上帝在宇宙这一伟大构造及其每一部分中的做工，进一步超出最有求知欲、最有智力的人的能力与理解。（Locke 1690: III.vi.9 [1975: 444]）[^locke-1690][^locke-1690-2]
   - id: 152
     kind: body
     source: |-
       Consequently, the only way to understand the world was to undertake the same sort of careful and diligent observation of the world that a doctor would undertake of a patient—that is, through natural history:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      因此，理解世界的唯一途径，是医生对病人所做的那种仔细而勤勉的观察——即经由自然史：
+    step2: |-
+      因此，理解世界的唯一途径，是医生对病人所做的那种仔细而勤勉的观察——即经由自然史：
   - id: 153
     kind: body
     source: |-
       > In the Knowledge of Bodies, we must be content to glean, what we can, from particular Experiments: since we cannot from a Discovery of their real Essences, grasp at a time whole Sheaves; and in bundles comprehend the Nature and Properties of whole Species together. Where our Enquiry is concerning Co-existence, or Repugnancy to co-exist, which by Contemplation of our Ideas, we cannot discover; there Experience, Observation, and natural History, must give us by our Senses, and by retail, an insight into corporeal Substances. (Locke 1690: IV.xii.12 [1975: 647])[^locke-1690][^locke-1690-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 在物体的知识中，我们必须满足于从特定实验中拾取所能拾取者：因为我们无法凭借发现其实质本质而一下子把握整捆麦束，也无法成捆地一并理解整个种的性质与属性。当我们的探究关乎共存或不相容于共存——这一点无法凭对我们观念的沉思而发现——经验、观察与自然史必须经由我们的感官、以零售的方式给我们洞入有形实体的机会。（Locke 1690: IV.xii.12 [1975: 647]）[^locke-1690][^locke-1690-2]
+    step2: |-
+      > 在物体的知识中，我们必须满足于从特定实验中拾取所能拾取者：因为我们无法凭借发现其实质本质而一下子把握整捆麦束，也无法成捆地一并理解整个种的性质与属性。当我们的探究关乎共存或不相容于共存——这一点无法凭对我们观念的沉思而发现——经验、观察与自然史必须经由我们的感官、以零售的方式给我们洞入有形实体的机会。（Locke 1690: IV.xii.12 [1975: 647]）[^locke-1690][^locke-1690-2]
   - id: 154
     kind: body
     source: |-
       Similarly, Locke’s recommendation of the mechanism was couched in terms of its intelligibility in describing the unobservable world, given our limited faculties:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      类似地，洛克对机械论的推荐，是就其在描述不可观察世界上的可理解性而言的——考虑到我们有限的官能：
+    step2: |-
+      类似地，洛克对机械论的推荐，是就其在描述不可观察世界上的可理解性而言的——考虑到我们有限的官能：
   - id: 155
     kind: body
     source: |-
       > I have here instanced in the corpuscularian Hypothesis, as that which is thought to go farthest in an intelligible Explication of the Qualities of Bodies; and I fear the Weakness of humane Understanding is scarce able to substitute another, which will afford us a fuller and clearer discovery of the necessary Connexion, and *Co-existence*, of the Powers, which are to be observed united in several sorts of them. (Locke 1690: IV.iii.16 [1975: 547–8])[^locke-1690][^locke-1690-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 我在此以微粒假说为例——人们认为它在解释物体性质方面走得最远；我担心人类理解的软弱，几乎无力替换出另一种假说，使我们对那些被观察到联合存在于多种物体中的能力之间的必然联结与*共存*，有更充分、更清晰的发现。（Locke 1690: IV.iii.16 [1975: 547–8]）[^locke-1690][^locke-1690-2]
+    step2: |-
+      > 我在此以微粒假说为例——人们认为它在解释物体性质方面走得最远；我担心人类理解的软弱，几乎无力替换出另一种假说，使我们对那些被观察到联合存在于多种物体中的能力之间的必然联结与*共存*，有更充分、更清晰的发现。（Locke 1690: IV.iii.16 [1975: 547–8]）[^locke-1690][^locke-1690-2]
   - id: 156
     kind: body
     source: |-
       But because this recommendation was based on what we can apprehend, Locke considered it perfectly possible that there are other modes of natural operation, but these are likely inconceivable to us and we are unlikley to ever understand how nature operates. Locke went on:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但由于这一推荐基于我们所能领会的东西，洛克认为完全可能存在其他的自然运作模式，只是这些模式我们多半无法设想，我们也多半永远无法理解自然如何运作。洛克接着说：
+    step2: |-
+      但由于这一推荐基于我们所能领会的东西，洛克认为完全可能存在其他的自然运作模式，只是这些模式我们多半无法设想，我们也多半永远无法理解自然如何运作。洛克接着说：
   - id: 157
     kind: body
     source: |-
       > This at least is certain, that, whichever Hypothesis be clearest and truest, (for of that it is not my business to determine,) our Knowledge concerning corporeal Substances will be very little advanced by any of them, till we are made to see what Qualities and Powers of Bodies have a *necessary Connexion or Repugnancy* one with another; which in the present State of Philosophy I think we know but to a very small degree: and I doubt whether, with those Faculties we have, we shall ever be able to carry our general Knowledge (I say not particular Experience) in this part much further. Experience is that which in this part we must depend on. (Locke 1690: IV.iii.16 [1975: 548])[^locke-1690][^locke-1690-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 至少可以确定的是：无论哪一种假说最清晰、最真实（因为这并非我要裁定的事），关于有形实体的知识都不会因它们而有多少推进，直到我们得以看清：物体的哪些性质与能力彼此之间有*必然的联结或不相容*；而以哲学的目前状态，我想我们对这一点的所知甚微；而且我怀疑，以我们现有的官能，我们能否把这方面的普遍知识（我说的是普遍知识，不是特定经验）推进得更远。在这一部分，我们必须依赖的是经验。（Locke 1690: IV.iii.16 [1975: 548]）[^locke-1690][^locke-1690-2]
+    step2: |-
+      > 至少可以确定的是：无论哪一种假说最清晰、最真实（因为这并非我要裁定的事），关于有形实体的知识都不会因它们而有多少推进，直到我们得以看清：物体的哪些性质与能力彼此之间有*必然的联结或不相容*；而以哲学的目前状态，我想我们对这一点的所知甚微；而且我怀疑，以我们现有的官能，我们能否把这方面的普遍知识（我说的是普遍知识，不是特定经验）推进得更远。在这一部分，我们必须依赖的是经验。（Locke 1690: IV.iii.16 [1975: 548]）[^locke-1690][^locke-1690-2]
   - id: 158
     kind: body
     source: |-
       Given the limited state of our faculties, experience is what we must more generally rely upon. Locke’s endorsement of the corpuscularian philosophy was a function of our cognitive and sensory faculties. Locke was well aware that there were numerous difficulties that the corpuscularian theory could not well account for—the cohesion of matter, or the relation of idea of secondary qualities to their primary quality causes, for example. But these were just examples of the wider weakness of human understanding and the limited recommendation he could make of any natural philosophical theory about unobservable phenonema.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      鉴于我们官能的有限状态，我们更普遍地必须依赖经验。洛克对微粒哲学的赞同，是我们的认知与感官官能的一个函数。洛克清楚地意识到微粒理论无法妥善处理的诸多困难——物质的凝聚，或第二性质的观念与其第一性质原因的关系，例如。但这些只是人类理解之普遍软弱的例证，以及他能够对关于不可观察现象的任何自然哲学理论作出的有限推荐的例证。
+    step2: |-
+      鉴于我们官能的有限状态，我们更普遍地必须依赖经验。洛克对微粒哲学的赞同，是我们的认知与感官官能的一个函数。洛克清楚地意识到微粒理论无法妥善处理的诸多困难——物质的凝聚，或第二性质的观念与其第一性质原因的关系，例如。但这些只是人类理解之普遍软弱的例证，以及他能够对关于不可观察现象的任何自然哲学理论作出的有限推荐的例证。
   - id: 159
     kind: body
     source: |-
       ## 7. Locke on Hypotheses
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 7 洛克论假说
+    step2: |-
+      ## 7 洛克论假说
   - id: 160
     kind: body
     source: |-
       In “De Arte Medica” Locke noted a natural predeliction to formulate hypotheses:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《论医术》中洛克指出了人类构造假说的自然倾向：
+    step2: |-
+      在《论医术》中洛克指出了人类构造假说的自然倾向：
   - id: 161
     kind: body
     source: |-
       > mans understanding, which not contenting its self to observe the operation of nature & the event of things, is very inquisitive after their cause & very restlesse & unquiet till in those things wch it is conversant about, it has framed to its self some hypothesis & laid a foundation whereon to establish all its reasonings. (Locke 1669 [2014: fo. 50r])[^locke-1669]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 人的理解不甘于只观察自然的运作与事物的结果，而热衷于追问其原因，焦躁不宁，直到在它所打交道的事情上为自己构造出某个假说、奠定一个基础，以便在其上确立自己的一切推理。（Locke 1669 [2014: fo. 50r]）[^locke-1669]
+    step2: |-
+      > 人的理解不甘于只观察自然的运作与事物的结果，而热衷于追问其原因，焦躁不宁，直到在它所打交道的事情上为自己构造出某个假说、奠定一个基础，以便在其上确立自己的一切推理。（Locke 1669 [2014: fo. 50r]）[^locke-1669]
   - id: 162
     kind: body
     source: |-
       These motivations might provide an explanation for the creation of hypotheses, but it would not make them any more useful:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这些动机或许可以解释假说的产生，却不会使假说更有用：
+    step2: |-
+      这些动机或许可以解释假说的产生，却不会使假说更有用：
   - id: 163
     kind: body
     source: |-
       > supposeing v.g. that too much acidity in the bloud or other juices caused the gout a fever or epilepsie what indication would this give a practicall physitian in the cure of either of these diseases tis true twill presently be suggested he must mortifie this acidity … he that shall proceed in such grounds as these may indeed constitute fine doctrines & lay plausible hypotheses but will not have much to brag of his cures. for the alterations that both our food & physick receives in our mouths stomachs guts glandules &c are soe many & soe unintelligible to us before they come to the places we designe them, that they are quite another thing then we imagine & worke not as we phansie but as nature pleases. (Locke 1669 [2014: fo. 37v])[^locke-1669]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 假设，譬如说，血液或其他体液中过多的酸引起痛风、热病或癫痫，这对一个执业医生治疗这些疾病会给出什么指示？的确，人们会立刻建议他必须消除这种酸性……但沿着这类根据行事的人，固然可以构成漂亮的学说、立起貌似可信的假说，却不会在治愈上有多少可夸耀之处。因为我们的食物与药物在口中、胃中、肠中、腺体中等等所经受的改变如此之多、对我们如此不可理解，以致它们在到达我们指定的部位之前已面目全非；它们并非如我们幻想的那样运作，而是如自然所愿。（Locke 1669 [2014: fo. 37v]）[^locke-1669]
+    step2: |-
+      > 假设，譬如说，血液或其他体液中过多的酸引起痛风、热病或癫痫，这对一个执业医生治疗这些疾病会给出什么指示？的确，人们会立刻建议他必须消除这种酸性……但沿着这类根据行事的人，固然可以构成漂亮的学说、立起貌似可信的假说，却不会在治愈上有多少可夸耀之处。因为我们的食物与药物在口中、胃中、肠中、腺体中等等所经受的改变如此之多、对我们如此不可理解，以致它们在到达我们指定的部位之前已面目全非；它们并非如我们幻想的那样运作，而是如自然所愿。（Locke 1669 [2014: fo. 37v]）[^locke-1669]
   - id: 164
     kind: body
     source: |-
       Locke’s wariness of hypotheses extended into the published *Essay*. Book IV, Chapter 12, Section 12 was titled “In the study of nature we must beware of hypotheses and wrong principles”, and lamented:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克对假说的警惕延伸到出版的《人类理解论》。第四卷第十二章第十二节题为“研究自然时我们必须提防假说与错误原理”，其中叹道：
+    step2: |-
+      洛克对假说的警惕延伸到出版的《人类理解论》。第四卷第十二章第十二节题为“研究自然时我们必须提防假说与错误原理”，其中叹道：
   - id: 165
     kind: body
     source: |-
       > He that shall consider, *how little general Maxims, precarious Principles, and Hypotheses laid down at Pleasure, have promoted true Knowledge*, or helped to satisfy the Enquiries of rational Men after real Improvements; How little, I say, the setting out at that end, has for many Ages together advanced Men’s Progress, towards the Knowledge of natural Philosophy, will think, we have Reason to thank those, who in this latter Age have taken another Course, and have trod out to us, though not an easier way to learned Ignorance, yet a surer way to profitable Knowledge. (Locke 1690: IV.xii.12 [1975: 647])[^locke-1690][^locke-1690-2]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 谁若考量一下，*一般格言、武断原理与随意立下的假说，对推进真正的知识、对满足理性的人对真正改进的探求，究竟有多大帮助*——我说，谁若考量一下，如此起步在多少个世纪里推进了人们向自然哲学知识的进展——他就会认为，我们有理由感谢这个晚近时代里采取另一条路线的人们：他们为我们踏出的，虽不是一条通向博学的无知的更省力之路，却是一条通向有用知识的更可靠之路。（Locke 1690: IV.xii.12 [1975: 647]）[^locke-1690][^locke-1690-2]
+    step2: |-
+      > 谁若考量一下，*一般格言、武断原理与随意立下的假说，对推进真正的知识、对满足理性的人对真正改进的探求，究竟有多大帮助*——我说，谁若考量一下，如此起步在多少个世纪里推进了人们向自然哲学知识的进展——他就会认为，我们有理由感谢这个晚近时代里采取另一条路线的人们：他们为我们踏出的，虽不是一条通向博学的无知的更省力之路，却是一条通向有用知识的更可靠之路。（Locke 1690: IV.xii.12 [1975: 647]）[^locke-1690][^locke-1690-2]
   - id: 166
     kind: body
     source: |-
