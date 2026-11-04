@@ -1010,56 +1010,74 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       Van Benthem, Girard, and Roy (2009) argue that $\geq^{\forall\forall}$ under ceteris paribus represents the notion of “preference” intended by von Wright (1963) in his seminal work on preference logic and offers an axiomatization for it. The logic of ceteris paribus preference will be discussed in Section 6.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Van Benthem、Girard 与 Roy（2009）论证：其余条件相同下的 $\geq^{\forall\forall}$ 表示 von Wright（1963）在其偏好逻辑开创性著作中所意指的“偏好”概念，并为其提供公理化。其余条件相同的偏好逻辑将在第 6 节讨论。
+    step2: |-
+      Van Benthem、Girard 与 Roy（2009）论证：其余条件相同下的 $\geq^{\forall\forall}$ 表示 von Wright（1963）在其偏好逻辑开创性著作中所意指的“偏好”概念，并为其提供公理化。其余条件相同的偏好逻辑将在第 6 节讨论。
   - id: 112
     kind: body
     source: |-
       Other attempts to axiomatize logics for preference relations over sets of possible worlds have emerged across various research areas. Notable contributions include the works of Van Fraassen (1973), Lewis (1973), Spohn (1988), Boutilier (1990) and Halpern (1997) among many others. An illustrative example is provided below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为可能世界集合上的偏好关系公理化逻辑的其他尝试，出现在各个研究领域。值得注意的贡献包括 Van Fraassen（1973）、Lewis（1973）、Spohn（1988）、Boutilier（1990）与 Halpern（1997）等人的工作。下面给出一个示例。
+    step2: |-
+      为可能世界集合上的偏好关系公理化逻辑的其他尝试，出现在各个研究领域。值得注意的贡献包括 Van Fraassen（1973）、Lewis（1973）、Spohn（1988）、Boutilier（1990）与 Halpern（1997）等人的工作。下面给出一个示例。
   - id: 113
     kind: body
     source: |-
       Halpern (1997) proposed a complete axiomatization for the logic of “relative likelihood”. It was structurally similar to the logic of preference, or simply “preference” as he termed it. Unlike earlier axiomatizations, he accounted for both total and partial pre-orders. The language used is the same as that employed by von Wright—it excludes nested preference formulas—except that the atomic preference formulas $\varphi>\psi$ may include conjunctions and disjunctions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在结构上类似于偏好逻辑——或如他所称的“偏好”。与早期公理化不同，他同时处理全预序与偏序。所用语言与 von Wright 相同——排除嵌套偏好公式——只是原子偏好公式 $\varphi>\psi$ 可以包含合取与析取。
+    step2: |-
+      Halpern（1997）为“相对似然”逻辑提出一个完全公理化。它在结构上类似于偏好逻辑——或如他所称的“偏好”。与早期公理化不同，他同时处理全预序与偏序。所用语言与 von Wright 相同——排除嵌套偏好公式——只是原子偏好公式 $\varphi>\psi$ 可以包含合取与析取。
   - id: 114
     kind: body
     source: |-
       Given a preference model $\mathcal{M}=(W, \succeq, V)$, the preference formula is interpreted as follows:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      给定偏好模型 $\mathcal{M}=(W, \succeq, V)$，偏好公式解释如下：
+    step2: |-
+      给定偏好模型 $\mathcal{M}=(W, \succeq, V)$，偏好公式解释如下：
   - id: 115
     kind: body
     source: |-
       > $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
+    step2: |-
+      > $\mathcal{M} \models \varphi > \psi$ iff $\llbracket \varphi \rrbracket _{\mathcal{M}}$ is nonempty, $\forall v \in \llbracket \psi \rrbracket _{\mathcal{M}}\exists u \in \llbracket \varphi \rrbracket _{\mathcal{M}}$ such that $u\succ v$ and u dominates $\llbracket \psi \rrbracket _{\mathcal{M}}$
   - id: 116
     kind: body
     source: |-
       and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
+    step2: |-
+      and u dominates V if there is no $v' \in V$ such that $v'\succ u$.
   - id: 117
     kind: body
     source: |-
       The complete axiomatization of Halpern (1997) when $\succeq$ is a partial order consists of the axioms and rules listed in Figure 7. Axiom 2 corresponds to the reflexivity of $\succeq$, and axiom 3 corresponds to the transitivity of $\succeq$. In the case of a total preorder, the axiom $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$ must be added.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      当 $\succeq$ 是偏序时，Halpern（1997）的完全公理化由图 7 所列的公理与规则构成。公理 2 对应 $\succeq$ 的自反性，公理 3 对应 $\succeq$ 的传递性。在全预序情形，还须添加公理 $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$。
+    step2: |-
+      当 $\succeq$ 是偏序时，Halpern（1997）的完全公理化由图 7 所列的公理与规则构成。公理 2 对应 $\succeq$ 的自反性，公理 3 对应 $\succeq$ 的传递性。在全预序情形，还须添加公理 $\varphi_1>\varphi_2\rightarrow (\varphi_1>\varphi_3)\lor(\varphi_3>\varphi_2)$。
   - id: 118
     kind: body
     source: |-
       *Figure 7.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *Figure 7.*
+    step2: |-
+      *Figure 7.*
   - id: 119
     kind: body
     source: |-
       **System AX**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **系统 AX**
+    step2: |-
+      **系统 AX**
   - id: 120
     kind: body
     source: |-
@@ -1069,196 +1087,272 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
       5. Gen. $U\varphi,$ for all propositional tautologies.
       6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      1. All substitution instances of tautologies of propositional calculus.
+      2. $\neg (\varphi> \varphi)$
+      3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
+      4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
+      5. Gen. $U\varphi,$ for all propositional tautologies.
+      6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
+    step2: |-
+      1. All substitution instances of tautologies of propositional calculus.
+      2. $\neg (\varphi> \varphi)$
+      3. $((\varphi_1 \lor \varphi_2)> \varphi_3) \land ((\varphi_1\lor \varphi_3)> \varphi_2)\rightarrow(\varphi_1>(\varphi_2\lor \varphi_3))$
+      4. $U (\varphi_1\rightarrow\varphi_2) \land U(\varphi_3\rightarrow\varphi_4)\land(\varphi_1>\varphi_4) \rightarrow(\varphi_2>\varphi_3)$
+      5. Gen. $U\varphi,$ for all propositional tautologies.
+      6. MP. From $\varphi$ and $\varphi\rightarrow\psi$ infer $\psi$.
   - id: 121
     kind: body
     source: |-
       Figure 7.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 7。
+    step2: |-
+      图 7。
   - id: 122
     kind: body
     source: |-
       A recent paper by Shi and Sun (2021) explores an alternative method of preference lifting known as the Egli-Milner order. This bidirectional approach, formally defined below, considers both the best and worst elements across sets, aligning with the maximin principle of favorably balancing the worst outcomes:
 
       $$\mathcal{M}, w \models \varphi \geq \psi \text{ iff } \begin{cases} (1) \ \forall x \in \llbracket\varphi\rrbracket_w \ \exists y \in \llbracket\psi\rrbracket_w : x \succeq_w y; \\ (2) \ \forall x \in \llbracket\psi\rrbracket_w \ \exists y \in \llbracket\varphi\rrbracket_w : y \succeq_w x \end{cases}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方法，即 Egli-Milner 序。这一双向进路（形式定义见下）同时考虑集合中的最好与最坏元素，与趋利避害地平衡最坏结果的最大最小原则相呼应：
+    step2: |-
+      Shi 与 Sun（2021）的一篇近期论文探索了偏好提升的另一种方法，即 Egli-Milner 序。这一双向进路（形式定义见下）同时考虑集合中的最好与最坏元素，与趋利避害地平衡最坏结果的最大最小原则相呼应：
   - id: 123
     kind: body
     source: |-
       where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
+    step2: |-
+      where $\llbracket\varphi\rrbracket_w$ denotes the set of w-accessible worlds that satisfy $\varphi$. Traditionally applied in fields like denotational semantics, Shi and Sun (2021) extend the Egli-Milner order to preference logic by developing a complete axiomatic system for the “convex order” derived from a total pre-order.
   - id: 124
     kind: body
     source: |-
       ## 4. Reason-based preference
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 基于理由的偏好
+    step2: |-
+      ## 4 基于理由的偏好
   - id: 125
     kind: body
     source: |-
       Over the last two decades, the study of the logic of reason-based preference has been a primary focus of several research efforts surveyed in this section.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      过去二十年，基于理由的偏好逻辑研究是本节所综述的若干研究工作的主要焦点。
+    step2: |-
+      过去二十年，基于理由的偏好逻辑研究是本节所综述的若干研究工作的主要焦点。
   - id: 126
     kind: body
     source: |-
       ### 4.1 Intrinsic vs. extrinsic preferences
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.1 内在偏好与外在偏好
+    step2: |-
+      ### 4.1 内在偏好与外在偏好
   - id: 127
     kind: body
     source: |-
       The concept of reason-based preference originates from a well-known distinction between intrinsic and extrinsic preferences introduced by von Wright (1963). This distinction hinges on whether a preference is grounded in an explicit reason or justification.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      基于理由的偏好概念源自 von Wright（1963）提出的内在偏好与外在偏好的著名区分。这一区分的关键在于：偏好是否植根于一个明确的理由或证成。
+    step2: |-
+      基于理由的偏好概念源自 von Wright（1963）提出的内在偏好与外在偏好的著名区分。这一区分的关键在于：偏好是否植根于一个明确的理由或证成。
   - id: 128
     kind: body
     source: |-
       An *extrinsic preference* arises when one option is preferred over another because it is regarded as better in a specific respect. For example, in von Wright’s example, one person prefers claret over hock because it is beneficial for her health. Here, the preference for claret is extrinsic since it is based on an objective judgment about health benefits. Extrinsic preferences are thus tied to some underlying rationales, often involving external factors like health, practicalities, or expert advice.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *外在偏好*产生于如下情形：一个选项之所以优于另一个，是因为它在某个特定方面被认为更好。例如在 von Wright 的例子中，某人偏好波尔多红酒胜过莱茵白葡萄酒，因为红酒有益于其健康。这里对红酒的偏好是外在的，因为它基于一个关于健康益处的客观判断。因此，外在偏好系于某种底层理据——常涉及健康、实际考量或专家建议等外部因素。
+    step2: |-
+      *外在偏好*产生于如下情形：一个选项之所以优于另一个，是因为它在某个特定方面被认为更好。例如在 von Wright 的例子中，某人偏好波尔多红酒胜过莱茵白葡萄酒，因为红酒有益其健康。这里对红酒的偏好是外在的，因为它基于一个关于健康益处的客观判断。因此，外在偏好系于某种底层理据——常涉及健康、实际考量或专家建议等外部因素。
   - id: 129
     kind: body
     source: |-
       In contrast, an *intrinsic preference* is a preference based purely on personal liking, without any need for an explicit reason or justification. For instance, one person may prefer claret to hock simply because she likes the taste. This preference is intrinsic because it is driven solely by subjective enjoyment, with no reference to any external rationale.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      相比之下，*内在偏好*是纯粹基于个人喜好的偏好，无需明确的理由或证成。例如，某人可能偏好红酒胜过白酒，仅仅因为喜欢其口味。这一偏好是内在的，因为它完全由主观享受驱动，不涉及任何外部理据。
+    step2: |-
+      相比之下，*内在偏好*是纯粹基于个人喜好的偏好，无需明确的理由或证成。例如，某人可能偏好红酒胜过白酒，仅仅因为喜欢其口味。这一偏好是内在的，因为它完全由主观享受驱动，不涉及任何外部理据。
   - id: 130
     kind: body
     source: |-
       In formal models of extrinsic preference, a *two-layer structure* is typically adopted to account for the reason base and the preference.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在外在偏好的形式模型中，通常采用*双层结构*来兼顾理由基与偏好。
+    step2: |-
+      在外在偏好的形式模型中，通常采用*双层结构*来兼顾理由基与偏好。
   - id: 131
     kind: body
     source: |-
       ### 4.2 Two-layer structures
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 双层结构
+    step2: |-
+      ### 4.2 双层结构
   - id: 132
     kind: body
     source: |-
       #### 4.2.1 Priorities and preference
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.1 优先性与偏好
+    step2: |-
+      #### 4.2.1 优先性与偏好
   - id: 133
     kind: body
     source: |-
       In the context of deciding between options, the notion of priorities was introduced (Liu 2008, 2010; De Jongh & Liu 2009)[^liu-2008]. Priorities represent important properties ordered according to an individual’s considerations, which in turn determine preference among choices.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在选项间作决定的语境中，（Liu 2008, 2010; De Jongh & Liu 2009）[^liu-2008]引入了优先性概念。优先性表示按个人考量排序的重要属性，它们又决定选项间的偏好。
+    step2: |-
+      在选项间作决定的语境中，（Liu 2008, 2010; De Jongh & Liu 2009）[^liu-2008]引入了优先性概念。优先性表示按个人考量排序的重要属性，它们又决定选项间的偏好。
   - id: 134
     kind: body
     source: |-
       A two-layer structure consists of a priority base and preferences. A *priority base* is a set of properties ranked according to an agent’s considerations. Consider the example of Alice, who is deciding which house to buy. She evaluates each house based on three criteria—cost, quality, and neighborhood—in that order of importance. For Alice, the cost of a house is good if it fits her budget; otherwise, it is bad. Her decision is thus guided by whether the house meets her prioritized criteria and the relative importance of those criteria.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      双层结构由一个优先基与偏好构成。*优先基*是按行动者的考量排序的一组属性。考虑爱丽丝决定买哪套房的例子。她依三条标准评估每套房——成本、质量与社区——并按此重要次序。对爱丽丝而言，若房价符合预算则其成本是好的，否则是坏的。她的决定便由房子是否满足其优先标准、以及这些标准的相对重要性所引导。
+    step2: |-
+      双层结构由一个优先基与偏好构成。*优先基*是按行动者的考量排序的一组属性。考虑爱丽丝决定买哪套房的例子。她依三条标准评估每套房——成本、质量与社区，并按此重要次序。对爱丽丝而言，若房价符合预算则其成本是好的，否则是坏的。她的决定便由房子是否满足其优先标准、以及这些标准的相对重要性所引导。
   - id: 135
     kind: body
     source: |-
       To formalize this, a first-order logic is used with constants $d_0,$ $d_1,$…, variables $x_0,$ $x_1,$…, and predicates $P,$ $Q,$ $P_0,$ $P_1,$…. For simplicity, this setup assumes a finite domain with monadic predicates and simple, usually quantifier-free formulas.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为形式化这一点，使用一带常元 $d_0,$ $d_1,$…、变元 $x_0,$ $x_1,$… 与谓词 $P,$ $Q,$ $P_0,$ $P_1,$… 的一阶逻辑。为简明起见，这一设定假定有穷论域、一元谓词与简单的（通常无量词的）公式。
+    step2: |-
+      为形式化这一点，使用一带常元 $d_0,$ $d_1,$…、变元 $x_0,$ $x_1,$… 与谓词 $P,$ $Q,$ $P_0,$ $P_1,$… 的一阶逻辑。为简明起见，这一设定假定有穷论域、一元谓词与简单的（通常无量词的）公式。
   - id: 136
     kind: body
     source: |-
       Formally, a priority base is an ordered sequence of formulas, written as
 
       $$C_1(x) \gg C_2(x) \gg \dots \gg C_n(x) \quad (n \in \mathbb{N}),$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      形式上，优先基是一个有序的公式序列，写作
+    step2: |-
+      形式上，优先基是一个有序的公式序列，写作
   - id: 137
     kind: body
     source: |-
       where each $C_m(x)$ ($1 \leq m \leq n$) is a formula with exactly one free variable x. The earlier priorities are considered lexicographically more significant than later ones, creating a preference order. For example, $C_1 \land \neg C_2 \land \dots \land \neg C_m$ is preferred over $\neg C_1 \land C_2 \land \dots \land C_m$.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中每个 $C_m(x)$（$1 \leq m \leq n$）是恰有一个自由变元 x 的公式。靠前的优先性按词典序被视为比靠后者更重要，由此产生一个偏好序。例如，$C_1 \land \neg C_2 \land \dots \land \neg C_m$ 优于 $\neg C_1 \land C_2 \land \dots \land C_m$。
+    step2: |-
+      其中每个 $C_m(x)$（$1 \leq m \leq n$）是恰有一个自由变元 x 的公式。靠前的优先性按词典序被视为比靠后者更重要，由此产生偏好序。例如，$C_1 \land \neg C_2 \land \dots \land \neg C_m$ 优于 $\neg C_1 \land C_2 \land \dots \land C_m$。
   - id: 138
     kind: body
     source: |-
       To illustrate this, Alice’s priority base might look like
 
       $$C(x) \gg Q(x) \gg N(x),$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为说明这一点，爱丽丝的优先基可能是
+    step2: |-
+      为说明这一点，爱丽丝的优先基可能是
   - id: 139
     kind: body
     source: |-
       where $C(x)$, $Q(x)$, and $N(x)$ represent that x has a low price (cost), high quality, and a good neighborhood, respectively. Given two houses $d_1$ and $d_2$ with properties $C(d_1),$ $C(d_2),$ $\neg Q(d_1),$ $\neg Q(d_2),$ $N(d_1)$, and $\neg N(d_2)$, Alice would prefer $d_1$ over $d_2$ according to this priority base.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      其中 $C(x)$、$Q(x)$ 与 $N(x)$ 分别表示 x 价格低（成本）、质量高与社区好。给定两套房 $d_1$ 与 $d_2$，其性质为 $C(d_1),$ $C(d_2),$ $\neg Q(d_1),$ $\neg Q(d_2),$ $N(d_1)$ 与 $\neg N(d_2)$，则按这一优先基爱丽丝会偏好 $d_1$ 胜过 $d_2$。
+    step2: |-
+      其中 $C(x)$、$Q(x)$ 与 $N(x)$ 分别表示 x 价格低（成本）、质量高与社区好。给定两套房 $d_1$ 与 $d_2$，其性质为 $C(d_1),$ $C(d_2),$ $\neg Q(d_1),$ $\neg Q(d_2),$ $N(d_1)$ 与 $\neg N(d_2)$，则按这一优先基爱丽丝会偏好 $d_1$ 胜过 $d_2$。
   - id: 140
     kind: body
     source: |-
       The linearly-ordered priorities in the two-layer structure can also be generalized to partially ordered priority graphs (which allows certain priorities to be non-comparable) or even to unordered sets of properties (Kratzer 1981; Liu 2011b)[^kratzer-1981][^liu-2011b].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      双层结构中的线性序优先性，也可以推广到偏序的优先图（允许某些优先性不可比），甚至推广到无序的属性集合（Kratzer 1981; Liu 2011b）[^kratzer-1981][^liu-2011b]。
+    step2: |-
+      双层结构中的线性序优先性，也可以推广到偏序的优先图（允许某些优先性不可比），甚至推广到无序的属性集合（Kratzer 1981; Liu 2011b）[^kratzer-1981][^liu-2011b]。
   - id: 141
     kind: body
     source: |-
       In deontic logic, the two-layer structure (where priorities establish a preference or obligation ordering) has also been widely recognized, particularly in systems that prioritize commands (see the work of Hansen 2008 and Van Benthem, Grossi, & Liu 2010)[^hansen-2008][^liu-2010], which will be discussed in Section 7.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在道义逻辑中，双层结构（其中优先性建立偏好或义务序）也已广受承认，尤其是在优先处理命令的系统中（见 Hansen 2008 与 Van Benthem, Grossi, & Liu 2010 的工作）[^hansen-2008][^liu-2010]——这将在第 7 节讨论。
+    step2: |-
+      在道义逻辑中，双层结构（其中优先性建立偏好或义务序）也已广受承认，尤其是在优先处理命令的系统中（见 Hansen 2008 与 Van Benthem, Grossi, & Liu 2010 的工作）[^hansen-2008][^liu-2010]——这将在第 7 节讨论。
   - id: 142
     kind: body
     source: |-
       Belief as reasons
-    step1: TBD
-    step2: TBD
+    step1: |-
+      信念作为理由
+    step2: |-
+      信念作为理由
   - id: 143
     kind: body
     source: |-
       The above method of defining preference from a priority base presupposes complete information about whether an alternative possesses the properties in the base. In cases of incomplete information, beliefs play a crucial role, and agents’ preferences depend on them. This situation requires the introduction of formulas such as $BC(x),$ $\neg BC(x),$ or $B\neg C(x),$ where $C_m$ represents priorities. This approach enables complex aspects to be considered, e.g., determining whether certain properties from the priority base apply or, more fundamentally, forming a priority base based on beliefs. Addressing such uncertainties calls for a combination of doxastic and preference languages; see the work of Liu (2011b) for various procedures for defining preference under uncertainty. In this setting, beliefs about whether an alternative has or doesn’t have a certain priority serve as reasons for preference.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      上述从优先基定义偏好的方法，预设了关于备选物是否具备基中属性的完备信息。在信息不完备的情形中，信念扮演关键角色，行动者的偏好依赖于它们。这种情形需要引入诸如 $BC(x),$ $\neg BC(x)$ 或 $B\neg C(x)$ 的公式，其中 $C_m$ 表示优先性。这一进路使复杂面向得以纳入考量，例如判定优先基中的某些属性是否适用，或者更根本地，基于信念构造优先基。处理这类不确定性需要道信逻辑与偏好语言的结合；关于不确定性下定义偏好的多种程序，见 Liu（2011b）。在这一设定中，关于某备选物是否具备某优先性的信念，充当偏好的理由。
+    step2: |-
+      上述从优先基定义偏好的方法，预设了关于备选物是否具备基中属性的完备信息。在信息不完备的情形中，信念扮演关键角色，行动者的偏好依赖于它们。这种情形需要引入诸如 $BC(x),$ $\neg BC(x)$ 或 $B\neg C(x)$ 的公式，其中 $C_m$ 表示优先性。这一进路使复杂面向得以纳入考量：例如判定优先基中的某些属性是否适用，或者更根本地，基于信念构造优先基。处理这类不确定性需要道信逻辑与偏好语言的结合；关于不确定性下定义偏好的多种程序，见 Liu（2011b）。在这一设定中，关于某备选物是否具备某优先性的信念，充当偏好的理由。
   - id: 144
     kind: body
     source: |-
       #### 4.2.2 Salient properties and preference
-    step1: TBD
-    step2: TBD
+    step1: |-
+      #### 4.2.2 显著属性与偏好
+    step2: |-
+      #### 4.2.2 显著属性与偏好
   - id: 145
     kind: body
     source: |-
       Rational choice theory typically assumes that agents have fixed preferences but does not explain the origin of these preferences. Dietrich and List (2013a,b) started to address this gap. They proposed a framework for modeling preference formation and change by suggesting that preferences are based on the “motivationally salient” properties of alternatives rather than the alternatives themselves. This approach allows preferences to be reason-based, evolving as different properties become salient.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理性选择理论通常假定行动者有固定的偏好，但不解释这些偏好从何而来。Dietrich 与 List（2013a,b）开始填补这一空缺。他们提出一个建模偏好形成与改变的框架：偏好基于备选物的“动机上显著的”属性，而非备选物本身。这一进路使偏好可以是基于理由的——随着不同属性变得显著而演化。
+    step2: |-
+      理性选择理论通常假定行动者有固定的偏好，但不解释这些偏好从何而来。Dietrich 与 List（2013a,b）开始填补这一空缺。他们提出一个建模偏好形成与改变的框架：偏好基于备选物的“动机上显著的”属性，而非备选物本身。这一进路使偏好可以是基于理由的——随着不同属性变得显著而演化。
   - id: 146
     kind: body
     source: |-
       To formalize this: an agent’s preference order over alternatives depends on the properties of these alternatives, which are motivationally salient in a given state.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为形式化：行动者对备选物的偏好序，取决于这些备选物在给定状态中动机上显著的属性。
+    step2: |-
+      为形式化：行动者对备选物的偏好序，取决于这些备选物在给定状态中动机上显著的属性。
   - id: 147
     kind: body
     source: |-
       Let X be a set of alternatives. Let P be the set of all possible properties an alternative might have. A motivational state $M \subseteq P$ includes all the properties deemed salient by the agent in a given context.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      设 X 为备选物集合。设 P 为备选物可能具有的所有属性的集合。动机状态 $M \subseteq P$ 包括行动者在给定语境中认为显著的所有属性。
+    step2: |-
+      设 X 为备选物集合。设 P 为备选物可能具有的所有属性的集合。动机状态 $M \subseteq P$ 包括行动者在给定语境中认为显著的所有属性。
   - id: 148
     kind: body
     source: |-
       Preferences are defined by a binary relation $\succeq_M$ over X, where $x \succeq_M y$ means alternative x is weakly preferred to y in state M.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      偏好由 X 上的二元关系 $\succeq_M$ 定义：$x \succeq_M y$ 意味着在状态 M 中备选物 x 弱优于 y。
+    step2: |-
+      偏好由 X 上的二元关系 $\succeq_M$ 定义：$x \succeq_M y$ 意味着在状态 M 中备选物 x 弱优于 y。
   - id: 149
     kind: body
     source: |-
       To account for varying preferences across motivational states, Dietrich and List (2013a,b) introduced the *weighing relation* $\geq$ over *property combinations*:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      为照顾动机状态之间的偏好差异，Dietrich 与 List（2013a,b）引入了*属性组合*上的*权衡关系* $\geq$：
+    step2: |-
+      为照顾动机状态之间的偏好差异，Dietrich 与 List（2013a,b）引入了*属性组合*上的*权衡关系* $\geq$：
   - id: 150
     kind: body
     source: |-
       - Each alternative x can be described by the set of properties it has, denoted as $S_x$.
       - For any two sets of properties, $S_x \geq S_y$ indicates that the properties in $S_x$ are preferred over those in $S_y$.
       - The weighing relation thus acts as a stable underlying structure that supports the agent’s preference ordering across different motivational states.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 每个备选物 x 可以由它所具有的属性集合刻画，记作 $S_x$。
+      - 对任意两个属性集合，$S_x \geq S_y$ 表示 $S_x$ 中的属性优于 $S_y$ 中的属性。
+      - 权衡关系因此充当一个稳定的底层结构，支撑行动者在不同动机状态下的偏好排序。
+    step2: |-
+      - 每个备选物 x 可以由它所具有的属性集合刻画，记作 $S_x$。
+      - 对任意两个属性集合，$S_x \geq S_y$ 表示 $S_x$ 中的属性优于 $S_y$ 中的属性。
+      - 权衡关系因此充当一个稳定的底层结构，支撑行动者在不同动机状态下的偏好排序。
   - id: 151
     kind: body
     source: |-
