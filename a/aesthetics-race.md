@@ -1,6 +1,6 @@
 # 美学与种族 Aesthetics and Race (Monique Roelofs)
 
-** 首次发表于 2026 年 9 月 22 日。**
+**首次发表于 2026 年 9 月 22 日。**
 
 美学与种族构成了彼此生死攸关地缠结的经验、评价与历史实践诸领域。鉴于美学乃一个在文化上被标定的形式、创造与价值领域，而种族则是文化建构的领域，这种情形本属意料之中。两种实践都维持着彼此呼应的概念与设计。正如哲学家康奈尔·韦斯特（Cornel West）在 1980 年代所论证的，美学是现代种族话语的生成性要素——他所谓种族话语，是指从十七世纪末的分类体系延续至今的概念框架（West 1982）[^west-1982]。种族概念与种族化结构在人类作为审美事业参与者所展开的生产、互动与回应模式中留下印记，反之亦然（Douglass 1861 [2015]; Du Bois 1926 [1986c]; Anzaldúa 1987 [1999]; hooks 1990 [2015], 1992 [2014]; Morrison 1992; Hall 1996a, 1996b; Davis 1998, 2024; Gooding-Williams 2006; Roelofs 2014; Taylor 2016; Bradley and Ferreira da Silva 2021; Clavel-Vázquez 2023; Mokgosi 2024）[^anzaldúa-1987][^bradley-2021][^clavel-vázquez-2023][^douglass-1861][^du-1926][^gooding-williams-2006][^hall-1996a][^mokgosi-2024][^morrison-1992][^roelofs-2014][^taylor-2016]。
 
@@ -188,7 +188,7 @@
 
 ## 参考文献
 
-** 以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 [^ahmed-2004]: Ahmed, Sara, 2004, *The Cultural Politics of Emotion*, Edinburgh: Edinburgh University Press.
 

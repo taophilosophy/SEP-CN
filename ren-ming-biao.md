@@ -634,6 +634,22 @@
 | Ptolemy | 托勒密 | emilie-du-chatelet | 学界千年通行译名 | 2026-11-04 |
 | Breteuil, Louis Nicholas le Tonnelier de | 路易·尼古拉·勒·托内利耶·德·布勒特伊男爵 | emilie-du-chatelet | 学界惯例（夏特莱之父，法语文人贵族名直译） | 2026-11-04 |
 
+| Skinner, B.F. | B.F.斯金纳 | behaviorism | 学界通行汉译（《瓦尔登湖第二》作者） | 2026-11-05 |
+| Watson, John B. | 约翰·B.华生 | behaviorism | 学界通行汉译（行为主义创始人） | 2026-11-05 |
+| Pavlov, Ivan | 伊万·巴甫洛夫 | behaviorism | 学界通行汉译（条件反射） | 2026-11-05 |
+| Thorndike, Edward | 爱德华·桑代克 | behaviorism | 学界通行汉译（效果律） | 2026-11-05 |
+| Ryle, Gilbert | 吉尔伯特·赖尔 | behaviorism | 学界通行汉译（《心的概念》作者） | 2026-11-05 |
+| Wittgenstein, Ludwig | 路德维希·维特根斯坦 | behaviorism | 学界千年通行译名 | 2026-11-05 |
+| Dennett, Daniel | 丹尼尔·丹尼特 | behaviorism | 学界通行汉译（《意识的解释》作者） | 2026-11-05 |
+| Tolman, E.C. | E.C.托尔曼 | behaviorism | 学界通行汉译（认知行为主义） | 2026-11-05 |
+| Hull, C.L. | C.L.赫尔 | behaviorism | 学界通行汉译（行为系统理论） | 2026-11-05 |
+| Guthrie, E.R. | E.R.格思里 | behaviorism | 学界通行汉译（邻近学习理论） | 2026-11-05 |
+| Sellars, Wilfrid | 威尔弗里德·塞拉斯 | behaviorism | 学界通行汉译（《经验主义与心灵哲学》作者） | 2026-11-05 |
+| Chisholm, Roderick | 罗德里克·齐硕姆 | behaviorism | 学界通行汉译（知识论/形而上学） | 2026-11-05 |
+| Fodor, Jerry | 杰瑞·福多 | behaviorism | 学界通行汉译（心灵模块性） | 2026-11-05 |
+| Meehl, Paul | 保罗·米尔 | behaviorism | 学界惯例（临床心理学家，通行音译） | 2026-11-05 |
+| Churchland, Paul | 保罗·丘奇兰德 | behaviorism | 学界通行汉译（神经哲学） | 2026-11-05 |
+
 ## 登记格式说明
 
 ```

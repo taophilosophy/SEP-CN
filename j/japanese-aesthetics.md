@@ -225,7 +225,7 @@
 
 ## 参考文献
 
-** 以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
+**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
 
 [^berthier-2000]: Berthier, François, 2000, *Reading Zen in the Rocks: The Japanese Dry Landscape Garden*, Graham Parkes (trans.), Chicago and London: University of Chicago Press.
 

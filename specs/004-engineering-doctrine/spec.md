@@ -40,6 +40,8 @@
 | D21 | ~~根级 `sm.xml` 实为上游 404 页面快照~~ **✅ 已解除（2026-11-04）**：git rm | — | — | ✅ 已解除 |
 | D22 | ~~`tasks/` 根级非字母目录 JSON 未登记归属~~ **✅ 已解除（2026-11-04）**：tasks/README 登记三类根级文件（term-pool/term-candidates=工具硬编码数据文件不迁移；ci-hui-biao=维护任务豁免字母路径）；progress.py/check_academic 例行任务豁免同族 | 归属已登记、统计口径干净 | — | ✅ 已解除 |
 | D23 | ~~许可证二义~~ **✅ 已解除（2026-11-04）**：用户裁定 BSD-2-Clause，版权说明页对齐 package.json/README/CONTRIBUTING | 表述一致 | — | ✅ 已解除 |
+| D24 | 根级 69 个已入库 `_` 脚手架散件（`_hare_seg_*.py`、`_tr_concept*.py`、`_asm_*`、`_work/` 等，并行会话 add -A 扫入）+ `tasks/e/_tr_*.json` 14 件 | 仓库杂物；check_junk 无"根级 `_` 前缀"规则 | 83 文件 | P2（处置方式待用户裁定：git rm＋门禁补规则 / 移 specs/005/bin / 批次会话自清） |
+| D25 | QA A 批返工队列悬空：specs/005/results/qa-traverse（Critical 15/Major 37/Minor 157）+ 欧化告警清单在册，qa-rework 任务 0 个 | 已 done 词条实伤未返工 | 16 词条 | P1（返工范围待用户裁定 qa-findings 五.1：定点返工 / 并入 011 深读 / 全量复查） |
 
 ## 三、Doctrine 落地路线（不计成本建议）
 
