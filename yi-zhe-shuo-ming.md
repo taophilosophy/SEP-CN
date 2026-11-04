@@ -993,3 +993,16 @@
 | natural history | 自然史 | locke-on-medicine | 科学史/博物学通行 | 2026-11-05 |
 | venesection | 静脉切开放血 | locke-on-medicine | 医史通行（简称“放血术”） | 2026-11-05 |
 | epidemic constitution | 疫病体质 | locke-on-medicine | 西德纳姆研究通行（逐年流行病“体质”构想） | 2026-11-05 |
+| preference | 偏好 | logic-preference | 逻辑学/决策论通行 | 2026-11-05 |
+| preference logic | 偏好逻辑 | logic-preference | SUMMARY 定名沿用 | 2026-11-05 |
+| intrinsic/extrinsic preference | 内在偏好／外在偏好 | logic-preference | 冯·赖特研究通行（有理由与否之分） | 2026-11-05 |
+| preference lifting | 偏好提升 | logic-preference | 模态偏好逻辑通行 | 2026-11-05 |
+| two-layer structure | 双层结构 | logic-preference | 本领域通行（优先基+偏好） | 2026-11-05 |
+| priority base | 优先基 | logic-preference | 本领域通行（刘奋荣术语） | 2026-11-05 |
+| preference change | 偏好改变 | logic-preference | 本领域通行（亦作“偏好变化”备查） | 2026-11-05 |
+| belief revision | 信念修正 | logic-preference | AGM 研究通行 | 2026-11-05 |
+| CP-net | CP 网（条件偏好网络） | logic-preference | AI 文献通行 | 2026-11-05 |
+| motivational state | 动机状态 | logic-preference | Dietrich-List 研究通行 | 2026-11-05 |
+| weighing relation | 权衡关系 | logic-preference | Dietrich-List 研究通行 | 2026-11-05 |
+| amplification | 放大 | logic-preference | 冯·赖特偏好逻辑原则通行（V5） | 2026-11-05 |
+| ceteris paribus preference | 其余条件相同的偏好 | logic-preference | 本表既有“其余条件相同”（justep-coherence）派生 | 2026-11-05 |
