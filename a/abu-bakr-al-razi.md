@@ -215,6 +215,7 @@ Philippe Vallat（2015a, 2015b, 2016）最近揭示的材料可以证实后一�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abu-bakr-al-razi)。
+ [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/abu-bakr-al-razi/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=abu-bakr-al-razi&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/abu-bakr-al-razi/) 查看本词条的增强文献目录及其数据库链接。
 

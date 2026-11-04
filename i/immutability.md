@@ -134,6 +134,7 @@ Swinburne 论证道，不变与自由行动不相容，他写道：“一个行�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=immutability)。
+ [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/immutability/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=immutability&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/immutability/) 查看本词条的增强文献目录及其数据库链接。
 

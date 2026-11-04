@@ -508,6 +508,7 @@ Boethius’ theses: $ (A \to B) \to \neg (A \to \neg B)$ and $ (A \to \neg B) \t
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=al-khunaji)。
+ [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/al-khunaji/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=al-khunaji&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/al-khunaji/) 查看本词条的增强文献目录及其数据库链接。
 

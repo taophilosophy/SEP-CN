@@ -501,6 +501,7 @@ Gersen 与 Gersen（2026）围绕一个虚构案例梳理了多种视角，旨�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=academic-freedom)。
+ [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/academic-freedom/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=academic-freedom&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/academic-freedom/) 查看本词条的增强文献目录及其数据库链接。
 

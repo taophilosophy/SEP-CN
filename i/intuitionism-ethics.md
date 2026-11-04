@@ -489,6 +489,7 @@ A. 你可以捐 5 美元给慈善机构，以挽救半个地球之外的一名�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionism-ethics)。
+ [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/intuitionism-ethics/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=intuitionism-ethics&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/intuitionism-ethics/) 查看本词条的增强文献目录及其数据库链接。
 

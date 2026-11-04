@@ -628,6 +628,7 @@ Berto 与 Plebani（2015）对存在论与元存在论提供了有用的导引�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abstract-objects)。
+ [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/abstract-objects/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=abstract-objects&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/abstract-objects/) 查看本词条的增强文献目录及其数据库链接。
 

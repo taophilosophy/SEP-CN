@@ -233,6 +233,7 @@ Z₂ 的一个标准模型具有 *V*_{κ} 的形式，其中 κ 是一个正则�
 ## 学术工具
 
 * [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=independence-large-cardinals)。
+ [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/independence-large-cardinals/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。
 * 在 [InPhO](https://www.inphoproject.org/entity?sep=independence-large-cardinals&redirect=True) 查找与本词条相关的话题与思想家。
 * 在 [PhilPapers](https://philpapers.org/sep/independence-large-cardinals/) 查看本词条的增强文献目录及其数据库链接。
 
