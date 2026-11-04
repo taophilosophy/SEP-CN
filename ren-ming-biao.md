@@ -801,6 +801,28 @@
 | Jean-Jacques Rousseau | 让-雅克·卢梭 | kant-social-political | 学界千年通行译名 | 2026-11-05 |
 | Cesare Beccaria | 切萨雷·贝卡里亚 | kant-social-political | 学界通行汉译（启蒙刑法改革家，《论犯罪与刑罚》） | 2026-11-05 |
 | Feyerabend, Gottfried | 费耶阿本德 | kant-social-political | 学界通行音译（康德自然法课程听课笔记记录者；与科学哲学家 Paul Feyerabend 同姓） | 2026-11-05 |
+| Wŏn’gwang | 圆光 | korean-buddhism | 汉文传统写法（源文汉字 圓光；新罗僧，摄论宗） | 2026-11-05 |
+| Zhendi | 真谛 | korean-buddhism | 佛学界千年传统译名（汉文古译，源文汉字 眞諦；摄论宗译家，九识说） | 2026-11-05 |
+| Wŏnchŭk | 圆测 | korean-buddhism | 汉文传统写法（源文汉字 圓測；新罗僧，玄奘门下） | 2026-11-05 |
+| Ŭisang | 义湘 | korean-buddhism | 汉文传统写法（源文汉字 義湘；新罗华严初祖） | 2026-11-05 |
+| Wŏnhyo | 元晓 | korean-buddhism | 汉文传统写法（源文汉字 元曉；新罗「和诤」国师） | 2026-11-05 |
+| Dignāga | 陈那 | korean-buddhism | 佛学界千年传统译名（汉文古译；因明论师） | 2026-11-05 |
+| Zhiyan | 智俨 | korean-buddhism | 汉文传统写法（华严二祖，义湘之师） | 2026-11-05 |
+| Chengguan | 澄观 | korean-buddhism | 汉文传统写法（华严四祖） | 2026-11-05 |
+| Ŭich’ŏn | 义天 | korean-buddhism | 汉文传统写法（源文汉字 義天；高丽大觉国师，天台宗） | 2026-11-05 |
+| Ch’egwan | 谛观 | korean-buddhism | 汉文传统写法（源文汉字 諦觀；高丽僧，《天台四教仪》） | 2026-11-05 |
+| Chinul | 知讷 | korean-buddhism | 汉文传统写法（源文汉字 知訥；高丽曹溪宗中兴祖，谥普照） | 2026-11-05 |
+| Dahui Zonggao | 大慧宗杲 | korean-buddhism | 汉文传统写法（临济宗，看话禅创倡者） | 2026-11-05 |
+| Chinhŭng | 真兴王 | korean-buddhism | 汉文传统写法（新罗王，转轮圣王理想） | 2026-11-05 |
+| Chŏng Tojŏn | 郑道传 | korean-buddhism | 汉文传统写法（朝鲜初性理学者，号三峰） | 2026-11-05 |
+| Hamhŏ Tŭkt’ong | 涵虚得通 | korean-buddhism | 汉文传统写法（源文汉字 涵虛得通；朝鲜僧，《显正论》，亦号己和） | 2026-11-05 |
+| Hŏŭngdang Pou | 虚应堂普雨 | korean-buddhism | 汉文传统写法（源文汉字 虛應堂普雨；朝鲜僧，《一正论》） | 2026-11-05 |
+| Inoue Enryō | 井上圆了 | korean-buddhism | 学界惯例（日本哲学史通行汉名） | 2026-11-05 |
+| Han Yongun | 韩龙云 | korean-buddhism | 学界通行汉译（韩文 한용운，汉字 韓龍雲；韩国近代佛教改革家） | 2026-11-05 |
+| Kim Iryŏp | 金一叶 | korean-buddhism | 学界通行汉译（韩文 김일엽，汉字 金一葉；新女性作家，后出家） | 2026-11-05 |
+| Ch’oe Namsŏn | 崔南善 | korean-buddhism | 学界通行汉译（韩文 최남선，汉字 崔南善；近代学者） | 2026-11-05 |
+| Park Chungbin, Sot’aesan | 朴重彬（少太山） | korean-buddhism | 学界通行汉译（圆佛教创始人，尊号 소태산 汉字 少太山） | 2026-11-05 |
+| Daehaeng | 大行 | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行） | 2026-11-05 |
 
 ## 待裁定
 

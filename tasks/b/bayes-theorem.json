@@ -2,7 +2,7 @@
   "slug": "bayes-theorem",
   "kind": "retranslate",
   "zh_doc": "b/bayes-theorem.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:16:00Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T22:07:17Z",
+      "evidence": "全量重译组装：11972 汉字 5 节标题对齐，54 条脚注定义（16 条内容注译出含公式、38 条书目原样），8 个公式表格保留"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T22:07:18Z",
+      "evidence": "逐节对照源钉（pubinfo Sep 30 2003）：段落/标记/defs/节数全对齐（defs 54:54 修复 note-7 全角冒号后），P_{E}(H) 记号照源，相关词条 2 项按 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T22:07:18Z",
+      "evidence": "check_prose 16→10：实修 8（weak 1/passive 1/as-one 1/长句拆分 2/plural-men 1/结构性 2），余 10 豁免留痕：7 de-chain 概率论定语，1 passive，2 long（70-77 区间引证句）；数学记号 **P** 加粗为源文体例、按 style 规则降为普通 P 并留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-04T22:07:22Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 10 豁免留痕见 s2；人名 9 条登记（贝叶斯/哈金/罗亚尔/索伯/戈德曼/格利穆尔/马赫/菲特尔森/莱维）"
     }
   ],
   "blockers": [],
