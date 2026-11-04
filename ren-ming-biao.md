@@ -720,6 +720,40 @@
 | Orikuchi Shinobu | 折口信夫 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Sten Ebbesen | 斯滕·埃布森 | boethius-dacia | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
 | Yuriko Saito | 斋藤百合子 | aesthetics-of-everyday | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
+| Jakob Thomasius | 雅各布·托马修斯 | 18thGerman-preKant | 学界通行汉译（老托马修斯，莱比锡法学家兼哲学家）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| August Hermann Francke | 奥古斯特·赫尔曼·弗兰克 | 18thGerman-preKant | 学界通行汉译（哈勒虔敬派）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Alexander Gottlieb Baumgarten | 亚历山大·戈特利布·鲍姆嘉通 | 18thGerman-preKant | 学界通行汉译（美学界通行）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Siegmund Jakob Baumgarten | 西格蒙德·雅各布·鲍姆嘉通 | 18thGerman-preKant | 学界通行汉译（其兄，神学家）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Georg Friedrich Meier | 格奥尔格·弗里德里希·迈尔 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Moses Mendelssohn | 摩西·门德尔松 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Johann Gottfried Herder | 约翰·戈特弗里德·赫尔德 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Johann Christoph Gottsched | 约翰·克里斯托弗·戈特舍德 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Luise Adelgunde Viktorie Gottsched (née Kulmus) | 露易丝·阿德尔贡德·维克托丽·戈特舍德（娘家姓库尔穆斯） | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Christian August Crusius | 克里斯蒂安·奥古斯特·克鲁修斯 | 18thGerman-preKant | 学界通行汉译（康德研究文献通行）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Andreas Rüdiger | 安德烈亚斯·吕迪格 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Adolph Friedrich Hoffmann | 阿道夫·弗里德里希·霍夫曼 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Joachim Lange | 约阿希姆·朗格 | 18thGerman-preKant | 学界通行汉译（哈勒虔敬派）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Johann Franz Budde | 约翰·弗朗茨·布德 | 18thGerman-preKant | 学界通行汉译（Buddeus）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Ehrenfried Walther von Tschirnhaus | 埃伦弗里德·瓦尔特·冯·契恩豪斯 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Georg Bernhard Bilfinger | 格奥尔格·贝恩哈德·比尔芬格 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Friedrich Wilhelm Stosch | 弗里德里希·威廉·施托施 | 18thGerman-preKant | 学界通行汉译（激进哲学传统）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Theodor Ludwig Lau | 特奥多尔·路德维希·劳 | 18thGerman-preKant | 学界通行汉译（激进哲学传统）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Philipp Jakob Spener | 菲利普·雅各布·施佩纳 | 18thGerman-preKant | 学界通行汉译（虔敬派创始人）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| C. G. Ludovici (Carl Günther Ludovici) | 卡尔·京特·卢多维奇 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Georg Volckmar Hartmann | 格奥尔格·福尔克马尔·哈特曼 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Dorothea Christiane Erxleben (née Leporin) | 多罗特娅·克里斯蒂安妮·埃克斯莱本（娘家姓莱波林） | 18thGerman-preKant | 学界通行汉译（德国首位女医学博士）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Johanna Charlotte Unzer (née Ziegler) | 约翰娜·夏洛特·翁策尔（娘家姓齐格勒） | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Johann Gottlob Krüger | 约翰·戈特洛布·克吕格 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Anton Wilhelm Amo | 安东·威廉·阿莫 | 18thGerman-preKant | 学界通行汉译（德国首位非洲裔哲学教授）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Anton Ulrich | 安东·乌尔里希 | 18thGerman-preKant | 学界通行汉译（沃尔芬比特尔-不伦瑞克公爵）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Friedrich III (later king Friedrich I) | 弗里德里希三世（后为普鲁士国王弗里德里希一世） | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Friedrich Wilhelm I | 弗里德里希·威廉一世 | 18thGerman-preKant | 学界通行汉译（普鲁士国王）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Friedrich II | 弗里德里希二世 | 18thGerman-preKant | 学界通行汉译（腓特烈大帝；正文依原文行文作弗里德里希二世）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Electress Sophie of Hanover | 汉诺威选帝侯夫人索菲 | 18thGerman-preKant | 学界通行汉译（莱布尼茨通信人）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Anne-Thésèse, Marquise de Lambert | 安娜-泰蕾兹·德·朗贝尔侯爵夫人 | 18thGerman-preKant | 学界通行汉译（巴黎沙龙女主人；与 Johann Heinrich Lambert「兰伯特」区分）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Madeleine Angélique Poisson de Gomez | 玛德莱娜·安热莉克·德·戈梅斯 | 18thGerman-preKant | 学界通行汉译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Francis Mercury Van Helmont | 弗朗西斯·墨丘里·范·赫尔蒙特 | 18thGerman-preKant | 学界通行汉译（Joan Baptista van Helmont 之子；译名对齐既有「范·赫尔蒙特」行）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。

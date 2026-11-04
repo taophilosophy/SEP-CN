@@ -529,6 +529,40 @@
 | determination rule | 决定规则 | reasoning-analogy | 构词直译（Russell/Davies 术语） | 2026-11-05 |
 | Dutch book | 荷兰赌 | reasoning-analogy | 学界通行（贝叶斯决策论） | 2026-11-05 |
 
+| libertas philosophandi | 哲学自由（拉丁原词保留斜体） | 18thGerman-preKant | 学界通行汉译（启蒙研究通行）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Enlightenment | 启蒙（时代名，视语境亦作「启蒙运动」） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
+| perfection | 完善（沃尔夫-鲍姆嘉通语境；与既有行 moral perfection=道德完善、perfectionism=至善论相衔接） | 18thGerman-preKant | 学界通行汉译（康德译本通行「完善」）；凭证 2026-11-05 | 2026-11-05 |
+| physical influx | 物理流入（说） | 18thGerman-preKant | 学界通行汉译（莱布尼茨接受史）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| spontaneity | 自发性 | 18thGerman-preKant | 学界通行汉译（康德译本通行）；凭证 2026-11-05 | 2026-11-05 |
+| learnedness | 学识（托马修斯 Gelahrheit／Gelehrsamkeit） | 18thGerman-preKant | 据作者英译 gloss 直译；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| dogmatic doubt | 教条式怀疑（托马修斯，与笛卡尔式怀疑相对） | 18thGerman-preKant | 构词直译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| natural light | 自然之光（心灵的） | 18thGerman-preKant | 学界通行汉译（近代哲学惯例） | 2026-11-05 |
+| rational love (vernünftige Liebe) | 合理的爱（德文原词保留斜体） | 18thGerman-preKant | 据作者英译 gloss 直译（vernünftig 通译「合理的」）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| principle of determining reason | 决定理由原则（克鲁修斯 principium rationis determinantis，以别于充足理由律） | 18thGerman-preKant | 据作者英译直译；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| determining reason | 决定理由（克鲁修斯 ratio determinans／Grund） | 18thGerman-preKant | 同「决定理由原则」行依据；凭证 2026-11-05 | 2026-11-05 |
+| free first actions | 自由的第一行动（克鲁修斯；first 亦通「首要的」） | 18thGerman-preKant | 据作者英译直译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| principle of inseparability | 不可分离原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
+| principle of incombinability | 不可组合原则（克鲁修斯） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
+| material principles | 质料原则（克鲁修斯；与形式原则 formal principle 相对） | 18thGerman-preKant | 学界通行汉译（康德译本 material=质料的） | 2026-11-05 |
+| Gewissenstrieb | 良知驱力（德文原词保留斜体；即 conscience 良知） | 18thGerman-preKant | 构词直译（Trieb=驱力）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Bestimmung | 天职（德文原词保留斜体；亦作「规定」） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
+| flattering ethics | 谄媚伦理学（鲍姆嘉通；指把德性境况说得轻易可得的伦理体系） | 18thGerman-preKant | 据作者英译直译（Thorndike 2008 论题）；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| chimerical ethics | 空想伦理学（鲍姆嘉通；指把德性标准设得超出人性的伦理体系） | 18thGerman-preKant | 据作者英译直译；待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| natural theology | 自然神学 | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
+| cosmology | 宇宙论（沃尔夫形而上学分科） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
+| empirical psychology | 经验心理学 | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
+| rational psychology | 理性心理学 | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
+| whiggish | 辉格式的（史学术语，指以今度旧的进步史观） | 18thGerman-preKant | 学界通行汉译（史学理论惯例） | 2026-11-05 |
+| salonnière | 沙龙女主人（法文原词保留斜体） | 18thGerman-preKant | 学界通行汉译 | 2026-11-05 |
+| collegia pietatis | 虔敬集会（拉丁原词保留斜体；即虔敬派私下小组聚会 conventicles） | 18thGerman-preKant | 学界通行汉译（虔敬派研究） | 2026-11-05 |
+| grace | 恩典（神学语境；divine grace 上帝的恩典） | 18thGerman-preKant | 学界通行汉译（基督教神学惯例） | 2026-11-05 |
+| Confucian | 儒家的（Confucian practical philosophy 儒家实践哲学，指孔子学说） | 18thGerman-preKant | 学界通行汉译（对齐既有行 Confucius=孔子） | 2026-11-05 |
+| Thomasian | 托马修斯学派的（Thomasian-Pietist tradition 托马修斯—虔敬派传统；破折号体例对齐 Leibnizian-Wolffian 主形） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
+| German Logic | 《德语逻辑学》（沃尔夫 1713，缩写 GL） | 18thGerman-preKant | 构词直译（沃尔夫德文教材系列通名）；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| German Metaphysics | 《德语形而上学》（沃尔夫 1719，缩写 GM） | 18thGerman-preKant | 构词直译（沃尔夫德文教材系列通名）；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| German Ethics | 《德语伦理学》（沃尔夫 1720，缩写 GE） | 18thGerman-preKant | 构词直译（沃尔夫德文教材系列通名）；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
+| Latin Logic | 《拉丁逻辑学》（沃尔夫 1728 Philosophia rationalis sive logica） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
+
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
 > 译名优先取中国伊斯兰研究界与哲学史通行译法；知网系查证凭证存 specs/008-terminology-campaign/results/queries/（GB 标准库通常无收录，依据档位如实标注）。
