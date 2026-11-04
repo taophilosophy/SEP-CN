@@ -1,0 +1,628 @@
+version: 1
+slug: 18thGerman-preKant
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Kant undoubtedly casts a long shadow in the history of eighteenth century German philosophy. Not only did he initiate a revolution in philosophy, but in the course of doing so he thoroughly exposed the metaphysical systems of his predecessors as rationalistic castles in the air. This latter, negative part of his project was in fact so successful that the pre-Kantian period of German philosophy is widely viewed, even today, as a period of benighted dogmatism. During this time, German philosophy, such as it was, is thought to be preoccupied with the sort of dry scholasticism and hidebound metaphysics that had long since been superseded in Britain and France, a circumstance reflected in the fact that nearly all intellectuals of note were university professors—male, of course, as women could not attend university—who published lengthy academic tomes (and even lectured) in Latin rather than the vernacular. Indeed, isolated from the rest of Europe by enduring confessional tensions and the convolutions of internal politics, the German-speaking lands that constituted the Holy Roman Empire might seem like a sort of intellectual island, a bulwark against the advance of modern philosophical innovations and a place from which few ideas of note ever emanated, not, that is, until the advent of the Kantian philosophy.
+    step1: |-
+      康德无疑在十八世纪德国哲学的历史上投下了一道长长的阴影。他不仅发起了一场哲学革命，而且在这一过程中把其前辈们的形而上学体系彻底揭露为理性主义的空中楼阁。他的事业的这后一个否定性部分事实上是如此成功，以至于前康德时期的德国哲学在今天仍被广泛视为一个蒙昧的教条主义时期。人们认为，在这一时期，德国哲学——就其存在而言——全神贯注于那种早已被英国和法国抛在后面的枯燥的经院哲学和僵化的形而上学；这一点也反映在如下事实中：几乎所有知名的知识人都是大学教授——当然是男性，因为女性不能上大学——他们用拉丁语而非本国语言发表篇幅冗长的学术巨著（甚至授课也如此）。的确，由于持久的教派对立和错综复杂的内部政治而与欧洲其余部分相隔离，构成神圣罗马帝国的那些德语地区看上去或许像一座思想孤岛，一道抵御现代哲学创新之推进的堡垒，一个几乎从未产生过任何值得一提的思想的地方——也就是说，直到康德哲学的出现为止。
+    step2: |-
+      康德无疑在 18 世纪德国哲学史上投下了长长的阴影。他不仅发动了一场哲学革命，还在这一过程中把前辈们的形而上学体系彻底揭露为理性主义的空中楼阁。这项事业的后一半——否定性的那一半——实在太过成功，以至于前康德时期的德国哲学直到今天仍被普遍看作一个蒙昧的教条主义时代。在人们的印象里，那段时期的德国哲学（如果算得上哲学的话）只顾埋头于干瘪的经院哲学和僵死的形而上学，而这类东西在英国和法国早就被抛在了身后；一个佐证是：当时几乎所有叫得出名字的知识人都是大学教授——清一色男性，因为女性根本进不了大学——他们用拉丁语而非本国语言撰写厚重的学术大部头（连讲课也用拉丁语）。的确，持久的教派纷争加上错综复杂的内部政治，把构成神圣罗马帝国的德语地区同欧洲其他部分隔离开来；这片土地看上去就像一座思想孤岛，一道抵挡现代哲学革新的堤坝，一个几乎不曾产出什么值得一提的观念的角落——直到康德哲学登场，情况才告改变。
+  - id: 2
+    kind: body
+    source: |-
+      Yet quite to the contrary of the whiggish philosophical histories Kant’s success inspired (and continues to inspire), the German-speaking lands of Europe in the period before Kant were host to a rich intellectual *milieu*. It was of course the homeland of Leibniz, whose contributions to the flourishing of intellectual culture include his sparse publications but also his fruitful efforts to found a German learned society and his support of forward-thinking philosophers for university positions, thereby accelerating Germany’s transition into the era of Enlightenment. German academic philosophers were thoroughly influenced by Leibniz’s thought, but their creative appropriations of it resulted in innovations such as the invention of the disciplines of aesthetics and empirical psychology. Germany was also the site of vigorous and publicly-enacted intellectual disputes, such as that at the new university in Halle where the *libertas philosophandi* itself came under threat but was ultimately (if not immediately) vindicated. Outside of the academic context, radical philosophical thinking circulated underground in clandestine texts that linked Germany with the current of ideas flowing through the rest of Europe and Britain. It was, moreover, a period in the history of philosophy in which women and other under-represented thinkers contributed in integral ways to the conception, propagation, and refinement of modern ideas and to the expansion of the Enlightenment. In short, this is a vibrant period in the history of philosophy that is eminently worthy of study, even apart from its relation—whether as a foil or as a crucible—to the great philosopher of Königsberg.
+    step1: |-
+      然而，与康德的成功所激发（并且仍在激发）的那些辉格式的哲学史恰恰相反，前康德时期的欧洲德语地区是一片丰饶的思想环境的所在地。这里当然就是莱布尼茨的故乡；他对思想文化繁荣的贡献，既包括他数量不多的出版物，也包括他为建立一个德国学者学会而付出的富有成效的努力，以及他对思想开明的哲学家谋取大学职位的支持，从而加速了德国向启蒙时代的过渡。德国的学院派哲学家深受莱布尼茨思想的浸润，但他们对其的创造性吸取带来了种种革新，例如美学和经验心理学这两门学科的创立。德国也是激烈而公开进行的思想论辩的发生地，例如在新建立的哈勒大学，哲学自由本身一度受到威胁，但最终（即便不是立即）得到了伸张。在学术语境之外，激进哲学思想以地下方式在秘密文本中流传，这些文本把德国与流经欧洲其余地区和不列颠的思想潮流连接起来。此外，在哲学史的这一时期，女性以及其他代表性不足的思想家以不可或缺的方式，为现代观念的构想、传播和精细化，也为启蒙的扩展，作出了贡献。简言之，这是哲学史上一个充满活力的时期，极其值得研究——即便撇开它与这位柯尼斯堡大哲学家之间的关系不谈（无论是作为陪衬还是作为熔炉）。
+    step2: |-
+      然而，同康德的成功所催生（且仍在催生）的那些辉格式哲学史恰恰相反，前康德时期的欧洲德语地区是一片丰沃的思想土壤。这里自然是莱布尼茨的故乡。他对思想文化繁荣的贡献，不只是那数量寥寥的著述，还包括他为创建一个德意志学者学会所作的卓有成效的努力，以及他为思想开明的哲学家谋取大学教职的助力——德国由此加速迈入启蒙时代。德国的学院派哲学家深受莱布尼茨思想浸润，而他们对这一思想的创造性汲取，带来了美学、经验心理学等学科的创立这样一些革新。德国还是激烈而公开上演的思想交锋的舞台：比如在新建的哈勒大学，哲学自由（*libertas philosophandi*）本身一度遭到威胁，但最终（即便不算立竿见影）得到了伸张。学术圈之外，激进哲学思想则以地下方式在秘密出版物中流传，正是这些文本把德国同流经欧洲各地与不列颠的思想潮流连成一体。不仅如此，在哲学史的这一时期，女性以及其他代表性不足的思想家，还以不可或缺的方式参与了现代观念的构想、传播与打磨，也推动了启蒙的扩展。简言之，这是哲学史上一个生机勃勃、极值得研究的时期——哪怕撇开它同这位柯尼斯堡大哲的关联不谈，无论这关联是陪衬还是熔炉。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Christian Thomasius
+    step1: |-
+      ## 1 克里斯蒂安·托马修斯
+    step2: |-
+      ## 1 克里斯蒂安·托马修斯
+  - id: 4
+    kind: body
+    source: |-
+      ### 1.1 Life and Works
+    step1: |-
+      ### 1.1 生平与著作
+    step2: |-
+      ### 1.1 生平与著作
+  - id: 5
+    kind: body
+    source: |-
+      Christian Thomasius was born on 1 January 1655 in Leipzig. He was the son of Jakob Thomasius (1622–84), a well-known jurist and philosopher at the University of Leipzig who counted Leibniz among his students. Christian (hereafter simply ‘Thomasius’) matriculated in the philosophy faculty at Leipzig in 1669, and was promoted to *Magister artium* in 1672. As a result of his father’s lectures, particularly on Hugo Grotius’ *De jure belli ac pacis*, and his interest in Samuel Pufendorf’s *De jure naturae et gentium*, Thomasius took up the study of law in Frankfurt an der Oder in 1675 and was awarded a doctorate in 1679. After a brief journey to Holland, Thomasius returned to Leipzig where he worked (unhappily) as a lawyer while also holding private lectures on natural jurisprudence. Thomasius attests to the fundamental reorientation of his thinking effected by his reading of Pufendorf, and the *Apologia pro se et suo libro* (1674) in particular, which he credits for convincing him of the independence of natural law from theology as well as of the need to question authority and resist religious intolerance (Thomasius 1688a, “Diss. Proem.” §§5–10; Hochstrasser 2000: 113–121)[^thomasius-1688a][^hochstrasser-2000]. This new anti-authoritarian cast of mind is clearly evident in a dissertation on bigamy of 1685, in which Thomasius defends the practice as consistent with natural law, and which unsurprisingly led to a confrontation with a professor in the theology faculty at Leipzig. Thomasius’ pioneering decision to hold lectures in German, announced (in German) in 1687, likewise provoked controversy, as did his publication beginning in 1688 of a monthly journal (the first periodical published in German), entitled the *Monatsgespräche*, in which Thomasius commented, frequently satirically, on the local intellectual scene. Thomasius’ lectures and publications increasingly generated conflict with the theological faculty in Leipzig, which upheld a rather strict form of Lutheran orthodoxy, and while his connections with the Saxon court stood him in good stead for a time, his defence of an inter-faith marriage involving a (Lutheran) Saxon count and a (Calvinist) Brandenburg princess cost him his protection, and in March 1690 he was prohibited from publishing and holding lectures (private and academic) in Electoral Saxony.
+    step1: |-
+      克里斯蒂安·托马修斯（Christian Thomasius）于 1655 年 1 月 1 日生于莱比锡。他是雅各布·托马修斯（Jakob Thomasius，1622–84）之子；老托马修斯是莱比锡大学一位知名的法学家兼哲学家，莱布尼兹也曾列于其门下。克里斯蒂安（此后径称“托马修斯”）于 1669 年进入莱比锡大学哲学系注册就读，并于 1672 年获文科硕士（*Magister artium*）学位。由于父亲的讲授——尤其是关于雨果·格劳秀斯（Hugo Grotius）《战争与和平法》（*De jure belli ac pacis*）的讲课——以及他自己对塞缪尔·普芬道夫（Samuel Pufendorf）《论自然法与万民法》（*De jure naturae et gentium*）的兴趣，托马修斯于 1675 年赴奥得河畔法兰克福攻读法学，并于 1679 年获博士学位。在短暂游历荷兰之后，托马修斯回到莱比锡，一边（并不愉快地）操律师业，一边开设自然法理学的私人讲座。托马修斯亲证，阅读普芬道夫——尤其是《为自我及其著作辩护》（*Apologia pro se et suo libro*，1674）——使他的思想发生了根本的重定向；他把这一阅读归功为使自己确信自然法独立于神学，以及必须质疑权威、抵抗宗教不宽容（Thomasius 1688a, “Diss. Proem.” §§5–10; Hochstrasser 2000: 113–121）[^thomasius-1688a][^hochstrasser-2000]。这种新的反权威心智取向清楚地体现在 1685 年一篇关于重婚的论文中；托马修斯在其中为重婚实践辩护，认为其合于自然法，而这不出意料地导致了他与莱比锡大学神学系一位教授的当面对峙。托马修斯用德语开课的开创性决定（1687 年以德语公告）同样引起了争议；他自 1688 年起出版的一份月刊（第一份用德语出版的期刊）也一样，该刊名为《月度谈话》（*Monatsgespräche*），托马修斯在其中——常常以讽刺的笔调——对当地的思想界评头论足。托马修斯的讲课和出版物日益加剧了他与莱比锡神学系的冲突，后者持守一种相当严格的路德宗正统；虽然他与萨克森宫廷的联素一度使他左右逢源，但他为一起跨信仰婚姻——一位（路德宗的）萨克森伯爵与一位（加尔文宗的）勃兰登堡公主的婚姻——所作的辩护使他失去了庇护，1690 年 3 月，他被禁止在萨克森选侯国出版和开课（无论私人课程还是大学课程）。
+    step2: |-
+      克里斯蒂安·托马修斯（Christian Thomasius）1655 年 1 月 1 日生于莱比锡，是雅各布·托马修斯（Jakob Thomasius，1622–84）之子；老托马修斯是莱比锡大学颇有名望的法学家兼哲学家，莱布尼茨也曾出自他的门下。克里斯蒂安（此后径称“托马修斯”）1669 年注册进入莱比锡大学哲学系，1672 年获文科硕士（*Magister artium*）学位。父亲讲授的课程——尤其是关于雨果·格劳秀斯（Hugo Grotius）《战争与和平法》（*De jure belli ac pacis*）的课——加上他自己对塞缪尔·普芬道夫（Samuel Pufendorf）《论自然法与万民法》（*De jure naturae et gentium*）的兴趣，促使托马修斯 1675 年赴奥得河畔法兰克福改习法学，1679 年获博士学位。在荷兰小游之后，他回到莱比锡，一边（并不愉快地）操律师业，一边开设自然法理学的私人讲座。托马修斯亲口证实，读普芬道夫——特别是《为自我及其著作辩护》（*Apologia pro se et suo libro*，1674）——使他的思想发生了根本转向；正是这次阅读让他确信自然法独立于神学，也让他懂得必须质疑权威、抵抗宗教不宽容（Thomasius 1688a, “Diss. Proem.” §§5–10; Hochstrasser 2000: 113–121）[^thomasius-1688a][^hochstrasser-2000]。这种新的反权威心智取向，清楚地表露在 1685 年一篇论重婚的学位论文里：托马修斯为重婚实践辩护，称其合于自然法——这不出所料地招致他与莱比锡大学神学系一位教授的正面冲突。托马修斯 1687 年宣布（并以德语公告）用德语开课，这一开创性决定同样掀起争议；他自 1688 年起刊行的月刊——也是第一份用德语出版的期刊——同样如此。这份名为《月度谈话》（*Monatsgespräche*）的刊物里，托马修斯频频以讽刺笔调点评当地思想界。他的讲课与著述同莱比锡神学系的冲突愈演愈烈——后者持守相当严格的路德宗正统。他与萨克森宫廷的关系一度让他左右逢源，可他为一起跨信仰婚姻（路德宗的萨克森伯爵迎娶加尔文宗的勃兰登堡公主）辩护，结果失去了这层庇护：1690 年 3 月，他被禁止在萨克森选侯国境内出版和授课（私课与大学课程均在禁止之列）。
+  - id: 6
+    kind: body
+    source: |-
+      Thomasius sought refuge in Berlin, in the neighbouring state of Brandenburg which was led by the Calvinist Elector Friedrich III (later king Friedrich I) and had a tradition of toleration. Partly through the support of Pufendorf himself, Thomasius was given an appointment as councillor to the court, and was allowed to lecture at the Ritterakademie in Halle an der Saale, which in 1694 would become the Friedrichs-Universität, with Thomasius among the founding faculty (in law). Thomasius was soon joined by the Pietist orientalist, theologian and educational reformer, August Hermann Francke, who had likewise run afoul of the religious authorities in Leipzig. Thomasius himself had been sympathetic with the anti-scholastic and anti-authoritarian bent of the Pietists (see §3.2 below), and had publicly defended Francke at one point in Leipzig; however, a public break occurred when Thomasius published a criticism, in 1699, of the pedagogy Francke had adopted in his famous educational institutions in Halle. Thomasius continued to stir controversy with his lectures and publications, which frequently over-reached the purview of the juristic faculty (such as his critical discussion of witchcraft trials—Beck 1969: 253–254)[^beck-1969], and breached decorum by personally attacking his theological colleagues, all of which led to a reprimand from the Brandenburg court in 1702 and an order to adhere to the boundaries between faculties. Thomasius’ dissertation *De concubinatu* of 1713, in which he contended that the use of concubines does not violate the marriage contract given that the purpose of marriage is solely procreation, also generated heated discussion. While Thomasius and Francke reconciled in 1714, Thomasius did not play a significant role in the later controversy between Wolff and the Pietists. He died in Halle on 23 September 1728.
+    step1: |-
+      托马修斯到邻邦勃兰登堡寻求庇护；该邦由加尔文宗选帝侯弗里德里希三世（Friedrich III，后来的国王弗里德里希一世）执掌，素有宽容的传统。部分地由于普芬道夫本人的支持，托马修斯获任宫廷参议，并获准在萨勒河畔哈勒的骑士学院（Ritterakademie）讲课；该院于 1694 年改为弗里德里希大学（Friedrichs-Universität），托马修斯是其创校教员之一（法学门）。虔敬派东方学家、神学家兼教育改革家奥古斯特·赫尔曼·弗兰克（August Hermann Francke）不久也来到托马修斯身边；此人在莱比锡同样得罪了宗教当局。托马修斯本人曾同情虔敬派的反经院哲学与反权威倾向（见下文 §3.2），并曾在莱比锡公开为弗兰克辩护；然而，当托马修斯于 1699 年发表对弗兰克在哈勒那几所著名教育机构所采教学法的批评时，两人公开决裂。托马修斯的讲课与著述继续掀起风波——它们常常越出法学系的职权范围（例如他对女巫审判的批判性讨论——Beck 1969: 253–254）[^beck-1969]，而且他以人身攻击冒犯其神学系同事、有失体统；这一切导致勃兰登堡宫廷于 1702 年对他提出申斥，并下令他恪守各系之间的边界。托马修斯 1713 年的论文《论纳妾》（*De concubinatu*）同样引发了激烈讨论；他在文中主张，鉴于婚姻的目的仅在于生育，纳妾之用并不违反婚约。虽然托马修斯与弗兰克于 1714 年和解，但托马修斯并未在此后沃尔夫与虔敬派的争论中扮演重要角色。他于 1728 年 9 月 23 日卒于哈勒。
+    step2: |-
+      托马修斯避往邻邦勃兰登堡。该邦由加尔文宗选帝侯弗里德里希三世（Friedrich III，即后来的国王弗里德里希一世）执掌，素来奉行宽容。部分得益于普芬道夫本人的举荐，托马修斯获任宫廷参议，并获准在萨勒河畔哈勒的骑士学院（Ritterakademie）授课；这所学院 1694 年升格为弗里德里希大学（Friedrichs-Universität），托马修斯名列创校教员（法学门）。虔敬派东方学家、神学家兼教育改革家奥古斯特·赫尔曼·弗兰克（August Hermann Francke）不久也来投——此人在莱比锡同样触怒了宗教当局。托马修斯原本就同情虔敬派的反经院哲学与反权威倾向（见下文 §3.2），还曾在莱比锡公开为弗兰克辩护；然而 1699 年，托马修斯发文批评弗兰克在哈勒那几所著名教育机构推行的教学法，两人就此公开决裂。此后托马修斯的讲课与著述风波不断：它们频频越出法学系的职权范围（例如他对女巫审判的批判性讨论——Beck 1969: 253–254）[^beck-1969]，他还以人身攻击顶撞神学系同事、有失体统。这一切导致勃兰登堡宫廷 1702 年出面申斥，并勒令他恪守各系之间的边界。1713 年，托马修斯的论文《论纳妾》（*De concubinatu*）又引起热烈争论：他主张，婚姻的目的既只在生育，纳妾便不算违背婚约。托马修斯与弗兰克虽在 1714 年和解，但在此后沃尔夫与虔敬派的争论中他再未扮演要角。1728 年 9 月 23 日，他卒于哈勒。
+  - id: 7
+    kind: body
+    source: |-
+      Thomasius’ works cover a wide range of topics. In addition to the topical essays and dissertations already mentioned, Thomasius published major texts on natural law, including the *Institutiones jurisprudentiae divinae* (*Institutions of Divine Jurisprudence*) of 1688 and the *Fundamentum iuris naturae et gentium* (*Foundations of the Law of Nature and Nations*) of 1705 (for discussion of Thomasius’ contributions to natural law theory, which will not be taken up here, see especially Hochstrasser 2000: ch. 4; Kühnel 2001; and Lutterbeck 2002)[^hochstrasser-2000][^kühnel-2001][^lutterbeck-2002]. Thomasius also published on topics in theoretical and practical philosophy, especially during his time in Halle. Thomasius wrote a number of texts on logic, such as the *Introductio ad philosophiam auliam* (*Introduction to Court Philosophy*) of 1688, as well as the *Einleitung zur Vernunfft-Lehre* (*Introduction to the Doctrine of Reason*) and the *Ausübung der Vernunfft-Lehre* (*Application of the Doctrine of Reason*) both of 1691. These were followed by a parallel exhibition of his moral philosophy in the *Einleitung zur Sitten-Lehre* (*Introduction to the Doctrine of Morals*) of 1692 and the *Ausübung der Sitten-Lehre* (*Application of the Doctrine of Morals*) of 1696, as well as an influential excursion into metaphysics in the *Versuch vom Wesen des Geistes* (*Essay on the Essence of Spirit*) in 1699 (second edition 1709).
+    step1: |-
+      托马修斯的著作涵盖广泛的主题。除已提及的时论文章与学位论文之外，托马修斯还出版了自然法方面的主要文本，包括 1688 年的《神圣法理学要义》（*Institutiones jurisprudentiae divinae*，*Institutions of Divine Jurisprudence*）与 1705 年的《自然法与万民法之基础》（*Fundamentum iuris naturae et gentium*，*Foundations of the Law of Nature and Nations*）（关于托马修斯对自然法理论的贡献的讨论——此处不予论及——尤其参见 Hochstrasser 2000: ch. 4；Kühnel 2001；以及 Lutterbeck 2002）[^hochstrasser-2000][^kühnel-2001][^lutterbeck-2002]。托马修斯也出版过理论哲学与实践哲学方面的论著，尤其是在他身居哈勒的时期。托马修斯写过若干逻辑学文本，如 1688 年的《宫廷哲学导论》（*Introductio ad philosophiam auliam*，*Introduction to Court Philosophy*），以及 1691 年的《理性学说导论》（*Einleitung zur Vernunfft-Lehre*，*Introduction to the Doctrine of Reason*）与《理性学说运用》（*Ausübung der Vernunfft-Lehre*，*Application of the Doctrine of Reason*）。随后又有对其道德哲学的平行展示，即 1692 年的《道德学说导论》（*Einleitung zur Sitten-Lehre*，*Introduction to the Doctrine of Morals*）与 1696 年的《道德学说运用》（*Ausübung der Sitten-Lehre*，*Application of the Doctrine of Morals*），此外还有 1699 年（第二版 1709 年）对形而上学的一次影响深远的涉猎——《论精神本质试论》（*Versuch vom Wesen des Geistes*，*Essay on the Essence of Spirit*）。
+    step2: |-
+      托马修斯的著作题材广泛。除上面提到的时论与学位论文外，他还出版了几部自然法要籍：1688 年的《神圣法理学要义》（*Institutiones jurisprudentiae divinae*，*Institutions of Divine Jurisprudence*）和 1705 年的《自然法与万民法之基础》（*Fundamentum iuris naturae et gentium*，*Foundations of the Law of Nature and Nations*）（关于托马修斯自然法理论贡献的讨论——此处不拟展开——尤见 Hochstrasser 2000: ch. 4；Kühnel 2001；Lutterbeck 2002）[^hochstrasser-2000][^kühnel-2001][^lutterbeck-2002]。他还出版了理论与实践哲学两方面的论著，哈勒时期尤其多产。逻辑学方面，他写有 1688 年的《宫廷哲学导论》（*Introductio ad philosophiam auliam*，*Introduction to Court Philosophy*），以及同为 1691 年的《理性学说导论》（*Einleitung zur Vernunfft-Lehre*，*Introduction to the Doctrine of Reason*）与《理性学说运用》（*Ausübung der Vernunfft-Lehre*，*Application of the Doctrine of Reason*）。随后是他的道德哲学的平行展开：1692 年的《道德学说导论》（*Einleitung zur Sitten-Lehre*，*Introduction to the Doctrine of Morals*）与 1696 年的《道德学说运用》（*Ausübung der Sitten-Lehre*，*Application of the Doctrine of Morals*）；再就是 1699 年（第二版 1709 年）那部影响深远的形而上学之作——《论精神本质试论》（*Versuch vom Wesen des Geistes*，*Essay on the Essence of Spirit*）。
+  - id: 8
+    kind: body
+    source: |-
+      ### 1.2 Philosophy
+    step1: |-
+      ### 1.2 哲学
+    step2: |-
+      ### 1.2 哲学
+  - id: 9
+    kind: body
+    source: |-
+      Thomasius is decidedly not a systematic philosopher; instead, and quite consistent with his mature distaste for dogmatism in all its forms, he is best characterized as a conscientiously eclectic thinker (M. Albrecht 1994: 398–416; Bottin & Longo 2015: 301–315; Rumore 2026)[^albrecht-1994][^bottin-2015][^rumore-2026]. That said, Thomasius’ thought is unified by an overarching conviction in the priority of practical life, and the belief that erudition in whatever sphere of knowledge should be pursued for the sake of the improvement of our will and intellect for use in our ordinary life. This is made clear, for instance, in the definition of learnedness (“*Gelahrheit*”) that Thomasius provides at the outset of his *Introduction to the Doctrine of Reason*:
+    step1: |-
+      托马修斯断然不是一位体系哲学家；毋宁说——与他成熟时期对一切形态的教条主义的反感颇为一致——最好把他刻画为一位一丝不苟的折中主义者（M. Albrecht 1994: 398–416; Bottin & Longo 2015: 301–315; Rumore 2026）[^albrecht-1994][^bottin-2015][^rumore-2026]。尽管如此，托马修斯的思想仍由一个统摄性的信念统一起来，即实践生活的优先性，以及如下信念：无论何种知识领域的博学，都应当以改进我们的意志和理智、以供日常生活之用为旨归。这一点在他于《理性学说导论》开篇对“学识”（“*Gelahrheit*”）所下定义中表现得十分清楚：
+    step2: |-
+      托马修斯断然算不上体系哲学家；与他成熟时期对一切形态教条主义的反感相一致，最恰当的定位是把他说成一位一丝不苟的折中主义者（M. Albrecht 1994: 398–416; Bottin & Longo 2015: 301–315; Rumore 2026）[^albrecht-1994][^bottin-2015][^rumore-2026]。尽管如此，他的思想仍被一个统摄性的信念贯穿始终：实践生活高于一切；无论哪个知识领域的学识，都应当为改进我们的意志与理智、服务于日常生活而求。这一点在他《理性学说导论》（*Einleitung zur Vernunfft-Lehre*）开篇所下的“学识”（“*Gelahrheit*”）定义里表现得再清楚不过：
+  - id: 10
+    kind: body
+    source: |-
+      > Learnedness is knowledge through which the human being is made capable of properly distinguishing the true from the false and the good from the bad […] in order that one might promote one’s own temporal and lasting welfare, and that of others, in ordinary life and affairs. (Thomasius 1691a: ch. 1, §1 [2019: 18])[^thomasius-1691a]
+    step1: |-
+      > 学识是这样一种知识：凭借它，人得以恰当地分辨真与假、善与恶……从而能够在日常生活和事务中增进自己当下而持久的福祉，也增进他人的福祉。（Thomasius 1691a: ch. 1, §1 [2019: 18]）[^thomasius-1691a]
+    step2: |-
+      > 学识是这样一种知识：凭借它，人得以恰当地分辨真与假、善与恶……从而能在日常生活与事务之中，增进自己当下而持久的福祉，也增进他人的福祉。（Thomasius 1691a: ch. 1, §1 [2019: 18]）[^thomasius-1691a]
+  - id: 11
+    kind: body
+    source: |-
+      Significantly, and unlike subsequent Enlightenment thinkers, Thomasius is also explicit in holding that because the attainment of learnedness is possible wholly through the use of the natural (rather than the supernatural) light of the mind (cf. Thomasius 1691a: ch. 1, §16)[^thomasius-1691a], it is accessible by all, regardless of gender or class (for more on this, see §6.1, below).
+    step1: |-
+      值得注意的是，与后来的启蒙思想家不同，托马修斯还明确主张：既然学识的达成完全可以靠心灵的自然之光（而非超自然之光）的运用来实现（cf. Thomasius 1691a: ch. 1, §16）[^thomasius-1691a]，那么无论性别或阶层，人人皆可获得学识（对此的更多讨论见下文 §6.1）。
+    step2: |-
+      值得注意的是，与后来的启蒙思想家不同，托马修斯明确主张：学识的达成全然可以凭借心灵的自然之光（而非超自然之光）来实现（cf. Thomasius 1691a: ch. 1, §16）[^thomasius-1691a]；因此无论性别贵贱，人人皆可得而求之（相关讨论见下文 §6.1）。
+  - id: 12
+    kind: body
+    source: |-
+      In light of this, the aim of logic for Thomasius is to cultivate the powers of the mind, and the faculty of reason in particular, so that we are capable of discerning what the natural light of the mind reveals to be true or false in any field to which it is applied. This involves not just supplying positive guidance with respect to how truth might be recognized and attained, but also negatively identifying and dispelling prejudices that obscure the natural light. Thomasius’ logic, therefore, is not primarily intended to offer a theory of demonstration (as with scholastic logics) nor an organon for specifically scientific discovery (as with Cartesian logics or, later, with Wolff’s logic). This distinctive aim does not, however, prevent him from weighing in on matters of traditional logical and epistemological import; for instance, he contends that thought has to do with images ultimately derived from the external senses (thereby rejecting innate ideas—Thomasius 1691a: ch. 3, §22)[^thomasius-1691a], and he outlines a theory of demonstration that focuses on preserving *conviction* in truths through their connection to incontrovertible first principles.
+    step1: |-
+      有鉴于此，在托马修斯那里，逻辑学的目的在于操练心灵诸能力——尤其是理性官能——使我们能够辨别心灵的自然之光在其所应用的任何领域中显示为真或假的东西。这不仅包括就真理如何被认识和达到提供正面的指引，还包括以否定的方式识别并驱散遮蔽自然之光的种种偏见。因此，托马修斯的逻辑学首先不是要提供一种证明理论（如经院逻辑那样），也不是要提供一种专供科学发现的工具论（如笛卡尔式逻辑，或后来的沃尔夫逻辑那样）。不过，这一独特的目的并不妨碍他介入传统逻辑与认识论意义上的种种问题；例如，他主张思维所处理的是最终来自外部感官的意象（由此拒绝天赋观念——Thomasius 1691a: ch. 3, §22）[^thomasius-1691a]，并且他勾画了一种证明理论，其焦点在于通过真理与无可置疑的第一原理的关联来保持对真理的信念。
+    step2: |-
+      有鉴于此，托马修斯认为逻辑学的目的在于操练心灵的诸种能力——尤其是理性官能——使我们能够辨别：在自然之光应用于任何领域时所显露的真与假。它不仅要从正面指明真理如何被认识、如何达成，还要从反面识别并驱散那些遮蔽自然之光的偏见。因此，托马修斯的逻辑学首要目标，既不是提供一套证明理论（那是经院逻辑的路数），也不是打造一台专供科学发现的工具论（那是笛卡尔式逻辑的路数，后来沃尔夫的逻辑也是如此）。不过，这一独特的定位并不妨碍他介入传统逻辑和认识论上的种种问题：比如，他主张思维处理的是最终源自外部感官的意象（由此拒斥天赋观念——Thomasius 1691a: ch. 3, §22）[^thomasius-1691a]；他还勾画了一种证明理论，着力点在于借真理与无可置疑的第一原理的关联，保全我们对真理的信念。
+  - id: 13
+    kind: body
+    source: |-
+      Thomasius’ *Application of the Doctrine of Reason* contributes to the project initiated in the *Introduction* by outlining the means of avoiding error. Avoiding error involves the eradication of prejudices, which are among the causes of the corruption of reason and which are grouped into two main groups, namely, prejudices of authority and of precipitancy or hastiness. That, in turn, is accomplished through what he identifies as dogmatic doubt, not the Cartesian doubt that deems everything false so as to find a first indubitable principle, which is a pointless enterprise, according to Thomasius. Dogmatic doubt is the doubt about particular things, beliefs, and opinions, and this he found healthy and conducive to preventing error.
+    step1: |-
+      托马修斯的《理性学说运用》通过勾画避免错误的手段，推进了《导论》所开启的事业。避免错误涉及根除偏见；偏见是理性败坏的诸原因之一，可归为两大类，即权威之偏见与轻率之偏见。而这又借助于他所称的教条式怀疑来实现；笛卡尔式怀疑把一切都视为假的，以便找到一个第一性的无可置疑的原理，而在托马修斯看来这是一项无意义的事业。教条式怀疑是对特殊的事物、信念和意见的怀疑；他认为这种怀疑是健康的，有助于防止错误。
+    step2: |-
+      托马修斯的《理性学说运用》（*Ausübung der Vernunfft-Lehre*）通过给出避免错误的手段，把《导论》开启的事业向前推进。避免错误，在于根除偏见；偏见是理性败坏的种种原因之一，可归为两大类：权威之见与轻率之见。而根除之道，就在于他所说的教条式怀疑。笛卡尔式怀疑把一切都暂时视之为假，以便寻得某个第一性的、无可置疑的原理——在托马修斯看来，这种做法纯属徒劳。教条式怀疑则是针对具体事物、具体信念和具体意见的怀疑；他认为这种怀疑是健康的，有助于防止错误。
+  - id: 14
+    kind: body
+    source: |-
+      In any case, the centrepiece of Thomasius’ logic, and probably its most influential aspect, is his theory of truth. According to Thomasius’ definition, truth consists in
+    step1: |-
+      无论如何，托马修斯逻辑学的核心——或许也是其最有影响的部分——是他的真理理论。按照托马修斯的定义，真理在于
+    step2: |-
+      无论如何，托马修斯逻辑学的核心——多半也是其中影响最大的部分——是他的真理理论。按他的定义，真理在于
+  - id: 15
+    kind: body
+    source: |-
+      > *nothing other than an agreement between human thoughts and the constitution of things outside your thoughts.* (Thomasius 1691a: ch. 5, §13 [2019: 28]; italics in original)[^thomasius-1691a]
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      While this definition *contains* the classical correspondence theory of truth (in accordance with which truth consists in the correspondence of our thoughts with things), Thomasius contends that the correspondence works in the other direction as well, namely, that truth also requires the correspondence of things with our powers of thought:
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      > Here, however, you should not ask whether the understanding must agree with things, or the things with the understanding; rather this harmony is so constituted that neither provides the guiding principle for the other, but this harmony is simultaneously presupposed by both even though external things as it were initiate it. (Thomasius 1691a: ch. 5, §14 [2019: 28])[^thomasius-1691a]
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      In accordance with this conception of truth, Thomasius conceives of the mind as fundamentally active with its ideas (rather than merely passively reflecting the order of nature) such that things must be in agreement with its nature and capacities in order to be cognized or willed. Thomasius does not himself explore the principles that might govern the mind’s activity nor draw any idealistic consequences from this conception of truth—that, for instance, things insofar as they agree with our intellect might differ considered apart from it—though his successors such as Adolph Friedrich Hoffmann and Christian August Crusius would (on the latter, see §5.2 below).
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      This conception of the human mind as fundamentally active is taken up again in Thomasius’ lone substantial contribution to metaphysics, the *Essay on the Essence of Spirit*, where Thomasius distinguishes spirit (*Geist*) from matter in virtue of its activity. While this would appear to result in a metaphysical dualism, Thomasius complicates things by endorsing a hierarchy of spirits, not just between the human being and God, but also a class of spirits responsible for various effects in bodies (such as heating and cooling). Yet, his further postulation of an “air and light spirit [*ein Lufft- und Licht-Geist*]” which fills the spaces between parts of matter, not to mention his apparent identification of space itself as “pure spirit” (Thomasius 1709: 60, 167–8)[^thomasius-1709] muddles the original, starkly dualistic picture.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Thomasius’s moral theory is a theory of the will. He held that in moral matters, the will dominates reason. While human beings have free choice if not externally constrained, the will is not free; rather, it is dominated by human affects—our passions, impulses, and desires. Like Hobbes, Thomasius believed that even though subject to such inner (psychological) constraints, the will still chooses (with the aid of reason); it consciously wills. And a conscious choice is precisely what is required for a (good) action to be considered moral: a good instinct or good inclinations may make us good, may even be desirable, but by itself this is not enough to make us moral as morality requires a conscious act of will. The trouble with morality arises because the will is determined by evil desires, in particular, lust, ambition, and avarice. Although there are noble sentiments as well, which similarly influence the will, they are in conflict with the negative dispositions. The conflict can be brought to a positive conclusion only by appeal to divine grace (God’s salvation), and Thomasius *Application of the Doctrine of Morals* is notable for its positive treatment of mystical experience.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      Thomasius’ moral philosophy is accordingly informed by theological considerations in a way not shared by his works in theoretical philosophy. While, in the theoretical context, he did believe in natural reason’s capacity to overcome corruption, in the practical context he held that an evil will is at the root of our corruption, and to ameliorate it we require God’s grace. Moreover, Thomasius’s moral outlook seems to develop from his initial presentation of morality in the *Introduction to the Doctrine of Morals* in 1692, which is an optimistic affirmation of the viability of a moral position he identified as one involving “rational love” (*vernünftige Liebe*) as the only means to a “happy, courteous and cheerful life”, to a more pessimistic position in his *Application* in 1696 where he contends that human self-interest and an evil will constitute significant obstacles to moral improvement (a development likely due to his Pietist conversion during the period; cf. Beck 1969: 251; Ahnert 2006: 27–42)[^beck-1969][^ahnert-2006].
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      This ambivalence and return to theology aside, Thomasius’s moral position is a distinctive one. The theory of rational love is based on the fundamental equality of human beings as well as on their ability to think and choose independently (of authority). Ultimately, Thomasius’s ethics is a social ethics. The theory is other-directed, and given the absence of laws and principles, constitutes a contrast to the formalist universalist ethics Kant would develop by the end of the next century. At the same time, the lack of any way of making this theory applicable in a context governed not by similar but instead by conflicting interests, makes something like a formalist ethics an inevitability. By the end of the *Introduction to the Doctrine of Morals*, even Thomasius recognizes that “rational love” will function only in relatively harmonious contexts. In other contexts, however, particularly those characterized by unequal power positions, justice may well be required, a distinction in duties which Thomasius influentially characterizes in terms of “internal” and “external” obligation (cf. Barnard 1988; Schneewind 1998: 165–166)[^schneewind-1998][^barnard-1988].
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      ## 2. Radical Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      Through the efforts of Thomasius, and later Christian Wolff, the Friedrichs-Universität in Halle became the intellectual centre of the early Enlightenment in Germany. And despite, for instance, Thomasius’ conflict with Orthodox Lutheranism in Leipzig, and Wolff’s controversy with his Pietist colleagues (§3.3, below), neither were explicitly hostile towards religious belief, the Church, or to (appropriately exercised) religious authority (though see Favaretti Camposampiero 2024 on nuances in Wolff’s case)[^favaretti-2024]. Nor for that matter did either seek to challenge the existing political order. Beyond the German academy, however, a more radical philosophical tradition flourished, one that drew on the thought of, among others, Hobbes, Gassendi, and Spinoza, and proliferated through the transmission of clandestine literature within networks that spanned across Europe. While there was considerable diversity among the views held by the thinkers within this radical philosophical tradition, they tended to be highly critical of organized religion (if not necessarily professed atheists) and of the established political order, rejected the authority of the Bible as a source of revealed truth, and defended a (not always sophisticated) materialistic conception of the soul (cf. Stiehler 1966; Israel 2001: 628–636; Mulsow 2002 [2015]; Dyck 2016a; Rumore 2016)[^dyck-2016a][^israel-2001][^mulsow-2002][^rumore-2016][^stiehler-1966]. It bears noting that while this tradition flourished outside of a narrow academic context, there was nonetheless considerable exchange and mutual influence between figures in both the mainstream and radical traditions.
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      Among the most important German thinkers within this radical philosophical tradition, and quite representative of its intellectual diversity, are Friedrich Wilhelm Stosch (1648–1704) and Theodor Ludwig Lau (1670–1740). Stosch was the son of a Reformed minister and court chaplain in Brandenburg and worked as a court secretary until ill-health forced him to resign in 1686. Stosch subsequently pursued philosophical interests and in 1692 published his sole known text, the *Concordia rationis et fidei* (*Concord of Reason and Faith*). In spite of its title, the *Concord* seeks to subordinate the claims of faith to the canons of reason, in accordance with a broadly Socinian outlook, and Stosch denies that there is any basis in reason for conviction in the natural immortality of the soul (for which he also provides a materialist account), and rejects the reasonableness of eternal damnation. Stosch’s *Concord* was published anonymously (with Amsterdam listed as the place of publication) with only 100 copies printed, but when these were discovered for sale, they were seized and burned. Stosch was forced to identify himself as the author, was arrested, and subsequently investigated by a committee consisting of, among others, Pufendorf, concluding with Stosch’s public retraction of the book in 1694.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Lau had studied law in his home town of Königsberg before moving to Halle in 1694 where he attended lectures by Thomasius. In 1695, he embarked on a trip through Europe and England (where he apparently met Newton), taking up a position as councillor with the young Duke of Courland on his return. The early death of his patron saw Lau turn to intellectual pursuits, and in 1717 he published a number of treatises on various subjects, including the anonymous *Meditationes philosophicae de Deo, mundo et homine* (*Philosophical Meditations concerning God, the World, and the Human Being*). The text covers a wide range of philosophical (and medical and political) topics, and is distinctive in its eclectic borrowings from Spinoza, Locke, Plotinus, and Giordano Bruno, among others. Its general philosophical outlook might most accurately be characterized as pantheistic, both in the Spinozistic sense inasmuch as Lau defends the world’s pre-existence in God and denies its creation *ex nihilo* (although the extent of Lau’s Spinozism is disputed; cf. Schröder 1987: 128–132)[^schröder-1987], but also and especially in the sense of the Irish freethinker John Toland’s pantheism inasmuch as Lau attempts to outline the foundations of a universal religion. Due to its strident denunciation of the clergy and a genealogical critique of the current political order, the *Meditations* was instantly controversial, and Lau’s publisher was eventually pressured into revealing Lau’s authorship. This led to Lau’s imprisonment, during which he attempted suicide, and his subsequent expulsion from Frankfurt am Main; Lau’s appeal to his mentor, Thomasius, for a review of the proceedings was also met with a painful denunciation. Lau attempted to return to his study of the law, but his unorthodox opinions and previous brush with infamy made this impossible (in spite of a formal recantation of his earlier views). He died, in poor mental health, in Altona in 1740.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      ## 3. The Controversy between Wolff and the Pietists
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      Thomasius would continue to exercise an important influence on German philosophy throughout the first half of the eighteenth century. However, it was his colleague in the philosophy faculty at the Friedrichs-Universität, Christian Wolff, who would contribute the most to the modernization of the German intellectual landscape and the spread of the Enlightenment. Wolff achieved this primarily through his distinctive philosophical system, the so-called “Leibnizian-Wolffian” philosophy, which incorporated the latest philosophical ideas and methods, including but not limited to those of Leibniz himself. The relevance and accessibility of Wolff’s system, expanded and refined by his many students, quickly saw it gain a foothold in academies across Germany. Wolff was not without his detractors, of course, and none were more vocal, nor more successful (at least initially) in their efforts to limit his influence, than his Pietist colleagues in the faculty of theology. The famous controversy between Wolff and the Pietists, which at its climax saw Wolff exiled from Prussia on pain of hanging in 1723, put the full menu of modern ideas—including materialism, idealism, atheism, and Spinozism—before the literate public and drew the attention of the rest of Europe to the German intellectual scene.
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      ### 3.1 The “Leibnizian-Wolffian” Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      Christian Wolff was born in Breslau (today, Wrocław) on 24 January 1679. By all accounts a gifted student, he developed an interest in theology and mathematics during his time in Gymnasium, and studied theology and mathematics at the University of Jena and then in Leipzig, gaining his *Magister* at Leizpig in 1702. His subsequent *Habilitationsschrift* on introducing mathematical method to practical philosophy drew Leibniz’s attention to him. They began a correspondence that continued until Leibniz’s death in 1716, and which covered topics from mathematics to metaphysics. Partially through Leibniz’s support, Wolff was appointed to a vacant chair in mathematics at the Friedrichs-Universität in Halle, delivering his inaugural lecture in 1707.
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      Understandably, given the nature of his position, most of Wolff’s initial publications were devoted to mathematics and natural science, including an introduction to mathematics in 1710 and an influential mathematical dictionary in 1716. Around 1710, however, he began to lecture on more narrowly philosophical topics, publishing his *Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem richtigen Gebrauche in Erkäntnis der Wahrheit* (*Rational Thoughts on the Powers of the Human Understanding and its Propert Use in the Cognition of Truth*) [the “*German Logic”, hereafter GL*] in 1713. Thus began Wolff’s famous series of German-language textbooks on philosophical topics, which would grow to include the *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (*Rational Thoughts on God, the World and the Soul of Man, and on All Things in General*) [the “*German Metaphysics*”, hereafter GM] in 1719 (albeit with a publication date of 1720), and the *Vernünfftige Gedancken von der Menschen Thun und Lassen, zu Beförderung ihrer Glückseligkeit* (*Rational Thoughts on Human Actions for the Promotion of their Happiness*) [the “*German Ethics*”, hereafter GE] in 1720, followed by the “*German Politics*” in 1721, the “*German Physics*” in 1723, and the “*German Teleology*” in 1724.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      This series of texts constitutes the first presentation of the so-called “Leibnizian-Wolffian” philosophy that would come to dominate the philosophical landscape in Germany. There is, of course, no question that Wolff’s philosophical system is thoroughly informed by Leibniz’s: Wolff himself admits that the reading of Leibniz’s 1684 essay “Meditations on Cognition, Truth, and Ideas”, and Leibniz’s classification of ideas in particular, had sparked a “great light” that informed his *German Logic* (cf. GL “Vorrede”); moreover, Wolff himself reports that he incorporated a number of Leibnizian concepts into his presentation of ontology, cosmology, and rational psychology in the *German Metaphysics* (cf. Wuttke 1841: 141–142)[^wuttke-1841]. Even so, Wolff points out that when he started writing his series of philosophical textbooks there were few of Leibniz’s texts available through which one might get a sense of the wider Leibnizian philosophy (Wuttke 1841: 140–141; cf. also Wilson 1994)[^wilson-1994][^wuttke-1841]; thus he takes issue with the designation of his system as “Leibnizian-Wolffian”—a coinage he credits to one of his students, Georg Bernhard Bilfinger (Wuttke 1841: 142; on the source and appropriateness of this designation, see Dyck 2025: 121–124 and Favaretti Camposampiero 2026)[^dyck-2025][^favaretti-2026][^wuttke-1841]. The extent of Leibniz’s influence on Wolff is widely debated (cf. Corr 1975; École 1979)[^corr-1975][^école-1979], but it is in any case clear that Leibniz is not the sole, nor in every case the most important, influence on the development of Wolff’s ideas, as figures such as Ehrenfried Walther von Tschirnhaus (1651–1708), John Locke, and late Scholastic thinkers also exerted an important influence on his metaphysics, epistemology, and theory of science (Neveu 2018; Leduc 2018; Dyck 2021a)[^dyck-2021a][^leduc-2018][^neveu-2018].
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      Turning to a brief overview of Wolff’s philosophical works, the *German Logic* is intended, quite in contrast to Thomasius’, as a handbook for the acquisition, justification, and orderly presentation of scientific cognition. So, in addition to the now expected treatment of concepts, propositions, and syllogisms, Wolff’s text contains discussion of drawing universal propositions from individual experiences, of experiments, and of science and its distinction from faith and opinion. Moreover, the *German Logic* contains Wolff’s mature presentation of his mathematical method, through which we proceed from definitions and axioms to the formulation of theorems and postulates, and ultimately to demonstrations, and it outlines how the method can be employed for the purpose of scientific discovery (for discussion, see Frketich 2019; Gava 2019)[^frketich-2019][^gava-2019][^gava-2019-2]. Significantly, it is this method that gains widespread application throughout Wolff’s philosophical enterprise, including in his metaphysics.
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      The *German Metaphysics* was Wolff’s next major philosophical text, and in it he formally introduces the division of metaphysical topics into ontology, cosmology, empirical and rational psychology and natural theology, a division that Kant, among others, would subsequently take up. The initial chapter attempts to make evident, in a Cartesian vein, both an indubitable truth (“we are certain that we exist”) and to establish a canon for what will count as a *certain* cognition for the remainder of the enterprise. In the second chapter Wolff sets out the two (Leibnizian) principles governing his philosophical thought: the principle of contradiction (“something cannot both be and not be at the same time” GM §10) and the principle of sufficient reason. Significantly, Wolff suggests that while the first is self-evident, the second admits of proof, for which Wolff offers two arguments in an apparent departure from Leibniz (Dyck 2025 187–194)[^dyck-2025]. The first proceeds as follows:
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      > Were it the case that something could be, or take place, in a thing without a reason why it should occur being met with either in that thing itself or something else, then it would come to be from nothing. Since, however, it is impossible that something could come to be from nothing, *everything that is must have a sufficient reason why it is*. (GM §30 [2019: 101])
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      In the remainder of the ontology, Wolff provides accounts of concepts that will be key for his subsequent treatment of specific metaphysical topics, including essence and attribute, space and time, simple and composite, substance, power, and cause.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      The chapters on empirical and rational psychology outline an account of the soul in general and of the human soul in particular. In his empirical treatment, Wolff considers what can be known of the soul by means of our ordinary inner experience. He contends that we can distinguish thoughts in terms of obscurity, clarity, and distinctness, but we can also distinguish the soul’s representations in terms of their content. Accordingly, they can be classified into sensations, imaginings, and thoughts proper, which can in turn be traced back to various faculties of the soul, including sensibility, imagination, and the understanding, in virtue of which it is capable of these distinct thoughts. We also discern that the soul is subject to pleasure and displeasure in its (distinct or indistinct) cognition of good and evil, which give rise to desires and willing (based on indistinct and distinct cognition respectively), and when that willing is in accordance with what pleases the soul the most then, for Wolff, its acts are free (GM §519).
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      On the basis of these empirical cognitions of the soul, rational psychology seeks to draw inferences regarding the soul’s essence and nature. Wolff argues that the soul must be immaterial given that it is impossible that a body should think (GM §738), and as a result that the soul is a simple substance endowed with a power of which its thoughts are effects, which power is identified as a power of representation (GM §§742–7). This secures the soul’s natural immortality, or incorruptibility, but Wolff argues for the soul’s personal immortality, or its preservation of its state of conscious representation and memory in the afterlife (GM §§925–6). It is in the context of rational psychology that Wolff also offers a defence of the Leibnizian doctrine of pre-established harmony (§765), which he think accounts for the empirically-observed agreement between the states of the soul and the body better than the competing systems of physical influence and occasional causation.
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      The final pair of topics concern the world (cosmology) and God (natural theology). Regarding the former, Wolff identifies the world as the “series of changeable things that are next to one another and follow one upon the other” (GM §544 [2019: 120]). As such, the world is a composite consisting of ultimately simple substances, though Wolff declines to identify them as Leibnizian monads as he hesitates to ascribe representational states to the constituents (“elements”) of matter (GM §§598–9). Things and events in the world are nonetheless connected to one another in accordance with the principle of sufficient reason, and Wolff concludes that all events are certain as a result (GM §561). Concerning God, Wolff argues that He must exist inasmuch as our own evident existence requires a necessary being to serve as its sufficient reason, which necessary being must also be independent, eternal, and simple (GM §§928–936); it cannot, therefore, be the world (a composite) nor our own soul (a being dependant on the world), and so can only be God (GM §945). In addition to these attributes, God must have an understanding, through which He distinctly represents all that is possible, and a free will inasmuch as He chooses that world which pleases Him most to make actual (GM §980).
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      Rounding out Wolff’s major philosophical works of this period, the *German Ethics* is composed of four parts, a theoretical part that treats the foundation of practical philosophy and three practical parts that present a doctrine of duties that human beings have towards themselves, God, and others. The central notion in Wolff’s ethics is the (metaphysical) notion of perfection which concerns the “agreement” of elements in a given manifold (cf. GM §152), and which is cognized through our intellectual powers (and the history and importance of this notion for Wolff, see Goldenbaum 2024)[^goldenbaum-2024]. It is the cognition of the (apparent) perfection in an action that moves us to act, a fact that accounts for Wolff’s emphasis on the duty to cultivate our understanding among our duties to ourselves so that we can be moved to act in (what are in fact) the most perfect ways (Walschots 2024)[^walschots-2024]. Promoting the perfection of ourselves and others serves for Wolff as the universal rule in accordance with which we ought to choose between two (or more) possible actions (GE §12). That is to say, when making a free choice we ought to consider whether the action “promotes the perfection of our inner and outer state” (GE §2) and that means considering whether the state of the soul and the body accords with the prior state or contradicts it. The outcome has greater perfection to the extent that it contributes to the continued “natural human state and its harmonious preservation over time”(GE §2). The natural human state Wolff envisions is the state of the soul in its manifold efforts to find truth, and everything has to be done to maximize that state. It so happens, that this is where happiness lies as well (Lanzini Stobbe 2024)[^lanzini-2024], and as Wolff indicates at the end of the ethics, it is incumbent upon human beings to ensure not only their own perfection/happiness, but to “contribute as much as possible to the happiness of others” (GE §767).
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      ### 3.2 The Halle Pietists
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      Next to Thomasius and Wolff, the most important intellectual figure in the early history of the Friedrichs-Universität in Halle was August Hermann Francke (1663–1723). As we have seen, Francke had courted controversy in Leipzig through his involvement in the Pietist movement. Pietism was a spiritual movement within the Lutheran tradition that rejected the scholastic and theological turn that Lutheranism had taken and proposed a further, internal reformation to supplement the already-effected external one, and aimed at cultivating a “living faith” rather than mere lip-service to Christian ideals. The Pietists sought the personal and interior experience of a relationship to Christ, an individual transformation that was the result of an act of divine grace modelled on Francke’s own conversion experience (cf. Wallmann 1990: 63–4)[^wallmann-1990]. To this end, the Pietists focused on the study of the Bible itself and devotional literature in small groups—the so-called conventicles or *collegia pietatis*—which were notable, and controversial, for welcoming women, if only as silent observers (R. Albrecht 2004; Gierl 2015)[^albrecht-2004][^gierl-2015].
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      After falling out (in spite of Thomasius’ support) with the Lutheran authorities in Leipzig, Francke followed Thomasius to Halle. He took up a position as a pastor in the neighbouring town of Glaucha, and held lectures on oriental languages in 1692. Francke was himself a disciple of the movement’s intellectual founder, Philipp Jakob Spener (1635–1705), though Francke contributed immeasurably to the spread of Pietism, primarily through his educational institutions in Halle, beginning with a school for poor children founded in 1695. Through the institutions that arose from this humble school, Francke sought a reform of educational principles in line with Pietist ideals, and in this was enormously successful. The pedagogical institutions supplied an influential model for similar institutions in and outside of Germany (especially due to the fact that it was a largely self-funded philanthropic institution), became the hub of an expansive missionary network, and trained the next generation of German theologians, as well as some philosophers (like A. G. Baumgarten), not to mention Prussian civil administrators, bureaucrats, and pastors. Indeed, Francke enjoyed a close relationship to the Prussian court, and king Friedrich I’s successor, Friedrich Wilhelm I became an enthusiastic supporter of his projects after a visit to Halle (cf. Hinrichs 1971)[^hinrichs-1971].
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Another significant member of the theology faculty in Halle was Joachim Lange (1670–1744). Lange had come under Francke’s tutelage in Leipzig (where he also met Thomasius), following him to Erfurt and (briefly) Halle, before taking up positions at various Gymnasia in and around Berlin. During this time he also lectured on classical languages and wrote a very successful Latin grammar. In 1709, he accepted an appointment at the Friedrichs-Universität, in the theology faculty that was now thoroughly steeped in Francke’s Pietism. During his time in Berlin, Lange completed a notable philosophical work, the *Medicina mentis* (*Medicine of the Mind*), printed in Halle in 1704. Lange’s text shares a title with Tschirnhaus’ *Medicina mentis* of 1687, but little else as Lange instead emphasizes the futility and vanity of human attempts to attain cognition through their own efforts, highlighting the mind’s proneness to error and prejudice in its fallen state. Rather, according to Lange, it is only by means of divine grace and the divine light that we can heal the corrupted intellect and the will (Schönfeld 2010)[^schönfeld-2010]. In any case, Lange’s *Medicina mentis*constitutes the sole philosophical text of broad ambition within the early German Pietist tradition, and provides the intellectual foundation for Lange’s later criticisms of Wolff (Grote 2023; Dyck 2025)[^dyck-2025][^grote-2023].
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      A final figure worthy of mention in this context, albeit not strictly-speaking a Pietist thinker, is Johann Franz Budde (1667–1729). Budde had studied theology in Wittenberg, and after lecturing at Jena, had been called to an appointment in moral philosophy at Halle in 1693, where he remained until returning to Jena in 1705 as a professor of theology. Budde adopted a conscientiously eclectic philosophical outlook, one influenced by Thomasius, and which also informed his theological commitments to Lutheranism (if not to Pietism specifically). A prolific writer, he published a number of philosophical works during his time in Halle, including the *Institutiones philosophiae eclecticae* that appeared in two parts in 1703. The two parts are the “Elementa philosophiae theoreticae”, roughly a metaphysics, and the “Elementa philosophiae instrumentalis”, Budde’s logic. A later work, entitled *Theses theologicae de atheismo et superstitione* (1717), is also notable in that Budde seeks to refute various threats to natural and revealed religion, including Spinozism (cf. Rumore 2019: 44–8)[^rumore-2019], an issue that would come to the fore in the coming controversy with Wolff.
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      ### 3.3 The Controversy and its Aftermath
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      The controversy between Wolff and his Pietist colleagues has not typically been held to be of much philosophical significance. Rather, the Pietists’ hostility towards Wolff is taken to be a reflection of their fundamentally un-enlightened anti-intellectualism, and the outbreak of the controversy itself a result of personal and professional rivalries—competition for students and university chairs. That this appraisal is generally accepted is to no small extent due to the efforts of subsequent histories of the dispute written by devoted Wolffians, such as C. G. Ludovici (1707–78) and Georg Volckmar Hartmann (fl. 1729–1737). And while it cannot be denied that the voluminous texts exchanged during the course of the controversy, on both sides, only infrequently rise above the level of the polemical, it would be unfair to dismiss the ground of the Pietists’ objections as philosophically insignificant, or indeed irrelevant for the subsequent development of German philosophy (up to and including Kant). Indeed, the significance of this controversy for the history of German philosophy in the 18th century is increasingly being recognized (Bianco 1989; Favaretti Camposampiero 2021; and Dyck 2025)[^dyck-2025][^bianco-1989][^favaretti-2021].
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      The controversy itself was the result of long-simmering tensions between Wolff and the Pietists. Wolff’s turn to lecturing on philosophical topics, such as metaphysics (including a treatment of natural theology), beginning in 1710, not to mention his discussion in the *German Logic* of Scriptural interpretation, provoked the ire of the theology faculty and led to warnings to their students about attending Wolff’s lectures (on account of his “*Atheisterey*”; cf. Beutel 2007: 165–6)[^beutel-2007]. The publication of Wolff’s *German Metaphysics* in 1719, with its peculiar proof of God’s existence and apparent endorsement of natural necessitation, provided a broad target for their critical attention. This largely behind-the-scenes friction broke into the open with Wolff’s address on 12 July 1721, on the occasion of the transition of the pro-rectorship from himself to Lange, in which he defended the consistency of Confucian (i.e., non-Christian) practical philosophy with Enlightened reason (and Wolffian moral philosophy in particular; cf. M. Albrecht 1985)[^albrecht-1985].
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      The address caused an uproar among the Pietists and Francke demanded to see a copy of Wolff’s address to scrutinize for himself, which request Wolff denied citing the independence of the philosophy faculty. Lange at this point took up the study of Wolff’s metaphysics, penning a damning appraisal for the theology faculty that was sent to the authorities in Berlin. Wolff was invited to reply, and his rejection of the hostile characterization of his views led to the formation of an official commission in late October 1723 to investigate the charges against Wolff. The king himself would soon intervene, and decisively: after the dangers of Wolffian philosophy were explained to two of his generals visiting Halle—the doctrine of the pre-established harmony in particular was said to justify the desertion of soldiers (Beutel 2001: 189)[^beutel-2001]—and this threat conveyed to the king, Friedrich Wilhelm I asked his trusted advisor Francke to outline the problematic doctrines defended by Wolff, which he promptly did. Horrified by Wolff’s evident godlessness, the king dismissed Wolff from his position and ordered him to leave Prussia in 48 hours on pain of hanging, an order that was received in Halle on 12 November 1723. Wolff reacted swiftly, crossing over to nearby Electoral Saxony, refunding his students’ fees, and ultimately took up the offer of a position in Marburg where he received an enthusiastic reception.
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Wolff’s expulsion only meant that the dispute moved into the public domain, and the next decade would see dozens of treatises exchanged between Wolff (and his defenders) and his opponents, Lange and Budde foremost among them. A range of issues were canvassed in the debate. So, the issue of the *libertas philosophandi* had already surfaced in the conflict between the philosophical and theological faculties (on this see Zenker 2013)[^zenker-2013], and there were significant differences between Wolff and the Pietists concerning the ground of moral obligation (Grote 2017)[^grote-2017]; however, the principal topics were metaphysical. These include the pre-established harmony, which Lange rejected as inconsistent with any proper union between soul and body, defending instead a natural connection between them achieved through physical influx (Lange 1724: 48–50 [2019: 141–2])[^lange-1724].
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      Even so, the Pietists’ foremost philosophical concern was with preserving the genuine freedom of the human (and divine) will against Wolff’s Leibniz-inspired assaults (cf. Bianco 1989; Dyck 2025)[^dyck-2025][^bianco-1989]. According to Lange, Wolff’s endorsement of the principle of sufficient reason has the consequence of reducing the soul to an automaton and rendering the series of events that constitute the world a fatally determined concatenation. The result is a necessitarianism distinguishable from total Spinozism only because Wolff accepts a plurality of substances (Lange 1724: 72–3 [2019: 153])[^lange-1724]. Against this, Lange contends that the freedom (rather than mere spontaneity) of the will is directly evident through experience (particularly through our conscience) and constitutes the essence of the human being, that it is required for morality and religion, and that it serves to exempt human beings from the chain of natural necessitation. In spite of his unsympathetic reception in the history of philosophy, Lange succeeds in outlining a coherent antithesis to the Leibnizian-Wolffian conception of the soul and its place in nature, one that would prove influential for later Pietist critics (like Crusius) and that would also form an important part of the background to Kant’s own later discussion of freedom.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      After their initial success with Wolff’s expulsion, Lange and the Pietists suffered diminished influence at the Prussian court. By contrast, the affair only served to burnish Wolff’s European reputation. In Prussia, Wolff’s works on metaphysics and practical philosophy were added to the list of atheist books, but he now saw himself as speaking to Europeans, not merely Germans, and began a series of Latin works, commencing with the *Philosophia rationalis sive logica* (*Latin Logic*) in 1728. Friedrich Wilhelm I seemed to think better of his precipitous decision and invited Wolff to return to Prussia in 1733, an invitation which Wolff declined. But the ban on his writings was reversed in 1734, and the verdict of an inter-confessional Prussian commission in 1737 vindicated Wolff’s philosophy of the charges levelled by the Pietists. The crown prince (later Friedrich II) was an enthusiastic booster of Wolff at the court (and no friend of the Pietists), and with his ascension in 1740 he invited Wolff to return to Prussia. After turning down the proffered presidency of the Berlin Academy, Wolff returned to a professor- and vice-chancellorship in Halle to great acclaim, devoting his remaining time to completing his works on practical philosophy.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      ## 4. Alexander Gottlieb Baumgarten
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      A. G. Baumgarten is best known for authoring the textbook in metaphysics that Kant used for his lectures on the topic, though he was an important and innovative thinker in his own right. His philosophical ambitions are, moreover, deeply informed by the controversy in Halle, as he had an abiding intellectual sympathy with Wolffianism but theological and personal connections to the Pietists. Among his students was the notable Wolffian philosopher Georg Friedrich Meier (1717–77), and his own influence extended to Kant but also to Moses Mendelssohn and J. G. Herder.
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      ### 4.1 Life and Works
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      Alexander Gottlieb Baumgarten was born in Berlin on 17 June 1714. Baumgarten’s mother died when he was three, and his father, a garrison chaplain and pastor, died when he was eight in 1722, leaving him to the care of his grandmother and older brothers. In accordance with his father’s wishes, Baumgarten went to Halle to study, enrolling in the Latin school at Francke’s *Waisenhaus* where his older brother Siegmund Jakob (1706–57), who would himself become a famous theologian, was an inspector. Baumgarten thrived in his studies, and in 1730 matriculated at the university, where he attended lectures by Francke and Lange in theology. While it was still forbidden to teach Wolff’s philosophy, Baumgarten undertook (with his brother’s encouragement) a thorough study of Wolff’s thought, lecturing on his logic in the Latin school and visiting Wolffians at the university in Jena. Baumgarten turned to the study of philosophy, attaining his *Magister* in 1735, and held lectures on logic and Wolffian metaphysics, dictating from his own notes on the latter (rather than a textbook) from which notes his own later *Metaphysica* derives. In 1736, a chronic lung ailment interrupted his academic work and saw him hospitalized in Berlin, returning to Halle in 1737 where he continued to lecture to great acclaim. His position at Halle had been as an (unpaid) extraordinary professor, but in 1739 he was called to a position at the university at Frankfurt an der Oder, and he left Halle in 1740 just before Wolff’s triumphant return. In Frankfurt, Baumgarten lectured widely in philosophy, including on aesthetics for the first time in 1742. Health problems, likely tuberculosis, and other difficulties, marked the last decade of Baumgarten’s life, and he died on 26 May 1762.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      Baumgarten’s philosophical works cover a wide range of topics. The 1000 sections of his *Metaphysica* of 1739 offers a synopsis of his views, following the Wolffian division, on ontology, cosmology, empirical and rational psychology, and natural theology. He also published two influential textbooks on ethics: the *Ethica philosophica* (*Philosophical Ethics*) of 1740 and *Initia philosophiae practicae primae* (*Elements of First Practical Philosophy*), both of which Kant also regularly used in his lectures on moral philosophy. Baumgarten’s abiding interest in aesthetics issued in two texts, the first a dissertation entitled *Meditationes philosophicae de nonnullis ad poema pertinentibus* (*Reflections on Poetry*) in 1735, and the second the ambitious *Aesthetica*, the first volume of which appeared in 1750, with a second unfinished volume printed (at the request of the publisher) in 1758.
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      ### 4.2 Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      Baumgarten’s metaphysics is frequently characterized as inclining more towards Leibniz than to the “Leibnizian-Wolffian” philosophy; for instance, he makes explicit reference to monads in his presentation of ontology and cosmology, and concerning the pre-established harmony he accepts that it obtains between all substances (not just between soul and body) and does not qualify his endorsement of the system as Wolff came to do (Baumgarten 1739: §761–9; cf. Watkins 2005: 73–81 for discussion)[^baumgarten-1739][^watkins-2005]. While there is no doubt that Baumgarten adopts a fundamentally Leibnizian picture in his ontology, including the endorsement of the principle of sufficient reason, to leave it at this would be to ignore the important and fruitful role that his Pietist background plays in his philosophical thought (Look 2018)[^look-2018]. Indeed, Baumgarten’s originality as a thinker consists in his efforts to amend key planks of Leibnizian (and Wolffian) thinking in light of his underlying Pietist commitments.
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      This is particularly evident in Baumgarten’s treatment of freedom and immortality, where Wolff’s position on each was targeted by his Pietist critics. By way of addressing the Pietist objections to Wolff’s moral intellectualism and his reduction of freedom to mere spontaneity, Baumgarten offers an enriched empirical psychology, one that considers the influence of expectations of the future (and a future life) as motives, that allows that immoral action can proceed not only from ignorance but also from less lively cognition of the good, and that explicitly distinguishes spontaneity from freedom proper (Kawamura 1996; Schwaiger 2011)[^kawamura-1996][^schwaiger-2011]. On the topic of immortality, the Pietists had likewise objected to Wolff’s emphasis on the human soul’s preservation of its *cognitive* capacities in the afterlife, which state seems for Wolff to be disconnected to the human’s cultivation of virtue and piety in this life. Baumgarten seeks to rectify this by arguing that in addition to preserving its cognitive capacities in the afterlife, the soul will also retain its moral capacities including freedom, and that its condition of blessedness or damnation in the life to come will be a direct function of its moral condition (1739: §§782, 791; Dyck 2018)[^dyck-2018].
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      Consistent with his orientation in metaphysics, Baumgarten is an original moral philosopher within the Wolffian tradition. He is notable, for instance, for the centrality of the notion of obligation in his ethics (Schierbaum and Walschots 2024)[^walschots-2024][^schierbaum-2024]. Wolff had framed a novel concept of obligation, rooted in the nature of things and actions themselves rather than the will of a sovereign, in accordance with which an obligation arises simply insofar as some motive is naturally connected to an action (GE §9). Yet, whereas Wolff only treats obligation briefly before considering specific duties, in Baumgarten’s hands the problem of obligation becomes the unifying theme for ethics, particularly in his *Initia* (Schwaiger 2009)[^schwaiger-2009]. Moreover, while Baumgarten accepts Wolff’s ethical perfectionism, in contrast with Wolff he downplays the connection between perfection and happiness, perhaps in response to Pietist denunciations of Wolff’s perfectionism as a veiled form of hedonism (Schwaiger 2011: 163ff; Bacin 2015)[^bacin-2015][^schwaiger-2011]. A last innovation is Baumgarten’s consideration of the ways in which ethical systems themselves can be flawed in that, for instance, they make a virtuous condition too easily attainable (flattering ethics) or set the bar for virtue too high for human nature (chimerical ethics) (Thorndike 2008; Dyck 2012)[^dyck-2012][^thorndike-2008].
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      Turning finally to Baumgarten’s aesthetics, it is notable that while Wolff himself had comparatively little to say about the philosophy of art (but see Beiser 2009; and Buchenau 2013)[^beiser-2009][^buchenau-2013], a number of thinkers in the Wolffian tradition took a keen interest in the topic. The first to develop a theory of the arts, particularly poetry, was Johann Christoph Gottsched (1700–1766), who published his *Versuch einer critischen Dichtkunst vor die Deutschen* (*Attempt at a Critical Poetry for the Germans*) in 1730. Treating poetry scientifically, he set out a set of rules that were to guide the composition. Given his conception of what a poem was (a moral fable) and given as well his idea of what was involved in its composition (a set of rules), there was little room here for beauty and even less for sentiment and inspiration.
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      It was left to Baumgarten to formulate a recognizably modern aesthetic doctrine on Wolffian foundations. This he did through focusing on the soul’s faculty of sensibility, ultimately identifying aesthetics as the science of sensible cognition. Where Wolff had conceived of the senses merely as providing the raw material for thinking, Baumgarten thought that the senses had their own rules and their own perfection, rules and perfection that differ from logical rules and the knowledge generated by the process of intellectual clarification. So, while representations might be logically perfect and attain to intensive clarity insofar as we distinguish a number of marks within it, representations of the senses, even as confused representations, can attain to *extensive* clarity inasmuch as they represent a multitude of things (Baumgarten 1735: §17)[^baumgarten-1735]. In this way, poetic representation can be richer, and more moving, than representations attained through the use of the understanding—moving since Baumgarten contends that such representations as (aesthetically) perfect can occasion pleasure in us, and accordingly can also play a role in the development of our character (Spalinger 2025)[^spalinger-2025].
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      ## 5. Christian August Crusius
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      As Baumgarten sought in a conciliatory spirit to make the Wolffian philosophy responsive to Pietist concerns, Christian August Crusius mounted a renewed, Pietist-inspired but philosophically-sophisticated assault on the foundations of that system. Through his dissertations and textbooks, Crusius succeeded in raising trenchant objections to the Leibnizian-Wolffian philosophy, and indeed to the strongest forms of philosophical rationalism, and he formulated an influential and systematic alternative in which the will and its freedom are central concerns.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      ### 5.1 Life and Works
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Christian August Crusius was born 10 June 1715 in Leuna, near Halle, the son of a pastor (and his mother was a pastor’s daughter). He matriculated at the University of Leipzig in 1734, where he studied a number of subjects but was particularly interested in theology and philosophy. At Leipzig, Crusius came under the influence of the philosopher (and physician) Adolf Friedrich Hoffmann (1707–1741), a disciple of Andreas Rüdiger (1673–1731) who had been a close associate of Thomasius. Crusius attained the *Magister* in philosophy in 1737 and habilitated in philosophy in 1740. He followed his philosophical studies with a baccalaureat in theology in 1742, though he would proceed to seek a position in the philosophy faculty. To this end, he defended two dissertations in philosophy, one of which, the *Dissertatio philosophica de usu et limitibus principii rationis determinantis, vulgo sufficientis* (*Philosophical Dissertation on the Use and Limits of the Principle of Determining Reason, commonly called Sufficient*) of 1743 was a critical discussion of the principle of sufficient reason. He became a professor of philosophy (*extraordinarius*) at Leipzig in 1744.
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      Crusius’ major philosophical works followed in quick succession. He published his textbook on ethics, the *Anweisung vernünftig zu Leben* (*Guide to Rational Living*) in 1744; this was followed by the elaboration of his metaphysics, *Entwurf der nothwendigen Vernunft-Wahrheiten* (*Sketch of the Necessary Truths of Reason*) in 1745; and a text in logic, the *Weg zur Gewißheit und Zuverläßigkeit der menschlichen Erkenntiß* (*Path to the Certainty and Reliability of Human Cognition*) was published in 1747 (a final philosophical treatise on physics followed in 1749). As an ordinary professorship in philosophy was not available, Crusius joined the theology faculty at Leipzig in 1750. While he remained a member of the philosophy faculty and continued his lectures (and revised his previous publications for later editions), from this point on his original publications are devoted to theological topics. He died in Leipzig on 18 October 1775.
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      ### 5.2 Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      Crusius is widely and rightly regarded as the most sophisticated philosopher within the so-called “Thomasian-Pietist tradition” (on the appropriateness of such a designation, see Fugate 2026)[^fugate-2026]. Crusius sets out to offer an alternative to the core claims of the Leibnizian-Wolffian philosophy on topics in metaphysics, epistemology, logic and practical philosophy. As Lange had previously, Crusius targets the principle of sufficient reason, and its employment in Leibnizian-Wolffian metaphysics, for criticism. Crusius diagnoses a number of ambiguities in the Wolffian presentation of the principle. He opts to refer to a reason (*ratio*; *Grund*) that, when present, determines something to come to be such that the opposite would be impossible as a *determining reason*, and accordingly refers to the principle (in the sense intended by Leibniz and Wolff) as the *principle of determining reason* (Crusius 1743: §II–III)[^crusius-1743]. Crusius then critically discusses each of Wolff’s attempts to prove the principle—concerning the first such proof (presented in §3.1, above), Crusius claims that the most charitable reconstruction of it is circular. To show this, Crusius reformulates Wolff’s proof as the following syllogism (using Wolff’s preferred terminology):
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      > Whatever cannot come to be except from some other cause, has a sufficient reason.
+      >
+      > Everything that is cannot come to be except from another cause.
+      >
+      > Therefore, whatever is has a sufficient reason. (Crusius 1743: §XI [2019: 207])[^crusius-1743]
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      As Crusius notes, however, the minor in this case is just a version of the principle of sufficient reason itself, so that as a proof of that principle this argument begs the question.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      More positively, Crusius endorses the principle of determining reason but denies that it admits of unlimited use, which he claims, echoing Lange, would entail fatalism. Rather, Crusius excludes what he terms “free first [or *fundamental*] actions” from the scope of the principle. These actions proceed directly from the basic powers of the acting substance under appropriate circumstances (Crusius 1745: §82)[^crusius-1745], but are such that they can be undertaken or omitted by the acting subject (that is, they are not *determined*) (Crusius 1743: §XXV)[^crusius-1743]. That such actions are possible, Crusius claims, is clear given that God’s action would be of this sort, but also given the testimony of our own inner experience, which discloses the acts of our own will to be just such actions (Crusius 1743: §IX)[^crusius-1743]. Crusius thus accepts that the principle of determining reason holds for all events that are *not* the result of a free first action, whereas free first actions no doubt have a cause but are not such that could not have occurred otherwise (or not at all).
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      Along with his efforts to secure a place for genuine freedom of the will in his metaphysics, Crusius also emphasizes the limits of the human understanding. Crusius claims that the acts of the understanding are governed by principles, including a formal principle (the principle of contradiction), but also and importantly a number of “material” principles that govern what is thinkable for the human mind (where what is unthinkable is not for that reason contradictory). Among these principles are the *principle of inseparability*, according to which that which cannot be separated in thought cannot be separated in fact, and the *priniciple of incombinability*, according to which that which cannot be combined in thought cannot in fact be combined (Crusius 1743: §XXVII; 1745: §15)[^crusius-1743]. Significantly, and drawing on Thomasius (via Hoffmann 1737)[^hoffmann-1737], Crusius contends that these principles which together constitute the “essence of the understanding” supply us with a criterion of truth, which consists in the agreement of thoughts with things, such that only that can be true which conforms to the principles of human understanding (Crusius 1745: §15; 1747: §51)[^crusius-1745]. These material principles are subsequently used by Crusius to vindicate a variety of substantive metaphysical claims, including one he dubs the principle of sufficient *cause* (Crusius 1745: §31)[^crusius-1745]. (For discussion of many of these points, see Chapman 2023.)[^chapman-2023] On this basis, Crusius erects his own distinctive metaphysics, proceeding through the now-established Wolffian topics, though Crusius assigns natural theology a place more befitting its importance and ignores empirical psychology because it takes up spontaneous and free acts of the mind and so does not concern *necessary* truths of reason, the only proper subject of metaphysics (but see Heßbrüggen-Walter 2021 on the role of experience in Crusius’ metaphysics)[^heßbrüggen-walter-2021].
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      Crusius’ attack on Wolffianism continues in his logic and his thoughts on moral philosophy. In a clear rebuke of Wolff, Crusius begins his logic by rigidly distinguishing between the methods of mathematics and philosophy, contending that where the former makes use of demonstrations that rely solely on the principle of contradiction (and relate to mere possibilities or hypothetical realities), the latter must take into account other principles when, for instance, the investigation of causes are at issue (Crusius 1747: §10)[^crusius-1747]. Commensurate with this, Crusius’ considerations of the traditional topics of logic—concepts, propositions, and inferences—is thoroughly informed by his account of the essence of the understanding: a philosophical inference, as opposed to a mathematical syllogism, can have as its basis what permits of being separated or combined in thought (Crusius 1747: §262)[^crusius-1747]. Crusius also considers the relation between philosophy and theology or revealed religion, contending for the utility of philosophy for students of theology but also arguing that religion provides a needed corrective to the misuse of philosophy which, when left to its own devices, tends to lay claim to the unrestricted use of its principles (such as PSR) whereas the appropriate restrictions are typically evident to the theologian (Crusius 1747: §32)[^crusius-1747].
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      Crusius’ ethics is characterized by the principled separation of the will from the understanding as distinct powers, and a re-orientation of his moral theory with respect to the former. The human will depends on the understanding to supply it with ideas in accordance with which it acts, but Crusius is clear that the will is not solely determined to its action through some cognition (i.e., of perfection) in the act itself; rather, the goodness of an action consists more generally in its being conformable to the will (Crusius 1745: §26; Schneewind 1998: 447)[^crusius-1745][^schneewind-1998], and in any case the human will is always free to act or to omit to act in accordance with the understanding’s ideas. The human will is possessed of three basic desires—the first is for our own perfection, in accordance with which the talents of the intellect among others are promoted (Crusius 1745: §117)[^crusius-1745]; for unification with objects perceived as perfect, from which proceeds a drive to moral love through which we desire to join with other rational beings without any further end (Crusius 1745: §125)[^crusius-1745]; and finally, the desire to recognize a divine law which, despite its abstract-sounding name, is identified by Crusius with the phenomenon of conscience (*Gewissenstrieb*). It is through conscience that we are able to recognize the divinely given moral law (Crusius 1745: §132)[^crusius-1745], and conscience thereby also discloses our dependence on God as divine lawgiver (Crusius 1745: §165)[^crusius-1745]. As such, conscience supplies us with a motivation to obedience where, according to Crusius, this obedience constitutes an essential component (the “form”) of virtue (Crusius 1745: §177)[^crusius-1745]. A derivation of our duties thus depends on a consideration of God and His aim in creating the world, which Crusius identifies as *all* human beings’ attainment of virtue, as opposed to knowledge or happiness in its own right, through their free actions (Crusius 1745: §213)[^crusius-1745]. On this basis, he proceeds to derive duties to God, to others, and to the self (for discussion, see Schneewind 1998: 452–6)[^schneewind-1998].
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      ## 6. Women and Other Under-Represented Thinkers
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: body
+    source: |-
+      *(Note: Treatment of these figures has not been integrated into the foregoing solely for the convenience of those interested primarily in their contributions.)*
+    step1: TBD
+    step2: TBD
+  - id: 79
+    kind: body
+    source: |-
+      A variety of circumstances—religious, political, and social—conspired to give women limited opportunities to engage in and with the contemporary intellectual culture, even compared to their French- and English-speaking contemporaries. The German-speaking lands of Europe lacked a major cosmopolitan centre, like London or Paris, to germinate progressive ideas and to propagate those developed abroad. Moreover, the fact that, in spite of Thomasius’ and Wolff’s efforts, German intellectuals continued to publish (and teach) in Latin through the first half of the eighteenth century, meant that women’s avenues of access to these ideas remained limited. There were a handful of notable attempts by reformers (including Francke) to redress the general oversight of girls’ education, but by and large their education was a private matter and in any case guided by the traditional conception of women’s threefold *Bestimmung* as *Gattin*, *Mutter*, and *Hausfrau* (wife, mother, and housewife).
+    step1: TBD
+    step2: TBD
+  - id: 80
+    kind: body
+    source: |-
+      Despite these substantial obstacles, however, women did engage with the figures and debates of the time, and indeed they contributed in various and integral ways to the history of German philosophy throughout the eighteenth century. Similar to the British and French contexts, women in Germany exerted an important influence on intellectual culture directly through the publication of conventional treatises, but also indirectly through their correspondence with well-known philosophers, through provoking and mediating intellectual disputes, and (particularly in the second half of the eighteenth century) through hosting salons that attracted leading philosophers and scientists, among others (on all this, see the contributions in Dyck 2021b)[^dyck-2021b]. And, likewise comparable to the British and French contexts (cf. O’Neill 1997)[^o’neill-1997], these contributions have been widely overlooked in subsequent histories of German philosophy, both for familiar reasons having to do both with the narrowness of the conception of the philosophical canon (Shapiro 2016)[^shapiro-2016], but also due to the concerted efforts among nineteenth-century German philosophers to erase women’s contributions from the historical record (Ebbersmeyer 2020)[^ebbersmeyer-2020].
+    step1: TBD
+    step2: TBD
+  - id: 81
+    kind: body
+    source: |-
+      ### 6.1 Women and the Thomasian Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 82
+    kind: body
+    source: |-
+      Women played crucial roles in the conception, refinement, and popularization of the key ideas and systems of the German Enlightenment, as can be seen by considering their contributions to and connections with the two major early philosophical schools of the period already discussed: the Leibnizian-Wolffian and the Thomasian(-Pietist). With respect to Thomasius, it should be noted that he makes quite clear himself that his intention in publishing his works in logic and ethics in the vernacular was to reach a wider audience, including women. Thus, the subtitle of his *Introduction to the Doctrine of Reason* indicates that it will show
+    step1: TBD
+    step2: TBD
+  - id: 83
+    kind: body
+    source: |-
+      > in an intelligible manner [how] to distinguish the true, probable, and false from one another and to discover new truths, all without syllogistics, for all reasonable people of whatever estate or gender they might be.
+    step1: TBD
+    step2: TBD
+  - id: 84
+    kind: body
+    source: |-
+      Among those women impacted by Thomasius’ logic is Dorothea Christiane Erxleben (*née* Leporin, 1715–62), who would later receive the first doctorate of medicine in Germany from the Friedrichs-Universität in Halle in 1753. In 1742 she published a treatise entitled *Gründliche Untersuchung der Ursachen, die das weibliche Geschlecht vom Studiren abhalten* (*Rigorous Investigation of the Causes that Obstruct the Female Sex from Study*). While Erxleben there draws on a variety of sources, including Wolffian thought (cf. Stiening 2020)[^stiening-2020], she makes good use of two aspects of Thomasius’ logic, namely, his practically-oriented account of *learnedness*, and the doctrine of prejudice presented in the concluding chapter (cf. Dyck 2021c)[^dyck-2021c]. So, in the *Rigorous Investigation*, Erxleben defines learnedness (“*Gelehrsamkeit*”) as
+    step1: TBD
+    step2: TBD
+  - id: 85
+    kind: body
+    source: |-
+      > *a grounded knowledge of such necessary and useful truths whereby the understanding and will, and consequently true human happiness, are improved*. (Erxleben 1742: §21 [2019: 44]; italics in original)[^erxleben-1742]
+    step1: TBD
+    step2: TBD
+  - id: 86
+    kind: body
+    source: |-
+      Proceeding from this, she contends that it is important that and entirely possible for women to be able to attain such learnedness for the sake of the concerns of ordinary life.
+    step1: TBD
+    step2: TBD
+  - id: 87
+    kind: body
+    source: |-
+      Further, Erxleben identifies the widespread conviction that the attainment of learnedness is unsuitable for women as the result of prejudice, of which Erxleben distinguishes four principal types: that women are unsuited (in virtue of their natural capacities) to attain learnedness; that its attainment could not be useful for them; that learnedness could only be misused by women; and that women would only seek to attain learnedness to distinguish themselves from their peers. By way of rebutting these prejudices, Erxleben draws on an array of sources, including theological, philosophical, and medical authorities, and argues generally that whatever disparities might currently obtain between the apparent talents and achievements on the part of each sex are not the result of a difference in natural capacities but instead only evidence of the salutary effect of education on the human being (cf. Erxleben 1742: §71)[^erxleben-1742].
+    step1: TBD
+    step2: TBD
+  - id: 88
+    kind: body
+    source: |-
+      ### 6.2 Women and the Leibnizian-Wolffian Philosophy
+    step1: TBD
+    step2: TBD
+  - id: 89
+    kind: body
+    source: |-
+      With respect to the Leibnizian-Wolffian philosophy, there is significant evidence of women’s extensive engagement with the system already at its origins. Leibniz exchanged letters with a number of women, but his correspondence with his patroness Electress Sophie of Hanover (1630–1714), who happened to be the sister of Elisabeth of Bohemia, and her daughter Queen Sophie Charlotte of Prussia (1668–1705), is particularly significant as it frequently turned to philosophical topics. In his letters, and his personal exchanges with “the two Sophies”, Leibniz can be seen to refine and develop key doctrines, including his conception of substance and his attempted theodicy (Strickland 2011: 35–48)[^strickland-2011], where Leibniz himself claimed that his *Theodicée* found its beginnings in his conversations with Sophie Charlotte. Sophie of Hanover likewise supplied Leibniz with one of his favourite pieces of empirical evidence for the principle of the identity of indiscernibles (when she challenged a courtier to find two identical leaves during a garden stroll). Sophie of Hanover was no dogmatic Leibnizian however, as she maintained her commitment to physical influence between the mind and the body, and hosted controversial figures such as Francis Mercury Van Helmont (1614–1699) and John Toland (1670–1722) at her court. It is, however, debated whether Sophie shared the materialist views of these thinkers when it comes to the mind (de Careil 1876; Strickland 2009 and 2011: 49–64)[^careil-1876][^strickland-2009][^strickland-2011] or instead upheld a metaphysically agnostic view regarding the nature of the soul (Leduc 2021)[^leduc-2021].
+    step1: TBD
+    step2: TBD
+  - id: 90
+    kind: body
+    source: |-
+      As for the other founder of the Leibnizian-Wolffian philosophy, Wolff does not seem to have been similarly influenced by interaction with women in the development of his system. Through adopting the vernacular for his initial series of textbooks, however, he did at least indirectly contribute to making the latest innovations in metaphysics, ethics, politics, and physics accessible to a wider literate audience including women. Indeed, this hardly seems to have been an undesired consequence as, at one point, at the urging of the Saxon nobleman and Wolffian devotée Ernst Christoph Graf von Manteuffel (1676–1749), Wolff drafted the beginning of an introduction to Wolffian philosophy intended specifically for women (cf. Ostertag 1910)[^ostertag-1910]. In the 1740s and 1750s in particular, Wolffian philosophy had gained such a following among women of society that one commentator quipped that it was as if “an actual lycanthropy” had broken out (Edelmann 1740: 108)[^edelmann-1740]. Among those women so influenced was Émilie du Châtelet (1706–49), who made use of foundational Wolffian metaphysical principles in her presentation of Newton’s physics in her *Institutions de physique*—Wolff and du Châtelet engaged in correspondence for a time, and he commended her mastery of his system to others and appraised her as a more talented philosopher than her companion Voltaire.
+    step1: TBD
+    step2: TBD
+  - id: 91
+    kind: body
+    source: |-
+      In addition to du Châtelet, a number of women took up the task of defending and developing Leibnizian-Wolffian ideas. None were more active in this than Luise Adelgunde Viktorie Gottsched (*née* Kulmus, 1713–62), whose husband Johann Christoph (§4.2 above) was a Wolffian disciple who made contributions to philosophy (metaphysics and aesthetics), as well as to literary theory and the development of German letters. In virtue of her ambitious education (especially in languages), Luise Gottsched contributed extensively to Johann Christoph’s efforts to promote German letters and theatre, and was a prolific translator, both in the context of her husband’s ambitious projects and in her own right. Thus, she made substantial contributions to Johann Christoph’s translations of Leibniz’s *Theodicée* (J. C. Gottsched 1744)[^gottsched-1744] and of Bayle’s *Dictionaire historique et critique* (1741–44) (for other philosophical translations, see Brown 2012)[^brown-2012]. She also translated *Réflexions nouvelles sur les femmes* (1727; L. A. V. Gottsched 1731)[^gottsched-1731] by the Parisian *salonnière* Anne-Thésèse, Marquise de Lambert and produced a translation of and an original response to Madeleine Angélique Poisson de Gomez’s *Le triomphe de l’éloquence* (1730; L. A. V. Gottsched 1739)[^gottsched-1739], which emphasized the importance of education (including in philosophy) for woman’s cultivation of virtue.
+    step1: TBD
+    step2: TBD
+  - id: 92
+    kind: body
+    source: |-
+      Another notable figure in this respect is Johanna Charlotte Unzer (*née* Ziegler, 1725–82), who was raised in a cultured family in Halle: her uncle J. G. Krüger (1715–59) was a well-known Wolffian scientist, and Baumgarten’s student G. F. Meier was a close family friend. Unzer herself would become a renowned poet, though she produced a highly original philosophical contribution to Wolffian thought in her *Grundriß einer Weltweisheit für das Frauenzimmer* (*Outline of a Philosophy for the Lady*) of 1751. In that text, Unzer seeks to present the doctrines of Leibnizian-Wolffian logic and metaphysics in an aesthetically perfect manner, often making use of poetry to provide a moving illustration of an otherwise abstruse theorem. In the process, Unzer grants German women access to the most challenging and controversial philosophical debates of her time (including Wolff’s account of scientific reasoning, the challenge of materialism, and the Leibnizian doctrine of monads) with the express intention of equipping her female readers to engage in speculative and scientific investigations themselves. At the same time, she offers a dynamic revision and re-orientation of the Wolffian philosophy which, significantly, attempts to carve out a space for the (as yet unfounded) discipline of aesthetics (Buchenau 2021)[^buchenau-2021].
+    step1: TBD
+    step2: TBD
+  - id: 93
+    kind: body
+    source: |-
+      ### 6.3 Anton Wilhelm Amo
+    step1: TBD
+    step2: TBD
+  - id: 94
+    kind: body
+    source: |-
+      A final figure worthy of mention in this context is Anton Wilhelm Amo, the first African-born professor of philosophy in Germany. Amo was born in Axim in present-day Ghana around 1700, but was brought to the Netherlands as a small boy in 1707 through the Dutch West India Company. Shortly after, he was given to the young Anton Ulrich, Duke of Wolfenbüttel-Braunschweig, and baptized on 29 July 1708. Amo evidently worked as a servant in the Duke’s court in Wolffenbüttel, though he would also receive an education which prepared him sufficiently for study at the Friedrichs-Universität in Halle, where he matriculated on 9 June 1727. There, Amo studied philosophy and law, and it is reported that he presented a (now lost) disputation in November 1729 entitled *De jure maurorum in Europa* (*On the Rights of Moors in Europe*), in which he contended (according to a contemporary account) against the legality of slavery in the Holy Roman Empire given that the privileges granted to African kings by the (old) Roman Emperor meant that they were vassals of the Empire, and entitled to consideration under the law.
+    step1: TBD
+    step2: TBD
+  - id: 95
+    kind: body
+    source: |-
+      Amo matriculated at the university in nearby Wittenberg the following year, and was promptly awarded a *Magister* in philosophy. While in Wittenberg, Amo wrote a dissertation, entitled *De humanae mentis apatheia* (*On the Impassivity of the Human Mind*) in 1734, which qualified him to teach, and later in the same year he supervised a dissertation which he is also thought to have had a hand (at least) in writing (Menn & Smith 2020: 68–71). Amo would return to teach philosophy at Halle, and in 1738 published a wide-ranging manual for his philosophical lectures, *Tractatus de arte sobrie et accurate philosophandi* (*Treatise on the Art of Philosophizing Soberly and Accurately*). Not long after, however, Amo applied for a position at the University of Jena, claiming indigence, and was granted permission to lecture there in 1740. For reasons that we can only speculate about, Amo would request passage on a ship to return to Africa in 1746 (Menn & Smith 2020: 38), and it was in Axim that a Swiss doctor would report encountering Amo in the early 1750s. Amo is thought to have died not long after.
+    step1: TBD
+    step2: TBD
+  - id: 96
+    kind: body
+    source: |-
+      In his principal philosophical work, the dissertation on *Impassivity*, he argues against the claim that the soul can be endowed with a passive faculty of sensation, a position he identifies as stemming from Descartes (Amo 1734a: 13–14 [2020: 179])[^amo-1734a]. Amo understands the human mind to be a species of spirit, which is purely active and immaterial. Were the mind to be endowed with a capacity to sense, it would have to be able to receive ideas, and in one of three ways: by “communication” (i.e., in the manner that fire “communicates” its heat to an object), by penetration (i.e., through interposition of another entity), or by direct contact (Amo 1734a: 5 [2020: 161])[^amo-1734a]. Amo argues that it is impossible to conceive of the mind receiving ideas in any of these ways as it would violate its essence as a spontaneous being and its immaterial nature precludes transmission through contact (for discussion, see Walsh 2019)[^walsh-2019]. Perplexingly, in spite of contending for the soul’s impassivity, Amo endorses the Aristotelian dictum that “nothing is in the intellect that was not first in the senses” (Amo 1734b: 6)[^amo-1734b]. Amo also affirms the mind’s capacity to influence the body (Amo 1734a: 8 [2020: 169])[^amo-1734a], though without accounting for how he takes this to be possible or explicitly engaging with the debate relating to the pre-established harmony. Nonetheless, in his lifetime Amo was identified by at least one influential historian as a Wolffian thinker (Ludovici 1738: §202; for discussion, see Dyck 2025: 219–24)[^dyck-2025].
+    step1: TBD
+    step2: TBD
+  - id: 97
+    kind: oir
+    source: |-
+      - [Christian-Wolff-Gesellschaft für die Philosophie der Aufklärung](https://www.christian-wolff-gesellschaft.de/)
+      - [Extending New Narratives in the History of Philosophy](https://www.newnarrativesinphilosophy.net/)
+      - [International Society for Eighteenth Century Studies](https://www.c18.org/)
+      - [Interdisziplinäres Zentrum für die Erforschung der Europäischen Aufklärung](https://www.izea.uni-halle.de/)
+      - [Project Vox](https://projectvox.library.duke.edu/)
+      - [Women Intellectuals of 18ᵗʰ-Century Germany](https://publish.uwo.ca/~cdyck5/UWOKRG/women.html)
+    step1: TBD
+    step2: TBD
