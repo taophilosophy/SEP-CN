@@ -137,3 +137,12 @@
 * 深读累计 28 条全 pass（+al-farabi-psych、al-khunaji、albalag、boethius-dacia、buddhism-huayan——A 批收口推进至 B 批）。
 * check_terms 同键异译分立告警工具化入库；倒装括注 64 处+署名行体例归一；ADR-0019 渲染域 398→0（scan_inner_space.py 栈解析双模入库）。
 * 体例归一轮：作者括注倒装正装化（SUMMARY/mu-lu-s/H1 三链）+署名行汉化（6 作者登记+5 行）。
+
+## 2026-11-05 术语在线审定库复核轮（75 条概念术语）
+
+* 批量爬虫 tl_crawler.mjs（断点续爬 JSONL 增量，7 段跑完 75 词，0 error）；凭证落盘 termonline-all（ok=73 empty=2）。
+* 裁定（match=2 池污染过滤后取 en 精确相等命中 46 条）：
+  - **✓一致 36 条**：being=存在、category=范畴、causality=因果性、consciousness=意识、idea=理念、necessity=必然性、ontology=本体论、perception=知觉、personal identity=人格同一性、evolution=进化、free will=自由意志 等——核心根词传统译法获审定库佐证（多数命中自然辩证法·科学哲学学科，语境正确）。
+  - **跨学科同名 8 条保留现译**：frame problem（审定"帧面问题"系信息科技）、integrity（"完整性"系档案学）、matter（"物质"系化学工程）、moral law（"道德律"系教育学）、quality（"质量"系农学）、transcendental（"超越的"系代数几何）、universal（"通用的"系航海）、the One（"一"系中华术语工程——普罗提诺传统仍通行"太一"，记分歧）。
+  - **学科语境正确的分歧 2 条主形保留、审定异译记入亦作**：intuition（审定"直觉"vs 康德权威译本"直观"）、mind（审定"心智"vs 心灵哲学通行"心灵"）。
+* 工具沉淀：tl_crawler.mjs 断点续爬爬虫（JSONL 增量、幂等去重）；scan/locate 口径统一（等长占位）。
