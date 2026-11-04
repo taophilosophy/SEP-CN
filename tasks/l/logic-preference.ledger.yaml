@@ -225,26 +225,34 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       **Theory B.** The language of Theory B is a fragment of that of Theory A containing only those sentences that do not contain nested occurrences of $>$ and $\equiv$. Also, if $\varphi>\psi$ or $\varphi\equiv\psi$ occurs in a B-formula, then $\varphi$ and $\psi$ do not contain conjunction or disjunction symbols.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **理论 B.** 理论 B 的语言是理论 A 语言的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。此外，若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个 B 公式中，则 $\varphi$ 与 $\psi$ 不含合取或析取符号。
+    step2: |-
+      **理论 B.** 理论 B 的语言是理论 A 语言的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。此外，若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个 B 公式中，则 $\varphi$ 与 $\psi$ 不含合取或析取符号。
   - id: 27
     kind: body
     source: |-
       Theory B consists of the rules and postulates in Figure 2. Postulates $B_1–B_5$ are identical to $A_1–A_5$, $B6$ can be derived from Theory A, and $B_7$ represents connectedness.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理论 B 由图 2 中的规则与公设构成。公设 $B_1$–$B_5$ 与 $A_1$–$A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
+    step2: |-
+      理论 B 由图 2 中的规则与公设构成。公设 $B_1$–$B_5$ 与 $A_1$–$A_5$ 相同；$B6$ 可由理论 A 导出；$B_7$ 表示连通性。
   - id: 28
     kind: body
     source: |-
       *Figure 2.*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      *图 2。*
+    step2: |-
+      *图 2。*
   - id: 29
     kind: body
     source: |-
       **Theory B**
-    step1: TBD
-    step2: TBD
+    step1: |-
+      **理论 B**
+    step2: |-
+      **理论 B**
   - id: 30
     kind: body
     source: |-
@@ -252,56 +260,78 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       - The inference rules $R_1, R_2$ and $R_3$ of Theory A apply also in Theory B.
 
       $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      - 命题演算的一切定理都是 B 的公设。
+      - 理论 A 的推理规则 $R_1$、$R_2$ 与 $R_3$ 也适用于理论 B。
+    step2: |-
+      - 命题演算的一切定理都是 B 的公设。
+      - 理论 A 的推理规则 $R_1$、$R_2$ 与 $R_3$ 也适用于理论 B。
   - id: 31
     kind: body
     source: |-
       Figure 2.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      图 2。
+    step2: |-
+      图 2。
   - id: 32
     kind: body
     source: |-
       Theory B has been proven to be consistent. Interestingly, a procedure is provided to decide whether a given formula is a theorem of B. It consists of two steps called *univocal* expansion and *multivocal* expansion.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      理论 B 已被证明一致。有趣的是，书中给出一个程序，可判定给定公式是否为 B 的定理。它由两步构成，称为*单义*展开与*多义*展开。
+    step2: |-
+      理论 B 已被证明一致。有趣的是，书中给出一个程序，可判定给定公式是否为 B 的定理。它由两步构成，称为*单义*展开与*多义*展开。
   - id: 33
     kind: body
     source: |-
       In the first phase, logical principles are applied to expand the formula. For example, $p\equiv q$ is replaced by $p\equiv q \land q \equiv p$, and $p> q\land q>r$ is replaced by $p> q\land q>r\land p>r$. Consider the following sequence of replacements from Halldén (1957) to determine whether
 
       $$p\equiv \neg p\land q\equiv \neg q \rightarrow \neg (p>q)$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第一阶段把逻辑原理应用于展开公式。例如 $p\equiv q$ 被替换为 $p\equiv q \land q \equiv p$，$p> q\land q>r$ 被替换为 $p> q\land q>r\land p>r$。考虑 Halldén（1957）给出的如下替换序列，用以判定是否
+    step2: |-
+      第一阶段把逻辑原理应用于展开公式。例如 $p\equiv q$ 被替换为 $p\equiv q \land q \equiv p$，$p> q\land q>r$ 被替换为 $p> q\land q>r\land p>r$。考虑 Halldén（1957）给出的如下替换序列，用以判定是否
   - id: 34
     kind: body
     source: |-
       is a theorem:
 
       $$\begin{gather*} p\equiv \neg p\land q\equiv \neg q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\land q>\neg p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\land q>\neg p\land p>\neg q \end{gather*}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      是一个定理：
+      
+      $$\begin{gather*} p\equiv \neg p\land q\equiv \neg q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\land q>\neg p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\land q>\neg p\land p>\neg q \end{gather*}$$
+    step2: |-
+      是一个定理：
+      
+      $$\begin{gather*} p\equiv \neg p\land q\equiv \neg q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\land q>\neg p\\ p\equiv \neg p\land \neg p\equiv p\land q\equiv \neg q \land \neg q\equiv q \land p>q\land \neg q>\neg p\land \neg q>p\land q>\neg p\land p>\neg q \end{gather*}$$
   - id: 35
     kind: body
     source: |-
       The last formula is contradictory, thus we can conclude that $p\equiv \neg p\land q\equiv \neg q \rightarrow \neg (p>q)$ is a theorem.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后一个公式是矛盾的，因此我们可以断定 $p\equiv \neg p\land q\equiv \neg q \rightarrow \neg (p>q)$ 是定理。
+    step2: |-
+      最后一个公式是矛盾的，因此我们可以断定 $p\equiv \neg p\land q\equiv \neg q \rightarrow \neg (p>q)$ 是定理。
   - id: 36
     kind: body
     source: |-
       If the first phase is not decisive, each formula is expanded into a set of more complex formulas in a second phase. For example, $p>q\land \neg q> \neg p$ cannot be further expanded using univocal expansion, but it may be expanded into this set of formulas:
 
       $$\begin{align} &p>q\land \neg q> \neg p\land p>\neg p, \\ &p>q\land \neg q> \neg p\land p\equiv \neg p, \\ &p>q\land \neg q> \neg p\land \neg p>p, \\ &p>q\land \neg q> \neg p\land \neg p\equiv p, \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      若第一阶段无法判定，则第二步把每个公式展开为一组更复杂的公式。例如 $p>q\land \neg q> \neg p$ 无法再用单义展开推进，但可展开为如下公式集：
+    step2: |-
+      若第一阶段无法判定，则第二步把每个公式展开为一组更复杂的公式。例如 $p>q\land \neg q> \neg p$ 无法再用单义展开推进，但可展开为如下公式集：
   - id: 37
     kind: body
     source: |-
       reflecting all possible relations between p and $\neg p$. Interested readers can find more details on how it works in Halldén’s (1957) book.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      反映出 p 与 $\neg p$ 之间所有可能的关系。有兴趣的读者可在 Halldén（1957）的书中找到其运作的更多细节。
+    step2: |-
+      反映出 p 与 $\neg p$ 之间所有可能的关系。有兴趣的读者可在 Halldén（1957）的书中找到其运作的更多细节。
   - id: 38
     kind: body
     source: |-
@@ -312,8 +342,10 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       The second point of reference is *The Logic of Preference* by von Wright (1963). In this book, von Wright distinguishes between three groups of concepts related to preferences while also noting that there are no sharp divisions between them. The relevant concept grouping is: deontological concepts (right, duty, command, prohibition), axiological concepts (good, evil, betterness), and anthropological concepts (need, want, decision, choice). These notions are explored in deontic logic and decision theory, and they intersect with preference logic. The connection will be discussed in Section 7. Von Wright also makes key distinctions that are relevant to the later development of preference logic:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      第二个参照点是 von Wright（1963）的《偏好逻辑》。在此书中，von Wright 区分了与偏好相关的三组概念，同时指出它们之间没有截然分界。相关概念组是：道义论概念（正当、义务、命令、禁止）、价值论概念（善、恶、较优）与人类学概念（需要、意愿、决定、选择）。这些概念在道义逻辑与决策论中得到探讨，并与偏好逻辑相交。这一关联将在第 7 节讨论。von Wright 还作出了对偏好逻辑后续发展至关重要的几个区分：
+    step2: |-
+      第二个参照点是 von Wright（1963）的《偏好逻辑》。在此书中，von Wright 区分了与偏好相关的三组概念，同时指出它们之间没有截然分界。相关概念组是：道义论概念（正当、义务、命令、禁止）、价值论概念（善、恶、较优）与人类学概念（需要、意愿、决定、选择）。这些概念在道义逻辑与决策论中得到探讨，并与偏好逻辑相交。这一关联将在第 7 节讨论。von Wright 还作出了对偏好逻辑后续发展至关重要的几个区分：
   - id: 40
     kind: body
     source: |-
@@ -327,30 +359,42 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       More concretely, the formal language adopted by von Wright is again a fragment of Halldén’s A-formulas, and it consists of only those sentences that do not contain nested occurrences of $>$ and $\equiv$. However, in contrast to the language of Theory B, if $\varphi>\psi$ or $\varphi\equiv\psi$ occurs in a formula, then $\varphi$ and $\psi$ may contain conjunction or disjunction symbols.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更具体地说，von Wright 采纳的形式语言仍是 Halldén A 公式的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。但与理论 B 的语言不同：若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个公式中，$\varphi$ 与 $\psi$ 可以含合取或析取符号。
+    step2: |-
+      更具体地说，von Wright 采纳的形式语言仍是 Halldén A 公式的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。但与理论 B 的语言不同：若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个公式中，$\varphi$ 与 $\psi$ 可以含合取或析取符号。
   - id: 42
     kind: body
     source: |-
       Unlike Halldén’s two theories, the logic of preference is not presented as an axiomatic calculus. Instead, it serves as a technique for determining whether a given preference expression (P-expression) represents a logically true proposition.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与 Halldén 的两个理论不同，偏好逻辑并非作为公理演算给出。相反，它是一种判定技术：判定给定的偏好表达式（P 表达式）是否表示一个逻辑上为真的命题。
+    step2: |-
+      与 Halldén 的两个理论不同，偏好逻辑并非作为公理演算给出。相反，它是一种判定技术：判定给定的偏好表达式（P 表达式）是否表示一个逻辑上为真的命题。
   - id: 43
     kind: body
     source: |-
       The logic of preference is based on five key principles, shown in Figure 3. The first two—asymmetry and transitivity—describe relations among preferences and are derived from Halldén’s systems. The other three—expansion, disjunctive distribution, and amplification—allow any P-expression to be transformed into a standard form, which enables application of the decision technique. This technique is illustrated with an example. Consider the P-expression
 
       $$(p>\neg p)\land (\neg q>q)\rightarrow(p>q).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      偏好逻辑基于五条关键原理，见图 3。前两条——非对称与传递——描述偏好间的关系，源自 Halldén 的系统。其余三条——扩充、析取分配与放大——使任何 P 表达式都能变换为标准形，从而可应用判定技术。此技术以一例说明。考虑 P 表达式
+    step2: |-
+      偏好逻辑基于五条关键原理，见图 3。前两条——非对称与传递——描述偏好间的关系，源自 Halldén 的系统。其余三条——扩充、析取分配与放大——使任何 P 表达式都能变换为标准形，从而可应用判定技术。此技术以一例说明。考虑 P 表达式
   - id: 44
     kind: body
     source: |-
       Using expansion we obtain
 
       $$(p>\neg p)\land (\neg q>q)\rightarrow(p\land \neg q>\neg p \land q).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      使用扩充我们得到
+      
+      $$(p>\neg p)\land (\neg q>q)\rightarrow(p\land \neg q>\neg p \land q).$$
+    step2: |-
+      使用扩充我们得到
+      
+      $$(p>\neg p)\land (\neg q>q)\rightarrow(p\land \neg q>\neg p \land q).$$
   - id: 45
     kind: body
     source: |-
@@ -365,20 +409,26 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       This formula is a tautology, which can be explained as follows. The formula would be false if and only if the first four constituents
 
       $$\begin{align} &(p\land q>\neg p\land q), \\ &(p\land \neg q>\neg p\land \neg q), \\ &(p\land \neg q>p\land q) \textrm{ and} \\ &(\neg p\land \neg q>\neg p\land q) \end{align}$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      这个公式是重言式，可以如下解释。该公式为假，当且仅当头四个成分
+    step2: |-
+      这个公式是重言式，可以如下解释。该公式为假，当且仅当头四个成分
   - id: 47
     kind: body
     source: |-
       were all true and $(p\land \neg q>\neg p \land q)$ were false. But this conflicts with transitivity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      都为真而 $(p\land \neg q>\neg p \land q)$ 为假。但这与传递性相冲突。
+    step2: |-
+      都为真而 $(p\land \neg q>\neg p \land q)$ 为假。但这与传递性相冲突。
   - id: 48
     kind: body
     source: |-
       Looking at the five principles concerning preference, one has to be careful because they are not closed under substitution. The reasoning behind this limitation is explained below.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      考察这五条关于偏好的原理时须加小心，因为它们在代入下不封闭。这一限制背后的推理在下文说明。
+    step2: |-
+      考察这五条关于偏好的原理时须加小心，因为它们在代入下不封闭。这一限制背后的推理在下文说明。
   - id: 49
     kind: body
     source: |-
@@ -403,8 +453,10 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       Another contribution by von Wright is his attempt to understand the meaning of preference in terms of “changes”. His analysis reveals a unique way of viewing preference. When can one say that one state of affairs is preferable to another? To answer this question, consider two generic preference states, p and q. There are four possible cases: $p \land q$, $p \land \neg q$, $\neg p \land q$, and $\neg p \land \neg q$. Any world must necessarily fall into one of these four possibilities. This explains not only the first three principles, which had already been adopted by Halldén, but also the principle of disjunctive distribution, illustrated by $V_4$ in the table above.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含义。他的分析揭示了一种看待偏好的独特方式。何时能说一种事态优于另一种？为回答此问题，考虑两个一般的偏好状态 p 与 q。有四种可能情形：$p \land q$、$p \land \neg q$、$\neg p \land q$ 与 $\neg p \land \neg q$。任何世界必然落入这四种可能之一。这不仅解释了 Halldén 已采纳的前三条原理，也解释了上表 $V_4$ 所示例示的析取分配原理。
+    step2: |-
+      von Wright 的另一项贡献，是他试图以“改变”来理解偏好的含义。他的分析揭示了一种看待偏好的独特方式。何时能说一种事态优于另一种？为回答此问题，考虑两个一般的偏好状态 p 与 q。有四种可能情形：$p \land q$、$p \land \neg q$、$\neg p \land q$ 与 $\neg p \land \neg q$。任何世界必然落入这四种可能之一。这不仅解释了 Halldén 已采纳的前三条原理，也解释了上表 $V_4$ 所示例示的析取分配原理。
   - id: 53
     kind: body
     source: |-
@@ -435,8 +487,10 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
       Principle $V_5$ is the so-called *holistic* property of preference. Let $\varphi$ be a formula, and let $PL(\varphi)$ be the set of propositional letters that occur in $\varphi$, which von Wright calls the universe of discourse. Suppose $r \not\in PL(\varphi>\psi)$, then replace every formula $\varphi> \psi$ with the conjunction
 
       $$((\varphi\land r)> (\psi\land r)) \land ((\varphi\land \neg r)>(\psi\land \neg r)).$$
-    step1: TBD
-    step2: TBD
+    step1: |-
+      原理 $V_5$ 是所谓偏好的*整体性*性质。设 $\varphi$ 为一公式，$PL(\varphi)$ 为 $\varphi$ 中出现的命题字母之集——von Wright 称之为论域。设 $r \not\in PL(\varphi>\psi)$，则把每个公式 $\varphi> \psi$ 替换为合取
+    step2: |-
+      原理 $V_5$ 是所谓偏好的*整体性*性质。设 $\varphi$ 为一公式，$PL(\varphi)$ 为 $\varphi$ 中出现的命题字母之集——von Wright 称之为论域。设 $r \not\in PL(\varphi>\psi)$，则把每个公式 $\varphi> \psi$ 替换为合取
   - id: 58
     kind: body
     source: |-
@@ -447,8 +501,10 @@ ightarrow p>q \land p>r$，以及连通性公设 $p>q \lor p\equiv q \lor q>p$�
     kind: body
     source: |-
       While $V_1$, $V_2$, $V_3$ and $V_4$ appear in many axiomatic preference logics, this is not the case with $V_5$. The reason is that $V_5$ cannot be combined with substitution.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然 $V_1$、$V_2$、$V_3$ 与 $V_4$ 出现于许多公理化偏好逻辑中，$V_5$ 却不然。原因是 $V_5$ 不能与代入相结合。
+    step2: |-
+      虽然 $V_1$、$V_2$、$V_3$ 与 $V_4$ 出现于许多公理化偏好逻辑中，$V_5$ 却不然。原因是 $V_5$ 不能与代入相结合。
   - id: 60
     kind: body
     source: |-
