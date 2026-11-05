@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-04 21:59（UTC）
+生成时间：2026-11-05 16:30（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|998|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|85|
-|在途（drafted 起、done 前）|281|
+|已完成（done）|86|
+|在途（drafted 起、done 前）|280|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,12 +23,12 @@
 |状态|数量|
 |---|---|
 |pending|632|
-|cleared|190|
+|cleared|185|
 |drafted|2|
-|s1_checked|1|
-|s3_checked|84|
+|s1_checked|2|
+|s3_checked|87|
 |r1_reviewed|4|
-|done|85|
+|done|86|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -51,7 +51,7 @@
 |O|21|21|1|0|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|10|4|
+|R|85|85|10|5|
 |S|161|161|6|1|
 |T|71|71|2|0|
 |U|4|4|0|0|
@@ -95,7 +95,7 @@
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|bayes-theorem|retranslate|cleared|task_ops 2026-11-01|
+|bayes-theorem|retranslate|s3_checked|? 2026-11-04|
 |bayle|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |beardsley-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |beauty|retranslate|cleared|task_ops 2026-11-01|
@@ -188,7 +188,7 @@
 |descartes-ontological|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
 |descartes-works|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
 |dewey-moral|retranslate|s3_checked|ykla 2026-11-01|
-|dewey-political|retranslate|cleared|task_ops 2026-11-01|
+|dewey-political|retranslate|s3_checked|? 2026-11-05|
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -321,7 +321,7 @@
 |knowledge-analysis|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-value|retranslate|cleared|task_ops 2026-11-01|
-|korean-buddhism|retranslate|cleared|task_ops 2026-11-01|
+|korean-buddhism|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |korean-confucianism|retranslate|cleared|task_ops 2026-11-01|
 |korean-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
@@ -342,7 +342,6 @@
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|logic-provability|retranslate|cleared|task_ops 2026-11-04|
+|logic-provability|retranslate|s1_checked|LQ-main-20261105 2026-11-05|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|reid-memory-identity|retranslate|cleared|task_ops 2026-11-04|
