@@ -2,7 +2,7 @@
   "slug": "duhem",
   "kind": "retranslate",
   "zh_doc": "d/duhem.md",
-  "state": "cleared",
+  "state": "drafted",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T05:21:07Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T16:43:28Z",
+      "evidence": "上会话 LQ-main-20261105 直译成稿（d/duhem.md +301 行全篇新译，对照源 302 段），状态机未推进即中断；本会话核实基线 hash_ok、门禁 7/7 绿后补登记 draft；后续按 011 复核流程走 s1 深读复核"
     }
   ],
   "blockers": [],
