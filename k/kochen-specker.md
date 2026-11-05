@@ -1,4 +1,4 @@
-# \*科亨-施佩克尔定理（KS 定理）——见量子力学：科亨-施佩克尔定理（KS 定理） Kochen-Specker theorem — see quantum mechanics: Kochen-Specker theorem
+# 科亨-施佩克尔定理（KS 定理）The Kochen-Specker Theorem
 *首次发表于 2000 年 9 月 11 日；2022 年 9 月 6 日实质修订。*
 
 Kochen-Specker 定理是量子力学（QM）基础中一个重要而精微的主题。该定理证明了一类隐变量（HV）型 QM 解释的不可能——当人们开始思考解释 QM 的方案时，这类解释会自然浮现。本文分不同层次呈现该定理/论证及其基础讨论：想快速概览的读者应读第 1、2、3.1、3.2、4、6 节；通读全词条的读者可在补充文档中找到若干非平凡主张的证明。

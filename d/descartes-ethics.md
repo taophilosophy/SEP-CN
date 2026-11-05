@@ -1,4 +1,4 @@
-# 笛卡尔的伦理学 Descartesʼ Ethics (Denis Kambouchner and Louis Rouquayrol)
+# 笛卡尔的伦理学 Descartes’ Ethics (Denis Kambouchner and Louis Rouquayrol)
 
 **首次发表于 2026 年 5 月 20 日。**
 

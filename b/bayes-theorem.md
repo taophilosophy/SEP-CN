@@ -1,4 +1,4 @@
-# 贝叶斯定理 Bayesʼ Theorem (James Joyce)
+# 贝叶斯定理 Bayes’ Theorem (James Joyce)
 
 **首次发表于 2003 年 6 月 28 日；2003 年 9 月 30 日实质修订。**
 

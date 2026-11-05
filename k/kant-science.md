@@ -1,4 +1,4 @@
-# 康德的科学哲学 Kant’s Philosophy of Science
+# 康德的科学哲学 philosophy of science (Eric Watkins and Marius Stan)
 
 
 
