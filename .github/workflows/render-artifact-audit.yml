@@ -35,7 +35,7 @@ jobs:
 
       - name: 上传审计报告
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: render-audit-report-${{ github.run_id }}
           path: render-audit-report.txt
