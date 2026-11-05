@@ -2,7 +2,7 @@
   "slug": "kumaarila",
   "kind": "retranslate",
   "zh_doc": "k/kumaarila.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:57:31Z",
+      "evidence": "零信任全量重译 103K 源 59 段；assemble 五对账 OK：段落 59/59、内联脚注标记 65/65 零缺失零多余、书目 defs 81/81（含 7 条刊本注原样）、节 4/10 全齐"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:57:31Z",
+      "evidence": "文献还原：biblio_audit kumaarila flagged=0；check_academic --strict OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:57:31Z",
+      "evidence": "印度哲学术语体例：弥曼差/前弥曼差/义准量/无前/事用/迸发说按汉译传统（登记 6 行），人名 5 行（鸠摩利罗·跋陀照 SUMMARY 定名、寂护沿用既登记行去重）；斜体转加粗 163+空格 269+prose 实修 12（含赋予赋予重复笔误 1 处），均幂等过；豁免留痕：残余 153（long-sentence 74/de-chain 62/passive 15）属论证重构体+梵文术语括注密集之文体类，ADR-0020 按体裁豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:57:34Z",
+      "evidence": "四检终态：style 0、prose 残余 153（体裁豁免类）、check_academic --strict OK；check_all 七门禁全绿；相关词条 12 条 SUMMARY 定名对齐"
     }
   ],
   "blockers": [],
