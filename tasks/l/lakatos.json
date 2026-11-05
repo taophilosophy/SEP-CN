@@ -2,7 +2,7 @@
   "slug": "lakatos",
   "kind": "retranslate",
   "zh_doc": "l/lakatos.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-03T18:42:27Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:07:34Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：恢复前会话断点（cleared+199 段空骨架），199 段双版直译分七批落盘（批1-7 各一 commit：生平两阶段/大观念两章/著作七节/费耶阿本德之争/OIR）；三段历史文献引块中译（卢卡奇费希特语/奥威尔《一九八四》赛麦段/裴多菲俱乐部演讲/波普尔 LSD/罗素/哈金/Fox/李尔王）；图 3 幅按模板 #9 改 zh 路径（../yuanwen/assets/lakatos/fig1-3.png）；守恒校验 HARD=0（199 段，SOFT 3 处 * 计数=斜体→书名号正当）；compose 写回 49970 字符；相关词条经 map_related 后 2 项手工对齐（lukács 变音符 slug/ceteris paribus 子节名）；人名 16 行+术语 55 行随批先登记后使用（拉卡托什/波普尔/费耶阿本德/卢卡奇前会话已在册）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:07:34Z",
+      "evidence": "s1 一校（对照源逐节核销，MTPE 顺序）：①199 段直译即逐段对照完成，compose 后成稿复读；②数字多集合比对 9 段差异逐一定性正当（英文月份拼写→中文数字 11 月/4 月等、600,000→60 万、MI5→军情五处、thirty-three→33、chapter 16→第十六章）；③相关词条 30 项全对齐 SUMMARY 主名形（其他条件不变律/格奥尔格·卢卡奇 2 项手工）；④术语 55 行在册（科学研究纲领方法论/反面-正面启发法/保护带/问题转换/准经验主义/逼真性/弗协调性等）；⑤历史引块忠实性：卢卡奇'事实愈糟愈好'费希特语、奥威尔赛麦段（董乐山译本术语：新话/英社/思想犯/蒸发）、拉卡托什 1956 演讲引块逐句对照；⑥上游笔误照录留痕：段64 近日点/远日点括注互换（perihelion/aphelion 定义写反）按真公理(5) 先例照录不改义、段114 公式重复转换伪影照录、段113 括号未闭合照录；⑦biblio 现制照录（biblio_audit 无 flagged）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:07:34Z",
+      "evidence": "s2 二校（Fluency/Style，ADR-0020）：check_prose 107→87——实修 20 处（弱动词 4：作出艰难抉择→径直抉择/予以解雇→遭解雇/作出断言→立下/进行捧场→捧场；被动 9：遭证伪/受逼而出卖/为…所预言/未遭反驳/不得不/升格为/可遭反驳而不能获确证/曾遭判词/得到平反；90+ 长句拆分 7）；余 87 处按类豁免留痕：de-chain 52（术语密集学术文体的'的'字结构——研究纲领的中心论题/合理重构的历史等，逐条改写将损及术语精确；引块内 8 处忠实优先）、long-sentence 31（70–85 字学术论证句，含引块 9 处照源句界）、passive-bei 4（引块/名言 3 处：生而被反驳死而被反驳系拉卡托什名句+波普尔 LSD 引文、段175 被字句 1 处）、全部为 Minor 风格项（ADR-0020 分级），对照 al-qudat 先例（豁免 67 留痕）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:08:40Z",
+      "evidence": "s3 三校（Terminology/Locale Convention）：style --strict 0；academic --strict 0 硬错误；math 0 missing；summary 0 硬错误；守恒 HARD=0（199 段）；prose 87 处按类豁免留痕（s2 evidence）；脚注键闭环（正文 [^key] 引用↔现制 References 定义区照录，check_academic 0 孤儿）；图 3 幅 zh 路径 ../yuanwen/assets/lakatos/fig1-3.png 对位 yuanwen（check-images 随 CI）；markdownlint 随 CI"
     }
   ],
   "blockers": [],
