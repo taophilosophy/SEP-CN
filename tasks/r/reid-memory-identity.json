@@ -2,7 +2,7 @@
   "slug": "reid-memory-identity",
   "kind": "retranslate",
   "zh_doc": "r/reid-memory-identity.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -52,6 +52,27 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-05T15:43:14Z",
       "evidence": "r1 初审（对照源自审，初译 actor）：61 段逐段回读，重点核 Reid 三层区分（领会/相识/构想）、先前觉知条件、勇敢军官案例的传递性论证方向、五重批评的次序与力度、对误认免疫与第一人称证据论；结构完整性（导语+4 节+References A/B 小节+学术工具+OIR 2 条+相关词条 7 项+2 注）；0 问题。r2 独立 agent 复核进行中"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T16:30:35Z",
+      "evidence": "r2 复审（逐句回核 211 行源↔译，初译外独立 agent）：7 处（2 Major+5 Minor）全采纳——①Major seg20 only if 误作「当且仅当」（双条件加强且与同段「必要而非充分」抵触）→「仅当」；②Major seg49 the latter in terms of the former 分析方向颠倒（代词回指错位）→显化「以记忆分析人格同一性」；③seg5 补漏译让步句「里德也考虑过相似性能否为这种因果解释奠基」；④seg15 补核心术语「直接的」（immediate object，两版）；⑤seg37「人格同一性形而上学」收窄→「同一性形而上学」（两版）；⑥seg18 Tulving 音译与全篇英文体例不一→保留英文；⑦勘误：入格→人格×2、承诺于前多余空格×2。复核员核过：42 定义逐字符、勇敢军官两段引文、全部页码书志（Essays 280-476/《探究》12-197/洛克 II.xxvii.9-10/1）、四行制工具、OIR 2 条、相关词条 7 项、pubinfo。工程注记：修正曾两度未落 step2/被环路保护中断，最终以账本为准重建并逐项 grep 终验"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T16:30:36Z",
+      "evidence": "r3 终审（冷置后回读）：冷置任务=religious-epistemology 立项尝试——发现该 slug 不在基线/SUMMARY（en/ 已抓取而未 intake，summary_sync add=0 印证其游离于 1879 登记册之外），已移交 intake 流程处置（fetch_entry+baseline+apply-add 后方可建任务），非译批内可解；r2 七处落点终验全过（仅当✓/分析方向✓/让步句✓/直接对象✓/同一性形而上学✓/Tulving✓/入格 0）；六检：style 0/academic 0 硬错误/math 0/summary 0/prose 34（豁免类留痕见 s2）/lint 随 CI"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T16:30:36Z",
+      "evidence": "done：六道全过，reid-memory-identity 为 RZ 会话第 5 个收口件（r 批 done=5/85；61 段）"
     }
   ],
   "blockers": [],
