@@ -1145,241 +1145,241 @@ segments:
     source: |-
       The best-known of Lakatos’s “Conference Proceedings” is *Criticism and the Growth of Knowledge*, which became an international best-seller. It contains Lakatos’s important paper “Falsification and the Methodology of Scientific Research Programmes” (FMSRP) which we have discussed already. A briefer account of this methodology had already appeared (Lakatos 1968a), in which Lakatos distinguished dogmatic, naïve and sophisticated falsificationist positions, attributing them to “Popper₀, Popper₁ and Popper₂”—or as he otherwise put it, “proto-Popper, pseudo-Popper and proper-Popper”. (Popper did not appreciate being disassembled into temporal or ideological parts and protested “I am not a Trinity”.)
     step1: |-
-
+      拉卡托什的“会议论文集”中最有名的是《批判与知识的增长》，后者成了一本国际畅销书。其中载有拉卡托什的重要论文《证伪与科学研究纲领方法论》（FMSRP），我们已经讨论过。这一方法论的一个更简短的说明此前已经发表（Lakatos 1968a），其中拉卡托什区分了教条的、朴素的与精致的证伪主义立场，把它们归于“波普尔₀、波普尔₁ 与波普尔₂”——或者用他另一种说法：“原初-波普尔、伪-波普尔与真-波普尔”。（波普尔不喜欢被拆解成时间上的或意识形态上的部件，抗议说“我不是三位一体”。）
     step2: |-
-
+      拉卡托什的“会议论文集”中最有名的是《批判与知识的增长》——一本国际畅销书。其中载有拉卡托什的重要论文《证伪与科学研究纲领方法论》（FMSRP），前文已讨论。这一方法论更简短的说明此前已经发表（Lakatos 1968a）：拉卡托什在其中区分了教条的、朴素的与精致的证伪主义立场，把它们分别派给“波普尔₀、波普尔₁ 与波普尔₂”——或者换个说法：“原初-波普尔、伪-波普尔与真-波普尔”。（波普尔不喜欢被人拆成时间上的或意识形态上的零件，抗议说：“我不是三位一体”。）
   - id: 142
     kind: body
     source: |-
       Lakatos’s methodology has been seen, rightly, as an attempt to reconcile Popper’s falsificationism with the views of Thomas Kuhn. Popper saw science as consisting of bold explanatory conjectures, and dramatic refutations that led to new conjectures. Kuhn (and Polanyi before him) objected that
     step1: |-
-
+      拉卡托什的方法论被正确地看作调和波普尔证伪主义与托马斯·库恩观点的尝试。波普尔把科学看作由大胆的解释性猜想与戏剧性的反驳构成，反驳又引出新猜想。库恩（以及在他之前的波兰尼）反对说：
     step2: |-
-
+      拉卡托什的方法论被正确地看作一次调和的尝试——在波普尔证伪主义与托马斯·库恩的观点之间。波普尔眼中的科学，由大胆的解释性猜想与戏剧性的反驳构成，反驳再引出新猜想。库恩（以及在他之前的波兰尼）反对说：
   - id: 143
     kind: body
     source: |-
       > No process yet disclosed by the historical study of scientific development at all resembles the methodological stereotype of falsification by direct comparison with nature (Kuhn 1962: 77)[^kuhn-1962].
     step1: |-
-
+      > 迄今为止，对科学发展之历史研究所揭示的任何过程，都丝毫不同于那种通过与自然的直接比较而证伪的方法论刻板印象（Kuhn 1962: 77）[^kuhn-1962]。
     step2: |-
-
+      > 迄今为止，对科学发展之历史研究所揭示的任何过程，都丝毫不像那种“与自然直接比较而证伪”的方法论刻板印象（Kuhn 1962: 77）[^kuhn-1962]。
   - id: 144
     kind: body
     source: |-
       Instead, science consists of long periods of “normal science”, paradigm-based research, where the task is to force nature to fit the paradigm. When nature refuses to comply, this is not seen as a refutation, but rather as an anomaly. It casts doubt, not on the ruling paradigm, but on the ingenuity of the scientists—“only the practitioner is blamed, not his tools”. It is only in extraordinary periods of “revolutionary science” that anything like Popperian refutations occur.
     step1: |-
-
+      相反，科学由漫长的“常规科学”时期构成——基于范式的研究，其任务是强迫自然去符合范式。当自然拒绝服从时，这不被视为反驳，而是被视为反常。它质疑的不是居于统治地位的范式，而是科学家的巧智——“受责备的只是实践者，不是他的工具”。只有在“革命科学”的非同寻常的时期，才发生类似波普尔式反驳的事情。
     step2: |-
-
+      相反，科学由漫长的“常规科学”时期构成——那是基于范式的研究，任务是把自然摁进范式。当自然不肯就范，这不算反驳，只算反常：受质疑的不是当权的范式，而是科学家的巧智——“挨骂的只是操刀人，不是他的工具”。只有在“革命科学”的非同寻常时期，才会上演类似波普尔式反驳的戏码。
   - id: 145
     kind: body
     source: |-
       Lakatos proposed a middle-way, in which Kuhn’s socio-psychological tools were replaced by logico-methodological ones. The basic unit of appraisal is not the isolated testable theory, but rather the “research programme” within which a series of testable theories is generated. Each theory produced within a research programme contains the same common or “hard core” assumptions, surrounded by a “protective belt” of auxiliary hypotheses. When a particular theory is refuted, adherents of a programme do not pin the blame on their hard-core assumptions, which they render “irrefutable by fiat”. Instead, criticism is directed at the hypotheses in the “protective belt” and they are modified to deal with the problem. Importantly, these modifications are not random—they are in the best cases guided by the heuristic principles implicit in the “hard core” of the programme. A programme progresses theoretically if the new theory solves the anomaly faced by the old and is independently testable, making new predictions. A programme progresses empirically if at least one of these new predictions is confirmed.
     step1: |-
-
+      拉卡托什提出了一条中间道路，其中库恩的社会-心理学工具被逻辑-方法论工具所取代。评价的基本单位不是孤立的可检验理论，而是“研究纲领”——一系列可检验理论在其中被生成。在一个研究纲领中产生的每个理论都包含同样的共同“硬核”假设，周围环绕着辅助假设的“保护带”。当某个特定理论被反驳时，纲领的信奉者不会把责任推到他们的硬核假设上——他们把硬核假设裁定为“不可反驳”。相反，批评指向“保护带”中的假设，后者被修改以处理问题。重要的是，这些修改不是随机的——在最好的情况下，它们受纲领“硬核”中隐含的启发法原则引导。如果新理论解决了旧理论面临的反常且可独立检验、做出新预言，纲领就在理论上进步。如果这些新预言中至少有一个得到确证，纲领就在经验上进步。
     step2: |-
-
+      拉卡托什提出一条中间道路：库恩的社会-心理学工具，被逻辑-方法论工具所取代。评价的基本单位不再是孤立的可检验理论，而是“研究纲领”——一系列可检验理论在其中被生成。纲领中产生的每个理论都共享同样的“硬核”假设，外围环绕辅助假设的“保护带”。当某个特定理论被反驳时，纲领的信徒不把责任推给硬核假设——他们把硬核裁定为“不可反驳”；批评转而指向“保护带”里的假设，后者被修改以应对问题。要紧的是，这些修改并非随机——最好的情况下，它们由纲领“硬核”中隐含的启发法原则所引导。新理论若解决了旧理论面临的反常、又可独立检验并做出新预言，纲领便在理论上进步；这些新预言中若至少有一个得到确证，纲领便在经验上进步。
   - id: 146
     kind: body
     source: |-
       Notice that a programme can make progress, both theoretically and empirically, even though every theory produced within it is refuted. A programme degenerates if its successive theories are not *theoretically* progressive (because it predicts no novel facts), or not *empirically* progressive (because novel predictions get refuted). Furthermore, and contrary to Kuhn’s idea that normally science is dominated by a single paradigm, Lakatos claimed that the history of science typically consists of *competing* research programmes. A scientific revolution occurs when a degenerating programme is superseded by a progressive one. It acquires hegemonic status though its rivals may persist as minority reports.
     step1: |-
-
+      注意，一个纲领可以同时在理论上和经验上进步，即便其中产生的每个理论都被反驳。如果一个纲领的相继理论在*理论上*不进步（因为它预言不出新事实），或在*经验上*不进步（因为新预言被反驳），它就退化了。此外，与库恩认为正常情况下科学由单一范式主导的想法相反，拉卡托什主张科学史典型地由*相互竞争的*研究纲领构成。当一个退化的纲领被一个进步的纲领取代时，科学革命就发生了。后者获得霸权地位，尽管其对手可以作为少数派报告继续存在。
     step2: |-
-
+      请注意：一个纲领可以同时在理论上与经验上进步，哪怕其中产生的每个理论都被反驳。若一个纲领的相继理论在*理论上*不进步（预言不出新事实），或在*经验上*不进步（新预言被反驳），它就退化了。此外，库恩认为正常科学由单一范式主导；拉卡托什恰恰相反，主张科学史典型地由*相互竞争的*研究纲领构成。当退化的纲领被进步的纲领取代，科学革命便告发生：后者攫取霸权，而其对手或可留作少数派报告，继续存在。
   - id: 147
     kind: body
     source: |-
       Kuhn saw all this as vindicating his own view, albeit with different terminology (Kuhn 1970: 256, 1977: 1)[^kuhn-1970]. But this missed the significance of replacing Kuhn’s socio-psychological descriptions with logico-methodological ones. It also missed Lakatos’s claim that there are always competing programmes or paradigms. Hegemony is seldom as total as Kuhn seems to suggest.
     step1: |-
-
+      库恩把这一切看作对自己观点的辩护，尽管术语不同（Kuhn 1970: 256, 1977: 1）[^kuhn-1970]。但这忽略了用逻辑-方法论描述取代库恩的社会-心理学描述的意义所在。它也忽略了拉卡托什的主张：总有相互竞争的纲领或范式。霸权很少像库恩似乎暗示的那样彻底。
     step2: |-
-
+      库恩把这一切看作对自己观点的声援——只是换个术语而已（Kuhn 1970: 256, 1977: 1）[^kuhn-1970]。但这漏掉了要点：以逻辑-方法论描述取代库恩的社会-心理学描述，意义何在；它也漏掉了拉卡托什的主张——总存在相互竞争的纲领或范式。霸权很少像库恩似乎暗示的那样彻底。
   - id: 148
     kind: body
     source: |-
       ### 3.5 “The History of Science and Its Rational Reconstructions” (1971)
     step1: |-
-
+      ### 3.5 《科学史及其合理重构》（1971）
     step2: |-
-
+      ### 3.5 《科学史及其合理重构》（1971）
   - id: 149
     kind: body
     source: |-
       As we have seen, in *Proofs and Refutations* Lakatos had already joked that “actual history is frequently a caricature of its rational reconstructions”. The use of the plural—“reconstruction*s*”—is important. There is more than one way of rationally reconstructing history, and how you do it depends upon what you count as rational and what not—it depends, in short, in your theory of rationality. There is not one “rational history”—as Hegel may have thought—but several competing ones. And, in a remarkable dialectical turn, Lakatos proposed that one can evaluate competing theories of rationality by asking how well they enable one to reconstruct the history of science (whether it be mathematics or empirical science). The thought is that if your philosophy of science, or theory of scientific rationality, deems most of “great science” irrational, then something is wrong with it. Contrariwise, the more of the history of “great science” your theory of rationality deems rational, the better that theory is.
     step1: |-
-
+      如前所见，在《证明与反驳》中拉卡托什已经开玩笑说“真实历史常常是其合理重构的漫画”。使用复数——“重构*s*”——很重要。合理地重构历史不止一种方式，你怎么做取决于你把什么算作理性、什么不算——简言之，取决于你的合理性理论。并不存在唯一的“合理历史”——正如黑格尔可能认为的那样——而是有几个相互竞争的。而且，在一次非凡的辩证转折中，拉卡托什提出：可以通过询问竞争的合理性理论能让人把科学史（无论数学还是经验科学）重构得多么好，来评价这些理论。这个想法是：如果你的科学哲学或科学合理性理论把大部分“伟大科学”判为非理性，那么它本身有问题。反过来，你的合理性理论把“伟大科学”的历史判为理性的部分越多，那个理论就越好。
     step2: |-
-
+      如前所见，在《证明与反驳》里拉卡托什已经调侃过：“真实历史常常是其合理重构的漫画”。复数——“重构*s*”——用得要紧：合理地重构历史不止一条路，你如何重构，取决于你把什么算作理性、什么不算——简言之，取决于你的合理性理论。并不存在唯一的“合理历史”（黑格尔或许那样想过），而是有几部相互竞争的。而且，在一次漂亮的辩证转折中，拉卡托什提出：评价相互竞争的合理性理论，可以看它们能把科学史（无论数学还是经验科学）重构得有多好。想法是：如果你的科学哲学或科学合理性理论把大部分“伟大科学”判为非理性，那它自身必有毛病；反过来，你的合理性理论把“伟大科学”的历史判为理性的部分越多，它就越好。
   - id: 150
     kind: body
     source: |-
       The obvious worry is that this meta-criterion for theories of scientific rationality threatens to deprive the philosophy of science of any critical bite. Will not the best philosophy of science simply say that whatever scientists do is rational, that scientific might is right, that the best methodology is Feyerabend’s “Anything goes”? Lakatos’s Kantian epigram “Philosophy of science without history of science is empty; history of science without philosophy of science is blind” threatens to eliminate the philosophy of science altogether, in favour of historical-sociological studies of the decisions of scientific communities. (One of us discusses this problem, and attempts to disarm the worry, in Musgrave 1983.)[^musgrave-1983]
     step1: |-
-
+      明显的担忧是：这一针对科学合理性理论的元标准，有可能剥夺科学哲学的一切批判锋芒。最好的科学哲学岂不成了科学家的所作所为皆为理性、科学的力量就是正确的道理、最好的方法论就是费耶阿本德的“怎么都行”？拉卡托什的康德式警句“没有科学史的科学哲学是空洞的；没有科学哲学的科学史是盲目的”有可能把科学哲学整个消灭，代之以对科学共同体决策的历史-社会学研究。（我们中的一人在 Musgrave 1983 中讨论了这一问题，并试图化解这一担忧。）[^musgrave-1983]
     step2: |-
-
+      明显的担忧是：这一针对科学合理性理论的元标准，可能让科学哲学失去全部批判锋芒。最好的科学哲学，岂不成了“科学家做什么都合理、科学的力量就是正道”，最好的方法论岂不就是费耶阿本德的“怎么都行”？拉卡托什的康德式警句——“没有科学史的科学哲学是空洞的；没有科学哲学的科学史是盲目的”——大有把科学哲学整个取消之势，代之以对科学共同体决策的历史-社会学研究。（我们中的一人在 Musgrave 1983 里讨论了这一问题，并试图拆除这枚炸弹。）[^musgrave-1983]
   - id: 151
     kind: body
     source: |-
       Another worry, which is perhaps less obvious, is that Lakatos seems to be implicitly appealing to the kind of inductive principle that he scorns elsewhere. Isn’t he saying that a sequence of successes in the history of science displaying key episodes as rational tends to *confirm* a theory of scientific rationality?
     step1: |-
-
+      另一个不那么明显的担忧是：拉卡托什似乎在隐含地诉诸他在别处鄙夷的那类归纳原则。他是不是在说：科学史上一连串把关键事件展示为理性的成功，倾向于*确证*一个科学合理性理论？
     step2: |-
-
+      另一个担忧不那么显眼：拉卡托什似乎在隐含地诉诸他在别处鄙夷的那类归纳原则。他难道不是在说：科学史上一连串把关键事件展示为理性的成功，会倾向于*确证*某个科学合理性理论？
   - id: 152
     kind: body
     source: |-
       Lakatos himself was a master of philosophically inspired case-studies of episodes in the history of science—Feyerabend said he had turned this into an art form. His “Hegelian” idea that the “rationally reconstructed” history of thought has primacy is emphasised in two books, Larvor 1998 and Kadvany 2001. After his death, a Colloquium was held in Nafplion, Greece, where case-studies applying Lakatos’s ideas to episodes from the history of both the natural and social sciences were presented by his students and colleagues. The Proceedings of this “Nafplion Colloquium” were subsequently published in two volumes—Howson (ed.) 1976 and Latsis (ed.) 1976. Further case-studies include Zahar 1973 and Urbach 1974.
     step1: |-
-
+      拉卡托什本人是哲学驱动的科学史事件案例研究的大师——费耶阿本德说他把这门手艺变成了一种艺术形式。他那“合理重构”的思想史具有优先地位的“黑格尔式”观念，在 Larvor 1998 与 Kadvany 2001 两本书中得到强调。他去世后，在希腊纳夫普利翁举行了一次研讨会，他的学生与同事在会上宣读了把拉卡托什的思想应用于自然科学与社会科学史事件的案例研究。这次“纳夫普利翁研讨会”的论文集随后以两卷出版——Howson (ed.) 1976 与 Latsis (ed.) 1976。进一步的案例研究包括 Zahar 1973 与 Urbach 1974。
     step2: |-
-
+      拉卡托什本人是“以哲学为魂的科学史案例研究”的大师——费耶阿本德说他把这门手艺做成了艺术。他那“合理重构的思想史具有优先地位”的“黑格尔式”观念，在 Larvor 1998 与 Kadvany 2001 两本书里得到强调。他去世后，希腊纳夫普利翁举行了一次研讨会：他的学生与同事在会上宣读案例研究，把拉卡托什的思想施用于自然科学与社会科学史上的种种事件。“纳夫普利翁研讨会”的论文集随后以两卷本出版——Howson (ed.) 1976 与 Latsis (ed.) 1976。更多案例研究见 Zahar 1973 与 Urbach 1974。
   - id: 153
     kind: body
     source: |-
       However, Urbach’s paper, which was written with Lakatos’s active collaboration and encouragement (F&AM: 348–34), represents something of an “own goal” for the MSRP. Urbach argued that the environmentalist programme in IQ Studies, which tries to explain intergroup differences in tested intelligence as due to environmental causes, was a degenerating research programme. At least it was degenerating when compared to its hereditarian rival which puts these differences down to differences in hereditary endowments. The tables were dramatically turned just thirteen years later with the discovery of the Flynn effect (1987) which showed massive differences in intergroup IQs which simply *could not* be explained by hereditary differences. (The groups in question were genetically identical, the higher scoring groups being the children or the grandchildren of the lower scoring groups. See Flynn 1987 and 2009.)[^flynn-1987][^flynn-2009] Thus the supposedly “degenerate” programme was propelled into the lead. Of course the MSRP *allows* for such dramatic reversals of fortune, but it is at least a bit embarrassing if a programme damned as degenerate by both the Master and one of his chief disciples is spectacularly vindicated just thirteen years later.
     step1: |-
-
+      然而，Urbach 的论文——它是在拉卡托什的积极协作与鼓励下写成的（F&AM: 348–34）——在某种程度上代表了 MSRP 的一个“乌龙球”。Urbach 论证，IQ 研究中的环境论纲领——它试图把测试智力中的群体间差异归因于环境原因——是一个退化的研究纲领。至少与其遗传论对手相比它是退化的，后者把这些差异归因于遗传禀赋的差异。仅仅十三年后，随着弗林效应（1987）的发现，局面戏剧性地颠倒过来——弗林效应显示了群体间 IQ 的巨大差异，而这些差异根本*无法*用遗传差异来解释。（所论的群体在遗传上是相同的，得分较高的群体是得分较低的群体的子女或孙辈。见 Flynn 1987 与 2009。）[^flynn-1987][^flynn-2009] 于是那个 supposedly“退化的”纲领被推上了领先位置。当然，MSRP*允许*这种命运的大逆转，但如果一个被大师和他的一位主要门徒共同判定为退化的纲领，仅仅十三年后就被惊人地平反，这至少有点尴尬。
     step2: |-
-
+      然而，Urbach 的论文——它是在拉卡托什的积极参与和鼓励下写成的（F&AM: 348–34）——多多少少替 MSRP 踢了一记“乌龙球”。Urbach 论证：智力研究中的环境论纲领（它试图把测试智力的群体间差异归因于环境原因）是一个退化的研究纲领——至少与其遗传论对手相比是退化的，后者把这些差异归到遗传禀赋头上。仅仅十三年后，弗林效应（1987）的发现戏剧性地颠倒了牌局：它显示群体间 IQ 存在巨大差异，而这些差异根本*无法*用遗传差异解释（所论的群体在遗传上完全相同，得分高的群体正是得分低的群体的子女或孙辈。见 Flynn 1987 与 2009。）[^flynn-1987][^flynn-2009] 于是那个被判定“退化”的纲领被推上了领先位置。当然，MSRP*允许*这种命运的大逆转；可一个被大师与其主要门徒联手判为退化的纲领，仅仅十三年后就被风光平反——这总归有点尴尬。
   - id: 154
     kind: body
     source: |-
       ### 3.6 “Popper on Demarcation and Induction” (1974)
     step1: |-
-
+      ### 3.6 《波普尔论划界与归纳》（1974）
     step2: |-
-
+      ### 3.6 《波普尔论划界与归纳》（1974）
   - id: 155
     kind: body
     source: |-
       “Popper on demarcation and induction” (PDI) was written in 1970 for the Popper volume in the *Library of Living Philosophers* series (Schilpp (ed.) 1974). Sadly, it caused a major falling out with Popper despite the generous praise in its opening sections:
     step1: |-
-
+      “波普尔论划界与归纳”（PDI）写于 1970 年，是为《在世哲学家文库》系列的波普尔卷而作（Schilpp (ed.) 1974）。遗憾的是，尽管其开篇几节不吝赞美，它还是与波普尔造成了一场大决裂：
     step2: |-
-
+      “波普尔论划界与归纳”（PDI）写于 1970 年，是为《在世哲学家文库》丛书的波普尔卷而作（Schilpp (ed.) 1974）。遗憾的是：尽管开篇几节不吝赞美，它还是酿成了与波普尔的一场大决裂：
   - id: 156
     kind: body
     source: |-
       > Popper’s ideas represent the most important development in the philosophy of the twentieth century; an achievement in the tradition—and on the level—of Hume, Kant, or Whewell. … More than anyone else, he changed my life. I was nearly forty when I got into the magnetic field of his intellect. His philosophy helped me to make a final break with the Hegelian outlook which I had held for nearly twenty years. (PDI: 139.)
     step1: |-
-
+      > 波普尔的思想代表了二十世纪哲学中最重要的进展；是休谟、康德或惠威尔传统中——且与之同一水平——的成就。……他比任何人都更多地改变了我的生活。我年近四十才进入他的智识磁场。他的哲学帮助我与持有近二十年的黑格尔式 outlook 作了最终决裂。（PDI: 139.）
     step2: |-
-
+      > 波普尔的思想代表了二十世纪哲学中最重要的发展；是休谟、康德或惠威尔传统中——且与之同一水准——的成就。……他比任何人都更深地改变了我的生活。我年近四十才进入他智识的磁场。他的哲学帮助我最终决裂于我抱持了近二十年的黑格尔式世界观。（PDI: 139.）
   - id: 157
     kind: body
     source: |-
       Much of the paper is devoted to criticizing Popper’s demarcation criterion and arguing for his own. Most of these criticisms have been canvased already. Lakatos argues, for instance, that Popper’s falsificationism can be falsified
     step1: |-
-
+      论文的大部分篇幅用于批评波普尔的划界标准并为自己辩护。这些批评中的多数已经介绍过。例如，拉卡托什论证波普尔的证伪主义可以被证伪：
     step2: |-
-
+      论文的大部分篇幅用于批评波普尔的划界标准、并为自己的标准辩护。这些批评大多已在前文介绍。例如，拉卡托什论证：波普尔的证伪主义是可以被证伪的——
   - id: 158
     kind: body
     source: |-
       > by showing that the best scientific achievements were unscientific [by Popper’s standards] and that the best scientists, in their greatest moments, broke the rules of Popper’s game of science (PDI: 146).
     step1: |-
-
+      > 通过表明最好的科学成就［按波普尔的标准］是不科学的，以及最好的科学家在他们最伟大的时刻违反了波普尔科学游戏的规则（PDI: 146）。
     step2: |-
-
+      > 通过表明最伟大的科学成就［按波普尔的标准］并不科学，而最伟大的科学家在其最辉煌的时刻违反了波普尔那场科学游戏的规则（PDI: 146）。
   - id: 159
     kind: body
     source: |-
       But Lakatos also develops a criticism that has nothing much to do with the differences between his demarcation criterion and Popper’s, indeed a criticism that seems equally telling against Popper’s philosophy and his own.
     step1: |-
-
+      但拉卡托什还发展了一种批评，它与他的划界标准和波普尔的划界标准之间的分歧没有太大关系——事实上，这一批评对波普尔的哲学和他自己的哲学似乎同样致命。
     step2: |-
-
+      但拉卡托什还发展出另一种批评：它与两种划界标准之间的分歧关系不大——事实上，这记批评对波普尔的哲学和他自己的哲学，杀伤力看来不相上下。
   - id: 160
     kind: body
     source: |-
       Lakatos points out that when Popper first wrote his classic *Logik der Forschung* (LSD) in the early 1930s, the correspondence theory of truth was regarded with deep suspicion by the empiricist philosophers that he was trying to convince. Accordingly Popper was careful to state that
     step1: |-
-
+      拉卡托什指出，当波普尔在 1930 年代初首次写作其经典著作《科学发现的逻辑》（LSD）时，真理符合论正受到他试图说服的经验主义哲学家们的深深怀疑。因此波普尔谨慎地声明：
     step2: |-
-
+      拉卡托什指出：波普尔在 1930 年代初写就其经典《科学发现的逻辑》（LSD）时，真理符合论正遭到他想说服的那些经验主义哲学家的深深怀疑。因此波普尔谨慎声明：
   - id: 161
     kind: body
     source: |-
       > in the logic of science here outlined it is possible to avoid using the concepts “true” and “false” … We need not say that the theory is “false” [or “falsified”], but we may say instead that it is contradicted by a certain set of accepted basic statements. Nor need we say of basic statements that they are “true” or “false”, for we may interpret their acceptance as the result of a conventional decision, and the accepted statements as results of this decision. (LSD: 273–274.)
     step1: |-
-
+      > 在这里概述的科学逻辑中，可以避免使用“真”与“假”概念……我们不必说理论是“假的”［或“被证伪的”］，而可以说它被某一组被接受的基础陈述所矛盾。我们也不必说基础陈述是“真的”或“假的”，因为我们可以把对它们的接受解释为一个约定决策的结果，把被接受的陈述解释为这一决策的结果。（LSD: 273–274.）
     step2: |-
-
+      > 在这里概述的科学逻辑中，可以避开“真”与“假”这对概念……我们不必说理论是“假的”［或“被证伪的”］，而可以说它与某组被接受的基础陈述相矛盾。对基础陈述，我们也无须说它们“真”或“假”——我们可以把对它们的接受解释为一次约定决策的结果，把被接受的陈述解释为这次决策的结果。（LSD: 273–274.）
   - id: 162
     kind: body
     source: |-
       But shortly thereafter Popper met Tarski who convinced him that the correspondence theory of truth was philosophically respectable, and this liberated him to declare that truth, or truth-likeness was the object of the scientific enterprise (LSD: 273n). Lakatos apparently endorses this development.
     step1: |-
-
+      但不久之后，波普尔遇到了塔斯基，后者使他相信真理符合论在哲学上是体面的，这解放了他去宣布真理或似真性是科学事业的目标（LSD: 273n）。拉卡托什显然认可这一发展。
     step2: |-
-
+      但不久之后，波普尔遇见了塔斯基。塔斯基使他相信：真理符合论在哲学上是体面的。这解放了他，让他得以宣布：真理或似真性才是科学事业的目标（LSD: 273n）。拉卡托什显然认可这一发展。
   - id: 163
     kind: body
     source: |-
       > Tarski’s rehabilitation of the correspondence theory of truth…stimulated Popper to complement his logic of discovery with his own theory of verisimilitude and of approximation to the Truth, an achievement marvellous both in its simplicity and in its problem-solving power. (PDI: 154.)
     step1: |-
-
+      > 塔斯基对真理符合论的复权……激励波普尔用他自己的逼真性与逼近真理的理论来补充其发现的逻辑，这项成就无论在简洁性还是在问题解决能力上都令人惊叹。（PDI: 154.）
     step2: |-
-
+      > 塔斯基为真理符合论复权……激励波普尔以自己的逼真性与逼近真理理论，补充其发现的逻辑——这一成就无论在简洁性还是在问题解决能力上都令人惊叹。（PDI: 154.）
   - id: 164
     kind: body
     source: |-
       But Lakatos points out a problem. There is now a disconnect between the *game* of science and the *aim* of science. The *game* of science consists in putting forward falsifiable, risky and problem-solving conjectures and sticking with the unrefuted and the well-corroborated ones. But the *aim* of science consists in developing true or truth-like theories about a largely mind-independent world. And Popper has given us no reason to suppose that by playing the game we are likely to achieve the aim. After all, a theory can be falsifiable, unfalsified, problem-solving and well-corroborated without being true.
     step1: |-
-
+      但拉卡托什指出一个问题。现在，科学的*游戏*与科学的*目标*之间存在脱节。科学的*游戏*在于提出可证伪的、冒险的、能解决问题的猜想，并坚持未被反驳的与得到良好确证的猜想。但科学的*目标*在于发展关于一个在很大程度上独立于心灵的世界的真的或似真的理论。而波普尔没有给出任何理由让我们认为：玩这场游戏我们就可能实现目标。毕竟，一个理论可以是可证伪的、未被证伪的、能解决问题的、得到良好确证的，却不为真。
     step2: |-
-
+      但拉卡托什指出一个问题：科学的*游戏*与科学的*目标*从此脱节了。科学的*游戏*在于提出可证伪、够冒险、能解决问题的猜想，并坚守未被反驳、确证良好的那些；科学的*目标*却在于发展关于一个很大程度上独立于心灵的世界的、真的或似真的理论。而波普尔没有给出任何理由，让我们相信玩好这场游戏便能实现那个目标。毕竟，一个理论可以既可证伪、未被证伪、能解决问题、确证良好，又不为真。
   - id: 165
     kind: body
     source: |-
       To restore the connection between the game and its aim Lakatos makes a plea with Popper for a “whiff of ‘inductivism’” (PDI: 159). What is this whiff?
     step1: |-
-
+      为了恢复游戏与其目标之间的联系，拉卡托什向波普尔请求一丝“‘归纳主义’的气息”（PDI: 159）。这气息是什么？
     step2: |-
-
+      为接通游戏与目标，拉卡托什向波普尔请求一丝“‘归纳主义’的气息”（PDI: 159）。这气息是什么？
   - id: 166
     kind: body
     source: |-
       > An inductive principle which connects realist metaphysics with methodological appraisals, verisimilitude with corroboration, which reinterprets the rules of the “scientific game” as a—conjectural—theory about the *signs* of the *growth of knowledge*, that is, about the signs of *growing verisimilitude of our scientific theories* (PDI: 156).
     step1: |-
-
+      > 一个把实在论形而上学与方法论评价、把逼真性与确证连接起来的归纳原则，它把“科学游戏”的规则重新解释为一个——猜测性的——关于知识*增长之**征兆*的理论，即关于*我们科学理论的逼真性不断增长之征兆*的理论（PDI: 156）。
     step2: |-
-
+      > 一个归纳原则：它把实在论形而上学与方法论评价连接起来，把逼真性与确证连接起来；它把“科学游戏”的规则重新解读为一个——猜测性的——关于知识*增长之征兆*的理论，亦即关于*我们科学理论的逼真性日益增长之征兆*的理论（PDI: 156）。
   - id: 167
     kind: body
     source: |-
       In other words, it is a metaphysical principle which states that highly falsifiable but well-corroborated theories are (in some sense) more likely to be true (or truth-like) than their low-risk counterparts. Corroborations tend to confirm. Thus by playing the game we approximate the aim. Lakatos goes on to urge that this whiff of inductivism is not much of an ask, since Popper sometimes seems to presuppose it without fully realizing that he is doing so.
     step1: |-
-
+      换言之，它是一个形而上学原则，其内容是：高度可证伪但确证良好的理论（在某种意义上）比其低风险的对手更可能是真的（或似真的）。确证倾向于确证真理。因此通过玩游戏我们逼近目标。拉卡托什接着力陈：这一丝归纳主义的气息不是什么过分的要求，因为波普尔有时似乎在预设它而未充分意识到自己在这么做。
     step2: |-
-
+      换言之，这是一条形而上学原则：高度可证伪而确证良好的理论，在某种意义上比低风险的对手更可能为真（或似真）。确证倾向于确实为真。于是，玩好游戏便是在逼近目标。拉卡托什接着力陈：这一丝归纳主义的气息并不过分——因为波普尔有时似乎已在预设它，只是没完全意识到自己在这么做。
   - id: 168
     kind: body
     source: |-
       There are three points to note.
     step1: |-
-
+      有三点值得注意。
     step2: |-
-
+      有三点值得注意。
   - id: 169
     kind: body
     source: |-
       (1) If this criticism holds good against Popper it is equally good against Lakatos himself. He too has a disconnect between the *game* of science—which, when it is played well, consists in developing progressive research programmes—and the *aim* of science—which, like Popper, he takes to be truth (FMSRP: 58). To solve this problem, we need a metaphysical principle which states that highly progressive research programmes are (in some sense) more likely to be true (or truth-like) than their degenerating rivals. Thus if Popper could do with a whiff of inductivism, the same goes for Lakatos.
     step1: |-
-
+      （1）如果这一批评对波普尔成立，它对拉卡托什本人同样成立。他也有一个脱节：一边是科学的*游戏*——玩得好时它在于发展进步的研究纲领——另一边是科学的*目标*——与波普尔一样，他把它看作真理（FMSRP: 58）。要解决这个问题，我们需要一个形而上学原则，其内容是：高度进步的研究纲领（在某种意义上）比其退化的对手更可能是真的（或似真的）。因此，如果波普尔需要一丝归纳主义的气息，拉卡托什同样需要。
     step2: |-
-
+      （1）这一批评若对波普尔成立，对拉卡托什本人同样成立。他也有同样的脱节：一边是科学的*游戏*——玩得好时在于发展进步的研究纲领——另一边是科学的*目标*——与波普尔一样，他把它看作真理（FMSRP: 58）。要解决这个问题，同样需要一条形而上学原则：高度进步的研究纲领在某种意义上比其退化的对手更可能为真（或似真）。所以，波普尔需要一丝归纳主义的气息，拉卡托什亦然。
   - id: 170
     kind: body
     source: |-
       (2) The inductivism that Lakatos recommends to Popper looks remarkably like the inductivism that he condemned in Russell. (“I do not see any way out of a dogmatic assertion that we *know* the inductive principle, or some equivalent; the only alternative is to throw over almost everything that is regarded as knowledge by science and common sense.” Russell 1944: 683, quoted disdainfully by Lakatos at **Regress**: 18.)[^russell-1944] But if inductivism is permissible (or even *de rigueur*) in the Philosophy of Science, perhaps it is permissible (or even *de rigueur*) in the Philosophy of Mathematics! In which case, the Renaissance of Empiricism in the Philosophy of Mathematics may count as a genuine renaissance after all, since the logical or set-theoretic axioms may (as Russell supposed) be confirmed (and hence rationally believed) because of their mathematical consequences. If epistemic support can flow upwards from evidence to theory (where the evidence consists of a sequence of novel and successful predictions), perhaps it can flow upwards from consequences to axioms.
     step1: |-
-
+      （2）拉卡托什向波普尔推荐的归纳主义，与他在罗素那里谴责的归纳主义惊人地相似。（“我看不出有什么办法能避开一个教条式的断言：我们*知道*归纳原则，或某个等价物；唯一的出路是把科学与常识视为知识的东西几乎全部抛弃。”Russell 1944: 683，拉卡托什在**倒退**: 18 中轻蔑地引用。）[^russell-1944] 但如果归纳主义在科学哲学中是允许的（甚至是*必须的*），那么它在数学哲学中或许也是允许的（甚至是*必须的*）！在那种情况下，数学哲学中的经验主义复兴终究可以算作一场真正的复兴，因为逻辑或集合论公理可以（如罗素所想的那样）因其数学后果而得到确证（从而被理性地相信）。如果认知支持可以从证据向上流到理论（证据由一串新颖而成功的预言构成），那么它或许也能从后果向上流回公理。
     step2: |-
-
+      （2）拉卡托什向波普尔举荐的归纳主义，与他在罗素那里痛斥的归纳主义惊人地相像。（“我看不出除了教条式地断言我们*知道*归纳原则或某个等价物之外还有什么出路；否则就只好把科学与常识当作知识的东西几乎全部扔掉。”Russell 1944: 683，拉卡托什在**倒退**: 18 中轻蔑引用。）[^russell-1944] 可如果归纳主义在科学哲学里是允许的（甚至是*必修的*），那它在数学哲学里或许同样允许（甚至同样必修）！果真如此，数学哲学中的经验主义复兴就终究算得上一场真复兴——因为逻辑或集合论公理可以（如罗素所想）因其数学后果而得到确证（从而被理性地相信）。如果认知支持能从证据向上流到理论（证据由一串新颖而成功的预言构成），那它或许也能从后果逆流而上、流回公理。
   - id: 171
     kind: body
     source: |-
