@@ -2,7 +2,7 @@
   "slug": "lakatos",
   "kind": "retranslate",
   "zh_doc": "l/lakatos.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261105",
       "at": "2026-11-05T21:08:40Z",
       "evidence": "s3 三校（Terminology/Locale Convention）：style --strict 0；academic --strict 0 硬错误；math 0 missing；summary 0 硬错误；守恒 HARD=0（199 段）；prose 87 处按类豁免留痕（s2 evidence）；脚注键闭环（正文 [^key] 引用↔现制 References 定义区照录，check_academic 0 孤儿）；图 3 幅 zh 路径 ../yuanwen/assets/lakatos/fig1-3.png 对位 yuanwen（check-images 随 CI）；markdownlint 随 CI"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:11:48Z",
+      "evidence": "r1 初审（对照源自审，冷置后回读——冷置任务=PROGRESS 刷新+check_all 7/7 全绿+全局状态核对）：成稿 507 行全文回读，结构与源逐节对位（导语+1 生平 3 节+2 大观念 2 节+3 著作 7 节+4 费耶阿本德之争+现制 References 两子节 93 条+学术工具四行+OIR 2+相关词条 32+译注）；历史引块 10 段对照源忠实（含'事实愈糟愈好'/'生而被反驳死而被反驳'名句）；图 3 幅 alt 译文+zh 路径对位。2 处留痕：①SUMMARY 定名'拉卡托斯'与登记册主形'拉卡托什'不一致（前会话登记引入；H1 从 SUMMARY、正文从登记册，两侧机检均过）——上游张力留 specs/008 裁定，非本报目可决；②段 3.1 标题内 CJK 斜体被 italic_to_bold 转为粗体（豁免清单未覆盖带年份尾注的标题行）——渲染可接受，登记为工具待细化项"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:11:48Z",
+      "evidence": "r2 复审（逐句回核源↔译）：①年代全点检——1922-11-09 生/1940 入学/1944 毕业/1943 小组/1944-03 入侵+隔都/1944-11 改名/1946 布达佩斯/1947 博士/1948 奖学金/1949-01 莫斯科+07 召回/1950-04 被捕/1953-09 释放/1956-11 出走/1959 博士论文/1960 LSE 助教/1969 教授/1974 心脏病 51 岁——全部与源一致；②文献缩写点检——P&R/HS&IRR/FMSRP/S&P/LSD/PDI/F&AM/PP2/LTD/WDCRPSP 与源缩写词表对位；③引文页码点检——P&R: 2/5/21/57/62/139/146、FMSRP: 28/33/34/48/50/55–58/58n2、S&P: 4–5/5、LSD: 273–274/273n、PDI: 139/146/154/156/159、HS&IRR: 102/114、F&AM: 20/31/32/59/61/110/122/184–5/221/268–9/291/348–34、Bandy 各章、Hacking 1983: 113/118/119/126、Kuhn 1962: 77/1970: 256/1977: 1、Fox 1981: 92/94、Russell 1944: 683/2010 [1918]: 129、Orwell 2008 [1949]: 58、Hegel 2008 [1820/21]: 16、Piketty 2014: 35、Long 2002: 265/267/272–3/290——逐一对源核验无误；④人名点检——波利亚/布莱思韦特/Rákosi/Horthy/Révai/Sztójay/Balázs/Révész/Izsák/Pap/Magosh/Lukács/Latsis/伯恩斯坦/Kolakowski/塔斯基/卡尔纳普/蒯因/库恩/费耶阿本德/普里斯特系/Held/Flynn/Zahar/Howson/Urbach/Musgrave/Pigden 全对；⑤术语方向核——反面启发法保硬核/正面启发法导新理论/进步两条件/退化两形态/广义划界连续统，与源论证方向一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:11:49Z",
+      "evidence": "r3 终审（冷置后回读+验收）：check_all 7/7 全绿（SUMMARY 结构/分类目录/单体文件/垃圾产物/术语一致性/学术规范/管线单测）；六检终态：style 0/prose 87 按类豁免留痕（s2 evidence，ADR-0020 Minor 级）/守恒 HARD=0/academic 0/math 0/summary 0；图 3 幅路径可解析；结论不超证据——结语节对源忠实；r1 两处留痕（SUMMARY↔登记册名称张力、标题粗体转换）不影响验收判据。验收签字：LQ-main-20261105"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T21:11:49Z",
+      "evidence": "done：六道全过，lakatos 为 l 批第 2 件收口件（l 批 done=2/144）"
     }
   ],
   "blockers": [],

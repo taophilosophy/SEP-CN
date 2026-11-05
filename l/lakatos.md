@@ -1,4 +1,5 @@
 # 伊姆雷·拉卡托斯 Lakatos, Imre (Alan Musgrave and Charles Pigden)
+
 *首次发表于 2016 年 4 月 4 日；2026 年 6 月 19 日实质修订。*
 
 伊姆雷·拉卡托什（Imre Lakatos，1922–1974）是匈牙利出生的数学哲学与科学哲学家，1956 年匈牙利起义遭苏联坦克镇压后流亡，在英国声名鹊起。他有两项著称于世的贡献：其一是反形式主义的数学哲学（此处的“形式主义”不限于希尔伯特及其追随者的哲学，还包括逻辑主义与直觉主义）；其二是“科学研究纲领方法论”（Methodology of Scientific Research Programmes，MSRP）——对波普尔科学与非科学之划界标准的一次激进修正，由此催生了一种全新的科学合理性理论。
@@ -512,8 +513,8 @@
 
 ## 其他网络资源
 
-- [拉卡托什](http://www.lse.ac.uk/philosophy/lakatos/)，伦敦政治经济学院的拉卡托什网页。
-- [来自布达佩斯：伊姆雷·拉卡托什的故事](http://www.abc.net.au/radionational/programs/philosopherszone/from-budapest-the-story-of-imre-lakatos/3342222)，载于 Philosopher's Zone（哲学家地带）节目。
+* [拉卡托什](http://www.lse.ac.uk/philosophy/lakatos/)，伦敦政治经济学院的拉卡托什网页。
+* [来自布达佩斯：伊姆雷·拉卡托什的故事](http://www.abc.net.au/radionational/programs/philosopherszone/from-budapest-the-story-of-imre-lakatos/3342222)，载于 Philosopher's Zone（哲学家地带）节目。
 
 ## 相关词条
 

@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 21:09（UTC）
+生成时间：2026-11-05 21:11（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1000|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|96|
-|在途（drafted 起、done 前）|272|
+|已完成（done）|97|
+|在途（drafted 起、done 前）|271|
 |阻塞|0|
 
 ## 任务状态分布
@@ -26,9 +26,9 @@
 |cleared|176|
 |drafted|2|
 |s1_checked|2|
-|s3_checked|91|
+|s3_checked|90|
 |r1_reviewed|1|
-|done|96|
+|done|97|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -45,7 +45,7 @@
 |I|75|75|75|18|
 |J|38|38|38|4|
 |K|36|36|36|10|
-|L|144|144|19|1|
+|L|144|144|19|2|
 |M|139|139|10|1|
 |N|50|50|2|0|
 |O|21|21|1|0|
@@ -320,7 +320,6 @@
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |lady-masham|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|lakatos|retranslate|s3_checked|LQ-main-20261105 2026-11-05|
 |lambert-auxerre|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |landmann-kalischer|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |law-ideology|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
