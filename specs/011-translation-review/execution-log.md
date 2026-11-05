@@ -193,3 +193,7 @@
 * 实修 2 处：①培根种相增殖段斜体/粗体标记错乱修复（变量 *c*/*e*/*s* 斜体归位，译文+账本 step2 该段吸收译文措辞实现段内闭环）；②相关词条"约翰·布里丹"→"让·布里丹"（对齐 SUMMARY 主名形）。
 * 漂移发现移交：crathorn 账本 step2 与译文存在 s2 措辞漂移（译文侧润色未回写账本，与 logic-provability 同模式）——移交账本闭环轮批量处理（该批词条共性：双版账本 compose 后译文侧继续润色）。
 * 检查器：style 0/prose 9（de-chain 5/long 3/weak 1，豁免域）/academic --strict 0。
+* 深读累计 **46 条全 pass**（+croce-aesthetics——C 批收尾推进）。正文对照过：导语（声誉沉浮/Collingwood 关系）、四领域说、审美优先、直觉即表现、双重观念性、情感说、自然表现区分、外化（最后晚餐例）逐节核销。
+* 实修 3 处+账本同步 1：①"克罗齐并非此意：例如，画家事实上并非离了颜料也能凑合"语义指代不清（源 By this Croce does not mean to say that... the painter could get by without paint）→"克罗齐这样说，并不意味着例如画家事实上可以没有颜料而照样作画"；②引文块粗体断错（**几乎**是**交织**）→**几乎** 是 **交织** 的；③引文注标记错乱（*PPH **227–8...参** Aes*.）→（*PPH* 227–8...参 *Aes*.）；④账本 step2 斜体旧形态同步粗体终态（italic-cjk 合规，compose 可复现）。
+* 检查器：style --strict 0/academic --strict 0。
+* C 批深读接力剩余见 deepread-todo.txt（d 批起）。
