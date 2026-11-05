@@ -89,105 +89,105 @@
    "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:14Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 144/144 镜像 144/144 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 144/144 镜像 144/144 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：144 词条审计=任务 19 已建（s3_checked 16/s2_checked 1/cleared 1/pending 1，含 logic-provability 11-06 s2_checked）+125 未建；状态机与文件零偏差；账本协议 lq.py 落实",
    "advanced_at": "2026-11-05T15:22:53Z"
   },
   "m": {
    "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 139/139 镜像 139/139 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 139/139 镜像 139/139 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：140 词条=任务 9 pending+131 未建；零偏差",
    "advanced_at": "2026-11-05T15:22:53Z"
   },
   "n": {
    "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 50/50 镜像 50/50 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 50/50 镜像 50/50 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：50 词条=任务 2 pending+48 未建；零偏差",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "o": {
    "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 21/21 镜像 21/21 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 21/21 镜像 21/21 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：21 词条=任务 1 pending+20 未建；零偏差",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "p": {
    "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 165/165 镜像 165/165 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 165/165 镜像 165/165 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：165 词条=任务 4 pending+161 未建；零偏差",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "q": {
    "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 34/34 镜像 34/34 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 34/34 镜像 34/34 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：34 词条=任务 0 已建；零偏差（intake/convert 事实已满足待建任务）",
    "advanced_at": "2026-11-05T15:22:54Z"
   },
   "r": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:41Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：86 词条=done 5/pending 5/cleared 1（redistribution RZ 会话在途，账本 p1 已落盘）+75 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:06Z"
   },
   "s": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:41Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：161 词条=done 1（spacetime-holearg 10-28 旧存量无账本，不补造）+pending 5+155 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:07Z"
   },
   "t": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:42Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：71 词条=任务 2 pending+69 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:08Z"
   },
   "u": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:42Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：4 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:09Z"
   },
   "v": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:42Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：15 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:10Z"
   },
   "w": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:42Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：38 词条=任务 3 pending+35 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:11Z"
   },
   "x": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:42Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：3 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:12Z"
   },
   "y": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:43Z",
-   "note": "RZ-main-20261104 认领开工",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：2 词条=任务 1 pending+1 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:13Z"
   },
   "z": {
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:43Z",
-   "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手",
+   "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手；对账补记（2026-11-06）：6 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },

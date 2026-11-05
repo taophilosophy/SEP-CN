@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 16:50（UTC）
+生成时间：2026-11-05 17:37（UTC）
 
 ## 总览
 
@@ -24,10 +24,10 @@
 |---|---|
 |pending|632|
 |cleared|184|
-|drafted|3|
+|drafted|2|
 |s1_checked|1|
 |s2_checked|1|
-|s3_checked|88|
+|s3_checked|89|
 |r1_reviewed|4|
 |done|86|
 
@@ -194,7 +194,7 @@
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|duhem|retranslate|drafted|LQ-main-20261106 2026-11-05|
+|duhem|retranslate|s3_checked|? 2026-11-05|
 |economic-democracy|retranslate|s3_checked|? 2026-11-04|
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |elias|retranslate|s3_checked|main 2026-11-01|
