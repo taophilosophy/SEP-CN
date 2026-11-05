@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 16:30（UTC）
+生成时间：2026-11-05 16:50（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|998|
+|已建任务|999|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|86|
-|在途（drafted 起、done 前）|280|
+|在途（drafted 起、done 前）|281|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,10 +23,11 @@
 |状态|数量|
 |---|---|
 |pending|632|
-|cleared|185|
-|drafted|2|
-|s1_checked|2|
-|s3_checked|87|
+|cleared|184|
+|drafted|3|
+|s1_checked|1|
+|s2_checked|1|
+|s3_checked|88|
 |r1_reviewed|4|
 |done|86|
 
@@ -51,7 +52,7 @@
 |O|21|21|1|0|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|10|5|
+|R|85|85|11|5|
 |S|161|161|6|1|
 |T|71|71|2|0|
 |U|4|4|0|0|
@@ -193,7 +194,7 @@
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|duhem|retranslate|cleared|task_ops 2026-11-01|
+|duhem|retranslate|drafted|LQ-main-20261106 2026-11-05|
 |economic-democracy|retranslate|s3_checked|? 2026-11-04|
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |elias|retranslate|s3_checked|main 2026-11-01|
@@ -318,7 +319,7 @@
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
 |kierkegaard|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-acquaindescrip|retranslate|cleared|task_ops 2026-11-01|
-|knowledge-analysis|retranslate|cleared|task_ops 2026-11-01|
+|knowledge-analysis|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-value|retranslate|cleared|task_ops 2026-11-01|
 |korean-buddhism|retranslate|s3_checked|AK-main-20261105 2026-11-05|
@@ -342,6 +343,7 @@
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|logic-provability|retranslate|s1_checked|LQ-main-20261105 2026-11-05|
+|logic-provability|retranslate|s2_checked|LQ-main-20261105 2026-11-05|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
+|redistribution|retranslate|cleared|task_ops 2026-11-05|
