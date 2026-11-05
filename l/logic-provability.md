@@ -51,13 +51,13 @@ $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow
 
 至于可证性逻辑的 **证明论**，Valentini（1983）证明 GL 的一个标准相继式演算表述服从 **切割消除**。粗略地说，这意味着每个在相继式演算中从 GL 可证的公式都有一个“无绕行”的 GL 相继式证明（切割消除的精确解释见证明论之发展词条）。近年，GL 的证明论重新受到关注，例如 Goré 与 Ramanayake（2008, 2012）以及 Goré、Ramanayake 与 Shillito（2021）。切割消除为 GL 带来理想的 **子公式性质**：无切割证明中出现的所有公式都是末端相继式公式的子公式。
 
-关于可证性逻辑基于不同无切割相继式演算的晚近证明论研究，见（Negri 2005, 2014; Poggiolesi 2009）[^negri-2005][^poggiolesi-2009]。Negri 给出 GL 的两个等价带标记相继式演算与切割消除的语法证明。尽管因标记的缘故，这些演算不满足完整的子公式性质，其惯常推论仍可确立：带标记的形式体系允许直接完全性证明，可用于确立可判定性与有穷模型性质；也就是说，任何不可证的公式都有一个 **有穷** 反模型。
+关于基于不同无切割相继式演算的可证性逻辑的晚近证明论研究，见（Negri 2005, 2014; Poggiolesi 2009）[^negri-2005][^poggiolesi-2009]。Negri 给出 GL 的两个等价带标记相继式演算与切割消除的语法证明。尽管因标记的缘故，这些演算不满足完整的子公式性质，其惯常推论仍可确立：带标记的形式体系允许直接完全性证明，可用于确立可判定性与有穷模型性质；也就是说，任何不可证的公式都有一个 **有穷** 反模型。
 
-一个引人入胜的证明论新进展是 Shamkanov 对相继式式证明系统的扩充——允许 **循环证明**（Shamkanov 2014）[^shamkanov-2014]。考虑 K4 的一个相继式系统：K4 是把 GL 的公理换成较弱的公理 $\Box A \rightarrow \Box\Box A$（公理 4）所得的模态系统。但假设允许开放假设，只要同一相继式在证明树中严格低于该假设处出现。更技术性地说：把普通推导树中每个非公理叶子与一个相同的内部节点相连，即可得到循环推导。Shamkanov（2014）证明所得系统一致，而且一般地，每个相继式有 GL 推导当且仅当它有循环 K4 推导。循环证明也提供一种方法，证明式地表明 Lyndon 插值定理对 GL 成立（Shamkanov 2011）[^shamkanov-2011]。GL 的标准插值此前已用不同方法证明（Boolos 1979; Smoryński 1978; Rautenberg 1983）[^boolos-1979][^rautenberg-1983][^smoryński-1978]，一致插值亦然（Shavrukov 1993b, Bílková 2016, Férée et al. [Other Internet Resources]）[^bílková-2016][^shavrukov-1993b]。（关于一阶逻辑的 Lyndon 插值定理的更多信息，另见一阶模型理论词条。）
+一个引人入胜的证明论新进展是 Shamkanov 对相继式型证明系统的扩充——允许 **循环证明**（Shamkanov 2014）[^shamkanov-2014]。考虑 K4 的一个相继式系统：K4 是把 GL 的公理换成较弱的公理 $\Box A \rightarrow \Box\Box A$（公理 4）所得的模态系统。但设想允许开放假设，只要同一相继式在证明树中严格低于该假设处出现。更技术性地说：把普通推导树中每个非公理叶子与一个相同的内部节点相连，即可得到循环推导。Shamkanov（2014）证明所得系统一致，而且一般地，每个相继式有 GL 推导当且仅当它有循环 K4 推导。循环证明也提供一种方法，证明式地表明 Lyndon 插值定理对 GL 成立（Shamkanov 2011）[^shamkanov-2011]。GL 的标准插值此前已用不同方法证明（Boolos 1979; Smoryński 1978; Rautenberg 1983）[^boolos-1979][^rautenberg-1983][^smoryński-1978]，一致插值亦然（Shavrukov 1993b, Bílková 2016, Férée et al. [Other Internet Resources]）[^bílková-2016][^shavrukov-1993b]。（关于一阶逻辑的 Lyndon 插值定理的更多信息，另见一阶模型理论词条。）
 
 ### 2.2 不动点定理
 
-关于可证性逻辑的主要“模态”结果是不动点定理，由 D. de Jongh 与 G. Sambin 于 1975 年独立证明（Sambin 1976, Smoryński 1985, de Jongh forthcoming）[^smoryński-1985][^sambin-1976]。尽管它以严格的模态方法表述并证明，不动点定理仍有重大的算术意义。其要旨是：在如下意义上，自指其实并不必要。假设给定公式 $A(p)$ 中命题变元 $p$ 的一切出现都在可证性算子的辖域内，例如 $A(p) = \neg\Box p$，或 $A(p) = \Box(p \rightarrow q)$。那么存在一个不含 $p$ 的公式 $B$，使得 $B$ 中出现的所有命题变量都已出现于 $A(p),$ 中，且
+关于可证性逻辑的主要“模态”结果是不动点定理，由 D. de Jongh 与 G. Sambin 于 1975 年独立证明（Sambin 1976, Smoryński 1985, de Jongh forthcoming）[^smoryński-1985][^sambin-1976]。尽管它以严格的模态方法表述并证明，不动点定理仍有重大的算术意义。其要旨是：在如下意义上，自指其实并不必要。假设给定公式 $A(p)$ 中命题变元 $p$ 的一切出现都在可证性算子的辖域内，例如 $A(p) = \neg\Box p$，或 $A(p) = \Box(p \rightarrow q)$。那么存在一个不含 $p$ 的公式 $B$，使得 $B$ 中出现的所有命题变量都已出现于 $A(p)$ 中，且
 
 $$ \GL \vdash B \leftrightarrow A(B). $$
 
@@ -89,11 +89,11 @@ $$ M,w \models \Box A \text{ iff for every } w', \text{ if } wRw', \text{ then }
 
 ### 3.2 模态完全性
 
-GL 的算术意义尚无人知晓时，K. Segerberg 就于 1971 年证明 GL 相对于传递逆良基框架确实完全；D. de Jongh 与 S. Kripke 也独立证明了这一结果。Segerberg 甚至证明 GL 相对于更受限的类——有穷传递非自反树——也完全；这一事实后来证明对 Solovay 的算术完全性定理之证明非常有用（见第 4 节）。
+GL 的算术意义尚无人知晓时，K. Segerberg 就于 1971 年证明 GL 相对于传递逆良基框架确实完全；D. de Jongh 与 S. Kripke 也独立证明了这一结果。Segerberg 甚至证明 GL 相对于更受限的类——有穷传递非自反树——也完全；这一事实后来证明对 Solovay 算术完全性定理的证明非常有用（见第 4 节）。
 
-模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，即可对任意模态公式 $A$ 检查 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 **PSPACE-完全的**：PSPACE 中所有其他问题都不难于判定给定公式是否为 GL 的定理。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
+模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，即可对任意模态公式 $A$ 检查 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 **PSPACE-完全的**：PSPACE 中所有其他问题都不比判定给定公式是否为 GL 的定理更难。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
 
-为给复杂性一些透视：P 类——可在输入长度的多项式时间内计算的函数之类——包含于 PSPACE，而 PSPACE 又包含于 EXPTIME 类——可在指数时间内计算的函数之类（见可计算性与复杂性词条）。这两个包含关系是否为真包含，仍是著名的未决问题，尽管许多复杂性理论家相信如此。另一些著名模态逻辑——如有共同知识的认知逻辑——在 EXPTIME 中可判定，因此它们可能比 GL 更复杂，取决于这些未决问题。
+为给复杂性一个参照系：P 类——可在输入长度的多项式时间内计算的函数之类——包含于 PSPACE，而 PSPACE 又包含于 EXPTIME 类——可在指数时间内计算的函数之类（见可计算性与复杂性词条）。这两个包含关系是否为真包含，仍是著名的未决问题，尽管许多复杂性理论家相信如此。另一些著名模态逻辑——如有共同知识的认知逻辑——在 EXPTIME 中可判定，因此它们可能比 GL 更复杂，取决于这些未决问题。
 
 ### 3.3 强完全性的失效
 
@@ -139,7 +139,7 @@ $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \B
 
 $$ \text{If } \GL \vdash A, \text{then for all realizations } f, \PA \vdash f(A).$$
 
-为给元数学一点滋味，让我们概述可靠性证明。
+为略尝元数学滋味，让我们概述可靠性证明。
 
 **算术可靠性证明概述**。PA 确实证明命题重言式的实现，而 GL 分配公理的可证性翻译为
 
@@ -199,7 +199,7 @@ $$ \PA \vdash A, $$
 
 $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
 
-这一定理的要旨是：模态逻辑 GL 捕捉了皮亚诺算术能以模态术语就其自身可证性谓词真实说出的一切。从左到右的方向——GL 的算术可靠性——已在上文讨论。Solovay 以逆否的方式着手证明另一个艰巨得多的方向。他的证明基于精巧的自指技术，这里只能窥豹一斑。
+这一定理的要旨是：模态逻辑 GL 捕捉了皮亚诺算术能以模态术语就其自身可证性谓词真实说出的一切。从左到右的方向——GL 的算术可靠性——已在上文讨论。Solovay 以逆否的方式着手证明另一个困难得多的方向。他的证明基于精巧的自指技术，这里只能窥豹一斑。
 
 Segerberg 的模态完全性定理是 Solovay 证明 GL 相对于皮亚诺算术之算术完全性的重要第一步。假设 GL 不证明模态公式 $A$。那么由模态完全性，存在一棵有穷传递非自反树，使 $A$ 在该树的根处为假。Solovay 设计精巧的方式，在皮亚诺算术的语言中模拟这样一棵有穷树。于是他找到一个从模态公式到算术句子的实现 $f$，使得皮亚诺算术不证明 $f(A)$。
 
@@ -280,7 +280,7 @@ GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于�
 - 可证性逻辑的分类（见 Visser 1980, Artemov 1985b, Beklemishev 1989, Beklemishev et al. 1999）[^artemov-1985b][^beklemishev-1989][^beklemishev-1999][^beklemishev-1999-2][^visser-1980]；
 - Rosser 序与证明加速（见 Guaspari and Solovay 1979, Švejdar 1983, Montagna 1992）[^guaspari-1979][^montagna-1992]；
 - 若干种双模可证性逻辑，带不同理论的可证性算子（见 Carlson 1986; Smoryński 1985; Beklemishev 1994, 1996; Visser 1995）[^smoryński-1985][^beklemishev-1994][^carlson-1986][^visser-1995]；
-- 标准可证性结合以外部枚举 PA 的异常可证性谓词的可证性逻辑，如 Feferman 与 Parikh 的可证性谓词及慢可证性谓词（见 Feferman 1960; Parikh 1971; Montagna 1978; Visser 1989; Carbone and Montagna 1990; Shavrukov 1994; Lindström 1994, 2006; Henk and Pakhomov 2016 (Other Internet Resources)）；
+- 以标准可证性与外部枚举 PA 的异常可证性谓词相结合的可证性逻辑，如 Feferman 与 Parikh 的可证性谓词及慢可证性谓词（见 Feferman 1960; Parikh 1971; Montagna 1978; Visser 1989; Carbone and Montagna 1990; Shavrukov 1994; Lindström 1994, 2006; Henk and Pakhomov 2016 (Other Internet Resources)）；
 - 用可证性逻辑与可解释性逻辑分析哥德尔第二不完备性定理（Visser 2016; 2020）[^visser-2016]；
 - 显式证明的逻辑（见 Artemov 1994, 2001; Artemov and Montagna 1994; Yavorskaya 2001; Artemov and Iemhoff 2007; Kuznets and Studer 2019）[^artemov-1994][^artemov-2007][^artemov-1994-2][^kuznets-2019][^yavorskaya-2001]；
 - 可证性逻辑与证成逻辑之间的对应（见 Artemov and Nogina 2005; Shamkanov 2016 (Other Internet Resources); Fitting 2020）；
@@ -296,7 +296,7 @@ GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于�
 
 ## 6 哲学意义
 
-尽管命题可证性逻辑是一个带某种“必然性”算子的模态逻辑，它顶住了 Quine（1976）对模态概念不可理解的争议性批评——这已经是因为它有清晰无歧义的算术解释。例如，与许多其他模态逻辑不同，带嵌套模态词的公式如 $\Box\Diamond p \rightarrow \Box\bot$ 并无问题，也不存在关于哪些应为重言式的争论。事实上，可证性逻辑体现了 Quine（1953）为模态的语法处理设定的一切期望。
+尽管命题可证性逻辑是一个带某种“必然性”算子的模态逻辑，它顶住了 Quine（1976）对模态概念不可理解的争议性批评——这至少是因为它有清晰无歧义的算术解释。例如，与许多其他模态逻辑不同，带嵌套模态词的公式如 $\Box\Diamond p \rightarrow \Box\bot$ 并无问题，也不存在关于哪些应为重言式的争论。事实上，可证性逻辑体现了 Quine（1953）为模态的语法处理设定的一切期望。
 
 Quine 的主要矛头指向模态谓词逻辑，尤其是构造在量词辖域内含模态算子的句子（“量化入内”）。然而在谓词可证性逻辑中，量词取值于自然数，无论 *de dicto* 还是 *de re* 模态词都有直截了当的解释——与其他模态逻辑的情形相反（见 *de dicto*／*de re* 区分之注）。例如，形如
 
@@ -623,7 +623,7 @@ $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
 
 ## 相关词条
 
-基于逻辑的人工智能 | 可计算性与复杂度 | 柯里悖论 | 菲奇的可知性悖论 | 库尔特·哥德尔 | 哥德尔不完备定理 | 希尔伯特计划 | 逻辑史：现代模态逻辑的起源 | 经典逻辑 | 认知逻辑 | 直觉主义逻辑 | 确证逻辑 | 模态逻辑 | 相干逻辑 | 数学哲学 | 构造数学 | 模型论 | 可能世界 | 《数学原理》 | 证明论的发展 | 威拉德·冯·奥曼·蒯因 | 自我指涉 | 大基数与独立性 | 艾伦·图灵
+基于逻辑的人工智能 | 可计算性与复杂度 | 柯里悖论 | 菲奇的可知性悖论 | 库尔特·哥德尔 | 哥德尔不完备定理 | 希尔伯特计划 | 现代模态逻辑的起源 | 经典逻辑 | 认知逻辑 | 直觉主义逻辑 | 确证逻辑 | 模态逻辑 | 相干逻辑 | 数学哲学 | 构造数学 | 模型论 | 可能世界 | 《数学原理》 | 证明论的发展 | 威拉德·冯·奥曼·蒯因 | 自我指涉 | 大基数与独立性 | 艾伦·图灵
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
