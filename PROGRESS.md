@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 17:37（UTC）
+生成时间：2026-11-05 18:28（UTC）
 
 ## 总览
 
@@ -23,11 +23,10 @@
 |状态|数量|
 |---|---|
 |pending|632|
-|cleared|184|
+|cleared|181|
 |drafted|2|
 |s1_checked|1|
-|s2_checked|1|
-|s3_checked|89|
+|s3_checked|93|
 |r1_reviewed|4|
 |done|86|
 
@@ -87,7 +86,7 @@
 |al-farabi-metaphysics|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
-|al-qudat|retranslate|cleared|task_ops 2026-10-31|
+|al-qudat|retranslate|s3_checked|? 2026-11-05|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |albert-great|retranslate|cleared|task_ops 2026-10-31|
 |albert-saxony|retranslate|s3_checked|main-session 2026-11-01|
@@ -310,7 +309,7 @@
 |kant-hume-morality|retranslate|cleared|task_ops 2026-11-01|
 |kant-judgment|retranslate|cleared|task_ops 2026-11-01|
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
-|kant-reason|retranslate|cleared|task_ops 2026-11-01|
+|kant-reason|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kant-religion|retranslate|cleared|task_ops 2026-11-01|
 |kant-science|retranslate|s3_checked|AK-main-20261105 2026-11-04|
 |kant-social-political|retranslate|s3_checked|AK-main-20261105 2026-11-04|
@@ -324,7 +323,7 @@
 |knowledge-value|retranslate|cleared|task_ops 2026-11-01|
 |korean-buddhism|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |korean-confucianism|retranslate|cleared|task_ops 2026-11-01|
-|korean-philosophy|retranslate|cleared|task_ops 2026-11-01|
+|korean-philosophy|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kumaarila|retranslate|cleared|task_ops 2026-11-01|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
@@ -343,7 +342,7 @@
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|logic-provability|retranslate|s2_checked|LQ-main-20261105 2026-11-05|
+|logic-provability|retranslate|s3_checked|LQ-main-20261106 2026-11-05|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |redistribution|retranslate|cleared|task_ops 2026-11-05|
