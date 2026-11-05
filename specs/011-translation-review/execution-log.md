@@ -159,3 +159,8 @@
 
 * 深读累计 **36 条全 pass**（B 批收口：butler-moral 收尾——B 批全部完成：basing-epistemic/bauer/bayle(f-k 完成跳过)/binarium/boethius-dacia/boethius/boolalg-math/bradley/brouwer/buddha/buddhism-huayan/butler-moral 全覆盖）。
 * 门禁 7/7 全绿。下一接力：C 批 26 条（causation-medieval 起，certainty/consciousness-17th/critical-thinking 等已由 f-k 完成部分收口，深读仍按清单滚动）。
+
+## 2026-11-05 深读滚动续十（C 批推进）
+
+* 深读累计 **39 条全 pass**（+causation-medieval 实修 L59 交叉星、certainty、children——C 批推进 3 条）。
+* 门禁 7/7 全绿保持。下一接力：conceptual-art 起（c/conceptual-art 310 行，f-k 已完成收口，深读按清单滚动）。
