@@ -2,7 +2,7 @@
   "slug": "duhem",
   "kind": "retranslate",
   "zh_doc": "d/duhem.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "LQ-main-20261106",
       "at": "2026-11-05T16:43:28Z",
       "evidence": "上会话 LQ-main-20261105 直译成稿（d/duhem.md +301 行全篇新译，对照源 302 段），状态机未推进即中断；本会话核实基线 hash_ok、门禁 7/7 绿后补登记 draft；后续按 011 复核流程走 s1 深读复核"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T17:13:48Z",
+      "evidence": "逐节对照源钉（pubinfo Feb 13 2026）：段落 65:65 全对齐，内联脚注标记零缺失零多余，相关词条 23 项按 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T17:13:48Z",
+      "evidence": "check_prose 86→81：实修 11（weak 6/as-one 1/italic-CJK 3/leftover 4/长句拆分 2），余 81 豁免留痕：44 de-chain 科学史定语，28 long 为 70-113 区间论证句（含多段法文/英文引文回译），5 passive 为中文自然被字句，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T17:13:52Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 81 豁免留痕见 s2；人名 10 条登记（迪昂/穆捷/李普曼/贝特洛/维凯尔/米约/勒鲁瓦/维尔布瓦/布隆代尔/约尔丹努斯）"
     }
   ],
   "blockers": [],

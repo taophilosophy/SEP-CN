@@ -164,11 +164,6 @@
 
 **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**
 
-## 脚注
-
-[^duhem-nd]: 迪昂常常先以期刊文章的形式连载发表其主要著作——如《J. 克拉克·麦克斯韦的电理论》《力学的演化》《静力学起源》《物理理论：其对象与结构》——分别刊于《布鲁塞尔科学学会年鉴》《纯科学与应用科学总论》《科学问题评论》《哲学评论》等期刊。
-
-
 [^duhem-nd]: Duhem often first published his main works, such as *Les théories électriques de J. Clerk Maxwell*, *L’évolution de la mécanique*, *Les origines de la statique*, *La théorie physique*, *son objet et sa structure*, serially as articles in such journals as *Annales de la de la Société scientifique de Bruxelles*, *Revue Générale des Sciences pures et appliquées*, *Revue des Questions Scientifiques*, *Revue de Philosophie*, respectively.
 
 [^ariew-1984]: Ariew, Roger, 1984, “The Duhem Thesis,” *British Journal for the Philosophy of Science*, 35: 313–25.
