@@ -1,29 +1,43 @@
 {
- "slug": "reid-memory-identity",
- "kind": "retranslate",
- "zh_doc": "r/reid-memory-identity.md",
- "state": "cleared",
- "steps": [
-  {
-   "step": "direction",
-   "status": "ok",
-   "actor": "RZ-main-20261104",
-   "at": "2026-11-04T21:31:20Z",
-   "evidence": "方向声明（rules/08）：r 批第 5 件 reid-memory-identity（68KB）。目标：六道全过同验收判据；工具链复用 build_*.py+组装器+rz_postfix（含别名行判定/slug 精确优先/姓,名换序三升级）。非目标同前件。同时作为 religious-experience r2 复核期间的冷置任务。"
-  },
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-04T21:31:20Z",
-   "evidence": "baseline gate: hash_ok"
+  "slug": "reid-memory-identity",
+  "kind": "retranslate",
+  "zh_doc": "r/reid-memory-identity.md",
+  "state": "s1_checked",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-04T21:31:20Z",
+      "evidence": "方向声明（rules/08）：r 批第 5 件 reid-memory-identity（68KB）。目标：六道全过同验收判据；工具链复用 build_*.py+组装器+rz_postfix（含别名行判定/slug 精确优先/姓,名换序三升级）。非目标同前件。同时作为 religious-experience r2 复核期间的冷置任务。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-04T21:31:20Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T15:29:56Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译，分批落盘）：61 段（body=58+oir=1+note=2，biblio 29 条照录）→build_rm_p1-p3 三批双版（每批 commit：段 1-16 仓库模型批判/17-32 直接实在论/33-61 反对洛克+简单不可分析）→build_rm.py 组装器守恒自检 HARD=0（软旗 40）→compose 18039 字符→rz_postfix（H1 空行+相关词条 7/7）→italic_to_bold 21 行；术语体系：情景/语义/程序记忆（学界通行）、先前觉知条件、领会/相识/构想（Reid 三层）、M-信念式构想—信念结构、事实性补足语；占位词事故两轮拦截（commitment 残留 6 处 grep 清零）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T15:29:56Z",
+      "evidence": "s1 一校：61 段数字多集合逐段比对 0 差异；脚注键闭环——正文 31 唯一键↔31 定义（差集 {key} 系 References 说明行字面 [^key] 标记，非真引用，reasoning-analogy r2 同例）；check_terms 硬错误 0；相关词条 7/7 对齐 SUMMARY（personal identity: and ethics→人格同一性与伦理学 补齐）；术语落地：人格同一性（SUMMARY 既定形）/勇敢军官案例/对误认免疫/束论/单子/分离论"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-04T21:31:20Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 7, 2024",
+    "archive_edition": "Summer 2026",
+    "sha256": "f675fe971397c1d672fe6afe015c4fa48c8d859724b14ee029c1a9c9685a6ad7"
   }
- ],
- "blockers": [],
- "created_at": "2026-11-04T21:31:20Z",
- "version_pin": {
-  "pubinfo_date": "Nov 7, 2024",
-  "archive_edition": "Summer 2026",
-  "sha256": "f675fe971397c1d672fe6afe015c4fa48c8d859724b14ee029c1a9c9685a6ad7"
- }
 }
