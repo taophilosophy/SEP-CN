@@ -2,7 +2,7 @@
   "slug": "albert-saxony",
   "kind": "retranslate",
   "zh_doc": "a/albert-saxony.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "main-session",
       "at": "2026-11-01T17:35:51Z",
       "evidence": "子代理补译产出，主会话收口"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T19:56:40Z",
+      "evidence": "独立初审（接管会话，非初译 actor——原条目为子代理产出）：yuanwen 全文回读对照，31 段逐段核验无漏译/错译/事实错误；忠实性实修 10 处（依赖奥卡姆的逻辑学补全、connotative 涵指性对齐、virtus impressa 施加的力、mean speed theorem 平均速度定理、承取→接续、上帝绝对权能等）+子标题双语化对齐 democritus 形态；prose 实修 3（们/weak-verb×2），余 22 豁免（中世纪逻辑术语性定语 de-chain 11、suppositio 理论长句 10）。结构守恒（撇号归一化）：段落 31:31、年份 19:19 序列一致、marker 0:0（本条正文无脚注，老格式纯书目）、defs 68:68。六检硬错误零。"
     }
   ],
   "blockers": [],
