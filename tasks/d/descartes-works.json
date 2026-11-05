@@ -2,7 +2,7 @@
   "slug": "descartes-works",
   "kind": "retranslate",
   "zh_doc": "d/descartes-works.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "r1-reviewer",
       "at": "2026-11-01T10:35:22Z",
       "evidence": "独立初审：三检查器全绿（学术 0 硬错误/风格 0 issues/数学 missing、unbalanced 均空），抽检 10 段无漏译/错译/事实错误/残留英文"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T19:29:24Z",
+      "evidence": "独立复审（接管会话，非初译 actor）：yuanwen 逐句回核 5 节。忠实性实修 12 处——Order of Minims 最小修会成员→最小兄弟会修士、落入之手→传到手中（褒贬中化）、和声理论句主语错位重构、simple income 简单收入→微薄进项、named the father→记为生父、persona 面具人格→叙述角色、普法尔茨的伊丽莎白对齐登记册正形（初译波希米亚）、significance great indeed 冗余化简、feared 句关系从句重构、500 与 504 数字体例对齐、committed to 承诺于→坚持、若干欧化与指代理顺。prose 实修 19 处（长句句号化 5/de-chain 9/passive 消解 3/weak-verb 2），余 7 处按 ADR-0020 豁免：冒号列举 2、插入语结构 2、自然被动 1、括注挂载 2。结构守恒（撇号归一化）：段落 32:32、年份 91:91 序列一致、marker 1:1、defs 60:60。六检全绿。人名补登 38 行（含 Descartes/Kant/Hobbes/Mersenne 基石名与笛卡尔家人名）、术语补登 3 行（plenum 充实/mode 样态/诘难与答辩）同批。"
     }
   ],
   "blockers": [],

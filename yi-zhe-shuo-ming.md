@@ -1163,3 +1163,6 @@
 | sunkrisis | 结合 | democritus | 学界通行（原子聚合体；普鲁塔克记载之争词） | 2026-11-06 |
 | yielding（虚空） | 让与 | democritus | 学界通行（虚空本性，与原子相互抵抗相对；r2 改定，初译“让开”） | 2026-11-06 |
 | qualia | 感受质 | democritus | 学界通行（现象意识性质；现代心灵哲学术语沿用） | 2026-11-06 |
+| plenum | 充实 | descartes-works | 学界通行（笛卡尔物理学术语，无真空的充满空间） | 2026-11-06 |
+| mode | 样态 | descartes-works | 学界通行（近代形而上学核心术语，实体的限定方式） | 2026-11-06 |
+| Objections and Replies | 诘难与答辩 | descartes-works | 学界通行（《沉思集》附录通行名，商务汉译名著同） | 2026-11-06 |

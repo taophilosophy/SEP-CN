@@ -155,10 +155,10 @@
 | Melissus | 麦里梭 | leucippus | 学界通行汉译（爱利亚学派）；待 specs/008 审定库复核 | 2026-11-03 |
 | Antoine Le Grand | 安托万·勒·格兰德 | legrand | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Mill, Harriet Taylor | 哈丽雅特·泰勒·密尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
-| Müller, Johannes | 约翰内斯·缪勒（亦作『米勒』） | 语料回收（molyneux-problem 首译） | 学界通行汉译（德国生理学家，神经特殊能量定律提出者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Müller, Johannes | 约翰内斯·缪勒（亦作“米勒”） | 语料回收（molyneux-problem 首译） | 学界通行汉译（德国生理学家，神经特殊能量定律提出者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Oresme, Nicole | 妮可·奥雷斯姆 | duhem | 学界惯例（中世纪哲学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Papini, Giovanni | 帕皮尼 | duhem | 学界惯例（意大利哲学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
-| Philoponus, John | 菲洛波努斯 | duhem | 学界惯例（古典晚期哲学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Philoponus, John | 菲洛波努斯（亦作“菲洛波诺斯”） | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
 | Picard, Emile | 埃米尔·皮卡尔 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Samuel Parker | 塞缪尔·帕克 | legrand | 学界通行汉译（英格兰国教会主教，笛卡尔批评者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Reid, Thomas | 托马斯·里德 | SUMMARY 定名（r/reid.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -960,7 +960,6 @@
 | Melissus | 墨利索斯 | democritus | 学界千年通行（爱利亚学派成员） | 2026-11-06 |
 | Mourelatos, Alexander P.D. | 穆雷拉托斯 | democritus | 学界通行（前苏格拉底研究名家） | 2026-11-06 |
 | O'Keefe, Tim | 奥基夫 | democritus | 学界通行（原子论与伊壁鸠鲁研究者） | 2026-11-06 |
-| Philoponus | 菲洛波诺斯 | democritus | 学界千年通行（晚期希腊注疏家；旧演示轮“待裁定”名录按实践裁定落地） | 2026-11-06 |
 | Sandbach, F.H. | 桑德巴赫 | democritus | 学界通例（古典学者，斯多亚残篇编者） | 2026-11-06 |
 | Schofield, Malcolm | 斯科菲尔德 | democritus | 学界通行（剑桥前苏格拉底研究名家） | 2026-11-06 |
 | Sedley, David | 塞德利 | democritus | 学界通行（剑桥古代哲学名家） | 2026-11-06 |
@@ -969,6 +968,44 @@
 | Taylor, C.C.W. | C.C.W. 泰勒 | democritus | 学界惯例（原子论译注名家；名缩写保留） | 2026-11-06 |
 | Wardy, Robert | 沃迪 | democritus | 学界通行（《几何之壮丽》作者） | 2026-11-06 |
 | Zeno of Elea | 埃利亚的芝诺 | democritus | 学界千年通行（埃利亚学派悖论家；与季蒂昂的塞诺异人；r2 改定，初译“爱利亚”） | 2026-11-06 |
+| Armogathe, Jean-Robert | 让-罗贝尔·阿尔莫加特 | descartes-works | 音译（笛卡尔研究中心，巴黎天主教大学） | 2026-11-06 |
+| Arnauld, Antoine | 安托万·阿尔诺 | descartes-works | 学界通行汉译（《波尔罗亚尔逻辑》作者之一，笛卡尔诘难人） | 2026-11-06 |
+| Baillet, Adrien | 巴耶 | descartes-works | 学界通行（笛卡尔早期传记作者） | 2026-11-06 |
+| Belgioioso, Giulia | 朱莉娅·贝尔焦约索 | descartes-works | 音译（笛卡尔与十七世纪研究中心主任，意人名通例） | 2026-11-06 |
+| Bordin | 博尔丹 | descartes-works | 音译（《沉思集》较晚版诘难人） | 2026-11-06 |
+| Boyer, Carl | 卡尔·博耶 | descartes-works | 学界通行（《数学史》作者） | 2026-11-06 |
+| Boyle, Robert | 罗伯特·玻意耳 | descartes-works | 学界千年通行（波义耳定律；亦作“波义耳”，本条从玻意耳） | 2026-11-06 |
+| Bregy | 布雷吉 | descartes-works | 音译（瑞典宫廷侍臣，笛卡尔晚岁通信人） | 2026-11-06 |
+| Caterus | 卡特鲁斯 | descartes-works | 学界通行（《沉思集》第一组诘难人） | 2026-11-06 |
+| Chanut, Pierre | 沙努 | descartes-works | 学界通行（法国驻瑞典大使，笛卡尔挚友） | 2026-11-06 |
+| Christina, Queen of Sweden | 瑞典的克里斯蒂娜女王 | descartes-works | 学界通行汉译（17 世纪瑞典女王） | 2026-11-06 |
+| Clerselier | 克莱尔塞利耶 | descartes-works | 学界通行（笛卡尔遗稿书信整理者） | 2026-11-06 |
+| Cordemoy | 科尔德穆瓦 | descartes-works | 学界通行（原子论者，笛卡尔派） | 2026-11-06 |
+| Descartes, René | 勒内·笛卡尔 | descartes-works | 学界千年通行（SUMMARY 定名；正文行文用“笛卡尔”） | 2026-11-06 |
+| Dury, John | 约翰·杜里 | descartes-works | 音译（苏格兰教育家，哈特利布通信圈） | 2026-11-06 |
+| Eustachius a Sancto Paulo | 欧斯塔基乌斯 | descartes-works | 学界通行（圣保罗的欧斯塔基乌斯，经院教科书《伦理学四卷》作者） | 2026-11-06 |
+| Francine | 弗朗辛 | descartes-works | 音译（笛卡尔之女） | 2026-11-06 |
+| Garber, Daniel | 丹尼尔·加伯 | descartes-works | 学界通行（早期近代哲学名家） | 2026-11-06 |
+| Gaukroger, Stephen | 高克罗格 | descartes-works | 学界通行（《笛卡尔智识传记》作者） | 2026-11-06 |
+| Halley, Edmond | 埃德蒙·哈雷 | descartes-works | 学界千年通行（哈雷彗星） | 2026-11-06 |
+| Hartlib, Samuel | 塞缪尔·哈特利布 | descartes-works | 音译（17 世纪通信网中枢，学院运动推手） | 2026-11-06 |
+| Helene | 海伦 | descartes-works | 音译（笛卡尔家仆，弗朗辛之母） | 2026-11-06 |
+| Hobbes, Thomas | 托马斯·霍布斯 | descartes-works | 学界千年通行（《利维坦》作者） | 2026-11-06 |
+| Huygens, Constantijn | 康斯坦丁·惠更斯 | descartes-works | 学界通行（诗人外交官，物理学家惠更斯之父） | 2026-11-06 |
+| Kant, Immanuel | 伊曼努尔·康德 | descartes-works | 学界千年通行（德国观念论创立者） | 2026-11-06 |
+| Lipsius | 利普修斯 | descartes-works | 学界通行（尼德兰人文主义者） | 2026-11-06 |
+| Mersenne, Marin | 马兰·梅森 | descartes-works | 学界通行（最小兄弟会修士，梅森素数命名源） | 2026-11-06 |
+| Milton, John | 约翰·弥尔顿 | descartes-works | 学界千年通行（《失乐园》作者） | 2026-11-06 |
+| More, Henry | 亨利·莫尔 | descartes-works | 学界通行（剑桥柏拉图主义者；与托马斯·莫尔异人） | 2026-11-06 |
+| Nelson, Alan | 艾伦·纳尔逊 | descartes-works | 学界通行（理性主义研究者） | 2026-11-06 |
+| Regius | 雷吉乌斯 | descartes-works | 学界通行（亨利·雷吉乌斯，乌得勒支医生，笛卡尔助手） | 2026-11-06 |
+| Reneri, Henry | 亨利·雷内里 | descartes-works | 音译（乌得勒支教授，笛卡尔物理学讲授者） | 2026-11-06 |
+| Rodis-Lewis, Genevieve | 热纳维耶芙·罗迪斯-刘易斯 | descartes-works | 学界通行（笛卡尔传记与伦理研究名家） | 2026-11-06 |
+| Snell, Willebrord | 斯涅耳 | descartes-works | 学界千年通行（斯涅耳定律） | 2026-11-06 |
+| Sorell, Tom | 索雷尔 | descartes-works | 学界通行（笛卡尔研究名家） | 2026-11-06 |
+| Tartaglia | 塔尔塔利亚 | descartes-works | 学界千年通行（文艺复兴数学家，三次方程解法） | 2026-11-06 |
+| Ubaldo | 乌巴尔多 | descartes-works | 学界通行（蒙特的圭多巴尔多，力学先驱；正文以名行文照源） | 2026-11-06 |
+| Voetius, Gisbert | 吉斯伯特·富提乌斯 | descartes-works | 学界通行（乌得勒支神学家，笛卡尔论敌） | 2026-11-06 |
 
 ## 待裁定
 
