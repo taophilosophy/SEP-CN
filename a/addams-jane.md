@@ -130,13 +130,83 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Primary Literature
+### 原始文献（Primary Literature）
 
-#### Books
+#### 著作（Books）
 
-### Selected Secondary Literature
+**[DSE]**
 
-### Biographies
+Addams, Jane. *Democracy and Social Ethics*, 1902; Urbana, IL: University of Illinois Press, 2002.
+
+**[NIP]**
+
+–––. *Newer Ideals of Peace*, 1906; Urbana, IL: University of Illinois Press, 2007.
+
+**[SYC]**
+
+–––. *The Spirit of Youth and the City Streets*, 1909; Urbana, IL: University of Illinois Press, 1972.
+
+**[TYH]**
+
+–––. *Twenty Years at Hull House*, 1910; Urbana, IL: University of Illinois Press, 1990.
+
+**[NCA]**
+
+–––. *A New Conscience and an Ancient Evil*, 1912; Urbana, IL: University of Illinois Press, 2002.
+
+**[LRW]**
+
+–––. *The Long Road of Woman’s Memory*, 1916; Urbana, IL: University of Illinois Press, 2002.
+
+**[PBT]**
+
+–––. *Peace and Bread in Time of War*, 1922; Urbana, IL: University of Illinois Press, 2002.
+
+**[STY]**
+
+–––. *Second Twenty Years at Hull House*, New York: Macmillan, 1930.
+
+**[EBP]**
+
+–––. *The Excellent Becomes the Permanent*, New York: Macmillan, 1932.
+
+**[MFJ]**
+
+–––. *My Friend, Julia Lathrop*, 1935; Urbana, IL: University of Illinois Press, 2004.
+
+**[WH]**
+
+Addams, Jane, Emily G. Balch and Alice Hamilton. *Women at The Hague: The International Congress Of Women And Its Results*, 1915; Urbana, IL: University of Illinois Press, 2003.
+
+**[HHM]**
+
+Residents of Hull-House. *Hull-House Maps and Papers*, 1895; Urbana, IL: University of Illinois Press, 2007.
+
+#### Selected Articles
+
+**[ABI]**
+
+Addams, Jane. “A Belated Industry,” 1896, *American Journal of Sociology*, 1 (5) (March).
+
+**[FSS]**
+
+–––. “A Function of the Social Settlement,” 1899; reprinted in Christopher Lasch (ed.), *The Social Thought of Jane Addams*, Indianapolis: The Bobbs-Merrill Company, Inc., 1965.
+
+**[AML]**
+
+–––. “A Modern Lear,” 1912; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
+
+**[OVS]**
+
+–––. “The Objective Value of the Social Settlement,” 1893; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
+
+**[SNS]**
+
+–––. “The Subjective Necessity for Social Settlements,” 1893; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
+
+### 选编二手文献（Selected Secondary Literature）
+
+### 传记（Biographies）
 
 ## 学术工具
 
@@ -166,10 +236,6 @@
 [^note-1]: 伊利诺伊大学出版社近年重印的亚当斯著作包括：《民主与社会伦理》（2002）、《女性记忆的长路》（2002）、《新的良心与古老的罪恶》（2002）、《我的朋友朱莉娅·拉斯罗普》（2004）、《和平的新理想》（2007）、《战时的和平与面包》（2002），以及与 Emily G. Balch 和 Alice Hamilton 合著的《海牙的妇女：国际妇女大会及其成果》（2003）。
 
 [^abbreviations-nd]: 本文征引的亚当斯主要著作的缩写见方括号内。
-
-[^note-1]: Recent reprints of Addams’ work by the University of Illinois Press include: *Democracy and Social Ethics* (2002), *The Long Road of Woman’s Memory* (2002), *A New Conscience and an Ancient Evil* (2002), *My Friend, Julia Lathrop* (2004), *Newer Ideals of* Peace (2007), Peace *and Bread in Time of War* (2002), and *Women at The Hague: The International Congress Of Women And Its Results* with Emily G. Balch and Alice Hamilton (2003).
-
-[^abbreviations-nd]: Abbreviations of Addams’ principal works referred to in this article appear in brackets.
 
 [^bryan-1860]: Bryan, Mary Lynn McCree, Barbara Bair, and Maree De Angury (eds.), *The Selected Papers of Jane Addams* (Volume 1: Preparing to Lead, 1860–1881), Urbana, IL: University of Illinois Press, 2003.
 
