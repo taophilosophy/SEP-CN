@@ -2,7 +2,7 @@
   "slug": "descartes-ontological",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ontological.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "r1-reviewer",
       "at": "2026-11-01T10:34:21Z",
       "evidence": "独立初审：三检查器全绿，抽检全文各段无漏译/错译/事实错误"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T19:41:46Z",
+      "evidence": "独立复审（接管会话，非初译 actor）：yuanwen 逐句回核 3 节。忠实性实修 27 处——to whose essence alone existence belongs 语序纠译（存在唯独属于其本质）、no less absurd 译反纠正（同样荒谬）、Second Set of Objectors 熟悉者错位补 him、默森→梅森 4 处对齐 Mersenne 通行形、伽森狄→伽桑狄 2 处对齐登记册、hylomorphism 形质论→质形论对齐既有主形、《沉思》→《沉思集》3 处统一、源文 **(** 排版瑕疵清理、proliferate 增殖保留裁定、committed to 承诺于→持、begging the question 尾句重构、as existing 视为作为存在→当作存在的来想、define God into existence 凭定义就使上帝存在等。跨条裁定：Voetius 与 descartes-ethics 既有登记冲突，统一沃埃修斯（descartes-works 译文 8 处回改+登记行来源列更新+富提乌斯重复行删除）。prose 39 处分判：实修 1（进行→展开），余 38 豁免——de-chain 22 全为术语性定语（清晰分明观念/至高完满存在等固定组合）、引文内被动 4、自然被动与哲学陈述被动 6、作出区分/裁决固定搭配 2、破折号冒号结构长句 4。结构守恒（撇号归一化）：段落 70:70、年份 16:16 序列一致、marker 3:3 顺序一致、defs 49:49。六检全绿。人名补登 3（安瑟伦/高尼罗/苏亚雷斯）、术语补登 4（清晰分明知觉/完满性/理性区分/自存性）同批。"
     }
   ],
   "blockers": [],

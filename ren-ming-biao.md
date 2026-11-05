@@ -709,7 +709,7 @@
 | Gibieuf, Guillaume | 纪尧姆·吉比厄夫 | descartes-ideas | 学界惯例（笛卡尔通信者/神学家，通行音译） | 2026-11-05 |
 
 | Zeno (of Citium) | 塞诺（季蒂昂的，斯多亚学派创始人） | descartes-ethics | 学界通行汉译（与埃利亚的芝诺异人） | 2026-11-05 |
-| Voetius, Gijsbert | 吉斯伯特·沃埃修斯 | descartes-ethics | 学界惯例（乌得勒支神学家，通行音译） | 2026-11-05 |
+| Voetius, Gijsbert | 吉斯伯特·沃埃修斯 | descartes-ethics; descartes-works | 学界惯例（乌得勒支神学家，通行音译；descartes-works 侧 r2 对齐，改定初译富提乌斯） | 2026-11-05 |
 | Chanut, Pierre Chanut | 皮埃尔·沙尼 | descartes-ethics | 学界惯例（法国驻瑞典大使，笛卡尔挚友） | 2026-11-05 |
 | Burman, Frans | 弗兰斯·布尔曼 | descartes-ethics | 学界惯例（《与布尔曼谈话录》访问者） | 2026-11-05 |
 | Ausonius, Decimus Magnus | 德西穆斯·马格努斯·奥索尼乌斯 | descartes-ethics | 学界惯例（4 世纪拉丁诗人，通行音译） | 2026-11-05 |
@@ -1005,7 +1005,9 @@
 | Sorell, Tom | 索雷尔 | descartes-works | 学界通行（笛卡尔研究名家） | 2026-11-06 |
 | Tartaglia | 塔尔塔利亚 | descartes-works | 学界千年通行（文艺复兴数学家，三次方程解法） | 2026-11-06 |
 | Ubaldo | 乌巴尔多 | descartes-works | 学界通行（蒙特的圭多巴尔多，力学先驱；正文以名行文照源） | 2026-11-06 |
-| Voetius, Gisbert | 吉斯伯特·富提乌斯 | descartes-works | 学界通行（乌得勒支神学家，笛卡尔论敌） | 2026-11-06 |
+| Anselm of Canterbury | 坎特伯雷的安瑟伦 | descartes-ontological | 学界千年通行（经院哲学之父；正文行文用“安瑟伦”） | 2026-11-06 |
+| Gaunilo | 高尼罗 | descartes-ontological | 学界通行（马尔穆捷修士，安瑟伦同时代批评者） | 2026-11-06 |
+| Suárez, Francisco | 弗朗西斯科·苏亚雷斯 | descartes-ontological | 学界通行（晚期经院哲学集大成者） | 2026-11-06 |
 
 ## 待裁定
 

@@ -1167,3 +1167,7 @@
 | plenum | 充实 | descartes-works | 学界通行（笛卡尔物理学术语，无真空的充满空间） | 2026-11-06 |
 | mode | 样态 | descartes-works | 学界通行（近代形而上学核心术语，实体的限定方式） | 2026-11-06 |
 | Objections and Replies | 诘难与答辩 | descartes-works | 学界通行（《沉思集》附录通行名，商务汉译名著同） | 2026-11-06 |
+| clear and distinct perception | 清晰分明知觉 | descartes-ontological | 学界通行（笛卡尔知识论核心术语；观念作“清晰分明的”） | 2026-11-06 |
+| perfection | 完满性 | descartes-ontological | 学界通行（笛卡尔—经院术语；本体论论证语境） | 2026-11-06 |
+| distinction of reason | 理性区分（理性区别） | descartes-ontological | 学界通行（distinctio rationis 两译名并存，正文照源分用） | 2026-11-06 |
+| aseity | 自存性 | descartes-ontological | 学界通行（a se esse，由自身而存在；神学术语） | 2026-11-06 |
