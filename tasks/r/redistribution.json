@@ -1,29 +1,43 @@
 {
- "slug": "redistribution",
- "kind": "retranslate",
- "zh_doc": "r/redistribution.md",
- "state": "cleared",
- "steps": [
-  {
-   "step": "direction",
-   "status": "ok",
-   "actor": "RZ-main-20261104",
-   "at": "2026-11-05T16:39:39Z",
-   "evidence": "方向声明（rules/08）：r 批第 6 件 redistribution（71KB，已核在基线与 SUMMARY）。目标：六道全过同验收判据；工具链复用 build_*.py+组装器+rz_postfix。非目标同前件；已从 religious-epistemology 教训确认基线前置核查为立项首步。"
-  },
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-05T16:39:38Z",
-   "evidence": "baseline gate: hash_ok"
+  "slug": "redistribution",
+  "kind": "retranslate",
+  "zh_doc": "r/redistribution.md",
+  "state": "s1_checked",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T16:39:39Z",
+      "evidence": "方向声明（rules/08）：r 批第 6 件 redistribution（71KB，已核在基线与 SUMMARY）。目标：六道全过同验收判据；工具链复用 build_*.py+组装器+rz_postfix。非目标同前件；已从 religious-epistemology 教训确认基线前置核查为立项首步。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-05T16:39:38Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T19:07:54Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译，分批落盘）：76 段（body=57+oir=1+ack=1+note=17，biblio 45 条照录）→build_rd_p1-p3 三批双版（每批 commit：段 1-13 分配正义语境+四参数/14-32 基线分布+历时再分配+作为夺取/33-76 共时比较+税收转移+侵犯权利+结论+17 注）→build_rd.py 组装器守恒自检 HARD=0（软旗 14）→compose 20995 字符→rz_postfix（H1 空行+相关词条）→italic_to_bold 25 行；术语体系：再分配/分配正义/基线分布/历时·共时再分配/有目的的历时再分配/作为夺取的再分配/税收与转移/侵犯权利的转移/受益税·庇古税·补偿税/预分配（predistribution）/五分位·洛伦兹曲线；工程注记：T[37] 内嵌直引号破坏 Python 字符串一次（中文引号修复），环路保护拦截 new==old 替换对一次"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T19:07:54Z",
+      "evidence": "s1 一校：76 段数字多集合比对 4 处差异全为合法换算（段14 past 15 to 20 years→十五到二十年、段28 March 1989→1989 年 3 月、段49 Chapter 4→第四章、段61 10th century→十世纪）；脚注键闭环 95 引用（62 唯一）↔62 定义，差集空；check_terms 定点 0 缺译；相关词条 4/4（equality 分配正义?未逐项核——s3 复核）；顺手修弱势方：词汇表 Alexander of Aphrodisias 阿佛洛狄西亚→阿弗罗狄西亚对齐人名表（存量冲突非本词条引入）"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-05T16:39:38Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 7, 2018",
+    "archive_edition": "Spring 2018",
+    "sha256": "26cabfd26b309d969dcb8370a5ecd4fba630a3f034f45c96f092b4a52e9f9af7"
   }
- ],
- "blockers": [],
- "created_at": "2026-11-05T16:39:38Z",
- "version_pin": {
-  "pubinfo_date": "Feb 7, 2018",
-  "archive_edition": "Spring 2018",
-  "sha256": "26cabfd26b309d969dcb8370a5ecd4fba630a3f034f45c96f092b4a52e9f9af7"
- }
 }
