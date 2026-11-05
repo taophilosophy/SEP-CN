@@ -146,3 +146,11 @@
   - **跨学科同名 8 条保留现译**：frame problem（审定"帧面问题"系信息科技）、integrity（"完整性"系档案学）、matter（"物质"系化学工程）、moral law（"道德律"系教育学）、quality（"质量"系农学）、transcendental（"超越的"系代数几何）、universal（"通用的"系航海）、the One（"一"系中华术语工程——普罗提诺传统仍通行"太一"，记分歧）。
   - **学科语境正确的分歧 2 条主形保留、审定异译记入亦作**：intuition（审定"直觉"vs 康德权威译本"直观"）、mind（审定"心智"vs 心灵哲学通行"心灵"）。
 * 工具沉淀：tl_crawler.mjs 断点续爬爬虫（JSONL 增量、幂等去重）；scan/locate 口径统一（等长占位）。
+
+## 2026-11-05 深读滚动续八
+
+* 深读累计 **35 条全 pass**（+boethius-dacia 中段、buddhism-huayan 中段、boethius 前段、boolalg-math、bradley、brouwer 年表、buddha、binarium、bauer、basing-epistemic、african-sage、africana、akan-person、al-farabi-psych、al-khunaji 中段、albalag 中段——B 批主体完成，A/B 两批深读实证覆盖过半）。
+* 术语在线复核轮完成：tl_crawler.mjs 批量爬虫 75 词 0 error；裁定 36✓一致/8 跨学科保留/2 分歧记亦作（intuition 直觉、mind 心智）；核心根词传统译法获审定库佐证。
+* 体例归一：倒装括注 64 处+署名行 6 作者登记+5 行汉化；标题截断 16 条+akan-person 题名主体丢失型；aesthetics-existentialist 英文题名补全。
+* ADR-0019 渲染域清零：内侧空格 398→0（栈解析扫描器双模入库）。
+* B 批实证结论：佛学（abhidharma/buddha/buddhism-huayan 术语一致）、中世纪（binarium/boethius-dacia）、分析传统（basing-epistemic/boolalg-math/bradley）译名体系全部规范；唯残余为 intensional 类型论 4 行（重译域）。
