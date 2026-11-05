@@ -237,7 +237,7 @@ Stewart 后来成为一部巨型丛书的总主编：《克尔凯郭尔研究：
 
 **1854**
 
-《米恩斯特主教是否是"真理的见证"、"真理的真正见证者"之一——这是真理吗？》，S. 克尔凯郭尔，《祖国报》（"Var Biskop Mynster et 'Sandhedsvidne', et af 'de rette Sandhedsvidner', *er dette Sandhed?*"）。《祖国报》上 21 篇文章的第一篇。
+《米恩斯特主教主是否是“真理的见证”、“真理的真正见证者”之一——这是真理吗？》，S. 克尔凯郭尔，《祖国报》（“Var Biskop Mynster et ‘Sandhedsvidne’, et af ‘de rette Sandhedsvidner’, *er dette Sandhed?*”）。《祖国报》上 21 篇文章的第一篇。
 
 **1855**
 
