@@ -3,9 +3,7 @@ slug: logic-provability
 params:
   model: "GLM-5.3-Flash（ZCode 主会话直译）"
   temperature: 0.2
-  batch_segments: all
-  rate_limit_s: 0
-  timeout_s: 60
+  batch_
 segments:
   - id: 1
     kind: body
@@ -63,16 +61,20 @@ segments:
       $$ \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow B\urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ). $$
     step1: |-
       Henkin 则想知道：对于断言自身可证性的句子能说些什么？假设皮亚诺算术证明 $B \leftrightarrow \Prov(\ulcorner B \urcorner)$，这对 $B$ 意味着什么？三年后，M. Löb 接下这一挑战，以令人惊讶的方式回答了 Henkin 的问题。虽然在皮亚诺算术中可证的一切句子关于自然数确实为真，Löb 却证明：这一事实的形式化版本 $\Prov(\ulcorner B \urcorner) \rightarrow B$ 只有在皮亚诺算术本来就证明 $B$ 的平凡情形下才能在皮亚诺算术中得证。这一结果如今称为 Löb 定理，它立即回答了 Henkin 的问题。（Löb 定理的证明见第 4 节。）Löb 还给出了其定理的形式化版本，即皮亚诺算术证明
+
+      $$ \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow B\urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ). $$
     step2: |-
       Henkin 则想知道：对于断言自身可证性的句子能说些什么？假设皮亚诺算术证明 $B \leftrightarrow \Prov(\ulcorner B \urcorner)$，这对 $B$ 意味着什么？三年后，M. Löb 接下这一挑战，以令人惊讶的方式回答了 Henkin 的问题。虽然在皮亚诺算术中可证的一切句子关于自然数确实为真，Löb 却证明：这一事实的形式化版本 $\Prov(\ulcorner B \urcorner) \rightarrow B$ 只有在皮亚诺算术本来就证明 $B$ 的平凡情形下才能在皮亚诺算术中得证。这一结果如今称为 Löb 定理，立即回答了 Henkin 的问题。（Löb 定理的证明见第 4 节。）Löb 还给出其定理的形式化版本，即皮亚诺算术证明
+
+      $$ \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow B\urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ). $$
   - id: 8
     kind: body
     source: |-
       In the same paper, Löb formulated three conditions on the provability predicate of Peano Arithmetic, that form a useful modification of the complicated conditions that Hilbert and Bernays introduced in 1939 for their proof of Gödel’s second incompleteness theorem. In the following, derivability of $A$ from Peano Arithmetic is denoted by $\PA \vdash A$:
     step1: |-
-      In the same paper, Löb formulated three conditions on the provability predicate of Peano Arithmetic, that form a useful modification of the complicated conditions that Hilbert and Bernays introduced in 1939 for their proof of Gödel’s second incompleteness theorem. In the following, derivability of $A$ from Peano Arithmetic is denoted by $\PA \vdash A$:
+      在同一篇论文中，Löb 对皮亚诺算术的可证性谓词表述了三个条件，它们是对 Hilbert 与 Bernays 在 1939 年为证明哥德尔第二不完备性定理而引入的那组复杂条件的一个有用修改。下文中，从皮亚诺算术推出 $A$ 记作 $\PA \vdash A$：
     step2: |-
-      In the same paper, Löb formulated three conditions on the provability predicate of Peano Arithmetic, that form a useful modification of the complicated conditions that Hilbert and Bernays introduced in 1939 for their proof of Gödel’s second incompleteness theorem. In the following, derivability of $A$ from Peano Arithmetic is denoted by $\PA \vdash A$:
+      正是在同一篇论文中，Löb 为皮亚诺算术的可证性谓词表述了三个条件——相较于 Hilbert 与 Bernays 在 1939 年为证明哥德尔第二不完备性定理而引入的那组复杂条件，这是一处有用的修改。下文中，从皮亚诺算术推出 $A$ 记作 $\PA \vdash A$：
   - id: 9
     kind: body
     source: |-
@@ -80,11 +82,11 @@ segments:
       2. $\PA \vdash \Prov(\ulcorner A\rightarrow B\urcorner) \rightarrow ( \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ));$
       3. $\PA \vdash \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner A \urcorner ) \urcorner ).$
     step1: |-
-      1. If $\PA \vdash A$, then $\PA \vdash \Prov(\ulcorner A \urcorner )$;
+      1. 若 $\PA \vdash A$，则 $\PA \vdash \Prov(\ulcorner A \urcorner )$；
       2. $\PA \vdash \Prov(\ulcorner A\rightarrow B\urcorner) \rightarrow ( \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ));$
       3. $\PA \vdash \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner A \urcorner ) \urcorner ).$
     step2: |-
-      1. If $\PA \vdash A$, then $\PA \vdash \Prov(\ulcorner A \urcorner )$;
+      1. 若 $\PA \vdash A$，则 $\PA \vdash \Prov(\ulcorner A \urcorner )$；
       2. $\PA \vdash \Prov(\ulcorner A\rightarrow B\urcorner) \rightarrow ( \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner B \urcorner ));$
       3. $\PA \vdash \Prov(\ulcorner A \urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner A \urcorner ) \urcorner ).$
   - id: 10
@@ -95,8 +97,12 @@ segments:
       $$ \Box(\Box A \rightarrow A) \rightarrow \Box A $$
     step1: |-
       这些如今所谓的 Löb 条件，似乎呼唤一次模态逻辑式的考察，其中模态词 $\Box$ 表示 PA 中的可证性。讽刺的是，Löb 定理的形式化版本第一次作为模态原则
+
+      $$ \Box(\Box A \rightarrow A) \rightarrow \Box A $$
     step2: |-
       这些如今所谓的 Löb 条件，似乎呼唤一次模态逻辑式的考察，其中模态词 $\Box$ 表示 PA 中的可证性。讽刺的是，Löb 定理的形式化版本第一次作为模态原则
+
+      $$ \Box(\Box A \rightarrow A) \rightarrow \Box A $$
   - id: 11
     kind: body
     source: |-
@@ -137,8 +143,12 @@ segments:
       $$\tag{GL} \Box(\Box A \rightarrow A) \rightarrow \Box A. $$
     step1: |-
       命题可证性逻辑常称为 GL，以纪念 Gödel 与 Löb。（文献中见于等价系统的别名有 L、G、KW、K4W 与 PrL。）逻辑 GL 由在基本模态逻辑 K 上添加如下公理而得：
+
+      $$\tag{GL} \Box(\Box A \rightarrow A) \rightarrow \Box A. $$
     step2: |-
       命题可证性逻辑常称为 GL，以纪念 Gödel 与 Löb。（文献中见于等价系统的别名有 L、G、KW、K4W 与 PrL。）逻辑 GL 由在基本模态逻辑 K 上添加如下公理而得：
+
+      $$\tag{GL} \Box(\Box A \rightarrow A) \rightarrow \Box A. $$
   - id: 16
     kind: body
     source: |-
@@ -147,8 +157,12 @@ segments:
       $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow \Box B). $$
     step1: |-
       回顾一下：由于 GL 扩充 K，它包含一切具有命题重言式形式的公式。同理，GL 包含
+
+      $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow \Box B). $$
     step2: |-
       回顾一下：由于 GL 扩充 K，它包含一切具有命题重言式形式的公式。同理，GL 包含
+
+      $$\tag{Distribution Axiom} \Box(A \rightarrow B) \rightarrow (\Box A \rightarrow \Box B). $$
   - id: 17
     kind: body
     source: |-
@@ -213,8 +227,12 @@ segments:
       $$ \GL \vdash B \leftrightarrow A(B). $$
     step1: |-
       关于可证性逻辑的主要“模态”结果是不动点定理，由 D. de Jongh 与 G. Sambin 于 1975 年独立证明（Sambin 1976, Smoryński 1985, de Jongh forthcoming）[^smoryński-1985][^sambin-1976]。尽管它以严格的模态方法表述并证明，不动点定理仍有重大的算术意义。其要旨是：在如下意义上，自指其实并不必要。假设给定公式 $A(p)$ 中命题变元 $p$ 的一切出现都在可证性算子的辖域内，例如 $A(p) = \neg\Box p$，或 $A(p) = \Box(p \rightarrow q)$。那么存在一个不含 $p$ 的公式 $B$，使得 $B$ 中出现的所有命题变量都已出现于 $A(p),$ 中，且
+
+      $$ \GL \vdash B \leftrightarrow A(B). $$
     step2: |-
       关于可证性逻辑的主要“模态”结果是不动点定理，由 D. de Jongh 与 G. Sambin 于 1975 年独立证明（Sambin 1976, Smoryński 1985, de Jongh forthcoming）[^smoryński-1985][^sambin-1976]。尽管它以严格的模态方法表述并证明，不动点定理仍有重大的算术意义。其要旨是：在如下意义上，自指其实并不必要。假设给定公式 $A(p)$ 中命题变元 $p$ 的一切出现都在可证性算子的辖域内，例如 $A(p) = \neg\Box p$，或 $A(p) = \Box(p \rightarrow q)$。那么存在一个不含 $p$ 的公式 $B$，使得 $B$ 中出现的所有命题变量都已出现于 $A(p),$ 中，且
+
+      $$ \GL \vdash B \leftrightarrow A(B). $$
   - id: 25
     kind: body
     source: |-
@@ -231,8 +249,12 @@ segments:
       $$ \GL \vdash \neg\,\Box\bot \leftrightarrow \neg\,\Box(\neg\,\Box\bot). $$
     step1: |-
       例如，设 $A(p) = \neg \, \Box p$。那么由这类算法产生的不动点是 $\neg \, \Box\bot$，而且确实可以证明
+
+      $$ \GL \vdash \neg\,\Box\bot \leftrightarrow \neg\,\Box(\neg\,\Box\bot). $$
     step2: |-
       例如，设 $A(p) = \neg \, \Box p$。那么由这类算法产生的不动点是 $\neg \, \Box\bot$，而且确实可证
+
+      $$ \GL \vdash \neg\,\Box\bot \leftrightarrow \neg\,\Box(\neg\,\Box\bot). $$
   - id: 27
     kind: body
     source: |-
@@ -256,9 +278,13 @@ segments:
 
       $$ M,w \models \Box A \text{ iff for every } w', \text{ if } wRw', \text{ then } M,w' \models A. $$
     step1: |-
-      与许多其他模态逻辑一样，可证性逻辑有合适的可能世界语义。回顾一下：可能世界模型（或 Kripke 模型）是三元组 $M = \langle W,R,V \rangle$，其中 W 是可能世界的非空集合，R 是 W 上的二元可及关系，V 是为 W 中每个世界的每个命题变元赋真值的赋值。偶对 $F = \langle W,R \rangle$ 称为该模型的框架。公式 $A$ 在模型 M 中于世界 W 处为真的概念，记作 $M,w \models A$，按归纳定义。这里只重复最有趣的一条——关于可证性算子 $\Box$ 的条款：
+      与许多其他模态逻辑一样，可证性逻辑有合适的可能世界语义。回顾一下：可能世界模型（或 Kripke 模型）是三元组 $M = \langle W,R,V \rangle$，其中 $W$ 是可能世界的非空集合，$R$ 是 $W$ 上的二元可及关系，$V$ 是为 $W$ 中每个世界的每个命题变元赋真值的赋值。偶对 $F = \langle W,R \rangle$ 称为该模型的框架。公式 $A$ 在模型 $M$ 中于世界 $W$ 处为真的概念，记作 $M,w \models A$，按归纳定义。这里只重复最有趣的一条——关于可证性算子 $\Box$ 的条款：
+
+      $$ M,w \models \Box A \text{ iff for every } w', \text{ if } wRw', \text{ then } M,w' \models A. $$
     step2: |-
-      与许多其他模态逻辑一样，可证性逻辑有合适的可能世界语义。回顾一下：可能世界模型（或 Kripke 模型）是三元组 $M = \langle W,R \rangle$，其中 W 是可能世界的非空集合，R 是 W 上的二元可及关系，V 是为 W 中每个世界的每个命题变元赋真值的赋值。偶对 $F = \langle W,R \rangle$ 称为该模型的框架。公式 $A$ 在模型 M 中于世界 W 处为真的概念，记作 $M,w \models A$，按归纳定义。这里只重复最有趣的一条——关于可证性算子 $\Box$ 的条款：
+      与许多其他模态逻辑一样，可证性逻辑有合适的可能世界语义。回顾一下：可能世界模型（或 Kripke 模型）是三元组 $M = \langle W,R,V \rangle$，其中 $W$ 是可能世界的非空集合，$R$ 是 $W$ 上的二元可及关系，$V$ 是为 $W$ 中每个世界的每个命题变元赋真值的赋值。偶对 $F = \langle W,R \rangle$ 称为该模型的框架。公式 $A$ 在模型 $M$ 中于世界 $W$ 处为真的概念，记作 $M,w \models A$，按归纳定义。这里只重复最有趣的一条——关于可证性算子 $\Box$ 的条款：
+
+      $$ M,w \models \Box A \text{ iff for every } w', \text{ if } wRw', \text{ then } M,w' \models A. $$
   - id: 30
     kind: body
     source: |-
@@ -288,17 +314,17 @@ segments:
     source: |-
       For all frames $F = \langle W,R \rangle, F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ iff $R$ is transitive and conversely well-founded.
     step1: |-
-      对所有框架 $F = \langle W,R \rangle$：$F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ 当且仅当 $R$ 传递且逆良基。
+      对所有框架 $F = \langle W,R \rangle, F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ 当且仅当 $R$ 传递且逆良基。
     step2: |-
-      对所有框架 $F = \langle W,R \rangle$：$F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ 当且仅当 $R$ 传递且逆良基。
+      对所有框架 $F = \langle W,R \rangle, F \models \Box(\Box p \rightarrow p) \rightarrow \Box p$ 当且仅当 $R$ 传递且逆良基。
   - id: 34
     kind: body
     source: |-
       Here, *transitivity* is the well-known property that for all worlds $w_1$, $w_2$, $w_3$ in $W$, if $w_1 Rw_2$ and $w_2 Rw_3$, then $w_1 Rw_3$. A relation is *conversely well-founded* iff there are no infinite ascending sequences, that is sequences of the form $w_1 Rw_2 Rw_3 R \ldots$. Note that conversely well-founded frames are also irreflexive, for if $wRw$, this gives rise to an infinite ascending sequence $wRwRwR\ldots$.
     step1: |-
-      这里*传递性*是众所周知的性质：对 W 中所有世界 $w_1$、$w_2$、$w_3$，若 $w_1 Rw_2$ 且 $w_2 Rw_3$，则 $w_1 Rw_3$。一个关系是*逆良基的*，当且仅当不存在无穷上升序列，即形如 $w_1 Rw_2 Rw_3 R \ldots$ 的序列。注意逆良基框架也是非自反的：因为若 $wRw$，就会产生无穷上升序列 $wRwRwR\ldots$。
+      这里*传递性*是众所周知的性质：对 $W$ 中所有世界 $w_1$、$w_2$、$w_3$，若 $w_1 Rw_2$ 且 $w_2 Rw_3$，则 $w_1 Rw_3$。一个关系是*逆良基的*，当且仅当不存在无穷上升序列，即形如 $w_1 Rw_2 Rw_3 R \ldots$ 的序列。注意逆良基框架也是非自反的：因为若 $wRw$，就会产生无穷上升序列 $wRwRwR\ldots$。
     step2: |-
-      这里*传递性*是众所周知的性质：对 W 中所有世界 $w_1$、$w_2$、$w_3$，若 $w_1 Rw_2$ 且 $w_2 Rw_3$，则 $w_1 Rw_3$。一个关系是*逆良基的*，当且仅当不存在无穷上升序列，即形如 $w_1 Rw_2 Rw_3 R \ldots$ 的序列。注意逆良基框架也非自反：因为若 $wRw$，就会产生无穷上升序列 $wRwRwR\ldots$。
+      这里*传递性*是众所周知的性质：对 $W$ 中所有世界 $w_1$、$w_2$、$w_3$，若 $w_1 Rw_2$ 且 $w_2 Rw_3$，则 $w_1 Rw_3$。一个关系是*逆良基的*，当且仅当不存在无穷上升序列，即形如 $w_1 Rw_2 Rw_3 R \ldots$ 的序列。注意逆良基框架也非自反：因为若 $wRw$，就会产生无穷上升序列 $wRwRwR\ldots$。
   - id: 35
     kind: body
     source: |-
@@ -328,9 +354,9 @@ segments:
     source: |-
       The modal soundness and completeness theorems immediately give rise to a decision procedure to check for any modal formula $A$ whether $A$ follows from GL or not, by depth-first search through irreflexive transitive trees of bounded depth. Looking at the procedure a bit more precisely, it can be shown that GL is decidable in the computational complexity class PSPACE, like the well-known modal logics K, T and S4. This means that there is a Turing machine that, given a formula $A$ as input, answers whether $A$ follows from GL or not; the size of the memory that the Turing machine needs for its computation is only polynomial in the length of $A$. One can show that the decision problem for GL (again, like the decision problems for K, T and S4) is PSPACE-*complete*, in the sense that all other problems in PSPACE are no harder than deciding whether a given formula is a theorem of GL. (See Goré and Kelly 2007 [Other Internet Resources] for the description of an automated theorem prover for GL.)
     step1: |-
-      模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，可检查任意模态公式 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 PSPACE-*完全的*：PSPACE 中所有其他问题都不难于判定给定公式是否为 GL 的定理。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
+      模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，即可对任意模态公式 $A$ 检查 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 PSPACE-*完全的*：PSPACE 中所有其他问题都不难于判定给定公式是否为 GL 的定理。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
     step2: |-
-      模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，可检查任意模态公式 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 PSPACE-*完全的*：PSPACE 中所有其他问题都不难于判定给定公式是否为 GL 的定理。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
+      模态可靠性与完全性定理立即给出一个判定程序：通过在有界深度的非自反传递树中做深度优先搜索，即可对任意模态公式 $A$ 检查 $A$ 是否从 GL 得出。更细致地看这一程序，可以证明 GL 在计算复杂性类 PSPACE 中可判定，一如著名模态逻辑 K、T 与 S4。这意味着存在一台图灵机：给定公式 $A$ 为输入，回答 $A$ 是否从 GL 得出；该图灵机计算所需内存的大小只是 $A$ 长度的多项式。可以证明 GL 的判定问题（再次如同 K、T、S4 的判定问题）是 PSPACE-*完全的*：PSPACE 中所有其他问题都不难于判定给定公式是否为 GL 的定理。（关于 GL 的自动定理证明器的描述，见 Goré and Kelly 2007 [Other Internet Resources]。）
   - id: 39
     kind: body
     source: |-
@@ -403,8 +429,12 @@ segments:
       $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \Box(p_1 \rightarrow \Diamond p_2), \Box(p_2 \rightarrow \Diamond p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \Diamond p_{n+1}), \ldots\} \end{align}$$
     step1: |-
       作为反例，取无穷公式集
+
+      $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \Box(p_1 \rightarrow \Diamond p_2), \Box(p_2 \rightarrow \Diamond p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \Diamond p_{n+1}), \ldots\} \end{align}$$
     step2: |-
       作为反例，取无穷公式集
+
+      $$\begin{align} \Gamma &= \{\Diamond p_0, \Box(p_0 \rightarrow \Diamond p_1), \Box(p_1 \rightarrow \Diamond p_2), \Box(p_2 \rightarrow \Diamond p_3), \ldots, \\ &\qquad\ \Box(p_n \rightarrow \Diamond p_{n+1}), \ldots\} \end{align}$$
   - id: 48
     kind: body
     source: |-
@@ -477,12 +507,12 @@ segments:
       - $\Box$ is translated as the provability predicate $\Prov$, so $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
     step1: |-
       - $f(\bot)=\bot;$
-      - $f$ respects the logical connectives, for example, $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ and
-      - $\Box$ is translated as the provability predicate $\Prov$, so $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
+      - $f$ 保持逻辑联结词，例如 $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ 且
+      - $\Box$ 翻译为可证性谓词 $\Prov$，故 $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
     step2: |-
       - $f(\bot)=\bot;$
-      - $f$ respects the logical connectives, for example, $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ and
-      - $\Box$ is translated as the provability predicate $\Prov$, so $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
+      - $f$ 对逻辑联结词保持结构，例如 $f(B \rightarrow C) = (f(B) \rightarrow f(C));$ 且
+      - $\Box$ 翻译为可证性谓词 $\Prov$，因此 $f(\Box B) = \Prov(\ulcorner f(B)\urcorner ).$
   - id: 57
     kind: body
     source: |-
@@ -499,8 +529,12 @@ segments:
       $$ \text{If } \GL \vdash A, \text{then for all realizations } f, \PA \vdash f(A).$$
     step1: |-
       早在七十年代初就已清楚：GL 相对于 PA 是*算术可靠的*，形式化地说：
+
+      $$ \text{If } \GL \vdash A, \text{then for all realizations } f, \PA \vdash f(A).$$
     step2: |-
       早在七十年代初就已清楚：GL 相对于 PA 是*算术可靠的*，形式化地说：
+
+      $$ \text{If } \GL \vdash A, \text{then for all realizations } f, \PA \vdash f(A).$$
   - id: 59
     kind: body
     source: |-
@@ -517,11 +551,11 @@ segments:
       $$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
     step1: |-
       **算术可靠性证明概述**。PA 确实证明命题重言式的实现，而 GL 分配公理的可证性翻译为
-      
+
       $$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
     step2: |-
       **算术可靠性证明概述**。PA 确实证明命题重言式的实现，而 GL 分配公理的可证性翻译为
-      
+
       $$ \PA \vdash \Prov(\ulcorner A \rightarrow B\urcorner ) \rightarrow (\Prov(\ulcorner A\urcorner ) \rightarrow \Prov(\ulcorner B\urcorner )) $$
   - id: 61
     kind: body
@@ -531,11 +565,11 @@ segments:
       $$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
     step1: |-
       对一切公式 *A* 与 *B*——这正是 Löb 的第二条可导出性条件（见第 1 节）。此外，PA 服从分离规则，以及概括规则的翻译：
-      
+
       $$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
     step2: |-
       对一切公式 *A* 与 *B*——这正是 Löb 的第二条可导出性条件（见第 1 节）。此外，PA 服从分离规则，以及概括规则的翻译：
-      
+
       $$ \text{If } \PA \vdash A, \text{then } \PA \vdash \Prov(\ulcorner A\urcorner ), $$
   - id: 62
     kind: body
@@ -545,11 +579,11 @@ segments:
       $$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
     step1: |-
       这正是 Löb 的第一条可导出性条件。最后，主公理 (GL) 的翻译确实在 PA 中可证：
-      
+
       $$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
     step2: |-
       这正是 Löb 的第一条可导出性条件。最后，主公理 (GL) 的翻译确实在 PA 中可证：
-      
+
       $$ \PA \vdash \Prov(\ulcorner \Prov(\ulcorner A\urcorner ) \rightarrow A\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
   - id: 63
     kind: body
@@ -567,11 +601,11 @@ segments:
       $$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
     step1: |-
       让我们从 Löb 的可导出性条件概述 Löb 定理本身的证明（形式化版本的证明类似）。该证明基于哥德尔的对角化引理：对任意算术公式 $C(x)$，存在算术公式 $B$ 使得
-      
+
       $$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
     step2: |-
       让我们从 Löb 的可导出性条件概述 Löb 定理本身的证明（形式化版本的证明类似）。该证明基于哥德尔的对角化引理：对任意算术公式 $C(x)$，存在算术公式 $B$ 使得
-      
+
       $$ \PA \vdash B \leftrightarrow C(\ulcorner B\urcorner ). $$
   - id: 65
     kind: body
@@ -589,11 +623,11 @@ segments:
       $$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
     step1: |-
       **Löb 定理的证明：** 设 $\PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$；须证 $\PA \vdash A$。由对角化引理，存在公式 $B$ 使得
-      
+
       $$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
     step2: |-
       **Löb 定理的证明：** 设 $\PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$；须证 $\PA \vdash A$。由对角化引理，存在公式 $B$ 使得
-      
+
       $$ \PA \vdash B \leftrightarrow (\Prov(\ulcorner B\urcorner ) \rightarrow A). $$
   - id: 67
     kind: body
@@ -603,11 +637,11 @@ segments:
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
     step1: |-
       由此经 Löb 的第一、第二条可导出性条件加上一些命题推理可得
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
     step2: |-
       由此经 Löb 的第一、第二条可导出性条件加上一些命题推理可得
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \leftrightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \rightarrow A\urcorner ). $$
   - id: 68
     kind: body
@@ -617,11 +651,11 @@ segments:
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
     step1: |-
       于是再次由 Löb 的第二条件，
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
     step2: |-
       于是再次由 Löb 的第二条件，
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow (\Prov(\ulcorner \Prov(\ulcorner B\urcorner ) \urcorner ) \rightarrow \Prov(\ulcorner A\urcorner )). $$
   - id: 69
     kind: body
@@ -631,11 +665,11 @@ segments:
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
     step1: |-
       另一方面，Löb 的第三条件给出
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
     step2: |-
       另一方面，Löb 的第三条件给出
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner \Prov(\ulcorner B\urcorner )\urcorner ), $$
   - id: 70
     kind: body
@@ -645,11 +679,11 @@ segments:
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
     step1: |-
       于是
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
     step2: |-
       于是
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow \Prov(\ulcorner A\urcorner ). $$
   - id: 71
     kind: body
@@ -659,11 +693,11 @@ segments:
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
     step1: |-
       与假设 $PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$ 合起来，这给出
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
     step2: |-
       与假设 $PA \vdash \Prov(\ulcorner A\urcorner ) \rightarrow A$ 合起来，这给出
-      
+
       $$ \PA \vdash \Prov(\ulcorner B\urcorner ) \rightarrow A. $$
   - id: 72
     kind: body
@@ -673,11 +707,11 @@ segments:
       $$ \PA \vdash A, $$
     step1: |-
       最后，对角化引理产生的等式蕴涵 $\PA \vdash B$，于是 $\PA \vdash \Prov(\ulcorner B\urcorner )$，从而
-      
+
       $$ \PA \vdash A, $$
     step2: |-
       最后，对角化引理产生的等式蕴涵 $\PA \vdash B$，于是 $\PA \vdash \Prov(\ulcorner B\urcorner )$，从而
-      
+
       $$ \PA \vdash A, $$
   - id: 73
     kind: body
@@ -711,11 +745,11 @@ segments:
       $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
     step1: |-
       可证性逻辑的里程碑式结果是 R. Solovay 1976 年的算术完全性定理：它表明 GL 对皮亚诺算术确实足够：
-      
+
       $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
     step2: |-
       可证性逻辑的里程碑式结果是 R. Solovay 1976 年的算术完全性定理：它表明 GL 对皮亚诺算术确实足够：
-      
+
       $$ \GL \vdash A \text{ if and only if for all realizations } f, \PA \vdash f(A). $$
   - id: 77
     kind: body
@@ -781,8 +815,12 @@ segments:
       $$ \forall y \le \bs\bs 0 \: \forall z \le y \: \forall x \le y + z \: (x + y \le (y+(y+z))), $$
     step1: |-
       自 1980 年代末以来，逻辑学家研究了弱于皮亚诺算术的许多其他算术系统。这些逻辑学家常从可计算性问题获取灵感，例如多项式时间可计算函数的研究。他们对如下问题给出部分回答：“对哪些算术理论，Solovay 的算术完全性定理（相对于合适的可证性谓词）仍然成立？”为讨论这一问题，需要两个概念。$\Delta_0$-公式是所有量词都由一个项限定的算术公式，例如
+
+      $$ \forall y \le \bs\bs 0 \: \forall z \le y \: \forall x \le y + z \: (x + y \le (y+(y+z))), $$
     step2: |-
       自 1980 年代末以来，逻辑学家研究弱于皮亚诺算术的许多其他算术系统。这些逻辑学家常从可计算性问题获取灵感，例如多项式时间可计算函数的研究。他们对如下问题给出部分回答：“对哪些算术理论，Solovay 的算术完全性定理（相对于合适的可证性谓词）仍然成立？”为讨论这一问题，需要两个概念。$\Delta_0$-公式是所有量词都由一个项限定的算术公式，例如
+
+      $$ \forall y \le \bs\bs 0 \: \forall z \le y \: \forall x \le y + z \: (x + y \le (y+(y+z))), $$
   - id: 85
     kind: body
     source: |-
@@ -791,8 +829,12 @@ segments:
       $$ A(0) \wedge \forall x\, (A(x) \rightarrow A(\bs x)) \rightarrow \forall x \, A(x) $$
     step1: |-
       其中 $\bs$ 是后继算子（“$+1$”）。算术理论 $I \Delta_0$（I 代表“归纳”）与皮亚诺算术类似，只是它允许较少的归纳：归纳模式
+
+      $$ A(0) \wedge \forall x\, (A(x) \rightarrow A(\bs x)) \rightarrow \forall x \, A(x) $$
     step2: |-
       其中 $\bs$ 是后继算子（“$+1$”）。算术理论 $I \Delta_0$（I 代表“归纳”）与皮亚诺算术类似，只是它允许较少的归纳：归纳模式
+
+      $$ A(0) \wedge \forall x\, (A(x) \rightarrow A(\bs x)) \rightarrow \forall x \, A(x) $$
   - id: 86
     kind: body
     source: |-
@@ -815,11 +857,11 @@ segments:
       1. $T$ proves induction for $\Delta_0$-formulas, and $T$ proves EXP, the formula expressing that for all $x$, its power $2^x$ exists. In more standard notation: $T$ extends $I \Delta_0$+EXP;
       2. $T$ does not prove any false sentences of the form $\exists x\, A(x)$, with $A(x)$ a $\Delta_0$-formula.
     step1: |-
-      1. $T$ proves induction for $\Delta_0$-formulas, and $T$ proves EXP, the formula expressing that for all $x$, its power $2^x$ exists. In more standard notation: $T$ extends $I \Delta_0$+EXP;
-      2. $T$ does not prove any false sentences of the form $\exists x\, A(x)$, with $A(x)$ a $\Delta_0$-formula.
+      1. $T$ 对 $\Delta_0$-公式证明归纳，且 $T$ 证明 EXP，即表达对所有 $x$ 其幂 $2^x$ 存在的公式。用更标准的记法：$T$ 扩充 $I \Delta_0$+EXP；
+      2. $T$ 不证明任何形如 $\exists x\, A(x)$ 的假句子，其中 $A(x)$ 是 $\Delta_0$-公式。
     step2: |-
-      1. $T$ proves induction for $\Delta_0$-formulas, and $T$ proves EXP, the formula expressing that for all $x$, its power $2^x$ exists. In more standard notation: $T$ extends $I \Delta_0$+EXP;
-      2. $T$ does not prove any false sentences of the form $\exists x\, A(x)$, with $A(x)$ a $\Delta_0$-formula.
+      1. $T$ 对 $\Delta_0$-公式证明归纳，并且 $T$ 证明 EXP，即表达对一切 $x$ 其幂 $2^x$ 存在的公式。用更标准的记号说：$T$ 扩充 $I \Delta_0$+EXP；
+      2. $T$ 不证明任何形如 $\exists x\, A(x)$ 的假句子，其中 $A(x)$ 为 $\Delta_0$-公式。
   - id: 89
     kind: body
     source: |-
@@ -828,9 +870,13 @@ segments:
       $$ \GL \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
     step1: |-
       对这类理论，GL 的算术可靠性与完全性成立——只要 $\Box$ 翻译为 $\Prov_T$，即相对于 $T$ 的一个足够简单公理化的自然可证性谓词。于是对模态句子 $A$：
+
+      $$ \GL \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
     step2: |-
       对这类理论，GL 的算术可靠性与完全性成立——只要 $\Box$ 翻译为 $\Prov_T$，即相对于 $T$ 的一个足够简单公理化的自然可证性谓词。于是对模态句子 $A$：
-  - id:   - id: 90
+
+      $$ \GL \vdash A \text{ if and only if for all realizations } f,T \vdash f(A). $$
+  - id: 90
     kind: body
     source: |-
       It is not clear yet whether Condition 1 gives a lower bound on the scope of provability logic. For example, it is still an open question whether GL is the provability logic of $I \Delta_0+\Omega_1$, a theory which is somewhat weaker than $I \Delta_0$+EXP in that $\Omega_1$ is the axiom asserting that for all $x$, its power $x^{\log(x)}$ exists. Provability logic GL is arithmetically sound with respect to $I \Delta_0+\Omega_1$, but except for some partial results by Berarducci and Verbrugge (1993), providing arithmetic realizations consistent with $I \Delta_0+\Omega_1$ for a restricted class of sentences consistent with GL, the question remains open. Its answer may hinge on open problems in computational complexity theory.
@@ -838,7 +884,7 @@ segments:
       尚不清楚条件 1 是否给出可证性逻辑范围的下界。例如，GL 是否是 $I \Delta_0+\Omega_1$ 的可证性逻辑仍是未决问题——该理论在某种意义上弱于 $I \Delta_0$+EXP：$\Omega_1$ 是断言对一切 $x$ 其幂 $x^{\log(x)}$ 存在的公理。可证性逻辑 GL 相对于 $I \Delta_0+\Omega_1$ 算术可靠，但除 Berarducci 与 Verbrugge（1993）的部分结果——为与 GL 一致的受限句子类提供与 $I \Delta_0+\Omega_1$ 一致的算术实现——之外，问题仍未决。其答案可能系于计算复杂性理论的未决问题。
     step2: |-
       尚不清楚条件 1 是否给出可证性逻辑范围的下界。例如，GL 是否是 $I \Delta_0+\Omega_1$ 的可证性逻辑仍是未决问题——该理论在某种意义上弱于 $I \Delta_0$+EXP：$\Omega_1$ 是断言对一切 $x$ 其幂 $x^{\log(x)}$ 存在的公理。可证性逻辑 GL 相对于 $I \Delta_0+\Omega_1$ 算术可靠，但除 Berarducci 与 Verbrugge（1993）的部分结果——为与 GL 一致的受限句子类提供与 $I \Delta_0+\Omega_1$ 一致的算术实现——之外，问题仍未决。其答案可能系于计算复杂性理论的未决问题。
-  - id:   - id: 91
+  - id: 91
     kind: body
     source: |-
       The above result by De Jongh et al. shows a strong feature of provability logic: for many different arithmetical theories, GL captures exactly what those theories say about their own provability predicates. At the same time this is a weakness. For example, propositional provability logic does not point to any differences between those theories that are finitely axiomatizable and those that are not.
@@ -846,7 +892,7 @@ segments:
       De Jongh 等人的上述结果展示了可证性逻辑的一个强特征：对许多不同的算术理论，GL 恰好捕捉这些理论就其自身可证性谓词所说的一切。与此同时这也是一个弱点。例如，命题可证性逻辑无法区分哪些理论可有限公理化、哪些不能。
     step2: |-
       De Jongh 等人的上述结果展示可证性逻辑的一个强特征：对许多不同的算术理论，GL 恰好捕捉这些理论就其自身可证性谓词所说的一切。与此同时这也是一个弱点。例如，命题可证性逻辑无法区分哪些理论可有限公理化、哪些不能。
-  - id:   - id: 92
+  - id: 92
     kind: body
     source: |-
       ### 5.2 Interpretability logic
@@ -854,7 +900,7 @@ segments:
       ### 5.2 可解释性逻辑
     step2: |-
       ### 5.2 可解释性逻辑
-  - id:   - id: 93
+  - id: 93
     kind: body
     source: |-
       In order to be able to speak in a modal language about important distinctions between theories, researchers have extended provability logic in many different ways. Let us mention a few. One extension is to add a binary modality $\interprets$, where for a given arithmetical theory $T$, the modal sentence $A \interprets B$ is meant to stand for “$T+B$ is interpretable in $T+A$” (Švejdar, 1983). De Jongh and Veltman (1990) investigated modal semantics for several interpretability logics, while De Jongh and Visser (1991) proved the explicit fixed-point property for the most important ones. Visser characterized the interpretability logic of the most common finitely axiomatized theories, and Berarducci and Shavrukov independently characterized the one for PA, which is not finitely axiomatizable. It appears that indeed, the interpretability logic of finitely axiomatizable theories is different from the interpretability logic of Peano Arithmetic (see Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000)[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990].
@@ -862,7 +908,7 @@ segments:
       为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充了可证性逻辑。略举几例。一种扩充是添加二元模态词 $\interprets$：对给定算术理论 $T$，模态句子 $A \interprets B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察了若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明了其中最重要几个的显式不动点性质。Visser 刻画了最常见的可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画了 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990]。
     step2: |-
       为了能在模态语言中谈论理论间的重要区分，研究者以多种方式扩充可证性逻辑。略举几例。一种扩充是添加二元模态词 $\interprets$：对给定算术理论 $T$，模态句子 $A \interprets B$ 意为“$T+B$ 可解释于 $T+A$”（Švejdar, 1983）。De Jongh 与 Veltman（1990）考察若干可解释性逻辑的模态语义，De Jongh 与 Visser（1991）证明其中最重要几个的显式不动点性质。Visser 刻画最常见可有限公理化理论的可解释性逻辑；Berarducci 与 Shavrukov 各自独立刻画 PA 的——PA 不可有限公理化。看来确实如此：可有限公理化理论的可解释性逻辑不同于皮亚诺算术的可解释性逻辑（见 Montagna 1987; Visser 1990, 1998; Berarducci 1990, Shavrukov 1988; Joosten and Visser 2000）[^berarducci-1990][^joosten-2000][^montagna-1987][^shavrukov-1988][^visser-1990]。
-  - id:   - id: 94
+  - id: 94
     kind: body
     source: |-
       ### 5.3 Propositional quantifiers
@@ -870,21 +916,21 @@ segments:
       ### 5.3 命题量词
     step2: |-
       ### 5.3 命题量词
-  - id:   - id: 95
+  - id: 95
     kind: body
     source: |-
       Another way to extend the framework of propositional provability logic is to add propositional quantifiers, so that one can express principles like Goldfarb’s:
-      
+
       $$ \forall p \,\forall q \,\exists r \: \Box((\Box p \vee \Box q) \leftrightarrow \Box r), $$
     step1: |-
       扩充命题可证性逻辑框架的另一种方式是添加命题量词，从而能表达诸如 Goldfarb 原理之类的东西：
-      
+
       $$ \forall p \,\forall q \,\exists r \: \Box((\Box p \vee \Box q) \leftrightarrow \Box r), $$
     step2: |-
       扩充命题可证性逻辑框架的另一种方式是添加命题量词，从而能表达诸如 Goldfarb 原理之类的东西：
-      
+
       $$ \forall p \,\forall q \,\exists r \: \Box((\Box p \vee \Box q) \leftrightarrow \Box r), $$
-  - id:   - id: 96
+  - id: 96
     kind: body
     source: |-
       saying that for any two sentences there is a third sentence which is provable if and only if either of the first two sentences is provable. This principle is provable in Peano Arithmetic (see e.g. Artemov and Beklemishev 1993)[^artemov-1993]. The set of sentences of GL with propositional quantifiers that is arithmetically valid turns out to be undecidable (Shavrukov 1997)[^shavrukov-1997].
@@ -892,7 +938,7 @@ segments:
       它说的是：对任意两个句子，存在第三个句子，其可证当且仅当前两个句子之一可证。这一原理在皮亚诺算术中可证（见例如 Artemov and Beklemishev 1993）[^artemov-1993]。带命题量词的 GL 句子中算术有效的那个集合，结果是不可判定的（Shavrukov 1997）[^shavrukov-1997]。
     step2: |-
       它说的是：对任意两个句子，存在第三个句子，其可证当且仅当前两句之一可证。这一原理在皮亚诺算术中可证（见例如 Artemov and Beklemishev 1993）[^artemov-1993]。带命题量词的 GL 句子中算术有效的那个集合，结果不可判定（Shavrukov 1997）[^shavrukov-1997]。
-  - id:   - id: 97
+  - id: 97
     kind: body
     source: |-
       ### 5.4 Japaridze’s bimodal and polymodal provability logics
@@ -900,7 +946,7 @@ segments:
       ### 5.4 Japaridze 的双模与多模可证性逻辑
     step2: |-
       ### 5.4 Japaridze 的双模与多模可证性逻辑
-  - id:   - id: 98
+  - id: 98
     kind: body
     source: |-
       Japaridze’s (1988) bimodal logic GLB has two $\Box$-like provability operators, denoted by $[0]$ and $[1]$, with their dual $\Diamond$-like operators $\langle 0\rangle$ and $\langle 1\rangle$, respectively. In Japaridze’s interpretation, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic. On the other hand, $[1]$ corresponds to a stronger provability predicate, namely $\omega$-*provabilty*.
@@ -908,7 +954,7 @@ segments:
       Japaridze（1988）的双模逻辑 GLB 有两个类 $\Box$ 的可证性算子，记作 $[0]$ 与 $[1]$，其对偶的类 $\Diamond$ 算子分别为 $\langle 0\rangle$ 与 $\langle 1\rangle$。在 Japaridze 的解释中，可以把 $[0]$ 看作皮亚诺算术中的标准可证性谓词；另一方面，$[1]$ 对应一个更强的可证性谓词，即 $\omega$-*可证性*。
     step2: |-
       Japaridze（1988）的双模逻辑 GLB 有两个类 $\Box$ 的可证性算子，记作 $[0]$ 与 $[1]$，其对偶的类 $\Diamond$ 算子分别为 $\langle 0\rangle$ 与 $\langle 1\rangle$。在 Japaridze 的解释中，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词；而 $[1]$ 对应一个更强的可证性谓词，即 $\omega$-*可证性*。
-  - id:   - id: 99
+  - id: 99
     kind: body
     source: |-
       Let us define the concepts that are needed to understand this intended interpretation of GLB. An arithmetical theory $T$ is defined to be $\omega$-*consistent* if and only if for all formulas A with free variable $x$, $T\vdash \neg\, A(I_n)$ for all $n$ implies that $T \not\vdash \exists x \, A(x)$; here, $I_n$ is the numeral of $n$, i.e., the term $\bs\bs\ldots\bs 0$ with $n$ occurrences of the successor operator $\bs$. Peano Arithmetic (PA) is the most well-known example of an $\omega$-consistent theory (see also Gödel’s incompleteness theorems). Now let PA$^+$ be the arithmetical theory whose axioms are those of PA together with all sentences $\forall x \, \neg \, A(x)$ such that for every $n$, PA$\vdash \neg \, A(I_n)$. Now $\omega$-provability is simply provability in PA$^+$, so it is the dual of $\omega$-consistency.
@@ -916,23 +962,23 @@ segments:
       让我们定义理解 GLB 这一意向解释所需的概念。算术理论 $T$ 定义为 $\omega$-*一致的*，当且仅当对所有带自由变元 $x$ 的公式 A：若 $T\vdash \neg\, A(I_n)$ 对所有 $n$ 成立，则 $T \not\vdash \exists x \, A(x)$；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。皮亚诺算术（PA）是 $\omega$-一致理论最著名的例子（另见哥德尔不完备性定理）。现在令 PA$^+$ 为这样的算术理论：其公理是 PA 的公理，加上所有形如 $\forall x \, \neg \, A(x)$ 的句子——只要对每个 $n$ 都有 PA$\vdash \neg \, A(I_n)$。于是 $\omega$-可证性就是在 PA$^+$ 中的可证性：它是 $\omega$-一致性的对偶。
     step2: |-
       让我们定义理解 GLB 这一意向解释所需的概念。算术理论 $T$ 定义为 $\omega$-*一致的*，当且仅当对所有带自由变元 $x$ 的公式 A：若 $T\vdash \neg\, A(I_n)$ 对所有 $n$ 成立，则 $T \not\vdash \exists x \, A(x)$；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。皮亚诺算术（PA）是 $\omega$-一致理论最著名的例子（另见哥德尔不完备性定理）。现在令 PA$^+$ 为这样的算术理论：其公理是 PA 的公理，加上所有形如 $\forall x \, \neg \, A(x)$ 的句子——只要对每个 $n$ 都有 PA$\vdash \neg \, A(I_n)$。于是 $\omega$-可证性就是在 PA$^+$ 中的可证性：它是 $\omega$-一致性的对偶。
-  - id:   - id: 100
+  - id: 100
     kind: body
     source: |-
       Japaridze’s bimodal provability logic GLB can be axiomatized by the axioms and rules of GL (see Section 2), formulated separately for [0] and [1]. In addition, GLB has two mixed axioms, namely: $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ Japaridze’s logic is decidable and has a reasonable Kripke semantics, and it is arithmetically sound and complete with respect to Peano Arithmetic (Japaridze 1988, Boolos 1993)[^boolos-1993][^japaridze-1988].
     step1: |-
-      GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
+      Japaridze 的双模可证性逻辑 GLB 可以用 GL 的公理与规则（见第 2 节）公理化，分别为 [0] 与 [1] 表述。此外，GLB 有两条混合公理，即： $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ Japaridze 的这一逻辑可判定，具有合理的 Kripke 语义，并且相对于皮亚诺算术算术可靠且完全（Japaridze 1988, Boolos 1993）[^boolos-1993][^japaridze-1988]。
     step2: |-
-      GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
-  - id:   - id: 101
+      Japaridze 的双模可证性逻辑 GLB 可由 GL 的公理与规则（见第 2 节）公理化，并分别为 [0] 与 [1] 表述。此外，GLB 还有两条混合公理： $$\tag{Monotonicity} [0] A \rightarrow [1] A $$ $$\tag{\(\Pi^0_1\)-completeness} \langle 0\rangle A \rightarrow [1]\langle 0\rangle A $$ 该逻辑可判定、有合理的 Kripke 语义，且相对于皮亚诺算术既算术可靠又完全（Japaridze 1988, Boolos 1993）[^boolos-1993][^japaridze-1988]。
+  - id: 101
     kind: body
     source: |-
       A polymodal analogue of Japaridze’s GLB, named GLP, has received a lot of attention in recent years. GLP has infinitely many $\Box$-like provability operators, denoted by boxes $[n]$ for every natural number $n$, with their dual $\Diamond$-like operators $\langle n\rangle$. Again, one can think of $[0]$ as standing for the standard provability predicate in Peano Arithmetic, $\langle 1\rangle$ for $\omega$-provability, etcetera. GLP has been axiomatized by starting from the axioms and rules of GL (see Section 2), formulated separately for each $[n]$. In addition, GLP has three mixed axiom schemes, namely, as formulated by Beklemishev (2010): $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
     step1: |-
-      Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\Diamond$ 算子为 $\langle n\rangle$。同样，可以把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的：
+      Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\Diamond$ 算子为 $\langle n\rangle$。同样，可以把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的： $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
     step2: |-
-      Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\Diamond$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的：
-  - id:   - id: 102
+      Japaridze 的 GLB 的一个多模类比名为 GLP，近年受到大量关注。GLP 有无穷多个类 $\Box$ 的可证性算子，记作对每个自然数 $n$ 的盒 $[n]$，其对偶的类 $\Diamond$ 算子为 $\langle n\rangle$。同样，可把 $[0]$ 看作皮亚诺算术的标准可证性谓词，$\langle 1\rangle$ 为 $\omega$-可证性，等等。GLP 的公理化从 GL 的公理与规则出发（见第 2 节），为每个 $[n]$ 分别表述。此外 GLP 有三个混合公理模式，即如 Beklemishev（2010）所表述的： $$ [m] A \rightarrow [n] A, \mbox{ for } m \leq n $$ $$ \langle k\rangle A \rightarrow [n]\langle k\rangle A, \mbox{ for } k \lt n $$ $$ [m] A \rightarrow [n][m] A, \mbox{ for } m \leq n $$
+  - id: 102
     kind: body
     source: |-
       GLP has been endowed with a Kripke semantics with respect to which it is complete, and has also been shown to be arithmetically complete with respect to Peano Arithmetic (see Beklemishev 2010a, 2011a)[^beklemishev-2010a]. Just like for GL, the decision problem for GLP is PSPACE-complete (Shapirovsky 2008)[^shapirovsky-2008], while its closed fragment is polynomial time decidable (Pakhomov 2014)[^pakhomov-2014].
@@ -940,7 +986,7 @@ segments:
       GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段是多项式时间可判定的（Pakhomov 2014）[^pakhomov-2014]。
     step2: |-
       GLP 被赋予一个 Kripke 语义并相对于它完全，也被证明相对于皮亚诺算术算术完全（见 Beklemishev 2010a, 2011a）[^beklemishev-2010a]。与 GL 一样，GLP 的判定问题是 PSPACE-完全的（Shapirovsky 2008）[^shapirovsky-2008]，而其闭片段多项式时间可判定（Pakhomov 2014）[^pakhomov-2014]。
-  - id:   - id: 103
+  - id: 103
     kind: body
     source: |-
       Over the last three decades, a number of results have been proved about the polymodal logic GLP of strong provability predicates. Here follow some particularly fruitful topics:
@@ -948,7 +994,7 @@ segments:
       过去三十年，关于强可证性谓词的多模逻辑 GLP，已有若干结果被证明。以下是一些特别多产的议题：
     step2: |-
       过去三十年，关于强可证性谓词的多模逻辑 GLP，已有若干结果被证明。以下是一些特别多产的议题：
-  - id:   - id: 104
+  - id: 104
     kind: body
     source: |-
       - the closed fragment of GLP (see Ignatiev 1993; Beklemishev, Joosten and Vervoort 2005)[^ignatiev-1993];
@@ -968,7 +1014,7 @@ segments:
       - GLP 的邻域语义（Shamkanov 2020）[^shamkanov-2020][^shamkanov-2020-2]；
       - GLP 的插值定理（见 Beklemishev 2010b, Shamkanov 2011）[^shamkanov-2011][^beklemishev-2010b]；
       - 拓扑语义与集合论的关系，其中包括特定的大基数公理与平稳反射（见 Beklemishev 2011b; Beklemishev and Gabelaia 2013, 2014; Fernández-Duque 2014; Aguilera and Fernández-Duque 2017）[^beklemishev-2011b][^beklemishev-2013][^fernández-duque-2014][^aguilera-2017][^fernández-duque-2014-2]。
-  - id:   - id: 105
+  - id: 105
     kind: body
     source: |-
       ### 5.5 Predicate provability logic
@@ -976,7 +1022,7 @@ segments:
       ### 5.5 谓词可证性逻辑
     step2: |-
       ### 5.5 谓词可证性逻辑
-  - id:   - id: 106
+  - id: 106
     kind: body
     source: |-
       Finally, one can of course study predicate provability logic. The language is that of predicate logic without function symbols, together with the operator $\Box$. Here, the situation becomes much more complex than in the case of propositional provability logic. To begin with, the straightforward quantified version of GL does not have the fixed-point property, is not complete with respect to any class of Kripke frames, and is not arithmetically complete with respect to Peano Arithmetic (Montagna, 1984; see Rybakov 2023 for recent generalizations)[^rybakov-2023]. The question then arises: Is there any nicely axiomatized predicate provability logic that is adequate, proving exactly the valid principles of provability? The answer is unfortunately a resounding no: Vardanyan (1986) has proved on the basis of ideas by Artemov (1985a) that the set of sentences of predicate provability logic all of whose realizations are provable in PA is not even recursively enumerable but $\Pi^0_2$-complete, so it has no reasonable axiomatization. Visser and De Jonge (2006) showed that there is no escape from Vardanyan’s theorem by proving a generalization: For a wide range of arithmetical theories $T$, the set of sentences of predicate provability logic all of whose realizations are provable in $T$ turns out to be $\Pi^0_2$-complete as well. Recently, however, Borges and Joosten (2020, 2022) showed that a fragment of predicate provability logic based on a strictly positive language containing the propositional connective $\wedge$, the modal operator $\Diamond$, and the quantifier $\forall$ is arithmetically complete and still decidable.
@@ -984,7 +1030,7 @@ segments:
       最后，当然可以研究谓词可证性逻辑。其语言是无函数符号的谓词逻辑语言，加上算子 $\Box$。这里的情形比命题可证性逻辑复杂得多。首先，GL 的直接量化版本不具有不动点性质、相对于任何 Kripke 框架类不完全，且相对于皮亚诺算术算术不完全（Montagna, 1984；晚近推广见 Rybakov 2023）[^rybakov-2023]。于是问题来了：是否存在任何公理化良好的谓词可证性逻辑是足够的，即恰好证明可证性的有效原理？遗憾的是答案响亮地是否定的：Vardanyan（1986）基于 Artemov（1985a）的思想证明：谓词可证性逻辑中一切实现在 PA 中可证的句子之集，甚至不是递归可枚举的，而是 $\Pi^0_2$-完全的，因此它没有任何合理的公理化。Visser 与 De Jonge（2006）通过证明一个推广表明无法逃脱 Vardanyan 定理：对广泛的算术理论 $T$，谓词可证性逻辑中一切实现在 $T$ 中可证的句子之集同样是 $\Pi^0_2$-完全的。不过晚近，Borges 与 Joosten（2020, 2022）证明：基于严格正面语言的谓词可证性逻辑的一个片段——含命题联结词 $\wedge$、模态算子 $\Diamond$ 与量词 $\forall$——是算术完全的且仍可判定。
     step2: |-
       最后，当然可以研究谓词可证性逻辑。其语言是无函数符号的谓词逻辑语言，加上算子 $\Box$。这里的情形比命题可证性逻辑复杂得多。首先，GL 的直接量化版本不具有不动点性质、相对于任何 Kripke 框架类不完全，且相对于皮亚诺算术算术不完全（Montagna, 1984；晚近推广见 Rybakov 2023）[^rybakov-2023]。于是问题来了：是否存在任何公理化良好的谓词可证性逻辑是足够的，即恰好证明可证性的有效原理？遗憾的是答案响亮地是否定的：Vardanyan（1986）基于 Artemov（1985a）的思想证明：谓词可证性逻辑中一切实现在 PA 中可证的句子之集，甚至不是递归可枚举的，而是 $\Pi^0_2$-完全的，因此它没有任何合理的公理化。Visser 与 De Jonge（2006）通过证明一个推广表明无法逃脱 Vardanyan 定理：对广泛的算术理论 $T$，谓词可证性逻辑中一切实现在 $T$ 中可证的句子之集同样是 $\Pi^0_2$-完全的。不过晚近，Borges 与 Joosten（2020, 2022）证明：基于严格正面语言的谓词可证性逻辑的一个片段——含命题联结词 $\wedge$、模态算子 $\Diamond$ 与量词 $\forall$——算术完全且仍可判定。
-  - id:   - id: 107
+  - id: 107
     kind: body
     source: |-
       ### 5.6 Other generalizations
@@ -992,7 +1038,7 @@ segments:
       ### 5.6 其他推广
     step2: |-
       ### 5.6 其他推广
-  - id:   - id: 108
+  - id: 108
     kind: body
     source: |-
       Left out in the above discussion are many other important strands of research in provability logic and its extensions. The interested reader is pointed to the following areas:
@@ -1000,7 +1046,7 @@ segments:
       上文讨论未及可证性逻辑及其扩充研究中许多其他重要线索。有兴趣的读者可参看以下领域：
     step2: |-
       上文讨论未及可证性逻辑及其扩充研究中许多其他重要线索。有兴趣的读者可参看以下领域：
-  - id:   - id: 109
+  - id: 109
     kind: body
     source: |-
       - the provability logic of intuitionistic arithmetic (see Troelstra 1973; Visser 1982, 1999, 2002, 2008; Iemhoff 2000, 2001, 2003; Ardeshir and Mojtahedi 2018; Litak and Visser 2018, forthcoming; Mojtahedi 2022 [Other Internet Resources]; Visser and Zoethout 2021; van der Giessen and Iemhoff 2021; van der Giessen 2023; Shillito 2023)[^shillito-2023][^ardeshir-2018][^giessen-2023][^giessen-2021][^iemhoff-2000][^litak-2018][^troelstra-1973][^visser-1982];
@@ -1050,7 +1096,7 @@ segments:
       - 多模可证性逻辑 GLP 的推广，即带超穷多个模态词的可证性逻辑（见 Beklemishev et al. 2014; Fernández-Duque and Joosten 2013a, 2013b, 2014, 2018; Joosten 2021; Beklemishev and Pakhomov 2022）[^beklemishev-2014][^beklemishev-2014-2][^beklemishev-2014-3][^beklemishev-2022][^fernández-duque-2013a][^joosten-2021]；
       - 可证性逻辑与 $\mu$-演算的关系（见 van Benthem 2006, Visser 2005, Alberucci and Facchini 2009）[^alberucci-2009][^benthem-2006][^visser-2005]；以及
       - 可证性代数——也称可对角化代数或 Magari 代数（见 Magari 1975a, 1975b; Montagna 1979, 1980a, 1980b; Bernardi and D’Aquino 1988; Shavrukov 1993a, 1993b, 1997; Zambella 1994；关于其初等理论的晚近结果，见 Pakhomov 2012, 2014a (Other Internet Resources), 2015）。
-  - id:   - id: 110
+  - id: 110
     kind: body
     source: |-
       For the reader who would like to contribute to the area of provability logic and its generalizations, Beklemishev and Visser (2006) have proposed an annotated list of intriguing open problems.
@@ -1058,7 +1104,7 @@ segments:
       对于想为可证性逻辑及其推广领域作出贡献的读者，Beklemishev 与 Visser（2006）拟就一份注解版的开问题清单。
     step2: |-
       对于想为可证性逻辑及其推广领域作出贡献的读者，Beklemishev 与 Visser（2006）拟就一份注解版的开问题清单。
-  - id:   - id: 111
+  - id: 111
     kind: body
     source: |-
       ## 6. Philosophical significance
@@ -1066,7 +1112,7 @@ segments:
       ## 6 哲学意义
     step2: |-
       ## 6 哲学意义
-  - id:   - id: 112
+  - id: 112
     kind: body
     source: |-
       Even though propositional provability logic is a modal logic with a kind of “necessity” operator, it withstands Quine’s (1976) controversial critique of modal notions as unintelligible, already because of its clear and unambiguous arithmetic interpretation. For example, unlike for many other modal logics, formulas with nested modalities like $\Box\Diamond p \rightarrow \Box\bot$ are not problematic, nor are there any disputes about which ones should be tautologies. In fact, provability logic embodies all the desiderata that Quine (1953) set out for syntactic treatments of modality.
@@ -1074,21 +1120,21 @@ segments:
       尽管命题可证性逻辑是一个带某种“必然性”算子的模态逻辑，它顶住了 Quine（1976）对模态概念不可理解的争议性批评——这已经是因为它有清晰无歧义的算术解释。例如，与许多其他模态逻辑不同，带嵌套模态词的公式如 $\Box\Diamond p \rightarrow \Box\bot$ 并无问题，也不存在关于哪些应为重言式的争论。事实上，可证性逻辑体现了 Quine（1953）为模态的语法处理设定的一切期望。
     step2: |-
       尽管命题可证性逻辑是一个带某种“必然性”算子的模态逻辑，它顶住了 Quine（1976）对模态概念不可理解的争议性批评——这已经是因为它有清晰无歧义的算术解释。例如，与许多其他模态逻辑不同，带嵌套模态词的公式如 $\Box\Diamond p \rightarrow \Box\bot$ 并无问题，也不存在关于哪些应为重言式的争论。事实上，可证性逻辑体现了 Quine（1953）为模态的语法处理设定的一切期望。
-  - id:   - id: 113
+  - id: 113
     kind: body
     source: |-
       Quine’s main arrows were pointed towards modal predicate logics, especially the construction of sentences that contain modal operators under the scope of quantifiers (“quantifying in”). In predicate provability logic, however, where quantifiers range over natural numbers, both *de dicto* and *de re* modalities have straightforward interpretations, contrary to the case of other modal logics (see the note on the *de dicto* / *de re* distinction). For example, formulas like
-      
+
       $$ \forall x\, \Box\, \exists y \,(y=x) $$
     step1: |-
       Quine 的主要矛头指向模态谓词逻辑，尤其是构造在量词辖域内含模态算子的句子（“量化入内”）。然而在谓词可证性逻辑中，量词取值于自然数，无论 *de dicto* 还是 *de re* 模态词都有直截了当的解释——与其他模态逻辑的情形相反（见 *de dicto*／*de re* 区分之注）。例如，形如
-      
+
       $$ \forall x\, \Box\, \exists y \,(y=x) $$
     step2: |-
       Quine 的主要矛头指向模态谓词逻辑，尤其是构造在量词辖域内含模态算子的句子（“量化入内”）。然而在谓词可证性逻辑中，量词取值于自然数，无论 *de dicto* 还是 *de re* 模态词都有直截了当的解释——与其他模态逻辑的情形相反（见 *de dicto*／*de re* 区分之注）。例如，形如
-      
+
       $$ \forall x\, \Box\, \exists y \,(y=x) $$
-  - id:   - id: 114
+  - id: 114
     kind: body
     source: |-
       are not at all problematic. If the number $n$ is assigned to $x$, then $\Box \,\exists y\,(y = x)$ is true with respect to this assignment iff the sentence $\exists y\,(y=I_n)$ is provable in Peano Arithmetic; here, $I_n$ is the numeral of $n$, i.e., the term $\bs\bs\ldots\bs 0$ with $n$ occurrences of the successor operator $\bs$. This sentence is true for all $n$ in the standard model of the natural numbers, and $\forall x \,\Box\, \exists y \,(y = x)$ is even provable in Peano Arithmetic.
@@ -1096,67 +1142,71 @@ segments:
       的公式毫无问题。若把数 $n$ 赋给 $x$，则 $\Box \,\exists y\,(y = x)$ 就该赋值为真，当且仅当句子 $\exists y\,(y=I_n)$ 在皮亚诺算术中可证；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。这一句子对所有 $n$ 在自然数标准模型中为真，而 $\forall x \,\Box\, \exists y \,(y = x)$ 甚至在皮亚诺算术中可证。
     step2: |-
       的公式毫无问题。若把数 $n$ 赋给 $x$，则 $\Box \,\exists y\,(y = x)$ 就该赋值为真，当且仅当句子 $\exists y\,(y=I_n)$ 在皮亚诺算术中可证；这里 $I_n$ 是 $n$ 的数字词，即带 $n$ 个后继算子 $\bs$ 出现的项 $\bs\bs\ldots\bs 0$。这一句子对所有 $n$ 在自然数标准模型中为真，而 $\forall x \,\Box\, \exists y \,(y = x)$ 甚至在皮亚诺算术中可证。
-  - id:   - id: 115
+  - id: 115
     kind: body
     source: |-
       By the way, the Barcan Formula
-      
+
       $$ \forall x \,\Box\, A(x) \rightarrow \Box\, \forall x\, A(x) $$
     step1: |-
-      The analogous principle clearly does not hold for GL: after all,
-      
-      $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
+      顺便说一下，Barcan 公式
+
+      $$ \forall x \,\Box\, A(x) \rightarrow \Box\, \forall x\, A(x) $$
     step2: |-
-      The analogous principle clearly does not hold for GL: after all,
-      
-      $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
-  - id:   - id: 116
+      顺带一提，Barcan 公式
+
+      $$ \forall x \,\Box\, A(x) \rightarrow \Box\, \forall x\, A(x) $$
+  - id: 116
     kind: body
     source: |-
       is not true for the integers, let alone provable (for example, take for $A(x)$ the formula “$x$ does not code a proof of $\bot$”). Its converse
-      
+
       $$ \Box\, \forall x \, A(x) \rightarrow \forall x \, \Box\, A(x) $$
     step1: |-
-      Thus, it seems misguided to compare the strength of both notions or to combine them in one modal system.
+      对整数并不成立，更谈不上可证（例如取 $A(x)$ 为公式“$x$ 不编码对 $\bot$ 的证明”）。它的逆
+
+      $$ \Box\, \forall x \, A(x) \rightarrow \forall x \, \Box\, A(x) $$
     step2: |-
-      Thus, it seems misguided to compare the strength of both notions or to combine them in one modal system.
-  - id:   - id: 117
+      对整数并不成立，更谈不上在皮亚诺算术中可证（例如取 $A(x)$ 为“$x$ 不编码对 $\bot$ 的证明”这一公式）。而它的逆
+
+      $$ \Box\, \forall x \, A(x) \rightarrow \forall x \, \Box\, A(x) $$
+  - id: 117
     kind: body
     source: |-
       on the other hand, is provable in Peano Arithmetic for any formula $A$.
     step1: |-
-      Since the 1940s, there has been a lot of interest among philosophers of mathematics in the concept of informal provability or *absolute provability* (Gödel 1946, Kreisel 1967)[^gödel-1946][^kreisel-1967], including controversies about its proper definition (see Leach-Krouse 2013; Kennedy 2014; Crocco 2019; for good discussions of these controversies)[^crocco-2019][^kennedy-2014][^leach-krouse-2013]. Williamson (2016) gives the following definition: “A mathematical hypothesis is *absolutely provable* if and only if it can in principle be known by a normal mathematical process.”. At any rate, it is clear that the concept of absolute provability is very different from the concept of *formal provability* in a given formal system, which is the central notion in the rest of this article on provability logic.
+      另一方面，对任意公式 $A$ 都在皮亚诺算术中可证。
     step2: |-
-      Since the 1940s, there has been a lot of interest among philosophers of mathematics in the concept of informal provability or *absolute provability* (Gödel 1946, Kreisel 1967)[^gödel-1946][^kreisel-1967], including controversies about its proper definition (see Leach-Krouse 2013; Kennedy 2014; Crocco 2019; for good discussions of these controversies)[^crocco-2019][^kennedy-2014][^leach-krouse-2013]. Williamson (2016) gives the following definition: “A mathematical hypothesis is *absolutely provable* if and only if it can in principle be known by a normal mathematical process.”. At any rate, it is clear that the concept of absolute provability is very different from the concept of *formal provability* in a given formal system, which is the central notion in the rest of this article on provability logic.
-  - id:   - id: 118
+      而另一方面，它对任意公式 $A$ 都在皮亚诺算术中可证。
+  - id: 118
     kind: body
     source: |-
       Provability logic has very different principles from other modal logics, even those with a seemingly similar purpose. For example, while provability logic captures provability in formal theories of arithmetic, epistemic logic endeavors to describe knowledge, which could be viewed as a kind of informal provability. In many versions of epistemic logic, one of the most important principles is the truth axiom (5):
-      
+
       $$ \mbox{S5} \vdash \Box A \rightarrow A, (\text{if one knows } A, \text{ then } A \text{ is true}). $$
     step1: |-
       可证性逻辑的原理与其他模态逻辑——哪怕貌似目的相近者——大不相同。例如，可证性逻辑捕捉形式算术理论中的可证性，而认知逻辑力图描述知识——后者可视为一种非形式可证性。在认知逻辑的许多版本中，最重要的原理之一是真公理（5）：
-      
+
       $$ \mbox{S5} \vdash \Box A \rightarrow A, (\text{if one knows } A, \text{ then } A \text{ is true}). $$
     step2: |-
       可证性逻辑的原理与其他模态逻辑——哪怕貌似目的相近者——大不相同。例如，可证性逻辑捕捉形式算术理论中的可证性，而认知逻辑力图描述知识——后者可视为一种非形式可证性。在认知逻辑的许多版本中，最重要的原理之一是真公理（5）：
-      
+
       $$ \mbox{S5} \vdash \Box A \rightarrow A, (\text{if one knows } A, \text{ then } A \text{ is true}). $$
-  - id:   - id: 119
+  - id: 119
     kind: body
     source: |-
       The analogous principle clearly does not hold for GL: after all,
-      
+
       $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
     step1: |-
       类似的原理显然对 GL 不成立：毕竟，
-      
+
       $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
     step2: |-
       类似的原理显然对 GL 不成立：毕竟，
-      
+
       $$ \text{if } \GL \vdash \Box A \rightarrow A, \text{ then } \GL \vdash A. $$
-  - id:   - id: 120
+  - id: 120
     kind: body
     source: |-
       Thus, it seems misguided to compare the strength of both notions or to combine them in one modal system.
@@ -1164,7 +1214,7 @@ segments:
       因此，比较两种概念的强弱或把它们合并进一个模态系统，看来都是误入歧途。
     step2: |-
       因此，比较两种概念的强弱或把它们合并进一个模态系统，看来都是误入歧途。
-  - id:   - id: 121
+  - id: 121
     kind: body
     source: |-
       Since the 1940s, there has been a lot of interest among philosophers of mathematics in the concept of informal provability or *absolute provability* (Gödel 1946, Kreisel 1967)[^gödel-1946][^kreisel-1967], including controversies about its proper definition (see Leach-Krouse 2013; Kennedy 2014; Crocco 2019; for good discussions of these controversies)[^crocco-2019][^kennedy-2014][^leach-krouse-2013]. Williamson (2016) gives the following definition: “A mathematical hypothesis is *absolutely provable* if and only if it can in principle be known by a normal mathematical process.”. At any rate, it is clear that the concept of absolute provability is very different from the concept of *formal provability* in a given formal system, which is the central notion in the rest of this article on provability logic.
@@ -1172,15 +1222,15 @@ segments:
       自 1940 年代以来，数学哲学家对非形式可证性或*绝对可证性*的概念抱有浓厚兴趣（Gödel 1946, Kreisel 1967）[^gödel-1946][^kreisel-1967]，包括关于其恰当定义的争论（对这些争论的良好讨论见 Leach-Krouse 2013; Kennedy 2014; Crocco 2019）[^crocco-2019][^kennedy-2014][^leach-krouse-2013]。Williamson（2016）给出如下定义：“一个数学假设是*绝对可证的*，当且仅当它原则上能经由正常的数学过程被知道。”。无论如何，清楚的是：绝对可证性概念与给定形式系统中的*形式可证性*概念非常不同——后者是本文其余部分关于可证性逻辑的核心概念。
     step2: |-
       自 1940 年代以来，数学哲学家对非形式可证性或*绝对可证性*的概念抱有浓厚兴趣（Gödel 1946, Kreisel 1967）[^gödel-1946][^kreisel-1967]，包括关于其恰当定义的争论（良好讨论见 Leach-Krouse 2013; Kennedy 2014; Crocco 2019）[^crocco-2019][^kennedy-2014][^leach-krouse-2013]。Williamson（2016）给出如下定义：“一个数学假设是*绝对可证的*，当且仅当它原则上能经由正常的数学过程被知道。”。无论如何，清楚的是：绝对可证性概念与给定形式系统中的*形式可证性*概念非常不同——后者是本文其余部分关于可证性逻辑的核心概念。
-  - id:   - id: 122
+  - id: 122
     kind: body
     source: |-
       Related to the concept of absolutely provable statements is that of *absolutely undecidable statements*, namely, those statements $A$ for which neither $A$ nor $\neg A$ is absolutely provable. An interesting question is whether Gödel’s Disjunction holds: Is it the case that either “the mind cannot be mechanized ” or “there are absolutely undecidable statements”? Fascinating takes on this question can be found in (Koellner 2016, Leach-Krouse 2016, Williamson 2016)[^koellner-2016][^leach-krouse-2016][^williamson-2016].
     step1: |-
-      与绝对可证陈述相关的概念是*绝对不可判定的陈述*：即那些 $A$ 与 $\neg A$ 都不绝对可证的陈述 A。一个有趣的问题是哥德尔析取式是否成立：是否要么“心灵无法被机械化”，要么“存在绝对不可判定的陈述”？对这一问题的精彩处理见（Koellner 2016, Leach-Krouse 2016, Williamson 2016）[^koellner-2016][^leach-krouse-2016][^williamson-2016]。
+      与绝对可证陈述相关的概念是*绝对不可判定的陈述*：即那些 $A$ 与 $\neg A$ 都不绝对可证的陈述 $A$。一个有趣的问题是哥德尔析取式是否成立：是否要么“心灵无法被机械化”，要么“存在绝对不可判定的陈述”？对这一问题的精彩处理见（Koellner 2016, Leach-Krouse 2016, Williamson 2016）[^koellner-2016][^leach-krouse-2016][^williamson-2016]。
     step2: |-
-      与绝对可证陈述相关的概念是*绝对不可判定的陈述*：即那些 $A$ 与 $\neg A$ 都不绝对可证的陈述 A。一个有趣的问题是哥德尔析取式是否成立：是否要么“心灵无法被机械化”，要么“存在绝对不可判定的陈述”？对这一问题的精彩处理见（Koellner 2016, Leach-Krouse 2016, Williamson 2016）[^koellner-2016][^leach-krouse-2016][^williamson-2016]。
-  - id:   - id: 123
+      与绝对可证陈述相关的概念是*绝对不可判定的陈述*：即那些 $A$ 与 $\neg A$ 都不绝对可证的陈述 $A$。一个有趣的问题是哥德尔析取式是否成立：是否要么“心灵无法被机械化”，要么“存在绝对不可判定的陈述”？对这一问题的精彩处理见（Koellner 2016, Leach-Krouse 2016, Williamson 2016）[^koellner-2016][^leach-krouse-2016][^williamson-2016]。
+  - id: 123
     kind: body
     source: |-
       Discussions of the consequences of Gödel’s incompleteness theorems sometimes involve confusion around the notion of provability, giving rise to claims that humans could beat formal systems in “knowing” theorems; see (Davis 1990, 1993; Franzén 1995; Lindström 2001)[^davis-1990][^lindström-2001] for good critical discussions of such claims.
@@ -1188,7 +1238,7 @@ segments:
       关于哥德尔不完备性定理之后果的讨论，有时围绕可证性概念产生混淆，引出人类能在“知道”定理一事上胜过形式系统的主张；对这些主张的良好批判性讨论见（Davis 1990, 1993; Franzén 1995; Lindström 2001）[^davis-1990][^lindström-2001]。
     step2: |-
       关于哥德尔不完备性定理之后果的讨论，有时围绕可证性概念产生混淆，引出人类能在“知道”定理一事上胜过形式系统的主张；对这些主张的良好批判性讨论见（Davis 1990, 1993; Franzén 1995; Lindström 2001）[^davis-1990][^lindström-2001]。
-  - id:   - id: 124
+  - id: 124
     kind: body
     source: |-
       All in all, formal provability is a precisely defined concept, much more so than truth and knowledge. Thus, self-reference within the scope of provability does not lead to semantic paradoxes like the Liar. Instead, it has led to some of the most important results about mathematics, such as Gödel’s incompleteness theorems.
@@ -1196,7 +1246,7 @@ segments:
       总而言之，形式可证性是一个精确定义的概念——比真与知识精确得多。因此，可证性辖域内的自指不会导致说谎者式的语义悖论。相反，它引出了关于数学的一些最重要结果，如哥德尔不完备性定理。
     step2: |-
       总而言之，形式可证性是一个精确定义的概念——比真与知识精确得多。因此，可证性辖域内的自指不会导致说谎者式的语义悖论。相反，它引出关于数学的一些最重要结果，如哥德尔不完备性定理。
-  - id:   - id: 125
+  - id: 125
     kind: oir
     source: |-
       ### Papers and Presentations
@@ -1204,7 +1254,7 @@ segments:
       ### 论文与报告
     step2: |-
       ### 论文与报告
-  - id:   - id: 126
+  - id: 126
     kind: oir
     source: |-
       - Férée, H., I. van der Giessen, S. van Gool, and I. Shillito, 2024, “[Mechanised Uniform Interpolation for Modal Logics K, GL and iSL](https://arxiv.org/abs/2402.10494)”, manuscript at arxiv.org.
@@ -1216,10 +1266,24 @@ segments:
       - Verbrugge, Rineke, [Presentation slides on provability logic](https://rinekeverbrugge.nl/wp-content/uploads/2017/02/VerbruggeProvability-Logic-clc11-1.pdf), slides, University of Groningen
       - Visser, Albert, 1986, [On formal provability versus human provability](https://www.phil.uu.nl/onderwijs/cki/cki10/cki/slides/lucasac.pdf) (in Dutch), online manuscript, University of Utrecht.
     step1: |-
-      因此，比较两种概念的强弱或把它们合并进一个模态系统，看来都是误入歧途。
+      - Férée, H., I. van der Giessen, S. van Gool, and I. Shillito, 2024, “[模态逻辑 K、GL 与 iSL 的机械化一致插值](https://arxiv.org/abs/2402.10494)”，arxiv.org 手稿。
+      - Fitting, M., 2020, “[第二个 GL 辩护逻辑](https://id144254.securedata.net/melvinfitting/bookspapers/pdf/papers/GLJustification.pdf)”，手稿见于作者网站。
+      - Goré, R. and J. Kelly, 2007, “[Gödel-Löb 可证性逻辑中的自动证明搜索](https://www.dcs.bbk.ac.uk/~roman/blc/gore-kelly-provability.pdf)”，2007 年在[英国逻辑讨论会](http://www.dcs.bbk.ac.uk/~roman/blc/)上宣读。
+      - Henk, P., and Pakhomov, F., 2016, “[皮亚诺算术的慢可证性与通常可证性](https://arxiv.org/pdf/1602.01822v2.pdf)”，arxiv.org 手稿。
+      - Mojtahedi, M., 2022, “[论 HA 的可证性逻辑](https://arxiv.org/abs/2206.00445)”，arxiv.org 手稿。
+      - Pakhomov, F., 2014a, “[论 GLP-代数的初等理论](http://arxiv.org/abs/1412.4439)”，arxiv.org 手稿。
+      - Verbrugge, Rineke, [可证性逻辑讲稿](https://rinekeverbrugge.nl/wp-content/uploads/2017/02/VerbruggeProvability-Logic-clc11-1.pdf)，讲义，格罗宁根大学。
+      - Visser, Albert, 1986, [论形式可证性与人类可证性](https://www.phil.uu.nl/onderwijs/cki/cki10/cki/slides/lucasac.pdf)（荷兰语），在线手稿，乌得勒支大学。
     step2: |-
-      因此，比较两种概念的强弱或把它们合并进一个模态系统，看来都是误入歧途。
-  - id:   - id: 127
+      - Férée, H., I. van der Giessen, S. van Gool, and I. Shillito, 2024, “[模态逻辑 K、GL 与 iSL 的机械化一致插值](https://arxiv.org/abs/2402.10494)”，arxiv.org 手稿。
+      - Fitting, M., 2020, “[第二个 GL 辩护逻辑](https://id144254.securedata.net/melvinfitting/bookspapers/pdf/papers/GLJustification.pdf)”，手稿见于作者网站。
+      - Goré, R. and J. Kelly, 2007, “[Gödel-Löb 可证性逻辑中的自动证明搜索](https://www.dcs.bbk.ac.uk/~roman/blc/gore-kelly-provability.pdf)”，2007 年在[英国逻辑讨论会](http://www.dcs.bbk.ac.uk/~roman/blc/)上宣读。
+      - Henk, P., and Pakhomov, F., 2016, “[皮亚诺算术的慢可证性与通常可证性](https://arxiv.org/pdf/1602.01822v2.pdf)”，arxiv.org 手稿。
+      - Mojtahedi, M., 2022, “[论 HA 的可证性逻辑](https://arxiv.org/abs/2206.00445)”，arxiv.org 手稿。
+      - Pakhomov, F., 2014a, “[论 GLP-代数的初等理论](http://arxiv.org/abs/1412.4439)”，arxiv.org 手稿。
+      - Verbrugge, Rineke, [可证性逻辑讲稿](https://rinekeverbrugge.nl/wp-content/uploads/2017/02/VerbruggeProvability-Logic-clc11-1.pdf)，讲义，格罗宁根大学。
+      - Visser, Albert, 1986, [论形式可证性与人类可证性](https://www.phil.uu.nl/onderwijs/cki/cki10/cki/slides/lucasac.pdf)（荷兰语），在线手稿，乌得勒支大学。
+  - id: 127
     kind: oir
     source: |-
       ### Other Sites
@@ -1227,42 +1291,52 @@ segments:
       ### 其他站点
     step2: |-
       ### 其他站点
-  - id:   - id: 128
+  - id: 128
     kind: oir
     source: |-
       - [Open problems in Provability Logic](http://www.mi.ras.ru/~bekl/problems.html), maintained by Lev Beklemishev
       - [Mailing list Foundations of Mathematics](http://www.cs.nyu.edu/mailman/listinfo/fom/), New York University
     step1: |-
-      与绝对可证陈述相关的概念是*绝对不可判定的陈述*：即那些 $A$ 与 $\neg A$ 都不绝对可证的陈述 A。一个有趣的问题是哥德尔析取式是否成立：是否要么“心灵无法被机械化”，要么“存在绝对不可判定的陈述”？对这一问题的精彩处理见（Koellner 2016, Leach-Krouse 2016, Williamson 2016）[^koellner-2016][^leach-krouse-2016][^williamson-2016]。
+      - [可证性逻辑的开问题](http://www.mi.ras.ru/~bekl/problems.html)，Lev Beklemishev 维护
+      - [数学基础邮件列表](http://www.cs.nyu.edu/mailman/listinfo/fom/)，纽约大学
     step2: |-
-      与绝对可证陈述相关的概念是*绝对不可判定的陈述*：即那些 $A$ 与 $\neg A$ 都不绝对可证的陈述 A。一个有趣的问题是哥德尔析取式是否成立：是否要么“心灵无法被机械化”，要么“存在绝对不可判定的陈述”？对这一问题的精彩处理见（Koellner 2016, Leach-Krouse 2016, Williamson 2016）[^koellner-2016][^leach-krouse-2016][^williamson-2016]。
-  - id:   - id: 129
+      - [可证性逻辑开问题清单](http://www.mi.ras.ru/~bekl/problems.html)，由 Lev Beklemishev 维护
+      - [“数学基础”邮件列表](http://www.cs.nyu.edu/mailman/listinfo/fom/)，纽约大学
+  - id: 129
     kind: ack
     source: |-
       I would like to express my immense gratitude to Lev Beklemishev, who was so kind as to write me a long letter in 2017, including many literature references to developments in provability logic as seen from his perspective. Thanks are also due to Albert Visser, Sara Uckelman, Rajeev Goré, Giovanni Sambin, Vítězslav Švejdar, Sara Negri, Joost Joosten, Ian Shillito, Wesley Holliday, Revantha Ramanayake, Anupam Das, Shawn Standefer, Toby Meadows, Edson Bezerra, Nils Kürbis, and Tadeusz Litak for their suggestions of improvements and additions to the 2017 and/or 2024 versions of this article.
     step1: |-
-      [^note-1]: Below we will present a more detailed proof sketch of GL $\vdash \Box\Diamond A \rightarrow \Box B$, a simple but surprising theorem that was suggested to us by Nils Kurbis. Let us first gather some ingredients. Note that in the modal logic K, so certainly in GL, we have that for each formula $ C $, the two formulas $ C \rightarrow \bot$ and $\neg C$ are logically equivalent and may be replaced by each other. The same holds for the two formulas $\Diamond C$ and $\neg\Box\neg C$. Moreover, by the Generalization Rule, the Distribution Axiom, and the Modus Ponens rule, we have the following derived rule for all formulas $C, D$: If GL $\vdash C \rightarrow D$, then GL $\vdash \Box C \rightarrow \Box D$. Here follows the promised proof sketch.
+      我谨向 Lev Beklemishev 致以巨大谢意：他于 2017 年好意写给我一封长信，其中包含许多文献引证，从他自己的视角呈现可证性逻辑的发展。同样感谢 Albert Visser、Sara Uckelman、Rajeev Goré、Giovanni Sambin、Vítězslav Švejdar、Sara Negri、Joost Joosten、Ian Shillito、Wesley Holliday、Revantha Ramanayake、Anupam Das、Shawn Standefer、Toby Meadows、Edson Bezerra、Nils Kürbis 与 Tadeusz Litak——他们为本文 2017 年和/或 2024 年版本的改进与增补提出建议。
     step2: |-
-      [^note-1]: Below we will present a more detailed proof sketch of GL $\vdash \Box\Diamond A \rightarrow \Box B$, a simple but surprising theorem that was suggested to us by Nils Kurbis. Let us first gather some ingredients. Note that in the modal logic K, so certainly in GL, we have that for each formula $ C $, the two formulas $ C \rightarrow \bot$ and $\neg C$ are logically equivalent and may be replaced by each other. The same holds for the two formulas $\Diamond C$ and $\neg\Box\neg C$. Moreover, by the Generalization Rule, the Distribution Axiom, and the Modus Ponens rule, we have the following derived rule for all formulas $C, D$: If GL $\vdash C \rightarrow D$, then GL $\vdash \Box C \rightarrow \Box D$. Here follows the promised proof sketch.
-  - id:   - id: 130
+      我谨向 Lev Beklemishev 致以最诚挚的谢意：他于 2017 年惠赐一封长信，其中包含大量文献引证，从他自己的视角呈现了可证性逻辑的发展。同样感谢 Albert Visser、Sara Uckelman、Rajeev Goré、Giovanni Sambin、Vítězslav Švejdar、Sara Negri、Joost Joosten、Ian Shillito、Wesley Holliday、Revantha Ramanayake、Anupam Das、Shawn Standefer、Toby Meadows、Edson Bezerra、Nils Kürbis 与 Tadeusz Litak——感谢他们为本文 2017 年和/或 2024 年版本的改进与增补提出建议。
+  - id: 130
     kind: ack
     source: |-
       This 2024 version of the article on provability logic is dedicated to the memory of three Nestors of provability logic and the meta-mathematics of first-order arithmetic: Franco Montagna (1948–2015), Sol Feferman (1928–2016), and Petr Hájek (1940–2016).
     step1: |-
-      我谨向 Lev Beklemishev 致以巨大谢意：他于 2017 年好意写给我一封长信，其中包含许多文献引证，从他自己的视角呈现可证性逻辑的发展。同样感谢 Albert Visser、Sara Uckelman、Rajeev Goré、Giovanni Sambin、Vítězslav Švejdar、Sara Negri、Joost Joosten、Ian Shillito、Wesley Holliday、Revantha Ramanayake、Anupam Das、Shawn Standefer、Toby Meadows、Edson Bezerra、Nils Kürbis 与 Tadeusz Litak——他们为本文 2017 年和/或 2024 年版本的改进与增补提出建议。
-      
       本文 2024 年版谨以此纪念可证性逻辑与一阶算术元数学的三位元老：Franco Montagna（1948–2015）、Sol Feferman（1928–2016）与 Petr Hájek（1940–2016）。
     step2: |-
-      我谨向 Lev Beklemishev 致以巨大谢意：他于 2017 年好意写给我一封长信，其中包含许多文献引证，从他自己的视角呈现可证性逻辑的发展。同样感谢 Albert Visser、Sara Uckelman、Rajeev Goré、Giovanni Sambin、Vítězslav Švejdar、Sara Negri、Joost Joosten、Ian Shillito、Wesley Holliday、Revantha Ramanayake、Anupam Das、Shawn Standefer、Toby Meadows、Edson Bezerra、Nils Kürbis 与 Tadeusz Litak——他们为本文 2017 年和/或 2024 年版本的改进与增补提出建议。
-      
-      本文 2024 年版谨以此纪念可证性逻辑与一阶算术元数学的三位元老：Franco Montagna（1948–2015）、Sol Feferman（1928–2016）与 Petr Hájek（1940–2016）。
-  - id:   - id: 131
+      谨以本文 2024 年版纪念可证性逻辑与一阶算术元数学的三位元老：Franco Montagna（1948–2015）、Sol Feferman（1928–2016）与 Petr Hájek（1940–2016）。
+  - id: 131
     kind: note
     source: |-
       [^note-1]: Below we will present a more detailed proof sketch of GL $\vdash \Box\Diamond A \rightarrow \Box B$, a simple but surprising theorem that was suggested to us by Nils Kurbis. Let us first gather some ingredients. Note that in the modal logic K, so certainly in GL, we have that for each formula $ C $, the two formulas $ C \rightarrow \bot$ and $\neg C$ are logically equivalent and may be replaced by each other. The same holds for the two formulas $\Diamond C$ and $\neg\Box\neg C$. Moreover, by the Generalization Rule, the Distribution Axiom, and the Modus Ponens rule, we have the following derived rule for all formulas $C, D$: If GL $\vdash C \rightarrow D$, then GL $\vdash \Box C \rightarrow \Box D$. Here follows the promised proof sketch.
+
+      1. GL $\vdash \bot \rightarrow \neg A$ (tautology of propositional logic)
+      2. GL $\vdash \Box \bot \rightarrow \Box\neg A$ (from line 1 by the derived rule above)
+      3. GL $\vdash \bot \rightarrow B$ (tautology of propositional logic)
+      4. GL $\vdash \Box\bot \rightarrow \Box B$ (from line 3 by the derived rule above)
+      5. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box\bot $ (axiom GL)
+      6. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box B $ (from lines 4, 5 by hypothetical syllogism)
+      7. GL $\vdash \Diamond A \rightarrow (\Box \bot \rightarrow \bot) $ (from line 2 by contraposition and the above-mentioned equivalences)
+      8. GL $\vdash \Box\Diamond A \rightarrow \Box(\Box \bot \rightarrow \bot) $ (from line 7 by the derived rule above)
+      9. GL $\vdash \Box\Diamond A \rightarrow \Box B $ (from lines 6, 8 by hypothetical syllogism).
+
+      Note that semantically, it is easy to see that the formula $\Box\Diamond A \rightarrow \Box B $ is valid on transitive, conversely well-founded frames (see Section 3). After all, each formula of the form $\Box\Diamond A$ can only hold in the end-points of transitive, conversely well-founded frames; and in all the end-points of such frames, we also have $\Box\bot$, and therefore $\Box B$ for every formula $B$.
     step1: |-
-      下文我们将给出 $\GL \vdash \Box\Diamond A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\Diamond C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
-      
+      [^note-1]: 下文我们将给出 GL $\vdash \Box\Diamond A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\Diamond C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
+
       1. GL $\vdash \bot \rightarrow \neg A$（命题逻辑重言式）
       2. GL $\vdash \Box \bot \rightarrow \Box\neg A$（由第 1 行经上述导出规则）
       3. GL $\vdash \bot \rightarrow B$（命题逻辑重言式）
@@ -1272,13 +1346,11 @@ segments:
       7. GL $\vdash \Diamond A \rightarrow (\Box \bot \rightarrow \bot) $（由第 2 行经逆否与上述等价）
       8. GL $\vdash \Box\Diamond A \rightarrow \Box(\Box \bot \rightarrow \bot) $（由第 7 行经上述导出规则）
       9. GL $\vdash \Box\Diamond A \rightarrow \Box B $（由第 6、8 行经假言三段论）。
-      
+
       注意从语义上看，容易看出公式 $\Box\Diamond A \rightarrow \Box B $ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\Diamond A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
-      
-      
     step2: |-
-      下文我们将给出 $\GL \vdash \Box\Diamond A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\Diamond C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
-      
+      [^note-1]: 下文我们将给出 GL $\vdash \Box\Diamond A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\Diamond C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
+
       1. GL $\vdash \bot \rightarrow \neg A$（命题逻辑重言式）
       2. GL $\vdash \Box \bot \rightarrow \Box\neg A$（由第 1 行经上述导出规则）
       3. GL $\vdash \bot \rightarrow B$（命题逻辑重言式）
@@ -1288,51 +1360,21 @@ segments:
       7. GL $\vdash \Diamond A \rightarrow (\Box \bot \rightarrow \bot) $（由第 2 行经逆否与上述等价）
       8. GL $\vdash \Box\Diamond A \rightarrow \Box(\Box \bot \rightarrow \bot) $（由第 7 行经上述导出规则）
       9. GL $\vdash \Box\Diamond A \rightarrow \Box B $（由第 6、8 行经假言三段论）。
-      
+
       注意从语义上看，容易看出公式 $\Box\Diamond A \rightarrow \Box B $ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\Diamond A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
-      
-      
-  - id:   - id: 132
+  - id: 132
     kind: note
     source: |-
       [^note-2]: It turns out that almost the same counterexample works for intuitionistic provability logic, even for the version without $\Diamond$, which was proved by Ian Shillito (2023, Theorem 13.2.1). As suggested by Rosalie Iemhoff, one only needs to replace each $\Diamond$ in the example above by $\neg\Box\neg$.
     step1: |-
-      [^note-2]: 我谨向 Lev Beklemishev 致以巨大谢意：他于 2017 年好意写给我一封长信，其中包含许多文献引证，从他自己的视角呈现可证性逻辑的发展。同样感谢 Albert Visser、Sara Uckelman、Rajeev Goré、Giovanni Sambin、Vítězslav Švejdar、Sara Negri、Joost Joosten、Ian Shillito、Wesley Holliday、Revantha Ramanayake、Anupam Das、Shawn Standefer、Toby Meadows、Edson Bezerra、Nils Kürbis 与 Tadeusz Litak——他们为本文 2017 年和/或 2024 年版本的改进与增补提出建议。
-      
-      本文 2024 年版谨以此纪念可证性逻辑与一阶算术元数学的三位元老：Franco Montagna（1948–2015）、Sol Feferman（1928–2016）与 Petr Hájek（1940–2016）。
+      [^note-2]: 事实证明，几乎同一个反例也适用于直觉主义可证性逻辑，甚至适用于不带 $\Diamond$ 的版本；这是 Ian Shillito（2023，定理 13.2.1）证明的。正如 Rosalie Iemhoff 所建议，只需把上例中的每个 $\Diamond$ 替换为 $\neg\Box\neg$。
     step2: |-
-      [^note-2]: 我谨向 Lev Beklemishev 致以巨大谢意：他于 2017 年好意写给我一封长信，其中包含许多文献引证，从他自己的视角呈现可证性逻辑的发展。同样感谢 Albert Visser、Sara Uckelman、Rajeev Goré、Giovanni Sambin、Vítězslav Švejdar、Sara Negri、Joost Joosten、Ian Shillito、Wesley Holliday、Revantha Ramanayake、Anupam Das、Shawn Standefer、Toby Meadows、Edson Bezerra、Nils Kürbis 与 Tadeusz Litak——他们为本文 2017 年和/或 2024 年版本的改进与增补提出建议。
-      
-      本文 2024 年版谨以此纪念可证性逻辑与一阶算术元数学的三位元老：Franco Montagna（1948–2015）、Sol Feferman（1928–2016）与 Petr Hájek（1940–2016）。
-  - id:   - id: 133
+      [^note-2]: 事实上，几乎同一个反例对直觉主义可证性逻辑同样有效，甚至对不带 $\Diamond$ 的版本亦然——该结果由 Ian Shillito（2023，定理 13.2.1）证明。按 Rosalie Iemhoff 的建议，只需将上例中的每个 $\Diamond$ 换成 $\neg\Box\neg$。
+  - id: 133
     kind: note
     source: |-
       [^note-3]: Holliday and Litak (2019) strengthened this result by showing that GLB is not only Kripke frame incomplete, but even incomplete with respect to Boolean algebras for which the $\Diamond$ operator is *completely additive*, that is, for any set $X$ of elements, if $\bigvee X$ exists, then $\bigvee\{\Diamond x \mid x \in X \}$ also exists and $\Diamond\bigvee X = \bigvee\{\Diamond x \mid x \in X \}$. One of the nice aspects of their result is that the bimodal provability logic GLB is the first naturally occurring modal logic that shows such incompleteness with respect to completely additive Boolean algebras. Note that the logic that Van Benthem (1979) originally used to show the existence of a modally incomplete logic was also a (slightly artificial) variation on provability logic, namely, $K$ with the extra axiom $\Box\Diamond\top\rightarrow \Box(\Box(\Box p \rightarrow p) \rightarrow p)$, a weakening of GL.
     step1: |-
-      [^note-3]: 下文我们将给出 $\GL \vdash \Box\Diamond A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\Diamond C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
-      
-      1. GL $\vdash \bot \rightarrow \neg A$（命题逻辑重言式）
-      2. GL $\vdash \Box \bot \rightarrow \Box\neg A$（由第 1 行经上述导出规则）
-      3. GL $\vdash \bot \rightarrow B$（命题逻辑重言式）
-      4. GL $\vdash \Box\bot \rightarrow \Box B$（由第 3 行经上述导出规则）
-      5. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box\bot $（公理 GL）
-      6. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box B $（由第 4、5 行经假言三段论）
-      7. GL $\vdash \Diamond A \rightarrow (\Box \bot \rightarrow \bot) $（由第 2 行经逆否与上述等价）
-      8. GL $\vdash \Box\Diamond A \rightarrow \Box(\Box \bot \rightarrow \bot) $（由第 7 行经上述导出规则）
-      9. GL $\vdash \Box\Diamond A \rightarrow \Box B $（由第 6、8 行经假言三段论）。
-      
-      注意从语义上看，容易看出公式 $\Box\Diamond A \rightarrow \Box B $ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\Diamond A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
+      [^note-3]: Holliday 与 Litak（2019）强化了这一结果：他们证明 GLB 不仅相对 Kripke 框架不完全，甚至相对于 $\Diamond$ 算子为*完全可加的*布尔代数也不完全——所谓完全可加，即对任意元素集合 $X$，若 $\bigvee X$ 存在，则 $\bigvee\{\Diamond x \mid x \in X \}$ 也存在，且 $\Diamond\bigvee X = \bigvee\{\Diamond x \mid x \in X \}$。他们的结果有一个很好的方面：双模可证性逻辑 GLB 是第一个在完全可加布尔代数上表现出这种不完全性的自然出现的模态逻辑。注意，Van Benthem（1979）最初用来证明模态不完全逻辑之存在的逻辑，也是可证性逻辑的一个（略显人工的）变体，即 $K$ 加上额外公理 $\Box\Diamond\top\rightarrow \Box(\Box(\Box p \rightarrow p) \rightarrow p)$——它是 GL 的一个弱化。
     step2: |-
-      [^note-3]: 下文我们将给出 $\GL \vdash \Box\Diamond A \rightarrow \Box B$ 的更详细证明概述——这是一个简单却令人惊讶的定理，由 Nils Kurbis 向我们建议。先收集一些素材。注意在模态逻辑 K（当然也在 GL）中，对每个公式 $ C $，两个公式 $ C \rightarrow \bot$ 与 $\neg C$ 逻辑等价，可以互相替换。对两个公式 $\Diamond C$ 与 $\neg\Box\neg C$ 亦然。此外，由概括规则、分配公理与分离规则，对一切公式 $C, D$ 我们有如下导出规则：若 GL $\vdash C \rightarrow D$，则 GL $\vdash \Box C \rightarrow \Box D$。以下就是应许的证明概述。
-      
-      1. GL $\vdash \bot \rightarrow \neg A$（命题逻辑重言式）
-      2. GL $\vdash \Box \bot \rightarrow \Box\neg A$（由第 1 行经上述导出规则）
-      3. GL $\vdash \bot \rightarrow B$（命题逻辑重言式）
-      4. GL $\vdash \Box\bot \rightarrow \Box B$（由第 3 行经上述导出规则）
-      5. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box\bot $（公理 GL）
-      6. GL $\vdash \Box(\Box \bot \rightarrow \bot) \rightarrow \Box B $（由第 4、5 行经假言三段论）
-      7. GL $\vdash \Diamond A \rightarrow (\Box \bot \rightarrow \bot) $（由第 2 行经逆否与上述等价）
-      8. GL $\vdash \Box\Diamond A \rightarrow \Box(\Box \bot \rightarrow \bot) $（由第 7 行经上述导出规则）
-      9. GL $\vdash \Box\Diamond A \rightarrow \Box B $（由第 6、8 行经假言三段论）。
-      
-      注意从语义上看，容易看出公式 $\Box\Diamond A \rightarrow \Box B $ 在传递逆良基框架上有效（见第 3 节）。毕竟，形如 $\Box\Diamond A$ 的公式只能在传递逆良基框架的端点处成立；而在此类框架的所有端点处，我们也有 $\Box\bot$，从而对每个公式 $B$ 都有 $\Box B$。
+      [^note-3]: Holliday 与 Litak（2019）强化了这一结果：GLB 不仅相对 Kripke 框架不完全，甚至相对于 $\Diamond$ 算子*完全可加*的布尔代数也不完全——所谓完全可加，是说对任意元素集 $X$，只要 $\bigvee X$ 存在，$\bigvee\{\Diamond x \mid x \in X \}$ 便也存在，且 $\Diamond\bigvee X = \bigvee\{\Diamond x \mid x \in X \}$。这一结果有一个漂亮的侧面：双模可证性逻辑 GLB 是第一个在完全可加布尔代数上表现出这种不完全性的自然出现的模态逻辑。还应注意，Van Benthem（1979）最初用来证明存在模态不完全逻辑的那个逻辑，同样是可证性逻辑的一个（略显人工的）变体——即 $K$ 再加一条额外公理 $\Box\Diamond\top\rightarrow \Box(\Box(\Box p \rightarrow p) \rightarrow p)$，它是 GL 的一个弱化。

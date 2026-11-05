@@ -2,7 +2,7 @@
   "slug": "logic-provability",
   "kind": "retranslate",
   "zh_doc": "l/logic-provability.md",
-  "state": "cleared",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "direction",
@@ -17,6 +17,20 @@
       "actor": "task_ops",
       "at": "2026-11-04T20:53:05Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T16:05:56Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译+接手修复）：前会话 133 段账本存在四类损伤——①段90-133 id 行双前缀缩进事故（已修 44 行）②A 类数学丢失 17 段（7,10,15,16,24,26,29,33,34,38,47,58,84,85,89,101,122——step2 丢 50455 展示块/行内公式/合并式拆分/V 元丢失，已逐段补插源 LaTeX 原文）③B 类整段未译 8 段（8,9,56,88,100,115,116,117 step1=step2=英文源，已重译双版）④C 类错位 6 段（126/128 他人译文占位、129/130 ack 互串、131 缺 [^note-1] 前缀+\\GL 形态、132/133 笔记错置，已归位重译）。lq.py parse_yuanwen 补 note_cont 笔记延续块折叠（防静默丢块，note-1 列表+语义段折叠后 $ 计数 46=46 精确吻合）。守恒校验 HARD=0（133 段）；compose 写回 87449 字符；italic_to_bold 21 行转换+相关词条行还原（集群 \\* 占位与英文斜体豁免）+3 处连字符粗体间距手修；style --strict 0 issue。SOFT 留痕：前会话遗留 step1==step2 约 90 段（机械段，s2 统一语言过校），长度比越界待 s2 逐条判读。修复脚本 script/_repair_lp.py 入库留痕"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T16:24:32Z",
+      "evidence": "s1 一校（对照源逐节核销，MTPE 顺序先幻觉漏译增译后术语语言）：①133 段源/译对照全文通读（script/_lp_s1_read.txt），修复段 27 处逐一复核、其余 106 段逐节核销——无 Critical/Major：无漏译、无增译、无幻觉引文、论证方向与模态词准确（GL/GLB/GLP 公理方向、可靠/完全两方向、Löb 三条件编号、Solovay 1976/Segerberg 1971/Esakia 1981 等年份人名全对）②数字多集合比对（script/_s1_digits_lp.py）：3 段差异逐一定性为正当译法（段11/58 'early 1970s'→'七十年代早期/初'；段22 译文补主语 K4）③术语：词汇表滞后 0，哥德尔析取式/逆良基/可解释性逻辑/证成逻辑/平稳反射等在册 ④相关词条 24 项全对齐 SUMMARY 主名形（此前 9 项未匹配：基于逻辑的人工智能/柯里悖论/菲奇的可知性悖论/哥德尔不完备定理/希尔伯特计划/逻辑史：现代模态逻辑的起源/经典逻辑/模态逻辑/可能世界/《数学原理》/证明论的发展/大基数与独立性）⑤biblio_audit flagged=0（无中国文献还原项）⑥现制 References（引用注释）形态对 18thGerman-preKant 先例：契约注记+13 空子节标题+211 条定义照录"
     }
   ],
   "blockers": [],
