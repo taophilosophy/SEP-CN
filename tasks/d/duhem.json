@@ -2,7 +2,7 @@
   "slug": "duhem",
   "kind": "retranslate",
   "zh_doc": "d/duhem.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "LQ-main-20261106",
       "at": "2026-11-05T19:17:23Z",
       "evidence": "r2 机械核验轮（主会话同会话复核——用户裁定不用子代理，r3 冷置补偿）：①引用闭包：文内 17 引用键（含契约注记 [^key] 说明文字 1 处误捕已甄别）全部有定义，定义 65 键与脚注区逐键集合一致（duhem 脚注定义区在文末形态）；②文献表条目：镜像 27 数据行=译文 27 数据行、分隔行 2=2 逐一致（r1 补齐后复核）；③pubinfo：'2007 年 7 月 13 日；2026 年 2 月 13 日实质修订'↔镜像 First published Jul 13, 2007; substantive revision Feb 13, 2026 ✓（另修标题后多余空行 1 处对齐站内形态）；④数字多集合比对：源多译少 1894×1=译文缩写 1892–94 正当、译多源少 10×6/9×2/2×2/7/6/3 全系月名汉译数字（October→10 月等）正当——0 实质差异；⑤术语/人名反校：惠威尔/布里丹（让）/非充分决定性/首现括注 25 处经 r1 修复后与登记册一致。0 新增修正"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T20:06:54Z",
+      "evidence": "r3 终审（冷置后回读——冷置期间完成 011 C 批深读 conway/crathorn/croce 三条为间隔任务）：①落点终验 8 项全过（M12 缩写表/编年表在位、外文残留清零、首现括注、惠威尔统一含派生形'休厄尔式'1 处补网、非充分决定性、相关词条主名形、文献表 27 数据行）；②六检终验：style --strict 0/math 0/academic --strict 0/prose 83 与上会话 s2 豁免清单同域（de-chain 45 科学史定语+long 28 引文回译句）留痕；③发布词汇表 Species/Aphrodisias 兼容形消冲突（随 C 批深读完成）；④人名表 23 行补登+主形修正经 r1/r2 复核在位"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T20:06:54Z",
+      "evidence": "done：状态机全链（clear/draft/s1/s2/s3/r1/r2/r3）全过，四检终绿（style/math/academic/terms 0 硬错误），Major 漏译文献表补齐，ADR-0022 人名首现括注 25 处合规，相关词条 23 项对齐 SUMMARY 主名形，人名表净增 23 行——duhem 收口为 d 批完整收口件"
     }
   ],
   "blockers": [],

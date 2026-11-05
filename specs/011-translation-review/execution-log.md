@@ -197,3 +197,12 @@
 * 实修 3 处+账本同步 1：①"克罗齐并非此意：例如，画家事实上并非离了颜料也能凑合"语义指代不清（源 By this Croce does not mean to say that... the painter could get by without paint）→"克罗齐这样说，并不意味着例如画家事实上可以没有颜料而照样作画"；②引文块粗体断错（**几乎**是**交织**）→**几乎** 是 **交织** 的；③引文注标记错乱（*PPH **227–8...参** Aes*.）→（*PPH* 227–8...参 *Aes*.）；④账本 step2 斜体旧形态同步粗体终态（italic-cjk 合规，compose 可复现）。
 * 检查器：style --strict 0/academic --strict 0。
 * C 批深读接力剩余见 deepread-todo.txt（d 批起）。
+
+## 2026-11-06 会话收口总结（LQ-main-20261106）
+
+* **两件收口 done**：logic-provability（l 批，133 段账本闭环：s2 机械段判读 11 实改+漂移 27+2 回写收口+r1/r2/r3 含 ADR-0022 人名归一 10 处，done）；duhem（d 批，Major 漏译 Primary Sources 两张文献表补齐+外文残留 5+1+首现括注 25 处+布里丹/惠威尔对齐+非充分决定性术语归位，done）。
+* **深读滚动 +3**（累计 46 pass）：conway（species 叠字统一+尾节中文化 15 处）、crathorn（种相段标记错乱修复+段内闭环）、croce-aesthetics（语义归位+引文标记修复 4 处）——C 批推进至 croce 后，下一接力 d 批（deepread-todo.txt）。
+* **术语/人名表同步**：人名表补 23 行（duhem 生平人物）+主形按正文用形修正（ADR-0022）；species 术语登记；发布词汇表 Species/Aphrodisias 两处修弱势方（含弃维基依据）。全库冲突 0。
+* **管线工具沉淀**：lq.py summary_index 别名行兜底+map_related 归一化增强（24 项全命中主名形）；同键异义冲突以发布词汇表兼容形"种／物种"消解（check_terms 口径）。
+* **移交清单**：①双版账本批（conway/crathorn/croce 类）译文侧 s2 润色漂移未回写账本——账本闭环轮批量处理；②map_related 同名 en 多词条歧义（biology/physics "experiment in"）待 slug 消歧；③008 战役域存量告警（Molyneux×2、ʿAyn al-Quḍāt 滞后、Mullā Ṣadrā/Eustachius/Melissus 两形分立）；④术语在线跑批（termonline-batch）本会话未起（术语新增 2 行已附学界惯例凭证，待批次凭证补强）。
+* 门禁 7/7 全绿；PROGRESS 刷新（正式 1879，done 93）。
