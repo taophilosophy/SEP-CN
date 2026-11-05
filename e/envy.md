@@ -99,11 +99,11 @@ Sara Protasi（2016）提供了一个更复杂的嫉妒分类学，其中包括�
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=envy). |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/envy/) 于 [斯坦福哲学百科全书之友](https://leibniz.stanford.edu/friends/)。 |
-> |   | [查询与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=envy&redirect=True) 于互联网哲学本体论项目（InPhO）。 |
-> |   | [本词条增强书目](http://philpapers.org/sep/envy/) 于 [PhilPapers](http://philpapers.org)，含其数据库链接。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=envy). |
+> | --- | --------------------------------------------------------------------------------------------------------------------------- |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/envy/) 于 [斯坦福哲学百科全书之友](https://leibniz.stanford.edu/friends/)。 |
+> | | [查询与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=envy&redirect=True) 于互联网哲学本体论项目（InPhO）。 |
+> | | [本词条增强书目](http://philpapers.org/sep/envy/) 于 [PhilPapers](http://philpapers.org)，含其数据库链接。 |
 
 ## 其他网络资源
 

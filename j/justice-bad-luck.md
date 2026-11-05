@@ -153,7 +153,7 @@
 *表 1.*
 
 | | 实际才能水平 | 实际努力水平 | 实际报酬分配 | 中立化运气的报酬分配 |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :----: | :----: | :----: | :--------: |
 | 亚当 | 低 | 低 | 10 | 17.5 |
 | 比阿特丽斯 | 高 | 高 | 30 | 22.5 |
 | 克洛德 | 低 | 高 | 20 | 22.5 |
@@ -166,7 +166,7 @@
 *表 2.*
 
 | | 实际才能水平 | 实际努力水平 | 反事实才能水平 | 反事实努力水平 | 实际报酬分配 | 中立化运气的报酬分配 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :----: | :----: | :-----: | :-----: | :----: | :--------: |
 | 亚当 | 低 | 低 | 高 | 高 | 10 | ? |
 | 比阿特丽斯 | 高 | 高 | 低 | 低 | 30 | ? |
 | 克洛德 | 低 | 高 | 高 | 高 | 20 | ? |
@@ -197,11 +197,11 @@
 
 ## 学术工具
 >
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justice-bad-luck). |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/justice-bad-luck/) 于 [斯坦福哲学百科全书之友](https://leibniz.stanford.edu/friends/)。 |
-> |   | [查询与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=justice-bad-luck&redirect=True) 于互联网哲学本体论项目（InPhO）。 |
-> |   | [本词条增强书目](https://philpapers.org/sep/justice-bad-luck/) 于 [PhilPapers](https://philpapers.org/)，含其数据库链接。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=justice-bad-luck). |
+> | --- | --------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/justice-bad-luck/) 于 [斯坦福哲学百科全书之友](https://leibniz.stanford.edu/friends/)。 |
+> | | [查询与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=justice-bad-luck&redirect=True) 于互联网哲学本体论项目（InPhO）。 |
+> | | [本词条增强书目](https://philpapers.org/sep/justice-bad-luck/) 于 [PhilPapers](https://philpapers.org/)，含其数据库链接。 |
 
 ## 其他网络资源
 

@@ -152,7 +152,7 @@ P20/P21 的作者颇为热衷于强调它 **并非** 意味着什么，即并非
 所论论证在原始文献中以多种形式出现：它见于《Introductiones Montane Minores》（65–66），也见于一部关于波爱修斯《论假言三段论》的匿名注疏（SH1，fol. 79vb; 转引自 De Rijk 1966: 52–56; 关于字母—数字编号，见 Iwakuma 2024: 20 n. 2）[^de-1966][^iwakuma-2024]。在原始文献中，最优雅的表述见于后者。这就是（称之为 EA2），连同 Martin（1987b: 394–395; 另见 Martin 1987a: 433）的符号化重构[^martin-1987a]：
 
 | | EA2 | Formal |
-| --- | --- | --- |
+| --- | ---------------------------------- | ---------------------------------------------------------------------- |
 | 1. | 如果苏格拉底是人，他是动物。 | $p \to q$ [真条件句] |
 | 2. | 如果苏格拉底是人且不是动物，苏格拉底不是动物。 | $(p \land \neg q) \to \neg q$ [简化律] |
 | 3. | 如果苏格拉底不是动物，苏格拉底不是人。 | $\neg q \to \neg p$ [1 逆否律] $[(p \land \neg q) \to \neg p]$ [2, 3 传递律] |
@@ -381,11 +381,11 @@ P20/P21 的作者颇为热衷于强调它 **并非** 意味着什么，即并非
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=alberic-paris)。 |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/alberic-paris/)见[SEP 之友协会](https://leibniz.stanford.edu/friends/)。 |
-> |   | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=alberic-paris&redirect=True)见互联网哲学本体论项目（InPhO）。 |
-> |   | [本词条的增强文献目录](https://philpapers.org/sep/alberic-paris/)见[PhilPapers](https://philpapers.org/)，含其数据库链接。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=alberic-paris)。 |
+> | --- | ------------------------------------------------------------------------------------------------------------------------------- |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/alberic-paris/)见[SEP 之友协会](https://leibniz.stanford.edu/friends/)。 |
+> | | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=alberic-paris&redirect=True)见互联网哲学本体论项目（InPhO）。 |
+> | | [本词条的增强文献目录](https://philpapers.org/sep/alberic-paris/)见[PhilPapers](https://philpapers.org/)，含其数据库链接。 |
 
 ## 其他网络资源
 

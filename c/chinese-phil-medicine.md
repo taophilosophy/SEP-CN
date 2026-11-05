@@ -180,11 +180,11 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 
 ## 学术工具
 
-> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-phil-medicine). |
-> | --- | --- |
-> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=chinese-phil-medicine&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> |   | [Enhanced bibliography for this entry](http://philpapers.org/sep/chinese-phil-medicine/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-phil-medicine). |
+> | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/chinese-phil-medicine/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=chinese-phil-medicine&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | | [Enhanced bibliography for this entry](http://philpapers.org/sep/chinese-phil-medicine/) at [PhilPapers](http://philpapers.org/), with links to its database. |
 
 ## 其他网络资源
 

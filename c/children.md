@@ -200,11 +200,11 @@ IAPC 的儿童哲学方法对许多教师来说更具吸引力的特点之一，
 
 ## 学术工具
 
-> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=children). |
-> | --- | --- |
-> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/children/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=children&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/children/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=children). |
+> | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/children/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=children&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/children/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
 ## 其他网络资源
 

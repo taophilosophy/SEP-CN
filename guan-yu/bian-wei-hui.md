@@ -2,21 +2,21 @@
 
 ## 执行编辑
 
-|||
-| :---: | :---: |
-| 联合主编| [Edward N. Zalta](https://mally.stanford.edu//zalta.html)（斯坦福大学） <br> [Uri Nodelman](http://ai.stanford.edu/~nodelman/)（斯坦福大学） |
-| 副主编| [Colin Allen](https://colinallen.dnsalias.org/)（匹兹堡大学）<br> [Hannah Kim](https://philosophy.arizona.edu/person/hannah-kim/)（亚利桑那大学）<br> [Paul Oppenheimer](https://www.peoppenheimer.org/)（斯坦福大学和阿德莱德大学） |
+| | |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 联合主编 | [Edward N. Zalta](https://mally.stanford.edu//zalta.html)（斯坦福大学） <br> [Uri Nodelman](http://ai.stanford.edu/~nodelman/)（斯坦福大学） |
+| 副主编 | [Colin Allen](https://colinallen.dnsalias.org/)（匹兹堡大学）<br> [Hannah Kim](https://philosophy.arizona.edu/person/hannah-kim/)（亚利桑那大学）<br> [Paul Oppenheimer](https://www.peoppenheimer.org/)（斯坦福大学和阿德莱德大学） |
 
 ## 学科编辑
 
 | | |
-| :---: | :---: |
+| :---------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 行动哲学 | [Luca Ferrero](http://philosophy.ucr.edu/luca-ferrero/)（加州大学河滨分校） <br> [Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/)（康奈尔大学） |
 | 美学 | [Robert Stecker](https://www.cmich.edu/colleges/chsbs/PHLREL/philosophy/faculty/Pages/stecker.aspx)（中密歇根大学）<br> [Alex Neill](http://www.philosophy.soton.ac.uk/staff_pages/staffprofiles/neill.htm)（南安普顿大学）<br> [James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/)（奥本大学）<br> [Rachel E. Zuckert](https://philosophy.northwestern.edu/people/continuing-faculty/zuckert-cv-for-phil-dept-website-2021.pdf)（美国西北大学）<br> [María José Alcaraz León](https://webs.um.es/mariajo/miwiki/doku.php?id=inicio)（穆尔西亚大学）<br> [Eileen John](https://warwick.ac.uk/fac/soc/philosophy/people/john/)（华威大学） |
 | 非洲和非裔美国人的哲学 | [Tommie Shelby](https://aaas.fas.harvard.edu/people/tommie-shelby)（哈佛大学）<br> [Souleymane Bachir Diagne](https://french.columbia.edu/content/souleymane-bachir-diagne)（哥伦比亚大学）<br> [Olúfẹ́mi Táíwò](http://www.olufemiotaiwo.com/cv.html)（康奈尔大学）<br> [Kristie Dotson](https://lsa.umich.edu/philosophy/people/faculty/kldotson.html)（密歇根大学） |
 
 | 古代哲学 | |
-| :---: | :---: |
+| :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 古代哲学 | [Gábor Betegh](http://www.classics.cam.ac.uk/directory/professor-gabor-betegh)（剑桥大学）<br> [Brad Inwood](https://classics.yale.edu/people/brad-inwood)（耶鲁大学）<br> [Benjamin Morison](https://philosophy.princeton.edu/people/benjamin-morison)（普林斯顿大学）<br> [Sara Magrin](https://www.philosophy.pitt.edu/person/sara-magrin)（匹兹堡大学） |
 | 亚里士多德 | [Christopher Shields](https://cjishields.com/about-us/)（加州大学圣地亚哥分校） |
 | 柏拉图 | [Richard Kraut](https://classics.northwestern.edu/people/faculty/emeritus-faculty/richard-kraut.html)（美国西北大学） |
@@ -27,15 +27,15 @@
 | 认识论 | [Earl Conee](http://www.rochester.edu/College/phl/people/faculty/conee_earl/index.html)（罗切斯特大学）<br> [Jennifer Lackey](http://www.philosophy.northwestern.edu/people/faculty/lackey.html)（美国西北大学）<br> [Jessica Brown](https://www.st-andrews.ac.uk/philosophy/dept/staffprofiles/?staffid=94)（圣安德鲁斯大学）<br> [Selim Berker](https://scholar.harvard.edu/sberker/)（哈佛大学） |
 | 形式认识论 | [Brian Skyrms](http://faculty.sites.uci.edu/skyrms/)（加州大学欧文分校）<br> [James Joyce](http://www-personal.umich.edu/~jjoyce/)（密歇根大学）<br> [Alan Hájek](http://philosophy.anu.edu.au/profile/alan-hajek/)（澳大利亚国立大学）<br> [Richard Pettigrew](http://eis.bris.ac.uk/~rp3959/)（布里斯托大学）<br> [RA Briggs](https://philosophy.stanford.edu/people/ray-briggs)（斯坦福大学） |
 
-|伦理学||
-| :---: | :---: |
-| 规范道德| [Holly Smith](http://philosophy.rutgers.edu/people/faculty/629-smith-holly)（罗格斯大学）<br> [Mark Timmons](http://timmons.faculty.arizona.edu/)（亚利桑那大学）<br> [Sarah Stroud](https://philosophy.unc.edu/people/sarah-stroud/)（北卡罗来纳大学）<br> [Thomas Hurka](https://thomashurka.com/)（多伦多大学） |
-| 道德心理学| [Walter Sinnott-Armstrong](http://sites.duke.edu/wsa/)（杜克大学） |
-| 伦理史| [斯蒂芬·达沃尔](http://www-personal.umich.edu/~sdarwall/)（耶鲁大学） |
-| 元伦理学| [Sigrún Svavarsdóttir](http://ase.tufts.edu/philosophy/faculty/svavarsdottir.asp)（塔夫茨大学）<br> [Matthew Chrisman](https://www.ed.ac.uk/profile/matthew-chrisman)（爱丁堡大学）<br> [James Dreier](https://philosophy.brown.edu/people/jamie-dreier)（布朗大学）<br> [Sarah McGrath](https://sites.google.com/view/smcgrath/home)（普林斯顿大学） |
+| 伦理学 | |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 规范道德 | [Holly Smith](http://philosophy.rutgers.edu/people/faculty/629-smith-holly)（罗格斯大学）<br> [Mark Timmons](http://timmons.faculty.arizona.edu/)（亚利桑那大学）<br> [Sarah Stroud](https://philosophy.unc.edu/people/sarah-stroud/)（北卡罗来纳大学）<br> [Thomas Hurka](https://thomashurka.com/)（多伦多大学） |
+| 道德心理学 | [Walter Sinnott-Armstrong](http://sites.duke.edu/wsa/)（杜克大学） |
+| 伦理史 | [斯蒂芬·达沃尔](http://www-personal.umich.edu/~sdarwall/)（耶鲁大学） |
+| 元伦理学 | [Sigrún Svavarsdóttir](http://ase.tufts.edu/philosophy/faculty/svavarsdottir.asp)（塔夫茨大学）<br> [Matthew Chrisman](https://www.ed.ac.uk/profile/matthew-chrisman)（爱丁堡大学）<br> [James Dreier](https://philosophy.brown.edu/people/jamie-dreier)（布朗大学）<br> [Sarah McGrath](https://sites.google.com/view/smcgrath/home)（普林斯顿大学） |
 
 | 应用伦理学 | |
-| :---: | :---: |
+| :---------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 生物医学伦理 | [Hilary Bok](http://philosophy.jhu.edu/bios/hilary-bok/)（约翰·霍普金斯大学）<br> [Jennifer Hawkins](https://scholars.duke.edu/person/jen.hawkins)（杜克大学）<br> [Sean Aas](https://kennedyinstitute.georgetown.edu/people/sean-aas/)（乔治城大学）<br> [Dana Howard](https://sites.google.com/site/danasarahhoward/)（俄亥俄州立大学） |
 | 道德与信息技术 | [Jason Borenstein](https://spp.gatech.edu/people/person/79e785b1-0bad-5022-9bee-7126ced2c846)（佐治亚理工学院）<br> [Thomas Powers](http://udel.edu/~tpowers/)（特拉华大学） |
 | 女权主义 | [Anita Superson](https://philosophy.as.uky.edu/users/superson)（肯塔基大学）<br> [Noëlle McAfee](http://philosophy.emory.edu/home/people/faculty/mcafee-noelle.html)（埃默里大学）<br> [Ann Garry](https://www.calstatela.edu/faculty/ann-garry/)（加州大学洛杉矶分校）<br> [Heidi Grasswick](http://www.middlebury.edu/academics/phil/faculty/node/16021)（米德尔伯里学院）<br> [Serene Khader](https://www.serenekhader.com/)（纽约市立大学研究生中心和布鲁克林学院） |
@@ -49,7 +49,7 @@
 | 法哲学 | [Scott J. Shapiro](http://www.law.yale.edu/faculty/SShapiro.htm)（耶鲁大学）<br> [Kimberly Ferzan](https://www.law.upenn.edu/cf/faculty/kferzan/)（宾夕法尼亚大学法学院）<br> [Martin Stone](https://cardozo.yu.edu/directory/martin-j-stone)（叶史瓦大学卡多佐法学院）<br> [Kimberley Brownlee](https://philosophy.ubc.ca/profile/kimberley-brownlee/)（不列颠哥伦比亚大学）<br> [Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer_code=leslie.green)（牛津大学） |
 
 | 逻辑学 | |
-| :---: | :---: |
+| :------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 数学逻辑 | [Dag Westerståhl](http://www.philosophy.su.se/english/research/our-researchers/faculty/dag-westerst%C3%A5hl-1.165620)（斯德哥尔摩大学）<br> [Rosalie Iemhoff](https://www.phil.uu.nl/~iemhoff/)（乌得勒支大学） |
 | 哲学逻辑 | [Marcus Kracht](http://wwwhomes.uni-bielefeld.de/mkracht/index-en.html)（比勒费尔德大学）<br> [Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/)（波鸿鲁尔大学）<br> [Katalin Bimbó](http://www.ualberta.ca/~bimbo/)（阿尔伯塔大学）<br> [Wesley Holliday](https://sites.google.com/site/wesholliday/)（加州大学伯克利分校）<br> [Paul Egré](http://paulegre.free.fr/)（美国国家科学研究中心 (CNRS)/Jean-Nicod 研究所） |
 | 逻辑哲学 | [John MacFarlane](http://johnmacfarlane.net/)（加州大学伯克利分校）<br> [Joshua Schechter](http://www.brown.edu/Departments/Philosophy/people-facultymember.php?key=16)（布朗大学）<br> [Gillian Russell](https://gillianrussell.net/)（澳大利亚天主教大学）<br> [Catarina Dutilh Novaes](https://www.cdutilhnovaes.com/)（阿姆斯特丹自由大学） |
@@ -62,7 +62,7 @@
 | 心灵哲学 | [David Chalmers](http://consc.net/chalmers/)（纽约大学）<br> [Daniel Stoljar](http://philosophy.cass.anu.edu.au/people/daniel-stoljar)（澳大利亚国立大学）<br> [Susanna Siegel](https://philosophy.fas.harvard.edu/people/susanna-siegel)（哈佛大学）<br> [Alex Byrne](http://web.mit.edu/philosophy/byrne.html)（麻省理工学院）<br> [Amy Kind](https://www.cmc.edu/academic/faculty/profile/amy-kind)（克莱蒙特麦肯纳学院）<br> [Jeff Speaks](http://www3.nd.edu/~jspeaks/)（圣母大学） |
 
 | 物理学哲学 | |
-| :---: | :---: |
+| :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 量子力学 | [Wayne Myrvold](http://publish.uwo.ca/~wmyrvold/)（西安大略大学） |
 | 时空 | [John D. Norton](http://www.pitt.edu/~jdnorton/jdnorton.html)（匹兹堡大学） |
 | 宗教哲学 | [Paul Draper](https://www.cla.purdue.edu/philosophy/directory/?p=paul_draper)（普渡大学）<br> [Helen De Cruz](http://helendecruz.net/)（圣路易斯大学）<br> [Victoria Harrison](https://fah.um.edu.mo/staff/staff-philosophy/victoria-harrison/)（澳门大学）<br> [Hud Hudson](https://sites.google.com/view/hud-hudson/home)（西华盛顿大学）<br> [Scott A. Davison](https://scottdavison.webstarts.com/)（莫尔黑德州立大学） |

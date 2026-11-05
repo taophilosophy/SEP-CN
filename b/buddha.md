@@ -120,7 +120,7 @@
 ### 主要文献
 
 | [**A**] | **Anguttara Nikāya**: *The Book of the Gradual Sayings*, trans. F. L. Woodward & E. M. Hare, 5 volumes, Bristol: Pali Text Society, 1932–6. |
-| --- | --- |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**D**] | **Dīgha Nikāya**: *The Long Discourses of the Buddha: A Translation of the Dīgha Nikāya*, trans. Maurice Walshe, Boston: Wisdom Publications, 1987. |
 | [**M**] | **Majjhima Nikāya**: *The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikaya*, trans. Bhikkhu Nanamoli and Bhikkhu Bodhi, Boston: Wisdom Publications, 1995. |
 | [**S**] | **Saṃyutta Nikāya**: *The Connected Discourses of the Buddha*, trans. Bhikkhu Bodhi, Boston: Wisdom Publications, 2000. |
@@ -161,11 +161,11 @@
 
 ## 学术工具
 
-> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=buddha). |
-> | --- | --- |
-> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/buddha/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=buddha&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/buddha/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=buddha). |
+> | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/buddha/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=buddha&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/buddha/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
 ## 其他网络资源
 

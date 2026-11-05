@@ -130,21 +130,21 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 由于玩家既会当发送者也会当接收者，他们必须对每种情形都有策略。这样的策略共有十六个；我们假定它们或由生物学父母遗传（或习得），或基于以得分衡量的可感知成功而被模仿。策略 $I_1$ 与 $I_2$ 是信号系统：若两个玩家都采用这两个策略中的同一个，他们总能得到收益。$I_3$ 与 $I_4$ 是反信号策略，导致持续的不协调，尽管它们相互对抗时表现良好。所有其他策略都涉及 $S_3, S_4, R_3$ 或 $R_4$，即无论外部状态如何都执行同一行动。
 
 | | **发送者策略** |
-| :---: | :---: |
+| :---: | :-------------------------------: |
 | $S_1$ | 若 $T_1$ 发送 $M_1$；若 $T_2$ 发送 $M_2$ |
 | $S_2$ | 若 $T_1$ 发送 $M_2$；若 $T_2$ 发送 $M_1$ |
 | $S_3$ | 若 $T_1$ 或 $T_2$ 发送 $M_1$ |
 | $S_4$ | 若 $T_1$ 或 $T_2$ 发送 $M_2$ |
 
 | | **接收者策略** |
-| :---: | :---: |
+| :---: | :-------------------------------: |
 | $R_1$ | 若 $M_1$ 执行 $A_1$；若 $M_2$ 执行 $A_2$ |
 | $R_2$ | 若 $M_1$ 执行 $A_2$；若 $M_2$ 执行 $A_1$ |
 | $R_3$ | 对 $M_1$ 或 $M_2$ 执行 $A_1$ |
 | $R_4$ | 对 $M_1$ 或 $M_2$ 执行 $A_2$ |
 
 | **完整策略** | | | | |
-| :---: | :---: | :---: | :---: | :---: |
+| :------: | :-------: | :---: | :-------: | :-------: |
 | $I_1$: | $S_1,R_1$ | | $I_9$: | $S_3,R_1$ |
 | $I_2$: | $S_2,R_2$ | | $I_{10}$: | $S_3,R_2$ |
 | $I_3$: | $S_1,R_2$ | | $I_{11}$: | $S_3,R_3$ |
@@ -163,11 +163,11 @@ $$ dp_i /dt = p(w_i - \overline{w}) $$
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-evolutionary). |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epistemology-evolutionary/) 于 [斯坦福哲学百科全书之友](https://leibniz.stanford.edu/friends/)。 |
-> |   | [查询与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=epistemology-evolutionary&redirect=True) 于互联网哲学本体论项目（InPhO）。 |
-> |   | [本词条增强书目](https://philpapers.org/sep/epistemology-evolutionary/) 于 [PhilPapers](https://philpapers.org/)，含其数据库链接。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epistemology-evolutionary). |
+> | --- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epistemology-evolutionary/) 于 [斯坦福哲学百科全书之友](https://leibniz.stanford.edu/friends/)。 |
+> | | [查询与本词条相关的主题与思想家](https://www.inphoproject.org/entity?sep=epistemology-evolutionary&redirect=True) 于互联网哲学本体论项目（InPhO）。 |
+> | | [本词条增强书目](https://philpapers.org/sep/epistemology-evolutionary/) 于 [PhilPapers](https://philpapers.org/)，含其数据库链接。 |
 
 ## 其他网络资源
 

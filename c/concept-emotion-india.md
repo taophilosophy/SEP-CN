@@ -135,7 +135,7 @@
 ### 原始文献
 
 | [BSBh] | Śaṃkara, *Brahma-sūtra-bhāṣya*; (1) *Brahmasūtra with Śaṃkarabhāṣya, works of Saṃkarācarya in original Sanskrit, vol. 3*, Delhi: Motial Banarsidass, 2007; (2) V. H. Date (transl.), *Vedānta Explained, Śaṃkara’s Commentary on the Brahma-sūtras*, Delhi: Munshiram Manoharlal Publishers, 1973. |
-| --- | --- |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [NB] | Vātsyāyana, *Nyāya-bhāṣya*; see NS. |
 | [NM] | Jayanta Bhaṭṭa, *Nyāya-mañjarī*; (1) Gaurīnātha Śāstrī (ed.), *Nyāya-mañjarī of Jayanta Bhaṭṭa with the commentary of Granthibhaṅga by Cakradhar, parts 1–3*, Varanasi: Sampūrnānanda Sanskrita Viśvavidyālaya, 1982; (2) GRETIL; (3) Janaki Vallabha Bhattacharyya (transl.), *Jayanta Bhaṭṭa’s Nyāya-Mañjarī, vol. 1*, Delhi: Motilal Banarsidass, 1978. |
 | [NS] | *Nyāya-sūtras*; (1) Taranatha Nyaya-Tarkatirtha and Amarendramohan Tarkatirtha (eds.), *Nyāyadarśanam with Vātsyāyana’s Bhāṣya, Uddyotakara’s Vārttika, Vācaspati Miśra’s Tātparyatīkā and Viśvanātha’s Vṛtti*, Delhi: Munshiram Manoharlal, 1985; (2) GRETIL; (3) Ganganatha Jha (transl.), *The Nyāya-sūtras of Gautama with the Bhāṣya of Vātsyāyana and the Vārttika of Uddyotakara*, Delhi: Motilal Banarsidass, 1984. |
@@ -153,11 +153,11 @@
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=concept-emotion-india). |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/concept-emotion-india/)（[SEP 之友协会](https://leibniz.stanford.edu/friends/)）。 |
-> |   | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=concept-emotion-india&redirect=True)（互联网哲学本体论项目，InPhO）。 |
-> |   | [本词条的增强文献目录](https://philpapers.org/sep/concept-emotion-india/)（[PhilPapers](https://philpapers.org/)），含其数据库链接。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=concept-emotion-india). |
+> | --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/concept-emotion-india/)（[SEP 之友协会](https://leibniz.stanford.edu/friends/)）。 |
+> | | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=concept-emotion-india&redirect=True)（互联网哲学本体论项目，InPhO）。 |
+> | | [本词条的增强文献目录](https://philpapers.org/sep/concept-emotion-india/)（[PhilPapers](https://philpapers.org/)），含其数据库链接。 |
 
 ## 其他网络资源
 

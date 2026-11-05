@@ -205,11 +205,11 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epsilon-calculus). |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/)（[SEP 之友学会](https://leibniz.stanford.edu/friends/)）. |
-> |   | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=epsilon-calculus&redirect=True)（互联网哲学本体论项目，InPhO）. |
-> |   | [本词条的增强文献目录](https://philpapers.org/sep/epsilon-calculus/)（[PhilPapers](https://philpapers.org/)），含其数据库链接. |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=epsilon-calculus). |
+> | --- | ----------------------------------------------------------------------------------------------------------------------------------- |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/epsilon-calculus/)（[SEP 之友学会](https://leibniz.stanford.edu/friends/)）. |
+> | | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=epsilon-calculus&redirect=True)（互联网哲学本体论项目，InPhO）. |
+> | | [本词条的增强文献目录](https://philpapers.org/sep/epsilon-calculus/)（[PhilPapers](https://philpapers.org/)），含其数据库链接. |
 
 ## 其他网络资源
 

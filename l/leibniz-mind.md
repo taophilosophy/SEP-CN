@@ -114,21 +114,21 @@
 
 ### Works of Leibniz
 
-|**A**| *Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe*. Edited by the German Academy of Science. Darmstadt and Berlin: Berlin Academy, 1923–. Cited by series, volume, and page. |
-| --- | --- |
-|**A&G**| *Philosophical Essays*. Edited and translated by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. |
-|**C**| *Opuscules et Fragments Inédits de Leibniz*. Edited by Louis Couturat. Paris: Felix Alcan, 1903. |
-|**G**| *Die Philosophischen Schriften von Gottfried Wilhelm Leibniz*. Edited by C.I. Gerhardt. Berlin: Weidman, 1875–1890. Cited by volume and page. |
-|**Grua**| *Textes Inédits*. Edited by Gaston Grua. Paris: Presses Universitaires de France, 1948. |
-|**H**| *Theodicy*. Edited by Austin Farrer and translated by E.M. Huggard. New Haven: Yale UP, 1952. |
-|**L**| *Philosophical Papers and Letters*. Edited by Leroy Loemker, 2nd ed. Dordrecht: Reidel, 1969. |
-|**LA**| *The Leibniz-Arnauld Correspondence*. Translated and edited by H.T. Mason. Manchester: Manchester UP, 1967. |
-|**MP**| *Philosophical Writings*. Translated and edited by Mary Morris and G.H.R. Parkinson. London: Dent, 1973. |
-|**P**| *Leibniz: Logical Papers*. Translated and edited by G.H.R. Parkinson. Oxford: Oxford UP, 1966. |
-|**RB**| *New Essays on Human Understanding*. Translated and edited by Peter Remnant and Jonathon Bennett. Cambridge: Cambridge UP, 1982. |
-|**S**| *Monadology and Other Philosophical Essays*. Translated and edited by Paul Schrecker and Anne Martin Schrecker. New York: Bobbs-Merrill Co., 1965. |
-|**W&F**| *Leibniz’s ‘New System’ and Associated Contemporary Texts*. Edited and translated by R.S. Woolhouse and Richard Francks. Oxford: Clarendon, 1997. |
-|**W**| *Leibniz: Selections*. Edited by Philip P. Wiener. New York: Charles Scribner’s Sons, 1951. |
+| **A** | *Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe*. Edited by the German Academy of Science. Darmstadt and Berlin: Berlin Academy, 1923–. Cited by series, volume, and page. |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **A&G** | *Philosophical Essays*. Edited and translated by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. |
+| **C** | *Opuscules et Fragments Inédits de Leibniz*. Edited by Louis Couturat. Paris: Felix Alcan, 1903. |
+| **G** | *Die Philosophischen Schriften von Gottfried Wilhelm Leibniz*. Edited by C.I. Gerhardt. Berlin: Weidman, 1875–1890. Cited by volume and page. |
+| **Grua** | *Textes Inédits*. Edited by Gaston Grua. Paris: Presses Universitaires de France, 1948. |
+| **H** | *Theodicy*. Edited by Austin Farrer and translated by E.M. Huggard. New Haven: Yale UP, 1952. |
+| **L** | *Philosophical Papers and Letters*. Edited by Leroy Loemker, 2nd ed. Dordrecht: Reidel, 1969. |
+| **LA** | *The Leibniz-Arnauld Correspondence*. Translated and edited by H.T. Mason. Manchester: Manchester UP, 1967. |
+| **MP** | *Philosophical Writings*. Translated and edited by Mary Morris and G.H.R. Parkinson. London: Dent, 1973. |
+| **P** | *Leibniz: Logical Papers*. Translated and edited by G.H.R. Parkinson. Oxford: Oxford UP, 1966. |
+| **RB** | *New Essays on Human Understanding*. Translated and edited by Peter Remnant and Jonathon Bennett. Cambridge: Cambridge UP, 1982. |
+| **S** | *Monadology and Other Philosophical Essays*. Translated and edited by Paul Schrecker and Anne Martin Schrecker. New York: Bobbs-Merrill Co., 1965. |
+| **W&F** | *Leibniz’s ‘New System’ and Associated Contemporary Texts*. Edited and translated by R.S. Woolhouse and Richard Francks. Oxford: Clarendon, 1997. |
+| **W** | *Leibniz: Selections*. Edited by Philip P. Wiener. New York: Charles Scribner’s Sons, 1951. |
 
 ### Secondary Literature
 

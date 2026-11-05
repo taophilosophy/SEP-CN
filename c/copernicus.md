@@ -106,11 +106,11 @@ Goddu (381–84) 有说服力地主张：尽管哥白尼最初的动机是不满
 
 ## 学术工具
 
-> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=copernicus). |
-> | --- | --- |
-> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/copernicus/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=copernicus&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/copernicus/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=copernicus). |
+> | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/copernicus/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=copernicus&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/copernicus/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
 ## 其他网络资源
 

@@ -296,11 +296,11 @@
 
 ## 学术工具
 
-> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bauer). |
-> | --- | --- |
-> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bauer/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bauer&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/bauer/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bauer). |
+> | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bauer/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bauer&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | | [Enhanced bibliography for this entry](https://philpapers.org/sep/bauer/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
 ## 其他网络资源
 

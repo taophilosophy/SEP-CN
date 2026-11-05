@@ -19,7 +19,7 @@ $$\begin{align} \neg \exists i' &: \langle f,i'\rangle \gt \langle f,i\rangle \\
 双向优选论说明了经典的数量含义。一个方便（尽管有争议）的例子是数词的“恰好”解读。为举例起见，让我们假定数词在语义上具有“至少”意义。[^note-1] 不过，我们仍想说明这样一种直觉：“三个孩子来参加聚会了”通常被解读为说 **恰好** 三个孩子来参加聚会了。做到这一点的一种方式是假定说话者可以使用的备选表达式都具有形式“（**至少**）$n$ 个孩子来参加聚会了”，而听话者的备选解读则是 $i_n$ 型的，意为“**恰好** $n$ 个孩子来参加聚会了”。[^note-2] 如果我们再次为举例起见假定，所有相关解读都被认为是同样可能的，并且已经普遍假定有些孩子来了、但不多于四个，那么强最优的形式—解读配对可以从下表中读出：
 
 | $P(i\mid \llbracket f\rrbracket)$ | $i_1$ | $i_2$ | $i_3$ | $i_4$ |
-| --- | --- | --- | --- | --- |
+| --------------------------------- | -------------- | --------------- | --------------- | --------------- |
 | ‘one’ | $\Rightarrow$¼ | ¼ | ¼ | ¼ |
 | ‘two’ | 0 | $\Rightarrow ⅓$ | $⅓$ | $⅓$ |
 | ‘three’ | 0 | 0 | $\Rightarrow$ ½ | ½ |
@@ -38,7 +38,7 @@ $$\begin{align} \neg \exists i' &: \langle f,i'\rangle \gt \langle f,i\rangle \\
 假定约翰和比尔是仅有的相关人士，并且预设有人来参加聚会了。在这种情况下，说明双向最优推理的表如下所示（其中 $i_x$ 是只有 $x$ 来了的解读）：
 
 | $P(i\mid \llbracket f\rrbracket)$ | $i_j$ | $i_b$ | $i_{jb}$ |
-| --- | --- | --- | --- | --- |
+| --------------------------------- | --------------- | --------------- | --------------- |
 | ‘John’ | $\Rightarrow ½$ | 0 | $½$ |
 | ‘Bill’ | 0 | $\Rightarrow ½$ | $½$ |
 | ‘John and Bill’ | 0 | 0 | $\Rightarrow 1$ |
@@ -114,11 +114,11 @@ $$ \llbracket `\text{four}\rsquo \rrbracket \subset \llbracket `\text{three}\rsq
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=implicature-optimality-games)。 |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/implicature-optimality-games/)（[SEP 之友协会](https://leibniz.stanford.edu/friends/)）。 |
-> |   | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=implicature-optimality-games&redirect=True)（互联网哲学本体论项目，InPhO）。 |
-> |   | [本词条的增强文献目录](https://philpapers.org/sep/implicature-optimality-games/)（[PhilPapers](https://philpapers.org/)），含其数据库链接。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=implicature-optimality-games)。 |
+> | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/implicature-optimality-games/)（[SEP 之友协会](https://leibniz.stanford.edu/friends/)）。 |
+> | | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=implicature-optimality-games&redirect=True)（互联网哲学本体论项目，InPhO）。 |
+> | | [本词条的增强文献目录](https://philpapers.org/sep/implicature-optimality-games/)（[PhilPapers](https://philpapers.org/)），含其数据库链接。 |
 
 ## 其他网络资源
 

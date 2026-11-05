@@ -66,7 +66,7 @@ $$\begin{align*} [\phi] + [\psi] &= [\phi \vee \psi] \\ [\phi] \cdot[\psi] &= [\
 每个 BA 都同构于一个林登鲍姆–塔尔斯基代数。然而，这些经典林登鲍姆–塔尔斯基代数最重要的用途之一，是为重要理论（通常是可判定理论）描述它们。对可数语言，这可以通过描述其同构的区间代数来完成。一般这给出对该理论的透彻了解。一些例子是：
 
 | | **理论** | **同构于其上的区间代数** |
-| :---: | :---: | :---: |
+| :---: | :------: | :-----------------------------------------------------------------------------------: |
 | (1) | 本质不可判定理论 | $\mathbb{Q}$，有理数 |
 | (2) | BA | $\mathbb{N} \times \mathbb{N}$，正整数的平方，按字典序排序 |
 | (3) | 线性序 | $\mathbf{A} \times \mathbb{Q}$ 按反字典序排序，其中 $\mathbf{A}$ 是通常序下的 $\mathbb{N}^\mathbb{N}$ |
@@ -98,11 +98,11 @@ $$\begin{align*} \val{x \in y} &= \sum_{t \in \dom(y)} \val{x=t}\cdot y(t) \\ \v
 
 ## 学术工具
 
-> |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boolalg-math). |
-> | --- | --- |
-> |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/boolalg-math/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=boolalg-math&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> |   | [Enhanced bibliography for this entry](http://philpapers.org/sep/boolalg-math/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+> | | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=boolalg-math). |
+> | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/boolalg-math/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=boolalg-math&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | | [Enhanced bibliography for this entry](http://philpapers.org/sep/boolalg-math/) at [PhilPapers](http://philpapers.org/), with links to its database. |
 
 ## 其他网络资源
 

@@ -302,11 +302,11 @@
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-18th-french). |
-> | --- | --- |
-> |   | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/aesthetics-18th-french/)（[SEP 之友学会](https://leibniz.stanford.edu/friends/)）。 |
-> |   | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=aesthetics-18th-french&redirect=True)（互联网哲学本体论项目，InPhO）。 |
-> |   | [本词条的增强文献目录](https://philpapers.org/sep/aesthetics-18th-french/)（[PhilPapers](https://philpapers.org/)，含数据库链接）。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetics-18th-french). |
+> | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/aesthetics-18th-french/)（[SEP 之友学会](https://leibniz.stanford.edu/friends/)）。 |
+> | | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=aesthetics-18th-french&redirect=True)（互联网哲学本体论项目，InPhO）。 |
+> | | [本词条的增强文献目录](https://philpapers.org/sep/aesthetics-18th-french/)（[PhilPapers](https://philpapers.org/)，含数据库链接）。 |
 
 ## 其他网络资源
 

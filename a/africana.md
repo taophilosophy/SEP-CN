@@ -828,11 +828,11 @@
 
 ## 学术工具
 
-> |   | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=africana). |
-> | --- | --- |
-> |   | [在 SEP 学会之友预览本词条之 PDF 版本](https://leibniz.stanford.edu/friends/preview/africana/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。 |
-> |   | [在互联网哲学本体论项目（InPhO）查找与本词条相关之话题与思想家](https://www.inphoproject.org/entity?sep=africana&redirect=True)。 |
-> |   | [在 PhilPapers 查看本词条之增强文献目录](https://philpapers.org/sep/africana/)，附其数据库链接，见 [PhilPapers](https://philpapers.org/)。 |
+> | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=africana). |
+> | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
+> | | [在 SEP 学会之友预览本词条之 PDF 版本](https://leibniz.stanford.edu/friends/preview/africana/)，见 [SEP 学会之友](https://leibniz.stanford.edu/friends/)。 |
+> | | [在互联网哲学本体论项目（InPhO）查找与本词条相关之话题与思想家](https://www.inphoproject.org/entity?sep=africana&redirect=True)。 |
+> | | [在 PhilPapers 查看本词条之增强文献目录](https://philpapers.org/sep/africana/)，附其数据库链接，见 [PhilPapers](https://philpapers.org/)。 |
 
 ## 其他网络资源
 

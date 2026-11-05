@@ -1,18 +1,18 @@
 # 编辑信息
 
-|               |                                                                                                                                                                                                                                                                          |
-| :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    **联合主编**   |                                                <p> <a href="https://mally.stanford.edu/zalta.html"> Edward N. Zalta </a>，斯坦福大学哲学系高级研究学者 <br> <a href="https://ai.stanford.edu/~nodelman/"> Uri Nodelman </a>，斯坦福大学哲学系高级研究工程师 </p>                                                |
-|    **副主编**    | <p> <a href="https://colinallen.dnsalias.org/"> Colin Allen </a>，加州大学圣巴巴拉分校哲学系教授 <br> <a href="https://philosophy.arizona.edu/person/hannah-kim/"> Hannah Kim </a>，亚利桑那大学哲学系助理教授 <br> <a href="http://www.peoppenheimer.org/"> Paul Oppenheimer </a>，斯坦福大学 &#x26; 阿德莱德大学哲学系访问讲师 </p> |
-|    **助理编辑**   |                         <p> <a href="https://www-csli.stanford.edu/people/pease-emma"> Emma Pease </a> <br> <a href="https://profiles.stanford.edu/81572"> Lauren Thomas </a> <br> <a href="https://mally.stanford.edu/alama-cv.html"> Jesse Alama </a> </p>                         |
-|    **编辑助理**   |                                                                               <p> <a href="https://philosophy.stanford.edu/people/austen-friesacher"> Austen Friesacher </a> <br> Ellie Wong </p>                                                                              |
-|   **主要贡献者**   |                                                                       <p> <a href="https://plato.stanford.edu/board.html"> 编委会 </a> <br> <a href="https://plato.stanford.edu/authors.html"> 作者名单 </a> </p>                                                                       |
-|   **其他贡献者**   |                                                                  <p> <a href="https://plato.stanford.edu/referees.html"> 临时审稿人 </a> <br> <a href="https://plato.stanford.edu/board-past.html"> 以往的主题编辑 </a> </p>                                                                 |
-|    **学术赞助**   |                                                <p> <a href="http://philosophy.stanford.edu/profile/R+Anderson/"> R. Lanier Anderson </a>，斯坦福大学哲学系 <br> <a href="https://web.stanford.edu/~icard/"> Thomas Icard </a>，斯坦福大学哲学系 </p>                                               |
-|   **顾问委员会**   |                                                                                                                [斯坦福大学哲学系](http://philosophy.stanford.edu/)                                                                                                               |
-|    **出版商**    |                   <p> <a href="https://mally.stanford.edu/"> Metaphysics Research Lab </a> <br> <a href="https://philosophy.stanford.edu/"> Philosophy Department </a> <br> <a href="http://www.stanford.edu/"> Stanford University </a> <br> Stanford, CA 94305 </p>                  |
-| **美国国会图书馆目录** |                                                                                                                              ISSN 1095-5054                                                                                                                              |
-|    **电子邮件**   |                                                                                                  [*editors@plato.stanford.edu*](mailto:editors%40plato%2estanford%2eedu)                                                                                                 |
+| | |
+| :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **联合主编** | <p> <a href="https://mally.stanford.edu/zalta.html"> Edward N. Zalta </a>，斯坦福大学哲学系高级研究学者 <br> <a href="https://ai.stanford.edu/~nodelman/"> Uri Nodelman </a>，斯坦福大学哲学系高级研究工程师 </p> |
+| **副主编** | <p> <a href="https://colinallen.dnsalias.org/"> Colin Allen </a>，加州大学圣巴巴拉分校哲学系教授 <br> <a href="https://philosophy.arizona.edu/person/hannah-kim/"> Hannah Kim </a>，亚利桑那大学哲学系助理教授 <br> <a href="http://www.peoppenheimer.org/"> Paul Oppenheimer </a>，斯坦福大学 &#x26; 阿德莱德大学哲学系访问讲师 </p> |
+| **助理编辑** | <p> <a href="https://www-csli.stanford.edu/people/pease-emma"> Emma Pease </a> <br> <a href="https://profiles.stanford.edu/81572"> Lauren Thomas </a> <br> <a href="https://mally.stanford.edu/alama-cv.html"> Jesse Alama </a> </p> |
+| **编辑助理** | <p> <a href="https://philosophy.stanford.edu/people/austen-friesacher"> Austen Friesacher </a> <br> Ellie Wong </p> |
+| **主要贡献者** | <p> <a href="https://plato.stanford.edu/board.html"> 编委会 </a> <br> <a href="https://plato.stanford.edu/authors.html"> 作者名单 </a> </p> |
+| **其他贡献者** | <p> <a href="https://plato.stanford.edu/referees.html"> 临时审稿人 </a> <br> <a href="https://plato.stanford.edu/board-past.html"> 以往的主题编辑 </a> </p> |
+| **学术赞助** | <p> <a href="http://philosophy.stanford.edu/profile/R+Anderson/"> R. Lanier Anderson </a>，斯坦福大学哲学系 <br> <a href="https://web.stanford.edu/~icard/"> Thomas Icard </a>，斯坦福大学哲学系 </p> |
+| **顾问委员会** | [斯坦福大学哲学系](http://philosophy.stanford.edu/) |
+| **出版商** | <p> <a href="https://mally.stanford.edu/"> Metaphysics Research Lab </a> <br> <a href="https://philosophy.stanford.edu/"> Philosophy Department </a> <br> <a href="http://www.stanford.edu/"> Stanford University </a> <br> Stanford, CA 94305 </p> |
+| **美国国会图书馆目录** | ISSN 1095-5054 |
+| **电子邮件** | [*editors@plato.stanford.edu*](mailto:editors%40plato%2estanford%2eedu) |
 
 ## 作者信息
 
