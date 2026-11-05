@@ -2,7 +2,7 @@
   "slug": "duhem",
   "kind": "retranslate",
   "zh_doc": "d/duhem.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "LQ-main-20261106",
       "at": "2026-11-05T18:59:49Z",
       "evidence": "r1 初审（对照源深读，主会话——用户裁定不用子代理）：源文 341 行与译文 297 行全文对照通读，重点核生平年代/师承事件链（李普曼评审组/最大功原理/里尔-雷恩-波尔多轨迹）/两方法批判（牛顿派·笛卡尔派）/三心智论（细巧·几何·良识）/判决性实验（傅科实验）/科学史（1277/冲力说/达·芬奇研究/世界体系十卷）/柯瓦雷批评，结构与页码全对（1861–1916/1884–85/1902/1917 等逐年核过）。Major 修复 1：源文 Primary Sources 两张文献表（LPD/EHPS/LAS/CPT 缩写词表 4 条+著作编年表 26 条+Secondary Sources 节）上会话整块漏译且 References 说明行承诺'见本文末'落空——已按非中文照录规则补进 References 区。外文残留 5 处+排版 1 处实修（individually 地/affirming/mores/various/defective×2/unmatched 闭括号）。人名体例按 ADR-0022 补首现括注 25 处；布里丹对齐 SUMMARY 主名形（约翰→让）、惠威尔统一（休厄尔×3）；欠决定性→非充分决定性（词汇表亦作集+SUMMARY 词条名）。相关词条 3 项对齐 SUMMARY 主名形（借增强版 map_related 全 23 项核验；physics:experiment in 歧义命中留痕，译文'物理实验'对主行）。人名表补 23 行+5 行主形改按正文用形（ADR-0022）。复检：check_terms 硬错误 0/academic --strict 0/style 0（bold-spacing 1 项已修）/prose 83 与上会话 s2 豁免清单同域（de-chain 科学史定语+引文回译长句）。存量留痕：Molyneux×2 告警、ʿAyn al-Quḍāt 滞后、Mullā Ṣadrā 两形分立（008 战役域）。映射工具歧义：en 同名多词条时 map_related 取首个命中（生物学实验 vs 物理实验），待加 slug 消歧（低优先）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T19:17:23Z",
+      "evidence": "r2 机械核验轮（主会话同会话复核——用户裁定不用子代理，r3 冷置补偿）：①引用闭包：文内 17 引用键（含契约注记 [^key] 说明文字 1 处误捕已甄别）全部有定义，定义 65 键与脚注区逐键集合一致（duhem 脚注定义区在文末形态）；②文献表条目：镜像 27 数据行=译文 27 数据行、分隔行 2=2 逐一致（r1 补齐后复核）；③pubinfo：'2007 年 7 月 13 日；2026 年 2 月 13 日实质修订'↔镜像 First published Jul 13, 2007; substantive revision Feb 13, 2026 ✓（另修标题后多余空行 1 处对齐站内形态）；④数字多集合比对：源多译少 1894×1=译文缩写 1892–94 正当、译多源少 10×6/9×2/2×2/7/6/3 全系月名汉译数字（October→10 月等）正当——0 实质差异；⑤术语/人名反校：惠威尔/布里丹（让）/非充分决定性/首现括注 25 处经 r1 修复后与登记册一致。0 新增修正"
     }
   ],
   "blockers": [],
