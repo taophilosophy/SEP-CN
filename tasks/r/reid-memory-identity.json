@@ -2,7 +2,7 @@
   "slug": "reid-memory-identity",
   "kind": "retranslate",
   "zh_doc": "r/reid-memory-identity.md",
-  "state": "s1_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -31,6 +31,27 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-05T15:29:56Z",
       "evidence": "s1 一校：61 段数字多集合逐段比对 0 差异；脚注键闭环——正文 31 唯一键↔31 定义（差集 {key} 系 References 说明行字面 [^key] 标记，非真引用，reasoning-analogy r2 同例）；check_terms 硬错误 0；相关词条 7/7 对齐 SUMMARY（personal identity: and ethics→人格同一性与伦理学 补齐）；术语落地：人格同一性（SUMMARY 既定形）/勇敢军官案例/对误认免疫/束论/单子/分离论"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T15:43:13Z",
+      "evidence": "s2 二校：check_prose 42→35——修复 15（长句拆分×8：seg1/5/9/12/19/20/42×2/49/53；de-chain 重排×4：seg2/14/23/30；被动×2：seg23/51；弱动词×1：seg13 作出承诺→如此承诺；含死循环事故一对 new==old 替换对被环路保护拦截后改单次替换）；余 35 条逐类豁免留痕：译文引语内部（洛克/休谟/里德引文×6）、术语并列（领会/构想/表象的-串×14）、数学-拉丁交错（×5）、自然例句（婚礼/生日×3）、其余为 Reid 技术句固有的概念密度结构；step1 忠实底同步部分修复"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T15:43:14Z",
+      "evidence": "s3 三校：style --strict 0；academic --strict 0 硬错误；math 0 missing/unbalanced；summary 0（H1=SUMMARY 全形）；prose 35（豁免留痕）；check_terms 0 硬错误；markdownlint 随 CI"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-05T15:43:14Z",
+      "evidence": "r1 初审（对照源自审，初译 actor）：61 段逐段回读，重点核 Reid 三层区分（领会/相识/构想）、先前觉知条件、勇敢军官案例的传递性论证方向、五重批评的次序与力度、对误认免疫与第一人称证据论；结构完整性（导语+4 节+References A/B 小节+学术工具+OIR 2 条+相关词条 7 项+2 注）；0 问题。r2 独立 agent 复核进行中"
     }
   ],
   "blockers": [],
