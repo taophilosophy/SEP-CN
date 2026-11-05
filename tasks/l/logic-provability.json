@@ -2,7 +2,7 @@
   "slug": "logic-provability",
   "kind": "retranslate",
   "zh_doc": "l/logic-provability.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "direction",
@@ -38,6 +38,13 @@
       "actor": "LQ-main-20261105",
       "at": "2026-11-05T16:44:17Z",
       "evidence": "s2 二校（Fluency/Style，ADR-0020）：check_prose 11→0——14 处实修（长句拆分×5：L6/L34/L52/L54/L208；de-chain 减的×5：L54'其惯常推论'/L88'那类可能世界模型'/L237'上述由…给出的结果'/L273'足以恰好证明'+'其集合不仅…；'；弱动词×1：L295'作出贡献'→'有所贡献'；句界修复×3 含'；它更是'破三连），0 豁免留痕；另修 s1 暂记打磨点 2 处（段77'难艰巨'冗余、段96'结果不可判定'→'最终被证明不可判定'）。禁止机械改写纪律：每处均对照英文源确认语义不变（如 L208 拆句保留'把握…片段可借可判定逻辑研究'原义）||2026-11-06 补记（LQ-main-20261106，s2 账本闭环+机械段判读）：①发现上会话 s2 的 14 处实修只落译文未回写账本 step2，compose 重跑即丢失——本轮 27 处整行/合并回写 step2 把其成果固化进事实源（账本=事实源闭环），另补对12 PSPACE-完全的 粗体与段35 de-chain 回归 2 处；②SOFT 96 段 step1==step2 逐段判读，新增 11 处语言实改（相继式式→相继式型/不难于→不比…更难/一些透视→一个参照系/一点滋味→略尝滋味/这已经是因为→这至少是因为/结合以→相结合/段21·段38 定语层级归位/段24 公式内逗号归位），其余过校留痕；③lq.py 管线增强：summary_index 别名行仅兜底不覆盖主行 + map_related 引号归一/剥星号/冒号后变体匹配，24 项相关词条全命中 SUMMARY 主名形（此前 9 项 compose 回退英文的复现性缺口修复）；④复检 style/prose 0 issue、academic --strict 无硬错误、守恒 HARD=0"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T18:25:54Z",
+      "evidence": "s3 三校（体例）：六检全绿——style --strict 0 / academic --strict 0 硬错误 / math 0 missing·unbalanced / summary 0 / prose 0 / check_terms 0 硬错误（词汇表滞后 0）；引号、空格、强调体例经 s2 回写后与站内形态一致；markdownlint 随 CI"
     }
   ],
   "blockers": [],
