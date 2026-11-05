@@ -65,7 +65,7 @@
       "status": "ok",
       "actor": "LQ-main-20261105",
       "at": "2026-11-05T19:20:46Z",
-      "evidence": "r3 终审（冷置后回读+验收）：r1 两处实修落稿终验（双标点 0/这个问题）；check_all 七项全绿（SUMMARY 结构/分类目录/单体文件/垃圾产物/术语一致性/学术规范/管线单测）；六检终态：style 0/prose 0/守恒 HARD=0/academic 0/math 0/summary 0；markdownlint 随 CI；结论不超证据——结论节'最富生产力的思想实验之一'措辞对源'most fertile thought-experiments'忠实。验收签字：LQ-main-20261105"
+      "evidence": "r3 终审（冷置后回读+验收）：r1 两处实修落稿终验（双标点 0/这个问题）；check_all 七项全绿（SUMMARY 结构/分类目录/单体文件/垃圾产物/术语一致性/学术规范/管线单测）；六检终态：style 0/prose 0/守恒 HARD=0/academic 0/math 0/summary 0；markdownlint 随 CI；结论不超证据——结论节'最富生产力的思想实验之一'措辞对源'most fertile thought-experiments'忠实。验收签字：LQ-main-20261105||2026-11-06 补记（诚实纠正）：r3 签字命令中 check_all 经管道 tail 掩蔽退出码，实际术语一致性门当时为红——冲突 2 处（Philoponus 人名表同键异译两行打架：duhem 菲洛波努斯 vs democritus 菲洛波诺斯；Anaxagoras 登记侧阿那克萨戈拉 vs 词汇表阿那克萨哥拉），均系他会新登记引入、非本报目。本会话按宪法 III「修弱势方」消解：人名表 Philoponus 两行并入一行主形菲洛波努斯（亦作\"菲洛波诺斯\"，保留 democritus 用例容忍）、词汇表 Anaxagoras 行对齐登记侧阿那克萨戈拉；另将本条目登记的缪勒行引号归 house 体例（『』→“”）。复跑 check_all 7/7 全绿，r3 验收结论维持，以补记后复跑为准。"
     },
     {
       "step": "done",

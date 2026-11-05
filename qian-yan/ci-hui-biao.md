@@ -516,7 +516,7 @@
 |Ammonius|赫尔米亚的阿莫尼俄斯|即 Ammonius Hermiae（赫尔米亚之子），5 世纪亚历山大里亚的亚里士多德注释家|
 |Ammonius|阿莫尼俄斯|泛指同名者；柏拉图主义者 Ammonius Saccas 通译“阿莫尼俄斯·萨卡斯”|
 |anarchism|无政府主义||
-|Anaxagoras|阿那克萨哥拉||
+|Anaxagoras|阿那克萨戈拉||
 |Anaximander|阿那克西曼德||
 |Anaximenes|阿那克西美尼||
 |ancient philosophy|古代哲学||
