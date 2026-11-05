@@ -1,0 +1,29 @@
+{
+ "slug": "redistribution",
+ "kind": "retranslate",
+ "zh_doc": "r/redistribution.md",
+ "state": "cleared",
+ "steps": [
+  {
+   "step": "direction",
+   "status": "ok",
+   "actor": "RZ-main-20261104",
+   "at": "2026-11-05T16:39:39Z",
+   "evidence": "方向声明（rules/08）：r 批第 6 件 redistribution（71KB，已核在基线与 SUMMARY）。目标：六道全过同验收判据；工具链复用 build_*.py+组装器+rz_postfix。非目标同前件；已从 religious-epistemology 教训确认基线前置核查为立项首步。"
+  },
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-11-05T16:39:38Z",
+   "evidence": "baseline gate: hash_ok"
+  }
+ ],
+ "blockers": [],
+ "created_at": "2026-11-05T16:39:38Z",
+ "version_pin": {
+  "pubinfo_date": "Feb 7, 2018",
+  "archive_edition": "Spring 2018",
+  "sha256": "26cabfd26b309d969dcb8370a5ecd4fba630a3f034f45c96f092b4a52e9f9af7"
+ }
+}
