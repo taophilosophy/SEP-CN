@@ -1,0 +1,279 @@
+version: 1
+slug: mathematics-inconsistent
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Inconsistent mathematics is the study of the mathematical theories that result when classical mathematical axioms are asserted within the framework of a (non-classical) logic which can tolerate the presence of a contradiction without turning every sentence into a theorem.
+    step1: |-
+      不一致数学研究的是这样一些数学理论：当经典数学公理被置于一种能够容忍矛盾存在、而不使每一句子都成为定理的（非经典）逻辑框架之下时，所产生的理论。
+    step2: |-
+      不一致数学研究这样一类数学理论：把经典数学公理安置在一种能容忍矛盾、而不使一切句子皆成定理的（非经典）逻辑框架之中，由此得到的理论。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Foundations of Mathematics
+    step1: |-
+      ## 1 数学基础
+    step2: |-
+      ## 1 数学基础
+  - id: 3
+    kind: body
+    source: |-
+      Inconsistent Mathematics began historically with foundational considerations. Frege and Russell proposed to found their mathematics on the naive principle of set theory: to every predicate is a set. But the naive principle leads rapidly to a proof of the existence of the Russell set, the set of all sets not members of themselves, which both is and is not a member of itself. This and other set-theoretic paradoxes noted by Russell and others led to attempts to produce consistent set theories as a foundation for mathematics. Perhaps the best known of these was Zermelo-Fraenkel set theory ZF. But ZF and others such as NBG and the like were in various ways ad hoc, having to include multiple independent principles instead of a single simple comprehension axiom. Hence, a number of people including da Costa (1974), Brady (1971, 1989), Priest, Routley, & Norman (1989, pp. 152, 498), considered it preferable to retain the full power of the natural comprehension principle, and tolerate a degree of inconsistency in set theory. Brady, in particular, has extended, streamlined and simplified these results on naive set theory in his book (2006). For a clear account see also Restall’s review (2007).
+    step1: |-
+      不一致数学在历史上始于基础问题。弗雷格与罗素提议把数学奠基于朴素集合论原则：每个谓词都对应一个集合。但朴素原则迅速导出罗素集的存在性证明——由所有不属于自身的集合组成的集合，它既是又不是自身的一员。罗素与其他人注意到的这一集合论悖论及诸如此类的悖论，引出了构造一致集合理论以作为数学基础的种种尝试。其中最著名的或许是策梅洛-弗伦克尔集合论 ZF。但 ZF 与 NBG 之类的其他理论各有特设之嫌：不得不容纳多条相互独立的原则，而非单一的简单概括公理。因此，包括 da Costa（1974）、Brady（1971, 1989）、Priest、Routley 与 Norman（1989, pp. 152, 498）在内的一些人认为：保留自然概括公理的全部力量、容忍集合论中一定程度的不一致，是更可取的。Brady 尤其在其书（2006）中扩展、精简并简化了朴素集合论上的这些结果。清晰的说明另见 Restall 的书评（2007）。
+    step2: |-
+      不一致数学在历史上始于基础之争。弗雷格与罗素提议把数学奠基于朴素集合论原则：每个谓词都有一个集合。可朴素原则转眼就导出罗素集的存在性证明——由一切不属于自身的集合组成的集合，它既属于又不属于自身。罗素等人注意到的这一悖论及同类集合论悖论，促使人们构造一致的集合理论来充当数学基础；其中最著名的当属策梅洛-弗伦克尔集合论 ZF。但 ZF 与 NBG 一类的理论各有特设之嫌：不得不容纳多条相互独立的原则，而非单一的简单概括公理。于是，da Costa（1974）、Brady（1971, 1989）、Priest、Routley 与 Norman（1989, pp. 152, 498）等人主张：更好的做法是保留自然概括公理的全部力量，容忍集合论中一定程度的不一致。Brady 尤其在其专著（2006）中扩展、精简并简化了朴素集合论上的这些结果；清晰的述评另见 Restall 的书评（2007）。
+  - id: 4
+    kind: body
+    source: |-
+      These constructions require, of course, that one dispense *at least* with that principle of Boolean logic *ex contradictione quodlibet* (ECQ) (from a contradiction every proposition may be deduced, also called explosion). In passing, C.I.Lewis showed that ECQ follows by a simple argument from the principle disjunctive syllogism (DS) (from *A*-or-*B* and not-*A* deduce *B*). So DS has to go too. Obviously, ECQ trivialises any inconsistent theory (triviality = every sentence is provable). Non-triviality should be regarded as a constraint on interesting theories: a trivial theory is useless for mathematical calculation, since a trivial theory does not distinguish principles in the theory from their negations. Similarly, considerable debate (Burgess 1981, Mortensen 1983)[^burgess-1981][^mortensen-1983], made it clear that dispensing with DS was not so counter-intuitive, especially when a plausible story emerged about the special conditions under which DS continues to hold.
+    step1: |-
+      这些构造当然要求我们至少抛弃布尔逻辑中的那条原则——*矛盾相容原则*（*ex contradictione quodlibet*，ECQ）：从矛盾可推出任何命题（亦称爆炸）。顺带一提，C.I.刘易斯证明，ECQ 可以由析取三段论原则（DS）（从 *A* 或 *B* 与非 *A* 推出 *B*）经一个简单论证得到。所以 DS 也必须抛弃。显然，ECQ 使任何不一致理论平凡化（平凡性=每个句子都可证）。非平凡性应当被看作有趣理论的约束条件：平凡理论对数学计算毫无用处，因为平凡理论不把理论中的原理与其否定区分开。类似地，大量的争论（Burgess 1981, Mortensen 1983）[^burgess-1981][^mortensen-1983] 清楚表明，抛弃 DS 并不那么反直觉——尤其当一种关于 DS 在哪些特殊条件下仍成立的合理解释出现之后。
+    step2: |-
+      这些构造当然要求我们至少抛弃布尔逻辑的一条原则——*矛盾相容原则*（*ex contradictione quodlibet*，ECQ）：从矛盾可推出任意命题（亦称爆炸）。顺带一提，C.I.刘易斯证明：由析取三段论原则（DS）（从 *A* 或 *B* 与非 *A* 推出 *B*）出发，经一个简单论证即可得 ECQ。所以 DS 也必须抛弃。显然，ECQ 会让任何不一致理论平凡化（平凡性=一切句子皆可证）。非平凡性应当视为有趣理论的约束：平凡理论对数学计算毫无用处——它不把理论中的原理与其否定区分开。同样，大量争论（Burgess 1981, Mortensen 1983）[^burgess-1981][^mortensen-1983] 清楚表明：抛弃 DS 并不那么反直觉，尤其当一种合理解释浮现之后——它说明 DS 在哪些特殊条件下仍然成立。
+  - id: 5
+    kind: body
+    source: |-
+      It should also be noted that Brady’s construction of inconsistent naive set theory opens the door to a revival of Frege-Russell logicism (briefly, that mathematics reduces to logic.) Logicism was widely held, even by Frege himself, to have been badly damaged by the Russell Paradox. If the Russell Contradiction does not spread, then there is no obvious reason why one cannot hold that naive set theory provides an adequate foundation for mathematics, and that naive set theory is deducible from logic via the naive comprehension schema. The only change needed is a move to an inconsistency-tolerant logic. Even more radically, Weber, in related papers (2010), (2012), (2013), has taken the inconsistency to be a positive virtue, since it enables us to settle several questions that were left open by Cantor, namely, that the well-ordering theorem and the axiom of choice are provable, and that the Continuum Hypothesis is false (2012, 284). Some of these come out provably both true and false; wherein Weber is concerned to advance proofs of the *classical recapture*, which is the project of showing that traditional results remain provable (2010, 72). This is invigorating new ground. Weber also showed something essential to this project, namely, that Cantor’s Theorem continues to hold; that is, it does not depend on overly-strong logical principles which are contested by paraconsistentists. Retaining Cantor’s Theorem is important in Weber’s view, since different orders of infinity remain available in inconsistent set theory.
+    step1: |-
+      还应当指出，Brady 对不一致朴素集合论的构造为弗雷格-罗素逻辑主义的复兴打开了大门（简言之，逻辑主义主张数学可还原为逻辑）。人们普遍认为——连弗雷格本人也这么认为——逻辑主义已被罗素悖论严重损伤。如果罗素矛盾不扩散，那么就没有明显的理由不认为：朴素集合论为数学提供了充分的基础，而朴素集合论可以经由朴素概括模式从逻辑导出。唯一需要的改动是转向一种容忍不一致的逻辑。更激进的是，Weber 在相关论文（2010）、（2012）、（2013）中把不一致当作一种积极的优点，因为它使我们能够解决康托尔留下的几个未决问题，即：良序定理与选择公理是可证的，而连续统假设为假（2012, 284）。其中一些结果可证得既真又假；Weber 在此关注的是推进*经典回收*的证明，即表明传统结果仍可证明的工程（2010, 72）。这是令人振奋的新天地。Weber 还证明了对此工程至关紧要的一点：康托尔定理继续成立；也就是说，它不依赖于被弗协调主义者质疑的过强逻辑原则。在 Weber 看来，保留康托尔定理很重要，因为在不一致集合论中，不同阶的无穷仍然可用。
+    step2: |-
+      还应当指出：Brady 对不一致朴素集合论的构造，为弗雷格-罗素逻辑主义的复兴敞开了大门（简言之，逻辑主义主张数学可还原为逻辑）。人们普遍认为——连弗雷格本人也不例外——逻辑主义已被罗素悖论重创。倘若罗素矛盾不扩散，那就没有明显的理由否定：朴素集合论为数学提供了充分的基础，而且朴素集合论可经朴素概括模式从逻辑中导出。唯一需要的改动，是换用一种容忍不一致的逻辑。更激进的是，Weber 在一系列论文（2010）、（2012）、（2013）中把不一致当作积极的优点：它使我们能解决康托尔留下的几个未决问题——良序定理与选择公理可证，而连续统假设为假（2012, 284）。其中一些结果被证得既真又假；Weber 在此着力推进的是*经典回收*的证明——一项表明传统结果仍可证明的工程（2010, 72）。这是令人振奋的新天地。Weber 还证明了此工程不可或缺的一点：康托尔定理继续成立——它不依赖被弗协调主义者质疑的过强逻辑原则。在他看来，保住康托尔定理至关重要：在不一致集合论中，不同阶的无穷依然可用。
+  - id: 6
+    kind: body
+    source: |-
+      In addition, mathematics contains machinery for a metalanguage, that is for talking about mathematics itself. This includes the concepts: (i) names for mathematical statements and other parts of syntax, (ii) self-reference, (iii) proof and (iv) truth. Gödel’s contribution to the philosophy of mathematics was to show that the first three of these can be rigorously expressed in arithmetical theories, albeit in theories which are either inconsistent or incomplete. The possibility of a well-structured example of the former of these two alternatives, namely inconsistency, was not taken seriously, again because of belief in ECQ. However, in addition natural languages seem to have their own truth predicate. Combined with self-reference this produces the Liar paradox, “This sentence is false”, an inconsistency. Priest (1987) and Priest, Routley and Norman (1989, p. 154) argued that the Liar had to be regarded as a statement both true and false, a true contradiction. This represents another argument for studying inconsistent theories, namely the claim that some contradictions are true, also known as *dialetheism*. Kripke (1975) proposed instead to model a truth predicate differently, in a consistent incomplete theory. We see below that incompleteness and inconsistency are closely related.
+    step1: |-
+      此外，数学包含一套元语言的机制，即谈论数学本身的机制。这包括以下概念：（i）数学语句及语法的其他部分的名称，（ii）自指，（iii）证明与（iv）真理。哥德尔对数学哲学的贡献是表明：其中前三个可以在算术理论中得到严格表达，尽管是在要么不一致、要么不完备的理论中。这两种替代中前者——即不一致——的一个结构良好的例子的可能性，没有得到认真对待，又是因为对 ECQ 的信念。然而，此外，自然语言似乎拥有自己的真谓词。与自指相结合，这就产生说谎者悖论——“这句话是假的”——一种不一致。Priest（1987）与 Priest、Routley 和 Norman（1989, p. 154）论证说，说谎者必须被视为既真又假的陈述，一个真矛盾。这代表了研究不一致理论的另一个论证，即某些矛盾为真的主张，也被称为*双面真理论*。Kripke（1975）提出以不同的方式建模真谓词，在一个一致而不完备的理论中。我们在下文看到，不完备与不一致密切相关。
+    step2: |-
+      此外，数学自带一套元语言机制——谈论数学本身的机制。它包括这些概念：（i）数学语句与语法其他部分的名称，（ii）自指，（iii）证明，（iv）真理。哥德尔对数学哲学的贡献在于表明：前三个概念可以在算术理论中得到严格表达——尽管是在要么不一致、要么不完备的理论之中。而上述两种替代中，前者（不一致）的一个结构良好的实例，其可能性从未被认真对待——又是因为对 ECQ 的执念。然而，自然语言似乎自带真谓词；与自指相结合，便产生说谎者悖论——“这句话是假的”——一种不一致。Priest（1987）与 Priest、Routley、Norman（1989, p. 154）论证：说谎者必须被视为既真又假的陈述，一个真矛盾。这构成了研究不一致理论的又一个理由——某些矛盾为真的主张，即所谓*双面真理论*。Kripke（1975）则提出以另一种方式给真谓词建模：在一个一致而不完备的理论中。下文可见，不完备与不一致密切相关。
+  - id: 7
+    kind: body
+    source: |-
+      To simplify the motivation, mathematics, like many another science, encounters anomalies, puzzles and paradoxes. Paradoxes typically appear in the form of contradictions where there are grounds for accepting incompatible sides of the contradiction. Mathematics progresses at least in part by eliminating anomalies in favour of consistent reconstructions. This has typically been the method of addressing anomalies, and it is facilitated by noticing that the contradictions emerge in the foundations of mathematics. But it was noticed in the later twentieth century that there is another way, namely accept the contradiction and develop mathematical theories containing both sides of the contradiction. This would be impossible if the contradictory theory was erected on a logical foundation containing the Boolean principle Ex Contradictione Quodlibet ECQ, from a contradiction everything follows. So ECQ has to be abandoned, but fortunetely that proves possible, indeed mathematically straightforward. What remains is a rich field, of novel mathematical applications interesting in their own right, which sidestep the vexing questions of which foundational principles to adopt, by developing contradictions in areas of mathematics such as number theory or analysis which are far from foundations. This is inconsistent mathematics.
+    step1: |-
+      为简化动机：数学与许多其他科学一样，遭遇反常、谜题与悖论。悖论典型地以矛盾的形式出现，其中存在接受矛盾双方的理由的根据。数学至少部分地通过消除反常、支持一致的重构而进步。这一直是处理反常的典型方法，而注意到矛盾出现在数学基础之中则使这一方法更为便利。但在二十世纪晚期，人们注意到还有另一条路，即接受矛盾，并发展包含矛盾双方的数学理论。如果矛盾理论立于包含布尔原则 Ex Contradictione Quodlibet（ECQ，从矛盾一切都得出）的逻辑基础之上，这将是不可能的。所以 ECQ 必须被抛弃，但幸运的是，事实证明这是可能的，而且在数学上是直截了当的。剩下的是一片富饶的田野：新颖的数学应用本身即饶有趣味，它们避开该采纳哪些基础原则的恼人问题，在远离基础的数学领域——如数论或分析——中发展矛盾。这就是不一致数学。
+    step2: |-
+      把动机简化来说：数学与许多别的科学一样，会遭遇反常、谜题与悖论。悖论典型地以矛盾的面目出现——其中存在接受矛盾两方的理由。数学的进步至少部分地靠消除反常、代之以一致的重构；这一直是处理反常的典型办法，而注意到矛盾出现在数学基础之中，又为它提供了便利。但二十世纪晚期人们注意到另一条路：接受矛盾，发展出同时容纳矛盾双方的数学理论。倘若矛盾理论立于一条含布尔原则 Ex Contradictione Quodlibet（ECQ：从矛盾得出一切）的逻辑基础之上，这条路便走不通。所以 ECQ 必须抛弃——所幸这被证明可能，而且在数学上直截了当。剩下的是一片富饶的田野：新颖的数学应用自具趣味；它们绕开“该采纳哪些基础原则”的恼人问题，在远离基础的领域——数论、分析——里发展矛盾。这就是不一致数学。
+  - id: 8
+    kind: body
+    source: |-
+      ## 2. Arithmetic
+    step1: |-
+      ## 2 算术
+    step2: |-
+      ## 2 算术
+  - id: 9
+    kind: body
+    source: |-
+      But these remarks have been about foundations, and mathematics is not its foundations. Hence there is a further independent motive, to see what mathematical structure remains *wherever* the constraint of consistency is relaxed. But it would be wrong to regard this as in any way a repudiation of the structures studied in classical mathematics: inconsistent structures represent an *addition* to known structures.
+    step1: |-
+      但以上所述都是关于基础的，而数学不是它的基础。因此还有一个独立的动机：看看一旦放松一致性的约束，*无论在哪里*，还能剩下什么样的数学结构。但把这看作对经典数学所研究结构的任何意义上的拒斥，都是错误的：不一致的结构是对已知结构的*添加*。
+    step2: |-
+      但以上所言皆关乎基础，而数学并非其基础。因此还有一层独立的动机：看看*无论何处*、一旦放松一致性约束，还能剩下什么样的数学结构。可若把这看作对经典数学所研究结构的任何意义上的拒斥，就错了：不一致的结构是对已知结构的*增补*。
+  - id: 10
+    kind: body
+    source: |-
+      Robert K. Meyer (1976) seems to have been the first to think of an inconsistent arithmetical theory. At this point, he was more interested in the fate of a consistent theory, his relevant arithmetic R#. This amounts to the axioms for Peano arithmetic, with a base of the quantified relevant logic RQ, and Meyer hoped that the weaker base of relevant logic would allow more models. He was right. There proved to be a whole class of inconsistent arithmetical theories; see Meyer and Mortensen (1984), for example. In a parallel with the above remarks on rehabilitating logicism, Meyer argued that these arithmetical theories provide the basis for a revived Hilbert Program. Hilbert’s program was the project of rigorously formalising mathematics and proving its consistency by simple finitary/inductive procedures. It was widely held to have been seriously damaged by Gödel’s Second Incompleteness Theorem, according to which the consistency of arithmetic was unprovable within arithmetic itself. But a consequence of Meyer’s construction was that within his arithmetic R# it was demonstrable by finitary means that whatever contradictions there might happen to be, they could not adversely affect any numerical calculations. Hence Hilbert’s goal of conclusively demonstrating that mathematics is trouble-free proves largely achievable as long as inconsistency-tolerant logics are used.
+    step1: |-
+      Robert K. Meyer（1976）看来是第一个想到不一致算术理论的人。在那时，他更关心一个一致理论的命运，即他的相干算术 R#。这相当于皮亚诺算术的公理，以量化相干逻辑 RQ 为基础，而 Meyer 希望相干逻辑这个较弱的基础能容纳更多模型。他是对的。事实证明存在整整一类不一致算术理论；例如见 Meyer and Mortensen（1984）。与上文关于复兴逻辑主义的评论相平行，Meyer 论证这些算术理论为复兴的希尔伯特纲领提供了基础。希尔伯特纲领是严格形式化数学并以简单的有穷/归纳程序证明其一致性的工程。人们普遍认为它已被哥德尔第二不完备性定理严重损伤——按该定理，算术的一致性在算术本身之内不可证。但 Meyer 构造的一个后果是：在他的算术 R# 之内，可以用有穷手段证明，无论碰巧有什么矛盾，它们都不可能对任何数值计算产生不利影响。因此，只要使用容忍不一致的逻辑，希尔伯特 conclusively 证明数学无麻烦的目标就在很大程度上可以实现。
+    step2: |-
+      Robert K. Meyer（1976）看来是第一个想到不一致算术理论的人。彼时他更关心一个一致理论的命运——他的相干算术 R#：相当于皮亚诺算术的公理，配以量化相干逻辑 RQ 作底；Meyer 盼望相干逻辑这个较弱的基础能容纳更多模型。他料中了。事实证明存在整整一族不一致算术理论；例如见 Meyer and Mortensen（1984）。与上文复兴逻辑主义的议论相呼应，Meyer 主张：这些算术理论为复兴的希尔伯特纲领提供了基础。希尔伯特纲领，是严格形式化数学、再以简单的有穷/归纳程序证明其一致性的工程；人们普遍认为它已被哥德尔第二不完备性定理重创——按该定理，算术的一致性在算术内部不可证。但 Meyer 构造的一个后果是：在他的算术 R# 之内，可以用有穷手段证明——无论碰巧有什么矛盾，它们都伤不了任何数值计算。于是，只要改用容忍不一致的逻辑，希尔伯特“确凿证明数学无虞”的目标就在很大程度上可以实现。
+  - id: 11
+    kind: body
+    source: |-
+      The arithmetical models used by Meyer and Mortensen later proved to allow inconsistent representation of the truth predicate. They also permit representation of structures beyond natural number arithmetic, such as rings and fields, including their order properties. Axiomatisations were also provided. Recently, the finite inconsistent arithmetical collapse models, a strictly larger class than those studied by Meyer and Mortensen, have been completely characterised by Graham Priest. Collapse models are obtained from classical models by collapsing the domain down to congruence classes generated by various congruence relations. When members of the same congruence class are identified, the theories produced are inconsistent. For example, Meyer’s initial construction collapsed the integers under the congruence *modulo 2*. This puts 0 and 2 in the same congruence class, so that in a suitable three-valued logic, both 0=2 and not-(0=2) hold. Priest showed that these models take a certain general form, see Priest (1997) and (2000). Strictly speaking, Priest went a little too far in including “clique models”. This was corrected by Paris and Pathmanathan (2006), and extended into the infinite by Paris and Sirokfskich (2008). Even more recently, Tedder (2015) obtained axiomatisations for the class of finite collapse models with a different background logic, Avron’s A3.
+    step1: |-
+      Meyer 与 Mortensen 所用的算术模型后来被证明允许真谓词的不一致表示。它们还允许表示自然数算术之外的结构，如环与域，包括其序性质。公理化也被给出。最近，有限不一致算术塌缩模型——一个严格大于 Meyer 与 Mortensen 所研究模型类的类——已被 Graham Priest 完全刻画。塌缩模型由经典模型经把论域塌缩到由各种同余关系生成的同余类而得到。当同一同余类的成员被等同起来时，所产生的理论就是不一致的。例如，Meyer 的初始构造把整数按*模 2* 同余塌缩。这把 0 与 2 放进同一个同余类，于是在一个合适的三值逻辑中，0=2 与非-(0=2) 都成立。Priest 证明这些模型取某种一般形式，见 Priest（1997）与（2000）。严格说来，Priest 把“小集团模型”包括在内走得稍远了一点。这由 Paris 与 Pathmanathan（2006）作了修正，并由 Paris 与 Sirokfskich（2008）扩展到无穷。更近，Tedder（2015）为有限塌缩模型类获得了公理化，采用不同的背景逻辑——Avron 的 A3。
+    step2: |-
+      Meyer 与 Mortensen 所用的算术模型，后来被证明允许对真谓词作不一致表示；它们还允许表示自然数算术之外的结构——环与域，连同其序性质；公理化亦已给出。最近，有限不一致算术塌缩模型——一个严格大于 Meyer 与 Mortensen 模型类的类——已被 Graham Priest 完全刻画。塌缩模型的造法：把经典模型的论域塌缩到由各种同余关系生成的同余类。同一同余类的成员一经等同，所得理论便是不一致的。例如，Meyer 的初始构造把整数按*模 2* 同余塌缩——0 与 2 落入同余类，于是在某个合适的三值逻辑里，0=2 与非-(0=2) 同时成立。Priest 证明这类模型取某种一般形式（见 Priest 1997、2000）。严格说来，Priest 把“小集团模型”也纳入其中，走得略远了些——Paris 与 Pathmanathan（2006）予以修正，Paris 与 Sirokfskich（2008）又推广到无穷情形。更近，Tedder（2015）换用不同的背景逻辑——Avron 的 A3——为有限塌缩模型类取得了公理化。
+  - id: 12
+    kind: body
+    source: |-
+      ## 3. Analysis
+    step1: |-
+      ## 3 分析
+    step2: |-
+      ## 3 分析
+  - id: 13
+    kind: body
+    source: |-
+      One could hardly ignore the examples of analysis and its special case, the calculus. For a model-theoretic approach to these see Mortensen (1990, 1995).
+    step1: |-
+      人们很难忽视分析学及其特例微积分的例子。对这些的模型论进路见 Mortensen（1990, 1995）。
+    step2: |-
+      人们很难忽视分析学及其特例——微积分——的例子。模型论进路见 Mortensen（1990, 1995）。
+  - id: 14
+    kind: body
+    source: |-
+      Now Meyer’s original approach to the natural numbers, that is R#, was axiomatic rather than model-theoretic. The axiomatic approach has also been taken in *analysis* by McKubre-Jordens and Weber (2012). In axiomatising analysis with a base of paraconsistent logic, their paper pushes Meyer’s approach to arithmetic via R# a long way further. These same authors (2017) rework the theory of integration as it was in Archimedes’ hands, which employs the method of exhaustion, using paraconsistent reasoning. This gives a result “up to inconsistency”, which means that one is able to prove “Classical result or contradiction”. The classical result can be then seen to be recapturable by the classical move disjunctive syllogism applied to the classically-false (inconsistent) second disjunct.
+    step1: |-
+      Meyer 对自然数的原初进路，即 R#，是公理化的而非模型论的。公理化进路在*分析*中也被 McKubre-Jordens 与 Weber（2012）采用。在以弗协调逻辑为基础公理化分析时，他们的论文把 Meyer 经 R# 处理算术的进路大大向前推进。同一批作者（2017）用弗协调推理重做了阿基米德手中的积分论——它运用穷竭法。这给出一个“直到不一致”的结果，意思是人们能够证明“经典结果或矛盾”。经典结果随后可由经典动作——对经典为假（不一致）的第二个析取支应用析取三段论——重新夺回。
+    step2: |-
+      Meyer 对自然数的原初进路（即 R#）是公理化的，不是模型论的。公理化进路后来也被 McKubre-Jordens 与 Weber（2012）用于*分析*：以弗协调逻辑为底公理化分析，把 Meyer 经 R# 处理算术的做法向前推进了一大步。同一批作者（2017）又以弗协调推理重做了阿基米德手中的积分论——它用的是穷竭法。这给出“直到不一致”的结果：人们能证明“经典结果或矛盾”。随后经经典的斧钺——对经典为假（不一致）的第二个析取支施用析取三段论——经典结果便可重新夺回。
+  - id: 15
+    kind: body
+    source: |-
+      It is certainly important and worthy to pursue this direction, but a mild caution is entered here: the axiomatic project is a bit different from inconsistent mathematics. As noted earlier, Meyer in this phase was consistentist – he sought a consistent theory with an inconsistency-tolerant logic. With similar motivation, he was also concerned to try to settle what he called “the gamma problem”, which was essentially the question of whether the axiomatic theory R# could be shown to contain classical Peano arithmetic as a sub-theory. If this were so, then his proof of nontriviality for R# would immediately yield a new proof of the negation consistency of classical Peano arithmetic! Note that this would not be contrary to Godel’s Second Theorem, since presumably the proof of the gamma result would not be confined to finitary techniques. (In the case of Meyer’s theory, it turned out to be not so.)
+    step1: |-
+      追求这一方向当然重要且值得，但这里要提出一个温和的告诫：公理化工程与不一致数学有些不同。如前所述，Meyer 在这一阶段是一致主义者——他寻求的是一个带容忍不一致之逻辑的一致理论。出于类似的动机，他还关心解决他所谓的“伽马问题”，它本质上是公理理论 R# 能否被证明包含经典皮亚诺算术作为子理论的问题。如果真是这样，那么他对 R# 非平凡性的证明将立即产生经典皮亚诺算术否定一致性的新证明！注意，这并不与哥德尔第二定理相悖，因为伽马结果的证明大概不会局限于有穷技术。（就 Meyer 的理论而言，结果并非如此。）
+    step2: |-
+      追求这一方向当然重要而值得，但这里要敲一记温和的警钟：公理化工程与不一致数学略有不同。如前所述，Meyer 在这一阶段是个一致主义者——他寻求的是一个带容忍不一致之逻辑的一致理论。出于类似动机，他还致力于解决他所谓的“伽马问题”：本质上就是，公理理论 R# 能否被证明包含经典皮亚诺算术作为子理论。若果真如此，他对 R# 非平凡性的证明将立即产出经典皮亚诺算术否定一致性的一个新证明！注意，这并不与哥德尔第二定理相抵——因为伽马结果的证明想必不会局限于有穷技术。（就 Meyer 的理论而言，答案是否。）
+  - id: 16
+    kind: body
+    source: |-
+      There have proved to be many places throughout analysis where there are distinctive inconsistent insights. The examples in the remainder of this section are drawn from Mortensen (1995). For example: (1) Robinson’s (1974) non-standard analysis was based on infinitesimals, quantities smaller than any real number, as well as their reciprocals, the infinite numbers. This has an inconsistent version, which has some advantages for calculation in being able to discard higher-order infinitesimals. Interestingly, the theory of differentiation turned out to have these advantages, while the theory of integration did not. A similar result, using a different background logic, was obtained by Da Costa (2000). (2) Another place to find applications of inconsistency in analysis is topology, where one readily observes the practice of cutting and pasting spaces being described as “identification” of one boundary with another. One can show that this can be described in an inconsistent theory in which the two boundaries are both identical and not identical, and it can be further argued that this is the most natural description of the practice. (3) Yet another application is the class of inconsistent continuous functions. Not all functions which are classically discontinuous are amenable of inconsistent treatment; but some are, for example *f*(*x*)=0 for all *x*<0 and *f*(*x*)=1 for all *x*≥0. The inconsistent extension replaces the first < by ≤, and has distinctive structural properties. These inconsistent functions may well have some application in dynamic systems in which there are discontinuous jumps, such as quantum measurement systems. Differentiating such functions leads to the delta functions, applied by Dirac to the study of quantum measurement. (4) Next, there is the well-known case of inconsistent systems of linear equations, such as the system (i) *x*+*y*=1, plus (ii) *x*+*y*=2. Such systems can potentially arise within the context of automated control. Little work has been done classically to solve such systems, but it can be shown that there are well-behaved solutions within inconsistent vector spaces. (5) Finally, one can note a further application in topology and dynamics. Given a supposition which seems to be conceivable, namely that whatever happens or is true, happens or is true on an open set of (spacetime) points, one has that the logic of dynamically possible paths is open set logic, that is to say intuitionist logic, which supports incomplete theories par excellence. This is because the natural account of the negation of a proposition in such a space says that it holds on the largest open set contained in the Boolean complement of the set of points on which the original proposition held, which is in general smaller than the Boolean complement. However, specifying a topological space by its closed sets is every bit as reasonable as specifying it by its open sets. Yet the logic of closed sets is known to be paraconsistent, ie. supports inconsistent nontrivial theories; see Goodman (1981), for example. Thus given the (alternative) supposition which also seems to be conceivable, namely that whatever is true is true on a closed set of points, one has that inconsistent theories may well hold. This is because the natural account of the negation of a proposition, namely that it holds on the smallest closed set containing the Boolean negation of the proposition, means that on the overlapping boundary both the proposition and its negation hold. Thus dynamical theories determine their own logic of possible propositions, and corresponding theories which may be inconsistent, and are certainly as natural as their incomplete counterparts.
+    step1: |-
+      事实证明，整个分析学中有许多地方都有独特的不一致洞见。本节余下部分的例子取自 Mortensen（1995）。例如：（1）Robinson 的（1974）非标准分析以无穷小为基础——小于任何实数的量——以及它们的倒数，无穷大数。它有一个不一致版本，在计算上有一些优点：能够丢弃高阶无穷小。有趣的是，微分论被证明具有这些优点，而积分论则没有。Da Costa（2000）用不同的背景逻辑得到了类似结果。（2）分析中不一致的另一个应用之地是拓扑学：人们容易观察到切割与粘贴空间的做法被描述为把一个边界与另一个边界“认同”。可以证明，这可以在一个不一致理论中描述——两个边界既同一又不同一——而且可以进一步论证，这是对该实践最自然的描述。（3）另一个应用是不一致连续函数类。并非所有经典上不连续的函数都可以进行不一致处理；但有些可以，例如对所有 *x*<0，*f*(*x*)=0，对所有 *x*≥0，*f*(*x*)=1。不一致扩展把第一个 < 替换为 ≤，并具有独特的结构性质。这些不一致函数在存在不连续跳变的动态系统中——例如量子测量系统——可能有其应用。对这些函数求微分得到 delta 函数，Dirac 将其应用于量子测量的研究。（4）接下来是众所周知的不一致线性方程组，如方程组（i）*x*+*y*=1 与（ii）*x*+*y*=2。这样的系统可能出现在自动控制的语境中。经典上对求解这类系统的工作很少，但可以证明，在不一致向量空间中存在良态的解。（5）最后，在拓扑学与动力学中还可注意到一个应用。给定一个似乎可设想的假定——无论发生什么或什么为真，都是在（时空）点的一个开集上发生或为真——那么动力学可能路径的逻辑就是开集逻辑，也就是说直觉主义逻辑，它出类拔萃地支持不完备理论。这是因为，在这种空间中命题之否定的自然说明是：它成立于包含原命题所在点集的布尔补的最大开集，而这个集合一般小于布尔补。然而，用闭集来规定拓扑空间，与用开集规定它同样合理。而闭集的逻辑已知是弗协调的，即支持不一致的非平凡理论；例如见 Goodman（1981）。于是，给定另一个似乎同样可设想的假定——无论什么为真，都是在点的一个闭集上为真——那么不一致理论很可能成立。这是因为对命题之否定的自然说明——它成立于包含该命题布尔否定的最小闭集——意味着在交叠的边界上，命题与其否定都成立。因此，动力学理论决定它们自己的可能命题逻辑，以及相应的、可能不一致的理论——它们与其不完备对应物同样自然。
+    step2: |-
+      事实证明，整个分析学里处处可见独特的不一致洞见。本节余下的例子取自 Mortensen（1995）。例如：（1）Robinson（1974）的非标准分析以无穷小——小于任何实数的量——及其倒数（无穷大数）为基础。它有一个不一致版本，在计算上自有优势：可丢弃高阶无穷小。有趣的是，微分论坐拥这些优势，积分论却没有。Da Costa（2000）以不同的背景逻辑得到类似结果。（2）分析中不一致的另一个用武之地是拓扑学：人们容易观察到，切割与粘贴空间的做法被描述为把一个边界与另一个“认同”。可以证明：这可在不一致理论中描述——两个边界既同一又不同一——而且还可进一步论证，这就是对该实践最自然的描述。（3）另一个应用是不一致连续函数类。并非所有经典不连续的函数都能作不一致处理，但有些能——例如对所有 *x*<0，*f*(*x*)=0；对所有 *x*≥0，*f*(*x*)=1。不一致扩展把第一个 < 换成 ≤，并具有独特的结构性质。这些不一致函数在存在不连续跳变的动态系统中——如量子测量系统——可能大有用处。对这类函数求微分即得 delta 函数，Dirac 曾把它用于量子测量的研究。（4）再者是众所周知的不一致线性方程组，如（i）*x*+*y*=1 与（ii）*x*+*y*=2。这样的系统可能出现在自动控制的语境中。经典上鲜有求解此类系统的工作，但可以证明：在不一致向量空间中存在良态的解。（5）最后，拓扑学与动力学中还有一个应用。给定一个看似可设想的假定——无论何事发生或何者为真，都是在（时空）点的一个开集上发生或为真——那么动力学可能路径的逻辑就是开集逻辑，也就是直觉主义逻辑：它出类拔萃地支持不完备理论。理由在于，这种空间中命题之否定的自然说明是：否定成立于包含原命题点集之布尔补的最大开集——它一般小于布尔补。然而，以闭集规定拓扑空间，与以开集规定它同样合理；而闭集的逻辑已知是弗协调的——支持不一致的非平凡理论；例如见 Goodman（1981）。于是，给定另一个看似同样可设想的假定——无论何者为真，都在点的一个闭集上为真——不一致理论就很可能成立：因为对命题之否定的自然说明——否定成立于包含该命题布尔否定的最小闭集——意味着在交叠的边界上，命题与其否定同时成立。因此，动力学理论决定着它们自己的可能命题逻辑，以及相应的、可能不一致的理论——它们与其不完备对应物同样自然。
+  - id: 17
+    kind: body
+    source: |-
+      On closed set logic and boundaries as a natural setting for contradictory theories, see Mortensen (2003, 2010). Weber and Cotnoir (2015) also explore the inconsistency of boundaries, arising from the incompatibility of the three principles (i) there are boundaries, (ii) space is topologically connected, and (iii) discrete entities can be in contact (i.e., no space between them). This is a very interesting problem, as all three are plausible; in particular there do seem to be boundaries in our world. An initially surprising feature of this account is that boundaries come out as “empty”; after all, null entities are contrary to the spirit of mereology. But this is not so shocking as it turns out that they are only empty in the sense that they have members inconsistently.
+    step1: |-
+      关于闭集逻辑与边界作为矛盾理论的自然背景，见 Mortensen（2003, 2010）。Weber 与 Cotnoir（2015）也探索了边界的不一致性，它源于三个原则的不相容：（i）存在边界；（ii）空间在拓扑上是连通的；（iii）离散实体可以接触（即它们之间没有空间）。这是一个非常有趣的问题，因为三者都合理；尤其我们的世界中似乎确实存在边界。这一说明起初令人惊讶的特点是：边界被证明是“空的”；毕竟，空实体有悖部分学的精神。但这并不那么令人震惊，因为事实证明它们只是在一种意义上为空：它们不一致地拥有成员。
+    step2: |-
+      关于闭集逻辑与边界作为矛盾理论之自然处境，见 Mortensen（2003, 2010）。Weber 与 Cotnoir（2015）也探究了边界的不一致性——它源自三条原则的不相容：（i）存在边界；（ii）空间在拓扑上连通；（iii）离散实体可以接触（彼此之间没有空间）。这个问题极为有趣，因为三条都合理；尤其，我们的世界里似乎确有边界。这一说明起初令人惊讶之处在于：边界竟是“空的”——空实体总归有悖部分学的精神。但细想并不那么骇人：它们只是在一种意义上为空——不一致地拥有成员。
+  - id: 18
+    kind: body
+    source: |-
+      Category theory throws light on many mathematical structures. It has certainly been proposed as an alternative foundation for mathematics. Such generality inevitably runs into problems similar to those of comprehension in set theory; see, e.g., Hatcher 1982 (pp. 255–260). Hence there is the same possible application of inconsistent solutions. There is also an important collection of categorial structures, the toposes, which support open set logic in exact parallel to the way sets support Boolean logic. This has been taken by many to be a vindication of the foundational point of view of mathematical intuitionism. However, it can be proved that that toposes support closed set logic as readily as they support open set logic, to date the only category-theoretic semantics for a paraconsistent logic. This should not be viewed as an objection to intuitionism, however, so much as an argument that inconsistent theories are equally reasonable as items of mathematical study. See Mortensen (1995 Chap 11, co-author Lavers). This position has now been taken up, extended and ably defended by Estrada-González (2010, 2015a, 2015b). The same author (2016) undertakes to provide a category-theoretic description of trivial theories, with the aim of showing that triviality is not such an uninteresting feature for mathematical theories to have. The present author remains unconvinced, since a trivial theory is surely useless for mathematical calculation; but the ingenuity of the arguments must be conceded.
+    step1: |-
+
+    step2: |-
+
+  - id: 19
+    kind: body
+    source: |-
+      Duality between incompleteness/intuitionism and inconsistency/paraconsistency has at least two aspects. First there is the above topological (open/closed) duality. Second there is Routley * duality. The Routley Star * of a set of sentences *S*, is defined as *S** =_{*df*} {*A*: ~*A* is not in *S*}. Discovered by the Routleys (1972) as a semantical tool for relevant logics, the * operation dualises between inconsistent and incomplete theories of the large natural class of de Morgan logics. For example, starring Peano arithmetic gives a deductively-closed inconsistent complete non-trivial classical arithmetical theory containing all of PA, which presents an interesting challenge for the Godel incompleteness results, see Mortensen (2013). Both kinds of duality interact as well, where the * gives distinctive duality and invariance theorems for open set and closed set arithmetical theories. On the basis of these results, it is fair to argue that both kinds of mathematics, intuitionist and paraconsistent, are equally reasonable.
+    step1: |-
+
+    step2: |-
+
+  - id: 20
+    kind: body
+    source: |-
+      ## 4. Geometrical Inconsistency
+    step1: |-
+
+    step2: |-
+
+  - id: 21
+    kind: body
+    source: |-
+      A geometrical development is the application to explaining the phenomenon of inconsistent pictures. The best known of these are perhaps M. C. Escher’s masterpieces *Belvedere, Waterfall* and *Ascending and Descending*. In fact the tradition goes back millennia to Pompeii. Escher seems to have derived many of his intuitions from the Swedish artist Oscar Reutersvärd, who began his inconsistent work in 1934. Escher also actively collaborated with the English mathematician Roger Penrose. There have been several attempts to describe the mathematical structure of inconsistent pictures using classical consistent mathematics, by theorists such as Cowan, Francis and Penrose. As argued in Mortensen (1997), however, no consistent mathematical theory can capture the sense that one is seeing an impossible thing. Only an inconsistent theory can capture the content of that perception. This amounts to an appeal to a cognitive justification of paraconsistency. One can then proceed to display inconsistent theories which are candidates for such inconsistent contents. There is an analogy with classical mathematics on this point: projective geometry is a classical consistent mathematical theory which is interesting because we are creatures with an eye, since it explains why it is that things look the way they do in perspective.
+    step1: |-
+
+    step2: |-
+
+  - id: 22
+    kind: body
+    source: |-
+      Inconsistent geometrical studies are further developed in Mortensen (2002a), where category theory is applied to give a general description of the relationships between the various theories and their consistent cut-downs and incomplete duals. For an informal account which highlights the difference between visual “paradoxes” and the philosophically more common paradoxes of language, such as the Liar, see Mortensen (2002b).
+    step1: |-
+
+    step2: |-
+
+  - id: 23
+    kind: body
+    source: |-
+      More recently, inconsistent mathematical descriptions have been obtained for several classes of inconsistent figures, exemplified by Escher’s Cube (found in his print *Belvedere*), the Reutersvärd-Penrose triangle, and others. See Mortensen (2010).
+    step1: |-
+
+    step2: |-
+
+  - id: 24
+    kind: body
+    source: |-
+      This raises another interesting issue. Ever since Euclid, the method of reductio ad absurdum has been thoroughly exploited in geometrical proofs (assume he opposite of what you want to prove and deduce a contradiction). But here we have a different technique (employ a contradiction to describe how inconsistent figures look, to demonstrate that the content is genuinely contradictory). If successful, this is a demonstration that human conceptualisation exceeds the merely possible (consistent). For discussion see Mortensen (2019, 2022).
+    step1: |-
+
+    step2: |-
+
+  - id: 25
+    kind: body
+    source: |-
+      One more point: do these geometrical paradoxes lend support to full dialetheism? The answer is no. If you can draw a contradictory picture then *something*exists that is inconsistent. And, distinct inconsistent figures imply distinctions between types of contradictions which ECQ does not permit. But this should not be pushed too far. Nothing says that because a picture has a content, that content must somehow be *true*: many pictures are fictional in content. For more on this theme see Mortensen (2019a).
+    step1: |-
+
+    step2: |-
+
+  - id: 26
+    kind: body
+    source: |-
+      ## 5. Chunk and Permeate
+    step1: |-
+
+    step2: |-
+
+  - id: 27
+    kind: body
+    source: |-
+      Recently, an alternative technique for dealing generally with contradictions has emerged. Brown and Priest (2004) have proposed a technique they call “Chunk and Permeate”, in which reasoning from inconsistent premisses proceeds by separating the assumptions into consistent theories (chunks), deriving appropriate consequences, then passing (permeating) those consequences to a different chunk for further consequences to be derived. They suggest that Newton’s original reasoning in taking derivates in the calculus, was of this form. This is an interesting and novel approach, though it must meet the objection that to believe a conclusion obtained on this basis, one should believe all the premisses equally; and so an argument of the more common form, appealing to all the premisses without fragmenting them, should be eventually forthcoming. The objection is thus that Chunk and Permeate is part of the context of discovery rather than the context of justification.
+    step1: |-
+
+    step2: |-
+
+  - id: 28
+    kind: body
+    source: |-
+      Later, Benham *et. al.* (2014) have extended these methods to the Dirac delta function. This broadens the class of applications, and so strengthens the technique. However, it also becomes clear there, that there is a close parallel between (one large class of) Chunk and Permeate applications, and (consistent) non-standard analysis: wherever Chunk and Permeate takes a derivative by shifting chunks to one where infinitesimals are zero, non-standard analysis takes a derivative by defining derivatives to be “standard parts only”. Of course, equivalence between these two techniques does not show which is explanatorily deeper. Developments are to be awaited with interest.
+    step1: |-
+
+    step2: |-
+
+  - id: 29
+    kind: body
+    source: |-
+      ## 6. Conclusion
+    step1: |-
+
+    step2: |-
+
+  - id: 30
+    kind: body
+    source: |-
+      To conclude: there has been appearing lately quite a bit of philosophical material, that is sympathetic to the cause of inconsistent mathematics. Colyvan (2000) addresses the issue that inconsistent mathematical theories imply inconsistent mathematical objects as their subject-matters. He also takes up the important task of providing an account of how inconsistent mathematics can have a branch which is *applied* mathematics. Priest (2013), like Colyvan, notes that inconsistent mathematics adds to the platonist mix. Berto (2007) usefully surveys paradoxes and foundational issues, and sets out some of the arithmetical results that bear on important philosophical issues like the Incompleteness Theorems. Van Bendegem (2014) pursues the interesting motivation that change is always a state of anomaly, so that always changing implies always anomalous. Examples include infinitesimals, complex numbers and infinity. Caution should be adopted over thinking that inconsistency is always anomalous, however, if only because it is simply more material for mathematical study.
+    step1: |-
+
+    step2: |-
+
+  - id: 31
+    kind: body
+    source: |-
+      It should be emphasised again that these structures do not in any way challenge or repudiate existing mathematics, but rather extend our conception of what is mathematically possible. This, in turn, sharpens the issue of Mathematical Pluralism; see e.g., Davies (2005), Hellman and Bell (2006), or Priest (2013). Various authors have different versions of mathematical pluralism, but it is something along the lines that incompatible mathematical theories can be equally true. The case for mathematical pluralism rests on the observation that there are different mathematical “universes” in which different, indeed incompatible, mathematical theorems or laws hold. Well-known examples are the incompatibility between classical mathematics and intuitionist mathematics, and the incompatibility between ZF-like universes of sets respectively with, and without, the Axiom of Choice. It seems absurd to say that ZF with Choice is true mathematics and ZF without Choice is false mathematics, if they are both legitimate examples of mathematically well-behaved theories.
+    step1: |-
+
+    step2: |-
+
+  - id: 32
+    kind: body
+    source: |-
+      The primary question for the philosophy of mathematics is surely *what is mathematics*. Duality operations like topological duality or Routley* reinforce the point that incomplete/inconsistent duals are equally reasonable as examples of mathematics. From this point of view, disputes about which of intuitionist or classical or inconsistent mathematics to accept seem pointless; they are all part of the subject matter of mathematics. This point is made effectively by Shapiro (2014, in contrast see his 2002). Shapiro’s distinctive position has other ingredients: mathematics as the science of structure, and mathematical pluralism implying logical pluralism (on logical pluralism see also Beall and Restall 2006)[^beall-2006]; but we do not take these up here.
+    step1: |-
+
+    step2: |-
+
+  - id: 33
+    kind: body
+    source: |-
+      For what it is worth, the present writer thinks that some version of mathematical pluralism is obviously true, if one takes mathematics to be firstly about mathematical theories allowing for inconsistency , and only secondly about the objects internal to those theories. There is, of course, no problem about incompatible theories co-existing, if considered as structures of propositions. The primacy of theories fits, too, with the natural observation that the epistemology of mathematics is deductive proof. It is only if one takes as a starting point the primacy of the mathematical object as the truth-maker of theories, that one has to worry about how their objects manage to co-exist.
+    step1: |-
+
+    step2: |-
+
+  - id: 34
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+
+    step2: |-
+
