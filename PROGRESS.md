@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 18:28（UTC）
+生成时间：2026-11-05 18:45（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|999|
+|已建任务|1000|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|86|
-|在途（drafted 起、done 前）|281|
+|在途（drafted 起、done 前）|282|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,11 +23,12 @@
 |状态|数量|
 |---|---|
 |pending|632|
-|cleared|181|
+|cleared|182|
 |drafted|2|
 |s1_checked|1|
-|s3_checked|93|
+|s3_checked|92|
 |r1_reviewed|4|
+|r2_reviewed|1|
 |done|86|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -46,7 +47,7 @@
 |J|38|38|38|4|
 |K|36|36|36|10|
 |L|144|144|19|0|
-|M|139|139|9|0|
+|M|139|139|10|0|
 |N|50|50|2|0|
 |O|21|21|1|0|
 |P|165|165|4|0|
@@ -342,7 +343,8 @@
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|logic-provability|retranslate|s3_checked|LQ-main-20261106 2026-11-05|
+|logic-provability|retranslate|r2_reviewed|LQ-main-20261106 2026-11-05|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
+|molyneux-problem|retranslate|cleared|task_ops 2026-11-05|
 |redistribution|retranslate|cleared|task_ops 2026-11-05|
