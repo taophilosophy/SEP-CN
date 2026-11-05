@@ -1089,3 +1089,21 @@
 | ω-provability | ω-可证性 | logic-provability | 本词条定案（Japaridze GLB） | 2026-11-05 |
 | circular proofs | 循环证明 | logic-provability | 证明论通行（Shamkanov） | 2026-11-05 |
 | informal/absolute provability | 非形式可证性／绝对可证性 | logic-provability | 数学哲学通行 | 2026-11-05 |
+| hwajaeng（和諍） | 和诤 | korean-buddhism | 汉文传统写法（元晓判教概念；源文汉字 和諍） | 2026-11-05 |
+| One Mind（yixin/ilsim） | 一心 | korean-buddhism | 佛典古译（《大乘起信论》一心，源文汉字 一心） | 2026-11-05 |
+| Chakravarti | 转轮圣王 | korean-buddhism | 佛典古译（转轮圣王/转轮王） | 2026-11-05 |
+| icchantika | 一阐提 | korean-buddhism | 佛典古译（不具信之种性者） | 2026-11-05 |
+| five classes of sentient beings | 五性各别 | korean-buddhism | 佛典古译（玄奘门五种姓说） | 2026-11-05 |
+| Fajie yuanqi（法界緣起） | 法界缘起 | korean-buddhism | 汉文传统写法（华严宗核心教义） | 2026-11-05 |
+| Xingqi（性起） | 性起 | korean-buddhism | 汉文传统写法（华严「性起」对「缘起」） | 2026-11-05 |
+| shishi wu’ai（事事無礙） | 事事无碍 | korean-buddhism | 汉文传统写法（华严四法界） | 2026-11-05 |
+| kongjŏk yŏngji（空寂靈知） | 空寂灵知 | korean-buddhism | 汉文传统写法（知讷心体语） | 2026-11-05 |
+| chŏnghye ssangsu（定慧雙修） | 定慧双修 | korean-buddhism | 汉文传统写法（知讷实践纲领） | 2026-11-05 |
+| sŏngjŏk tŭngji（惺寂等持） | 惺寂等持 | korean-buddhism | 汉文传统写法（知讷三门径之一） | 2026-11-05 |
+| Kanhwa Sŏn（看話禪） | 看话禅 | korean-buddhism | 汉文传统写法（大慧宗杲创、知讷引入韩国） | 2026-11-05 |
+| hwalgu/sagu | 活句/死句 | korean-buddhism | 禅林古语（话头两类） | 2026-11-05 |
+| pollae myŏnmok（本來面目） | 本来面目 | korean-buddhism | 禅林古语 | 2026-11-05 |
+| irwŏnsang（一圓相） | 一圆相 | korean-buddhism | 汉文传统写法（圆佛教核心概念） | 2026-11-05 |
+| T’ong Pulgyo | 统一佛教 | korean-buddhism | 韩国佛教史学界通行（통불교；Shim Jaeryong 批判对象） | 2026-11-05 |
+| Minjung Buddhism | 民众佛教 | korean-buddhism | 韩国学界通行（민중불교；Minjung=民众） | 2026-11-05 |
+| chuin’gong（주인공） | 主人公 | korean-buddhism | 汉文传统写法（大行「主人公」修行法，公/空双关） | 2026-11-05 |
