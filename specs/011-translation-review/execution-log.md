@@ -169,3 +169,9 @@
 
 * 深读累计 **43 条全 pass**（+conceptual-art、condemnation、confucius——C 批推进 6 条）。
 * 门禁 7/7 全绿保持。下一接力：conway 起 C 批续，然后 crathorn/creation-conservation/croce-aesthetics → d 批。
+
+## 2026-11-06 深读滚动续十二
+
+* 深读累计 **45 条全 pass**（+conway 尾部汉化遗漏记入、crathorn 全文——C 批推进 8 条）。
+* 并行漂移随修：Dharmottara 重复行去重并记双来源；词汇表 Śrīharṣa 冲突修弱势方（曷利沙→室利诃奢）。
+* 门禁 7/7 全绿。下一接力：creation-conservation 起 C 批尾 → croce-aesthetics → d 批。
