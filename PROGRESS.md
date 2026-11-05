@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 21:11（UTC）
+生成时间：2026-11-05 23:54（UTC）
 
 ## 总览
 
@@ -12,9 +12,9 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1000|
+|已建任务|1001|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|97|
+|已完成（done）|98|
 |在途（drafted 起、done 前）|271|
 |阻塞|0|
 
@@ -23,18 +23,18 @@
 |状态|数量|
 |---|---|
 |pending|632|
-|cleared|176|
+|cleared|177|
 |drafted|2|
 |s1_checked|2|
-|s3_checked|90|
+|s3_checked|89|
 |r1_reviewed|1|
-|done|97|
+|done|98|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|38|
+|A|160|160|160|39|
 |B|62|62|62|0|
 |C|172|172|172|0|
 |D|92|92|92|11|
@@ -46,7 +46,7 @@
 |J|38|38|38|4|
 |K|36|36|36|10|
 |L|144|144|19|2|
-|M|139|139|10|1|
+|M|139|139|11|1|
 |N|50|50|2|0|
 |O|21|21|1|0|
 |P|165|165|4|0|
@@ -65,7 +65,7 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|addams-jane|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
+|addams-jane|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |adorno|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-judgment|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
@@ -85,7 +85,6 @@
 |al-farabi-metaphysics|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
-|al-qudat|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |albert-great|retranslate|cleared|task_ops 2026-10-31|
 |alcmaeon|retranslate|s1_checked|zcode-前置复核 2026-10-27|
@@ -335,4 +334,5 @@
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
+|mathematics-inconsistent|retranslate|cleared|task_ops 2026-11-05|
 |redistribution|retranslate|s1_checked|RZ-main-20261104 2026-11-05|
