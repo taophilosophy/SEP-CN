@@ -30,7 +30,7 @@
 | ---- | ---- |
 | `fetch.py` / `fetch_catalog.py` / `fetch_entry.py` | SEP 抓取（正文、目录、词条包；串行默认 ≥5 秒间隔，失败显式化；并发模式间隔按 2026-10-27 用户裁定，见 specs/001 Assumptions） |
 | `fetch_all.py` | 全量抓取+原文镜像驱动器（并发节拍 A=16 路×5s / B=64 路×10s，实测均无限流；`--resume` 断点续跑；逐条留痕 `script/fetch-all-log.jsonl`） |
-| `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，不入库）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内 ` | ` 用 `&#124;` 保义 |
+| `extract_text.py` / `parser.py` / `yuanwen.py` | 原始 HTML → 提取文本（`en/`、`yuanwen/`，不入库）；数学保真（2026-10-27 裁定）：跨块公式保护、公式内部原样保留，仅定界符统一 `$`/`$$`、空白折叠、表格内竖线一律以 `&#124;` 保义 |
 | `baseline_audit.py` | 基线清单审计（哈希、版本钉一致性） |
 | `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留；输出 JSON） |
@@ -79,6 +79,7 @@
   ```
 
 * 纳入/豁免写在 `.markdownlint-cli2.jsonc` 的 `globs` / **`ignores`** 两键——`ignoreGlobs` 与 `overrides` 是死键（官方 README 无此键；2026-11-06 README 考据＋A/B 实测复现「静默无效」，v0.24.0 验证，排除生效时 finding 以 `!` 前缀可见）；按文件豁免用行内 `<!-- markdownlint-disable -->`。
+* 表格风格统一 **compact**（每个单元格两侧恰一个空格，空单元格恰一个空格；MD060 `aligned` 按显示宽度计量、CJK/emoji 记 2——官方 doc/md060.md，2026-11-06 全仓整改裁定口径；表格内竖线一律转义）。
 
 ## 站点运行（本地预演）
 

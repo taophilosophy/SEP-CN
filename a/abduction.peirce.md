@@ -2,7 +2,7 @@
 
 > （《abduction》词条补充材料，源：plato.stanford.edu/entries/abduction/peirce.html）
 
-#### 词条补充材料（Supplement to Abduction）
+*词条补充材料（Supplement to Abduction）*
 
 ## 皮尔士论溯因
 

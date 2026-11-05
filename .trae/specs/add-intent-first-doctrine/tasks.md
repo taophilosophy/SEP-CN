@@ -33,7 +33,7 @@
   * [x] SubTask 6.2: 交叉核对——宪法版本与七条原则、rules/README 索引、规则地图、ADR 索引与磁盘文件一一对应；检索“六项核心原则/宪法六”仅历史文档命中；无死链、无占位符
   * [x] SubTask 6.3: 提交（中文一行信息，注明“修订宪法 v1.2.0”，只含本任务相关文件；提交 52c0ef56，22 个文件）
 
-# Task Dependencies
+## Task Dependencies
 
 * Task 2 依赖 Task 1（规则条文引用理论条款编号）
 * Task 3 依赖 Task 2 与 Task 4 的条文内容

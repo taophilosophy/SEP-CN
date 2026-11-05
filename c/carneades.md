@@ -106,9 +106,9 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-#### 原始文献
+### 原始文献
 
-#### 第二手文献
+### 第二手文献
 
 [^cicero-1933]: Cicero, *De natura deorum, Academica*, H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1933.
 

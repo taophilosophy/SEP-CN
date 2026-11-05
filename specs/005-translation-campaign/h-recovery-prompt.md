@@ -7,6 +7,7 @@
 完成词条 **SLUG** 的 retranslate：`clear → draft → s1 → s2 → s3`，最终 `s3_checked`。只做这一条，**不做** r1/r2/r3/done。
 
 ## 输入（只读）
+
 * 英文源：`yuanwen/h/SLUG.md`（唯一底稿，零信任）
 * 原始 HTML：`en/SLUG/index.html`（可疑回源）
 * H1 文字：从 `SUMMARY.md` 找该词条行（`* [中文名 English-name (Authors)](h/SLUG.md)`），取 `中文名 English-name (Authors)`
@@ -16,6 +17,7 @@
 ## 第 1 步 clear
 
 先跑 `python tools/task_ops.py show SLUG` 看当前状态：
+
 * 若已是 `cleared`/`drafted`/更高：**跳过 clear**，从当前状态继续（已清过）。
 * 若 `pending`：跑 `python tools/task_ops.py clear SLUG`。若报错（基线门禁/非 pending），读错误，不要强推，报告即可。
 
@@ -61,6 +63,7 @@ python tools/check_math.py
 全 0 后 `python tools/task_ops.py advance SLUG s3 --actor sub-SLUG --evidence "check_style 0; academic 0; math 0"`。学术门禁自动挂钩，未过先修再推。
 
 ## 纪律
+
 * 中文弯引号；中西文半角空格；`**中文**` 不加粗用斜体（italic-cjk：中文强调用加粗，拉丁/希腊字母术语保留斜体）；`**` 内侧禁空格；禁 HTML；表格居中。
 * 不 push/force；不改其他词条；不动 SUMMARY/登记册（新术语写 evidence）；不改 baseline/en/yuanwen；不造备份；不批量替换。
 * **不 git 提交**（主代理收口，避免并发 index.lock）。

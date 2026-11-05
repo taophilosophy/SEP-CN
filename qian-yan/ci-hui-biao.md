@@ -523,7 +523,7 @@
 |ancient philosophy|古代哲学||
 |Anicius Manlius Severinus Boethius|阿尼修斯·曼利乌斯·塞维利努斯·波爱修斯|全名通译形（《哲学的慰藉》等中译本序言用）；正文通常简称波爱修斯|
 |anomalous monism|变异一元论|戴维森（Donald Davidson）的学说，亦译“异常一元论”|
-|Anthony Ashley Cooper|安东尼·阿什利·库珀|对齐人名表（2026-11-05）|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
+|Anthony Ashley Cooper|安东尼·阿什利·库珀|对齐人名表（2026-11-05），即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
 |anti-realism|反实在论|antirealism 异形（ADR-0013 系归并口径）|
 |antirealism|反实在论|与 realism 实在论相对|
 |aphanes|不可知觉的东西|阿尔克迈翁（alcmaeon）条术语|
@@ -624,7 +624,7 @@
 |Cardano|卡尔达诺||
 |Cardinal|枢机主教||
 |Carl Friedrich Stumpf|卡尔·弗里德里希·斯图姆夫||
-|Carl Stumpf|卡尔·斯图姆夫|对齐 SUMMARY 与人名表（2026-11-05）||
+|Carl Stumpf|卡尔·斯图姆夫|对齐 SUMMARY 与人名表（2026-11-05）|
 |Carnap|卡尔纳普||
 |Carneades|卡涅阿德斯||
 |Cassirer|卡西尔||

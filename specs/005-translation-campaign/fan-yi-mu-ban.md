@@ -46,7 +46,7 @@ zh 侧译文按**同样的章节序**逐节对位翻译（便于逐节核销）�
 | 15 | Academic Tools | `## 学术工具`——固定四行，链接原样：如何引用本词条（archinfo）/ 预览本词条的 PDF 版本（SEP 学会之友）/ InPhO / PhilPapers；bullet 形态（v1.3 裁定，在先成例 36+）；存量表格形态四项齐备者合规不再改形 | alcmaeon 206–210 行 |
 | 16 | Other Internet Resources | `## 其他网络资源`——条目译出（条目名+说明），URL 原样；无条目时写 `[欢迎向作者提出建议。]` | alcmaeon 212–214 行 |
 | 17 | References / Bibliography | `## 参考文献` + 斜体说明行 `*以下文献从原文照录，不作翻译。*`；子标题（Texts and Commentaries 等）保留英文；条目逐字符照录——**中国文献条目（古今）一律译为中文**（ADR-0011） | alcmaeon 115–204 行 |
-| 18 | Related Entries | `## 相关词条`——SEP slug 对应的 SUMMARY 中文名，` | ` 分隔一行排布；站内链接由管线在对应词条重译完成后统一挂接（先以译注占位） | alcmaeon 216–220 行 |
+| 18 | Related Entries | `## 相关词条`——SEP slug 对应的 SUMMARY 中文名，`\|` 分隔一行排布；站内链接由管线在对应词条重译完成后统一挂接（先以译注占位） | alcmaeon 216–220 行 |
 | 19 | 补充材料 `<slug>.<x>.html` | 独立文件 `<letter>/<slug>.<x>.md`；正文引用写 `（见[补充材料](<slug>.<x>.md)）`；文件首行 `# <英文标题中译>（<slug> 补充材料）`，第二行斜体版本行同 #2 | yuanwen 头为 `# <title> — <x>（supplement）`，zh 侧对位 |
 | 20 | figdesc（图片描述页） | 随其所属词条译为 `<slug>.figdesc.md`，作为无障碍描述保留 | （47 条适用） |
 | 21 | 正文交叉引用 `see X` | 语义译出（"见……"/"——见……"）；X 为词条时用 SUMMARY 中文名，未译词条按管线占位（同 #18） | SUMMARY 中 `\*…——见…` 行既有惯例 |
