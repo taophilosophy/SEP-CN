@@ -2,7 +2,7 @@
   "slug": "delmedigo",
   "kind": "retranslate",
   "zh_doc": "d/delmedigo.md",
-  "state": "r2_reviewed",
+  "state": "r3_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,13 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-05T19:06:38Z",
       "evidence": "独立复审（接管会话，非初译 actor，满足复核独立性）：yuanwen 逐句回核全文。忠实性实修 13 处——efficient/formal/final 三因并列补全动力二字、cause 泛指改原因（结论处才为 efficient cause）、equivocal 类比→歧义 3 处（经院术语对项 univocal/analogical）、《决定论》→《决定性论文》3 处避让已登记 determinism、autograph 补亲笔、John of Jandun 改通译让丹的约翰、In meteora Aristotelis 挂原文、书名对物理学注疏前后统一。prose 实修 16 处（长句句号化拆分 9/weak-verb 2/de-chain 3/被动与们 1/指代消歧 1），余 17 处按 ADR-0020 豁免：冒号列举 4、破折号插入已分解 5、概念性定语 de-chain 7、术语搭配 1，逐类留判读依据。结构守恒：段落 39:39、marker 51:51 顺序一致、defs 键集 46:46、年份序列 136:136 一致。四检全绿：style 0/academic 0/math 0/bold-markdown 0。人名补登 13 行、术语补登 12 行同批提交。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T19:44:14Z",
+      "evidence": "终审验收（接管会话；复核独立性满足——r2 与终审均由非初译 actor 执行）：终稿结构完整（正文节/尾节四件套/defs 键集守恒），定点检查器与全库 check_all 七项门禁全绿（2026-11-06 本地，推送后 CI 为最终裁判）。r2 逐句回核已实修忠实性与 prose 全部适配点，本验收无新增问题。"
     }
   ],
   "blockers": [],
