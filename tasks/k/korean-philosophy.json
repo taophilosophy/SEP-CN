@@ -2,7 +2,7 @@
   "slug": "korean-philosophy",
   "kind": "retranslate",
   "zh_doc": "k/korean-philosophy.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:14:56Z",
+      "evidence": "零信任全量重译 96K 源 62 段+海印图 1 幅（资产在册）；assemble 七对账 OK：段落 62/62、内联脚注标记 42/42 零缺失零多余、书目 defs 84/84、图片路径 src=dst、节 4/5 全齐"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:14:56Z",
+      "evidence": "文献还原：biblio_audit korean-philosophy 无 flagged；check_academic --strict OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:14:56Z",
+      "evidence": "韩儒人名 28 行（李滉退溪/李珥栗谷/丁若镛茶山等汉文传统写法）+术语 6 行（体用/四端七情之辩/湖洛/实学/东学/主体）登记；prose 实修 10（被动 5/弱动词 5），均幂等过；豁免留痕：残余 57（de-chain 49/long-sentence 7）全属概念性定语"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T18:14:58Z",
+      "evidence": "四检终态：style 0、prose 残余 57（豁免类）、check_academic --strict OK；check_all 七门禁全绿"
     }
   ],
   "blockers": [],

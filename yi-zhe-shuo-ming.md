@@ -1107,6 +1107,12 @@
 | T’ong Pulgyo | 统一佛教 | korean-buddhism | 韩国佛教史学界通行（통불교；Shim Jaeryong 批判对象） | 2026-11-05 |
 | Minjung Buddhism | 民众佛教 | korean-buddhism | 韩国学界通行（민중불교；Minjung=民众） | 2026-11-05 |
 | chuin’gong（주인공） | 主人公 | korean-buddhism | 汉文传统写法（大行「主人公」修行法，公/空双关） | 2026-11-05 |
+| ch’e-yong（體用） | 体用 | korean-philosophy | 汉文传统写法（儒佛共享范式；源文汉字 體用） | 2026-11-05 |
+| Four-Seven Debate（四端七情論爭） | 四端七情之辩 | korean-philosophy | 朝鲜性理学史通行（退溪-高峰、栗谷-牛溪两轮） | 2026-11-05 |
+| Horak（湖洛） | 湖洛之辩 | korean-philosophy | 朝鲜性理学史通行（韩元震-李僩系人性物性之辩） | 2026-11-05 |
+| Silhak（實學） | 实学 | korean-philosophy | 学界千年通行（朝鲜实学；源文汉字 實學） | 2026-11-05 |
+| Tonghak（東學） | 东学 | korean-philosophy | 学界通行（崔济愚创，源文汉字 東學；与“东方学”区别） | 2026-11-05 |
+| chuch’e（主體） | 主体 | korean-philosophy | 学界通行（朝鲜主体思想；源文汉字 主體） | 2026-11-05 |
 | justified true belief（JTB） | 被证成的真信念 | knowledge-analysis | 沿用 justep-coherence 登记主形（学界通行）；本条目按「证成」体例 | 2026-11-05 |
 | Gettier cases | 盖梯尔案例 | knowledge-analysis | 知识论通行（以 Edmund Gettier 1963 命名） | 2026-11-05 |
 | no false lemmas | 无假前提 | knowledge-analysis | 知识论文献通行直译（conditions 条款名） | 2026-11-05 |
