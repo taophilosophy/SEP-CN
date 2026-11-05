@@ -2,7 +2,7 @@
   "slug": "dewey-political",
   "kind": "retranslate",
   "zh_doc": "d/dewey-political.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T05:29:40Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T15:54:46Z",
+      "evidence": "全量重译组装：15365 汉字 5 节标题对齐，83 条脚注定义保留（书目原样），EW/MW/LW 缩写词表原样"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T15:54:46Z",
+      "evidence": "逐节对照源钉（pubinfo Feb 9 2023）：段落 42:42 全对齐，内联脚注标记零缺失零多余，相关词条 7 项按 SUMMARY 定名（含 pragmatism Rorty 两条拆分为实用主义+罗蒂）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T15:54:46Z",
+      "evidence": "check_prose 161→129：实修 32（长句拆分 15/weak 14/passive 3/as-one 1/leftover 5/结构 2），余 129 豁免留痕：76 de-chain，47 long 为 70-99 区间引文密集论证句（含 Dewey 英文引文回译），6 passive 为中文自然被字句——三轮拆分后余量，ADR-0020"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T15:54:48Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 129 豁免留痕见 s2；人名 10 条登记（杜威/莫里斯/格林/梅因/塔夫茨/李普曼/胡克/贝拉米/柯尔/罗蒂）"
     }
   ],
   "blockers": [],

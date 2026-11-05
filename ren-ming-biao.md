@@ -834,6 +834,10 @@
 | Ch’oe Namsŏn | 崔南善 | korean-buddhism | 学界通行汉译（韩文 최남선，汉字 崔南善；近代学者） | 2026-11-05 |
 | Park Chungbin, Sot’aesan | 朴重彬（少太山） | korean-buddhism | 学界通行汉译（圆佛教创始人，尊号 소태산 汉字 少太山） | 2026-11-05 |
 | Daehaeng | 大行 | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行） | 2026-11-05 |
+| Edmund Gettier | 盖梯尔 | knowledge-analysis | 学界通行汉译（1963 论文作者，JTB 挑战者） | 2026-11-05 |
+| Saul Kripke | 索尔·克里普克 | knowledge-analysis | 学界通行汉译（《命名与必然性》作者） | 2026-11-05 |
+| Dharmottara | 法上 | knowledge-analysis | 佛学界传统译名（汉文古译；法称后学因明论师，约 770 年；与中文同名古师别为二人，键以梵名区分） | 2026-11-05 |
+| Śrīharṣa | 室利诃奢 | knowledge-analysis | 印度哲学史学界通行音译（12 世纪正理派论师，存疑待 specs/008 复核） | 2026-11-05 |
 
 ## 待裁定
 
