@@ -2,7 +2,7 @@
   "slug": "molyneux-problem",
   "kind": "retranslate",
   "zh_doc": "m/molyneux-problem.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "direction",
@@ -17,6 +17,34 @@
       "actor": "task_ops",
       "at": "2026-11-05T18:39:06Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:12:27Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：36 段双版直译分两批落盘（批1 段1-17 含 1688 莫利纽克斯书信+洛克三段引块历史文献中译；批2 段18-36）；引块保留 > 结构与 *斜体* 标记守恒；36 段守恒校验 HARD=0（SOFT 6 处机械段=标题/单行 OIR 留痕）；compose 写回 18726 字符；italic_to_bold 0 行（译文斜体均为西文书名，正当保留）；相关词条经 map_related 工具修复（lq.py 增 'Surname, Given' 换位变体+'父: 子'按父姓消解歧义）后 12/12 全命中 SUMMARY 主名形；人名 14 行+术语 15 行先登记后使用"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:13:20Z",
+      "evidence": "s1 一校（对照源逐节核销，MTPE 顺序）：①36 段源/译对照通读核销（直译即逐段对照完成，compose 后复读成稿）——无漏译、无增译、无幻觉引文；两段历史书信（1688 莫利纽克斯原信/洛克 Essay II.ix.8 三段引文）逐句对照源文译出，feet=英尺、Globe/Cube 依上下文译球/立方体，'whether he Could not Reach them'古语否定式核为'是否够得着'；②数字多集合比对 5 段差异逐一定性正当：段5 译多'7'（7 月 7 日）、段6 源'88'归一 1688、段7 卷章中文数词（Book 2, Chapter 9→第二卷第九章）、段22/25 '3D/2D'→三维/二维中文数词；③术语：check_terms 0 硬错误、词汇表滞后 0（primary quality 已登记并使用）；人名首现括注英文（贝克莱/莱布尼茨/伏尔泰/狄德罗/拉美特利/亥姆霍兹/威廉·詹姆斯/穆勒/惠斯通/切塞尔登/孔狄亚克/里德/布丰/亚当·斯密/哈奇森/卡西尔），现代学者按体例保留英文（Glenney/Ferretti/Held/Meltzoff 等）；④相关词条 12/12 对齐 SUMMARY 主名形（威廉·詹姆斯/亚当·斯密的伦理学和政治哲学 修复后全命中）；⑤biblio 53 条现制照录（无中国文献，biblio_audit 无 flagged）；⑥学术规范：引用组原样、版本事实行与 baseline pubinfo 一致（2005-06-30 首发/2026-01-08 修订）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:13:20Z",
+      "evidence": "s2 二校（Fluency/Style，ADR-0020）：check_prose 11→0——10 处实修（长句拆分×7：段16 引语据其自述破长句/段20 新报告句拆分/段27 就此而言句拆分/段29 补句号断句（源文句号脱漏，标点归一）/段30 失明理解句重构+技能句拆分/段32 雏鸡句拆分/段33 工具评估句拆分；de-chain 减的×2：段20 其中一些报告…另一些/段30 如今对失明的理解；passive-bei×1：段30 被×2→0 被改写），0 豁免留痕；全部改动经账本 step2 修改后 compose 写回（账本=事实源），每处对照英文源确认语义不变"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:13:21Z",
+      "evidence": "s3 三校（Terminology/Locale Convention）：style --strict 0 issue；academic --strict 0 硬错误；math 0 missing 0 unbalanced；summary 0 硬错误；prose 0；守恒 HARD=0（36 段）；脚注键闭环（正文 [^key] 27 处引用↔定义区 53 条现制照录）；markdownlint 随 CI；引号弯引号/中西文空格/禁 HTML 全过"
     }
   ],
   "blockers": [],
