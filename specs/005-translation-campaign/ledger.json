@@ -131,8 +131,8 @@
    "phase": "translate",
    "claimed_by": "RZ-main-20261104",
    "claimed_at": "2026-11-03T19:14:41Z",
-   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：86 词条=done 5/pending 5/cleared 1（redistribution RZ 会话在途，账本 p1 已落盘）+75 未建；零偏差",
-   "advanced_at": "2026-11-03T19:15:06Z"
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：86 词条=done 5/pending 5/cleared 1（redistribution RZ 会话在途，账本 p1 已落盘）+75 未建；零偏差；对账复核更正（2026-11-06 RZ 进度对账会话）：总数实为 85（未建 74），redistribution 状态实为 s1_checked 非 cleared（steps 至 s1）；三源核对（SUMMARY/tasks json/词条文件+基线镜像）零异常，r 批 done 5 件 r3 步骤齐全",
+   "advanced_at": "2026-11-05T20:22:06Z"
   },
   "s": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-05T15:22:54Z"
+ "updated_at": "2026-11-05T20:22:06Z"
 }
