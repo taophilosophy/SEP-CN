@@ -2,7 +2,7 @@
   "slug": "knowledge-value",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-value.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:44Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T19:37:22Z",
+      "evidence": "零信任全量重译 121K 源 95 段；assemble 五对账 OK：段落 95/95、内联脚注标记 89/89 零缺失零多余、书目 defs 220/220、节 9/0/0 全齐"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T19:37:22Z",
+      "evidence": "文献还原：biblio_audit knowledge-value flagged=0；check_academic --strict OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T19:37:22Z",
+      "evidence": "知识论术语体例沿用本库（证成/可靠论/美德认识论/可错论/延展心灵），斜体转加粗 85+空格 124+prose 实修 6（被动 5/弱动词 1），均幂等过；豁免留痕：残余 90（de-chain 46/long-sentence 37/passive 4）属论证密集体与概念性定语，ADR-0020 按体裁豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T19:37:25Z",
+      "evidence": "四检终态：style 0、prose 残余 90（体裁豁免类）、check_academic --strict OK；check_all 七门禁全绿；相关词条 7 条 SUMMARY 定名对齐（美德认识论/知识的分析/关于如何做某事的知识等）"
     }
   ],
   "blockers": [],
