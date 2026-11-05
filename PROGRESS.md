@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 20:09（UTC）
+生成时间：2026-11-05 20:17（UTC）
 
 ## 总览
 
@@ -26,8 +26,8 @@
 |cleared|178|
 |drafted|2|
 |s1_checked|2|
-|s3_checked|92|
-|r1_reviewed|1|
+|s3_checked|90|
+|r1_reviewed|3|
 |done|93|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -81,7 +81,7 @@
 |agrippa-nettesheim|retranslate|cleared|task_ops 2026-10-31|
 |al-baghdadi|retranslate|cleared|task_ops 2026-10-31|
 |al-din-al-razi|retranslate|cleared|task_ops 2026-10-31|
-|al-farabi|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
+|al-farabi|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |al-farabi-logic|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-metaphysics|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
@@ -91,7 +91,7 @@
 |albert-great|retranslate|cleared|task_ops 2026-10-31|
 |albert-saxony|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |alcmaeon|retranslate|s1_checked|zcode-前置复核 2026-10-27|
-|autrecourt|retranslate|s3_checked|main-session 2026-11-01|
+|autrecourt|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
