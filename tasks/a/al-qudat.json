@@ -2,7 +2,7 @@
   "slug": "al-qudat",
   "kind": "retranslate",
   "zh_doc": "a/al-qudat.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "?",
       "at": "2026-11-05T18:01:37Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 67 豁免留痕见 s2；人名 17 条登记（艾因·古达特/海亚姆/安萨里/苏哈拉瓦迪/库纳维/纳萨菲/贾米/穆拉·萨德拉/鲁米/图西/拉齐/伊布利斯/希德尔等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T20:35:14Z",
+      "evidence": "独立初审（接管会话，非初译 actor——原 ABCDE 会话 11-06 s3 收口）：守恒四项复验全绿（段落 88:88、年份 125:125 序列一致、marker 46:46 顺序一致、defs 59:59），六检硬错误零，prose 67 与原 s3 豁免留痕数一致。全文抽读引文块六处对照源文忠实；捕获中英混杂残留 5 处实修——champion 的→庇护的、encompassing 受造者→涵盖受造者、premise×4→前提、Zubdat 拉丁形引注→《实在的精髓》统一（首现挂注已在正文）。"
     }
   ],
   "blockers": [],
