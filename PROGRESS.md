@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 20:36（UTC）
+生成时间：2026-11-05 21:09（UTC）
 
 ## 总览
 
@@ -23,10 +23,10 @@
 |状态|数量|
 |---|---|
 |pending|632|
-|cleared|178|
+|cleared|176|
 |drafted|2|
 |s1_checked|2|
-|s3_checked|89|
+|s3_checked|91|
 |r1_reviewed|1|
 |done|96|
 
@@ -308,7 +308,7 @@
 |kant-spacetime|retranslate|cleared|task_ops 2026-11-01|
 |kant-transcendental|retranslate|cleared|task_ops 2026-11-01|
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
-|kierkegaard|retranslate|cleared|task_ops 2026-11-01|
+|kierkegaard|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |knowledge-acquaindescrip|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-analysis|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
@@ -320,7 +320,7 @@
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |lady-masham|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|lakatos|retranslate|cleared|task_ops 2026-11-03|
+|lakatos|retranslate|s3_checked|LQ-main-20261105 2026-11-05|
 |lambert-auxerre|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |landmann-kalischer|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |law-ideology|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
