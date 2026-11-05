@@ -206,3 +206,4 @@
 * **管线工具沉淀**：lq.py summary_index 别名行兜底+map_related 归一化增强（24 项全命中主名形）；同键异义冲突以发布词汇表兼容形"种／物种"消解（check_terms 口径）。
 * **移交清单**：①双版账本批（conway/crathorn/croce 类）译文侧 s2 润色漂移未回写账本——账本闭环轮批量处理；②map_related 同名 en 多词条歧义（biology/physics "experiment in"）待 slug 消歧；③008 战役域存量告警（Molyneux×2、ʿAyn al-Quḍāt 滞后、Mullā Ṣadrā/Eustachius/Melissus 两形分立）；④术语在线跑批（termonline-batch）本会话未起（术语新增 2 行已附学界惯例凭证，待批次凭证补强）。
 * 门禁 7/7 全绿；PROGRESS 刷新（正式 1879，done 93）。
+* 漂移闭环第 2 例：crathorn 账本 step2 ← 译文终态 6 段整段回写（段 4/6/8/10/11/13：3 段 italic_to_bold 体例转换+3 段措辞类 s2 成果），21 段残余漂移 0——量化方法勘误：strip 缩进后比对（前次带 6 空格前缀误报 21/21 全漂移）。双版账本批漂移模式至此两例（lp 27+2 处定点/crathorn 6 段整段），方法成熟：strip 量化→段级身份回写→复验残余=0。
