@@ -738,6 +738,24 @@
 | Blondel, Maurice | 莫里斯·布隆代尔 | duhem | 学界惯例（法国哲学家，通行音译） | 2026-11-05 |
 | Jordanus de Nemore | 内莫尔的约尔丹努斯 | duhem | 学界惯例（中世纪数学家，通行音译） | 2026-11-05 |
 
+| ʿAyn al-Quḍāt | 艾因·古达特 | al-qudat | 学界惯例（SUMMARY 定名沿用；波斯苏菲哲学家） | 2026-11-06 |
+| Khayyam, ʿUmar | 欧玛尔·海亚姆 | al-qudat | 学界通行汉译（《鲁拜集》作者；SUMMARY 定名沿用） | 2026-11-06 |
+| Ghazālī, Abū Ḥāmid | 安萨里 | al-qudat | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
+| Ghazālī, Aḥmad | 艾哈迈德·安萨里 | al-qudat | 学界惯例（安萨里之弟，苏菲导师） | 2026-11-06 |
+| Suhrawardī, Shihāb al-Dīn | 苏哈拉瓦迪 | al-qudat | 学界惯例（SUMMARY 定名沿用；光照学派） | 2026-11-06 |
+| Qūnawī, Ṣadr al-Dīn | 库纳维 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
+| Qayṣarī, Dāwūd al- | 凯萨里 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
+| Fanārī, Shams al-Dīn | 法纳里 | al-qudat | 学界惯例（伊本·阿拉比后学，通行音译） | 2026-11-06 |
+| Dargazīnī, Qawwām al-Dīn | 达尔加齐尼 | al-qudat | 学界惯例（塞尔柱维齐尔，通行音译） | 2026-11-06 |
+| Nasafī, ʿAzīz al-Dīn | 纳萨菲 | al-qudat | 学界惯例（波斯苏菲作者，通行音译） | 2026-11-06 |
+| Jāmī, ʿAbd al-Raḥmān | 贾米 | al-qudat | 学界通行汉译（波斯诗人/苏菲） | 2026-11-06 |
+| Mullā Ṣadrā | 穆拉·萨德拉 | al-qudat | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
+| Rūmī | 鲁米 | al-qudat | 学界通行汉译（波斯苏菲诗人） | 2026-11-06 |
+| Ṭūsī, Naṣīr al-Dīn | 纳西尔丁·图西 | al-qudat | 学界通行汉译（马拉盖天文台） | 2026-11-06 |
+| al-Rāzī, Fakhr al-Dīn | 法赫尔丁·拉齐 | al-qudat | 学界惯例（SUMMARY 定名沿用） | 2026-11-06 |
+| Iblīs | 伊布利斯 | al-qudat | 学界惯例（《古兰经》堕落天使，通行音译） | 2026-11-06 |
+| Khidr (al-Khiḍr) | 希德尔 | al-qudat | 学界惯例（《古兰经》神秘人物，通行音译） | 2026-11-06 |
+
 ## 登记格式说明
 
 ```
@@ -847,6 +865,34 @@
 | Edmund Gettier | 盖梯尔 | knowledge-analysis | 学界通行汉译（1963 论文作者，JTB 挑战者） | 2026-11-05 |
 | Saul Kripke | 索尔·克里普克 | knowledge-analysis | 学界通行汉译（《命名与必然性》作者） | 2026-11-05 |
 | Śrīharṣa | 室利诃奢 | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师；sriharsa 词条会话 2026-11-05 裁定） | 2026-11-05 |
+| Kuiji | 窥基 | korean-philosophy | 佛学界千年传统译名（玄奘弟子，唯识宗二祖） | 2026-11-05 |
+| Tochŭng | 道证 | korean-philosophy | 汉文传统写法（源文汉字 道證；圆测弟子，新罗唯识） | 2026-11-05 |
+| Taehyŏn | 大贤 | korean-philosophy | 汉文传统写法（源文汉字 大賢；新罗唯识） | 2026-11-05 |
+| Yi Hwang, T’oegye | 李滉（退溪） | korean-philosophy | 汉文传统写法（朝鲜性理学家，四端七情之辩「理发四端」说） | 2026-11-05 |
+| Ki Taesŭng, Kobong | 奇大升（高峰） | korean-philosophy | 汉文传统写法（与退溪论辩四端七情） | 2026-11-05 |
+| Yi I, Yulgok | 李珥（栗谷） | korean-philosophy | 汉文传统写法（朝鲜性理学家，「气发理乘」说） | 2026-11-05 |
+| Sŏng Hon, Ugye | 成浑（牛溪） | korean-philosophy | 汉文传统写法（栗谷论友，续四端七情之辩） | 2026-11-05 |
+| Kwŏn Kŭn | 权近 | korean-philosophy | 汉文传统写法（源文汉字 權近；朝鲜初性理学者，阳村） | 2026-11-05 |
+| Yi Onjŏk | 李彦迪 | korean-philosophy | 汉文传统写法（朝鲜性理学者，晦斋） | 2026-11-05 |
+| Han Wŏnjin | 韩元震 | korean-philosophy | 汉文传统写法（朝鲜性理学家，南塘，湖洛之辩） | 2026-11-05 |
+| Chŏng Chedu | 郑齐斗 | korean-philosophy | 汉文传统写法（源文汉字 鄭齊斗；朝鲜阳明学者，霞谷） | 2026-11-05 |
+| Im Yunjidang | 任允挚堂 | korean-philosophy | 汉文传统写法（源文汉字 任允摯堂；朝鲜女性儒者） | 2026-11-05 |
+| Kang Chŏngildang | 姜静一堂 | korean-philosophy | 汉文传统写法（源文汉字 姜靜一堂；朝鲜女性儒者） | 2026-11-05 |
+| Yu Hyŏngwon | 柳馨远 | korean-philosophy | 汉文传统写法（源文汉字 柳馨遠；实学家，磻溪） | 2026-11-05 |
+| Yi Ik | 李瀷 | korean-philosophy | 汉文传统写法（实学家，星湖） | 2026-11-05 |
+| Hong Taeyong | 洪大容 | korean-philosophy | 汉文传统写法（北学派，湛轩） | 2026-11-05 |
+| Pak Chiwon | 朴趾源 | korean-philosophy | 汉文传统写法（北学派，燕岩） | 2026-11-05 |
+| Pak Cheka | 朴齐家 | korean-philosophy | 汉文传统写法（源文汉字 朴齊家；北学派，楚亭） | 2026-11-05 |
+| Chŏng Yagyong, Tasan | 丁若镛（茶山） | korean-philosophy | 汉文传统写法（实学集大成者，融合托玛斯主义） | 2026-11-05 |
+| Sŏ Kyŏngdok | 徐敬德 | korean-philosophy | 汉文传统写法（气一元论者，花潭） | 2026-11-05 |
+| Ch’oe Hangi | 崔汉绮 | korean-philosophy | 汉文传统写法（源文汉字 崔漢綺；气学者，惠冈） | 2026-11-05 |
+| Ch’oe Che-u | 崔济愚 | korean-philosophy | 汉文传统写法（东学创祖，水云） | 2026-11-05 |
+| Paek Sŏnguk | 白性郁 | korean-philosophy | 源文汉字 白性郁（近代佛教哲学家；korean-buddhism 条目无汉字暂保留罗马字，此处据源文补录） | 2026-11-05 |
+| Kim Il-sŏng | 金日成 | korean-philosophy | 学界通行汉译（朝鲜主体思想创始人） | 2026-11-05 |
+| Matteo Ricci | 利玛窦 | korean-philosophy | 学界千年通行译名（耶稣会士，丁若镛所受托玛斯主义之中介） | 2026-11-05 |
+| Zhang Zai | 张载 | korean-philosophy | 学界千年通行译名（张子正蒙，气学先声） | 2026-11-05 |
+| Zhu Xi | 朱熹 | korean-philosophy | 学界千年通行译名（朱子，朝鲜性理学之源） | 2026-11-05 |
+| Fichte | 费希特 | korean-philosophy | 学界通行汉译（民族理论） | 2026-11-05 |
 
 ## 待裁定
 

@@ -2,7 +2,7 @@
   "slug": "al-qudat",
   "kind": "retranslate",
   "zh_doc": "a/al-qudat.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:10:06Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T18:01:34Z",
+      "evidence": "全量重译组装：14659 汉字 8 节标题对齐，59 条脚注定义保留（书目原样）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T18:01:34Z",
+      "evidence": "逐节对照源钉（pubinfo Oct 30 2024 首版）：段落 80:80 全对齐，内联脚注标记零缺失零多余，相关词条 13 项按 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T18:01:35Z",
+      "evidence": "check_prose 67：实修 0 直接翻译；豁免留痕：41 de-chain 伊斯兰哲学论证定语，17 long 为 70-86 区间引文密集苏菲论证句，7 passive 中文自然被字句，1 weak，1 as-one——ADR-0020；style italic-CJK 5 处已修"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-05T18:01:37Z",
+      "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 67 豁免留痕见 s2；人名 17 条登记（艾因·古达特/海亚姆/安萨里/苏哈拉瓦迪/库纳维/纳萨菲/贾米/穆拉·萨德拉/鲁米/图西/拉齐/伊布利斯/希德尔等）"
     }
   ],
   "blockers": [],
