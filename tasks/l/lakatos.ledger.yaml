@@ -1265,7 +1265,7 @@ segments:
     source: |-
       > Popper’s ideas represent the most important development in the philosophy of the twentieth century; an achievement in the tradition—and on the level—of Hume, Kant, or Whewell. … More than anyone else, he changed my life. I was nearly forty when I got into the magnetic field of his intellect. His philosophy helped me to make a final break with the Hegelian outlook which I had held for nearly twenty years. (PDI: 139.)
     step1: |-
-      > 波普尔的思想代表了二十世纪哲学中最重要的进展；是休谟、康德或惠威尔传统中——且与之同一水平——的成就。……他比任何人都更多地改变了我的生活。我年近四十才进入他的智识磁场。他的哲学帮助我与持有近二十年的黑格尔式 outlook 作了最终决裂。（PDI: 139.）
+      > 波普尔的思想代表了二十世纪哲学中最重要的进展；是休谟、康德或惠威尔传统中——且与之同一水平——的成就。……他比任何人都更多地改变了我的生活。我年近四十才进入他的智识磁场。他的哲学帮助我与持有近二十年的黑格尔式世界观 作了最终决裂。（PDI: 139.）
     step2: |-
       > 波普尔的思想代表了二十世纪哲学中最重要的发展；是休谟、康德或惠威尔传统中——且与之同一水准——的成就。……他比任何人都更深地改变了我的生活。我年近四十才进入他智识的磁场。他的哲学帮助我最终决裂于我抱持了近二十年的黑格尔式世界观。（PDI: 139.）
   - id: 157
@@ -1385,231 +1385,233 @@ segments:
     source: |-
       (3) This episode undermines an influential “Hegelian” reading of Lakatos due to Ian Hacking. According to Hacking,
     step1: |-
-
+      （3）这一事件动摇了伊恩·哈金对拉卡托什的一种有影响的“黑格尔式”解读。按照哈金的看法，
     step2: |-
-
+      （3）这桩事件动摇了 Ian Hacking 对拉卡托什的一种有影响的“黑格尔式”解读。按照 Hacking 的看法，
   - id: 172
     kind: body
     source: |-
       > Lakatos, educated in Hungary in an Hegelian and Marxist tradition, took for granted the post-Kantian, Hegelian, demolition of correspondence theories (Hacking 1983: 118)[^hacking-1983].
     step1: |-
-
+      > 拉卡托什在匈牙利接受黑格尔与马克思主义传统的教育，把后康德的、黑格尔式的对符合论的摧毁视为理所当然（Hacking 1983: 118）[^hacking-1983]。
     step2: |-
-
+      > 拉卡托什在匈牙利受的是黑格尔与马克思主义传统的教育，后康德的、黑格尔式的对符合论的摧毁，在他那里被视作理所当然（Hacking 1983: 118）[^hacking-1983]。
   - id: 173
     kind: body
     source: |-
       This is an odd assertion as Lakatos explicitly endorses the correspondence theory on a number of occasions and even declares truth to be the aim of science, which is why contradictions are intolerable in the long term (FMSRP: 58). But in Hacking’s view, Lakatos was
     step1: |-
-
+      这是一个奇怪的断言，因为拉卡托什在不止一个场合明确认可符合论，甚至宣布真理是科学的目标——这也是为什么矛盾从长远看是不可容忍的（FMSRP: 58）。但在哈金看来，拉卡托什
     step2: |-
-
+      这是个古怪的断言：拉卡托什多次明确认可符合论，甚至宣告真理是科学的目标——这也正是矛盾从长远看不可容忍的原因（FMSRP: 58）。可在 Hacking 看来，拉卡托什
   - id: 174
     kind: body
     source: |-
       > down on truth, not just a particular theory of truth. He [did] not want a replacement for the correspondence theory, but a replacement for truth itself (Hacking 1983: 119)[^hacking-1983].
     step1: |-
-
+      > 不满于真理——不只是一特定的真理理论。他［想要］的不是符合论的替代品，而是真理本身的替代品（Hacking 1983: 119）[^hacking-1983]。
     step2: |-
-
+      > 心中不满的是真理——而非某一特定的真理理论。他［想要］的不是符合论的替代品，而是真理本身的替代品（Hacking 1983: 119）[^hacking-1983]。
   - id: 175
     kind: body
     source: |-
       He found his replacement in the concept of progress.
     step1: |-
-
+      他在进步概念中找到了他的替代品。
     step2: |-
-
+      他在“进步”这个概念里找到了替代品。
   - id: 176
     kind: body
     source: |-
       > Lakatos then defines objectivity and rationality in terms of progressive research programmes, and allows an incident in the history of science to be objective and rational if its internal history can be written as a sequence of progressive problem shifts (Hacking 1983: 126)[^hacking-1983].
     step1: |-
-
+      > 拉卡托什随后以进步的研究纲领来定义客观性与合理性，并允许科学史上的一个事件是客观且理性的，如果其内部史可以被写成一个进步问题转换的序列（Hacking 1983: 126）[^hacking-1983]。
     step2: |-
-
+      > 拉卡托什随后以进步的研究纲领来定义客观性与合理性：只要一个科学史事件的内部史可以被写成进步问题转换的序列，该事件就是客观且理性的（Hacking 1983: 126）[^hacking-1983]。
   - id: 177
     kind: body
     source: |-
       Progress becomes a surrogate for truth. We don’t ask whether a theory is true or not but only whether it is part of a progressive programme. To paraphrase the young Karl Popper,
     step1: |-
-
+      进步成了真理的替身。我们不问一个理论是否为真，只问它是否属于某个进步的纲领。化用青年卡尔·波普尔的话，
     step2: |-
-
+      进步成了真理的替身：我们不问一个理论是否为真，只问它是否属于某个进步的纲领。化用青年卡尔·波普尔的话——
   - id: 178
     kind: body
     source: |-
       > in the logic of science [that Lakatos has] outlined it is possible to avoid using the concepts “true” and “false” [which, in Lakatos’s opinion, is a jolly good thing!] (LSD: 273).
     step1: |-
-
+      > 在［拉卡托什］概述的科学逻辑中，可以避免使用“真”与“假”概念［而这，在拉卡托什看来，是一件大好事！］（LSD: 273）。
     step2: |-
-
+      > 在［拉卡托什］概述的科学逻辑中，可以避开“真”与“假”这对概念［而这，在拉卡托什看来，是一件大好事！］（LSD: 273）。
   - id: 179
     kind: body
     source: |-
       But if Lakatos had really been such an anti-truth-freak, he would not have congratulated Popper on his Tarskian turn. Rather he would have condemned him for taking the vacuous concept of truth to be the aim of science. As for the disconnect between the *aim* of science and the *game* of science, he would have recommended that Popper resolve it by dropping the aim and substituting the game (which, according to Hacking, was what Lakatos himself was trying to do). If truth were not the object of the exercise, there would be no need for a whiff of inductivism to connect Popper’s method with science’s ultimate objective. But Lakatos *did* think that a whiff of inductivism was needed to connect Popper’s method with science’s objective. Hence Lakatos believed that truth was the object of the scientific enterprise. Whatever the remnants of Hegelianism that Lakatos retained in later life, an aversion to truth (or to the correspondence theory of truth ) was not one of them.
     step1: |-
-
+      但如果拉卡托什真的如此反真理成癖，他本不会祝贺波普尔的塔斯基转向。毋宁说他会谴责波普尔把真理这个空洞概念当作科学的目标。至于科学*目标*与科学*游戏*之间的脱节，他会建议波普尔通过放弃目标、代之以游戏来解决它（据哈金说，这正是拉卡托什自己试图做的）。如果真理不是这一事业的宗旨，就不需要一丝归纳主义的气息来把波普尔的方法与科学的终极目标连接起来。但拉卡托什*确实*认为需要一丝归纳主义的气息来连接波普尔的方法与科学的目标。因此拉卡托什相信真理是科学事业的宗旨。无论拉卡托什晚年保留了什么黑格尔主义的残余，对真理（或对真理符合论）的厌恶不在其中。
     step2: |-
-
+      可如果拉卡托什真的如此反真理成癖，他本不会祝贺波普尔的塔斯基转向，而该谴责波普尔把“真理”这个空洞概念奉为科学的目标。至于科学*目标*与科学*游戏*之间的脱节，他本该建议波普尔把目标一丢了事、拿游戏顶上（按 Hacking 的说法，这正是拉卡托什自己想做的）。倘若真理不是这项事业的宗旨，那就根本不需要一丝归纳主义的气息去接通波普尔的方法与科学的终极目标。可拉卡托什*确实*认为需要这一丝气息。所以，拉卡托什是相信真理乃科学事业之宗旨的。无论他晚年还留着多少黑格尔主义的残余，对真理（或对真理符合论）的厌恶绝不在其中。
   - id: 180
     kind: body
     source: |-
       ### 3.7 “Why Did Copernicus’s Research Programme Supersede Ptolemy’s?” (1976)
     step1: |-
-
+      ### 3.7 《哥白尼的研究纲领为何取代了托勒密的？》（1976）
     step2: |-
-
+      ### 3.7 《哥白尼的研究纲领为何取代了托勒密的？》（1976）
   - id: 181
     kind: body
     source: |-
       Lakatos’s last publication was an historical a case-study, co-authored with Elie Zahar and published after his death. It argues that the methodology of scientific research programmes can explain the Copernican Revolution as a rational process by which an earlier theory (Ptolemy’s geocentric theory of the Cosmos) was dethroned in favour another objectively better one (Copernicus’s heliocentric theory). It thus demonstrates the rationality of the Copernican Revolution (one of the most dramatic episodes in the history of thought) and confirms the MSRP as a theory of scientific rationality (so long as we accept the inductive principle that the more “great science” that a demarcation criterion can represent as rational, the more likely it is to be correct).
     step1: |-
-
+      拉卡托什的最后一篇出版物是一篇历史案例研究，与 Elie Zahar 合著，身后出版。它论证科学研究纲领方法论可以把哥白尼革命解释为一个理性过程：一个较早的理论（托勒密的宇宙地心说）被拉下马，让位于另一个客观上更好的理论（哥白尼的日心说）。它由此证明了哥白尼革命（思想史上最富戏剧性的事件之一）的合理性，并确证 MSRP 是一个科学合理性理论（只要我们接受那条归纳原则：一个划界标准能表现为合理的“伟大科学”越多，它就越可能正确）。
     step2: |-
-
+      拉卡托什的最后一篇出版物是一篇历史案例研究，与 Elie Zahar 合著，身后刊行。它论证：科学研究纲领方法论可以把哥白尼革命解释为一个理性过程——一个较早的理论（托勒密的宇宙地心说）被拉下马，让位于另一个客观上更好的理论（哥白尼的日心说）。它由此证明了哥白尼革命（思想史上最富戏剧性的事件之一）的合理性，并确证 MSRP 是一个科学合理性理论——只要我们接受那条归纳原则：一个划界标准能重构为合理的“伟大科学”越多，它就越可能正确。
   - id: 182
     kind: body
     source: |-
       Apart from the intrinsic interest of the subject, the paper marks a modification of Lakatos’s conception of factual novelty and hence a modification to the MSRP. For the earlier Lakatos, a fact counts as novel with respect to a research programme if it is not predicted by any of its rivals and if it is not already known. In WDCRPSP Lakatos accepts an amendment due to his co-author Elie Zahar. Zahar’s original problem was our old friend the Precession of Mercury. This was explained by Einstein’s programme—specifically the General Theory of Relativity—but not by Newton’s, and this was generally thought to count in Einstein’s favour. The difficulty is that in Lakatos’s lexicon the Precession of Mercury did not count as a novel fact. After all it had been known to astronomers for nearly a century. Thus, given the original version of the MSRP, the discovery that that the General Theory could explain the Precession of Mercury (whilst Newton’s theory could not) did not mean that Einstein’s programme was any more progressive than Newton’s. (*That* had to be argued on other grounds.) But this is such a counterintuitive result that it suggests a defect in the MSRP. Zahar’s modification is that a fact counts as a novel prediction with respect to a research programme if a) it is not predicted by any of the programme’s rivals and b) either it is *not* already known or if it *is* already known, the hard core of the programme was not devised to explain it.
     step1: |-
-
+      撇开论题本身的固有趣味，这篇文章标志着对拉卡托什事实新颖性概念的一个修改，因而也是对 MSRP 的一个修改。对早期的拉卡托什而言，一个事实相对于一个研究纲领算是新颖的，如果它不被其任何对手预言，且尚不为人所知。在 WDCRPSP 中，拉卡托什接受了他合著者 Elie Zahar 的一个修正。Zahar 的原初问题是我们的老朋友水星进动。它被爱因斯坦的纲领——具体说广义相对论——所解释，而不被牛顿的纲领解释，这通常被认为有利于爱因斯坦。困难在于，按拉卡托什的用语，水星进动不算新颖事实——毕竟天文学家知道它已近一个世纪。因此，按 MSRP 的原始版本，广义相对论能解释水星进动（而牛顿理论不能）这一发现，并不意味着爱因斯坦的纲领比牛顿的更进步。（*那一点*必须以其他理由来论证。）但这是一个如此违反直觉的结果，以至于暗示了 MSRP 的一个缺陷。Zahar 的修改是：一个事实相对于一个研究纲领算作新预言，如果 a) 它不被该纲领的任何对手预言，且 b) 它或者*尚不*为人所知，或者即便*已*为人所知，该纲领的硬核并非为解释它而设计。
     step2: |-
-
+      撇开题材本身的趣味，这篇文章标志着对拉卡托什事实新颖性概念的一处修订，因而也是对 MSRP 的一处修订。对早期的拉卡托什而言，一个事实相对于一个研究纲领算新颖，当且仅当它不被该纲领的任何对手预言、且尚不为人所知。在 WDCRPSP 中，拉卡托什接受了合著者 Elie Zahar 的一个修正。Zahar 的原初问题，正是我们的老朋友水星进动：它由爱因斯坦的纲领——具体说广义相对论——所解释，牛顿的纲领则不能；人们通常认为这有利于爱因斯坦。困难在于，按拉卡托什的用语，水星进动不算新颖事实——天文学家知道它已近一个世纪。于是，按 MSRP 的原始版本，“广义相对论能解释水星进动而牛顿理论不能”这一发现，并不表明爱因斯坦的纲领比牛顿的更进步（*那一点*须以别的理由另证）。可这个结果实在太反直觉，以至于暴露了 MSRP 的一处缺陷。Zahar 的修订是：一个事实相对于一个研究纲领算作新预言，当且仅当 a) 它不被该纲领的任何对手预言，且 b) 它或者*尚不*为人所知，或者虽*已*为人所知、该纲领的硬核却并非为解释它而设计。
   - id: 183
     kind: body
     source: |-
       By this modified criterion the Precession of Mercury counts as a novel fact with respect to Einstein’s programme. For the General Theory was designed to solve a *different* set of problems. The prediction that if the General Theory were correct, the perihelion of Mercury would shift as it does without the influence of any other heavenly body came as an “unexpected present from Schwarzschild” (the man who did the sums). It was therefore “an unintended by-product of Einstein”s programme’ (WDCRPSP: 185). So despite its antiquity, the Precession of Mercury counts as a novel fact or a novel prediction with respect to Einstein’s programme, thus making the programme a lot more progressive. Some might regard Zahar’s amendment as a suspiciously *ad hoc* move, but *ad hoc* or not, it looks like an improvement on the original MSRP. Lakatos and Zahar go on to use this idea to explain why Copernicus’s programme very properly superseded Ptolemy’s.
     step1: |-
-
+      按这一修改后的标准，水星进动相对于爱因斯坦的纲领算是新颖事实。因为广义相对论是为解决一组*不同的*问题而设计的。如果广义相对论正确，水星近日点将在不受任何其他天体影响的情况下像它实际那样移动——这一预言是“来自施瓦氏希尔德的意外礼物”（做计算的那个人）。它因此是“爱因斯坦纲领的一个非预期的副产品”（WDCRPSP: 185）。于是，尽管历史悠久，水星进动相对于爱因斯坦的纲领算作新颖事实或新预言，从而使该纲领更进步得多。有人可能认为 Zahar 的修正是可疑的*特设性*动作，但无论是不是*特设的*，它看起来都是对原始 MSRP 的改进。拉卡托什与 Zahar 接着用这一想法解释为什么哥白尼的纲领非常正当地取代了托勒密的纲领。
     step2: |-
-
+      按这条修订后的标准，水星进动相对于爱因斯坦的纲领就算新颖事实了：广义相对论本是为解决一组*不同的*问题而设计的。“如果广义相对论正确，水星近日点将不受任何其他天体影响、像它实际那样移动”——这一预言是“来自史瓦西的意外礼物”（做计算的那位）。它因此是“爱因斯坦纲领的一个未预期的副产品”（WDCRPSP: 185）。于是，尽管历史悠久，水星进动相对于爱因斯坦纲领仍算新颖事实或新预言，纲领由此进步得多。有人也许觉得 Zahar 的修订可疑地*特设*；但无论是否*特设*，它看起来都是对原始 MSRP 的一次改进。拉卡托什与 Zahar 接着用这个想法解释：哥白尼的纲领为什么非常正当地取代了托勒密的纲领。
   - id: 184
     kind: body
     source: |-
       ## 4. Mincemeat Unmade: Lakatos versus Feyerabend
     step1: |-
-
+      ## 4 肉酱未成：拉卡托什对费耶阿本德
     step2: |-
-
+      ## 4 肉酱未成：拉卡托什对费耶阿本德
   - id: 185
     kind: body
     source: |-
       According to his friend Paul Feyerabend, Lakatos was “was a fascinating person, an outstanding thinker and the best philosopher of science of our strange and uncomfortable century” (Feyerabend 1975a: 1)[^feyerabend-1975a]. Writing in 1981, John Fox raised a cynical eyebrow:
     step1: |-
-
+      据其朋友保罗·费耶阿本德说，拉卡托什“是一个迷人的人物、一位杰出的思想家、我们这个古怪而令人不适的世纪最好的科学哲学家”（Feyerabend 1975a: 1）[^feyerabend-1975a]。John Fox 于 1981 年讥诮地扬起了眉毛：
     step2: |-
-
+      据其朋友保罗·费耶阿本德说，拉卡托什“是一个迷人的人物、一位杰出的思想家、我们这个古怪而令人不适的世纪最好的科学哲学家”（Feyerabend 1975a: 1）[^feyerabend-1975a]。John Fox 于 1981 年讥诮地扬起了眉毛：
   - id: 186
     kind: body
     source: |-
       > As when Lakatos similarly praises Popper, it is easy to suspect indirect self-advertisement: building up one’s opponent so that the announced victory is taken as winning a world title (Fox 1981: 92)[^fox-1981].
     step1: |-
-
+      > 当拉卡托什类似地称赞波普尔时，人们很容易怀疑这是间接的自我宣传：把对手捧起来，好让宣称的胜利被当作赢得世界冠军（Fox 1981: 92）[^fox-1981]。
     step2: |-
-
+      > 每当拉卡托什如此称赞波普尔时，人们很容易怀疑这是拐弯的自我广告：先把对手捧起来，好让宣称的胜利被当成拿下世界冠军（Fox 1981: 92）[^fox-1981]。
   - id: 187
     kind: body
     source: |-
       With Motterlini’s publication of the Feyerabend/Lakatos correspondence (F&AM), Fox’s suspicions have been amply confirmed. It is quite clear that Lakatos and Feyerabend were engaged in a self-conscious campaign of mutual boosterism, leading up to a planned epic encounter between a fallibilistic rationalism, as represented by Lakatos, and epistemological anarchism, as represented by Feyerabend. As Feyerabend put it “I was to attack the rationalist position, Imre was to restate and defend it, making mincemeat of me in the process” (Feyerabend 1975b: preface)[^feyerabend-1975b]. This Battle of the Titans was to consist of Feyerabend’s *Against Method* and Lakatos’s projected reply, which is referred to, in their correspondence, by the mysterious acronym “MAM”.
     step1: |-
-
+      随着 Motterlini 出版费耶阿本德/拉卡托什通信（F&AM），Fox 的怀疑得到了充分证实。很明显，拉卡托什与费耶阿本德进行了一场自觉的相互捧场的运动，通向一场计划中的史诗对决：以拉卡托什为代表的可错理性主义，对以费耶阿本德为代表的认识论无政府主义。用费耶阿本德的话说，“我负责攻击理性主义立场，伊姆雷负责重申并捍卫它，并在此过程中把我剁成肉酱”（Feyerabend 1975b: preface）[^feyerabend-1975b]。这场泰坦之战将由费耶阿本德的《反对方法》与拉卡托什计划中的回应构成——后者在他们的通信中以神秘的缩略词“MAM”指称。
     step2: |-
-
+      随着 Motterlini 刊布费耶阿本德/拉卡托什通信（F&AM），Fox 的怀疑得到充分证实：拉卡托什与费耶阿本德分明在进行一场心照不宣的相互捧场，通往一场计划好的史诗对决——拉卡托什代表的可错理性主义，对阵费耶阿本德代表的认识论无政府主义。用费耶阿本德的话说：“我负责攻击理性主义立场，伊姆雷负责重申并捍卫它，并在此过程中把我剁成肉酱”（Feyerabend 1975b: preface）[^feyerabend-1975b]。这场泰坦之战，将由费耶阿本德的《反对方法》与拉卡托什计划中的应战构成——后者在两人通信中有个神秘的代号：“MAM”。
   - id: 188
     kind: body
     source: |-
       Sometimes the mutual boosterism went a bit too far, causing pain and distress to serious-minded philosophers who regarded Popperian critical rationalism as a bulwark against a resurgent Nazism:
     step1: |-
-
+      有时这种相互捧场有点过火，令那些把波普尔式批判理性主义视为抵御纳粹死灰复燃之壁垒的严肃哲学家痛苦不安：
     step2: |-
-
+      有时这相互捧场有点过火，令那些把波普尔式批判理性主义当作抵御纳粹借尸还魂之壁垒的严肃哲学家痛苦不安：
   - id: 189
     kind: body
     source: |-
       > Hans Albert is on the verge of suicide [writes Lakatos to Feyerabend]. Allegedly somebody told him that in Kiel you will describe critical rationalism as a “mental disease”, and he thinks that will be the end of Reason in Germany. I told him that though you are AN EXTREMELY GREAT MAN, that you will not bring Nazism back single-handedly…. (F&AM: 291).
     step1: |-
-
+      > 汉斯·阿尔伯特濒临自杀［拉卡托什写信给费耶阿本德］。据称有人告诉他，你将在基尔把批判理性主义描述为一种“精神疾病”，他认为那将是理性在德国的末日。我告诉他，尽管你是一个 AN EXTREMELY GREAT MAN，你不会单枪匹马把纳粹主义带回来……。（F&AM: 291）
     step2: |-
-
+      > Hans Albert 濒临自杀［拉卡托什致信费耶阿本德］。据称有人告诉他，你将在基尔把批判理性主义说成一种“精神疾病”；他认为那将是理性在德国的末日。我告诉他：尽管你是个 AN EXTREMELY GREAT MAN（极其伟大的人），你也不会单枪匹马把纳粹主义带回来……。（F&AM: 291）
   - id: 190
     kind: body
     source: |-
       But although they had interested motives for talking each other up, it is clear that the mutual admiration between Feyerabend and Lakatos was quite sincere. Each genuinely regarded the other as the man to beat.
     step1: |-
-
+      但是，尽管他们有互相吹捧的切身动机，费耶阿本德与拉卡托什之间的相互钦佩显然相当真诚。每个人都真心把对方视为那个必须打败的人。
     step2: |-
-
+      不过，尽管两人有互相抬轿的切身动机，费耶阿本德与拉卡托什之间的相互钦佩显然相当真诚：每个人都真心把对方看作那个必须击败的人。
   - id: 191
     kind: body
     source: |-
       Feyerabend’s criticism of Lakatos is summed up in his joking dedication to *Against Method*: To IMRE LAKATOS *Friend and Fellow-Anarchist*. In other words Feyerabend’s charge is that for all his law-and-order pretensions as a defender of the rationality of science and a critic of pseudoscience, Lakatos is really an epistemic anarchist *malgré lui*. Feyerabend’s epistemological anarchism is sometimes summed up by the slogan “Anything goes” but that is a little misleading. His point is rather this: *If you want a set of methodological rules distinguishing between good science and bad science*, the only thing that *won’t* exclude some of what *you* (Dear Reader) regard as the best science is the principle “Anything goes”. Anything else would rule out what is widely regarded as some of the best science as unscientific. Thus a large proportion of Feyerabend’s *Against Method* is devoted to “praising” Galileo for his allegedly anti-Popperian practices and his dodgy (but progressive) rhetorical tricks. Everyone agrees that Galileo was a great scientist. But if Galileo was great, then the rules that supposedly constitute great science are defective since they would exclude some of the greatest of Galileo’s great deeds.
     step1: |-
-
+      费耶阿本德对拉卡托什的批评，总结在他给《反对方法》的戏谑献词里：致伊姆雷·拉卡托什*朋友与同道无政府主义者*。换言之，费耶阿本德的指控是：尽管拉卡托什以科学与理性之捍卫者、伪科学之批评者的法度与秩序姿态示人，他其实是一个不经意的认识论无政府主义者。费耶阿本德的认识论无政府主义有时被概括为口号“怎么都行”，但这有点误导。他的要点毋宁是：*如果你想要一组区分好科学与坏科学的方法论规则*，那么唯一*不会*排除*你*（亲爱的读者）视为最好科学之某一部分的原则，就是“怎么都行”。任何其他原则都会把被广泛视为最好科学的一些东西排除为不科学。因此《反对方法》的很大篇幅用来“赞扬”伽利略的据称反波普尔的实践与他可疑（但进步的）修辞技巧。人人都同意伽利略是伟大的科学家。但如果伽利略伟大，那么那些据说构成伟大科学的规则就是有缺陷的，因为它们会排除伽利略最伟大成就中的一些。
     step2: |-
-
+      费耶阿本德对拉卡托什的批评，收束在《反对方法》那页戏谑的献词里：致伊姆雷·拉卡托什——*朋友与同道无政府主义者*。换言之，费耶阿本德的指控是：别看拉卡托什摆出一副科学与理性之捍卫者、伪科学之批评者的法度与秩序姿态，他其实是个身不由己（*malgré lui*）的认识论无政府主义者。费耶阿本德的认识论无政府主义有时被概括为口号“怎么都行”，但这略有误导。他的要点毋宁是：*如果你想要一组区分好科学与坏科学的方法论规则*，那么唯一*不会*排掉*你*（亲爱的读者）心中最好科学之某一部分的原则，就只剩“怎么都行”。任何其他规则都会把世人公认的某些最好的科学判成不科学。于是《反对方法》的很大篇幅用来“表扬”伽利略那些据称反波普尔的做派、与他可疑（但进步）的修辞花招。人人都同意伽利略是伟大的科学家；可伽利略既然伟大，那些据说构成伟大科学的规则就有毛病——因为它们会把伽利略最伟大的功绩排除掉一些。
   - id: 192
     kind: body
     source: |-
       But what about Lakatos? Feyerabend poses a dilemma. Suppose we apply the Lakatos’s methodology of scientific research programmes in a conservative or rigouristic spirit. Scientists are urged to abandon degenerating research programmes in favour of the progressive, and grant-giving agencies are urged to defund them. After all, such programmes are condemned by the Demarcation Criterion as *bad* science or even *non*-science! At the very least, the adherents of degenerating research programmes must bear the stigma of irrationality, owning up to their scientific sins. But in that case Lakatos’s MSRP would be condemning some research programmes to death as bad science or even non-science that might otherwise recover their progressive (and hence their scientific) status. Thus Lakatos would be vulnerable to the same criticism that he himself applies to Popper—he would be excluding some of the best science as unscientific (that is, research programmes that have suffered a degenerating phase only to stage a magnificent comeback). In response to this, Lakatos distinguished appraisal from advice, and said that the task of the philosopher of science is to issue rules of appraisal, not to advise scientists (or grant-giving agencies) about what they ought to do. The Demarcation Criterion can evaluate the current state of play but it does not tell anyone what to do about it. (To paraphrase Marx’s Thesis XI, “Methodologists hitherto have attempted to *change* the world of scientific research in various ways; the point, however is to *appraise* it”.) The MSRP does enjoin a principle of scientific honesty, namely that the adherents of degenerating research programmes should own up to their methodological shortcomings, such as the lack of novel predictions or the falsification of the predictions that they have made. However, so long as they admit to these failures they can (rationally?) persist in their degenerate ways.
     step1: |-
-
+      但拉卡托什呢？费耶阿本德摆出一个两难。假定我们以保守或严格主义的精神适用拉卡托什的科学研究纲领方法论。科学家被敦促放弃退化的研究纲领、转投进步的纲领；拨款机构被敦促给后者断供。毕竟，这些纲领已被划界标准判为*坏*科学甚至*非*科学！退一步说，退化研究纲领的信奉者至少必须背负非理性的污名，承认自己的科学之罪。但在这种情况下，拉卡托什的 MSRP 会把一些本可能恢复其进步（因而科学）地位的研究纲领作为坏科学甚至非科学判了死刑。如此一来，拉卡托什将暴露于他自己加诸波普尔的同一批评——他会把一些最好的科学排除为不科学（即那些经历了退化阶段却华丽卷土重来的研究纲领）。作为回应，拉卡托什区分了评价与建议，说科学哲学家的任务是发布评价规则，而不是建议科学家（或拨款机构）应当做什么。划界标准可以评估当前的局势，但它不告诉任何人拿它怎么办。（化用马克思《关于费尔巴哈的提纲》第十一条：“方法论家们只是用不同的方式*改变*科学研究的世界；而问题在于*评价*它”。）MSRP 的确规定了一条科学诚实原则，即退化研究纲领的信奉者应当承认其方法论缺陷，例如缺乏新预言或其所做预言被证伪。不过，只要他们承认这些失败，他们就可以（理性地？）坚持其退化的做法。
     step2: |-
-
+      那拉卡托什呢？费耶阿本德摆出一个两难。假定我们以保守或严格主义的精神适用拉卡托什的科学研究纲领方法论：科学家被敦促放弃退化的研究纲领、转投进步的纲领；拨款机构被敦促给前者断供。毕竟，这些纲领已被划界标准判为*坏*科学甚至*非*科学！退一万步，退化研究纲领的信徒至少得背上非理性的污名、承认自己的科学之罪。可这样一来，拉卡托什的 MSRP 就把一些本可能恢复其进步（因而科学）地位的研究纲领，当作坏科学甚至非科学判了死刑。于是拉卡托什将暴露在好的一面——他自己加诸波普尔的同一批评之下：他会把一些最好的科学排除为不科学（即那些经历退化阶段却华丽翻盘的研究纲领）。对此，拉卡托什的回应是区分评价与建议：科学哲学家的任务是颁布评价规则，不是去建议科学家（或拨款机构）该做什么。划界标准能评估局势，却不告诉任何人拿局势怎么办。（化用马克思《关于费尔巴哈的提纲》第十一条：“方法论家们只是用不同的方式*改变*科学研究的世界；而问题在于*评价*它”。）MSRP 确实规定了一条科学诚实原则：退化研究纲领的信徒应当承认自己的方法论缺陷——比如缺乏新预言，或已作预言被证伪。不过，只要承认了这些失败，他们就可以（理性地？）继续其退化的老路。
   - id: 193
     kind: body
     source: |-
       But in that case Lakatos is gored by the other horn of Feyerabend’s dilemma. For Feyerabend argues that a Demarcation Criterion that cannot tell anyone what to do or not to do is scarcely distinguishable from “Anything goes”. To revert to Feyerabend’s political analogy, what is the difference between an anarchist society and a “state” where the “police” can *appraise* people for their “criminal” or “law-abiding” behaviour but can never make an arrest or send anyone to jail? That’s a “state” which isn’t a state and a “police force” which isn’t a police force! We have not scientific law-and-order but anarchy, accompanied by uplifting sermons and benedictions posthumously bestowed on the mighty scientific dead.
     step1: |-
-
+      但在那种情况下，拉卡托什被费耶阿本德两难的另一只角刺穿。因为费耶阿本德论证：一个不能告诉任何人做什么或不做什么的划界标准，与“怎么都行”几乎无法区分。回到费耶阿本德的政治类比：一个无政府社会与一个“国家”有什么区别——这个“国家”的“警察”可以*评价*人们的“犯罪”或“守法”行为，却永远不能逮捕任何人或把任何人送进监狱？那是一个不是国家的“国家”，一支不是警察力量的“警察力量”！我们没有科学的法度与秩序，只有无政府，外加振奋人心的布道与死后追授给伟大科学亡灵的祝福。
     step2: |-
-
+      可如此一来，拉卡托什就被费耶阿本德两难的另一只角挑穿了：费耶阿本德论证，一个不能告诉任何人做这做那的划界标准，与“怎么都行”几乎无从区分。回到费耶阿本德的政治类比：一个无政府社会，与一个“国家”有何区别——这个“国家”的“警察”可以*评价*人们的“犯罪”或“守法”行为，却永远无权抓人、无权把谁送进监狱？那是一个不是国家的“国家”、一支不是警察的“警察力量”！我们没有科学的法度与秩序，只有无政府——外加振奋人心的布道，和死后追授给伟大科学亡灵的祝福。
   - id: 194
     kind: body
     source: |-
       What was Lakatos’s response to this dilemma? It is sometimes suggested, not least by Feyerabend himself, that Lakatos did have, or would have had, an answer but that he did not live to write it up. Their correspondence suggests otherwise. Although the *locus classicus* of Feyerabend’s argument is chapter 16 of *Against Method* (1975b) he had already developed his dilemma in “Consolations for the Specialist” (1968) and Lakatos had access to successive versions of the argument in the successive drafts that Feyerabend sent him in the last is six years of his life. Yet there is no trace of a counterargument in Lakatos’s surviving letters to Feyerabend. Instead there are a series of fearsome threats.
     step1: |-
-
+      拉卡托什对这个两难作了什么回应？有时有人提出——费耶阿本德本人首当其冲——拉卡托什确实有、或本会有一个答案，但他没能活到写出来。他们的通信表明情况并非如此。尽管费耶阿本德论证的*经典出处*是《反对方法》（1975b）第十六章，他已在“给专家们的安慰”（1968）中发展了他的两难，而在他生命最后六年里寄给拉卡托什的相继草稿中，拉卡托什也接触到了这一论证的各个版本。然而，在拉卡托什存世的致费耶阿本德书信中，没有反论证的痕迹。只有一连串可怕的威胁。
     step2: |-
-
+      拉卡托什对这个两难作过什么回应？有时有人说——费耶阿本德本人首当其冲——拉卡托什确有、或本会有一个答案，只是没来得及写出来。两人的通信却表明并非如此：费耶阿本德论证的*经典出处*虽是《反对方法》（1975b）第十六章，但他在“给专家们的安慰”（1968）里已发展出这个两难；在其生命最后六年陆续寄给拉卡托什的各版草稿中，这一论证的各个版本拉卡托什也都过目了。然而，拉卡托什存世的致费耶阿本德书信里，找不到反论证的踪迹——只有一连串可怕的威胁。
   - id: 195
     kind: body
     source: |-
       > I am now greatly grateful for your depicting me as *God* and yourself as the *Devil*. I also return the compliment: for me you are the only philosopher worth demolishing. But there is *one* trouble: I *can* take you to such little pieces that only an electromicroscope can discover you again. Will you be very hurt? (F&AM: 268–9.)
     step1: |-
-
+      > 我现在非常感激你把我描绘为*上帝*、把你自己描绘为*魔鬼*。我也回敬这份恭维：对我而言，你是唯一值得摧毁的哲学家。但*有*一个麻烦：我*可以*把你打得如此粉碎，以致只有电子显微镜才能重新发现你。你会很受伤吗？（F&AM: 268–9.）
     step2: |-
-
+      > 我如今非常感激你把我描绘成*上帝*、把你自己描绘成*魔鬼*。这份恭维我回敬给你：在我这里，你是唯一值得摧毁的哲学家。不过*有*一个麻烦：我*可以*把你打得粉碎，粉碎到只有电子显微镜才能把你重新找出来。你会很受伤吗？（F&AM: 268–9.）
   - id: 196
     kind: body
     source: |-
       However, aside from these threats, a developed answer to Feyerabend’s dilemma is conspicuous by its absence. One is reminded of King Lear:
     step1: |-
-
+      然而，除这些威胁之外，一个针对费耶阿本德两难的成熟回答显然缺席。这令人想起李尔王：
     step2: |-
-
+      然而，除了这些威胁，一个针对费耶阿本德两难的成熟回答显然缺席。这令人想起李尔王：
   - id: 197
     kind: body
     source: |-
       > I will do such things,— What they are, yet I know not: but they shall be The terrors of the earth.
     step1: |-
-
+      > 我要做些事情——做什么我还不知道：但它们将成为人间的恐怖。
     step2: |-
-
+      > 我要做些事情——做什么，我还不知道：但它们将成为人间的恐怖。
   - id: 198
     kind: body
     source: |-
       The upshot is that if there is a Lakatosian answer to Feyerabend’s dilemma, it is an answer that has to be concocted on his behalf. One of us has a go in Musgrave 1976, but for the Methodology of Scientific Research Programmes, it is still, very much, an open problem.
     step1: |-
-
+      结果就是：如果存在对费耶阿本德两难的拉卡托什式回答，那也是一个必须替他 代拟的回答。我们中有人在 Musgrave 1976 里试了一手，但对科学研究纲领方法论而言，这仍然是一个非常开放的问题。
     step2: |-
-
+      结论是：倘若真有对费耶阿本德两难的拉卡托什式回答，那也只能是替他代拟的回答。我们中有人在 Musgrave 1976 里试过一手；但对科学研究纲领方法论而言，这仍是一个非常开放的问题。
   - id: 199
     kind: oir
     source: |-
       - [Lakatos](http://www.lse.ac.uk/philosophy/lakatos/), webpages on Lakatos at the London School of Economics.
       - [From Budapest: the story of Imre Lakatos](http://www.abc.net.au/radionational/programs/philosopherszone/from-budapest-the-story-of-imre-lakatos/3342222), at the Philosopher’s Zone.
     step1: |-
-
+      - [拉卡托什](http://www.lse.ac.uk/philosophy/lakatos/)，伦敦政治经济学院的拉卡托什网页。
+      - [来自布达佩斯：伊姆雷·拉卡托什的故事](http://www.abc.net.au/radionational/programs/philosopherszone/from-budapest-the-story-of-imre-lakatos/3342222)，载于 Philosopher's Zone。
     step2: |-
-
+      - [拉卡托什](http://www.lse.ac.uk/philosophy/lakatos/)，伦敦政治经济学院的拉卡托什网页。
+      - [来自布达佩斯：伊姆雷·拉卡托什的故事](http://www.abc.net.au/radionational/programs/philosopherszone/from-budapest-the-story-of-imre-lakatos/3342222)，载于 Philosopher's Zone（哲学家地带）节目。
