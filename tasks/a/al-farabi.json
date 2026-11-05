@@ -2,7 +2,7 @@
   "slug": "al-farabi",
   "kind": "retranslate",
   "zh_doc": "a/al-farabi.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-03T16:47:39Z",
       "evidence": "check_style 0 issue（阿拉伯转写 Ihsāʾ al-ʿulūm 用 Unicode 修饰字母替代引号字符；法文撇号 lʼauthenticité 同理）；check_math 0；check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T20:17:12Z",
+      "evidence": "独立初审（接管会话，非初译 actor）：yuanwen 全文回读对照，39 段逐段核验无漏译/错译。组装缺陷实修 2：pubinfo 行重复、References 说明行重复（各删一行）。忠实性/体例实修 12 处——translated into Italian 误读'意译'→译成意大利文、the Syriac organon 叙利亚器官论→叙利亚文《工具论》、logic proper 恰当逻辑→狭义逻辑、still 粘连笔误合理化、非 authentic 中英混杂→伪作、政治 writings→政治著作×4、法拉把漏字→法拉比、完善城→美德城统一书名形、人众性→更通俗的、投以新光→提出新见。结构守恒（撇号归一化）：段落 39:39、年份 112:112 序列一致、marker 4:4 顺序一致、defs 104:104。六检硬错误零；prose 28 豁免为主（书目综述句式 de-chain 14/长句 11）。"
     }
   ],
   "blockers": [],
