@@ -2,7 +2,7 @@
   "slug": "molyneux-problem",
   "kind": "retranslate",
   "zh_doc": "m/molyneux-problem.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,34 @@
       "actor": "LQ-main-20261105",
       "at": "2026-11-05T19:13:21Z",
       "evidence": "s3 三校（Terminology/Locale Convention）：style --strict 0 issue；academic --strict 0 硬错误；math 0 missing 0 unbalanced；summary 0 硬错误；prose 0；守恒 HARD=0（36 段）；脚注键闭环（正文 [^key] 27 处引用↔定义区 53 条现制照录）；markdownlint 随 CI；引号弯引号/中西文空格/禁 HTML 全过"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:19:33Z",
+      "evidence": "r1 初审（对照源自审，冷置后回读——冷置任务=check_all 七项全绿+PROGRESS 刷新+logic-provability 收口让渡观察）：成稿全文通读对照源复核。2 处实修：①段33 s2 补丁残留双标点'，。'（'…[^glenney-2024]，。人们还'→'。人们还'）②段35 '这一问'→'这个问题'（句子流畅性，r1 范畴）。其余核验：H1=SUMMARY 登记形、版本事实行与 baseline 一致（2005-06-30/2026-01-08）、两段历史书信引块逐句对照源忠实、结构完整（导语+5 节+References（引用注释）53 条+学术工具四行+OIR 1+相关词条 12+译注）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:19:33Z",
+      "evidence": "r2 复审（逐句回核源↔译）：①人名/年代全点检——莫利纽克斯 1656–1698、切塞尔登 1688–1752、惠斯通 1838、缪勒 1826、穆勒 1842、贝克莱 1709/1733、霍姆 1807、Franz 1841、Ramsay 1903、Meltzoff 1979、Streri 2012、Versace 2024、Held 2011 等 40+ 处全部与源一致；②页码/卷号点检——Essay II.ix.8:146、Berkeley 1709 Section 41、Cheselden 1728, 448、Abbott 1904, 546/549/550、Bailey 1842, 100–1、Held et al. 552 逐一对源核验；③数字点检——五名受试者/三人成功/10 岁男孩/30 岁男子/20 或 1000 英尺/12 项相关词条逐一核对；④脚注键闭环机检（check_academic 0 孤儿：正文 27 键↔定义 53 条）；⑤文献照录忠实性——mill-1842 源文'reprinted reprinted'重复笔误照录未改（照录不译纪律）、deroy-2013/ferretti-2024/matthen-2020 在线链接 [ [..] ] 形态照录；⑥逻辑核——'否/是'答立场归属（贝克莱否/莱布尼茨是/穆勒深度习得）与源一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:20:46Z",
+      "evidence": "r3 终审（冷置后回读+验收）：r1 两处实修落稿终验（双标点 0/这个问题）；check_all 七项全绿（SUMMARY 结构/分类目录/单体文件/垃圾产物/术语一致性/学术规范/管线单测）；六检终态：style 0/prose 0/守恒 HARD=0/academic 0/math 0/summary 0；markdownlint 随 CI；结论不超证据——结论节'最富生产力的思想实验之一'措辞对源'most fertile thought-experiments'忠实。验收签字：LQ-main-20261105"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T19:20:47Z",
+      "evidence": "done：六道全过，molyneux-problem 为 m 批首件收口件（m 批 done=1/139）"
     }
   ],
   "blockers": [],

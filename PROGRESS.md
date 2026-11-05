@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 19:14（UTC）
+生成时间：2026-11-05 19:20（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1000|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|87|
-|在途（drafted 起、done 前）|281|
+|已完成（done）|88|
+|在途（drafted 起、done 前）|280|
 |阻塞|0|
 
 ## 任务状态分布
@@ -26,10 +26,10 @@
 |cleared|179|
 |drafted|2|
 |s1_checked|2|
-|s3_checked|93|
-|r1_reviewed|4|
-|r2_reviewed|1|
-|done|87|
+|s3_checked|92|
+|r1_reviewed|2|
+|r2_reviewed|3|
+|done|88|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -47,7 +47,7 @@
 |J|38|38|38|4|
 |K|36|36|36|10|
 |L|144|144|19|1|
-|M|139|139|10|0|
+|M|139|139|10|1|
 |N|50|50|2|0|
 |O|21|21|1|0|
 |P|165|165|4|0|
@@ -182,7 +182,7 @@
 |cudworth|retranslate|s3_checked|主代理 2026-11-01|
 |davidson|retranslate|cleared|task_ops 2026-11-01|
 |delmedigo|retranslate|r2_reviewed|ABCDE-takeover-20261106 2026-11-05|
-|democritus|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
+|democritus|retranslate|r2_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |descartes-ethics|retranslate|s3_checked|? 2026-11-04|
 |descartes-ideas|retranslate|s3_checked|? 2026-11-04|
@@ -194,7 +194,7 @@
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|duhem|retranslate|r1_reviewed|LQ-main-20261106 2026-11-05|
+|duhem|retranslate|r2_reviewed|LQ-main-20261106 2026-11-05|
 |economic-democracy|retranslate|s3_checked|? 2026-11-04|
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |elias|retranslate|s3_checked|main 2026-11-01|
@@ -345,5 +345,4 @@
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|molyneux-problem|retranslate|s3_checked|LQ-main-20261105 2026-11-05|
 |redistribution|retranslate|s1_checked|RZ-main-20261104 2026-11-05|
