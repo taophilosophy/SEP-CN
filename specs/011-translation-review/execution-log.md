@@ -164,3 +164,8 @@
 
 * 深读累计 **39 条全 pass**（+causation-medieval 实修 L59 交叉星、certainty、children——C 批推进 3 条）。
 * 门禁 7/7 全绿保持。下一接力：conceptual-art 起（c/conceptual-art 310 行，f-k 已完成收口，深读按清单滚动）。
+
+## 2026-11-06 深读滚动续十一
+
+* 深读累计 **43 条全 pass**（+conceptual-art、condemnation、confucius——C 批推进 6 条）。
+* 门禁 7/7 全绿保持。下一接力：conway 起 C 批续，然后 crathorn/creation-conservation/croce-aesthetics → d 批。
