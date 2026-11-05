@@ -1,0 +1,29 @@
+{
+  "slug": "molyneux-problem",
+  "kind": "retranslate",
+  "zh_doc": "m/molyneux-problem.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-06T02:40:00Z",
+      "evidence": "方向声明（rules/08）：m 批第 1 件 molyneux-problem（莫利纽克斯问题，33.6KB 源，m 批最小件）。目标：六道全过收口，六道验收判据同战役标准（守恒 HARD=0、四检 0 硬错误、check_academic --strict 0、CI 全绿）；工具链 lq.py 流水线（init→双版直译→check→compose→italic_to_bold→四检）+ §6.5 沉淀要点。非目标：不改英文源、不补内容、不造引文、不动他会 active 的 l 批 logic-provability（后继会话 02:32 刚登记 r1，无耦合）；人名术语先登记后使用。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-05T18:39:06Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-05T18:38:44Z",
+  "version_pin": {
+    "pubinfo_date": "Jan 8, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "fca86a12704f01961be0424e8d1574353e1af2e17978c878debea1715e4d3d04"
+  }
+}

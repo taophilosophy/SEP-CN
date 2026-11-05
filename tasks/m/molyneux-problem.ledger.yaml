@@ -1,0 +1,331 @@
+version: 1
+slug: molyneux-problem
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Molyneux’s problem asks whether a person born blind, capable of distinguishing a sphere and a cube by touch, could, if their vision were restored, recognize these shapes by sight alone.
+    step1: |-
+      莫利纽克斯问题问的是：一个先天失明、能够凭触觉区分球体与立方体的人，若其视力得到恢复，能否仅凭视觉认出这些形状。
+    step2: |-
+      莫利纽克斯问题问道：一个先天失明、能凭触觉区分球体与立方体的人，倘若视力得以恢复，能否单凭视觉认出这些形状。
+  - id: 2
+    kind: body
+    source: |-
+      This problem, posed by the Irish scientist and politician William Molyneux (1656–1698) to John Locke, who published it in his *An Essay Concerning Human Understanding* (1694), has engaged philosophers and scientists from the Enlightenment to the present day. Its study has deepened our understanding of how ideas are acquired, how they transfer between different senses, and how such processes ultimately contribute to the formation of knowledge.
+    step1: |-
+      这一问题由爱尔兰科学家兼政治家威廉·莫利纽克斯（William Molyneux，1656–1698）向约翰·洛克（John Locke）提出，洛克在其《人类理解论》（*An Essay Concerning Human Understanding*，1694）中将其发表。从启蒙时代至今，它一直吸引着哲学家与科学家。对它的研究深化了我们关于观念如何获得、如何在诸感官之间传递、以及这些过程最终如何促成知识之形成的理解。
+    step2: |-
+      这一问题由爱尔兰科学家兼政治家威廉·莫利纽克斯（William Molyneux，1656–1698）向约翰·洛克（John Locke）提出，洛克在《人类理解论》（*An Essay Concerning Human Understanding*，1694）中将其刊布。自启蒙时代至今，它始终吸引着哲学家与科学家。对它的研究深化了我们对于观念如何获得、如何在诸感官之间迁移、以及这些过程最终如何促成知识之形成的理解。
+  - id: 3
+    kind: body
+    source: |-
+      ## 1. Molyneux’s Formulation of the Problem
+    step1: |-
+      ## 1 莫利纽克斯对问题的表述
+    step2: |-
+      ## 1 莫利纽克斯对问题的表述
+  - id: 4
+    kind: body
+    source: |-
+      Molyneux’s *Dioptrica Nova* (1692), a work on optics and psychology of sight, reflected the general fascination with optics of his time. Molyneux’s interest was also personal as his wife lost her sight in the first year of their marriage (Simms 1982)[^simms-1982]. The direct influence for formulating what would become “Molyneux’s problem” was a French “extract” of Locke’s *An Essay Concerning Humane Understanding*, published in 1688 in the *Bibliothèque Universelle & Historique*. In this extract, Locke distinguishes between ideas we acquire by one sense, such as colour and texture, and those we acquire by a combination of senses, such as space, figure, movement, and rest. Locke further claims that a person deprived of a particular sense will lack the ideas belonging to it: a blind person, for example, can have no idea of colour. Molyneux extended this reasoning by asking whether a person born blind would be deprived of a visual idea of shape if they already know shape by touch alone. A devoted admirer of Locke, Molyneux dedicated *Dioptrica Nova* to him before his problem’s inclusion in Locke’s *Essay*, securing its legacy in the empiricist tradition.
+    step1: |-
+      莫利纽克斯的《新屈光学》（*Dioptrica Nova*，1692）是一部关于光学与视觉心理学的著作，折射出他那一代人对光学的普遍痴迷。他的兴趣也有个人缘由：婚后第一年妻子失明（Simms 1982）[^simms-1982]。促成他提出日后所谓“莫利纽克斯问题”的直接契机，是洛克《人类理解论》的一个法文“摘录”，1688 年发表于《万有与历史文库》（*Bibliothèque Universelle & Historique*）。在这篇摘录中，洛克区分了由单一感官获得的观念（如颜色与质地）与由诸感官组合获得的观念（如空间、形状、运动与静止）。洛克进而主张：被剥夺某一特定感官的人会缺乏属于该感官的观念——例如盲人不可能有颜色的观念。莫利纽克斯将这一推理向前推进一步：如果一个人先天失明，但已单凭触觉知道形状，他是否仍会缺乏形状的视觉观念？作为洛克的忠实仰慕者，莫利纽克斯在其问题被收入洛克的《人类理解论》之前，便已将《新屈光学》题献给他，从而确保了这一问题在经验主义传统中的传承。
+    step2: |-
+      莫利纽克斯的《新屈光学》（*Dioptrica Nova*，1692）是一部讨论光学与视觉心理学的著作，折射出他那一代人对光学的普遍痴迷。他的兴趣亦有个人缘由：婚后第一年妻子失明（Simms 1982）[^simms-1982]。促成他提出日后所谓“莫利纽克斯问题”的直接契机，是洛克《人类理解论》的一篇法文“摘录”，1688 年刊于《万有与历史文库》（*Bibliothèque Universelle & Historique*）。在这篇摘录中，洛克区分了由单一感官获得的观念（如颜色与质地）与由诸感官协同获得的观念（如空间、形状、运动与静止）。洛克进而主张：被剥夺某一特定感官的人将缺乏属于该感官的观念——例如盲人不可能有颜色的观念。莫利纽克斯把这一推理再推进一步：一个先天失明的人，若已单凭触觉知道形状，是否仍会缺乏形状的视觉观念？作为洛克的忠实仰慕者，莫利纽克斯在其问题被收入洛克的《人类理解论》之前，便已将《新屈光学》题献给他，为这一问题在经验主义传统中的传承奠定了根基。
+  - id: 5
+    kind: body
+    source: |-
+      On Saturday 7 July 1688 William Molyneux sent a letter to Locke setting out for the first time his problem concerning the person born blind:
+    step1: |-
+      1688 年 7 月 7 日星期六，威廉·莫利纽克斯致信洛克，首次提出他关于先天失明者的问题：
+    step2: |-
+      1688 年 7 月 7 日星期六，威廉·莫利纽克斯致信洛克，首次提出他关于先天失明者的问题：
+  - id: 6
+    kind: body
+    source: |-
+      > Dublin July. 7. 88
+      >
+      > A Problem Proposed to the Author of the *Essai Philosophique concernant L’Entendement*
+      >
+      > A Man, being born blind, and having a Globe and a Cube, nigh of the same bignes, Committed into his Hands, and being taught or Told, which is Called the Globe, and which the Cube, so as easily to distinguish them by his Touch or Feeling; Then both being taken from Him, and Laid on a Table, Let us Suppose his Sight Restored to Him; Whether he Could, by his Sight, and before he touch them, know which is the Globe and which the Cube? Or Whether he Could know by his Sight, before he stretch’d out his Hand, whether he Could not Reach them, tho they were Removed 20 or 1000 feet from Him?
+      >
+      > If the Learned and Ingenious Author of the Forementiond Treatise think this Problem Worth his Consideration and Answer, He may at any time Direct it to One that Much Esteems him, and is,
+      >
+      > His Humble Servant
+      >
+      > William Molyneux
+      >
+      > High Ormonds Gate in Dublin. Ireland
+    step1: |-
+      > 都柏林，1688 年 7 月 7 日
+      >
+      > 谨向《人类理解论》（*Essai Philosophique concernant L’Entendement*）作者提出的一个问题
+      >
+      > 有一人生而失明，手中持一球体与一立方体，二者大小相近；经人教导或告知，何者称为球、何者称为立方，故能凭触觉或摸感轻易分辨二者。今设将二者自其手中取走，置于桌上；再假定其视力得复。试问：他能否在触到二者之前，凭视觉认出何者为球、何者为立方？又能否在伸手之前，凭视觉看出它们够不够得着——即便二者已被移远 20 或 1000 英尺？
+      >
+      > 若上述论著之博学而颖异的作者认为此题值得费神一顾并予作答，可随时赐示于一位对他极为敬重的人，即
+      >
+      > 卑贱的仆人
+      >
+      > 威廉·莫利纽克斯
+      >
+      > 爱尔兰都柏林高奥蒙德门
+    step2: |-
+      > 都柏林，1688 年 7 月 7 日
+      >
+      > 谨呈《人类理解论》（*Essai Philosophique concernant L’Entendement*）作者的一个问题
+      >
+      > 有一人生而失明，手中持一球与一立方体，大小相近；经人教导或告知，何者称为球、何者称为立方，故能凭触觉轻易分辨二者。今设将二者自其手中取走，置于桌上；再假定其视力得复。试问：他能否在触到二者之前，凭视觉辨出何者为球、何者为立方？又能否在伸手之前，凭视觉看出它们是否够得着——即便二者已被移远 20 或 1000 英尺？
+      >
+      > 若上述论著之博学而颖异的作者认为此题值得费神作答，可随时赐示于一位对他极为敬重的人，即
+      >
+      > 卑贱的仆人
+      >
+      > 威廉·莫利纽克斯
+      >
+      > 爱尔兰都柏林高奥蒙德门
+  - id: 7
+    kind: body
+    source: |-
+      For reasons unknown Locke never replied to this letter. After a few years of amicable correspondence Molyneux presented Locke with a simplified version of his problem in a letter, dated 2 March 1693, asking Locke to perhaps find some place in his Essay to say something about it. This time Locke reacted with enthusiasm: “Your ingenious problem will deserve to be published to the world.” Locke quoted the letter almost verbatim in the second edition of his *Essay* (1694), in Book 2, Chapter 9, Section 8: “Sensations often changed by the judgment.” as follows:
+    step1: |-
+      出于无从知晓的原因，洛克从未回复此信。经过数年友善的通信，莫利纽克斯在 1693 年 3 月 2 日的一封信中向洛克呈上问题的简化版，请洛克或许能在《人类理解论》中找一处地方谈谈它。这一次洛克反应热烈：“你那巧妙的问题值得公之于世。”洛克在《人类理解论》第二版（1694）第二卷第九章第 8 节“感觉常因判断而改变”（“Sensations often changed by the judgment.”）中几乎逐字引用了这封信，如下：
+    step2: |-
+      出于无从知晓的原因，洛克始终未复此信。数年友善通信之后，莫利纽克斯在 1693 年 3 月 2 日的一封信里向洛克呈上问题的简化版，请他或许能在《人类理解论》中觅一席之地谈谈此题。这一次洛克反响热烈：“你那巧妙的问题值得公之于世。”洛克在《人类理解论》第二版（1694）第二卷第九章第 8 节“感觉常因判断而改变”中几乎逐字引用了这封信，如下：
+  - id: 8
+    kind: body
+    source: |-
+      > Suppose a Man born blind, and now adult, and taught by his touch to distinguish between a Cube, and a Sphere of the same metal, and nighly of the same bigness, so as to tell, when he felt one and t’other; which is the Cube, which the Sphere. Suppose then the Cube and Sphere placed on a Table, and the Blind Man to be made to see. Quaere, Whether by his sight, before he touch’d them, he could now distinguish, and tell, which is the Globe, which the Cube.
+    step1: |-
+      > 设有一人生而失明，今已成年，经触觉教导，能分辨同一金属所制、大小相近的一个立方体与一个球体，故当其摸及其一时，能说出何者为立方、何者为球。今再设将此立方体与球体置于桌上，而令此盲人得见。试问：在触到二者之前，他能否凭视觉分辨并说出何者为球、何者为立方？
+    step2: |-
+      > 设有一人生而失明，今已成年，经触觉教导，能分辨同一金属所制、大小相近的一个立方体与一个球体，故当其摸及其中之一时，能说出何者为立方、何者为球。今再设将此立方体与球体置于桌上，而令此盲人得见。试问：在触到二者之前，他能否凭视觉分辨并说出何者为球、何者为立方？
+  - id: 9
+    kind: body
+    source: |-
+      Locke also quoted Molyneux’s own “no” answer:
+    step1: |-
+      洛克还引用了莫利纽克斯本人对问题的“否”答：
+    step2: |-
+      洛克还引用了莫利纽克斯本人对问题的“否”答：
+  - id: 10
+    kind: body
+    source: |-
+      > “Not. For though he has obtain’d the experience of, how a Globe, how a Cube affects his touch; yet he has not yet attained the Experience, that what affects his touch so or so, must affect his sight so or so; Or that a protuberant angle in the Cube, that pressed his hand unequally, shall appear to his eye, as it does in the Cube.”
+    step1: |-
+      > “不能。因为尽管他已获得球体、立方体各自如何作用于其触觉的经验，却尚未获得这样的经验：如此这般作用于其触觉者，必也如此这般作用于其视觉；也不知晓立方体上那个不均匀压迫其手的外凸棱角，在其眼中会呈现为立方体中所见的那般样子。”
+    step2: |-
+      > “不能。因为尽管他已获得球与立方体各自如何作用于其触觉的经验，却尚未获得这样的经验：如此这般作用于其触觉者，必也如此这般作用于其视觉；更不知晓立方体上那不均匀压迫其手的外凸棱角，在其眼中会呈现为立方体中所见的那般模样。”
+  - id: 11
+    kind: body
+    source: |-
+      Locke also added his admiration and agreement with Molyneux, as well as an amendment:
+    step1: |-
+      洛克还表达了对莫利纽克斯的赞赏与赞同，并附加了一处修正：
+    step2: |-
+      洛克还表达了对莫利纽克斯的赞赏与赞同，并附加了一处修正：
+  - id: 12
+    kind: body
+    source: |-
+      > I agree with this thinking Gent. whom I am proud to call my Friend, in his answer to this his problem; and am of opinion, that the Blind Man, at first sight, would not be able with certainty to say, which was the Globe, which the Cube, whilst he only saw them: though he could unerringly name them by his touch, and certainly distinguish them by the difference of their Figures felt. This I have set down, and leave with my reader, as an occasion for him to consider how much he may be beholden to experience, improvement, and acquired notions, where he thinks he had not the least use of, or help from them. (*Essay* II. ix. 8: 146)
+    step1: |-
+      > 我赞同这位思想者——我自豪地称他为我的朋友——对其自设之题的回答；并且认为，此盲人初见之际，若仅凭视觉，必不能确然说出何者为球、何者为立方，尽管他能无误地凭触觉道出二者之名，并能凭所感形状之别确然分辨之。我将此题记下，留与读者，使其得以思量：在他自认为丝毫未曾借助或受益于经验、磨砺与习得观念之处，他究竟受惠几何。（*Essay* II. ix. 8: 146）
+    step2: |-
+      > 我赞同这位思想者——我自豪地称他为我的朋友——对其自设之题的回答；并且认为，此盲人初见之际，若仅凭视觉，必不能确然说出何者为球、何者为立方，尽管他能凭触觉无误地道出二者之名，并能凭所感形状之别确然分辨之。我将此题记下，留与读者，使其得以思量：在他自认为丝毫未曾借助或受益于经验、磨砺与习得观念之处，他究竟受惠几何。（*Essay* II. ix. 8: 146）
+  - id: 13
+    kind: body
+    source: |-
+      Molyneux’s problem was the fundamental question of the 18th Century for epistemology and psychology (Cassirer 1955)[^cassirer-1955] and captured the attention of many philosophers and men of learning throughout history, including Berkeley, Leibniz, Voltaire, Diderot, La Mettrie, Helmholtz, and William James.
+    step1: |-
+      莫利纽克斯问题是 18 世纪认识论与心理学的根本问题（Cassirer 1955）[^cassirer-1955]，历史上吸引了众多哲学家与学者，包括贝克莱（Berkeley）、莱布尼茨（Leibniz）、伏尔泰（Voltaire）、狄德罗（Diderot）、拉美特利（La Mettrie）、亥姆霍兹（Helmholtz）与威廉·詹姆斯（William James）。
+    step2: |-
+      莫利纽克斯问题是 18 世纪认识论与心理学的根本问题（Cassirer 1955）[^cassirer-1955]，历来吸引众多哲学家与学者——贝克莱（Berkeley）、莱布尼茨（Leibniz）、伏尔泰（Voltaire）、狄德罗（Diderot）、拉美特利（La Mettrie）、亥姆霍兹（Helmholtz）与威廉·詹姆斯（William James）皆在其中。
+  - id: 14
+    kind: body
+    source: |-
+      ## 2. First Philosophical Discussions and Experimental Data
+    step1: |-
+      ## 2 最早的哲学讨论与实验数据
+    step2: |-
+      ## 2 最早的哲学讨论与实验数据
+  - id: 15
+    kind: body
+    source: |-
+      Philosophers initially regarded Molyneux’s problem as a kind of thought experiment to be dealt with by reflection and conceptual analysis. Berkeley (1709) offered a more radical “no” answer than his fellow empiricists, Molyneux and Locke, arguing that the ideas of sight and touch bore no similarity at all. By contrast, those of a more rationalist persuasion, such as Synge (1693), Lee (1702), Leibniz (1704), and Hutcheson (1727) answered “yes,” maintaining that similarities between sight and touch could either be reasoned out or were innately linked. Leibniz’s own yes answer resisted Locke’s “at first sight” amendment, contending that time should be allowed for full recovery of sight, a point that would later prove crucial in later experimental tests of Molyneux’s problem.
+    step1: |-
+      哲学家起初把莫利纽克斯问题当作一种可借反思与概念分析来处理的思想实验。贝克莱（Berkeley，1709）给出了比其经验主义同道莫利纽克斯与洛克更激进的“否”答：视觉与触觉的观念毫无相似之处。相比之下，倾向理性主义的一派——Synge（1693）、Lee（1702）、莱布尼茨（1704）与哈奇森（1727）——答以“是”，主张视觉与触觉之间的相似或者可以推理得出，或者有先天联结。莱布尼茨本人的“是”答则抵制洛克“初见之际”的修正，主张应当给视力的完全恢复留出时间——这一点后来在莫利纽克斯问题的实验检验中被证明至关重要。
+    step2: |-
+      哲学家起初把莫利纽克斯问题当作一种可借反思与概念分析处理的思想实验。贝克莱（Berkeley，1709）给出了比其经验主义同道莫利纽克斯与洛克更激进的“否”答：视觉观念与触觉观念毫无相似之处。相比之下，倾向理性主义的一派——Synge（1693）、Lee（1702）、莱布尼茨（1704）与哈奇森（1727）——答以“是”，主张视觉与触觉之间的相似或者可由推理得出，或者有先天联结。莱布尼茨本人的“是”答则抵制洛克“初见之际”的修正，主张应为视力的完全恢复留出时间——这一点后来证明对莫利纽克斯问题的实验检验至关重要。
+  - id: 16
+    kind: body
+    source: |-
+      The English surgeon William Cheselden (1688–1752) was the first to publish an experimental account of “new sight” by a congenitally blind person after surgical displacement of cataracts (1728). The publication led philosophers like Berkeley to regard Molyneux’s problem as experimentally resolvable. In his somewhat anecdotal report, Cheselden observed his patient’s response “at first sight.” “When he first saw, he was so far from making any judgment of distances, that he thought all objects whatever touched his eyes (as he expressed it) as what he felt did his skin.” (Cheselden 1728, 448)[^cheselden-1728] For Berkeley (1733), this provided not only evidence for a “no” answer but also confirmation of his own conjecture that first sight would lack spatial extension, with objects seemingly “to be in his eye” (Berkeley 1709, Section 41).
+    step1: |-
+      英国外科医师威廉·切塞尔登（William Cheselden，1688–1752）最先发表了一份关于先天性盲者在白内障移位手术后获得“新视力”的实验报告（1728）。这篇报告使贝克莱等哲学家转而认为莫利纽克斯问题可以由实验解决。在其略带轶事色彩的报告中，切塞尔登观察了病人“初见之际”的反应。“他初次看见时，对距离全然无法作出判断，以至于他认为一切物体都碰到了他的眼睛（用他自己的话说），就像他感觉到的东西碰到皮肤一样。”（Cheselden 1728, 448）[^cheselden-1728] 对贝克莱（1733）而言，这不仅为“否”答提供了证据，也证实了他自己的猜想：初次视觉将缺乏空间延展，物体看起来似乎“就在他的眼睛里”（Berkeley 1709, Section 41）。
+    step2: |-
+      英国外科医师威廉·切塞尔登（William Cheselden，1688–1752）最先发表了先天性盲者在白内障手术移位后获得“新视力”的实验报告（1728）。这篇报告令贝克莱等哲学家转而认为，莫利纽克斯问题可交由实验解决。在那份略带轶事色彩的报告中，切塞尔登记录了病人“初见之际”的反应：“他初次看见时，对距离全然无从判断，以至于认为一切物体都碰到了他的眼睛（用他自己的话说），一如他感觉到的东西碰着皮肤。”（Cheselden 1728, 448）[^cheselden-1728] 对贝克莱（1733）而言，这不仅为“否”答提供了证据，也证实了他本人的猜想：初次视觉将缺乏空间延展，物体看上去仿佛“就在他的眼睛里”（Berkeley 1709, Section 41）。
+  - id: 17
+    kind: body
+    source: |-
+      By contrast, Voltaire (1738), Buffon (1749), Diderot (1749), La Mettrie (1750), Condillac (1754), and Reid (1764) thought that Cheselden’s observations were ambiguous. They argued that the newly sighted would require time to recover from surgery, or need tactile experience or geometrical knowledge to identify the shapes correctly. Rather than settling philosophical debate over Molyneux’s problem, Cheselden’s experiment intensified it, provoking renewed intrigue, speculation, and a proliferation of both conceptual analysis and experimental analogues.
+    step1: |-
+      相比之下，伏尔泰（Voltaire，1738）、布丰（Buffon，1749）、狄德罗（Diderot，1749）、拉美特利（La Mettrie，1750）、孔狄亚克（Condillac，1754）与里德（Reid，1764）认为切塞尔登的观察是有歧义的。他们主张：新近复明者需要时间从手术中恢复，或者需要触觉经验或几何知识才能正确辨认形状。切塞尔登的实验非但没有平息围绕莫利纽克斯问题的哲学争论，反而使其白热化，激起了新的兴味与猜测，并令概念分析与实验类比双双激增。
+    step2: |-
+      相比之下，伏尔泰（Voltaire，1738）、布丰（Buffon，1749）、狄德罗（Diderot，1749）、拉美特利（La Mettrie，1750）、孔狄亚克（Condillac，1754）与里德（Reid，1764）则认为，切塞尔登的观察是有歧义的。他们主张，新近复明者需要时间从手术中恢复，或需触觉经验乃至几何知识方能正确辨认形状。切塞尔登的实验非但没有了结围绕莫利纽克斯问题的哲学争论，反而令其愈演愈烈，激起新的兴味与猜测，使概念分析与实验类比双双激增。
+  - id: 18
+    kind: body
+    source: |-
+      ## 3. Empirical Approaches in the Nineteenth Century
+    step1: |-
+
+    step2: |-
+
+  - id: 19
+    kind: body
+    source: |-
+      A second wave of somewhat novel, yet anecdotal, experimental data defines the era of study of Molyneux’s problem at the turn of the nineteenth century.
+    step1: |-
+
+    step2: |-
+
+  - id: 20
+    kind: body
+    source: |-
+      New accounts of different kinds of blind subjects, most of whom could distinguish light from dark but not shapes, in a variety of different experimental conditions, suggested that, after time, some newly sighted subjects could partially distinguish and identify visual properties by sight alone. (Abbott 1864)[^abbott-1864] Sir Everard Home (1807) tested a young boy age 10, about the distances of candlelight and the sun, giving a report similar to Cheselden’s boy saying, “it appeared to touch his eyes.” (Abbott 1904, 546)[^abbott-1904] Dr. Franz (1841) performed experiments on a teenage boy newly healed from strabismus, able to see light and some colour, but no shapes or distances. Using the prescribed globe and cube, and after several days, Franz reported that his patient called out related two-dimensional versions of the shapes, a disc and “quadrangular figure.” Dr. Ramsay (1903) performed experiments on a 30-year-old man after cataract surgery. Ramsay reported that upon sight, the man identified a face: “he knew from having felt his own face…that he must be looking at a face.” (Abbott 1904, 549)[^abbott-1904] A day later, the man distinguished a ball from a brick, moving his fingers, “trying to feel them in imagination.” (Abbott 1904, 550)[^abbott-1904] While some of these reports agreed with Cheselden’s observations, others stood in marked contrast. Meaningful comparison between these cases is difficult due to significant differences in pre- and post-operative conditions. As might be expected, this diversity of experimental data expanded the range of possible solutions to Molyneux’s problem and paradigms for its testing.
+    step1: |-
+
+    step2: |-
+
+  - id: 21
+    kind: body
+    source: |-
+      Some novel paradigms considered observations of the sight of newly born animals and babies when discussing Molyneux’s problem. Adam Smith (1795), known best as an economist, was the first to report his observations of the behaviors of newly-hatched chicks, newborn foals and calves, and newborn human infants. This suggested to Smith that Berkeley’s “no” answer to Molyneux’s problem was incorrect: there is an immediate ability to visually identify objects previously known only to touch. Smith further speculated on innate connections between the senses in both newborn animals and human babies, a point subsequently mentioned by Thomas Brown (1838), Samuel Bailey (1842), and T.K. Abbott (1904). Johannes Müller’s (1826) experiments in bird vision further supported these animal observations and their speculations of innate connections between sight and touch. John Stuart Mill (1842) agreed with these views about animal vision, but argued they could not reasonably be applied to human vision.
+    step1: |-
+
+    step2: |-
+
+  - id: 22
+    kind: body
+    source: |-
+      The invention of the stereoscope by Charles Wheatstone (1838), a device which instigated binocular vision of depth from flat photographs taken from slightly different angles, suggested immediate 3D spatial experience by sight alone. Samuel Bailey (1842), for instance, concluded from this and the report from Home’s (1807) once-blind patient a “yes” to Molyneux’s problem: the newly sighted upon seeing a shape through two retinal images, “the perception of an object of three dimensions would be doubtless produced in his mind.” (Bailey 1842, 100–1)[^bailey-1842] While Bailey believed depth was an innate ability of the mind, Mill (1842) argued that it was learned, albeit quickly.
+    step1: |-
+
+    step2: |-
+
+  - id: 23
+    kind: body
+    source: |-
+      Anecdotal observations from cataract surgeries and behaviors of young animals and infants were used as evidence in the debate concerning the question of whether the perception of space is innate or acquired. Although Molyneux’s problem was frequently invoked in this debate, consensus on its proper solution remained elusive.
+    step1: |-
+
+    step2: |-
+
+  - id: 24
+    kind: body
+    source: |-
+      ## 4. Modern Approaches
+    step1: |-
+
+    step2: |-
+
+  - id: 25
+    kind: body
+    source: |-
+      Throughout much of the twentieth century, interest in Molyneux’s problem was primarily historical. Molyneux’s problem is commonly presented as such in textbooks and general histories of psychology and other cognitive sciences. Historians of philosophy analyze answers to Molyneux for a better understanding of a philosopher’s thought. For instance, many scholars argue that Locke’s wider views, like shape being a common sensible, align better with a “yes” answer: J.L. Mackie (1976) argues that Locke must mean only 2D shape is a common sensible. Other scholars question whether even 2D shape is a common sensible for Locke (Levin 2020) or they defend 3D shape as a common sensible for Locke, mitigating his “no” answer via judgment (Bruno and Mandelbaum 2010; Berchielli 2003)[^bruno-2010], simple and complex ideas (Ayers 1993)[^ayers-1993], primary qualities (Vaughan 2018)[^vaughan-2018] or several of these simultaneously (Glenney 2024; Ott 2020)[^glenney-2024][^ott-2020]. Other philosophical historians have written book-length focused histories of the problem (Glenney 2024; Riskin 2002; Morgan 1977)[^glenney-2024][^morgan-1977][^riskin-2002], with others providing more comprehensive analyses (Degenaar 1996)[^degenaar-1996].
+    step1: |-
+
+    step2: |-
+
+  - id: 26
+    kind: body
+    source: |-
+      Developments in cataract surgeries since Cheselden show that only a few cases fit Molyneux’s profile (Valvo 1971)[^valvo-1971], as the vast majority of cases are detected in infancy and treated as early as possible. One of the most discussed experiments is by Held et al. (2011), who tested five congenitally blind subjects whose vision had been restored through cataract surgery. Controls were added to show that the subjects could identify shapes by touch and sight independently, passing vision-to-vision and touch-to-touch shape matching tests. All subjects failed the touch-to-vision test, barely better than if the subjects had guessed, supporting a “no” answer to Molyneux’s problem. However, three were successful when tested after a few days of “natural real-world experience (Held et al. 552),” suggesting that such cross-modal mappings are rapidly made available, perhaps through brain plasticity or unmasking of innate pathways.
+    step1: |-
+
+    step2: |-
+
+  - id: 27
+    kind: body
+    source: |-
+      Held et al.’s experiment suggests a “no” answer to Molyneux’s problem if Locke’s “at first sight” amendment is included, though it is common to criticize the robustness of the visual experiences of these newly sighted subjects (Spence et al. 2024; Van Cleve 2014; Schwenkler 2013)[^schwenkler-2013][^spence-2024][^van-2014]. It remains an open question whether Molyneux’s original question would have also been answered “no”, which allows time and adequate visual experience but without tactile experience. The timing of the visual test remains ambiguous: should we test the subject right after surgery or allow time for restoration of visual capacities (Levin 2008)[^levin-2008]? The conditions of both versions generate a paradox: robust visual shape recognition normally requires a physically healthy visual system trained by active bodily experience, including active touch, opening the door to contamination with touch on the path to cross-modal learning. In this respect, not only are once-blind post-operative newly sighted human subjects poor candidates for robust vision, but the active tactile experiences normally associated with vision risk the purity of Molyneux’s test through the acquisition of visual knowledge of shapes by way of perceptual learning from touch (for a review, see Ferretti and Glenney 2020; Ferretti 2018; Glenney 2013; Gallagher 2005; Jacomuzzi et al. 2003)[^ferretti-2018][^ferretti-2020][^gallagher-2005][^glenney-2013][^jacomuzzi-2003]. As such, no control would provide certainty that subjects will be experientially and inferentially naïve to aspects of shape identification by sight alone. However, recent adaptations offer a potential resolution to this paradox.
+    step1: |-
+
+    step2: |-
+
+  - id: 28
+    kind: body
+    source: |-
+      Towards the end of the century, several new technologies and experimental paradigms more amenable to experimental control began to provide renewed interest in resolving Molyneux’s problem. Sensory Substitution Devices (SSDs) that present information normally handled by one modality, such as vision, to another sense, typically audition or touch, were developed in the context of mobility or reading (Morgan, 1977). SSD experiments show that subjects need some time to learn to distinguish and identify objects, with some interpreting this delay as suggestive of a “no” answer (Morgan 1977)[^morgan-1977]. Others argue that SSDs unmask innate connections between the senses as evidenced by how quickly their use is learned, suggesting a “yes” answer to Molyneux’s problem (Hillenbrand et al. 2018)[^hillenbrand-2018]. Others argue that SSDs are not a substitution but an augmentation of a sense and that to learn to use such devices is only an approximation to Molyneux’s problem (Auvray et al. 2009)[^auvray-2009].
+    step1: |-
+
+    step2: |-
+
+  - id: 29
+    kind: body
+    source: |-
+      Another variation of Molyneux’s problem was suggested by Evans (1985). He wondered whether the visual cortex of a patient with congenital blindness could be electrically stimulated in such a way that the patient experiences a pattern of light flashes (phosphenes) in the shape of a square or circle. This question has been investigated experimentally, but the results do not provide a final answer to Molyneux’s problem (Jacomuzzi et al. 2003)[^jacomuzzi-2003] However, improved non-invasive visual prostheses as well as more invasive technologies, such as electrostimulation of visual pathways, gene therapy, stem cells, or optogenetics may one day provide full visual restoration to people born blind (Ptito et al. 2021)[^ptito-2021]. However, even such conditions may fail to provide a satisfactory answer to Molyneux’s problem based on recent progress in reconceptualizing blindness and visual studies.
+    step1: |-
+
+    step2: |-
+
+  - id: 30
+    kind: body
+    source: |-
+      Blindness today is often understood as less about a loss of sight and more as abnormal development of the visual system (Fine & Park 2018). Others have reconceptualized sight as more of a learned skill: training and experience with other senses, especially touch, are needed to know where to look at an object for its identification, to appreciate that smaller appearing objects may represent distant objects, and to infer hidden sides of an object made invisible under some perspectives (Toribio 2020). Others present Molyneux’s problem from the context of vision’s ocular, physiological, and cortical processing levels, including their normal cognitive development, where if the ocular processing is restored, cortical processing may still fail (Ferretti and Glenney 2020; Ferretti 2018; Glenney 2013; Gallagher 2005)[^ferretti-2018][^ferretti-2020][^gallagher-2005][^glenney-2013].
+    step1: |-
+
+    step2: |-
+
+  - id: 31
+    kind: body
+    source: |-
+      Visual processing is also understood in the context of the Two Visual Systems Model: vision-for-recognition and vision-for-action (Goodale et al. 1995)[^goodale-1995]. Molyneux’s problem may also include a new question on action: would a newly sighted subject be able to automatically grasp an object by sight alone (Gallagher 2005)[^gallagher-2005]? Ferretti (2018) argues that due to visual impairments at the cortical level of visual processing, Molyneux subjects would display problems in both recognition and visual guidance of action that make them unprepared for a grasping test. Molyneux’s problem thus involves multiple meanings of vision, blindness, and visual restoration (Brogaard et al. 2020). Under Molyneux’s original description, a Molyneux experiment may turn out to require a scientific miracle. Alternatively, subjects who are visually naïve yet primed for vision, such as human infants and non-human animals, may yield more reliable results.
+    step1: |-
+
+    step2: |-
+
+  - id: 32
+    kind: body
+    source: |-
+      Just-born infants are both visually naïve and primed for vision, making them excellent candidates for a Molyneux experiment. This may account for why they produce results opposite to Held’s (2011) surgically recovering once-blind subjects. Several hours-old infants look to familiar shapes known previously by their feel in their mouths (Meltzoff et al. 1979)[^meltzoff-1979] or look to novel shapes previously unknown but by their feel in their right hands (Streri 2012)[^streri-2012], looking being a behavioral basis for identifying visually novel shapes by sight alone. A variety of non-human animals are similarly successful at visually identifying shapes previously known only by another sense, including ants, birds, crabs, dolphins, fish, frogs, and a variety of mammals (Glenney 2024)[^glenney-2024]. Bees and bats fly to cube shapes known previously by touch or echolocation, respectively, though all these animal subjects have had natural, real-world experiences. By contrast, Versace et al. (2024) showed that newborn chicks dark-reared with either pointy- or smooth-featured shapes identified them immediately in lit conditions by sight alone. These chick behaviors, much like the human newborns’ looking behaviors, suggest a “yes” answer to a modified “action” version of Molyneux’s problem that is freed from verbal-based identification and one-off experimental conditions of past Molyneux experiments on humans.
+    step1: |-
+
+    step2: |-
+
+  - id: 33
+    kind: body
+    source: |-
+      Many recent developments to Molyneux’s problem have focused on the different aspects of this problem (Ferretti and Glenney 2024)[^ferretti-2024][^glenney-2024], and evaluated its use as a tool for understanding a variety of related concerns, from vision and cross-modal processing to new historical analyses of philosophers to the concept of disability (Ferretti and Glenney 2020)[^ferretti-2020]. New philosophical theories gain insight from using Molyneux’s problem as a “test case”, provoking not just novel problems, but revisions that help these theories progress. In addition, new methodologies come to light that treat Molyneux’s problem as a generative muse (Matthen and Cohen, 2020) and a guide for enhancing pluralist methodologies (Glenney 2024)[^glenney-2024].
+    step1: |-
+
+    step2: |-
+
+  - id: 34
+    kind: body
+    source: |-
+      ## 5. Conclusion
+    step1: |-
+
+    step2: |-
+
+  - id: 35
+    kind: body
+    source: |-
+      The history surrounding Molyneux’s problem belies a complexity that Molyneux himself could not have anticipated. In fact, there is no problem in the history of the philosophy of perception that has provoked more reflection, refinement, and experimentation than the problem that Molyneux posed over three centuries ago. In this respect, Molyneux’s problem stands as one of the most fertile thought-experiments in the history of philosophy, all the more provocative and conceptually rich as related disciplines advance in their understanding of the mind, brain, and the senses.
+    step1: |-
+
+    step2: |-
+
+  - id: 36
+    kind: oir
+    source: |-
+      - [Molyneux’s Question](http://www.iep.utm.edu/molyneux), entry in the *Internet Encyclopedia of Philosophy*, by Brian Glenney.
+    step1: |-
+
+    step2: |-
+
