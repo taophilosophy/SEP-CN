@@ -1,0 +1,33 @@
+{
+ "key": "abhisamayalamkara",
+ "term": "Abhisamayālaṃkāra",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-05T21:02:12+00:00",
+ "status": "ok",
+ "note": "variant=Abhisamayālaṃkāra; 审定公布名词库=0; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "抗La抗体(=抗SSB抗体)",
+   "en": "[]",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "抗SSB抗体，抗La抗体",
+   "en": "anti-SSB antibody， anti-Sjogren syndrome B antibody",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "抗SSB/La抗体",
+   "en": "anti-SSB antibody, anti-SSB",
+   "code": "1.5.3.12",
+   "standard": "风湿免疫病学名词",
+   "subject": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

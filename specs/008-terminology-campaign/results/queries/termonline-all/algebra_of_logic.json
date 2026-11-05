@@ -1,0 +1,348 @@
+{
+ "key": "algebra of logic",
+ "term": "algebra of logic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-05T21:22:06+00:00",
+ "status": "ok",
+ "note": "variant=algebra of logic; 审定公布名词库=10000; 海峡两岸名词对照库=7636; 其他来源数据库=1850; 预公布名词数据库=2695; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "代数学",
+   "en": "algebra",
+   "code": "04.0388",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "代数",
+   "en": "algebras",
+   "code": "04.1472",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_非结合环"
+  },
+  {
+   "cn": "代数的",
+   "en": "algebraic",
+   "code": "04.0397",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "代数的李代数",
+   "en": "algebraic Lie algebra",
+   "code": "04.1993",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数群"
+  },
+  {
+   "cn": "命题代数",
+   "en": "algebra of propositions",
+   "code": "02.0023",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "代数论",
+   "en": "theory of algebras",
+   "code": "04.1393",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "代数的表示",
+   "en": "representation of algebras",
+   "code": "04.1408",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "代数的恒等式",
+   "en": "identities of algebras",
+   "code": "04.1448",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "代数群的李代数",
+   "en": "Lie algebra of an algebraic group",
+   "code": "04.1992",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_代数群"
+  },
+  {
+   "cn": "中心代数",
+   "en": "central algebra,normal algebra",
+   "code": "04.1431",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "代数的中心",
+   "en": "center of an algebra",
+   "code": "04.1398",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "代数的根",
+   "en": "radical of an algebra",
+   "code": "04.1403",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_结合环"
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "地理代数",
+   "en": "geo-algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "地图代数",
+   "en": "map algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "布尔代数",
+   "en": "Boolean algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "程序代数",
+   "en": "program algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "关系代数",
+   "en": "relational algebra",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数模型",
+   "en": "algebraic model",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "代数规约",
+   "en": "algebraic specification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数简化",
+   "en": "algebraic simplification",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数码",
+   "en": "algebraic code",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代数语言",
+   "en": "algebraic language",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数值代数",
+   "en": "numerical algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "进程代数",
+   "en": "process algebra",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "线性代数",
+   "en": "linear algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "外代数",
+   "en": "Exterior algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "微分代数",
+   "en": "Differential algebra",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "表面",
+   "en": "algebraic surface",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "组合逻辑电路",
+   "en": "Combinatorial logic, combinational logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "谓词逻辑",
+   "en": "predicate logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "相干逻辑",
+   "en": "Relevant logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "逻辑分析仪",
+   "en": "Logic analyzer",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "code": "01.0101",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "code": "2.5.5.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_心理行为发育"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "code": "1.0534",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_学派理论与研究方法"
+  },
+  {
+   "cn": "多数的暴政",
+   "en": "tyranny of",
+   "code": "3.6.3.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_民主与选举"
+  },
+  {
+   "cn": "年欧洲革命",
+   "en": "Revolution of",
+   "code": "04.0212",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要事件_马克思恩格斯时期"
+  },
+  {
+   "cn": "未成年人保护法",
+   "en": "law of protection of minors",
+   "code": "3.16.4.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_青少年研究_青少年政策"
+  },
+  {
+   "cn": "对立统一规律",
+   "en": "law of unity of opposites",
+   "code": "01.0220",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "生产资料国有化",
+   "en": "nationalization of means of production",
+   "code": "03.0171",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "吉尔吉斯斯坦共产党人党",
+   "en": "Party of Communists of Kyrgyzstan",
+   "code": "05.0303",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外共产党部分"
+  },
+  {
+   "cn": "摩尔多瓦共产党人党",
+   "en": "Party of Communist of Moldova",
+   "code": "05.0306",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外共产党部分"
+  },
+  {
+   "cn": "南斯拉夫共产主义者联盟",
+   "en": "League of Communists of Yugoslavia",
+   "code": "05.0310",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外社会主义运动_国外共产党部分"
+  },
+  {
+   "cn": "伤部构成比",
+   "en": "proportion of locations of injury",
+   "code": "15.3.2.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军队卫生统计学_战时卫生统计"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,33 @@
+{
+ "key": "amami",
+ "term": "amami",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-05T21:22:06+00:00",
+ "status": "ok",
+ "note": "variant=amami; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "鲜味",
+   "en": "umami",
+   "code": "02.0144",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品科学_食品化学_食品风味化学"
+  },
+  {
+   "cn": "草果",
+   "en": "fructus amomi tsao-ko",
+   "code": "03.1524",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品原料与加工_调味品"
+  },
+  {
+   "cn": "阿马蒂",
+   "en": "Amati\",\"Nicolo(意大利)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
