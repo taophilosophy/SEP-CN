@@ -49,6 +49,7 @@
 | Carugo, Adriano | 卡鲁戈 | duhem | 全名汉译『阿德里亚诺·卡鲁戈』，正文简名首现括注；学界惯例（科学史研究通行音译）；凭证 2026-11-06 | 2026-11-06 |
 | Cassirer, Ernst | 恩斯特·卡西尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Catharine MacKinnon | 凯瑟琳·麦金农 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Cauchy, Augustin-Louis | 柯西 | 语料回收（lakatos 首译） | 数学界千年通行汉译（法国数学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Charles Mills | 查尔斯·米尔斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Chayet, Adèle | 阿代尔·沙耶 | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06 | 2026-11-06 |
 | Cheng Hao | 程颢 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -56,6 +57,7 @@
 | Cheselden, William | 威廉·切塞尔登 | 语料回收（molyneux-problem 首译） | 医史学界通行汉译（英国外科医师，1728 年首例先天性白内障术后复明报告作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Cockburn, Catharine Trotter | 凯瑟琳·特洛特·考克本 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Confucius | 孔子 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Columbus, Christopher | 哥伦布 | 语料回收（lakatos 首译） | 学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Condillac, Étienne Bonnot de | 艾蒂安·博诺·德·孔狄亚克 | SUMMARY 定名（c/condillac.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Conway, Lady Anne | 安妮·康威 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Copernicus, Nicolaus | 尼古拉·哥白尼 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -85,12 +87,14 @@
 | Duns Scotus | 邓斯·司各脱（亦作“司各脱”） | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Edith Stein | 艾迪特·施泰因 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Elisabeth, Princess of Bohemia | 普法尔茨的伊丽莎白公主 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Einstein, Albert | 爱因斯坦 | 语料回收（lakatos 首译） | 学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Emil Lask | 埃米尔·拉斯克 | 语料回收（全目录） | 学界惯例（新康德主义（西南学派））；凭证 2026-11-01 | 2026-11-01 |
 | Epictetus | 爱比克泰德 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Ernest Sosa | 欧内斯特·索萨 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Ernst Mayr | 恩斯特·迈尔 | 语料回收（全目录） | 审定“迈尔”在案（生物学）；凭证 2026-11-01 | 2026-11-01 |
 | Ernst Zermelo | 恩斯特·策梅洛 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Foucault, Léon | 傅科 | duhem | 全名汉译『莱昂·傅科』，正文简名首现括注；学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Euclid | 欧几里得 | 语料回收（lakatos 首译） | 学界千年通行汉译（古希腊几何学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Fred Dretske | 弗雷德·德雷斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Friedrich Schiller | 弗里德里希·席勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Friedrich Schleiermacher | 弗里德里希·施莱尔马赫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -154,6 +158,7 @@
 | Lokert, George | 乔治·洛克特 | duhem | 学界惯例（中世纪逻辑学家音译）；凭证 2026-11-06 | 2026-11-06 |
 | Luxemburg, Rosa | 罗莎·卢森堡 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Masham, Lady Damaris | 达玛里斯·库德沃斯·马沙姆 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Lysenko, Trofim | 李森科 | 语料回收（lakatos 首译） | 史学界通行汉译（苏联农学家，李森科事件主角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Melissus | 麦里梭 | leucippus | 学界通行汉译（爱利亚学派）；待 specs/008 审定库复核 | 2026-11-03 |
 | Antoine Le Grand | 安托万·勒·格兰德 | legrand | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Mill, Harriet Taylor | 哈丽雅特·泰勒·密尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -1013,6 +1018,20 @@
 | Anselm of Canterbury | 坎特伯雷的安瑟伦 | descartes-ontological | 学界千年通行（经院哲学之父；正文行文用“安瑟伦”） | 2026-11-06 |
 | Gaunilo | 高尼罗 | descartes-ontological | 学界通行（马尔穆捷修士，安瑟伦同时代批评者） | 2026-11-06 |
 | Suárez, Francisco | 弗朗西斯科·苏亚雷斯 | descartes-ontological | 学界通行（晚期经院哲学集大成者） | 2026-11-06 |
+| Benedict XII | 本笃十二世 | autrecourt | 学界通行汉译（教宗，1334–1342 在位） | 2026-11-06 |
+| Clement VI | 克雷芒六世 | autrecourt | 学界通行汉译（教宗，1342–1352 在位） | 2026-11-06 |
+| Bernard of Arezzo | 阿雷佐的伯纳德 | autrecourt | 学界通行（方济各会神学家，奥特古通信对手） | 2026-11-06 |
+| Curti, (Cardinal) | 库尔蒂枢机 | autrecourt | 音译（审判法官，埃利亚的彼得·库尔蒂枢机） | 2026-11-06 |
+| Gregory of Rimini | 里米尼的格里高利 | autrecourt | 学界通行（奥古斯丁会会长，complexe significabile 学说） | 2026-11-06 |
+| Marsilius of Padua | 帕多瓦的马西利乌斯 | autrecourt | 学界通行（《和平的保卫者》作者） | 2026-11-06 |
+| Marsilius of Inghen | 因亨的马西利乌斯 | autrecourt | 学界通行（海德堡大学创立者，唯名论者） | 2026-11-06 |
+| Wilton, Thomas | 托马斯·威尔顿 | autrecourt | 学界通行（牛津神学家） | 2026-11-06 |
+| Bartholomew of Bruges | 布鲁日的巴多罗买 | autrecourt | 学界通行（中世纪逻辑学家） | 2026-11-06 |
+| Siger of Courtrai | 库特赖的西格尔 | autrecourt | 学界通行（模态语义学家） | 2026-11-06 |
+| André of Neufchâteau | 讷沙托的安德烈 | autrecourt | 音译（布里丹同时代学者；拉丁形 Andreas de Novo Castro） | 2026-11-06 |
+| Rashdall, Hastings | 黑斯廷斯·拉什达尔 | autrecourt | 学界通行（中世纪大学史家） | 2026-11-06 |
+| Wodeham, Adam | 亚当·沃德姆 | autrecourt | 学界通行（奥卡姆弟子，complexe significabile 拥护者） | 2026-11-06 |
+| Giles of Feno | 费诺的吉莱斯 | autrecourt | 学界通行（Master Giles，奥特古通信人，身份存疑） | 2026-11-06 |
 
 ## 待裁定
 
