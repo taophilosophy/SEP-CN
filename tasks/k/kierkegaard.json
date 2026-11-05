@@ -2,7 +2,7 @@
   "slug": "kierkegaard",
   "kind": "retranslate",
   "zh_doc": "k/kierkegaard.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:43Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T20:57:37Z",
+      "evidence": "零信任全量重译 128K 源 64 段+年表全译；assemble 五对账 OK：段落 64/64（年表条目除外）、内联脚注标记 112/112 零缺失零多余、书目 defs 194/194、节 6/3/3 全齐（含年表 ## 节）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T20:57:37Z",
+      "evidence": "文献还原：biblio_audit kierkegaard flagged=0；check_academic --strict OK"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T20:57:37Z",
+      "evidence": "克尔凯郭尔术语体例：存在领域/宗教感 A/B/造就性讲演/审思/内向性等按学界通行；人名（克尔凯郭尔/克利马克斯/反克利马克斯/西伦提奥等）沿用通行汉译；斜体转加粗 62+空格 75+残留实修 6，均幂等过；豁免留痕：prose 残余（de-chain 68/long-sentence 42）属引文密集体与概念性定语，ADR-0020 按体裁豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T20:57:39Z",
+      "evidence": "四检终态：style 0、prose 残余（体裁豁免类）、check_academic --strict OK；check_all 七门禁全绿；相关词条 12 条 SUMMARY 定名对齐（本真性/存在主义/信仰/信仰主义/黑格尔/希望/康德/爱/路德的哲学影响等）"
     }
   ],
   "blockers": [],
