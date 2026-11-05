@@ -2,7 +2,7 @@
   "slug": "duhem",
   "kind": "retranslate",
   "zh_doc": "d/duhem.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "?",
       "at": "2026-11-05T17:13:52Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 81 豁免留痕见 s2；人名 10 条登记（迪昂/穆捷/李普曼/贝特洛/维凯尔/米约/勒鲁瓦/维尔布瓦/布隆代尔/约尔丹努斯）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T18:59:49Z",
+      "evidence": "r1 初审（对照源深读，主会话——用户裁定不用子代理）：源文 341 行与译文 297 行全文对照通读，重点核生平年代/师承事件链（李普曼评审组/最大功原理/里尔-雷恩-波尔多轨迹）/两方法批判（牛顿派·笛卡尔派）/三心智论（细巧·几何·良识）/判决性实验（傅科实验）/科学史（1277/冲力说/达·芬奇研究/世界体系十卷）/柯瓦雷批评，结构与页码全对（1861–1916/1884–85/1902/1917 等逐年核过）。Major 修复 1：源文 Primary Sources 两张文献表（LPD/EHPS/LAS/CPT 缩写词表 4 条+著作编年表 26 条+Secondary Sources 节）上会话整块漏译且 References 说明行承诺'见本文末'落空——已按非中文照录规则补进 References 区。外文残留 5 处+排版 1 处实修（individually 地/affirming/mores/various/defective×2/unmatched 闭括号）。人名体例按 ADR-0022 补首现括注 25 处；布里丹对齐 SUMMARY 主名形（约翰→让）、惠威尔统一（休厄尔×3）；欠决定性→非充分决定性（词汇表亦作集+SUMMARY 词条名）。相关词条 3 项对齐 SUMMARY 主名形（借增强版 map_related 全 23 项核验；physics:experiment in 歧义命中留痕，译文'物理实验'对主行）。人名表补 23 行+5 行主形改按正文用形（ADR-0022）。复检：check_terms 硬错误 0/academic --strict 0/style 0（bold-spacing 1 项已修）/prose 83 与上会话 s2 豁免清单同域（de-chain 科学史定语+引文回译长句）。存量留痕：Molyneux×2 告警、ʿAyn al-Quḍāt 滞后、Mullā Ṣadrā 两形分立（008 战役域）。映射工具歧义：en 同名多词条时 map_related 取首个命中（生物学实验 vs 物理实验），待加 slug 消歧（低优先）"
     }
   ],
   "blockers": [],

@@ -934,6 +934,19 @@
 | Jaimini | 阇弥尼 | kumaarila | 印度哲学史学界通行（《弥曼差经》作者） | 2026-11-05 |
 | Tāranātha | 多罗那他 | kumaarila | 藏学界通行汉译（1575–1634，觉囊派史家） | 2026-11-05 |
 | Śaṅkara | 商羯罗 | kumaarila | 印度哲学史学界通行（不二论吠檀多，约八世纪） | 2026-11-05 |
+| Alexander of Aphrodisias | 阿弗罗狄西亚的亚历山大 | delmedigo | 学界通行（古代亚里士多德注释家通译；亦作“阿弗罗迪西亚的亚历山大”） | 2026-11-06 |
+| Ashkenazi, Shaul | 扫罗·阿什肯纳齐 | delmedigo | 音译（德尔·梅第戈弟子，学界无固定汉名） | 2026-11-06 |
+| Donato, Girolamo | 吉罗拉莫·多纳托 | delmedigo | 音译（15 世纪威尼斯人文主义者，意人名通例） | 2026-11-06 |
+| Fraenkel, Carlos | 卡洛斯·弗伦克尔 | delmedigo | 学界通例（同姓数学家 A. Fraenkel 通译“弗伦克尔”；当代学者） | 2026-11-06 |
+| Giles of Rome | 罗马的吉莱斯 | delmedigo | 学界通行（经院哲人以驻地通称；亦作“罗马的吉尔斯”） | 2026-11-06 |
+| Grimani, Domenico | 多梅尼科·格里马尼 | delmedigo | 音译（15 世纪威尼斯枢机，意人名通例） | 2026-11-06 |
+| Guttmann, Julius | 尤利乌斯·古特曼 | delmedigo | 学界通行（犹太哲学史家） | 2026-11-06 |
+| Hübsch, Adolf | 阿道夫·许布施 | delmedigo | 音译（德语人名通例） | 2026-11-06 |
+| Jandun, John of | 让丹的约翰 | delmedigo | 学界通行（中世纪哲人以出生地+教名通称；r2 改定，初译作“让·德·让丹”） | 2026-11-06 |
+| Licata, Giovanni | 乔瓦尼·利卡塔 | delmedigo | 音译（当代学者，意人名通例） | 2026-11-06 |
+| Maimonides | 迈蒙尼德 | delmedigo | 学界千年通行（《迷途指津》作者） | 2026-11-06 |
+| Ross, Jacob Joshua | 罗斯 | delmedigo | 学界通例（同姓伦理学家 D. Ross 通译“罗斯”；正文以姓行文） | 2026-11-06 |
+| Yohay, Shim'on Bar | 希姆翁·巴尔·约海 | delmedigo | 音译（阿拉姆语 bar 形照源直译；犹太学亦作“西门·本·约海”） | 2026-11-06 |
 
 ## 待裁定
 
