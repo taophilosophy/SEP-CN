@@ -2,7 +2,7 @@
   "slug": "al-qudat",
   "kind": "retranslate",
   "zh_doc": "a/al-qudat.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-05T23:40:23Z",
       "evidence": "独立复审（接管会话，非初译 actor）：r1 全部实修点 grep 复核在位——庇护/涵盖受造者/前提×4/《实在的精髓》×22 统一形，中英混杂（premise/champion/encompassing）清零。守恒复验：段落 88:88、年份序列一致、marker 46:46 顺序一致、defs 59:59。六检复跑：style 0、academic 0 硬错误、math 0 缺失。prose 67 维持原 s3 豁免分判。关键引文段（理性尺度/一千零一个名字）抽读与源文一致。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T23:40:40Z",
+      "evidence": "终审验收：终稿结构完整，全库 check_all 七项门禁全绿（2026-11-06 本地，推送后 CI 为最终裁判）。r2 复审确认无新增问题。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T23:40:40Z",
+      "evidence": "批次收口：r3 终审通过后置 done；凭证链九步完整，提交链见 git log。"
     }
   ],
   "blockers": [],
