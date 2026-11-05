@@ -189,3 +189,7 @@
 * 术语同步：species 登记进 yi-zhe-shuo-ming（种，康威语境；发布词汇表 Species 行改“种／物种”兼容形消同键异义冲突——生物学语境=物种、本体论语境=种）。
 * 存量留痕：prose 16 条（de-chain 10/long 3/exists 2/as-one 1）属词条收口轮（r 波）域；*apocotastasis* 系 SEP 原文拼写（通行作 apokatastasis），零信任照录。
 * 门禁保持绿。下一接力：crathorn/creation-conservation/croce-aesthetics → d 批。
+* 深读累计 **45 条全 pass**（+crathorn——C 批推进）。正文对照过：生平年代（1330–32/1331–33/1330-07-16 日食）、认识论（种相增殖/三脑室 cellulae/明证知识定义/心灵变白）、语言哲学（总意谓/心智语言约定论）、本体论（范畴还原）逐节核销；数字比对 0 实质差异（月名汉译正当）；尾节已中文化 ✓。
+* 实修 2 处：①培根种相增殖段斜体/粗体标记错乱修复（变量 *c*/*e*/*s* 斜体归位，译文+账本 step2 该段吸收译文措辞实现段内闭环）；②相关词条"约翰·布里丹"→"让·布里丹"（对齐 SUMMARY 主名形）。
+* 漂移发现移交：crathorn 账本 step2 与译文存在 s2 措辞漂移（译文侧润色未回写账本，与 logic-provability 同模式）——移交账本闭环轮批量处理（该批词条共性：双版账本 compose 后译文侧继续润色）。
+* 检查器：style 0/prose 9（de-chain 5/long 3/weak 1，豁免域）/academic --strict 0。
