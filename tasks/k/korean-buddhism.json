@@ -2,7 +2,7 @@
   "slug": "korean-buddhism",
   "kind": "retranslate",
   "zh_doc": "k/korean-buddhism.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:45Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T15:30:53Z",
+      "evidence": "零信任全量重译 92K 源 104 段；assemble 四对账 OK：段落 104/104、内联脚注标记 20/20 零缺失零多余、defs 50/50、节 5/15/9 分级全齐"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T15:30:53Z",
+      "evidence": "文献还原：biblio_audit korean-buddhism flagged=0 errors=0；check_academic --strict OK；偈颂两段按汉文古译回译体例（源文为汉文原典之英译）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T15:30:53Z",
+      "evidence": "佛教传统译名体例（用户 2026-11-05 裁定）：人名 23 行（义湘/元晓/圆测/知讷/义天等汉文传统写法，无汉字确据者保留罗马字不臆造）、术语 18 行（和诤/一心/法界缘起/性起/看话禅/一圆相等）登记入两册；引号体例修正 132 处（「」→“”）+偈颂块去包裹 4 处+斜体转加粗 13+空格 13+prose 实修 4，均幂等过；豁免留痕：de-chain 残余 21 全属概念性定语"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AK-main-20261105",
+      "at": "2026-11-05T15:30:56Z",
+      "evidence": "四检终态：style 0、prose 残余 21（de-chain 豁免类）、check_academic --strict OK、math 0；check_all 七门禁全绿"
     }
   ],
   "blockers": [],

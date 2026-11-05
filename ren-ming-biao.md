@@ -717,6 +717,17 @@
 | Fitelson, Branden | 布兰登·菲特尔森 | bayes-theorem | 学界惯例（确证理论家，通行音译） | 2026-11-05 |
 | Levi, Isaac | 艾萨克·莱维 | bayes-theorem | 学界惯例（不确定信念理论家，通行音译） | 2026-11-05 |
 
+| Dewey, John | 约翰·杜威 | dewey-political | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-05 |
+| Morris, George S. | 乔治·S.莫里斯 | dewey-political | 学界惯例（杜威之师，黑格尔派，通行音译） | 2026-11-05 |
+| Green, T.H. | T.H.格林 | dewey-political | 学界通行（英国观念论者，字母保留体例） | 2026-11-05 |
+| Maine, Henry | 亨利·梅因 | dewey-political | 学界通行汉译（《古代法》作者） | 2026-11-05 |
+| Tufts, James Hayden | 詹姆斯·海登·塔夫茨 | dewey-political | 学界惯例（《伦理学》合著者，通行音译） | 2026-11-05 |
+| Lippmann, Walter | 沃尔特·李普曼 | dewey-political | 学界通行汉译（《公众舆论》作者） | 2026-11-05 |
+| Hook, Sidney | 悉尼·胡克 | dewey-political | 学界通行汉译（杜威弟子） | 2026-11-05 |
+| Bellamy, Edward | 爱德华·贝拉米 | dewey-political | 学界通行汉译（《回头看》作者） | 2026-11-05 |
+| Cole, G.D.H. | G.D.H.柯尔 | dewey-political | 学界通行（基尔特社会主义者，字母保留体例） | 2026-11-05 |
+| Rorty, Richard | 理查德·罗蒂 | dewey-political | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-05 |
+
 ## 登记格式说明
 
 ```
