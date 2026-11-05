@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 19:20（UTC）
+生成时间：2026-11-05 19:45（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1000|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|88|
-|在途（drafted 起、done 前）|280|
+|已完成（done）|92|
+|在途（drafted 起、done 前）|276|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,13 +23,12 @@
 |状态|数量|
 |---|---|
 |pending|632|
-|cleared|179|
+|cleared|178|
 |drafted|2|
 |s1_checked|2|
-|s3_checked|92|
-|r1_reviewed|2|
-|r2_reviewed|3|
-|done|88|
+|s3_checked|93|
+|r2_reviewed|1|
+|done|92|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -38,7 +37,7 @@
 |A|160|160|160|35|
 |B|62|62|62|0|
 |C|172|172|172|0|
-|D|92|92|92|6|
+|D|92|92|92|10|
 |E|99|99|99|0|
 |F|96|96|96|0|
 |G|49|49|49|0|
@@ -181,13 +180,9 @@
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |cudworth|retranslate|s3_checked|主代理 2026-11-01|
 |davidson|retranslate|cleared|task_ops 2026-11-01|
-|delmedigo|retranslate|r2_reviewed|ABCDE-takeover-20261106 2026-11-05|
-|democritus|retranslate|r2_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |demonstration-medieval|retranslate|s3_checked|sub-demonstration-medieval 2026-11-01|
 |descartes-ethics|retranslate|s3_checked|? 2026-11-04|
 |descartes-ideas|retranslate|s3_checked|? 2026-11-04|
-|descartes-ontological|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
-|descartes-works|retranslate|r1_reviewed|r1-reviewer 2026-11-01|
 |dewey-moral|retranslate|s3_checked|ykla 2026-11-01|
 |dewey-political|retranslate|s3_checked|? 2026-11-05|
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
@@ -321,7 +316,7 @@
 |knowledge-acquaindescrip|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-analysis|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
-|knowledge-value|retranslate|cleared|task_ops 2026-11-01|
+|knowledge-value|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |korean-buddhism|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |korean-confucianism|retranslate|cleared|task_ops 2026-11-01|
 |korean-philosophy|retranslate|s3_checked|AK-main-20261105 2026-11-05|
