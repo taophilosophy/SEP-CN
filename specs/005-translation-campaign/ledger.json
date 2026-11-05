@@ -86,40 +86,46 @@
    "advanced_at": "2026-11-01T17:44:45Z"
   },
   "l": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:14Z",
-   "note": ""
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 144/144 镜像 144/144 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "advanced_at": "2026-11-05T15:22:53Z"
   },
   "m": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": ""
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 139/139 镜像 139/139 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "advanced_at": "2026-11-05T15:22:53Z"
   },
   "n": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": ""
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 50/50 镜像 50/50 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "advanced_at": "2026-11-05T15:22:54Z"
   },
   "o": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": ""
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 21/21 镜像 21/21 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "advanced_at": "2026-11-05T15:22:54Z"
   },
   "p": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": ""
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 165/165 镜像 165/165 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "advanced_at": "2026-11-05T15:22:54Z"
   },
   "q": {
-   "phase": "pending",
+   "phase": "translate",
    "claimed_by": "LQ-main-20261103",
    "claimed_at": "2026-11-02T17:21:15Z",
-   "note": ""
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 34/34 镜像 34/34 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）",
+   "advanced_at": "2026-11-05T15:22:54Z"
   },
   "r": {
    "phase": "translate",
@@ -185,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-04T20:57:44Z"
+ "updated_at": "2026-11-05T15:22:54Z"
 }

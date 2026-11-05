@@ -5,6 +5,13 @@
   "state": "cleared",
   "steps": [
     {
+      "step": "direction",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-05T00:00:00Z",
+      "evidence": "方向声明（rules/08）：接手 LQ-main-20261103 会话遗留的 logic-provability 账本（133 段；缩进事故已修，另存内容错位与部分段数学丢失/译文缺失，守恒 HARD!=0）。目标：修复账本至逐段身份+守恒 HARD=0，compose 写回成稿，六道全过收口。验收判据：script/lq.py check HARD=0；style/math/summary/academic --strict 0 硬错误；逐步 evidence 齐全。非目标：不改英文源、不补词条外内容、不造引文、不动其他批次词条。"
+    },
+    {
       "step": "clear",
       "status": "ok",
       "actor": "task_ops",
