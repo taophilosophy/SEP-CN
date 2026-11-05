@@ -337,8 +337,8 @@ Tenenbaum 和 Raffman 对追求模糊目标的讨论，与 Luca Ferrero 的建�
 
 ## 其他网络资源
 
-- [PEA Soup](https://peasoupblog.com/)
-- [PEA Soup: Practical Rationality](https://peasoupblog.com/category/discussions/metaethics/practical-rationality/)
+* [PEA Soup](https://peasoupblog.com/)
+* [PEA Soup: Practical Rationality](https://peasoupblog.com/category/discussions/metaethics/practical-rationality/)
 
 ## 相关词条
 

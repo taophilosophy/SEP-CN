@@ -1,4 +1,5 @@
 # 约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)
+
 *首次发表于 2011 年 5 月 2 日；2025 年 9 月 14 日实质修订。*
 
 约翰内斯·开普勒（Johannes Kepler，1571–1630）是所谓十六、十七世纪科学革命最重要的代表之一。他虽只受过“硕士”级的基础训练，职业取向在生涯之初也偏向神学，却很快以数学才能与理论创造力闻名。作为坚定的哥白尼主义者，开普勒能在多条战线上为新体系辩护：反对仍坚持托勒密体系的旧天文学家，反对亚里士多德主义的自然哲学家，反对第谷·布拉赫之新“混合体系”的追随者——开普勒在布拉格继任其帝国数学家之职——甚至反对标准的哥白尼立场：后者认为新体系只应被当作计算装置，而不必然是物理实在。开普勒的全部著作很难像经院哲学或十七世纪下半叶兴起的笛卡尔式新体系那样被概括成一个观念“系统”。尽管如此，仍可辨认出两种主要倾向：一种接续柏拉图主义，把几何学在世界结构中的作用置于优先；另一种接续亚里士多德传统，强调经验与因果性在认识论中的分量。他因三大行星定律在天文学中赢得不朽声名，但在光学与数学领域同样做出了根本性贡献。开普勒不懈的科学活动中还有一些鲜为人知的事实：他努力开发不同的技术装置——例如一台水泵——试图申请专利并用于多种实际场合（文件见 KGW 21.2.2, pp. 509–57 与 667–691）。在同时代人眼中，他也是有名的数学家与占星学家；而就他自己的期望而言，他是一位以科学方式探究宇宙最深结构的哲学家。
@@ -283,10 +284,10 @@ ight)^3 $$
 
 ## 其他网络资源
 
-- [开普勒传记](https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/)，MacTutor，圣安德鲁斯大学。
-- [约翰内斯·开普勒传](http://galileo.rice.edu/sci/kepler.html)，伽利略计划，莱斯大学。
-- [开普勒的行星定律](https://mathshistory.st-andrews.ac.uk/HistTopics/Keplers_laws/)，A.E.L. 戴维斯（帝国理工学院），MacTutor 历史专题，圣安德鲁斯大学。
-- [运动学的行星运动](http://web.archive.org/web/20160515234447/http://www-history.mcs.st-andrews.ac.uk/Extras/Kepler_planetary_motion.html)，A.E.L. 戴维斯（帝国理工学院），MacTutor，圣安德鲁斯大学。
+* [开普勒传记](https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/)，MacTutor，圣安德鲁斯大学。
+* [约翰内斯·开普勒传](http://galileo.rice.edu/sci/kepler.html)，伽利略计划，莱斯大学。
+* [开普勒的行星定律](https://mathshistory.st-andrews.ac.uk/HistTopics/Keplers_laws/)，A.E.L. 戴维斯（帝国理工学院），MacTutor 历史专题，圣安德鲁斯大学。
+* [运动学的行星运动](http://web.archive.org/web/20160515234447/http://www-history.mcs.st-andrews.ac.uk/Extras/Kepler_planetary_motion.html)，A.E.L. 戴维斯（帝国理工学院），MacTutor，圣安德鲁斯大学。
 
 ## 相关词条
 

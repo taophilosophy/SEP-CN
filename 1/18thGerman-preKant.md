@@ -1,4 +1,5 @@
 # 康德之前的 18 世纪德国哲学 18th Century German Philosophy Prior to Kant (Corey Dyck and Brigitte Sassen)
+
 *首次发表于 2002 年 3 月 10 日；2026 年 7 月 1 日实质修订。*
 
 康德无疑在 18 世纪德国哲学史上投下了长长的阴影。他不仅发动了一场哲学革命，还在这一过程中把前辈们的形而上学体系彻底揭露为理性主义的空中楼阁。这项事业的后一半——否定性的那一半——实在太过成功，以至于前康德时期的德国哲学直到今天仍被普遍看作一个蒙昧的教条主义时代。在人们印象里，那段时期的德国哲学（如果算得上哲学的话）只顾埋头于干瘪的经院哲学和僵死的形而上学，而这类东西在英国和法国早就被抛在了身后。佐证之一便是：当时几乎所有叫得出名字的知识人都是大学教授，清一色男性——女性根本进不了大学。他们用拉丁语而非本国语言撰写厚重的学术大部头，连讲课也用拉丁语。的确，持久的教派纷争加上错综复杂的内部政治，把构成神圣罗马帝国的德语地区同欧洲其他部分隔离开来；这片土地看上去就像一座思想孤岛，一道抵挡现代哲学革新的堤坝，一个几乎不曾产出什么值得一提的观念的角落——直到康德哲学登场，情况才告改变。
@@ -396,12 +397,12 @@
 
 ## 其他网络资源
 
-- [启蒙哲学克里斯蒂安·沃尔夫学会](https://www.christian-wolff-gesellschaft.de/)
-- [拓展哲学史的新叙事](https://www.newnarrativesinphilosophy.net/)
-- [国际十八世纪研究学会](https://www.c18.org/)
-- [欧洲启蒙研究跨学科中心](https://www.izea.uni-halle.de/)
-- [Project Vox](https://projectvox.library.duke.edu/)
-- [18 世纪德国女性知识人](https://publish.uwo.ca/~cdyck5/UWOKRG/women.html)
+* [启蒙哲学克里斯蒂安·沃尔夫学会](https://www.christian-wolff-gesellschaft.de/)
+* [拓展哲学史的新叙事](https://www.newnarrativesinphilosophy.net/)
+* [国际十八世纪研究学会](https://www.c18.org/)
+* [欧洲启蒙研究跨学科中心](https://www.izea.uni-halle.de/)
+* [Project Vox](https://projectvox.library.duke.edu/)
+* [18 世纪德国女性知识人](https://publish.uwo.ca/~cdyck5/UWOKRG/women.html)
 
 ## 相关词条
 

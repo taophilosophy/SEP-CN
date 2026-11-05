@@ -211,6 +211,7 @@ segments:
 **直译流水线（主会话，无子代理）**：①`python script/lq.py init <L> <slug>`（骨架自动含标题段与 oir 段）②通读 yuanwen → 写 `script/build_<slug>.py` 双版翻译 dict（**分批落盘、每批即 commit 账本**，防会话中断丢失；注意 `json.dumps` 把元组转列表，取值须 `s1, s2 = v[0], v[1]`）③组装账本＋守恒自检 → `lq.py check`（HARD=0 方可写回）→ `lq.py compose --write` ④`script/italic_to_bold_cjk.py <md>`（中文强调斜体→粗体）⑤四检（style/math/summary/academic --strict）→ task_ops 八步推进 → pathspec commit。
 
 **compose 陷阱**：
+
 1. SUMMARY 行含转义括号 `\[...\]` 时 `summary_title` 截断 H1——s1 手工补全（kokugaku-school 实例）。
 2. 关联词条 NOTE 项（未匹配者）留 s1 人工复核对齐 SUMMARY 登记形；无 SUMMARY 行者保留中文译名，待管线挂链。
 3. 脚注键/`$`/`**` 计数守恒是硬门——勿在 step2 加粗源文斜体词（`**` 计数漂移即 HARD）。
@@ -230,7 +231,7 @@ segments:
 
 **git 纪律**：并行会话活跃时提交一律带 pathspec；重置前先 `git log -2` 确认 HEAD 无他人新提交；共享登记册（ren-ming-biao 等）被他会占用时，用 `git apply --cached` 只暂存己方 hunk。
 
-**现制 References（引用注释）要点（2026-11-05，18thGerman-preKant 首例）**：①2026 起新修订页为「节说明 + 文末 `[^key]:` 定义区」形态，lq.py `refs_kind=modern` 分支自动识别（保留源节标题、转换器契约注记、空子节标题；定义随 References 节照录，非中文条目不译，`[^unless-nd]`/`[^following-nd]` 伪脚注同照录）；②孤立定义（文献表推荐文献未被正文引用）与注记字面 `[^key]` 为源文同构，机检现制豁免覆盖，勿当事故修；③SUMMARY 标题疑衍字时对 `en/<slug>/index.html` citation_title 实证，修 SUMMARY 必联动 mu-lu-s 同路径行；④账本填充器严禁「`- id: N` 起非贪婪跨段匹配 TBD」的正则（会吞掉中间段骨架造成错位 14 段），须按 `  - id: ` 块级切分替换——错位会被写回门脚注键守恒 HARD 拦下，回滚重填即可。
+**现制 References（引用注释）要点（2026-11-05，18thGerman-preKant 首例）**：①2026 起新修订页为「节说明 + 文末 `[^key]:` 定义区」形态，lq.py `refs_kind=modern` 分支自动识别（保留源节标题、转换器契约注记、空子节标题；定义随 References 节照录，非中文条目不译，`[^unless-nd]`/`[^following-nd]` 伪脚注同照录）；②孤立定义（文献表推荐文献未被正文引用）与注记字面 `[^key]` 为源文同构，机检现制豁免覆盖，勿当事故修；③SUMMARY 标题疑衍字时对 `en/<slug>/index.html` citation_title 实证，修 SUMMARY 必联动 mu-lu-s 同路径行；④账本填充器严禁「`- id: N` 起非贪婪跨段匹配 TBD」的正则（会吞掉中间段骨架造成错位 14 段），须按 ` - id: ` 块级切分替换——错位会被写回门脚注键守恒 HARD 拦下，回滚重填即可。
 
 ## 7. 演示与修订
 

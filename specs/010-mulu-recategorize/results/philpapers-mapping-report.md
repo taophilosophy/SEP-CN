@@ -7,7 +7,7 @@
 ## 一、映射分布（PP 七大类 × 34 子类）
 
 | PP 大类 | 条数 | 子类分布 |
-|---|---|---|
+| --- | --- | --- |
 | History of Western Philosophy | 597 | 20th 182 · 17th/18th 147 · Med&Renaiss 101 · Ancient 90 · 19th 54 · 19th/20th(马克思主义) 17 · （含女性两时期节 70） |
 | Metaphysics and Epistemology | 333 | Metaphysics 106 · Language 87 · Mind 69 · Religion 61 · Epistemology 50 · M&E Misc 13 · Action 7 |
 | Science, Logic, and Mathematics | 313 | Logic 110 · General PoS 61 · Biology 60 · Physical 46 · Cognitive Sci 36 · Math 30 · Computing 30 · Social Sci 21 |
@@ -25,10 +25,10 @@
 
 ## 三、终审修正记录
 
-- 首版关键词兜底跨大类误判 33 例（如法哲学节"证据的法律概念"被"证据"拽到 Epistemology、美学节"悲剧悖论"被"悖论"拽到 Logic、政治节"爱国主义"被"爱"拽到 Mind）→ 修正优先级：**关键词仅在节默认同类内细化，跨大类一律守节上下文**，修正后 auto-kw 173→140，140 条逐条终审通过。
-- 边缘多归属词条（PhilPapers 自身双类）：legal rights（Law/Social&Political）、voting（Normative/Social&Political）、rational choice（Decision/Epistemology）——按节上下文取用，登记不改。
+* 首版关键词兜底跨大类误判 33 例（如法哲学节"证据的法律概念"被"证据"拽到 Epistemology、美学节"悲剧悖论"被"悖论"拽到 Logic、政治节"爱国主义"被"爱"拽到 Mind）→ 修正优先级：**关键词仅在节默认同类内细化，跨大类一律守节上下文**，修正后 auto-kw 173→140，140 条逐条终审通过。
+* 边缘多归属词条（PhilPapers 自身双类）：legal rights（Law/Social&Political）、voting（Normative/Social&Political）、rational choice（Decision/Epistemology）——按节上下文取用，登记不改。
 
 ## 四、过程发现与修补
 
-- **通论区"## 语言哲学与逻辑学"标题缺失**（二轮 R1-R6 重跑时引入，### 子节直接挂 # 下、层级跳级）：本轮补回一行，check_mulu_s 五项恢复全绿。
-- 映射引擎初版 TSV 双写事故（Edit 残留致 if-m 段重复）→ 门禁语义对账（唯一 slug 1882 vs 行数 3754）拦截修复。
+* **通论区"## 语言哲学与逻辑学"标题缺失**（二轮 R1-R6 重跑时引入，### 子节直接挂 # 下、层级跳级）：本轮补回一行，check_mulu_s 五项恢复全绿。
+* 映射引擎初版 TSV 双写事故（Edit 残留致 if-m 段重复）→ 门禁语义对账（唯一 slug 1882 vs 行数 3754）拦截修复。

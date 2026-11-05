@@ -166,7 +166,7 @@ PC 是我们一切思想的基础。就其最基本的形式而言，这条原�
 
 ## 其他网络资源
 
-- Barbara Becker 撰：[Émilie du Châtelet](https://eee.uci.edu/clients/bjbecker/RevoltingIdeas/emilie.html)。
+* Barbara Becker 撰：[Émilie du Châtelet](https://eee.uci.edu/clients/bjbecker/RevoltingIdeas/emilie.html)。
 
 ## 相关词条
 

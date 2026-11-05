@@ -7,7 +7,7 @@
 ### 1. 批次核验报告（BatchVerificationReport）
 
 | 字段 | 类型 | 说明 |
-|---|---|---|
+| --- | --- | --- |
 | batch | string | 批次（1 或 a–z） |
 | ran_at | timestamp | 核验时间 |
 | findings | DiffItem[] | 差异项列表（见 2） |
@@ -17,7 +17,7 @@
 ### 2. 差异项（DiffItem）
 
 | 字段 | 类型 | 说明 |
-|---|---|---|
+| --- | --- | --- |
 | kind | enum | missing / extra / alias-broken / mu-lu-s-gap / section-mismatch / asset-missing / conversion |
 | slug | string | 涉及条目 |
 | detail | string | 具体差异（路径/锚点/计数） |
@@ -27,7 +27,7 @@
 ### 3. 变更记录（ChangeRecord，FR-005 闭环）
 
 | 字段 | 类型 | 说明 |
-|---|---|---|
+| --- | --- | --- |
 | detected_at | timestamp | 检测时间（fetch_catalog/compare 触发） |
 | slug | string | 词条 |
 | section_ref | string | 节级定位（锚点/节号） |
@@ -40,7 +40,7 @@
 ### 4. 复核记录（ReviewRecord，FR-006 结构化载体）
 
 | 字段 | 类型 | 说明 |
-|---|---|---|
+| --- | --- | --- |
 | subject | string | 复核对象（词条/节/译文段） |
 | doubt | string | 存疑提问（史实/引文/年代/译法） |
 | ruling | string | 裁定（回原文核对结果/译注说明） |

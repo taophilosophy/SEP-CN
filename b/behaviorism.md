@@ -175,8 +175,8 @@
 
 ## 其他网络资源
 
-- [国际行为分析学会](http://www.abainternational.org/)
-- [弗吉尼亚双子橡树共同体](http://www.twinoaks.org/)
+* [国际行为分析学会](http://www.abainternational.org/)
+* [弗吉尼亚双子橡树共同体](http://www.twinoaks.org/)
 
 ## 相关词条
 

@@ -169,10 +169,10 @@
 
 ## 其他网络资源
 
-- [巴利三藏 The Pali Tipitaka](https://www.tipitaka.org/)，巴利文文献
-- [向佛教提出的十个哲学问题 Ten Philosophical Questions to Ask About Buddhism](https://www.unm.edu/~rhayes/numata.html)，Richard P. Hayes 的一系列演讲
-- [Access to Insight](https://www.accesstoinsight.org/)，上座部佛教读本
-- [Buddhanet](https://www.buddhanet.net/)，佛陀正法教育协会
+* [巴利三藏 The Pali Tipitaka](https://www.tipitaka.org/)，巴利文文献
+* [向佛教提出的十个哲学问题 Ten Philosophical Questions to Ask About Buddhism](https://www.unm.edu/~rhayes/numata.html)，Richard P. Hayes 的一系列演讲
+* [Access to Insight](https://www.accesstoinsight.org/)，上座部佛教读本
+* [Buddhanet](https://www.buddhanet.net/)，佛陀正法教育协会
 
 ## 相关词条
 

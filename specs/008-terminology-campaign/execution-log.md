@@ -89,6 +89,7 @@
 * **响应结构**：`result.searchResult[]` 每库 `{result:{totalRecords, tmWordList[], yearStats, sourceStats, typeStats}, id}`；词条字段 `cn/en/source/subjectName/subjectFullName/publishYear/definition/bbh/wordNumber/alsoName/aliasName`。**哲学覆盖率高**：实测「溯因推理」349 条，自然辩证法名词 16 条（溯因=abduction 2024、质料因=material cause 2024、三因学说等），GB 标准库（standardSearch）查无 186 的哲学词在审定库全在案。
 * **实现方式**：provider 需（a）本地 AES-CBC 解密 localStorage 密文 → 明文 token；（b）token 有效期校验（JWT `exp`）；（c）带 `X-Access-Token` 头请求。**token 不落盘**：解密逻辑写进 `cnki_query.py`，token 来源经 `--token-env TERMONLINE_TOKEN` 环境变量或 `--token-file` 传入（用户浏览器 localStorage 密文导出），避免明文入库。
 * **教训**：①「匿名恒空」≠「需登录」二象性——需区分「200+空」（无凭证被静默降级）与「401」（凭证错误）；②SPA token 存储常为**加密**，直接读 localStorage 拿到的是密文，必须还原站点 `cacheCipher` 后解密；③浏览器 evaluate 里 fetch 测试会被**已 patch 的 fetch/XHR** 干扰（返回 clone 消费原响应致空）——复现请求须用干净上下文（navigate 后未 patch 的 window）。
+
 2. heredoc 内嵌 Python 补丁再次失败（assert 未命中静默 no-op / 转义损坏）——一律 Edit 工具改码，脚本补丁必须 assert 验证。
 3. 提取器阈值/停用词每次改动后，已缓存的单篇结果不会自动失效——`--refresh` 强制重提，否则看到的是旧词表的假象。
 

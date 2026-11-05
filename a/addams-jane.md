@@ -148,14 +148,14 @@
 
 ## 其他网络资源
 
-- [简·亚当斯赫尔馆博物馆](http://www.uic.edu/jaddams/hull/hull_house.html)
-- [简·亚当斯诺贝尔和平奖页面](http://www.nobelprize.org/nobel_prizes/peace/laureates/1931/addams-bio.html)
-- [简·亚当斯文献项目](http://janeaddams.ramapo.edu/)
-- [美国哲学促进会](http://www.american-philosophy.org)
-- [斯沃斯莫尔学院和平文献馆](http://www.swarthmore.edu/library/peace/)
-- [城市经验：赫尔馆照片集 1900–1950，伊利诺伊大学芝加哥分校](https://explore.chicagocollections.org/ead/uic/25/nk66/)
-- [赫尔馆口述史文献，伊利诺伊大学芝加哥分校](https://archivesspace.uic.edu/repositories/2/resources/1237)
-- [国际妇女和平与自由联盟](http://www.wilpf.org/)
+* [简·亚当斯赫尔馆博物馆](http://www.uic.edu/jaddams/hull/hull_house.html)
+* [简·亚当斯诺贝尔和平奖页面](http://www.nobelprize.org/nobel_prizes/peace/laureates/1931/addams-bio.html)
+* [简·亚当斯文献项目](http://janeaddams.ramapo.edu/)
+* [美国哲学促进会](http://www.american-philosophy.org)
+* [斯沃斯莫尔学院和平文献馆](http://www.swarthmore.edu/library/peace/)
+* [城市经验：赫尔馆照片集 1900–1950，伊利诺伊大学芝加哥分校](https://explore.chicagocollections.org/ead/uic/25/nk66/)
+* [赫尔馆口述史文献，伊利诺伊大学芝加哥分校](https://archivesspace.uic.edu/repositories/2/resources/1237)
+* [国际妇女和平与自由联盟](http://www.wilpf.org/)
 
 ## 相关词条
 

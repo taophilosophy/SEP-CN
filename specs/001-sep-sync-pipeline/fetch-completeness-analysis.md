@@ -7,7 +7,7 @@
 一个词条页 = 站点框架 + 词条内容两部分；本管线**只抓词条内容**：
 
 | 层 | 内容 | 是否抓取 | 理由 |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 站点框架 | 9 个 CSS `<link>`、MathJax JS/字体、symbols/ 站内框架图（logo 5 个/页）、导航 chrome | **不抓**（有意设计） | 转换只需要词条正文；样式由本地 VitePress 提供 |
 | 词条正文 | index.html（BEGIN/END ARTICLE 注释界定，153KB 量级） | ✅ | 转换源 |
 | pubinfo / article-copyright | 版本事实 + 版权 meta | ✅（在 index.html 内） | 版本钉来源 |

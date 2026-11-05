@@ -16,7 +16,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 ## 2. 分工（按此优先级领取）
 
 | 阶段 | 内容 | 认领方式 | 前置 |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **A. 工作流验证**（首个会话，P0） | Wave 0 五词条**翻译**全流程实跑：abduction（短）、logic-classical（1545 公式）、action-perception（含图）、bayes-theorem（脚注+表格）、set-theory（补充材料）——specs/005 Wave 0 | 手动认领 `a/c/l/b/s` 批次中对应词条 | 无——**批量翻译须等本阶段通过** |
 | **B. 批次预处理**（可 N 会话并行） | 各批 intake → fetch → convert 三阶段（`campaign.py next` 领批） | `campaign.py claim` | 无——可与阶段 A 并行 |
 | **C. 批次翻译**（可 N 会话并行） | 各批 translate 阶段：`campaign.py slugs <批>` 逐词条 `task_ops.py create --kind retranslate` + 状态机 | `campaign.py claim` | **阶段 A 验收通过后** |
@@ -26,7 +26,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 ## 3. 各阶段的标准作业（每批次）
 
 | phase | 命令 | 完成判据 |
-|---|---|---|
+| --- | --- | --- |
 | intake | `python tools/summary_sync.py report` 查看 ADD 队列；逐条 `apply-add <slug> --title-zh "译名"`（译名先登记 yi-zhe-shuo-ming.md，沿用集群命名惯例） | `report` 队列清空 |
 | fetch | `python tools/fetch_entry.py $(python tools/campaign.py slugs <批>)`；`fetch_audit.py $(...)` 补缺件 | `campaign.py status` 该批 基线=总 |
 | convert | `python tools/yuanwen.py $(python tools/campaign.py slugs <批>)` | 该批 镜像=总 |
@@ -35,7 +35,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 
 每阶段完成后：`campaign.py advance <批次> <下一阶段> --note "计数依据"`。**账本阶段只在事实满足时推进**（note 写明计数）。
 
-> **工作量提示（ADR-0011）**：含中国文献的词条（chinese-* 簇约 30 条 + 全库罗马化线索约 170–280 条，探针见 `tools/biblio_audit.py --all` 的 flagged）文献还原额外 +10–15% 工时；认领 chinese-* 簇的会话按此排程。
+> **工作量提示（ADR-0011）**：含中国文献的词条（chinese-*簇约 30 条 + 全库罗马化线索约 170–280 条，探针见 `tools/biblio_audit.py --all` 的 flagged）文献还原额外 +10–15% 工时；认领 chinese-* 簇的会话按此排程。
 
 ## 4. 纪律（违反即返工）
 

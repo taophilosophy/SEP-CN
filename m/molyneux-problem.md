@@ -1,4 +1,5 @@
 # 莫利纽克斯问题 Molyneux’s problem (Brian Glenney, Gabriele Ferretti, and Marjolein Degenaar)
+
 *首次发表于 2005 年 6 月 30 日；2026 年 1 月 8 日实质修订。*
 
 莫利纽克斯问题问道：一个先天失明、能凭触觉区分球体与立方体的人，倘若视力得以恢复，能否单凭视觉认出这些形状。
@@ -152,7 +153,7 @@
 
 ## 其他网络资源
 
-- [莫利纽克斯问题](http://www.iep.utm.edu/molyneux)，《互联网哲学百科全书》（*Internet Encyclopedia of Philosophy*）词条，Brian Glenney 撰。
+* [莫利纽克斯问题](http://www.iep.utm.edu/molyneux)，《互联网哲学百科全书》（*Internet Encyclopedia of Philosophy*）词条，Brian Glenney 撰。
 
 ## 相关词条
 

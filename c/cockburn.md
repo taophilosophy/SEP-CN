@@ -54,7 +54,7 @@
 
 ## 其他网络资源
 
-- De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”, entry in the *Internet Encyclopedia of Philosophy*.
+* De Tommaso, Emilio, 2018, “[Catharine Trotter Cockburn](https://iep.utm.edu/catharine-trotter-cockburn/)”, entry in the *Internet Encyclopedia of Philosophy*.
 
 ## 相关词条
 

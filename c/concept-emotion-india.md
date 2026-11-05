@@ -161,7 +161,7 @@
 
 ## 其他网络资源
 
-- [Göttingen Register of Electronic Texts in Indian Languages (GRETIL)](http://gretil.sub.uni-goettingen.de/gretil.html)
+* [Göttingen Register of Electronic Texts in Indian Languages (GRETIL)](http://gretil.sub.uni-goettingen.de/gretil.html)
 
 ## 相关词条
 

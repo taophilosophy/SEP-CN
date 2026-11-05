@@ -1,4 +1,5 @@
 # 欧塞尔的兰伯特 Lambert of Auxerre (Sara L. Uckelman)
+
 **首次发表于 2024 年 4 月 3 日。**
 
 欧塞尔的兰伯特（?）（Lambertus, Lambert, Lagny 的兰伯特, Ligny 的兰伯特）是十三世纪法国逻辑学家，其专著《兰伯特大全》（*Summa Lamberti*）为 1240 至 1270 年间写成的“四大”逻辑教科书之一，代表了中世纪逻辑词项派时期（约 1175–1270）的巅峰。
@@ -23,9 +24,9 @@ Maloney 的译本遵循 Alessio 的版本（Maloney 2015: xlvii）[^maloney-2015
 
 《兰伯特大全》作者的身份不确定——只知他名叫兰伯特（此归属至少见于四份手稿，并为后来的编年史家与历史学家所重复；Maloney 2015: xvi）[^maloney-2015]。三份手稿在其给出的进一步区分上各不相同（de Libera 1981: 229）[^libera-1981]：
 
-- 特鲁瓦手稿 2402，f. 88v：*magistri Lamberti di Liniaco castro*，“利尼勒沙泰勒的兰伯特老师”。
-- 剑桥手稿 210，f. 47rb：*magistri Lamberti fratris de Sancto Victore sive Sancti Victoris*，“圣维克多的兄弟兰伯特老师”。
-- 帕多瓦手稿 647，f. 131v：*fratre de ordine Predicatorum qui vocatus fuerat Lambertus*，“一名宣道会修士，名为兰伯特”。
+* 特鲁瓦手稿 2402，f. 88v：*magistri Lamberti di Liniaco castro*，“利尼勒沙泰勒的兰伯特老师”。
+* 剑桥手稿 210，f. 47rb：*magistri Lamberti fratris de Sancto Victore sive Sancti Victoris*，“圣维克多的兄弟兰伯特老师”。
+* 帕多瓦手稿 647，f. 131v：*fratre de ordine Predicatorum qui vocatus fuerat Lambertus*，“一名宣道会修士，名为兰伯特”。
 
 自十五世纪起，中世纪历史学家将作者鉴定为欧塞尔的一名议事司铎、多明我会的成员（Maloney 2015: xvii; Pignon 1936: 31）[^maloney-2015][^pignon-1936]。Alessio 在其《大全》版本中将欧塞尔的那位修士与来自利尼的兰伯特视为同一人（Maloney 2015: xvi）[^maloney-2015]。假定此鉴定正确，已有两种相互竞争的兰伯特传记被提出：
 
@@ -175,7 +176,7 @@ Sinkler 论证说：兰伯特关于组合与分割的讨论，影响了罗吉尔
 
 ## 其他网络资源
 
-- [逻辑博物馆：拉尼的兰伯特](https://www.logicmuseum.com/wiki/Lambert_of_Lagny)
+* [逻辑博物馆：拉尼的兰伯特](https://www.logicmuseum.com/wiki/Lambert_of_Lagny)
 
 ## 相关词条
 

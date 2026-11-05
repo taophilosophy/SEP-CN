@@ -114,7 +114,7 @@ Goddu (381–84) 有说服力地主张：尽管哥白尼最初的动机是不满
 
 ## 其他网络资源
 
-- [尼古拉·哥白尼（Nicolaus Copernicus）](https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)，《MacTutor 数学史档案》条目，由苏格兰圣安德鲁斯大学数学与统计学院的 J.J. O’Connor 与 E.F. Robertson 维护。
+* [尼古拉·哥白尼（Nicolaus Copernicus）](https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)，《MacTutor 数学史档案》条目，由苏格兰圣安德鲁斯大学数学与统计学院的 J.J. O’Connor 与 E.F. Robertson 维护。
 
 ## 相关词条
 

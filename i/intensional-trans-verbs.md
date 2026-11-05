@@ -54,7 +54,7 @@ Superman is someone such that Lex Luthor fears(-true the proposition) that he is
 
 但表面上看，涵义与指称的这一区分，只是使（1）按（2a）方式理解时**表达一个不同于** 以下句子的命题：
 
- **(2c)** 
+ **(2c)**
 
 Lex Luthor fears that Clark is nearby（莱克斯·卢瑟害怕克拉克在附近）。
 
@@ -62,13 +62,13 @@ Lex Luthor fears that Clark is nearby（莱克斯·卢瑟害怕克拉克在附�
 
 像这样的观点能够解释其他内涵性效应。‘Lex fears that an extraterrestrial is nearby’（莱克斯害怕一个外星人在附近）中的特指—非特指歧义，可以用辖域歧义来解释，概念或非特指读解对应于
 
- **(3a)** 
+ **(3a)**
 
 Lex fears-true the proposition that an extraterrestrial is nearby（莱克斯害怕-为真命题：一个外星人在附近）
 
 而关系或特指读解对应于
 
- **(3b)** 
+ **(3b)**
 
 An extraterrestrial is such that Lex fears that it is nearby（一个外星人是这样一个东西，莱克斯害怕它在附近）。
 
@@ -84,7 +84,7 @@ An extraterrestrial is such that Lex fears that it is nearby（一个外星人�
 
 （B）辖域说明是内涵性效应的单一解释的唯一真正竞争者。但关于它能否从句法动词迁移到及物动词，存在一个重大问题。因为内涵性效应都与名词短语（NP）的窄辖域出现相关联，而对及物动词，当 NP 被量化时，这种句法构型是有问题的。这是因为，在一阶句法标准中，一个量词必须在它的辖域内有一个句子（一个含自由变量的开语句，该变量由 NP 约束，如果在句法中排除冗余量化）。我们可以为关系或宽辖域读解提供这一点，例如
 
- **(4)** 
+ **(4)**
 
 An extraterrestrial is such that Lois is looking for it（一个外星人是这样一个东西，露易丝正在寻找它）
 
@@ -96,23 +96,23 @@ An extraterrestrial is such that Lois is looking for it（一个外星人是这�
 
 揭示隐藏材料以为内涵 VP 概念读解中的 NP 提供句子辖域的想法，在 Quine 1956 中得到显著支持，那里的提议是用‘endeavor to find’（努力找到）来改写搜寻动词。于是对（5a）我们有（5b）：
 
- **(5a)** 
+ **(5a)**
 
 Lois is looking for an extraterrestrial（露易丝正在寻找一个外星人）
 
- **(5b)** 
+ **(5b)**
 
 Lois is endeavoring to find an extraterrestrial（露易丝正在努力找到一个外星人）
 
 帕蒂（Partee 1974, 97）反对说，这不可能是全部情形，因为搜寻动词并不都是同义词（‘groping for’（摸索寻找）与‘rummaging about for’（翻找）意思并不完全相同），但登·迪肯、拉森与拉德洛（den Dikken, Larson, & Ludlow 1996）和 Parsons（1997, 381）建议用搜寻动词本身来代替‘endeavor’（努力）。于是我们得到
 
- **(6a)** 
+ **(6a)**
 
 Lois is looking to find an extraterrestrial（露易丝正在寻找以找到一个外星人）
 
 或者用某种不太蒯因式的说法，
 
- **(6b)** 
+ **(6b)**
 
 Lois is looking in order to make true the proposition that an extraterrestrial is such that she herself finds it.[^note-3]（露易丝正在寻找，以便使“一个外星人是这样一个东西，她本人找到它”这一命题为真。）
 
@@ -144,7 +144,7 @@ Physics will need some new computers next year（物理系明年将需要一些�
 
 最后，省略产生类似的歧义：
 
- **(10)** 
+ **(10)**
 
 Physics will need some new computers before Chemistry（物理系将在化学系之前需要一些新电脑）
 
@@ -152,13 +152,13 @@ Physics will need some new computers before Chemistry（物理系将在化学系
 
 然而，关于‘need’或‘want’隐藏‘get’的情形之强，与关于搜寻动词的命题主义之情形形成对比。正如帕蒂（Partee 1974, 99）所观察，对后者没有像（9）那样的附着歧义。例如，
 
- **(11)** 
+ **(11)**
 
 Physics will shop for some new computers next year（物理系明年将采购一些新电脑）
 
 只能表示采购将在明年发生。没有对应于（9）的另一读解的第二种读解，其中‘next year’（明年）附着于一个隐藏的‘find/buy’（找到/购买）。（8）和（10）中的现象也缺乏与搜寻动词的类似物；例如，‘Physics will shop for some new computers before Chemistry’（物理系将在化学系之前采购一些新电脑）缺乏这样一个读解：物理系带着以下目标采购，即在化学系找到/购买任何新电脑之前找到/购买新电脑。而且，尽管命题主义者可能提供类似
 
- **(12)** 
+ **(12)**
 
 Physics will seek more office space by noon（物理系将在中午前寻求更多办公空间）
 
@@ -192,9 +192,9 @@ Physics will seek more office space by noon（物理系将在中午前寻求更�
 
 应在每个世界为真，即指称 TRUE。[^note-5] 所以（13）的内涵是那个 *sb* 类型函数 *f*，使得对每个世界 w，*f*(w) = TRUE。这是一个**常** 内涵。另一方面，
 
- **(14)** 
+ **(14)**
 
- **(every(pringle(sweater)))(woollen)** 
+ **(every(pringle(sweater)))(woollen)**
 
 在一些世界为真，在另一些世界为假，即那些普林格制造非羊毛毛衣的世界；所以它的内涵是非常数的。
 
@@ -202,17 +202,17 @@ Physics will seek more office space by noon（物理系将在中午前寻求更�
 
 由于 **contingent** 期望一个 *sb* 类型的输入，我们不能写
 
- **(15)** 
+ **(15)**
 
- **contingent((every(woollen(sweater)))(woollen))** 
+ **contingent((every(woollen(sweater)))(woollen))**
 
 因为在世界 *w* 评价这一公式时，我们会发现自己在试图把 **contingent** 在 w 的指称，即刚才定义的函数 *c*，应用到 **(every(woollen(sweater)))(woollen)** 在 w 的指称，即真值 TRUE。但 *c* 需要一个 *sb* 类型的输入，而非 *b* 类型。于是我们引入一个新算子，写作 **^**，使得如果 X 是一个表达式且 **t** 是 X 在每个世界 *w* 的指称的类型，那么在每 *w* 处，**^**X 在 w 的指称属于类型 s**t**。**^**X 可以被读作“X 的内涵”，因为**^** 的规则是：在每个世界 *w* 处，**^** X 指称那个对每个世界 *u* 输出 X 在 *u* 的指称的函数。
 
 如果我们现在在世界 *w* 评价
 
- **(16)** 
+ **(16)**
 
- **contingent^((every(woollen(sweater)))(woollen))** 
+ **contingent^((every(woollen(sweater)))(woollen))**
 
 结果会是 FALSE。这是因为 *sb* 类型函数 *p*（即**^((every(woollen(sweater)))(woollen))** 在每个世界的指称）把每个世界映到 TRUE。所以不存在 *u* 使得 *p*(*u*) = FALSE。但对 **^((every(pringle(sweater)))(woollen))** 存在这样的 *u*，所以
 
@@ -228,13 +228,13 @@ Physics will seek more office space by noon（物理系将在中午前寻求更�
 
 这对内涵及物动词语义学的意义在于，我们现在有了一种表示如下读解的方式：
 
- **(18)** 
+ **(18)**
 
 Jack wants a woollen sweater（杰克想要一件羊毛毛衣）
 
 其中量化 NP 处于动词的语义辖域内，而不必辖域在一个带自由变量的隐藏子句之上（回忆（6b））：量化 NP‘a woollen sweater’（一件羊毛毛衣）可以就是动词的主目。为了容许及物动词的内涵性，蒙太古采纳这样的规则：如果 *x* 和 *y* 可以连接成有意义的表达式 *xy*，那么函数表达式的指称是一个作用于主目表达式的**内涵**的函数。略去一些无关细节，这意味着：如果‘wants’与‘a woollen sweater’句法组合产生 VP‘wants a woollen sweater’，那么在其语义学中，**want**应用于**(a(woollen(sweater)))** 的内涵，产生（18）的如下语义：
 
- **(19)** 
+ **(19)**
 
  **want(^(a(woollen(sweater))))(jack)**.[^note-7]
 
@@ -262,11 +262,11 @@ Jack wants a woollen sweater（杰克想要一件羊毛毛衣）
 
 （Moltmann 1997）[^moltmann-1997] 和（Richard 2001）[^richard-2001] 都可以被读作，在蒙太古的一般进路内，提供了“站在对一个性质的性质的态度关系”是什么的说明。两种说明都是模态的，涉及态度在某种意义上是与情境“匹配”的可能性情境的性质：需要或期望的态度状态，如果需要或期望得到满足则匹配；欲望的态度状态，如果欲望得到满足则匹配；搜寻的态度事件，如果搜寻成功结束则匹配；如此等等。根据摩尔曼的说明（1997, 22–3），一个人对 **^(a(woollen(sweater)))**站在搜寻的态度关系中，当且仅当，在搜寻成功结束的每一个**极小情境**σ 中，你在 σ 中找到一件羊毛毛衣（关于她观点的发展，又见 Moltmann（2013, Ch.5））。理查德（2001, 116）提供了一个复杂的分析，旨在处理否定量化 NP 也是如此（‘no woollen sweater’（没有羊毛毛衣）、‘few woollen sweaters’（少数羊毛毛衣），等等）。在这一说明中，一个搜寻 π**要求** **^(a(P))**，当且仅当对 π 的每个相关成功故事 *m* = ⟨*w*, *s*⟩，*s* 中具有蕴含 **P**的性质的事物，处于**^(a(P))** 在 *w* 的外延中。这里 *s* 是搜寻在 *w* 成功结束时被找到的事物的集合。
 
-相比之下，Zalta（1988）、Zimmerman（1993）和 Forbes（2000; 2006）提议修订（19）本身及其同类。扎尔塔制定了一种内涵语义学，其中命题被直接构造，使用各种构造运算，从原初对象和性质开始。例如，一个原初的一元性质有一个空隙，而有一个插塞运算允许该空隙被一个对象填满以产生一个一元命题。这反过来可被识别为某特定句子所表达的东西，通过标准递归得出。然而，扎尔塔对蒙太古式进路的主要反对，不是“对性质的性质持有一个态度”这一想法没有直觉内容（特殊情况除外）。而是，某些正确的蕴含没有得到验证，例如从‘John is looking in his briefcase for a pen’（约翰正在他的公文包里找一支笔）到‘John is looking in his briefcase for something’（约翰正在他的公文包里找某物）的蕴含。约翰在公文包里找的可能是也可能不是一支特定的笔，但在任何一种情况下，正如扎尔塔所评论（1988, 81），“如果有人拍拍他的肩膀问他在做什么，他可能回答‘我在找某物’”，无论前提如何被理解，这似乎都自然且为真。蒙太古可以用意义公设强制这一结果，但它直接从扎尔塔对非特指读解的说明中流出，在其中区分了 **例示**（*exemplifying **）与** **编码** *（*encoding*）性质。‘looking for a pen’（找一支笔）的概念读解，仅当存在一个编码是笔性质的抽象对象，且约翰与之处于搜寻关系时才被满足，所以约翰确实在找某物（Zalta 1988, 82–3）[^zalta-1988]。
+相比之下，Zalta（1988）、Zimmerman（1993）和 Forbes（2000; 2006）提议修订（19）本身及其同类。扎尔塔制定了一种内涵语义学，其中命题被直接构造，使用各种构造运算，从原初对象和性质开始。例如，一个原初的一元性质有一个空隙，而有一个插塞运算允许该空隙被一个对象填满以产生一个一元命题。这反过来可被识别为某特定句子所表达的东西，通过标准递归得出。然而，扎尔塔对蒙太古式进路的主要反对，不是“对性质的性质持有一个态度”这一想法没有直觉内容（特殊情况除外）。而是，某些正确的蕴含没有得到验证，例如从‘John is looking in his briefcase for a pen’（约翰正在他的公文包里找一支笔）到‘John is looking in his briefcase for something’（约翰正在他的公文包里找某物）的蕴含。约翰在公文包里找的可能是也可能不是一支特定的笔，但在任何一种情况下，正如扎尔塔所评论（1988, 81），“如果有人拍拍他的肩膀问他在做什么，他可能回答‘我在找某物’”，无论前提如何被理解，这似乎都自然且为真。蒙太古可以用意义公设强制这一结果，但它直接从扎尔塔对非特指读解的说明中流出，在其中区分了 **例示**（*exemplifying **）与** **编码***（*encoding*）性质。‘looking for a pen’（找一支笔）的概念读解，仅当存在一个编码是笔性质的抽象对象，且约翰与之处于搜寻关系时才被满足，所以约翰确实在找某物（Zalta 1988, 82–3）[^zalta-1988]。
 
 Zimmerman（1993, 161–2）用量词内涵取代性质内涵，因为他认为（i）非特指读解被限制于“广义”存在量词 NP，且（ii）与存在 NP 中名词（词组）对应的性质（如‘woollen sweater’）可以代替 NP 本身尽职。当然，把非特指读解限制于存在量词是有争议的（*cf.* 我们早先的例子，‘the police are looking for everyone who witnessed the incident’（警方正在寻找每一个目击了该事件的人））。也可能要怀疑，解释“站在对对象性质而不是对性质的性质的搜寻关系中”是什么，是否不比解释后者有更少需要（但对此类反对的回应，见 Grzankowski 2018, 146–9）[^grzankowski-2018]。
 
-根据（Forbes 2000）[^forbes-2000]，这种解释的需要已经威胁到‘look for’这类动词在‘look for **那** *件羊毛毛衣’与‘look for some woollen sweater’（寻找某件羊毛毛衣）中的单义性。观察到搜寻动词是行动动词，福布斯把戴维森的事件语义学应用于它们（Davidson 1967）[^davidson-1967]。在这一语义学中，如 Parsons 1990 所修订和扩展，搜寻动词成为事件的谓词，而在关系（特指）读解中，被搜寻的对象被说成与事件处于题元关系中，该关系由‘for’（为了）标示；所以如果我在寻找一件特定的羊毛毛衣，即你在顶层抽屉里看到的那**一件**，这意味着‘some search *e* such that I am the agent of *e* is for **那** *件羊毛毛衣’。相比之下，在非特指读解中，没有涉及与毛衣的题元关系；相反，量化 NP 被用来 **刻画**该搜寻，或给它指派一个**种类**。于是我们会有‘some search *e* is characterized by **^(a(woollen(sweater)))**’（存在搜寻 *e* 由 **^(a(woollen(sweater)))** 刻画），即 *e* 是那种寻找一件羊毛毛衣的搜寻（Forbes 2000, 174–6; 2006, 77–84）[^forbes-2000]。谓词‘search’（搜寻）跨特指与非特指读解是单义的，而一个搜寻被一个量词刻画是什么，比如说 **^(a(woollen(sweater)))**，通过“结果公设”得到解释。就当前例子而言，作为第一次近似，一个搜寻被 **^(a(woollen(sweater)))**刻画，当且仅当该搜寻成功结束的任一事件进程都包含一个找到一件羊毛毛衣的事件，且该找到事件的施事是该搜寻的施事。类似的公设可以为例如期望的满足和欲望的满足给出：于是，一个欲望状态被**^(a(woollen(sweater)))** 刻画，当且仅当该欲望被满足的任一事件进程都包含一个获得一件羊毛毛衣、其接受者是该搜寻施事的事件（Forbes 2006, 94–129）[^forbes-2006]。所以理论的这一部分与摩尔曼和理查德相似，但它分析的是一个事件被一个量词刻画，而非是为该量词而存在。扎尔塔的要求——找一件羊毛毛衣、而非任何特定的一件，要蕴含找某物——可以以多种方式满足，其中最简单的是把它当作合取消去：“我在找某物”意味着我是某个寻找事件的施事。或者，由于这里的‘something’（某物）是摩尔曼所谓的‘特殊’量词（见例如 Moltmann 2013, 169–175）[^moltmann-2013]，可以采用一种以这类量词为关键（keyed）的语义学。
+根据（Forbes 2000）[^forbes-2000]，这种解释的需要已经威胁到‘look for’这类动词在‘look for **那** *件羊毛毛衣’与‘look for some woollen sweater’（寻找某件羊毛毛衣）中的单义性。观察到搜寻动词是行动动词，福布斯把戴维森的事件语义学应用于它们（Davidson 1967）[^davidson-1967]。在这一语义学中，如 Parsons 1990 所修订和扩展，搜寻动词成为事件的谓词，而在关系（特指）读解中，被搜寻的对象被说成与事件处于题元关系中，该关系由‘for’（为了）标示；所以如果我在寻找一件特定的羊毛毛衣，即你在顶层抽屉里看到的那**一件**，这意味着‘some search *e* such that I am the agent of *e* is for **那***件羊毛毛衣’。相比之下，在非特指读解中，没有涉及与毛衣的题元关系；相反，量化 NP 被用来 **刻画**该搜寻，或给它指派一个**种类**。于是我们会有‘some search *e* is characterized by **^(a(woollen(sweater)))**’（存在搜寻 *e* 由 **^(a(woollen(sweater)))** 刻画），即 *e* 是那种寻找一件羊毛毛衣的搜寻（Forbes 2000, 174–6; 2006, 77–84）[^forbes-2000]。谓词‘search’（搜寻）跨特指与非特指读解是单义的，而一个搜寻被一个量词刻画是什么，比如说 **^(a(woollen(sweater)))**，通过“结果公设”得到解释。就当前例子而言，作为第一次近似，一个搜寻被 **^(a(woollen(sweater)))**刻画，当且仅当该搜寻成功结束的任一事件进程都包含一个找到一件羊毛毛衣的事件，且该找到事件的施事是该搜寻的施事。类似的公设可以为例如期望的满足和欲望的满足给出：于是，一个欲望状态被**^(a(woollen(sweater)))** 刻画，当且仅当该欲望被满足的任一事件进程都包含一个获得一件羊毛毛衣、其接受者是该搜寻施事的事件（Forbes 2006, 94–129）[^forbes-2006]。所以理论的这一部分与摩尔曼和理查德相似，但它分析的是一个事件被一个量词刻画，而非是为该量词而存在。扎尔塔的要求——找一件羊毛毛衣、而非任何特定的一件，要蕴含找某物——可以以多种方式满足，其中最简单的是把它当作合取消去：“我在找某物”意味着我是某个寻找事件的施事。或者，由于这里的‘something’（某物）是摩尔曼所谓的‘特殊’量词（见例如 Moltmann 2013, 169–175）[^moltmann-2013]，可以采用一种以这类量词为关键（keyed）的语义学。
 
 因此有各种不同的对内涵及物动词的非命题主义进路。正如我们已经提到的，一种可能是命题主义对某些动词正确、非命题主义对另一些正确。然而，也有选项：非命题主义对全部正确。作出这一主张的非命题主义者，将必须解释（7）–（10）所说明的现象，而不引入使这些现象为何不对所有内涵及物动词出现变得不可理解的自由度。
 
@@ -274,17 +274,17 @@ Zimmerman（1993, 161–2）用量词内涵取代性质内涵，因为他认为�
 
 内涵及物动词也牵涉到另一个替换之谜，除了已经讨论的那些之外。在命题态度报告的文献中，通行的看法是，这类报告中的补语从句指称命题。所以，例如在‘Holmes believes that Moriarty has returned’（福尔摩斯相信莫里亚蒂回来了）中，从句‘that Moriarty has returned’（莫里亚蒂回来了）被认为表示莫里亚蒂回来了这一命题。整个归属被理解为具有形式 *Rab*，就例子而言即：福尔摩斯（**a**）与莫里亚蒂回来了这一命题（**b**）处于相信（*R*）关系中。然而，除了被 that 从句所指称之外，命题还很可能是命题描述语所指称的东西——明确使用‘the proposition’（命题）的名词短语，例如在上一句中，‘the proposition that Moriarty has returned’（莫里亚蒂回来了这一命题）。所以，如果从句与描述语同指称，我们就有如下真句：
 
- **(20)** 
+ **(20)**
 
 that Moriarty has returned is the proposition that Moriarty has returned（莫里亚蒂回来了，就是莫里亚蒂回来了这一命题）。
 
 但于是我们应该能够把命题描述语替换 that 从句，而这对‘believes’（相信）确实相当有效：相信莫里亚蒂回来了，与相信莫里亚蒂回来了这一命题似乎没有多大差别，尽管用描述语替换从句的一个副作用是把‘believes’的从句用法转换为及物用法。然而，‘believes’在这方面相当特殊。尽管有（20），下面的（21a）和（21b）似乎具有非常不同的意义：
 
- **(21a)** 
+ **(21a)**
 
 Holmes {fears/suspects} that Moriarty has returned.（福尔摩斯{害怕/怀疑}莫里亚蒂回来了。）
 
- **(21b)** 
+ **(21b)**
 
 Holmes {fears/suspects} the proposition that Moriarty has returned.（福尔摩斯{害怕/怀疑}莫里亚蒂回来了这一命题。）
 
@@ -302,11 +302,11 @@ Holmes {fears/suspects} the proposition that Moriarty has returned.（福尔摩�
 
 事件语义学（见上面第 5 节，*ad fin*）提供了可能避免任何语词歧义需要的替代方案。一个初步提议在 Pietroski 2000 中为‘explain’（解释）作出，其行为与‘fear’和‘suspect’相似，如
 
- **(22a)** 
+ **(22a)**
 
 Martin explained that the nothing nothings itself.（马丁解释了无物自我无化。）
 
- **(22b)** 
+ **(22b)**
 
 Martin explained the proposition that the nothing nothings itself.（马丁解释了无物自我无化这一命题。）
 
@@ -330,19 +330,19 @@ Martin explained the proposition that the nothing nothings itself.（马丁解�
 
 不可否认这里有一个真实现象，但也许它属于语用学而非语义学。如果我说‘I want a sloop’（我要一艘单桅帆船），一个主动提出为我买港口里任何一艘浮着单桅帆船的人，如果我以那些单桅帆船中没有一艘满足我未言明的船体千疮百孔的要求为由拒绝，他就可以合理地抱怨“你本应早就说出来”。而如果正常性是一种 **缺省隐涵**或预设，且合作的说话者在它不生效时有义务让听众知道它不生效，那么我的恩人慷慨者的抱怨就是正当的。按照这一观点，尽管你欲望细节的古怪，说你想要一艘单桅帆船仍字面为真。然而，这远非故事的终结。对弱化有疑虑的人会发现 Sainsbury 2018（129–133）中的讨论是合意的。
 
-另一个有趣的逻辑问题涉及对象归属中析取量化 NP 的“合取力”。在许多其他语境中有大量关于析取合取力的文献（例如，Kamp 1973, Loewer 1976, Makinson 1984, Jennings 1994, Zimmerman 2000, Simons 2005, Fox 2007, Forbes 2014）[^forbes-2014][^fox-2007][^jennings-1994][^kamp-1973][^loewer-1976][^makinson-1984][^simons-2005][^zimmerman-2000]，例如表现在‘*x* is larger than *y* or *z*’（*x* 比 *y* 或 *z* 大）和‘John can speak to you in French or in Italian’（约翰可以用法语或意大利语对你说话）中。在这些情形中，合取力很容易通过简单分配捕捉：‘*x* is larger than *y* and larger than *z*’（*x* 比 *y* 大且比 *z* 大）、‘John can speak to you in French and can speak to you in Italian’（约翰可以用法语和你说话，也可以用意大利语和你说话）。[^note-12] 然而，在内涵及物动词中，我们发现了同样的合取力，但没有分配性表述。如果我们说杰克需要一件羊毛毛衣或一件抓绒夹克，我们就说了这样的事：（i）他得到一件羊毛毛衣是他的需要能得到满足的一种方式，**并且** *（ii）他得到一件抓绒夹克是他的需要能得到满足的一种方式。但‘Jack needs a woollen sweater or a fleece jacket’（杰克需要一件羊毛毛衣或一件抓绒夹克）**并不**意味着杰克需要一件羊毛毛衣**并且** *需要一件抓绒夹克。这最后一个合取归属两种需要，只有一种能通过得到一件羊毛毛衣满足。但后者这一获得本身能满足对一件羊毛毛衣或一件抓绒夹克的析取性需要。所以存在一个挑战：在保持一个能容纳所有合取力情形——比较句、‘can’（能）的各种意义、析取前件的反事实句（“如果杰克穿上羊毛毛衣或抓绒夹克，他就会更暖和”），等等——的框架内，解释析取归属的语义学；又见（Forbes 2006, 97–111）[^forbes-2006]。
+另一个有趣的逻辑问题涉及对象归属中析取量化 NP 的“合取力”。在许多其他语境中有大量关于析取合取力的文献（例如，Kamp 1973, Loewer 1976, Makinson 1984, Jennings 1994, Zimmerman 2000, Simons 2005, Fox 2007, Forbes 2014）[^forbes-2014][^fox-2007][^jennings-1994][^kamp-1973][^loewer-1976][^makinson-1984][^simons-2005][^zimmerman-2000]，例如表现在‘*x* is larger than *y* or *z*’（*x* 比 *y* 或 *z* 大）和‘John can speak to you in French or in Italian’（约翰可以用法语或意大利语对你说话）中。在这些情形中，合取力很容易通过简单分配捕捉：‘*x* is larger than *y* and larger than *z*’（*x* 比 *y* 大且比 *z* 大）、‘John can speak to you in French and can speak to you in Italian’（约翰可以用法语和你说话，也可以用意大利语和你说话）。[^note-12] 然而，在内涵及物动词中，我们发现了同样的合取力，但没有分配性表述。如果我们说杰克需要一件羊毛毛衣或一件抓绒夹克，我们就说了这样的事：（i）他得到一件羊毛毛衣是他的需要能得到满足的一种方式，**并且** *（ii）他得到一件抓绒夹克是他的需要能得到满足的一种方式。但‘Jack needs a woollen sweater or a fleece jacket’（杰克需要一件羊毛毛衣或一件抓绒夹克）**并不**意味着杰克需要一件羊毛毛衣**并且***需要一件抓绒夹克。这最后一个合取归属两种需要，只有一种能通过得到一件羊毛毛衣满足。但后者这一获得本身能满足对一件羊毛毛衣或一件抓绒夹克的析取性需要。所以存在一个挑战：在保持一个能容纳所有合取力情形——比较句、‘can’（能）的各种意义、析取前件的反事实句（“如果杰克穿上羊毛毛衣或抓绒夹克，他就会更暖和”），等等——的框架内，解释析取归属的语义学；又见（Forbes 2006, 97–111）[^forbes-2006]。
 
 我们要提到的倒数第二种推理，是内涵与外延动词都出现、且即使内涵 VP 被非特指地构式，推理似乎也有效的一种。一个例子：
 
- **(23a)** 
+ **(23a)**
 
 Jack wants a woollen sweater（杰克想要一件羊毛毛衣）
 
- **(23b)** 
+ **(23b)**
 
 Whatever Jack wants, he gets（无论杰克想要什么，他都得到）
 
- **(23c)** 
+ **(23c)**
 
 Therefore, Jack will get a woollen sweater（因此，杰克将得到一件羊毛毛衣）
 
@@ -350,25 +350,25 @@ Therefore, Jack will get a woollen sweater（因此，杰克将得到一件羊�
 
 这里要考虑的最后一个例子涉及内涵及物动词辖域内的虚构或神话专名。这些可以导致的谜题的一个例子（Zalta 1988, 128）[^zalta-1988] 是：
 
- **(24a)** 
+ **(24a)**
 
 The ancient Greeks worshipped Zeus.（古希腊人崇拜宙斯。）
 
- **(24b)** 
+ **(24b)**
 
 Zeus is a mythical character.（宙斯是一个神话人物。）
 
- **(24c)** 
+ **(24c)**
 
 Mythical characters do not exist.（神话人物不存在。）
 
- **(24d)** 
+ **(24d)**
 
 Therefore, the ancient Greeks worshipped something that does (did) not exist.（因此，古希腊人崇拜了某个不存在（现在不存在或过去不存在）的东西。）
 
 或者甚至：
 
- **(24e)** 
+ **(24e)**
 
 Therefore, there is something that doesn't exist such that the ancient Greeks worshipped it.（因此，存在某个不存在的东西，古希腊人崇拜了它。）
 
@@ -380,7 +380,7 @@ Therefore, there is something that doesn't exist such that the ancient Greeks wo
 
 这为（24）中的陈述给出了正确的真值，但可能被认为与‘Zeus lives on Mt. Olympus’（宙斯住在奥林匹斯山）这类说法有麻烦：如果‘Zeus’指称一个抽象对象，宙斯怎么能住在任何地方？处理这类情形的一种方式是假定（显然合理地）说‘Zeus lives on Mt. Olympus’且知道事实的人意指
 
- **(25)** 
+ **(25)**
 
 According to the myth, Zeus lives on Mt. Olympus.（根据神话，宙斯住在奥林匹斯山。）
 
@@ -573,4 +573,4 @@ According to the myth, Zeus lives on Mt. Olympus.（根据神话，宙斯住在�
 
 组合性 | 戈特洛布·弗雷格 | 泛指概括 | 内涵逻辑 | 阿瑟·普赖尔 | 命题态度报告 | 蒙太古语义学
 
- **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）** 
+ **（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）**

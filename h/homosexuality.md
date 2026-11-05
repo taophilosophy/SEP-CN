@@ -112,7 +112,7 @@
 
 ## 其他网络资源
 
-- [酷儿理论阅读书单](https://www.brown.edu/campus-life/support/lgbtq/graduate-student-resources/queer-theory-reading-list)，由布朗大学 LGBTQ 中心编纂
+* [酷儿理论阅读书单](https://www.brown.edu/campus-life/support/lgbtq/graduate-student-resources/queer-theory-reading-list)，由布朗大学 LGBTQ 中心编纂
 
 ## 相关词条
 

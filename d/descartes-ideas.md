@@ -129,7 +129,7 @@ PR 在笛卡尔对一切原初观念的分析中起作用，这包括一切天�
 
 ## 其他网络资源
 
-- Pessin, Andrew, “Descartesʼ Theory of Ideas”，*Stanford Encyclopedia of Philosophy*（2008 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/](https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/)>。［这是《斯坦福哲学百科全书》此前关于笛卡尔观念论的词条——见[版本历史](http://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ideas)。］
+* Pessin, Andrew, “Descartesʼ Theory of Ideas”，*Stanford Encyclopedia of Philosophy*（2008 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/](https://plato.stanford.edu/archives/fall2008/entries/descartes-ideas/)>。［这是《斯坦福哲学百科全书》此前关于笛卡尔观念论的词条——见[版本历史](http://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ideas)。］
 
 ## 相关词条
 

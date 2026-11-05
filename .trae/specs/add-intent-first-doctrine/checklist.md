@@ -1,26 +1,26 @@
 # Checklist
 
-- [x] `rules/reference/engineering-doctrine/00b-zhinan-xingyi.md` 存在，含来源依据（逐条引用 00a 条目编号），且明示“知难行易”为项目侧提炼而非源文原文
-- [x] 00b 含知/行分层定义、四条命题、开工四问、六类反模式、方向声明卡模板、失效条件与复审触发
-- [x] 00b 与 `rules/04`（流程先行）、`rules/06`（质量门/破坏性动作）、doctrine 02（需求工程）的关系已写明
-- [x] `rules/08-intent-first.md` 存在，七条条文可执行，判例与 04/06 衔接段齐备
-- [x] `rules/08-intent-first.md` 不超过 300 行/30KB（`tools/check_doc_size.py` 通过，实测 59 行/4060 字节）
-- [x] `.specify/memory/constitution.md` 为 v1.2.0，新增 VII 条“知难行易（先明方向，后择手段）”，I–VI 编号与内容未改
-- [x] 宪法 VII 条覆盖方向/目标/非目标/验收判据/代价承担者先于手段、手段可替换、含糊先问不猜、以判据验收、可逆分级，并指向 `rules/08`
-- [x] 宪法版本行 `Version: 1.2.0`、`Last Amended: 2026-10-29` 已更新
-- [x] `rules/adr/0018-知难行易全局规则.md` 存在，格式符合 `rules/adr/README.md` 模板（背景/决策/后果）
-- [x] ADR-0018 写明宪法修订、代价承担者、失效条件与复审触发
-- [x] `rules/adr/README.md` 索引表含 0018 行（并补登 0017）
-- [x] `rules/README.md` 规范层级为“七项核心原则”并列出知难行易；规则索引表含 08 行；规则地图“约束性规则”为 `rules/01-08`；快速判例含方向声明判例
-- [x] `rules/06-governance.md` 首句为“宪法七原则”，并新增“任务方向声明（宪法 VII 落地）”节
-- [x] `README.md`、`CONTRIBUTING.md` 的“六项核心原则”已改为“七项核心原则”；`RELEASE-NOTES.md`、ADR-0016 历史表述未改写
-- [x] `AGENTS.md` 规范层级原则列表含“知难行易”；会话开工五分钟含“方向确认”第 0 步；硬约束速览含“知难行易”条；按任务类型必读表指向 `rules/08`
-- [x] `rules/01`、`02`、`03`、`04`、`05`、`07` 均已在任务入口处写入方向先行条款
-- [x] `tasks/README.md` 要求任务 `evidence` 首条为方向声明；`specs/005`、`specs/008` 会话开工卡含开工前方向声明
-- [x] `rules/reference/engineering-doctrine/README.md` 目录表含 00b 行；`NOTICE.md` 变更记录含 2026-10-29 行
-- [x] `specs/004-engineering-doctrine/spec.md` 复审记录已追加 2026-10-29 登记行
-- [x] 检索“六项核心原则”“宪法六原则”在权威层与入口文档无残留（仅 .trae 规划文档与历史 ADR/发布说明命中）
-- [x] 新增与修改文件中文正文引号仅 “”‘’，无直角引号（U+300C–U+300F）（历史 ADR 原文保留）
-- [x] 新增与修改文件均为 UTF-8 无 BOM、LF 换行（22 个文件实测通过）
-- [x] `python tools/check_all.py` 七项全绿
-- [x] 提交仅含本任务相关文件，提交信息为中文一行且注明“修订宪法 v1.2.0”（52c0ef56，22 个文件）
+* [x] `rules/reference/engineering-doctrine/00b-zhinan-xingyi.md` 存在，含来源依据（逐条引用 00a 条目编号），且明示“知难行易”为项目侧提炼而非源文原文
+* [x] 00b 含知/行分层定义、四条命题、开工四问、六类反模式、方向声明卡模板、失效条件与复审触发
+* [x] 00b 与 `rules/04`（流程先行）、`rules/06`（质量门/破坏性动作）、doctrine 02（需求工程）的关系已写明
+* [x] `rules/08-intent-first.md` 存在，七条条文可执行，判例与 04/06 衔接段齐备
+* [x] `rules/08-intent-first.md` 不超过 300 行/30KB（`tools/check_doc_size.py` 通过，实测 59 行/4060 字节）
+* [x] `.specify/memory/constitution.md` 为 v1.2.0，新增 VII 条“知难行易（先明方向，后择手段）”，I–VI 编号与内容未改
+* [x] 宪法 VII 条覆盖方向/目标/非目标/验收判据/代价承担者先于手段、手段可替换、含糊先问不猜、以判据验收、可逆分级，并指向 `rules/08`
+* [x] 宪法版本行 `Version: 1.2.0`、`Last Amended: 2026-10-29` 已更新
+* [x] `rules/adr/0018-知难行易全局规则.md` 存在，格式符合 `rules/adr/README.md` 模板（背景/决策/后果）
+* [x] ADR-0018 写明宪法修订、代价承担者、失效条件与复审触发
+* [x] `rules/adr/README.md` 索引表含 0018 行（并补登 0017）
+* [x] `rules/README.md` 规范层级为“七项核心原则”并列出知难行易；规则索引表含 08 行；规则地图“约束性规则”为 `rules/01-08`；快速判例含方向声明判例
+* [x] `rules/06-governance.md` 首句为“宪法七原则”，并新增“任务方向声明（宪法 VII 落地）”节
+* [x] `README.md`、`CONTRIBUTING.md` 的“六项核心原则”已改为“七项核心原则”；`RELEASE-NOTES.md`、ADR-0016 历史表述未改写
+* [x] `AGENTS.md` 规范层级原则列表含“知难行易”；会话开工五分钟含“方向确认”第 0 步；硬约束速览含“知难行易”条；按任务类型必读表指向 `rules/08`
+* [x] `rules/01`、`02`、`03`、`04`、`05`、`07` 均已在任务入口处写入方向先行条款
+* [x] `tasks/README.md` 要求任务 `evidence` 首条为方向声明；`specs/005`、`specs/008` 会话开工卡含开工前方向声明
+* [x] `rules/reference/engineering-doctrine/README.md` 目录表含 00b 行；`NOTICE.md` 变更记录含 2026-10-29 行
+* [x] `specs/004-engineering-doctrine/spec.md` 复审记录已追加 2026-10-29 登记行
+* [x] 检索“六项核心原则”“宪法六原则”在权威层与入口文档无残留（仅 .trae 规划文档与历史 ADR/发布说明命中）
+* [x] 新增与修改文件中文正文引号仅 “”‘’，无直角引号（U+300C–U+300F）（历史 ADR 原文保留）
+* [x] 新增与修改文件均为 UTF-8 无 BOM、LF 换行（22 个文件实测通过）
+* [x] `python tools/check_all.py` 七项全绿
+* [x] 提交仅含本任务相关文件，提交信息为中文一行且注明“修订宪法 v1.2.0”（52c0ef56，22 个文件）

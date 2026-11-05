@@ -204,135 +204,135 @@
 
 **以下非中文文献条目从原文照录，不作翻译；中国文献条目一律译为中文（本条无中国文献）。**
 
-- Almeida, M. and M. Bernstein, 2003. “Lucky Libertarianism,” *Philosophical Studies*, 113: 93–119.
-- Alvarez, Maria and John Hyman, 1998. “Agents and their Actions,” *Philosophy*, 73: 219–45.
-- Balaguer, Mark, 1999. “Libertarianism as a Scientifically Reputable View,” *Philosophical Studies*, 93: 189–211.
-- –––, 2004. “A Coherent, Naturalistic, and Plausible Formulation of Libertarian Free Will,” *Noûs*, 38: 379–406.
-- Berkeley, George, 1710 [1998]. *A Treatics Concerning the Principles of Human Knowledge*, Jonathan Dancy (ed.), Oxford: Oxford University Press.
-- Broad, C. D., 1952. *Ethics and the History of Philosophy*, London: Routledge & Kegan Paul.
-- Capes, Justin A., 2017. “Freedom with Causation,” *Erkenntnis*, 82: 327–338.
-- Campbell, C. A., 1957. *On Selfhood and Godhood*, London: George Allen & Unwin.
-- Chisholm, Roderick M., 1966. “Freedom and Action,” in *Freedom and Determinism*, Keith Lehrer (ed.), New York: Random House, 11–44.
-- –––, 1971. “Reflections on Human Agency,” *Idealistic Studies*, 1: 33–46.
-- –––, 1976a. “The Agent as Cause,” in *Action Theory*, Myles Brand and Douglas Walton (eds.), Dordrecht: D. Reidel, 199–211.
-- –––, 1976b. *Person and Object: A Metaphysical Study*, La Salle: Open Court.
-- –––, 1978. “Comments and Replies,” *Philosophia*, 7: 597–636.
-- Clarke, Randolph, 1993. “Toward a Credible Agent-Causal Account of Free Will,” *Noûs*, 27: 191–203.
-- –––, 1996. “Agent Causation and Event Causation in the Production of Free Action,” *Philosophical Topics*, 24 (2): 19–48.
-- –––, 1999. “Free Choice, Effort, and Wanting More,” *Philosophical Explorations*, 2: 20–41.
-- –––, 2002. “Libertarian Views: Critical Survey of Noncausal and Event-Causal Accounts of Free Agency,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 356–85.
-- –––, 2003a. “Freedom of the Will,” in *The Blackwell Guide to Philosophy of Mind*, Stephen P. Stich and Ted A. Warfield (eds.), Oxford: Blackwell, 369–404.
-- –––, 2003b. *Libertarian Accounts of Free Will*, New York: Oxford University Press.
-- –––, 2010. “Are We Free to Obey the Laws?” *American Philosophical Quarterly*, 47: 389–401.
-- –––, 2011. “Alternatives for Libertarians,” in *The Oxford Handbook of Free Will*, 2nd edition, Robert Kane (ed.), New York: Oxford University Press, 329–48.
-- Dennett, Daniel C., 1978. “On Giving Libertarians What They Say They Want,” in *Brainstorms: Philosophical Essays on Mind and Psychology*, Montgomery, Vt.: Bradford Books, 286–99.
-- Donagan, Alan, 1987. *Choice: The Essential Element in Human Action*, London: Routledge & Kegan Paul.
-- Ekstrom, Laura Waddell, 2000. *Free Will: A Philosophical Study*, Boulder: Westview Press.
-- –––, 2003. “Free Will, Chance, and Mystery,” *Philosophical Studies*, 113: 153–80.
-- –––, 2019. “Toward a Plausible Event-Causal Indeterminist Account of Free Will,” *Synthese*, 196: 127–144.
-- Feldman, Richard and Andrei A. Buckareff, YEAR. “Reasons Explanations and Pure Agency,” *Philosophical Studies*, 112: 135–45.
-- Fischer, John Martin, 1995. “Libertarianism and Avoidability: A Reply to Widerker,” *Faith and Philosophy*, 12: 119–25.
-- Frankfurt, Harry G., 1969. “Alternate Possibilities and Moral Responsibility,” *Journal of Philosophy*, 66: 828–39.
-- Franklin, Christopher, 2011a. “The Problem of Enhanced Control,” *Australasian Journal of Philosophy*, 89: 687–706.
-- –––, 2011b. “Farewell to the Luck (and Mind) Argument,” *Philosophical Studies*, 156: 199–230.
-- –––, 2018. *A Minimal Libertarianism: Free Will and the Promise of Reduction*, New York: Oxford University Press.
-- Ginet, Carl, 1989. “Reasons Explanations of Action: An Incompatibilist Account,” *Philosophical Perspectives*, 3: 17–46.
-- –––, 1990. *On Action*, Cambridge: Cambridge University Press.
-- –––, 1997. “Freedom, Responsibility, and Agency,” *Journal of Ethics*, 1: 85–98.
-- –––, 2002. “Reasons Explanations of Action: Causalist versus Noncausalist Accounts,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 386–405.
-- –––, 2007. “An Action Can Be Both Uncaused and Up to the Agent,” in *Intentionality, Deliberation and Autonomy: The Action-Theoretic Basis of Practical Philosophy*, eds. Christoph Lumer and Sandro Nannini, Aldershot, UK: Ashgate, 243–55.
-- –––, 2008. “In Defense of a Non-Causal Account of Reasons Explanations,” *Journal of Ethics*, 12: 229–37.
-- –––, 2014. “Can an Indeterministic Cause Leave a Choice up to the Agent?” in *Libertarian Free Will: Contemporary Debates*, David Palmer (ed.), New York: Oxford University Press, 15–26.
-- –––, 2016. “Reasons Explanation: Further Defense of a Non-causal Account,” *Journal of Ethics*, 20: 219–28.
-- Griffith, Meghan, 2005. “Does Free Will Remain a Mystery? A Response to van Inwagen,” *Philosophical Studies*, 124: 261–69.
-- –––, 2007. “Freedom and Trying: Understanding Agent-Causal Exertions,” *Acta Analytica*, 22: 16–28.
-- –––, 2010. “Why Agent-Caused Actions are Not Lucky,” *American Philosophical Quarterly*, 47: 43–56.
-- Goetz, Stewart, 1988. “A Noncausal Theory of Agency,” *Philosophy and Phenomenological Research*, 49: 303–16.
-- –––, 1997. “Libertarian Choice,” *Faith and Philosophy*, 14: 195–211.
-- –––, 2000. “Naturalism and Libertarian Agency,” in *Naturalism: A Critical Analysis*, William Lane Craig and J. P. Moreland (eds.), London: Routledge, 156–86.
-- Haji, Ishtiyaque, 1999a. “Indeterminism and Frankfurt-type Examples,” *Philosophical Explorations*, 2: 42–58.
-- –––, 1999b. “Moral Anchors and Control,” *Canadian Journal of Philosophy*, 29: 175–204.
-- –––, 2000a. “Indeterminism, Explanation, and Luck,” *Journal of Ethics*, 4: 211–35.
-- –––, 2000b. “Libertarianism and the Luck Objection,” *Journal of Ethics*, 4: 329–37.
-- –––, 2000c. “On the Value of Ultimate Responsibility,” in *Moral Responsibility and Ontology*, Ton van den Beld (ed.), Dordrecht: Kluwer, 155–70.
-- –––, 2001. “Control Conundrums: Modest Libertarianism, Responsibility, and Explanation,” *Pacific Philosophical Quarterly*, 82: 178–200.
-- –––, 2004. “Active Control, Agent-Causation and Free Action,” *Philosophical Explorations*, 7: 131–48.
-- Hodgson, David, 2012. *Rationality + Consciousness = Free Will*, New York: Oxford University Press.
-- Hyman, John, 2015. *Action, Knowledge, and Will*, Oxford: Oxford University Press.
-- Jacobs, Jonathan D. and Timothy O’Connor, 2013. “Agent Causation in a Neo-Aristotelian Metaphysics,” in *Mental Causation and Ontology*, S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), Oxford: Oxford University Press, 173–92.
-- Kane, Robert, 1985. *Free Will and Values*, Albany: State University of New York Press.
-- –––, 1989. “Two Kinds of Incompatibilism,” *Philosophy and Phenomenological Research*, 50: 219–54.
-- –––, 1994. “Free Will: The Elusive Ideal,” *Philosophical Studies*, 75: 25–60.
-- –––, 1996a. “Freedom, Responsibility, and Will-Setting,” *Philosophical Topics*, 24(2): 67–90.
-- –––, 1996b. *The Significance of Free Will*, New York: Oxford University Press.
-- –––, 1999a. “On Free Will, Responsibility and Indeterminism,” *Philosophical Explorations*, 2: 105–21.
-- –––, 1999b. “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism,” *Journal of Philosophy*, 96: 217–40.
-- –––, 2000a. “The Dual Regress of Free Will and the Role of Alternative Possibilities,” *Philosophical Perspectives*, 14: 57–79.
-- –––, 2000b. “Free Will and Responsibility: Ancient Dispute, New Themes,” *Journal of Ethics*, 4: 315–22.
-- –––, 2000c. “Responses to Bernard Berofsky, John Martin Fischer and Galen Strawson,” *Philosophy and Phenomenological Research*, 60: 157–67.
-- –––, 2002. “Some Neglected Pathways in the Free Will Labyrinth,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 406–37.
-- –––, 2004. “Agency, Responsibility, and Indeterminism: Reflections on Libertarian Theories of Free Will,” in *Freedom and Determinism*, eds. Joseph Keim Campbell, Michael O’Rourke, and David Shier, Cambridge, Mass.: MIT Press, 70–88.
-- –––, 2005. *A Contemporary Introduction to Free Will*, New York: Oxford University Press.
-- –––, 2007a. “Libertarianism,” in *Four Views on Free Will*, by John Martin Fischer, Robert Kane, Derk Pereboom, and Manuel Vargas, Oxford: Blackwell, 5–43.
-- –––, 2007b. “Response to Fischer, Pereboom, and Vargas,” in *Four Views on Free Will*, by John Martin Fischer, Robert Kane, Derk Pereboom, and Manuel Vargas, Oxford: Blackwell, 166–83.
-- –––, 2011. “Rethinking Free Will: New Perspectives on an Ancient Problem,” in *The Oxford Handbook of Free Will*, 2nd edition, Robert Kane (ed.), New York: Oxford University Press, 381–404.
-- –––, 2014a. “Acting ‘Of One’s Own Free Will’: Modern Reflections on an Ancient Problem,” *Proceedings of the Aristotelian Society*, 114, Part 1: 35–55.
-- –––, 2014b. “New Arguments in Debates on Libertarian Free Will: Responses to Contributors,” in *Libertarian Free Will: Contemporary Debates*, David Palmer (ed.), New York: Oxford University Press, 179–214.
-- –––, 2016. “On the Role of Indeterminism in Libertarian Free Will,” *Philosophical Explorations*, 19: 2–16.
-- –––, 2019. “The Complex Tapestry of Free Will: Striving Will, Indeterminism and Volitional Streams,” *Synthese*, 196: 145–160. doi:10.1007/s11229-016-1046-8
-- Levy, Neil, 2011. *Hard Luck: How Luck Undermines Free Will and Moral Responsibility*, Oxford: Oxford University Press.
-- Lowe, E. J., 2008. *Personal Agency: The Metaphysics of Mind and Action*, Oxford: Oxford University Press.
-- –––, 2013. “Substance Causation, Powers, and Human Agency,” in *Mental Causation and Ontology*, S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), Oxford: Oxford University Press, 153–72.
-- Mawson, T. J., 2011. *Free Will: A Guide for the Perplexed*, New York: Continuum Press.
-- Mayr, Erasmus, 2011. *Understanding Human Agency*, Oxford: Oxford University Press.
-- McCall, Storrs, 1994. *A Model of the Universe*, Oxford: Clarendon Press.
-- McCann, Hugh J., 1998. *The Works of Agency: On Human Action, Will, and Freedom*, Ithaca: Cornell University Press.
-- –––, 2012. “Making Decisions,” *Philosophical Issues*, 22: 246–63.
-- Mele, Alfred R., 1992. *Springs of Action: Understanding Intentional Behavior*, New York: Oxford University Press.
-- –––, 1995. *Autonomous Agents: From Self-Control to Autonomy*, New York: Oxford University Press.
-- –––, 1996. “Soft Libertarianism and Frankfurt-Style Scenarios,” *Philosophical Topics*, 24(2): 123–41.
-- –––, 1998. Review of *The Significance of Free Will*, *Journal of Philosophy*, 95: 581–84.
-- –––, 1999a. “Kane, Luck, and the Significance of Free Will,” *Philosophical Explorations*, 2: 96–104.
-- –––, 1999b. “Ultimate Responsibility and Dumb Luck,” *Social Philosophy & Policy*, 16: 274–93.
-- –––, 2003. *Motivation and Agency*, New York: Oxford University Press.
-- –––, 2005. “Libertarianism, Luck, and Control,” *Pacific Philosophical Quarterly*, 86: 381–407.
-- –––, 2006. *Free Will and Luck*, New York: Oxford University Press.
-- Nozick, Robert, 1981. *Philosophical Explanations*, Cambridge, Mass.: Belknap Press.
-- O’Connor, Timothy, 1995. “Agent Causation,” in *Agents, Causes, and Events: Essays on Indeterminism and Free Will*, Timothy O’Connor (ed.), New York: Oxford University Press, 173–200.
-- –––, 1996. “Why Agent Causation?” *Philosophical Topics*, 24(2): 143–58.
-- –––, 2000a. “Causality, Mind, and Free Will,” *Philosophical Perspectives*, 14: 105–17.
-- –––, 2000b. *Persons and Causes: The Metaphysics of Free Will*, New York: Oxford University Press.
-- –––, 2002. “Libertarian Views: Dualist and Agent-Causal Theories,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 337–55.
-- –––, 2005. “Freedom with a Human Face,” *Midwest Studies in Philosophy*, 29: 207–27.
-- –––, 2009a. “Agent-Causal Power,” in *Dispositions and Causes*, Toby Handfield (ed.), Oxford: Clarendon Press, 189–214.
-- –––, 2009b. “Degrees of Freedom,” *Philosophical Explorations*, 12: 119–25.
-- –––, 2014. “Free Will and Metaphysics,” in *Libertarian Free Will: Contemporary Debates*, David Palmer (ed.), New York: Oxford University Press, 27–34.
-- O’Connor, Timothy and John Ross Churchill, 2004. “Reasons Explanation and Agent Control: In Search of an Integrated Account,” *Philosophical Topics*, 32: 241–53.
-- Palmer, David, 2016. “Goetz on the Noncausal Libertarian View of Free Will,” *Thought: A Journal of Philosophy*, 5: 99–107.
-- –––, forthcoming. “Free Will and Control: A Non-causal Approach,” *Synthese*, first online 30 May 2020. doi:10.1007/s11229-020-02701-4
-- Pereboom, Derk, 2001. *Living Without Free Will*, Cambridge: Cambridge University Press.
-- –––, 2004. “Is Our Conception of Agent-Causation Coherent?” *Philosophical Topics*, 32: 275–86.
-- –––, 2007. “Hard Incompatibilism,” in *Four Views on Free Will*, by John Martin Fischer, Robert Kane, Derk Pereboom, and Manuel Vargas, Oxford: Blackwell, 85–125.
-- –––, 2014. *Free Will, Agency, and Meaning in Life*, Oxford: Oxford University Press.
-- Pink, Thomas, 2004. *Free Will: A Very Short Introduction*, Oxford: Oxford University Press.
-- Reid, Thomas, 1788 [1969]. *Essays on the Active Powers of the Human Mind*, Cambridge, Mass.: MIT Press.
-- Rowe, William L., 1991. *Thomas Reid on Freedom and Morality*, Ithaca: Cornell University Press.
-- –––, 2000. “The Metaphysics of Freedom: Reid’s Theory of Agent Causation,” *American Catholic Philosophical Quarterly*, 74: 425–46.
-- –––, 2003. “Alternate Possibilities and Reid’s Theory of Agent-Causation,” in *Moral Responsibility and Alternative Possibilities: Essays on the Impartance of Alternative Possibilities*, eds. David Widerker and Michael McKenna, Aldershot, UK: Ashgate, 219–34.
-- –––, 2006. “Free Will, Moral Responsibility, and the Problem of ‘Oomph’,” *Journal of Ethics*, 10: 295–313.
-- Searle, John R., 2001. *Rationality in Action*, Cambridge, Mass.: MIT Press.
-- Sorabji, Richard, 1980. *Necessity, Cause, and Blame: Perspectives on Aristotle’s Theory*, Ithaca: Cornell University Press.
-- Steward, Helen, 2012. *A Metaphysics for Freedom*, Oxford: Oxford University Press.
-- Strawson, Galen, 1994. “The Impossibility of Moral Responsibility,” *Philosophical Studies*, 75: 5–24.
-- Swinburne, Richard, 1997. “The Irreducibility of Causation,” *Dialectica*, 51: 79–92.
-- –––, 2006. “Relations between Universals, or Divine Laws?” *Australasian Journal of Philosophy*, 84: 179–89.
-- Taylor, Richard, 1966. *Action and Purpose*, Englewood Cliffs: Prentice-Hall.
-- –––, 1992. *Metaphysics*, 4th edition. Englewood Cliffs: Prentice-Hall.
-- Thorp, John, 1980. *Free Will: A Defence Against Neurophysiological Determinism*, London: Routledge & Kegan Paul.
-- Van Inwagen, Peter, 1983. *An Essay on Free Will*, Oxford: Clarendon Press.
-- –––, 2000. “Free Will Remains a Mystery,” *Philosophical Perspectives*, 14: 1–19.
-- Wiggins, David, 1973. “Towards a Reasonable Libertarianism,” in *Essays on Freedom of Action*, Ted Honderich (ed.), London: Routledge & Kegan Paul, 33–61.
-- Zimmerman, Michael J., 1984. *An Essay on Human Action*, New York: Peter Lang.
+* Almeida, M. and M. Bernstein, 2003. “Lucky Libertarianism,” *Philosophical Studies*, 113: 93–119.
+* Alvarez, Maria and John Hyman, 1998. “Agents and their Actions,” *Philosophy*, 73: 219–45.
+* Balaguer, Mark, 1999. “Libertarianism as a Scientifically Reputable View,” *Philosophical Studies*, 93: 189–211.
+* –––, 2004. “A Coherent, Naturalistic, and Plausible Formulation of Libertarian Free Will,” *Noûs*, 38: 379–406.
+* Berkeley, George, 1710 [1998]. *A Treatics Concerning the Principles of Human Knowledge*, Jonathan Dancy (ed.), Oxford: Oxford University Press.
+* Broad, C. D., 1952. *Ethics and the History of Philosophy*, London: Routledge & Kegan Paul.
+* Capes, Justin A., 2017. “Freedom with Causation,” *Erkenntnis*, 82: 327–338.
+* Campbell, C. A., 1957. *On Selfhood and Godhood*, London: George Allen & Unwin.
+* Chisholm, Roderick M., 1966. “Freedom and Action,” in *Freedom and Determinism*, Keith Lehrer (ed.), New York: Random House, 11–44.
+* –––, 1971. “Reflections on Human Agency,” *Idealistic Studies*, 1: 33–46.
+* –––, 1976a. “The Agent as Cause,” in *Action Theory*, Myles Brand and Douglas Walton (eds.), Dordrecht: D. Reidel, 199–211.
+* –––, 1976b. *Person and Object: A Metaphysical Study*, La Salle: Open Court.
+* –––, 1978. “Comments and Replies,” *Philosophia*, 7: 597–636.
+* Clarke, Randolph, 1993. “Toward a Credible Agent-Causal Account of Free Will,” *Noûs*, 27: 191–203.
+* –––, 1996. “Agent Causation and Event Causation in the Production of Free Action,” *Philosophical Topics*, 24 (2): 19–48.
+* –––, 1999. “Free Choice, Effort, and Wanting More,” *Philosophical Explorations*, 2: 20–41.
+* –––, 2002. “Libertarian Views: Critical Survey of Noncausal and Event-Causal Accounts of Free Agency,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 356–85.
+* –––, 2003a. “Freedom of the Will,” in *The Blackwell Guide to Philosophy of Mind*, Stephen P. Stich and Ted A. Warfield (eds.), Oxford: Blackwell, 369–404.
+* –––, 2003b. *Libertarian Accounts of Free Will*, New York: Oxford University Press.
+* –––, 2010. “Are We Free to Obey the Laws?” *American Philosophical Quarterly*, 47: 389–401.
+* –––, 2011. “Alternatives for Libertarians,” in *The Oxford Handbook of Free Will*, 2nd edition, Robert Kane (ed.), New York: Oxford University Press, 329–48.
+* Dennett, Daniel C., 1978. “On Giving Libertarians What They Say They Want,” in *Brainstorms: Philosophical Essays on Mind and Psychology*, Montgomery, Vt.: Bradford Books, 286–99.
+* Donagan, Alan, 1987. *Choice: The Essential Element in Human Action*, London: Routledge & Kegan Paul.
+* Ekstrom, Laura Waddell, 2000. *Free Will: A Philosophical Study*, Boulder: Westview Press.
+* –––, 2003. “Free Will, Chance, and Mystery,” *Philosophical Studies*, 113: 153–80.
+* –––, 2019. “Toward a Plausible Event-Causal Indeterminist Account of Free Will,” *Synthese*, 196: 127–144.
+* Feldman, Richard and Andrei A. Buckareff, YEAR. “Reasons Explanations and Pure Agency,” *Philosophical Studies*, 112: 135–45.
+* Fischer, John Martin, 1995. “Libertarianism and Avoidability: A Reply to Widerker,” *Faith and Philosophy*, 12: 119–25.
+* Frankfurt, Harry G., 1969. “Alternate Possibilities and Moral Responsibility,” *Journal of Philosophy*, 66: 828–39.
+* Franklin, Christopher, 2011a. “The Problem of Enhanced Control,” *Australasian Journal of Philosophy*, 89: 687–706.
+* –––, 2011b. “Farewell to the Luck (and Mind) Argument,” *Philosophical Studies*, 156: 199–230.
+* –––, 2018. *A Minimal Libertarianism: Free Will and the Promise of Reduction*, New York: Oxford University Press.
+* Ginet, Carl, 1989. “Reasons Explanations of Action: An Incompatibilist Account,” *Philosophical Perspectives*, 3: 17–46.
+* –––, 1990. *On Action*, Cambridge: Cambridge University Press.
+* –––, 1997. “Freedom, Responsibility, and Agency,” *Journal of Ethics*, 1: 85–98.
+* –––, 2002. “Reasons Explanations of Action: Causalist versus Noncausalist Accounts,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 386–405.
+* –––, 2007. “An Action Can Be Both Uncaused and Up to the Agent,” in *Intentionality, Deliberation and Autonomy: The Action-Theoretic Basis of Practical Philosophy*, eds. Christoph Lumer and Sandro Nannini, Aldershot, UK: Ashgate, 243–55.
+* –––, 2008. “In Defense of a Non-Causal Account of Reasons Explanations,” *Journal of Ethics*, 12: 229–37.
+* –––, 2014. “Can an Indeterministic Cause Leave a Choice up to the Agent?” in *Libertarian Free Will: Contemporary Debates*, David Palmer (ed.), New York: Oxford University Press, 15–26.
+* –––, 2016. “Reasons Explanation: Further Defense of a Non-causal Account,” *Journal of Ethics*, 20: 219–28.
+* Griffith, Meghan, 2005. “Does Free Will Remain a Mystery? A Response to van Inwagen,” *Philosophical Studies*, 124: 261–69.
+* –––, 2007. “Freedom and Trying: Understanding Agent-Causal Exertions,” *Acta Analytica*, 22: 16–28.
+* –––, 2010. “Why Agent-Caused Actions are Not Lucky,” *American Philosophical Quarterly*, 47: 43–56.
+* Goetz, Stewart, 1988. “A Noncausal Theory of Agency,” *Philosophy and Phenomenological Research*, 49: 303–16.
+* –––, 1997. “Libertarian Choice,” *Faith and Philosophy*, 14: 195–211.
+* –––, 2000. “Naturalism and Libertarian Agency,” in *Naturalism: A Critical Analysis*, William Lane Craig and J. P. Moreland (eds.), London: Routledge, 156–86.
+* Haji, Ishtiyaque, 1999a. “Indeterminism and Frankfurt-type Examples,” *Philosophical Explorations*, 2: 42–58.
+* –––, 1999b. “Moral Anchors and Control,” *Canadian Journal of Philosophy*, 29: 175–204.
+* –––, 2000a. “Indeterminism, Explanation, and Luck,” *Journal of Ethics*, 4: 211–35.
+* –––, 2000b. “Libertarianism and the Luck Objection,” *Journal of Ethics*, 4: 329–37.
+* –––, 2000c. “On the Value of Ultimate Responsibility,” in *Moral Responsibility and Ontology*, Ton van den Beld (ed.), Dordrecht: Kluwer, 155–70.
+* –––, 2001. “Control Conundrums: Modest Libertarianism, Responsibility, and Explanation,” *Pacific Philosophical Quarterly*, 82: 178–200.
+* –––, 2004. “Active Control, Agent-Causation and Free Action,” *Philosophical Explorations*, 7: 131–48.
+* Hodgson, David, 2012. *Rationality + Consciousness = Free Will*, New York: Oxford University Press.
+* Hyman, John, 2015. *Action, Knowledge, and Will*, Oxford: Oxford University Press.
+* Jacobs, Jonathan D. and Timothy O’Connor, 2013. “Agent Causation in a Neo-Aristotelian Metaphysics,” in *Mental Causation and Ontology*, S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), Oxford: Oxford University Press, 173–92.
+* Kane, Robert, 1985. *Free Will and Values*, Albany: State University of New York Press.
+* –––, 1989. “Two Kinds of Incompatibilism,” *Philosophy and Phenomenological Research*, 50: 219–54.
+* –––, 1994. “Free Will: The Elusive Ideal,” *Philosophical Studies*, 75: 25–60.
+* –––, 1996a. “Freedom, Responsibility, and Will-Setting,” *Philosophical Topics*, 24(2): 67–90.
+* –––, 1996b. *The Significance of Free Will*, New York: Oxford University Press.
+* –––, 1999a. “On Free Will, Responsibility and Indeterminism,” *Philosophical Explorations*, 2: 105–21.
+* –––, 1999b. “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism,” *Journal of Philosophy*, 96: 217–40.
+* –––, 2000a. “The Dual Regress of Free Will and the Role of Alternative Possibilities,” *Philosophical Perspectives*, 14: 57–79.
+* –––, 2000b. “Free Will and Responsibility: Ancient Dispute, New Themes,” *Journal of Ethics*, 4: 315–22.
+* –––, 2000c. “Responses to Bernard Berofsky, John Martin Fischer and Galen Strawson,” *Philosophy and Phenomenological Research*, 60: 157–67.
+* –––, 2002. “Some Neglected Pathways in the Free Will Labyrinth,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 406–37.
+* –––, 2004. “Agency, Responsibility, and Indeterminism: Reflections on Libertarian Theories of Free Will,” in *Freedom and Determinism*, eds. Joseph Keim Campbell, Michael O’Rourke, and David Shier, Cambridge, Mass.: MIT Press, 70–88.
+* –––, 2005. *A Contemporary Introduction to Free Will*, New York: Oxford University Press.
+* –––, 2007a. “Libertarianism,” in *Four Views on Free Will*, by John Martin Fischer, Robert Kane, Derk Pereboom, and Manuel Vargas, Oxford: Blackwell, 5–43.
+* –––, 2007b. “Response to Fischer, Pereboom, and Vargas,” in *Four Views on Free Will*, by John Martin Fischer, Robert Kane, Derk Pereboom, and Manuel Vargas, Oxford: Blackwell, 166–83.
+* –––, 2011. “Rethinking Free Will: New Perspectives on an Ancient Problem,” in *The Oxford Handbook of Free Will*, 2nd edition, Robert Kane (ed.), New York: Oxford University Press, 381–404.
+* –––, 2014a. “Acting ‘Of One’s Own Free Will’: Modern Reflections on an Ancient Problem,” *Proceedings of the Aristotelian Society*, 114, Part 1: 35–55.
+* –––, 2014b. “New Arguments in Debates on Libertarian Free Will: Responses to Contributors,” in *Libertarian Free Will: Contemporary Debates*, David Palmer (ed.), New York: Oxford University Press, 179–214.
+* –––, 2016. “On the Role of Indeterminism in Libertarian Free Will,” *Philosophical Explorations*, 19: 2–16.
+* –––, 2019. “The Complex Tapestry of Free Will: Striving Will, Indeterminism and Volitional Streams,” *Synthese*, 196: 145–160. doi:10.1007/s11229-016-1046-8
+* Levy, Neil, 2011. *Hard Luck: How Luck Undermines Free Will and Moral Responsibility*, Oxford: Oxford University Press.
+* Lowe, E. J., 2008. *Personal Agency: The Metaphysics of Mind and Action*, Oxford: Oxford University Press.
+* –––, 2013. “Substance Causation, Powers, and Human Agency,” in *Mental Causation and Ontology*, S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), Oxford: Oxford University Press, 153–72.
+* Mawson, T. J., 2011. *Free Will: A Guide for the Perplexed*, New York: Continuum Press.
+* Mayr, Erasmus, 2011. *Understanding Human Agency*, Oxford: Oxford University Press.
+* McCall, Storrs, 1994. *A Model of the Universe*, Oxford: Clarendon Press.
+* McCann, Hugh J., 1998. *The Works of Agency: On Human Action, Will, and Freedom*, Ithaca: Cornell University Press.
+* –––, 2012. “Making Decisions,” *Philosophical Issues*, 22: 246–63.
+* Mele, Alfred R., 1992. *Springs of Action: Understanding Intentional Behavior*, New York: Oxford University Press.
+* –––, 1995. *Autonomous Agents: From Self-Control to Autonomy*, New York: Oxford University Press.
+* –––, 1996. “Soft Libertarianism and Frankfurt-Style Scenarios,” *Philosophical Topics*, 24(2): 123–41.
+* –––, 1998. Review of *The Significance of Free Will*, *Journal of Philosophy*, 95: 581–84.
+* –––, 1999a. “Kane, Luck, and the Significance of Free Will,” *Philosophical Explorations*, 2: 96–104.
+* –––, 1999b. “Ultimate Responsibility and Dumb Luck,” *Social Philosophy & Policy*, 16: 274–93.
+* –––, 2003. *Motivation and Agency*, New York: Oxford University Press.
+* –––, 2005. “Libertarianism, Luck, and Control,” *Pacific Philosophical Quarterly*, 86: 381–407.
+* –––, 2006. *Free Will and Luck*, New York: Oxford University Press.
+* Nozick, Robert, 1981. *Philosophical Explanations*, Cambridge, Mass.: Belknap Press.
+* O’Connor, Timothy, 1995. “Agent Causation,” in *Agents, Causes, and Events: Essays on Indeterminism and Free Will*, Timothy O’Connor (ed.), New York: Oxford University Press, 173–200.
+* –––, 1996. “Why Agent Causation?” *Philosophical Topics*, 24(2): 143–58.
+* –––, 2000a. “Causality, Mind, and Free Will,” *Philosophical Perspectives*, 14: 105–17.
+* –––, 2000b. *Persons and Causes: The Metaphysics of Free Will*, New York: Oxford University Press.
+* –––, 2002. “Libertarian Views: Dualist and Agent-Causal Theories,” in *The Oxford Handbook of Free Will*, Robert Kane (ed.), New York: Oxford University Press, 337–55.
+* –––, 2005. “Freedom with a Human Face,” *Midwest Studies in Philosophy*, 29: 207–27.
+* –––, 2009a. “Agent-Causal Power,” in *Dispositions and Causes*, Toby Handfield (ed.), Oxford: Clarendon Press, 189–214.
+* –––, 2009b. “Degrees of Freedom,” *Philosophical Explorations*, 12: 119–25.
+* –––, 2014. “Free Will and Metaphysics,” in *Libertarian Free Will: Contemporary Debates*, David Palmer (ed.), New York: Oxford University Press, 27–34.
+* O’Connor, Timothy and John Ross Churchill, 2004. “Reasons Explanation and Agent Control: In Search of an Integrated Account,” *Philosophical Topics*, 32: 241–53.
+* Palmer, David, 2016. “Goetz on the Noncausal Libertarian View of Free Will,” *Thought: A Journal of Philosophy*, 5: 99–107.
+* –––, forthcoming. “Free Will and Control: A Non-causal Approach,” *Synthese*, first online 30 May 2020. doi:10.1007/s11229-020-02701-4
+* Pereboom, Derk, 2001. *Living Without Free Will*, Cambridge: Cambridge University Press.
+* –––, 2004. “Is Our Conception of Agent-Causation Coherent?” *Philosophical Topics*, 32: 275–86.
+* –––, 2007. “Hard Incompatibilism,” in *Four Views on Free Will*, by John Martin Fischer, Robert Kane, Derk Pereboom, and Manuel Vargas, Oxford: Blackwell, 85–125.
+* –––, 2014. *Free Will, Agency, and Meaning in Life*, Oxford: Oxford University Press.
+* Pink, Thomas, 2004. *Free Will: A Very Short Introduction*, Oxford: Oxford University Press.
+* Reid, Thomas, 1788 [1969]. *Essays on the Active Powers of the Human Mind*, Cambridge, Mass.: MIT Press.
+* Rowe, William L., 1991. *Thomas Reid on Freedom and Morality*, Ithaca: Cornell University Press.
+* –––, 2000. “The Metaphysics of Freedom: Reid’s Theory of Agent Causation,” *American Catholic Philosophical Quarterly*, 74: 425–46.
+* –––, 2003. “Alternate Possibilities and Reid’s Theory of Agent-Causation,” in *Moral Responsibility and Alternative Possibilities: Essays on the Impartance of Alternative Possibilities*, eds. David Widerker and Michael McKenna, Aldershot, UK: Ashgate, 219–34.
+* –––, 2006. “Free Will, Moral Responsibility, and the Problem of ‘Oomph’,” *Journal of Ethics*, 10: 295–313.
+* Searle, John R., 2001. *Rationality in Action*, Cambridge, Mass.: MIT Press.
+* Sorabji, Richard, 1980. *Necessity, Cause, and Blame: Perspectives on Aristotle’s Theory*, Ithaca: Cornell University Press.
+* Steward, Helen, 2012. *A Metaphysics for Freedom*, Oxford: Oxford University Press.
+* Strawson, Galen, 1994. “The Impossibility of Moral Responsibility,” *Philosophical Studies*, 75: 5–24.
+* Swinburne, Richard, 1997. “The Irreducibility of Causation,” *Dialectica*, 51: 79–92.
+* –––, 2006. “Relations between Universals, or Divine Laws?” *Australasian Journal of Philosophy*, 84: 179–89.
+* Taylor, Richard, 1966. *Action and Purpose*, Englewood Cliffs: Prentice-Hall.
+* –––, 1992. *Metaphysics*, 4th edition. Englewood Cliffs: Prentice-Hall.
+* Thorp, John, 1980. *Free Will: A Defence Against Neurophysiological Determinism*, London: Routledge & Kegan Paul.
+* Van Inwagen, Peter, 1983. *An Essay on Free Will*, Oxford: Clarendon Press.
+* –––, 2000. “Free Will Remains a Mystery,” *Philosophical Perspectives*, 14: 1–19.
+* Wiggins, David, 1973. “Towards a Reasonable Libertarianism,” in *Essays on Freedom of Action*, Ted Honderich (ed.), London: Routledge & Kegan Paul, 33–61.
+* Zimmerman, Michael J., 1984. *An Essay on Human Action*, New York: Peter Lang.
 
 ## 学术工具
 

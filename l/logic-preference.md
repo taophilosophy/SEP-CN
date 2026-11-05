@@ -1,4 +1,5 @@
 # 偏好逻辑 Preference Logic (Fenrong Liu and Leon van der Torre)
+
 *首次发表于 2025 年 7 月 28 日。*
 
 偏好的概念横跨众多研究领域，对这一主题产生了多样的视角。偏好逻辑专门关注在比较对象、情形、行动等时的偏好推理，途径是考察其形式性质。本词条综述偏好逻辑迄今的主要发展。第 2 节给出历史概览，始于 Halldén 与 von Wright 的奠基工作——他们强调偏好的语法面向。第 3 节引入 Rescher 与 Van Dalen 的早期语义学贡献。对可能世界的偏好关系自然引出模态偏好逻辑，其中偏好提升（preference lifting）使跨可能世界集合的比较成为可能。第 4 节引入 von Wright 对内在偏好与外在偏好之分，并呈现外在（即基于理由的）偏好的双层结构——这是过去二十年的主要发展方向。本词条评述该领域的主要框架。第 5 节讨论偏好改变——它可以因多种原因发生——并探究这些动态的不同逻辑进路。第 6 节讨论其余条件相同（ceteris paribus）偏好的多种解释，评述其底层逻辑，并考察与之密切相关的条件偏好网络（CP 网）。第 7 节简要考察偏好逻辑与其他研究领域的关联。第 8 节收束本词条。
@@ -61,8 +62,8 @@ Halldén 证明理论 A 一致。他给出理论 A 的若干定理，如逆否�
 
 **理论 B**
 
-- 命题演算的一切定理都是 B 的公设。
-- 理论 A 的推理规则 $R_1, R_2$ 与 $R_3$ 也适用于理论 B。
+* 命题演算的一切定理都是 B 的公设。
+* 理论 A 的推理规则 $R_1, R_2$ 与 $R_3$ 也适用于理论 B。
 
 $$\begin{align*} \tag*{\(B_6\)} p>q \rightarrow\neg q>\neg p&& \textrm{(contraposition)}\\ \tag*{\(B_7\)} p>q \lor p\equiv q \lor q>p && \textrm{ (connected)} \end{align*}$$
 
@@ -90,10 +91,10 @@ $$\begin{align} &p>q\land \neg q> \neg p\land p>\neg p, \\ &p>q\land \neg q> \ne
 
 第二个参照点是 von Wright（1963）的《偏好逻辑》。在此书中，von Wright 区分了与偏好相关的三组概念，同时指出它们之间没有截然分界。相关概念组是：道义论概念（正当、义务、命令、禁止）、价值论概念（善、恶、较优）与人类学概念（需要、意愿、决定、选择）。这些概念在道义逻辑与决策论中得到探讨，并与偏好逻辑相交。这一关联将在第 7 节讨论。von Wright 还提出几个对偏好逻辑后续发展至关重要的区分：
 
-- 事态之间的偏好 对 手段或方法的偏好
-- 内在偏好（内在较优） 对 外在偏好（有理由的偏好）
-- 定性偏好 对 可测量的价值（如效用）
-- 无风险的偏好 对 不确定性下的偏好
+* 事态之间的偏好 对 手段或方法的偏好
+* 内在偏好（内在较优） 对 外在偏好（有理由的偏好）
+* 定性偏好 对 可测量的价值（如效用）
+* 无风险的偏好 对 不确定性下的偏好
 
 更具体地说，von Wright 采纳的形式语言仍是 Halldén A 公式的一个片段，只含不含 $>$ 与 $\equiv$ 嵌套出现的句子。但与理论 B 的语言不同：若 $\varphi>\psi$ 或 $\varphi\equiv\psi$ 出现于一个公式中，$\varphi$ 与 $\psi$ 可以含合取或析取符号。
 
@@ -187,8 +188,8 @@ Van Dalen 给出多个理论——**PREFIR**、**PREF**、**PREFL** 与 **PREFR*
 
 Van Dalen 的偏好理论 **PREFIR**、**PREF**、**PREFL** 与 **PREFR**
 
-- 古典命题逻辑的一切重言式都是公理。
-- 分离规则与替换（见 Halldén 的理论 A）
+* 古典命题逻辑的一切重言式都是公理。
+* 分离规则与替换（见 Halldén 的理论 A）
 
 $$\begin{align*} \tag*{P1} \neg (\varphi> \varphi) \\ \tag*{P2} \varphi>\psi \land \psi >\chi \rightarrow \varphi> \chi\\ \tag*{P3} \varphi>\psi \land \psi \equiv\chi \rightarrow \varphi> \chi\\ \tag*{P4} \varphi>\psi \rightarrow \neg \psi > \neg \varphi\\ \end{align*}$$
 
@@ -240,14 +241,14 @@ $\mathcal{M}, w \models E\varphi$    iff    for some $v, \mathcal{M}, v \mod
 
 **模态偏好逻辑**
 
-- S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
-- Inclusion axioms:
-- $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
-- $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
-- Interaction axioms between $\lozenge^{\geq}\varphi$ and $\lozenge^{>} \varphi$:
-- $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
-- $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
-- $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
+* S4 for $\lozenge^{\geq}$, S5 for E, K for $\lozenge^{>}$.
+* Inclusion axioms:
+* $\lozenge^{>} \varphi\rightarrow\lozenge^{\geq} \varphi$
+* $\lozenge^{\geq} \varphi\rightarrow\lozenge E\varphi$
+* Interaction axioms between $\lozenge^{\geq}\varphi$ and $\lozenge^{>} \varphi$:
+* $\lozenge^{>}\lozenge^{\geq} \varphi\rightarrow\lozenge^{>} \varphi$
+* $\lozenge^{\geq}\lozenge^{>} \varphi\rightarrow\lozenge^{>} \varphi$
+* $\psi\land \lozenge^{\geq}\varphi\rightarrow\lozenge^{>}\varphi\lor \lozenge^{\geq}(\varphi\land \lozenge^{\geq}\psi)$
 
 图 6。
 
@@ -359,9 +360,9 @@ $$C(x) \gg Q(x) \gg N(x),$$
 
 为照顾动机状态之间的偏好差异，Dietrich 与 List（2013a,b）引入了属性组合上的权衡关系 $\geq$：
 
-- 每个备选物 x 可以由它所具有的属性集合刻画，记作 $S_x$。
-- 对任意两个属性集合，$S_x \geq S_y$ 表示 $S_x$ 中的属性优于 $S_y$ 中的属性。
-- 权衡关系因此充当一个稳定的底层结构，支撑行动者在不同动机状态下的偏好排序。
+* 每个备选物 x 可以由它所具有的属性集合刻画，记作 $S_x$。
+* 对任意两个属性集合，$S_x \geq S_y$ 表示 $S_x$ 中的属性优于 $S_y$ 中的属性。
+* 权衡关系因此充当一个稳定的底层结构，支撑行动者在不同动机状态下的偏好排序。
 
 形式上，若 x 与 y 是备选物，则行动者在状态 M 中的偏好 $x \succeq_M y$ 可表示如下：
 
@@ -385,8 +386,8 @@ where W is the set of possible worlds and S indexes utility scales such as safet
 
 为评估诸如是否安装火灾报警器的选择，模型使用“选择函数” s 来辨识与现实世界最接近的备选世界以供比较。例如它比较
 
-- 世界 $w_1$：安装了火灾报警器（更安全的世界）；
-- 世界 $w_2$：未安装火灾报警器（当前的、较不安全的世界）。
+* 世界 $w_1$：安装了火灾报警器（更安全的世界）；
+* 世界 $w_2$：未安装火灾报警器（当前的、较不安全的世界）。
 
 形式上，“选择函数” $s(w, A)$ 依据与当前世界 w 的相似性，从集合 A 中选出一个代表世界：
 
@@ -412,10 +413,10 @@ Osherson 与 Weinstein 还探讨可判定性问题以及模型子类的各种条
 
 Sven Ove Hansson（1995）对偏好改变作了细致分析，在 AGM 框架内辨识出四种类型：
 
-- **修正**：获得对 $\varphi$ 优于 $\psi$ 的偏好，伴随修正陈述“$\varphi$ 优于 $\psi$”。
-- **收缩**：移除“$\varphi$ 优于 $\psi$”这一偏好。
-- **添加**：向所考虑的选项集添加一个新备选物。
-- **删除**：从所考虑的选项集中移除一个选项。
+* **修正**：获得对 $\varphi$ 优于 $\psi$ 的偏好，伴随修正陈述“$\varphi$ 优于 $\psi$”。
+* **收缩**：移除“$\varphi$ 优于 $\psi$”这一偏好。
+* **添加**：向所考虑的选项集添加一个新备选物。
+* **删除**：从所考虑的选项集中移除一个选项。
 
 信念修正通过分配优先性来最小化对先前信念的改变；Hansson 则论证优先性不适合偏好修正。在偏好修正中，接纳像 $\varphi\succeq \psi$ 这样的新陈述，可能涉及调整 $\varphi$ 或 $\psi$ 任意一方的位置。他还提出一个相似性测度，使修正后的偏好模型尽可能接近原模型，并为这些算子给出 AGM 式公设。
 
@@ -471,9 +472,9 @@ $$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
 
 设有一个优先基，记作 $\mathscr{B}$，它是一组带优先性的命题。当新命题 A 加入时，有几种直接的纳入方式：
 
-- 给 A 最高优先性：可把 A 放在优先基顶部，使之成为最重要的命题。
-- 给 A 最低优先性：可把 A 加在底部，使之优先性最低。
-- **并列**：可把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
+* 给 A 最高优先性：可把 A 放在优先基顶部，使之成为最重要的命题。
+* 给 A 最低优先性：可把 A 加在底部，使之优先性最低。
+* **并列**：可把 A 与 $\mathscr{B}$ 并置，不在 A 与其他优先性之间建立次序。
 
 The set $\alpha(\mathscr{B}, A)$ of basic graph updates is defined in a way that allows these possible changes to be captured:
 
@@ -551,15 +552,15 @@ where $\Gamma$ is an arbitrary set of formulas. This way, “being equal” is p
 
 其余条件相同的偏好模型是四元组 $\mathcal{M}$= $(W, \succeq, \trianglerighteq_{\Gamma}, V)$，其中：
 
-- W 是状态集合，$\succeq$ 是二元偏好关系，V 是赋值
-- $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
-- 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
+* W 是状态集合，$\succeq$ 是二元偏好关系，V 是赋值
+* $\trianglerighteq_{\Gamma}$ 是由 $w\trianglerighteq_{\Gamma}v$ 当且仅当 $w\succeq v$ 且 $w \approx_{\Gamma} v$ 给出的二元关系
+* 严格子关系 $\trianglerighteq_{\Gamma}$ 由 $w\succ v$ 且 $w \approx_{\Gamma} v$ 定义
 
 关系 $\trianglerighteq_{\Gamma}$ 实质上是两个世界间关系的交：基本偏好关系，与对 $\Gamma$ 中公式的真值等价。涉及等价类的新公式的真值条件是：
 
-- $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-- $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
-- $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+* $\mathcal{M}, w \models \langle \Gamma \rangle^{\geq}\varphi$  iff   $\exists v$ s.t. $v \trianglerighteq_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+* $\mathcal{M}, w \models \langle \Gamma \rangle^{>}\varphi$  iff   $\exists v$ s.t. $v \vartriangleright_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
+* $\mathcal{M}, w \models \langle \Gamma \rangle\varphi$  iff   $\exists v$ s.t. $v \approx_{\Gamma} w$ and $\mathcal{M}, v\models \varphi$
 
 对 $\Gamma$ 有穷的情形，Van Benthem、Girard 与 Roy（2009）给出完全公理化。针对其余条件相同的特征，新公理集见图 8。
 
@@ -594,8 +595,8 @@ CP 网（“条件偏好网络”的缩写）实质上体现其余条件相同�
 
 设 $V = \{X_1, X_2, \ldots, X_n\}$ 为变量集合，每个 $X_i$ 有一个可能值的有穷域 $\text{Dom}(X_i)$。有一个有向图 G，其中：
 
-- 每个变量 $X_i$ 对应一个节点。
-- $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
+* 每个变量 $X_i$ 对应一个节点。
+* $X_i$ 的父节点记作 $\text{Pa}(X_i)$，即有边指向 $X_i$ 的节点。这些父节点表示影响 $X_i$ 之偏好的变量。从 $X_i$ 到 $X_j$ 的边意味着：对 $X_j$ 的偏好依赖于 $X_i$ 的值。
 
 CP 网不列举所有可能结果的偏好（其数量随变量数指数增长），而使用条件偏好表（CPT）只捕捉相关依赖（即偏好所依赖的要素）。每个节点 $X_i$ 配有一张 CPT：对 $\text{Pa}(X_i)$ 的每个可能实例化 u，它规定 $\text{Dom}(X_i)$ 上的一个全序 $\succ_{u}$。例如：
 

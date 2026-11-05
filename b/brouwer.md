@@ -344,9 +344,9 @@
 
 ## 其他网络资源
 
-- [Review of Hesseling's *Gnomes in the Fog* in the *Bulletin of Symbolic Logic*](http://www.math.ucla.edu/%7Easl/bsl/1003/1003-005.ps)（Postscript 格式）。
-- [Dirk van Dalen 的布劳威尔文献目录](https://dspace.library.uu.nl/bitstream/handle/1874/26868/preprint175.pdf)（PDF）。
-- [布劳威尔墓的照片](https://beeldbankblaricum.nl/overige/item/4555-begraafplaats-woensberg)，位于荷兰布拉里库姆的 [Woensberg 墓园](https://www.google.com/maps/place/Begraafplaats/@52.2805098,5.2460156,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6150cf67fc5e9:0x43e120389c6751a4!8m2!3d52.2805098!4d5.2482043)。
+* [Review of Hesseling's *Gnomes in the Fog* in the *Bulletin of Symbolic Logic*](http://www.math.ucla.edu/%7Easl/bsl/1003/1003-005.ps)（Postscript 格式）。
+* [Dirk van Dalen 的布劳威尔文献目录](https://dspace.library.uu.nl/bitstream/handle/1874/26868/preprint175.pdf)（PDF）。
+* [布劳威尔墓的照片](https://beeldbankblaricum.nl/overige/item/4555-begraafplaats-woensberg)，位于荷兰布拉里库姆的 [Woensberg 墓园](https://www.google.com/maps/place/Begraafplaats/@52.2805098,5.2460156,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6150cf67fc5e9:0x43e120389c6751a4!8m2!3d52.2805098!4d5.2482043)。
 
 [欢迎向作者提出建议。]
 

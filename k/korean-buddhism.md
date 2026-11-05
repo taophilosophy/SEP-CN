@@ -320,9 +320,9 @@ Paek Yongsŏng 与韩龙云不只是理论家，还是积极参与朝鲜独立�
 
 ## 其他网络资源
 
-- [《觉海日云》（*Gakhae illyun*，英译 The Sun over the Sea of Enlightenment）](https://www.jokb.org/bbs/board.php?bo_table=7010&wr_id=40&page=2)，Paek, Yongseong，Suh Junghyung 译。
-- [《韩国佛教全书》（한국불교전서，*Han'guk Pulgkyo Chŏnsŏ*，英译 Collected Works of Korean Buddhism）](http://kabc.dongguk.edu/content/list?itemId=ABC_BJ)，东国大学出版部。
-- [《近代佛教杂志》（근대불교잡지，*Kŭntae Pulgyo Chapchi*，英译 Buddhist Journals in modern Korea）](http://kabc.dongguk.edu/content/list?itemId=ABC_BM)，东国大学出版部。
+* [《觉海日云》（*Gakhae illyun*，英译 The Sun over the Sea of Enlightenment）](https://www.jokb.org/bbs/board.php?bo_table=7010&wr_id=40&page=2)，Paek, Yongseong，Suh Junghyung 译。
+* [《韩国佛教全书》（한국불교전서，*Han'guk Pulgkyo Chŏnsŏ*，英译 Collected Works of Korean Buddhism）](http://kabc.dongguk.edu/content/list?itemId=ABC_BJ)，东国大学出版部。
+* [《近代佛教杂志》（근대불교잡지，*Kŭntae Pulgyo Chapchi*，英译 Buddhist Journals in modern Korea）](http://kabc.dongguk.edu/content/list?itemId=ABC_BM)，东国大学出版部。
 
 ## 相关词条
 

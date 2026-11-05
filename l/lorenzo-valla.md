@@ -1,4 +1,5 @@
 # 劳伦佐·瓦拉 Valla, Lorenzo (Lodi Nauta)
+
 *首次发表于 2009 年 5 月 14 日；2026 年 3 月 6 日实质修订。*
 
 劳伦佐·瓦拉（Lorenzo Valla，约 1406–1457）是其时代最重要的人文主义者之一。在其《拉丁语的优雅》——一部高级拉丁语与文体手册——中，他为人文主义纲领给出了一些最犀利、最好斗的表述，将拉丁语研究提升到前所未有的水平。他对古典学术贡献良多；但他也把其对古典语言及其文学的广博知识用作工具，批评广泛的思想、理论与既定实践。他著名地揭露君士坦丁的赠礼——一份为教宗对世俗统治之主张辩护的重要文件——为伪造品。他首次把圣哲罗姆的圣经译本与新约希腊文本两相对照，从而奠定了批判性圣经学术的基础。在其《辩证法与哲学的重新耕耘》（*Repastinatio dialectice et philosophie*）——亦称其《辩证法》或《辩证争论》——中，他从本质上语言学的观点攻击经院-亚里士多德思想，主张哲学应当符合常识与通常语言用法。瓦拉的著作在其时代已极具争议，在现代继续引发辩论——这反映了文艺复兴人文主义对早期近代哲学发展之哲学相关性与意义的更广泛讨论。
@@ -164,8 +165,8 @@
 
 ## 其他网络资源
 
-- [《论所谓君士坦丁赠礼之伪造》](http://history.hanover.edu/texts/vallatc.html)，拉丁文与英文（Christopher B. Coleman 英译）。
-- [劳伦佐·瓦拉的墓](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/Lateran/interior/Lorenzo_Valla.html)，罗马拉特兰圣约翰教堂瓦拉之墓的照片。
+* [《论所谓君士坦丁赠礼之伪造》](http://history.hanover.edu/texts/vallatc.html)，拉丁文与英文（Christopher B. Coleman 英译）。
+* [劳伦佐·瓦拉的墓](http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/churches/Lateran/interior/Lorenzo_Valla.html)，罗马拉特兰圣约翰教堂瓦拉之墓的照片。
 
 ## 相关词条
 

@@ -1,4 +1,5 @@
 # 罗莎·卢森堡 Luxemburg, Rosa (Lea Ypi)
+
 *首次发表于 2022 年 4 月 13 日。*
 
 罗莎·卢森堡（Rosa Luxemburg，1871–1919）被一位同侪誉为“马克思和恩格斯一切科学继承者中最杰出的才智”（Fröhlich 1940/2010: 153，转引弗兰茨·梅林在《新时代》[*Neue Zeit*]上的评语）。她是马克思主义历史上最具原创力、最有影响的思想家之一。其生平与著作卓然出众之处，在于理智的严谨与政治的正直之独特结合。她有一种罕见的能力：把深刻的理论洞见同敏锐的政治远见熔于一炉，令知识之增长同时就是战斗之行动。
@@ -166,7 +167,7 @@
 
 ## 其他网络资源
 
-- [罗莎·卢森堡的生平与遗产](https://www.rosalux.de/en/dossiers/rosa-luxemburgs-life-and-legacy)，罗莎·卢森堡基金会网站。
+* [罗莎·卢森堡的生平与遗产](https://www.rosalux.de/en/dossiers/rosa-luxemburgs-life-and-legacy)，罗莎·卢森堡基金会网站。
 
 ## 相关词条
 

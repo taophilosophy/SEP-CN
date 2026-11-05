@@ -325,8 +325,8 @@
 
 ## 其他网络资源
 
-- [认识论研究指南](http://www.ucs.louisiana.edu/~kak7409/EpistemologicalResearch.htm)，主题索引，包含关于基础关系的一节。
-- [PhilPapers](https://philpapers.org/browse/the-basing-relation)，包含关于基础关系的一节。
+* [认识论研究指南](http://www.ucs.louisiana.edu/~kak7409/EpistemologicalResearch.htm)，主题索引，包含关于基础关系的一节。
+* [PhilPapers](https://philpapers.org/browse/the-basing-relation)，包含关于基础关系的一节。
 
 ## 相关词条
 

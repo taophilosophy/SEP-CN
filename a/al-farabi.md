@@ -105,8 +105,8 @@ Marwan Rashed（2009）通过严肃地质疑法拉比《两位圣贤观点之调
 
 ## 其他网络资源
 
-- [Al-Farabi at muslimphilosophy.com](https://www.muslimphilosophy.com/farabi/). (This page has links to a few complete texts of al-Fārābī, some in Arabic and some in English translation.)
-- [Al-Farabi at thegreatthinkers.org](https://thegreatthinkers.org/al-farabi/).
+* [Al-Farabi at muslimphilosophy.com](https://www.muslimphilosophy.com/farabi/). (This page has links to a few complete texts of al-Fārābī, some in Arabic and some in English translation.)
+* [Al-Farabi at thegreatthinkers.org](https://thegreatthinkers.org/al-farabi/).
 
 ## 相关词条
 

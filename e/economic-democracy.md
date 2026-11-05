@@ -202,8 +202,8 @@
 
 ## 其他网络资源
 
-- Mondragon, 2023, “[Humanity at Work: Annual Report 2023](https://www.mondragon-corporation.com/people/site/assets/files/103207/annual-report-2023-ext.pdf)”。
-- Pérotin, Virginie, 2016, “[What Do We Really Know About Worker Co-operatives?](https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf)”。
+* Mondragon, 2023, “[Humanity at Work: Annual Report 2023](https://www.mondragon-corporation.com/people/site/assets/files/103207/annual-report-2023-ext.pdf)”。
+* Pérotin, Virginie, 2016, “[What Do We Really Know About Worker Co-operatives?](https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf)”。
 
 ## 相关词条
 

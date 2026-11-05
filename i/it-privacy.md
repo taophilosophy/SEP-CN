@@ -218,25 +218,25 @@
 
 ## 其他网络资源
 
-- Albright, J.，2016 年，“[特朗普的竞选团队如何利用新的数据产业综合体赢得选举](https://blogs.lse.ac.uk/usappblog/2016/11/26/how-trumps-campaign-used-the-new-data-industrial-complex-to-win-the-election/)”，LSE 美国中心，USApp 美国政治与政策博客。
-- Allen, C.，2016 年，[通往自主主权身份之路](https://www.coindesk.com/markets/2016/04/27/the-path-to-self-sovereign-identity)，Coindesk。
-- Broenink, G. 等，2010 年，“[隐私教练：在物联网中支持顾客隐私](http://arxiv.org/abs/1001.4459)”，*arXiv 手稿* 1001.4459。
-- Cadwalladr, C.，2019 年，[脸书在脱欧中的角色——及对民主的威胁](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy)。TED 演讲。
-- Campbell, D.，2023 年，[美国间谍技术公司 Palantir 赢得 3.3 亿英镑 NHS 合同引发患者隐私忧虑](https://www.theguardian.com/society/2023/nov/21/patient-privacy-fears-us-spy-tech-firm-palantir-wins-nhs-contract)，《卫报》。
-- Danezis, G. 与 S. Gürses，2010 年，“[对十年隐私技术的批判性回顾](http://homes.esat.kuleuven.be/~sguerses/papers/DanezisGuersesSurveillancePets2010.pdf)”。
-- [电子隐私信息中心（EPIC）](http://epic.org/)。
-- [欧盟委员会：数据保护](https://ec.europa.eu/info/law/law-topic/data-protection_en)。
-- Gellman, R.，2014 年，“[公平信息实践：一部基础历史](http://bobgellman.com/rg-docs/rg-FIPShistory.pdf)”，版本 2.12，2014 年 8 月 3 日，在线手稿。
-- Germain, R.，2023 年，“[谷歌称将抓取你在线发布的所有内容用于 AI](https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486)”，Gizmodo。
-- Inan, H. A. 等，2021 年，“[语言模型中的训练数据泄漏分析](https://arxiv.org/abs/2101.05405)”，arXiv.org。
-- Nakamoto, S.，[比特币：一种点对点电子现金系统](https://bitcoin.org/bitcoin.pdf)，www.bitcoin.org。
-- [Neuralink（神经连接）](https://neuralink.com/)。
-- [OpenAI：ChatGPT](https://chat.openai.com/)。
-- PCI DSS（即支付卡行业数据安全标准），v3.2（2018），[PCI DSS 相关文件](https://www.pcisecuritystandards.org/document_library)，PCI 安全标准委员会。
-- Richter, H. 等，2008 年，“[对护照的指纹采集](http://cs.ru.nl/E.Poll/papers/nluug.pdf)”，发表于 NLUUG 春季安全会议。
-- Stickgold, Robert 等，2021 年，[广告入梦已成现实：现在怎么办](https://dxe.pubpub.org/pub/dreamadvertising/release/1)——关于梦境孵化技术新近发展及其伦理意涵的评论文章。
-- [美国国务院：隐私政策](https://www.state.gov/privacy-policy/)。
-- [美国财政部：1974 年隐私法](https://home.treasury.gov/footer/privacy-act)。
+* Albright, J.，2016 年，“[特朗普的竞选团队如何利用新的数据产业综合体赢得选举](https://blogs.lse.ac.uk/usappblog/2016/11/26/how-trumps-campaign-used-the-new-data-industrial-complex-to-win-the-election/)”，LSE 美国中心，USApp 美国政治与政策博客。
+* Allen, C.，2016 年，[通往自主主权身份之路](https://www.coindesk.com/markets/2016/04/27/the-path-to-self-sovereign-identity)，Coindesk。
+* Broenink, G. 等，2010 年，“[隐私教练：在物联网中支持顾客隐私](http://arxiv.org/abs/1001.4459)”，*arXiv 手稿* 1001.4459。
+* Cadwalladr, C.，2019 年，[脸书在脱欧中的角色——及对民主的威胁](https://www.ted.com/talks/carole_cadwalladr_facebook_s_role_in_brexit_and_the_threat_to_democracy)。TED 演讲。
+* Campbell, D.，2023 年，[美国间谍技术公司 Palantir 赢得 3.3 亿英镑 NHS 合同引发患者隐私忧虑](https://www.theguardian.com/society/2023/nov/21/patient-privacy-fears-us-spy-tech-firm-palantir-wins-nhs-contract)，《卫报》。
+* Danezis, G. 与 S. Gürses，2010 年，“[对十年隐私技术的批判性回顾](http://homes.esat.kuleuven.be/~sguerses/papers/DanezisGuersesSurveillancePets2010.pdf)”。
+* [电子隐私信息中心（EPIC）](http://epic.org/)。
+* [欧盟委员会：数据保护](https://ec.europa.eu/info/law/law-topic/data-protection_en)。
+* Gellman, R.，2014 年，“[公平信息实践：一部基础历史](http://bobgellman.com/rg-docs/rg-FIPShistory.pdf)”，版本 2.12，2014 年 8 月 3 日，在线手稿。
+* Germain, R.，2023 年，“[谷歌称将抓取你在线发布的所有内容用于 AI](https://gizmodo.com/google-says-itll-scrape-everything-you-post-online-for-1850601486)”，Gizmodo。
+* Inan, H. A. 等，2021 年，“[语言模型中的训练数据泄漏分析](https://arxiv.org/abs/2101.05405)”，arXiv.org。
+* Nakamoto, S.，[比特币：一种点对点电子现金系统](https://bitcoin.org/bitcoin.pdf)，www.bitcoin.org。
+* [Neuralink（神经连接）](https://neuralink.com/)。
+* [OpenAI：ChatGPT](https://chat.openai.com/)。
+* PCI DSS（即支付卡行业数据安全标准），v3.2（2018），[PCI DSS 相关文件](https://www.pcisecuritystandards.org/document_library)，PCI 安全标准委员会。
+* Richter, H. 等，2008 年，“[对护照的指纹采集](http://cs.ru.nl/E.Poll/papers/nluug.pdf)”，发表于 NLUUG 春季安全会议。
+* Stickgold, Robert 等，2021 年，[广告入梦已成现实：现在怎么办](https://dxe.pubpub.org/pub/dreamadvertising/release/1)——关于梦境孵化技术新近发展及其伦理意涵的评论文章。
+* [美国国务院：隐私政策](https://www.state.gov/privacy-policy/)。
+* [美国财政部：1974 年隐私法](https://home.treasury.gov/footer/privacy-act)。
 
 ## 相关词条
 

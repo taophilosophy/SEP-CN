@@ -180,7 +180,7 @@
 
 ## 其他网络资源
 
-- [贝内德托·克罗齐档案](http://www.marxists.org/reference/archive/croce/)
+* [贝内德托·克罗齐档案](http://www.marxists.org/reference/archive/croce/)
 
 ## 相关词条
 

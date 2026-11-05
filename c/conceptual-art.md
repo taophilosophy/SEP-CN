@@ -170,10 +170,10 @@
 
 ## 其他网络资源
 
-- [artnet：美术、装饰艺术与设计——艺术世界在线](https://www.artnet.com/)
-- [古根海姆在线馆藏（The Guggenheim Collection Online）](https://www.guggenheim.org/new-york/collections/collection-online/)
-- [现代艺术博物馆（The Museum of Modern Art）](https://www.moma.org/)（MoMA）
-- [泰特在线（Tate Online）](https://www.tate.org.uk/)
+* [artnet：美术、装饰艺术与设计——艺术世界在线](https://www.artnet.com/)
+* [古根海姆在线馆藏（The Guggenheim Collection Online）](https://www.guggenheim.org/new-york/collections/collection-online/)
+* [现代艺术博物馆（The Museum of Modern Art）](https://www.moma.org/)（MoMA）
+* [泰特在线（Tate Online）](https://www.tate.org.uk/)
 
 ## 相关词条
 

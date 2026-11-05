@@ -30,54 +30,54 @@
 
 第一类是阿伯拉尔的 **辩证法** （dialectic）著作——涉及逻辑、语言哲学、形而上学与心灵哲学的著作。他的两部代表作是：
 
-- *Logica* ‘*ingredientibus*’，即“逻辑”（以“致初学者……”起首）。
-- 《辩证法》（*Dialectica*）。
+* *Logica* ‘*ingredientibus*’，即“逻辑”（以“致初学者……”起首）。
+* 《辩证法》（*Dialectica*）。
 
 这两部著作都遵循承自古代的 **旧逻辑** （logica vetus，即“旧逻辑”）的格局：波菲利的亚里士多德导论《Isagoge》（《导论》）；亚里士多德的《范畴篇》与《解释篇》；波爱修斯的《论范畴三段论》、《范畴三段论》、《假言三段论》、《论论题区分》与《论划分》。阿伯拉尔的著作覆盖旧逻辑所传授的材料，但方式各异。他的 *Logica* ‘*ingredientibus*’是旧逻辑的逐字逐句注疏，不过只有一部分传世，即对《Isagoge》、《范畴篇》、《解释篇》与《论论题区分》的注疏；他的《辩证法》是一部独立论辩专著，按主题处理同样的材料，不过其开头（覆盖《Isagoge》与《范畴篇》开头部分）与结尾（论划分与定义）都没有保存下来。此外还有四部次要的辩证法著作：
 
-- *Introductiones parvulorum*，即“初阶逻辑”。
-- *Logica* ‘*nostrorum petitioni sociorum*’，即“逻辑”（以“应我们朋友们之请……”起首）。
-- *Tractatus de intellectibus*，即“论理解”。
-- *Sententiae secundum Magistrum Petrum*，即“彼得师父的学说”。
+* *Introductiones parvulorum*，即“初阶逻辑”。
+* *Logica* ‘*nostrorum petitioni sociorum*’，即“逻辑”（以“应我们朋友们之请……”起首）。
+* *Tractatus de intellectibus*，即“论理解”。
+* *Sententiae secundum Magistrum Petrum*，即“彼得师父的学说”。
 
 第一部是对旧逻辑的系列初级注疏（同样没有完整传世）；其浅易的程度使一些学者认为它们必出自阿伯拉尔早期，另一些学者则否认它们是阿伯拉尔的作品。其次，*Logica* ‘*nostrorum petitioni sociorum*’多少算一部进行中的作品：它预设读者已知阿伯拉尔早先的 *Logica* ‘*ingredientibus*’，讨论后者未涉及的进阶要点，但在很长的篇幅里它也只是对波菲利《Isagoge》的直白转述或注疏；它与阿伯拉尔的其他著作有文本平行之处，并显示出一些神学知识。第三部著作从逻辑的视角（大致是提供词项的意义）与心灵哲学的视角（作为心灵内容的载体）处理概念或“理解”。最后一部著作也许不过是对阿伯拉尔若干讲演的记录，处理的是关于整体与部分的逻辑与形而上学难题。
 
 第二类是阿伯拉尔的伦理学著作：
 
-- 《伦理学：认识你自己》（*Ethica seu Scito teipsum*）。
-- 《对话集》（*Collationes*），又名《哲人、犹太人与基督徒之间对话》（*Dialogus inter Philosophum, Iudaeum, et Christianum*）。
+* 《伦理学：认识你自己》（*Ethica seu Scito teipsum*）。
+* 《对话集》（*Collationes*），又名《哲人、犹太人与基督徒之间对话》（*Dialogus inter Philosophum, Iudaeum, et Christianum*）。
 
 《伦理学》分析了道德价值以及应归于行动者及其行动的褒贬程度；它在第二卷开篇处中断。《对话集》是两场辩论（在阿伯拉尔梦中显现的人物之间），讨论幸福与至善的本性：自称只遵循自然理性的哲人先与遵循旧律的犹太人辩论；然后哲人与从哲学立场为基督教伦理辩护的基督徒辩论。阿伯拉尔还写过一部给儿子的单薄的小部头实用建议之作：
 
-- 《致阿斯特拉拉布诗》（*Carmen ad Astralabium*）。
+* 《致阿斯特拉拉布诗》（*Carmen ad Astralabium*）。
 
 一系列对句中载有道德劝告与砥砺情操的箴言。
 
 第三类是阿伯拉尔的哲学神学著作。他的三部主要著作致力于对三位一体的哲学分析，几个版本代表他思想的先后阶段与他趋近正统的努力（每一部都重写过多次）：
 
-- *Theologia* ‘*summi boni*’，即“神学”（以“至善……”起首）。
-- 《基督徒神学》（*Theologia christiana*）。
-- *Theologia* ‘*scholarium*’，即“神学”（以“在学校里……”起首）。
+* *Theologia* ‘*summi boni*’，即“神学”（以“至善……”起首）。
+* 《基督徒神学》（*Theologia christiana*）。
+* *Theologia* ‘*scholarium*’，即“神学”（以“在学校里……”起首）。
 
 《神学》的第一版似乎就是在苏瓦松会议上被谴责的著作，最后一版则是在桑斯会议上被谴责的著作。除了这三部按主题处理哲学神学问题的著作之外，阿伯拉尔还写了几部注疏：
 
-- *Expositio orationis dominicae*，即“《主祷文》解析”。
-- *Expositio symboli Apostolorum*，即“《使徒信经》解析”。
-- *Expositio fidei in symbolum Athanasii*，即“阿塔纳修信经中的信仰解析”。
-- 《创世六日》（*Hexaëmeron*），即“《创世记》1–2:25 注疏”。
-- 《致罗马人书注》（*Commentaria in Epistolam Pauli ad Romanos*），即“圣保罗《致罗马人书》注疏”。
+* *Expositio orationis dominicae*，即“《主祷文》解析”。
+* *Expositio symboli Apostolorum*，即“《使徒信经》解析”。
+* *Expositio fidei in symbolum Athanasii*，即“阿塔纳修信经中的信仰解析”。
+* 《创世六日》（*Hexaëmeron*），即“《创世记》1–2:25 注疏”。
+* 《致罗马人书注》（*Commentaria in Epistolam Pauli ad Romanos*），即“圣保罗《致罗马人书》注疏”。
 
 前三部注疏简短，但阿伯拉尔对《创世记》头几节与保罗书信的讨论广泛而详密（后者也与阿伯拉尔的伦理理论相关）。阿伯拉尔还在一部短篇著作中处理了信仰与理性的问题：
 
-- 《独语录》（*Soliloquium*）。
+* 《独语录》（*Soliloquium*）。
 
 这篇短小的内心对话仿效奥古斯丁的《独语录》，让“彼得”与“阿伯拉尔”对谈。更具实践性质的神学问题，由爱洛依丝代表她自己以及天主圣神小堂的修女们提出的一系列问题带出：
 
-- 《爱洛依丝问题集（附阿伯拉尔解答）》（*Problemata Heloïssae cum Petri Abaelardi solutionibus*）。
+* 《爱洛依丝问题集（附阿伯拉尔解答）》（*Problemata Heloïssae cum Petri Abaelardi solutionibus*）。
 
 阿伯拉尔的布道文、赞美诗与哀歌（*planctus*）也处理实际问题。最后，阿伯拉尔还写成了一部影响极大、却全无思辨的神学著作：
 
-- 《是与否》（*Sic et non*）。
+* 《是与否》（*Sic et non*）。
 
 阿伯拉尔汇集了 158 个问题，每一个都配有暗示肯定回答（*sic*）的教父引文与其他暗示否定回答（*non*）的教父引文。阿伯拉尔并不试图调和这些表面不一致的说法，而是在序言中定下正当释经探究的规则：查歧义、看上下文、作相关区分，等等。
 

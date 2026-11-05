@@ -256,9 +256,9 @@ A. 你可以捐 5 美元给慈善机构，以挽救半个地球之外的一名�
 
 考虑以下三个事例：
 
-- **电车：** 轨道上有五个人，一辆失控的电车会撞死他们五个。有一个拉杆可以把电车转到另一条轨道上。但那条轨道上有一个人，如果你拉杆把电车转过去，他会被撞死。
-- **天桥：** 轨道上有五个人，一辆失控的电车会撞死他们五个。桥上站着一个身材高大的男子。如果你把他推下桥到轨道上，他会被撞死。但他会使电车脱轨，从而救下轨道上的五个人。
-- **活板门：** 轨道上有五个人，一辆失控的电车会撞死他们五个。桥上站着一个男子。如果他掉到轨道上，他会被撞死，但会使电车脱轨，从而救下轨道上的五个人。他站在一个活板门上，如果你拉一个拉杆，活板门会打开把他掉到轨道上。
+* **电车：** 轨道上有五个人，一辆失控的电车会撞死他们五个。有一个拉杆可以把电车转到另一条轨道上。但那条轨道上有一个人，如果你拉杆把电车转过去，他会被撞死。
+* **天桥：** 轨道上有五个人，一辆失控的电车会撞死他们五个。桥上站着一个身材高大的男子。如果你把他推下桥到轨道上，他会被撞死。但他会使电车脱轨，从而救下轨道上的五个人。
+* **活板门：** 轨道上有五个人，一辆失控的电车会撞死他们五个。桥上站着一个男子。如果他掉到轨道上，他会被撞死，但会使电车脱轨，从而救下轨道上的五个人。他站在一个活板门上，如果你拉一个拉杆，活板门会打开把他掉到轨道上。
 
 人们往往说他们应该在电车中拉杆，但在天桥中不应该把男子推下桥。天桥看起来类似于电车，因为你都会杀死一个人来救五个人。那么为什么直觉不同？一种方式是通过提供识别事例之间道德上相关差异的原则来消解这些显然冲突的直觉。这对义务论者是有利可图的。
 
@@ -495,7 +495,7 @@ A. 你可以捐 5 美元给慈善机构，以挽救半个地球之外的一名�
 
 ## 其他网络资源
 
-- Stratton-Lake, Philip，*Intuitionism in Ethics*，*Stanford Encyclopedia of Philosophy*（2026 年夏季版），Edward N. Zalta 与 Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)>. 〔这是《斯坦福哲学百科全书》中关于此主题的上一版词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionism-ethics)。〕
+* Stratton-Lake, Philip，*Intuitionism in Ethics*，*Stanford Encyclopedia of Philosophy*（2026 年夏季版），Edward N. Zalta 与 Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/](https://plato.stanford.edu/archives/sum2026/entries/intuitionism-ethics/)>. 〔这是《斯坦福哲学百科全书》中关于此主题的上一版词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=intuitionism-ethics)。〕
 
 ## 相关词条
 

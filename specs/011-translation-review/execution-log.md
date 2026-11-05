@@ -5,7 +5,7 @@
 * 门禁三红清零：术语硬错 3（Bernard Williams 人名表「威廉斯」vs 词汇表「威廉姆斯」冲突、登记册 conditional independence 重复行、人名表 Wolterstorff 重复行）+ 分类目录 1（james-ward 穆勒目录「瓦德」）全部修复；Williams 定案译名同步弱势方 39+5 处（integrity 正文 39 处、词汇表/SUMMARY/mu-lu-s/词条标题 4 处）。提交 71e104ff。
 * 信息非对称识别：i/information-biological.md 的 Williams 1992 = George C. Williams（进化生物学）、i/implicature-optimality-games.md 的 Asher/Sher/Williams = 语用学作者，均非 Bernard Williams，不改；两人未在 ren-ming-biao 登记 → 人名反向校对层补登记。
 * 工作区收口：26 条 s3_checked/done 逐条提交（a5/b1/d1/h3/i17）；48 条在途中间态快照 + check_style 改进 + i 批 monitor 提交 641faf13。
-* 剩余未跟踪 345 文件为临时装配/分块脚本（_tr_*.py、_asm_*.json、trans_p*.json、tasks/e/_tr_*.json 等）——不提交；移交清单待收口时统一裁定清理。
+* 剩余未跟踪 345 文件为临时装配/分块脚本（*tr**.py、*asm**.json、trans_p*.json、tasks/e/*tr**.json 等）——不提交；移交清单待收口时统一裁定清理。
 * 战役 spec 建档。下一步：机械层全跑。
 
 ## 2026-11-03 机械层全跑与 style 修复（三版迭代）
@@ -21,10 +21,10 @@
 
 * `bin/term_verify.py` 二重验证：term_coverage 全量缺口 834 术语 + 44 人名 → EN 正文级确认（yuanwen 剔 References）+ zh 正文级变体确认（登记册行全串、按顿号／分号拆分）→ 558 条缺口落盘 term-verify.jsonl（证据链完整）。
 * **人名反向校对 26→25 条逐条裁定**：
-  - A 类真缺口（译文用字 vs 登记册裁定偏差）修弱势方 5 处共 41 替换：腓茨拉尔夫→菲茨拉尔夫（crathorn）、狄迪穆斯→迪迪穆斯×4 + 泰奥弗拉斯托斯→特奥弗拉斯托斯×34（doxography-ancient）、卡姆斯勋爵→凯姆斯勋爵（aesthetics-18th-german）、德雷特斯基→德雷斯基（information-semantic）。
-  - B 类非缺口（现代学者保留英文体例，体例明文允许）：Quine×2、Baier、Lewontin、Wright、Levinson、Habermas、Cavell、Koyré、Hull、Gilligan、Smith、Earman、Norton、Adams、Mersenne、Wiggins 等——**登记册汉译行与体例的张力移交 008 裁定**（登记行去留/用途标注）。
-  - C 类漏译疑点（zh 正文无汉译无 EN 残留而 yuanwen 正文有）：Habermas@aesthetics-critical-theory、侯奈因@al-kindi、Theophrastus@democritus、Van Helmont@elisabeth-bohemia、ibn-ezra、Wiggins@identity——移交镜像完整性流程逐条回源核对。
-  - 新发现人名异译重复行：Jean Hampton（L77 让·汉普顿 2026-11-01 vs L316 琼·汉普顿 justice-virtue 2026-11-02 凭证优先）——留 316 行裁定待执行。
+  * A 类真缺口（译文用字 vs 登记册裁定偏差）修弱势方 5 处共 41 替换：腓茨拉尔夫→菲茨拉尔夫（crathorn）、狄迪穆斯→迪迪穆斯×4 + 泰奥弗拉斯托斯→特奥弗拉斯托斯×34（doxography-ancient）、卡姆斯勋爵→凯姆斯勋爵（aesthetics-18th-german）、德雷特斯基→德雷斯基（information-semantic）。
+  * B 类非缺口（现代学者保留英文体例，体例明文允许）：Quine×2、Baier、Lewontin、Wright、Levinson、Habermas、Cavell、Koyré、Hull、Gilligan、Smith、Earman、Norton、Adams、Mersenne、Wiggins 等——**登记册汉译行与体例的张力移交 008 裁定**（登记行去留/用途标注）。
+  * C 类漏译疑点（zh 正文无汉译无 EN 残留而 yuanwen 正文有）：Habermas@aesthetics-critical-theory、侯奈因@al-kindi、Theophrastus@democritus、Van Helmont@elisabeth-bohemia、ibn-ezra、Wiggins@identity——移交镜像完整性流程逐条回源核对。
+  * 新发现人名异译重复行：Jean Hampton（L77 让·汉普顿 2026-11-01 vs L316 琼·汉普顿 justice-virtue 2026-11-02 凭证优先）——留 316 行裁定待执行。
 * 双词术语 93 条（done/s3/r1 范围）：抽样定性三类——拉丁术语保留原文（prima facie 体例张力）、译名偏差（条件句分析 vs 条件分析@abilities）、英文残留——裁定尺度属 008 术语战役职权（需查证流程），011 以 term-verify.jsonl 证据链移交，不越权批量改译。
 * 单词术语 ~440 条：EN 词边界匹配对普通词（play/completion）误报率过高，工具方法局限登记，移交。
 
@@ -62,7 +62,7 @@
 ## 2026-11-04 深读滚动续
 
 * 累计深读 15 条全 pass（+academic-freedom 2026 新发词条、action-perception 传出副本对齐态实证、action 意向行动对齐态实证、actualism-possibilism 实修版本行粗体违例+登记册补伦理学域注、adaptationism 因果说明对齐态实证、addams-jane）。
-* 实修 2 项：abstract-objects 奎因→蒯因 7 处；actualism-possibilism 版本行 ** X ** 违例 1 处。
+* 实修 2 项：abstract-objects 奎因→蒯因 7 处；actualism-possibilism 版本行 **X** 违例 1 处。
 * 并行漂移随修 3 轮：mu-lu-s 四行全题化（mulu_sync.py 通用工具）；apperception 再生重复行去重并记双来源；Kant 人名重复行、Spinoza 词汇表冲突、leibniz-evil 登记重复 2 行（删旧并记来源）——**登记册/人名表重复行随并行会话新登记不断再生，每轮收口前 check_terms 必跑**。
 * 主题词汇解析轮完成（独立节见上）。
 
@@ -142,9 +142,9 @@
 
 * 批量爬虫 tl_crawler.mjs（断点续爬 JSONL 增量，7 段跑完 75 词，0 error）；凭证落盘 termonline-all（ok=73 empty=2）。
 * 裁定（match=2 池污染过滤后取 en 精确相等命中 46 条）：
-  - **✓一致 36 条**：being=存在、category=范畴、causality=因果性、consciousness=意识、idea=理念、necessity=必然性、ontology=本体论、perception=知觉、personal identity=人格同一性、evolution=进化、free will=自由意志 等——核心根词传统译法获审定库佐证（多数命中自然辩证法·科学哲学学科，语境正确）。
-  - **跨学科同名 8 条保留现译**：frame problem（审定"帧面问题"系信息科技）、integrity（"完整性"系档案学）、matter（"物质"系化学工程）、moral law（"道德律"系教育学）、quality（"质量"系农学）、transcendental（"超越的"系代数几何）、universal（"通用的"系航海）、the One（"一"系中华术语工程——普罗提诺传统仍通行"太一"，记分歧）。
-  - **学科语境正确的分歧 2 条主形保留、审定异译记入亦作**：intuition（审定"直觉"vs 康德权威译本"直观"）、mind（审定"心智"vs 心灵哲学通行"心灵"）。
+  * **✓一致 36 条**：being=存在、category=范畴、causality=因果性、consciousness=意识、idea=理念、necessity=必然性、ontology=本体论、perception=知觉、personal identity=人格同一性、evolution=进化、free will=自由意志 等——核心根词传统译法获审定库佐证（多数命中自然辩证法·科学哲学学科，语境正确）。
+  * **跨学科同名 8 条保留现译**：frame problem（审定"帧面问题"系信息科技）、integrity（"完整性"系档案学）、matter（"物质"系化学工程）、moral law（"道德律"系教育学）、quality（"质量"系农学）、transcendental（"超越的"系代数几何）、universal（"通用的"系航海）、the One（"一"系中华术语工程——普罗提诺传统仍通行"太一"，记分歧）。
+  * **学科语境正确的分歧 2 条主形保留、审定异译记入亦作**：intuition（审定"直觉"vs 康德权威译本"直观"）、mind（审定"心智"vs 心灵哲学通行"心灵"）。
 * 工具沉淀：tl_crawler.mjs 断点续爬爬虫（JSONL 增量、幂等去重）；scan/locate 口径统一（等长占位）。
 
 ## 2026-11-05 深读滚动续八

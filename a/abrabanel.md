@@ -228,7 +228,7 @@
 
 [^kristeller-1966]: –––. 1966. *Renaissance Philosophy and the Medieval Traditions*. Pennsylvania: The Archabbey Press.
 
-[^lawee-2001]: Lawee, Eric. 2001. *Isaac Abarbanel's Stance Toward Tradition: Defense, Dissent, and Dialogue. * Albany: State University of New York Press.
+[^lawee-2001]: Lawee, Eric. 2001. *Isaac Abarbanel's Stance Toward Tradition: Defense, Dissent, and Dialogue.* Albany: State University of New York Press.
 
 [^lesley-1992]: Lesley, Arthur M. 1992. “The Place of the Dialoghi d'Amore in Contemporaneous Jewish Thought,” in *Essential Papers on Jewish Culture in Renaissance and Baroque Italy*, David B. Ruderman, (ed.), 170–188. New York: New York University Press.
 
@@ -236,9 +236,9 @@
 
 [^levy-1993]: Levy, Ze´ev. 1993. “On the Concept of Beauty in the Philosophy of Yehudah Abrabanel,” in *New Horizons in Sephardic Studies*, Yehida K. Stillman and George K. Zuker (eds.), 37–44. Albany: State University of New York Press.
 
-[^malard-2020]: Malard, Constance. 2020. *Un Banquet aristotélicien: la renaissance de l'aristotélisme dans les Dialogues d'Amour de Léon l'Hébreu (env. 1465–1525). * Thèse de doctorat: Philosophie, textes et savoirs: Université Paris sciences et lettres.
+[^malard-2020]: Malard, Constance. 2020. *Un Banquet aristotélicien: la renaissance de l'aristotélisme dans les Dialogues d'Amour de Léon l'Hébreu (env. 1465–1525).* Thèse de doctorat: Philosophie, textes et savoirs: Université Paris sciences et lettres.
 
-[^matula-2020]: Matula, Jozef. 2020. *Leone Ebreo: Renesanc̆ný dialóg medzi láskou a múdrost'ou. * Olomouc: Pr̆irozený svĕt.
+[^matula-2020]: Matula, Jozef. 2020. *Leone Ebreo: Renesanc̆ný dialóg medzi láskou a múdrost'ou.* Olomouc: Pr̆irozený svĕt.
 
 [^milburn-1937]: Milburn, Alan Ray. 1937. “Leone Ebreo and the Renaissance.” *Isaac Abrabanel: Six Lectures*, J.B. Trend and H. Loewe (eds.), 131–156. Cambridge, MA: Cambridge University Press.
 

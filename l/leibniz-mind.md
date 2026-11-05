@@ -1,4 +1,5 @@
 # 莱布尼茨的心灵哲学 philosophy of mind (Mark Kulstad and Laurence Carlin)
+
 **首次发表于 1997 年 9 月 22 日；2020 年 6 月 29 日实质修订。**
 
 莱布尼茨在心灵哲学史上的地位，最可靠地奠立于其 **前定和谐**（pre-established harmony）学说。在一种较为流行的理解中，这大致是说：严格讲来，身心之间并无交互作用，二者之间只有一种非因果性的和谐、平行或对应关系。诚然，前定和谐对正确理解莱布尼茨的心灵哲学至关重要。但尚有远多的东西需要考虑；而且即便就前定和谐而论，这种流行看法也须修正——尤其当它暗示莱布尼茨接受一种大致笛卡尔式的、虽非交互论的二元论之时。他不接受这样的二元论；事实上，莱布尼茨之享有盛名，正在于他既批判唯物主义，也批判任何这类二元主义。总之，他对心灵哲学中若干经典论题——唯物主义、二元论与身心交互——皆有重要贡献。
@@ -170,12 +171,12 @@
 
 ## 其他网络资源
 
-- [Leibnitiana（Gregory Brown 制作，休斯顿大学）](http://www.gwleibniz.com/)
-- [科学院版莱布尼茨文本](http://www.leibniz-edition.de/)
-- [G.W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/)，Donald Rutherford 维护，加州大学圣迭戈分校。
-- [Garth Kemerling 的莱布尼茨页面](http://www.philosophypages.com/ph/leib.htm)
-- [莱布尼茨资源](https://www.mv.helsinki.fi/home/mroinila/leibniz1.htm)，Markku Roinila 维护，赫尔辛基大学。
-- [莱布尼茨——在线文本](http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/leibniz.html)，Clinton Tolley 维护，加州大学圣迭戈分校。
+* [Leibnitiana（Gregory Brown 制作，休斯顿大学）](http://www.gwleibniz.com/)
+* [科学院版莱布尼茨文本](http://www.leibniz-edition.de/)
+* [G.W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/)，Donald Rutherford 维护，加州大学圣迭戈分校。
+* [Garth Kemerling 的莱布尼茨页面](http://www.philosophypages.com/ph/leib.htm)
+* [莱布尼茨资源](https://www.mv.helsinki.fi/home/mroinila/leibniz1.htm)，Markku Roinila 维护，赫尔辛基大学。
+* [莱布尼茨——在线文本](http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/leibniz.html)，Clinton Tolley 维护，加州大学圣迭戈分校。
 
 ## 相关词条
 

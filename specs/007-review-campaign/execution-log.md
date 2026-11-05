@@ -39,7 +39,7 @@
 `bin/check_markdown.py` 对全部 4360 个 md 文件（git 追踪 1939 ∪ yuanwen/ 语料 2421）逐个复核（凭证 `results/mdqa-full.json`）。最终硬问题 **676**，全部定性归位：
 
 | 类别 | 数量 | 定性与归属 |
-|---|---|---|
+| --- | --- | --- |
 | 脚注悬空 | 457 | yuanwen：181 条补充材料 `[^note-N]`（在途 convert_supplement 附载修复将收敛，D14 家族）+ 276 条作者-年份引用键无定义（formal-epistemology 57、impossible-worlds 53、connectives-logic 48 等——link_citations 引用匹配缺口，**新发现**，移交镜像责任会话） |
 | 断链 | 167 | 全部为 yuanwen/SUMMARY.md 导航行指向 zh 侧页面（README/mu-lu-s/qian-yan/guan-yu 在 yuanwen/ 无镜像对应），结构缺口，移交镜像责任会话 |
 | 未换行收尾 | 46 | yuanwen 补充材料，在途重转换将收敛 |
@@ -179,14 +179,15 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 
 * check_all 7 项全绿 ✓
 * 逐件英文残留扫描（正则 `(?<=[\u4e00-\u9fff])\s+[a-z]{4,}`）：
-  - abduction：1 处（H1 括注"abduction"——模板 §2 #1 规定格式，非缺陷）
-  - abelard：0 处 ✓
-  - abhidharma：6 处 → **4 处实残已修**（rival→论敌、mass→总体、dharma 清单×2 标斜体），2 处为技术术语保留（§1.2 节标题 Dharma→dharmas 对应 yuanwen 结构；\*dharma\* 斜体技术词）
-  - african-sage：3 处 → 0 实残（H1 括注"sage philosophy"模板格式；onisegun×2 为约鲁巴技术词保留）
+  * abduction：1 处（H1 括注"abduction"——模板 §2 #1 规定格式，非缺陷）
+  * abelard：0 处 ✓
+  * abhidharma：6 处 → **4 处实残已修**（rival→论敌、mass→总体、dharma 清单×2 标斜体），2 处为技术术语保留（§1.2 节标题 Dharma→dharmas 对应 yuanwen 结构；\*dharma\* 斜体技术词）
+  * african-sage：3 处 → 0 实残（H1 括注"sage philosophy"模板格式；onisegun×2 为约鲁巴技术词保留）
 
 ### 深层反思：翻译质量诚实评估
 
 **做得好的**：
+
 1. 结构对位严格：四件 220/220、217/217、150/150、90/90 块 1:1，无漏节漏段
 2. 术语纪律：每件先查双表、再 termonline 查证、后进正文；冲突时以发布表既定译法为准（underdetermination 实证）
 3. 文献照录：abduction 125/125、abelard 97/97、abhidharma 95/95、african-sage 43/43——键集/序/归一化文本全等
@@ -196,7 +197,7 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 
 1. **英文残留反复出现**——四件中有三件存在英文残留。根因：写作时思维在双语间切换，中文句子中嵌入英文原词（rival/mass/various/definitive/involves/encapsulated 等）。二校本应逐条排查，但我的二校修改清单是自报的、没有独立工具拦截。**改进**：把正则扫描做成 check_style 的正式子规则（非括注、非斜体标记内的独立英文词→报 issue），而非事后人工补查。
 
-2. **abelard 拼接事故**——defs 拼接起点匹配 `### ` 误命中正文节标题，把 EN 正文 150 行灌进 zh 文件；连续三轮修复才收敛。根因：没有一个专门的 defs 拼接工具，每次用临时脚本、每次写不同的匹配逻辑。**改进**：写 `specs/007/bin/splice_defs.py`（输入 slug，自动定位 defs 起点=`[^` 首行，自动转换引号，自动核键集），消除临时脚本。
+2. **abelard 拼接事故**——defs 拼接起点匹配 `###` 误命中正文节标题，把 EN 正文 150 行灌进 zh 文件；连续三轮修复才收敛。根因：没有一个专门的 defs 拼接工具，每次用临时脚本、每次写不同的匹配逻辑。**改进**：写 `specs/007/bin/splice_defs.py`（输入 slug，自动定位 defs 起点=`[^` 首行，自动转换引号，自动核键集），消除临时脚本。
 
 3. **六道证据是自报的**——每个 step 的 evidence 字段是我自己写的描述。独立校验仅 style/academic/math/terms 四个机械工具。语义层面的"一校对照原文逐节核销"和"复审逐句回核"没有独立凭证。**改进**：逐段对齐器（para_align.py）已是独立凭证，应在 s1/r1 证据中引用其输出文件（para-align-summary.json），而非口头声明。
 
@@ -213,9 +214,9 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 ### 下批次改进措施（可检验）
 
 | 措施 | 检验方式 |
-|---|---|
+| --- | --- |
 | defs 拼接工具化（splice_defs.py） | abelard/abhidharma/african-sage 重跑不产生 EN 正文混入 |
-| check_style 增英文残留子规则 | abhidharma 修后 0 issue（已验证）|
+| check_style 增英文残留子规则 | abhidharma 修后 0 issue（已验证） |
 | s1/r1 证据引用 para-align-summary.json | 下一批任务 JSON 可查 |
 | 翻译前术语预提取 | 下一批术语注册数下降但覆盖不降 |
 | 经典汉译本回查 | 下一批 r3 证据含回查记录 |
@@ -267,7 +268,7 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 **波及面（三签名扫描：pubinfo 行尾挂文本 / 同行双加粗仅隔空白 / 段首加粗）**：
 
 | 文件 | 处态 | 处置 |
-|---|---|---|
+| --- | --- | --- |
 | a/abduction.md | 工作区未提交（HEAD 干净） | `git checkout` 恢复；确认 216 段完好 |
 | a/abelard.md | 同上 | checkout 恢复 + 重放行尾换行修复 |
 | a/abner-burgos.md | 同上 | checkout 恢复 + 重放 6 组 EN 未译修复（corpus/extensive/individual/dedicated×3） |
@@ -378,14 +379,15 @@ H1 题名、pubinfo 版本事实行（“首次发表于……”门禁钉）、
 站点头部导航、article sidebar 目录树、article-copyright 版权/邮箱行、article-banner 募捐横幅、footer（Browse/MENU 等）。
 
 **边界裁定**（区间内但按形制豁免）：
+
 1. byline 作者行（15/15 省略）：作者信息无损迁移至 H1 括注 `# 中文名 English Title (Author)`——合规省略，非漏译
 2. Academic Tools 表的 PDF 预览行（15/15 省略）：SEP 会员付费服务入口（Friends of the SEP Society），性质为站点服务链接而非词条内容——zh 形制为三行（如何引用/InPhO/PhilPapers），此后词条沿用
-3. zh 译注行（** （译注：……）**，14/15）：翻译工程自有说明，非 HTML 内容，已知豁免项
+3. zh 译注行（**（译注：……）**，14/15）：翻译工程自有说明，非 HTML 内容，已知豁免项
 
 ### 15 done 词条综合审计结果
 
 | 核对维度 | 结果 |
-|---|---|
+| --- | --- |
 | 站点框架文本混入 zh | 0 处（7 类框架短语 + copyright/fundraising 检测全负） |
 | 结构节缺失/多余（致谢/脚注/照录说明/学术工具三行/其他资源/相关词条） | 0 处（致谢 7 件与 HTML 有 Acknowledgments 者精确对应） |
 | Related Entries 条目数 vs HTML | 15/15 一致 |
@@ -407,7 +409,8 @@ H1 题名、pubinfo 版本事实行（“首次发表于……”门禁钉）、
 * 全译：导言+七节（历史起源/可能性主义/现实主义/保障论观点/非初级义务/极大主义全域主义之争/结语）+致谢；refs 64 条 defs 照录拼接（键集 64/64 归一化一致）；para_align 298/298 对
 * 题名依登记形：伦理学中的现实主义和可能性主义（actualism 伦理学语境=现实主义，与形而上学现实论区分）
 * 术语定案：保障论 securitism、谨慎可保障性、极大行动集 vs 意图上极大行动集（戈尔德曼）、完全特定同时性行动集、共同不可履行义务、义务困境、归并问题、行动版本问题、极大主义/全域主义、规范继承 NI、初级/次级/三级义务（麦金西 LO）、逐刻宽范保障论 MWSS（罗斯）、人生最优（索贝尔）
-* 公式照录：ODC/U/NI/G/G*1/S/G+/LO/Max₁Max₂ 含 O\lamp 宏原样；案例专名：拖延教授/琼斯/交通1交通2/机票/按钮/学校火灾/教书做丘比特还是翘课
+* 公式照录：ODC/U/NI/G/G*1/S/G+/LO/Max₁Max₂ 含
+O\lamp 宏原样；案例专名：拖延教授/琼斯/交通1交通2/机票/按钮/学校火灾/教书做丘比特还是翘课
 * 图件：figure1.svg（琼斯决策树）从 en/ 复制入 assets/，check_markdown image-missing 修复；本件 1 图 1 SVG
 * 体例事故与处置：三连星（*…**X**…* 斜体包裹加粗的批量补空格产物）3 处还原单层加粗；转义星号 \* 触发 EMPH 误配 1 处改 U+2217 ∗；bold-spacing 102 处批量补齐
 * a 批进度 15/160
@@ -465,7 +468,7 @@ H1 题名、pubinfo 版本事实行（“首次发表于……”门禁钉）、
 ### 六、质量趋势
 
 | 件 | 手写体例问题数 | 趋势 |
-|---|---|---|
+| --- | --- | --- |
 | abstract-objects | 634 | 基线 |
 | abilities | 59 | ↓90% |
 | academic-freedom | 46 | ↓ |

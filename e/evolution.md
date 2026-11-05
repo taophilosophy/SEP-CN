@@ -65,14 +65,14 @@
 
 ## 其他网络资源
 
-- [Darwin Correspondence Project](https://www.darwinproject.ac.uk/)
-- [Darwin Manuscripts Project](https://www.amnh.org/our-research/darwin-manuscripts-project/)
-- [Darwin Online](http://darwin-online.org.uk/)
-- [The Alfred Russel Wallace Correspondence Project](https://wallaceletters.myspecies.info/content/homepage)
-- [History and Philosophy of Biology Resources](http://www.rlm.net/philbio.html)
-- [Evolution 101](http://evolution.berkeley.edu/evolibrary/article/evo_01)
-- [PBS: Evolution](http://www.pbs.org/wgbh/evolution/)
-- [National Academy of Sciences Evolution Resources](http://www.nas.edu/evolution/)
+* [Darwin Correspondence Project](https://www.darwinproject.ac.uk/)
+* [Darwin Manuscripts Project](https://www.amnh.org/our-research/darwin-manuscripts-project/)
+* [Darwin Online](http://darwin-online.org.uk/)
+* [The Alfred Russel Wallace Correspondence Project](https://wallaceletters.myspecies.info/content/homepage)
+* [History and Philosophy of Biology Resources](http://www.rlm.net/philbio.html)
+* [Evolution 101](http://evolution.berkeley.edu/evolibrary/article/evo_01)
+* [PBS: Evolution](http://www.pbs.org/wgbh/evolution/)
+* [National Academy of Sciences Evolution Resources](http://www.nas.edu/evolution/)
 
 ## 相关词条
 

@@ -164,8 +164,8 @@
 
 ## 其他网络资源
 
-- [哥廷根印度语言电子文本登记库（GRETIL）](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)。
-- [印度哲学书目](https://web.archive.org/web/20211113104439/http://faculty.washington.edu/kpotter/ckeyt/home.htm)，Karl Potter 编，Christine Keyt 维护［存档］。
+* [哥廷根印度语言电子文本登记库（GRETIL）](http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm)。
+* [印度哲学书目](https://web.archive.org/web/20211113104439/http://faculty.washington.edu/kpotter/ckeyt/home.htm)，Karl Potter 编，Christine Keyt 维护［存档］。
 
 ## 相关词条
 

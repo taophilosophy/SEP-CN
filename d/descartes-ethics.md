@@ -187,7 +187,7 @@
 
 ## 其他网络资源
 
-- Rutherford, Donald, “Descartesʼ Ethics”，*Stanford Encyclopedia of Philosophy*（2026 年春季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/](https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/)>。［这是《斯坦福哲学百科全书》此前关于本主题的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ethics)。］
+* Rutherford, Donald, “Descartesʼ Ethics”，*Stanford Encyclopedia of Philosophy*（2026 年春季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/](https://plato.stanford.edu/archives/spr2026/entries/descartes-ethics/)>。［这是《斯坦福哲学百科全书》此前关于本主题的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes-ethics)。］
 
 ## 相关词条
 

@@ -310,7 +310,7 @@
 
 ## 其他网络资源
 
-- [《百科全书》在线](http://encyclopedie.uchicago.edu/)（ARTFL）
+* [《百科全书》在线](http://encyclopedie.uchicago.edu/)（ARTFL）
 
 ## 相关词条
 

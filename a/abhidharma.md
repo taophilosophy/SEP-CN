@@ -337,13 +337,13 @@
 
 阿毗达磨的翻译、信息与讲座：
 
-- [Access to Insight](http://www.accesstoinsight.org) ［仅上座部］
-- [BuddhaNet](http://www.buddhanet.net/)
+* [Access to Insight](http://www.accesstoinsight.org) ［仅上座部］
+* [BuddhaNet](http://www.buddhanet.net/)
 
 数字巴利与梵语佛教藏经中的阿毗昙／阿毗达磨藏内与释经文本：
 
-- [内观研究所数字巴利藏](https://www.tipitaka.org/)
-- [数字梵语佛教藏经](https://www.dsbcproject.org/)
+* [内观研究所数字巴利藏](https://www.tipitaka.org/)
+* [数字梵语佛教藏经](https://www.dsbcproject.org/)
 
 ## 相关词条
 

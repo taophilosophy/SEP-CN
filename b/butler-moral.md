@@ -208,7 +208,7 @@
 
 ## 其他网络资源
 
-- [巴特勒主教学会](https://www.bishopbutler.org/)，一个致力于巴特勒的在线网站，由 David 与 Linda White 维护。网站载有详尽而实用的文献目录，以及 White 所编巴特勒著作集的校样。
+* [巴特勒主教学会](https://www.bishopbutler.org/)，一个致力于巴特勒的在线网站，由 David 与 Linda White 维护。网站载有详尽而实用的文献目录，以及 White 所编巴特勒著作集的校样。
 
 ## 相关词条
 

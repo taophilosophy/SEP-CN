@@ -99,7 +99,7 @@ Shapiro（2021）考察了伊丽莎白在 1649 年 12 月 4 日致笛卡尔的�
 
 ## 其他网络资源
 
-- [笛卡尔与伊丽莎白公主的通信](http://www.earlymoderntexts.com/pdfs/descartes1643.pdf)（PDF），Jonathan Bennett 英译，见 Early Modern Texts Online。
+* [笛卡尔与伊丽莎白公主的通信](http://www.earlymoderntexts.com/pdfs/descartes1643.pdf)（PDF），Jonathan Bennett 英译，见 Early Modern Texts Online。
 
 ## 相关词条
 

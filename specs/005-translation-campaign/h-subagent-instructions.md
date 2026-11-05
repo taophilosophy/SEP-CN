@@ -54,14 +54,14 @@ segments:
 **标记守恒**：markdown 强调、链接、脚注键（`[^note-N]`）、数学定界符的计数与位置，回写前后守恒；不守恒该段废稿重做。
 
 **元素映射（fan-yi-mu-ban.md §2）要点**：
-- H1 = SUMMARY 条目文字（`# 中文名 English-name (Authors)`）。
-- 版本行：`*首次发表于 YYYY 年 M 月 D 日；YYYY 年 M 月 D 日实质修订。*`（日期与 baseline pubinfo 一致；无修订则止于首次发表句）。
-- 编号章节：`## 1 中文名`（保留编号、去掉英文句点）；`1.1` → `### 1.1 中文名`；不得跳级。
-- 行内引用组 `(Author year, p. X)` 原样保留；DK/古代编号保留。
-- 引块 `>` 引用块；图 `![图注](../yuanwen/assets/SLUG/<文件名>)`；表格 `:---:` 居中、紧凑风格。
-- 数学 `\(\)`→`$…$`、`\[\]`→`$$…$$`，LaTeX 逐字符保留；`<sub>/<sup>`→`_{x}`/`^{x}`。
-- 脚注 `[^note-N]` 键名与 yuanwen 逐字符一致；文末 `## 脚注` 节。
-- 尾部节序：脚注（有则）→ `## 参考文献` → `## 学术工具` → `## 其他网络资源` → `## 相关词条` → `## 致谢`（有则）。
+* H1 = SUMMARY 条目文字（`# 中文名 English-name (Authors)`）。
+* 版本行：`*首次发表于 YYYY 年 M 月 D 日；YYYY 年 M 月 D 日实质修订。*`（日期与 baseline pubinfo 一致；无修订则止于首次发表句）。
+* 编号章节：`## 1 中文名`（保留编号、去掉英文句点）；`1.1` → `### 1.1 中文名`；不得跳级。
+* 行内引用组 `(Author year, p. X)` 原样保留；DK/古代编号保留。
+* 引块 `>` 引用块；图 `![图注](../yuanwen/assets/SLUG/<文件名>)`；表格 `:---:` 居中、紧凑风格。
+* 数学 `\(\)`→`$…$`、`\[\]`→`$$…$$`，LaTeX 逐字符保留；`<sub>/<sup>`→`_{x}`/`^{x}`。
+* 脚注 `[^note-N]` 键名与 yuanwen 逐字符一致；文末 `## 脚注` 节。
+* 尾部节序：脚注（有则）→ `## 参考文献` → `## 学术工具` → `## 其他网络资源` → `## 相关词条` → `## 致谢`（有则）。
 
 **draft 完成**：账本全部段落双版齐备、`h/SLUG.md` 已写入 step2 拼合稿、`task_ops.py advance SLUG draft --actor sub-SLUG --evidence "ledger: N segments step1+step2; H1=<title>"`。
 
@@ -69,9 +69,9 @@ segments:
 
 对照 `yuanwen/h/SLUG.md` 逐节核销，**顺序（ADR-0020）：先查幻觉/漏译/增译 → 再查术语漂移 → 最后处理语言欧化**。
 
-- 幻觉/漏译/增译：每段与 step1 对照，确认译文忠实、无凭空添加、无漏句。
-- 术语漂移：正文用词与 `yi-zhe-shuo-ming.md`、`ren-ming-biao.md` 一致（grep 核对）。新术语写进 evidence 候选（不直接写登记册，主代理收口）。
-- 事实错误：人名、年代、版本号、编号逐一与源核对。
+* 幻觉/漏译/增译：每段与 step1 对照，确认译文忠实、无凭空添加、无漏句。
+* 术语漂移：正文用词与 `yi-zhe-shuo-ming.md`、`ren-ming-biao.md` 一致（grep 核对）。新术语写进 evidence 候选（不直接写登记册，主代理收口）。
+* 事实错误：人名、年代、版本号、编号逐一与源核对。
 
 `task_ops.py advance SLUG s1 --actor sub-SLUG --evidence "MTPE 对照: 幻觉0 漏译0 增译0; 术语漂移 核销清单; 事实 核销清单"`
 
@@ -89,15 +89,15 @@ python tools/check_academic.py --docs h/SLUG.md --strict   # 0 硬错误
 python tools/check_math.py                      # 全局数学平衡（确认本词条无 missing/unbalanced）
 ```
 
-- 中文弯引号、中西文半角空格、`**` 星号内侧禁空格、禁止 HTML、表格居中、书名号内中英空格。
-- 参考文献：非中文条目照录不译；**中国文献条目（古今）译为中文**（ADR-0011）；文首斜体说明行。
-- `task_ops.py advance SLUG s3 --actor sub-SLUG --evidence "check_style 0; check_academic --strict 0; check_math 0"`（**学术门禁自动挂钩**，未过则 advance 被拒——先修再推）。
+* 中文弯引号、中西文半角空格、`**` 星号内侧禁空格、禁止 HTML、表格居中、书名号内中英空格。
+* 参考文献：非中文条目照录不译；**中国文献条目（古今）译为中文**（ADR-0011）；文首斜体说明行。
+* `task_ops.py advance SLUG s3 --actor sub-SLUG --evidence "check_style 0; check_academic --strict 0; check_math 0"`（**学术门禁自动挂钩**，未过则 advance 被拒——先修再推）。
 
 ## 7. 完成与报告
 
-- 最终状态必须 `s3_checked`（`python tools/task_ops.py show SLUG` 验证）。
-- **不 git 提交、不 push**（主代理收口统一提交，40 路并发 git 会 index.lock 竞争）。
-- 向主代理报告：状态、账本段数、发现的问题、新术语候选、是否需人工复查。
+* 最终状态必须 `s3_checked`（`python tools/task_ops.py show SLUG` 验证）。
+* **不 git 提交、不 push**（主代理收口统一提交，40 路并发 git 会 index.lock 竞争）。
+* 向主代理报告：状态、账本段数、发现的问题、新术语候选、是否需人工复查。
 
 ## 8. 不得为
 
@@ -105,6 +105,6 @@ python tools/check_math.py                      # 全局数学平衡（确认本
 
 ## 9. 若遇到困难
 
-- 某段源文本无法理解：回 `en/SLUG/index.html` 核对原始，确认不是镜像缺陷；仍不解则记录进报告，跳到下一段，不要卡死。
-- 中途中断：重跑 `task_ops.py show SLUG` 即断点；账本已增量写回，可续。
-- 连续多段失败：如实报告，不要伪造完成。
+* 某段源文本无法理解：回 `en/SLUG/index.html` 核对原始，确认不是镜像缺陷；仍不解则记录进报告，跳到下一段，不要卡死。
+* 中途中断：重跑 `task_ops.py show SLUG` 即断点；账本已增量写回，可续。
+* 连续多段失败：如实报告，不要伪造完成。

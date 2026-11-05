@@ -10,9 +10,9 @@ Jean Piaget（1933）著名的认知发展理论认为，在 11 或 12 岁之前
 
 哲学家 Gareth Matthews 走得更远，他详细论证：Piaget 未能看到他所研究的那些儿童身上显现出的哲学思考。在《哲学与幼童》中，Matthews（1980）提供了许多关于年幼儿童哲学困惑的生动例证。例如：
 
-- TIM（约六岁），正忙着舔锅时问道：“爸爸，我们怎么能确定一切都不是梦呢？”（p. 1）
-- JORDAN（五岁），某天晚上八点上床时问道：“如果我八点上床，早上七点起床，我怎么知道时钟的时针真的只走了一圈呢？我必须整夜不睡看着它吗？哪怕我只是短暂地把目光移开，时针也许就会走两圈。”（p. 3）
-- 一天，JOHN EDGAR（四岁）——他见过飞机起飞、爬升、渐渐消失在远方——第一次坐飞机。当飞机停止爬升、安全带指示灯熄灭时，John Edgar 转向父亲，用一种如释重负但仍带着困惑的语气说：“在这里，东西其实并没有变小。”（p. 4）
+* TIM（约六岁），正忙着舔锅时问道：“爸爸，我们怎么能确定一切都不是梦呢？”（p. 1）
+* JORDAN（五岁），某天晚上八点上床时问道：“如果我八点上床，早上七点起床，我怎么知道时钟的时针真的只走了一圈呢？我必须整夜不睡看着它吗？哪怕我只是短暂地把目光移开，时针也许就会走两圈。”（p. 3）
+* 一天，JOHN EDGAR（四岁）——他见过飞机起飞、爬升、渐渐消失在远方——第一次坐飞机。当飞机停止爬升、安全带指示灯熄灭时，John Edgar 转向父亲，用一种如释重负但仍带着困惑的语气说：“在这里，东西其实并没有变小。”（p. 4）
 
 然而，也许有人会反驳：这类轶事虽然俯拾即是，但要证明儿童能作严肃的哲学思考，仅靠它们还不够。所需要的是儿童能够进行 **持续** 哲学讨论的证据。Matthews（1984）也提供了这方面的例证。例如，在与一组 8–11 岁的儿童会面时，他利用下面的例子编写了一个供讨论的故事：
 
@@ -36,13 +36,13 @@ Jean Piaget（1933）著名的认知发展理论认为，在 11 或 12 岁之前
 
 这段话邀请我们探讨互惠（reciprocity）的微妙道德之处，即“以同样的方式回报”。一组 10–11 岁的儿童对此会说些什么？以下是一组五年级学生就《丽莎》这段文字所作长篇讨论的节选（Pritchard 1996）[^pritchard-1996]。在老师几乎不加引导的情况下，学生们提出并热烈追问了如下问题：
 
-- 我们报复时会发生什么？这是否会开启一条长长的“扯平”链条，而没有人（或许除了始作俑者）想要它？
-- 报复真的能“扯平”吗？我们甚至能理解“扯平”是什么意思吗？
-- 以同样的方式回应一个错误真的对吗？这是不是试图把两个错误变成一个是正确？
-- 除了试图“扯平”，还有哪些选择？如果你只是不理睬那个想激怒你的人，会怎样？
-- 什么时候自卫是最好的策略？
-- 试图“扯平”和试图“给某人一个教训”有区别吗？
-- 像黄金法则这样的东西能帮到我们吗？黄金法则 **意味着** 什么？它是一条 **好** 规则吗？
+* 我们报复时会发生什么？这是否会开启一条长长的“扯平”链条，而没有人（或许除了始作俑者）想要它？
+* 报复真的能“扯平”吗？我们甚至能理解“扯平”是什么意思吗？
+* 以同样的方式回应一个错误真的对吗？这是不是试图把两个错误变成一个是正确？
+* 除了试图“扯平”，还有哪些选择？如果你只是不理睬那个想激怒你的人，会怎样？
+* 什么时候自卫是最好的策略？
+* 试图“扯平”和试图“给某人一个教训”有区别吗？
+* 像黄金法则这样的东西能帮到我们吗？黄金法则 **意味着** 什么？它是一条 **好** 规则吗？
 
 当儿童有机会表达时，像这样深思熟虑、富有洞见的问题对他们来说并不罕见。这次讨论是由一部儿童小说引发的。不过，学生日常的课堂材料、艺术作品、思想实验、每日新闻，或他们自身的经历，都能引发关于道德概念与道德关切的哲学讨论。
 
@@ -54,21 +54,21 @@ Jean Piaget（1933）著名的认知发展理论认为，在 11 或 12 岁之前
 
 老师接着说：“那另一句呢？你们认为所有问题都有答案吗？”接下来的回答如潮水般涌来：
 
-- 学生 1：“太阳中心有生命吗？”
-- 学生 2：“即使我们不能去那里查明，这个问题仍然有答案。”
-- 学生 3：“地球上有多少粒沙子？”
-- 学生 4：“有一个确定的数目，尽管我们不知道它是多少。”
-- 学生 3：“风会把它们吹得到处都是，有些我们会数不止一次。”
-- 学生 5：“太多了，数不完。”
-- 学生 6：“所有行星上有多少粒沙子？”
-- 学生 7：“地球上有多少棵树？”
-- 学生 4：“那比沙子容易。我们可以数树。”
-- 学生 7：“等你数完，有些树已经倒下了，另一些已经开始生长。”
-- 学生 8：“是上帝让时间开始的吗？”
-- 学生 9：“你是说，**如果** 有上帝，是他让时间开始的吗？”
-- 学生 7：“空间有边界吗？”
-- 学生 5：“是啊，如果你到了空间的尽头，试着把手伸出去，会怎样？如果你伸不出去，在外面是什么挡住了它？”
-- 学生 6：“也许挡住你手的是里面的东西。根本没有什么外面。”
+* 学生 1：“太阳中心有生命吗？”
+* 学生 2：“即使我们不能去那里查明，这个问题仍然有答案。”
+* 学生 3：“地球上有多少粒沙子？”
+* 学生 4：“有一个确定的数目，尽管我们不知道它是多少。”
+* 学生 3：“风会把它们吹得到处都是，有些我们会数不止一次。”
+* 学生 5：“太多了，数不完。”
+* 学生 6：“所有行星上有多少粒沙子？”
+* 学生 7：“地球上有多少棵树？”
+* 学生 4：“那比沙子容易。我们可以数树。”
+* 学生 7：“等你数完，有些树已经倒下了，另一些已经开始生长。”
+* 学生 8：“是上帝让时间开始的吗？”
+* 学生 9：“你是说，**如果** 有上帝，是他让时间开始的吗？”
+* 学生 7：“空间有边界吗？”
+* 学生 5：“是啊，如果你到了空间的尽头，试着把手伸出去，会怎样？如果你伸不出去，在外面是什么挡住了它？”
+* 学生 6：“也许挡住你手的是里面的东西。根本没有什么外面。”
 
 许多学生似乎都在努力从因我们的 **实际** 局限而难以（甚至不可能）回答的问题（例如，无法确定某粒特定的沙子是否已被数过），转向 **原则上** 不可回答的问题。最后，一个学生带着顽皮的笑容问道：“时间会结束吗？”他解释说，问题在于，如果时间真的结束了，之后就没有人能够确证这一点。
 
@@ -208,15 +208,15 @@ IAPC 的儿童哲学方法对许多教师来说更具吸引力的特点之一，
 
 ## 其他网络资源
 
-- Sutcliffe, Roger, 2019, “[No Philosophy–No Humanity](https://www.youtube.com/watch?v=I6_Nqf8eo-Q),” TEDx Warwick, March 2019, video available at youtube.com.
-- [ICPIC: International Council for Philosophical Inquiry with Children](http://www.icpic.org/).
-- [IAPC: Institute for the Advancement of Philosophy for Children](https://www.montclair.edu/cehs/academics/centers-and-institutes/iapc/).
-- [SAPERE: Society for the Advancement of Philosophical Enquiry and Reflection in Education](http://www.sapere.org.uk/).
-- [Uehiro Academy for Philosophy and Ethics in Education](http://www.p4chawaii.org/), University of Hawai‘i.
-- [PLATO: Philosophy, Learning and Teaching Organization](http://plato-philosophy.org/).
-- [The P4C Cooperative](http://p4c.com/).
-- [The Philosophy Foundation](https://www.philosophy-foundation.org)
-- [University of Washington Center for Philosophy for Children](https://depts.washington.edu/nwcenter/)
+* Sutcliffe, Roger, 2019, “[No Philosophy–No Humanity](https://www.youtube.com/watch?v=I6_Nqf8eo-Q),” TEDx Warwick, March 2019, video available at youtube.com.
+* [ICPIC: International Council for Philosophical Inquiry with Children](http://www.icpic.org/).
+* [IAPC: Institute for the Advancement of Philosophy for Children](https://www.montclair.edu/cehs/academics/centers-and-institutes/iapc/).
+* [SAPERE: Society for the Advancement of Philosophical Enquiry and Reflection in Education](http://www.sapere.org.uk/).
+* [Uehiro Academy for Philosophy and Ethics in Education](http://www.p4chawaii.org/), University of Hawai‘i.
+* [PLATO: Philosophy, Learning and Teaching Organization](http://plato-philosophy.org/).
+* [The P4C Cooperative](http://p4c.com/).
+* [The Philosophy Foundation](https://www.philosophy-foundation.org)
+* [University of Washington Center for Philosophy for Children](https://depts.washington.edu/nwcenter/)
 
 ## 相关词条
 

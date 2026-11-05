@@ -156,9 +156,9 @@
 
 ## 其他网络资源
 
-- “[论劳动阶级之可能的未来](http://socserv.socsci.mcmaster.ca/~econ/ugcm/3ll3/mill/prin/book4/bk4ch07)”，《政治经济学原理》（*Principles of Political Economy*），第 4 卷第 7 章
-- [海伦·泰勒的文章《英国妇女依法申请选举权考》（1867）](http://www.indiana.edu/~letrs/vwwp/taylor/suffrage.html)
-- [哈丽雅特·泰勒](http://spartacus-educational.com/Wtaylor.htm)，斯巴达克斯教育网页面。
+* “[论劳动阶级之可能的未来](http://socserv.socsci.mcmaster.ca/~econ/ugcm/3ll3/mill/prin/book4/bk4ch07)”，《政治经济学原理》（*Principles of Political Economy*），第 4 卷第 7 章
+* [海伦·泰勒的文章《英国妇女依法申请选举权考》（1867）](http://www.indiana.edu/~letrs/vwwp/taylor/suffrage.html)
+* [哈丽雅特·泰勒](http://spartacus-educational.com/Wtaylor.htm)，斯巴达克斯教育网页面。
 
 ## 相关词条
 
@@ -248,7 +248,7 @@
 
 [^mccabe-2017]: McCabe, H., 2017, “Harriet Taylor Mill,” in C. Macleod and D. E. Miller (eds.), *A Companion to Mill*, Malden, MA: Wiley Blackwell, 112–125.
 
-[^mccabe-2002]: –––, 2002, “Incomparable Friend,”*New Left Review Sidecar,* [ available here](https://newleftreview.org/sidecar/posts/incomparable-friend).
+[^mccabe-2002]: –––, 2002, “Incomparable Friend,”*New Left Review Sidecar,* [available here](https://newleftreview.org/sidecar/posts/incomparable-friend).
 
 [^mineka-1963]: Mineka, F., 1963, “The *Autobiography* and the Lady,” *University of Toronto Quarterly*, 32: 301–6.
 

@@ -1,4 +1,5 @@
 # 莱布尼茨论恶的问题 on the problem of evil (Thomas Feeney)
+
 *首次发表于 2026 年 1 月 12 日。*
 
 莱布尼茨过去与现在，都以回应恶所提之哲学与神学问题的努力而闻名。早在其 own 时代，他就欣慰于其《神义论》（1710）——一部论述“上帝的善、人的自由与恶的起源”的长篇著作——曾“取悦三大主要认信的所有杰出神学家”（Antognazza 2009, 482–3）[^antognazza-2009]。伏尔泰的通俗小说《老实人》（1759）塑造了邦葛罗斯博士：其对事物之坏的拒不肯认，似乎正是对莱布尼茨乐天主义的漫画化。较近以来，学者们已把恶的问题置于莱布尼茨思想的中心（Rutherford 1995; Antognazza 2009）[^antognazza-2009][^rutherford-1995]。若干重大工程使人得以接触关键文本（CP; LGR; DPG）、洞见《神义论》本身（Rateau 2011; Jorgensen & Newlands 2014）[^jorgensen-2014][^newlands-2014][^rateau-2011]，并综合地把握莱布尼茨发展中的观点（Rateau 2019）[^rateau-2019]。
@@ -264,16 +265,16 @@ L. Strickland (trans.), *The Shorter Leibniz Texts*, London: Bloomsbury, 2010.
 
 ## 其他网络资源
 
-- Murray, Michael 与 Sean Greenberg，“莱布尼茨论恶的问题”，《斯坦福哲学百科全书》（2025 年冬季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/win2025/entries/leibniz-evil/](https://plato.stanford.edu/archives/win2025/entries/leibniz-evil/)>。[这是《斯坦福哲学百科全书》中该主题的前一个词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-evil)。]
-- [莱布尼茨数字资源目录](https://leibniz-katalog.bbaw.de/en)
-- [莱布尼茨研究站明斯特（LFS）](https://www.uni-muenster.de/Leibniz/seite2.html)
-- [莱布尼茨档案馆，戈特弗里德·威廉·莱布尼茨图书馆（GWLB）](https://www.gwlb.de/leibniz/leibniz-archiv)
-- [G. W. 莱布尼茨：文本与翻译（Donald Rutherford）](https://dss-sites.ucsd.edu/drutherford/Leibniz/index.php)
-- [莱布尼茨翻译（Lloyd Strickland）](https://www.leibniz-translations.com/)
-- [Leibnitiana（Gregory Brown）](http://www.gwleibniz.com/)
-- [莱布尼茨资源（Markku Roinila）](https://www.mv.helsinki.fi/home/mroinila/leibniz1.htm)
-- [莱布尼茨文献目录](https://www.leibniz-bibliographie.de/)
-- [北美莱布尼茨学会](https://leibnizsociety.org/)
+* Murray, Michael 与 Sean Greenberg，“莱布尼茨论恶的问题”，《斯坦福哲学百科全书》（2025 年冬季版），Edward N. Zalta & Uri Nodelman（编），URL = <[https://plato.stanford.edu/archives/win2025/entries/leibniz-evil/](https://plato.stanford.edu/archives/win2025/entries/leibniz-evil/)>。[这是《斯坦福哲学百科全书》中该主题的前一个词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=leibniz-evil)。]
+* [莱布尼茨数字资源目录](https://leibniz-katalog.bbaw.de/en)
+* [莱布尼茨研究站明斯特（LFS）](https://www.uni-muenster.de/Leibniz/seite2.html)
+* [莱布尼茨档案馆，戈特弗里德·威廉·莱布尼茨图书馆（GWLB）](https://www.gwlb.de/leibniz/leibniz-archiv)
+* [G. W. 莱布尼茨：文本与翻译（Donald Rutherford）](https://dss-sites.ucsd.edu/drutherford/Leibniz/index.php)
+* [莱布尼茨翻译（Lloyd Strickland）](https://www.leibniz-translations.com/)
+* [Leibnitiana（Gregory Brown）](http://www.gwleibniz.com/)
+* [莱布尼茨资源（Markku Roinila）](https://www.mv.helsinki.fi/home/mroinila/leibniz1.htm)
+* [莱布尼茨文献目录](https://www.leibniz-bibliographie.de/)
+* [北美莱布尼茨学会](https://leibnizsociety.org/)
 
 ## 相关词条
 

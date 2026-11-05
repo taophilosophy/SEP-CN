@@ -251,7 +251,7 @@ F. H. 布拉德雷（1846–1924）是英国唯心主义者中最著名、最富
 ## 学术工具
 
 | | |
-|:---:|:---:|
+| :---: | :---: |
 | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bradley)。 |
 | [预览本词条的 PDF 版本](https://leibniz.stanford.edu/friends/preview/bradley/)，见 [SEP 之友学会](https://leibniz.stanford.edu/friends/)。 |
 | [查找与本词条相关的话题与思想家](https://www.inphoproject.org/entity?sep=bradley&redirect=True)，见互联网哲学本体论项目（InPhO）。 |

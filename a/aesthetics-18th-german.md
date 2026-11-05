@@ -1,4 +1,5 @@
 # 18 世纪的德国美学 18th Century German Aesthetics
+
 **首次发表于 2007 年 1 月 16 日；2026 年 5 月 6 日实质修订。**
 
 *保罗·盖耶（Paul Guyer）*
@@ -670,6 +671,7 @@
 然而，这两位思想者之间有两个关键差异。其一，赫尔德坚持承认我们主观安康之感所回应之一种 **客观** 安康，而对康德而言，安康总是主观的，即 **我们自己的**，我们审美目标之满足与我们道德目标之满足可以是平行的，但都是主观的。我们对自然美之审美愉悦，是我们道德安康在自然中可能之标志，而非对与己无关之自然中和谐之反应。第二，康德显然想把我们对审美目标之满足与我们道德兴趣之满足之联系保持分离却相连，从而不把审美愉悦坍塌为道德满足。此外，康德似乎暗示：一种健全之道德兴趣——自然友好于我们之目标——是（自然）美存在之智性而审美兴趣之 **条件**。从赫尔德之观点，那可能似乎是对一种应当完全自然之美之兴趣之过度道德化，尽管从康德之观点，赫尔德坚持美与善之连续，实际上可能冒审美经验过度道德化之险。所以无疑他们之间有差异，但赫尔德暗示康德只是没有认识到我们真正依附于对美之兴趣，是误导之。康德确实认识到那一点，但想保持那依附有些复杂而间接，以避免审美过度道德化之险、同时又避免道德过度审美化之险。
 
 总之，康德在十八世纪德国美学中占据中心位置，尽管他远非该时期唯一重要人物。相反，他以一种精微而复杂之方式，综合了沃尔夫派所代表之真理美学（尤其道德真理）与门德尔松和苏尔策在德国所代表之游戏美学，这种综合抵抗了席勒与赫尔德尽管有他们其他洞见、却试图强加于他之简化。同时，康德拒绝允许为自身之故唤起情感在趣味审美经验中之重要性，这是鲍姆加登与迈耶已认识到、门德尔松相当详细分析之审美经验之一个方面。所以康德对审美经验进路之综合决非完整。人们本可预期，紧接康德之后时期之美学史会转向把情感冲击整合进一种复杂审美经验理论之任务。然而，那不是所发生之，因为黑格尔与叔本华都发展了纯粹认知主义美学之不同版本，拒斥康德之游戏理论，并比康德更淡化审美经验之情感冲击。它将需要十九世纪剩余部分，来整合十八世纪所发展之三种美学进路。
+
 ## 参考文献
 
 **以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**
@@ -680,31 +682,31 @@
 
 ### Secondary Literature: Individual Authors
 
-#### Leibniz:
+#### Leibniz
 
-#### Wolff:
+#### Wolff
 
-#### Gottsched:
+#### Gottsched
 
 #### Baumgarten and Meier
 
-#### Mendelssohn:
+#### Mendelssohn
 
-#### Winckelmann:
+#### Winckelmann
 
-#### Lessing:
+#### Lessing
 
-#### Herder:
+#### Herder
 
-#### Sulzer:
+#### Sulzer
 
-#### Moritz:
+#### Moritz
 
-#### Herz:
+#### Herz
 
-#### Kant:
+#### Kant
 
-#### Schiller:
+#### Schiller
 
 [^baumgarten-1907]: Baumgarten, Alexander Gottlieb, [SBS], *Alexander Gottlieb Baumgarten: Seine Bedeutung und Stellung in der Leibniz-Wolffischen Philosophie und seine Beziehungen zu Kant, nebst Veröffentlichung einer unbekannten Handschrift der Ästhetik Baumgartens*, ed. Bernhard Poppe, Borna-Leipzig: Robert Noske, 1907.
 

@@ -147,8 +147,8 @@
 
 ## 其他网络资源
 
-- [爱比克泰德](http://www.iep.utm.edu/e/epictetu.htm)，互联网哲学百科全书词条
-- [爱比克泰德著作英译](http://classics.mit.edu/Browse/browse-Epictetus.html)，见互联网经典文献档案
+* [爱比克泰德](http://www.iep.utm.edu/e/epictetu.htm)，互联网哲学百科全书词条
+* [爱比克泰德著作英译](http://classics.mit.edu/Browse/browse-Epictetus.html)，见互联网经典文献档案
 
 ## 相关词条
 

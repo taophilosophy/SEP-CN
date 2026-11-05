@@ -1,4 +1,5 @@
 # 达玛里斯·库德沃斯·马沙姆 Masham, Lady Damaris (Sarah Hutton)
+
 *首次发表于 2003 年 1 月 14 日；2020 年 11 月 25 日实质修订。*
 
 达玛里斯·马沙姆（Damaris Masham，1658–1708）是最早的英格兰女性哲学家之一。其哲学的主要文献来源，是两部匿名刊行的著作——《论上帝之爱》（*A Discourse Concerning the Love of God*，1696）与《关于德性与基督徒生活的偶思》（*Occasional Thoughts in Reference to a Vertuous and Christian Life*，1705）——以及她与洛克和莱布尼茨的往来书信。
@@ -106,7 +107,7 @@
 
 ## 其他网络资源
 
-- [Project Vox](http://projectvox.org/masham-1659-1708/)
+* [Project Vox](http://projectvox.org/masham-1659-1708/)
 
 ## 相关词条
 

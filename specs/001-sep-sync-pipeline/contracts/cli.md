@@ -155,7 +155,7 @@
 ## 职责权属（防矛盾依赖，2026-10-27 依赖审查）
 
 | 职责 | 唯一入口 | 备注 |
-|---|---|---|
+| --- | --- | --- |
 | 新词条接入（intake） | `summary_sync.py apply-add` | 建桩 + SUMMARY 字母序插入 + baseline.zh_doc + yuanwen 转换，一条命令闭环 |
 | 批量骨架补建 | `rebuild_dir.py stubs` | 一次性重建工具，勿与 apply-add 混用于单词条 |
 | 词条包抓取与登记 | `fetch_entry.py` | baseline 唯一抓取登记方 |

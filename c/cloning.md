@@ -64,8 +64,8 @@
 
 ## 其他网络资源
 
-- Savulescu, J., 2005, “[Equality cloning and clonism, why we must clone](https://www.progress.org.uk/equality-cloning-and-clonism-why-we-must-clone/),” bionews.org, accessed 17 Sept 2012.
-- UNESCO, “[Universal Declaration on the Human Genome and Human Rights](https://www.unesco.org/en/legal-affairs/universal-declaration-human-genome-and-human-rights?hub=387)”, adopted 11 November 1997.
+* Savulescu, J., 2005, “[Equality cloning and clonism, why we must clone](https://www.progress.org.uk/equality-cloning-and-clonism-why-we-must-clone/),” bionews.org, accessed 17 Sept 2012.
+* UNESCO, “[Universal Declaration on the Human Genome and Human Rights](https://www.unesco.org/en/legal-affairs/universal-declaration-human-genome-and-human-rights?hub=387)”, adopted 11 November 1997.
 
 ## 相关词条
 

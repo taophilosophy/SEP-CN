@@ -217,24 +217,24 @@
 
 ### 被引法院案件
 
-- [布朗诉教育委员会案](https://www.law.cornell.edu/supremecourt/text/347/483#writing-USSC_CR_0347_0483_ZO)（1954）。
-- [米利肯诉布拉德利案](https://www.law.cornell.edu/supremecourt/text/433/267)（1974）。
-- [家长参与社区学校诉西雅图学区案](https://www.law.cornell.edu/supct/html/05-908.ZS.html)（2006）。
-- [圣安东尼奥独立学区诉罗德里格斯案](https://www.law.cornell.edu/supremecourt/text/411/1)（1973）。
-- [斯旺诉夏洛特-梅克伦堡教育委员会案](https://www.law.cornell.edu/supremecourt/text/402/1)（1970）。
-- [约德诉威斯康星州案](https://www.law.cornell.edu/supremecourt/text/406/205)（1972）。
+* [布朗诉教育委员会案](https://www.law.cornell.edu/supremecourt/text/347/483#writing-USSC_CR_0347_0483_ZO)（1954）。
+* [米利肯诉布拉德利案](https://www.law.cornell.edu/supremecourt/text/433/267)（1974）。
+* [家长参与社区学校诉西雅图学区案](https://www.law.cornell.edu/supct/html/05-908.ZS.html)（2006）。
+* [圣安东尼奥独立学区诉罗德里格斯案](https://www.law.cornell.edu/supremecourt/text/411/1)（1973）。
+* [斯旺诉夏洛特-梅克伦堡教育委员会案](https://www.law.cornell.edu/supremecourt/text/402/1)（1970）。
+* [约德诉威斯康星州案](https://www.law.cornell.edu/supremecourt/text/406/205)（1972）。
 
 ### 其他资源
 
-- [《教育状况》](https://nces.ed.gov/programs/coe/)，国家教育统计中心
-- Reardon, Sean F., 2015, [“School Segregation and Racial Academic Achievement Gaps”](http://cepa.stanford.edu/wp15-12), (CEPA Working Paper No.15–12). Retrieved from Stanford Center for Education Policy Analysis.
-- Reardon, Sean F., 2021, “[The Economic Achievement Gap in the US, 1960-2020: Reconciling Recent Empirical Findings](https://cepa.stanford.edu/sites/default/files/wp21-09-v112021.pdf)”, (CEPA Working Paper No. 21.09). Retrieved from Stanford Center for Education Policy Analysis.
-- Reardon, Sean F., Erica Weather, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). Retrieved from Stanford Center for Education Policy Analysis.
-- [国家公平地图集](http://www.nationalequityatlas.org)，PolicyLink 与南加州大学股权研究所。特别是[学校贫困](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)条目
-- [2022 年美国劳工统计局](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
-- 美国一些选拔性大学近期新生班级的在线简介
-- [哈佛](https://features.thecrimson.com/2018/freshman-survey/makeup/)
-- [耶鲁](https://admissions.yale.edu/sites/default/files/2026profileweb.pdf)
+* [《教育状况》](https://nces.ed.gov/programs/coe/)，国家教育统计中心
+* Reardon, Sean F., 2015, [“School Segregation and Racial Academic Achievement Gaps”](http://cepa.stanford.edu/wp15-12), (CEPA Working Paper No.15–12). Retrieved from Stanford Center for Education Policy Analysis.
+* Reardon, Sean F., 2021, “[The Economic Achievement Gap in the US, 1960-2020: Reconciling Recent Empirical Findings](https://cepa.stanford.edu/sites/default/files/wp21-09-v112021.pdf)”, (CEPA Working Paper No. 21.09). Retrieved from Stanford Center for Education Policy Analysis.
+* Reardon, Sean F., Erica Weather, Erin Fahle, Heewon Jang, and Demetra Kalogrides, 2022, “[Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps](https://cepa.stanford.edu/content/separate-still-unequal-new-evidence-school-segregation-and-racial-academic-achievement-gaps)”, (CEPA Working Paper No.19-06). Retrieved from Stanford Center for Education Policy Analysis.
+* [国家公平地图集](http://www.nationalequityatlas.org)，PolicyLink 与南加州大学股权研究所。特别是[学校贫困](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)条目
+* [2022 年美国劳工统计局](https://www.bls.gov/emp/chart-unemployment-earnings-education.htm)
+* 美国一些选拔性大学近期新生班级的在线简介
+* [哈佛](https://features.thecrimson.com/2018/freshman-survey/makeup/)
+* [耶鲁](https://admissions.yale.edu/sites/default/files/2026profileweb.pdf)
 
 ## 相关词条
 

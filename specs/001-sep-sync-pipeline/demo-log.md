@@ -140,9 +140,9 @@
 1. **演示件**：spacetime-holearg（空穴论证，四要素齐备且最均衡：9066 词/6 图/8 长脚注/86 文献）。走完六道状态机至 **done**（项目首个 done），证据链全数入任务 JSON。
 2. **模板裁定首跑确认**：zh 侧图片相对路径 `../yuanwen/assets/<slug>/`（与 yuanwen 侧 `../assets/`（ADR-0010）不同，因词条在 `<letter>/` 子目录）——实跑验证可解析，裁定确认入模板 v1.1。
 3. **演示暴露并修复的流程问题**：
-   - check_academic orphan-def 未考虑**跨文件脚注**（补充材料引用主文 notes.html#note-N，主文定义被误报孤儿）——已修（词条包内引用豁免）；
-   - 新首发词条无存档史（baseline archinfo 为空属如实数据）被 task-pin-missing 误报——已修（合法缺失豁免）；
-   - 人名体例语义违规（演示译文中现代学者 Stachel/Maudlin 被汉化，违反 rules/03 与 ADR-0012 登记册体例）——已修（保留英文；历史人物 Clarke/Hilbert/Kretschmann 首现括注）。
+   * check_academic orphan-def 未考虑**跨文件脚注**（补充材料引用主文 notes.html#note-N，主文定义被误报孤儿）——已修（词条包内引用豁免）；
+   * 新首发词条无存档史（baseline archinfo 为空属如实数据）被 task-pin-missing 误报——已修（合法缺失豁免）；
+   * 人名体例语义违规（演示译文中现代学者 Stachel/Maudlin 被汉化，违反 rules/03 与 ADR-0012 登记册体例）——已修（保留英文；历史人物 Clarke/Hilbert/Kretschmann 首现括注）。
 4. **待办**：表格类元素（数据表）仍待首个含表词条实跑；rules/07 参考文献双形态歧义（zh 发布形态 vs yuanwen 底稿形态）已开 ADR-0017 草案提请裁定。
 
 ## 状态

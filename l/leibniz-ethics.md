@@ -1,4 +1,5 @@
 # 莱布尼茨的伦理学 ethics (Andrew Youpa)
+
 *首次发表于 2004 年 8 月 26 日；2025 年 6 月 17 日实质修订。*
 
 尽管莱布尼茨从未写过系统的伦理学专著，但依他之见，神学是一种法理学——法的科学（NE, p. 526）。而莱布尼茨为神学领域贡献了一部系统著作，即《神义论》（1710）：他生前出版的唯一大型哲学著作。鉴于作为自然神学家与形而上学家的莱布尼茨同时是一位道德哲学家，伦理学在其哲学体系中居核心地位；名义上不同的领域之间并无分界。因此，“他从未写过系统的伦理学专著”这一说法，不加限定便不为真。此外，他把神学看作法的科学——这一事实为其伦理学的品格提供了一些洞察。他提出一种自然法理论；与其他此类理论一样，其基本结构由善的理论与法的理论构成。遵循后者所阐明之原则，对达至善既必要又充分。既然照莱布尼茨之说，上帝是善的尺度，其伦理学的首要指令便是：人应当尽可能仿效神性。
@@ -281,10 +282,10 @@ Rutherford 给出的对该问题的一个解法，见于莱布尼茨关于恩典
 
 ## 其他网络资源
 
-- [莱布尼茨翻译](http://www.leibniz-translations.com/)，Lloyd Strickland 维护（兰卡斯特大学）
-- [Leibnitiana](http://www.gwleibniz.com/)，Gregory Brown 维护（休斯顿大学）
-- [莱布尼茨资源](http://www.helsinki.fi/~mroinila/leibniz.htm)，Markku Roinila 维护（赫尔辛基大学）
-- [G. W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/index.php)，Donald Rutherford 维护（加州大学圣迭戈分校）
+* [莱布尼茨翻译](http://www.leibniz-translations.com/)，Lloyd Strickland 维护（兰卡斯特大学）
+* [Leibnitiana](http://www.gwleibniz.com/)，Gregory Brown 维护（休斯顿大学）
+* [莱布尼茨资源](http://www.helsinki.fi/~mroinila/leibniz.htm)，Markku Roinila 维护（赫尔辛基大学）
+* [G. W. 莱布尼茨：文本与翻译](http://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/index.php)，Donald Rutherford 维护（加州大学圣迭戈分校）
 
 ## 相关词条
 

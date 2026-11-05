@@ -68,7 +68,7 @@
 
 ## Other Internet Resources
 
-- [Project Vox：康威（1631–1679）](http://projectvox.org/conway-1631-1679/)（现代女性哲学家档案与教学资料网站）
+* [Project Vox：康威（1631–1679）](http://projectvox.org/conway-1631-1679/)（现代女性哲学家档案与教学资料网站）
 
 ## 相关词条
 

@@ -105,8 +105,8 @@
 
 ## 其他网络资源
 
-- [杜威研究中心](http://deweycenter.siu.edu/)，南伊利诺伊大学卡本代尔分校。
-- [实用主义网络书馆](http://www.pragmatism.org/)，John Shook（俄克拉何马州立大学）维护。
+* [杜威研究中心](http://deweycenter.siu.edu/)，南伊利诺伊大学卡本代尔分校。
+* [实用主义网络书馆](http://www.pragmatism.org/)，John Shook（俄克拉何马州立大学）维护。
 
 ## 相关词条
 

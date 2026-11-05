@@ -1,4 +1,5 @@
 # 康德对形而上学的批判 critique of metaphysics (Michelle Grier)
+
 *首次发表于 2004 年 2 月 29 日；2022 年 9 月 14 日实质修订。*
 
 **综合先天命题如何可能**？这一问题通常被认为构成康德《纯粹理性批判》中的核心研究。作为回答，康德认为应当把问题分为三个：1）数学的综合 **先天** 命题如何可能？2）自然科学的综合 **先天** 命题如何可能？最后，3）形而上学的综合 **先天** 命题如何可能？康德以系统的方式逐一回应。第一个问题的回答大抵见于先验感性论及空间与时间的先验观念性学说；第二个问题的回答见于先验分析论——康德在那里试图表明范畴在奠基知识与经验之可能性中的本质作用；第三个问题的回答见于先验辩证论——且是一个干脆响亮的结论：表征形而上学的综合 **先天** 命题根本不是真正可能的。也就是说，形而上学内在地是辩证的。故康德的《纯粹理性批判》既以它所拒斥的、也以它所捍卫的而为人所知。在辩证论中，康德把注意力转向传统理性主义形而上学的核心学科——理性心理学、理性宇宙论与理性神学——旨在揭示纠缠这些学科的诸种错误。
@@ -187,7 +188,7 @@
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
-### Relevant Works by Kant (includes German editions and translations):
+### Relevant Works by Kant (includes German editions and translations)
 
 ### Selected Secondary Readings on Topics in Kant’s Dialectic
 
@@ -280,9 +281,9 @@
 
 ## 其他网络资源
 
-- [美因茨康德网站](http://www.kant.uni-mainz.de/)
-- [Steve Palmquist 的康德网站](http://www.hkbu.edu.hk/~ppp/Kant.html)
-- [德意志观念论学会](https://sites.google.com/a/lclark.edu/idealism/sgi)
+* [美因茨康德网站](http://www.kant.uni-mainz.de/)
+* [Steve Palmquist 的康德网站](http://www.hkbu.edu.hk/~ppp/Kant.html)
+* [德意志观念论学会](https://sites.google.com/a/lclark.edu/idealism/sgi)
 
 ## 相关词条
 

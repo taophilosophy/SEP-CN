@@ -264,7 +264,7 @@
 
 ## 其他网络资源
 
-- [Bessarion's Book in Defence of Plato: Among the Papers of the Last Byzantine Philosopher (Il libro di Bessarione in difesa di Platone: nell'officina dell'ultimo filosofo bizantino)](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-620-6/) (PDF)，贝萨里翁《驳柏拉图的诽谤者》（*In Calumniatorem Platonis*）藏于威尼斯圣马可图书馆（Biblioteca Marciana）的手稿展览目录，威尼斯：威尼斯大学出版社。
+* [Bessarion's Book in Defence of Plato: Among the Papers of the Last Byzantine Philosopher (Il libro di Bessarione in difesa di Platone: nell'officina dell'ultimo filosofo bizantino)](https://edizionicafoscari.unive.it/it/edizioni4/libri/978-88-6969-620-6/) (PDF)，贝萨里翁《驳柏拉图的诽谤者》（*In Calumniatorem Platonis*）藏于威尼斯圣马可图书馆（Biblioteca Marciana）的手稿展览目录，威尼斯：威尼斯大学出版社。
 
 ## 相关词条
 

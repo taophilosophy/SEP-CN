@@ -24,18 +24,18 @@ epsilon 演算在其最基本的形式中，是带有一个“epsilon 运算”�
 
 设 $L$ 为一种一阶语言，即一个具有指定元数的常项、函数与关系符号的清单。$L$ 的 epsilon 项集合与公式集合被同时归纳地定义如下：
 
-- $L$ 的每个常项是一个项。
-- 每个变项是一个项。
-- 若 $s$ 与 $t$ 是项，则 $s = t$ 是一个公式。
-- 若 $s_1, \ldots, s_k$ 是项且 $F$ 是 $L$ 的一个 $k$ 元函数符号，则 $F(s_1, \ldots, s_k)$ 是一个项。
-- 若 $s_1, \ldots, s_k$ 是项且 $R$ 是 $L$ 的一个 $k$ 元关系符号，则 $R(s_1, \ldots, s_k)$ 是一个公式。
-- 若 $A$ 与 $B$ 是公式，则 $(A \wedge B)$、$(A \vee B)$、$(A \rightarrow B)$ 与 $\neg A$ 也是公式。
-- 若 $A$ 是公式且 $x$ 是变项，则 $\varepsilon x A$ 是一个项。
+* $L$ 的每个常项是一个项。
+* 每个变项是一个项。
+* 若 $s$ 与 $t$ 是项，则 $s = t$ 是一个公式。
+* 若 $s_1, \ldots, s_k$ 是项且 $F$ 是 $L$ 的一个 $k$ 元函数符号，则 $F(s_1, \ldots, s_k)$ 是一个项。
+* 若 $s_1, \ldots, s_k$ 是项且 $R$ 是 $L$ 的一个 $k$ 元关系符号，则 $R(s_1, \ldots, s_k)$ 是一个公式。
+* 若 $A$ 与 $B$ 是公式，则 $(A \wedge B)$、$(A \vee B)$、$(A \rightarrow B)$ 与 $\neg A$ 也是公式。
+* 若 $A$ 是公式且 $x$ 是变项，则 $\varepsilon x A$ 是一个项。
 
 在无歧义时可省略括号。代入与自由变项、约束变项的概念按通常方式定义；特别地，变项 $x$ 在项 $\varepsilon x A$ 中被约束。预期解释是：$\varepsilon x A$ 表示 **某个** 满足 $A$ 的 $x$（如果存在的话）。因此，epsilon 项受以下公理支配（希尔伯特的“超限公理”）：$$ A(x) \rightarrow A(\varepsilon x A) $$ 此外，epsilon 演算还包括支配经典命题联结词的完备公理组，以及支配等词符号的公理。演算的仅有规则如下：
 
-- 肯定前件式
-- 代入：从 $A(x)$ 推出 $A(t)$，$t$ 为任意项。
+* 肯定前件式
+* 代入：从 $A(x)$ 推出 $A(t)$，$t$ 为任意项。
 
 早期形式的 epsilon 演算（如希尔伯特 1923 中所呈现的）[^hilbert-1923]使用 epsilon 算子的一种对偶形式，其中 $\varepsilon x A$ 返回一个 **证伪** $A(x)$ 的值。上文的版本用于阿克曼的博士论文（1924），并已成为标准。
 
@@ -77,8 +77,8 @@ $$ \exists x_1 \forall x_2 \exists x_3 \forall x_4 B(x_1, x_2, x_3, x_4) $$ 其�
 
 更一般地，设 $A$ 为任何前束公式，形如 $$ \mathbf{Q}_1 x_1 \ldots \mathbf{Q}_n x_n B(x_1, \ldots, x_n), $$ 其中 $B$ 是无量词的。则 $B$ 被称为 $A$ 的 **母式**，$B$ 的一个 **实例** 通过在该语言的项替换 $B$ 的某些变项而得到。$A$ 的 **Herbrand 范式** $A^H$ 通过以下步骤获得：
 
-- 删去每个全称量词；
-- 把每个全称量化的变项 $x_i$ 替换为 $f_i (x_{i}^1,\ldots, x_{i}^{k(i)})$，其中 $x_{i}^1,\ldots, x_{i}^{k(i)}$ 是 $A$ 中前于 $\mathbf{Q}_i$ 的（按序排列的）对应存在量词的变项，$f_i$ 是为此目的指定的一个新函数符号。
+* 删去每个全称量词；
+* 把每个全称量化的变项 $x_i$ 替换为 $f_i (x_{i}^1,\ldots, x_{i}^{k(i)})$，其中 $x_{i}^1,\ldots, x_{i}^{k(i)}$ 是 $A$ 中前于 $\mathbf{Q}_i$ 的（按序排列的）对应存在量词的变项，$f_i$ 是为此目的指定的一个新函数符号。
 
 当我们说 $A^H$ 的母式的一个 **实例** 时，我们指的是通过在 $A^H$ 的母式中代入扩张语言中的项而得到的公式。现在我们可以陈述希尔伯特与贝奈斯对
 
@@ -86,8 +86,8 @@ $$ \exists x_1 \forall x_2 \exists x_3 \forall x_4 B(x_1, x_2, x_3, x_4) $$ 其�
 
 （2）一个前束公式 $A$ 在谓词演算中可导，当且仅当 $A$ 的母式的实例的某个析取 $\bigvee_j B_j$ 是准重言式，且 $A$ 可从 $\bigvee_j B_j$ 出发、仅用以下规则导出：
 
-- 从 $C_1 \vee \ldots \vee C_i (t) \vee \ldots \vee C_m$ 推出 $C_1 \vee \ldots \vee \exists x C_i (x) \vee \ldots \vee C_m$；以及
-- 从 $C_1 \vee \ldots \vee C_i (x) \vee \ldots \vee C_m$ 推出 $C_1 \vee \ldots \vee \forall xC_i (x) \vee \ldots \vee C_m$（若 $x$ 不在 $C_j$ 中，$j \ne i$）；
+* 从 $C_1 \vee \ldots \vee C_i (t) \vee \ldots \vee C_m$ 推出 $C_1 \vee \ldots \vee \exists x C_i (x) \vee \ldots \vee C_m$；以及
+* 从 $C_1 \vee \ldots \vee C_i (x) \vee \ldots \vee C_m$ 推出 $C_1 \vee \ldots \vee \forall xC_i (x) \vee \ldots \vee C_m$（若 $x$ 不在 $C_j$ 中，$j \ne i$）；
 
 以及 $\vee$ 的幂等性（从 $C \vee C \vee D$ 推出 $C \vee D$）。
 
@@ -103,8 +103,8 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 如上所述，从历史上看，对 epsilon 演算的首要兴趣在于获得一致性证明。希尔伯特 1917–1918 年的讲义已经指出，可以轻松证明命题逻辑的一致性：取命题变项与公式在真值 0 与 1 上取值，把逻辑联结词解释为相应的算术运算。类似地，可以证明谓词逻辑（或纯 epsilon 演算）的一致性，方法是把解释特殊化为论域只有一个元素的情形。这些考量提示了如下更一般的一致性证明纲领：
 
-- 扩充 epsilon 演算，使之表示数学的更大范围。
-- 用有穷方法表明，扩充系统中的每个证明都有一个一致的解释。
+* 扩充 epsilon 演算，使之表示数学的更大范围。
+* 用有穷方法表明，扩充系统中的每个证明都有一个一致的解释。
 
 例如，考虑算术的语言，带有符号 $0$、$1$、$+$、$\times$、$\lt$。除了定义基本符号的无量词公理之外，还可以规定 epsilon 项 $\varepsilon x A(x)$ 挑出满足 $A$ 的最小值（如果存在），用以下公理：$$ \tag{*} A(x) \rightarrow A(\varepsilon x A(x)) \wedge \varepsilon x A(x) \le x $$ 由此得到的系统足以解释一阶（Peano）算术。另一种选择是取 epsilon 符号满足以下公理：$$ A(y) \rightarrow A(\varepsilon x A(x)) \wedge \varepsilon x A(x) \ne y + 1. $$
 
@@ -114,9 +114,9 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 希尔伯特的 **epsilon 替换方法** 大致可以描述如下：
 
-- 给定一组有限的公理，先把所有 epsilon 项解释为 0。
-- 找一个在该解释下为假的上述公理 (*) 的实例。这只会发生在：有一个项 $t$ 使得 $A(t)$ 在该解释中为真，但 $A(\varepsilon x A(x))$ 为假，或 $t$ 的值小于 $\varepsilon x A(x)$ 的值。
-- 通过把 $\varepsilon x A(x)$ 的值改为 $t$ 的值来“修复”该指派，并重复此过程。
+* 给定一组有限的公理，先把所有 epsilon 项解释为 0。
+* 找一个在该解释下为假的上述公理 (*) 的实例。这只会发生在：有一个项 $t$ 使得 $A(t)$ 在该解释中为真，但 $A(\varepsilon x A(x))$ 为假，或 $t$ 的值小于 $\varepsilon x A(x)$ 的值。
+* 通过把 $\varepsilon x A(x)$ 的值改为 $t$ 的值来“修复”该指派，并重复此过程。
 
 一旦以有穷上可接受的方式表明这一逐次“修复”的过程终止，就得到了有穷主义一致性证明。如果确实终止，所有关键公式都是不含 epsilon 项的真公式。
 
@@ -213,7 +213,7 @@ Meyer Viol 的论文 1995a, 1995b 包含 epsilon 演算的进一步的证明论�
 
 ## 其他网络资源
 
-- [Epsilon Calculi](http://www.utm.edu/research/iep/e/ep-calc.htm) by B. Hartley Slater (Internet Encyclopedia of Philosophy).
+* [Epsilon Calculi](http://www.utm.edu/research/iep/e/ep-calc.htm) by B. Hartley Slater (Internet Encyclopedia of Philosophy).
 
 Please contact the authors with further suggestions.
 

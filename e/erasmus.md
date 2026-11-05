@@ -193,10 +193,10 @@
 
 ## 其他网络资源
 
-- Nauert, Charles, “Desiderius Erasmus”，*The Stanford Encyclopedia of Philosophy*（2017 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2017/entries/erasmus/](https://plato.stanford.edu/archives/fall2017/entries/erasmus/)>。［这是《斯坦福哲学百科全书》此前关于伊拉斯谟的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus)。］
-- “[Erasmus, Desiderius](https://iep.utm.edu/erasmus/)”，Eric MacPhail 撰，*Internet Encyclopedia of Philosophy* 词条。
-- [伊拉斯谟近代早期研究中心](https://www.erasmus.org/)，鹿特丹伊拉斯谟大学与鹿特丹市立图书馆联合创办。
-- [鹿特丹伊拉斯谟学会](https://erasmussociety.org)，附惠更斯研究所及其《箴言集》数字化版本的链接。
+* Nauert, Charles, “Desiderius Erasmus”，*The Stanford Encyclopedia of Philosophy*（2017 年秋季版），Edward N. Zalta（编），URL = <[https://plato.stanford.edu/archives/fall2017/entries/erasmus/](https://plato.stanford.edu/archives/fall2017/entries/erasmus/)>。［这是《斯坦福哲学百科全书》此前关于伊拉斯谟的词条——见[版本历史](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus)。］
+* “[Erasmus, Desiderius](https://iep.utm.edu/erasmus/)”，Eric MacPhail 撰，*Internet Encyclopedia of Philosophy* 词条。
+* [伊拉斯谟近代早期研究中心](https://www.erasmus.org/)，鹿特丹伊拉斯谟大学与鹿特丹市立图书馆联合创办。
+* [鹿特丹伊拉斯谟学会](https://erasmussociety.org)，附惠更斯研究所及其《箴言集》数字化版本的链接。
 
 ## 相关词条
 

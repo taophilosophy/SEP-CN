@@ -473,7 +473,7 @@ Berto 与 Plebani（2015）对存在论与元存在论提供了有用的导引�
 
 [^inwagen-1983]: –––, 1983, “Fiction and Metaphysics,” *Philosophy and Literature*, 7(1): 67–77. doi:10.1353/phl.1983.0059
 
-[^inwagen-2024]: Inwagen Peter van, and Craig, William L., 2024, *Do Numbers Exist? A Debate About Abstract Objects *, New York and London: Routledge.
+[^inwagen-2024]: Inwagen Peter van, and Craig, William L., 2024, *Do Numbers Exist? A Debate About Abstract Objects*, New York and London: Routledge.
 
 [^jackson-1982]: Jackson, Frank, 1982, “Epiphenomenal Qualia,” *The Philosophical Quarterly*, 32(127): 127–136. doi:10.2307/2960077
 
@@ -591,13 +591,13 @@ Berto 与 Plebani（2015）对存在论与元存在论提供了有用的导引�
 
 [^tennant-1997]: Tennant, Neil, 1997, “On the Necessary Existence of Numbers,” *Noûs*, 31(3): 307–336. doi:10.1111/0029-4624.00048
 
-[^thomson-jones-2020]: Thomson-Jones, Martin, 2020, “Realism about Missing Systems,” in A. Levy, & P. Godfrey-Smith (eds.), * The Scientific Imagination*, pp. 75–101, New York, Oxford University Press.
+[^thomson-jones-2020]: Thomson-Jones, Martin, 2020, “Realism about Missing Systems,” in A. Levy, & P. Godfrey-Smith (eds.), *The Scientific Imagination*, pp. 75–101, New York, Oxford University Press.
 
 [^thomasson-1999]: Thomasson, Amie L., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
 
 [^thomasson-2015]: –––, 2015, *Ontology Made Easy*, Oxford: Oxford University Press.
 
-[^thomasson-2020]: –––, 2020, “If Models Were Fictions, then What Would They Be?,” in A. Levy, & P. Godfrey-Smith (eds.), * The Scientific Imagination*, pp. 51–74, New York, Oxford University Press.
+[^thomasson-2020]: –––, 2020, “If Models Were Fictions, then What Would They Be?,” in A. Levy, & P. Godfrey-Smith (eds.), *The Scientific Imagination*, pp. 51–74, New York, Oxford University Press.
 
 [^wetzel-2009]: Wetzel, Linda, 2009, *Types and Tokens: On Abstract Objects*, Cambridge, MA: The MIT Press.
 

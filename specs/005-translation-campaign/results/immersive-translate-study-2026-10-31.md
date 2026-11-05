@@ -6,7 +6,7 @@
 ## 一、插件流程拆解（六环节）
 
 | 环节 | 做法 |
-|---|---|
+| --- | --- |
 | 1. 范围圈定 | `selectors`/`excludeSelectors` 只译正文；`stayOriginalTags` 保留不译；`blockMinTextCount/WordCount` 过短不译 |
 | 2. 段落级批处理 | 翻译单位是**段落**；多段合并请求（约 25 段/次、1800 字符/次），限流 `limit`、超时 `requestTimeout` 显式参数 |
 | 3. 上下文与术语注入 | 提示词注入 `{{title_prompt}}`（标题）、`{{summary_prompt}}`（全文摘要，Pro 服务端提取）、`{{terms_prompt}}`（"**必需术语：翻译时必须使用**；source==target 则保留原文"） |
@@ -19,7 +19,7 @@
 ## 二、提取映射（已采纳，ADR-0021）
 
 | 它的做法 | 本仓库对应 | 落点 |
-|---|---|---|
+| --- | --- | --- |
 | id-YAML 段落账本 | rules/05 批量改写纪律（逐行身份追踪、残余≠0 禁止写回）同构 | rules/04 新节＋模板 §6：`tasks/<letter>/<slug>.ledger.yaml` |
 | 反思式两步双版留档 | rules/04 MTPE 验收顺序（先忠实后流畅）的工业印证 | **强制**（用户 2026-10-31 裁定）：step2 为成稿对象，step1 为一校对照底 |
 | 格式标记位置保持（html_only 条款） | 009 实锤：em 空格粘连、星号未转义、em-lang 超额包裹 | 标记守恒条款＋守恒校验清单 |

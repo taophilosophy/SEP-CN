@@ -22,8 +22,8 @@
 
 这一观点似乎是两个更基本的论题的结果：
 
-- 明确的断言：只有上帝在所有方面都是形而上地单纯的，因此一切受造物都是形而上地复合的；
-- 一种并非总是明确说明的观点：一切复合在某种意义上都是质料和形式的复合，即一个不确定的因素和一个规定性的要素。
+* 明确的断言：只有上帝在所有方面都是形而上地单纯的，因此一切受造物都是形而上地复合的；
+* 一种并非总是明确说明的观点：一切复合在某种意义上都是质料和形式的复合，即一个不确定的因素和一个规定性的要素。
 
 第二个论题背后的推理是模糊的。另一方面，不难找到详细论证第一个主张的中世纪作者。[^note-AquinasSimplicity] 不过，令人惊讶地难以找到任何给出其良好 **动机** 的中世纪作者。也就是说，为什么坚持上帝、且只有上帝是形而上地单纯这一点，会是 **重要的**？这一主张依赖于什么？
 
@@ -146,7 +146,7 @@
 
 ## 其他网络资源
 
-- Spade, Paul Vincent, 1999. “[The Warp and Woof of Metaphysics: How to Get Started on Some Big Themes](http://pvspade.com/Logic/docs/WarpWoo1.pdf).”（Adobe PDF 格式。）
+* Spade, Paul Vincent, 1999. “[The Warp and Woof of Metaphysics: How to Get Started on Some Big Themes](http://pvspade.com/Logic/docs/WarpWoo1.pdf).”（Adobe PDF 格式。）
 
 ## 相关词条
 

@@ -58,11 +58,11 @@
 
 杜顺将第二观命名为“*li* 与 *shi* 相互无碍”。他把这一观分为十门（themes），自然成五对：
 
-- 1/2 *Li* 与 *shi* 互相周遍。
-- 3/4 *Li* 与 *shi* 互相显发。
-- 5/6 *Li* 与 *shi* 互相隐覆。
-- 7/8 *Li* 与 *shi* 互相等同。
-- 9/10 *Li* 与 *shi* 互有差别。
+* 1/2 *Li* 与 *shi* 互相周遍。
+* 3/4 *Li* 与 *shi* 互相显发。
+* 5/6 *Li* 与 *shi* 互相隐覆。
+* 7/8 *Li* 与 *shi* 互相等同。
+* 9/10 *Li* 与 *shi* 互有差别。
 
 这五种相互关系界定了“相互无碍”的含义。由于第一种是其余四种的基础，我们集中理解 *li* 与 *shi* 之间的“周遍”关系。
 
@@ -106,7 +106,7 @@
 
 《华严五教章》（Treatise on the Five Teachings of Huayan，汉语 *Huayan Wujiao Zhang*；T45.1866，译 Cook 1970）[^cook-1970]的第十章（即最后一章）包含法藏许多最独特、最重要的教义。在第一节，法藏发展其“三性”（three natures）理论。这一理论原初在瑜伽行派佛教中发展，设定三种“实在”：第一，除一不可言说、不可表达、在绝对自然清净上类似于虚空、金、水的实在外，别无他物；第二，这一实在显现为一非实的构想（imaginative construction）；第三，这一非实构想是错误之基，错误由混淆构想与实在而生。
 
-在其[ **三性论** ](https://plato.stanford.edu/entries/vasubandhu/#ThrNatNonDua)（Three Natures Treatise）中，瑜伽行派哲学家世亲（Vasubandhu）为这三种“实在”各各命名其性。他说：不可言说、不可表达的实在具有“圆成实”（consummation，或 perfection）之性；这一实在是圆满的，其性无非是空。他说：非实的构想，即显现为无非是显现之显现者，具有“依他起”（other-dependence）之性，这与缘起（*pratitya-samutpada*）同义。最后他说：关于非实构想的迷执具有“遍计”（fabrication，或 imagination、discrimination）之性。
+在其[**三性论**](https://plato.stanford.edu/entries/vasubandhu/#ThrNatNonDua)（Three Natures Treatise）中，瑜伽行派哲学家世亲（Vasubandhu）为这三种“实在”各各命名其性。他说：不可言说、不可表达的实在具有“圆成实”（consummation，或 perfection）之性；这一实在是圆满的，其性无非是空。他说：非实的构想，即显现为无非是显现之显现者，具有“依他起”（other-dependence）之性，这与缘起（*pratitya-samutpada*）同义。最后他说：关于非实构想的迷执具有“遍计”（fabrication，或 imagination、discrimination）之性。
 
 中观传统最终也认可了三性论的一个版本，尽管与瑜伽行派版本有显著差异。依瑜伽行派理论，遍计性（fabricated nature）虽空，依他起性与圆成实性却是实在的。与依他起性相关的构想——阿赖耶识中的业种——依瑜伽行派必须具有某种实在的面向，否则它们将无处等待其未来的实现；而与圆成实性相关的不可言说实在，也必须具有某种实在的面向，以免犯断见的错误。中观师认为瑜伽行派的推理是谬误的，他们偏好对三性的认识论而非本体论解释。然而，认识论解释的困难在于：在没有任何实在之物的情况下，如何理解（虚妄的）显现是可能的。
 
@@ -358,9 +358,9 @@
 
 ## 其他网络资源
 
-- 哈里斯（Eirik Lang Harris）译，无日期，牟宗三、徐复观、张君劢、唐君毅、谢幼伟《为中国文化敬告世界人士宣言——我们对中国学术研究及中国文化与世界文化前途之共同认识》的节译。[“Manifesto on Behalf of Chinese Culture Respectfully Announced to the People of the World: Our Joint Understanding of Sinological Study and Chinese Culture with Respect to the Future Prospects of World Culture.”](https://www.hackettpublishing.com/mou_zongsan_manifesto)
-- 法藏《华严一乘教义分齐章》（Paragraphs on the Teaching of the Identity and Difference of the One Vehicle of Huayan），香港人文学会（中文）。[原文](http://www.hkshp.org/cclassic/suitang/facang1.txt)
-- 法藏《华严金狮子章》（Essay on the Golden Lion），香港人文学会（中文）。[原文](http://www.hkshp.org/cclassic/suitang/HuaYanJinShiZiZhang.htm)
+* 哈里斯（Eirik Lang Harris）译，无日期，牟宗三、徐复观、张君劢、唐君毅、谢幼伟《为中国文化敬告世界人士宣言——我们对中国学术研究及中国文化与世界文化前途之共同认识》的节译。[“Manifesto on Behalf of Chinese Culture Respectfully Announced to the People of the World: Our Joint Understanding of Sinological Study and Chinese Culture with Respect to the Future Prospects of World Culture.”](https://www.hackettpublishing.com/mou_zongsan_manifesto)
+* 法藏《华严一乘教义分齐章》（Paragraphs on the Teaching of the Identity and Difference of the One Vehicle of Huayan），香港人文学会（中文）。[原文](http://www.hkshp.org/cclassic/suitang/facang1.txt)
+* 法藏《华严金狮子章》（Essay on the Golden Lion），香港人文学会（中文）。[原文](http://www.hkshp.org/cclassic/suitang/HuaYanJinShiZiZhang.htm)
 
 ## 相关词条
 

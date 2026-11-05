@@ -154,7 +154,7 @@ P1 关乎外部世界，且在外在论读法下为真；因此，它不是缺�
 
 ### 3.2 关于对象的模态与关于命题的模态
 
-阿维森纳已经区分了 **关于对象的**（*de re*）与* 关于命题的*（*de dicto*）模态（* al-ʿIbāra*, 114–115）。他把*de re* 模态称为“述谓的模态”（*jiha lil-ḥaml*），把* de dicto* 模态称为“量词的模态”（*jiha lil-sūr*）。他的例子如下：
+阿维森纳已经区分了 **关于对象的**（*de re*）与*关于命题的*（*de dicto*）模态（*al-ʿIbāra*, 114–115）。他把*de re* 模态称为“述谓的模态”（*jiha lil-ḥaml*），把*de dicto* 模态称为“量词的模态”（*jiha lil-sūr*）。他的例子如下：
 
 > *De re*：每个人可能是作家。
 >
@@ -267,11 +267,11 @@ Boethius’ theses: $ (A \to B) \to \neg (A \to \neg B)$ and $ (A \to \neg B) \t
 
 据此，“每个外在 $J$ 都是外在 $B$”的换质位命题如下（为简单起见，我只给出否定的换质位命题，*Kashf al-Asrār*, 158–161）：
 
-- 在外部世界始终非-$B$ 者，在外部世界绝不 $J$。
-- 从不蕴含 $B$ 者，在外部世界永恒 $J$。
-- 在外部世界永恒非-$B$ 者，在外部世界永恒 $J$。
-- 永恒蕴含非-$B$ 者，在外部世界永恒 $J$。
-- 在外部世界永恒非-$B$ 者，永恒蕴含 $J$。
+* 在外部世界始终非-$B$ 者，在外部世界绝不 $J$。
+* 从不蕴含 $B$ 者，在外部世界永恒 $J$。
+* 在外部世界永恒非-$B$ 者，在外部世界永恒 $J$。
+* 永恒蕴含非-$B$ 者，在外部世界永恒 $J$。
+* 在外部世界永恒非-$B$ 者，永恒蕴含 $J$。
 
 这些例子显示了胡纳吉在这一讨论中所应对的复杂性。他还考察所有这些复杂命题之间的蕴涵关系，并试图基于它们概括出一般规则（关于整个讨论的细节，见 Zolghadr forthcoming-a, ch. 5）。
 
@@ -359,23 +359,23 @@ Boethius’ theses: $ (A \to B) \to \neg (A \to \neg B)$ and $ (A \to \neg B) \t
 
 ### Primary literature
 
-#### Abharī, Aṯīr al-Dīn:
+#### Abharī, Aṯīr al-Dīn
 
-#### Avicenna:
+#### Avicenna
 
-#### Kātibī, Najm al-Dīn:
+#### Kātibī, Najm al-Dīn
 
-#### Khūnajī, Afḍal al-Dīn:
+#### Khūnajī, Afḍal al-Dīn
 
-#### Ibn Wāṣil:
+#### Ibn Wāṣil
 
-#### Rāzī, Fakhr al-Dīn:
+#### Rāzī, Fakhr al-Dīn
 
-#### Samarqandī, Shams al-Dīn:
+#### Samarqandī, Shams al-Dīn
 
-#### Taḥtānī, Quṭb al-Dīn al-Rāzī:
+#### Taḥtānī, Quṭb al-Dīn al-Rāzī
 
-#### Ṭūsī, Naṣīr al-Dīn:
+#### Ṭūsī, Naṣīr al-Dīn
 
 ### Secondary literature
 

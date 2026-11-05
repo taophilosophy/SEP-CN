@@ -352,16 +352,16 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 ### 主要文献说明（原文 Primary Sources 注记）
 
-- **康德引证体例**：康德著作按《康德著作集》（*Kants gesammelte Schriften*）科学院版（柏林，1902 年起）的卷号与页码引用。唯一例外是《纯粹理性批判》，按第一版（1781）与第二版（1787）的标准 A/B 页码引用。《奠基》刊于科学院版第 4 卷，《实践理性批判》刊于第 5 卷；除另有说明外，以“4:”起首的引证指《奠基》，以“5:”起首的指第二《批判》。科学院版页码见于一切现代译本的页边。除《奠基》2011 年版外，译文均出自标准的《伊曼努尔·康德著作英文剑桥版》：
-  - *Critique of Pure Reason*（《纯粹理性批判》），P. Guyer 与 A. Wood 译/编，剑桥：剑桥大学出版社，1997。
-  - *Practical Philosophy*（《实践哲学》），M. Gregor 译/编，剑桥：剑桥大学出版社，1996。［含《什么是启蒙？》《实践理性批判》与《道德形而上学》。］
-  - *Groundwork of the Metaphysics of Morals*（《道德形而上学的奠基》，德英对照版），M. Gregor 与 J. Timmermann 译/编，剑桥：剑桥大学出版社，2011。
-  - *Religion and Rational Theology*（《宗教与理性神学》），A. Wood 与 G. di Giovanni 译/编，剑桥：剑桥大学出版社，1996。［含《什么叫做在思维中定向？》与《系科之争》。］
-  - *Lectures on Ethics*（《伦理学讲义》），J. B. Schneewind 与 P. Heath 译/编，剑桥：剑桥大学出版社，1998。
-  - *Theoretical Philosophy 1755–1770*（《1755–1770 年理论哲学》），D. Walford 与 R. Meerbote 译/编，剑桥：剑桥大学出版社，1992。［含《视灵者的梦》。］
-  - *Theoretical Philosophy after 1781*（《1781 年后的理论哲学》），H. Allison、M. Friedman、G. Hatfield 与 P. Heath 译/编，剑桥：剑桥大学出版社，2002。［含《未来形而上学导论》。］
-  - *Anthropology, History, and Education*（《人类学、历史与教育》），G. Zoller、R. Louden、M. Gregor 与 P. Guyer 译/编，剑桥：剑桥大学出版社，2007。［含《实用人类学》。］
-  - *Critique of the Power of Judgment*（《判断力批判》），P. Guyer 与 E. Matthews 译/编，剑桥：剑桥大学出版社，2000。
+* **康德引证体例**：康德著作按《康德著作集》（*Kants gesammelte Schriften*）科学院版（柏林，1902 年起）的卷号与页码引用。唯一例外是《纯粹理性批判》，按第一版（1781）与第二版（1787）的标准 A/B 页码引用。《奠基》刊于科学院版第 4 卷，《实践理性批判》刊于第 5 卷；除另有说明外，以“4:”起首的引证指《奠基》，以“5:”起首的指第二《批判》。科学院版页码见于一切现代译本的页边。除《奠基》2011 年版外，译文均出自标准的《伊曼努尔·康德著作英文剑桥版》：
+  * *Critique of Pure Reason*（《纯粹理性批判》），P. Guyer 与 A. Wood 译/编，剑桥：剑桥大学出版社，1997。
+  * *Practical Philosophy*（《实践哲学》），M. Gregor 译/编，剑桥：剑桥大学出版社，1996。［含《什么是启蒙？》《实践理性批判》与《道德形而上学》。］
+  * *Groundwork of the Metaphysics of Morals*（《道德形而上学的奠基》，德英对照版），M. Gregor 与 J. Timmermann 译/编，剑桥：剑桥大学出版社，2011。
+  * *Religion and Rational Theology*（《宗教与理性神学》），A. Wood 与 G. di Giovanni 译/编，剑桥：剑桥大学出版社，1996。［含《什么叫做在思维中定向？》与《系科之争》。］
+  * *Lectures on Ethics*（《伦理学讲义》），J. B. Schneewind 与 P. Heath 译/编，剑桥：剑桥大学出版社，1998。
+  * *Theoretical Philosophy 1755–1770*（《1755–1770 年理论哲学》），D. Walford 与 R. Meerbote 译/编，剑桥：剑桥大学出版社，1992。［含《视灵者的梦》。］
+  * *Theoretical Philosophy after 1781*（《1781 年后的理论哲学》），H. Allison、M. Friedman、G. Hatfield 与 P. Heath 译/编，剑桥：剑桥大学出版社，2002。［含《未来形而上学导论》。］
+  * *Anthropology, History, and Education*（《人类学、历史与教育》），G. Zoller、R. Louden、M. Gregor 与 P. Guyer 译/编，剑桥：剑桥大学出版社，2007。［含《实用人类学》。］
+  * *Critique of the Power of Judgment*（《判断力批判》），P. Guyer 与 E. Matthews 译/编，剑桥：剑桥大学出版社，2000。
 
 ## 学术工具
 
@@ -371,10 +371,10 @@ O'Neill（2000）把康德式的说明置于三个备选项的对照中。（i�
 
 ## 其他网络资源
 
-- [波恩康德文献库（Das Bonner Kant-Korpus）](http://www.korpora.org/)，康德著作科学院版第 1–23 卷全文（德语）。
-- [康德学会（Kant-Gesellschaft）](http://www.kant-gesellschaft.de/en/)，德国康德学会，《康德研究》（*Kant-Studien*）出版方。
-- [北美康德学会](https://northamericankantsociety.org/)，含当前康德研究活动的综合网站。
-- [英国康德学会](https://www.ukks.co.uk/)。
+* [波恩康德文献库（Das Bonner Kant-Korpus）](http://www.korpora.org/)，康德著作科学院版第 1–23 卷全文（德语）。
+* [康德学会（Kant-Gesellschaft）](http://www.kant-gesellschaft.de/en/)，德国康德学会，《康德研究》（*Kant-Studien*）出版方。
+* [北美康德学会](https://northamericankantsociety.org/)，含当前康德研究活动的综合网站。
+* [英国康德学会](https://www.ukks.co.uk/)。
 
 ## 相关词条
 

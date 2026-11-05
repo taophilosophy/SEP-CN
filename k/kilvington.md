@@ -1,4 +1,5 @@
 # 理查德·基尔文顿 Kilvington, Richard (Elzbieta Jung)
+
 *首次发表于 2001 年 8 月 7 日；2022 年 9 月 6 日实质修订。*
 
 理查德·基尔文顿（Richard Kilvington，约 1302–1361），牛津文科硕士、神学博士，曾为理查·德·伯里的家臣，其后出任伦敦会吏长，最终就任伦敦圣保罗大教堂教长。他与托马斯·布拉德沃丁一道，代表牛津计算者学派的第一代学人。他虽为逻辑、自然哲学与神学带来了新观念与新方法，并影响了同代人与后学，但直到晚近才得到较多研究。
@@ -134,15 +135,25 @@
 [^dm-nd]: [DM]*Utrum in omni motu potentia motoris excedit potentiam rei motae*
 [^dv-nd]: [DV] *Utrum quilibet actus voluntatis per se malus sit per se aliquid*
 [^quaestiones-nd]: *Quaestiones super libros De generatione et corruptione*:
+
 [^utrum-nd]: 1. *Utrum generatio sit transmutatio distincta ab alteratione.*
+
 [^utrum-nd-2]: 2. *Utrum continuum sit divisibile in infinitum*.
+
 [^utrum-nd-3]: 3. *Utrum augmentatio sit motus ad quantitatem*.
+
 [^utrum-nd-4]: 4. *Utrum omnia elementa sint adinvicem transmutabilia*.
+
 [^utrum-nd-5]: 5. *Utrum omnis actio sit ratione contrarietatis*.
+
 [^utrum-nd-6]: 6. *Utrum mixtio sit miscibilium alteratorum unio*.
+
 [^utrum-nd-7]: 7. *Utrum numerus elementorum sit aequalis numero qualitatum primarum*.
+
 [^utrum-nd-8]: 8. *Utrum omnia contraria sint activa et passiva adinvicem*.
+
 [^utrum-nd-9]: 9. *Utrum ex omnibus duobus elementis possit tertium generari*.
+
 [^brugge-nd]: Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 20vb–50vb (questions 1–9).
 [^cambridge-nd]: Cambridge: Peterhouse Library, Ms. 195, fols. 60ra–81rb (questions 1–4).
 [^erfurt-nd]: Erfurt: Universitätsbibliothek, Dep. Erf., CA O. 74, fols. 35ra–86va (questions 1–7 and 9).
@@ -152,14 +163,23 @@
 [^firenze-1681]: Firenze: Biblioteca Nationale Centrale, Cod. Conv. Soppr. B. VI. 1681, fols. 37ra–77vb (questions 1–8, question 7 is interrupted).
 [^quaestiones-nd-2]: *Quaestiones super libros Physicorum*:
 [^expositio-nd]: *Expositio super primum librum Physicorum*.
+
 [^utrum-nd-10]: 1. *Utrum omne scitum sciatur per causam*.
+
 [^utrum-nd-11]: 2. *Utrum omne quod generetur ex contrariis generetur*.
+
 [^utrum-nd-12]: 3. *Utrum in omni generatione tria principia requirantur*.
+
 [^utrum-nd-13]: 4. *Utrum omnis natura sit principium motus et quietis*.
+
 [^utrum-nd-14]: 5. *Utrum potentia motoris excedit potentiam rei motae*. [*De Motu* = DM]
+
 [^utrum-nd-15]: 6. *Utrum qualitas suscipit magis et minus*.
+
 [^utrum-nd-16]: 7. *Utrum aliquod motus simplex possit moveri aeque velociter in vacuo et in pleno*.
+
 [^utrum-nd-17]: 8. *Utrum omne transmutatum in transmutationis initio sit in eo ad quod primitus transmutatur*.
+
 [^brugge-nd-2]: Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 41va–50vb (question 3).
 [^cambridge-nd-2]: Cambridge: Peterhouse Library, Ms. 195, fols. 70rb–72ra (question 6).
 [^città-nd]: Città del Vaticano: Biblioteca Apostolica Vaticana, Ms. Vat. lat. 2148, fols. 71ra–76vb (question 6, part of question 5).
@@ -173,16 +193,27 @@
 [^sevilla-nd-2]: Sevilla: Biblioteca Capitular y Colombina, Ms. 7–7–13, fols. 27ra–50vb (questions 2–4).
 [^venezia-nd]: Venezia: Biblioteca Nazionale Marciana, Ms. lat. VI. 72 [2810], fols. 81ra–112rb (questions 5–8).
 [^quaestiones-nd-3]: *Quaestiones super libros Ethicorum Questiones super libros Ethicorum***:**
+
 [^utrum-nd-18]: 1. *Utrum omnis virtus moralis ex operibus generetur*.
+
 [^utrum-nd-19]: 2. *Utrum virtutes morales ex defectu aut superabundantia corrumpatur*.
+
 [^utrum-nd-20]: 3. *Utrum quilibet virtuosus in operibus sibi propriis delectetur*.
+
 [^utrum-nd-21]: 4. *Utrum voluntas suos actus producat libere*.
+
 [^utrum-nd-22]: 5. *Utrum fortitudo sit medietas circa audaciam et timores*.
+
 [^utrum-nd-23]: 6. *Utrum male operantes sint a legislatoribus puniendi*.
+
 [^utrum-nd-24]: 7. *Utrum liberalitas sit circa pecunias medietas*.
+
 [^utrum-nd-25]: 8. *Utrum magnanimus dignificeret se honoribus sibi dignis*.
+
 [^utrum-nd-26]: 9. *Utrum iustitia sit virtus moralis perfecta*.
+
 [^utrum-nd-27]: 10. *Utrum prudentia sit habitus cum recta ratione activus circa hominis bona et mala*.
+
 [^brugge-nd-3]: Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 51ra–79va (questions 1–10).
 [^città-nd-4]: Città del Vaticano: Biblioteca Apostolica Vaticana, Cod. Urb. Lat, fols. 256ra–287vb (questions 1–10).
 [^città-nd-5]: Città del Vaticano: Biblioteca Apostolica Vaticana, Cod. Ottobon. Lat, fols. 25ra–59ra (questions 1–10).
@@ -197,14 +228,23 @@
 [^wien-nd]: Wien: Ősterreischische Nationalbibliothek, Cod. Lat. 5431, fols. 292ra–337r (10 complete questions).
 [^wrocław-nd]: Wrocław: Bibl. Uniw. IV.F.198, fols. 118ra-132rb (1–4 questions, question 5 is interrupted).
 [^questiones-nd]: *Questiones super libros Sententiarum Questiones super libros Sententiarum*:
+
 [^utrum-nd-28]: 1. *Utrum Deus sit super omnia diligendus*.
+
 [^utrum-nd-29]: 2. *Utrum per opera meritoria augeatur habitus caritatis quo Deus est super omnia diligendus*.
+
 [^utrum-nd-30]: 3. *Utrum omnis creatura sit suae naturae certis limitibus circumscripta*.
+
 [^utrum-nd-31]: 4. *Utrum quilibet actus voluntatis per se malus sit per se aliquid*. [*De Voluntate* = DV]
+
 [^utrum-nd-32]: 5. *Utrum peccans mortaliter per instans solum mereatur puniri per infinita instantia interpolata*.
+
 [^utrum-nd-33]: 6. *Utrum aliquis nisi forte in poena peccati possit esse perplexus in his quae pertinent ad salutem*.
+
 [^utrum-nd-34]: 7. *Utrum omnis actus factus extra gratiam sit peccatum*.
+
 [^utrum-nd-35]: 8. *Utrum aliquis possit simul peccare venialiter et mereri vitam aeternam*.
+
 [^bologna-nd]: Bologna: Biblioteca Comunale dell’Archiginnasio, Ms. 985, fols. 1ra–52va (questions 1–8).
 [^brugge-nd-4]: Brugge: Stedelijke Openbare Bibliotheek, Ms. 188, fols. 3ra–54vb (questions 1–4, and parts of questions 5, 7, 8).
 [^brugge-nd-5]: Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 80ra–105rb (questions 1–2).

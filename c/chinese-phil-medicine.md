@@ -188,10 +188,10 @@ Mark Csikszentmihalyi（2004）把它们描述为自我修养实践的“具身�
 
 ## 其他网络资源
 
-- [道教与道教研究（Daoism and Daoist Studies）](http://www.daoiststudies.org/)，James Miller，杜克大学。
-- [金丹（Golden Elixirs）](http://www.goldenelixir.com/)（中国炼丹术），Fabrizio Predagio，埃尔朗根-纽伦堡大学。
-- [研究指南：中国科学与医学（Guides to Research: Chinese Science and Medicine）](http://ccat.sas.upenn.edu/~nsivin/refe.html)，Nathan Sivin，宾夕法尼亚大学科学史与社会学系。
-- [李约瑟研究所（Needham Research Institute）](http://www.nri.org.uk/)，东亚科学技术与医学史研究中心。
+* [道教与道教研究（Daoism and Daoist Studies）](http://www.daoiststudies.org/)，James Miller，杜克大学。
+* [金丹（Golden Elixirs）](http://www.goldenelixir.com/)（中国炼丹术），Fabrizio Predagio，埃尔朗根-纽伦堡大学。
+* [研究指南：中国科学与医学（Guides to Research: Chinese Science and Medicine）](http://ccat.sas.upenn.edu/~nsivin/refe.html)，Nathan Sivin，宾夕法尼亚大学科学史与社会学系。
+* [李约瑟研究所（Needham Research Institute）](http://www.nri.org.uk/)，东亚科学技术与医学史研究中心。
 
 ## 相关词条
 

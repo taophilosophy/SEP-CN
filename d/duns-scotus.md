@@ -310,11 +310,11 @@
 
 ## 其他网络资源
 
-- 邓·司各脱，[*Reportatio* IIA d. 6 q. 2](https://ethicascoti.com/Reportatio%20IIA%20d%206%20q%202.pdf)，Thomas Williams 据 Garrett Smith 校勘本英译。
-- 邓·司各脱，[*Ordinatio*](https://www.aristotelophile.com/current.htm)，Peter Simpson 英译，纽约市立大学研究生中心。
-- [邓·司各脱书目](https://abelard.hypotheses.org/scotus-bibliography)，自 1950 年至今。这份非常有价值的关于邓·司各脱研究的书目由 Tobias Hoffmann 维护。
-- [方济各会档案：约翰·邓·司各脱](http://www.franciscan-archive.org/scotus/)。提供拉丁文本、英译、学术论文及其他资源。
-- [约翰·邓·司各脱的伦理学：补充英译](https://ethicascoti.com/additionaltranslations.html)。提供司各脱部分伦理学著作的英译。
+* 邓·司各脱，[*Reportatio* IIA d. 6 q. 2](https://ethicascoti.com/Reportatio%20IIA%20d%206%20q%202.pdf)，Thomas Williams 据 Garrett Smith 校勘本英译。
+* 邓·司各脱，[*Ordinatio*](https://www.aristotelophile.com/current.htm)，Peter Simpson 英译，纽约市立大学研究生中心。
+* [邓·司各脱书目](https://abelard.hypotheses.org/scotus-bibliography)，自 1950 年至今。这份非常有价值的关于邓·司各脱研究的书目由 Tobias Hoffmann 维护。
+* [方济各会档案：约翰·邓·司各脱](http://www.franciscan-archive.org/scotus/)。提供拉丁文本、英译、学术论文及其他资源。
+* [约翰·邓·司各脱的伦理学：补充英译](https://ethicascoti.com/additionaltranslations.html)。提供司各脱部分伦理学著作的英译。
 
 ## 相关词条
 

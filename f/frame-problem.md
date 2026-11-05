@@ -186,7 +186,7 @@
 
 ## 其他网络资源
 
-- [Psycoloquy 上的框架问题文章集](http://www.cogsci.ecs.soton.ac.uk/cgi/psyc/ptopic?topic=frame-problem&submit=View+Topic)，载于美国心理学会主办的同行评议电子期刊 Psycoloquy。
+* [Psycoloquy 上的框架问题文章集](http://www.cogsci.ecs.soton.ac.uk/cgi/psyc/ptopic?topic=frame-problem&submit=View+Topic)，载于美国心理学会主办的同行评议电子期刊 Psycoloquy。
 
 ## 相关词条
 

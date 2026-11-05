@@ -1,4 +1,5 @@
 # 双重效应原则 double effect, doctrine of (Alison McIntyre)
+
 *首次发表于 2004 年 7 月 28 日；2023 年 7 月 17 日实质修订。*
 
 *McIntyre, Alison*
@@ -185,12 +186,12 @@ Timothy E. Quill 医学博士、Rebecca Dresser 法学博士和 Dan W. Brock 哲
 
 ## 其他网络资源
 
-- [双重效应原理参考文献列表 [PDF]](http://www.ethikseite.de/bib/bpdw.pdf)，由 Jörg Schroth 维护。
-- [在自卫中杀死一个人是否合法？](https://www.newadvent.org/summa/3064.htm#article7)，圣托马斯·阿奎那，*Summa Theologica*，第二部分之二，第 64 题，第 7 条。
-- [正义战争理论](https://iep.utm.edu/justwar/)，互联网哲学百科全书。
-- [《习惯国际人道法规则》](https://ihl-databases.icrc.org/en/customary-ihl)，红十字国际委员会。
-- [美国最高法院判决 *Vacco v. Quill*](https://www.law.cornell.edu/supct/html/95-1858.ZO.html)，关于奎尔（Quill）等人对禁止协助自杀法律提出的质疑，法律信息研究所，最高法院判例汇编。
-- [国际临终关怀与姑息治疗协会](https://www.hospicecare.com/)。
+* [双重效应原理参考文献列表 [PDF]](http://www.ethikseite.de/bib/bpdw.pdf)，由 Jörg Schroth 维护。
+* [在自卫中杀死一个人是否合法？](https://www.newadvent.org/summa/3064.htm#article7)，圣托马斯·阿奎那，*Summa Theologica*，第二部分之二，第 64 题，第 7 条。
+* [正义战争理论](https://iep.utm.edu/justwar/)，互联网哲学百科全书。
+* [《习惯国际人道法规则》](https://ihl-databases.icrc.org/en/customary-ihl)，红十字国际委员会。
+* [美国最高法院判决 *Vacco v. Quill*](https://www.law.cornell.edu/supct/html/95-1858.ZO.html)，关于奎尔（Quill）等人对禁止协助自杀法律提出的质疑，法律信息研究所，最高法院判例汇编。
+* [国际临终关怀与姑息治疗协会](https://www.hospicecare.com/)。
 
 ## 相关词条
 

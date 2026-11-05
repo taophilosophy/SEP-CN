@@ -192,8 +192,8 @@ Parfit 可以回答说，连续性可能不足以构成特殊关怀。不清楚 
 
 ## 其他网络资源
 
-- Crisp, R., 2012, [Summary of a Discussion at PEA Soup: Katarzyna de Lazari-Radek and Peter Singer, ʼThe Objectivity of Ethics and the Unity of Practical Reasonʼ](http://peasoup.typepad.com/peasoup/2012/12/ethics-discussions-at-pea-soup-katarzyna-de-lazari-radek-and-peter-singer-the-objectivity-of-ethics-1.html).
-- [Papers on altruism and psychological egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org.
+* Crisp, R., 2012, [Summary of a Discussion at PEA Soup: Katarzyna de Lazari-Radek and Peter Singer, ʼThe Objectivity of Ethics and the Unity of Practical Reasonʼ](http://peasoup.typepad.com/peasoup/2012/12/ethics-discussions-at-pea-soup-katarzyna-de-lazari-radek-and-peter-singer-the-objectivity-of-ethics-1.html).
+* [Papers on altruism and psychological egoism](http://www.philpapers.org/browse/altruism-and-psychological-egoism/), at PhilPapers.org.
 
 ## 相关词条
 

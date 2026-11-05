@@ -304,7 +304,7 @@
 
 ## 其他网络资源
 
-- [美国黑格尔学会](http://www.hegel.org/)
+* [美国黑格尔学会](http://www.hegel.org/)
 
 ## 相关词条
 

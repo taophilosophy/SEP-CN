@@ -1,4 +1,5 @@
 # 莱布尼茨对 19 世纪逻辑学的影响 Leibniz’s Influence on 19th Century Logic
+
 **首次发表于 2009 年 9 月 4 日；2024 年 2 月 2 日实质修订。**
 
 现代逻辑的史学编纂中有一个重要问题：莱布尼茨的逻辑演算，究竟影响了当前逻辑形态，抑或只是天才的预见？莱布尼茨对形式逻辑的最重要贡献，迟至二十世纪初才刊布。唯其如此，莱布尼茨的逻辑方得充分理解。尽管如此，其逻辑哲学的要点与某些技术性发挥，仍可从十八、十九世纪刊行的其著作早期版本中获知。
@@ -169,7 +170,7 @@
 
 ## 其他网络资源
 
-- [莱布尼茨数字资源](http://www.gottfried-wilhelm-leibniz-gesellschaft.de/leibniz-digital-resources.html)。
+* [莱布尼茨数字资源](http://www.gottfried-wilhelm-leibniz-gesellschaft.de/leibniz-digital-resources.html)。
 
 ## 相关词条
 

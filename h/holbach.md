@@ -115,9 +115,9 @@
 
 ## 其他网络资源
 
-- [霍尔巴赫若干著作的英译本](https://www.gutenberg.org/browse/authors/h#a2420)，来自古腾堡计划。
+* [霍尔巴赫若干著作的英译本](https://www.gutenberg.org/browse/authors/h#a2420)，来自古腾堡计划。
 
-- [数字版霍尔巴赫：一个出色且快速发展的资源集](https://www.voltaire.ox.ac.uk/digital-enlightenment/digital-dholbach)，来自伏尔泰基金会。
+* [数字版霍尔巴赫：一个出色且快速发展的资源集](https://www.voltaire.ox.ac.uk/digital-enlightenment/digital-dholbach)，来自伏尔泰基金会。
 
 ## 相关词条
 

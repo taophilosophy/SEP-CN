@@ -80,8 +80,8 @@
 
 ## 其他网络资源
 
-- [剑桥柏拉图学派研究小组](https://cprg.hypotheses.org/)博客。
-- [剑桥柏拉图主义原始资料集](https://www.cambridge-platonism.divinity.cam.ac.uk)，剑桥柏拉图学派项目。
+* [剑桥柏拉图学派研究小组](https://cprg.hypotheses.org/)博客。
+* [剑桥柏拉图主义原始资料集](https://www.cambridge-platonism.divinity.cam.ac.uk)，剑桥柏拉图学派项目。
 
 ## 相关词条
 

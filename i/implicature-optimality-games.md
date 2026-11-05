@@ -122,7 +122,7 @@ $$ \llbracket `\text{four}\rsquo \rrbracket \subset \llbracket `\text{three}\rsq
 
 ## 其他网络资源
 
-- [概率语言理解：理性言语行为框架导论](http://www.problang.org/)，由格雷戈里·斯孔特拉斯（Gregory Scontras）、迈克尔·亨利·泰斯勒（Michael Henry Tessler）与迈克尔·弗兰克（Michael Franke）所著的互动式网络读本，介绍概率语用推理模型。
+* [概率语言理解：理性言语行为框架导论](http://www.problang.org/)，由格雷戈里·斯孔特拉斯（Gregory Scontras）、迈克尔·亨利·泰斯勒（Michael Henry Tessler）与迈克尔·弗兰克（Michael Franke）所著的互动式网络读本，介绍概率语用推理模型。
 
 ## 相关词条
 

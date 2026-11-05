@@ -22,14 +22,14 @@
 
 根据亚里士多德，三段论由两个谓述命题构成，它们共有一个（中）项，并有两个不同的项（小项与大项）。他把前提排列为三格，如下：
 
-- 在第一格中，中项在一个前提中是主项，在另一个前提中是谓项；
-- 在第二格中，中项在两个前提中都是主项；
-- 在第三格中，中项在两个前提中都是谓项（Manekin 1996: 50）[^manekin-1996]。
+* 在第一格中，中项在一个前提中是主项，在另一个前提中是谓项；
+* 在第二格中，中项在两个前提中都是主项；
+* 在第三格中，中项在两个前提中都是谓项（Manekin 1996: 50）[^manekin-1996]。
 
 一些较晚的逻辑学家区分了大前提与小前提的次序，结果第一格被分为两格：
 
-- 在第一格中，中项在小前提中是主项，在大前提中是谓项；
-- 在第二格中，中项在大前提中是主项，在小前提中是谓项（**同上**，1996: 50）。
+* 在第一格中，中项在小前提中是主项，在大前提中是谓项；
+* 在第二格中，中项在大前提中是主项，在小前提中是谓项（**同上**，1996: 50）。
 
 这额外的第四格“有时被置于第一格之后，而非第三格之后”（**同上**，1996: 50）。
 
@@ -397,9 +397,9 @@
 
 ## 其他网络资源
 
-- Adamson, Peter, 2016, “[Masters of the University: ‘Latin Averroism’](https://historyofphilosophy.net/latin-averroism)”, in *History of Philosophy without any gaps*, episode 251, King’s College London.
-- Hillier, H. Chad, “[Ibn Rushd (Averroes) (1126–1198)](https://www.iep.utm.edu/ibnrushd/)”, in *Internet Encyclopedia of Philosophy*
-- Horovitz, S., 1905, [“Albalag, Isaac”](http://www.jewishencyclopedia.com/articles/1069-albalag-isaac), *Jewish Encyclopedia* and also the for [Isaac Albag within it](http://www.jewishencyclopedia.com/search?utf8=%C3%A2%C3%BA%C3%AC&keywords=Isaac+Albalag&commit=search).
+* Adamson, Peter, 2016, “[Masters of the University: ‘Latin Averroism’](https://historyofphilosophy.net/latin-averroism)”, in *History of Philosophy without any gaps*, episode 251, King’s College London.
+* Hillier, H. Chad, “[Ibn Rushd (Averroes) (1126–1198)](https://www.iep.utm.edu/ibnrushd/)”, in *Internet Encyclopedia of Philosophy*
+* Horovitz, S., 1905, [“Albalag, Isaac”](http://www.jewishencyclopedia.com/articles/1069-albalag-isaac), *Jewish Encyclopedia* and also the for [Isaac Albag within it](http://www.jewishencyclopedia.com/search?utf8=%C3%A2%C3%BA%C3%AC&keywords=Isaac+Albalag&commit=search).
 
 ## 相关词条
 

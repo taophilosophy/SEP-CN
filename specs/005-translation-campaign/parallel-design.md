@@ -15,7 +15,7 @@ phase: pending → intake → fetch → convert → translate → done
 * 各阶段与既有工具一一对应，**本设计只记账不重做**：
 
 | 阶段 | 工具 | 幂等性 |
-|---|---|---|
+| --- | --- | --- |
 | intake | `summary_sync.py apply-add <slug>` | 已存在即 Precondition |
 | fetch | `fetch_entry.py <slugs>` / `fetch_audit.py <slugs>` | upsert 幂等 |
 | convert | `yuanwen.py <slugs>` | 确定性重转换 |
@@ -37,7 +37,7 @@ phase: pending → intake → fetch → convert → translate → done
 ## 4. 本地相与 git 相（多机并行语义）
 
 | 阶段 | 状态存放 | 多机语义 |
-|---|---|---|
+| --- | --- | --- |
 | fetch / convert | 本地 en/、yuanwen/（gitignore） | **每机各自幂等执行**（原料可再生，不共享） |
 | intake / translate / done | git（SUMMARY、译文、tasks、baseline） | 真正的多会话并行面，账本协调 |
 

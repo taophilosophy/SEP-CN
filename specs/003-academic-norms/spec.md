@@ -55,7 +55,7 @@
 
 ## Requirements
 
-* **FR-001**: 全库扫描词条文档：排除目录（rules、specs、tasks、tools、en、yuanwen、script、node_modules、pending、public、baseline、state、qian-yan、fang-fa-lun、jian-yi-shu、guan-yu、点前缀目录）与根级非词条 md（README/SUMMARY/mu-lu-s/yi-zhe-shuo-ming/PROGRESS/AGENTS 等）；仅处理首非空行为 `# `（H1）的 md。
+* **FR-001**: 全库扫描词条文档：排除目录（rules、specs、tasks、tools、en、yuanwen、script、node_modules、pending、public、baseline、state、qian-yan、fang-fa-lun、jian-yi-shu、guan-yu、点前缀目录）与根级非词条 md（README/SUMMARY/mu-lu-s/yi-zhe-shuo-ming/PROGRESS/AGENTS 等）；仅处理首非空行为 `#`（H1）的 md。
 * **FR-002**: 存根判定：全文件非空行 ≤10（含 H1）为存根，跳过结构类检查；别名/占位词条天然落此层。
 * **FR-003**: baseline 定位：先按 `zh_doc` 精确匹配（casefold、正斜杠归一、相对 `--root`），未中再按 slug 词元匹配文件名（hyphen 边界、长 slug 优先）；歧义或未中 → 告警 `baseline-lookup-miss`，pubinfo 检查跳过。
 * **FR-004**: 日期比对：英文月名（缩写/全名前缀）→（年， 月， 日）元组；文内版本事实行在前 30 非空行内查找，行内前两个中文日期分别对 `first_published`/`substantive_revision`；baseline 缺该字段则跳过对应比对；版本事实行缺失或超窗 → 硬错误。

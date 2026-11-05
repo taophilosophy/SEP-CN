@@ -272,8 +272,8 @@
 
 ## 其他网络资源
 
-- [Correspondance de Pierre Bayle](http://bayle-correspondance.univ-st-etienne.fr) [网络上关于培尔与培尔研究最丰富的信息来源。它收录培尔截至 1693 年主动与被动通信的数字版本；许多关于培尔生平与著作的视频；一份截至 2015 年的培尔研究完整文献目录（先按日期、再按作者编排）；以及多种旨在向非专业人士介绍培尔的 pdf 文档。所有资源仅以法文提供。]
-- [Dictionnaire de Bayle](http://artfl-project.uchicago.edu/content/dictionnaire-de-bayle)（芝加哥大学 ARTFL 项目）[培尔《辞典》权威的 1740 年版的可检索副本。]
+* [Correspondance de Pierre Bayle](http://bayle-correspondance.univ-st-etienne.fr) [网络上关于培尔与培尔研究最丰富的信息来源。它收录培尔截至 1693 年主动与被动通信的数字版本；许多关于培尔生平与著作的视频；一份截至 2015 年的培尔研究完整文献目录（先按日期、再按作者编排）；以及多种旨在向非专业人士介绍培尔的 pdf 文档。所有资源仅以法文提供。]
+* [Dictionnaire de Bayle](http://artfl-project.uchicago.edu/content/dictionnaire-de-bayle)（芝加哥大学 ARTFL 项目）[培尔《辞典》权威的 1740 年版的可检索副本。]
 
 ## 相关词条
 

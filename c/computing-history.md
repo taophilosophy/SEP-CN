@@ -135,14 +135,14 @@ DEUCE（Pilot Model ACE 的批量生产型）销路旺盛——这粉碎了 NPL 
 
 其他值得一提的早期存储程序电子数字计算机包括：
 
-- EDSAC，1949 年，由莫里斯·威尔克斯（Maurice Wilkes）在剑桥大学建成
-- BINAC，1949 年，由埃克特与莫奇利的电子控制公司在费城制造（至于 BINAC 究竟是否真正运转过，看法不一）
-- Whirlwind I，1949 年，麻省理工学院数字计算机实验室，杰伊·福雷斯特（Jay Forrester）
-- SEAC，1950 年，美国标准局东部司，华盛顿特区，塞缪尔·亚历山大（Samuel Alexander）与拉尔夫·斯卢茨（Ralph Slutz）
-- SWAC，1950 年，美国标准局西部司，数值分析研究所，加州大学洛杉矶分校，哈里·赫斯基（Harry Huskey）
-- UNIVAC，1951 年，埃克特-莫奇利计算机公司，费城（美国第一台可商用购得的计算机）
-- IAS 计算机，1952 年，普林斯顿大学高等研究院，朱利安·比奇洛（Julian Bigelow）、阿瑟·伯克斯（Arthur Burks）、赫尔曼·戈德斯坦（Herman Goldstine）、冯·诺依曼等人（由于冯·诺依曼公布了 IAS 机器的规格，它成为被称为“普林斯顿级”机器的那群计算机的范本；IAS 计算机还对 IBM 701 产生了强烈影响）
-- IBM 701，1952 年，国际商业机器公司的第一台批量生产的电子存储程序计算机
+* EDSAC，1949 年，由莫里斯·威尔克斯（Maurice Wilkes）在剑桥大学建成
+* BINAC，1949 年，由埃克特与莫奇利的电子控制公司在费城制造（至于 BINAC 究竟是否真正运转过，看法不一）
+* Whirlwind I，1949 年，麻省理工学院数字计算机实验室，杰伊·福雷斯特（Jay Forrester）
+* SEAC，1950 年，美国标准局东部司，华盛顿特区，塞缪尔·亚历山大（Samuel Alexander）与拉尔夫·斯卢茨（Ralph Slutz）
+* SWAC，1950 年，美国标准局西部司，数值分析研究所，加州大学洛杉矶分校，哈里·赫斯基（Harry Huskey）
+* UNIVAC，1951 年，埃克特-莫奇利计算机公司，费城（美国第一台可商用购得的计算机）
+* IAS 计算机，1952 年，普林斯顿大学高等研究院，朱利安·比奇洛（Julian Bigelow）、阿瑟·伯克斯（Arthur Burks）、赫尔曼·戈德斯坦（Herman Goldstine）、冯·诺依曼等人（由于冯·诺依曼公布了 IAS 机器的规格，它成为被称为“普林斯顿级”机器的那群计算机的范本；IAS 计算机还对 IBM 701 产生了强烈影响）
+* IBM 701，1952 年，国际商业机器公司的第一台批量生产的电子存储程序计算机
 
 ## 高速存储器
 
@@ -179,14 +179,14 @@ EDVAC 与 ACE 的方案都主张用充满水银的管子——叫做“延迟线
 
 ## 其他网络资源
 
-- [艾伦·图灵主页](http://www.turing.org.uk/turing/)
-- [澳大利亚计算机博物馆学会](https://www.acms.org.au/)
-- [布莱切利园主页](https://bletchleypark.org.uk/)
-- [查尔斯·巴贝奇研究所](http://www.cbi.umn.edu/)
-- [弗罗德·韦埃鲁德的密码地窖](http://cryptocellar.org/)
-- [宾夕法尼亚大学逻辑与计算小组](http://www.cis.upenn.edu/~lc/home.html)
-- [国家计算史档案馆](http://www.chstm.manchester.ac.uk/research/nahc/)
-- [国家密码博物馆](https://www.nsa.gov/about/cryptologic-heritage/museum/)
+* [艾伦·图灵主页](http://www.turing.org.uk/turing/)
+* [澳大利亚计算机博物馆学会](https://www.acms.org.au/)
+* [布莱切利园主页](https://bletchleypark.org.uk/)
+* [查尔斯·巴贝奇研究所](http://www.cbi.umn.edu/)
+* [弗罗德·韦埃鲁德的密码地窖](http://cryptocellar.org/)
+* [宾夕法尼亚大学逻辑与计算小组](http://www.cis.upenn.edu/~lc/home.html)
+* [国家计算史档案馆](http://www.chstm.manchester.ac.uk/research/nahc/)
+* [国家密码博物馆](https://www.nsa.gov/about/cryptologic-heritage/museum/)
 
 ## 相关词条
 

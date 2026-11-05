@@ -186,9 +186,9 @@ Yovel（1980）以及更晚近的 Kleingeld（1995 与 1999）讨论了康德关
 
 ## 其他网络资源
 
-- [北美康德学会](http://www.northamericankantsociety.org/)。
-- [康德研究站（Kant Forschungstelle）](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/)，美因茨大学。
-- [康德自然理论诸概念](https://knb.mpiwg-berlin.mpg.de/kant/info/index_en.html)（德语），一个收录其显式与隐式关联的数据库。
+* [北美康德学会](http://www.northamericankantsociety.org/)。
+* [康德研究站（Kant Forschungstelle）](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/)，美因茨大学。
+* [康德自然理论诸概念](https://knb.mpiwg-berlin.mpg.de/kant/info/index_en.html)（德语），一个收录其显式与隐式关联的数据库。
 
 ## 相关词条
 

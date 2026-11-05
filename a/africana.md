@@ -836,12 +836,12 @@
 
 ## 其他网络资源
 
-- [非洲哲学书目](https://sites.uclouvain.be/sisp/sites/philafr/default.htm)：据其[导言](https://sites.uclouvain.be/sisp/sites/philafr/intro.html)，一份“关于黑非洲之哲学文献”之广泛书目，包括“由非洲人——包括流散之非裔美国人——所写之哲学书籍、文章或文本，以及所有关于非洲出版或在非洲编辑之哲学著作，无论作者之出身与国籍”（Hountondji, Paulin J. (ed), *Bilan de recherche philosophique africaine. Répertoire alphabétique / Philosophical Research in Africa. A Bibliographic Survey. 1ère partie/Part l: 1900–1985*, Cotonou, Conseil Interafricain de Philosophie / Inter-African Council for Philosophy., 1987, pp.VIII–XI, X–XV）。
-- [非裔哲学在 21 世纪斗争中之角色会议](http://pbos.com/)：2016 年，德州农工大学。
-- [加勒比哲学协会](https://caribbeanphilosophy.org/)。
-- [非洲资源](http://www.africaresource.com/)，由非洲知识项目主办。
-- [非裔哲学](http://philpapers.org/browse/africanafricana-philosophy)，PhilPapers.org 之非洲/非裔哲学版块。
-- [ **无间断之哲学史：非裔** ](https://historyofphilosophy.net/)，142 个播客之系列。
+* [非洲哲学书目](https://sites.uclouvain.be/sisp/sites/philafr/default.htm)：据其[导言](https://sites.uclouvain.be/sisp/sites/philafr/intro.html)，一份“关于黑非洲之哲学文献”之广泛书目，包括“由非洲人——包括流散之非裔美国人——所写之哲学书籍、文章或文本，以及所有关于非洲出版或在非洲编辑之哲学著作，无论作者之出身与国籍”（Hountondji, Paulin J. (ed), *Bilan de recherche philosophique africaine. Répertoire alphabétique / Philosophical Research in Africa. A Bibliographic Survey. 1ère partie/Part l: 1900–1985*, Cotonou, Conseil Interafricain de Philosophie / Inter-African Council for Philosophy., 1987, pp.VIII–XI, X–XV）。
+* [非裔哲学在 21 世纪斗争中之角色会议](http://pbos.com/)：2016 年，德州农工大学。
+* [加勒比哲学协会](https://caribbeanphilosophy.org/)。
+* [非洲资源](http://www.africaresource.com/)，由非洲知识项目主办。
+* [非裔哲学](http://philpapers.org/browse/africanafricana-philosophy)，PhilPapers.org 之非洲/非裔哲学版块。
+* [**无间断之哲学史：非裔**](https://historyofphilosophy.net/)，142 个播客之系列。
 
 ## 相关词条
 

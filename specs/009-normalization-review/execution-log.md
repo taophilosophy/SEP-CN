@@ -67,7 +67,7 @@
 * 锚定率谱系实证（作者-年份锚定率跨条目 0%–91%）：spacetime-holearg 0%、logic-ai 4%、bergson 6% ↔ egalitarianism 91%、bodily-awareness 81%、identity-ethics 78%——转译批次行为不一致的量化证据；另录「目录区零锚/讨论区有锚」斑块分布与六类系统性锚定盲区（survey 组/裸名/多年份组/变音名/作者改名/forthcoming-nd）。
 * 同姓同年与姓前缀误挂大爆发：Cohen 交叉互染、Wallace/Wall、Gadsby、Lush、Isaacs、Chalmers、Eliasmith 一引三 def、Rumelhart 一引四 def——同姓同年 def 对为误挂磁铁，Read&Thakkar/Leibovitz/Palmira/Dais/Coelho/Dewhurst/Silver 等年份拼写失配族。
 * 上游误拼与形态实锤密度极高（全部逐条回原 HTML 计数定性、镜像忠实）：august-rehberg 16 处、physics-experiment 13 连（larue-nd "DATE" 占位符、nelson-1994-2 重复 def、Simon S. 讹名、双 Einstein 损形）、computational-mind 14 连（Krishevsky 缺 z、grice Ways of Words、maley 卷页双错）、atonement 正文 "(LINK)" 字面占位符、identity-ethics "is reflects" 语法错、sextus-empiricus C34 强调句号等——修复责任在上游会话，本战役零写入。
-* 新转译形态家族（移交镜像会话）：em 边缘空格双侧破强调、span.smaller 推荐标注丢失（13 处）、表格内嵌 ul 压平、dl-dt 转四星、sup→^{} 与 sub→_{} 字面残留、正文与 def 反向引号区、References 压扁变体四型（空 H3/四连空/双层双说明行/叙述压 def 汤）、附录注编号列表与主注 def 双制、跨节重列重复 def 五对、多卷本拆孤儿 def（vol-nd）、=_{defn} 下标残留。
+* 新转译形态家族（移交镜像会话）：em 边缘空格双侧破强调、span.smaller 推荐标注丢失（13 处）、表格内嵌 ul 压平、dl-dt 转四星、sup→^{} 与 sub→*{} 字面残留、正文与 def 反向引号区、References 压扁变体四型（空 H3/四连空/双层双说明行/叙述压 def 汤）、附录注编号列表与主注 def 双制、跨节重列重复 def 五对、多卷本拆孤儿 def（vol-nd）、=*{defn} 下标残留。
 * 5% 层与 1% 层累计人工覆盖 113 条（6%）；全部修复责任移交镜像/管线会话，本战役零写入不改被审文件。
 
 ## 2026-10-31 遗留问题修复期：T-em-lang-drop 落地（用户授权写入）
@@ -77,5 +77,5 @@
 * **对账规则**：满足前置（精确星数≥en 计数→跳过）；赤字桥接（`自由数 ≤ en−星数 ≤ 自由数+短语斜体数`→包全部自由命中）；其余 fail-closed 挂起。真相交覆盖（同起点前缀/同终点后缀/内部，srigupta 复合 em 案例）。
 * **事故与根治**：首轮挂起集未冻结，次轮对挂起术语重评致超额包裹 126 处（Instauratio magna 4→19）；按 rules/05 批量改写纪律外科剥星 114 处还原，再以**冻结挂起集**（em-lang-deferred.txt 持久化、永不复评）+ 满足前置达成三轮不动点（补插 0、门2 残余 0、超额 0）。
 * **终态**：自动补插 858 处（37 文件）；挂起 69 术语清单化移交人工逐处锚定（`results/para-review/em-lang-deferred.txt`）；门禁 7 项全绿。提交 a212c0ee。
-* **SUMMARY 题名截断修复（第二遗留项）**：disability-care-rationing 与 disability-justice 两行丢失 `disability ` 前缀（SUMMARY.md/mu-lu-s.md/yuanwen-SUMMARY 五处），对照 en h1 补回。提交 44bd34f7。
+* **SUMMARY 题名截断修复（第二遗留项）**：disability-care-rationing 与 disability-justice 两行丢失 `disability` 前缀（SUMMARY.md/mu-lu-s.md/yuanwen-SUMMARY 五处），对照 en h1 补回。提交 44bd34f7。
 * **剩余移交**：T-math-macro-closure（465 包 local.js 宏 vs 站点 MathTypesetter.vue 无宏定义——该文件并行会话在改，009 不得触碰）；T-supplement-drop（epistemic-utility/maths-inacc.html、ergodic-hierarchy/appendix.html 未转换）。

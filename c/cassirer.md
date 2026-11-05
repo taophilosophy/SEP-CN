@@ -108,7 +108,7 @@
 
 ## 其他网络资源
 
-- [W. Sellars 对 S. Langer 所译卡西尔《语言与神话》（*Language and Myth*）的书评](http://www.ditext.com/sellars/rc.html)，载 *Philosophy and Phenomenological Research*，9（1948）。
+* [W. Sellars 对 S. Langer 所译卡西尔《语言与神话》（*Language and Myth*）的书评](http://www.ditext.com/sellars/rc.html)，载 *Philosophy and Phenomenological Research*，9（1948）。
 
 ## 相关词条
 

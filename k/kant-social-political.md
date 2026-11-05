@@ -132,12 +132,12 @@
 
 ### 主要文献说明（原文 Primary Sources 注记）
 
-- **康德原著**：康德的德文与拉丁文原著收集于 *Kants Gesammelte Schriften*（康德全集），柏林：Walter de Gruyter，1900 年起。多数译本在页边提供该版的页码，通常用卷号与页码。本文所有引用均采用此法。
-- **英译本**：康德主要著作的英译本甚多。《伊曼努尔·康德著作英文剑桥版》收录其全部已刊著作的批判性译本以及书信、讲稿与文学遗稿的大量选段。该丛书含相关材料（部分亦单独发行）的各卷为：
-  - *Practical Philosophy*（实践哲学），Mary Gregor 译，1996。相关内容：《回答这个问题：什么是启蒙？》、《道德形而上学的奠基》、《论通常的说法：这在理论上可能是正确的，但不适用于实践》、《论永久和平》与《道德形而上学》。
-  - *Lectures and Drafts on Political Philosophy*（政治哲学讲稿与草稿），Frederick Rauscher 与 Kenneth Westphal 译（2016）。相关内容：“Naturrecht Feyerabend”（费耶阿本德自然法）课程讲稿、政治哲学残篇与政治哲学著作草稿。
-  - *Religion and Rational Theology*（宗教与理性神学），Allen Wood 与 George di Giovanni 译，1996。相关内容：《单纯理性界限内的宗教》、《系科之争》。
-  - *Anthropology, History, and Education*（人类学、历史与教育），Robert Louden 与 Guenther Zoeller 译（2007）。相关内容：《世界公民观点之下的普遍历史观念》、《实用人类学》与《论教育学》一书。
+* **康德原著**：康德的德文与拉丁文原著收集于 *Kants Gesammelte Schriften*（康德全集），柏林：Walter de Gruyter，1900 年起。多数译本在页边提供该版的页码，通常用卷号与页码。本文所有引用均采用此法。
+* **英译本**：康德主要著作的英译本甚多。《伊曼努尔·康德著作英文剑桥版》收录其全部已刊著作的批判性译本以及书信、讲稿与文学遗稿的大量选段。该丛书含相关材料（部分亦单独发行）的各卷为：
+  * *Practical Philosophy*（实践哲学），Mary Gregor 译，1996。相关内容：《回答这个问题：什么是启蒙？》、《道德形而上学的奠基》、《论通常的说法：这在理论上可能是正确的，但不适用于实践》、《论永久和平》与《道德形而上学》。
+  * *Lectures and Drafts on Political Philosophy*（政治哲学讲稿与草稿），Frederick Rauscher 与 Kenneth Westphal 译（2016）。相关内容：“Naturrecht Feyerabend”（费耶阿本德自然法）课程讲稿、政治哲学残篇与政治哲学著作草稿。
+  * *Religion and Rational Theology*（宗教与理性神学），Allen Wood 与 George di Giovanni 译，1996。相关内容：《单纯理性界限内的宗教》、《系科之争》。
+  * *Anthropology, History, and Education*（人类学、历史与教育），Robert Louden 与 Guenther Zoeller 译（2007）。相关内容：《世界公民观点之下的普遍历史观念》、《实用人类学》与《论教育学》一书。
 
 ## 学术工具
 
@@ -147,7 +147,7 @@
 
 ## 其他网络资源
 
-- [北美康德学会](http://www.sandiego.edu/naks/)。
+* [北美康德学会](http://www.sandiego.edu/naks/)。
 
 ## 相关词条
 

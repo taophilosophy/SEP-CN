@@ -107,7 +107,7 @@ Sara Protasi（2016）提供了一个更复杂的嫉妒分类学，其中包括�
 
 ## 其他网络资源
 
-- [伦理与情感的网络内容链接](http://web.archive.org/web/20101230191437/http://philosophyofmind.net/)（Michael Speer 维护）
+* [伦理与情感的网络内容链接](http://web.archive.org/web/20101230191437/http://philosophyofmind.net/)（Michael Speer 维护）
 
 ## 相关词条
 

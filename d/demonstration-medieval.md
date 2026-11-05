@@ -227,15 +227,15 @@
 
 ## 其他网络资源
 
-- 约翰·朗维（John Longeway）对中世纪证明著作的译文：
-- 伪托马斯（Pseudo-Thomas），[《论证明》](https://longeway.files.wordpress.com/2013/11/ps_thoma.pdf)
-- 肯迪（al-Kindi），[《证明术导论》](https://longeway.files.wordpress.com/2013/11/al-kindi.pdf)
-- 阿威罗伊（Averroës），[《关于〈后分析篇〉的九个证明问题，恢复其原始次序》](https://longeway.files.wordpress.com/2013/11/averroes-9-questions-and-letters.pdf)
-- 康宁顿的理查德（Richard of Conington），[《自选问题集》第一集第一题：以最高方式证明的中项是属性的定义还是主项的定义？](https://longeway.files.wordpress.com/2013/11/richard-of-conington.pdf)
-- 沃尔特·伯利（Walter Burleigh），《〈后分析篇〉问题》：
-- [第一题：逻辑学家能否从第一原理作出证明？](https://longeway.files.wordpress.com/2013/11/burleigh-question-1.pdf)
-- [第二题：是否存在任何证明性三段论](https://longeway.files.wordpress.com/2013/11/burleigh-question-2.pdf)
-- [第五题：是否每一个证明都是产生科学认识的三段论](https://longeway.files.wordpress.com/2013/11/burleigh-question-5.pdf)
+* 约翰·朗维（John Longeway）对中世纪证明著作的译文：
+* 伪托马斯（Pseudo-Thomas），[《论证明》](https://longeway.files.wordpress.com/2013/11/ps_thoma.pdf)
+* 肯迪（al-Kindi），[《证明术导论》](https://longeway.files.wordpress.com/2013/11/al-kindi.pdf)
+* 阿威罗伊（Averroës），[《关于〈后分析篇〉的九个证明问题，恢复其原始次序》](https://longeway.files.wordpress.com/2013/11/averroes-9-questions-and-letters.pdf)
+* 康宁顿的理查德（Richard of Conington），[《自选问题集》第一集第一题：以最高方式证明的中项是属性的定义还是主项的定义？](https://longeway.files.wordpress.com/2013/11/richard-of-conington.pdf)
+* 沃尔特·伯利（Walter Burleigh），《〈后分析篇〉问题》：
+* [第一题：逻辑学家能否从第一原理作出证明？](https://longeway.files.wordpress.com/2013/11/burleigh-question-1.pdf)
+* [第二题：是否存在任何证明性三段论](https://longeway.files.wordpress.com/2013/11/burleigh-question-2.pdf)
+* [第五题：是否每一个证明都是产生科学认识的三段论](https://longeway.files.wordpress.com/2013/11/burleigh-question-5.pdf)
 
 ## 相关词条
 

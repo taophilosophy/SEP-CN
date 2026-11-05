@@ -175,7 +175,7 @@
 
 ## 其他网络资源
 
-- [鲁道夫·奥托的相关信息](http://www.answers.com/topic/rudolf-otto)，由 Gregory D. Alles 维护。
+* [鲁道夫·奥托的相关信息](http://www.answers.com/topic/rudolf-otto)，由 Gregory D. Alles 维护。
 
 ## 相关词条
 

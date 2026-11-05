@@ -232,9 +232,9 @@ Lynch 从这类思想实验得出的一个结论是：理解拥有单纯知识�
 
 ## 其他网络资源
 
-- Brogaard, Berit, 2005, “[I Know. Therefore, I Understand](https://philpapers.org/rec/BROIKT)”，手稿，可得于 philpapers.org。
-- [认知价值](http://epistemicvaluestirling.blogspot.com/)，一个致力于认知价值话题的博客。
-- [认知价值](https://www.iep.utm.edu/ep-value/)，Patrick Bondy 撰，《互联网哲学百科全书》词条（2015）。
+* Brogaard, Berit, 2005, “[I Know. Therefore, I Understand](https://philpapers.org/rec/BROIKT)”，手稿，可得于 philpapers.org。
+* [认知价值](http://epistemicvaluestirling.blogspot.com/)，一个致力于认知价值话题的博客。
+* [认知价值](https://www.iep.utm.edu/ep-value/)，Patrick Bondy 撰，《互联网哲学百科全书》词条（2015）。
 
 ## 相关词条
 

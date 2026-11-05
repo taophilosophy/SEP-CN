@@ -14,10 +14,10 @@
 
 先区分几个论题，将是有益的。
 
-- 保全论题：受造物的持续存在有赖于上帝的能动性。
-- 同一行动论题：上帝创造万物的行动，与上帝保全万物的行动是同一行动。
-- 唯一源泉论题：唯有上帝独自带来受造物的持续存在。
-- 偶因论：上帝是任何结果的唯一真实原因。
+* 保全论题：受造物的持续存在有赖于上帝的能动性。
+* 同一行动论题：上帝创造万物的行动，与上帝保全万物的行动是同一行动。
+* 唯一源泉论题：唯有上帝独自带来受造物的持续存在。
+* 偶因论：上帝是任何结果的唯一真实原因。
 
 保全论题与自然神论对上帝与世界之关系的理解不相容——依照后者，世界一旦被带入存在，其存在与运作便不再需要任何神圣介入。从另一角度看，保全论题也与任何否认受造物真正随时间持续存在的观点不相容。倘若没有任何受造物存在超过一个瞬间，上帝固然可能在连续创造，但上帝并没有保全已创造之物。在传统的犹太教、基督教与伊斯兰教神学中，保全论题相对没有争议，部分原因在于这一论题显然为神圣文本所蕴含。（一个圣经例证是《希伯来书》1:3：“［圣子］是上帝荣耀的反映，是上帝本体的真像，并用他权能的命令托住万有。”一个古兰经例证是《黄牛章》2:255：“他的权力笼罩诸天与大地，维持它们并不使他疲倦。”关于对保全论题的质疑，见 Beaudoin 2007。）
 
@@ -157,7 +157,7 @@
 
 ## 其他网络资源
 
-- Kvanvig, Jonathan and David Vander Laan, “Creation and Conservation,” *Stanford Encyclopedia of Philosophy* (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/](https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/)>. [This was the previous entry on Creation and Conservation in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creation-conservation).]
+* Kvanvig, Jonathan and David Vander Laan, “Creation and Conservation,” *Stanford Encyclopedia of Philosophy* (Fall 2017 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/](https://plato.stanford.edu/archives/fall2017/entries/creation-conservation/)>. [This was the previous entry on Creation and Conservation in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creation-conservation).]
 
 ## 相关词条
 

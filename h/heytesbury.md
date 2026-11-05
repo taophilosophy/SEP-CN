@@ -12,26 +12,26 @@
 
 **公认真作：**
 
-- *Regulae solvendi sophismata* [RSS]，或 *Logica*
-- *Sophismata* [Soph]
-- *Sophismata asinina* [SophAs]
-- *Iuxta hunc textum* [IHT]，或 *Consequentiae Heytesbury*
-- *De sensu composito et diviso* [SCD]
+* *Regulae solvendi sophismata* [RSS]，或 *Logica*
+* *Sophismata* [Soph]
+* *Sophismata asinina* [SophAs]
+* *Iuxta hunc textum* [IHT]，或 *Consequentiae Heytesbury*
+* *De sensu composito et diviso* [SCD]
 
 《解决诡辩的规则》[RSS]，或《逻辑学》（*Logica*）（一部六篇论文的合集：论悖论、论知与疑、论关系词、论开始与停止、论极大与极小、论运动速度），旨在为逻辑研究第一年的学生解决各类诡辩提供指导。在某种意义上，[RSS] 是海特斯伯里著作真伪性的一个范式（以相互融贯作为真伪性判据）。《诡辩集》[Soph] 是为研习自然哲学的高级学生所编的诡辩集。《驴子诡辩集》[SophAs] 是一组证明读者是一头驴的诡辩式证明。《据此文本》[IHT]，亦称《海特斯伯里后承》，是一组旨在检验形式推理规则的诡辩。《论组合义与分取义》[SCD] 是关于 *de re*/*de dicto* 歧义的逻辑分析的指南。
 
 **真伪未定之作：**
 
-- *Probationes conclusionum*
-- *Casus obligationis* [CO]
-- *De propositionibus multiplicibus*，或 *De propositionum multiplicium significatione*
-- *Termini naturales*
+* *Probationes conclusionum*
+* *Casus obligationis* [CO]
+* *De propositionibus multiplicibus*，或 *De propositionum multiplicium significatione*
+* *Termini naturales*
 
 《结论的证明》（*Probationes conclusionum*）紧随 [RSS]，分析各类诡辩。《义务情形》[CO] 是一组认知诡辩，与 [RSS] 第二章相关。《论多重命题》（*De propositionibus multiplicibus*）是一篇关于各类语句之分析与推论角色的短论。《自然词项》（*Termini naturales*）是一部基础物理词汇表，在中世纪晚期非常流行。[^note-3]
 
 **过去曾被误归于海特斯伯里名下的著作：**
 
-- *De veritate et falsitate propositionis*（亨利·霍普顿作）
+* *De veritate et falsitate propositionis*（亨利·霍普顿作）
 
 《论命题之真与假》（*De veritate et falsitate propositionis*）是一部关于语句语义学的论著，其动机是对诡辩“每一个语句都是真的或假的”的分析。[^note-4]
 
@@ -80,14 +80,14 @@
 
 指代是词项与它们在语句语境中所代表的（一个或多个）对象之间的语义关系。指代模式与语句可被分析（*expositio*）的方式相连，尤其是与普遍词项可被替换为下位词项的结构化集合（所谓“*descensus*”）的方式相连。下列指代分类可从海特斯伯里的著作中重构出来：
 
-- (1) 质料指代（*s. materialis*）
-- (2) 人称指代（*s. personalis*）
-- (2.1) 单独指代（*s. discreta*）
-- (2.2) 普遍指代（*s. communis*）
-- (2.21) 确定指代（*s. determinata*）
-- (2.22) 混淆指代（*s. confusa*）
-- (2.221) 仅混淆的或不周延的指代（*s. confusa tantum*、*confusa non distributiva*）
-- (2.222) 混淆且周延的指代（*s. confusa distributiva*）
+* (1) 质料指代（*s. materialis*）
+* (2) 人称指代（*s. personalis*）
+* (2.1) 单独指代（*s. discreta*）
+* (2.2) 普遍指代（*s. communis*）
+* (2.21) 确定指代（*s. determinata*）
+* (2.22) 混淆指代（*s. confusa*）
+* (2.221) 仅混淆的或不周延的指代（*s. confusa tantum*、*confusa non distributiva*）
+* (2.222) 混淆且周延的指代（*s. confusa distributiva*）
 
 质料指代（“只有你是驴”在“只有你是驴为假”中）在于提及一个表达式（[SophAs] 403），而人称（或表意）指代在于使用它（[SophAs] 404）。单独指代是一个单独词项的指代（[SophAs] 390）；[^note-14] 其补通常称为“普遍”指代，并进一步分为确定指代与混淆指代。确定指代以“人类”在“有些人类是动物”中的指代为例（[SCD] 1494: fol. 3va [1988a: 427]），它与 *descensus* 相连，因此可意译为“这个人类是动物或那个人类是动物等等”（[SophAs] 387）。仅混淆的或不周延的指代以“动物”在“每个人类是动物”中的指代为例，并与“析取的” *descensus* 相连（[SCD] 1494, fol. 2va–vb [1988a: 420–421]；[Soph] soph. 7 [1494: fol. 106rb] 和 soph. 16 [1494: fol. 127vb]），因此可意译为“每个人是这个动物或那个动物等等”。混淆且周延的指代最典型地以“人类”在“每个人类是动物”中的指代为例，把 *descensus* 与普遍词项的每个实例相连，因此可意译为“这个人类是动物并且那个人类是动物等等”（[SCD] 1494: fol. 2va–vb [1988a: 420–421]；[Soph] soph. 7 [1494: fol. 106rb] 和 soph. 16 [1494: fol. 127vb]）。
 

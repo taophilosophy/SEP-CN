@@ -194,8 +194,8 @@
 
 ## 其他网络资源
 
-- [中国哲学书电子化计划：论语](https://ctext.org/analects)
-- [Culture Chinoise（法语）](http://wengu.tartarie.com/)
+* [中国哲学书电子化计划：论语](https://ctext.org/analects)
+* [Culture Chinoise（法语）](http://wengu.tartarie.com/)
 
 ## 相关词条
 
