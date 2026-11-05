@@ -523,7 +523,7 @@
 | Dietrich, Franz | Franz Dietrich | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Spiekermann, Kai | Kai Spiekermann | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Estlund, David | David Estlund | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
-| Goldman, Alvin | Alvin Goldman | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
+| Goldman, Alvin | 阿尔文·戈德曼 | jury-theorems | 学界通行汉译（原 ADR-0021 保留英文登记；bayes-theorem 2026-11-05 取通行汉译，取更近者） | 2026-11-02 |
 | List, Christian | Christian List | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Landemore, Hélène | Hélène Landemore | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Goodin, Robert | Robert E. Goodin | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
@@ -584,7 +584,7 @@
 | Jamyang Chokla Öser | 绛央乔拉·奥色 | epistemology-language-tibetan | 佛学界通行（'Jam dbyangs mChog lha 'od zer） | 2026-11-04 |
 | Uyukpa Rikpé Senggé | 乌尤巴·日佩僧格 | epistemology-language-tibetan | 佛学界通行（'U yug pa Rigs pa'i seng ge） | 2026-11-04 |
 | Podong Choklé Namgyel | 博东·却列南杰 | epistemology-language-tibetan | 佛学界通行（Bo dong Phyogs las rnam rgyal） | 2026-11-04 |
-| Dharmottara | 法上 | epistemology-language-tibetan | 佛学界通行（印度量论师） | 2026-11-04 |
+| Dharmottara | 法上 | epistemology-language-tibetan、knowledge-analysis | 佛学界通行（印度量论师；汉文古译传统；法称后学因明论师，约 770 年；与中文同名古师别为二人） | 2026-11-04 |
 | Śākyaśrībhadra | 释迦室利跋陀罗 | epistemology-language-tibetan | 佛学界通行（克什米尔班智达） | 2026-11-04 |
 
 | Rawls, John | 约翰·罗尔斯 | ethics-deontological | 学界通行汉译（《正义论》作者） | 2026-11-04 |
@@ -728,6 +728,17 @@
 | Cole, G.D.H. | G.D.H.柯尔 | dewey-political | 学界通行（基尔特社会主义者，字母保留体例） | 2026-11-05 |
 | Rorty, Richard | 理查德·罗蒂 | dewey-political | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-05 |
 
+| Duhem, Pierre | 皮埃尔·迪昂 | duhem | 学界通行汉译（科学史/科学哲学，《物理理论的目的与结构》作者） | 2026-11-06 |
+| Moutier, Jules | 朱尔·穆捷 | duhem | 学界惯例（迪昂之师，通行音译） | 2026-11-06 |
+| Lippmann, Gabriel | 加布里埃尔·李普曼 | duhem | 学界通行汉译（诺贝尔物理学奖得主） | 2026-11-06 |
+| Berthelot, Marcellin | 马塞兰·贝特洛 | duhem | 学界通行汉译（化学家） | 2026-11-06 |
+| Vicaire, Eugène | 欧仁·维凯尔 | duhem | 学界惯例（天主教工程师，通行音译） | 2026-11-06 |
+| Milhaud, Gaston | 加斯东·米约 | duhem | 学界惯例（法国实用主义者，通行音译） | 2026-11-05 |
+| Le Roy, Édouard | 爱德华·勒鲁瓦 | duhem | 学界惯例（法国实用主义者，通行音译） | 2026-11-05 |
+| Wilbois, Joseph | 约瑟夫·维尔布瓦 | duhem | 学界惯例（法国实用主义者，通行音译） | 2026-11-05 |
+| Blondel, Maurice | 莫里斯·布隆代尔 | duhem | 学界惯例（法国哲学家，通行音译） | 2026-11-05 |
+| Jordanus de Nemore | 内莫尔的约尔丹努斯 | duhem | 学界惯例（中世纪数学家，通行音译） | 2026-11-05 |
+
 ## 登记格式说明
 
 ```
@@ -836,8 +847,7 @@
 | Daehaeng | 大行 | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行） | 2026-11-05 |
 | Edmund Gettier | 盖梯尔 | knowledge-analysis | 学界通行汉译（1963 论文作者，JTB 挑战者） | 2026-11-05 |
 | Saul Kripke | 索尔·克里普克 | knowledge-analysis | 学界通行汉译（《命名与必然性》作者） | 2026-11-05 |
-| Dharmottara | 法上 | knowledge-analysis | 佛学界传统译名（汉文古译；法称后学因明论师，约 770 年；与中文同名古师别为二人，键以梵名区分） | 2026-11-05 |
-| Śrīharṣa | 室利诃奢 | knowledge-analysis | 印度哲学史学界通行音译（12 世纪正理派论师，存疑待 specs/008 复核） | 2026-11-05 |
+| Śrīharṣa | 曷利沙 | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师） | 2026-11-05 |
 
 ## 待裁定
 
