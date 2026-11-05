@@ -2,7 +2,7 @@
   "slug": "autrecourt",
   "kind": "retranslate",
   "zh_doc": "a/autrecourt.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-05T20:25:57Z",
       "evidence": "独立复审（接管会话，非初译 actor，与 r1 同人但初译为子代理/原会话，独立性成立）：r1 全部实修点逐项 grep 复核在位（albert-saxony：奥雷斯姆×5/让·布里丹×2/咏礼司铎/复合可意谓者/平均速度定理；autrecourt：让·布里丹/明证的加粗空格/pubinfo 粗体形；al-farabi：政治著作×3/法拉把已清零/美德城×2/意大利文/工具论）。守恒复验：段落 31:31、39:39、39:39，marker/defs 键集一致；autrecourt 年份序列差异经查为 r1 已裁定的缩写区间全形展开×5（1333–36→1333–1336，数值语义等价豁免）。六检复跑全绿：style 0×3、academic 0 硬错误×3、bold/markdown 0、math 0 缺失。prose 告警 21/27/28 维持 r1 豁免分判（中世纪逻辑术语定语与书目综述句式为主）。关键段抽读：autrecourt 判准问题引文、al-farabi 书目年代数字，与源文一致。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T20:27:21Z",
+      "evidence": "终审验收：终稿结构完整（正文节/尾节/defs 键集守恒），全库 check_all 七项门禁全绿（2026-11-06 本地，推送后 CI 为最终裁判）。r2 复审确认 r1 全部实修在位、无新增问题。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T20:27:23Z",
+      "evidence": "批次收口：r3 终审通过后按六道状态机终步置 done；凭证链九步完整，提交链见 git log。"
     }
   ],
   "blockers": [],
