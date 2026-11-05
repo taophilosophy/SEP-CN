@@ -181,3 +181,11 @@
 * 深读累计 **46 条全 pass**（C 批推进 10 条：causation-medieval/certainty/children/conceptual-art/condemnation/confucius/conway/crathorn/creation-conservation/croce-aesthetics——C 批接近收口）。
 * 并行漂移随修：Dharmottara 重复行去重并记双来源；词汇表 Śrīharṣa 冲突修弱势方。
 * 门禁 7/7 全绿。下一接力：d 批（democritus 起，davidson 占位跳过）。
+
+## 2026-11-06 深读滚动续十二
+
+* 深读累计 **44 条全 pass**（+conway——C 批推进）。conway 正文深读对照 341 行源/173 行译全过：生平年代（1631/1651/1679/1690/1692）、三元本体论（种/中间自然/受造物）、单子式微粒、可完善性与神义论、《斐多篇》80d–84b 页码全对。
+* 实修 15 处：①species 译名叠字与两形统一 8 处（“三种种/一种种/这种种/第三种种”→“三个种/一个种/第三种”，导语“三元本体论层级”显化为“关于‘种’的三元本体论层级”，双版账本 step2+译文双写同步）；②尾节中文化 7 处（Related Entries 标题、学术工具表 4 行、OIR Project Vox 描述、相关词条译注行——对齐已收口词条形态）。
+* 术语同步：species 登记进 yi-zhe-shuo-ming（种，康威语境；发布词汇表 Species 行改“种／物种”兼容形消同键异义冲突——生物学语境=物种、本体论语境=种）。
+* 存量留痕：prose 16 条（de-chain 10/long 3/exists 2/as-one 1）属词条收口轮（r 波）域；*apocotastasis* 系 SEP 原文拼写（通行作 apokatastasis），零信任照录。
+* 门禁保持绿。下一接力：crathorn/creation-conservation/croce-aesthetics → d 批。

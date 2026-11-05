@@ -1117,7 +1117,7 @@
 |Sounds|声音||
 |Sovereignty|主权||
 |spacelike separation|类空间隔|相对论与贝尔定理语境，亦作“类空分离”|
-|Species|物种||
+|Species|种／物种|生物学语境=物种；早期现代本体论语境=种（康威三元 species，yi-zhe-shuo-ming 2026-11-06 登记）|
 |Speech Acts|言语行为||
 |Spencer|斯宾塞||
 |Speusippus|斯彪西波||
