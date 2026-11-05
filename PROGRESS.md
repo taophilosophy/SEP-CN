@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-05 20:27（UTC）
+生成时间：2026-11-05 20:36（UTC）
 
 ## 总览
 
@@ -26,7 +26,8 @@
 |cleared|178|
 |drafted|2|
 |s1_checked|2|
-|s3_checked|90|
+|s3_checked|89|
+|r1_reviewed|1|
 |done|96|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -84,7 +85,7 @@
 |al-farabi-metaphysics|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
-|al-qudat|retranslate|s3_checked|? 2026-11-05|
+|al-qudat|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-05|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |albert-great|retranslate|cleared|task_ops 2026-10-31|
 |alcmaeon|retranslate|s1_checked|zcode-前置复核 2026-10-27|
