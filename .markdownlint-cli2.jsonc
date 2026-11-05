@@ -63,8 +63,9 @@
     "!.specify/templates/**",
     "!.github/sep-sync-report/**"
   ],
-  // bun.lock 等非内容文件；SUMMARY.md 为 GitBook 目录（列表开篇/同级重名属结构设计，结构由 check_summary.py 管辖）；tools/tests/fixtures/** 为故意写坏的测试夹具
-  "ignoreGlobs": [
+  // bun.lock 等非内容文件；SUMMARY.md 为 GitBook 目录（列表开篇/同级重名属结构设计，结构由 check_summary.py 管辖）；tools/tests/fixtures/** 为故意写坏的测试夹具。
+  // 键名必须为 ignores（markdownlint-cli2 官方 README；ignoreGlobs 是死键静默无效——2026-11-06 A/B 实测与 README 考据，登记 rules/05）
+  "ignores": [
     "bun.lock",
     "SUMMARY.md",
     "tools/tests/fixtures/**"
