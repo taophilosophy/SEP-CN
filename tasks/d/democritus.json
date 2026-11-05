@@ -2,7 +2,7 @@
   "slug": "democritus",
   "kind": "retranslate",
   "zh_doc": "d/democritus.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "r1-reviewer",
       "at": "2026-11-01T16:56:59Z",
       "evidence": "独立初审：三检查器全绿；L21 local motion 译名已修复并复核；抽检 8-10 段无漏译/错译/事实错误"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T19:17:16Z",
+      "evidence": "独立复审（接管会话，非初译 actor）：yuanwen 逐句回核 8 节。忠实性实修 9 处——of whom little is known 歧义补'关于'、钩刺缠结去增释'因此'、yielding 让开→让与 2 处（虚空本性通行译名）、pikron '取而代之'误译改'该词见于另一条记载'、committed to 欧化'承诺于'→持/主张 2 处、privative terms 匮乏性术语→表示缺乏的术语、mindfulness 正念→留心、Zeno of Elea 爱利亚→埃利亚对齐登记册正形、芝诺悖论句嵌套重构。prose 实修 8 处（de-chain 6/weak-verb 2；芝诺长句重构计入忠实性项），余 14 处按 ADR-0020 豁免：破折号对已分解 3、冒号列举与让步尾挂 5、正常密度叙述与括注挂载 6。结构守恒（撇号 ASCII 归一化）：段落 45:45、年份 85:85 序列一致、marker 38:38 顺序一致、defs 48:48。六检全绿。人名补登 23 行（含 Democritus/Socrates/Anaxagoras 基石名）、术语补登 7 行同批。"
     }
   ],
   "blockers": [],

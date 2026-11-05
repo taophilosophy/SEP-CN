@@ -1156,3 +1156,10 @@
 | ex nihilo | 从无中创生 | delmedigo | 学界通行（creatio ex nihilo 通行译法；拉丁原语保留） | 2026-11-06 |
 | scholastic quaestio | 经院问题 | delmedigo | 学界通行（经院方法论论辩体裁；正文括注原文） | 2026-11-06 |
 | Commentary (long/middle) & Epitome | 长注／中注／梗概 | delmedigo | 学界通行（阿威罗伊注疏三体通行译法） | 2026-11-06 |
+| eidôla | 影像 | democritus | 学界通行（德谟克利特知觉论术语，原子薄膜；亦作“偶象”） | 2026-11-06 |
+| ou mallon | 并不更 | democritus | 学界通行（原子论—怀疑论“无差异”论证式；正文完整式作“并不比…更”） | 2026-11-06 |
+| euthymia | 愉快 | democritus | 学界通行（德谟克利特伦理核心词，良好心境；亦作“明朗”） | 2026-11-06 |
+| antitupia | 相互抵抗 | democritus | 学界通行（德谟克利特原子撞击的抗阻性） | 2026-11-06 |
+| sunkrisis | 结合 | democritus | 学界通行（原子聚合体；普鲁塔克记载之争词） | 2026-11-06 |
+| yielding（虚空） | 让与 | democritus | 学界通行（虚空本性，与原子相互抵抗相对；r2 改定，初译“让开”） | 2026-11-06 |
+| qualia | 感受质 | democritus | 学界通行（现象意识性质；现代心灵哲学术语沿用） | 2026-11-06 |

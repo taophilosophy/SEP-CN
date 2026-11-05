@@ -947,6 +947,28 @@
 | Maimonides | 迈蒙尼德 | delmedigo | 学界千年通行（《迷途指津》作者） | 2026-11-06 |
 | Ross, Jacob Joshua | 罗斯 | delmedigo | 学界通例（同姓伦理学家 D. Ross 通译“罗斯”；正文以姓行文） | 2026-11-06 |
 | Yohay, Shim'on Bar | 希姆翁·巴尔·约海 | delmedigo | 音译（阿拉姆语 bar 形照源直译；犹太学亦作“西门·本·约海”） | 2026-11-06 |
+| Anaxagoras | 阿那克萨戈拉 | democritus | 学界千年通行（前苏格拉底自然哲学家） | 2026-11-06 |
+| Annas, Julia | 安纳斯 | democritus | 学界通行（古希腊伦理学名家；正文以姓行文） | 2026-11-06 |
+| Balme, David | 巴尔默 | democritus | 音译（亚里士多德生物学研究者；亦作“巴尔姆”） | 2026-11-06 |
+| Betegh, Gábor | 贝特格 | democritus | 音译（古希腊哲学史学者，匈牙利人名） | 2026-11-06 |
+| Cooper, John | 约翰·库珀 | democritus | 学界通行（古代哲学主编，斯多亚研究名家） | 2026-11-06 |
+| Democrates | 德谟克拉底 | democritus | 音译（伪托德谟克利特的格言作者，学界惯用形） | 2026-11-06 |
+| Epicurus | 伊壁鸠鲁 | democritus | 学界千年通行（花园学派创立者） | 2026-11-06 |
+| Furley, David | 弗利 | democritus | 学界通行（希腊原子论研究名家；亦作“弗尔利”） | 2026-11-06 |
+| Luria, Solomon | 卢里亚 | democritus | 学界通例（俄国古典学者；正文以姓行文） | 2026-11-06 |
+| Lucretius | 卢克莱修 | democritus | 学界千年通行（《物性论》作者） | 2026-11-06 |
+| Melissus | 墨利索斯 | democritus | 学界千年通行（爱利亚学派成员） | 2026-11-06 |
+| Mourelatos, Alexander P.D. | 穆雷拉托斯 | democritus | 学界通行（前苏格拉底研究名家） | 2026-11-06 |
+| O'Keefe, Tim | 奥基夫 | democritus | 学界通行（原子论与伊壁鸠鲁研究者） | 2026-11-06 |
+| Philoponus | 菲洛波诺斯 | democritus | 学界千年通行（晚期希腊注疏家；旧演示轮“待裁定”名录按实践裁定落地） | 2026-11-06 |
+| Sandbach, F.H. | 桑德巴赫 | democritus | 学界通例（古典学者，斯多亚残篇编者） | 2026-11-06 |
+| Schofield, Malcolm | 斯科菲尔德 | democritus | 学界通行（剑桥前苏格拉底研究名家） | 2026-11-06 |
+| Sedley, David | 塞德利 | democritus | 学界通行（剑桥古代哲学名家） | 2026-11-06 |
+| Socrates | 苏格拉底 | democritus | 学界千年通行 | 2026-11-06 |
+| Stobaeus | 斯托拜乌斯 | democritus | 学界通行（希腊化选集编纂者） | 2026-11-06 |
+| Taylor, C.C.W. | C.C.W. 泰勒 | democritus | 学界惯例（原子论译注名家；名缩写保留） | 2026-11-06 |
+| Wardy, Robert | 沃迪 | democritus | 学界通行（《几何之壮丽》作者） | 2026-11-06 |
+| Zeno of Elea | 埃利亚的芝诺 | democritus | 学界千年通行（埃利亚学派悖论家；与季蒂昂的塞诺异人；r2 改定，初译“爱利亚”） | 2026-11-06 |
 
 ## 待裁定
 
