@@ -173,3 +173,7 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **验收**：check_academic 全库 0 硬错误；check_style 70 文件插入行 0 新增告警（351 条均为该批文件存量债，逐条与插入行无关）；markdownlint 0 涉插行。
 * **同场裁定**：check_all 存量红 516 处经 aa173142（并行会话）落地在途豁免机制后清零（state≠done 豁免尾节拼装类检查，正文级照查；done 词条不豁免——RZ 两收口件全检通过实证）。
 * **提交**：fd922dc3（70 词条批量）；模板 v1.3 内容经并行扫拢提交波次入库（d8cf40a7，内容 grep 可验）；lq.py/rz_postfix 为 script/ 草稿区工具不入库。未 push。
+
+## 2026-11-06（melissus 假缺口排除）
+
+* **背景**：LQ 批会话（2026-11-03）曾报「melissus 不在 SUMMARY/baseline/entries.json 1879 条内，intake 缺口移交 specs/004」，一直未登记。本轮核查排除：上游 `plato.stanford.edu/entries/melissus/` 返回 404；上游 contents.html（2026-11-06 抓取，2526 条目链接）大小写不敏感检索 "melissus" 零命中；本地 baseline/entries.json、official-snapshot.json、SUMMARY.md 亦均无。**结论：上游无此独立条目，非缺口，不登记不建任务。**（抓取 2 请求、间隔 ≥5 秒；临时文件已清）
