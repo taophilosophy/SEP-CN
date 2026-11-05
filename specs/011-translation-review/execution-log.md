@@ -154,3 +154,8 @@
 * 体例归一：倒装括注 64 处+署名行 6 作者登记+5 行汉化；标题截断 16 条+akan-person 题名主体丢失型；aesthetics-existentialist 英文题名补全。
 * ADR-0019 渲染域清零：内侧空格 398→0（栈解析扫描器双模入库）。
 * B 批实证结论：佛学（abhidharma/buddha/buddhism-huayan 术语一致）、中世纪（binarium/boethius-dacia）、分析传统（basing-epistemic/boolalg-math/bradley）译名体系全部规范；唯残余为 intensional 类型论 4 行（重译域）。
+
+## 2026-11-05 深读滚动续九（B 批收口）
+
+* 深读累计 **36 条全 pass**（B 批收口：butler-moral 收尾——B 批全部完成：basing-epistemic/bauer/bayle(f-k 完成跳过)/binarium/boethius-dacia/boethius/boolalg-math/bradley/brouwer/buddha/buddhism-huayan/butler-moral 全覆盖）。
+* 门禁 7/7 全绿。下一接力：C 批 26 条（causation-medieval 起，certainty/consciousness-17th/critical-thinking 等已由 f-k 完成部分收口，深读仍按清单滚动）。
