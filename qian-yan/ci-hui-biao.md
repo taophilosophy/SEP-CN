@@ -505,7 +505,7 @@
 |Albertus Magnus|艾尔伯图斯·麦格努斯|即“大阿尔伯特”（Albert the Great），同人异译；中文维基百科条目作“艾尔伯图斯·麦格努斯”|
 |Alcmaeon|阿尔克迈翁|克罗顿的阿尔克迈翁，SUMMARY 标题已用此译名|
 |Alexander Gerard|亚历山大·杰拉德||
-|Alexander of Aphrodisias|阿佛洛狄西亚的亚历山大|旧键 Aphrosias 系拼写笔误；中文维基百科作“阿佛洛狄西亚的亚历山大”|
+|Alexander of Aphrodisias|阿弗罗狄西亚的亚历山大|旧键 Aphrosias 系拼写笔误；学界通行（古代亚里士多德注释家通译），对齐人名表 2026-11-06（弃维基百科依据，ADR-0012）|
 |Alfred North Whitehead|阿尔弗雷德·诺思·怀特海|国家图书馆规范标目亦作“艾尔弗雷德·诺思·怀特海”|
 |Alfred Tarski|塔尔斯基|对齐人名表（2026-11-04）；本册既定「林登鲍姆–塔尔斯基代数」同形|
 |All Men are Mortal|人都是要死的||
