@@ -2,7 +2,7 @@
   "slug": "logic-provability",
   "kind": "retranslate",
   "zh_doc": "l/logic-provability.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -59,6 +59,20 @@
       "actor": "LQ-main-20261106",
       "at": "2026-11-05T18:37:17Z",
       "evidence": "r2 逐句回核（机械核验轮，主会话同会话复核——用户裁定不用子代理，r3 冷置补偿独立性）：①引用闭包：文内 86 引用键全部有定义、定义 186 键与 yuanwen 镜像逐键集合对照 0 丢失（订正 s1 evidence '211 条'系计数口径笔误）；note-1/2/3 引用↔定义对应 ✓ ②数字多集合比对复跑：3 段差异与 s1 定性一致（early 1970s→七十年代早期/初×2、段22 译文补主语 K4）③人名体例反校：Quine/Henkin/Kripke 等现代学者正文英文保留（rules/03+ADR-0022），'哥德尔不完备性定理/皮亚诺算术'系术语通行译名非人名音译，相关词条行'蒯因'系 SUMMARY 主名形——译文人名形态合规；另发现人名表 Quine 行登记'蒯因'未按 ADR-0022 注明保留英文（登记册形态问题，移交 008 战役批量整顿，非本词条问题）④pubinfo 对齐：'2024 年 3 月 4 日实质修订'↔version_pin Mar 4, 2024 ✓。0 新增修正"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T19:12:52Z",
+      "evidence": "r3 终审（冷置后回读——冷置期间完成 duhem r1 深读为间隔任务）：①ADR-0022 存量两形混用消化（随收口轮）：哥德尔首现括注+裸英文归一 3 处（L4 导语哥德尔（Gödel）/L10 哥德尔（1933）/L38 以纪念哥德尔与 Löb）；Henkin→亨金（L. Henkin）7 处；Quine→蒯因（Quine，1976）4 处——均经账本 step2 定点+守恒 HARD=0+compose；Löb/Boolos/Solovay/Segerberg 等无通行汉名保留英文（ADR-0022 判据），Kripke 模型/框架系术语通行形保留，文献区照录不动；②六检终验：style --strict 0/prose 0/math 0 missing·unbalanced/academic --strict 0/数字比对 3 段与 s1 定性一致；③check_terms 全库模式暴露 Alexander of Aphrodisias 冲突（并行会话 delmedigo 今日登记'阿弗罗狄西亚'vs 发布词汇表旧形'阿佛洛狄西亚'且依据列用维基百科违 ADR-0012）——修弱势方：发布词汇表 508 行改'阿弗罗狄西亚'并弃维基依据，全库冲突 0；ʿAyn al-Quḍāt 滞后+两形分立系并行会话在途域留痕"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T19:12:52Z",
+      "evidence": "done：状态机全链（direction/clear/draft/s1/s2/s3/r1/r2/r3）全过，六检终绿（style/prose/math/summary/academic/terms 0 硬错误），133 段守恒 HARD=0，账本=事实源闭环（compose 可复现），引用闭包 86/186 零丢失，人名体例合规（ADR-0022），相关词条 24 项全命中 SUMMARY 主名形——logic-provability 收口为 LQ 批完整收口件（l 批）"
     }
   ],
   "blockers": [],
