@@ -2,7 +2,7 @@
   "slug": "logic-provability",
   "kind": "retranslate",
   "zh_doc": "l/logic-provability.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,13 @@
       "actor": "LQ-main-20261106",
       "at": "2026-11-05T18:25:54Z",
       "evidence": "s3 三校（体例）：六检全绿——style --strict 0 / academic --strict 0 硬错误 / math 0 missing·unbalanced / summary 0 / prose 0 / check_terms 0 硬错误（词汇表滞后 0）；引号、空格、强调体例经 s2 回写后与站内形态一致；markdownlint 随 CI"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LQ-main-20261106",
+      "at": "2026-11-05T18:32:35Z",
+      "evidence": "r1 初审（对照源自审，主会话——用户裁定不用子代理）：133 段全文回读（导语+6 节+脚注 3+References 13 子节 211 定义+学术工具+OIR 10 条+相关词条 24 项+致谢），重点核 GL 公理/Löb 三条件编号/不动点/算术可靠与完全两方向/GLB·GLP/Vardanyan/哥德尔析取式论证方向，结构完整。2 处修正：段117 分段切句双'而'断裂（'而它的逆…而另一方面，它'→'则对任意公式'合句）；段121 Williamson 定义引号外句号冗余（'被知道。\\”。'→'被知道。\\”'）。1 处忠实照录留痕：L317 '真公理（5）'系 SEP 原文笔误（真公理通记 (T)，原文作 (5)），零信任不改义。修正经账本定点+守恒 HARD=0+compose，style/prose 复检 0 issue"
     }
   ],
   "blockers": [],
