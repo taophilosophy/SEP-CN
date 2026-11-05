@@ -1107,3 +1107,13 @@
 | T’ong Pulgyo | 统一佛教 | korean-buddhism | 韩国佛教史学界通行（통불교；Shim Jaeryong 批判对象） | 2026-11-05 |
 | Minjung Buddhism | 民众佛教 | korean-buddhism | 韩国学界通行（민중불교；Minjung=民众） | 2026-11-05 |
 | chuin’gong（주인공） | 主人公 | korean-buddhism | 汉文传统写法（大行「主人公」修行法，公/空双关） | 2026-11-05 |
+| justified true belief（JTB） | 被证成的真信念 | knowledge-analysis | 沿用 justep-coherence 登记主形（学界通行）；本条目按「证成」体例 | 2026-11-05 |
+| Gettier cases | 盖梯尔案例 | knowledge-analysis | 知识论通行（以 Edmund Gettier 1963 命名） | 2026-11-05 |
+| no false lemmas | 无假前提 | knowledge-analysis | 知识论文献通行直译（conditions 条款名） | 2026-11-05 |
+| sensitivity/safety conditions | 敏感性条件／安全性条件 | knowledge-analysis | 知识论模态条件通行译法（Nozick 1981；Sosa 1999） | 2026-11-05 |
+| relevant alternatives | 相关替代项 | knowledge-analysis | 知识论通行（Dretske/Goldman 谱系；「相关抉择」不作主形） | 2026-11-05 |
+| epistemic luck | 认知运气 | knowledge-analysis | 知识论通行（Pritchard 谱系） | 2026-11-05 |
+| pragmatic encroachment | 实用侵入 | knowledge-analysis | 知识论通行（Stanley 谱系；亦作「语用侵入」，不作主形） | 2026-11-05 |
+| knowledge first | 知识优先 | knowledge-analysis | 知识论通行（Williamson 2000） | 2026-11-05 |
+| accuracy/adroitness/aptness | 准确性／灵巧性／恰当性 | knowledge-analysis | 索萨 AAA 模型通行译法 | 2026-11-05 |
+| fake barn cases | 假谷仓案例 | knowledge-analysis | 知识论通行（Ginet/Goldman 1976 谱系） | 2026-11-05 |

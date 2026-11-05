@@ -523,7 +523,6 @@
 | Dietrich, Franz | Franz Dietrich | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Spiekermann, Kai | Kai Spiekermann | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Estlund, David | David Estlund | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
-| Goldman, Alvin | 阿尔文·戈德曼 | jury-theorems | 学界通行汉译（原 ADR-0021 保留英文登记；bayes-theorem 2026-11-05 取通行汉译，取更近者） | 2026-11-02 |
 | List, Christian | Christian List | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Landemore, Hélène | Hélène Landemore | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Goodin, Robert | Robert E. Goodin | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
@@ -847,7 +846,7 @@
 | Daehaeng | 大行 | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行） | 2026-11-05 |
 | Edmund Gettier | 盖梯尔 | knowledge-analysis | 学界通行汉译（1963 论文作者，JTB 挑战者） | 2026-11-05 |
 | Saul Kripke | 索尔·克里普克 | knowledge-analysis | 学界通行汉译（《命名与必然性》作者） | 2026-11-05 |
-| Śrīharṣa | 曷利沙 | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师） | 2026-11-05 |
+| Śrīharṣa | 室利诃奢 | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师；sriharsa 词条会话 2026-11-05 裁定） | 2026-11-05 |
 
 ## 待裁定
 
