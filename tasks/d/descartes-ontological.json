@@ -2,7 +2,7 @@
   "slug": "descartes-ontological",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ontological.md",
-  "state": "r3_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -59,6 +59,13 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-05T19:44:20Z",
       "evidence": "终审验收（接管会话；复核独立性满足——r2 与终审均由非初译 actor 执行）：终稿结构完整（正文节/尾节四件套/defs 键集守恒），定点检查器与全库 check_all 七项门禁全绿（2026-11-06 本地，推送后 CI 为最终裁判）。r2 逐句回核已实修忠实性与 prose 全部适配点，本验收无新增问题。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T19:45:13Z",
+      "evidence": "批次收口：r3_reviewed 终审通过后按六道状态机终步置 done；凭证链 clear→draft→s1→s2→s3→r1→r2→r3→done 完整，提交链见 git log（r2/r3 各步独立提交）。"
     }
   ],
   "blockers": [],
