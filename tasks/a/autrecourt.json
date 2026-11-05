@@ -2,7 +2,7 @@
   "slug": "autrecourt",
   "kind": "retranslate",
   "zh_doc": "a/autrecourt.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "main-session",
       "at": "2026-11-01T10:36:46Z",
       "evidence": "子代理深工产出，主会话收口推进（40路滚动）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-05T20:10:18Z",
+      "evidence": "独立初审（接管会话，非初译 actor——子代理产出）：yuanwen 全文回读对照，39 段逐段核验无漏译/错译/事实错误；体例实修 3（italic-cjk 明证的转加粗+空格、pubinfo 与译注行 *** 粗斜体去斜、约翰·布里丹→让·布里丹对齐 duhem 批登记正形）；年份区间全形展开×5（1333–36→1333–1336 等中文体例，数值语义等价豁免）；SUMMARY 定名'奥特古的尼克拉'沿用。结构守恒（撇号归一化）：段落 39:39、marker 0:0、defs 键集一致。六检硬错误零。prose 27 豁免为主（术语性 de-chain 17）。人名补登 14（教宗/枢机/通信人谱系）、术语 2（canon 咏礼司铎统一形、complexe significabile 复合可意谓者）同批。"
     }
   ],
   "blockers": [],
