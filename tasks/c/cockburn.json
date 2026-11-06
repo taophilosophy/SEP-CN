@@ -1,50 +1,78 @@
 {
- "slug": "cockburn",
- "kind": "retranslate",
- "zh_doc": "c/cockburn.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "初译完成：零信任译自 yuanwen/cockburn.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T10:12:02Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "cockburn",
+  "kind": "retranslate",
+  "zh_doc": "c/cockburn.md",
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "初译完成：零信任译自 yuanwen/cockburn.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T10:12:02Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T22:53:10Z",
+      "evidence": "全文回读对照 yuanwen 逐段实修 27 处：①书名混排修复（《评论》《评拉瑟福思》原为英文斜体断裂形态，改中文全名+简称）；②人名括注唯一性（塞缪尔·克拉克重复括注×3、哈奇森×2、拉瑟福思×2 删净，首现补全弗兰西斯·哈奇森（Francis Hutcheson））；③脚注区归位：转换器残留英文标题“## Notes（原文脚注）/## Notes to Catharine Trotter Cockburn”改为“## 脚注”并置于 References 之前（ADR-0017 双形态，对齐 abhidharma 形态）；④文献小节标题“### 原始文献（Primary Sources）/### 二手文献（Secondary Sources）”；⑤欧化句与重复表述 12 处（prose 14→5：书名列举 1、术语列举 1、术语性“的”链 3 逐条留痕；long-sentence 3→1）；人名登记 7 行（拉瑟福思/霍尔斯沃思/伯奇/伯内特/康纳/凯利/特洛特）；结构校验：文内脚注标记 1 与 36 条定义全配，节序 正文→脚注→References→学术工具→其他网络资源→相关词条"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T22:59:26Z",
+      "evidence": "逐句回核定稿对源文与逻辑（导言+生平+哲学 8 段）：语义精度修正 3 处——allegiance“臣服→效忠”、评论者立场句补明主语、on Cockburn's view 与 for Cockburn 两处同句式分形；事实链核验通过：生卒（1679-08-16 伦敦生、1749-05 卒）、剧作年表（1695《阿格尼丝·德·卡斯特罗》上演次年刊、1698《致命的友谊》、此后三年三剧）、《辩护》1702、《评论》1739 撰/1743 匿名刊、拉瑟福思 1747、神学著作 1707/1726、文集 1751 刊；人名首次括注与登记册一致（拉瑟福思/伯奇/伯内特/康纳/凯利/特洛特 7 行已登记）；源文各段逐段有对应，无漏译段"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T23:31:48Z",
+      "evidence": "终稿验收：check_all 七项全绿（SUMMARY 结构/分类目录/单体大小/垃圾入库/术语一致性/学术规范/单元测试）；定点检查 check_style --strict 0 issue、check_academic --strict 0 硬错误（含 done 级取消在途豁免模拟核查 0 硬 0 警）、check_math 0 缺式、check_terms 0 硬错误；文内脚注标记 1 与 36 条定义全配、无孤儿；正文英文残留仅人名/书名/术语首现括注与引注条目（无未译句）；H1 与 SUMMARY 定名一致；验收签字：CD-main-20261106"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T23:31:48Z",
+      "evidence": "done 收口：九步入状态机齐（clear/draft/s1/s2/s3/r1/r2/r3/done），复审由初译 actor 以外会话执行（ADR-0020 独立性），prose 14→5 留痕；词条 4528 汉字，源 3557 词，36 条脚注定义、References（引用注释）+原始文献/二手文献小节、学术工具 4 行、其他网络资源、相关词条齐备"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:09:01Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 10, 2023",
+    "archive_edition": "Winter 2023",
+    "sha256": "e89537aaf99731d6b8ee129fa205da6e30f25d7bbbe60a7c44703eb9baa16287"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:09:01Z",
- "version_pin": {
-  "pubinfo_date": "Nov 10, 2023",
-  "archive_edition": "Winter 2023",
-  "sha256": "e89537aaf99731d6b8ee129fa205da6e30f25d7bbbe60a7c44703eb9baa16287"
- }
 }
