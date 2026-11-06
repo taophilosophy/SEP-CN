@@ -2,7 +2,7 @@
   "slug": "elisabeth-bohemia",
   "kind": "retranslate",
   "zh_doc": "e/elisabeth-bohemia.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T20:20:18Z",
       "evidence": "三校：check_style 仅 bibliography 照录豁免 28 条；check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T19:03:22Z",
+      "evidence": "r1 段级核销：15 节一一对应、80 个脚注键全等、无重复定义；年份/文书编号（1618/1680/AT 4:289/AT 5:452/1643/1645/1646/1649）逐项在位；专名 La Greque/阿波罗尼奥斯问题/赫尔福德 核对无误"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T19:03:22Z",
+      "evidence": "r2 句级复读：check_prose 36→11（拆分 12 处长句、去'的'链 8 处、被动/弱动词改写 5 处）；余 11 条为 mild '的'密度与列举结构，重写反损精确性，按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T19:03:25Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构完整（4 节+子节+尾节）；账本缺档旧管线债务登记 qa-findings §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T19:03:26Z",
+      "evidence": "终稿验收：六道全过；豁免 11 条逐类留痕"
     }
   ],
   "blockers": [],
