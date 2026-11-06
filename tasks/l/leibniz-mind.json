@@ -2,7 +2,7 @@
   "slug": "leibniz-mind",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-mind.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-02T22:01:48Z",
       "evidence": "四检：check_style 0（中文斜体 29 处转加粗+空格，含事故修复）、check_academic 0 硬错误、check_math 0、prose 12 豁免；术语 单子/前定和谐/统觉/微知觉 登记 yi-zhe-shuo-ming.md；人名 5 位登记 ren-ming-biao.md（阿尔诺/德博斯/德伏尔德/科尔迪莫伊/弗洛伊德）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:14:04Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+注记），节数 12=12；marker 13=13；defs 键集全等；数字 11 段差异全部正当（October→10 月、April 30→4 月 30 日、November→11 月、§ 12/13→第 12/13 节等中文数词化）；正文 6 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:14:04Z",
+      "evidence": "r2 语言实修：prose 12→9——4 处叙事句实修（前定和谐（2）（3）两条与推演句的 de-chain 拆解、知觉/混乱知觉句重写）；余 9 项全部为引文/引块内部（致阿尔诺信、《单子论》引块、《确定性的方法》与《新论》直引），按 ADR-0020 豁免；人名莱布尼茨/阿尔诺/笛卡尔已在册"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:14:07Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 9 项引文豁免；check_math 0/0/0；marker/defs/节数齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:14:07Z",
+      "evidence": "done：九步齐，成稿 6 节 191 行"
     }
   ],
   "blockers": [],
