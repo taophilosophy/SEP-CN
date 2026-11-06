@@ -17,10 +17,10 @@
   },
   "b": {
    "phase": "translate",
-   "claimed_by": "AB-main-20261106",
-   "claimed_at": "2026-11-06T14:08:07Z",
-   "note": "对账补记（2026-11-03）：任务 62=cleared 59/drafted 2/s3_checked 1；11 条在途快照 641faf13（正文未完）；对账补记（2026-11-06）：任务 62=cleared 45/drafted 2/s3_checked 15；NO_LEDGER 17（旧存量 14；新增 3：bayes-theorem/behaviorism/buddhism-chan 11-04 译 actor=?，无账本留痕）",
-   "advanced_at": "2026-11-02T16:12:59Z"
+   "claimed_by": "B-main-20261106",
+   "claimed_at": "2026-11-06T15:58:44Z",
+   "note": "对账补记（2026-11-03）：任务 62=cleared 59/drafted 2/s3_checked 1；11 条在途快照 641faf13（正文未完）。对账补记（2026-11-06）：任务 62=cleared 45/drafted 2/s3_checked 15；NO_LEDGER 17（旧存量 14；新增 3：bayes-theorem/behaviorism/buddhism-chan 11-04 译 actor=?，无账本留痕）。——更正（2026-11-06T16:0xZ，B-main-20261106 实测）：s3_checked 实为 14；boolalg-math 已于 11-06T00:57Z 走完 r1/r2/r3→done，原补记漏计 done。现计数：62=cleared 45/drafted 2/s3_checked 14/done 1。四源核对 SUMMARY 62/基线 62/镜像 62/任务 62 零缺项；15 条有正文者 H2 节数全等、脚注引用多重集（剔转换器伪标记 key）全等，唯一实缺 behaviorism 正文末句丢 [^ross-2008]（r1 修）；NO_LEDGER 17 维持不补造；bessarion/brouwer 的 draft 步 evidence 空（actor ?）属旧留痕缺口。接手会话 B-main-20261106。",
+   "advanced_at": "2026-11-06T15:58:44Z"
   },
   "c": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-06T00:00:00Z"
+ "updated_at": "2026-11-06T15:58:44Z"
 }

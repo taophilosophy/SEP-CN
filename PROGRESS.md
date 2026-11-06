@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 15:27（UTC）
+生成时间：2026-11-06 16:01（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1007|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|113|
-|在途（drafted 起、done 前）|268|
+|已完成（done）|115|
+|在途（drafted 起、done 前）|266|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,21 +23,22 @@
 |状态|数量|
 |---|---|
 |pending|626|
-|cleared|176|
-|drafted|4|
-|s3_checked|87|
+|cleared|175|
+|drafted|3|
+|s1_checked|1|
+|s3_checked|86|
 |r1_reviewed|1|
-|done|113|
+|done|115|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|44|
+|A|160|160|160|45|
 |B|62|62|62|1|
 |C|172|172|172|0|
 |D|92|92|92|11|
-|E|99|99|99|5|
+|E|99|99|99|6|
 |F|96|96|96|0|
 |G|49|49|49|0|
 |H|61|61|61|7|
@@ -82,7 +83,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|alyngton|retranslate|s3_checked|AB-main-20261106 2026-11-06|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -179,7 +179,6 @@
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
-|economic-democracy|retranslate|s3_checked|? 2026-11-04|
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
 |elisabeth-bohemia|retranslate|s3_checked|main 2026-11-01|
 |emerson|retranslate|cleared|task_ops 2026-11-06|
@@ -326,9 +325,9 @@
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|modesty-humility|retranslate|cleared|task_ops 2026-11-06|
+|modesty-humility|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |montesquieu|retranslate|cleared|task_ops 2026-11-06|
-|organ-donation|retranslate|drafted|OR-main-20261106 2026-11-06|
+|organ-donation|retranslate|s1_checked|OR-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
 |schema|retranslate|r1_reviewed|SZ-main-20261106 2026-11-06|
 |spacetime-convensimul|retranslate|cleared|task_ops 2026-11-06|
