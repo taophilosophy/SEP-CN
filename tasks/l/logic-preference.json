@@ -2,7 +2,7 @@
   "slug": "logic-preference",
   "kind": "retranslate",
   "zh_doc": "l/logic-preference.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-04T20:50:38Z",
       "evidence": "s3 三校：check_style 0（47 处 italic-cjk 平文化+8 段粗体误伤恢复+PREFL/PREFR/修正/收缩/添加/删除/并列粗体重建+seg201 TeX 引号全角化）；check_math 0（公式 0 missing 0 unbalanced）；check_academic --strict OK；check_prose 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:18:19Z",
+      "evidence": "r1 结构对账：参考文献节已为现代形态（References 注释节+注记），节数 28=28；marker 21=21；defs 67=67 键集全等；数字 0 段差异；$ 奇偶自查 0 行；公式 429 处、缺失 0（check_math 报 1 处 unbalanced 系源文英文行，译文对应行 $ 成对）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:18:19Z",
+      "evidence": "r2 语言与登记：check_prose 0 告警；文献中人名（von Wright/Halldén/Rescher/van Dalen）按源保留拉丁，未用汉名故无需登记；术语“偏好逻辑”“偏好序”“词典序”与术语表一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:18:22Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 0；check_math 缺失 0、$ 奇偶 0；marker/defs/节数齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:18:22Z",
+      "evidence": "done：九步齐，成稿 28 节 754 行"
     }
   ],
   "blockers": [],
