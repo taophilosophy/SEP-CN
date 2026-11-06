@@ -1327,6 +1327,9 @@
 | Erdmann, Johann Eduard | — | 约翰·爱德华·埃尔德曼 | leibniz-logic-influence | 学界通行汉译（19 世纪哲学史家，莱布尼茨著作集 1839/40 编者）；凭证 2026-11-07 | 2026-11-07 |
 | Kneale, William and Martha | — | 威廉·涅尔与玛尔塔·涅尔 | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》作者）；凭证 2026-11-07 | 2026-11-07 |
 
+| Buddhaghosa | — | 觉音 | modesty-humility | 佛教传统译名（汉文古译；《清净道论》作者） | 2026-11-07 |
+| Sidgwick, Henry | — | 亨利·西季威克 | modesty-humility | 学界通行汉译（《伦理学方法》作者） | 2026-11-07 |
+
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。

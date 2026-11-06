@@ -2,7 +2,7 @@
   "slug": "modesty-humility",
   "kind": "retranslate",
   "zh_doc": "m/modesty-humility.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,34 @@
       "actor": "LMN-main-20261106",
       "at": "2026-11-06T15:54:00Z",
       "evidence": "s3 四检全绿：check_style --strict 0 issue；check_academic --strict 0 硬错误（在途豁免仅尾节类，本文尾节齐备）；check_math 公式 0/缺失 0/失衡 0；check_prose 0；脚注 defs 73=73；lq 守恒 HARD=0；相关词条 10 项全映射且手工纠正 1 项误映射"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:52:21Z",
+      "evidence": "r1 复审（冷置回读）：通读源文 5 节与成稿对照，数字 0 段不一致，脚注 73=73、节 21=21、相关词条 10 项；术语体例（谦逊/谦卑/智识谦卑）与术语表一致；拉丁残留仅人名与术语首现括注"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:52:22Z",
+      "evidence": "r2 复审：check_prose 0 告警；人名登记补课 2 行（觉音（Buddhaghosa，传统译名）/亨利·西季威克），阿奎那/柏拉图/亚里士多德/休谟/威廉斯/富兰克林/爱比克泰德/康德/亚当·斯密已在册；现代学者（Driver/Bommarito 等）按 ADR-0022 保留英文"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:52:24Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 0；check_math 0/0/0；marker/defs/节数齐；相关词条整行复核（中国哲学中的伦理学已改正）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:52:24Z",
+      "evidence": "done：九步齐，成稿 5 节 281 行，标题与别名术语纠正、相关词条误映射修复、术语 3 行+人名 14 行登记"
     }
   ],
   "blockers": [],
