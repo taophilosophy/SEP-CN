@@ -2,7 +2,7 @@
   "slug": "lorenzo-valla",
   "kind": "retranslate",
   "zh_doc": "l/lorenzo-valla.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-04T15:13:31Z",
       "evidence": "s3 三校：check_academic --strict OK、check_prose/check_style 复跑全绿；ADR-0020 豁免 2 项（引文内部长句与'的'链）记录于 s1 证据；H1 劳伦佐·瓦拉与 SUMMARY/人名表/词汇表三方一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:25:37Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+注记），节数 11=11；marker 1=1；defs 键集全等；数字 1 段差异正当（Figure 2 and 3/Figure 1→第二格/第三格/第一格、thirteenth century→十三世纪）；正文通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:25:37Z",
+      "evidence": "r2 语言与登记：check_prose 2 告警均为引文内部（西班牙的彼得《逻辑小集》直引长句、Repastinatio 2:417 直引 de-chain），按 ADR-0020 引文豁免；瓦拉/荷马/西班牙的彼得/亚里士多德已在册；塔尔塔罗斯为地名不入人名表"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:25:40Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 2 项引文豁免；check_math 0/0/0；marker/defs/节数齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:25:40Z",
+      "evidence": "done：九步齐，成稿 11 节"
     }
   ],
   "blockers": [],
