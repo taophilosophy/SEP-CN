@@ -115,6 +115,7 @@
 | George Boolos | 乔治·布洛斯 | 语料回收（全目录） | 学界惯例（逻辑学家/集合论哲学）；凭证 2026-11-01 | 2026-11-01 |
 | George Washington | 乔治·华盛顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Gerald Gaus | 杰拉尔德·高斯 | 语料回收（全目录） | 学界惯例（政治哲学/社会契约）；凭证 2026-11-01 | 2026-11-01 |
+| Gerson, Jean | 让·热尔松 | 语料回收（marsilius-inghen 首译） | 中世纪晚期研究通行汉译（巴黎校长）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Giuseppe Peano | 朱塞佩·皮亚诺 | 语料回收（全目录） | 审定“皮亚诺”译名系（数学）；凭证 2026-11-01 | 2026-11-01 |
 | Gómez Pereira | 戈麦斯·佩雷拉 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Gottlob Frege | 戈特洛布·弗雷格 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
@@ -1064,6 +1065,9 @@
 | Rashdall, Hastings | 黑斯廷斯·拉什达尔 | autrecourt | 学界通行（中世纪大学史家） | 2026-11-06 |
 | Wodeham, Adam | 亚当·沃德姆 | autrecourt | 学界通行（奥卡姆弟子，complexe significabile 拥护者） | 2026-11-06 |
 | Giles of Feno | 费诺的吉莱斯 | autrecourt | 学界通行（Master Giles，奥特古通信人，身份存疑） | 2026-11-06 |
+| Cavendish, Margaret Lucas | 玛格丽特·卢卡斯·卡文迪许 | rationalism-early-modern | 学界通行（SUMMARY 定名沿用；与 margaret-cavendish 同簇，行文简称“卡文迪许”） | 2026-11-06 |
+| Sor Juana Inés de la Cruz | 索尔·胡安娜·伊内斯·德·拉·克鲁斯 | rationalism-early-modern | 学界通行汉译（墨西哥女哲学家；行文简称“索尔·胡安娜”） | 2026-11-06 |
+| Poulain de la Barre, François | 弗朗索瓦·普兰·德·拉巴尔 | rationalism-early-modern | 学界通行（《论两性的平等》作者；行文简称“普兰”） | 2026-11-06 |
 
 ## 待裁定
 
