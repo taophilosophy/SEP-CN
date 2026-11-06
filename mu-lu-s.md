@@ -289,7 +289,7 @@ outline: [1, 6]
   * [斯宾诺莎的政治哲学 political philosophy (Justin Steinberg)](s/spinoza-political.md)
   * [斯宾诺莎的心理学理论 psychological theory (Michael LeBuffe)](s/spinoza-psychological.md)
   * [斯宾诺莎的属性理论 theory of attributes (Noa Shein)](s/spinoza-attributes.md)
-    * [约翰内斯·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](j/johann-sturm.md)
+    * [约翰·克里斯托夫·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](j/johann-sturm.md)
     * [塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)](c/clarke.md)
     * [大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)](c/continental-rationalism.md)
     * [早期近代理性主义 Early Modern Rationalism (Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher P. Noble)](r/rationalism-early-modern.md)

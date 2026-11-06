@@ -2,7 +2,7 @@
   "slug": "johann-sturm",
   "kind": "retranslate",
   "zh_doc": "j/johann-sturm.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:08Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T15:12:57Z",
+      "evidence": "lq 账本流水线全量直译：76 段（body 72/oir 1/note 3）双版落盘，compose 26381 字符；SUMMARY 正名（约翰内斯·施图尔姆→约翰·克里斯托夫·施图尔姆）联动 mu-lu-s"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T15:12:57Z",
+      "evidence": "对照核销：段落 90:90、脚注 marker 零缺零多、defs 键集一致、节数 14:15（差 1＝note 段合成为“## 脚注”，源分 Notes 两行）；相关词条 8 项由 compose 映射"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T15:12:57Z",
+      "evidence": "prose 实修 9 处（长句 3 拆分、weak-verb 1、passive-bei 4 改无主动力表述、de-chain 1）；豁免 1 处（沃尔夫知识三分术语链）；CJK 斜体→加粗 42 处（纯非 ASCII 内容规则，防跨拉丁斜体误配；曾误伤已由账本重出修复）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T15:13:00Z",
+      "evidence": "四检全绿：check_academic --strict OK；check_style --strict issues=0；check_prose 仅余 1 条术语链豁免；check_math formulas=0/missing=[]/unbalanced=[]；lq check 守恒门 76 段通过"
     }
   ],
   "blockers": [],

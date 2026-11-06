@@ -2550,7 +2550,7 @@
   * [\*物理学——见物理学：物理学中的结构主义 in physics — see physics: structuralism in](p/physics-structuralism.md)
 * [结构实在论 structural realism (James Ladyman)](s/structural-realism.md)
 * [卡尔·斯图姆夫 Stumpf, Carl (Denis Fisette)](s/stumpf.md)
-* [约翰内斯·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](j/johann-sturm.md)
+* [约翰·克里斯托夫·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](j/johann-sturm.md)
 * [\*风格 style](README.md)
   * [数学风格 Mathematical Style](m/mathematical-style.md)
 * [弗朗西斯科·苏亚雷斯 Suárez, Francisco (Christopher Shields and Daniel Schwartz)](s/suarez.md)
