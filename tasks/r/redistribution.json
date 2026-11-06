@@ -2,7 +2,7 @@
   "slug": "redistribution",
   "kind": "retranslate",
   "zh_doc": "r/redistribution.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -52,6 +52,13 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-06T00:23:52Z",
       "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：76 段逐节回读 yuanwen 镜像自审；结构完整性按源节集合验收——导语+3 编号节（1 分配正义与再分配/2 基线分布[2.1 历时再分配含 2.1.1-2.1.3/2.2 共时比较含 2.2.1-2.2.2]/3 结论）+脚注 17 条+References 45 条+学术工具 4 行+其他网络资源+相关词条+致谢；H1/pubinfo/版本钉与 mirror 一致；OIR 节源文仅 [Please contact the author with suggestions.] 一行、中译逐字对应，正文 L109「见其他网络资源一节的罗宾汉税链接」与 OIR 空节失配系源文自身不一致（2018 修订遗留），零信任照录不改。发现并实修 4 处（s1 残留外文检查漏网——单词嵌中文句式）：L113 两处「的 commitment」→「的承诺」（源 a commitment to infringing…/a commitment to fixing the content…）、L117「道德上 privileged 的基准」→「道德上受优待的基准」（源 morally privileged benchmark，登记册与全库已译词条无先例，自选译形留痕，普通词汇不立项登记）、note-15「毛收入 没有任何主张」去多余半角空格。残留外文全词形扫描复核：拉丁 token 逐一过目，除 References 照录、人名、年份页码、既登记文内夹注（expropriation/synchronically/subjunctive baseline situation/predistribution）与脚注键外零残留。复核独立性：单会话作业，r3 终审前冷置（r2 之后立项 rationalism-early-modern 介于其间）。修复后定点复检：prose 余 2 条均系既定豁免、style 0、lint 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-06T00:29:44Z",
+      "evidence": "r2 复审（逐句回核原文与逻辑，ADR-0020 独立性条款：单会话作业，r3 冷置待行）：全文逐段回核 yuanwen 镜像——引文 Verity 逐条核验 8 处（Nozick 强制机器/Scanlon 连续统/Nagel 一半储蓄/Murphy & Nagel 税前基线/Freeman 十五到二十年/Cohen note-17/Sen 多给/Scanlon note-13），发现并实修 1 处 Critical 级误译：note-13 源文 far less plausible to maintain A than B（主张 A 远不如主张 B 可信）旧译「要难得多」系 plausibility→difficulty 误读，改「远不如主张杀死他是不可容许的那样可信」；漏译 1 处：L85 基线（3）源文 all persons and groups 旧译漏「与群体」，改「倘若所有人与群体均得到其对生产的贡献」；补轻微漏译 1 处：L97 受益税源文 user charges: taxes that are paid to cover 旧译丢「税」字，补「而缴纳的税」。数字与编号 Verity 抽查全过：<5,3>→<6,2> 五分位例、1979–1987 四组百分比（6%/11%/9.8%/15.6%）、L43/L55/L85/L101/L103 五组编号清单逐项对源、note-6 Modigliani and Solow [1989]（源文引注无对应 biblio 条目，系源文自身缺失，照录）、note-8 Pogge p.72、note-12 Raz pp. 168-71、note-17 Cohen p.14；L118 源文笔误 should serves/lasses-faire 系翻译静默修正通例；Cappelen 2000 文内引用与 biblio cappelen-2001 年份失配系源文自身不一致照录。其余段落（导语与四参数/基线分布/历时与夺取/共时基线/税收转移与侵犯权利/结论）逻辑链逐段回核无矛盾、无漏段。修复后定点复检：prose 余 2 条均系 s2 既定豁免、style 0、academic 0 硬错误"
     }
   ],
   "blockers": [],
