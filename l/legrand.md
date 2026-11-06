@@ -48,9 +48,15 @@
 
 要而言之，勒·格兰德之于十七世纪下半叶笛卡尔主义的接受与推进，功不可没，值得研究。他将笛卡尔自然哲学的应用拓展至其时代的种种观察与实验，推衍了笛卡尔关于自然机械化、心灵与身体之因果交互与结合、表征与真理本性诸端的思想；在道德领域，则阐明了笛卡尔的激情理论如何为德性提供重要说明。同样不可忽视的是：他一生大部分光阴在英格兰度过，与皇家学会成员及剑桥、牛津两大学的往还，使笛卡尔思想在英格兰、德国与法国的接受深受其惠。
 
-## 参考文献
+## References（引用注释）
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Texts
+
+### Selected Studies and Critical Discussions
 
 [^clarke-1738]: Clarke, Samuel, 1738. *The Works*, 4 vols. Edited by B. Hoadly, London.
 [^cudworth-1678]: Cudworth, Ralph, 1678. *The True Intellectual System of the Universe*, London.

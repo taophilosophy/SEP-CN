@@ -2,7 +2,7 @@
   "slug": "legrand",
   "kind": "retranslate",
   "zh_doc": "l/legrand.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-02T18:12:56Z",
       "evidence": "四检全过：check_style 0（中文斜体强调 3 处改加粗+空格）、check_academic 0 硬错误、check_math 0 公式、prose 0；人名 9 位新登记 ren-ming-biao.md（勒·格兰德/帕克/萨金特/克拉克/伍德/罗奥/法布里/塞涅卡/伽桑狄）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:22:36Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+转换器注记+补回源文 ### Primary Texts / ### Selected Studies and Critical Discussions 两子节，节数 8→10=源 10）；marker 1=1；defs 键集全等；数字 0 段差异；正文 4 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:22:36Z",
+      "evidence": "r2 语言与登记：check_prose 0 告警；安托万·勒·格兰德/笛卡尔/伊壁鸠鲁/塞涅卡/萨金特/帕克均已在册；现代学者（Easton 等）保留英文"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:22:38Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 0；check_math 0/0/0；defs/marker/节数三齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:22:39Z",
+      "evidence": "done：九步齐，成稿 4 节，参考文献两子节归位"
     }
   ],
   "blockers": [],
