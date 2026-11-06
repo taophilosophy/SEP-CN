@@ -267,6 +267,13 @@ def is_non_english(term):
     return any(v in FOREIGN_WORDS for v in _key_variants(term))
 
 
+# 英文术语键附「编者括注」豁免（012 阶段1，2026-11-07）：键中 CJK 仅为语境/概念域
+# 编者注而非源语言原文，基准词是英文词，原文列恒「—」：
+#   - competence（医疗与法律语境）：organ-donation 法学与医学语境消歧注
+#   - yielding（虚空）：democritus「虚空让与」概念域注（虚空本体另有键 kenon）
+ORIG_EDITORIAL_PAREN = frozenset({'competence（医疗与法律语境）', 'yielding（虚空）'})
+
+
 def orig_missing(rows):
     """「非英语术语缺原文」：rows 为 parse_registry_full 口径，返回 [(键, 行号)]。
 
@@ -276,6 +283,8 @@ def orig_missing(rows):
     out = []
     for term, orig, _trans, _fs, _basis, _date, lineno in rows:
         if orig is not None and orig.strip() not in ORIG_BLANK:
+            continue
+        if term in ORIG_EDITORIAL_PAREN:
             continue
         if is_non_english(term):
             out.append((term, lineno))
