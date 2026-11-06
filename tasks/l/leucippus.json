@@ -2,7 +2,7 @@
   "slug": "leucippus",
   "kind": "retranslate",
   "zh_doc": "l/leucippus.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-02T17:51:00Z",
       "evidence": "四检全过：check_style 0 / check_academic 0硬错误 / check_math 0公式无失衡 / markdownlint待CI；人名 留基伯/麦里梭/辛普里丘 先登记 ren-ming-biao.md 后使用"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:03:41Z",
+      "evidence": "r1 结构对账：参考文献节补回源文 ### Texts / ### Secondary Sources 两子标题（节数 7→9=源 9）；marker 4=4；defs 键集全等；数字 0 段差异；正文 2 节与引言通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:03:41Z",
+      "evidence": "r2 语言与登记：check_prose 0 告警；留基伯/德谟克利特/巴门尼德/芝诺/塞克斯都/辛普里丘/第欧根尼·拉尔修均在册；现代学者保留英文"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:03:44Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 0；check_math 0/0/0；marker/defs/节数齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T22:03:44Z",
+      "evidence": "done：九步齐，成稿 9 节"
     }
   ],
   "blockers": [],
