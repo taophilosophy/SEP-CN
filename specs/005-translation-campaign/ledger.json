@@ -12,7 +12,7 @@
    "phase": "translate",
    "claimed_by": "AB-main-20261106",
    "claimed_at": "2026-11-06T14:08:07Z",
-   "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）；收口（2026-11-07 AB-main-20261106）：alexander-crummell 九步入 done（s3 88f5e168、done bb45d393），实况 160=pending 96/cleared 18/done 46；下一目标按 yuanwen 行数升序（antonio-rosmini 241 行）",
+   "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）；收口（2026-11-07 AB-main-20261106）：alexander-crummell 九步入 done（s3 88f5e168、done bb45d393），实况 160=pending 96/cleared 18/done 46；下一目标按源文词数升序（albo-joseph 7184 词；行数口径会误选 antonio-rosmini，B 批已实证行数不可靠）",
    "advanced_at": "2026-10-28T16:35:48Z"
   },
   "b": {
@@ -31,8 +31,8 @@
   },
   "d": {
    "phase": "translate",
-   "claimed_by": "CD-main-20261106",
-   "claimed_at": "2026-11-06T14:09:48Z",
+   "claimed_by": "D-main-20261107",
+   "claimed_at": "2026-11-06T20:34:41Z",
    "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）；对账补记（2026-11-06，CD-main-20261106 接管）：任务 92=pending 71/cleared 3/s3_checked 7/done 11（r1_reviewed 4 已由并行会话推至 done），状态机与 steps 凭证 100% 一致；NO_LEDGER 17→18（新增 duhem：11-06 收口 done，无账本留痕）；cleared 4→3（davidson/digital-art/dilthey 待全量重译）；本会话（CD-main-20261106）开工即收 cloning，d 批 davidson/digital-art/dilthey 三件 cleared 待全量重译",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-06T19:25:45Z"
+ "updated_at": "2026-11-06T20:34:41Z"
 }
