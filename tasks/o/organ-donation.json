@@ -2,7 +2,7 @@
   "slug": "organ-donation",
   "kind": "retranslate",
   "zh_doc": "o/organ-donation.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T16:25:32Z",
       "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue；markdownlint-cli2 0 issue（修 MD004：OIR 列表 10 处连字符→星号，规则固化进 od_postfix.py 幂等后处理）；check_academic --strict 0 硬错误；check_math 公式 0 缺失/0 失衡；check_terms 定点 0 缺译、硬错误 0；引号全为中文弯引号、中西文空格与 ** 间距合规、无 HTML/裸 text 围栏；H1 与 SUMMARY、版本行与 baseline 版本钉复核一致。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T16:36:24Z",
+      "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：117 段逐句回读 yuanwen 镜像；结构完整性按源节集合验收（导语 + 3 编号节/6 小节 + References（引用注释）+ 学术工具 + 其他网络资源 + 相关词条 + 致谢；源无正文脚注节，故无 ## 脚注）。发现 2 处 Minor 并修正：①段67 转换器残留「Van Assche et al*.* 2016」星号（转义伪斜体，去星号作 et al.）；②段82「某人之所以晚上名单」歧义（可误读为“晚间名单”）→「较晚进入名单」。数字/年代/百分比与引用组复核无漂移；源文 (c) 指代（列表实为 1-3）与段40 缺句号、段67 that/than 笔误按源照录留痕。复核独立性：r2 走冷置（先推进 origin-descent 立项与初译，再回读本词条）。"
     }
   ],
   "blockers": [],
