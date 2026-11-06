@@ -2,7 +2,7 @@
   "slug": "schema",
   "kind": "retranslate",
   "zh_doc": "s/schema.md",
-  "state": "s1_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,20 @@
       "actor": "SZ-main-20261106",
       "at": "2026-11-06T14:58:15Z",
       "evidence": "一校（准确性）逐段对照 yuanwen/s/schema.md：8 节集合对位（1–4+References+学术工具+其他网络资源+相关词条）；脚注引用与定义 43 键全等、无孤立；公式 18 处 $$ 逐字符照录（含 \\textrm 英文示例，宪法 VI）；实修 3 处词数表述（“八个词/十四词/六词”→补“英语”，指源语句而非译文）；残留外文仅为引用组与照录文献"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T15:17:43Z",
+      "evidence": "二校（语言）：check_prose 5 告警→0；实修 4 处——段16 长句 85 字拆分（既然…既然…那么→分号递进+因此）、段16 被字句改写（被指定的那组→指定出来的）、段35 弱动词（就是用…指定的→就用…指定）、段51/56 的字链压缩（记号系统的存在→有…记号系统；命题函项引文 4 个的→3 个）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T15:17:44Z",
+      "evidence": "三校（体例）：check_style --strict 0 issue；check_math 63 公式 0 缺失 0 失衡；check_academic --strict 绿（在途豁免 1）；check_summary HARD 0；中文强调斜体→粗体 10 行（italic_to_bold_cjk v3）；登记 yi-zhe-shuo-ming 45 行/ren-ming-biao 5 行（首现=schema，依据五列齐）"
     }
   ],
   "blockers": [],
