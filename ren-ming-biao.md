@@ -37,6 +37,7 @@
 | Bergson, Henri | 亨利·柏格森 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bertrand Russell | 伯特兰·罗素 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Berkeley, George | 乔治·贝克莱 | SUMMARY 定名（b/berkeley.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译，亦作『巴克莱』）；凭证 2026-11-06 | 2026-11-06 |
+| Biel, Gabriel | 加布里埃尔·比尔 | 语料回收（marsilius-inghen 首译） | 宗教改革研究通行汉译（近代之路晚辈）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Boethius, Anicius Manlius Severinus | 亚尼修·玛理乌斯·塞味利诺·波爱修斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bohr, Niels | 玻尔 | 语料回收（lakatos 首译） | 物理学界千年通行汉译（丹麦物理学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bonaventure | 波纳文图拉 | 语料回收（marsilius-inghen 首译） | 学界千年通行汉译（中世纪神学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -219,11 +220,13 @@
 | Richard Rorty | 理查德·罗蒂 | law-ideology | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Daniel Bell | 丹尼尔·贝尔 | law-ideology | 学界通行汉译（社会学家，《意识形态的终结》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Susan Moller Okin | 苏珊·莫勒·奥金 | law-ideology | 学界通行汉译（女性主义政治哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Strasbourg, Thomas of | 斯特拉斯堡的托马斯 | 语料回收（marsilius-inghen 首译） | 中世纪神学研究通行汉译（奥古斯丁会）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Smith, Adam | 亚当·斯密 | SUMMARY 定名（s/smith-moral-political.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Rosa Luxemburg | 罗莎·卢森堡 | luxemburg | 学界通行汉译（《卢森堡文选》通行）；待 specs/008 审定库复核 | 2026-11-03 |
 | Themo Judaeus | 特莫·尤达乌斯 | duhem | 学界惯例（中世纪学者音译）；凭证 2026-11-06 | 2026-11-06 |
 | Torricelli, Evangelista | 托里拆利 | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Vladimir Lenin | 弗拉基米尔·列宁 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Vitoria, Francisco de | 弗朗西斯科·德·维多利亚 | 语料回收（marsilius-inghen 首译） | 西班牙经院哲学通行汉译（萨拉曼卡学派创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Urban VI | 乌尔班六世 | 语料回收（marsilius-inghen 首译） | 教皇通译惯例；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Eduard Bernstein | 爱德华·伯恩施坦 | luxemburg | 学界通行汉译（修正主义者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Karl Kautsky | 卡尔·考茨基 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
@@ -1003,6 +1006,7 @@
 | Gerard, Alexander | 亚历山大·杰拉德 | aesthetics-18th-british | 学界通行（《论趣味》作者，苏格兰常识学派外围） | 2026-11-06 |
 | Gilpin, William | 威廉·吉尔平 | aesthetics-18th-british | 学界通行（如画美学创立者） | 2026-11-06 |
 | Homer | 荷马 | aesthetics-18th-british | 学界千年通行（史诗诗人） | 2026-11-06 |
+| Erdős, Paul | 保罗·埃尔德什 | boolalg-math | 数学界规范译名（《数学名词》）；r2 改定，初译厄多斯 | 2026-11-06 |
 | Price, Uvedale | 尤维代尔·普赖斯 | aesthetics-18th-british | 学界通行（《如画之美》作者） | 2026-11-06 |
 | Shaftesbury, 3rd Earl of | 沙夫茨伯里 | aesthetics-18th-british | 学界通行（Anthony Ashley Cooper，内在感官说先驱；正文以爵号行文） | 2026-11-06 |
 | Sibley, Frank | 弗兰克·西布利 | aesthetics-18th-british | 学界通行（审美概念不可推理论） | 2026-11-06 |
