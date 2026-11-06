@@ -2,8 +2,72 @@
   "slug": "alyngton",
   "kind": "retranslate",
   "zh_doc": "a/alyngton.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T14:41:59Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:25:24Z",
+      "evidence": "初译：零信任直译自 yuanwen（2022-01-17 修订版），四分片组装（H1+pubinfo+正文 8 节+尾节四节；参考文献 18 条 defs 逐字照录，孤立键照源同构）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:25:24Z",
+      "evidence": "一校（准确性）：对账五维——节 8/8、脚注标记多重集相等（mchardy-1987/ackrill-1963 各×2，转换器伪标记[^key]除外）、defs 键集 18/18、段落 22/23（+1=译注行）、年份序列相等（1390s 词边界差异除外）；引用组与页码（In Cat. cap./fol./p.）逐处照录；拉丁书名照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:27:15Z",
+      "evidence": "二校（语言）：check_prose 53→14——长句拆分、去“的”链、被字句改写、弱动词（加以改进→改进）共实修 45 处（script/fix_alyngton_s2.py 逐条断言）；余 14 条 ADR-0020 豁免留痕（当且仅当定义式、scholastic 枚举句、书名内结构）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:27:19Z",
+      "evidence": "三校（体例）：check_style --strict 0；check_math 0；check_academic --strict 0 硬错误；check_terms 0 硬错误（词汇表滞后 2 条为全库存量告警）；人名登记 8 行（阿林顿/根特的亨利/奥林匹奥多罗斯/彭比尔/夏普/法弗舍姆的西蒙/塔蒂斯/惠尔普代尔）bisect 插入 ren-ming-biao"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:33:17Z",
+      "evidence": "初审（准确性）：全文回读＋语义抽查（§4 七种实体意见/§5 量之七种推导/§8 伯利-威克里夫-阿林顿三世界对照）对 yuanwen 语义一致；对账五维通过（节 8/8、标记多重集、defs 18/18、年份、段落+译注行）；无中英混杂残留"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:33:17Z",
+      "evidence": "复审（语言与登记）：术语与登记册一致（指代/第一意向第二意向/共相/偶性/内属/形质论/歧义单义类比）；现代学者引用组保留拉丁原形（Emden/Ashworth & Spade/Conti/McHardy/Bale/Ackrill，家法引用组不译）；相关词条四项（伯利，沃尔特/彭比尔，威廉/夏普，约翰/威克里夫，约翰）与 SUMMARY 定名一致；人名 8 行登记同批提交"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:33:20Z",
+      "evidence": "终审（门禁）：check_all 7 项全绿（SUMMARY/目录/文长/垃圾/术语/学术规范/单测）；定点四检 style 0、math 0、academic --strict 0 硬错误、render 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T15:33:21Z",
+      "evidence": "六道走完，done：a/alyngton.md 165 行（正文 8 节 22 段＋参考文献 18 defs＋尾节四节）；批次 a 进度 done 45/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:47Z",
   "version_pin": {
