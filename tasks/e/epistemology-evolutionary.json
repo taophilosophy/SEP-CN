@@ -2,7 +2,7 @@
   "slug": "epistemology-evolutionary",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-evolutionary.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T21:11:45Z",
       "evidence": "三校：check_style 仅 bibliography 豁免 1 条；check_academic --strict 0；check_math 本词条 0 未配对"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T13:20:01Z",
+      "evidence": "r1 段级核销：18 节标题一一对应、80 个脚注键与源全等、文献定义无重复；年份/人名（Campbell 1974a、Popper、Skinner 1981、Kim 1988、Skyrms 1996、Millikan 1984）逐条核对；补 107 段末缺失句号（'见 Atran (2001) 与 Sperber (2001)' 无句读）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T13:20:01Z",
+      "evidence": "r2 句级复读：check_prose 27→0；拆长句 8 处、去'的'链 12 处、被字句改写 5 处（'被发现/被遗传'类）、弱动词 3 处、'哲学家们'1 处"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T13:20:04Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK、结构 18 节完整；账本缺档旧管线债务登记 qa-findings §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T13:20:05Z",
+      "evidence": "终稿验收：六道全过；prose 归零，无豁免项"
     }
   ],
   "blockers": [],
