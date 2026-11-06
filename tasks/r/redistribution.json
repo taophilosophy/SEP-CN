@@ -2,7 +2,7 @@
   "slug": "redistribution",
   "kind": "retranslate",
   "zh_doc": "r/redistribution.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -59,6 +59,20 @@
       "actor": "RZ-main-20261104",
       "at": "2026-11-06T00:29:44Z",
       "evidence": "r2 复审（逐句回核原文与逻辑，ADR-0020 独立性条款：单会话作业，r3 冷置待行）：全文逐段回核 yuanwen 镜像——引文 Verity 逐条核验 8 处（Nozick 强制机器/Scanlon 连续统/Nagel 一半储蓄/Murphy & Nagel 税前基线/Freeman 十五到二十年/Cohen note-17/Sen 多给/Scanlon note-13），发现并实修 1 处 Critical 级误译：note-13 源文 far less plausible to maintain A than B（主张 A 远不如主张 B 可信）旧译「要难得多」系 plausibility→difficulty 误读，改「远不如主张杀死他是不可容许的那样可信」；漏译 1 处：L85 基线（3）源文 all persons and groups 旧译漏「与群体」，改「倘若所有人与群体均得到其对生产的贡献」；补轻微漏译 1 处：L97 受益税源文 user charges: taxes that are paid to cover 旧译丢「税」字，补「而缴纳的税」。数字与编号 Verity 抽查全过：<5,3>→<6,2> 五分位例、1979–1987 四组百分比（6%/11%/9.8%/15.6%）、L43/L55/L85/L101/L103 五组编号清单逐项对源、note-6 Modigliani and Solow [1989]（源文引注无对应 biblio 条目，系源文自身缺失，照录）、note-8 Pogge p.72、note-12 Raz pp. 168-71、note-17 Cohen p.14；L118 源文笔误 should serves/lasses-faire 系翻译静默修正通例；Cappelen 2000 文内引用与 biblio cappelen-2001 年份失配系源文自身不一致照录。其余段落（导语与四参数/基线分布/历时与夺取/共时基线/税收转移与侵犯权利/结论）逻辑链逐段回核无矛盾、无漏段。修复后定点复检：prose 余 2 条均系 s2 既定豁免、style 0、academic 0 硬错误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-06T00:36:35Z",
+      "evidence": "r3 终审（终稿验收，冷置后回读）：r1/r2 修正落点复核无残留——L113 两处承诺/L117 受优待基准/note-15 空格（r1 四处）、note-13 可信度句/L85（3）所有人与群体/L97 而缴纳的税（r2 三处）全部在位；结构完整性终验——导语+3 编号节（1 分配正义与再分配/2 基线分布[2.1 含 2.1.1-2.1.3/2.2 含 2.2.1-2.2.2]/3 结论）+脚注 17 条+References 45 条+学术工具 4 行+其他网络资源+相关词条+致谢齐备有序；引文八处终读与源文一致（Nozick/Scanlon 连续统/Scanlon note-13/Nagel/Sen/Freeman/Cohen/Murphy & Nagel）；定点六检：prose 0 新增（余 2 条系 s2 豁免留痕 L79/L93）/style 0/academic 0 硬错误/math 0/lint 0/check_terms 0 硬错误；全库 check_all 7 项全绿；CI 于 push 后为最终裁判。冷置说明：r2 之后完成 rationalism-early-modern 立项 direction+clear（0b1da89c）方回读本词条终读。终验签字：RZ-main-20261104"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "RZ-main-20261104",
+      "at": "2026-11-06T00:36:35Z",
+      "evidence": "done：六道全过（pending→cleared→drafted→s1→s2→s3→r1→r2→r3→done 凭证链完整），redistribution 为 RZ 会话 r 批第 6 个收口件（r 批 done=6/85），r–z 合计 done=7/385"
     }
   ],
   "blockers": [],
