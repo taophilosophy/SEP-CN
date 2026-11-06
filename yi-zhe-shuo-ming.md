@@ -1362,3 +1362,5 @@
 | due process | — | 正当程序 | organ-donation | 学界惯例（法学通译；凭证 2026-11-06） | 2026-11-06 |
 | bodily integrity | — | 身体完整性 | organ-donation | 学界惯例（法学与生命伦理学通行；凭证 2026-11-06） | 2026-11-06 |
 | welfare rights | — | 福利权利 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
+| eclecticism | — | 折衷主义 | johann-sturm | 学界通行（早期近代哲学史；施图尔姆《折衷哲学》） | 2026-11-06 |
+| sine qua non cause | — | 必要条件因（sine qua non；正文保留拉丁语） | johann-sturm | 中世纪与早期近代因果理论通行 | 2026-11-06 |

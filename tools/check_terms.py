@@ -8,8 +8,9 @@
   python tools/check_terms.py --registry2 <路径>    # 注入第二登记册（人名表）
 
 三表:
-  - 术语登记册 yi-zhe-shuo-ming.md（原文|译法|首现|依据|裁定日期，五列）
-  - 人名登记册 ren-ming-biao.md（同五列，ADR-0012 自术语表拆出）
+  - 术语登记册 yi-zhe-shuo-ming.md（键|原文|译法|出处|依据|日期，六列；
+    旧五列「键|译法|首现|依据|裁定日期」按旧口径兼容解析）
+  - 人名登记册 ren-ming-biao.md（同六列，ADR-0012 自术语表拆出）
   - 发布词汇表 qian-yan/ci-hui-biao.md（英语|中文|备注，发布视图）
 
 规则:
@@ -18,6 +19,9 @@
     一侧为另一侧真子集 = 词汇表滞后（告警）。
   - 登记册自洽：废弃行须有同键非废弃行；裁定日期缺失、依据列缺失 = 告警
     （数据欠账，登记会话补齐）；同键同译法重复 = 硬错误。
+  - 非英语术语缺原文 = 告警（非硬错误，2026-11-06）：键含非 ASCII 拉丁变音符／
+    非拉丁文字，或命中内置小语种词表者，「原文」列为「—」或空（旧五列无该列
+    亦视为缺）即记一条；全量清单落 specs/008 results/orig-missing.txt。
 退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0）。
 """
 import io
@@ -36,9 +40,81 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
 REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
 GLOSSARY = os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md')
+ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
+                           'orig-missing.txt')
 DEPRECATED_MARK = '已废弃'
 HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名', '文献',
-                '条目', 'term', '原文形态', '通行中文'}
+                '条目', 'term', '原文形态', '通行中文', '键', '出处', '日期'}
+
+# 原文列视为「缺」的写法（迁移占位符；英文术语按体例同样填「—」，但不算缺）
+ORIG_BLANK = {'', '—', '–', '--', '-', '－', '——', 'n/a', 'na', '无'}
+
+# 非英语术语词表（008 战役·原文列迁移 2026-11-06 新增告警用）：
+# 只收两登记册实际出现的拉丁惯用语／德／法／阿拉伯转写／梵巴藏转写／
+# 希腊转写／日／朝／汉语拼音条目；比对口径＝casefold 后的整键、去括注主形、
+# 括注内容与「/」拆分变体（键里括注常直接给出转写原文）。条目以 | 分隔，
+# 允许含空格的多词短语（mysterium tremendum et fascinans 等）。
+FOREIGN_WORDS = frozenset(
+    w.strip() for line in """
+ampliatio|consequentia|incipit|desinit|ens inquantum ens|ex nihilo
+ex contradictione quodlibet|modus ponens|modus tollens|modus significandi
+modi significandi|sophisma|sophismata|nota illationis|praedicamentum signi
+per se|per se predication|prima facie|bona fide|ceteris paribus|tabula rasa
+vis aestimativa|vis copulativa|vis viva|secundum imaginationem
+potentia dei absoluta|potentia dei ordinata|instantiae naturae|beneplacitum
+scientia necessaria|ad utrumlibet|velle|nolle|non-velle|venerabilis inceptor
+scientia|cognitio|cogito|sensus communis|sensus divinitatis|esse habituale
+obligatio|obligationes|casus|significatio|nominatio|singularia
+syncategorematica|synsemantica|entia rationis|insolubilia|superadditum
+libertas philosophandi|ius ubique docendi|magna charta universitatum
+novum organum|de revolutionibus|de sophisticis elenchis|collegia pietatis
+stare decisis|ratio decidendi|paradeigma|homoiotes|reductio|definiens
+definiendum|a priori|a posteriori|de dicto|de re|a fortiori|quodlibet
+quaestio|opus postumum|complexe significabile|delectatio|caritas|monarchia
+mysterium tremendum et fascinans|quidditas|haecceitas|via moderna|via antiqua
+ars inveniendi|ars iudicandi|dictum|proslogion|george-kreis
+logos|nous|telos|polis|pathos|doxa|mimesis|pneuma|hegemonikon|ataraxia
+pleonexia|sophrosune|dikaiosune|kalokagathos|euthymia|antitupia|sunkrisis
+poroi|kenon|aphanes|phusis|nomos|isonomia|metabasis|physiologos|physiologoi
+ou mallon|aporeia|epagoge|eudaimonia|tekmairesthai
+begriffsschrift|bedeutung|bildung|dasein|sittlichkeit|vorstellung|erlebnis
+erfahrung|darstellung|ereignis|sache selbst|werden|nacherleben
+gewissenstrieb|bestimmung|lehrfreiheit|lernfreiheit|elementarphilosophie
+satz des bewusstseins|tathandlung|wissenschaftslehre|denken als denken
+sprachloses denken|synonymik|gehalt|aufhebung|weltanschauung|verstehen
+lebenswelt|umwelt|mitsein|vorhandenheit|zuhandenheit
+petites perceptions|je ne sais quoi|fait social|le monde|raison d'etre
+falsafa|fitra|sunna|fiqh|hadith|kalam|sharia|ijma|qiyas|ijtihad|taqlid
+tawhid|tasawwuf|sufi|hikma|mahdi|umma|madhhab|falasifa|mutakallimun
+tahafut|ishraq|mashsha'i
+dharma|karma|mantra|yoga|tantra|sutra|sastra|shastra|abhidharma|abhidhamma
+vinaya|vipassana|samatha|nirvana|moksha|atman|anatman|brahman|prajna
+karuna|metta|dukkha|anicca|anatta|jhana|stupa|arhat|bodhisattva|skandha
+dhatu|ayatana|pratityasamutpada|madhyamaka|apoha|icchantika|chakravarti
+gotra|hetu|phala|nirodha|tanha|samsara|kensho|satori|koan
+tshad ma|snang yul|gzung yul|zhen yul|blo|blo rigs|nges pa|bsdus grwa
+bsdus pa|gzhan sel|rnam pa|sgra spyi|don spyi|rjod byed|brjod bya|sgra don
+bcad shes|yid dpyod|log shes|the tshom|ma rtogs|dngos rtogs|shugs rtogs
+rigs gter|snang la ma nges pa|rtog pa|tshad ma rigs gter|tshad ma'i bsdus pa
+ngo bo gcig la ldog pa tha dad|'jug yul|sefer ha-zohar
+wabi|sabi|wabi-sabi|iki|kire|kireji|karesansui|seppuku|engi|kata|tokonoma
+haboku|hatsuboku|kara-e|yamato-e|sansui|meibutsu|basara|nijiriguchi
+kakemono|bitai|ikiji|akirame|kire-tsuzuki|sabireru|sabishii|shibumi|amami
+jimi|gehin|katanakake|kokugaku|kokugakusha|shinkoku|magokoro|karagokoro
+mikunigokoro|kannagara|kishin|saisei itchi|kokutai|nihonjinron|hongaku
+mono no aware|wabicha|raku|shoin
+qi|tian|dao|yin|yang|wuwei|wu wei|daodejing|lunyu|lun yu|mengzi|mozi
+zhuangzi|laozi|lao tzu|xunzi|han feizi|yijing|i ching|tao te ching
+huainanzi|shiji|liezi|guanzi|chunqiu|analects
+hwajaeng|hwalgu|sagu|minjung|yixin|ilsim|tong pulgyo
+gulag|cheka|partinost|samizdat
+""".strip().splitlines() for w in line.split('|') if w.strip())
+
+# 阿拉伯/波斯人名转写标记（Ibn Sīnā、al-Fārābī 等；ASCII 拼写也须给原文）
+_ARABIC_NAME_RE = re.compile(r'\b(?:ibn|bint|abu)\b|\bal-[a-z]')
+_PAREN_RE = re.compile(r'[（(]([^（）()]*)[）)]')
+_VARIANT_SPLIT = re.compile(r'[/／]')
+
 
 
 def norm_key(text):
@@ -79,15 +155,18 @@ def split_row(line):
 
 
 def is_data_row(cells):
-    return (len(cells) >= 2 and cells[0] and cells[1]
+    # 只校验首列：六列新格式的第二列（原文）允许为空/「—」，不能据此丢弃数据行
+    return (len(cells) >= 2 and cells[0]
             and cells[0].casefold() not in HEADER_WORDS
             and not set(cells[0]) <= set(':-— '))
 
 
-def parse_registry(path):
-    """返回 rows=[(term, trans, first_seen, basis, date, lineno)] 与解析告警。
+def parse_registry_full(path):
+    """返回 rows=[(term, orig, trans, first_seen, basis, date, lineno)] 与解析告警。
 
-    五列（原文|译法|首现|依据|裁定日期）为标准格式；旧四列（无依据）容忍并告警。
+    六列（键|原文|译法|出处|依据|日期，2026-11-06 原文列迁移）为标准格式；
+    旧五列（原文|译法|首现|依据|裁定日期）与旧四列（无依据）按旧口径解析并容忍，
+    此时 orig=None 表示「旧格式没有原文列」（区别于新格式的留空或填「—」）。
     """
     rows, warns = [], []
     if not path or not os.path.exists(path):
@@ -98,21 +177,127 @@ def parse_registry(path):
         cells = split_row(line)
         if not is_data_row(cells):
             continue
-        term, trans = cells[0], cells[1]
-        first_seen = cells[2] if len(cells) >= 3 else ''
-        if len(cells) >= 5:
-            basis, date = cells[3], cells[4]
+        n = len(cells)
+        if n >= 6:
+            term, orig, trans = cells[0], cells[1], cells[2]
+            first_seen, basis, date = cells[3], cells[4], cells[5]
+            if n > 6:
+                warns.append('第 %d 行 %d 列（应为 6，已取前 6 列）：%s'
+                             % (lineno, n, term))
             if not basis:
                 warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
-        elif len(cells) == 4:
-            basis, date = '', cells[3]
-            warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
         else:
-            basis, date = '', ''
-            warns.append('第 %d 行仅 %d 列（应为 5）：%s'
-                         % (lineno, len(cells), term))
-        rows.append((term, trans, first_seen, basis, date, lineno))
+            term, orig, trans = cells[0], None, cells[1]
+            first_seen = cells[2] if n >= 3 else ''
+            if n >= 5:
+                basis, date = cells[3], cells[4]
+                if not basis:
+                    warns.append('缺依据列（告警）：%s（第 %d 行）'
+                                 % (term, lineno))
+            elif n == 4:
+                basis, date = '', cells[3]
+                warns.append('缺依据列（告警）：%s（第 %d 行）' % (term, lineno))
+            else:
+                basis, date = '', ''
+                warns.append('第 %d 行仅 %d 列（应为 5）：%s'
+                             % (lineno, n, term))
+        rows.append((term, orig, trans, first_seen, basis, date, lineno))
     return rows, warns
+
+
+def parse_registry(path):
+    """兼容旧签名：rows=[(term, trans, first_seen, basis, date, lineno)]。
+
+    列位解析见 parse_registry_full（六列标准格式 + 旧五/四列兼容）。
+    """
+    full, warns = parse_registry_full(path)
+    return [(t, trans, fs, basis, date, ln)
+            for t, _orig, trans, fs, basis, date, ln in full], warns
+
+
+def has_foreign_char(text):
+    """键里是否有非 ASCII 字母/变音符（拉丁变音符、希腊/阿拉伯/梵/汉/谚文假名）。
+
+    只认 Unicode 字母类与组合附加符（L*/M*）：全角括号、弯引号、破折号等
+    西文标点不算（"justified true belief（JTB）" 不应判为非英语）。
+    """
+    import unicodedata
+    for ch in text:
+        if ord(ch) > 127 and unicodedata.category(ch)[0] in ('L', 'M'):
+            return True
+    return False
+
+
+def _key_variants(term):
+    """键 → 比对变体：整键、去括注主形、每条括注内容，再按「/」拆分。
+
+    弯引号统一为直引号，并另出「去撇号」形（T’ong Pulgyo → tong pulgyo，
+    朝鲜/藏文转写常用 ’ 表音）。
+    """
+    out = set()
+
+    def add(s):
+        s = re.sub(r'\s+', ' ', s.strip()).replace('’', "'")
+        if not s:
+            return
+        out.add(s.casefold())
+        bare = re.sub(r"['\u02bc`]", '', s)
+        if bare != s:
+            out.add(bare.casefold())
+
+    add(term)
+    add(_PAREN_RE.sub(' ', term))
+    for m in _PAREN_RE.finditer(term):
+        inner = m.group(1)
+        add(inner)
+        for v in _VARIANT_SPLIT.split(inner):
+            add(v)
+    for base in list(out):
+        for v in _VARIANT_SPLIT.split(base):
+            add(v)
+    return out
+
+
+def is_non_english(term):
+    """非英语术语判定：非 ASCII 字母/变音符、阿拉伯人名转写、小语种词表。"""
+    if has_foreign_char(term):
+        return True
+    if _ARABIC_NAME_RE.search(term.casefold()):
+        return True
+    return any(v in FOREIGN_WORDS for v in _key_variants(term))
+
+
+def orig_missing(rows):
+    """「非英语术语缺原文」：rows 为 parse_registry_full 口径，返回 [(键, 行号)]。
+
+    原文列为「—」或空即记；旧五/四列格式无原文列（orig=None），迁移未完成的
+    行同样计入（本告警即迁移清单）。
+    """
+    out = []
+    for term, orig, _trans, _fs, _basis, _date, lineno in rows:
+        if orig is not None and orig.strip() not in ORIG_BLANK:
+            continue
+        if is_non_english(term):
+            out.append((term, lineno))
+    return out
+
+
+def write_orig_missing(entries, path):
+    """orig-missing.txt：每行「表\t键\t行号」，末尾一行汇总计数（原子写）。"""
+    lines = ['%s\t%s\t%d' % e for e in entries]
+    counts = {}
+    for label, _term, _lineno in entries:
+        counts[label] = counts.get(label, 0) + 1
+    detail = ' + '.join('%s %d' % (k, v) for k, v in sorted(counts.items()))
+    lines.append('汇总\t%d\t非英语术语缺原文%s'
+                 % (len(entries), '（%s）' % detail if detail else ''))
+    d = os.path.dirname(path)
+    if d:
+        os.makedirs(d, exist_ok=True)
+    tmp = path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
+        f.write('\n'.join(lines) + '\n')
+    os.replace(tmp, path)
 
 
 def parse_glossary(path):
@@ -237,10 +422,12 @@ def main(argv=None):
 
     conflicts, lagging = [], []
     all_self_errors, warns = [], []
-    doc_rows = []
+    doc_rows, orig_entries = [], []
 
     def load_one(label, path):
-        rows, w = parse_registry(path)
+        full_rows, w = parse_registry_full(path)
+        rows = [(t, trans, fs, basis, date, ln)
+                for t, _orig, trans, fs, basis, date, ln in full_rows]
         reg = collect(rows)
         c, l = check_conflicts(reg, glos, label)
         conflicts.extend(c)
@@ -248,6 +435,10 @@ def main(argv=None):
         e, dw = check_registry_self(rows)
         all_self_errors.extend('%s %s' % (label, x) for x in e)
         warns.extend('%s %s' % (label, x) for x in w + dw)
+        # 非英语术语缺原文（只告警，不改正、不计硬错误）：清单落 orig-missing.txt
+        for term, lineno in orig_missing(full_rows):
+            warns.append('非英语术语缺原文: %s %s（行 %d）' % (label, term, lineno))
+            orig_entries.append((label, term, lineno))
         doc_rows.extend(rows)
         return rows, reg
 
@@ -305,6 +496,11 @@ def main(argv=None):
     hard = len(conflicts) + len(all_self_errors)
     print('硬错误 %d（冲突 %d + 自洽 %d），词汇表滞后 %d'
           % (hard, len(conflicts), len(all_self_errors), len(lagging)))
+    # 非英语术语缺原文：全量清单只对正式登记表落盘（注入模式=测试，不写产物）
+    if not injected:
+        write_orig_missing(orig_entries, ORIG_REPORT)
+        print('非英语术语缺原文（告警，不计硬错误）: %d 条，清单 → %s'
+              % (len(orig_entries), ORIG_REPORT))
     if docs:
         return 0
     return 1 if hard else 0

@@ -1134,6 +1134,8 @@
 | Wilkinson, Stephen | — | 保留英文（无通行汉名） | organ-donation | ADR-0022：无通行汉名者保留英文（词条作者；正文 “S. Wilkinson” 同） | 2026-11-06 |
 | Wilkinson, T.M. | — | 保留英文（无通行汉名） | organ-donation | ADR-0022：无通行汉名者保留英文（同名异人，引用组照录） | 2026-11-06 |
 | den Hartogh, Govert | — | 保留英文（无通行汉名） | organ-donation | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Sturm, Johann Christoph | — | 约翰·克里斯托夫·施图尔姆 | johann-sturm；SUMMARY | SUMMARY 定名更正（原译“约翰内斯·施图尔姆”，据源文 Johann Christoph 正名）；凭证 2026-11-06 | 2026-11-06 |
+| Weigel, Erhard | — | 埃哈德·魏格尔 | johann-sturm | 学界通行汉译（17 世纪耶拿数学家、哲学家）；凭证 2026-11-06 | 2026-11-06 |
 
 ## 待裁定
 
