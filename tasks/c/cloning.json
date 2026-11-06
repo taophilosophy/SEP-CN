@@ -2,8 +2,44 @@
   "slug": "cloning",
   "kind": "retranslate",
   "zh_doc": "c/cloning.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T16:55:54Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T17:09:19Z",
+      "evidence": "ADR-0021 段落账本双版 59 段全填（账本 958197e4），组装器按 yuanwen 顺序逐段断言重组：19 标题+59 段+defs 84 照录+尾部四件套；lq 79 块解析与 C28 分段器不兼容，改段级守恒校验（marker 80:80 顺序一致）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T17:11:44Z",
+      "evidence": "对照核销：账本 source 与 yuanwen 59 段逐字符断言全等；内联 marker src/dst 80:80 且顺序一致；defs 照录 84:84（键 o’neil-2002 归一 ASCII，democritus 先例）；节标题 19:19（沿用原会话汉化题名）；引用组/书名/年份照录抽检 12 处无漂移"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T17:11:45Z",
+      "evidence": "prose 实修 21 处（长句拆分 10/的链 8/被动 2/弱动词作出 1；fix_cd_cloning_prose.py），残余 12 全为术语『为研究与治疗而进行的克隆』内嵌『进行』触发 weak-verb，按 SOP 沉淀豁免（激进行为主义先例）；check_prose 34→12 全豁免"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T17:35:28Z",
+      "evidence": "三检全绿：check_style --strict 0、check_academic --strict 0 硬错误、check_math 0/0、check_terms 0 硬错误；prose 残余 12 全为术语内嵌『进行』豁免；人名体例修正（现代学者保留英文：Ian Wilmut；黄禹锡首现括注）+ 人名登记 3 行/术语登记 14 行"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:00Z",
   "version_pin": {
