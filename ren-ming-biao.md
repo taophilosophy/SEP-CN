@@ -1082,6 +1082,17 @@
 | Alexios I Komnenos | — | 阿莱克修斯一世（科穆宁） | john-italos | 学界通行汉译（拜占庭皇帝）；凭证 2026-11-06 | 2026-11-06 |
 | Michael VII Doukas | — | 米海尔七世（杜卡斯） | john-italos | 学界通行汉译（拜占庭皇帝）；凭证 2026-11-06 | 2026-11-06 |
 | Andronikos Doukas | — | 安德罗尼科斯·杜卡斯 | john-italos | 学界通行汉译（拜占庭共治皇帝）；凭证 2026-11-06 | 2026-11-06 |
+| Agrippa von Nettesheim, Heinrich Cornelius | — | 海因里希·阿格里帕·冯·内特斯海姆 | agrippa-nettesheim | SUMMARY 定名沿用（a/agrippa-nettesheim.md） | 2026-11-06 |
+| Ficino, Marsilio | — | 马尔西利奥·费奇诺 | agrippa-nettesheim | SUMMARY 定名沿用（f/ficino.md） | 2026-11-06 |
+| Reuchlin, Johannes | — | 约翰·罗伊希林 | agrippa-nettesheim | 学界惯例（文艺复兴卡巴拉研究通行汉译） | 2026-11-06 |
+| Trithemius, Johannes | — | 约翰·特里特米乌斯 | agrippa-nettesheim | 学界惯例（文艺复兴魔法史通行汉译） | 2026-11-06 |
+| Pliny the Elder | — | 老普林尼 | agrippa-nettesheim | 千年通行译名（《自然史》作者） | 2026-11-06 |
+| Lefèvre d'Étaples, Jacques | — | 雅克·勒费弗尔·戴塔普尔 | agrippa-nettesheim | 学界惯例（法国文艺复兴研究通行汉译） | 2026-11-06 |
+| Catilinet, Jean | — | 让·卡蒂利内 | agrippa-nettesheim | 学界惯例（音译） | 2026-11-06 |
+| Margaret of Austria | — | 奥地利的玛格丽特 | agrippa-nettesheim | 学界惯例（低地国家总督通行汉译） | 2026-11-06 |
+| Louise of Savoy | — | 萨伏依的路易丝 | agrippa-nettesheim | 学界惯例（法国宫廷研究通行汉译） | 2026-11-06 |
+| Hermann von Wied | — | 赫尔曼·冯·维德 | agrippa-nettesheim | 学界惯例（科隆选帝侯通行汉译） | 2026-11-06 |
+
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。

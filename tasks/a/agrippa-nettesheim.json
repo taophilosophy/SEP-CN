@@ -2,7 +2,7 @@
   "slug": "agrippa-nettesheim",
   "kind": "retranslate",
   "zh_doc": "a/agrippa-nettesheim.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:10:02Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:50Z",
+      "evidence": "初译：零信任直译自 yuanwen（2025-03-28 版），三分片组装（H1+pubinfo+正文 5 节 40 段+参考文献 defs 92 条+尾节四节），marker 与源一一对应"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:50Z",
+      "evidence": "一校（准确性）：对账五维——段落 40/40、marker 多重集相等、defs 92/92、年份相等、粗体缩写键相等（节 9/9；参考文献空子节按家法折入 defs）；人名/书名首现括注按 ADR-0022 核对"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:50Z",
+      "evidence": "二校（语言）：check_prose 50→31——长句拆分 19 处、弱动词 5 处改、被动 1 处；余 31 条（de-chain 24 为学术定语链与书名构式、long 7 为阈值边缘引文密集句）ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:54Z",
+      "evidence": "三校（体例）：check_style 0 issue；check_math 0；check_academic --strict 0 硬错误；人名登记 10 行（阿格里帕/费奇诺/罗伊希林/特里特米乌斯/老普林尼/勒费弗尔·戴塔普尔/卡蒂利内/奥地利的玛格丽特/萨伏依的路易丝/赫尔曼·冯·维德）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:54Z",
+      "evidence": "初审（准确性）：机器对账五维通过＋抽读 6 段（导论/1509-1510/§2 三形态/§3 三书/§4 第52章/§5 三要求）对照 yuanwen 语义一致；引用键与拉丁书名照录；未见漏译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:54Z",
+      "evidence": "复审（语言）：人名体例统一 4 处（艾尔伯图斯·麦格努斯（大阿尔伯特）/伊本·西那（阿维森纳）/让·卡蒂利内首现括注/纳瓦拉的玛格丽特（Marguerite d'Alençon））；prose 余量 31 条逐类豁免；引文块与源一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:57Z",
+      "evidence": "终审（门禁）：check_style 0、check_math 0、check_academic --strict 0 硬错误、check_terms 0 硬错误；对账复跑通过（仅参考文献空子节家法豁免）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T12:32:57Z",
+      "evidence": "六道走完，done：a/agrippa-nettesheim.md 293 行（正文 5 节 40 段＋defs 92 条＋尾节四节）；批次 a translate 进度 43/160"
     }
   ],
   "blockers": [],
