@@ -2,7 +2,7 @@
   "slug": "evolution",
   "kind": "retranslate",
   "zh_doc": "e/evolution.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T19:26:23Z",
       "evidence": "三校：check_style 0；check_academic --strict 0 硬错误；check_math 无数学内容"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:23:15Z",
+      "evidence": "r1 段级核销：节标题 8/8 对应（含 Acknowledgments→致谢）、脚注键 8/8 一致；年代与编号 1859/1874/1970/1973/1986/2005/2017/2026 及 488/125/2/5 页码全在；引用组照录；修正第 2 节因果争论句的断句与指代词条衔接"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:23:15Z",
+      "evidence": "r2 句级复读：check_prose 17→3；拆分长句 6 处、去'被'字 5 处、'哲学家们'去'们'；残余 3 条均为英文引文内长句（Futuyma/Endler/Haber-Velasco），引文忠实性优先，按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:23:18Z",
+      "evidence": "r3 终检：check_style --strict 0 issue；check_academic --strict OK；check_math 0 不平衡；结构完整；ADR-0021 账本缺档（旧管线）已登记 qa-findings-2026-11-06-eh-audit.md §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:23:18Z",
+      "evidence": "终稿验收：六道全过；r1-r3 由初译 actor 以外会话执行；3 条引文内长句豁免有据"
     }
   ],
   "blockers": [],
