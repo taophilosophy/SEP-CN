@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 10:01（UTC）
+生成时间：2026-11-06 12:34（UTC）
 
 ## 总览
 
@@ -14,30 +14,29 @@
 |已建英文基线|1879|
 |已建任务|1002|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|103|
-|在途（drafted 起、done 前）|268|
+|已完成（done）|108|
+|在途（drafted 起、done 前）|267|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|631|
+|pending|627|
 |cleared|177|
-|drafted|2|
-|s1_checked|1|
-|s3_checked|88|
-|done|103|
+|drafted|3|
+|s3_checked|87|
+|done|108|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|41|
+|A|160|160|160|43|
 |B|62|62|62|1|
 |C|172|172|172|0|
 |D|92|92|92|11|
-|E|99|99|99|0|
+|E|99|99|99|2|
 |F|96|96|96|0|
 |G|49|49|49|0|
 |H|61|61|61|6|
@@ -45,7 +44,7 @@
 |J|38|38|38|4|
 |K|36|36|36|10|
 |L|144|144|19|2|
-|M|139|139|12|2|
+|M|139|139|12|3|
 |N|50|50|2|0|
 |O|21|21|1|0|
 |P|165|165|4|0|
@@ -75,7 +74,6 @@
 |afterlife|retranslate|cleared|task_ops 2026-10-31|
 |agency|retranslate|cleared|task_ops 2026-10-31|
 |agent-modeling-philscience|retranslate|cleared|task_ops 2026-10-31|
-|agrippa-nettesheim|retranslate|cleared|task_ops 2026-10-31|
 |al-baghdadi|retranslate|cleared|task_ops 2026-10-31|
 |al-din-al-razi|retranslate|cleared|task_ops 2026-10-31|
 |al-farabi-logic|retranslate|cleared|task_ops 2026-10-31|
@@ -84,7 +82,6 @@
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
 |albert-great|retranslate|cleared|task_ops 2026-10-31|
-|alcmaeon|retranslate|s1_checked|zcode-前置复核 2026-10-27|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -183,8 +180,8 @@
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
 |economic-democracy|retranslate|s3_checked|? 2026-11-04|
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
-|elias|retranslate|s3_checked|main 2026-11-01|
 |elisabeth-bohemia|retranslate|s3_checked|main 2026-11-01|
+|emerson|retranslate|cleared|task_ops 2026-11-06|
 |emilie-du-chatelet|retranslate|s3_checked|? 2026-11-04|
 |emotion-Christian-tradition|retranslate|s3_checked|? 2026-11-03|
 |envy|retranslate|s3_checked|main 2026-11-01|
@@ -196,14 +193,15 @@
 |erasmus|retranslate|s3_checked|? 2026-11-03|
 |erfurt|retranslate|s3_checked|main 2026-11-01|
 |ethics-deontological|retranslate|s3_checked|? 2026-11-03|
-|evolution|retranslate|s3_checked|main 2026-11-01|
+|film|retranslate|drafted|EH-main-20261106 2026-11-06|
+|frame-problem|retranslate|cleared|task_ops 2026-11-06|
 |gadamer-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |galen|retranslate|cleared|task_ops 2026-11-01|
 |galileo|retranslate|cleared|task_ops 2026-11-01|
 |games-abstraction|retranslate|cleared|task_ops 2026-11-01|
 |gangesa|retranslate|cleared|task_ops 2026-11-01|
 |gelukpa|retranslate|cleared|task_ops 2026-11-01|
-|gene|retranslate|cleared|task_ops 2026-11-01|
+|gene|retranslate|cleared|EH-main-20261106 2026-11-06|
 |generics|retranslate|cleared|task_ops 2026-11-01|
 |genetic-drift|retranslate|cleared|task_ops 2026-11-01|
 |genotype-phenotype|retranslate|cleared|task_ops 2026-11-01|
@@ -227,7 +225,7 @@
 |hegel-dialectics|retranslate|cleared|task_ops 2026-11-01|
 |hegel-social-political|retranslate|cleared|task_ops 2026-11-01|
 |henricus-regius|retranslate|cleared|task_ops 2026-11-01|
-|heraclitus|retranslate|cleared|task_ops 2026-11-01|
+|heraclitus|retranslate|cleared|EH-main-20261106 2026-11-06|
 |heritability|retranslate|cleared|task_ops 2026-11-01|
 |hermann-helmholtz|retranslate|cleared|task_ops 2026-11-01|
 |hermann-lotze|retranslate|cleared|task_ops 2026-11-01|
@@ -254,6 +252,7 @@
 |intentionality-ancient|retranslate|cleared|task_ops 2026-11-01|
 |intrinsic-extrinsic|retranslate|cleared|task_ops 2026-11-01|
 |intuitionism-ethics|retranslate|cleared|task_ops 2026-11-01|
+|israeli|retranslate|cleared|task_ops 2026-11-06|
 |jaina-philosophy|retranslate|cleared|task_ops 2026-11-01|
 |james-mill|retranslate|cleared|task_ops 2026-11-01|
 |james-viterbo|retranslate|cleared|task_ops 2026-11-01|
@@ -268,7 +267,7 @@
 |johann-fichte|retranslate|cleared|task_ops 2026-11-01|
 |johann-herbart|retranslate|cleared|task_ops 2026-11-01|
 |johann-sturm|retranslate|cleared|task_ops 2026-11-01|
-|john-italos|retranslate|cleared|task_ops 2026-11-01|
+|john-italos|retranslate|s3_checked|? 2026-11-06|
 |john-norris|retranslate|cleared|task_ops 2026-11-01|
 |john-salisbury|retranslate|cleared|task_ops 2026-11-01|
 |jury-theorems|retranslate|cleared|task_ops 2026-11-01|
@@ -330,5 +329,4 @@
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|marsilius-inghen|retranslate|cleared|task_ops 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|

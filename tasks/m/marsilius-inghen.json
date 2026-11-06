@@ -2,7 +2,7 @@
   "slug": "marsilius-inghen",
   "kind": "retranslate",
   "zh_doc": "m/marsilius-inghen.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -17,6 +17,62 @@
       "actor": "task_ops",
       "at": "2026-11-06T00:28:14Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-06T12:25:37Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译）：80 段双版直译三批落盘（批1 段1-30 生平/著作清单/逻辑认识论五小节；批2 段31-60 开始停止存在/自身谓述/经验主义与信仰/创世/灵魂/形而上学/神学四小节/影响史；批3 段61-80 手稿流传+18 条内容注）；18 条注含拉丁原句者按 richard-sophister 先例处理：拉丁照录斜体+中文括注，文献指引类全译；守恒校验 HARD=0（80 段）；compose 写回 22926 字符；经院术语 24 行+人名 20 行先登记后使用（指代/扩展/称谓/限缩/不可解命题/推论/意谓方式/第一二意向/自身谓述/偶性/圣事/无中创世/近代之路等）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LQ-main-20261105+factcheck-agent",
+      "at": "2026-11-06T12:25:37Z",
+      "evidence": "s1 一校（事实与形式要素核验，独立子代理执行+主会话裁定）：七项清单逐项核——年份 91 组、folio 引用 11 处、文献缩写方括号 39 处、脚注键 note-1..18 全配对、42 条书目逐字符、H1/版本行与 SUMMARY·baseline 一致，全部通过；唯一不符为 6 处拉丁引文引号内句末句点被删（note-6/7/8/12/13/16），已全部恢复（. 归位引号内）；另修登记册三处：Wodeham 重复行合并（亚当·德·沃德汉姆，亦作亚当·沃德姆）、Marsilius of Inghen 因亨→因根（SUMMARY 定名优先，修弱势方；a/autrecourt、e/erfurt 正文 3 处因亨属他会文件，留 specs/008 统一）、Parreut 补登"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LQ-main-20261105+polish-agent",
+      "at": "2026-11-06T12:25:37Z",
+      "evidence": "s2 二校（语言润色，独立子代理执行）：check_prose 16→0——实修 16 处（de-chain 12：减的/拆三连/改'他所谓的'等；long-sentence 4：破折号插入语改句读、冒号改句号、书名前置断句），0 豁免；引号内引文/脚注定义行/拉丁引文一字未动，登记术语原样保留。另处理写回门冲突：段10/12 列表题名去强调标记（保留《》书名号），化解 lq.py '**' 守恒 HARD 与 italic_to_bold 列表豁免/check_style italic-cjk 的三方冲突（主会话裁定采纳；工具口径冲突另案）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-06T12:25:38Z",
+      "evidence": "s3 三校（体例）：style --strict 0；academic --strict 0 硬错误；math 0 missing；summary 0 硬错误；prose 0；check_all 7/7 全绿；守恒 HARD=0（80 段）；相关词条 5/5 对齐 SUMMARY 主名形（让·布里丹/中世纪的因果理论/里米尼的格里高利/奥卡姆的威廉/中世纪的单称词项理论）；markdownlint 随 CI"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "fidelity-agent(r1独立复核)",
+      "at": "2026-11-06T12:32:42Z",
+      "evidence": "r1 初审（独立子代理全文逐段复核，非译者；80 段对照源文）：结论 FIDELITY FAIL(0 Critical / 1 Major / 21 Minor)——无立场反转、无术语反用、无事实硬错；62 段逐句 OK。处置：①Major：段41 against 反向丢失已改（'以及对让丹的约翰…'→'而反对…的看法'）；②Minor 采纳 19 处：rector 统一校长、search→对传统的追寻、觐见句改写、复数先行词补全、地基→基础、概念 Y、寄于→依赖于、典型做派→典型特征、爱莫能助→无法提供助益、不假辞色→持批评态度、完满地是一→完满为一、creation→受造物、平信徒→普通人、为异端张目→证实异端之说、人文主义同仁与学生、Wimpfeling 同段统一、note-9 保留重复 species、note-13 补成句、自身谓述去粗体断词、Wodeham/Eck/Aphrodisias/Buridan 名册形对齐；③留痕 4 项：titulus 17 保留拉丁文献定位符、9 位无通行汉名历史人物保留英文（ADR-0022 惯例）、因根/因亨跨词条统一留 specs/008、chancellor 已改'总监'"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LQ-main-20261105+factcheck-agent",
+      "at": "2026-11-06T12:34:55Z",
+      "evidence": "r2 复审（事实逐项回核+修复终验）：fact-check 七项中六项首次通过（年份 91 组/folio 11 处/缩写 39 处/脚注键/书目 42 条/H1·版本行），第 4 项 6 处拉丁句末句点已恢复并 grep 复验；修复后杀检 prose 0/style 0/academic 0/math 0/summary 0/守恒 HARD=0；段41 Major 复验含'而反对…的看法'；相关词条 5/5"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-06T12:34:56Z",
+      "evidence": "r3 终审（冷置后回读+验收）：cold-set 由三代理并行期及后续词条工作构成；终态 check_all 7/7 全绿；六检 style 0/prose 0/守恒 HARD=0/academic 0/math 0/summary 0；结论不超证据；r1/r2 留痕 4 项已登记。验收签字：LQ-main-20261105"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-06T12:34:56Z",
+      "evidence": "done：六道全过，marsilius-inghen 为 m 批第 3 件收口件（m 批 done=3/139）"
     }
   ],
   "blockers": [],
