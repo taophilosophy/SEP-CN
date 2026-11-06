@@ -217,3 +217,5 @@
 * 实修 9 处：相关词条行旧"姓，名"倒装形→SUMMARY 主名形（托马斯·阿奎那/勒内·笛卡尔/笛卡尔的认识论/笛卡尔的生平及著作/笛卡尔的模态形而上学/普法尔茨的伊丽莎白公主/伊曼努尔·康德/伯特兰·罗素/坎特伯雷的安瑟伦）。
 * 管线增强（lq.py）：①map_related 剥 SEP 方括号别名注记；②summary_index 反转义 SUMMARY 行内 \[ \]（含转义别名的行此前整行丢失不入索引）+title 贪婪解析+zh/en 按"最后中文字符"切分——总键 1872→1874（捞回转义行），三词条回归绿（logic-provability 0/24、descartes-ontological 0/11、duhem 维持 2 既有债）。存量债留痕：SUMMARY en 与 SEP raw 形态差异两项（atomism: 17th to 20th century/underdetermination, of scientific theories）；嵌套括号作者名（Verbrugge, Rineke (L.C.)）去括注不净。
 * 移交（管线域）：正文部分 [^key] 挂接缺失（Kenny/Wilson/Chappell/Nolan 等括注无键）——转换器部分挂接债，同 demonstration-medieval 全缺案，specs/001 清查。
+* 深读累计 **50 条全 pass**（+descartes-physics——d 批推进）。正文对照过：科学生涯简史（1618 贝克曼/1633《世界》撤回/1637 方法谈/1644 哲学原理）、空间物体运动（Pr II 10-55 条目形态照录/转移相互性/循环性）、运动三定律与守恒（Pr II 37/39/40/43/62）、碰撞运动量例（3×5+2×4=23）逐节核销；数字比对 0 实质差异（月名汉译+节号形态微差）；style 0/academic 0。
+* 实修 3 处（ADR-0022 同列表内两形混用）："（如 Telesio、Campanella 和布鲁诺）"→泰莱西奥（Telesio）、康帕内拉（Campanella）与布鲁诺汉译统一；"（如 Patrizi 和伽桑狄）"→帕特里齐（Patrizi）；"伦农（Lennon）"→Lennon（无通行汉名学者保留英文，与其引用处形态一致）。
