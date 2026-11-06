@@ -2,7 +2,7 @@
   "slug": "organ-donation",
   "kind": "retranslate",
   "zh_doc": "o/organ-donation.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "direction",
@@ -31,6 +31,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T15:43:55Z",
       "evidence": "s1 一校（MTPE 顺序，账本 step1 为忠实底逐段核销）：①幻觉/漏译/增译——逐段对照 yuanwen 镜像；数字多集合比对 8 处差异全属形态（标题编号 1./2./3. 去点、源文「43, 101」「10, 093」千分位空格归一、1960s→20 世纪 60 年代），无事实漂移；脚注键闭环 lq check HARD=0，正文引用 75 键对文末 95 条定义，21 条孤立定义为现制 References（引用注释）形态（§6.5② 同构，非事故），注记字面 [^key] 为转换器契约文字照录；②三处修正：段35 代词（「我的器官」→「其器官」）、段42 「良心拒服者」→「良心拒绝者」（非兵役语境）、段73 交叉引用改 SUMMARY 既定名「医疗保健的公正与获取」；③术语——check_terms 定点 0 缺译、硬错误 0；competence 与 jury-theorems 既有行同键异译，改键为「competence（医疗与法律语境）」消解；④源文两处笔误（段40「systems To restate」缺句号、段67「fewer … that one might think」应为 than）按语义照录，不改源义；⑤H1/pubinfo 与 SUMMARY、baseline 版本钉一致（2011-10-28 首发 / 2026-05-20 实质修订）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T16:03:24Z",
+      "evidence": "s2 二校（Fluency/Style）：check_prose 25 条告警逐条人工改写归零（weak-verb 9：作出决定/作出选择/加以惩罚/进行筛查/进行的手术→本性动词；de-chain 9：段18/19/21/24/35/45/48/58/59/92 重排「的」链或拆句；long-sentence 4：段19/73/107/111 拆句或改分号；passive-bei 2：段30/39 改主动或换「有权/无权」；as-one 1：段92「作为一个群体」→「整体上」）。step1 忠实底未动（仅 step2 改写），守恒 HARD=0；脱稿通读全稿，无阻涩。"
     }
   ],
   "blockers": [],
