@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 22:11（UTC）
+生成时间：2026-11-06 23:23（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1013|
+|已建任务|1014|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|134|
-|在途（drafted 起、done 前）|257|
+|已完成（done）|138|
+|在途（drafted 起、done 前）|254|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,11 +23,12 @@
 |状态|数量|
 |---|---|
 |pending|622|
-|cleared|170|
+|cleared|169|
 |drafted|3|
-|s1_checked|1|
-|s3_checked|83|
-|done|134|
+|s3_checked|79|
+|r1_reviewed|2|
+|r2_reviewed|1|
+|done|138|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -44,10 +45,10 @@
 |I|75|75|75|18|
 |J|38|38|38|4|
 |K|36|36|36|10|
-|L|144|144|19|11|
+|L|144|144|19|15|
 |M|139|139|14|3|
 |N|50|50|2|0|
-|O|21|21|3|1|
+|O|21|21|4|1|
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
@@ -151,7 +152,7 @@
 |children|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-medicine|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
-|cockburn|retranslate|s3_checked|主代理 2026-11-01|
+|cockburn|retranslate|r2_reviewed|CD-main-20261106 2026-11-06|
 |cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |computability|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -174,7 +175,7 @@
 |descartes-ideas|retranslate|s3_checked|? 2026-11-04|
 |dewey-moral|retranslate|s3_checked|ykla 2026-11-01|
 |dewey-political|retranslate|s3_checked|? 2026-11-05|
-|dialectical-school|retranslate|cleared|task_ops 2026-11-06|
+|dialectical-school|retranslate|s3_checked|D-main-20261107 2026-11-06|
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -309,15 +310,12 @@
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
 |leibniz-ethics|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leibniz-evil|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
-|leibniz-mind|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |modesty-humility|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |montesquieu|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
-|origin-descent|retranslate|s1_checked|OR-main-20261106 2026-11-06|
+|oakeshott|retranslate|cleared|task_ops 2026-11-06|
+|origin-descent|retranslate|r1_reviewed|OR-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
-|schlegel|retranslate|cleared|task_ops 2026-11-06|
+|schlegel|retranslate|r1_reviewed|SZ-main-20261107 2026-11-06|
 |timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
