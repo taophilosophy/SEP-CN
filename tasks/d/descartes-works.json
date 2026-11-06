@@ -66,6 +66,13 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-05T19:45:12Z",
       "evidence": "批次收口：r3_reviewed 终审通过后按六道状态机终步置 done；凭证链 clear→draft→s1→s2→s3→r1→r2→r3→done 完整，提交链见 git log（r2/r3 各步独立提交）。"
+    },
+    {
+      "step": "qa-rework",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T10:45:33Z",
+      "evidence": "工作区继承的未提交规范修正经本会话核验入库（未重译）：15 处人名首现括注（ADR-0022：巴耶/索雷尔/高克罗格/克莱尔塞利耶/罗迪斯-刘易斯/阿里乌/卡特鲁斯/博尔丹/塔尔塔利亚/乌巴尔多/欧斯塔基乌斯/雷吉乌斯/科尔德穆瓦/沙努/布雷吉，登记册逐名 grep 在位）、相关词条 7 项标签正名、致谢 ###→## 级修正、译注行加粗；check_style 0 issue、check_academic --strict 0 硬错误"
     }
   ],
   "blockers": [],
