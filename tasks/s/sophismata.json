@@ -2,7 +2,7 @@
   "slug": "sophismata",
   "kind": "retranslate",
   "zh_doc": "s/sophismata.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "SZ-main-20261107",
       "at": "2026-11-06T21:53:43Z",
       "evidence": "三校：check_style --strict 0 issue；check_math 0 缺失/0 失衡；check_academic --strict 绿（在途豁免 1）；check_summary HARD=0。术语登记 12 行（分配/分配符号/存在蕴含/可展开句/合语法性/合取句/除外词/排除词/人称指代/诡辩句正文/平均速度定理/形式的增强与减弱），人名 5 行（比韦斯并入既有 Vives 行、拉伯雷、布拉德沃丁、斯温斯海德兄弟），保留英文 Robert Alyngton；中文强调斜体→粗体 11 行；check_terms 硬错误 0（既有 Heinrich Scholz 肖尔茨/肖尔兹 异形告警非本批引入，已留痕）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T22:03:20Z",
+      "evidence": "初审对照 yuanwen 回读（冷置：s3 后先收 scholz r2/r3 并跑全门禁）：4 节结构对位；论证链无偏移（严格义三特征→pro/contra 三段法→西班牙的彼得分配例→萨克森合取/析取例→非范畴词区分→四领域→文献类型）；实修 2 处——absolute power of God 绝对力量→绝对权能（神学术语）、'Socrates ceases to be not ceasing to be' 改写为“苏格拉底停止‘不再停止存在’”以显 incipit/desinit 结构。拉丁例句与页码（p.122/fol.130va/p.320/pp.151–152/154ff）逐处核对；无 Critical/Major。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T22:03:21Z",
+      "evidence": "复审逐句回核：逻辑例证逐一重演（exceptive 'preter' 简单/人称指代、合取/析取二读、only 与 or 的辖域、infinite 范畴/非范畴二用、可展开句等价式）；年代链（12 世纪论著→13/14 世纪文献→16 世纪初消亡；1940 Grabmann→2010 Catalogue）与源一致；数字（八类例证、4 领域、3 条孤立注记）全对；术语复检 12 项与登记册一致；无 Critical/Major。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T22:03:21Z",
+      "evidence": "终审验收：check_all 七项全绿；定点五检——style 0、math 0 缺失 0 失衡、academic --strict 无硬错误、summary HARD=0、prose 0，check_terms 硬错误 0；冷置程序完整（r1 前穿插 scholz 收口）。CI 以推送后为最终裁判（用户未令 push）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T22:03:22Z",
+      "evidence": "done：s/sophismata.md 终稿 19.8k 字符，账本 62 段入库，十步全录；术语 12 行/人名 5 行登记；四检全绿。"
     }
   ],
   "blockers": [],

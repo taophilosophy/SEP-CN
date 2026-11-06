@@ -2,7 +2,7 @@
   "slug": "scholz",
   "kind": "retranslate",
   "zh_doc": "s/scholz.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "SZ-main-20261107",
       "at": "2026-11-06T20:27:41Z",
       "evidence": "初审对照 yuanwen 回读：8 节结构对位（1 导论；2 生平 2.1–2.3；3 著述 3.1–3.3；4 结论）+ References/学术工具/其他网络资源/相关词条/致谢；论证走向无偏移（神学→数理逻辑转向、明斯特学派建制链、弗雷格遗稿、抵御“德意志数学”、纽拉特矛盾关系、莱布尼茨语言三层定义、作为严格科学的形而上学、逻辑史编纂）；引文 5 处逐字核对（康德、Neurath、Hasenjaeger、莱布尼茨“日出”、布伦塔诺评语）；无 Critical/Major 残留。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T22:00:32Z",
+      "evidence": "复审逐句回核（冷置后：r1 后穿插 sophismata 全篇初译三校，再回读本稿，ADR-0020）：实修 3 处——段10 politically effective 误带贬义（颇有手腕→也很得力）、placing 安插→安排、段15 ambivalent 若即若离→暧昧不明。逻辑回核：时间线（1911 教授资格/1913 博士/1917 布雷斯劳/1921 基尔/1928 明斯特/1936 正式开课/1943 教席更名/1950 研究所/1952 退休/1956 卒）与机构更名链一致；论证链（科学世界观→新实证主义、莱布尼茨语言三层定义、作为严格科学的形而上学、逻辑史编纂）对源无偏移；引文 5 处逐字复校；55 键守恒。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T22:00:32Z",
+      "evidence": "终审验收：check_all 七项全绿（SUMMARY 结构/分类目录/单体文件/垃圾入库/术语一致性/学术规范/管线单测）；定点五检亦绿——style 0、math 0 缺失 0 失衡、academic --strict 无硬错误、summary HARD=0、prose 0 告警。冷置程序完整（r1 与 r2 之间完成 sophismata 全篇）。CI 以推送后为最终裁判（用户未令 push）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T22:00:33Z",
+      "evidence": "done：s/scholz.md 终稿 17.3k 字符，账本 30 段入库，十步全录；术语 20 行/人名 19 行登记；四检全绿。"
     }
   ],
   "blockers": [],
