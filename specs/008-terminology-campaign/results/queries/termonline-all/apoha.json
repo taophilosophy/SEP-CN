@@ -1,0 +1,33 @@
+{
+ "key": "apoha",
+ "term": "apoha",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-05T23:43:01+00:00",
+ "status": "ok",
+ "note": "variant=apoha; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "分槽阿罗哈",
+   "en": "slotted ALOHA",
+   "code": "09.0486",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_无线网络"
+  },
+  {
+   "cn": "纯阿罗哈",
+   "en": "pure ALOHA",
+   "code": "09.0485",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_无线网络"
+  },
+  {
+   "cn": "阿罗哈",
+   "en": "additive links online Hawaii area\",\"ALOHA",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
