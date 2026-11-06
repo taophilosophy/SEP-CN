@@ -1092,6 +1092,31 @@
 | Margaret of Austria | — | 奥地利的玛格丽特 | agrippa-nettesheim | 学界惯例（低地国家总督通行汉译） | 2026-11-06 |
 | Louise of Savoy | — | 萨伏依的路易丝 | agrippa-nettesheim | 学界惯例（法国宫廷研究通行汉译） | 2026-11-06 |
 | Hermann von Wied | — | 赫尔曼·冯·维德 | agrippa-nettesheim | 学界惯例（科隆选帝侯通行汉译） | 2026-11-06 |
+| al-Kindi | — | 肯迪（亦见“金迪”） | israeli | 阿拉伯哲学研究通行汉译（al-Kindī）；待 specs/008 审定库复核 | 2026-11-06 |
+| Saadya Gaon | — | 萨阿迪亚·加昂（Saadya ben Joseph al-Fayyumi） | israeli | 犹太哲学研究通行汉译 | 2026-11-06 |
+| Ibn Hasday, Abraham | — | 亚伯拉罕·伊本·哈斯代 | israeli | 犹太哲学研究通行汉译（13 世纪译者） | 2026-11-06 |
+| Dunash Ibn Tamim | — | 杜纳什·伊本·塔米姆 | israeli | 犹太哲学研究通行汉译（伊斯拉埃利门生） | 2026-11-06 |
+| Ibn al-Jazzar | — | 伊本·贾扎尔 | israeli | 阿拉伯医学史通行汉译 | 2026-11-06 |
+| Qusta Ibn Luqa | — | 库斯塔·伊本·卢卡 | israeli | 阿拉伯医学史通行汉译 | 2026-11-06 |
+| al-Jahiz | — | 贾希兹 | israeli | 阿拉伯思想史通行汉译 | 2026-11-06 |
+| al-Tabari | — | 塔巴里 | israeli | 伊斯兰医学史通行汉译（9 世纪医家） | 2026-11-06 |
+| Sa'id al-Andalusi | — | 萨伊德·安达卢西 | israeli | 阿拉伯科学史通行汉译 | 2026-11-06 |
+| Ibn Abi Usaybi'a | — | 伊本·阿比·乌赛比阿 | israeli | 阿拉伯医学史通行汉译 | 2026-11-06 |
+| Constantine Africanus | — | 阿非利加的康斯坦丁 | israeli | 医学史通行汉译（萨勒诺译者） | 2026-11-06 |
+| Moses Ibn Ezra | — | 摩西·伊本·埃兹拉 | israeli | 犹太诗歌与哲学史通行汉译 | 2026-11-06 |
+| Gersonides | — | 格森尼德 | israeli | 犹太哲学通行汉译（Levi ben Gershom） | 2026-11-06 |
+| Moses ibn Tibbon | — | 摩西·伊本·提本 | israeli | 犹太翻译史通行汉译 | 2026-11-06 |
+| David Qimhi | — | 大卫·金希 | israeli | 犹太释经学通行汉译（Radak） | 2026-11-06 |
+| Aquinas, Thomas | — | 托马斯·阿奎那 | albert-great | 学界通行程译名（天使博士） | 2026-11-06 |
+| Eckhart, Meister | — | 艾克哈特大师 | albert-great | 学界通行汉译（德国神秘主义） | 2026-11-06 |
+| Kilwardby, Robert | — | 罗伯特·基尔沃德比 | albert-great | 学界惯例（音译；13 世纪逻辑学家） | 2026-11-06 |
+| al-Fārābī / Alfarabi | — | 法拉比 | albert-great | 学界通行汉译（伊斯兰哲学家） | 2026-11-06 |
+| Scotus, John Duns | — | 约翰·邓斯·司各脱 | albert-great | 学界通行汉译（精细博士） | 2026-11-06 |
+| Dietrich of Freiberg | — | 弗赖贝格的迪特里希 | albert-great | 学界惯例（中世纪德国多明我会哲学家） | 2026-11-06 |
+| Berthold of Moosburg | — | 穆斯堡的贝特霍尔德 | albert-great | 学界惯例（普罗克洛斯注疏者） | 2026-11-06 |
+| Ulrich of Strasbourg | — | 斯特拉斯堡的乌尔里希 | albert-great | 学界惯例（13 世纪多明我会神学家） | 2026-11-06 |
+| Hugh Ripelin | — | 胡戈·里佩林 | albert-great | 学界惯例（音译） | 2026-11-06 |
+| Gilbertus Porretanus | — | 吉尔伯特·波雷塔努斯 | albert-great | 学界惯例（12 世纪神学家） | 2026-11-06 |
 
 ## 待裁定
 

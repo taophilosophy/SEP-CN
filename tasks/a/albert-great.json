@@ -2,7 +2,7 @@
   "slug": "albert-great",
   "kind": "retranslate",
   "zh_doc": "a/albert-great.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-10-31T23:10:07Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:24Z",
+      "evidence": "初译：零信任直译自 yuanwen（2025-11-30 版），三分片组装（H1+pubinfo+正文 8 节 40 段+defs 85 条+尾节四节含 5 项其他网络资源）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:24Z",
+      "evidence": "一校（准确性）：对账五维——段落 40/40、marker 多重集相等、defs 85/85、年份相等、粗体缩写键相等（节 8/8；参考文献空子节按家法折入 defs）；书名（*Physica* 等）照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:24Z",
+      "evidence": "二校（语言）：check_prose 81→61——长句拆分 15 处、弱动词 6 处改、被动双叠 3 处；余 61 条（long 35 为括号列举与书目引证密集句、de-chain 21 为学术定语链、passive 5 为逻辑公式/推理句）ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:28Z",
+      "evidence": "三校（体例）：check_style 0 issue；check_math 0；check_academic --strict 0 硬错误；人名登记 10 行（阿奎那/艾克哈特/基尔沃德比/法拉比/司各脱/弗赖贝格的迪特里希/穆斯堡的贝特霍尔德/斯特拉斯堡的乌尔里希/胡戈·里佩林/吉尔伯特·波雷塔努斯）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:28Z",
+      "evidence": "初审（准确性）：机器对账五维通过＋抽读 5 段（§2 计划引文/§3 逻辑次序/§4 形质论/§6 exitus-perfectio-reductio/§7 获得性理智）对照 yuanwen 语义一致；未见漏译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:28Z",
+      "evidence": "复审（语言）：括号列举句拆分后语义无损；拉丁书名与卷行页码（p./l.）照录；相关词条 22 项中文标签与登记册一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:30Z",
+      "evidence": "终审（门禁）：check_style 0、check_math 0、check_academic --strict 0 硬错误、check_terms 0 硬错误；文档 287 行、尾节四节齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T13:20:30Z",
+      "evidence": "六道走完，done：a/albert-great.md 287 行（正文 8 节 40 段＋defs 85 条＋尾节四节）；批次 a translate 进度 44/160"
     }
   ],
   "blockers": [],
