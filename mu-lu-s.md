@@ -1133,7 +1133,7 @@ outline: [1, 6]
   * [知识的价值 knowledge, value of (Duncan Pritchard, John Turri, and J. Adam Carter)](k/knowledge-value.md)
 * [分歧 disagreement (Bryan Frances and Jonathan Matheson)](d/disagreement.md)
 * [社会认识论 social (Cailin O’Connor, Sanford Goldberg, and Alvin Goldman)](e/epistemology-social.md)
-* [知识证成的融贯论 coherentist theories of (Erik Olsson)](j/justep-coherence.md)
+* [知识证成的融贯论 Coherentist Theories of Epistemic Justification (Erik Olsson)](j/justep-coherence.md)
 * [知识证成的基础主义理论 foundationalist theories of (Ali Hasan and Richard Fumerton)](j/justep-foundational.md)
 * [知识证成的内在主义与外在主义观念 internalist vs. externalist conceptions of (Clayton Littlejohn)](j/justep-intext.md)
 * [怀疑论 skepticism (Juan Comesaña and Peter Klein)](s/skepticism.md)

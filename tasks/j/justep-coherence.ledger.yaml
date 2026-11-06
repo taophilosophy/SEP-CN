@@ -1,0 +1,1039 @@
+version: 1
+slug: justep-coherence
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      An *epistemically justified belief* is one that is properly held, given the believer’s perspective, for the sake of believing the truth. According to a coherence theory of epistemic justification, also known as coherentism, a belief is epistemically justified by cohering with other beliefs. The nature of the coherence has been variously explained, as is discussed below. This coherentism is distinct from a coherence theory of *truth*, that is, a theory saying that a proposition is made true by being in some sort of coherent system. Modern coherence theorists, in contrast to some earlier writers in the British idealist tradition, typically subscribe to a coherence theory of justification without advocating a coherence theory of truth. Rather, they either favor a correspondence theory of truth or take the notion of truth for granted, at least for the purposes of their epistemological investigations. This does not prevent many authors from claiming that coherence justification is an indication or criterion of truth.
+    step1: |-
+      一个*在认识论上证成的信念*，是指就相信者自身的立场而言、为相信真理之故而得到恰当持守的信念。按照知识证成的融贯理论（又称融贯论），一个信念之所以在认识论上得到证成，在于它与其他信念相融贯。融贯的本性有种种不同解释，下文将予讨论。这种融贯论不同于关于*真理*的融贯理论，即认为一个命题因其处于某种融贯系统中而成为真的理论。与英国唯心主义传统中的某些早期作者不同，现代融贯论者通常赞成一种关于证成的融贯理论，而不提倡关于真理的融贯理论。毋宁说，他们要么赞成真理符合论，要么把真理概念视为当然，至少就其认识论研究的目的而言是如此。这并不妨碍许多作者宣称，融贯性证成是真理的一个标志或判准。
+    step2: |-
+      一个*在认识论上证成的信念*，是指就相信者自身的立场而言、为相信真理之故而得到恰当持守的信念。按照知识证成的融贯理论（亦称融贯论），一个信念之所以在认识论上得到证成，在于它与其他信念相融贯。至于融贯的本性，则有种种不同解释，下文将予讨论。这种融贯论有别于关于*真理*的融贯理论——后者认为，一个命题之所以为真，就在于它处于某种融贯系统之中。与英国唯心主义传统中的某些早期作者不同，现代融贯论者通常接受关于证成的融贯理论，而不提倡关于真理的融贯理论。毋宁说，他们要么赞成真理符合论，要么把真理概念视为当然，至少就认识论探究的目的而言是如此。这并不妨碍许多作者宣称，融贯性证成是真理的一个标志或判准。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Coherentism Versus Foundationalism
+    step1: |-
+      ## 1 融贯论与基础主义
+    step2: |-
+      ## 1 融贯论与基础主义
+  - id: 3
+    kind: body
+    source: |-
+      A central problem in epistemology is to explain when we are justified in holding a proposition to be true. It is not at all evident what epistemic justification is, and classical accounts of that notion have turned out to be severely problematic. A foundationalist tradition inspired by Descartes holds that justified beliefs are those that are either self-evidently true or deduced from self-evident truths. But, as is often argued, little of what we take ourselves to justifiably believe satisfies these austere conditions: many of our apparently justified beliefs, it is commonly thought, are neither based on self-evident truths nor derivable in a strict logical sense from other things we believe in. Thus, the Cartesian rationalist picture of justification seems far too restrictive. Similar problems hound empiricist attempts to ground all our knowledge in the allegedly indubitable data of the senses. Depending on how they are understood, sense data are either not indubitable or else not informative enough to justify a sufficient portion of our purported knowledge. Cartesian foundationalism has its rivals. There is another form of foundationalism according to which some beliefs have some non-doxastic source of epistemic support that requires no support of its own. This support can be defeasible and it can require supplementation to be strong enough for knowledge. This sort of non-doxastic support would terminate the regress of justification. To do so it may not have to appeal to self-evidence, indubitability or certainty. Such foundationalist views vary on the source of the non-doxastic support, how strong the support is on its own, and what role in justification coherence plays, if any. This sort of foundationalism too has been criticized. Some critics of this position have questioned the intelligibility of the non-doxastic support relation. Thus, Davidson (1986) complains that advocates have been unable to explain the relation between experience and belief that allows the first to justify the second.
+    step1: |-
+      认识论的一个核心问题是说明我们何时有资格（证成）把某个命题视为真。认识论上的证成究竟是什么并不显然，而关于这一概念的经典说明已被证明存在严重问题。一种受笛卡尔启发的基础主义传统认为，被证成的信念或是自明为真的，或是从自明真理演绎出来的。但正如人们常常论证的，我们自认为合理地相信的东西中，几乎没有满足这些严苛条件的：我们许多表面上被证成的信念，人们通常认为，既非基于自明真理，也不能从我们所相信的其他东西中在严格逻辑意义上推出。因此，笛卡尔式的理性主义证成图景似乎过于狭隘。类似的问题也困扰着经验主义把我们的全部知识建立于所谓不可怀疑的感觉材料之上的种种尝试。取决于如何理解，感觉材料要么不是不可怀疑的，要么不足以提供充分信息来证成我们所谓知识的足够部分。笛卡尔式基础主义有其竞争者。还有另一种形式的基础主义，按照它，某些信念具有某种不依赖信念状态的认识论支持来源，而这种支持本身不需要支持。这种支持可以是可废止的，并且可能需要补充才能强到足以构成知识。这种非信念状态的支持将终止证成回溯。要如此做，它未必需要诉诸自明性、不可怀疑性或确实性。这类基础主义观点在非信念状态支持的来源、这种支持本身有多强、以及融贯在证成中（如果有的话）扮演什么角色上各不相同。这种基础主义也受到了批评。这一立场的一些批评者质疑非信念状态支持关系是否可理解。因此，戴维森（1986）抱怨说，支持者们一直未能说明经验与信念之间那种使前者证成后者的关系。
+    step2: |-
+      认识论的一个核心问题是说明我们何时有资格把某个命题视为真（即它何时得到证成）。认识论上的证成究竟是什么并不显然，而关于这一概念的经典说明已被证明问题重重。一种受笛卡尔启发的基础主义传统认为，被证成的信念要么是自明为真的，要么是从自明真理中演绎出来的。但正如人们常常指出的，我们自认为合理地相信的东西中，几乎没有任何一项满足这些严苛条件：人们普遍认为，我们许多表面上得到证成的信念，既非基于自明真理，也不能从我们所相信的其他东西中在严格逻辑意义上推出。因此，笛卡尔式的理性主义证成图景似乎过于狭隘。类似的困难也困扰着经验主义把我们的全部知识奠定在所谓不可怀疑的感觉材料之上的种种尝试。取决于如何理解，感觉材料要么并非不可怀疑，要么不足以提供充分信息来证成我们所谓知识的足够部分。笛卡尔式基础主义有其竞争者。还有另一种形式的基础主义，按照它，某些信念具有某种不依赖于信念状态的认识论支持来源，而这种支持本身无需任何支持。这种支持可以是可废止的，也可能需要补充才能强到足以构成知识。这种非信念状态的支持将终止证成回溯；要如此做，它未必需要诉诸自明性、不可怀疑性或确实性。这类基础主义观点在非信念状态支持的来源、这种支持本身有多强、以及融贯在证成中（如果有的话）扮演什么角色上各不相同。这种基础主义同样遭到了批评。这一立场的一些批评者质疑非信念状态支持关系是否可理解。因此，戴维森（1986）抱怨说，支持者们始终未能说明经验与信念之间那种使前者得以证成后者的关系。
+  - id: 4
+    kind: body
+    source: |-
+      The difficulties pertaining to both rationalism and empiricism about justification have led many epistemologists to think that there must be something fundamentally wrong with the way in which the debate has been framed, prompting their rejection of the foundationalist justificatory structure underlying rationalism and empiricism alike. Rather than conceiving the structure of our knowledge on the model of Euclidean geometry, with its basic axioms and derived theorems, these epistemologists favor a holistic picture of justification which does not distinguish between basic or foundational and non-basic or derived beliefs, treating rather all our beliefs as equal members of a “web of belief” (Quine and Ullian 1970, cf. Neurath 1983/1932 and Sosa 1980)[^neurath-1983][^quine-1970][^sosa-1980].
+    step1: |-
+      关于证成的理性主义与经验主义两者所遭遇的困难，已使许多认识论者认为，这场争论的框架必定存在某种根本性的错误，促使他们拒绝理性主义与经验主义所共有的基础主义证成结构。这些认识论者不是以欧几里得几何为模型来构想我们知识的结构（其基本公理与推出定理），而是赞成一种整体主义的证成图景，这种图景不区分基本的或基础的信念与非基本的或派生的信念，而是把我们的全部信念当作“信念之网”的平等成员（Quine and Ullian 1970, cf. Neurath 1983/1932 and Sosa 1980）[^neurath-1983][^quine-1970][^sosa-1980]。
+    step2: |-
+      关于证成的理性主义与经验主义双双遭遇的困难，已使许多认识论者认为，这场争论的框架必定存在某种根本性的错误，从而促使他们拒绝理性主义与经验主义所共有的基础主义证成结构。这些认识论者不以欧几里得几何为模型来构想我们知识的结构（其基本公理与推出定理），而是赞成一种整体主义的证成图景：这种图景不区分基本的或基础的信念与非基本的或派生的信念，而是把我们的全部信念当作“信念之网”的平等成员（Quine and Ullian 1970, cf. Neurath 1983/1932 and Sosa 1980）[^neurath-1983][^quine-1970][^sosa-1980]。
+  - id: 5
+    kind: body
+    source: |-
+      The mere rejection of foundationalism is not itself an alternative theory because it leaves us with no positive account of justification, save a suggestive metaphor about webs of belief. A more substantial contrasting proposal is that what justifies our beliefs is ultimately the way in which they hang together or dovetail so as to produce a coherent set. The fact that our beliefs cohere can establish their justification, even though each individual belief may lack justification entirely if considered in splendid isolation, or so it is thought. Following C. I. Lewis (1946), some proponents think of this situation as analogous to how agreeing testimonies in court can lead to a verdict although each testimony by itself would be insufficient for that purpose.
+    step1: |-
+      单纯拒绝基础主义本身并不是一种替代理论，因为它没有给我们留下任何关于证成的正面说明，只剩下一个关于信念之网的启发性的比喻。一个更具实质内容的对立主张是：最终证成我们信念的，是它们相互联结或契合从而产生一个融贯集合的方式。我们的信念彼此融贯这一事实可以确立它们的证成，尽管若孤立地考虑，每个个别信念可能完全缺乏证成——或者人们是这样认为的。沿循 C. I. 刘易斯（1946），一些支持者把这种情形视为与法庭上相互一致的证词可以导致裁决相类似，尽管每份证词本身不足以达到该目的。
+    step2: |-
+      单纯拒绝基础主义本身并不是一种替代理论，因为它没有给我们留下任何关于证成的正面说明，只剩一个关于信念之网的启发性比喻。一个更具实质内容的对立主张是：最终证成我们信念的，是它们相互联结或契合从而形成一个融贯集合的方式。我们的信念彼此融贯这一事实可以确立它们的证成，尽管若孤立地加以考虑，每个个别信念可能完全缺乏证成——或者人们是这样认为的。沿循 C. I. 刘易斯（1946），一些支持者把这种情形视为与法庭上相互一致的证词可导致裁决相类似，尽管每份证词本身都不足以达到该目的。
+  - id: 6
+    kind: body
+    source: |-
+      There is a serious objection that any coherence theory of justification must immediately face. It is called the *isolation objection*: how can the mere fact that a system is coherent, if the latter is understood as a purely system-internal matter, provide any guidance whatsoever to truth and reality? Since a coherence theory, in its basic form, does not assign any essential role to experience, there is little reason to think that a coherent system of belief will accurately reflect the external world. A variation on this theme is presented by the equally notorious *alternative systems objection*. For each coherent system of beliefs there exist, conceivably, other systems that are equally coherent yet incompatible with the first system. If coherence is sufficient for justification, then the beliefs in each of these incompatible systems would be justified if the system was believed. But this observation, of course, thoroughly undermines any claim suggesting that coherence is indicative of truth.
+    step1: |-
+      任何融贯论证成理论都必须立即面对一个严重的反对意见。它被称为*孤立性反驳*：如果一个系统是融贯的，而后者被理解为纯粹系统内部之事，那么系统融贯这一单纯事实如何能对真理与现实提供任何指引？由于融贯理论在其基本形式上不赋予经验任何本质角色，因此几乎没有理由认为一个融贯的信念系统会准确地反映外部世界。这一主题的一个变体由同样著名的*替代系统反驳*提出。对于每个融贯的信念系统，可以设想存在其他同样融贯却与第一个系统不相容的系统。如果融贯足以构成证成，那么若该系统的信念被相信，则这些不相容系统中的每一个信念都将是得到证成的。但这一观察当然彻底削弱了任何主张融贯是真理之标志的说法。
+    step2: |-
+      任何融贯论证成理论都必须立即面对一个严重的反对意见，它被称为*孤立性反驳*：如果一个系统的融贯被理解为纯粹系统内部之事，那么系统融贯这一单纯事实如何能对真理与现实提供任何指引？由于融贯理论在其基本形式上不赋予经验任何本质角色，因此几乎没有理由认为一个融贯的信念系统会准确地反映外部世界。这一主题的一个变体由同样著名的*替代系统反驳*提出。对于每个融贯的信念系统，可以设想存在其他同样融贯、却与第一个系统不相容的系统。如果融贯足以构成证成，那么若这些不相容系统中的任一系统被相信，其中每个信念都将得到证成。但这一观察当然彻底削弱了任何主张融贯是真理之标志的说法。
+  - id: 7
+    kind: body
+    source: |-
+      As we shall see, most, if not all, influential coherence theorists try to avoid these traditional objections by assigning some beliefs that are close to experience a special role, whether they are called “supposed facts asserted” (Lewis, 1946), “truth-candidates” (Rescher, 1973), “cognitively spontaneous beliefs” (BonJour, 1985) or something else. Depending on how this special role is construed, these theories are often classified as versions of *weak foundationalism*. An advocate of weak foundationalism typically holds that while coherence is incapable of justifying beliefs from scratch, it can provide justification for beliefs that already have some initial, perhaps minuscule, degree of warrant, e.g., observational beliefs.
+    step1: |-
+      正如我们将看到的，大多数——如果不是全部——有影响的融贯论者都试图通过赋予某些接近经验的信念一种特殊角色来避免这些传统反对意见，无论这些信念被称为“被断定的所谓事实”（Lewis, 1946）、“真理候选者”（Rescher, 1973）、“认知自发信念”（BonJour, 1985）还是别的什么。取决于如何理解这种特殊角色，这些理论常被归类为*弱基础主义*的版本。弱基础主义的支持者通常认为，尽管融贯无力从零开始证成信念，它却可以为已经具有某种初始的、也许极其微小的证成度的信念提供证成，例如观察信念。
+    step2: |-
+      正如我们将看到的，大多数——如果不是全部——有影响的融贯论者都试图通过赋予某些接近经验的信念一种特殊角色来避免这些传统反对意见，无论这些信念被称为“被断定的所谓事实”（Lewis, 1946）、“真理候选者”（Rescher, 1973）、“认知自发信念”（BonJour, 1985）还是别的什么。取决于如何理解这种特殊角色，这些理论常被归类为*弱基础主义*的种种版本。弱基础主义的支持者通常认为，尽管融贯无力从零开始证成信念，它却可以为已经具有某种初始的、也许极其微小的证成度的信念提供证成，例如观察信念。
+  - id: 8
+    kind: body
+    source: |-
+      Historically, foundationalist theories have been defended as solutions to a regress problem. The next section will present that problem and describe how coherentists have responded to it.
+    step1: |-
+      历史上，基础主义理论一直被当作回溯问题的解决方案来辩护。下一节将呈现这一问题，并描述融贯论者如何回应它。
+    step2: |-
+      历史上，基础主义理论一直被当作回溯问题的解决方案来辩护。下一节将呈现这一问题，并描述融贯论者如何加以回应。
+  - id: 9
+    kind: body
+    source: |-
+      ## 2. The Regress Problem
+    step1: |-
+      ## 2 回溯问题
+    step2: |-
+      ## 2 回溯问题
+  - id: 10
+    kind: body
+    source: |-
+      A fair number of distinguished contemporary philosophers have declared that they advocate a coherence theory of justification. Apart from this superficial fact, these theories often address some rather diverse issues loosely united by the fact that they in one way or the other take a holistic approach to the justification of beliefs. Here are some of the problems and questions that have attracted the attention of coherence theorists (cf. Bender, 1989):
+    step1: |-
+      相当多的当代杰出哲学家宣称他们赞成一种证成的融贯理论。除这一表面事实外，这些理论往往处理一些相当多样的问题，它们之所以松散地联结在一起，是因为它们都以某种方式对信念的证成采取一种整体主义的进路。以下是一些引起融贯论者关注的问题与疑问（cf. Bender, 1989）：
+    step2: |-
+      相当多的当代杰出哲学家宣称他们赞成一种证成的融贯理论。除这一表面事实外，这些理论往往处理一些相当多样的问题；这些问题之所以松散地联结在一起，是因为它们都以某种方式对信念的证成采取一种整体主义的进路。以下是一些引起融贯论者关注的问题与疑问（cf. Bender, 1989）：
+  - id: 11
+    kind: body
+    source: |-
+      - How can a regress of justification be avoided?
+      - How can we gain knowledge given that our information sources (senses, testimony etc) are not reliable?
+      - How can we know anything at all given that we do not even know whether our own beliefs or memories are reliable?
+      - Given a set of beliefs and a new piece of information (typically an observation), when is a person justified in accepting that information?
+      - What should a person believe if confronted with a possibly inconsistent set of data?
+    step1: |-
+      - 如何避免证成回溯？
+      - 既然我们的信息来源（感觉、证词等）不可靠，我们如何能获得知识？
+      - 既然我们甚至不知道自己的信念或记忆是否可靠，我们如何能知道任何东西？
+      - 给定一组信念与一条新信息（通常是一项观察），一个人何时有资格接受该信息？
+      - 当一个人面对一组可能不一致的数据时，他应当相信什么？
+    step2: |-
+      - 如何避免证成回溯？
+      - 既然我们的信息来源（感觉、证词等）不可靠，我们如何能获得知识？
+      - 既然我们甚至不知道自己是否知道自身的信念或记忆可靠，我们又如何能知道任何东西？
+      - 给定一组信念与一条新信息（通常是一项观察），一个人何时有资格接受该信息？
+      - 当一个人面对一组可能不一致的数据时，他应当相信什么？
+  - id: 12
+    kind: body
+    source: |-
+      The fact that these separate, though related, issues are not always clearly distinguished presents a challenge to the reader of the relevant literature.
+    step1: |-
+      这些彼此分离却又相互关联的问题并不总是被清楚地区分，这一事实给相关文献的读者带来了一项挑战。
+    step2: |-
+      这些彼此分离却又相互关联的问题并不总被清楚地区分，这一事实给相关文献的读者带来了一项挑战。
+  - id: 13
+    kind: body
+    source: |-
+      Although the regress problem is not a central contemporary issue, it is helpful to explain coherence theories as responses to the problem. This will also serve to illustrate some challenges that a coherence theory faces. We will then turn to the concept of coherence itself as that concept is traditionally conceived. Unfortunately, not all prominent authors associated with the coherence theory use the term coherence in this traditional sense, and the section that follows is devoted to such non-standard coherence theories. The arguably most systematic and prolific discussion of the coherence theory of justification has focused on the relationship between coherence and probability. The rest of this entry will be devoted to this development, which took off in the mid-1990s inspired by seminal work by C. I. Lewis (1946). The development has given us precise and sophisticated definitions of coherence as well as detailed studies of the relationship between coherence and truth (probability), culminating in some potentially disturbing impossibility results that shed doubt on the possibility of defining coherence in a way that makes it indicative of truth. More precise descriptions of key entailments of these results, and ways to address the worries that they raise, will be discussed in later sections of this entry.
+    step1: |-
+      尽管回溯问题不是当代的核心问题，把融贯理论解释为对该问题的回应却是有益的。这也有助于说明融贯理论所面对的一些挑战。随后我们将转向融贯概念本身，即该概念的传统构想。遗憾的是，并非所有与融贯理论相关的著名作者都在这一传统意义上使用“融贯”一词，下一节将专门讨论这类非标准的融贯理论。关于证成的融贯理论，堪称最系统、最丰富的讨论聚焦于融贯与概率之间的关系。本词条的其余部分将专门讨论这一发展，它兴起于 1990 年代中期，受 C. I. 刘易斯（1946）开创性工作的启发。这一发展不仅为我们提供了精确而精细的融贯定义，也提供了关于融贯与真理（概率）之关系的详细研究，最终导致了一些可能令人不安的不可行性结果，它们对能否把融贯定义为真理之标志表示怀疑。这些结果之关键后承的更精确描述，以及应对它们所引发之忧虑的途径，将在本词条后面的章节讨论。
+    step2: |-
+      尽管回溯问题并非当代的核心问题，把融贯理论解释为对该问题的回应却是有益的，这也有助于说明融贯理论所面对的一些挑战。随后我们将转向融贯概念本身，即该概念的传统构想。遗憾的是，并非所有与融贯理论相关的著名作者都在这一传统意义上使用“融贯”一词，下一节将专门讨论这类非标准的融贯理论。关于证成的融贯理论，堪称最系统、最丰富的讨论聚焦于融贯与概率之间的关系。本词条的其余部分将专门讨论这一发展，它兴起于 1990 年代中期，受 C. I. 刘易斯（1946）开创性工作的启发。这一发展不仅为我们提供了精确而精细的融贯定义，也提供了关于融贯与真理（概率）之关系的详细研究，最终导致了一些可能令人不安的不可行性结果，它们对能否把融贯定义为真理之标志表示怀疑。这些结果之关键后承的更精确描述，以及应对它们所引发之忧虑的途径，将在本词条后面的章节讨论。
+  - id: 14
+    kind: body
+    source: |-
+      On the traditional justified true belief account of knowledge, a person cannot be said to know that a proposition $p$ is true without having good reasons for believing that $p$ is true. These good reasons would be justification for believing $p$. If Lucy knows that she will pass tomorrow’s exam, she must have good reasons for thinking that this is so. Consider now Lucy’s reasons. They will presumably consist of other beliefs she has, e.g., beliefs about how well she did earlier, about how well she has prepared, and so on. For Lucy to know that she will pass the exam, these other beliefs, upon which the first belief rests, must also be things that Lucy knows. Knowledge, after all, cannot be based on something less than knowledge, i.e., on ignorance (cf. Rescher 1979, 76)[^rescher-1979]. Since the reasons are themselves things that Lucy knows, those reasons must in turn be based on reasons, and so on. Thus, any knowledge claim requires a never-ending chain, or “regress”, of reasons for reasons. This seems strange, or even impossible, because it involves reference to an infinite number of beliefs. We seem unable to have infinitely many beliefs, much less justified ones. But most of us think that knowledge is possible.
+    step1: |-
+      按照传统的被证成的真信念知识观，一个人不能说是知道命题 $p$ 为真，除非他有好的理由相信 $p$ 为真。这些好的理由就是对相信 $p$ 的证成。如果露西知道她将通过明天的考试，她必须有好的理由认为情况如此。现在考虑露西的理由。它们大概由她所拥有的其他信念构成，例如关于她先前考得如何的信念、关于她准备得如何的信念，等等。露西要知道她将通过考试，这些第一信念所依据的其他信念也必须为露西所知。知识毕竟不能建立在比知识更少的东西之上，即不能建立在无知之上（cf. Rescher 1979, 76）[^rescher-1979]。既然理由本身是露西所知的东西，那些理由就必须依次建立在理由之上，如此无穷递进。因此，任何知识主张都要求一条永无尽头的链条，或“回溯”，即理由的理由。这看起来奇怪，甚至不可能，因为它涉及对无限多个信念的指涉。我们似乎无法拥有无限多的信念，更不用说被证成的信念了。但我们大多数人都认为知识是可能的。
+    step2: |-
+      按照传统的被证成的真信念知识观，一个人不能说是知道命题 $p$ 为真，除非他有好的理由相信 $p$ 为真。这些好的理由就是对相信 $p$ 的证成。如果露西知道她将通过明天的考试，她必须有好的理由认为情况如此。现在考虑露西的理由：它们大概由她所拥有的其他信念构成，例如关于她先前考得如何的信念、关于她准备得如何的信念，等等。露西要知道她将通过考试，这些第一信念所依据的其他信念也必须为露西所知。知识毕竟不能建立在比知识更少的东西之上，即不能建立在无知之上（cf. Rescher 1979, 76）[^rescher-1979]。既然理由本身是露西所知的东西，那些理由就必须依次建立在理由之上，如此无穷递进。因此，任何知识主张都要求一条永无尽头的链条，或“回溯”，即理由的理由。这看起来奇怪，甚至不可能，因为它涉及对无限多个信念的指涉。我们似乎无法拥有无限多的信念，更不用说被证成的信念了。但我们大多数人都认为知识是可能的。
+  - id: 15
+    kind: body
+    source: |-
+      What is the coherentist’s response to the regress? The coherentist might be thought to propose that nothing prevents the regress from proceeding in a circle. Thus, $A$ can be a reason for $B$ which is a reason for $C$ which is a reason for $A$. If this is acceptable, then what we have is a chain of reasons that is never-ending but which does not involve an infinite number of beliefs. It is never-ending in the sense that for each belief in the chain there is a reason for that belief also in the chain. Yet there is an immediate problem with this response due to the fact that justificatory circles are usually thought to be vicious ones. If someone claims $C$ and is asked why she believes it, she may reply that her reason is $B$. If asked why she believes $B$, she may assert $A$. But if prompted to justify her belief in $A$, she is not allowed to refer back to $C$ which in the present justificatory context is still in doubt. If she did justify $A$ in terms of $C$ nonetheless, her move would lack any justificatory force whatsoever.
+    step1: |-
+      融贯论者对回溯的回应是什么？人们可能认为融贯论者主张，没有任何东西阻止回溯以循环的方式进行。于是 $A$ 可以是 $B$ 的理由，而此理由又可以是 $C$ 的理由，最终又回指 $A$。如果这是可接受的，那么我们所有的就是一条永无尽头的理由链条，但它并不涉及无限多个信念。说它永无尽头，是指对于链条中的每个信念，链条中也有为该信念提供的一个理由。然而这一回应立即面临一个问题，因为证成循环通常被认为是恶性循环。如果有人主张 $C$ 并被问及为何相信它，她可能回答说她的理由是 $B$。如果被问及为何相信 $B$，她可能断言 $A$。但如果被要求证成她对 $A$ 的信念，她就不允许再引回 $C$，因为该信念在当前的证成语境中仍然存疑。倘若她仍以 $C$ 来证成 $A$，她的举动将完全缺乏任何证成效力。
+    step2: |-
+      融贯论者对回溯的回应是什么？人们可能认为融贯论者主张，没有任何东西阻止回溯以循环的方式进行。于是 $A$ 可以是 $B$ 的理由，而此理由又可以是 $C$ 的理由，最终又回指 $A$。如果这是可接受的，那么我们所有的就是一条永无尽头的理由链条，但它并不涉及无限多个信念。说它永无尽头，是指对于链条中的每个信念，链条中也有为该信念提供的一个理由。然而这一回应立即面临一个问题，因为证成循环通常被认为是恶性循环。如果有人主张 $C$ 并被问及为何相信它，她可能回答说她的理由是 $B$；若被问及为何相信 $B$，她可能断言 $A$。但如果被要求证成她对 $A$ 的信念，她就不允许再引回 $C$，因为该信念在当前的证成语境中仍然存疑。倘若她仍以 $C$ 来证成 $A$，她的举动将完全缺乏任何证成效力。
+  - id: 16
+    kind: body
+    source: |-
+      The coherentist may respond by denying that she ever intended to suggest that circular reasoning is a legitimate dialectical strategy. What she objects to is rather the assumption that justification should at all proceed in a linear fashion whereby reasons are given for reasons, and so on. This assumption of linearity presupposes that what is, in a primary sense, justified are individual beliefs. This, says the coherentist, is simply wrong: it is not individual beliefs that are primarily justified, but entire belief systems. Particular beliefs can also be justified but only in a secondary or derived sense, if they form part of a justified belief system. This is a coherence approach because what makes a belief system justified, on this view, is precisely its coherence. A belief system is justified if it is coherent to a sufficiently high degree. This, in essence, is Laurence BonJour’s 1985 solution to the regress problem.
+    step1: |-
+      融贯论者可以回应说，她从未打算主张循环推理是一种合法的论辩策略。她所反对的，毋宁是这样一个假定：证成应当以线性方式推进，即理由的理由如此这般地给出。这一线性假定预设了：在首要意义上得到证成的是个别信念。融贯论者说，这恰恰是错误的：首要地得到证成的不是个别信念，而是整个信念系统。个别信念也可以得到证成，但只是在次要或派生的意义上，如果它们构成一个得到证成的信念系统的部分的话。这是一种融贯进路，因为按照这种看法，使一个信念系统得到证成的恰恰是它的融贯性。一个信念系统是得到证成的，如果它融贯到足够高的程度。这实质上就是劳伦斯·邦久 1985 年对回溯问题的解答。
+    step2: |-
+      融贯论者可以回应说，她从未打算主张循环推理是一种合法的论辩策略。她所反对的，毋宁是这样一个假定：证成应当以线性方式推进，即给出理由的理由，如此递进。这一线性假定预设了：在首要意义上得到证成的是个别信念。融贯论者说，这恰恰是错误的：首要地得到证成的不是个别信念，而是整个信念系统。个别信念也可以得到证成，但只是在次要或派生的意义上，如果它们构成一个得到证成的信念系统的部分的话。这是一种融贯进路，因为按照这种看法，使一个信念系统得到证成的恰恰是它的融贯性。一个信念系统是得到证成的，如果它融贯到足够高的程度。这实质上就是劳伦斯·邦久 1985 年对回溯问题的解答。
+  - id: 17
+    kind: body
+    source: |-
+      This looks much more promising than the circularity theory. If epistemic justification is holistic in this sense, then a central assumption behind the regress is indeed false, and so the regress never gets started. Even so, this holistic approach raises many new questions to which the coherentist will need to respond. First of all, we need to get clearer on what the concept of coherence involves as that concept is applied to a belief system. This is the topic of the next section. Second, the proposal that a singular belief is justified merely in virtue of being a member of a justified totality can be questioned because, plausibly, a belief can be a member of a sufficiently coherent system without in any way adding to the coherence of that system, e.g., if the belief is the only member which does not quite fit in an otherwise strikingly coherent system. Surely, a belief will have to *contribute* to the coherence of the system in order to become justified by that system. A particular belief needs, in other words, to *cohere with* the system of which it is a member if that belief is to be considered justified. We will turn to this issue in section 4, in connection with Keith Lehrer’s epistemological work. Finally, we have seen that most coherence theories assign a special role to some beliefs that are close to experience in order to avoid the isolation and alternative systems objections. This fact raises the question of what status those special beliefs have. Do they have to have some credibility in themselves or can they be totally lacking therein? A particularly clear debate on this topic is the Lewis-BonJour controversy over the possibility of justification by coherence from scratch, which we will examine more closely in section 5.
+    step1: |-
+      这看起来比循环理论更有希望。如果认识论上的证成在这一意义上是整体性的，那么回溯背后的一项核心假定就确实为假，于是回溯根本不会开始。即便如此，这一整体主义进路提出了许多新问题，融贯论者将需要加以回应。首先，我们需要更清楚地把握融贯概念应用于一个信念系统时涉及什么。这是下一节的主题。其次，一个单一信念仅仅因其是一个得到证成的总体的成员而得到证成，这一主张可以受到质疑，因为一个信念完全可以是某个足够融贯系统的成员，却丝毫不增加该系统的融贯性，例如，如果该信念是唯一一个与原本极为融贯的系统不太契合的成员的话。一个信念当然必须*贡献*于系统的融贯性，才能被该系统证成。换言之，一个特定信念需要*与*它所属的系统*相融贯*，才能被认为得到证成。我们将在第 4 节结合基思·莱勒的认识论工作回到这一问题。最后，我们已经看到，大多数融贯理论赋予某些接近经验的信念一种特殊角色，以避免孤立性与替代系统这两个反驳。这一事实提出了这些特殊信念具有何种地位的问题：它们本身必须具有某种可信性，还是可以完全缺乏可信性？关于这一主题的一个特别清晰的争论，是刘易斯与邦久之间关于能否从零开始由融贯证成的争论，我们将在第 5 节更仔细地考察它。
+    step2: |-
+      这看起来比循环理论更有希望。如果认识论上的证成在这一意义上是整体性的，那么回溯背后的一项核心假定就确实为假，于是回溯根本不会开始。即便如此，这一整体主义进路提出了许多新问题，融贯论者将需要加以回应。首先，我们需要更清楚地把握融贯概念应用于一个信念系统时涉及什么——这是下一节的主题。其次，一个单一信念仅仅因其是一个得到证成的总体的成员而得到证成，这一主张可以受到质疑，因为一个信念完全可以是某个足够融贯系统的成员，却丝毫不增加该系统的融贯性，例如，如果该信念是唯一一个与原本极为融贯的系统不太契合的成员的话。一个信念当然必须*贡献*于系统的融贯性，才能被该系统证成。换言之，一个特定信念需要*与*它所属的系统*相融贯*，才能被认为得到证成。我们将在第 4 节结合基思·莱勒的认识论工作回到这一问题。最后，我们已经看到，大多数融贯理论赋予某些接近经验的信念一种特殊角色，以避免孤立性与替代系统这两个反驳。这一事实提出了这些特殊信念具有何种地位的问题：它们本身必须具有某种可信性，还是可以完全缺乏可信性？关于这一主题的一个特别清晰的争论，是刘易斯与邦久之间关于能否从零开始由融贯证成的争论，我们将在第 5 节更仔细地考察它。
+  - id: 18
+    kind: body
+    source: |-
+      ## 3. Traditional Accounts of Coherence
+    step1: |-
+      ## 3 关于融贯的传统说明
+    step2: |-
+      ## 3 关于融贯的传统说明
+  - id: 19
+    kind: body
+    source: |-
+      By a traditional account of coherence we will mean one which construes coherence as a relation of mutual support or agreement among given data (propositions, beliefs, memories, testimonies etc.). Early characterizations were given by, among others, Brand Blanshard (1939) and A. C. Ewing (1934). According to Ewing, a coherent set is characterized partly by consistency and partly by the property that every belief in the set follows logically from the others taken together. Thus, a set such as $\{A_1, A_2, A_1 \amp A_2\}$, if consistent, is highly coherent on this view because each element follows by logical deduction from the rest in concert.
+    step1: |-
+      所谓传统的融贯说明，我们指的是把融贯构想为给定材料（命题、信念、记忆、证词等）之间的相互支持或一致关系的说明。早期的刻画出自布兰德·布兰沙德（1939）与 A. C. 尤因（1934）等人。按照尤因，一个融贯集合部分地由一致性、部分地由如下性质所刻画：集合中每个信念都从其余信念合在一起逻辑地推出。因此，像 $\{A_1, A_2, A_1 \amp A_2\}$ 这样的集合，如果一致，按此看法就是高度融贯的，因为每个元素都由其余元素协同一致地逻辑演绎出来。
+    step2: |-
+      所谓传统的融贯说明，我们指的是把融贯构想为给定材料（命题、信念、记忆、证词等）之间相互支持或一致关系的说明。早期的刻画出自布兰德·布兰沙德（1939）与 A. C. 尤因（1934）等人。按照尤因，一个融贯集合部分地由一致性、部分地由如下性质刻画：集合中每个信念都从其余信念合在一起逻辑地推出。因此，像 $\{A_1, A_2, A_1 \amp A_2\}$ 这样的集合，如果一致，按此看法就是高度融贯的，因为每个元素都由其余元素协同一致地逻辑演绎出来。
+  - id: 20
+    kind: body
+    source: |-
+      While Ewing’s definition is admirably precise, it defines coherence too narrowly. Few belief sets that occur naturally in everyday life satisfy the austere second part of his definition: the requirement that each element follow logically from the rest when combined. Consider, for instance, the set consisting of propositions $A, B$ and $C$, where
+    step1: |-
+      尽管尤因的定义精确得令人钦佩，它却把融贯定义得太窄。日常生活中自然出现的信念集合中，很少能满足他定义中苛刻的第二部分：每个元素在合并时都从其余部分逻辑地推出的要求。例如考虑由命题 $A$、B 与 $C$ 组成的集合，其中
+    step2: |-
+      尽管尤因的定义精确得令人钦佩，它却把融贯定义得太窄。日常生活中自然出现的信念集合中，很少能满足他定义中苛刻的第二部分：每个元素在合并时都从其余部分逻辑地推出的要求。例如考虑由命题 $A$、B 与 $C$ 组成的集合，其中
+  - id: 21
+    kind: body
+    source: |-
+      | $A =$ | “John was at the crime scene at the time of the robbery” |
+      | --- | --- |
+      | $B =$ | “John owns a gun of the type used by the robber” |
+      | $C =$ | “John deposited a large sum of money in his bank account the next day” |
+    step1: |-
+      | $A =$ | “约翰在抢劫发生时位于犯罪现场” |
+      | :---: | :---: |
+      | $B =$ | “约翰拥有一支与抢劫者所用型号相同的枪” |
+      | $C =$ | “约翰第二天向他的银行账户存入一大笔钱” |
+    step2: |-
+      | $A =$ | “约翰在抢劫发生时位于犯罪现场” |
+      | :---: | :---: |
+      | $B =$ | “约翰拥有一支与抢劫者所用型号相同的枪” |
+      | $C =$ | “约翰第二天向他的银行账户存入一大笔钱” |
+  - id: 22
+    kind: body
+    source: |-
+      This set is intuitively coherent, and yet it fails to satisfy Ewing’s second condition. The proposition $A$, for instance, does not follow logically from $B$ and $C$ taken together: that John owns a gun of the relevant type and deposited money in his bank the day after does not logically imply him being at the crime scene at the time of the crime. Similarly, neither $B$ nor $C$ follows from the rests of the propositions in the set by logic alone.
+    step1: |-
+      这个集合在直觉上是融贯的，然而它不能满足尤因的第二条件。例如，命题 $A$ 并不从 $B$ 与 $C$ 合在一起逻辑地推出：约翰拥有一支相关型号的枪并在第二天向银行存钱，这在逻辑上并不蕴含他在犯罪发生时位于犯罪现场。同样，$B$ 或 $C$ 都不能仅凭逻辑从集合中其余命题推出。
+    step2: |-
+      这个集合在直觉上是融贯的，然而它不能满足尤因的第二条件。例如，命题 $A$ 并不从 $B$ 与 $C$ 合在一起逻辑地推出：约翰拥有一支相关型号的枪并在第二天向银行存钱，这在逻辑上并不蕴含他在犯罪发生时位于犯罪现场。同样，$B$ 或 $C$ 都不能仅凭逻辑从集合中其余命题推出。
+  - id: 23
+    kind: body
+    source: |-
+      C. I. Lewis’s definition of coherence, or “congruence” to use his term, can be seen as a refinement and improvement of Ewing’s basic idea. As Lewis defines the term, a set of “supposed facts asserted” is coherent (congruent) just in case every element in the set is supported by all the other elements taken together, whereby “support” is understood not in logical terms but in a probabilistic sense. In other words, $P$ supports $Q$ if and only if the probability of $Q$ is raised on the assumption that $P$ is true. As is readily appreciated, Lewis’s definition is less restrictive than Ewing’s: more sets will turn out to be coherent on the former than on the latter. (There are some uninteresting limiting cases for which this is not true. For instance, a set of tautologies will be coherent in Ewing’s but not in Lewis’s sense, since the probabiity of any tautology is maximal and cannot be raised. These cases are not significant parts of anyone’s actual body of beliefs.)
+    step1: |-
+      C. I. 刘易斯关于融贯的定义，或按他的用语称为“一致（congruence）”，可以被视为对尤因基本理念的提炼与改进。按刘易斯的定义，一个“被断定的所谓事实”集合是融贯的（一致的），当且仅当集合中每个元素都被其余所有元素合在一起所支持，其中“支持”不是从逻辑意义而是从概率意义上来理解的。换言之，$P$ 支持 $Q$，当且仅当在假定 $P$ 为真的条件下 $Q$ 的概率被提高。不难看出，刘易斯的定义不如尤因的那么严格：按前者，会有更多集合被视为融贯的。（有一些无趣的极限情形并不如此。例如，一个重言式集合在尤因的意义上会是融贯的，但在刘易斯的意义上则不然，因为任何重言式的概率都是极大的，不能被提高。这些情形并不构成任何人的实际信念体中意义重大的部分。）
+    step2: |-
+      C. I. 刘易斯关于融贯的定义，或按他的用语称为“一致（congruence）”，可以被视为对尤因基本理念的提炼与改进。按刘易斯的定义，一个“被断定的所谓事实”集合是融贯的（一致的），当且仅当集合中每个元素都被其余所有元素合在一起所支持，其中“支持”不是从逻辑意义而是从概率意义上来理解的。换言之，$P$ 支持 $Q$，当且仅当在假定 $P$ 为真的条件下 $Q$ 的概率被提高。不难看出，刘易斯的定义不如尤因的那么严格：按前者，会有更多集合被视为融贯的。（有一些无趣的极限情形并不如此。例如，一个重言式集合在尤因的意义上会是融贯的，但在刘易斯的意义上则不然，因为任何重言式的概率都是极大的，不能被提高。这些情形并不构成任何人的实际信念体中意义重大的部分。）
+  - id: 24
+    kind: body
+    source: |-
+      Let us return to the example with John. The proposition $A$, while not logically entailed by $B$ and $C$, is under normal circumstances nevertheless supported by those propositions taken together. If we assume that John owns the relevant type of gun and deposited a large sum the next day, then this should raise the probability that John did it and thereby also raise the probability that he was at the crime scene when the robbery took place. Similarly, one could hold that each of $B$ and $C$ is supported, in the probabilistic sense, by the other elements of the set. If so, this set is not only coherent in an intuitive sense but also coherent according to Lewis’s definition. Against Lewis’s proposal one could hold that it seems arbitrary to focus merely on the support single elements of a set receive from the rest of the set (cf. Bovens and Olsson 2000)[^bovens-2000]. Why not consider the support any subset, not just singletons, receives from the rest? We will return to this question later in this entry.
+    step1: |-
+      让我们回到约翰的例子。命题 $A$ 尽管不被 $B$ 与 $C$ 逻辑地蕴含，在正常情况下却仍然被这两个命题合在一起所支持。如果我们假定约翰拥有相关型号的枪并在第二天存入一大笔钱，那么这应当会提高“约翰作案”的概率，从而也提高“抢劫发生时他在犯罪现场”的概率。同样，人们可以主张，$B$ 与 $C$ 各自在概率意义上被集合中其他元素所支持。若是如此，这个集合不仅在直觉意义上融贯，而且按刘易斯的定义也是融贯的。针对刘易斯的提议，人们可以主张，仅仅关注集合中单个元素从集合其余部分得到的支持，似乎有些武断（cf. Bovens and Olsson 2000）[^bovens-2000]。为什么不考虑任何子集（而不只是单元素子集）从其余部分得到的支持呢？我们将在本词条后面回到这个问题。
+    step2: |-
+      让我们回到约翰的例子。命题 $A$ 尽管不被 $B$ 与 $C$ 逻辑地蕴含，在正常情况下却仍然被这两个命题合在一起所支持。如果我们假定约翰拥有相关型号的枪并在第二天存入一大笔钱，那么这应当会提高“约翰作案”的概率，从而也提高“抢劫发生时他在犯罪现场”的概率。同样，人们可以主张，$B$ 与 $C$ 各自在概率意义上被集合中其他元素所支持。若是如此，这个集合不仅在直觉意义上融贯，而且按刘易斯的定义也是融贯的。针对刘易斯的提议，人们可以主张，仅仅关注集合中单个元素从集合其余部分得到的支持，似乎有些武断（cf. Bovens and Olsson 2000）[^bovens-2000]。为什么不考虑任何子集（而不只是单元素子集）从其余部分得到的支持呢？我们将在本词条后面回到这个问题。
+  - id: 25
+    kind: body
+    source: |-
+      Another influential proposal concerning how to define coherence originates from Laurence BonJour (1985), whose account is considerably more complex than earlier suggestions. Where Ewing and Lewis proposed to define coherence in terms of one single concept—logical consequence and probability, respectively—BonJour thinks that coherence is a concept with a multitude of different aspects corresponding to the following “coherence criteria” (97–99):
+    step1: |-
+      另一个关于如何定义融贯的有影响的主张出自劳伦斯·邦久（1985），他的说明比早先的提议复杂得多。尤因与刘易斯提出分别用单一概念——逻辑后承与概率——来定义融贯，而邦久则认为融贯是一个具有众多不同方面的概念，对应于以下“融贯判准”（97–99）：
+    step2: |-
+      另一个关于如何定义融贯的有影响的主张出自劳伦斯·邦久（1985），他的说明比早先的提议复杂得多。尤因与刘易斯提出分别用单一概念——逻辑后承与概率——来定义融贯，而邦久则认为融贯是一个具有众多不同方面的概念，对应于以下“融贯判准”（97–99）：
+  - id: 26
+    kind: body
+    source: |-
+      1. A system of beliefs is coherent only if it is logically consistent.
+      2. A system of beliefs is coherent in proportion to its degree of probabilistic consistency.
+      3. The coherence of a system of beliefs is increased by the presence of inferential connections between its component beliefs and increased in proportion to the number and strength of such connections.
+      4. The coherence of a system of beliefs is diminished to the extent to which it is divided into subsystems of beliefs which are relatively unconnected to each other by inferential connections.
+      5. The coherence of a system of beliefs is decreased in proportion to the presence of unexplained anomalies in the believed content of the system.
+    step1: |-
+      1. 一个信念系统是融贯的，仅当它在逻辑上一致。
+      2. 一个信念系统的融贯程度与其概率一致性的程度成比例。
+      3. 一个信念系统的融贯性因其组成信念之间的推理联系的存在而增强，并与此类联系的数量与强度成比例地增强。
+      4. 一个信念系统的融贯性，因其分裂为彼此相对缺乏推理联系之联系的信念子系统而降低。
+      5. 一个信念系统的融贯性，因系统中被相信内容中存在未解释的反常现象而成比例地降低。
+    step2: |-
+      1. 一个信念系统是融贯的，仅当它在逻辑上一致。
+      2. 一个信念系统的融贯程度与其概率一致性的程度成比例。
+      3. 一个信念系统的融贯性因其组成信念之间的推理联系的存在而增强，并与此类联系的数量与强度成比例地增强。
+      4. 一个信念系统的融贯性，因其分裂为彼此相对缺乏推理联系的信念子系统而降低。
+      5. 一个信念系统的融贯性，因系统中被相信内容中存在未解释的反常现象而成比例地降低。
+  - id: 27
+    kind: body
+    source: |-
+      A difficulty pertaining to theories of coherence that construe coherence as a multidimensional concept is to specify how the different dimensions are to be amalgamated so as to produce an overall coherence judgment. It could well happen that one system $S$ is more coherent than another system $T$ in one respect, whereas $T$ is more coherent than $S$ in another. Perhaps $S$ contains more inferential connections than $T$, but $T$ is less anomalous than $S$. If so, which system is more coherent in an overall sense? Bonjour’s theory is largely silent on this point.
+    step1: |-
+      把融贯构想为多维概念的那些融贯理论，其一个困难在于说明如何把不同维度加以合并，以产生一个总体的融贯判断。完全可能发生这样的情况：一个系统 $S$ 在某一方面比另一个系统 $T$ 更融贯，而 $T$ 在另一方面比 $S$ 更融贯。也许 $S$ 比 $T$ 包含更多推理联系，但 $T$ 比 $S$ 更少反常。若是如此，哪个系统在总体意义上更融贯？邦久的理论在这一点上大体语焉不详。
+    step2: |-
+      把融贯构想为多维概念的那些融贯理论，其一个困难在于说明如何把不同维度加以合并，以产生一个总体的融贯判断。完全可能发生这样的情况：一个系统 $S$ 在某一方面比另一个系统 $T$ 更融贯，而 $T$ 在另一方面比 $S$ 更融贯。也许 $S$ 比 $T$ 包含更多推理联系，但 $T$ 比 $S$ 更少反常。若是如此，哪个系统在总体意义上更融贯？邦久的理论在这一点上大体语焉不详。
+  - id: 28
+    kind: body
+    source: |-
+      BonJour’s account also raises another general issue. The third criterion stipulates that the degree of coherence increases with the number of inferential connections between different parts of the system. Now as a system grows larger the probability that there will be relatively many inferentially connected beliefs is increased simply because there are more possible connections to be made. Hence, one could expect there to be a positive correlation between the size of a system and the number of inferential connections between the beliefs contained in the system. BonJour’s third criterion, taken at face value, entails therefore that a bigger system will generally have a higher degree of coherence due to its sheer size. But this is at least not obviously correct. A possible modified coherence criterion could state that what is correlated with higher coherence is not the number of inferential connections but rather the inferential *density* of the system, where the latter is obtained by dividing the number of inferential connections by the number of beliefs in the system.
+    step1: |-
+      邦久的说明还提出另一个一般性问题。第三判准规定，融贯程度随系统不同部分之间推理联系的数量而增加。现在，随着系统变大，存在相对较多推理上相联的信念的概率增加，原因很简单：可以建立的联系更多了。因此，人们可以预期系统的大小与系统所含信念之间推理联系的数量之间存在正相关。于是，邦久的第三判准若按字面理解，就蕴含着一个更大的系统因其纯粹规模而一般具有更高的融贯程度。但这至少并非显然正确。一个可能的修改过的融贯判准可以规定：与更高融贯相关的不是推理联系的数量，而是系统的推理*密度*，后者由推理联系的数量除以系统中的信念数量而得到。
+    step2: |-
+      邦久的说明还提出另一个一般性问题。第三判准规定，融贯程度随系统不同部分之间推理联系的数量而增加。现在，随着系统变大，存在相对较多推理上相联的信念的概率增加，原因很简单：可以建立的联系更多了。因此，人们可以预期系统的大小与系统所含信念之间推理联系的数量之间存在正相关。于是，邦久的第三判准若按字面理解，就蕴含着一个更大的系统因其纯粹规模而一般具有更高的融贯程度。但这至少并非显然正确。一个可能的修改过的融贯判准可以规定：与更高融贯相关的不是推理联系的数量，而是系统的推理*密度*，后者由推理联系的数量除以系统中的信念数量而得到。
+  - id: 29
+    kind: body
+    source: |-
+      ## 4. Other Accounts of Coherence
+    step1: |-
+      ## 4 关于融贯的其他说明
+    step2: |-
+      ## 4 关于融贯的其他说明
+  - id: 30
+    kind: body
+    source: |-
+      We will return, in section 6, to the problem of defining the traditional concept of coherence while addressing some of the concerns that we have raised, e.g., concerning the relationship between coherence and system size. The point of departure for the present discussion, however, is the observation that several prominent self-proclaimed coherentists construe the central concept, and to some extent also its role in philosophical inquiry, in ways that depart somewhat from the traditional view. Among them we find Nicolas Rescher, Keith Lehrer and Paul Thagard.
+    step1: |-
+      我们将在第 6 节回到定义传统融贯概念的问题，同时回应我们已经提出的一些关切，例如关于融贯与系统大小之关系的关切。不过，当前讨论的出发点是这样一个观察：几位著名的自称融贯论者在某种程度上以偏离传统看法的方式构想这一核心概念及其在哲学探究中的角色。他们中有尼古拉斯·雷舍尔、基思·莱勒与保罗·萨加德。
+    step2: |-
+      我们将在第 6 节回到定义传统融贯概念的问题，同时回应我们已经提出的一些关切，例如关于融贯与系统大小之关系的关切。不过，当前讨论的出发点是这样一个观察：几位著名的自称融贯论者在某种程度上以偏离传统看法的方式构想这一核心概念及其在哲学探究中的角色。他们中有尼古拉斯·雷舍尔、基思·莱勒与保罗·萨加德。
+  - id: 31
+    kind: body
+    source: |-
+      Central in Rescher’s account, as laid out in Rescher (1973), his most influential book on the subject, is the notion of a truth-candidate. A proposition is a truth-candidate if there is something that speaks in its favor. Rescher’s truth-candidates are related to Lewis’s “supposed facts asserted”. In both cases, the propositions of interest are *prima facie* rather than *bona fide* truths. Although Rescher’s 1973 book is entitled *A Coherence Theory of Truth*, the purpose of Rescher’s investigation is not to investigate the possibility of *defining* truth in terms of coherence but to find a truth *criterion*, which he understands to be a systematic procedure for selecting from a set of conflicting and even contradictory truth-candidates those elements which it is rational to accept as *bona fide* truths. His solution amounts to first identifying the maximal consistent subsets of the original set, i.e., the subsets that are consistent but would become inconsistent if extended by further elements of the original set, and then choosing the most “plausible” among these subsets. Plausibility is characterized in way that reveals no obvious relation to the traditional concept of coherence. While the traditional concept of coherence plays a role in the philosophical underpinning of Rescher’s theory, it does not figure essentially in the final product. In a later book, Rescher develops a more traditional “system-theoretic” view on coherence (Rescher 1979)[^rescher-1979].
+    step1: |-
+      雷舍尔说明的核心，正如他在其关于该主题最有影响的著作雷舍尔（1973）中所述，是真理候选者的概念。一个命题是真理候选者，如果有某种东西为其说话。雷舍尔的真理候选者与刘易斯的“被断定的所谓事实”相关。在两种情形中，所关注的命题都是*初显的*而非*真正的*真理。尽管雷舍尔 1973 年的著作题为《一种真理的融贯理论》，雷舍尔探究的目的却不是考察以融贯来*定义*真理的可能性，而是要找到一种真理*判准*，他把它理解为一种系统性的程序，用于从一组冲突甚至矛盾的真理候选者中挑选出那些理性地接受为*真正的*真理的元素。他的解答在于：先确定原集合的最大一致子集，即那些一致、但若再添加原集合的进一步元素就会变得不一致的子集，然后在这些子集中选择最“合理的”一个。合理性（plausibility）的刻画没有显示出与传统融贯概念的任何明显关联。尽管传统融贯概念在雷舍尔理论的哲学基础中扮演一定角色，它却并不本质地出现在最终产物中。在后来的一本书中，雷舍尔发展出一种更传统的“系统论”的融贯观（Rescher 1979）[^rescher-1979]。
+    step2: |-
+      雷舍尔说明的核心，正如他在其关于该主题最有影响的著作雷舍尔（1973）中所述，是真理候选者的概念。一个命题是真理候选者，如果有某种东西为其说话。雷舍尔的真理候选者与刘易斯的“被断定的所谓事实”相关。在两种情形中，所关注的命题都是*初显的*而非*真正的*真理。尽管雷舍尔 1973 年的著作题为《一种真理的融贯理论》，雷舍尔探究的目的却不是考察以融贯来*定义*真理的可能性，而是要找到一种真理*判准*，他把它理解为一种系统性的程序，用于从一组冲突甚至矛盾的真理候选者中挑选出那些理性地接受为*真正的*真理的元素。他的解答在于：先确定原集合的最大一致子集，即那些一致、但若再添加原集合的进一步元素就会变得不一致的子集，然后在这些子集中选择最“合理的”一个。合理性（plausibility）的刻画没有显示出与传统融贯概念的任何明显关联。尽管传统融贯概念在雷舍尔理论的哲学基础中扮演一定角色，它却并不本质地出现在最终产物中。在后来的一本书中，雷舍尔发展出一种更传统的“系统论”的融贯观（Rescher 1979）[^rescher-1979]。
+  - id: 32
+    kind: body
+    source: |-
+      Keith Lehrer employs the concept of coherence in his definition of justification, which in turn is a chief ingredient in his complex definition of knowledge. According to Lehrer, a person is justified in accepting a proposition just in case that proposition coheres with the relevant part of her cognitive system. This is the relational concept of coherence alluded to earlier. In Lehrer (1990), the relevant part is the “acceptance system” of the person, consisting of propositions to the effect that the subject accepts this and that. Thus, “$S$ accepts that $A$” would initially be in $S$’s acceptance system, but not $A$ itself. In later works, Lehrer has emphasized the importance of coherence with a more complex cognitive entity which he calls the “evaluation system” (e.g., Lehrer 2000 and 2003)[^lehrer-2000][^lehrer-2003]. The starting point of Lehrer’s account of coherence is the fact that we can think of all sorts of objections an imaginative critic may raise to what a person accepts. These objections might be directly incompatible with what that person accepts or they might threaten to undermine her reliability in making assessments of the kind in question. For instance, a critic might object to her claim that she sees a tree by suggesting that she is merely hallucinating. That would be an example of the first sort of objection. An example of the second sort would be a case in which the critic replies that the person cannot tell whether she is hallucinating or not. Coherence, and (personal) justification, results when all objections have been met. Lehrer’s concept of coherence does not seem to have much in common with the traditional concept of mutual support. If one takes it as essential that such a theory make use of a concept of systematic or global coherence, then Lehrer’s theory is not a coherence theory in the traditional sense because, in Lehrer’s view, “[c]oherence … is not a global feature of the system” (1997, 31), nor does it depend on global features of the system (31). Olsson (1999) has objected to this view by pointing out that it is difficult to understand what it means for a belief to fit into a system unless the former does so in virtue of adding to the global coherence of the latter.
+    step1: |-
+      基思·莱勒在其证成定义中运用融贯概念，而证成又是其复杂知识定义中的主要成分。按照莱勒，一个人有资格（证成地）接受一个命题，当且仅当该命题与她认知系统的相关部分相融贯。这就是前文提到的关系性融贯概念。在莱勒（1990）中，相关部分是人的“接受系统”，由这样的命题组成：主体接受这个那个。于是“$S$ 接受 $A$”起初会在 $S$ 的接受系统中，但 $A$ 本身不在其中。在后来著作中，莱勒强调了与一种更复杂的认知实体相融贯的重要性，他把这种实体称为“评价系统”（例如 Lehrer 2000 and 2003）[^lehrer-2000][^lehrer-2003]。莱勒融贯说明的出发点是：我们可以设想一位富有想象力的批评者对一个人所接受的东西可能提出种种反对。这些反对可能与该人所接受的东西直接不相容，也可能威胁到她在作出此类评估时的可靠性。例如，批评者可能通过提示她只是在幻觉中来反对她“看到一棵树”的主张。这是第一种反对的例子。第二种反对的例子是批评者回应说，该人无法辨别自己是否在幻觉中。当所有反对都得到回应时，就产生了融贯与（个人的）证成。莱勒的融贯概念似乎与传统相互支持概念没有多少共同之处。如果人们把这类理论必须使用某种系统的或整体的融贯概念视为本质，那么莱勒的理论就不是传统意义上的融贯理论，因为按照莱勒的看法，“[融贯]……不是系统的整体特征”（1997, 31），它也不依赖于系统的整体特征（31）。奥尔森（1999）反对这一看法，他指出：除非一个信念因增加后者的整体融贯而契合于系统，否则很难理解“一个信念契合于一个系统”是什么意思。
+    step2: |-
+      基思·莱勒在其证成定义中运用融贯概念，而证成又是其复杂知识定义中的主要成分。按照莱勒，一个人有资格（证成地）接受一个命题，当且仅当该命题与她认知系统的相关部分相融贯。这就是前文提到的关系性融贯概念。在莱勒（1990）中，相关部分是人的“接受系统”，由这样的命题组成：主体接受这个那个。于是“$S$ 接受 $A$”起初会在 $S$ 的接受系统中，但 $A$ 本身不在其中。在后来著作中，莱勒强调了与一种更复杂的认知实体相融贯的重要性，他把这种实体称为“评价系统”（例如 Lehrer 2000 and 2003）[^lehrer-2000][^lehrer-2003]。莱勒融贯说明的出发点是：我们可以设想一位富有想象力的批评者对一个人所接受的东西可能提出种种反对。这些反对可能与该人所接受的东西直接不相容，也可能威胁到她在作出此类评估时的可靠性。例如，批评者可能通过提示她只是在幻觉中来反对她“看到一棵树”的主张——这是第一种反对的例子。第二种反对的例子是批评者回应说，该人无法辨别自己是否在幻觉中。当所有反对都得到回应时，就产生了融贯与（个人的）证成。莱勒的融贯概念似乎与传统相互支持概念没有多少共同之处。如果人们把这类理论必须使用某种系统的或整体的融贯概念视为本质，那么莱勒的理论就不是传统意义上的融贯理论，因为按照莱勒的看法，“[融贯]……不是系统的整体特征”（1997, 31），它也不依赖于系统的整体特征（31）。奥尔森（1999）反对这一看法，他指出：除非一个信念因增加后者的整体融贯而契合于系统，否则很难理解“一个信念契合于一个系统”是什么意思。
+  - id: 33
+    kind: body
+    source: |-
+      Paul Thagard’s theory is clearly influenced by the traditional concept of coherence but the specific way in which the theory is developed gives it a somewhat non-traditional flavor, in particular considering its strong emphasis on explanatory relations between beliefs. Like Rescher, Thagard takes the fundamental problem to be which elements of a given set of typically conflicting claims that have the status of *prima facie* truths to single out as acceptable. However, where Rescher proposes to base the choice of acceptable truths on considerations of plausibility, Thagard suggests the use of explanatory coherence for that purpose. According to Thagard, *prima facie* truths can cohere (fit together) or “incohere” (resist fitting together). The first type of relation includes relations of explanation and deduction, whereas the second type includes various types of incompatibility, such as logical inconsistency. If two propositions cohere, this gives rise to a positive constraint. If they incohere, the result is a negative constraint. A positive constraint between two propositions can be satisfied either by accepting both or by rejecting both. By contrast, satisfying a negative constraint means accepting one proposition while rejecting the other. A “coherence problem”, as Thagard sees it, is one of dividing the initial set of propositions into those that are accepted and those that are rejected in such a way that most constraints are satisfied. Thagard presents several different computational models for solving coherence problems, including a model based on neural networks.
+    step1: |-
+      保罗·萨加德的理论显然受到传统融贯概念的影响，但该理论得以发展的特定方式赋予了它某种非传统的色彩，尤其是考虑到它强烈强调信念之间的解释关系。与雷舍尔一样，萨加德认为根本问题是：在给定的一组通常相互冲突的、具有*初显真理*地位的主张中，挑出哪些作为可接受者。不过，雷舍尔提出以合理性考量为基础来选择可接受的真理，而萨加德则建议为此目的运用解释性融贯。按照萨加德，*初显*真理可以相融贯（契合在一起）或“不相融贯”（抗拒契合在一起）。第一种关系包括解释与演绎的关系，第二种关系包括各种不相容，例如逻辑不一致。如果两个命题相融贯，就产生一个正向约束；如果他们不相融贯，结果就是一个负向约束。两个命题之间的正向约束可以通过同时接受二者或同时拒斥二者来满足。相比之下，满足一个负向约束意味着接受一个命题而拒斥另一个。在萨加德看来，“融贯问题”是这样一种问题：把初始命题集合划分为被接受与被拒斥的两部分，使得大多数约束得到满足。萨加德提出了若干种解决融贯问题的不同计算模型，其中包括一种基于神经网络的模型。
+    step2: |-
+      保罗·萨加德的理论显然受到传统融贯概念的影响，但该理论得以发展的特定方式赋予了它某种非传统的色彩，尤其是考虑到它强烈强调信念之间的解释关系。与雷舍尔一样，萨加德认为根本问题是：在给定的一组通常相互冲突的、具有*初显真理*地位的主张中，挑出哪些作为可接受者。不过，雷舍尔提出以合理性考量为基础来选择可接受的真理，而萨加德则建议为此目的运用解释性融贯。按照萨加德，*初显*真理可以相融贯（契合在一起）或“不相融贯”（抗拒契合在一起）。第一种关系包括解释与演绎的关系，第二种关系包括各种不相容，例如逻辑不一致。如果两个命题相融贯，就产生一个正向约束；如果他们不相融贯，结果就是一个负向约束。两个命题之间的正向约束可以通过同时接受二者或同时拒斥二者来满足。相比之下，满足一个负向约束意味着接受一个命题而拒斥另一个。在萨加德看来，“融贯问题”是这样一种问题：把初始命题集合划分为被接受与被拒斥的两部分，使得大多数约束得到满足。萨加德提出了若干种解决融贯问题的不同计算模型，其中包括一种基于神经网络的模型。
+  - id: 34
+    kind: body
+    source: |-
+      How acceptability depends on coherence, more precisely, is codified in Thagard’s “principles of explanatory coherence” (Thagard, 2000):
+    step1: |-
+      更精确地说，可接受性如何依赖于融贯，被编码在萨加德的“解释性融贯原则”中（Thagard, 2000）：
+    step2: |-
+      更精确地说，可接受性如何依赖于融贯，被编码在萨加德的“解释性融贯原则”中（Thagard, 2000）：
+  - id: 35
+    kind: body
+    source: |-
+      **Principle E1 (Symmetry)**
+    step1: |-
+      **原则 E1（对称性）**
+    step2: |-
+      **原则 E1（对称性）**
+  - id: 36
+    kind: body
+    source: |-
+      Explanatory coherence is a symmetric relation. That is, two propositions $A$ and $B$ cohere with each other equally.
+    step1: |-
+      解释性融贯是一种对称关系。也就是说，两个命题 $A$ 与 $B$ 彼此相等地相融贯。
+    step2: |-
+      解释性融贯是一种对称关系。也就是说，两个命题 $A$ 与 $B$ 彼此相等地相融贯。
+  - id: 37
+    kind: body
+    source: |-
+      **Principle E2 (Explanation)**
+    step1: |-
+      **原则 E2（解释）**
+    step2: |-
+      **原则 E2（解释）**
+  - id: 38
+    kind: body
+    source: |-
+      A hypothesis coheres with what it explains, which can either be evidence or another hypothesis. Hypotheses that together explain some other proposition cohere with each other. The more hypotheses it takes to explain something, the lower the degree of coherence.
+    step1: |-
+      一个假说与其所解释的东西相融贯，后者既可以是证据，也可以是另一个假说。共同解释某个其他命题的假说彼此相融贯。解释某物所需的假说越多，融贯程度越低。
+    step2: |-
+      一个假说与其所解释的东西相融贯，后者既可以是证据，也可以是另一个假说。共同解释某个其他命题的假说彼此相融贯。解释某物所需的假说越多，融贯程度越低。
+  - id: 39
+    kind: body
+    source: |-
+      **Principle E3 (Analogy)**
+    step1: |-
+      **原则 E3（类比）**
+    step2: |-
+      **原则 E3（类比）**
+  - id: 40
+    kind: body
+    source: |-
+      Similar hypotheses that explain similar pieces of evidence cohere.
+    step1: |-
+      解释相似证据的相似假说相融贯。
+    step2: |-
+      解释相似证据的相似假说相融贯。
+  - id: 41
+    kind: body
+    source: |-
+      **Principle E4 (Data Priority)**
+    step1: |-
+      **原则 E4（数据优先性）**
+    step2: |-
+      **原则 E4（数据优先性）**
+  - id: 42
+    kind: body
+    source: |-
+      Propositions that describe the results of observation have a degree of acceptability on their own.
+    step1: |-
+      描述观察结果的命题自身具有某种可接受度。
+    step2: |-
+      描述观察结果的命题自身具有某种可接受度。
+  - id: 43
+    kind: body
+    source: |-
+      **Principle E5 (Contradiction)**
+    step1: |-
+      **原则 E5（矛盾）**
+    step2: |-
+      **原则 E5（矛盾）**
+  - id: 44
+    kind: body
+    source: |-
+      Contradictory propositions are incoherent with each other.
+    step1: |-
+      相互矛盾的命题彼此不相融贯。
+    step2: |-
+      相互矛盾的命题彼此不相融贯。
+  - id: 45
+    kind: body
+    source: |-
+      **Principle E6 (Competition)**
+    step1: |-
+      **原则 E6（竞争）**
+    step2: |-
+      **原则 E6（竞争）**
+  - id: 46
+    kind: body
+    source: |-
+      If $A$ and $B$ both explain a proposition, and if $A$ and $B$ are not explanatorily connected, then $A$ and $B$ are incoherent with each other $(A$ and $B$ are explanatorily connected if one explains the other or if together they explain something).
+    step1: |-
+      如果 $A$ 与 $B$ 都解释一个命题，且 $A$ 与 $B$ 不处于解释性联系之中，那么 $A$ 与 $B$ 彼此不相融贯（$A$ 与 $B$ 处于解释性联系之中，如果其中一个解释另一个，或二者共同解释某物）。
+    step2: |-
+      如果 $A$ 与 $B$ 都解释一个命题，且 $A$ 与 $B$ 不处于解释性联系之中，那么 $A$ 与 $B$ 彼此不相融贯（$A$ 与 $B$ 处于解释性联系之中，如果其中一个解释另一个，或二者共同解释某物）。
+  - id: 47
+    kind: body
+    source: |-
+      **Principle E7 (Acceptance)**
+    step1: |-
+      **原则 E7（接受）**
+    step2: |-
+      **原则 E7（接受）**
+  - id: 48
+    kind: body
+    source: |-
+      The acceptability of a proposition in a system of propositions depends on its coherence with them.
+    step1: |-
+      一个命题在命题系统中的可接受性，取决于它与它们的融贯。
+    step2: |-
+      一个命题在命题系统中的可接受性，取决于它与它们的融贯。
+  - id: 49
+    kind: body
+    source: |-
+      Principle E4 (Data Priority) reveals that Thagard’s theory is not a pure coherence theory, as it gives some epistemic priority to observational beliefs, making it rather a form of weak foundationalism, i.e., the view that some propositions have some initial epistemic support apart from coherence. Moreover, Thagard’s theory is based on binary coherence/incoherence relations, i.e., relations holding between two propositions. His basic theory does not handle incompatibilities that involve, in an essential way, more than two propositions. But incompatibilities of that sort may very well arise, as exemplified by the three propositions “Jane is taller than Martha”, “Martha is taller than Karen” and “Karen is taller than Jane”. Nevertheless, Thagard reports the existence of computational methods for converting constraint satisfaction problems whose constraints involve more than two elements into problems that involve only binary constraints, concluding that his characterization of coherence “suffices in principle for dealing with more complex coherence problems with nonbinary constraints” (Thagard 2000, 19)[^thagard-2000]. Thagard (2009) argues that there is a connection between explanatory coherence and (approximate) truth, where explaining consists in describing causal mechanisms. Several other authors have advocated coherence theories that emphasize the importance of explanatory relations. See, for example, Lycan (1988, 2012) and, for a book-length defense of explanatory coherentism, Poston (2014). Also related to Thagard’s work is Susan Haack’s so-called foundherentist theory, which draws on a proposed analogy between coherence justification (with foundationalist ingredients) and crossword puzzle-solving (Haack, 2009).
+    step1: |-
+      原则 E4（数据优先性）表明萨加德的理论不是一种纯粹的融贯理论，因为它赋予观察信念某种认识论上的优先性，从而使其毋宁成为一种弱基础主义的形式，即认为某些命题除融贯之外还具有某种初始的认识论支持。此外，萨加德的理论建立在二元的融贯/不相融贯关系之上，即两个命题之间的关系。他的基本理论不处理本质上涉及两个以上命题的不相容。但这类不相容很可能出现，例如这三个命题“简比玛莎高”“玛莎比凯伦高”“凯伦比简高”。尽管如此，萨加德报告说，存在一些计算方法，可以把约束涉及两个以上元素的约束满足问题转化为只涉及二元约束的问题，并总结说他的融贯刻画“原则上足以处理具有非二元约束的更复杂的融贯问题”（Thagard 2000, 19）[^thagard-2000]。萨加德（2009）论证说，解释性融贯与（近似）真理之间存在联系，其中解释在于描述因果机制。还有其他几位作者提倡强调解释关系之重要性的融贯理论。例如见 Lycan (1988, 2012)，关于解释性融贯论的整书辩护见 Poston (2014)。与萨加德的工作相关的还有苏珊·哈克所谓的“基础融贯论”（foundherentism），它借用了融贯性证成（带有基础主义成分）与解填字游戏之间的类比（Haack, 2009）。
+    step2: |-
+      原则 E4（数据优先性）表明萨加德的理论不是一种纯粹的融贯理论，因为它赋予观察信念某种认识论上的优先性，从而使其毋宁成为一种弱基础主义的形式，即认为某些命题除融贯之外还具有某种初始的认识论支持。此外，萨加德的理论建立在二元的融贯/不相融贯关系之上，即两个命题之间的关系。他的基本理论不处理本质上涉及两个以上命题的不相容。但这类不相容很可能出现，例如这三个命题“简比玛莎高”“玛莎比凯伦高”“凯伦比简高”。尽管如此，萨加德报告说，存在一些计算方法，可以把约束涉及两个以上元素的约束满足问题转化为只涉及二元约束的问题，并总结说他的融贯刻画“原则上足以处理具有非二元约束的更复杂的融贯问题”（Thagard 2000, 19）[^thagard-2000]。萨加德（2009）论证说，解释性融贯与（近似）真理之间存在联系，其中解释在于描述因果机制。还有其他几位作者提倡强调解释关系之重要性的融贯理论。例如见 Lycan (1988, 2012)，关于解释性融贯论的整书辩护见 Poston (2014)。与萨加德的工作相关的还有苏珊·哈克所谓的“基础融贯论”（foundherentism），它借用了融贯性证成（带有基础主义成分）与解填字游戏之间的类比（Haack, 2009）。
+  - id: 50
+    kind: body
+    source: |-
+      ## 5. Justification by Coherence from Scratch
+    step1: |-
+      ## 5 从零开始的融贯证成
+    step2: |-
+      ## 5 从零开始的融贯证成
+  - id: 51
+    kind: body
+    source: |-
+      The arguably most significant development of the coherence theory in recent years has been the revival of C. I. Lewis’s work and the research program he inspired by translating parts of the coherence theory into the language of probability. The kind of coherence in question should be distinguished from a probability function being coherent in the sense of conforming to the axioms of the probability calculus. The theory of coherence that we are concerned with here is an application of such coherent probability functions to model coherence as mutual support, agreement etc. Thus “probabilistic coherence” means something else than it does in standard Bayesian theories. The probabilistic translations of coherence theory has made it possible to define concepts and prove results with mathematical precision. It has also led to increased transferability of concepts and results across fields, e.g., between coherence theory and confirmation theory as it is studied in philosophy of science. As a result, the study of coherence has developed into an interdisciplinary research program with connections to philosophy of science, cognitive psychology, artificial intelligence and philosophy of law. (We will encounter a spectacular example of such theoretical cross-fertilization in a moment.) The rest of this entry will be devoted to this recent transformation of the subject.
+    step1: |-
+      近年来融贯理论堪称最重要的进展，是 C. I. 刘易斯著作及其所开创研究纲领的复兴，这个纲领把融贯理论的部分内容翻译成概率语言。这里所讨论的那种融贯，应当与一个概率函数在符合概率演算公理这一意义上的“融贯”区分开来。我们关心的融贯理论，正是把这种融贯的概率函数应用于把融贯建模为相互支持、一致等等。因此，“概率性融贯”所指的与标准贝叶斯理论中的含义不同。融贯理论的概率化翻译使得以数学精确性来定义概念和证明结果成为可能。它也使概念与结果在领域间更可迁移，例如在融贯理论与科学哲学中研究的确认理论之间。其结果是，融贯研究发展成了一个跨学科研究纲领，与科学哲学、认知心理学、人工智能和法律哲学相联结。（我们马上就会遇到这种理论交叉授粉的一个惊人例子。）本词条的其余部分将专门讨论这一主题的近期转变。
+    step2: |-
+      近年来融贯理论堪称最重要的进展，是 C. I. 刘易斯著作及其所开创研究纲领的复兴，这个纲领把融贯理论的部分内容翻译成概率语言。这里所讨论的那种融贯，应当与一个概率函数在符合概率演算公理这一意义上的“融贯”区分开来。我们关心的融贯理论，正是把这种融贯的概率函数应用于把融贯建模为相互支持、一致等等。因此，“概率性融贯”所指的与标准贝叶斯理论中的含义不同。融贯理论的概率化翻译使得以数学精确性来定义概念和证明结果成为可能。它也使概念与结果在领域间更可迁移，例如在融贯理论与科学哲学中研究的确认理论之间。其结果是，融贯研究发展成了一个跨学科研究纲领，与科学哲学、认知心理学、人工智能和法律哲学相联结。（我们马上就会遇到这种理论交叉授粉的一个惊人例子。）本词条的其余部分将专门讨论这一主题的近期转变。
+  - id: 52
+    kind: body
+    source: |-
+      To introduce Lewis’s view on the role of coherence, consider the following famous passage on “relatively unreliable witnesses who independently tell the same story” from his 1946 book:
+    step1: |-
+      为了引入刘易斯关于融贯之角色的看法，请考虑他 1946 年著作中关于“相对不可靠却独立讲述同一故事的证人”的著名段落：
+    step2: |-
+      为了引入刘易斯关于融贯之角色的看法，请考虑他 1946 年著作中关于“相对不可靠却独立讲述同一故事的证人”的著名段落：
+  - id: 53
+    kind: body
+    source: |-
+      > For any one of these reports, taken singly, the extent to which it confirms what is reported may be slight. And antecedently, the probability of what is reported may also be small. But congruence of the reports establishes a high probability of what they agree upon, by principles of probability determination which are familiar: on any other hypothesis than that of truth-telling, this agreement is highly unlikely; the story any one false witness might tell being one out of so very large a number of equally possible choices. (It is comparable to the improbability that successive drawings of one marble out of a very large number will each result in the one white marble in the lot.) And the one hypothesis which itself is congruent with this agreement becomes thereby commensurably well established. (346)
+    step1: |-
+      > 对于这些报告中的任何一个，单独来看，它确认所报告之事的程度可能很轻微。而且先行地，所报告之事的概率也可能很小。但报告之间的一致（congruence）确立了它们所共同同意之事的很高概率，依据的是我们熟悉的概率确定原则：在除“说真话”之外的任何其他假说下，这种一致是极不可能的；任何一个作假证者所讲的故事，都只是数量如此庞大的同等可能选择之一。（这可比拟于：从一个非常庞大的数量中接连抽取一颗弹子，每次都抽到这批弹子中唯一的那颗白色弹子的不可能性。）而那个本身与此一致相符的假说，因此就相应地被很好地确立起来。（346）
+    step2: |-
+      > 对于这些报告中的任何一个，单独来看，它确认所报告之事的程度可能很轻微；而且先行地，所报告之事的概率也可能很小。但报告之间的一致（congruence）依据我们熟悉的概率确定原则，确立了它们所共同同意之事的很高概率：在除“说真话”之外的任何其他假说下，这种一致是极不可能的；任何一个作假证者所讲的故事，都只是数量如此庞大的同等可能选择之一。（这可比拟于：从一个非常庞大的数量中接连抽取一颗弹子，每次都抽到这批弹子中唯一的那颗白色弹子的不可能性。）而那个本身与此一致相符的假说，因此就相应地被很好地确立起来。（346）
+  - id: 54
+    kind: body
+    source: |-
+      While Lewis allows that individual reports need not be very credible considered in isolation for coherence to have a positive effect, he is firmly committed to the view that their credibility must not be nil. He writes, in his discussion of reports from memory, that “[i]f … there were no initial presumption attaching to the mnemically presented … then no extent of congruity with other such items would give rise to any eventual credibility” (357). In other words, if the beliefs in a set have no initial credibility, then no justification will ensue from observing the coherence of that set. Thus, Lewis is advocating weak foundationalism rather than a pure coherence theory.
+    step1: |-
+      尽管刘易斯承认，为了使融贯产生积极效果，个别报告孤立地考虑时不必非常可信，他却坚定地主张它们的可信性不得为零。他在讨论来自记忆的报告时写道：“[如]果……没有与记忆所呈现者相伴随的初始推定……那么与这类其他项目的任何程度的一致都不会产生任何最终的可信性”（357）。换言之，如果一组信念没有初始可信性，那么观察该集合的融贯不会产生任何证成。因此，刘易斯提倡的是弱基础主义而非纯粹的融贯理论。
+    step2: |-
+      尽管刘易斯承认，为了使融贯产生积极效果，个别报告孤立地考虑时不必非常可信，他却坚定地主张它们的可信性不得为零。他在讨论来自记忆的报告时写道：“[如]果……没有与记忆所呈现者相伴随的初始推定……那么与这类其他项目的任何程度的一致都不会产生任何最终的可信性”（357）。换言之，如果一组信念没有初始可信性，那么观察该集合的融贯不会产生任何证成。因此，刘易斯提倡的是弱基础主义而非纯粹的融贯理论。
+  - id: 55
+    kind: body
+    source: |-
+      In apparent agreement with Lewis, Laurence BonJour (1985, 148) writes: “[a]s long as we are confident that the reports of the various witnesses are genuinely independent of each other, a high enough degree of coherence among them will eventually dictate the hypothesis of truth telling as the only available explanation of their agreement.” However, BonJour proceeds to reject Lewis’s point about the need for positive antecedent credibility: “[w]hat Lewis does not see, however, is that his own [witness] example shows quite convincingly that no antecedent degree of warrant or credibility is required” (148). BonJour is here apparently denouncing Lewis’s claim that coherence will not have any confidence boosting power unless the sources are initially somewhat credible. BonJour is proposing that coherence can play this role even if there is no antecedent degree of warrant, so long as the witnesses are delivering their reports independently.
+    step1: |-
+      表面上与刘易斯一致，劳伦斯·邦久（1985, 148）写道：“只要我们确信各证人的报告彼此真正独立，它们之间足够高的融贯程度最终将规定‘说真话’的假说，作为对其一致的唯一可得的解释。”然而，邦久接着拒绝刘易斯关于需要正面先行可信性的论点：“[不]过，刘易斯没有看到的是，他自己的[证人]例子相当有说服力地表明，无需任何先行的证成度或可信性”（148）。邦久在此显然谴责刘易斯的主张：除非来源起初有些可信，融贯不会有任何提升信心的力量。邦久提出，即使没有先行的证成度，只要证人是独立地作出报告的，融贯也能扮演这一角色。
+    step2: |-
+      表面上与刘易斯一致，劳伦斯·邦久（1985, 148）写道：“只要我们确信各证人的报告彼此真正独立，它们之间足够高的融贯程度最终将规定‘说真话’的假说，作为对其一致的唯一可得的解释。”然而，邦久接着拒绝刘易斯关于需要正面先行可信性的论点：“[不]过，刘易斯没有看到的是，他自己的[证人]例子相当有说服力地表明，无需任何先行的证成度或可信性”（148）。邦久在此显然谴责刘易斯的主张：除非来源起初有些可信，融贯不会有任何提升信心的力量。邦久提出，即使没有先行的证成度，只要证人是独立地作出报告的，融贯也能扮演这一角色。
+  - id: 56
+    kind: body
+    source: |-
+      Several authors have objected to this claim of BonJour’s, arguing that coherence does not have any effect on the probability of the report contents if the independent reports lack individual credibility. The first argument to that effect was given by Michael Huemer (1997). A more general proof in the same vein is presented in Olsson (2002). What follows is a sketch of the latter argument for the special case of two testimonies, couched essentially in the terminology of Huemer (2011). In the following, all probabilities are assumed to lie strictly between 0 and 1.
+    step1: |-
+      有几位作者反对邦久的这一主张，论证说如果独立的报告缺乏个别可信性，融贯就对报告内容的概率没有任何影响。这方面的第一个论证由迈克尔·休默（1997）给出。同一思路的一个更一般的证明见奥尔森（2002）。以下是对后一个论证在两项证词这一特殊情形下的概述，其表述基本采用休默（2011）的术语。在以下讨论中，假定所有概率都严格介于 0 与 1 之间。
+    step2: |-
+      有几位作者反对邦久的这一主张，论证说如果独立的报告缺乏个别可信性，融贯就对报告内容的概率没有任何影响。这方面的第一个论证由迈克尔·休默（1997）给出。同一思路的一个更一般的证明见奥尔森（2002）。以下是对后一个论证在两项证词这一特殊情形下的概述，其表述基本采用休默（2011）的术语。在以下讨论中，假定所有概率都严格介于 0 与 1 之间。
+  - id: 57
+    kind: body
+    source: |-
+      Let $E_1$ be the proposition that the first witness reports that $A$, and let $E_2$ be the proposition that the second witness reports that $A$. Consider the following conditions:
+    step1: |-
+      设 $E_1$ 为第一位证人报告 $A$ 的命题，$E_2$ 为第二位证人报告 $A$ 的命题。考虑以下条件：
+    step2: |-
+      设 $E_1$ 为第一位证人报告 $A$ 的命题，$E_2$ 为第二位证人报告 $A$ 的命题。考虑以下条件：
+  - id: 58
+    kind: body
+    source: |-
+      **Conditional Independence** $P(E_2 \mid E_1, A) = P(E_2 \mid A)$ $P(E_2 \mid E_1,\neg A) = P(E_2 \mid \neg A)$
+    step1: |-
+      **条件独立** $P(E_2 \mid E_1, A) = P(E_2 \mid A)$ $P(E_2 \mid E_1,\neg A) = P(E_2 \mid \neg A)$
+    step2: |-
+      **条件独立** $P(E_2 \mid E_1, A) = P(E_2 \mid A)$ $P(E_2 \mid E_1,\neg A) = P(E_2 \mid \neg A)$
+  - id: 59
+    kind: body
+    source: |-
+      **Nonfoundationalism** $P(A \mid E_1) = P(A)$ $P(A \mid E_2) = P(A)$
+    step1: |-
+      **非基础主义** $P(A \mid E_1) = P(A)$ $P(A \mid E_2) = P(A)$
+    step2: |-
+      **非基础主义** $P(A \mid E_1) = P(A)$ $P(A \mid E_2) = P(A)$
+  - id: 60
+    kind: body
+    source: |-
+      **Coherence Justification** $P(A \mid E_1, E_2) \gt P(A)$
+    step1: |-
+      **融贯性证成** $P(A \mid E_1, E_2) \gt P(A)$
+    step2: |-
+      **融贯性证成** $P(A \mid E_1, E_2) \gt P(A)$
+  - id: 61
+    kind: body
+    source: |-
+      Conditional independence is intended to capture the idea that the testimonies are independent in the sense that there is no direct influence between the testimonies. The probability of a testimony is influenced only by the fact it reports on, meaning that once that fact is given, this “screens off” any probabilistic influence between the individual testimonies making them irrelevant to each other. Nonfoundationalism states that neither testimony confers any justification upon $A$ by itself: assuming merely that one single witness has testified that $A$ has no effect on the probability of $A$. Finally, Coherence Justification states that testimonies, when combined, do provide justification for $A$.
+    step1: |-
+      条件独立旨在把握这一观念：证词是独立的，即证词之间没有直接影响。一项证词的概率只受它所报告的那个事实影响，这意味着一旦给定该事实，它就把个别证词之间的任何概率影响“屏蔽”掉，使它们彼此不相关。非基础主义表明：两项证词各自都不能单独赋予 $A$ 任何证成——仅仅假定一位证人就 $A$ 作证，对 $A$ 的概率没有影响。最后，融贯性证成表明：证词结合起来时确实为 $A$ 提供证成。
+    step2: |-
+      条件独立旨在把握这一观念：证词是独立的，即证词之间没有直接影响。一项证词的概率只受它所报告的那个事实影响，这意味着一旦给定该事实，它就把个别证词之间的任何概率影响“屏蔽”掉，使它们彼此不相关。非基础主义表明：两项证词各自都不能单独赋予 $A$ 任何证成——仅仅假定一位证人就 $A$ 作证，对 $A$ 的概率没有影响。最后，融贯性证成表明：证词结合起来时确实为 $A$ 提供证成。
+  - id: 62
+    kind: body
+    source: |-
+      The debate between Lewis and BonJour can be reconstructed as a debate over the joint consistency of these three conditions. BonJour is claiming that the conditions are jointly consistent, and that Coherence Justification follows from Conditional Independence even in the context of Nonfoundationalism, whereas Lewis is rejecting these claims. Olsson (2002) established that if the dispute is couched in these terms, then Lewis was provably right. From Conditional Independence and Nonfoundationalism it follows, via Bayes’s theorem, that
+
+      $$ P(A \mid E_1, E_2) = P(A) $$
+    step1: |-
+      刘易斯与邦久之间的争论可以重构为关于这三个条件之联合一致性的争论。邦久主张这些条件是联合一致的，而且融贯性证成甚至在非基础主义的语境下也从条件独立中推出；刘易斯则拒绝这些主张。奥尔森（2002）确立：如果争论以此措辞进行，那么刘易斯被证明是对的。由条件独立与非基础主义，经由贝叶斯定理，可得
+
+      $$ P(A \mid E_1, E_2) = P(A) $$
+    step2: |-
+      刘易斯与邦久之间的争论可以重构为关于这三个条件之联合一致性的争论。邦久主张这些条件是联合一致的，而且融贯性证成甚至在非基础主义的语境下也从条件独立中推出；刘易斯则拒绝这些主张。奥尔森（2002）确立：如果争论以此措辞进行，那么刘易斯被证明是对的。由条件独立与非基础主义，经由贝叶斯定理，可得
+
+      $$ P(A \mid E_1, E_2) = P(A) $$
+  - id: 63
+    kind: body
+    source: |-
+      so that combining collectively independent but individually useless testimonies, however coherent, fails to give rise to anything useful. (As noted in Olsson, 2005, section 3.5, the matter is somewhat complicated by the fact that Lewis adopted a notion of independence that is weaker than Conditional Independence. Ironically, Lewis’s weaker notion turns out to be compatible with the combination of Nonfoundationalism and Coherence Justification.) This result might not apply to coherence theories in general. Poston (2021) argues that BonJour’s view being provably false in probability theory is an artefact of the probabilistic framework not shared by Thagard’s theory of explanatory coherence.
+    step1: |-
+      因此，把集体独立却各自无用的证词结合起来，无论多么融贯，都无法产生任何有用的东西。（正如奥尔森 2005 年第 3.5 节所指出的，事情因刘易斯采用了一种比条件独立更弱的独立性概念而稍显复杂。具有讽刺意味的是，刘易斯的更弱概念竟与非基础主义与融贯性证成的结合相容。）这一结果可能不适用于一般的融贯理论。波斯坦（2021）论证说，邦久的看法在概率论中可被证明为假，这是概率论框架的产物，而萨加德的解释性融贯理论并不分享这一框架。
+    step2: |-
+      因此，把集体独立却各自无用的证词结合起来，无论多么融贯，都无法产生任何有用的东西。（正如奥尔森 2005 年第 3.5 节所指出的，事情因刘易斯采用了一种比条件独立更弱的独立性概念而稍显复杂。具有讽刺意味的是，刘易斯的更弱概念竟与非基础主义与融贯性证成的结合相容。）这一结果可能不适用于一般的融贯理论。波斯坦（2021）论证说，邦久的看法在概率论中可被证明为假，这是概率论框架的产物，而萨加德的解释性融贯理论并不分享这一框架。
+  - id: 64
+    kind: body
+    source: |-
+      Nonfoundationalism should be contrasted with the following condition:
+    step1: |-
+      非基础主义应当与以下条件相对照：
+    step2: |-
+      非基础主义应当与以下条件相对照：
+  - id: 65
+    kind: body
+    source: |-
+      **Weak Foundationalism** $P(A \mid E_1) \gt P(A)$ $P(A \mid E_2) \gt P(A)$
+    step1: |-
+      **弱基础主义** $P(A \mid E_1) \gt P(A)$ $P(A \mid E_2) \gt P(A)$
+    step2: |-
+      **弱基础主义** $P(A \mid E_1) \gt P(A)$ $P(A \mid E_2) \gt P(A)$
+  - id: 66
+    kind: body
+    source: |-
+      Weak Foundationalism, which states that each testimony confirms at least some justification upon A by itself, does not entail Coherence Justification: it is common knowledge in probability theory that even if two pieces of evidence each support a given conclusion, that support may disappear, or even turn into disconfirmation, if they are combined. However, in the context of Conditional Independence, Weak Foundationalism does imply Coherence Justification. Indeed, the combined testimonies will, in this case, confer more support upon the conclusion than the testimonies did individually. As confirmed by James Van Cleve (2011), the conclusions supported by these considerations are that coherence can boost justification or credibility that is already there without being able to create such justification or credibility from scratch.
+    step1: |-
+      弱基础主义表明每项证词都独自赋予 A 至少某些证成，它并不蕴含融贯性证成：概率论中众所周知，即使两条证据各自支持一个给定结论，如果把它们结合起来，这种支持也可能消失，甚至变成否定支持。然而，在条件独立的语境下，弱基础主义确实蕴含融贯性证成。事实上，在这种情况下，结合起来的证词将比各自单独的证词赋予结论更多支持。正如詹姆斯·范·克利夫（2011）所确认的，这些考量所支持的结论是：融贯能够增强已经存在的证成或可信性，却不能从零开始创造这种证成或可信性。
+    step2: |-
+      弱基础主义表明每项证词都独自赋予 A 至少某些证成，它并不蕴含融贯性证成：概率论中众所周知，即使两条证据各自支持一个给定结论，如果把它们结合起来，这种支持也可能消失，甚至变成否定支持。然而，在条件独立的语境下，弱基础主义确实蕴含融贯性证成。事实上，在这种情况下，结合起来的证词将比各自单独的证词赋予结论更多支持。正如詹姆斯·范·克利夫（2011）所确认的，这些考量所支持的结论是：融贯能够增强已经存在的证成或可信性，却不能从零开始创造这种证成或可信性。
+  - id: 67
+    kind: body
+    source: |-
+      There are various ways to save the coherence theory from this probabilistic attack. The most radical strategy would be to dismiss the probabilistic framework as altogether unsuitable for coherentism. Independent reasons for this response can be found in Thagard’s work (e.g., Thagard 2000 and 2005)[^thagard-2000][^thagard-2005]. A less radical approach would be to refrain from any blanket dismissal of probability theory in this context but reject one of the premises of the troublesome proof. This is the strategy recently taken by Huemer, who now considers his 1997 probabilistic refutation of coherentism to be mistaken (Huemer 2011, 39, footnote 6)[^huemer-2011]. While he thinks that Coherentist Justification correctly captures a minimal sense of coherentism, he reports dissatisfaction with both Conditional Independence and Nonfoundationalism (his term for the latter is “Strong Nonfoundationalism”). Huemer now thinks independence, in the intuitive sense, is better captured by the condition $P(E_2 \mid E_1, A) \gt P(E_2 \mid E_1, \neg A)$. Moreover, he takes the condition $P(A \mid E_1, \neg E_2) = P(A)$, or “Weak Nonfoundationalism” in his terminology, to be a more suitable explication of nonfoundationalist intuitions than the condition $P(A \mid E_1) = P(A)$. He goes on to show that they are jointly consistent with Coherentist Justification: there are probability distributions satisfying all three conditions. Thus the immediate threat to coherentism presented by the observed inconsistency of the three original conditions has been neutralized, even though a critic might point out that the defense is incomplete since it has not been shown that Coherence Justification follows from the two new conditions.
+    step1: |-
+      有多种方式可以把融贯理论从这一概率攻击中拯救出来。最激进的策略是拒绝这一概率框架，认为它完全不适用于融贯论。这一回应的独立理由可以在萨加德的工作中找到（例如 Thagard 2000 and 2005）[^thagard-2000][^thagard-2005]。一个不那么激进的做法是：在此语境下不作任何一概而论的拒绝，而是拒绝那个令人困扰的证明的一个前提。这正是休默最近采取的策略，他现在认为自己 1997 年对融贯论的概率反驳是错的（Huemer 2011, 39, footnote 6）[^huemer-2011]。尽管他认为融贯论者的证成正确地把握了融贯论的一个最低限度的意义，他却表示对条件独立与非基础主义二者都不满意（他对后者的用语是“强非基础主义”）。休默现在认为，在直觉意义上，独立性由条件 $P(E_2 \mid E_1, A) \gt P(E_2 \mid E_1, \neg A)$ 更好地把握。此外，他把条件 $P(A \mid E_1, \neg E_2) = P(A)$，或按他的术语称为“弱非基础主义”，视为对非基础主义直觉的更适合的阐释，而非条件 $P(A \mid E_1) = P(A)$。他进而表明它们与融贯论者的证成是联合一致的：存在满足全部三个条件的概率分布。于是，由原三个条件的不一致性所呈现的对融贯论的直接威胁已被化解，尽管批评者可能指出这一辩护并不完整，因为并未证明融贯性证成从这两个新条件中推出。
+    step2: |-
+      有多种方式可以把融贯理论从这一概率攻击中拯救出来。最激进的策略是拒绝这一概率框架，认为它完全不适用于融贯论。这一回应的独立理由可以在萨加德的工作中找到（例如 Thagard 2000 and 2005）[^thagard-2000][^thagard-2005]。一个不那么激进的做法是：在此语境下不作任何一概而论的拒绝，而是拒绝那个令人困扰的证明的一个前提。这正是休默最近采取的策略，他现在认为自己 1997 年对融贯论的概率反驳是错的（Huemer 2011, 39, footnote 6）[^huemer-2011]。尽管他认为融贯论者的证成正确地把握了融贯论的一个最低限度的意义，他却表示对条件独立与非基础主义二者都不满意（他对后者的用语是“强非基础主义”）。休默现在认为，在直觉意义上，独立性由条件 $P(E_2 \mid E_1, A) \gt P(E_2 \mid E_1, \neg A)$ 更好地把握。此外，他把条件 $P(A \mid E_1, \neg E_2) = P(A)$，或按他的术语称为“弱非基础主义”，视为对非基础主义直觉的更适合的阐释，而非条件 $P(A \mid E_1) = P(A)$。他进而表明它们与融贯论者的证成是联合一致的：存在满足全部三个条件的概率分布。于是，由原三个条件的不一致性所呈现的对融贯论的直接威胁已被化解，尽管批评者可能指出这一辩护并不完整，因为并未证明融贯性证成从这两个新条件中推出。
+  - id: 68
+    kind: body
+    source: |-
+      Whatever merits Huemer’s new conditions might have, their standing in the literature is hardly comparable to that of the original conditions. Conditional Independence, for instance, is an extremely powerful and intuitive concept which has been put to fruitful use in many areas in philosophy and computer science, the most spectacular example being the theory of Bayesian networks (Pearl, 1985). Similarly, the Nonfoundationalist condition is still the most widely used—and many would say most natural—way of stating, in the language of probability theory, that a testimony fails to support that which is testified. Thus, it would seem that coherentism is saved at the price of disconnecting it from the way in which probability theory is standardly applied. Roche (2010) criticizes Nonfoundationalism from another perspective. In his view, a close reading of BonJour reveals that the latter requires only that the witness reports lack individual credibility in the sense that $P(A \mid E_i) = 0.5$ and not in the sense of $P(A \mid E_i) = P(A)$, which is the condition we called Nonfoundationalism. Since the former does not entail the latter, coherentists, to the extent that they follow BonJour, need not worry about the joint inconsistency of Conditional Independence, Nonfoundationalism and Coherence Justification. Still, this account of what it means to lack initial credibility is non-standard if taken as a general characterization, and it may in the end be more charitable to interpret BonJour as not having subscribed to it. For an elaboration of this point the reader is referred to Olsson (2005, 65), footnote 4. In later works, BonJour has gradually distanced himself his original coherentist position (e.g., BonJour 1989 and 1999)[^bonjour-1989][^bonjour-1999].
+    step1: |-
+      无论休默的新条件有何优点，它们在文献中的地位几乎无法与原条件相比。例如，条件独立是一个极其强大而直观的概念，在哲学与计算机科学的许多领域都得到了富有成果的运用，最惊人的例子是贝叶斯网络理论（Pearl, 1985）。同样，非基础主义条件仍然是——许多人会说最自然的——用概率论语言表述“一项证词未能支持所证之事”的最广泛使用的方式。因此，融贯论似乎是以下列代价得救的：把它与概率论的标准应用方式脱钩。罗奇（2010）从另一个角度批评非基础主义。在他看来，仔细阅读邦久可以发现，后者只要求证人报告在 $P(A \mid E_i) = 0.5$ 的意义上缺乏个别可信性，而非在 $P(A \mid E_i) = P(A)$ 的意义上——后者才是我们称为非基础主义的条件。由于前者不蕴含后者，融贯论者就他们遵循邦久的程度而言，不必担心条件独立、非基础主义与融贯性证成的联合不一致。尽管如此，如果把这种对“缺乏初始可信性”意味什么的说明当作一般刻画，它却是非标准的，而且最终更宽容的做法是把邦久解释为并未接受它。关于这一点的详述，读者可参见奥尔森（2005, 65）脚注 4。在后来的著作中，邦久已逐渐疏远他最初的融贯论立场（例如 BonJour 1989 and 1999）[^bonjour-1989][^bonjour-1999]。
+    step2: |-
+      无论休默的新条件有何优点，它们在文献中的地位几乎无法与原条件相比。例如，条件独立是一个极其强大而直观的概念，在哲学与计算机科学的许多领域都得到了富有成果的运用，最惊人的例子是贝叶斯网络理论（Pearl, 1985）。同样，非基础主义条件仍然是——许多人会说最自然的——用概率论语言表述“一项证词未能支持所证之事”的最广泛使用的方式。因此，融贯论似乎是以下列代价得救的：把它与概率论的标准应用方式脱钩。罗奇（2010）从另一个角度批评非基础主义。在他看来，仔细阅读邦久可以发现，后者只要求证人报告在 $P(A \mid E_i) = 0.5$ 的意义上缺乏个别可信性，而非在 $P(A \mid E_i) = P(A)$ 的意义上——后者才是我们称为非基础主义的条件。由于前者不蕴含后者，融贯论者就他们遵循邦久的程度而言，不必担心条件独立、非基础主义与融贯性证成的联合不一致。尽管如此，如果把这种对“缺乏初始可信性”意味什么的说明当作一般刻画，它却是非标准的，而且最终更宽容的做法是把邦久解释为并未接受它。关于这一点的详述，读者可参见奥尔森（2005, 65）脚注 4。在后来的著作中，邦久已逐渐疏远他最初的融贯论立场（例如 BonJour 1989 and 1999）[^bonjour-1989][^bonjour-1999]。
+  - id: 69
+    kind: body
+    source: |-
+      ## 6. Probabilistic Measures of Coherence
+    step1: |-
+      ## 6 融贯的概率度量
+    step2: |-
+      ## 6 融贯的概率度量
+  - id: 70
+    kind: body
+    source: |-
+      We recall that Lewis’s defined coherence, or congruence, not for any old set of proposition but rather for a set of supposed facts asserted. One way to capture this idea is in terms of the notion of a testimonial system introduced in Olsson (2005). A testimonial system $S$ is a set $\{\langle E_1,A_1\rangle ,\ldots ,\langle E_n,A_n\rangle \}$ where $E_i$ is a report to the effect that $A_i$ is true. We will say that $A_i$ is the *content* of report $E_i$. The content of a testimonial system $S = \{\langle E_1,A_1\rangle , \ldots ,\langle E_n,A_n\rangle \}$ is the ordered set of report contents $\langle A_1 ,\ldots ,A_n\rangle$. By the degree of coherence $C(S)$ of such a testimonial system we will mean the degree of coherence *of its content*. Bovens and Hartmann (2003) proposed a similar representation of supposed facts asserted in terms of ordered sets.
+    step1: |-
+      我们记得，刘易斯所定义的融贯（或一致）不是针对任何任意的命题集合，而是针对一组被断定的所谓事实。把握这一观念的一种方式，是借助奥尔森（2005）引入的证言系统概念。一个证言系统 $S$ 是一个集合 $\{\langle E_1,A_1\rangle ,\ldots ,\langle E_n,A_n\rangle \}$，其中 $E_i$ 是关于 $A_i$ 为真的报告。我们说 $A_i$ 是报告 $E_i$ 的*内容*。证言系统 $S = \{\langle E_1,A_1\rangle , \ldots ,\langle E_n,A_n\rangle \}$ 的内容是报告内容的有序集 $\langle A_1 ,\ldots ,A_n\rangle$。所谓这样一个证言系统的融贯度 $C(S)$，我们指的是*其内容*的融贯度。博文斯与哈特曼（2003）提出了一种类似的以有序集表示被断定的所谓事实的方式。
+    step2: |-
+      我们记得，刘易斯所定义的融贯（或一致）不是针对任何任意的命题集合，而是针对一组被断定的所谓事实。把握这一观念的一种方式，是借助奥尔森（2005）引入的证言系统概念。一个证言系统 $S$ 是一个集合 $\{\langle E_1,A_1\rangle ,\ldots ,\langle E_n,A_n\rangle \}$，其中 $E_i$ 是关于 $A_i$ 为真的报告。我们说 $A_i$ 是报告 $E_i$ 的*内容*。证言系统 $S = \{\langle E_1,A_1\rangle , \ldots ,\langle E_n,A_n\rangle \}$ 的内容是报告内容的有序集 $\langle A_1 ,\ldots ,A_n\rangle$。所谓这样一个证言系统的融贯度 $C(S)$，我们指的是*其内容*的融贯度。博文斯与哈特曼（2003）提出了一种类似的以有序集表示被断定的所谓事实的方式。
+  - id: 71
+    kind: body
+    source: |-
+      To illustrate these concepts, consider a case in which all witnesses report exactly the same thing, e.g., that John was at the crime scene. That would be a paradigm case of a (highly) coherent set of reports. Now contrast this situation with one in which only one witness reports this. That would be a situation which would intuitively not qualify as coherent. Indeed, it does not even seem meaningful to apply the concept of coherence to a case of just one report (except in the trivial sense in which everything coheres with itself). Letting $A$ be the proposition “John was at the crime scene”, and $E_1 ,\ldots ,E_n$ the corresponding reports, this intuitive difference can be represented as the difference between two testimonial systems: $S = \{\langle E_1,A\rangle ,\ldots ,\langle E_n ,A\rangle \}$ and $S' = \{\langle E_1,A\rangle \}$. If, by contrast, the entities to which coherence applies are represented as simple unstructured sets, the sets of testimonies in question would be given the same formal representation in terms of the set having $A$ as its sole member.
+    step1: |-
+      为了说明这些概念，考虑所有证人都报告完全相同的事情的情形，例如约翰在犯罪现场。那将是（高度）融贯的报告集合的典型情形。现在把这一情形与只有一位证人如此报告的情形相对照。那将是一种在直觉上不配称为融贯的情形。事实上，把融贯概念应用于只有一份报告的情形似乎甚至没有意义（除了每一事物都与自身相融贯这一无关紧要的意义）。设 $A$ 为命题“约翰在犯罪现场”，$E_1 ,\ldots ,E_n$ 为相应报告，这一直觉差异可以表示为两个证言系统之间的差异：$S = \{\langle E_1,A\rangle ,\ldots ,\langle E_n ,A\rangle \}$ 与 $S' = \{\langle E_1,A\rangle \}$。相反，如果融贯所适用的实体被表示为简单的无结构集合，那么所讨论的这些证词集合就会以“以 $A$ 为唯一成员的集合”这种形式得到相同的表示。
+    step2: |-
+      为了说明这些概念，考虑所有证人都报告完全相同的事情的情形，例如约翰在犯罪现场。那将是（高度）融贯的报告集合的典型情形。现在把这一情形与只有一位证人如此报告的情形相对照。那将是一种在直觉上不配称为融贯的情形。事实上，把融贯概念应用于只有一份报告的情形似乎甚至没有意义（除了每一事物都与自身相融贯这一无关紧要的意义）。设 $A$ 为命题“约翰在犯罪现场”，$E_1 ,\ldots ,E_n$ 为相应报告，这一直觉差异可以表示为两个证言系统之间的差异：$S = \{\langle E_1,A\rangle ,\ldots ,\langle E_n ,A\rangle \}$ 与 $S' = \{\langle E_1,A\rangle \}$。相反，如果融贯所适用的实体被表示为简单的无结构集合，那么所讨论的这些证词集合就会以“以 $A$ 为唯一成员的集合”这种形式得到相同的表示。
+  - id: 72
+    kind: body
+    source: |-
+      By a (probabilistic) coherence measure, as defined for ordered sets of propositions, we shall mean any numerical measure $C(A_1 ,\ldots ,A_n)$ defined solely in terms of the probability of $A_1 ,\ldots ,A_n$ (and their Boolean combinations) and standard arithmetical operations (Olsson, 2002). This definition makes the degree of coherence of a set of witness reports a function of the probability of the report contents (and their Boolean combinations). Huemer (2011, 45) refers to this consequence as the Content Determination Thesis. We will return to the status of this thesis in section 8, in connection with the recent impossibility results for coherence. A reasonable constraint on any coherence measure is that the degree of coherence of an ordered set should be independent of the particular way in which the content propositions are listed. Thus, $C(\langle A_1,A_2 , \ldots ,A_n\rangle) = C(\langle B_1,B_2 , \ldots ,B_n\rangle)$ whenever $\langle B_1,B_2 , \ldots ,B_n\rangle$ is a permutation of $\langle A_1,A_2 , \ldots ,A_n\rangle$. This is a formal way of stating that all propositions in the relevant set should be treated as epistemic equals. All measures that will be discussed below satisfy this condition.
+    step1: |-
+      所谓（概率性的）融贯度，就命题的有序集所定义者而言，我们指的是任何仅以 $A_1 ,\ldots ,A_n$ 的概率（及其布尔组合）与标准算术运算来定义的数值测度 $C(A_1 ,\ldots ,A_n)$（Olsson, 2002）。这一定义使一组证人报告的融贯度成为报告内容（及其布尔组合）的概率的函数。休默（2011, 45）把这一后承称为内容决定论题。我们将在第 8 节结合近期关于融贯的不可行性结果回到这一论题的地位。对任何融贯度而言，一个合理的约束是：一个有序集的融贯度应当独立于内容命题被列举的特定方式。于是，只要 $\langle B_1,B_2 , \ldots ,B_n\rangle$ 是 $\langle A_1,A_2 , \ldots ,A_n\rangle$ 的一个排列，就有 $C(\langle A_1,A_2 , \ldots ,A_n\rangle) = C(\langle B_1,B_2 , \ldots ,B_n\rangle)$。这是把“相关集合中的全部命题都应被视为认识论上的平等者”这一主张加以形式化的方式。下面将讨论的所有测度都满足这一条件。
+    step2: |-
+      所谓（概率性的）融贯度，就命题的有序集所定义者而言，我们指的是任何仅以 $A_1 ,\ldots ,A_n$ 的概率（及其布尔组合）与标准算术运算来定义的数值测度 $C(A_1 ,\ldots ,A_n)$（Olsson, 2002）。这一定义使一组证人报告的融贯度成为报告内容（及其布尔组合）的概率的函数。休默（2011, 45）把这一后承称为内容决定论题。我们将在第 8 节结合近期关于融贯的不可行性结果回到这一论题的地位。对任何融贯度而言，一个合理的约束是：一个有序集的融贯度应当独立于内容命题被列举的特定方式。于是，只要 $\langle B_1,B_2 , \ldots ,B_n\rangle$ 是 $\langle A_1,A_2 , \ldots ,A_n\rangle$ 的一个排列，就有 $C(\langle A_1,A_2 , \ldots ,A_n\rangle) = C(\langle B_1,B_2 , \ldots ,B_n\rangle)$。这是把“相关集合中的全部命题都应被视为认识论上的平等者”这一主张加以形式化的方式。下面将讨论的所有测度都满足这一条件。
+  - id: 73
+    kind: body
+    source: |-
+      Our starting point will be an attempt to identify the degree of coherence of a set with its joint probability:
+
+      $$ C_0 (A,B) = P(A\wedge B) $$
+    step1: |-
+      我们的出发点是试图把一个集合的融贯度等同于它的联合概率：
+
+      $$ C_0 (A,B) = P(A\wedge B) $$
+    step2: |-
+      我们的出发点是试图把一个集合的融贯度等同于它的联合概率：
+
+      $$ C_0 (A,B) = P(A\wedge B) $$
+  - id: 74
+    kind: body
+    source: |-
+      However, it is easily seen that this is not a plausible proposal. Consider the following two cases. Case 1: Two witnesses point out the same person as the perpetrator, John, say. Case 2: One witness states that John or James did it, and the other witness that John or Mary did it. Since the joint probability is the same in both cases, equaling the probability that John did it, they yield the same degree of coherence as measured by $C_0$. And yet, the reports in the first case are more coherent from a presystematic standpoint because the witnesses are in complete agreement.
+    step1: |-
+      然而，不难看出这不是一个合理的主张。考虑以下两种情形。情形一：两位证人指出同一人为作案者，例如约翰。情形二：一位证人陈述约翰或詹姆斯作案，另一位证人陈述约翰或玛丽作案。由于两种情形的联合概率相同，都等于约翰作案的概率，它们按 $C_0$ 度量会产生相同的融贯度。然而，从系统前立场看，第一种情形的报告更融贯，因为两位证人完全一致。
+    step2: |-
+      然而，不难看出这不是一个合理的主张。考虑以下两种情形。情形一：两位证人指出同一人为作案者，例如约翰。情形二：一位证人陈述约翰或詹姆斯作案，另一位证人陈述约翰或玛丽作案。由于两种情形的联合概率相同，都等于约翰作案的概率，它们按 $C_0$ 度量会产生相同的融贯度。然而，从系统前立场看，第一种情形的报告更融贯，因为两位证人完全一致。
+  - id: 75
+    kind: body
+    source: |-
+      One way of handling this example would be to define coherence as relative overlap, in the following sense (Glass 2002, Olsson 2002)[^glass-2002][^olsson-2002]:
+
+      $$ C_1 (A,B) = \frac{P(A\wedge B)} {P(A\vee B)} $$
+    step1: |-
+      处理这一例子的一种方式是以下述意义把融贯定义为相对重叠（Glass 2002, Olsson 2002）[^glass-2002][^olsson-2002]：
+
+      $$ C_1 (A,B) = \frac{P(A\wedge B)} {P(A\vee B)} $$
+    step2: |-
+      处理这一例子的一种方式是以下述意义把融贯定义为相对重叠（Glass 2002, Olsson 2002）[^glass-2002][^olsson-2002]：
+
+      $$ C_1 (A,B) = \frac{P(A\wedge B)} {P(A\vee B)} $$
+  - id: 76
+    kind: body
+    source: |-
+      $C_1 (A,B)$, which also takes on values between 0 and 1, measures how much of the total probability mass assigned to either $A$ or $B$ falls into their intersection. The degree of coherence is 0 if and only if $P(A\wedge B) = 0$, i.e., just in case $A$ and $B$ do not overlap at all, and it is 1 if and only if $P(A\wedge B) = P(A\vee B)$, i.e., just in case $A$ and $B$ coincide. The measure is straightforwardly generalizable:
+
+      $$ C_1 (A_1 ,\ldots A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)} {P(A_1\vee \ldots \vee A_n)} $$
+    step1: |-
+      $C_1 (A,B)$ 也在 0 与 1 之间取值，它度量的是赋予 $A$ 或 $B$ 的总概率质量中有多少落入它们的交集。融贯度为 0，当且仅当 $P(A\wedge B) = 0$，即 $A$ 与 $B$ 完全不相交；融贯度为 1，当且仅当 $P(A\wedge B) = P(A\vee B)$，即 $A$ 与 $B$ 重合。这一测度可以直接推广：
+
+      $$ C_1 (A_1 ,\ldots A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)} {P(A_1\vee \ldots \vee A_n)} $$
+    step2: |-
+      $C_1 (A,B)$ 也在 0 与 1 之间取值，它度量的是赋予 $A$ 或 $B$ 的总概率质量中有多少落入它们的交集。融贯度为 0，当且仅当 $P(A\wedge B) = 0$，即 $A$ 与 $B$ 完全不相交；融贯度为 1，当且仅当 $P(A\wedge B) = P(A\vee B)$，即 $A$ 与 $B$ 重合。这一测度可以直接推广：
+
+      $$ C_1 (A_1 ,\ldots A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)} {P(A_1\vee \ldots \vee A_n)} $$
+  - id: 77
+    kind: body
+    source: |-
+      This measure assigns the same coherence value, namely 1, to all cases of total agreement, regardless of the number of witnesses that are involved. Against this it may be objected that agreement among the many is more coherent than agreement among the few, an intuition that can be accounted for by the following alternative measure introduced by Shogenji (1999):
+
+      $$ C_2 (A,B) = \frac{P(A \mid B)}{P(A)} = \frac{P(A\wedge B)}{P(A)\times P(B)} $$
+    step1: |-
+      这一测度对所有完全一致的情形都赋予相同的融贯值，即 1，无论涉及多少位证人。对此可以反驳说，多数人之间的一致比少数人之间的一致更融贯；这一直觉可以由将司（1999）引入的以下替代测度来说明：
+
+      $$ C_2 (A,B) = \frac{P(A \mid B)}{P(A)} = \frac{P(A\wedge B)}{P(A)\times P(B)} $$
+    step2: |-
+      这一测度对所有完全一致的情形都赋予相同的融贯值，即 1，无论涉及多少位证人。对此可以反驳说，多数人之间的一致比少数人之间的一致更融贯；这一直觉可以由将司（1999）引入的以下替代测度来说明：
+
+      $$ C_2 (A,B) = \frac{P(A \mid B)}{P(A)} = \frac{P(A\wedge B)}{P(A)\times P(B)} $$
+  - id: 78
+    kind: body
+    source: |-
+      or, as Shogenji proposes to generalize it,
+
+      $$ C_2 (A_1 ,\ldots ,A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)}{P(A_1)\times \ldots \times P(A_n)} $$
+    step1: |-
+      或者，按将司提出的推广方式，
+
+      $$ C_2 (A_1 ,\ldots ,A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)}{P(A_1)\times \ldots \times P(A_n)} $$
+    step2: |-
+      或者，按将司提出的推广方式，
+
+      $$ C_2 (A_1 ,\ldots ,A_n) = \frac{P(A_1\wedge \ldots \wedge A_n)}{P(A_1)\times \ldots \times P(A_n)} $$
+  - id: 79
+    kind: body
+    source: |-
+      It is easy to see that this measure is sensitive, in the way we suggested, to the number of reports in cases of total agreement: $n$ agreeing reports correspond to a coherence value of $\bfrac{1}{P(A)^{n-1}}$, meaning that as $n$ approaches infinity, so does the degree of coherence. Like the other measures, $C_2 (A,B)$ equals 0 if and only if $A$ and $B$ do not overlap. An alternative generalization of the Shogenji measure is presented in Shupbach (2011). However, whatever its philosophical merits, Schupbach’s proposal is considerably more complex than Shogenji’s original suggestion. Akiba (2000) and Moretti and Akiba (2007) raise a number of worries for the Shogenji measure and for probabilistic measures of coherence generally but they seem to be predicated on the assumption that the concept of coherence is interestingly applicable to unordered sets of propositions, an assumption that we found reason to question above.
+    step1: |-
+      不难看出，在完全一致的情形下，这一测度如我们所提示的那样对报告的数量敏感：$n$ 份一致的报告对应融贯值 $\bfrac{1}{P(A)^{n-1}}$，这意味着随着 $n$ 趋于无穷大，融贯度也趋于无穷大。与其他测度一样，$C_2 (A,B)$ 等于 0，当且仅当 $A$ 与 $B$ 不相交。将司测度的一个替代推广见舒普巴赫（2011）。然而，无论其哲学优点如何，舒普巴赫的主张都远比将司最初的建议复杂。秋叶（2000）与莫雷蒂和秋叶（2007）对将司测度以及一般的概率性融贯测度提出了若干担忧，但它们似乎以这样一个假定为前提：融贯概念可有趣地适用于无序的命题集合——而我们在上面已找到质疑这一假定的理由。
+    step2: |-
+      不难看出，在完全一致的情形下，这一测度如我们所提示的那样对报告的数量敏感：$n$ 份一致的报告对应融贯值 $\bfrac{1}{P(A)^{n-1}}$，这意味着随着 $n$ 趋于无穷大，融贯度也趋于无穷大。与其他测度一样，$C_2 (A,B)$ 等于 0，当且仅当 $A$ 与 $B$ 不相交。将司测度的一个替代推广见舒普巴赫（2011）。然而，无论其哲学优点如何，舒普巴赫的主张都远比将司最初的建议复杂。秋叶（2000）与莫雷蒂和秋叶（2007）对将司测度以及一般的概率性融贯测度提出了若干担忧，但它们似乎以这样一个假定为前提：融贯概念可有趣地适用于无序的命题集合——而我们在上面已找到质疑这一假定的理由。
+  - id: 80
+    kind: body
+    source: |-
+      $C_1$ and $C_2$ can also be contrasted with regard to their sensitivity to the specificity of the propositions involved. Consider two cases. The first case involves two witnesses both claiming that John committed the crime. The second case involves two witnesses both making the weaker disjunctive claim that John, Paul or Mary committed the crime. Which pair of witnesses are delivering the more coherent set? One way to reason is as follows. Since both cases involve fully agreeing testimonies, the degree of coherence should be the same. This is also the result we get if we apply $C_1$. But one could maintain instead that since the first two witnesses agree on something more specific—a particular individual’s guilt—the degree of coherence should be higher. This is what we get if we apply $C_2$. In an attempt at reconciliation, Olsson (2002) suggested that $C_1$ and $C_2$ may capture two different concepts of coherence. While $C_1$ measures the degree of agreement of a set, $C_2$ is more plausible as a measure of how *striking* the agreement is. See Olsson (2022) for an extended discussion of this point.
+    step1: |-
+      $C_1$ 与 $C_2$ 也可以在它们对所涉命题之特殊性的敏感度上加以对照。考虑两种情形。第一种情形涉及两位证人都主张约翰犯了罪。第二种情形涉及两位证人都作出更弱的选言主张：约翰、保罗或玛丽犯了罪。哪一对证人给出了更融贯的集合？一种推理方式如下：既然两种情形都涉及完全一致的证词，融贯度应当相同。这也是我们应用 $C_1$ 所得到的结果。但人们可以转而主张：既然前两位证人在更特殊的东西——某个特定个体的罪行——上一致，融贯度应当更高。这正是我们应用 $C_2$ 所得到的结果。为了调和，奥尔森（2002）提出 $C_1$ 与 $C_2$ 可能把握了两种不同的融贯概念：$C_1$ 度量一个集合的一致程度，而 $C_2$ 作为对一致有多*惊人*的度量更为合理。关于这一点的详细讨论，见奥尔森（2022）。
+    step2: |-
+      $C_1$ 与 $C_2$ 也可以在它们对所涉命题之特殊性的敏感度上加以对照。考虑两种情形。第一种情形涉及两位证人都主张约翰犯了罪。第二种情形涉及两位证人都作出更弱的选言主张：约翰、保罗或玛丽犯了罪。哪一对证人给出了更融贯的集合？一种推理方式如下：既然两种情形都涉及完全一致的证词，融贯度应当相同——这也是我们应用 $C_1$ 所得到的结果。但人们可以转而主张：既然前两位证人在更特殊的东西——某个特定个体的罪行——上一致，融贯度应当更高，这正是我们应用 $C_2$ 所得到的结果。为了调和，奥尔森（2002）提出 $C_1$ 与 $C_2$ 可能把握了两种不同的融贯概念：$C_1$ 度量一个集合的一致程度，而 $C_2$ 作为对一致有多*惊人*的度量更为合理。关于这一点的详细讨论，见奥尔森（2022）。
+  - id: 81
+    kind: body
+    source: |-
+      Recently, however, Koscholke and Schippers (2015) have noted a counterintuitive feature of $C_1$: that it is impossible to increase a set’s degree of coherence by adding further propositions to the set. They also show that according to a more sophisticated relative overlap measure which avoids this issue no set’s degree of coherence exceeds the degree of coherence of its maximally coherent subset. On the other hand, they also prove in a later article, in collaboration with Stegman, that there is a further relative overlap measure which avoids both these problems and which therefore in their view re-establishes relative overlap as a candidate for a proper formalization of coherence (Koscholke, Schippers and Stegman, 2019).
+    step1: |-
+      然而最近，科朔尔克与席佩斯（2015）指出了 $C_1$ 的一个反直觉特征：通过向集合添加更多命题来提高一个集合的融贯度是不可能的。他们还表明，按照一种避免这一问题的更精细的相对重叠测度，没有任何集合的融贯度会超过其最大融贯子集的融贯度。另一方面，他们在后来与斯特格曼合作的文章中还证明，存在一种避免了这两个问题的进一步相对重叠测度，因此在他们看来，它重新确立相对重叠作为融贯之恰当形式化的候选（Koscholke, Schippers and Stegman, 2019）。
+    step2: |-
+      然而最近，科朔尔克与席佩斯（2015）指出了 $C_1$ 的一个反直觉特征：通过向集合添加更多命题来提高一个集合的融贯度是不可能的。他们还表明，按照一种避免这一问题的更精细的相对重叠测度，没有任何集合的融贯度会超过其最大融贯子集的融贯度。另一方面，他们在后来与斯特格曼合作的文章中还证明，存在一种避免了这两个问题的进一步相对重叠测度，因此在他们看来，它重新确立相对重叠作为融贯之恰当形式化的候选（Koscholke, Schippers and Stegman, 2019）。
+  - id: 82
+    kind: body
+    source: |-
+      A further much discussed measure is that proposed in Fitelson (2003). It is based on the intuition that the degree of coherence of a set $E$ should be “a quantitative, probabilistic generalization of the (deductive) logical coherence of $E$” (ibid., 194). Fitelson takes it to be a consequence of this idea that a maximum (constant) degree of coherence is attained if the propositions in $E$ are all logically equivalent (and consistent). This is in accordance with $C_1$ but not with $C_2$, which as we saw is sensitive to the specificity (prior probability) of the propositions involved. Fitelson, who approached the subject from the standpoint of confirmation theory, proposed a complex coherence measure based on Kemeny and Oppenheim’s (1952) measure of factual support. A further innovative idea is that Fitelson extends this measure to take into account support relations holding between *all* subsets in the set $E$, whereas Lewis, we recall, only considered the support relation holding between one element and the rest. The degree of coherence of a set, finally, is defined as the mean support among the subsets of $E$. An alleged counterexample to this measure can be found in Siebel (2004) and criticisms and proposed amendments in Meijs (2006). An extended critique of “subset measures”, i.e. measures that require extensive computation of support relations between subsets, can be found in Olsson (2022). Olsson’s criticism focuses on problems of epistemic access (computational complexity), probability assessment and excessive support. The reader may wish to consult Bovens and Hartmann (2003), Douven and Meijs (2007), Roche (2013a), Shippers (2014a), Koscholke (2016) and Hartmann and Trpin (forthcoming) for further coherence measures and how they fare in relation to test cases in the literature, and Koscholke and Jekel (2017) for an empirical study of coherence assessments drawing on similar examples. The latter study indicates that the measures by Douven and Meijs and by Roche are more in line with intuitive judgement than other established measures. Olsson’s 2022 treatise is an updated defense of the Glass-Olsson measure ($C_1$), not as a conceptual analysis but as an explication in the sense of Carnap (1950). Finally, some authors have applied coherence measures to inconsistent sets, e.g., Schippers (2014b) and Schippers and Siebel (2015).
+    step1: |-
+      另一个广受讨论的测度是菲特尔森（2003）提出的。它基于这一直觉：一个集合 $E$ 的融贯度应当是“$E$ 的（演绎的）逻辑融贯性的一个定量的、概率性的推广”（ibid., 194）。菲特尔森认为，这一观念的一个后承是：如果 $E$ 中的命题全部逻辑等价（且一致），就达到一个极大（恒定）的融贯度。这与 $C_1$ 一致，却不与 $C_2$ 一致——正如我们看到的，$C_2$ 对所涉命题的特殊性（先验概率）敏感。菲特尔森从确认理论的立场接近这一主题，提出了一种基于凯梅尼与奥本海姆（1952）的事实支持测度的复杂融贯测度。另一个创新之处在于，菲特尔森把这一测度扩展到考虑集合 $E$ 中*所有*子集之间的支持关系，而我们记得，刘易斯只考虑一个元素与其余元素之间的支持关系。最后，一个集合的融贯度被定义为该集合各子集之间的平均支持。这一测度的一个所谓反例见西贝尔（2004），批评与修正建议见迈斯（2006）。对“子集测度”即要求大量计算子集间支持关系的测度的一个详细批评，见奥尔森（2022）。奥尔森的批评聚焦于认知可及问题（计算复杂性）、概率评估与过度支持。读者可参见博文斯与哈特曼（2003）、杜文与迈斯（2007）、罗奇（2013a）、席佩斯（2014a）、科朔尔克（2016）与哈特曼和特平（即将出版），以了解进一步融贯测度及其在文献测试案例中的表现；并参见科朔尔克与耶克尔（2017）关于利用类似例子的融贯评估的实证研究。后一项研究表明，杜文与迈斯以及罗奇的测度比其他既有测度更符合直觉判断。奥尔森 2022 年的专论是对格拉斯—奥尔森测度（$C_1$）的更新辩护，不是作为概念分析，而是作为卡尔纳普（1950）意义上的阐释。最后，一些作者把融贯测度应用于不一致的集合，例如席佩斯（2014b）与席佩斯和西贝尔（2015）。
+    step2: |-
+      另一个广受讨论的测度是菲特尔森（2003）提出的。它基于这一直觉：一个集合 $E$ 的融贯度应当是“$E$ 的（演绎的）逻辑融贯性的一个定量的、概率性的推广”（ibid., 194）。菲特尔森认为，这一观念的一个后承是：如果 $E$ 中的命题全部逻辑等价（且一致），就达到一个极大（恒定）的融贯度。这与 $C_1$ 一致，却不与 $C_2$ 一致——正如我们看到的，$C_2$ 对所涉命题的特殊性（先验概率）敏感。菲特尔森从确认理论的立场接近这一主题，提出了一种基于凯梅尼与奥本海姆（1952）的事实支持测度的复杂融贯测度。另一个创新之处在于，菲特尔森把这一测度扩展到考虑集合 $E$ 中*所有*子集之间的支持关系，而我们记得，刘易斯只考虑一个元素与其余元素之间的支持关系。最后，一个集合的融贯度被定义为该集合各子集之间的平均支持。这一测度的一个所谓反例见西贝尔（2004），批评与修正建议见迈斯（2006）。对“子集测度”即要求大量计算子集间支持关系的测度的一个详细批评，见奥尔森（2022）。奥尔森的批评聚焦于认知可及问题（计算复杂性）、概率评估与过度支持。读者可参见博文斯与哈特曼（2003）、杜文与迈斯（2007）、罗奇（2013a）、席佩斯（2014a）、科朔尔克（2016）与哈特曼和特平（即将出版），以了解进一步融贯测度及其在文献测试案例中的表现；并参见科朔尔克与耶克尔（2017）关于利用类似例子的融贯评估的实证研究。后一项研究表明，杜文与迈斯以及罗奇的测度比其他既有测度更符合直觉判断。奥尔森 2022 年的专论是对格拉斯—奥尔森测度（$C_1$）的更新辩护，不是作为概念分析，而是作为卡尔纳普（1950）意义上的阐释。最后，一些作者把融贯测度应用于不一致的集合，例如席佩斯（2014b）与席佩斯和西贝尔（2015）。
+  - id: 83
+    kind: body
+    source: |-
+      It is fair to say that coherence theorists have yet to reach anything like consensus on how best to define coherence in probabilistic terms. Nevertheless, the debate so far has given rise to a much more fine-grained understanding of what the options are and what consequences they have. The probably most notable result of this debate outside philosophy is the application of probabilistic coherence measures to “topic coherence” in AI, where a topic is viewed as a set of keywords giving the gist of a text (e.g. a blog entry or a newspaper article). Newman et al. (2010) are credited for the idea of the coherence of a topic being a significant factor aiding understanding. However, their article does not refer to the philosophical literature on coherence measures. Ideally, evaluating the coherence of a topic should be automatic. Röder et al. (2015) suggested using known probabilistic coherence measures for this purpose, taking as their point of departure the measures proposed by Bovens and Hartmann (2003), Douven and Meijs (2007), Fitelson (2003), Olsson (2002) and Shogenji (1999). Röder et al. proceed to define the concept of a coherence measures abstractly, and they show that a new measure they construct performs better (in terms of giving rise to a stronger correlation with user assessments of topic coherence) than the above known measures. Returning to philosophy, some quite surprising conclusions can be drawn for epistemological purposes even without philosophers agreeing on how to measure coherence: all we need to assume in order to prove that no coherence measure can be truth conducive, in a sense to be explained, is that those measures respect the aforementioned Content Determination Thesis.
+    step1: |-
+      可以公正地说，融贯论者尚未就如何以概率术语最好地定义融贯达成任何共识。尽管如此，迄今的争论已使人们更精细地理解有哪些选项及其后果。这一争论在哲学之外最显著的成果，也许是概率性融贯测度在人工智能中“主题融贯”上的应用，其中主题被视为给出文本要旨的一组关键词（例如一篇博客或一篇报纸文章）。纽曼等人（2010）因提出“主题的融贯是促进理解的一个重要因素”这一观念而受到赞誉。然而，他们的文章并未参考关于融贯测度的哲学文献。理想情况下，评估一个主题的融贯应当是自动的。勒德等人（2015）建议为此目的使用已知的概率性融贯测度，其出发点是博文斯与哈特曼（2003）、杜文与迈斯（2007）、菲特尔森（2003）、奥尔森（2002）与将司（1999）提出的测度。勒德等人进而抽象地定义了融贯测度的概念，并表明他们所构造的一个新测度表现优于上述已知测度（在与用户对主题融贯之评估产生更强相关方面）。回到哲学，即使哲学家们未就如何度量融贯达成一致，也能为认识论目的得出一些相当令人惊讶的结论：为了证明没有融贯测度能导向真理（其意义后文说明），我们只需假定这些测度尊重前述内容决定论题。
+    step2: |-
+      可以公正地说，融贯论者尚未就如何以概率术语最好地定义融贯达成任何共识。尽管如此，迄今的争论已使人们更精细地理解有哪些选项及其后果。这一争论在哲学之外最显著的成果，也许是概率性融贯测度在人工智能中“主题融贯”上的应用，其中主题被视为给出文本要旨的一组关键词（例如一篇博客或一篇报纸文章）。纽曼等人（2010）因提出“主题的融贯是促进理解的一个重要因素”这一观念而受到赞誉。然而，他们的文章并未参考关于融贯测度的哲学文献。理想情况下，评估一个主题的融贯应当是自动的。勒德等人（2015）建议为此目的使用已知的概率性融贯测度，其出发点是博文斯与哈特曼（2003）、杜文与迈斯（2007）、菲特尔森（2003）、奥尔森（2002）与将司（1999）提出的测度。勒德等人进而抽象地定义了融贯测度的概念，并表明他们所构造的一个新测度表现优于上述已知测度（在与用户对主题融贯之评估产生更强相关方面）。回到哲学，即使哲学家们未就如何度量融贯达成一致，也能为认识论目的得出一些相当令人惊讶的结论：为了证明没有融贯测度能导向真理（其意义后文说明），我们只需假定这些测度尊重前述内容决定论题。
+  - id: 84
+    kind: body
+    source: |-
+      ## 7. Truth Conduciveness: the *Analysis* Debate
+    step1: |-
+      ## 7 真之引导性：《分析》之争
+    step2: |-
+      ## 7 真之引导性：《分析》之争
+  - id: 85
+    kind: body
+    source: |-
+      Peter Klein and Ted Warfield’s 1994 paper in *Analysis* initiated a lively and instructive debate on the relationship between coherence and probability (e.g., Klein and Warfield 1994 and 1996, Merricks 1995, Shogenji 1999, Cross 1999, Akiba 2000, Olsson 2001, Fitelson 2003 and Siebel 2004)[^akiba-2000][^cross-1999][^fitelson-2003][^klein-1994][^klein-1996][^merricks-1995][^olsson-2001][^shogenji-1999][^siebel-2004]. According to Klein and Warfield, just because one set of beliefs is more coherent than another set, this does not mean that the first set is more likely to be true. On the contrary, a higher degree of coherence can, so they claimed, be associated with a lower probability of the whole set. The idea behind their reasoning is simple: We can often raise the coherence of an informational set by adding more information that explains the information already in the set. But as more genuinely new information is added, the probability that all the elements of the set are true is correspondingly diminished. This, Klein and Warfield wrote, follows from the well-known inverse relationship between probability and informational content. They concluded that coherence is not truth conducive.
+    step1: |-
+      彼得·克莱因与特德·沃菲尔德 1994 年在《分析》（*Analysis*）上发表的论文，引发了一场关于融贯与概率之关系的生动而富有教益的争论（例如 Klein and Warfield 1994 and 1996, Merricks 1995, Shogenji 1999, Cross 1999, Akiba 2000, Olsson 2001, Fitelson 2003 and Siebel 2004）[^akiba-2000][^cross-1999][^fitelson-2003][^klein-1994][^klein-1996][^merricks-1995][^olsson-2001][^shogenji-1999][^siebel-2004]。按照克莱因与沃菲尔德，一个信念集合比另一个集合更融贯，并不表示第一个集合更可能为真。相反，他们声称，更高的融贯度可以与整个集合更低的概率相关联。他们推理背后的观念很简单：我们常常可以通过添加更多信息来提高一个信息集合的融贯，这些新信息解释集合中已有的信息。但随着真正新的信息被添加，集合所有元素都为真的概率相应地降低。克莱因与沃菲尔德写道，这来自概率与信息内容之间众所周知的逆关系。他们得出结论：融贯不导向真理。
+    step2: |-
+      彼得·克莱因与特德·沃菲尔德 1994 年在《分析》（*Analysis*）上发表的论文，引发了一场关于融贯与概率之关系的生动而富有教益的争论（例如 Klein and Warfield 1994 and 1996, Merricks 1995, Shogenji 1999, Cross 1999, Akiba 2000, Olsson 2001, Fitelson 2003 and Siebel 2004）[^akiba-2000][^cross-1999][^fitelson-2003][^klein-1994][^klein-1996][^merricks-1995][^olsson-2001][^shogenji-1999][^siebel-2004]。按照克莱因与沃菲尔德，一个信念集合比另一个集合更融贯，并不表示第一个集合更可能为真。相反，他们声称，更高的融贯度可以与整个集合更低的概率相关联。他们推理背后的观念很简单：我们常常可以通过添加更多信息来提高一个信息集合的融贯，这些新信息解释集合中已有的信息。但随着真正新的信息被添加，集合所有元素都为真的概率相应地降低。克莱因与沃菲尔德写道，这来自概率与信息内容之间众所周知的逆关系。他们得出结论：融贯不导向真理。
+  - id: 86
+    kind: body
+    source: |-
+      Much in the spirit of C. I. Lewis, Klein and Warfield illustrated their argument referring to a detective story (the so-called “Dunnit example”). It turns out that this example is unnecessarily complex and that the main point can be illustrated by reference to a simpler case (borrowed from computer science where it is used to exemplify the concept of non-monotonic inference). Suppose that you are told by one source, Jane, that Tweety is a bird and by another source, Carl, that Tweety cannot fly. The resulting information set $S = \langle$“Tweety is a bird”, “Tweety cannot fly”$\rangle$ is not particularly coherent from an intuitive standpoint. Nor is it coherent from the point of view of Lewis’s definition: assuming one of the items true decreases the probability of the other. At this point, it would be reasonable to conjecture that either Jane or Carl is not telling the truth. However, upon consulting a further source, Rick, we receive the information that Tweety is a penguin. The new set $S' = \langle$“Tweety is a bird”, “Tweety cannot fly”, “Tweety is a penguin”$\rangle$ is surely more coherent than $S$. In explaining the previous anomaly, the information supplied by Rick contributes to the explanatory coherence of the set.
+    step1: |-
+      大体上沿袭 C. I. 刘易斯的精神，克莱因与沃菲尔德借助一个侦探故事（所谓的“邓尼特例”）来说明他们的论证。结果证明这一例子不必要的复杂，主要论点可以参照一个更简单的例子来说明（借自计算机科学，在那里它被用来例示非单调推理概念）。假设一个来源简告诉你图伊蒂（Tweety）是一只鸟，另一个来源卡尔告诉你图伊蒂不能飞。所得到的信息集合 $S = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”$\rangle$ 从直觉立场看并不特别融贯。从刘易斯定义的角度看它也不融贯：假定其中一项为真会降低另一项的概率。此时，合理的猜测是简或卡尔没有说真话。然而，在咨询进一步来源里克后，我们得到图伊蒂是一只企鹅的信息。新集合 $S' = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”，“图伊蒂是一只企鹅”$\rangle$ 肯定比 $S$ 更融贯。在解释先前反常时，里克提供的信息贡献于该集合的解释性融贯。
+    step2: |-
+      大体上沿袭 C. I. 刘易斯的精神，克莱因与沃菲尔德借助一个侦探故事（所谓的“邓尼特例”）来说明他们的论证。结果证明这一例子不必要的复杂，主要论点可以参照一个更简单的例子来说明（借自计算机科学，在那里它被用来例示非单调推理概念）。假设一个来源简告诉你图伊蒂（Tweety）是一只鸟，另一个来源卡尔告诉你图伊蒂不能飞。所得到的信息集合 $S = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”$\rangle$ 从直觉立场看并不特别融贯；从刘易斯定义的角度看它也不融贯：假定其中一项为真会降低另一项的概率。此时，合理的猜测是简或卡尔没有说真话。然而，在咨询进一步来源里克后，我们得到图伊蒂是一只企鹅的信息。新集合 $S' = \langle$“图伊蒂是一只鸟”，“图伊蒂不能飞”，“图伊蒂是一只企鹅”$\rangle$ 肯定比 $S$ 更融贯。在解释先前反常时，里克提供的信息贡献于该集合的解释性融贯。
+  - id: 87
+    kind: body
+    source: |-
+      The new enlarged set $S'$ is more coherent than the original smaller set $S$. And yet $S$, being less informative, is more probable than $S'$: the conjunction of all the propositions in $S$ is more probable than the conjunction of all the propositions in $S'$. Hence, more coherence does not necessarily imply higher likelihood of truth in the sense of higher joint probability. Klein and Warfield seem to be right: coherence is not truth conducive.
+    step1: |-
+      新的扩大集合 $S'$ 比原来的较小集合 $S$ 更融贯。然而 $S$ 因信息更少而比 $S'$ 更可能：$S$ 中全部命题的合取比 $S'$ 中全部命题的合取更可能。因此，更多融贯并不必然意味着更高联合概率意义上的更高为真可能。克莱因与沃菲尔德似乎是对的：融贯不导向真理。
+    step2: |-
+      新的扩大集合 $S'$ 比原来的较小集合 $S$ 更融贯。然而 $S$ 因信息更少而比 $S'$ 更可能：$S$ 中全部命题的合取比 $S'$ 中全部命题的合取更可能。因此，更多融贯并不必然意味着更高联合概率意义上的更高为真可能。克莱因与沃菲尔德似乎是对的：融贯不导向真理。
+  - id: 88
+    kind: body
+    source: |-
+      But, as will soon be clear, this conclusion is premature. As a preliminary, let us state Klein and Warfield’s argument more formally using the following abbreviations:
+    step1: |-
+      但正如很快会清楚的，这一结论为时过早。作为预备，让我们使用以下缩写更形式化地陈述克莱因与沃菲尔德的论证：
+    step2: |-
+      但正如很快会清楚的，这一结论为时过早。作为预备，让我们使用以下缩写更形式化地陈述克莱因与沃菲尔德的论证：
+  - id: 89
+    kind: body
+    source: |-
+      | $A_1 =$ | “Tweety is a bird.” |
+      | --- | --- |
+      | $A_2 =$ | “Tweety cannot fly.” |
+      | $A_3 =$ | “Tweety is a penguin.” |
+    step1: |-
+      | $A_1 =$ | “图伊蒂是一只鸟。” |
+      | :---: | :---: |
+      | $A_2 =$ | “图伊蒂不能飞。” |
+      | $A_3 =$ | “图伊蒂是一只企鹅。” |
+    step2: |-
+      | $A_1 =$ | “图伊蒂是一只鸟。” |
+      | :---: | :---: |
+      | $A_2 =$ | “图伊蒂不能飞。” |
+      | $A_3 =$ | “图伊蒂是一只企鹅。” |
+  - id: 90
+    kind: body
+    source: |-
+      The first information set $S$ consists of $A_1$ and $A_2$. The second, more coherent set $S'$ contains, in addition, $A_3$. We let $C$ denote the degree of coherence, intuitively understood. What we have then is:
+
+      $$ C(A_1,A_2) \lt C(A_1,A_2,A_3). $$
+    step1: |-
+      第一个信息集合 $S$ 由 $A_1$ 与 $A_2$ 组成。第二个更融贯的集合 $S'$ 另外还包含 $A_3$。我们用 $C$ 表示融贯度（直觉上理解的）。于是我们有：
+
+      $$ C(A_1,A_2) \lt C(A_1,A_2,A_3). $$
+    step2: |-
+      第一个信息集合 $S$ 由 $A_1$ 与 $A_2$ 组成。第二个更融贯的集合 $S'$ 另外还包含 $A_3$。我们用 $C$ 表示融贯度（直觉上理解的）。于是我们有：
+
+      $$ C(A_1,A_2) \lt C(A_1,A_2,A_3). $$
+  - id: 91
+    kind: body
+    source: |-
+      As we saw, due to the greater informational content of the larger set, its probability is lower than that of the smaller set:
+
+      $$ P(A_1,A_2,A_3) \lt P(A_1,A_2). $$
+    step1: |-
+      正如我们所看到的，由于较大集合的信息内容更多，它的概率低于较小集合：
+
+      $$ P(A_1,A_2,A_3) \lt P(A_1,A_2). $$
+    step2: |-
+      正如我们所看到的，由于较大集合的信息内容更多，它的概率低于较小集合：
+
+      $$ P(A_1,A_2,A_3) \lt P(A_1,A_2). $$
+  - id: 92
+    kind: body
+    source: |-
+      Yet behind this seemingly impeccable piece of reasoning lurks a serious difficulty. As we saw, it is part of the example that we are supposed to know also that *Jane reports* that Tweety is a bird, that *Carl reports* that Tweety cannot fly and that *Rick reports* that Tweety is a penguin (Klein and Warfield’s example is similar in this way). Let:
+    step1: |-
+      然而，在这段看似无懈可击的推理背后潜伏着一个严重困难。正如我们所看到的，这一例子的一个部分是我们还应当知道*简报告*图伊蒂是一只鸟、*卡尔报告*图伊蒂不能飞、*里克报告*图伊蒂是一只企鹅（克莱因与沃菲尔德的例子在这方面类似）。设：
+    step2: |-
+      然而，在这段看似无懈可击的推理背后潜伏着一个严重困难。正如我们所看到的，这一例子的一个部分是：我们还应当知道*简报告*图伊蒂是一只鸟、*卡尔报告*图伊蒂不能飞、*里克报告*图伊蒂是一只企鹅（克莱因与沃菲尔德的例子在这方面类似）。设：
+  - id: 93
+    kind: body
+    source: |-
+      | $E_1 =$ | “Jane reports that Tweety is a bird” |
+      | --- | --- |
+      | $E_2 =$ | “Carl reports that Tweety cannot fly” |
+      | $E_3 =$ | “Rick reports that Tweety is a penguin” |
+    step1: |-
+      | $E_1 =$ | “简报告图伊蒂是一只鸟” |
+      | :---: | :---: |
+      | $E_2 =$ | “卡尔报告图伊蒂不能飞” |
+      | $E_3 =$ | “里克报告图伊蒂是一只企鹅” |
+    step2: |-
+      | $E_1 =$ | “简报告图伊蒂是一只鸟” |
+      | :---: | :---: |
+      | $E_2 =$ | “卡尔报告图伊蒂不能飞” |
+      | $E_3 =$ | “里克报告图伊蒂是一只企鹅” |
+  - id: 94
+    kind: body
+    source: |-
+      The well-known principle of total evidence now dictates that all relevant evidence should be taken into consideration when computing probabilities. Since it cannot be excluded at the outset that the evidence represented by $E_1$–$E_3$ may be relevant to the probability of the information sets $S$ and $S'$, the probability of the smaller set is not $P(A_1,A_2)$ but rather $P(A_1,A_2 \mid E_1,E_2)$. Similarly, the probability of the larger set is not $P(A_1,A_2,A_3)$ but rather $P(A_1,A_2,A_3 \mid E_1, E_2, E_3)$.
+    step1: |-
+      众所周知的全部证据原则规定，在计算概率时应考虑全部相关证据。既然不能一开始就排除由 $E_1$–$E_3$ 所代表的证据可能与信息集合 $S$ 与 $S'$ 的概率相关，较小集合的概率就不是 $P(A_1,A_2)$，而是 $P(A_1,A_2 \mid E_1,E_2)$。同样，较大集合的概率就不是 $P(A_1,A_2,A_3)$，而是 $P(A_1,A_2,A_3 \mid E_1, E_2, E_3)$。
+    step2: |-
+      众所周知的全部证据原则规定，在计算概率时应考虑全部相关证据。既然不能一开始就排除由 $E_1$–$E_3$ 所代表的证据可能与信息集合 $S$ 与 $S'$ 的概率相关，较小集合的概率就不是 $P(A_1,A_2)$，而是 $P(A_1,A_2 \mid E_1,E_2)$。同样，较大集合的概率就不是 $P(A_1,A_2,A_3)$，而是 $P(A_1,A_2,A_3 \mid E_1, E_2, E_3)$。
+  - id: 95
+    kind: body
+    source: |-
+      Bovens and Olsson (2002) raised the question whether, given this revised understanding of the probability of a set of reported propositions, it would still follow that extended sets are no more probable than the sets they extend. Referring to our Tweety example, would it still hold that
+
+      $$ P(A_1,A_2,A_3 \mid E_1,E_2,E_3) \lt P(A_1,A_2 \mid E_1,E_2)? $$
+    step1: |-
+      博文斯与奥尔森（2002）提出这样一个问题：给定对被报告命题集合之概率的这一修正理解，是否仍能推出扩展集合不比它们所扩展的集合更可能？就我们的图伊蒂例子而言，以下命题是否仍成立：
+
+      $$ P(A_1,A_2,A_3 \mid E_1,E_2,E_3) \lt P(A_1,A_2 \mid E_1,E_2)? $$
+    step2: |-
+      博文斯与奥尔森（2002）提出这样一个问题：给定对被报告命题集合之概率的这一修正理解，是否仍能推出扩展集合不比它们所扩展的集合更可能？就我们的图伊蒂例子而言，以下命题是否仍成立：
+
+      $$ P(A_1,A_2,A_3 \mid E_1,E_2,E_3) \lt P(A_1,A_2 \mid E_1,E_2)? $$
+  - id: 96
+    kind: body
+    source: |-
+      Bovens and Olsson demonstrated that the answer to the general question is in the negative by giving an example of a more coherent extended set that is also more probable, on the revised understanding of what this means, than the original smaller set. Klein and Warfield’s reasoning is based on a problematic understanding of the joint probability of a set of reported propositions. In the end, they have not shown that coherence is not truth conducive.
+    step1: |-
+      博文斯与奥尔森通过给出一个例子——一个更融贯的扩展集合，按照修正后的理解，也比原来的较小集合更可能——证明一般问题的答案是否定的。克莱因与沃菲尔德的推理基于对被报告命题集合之联合概率的一个有问题理解。归根结底，他们并未证明融贯不导向真理。
+    step2: |-
+      博文斯与奥尔森通过给出一个例子——一个更融贯的扩展集合，按照修正后的理解，也比原来的较小集合更可能——证明一般问题的答案是否定的。克莱因与沃菲尔德的推理基于对被报告命题集合之联合概率的一个有问题理解。归根结底，他们并未证明融贯不导向真理。
+  - id: 97
+    kind: body
+    source: |-
+      Let us say that a measure $C$ of coherence is *propositionally truth conducive* if and only if the following holds:
+    step1: |-
+      我们说一个融贯测度 $C$ 是*命题地导向真理的*，当且仅当以下成立：
+    step2: |-
+      我们说一个融贯测度 $C$ 是*命题地导向真理的*，当且仅当以下成立：
+  - id: 98
+    kind: body
+    source: |-
+      if $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$, then $P(A_1\wedge \ldots \wedge A_n) \gt P(B_1\wedge \ldots \wedge B_m)$.
+    step1: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n) \gt P(B_1\wedge \ldots \wedge B_m)$。
+    step2: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n) \gt P(B_1\wedge \ldots \wedge B_m)$。
+  - id: 99
+    kind: body
+    source: |-
+      One lesson emerging from the *Analysis* debate is that this way of construing truth conduciveness should be replaced by a notion of truth conduciveness where the relevant probabilities take all relevant evidence into account, whatever that evidence may be (beliefs, testimonies etc.). For example, a coherence measure $C$ is *doxastically truth conducive* (for a subject $S)$ if and only if:
+    step1: |-
+      从《分析》之争中浮现的一个教训是：这种对导向真理的构想，应当被一种“相关概率把所有相关证据都纳入考量”（无论那证据是什么：信念、证词等）的导向真理概念所取代。例如，一个融贯测度 $C$ 是*信念地（doxastically）导向真理的*（对一个主体 $S$），当且仅当：
+    step2: |-
+      从《分析》之争中浮现的一个教训是：这种对导向真理的构想，应当被一种“相关概率把所有相关证据都纳入考量”（无论那证据是什么：信念、证词等）的导向真理概念所取代。例如，一个融贯测度 $C$ 是*信念地（doxastically）导向真理的*（对一个主体 $S$），当且仅当：
+  - id: 100
+    kind: body
+    source: |-
+      if $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$, then $P(A_1\wedge \ldots \wedge A_n \mid \mathrm{Bel}_S A_1,\ldots,\mathrm{Bel}_{S}A_n) \gt$ $P(B_1\wedge \ldots \wedge B_m \mid \mathrm{Bel}_S B_1,\ldots,\mathrm{Bel}_{S}B_m)$,
+    step1: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n \mid \mathrm{Bel}_S A_1,\ldots,\mathrm{Bel}_{S}A_n) \gt$ $P(B_1\wedge \ldots \wedge B_m \mid \mathrm{Bel}_S B_1,\ldots,\mathrm{Bel}_{S}B_m)$，
+    step2: |-
+      如果 $C(A_1 ,\ldots ,A_n) \gt C(B_1 ,\ldots ,B_m)$，则 $P(A_1\wedge \ldots \wedge A_n \mid \mathrm{Bel}_S A_1,\ldots,\mathrm{Bel}_{S}A_n) \gt$ $P(B_1\wedge \ldots \wedge B_m \mid \mathrm{Bel}_S B_1,\ldots,\mathrm{Bel}_{S}B_m)$，
+  - id: 101
+    kind: body
+    source: |-
+      where $\mathrm{Bel}_S A$ abbreviates “$S$ believes that $A$”. In other words, a measure of coherence is doxastically truth conducive just in case a more coherent set of *believed* propositions is jointly more probable than a less coherent set of *believed* propositions. While this suggestion has not been without its critics (e.g. McGrew 2016)[^mcgrew-2016], it has been highly influential. In the following, we will adopt this understanding of truth-conduciveness.
+    step1: |-
+      其中 $\mathrm{Bel}_S A$ 是“$S$ 相信 $A$”的缩写。换言之，一个融贯测度是信念地导向真理的，当且仅当一个更融贯的*被相信*命题集合比一个较不融贯的*被相信*命题集合联合地更可能。这一建议并非没有批评者（例如 McGrew 2016）[^mcgrew-2016]，但它极具影响。在下文中，我们将采纳这种对导向真理的理解。
+    step2: |-
+      其中 $\mathrm{Bel}_S A$ 是“$S$ 相信 $A$”的缩写。换言之，一个融贯测度是信念地导向真理的，当且仅当一个更融贯的*被相信*命题集合比一个较不融贯的*被相信*命题集合联合地更可能。这一建议并非没有批评者（例如 McGrew 2016）[^mcgrew-2016]，但它极具影响。在下文中，我们将采纳这种对导向真理的理解。
+  - id: 102
+    kind: body
+    source: |-
+      ## 8. Impossibility Results
+    step1: |-
+      ## 8 不可能性结果
+    step2: |-
+      ## 8 不可能性结果
+  - id: 103
+    kind: body
+    source: |-
+      The impossibility results for coherence draw on all three debates summarized above: the Lewis-BonJour controversy, the debate over probabilistic measures of coherence and also the dispute in *Analysis* regarding truth conduciveness. Before we can discuss the results we need to make one further observation. Given the conclusion of the Lewis-BonJour dispute, it is a reasonable expectation that no coherence measure is truth conducive, in the relevant conditional sense, unless the reports (beliefs, memories etc.) in question are individually credible and collectively independent. See Olsson (2017) for a discussion of the plausibility of these conditions in the original Lewisian context of the justification of memory. But assuming this is not sufficient for coherence to stand a reasonable chance of being truth conducive. We must also require that when we compare two different sets of reports, we do so while keeping the degree of individual credibility fixed. Otherwise, we could have a situation in which one set of report contents is more coherent than another set but still fails to give rise to a higher likelihood of truth simply because the reporters delivering the propositions in the less coherent set are individually more reliable. Thus, truth conduciveness must be understood in a *ceteris paribus* sense. The question of interest, then, is whether more coherence implies a higher probability (given independence and individual credibility) *everything else being equal*. We are now finally in a position to state the impossibility theorems. What they show is that no measure of coherence is truth conducive even in a weak *ceteris paribus* sense, under the favorable conditions of (conditional) independence and individual credibility.
+    step1: |-
+      关于融贯的不可行性结果借鉴了上述三场争论：刘易斯—邦久之争、关于概率性融贯测度的争论，以及《分析》中关于导向真理的争论。在讨论这些结果之前，我们需要再作一个观察。鉴于刘易斯—邦久之争的结论，一个合理的预期是：除非所涉报告（信念、记忆等）各自可信且集体独立，否则没有融贯测度在相关条件意义上是导向真理的。参见奥尔森（2017）对这些条件在原初刘易斯式记忆证成语境中之合理性的讨论。但仅此假定并不足以使融贯有合理机会导向真理。我们还必须要求：当比较两组不同的报告时，我们在保持个别可信度固定的情况下来比较。否则可能出现这样的情况：一组报告内容比另一组更融贯，却仍然不能带来更高的为真可能，仅仅因为给出较不融贯集合中命题的报告者各自更可靠。因此，导向真理必须在*其余条件相同*（ceteris paribus）的意义上来理解。于是，有趣的问题是：更多融贯（在独立与个别可信度给定下）是否意味着更高概率——*其他一切都相同*。我们现在终于可以陈述不可行性定理。它们表明：即使在（条件）独立与个别可信度这些有利条件下，也没有融贯测度是导向真理的，即使在一种弱的*其余条件相同*意义上也是如此。
+    step2: |-
+      关于融贯的不可行性结果借鉴了上述三场争论：刘易斯—邦久之争、关于概率性融贯测度的争论，以及《分析》中关于导向真理的争论。在讨论这些结果之前，我们需要再作一个观察。鉴于刘易斯—邦久之争的结论，一个合理的预期是：除非所涉报告（信念、记忆等）各自可信且集体独立，否则没有融贯测度在相关条件意义上是导向真理的。参见奥尔森（2017）对这些条件在原初刘易斯式记忆证成语境中之合理性的讨论。但仅此假定并不足以使融贯有合理机会导向真理。我们还必须要求：当比较两组不同的报告时，我们在保持个别可信度固定的情况下来比较。否则可能出现这样的情况：一组报告内容比另一组更融贯，却仍然不能带来更高的为真可能，仅仅因为给出较不融贯集合中命题的报告者各自更可靠。因此，导向真理必须在*其余条件相同*（ceteris paribus）的意义上来理解。于是，有趣的问题是：更多融贯（在独立与个别可信度给定下）是否意味着更高概率——*其他一切都相同*。我们现在终于可以陈述不可行性定理。它们表明：即使在（条件）独立与个别可信度这些有利条件下，也没有融贯测度是导向真理的，即使在一种弱的*其余条件相同*意义上也是如此。
+  - id: 104
+    kind: body
+    source: |-
+      The first result of this nature was presented by Bovens and Hartmann (2003). Their definition of truth conduciveness deviates slightly from the standard account given above. As they define it, a measure $C$ is truth conducive if and only if, for all sets $S$ and $S'$, if $S$ is at least as coherent as $S'$ according to $C$, then $S$ is at least as likely to be true as $S'$ *ceteris paribus* and given independence and individual credibility. Very roughly, their proof has the following structure: They show that there are sets $S$ and $S'$, each containing three propositions, such that which set is more likely to be true will depend on the level at which the individual credibility (reliability) is held fixed. Thus for lower degrees of reliability, one set, say $S$, will be more probable than the other set, $S'$; for higher degrees of reliability, the situation will be reversed. One can now find a counterexample to the truth conduciveness of any measure $C$ through a strategic choice of the level at which the reliability is held fixed. Suppose for instance that, according to $C$, the set $S$ is more coherent than the set $S'$. In order to construct a counterexample to $C$’s truth conduciveness, we set the reliability to a value for which $S'$ will be more probable than $S$. If, on the other hand, $C$ makes $S'$ more coherent than $S$, we fix the reliability to a level at which $S$ will be the more probable set. For the details, see Bovens and Hartmann (2003, section 1.4).
+    step1: |-
+      这一性质的首个结果由博文斯与哈特曼（2003）提出。他们对导向真理的定义与上面给出的标准说明略有不同。按他们的定义，一个测度 $C$ 是导向真理的，当且仅当对于所有集合 $S$ 与 $S'$，如果按 $C$，$S$ 至少与 $S'$ 一样融贯，那么在*其余条件相同*且独立与个别可信度给定下，$S$ 至少与 $S'$ 一样可能为真。非常粗略地说，他们的证明具有如下结构：他们表明存在集合 $S$ 与 $S'$，各含三个命题，使得哪个集合更可能为真取决于个别可信度（可靠性）被固定在什么水平。于是，对较低的可靠性程度，一个集合，例如 $S$，将比另一个集合 $S'$ 更可能；对较高的可靠性程度，情况将反过来。现在，通过对可靠性被固定之水平作出策略性选择，可以为任何测度 $C$ 找到一个导向真理的反例。例如，假定按 $C$，集合 $S$ 比集合 $S'$ 更融贯。为了构造 $C$ 导向真理的反例，我们把可靠性设定为一个使 $S'$ 比 $S$ 更可能的值。反之，如果 $C$ 使 $S'$ 比 $S$ 更融贯，我们就把可靠性固定在一个使 $S$ 成为更可能集合的水平。细节见博文斯与哈特曼（2003）第 1.4 节。
+    step2: |-
+      这一性质的首个结果由博文斯与哈特曼（2003）提出。他们对导向真理的定义与上面给出的标准说明略有不同。按他们的定义，一个测度 $C$ 是导向真理的，当且仅当对于所有集合 $S$ 与 $S'$，如果按 $C$，$S$ 至少与 $S'$ 一样融贯，那么在*其余条件相同*且独立与个别可信度给定下，$S$ 至少与 $S'$ 一样可能为真。非常粗略地说，他们的证明具有如下结构：他们表明存在集合 $S$ 与 $S'$，各含三个命题，使得哪个集合更可能为真取决于个别可信度（可靠性）被固定在什么水平。于是，对较低的可靠性程度，一个集合，例如 $S$，将比另一个集合 $S'$ 更可能；对较高的可靠性程度，情况将反过来。现在，通过对可靠性被固定之水平作出策略性选择，可以为任何测度 $C$ 找到一个导向真理的反例。例如，假定按 $C$，集合 $S$ 比集合 $S'$ 更融贯。为了构造 $C$ 导向真理的反例，我们把可靠性设定为一个使 $S'$ 比 $S$ 更可能的值。反之，如果 $C$ 使 $S'$ 比 $S$ 更融贯，我们就把可靠性固定在一个使 $S$ 成为更可能集合的水平。细节见博文斯与哈特曼（2003）第 1.4 节。
+  - id: 105
+    kind: body
+    source: |-
+      Olsson defines truth conduciveness in the standard fashion. His impossibility theorem is based on the following alternative proof strategy (Olsson 2005, appendix B)[^olsson-2005]: Consider a situation of two witnesses both reporting that $A$, represented by $S = \langle A, A\rangle$. Take a measure $C$ of coherence that is informative with respect to $S$, in the sense that it does not assign the same degree of coherence to $S$ regardless of which probability assignment is used. This means that the measure is non-trivial in the situation in question. Take two assignments $P$ and $P'$ of probabilities to the propositions in $S$ that give rise to different coherence values. Olsson shows that a counter example to the truth conduciveness of $C$ can be constructed through a strategic choice of the probability of reliability. If $P$ makes $S$ more coherent than does $P'$ according to $C$, we fix the probability of reliability in such a way that $S$ comes out as more probable on $P'$ than on $P$. If, on the other hand, $P'$ makes $S$ more coherent, then we choose a value for the probability of reliability so that $P$ makes $S$ more probable. It follows that no coherence measure is both truth conducive and informative.
+    step1: |-
+      奥尔森以标准方式定义导向真理。他的不可行性定理基于以下替代证明策略（Olsson 2005, appendix B）[^olsson-2005]：考虑两位证人都报告 $A$ 的情形，由 $S = \langle A, A\rangle$ 表示。取一个关于 $S$ 是“有信息量”的融贯测度 $C$，即它并不无论使用哪个概率赋值都给 $S$ 相同的融贯度。这意味着该测度在所讨论的情形中是非平凡的。取 $S$ 中命题的两个概率赋值 $P$ 与 $P'$，它们产生不同的融贯值。奥尔森表明，通过对可靠性概率作出策略性选择，可以构造 $C$ 导向真理的反例。如果按 $C$，$P$ 使 $S$ 比 $P'$ 更融贯，我们就把可靠性概率固定为使 $S$ 在 $P'$ 下比在 $P$ 下更可能。反之，如果 $P'$ 使 $S$ 更融贯，我们就为可靠性概率选择一个值，使 $P$ 使 $S$ 更可能。由此推出，没有融贯测度既是导向真理的又是有信息量的。
+    step2: |-
+      奥尔森以标准方式定义导向真理。他的不可行性定理基于以下替代证明策略（Olsson 2005, appendix B）[^olsson-2005]：考虑两位证人都报告 $A$ 的情形，由 $S = \langle A, A\rangle$ 表示。取一个关于 $S$ 是“有信息量”的融贯测度 $C$，即它并不无论使用哪个概率赋值都给 $S$ 相同的融贯度。这意味着该测度在所讨论的情形中是非平凡的。取 $S$ 中命题的两个概率赋值 $P$ 与 $P'$，它们产生不同的融贯值。奥尔森表明，通过对可靠性概率作出策略性选择，可以构造 $C$ 导向真理的反例。如果按 $C$，$P$ 使 $S$ 比 $P'$ 更融贯，我们就把可靠性概率固定为使 $S$ 在 $P'$ 下比在 $P$ 下更可能。反之，如果 $P'$ 使 $S$ 更融贯，我们就为可靠性概率选择一个值，使 $P$ 使 $S$ 更可能。由此推出，没有融贯测度既是导向真理的又是有信息量的。
+  - id: 106
+    kind: body
+    source: |-
+      There are some further subtle differences between the two results. First, Olsson’s theorem is proved against the backdrop of a *dynamic* (or, in the language of Bovens and Hartmann, 2003, *endogenous*) model of reliability: the assessment of witness reliability, which in this model is represented as a probability of reliability, may change as we obtain more reports. Bovens and Hartmann’s detailed proof assumes a non-dynamic (exogenous) model of reliability, although they indicate that the result carries over to the dynamic (endogenous) case. Second, there is a difference in the way the *ceteris paribus* condition is understood. Olsson fixes the initial probability of reliability, but allows the prior probability of the report contents to vary. Bovens and Hartmann fix not only the reliability but also the prior probability of the report contents.
+    step1: |-
+      这两个结果之间还有一些更细微的差异。首先，奥尔森的定理是在一种*动态的*（或用博文斯与哈特曼 2003 年的话说，*内生的*）可靠性模型背景下证明的：证人可靠性的评估——在该模型中表示为可靠性概率——可能随着我们获得更多报告而变化。博文斯与哈特曼的详细证明假定一种非动态的（外生的）可靠性模型，尽管他们指出该结果也适用于动态（内生）情形。其次，在*其余条件相同*条件的理解上存在差异。奥尔森固定可靠性的初始概率，但允许报告内容的先验概率变化。博文斯与哈特曼不仅固定可靠性，也固定报告内容的先验概率。
+    step2: |-
+      这两个结果之间还有一些更细微的差异。首先，奥尔森的定理是在一种*动态的*（或用博文斯与哈特曼 2003 年的话说，*内生的*）可靠性模型背景下证明的：证人可靠性的评估——在该模型中表示为可靠性概率——可能随着我们获得更多报告而变化。博文斯与哈特曼的详细证明假定一种非动态的（外生的）可靠性模型，尽管他们指出该结果也适用于动态（内生）情形。其次，在*其余条件相同*条件的理解上存在差异。奥尔森固定可靠性的初始概率，但允许报告内容的先验概率变化。博文斯与哈特曼不仅固定可靠性，也固定报告内容的先验概率。
+  - id: 107
+    kind: body
+    source: |-
+      These impossibility results give rise to a thought-provoking paradox. It can hardly be doubted that we trust and rely on coherence reasoning when judging the believability of information, in everyday life and in science (see Harris and Hahn, 2009, for an experimental study in a Bayesian setting). But how can this be when in fact coherence is not truth conducive? Since the impossibility results were published a number of studies have been dedicated to the resolution of this paradox (see Meijs and Douven, 2007, for an overview of some possible moves). These studies can be divided into two camps. Researchers in the first camp accept the conclusion that the impossibility results show that coherence is not truth conducive. They add, however, that this does not prevent coherence from being valuable and important in other ways. Researchers in the other camp do not accept the conclusion that the impossibility results show that coherence is not truth conducive because they think that at least one premise used in proving the results is doubtful.
+    step1: |-
+      这些不可行性结果产生了一个发人深省的悖论。几乎不容怀疑，我们在日常生活中与科学中判断信息的可信性时，都信任并依赖融贯推理（关于贝叶斯背景下的实验研究，见 Harris and Hahn, 2009）。但当融贯实际上并不导向真理时，这怎么可能？自从这些不可行性结果发表以来，已有许多研究致力于化解这一悖论（关于一些可能进路的概述，见 Meijs and Douven, 2007）。这些研究可以分为两个阵营。第一阵营的研究者接受“不可行性结果表明融贯不导向真理”这一结论，但他们补充说，这并不妨碍融贯在其他方面有价值、很重要。另一阵营的研究者不接受“不可行性结果表明融贯不导向真理”这一结论，因为他们认为证明这些结果所用的至少一个前提是可疑的。
+    step2: |-
+      这些不可行性结果产生了一个发人深省的悖论。几乎不容怀疑，我们在日常生活中与科学中判断信息的可信性时，都信任并依赖融贯推理（关于贝叶斯背景下的实验研究，见 Harris and Hahn, 2009）。但当融贯实际上并不导向真理时，这怎么可能？自从这些不可行性结果发表以来，已有许多研究致力于化解这一悖论（关于一些可能进路的概述，见 Meijs and Douven, 2007）。这些研究可以分为两个阵营。第一阵营的研究者接受“不可行性结果表明融贯不导向真理”这一结论，但他们补充说，这并不妨碍融贯在其他方面有价值、很重要。另一阵营的研究者不接受“不可行性结果表明融贯不导向真理”这一结论，因为他们认为证明这些结果所用的至少一个前提是可疑的。
+  - id: 108
+    kind: body
+    source: |-
+      Let us start with responses from the first camp. Dietrich and Moretti (2005) show that coherence in the sense of the Glass-Olsson measure is linked to the practice of indirect confirmation of scientific hypotheses. That measure turns out to be, in the terminology of Moretti (2007), “confirmation conducive”. Glass (2007) argues, similarly, that coherence can provide the key to a precise account of inference to the best explanation, the main idea being to use a coherence measure for ranking competing hypotheses in terms of their coherence with a given piece of evidence. Furthermore, Olsson and Schubert (2007) observe that, while coherence falls short of being truth conducive, it can still be “reliability conducive”, i.e., more coherence, according to some measures, entails a higher probability that the sources are reliable, at least in a paradigmatic case (cf. Schubert 2012a, 2011)[^schubert-2012a]. Nevertheless, Schubert has proved an impossibility theorem to the effect that no coherence measure is reliability conducive in general (Schubert 2012b)[^schubert-2012b]. For yet another example, Angere (2007, 2008) argues, based on computer simulations, that the fact that coherence fails to be truth conducive, in the above sense, does not prevent it from being connected with truth in a weaker, defeasible sense. In fact, almost all coherence measures that have an independent standing in the literature satisfy the condition that *most* cases of higher coherence are also cases of higher probability, although they do so to different degrees. Moreover, Roche (2013b) has demonstrated that assuming a set to be coherent implies an increase in the probability of truth of any of its elements. This is a weak form of truth-conduciveness as this increase may be modest, and Roche is right to point out that it should not give the coherentist much comfort. It has also been noted that coherence plays an important negative role in our thinking. If our beliefs show signs of incoherence, this is often a good reason for contemplating a revision. See chapter 10 in Olsson (2005) for an elaboration of this point and McGrew (2021) for some complications in the context of witness testimony.
+    step1: |-
+      让我们从第一阵营的回应开始。迪特里希与莫雷蒂（2005）表明，格拉斯—奥尔森测度意义上的融贯与科学假说的间接确认实践相联系。按莫雷蒂（2007）的术语，这一测度被证明是“确认导向的”。类似地，格拉斯（2007）论证说，融贯可以为最佳解释推理提供一个精确说明的关键，其主要观念是用融贯测度根据竞争假说与给定证据的融贯来对它们排序。此外，奥尔森与舒伯特（2007）观察到，尽管融贯达不到导向真理，它仍然可以是“可靠性导向的”，即按照某些测度，更多融贯蕴含来源更可靠这一更高概率，至少在典型情形中是如此（cf. Schubert 2012a, 2011）[^schubert-2012a]。尽管如此，舒伯特已证明一个不可行性定理，大意是：一般地，没有融贯测度是可靠性导向的（Schubert 2012b）[^schubert-2012b]。还有一个例子：安格雷（2007, 2008）基于计算机模拟论证说，融贯在上述意义上未能导向真理，并不妨碍它在一种更弱的、可废止的意义上与真理相联系。事实上，几乎所有在文献中具有独立地位的融贯测度都满足“*大多数*更高融贯的情形也是更高概率的情形”这一条件，尽管它们做到的程度不同。此外，罗奇（2013b）已证明：假定一个集合融贯，蕴含着其任何元素的为真概率增加。这是一种弱形式的导向真理，因为这种增加可能很有限，而罗奇正确地指出，这不应给融贯论者带来多少安慰。也有人指出，融贯在我们的思维中扮演一个重要而消极的角色。如果我们的信念显示出不相融贯的迹象，这往往是考虑修正的一个好理由。关于这一点的详述，见奥尔森（2005）第 10 章；关于证人证词语境中的一些复杂情况，见麦格鲁（2021）。
+    step2: |-
+      让我们从第一阵营的回应开始。迪特里希与莫雷蒂（2005）表明，格拉斯—奥尔森测度意义上的融贯与科学假说的间接确认实践相联系。按莫雷蒂（2007）的术语，这一测度被证明是“确认导向的”。类似地，格拉斯（2007）论证说，融贯可以为最佳解释推理提供一个精确说明的关键，其主要观念是用融贯测度根据竞争假说与给定证据的融贯来对它们排序。此外，奥尔森与舒伯特（2007）观察到，尽管融贯达不到导向真理，它仍然可以是“可靠性导向的”，即按照某些测度，更多融贯蕴含来源更可靠这一更高概率，至少在典型情形中是如此（cf. Schubert 2012a, 2011）[^schubert-2012a]。尽管如此，舒伯特已证明一个不可行性定理，大意是：一般地，没有融贯测度是可靠性导向的（Schubert 2012b）[^schubert-2012b]。还有一个例子：安格雷（2007, 2008）基于计算机模拟论证说，融贯在上述意义上未能导向真理，并不妨碍它在一种更弱的、可废止的意义上与真理相联系。事实上，几乎所有在文献中具有独立地位的融贯测度都满足“*大多数*更高融贯的情形也是更高概率的情形”这一条件，尽管它们做到的程度不同。此外，罗奇（2013b）已证明：假定一个集合融贯，蕴含着其任何元素的为真概率增加。这是一种弱形式的导向真理，因为这种增加可能很有限，而罗奇正确地指出，这不应给融贯论者带来多少安慰。也有人指出，融贯在我们的思维中扮演一个重要而消极的角色。如果我们的信念显示出不相融贯的迹象，这往往是考虑修正的一个好理由。关于这一点的详述，见奥尔森（2005）第 10 章；关于证人证词语境中的一些复杂情况，见麦格鲁（2021）。
+  - id: 109
+    kind: body
+    source: |-
+      As for the other approach to the impossibility results (questioning the premises used in their derivation), we have already seen that Huemer (2007, 2011), in connection with the Lewis-BonJour dispute, has expressed doubts regarding the standard way of formalizing independence in terms of conditional probability. It should come as no surprise that he objects to the impossibility results (ibid.) on the same grounds. In his 2011 article, Huemer even questions the Content Determination Thesis, which plays a pivotal role in the derivation of the results, for reasons that we have to leave aside here.
+    step1: |-
+      至于应对不可行性结果的另一进路（质疑其推导所用的前提），我们已经看到，休默（2007, 2011）在刘易斯—邦久之争的语境中，对以条件概率形式化独立性的标准方式表示过怀疑。因此毫不奇怪，他以同样的理由反对这些不可行性结果（同上）。在他 2011 年的文章中，休默甚至质疑在结果推导中起关键作用的内容决定论题，理由在此我们只好略过。
+    step2: |-
+      至于应对不可行性结果的另一进路（质疑其推导所用的前提），我们已经看到，休默（2007, 2011）在刘易斯—邦久之争的语境中，对以条件概率形式化独立性的标准方式表示过怀疑。因此毫不奇怪，他以同样的理由反对这些不可行性结果（同上）。在他 2011 年的文章中，休默甚至质疑在结果推导中起关键作用的内容决定论题，理由在此我们只好略过。
+  - id: 110
+    kind: body
+    source: |-
+      All these things can be consistently questioned. But the question is: at what cost? We have already seen that there are strong systematic reasons for explicating independence in terms of conditional independence in the standard way. Furthermore, the Content Determination Thesis is deeply entrenched in just about all work on coherence that takes agreeing witnesses to be the prototypical case. Giving up Content Determination would mean purging the coherence theory of one of its clearest and most distinctive pre-systematic intuitions: that coherence is a property at the level of report *contents*. The worry is that coherentism is saved at the cost of robbing it of almost all its significance, as Ewing put it almost a century ago in response to a similar worry (Ewing 1934, 246)[^ewing-1934].
+    step1: |-
+      所有这些都可以一致地质疑。但问题是：代价是什么？我们已经看到，有强有力的系统性理由以标准方式用条件独立来阐释独立性。此外，内容决定论题几乎在一切把一致证人视为典型情形的融贯研究中都根深蒂固。放弃内容决定意味着把融贯理论中最清晰、最独特的系统前直觉之一清除掉：融贯是报告*内容*层面的一种性质。正如尤因在近一个世纪前回应类似担忧时所说，问题在于融贯论以几乎剥夺其全部意义为代价而得救（Ewing 1934, 246）[^ewing-1934]。
+    step2: |-
+      所有这些都可以一致地质疑。但问题是：代价是什么？我们已经看到，有强有力的系统性理由以标准方式用条件独立来阐释独立性。此外，内容决定论题几乎在一切把一致证人视为典型情形的融贯研究中都根深蒂固。放弃内容决定意味着把融贯理论中最清晰、最独特的系统前直觉之一清除掉：融贯是报告*内容*层面的一种性质。正如尤因在近一个世纪前回应类似担忧时所说，问题在于融贯论以几乎剥夺其全部意义为代价而得救（Ewing 1934, 246）[^ewing-1934]。
+  - id: 111
+    kind: body
+    source: |-
+      These concerns do not obviously carry over to another dialectical move: questioning the *ceteris paribus* conditions employed in the impossibility results, i.e., the conditions that determine what to hold fixed as the degree of coherence is varied. This line of criticism has been taken up by several authors, including Douven and Meijs (2007), Schupbach (2008) and Huemer (2011), and it may well be the internally least problematic strategy to explore for those who are inclined to challenge the premises upon which the impossibility results are based. It should be borne in mind, though, that the tendency to offer ever stronger *ceteris paribus* conditions may in the end be self-defeating. As more things are held fixed, it becomes easier for a coherence measure to be truth conducive. Hence, researchers pursuing this line of defense ultimately run the risk of trivializing the debate by making coherence truth conducive by definition (cf. Schubert 2012b)[^schubert-2012b].
+    step1: |-
+      这些担忧并不明显地转移到另一论辩策略上：质疑不可行性结果所使用的*其余条件相同*条件，即那些决定在融贯度变化时保持什么固定的条件。这一批评路线已被几位作者采纳，包括杜文与迈斯（2007）、舒普巴赫（2008）与休默（2011），而对于那些倾向于质疑不可行性结果之基础前提的人来说，它很可能是内部问题最少的探索策略。不过应当记住，提供越来越强的*其余条件相同*条件的倾向最终可能弄巧成拙。随着越多东西被固定，融贯测度就越容易导向真理。因此，沿着这一辩护路线前进的研究者最终冒着以定义方式使融贯导向真理从而使争论琐碎化的风险（cf. Schubert 2012b）[^schubert-2012b]。
+    step2: |-
+      这些担忧并不明显地转移到另一论辩策略上：质疑不可行性结果所使用的*其余条件相同*条件，即那些决定在融贯度变化时保持什么固定的条件。这一批评路线已被几位作者采纳，包括杜文与迈斯（2007）、舒普巴赫（2008）与休默（2011），而对于那些倾向于质疑不可行性结果之基础前提的人来说，它很可能是内部问题最少的探索策略。不过应当记住，提供越来越强的*其余条件相同*条件的倾向最终可能弄巧成拙。随着越多东西被固定，融贯测度就越容易导向真理。因此，沿着这一辩护路线前进的研究者最终冒着以定义方式使融贯导向真理从而使争论琐碎化的风险（cf. Schubert 2012b）[^schubert-2012b]。
+  - id: 112
+    kind: body
+    source: |-
+      There are some attempts to explain or come to grips with the impossibility results that do not easily fit into the two camps identified above or represent a combination of ideas from both. For an example of the latter, Wheeler (2012; see also Wheeler and Scheines, 2013) both suggest focusing on reliability conduciveness as opposed to truth conduciveness (camp 1) and question the assumptions, primarily independence but also the Content Determination Thesis, used in the derivation of the impossibility results (camp 2). Shogenji (2007, 2013) and McGraw (2016) are other complex and insightful attempts to deepen the Bayesian analysis and diagnose of those results. Specifically, Lydia McGrew argues for a shift in focus from the coherence of contents of reports to coherence of the evidence for a hypothesis $H$ (which need not coincide with the conjunction of the report contents). If the conjunction of the members of a set of evidence supports, in the sense of raising the probability of, some hypothesis $H$, and if all members of that set are playing a role in that epistemic effect, then that set of evidence is, McGrew shows, indeed confirmatory of $H$ and in that sense truth-conducive for $H$ (McGrew 2016)[^mcgrew-2016]. McGrew offers several proposals for how to spell out “coherence for $H$”.
+    step1: |-
+      有些解释或应对不可行性结果的尝试并不容易归入上述两个阵营，或代表了来自两个阵营的观念的结合。后者的一例是惠勒（2012；另见 Wheeler and Scheines, 2013），他既建议关注可靠性导向而非导向真理（阵营一），也质疑推导不可行性结果所用的假定，主要是独立性，也有内容决定论题（阵营二）。将司（2007, 2013）与麦格鲁（2016）是深化对这些结果的贝叶斯分析与诊断的其他复杂而富有洞见的尝试。具体而言，莉迪娅·麦格鲁主张把焦点从报告内容的融贯转向支持假说 $H$ 之证据的融贯（后者无需与报告内容的合取重合）。如果一组证据的成员的合取支持（即提高其概率）某个假说 $H$，并且该集合的所有成员都在这一认识论效应中起作用，那么麦格鲁表明，这组证据确实确证 $H$，并在此意义上对 $H$ 是导向真理的（McGrew 2016）[^mcgrew-2016]。麦格鲁提出了若干种如何阐明“对 $H$ 的融贯”的主张。
+    step2: |-
+      有些解释或应对不可行性结果的尝试并不容易归入上述两个阵营，或代表了来自两个阵营的观念的结合。后者的一例是惠勒（2012；另见 Wheeler and Scheines, 2013），他既建议关注可靠性导向而非导向真理（阵营一），也质疑推导不可行性结果所用的假定，主要是独立性，也有内容决定论题（阵营二）。将司（2007, 2013）与麦格鲁（2016）是深化对这些结果的贝叶斯分析与诊断的其他复杂而富有洞见的尝试。具体而言，莉迪娅·麦格鲁主张把焦点从报告内容的融贯转向支持假说 $H$ 之证据的融贯（后者无需与报告内容的合取重合）。如果一组证据的成员的合取支持（即提高其概率）某个假说 $H$，并且该集合的所有成员都在这一认识论效应中起作用，那么麦格鲁表明，这组证据确实确证 $H$，并在此意义上对 $H$ 是导向真理的（McGrew 2016）[^mcgrew-2016]。麦格鲁提出了若干种如何阐明“对 $H$ 的融贯”的主张。
+  - id: 113
+    kind: body
+    source: |-
+      ## 9. Conclusions
+    step1: |-
+      ## 9 结论
+    step2: |-
+      ## 9 结论
+  - id: 114
+    kind: body
+    source: |-
+      The coherence theory of justification represents an initially suggestive solution to some deeply rooted problems of epistemology. Perhaps most significantly, it suggests a way of thinking about epistemic justification as arising in a “web of belief”. As such, it competes with, and could potentially replace, the historically dominating, but increasingly disreputable, foundationalist picture of the justification needed for knowledge as resting on a secure base of indubitable fact. Coherentism may also be more promising than alternative foundationalist views with their reliance on non-doxastic support. Unfortunately, coherence theorists have generally struggled to provide the details necessary for their theory to advance beyond the metaphorical stage, something which has not gone unnoticed by their critics. Following the seminal work of C. I. Lewis, contemporary scholars have taken on that challenge with considerable success in terms of clarity and established results, although a fair number of the latter are to the coherentist’s disadvantage. Some results support a weak foundationalist theory according to which coherence can boost credibility that is already there, without creating it from scratch. However, on the face of it, the impossibility results negatively affect this less radical form of coherence theory as well. It is often observed that while it is relatively easy to put forward a convincing theory in the outline, the ultimate test for any philosophical endeavor is whether the product will survive detailed specification (the devil is in the details, and so on). What the recent developments in this area have shown, if nothing else, is that this is very much true for the coherence theory of epistemic justification.
+    step1: |-
+      证成的融贯理论代表了对认识论一些根深蒂固问题的初看很有启发性的解答。也许最重要的是，它提出了一种把知识证成视为产生于“信念之网”的思考方式。正因如此，它与历史上占支配地位、却日益声名狼藉的基础主义图景相竞争，并可能取代后者——后者认为知识所需的证成奠基于不可怀疑事实的可靠基础之上。融贯论也可能比依赖非信念状态支持的其他基础主义观点更有前途。遗憾的是，融贯论者一般难以提供其理论超越隐喻阶段所需的具体细节，而这一点并未逃过其批评者的眼睛。沿循 C. I. 刘易斯的开创性工作，当代学者以相当的成就承担了这一挑战——就清晰性与已确立的结果而言，尽管其中相当一部分对融贯论者不利。有些结果支持一种弱基础主义理论，按照它，融贯能够增强已经存在的可信性，却不能从零开始创造这种可信性。然而，表面看来，不可行性结果也对这一较不激进的融贯理论形式产生不利影响。人们常观察到，虽然在一开始提出一个有说服力的理论相对容易，但任何哲学事业的最终考验是它的产物能否经受住详细的规格化（魔鬼在细节中，如此等等）。这一领域近来的发展所表明的，如果说有什么的话，就是这一点对知识证成的融贯理论尤为真实。
+    step2: |-
+      证成的融贯理论代表了对认识论一些根深蒂固问题的初看很有启发性的解答。也许最重要的是，它提出了一种把知识证成视为产生于“信念之网”的思考方式。正因如此，它与历史上占支配地位、却日益声名狼藉的基础主义图景相竞争，并可能取代后者——后者认为知识所需的证成奠基于不可怀疑事实的可靠基础之上。融贯论也可能比依赖非信念状态支持的其他基础主义观点更有前途。遗憾的是，融贯论者一般难以提供其理论超越隐喻阶段所需的具体细节，而这一点并未逃过其批评者的眼睛。沿循 C. I. 刘易斯的开创性工作，当代学者以相当的成就承担了这一挑战——就清晰性与已确立的结果而言，尽管其中相当一部分对融贯论者不利。有些结果支持一种弱基础主义理论，按照它，融贯能够增强已经存在的可信性，却不能从零开始创造这种可信性。然而，表面看来，不可行性结果也对这一较不激进的融贯理论形式产生不利影响。人们常观察到，虽然在一开始提出一个有说服力的理论相对容易，但任何哲学事业的最终考验是它的产物能否经受住详细的规格化（魔鬼在细节中，如此等等）。这一领域近来的发展所表明的，如果说有什么的话，就是这一点对知识证成的融贯理论尤为真实。
+  - id: 115
+    kind: oir
+    source: |-
+      - [Coherentism – Bibliography – PhilPapers](http://philpapers.org/browse/coherentism), at PhilPapers.org, maintained by David Bourget and David Chalmers.
+      - [Coherentism in Epistemology](http://www.iep.utm.edu/coherent/), by Peter Murphy, in the *Internet Encyclopedia of Philosophy*, James Fieser (ed.).
+    step1: |-
+      - [Coherentism – Bibliography – PhilPapers](http://philpapers.org/browse/coherentism)，见 PhilPapers.org，由 David Bourget 与 David Chalmers 维护。
+      - [Coherentism in Epistemology](http://www.iep.utm.edu/coherent/)，Peter Murphy 撰，载《互联网哲学百科全书》（*Internet Encyclopedia of Philosophy*），James Fieser 编。
+    step2: |-
+      - [Coherentism – Bibliography – PhilPapers](http://philpapers.org/browse/coherentism)，见 PhilPapers.org（David Bourget、David Chalmers 维护）。
+      - [Coherentism in Epistemology](http://www.iep.utm.edu/coherent/)，Peter Murphy 撰，载 *Internet Encyclopedia of Philosophy*，James Fieser 编。
+  - id: 116
+    kind: ack
+    source: |-
+      Many people have commented on earlier versions of this article offering valuable suggestions and criticisms, and I thank them all. They are Staffan Angere, Luc Bovens, Igor Douven, Branden Fitelson, David Glass, Michael Hughes, Lydia McGraw, Luca Moretti, Stefan Schubert, Tomoji Shogenji, Mark Siebel, Wolfgang Spohn, Paul Thagard and Greg Wheeler. Finally, I am indebted to an anonymous referee for a number of stylistic and other improvements.
+    step1: |-
+      本刊早期各稿曾有多位学者赐予宝贵建议与批评，谨此一并致谢：Staffan Angere、Luc Bovens、Igor Douven、Branden Fitelson、David Glass、Michael Hughes、Lydia McGraw、Luca Moretti、Stefan Schubert、Tomoji Shogenji、Mark Siebel、Wolfgang Spohn、Paul Thagard 与 Greg Wheeler。最后，感谢一位匿名审稿人在文风与其他方面的多项改进。
+    step2: |-
+      本文早期诸稿承蒙多位学者惠赐宝贵建议与批评，谨致谢忱，其人为：Staffan Angere、Luc Bovens、Igor Douven、Branden Fitelson、David Glass、Michael Hughes、Lydia McGraw、Luca Moretti、Stefan Schubert、Tomoji Shogenji、Mark Siebel、Wolfgang Spohn、Paul Thagard、Greg Wheeler。末则感荷一位匿名审稿人于文风及其他诸端多所是正。

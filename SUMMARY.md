@@ -1369,7 +1369,7 @@
   * [作为美德的正义 justice as a virtue (Mark LeBar)](j/justice-virtue.md)
 * [\*知识证成 justification, epistemic](README.md)
   * [\*先验——见先验论证与知识 a priori — see a priori justification and knowledge](a/apriori.md)
-  * [知识证成的融贯论 coherentist theories of (Erik Olsson)](j/justep-coherence.md)
+  * [知识证成的融贯论 Coherentist Theories of Epistemic Justification (Erik Olsson)](j/justep-coherence.md)
   * [知识证成的基础主义理论 foundationalist theories of (Ali Hasan and Richard Fumerton)](j/justep-foundational.md)
   * [知识证成的内在主义与外在主义观念 internalist vs. externalist conceptions of (Clayton Littlejohn)](j/justep-intext.md)
   * [\*可靠主义——见可靠主义认识论 reliabilism — see reliabilist epistemology](r/reliabilism.md)

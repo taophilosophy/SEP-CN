@@ -2,7 +2,7 @@
   "slug": "justep-coherence",
   "kind": "retranslate",
   "zh_doc": "j/justep-coherence.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:11Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T21:29:43Z",
+      "evidence": "分卷合并为单账本（116 段）后补填 11 段（9 节标题+oir+ack），compose 36800 字符；SUMMARY 标题补全英文题联动 mu-lu-s；$ 计数三处按源重写对齐"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T21:29:44Z",
+      "evidence": "对照核销：段落 136:135（差 1＝管线译注行）、节数 14:14、脚注 marker 与 defs 键集全一致；公式 228 条 missing/unbalanced 双空"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T21:29:44Z",
+      "evidence": "prose 实修 16 处（weak-verb 11、类名“们”2、长句拆分 2、粗体间距 1）；CJK 斜体→加粗 37 处；豁免 62 条分类：概念性定语链/术语链 36、含公式与枚举长句 20、术语内含“被”6（ADR-0020）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T21:29:46Z",
+      "evidence": "四检：check_academic --strict OK；check_style issues=0；check_prose 62 条已分类豁免留痕；check_math formulas=228 missing=[] unbalanced=[]；lq check 守恒门 116 段通过"
     }
   ],
   "blockers": [],
