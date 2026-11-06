@@ -619,6 +619,7 @@
 | Bas van Fraassen | — | 范·弗拉森 | reasoning-analogy | 学界通行汉译 | 2026-11-05 |
 | Douglas Hofstadter | — | 侯世达 | reasoning-analogy | 学界通行汉译（《哥德尔、艾舍尔、巴赫》作者） | 2026-11-05 |
 | Roy Harrod | — | 哈罗德 | reasoning-analogy | 学界通行汉译（经济学家） | 2026-11-05 |
+| Pateman, Carole | — | 卡罗尔·帕特曼 | c/contractarianism 首译 | 学界通行汉译（《性契约》中译本作者）；凭证 2026-11-07 | 2026-11-07 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 

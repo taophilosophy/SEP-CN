@@ -2,8 +2,44 @@
   "slug": "contractarianism",
   "kind": "retranslate",
   "zh_doc": "c/contractarianism.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T18:14:31Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T22:06:33Z",
+      "evidence": "账本 36 段 step1/step2 双版齐（ADR-0021 反思两步），p1-p3 填充后 compose 落盘 16318 字符；lq 守恒门通过：段数与 kind 对齐、36 段 source 与 yuanwen 逐字符一致、脚注键与 $ 计数守恒；软旗留痕：6 段机械标题段 step1==step2、段25/34 书名斜体并入中文书名号；段7 源 *hypothetical* 斜体按 rules/02 §37 映射为中文粗体，** 计数差异逐段豁免留痕"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T22:07:43Z",
+      "evidence": "全文对照 yuanwen 逐节核销（36 段逐字符身份校验，无漏译块）；s1 实修 18 处：错字“无偏私性质赔→无偏私性质疑”；帕累托最优定义主宾倒置（不减少一方/增加另一方→不减少另一方/增加一方）；Walsh 句末残句补完（“工具：通过揭示”→工具，其途径是揭示）；交叉引用节名对齐（“契约主义的颠覆”→颠覆性契约主义；“女性主义视角下的自我”→SUMMARY 定名“女性主义对自我的观点”词条第 1 节）；引注与源核对（Hume 1987/1777,470–1；Rawls 1971,141、109–112；Gauthier 1986,ch.V/VII/XI；Dworkin 1975）；人名按 ADR-0022 归一为汉名+首现括注（约翰·罗尔斯 John Rawls、戴维·戈蒂耶 David Gauthier、托马斯·斯坎伦、琼·汉普顿、查尔斯·米尔斯、卡罗尔·帕特曼、艾伦·布坎南），Narveson 无登记无通行汉名改保留英文；逻辑还原 4 处（它们避免假定…目的状语、“因而不合理性→并不理性”、“无助于为道德奠基”补全、“依赖适当的便利设施”补回 and depend on）；脚注 26 个文内标记全有定义、8 个未引定义系源文文献表自然组成部分（照录）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T22:09:20Z",
+      "evidence": "check_prose 29→4（de-chain 15→3、long-sentence 7→1、weak-verb 6→0、passive-bei 1→0）；三轮实修 12 处：长句拆分（假设性契约辩护/谈判让步条件/受约束最大化/信任氛围/动物道德地位推导）、弱动词改写（进行理性互动/作出并履行承诺/作出贡献→有所贡献或回报）、被动句改主动（白人男性被当作…→契约理论把白人男性视为…）、欧化“的”链改写（正义的环境/规则来源/退让幅度）；余 4 条逐条豁免留痕：①L16“实际的历史情形、可能的历史时刻”为术语列举照源；②L18 跨句“的”三连系机检误报（缔约者的/狭义的/实际的 分属不同分句）；③④L30 三项答案列举（每项带括注，拆开失真）；check_style --strict 0 issue"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T22:09:23Z",
+      "evidence": "check_style --strict 0 issue；check_academic --strict 0 硬错误（另按 done 级取消在途豁免模拟核查 0 硬 0 警）；check_math 0 缺式 0 不平衡；check_terms 0 硬错误；check_all 七项全绿；术语登记 8 行（contractarianism 自利契约论/contractualism 非自利契约论/contractarian 契约主义者/alienation contract 让渡契约/circumstances of justice 正义的环境/Lockean proviso 洛克式限制条款/minimax relative concession 最小最大相对让步/tuistic 利他的）+ 人名 1 行（卡罗尔·帕特曼）；尾节齐备：References（引用注释）+照录说明+34 条脚注定义、学术工具 4 行、其他网络资源、相关词条；相关词条“社会契约论的当代方法”对齐本批 contractarianism-contemporary 词条"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:35Z",
   "version_pin": {

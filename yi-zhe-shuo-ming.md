@@ -756,6 +756,14 @@
 | German Metaphysics | — | 《德语形而上学》（沃尔夫 1719，缩写 GM） | 18thGerman-preKant | 构词直译（沃尔夫德文教材系列通名）；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | German Ethics | — | 《德语伦理学》（沃尔夫 1720，缩写 GE） | 18thGerman-preKant | 构词直译（沃尔夫德文教材系列通名）；中文通行译法待 specs/008 审定库复核；凭证 2026-11-05 | 2026-11-05 |
 | Latin Logic | — | 《拉丁逻辑学》（沃尔夫 1728 Philosophia rationalis sive logica） | 18thGerman-preKant | 构词直译 | 2026-11-05 |
+| contractarianism | — | 自利契约论（正文亦作“契约主义”） | c/contractarianism 首译 | 学界通行译法（标题定名“自利契约论”，与 contractualism 非自利契约论对举）；凭证 2026-11-07 | 2026-11-07 |
+| contractualism | — | 非自利契约论 | c/contractarianism 首译 | 学界通行译法（与 contractarianism 自利契约论对举）；凭证 2026-11-07 | 2026-11-07 |
+| contractarian | — | 契约主义者 | c/contractarianism 首译 | 学界通行译法（与 contractualist 非自利契约论者对举）；凭证 2026-11-07 | 2026-11-07 |
+| alienation contract | — | 让渡契约 | c/contractarianism 首译 | 汉普顿（Jean Hampton）术语；霍布斯研究通行译法；凭证 2026-11-07 | 2026-11-07 |
+| circumstances of justice | — | 正义的环境 | c/contractarianism 首译 | 罗尔斯术语通行译法（《正义论》中译）；凭证 2026-11-07 | 2026-11-07 |
+| Lockean proviso | — | 洛克式限制条款 | c/contractarianism 首译 | 政治哲学通行译法（亦作“洛克式但书”）；凭证 2026-11-07 | 2026-11-07 |
+| minimax relative concession | — | 最小最大相对让步 | c/contractarianism 首译 | 博弈论／契约论通行译法（戈蒂耶术语）；凭证 2026-11-07 | 2026-11-07 |
+| tuistic / non-tuistic | tuism | 利他的／非利他的 | c/contractarianism 首译 | 戈蒂耶自造术语（tuistic），学界通行译法；凭证 2026-11-07 | 2026-11-07 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 
@@ -1560,18 +1568,6 @@
 | existential import | — | 存在蕴含 | 首现（sophismata） | 学界惯例（逻辑学通行；亦作“存在含义”备查）；凭证 2026-11-07 | 2026-11-07 |
 | exponible (exponibile) | exponibilia | 可展开句 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
 | congruitas | congruitas | 合语法性 | 首现（sophismata） | 学界惯例（中世纪语法研究保留拉丁原词）；凭证 2026-11-07 | 2026-11-07 |
-| copulative | — | 合取句 | 首现（sophismata） | 学界惯例（中世纪逻辑；现代术语为合取式）；凭证 2026-11-07 | 2026-11-07 |
-| exceptive word | — | 除外词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
-| exclusive word | — | 排除词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
-| personal supposition | suppositio personalis | 人称指代 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
-| corpus sophismatis | corpus sophismatis | 诡辩句正文 | 首现（sophismata） | 学界惯例（保留拉丁原词，首现括注）；凭证 2026-11-07 | 2026-11-07 |
-| mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
-| intension and remission of forms | intensio et remissio formarum | 形式的增强与减弱 | 首现（sophismata） | 学界惯例（中世纪自然哲学）；凭证 2026-11-07 | 2026-11-07 |
-| distribution | — | 分配 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
-| distributive sign | — | 分配符号 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
-| existential import | — | 存在蕴含 | 首现（sophismata） | 学界惯例（逻辑学通行；亦作“存在含义”备查）；凭证 2026-11-07 | 2026-11-07 |
-| exponible (exponibile) | exponibilia | 可展开句 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
-| congrutias | congrutias | 合语法性 | 首现（sophismata） | 学界惯例（中世纪语法研究保留拉丁原词）；凭证 2026-11-07 | 2026-11-07 |
 | copulative | — | 合取句 | 首现（sophismata） | 学界惯例（中世纪逻辑；现代术语为合取式）；凭证 2026-11-07 | 2026-11-07 |
 | exceptive word | — | 除外词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
 | exclusive word | — | 排除词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
