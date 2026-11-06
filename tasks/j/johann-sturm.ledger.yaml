@@ -123,98 +123,130 @@ segments:
     kind: body
     source: |-
       ### 1.1 Sources of Sturm’s thought
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.1 施图尔姆思想的来源
+    step2: |-
+      ### 1.1 施图尔姆思想的来源
   - id: 16
     kind: body
     source: |-
       In line with his eclectic approach to philosophy (see sect. 2), Sturm surveys and builds upon a wide range of sources. They include pre-Socratic authors, such as Thales, Pythagoras, Heraclitus, Parmenides, Empedocles, and Democritus as well as philosophers of the classical period, such as Hippocrates, Plato, Aristotle, Epicurus, Euclid, and Archimedes. Due to the Aristotelian curriculum dominating the life of early modern academic philosophers, Sturm draws upon Aristotle (in particular his Physics) more often than upon any other author. Furthermore, Sturm avails himself of Roman philosophers both Stoic, such as Cicero, Seneca, Pliny the Elder, and Plutarch, and Sceptic, such as Sextus Empiricus and Aulus Gellius. Other authors of the era include Potamon of Alexandria, whom Sturm takes to be the first eclectic philosopher; Galen, as well as Diogenes Laërtius, an important source for early modern philosophers to study the philosophers of antiquity.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      与其折衷主义的哲学进路相一致（见第 2 节），施图尔姆考察并依托广泛的思想来源。其中包括前苏格拉底作者，如 Thales、Pythagoras、Heraclitus、Parmenides、Empedocles 与 Democritus，以及古典时期的哲学家，如 Hippocrates、Plato、Aristotle、Epicurus、Euclid 与 Archimedes。由于亚里士多德主义的课程支配着近代早期学院哲学家的生涯，施图尔姆援引 Aristotle（尤其是其《物理学》）多于任何其他作者。此外，施图尔姆还利用罗马哲学家：斯多亚派的 Cicero、Seneca、Pliny the Elder 与 Plutarch，以及怀疑派的 Sextus Empiricus 与 Aulus Gellius。此时代的其他作者包括亚历山大里亚的 Potamon——施图尔姆视之为第一位折衷主义哲学家——以及 Galen，还有 Diogenes Laërtius，后者是近代早期哲学家研习古代哲学的一个来源。
+    step2: |-
+      施图尔姆既取折衷之路（见第 2 节），其所涉猎依托者亦广。前苏格拉底作者有 Thales、Pythagoras、Heraclitus、Parmenides、Empedocles、Democritus；古典时期则有 Hippocrates、Plato、Aristotle、Epicurus、Euclid、Archimedes。当时学院哲学家的生涯为亚里士多德课程所笼罩，故施图尔姆称引 Aristotle（尤重其《物理学》）尤多，过于他家。罗马作者亦在其取资之列：斯多亚派有 Cicero、Seneca、Pliny the Elder、Plutarch，怀疑派有 Sextus Empiricus、Aulus Gellius。其余如亚历山大里亚的 Potamon——施图尔姆以之为折衷哲学之首倡者——以及 Galen、Diogenes Laërtius；后者乃近代早期学者探究古代哲学之要籍。
   - id: 17
     kind: body
     source: |-
       Furthermore, Sturm knows the Church Fathers, that is, he mentions Clemens of Alexandria, Origen of Alexandria, and Lucius Caecilius Firmianus Lactantius. He takes the Church Fathers to be eclectics.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，施图尔姆熟悉教父，即提到 Clemens of Alexandria、Origen of Alexandria 与 Lucius Caecilius Firmianus Lactantius。他把教父视为折衷主义者。
+    step2: |-
+      施图尔姆于教父著作亦不陌生，尝举 Clemens of Alexandria、Origen of Alexandria、Lucius Caecilius Firmianus Lactantius；且以教父为折衷之徒。
   - id: 18
     kind: body
     source: |-
       Sturm is well-versed in the Aristotelian commentary tradition including the Greek commentators rediscovered in the Renaissance (Schmitt 1983)[^schmitt-1983], such as Iamblichus, Alexander of Aphrodisias, Themistius, Ammonius Hermeae, Simplicius of Cilicia, Philoponus (John the Grammarian), and Olympiodorus the Younger; the Arab commentators, such as Avicenna and Averroës; as well as the Latin commentators, such as Albertus Magnus, Thomas Aquinas, Duns Scotus, Durandus of St. Pourçain, and William of Ockham. Following a general line of thought manifesting itself in the Renaissance among both Aristotelian and Humanist thinkers (Schmitt 1983)[^schmitt-1983], Sturm takes the Greek commentators to be more reliable and true to the views of Aristotle himself than the Latin commentators (PE I: preface).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      施图尔姆精通亚里士多德评注传统，包括文艺复兴时期被重新发现的希腊注家（Schmitt 1983）[^schmitt-1983]，如 Iamblichus、Alexander of Aphrodisias、Themistius、Ammonius Hermeae、Simplicius of Cilicia、Philoponus（即“语法学家约翰”）与 Olympiodorus the Younger；阿拉伯注家，如 Avicenna 与 Averroës；以及拉丁注家，如 Albertus Magnus、Thomas Aquinas、Duns Scotus、Durandus of St. Pourçain 与 William of Ockham。遵循文艺复兴时期亚里士多德派与人文主义者共同呈现的一条思想路线（Schmitt 1983）[^schmitt-1983]，施图尔姆认为希腊注家比拉丁注家更可靠，也更忠于 Aristotle 本人的观点（PE I: 序言）。
+    step2: |-
+      施图尔姆深于亚里士多德评注之统绪。文艺复兴时重现的希腊注家（Schmitt 1983）[^schmitt-1983]，若 Iamblichus、Alexander of Aphrodisias、Themistius、Ammonius Hermeae、Simplicius of Cilicia、Philoponus（“语法学家约翰”）、Olympiodorus the Younger；阿拉伯注家若 Avicenna、Averroës；拉丁注家若 Albertus Magnus、Thomas Aquinas、Duns Scotus、Durandus of St. Pourçain、William of Ockham，皆所谙悉。文艺复兴以降，亚里士多德派与人文主义者同趋一途（Schmitt 1983）[^schmitt-1983]；施图尔姆沿之，谓希腊注家视拉丁注家更为可信，亦更得 Aristotle 之本旨（PE I: 序言）。
   - id: 19
     kind: body
     source: |-
       Sturm draws extensively on Aristotelian thinkers ranging from medieval scholastic authors, such as Gabriel Biel, to Renaissance and late early modern scholastic authors. The latter include Italian philosophers, for instance, Julius Caesar Scaliger, Andrea Caesalpino, Jacopo Zabarella, Giulio Pace, and Francisco Lana de Terzi; Dutch philosophers, such as Gijsbert Voet (Voetius); Spanish and Portuguese philosophers such as Gómez de Pereira, Pedro da Fonseca, Francisco de Toledo, Antonio Rubio, Francisco Suárez, Gabriel Vásquez, Pedro Hurtado de Mendoza, and Rodrigo de Arriaga; French philosophers, such as Samuel Maresius, Honoré Fabri, Jean Baptiste Du Hamel, and Pierre Daniel Huet; English philosophers, such as John Case and Gilbert Jack (Jacchaeus); and German Philosophers, such as Daniel Sennert, Christoph Scheibler, Johannes Zeisold, Johann Sperling, Jakob Thomasius, and Erhard Weigel. Sturm knows the German academic philosophical landscape very well, since these philosophers were influential in their respective fields (see Wundt 1938)[^wundt-1938], or since they were either Sturm’s colleagues or teachers. The latter is true of Zeisold and Weigel.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      施图尔姆广泛取资于亚里士多德主义思想家，从中世纪经院作者（如 Gabriel Biel）直到文艺复兴与近代早期晚段的经院作者。后者包括意大利哲学家，例如 Julius Caesar Scaliger、Andrea Caesalpino、Jacopo Zabarella、Giulio Pace 与 Francisco Lana de Terzi；荷兰哲学家，如 Gijsbert Voet（Voetius）；西班牙与葡萄牙哲学家，如 Gómez de Pereira、Pedro da Fonseca、Francisco de Toledo、Antonio Rubio、Francisco Suárez、Gabriel Vásquez、Pedro Hurtado de Mendoza 与 Rodrigo de Arriaga；法国哲学家，如 Samuel Maresius、Honoré Fabri、Jean Baptiste Du Hamel 与 Pierre Daniel Huet；英国哲学家，如 John Case 与 Gilbert Jack（Jacchaeus）；以及德国哲学家，如 Daniel Sennert、Christoph Scheibler、Johannes Zeisold、Johann Sperling、Jakob Thomasius 与 Erhard Weigel。施图尔姆对德国学院哲学的全貌极为熟悉，因为这些哲学家在各自领域颇具影响（见 Wundt 1938）[^wundt-1938]，或者曾是施图尔姆的同事或老师。后一种情况适用于 Zeisold 与 Weigel。
+    step2: |-
+      施图尔姆取资于亚里士多德主义诸家甚广：上自中世纪经院作者如 Gabriel Biel，下逮文艺复兴与近代早期晚段之经院学者。后者同意大利有 Julius Caesar Scaliger、Andrea Caesalpino、Jacopo Zabarella、Giulio Pace、Francisco Lana de Terzi；荷兰有 Gijsbert Voet（Voetius）；西班牙、葡萄牙有 Gómez de Pereira、Pedro da Fonseca、Francisco de Toledo、Antonio Rubio、Francisco Suárez、Gabriel Vásquez、Pedro Hurtado de Mendoza、Rodrigo de Arriaga；法国有 Samuel Maresius、Honoré Fabri、Jean Baptiste Du Hamel、Pierre Daniel Huet；英国有 John Case、Gilbert Jack（Jacchaeus）；德国有 Daniel Sennert、Christoph Scheibler、Johannes Zeisold、Johann Sperling、Jakob Thomasius、Erhard Weigel。施图尔姆于德国学院哲学之全局知之甚稔：诸家各擅其域，影响甚著（见 Wundt 1938）[^wundt-1938]；或则为施图尔姆之同僚、师门，Zeisold 与 Weigel 即其例。
   - id: 20
     kind: body
     source: |-
       In addition, Sturm is acquainted with humanist thinkers, such as Lorenzo Valla, Juan Louis Vives, Philip Melanchthon, and Pierre de la Ramée. Furthermore, his sources include early modern natural philosophers: microscopists, such as Marcello Malpighi, Antonie Philips van Leeuwenhoek, and Nehemiah Grew, but also astronomers such as Nicolaus Copernicus, Tycho Brahe, Galileo Galilei. Sturm is also familiar with Renaissance and early modern physicians and anatomists such as Jean Fernel, William Harvey, Claude Perrault, and Jean Pecquet.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，施图尔姆熟悉人文主义思想家，如 Lorenzo Valla、Juan Louis Vives、Philip Melanchthon 与 Pierre de la Ramée。他的来源还包括近代早期自然哲学家：显微镜学家，如 Marcello Malpighi、Antonie Philips van Leeuwenhoek 与 Nehemiah Grew，以及天文学家如 Nicolaus Copernicus、Tycho Brahe、Galileo Galilei。施图尔姆也熟悉文艺复兴与近代早期的医生和解剖学家，如 Jean Fernel、William Harvey、Claude Perrault 与 Jean Pecquet。
+    step2: |-
+      施图尔姆亦熟于人文主义者，如 Lorenzo Valla、Juan Louis Vives、Philip Melanchthon、Pierre de la Ramée。其取资又及近代早期自然哲学家：显微镜家若 Marcello Malpighi、Antonie Philips van Leeuwenhoek、Nehemiah Grew；天文学家若 Nicolaus Copernicus、Tycho Brahe、Galileo Galilei。文艺复兴与近代早期之医家、解剖学家，若 Jean Fernel、William Harvey、Claude Perrault、Jean Pecquet，亦所稔知。
   - id: 21
     kind: body
     source: |-
       Sturm is acquainted with alchemist sources, such as the *Corpus Hermeticum*, Paracelsus, Jan Baptista van Helmont, and Athanasius Kircher, as well as atomists such as Lucretius and Pierre Gassendi, none of whom he looks upon very favorably.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      施图尔姆熟悉炼金术来源，如《赫尔墨斯文集》（*Corpus Hermeticum*）、Paracelsus、Jan Baptista van Helmont 与 Athanasius Kircher，以及原子论者如 Lucretius 与 Pierre Gassendi，但他对这些人评价都不高。
+    step2: |-
+      炼金术文献若《赫尔墨斯文集》（*Corpus Hermeticum*）、Paracelsus、Jan Baptista van Helmont、Athanasius Kircher，以及原子论者 Lucretius、Pierre Gassendi，施图尔姆皆有所知，然评价均不甚高。
   - id: 22
     kind: body
     source: |-
       Concerning seventeenth-century philosophers, Sturm builds upon Francis Bacon and Gerrit Janszoon Vos (Vossius) regarding his eclectic philosophy and scientific method. He argues against Spinoza’s and Leibniz’s conception of nature, and mentions Thomas Hobbes, Kenelm Digby, Blaise Pascal, and Isaac Newton in passing. Sturm also argues against the Cambridge Platonists, such as Henry More and Ralph Cudworth. In contrast, he builds upon Cartesian thought, using René Descartes, Johann Clauberg, Géraud de Cordemoy, Louis de la Forge, Antoine le Grand, and Nicolas Malebranche as sources. Cordemoy, La Forge Malebranche, and the Christian mystic Pierre Poiret inspire Sturm’s case in favor of occasionalism.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至于十七世纪哲学家，施图尔姆在折衷哲学与科学方法上取资于 Francis Bacon 与 Gerrit Janszoon Vos（Vossius）。他反驳 Spinoza 与 Leibniz 的自然观，并顺带提及 Thomas Hobbes、Kenelm Digby、Blaise Pascal 与 Isaac Newton。施图尔姆也反驳剑桥柏拉图主义者，如 Henry More 与 Ralph Cudworth。相反，他在笛卡尔思想上有所取资，以 René Descartes、Johann Clauberg、Géraud de Cordemoy、Louis de la Forge、Antoine le Grand 与 Nicolas Malebranche 为来源。Cordemoy、La Forge、Malebranche 以及基督教神秘主义者 Pierre Poiret，启发了施图尔姆支持偶因论的论据。
+    step2: |-
+      十七世纪哲学家中，施图尔姆于折衷哲学与科学方法取资于 Francis Bacon 与 Gerrit Janszoon Vos（Vossius）。于 Spinoza、Leibniz 的自然观则加驳难，又顺笔及于 Thomas Hobbes、Kenelm Digby、Blaise Pascal、Isaac Newton。剑桥柏拉图主义者 Henry More、Ralph Cudworth，亦在所驳之列。至于笛卡尔一系，则有所取：René Descartes、Johann Clauberg、Géraud de Cordemoy、Louis de la Forge、Antoine le Grand、Nicolas Malebranche，皆其来源。其偶因论之论据，则得 Cordemoy、La Forge、Malebranche 与基督教神秘主义者 Pierre Poiret 之启。
   - id: 23
     kind: body
     source: |-
       Finally, Sturm corresponded extensively with members of the Royal Society, such as John Wallis, Robert Boyle, and Robert Hooke. It is in Boyle that he finds backup for his own position of the passivity of nature in the controversy with Leibniz and Schelhammer (see below).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      最后，施图尔姆与皇家学会成员广泛通信，如 John Wallis、Robert Boyle 与 Robert Hooke。正是在 Boyle 那里，他为自己在与 Leibniz 和 Schelhammer 的论争中所持的自然被动性立场找到了支持（见下文）。
+    step2: |-
+      终则施图尔姆与皇家学会诸人通问甚勤，若 John Wallis、Robert Boyle、Robert Hooke。其“自然被动”之立场，在与 Leibniz、Schelhammer 论辩之际，正于 Boyle 处得所援据（见下文）。
   - id: 24
     kind: body
     source: |-
       ### 1.2 Reception of Sturm in Leibniz and Wolff
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 莱布尼茨与沃尔夫对施图尔姆的接受
+    step2: |-
+      ### 1.2 莱布尼茨与沃尔夫对施图尔姆的接受
   - id: 25
     kind: body
     source: |-
       Today, Sturm is most commonly remembered as the polemical target of Leibniz’s essay *De Ipsa Natura* (1698), which is part of an articulated controversy between Sturm and Leibniz on whether nature can be considered endowed with active principles (a claim denied by Sturm and defended by Leibniz). In fact, Leibniz and Sturm knew of one another, since they were both students of Erhard Weigel (Lemanski 2018)[^lemanski-2018]. Presumably, they met in the 1660s, maybe when Leibniz was at Altdorf University in 1666 or when he was the secretary of the alchemical society in Nuremberg in 1667 (for Leibniz’s life, see Arthur 2014: x–xvi)[^arthur-2014]. The controversy between Leibniz and Sturm commenced in 1694–95 through correspondence (Palaia 1990) and continued later in the 1690s through academic dissertations and journal articles published in the *Acta eruditorum* (Henkel 2024, ch.2)[^henkel-2024].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      今天，施图尔姆最为人记住的，多半是作为莱布尼茨《论自然本身》（*De Ipsa Natura*，1698）一文的论战靶子。该文属于施图尔姆与莱布尼茨之间一场层次分明的论争，争点是自然是否可以被认为具有能动本原（施图尔姆否认，莱布尼茨主张）。事实上，莱布尼茨与施图尔姆彼此相知，因为二人皆出自埃哈德·魏格尔门下（Lemanski 2018）[^lemanski-2018]。他们大概在 1660 年代见过面，或是在 1666 年莱布尼茨就读阿尔多夫大学时，或是在 1667 年他担任纽伦堡炼金术学会秘书时（关于莱布尼茨生平，见 Arthur 2014: x–xvi）[^arthur-2014]。莱布尼茨与施图尔姆的论争自 1694–95 年的通信开始（Palaia 1990），其后在 1690 年代通过学术论文与发表于《学人学报》（*Acta eruditorum*）的期刊文章继续进行（Henkel 2024, ch.2）[^henkel-2024]。
+    step2: |-
+      今人忆及施图尔姆，多因其为莱布尼茨《论自然本身》（*De Ipsa Natura*，1698）的论战之的。此文乃二人一场层次分明之争的一环，所争在自然是否可被赋予能动本原：施图尔姆否认，莱布尼茨主张。二人实相知，盖同出埃哈德·魏格尔门下（Lemanski 2018）[^lemanski-2018]。其相遇或在 1660 年代，或在 1666 年莱布尼茨就读阿尔多夫大学之时，或在 1667 年其任纽伦堡炼金术学会秘书之时（莱布尼茨生平见 Arthur 2014: x–xvi）[^arthur-2014]。二人之争始于 1694–95 年间的通信（Palaia 1990），至 1690 年代复以学术论文及《学人学报》（*Acta eruditorum*）所刊文章续之（Henkel 2024, ch.2）[^henkel-2024]。
   - id: 26
     kind: body
     source: |-
       In his *De Ipsa Natura*, Leibniz presents Sturm as a supporter of Malebranche’s occasionalism. This charge is partially correct insofar as Sturm does claim, like Malebranche, that God is the only active efficient cause operating in nature. However, Leibniz oversimplifies Sturm’s position. Sturm’s account of passive forms is in fact different from Malebranche’s occasionalism for the role that it attributes to finite forms in the explanation of natural phenomena and for the relatively minor role that the notion of the laws of nature plays in Sturm’s account (see sect. 3).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《论自然本身》中，莱布尼茨把施图尔姆说成 Malebranche 偶因论的支持者。这一指控部分正确：施图尔姆确实像 Malebranche 一样主张，上帝是自然中唯一起作用的动力因。然而，莱布尼茨简化了施图尔姆的立场。施图尔姆关于被动形式的说明，实际上与 Malebranche 的偶因论不同：一在于它赋予有限形式在解释自然现象中的角色，二在于自然规律概念在施图尔姆说明中所起的相对次要的作用（见第 3 节）。
+    step2: |-
+      《论自然本身》以施图尔姆为 Malebranche 偶因论之党。此责半是：施图尔姆固如 Malebranche，谓上帝乃自然中唯一运作之动力因。然莱布尼茨简化其说。施图尔姆论被动形式，实与 Malebranche 偶因论有异：其一，于解释自然现象时，犹以有限形式居一角色；其二，自然规律之念在其说中居次，作用较微（见第 3 节）。
   - id: 27
     kind: body
     source: |-
       More generally, Sturm’s project is diametrically opposed to Leibniz’s. At the core of Leibniz’s criticisms is his commitment to the traditional scholastic view that the notions of substance and action are deeply interconnected (e.g. Leibniz 1989, 160)[^leibniz-1989]. The commitment to the notion of action as the fundamental ground to think about the very nature of substances underpins Leibniz’s main objections to Sturm’s account of the passivity of forms. Leibniz objects to the idea that any natural being could ever be adequately conceived, or taken to have any ontological consistency, without referring to some kind of activity. However, Sturm, in turn, rejects precisely Leibniz’s fundamental commitment to activity as the ontological ground of substances. As a result, Sturm hardly offers Leibniz any answer that would be satisfying from the latter’s point of view.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      更一般地说，施图尔姆的规划与莱布尼茨的规划方向相反。莱布尼茨批评的核心，是他坚持传统的经院观点：实体与行动这两个概念深度相联（例如 Leibniz 1989, 160）[^leibniz-1989]。莱布尼茨主要反对施图尔姆关于形式被动性的说明，其根据正是把行动当作思考实体本性的根本基础。莱布尼茨反对这样的想法：任何自然存在者都可以在不涉及某种活动的情况下被充分设想，或被赋予任何存在论上的一贯性。然而，施图尔姆恰恰拒斥莱布尼茨这一根本承诺——以活动为实体的存在论根据。因此，施图尔姆几乎无法给莱布尼茨提供任何从后者立场看会令人满意的回答。
+    step2: |-
+      进而言之，施图尔姆之规划与莱布尼茨适相背驰。莱布尼茨之讥弹，根柢在守经院旧说：实体与行动二义深相绾结（如 Leibniz 1989, 160）[^leibniz-1989]。其所以力攻施图尔姆“形式被动”之说者，正以行动为思实体本性之本。莱布尼茨不取此说：自然存在者可不涉任何活动而被充分设想，或具有存在论上的一贯性。而施图尔姆所拒者，恰是莱布尼茨这一根本主张——以活动为实体之存在论根据。故施图尔姆之答，自莱布尼茨观之，殆无一处可惬其意。
   - id: 28
     kind: body
     source: |-
       The clash of fundamental philosophical intuitions that surfaces in the exchange between Leibniz and Sturm is particularly interesting with regard to the complex evolution of early modern philosophy across the seventeenth and eighteenth centuries (Henkel 2021 and 2024, especially ch. 2; Sangiacomo 2020a and 2020b)[^henkel-2021][^henkel-2024][^sangiacomo-2020a][^sangiacomo-2020b]. In a sense, Leibniz voices the main objection that can be raised against Sturm; namely, without some active principle “mechanical forms” are just idle constructions that cannot perform any genuine explanatory role. However, Sturm’s consistent way of maintaining that explanation does *not* require any reference to intrinsic causal powers points, in fact, to an alternative account of causation and causal explanations altogether, which was emerging at the time (Carraud 2002; Sangiacomo 2019, 2020c)[^sangiacomo-2019][^carraud-2002].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      莱布尼茨与施图尔姆交锋中显露的根本哲学直觉的冲突，对于理解十七、十八世纪近代早期哲学的复杂演变特别有意义（Henkel 2021 and 2024, especially ch. 2; Sangiacomo 2020a and 2020b）[^henkel-2021][^henkel-2024][^sangiacomo-2020a][^sangiacomo-2020b]。在某种意义上，莱布尼茨说出了针对施图尔姆所能提出的主要反对意见：没有某种能动本原，“机械形式”就只是闲置的构造，不能起任何真正的解释作用。然而，施图尔姆一贯主张解释并*不*需要诉诸内在的因果力，这实际上指向一种关于因果与因果解释的替代性说明，而这一说明当时正在兴起（Carraud 2002; Sangiacomo 2019, 2020c）[^sangiacomo-2019][^carraud-2002]。
+    step2: |-
+      二人交锋所显之根本哲学直觉之冲突，于理解十七、十八世纪近代哲学的复杂嬗变，关系甚大（Henkel 2021 and 2024, especially ch. 2; Sangiacomo 2020a and 2020b）[^henkel-2021][^henkel-2024][^sangiacomo-2020a][^sangiacomo-2020b]。就一义言，莱布尼茨所发，正是施图尔姆可受之要难：苟无某种能动本原，“机械形式”不过虚设，无解释之实功。然施图尔姆始终谓解释*不*待于内在因果力；此说实指向一种因果与因果解释的替代之论——其论方兴于当时（Carraud 2002; Sangiacomo 2019, 2020c）[^sangiacomo-2019][^carraud-2002]。
   - id: 29
     kind: body
     source: |-
       Despite Leibniz opposing Sturm’s metaphysics and natural philosophy, he was appreciative of and influenced by Sturm’s (and Weigel’s) developments in logic (Lemanski 2018)[^lemanski-2018]. Furthermore, Leibniz’s major philosophical ally in Germany, Christian Wolff, was very much fond of Sturm himself. So much so that it was Wolff who supported the publication of the *pars specialis* of Sturm’s PE and provided a preface to it. Wolff was probably familiar with Sturm due to Wolff’s former teacher, Georg Albrecht Hamberger (1662–1716), who in turn had studied with Sturm (Gaab, in Gaab et al. 2004: 48f)[^gaab-2004].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      尽管莱布尼茨反对施图尔姆的形而上学与自然哲学，他却欣赏施图尔姆（以及魏格尔）在逻辑学上的进展，并受其影响（Lemanski 2018）[^lemanski-2018]。此外，莱布尼茨在德国的主要哲学盟友克里斯蒂安·沃尔夫，本人对施图尔姆颇为倾心。以至于正是沃尔夫支持了施图尔姆《择取物理学》“特殊部分”的出版，并为它作序。沃尔夫之所以熟悉施图尔姆，多半是通过他以前的老师格奥尔格·阿尔布雷希特·哈姆贝格尔（1662–1716），而哈姆贝格尔本人曾从施图尔姆受业（Gaab，载 Gaab et al. 2004: 48f）[^gaab-2004]。
+    step2: |-
+      莱布尼茨虽于施图尔姆之形而上学与自然哲学深致不满，然颇赏其（及魏格尔）于逻辑学之创获，且受其沾溉（Lemanski 2018）[^lemanski-2018]。又，莱布尼茨在德国之主要哲学盟友克里斯蒂安·沃尔夫，于施图尔姆本人推重甚至，遂助其《择取物理学》“特殊部分”付梓，且为之作序。沃尔夫之知施图尔姆，盖由旧师格奥尔格·阿尔布雷希特·哈姆贝格尔（1662–1716）；哈姆贝格尔则尝受业于施图尔姆（Gaab，载 Gaab et al. 2004: 48f）[^gaab-2004]。
   - id: 30
     kind: body
     source: |-
       In his preface, Wolff is full of praise for Sturm, especially because he believes to find in Sturm’s method an anticipation of his own tripartite division of knowledge into historical knowledge or knowledge of facts, philosophical knowledge or knowledge of causes, and mathematical knowledge or knowledge of the quantities of things put down in the first chapter of the *Philosophia Rationalis* (see SEP entry on Christian Wolff, sects. 3 and 7). However, Wolff is aware that mathematical quantification does not figure in Sturm’s method as prominently as the other two types of knowledge. Besides, Wolff compliments Sturm for establishing experimental teaching (*collegia*) — an academic novelty. Moreover, he looks very favorably on Sturm’s three physics, praising Sturm’s scientific method (sect. 2), and pointing out the very positive reception of the first part of the PE. He laments the absence of a third part (the *pars specialissima*) of the PE, which was supposed to deal with living beings. Sturm’s death prevented its termination and successive publication. However, in order to close this gap, Wolff directs the reader to the lecture of Honoré Fabri’s works on plants, animals and human beings. Indeed, Sturm himself had allegedly recommended to the editor to join Fabri’s writings on these matters with the two completed parts of the PE to provide a complete physics. Besides Fabri, in the preliminaries, Wolff directs the reader to the works of Gassendi, Clauberg, Du Hamel, La Forge, Cordemoy, Harvey, Perrault, Malpighi, Grew, and Ray to obtain knowledge about plants, animals, and especially the connection of the mind and the body in the human case.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在序言中，沃尔夫对施图尔姆满是赞誉，尤其是因为他在施图尔姆的方法中看到了对自己知识三分法的预示：历史的知识或事实的知识、哲学的知识或原因的知识、数学的知识或事物数量的知识——这一划分见于《理性哲学》（*Philosophia Rationalis*）第一章（参见 SEP 词条“克里斯蒂安·沃尔夫”第 3、7 节）。然而，沃尔夫也意识到，数学量化在施图尔姆的方法中并不像另外两类知识那样突出。此外，沃尔夫称赞施图尔姆建立了实验教学（*collegia*）——一项学术上的新事物。而且，他对施图尔姆的三部物理学评价甚高，称赞其科学方法（第 2 节），并指出《择取物理学》第一部分所受到的极为积极的欢迎。他惋惜《择取物理学》第三部分（即“最特殊部分”）的缺失，该部分本应处理生命存在者。施图尔姆之死使其中断，未能终篇继刊。然而，为了弥补这一空缺，沃尔夫引导读者去读 Honoré Fabri 论植物、动物与人的著作。事实上，据说施图尔姆本人曾向编者建议，把 Fabri 论这些题目的著作与《择取物理学》已完成的两部分合在一起，以构成一部完整的物理学。除 Fabri 之外，沃尔夫在导言中引导读者去读 Gassendi、Clauberg、Du Hamel、La Forge、Cordemoy、Harvey、Perrault、Malpighi、Grew 与 Ray 的著作，以获取关于植物、动物，尤其是人身上心身联系的知识。
+    step2: |-
+      序中沃尔夫于施图尔姆称美甚至，盖以其方法预示自家知识三分之说：历史的知识（事实之知）、哲学的知识（原因之知）、数学的知识（事物数量之知），其说具见《理性哲学》（*Philosophia Rationalis*）首章（参见 SEP 词条“克里斯蒂安·沃尔夫”第 3、7 节）。然沃尔夫亦知，数学量化在施图尔姆方法中不如其余二类之显。又赞其创设实验教学（*collegia*），为学界新事。于其三部物理学亦甚称许，褒其科学方法（第 2 节），且举《择取物理学》前编见纳之盛。所惜者，第三编“最特殊部分”本应论生命存在者，因施图尔姆之殁而中辍，未克终篇继刊。沃尔夫欲补此阙，遂导读者读 Honoré Fabri 论植物、动物、人之作。盖闻施图尔姆尝劝编者，取 Fabri 论此诸题之书，与《择取物理学》已成二编合为一完整物理学。除 Fabri 外，沃尔夫于导言中又导读者读 Gassendi、Clauberg、Du Hamel、La Forge、Cordemoy、Harvey、Perrault、Malpighi、Grew、Ray 之书，以知植物、动物，尤以知人身上心身之联系。
   - id: 31
     kind: body
     source: |-
