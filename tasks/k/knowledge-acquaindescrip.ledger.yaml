@@ -272,65 +272,65 @@ segments:
     source: |-
       Foundationalism regarding justification is often motivated by some version of the regress argument. (Foundationalism regarding knowledge can be motivated by a parallel version of the regress argument, put in terms of knowledge rather than justification.) The argument goes roughly as follows. By definition, any belief *B* that is an instance of nonfoundational or inferential justification must depend on some inference or inferential relation to other beliefs. It seems that this dependence on other beliefs must take one of four forms: (i) the belief depends inferentially on other beliefs, and the latter beliefs on yet other beliefs, to infinity; (ii) the inference eventually loops back to belief *B*, so that *B* depends on itself for its justification; (iii) the belief ultimately depends on other beliefs that are not themselves justified; or (iv) the belief ultimately depends on a foundationally justified belief: a belief that is justified but that does not depend on other beliefs for its justification. The foundationalist argues that each of the alternatives to (iv) is seriously problematic: (i) An infinite regress is vicious, and even if it isn’t, this is no help for finite minds like our own. (ii) Circular reasoning is vicious; one cannot depend, even in part, on a belief that *p* in order to justify believing that *p*. (iii) One cannot generate justification by relying on unjustified beliefs (“garbage in, garbage out!”). So that leaves (iv): if any of our beliefs are justified, then they must either be foundationally justified or depend, ultimately, on foundational beliefs for their justification.
     step1: |-
-
+      关于证成的基础主义，其动机常取自某种版本的回溯论证。（关于知识的基础主义，也可由一个平行的回溯论证来激励，只是措辞不用证成而用知识。）该论证大略如下。按定义，凡属非基础或推论性证成之实例的任何信念 *B*，必依赖于某种推理或与其他信念的推论关系。这种对其他信念的依赖，看似只能取四种形式之一：（i）该信念推论地依赖于其他信念，后者又依赖于更后的信念，如此无穷；（ii）推理最终绕回信念 *B*，于是 *B* 部分地以其自身为证成；（iii）该信念最终依赖于本身并不被证成的其他信念；（iv）该信念最终依赖于一个基础地被证成的信念：一个已被证成、但其证成不依赖于其他信念的信念。基础主义者主张，（iv）之外的每一个选择都毛病严重：（i）无穷回溯是恶性的；纵使不算恶性，对我等有限心灵也毫无助益。（ii）循环论证是恶性的；为了证成相信 *p*，人不能——哪怕只是部分地——依赖于一个 *p* 信念。（iii）依靠不被证成的信念生不出证成（“垃圾进，垃圾出！”）。于是只剩（iv）：如果我们的任何信念是被证成的，那么它们要么基础地被证成，要么最终依赖于基础信念而获得证成。
     step2: |-
-
+      证成问题上的基础主义，其理据往往是某种形式的回溯论证。（知识问题上的基础主义亦复如是，只是把“证成”换成“知识”便得一个平行版本。）论证的骨架如下。按定义，凡属非基础性证成或推论性证成之实例的信念 *B*，都必须倚赖某种推理、某种与其他信念之间的推论关系。而这份对其他信念的倚赖，看来不外四种形态：（i）此信念推论地倚赖彼信念，彼信念又倚赖更后者的信念，层层无尽；（ii）推理兜转一圈终又回到 *B*，于是 *B* 的证成有取于自身；（iii）此信念最终落到本身并未被证成的那些信念上；（iv）此信念最终落到一个具有基础性证成的信念上——它已被证成，而其证成不待其他信念。基础主义者的论定是：除（iv）外，条条出路都伤筋动骨。（i）无穷回溯是恶性的；即便不恶性，于我们这些有限心灵也全无用处。（ii）循环论证是恶性的；要证成“相信 *p*”，就不能哪怕一分一毫地借用 *p* 这一信念。（iii）拿未被证成的信念当依托，证成便无从产生——“垃圾进，垃圾出”。剩下的就只有（iv）了：我们若有被证成的信念，它们或是本身具有基础性证成，或是终究把证成寄托在基础信念之上。
   - id: 34
     kind: body
     source: |-
       Some worry that (iv) is no better, and possibly worse, than the alternatives: how could a belief be justified, or be an instance of knowledge, without depending on other beliefs? The acquaintance theorists seems to have an answer: acquaintance with facts is designed to end the potentially vicious regress of justification. But how exactly do we get noninferential knowledge or justified belief out of acquaintance? An acquaintance theorist who accepts the correspondence theory of truth can provide a relatively straightforward answer. On what is surely the classical conception of truth, truth consists in correspondence between the truth bearer (the proposition, thought, or belief) and the representation-independent fact to which that truth bearer corresponds (see the entry on the correspondence theory of truth). The question of what constitute the primary bearers of truth value is a matter of enormous controversy. Suppose, though, for this discussion that it is a thought that is the primary bearer of truth value (sentences are derivatively true or false when they express thoughts that are true or false).
     step1: |-
-
+      有人担心（iv）并不比其余选项更好，甚至更糟：一个信念若不依赖于其他信念，怎能是被证成的，又怎能是知识的实例？亲知理论家似乎有答案：对事实的亲知，正为终止那可能恶性的证成回溯而设。但我们究竟如何从亲知得到非推论的知识或被证成的信念？接受真理符合论的亲知理论家可以给出一个相对直接的回答。在无疑属于真理之古典构想的那个看法里，真理在于真理承担者（命题、思想或信念）与那个不依赖表征的事实之间的符合，而该事实正是真理承担者所符合者（参见真理符合论词条）。至于什么是真值的首要承担者，则是争议极大的问题。此处且为讨论方便假定：首要的真值承担者是思想（语句只是派生地为真或为假，当且仅当它表达的思想为真或为假）。
     step2: |-
-
+      也有人疑心（iv）不比别项高明，甚至更劣：信念若不靠其他信念，如何能算被证成、如何能算知识？亲知理论家似有成竹在胸——对事实的亲知，本就是为截断那条可能恶性的证成回溯而设。可话说回来，非推论的知识、被证成的信念，究竟怎样从亲知里得出来？一位接受真理符合论的亲知理论家，答起来倒干脆。真理的古典构想（几乎可以断定那就是古典构想）谓：真理在于真理承担者——命题、思想或信念——与那个独立于表征的事实相符合，该事实恰是其所符合者（参见真理符合论词条）。何者为真值的首要承担者，则是聚讼纷纭之题。为便于下文，姑且假定首要承担者是思想（语句之真假只是派生的：它所表达的思想真假，它才真假）。
   - id: 35
     kind: body
     source: |-
       On a simple version of this view (perhaps too simple to have any contemporary proponents, but an instructive place to start), we have noninferential or foundational knowledge that *P* if and only if we have the thought that *P* while we are directly acquainted with the fact that *P*—i.e., a truth-maker of the thought that *P*. So if I am the kind of being who has the conceptual sophistication to form thoughts, and I have the thought that I am in pain while I am acquainted with the fact that I am in pain, I have the most secure and basic sort of knowledge of truth.
     step1: |-
-
+      按这一观点的简单版本（也许过于简单，以至于当代无人主张，但作为起点颇有启发），当且仅当我们在直接亲知 *P* 之为真的事实——亦即思想 *P* 的一个使真者——的同时拥有 *P* 这一思想，我们才有关于 *P* 的非推论知识或基础知识。所以，如果我是一类有能力形成思想的、概念上足够精细的存在者，而当我亲知我正疼痛的事实时又拥有我正疼痛这一思想，我就拥有了最可靠、最基本的真理知识。
     step2: |-
-
+      这一观点的素朴版本（素朴到当代或无人持守，却是个有益的下手处）谓：当且仅当人拥有 *P* 这一思想，同时又直接亲知 *P* 之为事实——即思想 *P* 的一个使真者——他才有关于 *P* 的非推论知识、基础知识。是故，只要我这样一个在概念上足以成想的存在者，于亲知“我在疼痛”这一事实之际正怀有“我在疼痛”这一思想，我所得到的便是最稳当、最底层的真理知识。
   - id: 36
     kind: body
     source: |-
       We said earlier that acquaintance is not itself judgmental or propositional, and so does not have truth value—it is a form of awareness *of* something, not awareness *that* something is so-and-so. However, this leaves open the possibility that the *object or target* of acquaintance—that with which one is acquainted—be propositional or have truth value. If I am acquainted with the proposition or thought that I am in pain then I am acquainted with something that has truth value, even though acquaintance itself is not to be understood as propositional in nature. The simple view we are considering might hold that one has foundational knowledge that one is in pain if, in addition to being acquainted with one’s being in pain, one is also acquainted with the thought or proposition that one is in pain.
     step1: |-
-
+      前面我们说过，亲知本身并非判断性的或命题性的，因而没有真值——它是一种 *对* 某物的觉察，而不是 *觉察到* 某物如此这般。但这并不排除如下可能：亲知的 *对象或目标*——人所亲知者——本身是命题性的或有真值。如果我亲知“我在疼痛”这一命题或思想，那么我所亲知的就是一个有真值的东西，尽管亲知本身不宜按命题性来理解。我们正在考虑的简单观点也许主张：一个人有关于自己疼痛的基础知识，只要他除了亲知自己的疼痛之外，还亲知“我在疼痛”这一思想或命题。
     step2: |-
-
+      上文业已言明：亲知自身不是判断性的、也不是命题性的，故而无所谓真值——它是 *对* 某物的觉察，不是 *觉察到* 某物如此这般。然而仍有一种可能未被关闭：亲知的 *对象或目标*，即人所亲知者，本身可以具有命题性、可以承载真值。倘若我亲知“我在疼痛”这一命题或思想，那我亲知的便是一个有真值者，尽管亲知自身不可按命题性去解。眼下这一素朴观点不妨如此主张：人除亲知自己的疼痛之外，又亲知“我在疼痛”这一思想或命题，则他就有关于自身疼痛的基础知识。
   - id: 37
     kind: body
     source: |-
       This view of how we get from acquaintance to noninferential knowledge or justified belief is problematic, however. First, the account seems too weak, for acquaintance with a fact that corresponds to a thought is *not sufficient for justification*, let alone knowledge. Suppose that I am aware of the fact of there being a decagon in my visual field. Suppose that I also believe that there is a decagon in my visual field, but my belief is little more than a lucky guess, or that I only believe this because I think there always is a decagon in my visual field. Intuitively, the belief is not justified. Second, the account seems too strong, for the requirement that one’s thought correspond to reality rules out the possibility of *false* noninferentially justified belief. The resulting infallibilism regarding foundational belief is a *prima facie* implausible requirement, and arguably has radically skeptical consequences. This second problem will be taken up later, in section 6.
     step1: |-
-
+      然而，这一关于如何从亲知走到非推论知识或被证成信念的说法，是有问题的。第一，这个说明看似太弱：亲知一个与思想符合的事实，*并不足以证成*，遑论知识。设想我觉察到我视场中有一个十边形。又设想我相信我视场中有一个十边形，但我的信念不过是一次侥幸猜中，或者我只是因为我相信视场中总有一个十边形才这样相信。按直觉，这个信念没有被证成。第二，这个说明又看似太强：要求思想与实在符合，就排除了 *假的* 非推论地被证成信念的可能性。由此得到的关于基础信念的无误论是一项 *乍看* 就不可信的要求，而且可以说带来彻底的怀疑论后果。这第二个问题将在第 6 节再作处理。
     step2: |-
-
+      可是这一说法——从亲知如何通往非推论知识或被证成信念——却毛病不少。其一，说明似嫌过弱：亲知了一个同思想相符的事实，*尚不足以为证成*，何况知识。试设想：我觉察到我视场中有一个十边形；我又相信视场中有个十边形，可这信念不过碰巧猜着，抑或只因我认定视场中向来有个十边形才信它。直觉上，此信念未被证成。其二，说明又似嫌过强：一旦要求思想与实在相符，*假的* 非推论地被证成信念就再无可能。如此得到的基础信念无误论，*初看* 便已失之可信，且大可导向一败涂地的怀疑论。这第二个问题留待第 6 节再论。
   - id: 38
     kind: body
     source: |-
       Contemporary acquaintance theorists have defended more sophisticated versions of the view. In response to the first problem, the acquaintance theorist can agree that in order to be justified it is not enough that the subject be acquainted with a fact that happens to correspond to what is believed. It will be useful to divide the responses into two broad camps, introduced in the next two sub-sections: those that require, in addition to acquaintance with some fact, some sort of awareness of the correspondence between the thought and what it is about (or perhaps awareness of some other epistemically relevant relation—see the end of section 6), and those that require that the beliefs involve demonstrative or phenomenal concepts.
     step1: |-
-
+      当代亲知理论家已辩护了更为精致的版本。针对第一个问题，亲知理论家可以同意：要有证成，主体亲知一个恰好与所信者符合的事实还不够。以下区分两类回应颇有便利，将由随后两小节引出：一类要求，除亲知某个事实之外，还须以某种方式觉察到思想与其所指之间的符合（或觉察到其他某种在知识论上相关的关系——参见第 6 节末）；另一类则要求相关信念涉及指示性概念或现象概念。
     step2: |-
-
+      当代亲知理论家已把此说打磨得精致得多。就头一个问题，他们尽可让步：单有主体亲知某个恰好与所信相合的事实，于证成仍嫌不足。以下把回应划成两大阵营，颇便于行文，分别由紧接着的两小节引出。一派另加一条件：除亲知某事实外，还须以某种方式觉察到思想与其所关于者之间的符合（或觉察到别种知识论上相关的关系——说详见第 6 节末）；另一派则要求相关信念动用指示性概念或现象概念。
   - id: 39
     kind: body
     source: |-
       ### 3.1 Awareness of Correspondence
     step1: |-
-
+      ### 3.1 对符合的觉察
     step2: |-
-
+      ### 3.1 对符合的觉察
   - id: 40
     kind: body
     source: |-
       Why is acquaintance with a fact that corresponds to one’s thought not sufficient for justification? Consider the example mentioned above. I can be directly aware of there being a decagon in my visual field, believe that there is a decagon in my visual field, and yet I might fail to be justified if I believe this not because I am unaware of there being a decagon in my visual field, but because my belief was little more than a guess, or because I believe (without justification) that there are always decagons in my visual field. This might suggest that the acquaintance theorist need only add some condition to the effect that the subject must believe that *p because* she is aware of a corresponding fact. Most acquaintance theorists will not be entirely happy with this suggestion. Acquaintance theorists are paradigm internalists about justification: they typically accept the internalist thesis that one can be justified in believing that *p* only if one has a reason or evidence in favor of *p*’s truth, something in virtue of which the truth of *p* is not a mere accident from his or her perspective; externalists deny this thesis (see the entry on internalist vs. externalist conceptions of epistemic justification). Acquaintance theorists are therefore likely to insist that awareness of the fact that *p* cannot provide justification for believing that *p* unless the subject is in some way also aware of the relevance of that fact to the truth of *p*. This awareness of the relevance of some fact to the truth of *p* might be accepted as part of the epistemic basing relation, and for this reason necessary for “doxastic justification”: in order for *S* to be justified in believing that *p* on the basis of some ground or evidence e, *S* must be aware of the relevance of *e* to *p*’s truth, and believe that *p* directly because of this awareness. Alternatively, the awareness of the relevance of some fact to the truth of *p* might be taken as a condition for even “propositional justification”: in order for *S* to have or possess noninferential justification for believing that *p* (even if *S* does not believe that *p*, or does not properly base the belief on that justification), *S* must not only be acquainted with some fact that is relevant to the truth of *p*, but must also be aware, in some way, of the relevance of that fact to the truth of *p*. Moser (1989: 141–5) seems to endorse a view of the former sort, while Fumerton (1995) endorses the latter. (While the distinction between propositional and doxastic justification is important, to simplify discussion, we do not distinguish carefully between these below.)
     step1: |-
-
+      为什么亲知一个与思想符合的事实，不足以保证证成？且考虑上面提到的例子。我可以直接觉察到我视场中有一个十边形，相信视场中有个十边形，却仍然可能没有被证成——如果我这样相信并非因为我不知道视场中有十边形，而是因为我的信念不过是一次猜测，或者因为我（无根据地）相信我的视场中总有十边形。这或许暗示：亲知理论家只需补上一条，大意是主体必须 *因为* 觉察到相符事实而相信 *p*。多数亲知理论家对此并不会全然满意。亲知理论家是证成内在论的范型：他们通常接受内在论命题——一个人只有在有利 *p* 之真相的理由或证据、即从其视角看 *p* 之为真并非偶然的东西时，才可能有理由相信 *p*；外在论者否认这一命题（参见知识证成的内在论与外在论构想词条）。因此亲知理论家多半会坚持：除非主体以某种方式也觉察到该事实与 *p* 之真相的相关性，对 *p* 这一事实的觉察便不能为相信 *p* 提供证成。这种对某事实与 *p* 真相之相关性的觉察，可以被纳入知识论的基据关系，因而对“信念态证成”是必需的：要使 *S* 有理由基于某个根据或证据 e 相信 *p*，*S* 必须觉察到 e 与 *p* 之真相的相关性，并直接因这一觉察而相信 *p*。或者，这种觉察可以被当作“命题态证成”的条件：要使 *S* 拥有或持有相信 *p* 的非推论证成（即便 *S* 并不相信 *p*，或未把该信念恰当地建立在这份证成之上），*S* 不仅须亲知某个与 *p* 之真相相关的事实，还须以某种方式觉察到该事实与 *p* 真相的相关性。Moser（1989: 141–5）似乎主张前一种看法，而 Fumerton（1995）主张后一种。（命题态证成与信念态证成的区分固然重要，但为简化讨论，下文不作严格区分。）
     step2: |-
-
+      亲知一个同思想相符的事实，何以为证成所不足？回看上例。我尽可直接觉察视场中有个十边形，尽可相信视场中有个十边形，却仍可能未被证成——只要我如此相信之故，不在于我未见视场中有十边形，而在于这一信念无非一猜，或在于我（无证而成地）认定视场中向来有十边形。据此也许有人提议：亲知理论家只须添上一条，谓主体必 *因* 觉察到相符事实而信 *p*。多数亲知理论家却不会就此安心。盖亲知理论家乃证成内在论的标准样板：他们一般接受内在论题——人之所以有理由相信 *p*，只在他握有偏袒 *p* 之真相的理由或证据，即从其自身视角看去 *p* 之为真绝非偶然的某种东西；外在论者正是拒绝这一题（参见知识证成的内在论与外在论构想词条）。故亲知理论家多半要力主：主体若不以某种方式同时觉察到该事实之于 *p* 真相的关涉，则对 *p* 这一事实的觉察就无法为相信 *p* 供给证成。这份对“某事实与 *p* 真相相关”的觉察，可归入知识论的基据关系，于是为“信念态证成”所必需：要使 *S* 本于某根据或证据 e 而有理由相信 *p*，*S* 须觉察到 e 与 *p* 真相的关涉，并正因这一觉察而直接相信 *p*。也可换一副要求：把它算作“命题态证成”的条件——要使 *S* 持有相信 *p* 的非推论证成（纵然 *S* 实际不信 *p*，或未把信念如法安放在该证成上），*S* 不光要亲知某个与 *p* 真相相关的事实，还须以某种方式觉察到那事实与 *p* 真相的关涉。Moser（1989: 141–5）似取前一解，Fumerton（1995）则取后一解。（命题态证成与信念态证成之别自是紧要，但为省事，下文不再细加区分。）
   - id: 41
     kind: body
     source: |-
