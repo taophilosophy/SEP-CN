@@ -213,3 +213,7 @@
 * 深读累计 **48 条全 pass**（+demonstration-medieval——d 批推进）。正文对照过：导语（证明理论史全景/后分析篇接受链）、格罗斯泰斯特（质料定义/形式定义/aestimatio/光形而上学）、科学从属两义、阿尔伯特-阿奎那之争（条件必然性/流溢动力因）、最高一类证明之争（窃题谬/本质性概念）、奥卡姆（直言/假言之分/concretum）逐节核销；数字比对 0 实质差异；style 0/academic 0。
 * 移交（管线域）：镜像转换器缺陷——正文 0 个 [^key] 引用、54 条定义全部悬空，与契约注记"文内'作者-年份'引用组后附 [^key] 标记"承诺不符（源 SEP 引用为纯括注文本，转换器未挂键）。译文忠实镜像无问题；建议 specs/001 清查同类词条（契约注记在而引用键全缺者）批量补挂或修注记。
 * 存量留痕：[^al-1932] 条目括注未闭合+"avalable"拼写系源文笔误照录。
+* 深读累计 **49 条全 pass**（+descartes-ontological——d 批推进）。正文对照过：导语/简单性/本质存在区分两节、版本 A/B 形式化、引文 [1][2][3]（AT/CSM 页码逐条对齐——"译多 AT 7:164"实为镜像源文"7: 164"带空格的排版归位）、诗篇 53.1 等；数字比对 0 实质差异；style 0/academic 0/terms 0。
+* 实修 9 处：相关词条行旧"姓，名"倒装形→SUMMARY 主名形（托马斯·阿奎那/勒内·笛卡尔/笛卡尔的认识论/笛卡尔的生平及著作/笛卡尔的模态形而上学/普法尔茨的伊丽莎白公主/伊曼努尔·康德/伯特兰·罗素/坎特伯雷的安瑟伦）。
+* 管线增强（lq.py）：①map_related 剥 SEP 方括号别名注记；②summary_index 反转义 SUMMARY 行内 \[ \]（含转义别名的行此前整行丢失不入索引）+title 贪婪解析+zh/en 按"最后中文字符"切分——总键 1872→1874（捞回转义行），三词条回归绿（logic-provability 0/24、descartes-ontological 0/11、duhem 维持 2 既有债）。存量债留痕：SUMMARY en 与 SEP raw 形态差异两项（atomism: 17th to 20th century/underdetermination, of scientific theories）；嵌套括号作者名（Verbrugge, Rineke (L.C.)）去括注不净。
+* 移交（管线域）：正文部分 [^key] 挂接缺失（Kenny/Wilson/Chappell/Nolan 等括注无键）——转换器部分挂接债，同 demonstration-medieval 全缺案，specs/001 清查。
