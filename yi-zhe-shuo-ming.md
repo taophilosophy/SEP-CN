@@ -1613,3 +1613,46 @@
 | suffrage | — | 选举权 | 首现（schlegel） | 学界惯例（政治哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | Wechselerweis | Wechselerweis | 交替证明（亦作“交互证明”） | 首现（schlegel） | 学界惯例（施莱格尔研究保留德文原词）；凭证 2026-11-07 | 2026-11-07 |
 | Grundsatzkritik | Grundsatzkritik | 原理批判 | 首现（schlegel） | 学界惯例（德国观念论研究保留德文原词）；凭证 2026-11-07 | 2026-11-07 |
+| civil association | — | 公民联合 | oakeshott 首译 | 学界惯例（奥克肖特研究通行；与 enterprise association 对举）；凭证 2026-11-07 | 2026-11-07 |
+| enterprise association | — | 事业联合 | oakeshott 首译 | 学界惯例（奥克肖特研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| civil condition | — | 公民境况 | oakeshott 首译 | 学界惯例（《论人类行为》英译为 the civil condition）；凭证 2026-11-07 | 2026-11-07 |
+| mode（奥克肖特经验范畴） | mode | 模式 | oakeshott 首译 | 学界惯例（《经验及其模式》中译本通行）；凭证 2026-11-07 | 2026-11-07 |
+| telocracy | teleocracy | 目的统治 | oakeshott 首译 | 学界惯例（奥克肖特政治哲学研究；亦作『目的论统治』备查）；凭证 2026-11-07 | 2026-11-07 |
+| covering law model | — | 覆盖律模型 | oakeshott 首译 | 学界通行汉译（分析历史哲学；亨佩尔模型）；凭证 2026-11-07 | 2026-11-07 |
+| Whig history | — | 辉格史 | oakeshott 首译 | 学界通行汉译（巴特菲尔德《历史的辉格解释》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| category mistake | — | 范畴错误 | oakeshott 首译 | 学界通行汉译（赖尔《心的概念》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| practical past | — | 实践过去 | oakeshott 首译 | 学界惯例（奥克肖特历史哲学研究）；凭证 2026-11-07 | 2026-11-07 |
+| living past | — | 活的过去 | oakeshott 首译 | 学界惯例（与 Croce『活的过去』史学用语同形）；凭证 2026-11-07 | 2026-11-07 |
+| ambiguity thesis | — | 歧义论题 | oakeshott 首译 | 学界惯例（奥克肖特法治理论研究）；凭证 2026-11-07 | 2026-11-07 |
+| authenticity | — | 本真性 | oakeshott 首译 | 发布词汇表既有形（法哲学效力义）；凭证 2026-11-07 | 2026-11-07 |
+| rightness | — | 正当性 | oakeshott 首译 | 学界惯例（与 validity 效力对举）；凭证 2026-11-07 | 2026-11-07 |
+| ideal character | — | 理想性格 | oakeshott 首译 | 学界惯例（奥克肖特 *lex* 论；亦作『理想性质』备查）；凭证 2026-11-07 | 2026-11-07 |
+| postulate | — | 公设 | oakeshott 首译 | 学界通行汉译（哲学与科学哲学通用）；凭证 2026-11-07 | 2026-11-07 |
+| noninstrumental | — | 非工具性 | oakeshott 首译 | 学界惯例（工具性/非工具性对举）；凭证 2026-11-07 | 2026-11-07 |
+| agent（奥克肖特实践哲学） | agent | 能动者 | oakeshott 首译 | 学界惯例（与 agency 能动性配套；发布词汇表『行动者』为行动哲学语境）；凭证 2026-11-07 | 2026-11-07 |
+| agency | — | 能动性 | oakeshott 首译 | 审定名词库（人类能动性在案；哲学通行同形）；凭证 2026-11-07 | 2026-11-07 |
+| intelligent（奥克肖特历史范畴） | intelligent | 有智力的 | oakeshott 首译 | 自译裁定（奥克肖特区分有智力者/无智力者；非『聪明的』义）；凭证 2026-11-07 | 2026-11-07 |
+| barbarism | — | 野蛮（对个体性的否认） | oakeshott 首译 | 学界惯例（政治哲学语境）；凭证 2026-11-07 | 2026-11-07 |
+| historicism | — | 历史主义 | oakeshott 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| scientism | — | 科学主义 | oakeshott 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| aestheticism | — | 审美主义 | oakeshott 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| human sciences | — | 人文科学 | oakeshott 首译 | 学界通行汉译（新康德主义西南学派）；凭证 2026-11-07 | 2026-11-07 |
+| Geisteswissenschaften | Geisteswissenschaften | 精神科学（亦作『人文科学』） | oakeshott 首译 | 学界通行汉译（德语原词保留）；凭证 2026-11-07 | 2026-11-07 |
+| objective spirit | — | 客观精神 | oakeshott 首译 | 学界通行汉译（黑格尔研究）；凭证 2026-11-07 | 2026-11-07 |
+| respublica | respublica | 拉丁原文保留（公共关切/共同善） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
+| civitas | civitas | 拉丁原文保留（国家） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
+| cives | cives | 拉丁原文保留（公民） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
+| lex | lex | 拉丁原文保留（法律） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
+| jus | jus | 拉丁原文保留（法律的正当性） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
+| societas | societas | 拉丁原文保留 | oakeshott 首译 | 体例：中世纪观念名保留原词；凭证 2026-11-07 | 2026-11-07 |
+| universitas | universitas | 拉丁原文保留 | oakeshott 首译 | 体例：中世纪观念名保留原词；凭证 2026-11-07 | 2026-11-07 |
+| survivals | — | 遗存（往昔遗存） | oakeshott 首译 | 学界惯例（历史证据术语；德罗伊森/柯林武德研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| social criticism | — | 社会批评 | oakeshott 首译 | 学界通行汉译（沃尔泽《正义诸领域》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| corporate enterprise | — | 公司式事业 | oakeshott 首译 | 学界惯例（奥克肖特国家理论研究）；凭证 2026-11-07 | 2026-11-07 |
+| purposive enterprise | — | 目的性事业 | oakeshott 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
+| moral-legal self-understanding | — | 道德—法律自我理解 | oakeshott 首译 | 自译裁定（奥克肖特共同体概念；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| public bad | — | 公共恶 | oakeshott 首译 | 学界惯例（与 public good 公共善对举）；凭证 2026-11-07 | 2026-11-07 |
+| connected critic | — | 有联系的批评者 | oakeshott 首译 | 学界通行汉译（沃尔泽研究）；凭证 2026-11-07 | 2026-11-07 |
+| ignoratio elenchi | ignoratio elenchi | 拉丁原文保留（不相干谬误） | oakeshott 首译 | 体例：拉丁谬误名保留原词；凭证 2026-11-07 | 2026-11-07 |
+| en voyage | en voyage | 法文原文保留（永远在途中） | oakeshott 首译 | 体例：引语保留原文；凭证 2026-11-07 | 2026-11-07 |
+| supramodal | — | 超模式的 | oakeshott 首译 | 自译裁定（奥克肖特哲学界定；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
