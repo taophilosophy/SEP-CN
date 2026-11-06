@@ -68,21 +68,21 @@
    "phase": "translate",
    "claimed_by": "ses-FGHIJK-main-1103",
    "claimed_at": "2026-11-02T16:22:17Z",
-   "note": "fetch/convert 已满足（基线 75/75 镜像 75/75）；40 路子代理滚动翻译波启动；对账补记（2026-11-06）：任务 75=pending 50/cleared 7/done 18；5 条快照遗留待直译（imaginative-resistance/impossible-worlds/information-biological/intrinsic-extrinsic/intuitionism-ethics）；NO_LEDGER 18 全旧存量",
+   "note": "fetch/convert 已满足（基线 75/75 镜像 75/75）；40 路子代理滚动翻译波启动；对账补记（2026-11-06）：任务 75=pending 50/cleared 7/done 18；5 条快照遗留待直译（imaginative-resistance/impossible-worlds/information-biological/intrinsic-extrinsic/intuitionism-ethics）；NO_LEDGER 18 全旧存量；收口（2026-11-06 I-K 接管会话）：israeli 全量三校至 s3_checked（80 段账本），任务 75=pending 49/cleared 7/s3_checked 1/done 18",
    "advanced_at": "2026-11-01T10:28:21Z"
   },
   "j": {
    "phase": "translate",
    "claimed_by": "ses-FGHIJK-main-1103",
    "claimed_at": "2026-11-02T16:22:17Z",
-   "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份；二次对账（2026-11-06 I-K 接管）：账本实为 6 份（justep-coherence 为 8 分卷），james-mill 账本仅 9/84 段系半成品、justep-coherence 分卷 114 段已填未 compose，两处已交本轮子代理补齐",
+   "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份；二次对账（2026-11-06 I-K 接管）：账本实为 6 份（justep-coherence 为 8 分卷），james-mill 账本仅 9/84 段系半成品、justep-coherence 分卷 114 段已填未 compose，两处已交本轮子代理补齐；收口（2026-11-06 I-K 接管会话）：john-italos、johann-sturm 全量三校至 s3_checked（30/76 段账本），justep-coherence 分卷已合并为单账本、james-mill 账本重建中",
    "advanced_at": "2026-11-06T10:40:20Z"
   },
   "k": {
    "phase": "translate",
    "claimed_by": "ses-FGHIJK-main-1103",
    "claimed_at": "2026-11-02T16:22:17Z",
-   "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务）；对账补记（2026-11-06）：NO_LEDGER 4＝AK-main-20261105 会话所译 kant-science/kant-social-political/korean-buddhism/knowledge-analysis 无账本（ADR-0021 债，不补造留痕；done 10 条账本齐全）；二次对账（2026-11-06 I-K 接管）：任务 36=done 10/s3_checked 10/cleared 16（原记 cleared 22/s3_checked 4 已过时，6 条在 11-05 后推进至 s3）＋knowledge-acquaindescrip 账本 48/103 在途（本轮补齐中）",
+   "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务）；对账补记（2026-11-06）：NO_LEDGER 4＝AK-main-20261105 会话所译 kant-science/kant-social-political/korean-buddhism/knowledge-analysis 无账本（ADR-0021 债，不补造留痕；done 10 条账本齐全）；二次对账（2026-11-06 I-K 接管）：任务 36=done 10/s3_checked 10/cleared 16（原记 cleared 22/s3_checked 4 已过时，6 条在 11-05 后推进至 s3）＋knowledge-acquaindescrip 账本 48/103 在途（本轮补齐中）；收口（2026-11-06 I-K 接管会话）：knowledge-acquaindescrip 账本续填中，任务 36=done 10/s3_checked 10/cleared 16",
    "advanced_at": "2026-11-06T10:40:20Z"
   },
   "l": {
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-06T15:08:55Z"
+ "updated_at": "2026-11-06T00:00:00Z"
 }
