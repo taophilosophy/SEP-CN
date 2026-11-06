@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 00:57（UTC）
+生成时间：2026-11-06 10:01（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1002|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|102|
-|在途（drafted 起、done 前）|269|
+|已完成（done）|103|
+|在途（drafted 起、done 前）|268|
 |阻塞|0|
 
 ## 任务状态分布
@@ -27,14 +27,13 @@
 |drafted|2|
 |s1_checked|1|
 |s3_checked|88|
-|r1_reviewed|1|
-|done|102|
+|done|103|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|40|
+|A|160|160|160|41|
 |B|62|62|62|1|
 |C|172|172|172|0|
 |D|92|92|92|11|
@@ -68,7 +67,6 @@
 |adorno|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-judgment|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
-|aesthetics-18th-british|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-06|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
 |affirmative-action|retranslate|cleared|task_ops 2026-10-31|
