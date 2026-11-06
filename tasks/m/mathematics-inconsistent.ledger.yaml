@@ -82,7 +82,7 @@ segments:
     source: |-
       Robert K. Meyer (1976) seems to have been the first to think of an inconsistent arithmetical theory. At this point, he was more interested in the fate of a consistent theory, his relevant arithmetic R#. This amounts to the axioms for Peano arithmetic, with a base of the quantified relevant logic RQ, and Meyer hoped that the weaker base of relevant logic would allow more models. He was right. There proved to be a whole class of inconsistent arithmetical theories; see Meyer and Mortensen (1984), for example. In a parallel with the above remarks on rehabilitating logicism, Meyer argued that these arithmetical theories provide the basis for a revived Hilbert Program. Hilbert’s program was the project of rigorously formalising mathematics and proving its consistency by simple finitary/inductive procedures. It was widely held to have been seriously damaged by Gödel’s Second Incompleteness Theorem, according to which the consistency of arithmetic was unprovable within arithmetic itself. But a consequence of Meyer’s construction was that within his arithmetic R# it was demonstrable by finitary means that whatever contradictions there might happen to be, they could not adversely affect any numerical calculations. Hence Hilbert’s goal of conclusively demonstrating that mathematics is trouble-free proves largely achievable as long as inconsistency-tolerant logics are used.
     step1: |-
-      Robert K. Meyer（1976）看来是第一个想到不一致算术理论的人。在那时，他更关心一个一致理论的命运，即他的相干算术 R#。这相当于皮亚诺算术的公理，以量化相干逻辑 RQ 为基础，而 Meyer 希望相干逻辑这个较弱的基础能容纳更多模型。他是对的。事实证明存在整整一类不一致算术理论；例如见 Meyer and Mortensen（1984）。与上文关于复兴逻辑主义的评论相平行，Meyer 论证这些算术理论为复兴的希尔伯特纲领提供了基础。希尔伯特纲领是严格形式化数学并以简单的有穷/归纳程序证明其一致性的工程。人们普遍认为它已被哥德尔第二不完备性定理严重损伤——按该定理，算术的一致性在算术本身之内不可证。但 Meyer 构造的一个后果是：在他的算术 R# 之内，可以用有穷手段证明，无论碰巧有什么矛盾，它们都不可能对任何数值计算产生不利影响。因此，只要使用容忍不一致的逻辑，希尔伯特 conclusively 证明数学无麻烦的目标就在很大程度上可以实现。
+      Robert K. Meyer（1976）看来是第一个想到不一致算术理论的人。在那时，他更关心一个一致理论的命运，即他的相干算术 R#。这相当于皮亚诺算术的公理，以量化相干逻辑 RQ 为基础，而 Meyer 希望相干逻辑这个较弱的基础能容纳更多模型。他是对的。事实证明存在整整一类不一致算术理论；例如见 Meyer and Mortensen（1984）。与上文关于复兴逻辑主义的评论相平行，Meyer 论证这些算术理论为复兴的希尔伯特纲领提供了基础。希尔伯特纲领是严格形式化数学并以简单的有穷/归纳程序证明其一致性的工程。人们普遍认为它已被哥德尔第二不完备性定理严重损伤——按该定理，算术的一致性在算术本身之内不可证。但 Meyer 构造的一个后果是：在他的算术 R# 之内，可以用有穷手段证明，无论碰巧有什么矛盾，它们都不可能对任何数值计算产生不利影响。因此，只要使用容忍不一致的逻辑，希尔伯特确凿证明数学无麻烦的目标就在很大程度上可以实现。
     step2: |-
       Robert K. Meyer（1976）看来是第一个想到不一致算术理论的人。彼时他更关心一个一致理论的命运——他的相干算术 R#：相当于皮亚诺算术的公理，配以量化相干逻辑 RQ 作底；Meyer 盼望相干逻辑这个较弱的基础能容纳更多模型。他料中了。事实证明存在整整一族不一致算术理论；例如见 Meyer and Mortensen（1984）。与上文复兴逻辑主义的议论相呼应，Meyer 主张：这些算术理论为复兴的希尔伯特纲领提供了基础。希尔伯特纲领，是严格形式化数学、再以简单的有穷/归纳程序证明其一致性的工程；人们普遍认为它已被哥德尔第二不完备性定理重创——按该定理，算术的一致性在算术内部不可证。但 Meyer 构造的一个后果是：在他的算术 R# 之内，可以用有穷手段证明——无论碰巧有什么矛盾，它们都伤不了任何数值计算。于是，只要改用容忍不一致的逻辑，希尔伯特“确凿证明数学无虞”的目标就在很大程度上可以实现。
   - id: 11
@@ -92,7 +92,7 @@ segments:
     step1: |-
       Meyer 与 Mortensen 所用的算术模型后来被证明允许真谓词的不一致表示。它们还允许表示自然数算术之外的结构，如环与域，包括其序性质。公理化也被给出。最近，有限不一致算术塌缩模型——一个严格大于 Meyer 与 Mortensen 所研究模型类的类——已被 Graham Priest 完全刻画。塌缩模型由经典模型经把论域塌缩到由各种同余关系生成的同余类而得到。当同一同余类的成员被等同起来时，所产生的理论就是不一致的。例如，Meyer 的初始构造把整数按*模 2* 同余塌缩。这把 0 与 2 放进同一个同余类，于是在一个合适的三值逻辑中，0=2 与非-(0=2) 都成立。Priest 证明这些模型取某种一般形式，见 Priest（1997）与（2000）。严格说来，Priest 把“小集团模型”包括在内走得稍远了一点。这由 Paris 与 Pathmanathan（2006）作了修正，并由 Paris 与 Sirokfskich（2008）扩展到无穷。更近，Tedder（2015）为有限塌缩模型类获得了公理化，采用不同的背景逻辑——Avron 的 A3。
     step2: |-
-      Meyer 与 Mortensen 所用的算术模型，后来被证明允许对真谓词作不一致表示；它们还允许表示自然数算术之外的结构——环与域，连同其序性质；公理化亦已给出。最近，有限不一致算术塌缩模型——一个严格大于 Meyer 与 Mortensen 模型类的类——已被 Graham Priest 完全刻画。塌缩模型的造法：把经典模型的论域塌缩到由各种同余关系生成的同余类。同一同余类的成员一经等同，所得理论便是不一致的。例如，Meyer 的初始构造把整数按*模 2* 同余塌缩——0 与 2 落入同余类，于是在某个合适的三值逻辑里，0=2 与非-(0=2) 同时成立。Priest 证明这类模型取某种一般形式（见 Priest 1997、2000）。严格说来，Priest 把“小集团模型”也纳入其中，走得略远了些——Paris 与 Pathmanathan（2006）予以修正，Paris 与 Sirokfskich（2008）又推广到无穷情形。更近，Tedder（2015）换用不同的背景逻辑——Avron 的 A3——为有限塌缩模型类取得了公理化。
+      Meyer 与 Mortensen 所用的算术模型，后来被证明允许对真谓词作不一致表示；它们还允许表示自然数算术之外的结构——环与域，连同其序性质；公理化亦已给出。最近，有限不一致算术塌缩模型——一个严格大于 Meyer 与 Mortensen 模型类的类——已被 Graham Priest 完全刻画。塌缩模型的造法：把经典模型的论域塌缩到由各种同余关系生成的同余类。同一同余类的成员一经等同，所得理论便是不一致的。例如，Meyer 的初始构造把整数按*模 2* 同余塌缩——0 与 2 落入同余类，于是在某个合适的三值逻辑里，0=2 与非-(0=2) 同时成立。Priest 证明这类模型取某种一般形式（见 Priest 1997、2000）。严格说来，Priest 把“小集团模型”也纳入其中，走得略远了些——Paris 与 Pathmanathan（2006）后来修正了这一点，Paris 与 Sirokfskich（2008）又推广到无穷情形。更近，Tedder（2015）换用不同的背景逻辑——Avron 的 A3——为有限塌缩模型类取得了公理化。
   - id: 12
     kind: body
     source: |-
@@ -132,7 +132,7 @@ segments:
     step1: |-
       事实证明，整个分析学中有许多地方都有独特的不一致洞见。本节余下部分的例子取自 Mortensen（1995）。例如：（1）Robinson 的（1974）非标准分析以无穷小为基础——小于任何实数的量——以及它们的倒数，无穷大数。它有一个不一致版本，在计算上有一些优点：能够丢弃高阶无穷小。有趣的是，微分论被证明具有这些优点，而积分论则没有。Da Costa（2000）用不同的背景逻辑得到了类似结果。（2）分析中不一致的另一个应用之地是拓扑学：人们容易观察到切割与粘贴空间的做法被描述为把一个边界与另一个边界“认同”。可以证明，这可以在一个不一致理论中描述——两个边界既同一又不同一——而且可以进一步论证，这是对该实践最自然的描述。（3）另一个应用是不一致连续函数类。并非所有经典上不连续的函数都可以进行不一致处理；但有些可以，例如对所有 *x*<0，*f*(*x*)=0，对所有 *x*≥0，*f*(*x*)=1。不一致扩展把第一个 < 替换为 ≤，并具有独特的结构性质。这些不一致函数在存在不连续跳变的动态系统中——例如量子测量系统——可能有其应用。对这些函数求微分得到 delta 函数，Dirac 将其应用于量子测量的研究。（4）接下来是众所周知的不一致线性方程组，如方程组（i）*x*+*y*=1 与（ii）*x*+*y*=2。这样的系统可能出现在自动控制的语境中。经典上对求解这类系统的工作很少，但可以证明，在不一致向量空间中存在良态的解。（5）最后，在拓扑学与动力学中还可注意到一个应用。给定一个似乎可设想的假定——无论发生什么或什么为真，都是在（时空）点的一个开集上发生或为真——那么动力学可能路径的逻辑就是开集逻辑，也就是说直觉主义逻辑，它出类拔萃地支持不完备理论。这是因为，在这种空间中命题之否定的自然说明是：它成立于包含原命题所在点集的布尔补的最大开集，而这个集合一般小于布尔补。然而，用闭集来规定拓扑空间，与用开集规定它同样合理。而闭集的逻辑已知是弗协调的，即支持不一致的非平凡理论；例如见 Goodman（1981）。于是，给定另一个似乎同样可设想的假定——无论什么为真，都是在点的一个闭集上为真——那么不一致理论很可能成立。这是因为对命题之否定的自然说明——它成立于包含该命题布尔否定的最小闭集——意味着在交叠的边界上，命题与其否定都成立。因此，动力学理论决定它们自己的可能命题逻辑，以及相应的、可能不一致的理论——它们与其不完备对应物同样自然。
     step2: |-
-      事实证明，整个分析学里处处可见独特的不一致洞见。本节余下的例子取自 Mortensen（1995）。例如：（1）Robinson（1974）的非标准分析以无穷小——小于任何实数的量——及其倒数（无穷大数）为基础。它有一个不一致版本，在计算上自有优势：可丢弃高阶无穷小。有趣的是，微分论坐拥这些优势，积分论却没有。Da Costa（2000）以不同的背景逻辑得到类似结果。（2）分析中不一致的另一个用武之地是拓扑学：人们容易观察到，切割与粘贴空间的做法被描述为把一个边界与另一个“认同”。可以证明：这可在不一致理论中描述——两个边界既同一又不同一——而且还可进一步论证，这就是对该实践最自然的描述。（3）另一个应用是不一致连续函数类。并非所有经典不连续的函数都能作不一致处理，但有些能——例如对所有 *x*<0，*f*(*x*)=0；对所有 *x*≥0，*f*(*x*)=1。不一致扩展把第一个 < 换成 ≤，并具有独特的结构性质。这些不一致函数在存在不连续跳变的动态系统中——如量子测量系统——可能大有用处。对这类函数求微分即得 delta 函数，Dirac 曾把它用于量子测量的研究。（4）再者是众所周知的不一致线性方程组，如（i）*x*+*y*=1 与（ii）*x*+*y*=2。这样的系统可能出现在自动控制的语境中。经典上鲜有求解此类系统的工作，但可以证明：在不一致向量空间中存在良态的解。（5）最后，拓扑学与动力学中还有一个应用。给定一个看似可设想的假定——无论何事发生或何者为真，都是在（时空）点的一个开集上发生或为真——那么动力学可能路径的逻辑就是开集逻辑，也就是直觉主义逻辑：它出类拔萃地支持不完备理论。理由在于，这种空间中命题之否定的自然说明是：否定成立于包含原命题点集之布尔补的最大开集——它一般小于布尔补。然而，以闭集规定拓扑空间，与以开集规定它同样合理；而闭集的逻辑已知是弗协调的——支持不一致的非平凡理论；例如见 Goodman（1981）。于是，给定另一个看似同样可设想的假定——无论何者为真，都在点的一个闭集上为真——不一致理论就很可能成立：因为对命题之否定的自然说明——否定成立于包含该命题布尔否定的最小闭集——意味着在交叠的边界上，命题与其否定同时成立。因此，动力学理论决定着它们自己的可能命题逻辑，以及相应的、可能不一致的理论——它们与其不完备对应物同样自然。
+      事实证明，整个分析学里处处可见独特的不一致洞见。本节余下的例子取自 Mortensen（1995）。例如：（1）Robinson（1974）的非标准分析以无穷小——小于任何实数的量——及其倒数（无穷大数）为基础。它有一个不一致版本，在计算上自有优势：可丢弃高阶无穷小。有趣的是，微分论坐拥这些优势，积分论却没有。Da Costa（2000）以不同的背景逻辑得到类似结果。（2）分析中不一致的另一个用武之地是拓扑学：人们容易观察到，切割与粘贴空间的做法被描述为把一个边界与另一个“认同”。可以证明：这可在不一致理论中描述——两个边界既同一又不同一——而且还可进一步论证，这就是对该实践最自然的描述。（3）另一个应用是不一致连续函数类。并非所有经典不连续的函数都能作不一致处理，但有些能——例如对所有 *x*<0，*f*(*x*)=0；对所有 *x*≥0，*f*(*x*)=1。不一致扩展把第一个 < 换成 ≤，并具有独特的结构性质。这些不一致函数在存在不连续跳变的动态系统中——如量子测量系统——可能大有用处。对这类函数求微分即得 delta 函数，Dirac 曾把它用于量子测量的研究。（4）再者是众所周知的不一致线性方程组，如（i）*x*+*y*=1 与（ii）*x*+*y*=2。这样的系统可能出现在自动控制的语境中。经典上鲜有求解此类系统的工作，但可以证明：在不一致向量空间中存在良态的解。（5）最后，拓扑学与动力学中还有一个应用。给定一个看似可设想的假定：无论何事发生或何者为真，都是在（时空）点的一个开集上发生或为真。那么动力学可能路径的逻辑就是开集逻辑，也就是直觉主义逻辑——它出类拔萃地支持不完备理论。理由在于，这种空间中命题之否定的自然说明是：否定成立于包含原命题点集之布尔补的最大开集——它一般小于布尔补。然而，以闭集规定拓扑空间，与以开集规定它同样合理；而闭集的逻辑已知是弗协调的——支持不一致的非平凡理论；例如见 Goodman（1981）。于是，给定另一个看似同样可设想的假定——无论何者为真，都在点的一个闭集上为真——不一致理论就很可能成立。理由在于：对命题之否定的自然说明是，否定成立于包含该命题布尔否定的最小闭集；这意味着在交叠的边界上，命题与其否定同时成立。因此，动力学理论决定着它们自己的可能命题逻辑，以及相应的、可能不一致的理论——它们与其不完备对应物同样自然。
   - id: 17
     kind: body
     source: |-
@@ -146,134 +146,134 @@ segments:
     source: |-
       Category theory throws light on many mathematical structures. It has certainly been proposed as an alternative foundation for mathematics. Such generality inevitably runs into problems similar to those of comprehension in set theory; see, e.g., Hatcher 1982 (pp. 255–260). Hence there is the same possible application of inconsistent solutions. There is also an important collection of categorial structures, the toposes, which support open set logic in exact parallel to the way sets support Boolean logic. This has been taken by many to be a vindication of the foundational point of view of mathematical intuitionism. However, it can be proved that that toposes support closed set logic as readily as they support open set logic, to date the only category-theoretic semantics for a paraconsistent logic. This should not be viewed as an objection to intuitionism, however, so much as an argument that inconsistent theories are equally reasonable as items of mathematical study. See Mortensen (1995 Chap 11, co-author Lavers). This position has now been taken up, extended and ably defended by Estrada-González (2010, 2015a, 2015b). The same author (2016) undertakes to provide a category-theoretic description of trivial theories, with the aim of showing that triviality is not such an uninteresting feature for mathematical theories to have. The present author remains unconvinced, since a trivial theory is surely useless for mathematical calculation; but the ingenuity of the arguments must be conceded.
     step1: |-
-
+      范畴论照亮了许多数学结构。它确实曾被提议作为数学的另一种基础。这样的普遍性不可避免地遭遇与集合论中概括类似的问题；例如见 Hatcher 1982（pp. 255–260）。因此，不一致解有同样的可能应用。还有一组重要的范畴结构——拓扑斯（toposes）——它们支持开集逻辑的方式与集合支持布尔逻辑的方式完全平行。这被许多人视为数学直觉主义之基础观点的辩护。然而，可以证明，拓扑斯支持闭集逻辑正如它们支持开集逻辑一样容易——这是迄今为止唯一一个为弗协调逻辑提供的范畴论语义。然而，这不应被看作对直觉主义的反对，而应被看作一个论证：不一致的理论作为数学研究的对象同样合理。见 Mortensen（1995 第 11 章，合著者 Lavers）。这一立场现已被 Estrada-González（2010, 2015a, 2015b）采纳、扩展并有力辩护。同一作者（2016）着手提供平凡理论的范畴论描述，旨在表明平凡性对数学理论而言并非那么无趣的特征。本书作者仍然不信服，因为平凡理论对数学计算肯定无用；但必须承认这些论证的巧妙。
     step2: |-
-
+      范畴论照亮了许多数学结构；它确实曾被提议为数学的另一种基础。这般普遍性不可避免地撞上与集合论概括类似的难题；例如见 Hatcher 1982（pp. 255–260）。因此，不一致解有同样的用武之地。还有一族重要的范畴结构——拓扑斯（toposes）：它们支持开集逻辑的方式，与集合支持布尔逻辑的方式恰成平行。许多人以此作为直觉主义之基础观点的辩护。然而可以证明：拓扑斯支持闭集逻辑，一如它们支持开集逻辑——这是迄今为止唯一的弗协调逻辑范畴论语义。但这不该视作对直觉主义的反驳，而该视作一个论证：不一致的理论作为数学研究对象同样合理。见 Mortensen（1995 第 11 章，合著者 Lavers）。这一立场如今已被 Estrada-González（2010, 2015a, 2015b）接手、扩展并有力辩护。同一作者（2016）进而为平凡理论提供范畴论描述，意在表明：平凡性对数学理论而言并非那么无趣的特征。笔者仍然不被说服——平凡理论对数学计算肯定无用；但这些论证的巧妙必须承认。
   - id: 19
     kind: body
     source: |-
       Duality between incompleteness/intuitionism and inconsistency/paraconsistency has at least two aspects. First there is the above topological (open/closed) duality. Second there is Routley * duality. The Routley Star * of a set of sentences *S*, is defined as *S** =_{*df*} {*A*: ~*A* is not in *S*}. Discovered by the Routleys (1972) as a semantical tool for relevant logics, the * operation dualises between inconsistent and incomplete theories of the large natural class of de Morgan logics. For example, starring Peano arithmetic gives a deductively-closed inconsistent complete non-trivial classical arithmetical theory containing all of PA, which presents an interesting challenge for the Godel incompleteness results, see Mortensen (2013). Both kinds of duality interact as well, where the * gives distinctive duality and invariance theorems for open set and closed set arithmetical theories. On the basis of these results, it is fair to argue that both kinds of mathematics, intuitionist and paraconsistent, are equally reasonable.
     step1: |-
-
+      不完备/直觉主义与不一致/弗协调之间的对偶至少有两个方面。首先是上述拓扑（开/闭）对偶。其次是 Routley * 对偶。句子集 *S* 的 Routley 星 * 定义为 *S** =_{*df*} {*A*: ~*A* 不属于 *S*}。它由 Routley 夫妇（1972）发现，作为相干逻辑的语义工具，* 运算在大类德摩根逻辑的不一致与不完备理论之间进行对偶。例如，对皮亚诺算术施加星运算，得到一个演绎封闭的不一致完备非平凡经典算术理论，它包含全部 PA——这给哥德尔不完备性结果提出了一个有趣的挑战，见 Mortensen（2013）。两种对偶也相互作用：* 为开集与闭集算术理论给出独特的对偶与不变性定理。基于这些结果，可以说两种数学——直觉主义与弗协调——同样合理。
     step2: |-
-
+      不完备／直觉主义与不一致／弗协调之间的对偶，至少有两副面孔。其一是上述拓扑（开/闭）对偶；其二则是 Routley 星对偶。句子集 *S* 的 Routley 星 ＊ 定义为 *S** =_{*df*} {*A*: ~*A* 不属于 *S*}。它由 Routley 夫妇（1972）发现，原是相干逻辑的语义工具：＊ 运算在大类德摩根逻辑的不一致理论与不完备理论之间往返对偶。例如，对皮亚诺算术施加星运算，便得到一个演绎封闭、不一致、完备、非平凡的经典算术理论——它包含全部 PA，给哥德尔不完备性结果出了道有趣的难题（见 Mortensen 2013）。两种对偶还会相互作用：* 为开集与闭集算术理论给出独特的对偶定理与不变性定理。基于这些结果，我们尽可以说：两种数学——直觉主义的与弗协调的——同样合理。
   - id: 20
     kind: body
     source: |-
       ## 4. Geometrical Inconsistency
     step1: |-
-
+      ## 4 几何不一致
     step2: |-
-
+      ## 4 几何不一致
   - id: 21
     kind: body
     source: |-
       A geometrical development is the application to explaining the phenomenon of inconsistent pictures. The best known of these are perhaps M. C. Escher’s masterpieces *Belvedere, Waterfall* and *Ascending and Descending*. In fact the tradition goes back millennia to Pompeii. Escher seems to have derived many of his intuitions from the Swedish artist Oscar Reutersvärd, who began his inconsistent work in 1934. Escher also actively collaborated with the English mathematician Roger Penrose. There have been several attempts to describe the mathematical structure of inconsistent pictures using classical consistent mathematics, by theorists such as Cowan, Francis and Penrose. As argued in Mortensen (1997), however, no consistent mathematical theory can capture the sense that one is seeing an impossible thing. Only an inconsistent theory can capture the content of that perception. This amounts to an appeal to a cognitive justification of paraconsistency. One can then proceed to display inconsistent theories which are candidates for such inconsistent contents. There is an analogy with classical mathematics on this point: projective geometry is a classical consistent mathematical theory which is interesting because we are creatures with an eye, since it explains why it is that things look the way they do in perspective.
     step1: |-
-
+      一个几何学方向是应用于解释不一致图画的现象。其中最著名的或许是 M. C. 埃舍尔的杰作《观景楼》《瀑布》与《上行与下行》。事实上这一传统可以追溯到几千年前的庞贝。埃舍尔的许多直觉似乎来自瑞典艺术家奥斯卡·路特斯瓦德，后者于 1934 年开始其不一致创作。埃舍尔还与英国数学家罗杰·彭罗斯积极合作。Cowan、Francis 与 Penrose 等理论家曾数次尝试用经典一致数学描述不一致图画的数学结构。然而，正如 Mortensen（1997）所论证的，没有任何一致的数学理论能够捕捉到人们在看一件不可能之物的那种感觉。只有不一致理论才能捕捉那种知觉的内容。这相当于为弗协调性诉诸一种认知辩护。于是人们可以进而展示作为这种不一致内容之候选者的不一致理论。这一点上与经典数学有类似之处：射影几何是一门经典的、一致的数学理论，它之所以有趣，是因为我们是长着眼睛的造物——它解释了为什么事物在透视中看起来是它们那个样子。
     step2: |-
-
+      几何学方向之一，是应用于解释不一致图画的现象。其中最著名的，或许是 M. C. 埃舍尔的杰作《观景楼》《瀑布》与《上行与下行》。这一传统其实可以上溯数千年至庞贝。埃舍尔的许多直觉似乎取自瑞典艺术家 Oscar Reutersvärd——后者 1934 年起便开始其不一致创作；埃舍尔还与英国数学家罗杰·彭罗斯积极合作。Cowan、Francis、Penrose 等理论家曾多次尝试以经典一致数学刻画不一致图画的数学结构。然而正如 Mortensen（1997）所论：没有任何一致的数学理论能捕捉“人正在看一件不可能之物”的那种感觉；唯不一致理论能捕捉那份知觉的内容。这相当于为弗协调性提出一种认知辩护。于是，人们可以进而展示一批候选的不一致理论，以充当这些不一致内容。在这点上与经典数学有类似之处：射影几何是一门经典且一致的数学理论，它之所以有趣，是因为我们是长着眼睛的造物——它解释了事物在透视中为何显得是那个样子。
   - id: 22
     kind: body
     source: |-
       Inconsistent geometrical studies are further developed in Mortensen (2002a), where category theory is applied to give a general description of the relationships between the various theories and their consistent cut-downs and incomplete duals. For an informal account which highlights the difference between visual “paradoxes” and the philosophically more common paradoxes of language, such as the Liar, see Mortensen (2002b).
     step1: |-
-
+      不一致几何研究在 Mortensen（2002a）中得到进一步发展，其中范畴论被应用于给出各种理论及其一致截断与不完备对偶之间关系的一般描述。关于视觉“悖论”与哲学上更常见的语言悖论（如说谎者）之间区别的通俗说明，见 Mortensen（2002b）。
     step2: |-
-
+      不一致几何研究在 Mortensen（2002a）中继续推进：范畴论被用来一般地刻画各理论与其一致截断、不完备对偶之间的关系。至于视觉“悖论”与哲学上更常见的语言悖论（如说谎者）之别，通俗说明见 Mortensen（2002b）。
   - id: 23
     kind: body
     source: |-
       More recently, inconsistent mathematical descriptions have been obtained for several classes of inconsistent figures, exemplified by Escher’s Cube (found in his print *Belvedere*), the Reutersvärd-Penrose triangle, and others. See Mortensen (2010).
     step1: |-
-
+      最近，为若干类不一致图形获得了不一致的数学描述，例如埃舍尔的立方体（见于其版画《观景楼》）、路特斯瓦德-彭罗斯三角等。见 Mortensen（2010）。
     step2: |-
-
+      晚近，若干类不一致图形已获得不一致的数学描述——例如埃舍尔立方体（见于其版画《观景楼》）、路特斯瓦德-彭罗斯三角等。见 Mortensen（2010）。
   - id: 24
     kind: body
     source: |-
       This raises another interesting issue. Ever since Euclid, the method of reductio ad absurdum has been thoroughly exploited in geometrical proofs (assume he opposite of what you want to prove and deduce a contradiction). But here we have a different technique (employ a contradiction to describe how inconsistent figures look, to demonstrate that the content is genuinely contradictory). If successful, this is a demonstration that human conceptualisation exceeds the merely possible (consistent). For discussion see Mortensen (2019, 2022).
     step1: |-
-
+      这引出另一个有趣的问题。自欧几里得以来，归谬法在几何证明中已被彻底利用（假设你要证明的命题的反面，然后导出矛盾）。但在这里我们有不同的技术（利用一个矛盾来描述不一致图形的样子，以证明其内容真正是矛盾的）。如果成功，这便是一个证明：人类的概念化活动超出了单纯可能的东西（一致的东西）。讨论见 Mortensen（2019, 2022）。
     step2: |-
-
+      这又引出一个有趣的问题。自欧几里得以降，归谬法在几何证明中已被用到极致（假设你想证的命题之反面，再导出矛盾）。但我们这里有的是另一种技术：调用一个矛盾来描述不一致图形的模样，以证明其内容货真价实地矛盾。若成功，这便是下述证明：人类的概念化活动超出了单纯可能的东西（即一致的东西）。讨论见 Mortensen（2019, 2022）。
   - id: 25
     kind: body
     source: |-
       One more point: do these geometrical paradoxes lend support to full dialetheism? The answer is no. If you can draw a contradictory picture then *something*exists that is inconsistent. And, distinct inconsistent figures imply distinctions between types of contradictions which ECQ does not permit. But this should not be pushed too far. Nothing says that because a picture has a content, that content must somehow be *true*: many pictures are fictional in content. For more on this theme see Mortensen (2019a).
     step1: |-
-
+      还有一点：这些几何悖论是否为完全的双面真理论提供支持？答案是否定的。如果你能画出一幅矛盾的图画，那么*某物*存在，它是不一致的。而且，不同的不一致图形蕴涵着矛盾类型之间的区分，而 ECQ 不允许这种区分。但这不应被推得太远。没有什么说：因为一幅图画有内容，该内容就必须以某种方式为*真*：许多图画的内容是虚构的。关于这一主题的更多讨论见 Mortensen（2019a）。
     step2: |-
-
+      还有一点：这些几何悖论是否支持彻底的双面真理论？答案是否。若你能画出一幅矛盾的图画，那便有*某物*存在，它是不一致的；而且，互异的不一致图形蕴涵矛盾类型之间的分野——ECQ 不容许这种分野。但不可把话说过了头：没有什么规定，图画有内容、内容就必须以某种方式为*真*——许多图画的内容纯属虚构。这一主题的进一步讨论见 Mortensen（2019a）。
   - id: 26
     kind: body
     source: |-
       ## 5. Chunk and Permeate
     step1: |-
-
+      ## 5 分块渗透
     step2: |-
-
+      ## 5 分块渗透
   - id: 27
     kind: body
     source: |-
       Recently, an alternative technique for dealing generally with contradictions has emerged. Brown and Priest (2004) have proposed a technique they call “Chunk and Permeate”, in which reasoning from inconsistent premisses proceeds by separating the assumptions into consistent theories (chunks), deriving appropriate consequences, then passing (permeating) those consequences to a different chunk for further consequences to be derived. They suggest that Newton’s original reasoning in taking derivates in the calculus, was of this form. This is an interesting and novel approach, though it must meet the objection that to believe a conclusion obtained on this basis, one should believe all the premisses equally; and so an argument of the more common form, appealing to all the premisses without fragmenting them, should be eventually forthcoming. The objection is thus that Chunk and Permeate is part of the context of discovery rather than the context of justification.
     step1: |-
-
+      最近，一种处理矛盾的一般性替代技术出现了。Brown 与 Priest（2004）提出了一种他们称之为“分块渗透”的技术：从不一致前提出发的推理，通过把假设分离成一致的理论（分块）、导出适当的结论、然后把（渗透）这些结论传递给另一个分块以导出进一步的结论来进行。他们提出，牛顿在微积分中求导数的原初推理就属于这种形式。这是一种有趣而新颖的进路，但它必须面对如下反对：要相信由此得到的结论，人们应当同等相信所有前提；因此，一种更常见形式的论证——诉诸全部前提而不把它们打碎——最终应当会出现。反对意见因而是：分块渗透属于发现语境而非辩护语境。
     step2: |-
-
+      晚近，一种处理矛盾的一般性替代技术登场了。Brown 与 Priest（2004）提出一种他们名为“分块渗透”的技术：从不一致前提出发的推理，先把假设拆成一致的理论（分块），导出相应结论；再把（渗透）这些结论传给另一个分块，继续导出进一步结论。他们提出：牛顿在微积分中求导数的原初推理，正是这种形式。这是一条有趣而新颖的进路，但它必须顶住如下反对：要相信由此得到的结论，就应当同等相信全部前提；因此，一种更常见形式的论证——整体诉诸前提而不打碎它们——终将应当登场。反对意见因而是：分块渗透属于发现语境，而非辩护语境。
   - id: 28
     kind: body
     source: |-
       Later, Benham *et. al.* (2014) have extended these methods to the Dirac delta function. This broadens the class of applications, and so strengthens the technique. However, it also becomes clear there, that there is a close parallel between (one large class of) Chunk and Permeate applications, and (consistent) non-standard analysis: wherever Chunk and Permeate takes a derivative by shifting chunks to one where infinitesimals are zero, non-standard analysis takes a derivative by defining derivatives to be “standard parts only”. Of course, equivalence between these two techniques does not show which is explanatorily deeper. Developments are to be awaited with interest.
     step1: |-
-
+      后来，Benham 等（2014）把这些方法扩展到狄拉克 delta 函数。这拓宽了应用类，从而加强了该技术。然而，在那里也变得清楚的是：（一大类）分块渗透应用与（一致的）非标准分析之间存在密切的平行：凡是分块渗透通过转移到无穷小为零的分块来求导数的地方，非标准分析通过把导数定义为“仅取标准部分”来求导数。当然，这两种技术之间的等价并不表明哪一种在解释上更深。进展值得期待。
     step2: |-
-
+      后来，Benham 等（2014）把这些方法扩展到狄拉克 delta 函数——应用的类拓宽了，技术也得到加强。但那里同时显露出：（一大类）分块渗透应用与（一致的）非标准分析之间存在密切的平行：分块渗透靠“跳到无穷小为零的分块”来求导，非标准分析则靠“把导数定义为仅取标准部分”来求导。当然，两种技术的等价并不表明谁在解释上更深。进展值得期待。
   - id: 29
     kind: body
     source: |-
       ## 6. Conclusion
     step1: |-
-
+      ## 6 结论
     step2: |-
-
+      ## 6 结论
   - id: 30
     kind: body
     source: |-
       To conclude: there has been appearing lately quite a bit of philosophical material, that is sympathetic to the cause of inconsistent mathematics. Colyvan (2000) addresses the issue that inconsistent mathematical theories imply inconsistent mathematical objects as their subject-matters. He also takes up the important task of providing an account of how inconsistent mathematics can have a branch which is *applied* mathematics. Priest (2013), like Colyvan, notes that inconsistent mathematics adds to the platonist mix. Berto (2007) usefully surveys paradoxes and foundational issues, and sets out some of the arithmetical results that bear on important philosophical issues like the Incompleteness Theorems. Van Bendegem (2014) pursues the interesting motivation that change is always a state of anomaly, so that always changing implies always anomalous. Examples include infinitesimals, complex numbers and infinity. Caution should be adopted over thinking that inconsistency is always anomalous, however, if only because it is simply more material for mathematical study.
     step1: |-
-
+      结论：近来出现了相当多同情不一致数学之事业的哲学材料。Colyvan（2000）处理了不一致数学理论蕴涵不一致数学对象作为其论题的问题。他还承担了重要任务：说明不一致数学如何能有一个*应用的*数学分支。Priest（2013）与 Colyvan 一样，注意到不一致数学为柏拉图主义的混合增添了成分。Berto（2007）对悖论与基础问题作了有用的综述，并给出了触及重要哲学问题（如不完备性定理）的一些算术结果。Van Bendegem（2014）追求一个有趣的动机：变化总是反常的状态，因此永远变化就蕴涵永远反常。例子包括无穷小、复数与无穷。不过，对“不一致总是反常”的想法应保持谨慎，这单单因为不一致只是数学研究的更多材料。
     step2: |-
-
+      总而言之：近来出现了相当多同情不一致数学事业的哲学材料。Colyvan（2000）处理了“不一致数学理论蕴涵不一致数学对象为其论题”的问题；他还接下重要任务：说明不一致数学如何能拥有一个*应用的*分支。Priest（2013）与 Colyvan 一样，注意到不一致数学给柏拉图主义的配方添了料。Berto（2007）对悖论与基础问题作了有用的综述，并给出触及重大哲学问题（如不完备性定理）的若干算术结果。Van Bendegem（2014）追索一个有趣的动机：变化总是反常的状态，故永远变化便蕴涵永远反常——无穷小、复数与无穷皆是例子。但对“不一致总是反常”的想法应持谨慎——单单因为，不一致只是数学研究的更多素材而已。
   - id: 31
     kind: body
     source: |-
       It should be emphasised again that these structures do not in any way challenge or repudiate existing mathematics, but rather extend our conception of what is mathematically possible. This, in turn, sharpens the issue of Mathematical Pluralism; see e.g., Davies (2005), Hellman and Bell (2006), or Priest (2013). Various authors have different versions of mathematical pluralism, but it is something along the lines that incompatible mathematical theories can be equally true. The case for mathematical pluralism rests on the observation that there are different mathematical “universes” in which different, indeed incompatible, mathematical theorems or laws hold. Well-known examples are the incompatibility between classical mathematics and intuitionist mathematics, and the incompatibility between ZF-like universes of sets respectively with, and without, the Axiom of Choice. It seems absurd to say that ZF with Choice is true mathematics and ZF without Choice is false mathematics, if they are both legitimate examples of mathematically well-behaved theories.
     step1: |-
-
+      应当再次强调：这些结构绝不挑战或拒斥现有数学，而是扩展我们对什么是数学上可能的构想。这反过来使数学多元主义的问题更加尖锐；例如见 Davies（2005）、Hellman 与 Bell（2006）或 Priest（2013）。各作者对数学多元主义有不同版本，但大意是：不相容的数学理论可以同样为真。数学多元主义的理据基于这一观察：存在不同的数学“宇宙”，其中成立着不同的、甚至不相容的数学定理或定律。著名的例子有：经典数学与直觉主义数学之间的不相容；以及带有与不带有选择公理的、ZF 式集合宇宙之间的不相容。如果说带选择公理的 ZF 是真数学而不带选择公理的 ZF 是假数学，那就荒谬了——如果它们都是数学上良态理论的合法例子的话。
     step2: |-
-
+      应当再次强调：这些结构绝不挑战或拒斥现有数学，而是拓展我们对“数学上可能”的构想。这反过来又把数学多元主义的问题磨得更尖；例如见 Davies（2005）、Hellman 与 Bell（2006）或 Priest（2013）。诸家对数学多元主义的版本各异，但大意是：不相容的数学理论可以同样为真。其理据在于这样的观察：存在不同的数学“宇宙”，其中成立着不同的、乃至不相容的数学定理或定律。著名例子：经典数学与直觉主义数学互不相容；带选择公理与不带选择公理的 ZF 式集合宇宙互不相容。倘若说带选择公理的 ZF 是真数学、不带选择公理的 ZF 是假数学，那就荒谬了——只要它们都是数学上良态理论的合法例子。
   - id: 32
     kind: body
     source: |-
       The primary question for the philosophy of mathematics is surely *what is mathematics*. Duality operations like topological duality or Routley* reinforce the point that incomplete/inconsistent duals are equally reasonable as examples of mathematics. From this point of view, disputes about which of intuitionist or classical or inconsistent mathematics to accept seem pointless; they are all part of the subject matter of mathematics. This point is made effectively by Shapiro (2014, in contrast see his 2002). Shapiro’s distinctive position has other ingredients: mathematics as the science of structure, and mathematical pluralism implying logical pluralism (on logical pluralism see also Beall and Restall 2006)[^beall-2006]; but we do not take these up here.
     step1: |-
-
+      数学哲学的首要问题无疑是*数学是什么*。诸如拓扑对偶或 Routley 星之类的对偶运算强化了这一点：不完备/不一致的对偶作为数学的例子同样合理。从这个角度看，关于应当接受直觉主义数学、经典数学还是不一致数学的争论似乎没有意义；它们都是数学主题的一部分。Shapiro（2014；对照见其 2002）有效地提出了这一点。Shapiro 的独特立场还有其他成分：数学作为结构的科学，以及数学多元主义蕴涵逻辑多元主义（关于逻辑多元主义另见 Beall and Restall 2006）[^beall-2006]；但我们在此不作讨论。
     step2: |-
-
+      数学哲学的首要问题无疑是*数学是什么*。拓扑对偶、Routley 星这类对偶运算强化了这一点：不完备／不一致的对偶，作为数学的例子同样合理。从这个角度看，关于该接受直觉主义数学、经典数学还是不一致数学的争论，似乎没有意义——它们全是数学论题的一部分。Shapiro（2014；对照见其 2002）有力地提出了这一点。Shapiro 的独特立场还有别的成分：数学作为结构的科学；数学多元主义蕴涵逻辑多元主义（逻辑多元主义另见 Beall and Restall 2006）[^beall-2006]。但这些此处不表。
   - id: 33
     kind: body
     source: |-
       For what it is worth, the present writer thinks that some version of mathematical pluralism is obviously true, if one takes mathematics to be firstly about mathematical theories allowing for inconsistency , and only secondly about the objects internal to those theories. There is, of course, no problem about incompatible theories co-existing, if considered as structures of propositions. The primacy of theories fits, too, with the natural observation that the epistemology of mathematics is deductive proof. It is only if one takes as a starting point the primacy of the mathematical object as the truth-maker of theories, that one has to worry about how their objects manage to co-exist.
     step1: |-
-
+      无论如何，笔者认为：如果有人把数学首先看作允许不一致的数学理论，其次才是那些理论内部的对象，那么某种版本的数学多元主义显然为真。当然，如果把不相容的理论看作命题结构，它们共存是没有任何问题的。理论的优先性也符合一个自然的观察：数学的认识论是演绎证明。只有当一个人把数学对象的优先性作为理论的真理制造者作为出发点时，他才必须担心这些对象如何设法共存。
     step2: |-
-
+      无论如何，笔者以为：若把数学首先看作允许不一致的数学理论、其次才看作那些理论内部的对象，那么某种版本的数学多元主义显然为真。当然，把不相容的理论视为命题结构，它们的共存没有任何问题。理论的优先性也合乎一个自然的观察：数学的认识论是演绎证明。只有当人把“数学对象优先、作为理论的真理制造者”当作出发点时，才须操心这些对象如何设法共存。
   - id: 34
     kind: oir
     source: |-
       [Please contact the author with suggestions.]
     step1: |-
-
+      [欢迎向作者提出建议。]
     step2: |-
-
+      [欢迎向作者提出建议。]
