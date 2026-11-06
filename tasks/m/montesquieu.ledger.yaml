@@ -1,0 +1,466 @@
+version: 1
+slug: montesquieu
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Montesquieu was one of the great political philosophers of the Enlightenment. Insatiably curious and mordantly funny, he constructed a naturalistic account of the various forms of government, and of the causes that made them what they were and that advanced or constrained their development. He used this account to explain how governments might be preserved from corruption. He saw despotism, in particular, as a standing danger for any government not already despotic, and argued that it could best be prevented by a system in which different bodies exercised legislative, executive, and judicial power, and in which all those bodies were bound by the rule of law. This theory of the separation of powers had an enormous impact on liberal political theory, and on the framers of the constitution of the United States of America.
+    step1: |-
+      孟德斯鸠（Montesquieu）是启蒙运动的伟大政治哲学家之一。他求知欲旺盛，讽刺尖刻，为各种政体构建了一种自然主义的解释，也解释了使这些政体成为其现状、推动或限制其发展的原因。他用这一解释来说明政府如何可能免于腐化。他尤其把专制看作任何尚未专制的政府所面临的长期危险，并主张，防止专制的最好办法是一种由不同机构分别行使立法权、行政权和司法权的制度，而且所有这些机构都受法治约束。这一分权理论对自由主义政治理论，以及对美利坚合众国宪法的制定者，都产生了巨大影响。
+    step2: |-
+      孟德斯鸠（Montesquieu）是启蒙运动最伟大的政治哲学家之一。他求知欲不知餍足，讽刺尖刻，为各种政体构建了一套自然主义的解释，也说明了这些政体何以呈现各自的面貌、其发展何以得到推进或受到限制。他借这套解释来说明政府如何免于腐化。在他看来，专制尤其是一切尚未沦为专制的政府都长期面临的危险；防止专制的最佳办法，是让不同机构分别行使立法权、行政权和司法权，并让所有这些机构都服从法治。这一分权理论深刻影响了自由主义政治理论，也影响了美国宪法的制定者。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life
+    step1: |-
+      ## 1. 生平
+    step2: |-
+      ## 1 生平
+  - id: 3
+    kind: body
+    source: |-
+      Charles-Louis de Secondat, Baron de La Brède et de Montesquieu, was born on January 19th, 1689 at La Brède, near Bordeaux, to a noble and prosperous family. He was educated at the Oratorian Collège de Juilly, received a law degree from the University of Bordeaux in 1708, and went to Paris to continue his legal studies. On the death of his father in 1713 he returned to La Brède to manage the estates he inherited, and in 1715 he married Jeanne de Lartigue, a practicing Protestant, with whom he had a son and two daughters. In 1716 he inherited from his uncle the title Baron de La Brède et de Montesquieu and the office of Président à Mortier in the Parlement of Bordeaux, which was at the time chiefly a judicial and administrative body. For the next eleven years he presided over the Tournelle, the Parlement's criminal division, in which capacity he heard legal proceedings, supervised prisons, and administered various punishments including torture. During this time he was also active in the Academy of Bordeaux, where he kept abreast of scientific developments, and gave papers on topics ranging from the causes of echoes to the motives that should lead us to pursue the sciences.
+    step1: |-
+      夏尔·路易·德·塞贡达，拉布雷德与孟德斯鸠男爵（Charles-Louis de Secondat, Baron de La Brède et de Montesquieu），1689 年 1 月 19 日生于波尔多附近的拉布雷德，出身于一个高贵而富裕的家庭。他在奥拉托利会的瑞伊学院（Collège de Juilly）受教育，1708 年在波尔多大学获得法学学位，随后前往巴黎继续研习法律。1713 年父亲去世后，他回到拉布雷德管理所继承的田产；1715 年，他与虔诚的新教徒让娜·德·拉尔蒂格（Jeanne de Lartigue）结婚，育有一子二女。1716 年，他从叔父那里继承了拉布雷德与孟德斯鸠男爵的爵位，以及波尔多巴列门（Parlement）的庭长职位（Président à Mortier）；当时的巴列门主要是一个司法与行政机构。此后十一年，他主持巴列门的刑事庭（Tournelle），审理诉讼、监督监狱，并执行包括酷刑在内的各种刑罚。在此期间，他还活跃于波尔多学院（Academy of Bordeaux），密切关注科学进展，并宣读论文，题目从回声的成因直到我们应当从事科学的动机。
+    step2: |-
+      夏尔·路易·德·塞贡达，即拉布雷德与孟德斯鸠男爵（Charles-Louis de Secondat, Baron de La Brède et de Montesquieu），1689 年 1 月 19 日生于波尔多附近的拉布雷德，出身高贵，家道殷实。他早年在奥拉托利会的瑞伊学院（Collège de Juilly）就读，1708 年在波尔多大学取得法学学位，随后赴巴黎继续研习法律。1713 年父亲去世，他回到拉布雷德管理继承的田产；1715 年与虔诚的新教徒让娜·德·拉尔蒂格（Jeanne de Lartigue）成婚，育有一子二女。1716 年，他从叔父手中继承拉布雷德与孟德斯鸠男爵的爵位，以及波尔多巴列门（Parlement）的庭长（Président à Mortier）一职。当时的巴列门主要行使司法与行政职能。此后十一年，他主持巴列门刑事庭（Tournelle），审理诉讼、监督监狱，并执行包括酷刑在内的各种刑罚。这段时间他还活跃于波尔多学院（Academy of Bordeaux），密切关注科学进展，宣读的论文从回声的成因一直谈到我们为何应当从事科学。
+  - id: 4
+    kind: body
+    source: |-
+      In 1721 Montesquieu published the *Persian Letters*, which was an instant success and made Montesquieu a literary celebrity. (He published the *Persian Letters* anonymously, but his authorship was an open secret.) He began to spend more time in Paris, where he frequented salons and acted on behalf of the Parlement and the Academy of Bordeaux. During this period he wrote several minor works: *Dialogue de Sylla et d'Eucrate* (1724), *Réflexions sur la Monarchie Universelle* (1724), and *Le Temple de Gnide* (1725). In 1725 he sold his life interest in his office and resigned from the Parlement. In 1728 he was elected to the Académie Française, despite some religious opposition, and shortly thereafter left France to travel abroad. After visiting Italy, Germany, Austria, and other countries, he went to England, where he lived for two years. He was greatly impressed with the English political system, and drew on his observations of it in his later work.
+    step1: |-
+      1721 年，孟德斯鸠出版《波斯人信札》，此书立即获得成功，使孟德斯鸠成为文学名人。（他匿名出版《波斯人信札》，但他的作者身份是公开的秘密。）他开始在巴黎逗留更长时间，出入沙龙，并代表巴列门和波尔多学院行事。在此期间，他写了几部次要作品：*Dialogue de Sylla et d'Eucrate*（1724）、*Réflexions sur la Monarchie Universelle*（1724）和 *Le Temple de Gnide*（1725）。1725 年，他出售了职位的终身收益，并辞去巴列门的职务。1728 年，尽管有一些宗教方面的反对，他仍当选法兰西学术院院士，此后不久便离开法国，到国外旅行。他访问了意大利、德国、奥地利和其他国家之后，前往英国，在那里住了两年。他对英国的政治制度印象极深，并在后来的著作中利用了对此的观察。
+    step2: |-
+      1721 年，孟德斯鸠出版《波斯人信札》。此书一问世便大获成功，也使他成了文坛名人。（《波斯人信札》虽匿名出版，作者身份却是公开的秘密。）此后他在巴黎逗留的时间越来越长，出入沙龙，并替巴列门和波尔多学院办事。这一时期，他写了几部次要作品：*Dialogue de Sylla et d'Eucrate*（1724）、*Réflexions sur la Monarchie Universelle*（1724）和 *Le Temple de Gnide*（1725）。1725 年，他卖掉了职位的终身收益权，辞去巴列门的职务。1728 年，尽管遭到一些宗教人士反对，他仍当选法兰西学术院院士，不久便离开法国，远游海外。他先后访问意大利、德国、奥地利等国，随后前往英国，在那里住了两年。英国的政治制度令他印象深刻，他后来的著作便利用了这些观察。
+  - id: 5
+    kind: body
+    source: |-
+      On his return to France in 1731, troubled by failing eyesight, Montesquieu returned to La Brède and began work on his masterpiece, *The Spirit of the Laws*. During this time he also wrote *Considerations on the Causes of the Greatness of the Romans and of their Decline*, which he published anonymously in 1734. In this book he tried to work out the application of his views to the particular case of Rome, and in so doing to discourage the use of Rome as a model for contemporary governments. Parts of *Considerations* were incorporated into *The Spirit of the Laws*, which he published in 1748. Like the *Persian Letters*, *The Spirit of the Laws* was both controversial and immensely successful. Two years later he published a *Defense of the Spirit of the Laws* to answer his various critics. Despite this effort, the Roman Catholic Church placed *The Spirit of the Laws* on the Index of Forbidden Books in 1751. In 1755, Montesquieu died of a fever in Paris, leaving behind an unfinished essay on taste for the *Encyclopédie* of Diderot and D'Alembert.
+    step1: |-
+      1731 年回到法国时，孟德斯鸠为视力衰退所苦，回到拉布雷德，开始撰写他的杰作《论法的精神》。在此期间，他还写了《罗马盛衰原因论》，1734 年匿名出版。在这本书中，他试图把自己的观点运用于罗马这一特定个案，并借此劝阻人们把罗马当作当代政府的榜样。《罗马盛衰原因论》的一些部分被并入《论法的精神》，后者于 1748 年出版。与《波斯人信札》一样，《论法的精神》既有争议，又极其成功。两年后，他出版《为〈论法的精神〉辩护》，以回答各种批评者。尽管有此努力，罗马天主教会仍在 1751 年把《论法的精神》列入《禁书目录》。1755 年，孟德斯鸠在巴黎死于热病，留下了一篇为狄德罗与达朗贝尔的《百科全书》所写的、未完成的论趣味文章。
+    step2: |-
+      1731 年，孟德斯鸠返回法国。由于视力日渐衰退，他回到拉布雷德，着手撰写代表作《论法的精神》。在此期间，他还写了《罗马盛衰原因论》，1734 年匿名出版。书中，他试图把自己的观点用于罗马这一具体个案，并借此劝阻人们以罗马为当代政府的典范。《罗马盛衰原因论》的部分内容后来并入 1748 年出版的《论法的精神》。与《波斯人信札》一样，《论法的精神》既有争议，又极为成功。两年后，他出版《为〈论法的精神〉辩护》，回应各方批评。尽管如此，罗马天主教会还是在 1751 年把《论法的精神》列入《禁书目录》。1755 年，孟德斯鸠在巴黎因热病去世；他为狄德罗与达朗贝尔主编的《百科全书》写一篇论趣味的文章，未能完稿。
+  - id: 6
+    kind: body
+    source: |-
+      ## 2. Major Works
+    step1: |-
+      ## 2. 主要著作
+    step2: |-
+      ## 2 主要著作
+  - id: 7
+    kind: body
+    source: |-
+      Montesquieu's two most important works are the *Persian Letters* and *The Spirit of the Laws*. While these works share certain themes -- most notably a fascination with non-European societies and a horror of despotism -- they are quite different from one another, and will be treated separately.
+    step1: |-
+      孟德斯鸠最重要的两部著作是《波斯人信札》和《论法的精神》。虽然这两部作品共享某些主题——最值得注意的是对非欧洲社会的迷恋和对专制的恐惧——但它们彼此相当不同，将分别加以讨论。
+    step2: |-
+      孟德斯鸠最重要的两部著作是《波斯人信札》和《论法的精神》。两部作品有一些共同主题，突出者有二：对非欧洲社会的着迷，对专制的憎恶。但两者差异很大，因此分开讨论。
+  - id: 8
+    kind: body
+    source: |-
+      ## 3. The *Persian Letters*
+    step1: |-
+      ## 3. 《波斯人信札》
+    step2: |-
+      ## 3 《波斯人信札》
+  - id: 9
+    kind: body
+    source: |-
+      The *Persian Letters* is an epistolary novel consisting of letters sent to and from two fictional Persians, Usbek and Rica, who set out for Europe in 1711 and remain there at least until 1720, when the novel ends. When Montesquieu wrote the *Persian Letters*, travellers' accounts of their journeys to hitherto unknown parts of the world, and of the peculiar customs they found there, were very popular in Europe. While Montesquieu was not the first writer to try to imagine how European culture might look to travellers from non-European countries, he used that device with particular brilliance.
+    step1: |-
+      《波斯人信札》是一部书信体小说，由两位虚构的波斯人于斯贝克（Usbek）和里卡（Rica）的往返书信组成。他们 1711 年出发前往欧洲，并至少留在那里直到 1720 年小说结束。孟德斯鸠写作《波斯人信札》时，旅行家们记述前往当时尚不为人知的世界各地、以及在那里发现的奇特习俗的作品，在欧洲非常流行。孟德斯鸠虽然不是第一个试图想象欧洲文化在来自非欧洲国家的旅行者眼中是什么样子的作家，但他运用这一手法格外出色。
+    step2: |-
+      《波斯人信札》是一部书信体小说，由两位虚构的波斯人于斯贝克（Usbek）与里卡（Rica）的往来书信构成。两人 1711 年动身前往欧洲，至少待到 1720 年小说结束时仍在那里。孟德斯鸠写作此书时，旅行家记述远赴当时尚不为人知的地域、以及在那里见到的奇特风俗，这类作品在欧洲十分流行。孟德斯鸠并非第一个想弄清欧洲文化在非欧洲旅行者眼中是何模样的作家，但他运用这一手法格外精彩。
+  - id: 10
+    kind: body
+    source: |-
+      Many of the letters are brief descriptions of scenes or characters. At first their humor derives mostly from the fact that Usbek and Rica misinterpret what they see. Thus, for instance, Rica writes that the Pope is a magician who can "make the king believe that three are only one, or else that the bread one eats is not bread, or that the wine one drinks is not wine, and a thousand other things of the same kind" (Letter 24); when Rica goes to the theater, he concludes that the spectators he sees in private boxes are actors enacting dramatic tableaux for the entertainment of the audience. In later letters, Usbek and Rica no longer misinterpret what they see; however, they find the actions of Europeans no less incomprehensible. They describe people who are so consumed by vanity that they become ridiculous, scholars whose concern for the minutiae of texts blinds them to the world around them, and a scientist who nearly freezes to death because lighting a fire in his room would interfere with his attempt to obtain exact measurements of its temperature.
+    step1: |-
+      许多书信是对场景或人物的简短描写。起初，它们的幽默主要来自这样一个事实：于斯贝克和里卡误解了他们所看见的东西。例如，里卡写道，教皇是个魔法师，能“让国王相信三就是一，或者相信人吃的面包不是面包，或者相信人喝的酒不是酒，以及上千种诸如此类的事情”（第 24 封信）；里卡去剧院时，则断定他在包厢里看见的观众是演员，正在为娱乐观众表演戏剧场景。在较晚的书信里，于斯贝克和里卡不再误解所见之物；然而，他们发现欧洲人的行为同样不可理解。他们描写了一些人被虚荣消耗到变得可笑的地步，一些学者对文本细节的关注使他们看不见周围的世界，还有一位科学家差点冻死，因为在他房间里生火会干扰他获取房间精确温度测量的尝试。
+    step2: |-
+      许多书信只是对场景或人物的简短速写。起初，幽默多半来自误解：于斯贝克和里卡把自己看到的东西理解错了。例如，里卡写道，教皇是个魔法师，能“让国王相信三就是一，相信人吃的不是面包，人喝的不是酒，诸如此类，还能变出一千种”（第 24 封信）；里卡去看戏，则断定他在包厢里看到的观众都是演员，正在表演戏剧场面供人消遣。到了后面的书信，两人不再误解所见，却觉得欧洲人的行为同样不可理解。他们写到一些人被虚荣吞噬，变得滑稽可笑；一些学者埋头于文本的细枝末节，对身边的世界视而不见；还有一位科学家差点冻死，因为在他房里生火，会妨碍他精确测量室温。
+  - id: 11
+    kind: body
+    source: |-
+      Interspersed among these descriptive letters are the Persians' reflections on what they see. Usbek is particularly given to such musings, and he shares many of Montesquieu's own preoccupations: with the contrast between European and non-European societies, the advantages and disadvantages of different systems of government, the nature of political authority, and the proper role of law. He also seems to share many of Montesquieu's views. The best government, he says, is that "which attains its purpose with the least trouble", and "controls men in the manner best adapted to their inclinations and desires" (Letter 80). He notes that the French are moved by a love of honor to obey their king, and quotes approvingly the claim that this "makes a Frenchman, willingly and with pleasure, do things that your Sultan can only get out of his subjects by ceaseless exhortation with rewards and punishments" (Letter 89). While he is vividly aware of the importance of just laws, he regards legal reform as a dangerous task to be attempted "only in fear and trembling" (Letter 129). He favors religious toleration, and regards attempts to compel religious belief as both unwise and inhumane. In these reflections Usbek seems to be a thoughtful and enlightened observer with a deep commitment to justice.
+    step1: |-
+      穿插在这些描写性书信之间的，是两位波斯人对所见事物的思考。于斯贝克尤其喜欢这类沉思，他分享孟德斯鸠本人的许多关切：欧洲社会与非欧洲社会的对比、不同政体制度的利弊、政治权威的性质，以及法律的恰当作用。他似乎也分享孟德斯鸠的许多观点。他说，最好的政府是“以最少的麻烦达到其目的”的政府，并且“以最适合人的性情和欲望的方式控制人”（第 80 封信）。他指出，法国人是被对荣誉的热爱所推动而服从国王的，并赞许地引用一种说法：这种热爱“使一个法国人心甘情愿、满心欢喜地去做那些你们的苏丹只有靠不断用赏赐和惩罚劝诱，才能从他臣民那里得到的事情”（第 89 封信）。他生动地意识到公正法律的重要性，却认为法律改革是一项危险的任务，只能“在恐惧和战栗中”尝试（第 129 封信）。他赞成宗教宽容，认为强迫人信教的企图既不明智也不人道。在这些思考中，于斯贝克似乎是一位有思想、开明的观察者，深切地献身于正义。
+    step2: |-
+      在这些描写性的书信之间，穿插着两位波斯人对所见所闻的思考。于斯贝克尤其爱发这类议论，他的许多关切与孟德斯鸠本人相同：他关心欧洲社会与非欧洲社会的对比，关心不同政体的利弊；他关心政治权威的性质，也关心法律的恰当作用。他似乎也认同孟德斯鸠的许多观点。他说，最好的政府“达到目的时周折最少”，治理人“最契合人的性情与欲望”（第 80 封信）。他指出，法国人出于对荣誉的热爱而服从国王，并赞赏地引述一种说法。这种热爱“使法国人心甘情愿、满心欢喜地去做那些你们的苏丹只有靠不断用赏罚来劝诱，才能让臣民做出的事情”（第 89 封信）。他清楚地意识到公正法律的重要，却认为法律改革危险重重，只能“战战兢兢地”尝试（第 129 封信）。他赞成宗教宽容，认为强迫他人信教既不明智，也不人道。在这些思考中，于斯贝克似乎是一位有思想、开明的观察者，对正义怀有深切的信念。
+  - id: 12
+    kind: body
+    source: |-
+      However, one of the great themes of the *Persian Letters* is the virtual impossibility of self-knowledge, and Usbek is its most fully realized illustration. Usbek has left behind a harem in Persia, in which his wives are kept prisoner by eunuchs who are among his slaves. Both his wives and his slaves can be beaten, mutilated, or killed at his command, as can any outsider unfortunate enough to lay eyes on them. Usbek is, in other words, a despot in his home. From the outset he is tortured by the thought of his wives' infidelity. It is not, he writes, that he loves his wives, but that "from my very lack of feeling has come a secret jealousy which is devouring me" (Letter 6). As time goes on problems develop in the seraglio: Usbek's wives feud with each other, and the eunuchs find it increasingly difficult to keep order. Eventually discipline breaks down altogether; the Chief Eunuch reports this to Usbek and then abruptly dies. His replacement is clearly obedient not to Usbek but to his wives: he contrives not to receive any of Usbek's letters, and when a young man is found in the seraglio he writes: "I got up, examined the matter, and found that it was a vision" (Letter 149). Usbek orders another eunuch to restore order: "leave pity and tenderness behind. ... Make my seraglio what it was when I left it; but begin by expiation: exterminate the criminals, and strike dread into those who contemplated becoming so. There is nothing that you cannot hope to receive from your master for such an outstanding service" (Letter 153). His orders are obeyed, and "horror, darkness, and dread rule the seraglio" (Letter 156). Finally, Roxana, Usbek's favorite wife and the only one whose virtue he trusted, is found with another man; her lover is killed, and she commits suicide after writing Usbek a scathing letter in which she asks: "How could you have thought me credulous enough to imagine that I was in the world only in order to worship your caprices? that while you allowed yourself everything, you had the right to thwart all my desires? No: I may have lived in servitude, but I have always been free. I have amended your laws according to the laws of nature, and my mind has always remained independent" (Letter 161). With this letter the novel ends.
+    step1: |-
+      然而，《波斯人信札》的伟大主题之一，是自我认识实际上不可能，而于斯贝克是这一主题最充分的例证。于斯贝克在波斯留下了一个后宫，他的妻妾被阉奴囚禁，而这些阉奴是他的奴隶的一部分。他的妻妾和奴隶都可以按他的命令被鞭打、残害或杀死，任何不幸看见她们的外人也是如此。换言之，于斯贝克在自己家里是一个专制君主。从一开始，他就被妻妾不贞的念头折磨。他写道，并不是他爱他的妻妾，而是“正是从我感情的缺乏中，产生了一种正在吞噬我的秘密嫉妒”（第 6 封信）。随着时间推移，后宫出现了问题：于斯贝克的妻妾彼此争斗，阉奴发现越来越难以维持秩序。最终纪律完全崩溃；阉奴总管向于斯贝克报告此事，随后突然死去。他的继任者显然不是服从于斯贝克，而是服从他的妻妾：他设法不接收于斯贝克的任何信件；当在后宫发现一个年轻人时，他写道：“我起了床，检查了这件事，发现那是一个幻象”（第 149 封信）。于斯贝克命令另一个阉奴恢复秩序：“把怜悯和温情抛在身后。……把我的后宫变成我离开时的样子；但要从赎罪开始：消灭罪犯，让那些曾想成为罪犯的人心生恐惧。对于如此出色的服务，你尽可指望从你的主人那里得到任何东西”（第 153 封信）。他的命令被服从了，“恐怖、黑暗和畏惧统治着后宫”（第 156 封信）。最后，于斯贝克最宠爱的妻子、也是他唯一信任其德性的罗克珊娜（Roxana）被发现与另一个男人在一起；她的情人被杀，她在给于斯贝克写了一封尖刻的信后自杀。信中她问道：“你怎么会以为我轻信到这种地步，竟以为我活在世上只是为了崇拜你的任性？以为你纵容自己一切，就有权阻挠我的一切欲望？不：我也许生活在奴役之中，但我一直是自由的。我按照自然法修正了你的法律，我的心灵始终保持独立”（第 161 封信）。小说以这封信结束。
+    step2: |-
+      然而，《波斯人信札》的一大主题正是自我认识几乎不可能，而于斯贝克是这一主题最充分的体现。于斯贝克在波斯留下了一个后宫，妻妾被阉奴囚禁，而这些阉奴本身也是他的奴隶。只要他一声令下，妻妾和奴隶都可以被鞭打、残害或处死；任何不幸瞥见她们的外人也是如此。换言之，于斯贝克在家里就是个专制君主。从一开始，他就被妻妾不贞的念头折磨。他写道，这并不是因为他爱她们，而是“正是从我感情的匮乏中，生出一种正在吞噬我的隐秘嫉妒”（第 6 封信）。随着时间推移，后宫出了问题：于斯贝克的妻妾互相争斗，阉奴越来越难以维持秩序。最终纪律彻底崩溃；阉奴总管把此事报告于斯贝克，随后猝然死去。接替他的人显然听命于于斯贝克的妻妾，而不是于斯贝克本人：他想办法不收于斯贝克的任何信件；有人在后宫发现一个年轻人时，他写道：“我起了床，查了查这件事，发现那不过是个幻影”（第 149 封信）。于斯贝克命令另一个阉奴恢复秩序：“把怜悯和温情都抛在一边。……把我的后宫恢复成我离开时的样子；但先要赎罪：把罪犯斩尽杀绝，让那些动过同样念头的人胆寒。如此出色的功劳，你尽可指望从主人那里得到任何赏赐”（第 153 封信）。他的命令被执行了，“恐怖、黑暗和畏惧统治着后宫”（第 156 封信）。最后，于斯贝克最宠爱的妻子、也是他唯一相信其贞洁的罗克珊娜（Roxana）被人发现与另一个男人在一起；她的情人被杀，她写完一封痛斥于斯贝克的信后自杀。信中问道：“你怎么会以为我轻信到这种地步，竟以为我活在这世上只是为了崇拜你的任性？以为你纵容自己无所不为，就有权阻挠我的一切欲望？不：我也许一直生活在奴役之中，但我始终是自由的。我依照自然法修正了你的法律，我的心灵始终保持独立”（第 161 封信）。小说以此信结束。
+  - id: 13
+    kind: body
+    source: |-
+      The *Persian Letters* is both one of the funniest books written by a major philosopher, and one of the bleakest. It presents both virtue and self-knowledge as almost unattainable. Almost all the Europeans in the *Persian Letters* are ridiculous; most of those who are not appear only to serve as a mouthpiece for Montesquieu's own views. Rica is amiable and good-natured, but this is largely due to the fact that, since he has no responsibilities, his virtue has never been seriously tested. For all Usbek's apparent enlightenment and humanity, he turns out to be a monster whose cruelty does not bring him happiness, as he himself recognizes even as he decides to inflict it. His eunuchs, unable to hope for either freedom or happiness, learn to enjoy tormenting their charges, and his wives, for the most part, profess love while plotting intrigues. The only admirable character in the novel is Roxana, but the social institutions of Persia make her life intolerable: she is separated from the man she loves and forced to live in slavery. Her suicide is presented as a noble act, but also as an indictment of the despotic institutions that make it necessary.
+    step1: |-
+      《波斯人信札》既是一位大哲学家写的最滑稽的书之一，也是最阴郁的书之一。它把德性和自我认识都呈现为几乎无法企及的东西。书中的欧洲人几乎个个可笑；少数不可笑的人，大多也只是充当孟德斯鸠本人观点的传声筒。里卡和蔼善良，但这在很大程度上是因为他不必承担任何责任，他的德性从未受到真正的考验。于斯贝克表面上开明而人道，实际上却是个怪物；他的残暴并未给他带来幸福，这一点他自己在决定施暴时也心知肚明。他的阉奴既无望得到自由，也无望得到幸福，于是学会以折磨自己看管的人为乐；他的妻妾大多口称爱他，背地里却谋划私情。小说中唯一可敬的人物是罗克珊娜，但波斯的社会制度使她的生活无法忍受：她与心爱的男人分离，被迫过着奴隶般的生活。她的自杀被写成一种高尚的行为，同时也是对那种使自杀成为必要的专制制度的控诉。
+    step2: |-
+      《波斯人信札》既是大哲学家笔下最滑稽的书之一，也是最阴郁的书之一。它把德性与自我认识都写成几乎无法企及之物。书中的欧洲人几乎个个可笑；少数不可笑的人，大多也只是孟德斯鸠本人观点的传声筒。里卡和蔼善良，但这多半是因为他不必承担任何责任，德性从未受过真正的考验。于斯贝克表面上开明而人道，实际上却是个怪物；残暴并未给他带来幸福，这一点他自己在决定施暴时也心知肚明。他的阉奴既无望得到自由，也无望得到幸福，于是学会以折磨所看管的人为乐；他的妻妾大多口称爱他，背地里却谋划私情。小说中唯一可敬的人物是罗克珊娜。波斯的社会制度却使她的生活无法忍受：她被迫与所爱之人分离，在奴役中度过一生。她的自杀被写成高尚之举，同时也是对那种逼人自杀的专制制度的控诉。
+  - id: 14
+    kind: body
+    source: |-
+      ## 4. *The Spirit of the Laws*
+    step1: |-
+      ## 4. 《论法的精神》
+    step2: |-
+      ## 4 《论法的精神》
+  - id: 15
+    kind: body
+    source: |-
+      Montesquieu's aim in *The Spirit of the Laws* is to explain human laws and social institutions. This might seem like an impossible project: unlike physical laws, which are, according to Montesquieu, instituted and sustained by God, positive laws and social institutions are created by fallible human beings who are "subject ... to ignorance and error, [and] hurried away by a thousand impetuous passions" (SL 1.1). One might therefore expect our laws and institutions to be no more comprehensible than any other catalog of human follies, an expectation which the extraordinary diversity of laws adopted by different societies would seem to confirm.
+    step1: |-
+      孟德斯鸠在《论法的精神》中的目标，是解释人类的法律与社会制度。这看起来像是一项不可能的任务：按照孟德斯鸠的说法，物理规律由上帝设定并维系；与此不同，实在法和社会制度由会犯错的人创造，而人“难免……无知和错误，[并]被千百种狂暴的激情卷走”（SL 1.1）。因此，人们或许会以为，我们的法律和制度并不比任何一部人类愚行录更容易理解；不同社会所采法律千差万别，似乎正好印证了这一点。
+    step2: |-
+      孟德斯鸠写作《论法的精神》，是要解释人类的法律与社会制度。这看起来像是一项不可能完成的任务：在孟德斯鸠看来，物理规律由上帝设定并维系；实在法与社会制度却由会犯错的人创造，而人“难免……无知和错误，[并]被千百种狂暴的激情卷走”（SL 1.1）。因此，人们或许会以为，我们的法律与制度并不比任何一部人类愚行录更容易理解；不同社会所采法律千差万别，似乎正好印证了这一点。
+  - id: 16
+    kind: body
+    source: |-
+      Nonetheless, Montesquieu believes that this apparent chaos is much more comprehensible than one might think. On his view, the key to understanding different laws and social systems is to recognize that they should be adapted to a variety of different factors, and cannot be properly understood unless one considers them in this light. Specifically, laws should be adapted "to the people for whom they are framed..., to the nature and principle of each government, ... to the climate of each country, to the quality of its soil, to its situation and extent, to the principal occupation of the natives, whether husbandmen, huntsmen or shepherds: they should have relation to the degree of liberty which the constitution will bear; to the religion of the inhabitants, to their inclinations, riches, numbers, commerce, manners, and customs. In fine, they have relations to each other, as also to their origin, to the intent of the legislator, and to the order of things on which they are established; in all of which different lights they ought to be considered" (SL 1.3). When we consider legal and social systems in relation to these various factors, Montesquieu believes, we will find that many laws and institutions that had seemed puzzling or even perverse are in fact quite comprehensible.
+    step1: |-
+      然而，孟德斯鸠认为，这种表面的混乱远比人们想象的更容易理解。在他看来，理解不同法律与社会体系的关键，在于认识到法律应当适应多种不同的因素；不从这个角度去看，就无法正确理解它们。具体说来，法律应当适应“为其制定法律的人民……，适应每一政体的性质与原则，……适应每一国家的气候、土壤的性质、位置与幅员、当地居民的主要营生——无论他们是农夫、猎人还是牧人：法律应当与宪制所能容许的自由程度有关，与居民的宗教、性情、财富、人口、商业、风俗和习惯有关。总之，法律彼此相关，也与它们的起源、立法者的意图以及它们所立足的事物秩序相关；应当从所有这些不同的角度来考虑法律”（SL 1.3）。孟德斯鸠认为，一旦我们把法律和社会体系与这些因素联系起来考察，就会发现许多看似费解甚至乖谬的法律和制度，其实相当容易理解。
+    step2: |-
+      然而，孟德斯鸠认为，这种表面的混乱远比人们想象的容易理解。在他看来，理解不同法律与社会体系的关键，是认识到法律应当适应多种不同的因素；不从这个角度去看，就无法正确理解它们。具体说来，法律应当适应“为其制定法律的人民……；适应每一政体的性质与原则；……适应每一国家的气候、土壤性质、位置与幅员，适应当地居民的主要营生，无论他们是农夫、猎人还是牧人；法律应与宪制所能容许的自由程度有关，与居民的宗教、性情、财富、人口、商业、风俗和习惯有关。总之，法律彼此相关，也关涉其起源、立法者的意图与所依据的事物秩序；应从所有这些不同的角度来考虑法律”（SL 1.3）。孟德斯鸠认为，一旦把法律和社会体系与这些因素联系起来考察，就会发现许多看似费解甚至乖谬的法律和制度，其实相当容易理解。
+  - id: 17
+    kind: body
+    source: |-
+      Understanding why we have the laws we do is important in itself. However, it also serves practical purposes. Most importantly, it will discourage misguided attempts at reform. Montesquieu is not a utopian, either by temperament or conviction. He believes that to live under a stable, non-despotic government that leaves its law-abiding citizens more or less free to live their lives is a great good, and that no such government should be lightly tampered with. If we understand our system of government, and the ways in which it is adapted to the conditions of our country and its people, we will see that many of its apparently irrational features actually make sense, and that to 'reform' these features would actually weaken it. Thus, for instance, one might think that a monarchical government would be strengthened by weakening the nobility, thereby giving more power to the monarch. On Montesquieu's view, this is false: to weaken those groups or institutions which check a monarch's power is to risk transforming monarchy into despotism, a form of government that is both abhorrent and unstable.
+    step1: |-
+      弄明白我们何以会有这样的法律，这件事本身很重要。不过，它也有实际用处。最重要的是，它能劝阻那些误入歧途的改革尝试。无论就性情还是信念而言，孟德斯鸠都不是乌托邦主义者。他认为，生活在一个稳定而非专制的政府之下，让守法的公民或多或少能自由安排自己的生活，是一大善；这样的政府不应轻易受到干扰。如果我们理解自己的政府体制，理解它如何适应本国和本国人民的状况，就会看到：它许多看似不合理的特征其实自有道理，而“改革”这些特征反而会削弱它。例如，有人可能以为，削弱贵族、从而把更多权力交给君主，会使君主政府得到加强。在孟德斯鸠看来，这是错的：削弱那些制衡君主权力的团体或制度，就有把君主制变成专制的危险，而专制既令人憎恶，又极不稳定。
+    step2: |-
+      弄明白我们何以会有这样的法律，本身就很要紧。不过，它也有实际用处。最重要的是，它能劝阻那些误入歧途的改革尝试。无论就性情还是信念而言，孟德斯鸠都不是乌托邦主义者。他认为，生活在稳定而非专制的政府之下，让守法的公民或多或少能自由安排生活，是一大善；这样的政府不应轻易受到干扰。如果我们理解自己的政府体制，理解它如何适应本国和本国人民的状况，就会看到：它许多看似不合理的特征其实自有道理，而“改革”这些特征反而会削弱它。例如，有人可能以为，削弱贵族、把更多权力交给君主，会使君主政府得到加强。在孟德斯鸠看来，这是错的：削弱那些制衡君主权力的团体或制度，就有把君主制变成专制的危险，而专制既令人憎恶，又极不稳定。
+  - id: 18
+    kind: body
+    source: |-
+      Understanding our laws will also help us to see which aspects of them are genuinely in need of reform, and how these reforms might be accomplished. For instance, Montesquieu believes that the laws of many countries can be made be more liberal and more humane, and that they can often be applied less arbitrarily, with less scope for the unpredictable and oppressive use of state power. Likewise, religious persecution and slavery can be abolished, and commerce can be encouraged. These reforms would generally strengthen monarchical governments, since they enhance the freedom and dignity of citizens. If lawmakers understand the relations between laws on the one hand and conditions of their countries and the principles of their governments on the other, they will be in a better position to carry out such reforms without undermining the governments they seek to improve.
+    step1: |-
+      理解我们的法律，也有助于看清其中哪些方面确实需要改革，以及这些改革可以如何实现。例如，孟德斯鸠认为，许多国家的法律可以变得更自由、更人道，在执行时也常常可以减少任意性，缩小国家权力不可预测、压迫性的运用空间。同样，宗教迫害和奴隶制可以废除，商业可以鼓励。这类改革通常会加强君主政府，因为它们增进了公民的自由与尊严。如果立法者既理解法律，又理解本国国情与本国政体的原则，以及二者之间的关系，他们就更有能力推行这类改革，而不至于削弱自己想要改善的政府。
+    step2: |-
+      理解我们的法律，也有助于看清其中哪些方面确实需要改革，以及这些改革可以怎样实现。例如，孟德斯鸠认为，许多国家的法律可以变得更自由、更人道，执行时也常常可以减少任意性，缩小国家权力不可预测、动辄压迫的运用空间。同样，宗教迫害和奴隶制可以废除，商业可以鼓励。这类改革通常会加强君主政府，因为它们增进了公民的自由与尊严。立法者如果既理解法律，又理解本国国情、本国政体的原则以及二者之间的关系，就更有能力推行这类改革，而不至于削弱自己想要改善的政府。
+  - id: 19
+    kind: body
+    source: |-
+      ### 4.1 Forms of Government
+    step1: |-
+      ### 4.1 政府形式
+    step2: |-
+      ### 4.1 政体形式
+  - id: 20
+    kind: body
+    source: |-
+      Montesquieu holds that there are three types of governments: republican governments, which can take either democratic or aristocratic forms; monarchies; and despotisms. Unlike, for instance, Aristotle, Montesquieu does not distinguish forms of government on the basis of the virtue of the sovereign. The distinction between monarchy and despotism, for instance, depends not on the virtue of the monarch, but on whether or not he governs "by fixed and established laws" (SL 2.1). Each form of government has a principle, a set of "human passions which set it in motion" (SL 3.1); and each can be corrupted if its principle is undermined or destroyed.
+    step1: |-
+      孟德斯鸠认为政体有三种：共和政体，可取民主制或贵族制两种形式；君主政体；专制政体。孟德斯鸠不像亚里士多德等人那样，依据统治者的德性来区分政体。例如，君主制与专制的区别，不在于君主的德性，而在于他是否“依固定的、确立的法律”统治（SL 2.1）。每一种政体都有一个原则，即一套“推动它运转的人类激情”（SL 3.1）；原则一旦受损或被摧毁，政体就会腐化。
+    step2: |-
+      孟德斯鸠认为政体有三种：共和政体，可取民主制或贵族制两种形式；君主政体；专制政体。他不像亚里士多德等人那样，依据统治者的德性来区分政体。例如，君主制与专制的区别不在君主的德性，而在于他是否“依固定的、确立的法律”统治（SL 2.1）。每一种政体都有一个原则，即一套“推动它运转的人类激情”（SL 3.1）；原则一旦受损或被摧毁，政体就会腐化。
+  - id: 21
+    kind: body
+    source: |-
+      In a democracy, the people are sovereign. They may govern through ministers, or be advised by a senate, but they must have the power of choosing their ministers and senators for themselves. The principle of democracy is political virtue, by which Montesquieu means "the love of the laws and of our country" (SL 4.5), including its democratic constitution. The form of a democratic government makes the laws governing suffrage and voting fundamental. The need to protect its principle, however, imposes far more extensive requirements. On Montesquieu's view, the virtue required by a functioning democracy is not natural. It requires "a constant preference of public to private interest" (SL 4.5); it "limits ambition to the sole desire, to the sole happiness, of doing greater services to our country than the rest of our fellow citizens" (SL 5.3); and it "is a self-renunciation, which is ever arduous and painful" (SL 4.5). Montesquieu compares it to monks' love for their order: "their rule debars them from all those things by which the ordinary passions are fed; there remains therefore only this passion for the very rule that torments them. ... the more it curbs their inclinations, the more force it gives to the only passion left them" (SL 5.2). To produce this unnatural self-renunciation, "the whole power of education is required" (SL 4.5). A democracy must educate its citizens to identify their interests with the interests of their country, and should have censors to preserve its mores. It should seek to establish frugality by law, so as to prevent its citizens from being tempted to advance their own private interests at the expense of the public good; for the same reason, the laws by which property is transferred should aim to preserve an equal distribution of property among citizens. Its territory should be small, so that it is easy for citizens to identify with it, and more difficult for extensive private interests to emerge.
+    step1: |-
+      在民主制下，人民是主权者。他们可以通过官员治理，也可以由元老院提供建议，但必须有权自行选择官员和元老。民主制的原则是政治德性，孟德斯鸠用它指“对法律和祖国的热爱”（SL 4.5），包括对民主宪制的热爱。民主政府的形式使规定选举权和投票的法律成为根本大法。然而，保护其原则的需要提出了远为广泛的要求。在孟德斯鸠看来，运转良好的民主制所需要的德性并非自然生成。它要求“始终把公共利益置于私人利益之上”（SL 4.5）；它“把野心限制在唯一愿望、唯一幸福之上：为祖国做出比同胞更大的贡献”（SL 5.3）；它“是一种自我舍弃，始终艰难而痛苦”（SL 4.5）。孟德斯鸠把它比作修士对其修会的爱：“会规使他们被排除在一切滋养寻常激情的事物之外；于是只剩下对这条折磨他们的会规本身的激情。……会规越是约束他们的性情，就越给这仅存的激情增添力量”（SL 5.2）。要造就这种非自然的自我舍弃，“必须动用教育的全部力量”（SL 4.5）。民主制必须教育公民把自身利益与祖国利益视为一体，并应设置监察官以维护风尚。它应当设法以法律确立节俭，以免公民受诱去牺牲公共利益来增进私利；出于同样的理由，规范财产转让的法律应当力求保持公民之间财产的平等分配。它的疆域应当狭小，以便公民容易认同它，也使庞大的私人利益难以形成。
+    step2: |-
+      在民主制下，人民是主权者。他们可以通过官员治理，也可以由元老院提供建议，但必须有权自行选择官员和元老。民主制的原则是政治德性，即孟德斯鸠所说的“对法律和祖国的热爱”（SL 4.5），包括对民主宪制的热爱。民主政体的形式，使规定选举权与投票的法律成为根本大法。然而，要保护自己的原则，它还需要多得多的东西。在孟德斯鸠看来，运转良好的民主制所需的德性并非天生。它要求“始终把公共利益置于私人利益之上”（SL 4.5）；它“把野心限制在唯一的愿望、唯一的幸福上：为祖国做出比同胞更大的贡献”（SL 5.3）；它“是一种自我舍弃，始终艰难而痛苦”（SL 4.5）。孟德斯鸠把它比作修士对修会的爱：“会规把他们排除在一切滋养寻常激情的事物之外；于是只剩下对这条折磨他们的会规本身的激情。……会规越是约束他们的性情，就越给这仅存的激情增添力量”（SL 5.2）。要造就这种非自然的自我舍弃，“必须动用教育的全部力量”（SL 4.5）。民主制必须教育公民把自身利益与祖国利益视为一体，还应设置监察官以维护风尚。它应当设法以法律确立节俭，免得公民受诱去牺牲公益、增进私利；出于同样的理由，规范财产转让的法律应当力求保持公民之间财产的平等分配。它的疆域应当狭小，以便公民容易认同，也使庞大的私人利益难以形成。
+  - id: 22
+    kind: body
+    source: |-
+      Democracies can be corrupted in two ways: by what Montesquieu calls "the spirit of inequality" and "the spirit of extreme equality" (SL 8.2). The spirit of inequality arises when citizens no longer identify their interests with the interests of their country, and therefore seek both to advance their own private interests at the expense of their fellow citizens, and to acquire political power over them. The spirit of extreme equality arises when the people are no longer content to be equal as citizens, but want to be equal in every respect. In a functioning democracy, the people choose magistrates to exercise executive power, and they respect and obey the magistrates they have chosen. If those magistrates forfeit their respect, they replace them. When the spirit of extreme equality takes root, however, the citizens neither respect nor obey any magistrate. They "want to manage everything themselves, to debate for the senate, to execute for the magistrate, and to decide for the judges" (SL 8.2). Eventually the government will cease to function, the last remnants of virtue will disappear, and democracy will be replaced by despotism.
+    step1: |-
+      民主制可能以两种方式腐化：孟德斯鸠称之为“不平等的精神”和“极端平等的精神”（SL 8.2）。当公民不再把自身利益与祖国利益视为一体，因而既想牺牲同胞来增进私利，又想取得支配同胞的政治权力时，不平等的精神便产生了。当人民不再满足于作为公民的平等，而想在一切方面都平等时，极端平等的精神便产生了。在运转良好的民主制中，人民选出官员行使行政权，并尊重和服从自己选出的官员；这些官员若失去人民的尊重，人民就换掉他们。然而，一旦极端平等的精神扎根，公民便既不尊重也不服从任何官员。他们“什么都想自己管，替元老院辩论，替官员执行，替法官裁决”（SL 8.2）。最终政府将无法运转，德性的最后残余也会消失，民主制将被专制取代。
+    step2: |-
+      民主制可能以两种方式腐化：孟德斯鸠称之为“不平等的精神”与“极端平等的精神”（SL 8.2）。公民若不再把自身利益与祖国利益视为一体，既想牺牲同胞来增进私利，又想取得支配同胞的政治权力，不平等的精神便产生了。人民若不再满足于作为公民的平等，而想在一切方面都平等，极端平等的精神便产生了。在运转良好的民主制中，人民选出官员行使行政权，并尊重、服从自己选出的官员；官员一旦失去人民的尊重，就会被换掉。可一旦极端平等的精神扎根，公民便既不尊重也不服从任何官员。他们“什么都想自己管，替元老院辩论，替官员执行，替法官裁决”（SL 8.2）。最终政府无法运转，德性的最后残余消失，民主制被专制取代。
+  - id: 23
+    kind: body
+    source: |-
+      In an aristocracy, one part of the people governs the rest. The principle of an aristocratic government is moderation, the virtue which leads those who govern in an aristocracy to restrain themselves both from oppressing the people and from trying to acquire excessive power over one another. In an aristocracy, the laws should be designed to instill and protect this spirit of moderation. To do so, they must do three things. First, the laws must prevent the nobility from abusing the people. The power of the nobility makes such abuse a standing temptation in an aristocracy; to avoid it, the laws should deny the nobility some powers, like the power to tax, which would make this temptation all but irresistible, and should try to foster responsible and moderate administration. Second, the laws should disguise as much as possible the difference between the nobility and the people, so that the people feel their lack of power as little as possible. Thus the nobility should have modest and simple manners, since if they do not attempt to distinguish themselves from the people "the people are apt to forget their subjection and weakness" (SL 5.8). Finally, the laws should try to ensure equality among the nobles themselves, and among noble families. When they fail to do so, the nobility will lose its spirit of moderation, and the government will be corrupted.
+    step1: |-
+      在贵族制下，人民的一部分统治其余部分。贵族制政府的原则是节制，这种德性使贵族制中的统治者既克制自己不去压迫人民，也克制自己不去谋求凌驾于彼此之上的过度权力。在贵族制中，法律的设计应当用来灌输并保护这种节制精神。为此，法律必须做三件事。第一，法律必须防止贵族滥用人民。贵族的权力使这种滥用在贵族制中成为长期的诱惑；为避免这一点，法律应当剥夺贵族的某些权力，例如征税权，因为有了这种权力，诱惑几乎无法抗拒；法律还应当设法促成负责而温和的行政。第二，法律应当尽可能掩盖贵族与人民之间的差别，使人民尽量少感到自己无权。因此，贵族应当举止谦逊、生活简朴，因为他们若不试图与人民区别开来，“人民就容易忘记自己的从属地位和软弱”（SL 5.8）。最后，法律应当设法确保贵族之间、贵族家族之间的平等。法律若做不到这一点，贵族就会失去节制精神，政府就会腐化。
+    step2: |-
+      在贵族制下，人民中的一部分统治其余部分。贵族制政府的原则是节制：这种德性使贵族制中的统治者既克制自己不去压迫人民，也克制自己不去谋求凌驾于彼此之上的过度权力。在贵族制中，法律应当用来灌输并保护这种节制精神。为此，法律必须做三件事。第一，防止贵族滥用人民。贵族的权力使这种滥用在贵族制中成为长期的诱惑；要避开它，法律就应剥夺贵族的某些权力，例如征税权——有了这种权力，诱惑几乎无法抗拒；法律还应设法促成负责而温和的行政。第二，尽可能掩盖贵族与人民之间的差别，让人民尽量少感到自己无权。因此，贵族应当举止谦逊、生活简朴；他们若不试图与人民区别开来，“人民就容易忘记自己的从属地位和软弱”（SL 5.8）。最后，法律应当设法确保贵族之间、贵族家族之间的平等。做不到这一点，贵族就会失去节制精神，政府就会腐化。
+  - id: 24
+    kind: body
+    source: |-
+      In a monarchy, one person governs "by fixed and established laws" (SL 2.1). According to Montesquieu, these laws "necessarily suppose the intermediate channels through which (the monarch's) power flows: for if there be only the momentary and capricious will of a single person to govern the state, nothing can be fixed, and, of course, there is no fundamental law" (SL 2.4). These 'intermediate channels' are such subordinate institutions as the nobility and an independent judiciary; and the laws of a monarchy should therefore be designed to preserve their power. The principle of monarchical government is honor. Unlike the virtue required by republican governments, the desire to win honor and distinction comes naturally to us. For this reason education has a less difficult task in a monarchy than in a republic: it need only heighten our ambitions and our sense of our own worth, provide us with an ideal of honor worth aspiring to, and cultivate in us the politeness needed to live with others whose sense of their worth matches our own. The chief task of the laws in a monarchy is to protect the subordinate institutions that distinguish monarchy from despotism. To this end, they should make it easy to preserve large estates undivided, protect the rights and privileges of the nobility, and promote the rule of law. They should also encourage the proliferation of distinctions and of rewards for honorable conduct, including luxuries.
+    step1: |-
+      在君主制下，一个人“依固定的、确立的法律”统治（SL 2.1）。孟德斯鸠说，这些法律“必然预设（君主的）权力借以流通的中间渠道：因为如果治理国家只凭一个人一时的任性意志，那就没有什么能固定下来，当然也就没有根本法”（SL 2.4）。这些“中间渠道”就是贵族和独立司法机关之类的下属机构；因此，君主制的法律应当旨在保全它们的权力。君主制政府的原则是荣誉。与共和政体所需的德性不同，追求荣誉与卓越的欲望对我们来说自然而然。因此，君主制下的教育任务比共和制轻松：它只需激发我们的抱负与自我价值感，为我们提供一个值得追求的荣誉理想，并培养我们与那些自我评价与我们相当的人相处所需的礼貌。君主制下法律的首要任务，是保护那些使君主制区别于专制的下属机构。为此，法律应当便于维持大地产的完整，保护贵族的权利与特权，促进法治。法律还应当鼓励各种区别和针对荣誉行为的奖赏不断增多，包括奢侈品。
+    step2: |-
+      在君主制下，一个人“依固定的、确立的法律”统治（SL 2.1）。孟德斯鸠说，这些法律“必然预设（君主的）权力借以流通的中间渠道：因为如果治理国家只凭一个人一时的任性意志，那就没有什么能固定下来，当然也就没有根本法”（SL 2.4）。所谓“中间渠道”，就是贵族、独立司法机关之类的下属机构；因此，君主制的法律应当以保全它们的权力为宗旨。君主制政府的原则是荣誉。与共和政体所需的德性不同，追求荣誉与卓越的欲望对我们来说自然而然。所以，君主制下的教育任务比共和制轻松：只需激发我们的抱负与自我价值感，给我们一个值得追求的荣誉理想。它还要培养我们与那些自我评价同我们相当的人相处所需的礼貌。君主制下法律的首要任务，是保护那些使君主制区别于专制的下属机构。为此，法律应当便于维持大地产的完整，保护贵族的权利与特权，促进法治；还应鼓励各种区别与荣誉奖赏不断增多，包括奢侈品。
+  - id: 25
+    kind: body
+    source: |-
+      A monarchy is corrupted when the monarch either destroys the subordinate institutions that constrain his will, or decides to rule arbitrarily, without regard to the basic laws of his country, or debases the honors at which his citizens might aim, so that "men are capable of being loaded at the very same time with infamy and with dignities" (SL 8.7). The first two forms of corruption destroy the checks on the sovereign's will that separate monarchy from despotism; the third severs the connection between honorable conduct and its proper rewards. In a functioning monarchy, personal ambition and a sense of honor work together. This is monarchy's great strength and the source of its extraordinary stability: whether its citizens act from genuine virtue, a sense of their own worth, a desire to serve their king, or personal ambition, they will be led to act in ways that serve their country. A monarch who rules arbitrarily, or who rewards servility and ignoble conduct instead of genuine honor, severs this connection and corrupts his government.
+    step1: |-
+      君主制在下列情况下腐化：君主摧毁约束其意志的下属机构；或者不顾本国根本法，决意任意统治；或者贬低公民可能追求的荣誉，以致“人们竟能同时身披耻辱与尊荣”（SL 8.7）。前两种腐化摧毁了区分君主制与专制的、对主权者意志的制约；第三种则切断了荣誉行为与其应有奖赏之间的联系。在运转良好的君主制中，个人抱负与荣誉感协同作用。这是君主制的巨大力量，也是它格外稳定的根源：无论公民是出于真正的德性、自我价值感、效忠国王的愿望，还是个人抱负而行动，他们都会被引导去做有利于国家的事。君主若任意统治，或者奖赏奴颜婢膝与卑劣行为而非真正的荣誉，就切断了这一联系，使自己的政府腐化。
+    step2: |-
+      君主制会在下列情况下腐化：君主摧毁约束其意志的下属机构；或者不顾本国根本法，决意任意统治；或者贬低公民可能追求的荣誉，以致“人们竟能同时身披耻辱与尊荣”（SL 8.7）。前两种腐化摧毁了对主权者意志的制约，而正是这种制约把君主制与专制区分开来；第三种则切断了荣誉行为与应有奖赏之间的联系。在运转良好的君主制中，个人抱负与荣誉感协同作用。这是君主制的巨大力量所在，也是它格外稳定的根源。无论公民出于真正的德性、自重、忠君的愿望还是个人抱负，都会被引导去做有利于国家的事。君主若任意统治，或者奖赏奴颜婢膝与卑劣行为而非真正的荣誉，就切断了这一联系，使政府腐化。
+  - id: 26
+    kind: body
+    source: |-
+      In despotic states "a single person directs everything by his own will and caprice" (SL 2.1). Without laws to check him, and with no need to attend to anyone who does not agree with him, a despot can do whatever he likes, however ill-advised or reprehensible. His subjects are no better than slaves, and he can dispose of them as he sees fit. The principle of despotism is fear. This fear is easily maintained, since the situation of a despot's subjects is genuinely terrifying. Education is unnecessary in a despotism; if it exists at all, it should be designed to debase the mind and break the spirit. Such ideas as honor and virtue should not occur to a despot's subjects, since "persons capable of setting a value on themselves would be likely to create disturbances. Fear must therefore depress their spirits, and extinguish even the least sense of ambition" (SL 3.9). Their "portion here, like that of beasts, is instinct, compliance, and punishment" (SL 3.10), and any higher aspirations should be brutally discouraged.
+    step1: |-
+      在专制国家里，“一个人凭自己的意志和任性支配一切”（SL 2.1）。没有法律约束他，也不必理会任何不同意他的人，专制君主可以为所欲为，无论多么不明智、多么可憎。他的臣民无异于奴隶，他可以随意处置。专制的原则是恐惧。这种恐惧容易维持，因为专制君主臣民的处境确实可怕。专制政体不需要教育；即使有教育，也应当用来贬低心智、摧折精神。荣誉、德性之类的观念不应当出现在专制君主的臣民心中，因为“能够看重自己的人，很可能制造动乱。因此，恐惧必须压垮他们的精神，连最微弱的抱负感也要扑灭”（SL 3.9）。他们“在这里的份额，如同牲畜的份额，就是本能、顺从和惩罚”（SL 3.10）；任何更高的志向都应残酷地加以压制。
+    step2: |-
+      在专制国家，“一个人凭自己的意志和任性支配一切”（SL 2.1）。没有法律约束他，也不必理会任何不同意他的人，专制君主可以为所欲为，无论多么不明智、多么可憎。臣民无异于奴隶，他可以随意处置。专制的原则是恐惧。这种恐惧容易维持，因为专制君主臣民的处境确实可怕。专制政体不需要教育；即使有，也应当用来贬低心智、摧折精神。荣誉、德性之类的观念不应出现在专制君主的臣民心中，因为“能够看重自己的人，很可能制造动乱。因此，恐惧必须压垮他们的精神，连最微弱的抱负感也要扑灭”（SL 3.9）。他们“在这里的份额，如同牲畜的份额，就是本能、顺从和惩罚”（SL 3.10）；任何更高的志向都应残酷压制。
+  - id: 27
+    kind: body
+    source: |-
+      Montesquieu writes that "the principle of despotic government is subject to a continual corruption, because it is even in its nature corrupt" (SL 8.10). This is true in several senses. First, despotic governments undermine themselves. Because property is not secure in a despotic state, commerce will not flourish, and the state will be poor. The people must be kept in a state of fear by the threat of punishment; however, over time the punishments needed to keep them in line will tend to become more and more severe, until further threats lose their force. Most importantly, however, the despot's character is likely to prevent him from ruling effectively. Since a despot's every whim is granted, he "has no occasion to deliberate, to doubt, to reason; he has only to will" (SL 4.3). For this reason he is never forced to develop anything like intelligence, character, or resolution. Instead, he is "naturally lazy, voluptuous, and ignorant" (SL 2.5), and has no interest in actually governing his people. He will therefore choose a vizier to govern for him, and retire to his seraglio to pursue pleasure. In his absence, however, intrigues against him will multiply, especially since his rule is necessarily odious to his subjects, and since they have so little to lose if their plots against him fail. He cannot rely on his army to protect him, since the more power they have, the greater the likelihood that his generals will themselves try to seize power. For this reason the ruler in a despotic state has no more security than his people.
+    step1: |-
+      孟德斯鸠写道：“专制政府的原则不断受到腐化，因为它在本质上就是腐化的”（SL 8.10）。这话在好几层意义上都成立。第一，专制政府会自我削弱。专制国家里财产没有保障，商业便无法繁荣，国家就会贫困。人民必须靠惩罚的威胁被维持在恐惧状态；然而随着时间推移，为使人民就范所需的惩罚会越来越严厉，直到进一步的威胁失去效力。不过最重要的是，专制君主的性格很可能使他无法有效统治。由于专制君主的每个念头都会得到满足，他“无须斟酌、怀疑、推理；他只需发号施令”（SL 4.3）。因此，他从来不必发展出任何类似才智、性格或决断力的东西。相反，他“天生懒惰、贪图享乐、愚昧无知”（SL 2.5），对真正治理人民毫无兴趣。于是他会选一个维齐尔（vizier）替他治理，自己退入后宫寻欢作乐。然而他不在时，针对他的阴谋会成倍增加，尤其因为他的统治必然令臣民憎恶，而臣民若谋反失败也几乎没有什么可失去。他不能依靠军队保护自己，因为军队权力越大，将领们自己夺取政权的可能性就越大。因此，专制国家的统治者并不比他的臣民更安全。
+    step2: |-
+      孟德斯鸠写道：“专制政府的原则不断受到腐化，因为它在本质上就是腐化的”（SL 8.10）。这话在好几层意义上都成立。第一，专制政府会自我削弱。专制国家财产没有保障，商业便无法繁荣，国家只能贫困。人民必须靠惩罚的威胁维持在恐惧之中；可随着时间推移，为让人民就范所需的惩罚会越来越严厉，直到进一步的威胁失去效力。不过最要紧的是，专制君主的性格很可能使他无法有效统治。由于每个念头都会得到满足，他“无须斟酌、怀疑、推理；他只需发号施令”（SL 4.3）。因此，他从来不必发展出任何类似才智、性格或决断力的东西。相反，他“天生懒惰、贪图享乐、愚昧无知”（SL 2.5），对真正治理人民毫无兴趣。于是他选一个维齐尔（vizier）替他治理，自己退入后宫寻欢作乐。可他不在时，针对他的阴谋会成倍增加，尤其因为他的统治必然令臣民憎恶，而臣民谋反失败也几乎没有什么可失去。他不能靠军队保护自己：军队权力越大，将领自己夺取政权的可能就越大。因此，专制国家的统治者并不比臣民更安全。
+  - id: 28
+    kind: body
+    source: |-
+      Second, monarchical and republican governments involve specific governmental structures, and require that their citizens have specific sorts of motivation. When these structures crumble, or these motivations fail, monarchical and republican governments are corrupted, and the result of their corruption is that they fall into despotism. But when a particular despotic government falls, it is not generally replaced by a monarchy or a republic. The creation of a stable monarchy or republic is extremely difficult: "a masterpiece of legislation, rarely produced by hazard, and seldom attained by prudence" (SL 5.14). It is particularly difficult when those who would have both to frame the laws of such a government and to live by them have previously been brutalized and degraded by despotism. Producing a despotic government, by contrast, is relatively straightforward. A despotism requires no powers to be carefully balanced against one another, no institutions to be created and maintained in existence, no complicated motivations to be fostered, and no restraints on power to be kept in place. One need only terrify one's fellow citizens enough to allow one to impose one's will on them; and this, Montesquieu claims, "is what every capacity may reach" (SL 5.14). For these reasons despotism necessarily stands in a different relation to corruption than other forms of government: while they are liable to corruption, despotism is its embodiment.
+    step1: |-
+      第二，君主制和共和制政府各有特定的政府结构，并要求公民具有特定类型的动机。这些结构一旦瓦解，或这些动机一旦失灵，君主制和共和制政府就会腐化，而腐化的结果就是落入专制。但某个专制政府垮台时，通常并不会由君主制或共和制取而代之。建立一个稳定的君主制或共和制极其困难：“这是立法上的杰作，极少出于偶然，也难得凭审慎达到”（SL 5.14）。如果那些既要为这样的政府制定法律、又要依之生活的人，先前已被专制摧残、贬损，那就尤其困难。相比之下，制造一个专制政府要简单得多。专制不需要精心平衡各种权力，不需要创设并维持任何制度，不需要培养复杂的动机，也不需要让任何对权力的约束持续存在。只需把同胞吓住，足以把自己的意志强加于他们；孟德斯鸠断言，“这是任何能力都办得到的”（SL 5.14）。因此，专制与其他政体在腐化问题上必然处于不同的关系：其他政体可能腐化，专制本身就是腐化的化身。
+    step2: |-
+      第二，君主制和共和制政府各有特定的结构，并要求公民具有特定类型的动机。结构一旦瓦解，或动机一旦失灵，这两类政府就会腐化，腐化的结果便是落入专制。但某个专制政府垮台时，通常不会由君主制或共和制取而代之。建立一个稳定的君主制或共和制极其困难：“这是立法上的杰作，极少出于偶然，也难得凭审慎达到”（SL 5.14）。如果那些既要为这样的政府制定法律、又要依之生活的人，先前已被专制摧残、贬损，那就尤其困难。相比之下，制造一个专制政府要简单得多。它不需要精心平衡各种权力，不需要创设并维持任何制度，不需要培养复杂的动机，也不需要让任何对权力的约束持续存在。只需把同胞吓住，足以把自己的意志强加于他们；孟德斯鸠断言，“这是任何能力都办得到的”（SL 5.14）。因此，专制与其他政体在腐化问题上必然处于不同的关系：其他政体可能腐化，专制本身就是腐化的化身。
+  - id: 29
+    kind: body
+    source: |-
+      ### 4.2 Liberty
+    step1: |-
+      ### 4.2 自由
+    step2: |-
+      ### 4.2 自由
+  - id: 30
+    kind: body
+    source: |-
+      Montesquieu is among the greatest philosophers of liberalism, but his is what Shklar has called "a liberalism of fear" (Shklar, *Montesquieu*, p. 89). According to Montesquieu, political liberty is "a tranquillity of mind arising from the opinion each person has of his safety" (SL 11.6). Liberty is not the freedom to do whatever we want: if we have the freedom to harm others, for instance, others will also have the freedom to harm us, and we will have no confidence in our own safety. Liberty involves living under laws that protect us from harm while leaving us free to do as much as possible, and that enable us to feel the greatest possible confidence that if we obey those laws, the power of the state will not be directed against us.
+    step1: |-
+      孟德斯鸠属于最伟大的自由主义哲学家之列，但他的自由主义是 Shklar 所称的“恐惧的自由主义”（Shklar, *Montesquieu*, p. 89）。按照孟德斯鸠的说法，政治自由是“一种心境安宁，源于每个人对自己安全的看法”（SL 11.6）。自由并不是想做什么就做什么：例如，如果我们有伤害他人的自由，他人也就有伤害我们的自由，我们便无法对自己的安全抱有信心。自由意味着生活在这样的法律之下：这些法律保护我们免受伤害，同时尽可能让我们放手做事，并使我们能够最有信心地感到，只要遵守这些法律，国家权力就不会针对我们。
+    step2: |-
+      孟德斯鸠属于最伟大的自由主义哲学家之列，但他的自由主义是 Shklar 所称的“恐惧的自由主义”（Shklar, *Montesquieu*, p. 89）。在孟德斯鸠看来，政治自由是“一种心境安宁，源于每个人对自己安全的看法”（SL 11.6）。自由并不是为所欲为：比方说，若我们可自由伤害他人，他人也可自由伤害我们，我们便对自己的安全毫无信心。自由意味着生活在这样的法律之下：法律保护我们免受伤害，同时尽可能让我们放手做事，并使我们能有最大的信心感到，只要遵守这些法律，国家权力就不会针对我们。
+  - id: 31
+    kind: body
+    source: |-
+      If it is to provide its citizens with the greatest possible liberty, a government must have certain features. First, since "constant experience shows us that every man invested with power is apt to abuse it ... it is necessary from the very nature of things that power should be a check to power" (SL 11.4). This is achieved through the separation of the executive, legislative, and judicial powers of government. If different persons or bodies exercise these powers, then each can check the others if they try to abuse their powers. But if one person or body holds several or all of these powers, then nothing prevents that person or body from acting tyrannically; and the people will have no confidence in their own security.
+    step1: |-
+      政府若要为公民提供尽可能大的自由，就必须具备某些特征。第一，“经验一再表明，凡握有权力的人都容易滥用权力……因此，从事物的本性来说，权力必须以权力来制约”（SL 11.4）。这要通过政府行政权、立法权和司法权的分立来实现。如果这些权力由不同的人或机构行使，那么任何一方企图滥用权力时，其他各方都能加以制约。但如果一个人或一个机构握有其中数种或全部权力，那就没有什么能阻止此人或此机构施行暴政；人民也就无法对自己的安全抱有信心。
+    step2: |-
+      政府若要为公民提供尽可能大的自由，就必须具备某些特征。第一，“经验一再表明，凡握有权力的人都容易滥用权力……因此，从事物的本性来说，权力必须以权力来制约”（SL 11.4）。这要靠行政权、立法权与司法权的分立来实现。这些权力若由不同的人或机构行使，任何一方企图滥用时，其他各方都能制约它。可如果一个人或一个机构握有其中数种乃至全部权力，那就没有什么能阻止它施行暴政；人民也无法对自己的安全抱有信心。
+  - id: 32
+    kind: body
+    source: |-
+      Certain arrangements make it easier for the three powers to check one another. Montesquieu argues that the legislative power alone should have the power to tax, since it can then deprive the executive of funding if the latter attempts to impose its will arbitrarily. Likewise, the executive power should have the right to veto acts of the legislature, and the legislature should be composed of two houses, each of which can prevent acts of the other from becoming law. The judiciary should be independent of both the legislature and the executive, and should restrict itself to applying the laws to particular cases in a fixed and consistent manner, so that "the judicial power, so terrible to mankind, … becomes, as it were, invisible", and people "fear the office, but not the magistrate" (SL 11.6).
+    step1: |-
+      某些安排使三权更容易相互制约。孟德斯鸠主张，只有立法权应当拥有征税权，因为这样一来，行政权若企图任意强加其意志，立法权就可以断绝其经费。同样，行政权应当有权否决立法机关的法案，立法机关应当由两院组成，任何一院都能阻止另一院的法案成为法律。司法机关应当独立于立法机关和行政机关，并且只限于以固定、一致的方式把法律适用于具体案件，从而使“司法权虽令人类畏惧，……却仿佛变得看不见了”，人们“畏惧的是职位，而不是法官”（SL 11.6）。
+    step2: |-
+      某些安排使三权更容易相互制约。孟德斯鸠主张，征税权应只归立法机关，这样行政权若想任意强加意志，立法机关就能断绝其经费。同样，行政权应有权否决立法机关的法案；立法机关应由两院组成，任何一院都能阻止另一院的法案成为法律。司法机关应独立于立法机关和行政机关，只以固定、一致的方式把法律适用于具体案件。于是“司法权虽令人类畏惧，……却仿佛变得看不见了”，人们“畏惧的是职位，而不是法官”（SL 11.6）。
+  - id: 33
+    kind: body
+    source: |-
+      Liberty also requires that the laws concern only threats to public order and security, since such laws will protect us from harm while leaving us free to do as many other things as possible. Thus, for instance, the laws should not concern offenses against God, since He does not require their protection. They should not prohibit what they do not need to prohibit: "all punishment which is not derived from necessity is tyrannical. The law is not a mere act of power; things in their own nature indifferent are not within its province" (SL 19.14). The laws should be constructed to make it as easy as possible for citizens to protect themselves from punishment by not committing crimes. They should not be vague, since if they were, we might never be sure whether or not some particular action was a crime. Nor should they prohibit things we might do inadvertently, like bumping into a statue of the emperor, or involuntarily, like doubting the wisdom of one of his decrees; if such actions were crimes, no amount of effort to abide by the laws of our country would justify confidence that we would succeed, and therefore we could never feel safe from criminal prosecution. Finally, the laws should make it as easy as possible for an innocent person to prove his or her innocence. They should concern outward conduct, not (for instance) our thoughts and dreams, since while we can try to prove that we did not perform some action, we cannot prove that we never had some thought. The laws should not criminalize conduct that is inherently hard to prove, like witchcraft; and lawmakers should be cautious when dealing with crimes like sodomy, which are typically not carried out in the presence of several witnesses, lest they "open a very wide door to calumny" (SL 12.6).
+    step1: |-
+      自由还要求法律只涉及对公共秩序与安全的威胁，因为这样的法律既能保护我们免受伤害，又能让我们尽可能自由地做其他许多事。因此，例如，法律不应涉及亵渎上帝，因为上帝不需要法律的保护。法律不应禁止不必禁止之事：“一切并非源于必要的惩罚都是暴政。法律不只是权力的行为；本身无关紧要的事物不属于法律的管辖范围”（SL 19.14）。法律的构造应当尽量便于公民通过不犯罪而免于惩罚。法律不应含糊，因为若含糊，我们就永远无法确定某一行为是否犯罪。法律也不应禁止我们无意中做出的事，比如撞到皇帝的雕像；或不由自主做出的事，比如怀疑他某项敕令是否明智；如果这类行为算犯罪，那么无论我们多么努力遵守本国法律，都不能确信自己会成功，因而永远无法免于刑事追究。最后，法律应当尽量便于无辜者证明自己的清白。法律应当针对外在行为，而不是（例如）我们的思想和梦，因为我们虽能设法证明自己没有做过某件事，却无法证明自己从未有过某个念头。法律不应把本质上难以证明的行为定为犯罪，比如巫术；立法者在处理鸡奸之类通常不会在多名证人面前实施的罪行时也应当谨慎，以免“为诽谤大开方便之门”（SL 12.6）。
+    step2: |-
+      自由还要求法律只涉及对公共秩序与安全的威胁，因为这样的法律既能保护我们免受伤害，又能让我们尽可能自由地做其他许多事。因此，法律不应涉及冒犯上帝之举，因为上帝不需要法律的保护。法律不应禁止不必禁止之事：“一切并非源于必要的惩罚都是暴政。法律不只是权力的行为；本身无关紧要的事物不属于它的管辖范围”（SL 19.14）。法律的构造应尽量便于公民靠不犯罪而免于惩罚。法律不应含糊，否则我们永远无法确定某一行为是否犯罪。法律也不应禁止我们无意中做出的事，比如撞到皇帝的雕像；或不由自主做出的事，比如怀疑他某项敕令是否明智。这类行为若算犯罪，那么无论我们多么努力遵守本国法律，都不能确信自己会成功，因而永远无法免于刑事追究。最后，法律应尽量便于无辜者证明自己的清白。法律应针对外在行为，而不是（例如）我们的思想和梦：我们能设法证明自己没有做过某件事，却无法证明自己从未有过某个念头。法律不应把本质上难以证明的行为定为犯罪，比如巫术；立法者处理鸡奸之类通常不会在多名证人面前实施的罪行时也应当谨慎，以免“为诽谤大开方便之门”（SL 12.6）。
+  - id: 34
+    kind: body
+    source: |-
+      Montesquieu's emphasis on the connection between liberty and the details of the criminal law were unusual among his contemporaries, and inspired such later legal reformers as Cesare Beccaria.
+    step1: |-
+      孟德斯鸠强调自由与刑法细节之间的联系，这在同时代人中间并不常见，并启发了切萨雷·贝卡里亚（Cesare Beccaria）等后来的法律改革家。
+    step2: |-
+      孟德斯鸠强调自由与刑法细节之间的联系，这在同时代人中并不多见，并启发了切萨雷·贝卡里亚等后来的法律改革家。
+  - id: 35
+    kind: body
+    source: |-
+      ### 4.3 Climate and Geography
+    step1: |-
+      ### 4.3 气候与地理
+    step2: |-
+      ### 4.3 气候与地理
+  - id: 36
+    kind: body
+    source: |-
+      Montequieu believes that climate and geography affect the temperaments and customs of a country's inhabitants. He is not a determinist, and does not believe that these influences are irresistible. Nonetheless, he believes that the laws should take these effects into account, accommodating them when necessary, and counteracting their worst effects.
+    step1: |-
+      孟德斯鸠认为，气候和地理影响一国居民的性情与风俗。他不是决定论者，也不认为这些影响不可抗拒。尽管如此，他认为法律应当把这些影响考虑在内，必要时顺应它们，并抵消其最坏的后果。
+    step2: |-
+      孟德斯鸠认为，气候和地理影响一国居民的性情与风俗。他不是决定论者，也不认为这些影响不可抗拒。尽管如此，他认为法律应当把这些影响考虑在内：必要时顺应它们，并抵消其最坏的后果。
+  - id: 37
+    kind: body
+    source: |-
+      According to Montesquieu, a cold climate constricts our bodies' fibers, and causes coarser juices to flow through them. Heat, by contrast, expands our fibers, and produces more rarefied juices. These physiological changes affect our characters. Those who live in cold climates are vigorous and bold, phlegmatic, frank, and not given to suspicion or cunning. They are relatively insensitive to pleasure and pain; Montesquieu writes that "you must flay a Muscovite alive to make him feel" (SL 14.2). Those who live in warm climates have stronger but less durable sensations. They are more fearful, more amorous, and more susceptible both to the temptations of pleasure and to real or imagined pain; but they are less resolute, and less capable of sustained or decisive action. The manners of those who live in temperate climates are "inconstant", since "the climate has not a quality determinate enough to fix them" (SL 14.2). These differences are not hereditary: if one moves from one sort of climate to another, one's temperament will alter accordingly.
+    step1: |-
+      按照孟德斯鸠的说法，寒冷气候使人体纤维收缩，并使较粗的体液在其中流动。相反，炎热使纤维扩张，产生更稀薄的体液。这些生理变化影响我们的性格。生活在寒冷气候中的人精力充沛、胆大，性情沉静、直率，不易猜疑或狡诈。他们对快乐和痛苦相对迟钝；孟德斯鸠写道：“你得把一个莫斯科人活活剥皮，他才感觉得到”（SL 14.2）。生活在温暖气候中的人感觉更强烈，但不够持久。他们更胆怯、更易动情，既更容易受快乐的诱惑，也更容易感受真实或想象出来的痛苦；但他们不那么果断，也不太能坚持行动或做出决断。生活在温带气候中的人，风尚“反复无常”，因为“气候没有足够确定的性质把它们固定下来”（SL 14.2）。这些差异并非遗传：一个人从一种气候迁到另一种气候，性情也会随之改变。
+    step2: |-
+      按照孟德斯鸠的说法，寒冷气候使人体纤维收缩，较粗的体液随之在其中流动。炎热则使纤维扩张，产生更稀薄的体液。这些生理变化影响我们的性格。生活在寒冷气候中的人精力充沛、胆大，性情沉静、直率，不易猜疑或狡诈。他们对快乐和痛苦相对迟钝；孟德斯鸠写道：“你得把一个莫斯科人活活剥皮，他才感觉得到”（SL 14.2）。生活在温暖气候中的人感觉更强烈，却不够持久。他们更胆怯、更易动情，既容易受快乐诱惑，也容易感受真实或想象出来的痛苦；但他们不那么果断，也不太能坚持行动或做出决断。生活在温带气候中的人，风尚“反复无常”，因为“气候没有足够确定的性质把它们固定下来”（SL 14.2）。这些差异并非遗传：人从一种气候迁到另一种气候，性情也会随之改变。
+  - id: 38
+    kind: body
+    source: |-
+      A hot climate can make slavery comprehensible. Montesquieu writes that "the state of slavery is in its own nature bad" (SL 15.1); he is particularly contemptuous of religious and racist justifications for slavery. However, on his view, there are two types of country in which slavery, while not acceptable, is less bad than it might otherwise be. In despotic countries, the situation of slaves is not that different from the situation of the despot's other subjects; for this reason, slavery in a despotic country is "more tolerable" (SL 15.1) than in other countries. In unusually hot countries, it might be that "the excess of heat enervates the body, and renders men so slothful and dispirited that nothing but the fear of chastisement can oblige them to perform any laborious duty: slavery is there more reconcilable to reason" (SL 15.7). However, Montesquieu writes that when work can be done by freemen motivated by the hope of gain rather than by slaves motivated by fear, the former will always work better; and that in such climates slavery is not only wrong but imprudent. He hopes that "there is not that climate upon earth where the most laborious services might not with proper encouragement be performed by freemen" (SL 15.8); if there is no such climate, then slavery could never be justified on these grounds.
+    step1: |-
+      炎热气候可能使奴隶制显得可以理解。孟德斯鸠写道：“奴隶制本身在性质上就是坏的”（SL 15.1）；他尤其鄙视用宗教和种族主义为奴隶制辩护。然而在他看来，有两种国家，奴隶制虽然不可接受，却不像在其他地方那么坏。在专制国家，奴隶的处境与专制君主的其他臣民相差无几；因此，专制国家的奴隶制比其他国家“更可容忍”（SL 15.1）。在异常炎热的国家，也许会出现这种情况：“酷热使身体虚弱，使人如此懒散、沮丧，以致只有对惩罚的恐惧才能迫使他们承担任何艰苦的工作：在那里，奴隶制更合乎理性”（SL 15.7）。不过，孟德斯鸠写道，如果工作可以由出于获利希望的自由人来干，而不是由出于恐惧的奴隶来干，自由人总是干得更好；在这样的气候下，奴隶制不仅错误，而且不明智。他希望“地球上没有哪个气候，是只要给予适当鼓励、最艰苦的劳动也不能由自由人完成的”（SL 15.8）；如果不存在这样的气候，那就永远不能以这些理由为奴隶制辩护。
+    step2: |-
+      炎热气候可能使奴隶制显得可以理解。孟德斯鸠写道：“奴隶制本身在性质上就是坏的”（SL 15.1）；他尤其鄙视用宗教和种族主义为奴隶制辩护。不过在他看来，有两种国家，奴隶制虽不可接受，却不像在别处那么坏。在专制国家，奴隶的处境与专制君主的其他臣民相差无几；因此，专制国家的奴隶制比其他国家“更可容忍”（SL 15.1）。在异常炎热的国家，也许会出现这种情况：“酷热使身体虚弱，使人如此懒散、沮丧，以致只有对惩罚的恐惧才能迫使他们承担任何艰苦的工作：在那里，奴隶制更合乎理性”（SL 15.7）。不过，孟德斯鸠写道，工作若可以由指望获利的自由人来干，而不是由出于恐惧的奴隶来干，自由人总是干得更好；在这样的气候下，奴隶制不仅错误，而且不明智。他希望“地球上没有哪个气候，是只要给予适当鼓励、最艰苦的劳动就不能由自由人完成的”（SL 15.8）；如果不存在这样的气候，那就永远不能以这些理由为奴隶制辩护。
+  - id: 39
+    kind: body
+    source: |-
+      The quality of a country's soil also affects the form of its government. Monarchies are more common where the soil is fertile, and republics where it is barren. This is so for three reasons. First, those who live in fruitful countries are more apt to be content with their situation, and to value in a government not the liberty it bestows but its ability to provide them with enough security that they can get on with their farming. They are therefore more willing to accept a monarchy if it can provide such security. Often it can, since monarchies can respond to threats more quickly than republics. Second, fertile countries are both more desirable than barren countries and easier to conquer: they "are always of a level surface, where the inhabitants are unable to dispute against a stronger power; they are then obliged to submit; and when they have once submitted, the spirit of liberty cannot return; the wealth of the country is a pledge of their fidelity" (SL 18.2). Montesquieu believes that monarchies are much more likely than republics to wage wars of conquest, and therefore that a conquering power is likely to be a monarchy. Third, those who live where the soil is barren have to work hard in order to survive; this tends to make them "industrious, sober, inured to hardship, courageous, and fit for war" (SL 18.4). Those who inhabit fertile country, by contrast, favor "ease, effeminacy, and a certain fondness for the preservation of life" (SL 18.4). For this reason, the inhabitants of barren countries are better able to defend themselves from such attacks as might occur, and to defend their liberty against those who would destroy it.
+    step1: |-
+      一国土壤的性质也影响其政体形式。土壤肥沃之处，君主制更常见；土壤贫瘠之处，共和制更常见。原因有三。第一，生活在富饶国家的人更容易安于现状，他们在政府身上看重的不是政府给予的自由，而是政府能否提供足够的安全，让他们安心耕作。因此，只要君主制能提供这种安全，他们就比较愿意接受。君主制往往做得到，因为它比共和制更能迅速应对威胁。第二，肥沃国家既比贫瘠国家更令人觊觎，也更容易征服：它们“总是平坦开阔，居民无力对抗更强的权力；于是他们只能屈服；一旦屈服，自由精神便再也无法回归；国家的财富就是他们效忠的抵押”（SL 18.2）。孟德斯鸠认为，君主制比共和制更可能发动征服战争，因此征服者往往是君主制国家。第三，生活在贫瘠土地上的人必须辛勤劳作才能生存；这往往使他们“勤劳、节制、惯于艰苦、勇敢、适于作战”（SL 18.4）。相反，生活在肥沃国家的人偏爱“安逸、柔弱，以及对保全生命的某种迷恋”（SL 18.4）。因此，贫瘠国家的居民更能抵御可能来犯的攻击，也更能保卫自己的自由，不让想摧毁它的人得逞。
+    step2: |-
+      一国土壤的性质也影响政体形式。土壤肥沃之处，君主制更常见；土壤贫瘠之处，共和制更常见。原因有三。第一，生活在富饶国家的人更容易安于现状；他们在政府身上看重的不是它给予的自由，而是它能否提供足够的安全，让他们安心耕作。因此，只要君主制能提供这种安全，他们就比较愿意接受；君主制往往做得到，因为它比共和制更能迅速应对威胁。第二，肥沃国家既比贫瘠国家更令人觊觎，也更容易征服：它们“总是平坦开阔，居民无力对抗更强的权力；于是只能屈服；一旦屈服，自由精神便再也无法回归；国家的财富就是他们效忠的抵押”（SL 18.2）。孟德斯鸠认为，君主制比共和制更可能发动征服战争，因此征服者往往是君主制国家。第三，生活在贫瘠土地上的人必须辛勤劳作才能生存；这往往使他们“勤劳、节制、惯于艰苦、勇敢、适于作战”（SL 18.4）。相反，生活在肥沃国家的人偏爱“安逸、柔弱，以及对保全生命的某种迷恋”（SL 18.4）。因此，贫瘠国家的居民更能抵御入侵，也更有能力保卫自由，不让想摧毁它的人得逞。
+  - id: 40
+    kind: body
+    source: |-
+      These facts give barren countries advantages that compensate for the infertility of their soil. Since they are less likely to be invaded, they are less likely to be sacked and devastated; and they are more likely to be worked well, since "countries are not cultivated in proportion to their fertility, but to their liberty" (SL 18.3). This is why "the best provinces are most frequently depopulated, while the frightful countries of the North continue always inhabited, from their being almost uninhabitable" (SL 18.3).
+    step1: |-
+      这些事实赋予贫瘠国家一些优势，足以补偿土壤的贫瘠。它们较少遭到入侵，因而较少遭到洗劫和蹂躏；它们的土地也更可能得到良好耕作，因为“土地的耕作程度并不与肥沃程度成正比，而与自由程度成正比”（SL 18.3）。正因如此，“最好的省份往往人口凋零，而北方那些可怕的地方却始终有人居住，恰恰因为它们几乎不宜居住”（SL 18.3）。
+    step2: |-
+      这些事实给贫瘠国家带来一些优势，足以补偿土壤的贫瘠。它们较少遭到入侵，因而较少遭到洗劫和蹂躏；土地也更可能得到良好耕作，因为“土地的耕作程度并不与肥沃程度成正比，而与自由程度成正比”（SL 18.3）。正因如此，“最好的省份往往人口凋零，而北方那些可怕的地方却始终有人居住，恰恰因为它们几乎不宜居住”（SL 18.3）。
+  - id: 41
+    kind: body
+    source: |-
+      Montesquieu believes that the climate and geography of Asia explain why despotism flourishes there. Asia, he thinks, has two features that distinguish it from Europe. First, Asia has virtually no temperate zone. While the mountains of Scandinavia shelter Europe from arctic winds, Asia has no such buffer; for this reason its frigid northern zone extends much further south than in Europe, and there is a relatively quick transition from it to the tropical south. For this reason "the warlike, brave, and active people touch immediately upon those who are indolent, effeminate and timorous; the one must, therefore, conquer, and the other be conquered" (SL 17.3). In Europe, by contrast, the climate changes gradually from cold to hot; therefore "strong nations are opposed to the strong; and those who join each other have nearly the same courage" (SL 17.3). Second, Asia has larger plains than Europe. Its mountain ranges lie further apart, and its rivers are not such formidable barriers to invasion. Since Europe is naturally divided into smaller regions, it is more difficult for any one power to conquer them all; this means that Europe will tend to have more and smaller states. Asia, by contrast, tends to have much larger empires, which predisposes it to despotism.
+    step1: |-
+      孟德斯鸠认为，亚洲的气候与地理可以解释专制为何在那里盛行。他认为亚洲有两个特征使它与欧洲不同。第一，亚洲几乎没有温带。斯堪的纳维亚的群山为欧洲挡住北极寒风，亚洲却没有这样的屏障；因此，亚洲寒冷的北部地带向南延伸得比欧洲远得多，从那里到热带南方之间的过渡也相对急促。正因如此，“好战、勇敢、活跃的民族直接接触到懒惰、柔弱、胆怯的民族；于是前者必然征服，后者必然被征服”（SL 17.3）。相反，在欧洲，气候由冷到热逐渐变化；因此“强国与强国对峙；彼此接壤的民族勇气几乎相当”（SL 17.3）。第二，亚洲的平原比欧洲大。亚洲的山脉彼此相距更远，河流也不构成那么难以逾越的入侵屏障。欧洲天然分成较小的区域，任何单一强权都更难把它们全部征服；这意味着欧洲往往国家更多、更小。相反，亚洲往往出现大得多的帝国，这就使它易于走向专制。
+    step2: |-
+      孟德斯鸠认为，亚洲的气候与地理可以解释专制为何在那里盛行。在他看来，亚洲有两个特征使它与欧洲不同。第一，亚洲几乎没有温带。斯堪的纳维亚的群山为欧洲挡住北极寒风，亚洲却没有这样的屏障；因此亚洲寒冷的北部地带向南延伸得比欧洲远得多，向热带南方的过渡也相对急促。正因如此，“好战、勇敢、活跃的民族直接接触到懒惰、柔弱、胆怯的民族；于是前者必然征服，后者必然被征服”（SL 17.3）。欧洲则相反，气候由冷到热逐渐变化；因此“强国与强国对峙；彼此接壤的民族勇气几乎相当”（SL 17.3）。第二，亚洲的平原比欧洲大：山脉彼此相距更远，河流也不构成那么难以逾越的入侵屏障。欧洲天然分成较小的区域，任何单一强权都更难把它们全部征服，因此欧洲往往国家更多、更小。亚洲却往往出现大得多的帝国，这就使它易于走向专制。
+  - id: 42
+    kind: body
+    source: |-
+      ### 4.4 Commerce
+    step1: |-
+      ### 4.4 商业
+    step2: |-
+      ### 4.4 商业
+  - id: 43
+    kind: body
+    source: |-
+      Of all the ways in which a country might seek to enrich itself, Montesquieu believes, commerce is the only one without overwhelming drawbacks. Conquering and plundering one's neighbors can provide temporary infusions of money, but over time the costs of maintaining an occupying army and administering subjugated peoples impose strains that few countries can endure. Extracting precious metals from colonial mines leads to general inflation; thus the costs of extraction increase while the value of the extracted metals decreases. The increased availability of money furthers the development of commerce in other countries; however, in the country which extracts gold and silver, domestic industry is destroyed.
+    step1: |-
+      孟德斯鸠认为，在一国可能用以致富的各种办法中，唯有商业没有压倒性的弊端。征服和掠夺邻国能带来一时的金钱输入，但维持占领军、管理被征服民族的开支会随时间推移造成沉重负担，很少有国家承受得住。从殖民地矿藏中开采贵金属会导致普遍通货膨胀；于是开采成本上升，所采金属的价值却下降。货币供应增加会促进其他国家的商业发展；然而在开采金银的国家，本国工业却遭到摧毁。
+    step2: |-
+      孟德斯鸠认为，一国致富的办法虽多，唯有商业没有压倒性的弊端。征服和掠夺邻国能带来一时的金钱输入，但维持占领军、管理被征服民族的开支会随时间推移造成沉重负担，很少有国家承受得住。从殖民地矿藏开采贵金属会导致普遍通货膨胀：开采成本上升，所采金属的价值却下降。货币供应增加会促进其他国家的商业，但在开采金银的国家，本国工业反遭摧毁。
+  - id: 44
+    kind: body
+    source: |-
+      Commerce, by contrast, has no such disadvantages. It does not require vast armies, or the continued subjugation of other peoples. It does not undermine itself, as the extraction of gold from colonial mines does, and it rewards domestic industry. It therefore sustains itself, and nations which engage in it, over time. While it does not produce all the virtues -- hospitality, Montesquieu thinks, is more often found among the poor than among commercial peoples -- it does produce some: "the spirit of commerce is naturally attended with that of frugality, economy, moderation, labor, prudence, tranquility, order, and rule" (SL 5.6). In addition, it "is a cure for the most destructive prejudices" (SL 20.1), improves manners, and leads to peace among nations.
+    step1: |-
+      相比之下，商业没有这些弊端。它不需要庞大的军队，也不需要持续征服其他民族。它不像从殖民地矿藏开采黄金那样自我瓦解，反而奖赏本国工业。因此，它能自我维系，也能让从事商业的民族随时间推移而维持自身。它虽不能产生一切德性——孟德斯鸠认为，好客在穷人中间比在商业民族中间更常见——却确实产生一些德性：“商业精神自然伴随着节俭、经济、节制、勤劳、审慎、安宁、秩序和规则的精神”（SL 5.6）。此外，商业“是治疗最具破坏性的偏见的良药”（SL 20.1），能改善风尚，并促成各国之间的和平。
+    step2: |-
+      相比之下，商业没有这些弊端。它不需要庞大的军队，也不需要持续征服其他民族；它不像从殖民地矿藏开采黄金那样自我瓦解，反而奖赏本国工业。因此它能自我维系，也让从事商业的民族随时间推移而维持自身。它虽不能产生一切德性，却能产生某些德性。孟德斯鸠认为，好客在穷人中间比在商业民族中间更常见；商业精神则“自然伴随着节俭、节约、节制、勤劳、审慎、安宁、秩序和规则的精神”（SL 5.6）。此外，商业“是治疗最具破坏性的偏见的良药”（SL 20.1），能改善风尚，促成各国之间的和平。
+  - id: 45
+    kind: body
+    source: |-
+      In monarchies, Montesquieu believes, the aim of commerce is, for the most part, to supply luxuries. In republics, it is to bring from one country what is wanted in another, "gaining little" but "gaining incessantly" (SL 20.4). In despotisms, there is very little commerce of any kind, since there is no security of property. In a monarchy, neither kings nor nobles should engage in commerce, since this would risk concentrating too much power in their hands. By the same token, there should be no banks in a monarchy, since a treasure "no sooner becomes great than it becomes the treasure of the prince" (SL 20.10). In republics, by contrast, banks are extremely useful, and anyone should be allowed to engage in trade. Restrictions on which profession a person can follow destroy people's hopes of bettering their situation; they are therefore appropriate only to despotic states.
+    step1: |-
+      孟德斯鸠认为，在君主制国家，商业的目的多半是供应奢侈品。在共和制国家，商业是把一国所需之物从另一国运来，“获利虽少”，却“获利不息”（SL 20.4）。在专制国家，任何形式的商业都极少，因为财产没有保障。在君主制国家，国王和贵族都不应经商，因为那有把过多权力集中到他们手中的危险。同样，君主制国家不应有银行，因为一笔财富“一旦变大，就变成君主的财富”（SL 20.10）。相反，共和制国家的银行极为有用，任何人都应获准经商。限制一个人可以从事何种职业，会摧毁人们改善处境的希望；因此，这种限制只适合专制国家。
+    step2: |-
+      孟德斯鸠认为，君主制国家的商业多半只为供应奢侈品。共和制国家的商业，则是把一国所需之物从另一国运来，“获利虽少”，却“获利不息”（SL 20.4）。专制国家几乎没有商业，因为财产没有保障。君主制下，国王和贵族都不应经商，否则权力有过分集中到他们手中的危险。同样，君主制国家不应设银行，因为一笔财富“一旦变大，就变成君主的财富”（SL 20.10）。相反，共和制国家的银行极为有用，任何人都应获准经商。限制一个人能从事何种职业，会摧毁人们改善处境的希望；这种限制只适合专制国家。
+  - id: 46
+    kind: body
+    source: |-
+      While some mercantilists had argued that commerce is a zero-sum game in which when some gain, others necessarily lose, Montesquieu believes that commerce benefits all countries except those who have nothing but their land and what it produces. In those deeply impoverished countries, commerce with other countries will encourage those who own the land to oppress those who work it, rather than encouraging the development of domestic industries and manufacture. However, all other countries benefit by commerce, and should seek to trade with as many other nations as possible, "for it is competition which sets a just value on merchandise, and establishes the relation between them" (SL 20.9).
+    step1: |-
+      一些重商主义者曾主张，商业是一种零和博弈：有人获利，就必然有人受损。孟德斯鸠则认为，除了一无所有、只有土地及其产物的国家之外，商业使所有国家受益。在那些极端贫困的国家，与他国通商只会促使土地所有者压迫耕种者，而不会促进本国工业和制造业的发展。不过，其他所有国家都能从商业中受益，并且应当设法与尽可能多的国家通商，“因为正是竞争为商品定出公正的价值，并在商品之间建立起比例关系”（SL 20.9）。
+    step2: |-
+      一些重商主义者曾主张，商业是零和博弈：有人获利，就必然有人受损。孟德斯鸠则认为，除了一无所有、只有土地及其产物的国家，商业使所有国家受益。在那些极端贫困的国家，与他国通商只会促使土地所有者压迫耕种者，无助于本国工业和制造业的发展。其他所有国家都能从商业中受益，应当设法与尽可能多的国家通商，“因为正是竞争为商品定出公正的价值，并在商品之间建立起比例关系”（SL 20.9）。
+  - id: 47
+    kind: body
+    source: |-
+      Montesquieu describes commerce as an activity that cannot be confined or controlled by any individual government or monarch. This, in his view, has always been true: "Commerce is sometimes destroyed by conquerors, sometimes cramped by monarchs; it traverses the earth, flies from the places where it is oppressed, and stays where it has liberty to breathe" (SL 21.5). However, the independence of commerce was greatly enhanced when, during the medieval period, Jews responded to persecution and the seizure of their property by inventing letters of exchange. "Commerce, by this method, became capable of eluding violence, and of maintaining everywhere its ground; the richest merchant having none but invisible effects, which he could convey imperceptibly wherever he pleased" (SL 21.20). This set in motion developments which made commerce still more independent of monarchs and their whims.
+    step1: |-
+      孟德斯鸠把商业描述为一种任何政府或君主都无法限制或控制的活动。在他看来，这一点始终成立：“商业有时被征服者摧毁，有时被君主束缚；它穿行于大地，从受压迫的地方飞走，留在有自由呼吸之处”（SL 21.5）。然而，在中世纪，犹太人面对迫害和财产被没收，发明了汇票，商业的独立性由此大大增强。“借助这种方法，商业得以避开暴力，并在各地保住自己的立足之地；最富有的商人只拥有看不见的财产，可以随意把它不知不觉地运往任何地方”（SL 21.20）。这推动了一系列发展，使商业更加独立于君主及其任性。
+    step2: |-
+      孟德斯鸠把商业描述为任何政府或君主都无法限制或控制的活动。在他看来，这一点始终成立：“商业有时遭征服者摧毁，有时受君主束缚；它穿行于大地，从受压迫的地方飞走，留在有自由呼吸之处”（SL 21.5）。不过，中世纪犹太人面对迫害和财产被没收，发明了汇票，商业的独立性由此大大增强。“借助这种方法，商业得以避开暴力，在各地保住立足之地；最富有的商人只拥有看不见的财产，可以随意把它不知不觉地运往任何地方”（SL 21.20）。这推动了一系列发展，使商业更加独立于君主及其任性。
+  - id: 48
+    kind: body
+    source: |-
+      First, it facilitated the development of international markets, which place prices outside the control of governments. Money, according to Montesquieu, is "a sign which represents the value of all merchandise" (SL 22.2). The price of merchandise depends on the quantity of money and the quantity of merchandise, and on the amounts of money and merchandise that are in trade. Monarchs can affect this price by imposing tariffs or duties on certain goods. But since they cannot control the amounts of money and merchandise that are in trade within their own countries, let alone internationally, a monarch "can no more fix the price of merchandise than he can establish by a decree that the relation 1 has to 10 is equal to that of 1 to 20" (SL 22.7). If a monarch attempts to do so, he courts disaster: "Julian's lowering the price of provisions at Antioch was the cause of a most terrible famine" (SL 22.7).
+    step1: |-
+      第一，它促进了国际市场的发展，使价格脱离了政府的控制。按照孟德斯鸠的说法，货币是“代表一切商品价值的符号”（SL 22.2）。商品价格取决于货币量和商品量，也取决于进入交易的货币量和商品量。君主可以对某些商品征收关税或赋税，从而影响价格。但他们无法控制本国乃至国际市场上进入交易的货币量和商品量，因此君主“无法规定商品的价格，就像他无法以敕令规定 1 与 10 之比等于 1 与 20 之比一样”（SL 22.7）。君主若企图这样做，就是自招灾祸：“尤利安在安条克压低食品价格，造成了一场极其可怕的饥荒”（SL 22.7）。
+    step2: |-
+      第一，它促进了国际市场的发展，使价格脱离政府的控制。在孟德斯鸠看来，货币是“代表一切商品价值的符号”（SL 22.2）。商品价格取决于货币量和商品量，也取决于进入交易的货币量和商品量。君主可对某些商品征收关税或赋税，借此影响价格。但他们控制不了本国乃至国际市场上进入交易的货币量和商品量，因此君主“无法规定商品的价格，就像他无法以敕令规定 1 与 10 之比等于 1 与 20 之比一样”（SL 22.7）。君主若硬要这么做，就是自招灾祸：“尤利安在安条克压低食品价格，造成了一场极其可怕的饥荒”（SL 22.7）。
+  - id: 49
+    kind: body
+    source: |-
+      Second, it permitted the development of international currency exchanges, which place the exchange rate of a country's currency largely outside the control of that country's government. A monarch can establish a currency, and stipulate how much of some metal each unit of that currency shall contain. However, monarchs cannot control the rates of exchange between their currencies and those of other countries. These rates depend on the relative scarcity of money in the countries in question, and they are "fixed by the general opinion of the merchants, never by the decrees of the prince" (SL 22.10). For this reason "the exchange of all places constantly tends to a certain proportion, and that in the very nature of things" (SL 22.10).
+    step1: |-
+      第二，它促成了国际货币兑换的发展，使一国货币的汇率在很大程度上脱离该国政府的控制。君主可以设立一种货币，并规定每单位货币含有多少某种金属。然而，君主无法控制本国货币与他国货币之间的汇率。这些汇率取决于有关国家中货币的相对稀缺程度，并且“由商人的普遍意见确定，从不由君主的敕令确定”（SL 22.10）。因此，“各地的汇兑始终趋向某种比例，这是事物的本性使然”（SL 22.10）。
+    step2: |-
+      第二，它促成了国际货币兑换的发展，使一国货币的汇率在很大程度上脱离该国政府的控制。君主可以设立货币，规定每单位含多少某种金属，却控制不了本国货币与他国货币之间的汇率。汇率取决于有关国家中货币的相对稀缺程度，“由商人的普遍意见确定，从不由君主敕令确定”（SL 22.10）。因此，“各地的汇兑始终趋向某种比例，这是事物的本性使然”（SL 22.10）。
+  - id: 50
+    kind: body
+    source: |-
+      Finally, the development of international commerce gives governments a great incentive to adopt policies that favor, or at least do not impede, its development. Governments need to maintain confidence in their creditworthiness if they wish to borrow money; this deters them from at least the more extreme forms of fiscal irresponsibility, and from oppressing too greatly those citizens from whom they might later need to borrow money. Since the development of commerce requires the availability of loans, governments must establish interest rates high enough to encourage lending, but not so high as to make borrowing unprofitable. Taxes must not be so high that they deprive citizens of the hope of bettering their situations (SL 13.2), and the laws should allow those citizens enough freedom to carry out commercial affairs.
+    step1: |-
+      最后，国际商业的发展给政府提供了巨大动力，促使它们采取有利于商业发展、至少不阻碍其发展的政策。政府若想借钱，就需要维持人们对其偿债能力的信心；这至少能阻止它们采取某些最极端的财政不负责任做法，也能阻止它们过度压迫那些日后可能要被借钱的公民。商业发展需要借贷可得，因此政府必须把利率定得足够高以鼓励放贷，又不能高到使借贷无利可图。税收不能高到剥夺公民改善处境的希望（SL 13.2），法律也应给这些公民足够的自由去经营商业事务。
+    step2: |-
+      最后，国际商业的发展给政府提供了巨大动力，促使它们采取有利于商业发展、至少不阻碍其发展的政策。政府想借钱，就得维持人们对其偿债能力的信心；这至少能阻止它们采取最极端的财政不负责任做法，也能阻止它们过度压迫那些日后可能要向之借钱的公民。商业发展需要借贷可得，所以政府必须把利率定得足够高以鼓励放贷，又不能高到使借贷无利可图。税收不能高到剥夺公民改善处境的希望（SL 13.2），法律也应给这些公民足够自由去经营商业事务。
+  - id: 51
+    kind: body
+    source: |-
+      In general, Montesquieu believes that commerce has had an extremely beneficial influence on government. Since commerce began to recover after the development of letters of exchange and the reintroduction of lending at interest, he writes:
+    step1: |-
+      总的来说，孟德斯鸠认为商业对政府产生了极其有益的影响。自汇票发展起来、有息借贷重新引入之后，商业开始复苏；他写道：
+    step2: |-
+      总的来说，孟德斯鸠认为商业对政府产生了极其有益的影响。汇票发展起来、有息借贷重新引入之后，商业开始复苏。他写道：
+  - id: 52
+    kind: body
+    source: |-
+      > it became necessary that princes should govern with more prudence than they themselves could ever have imagined; for great exertions of authority were, in the event, found to be impolitic ... We begin to be cured of Machiavelism, and recover from it every day. More moderation has become necessary in the councils of princes. What would formerly have been called a master-stroke in politics would be now, independent of the horror it might occasion, the greatest imprudence. Happy is it for men that they are in a situation in which, though their passions prompt them to be wicked, it is, nevertheless, to their interest to be humane and virtuous. (SL 21.20)
+    step1: |-
+      > 君主们不得不以超过他们自己所能想象的审慎来统治；因为事实证明，权威的重大施展并不明智……我们开始从马基雅维利主义中痊愈，而且每天都在恢复。君主的议事会中必须有更多节制。从前会被称作政治上的神来之笔的事情，如今即便不计其可能引起的恐怖，也会是最大的失策。人类有福了：他们处于这样一种境况，尽管激情驱使他们作恶，人道与德性却符合他们的利益。（SL 21.20）
+    step2: |-
+      > 君主们不得不以他们自己从未想象过的审慎来统治；因为事实证明，大动干戈地行使权威并不明智……我们开始从马基雅维利主义中痊愈，而且每天都在好转。君主的议事会中必须有更多节制。从前会被称作政治上的神来之笔的做法，如今即便不计其可能引起的恐怖，也会是最严重的失策。人类有福了：他们所处的境况是，尽管激情驱使他们作恶，人道与德性却符合他们的利益。（SL 21.20）
+  - id: 53
+    kind: body
+    source: |-
+      ### 4.5 Religion
+    step1: |-
+      ### 4.5 宗教
+    step2: |-
+      ### 4.5 宗教
+  - id: 54
+    kind: body
+    source: |-
+      Religion plays only a minor part in the *Spirit of the Laws*. God is described in Book 1 as creating nature and its laws; having done so, He vanishes, and plays no further explanatory role. In particular, Montesquieu does not explain the laws of any country by appeal to divine enlightenment, providence, or guidance. In the *Spirit of the Laws*, Montesquieu considers religions "in relation only to the good they produce in civil society" (SL 24.1), and not to their truth or falsity. He regards different religions as appropriate to different environments and forms of government. Protestantism is most suitable to republics, Catholicism to monarchies, and Islam to despotisms; the Islamic prohibition on eating pork is appropriate to Arabia, where hogs are scarce and contribute to disease, while in India, where cattle are badly needed but do not thrive, a prohibition on eating beef is suitable. Thus, "when Montezuma with so much obstinacy insisted that the religion of the Spaniards was good for their country, and his for Mexico, he did not assert an absurdity" (SL 24.24).
+    step1: |-
+      宗教在《论法的精神》中只占次要地位。上帝在第一卷中被描述为创造自然及其规律；创世之后，上帝便退场，不再起解释作用。孟德斯鸠尤其不借助神的启示、天意或指引来解释任何国家的法律。在《论法的精神》中，他考察宗教时“只着眼于宗教在公民社会中产生的善”（SL 24.1），而不问其真伪。他认为不同的宗教适合不同的环境和政体。新教最适合共和制，天主教适合君主制，伊斯兰教适合专制；伊斯兰教禁食猪肉适合阿拉伯，因为那里猪很少，且猪会传播疾病；而在印度，牛极为需要却养不好，禁食牛肉便很合适。因此，“当蒙特祖马如此固执地坚持西班牙人的宗教适合他们的国家、他自己的宗教适合墨西哥时，他并没有断言什么荒谬之事”（SL 24.24）。
+    step2: |-
+      宗教在《论法的精神》中只占次要地位。第一卷把上帝描述为自然及其规律的创造者；创世之后，上帝便退场，不再起解释作用。孟德斯鸠尤其不借助神的启示、天意或指引来解释任何国家的法律。在《论法的精神》中，他考察宗教时“只着眼于宗教在公民社会中产生的善”（SL 24.1），不问其真伪。他认为不同的宗教适合不同的环境与政体：新教最适合共和制，天主教适合君主制，伊斯兰教适合专制。伊斯兰教禁食猪肉适合阿拉伯，因为那里猪很少，且猪会传播疾病；印度极需牛却养不好牛，禁食牛肉便很合适。因此，“蒙特祖马如此固执地主张西班牙人的宗教适合其国、他自己的宗教适合墨西哥，这并非荒谬之论”（SL 24.24）。
+  - id: 55
+    kind: body
+    source: |-
+      Religion can help to ameliorate the effects of bad laws and institutions; it is the only thing capable of serving as a check on despotic power. However, on Montesquieu's view it is generally a mistake to base civil laws on religious principles. Religion aims at the perfection of the individual; civil laws aim at the welfare of society. Given these different aims, what these two sets of laws should require will often differ; for this reason religion "ought not always to serve as a first principle to the civil laws" (SL 26.9). The civil laws are not an appropriate tool for enforcing religious norms of conduct: God has His own laws, and He is quite capable of enforcing them without our assistance. When we attempt to enforce God's laws for Him, or to cast ourselves as His protectors, we make our religion an instrument of fanaticism and oppression; this is a service neither to God nor to our country.
+    step1: |-
+      宗教有助于减轻坏法律和坏制度的后果；它是唯一能制约专制权力的东西。然而，在孟德斯鸠看来，把公民法建立在宗教原则之上通常是错误的。宗教旨在个人的完善；公民法旨在社会的福祉。由于目的不同，这两套法律所要求的东西往往不同；因此，宗教“不应总是充当公民法的首要原则”（SL 26.9）。公民法不是执行宗教行为规范的合适工具：上帝有自己的法律，完全不需要我们协助就能执行。当我们试图替上帝执行他的法律，或把自己装扮成他的保护者时，我们就使宗教沦为狂热与压迫的工具；这既不是为上帝服务，也不是为国家服务。
+    step2: |-
+      宗教有助于减轻坏法律和坏制度的后果，也是唯一能制约专制权力的东西。然而在孟德斯鸠看来，把公民法建立在宗教原则之上通常是错的。宗教旨在个人完善，公民法旨在社会福祉。目的既不相同，两套法律的要求往往也不同；因此，宗教“不应总是充当公民法的首要原则”（SL 26.9）。公民法不是执行宗教行为规范的好工具：上帝有自己的法律，无需我们协助就能执行。我们若想替上帝执行他的法律，或把自己扮成他的保护者，就把宗教变成了狂热与压迫的工具；这既不是为上帝服务，也不是为国家服务。
+  - id: 56
+    kind: body
+    source: |-
+      If several religions have gained adherents in a country, those religions should all be tolerated, not only by the state but by its citizens. The laws should "require from the several religions, not only that they shall not embroil the state, but that they shall not raise disturbances among themselves" (SL 25.9). While one can try to persuade people to change religions by offering them positive inducements to do so, attempts to force others to convert are ineffective and inhumane. In an unusually scathing passage, Montesquieu also argues that they are unworthy of Christianity, and writes: "if anyone in times to come shall dare to assert, that in the age in which we live, the people of Europe were civilized, you (the Inquisition) will be cited to prove that they were barbarians; and the idea they will have of you will be such as will dishonor your age, and spread hatred over all your contemporaries" (SL 25.13).
+    step1: |-
+      如果一国之内已有数种宗教赢得信众，那么这些宗教都应得到宽容，不仅国家要宽容，公民也要宽容。法律应当“要求各宗教不但不扰乱国家，而且彼此之间不制造骚乱”（SL 25.9）。人们可以用正面激励劝说他人改宗，但强迫他人改宗的企图既无效，也不人道。孟德斯鸠在一段格外尖刻的文字中还主张，这种企图配不上基督教；他写道：“倘若将来有人胆敢断言，在我们生活的时代，欧洲人民是文明的，那么你们（宗教裁判所）就会被引来证明他们是野蛮人；他们将对你形成的看法，将使你们的时代蒙羞，并使你们的同时代人无不遭人憎恨”（SL 25.13）。
+    step2: |-
+      一国之内若有数种宗教赢得信众，这些宗教都应得到宽容，不仅国家要宽容，公民也要宽容。法律应当“要求各宗教不但不扰乱国家，而且彼此之间不制造骚乱”（SL 25.9）。人们可以用正面激励劝说他人改宗，但强迫他人改宗既无效，也不人道。孟德斯鸠在一段格外尖刻的文字中还主张，这种企图配不上基督教。他写道：“倘若将来有人胆敢断言，在我们生活的时代，欧洲人民是文明的，那么你们（宗教裁判所）就会被引来证明他们是野蛮人；后人对你的看法，将使你们的时代蒙羞，并使你们所有同代人都遭憎恨”（SL 25.13）。
+  - id: 57
+    kind: oir
+    source: |-
+      - [Helvetius' Response to *The Spirit of the Laws*](http://www.econlib.org/library/Tracy/ddtMSL28.html#Letters%20of%20Helvetius,%20Addressed%20to%20President%20Montesquieu%20and%20M.%20Saurin), maintained by The Library of Economics and Liberty and Liberty Fund, Inc., a private, educational foundation established to encourage the study of the ideal of a society of free and responsible individuals.
+      - [Condorcet's Response to *The Spirit of the Laws*](http://www.econlib.org/library/Tracy/ddtMSL27.html#Observations%20on%20the%20Twenty-Ninth%20Book%20of%20the%20Spirit%20of%20Laws,%20by%20M.%20Condorcet), maintained by The Library of Economics and Liberty and Liberty Fund, Inc., a private, educational foundation established to encourage the study of the ideal of a society of free and responsible individuals.
+    step1: |-
+      - [爱尔维修对《论法的精神》的回应](http://www.econlib.org/library/Tracy/ddtMSL28.html#Letters%20of%20Helvetius,%20Addressed%20to%20President%20Montesquieu%20and%20M.%20Saurin), 由经济学与自由图书馆（The Library of Economics and Liberty）与自由基金会（Liberty Fund, Inc.）维护；后者是一家私立教育基金会，致力于促进对自由而负责任的社会理想的研究。
+      - [孔多塞对《论法的精神》的回应](http://www.econlib.org/library/Tracy/ddtMSL27.html#Observations%20on%20the%20Twenty-Ninth%20Book%20of%20the%20Spirit%20of%20Laws,%20by%20M.%20Condorcet), 由经济学与自由图书馆（The Library of Economics and Liberty）与自由基金会（Liberty Fund, Inc.）维护；后者是一家私立教育基金会，致力于促进对自由而负责任的社会理想的研究。
+    step2: |-
+      * [爱尔维修对《论法的精神》的回应](http://www.econlib.org/library/Tracy/ddtMSL28.html#Letters%20of%20Helvetius,%20Addressed%20to%20President%20Montesquieu%20and%20M.%20Saurin），由经济学与自由图书馆（The Library of Economics and Liberty）与自由基金会（Liberty Fund, Inc.）维护。后者是一家私立教育基金会，致力于促进对自由而负责任的社会理想的研究。
+      * [孔多塞对《论法的精神》的回应](http://www.econlib.org/library/Tracy/ddtMSL27.html#Observations%20on%20the%20Twenty-Ninth%20Book%20of%20the%20Spirit%20of%20Laws,%20by%20M.%20Condorcet），由经济学与自由图书馆（The Library of Economics and Liberty）与自由基金会（Liberty Fund, Inc.）维护。后者是一家私立教育基金会，致力于促进对自由而负责任的社会理想的研究。

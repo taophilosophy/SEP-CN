@@ -1161,6 +1161,18 @@
 | den Hartogh, Govert | — | den Hartogh | organ-donation | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Sturm, Johann Christoph | — | 约翰·克里斯托夫·施图尔姆 | johann-sturm；SUMMARY | SUMMARY 定名更正（原译“约翰内斯·施图尔姆”，据源文 Johann Christoph 正名）；凭证 2026-11-06 | 2026-11-06 |
 | Weigel, Erhard | — | 埃哈德·魏格尔 | johann-sturm | 学界通行汉译（17 世纪耶拿数学家、哲学家）；凭证 2026-11-06 | 2026-11-06 |
+| Montaigne, Michel de | — | 米歇尔·德·蒙田 | justus-lipsius | 学界通行汉译（《随笔集》作者） | 2026-11-07 |
+| Tacitus | — | 塔西佗 | justus-lipsius | 古典学界通行汉译 | 2026-11-07 |
+| Machiavelli, Niccolò | — | 尼科洛·马基雅维利 | justus-lipsius | 学界千年通行 | 2026-11-07 |
+
+| Montesquieu, Charles-Louis de Secondat, Baron de | — | 夏尔·路易·德·塞贡达·拉布雷德与孟德斯鸠男爵（正文简称“孟德斯鸠”） | montesquieu | 学界千年通行译名（SUMMARY 定名沿用）；凭证 2026-11-07 | 2026-11-07 |
+| D'Alembert, Jean le Rond | — | 让·勒朗·达朗贝尔 | montesquieu | 学界通行汉译（《百科全书》主编）；凭证 2026-11-07 | 2026-11-07 |
+| Montezuma | — | 蒙特祖马 | montesquieu | 学界通行汉译（阿兹特克君主）；凭证 2026-11-07 | 2026-11-07 |
+| Julian | — | 尤利安（罗马皇帝，背教者） | montesquieu | 古典学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Usbek | — | 于斯贝克 | montesquieu | 本词条虚构人物首译（《波斯人信札》）；凭证 2026-11-07 | 2026-11-07 |
+| Rica | — | 里卡 | montesquieu | 本词条虚构人物首译（《波斯人信札》）；凭证 2026-11-07 | 2026-11-07 |
+| Roxana | — | 罗克珊娜 | montesquieu | 学界通行汉译（《波斯人信札》人物）；凭证 2026-11-07 | 2026-11-07 |
+| Lartigue, Jeanne de | — | 让娜·德·拉尔蒂格 | montesquieu | 学界通行音译（孟德斯鸠之妻）；凭证 2026-11-07 | 2026-11-07 |
 
 ## 待裁定
 
