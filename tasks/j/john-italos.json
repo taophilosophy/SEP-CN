@@ -2,7 +2,7 @@
   "slug": "john-italos",
   "kind": "retranslate",
   "zh_doc": "j/john-italos.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:08Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T11:59:46Z",
+      "evidence": "lq 账本流水线全量直译落盘：30 段（body 28/oir 1/ack 1）step1+step2 两步反思，compose 生成 24526 字符；术语人名先登后用（人名 13 行、术语 11 行，登记行在工作树待并档）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T11:59:46Z",
+      "evidence": "对照核销：段落 30:30、节数 15:15、脚注 marker 引用零缺零多、defs 键集 62 项一致；相关词条 2 项手工映射（Plato→柏拉图、universals: the medieval problem of→中世纪的“普遍性”问题）；Ammonius/Petrizi 译名回改对齐 ren-ming-biao 与 SUMMARY 定名"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T12:01:06Z",
+      "evidence": "prose 实修 2 处（L20 长句拆分、L32 de-chain 改写）；残留扫描实修 3 处（英文 further、‘绍介入’误植、‘二人于…最为重要的见证’脱字）；豁免照录：*ante res*/*in rebus*/*post res*、monē/proodos/epistrophē、endoxa/topoi 等希腊拉丁术语与引文内部句法"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T12:01:08Z",
+      "evidence": "四检全绿：check_academic --strict OK；check_style --strict issues=[]；check_prose issues=[]；check_math formulas=0/missing=[]/unbalanced=[]；lq check 守恒门 30 段通过（软旗仅斜体→书名号与标题机械段）"
     }
   ],
   "blockers": [],
