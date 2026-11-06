@@ -362,16 +362,16 @@ Wilkinson 的结论是：这一反对意见严重削弱了恢复论证。它要�
 
 ## 其他网络资源
 
-- [英国移植学会](https://bts.org.uk/)（最后访问于 2026 年 2 月 5 日）
-- 欧洲委员会，[器官移植质量与安全指南](https://www.edqm.eu/en/guide-quality-and-safety-of-organs-for-transplantation)（最后访问于 2026 年 2 月 5 日）
-- [欧洲器官移植学会](https://esot.org/)（最后访问于 2026 年 2 月）
-- [全球捐献与移植观察站](http://www.transplant-observatory.org/)（最后访问于 2026 年 2 月）
-- [卫生资源与服务管理局](https://www.hrsa.gov/optn/patients/organ-donation)（最后访问于 2026 年 2 月）
-- 澳大利亚与新西兰移植学会（TSANZ），[死者捐献者器官移植临床指南](https://tsanz.com.au/guidelinesethics-documents/organallocationguidelines.htm)（最后访问于 2026 年 2 月）
-- 英国卫生部，[用于移植的器官：器官捐献工作组报告](https://web.archive.org/web/20081205103228/http:/www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_082122)，2008 年 1 月。[PDF]
-- [英国国民保健署血液与移植中心（NHSBT）](http://www.nhsbt.nhs.uk/)（最后访问于 2026 年 2 月）
-- 英国纳菲尔德生物伦理委员会，[人体：为医学与研究而捐献](https://cdn.nuffieldbioethics.org/wp-content/uploads/Human-bodies-donation-report.pdf)，2011 年 10 月。[PDF]
-- [世界医学协会关于器官与组织捐献的声明](https://www.wma.net/policies-post/wma-statement-on-organ-and-tissue-donation/)，2012 年 10 月由世界医学协会第 63 届大会（泰国曼谷）通过；2017 年 10 月由第 68 届大会（美国芝加哥）修订（最后访问于 2026 年 2 月）
+* [英国移植学会](https://bts.org.uk/)（最后访问于 2026 年 2 月 5 日）
+* 欧洲委员会，[器官移植质量与安全指南](https://www.edqm.eu/en/guide-quality-and-safety-of-organs-for-transplantation)（最后访问于 2026 年 2 月 5 日）
+* [欧洲器官移植学会](https://esot.org/)（最后访问于 2026 年 2 月）
+* [全球捐献与移植观察站](http://www.transplant-observatory.org/)（最后访问于 2026 年 2 月）
+* [卫生资源与服务管理局](https://www.hrsa.gov/optn/patients/organ-donation)（最后访问于 2026 年 2 月）
+* 澳大利亚与新西兰移植学会（TSANZ），[死者捐献者器官移植临床指南](https://tsanz.com.au/guidelinesethics-documents/organallocationguidelines.htm)（最后访问于 2026 年 2 月）
+* 英国卫生部，[用于移植的器官：器官捐献工作组报告](https://web.archive.org/web/20081205103228/http:/www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_082122)，2008 年 1 月。[PDF]
+* [英国国民保健署血液与移植中心（NHSBT）](http://www.nhsbt.nhs.uk/)（最后访问于 2026 年 2 月）
+* 英国纳菲尔德生物伦理委员会，[人体：为医学与研究而捐献](https://cdn.nuffieldbioethics.org/wp-content/uploads/Human-bodies-donation-report.pdf)，2011 年 10 月。[PDF]
+* [世界医学协会关于器官与组织捐献的声明](https://www.wma.net/policies-post/wma-statement-on-organ-and-tissue-donation/)，2012 年 10 月由世界医学协会第 63 届大会（泰国曼谷）通过；2017 年 10 月由第 68 届大会（美国芝加哥）修订（最后访问于 2026 年 2 月）
 
 ## 相关词条
 

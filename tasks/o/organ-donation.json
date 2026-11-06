@@ -2,7 +2,7 @@
   "slug": "organ-donation",
   "kind": "retranslate",
   "zh_doc": "o/organ-donation.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "direction",
@@ -38,6 +38,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T16:03:24Z",
       "evidence": "s2 二校（Fluency/Style）：check_prose 25 条告警逐条人工改写归零（weak-verb 9：作出决定/作出选择/加以惩罚/进行筛查/进行的手术→本性动词；de-chain 9：段18/19/21/24/35/45/48/58/59/92 重排「的」链或拆句；long-sentence 4：段19/73/107/111 拆句或改分号；passive-bei 2：段30/39 改主动或换「有权/无权」；as-one 1：段92「作为一个群体」→「整体上」）。step1 忠实底未动（仅 step2 改写），守恒 HARD=0；脱稿通读全稿，无阻涩。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T16:25:32Z",
+      "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue；markdownlint-cli2 0 issue（修 MD004：OIR 列表 10 处连字符→星号，规则固化进 od_postfix.py 幂等后处理）；check_academic --strict 0 硬错误；check_math 公式 0 缺失/0 失衡；check_terms 定点 0 缺译、硬错误 0；引号全为中文弯引号、中西文空格与 ** 间距合规、无 HTML/裸 text 围栏；H1 与 SUMMARY、版本行与 baseline 版本钉复核一致。"
     }
   ],
   "blockers": [],
