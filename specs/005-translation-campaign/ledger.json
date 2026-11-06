@@ -87,24 +87,24 @@
   },
   "l": {
    "phase": "translate",
-   "claimed_by": "LQ-main-20261103",
-   "claimed_at": "2026-11-02T17:21:14Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 144/144 镜像 144/144 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：144 词条审计=任务 19 已建（s3_checked 16/s2_checked 1/cleared 1/pending 1，含 logic-provability 11-06 s2_checked）+125 未建；状态机与文件零偏差；账本协议 lq.py 落实",
-   "advanced_at": "2026-11-05T15:22:53Z"
+   "claimed_by": "LMN-main-20261106",
+   "claimed_at": "2026-11-06T14:59:33Z",
+   "note": "2026-11-06 对账（LMN-main-20261106，实核）：144 词条；任务 19=done 2（lakatos/logic-provability）+s3_checked 16+pending 1（langer），125 未建任务；成稿 18=有稿任务 18，零结构偏差；待办=16 条 r1-r3 复审收口+125 条新译",
+   "advanced_at": "2026-11-06T15:08:54Z"
   },
   "m": {
    "phase": "translate",
-   "claimed_by": "LQ-main-20261103",
-   "claimed_at": "2026-11-02T17:21:15Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 139/139 镜像 139/139 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：140 词条=任务 9 pending+131 未建；零偏差",
-   "advanced_at": "2026-11-05T15:22:53Z"
+   "claimed_by": "LMN-main-20261106",
+   "claimed_at": "2026-11-06T14:59:33Z",
+   "note": "2026-11-06 对账（LMN-main-20261106，实核）：139 正式词条（51 别名行不计）；任务 14=done 3（marsilius-inghen/mathematics-inconsistent/molyneux-problem）+cleared 2（modesty-humility 账本91/91、montesquieu 57/57，成稿已 compose 待推进）+pending 9，125 未建任务；成稿 5=有稿任务 5，零结构偏差",
+   "advanced_at": "2026-11-06T15:08:54Z"
   },
   "n": {
    "phase": "translate",
-   "claimed_by": "LQ-main-20261103",
-   "claimed_at": "2026-11-02T17:21:15Z",
-   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 50/50 镜像 50/50 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：50 词条=任务 2 pending+48 未建；零偏差",
-   "advanced_at": "2026-11-05T15:22:54Z"
+   "claimed_by": "LMN-main-20261106",
+   "claimed_at": "2026-11-06T14:59:33Z",
+   "note": "2026-11-06 对账（LMN-main-20261106，实核）：50 词条；任务 2=pending（nietzsche-aesthetics/nominalism-metaphysics），48 未建任务；成稿 0，零结构偏差；基线/镜像 50/50",
+   "advanced_at": "2026-11-06T15:08:55Z"
   },
   "o": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-06T14:09:48Z"
+ "updated_at": "2026-11-06T15:08:55Z"
 }
