@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 23:52（UTC）
+生成时间：2026-11-06 23:54（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1014|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|146|
-|在途（drafted 起、done 前）|246|
+|已完成（done）|147|
+|在途（drafted 起、done 前）|245|
 |阻塞|0|
 
 ## 任务状态分布
@@ -25,9 +25,9 @@
 |pending|622|
 |cleared|168|
 |drafted|3|
-|s3_checked|74|
+|s3_checked|73|
 |r1_reviewed|1|
-|done|146|
+|done|147|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -45,7 +45,7 @@
 |J|38|38|38|4|
 |K|36|36|36|10|
 |L|144|144|19|18|
-|M|139|139|14|4|
+|M|139|139|14|5|
 |N|50|50|2|0|
 |O|21|21|4|1|
 |P|165|165|4|0|
@@ -304,7 +304,6 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|montesquieu|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |oakeshott|retranslate|s3_checked|OR-main-20261106 2026-11-06|
 |origin-descent|retranslate|r1_reviewed|OR-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|

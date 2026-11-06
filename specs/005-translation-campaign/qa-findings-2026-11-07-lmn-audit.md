@@ -27,11 +27,18 @@
 
 ## 3. 已完成（2026-11-07）
 
-* `m/modesty-humility` → s3_checked：91 段零数字差、defs 73=73、相关词条 10 项（修 1 项误映射）、标题与别名纠正、术语 3 行、人名 12 行；四检全绿。提交 48fb6052。
-* `m/montesquieu` → s3_checked：57 段、defs 23=23、引文 9 封信 + SL 36 处逐句核销、OIR 链接修复、de-chain 实修 1 处、人名 8 行；四检全绿。提交 a4af969d。
-* `l/lady-masham` → done：参考文献形态归正（含 2 子标题）、模板 marker 归位、人名 12 行补登；四检全绿。提交 575a72a9。
+* `m/modesty-humility` → **done**（48fb6052 + 15984f4c）：91 段零数字差、defs 73=73、相关词条 10 项（修 1 项误映射）、标题与别名纠正、术语 3 行、人名 12 行；全九步四检全绿。
+* `m/montesquieu` → **done**（a4af969d + 15984f4c）：57 段、defs 23=23、引文 9 封信 + SL 36 处逐句核销、OIR 链接修复、de-chain 实修 1 处、人名 8 行；全九步四检全绿。
+* **L 批 16 条 s3_checked 全部 r1–r3 复审完成 → done**（575a72a9、76701b29、c5b96d78、69218e52、06b2c2bf、09459510、01215838、dcfdfbd5、e791efca、1cc3b3cf、865a72fd、82a9824d、1fe50ddf、2f18eb77、6e581b23、e322e918）：
+  * 共性缺陷：参考文献节多为旧形态（`## 参考文献`、缺转换器注记、缺源文子标题），统一归正后 marker/defs/节数三齐。
+  * 真缺陷：`lady-masham` 缺 Sources/Studies；`lawphil-theory` 缺三子节；`leucippus` 缺 Texts/Secondary；`leibniz-modal` 记号 `L*`/`L**`/`W*` 与斜体标记连写产生伪粗体（改行内代码，style 12→0）；`lambert-auxerre` 错字“兰伯持”+相关词条；`leibniz-ethics` 三处漏译残留（intense/embodied/confirm，已用 `script/tmp/scan_mix.py` 全库同型复扫）；`locke-on-medicine` 引注 `p150.52` 归一。
+  * prose：叙事句一律实修（每条 1–14 处），引文/引块按 ADR-0020 豁免并逐条留痕（合计约 120 项，分布见各条 r2 evidence）。
+
+**批次计数（2026-11-07）**：L done 18/144（余 126 未建任务），M done 5/139（余 9 pending + 125 未建），N done 0/50（2 pending + 48 未建）。
 
 ## 4. 债务登记
 
 * **map_related 歧义未修**：凡是源文相关词条形如 `X: y` 且子节名 `y` 与其他词条英文名同形（如 `ethics`、`mind`、`language`），都可能误映射。建议修法：`父: 子` 候选消解失败时，先按父名 token 匹配 slug 片段（`chinese`→`ethics-chinese`），再回退；不得直接落回全局首个同名。修复前各批 s1 必须人工复核“相关词条”整行。
-* **L 批 15 条 s3_checked 待 r1–r3**：lambert-auxerre、landmann-kalischer、law-ideology、lawphil-theory、legrand、leibniz-ethics、leibniz-evil、leibniz-logic-influence、leibniz-mind、leibniz-modal、leucippus、locke-on-medicine、logic-preference、lorenzo-valla、luxemburg。机检已出队列：marker 差 1 项/条为模板占位行缺失（同 lady-masham），节数差异集中在 References 子标题。
+* **中英残留机检缺口**：`check_prose` 与既有混杂启发式（一行 ≥3 拉丁词）都漏掉“汉字 + 单个英文词 + 汉字”形态（leibniz-ethics 的 intense/embodied/confirm 三例）。已补 `script/tmp/scan_mix.py`（汉字-拉丁-汉字相邻扫描），建议并入 r1 标准检查清单。
+* **记录纪律**：`task_ops advance --evidence` 文本中禁止出现反引号（Bash 会当作命令替换并吞掉内容，2026-11-07 leibniz-modal r1 事故已订正）。
+
