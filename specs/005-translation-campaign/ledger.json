@@ -12,7 +12,7 @@
    "phase": "translate",
    "claimed_by": "AB-main-20261106",
    "claimed_at": "2026-11-06T14:08:07Z",
-   "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）",
+   "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）；复账（2026-11-06 AB-main-20261106）：任务 160=pending 97/cleared 18/done 45，内容×状态零偏差（done×complete 45/cleared×empty 18/pending×empty 97，无快照遗留件）；abortion done+qa-rework 开项（11-04 立项，状态保持 done）属既定语义非缺陷；上句补记 done 35/s3 5 系 11-03 快照过时数，c1623ef1 提交信息声称纠正但未落盘，本次补落；NO_LEDGER 160 全批（A 批无段落账本体系，不补造留痕）；收口（2026-11-07 AB-main-20261106）：alexander-crummell 九步入 done（s3 88f5e168、done bb45d393），实况 160=pending 96/cleared 18/done 46；下一目标按 yuanwen 行数升序（antonio-rosmini 241 行）",
    "advanced_at": "2026-10-28T16:35:48Z"
   },
   "b": {
@@ -136,60 +136,60 @@
   },
   "s": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:01Z",
+   "claimed_by": "SZ-main-20261107",
+   "claimed_at": "2026-11-06T19:25:45Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：161 词条=done 1（spacetime-holearg 10-28 旧存量无账本，不补造）+pending 5+155 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:07Z"
   },
   "t": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:01Z",
+   "claimed_by": "TZ-main-20261107",
+   "claimed_at": "2026-11-06T19:20:15Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：71 词条=任务 2 pending+69 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:08Z"
   },
   "u": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:01Z",
+   "claimed_by": "TZ-main-20261107",
+   "claimed_at": "2026-11-06T19:20:15Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：4 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:09Z"
   },
   "v": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:02Z",
+   "claimed_by": "TZ-main-20261107",
+   "claimed_at": "2026-11-06T19:20:15Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：15 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:10Z"
   },
   "w": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:02Z",
+   "claimed_by": "TZ-main-20261107",
+   "claimed_at": "2026-11-06T19:20:15Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：38 词条=任务 3 pending+35 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:11Z"
   },
   "x": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:02Z",
+   "claimed_by": "TZ-main-20261107",
+   "claimed_at": "2026-11-06T19:20:16Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：3 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:12Z"
   },
   "y": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:03Z",
+   "claimed_by": "TZ-main-20261107",
+   "claimed_at": "2026-11-06T19:20:16Z",
    "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：2 词条=任务 1 pending+1 未建；零偏差",
    "advanced_at": "2026-11-03T19:15:13Z"
   },
   "z": {
    "phase": "translate",
-   "claimed_by": "SZ-main-20261106",
-   "claimed_at": "2026-11-06T13:53:03Z",
+   "claimed_by": "TZ-main-20261107",
+   "claimed_at": "2026-11-06T19:20:16Z",
    "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手；对账补记（2026-11-06）：6 词条=任务 0 已建；零偏差",
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-06T18:21:08Z"
+ "updated_at": "2026-11-06T19:25:45Z"
 }
