@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 18:19（UTC）
+生成时间：2026-11-06 19:23（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1008|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|121|
-|在途（drafted 起、done 前）|263|
+|已完成（done）|127|
+|在途（drafted 起、done 前）|257|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,11 +23,11 @@
 |状态|数量|
 |---|---|
 |pending|624|
-|cleared|173|
+|cleared|171|
 |drafted|3|
-|s3_checked|85|
-|r1_reviewed|2|
-|done|121|
+|s3_checked|82|
+|r2_reviewed|1|
+|done|127|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -37,21 +37,21 @@
 |B|62|62|62|2|
 |C|172|172|172|0|
 |D|92|92|92|11|
-|E|99|99|99|7|
+|E|99|99|99|8|
 |F|96|96|96|0|
 |G|49|49|49|0|
 |H|61|61|61|7|
 |I|75|75|75|18|
 |J|38|38|38|4|
 |K|36|36|36|10|
-|L|144|144|19|5|
+|L|144|144|19|8|
 |M|139|139|14|3|
 |N|50|50|2|0|
 |O|21|21|3|1|
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
-|S|161|161|8|1|
+|S|161|161|8|3|
 |T|71|71|2|0|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -82,7 +82,7 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|alexander-crummell|retranslate|cleared|task_ops 2026-11-06|
+|alexander-crummell|retranslate|r2_reviewed|AB-main-20261106 2026-11-06|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -181,7 +181,6 @@
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |du-bos|retranslate|s3_checked|主代理 2026-11-01|
 |egoism|retranslate|s3_checked|ABCDE-main-20261103 2026-11-03|
-|elisabeth-bohemia|retranslate|s3_checked|main 2026-11-01|
 |emerson|retranslate|cleared|task_ops 2026-11-06|
 |emilie-du-chatelet|retranslate|s3_checked|? 2026-11-04|
 |emotion-Christian-tradition|retranslate|s3_checked|? 2026-11-03|
@@ -299,7 +298,7 @@
 |kant-transcendental|retranslate|cleared|task_ops 2026-11-01|
 |kant-transcendental-idealism|retranslate|cleared|task_ops 2026-11-01|
 |kierkegaard|retranslate|s3_checked|AK-main-20261105 2026-11-05|
-|knowledge-acquaindescrip|retranslate|cleared|task_ops 2026-11-01|
+|knowledge-acquaindescrip|retranslate|s3_checked|? 2026-11-06|
 |knowledge-analysis|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |knowledge-how|retranslate|cleared|task_ops 2026-11-01|
 |knowledge-value|retranslate|s3_checked|AK-main-20261105 2026-11-05|
@@ -309,9 +308,6 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|law-ideology|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|lawphil-theory|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|legrand|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |leibniz-ethics|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leibniz-evil|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leibniz-logic-influence|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
@@ -325,5 +321,3 @@
 |modesty-humility|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |montesquieu|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
-|schema|retranslate|r1_reviewed|SZ-main-20261106 2026-11-06|
-|spacetime-convensimul|retranslate|r1_reviewed|SZ-main-20261106 2026-11-06|
