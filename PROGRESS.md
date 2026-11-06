@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 19:23（UTC）
+生成时间：2026-11-06 19:48（UTC）
 
 ## 总览
 
@@ -12,28 +12,27 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1008|
+|已建任务|1010|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|127|
-|在途（drafted 起、done 前）|257|
+|已完成（done）|128|
+|在途（drafted 起、done 前）|259|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|624|
-|cleared|171|
-|drafted|3|
+|pending|623|
+|cleared|173|
+|drafted|4|
 |s3_checked|82|
-|r2_reviewed|1|
-|done|127|
+|done|128|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|45|
+|A|160|160|160|46|
 |B|62|62|62|2|
 |C|172|172|172|0|
 |D|92|92|92|11|
@@ -51,8 +50,8 @@
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
-|S|161|161|8|3|
-|T|71|71|2|0|
+|S|161|161|9|3|
+|T|71|71|3|0|
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|3|0|
@@ -82,7 +81,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|alexander-crummell|retranslate|r2_reviewed|AB-main-20261106 2026-11-06|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -320,4 +318,7 @@
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |modesty-humility|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |montesquieu|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
+|origin-descent|retranslate|drafted|OR-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
+|scholz|retranslate|cleared|task_ops 2026-11-06|
+|timon-phlius|retranslate|cleared|task_ops 2026-11-06|
