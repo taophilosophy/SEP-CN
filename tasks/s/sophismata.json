@@ -1,0 +1,50 @@
+{
+  "slug": "sophismata",
+  "kind": "retranslate",
+  "zh_doc": "s/sophismata.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T20:36:52Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T21:53:41Z",
+      "evidence": "方向声明（rules/08）：用户令负责 S 批全流程翻译；本词条目标=零信任重译 sophismata 全篇（4 节+OIR）；非目标=不补原文内容、参考文献非中文条目照录不译；验收=六校全过、四检全绿、账本守恒 HARD=0。draft：双版账本 tasks/s/sophismata.ledger.yaml 62 段（body 61+oir 1）；lq.py check HARD=0（SOFT：斜体→书名号/标题机械段）；lq.py compose --write 落盘 19796 字符。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T21:53:42Z",
+      "evidence": "一校逐段对照 yuanwen（62 段/4 节）：结构对位（1 词义；2 描述与特征 2.1–2.3.4；3 多种作用；4 文献）+ References/OIR/相关词条。实修 4 类：①H1 转义括号截断手工补全为「诡辩 sophismata [= sophisms] (Fabienne Pironet and Joke Spruyt)」（模板 §6.5 已知坑）；②术语对齐登记册——syncategorematic word=非范畴词（原稿误作助范畴词，全文 21 处）、dictum=所言、Vivès=比韦斯；③相关词条误配「中世纪的单称词项理论」修正为「中世纪词项属性理论」；④措辞 2 处（定说→陈述、体用→技术性）。拉丁例句 8 处逐字核对；脚注键全等；三条孤立编辑性脚注（many-nd/many-1940/most-nd）为源文同构，按 §6.5 照录不译。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T21:53:42Z",
+      "evidence": "二校：check_prose 初检 7 告警→0：长句拆分 2（段48 牛津计算者句、段56 海特斯伯里规则句）、去「的」链 5（段38/39/42/44/45），另修段 2.3.2 引号残缺与「一例所示」衔接。改写逐句回核语义无漂移，口吻统一学术书面体。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T21:53:43Z",
+      "evidence": "三校：check_style --strict 0 issue；check_math 0 缺失/0 失衡；check_academic --strict 绿（在途豁免 1）；check_summary HARD=0。术语登记 12 行（分配/分配符号/存在蕴含/可展开句/合语法性/合取句/除外词/排除词/人称指代/诡辩句正文/平均速度定理/形式的增强与减弱），人名 5 行（比韦斯并入既有 Vives 行、拉伯雷、布拉德沃丁、斯温斯海德兄弟），保留英文 Robert Alyngton；中文强调斜体→粗体 11 行；check_terms 硬错误 0（既有 Heinrich Scholz 肖尔茨/肖尔兹 异形告警非本批引入，已留痕）。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T20:36:51Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 31, 2023",
+    "archive_edition": "Fall 2023",
+    "sha256": "ed295c5c0a1bdab4de55d2d00394be67abfb1ff4cd80bad8ee90b992481525ca"
+  }
+}

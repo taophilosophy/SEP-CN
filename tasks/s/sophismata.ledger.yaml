@@ -1,0 +1,575 @@
+version: 1
+slug: sophismata
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      In contrast to the meaning the word ‘sophism’ had in ancient philosophy, ‘*sophisma*’ in medieval philosophy is a technical term with no pejorative connotation: a *sophisma* proper is a sentence (proposition) that raises a difficulty for logic or grammar: it is a proposition whose truth value is difficult to determine, because it is ambiguous, puzzling or simply difficult to interpret, or a sentence that can be shown to be both grammatically correct and incorrect. Discussions of *sophismata* can be found in treatises of the twelfth century. Later they formed an important element of scholarly training in universities, featuring in different kinds of disputations: on a basic level the *sophismata* served to illustrate a theory, but they were also used to test the limits of a theory. The so-called *sophismata*-literature flourished during the thirteenth and fourteenth centuries; evidence of many important developments in logic and natural philosophy can be found in texts of this kind, where masters could feel free to investigate problems and develop their own views, much more than they could in more academic and strictly codified literary genres. In the wake of humanists’ opposition to the educational practices of traditional universities, the genre of *sophismata* disappeared in the early sixteenth century.
+    step1: |-
+      与“sophism”（诡辩）一词在古代哲学中的含义不同，中世纪哲学中的“*sophisma*”是一个没有贬义的技术术语：严格意义上的 *sophisma* 是一个给逻辑或语法带来困难的句子（命题）：它是一个真值难以确定的命题，因为它有歧义、令人困惑或只是难以解释；或者是一个可以被表明既语法正确又语法不正确的句子。*sophismata* 的讨论可见于十二世纪的论著。后来它们成为大学学术训练的重要组成部分，出现在不同种类的辩论中：在基础层面上，*sophismata* 用于说明一种理论，但也用于检验一种理论的限度。所谓的 *sophismata* 文献在十三、十四世纪繁荣起来；逻辑与自然哲学中许多重要发展的证据都能在这类文本中找到，在这些文本中，大师们可以自由地探究问题、发展自己的观点，远甚于在更为学院化、编纂更严格的文类中所能做的。随着人文主义者对传统大学教育实践的反对，*sophismata* 这一文类在十六世纪初消失了。
+    step2: |-
+      与“诡辩”（sophism）一词在古代哲学中的含义不同，中世纪哲学中的 *sophisma*（中译“诡辩句”，复数 *sophismata*）是一个不带贬义的技术术语。严格意义上的诡辩句，是给逻辑或语法造成困难的句子（命题）：其真值难以确定，因为它有歧义、令人费解，或只是难以解释；又或者，是一个可以表明既合乎语法、又不合乎语法的句子。十二世纪的论著中已可见到对诡辩句的讨论。此后，诡辩句成为大学学术训练的重要内容，出现于各类辩论：在基础层面，诡辩句用来例示一种理论；但它们也被用来检验一种理论的限度。所谓诡辩句文献在十三、十四世纪盛极一时；逻辑与自然哲学中许多重要发展，证据正见于这类文本——大师们在此可以放手探究问题、提出己见，余地远大于在更学院化、编纂更严格的文类中。随着人文主义者起而反对传统大学的教育实践，诡辩句这一文类在十六世纪初消亡。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. The Word ‘*Sophisma*’
+    step1: |-
+      ## 1 “诡辩句”（*sophisma*）一词
+    step2: |-
+      ## 1 “诡辩句”（*sophisma*）一词
+  - id: 3
+    kind: body
+    source: |-
+      Although some medieval theologians — and humanists even more, of course, like Vivès or Rabelais — used the words ‘sophism’ or ‘sophist’ as a derogatory designation for quibbling philosophers, ‘*sophisma*’ in medieval philosophical literature has a very precise and technical sense. To avoid any confusion with fallacies and badly-constructed arguments, we shall here use the original term ‘*sophisma*’ rather than the word ‘sophism’ (which even nowadays has a pejorative connotation).
+    step1: |-
+      尽管一些中世纪神学家——当然，人文主义者更是如此，如维韦斯或拉伯雷——把“sophism”（诡辩）或“sophist”（诡辩家）用作对好钻牛角尖的哲学家的贬称，但中世纪哲学文献中的“*sophisma*”具有非常精确的技术含义。为避免与谬误及构造拙劣的论证相混淆，我们在这里将使用原词“*sophisma*”，而不用“sophism”（诡辩）一词（后者即便在今天仍带贬义）。
+    step2: |-
+      有些中世纪神学家——人文主义者更不必说，如维韦斯或拉伯雷——把“诡辩”（sophism）或“诡辩家”（sophist）当作贬称，用来指好作无谓争辩的哲学家。然而在中世纪哲学文献中，*sophisma* 的含义极为精确，且属技术用语。为免与谬误及构造拙劣的论证相混，本文一律沿用原词 *sophisma*（诡辩句），不用“诡辩”（sophism）一词——后者即便在今天也仍带贬义。
+  - id: 4
+    kind: body
+    source: |-
+      ## 2. Description and Characteristics
+    step1: |-
+      ## 2 描述与特征
+    step2: |-
+      ## 2 描述与特征
+  - id: 5
+    kind: body
+    source: |-
+      ### 2.1 The *Sophisma* Proper
+    step1: |-
+      ### 2.1 严格意义上的诡辩句
+    step2: |-
+      ### 2.1 严格意义上的诡辩句
+  - id: 6
+    kind: body
+    source: |-
+      A *sophisma* has several important characteristics. First of all, a *sophisma* proper is a *sentence* rather than an argument. In particular, a *sophisma* is a sentence that
+    step1: |-
+      一个 *sophisma* 有几个重要特征。首先，严格意义上的 *sophisma* 是 *句子*，而不是论证。具体说来，*sophisma* 是一个如下这样的句子：
+    step2: |-
+      诡辩句有几个重要特征。首先，严格意义上的诡辩句是 *句子*，而非论证。具体说来，诡辩句是一个这样的句子：
+  - id: 7
+    kind: body
+    source: |-
+      1. is *odd* or has odd consequences,
+      2. is *ambiguous*, and can be true or false depending on how it is interpreted (or is taken to be ambiguous when in fact it is not), or
+      3. is *puzzling* not in itself but only when it occurs in a specific context (or “case,” *casus*).
+    step1: |-
+      1. 是 *古怪的*，或具有古怪的推论，
+      2. 是 *有歧义的*，随解释方式不同可真可假（或者本来并无歧义，却被认为有歧义），或
+      3. 本身并不 *令人困惑*，只有在特定语境（或“情形”，*casus*）中出现时才令人困惑。
+    step2: |-
+      1. *古怪*，或具有古怪的推论；
+      2. *有歧义*，随解释方式不同可真可假（或者本来并无歧义，却被视为有歧义）；或
+      3. 本身并不 *令人困惑*，唯有在特定语境（或“情形”，*casus*）中出现时才令人困惑。
+  - id: 8
+    kind: body
+    source: |-
+      Here are some some examples of kind (1), sentences that are odd or have odd consequences:
+    step1: |-
+      以下是第 (1) 类的一些例子，即古怪或具有古怪推论的句子：
+    step2: |-
+      第 (1) 类即古怪或具有古怪推论的句子，例如：
+  - id: 9
+    kind: body
+    source: |-
+      > This dog is your father. A chimaera is a chimaera.
+    step1: |-
+      > 这只狗是你的父亲。一只喀迈拉是一只喀迈拉。
+    step2: |-
+      > 这只狗是你的父亲。一只喀迈拉就是一只喀迈拉。
+  - id: 10
+    kind: body
+    source: |-
+      As examples of kind (2), *ambiguous* sentences that can be true or false depending on how they are interpreted, consider:
+    step1: |-
+      作为第 (2) 类的例子，即随解释方式不同可真可假的 *有歧义的* 句子，请考虑：
+    step2: |-
+      第 (2) 类即随解释方式不同可真可假的 *有歧义* 句子，例如：
+  - id: 11
+    kind: body
+    source: |-
+      > All the apostles are twelve. The infinite are finite. Every man is of necessity an animal.
+    step1: |-
+      > 所有使徒都是十二个。无限者是有限的。每个人必然地是动物。
+    step2: |-
+      > 所有使徒都是十二个。无限者是有限的。每个人必然地是动物。
+  - id: 12
+    kind: body
+    source: |-
+      As an example of kind (3), sentences that are not puzzling in themselves but only when they occur in a definite context (“case,” *casus*), consider:
+    step1: |-
+      作为第 (3) 类的例子，即本身并不令人困惑、只有在确定语境（“情形”，*casus*）中出现时才令人困惑的句子，请考虑：
+    step2: |-
+      第 (3) 类即本身并不令人困惑、唯有在确定语境（“情形”，*casus*）中出现时才令人困惑的句子，例如：
+  - id: 13
+    kind: body
+    source: |-
+      > The sentence ‘Socrates says something false’, in the case where Socrates says nothing other than ‘Socrates says something false’.
+    step1: |-
+      > “苏格拉底说了假话”这一句子，其情形是：苏格拉底除了“苏格拉底说了假话”之外什么也没说。
+    step2: |-
+      > “苏格拉底说了假话”这一句子，其情形是：苏格拉底除了“苏格拉底说了假话”之外什么也没说。
+  - id: 14
+    kind: body
+    source: |-
+      This sentence is paradoxical, and is one of the forms the Liar paradox. As another example of kind (3) consider:
+    step1: |-
+      这个句子是悖论性的，是说谎者悖论的形式之一。作为第 (3) 类的另一个例子，请考虑：
+    step2: |-
+      这个句子是悖论性的，属于说谎者悖论的诸形式之一。第 (3) 类的另一例如下：
+  - id: 15
+    kind: body
+    source: |-
+      > ‘Every man is an animal’, in case no men, or only one man or only two men exist(s).
+    step1: |-
+      > “每个人都是动物”，其情形是：没有人存在，或只有一个人、或只有两个人存在。
+    step2: |-
+      > “每个人都是动物”，其情形是：没有人存在，或只存在一个人、或只存在两个人。
+  - id: 16
+    kind: body
+    source: |-
+      ### 2.2 The Aim of the Discussion
+    step1: |-
+      ### 2.2 讨论的目的
+    step2: |-
+      ### 2.2 讨论的目的
+  - id: 17
+    kind: body
+    source: |-
+      Once the odd, ambiguous or puzzling *sophisma*-sentence is put forward, one should try to understand what it means, what it implies, and how it fits into or contradicts the particular theory under consideration. This is called “solving the *sophisma*,” and it is the aim of the entire discussion. The way solutions are sought and established is similar to the highly formalized scholastic method for determining a “question”:
+    step1: |-
+      一旦提出了古怪的、有歧义的或令人困惑的 *sophisma* 句子，就应当设法理解它意味着什么、蕴含什么，以及它如何契合或抵触所考察的特定理论。这被称为“解决 *sophisma*”，也是整个讨论的目的。寻求并确立解决办法的方式，类似于经院哲学中高度形式化的确定“问题”的方法：
+    step2: |-
+      古怪、有歧义或令人困惑的诡辩句一经提出，就应设法弄清它是什么意思、蕴含什么，以及它如何契合或抵触当下考察的那一特定理论。这叫作“解决诡辩句”，也是整个讨论的鹄的。求取并确立解答的路数，类乎经院哲学中高度形式化的“问题”裁定法：
+  - id: 18
+    kind: body
+    source: |-
+      1. First, one has to examine the arguments *pro* and *contra*.
+      2. Second, one has to present one’s own solution to the problem. (Sometimes this part of the discussion is preceded by certain theoretical remarks or clarifications that make the terminology more precise.)
+      3. Third, one has to refute the arguments supporting the opposite answer.
+    step1: |-
+      1. 首先，必须考察 *赞成*（*pro*）与 *反对*（*contra*）的论证。
+      2. 其次，必须提出自己对问题的解决办法。（有时，讨论的这一部分之前会有某些理论说明或澄清，使术语更加精确。）
+      3. 再次，必须驳斥支持相反答案的论证。
+    step2: |-
+      1. 首先，须考察 *赞成*（*pro*）与 *反对*（*contra*）两方面的论证。
+      2. 其次，须提出自己对问题的解答。（有时，讨论的这一部分之前会有若干理论说明或澄清，使术语更为精确。）
+      3. 再次，须驳斥支持相反答案的论证。
+  - id: 19
+    kind: body
+    source: |-
+      #### 2.2.1 Some examples
+    step1: |-
+      #### 2.2.1 一些例子
+    step2: |-
+      #### 2.2.1 一些例子
+  - id: 20
+    kind: body
+    source: |-
+      Our first example comes from Peter of Spain’s *Syncategoreumata*, chapter 4. The *sophisma* runs:
+    step1: |-
+      我们的第一个例子来自西班牙的彼得的《助范畴词》（*Syncategoreumata*）第 4 章。这个 *sophisma* 是：
+    step2: |-
+      第一个例子取自西班牙的彼得的《助范畴词》（*Syncategoreumata*）第 4 章，其诡辩句为：
+  - id: 21
+    kind: body
+    source: |-
+      > *Omne animal preter hominem est irrationale.* (Every animal but man is irrational.)
+    step1: |-
+      > *Omne animal preter hominem est irrationale.*（除人以外的一切动物都是非理性的。）
+    step2: |-
+      > *Omne animal preter hominem est irrationale.*（除人以外，一切动物都是非理性的。）
+  - id: 22
+    kind: body
+    source: |-
+      In accordance with step (1), the *pro* and *contra* arguments run:
+    step1: |-
+      按照第 (1) 步，*赞成* 与 *反对* 的论证如下：
+    step2: |-
+      依第 (1) 步，*赞成* 与 *反对* 两方论证如下：
+  - id: 23
+    kind: body
+    source: |-
+      > Proof: The sentence ‘Every animal is irrational’ is false, and the only counterinstance is man. Therefore the *sophisma* is true.
+      >
+      > Disproof: Every animal but man is irrational. Therefore, every animal but this man is irrational. And that is false.
+    step1: |-
+      > 证明：“一切动物都是非理性的”这一句子为假，而唯一的反例是人。因此该 *sophisma* 为真。
+      >
+      > 反证：除人以外，一切动物都是非理性的。因此，除这个人以外，一切动物都是非理性的。而这是假的。
+    step2: |-
+      > 证明：“一切动物都是非理性的”为假，而唯一的反例是人。故该诡辩句为真。
+      >
+      > 反证：除人以外，一切动物都是非理性的。因此，除这个人以外，一切动物都是非理性的。而这是假的。
+  - id: 24
+    kind: body
+    source: |-
+      This particular *sophisma* is put forward to test the logical behaviour of the syncategorematic word ‘but’ (*preter*), more specifically, to consider the question of what is excepted when we use an exceptive word.
+    step1: |-
+      这个特定的 *sophisma* 提出来，是为了检验助范畴词“but”（*preter*）的逻辑行为；更具体地说，是为了考察当我们使用一个除外词时，被除外的究竟是什么。
+    step2: |-
+      提出这个诡辩句，是为了检验助范畴词“but”（*preter*）的逻辑行为；更具体地说，是要考察：使用除外词时，被除外的究竟是什么。
+  - id: 25
+    kind: body
+    source: |-
+      In accordance with step (2), Peter of Spain solves the *sophisma* by saying that it is true without qualification, and that the argument *pro* is sound.
+    step1: |-
+      按照第 (2) 步，西班牙的彼得解决这个 *sophisma* 的办法是：说它无条件是真实的，并且 *赞成* 的论证是健全的。
+    step2: |-
+      依第 (2) 步，西班牙的彼得给出的解答是：该句无条件为真，且 *赞成* 方的论证健全。
+  - id: 26
+    kind: body
+    source: |-
+      In accordance with step (3), the argument *contra* is rejected on the grounds that it is a fallacy, because in the sentence it starts off with, ‘Every animal but man is irrational,’ the expression ‘man’ has simple supposition, that is, it stands for man in general, whereas in the second sentence, ‘Therefore every animal but this man is irrational,’ the expression ‘this man’ has personal supposition, that is, it stands for an individual man. The second mistake in the disproof is that it proceeds from a combination of something less general with the distributive sign ‘every’ to a combination of something that is more general with the distributive sign ‘every’: in the first sentence, ‘every animal’ ranges over every animal other than man, whereas in the second sentence, the expression ‘every animal’ comprehends not only all the animals, but also every man other than this one.
+    step1: |-
+      按照第 (3) 步，*反对* 的论证被拒斥，理由是它犯了谬误：因为在它开头的句子“除人以外，一切动物都是非理性的”中，“人”这一表达式具有简单指代，也就是说，它指代一般的人；而在第二个句子“因此，除这个人以外，一切动物都是非理性的”中，“这个人”这一表达式具有人称指代，也就是说，它指代一个个体的人。反证中的第二个错误在于：它从“较不一般的东西与分配符号‘every’的组合”推进到“较一般的东西与分配符号‘every’的组合”：在第一个句子中，“every animal”（一切动物）的范围是除人以外的每个动物；而在第二个句子中，“every animal”这一表达式不仅包括所有动物，还包括除这个人以外的每个人。
+    step2: |-
+      依第 (3) 步，*反对* 方论证遭拒斥，理由是该论证犯了谬误。它开头的句子“除人以外，一切动物都是非理性的”里，“人”这一表达式取简单指代，即指代一般的人；而第二个句子“因此，除这个人以外，一切动物都是非理性的”里，“这个人”取人称指代，即指代某个个体的人。反证的第二个错误，是从“较不一般者与分配符号‘every’的组合”推到“较一般者与分配符号‘every’的组合”：第一个句子中，“every animal”的范围是除人以外的每一动物；第二个句子中，“every animal”不仅涵盖一切动物，还涵盖除此人以外的每一个人。
+  - id: 27
+    kind: body
+    source: |-
+      The underlying logical problem in this *sophisma* according to Peter’s exposition is the question of what kind of distribution is involved in propositions containing an exceptive expression in combination with the universal sign ‘every’. In this case, the solution to the *sophisma* is quite straightforward, as the disproof rests on an unwarranted change in distribution throughout the argument.
+    step1: |-
+      按照彼得的阐述，这个 *sophisma* 背后的逻辑问题在于：在包含除外表达式并与全称符号“every”结合的命题中，涉及的是哪一种分配。在这个例子里，*sophisma* 的解决相当直接，因为反证依赖于整个论证中未经保证的分配变化。
+    step2: |-
+      据彼得所述，此诡辩句背后的逻辑问题在于：除外表达式与全称符号“every”结合的命题，究竟涉及何种分配。本例的解答相当直截，因为反证所倚仗的，是论证中途未经保证的分配变化。
+  - id: 28
+    kind: body
+    source: |-
+      Another relatively simple example comes from Albert of Saxony, *Sophismata*, *sophisma* xi. The *sophisma* runs:
+    step1: |-
+      另一个相对简单的例子来自萨克森的阿尔伯特《诡辩句集》（*Sophismata*）第 xi 个诡辩句。这个 *sophisma* 是：
+    step2: |-
+      另一例较为简单，出自萨克森的阿尔伯特《诡辩句集》（*Sophismata*）第 xi 个诡辩句：
+  - id: 29
+    kind: body
+    source: |-
+      > *Omnes homines sunt asini vel homines et asini sunt asini.* (All men are donkeys or men and donkeys are donkeys.)
+    step1: |-
+      > *Omnes homines sunt asini vel homines et asini sunt asini.*（所有人都是驴，或者人和驴都是驴。）
+    step2: |-
+      > *Omnes homines sunt asini vel homines et asini sunt asini.*（所有人都是驴，或者人和驴都是驴。）
+  - id: 30
+    kind: body
+    source: |-
+      In accordance with step (1), here are the *pro* and *contra* arguments:
+    step1: |-
+      按照第 (1) 步，*赞成* 与 *反对* 的论证如下：
+    step2: |-
+      依第 (1) 步，*赞成* 与 *反对* 两方论证如下：
+  - id: 31
+    kind: body
+    source: |-
+      > Proof: The *sophisma* is a copulative sentence (in modern logical terminology, a conjunction) each part of which is true; therefore the *sophisma* is true, since its analysis becomes: [All men are donkeys or men] and [donkeys are donkeys].
+      >
+      > Disproof: The *sophisma* is a disjunctive sentence each part of which is false; therefore the *sophisma* is false, since its analysis becomes: [All men are donkeys] or [men and donkeys are donkeys].
+    step1: |-
+      > 证明：该 *sophisma* 是一个合取句（用现代逻辑术语说，一个合取式），其每一部分都为真；因此该 *sophisma* 为真，因为它的分析成为：[所有人都是驴，或者人] 且 [驴都是驴]。
+      >
+      > 反证：该 *sophisma* 是一个析取句，其每一部分都为假；因此该 *sophisma* 为假，因为它的分析成为：[所有人都是驴] 或 [人和驴都是驴]。
+    step2: |-
+      > 证明：该诡辩句是合取句（用现代逻辑术语说，即合取式），其每一部分皆真；故该诡辩句为真，因为其分析为：[所有人都是驴，或者人] 且 [驴是驴]。
+      >
+      > 反证：该诡辩句是析取句，其每一部分皆假；故该诡辩句为假，因为其分析为：[所有人都是驴] 或 [人和驴是驴]。
+  - id: 32
+    kind: body
+    source: |-
+      This is a *sophisma* of the second kind above, one that rests on an ambiguity and can be read with a true interpretation or with a false interpretation. Many such *sophismata*, although not this one, resist being translated from Latin into another language without losing the ambiguity. For example, the sentence ‘aliquem asinum omnis homo videt’ can be translated by ‘Every man sees a donkey’ as well as by ‘There is a donkey that every man sees’. Similarly, in solving *sophismata,* sometimes Latin word order is used as an arbitrary code for interpreting the sentence. For example, according to William Heytesbury, when the word ‘infinite’ is placed at the beginning of a sentence and belongs to the subject, it has to be interpreted as a syncategorematic term; in any other case, it is usually interpreted as a categorematic term (Heytesbury, *Sophismata*, *sophisma* xviii, fol.130va). Such word-order codes might seem like reasonable regimentations of language to a Latin-speaker, but in translation they often seem quite implausible and forced. No such problems arise with this example. (For clarity, square brackets have been inserted into the proof and disproof above, in order to indicate the ambiguity of the *sophisma.*)
+    step1: |-
+      这是上面第二种 *sophisma*，它依赖于一种歧义，可以读出一个真解释，也可以读出一个假解释。许多这样的 *sophismata*（虽然不包括这一个）在从拉丁文译成另一种语言时，都无法不丧失歧义。例如，“aliquem asinum omnis homo videt”这一句子既可以译作“每个人看见一头驴”，也可以译作“有一头驴，每个人都看见它”。同样，在解决 *sophismata* 时，有时会把拉丁文的词序用作解释句子的任意代码。例如，按照威廉·海特斯伯里的说法，当“infinite”（无限的）一词置于句首并属于主语时，必须把它解释为助范畴词；在其他任何情况下，通常把它解释为范畴词（Heytesbury, *Sophismata*, *sophisma* xviii, fol.130va）。这种词序代码对说拉丁语的人也许显得是对语言的合理规整，但在翻译中往往显得相当不可信、牵强。本例不会出现这类问题。（为清楚起见，上面的证明与反证中已插入方括号，以标示该 *sophisma* 的歧义。）
+    step2: |-
+      这是上文第二类诡辩句，其成立系于歧义，可作真解释，也可作假解释。许多这类诡辩句（本句除外）从拉丁文译成别的语言时，歧义便难免丧失。例如，“aliquem asinum omnis homo videt”既可译作“每个人看见一头驴”，也可译作“有一头驴，每个人都看见它”。同样，解决诡辩句时，有时会把拉丁文词序当作解释句子的约定代码。例如据威廉·海特斯伯里之说，“infinite”（无限的）一词若置于句首且属于主语，便须解释为助范畴词；在其他位置，通常解释为范畴词（Heytesbury, *Sophismata*, *sophisma* xviii, fol.130va）。这类词序代码，对说拉丁语的人或许显得是对语言的合理规整，一经翻译却往往显得牵强而难以信从。本例则无此问题。（为清楚起见，上文证明与反证中已加方括号，以标示该诡辩句的歧义。）
+  - id: 33
+    kind: body
+    source: |-
+      In accordance with step (2) above, Albert of Saxony, who discusses this *sophisma*, solves it by just saying that it is either true or false depending on which interpretation we choose. He then takes the opportunity to review the basic principles governing the truth-value of copulative and disjunctive sentences.
+    step1: |-
+      按照上面第 (2) 步，讨论这个 *sophisma* 的萨克森的阿尔伯特解决它的办法只是说：它或真或假，取决于我们选择哪种解释。他随后借此机会回顾了支配合取句与析取句真值的基本原理。
+    step2: |-
+      依上文第 (2) 步，讨论此诡辩句的萨克森的阿尔伯特只消说：它或真或假，端赖我们选取何种解释，问题便告解决。他随后借机复述了支配合取句与析取句真值的基本原理。
+  - id: 34
+    kind: body
+    source: |-
+      In accordance with step (3), we would normally be required to refute the opposite answer. In this case, however, there is nothing to refute, since Albert’s solution accepts both the *pro* and the *contra* arguments (for different readings of the *sophisma*).
+    step1: |-
+      按照第 (3) 步，我们通常需要驳斥相反的答案。然而在这个例子里，没有什么可驳斥的，因为阿尔伯特的解答同时接受了 *赞成* 与 *反对* 的论证（针对该 *sophisma* 的不同读法）。
+    step2: |-
+      依第 (3) 步，通常须驳斥相反答案。但本例无可驳斥，因为阿尔伯特的解答对 *赞成* 与 *反对* 两方论证一并接受（分别对应该诡辩句的不同读法）。
+  - id: 35
+    kind: body
+    source: |-
+      In general, a *sophisma* provided a good opportunity to discuss problems related to a specific theoretical issue. For example, the *sophisma* ‘*Album fuit disputaturum*’ (‘The white [thing] was about to dispute’) in thirteenth-century Parisian literature elicited discussions of problems connected with the theory of reference in tensed contexts, and also provided an opportunity to refute the positions others held on this very controversial subject. This is why Pinborg 1977 (p. xv) says, with reference to the body of literature devoted to discussions of *sophismata*, that at Paris in the thirteenth century, “the *sophismata* seem — within the faculty of arts — to play a role analogous to the *Quaestiones quodlibetales* [quodlibetal questions] in the faculty of theology.” The *Catalogue of 13th Century Sophismata* (Ebbesen and Goubier 2010)[^ebbesen-2010] provides an extensive list of logical problems and distinctions that were brought up under the guise of a *sophisma*. Again, many grammatical problems were also dealt with in this way.
+    step1: |-
+      一般说来，一个 *sophisma* 提供了讨论与特定理论议题相关问题的好机会。例如，十三世纪巴黎文献中的 *sophisma*“*Album fuit disputaturum*”（“那个白的东西将要争论”）引发了关于时态语境中指称理论相关问题的讨论，也提供了驳斥他人在这一极具争议的主题上所持立场的机会。这就是为什么 Pinborg 1977（p. xv）在谈及专门讨论 *sophismata* 的文献整体时说，在十三世纪的巴黎，“*sophismata* 似乎在文学院内扮演着类似于神学院中《随意问题集》（*Quaestiones quodlibetales*，即 quodlibetal questions）的角色”。《十三世纪诡辩句目录》（*Catalogue of 13th Century Sophismata*，Ebbesen and Goubier 2010）[^ebbesen-2010] 提供了在 *sophisma* 名义下提出的逻辑问题与区分的详尽清单。同样，许多语法问题也以这种方式处理。
+    step2: |-
+      一般说来，诡辩句是讨论特定理论议题的好由头。例如十三世纪巴黎文献中的诡辩句“*Album fuit disputaturum*”（“那个白的东西将要争论”），既引发了对时态语境中指称理论诸问题的讨论，也提供了驳斥他人在这一争议话题上所持立场的机会。正因如此，Pinborg 1977（p. xv）在论及专论诡辩句的那一大批文献时说，十三世纪巴黎“在文学院内，*sophismata* 所扮演的角色，似乎相当于神学院中的 *Quaestiones quodlibetales*〔随意问答〕”。《十三世纪诡辩句目录》（*Catalogue of 13th Century Sophismata*，Ebbesen and Goubier 2010）[^ebbesen-2010] 详尽列出了借诡辩句之名提出的逻辑问题与区分。语法问题同样有许多是以这种方式处理的。
+  - id: 36
+    kind: body
+    source: |-
+      #### 2.2.2 *Sophismata* and the Roles of Syncategorematic Words
+    step1: |-
+      #### 2.2.2 诡辩句与助范畴词的作用
+    step2: |-
+      #### 2.2.2 诡辩句与助范畴词的作用
+  - id: 37
+    kind: body
+    source: |-
+      It is important to recognize that many *sophismata* contain syncategorematic words that are responsible for their odd, ambiguous or puzzling character. They can be difficult to interpret, especially when more than one syncategorematic word occurs in one and the same sentence. In the *sophismata* literature, discussions of problematic sentences are usually accompanied by an explanation of the distinctions governing the use of syncategorematic words. In turn such distinctions can help to interpret the sentence at issue.
+    step1: |-
+      重要的是要认识到，许多 *sophismata* 含有助范畴词，正是这些词造成了它们古怪、有歧义或令人困惑的性质。它们可能难以解释，尤其是当同一个句子里出现不止一个助范畴词时。在 *sophismata* 文献中，对疑难句子的讨论通常伴有对支配助范畴词用法的区分的说明。反过来，这样的区分又有助于解释所讨论的句子。
+    step2: |-
+      须认识到，许多诡辩句含有助范畴词，其古怪、歧义或费解正由此而来。这类句子可能难以解释，同一句中出现不止一个助范畴词时尤其如此。在诡辩句文献中，讨论疑难句子通常附有对支配助范畴词用法的诸区分的说明；反过来，这些区分又有助于解释所讨论的句子。
+  - id: 38
+    kind: body
+    source: |-
+      An example of such a distinction is the following. The *sophisma* ‘Only God being God is necessary’ (‘*Tantum deum esse deum est necessarium*’) contains the syncategorematic word ‘only’ (‘*tantum*’). The *sophisma* is solved by making a distinction between two different functions of the word ‘only’, in that the exclusion it makes can pertain to the expression ‘God’, or to the entire phrase ‘God being God’. In the former case the sentence is true, but in the latter it is false (Ebbesen and Goubier 2010, vol. I, p. 122)[^ebbesen-2010]. Another example of a problematic sentence containing the disjunctive expression ‘or’ is the *sophisma* ‘Every proposition or its contradictory opposite is true’. Some authors considered this proposition as true, but others thought it was ambiguous. In one way, the distribution of ‘every’ could be taken as ranging over the disjunction, in which case the proposition reads ‘Any proposition or its contradictory is true’, which is true. In another way, the disjunction could be taken to cover the distribution, in which case the proposition reads ‘Every proposition is true or every contradictory opposite is true’, which is false. A final example of a distinction concerns the *sophisma* ‘The white can be black’ (an awkward translation of the sentence ‘*Album potest esse nigrum*’), which can be taken to mean either ‘The thing that is white can be black’, which is true, or ‘It can be the case that the white thing is black’ (at the same time, that is), which is false. The truth or falsity of the proposition then depends on a scope distinction regarding the expression ‘can be’.
+    step1: |-
+      这种区分的一个例子如下。“只有上帝是上帝是必然的”（“*Tantum deum esse deum est necessarium*”）这一 *sophisma* 含有助范畴词“only”（“*tantum*”，只有）。解决这个 *sophisma* 的办法，是区分“only”一词的两种不同功能：它所作的排除可以针对“上帝”这一表达式，也可以针对“上帝是上帝”整个短语。在前一种情况下句子为真，在后一种情况下则为假（Ebbesen and Goubier 2010, vol. I, p. 122）[^ebbesen-2010]。另一个含有析取表达式“or”（或者）的疑难句例子，是 *sophisma*“每个命题或其矛盾对立面都是真的”。有些作者认为这个命题为真，另一些人则认为它有歧义。一种方式是，“every”的分配范围可被理解为覆盖整个析取，此时该命题读作“任何命题或其矛盾面都是真的”，这是真的。另一种方式是，析取可被理解为覆盖分配，此时该命题读作“每个命题都是真的，或者每个矛盾对立面都是真的”，这是假的。最后一个区分例子涉及 *sophisma*“白的东西可以是黑的”（句子“*Album potest esse nigrum*”的一种笨拙译法），它可以被理解为“那个白的东西可以是黑的”（为真），也可以被理解为“白的东西是黑的，这是可能的”（也就是说，同时为黑，为假）。因此，该命题的真假取决于“can be”（可以是）这一表达式的辖域区分。
+    step2: |-
+      此类区分的一例如下。“只有上帝是上帝是必然的”（“*Tantum deum esse deum est necessarium*”）这一诡辩句含有助范畴词“only”（“*tantum*”，只有）。解答之道，是区分“only”的两种功能：它所作的排除，或针对“上帝”这一表达式，或针对“上帝是上帝”整个短语。前者句真，后者句假（Ebbesen and Goubier 2010, vol. I, p. 122）[^ebbesen-2010]。另一个含析取表达式“or”（或者）的疑难句例子，是诡辩句“每个命题或其矛盾对立面都是真的”。有的作者以之为真，有的则以为有歧义。一种读法是，“every”的分配范围覆盖整个析取，此时命题读作“任一命题或其矛盾面都是真的”，为真。另一种读法是析取覆盖分配，此时命题读作“每个命题都是真的，或者每个矛盾对立面都是真的”，为假。最后一个区分例子涉及诡辩句“白的东西可以是黑的”（对“*Album potest esse nigrum*”一语的生硬译法）：它可解作“那个白的东西可以是黑的”，为真；也可解作“白的东西是黑的，这是可能的”（也就是说，同时为黑），为假。命题的真假，遂取决于“can be”（可以是）这一表达式的辖域区分。
+  - id: 39
+    kind: body
+    source: |-
+      The expression ‘syncategorematic word’ should be taken in a broad sense here; it includes not only classical syncategorematic words such as ‘and’, ‘if’, ‘every’, etc., but also expressions such as ‘infinite’ or ‘whole’, which can be used both categorematically and syncategorematically. Thus, the sentence ‘*Infinita sunt finita*’ (‘The infinite are finite’ — another example of a *sophisma* that cannot be translated into English without disambiguating it) is false if ‘infinite’ is used categorematically, for in that case it reads, ‘Things that are infinite are finite.’ But it is true if ‘infinite’ is used syncategorematically, for in that case it reads, ‘Finite things are infinite in number’ or ‘There are infinitely many finite things’ (See Heytesbury, *Sophismata*, *sophisma* xviii, fol. 130va). This is another example of the kind of distinction that was used to solve the *sophisma*.
+    step1: |-
+      这里的“助范畴词”一语应作广义理解；它不仅包括“and”“if”“every”等经典助范畴词，还包括“infinite”“whole”等既可以作范畴词用、也可以作助范畴词用的表达式。因此，“*Infinita sunt finita*”（“无限者是有限的”——这是又一个不消除歧义便无法译成英语的 *sophisma* 例子）这一句子，若“infinite”作范畴词用，便为假，因为此时它读作“无限的东西是有限的”。但若“infinite”作助范畴词用，它便为真，因为此时它读作“有限的东西在数目上是无限的”或“有无限多个有限的东西”（参见 Heytesbury, *Sophismata*, *sophisma* xviii, fol. 130va）。这是用来解决 *sophisma* 的那类区分的又一个例子。
+    step2: |-
+      此处的“助范畴词”应作广义理解：不仅包括“and”“if”“every”等经典助范畴词，也包括“infinite”“whole”之类既可作范畴词、又可作助范畴词使用的表达式。职是之故，“*Infinita sunt finita*”（“无限者是有限的”——这又是一个不先消除歧义便无法译成英语的诡辩句）若“infinite”作范畴词用，句子便假，因为此时读作“无限的东西是有限的”；若作助范畴词用，句子便真，因为此时读作“有限的东西在数目上是无限的”，或“有无限多个有限的东西”（参见 Heytesbury, *Sophismata*, *sophisma* xviii, fol. 130va）。这又是用于解答诡辩句的那类区分之一例。
+  - id: 40
+    kind: body
+    source: |-
+      Many *sophismata* too are what medieval logicians called ‘exponible sentences’ (‘*exponibilia*’); these are sentences that appear to be simple but actually imply several other sentences into which they can be decomposed. For example, the sentence ‘A differs from B’, was said to be equivalent to ‘A exists and B exists and A is not B’, whereas the sentence ‘A ceases to be white’, was said to be equivalent either to ‘Now A is white and immediately after this A will not be white’ or to ‘Now A is not white and immediately before this A was white’, depending on the theory.
+    step1: |-
+      许多 *sophismata* 也是中世纪逻辑学家所谓的“可展开句”（“*exponibilia*”）；这些句子表面上简单，实际上蕴含另外几个句子，可以被分解为那几个句子。例如，“A 不同于 B”这一句子据说等价于“A 存在，B 存在，且 A 不是 B”；而“A 不再白”这一句子，则依理论不同，据说或等价于“现在 A 是白的，而紧接此后的 A 将不是白的”，或等价于“现在 A 不是白的，而紧接此前的 A 曾是白的”。
+    step2: |-
+      许多诡辩句还属于中世纪逻辑学家所称的“可展开句”（“*exponibilia*”）：表面简单，实则蕴含另外几个句子，并可分解为那几个句子。例如“A 不同于 B”据说等价于“A 存在，B 存在，且 A 不是 B”；“A 不再白”则视理论而定，或等价于“现在 A 是白的，紧接此后 A 将不是白的”，或等价于“现在 A 不是白的，紧接此前 A 曾是白的”。
+  - id: 41
+    kind: body
+    source: |-
+      ### 2.3 The Main Fields in which *Sophismata* are Discussed
+    step1: |-
+      ### 2.3 讨论诡辩句的主要领域
+    step2: |-
+      ### 2.3 讨论诡辩句的主要领域
+  - id: 42
+    kind: body
+    source: |-
+      Discussions of *sophismata* were used to disentangle problems of logic and grammar, but their subject matter included concepts featured in physics and theology as well. While the problems at issue in the *sophismata* are taken to be logico-grammatical, it is possible to distinguish between logical, grammatical and physical *sophismata*. Furthermore, many standard *sophismata* of the thirteenth and fourteenth centuries feature God or the Antichrist, entities that belong to the domain of theology. As Ebbesen points out (1997, p. 151), these entities could play an interesting role in sophismatic discussions because they were considered to have unusual qualities, which could make for intriguing logical puzzles. Yet theological *sophismata* as such are extremely rare.
+    step1: |-
+      对 *sophismata* 的讨论曾被用来理清逻辑与语法的问题，但其主题也包括物理学与神学中所出现的概念。虽然 *sophismata* 中的问题被视为逻辑—语法的问题，我们仍可区分逻辑的、语法的与物理的 *sophismata*。此外，十三、十四世纪许多标准的 *sophismata* 涉及上帝或敌基督，这些存在者属于神学的领域。正如 Ebbesen 所指出的（1997, p. 151），这些存在者在诡辩讨论中可以扮演有趣的角色，因为它们被认为具有非同寻常的属性，从而可能造成引人入胜的逻辑难题。然而，神学 *sophismata* 本身极为罕见。
+    step2: |-
+      讨论诡辩句，本是为了理清逻辑与语法的问题，但其题材也遍及物理学与神学中的概念。尽管诡辩句所涉问题都被当作逻辑—语法问题，我们仍可分出逻辑的、语法的与物理的三类诡辩句。此外，十三、十四世纪许多标准诡辩句都涉及上帝或敌基督，而这类存在者本属神学领域。Ebbesen 指出（1997, p. 151），它们之所以能在诡辩讨论中扮演有趣的角色，是因为其属性被认为超乎寻常，足以酿出耐人寻味的逻辑难题。然而，称得上神学诡辩句的实则极为罕见。
+  - id: 43
+    kind: body
+    source: |-
+      #### 2.3.1 Logical *Sophismata*
+    step1: |-
+      #### 2.3.1 逻辑诡辩句
+    step2: |-
+      #### 2.3.1 逻辑诡辩句
+  - id: 44
+    kind: body
+    source: |-
+      As seen above, logical *sophismata* are closely connected to discussions of syncategoremata. The aim of these discussions is to determine the truth-value of a particular sentence containing (a) syncategorematic word(s), or the truth-value of some other problematic sentence (including, for example, sentences involving self-reference), but also to delve into specific topics exemplified in a *sophisma*, such as:
+    step1: |-
+      如上所见，逻辑 *sophismata* 与关于 *syncategoremata*（助范畴词）的讨论密切相关。这些讨论的目的，是确定某个含有（一个或多个）助范畴词的句子的真值，或确定其他疑难句子的真值（例如涉及自我指涉的句子），同时也是要深入探讨在 *sophisma* 中例示的具体主题，例如：
+    step2: |-
+      如上所见，逻辑诡辩句与助范畴词（*syncategoremata*）的讨论关系密切。这类讨论的目的，一是判定含有一个或多个助范畴词的句子、以及其他疑难句子（例如涉及自我指涉的句子）的真值，二是深入探讨诡辩句所例示的具体主题，诸如：
+  - id: 45
+    kind: body
+    source: |-
+      - the syntactic and semantic properties of terms (including the difference between what a term signifies, and what it stands for) in sentences such as ‘Every man sees every man’, ‘You are a donkey’, and ‘I promise you a horse’; we could compare these kinds of discussions to modern discussions of sentences such as ‘The morning star is the evening star’;
+      - quantification and existential import, as in the sentence ‘Every phoenix is’;
+      - the logic of negation and “infinite” words, as in the sentences, ‘Nothing and a chimaera are brothers’, ‘Nothing is nothing’, and ‘If nothing is, something is’;
+      - the problem of universals, as in ‘Man is a species’ and ‘Man is of necessity an animal’;
+      - the composite and divided senses of a sentence and the scope of modal operators, as in ‘The white can be black’ and ‘Every man is of necessity an animal’, etc.;
+      - the truth conditions of a *dictum*, as in ‘You know whether of the one who is lying it is false that Socrates is he’;
+      - scope distinctions in negations, as in ‘No one running you are a donkey’;
+      - scope distinctions in a conditional containing a distributive sign (quantifier), as in ‘Nothing true if Socrates is running is antecedent to Plato running’;
+      - the truth value of conditional sentences containing an impossible antecedent, such as ‘If you know you are a stone, you do not know you are a stone’;
+      - the nature of necessity and possibility, as in sentences such as ‘The soul of the Antichrist of necessity will be’, ‘Every grammarian is of necessity a man’, and ‘It is possible that every man is an animal’, etc.
+    step1: |-
+      - 词项的句法与语义属性（包括一个词项所意谓的东西与它所代表的东西之间的区别），见于“每个人看见每个人”“你是一头驴”“我许诺给你一匹马”等句子；我们可以把这类讨论比作现代关于“晨星是昏星”一类句子的讨论；
+      - 量化与存在蕴含，见于“每只凤凰都存在”这一句子；
+      - 否定与“无限”词的逻辑，见于“无与喀迈拉是兄弟”“无就是无”“如果无存在，则有某物存在”等句子；
+      - 共相问题，见于“人是种”与“人必然地是动物”；
+      - 句子的组合意义与区分意义以及模态算子的辖域，见于“白的东西可以是黑的”与“每个人必然地是动物”等；
+      - *dictum*（所述）的真值条件，见于“你知道，对于那个说谎的人来说，‘苏格拉底是他’是否为假”；
+      - 否定中的辖域区分，见于“无人奔跑时你是一头驴”；
+      - 含分配符号（量词）的条件句中的辖域区分，见于“若苏格拉底在跑，则没有真命题以柏拉图在跑为前件”；
+      - 含不可能前件的条件句的真值，见于“如果你知道你是石头，你就不知道你是石头”；
+      - 必然性与可能性的本性，见于“敌基督的灵魂必然存在”“每个语法学家必然地是人”“每个人都是动物，这是可能的”等句子。
+    step2: |-
+      - 词项的句法与语义属性，包括“意谓”与“指代”之别，见于“每个人看见每个人”“你是一头驴”“我许诺给你一匹马”等句；此类讨论可比作现代关于“晨星是昏星”一类句子的讨论；
+      - 量化与存在蕴含，见于“每只凤凰都存在”；
+      - 否定与“无限”词的逻辑，见于“无与喀迈拉是兄弟”“无就是无”“如果无存在，则有某物存在”；
+      - 共相问题，见于“人是种”“人必然地是动物”；
+      - 句子的组合义与区分义、模态算子的辖域，见于“白的东西可以是黑的”“每个人必然地是动物”；
+      - *dictum*（所述）的真值条件，见于“你知道，就那个说谎者而言，‘苏格拉底是他’是否为假”；
+      - 否定式的辖域区分，见于“无人奔跑时你是一头驴”；
+      - 含分配符号（量词）的条件句的辖域区分，见于“若苏格拉底在跑，则没有真命题以柏拉图在跑为前件”；
+      - 含不可能前件的条件句的真值，见于“如果你知道你是石头，你就不知道你是石头”；
+      - 必然与可能的本性，见于“敌基督的灵魂必然存在”“每个语法学家必然地是人”“每个人都是动物，这是可能的”。
+  - id: 46
+    kind: body
+    source: |-
+      #### 2.3.2 Physical *Sophismata*
+    step1: |-
+      #### 2.3.2 物理诡辩句
+    step2: |-
+      #### 2.3.2 物理诡辩句
+  - id: 47
+    kind: body
+    source: |-
+      The aim here is to discuss concepts featuring in physics, such as motion, change, velocity, intension and remission of forms, maxima and minima, time, etc. Examples of *sophismata* in this domain are sentences containing the syncategoremata ‘begins’ and ‘ceases’, e.g., ‘Socrates ceases to be not ceasing to be’, ‘Nothing is true except in this instant’, and ‘What begins to be ceases to be’. But, as seen above with the *sophisma* ‘The infinite are finite’, problems like these are treated as logical and conceptual problems. This logico-semantical approach to physical problems is characteristic of medieval natural philosophy and should be kept in mind when we wonder to what extent medieval physics can be considered a precursor to modern physics.
+    step1: |-
+      这里的目的是讨论物理学中出现的概念，如运动、变化、速度、形式的强度与减弱、极大与极小、时间等。这一领域的 *sophismata* 例子是含有助范畴词“begins”（开始）与“ceases”（停止）的句子，例如“苏格拉底停止成为不在停止的”“除非在这一瞬间，没有东西是真的”“开始存在者停止存在”。但是，正如上面 *sophisma*“无限者是有限的”所示，这类问题被当作逻辑问题和概念问题来处理。这种对物理问题的逻辑—语义进路是中世纪自然哲学的特征；当我们追问中世纪物理能在多大程度上被视为现代物理的先驱时，应当记住这一点。
+    step2: |-
+      此类诡辩句要讨论的是物理学中的概念，如运动、变化、速度、形式的增强与减弱、极大与极小、时间等。其实例如含助范畴词“begins”（开始）与“ceases”（停止）的句子：“苏格拉底停止成为非停止者”“除在这一瞬间外没有东西为真”“开始存在者即停止存在”。但如上文的“无限者是有限的一例所示，这类问题都被当作逻辑问题与概念问题来处理。以逻辑—语义进路对待物理问题，是中世纪自然哲学的特色；追问中世纪物理在多大程度上可算现代物理的先驱时，这一点须臾不可忘记。
+  - id: 48
+    kind: body
+    source: |-
+      With respect to so-called ‘physical *sophismata*,’ special attention should be paid to certain fourteenth-century English authors known as the “Oxford Calculators”, e.g., Richard Kilvington, William Heytesbury, Thomas Bradwardine, Richard and Roger Swineshead. These philosophers developed a distinctively “English-style” of *sophismata.* Based on the theological doctrine of the absolute power of God, the distinction between what is physically possible and what is logically possible (where non-contradiction is the only limit) allowed these authors to devise imaginary thought experiments. For example, suppose that A is a distance to be traversed which Socrates cannot traverse, and that his power is increased until Socrates can traverse distance A completely, and that Socrates’ power is not increased further: is the *sophisma* ‘Socrates will begin to be able to traverse distance A’ true or false? (Richard Kilvington, *Sophismata*, *sophisma* 27, in Kretzmann 1990, p .60). Thought experiments such as these led these authors to develop, among other things, a theorem for uniformly accelerated motion (e.g., Thomas Bradwardine’s Mean Speed Theorem).
+    step1: |-
+      关于所谓“物理 *sophismata*”，应特别注意十四世纪一批被称为“牛津计算者”的英国作者，如理查德·基尔文顿、威廉·海特斯伯里、托马斯·布拉德沃丁、理查德与罗杰·斯温斯海德。这些哲学家发展出一种独特的“英式” *sophismata*。基于上帝绝对力量的神学教义，物理上可能的东西与逻辑上可能的东西之间的区分（后者以不矛盾为唯一限制），使这些作者得以设计想象中的思想实验。例如，假设 A 是苏格拉底不能走完的一段距离，而他的能力不断增加，直到苏格拉底能够完全走完距离 A，且苏格拉底的能力不再进一步增加：那么 *sophisma*“苏格拉底将开始能够走完距离 A”为真还是为假？（Richard Kilvington, *Sophismata*, *sophisma* 27, in Kretzmann 1990, p. 60）。正是这类思想实验使这些作者发展出一项匀加速运动定理（例如托马斯·布拉德沃丁的平均速度定理）等成果。
+    step2: |-
+      论及所谓“物理诡辩句”，十四世纪一批英国作者尤须注意，他们被称作“牛津计算者”，如理查德·基尔文顿、威廉·海特斯伯里、托马斯·布拉德沃丁，以及理查德与罗杰两位斯温斯海德。这些哲学家别开生面，发展出独特的“英式”诡辩句。依据上帝绝对力量这一神学教义，物理可能者与逻辑可能者判然有别（后者唯以不矛盾为限），作者遂得以设计虚构的思想实验。例如：设 A 为苏格拉底无力走完的一段距离，其能力渐增，直至足以走完全程 A，且不再更增——那么“苏格拉底将开始能够走完距离 A”这一诡辩句为真为假？（Richard Kilvington, *Sophismata*, *sophisma* 27, in Kretzmann 1990, p. 60）正是这类思想实验，使此辈作者于诸般成果之外，还提出了匀加速运动定理（如托马斯·布拉德沃丁的平均速度定理）。
+  - id: 49
+    kind: body
+    source: |-
+      #### 2.3.3 Grammatical *Sophismata*
+    step1: |-
+      #### 2.3.3 语法诡辩句
+    step2: |-
+      #### 2.3.3 语法诡辩句
+  - id: 50
+    kind: body
+    source: |-
+      In the Middle Ages the label ‘grammatical *sophismata*’ was used for the *sophismata* that dealt with grammatical well-formedness (*congruitas*) and grammatico-semantic completeness. *Sophismata* such as ‘Love is a verb’, ‘O Master’, ‘It rueth me’, and ‘I run’ gave rise to very pointed discussions concerning grammatical categories and theories. For example, does a change in word order change the meaning of a proposition? Can a participle be a subject? How should we interpret interjections? Can ‘*est*’ (‘is’) be used impersonally?
+    step1: |-
+      在中世纪，“语法 *sophismata*”这一标签用于处理语法合式性（*congruitas*）与语法—语义完整性那些 *sophismata*。诸如“爱是动词”“哦，老师”“It rueth me”（我懊悔）与“我跑”之类的 *sophismata*，引发了关于语法范畴与语法规则的切要讨论。例如：词序的改变是否改变命题的意义？分词能否作主语？感叹词应如何解释？“*est*”（是）能否无人称地使用？
+    step2: |-
+      中世纪所谓“语法诡辩句”，专指涉及合语法性（*congruitas*）与语法—语义完整性的那一类。“爱是动词”“哦，老师”“It rueth me”（我懊悔）“我跑”等诡辩句，引发了关于语法范畴与语法规则的切要讨论：词序一变，命题的意义是否随之而变？分词可否作主语？感叹词当如何解释？“*est*”（是）能否无人称地使用？
+  - id: 51
+    kind: body
+    source: |-
+      Kneepkens (2015) has drawn our attention to a remarkable collection of *sophismata*, of French or English origin, presumably dating from early thirteenth century, which exclusively discusses problematic sentences taken from biblical, liturgical, and other religious sources. This collection has the characteristics of grammatical *sophismata*, but in addition focuses on metaphorical features of religious language, as well as making use of rhetoric as an analytical tool (Kneepkens 2015, p. 320)[^kneepkens-2015].
+    step1: |-
+      Kneepkens（2015）让我们注意到一批值得注意的 *sophismata*，或出自法国、或出自英国，推测属于十三世纪早期，专门讨论取自圣经、礼仪及其他宗教来源的疑难句子。这一合集具有语法 *sophismata* 的特征，此外还关注宗教语言的隐喻特征，并运用修辞作为分析工具（Kneepkens 2015, p. 320）[^kneepkens-2015]。
+    step2: |-
+      Kneepkens（2015）让我们注意到一批特殊的诡辩句集：或出法国，或出英国，推定作于十三世纪前期，专论取自圣经、礼仪与其他宗教来源的疑难句子。该合集兼具语法诡辩句的特征，又格外留意宗教语言的隐喻用法，并以修辞为分析工具（Kneepkens 2015, p. 320）[^kneepkens-2015]。
+  - id: 52
+    kind: body
+    source: |-
+      #### 2.3.4 Theological *Sophismata*
+    step1: |-
+      #### 2.3.4 神学诡辩句
+    step2: |-
+      #### 2.3.4 神学诡辩句
+  - id: 53
+    kind: body
+    source: |-
+      Ebbesen has identified one *sophisma* that deserves the label ‘theological’ (in the sense, that is, of an “exception to the general rule that the *sophism* is not a theological genre” (Ebbesen 1997, pp. 151–152)[^ebbesen-1997][^ebbesen-1997-2]. The *sophisma* in question runs ‘*Deus est eodem modo in dyabolo sicud fuit in beata virgine*’(‘God is in the same way in the devil as he was in the Blessed Virgin’). The reason why this could count as a theological *sophisma* is that the question that is raised in it, about how God is present in creatures, is theological in nature. Another theological *sophisma* investigated by Ebbesen is the sentence, ‘*Deus scit quicquid scivit*’ (‘God knows whatever he has known’), which was widely discussed in the standard *sophismata* literature. The sentence elicits questions pertaining not only to the logical behaviour of the verb ‘*scire*’ (‘to know’), but also to the specifically theological issue of the object of God’s knowledge (Ebbesen 1997, p. 154ff.)[^ebbesen-1997][^ebbesen-1997-2].
+    step1: |-
+      Ebbesen 认定一个配得上“神学”标签的 *sophisma*（就其是“总规则‘*sophism* 不是一种神学文类’的例外”而言）（Ebbesen 1997, pp. 151–152）[^ebbesen-1997][^ebbesen-1997-2]。所讨论的 *sophisma* 作“*Deus est eodem modo in dyabolo sicud fuit in beata virgine*”（“上帝以与他在童贞女马利亚中相同的方式在魔鬼中”）。它之所以可算作神学 *sophisma*，是因为其中提出的问题——上帝如何临在于受造物中——性质上属于神学。Ebbesen 考察的另一个神学 *sophisma* 是句子“*Deus scit quicquid scivit*”（“上帝知道他所知道的一切”），它在标准 *sophismata* 文献中被广泛讨论。这个句子引出的问题，不仅涉及动词“*scire*”（知道）的逻辑行为，还涉及上帝知识的对象这一特有的神学议题（Ebbesen 1997, p. 154ff.）[^ebbesen-1997][^ebbesen-1997-2]。
+    step2: |-
+      Ebbesen 指认出一个堪称“神学”的诡辩句，视之为“诡辩句非神学文类”这一通则的例外（Ebbesen 1997, pp. 151–152）[^ebbesen-1997][^ebbesen-1997-2]。其文为“*Deus est eodem modo in dyabolo sicud fuit in beata virgine*”（“上帝在魔鬼中，与祂昔日在童贞马利亚中一般无二”）。它所以可算神学诡辩句，是因为其中所提的问题——上帝如何临在于受造物——本属神学性质。Ebbesen 考察的另一例是“*Deus scit quicquid scivit*”（“上帝知祂所知的一切”），在标准诡辩句集中广为讨论。此句牵出的问题，既有动词“*scire*”（知道）的逻辑行为，也有上帝知识的对象这一神学专有的议题（Ebbesen 1997, p. 154ff.）[^ebbesen-1997][^ebbesen-1997-2]。
+  - id: 54
+    kind: body
+    source: |-
+      ## 3. The Various Roles of *Sophismata*
+    step1: |-
+      ## 3 诡辩句的多种作用
+    step2: |-
+      ## 3 诡辩句的多种作用
+  - id: 55
+    kind: body
+    source: |-
+      The first and most evident role of *sophismata* is pedagogical. In theoretical treatises, *sophismata* can play various roles. They can be used to explain a given statement or rule, illustrate a distinction or an ambiguity, show what would follow if a rule were violated, or test the limits of a theory.
+    step1: |-
+      诡辩句的第一个、也是最明显的作用是教学作用。在理论论著中，*sophismata* 可以扮演多种角色。它们可以用来解释某个陈述或规则，例示某个区分或歧义，表明违反某条规则会导致什么，或检验某个理论的限度。
+    step2: |-
+      诡辩句的首要作用、也是最一目了然的作用，是教学作用。在理论论著中，诡辩句可充当多重角色：解释某一定说或规则，例示某种区分或歧义，显示违反规则将有何种后果，或检验某一理论的限度。
+  - id: 56
+    kind: body
+    source: |-
+      In addition, although some differences can be identified between the Paris and the Oxford traditions, *sophismata* are important as oral exercises (disputations) in a student’s training in philosophy, especially in the first years of universitary education in the Faculty of Arts. Nevertheless, it is clear that, while Heytesbury’s *Rules for Solving Sophismata* is written for undergraduate students — at Oxford ‘*sophista*’ was the official name given to students who had disputed “on *sophismata*” (“*de sophismatibus*”) for about two years — this is probably not the case for his *Sophismata*, in which the discussions are much more complicated.
+    step1: |-
+      此外，尽管可以在巴黎传统与牛津传统之间辨识出某些差异，*sophismata* 作为学生哲学训练中的口头练习（辩论）仍然重要，尤其是在文学院大学教育的最初几年。然而清楚的是，虽然海特斯伯里的《解决诡辩句的规则》（*Rules for Solving Sophismata*）是为本科生写的——在牛津，“*sophista*”是官方名称，授予那些就“诡辩句”（“*de sophismatibus*”）辩论了约两年的学生——但他的《诡辩句集》（*Sophismata*）大概并非如此，其中的讨论要复杂得多。
+    step2: |-
+      再者，尽管巴黎传统与牛津传统之间存在可辨的差异，诡辩句作为口头训练（辩论）在学生哲学教育中始终吃重，文学院头几年的大学教育尤甚。不过有一点很清楚：海特斯伯里的《解决诡辩句的规则》（*Rules for Solving Sophismata*）确是为本科生而作——在牛津，“*sophista*”是个官方名号，授予就“诡辩句”（“*de sophismatibus*”）辩论约两年的学生——而他的《诡辩句集》（*Sophismata*）恐怕不然，其中的讨论远为繁复。
+  - id: 57
+    kind: body
+    source: |-
+      It is no exaggeration to say that the study of *sophismata* in the Faculty of Arts was as important as biblical exegesis in the Faculty of Theology.
+    step1: |-
+      毫不夸张地说，在文学院中对 *sophismata* 的研究，其重要性不亚于神学院中对圣经的解经。
+    step2: |-
+      毫不夸张地说，文学院研读诡辩句，其分量不亚于神学院的圣经解经。
+  - id: 58
+    kind: body
+    source: |-
+      ## 4. *Sophismata* Literature
+    step1: |-
+      ## 4 诡辩句文献
+    step2: |-
+      ## 4 诡辩句文献
+  - id: 59
+    kind: body
+    source: |-
+      In the Introduction of the *Catalogue* (Ebbesen and Goubier 2010, vol. I)[^ebbesen-2010], we find an elaborate description of the medieval genre of *sophismata.* This genre was based on disputational practices in medieval universities. In its most basic form, it included the discussion of a problematic proposition, beginning with the presentation of the proposition, followed by a proof, a disproof, and a solution, sometimes accompanied by a response to the opposing arguments (see our section 2.2). The joint discsussion of these steps was known as *corpus sophismatis*. A respondent’s solution to the *sophisma* could be followed by an attack, leading to yet another exchange of arguments. In other instances the discussion of the *sophisma* could continue with a discussion of related problems, the first of which was often dealt with in an elaborate way. These kinds of *sophismata* are quite long.
+    step1: |-
+      在《目录》（*Catalogue*，Ebbesen and Goubier 2010, vol. I）[^ebbesen-2010] 的导言中，我们可看到对中世纪 *sophismata* 文类的详尽描述。这一文类建立在中世纪大学的辩论实践之上。在最基本的形态中，它包括对一个疑难命题的讨论，从呈现该命题开始，继之以一个证明、一个反证和一个解决，有时还附有对相反论证的回应（见我们的第 2.2 节）。这些步骤的合并讨论被称为 *corpus sophismatis*（诡辩句主体）。答辩者对 *sophisma* 的解答之后可能有攻击，导致又一轮论证交锋。在其他情况下，对 *sophisma* 的讨论可以继续讨论相关问题，其中第一个问题往往以详尽的方式处理。这类 *sophismata* 相当长。
+    step2: |-
+      《目录》（*Catalogue*，Ebbesen and Goubier 2010, vol. I）[^ebbesen-2010] 的导言对诡辩句这一中世纪文类作了缜密描述。该文类植根于中世纪大学的辩论实践。其最朴素的形态，是从呈现一个疑难命题起手的讨论，随后依次为证明、反证、解答，有时还附对相反论证的回应（参见本文第 2.2 节）。数步合观，即所谓 *corpus sophismatis*（诡辩句正文）。答辩者的解答之后往往有质难相继，再掀一轮论证交锋；有时对诡辩句的讨论还会延展到相关问题，且首个问题每每详加剖判。这类诡辩句篇幅颇长。
+  - id: 60
+    kind: body
+    source: |-
+      *Sophismata* are found in a variety of texts, which scholars have categorized into different kinds. *Abstractiones* treatises are collections of *sophismata* arranged by a type of syncategorematic word (e.g., exceptive words, exclusive words, conditional words, disjunctive words, and so on), or sometimes by the distinction that is used to solve them. The material covered in each *sophisma* is mostly confined to a *corpus*. *Syncategoremata* are treatises devoted to syncategorematic words; in these treatises *sophismata* are used to illustrate or to give more refined explanations of the logical behaviour of the different syncategorematic words (or kinds of syncategorematic words). In *Distinctiones* treatises, the starting points are distinctions or logical rules connected with sentences that contain a syncategorematic word. The material in these treatises is usually organized around the type of syncategorematic word at issue. Besides these different kinds of treatises (the boundaries of which, however, are not very clear), we also find collections of *sophismata* that seem to be (fictional or faithful) reports of oral disputations. These collections can contain grammatical *sophismata*, but the latter are also found in separate, rather loosely-organized, treatises. *Sophismata* also play an important role in general manuals of logic, and in other works — often written by the same authors, or by different authors working in the same milieu as the former collections — with titles such as *On Exponibles*, *On Consequences*, *Sophistry*, etc.
+    step1: |-
+      *Sophismata* 见于各种文本，学者已将其分为不同类型。*Abstractiones*（抽象集）论著是按某一类助范畴词（例如除外词、排除词、条件词、析取词等）编排的 *sophismata* 合集，有时也按用于解决它们的区分来编排。每个 *sophisma* 所涉及的材料大多限于一个 *corpus*。*Syncategoremata*（助范畴词论）是专门讨论助范畴词的论著；在这些论著中，*sophismata* 用于例示或更精细地解释不同助范畴词（或各类助范畴词）的逻辑行为。在 *Distinctiones*（区分集）论著中，出发点是与会含助范畴词的句子相关的区分或逻辑规则。这些论著中的材料通常围绕所讨论的助范畴词类型组织。除这些不同类型的论著（然而其界限并不十分清楚）外，我们还见到似乎是口头辩论的（虚构或忠实的）记录性质的 *sophismata* 合集。这些合集可含语法 *sophismata*，但后者也见于各自独立、组织较为松散的论著。*Sophismata* 在一般逻辑手册以及别的一些著作中也扮演重要角色——这些著作往往出自同一批作者，或出自与前一类合集同一环境中的不同作者——其标题如《论可展开句》（*On Exponibles*）、《论后承》（*On Consequences*）、《诡辩论》（*Sophistry*）等。
+    step2: |-
+      诡辩句散见于各类文本，学者已将其分门别类。*Abstractiones*（抽象集）是按某类助范畴词（除外词、排除词、条件词、析取词云云）编排的诡辩句汇编，有时也按解答所用的区分编排，每一诡辩句所涉材料大多限于一个 *corpus* 之内。*Syncategoremata*（助范畴词论）专论助范畴词，其中诡辩句用以例示、或更细密地阐明各类助范畴词的逻辑行为。*Distinctiones*（区分集）则以含助范畴词的句子所牵涉的区分或逻辑规则为出发点，材料通常围绕所论助范畴词的类型组织。除上述诸类论著（其界域却颇模糊）外，另有一种诡辩句汇编，看似口头辩论的记录，或出虚构，或近实录。此类汇编可收语法诡辩句，而语法诡辩句亦另见于体例松散的单行论著。诡辩句在通行的逻辑手册及若干别种著作中同样吃重——后者往往出自同一批作者，或出自与前一类汇编同气相求的作者之手，其名如 *On Exponibles*（论可展开句）、*On Consequences*（论后承）、*Sophistry*（诡辩论）等。
+  - id: 61
+    kind: body
+    source: |-
+      Even if there are technical distinctions among these types of treatises, all of them play the same roles mentioned above: they provide students with logical skills that can be applied to any subject whatsoever.
+    step1: |-
+      即使在这些论著类型之间存在技术性的区分，它们全都扮演上文提到的相同角色：它们为学生提供可应用于任何学科的逻辑技能。
+    step2: |-
+      纵有体用上的技术分别，这些论著发挥的作用却一仍上文所述：为学生养成一套可施于任何学科的逻辑功夫。
+  - id: 62
+    kind: oir
+    source: |-
+      - William Heytesbury: *Sophismata* (working text of the Latin):
+      - [Part 1](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W_Heytesbury_Sophismata_Part1.pdf)
+      - [Part 2](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W_Heytesbury_Sophismata_Part2.pdf) transcribed by Fabienne Pironet.
+      - William Heytesbury and Robert Alyngton: Tractatus *Juxta hunc textum*
+      - [Introduction](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Juxta_Introduction.pdf) (PDF) (in French) by Fabienne Pironet
+      - [Juxta hunc textum](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Heytesbury.pdf) (PDF) (Heytesbury)
+      - [Juxta hunc textum](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Alyngton_mss.pdf) (PDF) (Alyngton)
+      - [Paul Spade’s Mediaeval Logic and Philosophy page site.](http://pvspade.com/Logic/)
+    step1: |-
+      - 威廉·海特斯伯里：*Sophismata*（拉丁文工作文本）：
+      - [第 1 部分](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W_Heytesbury_Sophismata_Part1.pdf)
+      - [第 2 部分](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W_Heytesbury_Sophismata_Part2.pdf)，由 Fabienne Pironet 转录。
+      - 威廉·海特斯伯里与 Robert Alyngton：Tractatus *Juxta hunc textum*
+      - [导言](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Juxta_Introduction.pdf)（PDF）（法文），Fabienne Pironet 撰
+      - [*Juxta hunc textum*](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Heytesbury.pdf)（PDF）（海特斯伯里）
+      - [*Juxta hunc textum*](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Alyngton_mss.pdf)（PDF）（Alyngton）
+      - [Paul Spade 的中世纪逻辑与哲学网站](http://pvspade.com/Logic/)。
+    step2: |-
+      - 威廉·海特斯伯里：*Sophismata*（拉丁文工作文本）：
+      - [第 1 部分](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W_Heytesbury_Sophismata_Part1.pdf)
+      - [第 2 部分](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W_Heytesbury_Sophismata_Part2.pdf)，由 Fabienne Pironet 转录。
+      - 威廉·海特斯伯里与 Robert Alyngton：Tractatus *Juxta hunc textum*
+      - [导言](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Juxta_Introduction.pdf)（PDF，法文），Fabienne Pironet 撰
+      - [*Juxta hunc textum*](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Heytesbury.pdf)（PDF）（海特斯伯里）
+      - [*Juxta hunc textum*](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Juxta/Alyngton_mss.pdf)（PDF）（Alyngton）
+      - [Paul Spade 的中世纪逻辑与哲学网站](http://pvspade.com/Logic/)。

@@ -1568,3 +1568,15 @@
 | corpus sophismatis | corpus sophismatis | 诡辩句正文 | 首现（sophismata） | 学界惯例（保留拉丁原词，首现括注）；凭证 2026-11-07 | 2026-11-07 |
 | mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
 | intension and remission of forms | intensio et remissio formarum | 形式的增强与减弱 | 首现（sophismata） | 学界惯例（中世纪自然哲学）；凭证 2026-11-07 | 2026-11-07 |
+| distribution | — | 分配 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| distributive sign | — | 分配符号 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| existential import | — | 存在蕴含 | 首现（sophismata） | 学界惯例（逻辑学通行；亦作“存在含义”备查）；凭证 2026-11-07 | 2026-11-07 |
+| exponible (exponibile) | exponibilia | 可展开句 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| congrutias | congrutias | 合语法性 | 首现（sophismata） | 学界惯例（中世纪语法研究保留拉丁原词）；凭证 2026-11-07 | 2026-11-07 |
+| copulative | — | 合取句 | 首现（sophismata） | 学界惯例（中世纪逻辑；现代术语为合取式）；凭证 2026-11-07 | 2026-11-07 |
+| exceptive word | — | 除外词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| exclusive word | — | 排除词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| personal supposition | suppositio personalis | 人称指代 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| corpus sophismatis | corpus sophismatis | 诡辩句正文 | 首现（sophismata） | 学界惯例（保留拉丁原词，首现括注）；凭证 2026-11-07 | 2026-11-07 |
+| mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
+| intension and remission of forms | intensio et remissio formarum | 形式的增强与减弱 | 首现（sophismata） | 学界惯例（中世纪自然哲学）；凭证 2026-11-07 | 2026-11-07 |

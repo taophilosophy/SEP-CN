@@ -1307,3 +1307,8 @@
 | Richard Swineshead | Richard Swineshead | 理查德·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Roger Swineshead | Roger Swineshead | 罗杰·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Robert Alyngton | Robert Alyngton | 保留英文（无通行汉名） | sophismata | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Rabelais | Rabelais | 拉伯雷 | sophismata | 学界通行汉译（法国文艺复兴作家）；凭证 2026-11-07 | 2026-11-07 |
+| Thomas Bradwardine | Thomas Bradwardine | 托马斯·布拉德沃丁 | sophismata | 学界通行汉译（牛津计算者，物理与神学家）；凭证 2026-11-07 | 2026-11-07 |
+| Richard Swineshead | Richard Swineshead | 理查德·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Roger Swineshead | Roger Swineshead | 罗杰·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Robert Alyngton | Robert Alyngton | 保留英文（无通行汉名） | sophismata | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
