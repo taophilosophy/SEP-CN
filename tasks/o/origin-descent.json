@@ -2,7 +2,7 @@
   "slug": "origin-descent",
   "kind": "retranslate",
   "zh_doc": "o/origin-descent.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "direction",
@@ -45,6 +45,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T22:31:39Z",
       "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue；markdownlint-cli2 0 issue；check_academic --strict 0 硬错误（结构类检查通过：20 标题与源集合全等）；check_math 0 缺失/0 失衡；check_terms 定点 0 缺译、硬错误 0（词汇表 Alain Locke 滞后项已在 draft 轮修弱势方对齐）；引号全中文弯引号、中西文空格与 ** 间距合规、无 HTML（手稿标记 <prin>/<dif> 已改全角尖括号）、无裸 text 围栏；H1 与 SUMMARY、版本行与 baseline 版本钉（2019-06-17 首发 / 2024-03-13 实质修订）一致。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T22:36:21Z",
+      "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：123 段逐段回读 yuanwen 镜像。核对项：①结构——H1 + 导语 + 5 编号节/11 小节 + References（引用注释）+ 学术工具 + 其他网络资源 + 相关词条 + 致谢，20 标题与源页逐项对应（源 ### Acknowledgments 归一为 ## 致谢）；②数字/年代/页码——s1 数字比对 41 处差异复核为形态类，无漂移；③脚注键——lq check HARD=0，127 引用键闭环，46 孤立定义为现制形态；④图片——yuanwen/assets/origin-descent/treediagram.png 在位，zh 侧 ../yuanwen/assets/ 路径正确，alt 文本已译，图注残缺括号（源 line 118 “(*Origin* 1859:“Appendix”.”缺右括号）按零信任照录留痕；⑤引块 4 处（Nature 1842/1844/1856、Owen 1882 悼词）与源逐句对照，手稿标记 <<…>>/〈prin〉/〈dif〉/［原文如此］保留；⑥书名斜体改《》共 24 处（* 计数软标旗逐条属计划内）；⑦术语复核——进化/惠威尔/转型论/均变论/归纳的一致/泛生论/微芽/用进废退 等全稿一致。发现 0 Critical；2 处 Minor 已在前轮处理（漏段 51 补译、<prin>/<dif> 标记改全角）。复核独立性：r2 走冷置（间隔期间推进 o 批下一件 oakeshott 立项与初译）。"
     }
   ],
   "blockers": [],
