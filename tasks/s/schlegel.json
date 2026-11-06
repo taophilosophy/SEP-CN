@@ -2,7 +2,7 @@
   "slug": "schlegel",
   "kind": "retranslate",
   "zh_doc": "s/schlegel.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "SZ-main-20261107",
       "at": "2026-11-06T23:14:09Z",
       "evidence": "三校：check_style --strict 0 issue；check_math 0 缺失/0 失衡；check_academic --strict 绿（在途豁免 1）；check_summary HARD=0。术语登记 19 行（德国观念论/先验哲学/浪漫主义/反讽/机智/寓言/断片/渐进的总汇诗/第一原理/交替证明/原理批判等），人名 32 行（施莱格尔家族/卡罗琳/多萝特娅/诺瓦利斯/蒂克/瓦肯罗德/赫茨/莱温/雅可比/福斯特/莱辛/尚福尔/帕斯卡/拉罗什富科/本雅明/梅特涅/温克尔曼/莱因霍尔德/尼特哈默尔/迪茨/埃尔哈德/福尔贝格/布朗肖/松迪/博伊瑟雷兄弟）；中文强调斜体→粗体 2 行。check_terms 本词条行硬错误 0（工具报 3 条均为他会话在途登记：Diodorus Cronus 冲突、Megaric School 与 Sedley 重复行，非本方引入）。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:21:48Z",
+      "evidence": "初审对照 yuanwen 回读：6 节结构对位（生平/浪漫转向/诗学美学/哲学学徒期/伦理社会政治/后期生命历史宗教）+ 参考文献英译表 + OIR + 相关词条；论证链无偏移（古典主义→浪漫转向→个体理想标准→断片/反讽/寓言→观念论批判→伦理政治→后期转向）；实修 1 处——段29 补 Wissenschaftslehre 括注（即“科学知识理论”）；年表与引文 8 处复核；相关词条 9 条按 SUMMARY 定名核对（诺瓦利斯全名行保留）；无 Critical/Major。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:26:02Z",
+      "evidence": "复审逐句回核（冷置：r1 后穿插 PROGRESS 重生成与 check_all 全门禁，再回读，ADR-0020）：实修 2 处——段36 majesty 尊严→威严、布朗肖引文 exaltation of the bourgeoisie 改译“为资产阶级张目”（原译“为资产者的亢奋添砖加瓦”语义倒错）。逻辑回核：古典主义→浪漫转向（116/206 断片）→个体理想标准（雅可比/福斯特/莱辛三评、威廉·迈斯特）→断片/寓言/机智/反讽→观念论批判（Wechselerweis/从中间开始）→伦理政治（1794 美的界限/1797 共和主义文稿）→后期保守转向（1820 时代的签名）链条与源一致；年表与页码全对；无 Critical/Major。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:26:03Z",
+      "evidence": "终审验收：check_all 七项全绿；定点五检——style 0、math 0 缺失 0 失衡、academic --strict 无硬错误、summary HARD=0、prose 1（《雅典娜神庙断片》116 直引长句，按 ADR-0020 豁免留痕）；check_terms 本方行无冲突。冷置程序完整。CI 以推送后为最终裁判（用户未令 push）。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:26:03Z",
+      "evidence": "done：s/schlegel.md 终稿 22.5k 字符，账本 43 段入库，十步全录；术语 19 行/人名 32 行登记；四检全绿（prose 1 豁免）。"
     }
   ],
   "blockers": [],
