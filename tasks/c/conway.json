@@ -2,7 +2,7 @@
   "slug": "conway",
   "kind": "retranslate",
   "zh_doc": "c/conway.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,34 @@
       "actor": "CD-main-20261106",
       "at": "2026-11-06T14:28:28Z",
       "evidence": "对账纠正（CD-main-20261106）：尾节 `## Academic Tools`/`## Other Internet Resources` 两标题漏汉化（全库唯一残留；011 批次41 已记），改为 `## 学术工具`/`## 其他网络资源`；defs 49:49、marker 11:11 全等，check_academic/check_style --strict 双绿"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T23:50:29Z",
+      "evidence": "全文回读对照 yuanwen 逐段实修 33 处：①标题嵌套半角括号（*Principia…* (The Principles…)）改全角并标语种；②人名对登记册——卡德沃思→库德沃斯（Ralph Cudworth）、范·海尔蒙特→范·赫尔蒙特（含父名让·巴普蒂斯塔）、默库里→墨丘里，删亨利·莫尔重复括注；③英文小节标题残留（全库对账曾记 conway 尾节英文残留）——### Primary Sources/### Secondary Sources → 原始文献（Primary Sources）/二手文献（Secondary Sources）；④语义与句序 8 处（复合结构补全“后者又由无限受造物复合而成”、volatile 灵动、captain spirit 统摄精神、匿名性被字句拆解、教学经典句重建）；⑤欧化/存在句 16 处（prose 16→3，余 3 条为术语性“的”链，逐条留痕：统一体/惰性广延/向善能力）；人名登记 4 行（赫尼奇·芬奇/约翰·芬奇/伊丽莎白·克拉多克/约翰·贝内特）；结构校验：文内 10 个脚注标记对应 49 条定义（多引组复用），无孤儿"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T23:50:29Z",
+      "evidence": "逐句回核定稿对源文与逻辑（6 节+导言）：事实链核验——1631-1679、1651 嫁第三代康威子爵、独子赫尼奇夭折、肯辛顿宫芬奇家宅、基督学院师从莫尔、1690 阿姆斯特丹拉丁刊/1692 伦敦英译、1679 年去世前不久皈依贵格会、其退化/改善轨迹呼应柏拉图《斐多篇》80d–84b 灵魂不朽论述、莱布尼茨藏有其书；引文与定位核验——《原理》VII.4（整体统一性/captain spirit）、VI.6（持续运动）、apocotastasis 照源拼形；相关词条六项定名与 SUMMARY 一致（剑桥柏拉图学派/勒内·笛卡尔/托马斯·霍布斯/戈特弗里德·威廉·莱布尼茨/亨利·莫尔/巴鲁赫·斯宾诺莎）；无漏句（源 6 节 20 段逐段对应）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T23:50:31Z",
+      "evidence": "终稿验收：check_all 七项全绿；定点 check_style --strict 0 issue、check_academic --strict 0 硬错误、check_math 0 缺式、check_terms 0 硬错误；脚注 10 标记/49 定义全配无孤儿；正文英文残留仅人名书名术语首现括注与引注（无未译句）；H1 与 SUMMARY 定名一致；验收签字：CD-main-20261106"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T23:50:31Z",
+      "evidence": "done 收口：九步入状态机齐，复审由初译 actor 以外会话执行（ADR-0020 独立性），prose 16→3 逐条留痕；词条 5118 汉字（文件实况），源 4,173 词，49 条脚注定义、References（引用注释）+原始文献/二手文献小节、学术工具 4 行、其他网络资源、相关词条（含译注行）齐备"
     }
   ],
   "blockers": [],
