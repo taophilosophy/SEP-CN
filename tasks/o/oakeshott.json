@@ -1,0 +1,29 @@
+{
+  "slug": "oakeshott",
+  "kind": "retranslate",
+  "zh_doc": "o/oakeshott.md",
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T23:22:32Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:27:54Z",
+      "evidence": "双版账本 56 段（正文 55+OIR 1）落盘，lq check 守恒绿（* 计数 10 处系英文斜体书名→中文书名号，逐条留痕）；compose 28507 字符/61288 字节；postfix 补 H1 空行、列表 * 化、相关词条按 SUMMARY 校正为「范畴」；italic_to_bold_cjk 转 5 行"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T22:39:58Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 1, 2024",
+    "archive_edition": "Spring 2024",
+    "sha256": "65696e41506d41b56cc56e8229d4e170c006489b6bf8ca85637461a10205cddf"
+  }
+}
