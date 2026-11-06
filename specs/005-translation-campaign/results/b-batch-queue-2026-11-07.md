@@ -7,10 +7,10 @@
 | 指标 | 数值 |
 |---|---|
 | 正式词条 | 62 |
-| done | 2（boolalg-math、biology-philosophy） |
+| done | 3（boolalg-math、biology-philosophy、bloch） |
 | s3_checked（待 r1→r3→done 收口） | 14 |
 | drafted（待 s1→s3→r1→r3→done） | 2 |
-| cleared（待全量重译） | 44 |
+| cleared（待全量重译） | 43 |
 
 ## 队列 A：cleared 44 条全量重译（按源文词数升序，先短后长）
 
@@ -68,3 +68,7 @@
 4. **术语冲突先查**：`supervenience` 词汇表定名 随附性（我初登记 随附 触发 check_terms 硬冲突，已改）；登记后必跑 `check_all` 第七项。
 5. **组装门**：assemble 脚本内建标记多重集等值 + defs 键集 + 段落数前置门；组装后只改 OUT、不再重跑 assemble。
 6. 相邻字母条目共用的术语先登记再用；跨条同名者（如 基切尔/沙夫纳）后续条目直接复用本批登记行。
+
+## 进度流水（追加）
+
+- 2026-11-07：`biology-philosophy`（076c04d9）、`bloch`（d6fff72c）九步入 done。bloch 首例实证"原生脚注型"组装：note-1..12 译出进 `## 脚注`，书目 defs（含散文型导语注）照录进 `## 参考文献`，assemble 门内建 note-N 键集与非 note defs 计数双校。**教训**：prose 批量改写会丢行内脚注标记（moltmann-1964 一例），改写后必须重跑 marker/defs 守恒门。

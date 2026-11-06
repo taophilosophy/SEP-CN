@@ -19,8 +19,8 @@
    "phase": "translate",
    "claimed_by": "B-main-20261106",
    "claimed_at": "2026-11-06T15:58:44Z",
-   "note": "对账补记（2026-11-03）：62=cleared 59/drafted 2/s3_checked 1；快照 641faf13。对账补记（2026-11-06）：62=cleared 45/drafted 2/s3_checked 15；NO_LEDGER 17。——更正（2026-11-06 B-main-20261106 实测）：s3_checked 实为 14（boolalg-math 已 done），四源零缺项，唯一实缺 behaviorism 正文丢 [^ross-2008]（待 r1）。进度（2026-11-07）：done 2（boolalg-math、biology-philosophy）；现计数 62=cleared 44/drafted 2/s3_checked 14/done 2；作业队列与家法见 results/b-batch-queue-2026-11-07.md、对账见 results/b-progress-audit-2026-11-06.md。",
-   "advanced_at": "2026-11-06T18:21:08Z"
+   "note": "对账补记（2026-11-03）：62=cleared 59/drafted 2/s3_checked 1。对账补记（2026-11-06）：62=cleared 45/drafted 2/s3_checked 15；NO_LEDGER 17。——更正（2026-11-06 实测）：s3_checked 14（boolalg-math 已 done），四源零缺项，唯一实缺 behaviorism 正文丢 [^ross-2008]（待 r1）。进度（2026-11-07，B-main-20261106）：done 3（boolalg-math、biology-philosophy、bloch）；现计数 62=cleared 43/drafted 2/s3_checked 14/done 3；队列与家法见 results/b-batch-queue-2026-11-07.md，对账见 results/b-progress-audit-2026-11-06.md。",
+   "advanced_at": "2026-11-06T21:51:07Z"
   },
   "c": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-06T20:34:41Z"
+ "updated_at": "2026-11-06T21:51:07Z"
 }
