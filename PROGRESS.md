@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 23:23（UTC）
+生成时间：2026-11-06 23:52（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1014|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|138|
-|在途（drafted 起、done 前）|254|
+|已完成（done）|146|
+|在途（drafted 起、done 前）|246|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,12 +23,11 @@
 |状态|数量|
 |---|---|
 |pending|622|
-|cleared|169|
+|cleared|168|
 |drafted|3|
-|s3_checked|79|
-|r1_reviewed|2|
-|r2_reviewed|1|
-|done|138|
+|s3_checked|74|
+|r1_reviewed|1|
+|done|146|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -36,7 +35,7 @@
 |---|---|---|---|---|
 |A|160|160|160|46|
 |B|62|62|62|3|
-|C|172|172|172|0|
+|C|172|172|172|3|
 |D|92|92|92|11|
 |E|99|99|99|8|
 |F|96|96|96|0|
@@ -45,14 +44,14 @@
 |I|75|75|75|18|
 |J|38|38|38|4|
 |K|36|36|36|10|
-|L|144|144|19|15|
-|M|139|139|14|3|
+|L|144|144|19|18|
+|M|139|139|14|4|
 |N|50|50|2|0|
 |O|21|21|4|1|
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
-|S|161|161|11|5|
+|S|161|161|11|6|
 |T|71|71|4|0|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -152,7 +151,6 @@
 |children|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |chinese-phil-medicine|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cloning|retranslate|s3_checked|CD-main-20261106 2026-11-06|
-|cockburn|retranslate|r2_reviewed|CD-main-20261106 2026-11-06|
 |cognitive-science|retranslate|s3_checked|主代理 2026-11-01|
 |collingwood-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |computability|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -162,10 +160,8 @@
 |condemnation|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |confucius|retranslate|s3_checked|主代理 2026-11-01|
 |contractarianism|retranslate|s3_checked|CD-main-20261106 2026-11-06|
-|conway|retranslate|s3_checked|CD-main-20261106 2026-11-06|
 |copernicus|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |cordemoy|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|crathorn|retranslate|s3_checked|主代理 2026-11-01|
 |creation-conservation|retranslate|s3_checked|主代理 2026-11-01|
 |croce-aesthetics|retranslate|s3_checked|主代理 2026-11-01|
 |cudworth|retranslate|s3_checked|主代理 2026-11-01|
@@ -308,14 +304,9 @@
 |kukai|retranslate|cleared|task_ops 2026-11-01|
 |kumaarila|retranslate|s3_checked|AK-main-20261105 2026-11-05|
 |kyoto-school|retranslate|cleared|task_ops 2026-11-01|
-|leibniz-ethics|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
-|leibniz-evil|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
-|locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
-|modesty-humility|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |montesquieu|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
-|oakeshott|retranslate|cleared|task_ops 2026-11-06|
+|oakeshott|retranslate|s3_checked|OR-main-20261106 2026-11-06|
 |origin-descent|retranslate|r1_reviewed|OR-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
-|schlegel|retranslate|r1_reviewed|SZ-main-20261107 2026-11-06|
 |timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
 |truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|

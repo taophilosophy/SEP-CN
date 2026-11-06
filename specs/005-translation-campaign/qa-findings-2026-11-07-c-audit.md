@@ -33,3 +33,10 @@ s3_checked 27 条 = C28 批产物 26 条（前会话三校完成、待 r1–r3 �
 
 1. r1–r3 冷置复审（体量升序）：cockburn 3,557 → crathorn 3,751 → conway 4,173 → condemnation 4,907 → cordemoy 5,128 → cambridge-platonists 5,657 → creation-conservation 6,013 → childhood 6,135 → cognitive-science 6,288 → causation-medieval 6,300 → …（全 27 条平均 7,265 词）。
 2. pending 开译（体量升序，前 10）：colonialism 8,586 → chinese-phil-science 8,898 → cosmology-30s 10,247 → conscience 10,427 → crescas 10,472 → cosmopolitanism 10,820 → closure-epistemic 11,198 → content-externalism 11,452 → cugoano 11,510 → cosmology-theology 11,578（全部 ≥8,586 词，median 16,427，单条工时大，按 session-handoff 节奏分批收口）。
+
+## 五、本会话进展（同日后续）
+
+* done 0 → 3：cockburn（3,557 词）、crathorn（3,751 词）、conway（4,173 词）经 r1–r3 冷置复审收口（各九步入状态机齐、七项门禁全绿、prose 告警逐条实修或留痕）。
+* contractarianism 由 cleared 推至 s3_checked（待 r1–r3）。
+* 余下 s3_checked 24 条待复审，体量升序下一批：condemnation 4,907 → cordemoy 5,128 → cambridge-platonists 5,657 → creation-conservation 6,013 → childhood 6,135 → cognitive-science 6,288 → causation-medieval 6,300 → …
+* 复审中复现的跨条目缺陷模式（后续批次直接套用）：英文小节标题残留（Primary/Secondary Sources）、人名括注重复、名形与登记册冲突（库德沃斯/范·赫尔蒙特/奥卡姆的威廉/亚当·德·沃德汉姆）、书名中英混排与斜体断裂、脚注区英文标题（## Notes…）。
