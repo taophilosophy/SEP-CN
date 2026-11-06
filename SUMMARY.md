@@ -1320,7 +1320,7 @@
   * [\*发展——见逻辑史：直觉主义逻辑的发展 development of — see logic, history of: intuitionistic logic](i/intuitionistic-logic-development.md)
 * [\*直觉类型论——见类型论：直觉主义逻辑 intuitionistic type theory — see type theory: intuitionistic](t/type-theory-intuitionistic.md)
 * [\*感质倒转——见感质：感质倒转 inverted qualia — see qualia: inverted](q/qualia-inverted.md)
-* [艾萨克·本·所罗门·以色列 Israeli, Isaac (Leonard Levin, R. David Walker, and Shalom Sadik)](i/israeli.md)
+* [伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin, R. David Walker, and Shalom Sadik)](i/israeli.md)
 * [约翰·伊塔洛斯 John Italos (Andr&aacute;s Kraft)](j/john-italos.md)
 
 ## J

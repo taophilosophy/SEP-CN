@@ -726,7 +726,7 @@ outline: [1, 6]
 * [闪-托夫·伊本·法拉奎拉 Falaquera, Shem Tov Ibn (Steve Harvey)](f/falaquera.md)
 * [吉尔松尼德 Gersonides (Tamar Rudavsky)](g/gersonides.md)
 * [犹大·哈列维 Halevi, Judah (Ehud Krinis)](h/halevi.md)
-* [艾萨克·本·所罗门·以色列 Israeli, Isaac (Leonard Levin, R. David Walker, and Shalom Sadik)](i/israeli.md)
+* [伊萨克·伊斯拉埃利 Isaac Israeli (Leonard Levin, R. David Walker, and Shalom Sadik)](i/israeli.md)
 * [耶沙亚胡·莱博维茨 Leibowitz, Yeshayahu (Daniel Rynhold)](l/leibowitz-yeshayahu.md)
 * [所罗门·迈蒙 Maimon, Salomon (Peter Thielke and Yitzhak Y. Melamed)](m/maimon.md)
 * [迈蒙尼德 Maimonides (Kenneth Seeskin)](m/maimonides.md)

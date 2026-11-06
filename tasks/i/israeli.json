@@ -2,8 +2,44 @@
   "slug": "israeli",
   "kind": "retranslate",
   "zh_doc": "i/israeli.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T12:04:07Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T12:50:39Z",
+      "evidence": "lq 账本流水线全量直译落盘：80 段（body 79/oir 1）step1+step2 两步反思，compose 生成 20643 字符；SUMMARY 标题纠错（以色列→伊斯拉埃利，SUMMARY+mu-lu-s 同步）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T12:50:39Z",
+      "evidence": "对照核销：段落 92:91（差 1 为管线译注行）、节数 29:29、脚注 marker 零缺零多（d'ancona-1991 键按家法归一 ASCII，defs 文照录）、defs 键集一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T12:50:39Z",
+      "evidence": "prose 实修 5 处（长句 4 拆分：L4/L64/L108/L132、weak-verb 1：‘不可加以任何云谓’→‘非任何云谓所能及’）；转写撇号 51 处 U+2018/U+2019→U+02BC，defs 区 14 行回源照录；残留扫描未见中英混杂"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T12:50:42Z",
+      "evidence": "四检全绿：check_academic --strict OK；check_style --strict issues=[]；check_prose issues=[]；check_math formulas=0/missing=[]/unbalanced=[]；lq check 守恒门 80 段通过"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:55Z",
   "version_pin": {
