@@ -630,26 +630,26 @@
 | Grofman, Bernard | — | Bernard Grofman | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Paroush, Jacob | — | Jacob Paroush | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
 | Pivato, Marcus | — | Marcus Pivato | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0021） | 2026-11-02 |
-| Dōgen | — | 道元 | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名） | 2026-11-02 |
-| Yoshida Kenkō | — | 吉田兼好 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
+| Dōgen | 道元 | 道元 | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名） | 2026-11-02 |
+| Yoshida Kenkō | 吉田兼好 | 吉田兼好 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
 | Murasaki Shikibu | — | 紫式部 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
-| Ozu Yasujirō | — | 小津安二郎 | japanese-aesthetics | 学界惯例（日本电影史通行汉名） | 2026-11-02 |
-| Sen no Rikyū | — | 千利休 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“千利休”） | 2026-11-02 |
-| Murata Shukō | — | 村田珠光 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“村田珠光”） | 2026-11-02 |
-| Takeno Jōō | — | 武野绍鸥 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“武野 紹鴎”） | 2026-11-02 |
+| Ozu Yasujirō | 小津安二郎 | 小津安二郎 | japanese-aesthetics | 学界惯例（日本电影史通行汉名） | 2026-11-02 |
+| Sen no Rikyū | 千利休 | 千利休 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“千利休”） | 2026-11-02 |
+| Murata Shukō | 村田珠光 | 村田珠光 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“村田珠光”） | 2026-11-02 |
+| Takeno Jōō | 武野紹鴎 | 武野绍鸥 | japanese-aesthetics | 学界惯例（日本茶道史通行汉名；源文自注“武野 紹鴎”） | 2026-11-02 |
 | Tanizaki Jun'ichirō | — | 谷崎润一郎 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
-| Matsuo Bashō | — | 松尾芭蕉 | japanese-aesthetics | 学界惯例（日本俳谐史通行汉名） | 2026-11-02 |
+| Matsuo Bashō | 松尾芭蕉 | 松尾芭蕉 | japanese-aesthetics | 学界惯例（日本俳谐史通行汉名） | 2026-11-02 |
 | Mishima Yukio | — | 三岛由纪夫 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
 | Ichikawa Kon | — | 市川昆 | japanese-aesthetics | 学界惯例（日本电影史通行汉名） | 2026-11-02 |
 | Kamo no Chōmei | — | 鸭长明 | japanese-aesthetics | 学界惯例（日本文学史通行汉名） | 2026-11-02 |
 | Zeami Motokiyo | — | 世阿弥 | japanese-aesthetics | 学界惯例（日本能乐史通行汉名） | 2026-11-02 |
-| Sesshū Tōyō | — | 雪舟等杨 | japanese-aesthetics | 学界惯例（日本美术史通行汉名；源文自注“雪舟等楊”） | 2026-11-02 |
-| Kuki Shūzō | — | 九鬼周造 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
+| Sesshū Tōyō | 雪舟等楊 | 雪舟等杨 | japanese-aesthetics | 学界惯例（日本美术史通行汉名；源文自注“雪舟等楊”） | 2026-11-02 |
+| Kuki Shūzō | 九鬼周造 | 九鬼周造 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
 | Nishitani Keiji | — | 西谷启治 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
 | Nishida Kitarō | — | 西田几多郎 | japanese-aesthetics | 学界惯例（日本哲学史通行汉名） | 2026-11-02 |
 | Hakuin | — | 白隐 | japanese-aesthetics | 学界惯例（日本禅宗史通行汉名） | 2026-11-02 |
 | Hideyoshi | — | 丰臣秀吉 | japanese-aesthetics | 学界惯例（日本战国史通行汉名） | 2026-11-02 |
-| Sasaki "Raku" Chōjirō | — | 长次郎 | japanese-aesthetics | 学界惯例（日本陶艺史通行汉名；源文自注“長次郎”） | 2026-11-02 |
+| Sasaki "Raku" Chōjirō | 長次郎 | 长次郎 | japanese-aesthetics | 学界惯例（日本陶艺史通行汉名；源文自注“長次郎”） | 2026-11-02 |
 | Stanley Cavell | — | Stanley Cavell | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
 | Leslie Pincus | — | Leslie Pincus | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
 | Yukio Lippit | — | Yukio Lippit | japanese-aesthetics | 现代学者无通行汉名，保留英文 | 2026-11-02 |
@@ -865,7 +865,7 @@
 新增一行即完成登记；若译法变更，保留旧译法并另起一行注明"已废弃，见新行"。「依据」必填，档位同 yi-zhe-shuo-ming.md；**不得引维基百科**（ADR-0012）。无法确定习惯译法的，保留英文原名并登记，不得臆造译名。
 
 | Bob Hale | — | 鲍勃·黑尔（正文括注〔Bob Hale〕消歧——与 R.M. Hare 同译形“黑尔”） | hare | 主会话收口 ad82d512；凭证 2026-11-04 | 2026-11-04 |
-| Keichū | — | 契沖 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Keichū | 契沖 | 契沖 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kada no Azumamaro | — | 荷田春满 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kada Arimaro | — | 荷田在满 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kamo no Mabuchi | — | 贺茂真渊 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
@@ -877,8 +877,8 @@
 | Matsuo Taseko | — | 松尾多势子 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Hirao Rosen | — | 平尾鲁仙 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Tsuruya Ariyo | — | 鹤屋有猷（汉字写法存疑，正文保留拉丁对照） | kokugaku-school | 存疑标注；凭证 2026-11-04 | 2026-11-04 |
-| Yano Gendō / Harumichi | — | 矢野玄道 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
-| Ōkuni Takamasa | — | 大国隆正 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Yano Gendō / Harumichi | 矢野玄道 | 矢野玄道 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
+| Ōkuni Takamasa | 大国隆正 | 大国隆正 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Fukuba Bisei | — | 福羽美静 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Murata Harukado | — | 村田春门 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04 | 2026-11-04 |
 | Kusunoki Masashige | — | 楠木正成 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
@@ -888,7 +888,7 @@
 | Kamei Koremi | — | 龟井兹监 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Aizawa Seishisai | — | 会泽正志斋 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Matsudaira Yoshitatsu | — | 松平义悌 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
-| Ban Kōkei | — | 伴蒿蹊 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
+| Ban Kōkei | 伴蒿蹊 | 伴蒿蹊 | kokugaku-school | 学界通行汉译；凭证 2026-11-04 | 2026-11-04 |
 | Matthew S. Bedke | — | 马修·S. 贝德克 | intuitionism-ethics | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
 | Jacques Morizot | — | 雅克·莫里佐 | aesthetics-18th-french | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
 | Jennifer Tsien | — | 詹妮弗·齐恩 | aesthetics-18th-french | 学界通行汉译；SUMMARY/署名行定名沿用；待 specs/008 审定库复核 | 2026-11-04 |
@@ -940,55 +940,55 @@
 | Jean-Jacques Rousseau | — | 让-雅克·卢梭 | kant-social-political | 学界千年通行译名 | 2026-11-05 |
 | Cesare Beccaria | — | 切萨雷·贝卡里亚 | kant-social-political | 学界通行汉译（启蒙刑法改革家，《论犯罪与刑罚》） | 2026-11-05 |
 | Feyerabend, Gottfried | — | 费耶阿本德 | kant-social-political | 学界通行音译（康德自然法课程听课笔记记录者；与科学哲学家 Paul Feyerabend 同姓） | 2026-11-05 |
-| Wŏn’gwang | — | 圆光 | korean-buddhism | 汉文传统写法（源文汉字 圓光；新罗僧，摄论宗） | 2026-11-05 |
+| Wŏn’gwang | 圓光 | 圆光 | korean-buddhism | 汉文传统写法（源文汉字 圓光；新罗僧，摄论宗） | 2026-11-05 |
 | Zhendi | — | 真谛 | korean-buddhism | 佛学界千年传统译名（汉文古译，源文汉字 眞諦；摄论宗译家，九识说） | 2026-11-05 |
-| Wŏnchŭk | — | 圆测 | korean-buddhism | 汉文传统写法（源文汉字 圓測；新罗僧，玄奘门下） | 2026-11-05 |
+| Wŏnchŭk | 圓測 | 圆测 | korean-buddhism | 汉文传统写法（源文汉字 圓測；新罗僧，玄奘门下） | 2026-11-05 |
 | Ŭisang | Ŭisang | 义湘 | korean-buddhism | 汉文传统写法（源文汉字 義湘；新罗华严初祖） | 2026-11-05 |
-| Wŏnhyo | — | 元晓 | korean-buddhism | 汉文传统写法（源文汉字 元曉；新罗「和诤」国师） | 2026-11-05 |
+| Wŏnhyo | 元曉 | 元晓 | korean-buddhism | 汉文传统写法（源文汉字 元曉；新罗「和诤」国师） | 2026-11-05 |
 | Dignāga | — | 陈那 | korean-buddhism | 佛学界千年传统译名（汉文古译；因明论师） | 2026-11-05 |
 | Zhiyan | — | 智俨 | korean-buddhism | 汉文传统写法（华严二祖，义湘之师） | 2026-11-05 |
 | Chengguan | — | 澄观 | korean-buddhism | 汉文传统写法（华严四祖） | 2026-11-05 |
-| Ŭich’ŏn | — | 义天 | korean-buddhism | 汉文传统写法（源文汉字 義天；高丽大觉国师，天台宗） | 2026-11-05 |
+| Ŭich’ŏn | 義天 | 义天 | korean-buddhism | 汉文传统写法（源文汉字 義天；高丽大觉国师，天台宗） | 2026-11-05 |
 | Ch’egwan | — | 谛观 | korean-buddhism | 汉文传统写法（源文汉字 諦觀；高丽僧，《天台四教仪》） | 2026-11-05 |
 | Chinul | — | 知讷 | korean-buddhism | 汉文传统写法（源文汉字 知訥；高丽曹溪宗中兴祖，谥普照） | 2026-11-05 |
 | Dahui Zonggao | — | 大慧宗杲 | korean-buddhism | 汉文传统写法（临济宗，看话禅创倡者） | 2026-11-05 |
 | Chinhŭng | — | 真兴王 | korean-buddhism | 汉文传统写法（新罗王，转轮圣王理想） | 2026-11-05 |
-| Chŏng Tojŏn | — | 郑道传 | korean-buddhism | 汉文传统写法（朝鲜初性理学者，号三峰） | 2026-11-05 |
-| Hamhŏ Tŭkt’ong | — | 涵虚得通 | korean-buddhism | 汉文传统写法（源文汉字 涵虛得通；朝鲜僧，《显正论》，亦号己和） | 2026-11-05 |
-| Hŏŭngdang Pou | — | 虚应堂普雨 | korean-buddhism | 汉文传统写法（源文汉字 虛應堂普雨；朝鲜僧，《一正论》） | 2026-11-05 |
-| Inoue Enryō | — | 井上圆了 | korean-buddhism | 学界惯例（日本哲学史通行汉名） | 2026-11-05 |
+| Chŏng Tojŏn | 鄭道傳 | 郑道传 | korean-buddhism | 汉文传统写法（朝鲜初性理学者，号三峰） | 2026-11-05 |
+| Hamhŏ Tŭkt’ong | 涵虛得通 | 涵虚得通 | korean-buddhism | 汉文传统写法（源文汉字 涵虛得通；朝鲜僧，《显正论》，亦号己和） | 2026-11-05 |
+| Hŏŭngdang Pou | 虛應堂 普雨 | 虚应堂普雨 | korean-buddhism | 汉文传统写法（源文汉字 虛應堂普雨；朝鲜僧，《一正论》） | 2026-11-05 |
+| Inoue Enryō | 井上円了 | 井上圆了 | korean-buddhism | 学界惯例（日本哲学史通行汉名） | 2026-11-05 |
 | Han Yongun | — | 韩龙云 | korean-buddhism | 学界通行汉译（韩文 한용운，汉字 韓龍雲；韩国近代佛教改革家） | 2026-11-05 |
 | Kim Iryŏp | — | 金一叶 | korean-buddhism | 学界通行汉译（韩文 김일엽，汉字 金一葉；新女性作家，后出家） | 2026-11-05 |
-| Ch’oe Namsŏn | — | 崔南善 | korean-buddhism | 学界通行汉译（韩文 최남선，汉字 崔南善；近代学者） | 2026-11-05 |
+| Ch’oe Namsŏn | 崔南善 | 崔南善 | korean-buddhism | 学界通行汉译（韩文 최남선，汉字 崔南善；近代学者） | 2026-11-05 |
 | Park Chungbin, Sot’aesan | — | 朴重彬（少太山） | korean-buddhism | 学界通行汉译（圆佛教创始人，尊号 소태산 汉字 少太山） | 2026-11-05 |
 | Daehaeng | — | 大行 | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行） | 2026-11-05 |
 | Edmund Gettier | — | 盖梯尔 | knowledge-analysis | 学界通行汉译（1963 论文作者，JTB 挑战者） | 2026-11-05 |
 | Saul Kripke | — | 索尔·克里普克 | knowledge-analysis | 学界通行汉译（《命名与必然性》作者） | 2026-11-05 |
 | Śrīharṣa | — | 室利诃奢 | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师；sriharsa 词条会话 2026-11-05 裁定） | 2026-11-05 |
 | Kuiji | — | 窥基 | korean-philosophy | 佛学界千年传统译名（玄奘弟子，唯识宗二祖） | 2026-11-05 |
-| Tochŭng | — | 道证 | korean-philosophy | 汉文传统写法（源文汉字 道證；圆测弟子，新罗唯识） | 2026-11-05 |
-| Taehyŏn | — | 大贤 | korean-philosophy | 汉文传统写法（源文汉字 大賢；新罗唯识） | 2026-11-05 |
+| Tochŭng | 道證 | 道证 | korean-philosophy | 汉文传统写法（源文汉字 道證；圆测弟子，新罗唯识） | 2026-11-05 |
+| Taehyŏn | 大賢 | 大贤 | korean-philosophy | 汉文传统写法（源文汉字 大賢；新罗唯识） | 2026-11-05 |
 | Yi Hwang, T’oegye | — | 李滉（退溪） | korean-philosophy | 汉文传统写法（朝鲜性理学家，四端七情之辩「理发四端」说） | 2026-11-05 |
-| Ki Taesŭng, Kobong | — | 奇大升（高峰） | korean-philosophy | 汉文传统写法（与退溪论辩四端七情） | 2026-11-05 |
+| Ki Taesŭng, Kobong | 奇大升（高峰） | 奇大升（高峰） | korean-philosophy | 汉文传统写法（与退溪论辩四端七情） | 2026-11-05 |
 | Yi I, Yulgok | — | 李珥（栗谷） | korean-philosophy | 汉文传统写法（朝鲜性理学家，「气发理乘」说） | 2026-11-05 |
 | Sŏng Hon, Ugye | — | 成浑（牛溪） | korean-philosophy | 汉文传统写法（栗谷论友，续四端七情之辩） | 2026-11-05 |
-| Kwŏn Kŭn | — | 权近 | korean-philosophy | 汉文传统写法（源文汉字 權近；朝鲜初性理学者，阳村） | 2026-11-05 |
-| Yi Onjŏk | — | 李彦迪 | korean-philosophy | 汉文传统写法（朝鲜性理学者，晦斋） | 2026-11-05 |
+| Kwŏn Kŭn | 權近 | 权近 | korean-philosophy | 汉文传统写法（源文汉字 權近；朝鲜初性理学者，阳村） | 2026-11-05 |
+| Yi Onjŏk | 李彦迪 | 李彦迪 | korean-philosophy | 汉文传统写法（朝鲜性理学者，晦斋） | 2026-11-05 |
 | Han Wŏnjin | — | 韩元震 | korean-philosophy | 汉文传统写法（朝鲜性理学家，南塘，湖洛之辩） | 2026-11-05 |
-| Chŏng Chedu | — | 郑齐斗 | korean-philosophy | 汉文传统写法（源文汉字 鄭齊斗；朝鲜阳明学者，霞谷） | 2026-11-05 |
+| Chŏng Chedu | 鄭齊斗 | 郑齐斗 | korean-philosophy | 汉文传统写法（源文汉字 鄭齊斗；朝鲜阳明学者，霞谷） | 2026-11-05 |
 | Im Yunjidang | — | 任允挚堂 | korean-philosophy | 汉文传统写法（源文汉字 任允摯堂；朝鲜女性儒者） | 2026-11-05 |
-| Kang Chŏngildang | — | 姜静一堂 | korean-philosophy | 汉文传统写法（源文汉字 姜靜一堂；朝鲜女性儒者） | 2026-11-05 |
-| Yu Hyŏngwon | — | 柳馨远 | korean-philosophy | 汉文传统写法（源文汉字 柳馨遠；实学家，磻溪） | 2026-11-05 |
+| Kang Chŏngildang | 姜靜一堂 | 姜静一堂 | korean-philosophy | 汉文传统写法（源文汉字 姜靜一堂；朝鲜女性儒者） | 2026-11-05 |
+| Yu Hyŏngwon | 柳馨遠 | 柳馨远 | korean-philosophy | 汉文传统写法（源文汉字 柳馨遠；实学家，磻溪） | 2026-11-05 |
 | Yi Ik | — | 李瀷 | korean-philosophy | 汉文传统写法（实学家，星湖） | 2026-11-05 |
 | Hong Taeyong | — | 洪大容 | korean-philosophy | 汉文传统写法（北学派，湛轩） | 2026-11-05 |
 | Pak Chiwon | — | 朴趾源 | korean-philosophy | 汉文传统写法（北学派，燕岩） | 2026-11-05 |
 | Pak Cheka | — | 朴齐家 | korean-philosophy | 汉文传统写法（源文汉字 朴齊家；北学派，楚亭） | 2026-11-05 |
-| Chŏng Yagyong, Tasan | — | 丁若镛（茶山） | korean-philosophy | 汉文传统写法（实学集大成者，融合托玛斯主义） | 2026-11-05 |
-| Sŏ Kyŏngdok | — | 徐敬德 | korean-philosophy | 汉文传统写法（气一元论者，花潭） | 2026-11-05 |
+| Chŏng Yagyong, Tasan | 丁若鏞（茶山） | 丁若镛（茶山） | korean-philosophy | 汉文传统写法（实学集大成者，融合托玛斯主义） | 2026-11-05 |
+| Sŏ Kyŏngdok | 徐敬德 | 徐敬德 | korean-philosophy | 汉文传统写法（气一元论者，花潭） | 2026-11-05 |
 | Ch’oe Hangi | — | 崔汉绮 | korean-philosophy | 汉文传统写法（源文汉字 崔漢綺；气学者，惠冈） | 2026-11-05 |
 | Ch’oe Che-u | — | 崔济愚 | korean-philosophy | 汉文传统写法（东学创祖，水云） | 2026-11-05 |
-| Paek Sŏnguk | — | 白性郁 | korean-philosophy | 源文汉字 白性郁（近代佛教哲学家；korean-buddhism 条目无汉字暂保留罗马字，此处据源文补录） | 2026-11-05 |
-| Kim Il-sŏng | — | 金日成 | korean-philosophy | 学界通行汉译（朝鲜主体思想创始人） | 2026-11-05 |
+| Paek Sŏnguk | 백성욱 | 白性郁 | korean-philosophy | 源文汉字 白性郁（近代佛教哲学家；korean-buddhism 条目无汉字暂保留罗马字，此处据源文补录） | 2026-11-05 |
+| Kim Il-sŏng | 金日成 | 金日成 | korean-philosophy | 学界通行汉译（朝鲜主体思想创始人） | 2026-11-05 |
 | Matteo Ricci | — | 利玛窦 | korean-philosophy | 学界千年通行译名（耶稣会士，丁若镛所受托玛斯主义之中介） | 2026-11-05 |
 | Zhang Zai | — | 张载 | korean-philosophy | 学界千年通行译名（张子正蒙，气学先声） | 2026-11-05 |
 | Zhu Xi | — | 朱熹 | korean-philosophy | 学界千年通行译名（朱子，朝鲜性理学之源） | 2026-11-05 |

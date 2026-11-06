@@ -281,7 +281,7 @@
 | constructivism | — | 构造主义；建构主义 | 语料回收（全目录） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | contextualism | — | 语境主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Critical Theory | — | 批判理论 | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
-| Dao | — | 道 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定命中为跨学科同名不采（凭证 2026-10-30） | 2026-10-30 |
+| Dao | 道 | 道 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定命中为跨学科同名不采（凭证 2026-10-30） | 2026-10-30 |
 | deflationary | — | 紧缩（与既有 deflationism=紧缩论 对齐） | 首现（abelard） | 分析哲学文献通行译法；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | dharma | — | 法（佛教语境；亦作“达摩”） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Dasein | Dasein | 此在（海德格尔；亦作“缘在”） | 语料回收 | 学界惯例（海德格尔《存在与时间》陈嘉映译本）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -310,7 +310,7 @@
 | empirical equivalence | — | 经验等价性（亦作“经验等价”） | 首现（abduction） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | empirically equivalent | — | 经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”） | 语料回收 | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | empiricism | — | 经验主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| epistêmê | — | 知识（与 doxa 意见相对） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
+| epistêmê | ἐπιστήμη | 知识（与 doxa 意见相对） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Epistemic Closure | — | 认知封闭 | 语料回收（标题词） | 学界惯例（知识论通行）；审定库无直接命中（凭证 2026-10-31） | 2026-10-31 |
 | epistemic injustice | — | 认知不义（亦作“认知不公正”） | 语料回收 | 学界惯例（Fricker 中译《认知不义》）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Epistemology | — | 认识论 | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
@@ -397,7 +397,7 @@
 | logos | — | 逻各斯 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词·自然哲学，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | Löb’s theorem | Löb’s theorem | 勒布定理 | 语料回收 | 学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Łukasiewicz logic | Łukasiewicz logic | 卢卡西维茨逻辑 | 语料回收 | 学界惯例（数理逻辑通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| Lüshi chunqiu | — | 《吕氏春秋》 | 语料回收 | 学界惯例（典籍译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| Lüshi chunqiu | 呂氏春秋 | 《吕氏春秋》 | 语料回收 | 学界惯例（典籍译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Lutheranism | — | 路德宗 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | Magna Charta Universitatum | Magna Charta Universitatum | 《大学大宪章》 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | manifold | — | 流形 | spacetime-holearg | A 档（数学界通行译名） | 2026-10-28 |
@@ -488,7 +488,7 @@
 | Public Justification | — | 公共证成 | 语料回收（标题词） | 学界惯例（政治哲学（罗尔斯谱系）通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Pure Land | — | 净土（佛教） | 语料回收（标题词） | 学界惯例（佛教学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Pythagoreanism | — | 毕达哥拉斯主义 | 语料回收（alcmaeon/arcesilaus） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
-| qi | — | 气（拼音转写，汉字即译名） | 语料回收（中文哲学词条群） | 学界惯例；审定命中为中医药域同名不采（凭证 2026-10-30） | 2026-10-30 |
+| qi | 氣 | 气（拼音转写，汉字即译名） | 语料回收（中文哲学词条群） | 学界惯例；审定命中为中医药域同名不采（凭证 2026-10-30） | 2026-10-30 |
 | quantum mechanics | — | 量子力学 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | quantum state | — | 量子态 | 语料回收 | 审定名词库（termonline-all·物理学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | quantum theory | — | 量子理论 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -538,12 +538,12 @@
 | Superdeterminism | — | 超决定论 | 语料回收（bell-theorem） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | svabhāva | — | 自性（佛教） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30）；审定库精确查无（凭证 2026-10-30） | 2026-10-30 |
 | taṣdīq | — | 断定（阿拉伯逻辑学；与 taṣawwur 概念相对） | 语料回收 | 学界惯例（阿拉伯逻辑学）；审定库仅模糊噪声命中（凭证 2026-10-31） | 2026-10-31 |
-| technê | — | 技艺（亦作“技术”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
+| technê | τέχνη | 技艺（亦作“技术”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Ten Commandments | — | 十诫 | 语料回收（标题词） | 学界惯例（宗教学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | tekmairesthai | — | 凭征象推断 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
 | theoretical virtues | — | 理论美德（亦作“理论德性”） | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | theōria | — | 静观（亦作“沉思”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| tian | — | 天 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
+| tian | 天 | 天 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Token / type | — | 殊例／类型（type-token 即“类型—殊例”之分；勿用“个体”，避免与 individual 碰撞） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Trolley Problem | — | 电车难题 | 语料回收（标题词） | 学界惯例（伦理学/行动哲学）；凭证 2026-11-01 | 2026-11-01 |
 | total evidence | — | 总证据 | 语料回收（abduction） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
@@ -564,7 +564,7 @@
 | waḥdat al-wujūd | — | 存在单一论（亦作“存在统一论”） | 语料回收 | 学界惯例（伊斯兰哲学（伊本·阿拉比学派））；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Wolffianism | — | 沃尔夫主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | īśvara | — | 自在天（亦作“自在”） | 语料回收 | 学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| yì | — | 义（義） | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
+| yì | 義 | 义（義） | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Boolean algebra | — | 布尔代数 | 首现（boolalg-math） | 学界惯例（数学教材通行译名） | 2026-11-01 |
 | Boolean-valued model | — | 布尔值模型（亦作“布尔值模型论”） | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
 | ultrafilter | — | 超滤子 | 首现（boolalg-math） | 学界惯例（集合论/拓扑通行译名） | 2026-11-01 |
@@ -665,7 +665,7 @@
 | defeater | — | 击败因子 | religious-experience | 学界通行（知识论；defeasible 另译可挫败） | 2026-11-05 |
 | language-game | — | 语言游戏 | religious-experience | 学界通行（维特根斯坦术语） | 2026-11-05 |
 | Vipassana | — | 内观（保留拉丁 vipassanā） | religious-experience | 学界通行（上座部佛教） | 2026-11-05 |
-| kensho | — | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
+| kensho | 見性 | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
 | counter-inductive | — | 反归纳的 | religious-experience | 构词直译 | 2026-11-05 |
 | analogical reasoning | — | 类推推理（SUMMARY 题名既定形） | reasoning-analogy | SUMMARY 既有条目名（r/reasoning-analogy.md） | 2026-11-05 |
 | analogical argument | — | 类比论证 | reasoning-analogy | 学界通行 | 2026-11-05 |
@@ -793,21 +793,21 @@
 
 | 原文形态 | 原文 | 通行中文 | 首现 | 依据 | 裁定日期 |
 | ---- | ---- | ---- | ---- | ---- | -------- |
-| Analects / Lun yu / Lunyu | — | 《论语》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Mencius / Mengzi | — | 《孟子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Mozi | — | 《墨子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Analects / Lun yu / Lunyu | 論語 | 《论语》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Mencius / Mengzi | 孟子 | 《孟子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Mozi | 墨子 | 《墨子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | worldline | — | 世界线 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
-| Zhuangzi | — | 《庄子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Laozi / Lao Tzu | — | 《老子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Daodejing / Tao Te Ching | — | 《道德经》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Xunzi | — | 《荀子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Han Feizi | — | 《韩非子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Yijing / I Ching | — | 《周易》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Huainanzi | — | 《淮南子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Shiji | — | 《史记》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Liezi | — | 《列子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Guanzi | — | 《管子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
-| Chunqiu | — | 《春秋》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Zhuangzi | 莊子 | 《庄子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Laozi / Lao Tzu | 老子 | 《老子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Daodejing / Tao Te Ching | 道德經 | 《道德经》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Xunzi | 荀子 | 《荀子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Han Feizi | 韓非子 | 《韩非子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Yijing / I Ching | 易經 | 《周易》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Huainanzi | 淮南子 | 《淮南子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Shiji | 史記 | 《史记》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Liezi | 列子 | 《列子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Guanzi | 管子 | 《管子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Chunqiu | 春秋 | 《春秋》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Gongsun Long (zi) | — | 《公孙龙子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Yan Buke | — | 阎步克 | confucius（上游印汉字 閻步克，转通行简体） | 上游汉字 + 学界通行 | 2026-10-28 |
 | Yang Bojun | — | 杨伯峻 | confucius（上游印汉字） | 上游汉字 | 2026-10-28 |
@@ -872,62 +872,62 @@
 ```
 
 新增一行即完成登记；若译法变更，保留旧译法并另起一行注明"已废弃，见新行"。「依据」必填：知网系权威源（CNKI 翻译助手／术语在线审定名词）、权威译本、学界惯例三档取一并附查询日期；**不得引维基百科**（ADR-0012）。
-| mono no aware | — | 物哀（物の哀れ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“物哀”） | 2026-11-02 |
-| wabi | — | 侘（侘び） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“侘”） | 2026-11-02 |
-| sabi | — | 寂（さび） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“寂”） | 2026-11-02 |
-| yūgen | — | 幽玄 | japanese-aesthetics | 学界惯例（日本美学/能乐研究通行译法“幽玄”） | 2026-11-02 |
-| iki | — | 意气（いき） | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“意气”） | 2026-11-02 |
-| kire | — | 切（きれ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切断/切”） | 2026-11-02 |
-| mujō | — | 无常（無常） | japanese-aesthetics | 学界惯例（佛教研究通行译法“无常”） | 2026-11-02 |
-| wabicha | — | 侘茶 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“侘茶”） | 2026-11-02 |
+| mono no aware | 物の哀れ | 物哀（物の哀れ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“物哀”） | 2026-11-02 |
+| wabi | 侘 | 侘（侘び） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“侘”） | 2026-11-02 |
+| sabi | さび | 寂（さび） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“寂”） | 2026-11-02 |
+| yūgen | 幽玄 | 幽玄 | japanese-aesthetics | 学界惯例（日本美学/能乐研究通行译法“幽玄”） | 2026-11-02 |
+| iki | いき | 意气（いき） | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“意气”） | 2026-11-02 |
+| kire | 切 | 切（きれ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切断/切”） | 2026-11-02 |
+| mujō | 無常 | 无常（無常） | japanese-aesthetics | 学界惯例（佛教研究通行译法“无常”） | 2026-11-02 |
+| wabicha | 侘茶 | 侘茶 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“侘茶”） | 2026-11-02 |
 | shōja | — | 精舍（祇园精舍） | japanese-aesthetics | 学界惯例（《平家物语》汉译通行） | 2026-11-02 |
 | Nō | — | 能剧（能楽） | japanese-aesthetics | 学界惯例（日本戏剧研究通行译法“能/能乐”） | 2026-11-02 |
-| karesansui | — | 枯山水 | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯山水”） | 2026-11-02 |
-| geidō | — | 艺道 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“艺道”） | 2026-11-02 |
-| wuwei | — | 无为（無爲） | japanese-aesthetics | 学界惯例（中国哲学/道家通行译法“无为”） | 2026-11-02 |
-| bushidō | — | 武士道 | japanese-aesthetics | 学界惯例（日本文化研究通行译法“武士道”） | 2026-11-02 |
-| seppuku | — | 切腹 | japanese-aesthetics | 学界惯例（日本文化研究通行译法“切腹”） | 2026-11-02 |
-| engi | — | 缘起（縁起） | japanese-aesthetics | 学界惯例（佛教研究通行译法“缘起”） | 2026-11-02 |
-| kireji | — | 切字 | japanese-aesthetics | 学界惯例（俳句研究通行译法“切字”） | 2026-11-02 |
-| kata | — | 型（形） | japanese-aesthetics | 学界惯例（日本艺道研究通行译法“型”） | 2026-11-02 |
+| karesansui | 枯山水 | 枯山水 | japanese-aesthetics | 学界惯例（日本庭园研究通行译法“枯山水”） | 2026-11-02 |
+| geidō | 芸道 | 艺道 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“艺道”） | 2026-11-02 |
+| wuwei | 無爲 | 无为（無爲） | japanese-aesthetics | 学界惯例（中国哲学/道家通行译法“无为”） | 2026-11-02 |
+| bushidō | 武士道 | 武士道 | japanese-aesthetics | 学界惯例（日本文化研究通行译法“武士道”） | 2026-11-02 |
+| seppuku | 切腹 | 切腹 | japanese-aesthetics | 学界惯例（日本文化研究通行译法“切腹”） | 2026-11-02 |
+| engi | 縁起 | 缘起（縁起） | japanese-aesthetics | 学界惯例（佛教研究通行译法“缘起”） | 2026-11-02 |
+| kireji | 切字 | 切字 | japanese-aesthetics | 学界惯例（俳句研究通行译法“切字”） | 2026-11-02 |
+| kata | 型 | 型（形） | japanese-aesthetics | 学界惯例（日本艺道研究通行译法“型”） | 2026-11-02 |
 | tokonoma | — | 床之间（壁龛） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“床之间”） | 2026-11-02 |
-| haboku | — | 泼墨（破墨） | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨/破墨”） | 2026-11-02 |
-| hatsuboku | — | 泼墨 | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨”） | 2026-11-02 |
+| haboku | 破墨 | 泼墨（破墨） | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨/破墨”） | 2026-11-02 |
+| hatsuboku | 泼墨 | 泼墨 | japanese-aesthetics | 学界惯例（日本水墨画研究通行译法“泼墨”） | 2026-11-02 |
 | dōshakuga | — | 道释画 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“道释画”） | 2026-11-02 |
-| kara-e | — | 唐绘 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“唐绘”） | 2026-11-02 |
-| yamato-e | — | 大和绘 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“大和绘”） | 2026-11-02 |
-| sansui | — | 山水 | japanese-aesthetics | 学界惯例（东亚山水画通行译法“山水”） | 2026-11-02 |
-| meibutsu | — | 名物 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“名物”） | 2026-11-02 |
-| basara | — | 婆娑罗 | japanese-aesthetics | 学界惯例（日本中世文化研究通行译法“婆娑罗”） | 2026-11-02 |
-| nijiriguchi | — | 躙口 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“躙口”） | 2026-11-02 |
-| Raku | — | 乐烧（楽焼） | japanese-aesthetics | 学界惯例（日本陶艺研究通行译法“乐烧”） | 2026-11-02 |
-| kakemono | — | 挂轴（掛物） | japanese-aesthetics | 学界惯例（日本书画研究通行译法“挂轴”） | 2026-11-02 |
-| Shoin | — | 书院（書院） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“书院”） | 2026-11-02 |
-| Sōan | — | 草庵 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“草庵”） | 2026-11-02 |
+| kara-e | 唐絵 | 唐绘 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“唐绘”） | 2026-11-02 |
+| yamato-e | 大和絵 | 大和绘 | japanese-aesthetics | 学界惯例（日本美术史研究通行译法“大和绘”） | 2026-11-02 |
+| sansui | 山水 | 山水 | japanese-aesthetics | 学界惯例（东亚山水画通行译法“山水”） | 2026-11-02 |
+| meibutsu | 名物 | 名物 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“名物”） | 2026-11-02 |
+| basara | 婆娑羅 | 婆娑罗 | japanese-aesthetics | 学界惯例（日本中世文化研究通行译法“婆娑罗”） | 2026-11-02 |
+| nijiriguchi | 躙口 | 躙口 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“躙口”） | 2026-11-02 |
+| Raku | 楽焼 | 乐烧（楽焼） | japanese-aesthetics | 学界惯例（日本陶艺研究通行译法“乐烧”） | 2026-11-02 |
+| kakemono | 掛物 | 挂轴（掛物） | japanese-aesthetics | 学界惯例（日本书画研究通行译法“挂轴”） | 2026-11-02 |
+| Shoin | 書院 | 书院（書院） | japanese-aesthetics | 学界惯例（日本建筑研究通行译法“书院”） | 2026-11-02 |
+| Sōan | 草庵 | 草庵 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“草庵”） | 2026-11-02 |
 | bitai | — | 媚态 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“媚态”） | 2026-11-02 |
 | ikiji | — | 意地 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“意地”） | 2026-11-02 |
-| akirame | — | 断念（谛念） | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“断念”） | 2026-11-02 |
+| akirame | 断念 | 断念（谛念） | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“断念”） | 2026-11-02 |
 | kire-tsuzuki | — | 切续 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“切续”） | 2026-11-02 |
-| sabireru | — | 荒废（さびれる） | japanese-aesthetics | 学界惯例（日语动词 sabireru 通行译法“荒废”） | 2026-11-02 |
-| sabishii | — | 孤寂（さびしい） | japanese-aesthetics | 学界惯例（日语形容词 sabishii 通行译法“孤寂/寂寞”） | 2026-11-02 |
+| sabireru | さびれる | 荒废（さびれる） | japanese-aesthetics | 学界惯例（日语动词 sabireru 通行译法“荒废”） | 2026-11-02 |
+| sabishii | さびしい | 孤寂（さびしい） | japanese-aesthetics | 学界惯例（日语形容词 sabishii 通行译法“孤寂/寂寞”） | 2026-11-02 |
 | shibumi | — | 涩味 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“涩味”） | 2026-11-02 |
-| amami | — | 甘味 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“甘味”） | 2026-11-02 |
+| amami | 甘味 | 甘味 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“甘味”） | 2026-11-02 |
 | hadé | — | 华丽 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“华丽”） | 2026-11-02 |
 | jimi | — | 素雅 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“素雅”） | 2026-11-02 |
-| gehin | — | 下品 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“下品”） | 2026-11-02 |
-| jōhin | — | 上品 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“上品”） | 2026-11-02 |
-| chadō | — | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”） | 2026-11-02 |
-| shodō | — | 书道 | japanese-aesthetics | 学界惯例（日本书法研究通行译法“书道”） | 2026-11-02 |
-| kadō | — | 花道 | japanese-aesthetics | 学界惯例（日本花道研究通行译法“花道”） | 2026-11-02 |
-| kyūdō | — | 弓道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“弓道”） | 2026-11-02 |
-| jūdō | — | 柔道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“柔道”） | 2026-11-02 |
-| sadō | — | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”） | 2026-11-02 |
-| katanakake | — | 刀挂 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“刀挂”） | 2026-11-02 |
+| gehin | 下品 | 下品 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“下品”） | 2026-11-02 |
+| jōhin | 上品 | 上品 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“上品”） | 2026-11-02 |
+| chadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”） | 2026-11-02 |
+| shodō | 書道 | 书道 | japanese-aesthetics | 学界惯例（日本书法研究通行译法“书道”） | 2026-11-02 |
+| kadō | 華道 | 花道 | japanese-aesthetics | 学界惯例（日本花道研究通行译法“花道”） | 2026-11-02 |
+| kyūdō | 弓道 | 弓道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“弓道”） | 2026-11-02 |
+| jūdō | 柔道 | 柔道 | japanese-aesthetics | 学界惯例（日本武道研究通行译法“柔道”） | 2026-11-02 |
+| sadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”） | 2026-11-02 |
+| katanakake | 刀掛け | 刀挂 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“刀挂”） | 2026-11-02 |
 | impermanence | — | 无常 | japanese-aesthetics | 学界惯例（佛教哲学通行译法“无常”） | 2026-11-02 |
 | pathos | — | 情致 | japanese-aesthetics | 学界惯例（美学研究通行译法“情致”） | 2026-11-02 |
 | self-cultivation | — | 修身 | japanese-aesthetics | 学界惯例（儒学/东亚哲学通行译法“修身”） | 2026-11-02 |
 | tea ceremony | — | 茶道仪式（茶会；日常语境亦作“茶道”） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”） | 2026-11-02 |
-| wabi-sabi | — | 侘寂 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“侘寂”） | 2026-11-02 |
+| wabi-sabi | 侘寂 | 侘寂 | japanese-aesthetics | 学界惯例（日本美学研究通行译法“侘寂”） | 2026-11-02 |
 | epistemic justification | — | 知识证成 | justep-coherence | 学界惯例（知识论通行译法；SUMMARY 词条名“知识证成的融贯论”） | 2026-11-02 |
 | coherentism | — | 融贯论 | justep-coherence | 学界惯例（哲学通译；已登记“coherence theory of truth=真理融贯论”） | 2026-11-02 |
 | coherence | — | 融贯 | justep-coherence | 学界惯例（哲学通译“融贯/融贯性”） | 2026-11-02 |
@@ -956,7 +956,7 @@
 | virtue ethics | — | 德性伦理学 | 首现（justice-virtue） | 学界惯例（德性伦理复兴通行译法，Hursthouse/Foot 谱系）；凭证 2026-11-02 | 2026-11-02 |
 | norm-prior | — | 规范优先 | 首现（justice-virtue） | 学界惯例（LeBar《Just People》等：规范在先、德性在后）；凭证 2026-11-02 | 2026-11-02 |
 | virtue-prior | — | 德性优先 | 首现（justice-virtue） | 学界惯例（与规范优先相对：德性在先、规范在后）；凭证 2026-11-02 | 2026-11-02 |
-| ataraxia | — | 心神宁静（亦作“不动心”） | 首现（justice-virtue） | 学界惯例（希腊化哲学伊壁鸠鲁/斯多葛通行）；凭证 2026-11-02 | 2026-11-02 |
+| ataraxia | ἀταραξία | 心神宁静（亦作“不动心”） | 首现（justice-virtue） | 学界惯例（希腊化哲学伊壁鸠鲁/斯多葛通行）；凭证 2026-11-02 | 2026-11-02 |
 | pleonexia | — | 贪得（亦作“攫取过度”） | 首现（justice-virtue） | 学界惯例（亚里士多德《尼各马可伦理学》卷五）；凭证 2026-11-02 | 2026-11-02 |
 | sophrosune | — | 节制（亦作“明智”） | 首现（justice-virtue） | 学界惯例（柏拉图/亚里士多德）；凭证 2026-11-02 | 2026-11-02 |
 | dikaiosune | — | 正义 | 首现（justice-virtue） | 学界惯例（柏拉图《理想国》正义，希腊语原词）；凭证 2026-11-02 | 2026-11-02 |
@@ -1006,8 +1006,8 @@
 | frame problem | — | 框架问题 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 f/frame-problem））；凭证 2026-11-04 | 2026-11-04 |
 | existentialist aesthetics | — | 存在主义美学 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/aesthetics-existentialist））；凭证 2026-11-04 | 2026-11-04 |
 | evolution | — | 进化 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 e/evolution））；凭证 2026-11-04 | 2026-11-04 |
-| yin | — | 阴 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
-| yang | — | 阳 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
+| yin | 陰 | 阴 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
+| yang | 陽 | 阳 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | scientia | scientia | 知识（经院拉丁术语） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | pneuma | — | 普纽玛 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
 | modi significandi | modi significandi | 意指样式（摩迪斯泰语法） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
@@ -1086,22 +1086,22 @@
 | Denken als Denken | Denken als Denken | 作为思维的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
 | sprachloses Denken | sprachloses Denken | 无语言的思维 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
 | Synonymik | Synonymik | 同义词学 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
-| kokugaku | — | 国学（日本本土研究传统） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| Kokugakusha | — | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| shinkoku | — | 神国 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| magokoro | — | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kokugaku | 国学 | 国学（日本本土研究传统） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| Kokugakusha | 国学者 | 国学者 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| shinkoku | 神国 | 神国 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| magokoro | 真心 | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | karagokoro | — | 汉意 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | mikunigokoro | — | 御国心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Yamato gokoro / damashii | — | 大和心/大和魂 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| kannagara | — | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kannagara | 随神 | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | makoto no shintō | — | 真神道 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kakuriyo / yūmeikai | — | 隐世/幽冥界 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | kishin | — | 鬼神（平田学派：有意志与力量的灵） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| saisei itchi | — | 祭政一致 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| saisei itchi | 祭政一致 | 祭政一致 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Taikyō senpu undō | — | 大教宣布运动 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| kokutai | — | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| kokutai | 国体 | 国体 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Nihonjinron | — | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
-| hongaku / honkyō | — | 本学/本教（大国隆正） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
+| hongaku / honkyō | 本学 / 本教 | 本学/本教（大国隆正） | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | reliable cognition（tshad ma） | — | 可靠认知（即"量"；藏文 tshad ma 本词条通译作"量"） | epistemology-language-tibetan | 佛学界通行（量=pramāṇa/tshad ma）；与 gelukpa 词条 pramāṇa=量论 对齐 | 2026-11-04 |
 | appearing object（snang yul） | — | 显现境（snang yul） | epistemology-language-tibetan | 藏传量论通译 | 2026-11-04 |
 | apprehended object / grasped object（gzung yul） | — | 所取境（gzung yul） | epistemology-language-tibetan | 藏传量论通译（所取=gzung ba） | 2026-11-04 |
@@ -1238,7 +1238,7 @@
 | circular proofs | — | 循环证明 | logic-provability | 证明论通行（Shamkanov） | 2026-11-05 |
 | informal/absolute provability | — | 非形式可证性／绝对可证性 | logic-provability | 数学哲学通行 | 2026-11-05 |
 | hwajaeng（和諍） | 和諍 | 和诤 | korean-buddhism | 汉文传统写法（元晓判教概念；源文汉字 和諍） | 2026-11-05 |
-| One Mind（yixin/ilsim） | — | 一心 | korean-buddhism | 佛典古译（《大乘起信论》一心，源文汉字 一心） | 2026-11-05 |
+| One Mind（yixin/ilsim） | 一心 | 一心 | korean-buddhism | 佛典古译（《大乘起信论》一心，源文汉字 一心） | 2026-11-05 |
 | Chakravarti | — | 转轮圣王 | korean-buddhism | 佛典古译（转轮圣王/转轮王） | 2026-11-05 |
 | icchantika | — | 一阐提 | korean-buddhism | 佛典古译（不具信之种性者） | 2026-11-05 |
 | five classes of sentient beings | — | 五性各别 | korean-buddhism | 佛典古译（玄奘门五种姓说） | 2026-11-05 |
@@ -1249,10 +1249,10 @@
 | chŏnghye ssangsu（定慧雙修） | 定慧雙修 | 定慧双修 | korean-buddhism | 汉文传统写法（知讷实践纲领） | 2026-11-05 |
 | sŏngjŏk tŭngji（惺寂等持） | 惺寂等持 | 惺寂等持 | korean-buddhism | 汉文传统写法（知讷三门径之一） | 2026-11-05 |
 | Kanhwa Sŏn（看話禪） | 看話禪 | 看话禅 | korean-buddhism | 汉文传统写法（大慧宗杲创、知讷引入韩国） | 2026-11-05 |
-| hwalgu/sagu | — | 活句/死句 | korean-buddhism | 禅林古语（话头两类） | 2026-11-05 |
+| hwalgu/sagu | 活句 / 死句 | 活句/死句 | korean-buddhism | 禅林古语（话头两类） | 2026-11-05 |
 | pollae myŏnmok（本來面目） | 本來面目 | 本来面目 | korean-buddhism | 禅林古语 | 2026-11-05 |
 | irwŏnsang（一圓相） | 一圓相 | 一圆相 | korean-buddhism | 汉文传统写法（圆佛教核心概念） | 2026-11-05 |
-| T’ong Pulgyo | — | 统一佛教 | korean-buddhism | 韩国佛教史学界通行（통불교；Shim Jaeryong 批判对象） | 2026-11-05 |
+| T’ong Pulgyo | 통불교 | 统一佛教 | korean-buddhism | 韩国佛教史学界通行（통불교；Shim Jaeryong 批判对象） | 2026-11-05 |
 | Minjung Buddhism | — | 民众佛教 | korean-buddhism | 韩国学界通行（민중불교；Minjung=民众） | 2026-11-05 |
 | chuin’gong（주인공） | 주인공 | 主人公 | korean-buddhism | 汉文传统写法（大行「主人公」修行法，公/空双关） | 2026-11-05 |
 | ch’e-yong（體用） | 體用 | 体用 | korean-philosophy | 汉文传统写法（儒佛共享范式；源文汉字 體用） | 2026-11-05 |
