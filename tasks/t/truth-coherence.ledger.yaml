@@ -1,0 +1,393 @@
+version: 1
+slug: truth-coherence
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      A coherence theory of truth states that any proposition is true if and only if it coheres with some specified set of propositions. The coherence theory differs from its principal competitor, the correspondence theory of truth, in two essential respects. The competing theories give conflicting accounts of the relation that propositions bear to their truth conditions. (In this article, ‘proposition’ is not used in any technical sense. It simply refers to the bearers of truth values, whatever they may be.) According to one, the relation is coherence, according to the other, it is correspondence. The two theories also give conflicting accounts of truth conditions. According to the coherence theory, the truth conditions of propositions consist in other propositions. The correspondence theory, in contrast, states that the truth conditions of propositions are not (in general) propositions, but rather objective features of the world. (Even the correspondence theorist holds that propositions about propositions have propositions as their truth conditions.) Although the coherence and correspondence theories are fundamentally opposed in this way, they both present (in contrast to deflationary theories of truth) a substantive conception of truth. That is, unlike deflationary theories, the coherence and correspondence theories both hold that truth is a property of propositions that can be analysed in terms of the sorts of truth-conditions propositions have, and the relations propositions stand in to these conditions.
+    step1: |-
+      一种真理融贯论主张：任何命题为真，当且仅当它与某个被指定的命题集相融贯。融贯论与它的主要竞争者真理符合论在两个根本方面不同。两种竞争理论对命题与其真值条件之间所持关系的说明互相冲突。（本文中“命题”不作任何技术性使用，仅指真值承担者，无论它们是什么。）按其中一种说法，这一关系是融贯；按另一种说法，它是符合。两种理论对真值条件也给出互相冲突的说明。按融贯论，命题的真值条件在于其他命题。符合论则相反，主张命题的真值条件（一般而言）不是命题，而是世界的客观特征。（即便符合论者也认为，关于命题的命题以命题为其真值条件。）尽管融贯论与符合论在这一方面根本对立，二者（与真理紧缩论相反）都提出了一种实质性的真理观。也就是说，与紧缩论不同，融贯论与符合论都认为真是命题的一种属性，可以依据命题所具有的真值条件种类、以及命题与这些条件所处的关系来加以分析。
+    step2: |-
+      真理融贯论的主张是：一个命题为真，当且仅当它与某一被指定的命题集相融贯。它与主要对手真理符合论在两处根本不同。其一，关于命题同其真值条件之间是何种关系，两说各执一词。（本文中“命题”不作任何技术性用法，只指真值承担者，不论那是什么。）一说这关系是融贯，一说这关系是符合。其二，两说对真值条件本身也各有说法。融贯论认为，命题的真值条件就在于其他命题；符合论则相反，认为真值条件一般不是命题，而是世界的客观特征。（符合论者也承认，关于命题的命题，其真值条件仍是命题。）两说虽如此针锋相对，却都与真理紧缩论不同，都提出了某种实质性的真理观。这就是说，二者都认为真是命题的一项属性，可按命题具有哪类真值条件、又与这些条件处于何种关系来加以分析；紧缩论则不然。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Versions of the Coherence Theory of Truth
+    step1: |-
+      ## 1 真理融贯论的各种版本
+    step2: |-
+      ## 1 真理融贯论的各版本
+  - id: 3
+    kind: body
+    source: |-
+      The coherence theory of truth has several versions. These versions differ on two major issues. Different versions of the theory give different accounts of the coherence relation. Different varieties of the theory also give various accounts of the set (or sets) of propositions with which true propositions cohere. (Such a set will be called a *specified set*.)
+    step1: |-
+      真理融贯论有若干版本。这些版本在两个主要问题上不同。不同版本对融贯关系给出不同说明。不同种类理论对真命题与之相融贯的那个（或那些）命题集也给出不同说明。（这样的集合将被称为*指定集*。）
+    step2: |-
+      真理融贯论不止一个版本，其分歧集中在两个大问题上：一是如何说明融贯关系，二是真命题所融贯的那个（或那些）命题集是什么。（下文称此集为*指定集*。）
+  - id: 4
+    kind: body
+    source: |-
+      According to some early versions of the coherence theory, the coherence relation is simply consistency. On this view, to say that a proposition coheres with a specified set of propositions is to say that the proposition is consistent with the set. This account of coherence is unsatisfactory for the following reason. Consider two propositions which do not belong to a specified set. These propositions could both be consistent with a specified set and yet be inconsistent with each other. If coherence is consistency, the coherence theorist would have to claim that both propositions are true, but this is impossible.
+    step1: |-
+      按照融贯论的某些早期版本，融贯关系就是一致性。按这种看法，说一个命题与一个指定集相融贯，就是说该命题与该集合一致。这种对融贯的说明不能令人满意，理由如下。设想两个不属于某个指定集的命题。这两个命题可以都与该指定集一致，却彼此不一致。如果融贯就是一致，融贯论者就不得不主张两个命题都为真，而这是不可能的。
+    step2: |-
+      有些早期版本把融贯关系径直等同于一致性：说一个命题与某指定集相融贯，就是说它同该集合一致。这种说明站不住脚，理由如下。设想两个都不属于某指定集的命题。二者可以各自与该集合一致，彼此却不一致。若融贯即一致，融贯论者便只好说这两个命题都真——而这是不可能的。
+  - id: 5
+    kind: body
+    source: |-
+      A more plausible version of the coherence theory states that the coherence relation is some form of entailment. Entailment can be understood here as strict logical entailment, or entailment in some looser sense. According to this version, a proposition coheres with a set of propositions if and only if it is entailed by members of the set. Another more plausible version of the theory, held for example in Bradley (1914), is that coherence is mutual explanatory support between propositions.
+    step1: |-
+      一个更可信的融贯论版本主张，融贯关系是某种形式的蕴涵。蕴涵在此可以理解为严格的逻辑蕴涵，也可以理解为某种较宽松意义上的蕴涵。按这一版本，一个命题与一个命题集相融贯，当且仅当它被该集合的成员所蕴涵。另一个更可信的版本——例如布拉德利（1914）所持的版本——主张，融贯是命题之间的相互解释性支持。
+    step2: |-
+      较可信的一种版本认为，融贯关系是某种蕴涵——或取严格的逻辑蕴涵，或取较宽的蕴涵义。照此说，一个命题与一个命题集相融贯，当且仅当它为该集合的成员所蕴涵。另有一种较可信的版本（例如布拉德利 1914 年所持），把融贯理解为命题之间的相互解释性支持。
+  - id: 6
+    kind: body
+    source: |-
+      The second point on which coherence theorists (coherentists, for short) differ is the constitution of the specified set of propositions. Coherentists generally agree that the specified set consists of propositions believed or held to be true. They differ on the questions of who believes the propositions and when. At one extreme, coherence theorists can hold that the specified set of propositions is the largest consistent set of propositions currently believed by actual people. For such a version of the theory, see Young (1995). According to a moderate position, the specified set consists of those propositions which will be believed when people like us (with finite cognitive capacities) have reached some limit of inquiry. For such a coherence theory, see Putnam (1981). At the other extreme, coherence theorists can maintain that the specified set contains the propositions which would be believed by an omniscient being. Some idealists seem to accept this account of the specified set.
+    step1: |-
+      融贯论者（简称融贯论者）分歧的第二点，是指定集的构成。融贯论者一般同意，指定集由被相信或被认为真的命题组成。他们在谁相信这些命题、何时相信的问题上不同。在一个极端上，融贯论者可以主张，指定集是现实的人当前所相信的最大的相容命题集。关于这样一种版本，参见 Young（1995）。按照一种温和立场，指定集由这样一些命题组成：当我们这样的人（具有有限认知能力）达到某种探究极限时将会相信它们。关于这样一种融贯论，参见 Putnam（1981）。在另一个极端上，融贯论者可以主张，指定集包含一位全知存在着将会相信的命题。一些唯心论者似乎接受这种关于指定集的说明。
+    step2: |-
+      第二处分歧在于指定集由什么构成。融贯论者大体上都同意：指定集由被相信或被认为真的命题构成；分歧在于信者是谁、何时相信。一种极端主张是：指定集即现实的人当下所相信的最大相容命题集，此说见 Young（1995）。温和一点的立场则说：指定集由我们这类认知能力有限的生灵在探究达到某种极限时将会相信的命题构成，此说见 Putnam（1981）。另一种极端则主张：指定集包含一位全知存在着将会相信的命题；某些唯心论者似持此说。
+  - id: 7
+    kind: body
+    source: |-
+      If the specified set is a set actually believed, or even a set which would be believed by people like us at some limit of inquiry, coherentism involves the rejection of realism about truth. Realism about truth involves acceptance of the principle of bivalence (according to which every proposition is either true or false) and the principle of transcendence (which says that a proposition may be true even though it cannot be known to be true). Coherentists who do not believe that the specified set is the set of propositions believed by an omniscient being are committed to rejection of the principle of bivalence since it is not the case that for every proposition either it or a contrary proposition coheres with the specified set. They reject the principle of transcendence since, if a proposition coheres with a set of beliefs, it can be known to cohere with the set.
+    step1: |-
+      如果指定集是一个实际被相信的集合，甚至是我们在某种探究极限上将会相信的集合，那么融贯论就包含对关于真理的实在论的拒斥。关于真理的实在论包含接受二值原则（据此每一命题非真即假）与超越原则（据此一个命题即便不能被知道为真，也可能为真）。那些不认为指定集是全知存在着所相信的命题集的融贯论者，必然拒斥二值原则，因为并非对每一命题而言，要么它、要么一个相反命题与指定集相融贯。他们也拒斥超越原则，因为如果一个命题与一个信念集相融贯，它就可以被知道与该集合相融贯。
+    step2: |-
+      只要指定集是实际被相信的集合，或者哪怕是我们在探究极限上将会相信的集合，融贯论便含有拒斥真理实在论的意味。真理实在论接受两项原则：二值原则（每一命题非真即假）与超越原则（一个命题即便无法被知道为真，也可能为真）。凡不认为指定集即全知存在着所信命题集的融贯论者，都得拒斥二值原则：并非每个命题都能做到要么它本身、要么其反命题与指定集相融贯。他们同样要拒斥超越原则：命题若与一个信念集相融贯，这融贯本身是可以被知道的。
+  - id: 8
+    kind: body
+    source: |-
+      ## 2. Arguments for Coherence Theories of Truth
+    step1: |-
+      ## 2 支持真理融贯论的论证
+    step2: |-
+      ## 2 真理融贯论的论证
+  - id: 9
+    kind: body
+    source: |-
+      Two principal lines of argument have led philosophers to adopt a coherence theory of truth. Early advocates of coherence theories were persuaded by reflection on metaphysical questions. More recently, epistemological and semantic considerations have been the basis for coherence theories.
+    step1: |-
+      有两条主要论证路线促使哲学家采纳真理融贯论。早期拥护者是对形而上学问题的反思说服了他们。晚近以来，认识论与语义学的考量成为融贯论的依据。
+    step2: |-
+      促使哲学家采纳真理融贯论的有两条主要路线。早期倡导者是被形而上学思考说服的；晚近的融贯论则多半立足于认识论与语义学上的考量。
+  - id: 10
+    kind: body
+    source: |-
+      ### 2.1 The Metaphysical Route to Coherentism
+    step1: |-
+      ### 2.1 通向融贯论的形而上学路径
+    step2: |-
+      ### 2.1 形而上学之路
+  - id: 11
+    kind: body
+    source: |-
+      Early versions of the coherence theory were associated with idealism. Walker (1989) attributes coherentism to Spinoza, Kant, Fichte and Hegel. Certainly a coherence theory was adopted by a number of British Idealists in the last years of the nineteenth century and the first decades of the twentieth. See, for example, Bradley (1914).
+    step1: |-
+      融贯论的早期版本与唯心论相联系。Walker（1989）把融贯论归给斯宾诺莎、康德、费希特和黑格尔。可以肯定，十九世纪最后几年和二十世纪最初几十年，若干英国唯心论者采纳了融贯论。例如参见布拉德利（1914）。
+    step2: |-
+      融贯论的早期版本同唯心论结伴而行。Walker（1989）把融贯论上溯到斯宾诺莎、康德、费希特与黑格尔。十九世纪末叶至二十世纪初叶，确有一批英国唯心论者采纳此说，例如布拉德利（1914）。
+  - id: 12
+    kind: body
+    source: |-
+      Idealists are led to a coherence theory of truth by their metaphysical position. Advocates of the correspondence theory believe that a belief is (at least most of the time) ontologically distinct from the objective conditions which make the belief true. Idealists do not believe that there is an ontological distinction between beliefs and what makes beliefs true. From the idealists’ perspective, reality is something like a collection of beliefs. Consequently, a belief cannot be true because it corresponds to something which is not a belief. Instead, the truth of a belief can only consist in its coherence with other beliefs. A coherence theory of truth which results from idealism usually leads to the view that truth comes in degrees. A belief is true to the degree that it coheres with other beliefs.
+    step1: |-
+      唯心论者由其形而上学立场被引向真理融贯论。符合论的拥护者相信，一个信念（至少在大多数时候）在本体论上区别于使该信念为真的客观条件。唯心论者不认为信念与使信念为真者之间存在本体论区别。从唯心论者的角度看，实在类似于一个信念的集合。因此，一个信念不可能因为符合某个不是信念的东西而为真。相反，一个信念的真只能在于它与其他信念的融贯。由唯心论产生的真理融贯论通常导致这样的看法：真是有程度的。一个信念在它与其他信念相融贯的程度上为真。
+    step2: |-
+      唯心论者是因自己的形而上学立场而走向真理融贯论的。符合论者相信：信念（至少在多数场合）在本体论上不同于使它为真的客观条件。唯心论者不承认信念与使信念为真者之间有这样的区别；在他们眼里，实在差不多就是一束信念。于是，信念不可能靠符合某个非信念之物而为真；它的真只能在于同其他信念相融贯。由唯心论引出的融贯论，通常还带来“真分程度”的看法：一个信念在多大程度上与其他信念相融贯，就在多大程度上为真。
+  - id: 13
+    kind: body
+    source: |-
+      Since idealists do not recognize an ontological distinction between beliefs and what makes them true, distinguishing between versions of the coherence theory of truth adopted by idealists and an identity theory of truth can be difficult. The article on Bradley in this Encyclopedia (Candlish 2006) argues that Bradley had an identity theory, not a coherence theory.
+    step1: |-
+      由于唯心论者不承认信念与使信念为真者之间的本体论区别，区分唯心论者所采纳的真理融贯论版本与真理同一论可能很困难。本百科全书论布拉德利的词条（Candlish 2006）主张，布拉德利持有的是同一论，而非融贯论。
+    step2: |-
+      唯心论者既不承认信念与使信念为真者之间有何本体论区别，要把他们所持的融贯论版本同真理同一论分开，就往往很难。本百科全书论布拉德利的词条（Candlish 2006）即主张：布拉德利所持为同一论，不是融贯论。
+  - id: 14
+    kind: body
+    source: |-
+      In recent years metaphysical arguments for coherentism have found few advocates. This is due to the fact that idealism is not widely held.
+    step1: |-
+      近年来，为融贯论所作的形而上学论证已少有拥护者。这是由于唯心论已不再广泛流行。
+    step2: |-
+      晚近以来，为融贯论张目的形而上学论证应者寥寥，原因在于唯心论已不流行。
+  - id: 15
+    kind: body
+    source: |-
+      ### 2.2 Epistemological Routes to Coherentism
+    step1: |-
+      ### 2.2 通向融贯论的认识论路径
+    step2: |-
+      ### 2.2 认识论之路
+  - id: 16
+    kind: body
+    source: |-
+      Blanshard (1939, ch. XXVI) argues that a coherence theory of justification leads to a coherence theory of truth. His argument runs as follows. Someone might hold that coherence with a set of beliefs is the test of truth but that truth consists in correspondence to objective facts. If, however, truth consists in correspondence to objective facts, coherence with a set of beliefs will not be a test of truth. This is the case since there is no guarantee that a perfectly coherent set of beliefs matches objective reality. Since coherence with a set of beliefs is a test of truth, truth cannot consist in correspondence.
+    step1: |-
+      布兰夏德（1939，第二十六章）主张，证成的融贯理论导致真理的融贯理论。他的论证如下。有人可能主张，与一个信念集相融贯是真理的检验，但真理在于符合客观事实。然而，如果真理在于符合客观事实，那么与一个信念集相融贯就不会是真理的检验。情况之所以如此，是因为无法保证一个完全融贯的信念集与客观实在相合。既然与一个信念集相融贯是真理的检验，真理就不可能在于符合。
+    step2: |-
+      布兰夏德（1939，第 26 章）论证说，证成的融贯理论会导向真理的融贯理论。其论证如下：有人也许承认，与一个信念集相融贯可用作真理的检验，但仍主张真理在于符合客观事实。然而，真理若真在于符合客观事实，那么融贯就不成其为真理的检验了——因为谁也无法保证一个完全融贯的信念集恰与客观实在相合。既然融贯确实是真理的检验，真理便不可能在于符合。
+  - id: 17
+    kind: body
+    source: |-
+      Blanshard’s argument has been criticised by, for example, Rescher (1973). Blanshard’s argument depends on the claim that coherence with a set of beliefs is the test of truth. Understood in one sense, this claim is plausible enough. Blanshard, however, has to understand this claim in a very strong sense: coherence with a set of beliefs is an infallible test of truth. If coherence with a set of beliefs is simply a good but fallible test of truth, as Rescher suggests, the argument fails. The “falling apart” of truth and justification to which Blanshard refers is to be expected if truth is only a fallible test of truth.
+    step1: |-
+      布兰夏德的论证受到了例如雷谢尔（1973）的批评。布兰夏德的论证依赖于这一主张：与一个信念集相融贯是真理的检验。在一种意义上理解，这一主张颇为可信。然而，布兰夏德必须在一个非常强的意义上理解这一主张：与一个信念集相融贯是真理的不会出错的检验。如果与一个信念集相融贯只是真理的一种良好但可错的检验，如雷谢尔所提示的，论证就失败了。布兰夏德所说的真理与证成之间的“分崩离析”，如果融贯只是真理的一种可错检验，本就在意料之中。
+    step2: |-
+      雷谢尔（1973）等人批评了布兰夏德。其论证的支点在于“与信念集相融贯是真理的检验”这一主张。此说在一种宽泛意义上颇为可信；但布兰夏德非得把它读得很强——融贯是真理的不会出错的检验——不可。倘若融贯只是良好而可错的检验（如雷谢尔所提示），论证即告失效。布兰夏德所说的真理与证成“分崩离析”，若融贯仅为可错的检验，本来就属意料中事。
+  - id: 18
+    kind: body
+    source: |-
+      Another epistemological argument for coherentism is based on the view that we cannot “get outside” our set of beliefs and compare propositions to objective facts. A version of this argument was advanced by some logical positivists including Hempel (1935) and Neurath (1983). This argument, like Blanshard’s, depends on a coherence theory of justification. The argument infers from such a theory that we can only know that a proposition coheres with a set of beliefs. We can never know that a proposition corresponds to reality.
+    step1: |-
+      另一个支持融贯论的认识论论证，基于这样一种看法：我们无法“走出”自己的信念集，把命题与客观事实相比较。这一论证的一个版本由一些逻辑实证主义者提出，包括亨佩尔（1935）与纽拉特（1983）。这一论证如同布兰夏德的论证，依赖于证成的融贯理论。该论证从这样一种理论推出：我们只能知道一个命题与一个信念集相融贯。我们永远不能知道一个命题符合实在。
+    step2: |-
+      支持融贯论的另一条认识论论证，基于“我们无法走出自己的信念集、拿命题去同客观事实比对”这一看法。亨佩尔（1935）、纽拉特（1983）等逻辑实证主义者提出过此论证的一个版本。它同布兰夏德的论证一样，以证成的融贯理论为前提，并由之推出：我们所能知道的，只是一个命题与某个信念集相融贯；至于它是否符合实在，我们永远无从知道。
+  - id: 19
+    kind: body
+    source: |-
+      This argument is subject to at least two criticisms. For a start, it depends on a coherence theory of justification, and is vulnerable to any objections to this theory. More importantly, a coherence theory of truth does not follow from the premisses. We cannot infer from the fact that a proposition cannot be known to correspond to reality that it does not correspond to reality. Even if correspondence theorists admit that we can only know which propositions cohere with our beliefs, they can still hold that truth consists in correspondence. If correspondence theorists adopt this position, they accept that there may be truths which cannot be known. Alternatively, they can argue, as does Davidson (1986), that the coherence of a proposition with a set of beliefs is a good indication that the proposition corresponds to objective facts and that we can know that propositions correspond.
+    step1: |-
+      这一论证至少受到两项批评。首先，它依赖于证成的融贯理论，因而易受对该理论的一切反驳的攻击。更重要的是，真理的融贯理论并不能从前提出推出。我们不能从一个命题不能被知道为符合实在这一事实，推出它不符合实在。即便符合论者承认我们只能知道哪些命题与我们的信念相融贯，他们仍然可以主张真理在于符合。如果符合论者采取这一立场，他们就接受可能存在不能被知道的真理。或者，他们也可以像戴维森（1986）那样论证，一个命题与一个信念集相融贯，是该命题符合客观事实的良好指示，并且我们能够知道命题符合。
+    step2: |-
+      这一论证至少有两处可议。首先，它以证成的融贯理论为前提，凡对该理论的驳难都会波及它。更要紧的是，真理融贯论并不能从前提出推出。从“一个命题无法被知道符合实在”，推不出“它不符合实在”。符合论者尽可承认我们只能知道哪些命题同我们的信念相融贯，同时仍主张真理在于符合；如此，他们便接受有些真理无法被知道。他们也可以走戴维森（1986）的路子：命题与信念集相融贯，恰是它符合客观事实的好兆头，而且我们能够知道命题确实符合。
+  - id: 20
+    kind: body
+    source: |-
+      Coherence theorists need to argue that propositions cannot correspond to objective facts, not merely that they cannot be known to correspond. In order to do this, the foregoing argument for coherentism must be supplemented. One way to supplement the argument would be to argue as follows. As noted above, the correspondence and coherence theories have differing views about the nature of truth conditions. One way to decide which account of truth conditions is correct is to pay attention to the process by which propositions are assigned truth conditions. Coherence theorists can argue that the truth conditions of a proposition are the conditions under which speakers make a practice of asserting it. Coherentists can then maintain that speakers can only make a practice of asserting a proposition under conditions the speakers are able to recognise as justifying the proposition. Now the (supposed) inability of speakers to “get outside” of their beliefs is significant. Coherentists can argue that the only conditions speakers can recognise as justifying a proposition are the conditions under which it coheres with their beliefs. When the speakers make a practice of asserting the proposition under these conditions, they become the proposition’s truth conditions. For an argument of this sort see Young (1995).
+    step1: |-
+      融贯论者需要论证命题不可能符合客观事实，而不只是不可能被知道为符合。要做到这一点，前述支持融贯论的论证必须得到补充。补充该论证的一种方式如下。如前所述，符合论与融贯论对真值条件的本性持不同看法。判定哪一种真值条件说明正确的一个办法，是注意命题被赋予真值条件的过程。融贯论者可以论证，一个命题的真值条件，就是说话者习惯性地断言该命题时所需的条件。融贯论者然后可以主张，说话者只有在他们能够认作该命题之证成的条件下，才能习惯性地断言该命题。于是，说话者（所谓的）无法“走出”自己信念这一情况就有了意义。融贯论者可以论证，说话者能够认作一个命题之证成的唯一条件，就是该命题与他们的信念相融贯的条件。当说话者习惯性地在这些条件下断言该命题时，这些条件就成了该命题的真值条件。关于这种论证，参见 Young（1995）。
+    step2: |-
+      融贯论者要论证的不是“命题无法被知道符合实在”，而是“命题不可能符合客观事实”。为此，前面的论证还得加料。一种补法如下。前文已说，符合论与融贯论对真值条件的本性看法不同。要判定哪一说对，不妨看看命题获得真值条件的实际过程。融贯论者可以主张：一个命题的真值条件，就是说话者惯常断言该命题时所处的条件。接着再说：说话者只能在自认为足以证成该命题的条件下，才惯常地断言它。至此，说话者“走不出”自身信念这一点便显出分量——他们所能认作证成的条件，无非是该命题同其信念相融贯的条件。一旦他们惯常在这些条件下断言该命题，这些条件便成了该命题的真值条件。此类论证见 Young（1995）。
+  - id: 21
+    kind: body
+    source: |-
+      ## 3. Criticisms of Coherence Theories of Truth
+    step1: |-
+      ## 3 对真理融贯论的批评
+    step2: |-
+      ## 3 对融贯论的批评
+  - id: 22
+    kind: body
+    source: |-
+      Any coherence theory of truth faces two principal challenges. The first may be called the specification objection. The second is the transcendence objection.
+    step1: |-
+      任何真理融贯论都面临两项主要挑战。第一项可称为指定诘难。第二项是超越诘难。
+    step2: |-
+      任何真理融贯论都要面对两大挑战：一为指定诘难，一为超越诘难。
+  - id: 23
+    kind: body
+    source: |-
+      ### 3.1 The Specification Objection
+    step1: |-
+      ### 3.1 指定诘难
+    step2: |-
+      ### 3.1 指定诘难
+  - id: 24
+    kind: body
+    source: |-
+      According to the specification objection, coherence theorists have no way to identify the specified set of propositions without contradicting their position. This objection originates in Russell (1907). Opponents of the coherence theory can argue as follows. The proposition (1) “Jane Austen was hanged for murder” coheres with some set of propositions. (2) “Jane Austen died in her bed” coheres with another set of propositions. No one supposes that the first of these propositions is true, in spite of the fact that it coheres with a set of propositions. The specification objection charges that coherence theorists have no grounds for saying that (1) is false and (2) true.
+    step1: |-
+      按照指定诘难，融贯论者没有办法在不自相矛盾的情况下辨识出指定集。这一诘难源于罗素（1907）。融贯论的反对者可以这样论证。命题（1）“简·奥斯汀因谋杀被处以绞刑”与某个命题集相融贯。命题（2）“简·奥斯汀死于床上”与另一个命题集相融贯。没有人认为这两个命题中的第一个为真，尽管它与一个命题集相融贯。指定诘难指控说，融贯论者没有理由说（1）为假而（2）为真。
+    step2: |-
+      指定诘难是说：融贯论者要指认那个指定集，就难免自相矛盾。此诘难出自罗素（1907）。反对者可以这样讲：命题（1）“简·奥斯汀因谋杀被处以绞刑”与某一命题集相融贯；命题（2）“简·奥斯汀死于床上”与另一命题集相融贯。谁也不会认为前者为真，尽管它确实同某个命题集相融贯。于是指定诘难指责道：融贯论者凭什么说（1）假而（2）真？
+  - id: 25
+    kind: body
+    source: |-
+      Some responses to the specification problem are unsuccessful. One could say that we have grounds for saying that (1) is false and (2) is true because the latter coheres with propositions which correspond to the facts. Coherentists cannot, however, adopt this response without contradicting their position. Sometimes coherence theorists maintain that the specified system is the most comprehensive system, but this is not the basis of a successful response to the specification problem. Coherentists can only, unless they are to compromise their position, define comprehensiveness in terms of the size of a system. Coherentists cannot, for example, talk about the most comprehensive system composed of propositions which correspond to reality. There is no reason, however, why two or more systems cannot be equally large. Other criteria of the specified system, to which coherentists frequently appeal, are similarly unable to solve the specification problem. These criteria include simplicity, empirical adequacy and others. Again, there seems to be no reason why two or more systems cannot equally meet these criteria.
+    step1: |-
+      对指定问题的某些回应并不成功。有人可以说，我们有理由说（1）为假而（2）为真，因为后者与符合事实的命题相融贯。然而，融贯论者若采纳这一回应，就会自相矛盾。有时融贯论者主张，指定系统是最全面的系统，但这并不构成对指定问题的成功回应。融贯论者除非要损害自己的立场，否则只能按系统的规模来定义全面性。例如，融贯论者不能谈论由符合实在的命题组成的最全面系统。然而，没有理由认为两个或更多系统不能同样大。融贯论者常求助的指定系统的其他标准，同样无法解决指定问题。这些标准包括简单性、经验适当性等等。同样，似乎没有理由认为两个或更多系统不能同样满足这些标准。
+    step2: |-
+      有些回应并不成功。有人说，我们之所以能说（1）假而（2）真，是因为后者与符合事实的命题相融贯——但融贯论者若这样答，便等于自打嘴巴。也有人抬出“最全面系统”之说，然而这同样救不了场：融贯论者除非自损立场，只能按规模大小来界定“全面”，而不能说“由符合实在的命题组成的最全面系统”。可是，两个乃至更多系统规模相当，又有何不可？融贯论者常援引的其他标准（简单性、经验适当性等）也一样无能为力：同样没有理由说，两个以上系统不能同等满足这些标准。
+  - id: 26
+    kind: body
+    source: |-
+      Although some responses to the Russell’s version of the specification objection are unsuccessful, it is unable to refute the coherence theory. Coherentists do not believe that the truth of a proposition consists in coherence with any arbitrarily chosen set of propositions. Rather, they hold that truth consists in coherence with a set of beliefs, or with a set of propositions held to be true. No one actually believes the set of propositions with which (1) coheres. Coherence theorists conclude that they can hold that (1) is false without contradicting themselves.
+    step1: |-
+      尽管对罗素版指定诘难的某些回应并不成功，该诘难却不能驳倒融贯论。融贯论者并不认为，一个命题的真在于与任意选定的命题集相融贯。相反，他们认为真在于与一个信念集、或与一个被认为真的命题集相融贯。实际上没有人相信（1）所融贯的那个命题集。融贯论者由此得出结论：他们可以主张（1）为假而不自相矛盾。
+    step2: |-
+      针对罗素版指定诘难，有些回应确实失败了；但该诘难本身驳不倒融贯论。融贯论者从不说真在于同任意挑来的命题集相融贯，而说真在于同信念集、同被认为真的命题集相融贯。（1）所融贯的那个命题集，实际上根本无人相信。融贯论者据此答道：我们说（1）为假，并不自相矛盾。
+  - id: 27
+    kind: body
+    source: |-
+      A more sophisticated version of the specification objection has been advanced by Walker (1989); for a discussion, see Wright (1995). Walker argues as follows. In responding to Russell’s version of the specification objection, coherentists claim that some set of propositions, call it *S*, is believed. They are committed to the truth of (3) “*S* is believed.” The question of what it is for (3) to be true then arises. Coherence theorists might answer this question by saying that “‘*S* is believed’ is believed” is true. If they give this answer, they are apparently off on an infinite regress, and they will never say what it is for a proposition to be true. Their plight is worsened by the fact that arbitrarily chosen sets of propositions can include propositions about what is believed. So, for example, there will be a set which contains “Jane Austen was hanged for murder,” “‘Jane Austen was hanged for murder’ is believed,” and so on. The only way to stop the regress seems to be to say that the truth conditions of (3) consist in the objective fact *S* is believed. If, however, coherence theorists adopt this position, they seem to contradict their own position by accepting that the truth conditions of some proposition consist in facts, not in propositions in a set of beliefs.
+    step1: |-
+      Walker（1989）提出了一个更精致的指定诘难版本；关于讨论，参见 Wright（1995）。Walker 的论证如下。在回应罗素版指定诘难时，融贯论者主张某个命题集——称之为 *S*——被相信。他们承诺（3）“*S* 被相信”为真。于是问题来了：（3）为真意味着什么？融贯论者也许这样回答：是“‘*S* 被相信’被相信”为真。若给出这一回答，他们显然陷入了无穷倒退，永远说不清一个命题为真意味着什么。他们的处境由于以下事实而更糟：任意选定的命题集可以包含关于何物被相信的命题。于是，例如会有一个集合包含“简·奥斯汀因谋杀被处以绞刑”“‘简·奥斯汀因谋杀被处以绞刑’被相信”，如此等等。看来，阻止这一倒退的唯一办法是说，（3）的真值条件在于 *S* 被相信这一客观事实。然而，融贯论者若采取这一立场，他们似乎就承认某个命题的真值条件在于事实、而不在于信念集中的命题，从而与自己的立场相矛盾。
+    step2: |-
+      Walker（1989）给出一个更精致的版本，讨论见 Wright（1995）。其论证如下。融贯论者在回应罗素时，声称某个命题集（记作 *S*）被人相信，因而承诺（3）“*S* 被相信”为真。那么（3）为真又是怎么回事？融贯论者也许答曰：“‘*S* 被相信’被相信”为真。可这样一来，他们显然踏上了无穷倒退，永远说不清一个命题为真究竟是什么。更糟的是，任意挑出的命题集也可以收进关于“何物被相信”的命题：比如说，有一个集合同时包含“简·奥斯汀因谋杀被处以绞刑”、“‘简·奥斯汀因谋杀被处以绞刑’被相信”，如此下去。要止住倒退，看来只能说（3）的真值条件在于 *S* 被相信这一客观事实。然而融贯论者若走到这一步，就等于承认某个命题的真值条件在于事实而非信念集中的命题，正是自相矛盾。
+  - id: 28
+    kind: body
+    source: |-
+      There is some doubt about whether Walker’s version of the specification objection succeeds. Coherence theorists can reply to Walker by saying that nothing in their position is inconsistent with the view that there is a set of propositions which is believed. Even though this objective fact obtains, the truth conditions of propositions, including propositions about which sets of propositions are believed, are the conditions under which they cohere with a set of propositions. For a defence of the coherence theory against Walker’s version of the specification objection, see Young (2001).
+    step1: |-
+      Walker 版的指定诘难是否成功，尚有疑问。融贯论者可以这样回答 Walker：他们的立场中没有任何东西与“存在一个被相信的命题集”这一看法不相容。即便这一客观事实成立，命题——包括关于哪些命题集被相信的命题——的真值条件，仍是它们与一个命题集相融贯的条件。关于为融贯论辩护以回应 Walker 版指定诘难，参见 Young（2001）。
+    step2: |-
+      Walker 版是否成立，尚可存疑。融贯论者可以答曰：自己的立场并不排斥“有一个命题集被相信”这一看法。纵使这一客观事实成立，命题（包括“哪些命题集被相信”这类命题）的真值条件，仍然是它们同某一命题集相融贯的条件。为融贯论作此辩护、回应 Walker 的文字，见 Young（2001）。
+  - id: 29
+    kind: body
+    source: |-
+      A coherence theory of truth gives rise to a regress, but it is not a vicious regress and the correspondence theory faces a similar regress. If we say that *p* is true if and only if it coheres with a specified set of propositions, we may be asked about the truth conditions of “*p* coheres with a specified set.” Plainly, this is the start of a regress, but not one to worry about. It is just what one would expect, given that the coherence theory states that it gives an account of the truth conditions of all propositions. The correspondence theory faces a similar benign regress. The correspondence theory states that a proposition is true if and only if it corresponds to certain objective conditions. The proposition “*p* corresponds to certain objective conditions” is also true if and only if it corresponds to certain objective conditions, and so on.
+    step1: |-
+      真理融贯论会引起一个倒退，但它不是恶性倒退，而且符合论也面临类似的倒退。如果我们说 *p* 为真当且仅当它与一个指定集相融贯，人们就可能追问“*p* 与一个指定集相融贯”的真值条件。显然，这是一个倒退的开端，但不必担心。考虑到融贯论声称它给出了所有命题的真值条件说明，这恰在预料之中。符合论也面临类似的良性倒退。符合论主张，一个命题为真当且仅当它符合某些客观条件。命题“*p* 符合某些客观条件”也为真，当且仅当它符合某些客观条件，如此等等。
+    step2: |-
+      融贯论会引出倒退，但这倒退并不恶性，何况符合论也躲不开同样的倒退。我们若说 *p* 为真当且仅当它与指定集相融贯，人家便会追问“*p* 与指定集相融贯”的真值条件——这显然是一个倒退的开头，却无须担心。既然融贯论自称要说明一切命题的真值条件，出现这种情况本在预料之中。符合论同样面临一个良性的倒退：它说一个命题为真当且仅当它符合某些客观条件；那么“*p* 符合某些客观条件”也为真，当且仅当它符合某些客观条件，如此递进。
+  - id: 30
+    kind: body
+    source: |-
+      ### 3.2 The Transcendence Objection
+    step1: |-
+      ### 3.2 超越诘难
+    step2: |-
+      ### 3.2 超越诘难
+  - id: 31
+    kind: body
+    source: |-
+      The transcendence objection charges that a coherence theory of truth is unable to account for the fact that some propositions are true which cohere with no set of beliefs. According to this objection, truth transcends any set of beliefs. Someone might argue, for example, that the proposition “Jane Austen wrote ten sentences on November 17th, 1807” is either true or false. If it is false, some other proposition about how many sentences Austen wrote that day is true. No proposition, however, about precisely how many sentences Austen wrote coheres with any set of beliefs and we may safely assume that none will ever cohere with a set of beliefs. Opponents of the coherence theory will conclude that there is at least one true proposition which does not cohere with any set of beliefs.
+    step1: |-
+      超越诘难指控说，真理融贯论无法说明这样一个事实：有些命题为真，却不与任何信念集相融贯。按照这一诘难，真理超越任何信念集。例如，有人可能论证，命题“简·奥斯汀在 1807 年 11 月 17 日写了十个句子”非真即假。如果它为假，那么某个关于奥斯汀那天写了多少句子的其他命题为真。然而，关于奥斯汀究竟写了多少句子的任何命题，都不与任何信念集相融贯，而且我们可以放心假定，将来也不会有任何这样的命题与信念集相融贯。融贯论的反对者将得出结论：至少有一个真命题不与任何信念集相融贯。
+    step2: |-
+      超越诘难指控说：有些命题为真，却不同任何信念集相融贯，融贯论对此无从交代——真理超越了任何信念集。比如说，命题“简·奥斯汀在 1807 年 11 月 17 日写了十个句子”非真即假。若它为假，则某个说明奥斯汀当天究竟写了多少句子的命题为真。然而，任何关于她当天写了几句话的命题，都不与任何信念集相融贯；我们大可放心，将来也不会有。反对者由此断言：至少有一个真命题不与任何信念集相融贯。
+  - id: 32
+    kind: body
+    source: |-
+      Some versions of the coherence theory are immune to the transcendence objection. A version which holds that truth is coherence with the beliefs of an omniscient being is proof against the objection. Every truth coheres with the set of beliefs of an omniscient being. All other versions of the theory, however, have to cope with the objection, including the view that truth is coherence with a set of propositions believed at the limit of inquiry. Even at the limit of inquiry, finite creatures will not be able to decide every question, and truth may transcend what coheres with their beliefs.
+    step1: |-
+      真理融贯论的某些版本不受超越诘难影响。主张真即与一位全知存在者的信念相融贯的版本，对此诘难免疫。每一真理都与全知存在者的信念集相融贯。然而，该理论的所有其他版本都必须应对这一诘难，包括主张真即与在探究极限上所相信的命题集相融贯的看法。即便在探究极限上，有限生灵也无法对每个问题作出判定，真理仍可能超越与其信念相融贯者。
+    step2: |-
+      有些版本对此免疫：凡主张真即与全知存在者的信念相融贯者，自可无虞——每一真理都融贯于全知者的信念集。但其余版本都得应付这项诘难，包括“真即与探究极限上所信命题集相融贯”一说。即便到了探究极限，有限生灵也判不完所有问题，真理仍可能超出与其信念相融贯的范围。
+  - id: 33
+    kind: body
+    source: |-
+      Coherence theorists can defend their position against the transcendence objection by maintaining that the objection begs the question. Those who present the objection assume, generally without argument, that it is possible that some proposition be true even though it does not cohere with any set of beliefs. This is precisely what coherence theorists deny. Coherence theorists have arguments for believing that truth cannot transcend what coheres with some set of beliefs. Their opponents need to take issue with these arguments rather than simply assert that truth can transcend what coheres with a specified system.
+    step1: |-
+      融贯论者可以为自己的立场辩护，以回应超越诘难，办法是主张该诘难窃取了论题。提出诘难的人一般都未经论证地假定：某个命题有可能为真，却不与任何信念集相融贯。而这正是融贯论者所否认的。融贯论者有理由相信，真理不可能超越与某个信念集相融贯者。他们的反对者需要针对这些理由提出异议，而不能只是断言真理可以超越与指定系统相融贯者。
+    step2: |-
+      面对超越诘难，融贯论者可以指其窃取论题：发难者通常不加论证便假定，某个命题可能为真而不同任何信念集相融贯——这恰恰是融贯论者所否认的。他们自有理由相信，真理无法超出与某一信念集相融贯的范围。反对者应当就这些理由展开辩驳，而不是径自断言真理可以超越指定系统。
+  - id: 34
+    kind: body
+    source: |-
+      ### 3.3 The Logic Objection
+    step1: |-
+      ### 3.3 逻辑诘难
+    step2: |-
+      ### 3.3 逻辑诘难
+  - id: 35
+    kind: body
+    source: |-
+      Russell (1912) presented a third classic objection to the coherence theory of truth. According to this objection, any talk about coherence presupposes the truth of the laws of logic. For example, Russell argues, to say that two propositions cohere with each other is to presuppose the truth of the law of non-contradiction. In this case, coherentism has no account of the truth of law of non-contradiction. If, however, the coherence theorist holds that the truth of the law of non-contradiction depends on its coherence with a system of beliefs, and it were supposed to be false, then propositions cannot cohere or fail to cohere. In this case, the coherence theory of truth completely breaks down since propositions cannot cohere with each other.
+    step1: |-
+      罗素（1912）提出了对真理融贯论的第三个经典反驳。按照这一反驳，任何关于融贯的说法都预设了逻辑规律的真理。例如，罗素论证说，说两个命题彼此相融贯，就是预设不矛盾律的真理。在这种情况下，融贯论对不矛盾律的真理无所说明。然而，如果融贯论者主张不矛盾律的真取决于它与一个信念系统的融贯，并且假定它竟为假，那么命题就既不能相融贯、也不能不相融贯。在这种情况下，真理融贯论就彻底垮掉，因为命题彼此之间无法相融贯。
+    step2: |-
+      罗素（1912）提出第三项经典反驳：凡谈融贯，都已预设逻辑规律为真。例如，说两个命题彼此相融贯，就已预设不矛盾律为真。可这样一来，融贯论对不矛盾律本身的真就无从交代。反过来说，若融贯论者主张不矛盾律的真也系于它同信念系统的融贯，且设想它为假，那么命题便既谈不上相融贯、也谈不上不相融贯——融贯论就此全线崩塌，因为命题之间根本无从融贯。
+  - id: 36
+    kind: body
+    source: |-
+      Coherentists have a plausible response to this objection. They may hold that the law of non-contradiction, like any other truth, is true because it coheres with a system of beliefs. In particular, the law of non-contradiction is supported by the belief that, for example, communication and reasoning would be impossible unless every system of beliefs contains something like law of non-contradiction (and the belief that communication and reasoning are possible). It is true that, as Russell says, if the law is supposed not to cohere with a system of beliefs, then propositions can neither cohere nor fail to cohere. However, coherence theorists may hold, they do not suppose the law of non-contradiction to be false. On the contrary, they are likely to hold that any coherent set of beliefs must include the law of non-contradiction or a similar law.
+    step1: |-
+      融贯论者对此诘难有一个可信的回应。他们可以主张，不矛盾律如同任何其他真理，其真在于它与一个信念系统相融贯。具体说来，不矛盾律得到如下信念的支持：例如，除非每个信念系统都包含类似不矛盾律的东西（以及“交流与推理是可能的”这一信念），交流与推理就不可能进行。诚如罗素所言，如果假定该规律不与一个信念系统相融贯，那么命题既不能相融贯也不能不相融贯。然而，融贯论者可以主张，他们并不假定不矛盾律为假。相反，他们很可能主张，任何融贯的信念集都必须包含不矛盾律或一条类似的规律。
+    step2: |-
+      对此，融贯论者有一个像样的答复：不矛盾律同其他真理一样，其真在于同信念系统相融贯。具体说，支持它的是这样一些信念——比如，除非每个信念系统都含有类似不矛盾律的东西（并且相信交流与推理是可能的），交流与推理便无从进行。罗素说得不错：若假定该规律不与信念系统相融贯，命题便既非相融贯、也非不相融贯。但融贯论者可以答曰：我们并未假定不矛盾律为假；恰恰相反，我们认为任何融贯的信念集都必须含有不矛盾律或类似规律。
+  - id: 37
+    kind: body
+    source: |-
+      ## 4. New Objections to Coherentism
+    step1: |-
+      ## 4 对融贯论的新反驳
+    step2: |-
+      ## 4 对融贯论的新反驳
+  - id: 38
+    kind: body
+    source: |-
+      Paul Thagard is the author of the first of two recent new arguments against the coherence theory. Thagard states his argument as follows:
+    step1: |-
+      保罗·萨加德是晚近两个反对真理融贯论的新论证中第一个的作者。萨加德这样陈述其论证：
+    step2: |-
+      晚近有两个反对融贯论的新论证，第一个出自保罗·萨加德。他的论证如下：
+  - id: 39
+    kind: body
+    source: |-
+      > if there is a world independent of representations of it, as historical evidence suggests, then the aim of representation should be to describe the world, not just to relate to other representations. My argument does not refute the coherence theory, but shows that it implausibly gives minds too large a place in constituting truth. (Thagard 2007: 29–30)[^thagard-2007]
+    step1: |-
+      > 如果像历史证据所提示的那样，存在一个独立于关于它的表象的世界，那么表象的目标就应当是描述这个世界，而不只是与其他表象发生关系。我的论证并不驳倒融贯论，但它表明：融贯论让心灵在构成真理方面占据过大的位置，因而不合情理。（Thagard 2007: 29–30）[^thagard-2007]
+    step2: |-
+      > 倘若如历史证据所示，有一个独立于关于它的表象的世界存在，那么表象的目的就该是描述这个世界，而不只是同别的表象相关联。我的论证并不驳倒融贯论，却表明它不合情理：它让心灵在构成真理这件事上占了太大的地盘。（Thagard 2007: 29–30）[^thagard-2007]
+  - id: 40
+    kind: body
+    source: |-
+      Thagard’s argument seems to be that if there is a mind-independent world, then our representations are representations of the world. (He says representations “should be” of the world, but the argument is invalid with the addition of the auxiliary verb.) The world existed before humans and our representations, including our propositional representations. (So history and, Thagard would likely say, our best science tells us.) Therefore, representations, including propositional representations, are representations of a mind-independent world. The second sentence of the passage just quoted suggests that the only way that coherentists can reject this argument is to adopt some sort of idealism. That is, they can only reject the minor premiss of the argument as reconstructed. Otherwise they are committed to saying that propositions represent the world and, Thagard seems to suggest, this is to say that propositions have the sort of truth-conditions posited by a correspondence theory. So the coherence theory is false.
+    step1: |-
+      萨加德的论证似乎是说：如果存在一个独立于心灵的世界，那么我们的表象就是关于这个世界的表象。（他说表象“应当”是关于世界的，但加上这个情态动词，论证就不成立了。）世界先于人类和我们的表象（包括我们的命题性表象）而存在。（历史如此告诉我们，萨加德很可能还会说，我们最好的科学也如此告诉我们。）因此，表象，包括命题性表象，是关于一个独立于心灵的世界的表象。刚才所引那段的第二句表明，融贯论者要拒绝这一论证，唯一办法是采纳某种唯心论。也就是说，他们只能拒绝经重构的论证的小前提。否则，他们就承诺主张命题表征世界；而萨加德似乎提示说，这就等于说命题具有符合论所设定的那类真值条件。于是融贯论为假。
+    step2: |-
+      萨加德的论证大意是：若有独立于心灵的世界，我们的表象便是关于这个世界的表象。（他原话说表象“应当”是关于世界的；可一旦加上这个“应当”，论证就断了。）世界先于人类及其表象（包括命题性表象）而存在——历史这样说，萨加德多半还会补一句，最好的科学也这样说。因此，包括命题性表象在内，表象都是关于一个独立于心灵的世界之表象。所引文字的第二句暗示：融贯论者若想拒绝这一论证，只能投靠某种唯心论，也就是只能否认经重构后的小前提。否则他们就得承认命题表征世界，而萨加德暗示，这等于承认命题具有符合论所设想的那类真值条件。果如此，融贯论便为假。
+  - id: 41
+    kind: body
+    source: |-
+      In reply to this argument, coherentists can deny that propositions are representations of a mind-independent world. To say that a proposition is true is to say that it is supported by a specified system of propositions. So, the coherentist can say, propositions are representations of systems of beliefs, not representations of a mind-independent world. To assert a proposition is to assert that it is entailed by a system of beliefs. The coherentist holds that even if there is a mind-independent world, it does not follow that the “point” of representations is to represent this world. If coherentists have been led to their position by an epistemological route, they believe that we cannot “get outside” our system of beliefs. If we cannot get outside of our system of beliefs, then it is hard to see how we can be said to represent a mind-independent reality.
+    step1: |-
+      针对这一论证，融贯论者可以否认命题是独立于心灵的世界的表象。说一个命题为真，就是说它得到某个指定命题系统的支持。因此，融贯论者可以说，命题是信念系统的表象，而不是独立于心灵的世界之表象。断言一个命题，就是断言它被一个信念系统所蕴涵。融贯论者认为，即便存在一个独立于心灵的世界，也推不出表象的“要点”在于表征这个世界。如果融贯论者是被认识论路线引向其立场的，他们就相信我们无法“走出”自己的信念系统。如果我们无法走出自己的信念系统，那就很难说我们如何能表征一个独立于心灵的实在。
+    step2: |-
+      融贯论者大可以否认命题是独立于心灵的世界之表象。说一个命题为真，不过是说它得到某一指定命题系统的支持。因此，命题所表征的是信念系统，而非独立于心灵的世界；断言一个命题，就是断言它为信念系统所蕴涵。融贯论者还认为，纵有独立于心灵的世界，也推不出表象的“要旨”就在于表征它。若融贯论者是由认识论路径走到这一步的，他们本就相信我们“走不出”自己的信念系统；既走不出，便很难说我们如何能表征一个独立于心灵的实在。
+  - id: 42
+    kind: body
+    source: |-
+      Colin McGinn has proposed the other new objection to coherentism. He argues (McGinn 2002: 195)[^mcginn-2002] that coherence theorists are committed to idealism. Like Thagard, he takes idealism to be obviously false, so the argument is a reductio. McGinn’s argument runs as follows. Coherentists are committed to the view that, for example, ‘Snow falls from the sky’ is true iff the belief that snow falls from the sky coheres with other beliefs. Now it follows from this and the redundancy biconditional (*p* is true iff *p*) that snow falls from the sky iff the belief that snow falls from the sky coheres with other beliefs. It appears then that the coherence theorist is committed to the view that snow could not fall from the sky unless the belief that snow falls from the sky coheres with other beliefs. From this it follows that how things are depends on what is believed about them. This seems strange to McGinn since he thinks, reasonably, that snow could fall from the sky even if there were no beliefs about snow, or anything else. The linking of how things are and how they are believed to be leads McGinn to say that coherentists are committed to idealism, this being the view that how things are is mind-dependent.
+    step1: |-
+      科林·麦金提出了另一个反对融贯论的新反驳。他论证（McGinn 2002: 195）[^mcginn-2002]说，融贯论者承诺了唯心论。像萨加德一样，他认定唯心论显然为假，所以这是一个归谬论证。麦金的论证如下。融贯论者承诺这样的看法：例如，“雪从天降”为真，当且仅当雪从天降这一信念与其他信念相融贯。现在，由此以及冗余双条件句（*p* 为真当且仅当 *p*），可以推出：雪从天降，当且仅当雪从天降这一信念与其他信念相融贯。于是看来，融贯论者承诺了这样的看法：除非雪从天降这一信念与其他信念相融贯，雪就不可能从天而降。由此推出，事物如何取决于人们对它们的信念如何。这在麦金看来似乎很奇怪，因为他合理地认为，即便没有任何关于雪或其他事物的信念，雪也可能从天而降。把事物如何与事物被相信如何连接起来，使麦金断言融贯论者承诺了唯心论，而唯心论就是主张事物如何依赖于心灵。
+    step2: |-
+      科林·麦金提出另一项新反驳（McGinn 2002: 195）[^mcginn-2002]：融贯论者其实承诺了唯心论。同萨加德一样，他认定唯心论显然为假，故以归谬出之。其论证如下。融贯论者主张：“雪从天降”为真，当且仅当“雪从天降”这一信念与其他信念相融贯。再配上冗余双条件句（*p* 为真当且仅当 *p*），便得：雪从天降，当且仅当“雪从天降”这一信念与其他信念相融贯。照此看来，融贯论者就得承认：除非那个信念与其他信念相融贯，雪便不会从天而降。由此还可推出：事情怎样，取决于人们怎样相信它们。麦金觉得这很荒唐，而且不无道理：即便没有任何关于雪或别的事物的信念，雪照样可以从天而降。把“事情怎样”与“人们相信它们怎样”拴在一起，使麦金断定融贯论者承诺了唯心论——即认为事情怎样依赖于心灵。
+  - id: 43
+    kind: body
+    source: |-
+      Coherentists have a response to this objection. McGinn’s argument works because he takes it that the redundancy biconditional means something like “*p* is true because *p*”. Only if redundancy biconditionals are understood in this way does McGinn’s argument go through. McGinn needs to be talking about what makes “Snow falls from the sky” true for his reductio to work. Otherwise, coherentists who reject his argument cannot be charged with idealism. He assumes, in a way that a coherent theorist can regard as question-begging, that the truth-maker of the sentence in question is an objective way the world is. Coherentists deny that any sentences are made true by objective conditions. In particular, they hold that the falling of snow from the sky does not make “Snow falls from the sky” true. Coherentists hold that it, like any other sentence, is true because it coheres with a system of beliefs. So coherentists appear to have a plausible defence against McGinn’s objection.
+    step1: |-
+      融贯论者对此反驳有一个回应。麦金的论证之所以成立，是因为他把冗余双条件句理解为“*p* 为真因为 *p*”之类的意思。只有按这种方式理解冗余双条件句，麦金的论证才行得通。麦金需要谈论的是使“雪从天降”为真的东西，他的归谬才有效。否则，拒绝其论证的融贯论者就不能被指为唯心论。他以融贯论者可视为窃取论题的方式假定：相关语句的真值制造者是世界所是的某种客观方式。融贯论者否认有任何语句因客观条件而为真。具体说来，他们认为，雪从天降并不使“雪从天降”为真。融贯论者认为，这个句子如同任何其他句子，其真在于它与一个信念系统相融贯。因此，融贯论者似乎对麦金的反驳有一个可信的辩护。
+    step2: |-
+      融贯论者对这项反驳自有答复。麦金的论证能成立，全靠他把冗余双条件句读成“*p* 为真，是因为 *p*”之类。唯有这样读，归谬才走得通——他必须谈“使‘雪从天降’为真的东西”。否则，拒绝其论证的融贯论者就不该被扣上唯心论的帽子。而他恰恰以融贯论者视为窃取论题的方式假定：该语句的真值制造者，是世界的某种客观情形。融贯论者根本不承认有语句靠客观条件为真；具体到本例，他们认为雪从天降并不使“雪从天降”为真，这个句子同其他任何句子一样，其真在于同某个信念系统相融贯。如此看来，融贯论者对麦金的反驳有一个站得住的辩护。
+  - id: 44
+    kind: body
+    source: |-
+      ## 5. Partial and Global Coherentism
+    step1: |-
+      ## 5 局部融贯论与全局融贯论
+    step2: |-
+      ## 5 局部融贯论与全局融贯论
+  - id: 45
+    kind: body
+    source: |-
+      Most defenders of coherentism have adopted global coherentism. Global coherentism states that all propositions are true if and only if they cohere with a specified system of beliefs. Some writers have, however, suggested that coherentism could give the correct account of what it is for propositions of certain sorts to be true while failing to give the correct account of what it is for propositions of other sorts to be true. Partial coherentism is the view that coherentism is the correct theory of truth for only certain classes of propositions. Wright (2021, 144) suggests that coherentism is attractive in the cases of counterfactual conditionals, mathematical propositions, and moral propositions. Mathematical, moral and counterfactual propositions have something in common. One can plausibly hold no objective truth conditions exist for propositions of these sorts. For example, one could hold that ‘If the Epstein files had been released in 2016, Trump would never have been president’ is true, but no objective fact corresponds to this proposition since the files were not released in 2016. The absence of an objective truthmaker for this proposition, and the belief that the proposition has the truth value true (rather than indeterminate) could be taken to suggest that it is true because it coheres with a system of beliefs.
+    step1: |-
+      融贯论的大多数辩护者采纳全局融贯论。全局融贯论主张，一切命题为真，当且仅当它们与一个指定信念系统相融贯。然而，有些论者提出，融贯论可以对某几类命题之真给出正确说明，而对其他类命题之真则不能。局部融贯论是这样一种看法：融贯论只是对某些类命题而言正确的真理理论。Wright（2021, 144）提示，融贯论在反事实条件句、数学命题和道德命题的场合颇具吸引力。数学命题、道德命题与反事实命题有某种共同之处。人们可以合情合理地认为，这几类命题不存在客观真值条件。例如，人们可以认为“如果爱泼斯坦文件在 2016 年公布，特朗普就绝不会当上总统”为真，但由于文件并未在 2016 年公布，没有任何客观事实与该命题相符。该命题缺乏客观真值制造者，而人们又相信它具有真这一真值（而非不确定），这可以被用来说明：它为真，是因为它与一个信念系统相融贯。
+    step2: |-
+      融贯论的辩护者大多取全局融贯论：一切命题为真，当且仅当它们同某一指定信念系统相融贯。也有人提出，融贯论也许对某几类命题之真说得对，对别类则不然——这就是局部融贯论：融贯论只对特定类别的命题才是正确的真理理论。Wright（2021, 144）认为，融贯论在反事实条件句、数学命题与道德命题上颇有吸引力。这三类命题有个共同点：人们有理由认为，它们不存在客观真值条件。比如，人们可以说“如果爱泼斯坦文件在 2016 年公布，特朗普就绝不会当上总统”为真；可文件并未在 2016 年公布，没有任何客观事实与之相符。该命题既无客观真值制造者，人们又相信它为真（而不是不确定），这似乎提示：它为真，是因为它同某一信念系统相融贯。
+  - id: 46
+    kind: body
+    source: |-
+      Few efforts have been made to defend a coherentist account of either mathematical or counterfactual conditional propositions. This is, perhaps, a little surprising since an intuitionist approach to mathematics appears to have a good deal in common with coherentism. Intuitionism has been described as the view that the “truth of a mathematical statement can only be conceived via a mental construction that proves it to be true, and the communication between mathematicians only serves as a means to create the same mental process in different minds” (Iemhoff 2019)[^iemhoff-2019]. This statement of intuition could be interpreted as saying that a mathematical proposition is true if and only if it coheres with mathematical mental processes or beliefs.
+    step1: |-
+      为数学命题或反事实条件命题的融贯论说明作辩护的努力很少。这或许有点令人意外，因为数学中的直觉主义进路似乎与融贯论有许多共同之处。直觉主义曾被这样描述：数学陈述的“真只能经由证明其为真的心智构造来设想，而数学家之间的交流只充当在不同心灵中造成同一心智过程的手段”（Iemhoff 2019）[^iemhoff-2019]。这一对直觉主义的陈述可以解释为：一个数学命题为真，当且仅当它与数学的心智过程或信念相融贯。
+    step2: |-
+      很少有人尝试为数学命题或反事实条件命题提供融贯论说明，这或许有点奇怪——直觉主义的数学进路同融贯论看来颇为投契。有人这样描述直觉主义：数学陈述的“真，只能借助证明它为真的心智构造来设想；数学家之间的交流，不过是于不同心灵中再造同一心智过程的手段”（Iemhoff 2019）[^iemhoff-2019]。照这一表述，不妨说一个数学命题为真，当且仅当它同数学的心智过程或信念相融贯。
+  - id: 47
+    kind: body
+    source: |-
+      The suggestion that coherentism is the correct theory of truth for moral statements has received a little more attention. Quine suggested that a correspondence theory gives the correct account of scientific propositions but not moral propositions. Quine reaches this conclusion, not on the ground that objective truth conditions correspond to scientific propositions but not moral propositions, but on the related ground that scientific propositions, but not moral propositions, can be tested “against the independent course of observable nature.” The only basis for holding to be true a proposition about moral actions is “our moral standards themselves.” Quine concludes that “a coherence theory is evidently the lot of ethics” (1981, 63). Dorsey (2006) picks up on Quine’s suggestion and argues that a coherentist account of the truth of moral propositions is viable. The concept of wide reflective equilibrium, introduced into the philosophical literature by Rawls (1971) suggests that, moral propositions are justified when they fit with a system of moral beliefs. Rawls’ proposal has been widely interpreted as a version of a coherence theory (Knight 2025). Rawls speaks of the justification of moral judgements and not of their truth, but if the only basis for the warranted assertion of moral judgements is coherence with a system of moral beliefs, a coherentist account of the truth of moral judgements is plausibly said to be indicated.
+    step1: |-
+      融贯论是道德陈述之正确真理理论这一提法，受到稍多一些关注。蒯因提示，符合论对科学命题给出正确说明，对道德命题则不然。蒯因得出这一结论，其依据不是客观真值条件与科学命题相应而与道德命题不相应，而是与此相关的另一依据：科学命题可以“对照可观察自然的独立进程”加以检验，道德命题则不能。认为一个关于道德行为的命题为真的唯一依据，是“我们自己的道德标准”。蒯因得出结论：“融贯论显然是伦理学的命运”（1981, 63）。Dorsey（2006）接续蒯因的提示，论证对道德命题之真的融贯论说明是可行的。罗尔斯（1971）引入哲学文献的广义反思平衡概念提示：道德命题在与一个道德信念系统相合时得到证成。罗尔斯的提议被广泛解释为融贯论的一个版本（Knight 2025）。罗尔斯谈的是道德判断的证成而非其真，但如果道德判断之得到有理由的断言，其唯一依据就是与一个道德信念系统的融贯，那么合理地可以说，这暗示了一种关于道德判断之真的融贯论说明。
+    step2: |-
+      相对而言，“融贯论适用于道德陈述”这一提法引起的注意稍多。蒯因曾提示：符合论对科学命题说得对，对道德命题则不然。他的理由不在“客观真值条件只配科学命题、不配道德命题”，而在一个相关的理由：科学命题可以“对照可观察自然的独立进程”受检验，道德命题不能。认定一个道德行为命题为真的唯一依据，是“我们自己的道德标准”。因此蒯因断言：“融贯论显然是伦理学的命数”（1981, 63）。Dorsey（2006）接过这条线索，论证对道德命题之真作融贯论说明是可行的。罗尔斯（1971）提出的广义反思平衡概念提示：道德命题在同道德信念系统相合时获得证成。这一提议被普遍解读为融贯论的一个版本（Knight 2025）。罗尔斯说的是道德判断的证成，不是其真；但假如道德判断之有理由的断言，唯一依据就是同道德信念系统的融贯，那么说这暗示了一种关于道德判断之真的融贯论，是说得通的。
+  - id: 48
+    kind: oir
+    source: |-
+      - The section Coherence Theories, in the entry on [Truth](https://www.iep.utm.edu/truth/#H5), by Bradley Dowden, in the *Internet Encyclopedia of Philosophy*.
+    step1: |-
+      - 《互联网哲学百科全书》（*Internet Encyclopedia of Philosophy*）中 Bradley Dowden 所撰[“真理”词条](https://www.iep.utm.edu/truth/#H5)的“融贯诸理论”一节。
+    step2: |-
+      - Bradley Dowden 撰《互联网哲学百科全书》[“真理”词条](https://www.iep.utm.edu/truth/#H5)中的“融贯诸理论”一节。

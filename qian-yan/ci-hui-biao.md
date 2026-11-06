@@ -43,6 +43,7 @@
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
 |atuphos|脱尽虚妄||
 |Aulus Gellius|奥卢斯·盖利乌斯|罗马阿提卡之夜|
+|Austen, Jane|简·奥斯汀||
 |Austin, John|约翰·奥斯丁||
 |Bahya ibn Paquda|巴希亚·伊本·帕库达|犹太哲学家；《心的职责》|
 |Bauer, Bruno|布鲁诺·鲍威尔||
@@ -57,6 +58,7 @@
 |Bildung|教化|伽达默尔语境|
 |biodiversity|生物多样性|审定名词（多域）|
 |biological information|生物信息||
+|Blanshard, Brand|布兰夏德||
 |Boethius, Anicius Manlius Severinus|亚尼修·玛理乌斯·塞味利诺·波爱修斯||
 |Bradley, Francis Herbert|弗朗西斯·赫伯特·布拉德雷||
 |Brian Leftow|布莱恩·莱夫托||
@@ -100,6 +102,7 @@
 |Cordemoy, Géraud de|热罗·德·科尔德穆瓦||
 |Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
+|correspondence theory of truth|真理符合论||
 |Crates|克拉特斯||
 |Crathorn, William|威廉·克雷索恩||
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
@@ -114,6 +117,7 @@
 |David Davies|大卫·戴维斯||
 |David Hull|大卫·赫尔|生物学哲学|
 |David Velleman|大卫·维勒曼||
+|Davidson, Donald|戴维森||
 |deflationary|紧缩|「紧缩论」（deflationism）形容词形|
 |Delmedigo, Elijah|以利亚·德尔·梅第戈||
 |deontic status|道义地位|道义逻辑|
@@ -180,6 +184,7 @@
 |George Washington|乔治·华盛顿|美国建国|
 |Gerald Gaus|杰拉尔德·高斯||
 |Giuseppe Peano|朱塞佩·皮亚诺||
+|global coherentism|全局融贯论||
 |Gödel number|哥德尔数|亦作“哥德尔编号”；数理逻辑|
 |Gödel sentence|哥德尔句|亦作“哥德尔语句”；数理逻辑|
 |Gödel’s theorem|哥德尔定理|数理逻辑|
@@ -193,6 +198,7 @@
 |Harriet Taylor|哈丽雅特·泰勒|密尔合作者/女性主义先声|
 |Hartry Field|哈特里·菲尔德|科学哲学/数学哲学|
 |Hartshorne, Charles|查尔斯·哈茨霍恩||
+|Hegel|黑格尔||
 |hegemonikon|灵魂的主导部分（斯多亚）||
 |Hermann Diels|赫尔曼·第尔斯||
 |Heytesbury, William|威廉·海特斯伯里||
@@ -238,6 +244,7 @@
 |Judith Butler|Judith Butler|现代学者保留英文；通行汉译“巴特勒”|
 |Leibniz Equivalence|莱布尼茨等价|时空哲学；Stachel/Weatherall 用语|
 |Leon Henkin|莱昂·亨金||
+|logic objection|逻辑诘难||
 |Luxemburg, Rosa|罗莎·卢森堡||
 |manifold|流形|数学通行|
 |manifold of events|事件流形|时空哲学|
@@ -247,6 +254,7 @@
 |matter field|物质场|物理学通行|
 |maximal act-set|极大行动集|A批正文定案；审定“极大集”数学域佐证|
 |Maximalism|极大主义|actualism-possibilism 语境|
+|McGinn, Colin|麦金||
 |Megaric School|麦加拉学派||
 |metric|度规|物理学通行，“度规”优于“度量”|
 |metric field|度规场|物理学通行|
@@ -254,6 +262,7 @@
 |Michael Moore|迈克尔·摩尔|法哲学（与纪录片导演同名，随词条）|
 |Mill, Harriet Taylor|哈丽雅特·泰勒·密尔||
 |mind|心灵（当代心灵哲学；黑格尔 Geist 语境译“精神”）||
+|mind-independent|独立于心灵的||
 |modal analysis|模态分析|能力哲学（与条件分析相对）|
 |Mode from Hypothesis|基于假设的论式||
 |modi significandi|意指样式（摩迪斯泰语法）||
@@ -267,6 +276,7 @@
 |ontological argument|本体论论证||
 |ontology|本体论（通行；亦作“存在论”）||
 |ouden mallon|并不更||
+|partial coherentism|局部融贯论||
 |particular|殊相；特殊||
 |perception|知觉||
 |personal identity|人格同一性||
@@ -276,7 +286,10 @@
 |point-coincidence argument|点重合论证|Stachel 术语|
 |Possibilism|可能论|模态形而上学（与现实主义相对）|
 |practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
+|principle of bivalence|二值原则||
+|principle of transcendence|超越原则||
 |Protestant Reformation|新教改革|宗教改革|
+|Putnam, Hilary|普特南||
 |Pyrrho|皮浪||
 |Pyrrhonism|皮浪主义||
 |Pyrrhonist|皮浪派者||
@@ -284,6 +297,8 @@
 |quality|性质||
 |quantity|量||
 |reason|理性||
+|redundancy biconditional|冗余双条件句||
+|Rescher, Nicholas|雷谢尔||
 |retinal image|视网膜像|视觉科学；审定复合佐证|
 |Richard Boyd|理查德·博伊德||
 |Richard Fitzralph|理查德·菲茨拉尔夫||
@@ -302,6 +317,9 @@
 |soul|灵魂||
 |spacetime substantivalism|时空实体论|与时空关系论相对|
 |specific ability|特定能力、特殊能力|能力哲学（与一般能力相对）|
+|specification objection|指定诘难||
+|specified set|指定集||
+|Spinoza|斯宾诺莎||
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
 |Stephen Schiffer|斯蒂芬·希弗||
 |Stilpo|斯提尔波||
@@ -317,14 +335,17 @@
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
 |Timon of Phlius|斐利亚修斯的第蒙||
 |to phainomenon|显现||
+|transcendence objection|超越诘难||
 |transcendental|先验（康德术语 transzendental）||
 |Trolley Problem|电车难题||
+|truth-maker|真值制造者||
 |tuphos|虚妄||
 |understanding|知性（康德 Verstand；日常语境译“理解”）||
 |universal|共相（中世纪-黑格尔传统）||
 |violinist case|小提琴家案例|汤姆森思想实验|
 |virtue|德性（古希腊伦理学传统；亦作“美德”）||
 |Ward, James|詹姆斯·沃德||
+|wide reflective equilibrium|广义反思平衡||
 |William Paley|威廉·佩利||
 |Wittgensteinian Fideism|维特根斯坦式信仰主义|Kai Nielsen/D.Z. Phillips 论辩|
 |worldline|世界线|相对论通行|

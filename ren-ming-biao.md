@@ -36,6 +36,7 @@
 | Arthur Danto | — | 阿瑟·丹托 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Athenaeus | — | 阿特纳奥斯 | 首现（timon-phlius） | 学界通行汉译（《智者宴》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Aulus Gellius | — | 奥卢斯·盖利乌斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Austen, Jane | — | 简·奥斯汀 | 首现（truth-coherence） | 学界通行汉译（英国小说家）；凭证 2026-11-07 | 2026-11-07 |
 | Austin, John | — | 约翰·奥斯丁 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Ayala, F. J. | — | F. J. 阿亚拉 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Bahya ibn Paquda | Bahya ibn Paquda | 巴希亚·伊本·帕库达 | abraham-daud | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -49,6 +50,7 @@
 | Bertrand Russell | — | 伯特兰·罗素 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Berkeley, George | — | 乔治·贝克莱 | SUMMARY 定名（b/berkeley.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译，亦作『巴克莱』）；凭证 2026-11-06 | 2026-11-06 |
 | Biel, Gabriel | — | 加布里埃尔·比尔 | 语料回收（marsilius-inghen 首译） | 宗教改革研究通行汉译（近代之路晚辈）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Blanshard, Brand | — | 布兰夏德 | 首现（truth-coherence） | 学界通行汉译（美国绝对唯心论者）；凭证 2026-11-07 | 2026-11-07 |
 | Bloch, Ernst | — | 恩斯特·布洛赫 | bloch | 学界通行汉译（SUMMARY 定名沿用）；凭证 2026-11-07 | 2026-11-07 |
 | Bloch, Karola | — | 卡罗拉·布洛赫 | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 | Bloch-von Stritzki, Else | — | 埃尔斯·布洛赫-冯·施特里茨基 | bloch | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
@@ -105,6 +107,7 @@
 | David Davies | — | 大卫·戴维斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | David Hull | — | 大卫·赫尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | David Velleman | — | 大卫·维勒曼 | 语料回收（全目录） | 学界惯例（行动哲学/康德伦理学）；凭证 2026-11-01 | 2026-11-01 |
+| Davidson, Donald | — | 戴维森 | 首现（truth-coherence） | 学界通行汉译（语言哲学；融贯论与知识）；凭证 2026-11-07 | 2026-11-07 |
 | Dawkins, Richard | — | 理查德·道金斯 | biology-philosophy | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | de Sailly | — | 德萨伊 | duhem | 学界惯例（音译）；凭证 2026-11-06 | 2026-11-06 |
 | de Soto, Domingo | — | 多明戈·德·索托 | duhem | 学界惯例（中世纪哲学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -164,6 +167,7 @@
 | Hartshorne, Charles | — | 查尔斯·哈茨霍恩 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Heaviside, Oliver | — | 赫维赛德 | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hebel, Johann Peter | — | 约翰·彼得·赫贝尔 | bloch | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Hegel | — | 黑格尔 | 首现（truth-coherence） | 学界千年通行汉译（德国观念论）；凭证 2026-11-07 | 2026-11-07 |
 | Helm, Georg | — | 黑尔姆 | duhem | 全名汉译『格奥尔格·黑尔姆』，正文简名首现括注；学界惯例（能量主义者通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hempel, Carl G. | — | 卡尔·G. 亨佩尔 | biology-philosophy | 学界通行汉译（《自然科学哲学》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Hennig, Willi | — | 威利·亨尼希 | biology-philosophy | 学界通行汉译（系统学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -224,6 +228,7 @@
 | Lysenko, Trofim | — | 李森科 | 语料回收（lakatos 首译） | 史学界通行汉译（苏联农学家，李森科事件主角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Matthew Arnold | — | 马修·阿诺德 | alexander-crummell | 学界通行汉译 | 2026-11-07 |
 | May, Karl | — | 卡尔·迈 | bloch | 学界通行汉译（德国通俗小说家）；凭证 2026-11-07 | 2026-11-07 |
+| McGinn, Colin | — | 麦金 | 首现（truth-coherence） | 学界通行汉译（心灵哲学；科林·麦金）；凭证 2026-11-07 | 2026-11-07 |
 | Melissus | — | 麦里梭 | leucippus | 学界通行汉译（爱利亚学派）；待 specs/008 审定库复核 | 2026-11-03 |
 | Antoine Le Grand | — | 安托万·勒·格兰德 | legrand | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Mill, Harriet Taylor | — | 哈丽雅特·泰勒·密尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -241,7 +246,9 @@
 | Philoponus, John | — | 菲洛波努斯（亦作“菲洛波诺斯”） | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
 | Penrose, Roger | — | 彭罗斯 | 语料回收（mathematics-inconsistent 首译） | 数学物理界通行汉译（彭罗斯三角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Picard, Emile | — | 埃米尔·皮卡尔 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Putnam, Hilary | — | 普特南 | 首现（truth-coherence） | 学界通行汉译（分析哲学；真理与实在论）；凭证 2026-11-07 | 2026-11-07 |
 | Pyrrho | — | 皮浪 | 首现（timon-phlius） | 学界通行汉译（伊利斯人，古希腊怀疑论开创者）；SUMMARY 定名；凭证 2026-11-07 | 2026-11-07 |
+| Rescher, Nicholas | — | 雷谢尔 | 首现（truth-coherence） | 学界通行汉译（美国哲学家；融贯论批评者）；凭证 2026-11-07 | 2026-11-07 |
 | Roger B. Taney | — | 罗杰·B·坦尼 | alexander-crummell | 美国首席大法官通行汉译（叙述处作坦尼） | 2026-11-07 |
 | Rosenberg, Alexander | — | 亚历山大·罗森伯格 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Ruse, Michael | — | 迈克尔·鲁斯 | biology-philosophy | 学界通行汉译（《达尔文主义》作者）；凭证 2026-11-07 | 2026-11-07 |
@@ -287,6 +294,7 @@
 | Richard Rorty | — | 理查德·罗蒂 | law-ideology | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Daniel Bell | — | 丹尼尔·贝尔 | law-ideology | 学界通行汉译（社会学家，《意识形态的终结》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Smart, J. J. C. | — | J. J. C. 斯马特 | biology-philosophy | 学界通行汉译（《功利主义：赞成与反对》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Spinoza | — | 斯宾诺莎 | 首现（truth-coherence） | 学界千年通行汉译（17 世纪荷兰哲学家）；凭证 2026-11-07 | 2026-11-07 |
 | Stilpo | — | 斯提尔波 | 首现（timon-phlius） | 学界通行汉译（麦加拉学派哲学家）；凭证 2026-11-07 | 2026-11-07 |
 | Strabo | — | 斯特拉波 | 首现（timon-phlius） | 学界通行汉译（古希腊地理学家）；凭证 2026-11-07 | 2026-11-07 |
 | Susan Moller Okin | — | 苏珊·莫勒·奥金 | law-ideology | 学界通行汉译（女性主义政治哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -1270,6 +1278,8 @@
 
 | Theobald II of Navarre | — | 特奥巴尔德二世（纳瓦拉国王） | lambert-auxerre | 学界通行音译（兰伯特《大全》题记所指的学生国王）；凭证 2026-11-07 | 2026-11-07 |
 
+| Sextus | — | 塞克斯图斯（《神义论》命运之书一节的罗马人物，即塞克斯图斯·塔克文） | leibniz-modal | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
+
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
@@ -1282,12 +1292,18 @@
 | Alfred North Whitehead | — | 阿尔弗雷德·诺思·怀特海 | scholz | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | Edmund Husserl | — | 埃德蒙德·胡塞尔 | scholz | 学界通行汉译（现象学）；凭证 2026-11-07 | 2026-11-07 |
 | David Hilbert | — | 大卫·希尔伯特 | scholz | 学界通行汉译（数理逻辑）；凭证 2026-11-07 | 2026-11-07 |
-| Jan Salamucha | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Max Steck | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Gisbert Hasenjaeger | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Hans Hermes | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Friedrich Bachmann | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Albrecht Becker-Freyseng | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Walter Kinder | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Karl Schröter | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Hermann Schweitzer | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Jan Salamucha | Jan Salamucha | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Max Steck | Max Steck | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Gisbert Hasenjaeger | Gisbert Hasenjaeger | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Hans Hermes | Hans Hermes | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Friedrich Bachmann | Friedrich Bachmann | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Albrecht Becker-Freyseng | Albrecht Becker-Freyseng | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Walter Kinder | Walter Kinder | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Karl Schröter | Karl Schröter | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Hermann Schweitzer | Hermann Schweitzer | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Vivès | Vivès | 维韦斯 | sophismata | 学界惯例（文艺复兴人文主义者；语料见 erfurt）；凭证 2026-11-07 | 2026-11-07 |
+| Rabelais | Rabelais | 拉伯雷 | sophismata | 学界通行汉译（法国文艺复兴作家）；凭证 2026-11-07 | 2026-11-07 |
+| Thomas Bradwardine | Thomas Bradwardine | 托马斯·布拉德沃丁 | sophismata | 学界通行汉译（牛津计算者，物理与神学家）；凭证 2026-11-07 | 2026-11-07 |
+| Richard Swineshead | Richard Swineshead | 理查德·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Roger Swineshead | Roger Swineshead | 罗杰·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Robert Alyngton | Robert Alyngton | 保留英文（无通行汉名） | sophismata | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |

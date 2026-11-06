@@ -1542,3 +1542,29 @@
 | Five Modes | — | 五式 | 首现（timon-phlius） | 学界惯例（晚期皮浪派五种论式；Sextus）；凭证 2026-11-07 | 2026-11-07 |
 | Mode from Hypothesis | — | 基于假设的论式 | 首现（timon-phlius） | 学界惯例（五式之一；第蒙预示）；凭证 2026-11-07 | 2026-11-07 |
 | to phainomenon | — | 显现 | 首现（timon-phlius） | 学界惯例（皮浪派实践依据，appearance）；凭证 2026-11-07 | 2026-11-07 |
+| partial coherentism | — | 局部融贯论 | 首现（truth-coherence） | 学界惯例（仅对某类命题成立的融贯论）；凭证 2026-11-07 | 2026-11-07 |
+| global coherentism | — | 全局融贯论 | 首现（truth-coherence） | 学界惯例（与局部融贯论相对）；凭证 2026-11-07 | 2026-11-07 |
+| mind-independent | — | 独立于心灵的 | 首现（truth-coherence） | 学界通行（形而上学用语）；凭证 2026-11-07 | 2026-11-07 |
+| truth-maker | — | 真值制造者 | 首现（truth-coherence） | 学界通行（truthmaker 另一形体，正文照源作 truth-maker）；凭证 2026-11-07 | 2026-11-07 |
+| redundancy biconditional | — | 冗余双条件句 | 首现（truth-coherence） | 学界惯例（p 为真当且仅当 p）；凭证 2026-11-07 | 2026-11-07 |
+| wide reflective equilibrium | — | 广义反思平衡 | 首现（truth-coherence） | 学界通行（Rawls 1971）；凭证 2026-11-07 | 2026-11-07 |
+| logic objection | — | 逻辑诘难 | 首现（truth-coherence） | 学界惯例（Russell 1912 提出，涉及不矛盾律）；凭证 2026-11-07 | 2026-11-07 |
+| transcendence objection | — | 超越诘难 | 首现（truth-coherence） | 学界惯例（真理超越信念集之反驳）；凭证 2026-11-07 | 2026-11-07 |
+| specification objection | — | 指定诘难 | 首现（truth-coherence） | 学界惯例（Russell 1907 提出的经典反驳）；凭证 2026-11-07 | 2026-11-07 |
+| specified set | — | 指定集 | 首现（truth-coherence） | 学界惯例（融贯论核心术语，Young 词条用语）；凭证 2026-11-07 | 2026-11-07 |
+| principle of transcendence | — | 超越原则 | 首现（truth-coherence） | 学界通行（真命题未必可知为真）；凭证 2026-11-07 | 2026-11-07 |
+| principle of bivalence | — | 二值原则 | 首现（truth-coherence） | 学界通行（每一命题非真即假）；凭证 2026-11-07 | 2026-11-07 |
+| correspondence theory of truth | — | 真理符合论 | 首现（truth-coherence） | 学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
+| distribution | — | 分配 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| distributive sign | — | 分配符号 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| existential import | — | 存在蕴含 | 首现（sophismata） | 学界惯例（逻辑学通行；亦作“存在含义”备查）；凭证 2026-11-07 | 2026-11-07 |
+| exponible (exponibile) | exponibilia | 可展开句 | 首现（sophismata） | 学界惯例（中世纪逻辑通行）；凭证 2026-11-07 | 2026-11-07 |
+| congruitas | congruitas | 合语法性 | 首现（sophismata） | 学界惯例（中世纪语法研究保留拉丁原词）；凭证 2026-11-07 | 2026-11-07 |
+| copulative | — | 合取句 | 首现（sophismata） | 学界惯例（中世纪逻辑；现代术语为合取式）；凭证 2026-11-07 | 2026-11-07 |
+| exceptive word | — | 除外词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| exclusive word | — | 排除词 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| simple supposition | suppositio simplex | 简单指代 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| personal supposition | suppositio personalis | 人称指代 | 首现（sophismata） | 学界惯例（中世纪逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| corpus sophismatis | corpus sophismatis | 诡辩句正文 | 首现（sophismata） | 学界惯例（保留拉丁原词，首现括注）；凭证 2026-11-07 | 2026-11-07 |
+| mean speed theorem | — | 平均速度定理 | 首现（sophismata） | 学界惯例（物理学史通行）；凭证 2026-11-07 | 2026-11-07 |
+| intension and remission of forms | intensio et remissio formarum | 形式的增强与减弱 | 首现（sophismata） | 学界惯例（中世纪自然哲学）；凭证 2026-11-07 | 2026-11-07 |

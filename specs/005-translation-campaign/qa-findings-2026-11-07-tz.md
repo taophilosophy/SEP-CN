@@ -1,0 +1,47 @@
+# T–Z 批战役开工记录（2026-11-07，会话 TZ-main-20261107）
+
+**范围**：t/u/v/w/x/y/z 七批共 **139 条**（71+4+15+38+3+2+6），约 200 万英文词；`campaign.py claim --force` 改账至本会话，**S 批仍属 SZ-main-20261107**。
+**方法**：主会话直译（2026-11-07 用户裁定，不用子代理）＋ ADR-0021 段落账本（`script/lq.py`）＋ `script/lq_fill.py` 块级填充。
+
+## 1. 体量盘点（`script/size_tz.py`，本地件）
+
+| 项目 | 计数 |
+| --- | --- |
+| 条目 | 139（最小 timon-phlius 4978 词；最大 weyl 61631 词 / 1013 段） |
+| 总词数 | 2,001,810 |
+| 含补充材料 | trinity(4) / truthlikeness(6) / truth-values(4) / two-dimensional-semantics(4) / time-travel-phys(3) / transmission-justification-warrant(3) / value-theory(3) / turing-machine(2) / thick-ethical-concepts(2) / weyl(2) |
+| 含图 | 15 条 |
+| 现制 References（引用注释） | zeno-elea / twardowski / zhuangzi / voting-methods（另有 timon-phlius、truth-coherence 实为同形态，见下） |
+| 公式密集（≥300 定界符） | truth-revision 1196 / type-theory-intuitionistic 556 / type-theory 428 / truth-axiomatic 327 / time-machine 306 / truth-pluralist 266 |
+| 罗马化线索≥8（ADR-0011 中国文献还原） | xunzi / zhuangzi / zhu-xi / wang-yangming / thomas-kuhn / trans / twotruths-tibet 等 7 条 |
+
+## 2. 已完成（s3_checked，待复审波 r1–r3）
+
+| 词条 | 段数 | 形态 | 备注 |
+| --- | --- | --- | --- |
+| t/timon-phlius | 26+1 | 现制 References（15 条定义照录，正文 marker 仅 long-1978） | 术语登记 28 行；相关词条 3 项无 SUMMARY 行（Academy, Plato's / Cynics / Megaric School），经 `baseline/catalog.json` 实证不在本库目录，保留中文译名待挂链 |
+| t/truth-coherence | 47+1 | 现制 References（21 条定义） | 术语登记 21 行；源文自身不一致两处照源直译（Candlish 2006 vs candlish-2021；Knight 2025 vs knight-2024） |
+
+两条件均为：`lq.py check` HARD=0；节标题/标记键/定义键集/段落四维对账齐；`check_style --strict` 0 issue；`check_academic --strict` 0 硬错误；`check_math` 0；`check_all` 七项全绿。
+
+## 3. 门禁与登记册修复（跨会话事项）
+
+1. **Alain Locke 冲突**：`qian-yan/ci-hui-biao.md` 滞后于 `ren-ming-biao.md` 归一形（阿兰·勒罗伊·洛克），已对齐（commit 02735ed）。
+2. **Leibniz 重复行**：并行会话 scholz 批次在 `ren-ming-biao.md` 增行与既有 lady-masham 行同键同译，触发 `check_terms` 自洽硬门；已合并留痕（首现列作「lady-masham；亦见 scholz」）。
+3. **term_flow.py 行体例偏差**：`build_row` 产出 5 列行，而两张登记表实际为 6 列（第二列「原文」占位 `—`），且 `note` 以「学界惯例（…）」开头时被二次包裹为「学界惯例（学界惯例（…））」。本批 49 行已按表体例重排；**建议后续修订 `tools/term_flow.py` 的 `build_row`**（未改动工具，留待规则层裁定）。
+
+## 4. SUMMARY 与登记册异形（移交 011 归一）
+
+正文一律用 `ren-ming-biao.md` 正形；SUMMARY 标题侧仍为旧形，待归一战役统一（改 SUMMARY 须联动 `mu-lu-s.md`）：
+
+| 名 | 登记册正形 | SUMMARY 现形 |
+| --- | --- | --- |
+| Xenophanes | 色诺芬尼 | 克塞诺芬尼 |
+| Zeno of Elea | 埃利亚的芝诺 | 爱利亚的芝诺 |
+| Sextus Empiricus | 塞克斯都·恩披里柯 | 塞克斯都·恩披里克 |
+| Anaxagoras | 阿那克萨戈拉 | 阿那克萨哥拉 |
+
+## 5. 下一步（按体量序）
+
+truth-coherence 之后：william-sherwood(5299) → wisdom(6016) → xenophanes(6025) → william-jevons(6182) → telesio(6298) → theology-aristotle(6571) → xenocrates(6652) → vives(6811) → vico(6846) …；公式密集件单独排程（先跑 `check_math`）；`xunzi/zhuangzi/zhu-xi/wang-yangming` 四条中国哲学件按 ADR-0011 走中国文献还原。
+**复审波**：s3 完成后冷置回读再走 r1–r3（单会话作业须在 evidence 记明冷置），不复查旧错。

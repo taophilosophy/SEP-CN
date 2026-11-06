@@ -1,0 +1,50 @@
+{
+  "slug": "truth-coherence",
+  "kind": "retranslate",
+  "zh_doc": "t/truth-coherence.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T21:00:38Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T21:39:00Z",
+      "evidence": "方向声明沿用批次立案（T–Z 139 条零信任重译，用户 2026-11-07 指令；主会话直译不用子代理）。本条：账本 48 段（body47+oir1）双版填毕，lq.py check HARD=0（软旗仅 5 处机械标题段与 1 处斜体转书名号），compose 产出 10752 字符。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T21:39:00Z",
+      "evidence": "对照核销：节标题 14:14；marker 键集 src=dst（thagard-2007/mcginn-2002/iemhoff-2019 + References 契约注记 [^key]）；文献定义 21:21 键全等；正文 47 段逐段对位。源文自身不一致两处照源直译留痕：正文 Candlish 2006 vs 定义键 candlish-2021；正文 Knight 2025 vs 定义键 knight-2024（rules ②照源直译）。SUMMARY 子条目短题「真理融贯论 coherence theory of」为 truth 词条子条目既有体例，不改。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T21:39:00Z",
+      "evidence": "语言校：check_prose --strict 12→2 处（实修 10：弱动词 1、被字句 4、存在句 2、长句拆分 2、de-chain 1）。余 2 处豁免留痕：行 56 同一命题原文重复引用致双“被”（忠实引文）、行 80 引文块内 de-chain（Blockquote 忠实引文优先，ADR-0020）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T21:39:03Z",
+      "evidence": "体例校：check_style --strict 0 issue、check_academic --strict 0 硬错误、check_math 0/0/0、check_all 七项全绿；术语登记 21 行（术语 13＋人名 8：correspondence theory of truth/二值原则/超越原则/指定集/指定诘难/超越诘难/逻辑诘难/广义反思平衡/冗余双条件句/真值制造者/独立于心灵的/全局与局部融贯论；斯宾诺莎/黑格尔/普特南/戴维森/简·奥斯汀/麦金/布兰夏德/雷谢尔），词汇表与池同步，行体例按 6 列重排。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T21:00:37Z",
+  "version_pin": {
+    "pubinfo_date": "Dec 27, 2025",
+    "archive_edition": "Spring 2026",
+    "sha256": "3a485692aab7043aafd04074032f3f76fcf8b36e704dfb4cac50a36dbcd764cd"
+  }
+}
