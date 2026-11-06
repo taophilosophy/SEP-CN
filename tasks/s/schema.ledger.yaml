@@ -1,0 +1,564 @@
+version: 1
+slug: schema
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      A *schema* (plural: *schemata*, or *schemas*), also known as a *scheme* (plural: *schemes*), is a linguistic “template”, “frame”, or “pattern” together with a rule for using it to specify a potentially infinite multitude of phrases, sentences, or arguments, which are called *instances* of the schema. Schemas are used in logic to specify rules of inference, in mathematics to describe theories with infinitely many axioms, and in semantics to give adequacy conditions for definitions of truth.
+    step1: |-
+      *图式*（*schema*；复数 *schemata* 或 *schemas*），在英文中又称 *scheme*（复数 *schemes*），是一种语言的“模板”“框架”或“模式”，连同一条使用规则；用这条规则可以指定数量可能无穷的短语、语句或论证，这些被指定者称为该图式的*实例*。图式在逻辑学中用来指定推理规则，在数学中用来描述有无穷多条公理的理论，在语义学中用来给出真之定义的适当性条件。
+    step2: |-
+      *图式*（*schema*；复数 *schemata* 或 *schemas*），英文中又称 *scheme*（复数 *schemes*），是一种语言的“模板”“框架”或“模式”，另配一条使用规则，用来指定数量上可能无穷的短语、语句或论证；被指定出来的这些，称为该图式的*实例*。图式在逻辑学中用于指定推理规则，在数学中用于描述含无穷多条公理的理论，在语义学中用于给出真之定义的适当性条件。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. What is a Schema?
+    step1: |-
+      ## 1. 什么是图式？
+    step2: |-
+      ## 1 什么是图式？
+  - id: 3
+    kind: body
+    source: |-
+      A schema is a complex system consisting of
+    step1: |-
+      一个图式是由下列部分组成的复合系统：
+    step2: |-
+      一个图式是由以下两部分组成的复合系统：
+  - id: 4
+    kind: body
+    source: |-
+      1. a *template-text* or *schema-template*: a syntactic string composed of significant words and/or symbols and also of placeholders (letters, blanks, circled numbers, ellipses, ordinal number expressions like ‘the first’ and ‘the second’, etc.), and
+      2. a *side condition* specifying how the placeholders are to be filled to obtain instances, and also, sometimes, how the significant words or symbols are to be understood (Tarski 1933/1983: 155; Church 1956: 172)[^church-1956][^tarski-1933][^tarski-1983]. In particular, the side condition specifies the language, whether natural or formal, to which the instances of the schema are to belong.
+    step1: |-
+      1. *模板文本*（*template-text*）或*图式模板*（*schema-template*）：一个句法字符串，由有意义的词和／或符号以及占位符（字母、空白、带圈数字、省略号，以及“第一个”“第二个”这类序数表达式，等等）构成；以及
+      2. *附加条件*（*side condition*），规定占位符应怎样填入才能得到实例，有时也规定有意义的词或符号应怎样理解（Tarski 1933/1983: 155; Church 1956: 172）[^church-1956][^tarski-1933][^tarski-1983]。具体说来，附加条件规定该图式的实例应属于哪一种语言，是自然语言还是形式语言。
+    step2: |-
+      1. *模板文本*（*template-text*）或*图式模板*（*schema-template*）：一个句法字符串，由有意义的词和／或符号以及占位符（字母、空白、带圈数字、省略号，以及“第一个”“第二个”这类序数表达式，等等）构成；以及
+      2. *附加条件*（*side condition*）：规定占位符应如何填入才能得到实例，有时也规定有意义的词或符号应如何理解（Tarski 1933/1983: 155; Church 1956: 172）[^church-1956][^tarski-1933][^tarski-1983]。具体说来，附加条件规定该图式的实例应属于哪一种语言——自然语言还是形式语言。
+  - id: 5
+    kind: body
+    source: |-
+      Among the best-known schemas is Tarski’s schema T, whose template-text is the eight-word two-ellipsis string:
+    step1: |-
+      最著名的图式之一，是塔尔斯基（Alfred Tarski）的图式 T；它的模板文本是一个含两处省略号、由八个英语词构成的字符串：
+    step2: |-
+      最著名的图式之一，是塔尔斯基（Alfred Tarski）的图式 T；其模板文本是一个含两处省略号、由八个英语词构成的字符串：
+  - id: 6
+    kind: body
+    source: |-
+      > …is a true sentence if and only if….
+    step1: |-
+      > ……是真语句，当且仅当……。
+    step2: |-
+      > ……是真语句，当且仅当……。
+  - id: 7
+    kind: body
+    source: |-
+      The side condition requires that the second blank is to be filled in with a (declarative) sentence of English and the first blank is to be filled in by a name of that sentence (Tarski 1933/1983: 155)[^tarski-1933][^tarski-1983]. The following string is an instance:
+    step1: |-
+      附加条件要求：第二个空白处填入一个（陈述性的）英语句子，第一个空白处填入该句子的一个名称（Tarski 1933/1983: 155）[^tarski-1933][^tarski-1983]。下面这个字符串就是一个实例：
+    step2: |-
+      附加条件要求：第二个空白处填入一个（陈述性的）英语句子，第一个空白处填入该句子的一个名称（Tarski 1933/1983: 155）[^tarski-1933][^tarski-1983]。下面这个字符串便是一例：
+  - id: 8
+    kind: body
+    source: |-
+      > ‘zero is one’ is a true sentence if and only if zero is one.
+    step1: |-
+      > “零是一”是真语句，当且仅当零是一。
+    step2: |-
+      > “零是一”是真语句，当且仅当零是一。
+  - id: 9
+    kind: body
+    source: |-
+      More revealing instances are obtained by using a sentence not known to be true and not known to be false:
+    step1: |-
+      若用一个既不知其为真、也不知其为假的句子，就会得到更能说明问题的实例：
+    step2: |-
+      若换上一个既不知为真、也不知为假的句子，便能得到更能说明问题的实例：
+  - id: 10
+    kind: body
+    source: |-
+      > ‘every perfect number is even’ is a true sentence if and only if every perfect number is even.
+    step1: |-
+      > “每个完全数都是偶数”是真语句，当且仅当每个完全数都是偶数。
+    step2: |-
+      > “每个完全数都是偶数”是真语句，当且仅当每个完全数都是偶数。
+  - id: 11
+    kind: body
+    source: |-
+      The fourteen-word sentence
+    step1: |-
+      下面这个由十四个英语词构成的句子
+    step2: |-
+      下面这个由十四个英语词构成的句子
+  - id: 12
+    kind: body
+    source: |-
+      > Either zero is even or it is not the case that zero is even.
+    step1: |-
+      > 或者零是偶数，或者零是偶数这件事并非如此。
+    step2: |-
+      > 或者零是偶数，或者零是偶数这件事并非如此。
+  - id: 13
+    kind: body
+    source: |-
+      is an instance of the *excluded-middle sentence schema for English*, which involves the template
+    step1: |-
+      是*英语排中语句图式*的一个实例；该图式采用的模板是
+    step2: |-
+      是*英语排中语句图式*的一个实例；该图式采用的模板为
+  - id: 14
+    kind: body
+    source: |-
+      > Either $A$ or it is not the case that $A$.
+    step1: |-
+      > 或者 $A$，或者 $A$ 并非如此。
+    step2: |-
+      > 或者 $A$，或者 $A$ 并非如此。
+  - id: 15
+    kind: body
+    source: |-
+      The side condition is that the two occurrences of ‘$A$’ are to be filled by occurrences of the same well-formed English declarative sentence, that the discontinuous expression ‘Either … or … ’; expresses classical non-exclusive disjunction, and that the six-word sentence-prefix ‘it is not the case that’; expresses classical negation. Notice that this schema-template is not an English sentence. It would be strictly speaking incoherent to use it as a sentence in an attempted assertion. It would also be wrong to call it true or false, though it can be characterized as valid or invalid, in appropriate senses of these ambiguous words.
+    step1: |-
+      附加条件是：两处 “$A$” 都填入同一个合式英语陈述句；这个不连续表达式 “Either … or … ” 表达经典相容析取；由六个英语词构成的句首 “it is not the case that” 表达经典否定。注意，这个图式模板并不是一个英语句子。严格说来，把它当作句子用于断言，是不连贯的。把它称为真或假也是错的，尽管在“有效”“无效”这两个多义词的适当含义上，可以把它刻画为有效或无效。
+    step2: |-
+      附加条件是：两处 “$A$” 都填入同一个合式英语陈述句；这个不连续表达式 “Either … or … ” 表达经典相容析取；由六个英语词构成的句首 “it is not the case that” 表达经典否定。注意，这个图式模板并不是一个英语句子。严格说来，把它当作句子用于断言，是不连贯的。称它为真或假也是错的，尽管在“有效”“无效”这两个多义词的适当含义上，可以把它刻画为有效或无效。
+  - id: 16
+    kind: body
+    source: |-
+      Some logicians seem to identify the schema with the template alone. (Tarski’s wording at 1933/1983: 155–6 suggests this identification, while Church’s at 1956: 149 seems calculated to avoid it.)[^church-1956][^tarski-1933][^tarski-1983] But one and the same schema-template may be a component of any number of different schemata depending on the side condition or the underlying language. Furthermore, since different characters or strings can be used as placeholders (see above) and since even one notational change produces a different syntactic string in the strict sense (Corcoran et al. 1974)[^corcoran-1974], one and the same set of instances may be determined by different schema-template/side-condition pairings even given a fixed language. It may be this fact that leads some authors to write as though the schema is to be identified with the set of instances. For many purposes it is the set of specified instances that is of primary importance and the question of exactly what is involved in specifying it is considered a mere technicality.
+    step1: |-
+      有些逻辑学家似乎把图式等同于模板本身。（Tarski 在 1933/1983: 155–6 的措辞暗示了这种等同，而邱奇（Alonzo Church）在 1956: 149 的措辞似乎有意避开它。）[^church-1956][^tarski-1933][^tarski-1983] 但同一个图式模板，依附加条件或底层语言的不同，可以是任意多个不同图式的组成部分。再者，可以用不同的字符或字符串充当占位符（见上文）；而且，哪怕改动一处记号，严格说来也会产生不同的句法字符串（Corcoran et al. 1974）[^corcoran-1974]，因此，即使语言固定，同一组实例也可能由不同的“图式模板—附加条件”配对来确定。也许正是这一事实，使一些作者写起来仿佛图式就该等同于实例的集合。在许多场合，首要的是那组指定出来的实例；至于“指定究竟涉及什么”，只被当作纯技术性问题。
+    step2: |-
+      有些逻辑学家似乎把图式等同于模板本身。（Tarski 在 1933/1983: 155–6 的措辞暗示了这种等同，而邱奇（Alonzo Church）在 1956: 149 的措辞似乎有意避开它。）[^church-1956][^tarski-1933][^tarski-1983] 但同一个图式模板，依附加条件或底层语言的不同，可以是任意多个不同图式的组成部分。再者，可以用不同的字符或字符串充当占位符（见上文）；而且，哪怕改动一处记号，严格说来也会产生不同的句法字符串（Corcoran et al. 1974）[^corcoran-1974]，因此，即使语言固定，同一组实例也可能由不同的“图式模板—附加条件”配对来确定。也许正是这一事实，让一些作者写起来仿佛图式就该等同于实例的集合。在许多场合，首要的是那组指定出来的实例；至于“指定究竟涉及什么”，只被当成纯技术性问题。
+  - id: 17
+    kind: body
+    source: |-
+      Sometimes (as in the excluded-middle schema, above) the placeholders in a schema-template are marked by letters. It is important to keep in mind the distinction between, on one hand, an open sentence, such as ‘$(x + y) = (y + x)$’; whose object-language numerical variables ‘$x$’ and ‘$y$’ range over the numbers and, on the other, a schema such as *the number-theoretic commutativity schema* whose template-text is ‘$(X + Y) = (Y + X)$’; and whose side condition is that the two occurrences of ‘$X$’ are to be replaced by two occurrences of one and the same numeral, and likewise for the two occurrences of ‘$Y$’. The numerals belong to the object language, while the place-holders belong to the metalanguage. The variables in the object-language range over a domain of objects, while the ‘dummy letters’ in the template-text are just placeholders for syntactic substituends. (For a careful exposition of the distinction, see Quine 1945: sec. 1.)[^quine-1945]
+    step1: |-
+      有时（如上面的排中图式），图式模板中的占位符用字母标出。务必牢记下面两者的区别：一边是开语句，例如 “$(x + y) = (y + x)$”，其中的对象语言数值变元 “$x$” 与 “$y$” 取值为数；另一边是图式，例如*数论交换律图式*，其模板文本为 “$(X + Y) = (Y + X)$”，附加条件是：两处 “$X$” 都替换为同一个数词的两处出现，两处 “$Y$” 同理。数词属于对象语言，而占位符属于元语言。对象语言中的变元取值范围是对象域，而模板文本中的“哑字母”只是句法代入项的占位符。（对这一区分，Quine 1945: 第 1 节有细致的阐述。）[^quine-1945]
+    step2: |-
+      有时（如上面的排中图式），图式模板中的占位符用字母标出。务必牢记下面两者的区别：一边是开语句，例如 “$(x + y) = (y + x)$”，其中的对象语言数值变元 “$x$” 与 “$y$” 取值为数；另一边是图式，例如*数论交换律图式*，其模板文本为 “$(X + Y) = (Y + X)$”，附加条件是：两处 “$X$” 都替换为同一个数词的两处出现，两处 “$Y$” 亦然。数词属于对象语言，占位符属于元语言。对象语言中的变元取值于对象域，模板文本中的“哑字母”则只是句法代入项的占位符。（对这一区分，Quine 1945: 第 1 节有细致的阐述。）[^quine-1945]
+  - id: 18
+    kind: body
+    source: |-
+      Schemas may be classed by the syntactic type of their instances as sentence schemas, subsentential schemas, or argument-text schemas. We have already seen two examples of sentence schemas. The string
+    step1: |-
+      可以按实例的句法类型，把图式分为语句图式、次语句图式或论证文本图式。我们已经见过两个语句图式的例子。下面这个字符串
+    step2: |-
+      按实例的句法类型，图式可分为语句图式、次语句图式与论证文本图式。我们已经见过两个语句图式的例子。下面这个字符串
+  - id: 19
+    kind: body
+    source: |-
+      > the successor of $A$
+    step1: |-
+      > $A$ 的后继
+    step2: |-
+      > $A$ 的后继
+  - id: 20
+    kind: body
+    source: |-
+      is the template-text for a *subsentential schema*, where the side condition specifies that the letter ‘$A$’ be replaced by an arabic numeral. The definite description
+    step1: |-
+      是*次语句图式*的模板文本；其附加条件规定，字母 “$A$” 应替换为阿拉伯数字。而下面这个限定摹状词
+    step2: |-
+      是*次语句图式*的模板文本；其附加条件规定，字母 “$A$” 应替换为阿拉伯数字。下面这个限定摹状词
+  - id: 21
+    kind: body
+    source: |-
+      > the successor of 9
+    step1: |-
+      > 9 的后继
+    step2: |-
+      > 9 的后继
+  - id: 22
+    kind: body
+    source: |-
+      would be an instance. Note that this schema is very different from the open term
+    step1: |-
+      会是它的一个实例。注意，这个图式与下面这个开词项大不相同：
+    step2: |-
+      会是它的一个实例。注意，这个图式与下面这个开词项大不相同：
+  - id: 23
+    kind: body
+    source: |-
+      > the successor of $x$,
+    step1: |-
+      > $x$ 的后继，
+    step2: |-
+      > $x$ 的后继，
+  - id: 24
+    kind: body
+    source: |-
+      where the ‘$x$’ is an object-language variable. The schema is essentially a recipe for generating syntactic instances. The ‘dummy letter’ ‘$A$’ in its template-text is just a placeholder for substituends (here, numerals). The ‘$x$’ in the open term, by contrast, is a variable ranging over objects (here, numbers).
+    step1: |-
+      这里的 “$x$” 是对象语言变元。图式本质上是一份生成句法实例的配方。其模板文本中的“哑字母” “$A$” 只是代入项（这里是数词）的占位符。相比之下，开词项中的 “$x$” 是取值于对象（这里是数）的变元。
+    step2: |-
+      这里的 “$x$” 是对象语言变元。图式本质上是一份生成句法实例的配方。其模板文本中的“哑字母” “$A$”，只是代入项（这里是数词）的占位符。相比之下，开词项中的 “$x$” 是取值于对象（这里是数）的变元。
+  - id: 25
+    kind: body
+    source: |-
+      An *argument-text schema* is a schema whose instances are argument-texts. An *argument-text* is a two part system composed of a set of sentences called the premises and a single sentence called the conclusion. (An *argument* is that which is expressed by an argument-text, as a proposition is that which is expressed by a sentence.) Of the various ways of presenting an argument-text perhaps the one least open to misinterpretation is the premises-line-conclusion format which consists in listing the premises followed by a line followed by the conclusion. For example:
+
+      $$ \begin{align} & \textrm{Every circle is a polygon.}\\ & \textrm{Every triangle is a circle.}\\ & \textrm{Every square is a triangle.}\\\hline & \textrm{Every square is a polygon.} \end{align} $$
+    step1: |-
+      *论证文本图式*是实例为论证文本的图式。*论证文本*是由两部分组成的系统：一组称为前提的语句，加上一个称为结论的语句。（*论证*是论证文本所表达的东西，正如命题是语句所表达的东西。）在呈现论证文本的种种方式中，最不容易被误解的也许是“前提—横线—结论”格式：先列出前提，再画一条横线，最后写出结论。例如：
+
+      $$ \begin{align} & \textrm{Every circle is a polygon.}\\ & \textrm{Every triangle is a circle.}\\ & \textrm{Every square is a triangle.}\\\hline & \textrm{Every square is a polygon.} \end{align} $$
+    step2: |-
+      *论证文本图式*是实例为论证文本的图式。*论证文本*由两部分组成：一组称为前提的语句，加上一个称为结论的语句。（*论证*是论证文本所表达的东西，正如命题是语句所表达的东西。）在呈现论证文本的种种方式中，最不容易被误解的也许是“前提—横线—结论”格式：先列出前提，再画一条横线，最后写出结论。例如：
+
+      $$ \begin{align} & \textrm{Every circle is a polygon.}\\ & \textrm{Every triangle is a circle.}\\ & \textrm{Every square is a triangle.}\\\hline & \textrm{Every square is a polygon.} \end{align} $$
+  - id: 26
+    kind: body
+    source: |-
+      An example of an argument-text schema is the inference rule *modus ponens*:
+
+      $$ \begin{align} & A\\ & \textrm{if } A \textrm{ then }B\\\hline & B \end{align} $$
+    step1: |-
+      论证文本图式的一个例子是推理规则*肯定前件式*（*modus ponens*）：
+
+      $$ \begin{align} & A\\ & \textrm{if } A \textrm{ then }B\\\hline & B \end{align} $$
+    step2: |-
+      论证文本图式的一个例子，是推理规则*肯定前件式*（*modus ponens*）：
+
+      $$ \begin{align} & A\\ & \textrm{if } A \textrm{ then }B\\\hline & B \end{align} $$
+  - id: 27
+    kind: body
+    source: |-
+      The side condition specifies that ‘$A$’ and ‘$B$’ be replaced with declarative sentences of English, and that both occurrences of ‘$A$’ (and likewise of ‘$B$’) be replaced by the same sentence or formula.
+    step1: |-
+      附加条件规定：“$A$” 与 “$B$” 替换为英语陈述句；两处 “$A$”（以及两处 “$B$”）都替换为同一个句子或公式。
+    step2: |-
+      附加条件规定：“$A$” 与 “$B$” 替换为英语陈述句；两处 “$A$”（以及两处 “$B$”）都替换为同一个句子或公式。
+  - id: 28
+    kind: body
+    source: |-
+      Axiom schemas can be thought of as zero-premise argument-text schemas.
+    step1: |-
+      公理图式可以看作零前提的论证文本图式。
+    step2: |-
+      公理图式可以看作零前提的论证文本图式。
+  - id: 29
+    kind: body
+    source: |-
+      ## 2. Uses of Schemas
+    step1: |-
+      ## 2. 图式的用途
+    step2: |-
+      ## 2 图式的用途
+  - id: 30
+    kind: body
+    source: |-
+      Schemas are used in the formalization of logic, mathematics, and semantics. In logic, they are used to specify the axioms and inference rules of a system. For example, one formalization of first-order logic (in Shapiro 1991: 65)[^shapiro-1991] states that
+    step1: |-
+      图式用于逻辑学、数学和语义学中的形式化。在逻辑学中，图式用来指定一个系统的公理与推理规则。例如，一阶逻辑的一种形式化（Shapiro 1991: 65）[^shapiro-1991] 规定：
+    step2: |-
+      图式用于逻辑学、数学和语义学中的形式化。在逻辑学中，图式用来指定一个系统的公理与推理规则。例如，一阶逻辑的一种形式化（Shapiro 1991: 65）[^shapiro-1991] 规定：
+  - id: 31
+    kind: body
+    source: |-
+      > Any formula obtained by substituting formulas for the Greek letters is an *axiom*:
+      >
+      > $$ \begin{align} \Phi & \rightarrow(\Psi \rightarrow \Phi)\\ (\Phi \rightarrow(\Psi \rightarrow \Xi)) & \rightarrow((\Phi \rightarrow \Psi) \rightarrow(\Phi \rightarrow \Xi))\\ (\neg \Phi \rightarrow \neg \Psi) & \rightarrow(\Psi \rightarrow \Phi)\\ \forall x\Phi(x) & \rightarrow \Phi(t) \end{align} $$
+      >
+      > where $t$ is a term free for $x$ in $\Phi$,
+    step1: |-
+      > 将公式代入希腊字母后得到的任何公式都是*公理*：
+      >
+      > $$ \begin{align} \Phi & \rightarrow(\Psi \rightarrow \Phi)\\ (\Phi \rightarrow(\Psi \rightarrow \Xi)) & \rightarrow((\Phi \rightarrow \Psi) \rightarrow(\Phi \rightarrow \Xi))\\ (\neg \Phi \rightarrow \neg \Psi) & \rightarrow(\Psi \rightarrow \Phi)\\ \forall x\Phi(x) & \rightarrow \Phi(t) \end{align} $$
+      >
+      > 其中 $t$ 是对于 $\Phi$ 中的 $x$ 自由的项，
+    step2: |-
+      > 将公式代入希腊字母后得到的任何公式都是*公理*：
+      >
+      > $$ \begin{align} \Phi & \rightarrow(\Psi \rightarrow \Phi)\\ (\Phi \rightarrow(\Psi \rightarrow \Xi)) & \rightarrow((\Phi \rightarrow \Psi) \rightarrow(\Phi \rightarrow \Xi))\\ (\neg \Phi \rightarrow \neg \Psi) & \rightarrow(\Psi \rightarrow \Phi)\\ \forall x\Phi(x) & \rightarrow \Phi(t) \end{align} $$
+      >
+      > 其中 $t$ 是对于 $\Phi$ 中的 $x$ 自由的项，
+  - id: 32
+    kind: body
+    source: |-
+      and that any inference of the form
+
+      $$ \begin{align} & \Phi\\ & \Phi \rightarrow \Psi\\\hline & \Psi\\ \end{align} $$
+    step1: |-
+      并且规定：任何如下形式的推理
+
+      $$ \begin{align} & \Phi\\ & \Phi \rightarrow \Psi\\\hline & \Psi\\ \end{align} $$
+    step2: |-
+      并且规定：任何如下形式的推理
+
+      $$ \begin{align} & \Phi\\ & \Phi \rightarrow \Psi\\\hline & \Psi\\ \end{align} $$
+  - id: 33
+    kind: body
+    source: |-
+      or (where $x$ does not occur free in $\Phi)$
+
+      $$ \begin{align} \Phi & \rightarrow \Psi(x)\\\hline \Phi & \rightarrow \forall x\Psi(x), \end{align} $$
+    step1: |-
+      或（其中 $x$ 不在 $\Phi$ 中自由出现）
+
+      $$ \begin{align} \Phi & \rightarrow \Psi(x)\\\hline \Phi & \rightarrow \forall x\Psi(x), \end{align} $$
+    step2: |-
+      或（其中 $x$ 不在 $\Phi$ 中自由出现）
+
+      $$ \begin{align} \Phi & \rightarrow \Psi(x)\\\hline \Phi & \rightarrow \forall x\Psi(x), \end{align} $$
+  - id: 34
+    kind: body
+    source: |-
+      is valid.
+    step1: |-
+      都是有效的。
+    step2: |-
+      都是有效的。
+  - id: 35
+    kind: body
+    source: |-
+      Some mathematical theories can be finitely axiomatized in a first-order language, but certain historically important number theories and set theories cannot. The axioms of these theories can sometimes be specified using schemata. For example, in first-order number theory the induction principle is specified using the schema
+
+      $$ [F(0) \mathbin{\&} \forall x((\textit{Num}(x) \mathbin{\&} F(x)) \rightarrow F(sx)] \rightarrow \forall x(\textit{Num}(x) \rightarrow F(x)) $$
+    step1: |-
+      有些数学理论可以在一阶语言中有限公理化，但某些在历史上很重要的数论与集合论做不到。这类理论的公理有时可以用图式来指定。例如，在一阶数论中，归纳原则就是用下面的图式指定的：
+
+      $$ [F(0) \mathbin{\&} \forall x((\textit{Num}(x) \mathbin{\&} F(x)) \rightarrow F(sx)] \rightarrow \forall x(\textit{Num}(x) \rightarrow F(x)) $$
+    step2: |-
+      有些数学理论可以在一阶语言中有限公理化，某些在历史上很重要的数论与集合论却做不到。这类理论的公理有时可以用图式来指定。例如，一阶数论的归纳原则，就用下面的图式指定：
+
+      $$ [F(0) \mathbin{\&} \forall x((\textit{Num}(x) \mathbin{\&} F(x)) \rightarrow F(sx)] \rightarrow \forall x(\textit{Num}(x) \rightarrow F(x)) $$
+  - id: 36
+    kind: body
+    source: |-
+      where the two blanks marked ‘$F(x)$’ are to be filled with a first-order formula having one or more free occurrences of the variable ‘$x$’, the blank marked ‘$F(0)$’ is to be filled with the same formula after each free occurrence of ‘$x$’ has been replaced by an occurrence of ‘0’, and the blank labeled ‘$F(sx)$’ is to be filled with the same formula after each free occurrence of ‘$x$’ has been replaced by an occurrence of ‘$sx$’.
+    step1: |-
+      其中，标有 “$F(x)$” 的两处空白填入一个一阶公式，该公式含变元 “$x$” 的一处或多处自由出现；标有 “$F(0)$” 的空白填入同一个公式，但其中 “$x$” 的每一处自由出现都已替换为 “0” 的一处出现；标有 “$F(sx)$” 的空白填入同一个公式，但其中 “$x$” 的每一处自由出现都已替换为 “$sx$” 的一处出现。
+    step2: |-
+      其中，标有 “$F(x)$” 的两处空白，填入一个含变元 “$x$” 一处或多处自由出现的一阶公式；标有 “$F(0)$” 的空白，填入同一个公式，但其中 “$x$” 的每一处自由出现都已替换为 “0” 的一处出现；标有 “$F(sx)$” 的空白，同样填入该公式，但其中 “$x$” 的每一处自由出现都已替换为 “$sx$” 的一处出现。
+  - id: 37
+    kind: body
+    source: |-
+      For example, if we fill the two blanks marked ‘$F(x)$’ with ‘$x\ne s x$’, we have:
+
+      $$ [ 0\ne s0 \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} x\ne s x) \rightarrow s x\ne ss x)] \rightarrow \forall x (\textit{Num} (x) \rightarrow x\ne s x) $$
+    step1: |-
+      例如，若在标有 “$F(x)$” 的两处空白中填入 “$x\ne s x$”，就得到：
+
+      $$ [ 0\ne s0 \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} x\ne s x) \rightarrow s x\ne ss x)] \rightarrow \forall x (\textit{Num} (x) \rightarrow x\ne s x) $$
+    step2: |-
+      例如，若在标有 “$F(x)$” 的两处空白中填入 “$x\ne s x$”，便得到：
+
+      $$ [ 0\ne s0 \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} x\ne s x) \rightarrow s x\ne ss x)] \rightarrow \forall x (\textit{Num} (x) \rightarrow x\ne s x) $$
+  - id: 38
+    kind: body
+    source: |-
+      Using English as the underlying object language, the following template-text could be used.
+    step1: |-
+      若以英语为底层对象语言，则可以采用下面的模板文本。
+    step2: |-
+      若以英语为底层对象语言，可以采用下面的模板文本。
+  - id: 39
+    kind: body
+    source: |-
+      If zero is $F$ and the successor of every number that is $F$ is also $F$, then every number is $F$,
+    step1: |-
+      如果零是 $F$，且每个是 $F$ 的数的后继也是 $F$，那么每个数都是 $F$，
+    step2: |-
+      如果零是 $F$，且每个是 $F$ 的数的后继也是 $F$，那么每个数都是 $F$，
+  - id: 40
+    kind: body
+    source: |-
+      where the four occurrences of ‘$F$’ are to be filled in with one and the same arithmetic predicate (e.g., ‘smaller than some prime’).
+    step1: |-
+      其中四处 “$F$” 都填入同一个算术谓词（例如 “小于某个素数”）。
+    step2: |-
+      其中四处 “$F$”，都填入同一个算术谓词（例如 “小于某个素数”）。
+  - id: 41
+    kind: body
+    source: |-
+      In a second-order formalization of number theory, by contrast, a single induction axiom can be given:
+
+      $$ \forall F \{[F (0) \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} F (x)) \rightarrow F(sx)] \rightarrow \forall x (\textit{Num} (x) \rightarrow F(x))\} $$
+    step1: |-
+      相比之下，在数论的二阶形式化中，只需给出一条归纳公理：
+
+      $$ \forall F \{[F (0) \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} F (x)) \rightarrow F(sx)] \rightarrow \forall x (\textit{Num} (x) \rightarrow F(x))\} $$
+    step2: |-
+      相比之下，在数论的二阶形式化中，只需给出一条归纳公理：
+
+      $$ \forall F \{[F (0) \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} F (x)) \rightarrow F(sx)] \rightarrow \forall x (\textit{Num} (x) \rightarrow F(x))\} $$
+  - id: 42
+    kind: body
+    source: |-
+      For every $F$, if zero is $F$ and the successor of every number that is $F$ is also $F$, then every number is $F$.
+    step1: |-
+      对每个 $F$，如果零是 $F$，且每个是 $F$ 的数的后继也是 $F$，那么每个数都是 $F$。
+    step2: |-
+      对每个 $F$，如果零是 $F$，且每个是 $F$ 的数的后继也是 $F$，那么每个数都是 $F$。
+  - id: 43
+    kind: body
+    source: |-
+      Here ‘$F$’ is not a placeholder in a schema, but a genuine variable ranging over properties or classes (or, on some interpretations, ranging plurally over individuals). For comparisons between first-order and second-order logic, see Corcoran 1998.
+    step1: |-
+      在这里，“$F$” 不是图式中的占位符，而是名副其实的变元，取值范围是属性或类（在某些解释下，是以复数方式取值于个体）。关于一阶逻辑与二阶逻辑的比较，见 Corcoran 1998。
+    step2: |-
+      在这里，“$F$” 不是图式中的占位符，而是名副其实的变元，取值于属性或类（在某些解释下，以复数方式取值于个体）。关于一阶逻辑与二阶逻辑的比较，见 Corcoran 1998。
+  - id: 44
+    kind: body
+    source: |-
+      The orthographic similarities between the first-order induction schema and the second-order induction axiom have an unfortunate tendency to obscure the important differences between them. The latter is a sentence in the language, whereas the former is just a recipe for generating sentences. Nor are they inferentially equivalent: the set of instances of the first-order induction schema is logically weaker than the second-order induction axiom. That is, there are sentences of first-order arithmetic that can be deduced from the second-order induction axiom (together with the other axioms of arithmetic, which are common to first-order and second-order arithmetic) but not from the instances of the first-order induction schema (see Shapiro 1991: 110)[^shapiro-1991].
+    step1: |-
+      一阶归纳图式与二阶归纳公理在书写上相似，这种相似偏偏容易掩盖两者之间的重要差别。后者是语言中的一个句子，前者则只是一份生成句子的配方。两者在推理上也不等价：一阶归纳图式的实例集合在逻辑上弱于二阶归纳公理。也就是说，有些一阶算术语句可以从二阶归纳公理（连同算术的其他公理——这些公理为一阶与二阶算术所共有）推出，却不能从一阶归纳图式的实例推出（见 Shapiro 1991: 110）[^shapiro-1991]。
+    step2: |-
+      一阶归纳图式与二阶归纳公理在书写上相似，这种相似偏偏容易掩盖两者的重要差别。后者是语言中的一个句子，前者只是一份生成句子的配方。两者在推理上也不等价：一阶归纳图式的实例集合，在逻辑上弱于二阶归纳公理。也就是说，有些一阶算术语句可以从二阶归纳公理（连同算术的其他公理——这些公理为一阶与二阶算术所共有）推出，却不能从一阶归纳图式的实例推出（见 Shapiro 1991: 110）[^shapiro-1991]。
+  - id: 45
+    kind: body
+    source: |-
+      Schemas have also played a prominent role in semantics. Tarski held that an instance of his ‘T-schema’ (which he calls a ‘scheme’) could be regarded as a “partial definition of truth”, or rather of “true sentence”:
+    step1: |-
+      图式在语义学中也扮演了重要角色。塔尔斯基认为，他的“T 图式”（他称之为“scheme”）的实例，可以看作“真的部分定义”，更确切地说，是“真语句”的部分定义：
+    step2: |-
+      图式在语义学中也扮演了重要角色。塔尔斯基认为，他的“T 图式”（他称之为“scheme”）的实例，可以看作“真的部分定义”，更确切地说，是“真语句”的部分定义：
+  - id: 46
+    kind: body
+    source: |-
+      > The general scheme of this kind of sentence can be depicted in the following way:
+      >
+      > - (2) $x$ is a true sentence if and only if $p$.
+      >
+      > In order to obtain concrete definitions we substitute in the place of the symbol ‘$p$’ in this scheme any sentence, and in the place of ‘$x$’ any individual name of this sentence. (Tarski 1933/1983: 155–6)[^tarski-1933][^tarski-1983]
+    step1: |-
+      > 这类句子的一般图式可以这样刻画：
+      >
+      > - (2) $x$ 是真语句，当且仅当 $p$。
+      >
+      > 要得到具体的定义，我们就在这个图式中，用任意一个句子替换符号 “$p$”，用该句子的任意一个个体名称替换 “$x$”。（Tarski 1933/1983: 155–6）[^tarski-1933][^tarski-1983]
+    step2: |-
+      > 这类句子的一般图式可以这样刻画：
+      >
+      > - (2) $x$ 是真语句，当且仅当 $p$。
+      >
+      > 要得到具体的定义，我们就在这个图式中，用任意一个句子替换符号 “$p$”，用该句子的任意一个个体名称替换 “$x$”。（Tarski 1933/1983: 155–6）[^tarski-1933][^tarski-1983]
+  - id: 47
+    kind: body
+    source: |-
+      He took it to be a criterion of adequacy for a definition of ‘true sentence’ for a language that it have all such ‘partial definitions’ as consequences (Tarski 1933/1983: 187–8)[^tarski-1933][^tarski-1983].
+    step1: |-
+      他把“以所有这些‘部分定义’为后承”，当作一种语言中“真语句”定义的适当性标准（Tarski 1933/1983: 187–8）[^tarski-1933][^tarski-1983]。
+    step2: |-
+      他把“以所有这些‘部分定义’为后承”，当作一种语言中“真语句”定义的适当性标准（Tarski 1933/1983: 187–8）[^tarski-1933][^tarski-1983]。
+  - id: 48
+    kind: body
+    source: |-
+      ## 3. Ontological Status of Schemas
+    step1: |-
+      ## 3. 图式的本体论地位
+    step2: |-
+      ## 3 图式的本体论地位
+  - id: 49
+    kind: body
+    source: |-
+      It is important to be clear about the mixed ontological status of schemas. The template-text of the schema is a syntactic object, a string of characters, and has the same ontological presuppositions as numerals, words, formulas, and the like. For example, the template-text for the English naming schema—‘The expression … names the entity …’— is a forty-character expression involving twenty-seven letter-occurrences, six occurrences of the space, and seven occurrences of the period. On the other hand, the side condition is an intensional entity comparable to a proposition.
+    step1: |-
+      务必弄清图式在本体论上的混合地位。图式的模板文本是句法对象，是一个字符串，其本体论预设与数词、词、公式之类相同。例如，英语命名图式的模板文本——“表达式……命名实体……”——是一个四十字符的表达式，包含二十七处字母、六处空格、七处句点。另一方面，附加条件是内涵性实体，可以与命题相类比。
+    step2: |-
+      务必弄清图式在本体论上的混合地位。图式的模板文本是句法对象，是一个字符串，本体论预设与数词、词、公式之类相同。例如，英语命名图式的模板文本——“表达式……命名实体……”——是一个四十字符的表达式，含二十七处字母、六处空格、七处句点。另一方面，附加条件是内涵性实体，可与命题相类比。
+  - id: 50
+    kind: body
+    source: |-
+      A schema-template is a string type having indefinitely many tokens in Peirce’s sense (Peirce 1906; Corcoran et al. 1974: 638 n. 5)[^corcoran-1974][^peirce-1906]. But none of the tokens of a schema-template are instances of the schema. In fact, every instance of a schema is a string type having its own tokens. The word ‘instance’ is a relation noun for a relation certain string types bear to certain schemas. The word ‘token’ is a relation noun for a relation certain macroscopic physical objects bear to certain abstract objects. Neither a schema nor a schema-template is a common noun denoting the instances, and neither is a proper name of a set of instances.
+    step1: |-
+      图式模板是一个字符串类型；按皮尔士（Charles Sanders Peirce）意义上的“殊例”来说，它拥有不定多的殊例（Peirce 1906; Corcoran et al. 1974: 638 n. 5）[^corcoran-1974][^peirce-1906]。但图式模板的任何殊例，都不是该图式的实例。事实上，图式的每个实例都是一个字符串类型，各有自己的殊例。“实例”一词是关系名词，表示某些字符串类型与某些图式之间的某种关系。“殊例”一词也是关系名词，表示某些宏观物理对象与某些抽象对象之间的某种关系。无论是图式还是图式模板，都不是指称实例的通名，也都不是某组实例的专名。
+    step2: |-
+      图式模板是一个字符串类型；按皮尔士（Charles Sanders Peirce）意义上的“殊例”来说，它拥有不定多的殊例（Peirce 1906; Corcoran et al. 1974: 638 n. 5）[^corcoran-1974][^peirce-1906]。但图式模板的任何殊例，都不是该图式的实例。事实上，图式的每个实例都是一个字符串类型，各有自己的殊例。“实例”是关系名词，表示某些字符串类型与某些图式之间的某种关系。“殊例”也是关系名词，表示某些宏观物理对象与某些抽象对象之间的某种关系。图式与图式模板，都不是指称实例的通名，也都不是某组实例的专名。
+  - id: 51
+    kind: body
+    source: |-
+      Some philosophers emphasize the ontological economies possible by using schemas rather than second-order axioms (e.g., Quine 1970/1986)[^quine-1970]. But rarely if ever do these philosophers present a full and objective discussion of the “ontological commitments” entailed by the use of schemas. For example, number theory *per se* presupposes the existence of numbers, and perhaps numerical functions and numerical properties, but it does not presuppose the existence of mathematical notation and it *a fortiori* does not presuppose the existence of the vast, intricate notational system that we call the language of number theory. Sometimes the use of schemas may decrease the ontological commitments of the object language while increasing those of the metalanguage, or at least not achieving any net savings.
+    step1: |-
+      有些哲学家强调，用图式而不用二阶公理，可以在本体论上节省（例如 Quine 1970/1986）[^quine-1970]。但这些哲学家几乎从未完整而客观地讨论过使用图式所带来的“本体论承诺”。例如，数论*本身*预设了数的存在，也许还预设了数函数与数属性的存在，但并不预设数学记号的存在；它*更不必说*并不预设有我们称为数论语言的那套庞大而精细的记号系统。有时，使用图式可能减少对象语言的本体论承诺，却增加元语言的本体论承诺，或者至少没有实现任何净节省。
+    step2: |-
+      有些哲学家强调，用图式而不用二阶公理，可以在本体论上节省（例如 Quine 1970/1986）[^quine-1970]。但这些哲学家几乎从未完整而客观地讨论过使用图式所带来的“本体论承诺”。例如，数论*本身*预设了数的存在，也许还预设了数函数与数属性的存在，但并不预设数学记号的存在；它*更不必说*并不预设有我们称为数论语言的那套庞大而精细的记号系统。有时，使用图式会减少对象语言的本体论承诺，却增加元语言的本体论承诺，或者至少没有实现任何净节省。
+  - id: 52
+    kind: body
+    source: |-
+      ## 4. Schemas in the History of Logic
+    step1: |-
+      ## 4. 逻辑史中的图式
+    step2: |-
+      ## 4 逻辑史中的图式
+  - id: 53
+    kind: body
+    source: |-
+      The Greek word ‘schema’; was used in Plato’s Academy for “[geometric] figure” and in Aristotle’s Lyceum for “[syllogistic] figure”. Although Aristotle’s syllogistic figures or “schemata” were not schemas in the modern sense, Aristotle’s moods were. For example, the template-text of the mood BARBARA is
+
+      $$ \begin{align} & P \textrm{ belongs-to-every }M.\\ & M \textrm{ belongs-to-every }S.\\\hline & P \textrm{ belongs-to-every }S. \end{align} $$
+    step1: |-
+      希腊词 “schema” 在柏拉图的学园中用来指“[几何]图形”，在亚里士多德的吕克昂中用来指“[三段论]格”。亚里士多德的三段论格即“schemata”虽然不是现代意义上的图式，但他的“式”却是。例如，巴巴拉式（BARBARA）的模板文本是：
+
+      $$ \begin{align} & P \textrm{ belongs-to-every }M.\\ & M \textrm{ belongs-to-every }S.\\\hline & P \textrm{ belongs-to-every }S. \end{align} $$
+    step2: |-
+      希腊词 “schema” 在柏拉图的学园中用来指“[几何]图形”，在亚里士多德的吕克昂中用来指“[三段论]格”。亚里士多德的三段论格即“schemata”虽不是现代意义上的图式，他的“式”却是。例如，巴巴拉式（BARBARA）的模板文本为：
+
+      $$ \begin{align} & P \textrm{ belongs-to-every }M.\\ & M \textrm{ belongs-to-every }S.\\\hline & P \textrm{ belongs-to-every }S. \end{align} $$
+  - id: 54
+    kind: body
+    source: |-
+      The associated side condition is that (1) both occurrences of ‘$P$’ are to be filled with occurrences of one and the same common noun, (2) both occurrences of ‘$M$’ are to be filled with occurrences of one and the same common noun other than the one used for ‘$P$’, (3) both occurrences of ‘$S$’ are to be filled with occurrences of one and the same common noun other than the ones used for ‘$P$’ and ‘$M$’, and that (4) the expression ‘belongs-to-every’ is taken to express universal affirmative predication as in the *Prior analytics*. The rules of the Stoic propositional logic have been taken to be schemas.
+    step1: |-
+      与之相应的附加条件是：(1) 两处 “$P$” 都填入同一个通名；(2) 两处 “$M$” 都填入同一个通名，且不同于 “$P$” 所用的通名；(3) 两处 “$S$” 都填入同一个通名，且不同于 “$P$” 与 “$M$” 所用的通名；(4) 表达式 “belongs-to-every” 被理解为表达《前分析篇》中的全称肯定谓述。斯多亚命题逻辑的规则一直被认为属于图式。
+    step2: |-
+      与之相应的附加条件是：(1) 两处 “$P$” 都填入同一个通名；(2) 两处 “$M$” 都填入同一个通名，且不同于 “$P$” 所用的通名；(3) 两处 “$S$” 都填入同一个通名，且不同于 “$P$” 与 “$M$” 所用的通名；(4) 表达式 “belongs-to-every” 被理解为表达《前分析篇》中的全称肯定谓述。斯多亚命题逻辑的规则，一向被认为属于图式。
+  - id: 55
+    kind: body
+    source: |-
+      It is hard to date self-conscious use of the word ‘schema’; in the modern sense. Russell’s *Introduction to Mathematical Philosophy* (1919) uses it casually to describe propositional functions:
+    step1: |-
+      “schema” 一词在现代意义上的自觉使用始于何时，很难确定。罗素（Bertrand Russell）的《数理哲学导论》（*Introduction to Mathematical Philosophy*，1919）只是顺带用它来描述命题函项：
+    step2: |-
+      “schema” 一词在现代意义上的自觉使用始于何时，很难确定。罗素（Bertrand Russell）的《数理哲学导论》（*Introduction to Mathematical Philosophy*，1919）只是顺带用它来描述命题函项：
+  - id: 56
+    kind: body
+    source: |-
+      > A propositional function … may be taken to be a mere schema, a mere shell, an empty receptacle for meaning, not something already significant. (1919: 157)
+    step1: |-
+      > 命题函项……不妨看作一个纯粹的图式、一个空壳、一个盛放意义的空容器，而不是某种已经有意义的东西。（1919: 157）
+    step2: |-
+      > 命题函项……不妨看作一个纯粹的图式、一个空壳、一个盛放意义的空容器，而不是某种已经有意义的东西。（1919: 157）
+  - id: 57
+    kind: body
+    source: |-
+      But propositional functions are not syntactic schemas in the modern sense. Tarski’s 1933 truth-definition paper (Tarski 1933/1983: 157, 160, 172)[^tarski-1933][^tarski-1983] was one of the first prominent publications to use the word ‘scheme’ in a sense close to that of this article (Tarski 1933/1983: 155, 156)[^tarski-1933][^tarski-1983]. Tarski also uses the word ‘schema’, and its plural ‘schemata’, in the pre-World-War II period (1983: 63–64, 114, 310, 386, 423).
+    step1: |-
+      但命题函项并不是现代意义上的句法图式。塔尔斯基 1933 年那篇定义真之的论文（Tarski 1933/1983: 157, 160, 172）[^tarski-1933][^tarski-1983] 是最早以接近本文所论含义使用“scheme”一词的著名出版物之一（Tarski 1933/1983: 155, 156）[^tarski-1933][^tarski-1983]。在第二次世界大战前，塔尔斯基也使用“schema”一词及其复数“schemata”（1983: 63–64, 114, 310, 386, 423）。
+    step2: |-
+      但命题函项并不是现代意义上的句法图式。塔尔斯基 1933 年那篇定义真之的论文（Tarski 1933/1983: 157, 160, 172）[^tarski-1933][^tarski-1983] 是最早以接近本文所论含义使用“scheme”一词的著名出版物之一（Tarski 1933/1983: 155, 156）[^tarski-1933][^tarski-1983]。第二次世界大战前，塔尔斯基也使用“schema”一词及其复数“schemata”（1983: 63–64, 114, 310, 386, 423）。
+  - id: 58
+    kind: body
+    source: |-
+      Early twentieth-century formalizations of logic used what were called “substitution rules” with finite set of axioms instead of schemata that specified infinitely many axioms. These “substitution rules” were not the familiar rules for “substituting equals for equals”; rather they were closer to what are called instantiation rules today. The intuitive motivation for “substitution rules” was very simple but the syntactic details for implementing them were “intolerably complex”—to use the words of Paul Rosenbloom (1950: 109). In fact several first-rate logicians were led to make embarrassing errors, as Rosenbloom documents in the place just cited. Church (1956: 158) credits von Neumann with “the device of using axiom schemata”, which rendered the (notoriously difficult to state) substitution rule unnecessary.
+    step1: |-
+      20 世纪初的逻辑形式化，采用所谓“代入规则”配合有穷多公理，而不是用图式指定无穷多条公理。这些“代入规则”并不是人们熟悉的那种“以相等者替换相等者”的规则；它们更接近今天所说的例示规则。“代入规则”的直观动机非常简单，但实现它的句法细节却“复杂得难以忍受”——这是 Paul Rosenbloom（1950: 109）的说法。事实上，好几位一流逻辑学家因此犯下令人尴尬的错误，Rosenbloom 在上引之处记录了这些错误。邱奇（1956: 158）把“使用公理图式这一设计”归功于冯·诺伊曼（John von Neumann），它使那条（出了名地难以陈述的）代入规则成为多余。
+    step2: |-
+      20 世纪初的逻辑形式化，采用所谓“代入规则”配合有穷多公理，而不是用图式指定无穷多条公理。这些“代入规则”并非人们熟悉的“以相等者替换相等者”规则，而更接近今天所说的例示规则。“代入规则”的直观动机非常简单，实现它的句法细节却“复杂得难以忍受”——这是 Paul Rosenbloom（1950: 109）的说法。事实上，好几位一流逻辑学家因此犯下令人尴尬的错误，Rosenbloom 在上引之处记录了这些错误。邱奇（1956: 158）把“使用公理图式这一设计”归功于冯·诺伊曼（John von Neumann），正是它使那条（出了名地难以陈述的）代入规则成为多余。
+  - id: 59
+    kind: body
+    source: |-
+      As Church has emphasized (e.g., 1956: 59), metamathematical treatment of schemas requires use of formalized or logically perfect languages and an axiomatized theory of strings as found for the first time in Tarski’s 1933 truth-definition paper (1933/1983: 152–256). For more on the history, philosophy, and mathematics of this important but somewhat neglected field, see Corcoran *et al*. 1974; Corcoran 2006).
+    step1: |-
+      正如邱奇所强调的（如 1956: 59），对图式作元数学处理，需要使用形式化语言或逻辑上完善的语言，以及一套公理化的字符串理论——后者首次出现于塔尔斯基 1933 年定义真之的论文（1933/1983: 152–256）。关于这个重要却在某种程度上被忽视的领域的历史、哲学与数学，详见 Corcoran *et al*. 1974；Corcoran 2006。
+    step2: |-
+      正如邱奇所强调的（如 1956: 59），对图式作元数学处理，需要使用形式化语言或逻辑上完善的语言，以及一套公理化的字符串理论——后者首次出现于塔尔斯基 1933 年定义真之的论文（1933/1983: 152–256）。关于这个重要却在某种程度上被忽视的领域的历史、哲学与数学，详见 Corcoran *et al*. 1974；Corcoran 2006。
+  - id: 60
+    kind: oir
+    source: |-
+      - [Axiom Schema](http://mathworld.wolfram.com/AxiomSchema.html), at mathworld.wolfram.com.
+    step1: |-
+      - [公理图式](http://mathworld.wolfram.com/AxiomSchema.html)，见 mathworld.wolfram.com。
+    step2: |-
+      - [公理图式](http://mathworld.wolfram.com/AxiomSchema.html)，见 mathworld.wolfram.com。

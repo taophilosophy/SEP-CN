@@ -1117,6 +1117,11 @@
 | Ulrich of Strasbourg | — | 斯特拉斯堡的乌尔里希 | albert-great | 学界惯例（13 世纪多明我会神学家） | 2026-11-06 |
 | Hugh Ripelin | — | 胡戈·里佩林 | albert-great | 学界惯例（音译） | 2026-11-06 |
 | Gilbertus Porretanus | — | 吉尔伯特·波雷塔努斯 | albert-great | 学界惯例（12 世纪神学家） | 2026-11-06 |
+| Alonzo Church | — | 邱奇（Alonzo Church） | schema | 学界惯例（数理逻辑通行汉译） | 2026-11-06 |
+| Charles Sanders Peirce | — | 皮尔士（Charles Sanders Peirce） | schema | 学界惯例（实用主义通行汉译） | 2026-11-06 |
+| John von Neumann | — | 冯·诺伊曼（John von Neumann） | schema | 学界惯例（数学与计算机通行汉译） | 2026-11-06 |
+| John Corcoran | — | 保留英文（无通行汉名） | schema | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Paul Rosenbloom | — | 保留英文（无通行汉名） | schema | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 
 ## 待裁定
 

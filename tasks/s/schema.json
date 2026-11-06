@@ -1,0 +1,36 @@
+{
+  "slug": "schema",
+  "kind": "retranslate",
+  "zh_doc": "s/schema.md",
+  "state": "s1_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T14:02:36Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T14:58:14Z",
+      "evidence": "双版账本 tasks/s/schema.ledger.yaml 60 段（body 59+oir 1；step1 忠实/step2 优化）；lq.py check HARD=0（脚注键、$、** 守恒；* 计数差 3 段留痕：斜体术语→中文粗体+英文括注）；compose 写回 s/schema.md 10533 字符；参数见账本 params"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T14:58:15Z",
+      "evidence": "一校（准确性）逐段对照 yuanwen/s/schema.md：8 节集合对位（1–4+References+学术工具+其他网络资源+相关词条）；脚注引用与定义 43 键全等、无孤立；公式 18 处 $$ 逐字符照录（含 \\textrm 英文示例，宪法 VI）；实修 3 处词数表述（“八个词/十四词/六词”→补“英语”，指源语句而非译文）；残留外文仅为引用组与照录文献"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T14:02:36Z",
+  "version_pin": {
+    "pubinfo_date": "Aug 2, 2016",
+    "archive_edition": "Fall 2022",
+    "sha256": "1c6f169a201c23f5aa7a4688e78acd2831c7fa8a56c1d2042acbfaff811e70ab"
+  }
+}

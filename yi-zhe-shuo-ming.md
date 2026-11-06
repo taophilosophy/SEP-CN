@@ -1276,3 +1276,89 @@
 | monē / proodos / epistrophē | — | 静驻／流出／回返 | john-italos | 新柏拉图主义三重运动通行译法（普罗提诺）；待 specs/008 审定库复核 | 2026-11-06 |
 | Sabellianism | — | 撒伯里乌主义 | john-italos | 教父学通行汉译（Sabellius 模态论） | 2026-11-06 |
 | tritheism | — | 三神论 | john-italos | 教父学通行汉译（τριθεΐα） | 2026-11-06 |
+| emanation | — | 流溢 | israeli | 新柏拉图主义研究通行 | 2026-11-06 |
+| intellection | — | 理智活动 | israeli | 阿拉伯-犹太哲学研究通行 | 2026-11-06 |
+| quiddity | — | 本质（quiddity，阿拉伯语 māhiyya） | israeli | 中世纪哲学通行 | 2026-11-06 |
+| negative theology | — | 否定神学 | israeli | 宗教哲学通行 | 2026-11-06 |
+| akrasia | — | 意志薄弱（akrasia） | israeli | 希腊哲学通行 | 2026-11-06 |
+| vital spirit | — | 生命精气 | israeli | 中世纪医学与哲学通行 | 2026-11-06 |
+| four kinds of inquiry | — | 四类探究 | israeli | 亚里士多德《后分析篇》研究通行 | 2026-11-06 |
+| schema | — | 图式 | schema | 审定名词库（termonline-all·行为医学名词/心理学名词作“图式”，2026-11-06 审计凭证）；逻辑学通名同形 | 2026-11-06 |
+| scheme | — | 图式（英文 scheme，与 schema 同指；正文保留原词括注） | schema | 学界惯例（塔尔斯基语境 scheme／schema 同义） | 2026-11-06 |
+| template-text | — | 模板文本 | schema | 构词直译（Corcoran 术语） | 2026-11-06 |
+| side condition | — | 附加条件 | schema | 学界惯例（数理逻辑通行；亦作“侧条件”） | 2026-11-06 |
+| placeholder | — | 占位符 | schema | 学界惯例（逻辑与计算机通行） | 2026-11-06 |
+| instance | — | 实例 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
+| argument-text | — | 论证文本 | schema | 构词直译（Corcoran 术语：argument 论证、text 文本） | 2026-11-06 |
+| subsentential schema | — | 次语句图式 | schema | 构词直译（subsentential 次语句，语言学通行） | 2026-11-06 |
+| open sentence | — | 开语句 | schema | 学界惯例（逻辑学通行；亦作“开放语句”） | 2026-11-06 |
+| open term | — | 开词项 | schema | 构词直译（与“开语句”同构） | 2026-11-06 |
+| dummy letter | — | 哑字母 | schema | 构词直译（仿“哑变元”通行译法） | 2026-11-06 |
+| substituend | — | 代入项 | schema | 本词条首译裁定（Quine 术语，代入的对象） | 2026-11-06 |
+| numerals | — | 数词 | schema | 学界惯例（数理逻辑通行；对象语言中的数字词） | 2026-11-06 |
+| object language | — | 对象语言 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
+| metalanguage | — | 元语言 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
+| well-formed | — | 合式的 | schema | 学界惯例（数理逻辑通行：well-formed formula 合式公式） | 2026-11-06 |
+| axiom schema | — | 公理图式 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
+| inference rule | — | 推理规则 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
+| excluded-middle sentence schema | — | 排中语句图式 | schema | 构词直译 | 2026-11-06 |
+| classical non-exclusive disjunction | — | 经典相容析取 | schema | 学界惯例（non-exclusive 即相容的 inclusive） | 2026-11-06 |
+| classical negation | — | 经典否定 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
+| declarative sentence | — | 陈述句 | schema | 学界惯例（逻辑学通行） | 2026-11-06 |
+| first-order formula | — | 一阶公式 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
+| induction principle | — | 归纳原则 | schema | 学界惯例（数学基础通行；亦作“归纳原理”） | 2026-11-06 |
+| second-order axiom | — | 二阶公理 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
+| propositional function | — | 命题函项 | schema | 学界惯例（罗素《数理哲学导论》中译通行） | 2026-11-06 |
+| string | — | 字符串 | schema | 学界惯例（计算机与数理逻辑通行） | 2026-11-06 |
+| intensional entity | — | 内涵性实体 | schema | 学界惯例（逻辑哲学通行） | 2026-11-06 |
+| relation noun | — | 关系名词 | schema | 学界惯例（语法学通行） | 2026-11-06 |
+| proper name | — | 专名 | schema | 学界惯例（语言哲学通行） | 2026-11-06 |
+| common noun | — | 通名 | schema | 学界惯例（语言哲学通行，与专名相对） | 2026-11-06 |
+| syllogistic figure | — | 三段论格 | schema | 学界惯例（亚里士多德逻辑通行） | 2026-11-06 |
+| mood（syllogistic） | — | 式 | schema | 学界惯例（三段论“格—式”之分） | 2026-11-06 |
+| BARBARA | — | 巴巴拉式 | schema | 学界惯例（三段论式拉丁名音译） | 2026-11-06 |
+| universal affirmative predication | — | 全称肯定谓述 | schema | 构词直译（亚里士多德逻辑） | 2026-11-06 |
+| substitution rule | — | 代入规则 | schema | 学界惯例（数理逻辑通行） | 2026-11-06 |
+| instantiation rule | — | 例示规则 | schema | 构词直译（instantiation 例示） | 2026-11-06 |
+| metamathematical | — | 元数学的 | schema | 学界惯例（数学基础通行） | 2026-11-06 |
+| adequacy condition | — | 适当性条件 | schema | 学界惯例（塔尔斯基真理论研究通行） | 2026-11-06 |
+| partial definition | — | 部分定义 | schema | 学界惯例（塔尔斯基真理论研究通行） | 2026-11-06 |
+| true sentence | — | 真语句 | schema | 学界惯例（塔尔斯基真理论中译通行） | 2026-11-06 |
+| schema T／T-schema | — | 图式 T／T 图式 | schema | 构词直译（Tarski 术语） | 2026-11-06 |
+| Stoic | — | 斯多亚（斯多亚学派） | schema | 学界惯例（希腊化哲学通行） | 2026-11-06 |
+| Lyceum | — | 吕克昂 | schema | 学界惯例（亚里士多德学园通译） | 2026-11-06 |
+| Academy（Plato's） | — | 学园 | schema | 学界惯例（柏拉图学园通译） | 2026-11-06 |
+| organ donation | — | 器官捐献（词条标题用 SUMMARY 既定名“人体器官捐献”） | organ-donation | 学界惯例（《人体器官移植条例》用语“捐献”；凭证 2026-11-06） | 2026-11-06 |
+| organ transplantation | — | 器官移植 | organ-donation | 学界惯例（医学名词通行；凭证 2026-11-06） | 2026-11-06 |
+| organ retrieval／organ procurement | — | 器官获取 | organ-donation | 学界惯例（移植医学通行“获取”，不译“摘取”；凭证 2026-11-06） | 2026-11-06 |
+| organ failure | — | 器官衰竭 | organ-donation | 学界惯例（医学名词通行；凭证 2026-11-06） | 2026-11-06 |
+| brain death | — | 脑死亡 | organ-donation | 学界惯例（医学名词通行；SUMMARY 既有“脑死亡”别名行） | 2026-11-06 |
+| circulatory death | — | 循环死亡 | organ-donation | 学界惯例（与脑死亡对举的死亡判准；凭证 2026-11-06） | 2026-11-06 |
+| living donor | — | 活体捐献者 | organ-donation | 学界惯例（《人体器官移植条例》“活体器官捐献”；凭证 2026-11-06） | 2026-11-06 |
+| deceased donor | — | 已故捐献者 | organ-donation | 学界惯例（与 living donor 对举；凭证 2026-11-06） | 2026-11-06 |
+| presumed consent | — | 推定同意 | organ-donation | 学界惯例（生命伦理学与法学通行；凭证 2026-11-06） | 2026-11-06 |
+| opt-out／opt-in | — | 选择退出／选择加入 | organ-donation | 学界惯例（亦作“退出制／加入制”；凭证 2026-11-06） | 2026-11-06 |
+| double veto | — | 双重否决 | organ-donation | 构词直译（本词条描述性术语） | 2026-11-06 |
+| posthumous interests | — | 身后利益 | organ-donation | 学界惯例（法学亦作“死后利益”，哲学语境用“身后利益”；凭证 2026-11-06） | 2026-11-06 |
+| conscription（of organs） | — | 征用（器官） | organ-donation | 学界惯例（conscription 通译“征用”；凭证 2026-11-06） | 2026-11-06 |
+| mandated choice | — | 强制选择 | organ-donation | 构词直译（本词条政策术语） | 2026-11-06 |
+| first person authorization | — | 第一人称授权 | organ-donation | 学界惯例（美国器官捐献法术语；凭证 2026-11-06） | 2026-11-06 |
+| directed donation | — | 定向捐献 | organ-donation | 学界惯例（亦作“指定捐献”；凭证 2026-11-06） | 2026-11-06 |
+| kidney exchange | — | 肾脏交换 | organ-donation | 学界惯例（亦作“配对交换”；凭证 2026-11-06） | 2026-11-06 |
+| xenotransplantation | — | 异种移植 | organ-donation | 学界惯例（医学名词审定词；凭证 2026-11-06） | 2026-11-06 |
+| psychosocial harms | — | 心理社会伤害 | organ-donation | 学界惯例（医学文献 psychosocial 通行“心理社会”；凭证 2026-11-06） | 2026-11-06 |
+| vicarious harm | — | 替代性伤害 | organ-donation | 学界惯例（Feinberg 伤害理论中译；凭证 2026-11-06） | 2026-11-06 |
+| substituted judgment | — | 替代判断 | organ-donation | 学界惯例（生命伦理学与法学通行，亦作“替代决策”；凭证 2026-11-06） | 2026-11-06 |
+| competence | — | 行为能力 | organ-donation | 学界惯例（法学通译，与 decision-making capacity“决策能力”相区分；凭证 2026-11-06） | 2026-11-06 |
+| prioritarian | — | 优先主义 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
+| social value | — | 社会价值 | organ-donation | 学界惯例（通行；凭证 2026-11-06） | 2026-11-06 |
+| Restoration Argument | — | 恢复论证 | organ-donation | 构词直译（本词条命名论证） | 2026-11-06 |
+| Medical Argument | — | 医学论证 | organ-donation | 构词直译（本词条命名论证） | 2026-11-06 |
+| cost-effective／cost-effectiveness | — | 成本效益 | organ-donation | 学界惯例（卫生经济学通行；凭证 2026-11-06） | 2026-11-06 |
+| graft survival | — | 移植物存活 | organ-donation | 学界惯例（移植医学术语；凭证 2026-11-06） | 2026-11-06 |
+| dialysis | — | 透析 | organ-donation | 学界惯例（医学名词审定词；凭证 2026-11-06） | 2026-11-06 |
+| green screen | — | “绿屏”（支付能力筛查） | organ-donation | 构词直译加说明（美国移植语境，指因无力付费被筛除） | 2026-11-06 |
+| zero-sum game | — | 零和博弈 | organ-donation | 学界惯例（博弈论通行；凭证 2026-11-06） | 2026-11-06 |
+| due process | — | 正当程序 | organ-donation | 学界惯例（法学通译；凭证 2026-11-06） | 2026-11-06 |
+| bodily integrity | — | 身体完整性 | organ-donation | 学界惯例（法学与生命伦理学通行；凭证 2026-11-06） | 2026-11-06 |
+| welfare rights | — | 福利权利 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
