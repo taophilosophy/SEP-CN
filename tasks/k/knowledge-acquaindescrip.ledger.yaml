@@ -640,65 +640,65 @@ segments:
     source: |-
       ## 7. Criticisms
     step1: |-
-
+      ## 7 批评
     step2: |-
-
+      ## 7 批评
   - id: 80
     kind: body
     source: |-
       Many objections and concerns have been raised against the acquaintance approach. We here discuss three main ones: the Sellarsian Dilemma, Sosa’s problem of the speckled hen, and the threat of skepticism.
     step1: |-
-
+      人们对亲知进路提出了许多反对意见与关切。我们在此讨论其中主要的三个：塞拉斯式两难、索萨的花斑鸡问题，以及怀疑论的威胁。
     step2: |-
-
+      针对亲知进路的驳议与疑虑，所在多有。此处只取三个大端细说：塞拉斯式两难、索萨的“花斑鸡”之难，以及怀疑论的威胁。
   - id: 81
     kind: body
     source: |-
       ### 7.1 The Sellarsian Dilemma
     step1: |-
-
+      ### 7.1 塞拉斯式两难
     step2: |-
-
+      ### 7.1 塞拉斯式两难
   - id: 82
     kind: body
     source: |-
       In developing the view, we have already responded to one of its most common criticisms. As was noted above, it has been argued (most famously by Sellars 1963)[^sellars-1963] that even if there were such a thing as acquaintance with individuals, properties, or facts, that relation wouldn’t give one knowledge of *truths*. The observation is correct (since acquaintance with something does not amount to a judgment, let alone a true judgment, about it), but it is irrelevant to the more sophisticated view according to which the acquaintance with the relevant fact is only a *constituent* of the ground of propositional knowledge. As we have seen (section 3), acquaintance theorists typically add conditions that make the fact with which one is acquainted directly relevant to the truth of some thought or belief—e.g., by requiring awareness of the correspondence or fit (or perhaps some other relation) between the thought and the fact, or by requiring that the fact constitute part of the content of the belief.
     step1: |-
-
+      在展开这一观点的过程中，我们已回应了对它最常见的一项批评。如上所述，有人论证过（最著名的是 Sellars 1963）[^sellars-1963]：即便存在对个体、属性或事实的亲知，这种关系也不会给人 *真理* 的知识。这个观察是对的（因为亲知某物并不等于对它的判断，更谈不上真判断），但它与那个更为精致的观点无关——按后者，对相关事实的亲知只是命题知识之根据的一个 *构成要素*。如我们所见（第 3 节），亲知理论家通常会附加条件，使一个人所亲知的事实与某个思想或信念之真相直接相关——例如要求觉察到思想与事实之间的符合或契合（或其他某种关系），或要求该事实构成信念内容的一部分。
     step2: |-
-
+      在铺陈此说的过程中，我们其实已答过它最常挨的一记。如前所述，有人辩称（最著者为 Sellars 1963）[^sellars-1963]：纵使真有对个体、属性或事实的亲知，这层关系也生不出 *真理* 之知。此见本身不错（亲知某物并不等于对之作判断，遑论真判断），然而它扣不中那更精致的版本——依彼说，对相关事实的亲知只是命题知识之根据的 *构成要素* 之一。前文已见（第 3 节），亲知理论家每添条件，使所亲知的事实同某思想或信念之真相直接相干——或要求觉察到思想与事实间的符合、契合（抑或别种关系），或要求该事实充任信念内容的一部分。
   - id: 83
     kind: body
     source: |-
       These sophisticated views also seem capable of handling a closely related, influential objection. Inspired by Sellars, BonJour (1978, 1985) presented the following dilemma for any foundationalist view that takes one’s justification to consist in or depend essentially on some sort of awareness, acquaintance, or apprehension. (See also, Sellars 1963: Part I, 1975; Davidson 1983; McDowell 1994; and Williams 2005.)[^davidson-1983][^mcdowell-1994][^sellars-1963][^williams-2005] Is the awareness or acquaintance that is the alleged source of noninferential justification propositional or conceptual? That is, does it involve the acceptance of a proposition or thought, or at least the categorization of some sensory item or the application of some concept to experience? If, on the one hand, the acquaintance or awareness is propositional or conceptual in this way, then while such acts or episodes of awareness seem capable, in principle, of justifying other beliefs, they would surely need to be justified themselves. The episode of awareness would involve something like the acceptance of a proposition, and such an attitude clearly needs justification if it is to justify anything else. But then, the allegedly foundational belief is not foundational after all. If, on the other hand, we can regard direct awareness as nonpropositional and nonconceptual, then while these acts or states of awareness do not require or even admit of justification—for simply being aware of something is a mental state that is clearly neither justified nor unjustified—they also don’t seem capable on their own of providing a reason or justification for propositional items like beliefs. Therefore, the classical foundationalist’s acquaintance or direct awareness cannot serve as a foundational source of knowledge or justified belief.
     step1: |-
-
+      这些精致的观点似乎也能处理一个密切相关而颇有影响的反对意见。受塞拉斯启发，BonJour（1978, 1985）对任何主张证成在于、或本质上依赖于某种觉察、亲知或把握的基础主义观点，提出了如下两难。（另参见 Sellars 1963：第一部分，1975；Davidson 1983；McDowell 1994；以及 Williams 2005。）[^davidson-1983][^mcdowell-1994][^sellars-1963][^williams-2005] 那被断定为非推论证成之来源的觉察或亲知，是命题性的还是概念性的？也就是说，它是否涉及接受一个命题或思想，或至少涉及对某个感官项目作归类、对经验施用某个概念？一方面，如果亲知或觉察以这种方式是命题性的或概念性的，那么，这类觉察行为或经历虽然在原则上似乎能为其他信念提供证成，它们本身却肯定也需要证成。觉察经历会涉及类似接受一个命题的东西，而这样的态度若要证成别的什么，显然需要证成。但这样一来，那个据说基础的信念终究并不基础。另一方面，如果我们能把直接觉察看作非命题的、非概念的，那么，这类觉察行为或状态虽然不需要、甚至不容有证成——因为仅仅觉察到某物，显然是一种既谈不上被证成、也谈不上不被证成的心理状态——它们本身也似乎无法为信念这样的命题性项目提供理由或证成。因此，古典基础主义者的亲知或直接觉察，不能充当知识或被证成信念的基础来源。
     step2: |-
-
+      这些精致之说，似也接得住一记贴身且有力的驳难。BonJour（1978, 1985）承塞拉斯之绪，对一切“以证成寄于某种觉察、亲知或把握、或使之本质地依赖于此”的基础主义，摆出如下两难。（又见 Sellars 1963：第一部分，1975；Davidson 1983；McDowell 1994；Williams 2005。）[^davidson-1983][^mcdowell-1994][^sellars-1963][^williams-2005] 号称非推论证成之源的那份觉察、亲知，究竟是命题性的，还是概念性的？换言之，它是否含有对某一命题或思想的接受，或至少含有对某个感官项目的归类、对经验施用某个概念？设若它是命题性、概念性的：这类觉察行为或经历，原则上似能为别的信念提供证成，可是它自身必定也要证成。觉察经历须含某种类乎“接受一个命题”的东西，而如此态度若要证成他物，显然先得自己被证成。于是那个号称基础的信念，到头来并不基础。设若我们转认直接觉察为非命题、非概念的：这类觉察行为或状态固然不必、甚至不容有证成——仅仅觉察某物，显然既谈不上被证成，也谈不上不被证成——然而它们自身似也无力为信念之类的命题性项目提供理由或证成。是故，古典基础主义者的亲知、直接觉察，终究当不成知识与被证成信念的基础来源。
   - id: 84
     kind: body
     source: |-
       Most sophisticated versions of classical foundationalism are perhaps best understood as grasping the nonpropositional horn of the dilemma, since acquaintance is a nonpropositional form of awareness. Fumerton (1995: 75) replies that while acquaintance itself is nonpropositional, that does not rule out that propositions or thoughts are objects of acquaintance or constituents of objects of acquaintance, and if one is acquainted with a relation of correspondence between a thought and a fact, that would seem to provide all the justification one could need or want. As we have seen, BonJour (2003) gives a similar reply that appeals to direct awareness of some fact and a direct recognition of the fit between the fact and the proposition believed. He regards this recognition as judgmental or propositional, and that may lead some to push the propositional horn again: we need something further to justify the judgment of fit, and so the regress of justification has not yet come to an end. (For a response, see BonJour 2003: 193. For some critical discussion, see Bergmann 2006: Ch. 2.)[^bergmann-2006][^bonjour-2003] McGrew, Chalmers, and others who adopt the demonstrative or phenomenal concept strategy might reply that at least in the case of demonstratively formed beliefs the relevance of the truth maker to the proposition believed is transparent and guaranteed by the manner in which the belief is formed: acquaintance simply picks out some feature of experience and takes it up into the content of a belief or judgment that asserts that the feature exists or is instantiated.
     step1: |-
-
+      多数精致版本的古典基础主义，也许最好理解为抓住了两难中的非命题那一角，因为亲知是一种非命题的觉察形式。Fumerton（1995: 75）回应说：亲知本身固然非命题，但这并不排除命题或思想可以是亲知的对象、或亲知对象的构成部分；而如果一个人亲知到思想与事实之间的符合关系，那似乎就已提供了他所需或所欲的一切证成。如我们所见，BonJour（2003）给出了类似的回应，诉诸对某个事实的直接觉察与对事实与所信命题之间契合的直接识别。他把这种识别看作判断性的或命题性的，这可能促使一些人再次推向命题那一角：我们还需要别的东西来证成契合判断，于是证成的回溯仍未终止。（回应见 BonJour 2003: 193。批评性讨论见 Bergmann 2006：第 2 章。）[^bergmann-2006][^bonjour-2003] McGrew、Chalmers 以及其他采取指示性概念或现象概念策略的人则可以回应说：至少在指示性形成的信念的情形中，使真者与所信命题的相关性是透明的，并由信念形成的方式所保证——亲知径直挑出经验的某个特征，把它纳入一个断言该特征存在或被例示的信念或判断的内容之中。
     step2: |-
-
+      多数精致的古典基础主义版本，怕只能算抓住了两难中的非命题那一角——盖亲知本是非命题的觉察形式。Fumerton（1995: 75）的回应是：亲知自身非命题，却不排斥命题、思想可为亲知的对象、或为亲知对象的构成项；人若亲知到思想与事实之间的符合关系，似的已尽供其所须、所欲之证成。如前所见，BonJour（2003）的回应大同小异，所靠者是对某事实的直接觉察、以及对“事实与所信命题相契”的直接识别。他把这份识别算作判断性、命题性的，这或又招人再推向命题那一角：契合判断还需别的东西来证成，证成回溯于是仍未走完。（回应见 BonJour 2003: 193；批评性讨论见 Bergmann 2006：第 2 章。）[^bergmann-2006][^bonjour-2003] 至于 McGrew、Chalmers 等取指示性概念或现象概念策略者，则可答曰：至少在指示性地形成的信念那里，使真者同所信命题的相干性本是透明的，且由信念生成的方式担保——亲知径直挑出经验的某个特征，把它收进一个断言“该特征存在”“该特征被例示”的信念或判断的内容里去。
   - id: 85
     kind: body
     source: |-
       ### 7.2 The Problem of the Speckled Hen
     step1: |-
-
+      ### 7.2 花斑鸡问题
     step2: |-
-
+      ### 7.2 花斑鸡问题
   - id: 86
     kind: body
     source: |-
       Recently, Sosa (2003a,b), Poston (2007) and Markie (2009) have raised the problem of the speckled hen in objection to the acquaintance theorist’s conception of noninferential justification. The speckled hen presents an appearance of, say, 48 speckles. One is, they assume, directly acquainted with one’s visual field replete with the 48 speckles. Yet unless one has counted the speckles, one is unlikely to have justification for believing that one’s visual field contains the 48 speckles. Even if one guesses correctly the number of speckles in the field, one’s guess hardly counts as a justified belief. Direct acquaintance with truthmakers for one’s belief is, then, clearly not sufficient for noninferential justification.
     step1: |-
-
+      近来，Sosa（2003a,b）、Poston（2007）与 Markie（2009）提出了花斑鸡问题，以及对亲知理论家关于非推论证成的构想。花斑鸡呈现出——比如说——48 个斑点的显现。他们假定，一个人直接亲知到自己那布满 48 个斑点的视场。然而，除非一个人数过斑点，他不大可能有证成去相信自己的视场包含 48 个斑点。即便他猜对了视场中斑点的数目，他的猜测也很难算作被证成的信念。因此，对信念之使真者的直接亲知，显然不足以构成非推论证成。
     step2: |-
-
+      晚近，Sosa（2003a,b）、Poston（2007）、Markie（2009）举出花斑鸡之例，用以驳难亲知理论家关于非推论证成的构想。一只花斑鸡呈现——比方说——48 个斑点的相貌。他们假定：人直接亲知到自己那满是 48 个斑点的视场。可是人若不曾清点，便不大可能有证成去相信视场中含 48 个斑点；纵然碰巧猜中斑点数，这猜中也难算被证成的信念。如此看来，对信念使真者的直接亲知，远不足以构成非推论证成。
   - id: 87
     kind: body
     source: |-
