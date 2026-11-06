@@ -1,0 +1,29 @@
+{
+  "slug": "marsilius-inghen",
+  "kind": "retranslate",
+  "zh_doc": "m/marsilius-inghen.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-06T13:00:00Z",
+      "evidence": "方向声明（rules/08）：m 批第 3 件 marsilius-inghen（马西利乌斯·因根，45KB 源/61 段/18 内容注/42 条现制文献）。中世纪经院哲学词条。目标：六道全过收口，判据同战役标准；工具链 lq.py 流水线。非目标：不改英文源、不补内容、不造引文；人名术语先登记后使用；不动他会 active 词条（k/r 批在途文件不碰）。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T00:28:14Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T00:28:14Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 9, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "56d8e6fdfff56ee097f66f5de9eb0834b5f7ecc8136a4183cd957aa90be11e86"
+  }
+}

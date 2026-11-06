@@ -1,0 +1,665 @@
+version: 1
+slug: marsilius-inghen
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Marsilius of Inghen, master at the Universities of Paris (1362–1378) and Heidelberg (1386–1396), wrote a number of treatises on logic, natural philosophy and theology popular at many late medieval and early modern universities. He adopted the logico-semantic approach of William of Ockham and John Buridan while at the same time defending the traditional views of Thomas Aquinas and Bonaventure. His thinking sheds light on the discussion between nominalists and realists and allows insight into the changing interests of philosophy and theology, from the critical attitude of many fourteenth-century authors to the search for tradition which was characteristic of the fifteenth century.
+    step1: |-
+      因根的马西利乌斯（Marsilius of Inghen），巴黎大学（1362–1378）与海德堡大学（1386–1396）的硕士，撰写了大量关于逻辑、自然哲学与神学的论著，在许多中世纪晚期与近代早期的大学中广为流行。他采纳了奥卡姆的威廉与约翰·布里丹的逻辑-语义进路，同时捍卫托马斯·阿奎那与波纳文图拉的传统观点。他的思想为唯名论者与实在论者之间的讨论带来了启示，并使人得以洞察哲学与神学不断变化的兴趣——从许多十四世纪作者的批判态度，到十五世纪特有的对传统的追寻。
+    step2: |-
+      因根的马西利乌斯（Marsilius of Inghen），先后任巴黎大学（1362–1378）与海德堡大学（1386–1396）的硕士，著述了大量关于逻辑、自然哲学与神学的论著，在许多中世纪晚期与近代早期的大学广为流传。他采纳奥卡姆的威廉与约翰·布里丹的逻辑-语义进路，同时又捍卫托马斯·阿奎那与波纳文图拉的传统观点。他的思想既照亮唯名论者与实在论者之间的争论，也让人窥见哲学与神学兴趣的流变——从十四世纪众多作者的批判姿态，到十五世纪特有的向传统的回归。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      Marsilius of Inghen was born around 1340 in Nijmegen, a city in the eastern part of the Low Countries (Netherlands).[^note-1] In the older literature it is often said that he came from one of the villages in the vicinity of Nijmegen (Inghen), but this view is mistaken. It was based on a confused reading of the *Oratio Funebris* held in 1396 by Nicholas Prowin at the funeral of Marsilius and published in 1499 at Mainz.[^note-2] From 1362 on, Marsilius was master at the Faculty of Arts at the University of Paris, where he was also rector (1367 and 1371), and a student of theology. As a teacher at Paris, Marsilius was much esteemed and his lectures drew large audiences. Among his students were many compatriots, some of whom came from Nijmegen and surrounding villages. In 1378, Marsilius found himself the University’s delegate at the court of Pope Urban VI in Tivoli. In 1379, he instructed one of his colleagues, Hugh of Hervort, to look after his interests in Paris. After 1379, Marsilius’s name is no longer mentioned in the acts of the University of Paris. He probably turned away from Paris because of the imbroglio surrounding the Great Schism of 1378. Meanwhile, he kept in touch with his native city. In 1382 the town council of Nijmegen treated him to a banquet. From 1386 on, Marsilius was master at the University of Heidelberg. There, as in Paris, he held a number of administrative offices. He was one of the founders of the University of Heidelberg, of which he was rector no fewer than nine times, from 1386–1392 and also in 1396. In 1389–1390, as the University’s *nuncio* together with Conrad of Soltau, he was responsible for transferring the University register to Rome (Boniface IX). At the beginning of the 1390s, Marsilius again took up the study of theology. The masters who taught theology were by then Conrad of Soltau (since 1387) and Matthew of Krakow (since 1394), both from the University of Prague. In 1395/1396 Marsilius finished his lectures on the *Sentences* and so became the first theologian to obtain the doctorate at Heidelberg. He died a short time later, on August 20, 1396.
+    step1: |-
+      因根的马西利乌斯约于 1340 年生于奈梅亨，低地国家（尼德兰）东部的一座城市。[^note-1] 较旧的文献常说，他来自奈梅亨附近的一个村庄（因根），但这一看法是错误的。它基于对尼古拉斯·普罗温 1396 年在马西利乌斯葬礼上所致、1499 年于美因茨出版的《悼词》的误读。[^note-2] 自 1362 年起，马西利乌斯任巴黎大学艺学院硕士，并在那里担任院长（1367 与 1371 年），同时也是神学学生。作为巴黎的教师，马西利乌斯备受推崇，其讲授课听者甚众。他的学生中有许多同胞，其中一些来自奈梅亨及周边村庄。1378 年，马西利乌斯作为大学代表出席教皇乌尔班六世在蒂沃利的宫廷。1379 年，他指示同事之一的休·冯·赫尔弗特照管他在巴黎的利益。1379 年之后，巴黎大学的档案中不再提及马西利乌斯的名字。他离开巴黎，大概是因为 1378 年教会大分裂的纷乱。与此同时，他与故乡保持联系。1382 年，奈梅亨市政会为他设宴。自 1386 年起，马西利乌斯任海德堡大学硕士。在那里，如同在巴黎，他担任多项行政职务。他是海德堡大学的创建人之一，1386–1392 年间九次出任该校院长，1396 年又任一次。1389–1390 年，他与康拉德·冯·佐尔陶一道作为大学的*使节*，负责把大学名册迁往罗马（卜尼法斯九世处）。1390 年代初，马西利乌斯重拾神学。当时讲授神学的硕士有康拉德·冯·佐尔陶（自 1387 年）与克拉科夫的马修（自 1394 年），二人都来自布拉格大学。1395/1396 年，马西利乌斯完成《箴言四书》讲稿，成为海德堡大学第一位获得博士学位的神学家。不久之后的 1396 年 8 月 20 日，他去世了。
+    step2: |-
+      因根的马西利乌斯约 1340 年生于奈梅亨——低地国家（尼德兰）东部的一座城市。[^note-1] 较旧的文献常说，他出身奈梅亨附近的一个村庄（因根）；此说有误。它源自对尼古拉斯·普罗温 1396 年在马西利乌斯葬礼上所致、1499 年刊于美因茨的《悼词》的一处误读。[^note-2] 自 1362 年起，马西利乌斯任巴黎大学艺学院硕士，并两度出任该校院长（1367 与 1371 年），同时研习神学。执教巴黎期间，马西利乌斯备受推崇，讲课听者甚众；学生中有许多同胞，其中一些来自奈梅亨及周边村庄。1378 年，他作为大学代表赴蒂沃利觐见教皇乌尔班六世的宫廷。1379 年，他托请同事休·冯·赫尔弗特代管其在巴黎的事务。此后巴黎大学的档案中便不再出现他的名字——他离开巴黎，多半是因为 1378 年教会大分裂的纷乱。同一时期，他与故乡联系未断：1382 年，奈梅亨市政会为他设宴款待。自 1386 年起，马西利乌斯任海德堡大学硕士，与在巴黎一样身兼多项行政职务。他是海德堡大学的创建人之一，1386–1392 年间九度出任校长，1396 年又任一次。1389–1390 年，他与康拉德·冯·佐尔陶一道以大学*使节*的身份，负责把大学名册迁呈罗马（卜尼法斯九世）。1390 年代初，马西利乌斯重拾神学：当时讲授神学的硕士有康拉德·冯·佐尔陶（自 1387 年）与克拉科夫的马修（自 1394 年），皆出自布拉格大学。1395/1396 年，他完成《箴言四书》讲稿，成为海德堡大学首位获神学博士者。不久，1396 年 8 月 20 日，他与世长辞。
+  - id: 4
+    kind: body
+    source: |-
+      Marsilius was a prolific writer. His work was the fruit of his teachings in Paris and Heidelberg. Many of his writings have been preserved in manuscripts or early printed editions, although recently some have appeared in modern critical editions. His most important writings include:[^note-3]
+    step1: |-
+      马西利乌斯是一位多产的作家。他的著作是他巴黎与海德堡教学生涯的果实。许多著述以手稿或早期印刷本的形式保存下来，不过最近有一些已以现代校勘本面世。他最重要的著作包括：[^note-3]
+    step2: |-
+      马西利乌斯著述宏富。其著作是巴黎与海德堡教学生涯的果实。许多著述以手稿或早期印本的形式留存，近来一部分已有了现代校勘本。其最重要的著作包括：[^note-3]
+  - id: 5
+    kind: body
+    source: |-
+      **Works on Logic and Epistemology**
+    step1: |-
+      **逻辑与认识论著作**
+    step2: |-
+      **逻辑与认识论著作**
+  - id: 6
+    kind: body
+    source: |-
+      1. *Exposition of the Old Logic*
+      2. Various *Questions* on the Old and New Logic
+      3. *Summary* [Abbreviationes] *of the Old and New Logic*
+      4. Treatises on the Properties of Terms: *On Supposition, Ampliation, Appellation, Restriction, Obligation, Insolubles, and Consequences*.
+    step1: |-
+      1. *旧逻辑评注*
+      2. 论新旧逻辑的多种*问题集*
+      3. *新旧逻辑概要*［Abbreviationes］
+      4. 论词项特性的专题文章：*论指代、扩展、称谓、限缩、义务论辩、不可解命题与推论*。
+    step2: |-
+      1. *旧逻辑评注*
+      2. 论新旧逻辑的多种*问题集*
+      3. *新旧逻辑概要*［Abbreviationes］
+      4. 词项特性专题论著：*论指代、扩展、称谓、限缩、义务论辩、不可解命题与推论*。
+  - id: 7
+    kind: body
+    source: |-
+      **Works on Natural Philosophy and Metaphysics**
+    step1: |-
+      **自然哲学与形而上学著作**
+    step2: |-
+      **自然哲学与形而上学著作**
+  - id: 8
+    kind: body
+    source: |-
+      1. *Summary* [Abbreviationes] *of Aristotle’s ‘Physics’*
+      2. *Questions on Aristotle’s ‘On Generation and Corruption’*
+      3. *Questions on Aristotle’s ‘De anima’*
+      4. *Questions on Aristotle’s ‘Metaphysics’*
+    step1: |-
+      1. *亚里士多德《物理学》概要*［Abbreviationes］
+      2. *亚里士多德《论生灭》问题集*
+      3. *亚里士多德《论灵魂》问题集*
+      4. *亚里士多德《形而上学》问题集*
+    step2: |-
+      1. *亚里士多德《物理学》概要*［Abbreviationes］
+      2. *亚里士多德《论生灭》问题集*
+      3. *亚里士多德《论灵魂》问题集*
+      4. *亚里士多德《形而上学》问题集*
+  - id: 9
+    kind: body
+    source: |-
+      **Works on Ethics**
+    step1: |-
+      **伦理学著作**
+    step2: |-
+      **伦理学著作**
+  - id: 10
+    kind: body
+    source: |-
+      - *Questions on Aristotle’s ‘Nicomachean Ethics’*
+    step1: |-
+      - *亚里士多德《尼各马可伦理学》问题集*
+    step2: |-
+      - *亚里士多德《尼各马可伦理学》问题集*
+  - id: 11
+    kind: body
+    source: |-
+      **Works on Theology**
+    step1: |-
+      **神学著作**
+    step2: |-
+      **神学著作**
+  - id: 12
+    kind: body
+    source: |-
+      - *Questions on the ‘Sentences’ of Peter Lombard*
+    step1: |-
+      - *彼得·伦巴德《箴言四书》问题集*
+    step2: |-
+      - *彼得·伦巴德《箴言四书》问题集*
+  - id: 13
+    kind: body
+    source: |-
+      ## 2. Teachings
+    step1: |-
+      ## 2 学说
+    step2: |-
+      ## 2 学说
+  - id: 14
+    kind: body
+    source: |-
+      ### 2.1 Logic and Epistemology
+    step1: |-
+      ### 2.1 逻辑与认识论
+    step2: |-
+      ### 2.1 逻辑与认识论
+  - id: 15
+    kind: body
+    source: |-
+      In his logic and epistemology, Marsilius followed the nominalist tradition of the fourteenth century as exemplified by William of Ockham and John Buridan. Yet Marsilius never qualified himself as a nominalist or follower of Ockham. He was an independent thinker who sometimes went back to the older tradition of the thirteenth century (e.g., in Peter of Spain), or advocated theories which were more in line with ordinary speech, as against the highly specialized views of his contemporaries. Marsilius employed logical methods and discussed logical and epistemological issues in almost all of his writings, including his commentary on the *Sentences* of Peter Lombard, which, in addition to his works specifically dedicated to logic, were also used as a source for late medieval and early modern treatises on logic.
+    step1: |-
+      在逻辑与认识论上，马西利乌斯遵循十四世纪以奥卡姆的威廉与约翰·布里丹为代表的唯名论传统。然而，马西利乌斯从未自称唯名论者或奥卡姆的追随者。他是一个独立的思想家：有时回到十三世纪的旧传统（例如西班牙的彼得），有时主张与日常言语更贴合的理论，以对抗其同时代人高度专门化的观点。马西利乌斯在几乎所有著述中都运用逻辑方法、讨论逻辑与认识论问题，包括他对彼得·伦巴德《箴言四书》的评注——除其专门的逻辑著作之外，后者也被中世纪晚期与近代早期的逻辑论著用作来源。
+    step2: |-
+      在逻辑与认识论上，马西利乌斯遵循十四世纪的唯名论传统——以奥卡姆的威廉与约翰·布里丹为代表。然而他从未自称唯名论者或奥卡姆派。他是个独立的思想家：有时回溯十三世纪的旧传统（例如西班牙的彼得），有时主张更贴合日常言语的理论，以抗衡同时代人高度专门化的观点。马西利乌斯在几乎所有著述中都运用逻辑方法、讨论逻辑与认识论问题——包括他对彼得·伦巴德《箴言四书》的评注；除专门逻辑著作外，这部评注也被中世纪晚期与近代早期的逻辑论著奉为来源。
+  - id: 16
+    kind: body
+    source: |-
+      Marsilius’s nominalism comes to the fore in his views on the object of scientific knowledge, the nature of universals, and the logical doctrine of supposition. His basic assumption is that there are only individuals and no universals outside the human mind.
+    step1: |-
+      马西利乌斯的唯名论在其关于科学知识之对象、共相之本性以及指代学说的观点中显现。其基本假定是：只有个体存在，人的心灵之外没有共相。
+    step2: |-
+      马西利乌斯的唯名论，集中显现于他关于科学知识之对象、共相之本性与指代学说的观点。其基本假定是：存在的只有个体；人的心灵之外没有共相。
+  - id: 17
+    kind: body
+    source: |-
+      #### 2.1.1 The Object of Scientific Knowledge
+    step1: |-
+      #### 2.1.1 科学知识的对象
+    step2: |-
+      #### 2.1.1 科学知识的对象
+  - id: 18
+    kind: body
+    source: |-
+      According to the Aristotelian standard accepted by Marsilius, the object of scientific knowledge must be universal and necessarily true. This is not the case with individual things in the external world, since they are subject to change. Only the conclusion of a true and necessary syllogism can meet the standard. Hence, for Marsilius, the object of scientific knowledge is not anything outside the mind, but the mental proposition which refers to individual things and their qualities. More specifically, the proper object of scientific knowledge is a proposition in the form of a conclusion that has been deduced from necessary premises [SE1, 77–79].
+    step1: |-
+      按马西利乌斯接受的亚里士多德标准，科学知识的对象必须是普遍的且必然为真。外部世界中的个体事物并非如此，因为它们处于变化之中。只有真且必然的三段论的结论能满足这一标准。因此，对马西利乌斯而言，科学知识的对象不是心灵之外的任何东西，而是指涉个体事物及其性质的 mental 命题。更具体地说，科学知识的固有对象是这样一个命题：它以结论的形式从必然前提中演绎得出［SE1, 77–79］。
+    step2: |-
+      按马西利乌斯所接受的亚里士多德标准，科学知识的对象必须普遍且必然为真。外部世界中的个体事物不满足这一点——它们处于流变之中。唯有真且必然的三段论之结论能满足标准。于是，对马西利乌斯而言，科学知识的对象不是心灵之外的任何东西，而是指涉个体事物及其性质的心灵命题。更确切地说，科学知识的固有对象，是以结论的形式从必然前提演绎而来的命题［SE1, 77–79］。
+  - id: 19
+    kind: body
+    source: |-
+      #### 2.1.2 Universals
+    step1: |-
+      #### 2.1.2 共相
+    step2: |-
+      #### 2.1.2 共相
+  - id: 20
+    kind: body
+    source: |-
+      Marsilius argued that universal concepts such as ‘humanity’ do not refer to real universals outside the human mind. Accordingly, there is no universal essence in singular individuals. Individuals of one genus or species do resemble each other, however, and this resemblance is the foundation of universal concepts in the human mind. The generation of universal concepts is a natural process, which Marsilius described as follows: suppose individual *A* of species *S* evokes concept *X* in the human mind. This concept is similar to concept *Y* which has been evoked by *B* of the same species *S*. By abstracting from all the differences between *X* and *Y*, the human mind is able to produce another concept, *Z*, which stands for both *A* and *B*. Universality is then taken to be a quality of concept *Z*, the product of the epistemological operation of abstraction on concepts *X* and *Y* by the human mind.[^note-4]
+    step1: |-
+      马西利乌斯论证，“人性”这类普遍概念并不指涉人的心灵之外的实在共相。因此，在单个个体之中没有普遍本质。然而，同一属或种的诸个体确实彼此相似，这种相似是人的心灵中普遍概念的基础。普遍概念的产生是一个自然过程，马西利乌斯描述如下：设种 *S* 的个体 *A* 在人的心灵中唤起概念 *X*。这个概念与概念 *Y* 相似，后者由同一种 *S* 的 *B* 唤起。通过抽离 *X* 与 *Y* 之间的一切差异，人的心灵能够产生另一个概念 *Z*，它同时代表 *A* 与 *B*。于是，普遍性被看作概念 *Z* 的性质——它是人的心灵对概念 *X* 与 *Y* 施行抽象这一认识论运作的产物。[^note-4]
+    step2: |-
+      马西利乌斯论证：诸如“人性”这类普遍概念，并不指涉人心之外的实在共相。因此，个体之中没有普遍本质。不过，同属或同种的诸个体确实彼此相似，而相似正是人心之中普遍概念的地基。普遍概念的产生是自然过程，马西利乌斯如此描述：设种 *S* 的个体 *A* 在人心中唤起概念 *X*；此概念与 *Y* 相似，后者由同种的 *B* 唤起。通过抽离 *X* 与 *Y* 之间的一切差异，人心能产生另一个概念 *Z*——它同时代表 *A* 与 *B*。普遍性于是被看作 *Z* 的性质：它是人心对 *X* 与 *Y* 施行抽象这一认识论运作的产物。[^note-4]
+  - id: 21
+    kind: body
+    source: |-
+      #### 2.1.3 Supposition
+    step1: |-
+      #### 2.1.3 指代
+    step2: |-
+      #### 2.1.3 指代
+  - id: 22
+    kind: body
+    source: |-
+      In line with his account of the nature of universals, Marsilius rejected simple supposition. Logicians such as Peter of Spain had used the notion to indicate that a term stood not for an individual but for a universal or common nature in the external world, like the term ‘man’ in the proposition, ‘Man is a species’. Since Marsilius rejected the idea of universals existing outside the mind, he eliminated simple supposition from the list of different types of supposition. He was critical of some of his contemporaries (e.g., Albert of Saxony) who likewise dismissed the concept of real universals, yet kept on using the notion of simple supposition. They had changed the meaning of the term, he said, by claiming that a written or spoken term had simple supposition if it was used to refer to a concept in the human mind. Marsilius wondered whether young students would be able to understand this new meaning of simple supposition, since they would hardly know what concepts are. To avoid confusion, Marsilius decided not to deal with simple supposition at all in his logic.[^note-5]
+    step1: |-
+      与他对共相之本性的说明一致，马西利乌斯拒绝了简单指代。西班牙的彼得等逻辑学家曾用这一概念表明：词项代表的不是个体，而是外部世界中的普遍或共同本性，如命题“人是种”中的“人”。由于马西利乌斯拒绝心灵之外存在共相的观念，他把简单指代从指代的诸类型中剔除。他批评某些同时代人（例如萨克森的阿尔伯特），他们同样否认实在共相的概念，却继续使用简单指代的概念。他说，这些人改变了这个词项的含义：他们主张，一个书写或口说的词项，如果被用来指称人的心灵中的概念，就具有简单指代。马西利乌斯怀疑年轻学生能否理解简单指代的这种新含义，因为他们几乎不知道概念是什么。为避免混淆，马西利乌斯决定在其逻辑中完全不处理简单指代。[^note-5]
+    step2: |-
+      与他关于共相本性的说明相一致，马西利乌斯拒绝了简单指代。西班牙的彼得等逻辑学家曾以此概念表明：词项所代表的不是个体，而是外部世界中的普遍或共同本性——如命题“人是种”中的“人”。马西利乌斯既拒绝“心灵之外存在共相”的观念，便把简单指代从指代的类型清单中剔除。他批评某些同时代人（如萨克森的阿尔伯特）：他们同样否认实在共相，却仍旧使用简单指代的概念。他说，这些人改换了这一词项的含义——主张一个书写或口说的词项，只要被用来指称人心灵中的概念，就具有简单指代。马西利乌斯怀疑年轻学生能否理解这种新含义：他们几乎不知道概念为何物。为免混淆，马西利乌斯决定在自己的逻辑中干脆不处理简单指代。[^note-5]
+  - id: 23
+    kind: body
+    source: |-
+      #### 2.1.4 Categories
+    step1: |-
+      #### 2.1.4 范畴
+    step2: |-
+      #### 2.1.4 范畴
+  - id: 24
+    kind: body
+    source: |-
+      In his commentary on the *Categories*, Marsilius adheres to William of Ockham’s and John Buridan’s view that the ten Aristotelian categories are distinguished by the way they refer to things in extra-mental reality. The emphasis here is on the ‘way they refer to’ things, i.e., their *modus significandi*, and not on the things themselves, he argues, since distinct categories like ‘quantity’ and ‘quality’, while doing so in different manners, may still refer to one and the same individual thing in the outside world, e.g., Socrates. Different categories, therefore, do not represent different things but stand for distinct and unique ways of signifying things.[^note-6] Together, the ten categories cover all possible ways of speaking about things. Like Buridan, however, Marsilius emphasizes that it is impossible to prove that their precise number is and must be ten, as some philosophers like Albert the Great had claimed. It is only lengthy experience that has led philosophers to acknowledge their number to be ten.[^note-7] If an additional mode of signifying things was discovered in the future, Marsilius states, he would readily accept there to be more than ten Aristotelian categories, even though he does not consider such a discovery to be very likely.[^note-8]
+    step1: |-
+      在《范畴篇》评注中，马西利乌斯坚持奥卡姆的威廉与约翰·布里丹的观点：十个亚里士多德范畴以它们指涉心灵外实在之事物的方式相区别。他论证，这里强调的是“指涉事物的方式”，即其*意谓方式*（*modus significandi*），而非事物本身——因为彼此不同的范畴，如“量”与“质”，尽管以不同方式指涉，仍可以指涉外部世界中的同一个个体事物，例如苏格拉底。因此，不同的范畴并不代表不同的事物，而是代表意谓事物的不同且独特的方式。[^note-6] 十个范畴合起来覆盖了谈论事物的一切可能方式。不过，与布里丹一样，马西利乌斯强调，无法证明它们的精确数目是且必须是十个——正如大阿尔伯特等一些哲学家所主张的。只是漫长的经验使哲学家承认其数目为十。[^note-7] 马西利乌斯声明，如果将来发现了意谓事物的另一种方式，他将欣然接受亚里士多德范畴多于十个，尽管他认为这样的发现不太可能。[^note-8]
+    step2: |-
+      在《范畴篇》评注中，马西利乌斯坚持奥卡姆的威廉与约翰·布里丹的立场：十个亚里士多德范畴，以它们指涉心灵外实在之事物的方式相区分。他论证：此处强调的是“指涉事物的方式”——即其*意谓方式*（*modus significandi*）——而非事物本身；因为彼此不同的范畴，如“量”与“质”，虽以不同方式指涉，仍可指涉外部世界中的同一个个体，例如苏格拉底。所以，不同的范畴并不代表不同的事物，而是代表着意谓事物的彼此不同且各自独特的方式。[^note-6] 十个范畴合起来，覆盖谈论事物的一切可能方式。但与布里丹一样，马西利乌斯强调：无法证明它们的精确数目是且必须是十——大阿尔伯特等哲学家曾如此主张；使哲学家承认数目为十的，只是漫长经验的积累。[^note-7] 马西利乌斯声明：倘若将来发现了意谓事物的另一种方式，他会欣然接受亚里士多德范畴多于十个——尽管他认为这种发现不太可能。[^note-8]
+  - id: 25
+    kind: body
+    source: |-
+      According to Marsilius, the ten Aristotelian categories refer to things in reality which themselves are not signs of other things. These categories are names or concepts of primary intention, as he calls them. However, since there are also names which are used to refer to signs or to names of things and not to things themselves — such as the terms ‘genus’ and ‘species’, which are called names of secondary intention — there needs to be an additional category of secondary intention, beside the ten Aristotelian categories of primary intention. This category may be called the ‘category of signs’ (*praedicamentum signi*) or the ‘category of terms’ (*praedicamentum termini*), Marsilius says.[^note-9] The existence of such a category does not refute the traditional number of ten categories, since the traditional categories, even though they are names or concepts themselves, do not refer to names or concepts, but to things in reality. In claiming such a category, Marsilius goes beyond John Buridan, who does not recognize it, and further elaborates a position already mentioned by Duns Scotus. Accordingly, for the metaphysician who considers ‘being as being’ (*ens inquantum ens*) there are only ten categories, whereas for the logician who deals with ‘concepts as concepts’ (*intentiones per se*) there are more than ten. In the late Middle Ages, philosophers like John Eck attributed the view that there is an additional category called *praedicamentum signi* to Marsilius of Inghen and his followers, among whom was the Nominalist John Parreut.[^note-10]
+    step1: |-
+      按马西利乌斯的说法，十个亚里士多德范畴指涉实在中那些本身不是其他事物之符号的事物。这些范畴是他所谓的第一意向的名称或概念。然而，既然还有一些名称被用来指涉符号或事物的名称而非事物本身——例如“属”与“种”这两个词项，它们被称为第二意向的名称——那么，在十个第一意向的亚里士多德范畴之外，还需要一个第二意向的范畴。马西利乌斯说，这个范畴可以称为“符号范畴”（*praedicamentum signi*）或“词项范畴”（*praedicamentum termini*）。[^note-9] 这样一个范畴的存在并不推翻十个范畴的传统数目，因为传统范畴尽管本身也是名称或概念，指涉的却不是名称或概念，而是实在中的事物。通过主张这样一个范畴，马西利乌斯超越了不承认它的约翰·布里丹，并进一步阐发了邓斯·司各脱已经提到的一个立场。据此，对考虑“作为存在的存在”（*ens inquantum ens*）的形而上学家而言，只有十个范畴；而对处理“作为概念的概念”（*intentiones per se*）的逻辑学家而言，范畴多于十个。在中世纪晚期，约翰·艾克等哲学家把存在一个名为 *praedicamentum signi* 的额外范畴的观点归于因根的马西利乌斯及其追随者，其中有唯名论者约翰·帕勒特。[^note-10]
+    step2: |-
+      按马西利乌斯的说法，十个亚里士多德范畴所指涉的，是实在中那些本身并非其他事物之符号的事物——这些范畴是他所谓的第一意向的名称或概念。然而，既然还有些名称被用来指涉符号、或指涉事物的名称而非事物本身——例如“属”与“种”这两个词项，即所谓第二意向的名称——那么，在十个第一意向的亚里士多德范畴之外，还需增设一个第二意向的范畴。马西利乌斯说，这一范畴可名为“符号范畴”（*praedicamentum signi*）或“词项范畴”（*praedicamentum termini*）。[^note-9] 这般范畴的存在并不推翻十范畴的传统数目：传统范畴虽然本身也是名称或概念，指涉的却不是名称或概念，而是实在中的事物。主张这样一个范畴，马西利乌斯便越过了不承认它的约翰·布里丹，并进一步阐发了邓斯·司各脱已提及的一个立场。据此：对考虑“作为存在的存在”（*ens inquantum ens*）的形而上学家而言，范畴只有十个；对处理“作为概念的概念”（*intentiones per se*）的逻辑学家而言，范畴多于十个。中世纪晚期，约翰·艾克等哲学家把“存在名为 *praedicamentum signi* 的额外范畴”之说归于因根的马西利乌斯及其追随者——唯名论者约翰·帕勒特亦在其中。[^note-10]
+  - id: 26
+    kind: body
+    source: |-
+      #### 2.1.5 Some Specific Views
+    step1: |-
+      #### 2.1.5 若干具体观点
+    step2: |-
+      #### 2.1.5 若干具体观点
+  - id: 27
+    kind: body
+    source: |-
+      Marsilius was his own person when it came to assessing the views of others. In his analysis of the proposition ‘Socrates is not a chimera’ he followed what he called ‘the Parisian method’, according to which the proposition is false because the term ‘chimera’ supposits for nothing, there being no real chimeras to which it can refer. Others, however, considered the proposition to be true [TPT, 84]. Yet, even though ‘chimera’ has no supposition, for Marsilius it has a signification of its own, in contrast to his Parisian colleague Buridan, who claimed that ‘chimera’ only has a complex signification, dependent on its constituent parts, such as the body of a goat and the head of a lion (see Ciola 2020)[^ciola-2020].
+    step1: |-
+      在评价他人的观点时，马西利乌斯自成一格。在分析命题“苏格拉底不是客迈拉”时，他遵循所谓“巴黎方法”：该命题为假，因为“客迈拉”一词无所指代——不存在它所能指涉的实在的客迈拉。然而，其他人认为该命题为真［TPT, 84］。不过，即便“客迈拉”没有指代，在马西利乌斯看来它仍有自己的意谓——这与他的巴黎同事布里丹形成对照，后者主张“客迈拉”只有复杂意谓，依赖其构成部分，如山羊的身体与狮子的头（见 Ciola 2020）[^ciola-2020]。
+    step2: |-
+      评价他人观点时，马西利乌斯自成一格。分析命题“苏格拉底不是客迈拉”时，他遵循所谓的“巴黎方法”：命题为假，因为“客迈拉”一词无所指代——世间并不存在它可指涉的实在的客迈拉。另一些人则认为命题为真［TPT, 84］。不过，即便“客迈拉”没有指代，马西利乌斯仍认为它自有意谓——这与巴黎同事布里丹恰成对照：布里丹主张“客迈拉”只有复杂意谓，寄于其构成部分，如山羊之身、狮子之头（见 Ciola 2020）[^ciola-2020]。
+  - id: 28
+    kind: body
+    source: |-
+      Elsewhere, he departed again from the opinions of the Parisian School (*scola Parisiensis*) and opted for the perspective of ordinary language or common way of speaking (*communis modus loquendi*). This was the case with his analysis of the proposition ‘The Antichrist is not, but he will be’. According to the Parisian School, the term ‘he’ refers to the thing referred to by the term ‘Antichrist’. Since there is no Antichrist, neither term has reference. But in ordinary language it is different, for there the term ‘he’ is meant to refer to the future Antichrist. Marsilius accepted the latter analysis as sound, despite the authority of the former [TPT, 89–90].
+    step1: |-
+      在别处，他再次偏离巴黎学派（*scola Parisiensis*）的意见，而选择日常语言或通常说话方式（*communis modus loquendi*）的视角。他分析命题“敌基督现在不在，但他将来会在”时就是这样。按巴黎学派的说法，词项“他”指涉词项“敌基督”所指涉的东西。既然没有敌基督，两个词项都没有指涉。但在日常语言中情况不同：在那里，“他”意指未来的敌基督。马西利乌斯认为后一种分析是健全的，尽管有前一种分析的权威［TPT, 89–90］。
+    step2: |-
+      在别处，他再次偏离巴黎学派（*scola Parisiensis*）的意见，选择日常语言——通常说话方式（*communis modus loquendi*）——的视角。分析命题“敌基督现在不在，但他将来会在”时便是如此。按巴黎学派：词项“他”指涉词项“敌基督”之所指；既然没有敌基督，两个词项皆无所指。日常语言却不然——“他”意指未来的敌基督。马西利乌斯判定后者为健全的分析，尽管前者有权威撑腰［TPT, 89–90］。
+  - id: 29
+    kind: body
+    source: |-
+      In the definition of ampliation, Marsilius went back to logicians of the thirteenth century such as Peter of Spain, who had defined ampliation as an extension of supposition, whereas fourteenth-century logicians such as Albert of Saxony did not consider ampliation to be a kind of supposition. Marsilius reinterpreted their definition so that it fit better with the older tradition. Such efforts to harmonize older and newer positions were typical of the late fourteenth century [TPT, 108].
+    step1: |-
+      在扩展的定义上，马西利乌斯回溯十三世纪的逻辑学家，如西班牙的彼得——后者把扩展定义为指代的延展；而萨克森的阿尔伯特等十四世纪逻辑学家不认为扩展是指代的一种。马西利乌斯重新解释了他们的定义，使之更贴合旧传统。这类调和新旧立场的努力是十四世纪晚期的典型特征［TPT, 108］。
+    step2: |-
+      在扩展的定义上，马西利乌斯回溯十三世纪的逻辑学家——如西班牙的彼得，他把扩展定义为指代的延展；萨克森的阿尔伯特等十四世纪逻辑学家则不把扩展算作指代的一种。马西利乌斯重释了后者的定义，使之更贴合旧传统。这类调和新旧立场的努力，正是十四世纪晚期的典型做派［TPT, 108］。
+  - id: 30
+    kind: body
+    source: |-
+      Regarding the theory of consequences, Marsilius was in line with John Buridan and Albert of Saxony. However, unlike them, he considers the consequence as an *oratio*, not as a hypothetical proposition, properly speaking. As such, consequences also include statements that have no truth value. Crucial for a consequence is the so-called *nota illationis*, which signifies the necessary connection between the antecedent and the consequent. This connection is understood as a relationship of semantic entailment. Similar to Albert of Saxony but unlike Buridan, for Marsilius there are no invalid consequences. A consequence is either valid or it is no consequence (see Ciola 2018a)[^ciola-2018a].
+    step1: |-
+      关于推论学说，马西利乌斯与约翰·布里丹及萨克森的阿尔伯特一致。然而与他们不同，他把推论看作一个 *oratio*（语句），而不是严格意义上的假言命题。如此一来，推论也包括没有真值的陈述。对推论至关重要的是所谓的*推断标记*（*nota illationis*），它标示前件与后件之间的必然联系。这种联系被理解为语义蕴涵关系。与萨克森的阿尔伯特相似而与布里丹不同，对马西利乌斯而言不存在无效的推论：一个推论要么有效，要么根本不是推论（见 Ciola 2018a）[^ciola-2018a]。
+    step2: |-
+      关于推论学说，马西利乌斯与约翰·布里丹、萨克森的阿尔伯特同调。但与他们不同，他把推论看作一个 *oratio*（语句），而非严格意义上的假言命题。如此一来，推论也涵盖没有真值的陈述。对推论至关紧要的，是所谓*推断标记*（*nota illationis*）——它标示前件与后件之间的必然联系；这种联系被理解为语义蕴涵关系。与萨克森的阿尔伯特相似而与布里丹不同：在马西利乌斯看来，不存在无效的推论——一个推论要么有效，要么压根不是推论（见 Ciola 2018a）[^ciola-2018a]。
+  - id: 31
+    kind: body
+    source: |-
+      In the context is his theory of consequence, Marsilius treats the well-known issue of coming to be (*incipit*) and passing away (*desinit*). Here he likewise follows John Buridan, although once again in an independent way. His logical point of view, intentionally ignoring specific features of physical reality, is striking. For example, he considers the physical distinction between permanent and successive things irrelevant to the validity of consequences that imply notions of coming to be and passing away. Also, in dealing with such consequences, he accepts indivisible instances of time for methodological reasons, though physically speaking time is infinitely divisible for him. Here, he joins Albert of Saxony.[^note-11]
+    step1: |-
+
+    step2: |-
+
+  - id: 32
+    kind: body
+    source: |-
+      Finally, Marsilius’s understanding of *per se* predication provides a similar picture. His point of departure again is Buridan. Yet, he includes some remarkable new elements. For example, he defines *per se* predication not as a necessary predication, as Buridan and most contemporary authors do, but as a predication which excludes any contingency. Thus *per se* predication covers both necessary propositions like ‘Man is a living being’ and impossible ones such as ‘Man is a donkey’. Also, he widens the realm of *per se* predications by allowing not only the traditional categorical affirmative *per se* predication, but also hypothetical and negative ones, like ‘If there are humans, all humans are living beings, and ‘Man is not a donkey’. Here, his probable sources of inspiration were William of Ockham and Albert of Saxony (Corbini 2015)[^corbini-2015].
+    step1: |-
+
+    step2: |-
+
+  - id: 33
+    kind: body
+    source: |-
+      ### 2.2 Natural Philosophy and Metaphysics
+    step1: |-
+
+    step2: |-
+
+  - id: 34
+    kind: body
+    source: |-
+      In natural philosophy and metaphysics Marsilius was an empiricist, meaning that he thought all scientific knowledge must be based on either sense data or self-evident propositions, i.e., propositions in which the meaning of the predicate is included in the subject. Everyone who knows the meaning of the terms of such propositions judges them to be evidently true [SE0, fol. 176va]. This has far-reaching consequences for the relationship between philosophy and theology. Since the philosopher uses only sense data and self-evident propositions, his inquiry may come to different conclusion than that of the theologian, who has additional knowledge from Scripture. The philosopher makes judgments about the world from a limited human perspective, whereas the theologian is helped by divine revelation [SE0, fol. 176va, fol. 203va]. Yet Marsilius took the task of the philosopher seriously because he thought the human mind has a natural tendency to search for truth, which is satisfied (although not ultimately satisfied) in natural philosophy and metaphysics.[^note-12]
+    step1: |-
+
+    step2: |-
+
+  - id: 35
+    kind: body
+    source: |-
+      #### 2.2.1 Creation
+    step1: |-
+
+    step2: |-
+
+  - id: 36
+    kind: body
+    source: |-
+      According to the principles of natural philosophy, creation from nothing is impossible. The senses show that things always come from other things. Because there is no serious reason to doubt the information given by the senses, the human mind legitimately jumps to the universal principle that nothing can come from nothing, driven by the natural tendency to search for truth. Consequently, for the human mind creation from nothing is impossible. It contradicts the universal principle that nothing comes from nothing. That God has created the world from nothing is therefore only a matter of faith (*sola fide est creditum*). Revelation shows that human knowledge of creation is limited, but it cannot be aided by natural philosophy at this point.[^note-13]
+    step1: |-
+
+    step2: |-
+
+  - id: 37
+    kind: body
+    source: |-
+      #### 2.2.2 Theory of the Human Soul
+    step1: |-
+
+    step2: |-
+
+  - id: 38
+    kind: body
+    source: |-
+      In the later Middle Ages the study of the soul was part of natural philosophy. Marsilius treated the human soul in his commentary on Aristotle’s *De anima*, in which he followed the Parisian tradition of Buridan and Oresme concerning the particular questions addressed. Following Buridan, he argued that there is no natural proof of the immortality of the human soul. For the human natural mind, unaided by revelation, the theory of Alexander of Aphrodisias that the human soul is corruptible is the most probable. That Alexander of Aphrodisias is mistaken and that the soul continues to exist after the death of the body is known through revelation alone. Faith has more authority than human reason and must be accepted in all cases where the two conflict since the things we believe on faith come from God, who cannot err.[^note-14]
+    step1: |-
+
+    step2: |-
+
+  - id: 39
+    kind: body
+    source: |-
+      ### 2.3 Metaphysics
+    step1: |-
+
+    step2: |-
+
+  - id: 40
+    kind: body
+    source: |-
+      Although metaphysics cannot surpass the limits of human knowledge, Marsilius considered it to be the entry point to theology. Natural reason is capable of forming some adequate and true concepts of God, and also of forming true propositions about God. It is able to prove that God exists and possesses knowledge and will. But it cannot demonstrate that God has free will or infinite power. This, Marsilius claimed, was also true for philosophers such as Aristotle, whose teachings equal those of natural reason itself [SE0, fol. 178va–179ra].
+    step1: |-
+
+    step2: |-
+
+  - id: 41
+    kind: body
+    source: |-
+      From Buridan, Marsilius took the idea that God according to Aristotle and Averroes is not only the final cause of the heavens and separate substances, but also their efficient cause. On this point Buridan and Marsilius were following the view of Scotus and Ockham against that of John of Jandun, Johannes Baconis, and Gregory of Rimini. It is worth noting in this connection that in the *Puncta super libros Metaphysicae* (i.e., brief abstracts of Aristotle’s *Metaphysics* for teaching purposes) attributed to Johannes de Slupcza and written in Krakow in 1433, some of the views that Marsilius adopted from Buridan, including the one just mentioned, are attributed to Marsilius instead of Buridan — notwithstanding the fact that the author was familiar with both Marsilius’s and Buridan’s commentaries. This illustrates the strong influence Marsilius’s work exerted on fifteenth-century students and commentators (see Tatarzynski 1979)[^tatarzynski-1979].
+    step1: |-
+
+    step2: |-
+
+  - id: 42
+    kind: body
+    source: |-
+      On other points, however, Marsilius was critical of Buridan. For example, concerning the question of whether God can restore things that have been corrupted, Marsilius argues that he cannot, even miraculously, because he cannot do what in itself implies a contradiction. Buridan, however, had claimed that even though naturally speaking corrupted things cannot be restored, God has the supernatural power to do so (see Wood 2023)[^wood-2023]. Also, Marsilius considered Buridan’s solution to the problem of the possible separation of accidents from their substance as not in accordance with the teachings of Aristotle, and therefore not truly metaphysical (*metaphysicaliter*), but rather in line with theological concerns. Only miraculously could God take over the supporting power of the substance, thus separating the accident from its natural bearer. According to Marsilius, however, such possible divine intervention should not be taken into account in metaphysics, where the philosopher must use natural reason alone (see Bakker 2000)[^bakker-2000].
+    step1: |-
+
+    step2: |-
+
+  - id: 43
+    kind: body
+    source: |-
+      Marsilius was the first rector of the University of Heidelberg. According to the oldest Statutes of the Arts Faculty of this university, every master must inform the students that whenever Aristotle contradicts faith, e.g. in his claim that the world is eternal, he is following natural reason and although his arguments in these cases are wrong and faith must be accepted, natural reason cannot help but follow Aristotle and therefore cannot prove the conclusions of faith (see Winkelmann 1886, 41)[^winkelmann-1886]. This paragraph clearly echos Marsilius’s view on the issue. Other contemporary universities, like that of Vienna, were less rigorous and prescribed a more harmonious procedure, stipulating that whenever there was a conflict with faith, the masters had to argue in favor of faith against Aristotle to the best of their possibilities (see Kink 1854, 202 (titulus 17)).
+    step1: |-
+
+    step2: |-
+
+  - id: 44
+    kind: body
+    source: |-
+      ### 2.4 Theology
+    step1: |-
+
+    step2: |-
+
+  - id: 45
+    kind: body
+    source: |-
+      Marsilius expressed his theological views in a voluminous commentary on the *Sentences*. He quoted and often adopted views that were put forward by fourteenth-century theologians such as Adam Wodeham and Gregory of Rimini, but was also influenced by earlier thinkers such as Thomas Aquinas and Bonaventure. He has serious reservations about the use of logic in theology.
+    step1: |-
+
+    step2: |-
+
+  - id: 46
+    kind: body
+    source: |-
+      #### 2.4.1 Attributes and Ideas
+    step1: |-
+
+    step2: |-
+
+  - id: 47
+    kind: body
+    source: |-
+      In his discussion of the divine attributes he followed mainly the teachings of Adam Wodeham. God is perfectly one. Divine wisdom and all other perfections attributed to God are in reality as identical to the divine essence as the divine essence is identical to itself. In the divine essence itself there is no distinction or non-identity whatsoever between the attributes of God. Any distinctions between divine attributes are necessarily of a rational (rather than real) nature and are made by us.[^note-15]
+    step1: |-
+
+    step2: |-
+
+  - id: 48
+    kind: body
+    source: |-
+      A similarly radical stance on the unity of God was assumed in his treatment of divine ideas. Ideas are not formally distinct in God, as some Scotists would argue, but only extrinsically and objectively distinct. Their distinction is a consequence of the differences between the creatures produced by God (which is why Marsilius spoke of extrinsic distinction), and of the fact that they are known by God as different (which accounts for their objective distinction). God knows that he is the cause of infinitely many differences between creatures. That is why his mind contains infinitely many different ideas [SE1, 7–15].
+    step1: |-
+
+    step2: |-
+
+  - id: 49
+    kind: body
+    source: |-
+      Marsilius criticized Ockham’s view that God’s idea coincides with creation. If this were true, Marsilius argued, the idea of producing a stone must be identical with either the stone itself, or the stone insofar as it is known by God. If the former, then God must look outside of himself in his idea, which contradicts the position of Augustine, who is quoted by Ockham. If the latter, then the idea of its production is not the stone itself, but rather God’s foreknowledge of the stone [SE1, 15–17].
+    step1: |-
+
+    step2: |-
+
+  - id: 50
+    kind: body
+    source: |-
+      #### 2.4.2 Theology and Logic
+    step1: |-
+
+    step2: |-
+
+  - id: 51
+    kind: body
+    source: |-
+      Marsilius advanced his criticism of the use of logic in theology in his discussion of the position of Robert Holcot. Holcot had argued that logically, God can be called the cause of evil. If God is the cause of every thing (*entitas*) and moral evil (*malum culpae*) is a thing, then God is the cause of evil. Marsilius acknowledged that the argument is based on true premises, yet the conclusion should not be defended as true because it contradicts faith and therefore might cause confusion among believers. Theologians should not flaunt their personal skills in logic, but always write out of reverence for the divine. Their writings should not erode the beliefs of ordinary people, who are not skilled in logic, but rather aim to strengthen them spiritually.[^note-16]
+    step1: |-
+
+    step2: |-
+
+  - id: 52
+    kind: body
+    source: |-
+      Marsilius was anxious, however, to avoid the implication that God’s foreknowledge is somehow dependent upon human beings. In his discussion of Adam Wodeham on the causality of the human will, he complained that Adam had not been emphatic enough on this point, since he allowed the following argument: if an event *E* will happen in the future, then God knows *E* from eternity; but if not-*E* will happen, then God knows not-*E* form eternity; since man is free, he can choose between *E* and not-*E*; therefore, he can change God’s foreknowledge. This argument is logically sound, Marsilius argued, but it easily leads to the false conclusion that God’s knowledge depends on the free will of man, which is absurd. The eternal cannot fall under the power of that which is created by it. Therefore, this argument should not be used. It is better to remain on the safe side by maintaining what has always been maintained, namely that God through his absolute omniscience knows the future activities of human beings, but without being dependent on them [SE0, fol. 167va–vb].
+    step1: |-
+
+    step2: |-
+
+  - id: 53
+    kind: body
+    source: |-
+      Also in his discussion of trinitarian and Christological issues he warns theologians not to naively follow the rules of logic without bearing possible misunderstandings in mind. Although the sentence ‘Christ is only God’ is logically true because Christ is God and no other person born on earth but Christ is God, it is dangerous to accept this sentence without further qualifications, Marsilius argues, because it seems to confirm the view of those heretics who claim that Christ was without a human nature, as the word ‘only’ can be understood to exclude humanity when added to the word ‘God’ [SE3, 94].
+    step1: |-
+
+    step2: |-
+
+  - id: 54
+    kind: body
+    source: |-
+      When treating Christiological and Mariological subjects, he argued that it is beneficial to discuss counterfactuals, as this can train the students to defend Christian views against the infidels. On the other hand, he was reluctant to enter into medical issues concerning conception and female sperm, as this would force him to use impudent vocabulary, unworthy of the Holy Virgin that gave birth to Christ [SE4, 139 and 232].
+    step1: |-
+
+    step2: |-
+
+  - id: 55
+    kind: body
+    source: |-
+      #### 2.4.3 The Sacraments
+    step1: |-
+
+    step2: |-
+
+  - id: 56
+    kind: body
+    source: |-
+      In his treatment of the sacraments at the end of his commentary on the *Sentences*, Marsilius drew heavily on the writings of Thomas Aquinas and Bonaventure. He defended Thomas’s view that the word ‘this’ pronounced by Christ at the Last Supper in uttering ‘This is my body’ (Mk. 14:22) refers to what the bread and body have in common. Thomas of Strasbourg had attacked this view, but Marsilius showed that the earlier Thomas was right and the later wrong [SE0, fol. 515va].
+    step1: |-
+
+    step2: |-
+
+  - id: 57
+    kind: body
+    source: |-
+      In his discussion of the causality of the sacraments, Marsilius followed the exposition of Bonaventure, according to whom the sacraments have no causality of their own. It is God who acts whenever the sacraments are administered correctly. Only in a broad sense is it true to say that the sacraments have the power to act.[^note-17]
+    step1: |-
+
+    step2: |-
+
+  - id: 58
+    kind: body
+    source: |-
+      ## 3. Influence
+    step1: |-
+
+    step2: |-
+
+  - id: 59
+    kind: body
+    source: |-
+      The influence of Marsilius has been considerable, particularly through his logical works and commentaries on Aristotle. This may be gathered not only from the large number of manuscripts that have been preserved, but also from several other considerations.[^note-18] Marsilius’s commentary on Aristotle’s *Prior analytics* was used in Prague in the 1380s. His logical works, including the *Obligationes* and the *Consequentiae*, were used as textbooks in Vienna in the 1390s. His commentaries on Aristotle’s *Metaphysics* and *Physics* were read in Krakow during the first sixty years of the fifteenth century. At the universities of Heidelberg, Erfurt, Basle, and Freiburg, his works were studied throughout the fifteenth century, in particular as part of the university curriculum. In 1499, Jacob Wimpfeling and Jacob Merstetter, on behalf of the doctors and masters of the *Via Moderna* at the University of Heidelberg published a volume that included epigrams on Marsilius by humanist colleagues and students, as well as a defense of Nominalism in the style of Marsilius (*Via Marsiliana*). Praise in the form of epigrams can also be found in the 1501 Strasbourg edition of Marsilius’s commentary on the *Sentences*. The commentary was edited by Jacob Wimpfeling in the frame of his educational and theological attempt to establish a spirituality in the footsteps of Jean Gerson. For Wimpfeling, Marsilius was the German counterpart of the French Chancellor. The *Obligationes*, printed in 1489 under the name of Peter of Ailly, were used by Thomas Bricot, John Major, and Domingo de Soto. The commentary on the *Prior Analytics* was quoted by Agostino Nifo. Jodocus Trutvetter and Bartholomew of Usingen, who consolidated nominalism in Erfurt, repeatedly mentioned Marsilius in their works. Both Leonardo da Vinci and Galileo Galilei referred to Marsilius’s commentary on *De Generatione et Corruptione*.
+    step1: |-
+
+    step2: |-
+
+  - id: 60
+    kind: body
+    source: |-
+      The theological views of Marsilius appear to have had some circulation as well. His commentary on the *Sentences* was known in Krakow in the first half of the fifteenth century, and was used by Thomas de Strampino in his *Principia* (1441–1442). The University of Salamanca had a theological chair (Cátedra de Nominales) for commentary on the works of Marsilius of Inghen and Gabriel Biel. His commentary on the *Sentences* was quoted by Spanish theologians such as Francisco de Vitoria, Domingo de Soto, Luis de Molina, and Francisco Suárez, usually in connection with questions about divine foreknowledge and grace.
+    step1: |-
+
+    step2: |-
+
+  - id: 61
+    kind: body
+    source: |-
+      There are nine extant manuscripts of Marsilius’s commentary on the *Sentences*. Among the former owners of these manuscripts were two libraries for preachers (Ansbach and Isny), and two libraries of faculties of arts (Erfurt and Leipzig). The education in Erfurt and Leipzig included the reading of nominalist authors. In all probability, the artists became interested in Marsilius’s theological work after studying his writings on logic and physics. The presence of Marsilius’s commentary on the *Sentences* in preachers’ libraries bears witness to the fact that the impact of his work was felt beyond university circles [SE1, xxvii–lv].
+    step1: |-
+
+    step2: |-
+
+  - id: 62
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+
+    step2: |-
+
+  - id: 63
+    kind: note
+    source: |-
+      [^note-1]: The biographical information provided here is based on Ritter 1921, 7–44, and Hoenen 1993, 7–11. See also Hawicks and Berger, 2021. In these studies the reader will find references to the relevant sources.
+    step1: |-
+
+    step2: |-
+
+  - id: 64
+    kind: note
+    source: |-
+      [^note-2]: For a modern edition, see [OFU], 107–113.
+    step1: |-
+
+    step2: |-
+
+  - id: 65
+    kind: note
+    source: |-
+      [^note-3]: See the literature listed in the Bibliography below under the header Catalogue of Works and Bibliography.
+    step1: |-
+
+    step2: |-
+
+  - id: 66
+    kind: note
+    source: |-
+      [^note-4]: Marsilius of Inghen [SE2], 124: “… universalia nihil sint praeter signa ad placitum aut naturaliter significativa”, and Marsilius of Inghen, *Abbreviationes super octo libros Physicorum Aristotelis*, Venice 1521, fol. 3ra–b.
+    step1: |-
+
+    step2: |-
+
+  - id: 67
+    kind: note
+    source: |-
+      [^note-5]: Marsilius of Inghen [TPT], 62: “Et ideo istam simplicem suppositionem non pono”.
+    step1: |-
+
+    step2: |-
+
+  - id: 68
+    kind: note
+    source: |-
+      [^note-6]: Marsilius of Inghen [PRA], 373: “… praedicamenta non possunt distingui ex parte rerum.” and ibid., “… oportet huiusmodi praedicamenta distingui … per modos suos significandi …”
+    step1: |-
+
+    step2: |-
+
+  - id: 69
+    kind: note
+    source: |-
+      [^note-7]: Marsilius of Inghen [PRA], 376: “Sed quod etiam non ponuntur plura, non potest hoc aliter probari, nisi quia non inveniuntur plures modi praedicandi quam isti decem distincti contra invicem.”
+    step1: |-
+
+    step2: |-
+
+  - id: 70
+    kind: note
+    source: |-
+      [^note-8]: Marsilius of Inghen [PRA], 376: “Unde si invenirentur plures modi praedicandi quam isti decem … statim crederem, quod essent plura praedicamenta. Sed quia non invenitur aliquis modus praedicandi, quin sit unus illorum … ideo non ponuntur plura praedicamenta quam decem.”
+    step1: |-
+
+    step2: |-
+
+  - id: 71
+    kind: note
+    source: |-
+      [^note-9]: Marsilius of Inghen [PRA], 377: “… ultra genera generalissima primae intentionis est unum aliud genus generalissimum secundae intentionis seu impositionis sub quo continentur istae: ‘species’, ‘individuum’, ‘praedicabile’, ‘genus’, ‘species’ … et ita tandem erat repertum unum praedicamentum secundae intentionis seu impositionis. Et hoc potest nominari signum vel terminus …”. See also Marsilius of Inghen [ISA], 38–39.
+    step1: |-
+
+    step2: |-
+
+  - id: 72
+    kind: note
+    source: |-
+      [^note-10]: For more details and references to the sources see Hoenen 2007, esp. 74–84.
+    step1: |-
+
+    step2: |-
+
+  - id: 73
+    kind: note
+    source: |-
+      [^note-11]: See Ciola 2018b. It is to be noted, however, that the edition is published without a critical apparatus.
+    step1: |-
+
+    step2: |-
+
+  - id: 74
+    kind: note
+    source: |-
+      [^note-12]: Marsilius of Inghen [PRI], fol. 36va: “… est naturalis inclinatio intellectus ad veritatem. Intellectus enim per veritatem perficitur.”
+    step1: |-
+
+    step2: |-
+
+  - id: 75
+    kind: note
+    source: |-
+      [^note-13]: Marsilius of Inghen [SE0], fol. 206ra: “… creationem esse possibilem vel esse factam vel Deum esse creatorem sola fide est creditum ab homine viatore. Patet, quia non est deducibile ex lumine naturali.”
+    step1: |-
+
+    step2: |-
+
+  - id: 76
+    kind: note
+    source: |-
+      [^note-14]: See the relevant passage of Marsilius’s commentary on the *De anima*, edited in Pluta 1986, 98–100.
+    step1: |-
+
+    step2: |-
+
+  - id: 77
+    kind: note
+    source: |-
+      [^note-15]: Marsilius of Inghen [SE2], 107–117. On Marsilius’s sources, see Hoenen 1993, 56–61.
+    step1: |-
+
+    step2: |-
+
+  - id: 78
+    kind: note
+    source: |-
+      [^note-16]: Marsilius of Inghen [SE0], fol. 191va–vb: “… si conclusio posset dare occasionem ruinae simplicibus, non concedatur nisi cum debito moderamine, ut veritas elucescat et ruina praecaveatur. Non est enim scientia sacra scientia praesumptionis vel logicalis superstitionis, sed pietatis, quae non destruere debet simplices, sed aedificare.”
+    step1: |-
+
+    step2: |-
+
+  - id: 79
+    kind: note
+    source: |-
+      [^note-17]: Marsilius of Inghen [SE0], fol. 480ra–va. On Bonaventure as Marsilius’s source, see Hoenen 1991.
+    step1: |-
+
+    step2: |-
+
+  - id: 80
+    kind: note
+    source: |-
+      [^note-18]: The section on Marsilius’s influence is based on the data collected in Hoenen 1993, 10–15, Walz and Düchting 2008, and Hoenen 2024.
+    step1: |-
+
+    step2: |-
+

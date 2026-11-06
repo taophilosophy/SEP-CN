@@ -10,7 +10,10 @@
 
 | abstract entities | 抽象实体 | 语料回收（标题词） | 学界惯例（哲学通行（与 abstract objects 抽象对象配对））；凭证 2026-11-01 | 2026-11-01 |
 | Actualism | 现实主义（模态形而上学；亦作“现实论”；伦理学语境词条定名作“现实主义”） | 语料回收（标题词） | 学界惯例（模态形而上学通行；审定“现实论”为地质学域同名不采）；凭证 2026-11-01 | 2026-11-01 |
+| ampliation (ampliatio) | 扩展（指代的扩展） | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| antecedent/consequent | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | auxiliary hypothesis | 辅助假设 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| appellation | 称谓 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Axiom of Choice | 选择公理 | 语料回收（lakatos 首译） | 数学界通行译法（罗素称乘法公理）；凭证 2026-11-06 | 2026-11-06 |
 | Axiom of Infinity | 无穷公理 | 语料回收（lakatos 首译） | 逻辑学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Axiom of Reducibility | 可还原性公理 | 语料回收（lakatos 首译） | 逻辑学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -19,12 +22,14 @@
 | care ethics | 关怀伦理 | 语料回收（标题词） | 审定“关怀伦理学”直接命中（新闻传播学域）；凭证 2026-11-01 | 2026-11-01 |
 | Celestial Masters | 天师道 | 语料回收（标题词） | 审定“天师”佐证（道教）；凭证 2026-11-01 | 2026-11-01 |
 | Cheka | 契卡 | 人名表移植 | 学界通行译法（苏俄肃反委员会，克格勃前身）；凭证 2026-11-06 | 2026-11-06 |
+| chimera | 客迈拉 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑例证通行译法（希腊神话怪兽）；凭证 2026-11-06 | 2026-11-06 |
 | chunk and permeate | 分块渗透 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（Brown–Priest 技术）；凭证 2026-11-06 | 2026-11-06 |
 | collapse model | 塌缩模型 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（模型论 collapse 通行译法）；凭证 2026-11-06 | 2026-11-06 |
 | common sensible | 共同可感性质 | 语料回收（molyneux-problem 首译） | 学界惯例（洛克《人类理解论》研究通行译法）；凭证 2026-11-06 | 2026-11-06 |
 | comprehension axiom | 概括公理 | 语料回收（mathematics-inconsistent 首译） | 数理逻辑界通行译法（亦作“内涵公理”）；凭证 2026-11-06 | 2026-11-06 |
 | concrete objects | 具体对象 | 语料回收（标题词） | 学界惯例（哲学通行（与抽象对象相对））；凭证 2026-11-01 | 2026-11-01 |
 | conditional analysis | 条件分析（亦作“条件句分析”） | 语料回收（标题词） | 学界惯例（能力哲学通行（abilities 词条核心））；凭证 2026-11-01 | 2026-11-01 |
+| consequentia | 推论 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（推论学说）；凭证 2026-11-06 | 2026-11-06 |
 | constitutive aim | 构成性目的 | 语料回收（标题词） | 学界惯例（行动哲学（belief 的 aim 之辩））；凭证 2026-11-01 | 2026-11-01 |
 | context of discovery/context of justification | 发现语境／辩护语境 | 语料回收（lakatos 首译） | 科学哲学界通行译法（赖兴巴赫）；凭证 2026-11-06 | 2026-11-06 |
 | Continuum Hypothesis | 连续统假设 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -44,6 +49,7 @@
 | ECQ (ex contradictione quodlibet) | 爆炸原理（从矛盾可任意推出） | 语料回收（mathematics-inconsistent 首译） | 哲学逻辑界通行译法（亦作 ex falso quodlibet）；凭证 2026-11-06 | 2026-11-06 |
 | efficacy | 实效 | lawphil-theory | 学界惯例（凯尔森 efficacy/Wirksamkeit，与 legal validity 法律效力相对）；凭证 2026-11-03 | 2026-11-03 |
 | enactive approach | 生成进路 | 语料回收（标题词） | 学界惯例（生成认知（enactivism）通行）；凭证 2026-11-01 | 2026-11-01 |
+| ens inquantum ens | 作为存在的存在 | 语料回收（marsilius-inghen 首译） | 形而上学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | extramural speech | 校外言论 | 语料回收（标题词） | 学界惯例（学术自由词条核心（×15））；凭证 2026-11-01 | 2026-11-01 |
 | fallibilism | 可错论 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | full moral status | 完全道德地位 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
@@ -51,12 +57,14 @@
 | falsificationism | 证伪主义 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | general ability | 一般能力 | 语料回收（标题词） | 学界惯例（能力哲学（与特殊能力相对））；凭证 2026-11-01 | 2026-11-01 |
 | gulag | 古拉格 | 语料回收（lakatos 首译） | 学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| Great Schism | 教会大分裂 | 语料回收（marsilius-inghen 首译） | 史学界通行译法（1378 西方教会大分裂）；凭证 2026-11-06 | 2026-11-06 |
 | hard core | 硬核 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Hungarian Uprising | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
 | Hypothetical Reasoning | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
 | inductivism | 归纳主义 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Ingsoc | 英社 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06 | 2026-11-06 |
 | hypothetico-deductive | 假设演绎 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| insolubles | 不可解命题 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（insolubilia）；凭证 2026-11-06 | 2026-11-06 |
 | intentional action | 意向行动 | 语料回收（标题词） | 学界惯例（行动哲学核心（action 词条×53））；凭证 2026-11-01 | 2026-11-01 |
 | ideology | 意识形态 | law-ideology | 学界通行译法（马克思主义/政治哲学通行）；凭证 2026-11-03 | 2026-11-03 |
 | internal/external history | 内部史／外部史 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -65,6 +73,7 @@
 | mathematical pluralism | 数学多元主义 | 语料回收（mathematics-inconsistent 首译） | 数学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Methodology of Scientific Research Programmes (MSRP) | 科学研究纲领方法论 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Molyneux's problem | 莫利纽克斯问题 | SUMMARY 定名（m/molyneux-problem.md） | 学界惯例（SUMMARY 定名沿用；知觉哲学史通行）；凭证 2026-11-06 | 2026-11-06 |
+| modus significandi | 意谓方式 | 语料回收（marsilius-inghen 首译） | 中世纪语法/逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | modus tollens | 否定后件式 | 语料回收（lakatos 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | naive set theory | 朴素集合论 | 语料回收（mathematics-inconsistent 首译） | 数理逻辑界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | negative heuristic | 反面启发法 | 语料回收（lakatos 首译） | 科学研究纲领方法论中译本通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -72,6 +81,7 @@
 | newly sighted | 新近复明者 | 语料回收（molyneux-problem 首译） | 本词条首译裁定（复明=视力恢复，与 congenitally blind 先天性盲对举）；凭证 2026-11-06 | 2026-11-06 |
 | Newspeak | 新话 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06 | 2026-11-06 |
 | optogenetics | 光遗传学 | 语料回收（molyneux-problem 首译） | 生命科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| nota illationis | 推断标记 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | open set logic/closed set logic | 开集逻辑／闭集逻辑 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（拓扑语义）；凭证 2026-11-06 | 2026-11-06 |
 | non-standard analysis | 非标准分析 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法（鲁滨逊）；凭证 2026-11-06 | 2026-11-06 |
 | partinost | 党性 | 语料回收（lakatos 首译） | 苏联文艺学界通行译法（俄文 партийность）；凭证 2026-11-06 | 2026-11-06 |
@@ -79,11 +89,14 @@
 | phosphene | 光幻视 | 语料回收（molyneux-problem 首译） | 视觉科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Petőfi Circle | 裴多菲俱乐部 | 语料回收（lakatos 首译） | 1956 年匈牙利事件史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | potential falsifier | 潜在证伪者 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| praedicamentum signi | 符号范畴 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（亦作 praedicamentum termini 词项范畴）；凭证 2026-11-06 | 2026-11-06 |
 | primary quality | 第一性质 | 语料回收（molyneux-problem 首译） | 学界惯例（洛克研究通行译法，与第二性质对举）；凭证 2026-11-06 | 2026-11-06 |
 | positive heuristic | 正面启发法 | 语料回收（lakatos 首译） | 科学研究纲领方法论中译本通行译法；凭证 2026-11-06 | 2026-11-06 |
 | quasi-empiricism | 准经验主义 | 语料回收（lakatos 首译） | 数学基础研究通行译法；凭证 2026-11-06 | 2026-11-06 |
+| primary/secondary intention | 第一意向／第二意向 | 语料回收（marsilius-inghen 首译） | 中世纪哲学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | projective geometry | 射影几何 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | rule of law | 法治 | law-ideology | 学界通行译法（法理学通行；规则之治备查）；凭证 2026-11-03 | 2026-11-03 |
+| restriction | 限缩 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Routley star | Routley 星号 | 语料回收（mathematics-inconsistent 首译） | 相干逻辑通行术语（人名保留英文）；凭证 2026-11-06 | 2026-11-06 |
 | relevant logic | 相干逻辑 | 语料回收（mathematics-inconsistent 首译） | 哲学逻辑界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | problem-shift | 问题转换 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -107,8 +120,10 @@
 | petites perceptions | 微知觉 | leibniz-mind | 学界惯例（莱布尼茨译本通行）；凭证 2026-11-03 | 2026-11-03 |
 | salami tactics | 萨拉米战术 | 语料回收（lakatos 首译） | 史学界通行译法（拉科西用语）；凭证 2026-11-06 | 2026-11-06 |
 | sensory substitution device (SSD) | 感官替代设备 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| simple supposition | 简单指代 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | stereoscope | 立体镜 | 语料回收（molyneux-problem 首译） | 学界通行译法（惠斯通 1838 发明）；凭证 2026-11-06 | 2026-11-06 |
 | show trial | 作秀审判 | 语料回收（lakatos 首译） | 史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| supposition (suppositio) | 指代 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Two Visual Systems Model | 双视觉系统模型 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法（Goodale–Milner）；凭证 2026-11-06 | 2026-11-06 |
 | topos | 拓扑斯 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法（范畴论）；凭证 2026-11-06 | 2026-11-06 |
 | theoretically/empirically progressive | 理论上／经验上进步 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
