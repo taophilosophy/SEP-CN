@@ -2,7 +2,7 @@
   "slug": "alexander-crummell",
   "kind": "retranslate",
   "zh_doc": "a/alexander-crummell.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AB-main-20261106",
       "at": "2026-11-06T18:40:25Z",
       "evidence": "三校（体例）：check_style --strict 0；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 定点核销 0 缺译、硬错误 0（非英语缺原文 336 条为全库存量告警；一次瞬时冲突 supervenience 系并行会话编辑登记册所致，复跑归零）；书名《》/引语弯引号/斜体转加粗/人名首现括注全数落地"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T19:06:57Z",
+      "evidence": "初审（准确性）：全文回读对照 yuanwen 逐节语义核验（§2 五案名与斯托里判词引文块、§4 三论证引语页码、§5.1 康德命题八与 2001 年袭击例、§5.2 两引文块），实修 21 处（script/fix_crummell_r1.py 逐条断言）：权利享有群体→享有权利的群体、市民/公民社会统一、God-exploited 定为上帝所利用、克鲁梅尔-柏拉图更现代句序还原、promote 类语序与连接词修正；五维对账复核通过（节 9/9、标记 1:1、defs 23/23、段落 80:79 byline 豁免、年份 2 处 1840s 词边界假差豁免）；复查 style 0、academic 0 硬错误、prose 85 全为既录豁免类"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T19:12:55Z",
+      "evidence": "复审（语言与登记）：英文残留扫描零非法（仅 H1 英文题名=SUMMARY 定名、[*AC*] 等源文自有引注缩写）；人名首现括注各 ×1 后纯中文（克鲁梅尔/道格拉斯/库珀/华盛顿/杜波依斯/洛克/赫斯顿/惠威尔/阿诺德/加维/辛凯/格雷博语等）；人名登记 22 行随主提交（88f5e168），Alain Locke 旧行归一 SUMMARY 定名防同键异译；术语与登记册一致（先验/范畴/义务论/实在论/启蒙/实用主义/相对主义/非社会的社会性/人才十分之一为既定或首译，check_terms 定点 0 缺译）；引用组保留源形（Kirkland 1992–1993、[*FA*][*AA*][*DR*][*AC*] 缩写键与 defs 定义对应）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T19:46:48Z",
+      "evidence": "终审（门禁）：check_all 七项全绿（SUMMARY 结构/目录对应/文长/垃圾/术语/学术规范/单测；其中一次术语瞬时冲突系并行会话编辑登记册所致，复跑归零，非本词条引入）；定点四检 style --strict 0、math 0、academic --strict 0 硬错误、render_artifacts 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T19:46:48Z",
+      "evidence": "六道走完，done：a/alexander-crummell.md（导语+正文 5 节含 5.1/5.2+引用注释型参考文献+尾节四节；defs 23 条照录）；批次 a 进度 done 46/160"
     }
   ],
   "blockers": [],
