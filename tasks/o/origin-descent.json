@@ -2,7 +2,7 @@
   "slug": "origin-descent",
   "kind": "retranslate",
   "zh_doc": "o/origin-descent.md",
-  "state": "s1_checked",
+  "state": "s2_checked",
   "steps": [
     {
       "step": "direction",
@@ -31,6 +31,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T20:40:09Z",
       "evidence": "s1 一校（MTPE 顺序，账本 step1 为忠实底逐段核销）：①数字/年代——逐段数字多元组比对，41 处差异全属形态（源文句末点号、中文「第 N 节/世纪」新增数词、书名号替换斜体），无年代/版次/页码漂移；②脚注键闭环——正文 127 引用键对文末 172 条定义，46 条孤立定义为现制 References（引用注释）形态（§6.5② 同构），注记字面 [^key] 为转换器契约文字；③结构——20 个标题与源页集合逐项对应（5 编号节 + 11 小节 + References/学术工具/其他网络资源/相关词条/致谢；源 ### Acknowledgments 按体例归一为 ## 致谢）；④术语——evolution→进化、Whewell→惠威尔、evolution-before-darwin→「达尔文之前的进化思想」按登记册与 SUMMARY 归一，check_terms 定点 0 缺译、硬错误 0；⑤人名——严复、马君武、孙中山、康有为（源文 Kan Yuwei 与康有为生卒 1858–1927 相合，按通行汉名出形并留痕）、海克尔、赫胥黎、莱尔、休厄尔→惠威尔等按通行汉名；无通行汉名者（Prestes/Ruse/Hodge/Radick/Sloan/Ospovat/Lennox/Sober/Hoquet/Hull/Waters/Depew/Kohn/Mallet/Stamos/Beatty/Farber/Durant/van Wyhe/Kohn 等）保留英文。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T22:27:49Z",
+      "evidence": "s2 二校（Fluency/Style）：check_prose 68→3。逐条改写类别：de-chain 37→3（段5/9/11/13/16/18/19/24/28/34/40/42/46/47/50/51/52/57/60/62/67/69/74/75/78/82/86/88/89/93/96/97/101/103/112/114 拆句、去「的」链、换名词短语）；long-sentence 23→0（段6/9/19/21/24/28/29/38/60/62/67/75/86/90/97/103/112/114/117 拆为两句或改分号）；weak-verb 7→0（作出/进行/加以 + 名词改本性动词）；passive-bei 1→0（引文内「将被保存/严格毁灭」改主动「留存/严加毁灭」）。step1 忠实底未动；守恒 HARD=0。残余 3 条（段21/28/97，行 45/59/195）经逐条核读为 check_prose 误报：三处均为「目的」「目的论」中的“的”字被 de-chain 正则误计（如「为任一目的选出」「关于目的论的见解」），非真正「的」链，按 ADR-0020 逐条豁免留痕，并建议 S5 沉淀为白名单（排除「目的/目的论」词内“的”）。"
     }
   ],
   "blockers": [],
