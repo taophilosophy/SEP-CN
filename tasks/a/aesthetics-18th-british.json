@@ -2,7 +2,7 @@
   "slug": "aesthetics-18th-british",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-18th-british.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T21:36:02Z",
       "evidence": "check_style 0 issue（跨行引文按房式处理留痕）；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；文献条目照录合规"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T00:45:24Z",
+      "evidence": "独立初审（接管会话，非初译 actor）：源译全文回读对照，97 块（含引文块 8 处逐字对照）核验无漏译/错译。忠实性实修 6 处——sharper than any 比较级补比字、therein really beautiful 语序、image of liberty 补视作动词、the idea 要点化、each to each 彼此相连、degree of beauty 去'丽'。预检已过项（b269e38a）：守恒五项（段落 97:96 差 1 为译注行豁免、年份序列、marker 顺序、defs 64:64、无缩写表）与六检。prose 105 豁免为主（美学史叙事密度）。人名补登 10（沙夫茨伯里/艾迪生/伯克/杰拉德/艾利森/艾肯赛德/普赖斯/吉尔平/西布利/荷马）。"
     }
   ],
   "blockers": [],

@@ -39,7 +39,9 @@
 | Berkeley, George | 乔治·贝克莱 | SUMMARY 定名（b/berkeley.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译，亦作『巴克莱』）；凭证 2026-11-06 | 2026-11-06 |
 | Boethius, Anicius Manlius Severinus | 亚尼修·玛理乌斯·塞味利诺·波爱修斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bohr, Niels | 玻尔 | 语料回收（lakatos 首译） | 物理学界千年通行汉译（丹麦物理学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Bonaventure | 波纳文图拉 | 语料回收（marsilius-inghen 首译） | 学界千年通行汉译（中世纪神学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bouty, Edmond | 埃德蒙·布蒂 | duhem | 学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Boniface IX | 卜尼法斯九世 | 语料回收（marsilius-inghen 首译） | 教皇通译惯例（教皇名从天主教传统译名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bradley, Francis Herbert | 弗朗西斯·赫伯特·布拉德雷 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Brian Leftow | 布莱恩·莱夫托 | 语料回收（全目录） | 学界惯例（宗教哲学/时间哲学）；凭证 2026-11-01 | 2026-11-01 |
 | Brouwer, Luitzen Egbertus Jan | 勒伊岑·艾赫贝特斯·扬·布劳威尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -165,6 +167,7 @@
 | Leucippus | 留基伯 | leucippus | 学界通行汉译（古希腊原子论奠基者，与德谟克利特并称）；待 specs/008 审定库复核 | 2026-11-03 |
 | Lokert, George | 乔治·洛克特 | duhem | 学界惯例（中世纪逻辑学家音译）；凭证 2026-11-06 | 2026-11-06 |
 | Luxemburg, Rosa | 罗莎·卢森堡 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Lombard, Peter | 彼得·伦巴德 | 语料回收（marsilius-inghen 首译） | 中世纪研究通行汉译（《箴言四书》作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Masham, Lady Damaris | 达玛里斯·库德沃斯·马沙姆 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Lysenko, Trofim | 李森科 | 语料回收（lakatos 首译） | 史学界通行汉译（苏联农学家，李森科事件主角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Melissus | 麦里梭 | leucippus | 学界通行汉译（爱利亚学派）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -221,6 +224,7 @@
 | Themo Judaeus | 特莫·尤达乌斯 | duhem | 学界惯例（中世纪学者音译）；凭证 2026-11-06 | 2026-11-06 |
 | Torricelli, Evangelista | 托里拆利 | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Vladimir Lenin | 弗拉基米尔·列宁 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| Urban VI | 乌尔班六世 | 语料回收（marsilius-inghen 首译） | 教皇通译惯例；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Eduard Bernstein | 爱德华·伯恩施坦 | luxemburg | 学界通行汉译（修正主义者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Karl Kautsky | 卡尔·考茨基 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | August Bebel | 奥古斯特·倍倍尔 | luxemburg | 学界通行汉译（德国工人运动领袖）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -992,6 +996,16 @@
 | Taylor, C.C.W. | C.C.W. 泰勒 | democritus | 学界惯例（原子论译注名家；名缩写保留） | 2026-11-06 |
 | Wardy, Robert | 沃迪 | democritus | 学界通行（《几何之壮丽》作者） | 2026-11-06 |
 | Zeno of Elea | 埃利亚的芝诺 | democritus | 学界千年通行（埃利亚学派悖论家；与季蒂昂的塞诺异人；r2 改定，初译“爱利亚”） | 2026-11-06 |
+| Addison, Joseph | 约瑟夫·艾迪生 | aesthetics-18th-british | 学界通行（《旁观者》撰稿人，趣味理论奠基者） | 2026-11-06 |
+| Akenside, Mark | 马克·艾肯赛德 | aesthetics-18th-british | 学界通行（《想象的愉悦》作者，柏拉图派） | 2026-11-06 |
+| Alison, Archibald | 阿奇博尔德·艾利森 | aesthetics-18th-british | 学界通行（《论趣味的本性与原理》作者） | 2026-11-06 |
+| Burke, Edmund | 埃德蒙·伯克 | aesthetics-18th-british | 学界千年通行（《关于崇高与美观念起源的哲学探讨》作者） | 2026-11-06 |
+| Gerard, Alexander | 亚历山大·杰拉德 | aesthetics-18th-british | 学界通行（《论趣味》作者，苏格兰常识学派外围） | 2026-11-06 |
+| Gilpin, William | 威廉·吉尔平 | aesthetics-18th-british | 学界通行（如画美学创立者） | 2026-11-06 |
+| Homer | 荷马 | aesthetics-18th-british | 学界千年通行（史诗诗人） | 2026-11-06 |
+| Price, Uvedale | 尤维代尔·普赖斯 | aesthetics-18th-british | 学界通行（《如画之美》作者） | 2026-11-06 |
+| Shaftesbury, 3rd Earl of | 沙夫茨伯里 | aesthetics-18th-british | 学界通行（Anthony Ashley Cooper，内在感官说先驱；正文以爵号行文） | 2026-11-06 |
+| Sibley, Frank | 弗兰克·西布利 | aesthetics-18th-british | 学界通行（审美概念不可推理论） | 2026-11-06 |
 | Armogathe, Jean-Robert | 让-罗贝尔·阿尔莫加特 | descartes-works | 音译（笛卡尔研究中心，巴黎天主教大学） | 2026-11-06 |
 | Arnauld, Antoine | 安托万·阿尔诺 | descartes-works | 学界通行汉译（《波尔罗亚尔逻辑》作者之一，笛卡尔诘难人） | 2026-11-06 |
 | Baillet, Adrien | 巴耶 | descartes-works | 学界通行（笛卡尔早期传记作者） | 2026-11-06 |
