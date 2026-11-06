@@ -2,7 +2,7 @@
   "slug": "erfurt",
   "kind": "retranslate",
   "zh_doc": "e/erfurt.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T19:46:00Z",
       "evidence": "三校：check_style 仅 bibliography 照录豁免 5 条；check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T17:17:35Z",
+      "evidence": "r1 段级核销：11/12 节——差额为源端空标题 '## Notes（原文脚注）'（转换器产物，核为无须镜像）；74 个脚注键与源全等、无重复定义；年份集合（1270/1330/1869/1914/1916/1922/1926/1639 等）无缺无多；Primary/Secondary Sources 双子节对应主要/次要文献"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T17:17:36Z",
+      "evidence": "r2 句级复读：check_prose 39→20；拆分 8 处长句（含 131/98/95 字句）、去'的'链 6 处、被字句改写 2 处（段23 指派行为/段47 表意行为两组差别重构）；余 20 条均为豁免——托马斯原文引文内（段27/31/39/45 共 13 条，忠实引文优先）、'被动'为术语 passive 而非被动语态（段43/45 共 3 条）、书名并列致'的'密度（段5/61/65 共 4 条）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T17:17:41Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK、check_math 0；账本缺档旧管线债务登记 qa-findings §4（erfurt 账本仅 27/60 段，属半截artifact，正文完整性以段数比 1.04 与节标题核销为准）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T17:17:41Z",
+      "evidence": "终稿验收：六道全过；豁免 20 条逐类留痕（引文/术语被动/书名并列）"
     }
   ],
   "blockers": [],
