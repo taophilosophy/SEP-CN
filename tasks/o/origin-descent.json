@@ -2,7 +2,7 @@
   "slug": "origin-descent",
   "kind": "retranslate",
   "zh_doc": "o/origin-descent.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -52,6 +52,27 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T22:36:21Z",
       "evidence": "r1 初审（对照原文自审，初译 actor 本会话）：123 段逐段回读 yuanwen 镜像。核对项：①结构——H1 + 导语 + 5 编号节/11 小节 + References（引用注释）+ 学术工具 + 其他网络资源 + 相关词条 + 致谢，20 标题与源页逐项对应（源 ### Acknowledgments 归一为 ## 致谢）；②数字/年代/页码——s1 数字比对 41 处差异复核为形态类，无漂移；③脚注键——lq check HARD=0，127 引用键闭环，46 孤立定义为现制形态；④图片——yuanwen/assets/origin-descent/treediagram.png 在位，zh 侧 ../yuanwen/assets/ 路径正确，alt 文本已译，图注残缺括号（源 line 118 “(*Origin* 1859:“Appendix”.”缺右括号）按零信任照录留痕；⑤引块 4 处（Nature 1842/1844/1856、Owen 1882 悼词）与源逐句对照，手稿标记 <<…>>/〈prin〉/〈dif〉/［原文如此］保留；⑥书名斜体改《》共 24 处（* 计数软标旗逐条属计划内）；⑦术语复核——进化/惠威尔/转型论/均变论/归纳的一致/泛生论/微芽/用进废退 等全稿一致。发现 0 Critical；2 处 Minor 已在前轮处理（漏段 51 补译、<prin>/<dif> 标记改全角）。复核独立性：r2 走冷置（间隔期间推进 o 批下一件 oakeshott 立项与初译）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:58:28Z",
+      "evidence": "r2 冷置复审（ADR-0020：与 r1 之间隔 oakeshott 全流程，非同批连续作业）。①抽核 5 段回原文（18/45/70/96/115）：概念演变、布丰式物种实在论、德意志接受史（海克尔 1834–1919 与三部论战著作年代）、《人类的由来》推倒笛卡尔壁垒、敌视书评争点——语义、专名、年代、页码均一致，未见漏译或添译。②prose 3 项维持豁免并复核：段45 为 Darwin 1844 引文（不可为体例改动）、段59/195 系「目的/目的论」内含「的」被 de-chain 正则误计（S5 建议加白名单）。③发现并补齐译名欠账：origin-descent 用而 ren-ming-biao 未登记者 23 行（赫胥黎/斯宾塞/欧文/塞奇威克/巴克兰/米瓦特/詹金/迪普/若弗鲁瓦·圣伊莱尔/拉马克/马尔萨斯/孔德/纽曼/沃波尔/麦金托什/钱伯斯/惠特利/赫歇尔/鲁瓦耶/林奈/居维叶/阿萨·格雷/丁尼生），带凭证登记，另修正 2 行重音人名缺原文告警。④门禁复跑：style/academic/terms/math 全绿，硬错误 0。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:59:08Z",
+      "evidence": "r3 终校：①结构——标题 21 个（H1+导语+5 编号节/11 小节+References 三小节+学术工具/其他网络资源/相关词条）与源一一对应；脚注 172 定义/127 引用，未定义项仅工具样板 [^key]，孤儿定义 46 条与源参考文献式定义同（非漏引）；图片 ../yuanwen/assets/origin-descent/treediagram.png 存在（191,716 字节）。②lq 守恒复跑 123 段全过（段122 OIR 的 * 计数差异系外链列表符号，正常）。③check_all 7/7 全绿；无 TODO/待译残留。④体量 20,127 汉字 / 108,716 字节，版本钉 Shawn（Jun 17, 2019 / Mar 13, 2024）不变。收口 done。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:59:18Z",
+      "evidence": "九步闭环完成：稿件 o/origin-descent.md 六检全绿（style/academic/terms/math/prose/lq 守恒）+ check_all 7/7；账本 123 段双版齐全；译名登记补齐 23 行。"
     }
   ],
   "blockers": [],

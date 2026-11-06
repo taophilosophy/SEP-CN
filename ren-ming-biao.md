@@ -1411,3 +1411,26 @@
 | Vico, Giambattista | — | 维柯 | oakeshott | 学界千年通行汉译（《新科学》中译本）；凭证 2026-11-07 | 2026-11-07 |
 | Cowling, Maurice | — | 莫里斯·考林 | oakeshott | 学界惯例（剑桥大学史家；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | Grant, Robert | — | 罗伯特·格兰特 | oakeshott | 自译裁定（奥克肖特传记作者；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
+| Huxley, Thomas Henry | — | 托马斯·亨利·赫胥黎 | origin-descent | 学界通行汉译（《天演论》原本作者；严复译名『赫胥黎』通行）；凭证 2026-11-07 | 2026-11-07 |
+| Spencer, Herbert | — | 赫伯特·斯宾塞 | origin-descent | 学界通行汉译（《社会学原理》中译本通行）；凭证 2026-11-07 | 2026-11-07 |
+| Owen, Richard | — | 理查德·欧文 | origin-descent | 学界通行汉译（比较解剖学家；与 Owen 同名者以全名区分）；凭证 2026-11-07 | 2026-11-07 |
+| Sedgwick, Adam | — | 亚当·塞奇威克 | origin-descent | 学界惯例（剑桥地质学家）；凭证 2026-11-07 | 2026-11-07 |
+| Buckland, William | — | 威廉·巴克兰 | origin-descent | 学界惯例（牛津地质学家）；凭证 2026-11-07 | 2026-11-07 |
+| Mivart, St. George Jackson | — | 圣乔治·杰克逊·米瓦特 | origin-descent | 学界惯例（达尔文批评者）；凭证 2026-11-07 | 2026-11-07 |
+| Jenkin, Henry Fleeming | Fleeming Jenkin | 亨利·弗莱明·詹金 | origin-descent | 学界惯例（工程学家，1867 年书评作者）；凭证 2026-11-07 | 2026-11-07 |
+| Depew, David | — | 戴维·迪普 | origin-descent | 学界惯例（达尔文修辞研究）；凭证 2026-11-07 | 2026-11-07 |
+| Geoffroy Saint-Hilaire, Étienne | Étienne Geoffroy Saint-Hilaire | 艾蒂安·若弗鲁瓦·圣伊莱尔 | origin-descent | 学界通行汉译（法国转型论者）；凭证 2026-11-07 | 2026-11-07 |
+| Lamarck, Jean-Baptiste | — | 让-巴蒂斯特·拉马克 | origin-descent | 学界通行汉译（《动物学哲学》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| Malthus, Thomas Robert | — | 托马斯·马尔萨斯 | origin-descent | 学界通行汉译（《人口论》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| Comte, Auguste | — | 奥古斯特·孔德 | origin-descent | 学界通行汉译（《实证哲学教程》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| Newman, John Henry | — | 约翰·亨利·纽曼 | origin-descent | 学界通行汉译（《大学的理念》中译本）；凭证 2026-11-07 | 2026-11-07 |
+| Walpole, Horace | — | 霍勒斯·沃波尔 | origin-descent | 学界通行汉译（英国文人）；凭证 2026-11-07 | 2026-11-07 |
+| Mackintosh, James | — | 詹姆斯·麦金托什 | origin-descent | 学界惯例（苏格兰道德哲学家）；凭证 2026-11-07 | 2026-11-07 |
+| Chambers, Robert | — | 罗伯特·钱伯斯 | origin-descent | 学界惯例（《自然创造史的遗迹》匿名作者）；凭证 2026-11-07 | 2026-11-07 |
+| Whately, Richard | — | 理查德·惠特利 | origin-descent | 学界惯例（牛津逻辑学家、修辞理论家）；凭证 2026-11-07 | 2026-11-07 |
+| Herschel, John F. W. | — | 约翰·赫歇尔 | origin-descent | 学界通行汉译（《天文学纲要》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Royer, Clémence | Clémence Royer | 克莱芒丝·鲁瓦耶 | origin-descent | 学界惯例（《物种起源》首部法译译者）；凭证 2026-11-07 | 2026-11-07 |
+| Linnaeus, Carl | Linnaean | 林奈 | origin-descent | 学界通行汉译（『林奈式』作形容词）；凭证 2026-11-07 | 2026-11-07 |
+| Cuvier, Georges | — | 居维叶 | origin-descent | 学界通行汉译（《化石骨骼研究》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Gray, Asa | — | 阿萨·格雷 | origin-descent | 学界惯例（哈佛植物学家）；凭证 2026-11-07 | 2026-11-07 |
+| Tennyson, Alfred | Alfred Lord Tennyson | 阿尔弗雷德·丁尼生（丁尼生勋爵） | origin-descent | 学界通行汉译（桂冠诗人）；凭证 2026-11-07 | 2026-11-07 |
