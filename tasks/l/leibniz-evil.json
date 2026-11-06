@@ -2,7 +2,7 @@
   "slug": "leibniz-evil",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-evil.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-03T17:45:51Z",
       "evidence": "四检：check_style 0（中文斜体 56 处转加粗）、check_academic 0 硬错误、check_math 0、prose 12 豁免；人名 7 位登记 ren-ming-biao.md（阿奎那/莫利纳/索菲·夏洛特/韦德科普夫/斯滕诺/约翰·弗里德里希/培尔复用）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:40:54Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+注记+Leibniz Texts/Other Sources 子节），节数 14=14；marker 70=70；defs 键集全等；数字 5 段差异全部正当（1670s→十七世纪七十年代、月份/日期中文数词化）；正文 6 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:40:54Z",
+      "evidence": "r2 语言实修：prose 11→9——3 处叙事 de-chain 拆解（准数学类比句、必然地—本世界术语句、肯定/善/完善列举句）；余 9 项全部为引文/引块内部（CP 41/45/59、《论全能》、阿奎那《神学大全》两条、H 145、H 232），按 ADR-0020 豁免；人名韦德科普夫/斯滕诺/阿奎那已在册"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:40:56Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 9 项引文豁免；check_math 0/0/0；marker 70=70、defs/节数齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:40:56Z",
+      "evidence": "done：九步齐，成稿 6 节 285 行"
     }
   ],
   "blockers": [],
