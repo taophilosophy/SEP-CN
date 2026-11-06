@@ -104,89 +104,89 @@ segments:
     source: |-
       What about the possibility of acquaintance with ourselves? Can an individual be directly acquainted with him or herself? Russell takes the question of whether we are ever acquainted with the self to be a difficult one. He says that acquaintance with the self is “hard to disentangle from other things,” but tentatively concludes that “it is probable, though not certain, that we have acquaintance with Self” (1912: 78–81.) However, he later denies that we have acquaintance with the self (see Russell 1914: part III)[^russell-1914]. In a recent paper, Duncan (2015) uses the method of doubt, or something very much like it, to argue that we are acquainted with ourselves.
     step1: |-
-
+      那么亲知我们自身的可能性又如何呢？个人能直接亲知他或她自己吗？罗素认为，我们是否曾经亲知自我，是个困难的问题。他说，对自我的亲知“难以同其他东西剥离开来”，但他试探性地得出结论：“我们大概——尽管不能确定——亲知自我”（1912: 78–81）。然而他后来否认我们亲知自我（参见 Russell 1914: 第三部分）[^russell-1914]。在晚近一篇论文中，邓肯（Duncan 2015）运用怀疑的方法，或与之非常相似的东西，论证我们亲知我们自己。
     step2: |-
-
+      亲知我们自己，这种可能性又如何？一个个体能够直接亲知他或她自己吗？罗素把“我们是否曾经亲知自我”视为难题。他说，对自我的亲知“难与其他东西分辨清楚”，但仍试探性地结论道：“我们大概能亲知自我，虽非确定”（1912: 78–81）。可是后来他又否认我们亲知自我（参见 Russell 1914: 第三部分）[^russell-1914]。晚近的论文中，邓肯（Duncan 2015）恰恰借助怀疑法——或极近于此的办法——论证我们对自己有亲知。
   - id: 13
     kind: body
     source: |-
       Let us now return to the primary question of this section: how should we understand the distinction between knowledge by acquaintance and knowledge by description? When philosophers speak of *knowledge* they typically mean to be discussing knowledge of truths or propositional knowledge, knowledge that involves a belief or judgment in some true claim or proposition. As introduced by Russell, the distinction sometimes seems to be that between noninferential or foundational knowledge on the one hand, and inferential or nonfoundational knowledge on the other. Roughly, one has nonfoundational or inferential knowledge that *p* when one’s knowledge that *p* depends on one’s knowledge of some other proposition(s) from which one can legitimately infer *p*; and one has foundational or noninfrential knowledge that *p* when one’s knowledge that *p* does not depend on any other knowledge one has. Knowledge by acquaintance is foundational knowledge because it depends on one’s acquaintance with the object itself, or with properties of or facts about the object, and not on any further knowledge of truths. Knowledge by description, in contrast, always depends on some further knowledge of truths for support; as Russell puts it, knowledge by description “always involves…some knowledge of truths *as its source and ground*” (1912: 72–3, emphasis added).
     step1: |-
-
+      现在让我们回到本节的主要问题：应当如何理解亲知知识与摹状知识的区分？当哲学家谈论 *知识* 时，他们通常意在讨论真理的知识或命题知识，即涉及对某个真实论断或命题的信念或判断的知识。就罗素所引入的意义上看，这一区分有时似乎是：一边是非推论的或基础的知识，另一边是推论的或非基础的知识。粗略地说，当一个人对 *p* 的知识依赖于他对某个（些）其他命题的知识，而他可以合乎理据地从那些命题推出 *p*，他就拥有关于 *p* 的非基础或推论的知识；当一个人对 *p* 的知识不依赖于他所拥有的任何其他知识，他就拥有关于 *p* 的基础的或非推论的知识。亲知知识之所以是基础知识，因为它依赖于一个人对对象本身、或对对象的属性、关于对象的事实之亲知，而不依赖于任何进一步的真理知识。反之，摹状知识总需要进一步的真理知识来支撑；用罗素的话说，摹状知识“总是包含……某些真理知识 *作为其来源与根据*”（1912: 72–3，重点为作者所加）。
     step2: |-
-
+      现在回到本节的主问：亲知知识与摹状知识之别，究竟当作何解？哲学家言及 *知识*，通常所要讨论的是真理的知识、命题的知识——一种对某个真实论断或命题持信念或判断的知识。看罗素引入区分的方式，它有时像是这样一边一那一边：这边是非推论的、基础的知识，那边是推论的、非基础的知识。大略言之，若一个人对 *p* 的知识取决于他对某个（些）其他命题的知识，而他本可合乎理据地从那些命题推出 *p*，他所拥有的就是关于 *p* 的非基础的、推论的知识；若他对 *p* 的知识不取决于他所拥有的任何其他知识，他所拥有的就是关于 *p* 基础的、非推论的知识。亲知知识属于基础知识，因为它所倚靠的是对对象本身、对对象之属性或关于对象之事实的亲知，而非任何进一步的真理知识。摹状知识则不然，它总要靠进一步的真理知识来撑持；用罗素的话说，摹状知识“无不包含……某些真理知识 *作为其来源与根据*”（1912: 72–3，重点系原文所加）。
   - id: 14
     kind: body
     source: |-
       This seems to be a natural and relatively straightforward way of drawing the distinction. However, there may seem to be a problem with this way of drawing the distinction, at least as an interpretation of Russell, for he denies that knowledge by acquaintance is knowledge of truths:
     step1: |-
-
+      这似乎是一种自然且较为直接的区分方式。然而，至少就作为对罗素的诠释而言，这种区分方式似乎存在问题，因为罗素否认亲知知识是真理的知识：
     step2: |-
-
+      这一区分方式看起来自然，也算直截。可是，倘若把它当作对罗素的解读，似乎就有麻烦——罗素否认亲知知识是真理的知识：
   - id: 15
     kind: body
     source: |-
       > Knowledge of things, when it is of the kind we call knowledge by *acquaintance*, is essentially simpler than any knowledge of truths, and logically independent of knowledge of truths, though it would be rash to assume that human beings ever, in fact, have acquaintance with things without at the same time knowing some truth about them. (Russell 1912: 72)[^russell-1912]
     step1: |-
-
+      > 关于事物的知识，当它属于我们称为亲知的知识那种类型时，本质上比任何真理知识都更简单，并且在逻辑上独立于真理知识，尽管若断言人类事实上曾对事物有亲知而不同时知道关于它们的任何真理，那就太冒失了。（Russell 1912: 72）[^russell-1912]
     step2: |-
-
+      > 关于事物的知识，凡属我们称为 *亲知* 的知识一类者，在本性上便比任何真理知识都更单纯，并在逻辑上独立于真理知识；不过，若认定人类事实上确有对事物的亲知而不夹杂任何关于它们的真理知识，则失之卤莽。（Russell 1912: 72）[^russell-1912]
   - id: 16
     kind: body
     source: |-
       We have already seen that for Russell acquaintance is nonjudgmental or nonpropositional; to be acquainted with something is to be *aware of* it in a way that does not essentially involve being *aware that* it is so-and-so. Russell seems to be extending this to knowledge by acquaintance: it is knowledge *of* something, and logically independent of knowledge *that* something is so-and-so. Nor is this usage of the term ‘knowledge’ and its cognates strange: we do indeed talk about knowing people and cities. This might suggest that we should draw the distinction between knowledge by acquaintance and knowledge by description not as one between foundational and nonfoundational knowledge of truths, but as one between knowledge of truths and knowledge of something other than truths. Indeed, as we have seen, Russell at one point defines knowledge of something by description simply as knowledge that it is so-and-so, not *foundational* knowledge that it is so-and-so (1912: 84–5). But then, what more than *acquaintance* is involved in *knowledge* by acquaintance? It is difficult to find an answer from Russell.
     step1: |-
-
+      我们已经看到，在罗素那里，亲知是非判断性的或非命题性的；亲知某物，就是以 *觉察到* 它的方式与之相关，而这种方式并不在本质上牵涉 *觉察到* 它是如此这般。罗素似乎把这一点延伸到亲知知识：它是 *关于* 某物的知识，在逻辑上独立于 *某个事物如此这般* 的知识。而且，这种对“知识”及其同源词的用法并不奇怪：我们的确谈论认识某个人、认识某座城市。这可能意味着：亲知知识与摹状知识之别，不应划在真理知识的基础版本与非基础版本之间，而应划在真理的知识与非真理之物的知识之间。确实，如前所见，罗素一度把凭摹状对某物的知识，径直定义为知道它是如此这般，而非 *基础地* 知道它是如此这般（1912: 84–5）。但这样一来，亲知 *知识* 之中，除 *亲知* 之外还包含什么呢？从罗素那里很难找到一个答案。
     step2: |-
-
+      前文已见，罗素视亲知为非判断性、非命题性：亲知某物，就是以 *觉察到* 它的方式与其相干，而此中并不在本性上涉及 *觉察到* 它如此这般。罗素像是把这一层意思推及亲知知识——它是 *关于* 某物的知识，逻辑上独立于 *某物如此这般* 的知识。这种对“知识”及其同族词的用法并不古怪：我们本来就讲认识某人、认识某城。是故，亲知知识与摹状知识之别，或许不该划在真理知识的基础版与非基础版之间，而该划在真理的知识同非真理之物的知识之间。事实上，前面也已看到，罗素一度只把凭摹状知某物定义为我们知道它如此这般，而不是 *基础地* 知道它如此这般（1912: 84–5）。如此一来，亲知 *知识* 里除了 *亲知*，还多出了什么？从罗素笔下很难讨到一个答案。
   - id: 17
     kind: body
     source: |-
       It is tempting to suppose that Russell equivocates between the relation of acquaintance and the special kind of knowledge of truth (foundational knowledge) whose sole source is acquaintance. That we ordinarily talk about knowing things and people might encourage this equivocation. Moreover, perhaps the fact that acquaintance is a form of awareness of the most direct, most secure kind, and is fundamental to all knowledge of truths, led Russell to think it deserves to be called “knowledge” of the thing in question. The issue here is largely terminological. In order to guard against confusing *acquaintance* on the one hand with *foundational knowledge of truths acquired by acquaintance* on the other, and facilitate an examination of the relation between them, we should be more careful than Russell and restrict *knowledge* *by acquaintance* to foundational knowledge of *truths*. By contrast, one can have *acquaintance* with items that are not truths, items that cannot be said to be true or false. Knowledge by description, on the other hand, is nonfoundational knowledge of truths; it “always involves…some knowledge of truths as its source and ground” (Russell 1912: 72–3)[^russell-1912]. We adopt this usage in what follows.
     step1: |-
-
+      人们容易认为，罗素在亲知关系与那种唯一来源是亲知的特殊真理知识（基础知识）之间摇摆含糊。我们日常确实谈论认识事物、认识人，这或许助长了这种含糊。此外，也许正是如下事实使罗素觉得，亲知值得被称为对相关对象的“知识”：亲知是最直接、最可靠的觉察形式，且对一切真理知识都根本。这里的问题多半是术语性的。为了防止把一方面的 *亲知* 与另一方面 *凭亲知获得的真理基础知识* 混为一谈，并便于考察两者之间的关系，我们应当比罗素更谨慎，把 *亲知知识* 限于 *真理* 的基础知识。相比之下，一个人可以对并非真理的项目、无所谓真假的项目拥有 *亲知*。而摹状知识则是非基础的真理知识；它“总是包含……某些真理知识作为其来源与根据”（Russell 1912: 72–3）[^russell-1912]。下文即采用这一用法。
     step2: |-
-
+      一个诱人的说法是：罗素在两义之间滑动——一义是亲知这种关系，另一义是以亲知为唯一来源的那种特殊的真理知识（基础知识）。日常我们确会说认识事物、认识人，这也许正喂养了这种滑动。再者，亲知乃最直接、最稳当的觉察样式，又是一切真理知识之本，罗素或因此认为它配称为对那个对象的“知识”。此处问题大多不出在实质，而出在用词。为免把一头的 *亲知* 与另一头的 *凭亲知而得的真理基础知识* 相混，也为便于考察二者的关系，我们该比罗素更细心些，把 *亲知知识* 收窄到 *真理* 的基础知识之上。至于 *亲知* 本身，其对象可以根本不是真理，可以是无所谓真假的项目。摹状知识则属非基础的真理知识，它“无不包含……某些真理知识作为其来源与根据”（Russell 1912: 72–3）[^russell-1912]。下文沿用这一规定。
   - id: 18
     kind: body
     source: |-
       For classical foundationalists like Russell, all knowledge of truths ultimately depends on foundational knowledge of truths acquired by acquaintance. But how exactly does acquaintance contribute to this knowledge of truths? If acquaintance is nothing like a judgment or belief, and if the items with which we are acquainted are themselves neither true nor false, how do we get any knowledge of *truths* out of acquaintance? We turn to this question in section 3.
     step1: |-
-
+      对罗素这样的古典基础主义者来说，一切真理知识最终都依赖于凭亲知获得的基础性真理知识。但亲知究竟如何促成这种真理知识？如果亲知完全不像判断或信念，如果我们所亲知的项目本身既不真也不假，我们怎么可能从亲知得到任何关于 *真理* 的知识？这个问题留待第 3 节。
     step2: |-
-
+      在罗素这样的古典基础主义者看来，一切真理知识最终都系于凭亲知习得的真理基础知识。可亲知究竟以何种方式贡献于这种真理知识？亲知既全然不同于判断或信念，我们所亲知的项目本身又非真非假，那我们怎么可能从亲知中获得任何关于 *真理* 的知识？此问留待第 3 节处理。
   - id: 19
     kind: body
     source: |-
       First, however, let us briefly discuss contemporary views regarding the nature and objects of acquaintance.
     step1: |-
-
+      不过在此之前，先简要讨论一下当代关于亲知的本性与亲知对象的观点。
     step2: |-
-
+      不过在那之前，且先略述当代就亲知的本性与亲知的对象所持的诸种观点。
   - id: 20
     kind: body
     source: |-
       ## 2. Contemporary Views on Acquaintance
     step1: |-
-
+      ## 2 当代的亲知观
     step2: |-
-
+      ## 2 当代的亲知观
   - id: 21
     kind: body
     source: |-
       We said above that what distinguishes the classical, Russellian notion of acquaintance is, minimally, that (i) it is a non-intentional form of awareness: acquaintance with something does not consist in forming any judgment or thought about it, or applying any concepts to it; and (ii) it is real relation requiring the existence of its *relata*; one cannot be acquainted with some thing, property or fact that does not exist. Let us use the label “acquaintance theory” broadly to stand for any view, in the philosophy of mind or epistemology, in which acquaintance so understood plays a central role. There has been a resurgence of interest in acquaintance theory in the last 25 years or so. Contemporary proponents include BonJour (2001, 2003), Chalmers (2010), Fales (1996), Fumerton (1995, 2001, 2016), Gertler (2001, 2011, 2012), Hasan (2011, 2013), McGrew (1995, 1999), Moser (1989), Stoutenburg (forthcoming), and Taylor (2013). As we shall see, some of these philosophers depart from Russell in significant ways. However, like him, they are all committed to the existence and philosophical significance of a direct, nonjudgmental form of awareness (indeed, many of them call it “acquaintance”) and this warrants treating them all as “acquaintance theorists.” Most of them also explicitly endorse classical foundationalism: like Russell, they hold that all knowledge or justified belief ultimately depends on a foundation of knowledge or justified belief acquired by acquaintance. There are consistent ways to accept acquaintance theory without accepting classical foundationalism. For example, some might agree that we do have some knowledge by acquaintance and appeal to such knowledge in the dualism debate in the philosophy of mind (see the entry on qualia: the knowledge argument), without endorsing the claim that all knowledge or justified belief must depend, ultimately, on acquaintance. However, unless otherwise indicated, we use “acquaintance theory” and “classical foundationalism” interchangeably.
     step1: |-
-
+      上面我们说过，古典的、罗素式的亲知观念，最少限度上以两点为特征：（i）它是非意向性的觉察形式：亲知某物，不在于对它形成任何判断或思想，也不在于对它应用任何概念；（ii）它是要求其 *关系项* 存在的真实关系：人不能亲知不存在的事物、属性或事实。我们不妨广义地使用“亲知理论”这个标签，指称心灵哲学或知识论中任何让如此理解的亲知扮演核心角色的观点。大约在过去 25 年间，亲知理论的兴趣有所复兴。当代的倡导者包括 BonJour（2001, 2003）、Chalmers（2010）、Fales（1996）、Fumerton（1995, 2001, 2016）、Gertler（2001, 2011, 2012）、Hasan（2011, 2013）、McGrew（1995, 1999）、Moser（1989）、Stoutenburg（即将出版）与 Taylor（2013）。我们将会看到，其中一些哲学家在重要方面偏离了罗素。然而与他一样，他们都承诺存在一种直接的、非判断性的觉察形式（事实上，他们许多人就称它为“亲知”），这使我们有理由把他们全部当作“亲知理论家”。他们中的大多数还明确赞同古典基础主义：与罗素一样，他们认为一切知识或被证成的信念最终都依赖于凭亲知获得的知识或被证成的信念这一基础。接受亲知理论而不接受古典基础主义，也有融贯的路径。例如，有些人可以同意我们确实拥有某些亲知知识，并在心灵哲学中关于二元论的辩论中诉诸这种知识（参见感受性：知识论证词条），而不赞成“一切知识或被证成的信念最终必须依赖于亲知”这一主张。除非另有说明，下文对“亲知理论”与“古典基础主义”将互换使用。
     step2: |-
-
+      上文已述，古典的、罗素式的亲知观念，起码以两件事为标记：（i）它是非意向性的觉察方式——亲知某物，不构成对它的任何判断或思想，也不构成对它施用任何概念；（ii）它是一种真实关系，要求 *关系项* 存在——不存在的事物、属性或事实，无人能够亲知。我们不妨宽泛地用“亲知理论”这块招牌，统称心灵哲学或知识论中让这般理解的亲知居于枢纽地位的任何学说。亲知理论的兴趣，大约在最近 25 年间有所回潮。当代的提倡者有 BonJour（2001, 2003）、Chalmers（2010）、Fales（1996）、Fumerton（1995, 2001, 2016）、Gertler（2001, 2011, 2012）、Hasan（2011, 2013）、McGrew（1995, 1999）、Moser（1989）、Stoutenburg（即出）与 Taylor（2013）。下文将见，其中数位哲学家在紧要处已背离罗素。然而同罗素一样，他们都认可：确有一种直接而非判断性的觉察形式存在，且具有哲学意义（他们中许多人径以“亲知”名之）——据此，把他们一概称为“亲知理论家”是站得住的。他们大多还公开认同古典基础主义：与罗素一样，主张一切知识、一切被证成的信念，最终都托底于凭亲知得来的知识与被证成的信念这一基础。不过，只接受亲知理论而不接受古典基础主义，也有前后一致的走法。比如，有人尽可同意我们确有部分亲知知识，并在心灵哲学的二元论之争中援用这种知识（参见感受性：知识论证词条），却不必赞成“一切知识或被证成的信念终须归本于亲知”。若无另行声明，下文“亲知理论”与“古典基础主义”两名通用。
   - id: 22
     kind: body
     source: |-
       Acquaintance is typically taken to be simple and thus indefinable. The philosophers for whom acquaintance plays a critical philosophical role are usually unapologetic about their inability to define the concept (e.g., Fumerton 1995: 76–7)[^fumerton-1995]. They will quite plausibly argue that analysis requires conceptual “atoms”—simple ideas out of which other ideas are built. The concept of acquaintance, for them, is arguably the most fundamental concept on which all epistemology, and perhaps all philosophy of mind, is built. Still, one philosopher’s conceptual atom is another’s complete mystery, and unless one can convince oneself that one understands what acquaintance is, one will not be able to understand views that invoke it.
     step1: |-
-
+      亲知通常被认为是简单的，因此不可定义。那些让亲知扮演关键哲学角色的哲学家，对于自己无法定义这个概念，往往坦然不讳（例如 Fumerton 1995: 76–7）[^fumerton-1995]。他们相当有道理地论证：分析需要概念上的“原子”——由之构筑其他观念的简单观念。在他们看来，亲知概念可以说是一切知识论、也许还有一切心灵哲学所由建立的最根本概念。不过，一位哲学家的概念原子，可能是另一位哲学家完全的谜；除非一个人能说服自己弄明白亲知是什么，他就无法理解那些援引亲知的观点。
     step2: |-
-
+      亲知向来看作单纯，因而不可定义。把亲知放到哲学枢纽位置的那些论者，对无法定义此概念并不掩饰，甚至不以为憾（例如 Fumerton 1995: 76–7）[^fumerton-1995]。他们给出的理由颇有说服力：分析须有概念“原子”，即用来搭建其余观念的简单观念。就他们而言，亲知概念堪称全部知识论、或许还有整个心灵哲学赖以奠基的最根本概念。只是甲的概念原子，乙看来可能全然是谜；一个人若不能使自己相信已经懂得亲知为何物，便也无从理解那些援引它的学说。
   - id: 23
     kind: body
     source: |-
