@@ -2,7 +2,7 @@
   "slug": "lawphil-theory",
   "kind": "retranslate",
   "zh_doc": "l/lawphil-theory.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-02T18:39:12Z",
       "evidence": "四检全过：check_style 0 / check_academic 0 硬错误 / check_math 0 / prose 0；术语 基本规范/实效/承认规则 登记 yi-zhe-shuo-ming.md，人名 凯尔森/拉兹/哈特 登记 ren-ming-biao.md"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:04:01Z",
+      "evidence": "r1 结构对账：参考文献节整体归正——References 注释节+转换器注记+补回源文 ### Primary Sources / ### Secondary Sources / ### Contemporary Discussions and Further Reading 三子节（节数 7→10=源 10），PT1/PT2/GT 表格置于 Primary Sources 下；marker 7=7；defs 键集全等；数字 1 段差异正当（20th century→二十世纪初）；正文 3 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:04:01Z",
+      "evidence": "r2 语言与登记：check_prose 0 告警；凯尔森/休谟已在册；现代学者保留英文；术语“基本规范”“纯粹法理论”“还原论”与术语表一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:04:05Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 0；check_math 0/0/0；defs/marker/节数三齐（10=10）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T19:04:06Z",
+      "evidence": "done：九步齐，成稿 3 节，参考文献三子节归位，PT 表照录"
     }
   ],
   "blockers": [],

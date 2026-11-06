@@ -61,14 +61,22 @@
 
 这种观点在道德方面引起的困难，我们可以暂且搁置。显然，许多哲学家会拒绝凯尔森的下述看法：道德上的行动理由只适用于那些选择赞同道德基本规范（无论它是什么）的人。即便凯尔森把道德命令的这种条件性质看错了，他也可能在法律问题上看对了。然而，仍然可疑的是：鉴于他的法律效力说明最终被证明是还原的，凯尔森是否当真给出了法律规范性的非还原解释。麻烦不只在“相对于视角”这一点；更在于凯尔森未能把相关视角的选择奠基于理性或任何种类的理由。由于刻意回避解释“是什么使一个主体选择赞同法律视角或任何给定的基本规范”，凯尔森把关于法律规范性的最紧迫问题搁置未答。他没有说明预设法律视角何以合理、把法律的要求视为有约束力者又何以合理，反倒邀请我们别再问了。
 
-## 参考文献
+## References（引用注释）
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Primary Sources
 
 | [PT1] | 1934/2002. *Introduction to the Problems of Legal Theory*, B.L. Paulson and S.L. Paulson (trans.), Oxford: Clarendon Press. |
 | --- | --- |
 | [PT2] | 1960/1967. *Pure Theory of Law*, M. Knight (trans.), Berkeley: University of California Press. |
 | [GT] | 1945/1961. *General Theory of Law and State*, A. Wedberg (trans.), New York: Russell & Russell. |
+
+### Secondary Sources
+
+### Contemporary Discussions and Further Reading
 
 [^kelsen’s-1934]: Kelsen’s academic publications span over almost seven decades in which he published dozens of books and hundreds of articles. Only about a third of this vast literature has been translated to English. Kelsen’s two most important books on the pure theory of law are the first edition of his *Reine Rechtslehre*, published in 1934 and recently (2002) translated. The second edition, which Kelson published in 1960 (translated in 1967) is a considerably extended version of the first edition. In addition, most of the themes in these two books also appear in Kelsen’s *General Theory of Law and State*. These three works are cited in text as follows:
 [^other-nd]: Other relevant publications in English include:
