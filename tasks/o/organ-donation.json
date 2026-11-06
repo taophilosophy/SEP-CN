@@ -1,0 +1,36 @@
+{
+  "slug": "organ-donation",
+  "kind": "retranslate",
+  "zh_doc": "o/organ-donation.md",
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T14:30:07Z",
+      "evidence": "方向声明（rules/08）：用户 2026-11-06 指令「负责 O-R 条目的全流程翻译」，本会话按 o→p→q→r 批内 lq 序推进；本件为 o 批首件 organ-donation（人体器官捐献，SUMMARY 既定名）。目标：以 en/ 原始物为唯一底稿零信任重译全文（导语+3 编号节+参考文献+学术工具+其他网络资源+相关词条+致谢，无脚注节），走完 draft→s1→s2→s3→r1→r2→r3 至 done。非目标：不改英文源、不补内容、不造引文、不先挂站内链接、不越出本词条改动。验收判据：lq.py check HARD=0；check_style/check_academic --strict 0 问题、check_math 0 缺失、markdownlint 0、check_prose 告警清零或逐条豁免；术语与人物先登记后使用；task_ops 状态到 done；check_all 全绿（存量红须证明非本词条引入）。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T14:30:07Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T15:12:41Z",
+      "evidence": "draft（ADR-0021 账本协议，主会话直译双版）：lq.py init 117 段（body=115+oir=1+ack=1；文献 95 条照录，refs_kind=modern）→ script/_build_od_p1-p4 双版填充 → build_od.py 守恒 HARD=0（软标旗 2：段17 提案清单机械段、段116 OIR 机械段）→ lq compose 38,604 字符 → od_postfix（H1 空行 + 相关词条 1 项未匹配对齐 SUMMARY 既定名「伦理学和政治哲学中的自主权」）→ italic_to_bold_cjk 22 行 → 四检 style 0 / math 0 / summary 0 / academic 0 硬错误；prose 25 条告警（weak-verb 9、de-chain 9、long-sentence 4、passive-bei 2、as-one 1）留 s2 逐条处理。术语登记 34 条（器官获取/推定同意/选择退出/身后利益/恢复论证等），人名登记 4 条（Wilkinson 三同姓异人 + den Hartogh，均按 ADR-0022 保留英文）。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T13:53:00Z",
+  "version_pin": {
+    "pubinfo_date": "May 20, 2026",
+    "archive_edition": "Summer 2026",
+    "sha256": "9a11c8307c7a7253fd1900c397a6949ff0e566e90d1fca2f248b4f6e5e63fdda"
+  }
+}

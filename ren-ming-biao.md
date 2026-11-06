@@ -19,6 +19,7 @@
 | Alexandre Koyré | — | 亚历山大·柯瓦雷 | 语料回收（全目录） | 学界惯例（科学革命史研究）；凭证 2026-11-01 | 2026-11-01 |
 | Allan Gibbard | — | 艾伦·吉伯德 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Allen Buchanan | — | 艾伦·布坎南 | 语料回收（全目录） | 学界惯例（政治哲学/生物伦理）；凭证 2026-11-01 | 2026-11-01 |
+| Alyngton, Robert | — | 罗伯特·阿林顿 | alyngton | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
 | Ammonius Hermeiou | — | 赫尔米亚的阿莫尼俄斯（正文简作“阿莫尼俄斯”；旧形“阿摩尼奥斯·赫尔米埃”并档） | david | SUMMARY 定名沿用（学界通行汉译；古代晚期亚历山大里亚注疏家）；凭证 2026-11-06 深读 d/david 补登 | 2026-11-06 |
 | Amy Allen | — | 艾米·艾伦 | 语料回收（全目录） | 学界惯例（批判理论/女性主义）；凭证 2026-11-01 | 2026-11-01 |
 | Annette Baier | — | 安内特·拜尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -128,6 +129,7 @@
 | Hartshorne, Charles | — | 查尔斯·哈茨霍恩 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Heaviside, Oliver | — | 赫维赛德 | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Helm, Georg | — | 黑尔姆 | duhem | 全名汉译『格奥尔格·黑尔姆』，正文简名首现括注；学界惯例（能量主义者通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Henry of Ghent | — | 根特的亨利 | alyngton | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-06 |
 | Hermann Diels | — | 赫尔曼·第尔斯 | 语料回收（全目录） | 学界惯例（前苏格拉底残篇编者（DK 本））；凭证 2026-11-01 | 2026-11-01 |
 | Helmholtz, Hermann von | — | 赫尔曼·冯·亥姆霍兹 | SUMMARY 定名（h/hermann-helmholtz.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Hermite, Charles | — | 夏尔·埃尔米特 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -384,6 +386,7 @@
 | Paul Bernays | — | 保罗·贝尔奈斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Paul Grice | — | 保罗·格赖斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Paul Tillich | — | 保罗·蒂利希 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Penbygull, William | — | 威廉·彭比尔 | alyngton | SUMMARY 定名沿用（牛津实在论者） | 2026-11-06 |
 | Peter Kivy | — | 彼得·基维 | 语料回收（全目录） | 学界惯例（音乐美学）；凭证 2026-11-01 | 2026-11-01 |
 | Porphyry | — | 波菲利 | abelard | 古典通行汉译（希腊哲学史工具书通行）；审定库命中 1 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Prophet Muhammad | — | 穆罕默德（先知） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -410,6 +413,7 @@
 | Sextus Empiricus | — | 塞克斯都·恩披里柯（亦作“恩培里柯”） | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Shaun Nichols | — | 肖恩·尼科尔斯 | 语料回收（全目录） | 学界惯例（实验哲学/道德心理）；凭证 2026-11-01 | 2026-11-01 |
 | Sima Qian | — | 司马迁 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Simon of Faversham | — | 法弗舍姆的西蒙 | alyngton | SUMMARY 定名沿用 | 2026-11-06 |
 | Simplicius | — | 辛普里丘 | leucippus | 学界通行汉译（古代哲学注释家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Stanley Fish | — | Stanley Fish（现代学者正文保留英文；通行汉译“费什”备查） | academic-freedom | 学界通行；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Stephen Schiffer | — | 斯蒂芬·希弗 | 语料回收（全目录） | 学界惯例（语言哲学/心灵哲学）；凭证 2026-11-01 | 2026-11-01 |
@@ -1059,6 +1063,8 @@
 | Gregory of Rimini | — | 里米尼的格里高利 | autrecourt | 学界通行（奥古斯丁会会长，complexe significabile 学说） | 2026-11-06 |
 | Marsilius of Padua | — | 帕多瓦的马西利乌斯 | autrecourt | 学界通行（《和平的保卫者》作者） | 2026-11-06 |
 | Marsilius of Inghen | — | 因根的马西利乌斯（亦作“因亨的马西利乌斯”） | autrecourt；SUMMARY m/marsilius-inghen.md | SUMMARY 定名优先（2026-11-06 修弱势方：原行作“因亨”，与 SUMMARY 不一致） | 2026-11-06 |
+| Tarteys, John | — | 约翰·塔蒂斯 | alyngton | 本词条首译（牛津实在论者，无通行汉名） | 2026-11-06 |
+| Whelpdale, Roger | — | 罗杰·惠尔普代尔 | alyngton | 本词条首译（牛津实在论者，无通行汉名） | 2026-11-06 |
 | Wilton, Thomas | — | 托马斯·威尔顿 | autrecourt | 学界通行（牛津神学家） | 2026-11-06 |
 | Bartholomew of Bruges | — | 布鲁日的巴多罗买 | autrecourt | 学界通行（中世纪逻辑学家） | 2026-11-06 |
 | Siger of Courtrai | — | 库特赖的西格尔 | autrecourt | 学界通行（模态语义学家） | 2026-11-06 |
@@ -1084,6 +1090,7 @@
 | Andronikos Doukas | — | 安德罗尼科斯·杜卡斯 | john-italos | 学界通行汉译（拜占庭共治皇帝）；凭证 2026-11-06 | 2026-11-06 |
 | Agrippa von Nettesheim, Heinrich Cornelius | — | 海因里希·阿格里帕·冯·内特斯海姆 | agrippa-nettesheim | SUMMARY 定名沿用（a/agrippa-nettesheim.md） | 2026-11-06 |
 | Ficino, Marsilio | — | 马尔西利奥·费奇诺 | agrippa-nettesheim | SUMMARY 定名沿用（f/ficino.md） | 2026-11-06 |
+| Olympiodorus | — | 奥林匹奥多罗斯 | alyngton | 学界通行汉译（SUMMARY 定名沿用；古代哲学注释家） | 2026-11-06 |
 | Reuchlin, Johannes | — | 约翰·罗伊希林 | agrippa-nettesheim | 学界惯例（文艺复兴卡巴拉研究通行汉译） | 2026-11-06 |
 | Trithemius, Johannes | — | 约翰·特里特米乌斯 | agrippa-nettesheim | 学界惯例（文艺复兴魔法史通行汉译） | 2026-11-06 |
 | Pliny the Elder | — | 老普林尼 | agrippa-nettesheim | 千年通行译名（《自然史》作者） | 2026-11-06 |
@@ -1122,6 +1129,11 @@
 | John von Neumann | — | 冯·诺伊曼（John von Neumann） | schema | 学界惯例（数学与计算机通行汉译） | 2026-11-06 |
 | John Corcoran | — | 保留英文（无通行汉名） | schema | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Paul Rosenbloom | — | 保留英文（无通行汉名） | schema | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Sharpe, Johannes | — | 约翰·夏普 | alyngton | SUMMARY 定名沿用（牛津实在论者） | 2026-11-06 |
+| Wilkinson, Martin | — | 保留英文（无通行汉名） | organ-donation | ADR-0022：无通行汉名者保留英文（词条作者，H1 随 SUMMARY） | 2026-11-06 |
+| Wilkinson, Stephen | — | 保留英文（无通行汉名） | organ-donation | ADR-0022：无通行汉名者保留英文（词条作者；正文 “S. Wilkinson” 同） | 2026-11-06 |
+| Wilkinson, T.M. | — | 保留英文（无通行汉名） | organ-donation | ADR-0022：无通行汉名者保留英文（同名异人，引用组照录） | 2026-11-06 |
+| den Hartogh, Govert | — | 保留英文（无通行汉名） | organ-donation | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 
 ## 待裁定
 
