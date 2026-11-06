@@ -10,29 +10,29 @@
   },
   "a": {
    "phase": "translate",
-   "claimed_by": "ABCDE-main-20261103",
-   "claimed_at": "2026-11-02T16:21:12Z",
+   "claimed_by": "ABCDE-main-20261106",
+   "claimed_at": "2026-11-06T10:40:36Z",
    "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）",
    "advanced_at": "2026-10-28T16:35:48Z"
   },
   "b": {
    "phase": "translate",
-   "claimed_by": "ABCDE-main-20261103",
-   "claimed_at": "2026-11-02T16:21:13Z",
+   "claimed_by": "ABCDE-main-20261106",
+   "claimed_at": "2026-11-06T10:40:36Z",
    "note": "对账补记（2026-11-03）：任务 62=cleared 59/drafted 2/s3_checked 1；11 条在途快照 641faf13（正文未完）；对账补记（2026-11-06）：任务 62=cleared 45/drafted 2/s3_checked 15；NO_LEDGER 17（旧存量 14；新增 3：bayes-theorem/behaviorism/buddhism-chan 11-04 译 actor=?，无账本留痕）",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
   "c": {
    "phase": "translate",
-   "claimed_by": "ABCDE-main-20261103",
-   "claimed_at": "2026-11-02T16:21:13Z",
+   "claimed_by": "ABCDE-main-20261106",
+   "claimed_at": "2026-11-06T10:40:37Z",
    "note": "对账补记（2026-11-03）：批次未认领但工作已发生：任务 172=s3_checked 18/pending 154；7 条在途快照 641faf13；对账补记（2026-11-06）：任务 172=pending 147/s3_checked 25，s3 18→25；账本 28 份齐全",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
   "d": {
    "phase": "translate",
-   "claimed_by": "ABCDE-main-20261103",
-   "claimed_at": "2026-11-02T16:21:13Z",
+   "claimed_by": "ABCDE-main-20261106",
+   "claimed_at": "2026-11-06T10:40:37Z",
    "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
@@ -75,15 +75,15 @@
    "phase": "translate",
    "claimed_by": "ses-FGHIJK-main-1103",
    "claimed_at": "2026-11-02T16:22:17Z",
-   "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份",
-   "advanced_at": "2026-11-01T10:36:59Z"
+   "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份；二次对账（2026-11-06 I-K 接管）：账本实为 6 份（justep-coherence 为 8 分卷），james-mill 账本仅 9/84 段系半成品、justep-coherence 分卷 114 段已填未 compose，两处已交本轮子代理补齐",
+   "advanced_at": "2026-11-06T10:40:20Z"
   },
   "k": {
    "phase": "translate",
    "claimed_by": "ses-FGHIJK-main-1103",
    "claimed_at": "2026-11-02T16:22:17Z",
-   "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务），依据 tasks/k/ 36 json state=cleared；对账补记（2026-11-06）：任务 36=cleared 22/s3_checked 4/done 10；NO_LEDGER 4＝AK-main-20261105 会话 11-04/05 所译 kant-science/kant-social-political/korean-buddhism/knowledge-analysis 无账本（ADR-0021 债，不补造留痕；done 10 条账本齐全）",
-   "advanced_at": "2026-11-01T17:44:45Z"
+   "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务）；对账补记（2026-11-06）：NO_LEDGER 4＝AK-main-20261105 会话所译 kant-science/kant-social-political/korean-buddhism/knowledge-analysis 无账本（ADR-0021 债，不补造留痕；done 10 条账本齐全）；二次对账（2026-11-06 I-K 接管）：任务 36=done 10/s3_checked 10/cleared 16（原记 cleared 22/s3_checked 4 已过时，6 条在 11-05 后推进至 s3）＋knowledge-acquaindescrip 账本 48/103 在途（本轮补齐中）",
+   "advanced_at": "2026-11-06T10:40:20Z"
   },
   "l": {
    "phase": "translate",
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-05T20:22:06Z"
+ "updated_at": "2026-11-06T10:40:37Z"
 }
