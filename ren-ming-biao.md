@@ -1129,6 +1129,31 @@
 | John von Neumann | — | 冯·诺伊曼（John von Neumann） | schema | 学界惯例（数学与计算机通行汉译） | 2026-11-06 |
 | John Corcoran | — | 保留英文（无通行汉名） | schema | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Paul Rosenbloom | — | 保留英文（无通行汉名） | schema | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Henri Poincaré | — | 庞加莱（Henri Poincaré） | spacetime-convensimul | 学界惯例（数学物理学界通行汉译） | 2026-11-06 |
+| Hans Reichenbach | — | 赖欣巴哈（Hans Reichenbach） | spacetime-convensimul | 学界惯例（科学哲学通行汉译；亦作“莱欣巴哈”） | 2026-11-06 |
+| Adolf Grünbaum | — | 格吕恩鲍姆（Adolf Grünbaum） | spacetime-convensimul | 学界惯例（科学哲学通行汉译） | 2026-11-06 |
+| David Malament | — | 马拉门特（David Malament） | spacetime-convensimul | 学界惯例（时空哲学通行汉译） | 2026-11-06 |
+| Wesley Salmon | — | 萨蒙（Wesley Salmon） | spacetime-convensimul | 学界惯例（科学哲学通行汉译） | 2026-11-06 |
+| Michael Redhead | — | 雷德黑德（Michael Redhead） | spacetime-convensimul | 学界惯例（科学哲学通行汉译） | 2026-11-06 |
+| Max Jammer | — | 贾默（Max Jammer） | spacetime-convensimul | 学界惯例（物理学史通行汉译） | 2026-11-06 |
+| Hendrik Lorentz | — | 洛伦兹（H. A. Lorentz） | spacetime-convensimul | 学界惯例（物理学通行汉译） | 2026-11-06 |
+| Hermann Minkowski | — | 闵可夫斯基（Hermann Minkowski） | spacetime-convensimul | 学界惯例（物理学通行汉译） | 2026-11-06 |
+| Arthur Eddington | — | 爱丁顿（Arthur Eddington） | spacetime-convensimul | 学界惯例（物理学通行汉译） | 2026-11-06 |
+| Percy Bridgman | — | 布里奇曼（Percy Bridgman） | spacetime-convensimul | 学界惯例（物理学与科学哲学通行汉译） | 2026-11-06 |
+| John Winnie | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Gerald Feinberg | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Fred Pirani | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Hans Ohanian | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Alan Macdonald | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Max Zangari | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Domenico Giulini | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Hanoch Ben-Yami | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Peter Havas | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Sahotra Sarkar | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Robert Rynasiewicz | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Mauro Mamone Capria | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Brian Ellis | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
+| Peter Bowman | — | 保留英文（无通行汉名） | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Sharpe, Johannes | — | 约翰·夏普 | alyngton | SUMMARY 定名沿用（牛津实在论者） | 2026-11-06 |
 | Wilkinson, Martin | — | Wilkinson | organ-donation | ADR-0022：无通行汉名者保留英文（词条作者，H1 随 SUMMARY） | 2026-11-06 |
 | Wilkinson, Stephen | — | Wilkinson | organ-donation | ADR-0022：无通行汉名者保留英文（词条作者；正文 “S. Wilkinson” 同） | 2026-11-06 |

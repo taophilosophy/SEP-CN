@@ -77,6 +77,9 @@
 | juridicalisation of politics | — | 政治的司法化 | law-ideology | 学界惯例（作者 Sypnowich 自铸术语，直译+括注）；凭证 2026-11-03 | 2026-11-03 |
 | method of exhaustion | — | 穷竭法 | 语料回收（mathematics-inconsistent 首译） | 数学史界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | mathematical pluralism | — | 数学多元主义 | 语料回收（mathematics-inconsistent 首译） | 数学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| humility | — | 谦卑 | modesty-humility | 学界通行译法（与 modesty“谦逊”区分；凭证 2026-11-06） | 2026-11-06 |
+| intellectual humility | — | 智识谦卑 | modesty-humility | 学界通行译法（认识论语境；凭证 2026-11-06） | 2026-11-06 |
+| modesty | — | 谦逊 | modesty-humility | 学界通行译法（与 humility“谦卑”区分；凭证 2026-11-06） | 2026-11-06 |
 | Methodology of Scientific Research Programmes (MSRP) | — | 科学研究纲领方法论 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Molyneux's problem | — | 莫利纽克斯问题 | SUMMARY 定名（m/molyneux-problem.md） | 学界惯例（SUMMARY 定名沿用；知觉哲学史通行）；凭证 2026-11-06 | 2026-11-06 |
 | modus significandi | — | 意谓方式 | 语料回收（marsilius-inghen 首译） | 中世纪语法/逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -1349,7 +1352,7 @@
 | psychosocial harms | — | 心理社会伤害 | organ-donation | 学界惯例（医学文献 psychosocial 通行“心理社会”；凭证 2026-11-06） | 2026-11-06 |
 | vicarious harm | — | 替代性伤害 | organ-donation | 学界惯例（Feinberg 伤害理论中译；凭证 2026-11-06） | 2026-11-06 |
 | substituted judgment | — | 替代判断 | organ-donation | 学界惯例（生命伦理学与法学通行，亦作“替代决策”；凭证 2026-11-06） | 2026-11-06 |
-| competence | — | 行为能力 | organ-donation | 学界惯例（法学通译，与 decision-making capacity“决策能力”相区分；凭证 2026-11-06） | 2026-11-06 |
+| competence（医疗与法律语境） | — | 行为能力 | organ-donation | 学界惯例（法学通译，与 decision-making capacity“决策能力”相区分；凭证 2026-11-06） | 2026-11-06 |
 | prioritarian | — | 优先主义 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
 | social value | — | 社会价值 | organ-donation | 学界惯例（通行；凭证 2026-11-06） | 2026-11-06 |
 | Restoration Argument | — | 恢复论证 | organ-donation | 构词直译（本词条命名论证） | 2026-11-06 |
@@ -1364,3 +1367,46 @@
 | welfare rights | — | 福利权利 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
 | eclecticism | — | 折衷主义 | johann-sturm | 学界通行（早期近代哲学史；施图尔姆《折衷哲学》） | 2026-11-06 |
 | sine qua non cause | — | 必要条件因（sine qua non；正文保留拉丁语） | johann-sturm | 中世纪与早期近代因果理论通行 | 2026-11-06 |
+| conventionality of simultaneity | — | 同时性的约定性 | spacetime-convensimul | SUMMARY 词条定名；学界通行（Reichenbach–Grünbaum 论题） | 2026-11-06 |
+| simultaneity | — | 同时性 | spacetime-convensimul | 学界惯例（相对论与时间哲学通行） | 2026-11-06 |
+| synchrony / synchronization | — | 同步 | spacetime-convensimul | 学界惯例（钟表设定语境；与“同时性”相别） | 2026-11-06 |
+| standard synchrony | — | 标准同步 | spacetime-convensimul | 学界惯例（ε=1/2 情形；亦作“标准同时性”） | 2026-11-06 |
+| one-way speed of light | — | 单向光速 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| causal connectibility | — | 因果可联接性 | spacetime-convensimul | 本册首译裁定（Malament 术语；亦作“因果可连接性”） | 2026-11-06 |
+| inertial frame | — | 惯性系 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| inertial observer | — | 惯性观察者 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| frame of reference | — | 参照系 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| equivalence relation | — | 等价关系 | spacetime-convensimul | 学界惯例（数学通行） | 2026-11-06 |
+| equivalence class | — | 等价类 | spacetime-convensimul | 学界惯例（数学通行） | 2026-11-06 |
+| universal relation | — | 普适关系 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| light cone | — | 光锥 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
+| null cone | — | 零锥（亦作“类光锥”） | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
+| half-null-cone | — | 半零锥 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| timelike trajectory | — | 类时轨迹 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
+| spacelike / lightlike | — | 类空／类光 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
+| tachyon | — | 快子 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| bradyon | — | 慢子 | spacetime-convensimul | 学界惯例（物理学通行，与快子相对） | 2026-11-06 |
+| spinor | — | 旋量 | spacetime-convensimul | 学界惯例（数学物理通行） | 2026-11-06 |
+| Dirac equation | — | 狄拉克方程 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| time dilation | — | 时间膨胀 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
+| local time | — | 地方时 | spacetime-convensimul | 学界惯例（洛伦兹理论通行） | 2026-11-06 |
+| Versuch theory | — | 《尝试》理论（洛伦兹 1895 论文 Versuch 简称） | spacetime-convensimul | 构词直译（德文 Versuch=尝试） | 2026-11-06 |
+| isometry | — | 等距（映射） | spacetime-convensimul | 学界惯例（几何学通行） | 2026-11-06 |
+| foliation | — | 叶状剖分 | spacetime-convensimul | 学界惯例（微分几何“叶状结构”之动词义） | 2026-11-06 |
+| inhomogeneous Lorentz transformations | — | 非齐次洛伦兹变换 | spacetime-convensimul | 学界惯例（物理学通行；即庞加莱变换） | 2026-11-06 |
+| Poincaré transformations | — | 庞加莱变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| Galilean transformations | — | 伽利略变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| scale transformation | — | 标度变换 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |
+| temporal reflection | — | 时间反演 | spacetime-convensimul | 学界惯例（物理学通行；t→−t 反射义） | 2026-11-06 |
+| temporal orientation | — | 时间取向 | spacetime-convensimul | 学界惯例（时空哲学通行） | 2026-11-06 |
+| time-orthogonal coordinates | — | 时间正交坐标 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| operational definition | — | 操作定义 | spacetime-convensimul | 学界惯例（科学哲学通行） | 2026-11-06 |
+| thought experiment | — | 思想实验 | spacetime-convensimul | 学界惯例（科学哲学通行） | 2026-11-06 |
+| astrology | — | 占星术 | spacetime-convensimul | 学界惯例（通行） | 2026-11-06 |
+| horoscope | — | 占星命盘 | spacetime-convensimul | 学界惯例（占星术通行） | 2026-11-06 |
+| slow clock transport | — | 慢钟搬移（slow-transport 缓慢搬移） | spacetime-convensimul | 本册首译裁定（transport 取“搬移”） | 2026-11-06 |
+| pseudoforce | — | 赝力 | spacetime-convensimul | 学界惯例（物理学通行“赝”；亦作“伪力”） | 2026-11-06 |
+| ε-notation | — | ε 记号 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| light-signal method | — | 光信号法 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| conic hypersurface | — | 锥形超曲面 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| Minkowski spacetime | — | 闵可夫斯基时空 | spacetime-convensimul | 学界惯例（物理学通行） | 2026-11-06 |

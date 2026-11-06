@@ -2,7 +2,7 @@
   "slug": "organ-donation",
   "kind": "retranslate",
   "zh_doc": "o/organ-donation.md",
-  "state": "drafted",
+  "state": "s1_checked",
   "steps": [
     {
       "step": "direction",
@@ -24,6 +24,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T15:12:41Z",
       "evidence": "draft（ADR-0021 账本协议，主会话直译双版）：lq.py init 117 段（body=115+oir=1+ack=1；文献 95 条照录，refs_kind=modern）→ script/_build_od_p1-p4 双版填充 → build_od.py 守恒 HARD=0（软标旗 2：段17 提案清单机械段、段116 OIR 机械段）→ lq compose 38,604 字符 → od_postfix（H1 空行 + 相关词条 1 项未匹配对齐 SUMMARY 既定名「伦理学和政治哲学中的自主权」）→ italic_to_bold_cjk 22 行 → 四检 style 0 / math 0 / summary 0 / academic 0 硬错误；prose 25 条告警（weak-verb 9、de-chain 9、long-sentence 4、passive-bei 2、as-one 1）留 s2 逐条处理。术语登记 34 条（器官获取/推定同意/选择退出/身后利益/恢复论证等），人名登记 4 条（Wilkinson 三同姓异人 + den Hartogh，均按 ADR-0022 保留英文）。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T15:43:55Z",
+      "evidence": "s1 一校（MTPE 顺序，账本 step1 为忠实底逐段核销）：①幻觉/漏译/增译——逐段对照 yuanwen 镜像；数字多集合比对 8 处差异全属形态（标题编号 1./2./3. 去点、源文「43, 101」「10, 093」千分位空格归一、1960s→20 世纪 60 年代），无事实漂移；脚注键闭环 lq check HARD=0，正文引用 75 键对文末 95 条定义，21 条孤立定义为现制 References（引用注释）形态（§6.5② 同构，非事故），注记字面 [^key] 为转换器契约文字照录；②三处修正：段35 代词（「我的器官」→「其器官」）、段42 「良心拒服者」→「良心拒绝者」（非兵役语境）、段73 交叉引用改 SUMMARY 既定名「医疗保健的公正与获取」；③术语——check_terms 定点 0 缺译、硬错误 0；competence 与 jury-theorems 既有行同键异译，改键为「competence（医疗与法律语境）」消解；④源文两处笔误（段40「systems To restate」缺句号、段67「fewer … that one might think」应为 than）按语义照录，不改源义；⑤H1/pubinfo 与 SUMMARY、baseline 版本钉一致（2011-10-28 首发 / 2026-05-20 实质修订）。"
     }
   ],
   "blockers": [],
