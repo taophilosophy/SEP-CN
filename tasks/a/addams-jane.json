@@ -2,7 +2,7 @@
   "slug": "addams-jane",
   "kind": "retranslate",
   "zh_doc": "a/addams-jane.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-06T00:28:04Z",
       "evidence": "独立复审（接管会话，非初译 actor）：r1 实修逐项 grep 断言在位（附议其提名/有处境的（situated）/一只袖子上的料子各 1，混杂串清零）；守恒五项复验含新增缩写键维度（段落/年份序列/marker 顺序/defs 键集/缩写键 17 全部一致）；六检复跑 style 0、academic 0 硬错误、math 0 缺失；prose 88 维持 r1 豁免分判。关键段抽读：赫尔馆项目清单段、托尔斯泰会面引文、Lincholn 横向进步引文，与源文一致。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T00:28:21Z",
+      "evidence": "终审验收：终稿结构完整（含补入的 Primary 缩写书目 17 条），全库 check_all 七项门禁全绿（2026-11-06 本地，推送后 CI 为最终裁判）。r2 复审确认无新增问题。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T00:28:21Z",
+      "evidence": "批次收口：r3 终审通过后置 done；凭证链九步完整（含 r1 追改订正），提交链见 git log。"
     }
   ],
   "blockers": [],
