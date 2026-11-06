@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 00:45（UTC）
+生成时间：2026-11-06 00:57（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1002|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|101|
-|在途（drafted 起、done 前）|270|
+|已完成（done）|102|
+|在途（drafted 起、done 前）|269|
 |阻塞|0|
 
 ## 任务状态分布
@@ -26,16 +26,16 @@
 |cleared|177|
 |drafted|2|
 |s1_checked|1|
-|s3_checked|89|
+|s3_checked|88|
 |r1_reviewed|1|
-|done|101|
+|done|102|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|40|
-|B|62|62|62|0|
+|B|62|62|62|1|
 |C|172|172|172|0|
 |D|92|92|92|11|
 |E|99|99|99|0|
@@ -124,7 +124,6 @@
 |bolzano|retranslate|cleared|task_ops 2026-11-01|
 |bolzano-logic|retranslate|cleared|task_ops 2026-11-01|
 |bonaventure|retranslate|cleared|task_ops 2026-11-01|
-|boolalg-math|retranslate|s3_checked|b组翻译代理 2026-11-01|
 |boole|retranslate|cleared|task_ops 2026-11-01|
 |bosanquet|retranslate|cleared|task_ops 2026-11-01|
 |boundary|retranslate|cleared|task_ops 2026-11-01|
