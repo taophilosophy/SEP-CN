@@ -620,6 +620,13 @@
 | Douglas Hofstadter | — | 侯世达 | reasoning-analogy | 学界通行汉译（《哥德尔、艾舍尔、巴赫》作者） | 2026-11-05 |
 | Roy Harrod | — | 哈罗德 | reasoning-analogy | 学界通行汉译（经济学家） | 2026-11-05 |
 | Pateman, Carole | — | 卡罗尔·帕特曼 | c/contractarianism 首译 | 学界通行汉译（《性契约》中译本作者）；凭证 2026-11-07 | 2026-11-07 |
+| Rutherforth, Thomas | — | 托马斯·拉瑟福思 | cockburn | 学界惯例（剑桥神学家与道德哲学家，音译转写；无通行汉名）；凭证 2026-11-07 | 2026-11-07 |
+| Holdsworth | — | 霍尔斯沃思 | cockburn | 学界惯例（音译转写；源文仅称 Dr. Holdsworth，未见名与生卒）；凭证 2026-11-07 | 2026-11-07 |
+| Birch, Thomas | — | 托马斯·伯奇 | cockburn | 学界通行汉译（18 世纪传记编纂者，考克本《著作集》编者）；凭证 2026-11-07 | 2026-11-07 |
+| Burnet, Thomas | — | 托马斯·伯内特 | cockburn | 学界通行汉译（《地球神圣理论》作者，洛克《人类理解论》的匿名批评者候选）；凭证 2026-11-07 | 2026-11-07 |
+| Connor, Margaret | — | 玛格丽特·康纳 | cockburn | 学界惯例（考克本研究者，音译；脚注出现）；凭证 2026-11-07 | 2026-11-07 |
+| Kelley, Anne | — | 安妮·凯利 | cockburn | 学界通行汉译（《Catharine Trotter》作者，考克本研究者）；凭证 2026-11-07 | 2026-11-07 |
+| Trotter, Catharine | — | 凯瑟琳·特洛特 | cockburn | 学界惯例（考克本婚前名，即 Cockburn, Catharine Trotter）；凭证 2026-11-07 | 2026-11-07 |
 
 ## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
 
