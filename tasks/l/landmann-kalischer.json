@@ -2,7 +2,7 @@
   "slug": "landmann-kalischer",
   "kind": "retranslate",
   "zh_doc": "l/landmann-kalischer.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-04T16:26:01Z",
       "evidence": "s3 三校：check_style 0（13 处 italic-cjk 中文斜体改平文——粗体与守恒硬门冲突，同 lorenzo-valla 先例）；check_academic --strict OK；check_math 0；check_prose 复跑 16 项全为引文豁免"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:16:00Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+转换器注记），节数 8=8；marker 16=16（补回模板占位 [^key] 后）；defs 键集全等；数字 1 段差异正当（50ᵗʰ birthday→五十寿辰）；正文 4 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:16:00Z",
+      "evidence": "r2 语言与登记：check_prose 1 告警（第 181 行引块 de-chain，原文为 LS 349 直引，按 ADR-0020 引文豁免）；人名兰德曼-卡利舍尔/德索/格奥尔格/施皮特勒/迈农均已在册；现代学者保留英文"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:16:03Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 1 告警判豁免；check_math 0/0/0；defs/marker/节数三齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:16:04Z",
+      "evidence": "done：九步齐，成稿 4 节 289 行，参考文献 A/B 两子节照录"
     }
   ],
   "blockers": [],
