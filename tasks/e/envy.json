@@ -2,7 +2,7 @@
   "slug": "envy",
   "kind": "retranslate",
   "zh_doc": "e/envy.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T20:01:55Z",
       "evidence": "三校：check_style 0；check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T14:25:20Z",
+      "evidence": "r1 段级核销：源 16 节 vs 中 15 节，差额为源端空标题 '## Notes（原文脚注）'（转换器产物、无内容，核为无须镜像）；71 个脚注键逐字符全等——修正 6 处 ASCII 撇号键（d'arms-2000/2002/2005、ben-ze'ev-1990/1992）为源端’；年份集合一致、无重复文献定义"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T14:25:20Z",
+      "evidence": "r2 句级复读：check_prose 30→9；拆长句 9 处、被字句 3 处、弱动词 2 处、去'的'链 15 处；余 9 条为定义句与引文内'的'密度（重写会损及 Protasi/Young 定义原意），按 ADR-0020 豁免并逐条记于本 evidence"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T14:25:27Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK、结构完整（3 节+3.1-3.3+尾节）；脚注键 71/71 全等；账本缺档旧管线债务登记 qa-findings §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T14:25:27Z",
+      "evidence": "终稿验收：六道全过；脚注键字符级修正有据；de-chain 残余 9 条豁免有据"
     }
   ],
   "blockers": [],

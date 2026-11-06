@@ -2,7 +2,7 @@
   "slug": "holes",
   "kind": "retranslate",
   "zh_doc": "h/holes.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T16:16:44Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "laneA-holes",
+      "at": "2026-11-06T14:11:56Z",
+      "evidence": "账本 14/14 段（源 body 13 + oir 1，缺段 5 已补、原 4 个列表项并为 1 段），lq check 输出「OK 守恒校验通过：14 段」：逐段 source 与 yuanwen 逐字符一致、43 处 [^key] 脚注键守恒、$ 0 处、** 0 处；step1≠step2 14/14；SOFT 仅 1 条（段3 整句引文外层斜体由中文引号承担，对齐 al-khunaji 先例）；compose 后 italic_to_bold_cjk 转 10 行，成稿 22267 字节"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "laneA-holes",
+      "at": "2026-11-06T14:13:00Z",
+      "evidence": "对照 yuanwen/h/holes.md 逐段核销 14 段：文内 43 处 [^key] 引用与源逐字符一致（en 亦 43，zh/en 序列同为 True）；孤立定义 6 条（casati-2021/ende-1979/geach-1968/hestevold-2020/moltmann-2019/simons-1987）为源文同构，非事故；H2 节集合 6 节对齐（源无致谢节，故不设 ## 致谢）；s1 实修 4 处：段3 引文误译「不，是个洞」→「不，不是洞」、段4「孔洞贯穿上下」→「贯穿物体」、段10-2 甜甜圈移动句重排、段10-6「同一个意义」→「其意义与…相同」；人名/年代 Ende (1979/1983: 19)、Hofstadter & Dennett 1981: 6–7、Simons 1987: 308、Hestevold 2020 第 6 章、O’Shaughnessy 2000: 333 全部核销；相关词条 8 项全部命中 SUMMARY 登记形（0 项英文残留）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "laneA-holes",
+      "at": "2026-11-06T14:14:24Z",
+      "evidence": "check_prose.py h/holes.md --strict：首轮 5 项告警（de-chain 4、weak-verb 1），逐条改账本 step2 后 recompose，中途复现 de-chain 1 项（段10-5「的」三连）再修；终态 {\"files\":1,\"issues\":[]} 0 项，无豁免；改动点：段4 三种洞型改写、段6-3 单句、段6-4 流体动力学句、段10-5 甜甜圈聚集体句、段13 末句「作出决定」→「拿定主意」；lq check 仍「OK 守恒校验通过：14 段」"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "laneA-holes",
+      "at": "2026-11-06T14:17:34Z",
+      "evidence": "三检全清零（末次 compose 后复跑）：check_style.py --docs h/holes.md --strict → {\"files\":1,\"issues\":[]} exit 0；check_academic.py --docs h/holes.md --strict → OK：学术规范无硬错误 exit 0（版本事实行 1996 年 12 月 5 日/2025 年 5 月 12 日与 baseline pubinfo 一致，References（引用注释）照录说明、学术工具四行、相关词条八项齐备）；check_math.py holes → checked 1/formulas 0/missing 0/unbalanced 0 exit 0；check_prose 复核 0 项；lq check 14/14 段守恒（SOFT 1 条已留痕）；成稿 22267 字节；现存孤立定义 6 条与注记字面 [^key] 1 处系源文同构（现制豁免，r3 复核项）"
     }
   ],
   "blockers": [],
