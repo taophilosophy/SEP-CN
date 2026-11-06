@@ -214,6 +214,7 @@ segments:
 
 1. SUMMARY 行含转义括号 `\[...\]` 时 `summary_title` 截断 H1——s1 手工补全（kokugaku-school 实例）。
 2. 关联词条 NOTE 项（未匹配者）留 s1 人工复核对齐 SUMMARY 登记形；无 SUMMARY 行者保留中文译名，待管线挂链。
+3. **map_related 同题误配**：相关词条英文名若与另一长题词条的 en 片段同名（如 metaphysics 撞上 al-farabi-metaphysics 的 title「metaphysics」），索引取先出现者，会输出「法拉比的形而上学」；s1 须逐条核对 SUMMARY 主词条名并手工修正（scholz 实例，2026-11-07）。
 3. 脚注键/`$`/`**` 计数守恒是硬门——勿在 step2 加粗源文斜体词（`**` 计数漂移即 HARD）。
 
 **前批账本对齐手术**（hare 先例）：旧账本按“compose 补标题”约定制作会 check 失败——补标题段（kind=body、step1=step2 机械段，SOFT 可过）+OIR 样板段（kind=oir）+ack 段改 kind，id 按文档序重编号。
