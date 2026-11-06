@@ -520,57 +520,57 @@ segments:
     source: |-
       One apparent problem with this suggestion is that the satisfaction of the antecedent does not seem to give the subject a reason to think the belief is true. The problem is clear if we assume, as acquaintance theorists generally do, that a belief can be justified for a subject only if the proposition believed is made probable by the subject’s evidence, or by that with which the subject is acquainted. The mere fact that I experience one of these shades fails to make probable, indeed, rules out, that I experience the other, and so gives me no justification for believing that I experience the other. Here’s a second attempt:
     step1: |-
-
+      这一建议有一个明显的困难：前件得到满足，似乎并没有给主体任何理由去认为该信念为真。若按亲知理论家通常的假设——一个信念对某主体有证成，只有在所信命题由该主体的证据、或由该主体所亲知者使之具有概率——困难就看得很清楚。我经验到这些色调中的一个这一简单事实，非但没有使我相信我经验到另一个具有概率，反而排除了它，因而对我相信“我经验到另一个”毫无证成可言。且有第二条尝试：
     step2: |-
-
+      此议有一显而易见的难处：纵使前件满足，主体似未因此得到任何理由去认定该信念为真。假如依亲知理论家的一贯假设——信念之对主体有证成，端在所信命题由主体的证据、或由主体所亲知者使之具概率——难处便昭然若揭。我经验到这几个色调中的某一个，这一单纯事实非但不能使我“经验到另一个”为可概然，恰恰将它排除，于是对我信“我经验到另一个”全无证成。再看第二次尝试：
   - id: 65
     kind: body
     source: |-
       1. If one is directly aware of *x*’s being *F*, but it seems to oneself that *x* is *G* or one is inclined to believe that *x* is *G*, then one thereby has at least some defeasible justification for believing that *x* is *G*.
     step1: |-
-
+      1. 如果一个人直接觉察到 *x* 是 *F*，而于己看来 *x* 似乎是 *G*、或倾向于相信 *x* 是 *G*，那么他因此至少拥有一些可挫败的证成去相信 *x* 是 *G*。
     step2: |-
-
+      1. 若人直接觉察到 *x* 为 *F*，而于己似觉 *x* 为 *G*、或对信 *x* 为 *G* 有所倾向，则人凭此至少握有一些可废止的证成，去相信 *x* 为 *G*。
   - id: 66
     kind: body
     source: |-
       The problem with this suggestion is that acquaintance or direct awareness doesn’t seem to be doing the crucial epistemic work. If the principle is true, why not hold some version of “phenomenal conservativism” in epistemology, the position that a propositional awareness—a seeming that *x* is *G* or an inclination to believe that *x* is *G*—is a source of defeasible justification for believing that *x* is *G*? If so, then the acquaintance or direct awareness requirement should be dropped from (2) and there would still be the justification. Here is perhaps a more promising strategy:
     step1: |-
-
+      这一建议的困难在于，亲知或直接觉察似乎没有承担那关键的认知工作。如果这条原则为真，为何不采取知识论中的某种“现象保守主义”，即认为命题性觉察——看似 *x* 是 *G*，或倾向于相信 *x* 是 *G*——本身就是相信 *x* 是 *G* 之可挫败证成的来源？若如此，则（2）中的亲知或直接觉察要求就应被去掉，而证成依然在。也许更有希望的策略如下：
     step2: |-
-
+      此议之病，在于亲知、直接觉察并未担起那桩干系紧要的认知工作。设若此原则成立，何不径取知识论中的某种“现象保守主义”——谓命题性觉察（看似 *x* 为 *G*，或倾向信 *x* 为 *G*）本身就是相信 *x* 为 *G* 的可废止证成之来源？果真如此，（2）里的亲知或直接觉察条件便当删去，而证成分毫不减。或者另有较为可观的一条策略：
   - id: 67
     kind: body
     source: |-
       1. If one is directly aware of *x*’s being *F*, and *x*’s being *F* makes it probable for one that it is *G*, then one thereby has at least some defeasible justification for believing that *x* is *G*.
     step1: |-
-
+      1. 如果一个人直接觉察到 *x* 是 *F*，而 *x* 是 *F* 使之对于他看来有概率成为 *x* 是 *G*，那么他因此至少拥有一些可挫败的证成去相信 *x* 是 *G*。
     step2: |-
-
+      1. 若人直接觉察到 *x* 为 *F*，而“*x* 为 *F*”之于他能使“*x* 为 *G*”具概率，则人凭此至少握有一些可废止的证成，去相信 *x* 为 *G*。
   - id: 68
     kind: body
     source: |-
       We get different versions of the acquaintance approach to fallible beliefs depending on what is required for something to “make probable *for one*”. Acquaintance theorists with strong internalist inclinations are likely to insist that awareness of the fact that *p* cannot justify one in believing that *p* unless the subject is in some way also aware of the fact’s making it probable that *p*.
     step1: |-
-
+      关于可错信念的亲知进路，会得到不同的版本，取决于我们认为“对一个人而言使具有概率”要求什么。有强烈内在论倾向的亲知理论家多半会坚持：除非主体以某种方式也觉察到事实“使之具有概率 *p*”这一层事实，对 *p* 这一事实的觉察就不能证成一个人相信 *p*。
     step2: |-
-
+      可错信念的亲知进路因而会分成若干版本，分歧全在“对某人而言使之具有概率”究竟所求为何。具强烈内在论倾向的亲知理论家多半要力主：主体若不以某种方式也觉察到“该事实使 *p* 具概率”这一点，则对 *p* 这一事实的觉察便不能证成他相信 *p*。
   - id: 69
     kind: body
     source: |-
       Reflection on some examples suggests the following problem with this principle. An experience’s being a mere itch does not make it probable that it is a pain, for its being a mere itch rules out its being a pain; and an experience’s being indeterminately either an itch or a pain does not make it probable that it is a pain, for it might just as probably be an itch. Or suppose that I am directly aware of a phenomenally red patch in my visual field, and on the basis of this I form the false belief that it is, say, pink; or that I am directly aware of a determinate shade red₁, but I form the false belief that the patch is red₂. Again, principle (3) does not apply: something’s being red cannot make it probable that it is pink, for there are many other shades of red; something’s being red₁ cannot make it probable that it is red₂, for being one determinate shade rules out being the other. (See Huemer 2007 for an argument against (2) and (3) along these lines, though one that employs some different examples.)
     step1: |-
-
+      对若干例子的反思提示这一原则有如下困难。一个经验仅仅是痒，并不使它成为疼痛具有概率，因为它仅仅是痒就排除了它是疼痛；而一个经验无确定地或是痒或是疼痛，也不使它成为疼痛具有概率，因为它同样可以是痒。又设想：我直接觉察到我视场中有一块现象性的红色斑块，并据此形成一个假信念，认为它是——比如说——粉红色；或者我直接觉察到一个确定的红色调 red₁，却形成一个假信念，认为那块是 red₂。这里原则（3）依然不适用：一个东西是红的，并不能使它呈粉红具有概率，因为还有许多少数的红色；一个东西是 red₁，并不能使它为 red₂ 具有概率，因为一个确定的色调就排除了另一个。（关于沿此思路对（2）与（3）的反驳论证，参见 Huemer 2007，惟其所用例证有所不同。）
     step2: |-
-
+      细审若干例证，可见此原则另有难处。一经验仅只是痒，便不使“它是疼痛”具概率——仅只是痒已排除它是疼痛；一经验浑圜不定、或痒或痛，同样不使“它是疼痛”具概率——它之为痒的概率未始较低。又设想：我直接觉察视场中有一块现象上红的斑，据此起了一个假信念，道它是——譬如——粉红；抑或我直接觉察到一个确定的色调 red₁，却误信那块是 red₂。原则（3）在这里依旧用不上：一物是红，不使“它是粉红”具概率，因为红的色调甚多；一物是 red₁，不使“它是 red₂”具概率，因为一个确定色调即排除另一个。（循此思路驳（2）与（3）的论证见 Huemer 2007，只是所施例证略有不同。）
   - id: 70
     kind: body
     source: |-
       The problem, however, might not be with principle (3) itself but with the sorts of features focused on (see Hasan 2013: section 3)[^hasan-2013]. There may be other features involved in such apparent cases of fallible foundational justification that do make probable the proposition believed. For example, consider the following principle, which is a specific version of (3):
     step1: |-
-
+      不过，问题也许不在原则（3）本身，而在所关注的那类特征（参见 Hasan 2013：第 3 节）[^hasan-2013]。在这类看似可错的基础证成场合中，或许牵涉其他特征，而它们确实使所信命题具有概率。例如，考虑下述原则，它是（3）的一个特殊版本：
     step2: |-
-
+      然而毛病或不在原则（3）自身，而在人们聚焦的那类特征（参见 Hasan 2013：第 3 节）[^hasan-2013]。于这类看似可错的基础证成之例，其间另有若干特征，倒确实使所信命题成为概然。试看下列原则，它不过是（3）的一则具体版本：
   - id: 71
     kind: body
     source: |-
