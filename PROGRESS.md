@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 00:37（UTC）
+生成时间：2026-11-06 00:45（UTC）
 
 ## 总览
 
@@ -26,7 +26,8 @@
 |cleared|177|
 |drafted|2|
 |s1_checked|1|
-|s3_checked|90|
+|s3_checked|89|
+|r1_reviewed|1|
 |done|101|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -67,7 +68,7 @@
 |adorno|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-judgment|retranslate|cleared|task_ops 2026-10-31|
 |aesthetic-testimony|retranslate|cleared|task_ops 2026-10-31|
-|aesthetics-18th-british|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
+|aesthetics-18th-british|retranslate|r1_reviewed|ABCDE-takeover-20261106 2026-11-06|
 |aesthetics-19th-romantic|retranslate|cleared|task_ops 2026-10-31|
 |aesthetics-cogsci|retranslate|cleared|task_ops 2026-10-31|
 |affirmative-action|retranslate|cleared|task_ops 2026-10-31|
