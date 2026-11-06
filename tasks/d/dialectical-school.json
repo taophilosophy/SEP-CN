@@ -2,8 +2,44 @@
   "slug": "dialectical-school",
   "kind": "retranslate",
   "zh_doc": "d/dialectical-school.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T20:54:35Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-06T23:13:25Z",
+      "evidence": "lq 账本流水线：120 段（body 116+oir 1+note 3）双版 step1/step2 反思两步落盘，守恒门通过（** 计数/脚注键/长度比全过；软旗=机械段同文 6 处与斜体转书名号留痕），compose 组装 27169 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-06T23:14:10Z",
+      "evidence": "对照核销：五维对账（正文 marker 46 含 note 3 与源全等；defs 66 键集全等；粗体缩写键 0:0；节数差 1=源 Notes 双节头合并为脚注节，登记豁免；段落 120:120）+ References 节名汉化为参考文献 + 相关词条 Megaric School→麦加拉学派（SUMMARY 无行，已登术语册）人工复核 + Academic Tools 四行制保留（同批 democritus 家法）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-06T23:15:10Z",
+      "evidence": "四检：check_style --strict 0 违例；check_academic --strict OK；check_math missing/unbalanced 0；check_prose 21→实修 20（de-chain 15/长句 2 拆分/被动 2/weak-verb 1），余 2=爱比克泰德与西塞罗引文块内部按 ADR-0020 豁免留痕；italic-CJK→加粗 2 处（性质/OIR 题名）；cjk-spacing 42 处数字间距；Diodorus 正文人名改从词汇表既有裁定（狄奥多罗斯·克罗诺斯，勿以出生地替代绰号），SUMMARY 题名行不动"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "D-main-20261107",
+      "at": "2026-11-06T23:16:18Z",
+      "evidence": "登记与门禁：术语册 15 行（辩证学派/主论证/收割者论证/实质蕴涵/严格蕴涵/二值原则/条件句/师承/宗派/后随关系/麦加拉学派等）+ 人名册 26 行（狄奥多罗斯·克罗诺斯/欧布里德/菲洛/克吕西波/塞诺沿用等；Megaric School 与 Sedley 两行与并行会话行合并去重）；check_terms 硬错误 0；check_all 七项全绿"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:09:48Z",
   "version_pin": {

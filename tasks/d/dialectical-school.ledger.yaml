@@ -1,0 +1,972 @@
+version: 1
+slug: dialectical-school
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      The ‘Dialectical School’ denotes a group of early Hellenistic philosophers that were loosely connected by philosophizing in the — Socratic — tradition of Eubulides of Miletus and by their interest in logical paradoxes, propositional logic and dialectical expertise. Its two best-known members, Diodorus Cronus and Philo the Logician, made ground-breaking contributions to the development of theories of conditionals and modal logic. Philo introduced a version of material implication; Diodorus devised a forerunner of strict implication. Each developed a system of modal notions that satisfies the basic logical requirements laid down by modern standard modal theories. In antiquity, Diodorus Cronus was famous for his so-called Master Argument, which aims to prove that only the actual is possible.
+    step1: |-
+      “辩证学派”指早期希腊化时期的一群哲学家，他们以米利都的欧布里德（Eubulides of Miletus）的——苏格拉底式的——传统从事哲学活动，并对逻辑悖论、命题逻辑与论辩技艺抱有兴趣，由此松散地联结在一起。其中最负盛名的两位成员——逻辑学家菲洛（Philo the Logician）与卡里亚雅苏斯的狄奥多罗斯（Diodorus Cronus）——为条件句理论与模态逻辑的发展做出了开创性的贡献。菲洛引入了一种实质蕴涵的版本；狄奥多罗斯则设计出了严格蕴涵的先声。两人各自发展了一套模态概念体系，满足现代标准模态理论所奠定的基本逻辑要求。在古代，卡里亚雅苏斯的狄奥多罗斯以其所谓的主论证（Master Argument）而闻名，该论证旨在证明：只有现实者才是可能的。
+    step2: |-
+      “辩证学派”指早期希腊化时期的一群哲学家。他们上承米利都的欧布里德（Eubulides of Miletus）的——苏格拉底式的——传统而治哲学，又共同关心逻辑悖论、命题逻辑与论辩技艺，由此结成一种松散的联结。其成员中最负盛名的两位——逻辑学家菲洛（Philo the Logician）与卡里亚雅苏斯的狄奥多罗斯（Diodorus Cronus）——为条件句理论与模态逻辑的发展做出了开创性贡献：菲洛引入了一种实质蕴涵的版本；狄奥多罗斯则设计出严格蕴涵的先声。两人各自发展出一套模态概念体系，均满足现代标准模态理论奠定的基本逻辑要求。在古代，卡里亚雅苏斯的狄奥多罗斯以其所谓的主论证（Master Argument）闻名；该论证旨在证明：唯有现实者才是可能的。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Historical and biographical information
+    step1: |-
+      ## 1. 历史与生平信息
+    step2: |-
+      ## 1. 历史与生平信息
+  - id: 3
+    kind: body
+    source: |-
+      The name ‘Dialectical School’ is used for a group of philosophers active from the later 4th to the mid 3rd centuries BC who are referred to as members of the Dialectic sect (*hairesis*) or as dialecticians (*dialektikoi*) in some later ancient sources (Diogenes Laertius [DL] 1.19). Together with the Megarics, Cyrenaics and Cynics, the Dialecticians count among the minor Socratic schools. Their main philosophical interest was in dialectical skill and accomplishment, including the development and resolution of logical paradoxes. They also made several important positive contributions to the development of propositional logic.
+    step1: |-
+      “辩证学派”这一名称用于指称活跃于公元前4世纪晚期至公元前3世纪中叶的一群哲学家；在一些较晚的古代文献中，他们被称为辩证宗派（*hairesis*）的成员，或被称为辩证家（*dialektikoi*）（第欧根尼·拉尔修 [DL] 1.19）。与麦加拉学派、昔勒尼学派和犬儒派一道，辩证家们属于次要的苏格拉底学派。他们主要的哲学兴趣在于论辩的技艺与成就，包括逻辑悖论的发展与解决。他们还为命题逻辑的发展做出了若干重要的积极贡献。
+    step2: |-
+      “辩证学派”这一名称用于指称活跃于公元前4世纪晚期至公元前3世纪中叶的一群哲学家；在一些较晚的古代文献中，他们或被称为辩证宗派（*hairesis*）的成员，或被称为辩证家（*dialektikoi*）（第欧根尼·拉尔修 [DL] 1.19）。与麦加拉学派、昔勒尼学派、犬儒派一道，辩证家属于次要的苏格拉底学派之列。其主要的哲学兴趣在论辩的技艺与成就，包括逻辑悖论的构造与化解。他们还为命题逻辑的发展做出了若干重要的积极贡献。
+  - id: 4
+    kind: body
+    source: |-
+      The Dialecticians were traditionally counted among the philosophers of the Megaric School, founded by Euclides of Megara, author of Socratic dialogues (Grote 1885, 1:140; M. Kneale 1937; Mates 1953; Prior 1955; W. C. Kneale and Kneale 1962, 117)[^grote-1885][^kneale-1937][^kneale-1962][^mates-1953][^prior-1955]. In antiquity, the best-known figure from the Megaric School was Stilpo, who, like Euclides, was a native of Megara. For reasons that will become clear, scholars now typically use ‘Mergaric’ as the adjective describing a philosophical grouping or position, while reserving ‘Megarian’ as an adjective describing an origin in city of Megara (the same distinction is marked in Ancient Greek). More recent scholarship has placed Diodorus and Philo in a Dialectical School, separate from the Megaric School (Sedley 1977, 75 followed by Bobzien 2011; Algra 1999, 47; Ebert 1991; Ebert 2008)[^algra-1999][^ebert-1991][^ebert-2008][^sedley-1977]. In fact, disagreement over the existence of a Dialectical Sect went back to antiquity. Diogenes Laertius holds that the Dialecticians are a separate ‘ethical’ sect, founded by Clinomachus, but tells us that an earlier historian, Hippobotus, does not think the Dialectical is a separate sect (DL 1.19).
+    step1: |-
+      在传统上，辩证家们被归入麦加拉学派的哲学家之列；该学派由麦加拉的欧克里德（Euclides of Megara）创立，后者是苏格拉底式对话的作者（Grote 1885, 1:140; M. Kneale 1937; Mates 1953; Prior 1955; W. C. Kneale and Kneale 1962, 117）[^grote-1885][^kneale-1937][^kneale-1962][^mates-1953][^prior-1955]。在古代，麦加拉学派最著名的人物是斯提尔波（Stilpo），他与欧克里德一样是麦加拉人。其中的缘由下文自明：学者们如今通常以“Megaric（麦加拉派）”一词作形容词，指哲学上的群体或立场，而以“Megarian（麦加拉的）”专指出身于麦加拉城者（古希腊语中同样标示这一区分）。较晚近的研究则将狄奥多罗斯与菲洛置于一个独立于麦加拉学派的辩证学派之中（Sedley 1977, 75，Bobzien 2011 随后采纳；Algra 1999, 47; Ebert 1991; Ebert 2008）[^algra-1999][^ebert-1991][^ebert-2008][^sedley-1977]。事实上，关于辩证宗派是否存在的分歧可以追溯到古代。第欧根尼·拉尔修认为，辩证家是一个单独的“伦理”宗派，由克利诺马科斯（Clinomachus）创立；但他同时告诉我们，更早的历史家希波博图斯（Hippobotus）并不认为辩证派是一个单独的宗派（DL 1.19）。
+    step2: |-
+      传统上，辩证家被归入麦加拉学派的哲学家之列。该学派由麦加拉的欧克里德（Euclides of Megara）创立，此人是苏格拉底式对话的作者（Grote 1885, 1:140; M. Kneale 1937; Mates 1953; Prior 1955; W. C. Kneale and Kneale 1962, 117）[^grote-1885][^kneale-1937][^kneale-1962][^mates-1953][^prior-1955]。古代麦加拉学派中最著名的人物是斯提尔波（Stilpo），与欧克里德一样，他也是麦加拉人。个中缘由下文自明：如今的学者通常用“Megaric（麦加拉派）”作形容词，指哲学上的群体或立场，而把“Megarian（麦加拉的）”留给指出身麦加拉城者的形容词（古希腊语同样标示这一区分）。较晚近的研究则把狄奥多罗斯与菲洛安置在一个独立于麦加拉学派的辩证学派里（Sedley 1977, 75，Bobzien 2011 随后采纳；Algra 1999, 47; Ebert 1991; Ebert 2008）[^algra-1999][^ebert-1991][^ebert-2008][^sedley-1977]。事实上，辩证宗派是否存在的分歧可上溯至古代。第欧根尼·拉尔修认为辩证家是一个单独的“伦理”宗派，由克利诺马科斯（Clinomachus）创立；但他同时告诉我们：更早的历史家希波博图斯（Hippobotus）并不认为辩证派是单独的宗派（DL 1.19）。
+  - id: 5
+    kind: body
+    source: |-
+      But the modern scholarly reason for positing the Dialectical School as separate from the Megaric School has four basic elements.
+    step1: |-
+      但是，将辩证学派设定为独立于麦加拉学派之物，其现代学理依据有四个基本要素。
+    step2: |-
+      而现代学理之所以把辩证学派设定为独立于麦加拉学派，其依据有四个基本要素。
+  - id: 6
+    kind: body
+    source: |-
+      1. We should distinguish a ‘lineage’ (*diadoche*) from a ‘sect’ (*hairesis*), which are the two main ways ancient historiographers grouped philosophers. The first is the genealogy of a philosopher in terms of teacher-student relationships. The second is a ‘school’ in the sense of set of philosophers with a shared core of doctrines, and some institutional connection, for example a series of scholarchs. Everyone agrees that Diodorus and Philo are in the lineage of Euclides of Megara.
+      2. There was a Megaric Sect, which included at least Euclides and Stilpo of Megara.
+      3. There was a Dialectical Sect, identified by 4th and 3rd century contemporaries, which was not just a phase of or part of the Megaric sect. It included Diodorus and Philo.
+      4. The Dialectical Sect was one of the ten ethical sects identified by Diogenes Laertius (DL 1.19).
+    step1: |-
+      1. 我们应当区分“师承”（*diadoche*）与“宗派”（*hairesis*），这是古代史家编组哲学家的两种主要方式。前者就师生关系给出一位哲学家的谱系。后者则是“学派”在如下意义上的用法：一群拥有共同核心学说的哲学家，再加上某种制度性关联，例如一脉相承的历任学长（scholarch）。所有人都同意，狄奥多罗斯与菲洛属于麦加拉的欧克里德的师承。
+    step2: |-
+      1. 应当区分“师承”（*diadoche*）与“宗派”（*hairesis*）——这是古代史家编组哲学家的两种主要方式。前者依师生关系给出一位哲学家的谱系；后者则是在如下意义上的“学派”：一群拥有共同核心学说的哲学家，并带有某种制度性关联，例如一脉相承的历任学长（scholarch）。狄奥多罗斯与菲洛属于麦加拉的欧克里德的师承——这一点人人同意。
+  - id: 7
+    kind: body
+    source: |-
+      (3) is the important claim for establishing that there was a separate Dialectical School. Sedley defends (3) with the following argument: Stilpo won over three students ‘from the Dialecticians’ (DL 2.114). Since Stilpo was a member of the Megaric School this must mean that the ‘Dialecticians’ were a separate, and rival, group from Stilpo’s Megaric sect (Sedley 1977, 75–76)[^sedley-1977].
+    step1: |-
+      (3) 是确立存在一个单独的辩证学派的关键主张。塞德利（Sedley）以下列论证为 (3) 辩护：斯提尔波从辩证家们那里“争取到”三名学生（DL 2.114）。既然斯提尔波属于麦加拉学派，这就必定意味着：“辩证家们”是一个独立于、且与斯提尔波的麦加拉宗派相抗衡的群体（Sedley 1977, 75–76）[^sedley-1977]。
+    step2: |-
+      (3) 是确立“存在一个单独的辩证学派”的关键主张。塞德利（Sedley）以下列论证为 (3) 辩护：斯提尔波曾从辩证家们那里“争取到”三名学生（DL 2.114）。既然斯提尔波属于麦加拉学派，这就必定意味着“辩证家们”是一个单独的群体，与斯提尔波的麦加拉宗派相抗衡（Sedley 1977, 75–76）[^sedley-1977]。
+  - id: 8
+    kind: body
+    source: |-
+      Some try to reject Sedley’s conclusion by admitting that the Dialecticians were a group that was identified in antiquity as separate from the Megaric sect, but the Dialectical group was not, strictly, a sect in the technical sense used by ancient historiographers. The is because the Dialectical group lacked the required institutional framework, such as a succession of scholarchs or core set of doctrines (DL 1.20; Döring 1989, 309; cf. Allen 2018, 44–46)[^allen-2018][^döring-1989]. But, of course, the Megarics also lacked such a structure. On (4), the evidence that the Dialectical group is identical to the Dialecticians mentioned at (DL 1.19), or even that there was such a sect, is weak. Diogenes places the Dialectical sect in a set of ethical sects, but no evidence attributes to any putative member of the sect any ethical views (unless one holds that fatalism is an ethical view). We can safely call Diodorus and Philo Dialecticians in the sense of belonging to a distinctive philosophical group, rival to Stilpo’s circle, but sharing a philosophical genealogy with it. Whether this group was the Dialectical Sect, or a sect at all, in the sense used by ancient historiographers, is less certain because we do not know whether the members of the Dialectical School were connected by an institution comparable to other ancient philosophical schools, or whether their union under one name in later reports was based more loosely on their common philosophical interest in dialectic.
+    step1: |-
+      有些人试图拒绝塞德利的结论。他们承认，辩证家们在古代被识别为一个独立于麦加拉宗派的群体，但认为辩证群体严格说并非古代史家所用技术意义上的宗派。理由在于：辩证群体缺少所需的制度框架，例如相继承任的学长或一套核心学说（DL 1.20; Döring 1989, 309; 参 Allen 2018, 44–46）[^allen-2018][^döring-1989]。但当然，麦加拉派同样缺少这种结构。至于 (4)，认为辩证群体就是 (DL 1.19) 所提辩证家的同一群体、甚至认为存在这样一个宗派的证据都很薄弱。第欧根尼将辩证宗派置于一组伦理宗派之中，但没有任何证据把任何伦理观点归于该宗派的任何假定成员（除非有人认为宿命论是一种伦理观点）。我们可以稳妥地把狄奥多罗斯与菲洛称作辩证家，就他们属于一个独特的哲学群体而言——这个群体与斯提尔波的圈子相抗衡，但与之共享哲学师承。至于这个群体是否就是古代史家所用意义上的辩证宗派、或究竟是不是一个宗派，就不那么确定了：因为我们不知道辩证学派的成员是否由一种可比于其他古代哲学学派的制度联结在一起，也不知道后来报道中他们在同一名称下的联合，是否只是更松散地基于他们对论辩的共同哲学兴趣。
+    step2: |-
+      有些人试图拒斥塞德利的结论：他们承认辩证家在古代就被识别为一个独立于麦加拉宗派的群体，但主张辩证群体严格说并非古代史家所用技术意义上的宗派。理由是：辩证群体缺少所需的制度框架，例如相继承任的学长或一套核心学说（DL 1.20; Döring 1989, 309; 参 Allen 2018, 44–46）[^allen-2018][^döring-1989]。可当然，麦加拉派同样缺少这种结构。至于 (4)：认为辩证群体就是 (DL 1.19) 所提辩证家的同一群体、甚至认为存在这样一个宗派的证据都很薄弱。第欧根尼把辩证宗派置于一组伦理宗派之中，却没有任何证据把任何伦理观点归于该宗派的任何假定成员（除非有人把宿命论算作一种伦理观点）。我们尽可稳妥地把狄奥多罗斯与菲洛称作辩证家——就他们属于一个独特的哲学群体而言；这个群体与斯提尔波的圈子相抗衡，又与之共享哲学师承。至于这个群体是否就是古代史家所用意义上的辩证宗派、或究竟是不是一个宗派，则不那么确定：我们既不知道辩证学派的成员是否由一种可比于其他古代哲学学派的制度联结起来，也不知道后世报道把他们统摄在同一名称之下，是否只是更松散地基于他们对论辩的共同哲学兴趣。
+  - id: 9
+    kind: body
+    source: |-
+      Those later reports give Clinomachus of Thurii, a pupil of Eubulides of Miletus, as founder of the school, but may have been given this title only in hindsight (DL 1.19 and 2.112, Sedley 1977 n.16)[^sedley-1977]. Euphantus of Olyntus, another pupil of Eubulides, probably born before 349 BC, may have been the earliest member of the school. The name ‘Dialectical School’ is reported to have been introduced by its member Dionysius of Chalcedon, active around 320 BC because of the practice of putting arguments in question and answer form (DL 2.106; Castagnoli 2010, 157)[^castagnoli-2010].
+    step1: |-
+      这些较晚的报道把图里伊的克利诺马科斯（Clinomachus of Thurii）——米利都的欧布里德的门生——当作学派的创立者，但这一头衔可能只是事后追认的（DL 1.19 与 2.112；Sedley 1977 n.16）[^sedley-1977]。奥林托斯的欧凡托斯（Euphantus of Olyntus）是欧布里德的另一名门生，可能生于公元前349年之前，或许是该学派最早的成员。据报道，“辩证学派”这一名称由其成员卡尔克顿的狄奥尼修斯（Dionysius of Chalcedon）引入；他活跃于公元前320年前后，缘由是以问答形式提出论证的做法（DL 2.106；Castagnoli 2010, 157）[^castagnoli-2010]。
+    step2: |-
+      后世报道把图里伊的克利诺马科斯（Clinomachus of Thurii）——米利都的欧布里德的门生——当作学派创立者；但这一头衔可能只是事后追认（DL 1.19 与 2.112；Sedley 1977 n.16）[^sedley-1977]。欧布里德的另一名门生、奥林托斯的欧凡托斯（Euphantus of Olyntus）可能生于公元前349年之前，或许是学派最早的成员。据报道，“辩证学派”之名由学派成员卡尔克顿的狄奥尼修斯（Dionysius of Chalcedon）引入；此人活跃于公元前320年前后，得名之由是以问答形式提出论证的做法（DL 2.106；Castagnoli 2010, 157）[^castagnoli-2010]。
+  - id: 10
+    kind: body
+    source: |-
+      The most important philosopher of the sect is Dionysius’ contemporary, Diodorus Cronus, who taught in Athens and Alexandria around 315–284 BC. He left no writings but is the most influential member of the Dialectical School. Diodorus’ most famous pupil is Zeno of Citium, founder Stoicism. The dialectician Aristides belongs to the same generation as Diodorus Cronus. Alexinus (c. 339–265) may have belonged to the sect. The second important philosopher of the Dialectical School is the logician Philo (sometimes referred to as Philo of Megara, although we do not know his city of origin); he studied with Diodorus. He wrote a dialogue *Menexenos* and possibly a work *On Signs* and a work *On Schemata*. All of these are lost. Diodorus Cronus’ five daughters Menexene, Argeia, Theognis, Artemisia and Pantacleia are all said to have been logicians, and thus may have belonged to the school. Finally, the dialectician Panthoides flourished c.280–275 BC, and the dialecticians Aristoteles and Artemidorus can be dated around 250 BC.
+    step1: |-
+      该宗派最重要的哲学家是狄奥尼修斯的同代人、卡里亚雅苏斯的狄奥多罗斯（Diodorus Cronus），约公元前315–284年间在雅典与亚历山大里亚讲学。他没有留下任何著作，却是辩证学派最有影响的成员。狄奥多罗斯最著名的门生是斯多亚学派的创始人、基提翁的塞诺（Zeno of Citium）。辩证家阿里斯泰得斯（Aristides）与狄奥多罗斯同辈。阿勒克西努斯（Alexinus，约前339–前265）可能属于该宗派。辩证学派的第二位重要哲学家是逻辑学家菲洛（有时被称作麦加拉的菲洛，尽管我们不知道他的出身城邦）；他师从狄奥多罗斯。他写有一篇对话《墨涅克塞诺斯》（*Menexenos*），可能还写有《论符号》与《论格》二作。这些著作全部散佚。狄奥多罗斯的五个女儿——墨涅克塞涅（Menexene）、阿尔格娅（Argeia）、忒奥格尼斯（Theognis）、阿尔泰米西娅（Artemisia）与潘塔克莱娅（Pantacleia）——据称都是逻辑学家，因而可能属于该学派。最后，辩证家潘托伊得斯（Panthoides）活跃于约公元前280–275年，辩证家阿里斯托特莱斯（Aristoteles）与阿尔泰米多鲁斯（Artemidorus）则可定年在公元前250年前后。
+    step2: |-
+      宗派中最重要的哲学家是狄奥尼修斯的同代人、卡里亚雅苏斯的狄奥多罗斯（Diodorus Cronus）：约公元前315–284年间，他在雅典与亚历山大里亚讲学。他没有留下任何著作，却是辩证学派最有影响的成员。狄奥多罗斯最著名的门生，是斯多亚学派的创始人基提翁的塞诺（Zeno of Citium）。辩证家阿里斯泰得斯（Aristides）与狄奥多罗斯同辈。阿勒克西努斯（Alexinus，约前339–前265）可能属于该宗派。学派的第二位重要哲学家是逻辑学家菲洛（有时被称作麦加拉的菲洛，尽管我们不知道他的出身城邦）；他师从狄奥多罗斯，写有一篇对话《墨涅克塞诺斯》（*Menexenos*），可能还著有两部作品：《论符号》与《论格》。这些著作全部散佚。狄奥多罗斯的五个女儿——墨涅克塞涅（Menexene）、阿尔格娅（Argeia）、忒奥格尼斯（Theognis）、阿尔泰米西娅（Artemisia）与潘塔克莱娅（Pantacleia）——据称都是逻辑学家，因而可能属于该学派。最后：辩证家潘托伊得斯（Panthoides）活跃于约公元前280–275年；辩证家阿里斯托特莱斯（Aristoteles）与阿尔泰米多鲁斯（Artemidorus）可定年在公元前250年前后。
+  - id: 11
+    kind: body
+    source: |-
+      Original philosophical contributions are testified only for Diodorus Cronus and Philo, in the areas of logic, language and theory of motion (for more on Diodorus’ contributions see entries Ancient Atomism and Diodorus Cronus); their views on logic were influential on Stoic logic, which in turn anticipated many of the developments in 20th century logic. Philosophers of the Dialectic sect had an impact also on Epicurean, Peripatetic, and Sceptic philosophy, and seem to have interacted in discussion with members of most Hellenistic philosophical schools. Diodorus Cronus’ modal theory and his Master Argument served as a major philosophical inspiration for Arthur Prior.
+    step1: |-
+      有证可考的原创哲学贡献仅见于狄奥多罗斯与菲洛，领域为逻辑、语言与运动理论（狄奥多罗斯贡献的更多内容见“古代原子论”与“狄奥多罗斯”词条）；他们的逻辑观点对斯多亚逻辑影响深远，而斯多亚逻辑又预演了20世纪逻辑的许多进展。辩证宗派的哲学家对伊壁鸠鲁派、逍遥派与怀疑派哲学也有影响，并且似乎与大多数希腊化哲学学派的成员有过当面的讨论交流。狄奥多罗斯的模态理论与其主论证，是阿瑟·普赖尔（Arthur Prior）的重要哲学灵感来源。
+    step2: |-
+      原创性的哲学贡献，有证可考者仅见于狄奥多罗斯与菲洛，领域为逻辑、语言与运动理论（狄奥多罗斯的贡献另见“古代原子论”与“狄奥多罗斯”词条）。他们的逻辑观点深刻影响了斯多亚逻辑；而斯多亚逻辑又预演了20世纪逻辑的许多进展。辩证宗派的哲学家也影响了伊壁鸠鲁派、逍遥派与怀疑派哲学，并且似乎与大多数希腊化哲学学派的成员有过当面的讨论往还。狄奥多罗斯的模态理论及其主论证，是阿瑟·普赖尔（Arthur Prior）的重要哲学灵感来源。
+  - id: 12
+    kind: body
+    source: |-
+      ## 2. The beginnings of propositional logic
+    step1: |-
+      ## 2. 命题逻辑的开端
+    step2: |-
+      ## 2. 命题逻辑的开端
+  - id: 13
+    kind: body
+    source: |-
+      All we know about the so-called founder of the so-called Dialectical School, Clinomachus of Thurii, is that he was the first who wrote about predicates (*katêgorêmata*) and propositions (*axiômata*) and the like (DL 2.112). Our evidence for Diodorus and Philo confirms that they, too, conceived of logic as a logic of propositions. It was the Stoics who systematically developed a logic of propositions and devised subtle classifications of predicates. (By contrast, Aristotle’s logic had been a logic of terms, where subject and predicate terms were in principle interchangeable.) The logic of the Dialectical School thus was a precursor of Stoic logic.
+    step1: |-
+      关于所谓辩证学派的所谓创始人图里伊的克利诺马科斯，我们所知的全部是：他是最早论述谓词（*katêgorêmata*）与命题（*axiômata*）等的人（DL 2.112）。我们关于狄奥多罗斯与菲洛的证据证实，他们同样把逻辑构想为一种命题逻辑。系统地发展出命题逻辑并设计出谓词的精细分类的，是斯多亚派。（相比之下，亚里士多德的逻辑是一种词项逻辑，其中主项词项与谓项词项原则上可以互换。）因此，辩证学派的逻辑是斯多亚逻辑的先声。
+    step2: |-
+      关于所谓辩证学派的所谓创始人图里伊的克利诺马科斯，我们所知的一切是：他最早论述了谓词（*katêgorêmata*）与命题（*axiômata*）等（DL 2.112）。我们关于狄奥多罗斯与菲洛的证据证实：他们同样把逻辑构想为命题的逻辑。系统地发展命题逻辑、设计谓词之精细分类的，是斯多亚派。（相比之下，亚里士多德的逻辑是词项逻辑，其主项词项与谓项词项原则上可互换。）因此，辩证学派的逻辑是斯多亚逻辑的先声。
+  - id: 14
+    kind: body
+    source: |-
+      At the time of Diodorus and Philo, a distinction between simple and non-simple propositions was in circulation among the minor Greek Socratic philosophical sects (Sextus Empiricus [SE] *Against the Logicians* 2.93–95). There is some dispute over whether this reference is to the Dialectical School, or merely to dialecticians in general (Ebert 1991; Barnes 1993)[^barnes-1993][^ebert-1991]. Following the Dialecticians, the Stoics divided simple propositions into affirmations and negations (DL 7.68; SE, *Against the Logicians* 2.93–95). Among non-simple propositions, which were thought to be composed of simple ones, conditionals, disjunctions and conjunctions were distinguished. Disjunctions or conditionals featured as premises in many of the logical paradoxes and sophisms which members of the Dialectical School discussed. It is likely that Diodorus and Philo examined the truth-conditions of all three kinds of non-simple propositions; however, we know their views only for the case of the conditional (see below Section 3).
+    step1: |-
+      在狄奥多罗斯与菲洛的时代，简单命题与非简单命题的区分已流行于次要的希腊苏格拉底哲学宗派之间（塞克斯都·恩披里柯 [SE]《驳逻辑学家》2.93–95）。关于这一所指是否为辩证学派、还是仅泛指辩证家，存在一些争议（Ebert 1991; Barnes 1993）[^barnes-1993][^ebert-1991]。追随辩证家，斯多亚派把简单命题分为肯定与否定（DL 7.68；SE《驳逻辑学家》2.93–95）。在非简单命题——它们被认为由简单命题构成——之中，又区分出条件句、析取式与合取式。析取式或条件句作为前提出现在辩证学派成员讨论的许多逻辑悖论与诡辩之中。狄奥多罗斯与菲洛很可能考察过全部三类非简单命题的真值条件；然而，我们对他们观点的了解仅限于条件句情形（见下文第3节）。
+    step2: |-
+      狄奥多罗斯与菲洛的时代，简单命题与非简单命题之分已流行于各次要的希腊苏格拉底哲学宗派之间（塞克斯都·恩披里柯 [SE]《驳逻辑学家》2.93–95）。至于这一所指是辩证学派、还是仅泛指辩证家，尚有争议（Ebert 1991; Barnes 1993）[^barnes-1993][^ebert-1991]。斯多亚派追随辩证家，把简单命题分为肯定与否定（DL 7.68；SE《驳逻辑学家》2.93–95）。非简单命题被认为由简单命题构成；在其中，又区分出条件句、析取式与合取式。辩证学派成员讨论的许多逻辑悖论与诡辩，都以析取式或条件句为前提。狄奥多罗斯与菲洛很可能考察过全部三类非简单命题的真值条件；然而我们对其观点的了解，仅限于条件句情形（见下文第3节）。
+  - id: 15
+    kind: body
+    source: |-
+      Their treatment of conditionals and modalities implies that — like most Hellenistic philosophers — Diodorus and Philo worked with a concept of proposition that differs from ours in that it allows truth-values to change over time. For instance, the standard example for a simple proposition, ‘It is day’, does not contain a covert fixed date or definite time determination; rather, it ranges over times, changing its truth-value twice daily, all the while remaining the same proposition. Thus we may think of propositions as they were understood by Hellenistic philosophers as functions of time. Diodorus Cronus can perhaps also be credited with the beginnings of temporal logic, as both his theory of the conditional and his accounts of the modalities are built on logically relevant temporal properties of propositions (see below sects. 3.2 and 4.2). Moreover, he distinguished between propositions in the present tense like ‘Helen has three husbands’ and ‘These men are marrying’ and propositions in a tense of completion (the aorist), ‘Helen had three husbands’ and ‘These men married’, and observed that it is possible for propositions like the latter two to be true, without there ever having been a time at which a corresponding one of the former type was true (SE, *Against the Physicists* 2.97–8). See Crivelli 1994; Duncombe 2023.
+    step1: |-
+      他们对条件句与模态的处理意味着——一如大多数希腊化哲学家——狄奥多罗斯与菲洛所用的命题概念与我们的不同：它允许真值随时间改变。例如，简单命题的标准例证“现在是白天”并不包含某个隐含的固定日期或确定的时间规定；毋宁说，它遍历诸时间，每天两次改变真值，同时始终是同一命题。因此，我们可以把希腊化哲学家所理解的命题看作时间的函数。狄奥多罗斯或许还可被视为时态逻辑的开创者，因为他的条件句理论与他的模态诸说明都建立在命题的具有逻辑相关性的时间性质之上（见下文3.2与4.2节）。此外，他区分了现在时态的命题——如“海伦有三个丈夫”与“这些男人正在完婚”——与以完成时态（不定过去时）表述的命题——“海伦曾有三个丈夫”与“这些男人结过婚”，并观察到：后一类命题可以为真，而不曾存在任何一个时刻使相应的前一类命题为真（SE《驳自然哲学家》2.97–8）。见 Crivelli 1994；Duncombe 2023。
+    step2: |-
+      他们对条件句与模态的处理意味着：一如大多数希腊化哲学家，狄奥多罗斯与菲洛所用的命题概念与我们的不同——它允许真值随时间改变。例如，简单命题的标准例证“现在是白天”并不包含隐含的固定日期或确定的时间规定；毋宁说，它遍历诸时间，每天两次改变真值，而始终是同一命题。因此我们尽可把希腊化哲学家所理解的命题看作时间的函数。狄奥多罗斯或许还可被视为时态逻辑的开创者：他的条件句理论与他的诸模态说明，都建立在命题的具有逻辑相关性的时间性质之上（见下文3.2与4.2节）。此外，他区分了现在时态的命题——如“海伦有三个丈夫”“这些男人正在完婚”——与以完成时态（不定过去时）表述的命题——“海伦曾有三个丈夫”“这些男人结过婚”；并观察到：后一类命题可以为真，而不曾存在任何时刻使相应的前一类命题为真（SE《驳自然哲学家》2.97–8）。见 Crivelli 1994；Duncombe 2023。
+  - id: 16
+    kind: body
+    source: |-
+      Apart from the various logical puzzles and sophisms, there are only two topics on which we can be sure of a positive contribution to logic by members of the Dialectical School. These are the positions of Diodorus and Philo on the theory of conditionals and on modal logic. Both topics involve notorious difficulties and were extensively and intensely discussed by Hellenistic logicians; so much so that the disputes became part of the general knowledge of the intelligentsia of the time (SE, *Against the Grammarians* 309–10). Moreover, the theory of modalities was believed to have far-reaching results for other areas of philosophy.
+    step1: |-
+      除了种种逻辑谜题与诡辩之外，只有两个论题我们可以确信辩证学派成员对逻辑做出了积极贡献。这就是狄奥多罗斯与菲洛在条件句理论和模态逻辑上的立场。这两个论题都涉及出了名的困难，且被希腊化逻辑学家广泛而热烈地讨论过，以至于相关争论成了当时知识界通识的一部分（SE《驳语法学家》309–10）。此外，模态理论曾被认为对哲学的其他领域有深远的结果。
+    step2: |-
+      除了种种逻辑谜题与诡辩之外，可以确信辩证学派成员对逻辑做出积极贡献的论题只有两个：狄奥多罗斯与菲洛在条件句理论与模态逻辑上的立场。这两个论题都涉及出了名的困难，又被希腊化逻辑学家广泛而热烈地讨论，以至于相关争论成了当时知识界通识的一部分（SE《驳语法学家》309–10）。此外，当时人相信模态理论对哲学的其他领域有深远的结果。
+  - id: 17
+    kind: body
+    source: |-
+      ## 3. Conditionals
+    step1: |-
+      ## 3. 条件句
+    step2: |-
+      ## 3. 条件句
+  - id: 18
+    kind: body
+    source: |-
+      In the debate about the conditional (*sunêmmenon*) the point of disagreement concerned the right truth-conditions of a conditional (Cicero, *Academics* II 143). This controversy was played out against the background of a common acceptance of what counts as a conditional, and what its function is. Conditionals were understood to be non-simple propositions containing one proposition as antecedent and one as consequent. The antecedent has the particle ‘if’ prefixed to it; the standard form is ‘If *p*, *q*’. A conditional serves to manifest the relation of consequence (*akolouthia*): it announces that its consequent follows from (*akolouthein*) its antecedent (SE, *Against the Logicians* 2.110–112). This relation of consequence was also commonly taken to manifest the relation between premises and conclusion in a valid argument.
+    step1: |-
+      在关于条件句（*sunêmmenon*）的争论中，分歧点在于条件句的正确真值条件是什么（西塞罗《学园篇》II 143）。这场争论的背景是各方共同接受何者为条件句、条件句的功能是什么。条件句被理解为非简单命题，包含一个命题作前件、一个命题作后件。前件带有“如果”这一小品词作为前缀；标准形式是“如果 *p*，*q*”。条件句用来显示后随关系（*akolouthia*）：它宣告其后件后随（*akolouthein*）于其前件（SE《驳逻辑学家》2.110–112）。这种后随关系通常也被认为显示了有效论证中前提与结论之间的关系。
+    step2: |-
+      在关于条件句（*sunêmmenon*）的争论中，分歧点在于：条件句的正确真值条件是什么（西塞罗《学园篇》II 143）。争论的背景是各方共同接受何者为条件句、条件句有何功能。条件句被理解为非简单命题，含一个命题作前件、一个命题作后件。前件冠以小品词“如果”；标准形式是“如果 *p*，*q*”。条件句的功能在于显示后随关系（*akolouthia*）：它宣告其后件后随（*akolouthein*）于其前件（SE《驳逻辑学家》2.110–112）。这种后随关系通常也被认为显示了有效论证中前提与结论之间的关系。
+  - id: 19
+    kind: body
+    source: |-
+      ### 3.1 Philonian conditionals
+    step1: |-
+      ### 3.1 菲洛式条件句
+    step2: |-
+      ### 3.1 菲洛式条件句
+  - id: 20
+    kind: body
+    source: |-
+      Philo’s criterion for the truth of a conditional is truth-functional. Later in antiquity, it was generally accepted as a minimal condition for the truth of a conditional. Philo maintained that a conditional is false when and only when its antecedent is true and its consequent false, and true in the three remaining cases: whenever the antecedent is false, and when both antecedent and consequent are true (SE, *Against the Logicians* 2.113–114). Thus, the Philonian conditional is false only in cases like ‘if it is day, it is night’, since when it is day, ‘it is day is true, but ‘it is night’ is false (SE *Against the logicians* 2.115).Thus this notion of a conditional comes very close to that of modern material implication (Hurst 1935, 485; Heal 2022)[^heal-2022][^hurst-1935]. (It is not the same, since truth for Hellenistic philosophers is relativized to times.) Philo’s suggestion is remarkable in that it deviates noticeably from the ordinary language understanding of conditional sentences and requires abstraction on the basis of a concept of truth-functionality.
+    step1: |-
+      菲洛关于条件句为真的判准是真值函项性的。在古代晚期，它被普遍接受为条件句为真的最低条件。菲洛主张：一个条件句为假，当且仅当其前件为真而后件为假；在其余三种情形下为真：前件为假时，以及前件与后件都为真时（SE《驳逻辑学家》2.113–114）。因此，菲洛式条件句只在诸如“如果现在是白天，那么现在是夜晚”这类情形下为假，因为白天时，“现在是白天”为真，而“现在是夜晚”为假（SE《驳逻辑学家》2.115）。于是，这种条件句概念与现代实质蕴涵非常接近（Hurst 1935, 485; Heal 2022）[^heal-2022][^hurst-1935]。（二者并不相同，因为希腊化哲学家的真值是相对于时间的。）菲洛的构想之引人注目在于：它明显偏离了对条件句的日常语言理解，并且要求基于真值函项性概念进行抽象。
+    step2: |-
+      菲洛的条件句真值判准是真值函项性的。在古代晚期，它被普遍接受为条件句为真的最低条件。菲洛主张：一个条件句为假，当且仅当其前件为真而后件为假；在其余三种情形下皆为真——前件为假时，以及前件与后件皆真时（SE《驳逻辑学家》2.113–114）。因此，菲洛式条件句只在诸如“如果现在是白天，那么现在是夜晚”这类情形下为假：白天时，“现在是白天”为真而“现在是夜晚”为假（SE《驳逻辑学家》2.115）。这种条件句概念由此与现代的实质蕴涵非常接近（Hurst 1935, 485; Heal 2022）[^heal-2022][^hurst-1935]。（二者并不相同，因为希腊化哲学家的真值是相对于时间的。）菲洛的构想之引人注目在于：它明显偏离条件句的日常语言理解，且要求基于真值函项性概念作抽象。
+  - id: 21
+    kind: body
+    source: |-
+      Remarkable as it is, Philo’s view has the following two drawbacks: First, as in the case of material implication, for the truth of the conditional no connection of content between antecedent and consequent is required. Thus a Philonian conditional will be true whenever the consequent is true, for example, during the day ‘If virtue benefits, it is day’ is Philonian true. Likewise, a Philonian conditional will be true whenever the antecedent is false, for example, during the day ‘if it is night, it is day’ is Philonian true. This introduces a variant of the so-called ‘paradoxes of material implication’ (*Relevance Logic, Conditionals* 2.3; Lemmon 59–60, 82). The presentation of Philo’s view in our sources shows that the ancients were aware of this problem (SE, ibid. 113–117). Second, due to the time-dependency of Hellenistic propositions, Philo’s criterion implies that conditionals can change their truth-value over time: for instance, ‘If it is day, it is night’ is true at night, but false during the day. This is counter-intuitive as regards the ordinary use of if-sentences. Moreover, as the concept of a conditional was also meant to provide for logical consequence between premises and conclusion, this leads to the problematic result that arguments can in principle change from being valid to being invalid and vice versa.
+    step1: |-
+      尽管如此引人注目，菲洛的观点有如下两个缺陷：第一，与实质蕴涵的情形一样，条件句为真不要求前件与后件之间有任何内容关联。因此，只要后件为真，菲洛式条件句就为真，例如白天时“如果德性有助益，那么现在是白天”是菲洛式为真的。同样，只要前件为假，菲洛式条件句就为真，例如白天时“如果现在是夜晚，那么现在是白天”是菲洛式为真的。这就引入了所谓“实质蕴涵悖论”的一个变体（《相干逻辑》《条件句》2.3；Lemmon 59–60, 82）。我们文献中对菲洛观点的呈现表明古人意识到了这一问题（SE，同上，113–117）。第二，由于希腊化命题对时间的依赖性，菲洛的判准蕴含条件句可以随时间改变真值：例如“如果现在是白天，那么现在是夜晚”在夜晚为真，在白天为假。就如果句的日常使用而言，这是反直觉的。此外，由于条件句概念也被指望为前提与结论之间的逻辑后承提供基础，这就导致一个成问题的结果：论证原则上可以从有效变为无效，反之亦然。
+    step2: |-
+      菲洛的观点尽管引人注目，却有两个缺陷。第一，与实质蕴涵的情形一样，条件句为真不要求前件与后件之间有任何内容关联。于是，只要后件为真，菲洛式条件句就为真——例如白天时，“如果德性有助益，那么现在是白天”是菲洛式为真的；同样，只要前件为假，菲洛式条件句就为真——例如白天时，“如果现在是夜晚，那么现在是白天”是菲洛式为真的。这就引入了所谓“实质蕴涵悖论”的一个变体（《相干逻辑》《条件句》2.3；Lemmon 59–60, 82）。我们文献中对菲洛观点的呈现表明：古人已意识到这一问题（SE，同上，113–117）。第二，希腊化命题依赖于时间，菲洛的判准便蕴含条件句可以随时间改变真值：例如“如果现在是白天，那么现在是夜晚”在夜晚为真、在白天为假。就如果句的日常使用而言，这是反直觉的。此外，条件句概念还被指望为前提与结论之间的逻辑后承提供基础；于是便有一个成问题的结果随之而来：论证原则上可以从有效变为无效，反之亦然。
+  - id: 22
+    kind: body
+    source: |-
+      ### 3.2 Diodorean Conditionals
+    step1: |-
+      ### 3.2 狄奥多罗斯式条件句
+    step2: |-
+      ### 3.2 狄奥多罗斯式条件句
+  - id: 23
+    kind: body
+    source: |-
+      For Diodorus, a conditional proposition is true if it neither was nor is possible that its antecedent is true and its consequent false (SE, *Against the Logicians* 2.115–117). The reference to time in this account (‘was … is possible’) suggests that the possibility of a truth-value change left open by Philo’s truth-condition was one of the factors to be improved on.
+    step1: |-
+      对狄奥多罗斯而言，一个条件命题为真，如果它既不曾是、也不是可能的：其前件为真而后件为假（SE《驳逻辑学家》2.115–117）。这一说明中对时间的指涉（“不曾是……是可能的”）表明，菲洛的真值条件所留下的真值改变的可能性，正是有待改进的因素之一。
+    step2: |-
+      在狄奥多罗斯那里，一个条件命题为真，当它既不曾是、也不是可能的：其前件为真而后件为假（SE《驳逻辑学家》2.115–117）。这一说明对时间的指涉（“不曾是……是可能的”）表明：菲洛的真值条件所留下的真值改变之可能，正是有待改进的因素之一。
+  - id: 24
+    kind: body
+    source: |-
+      We do not know whether Diodorus had his own modal notions in mind when talking about possibility in his criterion, or just some pre-technical, general concept of possibility, or whether he perhaps intended to cover both (Denyer 1981, 39–41; Sedley 1977, 101–2)[^denyer-1981][^sedley-1977]. (The verb used here for being possible, *endechesthai* differs from the word used for possibility in Diodorus’ modal theory, which is *dunaton*.) If one assumes that he had his own modal notions in view when giving this account (see Section 4.2 below), his truth-criterion for the conditional stands in the following relation to Philo’s: a conditional is Diodorean true now if and only if it is Philonian true at all times. Diodorus has, as it were, quantified the Philonian criterion over time. The conditional ‘If I walk, I move’ is now true because at no time is the antecedent true and the consequent false. Thus for Diodorus, a conditional cannot change its truth-value. If it is true (false) at one time, it is true (false) at all times. If on the other hand one assumes that Diodorus had some unspecified general notion of possibility in mind when producing his account, the criterion will be correspondingly less specific. However, it would presumably still be a minimal requirement that it is never the case that the antecedent is true and the consequent false.
+    step1: |-
+      我们不知道狄奥多罗斯在判准中谈到可能性时，心里想的是否是他自己的那套模态概念，抑或只是某种前技术的、一般的可能性概念，又或者他也许意在两者兼顾（Denyer 1981, 39–41; Sedley 1977, 101–2）[^denyer-1981][^sedley-1977]。（此处用于“可能”的动词 *endechesthai* 不同于狄奥多罗斯模态理论中表示可能性的用词 *dunaton*。）如果假定他在给出这一说明时心里想的是自己的模态概念（见下文4.2节），那么他的条件句真值判准与菲洛的判准处于如下关系之中：一个条件句现在是狄奥多罗斯式为真的，当且仅当它在所有时刻都是菲洛式为真的。狄奥多罗斯可以说就是把菲洛的判准对时间作了量化。条件句“如果我在走，那么我在动”现在为真，因为不存在任何时刻使前件为真而后件为假。因此对狄奥多罗斯来说，一个条件句不能改变其真值。如果它在某一时刻为真（假），它就在所有时刻为真（假）。另一方面，如果假定狄奥多罗斯在提出其说明时心里所想的是某种未特别规定的一般可能性概念，那么该判准也会相应地不那么特定。不过，以下这点大概仍是最低要求：绝不存在前件为真而后件为假的情形。
+    step2: |-
+      我们不知道：狄奥多罗斯在判准中谈到可能性时，心里想的是否是他自己的那套模态概念，抑或只是某种前技术的一般可能性概念，又或许他意在两者兼顾（Denyer 1981, 39–41; Sedley 1977, 101–2）[^denyer-1981][^sedley-1977]。（此处表“可能”的动词 *endechesthai*，不同于狄奥多罗斯模态理论表可能性的用词 *dunaton*。）若假定他给出这一说明时想的是自己的模态概念（见下文4.2节），则他的条件句真值判准与菲洛的判准处于如下关系：一个条件句现在是狄奥多罗斯式为真的，当且仅当它在所有时刻都菲洛式为真。狄奥多罗斯可以说就是把菲洛的判准对时间作了量化。条件句“如果我在走，那么我在动”现在为真，因为不存在任何时刻使前件为真而后件为假。故对狄奥多罗斯而言，条件句不能改变真值：它在某一时刻为真（假），就在所有时刻为真（假）。另一方面，若假定狄奥多罗斯提出其说明时想的是某种未特别规定的一般可能性概念，则该判准也会相应地不那么特定。不过以下这点大概仍是最低要求：绝不存在前件为真而后件为假的情形。
+  - id: 25
+    kind: body
+    source: |-
+      Diodorus’ criterion bears some resemblance to the modern concept of strict implication, although the exact relation between Diodorean and strict conditionals is controversial (see Hurst 1935; Mates 1949; Hájek 2009)[^hájek-2009][^hurst-1935][^mates-1949]. What is clear is that Diodorean conditionals share some disadvantages of strict conditionals, in that we encounter a parallel to the ‘paradoxes of strict implication’ (Lemmon 1965, 153–4)[^lemmon-1965]. As in Philo’s case, no connection of content is required between antecedent and consequent. This time, whenever either the antecedent is impossible or the consequent necessary, the conditional will be true, regardless of whether there is any relevant connection between the two constituent propositions. So for instance ‘If the earth flies, Axiothea philosophizes’ would be true for Diodorus, since the antecedent was considered impossible (DL 7.75), while ‘If Axiothena philosophizes, virtue is beneficial’ would be a true Diodorean conditional, since the consequent was considered necessary (DL 7.75) One example given of a Diodorean-true conditional, ‘If it is not the case that there are indivisible elements of things, then there are indivisible elements of things’ (SE, *Outlines of Pyrrhonism* 2.111), suggests that there was some awareness of these paradoxes in antiquity. In any event, the Stoic Chrysippus developed a system of relevance logic in which neither the ‘paradoxes of material implication’ nor the ‘paradoxes of strict implication’ occur.
+    step1: |-
+      狄奥多罗斯的判准与现代严格蕴涵概念有某些相似之处，尽管狄奥多罗斯式条件句与严格条件句之间的确切关系存在争议（见 Hurst 1935; Mates 1949; Hájek 2009）[^hájek-2009][^hurst-1935][^mates-1949]。清楚的是：狄奥多罗斯式条件句分享严格条件句的某些缺点，我们会遇到与“严格蕴涵悖论”平行的情况（Lemmon 1965, 153–4）[^lemmon-1965]。与菲洛的情形一样，前件与后件之间不要求任何内容关联。这一次，只要前件是不可能的、或后件是必然的，条件句就为真，无论两个组成命题之间是否存在任何相干联系。例如，“如果地球会飞，阿克西奥特亚就在做哲学”对狄奥多罗斯来说会是真的，因为前件被认为是不可能的（DL 7.75）；而“如果阿克西奥特亚在做哲学，那么德性是有益的”会是一个狄奥多罗斯式为真的条件句，因为后件被认为是必然的（DL 7.75）。被举出的一个狄奥多罗斯式为真条件句的例子——“如果事物没有不可分的元素，那么事物有不可分的元素”（SE《皮浪学说概要》2.111）——表明古代对这类悖论已有某种意识。无论如何，斯多亚派的克吕西波发展了一个相干逻辑系统，在其中“实质蕴涵悖论”与“严格蕴涵悖论”都不出现。
+    step2: |-
+      狄奥多罗斯的判准与现代的严格蕴涵概念有某些相似，尽管狄奥多罗斯式条件句与严格条件句的确切关系尚有争议（见 Hurst 1935; Mates 1949; Hájek 2009）[^hájek-2009][^hurst-1935][^mates-1949]。清楚的是：狄奥多罗斯式条件句分享严格条件句的某些缺点——我们会遇到与“严格蕴涵悖论”平行的情况（Lemmon 1965, 153–4）[^lemmon-1965]。与菲洛的情形一样，前件与后件之间不要求任何内容关联。这一次，只要前件不可能、或后件必然，条件句就为真，无论两个组成命题之间是否存在任何相干联系。例如：“如果地球会飞，阿克西奥特亚就在做哲学”对狄奥多罗斯来说为真，因为前件被认为不可能（DL 7.75）；“如果阿克西奥特亚在做哲学，那么德性是有益的”则是狄奥多罗斯式为真的条件句，因为后件被认为必然（DL 7.75）。文献举出的一个狄奥多罗斯式为真条件句的例子——“如果事物没有不可分的元素，那么事物有不可分的元素”（SE《皮浪学说概要》2.111）——表明古代对这类悖论已有某种意识。无论如何，斯多亚派的克吕西波发展出一个相干逻辑系统，“实质蕴涵悖论”与“严格蕴涵悖论”在其中都不出现。
+  - id: 26
+    kind: body
+    source: |-
+      ## 4. Modal logic
+    step1: |-
+      ## 4. 模态逻辑
+    step2: |-
+      ## 4. 模态逻辑
+  - id: 27
+    kind: body
+    source: |-
+      Modal logic is the second topic where we have evidence about the positions of Philo and Diodorus and their influence on the Stoics (Kneale and Kneale 1962, 117–28; Bobzien 1993; de Harven 2016)[^bobzien-1993][^harven-2016][^kneale-1962]. Although the modalities were generally discussed under the heading of ‘On things possible’, the Hellenistic modal systems were each built on a set of four modalities: possibility, impossibility, necessity and non-necessity. The matter of dispute was which system was the right one; that is, which one adequately described the modalities inherent in the world. In connection with this, an extra-logical concern provided additional fuel to the debate: the belief that if propositions stating future events that will not happen all turn out to be impossible, the freedom and choices of individuals would be curtailed. This is a variation on the problem of logical determinism which is known from Aristotle’s *On Interpretation* 9. Several of the arguments devised and discussed by the Dialectical School touch upon this issue — the Reaper Argument, the Lazy Argument (Bobzien 1998, 78–81, 180–233)[^bobzien-1998], and the Master Argument.
+    step1: |-
+      模态逻辑是我们拥有关于菲洛与狄奥多罗斯立场及其对斯多亚派影响之证据的第二个论题（Kneale and Kneale 1962, 117–28; Bobzien 1993; de Harven 2016）[^bobzien-1993][^harven-2016][^kneale-1962]。虽然诸模态一般都在“论可能的事物”这一标题下讨论，希腊化的诸模态系统各自都建立在一组四个模态之上：可能性、不可能性、必然性与非必然性。争端在于哪个系统是正确的系统；也就是说，哪一个恰当地描述了世界固有的诸模态。与此相关，一个逻辑之外的关切为争论添了柴：人们相信，如果陈述不会发生之未来事件的命题全都被证明是不可能的，个人的自由与选择就会受到削减。这是源自亚里士多德《解释篇》第9章的逻辑决定论问题的一个变体。辩证学派设想并讨论过的若干论证触及这个问题——收割者论证、懒惰论证（Bobzien 1998, 78–81, 180–233）[^bobzien-1998]，以及主论证。
+    step2: |-
+      模态逻辑是第二个论题：我们拥有关于菲洛与狄奥多罗斯的立场及其对斯多亚派影响的证据（Kneale and Kneale 1962, 117–28; Bobzien 1993; de Harven 2016）[^bobzien-1993][^harven-2016][^kneale-1962]。诸模态虽一般在“论可能的事物”这一标题下讨论，但希腊化的诸模态系统各自都建立在一组四个模态之上：可能性、不可能性、必然性与非必然性。争端在于：哪个系统是正确的系统——也就是说，哪一个恰当地描述了世界固有的诸模态。与此相关，一个逻辑之外的关切为争论添了柴：人们相信，倘若陈述不发生之未来事件的命题全被证明为不可能，个人的自由与选择就会遭到削减。这是逻辑决定论问题的一个变体，问题本身见于亚里士多德《解释篇》第9章。辩证学派设想并讨论过的若干论证触及这个问题——收割者论证、懒惰论证（Bobzien 1998, 78–81, 180–233）[^bobzien-1998]，以及主论证。
+  - id: 28
+    kind: body
+    source: |-
+      For Diodorus and Philo, as for the Stoics the modalities were primarily considered as *properties* of propositions or states of affairs. There is no discussion of modal propositions, i.e. of propositions that contain modal operators, such as ‘It is possible that it is day’ or ‘It is necessary that virtue benefits’, nor of iterated modalities.
+    step1: |-
+      对狄奥多罗斯与菲洛而言，一如对斯多亚派，诸模态首先被当作命题或事态的*性质*来考虑。没有关于模态命题——即包含模态算子的命题，如“可能现在是白天”或“必然德性有助益”——的讨论，也没有关于叠置模态的讨论。
+    step2: |-
+      对狄奥多罗斯与菲洛而言——一如对斯多亚派——诸模态首先被当作命题或事态的*性质*来考虑。没有关于模态命题的讨论，即包含模态算子的命题，如“可能现在是白天”或“必然德性有助益”；也没有关于叠置模态的讨论。
+  - id: 29
+    kind: body
+    source: |-
+      ### 4.1 Philonian modalities
+    step1: |-
+      ### 4.1 菲洛式模态
+    step2: |-
+      ### 4.1 菲洛式模态
+  - id: 30
+    kind: body
+    source: |-
+      Philo’s view on possibility has survived in several other sources (Alexander, *On Aristotle’s Prior Analytics* 184; Philoponus, *On Aristotle’s Prior Analytics* 169) but only in one are his accounts of all four modal notions reported:
+    step1: |-
+      菲洛关于可能性的观点保存于若干其他文献中（亚历山大《亚里士多德〈前分析篇〉注》184；菲洛波努斯《亚里士多德〈前分析篇〉注》169），但只有一处报道了他对全部四个模态概念的说明：
+    step2: |-
+      菲洛关于可能性的观点保存于若干其他文献（亚历山大《亚里士多德〈前分析篇〉注》184；菲洛波努斯《亚里士多德〈前分析篇〉注》169）；但只有一处报道了他对全部四个模态概念的说明：
+  - id: 31
+    kind: body
+    source: |-
+      > Possible is that which is capable of being true by the proposition’s own nature … necessary is that which is true, and which, as far as it is in itself, is not capable of being wrong. Non-necessary is that which, as far as it is in itself, is capable of being false, and impossible is that which by its own nature is not capable of being true. (Boethius, *On Aristotle’s On Interpretation* 2, II 234)
+    step1: |-
+      > 可能者是这样之物：就命题自身的本性而言能够为真……必然者是真实的东西，并且就其自身而言不会错。非必然者是就其自身而言能够为假的东西，不可能者是其自身本性上不能够为真的东西。（波爱修斯《亚里士多德〈解释篇〉注》2, II 234）
+    step2: |-
+      > 可能者是这样之物：就命题自身的本性而言能够为真……必然者是真实的东西，且就其自身而言不会错。非必然者是就其自身而言能够为假的东西；不可能者是其自身本性上不能够为真的东西。（波爱修斯《亚里士多德〈解释篇〉注》2, II 234）
+  - id: 32
+    kind: body
+    source: |-
+      So according to Boethius the basic feature of Philonian modalities is some intrinsic capability of the propositions to be or not to be true or false. That this feature is intrinsic is plain from the phrases ‘by its own nature’ and ‘in itself’. In one source, both phrases are used to characterize Philonian possibility (Simplicius, *On Aristotle’s Categories* 195); hence both phrases may have originally applied to all four accounts.
+    step1: |-
+      于是按波爱修斯的记载，菲洛式模态的基本特征是命题之为真或为假的某种内在能力。这一特征是内在的，从“就其自身的本性”与“就其自身”这些短语可以清楚看出。在一处文献中，这两个短语都被用来刻画菲洛式可能性（辛普里丘《亚里士多德〈范畴篇〉注》195）；因此两个短语原本可能都适用于全部四个说明。
+    step2: |-
+      按波爱修斯的记载，菲洛式模态的基本特征便是命题之为真或为假的某种内在能力。这一特征是内在的——从“就其自身的本性”与“就其自身”这些短语可以清楚看出。有一处文献同时用这两个短语刻画菲洛式可能性（辛普里丘《亚里士多德〈范畴篇〉注》195）；故两个短语原本可能都适用于全部四个说明。
+  - id: 33
+    kind: body
+    source: |-
+      Philo’s notion of possibility is often thought to be a broad notion of logical possibility (de Harven 2016, 3–4)[^harven-2016] with the only constraint on a proposition being possible being that it is a matter of logical consistency. Sometimes our sources seem to ground this consistency in the intrinsic features of the subject of that proposition. For example, according to Philo ‘this piece of wood burns at the bottom of the ocean’ is possible, since the intrinsic features of the wood give it the power to burn (Alexander *On Aristotle’s Prior Analytics* 184.7–9; Simplicius *On Aristotle’s Categories* 195,30–196, 3), and, presumably, there is no logical contradiction in saying ‘this piece of wood burns at the bottom of the ocean’. It is just that the extrinsic circumstances of being in the ocean prevent the wood from burning (Bobzien 1993, 77)[^bobzien-1993]. However, it is unclear whether this explanation is wholly adequate, since ‘preventing’ is itself a modal notion, so this explanation of the evidence risks circularity.
+    step1: |-
+      菲洛的可能性概念常被认为是一种宽的逻辑可能性概念（de Harven 2016, 3–4）[^harven-2016]，一个命题是可能的，其唯一约束条件是它在逻辑上融贯。有时我们的文献似乎把这种融贯性奠定于该命题的主项的内在特征之中。例如，按菲洛，“这块木头在海底燃烧”是可能的，因为木头的内在特征赋予它燃烧的能力（亚历山大《亚里士多德〈前分析篇〉注》184.7–9；辛普里丘《亚里士多德〈范畴篇〉注》195,30–196,3），而且，大概说来，说“这块木头在海底燃烧”并无逻辑矛盾。只不过处在海洋之中这一外在环境阻止了木头燃烧（Bobzien 1993, 77）[^bobzien-1993]。然而，这一解释是否完全恰当并不清楚，因为“阻止”本身就是一个模态概念，所以这种对证据的解释有循环之虞。
+    step2: |-
+      菲洛的可能性概念常被认为是一种宽的逻辑可能性概念（de Harven 2016, 3–4）[^harven-2016]：一个命题是可能的，唯一约束条件是它在逻辑上融贯。有时，我们的文献似乎把这种融贯性奠定于命题主项的内在特征之中。例如，按菲洛，“这块木头在海底燃烧”是可能的：木头的内在特征赋予它燃烧的能力（亚历山大《亚里士多德〈前分析篇〉注》184.7–9；辛普里丘《亚里士多德〈范畴篇〉注》195,30–196,3），而且大概说来，说“这块木头在海底燃烧”并无逻辑矛盾——只不过处在海洋之中这一外在环境阻止木头燃烧罢了（Bobzien 1993, 77）[^bobzien-1993]。然而这一解释是否完全恰当，并不清楚：“阻止”本身就是一个模态概念，故这种对证据的解释有循环之虞。
+  - id: 34
+    kind: body
+    source: |-
+      In all sources the concept of possibility stands out, and so it seems likely that Philo built his set of modal notions on a concept of internal consistency, as given in his account of possibility. Philo’s modal concepts are thus defined by resort to another, perhaps more basic, modal concept. As to the kind of logical consistency Philo had in mind, we learn nothing more. Notwithstanding this, there can be little doubt that Philo’s modal concepts satisfy a number of basic requirements which normal systems of modern modal logic tend to satisfy, too. (We assume here that Philo accepted the principle of bivalence, as we have no contrary information.) These requirements are:
+    step1: |-
+      在所有文献中，可能性概念都显得突出，因此菲洛很可能是基于一种内在融贯性概念——如他的可能性说明所给出的——来建立他的模态概念集的。菲洛的诸模态概念由此借助另一个或许更基本的模态概念来定义。至于菲洛心里所想的是哪种逻辑融贯性，我们无从得知更多。尽管如此，几乎无疑的是：菲洛的模态概念满足一系列基本要求，而现代标准模态逻辑系统通常也满足这些要求。（我们在此假定菲洛接受二值原则，因为我们没有相反的信息。）这些要求是：
+    step2: |-
+      在所有文献中，可能性概念都显得突出。因此菲洛很可能是以他的可能性说明所给出的那种内在融贯性概念为基础，来建立其模态概念集的；菲洛的诸模态概念由此借助另一个或许更基本的模态概念来定义。至于菲洛心里所想的是哪种逻辑融贯性，我们无从得知更多。尽管如此，几乎无疑的是：菲洛的模态概念满足一系列基本要求，而现代标准模态逻辑系统通常也满足它们。（我们在此假定菲洛接受二值原则，因为没有相反的信息。）这些要求是：
+  - id: 35
+    kind: body
+    source: |-
+      1. Every necessary proposition is true and every true proposition possible; every impossible proposition is false and every false proposition non-necessary.
+    step1: |-
+      1. 每个必然命题都是真的，每个真命题都是可能的；每个不可能命题都是假的，每个假命题都是非必然的。
+    step2: |-
+      1. 凡必然命题皆真，凡真命题皆可能；凡不可能命题皆假，凡假命题皆非必然。
+  - id: 36
+    kind: body
+    source: |-
+      According to Philo’s accounts, a proposition that is not capable of falsehood must be true; one that is true must be capable of being true; etc.
+    step1: |-
+      按菲洛的诸说明，一个不能够为假的命题必定为真；一个为真的命题必定能够为真；等等。
+    step2: |-
+      按菲洛的诸说明：不能够为假的命题必真；为真的命题必能够为真；等等。
+  - id: 37
+    kind: body
+    source: |-
+      1. The accounts of possibility and impossibility and those of necessity and non-necessity are contradictory to each other.
+    step1: |-
+      1. 可能性与不可能性的说明、必然性与非必然性的说明，彼此是矛盾关系。
+    step2: |-
+      1. 可能性与不可能性两组说明、必然性与非必然性两组说明，两两构成矛盾关系。
+  - id: 38
+    kind: body
+    source: |-
+      This can be directly read off the definitions.
+    step1: |-
+      这可以直接从定义读出。
+    step2: |-
+      这一点可直接从定义读出。
+  - id: 39
+    kind: body
+    source: |-
+      1. Necessity and possibility are interdefinable in the sense that a proposition is necessary precisely if its contradictory is not possible.
+    step1: |-
+      1. 必然性与可能性可以互相定义，意义是：一个命题是必然的，恰好当其矛盾命题不是可能的。
+    step2: |-
+      1. 必然性与可能性可互相定义：一个命题是必然的，恰好当其矛盾命题不是可能的。
+  - id: 40
+    kind: body
+    source: |-
+      This holds for Philo’s accounts, if one neglects the difference in the two phrases ‘in itself’ and ‘by its own nature’ or assumes that originally both were part of all the definitions. Then a proposition is not capable of being false precisely if its contradictory is not capable of being true, etc.
+    step1: |-
+      这对菲洛的诸说明成立，如果我们忽略“就其自身”与“就其自身的本性”两个短语之间的差异，或假定两者原本都是所有定义的一部分。于是，一个命题不能够为假，恰好当其矛盾命题不能够为真，等等。
+    step2: |-
+      若忽略“就其自身”与“就其自身的本性”两个短语之间的差异、或假定两者原本都见于所有定义，则这一点对菲洛的诸说明成立。于是：一个命题不能够为假，恰好当其矛盾命题不能够为真；等等。
+  - id: 41
+    kind: body
+    source: |-
+      1. Every proposition is either necessary or impossible or both possible and non-necessary, i.e. contingent.
+    step1: |-
+      1. 每个命题或者是必然的，或者是不可能的，或者既是可能的又是非必然的，即偶然的。
+    step2: |-
+      1. 每个命题，或者必然，或者不可能，或者既可能又非必然——即偶然的。
+  - id: 42
+    kind: body
+    source: |-
+      In Philo’s system this amounts to the fact that every proposition is either incapable of falsehood, or incapable of truth, or capable of both. The fact that Philo’s modal accounts — and those of Diodorus and the Stoics — satisfy these four requirements is of course no proof that the ancients consciously reflected upon all of them or regarded them all as principles with which their modal theories had to comply.
+    step1: |-
+      在菲洛的系统中，这相当于：每个命题要么不能够为假，要么不能够为真，要么对二者都有能力。菲洛的模态说明——以及狄奥多罗斯与斯多亚派的说明——满足这四项要求，这一事实当然并不证明古人对所有这些要求都有自觉的反省，或把它们全都视为其模态理论必须遵守的原则。
+    step2: |-
+      在菲洛的系统中，这相当于：每个命题要么不能够为假，要么不能够为真，要么对真与假都有能力。菲洛的模态说明——连同狄奥多罗斯与斯多亚派的说明——满足这四项要求；这一事实当然并不证明：古人对所有这些要求都有自觉的反省，或把它们全都视为其模态理论必须遵守的原则。
+  - id: 43
+    kind: body
+    source: |-
+      ### 4.2 Diodorean modalities
+    step1: |-
+      ### 4.2 狄奥多罗斯式模态
+    step2: |-
+      ### 4.2 狄奥多罗斯式模态
+  - id: 44
+    kind: body
+    source: |-
+      We know a little more about Diodorus’ modal theory (in addition to the passages cited for Philo, see Epictetus, *Dissertations* 2.19, Cicero, *On Fat*e 12, 13, 17; Plutarch, *Stoic Refutations* 1055e-f). Still, again only one text reports all four definitions of Diodorus’ modal notions:
+    step1: |-
+      关于狄奥多罗斯的模态理论，我们知道得稍多一些（除为菲洛引用的段落外，另见爱比克泰德《论说集》2.19，西塞罗《论命运》12, 13, 17；普鲁塔克《斯多亚自相矛盾论》1055e–f）。尽管如此，同样只有一段文本报道了狄奥多罗斯诸模态概念的全部四个定义：
+    step2: |-
+      关于狄奥多罗斯的模态理论，我们所知稍多（除为菲洛征引的段落外，另见爱比克泰德《论说集》2.19，西塞罗《论命运》12, 13, 17；普鲁塔克《斯多亚自相矛盾论》1055e–f）。尽管如此，同样只有一段文本报道了狄奥多罗斯诸模态概念的全部四个定义：
+  - id: 45
+    kind: body
+    source: |-
+      > Possible is that which either is or will be <true>; impossible that which is false and will not be true; necessary that which is true and will not be false; non-necessary that which either is false already or will be false. (Boethius, *On Aristotle’s On Interpretation* 2.II.234–235)
+    step1: |-
+      > 可能者是或者现在是、或者将是<真>的东西；不可能者现在是假的且将不为真的东西；必然者现在是真的且将不为假的东西；非必然者或者是现在已经是假的、或者是将为假的东西。（波爱修斯《亚里士多德〈解释篇〉注》2.II.234–235）
+    step2: |-
+      > 可能者是或者现在是、或者将是<真>的东西；不可能者现在是假的且将不为真的东西；必然者现在是真的且将不为假的东西；非必然者或者是现在已假、或者是将假的东西。（波爱修斯《亚里士多德〈解释篇〉注》2.II.234–235）
+  - id: 46
+    kind: body
+    source: |-
+      Two of these modal accounts are disjunctions, the other two are conjunctions. Provided that Diodorus accepted the principle of bivalence, these definitions, too, satisfy the modal requirements (i) to (iv) above, as can be checked easily.
+    step1: |-
+      这四个模态说明中有两个是析取式，另外两个是合取式。只要狄奥多罗斯接受二值原则，这些定义同样满足上述模态要求 (i)–(iv)，这一点容易核查。
+    step2: |-
+      四个模态说明中，两个是析取式，两个是合取式。只要狄奥多罗斯接受二值原则，这些定义同样满足上述模态要求 (i)–(iv)——这一点容易核查。
+  - id: 47
+    kind: body
+    source: |-
+      Apart from that, Diodorus’ modalities are of a very different kind from Philo’s. There is no modal expression hidden anywhere in his accounts. Instead, which Diodorean modality a proposition has depends wholly on the range of truth-values it has at present and in the future. For example, if a proposition is always true from now on, it is now both necessary and possible; if it is, from now on, sometimes true but not always, it is possible, but not necessary. Hence it is not the case — as is sometimes assumed — that for Diodorus, every proposition is either necessary (and possible) or impossible (and non-necessary). There are propositions that are contingent in the sense of being both possible and non-necessary, namely all those which will change their truth-value at some future time. The proposition ‘It is day’ is such a case.
+    step1: |-
+      除此之外，狄奥多罗斯的模态与菲洛的模态属于非常不同的类型。他的诸说明中没有任何地方隐藏着模态表达式。毋宁说，一个命题具有哪种狄奥多罗斯式模态，完全取决于它在现在与未来所具有的真值范围。例如，如果一个命题从今往后总是真的，那么它现在既是必然的又是可能的；如果它从今往后有时真但不总真，那么它是可能的但不是必然的。因此，并非如有时被假定的那样——对狄奥多罗斯来说，每个命题要么是必然的（且可能的）要么是不可能的（且非必然的）。存在这样一些命题，它们在既是可能的又是非必然的意义上是偶然的，即所有那些将在未来某个时刻改变真值的命题。“现在是白天”这个命题就是如此。
+    step2: |-
+      除此之外，狄奥多罗斯的模态与菲洛的模态属于非常不同的类型：他的诸说明中没有任何地方隐藏模态表达式。毋宁说，一个命题具有哪种狄奥多罗斯式模态，完全取决于它在现在与未来的真值范围。例如：一个命题若从今往后总是真的，它现在就既必然又可能；若从今往后有时真但不总真，它就可能而不必然。因此并非如有时被假定的那样——对狄奥多罗斯而言，每个命题要么必然（且可能）要么不可能（且非必然）。存在这样一些命题，它们既是可能的又是非必然的、在此意义上是偶然的：即所有将在未来某刻改变真值的命题。“现在是白天”便是如此。
+  - id: 48
+    kind: body
+    source: |-
+      The dependency of Diodorus’ modal notions on the propositions’ truth-values-at-times implies that some propositions can change their modality from possible to impossible and from non-necessary to necessary. For instance, if we assume that the proposition ‘Artemisia is five years old’ is now true, then that proposition is now possible; but it will presumably be impossible at some future time, namely once Artemisia has reached the age of six, since from then on it will never be true again (assuming linearity of time).
+    step1: |-
+      狄奥多罗斯的模态概念对命题“在诸时刻的真值”的依赖意味着：一些命题的模态可以从可能变为不可能，从非必然变为必然。例如，如果我们假定命题“阿尔泰米西娅五岁”现在为真，那么该命题现在是可能的；但它将来大概会变得不可能，即一旦阿尔泰米西娅年满六岁，因为从那时起它将永远不会再次为真（假定时间的线性）。
+    step2: |-
+      狄奥多罗斯的模态概念依赖于命题在诸时刻的真值；这意味着一些命题的模态可从可能变为不可能、从非必然变为必然。例如：假定命题“阿尔泰米西娅五岁”现在为真，则该命题现在是可能的；但它将来大概会变得不可能——一旦阿尔泰米西娅年满六岁，从那时起它将永远不会再次为真（假定时间线性）。
+  - id: 49
+    kind: body
+    source: |-
+      We do not know what motivated Diodorus to introduce his modal notions.[^note-1]. But we know that Hellenistic philosophers generally regarded Diodorus’ modal notions as jeopardizing freedom, since they rule out the possibility that something that never happens, or is never true, is nonetheless possible. Thus, if ‘Dio goes to Corinth’ is and will be false, then ‘Dio goes to Corinth’ is impossible, and then, or so the thought went, it is impossible for Dio to go to Corinth. In this context it becomes plain why our sources stress the fact that something can be Philonian possible without ever being true or obtaining.This is the relevant difference from Diodorus with respect to logical determinism, the point being that Philo’s modalities, unlike Diodorus’, do not unduly limit the scope of contingency.
+    step1: |-
+      我们不知道是什么促使狄奥多罗斯引入他的模态概念。[^note-1] 但我们知道，希腊化哲学家普遍认为狄奥多罗斯的模态概念危及自由，因为它们排除了这样一种可能性：某事从不发生、或从不为真，却仍然是可能的。于是，如果“狄翁去科林斯”现在且将永远为假，那么“狄翁去科林斯”就是不可能的，而由此——当时的想法如此——狄翁去科林斯就是不可能的了。在这种语境下，我们的文献为什么强调某物可以是菲洛式可能的、却从不为真或从不成立，就变得清楚了。这正是菲洛与狄奥多罗斯在逻辑决定论问题上的相关差异，要点在于：菲洛的模态不同于狄奥多罗斯的模态，不会不适当地限制偶然性的范围。
+    step2: |-
+      我们不知道是什么促使狄奥多罗斯引入其模态概念。[^note-1] 但我们知道：希腊化哲学家普遍认为狄奥多罗斯的模态概念危及自由，因为它们排除了这样一种可能——某事从不发生、从不为真，却仍然是可能的。于是，若“狄翁去科林斯”现在且永远为假，“狄翁去科林斯”便是不可能的；而由此——当时的想法如此——狄翁去科林斯便是不可能之事。在这种语境下，我们的文献为何强调某物可以是菲洛式可能的、却从不为真或从不成立，就变得清楚了。这正是菲洛与狄奥多罗斯在逻辑决定论问题上的相关差异，要点在于：菲洛的模态不同于狄奥多罗斯的模态，不会不适当地限制偶然性的范围。
+  - id: 50
+    kind: body
+    source: |-
+      ## 5. The Master Argument
+    step1: |-
+      ## 5. 主论证
+    step2: |-
+      ## 5. 主论证
+  - id: 51
+    kind: body
+    source: |-
+      Diodorus’ definition of that which is possible can be split into two distinct claims: first that everything that either is or will be true is possible, and second, that everything that is possible either is or will be true. The first statement was not questioned by Hellenistic philosophers. It is the second statement that was and is considered counterintuitive and in need of justification; it is this claim which Diodorus attempted to back up with his Master Argument (Alexander, On Aristotle’s *Prior Analytics* 183.34–184.6; Epictetus, *Dissertations* 2.19).
+    step1: |-
+      狄奥多罗斯关于可能者的定义可以拆分为两个不同的主张：其一，凡或者现在是或者将是真者都是可能的；其二，凡可能者都或者现在是或者将是真。第一个陈述没有被希腊化哲学家质疑过。被认为反直觉而需要辩护的是第二个陈述；狄奥多罗斯正是试图用他的主论证来支持这一主张（亚历山大《亚里士多德〈前分析篇〉注》183.34–184.6；爱比克泰德《论说集》2.19）。
+    step2: |-
+      狄奥多罗斯关于可能者的定义可拆分为两个不同的主张：其一，凡或者现在是、或者将是真者，都是可能的；其二，凡可能者，都或者现在是、或者将是真。第一个陈述从未被希腊化哲学家质疑；被认为反直觉而需要辩护的是第二个陈述。狄奥多罗斯正是试图用主论证来支持这一主张（亚历山大《亚里士多德〈前分析篇〉注》183.34–184.6；爱比克泰德《论说集》2.19）。
+  - id: 52
+    kind: body
+    source: |-
+      Despite being widely known in antiquity, the argument has not come down to us. All we have is one brief passage:
+    step1: |-
+      尽管在古代广为人知，这个论证并没有流传下来。我们所有的只是一段简短的文字：
+    step2: |-
+      这个论证在古代广为人知，却没有流传下来。我们所有的只是一段简短的文字：
+  - id: 53
+    kind: body
+    source: |-
+      > The Master argument seems to have been developed from the following starting points: There is a general conflict between the following three <statements>: (I) every past true <proposition> is necessary; and (II) the impossible does not follow from the possible; and (III) something is possible which neither is true nor will be true. Being aware of this conflict, Diodorus used the plausibility of the first two <statements> in order to show that (IV) nothing is possible that neither is nor will be true. (Epictetus, Dissertations 2.19.1)
+    step1: |-
+      > 主论证似乎是从如下出发点发展出来的：<下列三个陈述>之间存在普遍的冲突：(I) 每一个过去的真<命题>都是必然的；(II) 不可能者不后随于可能者；(III) 某物既不真也不将真，却是可能的。狄奥多罗斯意识到这一冲突，利用前两个<陈述>的可信性来表明：(IV) 凡既不真也不将真者，皆不可能。（爱比克泰德《论说集》2.19.1）
+    step2: |-
+      > 主论证似乎是从如下出发点发展出来的：<下列三个陈述>之间存在普遍的冲突：(I) 每一个过去的真<命题>都是必然的；(II) 不可能者不后随于可能者；(III) 某物既不真也不将真，却是可能的。狄奥多罗斯意识到这一冲突，利用前两个<陈述>的可信性来表明：(IV) 凡既不真也不将真者，皆不可能。（爱比克泰德《论说集》2.19.1）
+  - id: 54
+    kind: body
+    source: |-
+      This is usually understood as implying that the argument was grounded on statements (I) and (II), and had (IV), which is the contradictory of (III), as conclusion; and this is about as far as the passages lead us. But how did the argument run? There is a large and technical literature on the Master Argument and this entry can only offer an orientation to it. We can divide approaches into four groups along two axes, an approach suggested by (Uckelman 2023, 246 [Other Internet Resources]) and (Foster 2008, 21)[^foster-2008]. The first axis is whether the propositions in question are temporally definite or temporally indefinite, particularly in premise (I). The second axis is whether the ‘follows’ relation is a temporal succession relation or a logical consequence relation, particularly in (II). Temporally indefinite propositions are tensed propositions which can change their truth value over time, such as ‘it is day’, a proposition that is true once and false once in each twenty-four hour period. The truth-value of the proposition depends on the time of the valuation. Temporally definite propositions are such that there is an explicit or implicit indexing to a particular time, such as ‘it is day at noon on 31st October 2022’. Such a proposition is, as it were, always true (or false): the truth-value does not depend on the time of evaluation. In terms of ‘follows’, we might interpret (II) as a principle that the passage of time does not affect whether something is possible: once something is possible, it will not become impossible. (Rescher 1966)[^rescher-1966] and (Zeller 1882)[^zeller-1882] take this line. The alternative is to take ‘follows’ as a logical consequence relation. In that case, (II) amounts to the claim that there is not logical entailment from a possible proposition to an impossible one.
+    step1: |-
+      这通常被理解为暗示：该论证奠基于陈述 (I) 与 (II)，并以 (IV)——(III) 的矛盾命题——为结论；文献段落所能告诉我们的也大致到此为止。但论证究竟是如何进行的？关于主论证已有大量技术性文献，本词条只能提供一个导引。我们可以沿两条轴线把各种进路分为四组，这一分法由 (Uckelman 2023, 246 [其他网络资源]) 与 (Foster 2008, 21) 提出[^foster-2008]。第一条轴线是：相关命题是时间确定的还是时间不定的，尤其在前提 (I) 中。第二条轴线是：“推出”关系是时间相继关系还是逻辑后承关系，尤其在 (II) 中。时间不定命题是时态化命题，可以随时间改变真值，如“现在是白天”——一个在每二十四小时周期内各真一次、各假一次的命题。其真值依赖于赋值的时间。时间确定命题则带有对特定时间的显式或隐式索引，如“2022年10月31日正午是白天”。这种命题可以说是永远为真（或为假）的：其真值不依赖于求值的时间。至于“推出”，我们可以把 (II) 解释为如下原则：时间的流逝不影响某物是否可能：一物一旦可能，就不会变为不可能。（Rescher 1966）[^rescher-1966] 与（Zeller 1882）[^zeller-1882] 采取这条路线。另一种选择是把“推出”当作逻辑后承关系。在那种情况下，(II) 相当于主张：从一个可能命题到不可能命题之间不存在逻辑蕴涵。
+    step2: |-
+      这通常被理解为暗示：该论证奠基于陈述 (I) 与 (II)，以 (IV)——即 (III) 的矛盾命题——为结论；文献段落所能告诉我们的，也大致到此为止。可论证究竟如何进行？关于主论证已有大量技术性文献，本词条只能提供导引。我们可以沿两条轴线把各种进路分为四组；这一分法见于 (Uckelman 2023, 246 [其他网络资源]) 与 (Foster 2008, 21)[^foster-2008]。第一条轴线：相关命题是时间确定的还是时间不定的，尤其在前提 (I) 中。第二条轴线：“推出”关系是时间相继关系还是逻辑后承关系，尤其在 (II) 中。时间不定命题是时态化命题，可随时间改变真值，如“现在是白天”——在每二十四小时周期内各真一次、各假一次的命题；其真值依赖于赋值的时间。时间确定命题则带有对特定时间的显式或隐式索引，如“2022年10月31日正午是白天”；这种命题可以说永远为真（或为假）：其真值不依赖于求值的时间。至于“推出”，我们可以把 (II) 解释为如下原则：时间的流逝不影响某物是否可能——一物一旦可能，就不会变为不可能。（Rescher 1966）[^rescher-1966] 与（Zeller 1882）[^zeller-1882] 采取这条路线。另一种选择是把“推出”当作逻辑后承关系；在那种情况下，(II) 相当于主张：从可能命题到不可能命题之间不存在逻辑蕴涵。
+  - id: 55
+    kind: body
+    source: |-
+      Within that space of logically possible reconstructions of the argument, a viable historical reconstruction must satisfy a number of conditions. It must make use of the principles (I) and (II) handed down in Epictetus; in addition to these, it must make use solely of premises plausible to the Stoics; and it must appear valid. For we know that different Stoic philosophers attempted to refute (I) or (II), but we do not hear of anyone questioning the truth of any other premise or the validity of the argument. Moreover, the reconstruction must employ only the logical means and concepts available in antiquity; in particular the notions of proposition, consequence, and modalities used must fit in with the logic of the time, and it must be possible to formulate the argument in ordinary language. Finally, the restored argument should not have a complexity which precludes its presentation at a social gathering, since it appears that people enjoyed discussing the Master argument over dinner (Epictetus, *Dissertations*. 2.19.8).
+    step1: |-
+      在该论证在逻辑上可能的种种重构空间之内，一个可行的历史重构必须满足若干条件。它必须利用爱比克泰德所传下的原则 (I) 与 (II)；除这些之外，它必须只使用对斯多亚派而言可信的前提；并且它必须显得有效。因为我们知道不同的斯多亚哲学家曾试图反驳 (I) 或 (II)，但没有听说有人质疑其他任何前提的真或论证的有效性。此外，该重构必须只使用古代可得的逻辑手段与概念；特别地，所用的命题、后承与模态概念必须与当时的逻辑相合，并且必须能用日常语言表述该论证。最后，复原的论证不应具有使其无法在社交聚会中陈述的复杂性，因为人们似乎乐于在餐桌上讨论主论证（爱比克泰德《论说集》2.19.8）。
+    step2: |-
+      在该论证于逻辑上可能的种种重构所构成的空间之内，一个可行的历史重构必须满足若干条件。它必须利用爱比克泰德传下的原则 (I) 与 (II)；除此之外，只可使用斯多亚派觉得可信的前提；并且必须显得有效。因为我们知道：不同的斯多亚哲学家曾试图反驳 (I) 或 (II)，却未曾听说有人质疑其他任何前提的真或论证的有效性。此外，重构只可使用古代可得的逻辑手段与概念；特别地，所用到的命题、后承与模态概念必须与当时的逻辑相合，且该论证必须能用日常语言表述。最后，复原的论证不应复杂到无法在社交聚会中陈述——人们似乎乐于在餐桌上讨论主论证（爱比克泰德《论说集》2.19.8）。
+  - id: 56
+    kind: body
+    source: |-
+      Because of these historical constraints, most writers hold that the Master Argument concerns temporally indefinite propositions and that the ‘follows’ relation is a logical consequence relation. This sort of approach was pioneered by Arthur Prior. (Prior 1955)[^prior-1955]. Prior’s reflections on Diodorus’ Master Argument go back to his unpublished manuscript *The Craft of Formal Logic* (Markoska-Cubrinovska 2018)[^markoska-cubrinovska-2018]. For an interesting recent comparison of how Prior and Mates reconstruct the Master Argument see Corpina and Øhrstrøm 2018).
+    step1: |-
+      由于这些历史约束，大多数作者认为主论证涉及的是时间不定命题，而“推出”关系是逻辑后承关系。这类进路由阿瑟·普赖尔开创（Prior 1955）[^prior-1955]。普赖尔对狄奥多罗斯主论证的思考可以追溯到其未刊稿《形式逻辑的技艺》（Markoska-Cubrinovska 2018）[^markoska-cubrinovska-2018]。关于普赖尔与梅特斯如何重构主论证的有趣的近期比较，见 Corpina and Øhrstrøm 2018）。
+    step2: |-
+      受这些历史约束，大多数作者认为：主论证涉及时间不定命题，“推出”关系是逻辑后承关系。这类进路由阿瑟·普赖尔开创（Prior 1955）[^prior-1955]。普赖尔对狄奥多罗斯主论证的思考可上溯至其未刊稿《形式逻辑的技艺》（Markoska-Cubrinovska 2018）[^markoska-cubrinovska-2018]。关于普赖尔与梅特斯各自如何重构主论证的有趣的近期比较，见 Corpina and Øhrstrøm 2018）。
+  - id: 57
+    kind: body
+    source: |-
+      We will offer here an informal reconstruction along the line suggested by Prior, which has the advantage of being historically credible and in keeping with the above constraints. The Epictetus passage suggests that the argument was presented in terms of propositions and their modalities, and so will the reconstruction. Other sources present Diodorus’ modalities as modalities of states of affairs, and alternative versions of the Master argument can be produced accordingly. (The difference between propositions and states of affairs is often blurred in ancient testimonies of logic.)
+    step1: |-
+      我们在此将沿普赖尔建议的路线给出一个非正式的重构，其优点是历史可信且符合上述约束。爱比克泰德的段落提示，该论证是以命题及其模态来陈述的，重构也将如此。其他文献把狄奥多罗斯的模态呈现为事态的模态，相应地也可以给出主论证的其他版本。（在古代的逻辑见证中，命题与事态之间的区别常常是模糊的。）
+    step2: |-
+      我们在此沿普赖尔建议的路线给出一个非正式的重构；其优点是历史可信，且符合上述约束。爱比克泰德的段落提示：该论证以命题及其模态来陈述；重构也将如此。其他文献则把狄奥多罗斯的模态呈现为事态的模态，相应地可以给出主论证的其他版本。（在古代的逻辑见证中，命题与事态的区分常常是模糊的。）
+  - id: 58
+    kind: body
+    source: |-
+      In line with Diodorus’ modal definition, the general conclusion of the argument (IV) may be reformulated as
+    step1: |-
+      按照狄奥多罗斯的模态定义，论证的一般结论 (IV) 可以重新表述为
+    step2: |-
+      按狄奥多罗斯的模态定义，论证的一般结论 (IV) 可重新表述为
+  - id: 59
+    kind: body
+    source: |-
+      **(IV′)**
+    step1: |-
+      **(IV′)**
+    step2: |-
+      **(IV′)**
+  - id: 60
+    kind: body
+    source: |-
+      If a proposition neither is nor will be true it is impossible.
+    step1: |-
+      如果一个命题既不真也不将真，它就是不可能的。
+    step2: |-
+      一个命题既不真也不将真，则它是不可能的。
+  - id: 61
+    kind: body
+    source: |-
+      The first statement is less clear. It runs
+    step1: |-
+      第一个陈述较不清楚。它是
+    step2: |-
+      第一个陈述较不清楚。它说：
+  - id: 62
+    kind: body
+    source: |-
+      **(I)**
+    step1: |-
+      **(I)**
+    step2: |-
+      **(I)**
+  - id: 63
+    kind: body
+    source: |-
+      Every past true <proposition> is necessary.
+    step1: |-
+      每一个过去的真<命题>都是必然的。
+    step2: |-
+      凡过去的真<命题>皆必然。
+  - id: 64
+    kind: body
+    source: |-
+      The Greek term used for ‘past’ (*parelêluthos*) is a standard Stoic expression for past propositions, meaning not that the proposition itself subsisted in the past, but that it is in some sense about the past. The principle occurs also in Cicero, together with some explication:
+    step1: |-
+      用于“过去的”（*parelêluthos*）的希腊术语是斯多亚派表示过去命题的标准表达式，意思不是说命题本身在过去实存过，而是说它在某种意义上是关于过去的。这一原则也出现在西塞罗那里，并附有某些解释：
+    step2: |-
+      “过去的”（*parelêluthos*）所用的希腊术语，是斯多亚派表示过去命题的标准表达式：意思不是说命题本身在过去实存过，而是说它在某种意义上是关于过去的。这一原则也见于西塞罗，并附有某些解释：
+  - id: 65
+    kind: body
+    source: |-
+      > All true <propositions> of the past are necessary … since they are unalterable, i.e. since past <propositions> cannot change from true to false. (Cicero, *On Fate* 14)
+    step1: |-
+      > 过去的一切真<命题>都是必然的……因为它们是不可改变的，即因为过去的<命题>不能由真变假。（西塞罗《论命运》14）
+    step2: |-
+      > 过去的一切真<命题>都是必然的……因为它们是不可改变的，即因为过去的<命题>不能由真变假。（西塞罗《论命运》14）
+  - id: 66
+    kind: body
+    source: |-
+      From this passage we may infer that it was a peculiarity of all past true propositions that they cannot change their truth-value to falsehood; and that because of this they are necessary. This suggests that the past true propositions at issue do not include all propositions in the past tense, but that they were those propositions which correspond to some past state or event. For instance, the true past proposition ‘I went to Athens’ corresponds to the event of my having gone to Athens. It can never become false, once it is true. Assume that I went to Athens last month. Then the proposition ‘I went to Athens’ is not only true now, it will also be true tomorrow, the day after, and in fact always from now on. The truth of the proposition is based on the fact that there has been a case of my going to Athens, and — whatever happens from now on — this cannot unhappen. (One can bring out this feature more clearly by reformulating the proposition as ‘It has been the case that I went to Athens’). On the other hand, the proposition ‘You have not been to Athens’ does not correspond to a past state or event. Suppose that up to now you never went to Athens. Then the proposition is true now. Now suppose in addition that you will go to Athens next week. After you have gone there, the proposition ‘You have not been to Athens’ is no longer true. Hence it is not necessary now. (This proposition cannot be correctly paraphrased as ‘It has been the case that you were not in Athens’). We may hence reformulate statement (I) as
+    step1: |-
+      从这段话我们可以推断：一切过去的真命题的特殊之处在于它们不能把真值改变为假；并且正因为如此它们才是必然的。这提示，所讨论的过去的真命题并不包括过去时态的所有命题，而是那些对应于某个过去状态或事件的命题。例如，过去的真命题“我去了雅典”对应于我去了雅典这一事件。它一旦为真，就永远不会变假。假定我上个月去了雅典。那么命题“我去了雅典”不仅现在为真，明天、后天、实际上从今以后都永远为真。该命题之为真基于这样的事实：存在过我去雅典的一例，而且——无论今后发生什么——这都不可能“逆发生”（unhappen）。（把该命题重新表述为“曾经是这种情况：我去了雅典”可以更清楚地显示这一特征。）另一方面，命题“你没有去过雅典”不对应于任何过去的状态或事件。假定你至今从未去过雅典。那么该命题现在为真。再假定你下周将去雅典。在你去过之后，命题“你没有去过雅典”就不再为真。因此它现在不是必然的。（这一命题不能被正确地改写为“曾经是这种情况：你不在雅典”。）由此我们可以把陈述 (I) 重新表述为
+    step2: |-
+      由这段话可推断：一切过去的真命题的特殊之处在于不能把真值改为假；正因如此，它们才是必然的。这提示：所讨论的过去的真命题，并不包括过去时态的所有命题，而是那些对应于某个过去状态或事件的命题。例如，过去的真命题“我去了雅典”对应于我去了雅典这一事件；它一旦为真，便永远不会变假。假定我上个月去了雅典：则命题“我去了雅典”不仅现在为真，明天、后天、实际上从今以后都永远为真。该命题之为真，基于这样一个事实：存在过我去雅典的一例；而且——无论今后发生什么——这都不可能“逆发生”（unhappen）。（把该命题改述为“曾经是这种情况：我去了雅典”，这一特征便更清楚。）另一方面，命题“你没有去过雅典”不对应于任何过去的状态或事件。假定你至今从未去过雅典：该命题现在为真。再假定你下周将去雅典：在你去过之后，“你没有去过雅典”就不再为真，因此现在不必然。（这一命题不能正确地改写为“曾经是这种情况：你不在雅典”。）由此，陈述 (I) 可重新表述为
+  - id: 67
+    kind: body
+    source: |-
+      **(I′)**
+    step1: |-
+      **(I′)**
+    step2: |-
+      **(I′)**
+  - id: 68
+    kind: body
+    source: |-
+      Every true proposition that corresponds to a past state or event is necessary.
+    step1: |-
+      每一个对应于过去状态或事件的真命题都是必然的。
+    step2: |-
+      凡对应于过去状态或事件的真命题，皆必然。
+  - id: 69
+    kind: body
+    source: |-
+      The second statement that functions as a premise in the argument is
+    step1: |-
+      在论证中作为前提的第二个陈述是
+    step2: |-
+      论证中作为前提的第二个陈述是
+  - id: 70
+    kind: body
+    source: |-
+      **(II)**
+    step1: |-
+      **(II)**
+    step2: |-
+      **(II)**
+  - id: 71
+    kind: body
+    source: |-
+      The impossible does not follow from the possible,
+    step1: |-
+      不可能者不后随于可能者，
+    step2: |-
+      凡不可能者，不后随于可能者，
+  - id: 72
+    kind: body
+    source: |-
+      This was accepted by Aristotle and, with the exception of Chrysippus, by all Hellenistic logicians. At least by the Stoics it was understood as
+    step1: |-
+      这一陈述为亚里士多德所接受，也为除克吕西波之外的所有希腊化逻辑学家所接受。至少斯多亚派把它理解为
+    step2: |-
+      这一陈述为亚里士多德所接受，也为克吕西波之外的所有希腊化逻辑学家所接受。至少在斯多亚派那里，它被理解为
+  - id: 73
+    kind: body
+    source: |-
+      **(II′)**
+    step1: |-
+      **(II′)**
+    step2: |-
+      **(II′)**
+  - id: 74
+    kind: body
+    source: |-
+      An impossible proposition does not follow from a possible one.
+    step1: |-
+      一个不可能的命题不后随于一个可能的命题。
+    step2: |-
+      一个不可能命题不后随于一个可能命题。
+  - id: 75
+    kind: body
+    source: |-
+      This amounts to the statement that if a proposition is impossible and follows from some other proposition, then this other proposition is impossible, too.
+    step1: |-
+      这等于说：如果一个命题是不可能的，并且它后随于某个其他命题，那么这个其他命题也是不可能的。
+    step2: |-
+      这等于说：一个命题若是不可能的，且后随于另一命题，则那另一命题也不可能。
+  - id: 76
+    kind: body
+    source: |-
+      The following reconstruction assumes that, in addition to (I) and (II), the argument rests on a couple of further principles, which might have been generally taken to be valid and thus not worth mentioning, or else which might have been generally accepted by the Stoics and for this reason omitted by Epictetus. The first additional principle is
+    step1: |-
+      下面的重构假定：除 (I) 与 (II) 之外，论证还依赖另外几条原则，它们或者被普遍认为有效因而不值一提，或者被斯多亚派普遍接受因而被爱比克泰德省略。第一条补充原则是
+    step2: |-
+      下面的重构假定：除 (I) 与 (II) 之外，论证还依赖另外几条原则——它们或者因被普遍认为有效而不值一提，或者因斯多亚派普遍接受而被爱比克泰德省略。第一条补充原则是
+  - id: 77
+    kind: body
+    source: |-
+      **(V)**
+    step1: |-
+      **(V)**
+    step2: |-
+      **(V)**
+  - id: 78
+    kind: body
+    source: |-
+      If something is the case now, then it has always been the case that it will be the case.
+    step1: |-
+      如果某事现在如此，那么向来是这种情况：它将会如此。
+    step2: |-
+      某事若现在如此，则向来是这种情况：它将会如此。
+  - id: 79
+    kind: body
+    source: |-
+      For instance, if I am in Athens now, then it has always in the past been the case that I would be in Athens (at some time). This principle gains historical plausibility from the fact that we find a version of it in Aristotle (*On Interpretation* 9, 18b9–11), and that another version of it was accepted by the Stoics (Cicero, *On Divination* 1.125). The second additional principle is
+    step1: |-
+      例如，如果我现在在雅典，那么在过去任何时候都是这种情况：我（在某个时刻）会在雅典。这一原则具有历史可信性，因为我们在亚里士多德那里发现它的一个版本（《解释篇》9, 18b9–11），而它的另一个版本为斯多亚派所接受（西塞罗《论占卜》1.125）。第二条补充原则是
+    step2: |-
+      例如：我现在若在雅典，则在过去任何时候都是这种情况——我（在某个时刻）会在雅典。这一原则有历史可信性：我们在亚里士多德那里发现它的一个版本（《解释篇》9, 18b9–11），它的另一版本则为斯多亚派所接受（西塞罗《论占卜》1.125）。第二条补充原则是
+  - id: 80
+    kind: body
+    source: |-
+      **(VI)**
+    step1: |-
+      **(VI)**
+    step2: |-
+      **(VI)**
+  - id: 81
+    kind: body
+    source: |-
+      If something neither is nor will be true, then it has been the case (at some time) that it will never be the case.[^note-2]
+    step1: |-
+      如果某事既不真也不将真，那么曾经（在某时）是这种情况：它永远不会如此。[^note-2]
+    step2: |-
+      某事若既不真也不将真，则曾经（在某时）是这种情况：它永远不会如此。[^note-2]
+  - id: 82
+    kind: body
+    source: |-
+      This statement is based on the idea that if a proposition presently neither is nor will be true, and you step back in time, as it were, then the formerly present ‘not being true’ turns into a future ‘not going to be true’, so that from the point of view of the past, the proposition will never be true, and the corresponding state of affairs will never be the case. (This is assumed to hold at least for the past moment that immediately precedes the present.) This principle has some plausibility to it. There is some evidence that it may have been discussed in antiquity (Becker 1961, 253–5)[^becker-1961].
+    step1: |-
+      这一陈述基于如下想法：如果一个命题现在既不真也不将真，而你——可以说——向过去退一步，那么先前的“不真”就变成了将来的“将不会真”，于是从过去的观点看，该命题永远不会为真，相应的事态永远不会成立。（这被假定至少对紧邻现在的那个过去时刻成立。）这一原则有某种可信性。有一些证据表明它在古代可能被讨论过（Becker 1961, 253–5）[^becker-1961]。
+    step2: |-
+      这一陈述基于如下想法：一个命题若现在既不真也不将真，而你——可以说——向过去退一步，则先前的“不真”就变成将来的“将不会真”；于是从过去的观点看，该命题永不为真，相应的事态永不成立。（这被假定至少对紧邻现在的那个过去时刻成立。）这一原则有几分可信性；有证据表明它在古代可能被讨论过（Becker 1961, 253–5）[^becker-1961]。
+  - id: 83
+    kind: body
+    source: |-
+      Next the construction of the argument: Fallacies and sophisms were generally presented by means of an example which stands in for the general case, and it is plausible that this was so for the Master Argument as well, although other explanations for the name have been offered (Massie 2016, 281n3)[^massie-2016]. Overall, the argumentation then proceeded as follows: you assume of a chosen proposition that it neither is nor will be true; next, by employing (I), (II), (V) and (VI), you deduce that this proposition is impossible. Then you generalize the result to all propositions, since nothing in the argument hinges on the fact that this particular proposition was selected. A suitable example can be found in Alexander’s passage on Diodorus’ notion of possibility and the Master Argument: the proposition ‘I am in Corinth.’ The argument then starts with the assumption that
+    step1: |-
+      接下来是论证的构造：谬误与诡辩一般是通过一个替例来陈述的，以该例代表一般情形；对主论证来说很可能也是如此，尽管对该名称也有其他解释（Massie 2016, 281n3）[^massie-2016]。整体而言，论证随后按如下方式进行：你就一个选定的命题假定它既不真也不将真；接着，运用 (I)、(II)、(V) 与 (VI)，你推出该命题是不可能的。然后你把结果推广到所有命题，因为论证中没有丝毫内容系于恰好选中了这个命题。一个合适的例子可以在亚历山大关于狄奥多罗斯可能性概念与主论证的段落中找到：命题“我在科林斯”。论证于是从如下假定开始：
+    step2: |-
+      接下来是论证的构造。谬误与诡辩一般经由一个替例来陈述，以该例代表一般情形；主论证很可能也是如此，尽管对该名称另有解释（Massie 2016, 281n3）[^massie-2016]。整体而言，论证随后如此进行：就一个选定的命题，你假定它既不真也不将真；接着，运用 (I)、(II)、(V) 与 (VI)，你推出该命题不可能。然后你把结果推广到所有命题——论证中没有丝毫内容系于恰好选中了这个命题。一个合适的例子见于亚历山大论狄奥多罗斯可能性概念与主论证的段落：命题“我在科林斯”。论证于是从如下假定开始：
+  - id: 84
+    kind: body
+    source: |-
+      **(1)**
+    step1: |-
+      **(1)**
+    step2: |-
+      **(1)**
+  - id: 85
+    kind: body
+    source: |-
+      the proposition ‘I am in Corinth’ neither is nor will ever be true.
+    step1: |-
+      命题“我在科林斯”既不真，也将永远不会真。
+    step2: |-
+      命题“我在科林斯”既不真，也将永不真。
+  - id: 86
+    kind: body
+    source: |-
+      The conclusion to be demonstrated is that
+    step1: |-
+      待证明的结论是
+    step2: |-
+      待证的结论是
+  - id: 87
+    kind: body
+    source: |-
+      **(C)**
+    step1: |-
+      **(C)**
+    step2: |-
+      **(C)**
+  - id: 88
+    kind: body
+    source: |-
+      the proposition ‘I am in Corinth’ is impossible.
+    step1: |-
+      命题“我在科林斯”是不可能的。
+    step2: |-
+      命题“我在科林斯”不可能。
+  - id: 89
+    kind: body
+    source: |-
+      By (VI) it follows from (1) that
+    step1: |-
+      由 (VI)，从 (1) 得到
+    step2: |-
+      由 (VI)，自 (1) 得
+  - id: 90
+    kind: body
+    source: |-
+      **(2)**
+    step1: |-
+      **(2)**
+    step2: |-
+      **(2)**
+  - id: 91
+    kind: body
+    source: |-
+      it has been the case (at some time) that I will never be in Corinth.
+    step1: |-
+      曾经（在某时）是这种情况：我永远不会在科林斯。
+    step2: |-
+      曾经（在某时）如此：我永远不会在科林斯。
+  - id: 92
+    kind: body
+    source: |-
+      By (I) (‘all past truths are necessary’), it follows from (2) that
+    step1: |-
+      由 (I)（“一切过去的真理都是必然的”），从 (2) 得到
+    step2: |-
+      由 (I)（“凡过去的真理皆必然”），自 (2) 得
+  - id: 93
+    kind: body
+    source: |-
+      **(3)**
+    step1: |-
+      **(3)**
+    step2: |-
+      **(3)**
+  - id: 94
+    kind: body
+    source: |-
+      the proposition ‘It has been the case (at some time) that I will never be in Corinth’ is necessary.
+    step1: |-
+      命题“曾经（在某时）是这种情况：我永远不会在科林斯”是必然的。
+    step2: |-
+      “曾经（在某时）是这种情况：我永远不会在科林斯”这一命题是必然的。
+  - id: 95
+    kind: body
+    source: |-
+      But since necessity of a proposition is equivalent to the impossibility of its contradictory (modal requirement (iii) above), from (3) it follows that
+    step1: |-
+      但由于一个命题的必然性等值于其矛盾命题的不可能性（上述模态要求 (iii)），从 (3) 得到
+    step2: |-
+      但由于命题的必然性等值于其矛盾命题的不可能性（上述模态要求 (iii)），自 (3) 得
+  - id: 96
+    kind: body
+    source: |-
+      **(4)**
+    step1: |-
+      **(4)**
+    step2: |-
+      **(4)**
+  - id: 97
+    kind: body
+    source: |-
+      the proposition ‘It has always been the case that I will be in Corinth (at some time)’ is impossible.[^note-3]
+    step1: |-
+      命题“向来是这种情况：我（在某时）会到科林斯”是不可能的。[^note-3]
+    step2: |-
+      “向来是这种情况：我（在某时）会到科林斯”这一命题是不可能的。[^note-3]
+  - id: 98
+    kind: body
+    source: |-
+      Now, according to (V), it holds that
+    step1: |-
+      现在，按 (V)，下式成立：
+    step2: |-
+      现在，按 (V)，成立的是：
+  - id: 99
+    kind: body
+    source: |-
+      **(5)**
+    step1: |-
+      **(5)**
+    step2: |-
+      **(5)**
+  - id: 100
+    kind: body
+    source: |-
+      if I am in Corinth, then it has always been the case that I will be in Corinth (at some time).
+    step1: |-
+      如果我在科林斯，那么向来是这种情况：我（在某时）会到科林斯。
+    step2: |-
+      我若在科林斯，则向来是这种情况：我（在某时）会到科林斯。
+  - id: 101
+    kind: body
+    source: |-
+      This is equivalent to
+    step1: |-
+      这等值于
+    step2: |-
+      这与下式等值：
+  - id: 102
+    kind: body
+    source: |-
+      **(5′)**
+    step1: |-
+      **(5′)**
+    step2: |-
+      **(5′)**
+  - id: 103
+    kind: body
+    source: |-
+      the proposition ‘It has always been the case that I will be in Corinth (at some time)’ follows from the (initial) proposition ‘I am in Corinth’.
+    step1: |-
+      命题“向来是这种情况：我（在某时）会到科林斯”后随于（初始）命题“我在科林斯”。
+    step2: |-
+      “向来是这种情况：我（在某时）会到科林斯”这一命题，后随于（初始）命题“我在科林斯”。
+  - id: 104
+    kind: body
+    source: |-
+      Now we can apply (II) (‘the impossible follows from the impossible’) to (4) and (5′), and obtain as a result that
+    step1: |-
+      现在我们可以把 (II)（“不可能者后随于不可能者”）应用于 (4) 与 (5′)，并由此得到
+    step2: |-
+      现在可以把 (II)（“不可能者后随于不可能者”）应用于 (4) 与 (5′)，结果得到
+  - id: 105
+    kind: body
+    source: |-
+      **(C)**
+    step1: |-
+      **(C)**
+    step2: |-
+      **(C)**
+  - id: 106
+    kind: body
+    source: |-
+      the proposition ‘I am in Corinth’ is impossible.
+    step1: |-
+      命题“我在科林斯”是不可能的。
+    step2: |-
+      命题“我在科林斯”不可能。
+  - id: 107
+    kind: body
+    source: |-
+      And this is precisely what the Master argument was meant to show. Moreover, this argument appears to be valid.
+    step1: |-
+      而这恰是主论证想要表明的。此外，这个论证显得是有效的。
+    step2: |-
+      而这恰是主论证想要表明的。此外，这个论证显得有效。
+  - id: 108
+    kind: body
+    source: |-
+      Where does the argument go wrong? The ancients went in for criticizing (I) and (II), and one may indeed wonder whether (I) covers cases of the kind to which it has been applied above. But there are also a couple of things questionable with (V) and (VI). With a certain continuum theory of time, it turns out that (VI) does not hold for those cases in which the proposition at issue has started to be false only at the present moment (Denyer 1981, 43 and 45)[^denyer-1981]. More importantly, (V) and its variants seem to smuggle in a deterministic assumption. On one or another of these grounds, then, one may attempt to hold the Master Argument unsound, and so to reject Diodorus’ own account of the possible as what either is or will be true.
+    step1: |-
+      论证在哪里出错了？古人致力于批评 (I) 与 (II)，人们也的确可以追问 (I) 是否涵盖上文应用它的那类情形。但 (V) 与 (VI) 也有几处可疑之处。依据某种连续统时间理论，结果表明 (VI) 对下述情形不成立：所论命题只是在当前这一刻才开始为假（Denyer 1981, 43 与 45）[^denyer-1981]。更重要的是，(V) 及其变体似乎偷偷引入了一个决定论假定。于是，基于这样或那样的理由，人们可以尝试认定主论证不健全，从而拒绝狄奥多罗斯自己关于可能者即或者现在是或者将是真者的说明。
+    step2: |-
+      论证在哪里出了错？古人致力于批评 (I) 与 (II)；人们也的确可以追问：(I) 是否涵盖上文应用它的那类情形。但 (V) 与 (VI) 同样有可疑之处。依据某种连续统时间理论，结果表明 (VI) 对如下情形不成立：所论命题只是在当前这一刻才开始为假（Denyer 1981, 43 与 45）[^denyer-1981]。更重要的是，(V) 及其变体似乎偷偷引入了决定论假定。于是，基于这样或那样的理由，人们可以尝试认定主论证不健全，从而拒斥狄奥多罗斯自己关于可能者——即或者现在是、或者将是真者——的说明。
+  - id: 109
+    kind: body
+    source: |-
+      ## 6.The Reaper Argument
+    step1: |-
+      ## 6. 收割者论证
+    step2: |-
+      ## 6. 收割者论证
+  - id: 110
+    kind: body
+    source: |-
+      Like the Master Argument, the Reaper Argument emerged from the Dialectical School and appears to argue against future contingencies. Unlike the Master Argument, we have good evidence for how the argument was formulated. Our main source for the detail of the Reaper argument is Ammonius’ commentary on Aristotle’s *De Interpretatione* 9, in the 5th century of our era. But the Reaper argument had a long history. Zeno of Citium, the founder of Stoicism, paid good money for seven versions of the argument (DL 7.25 (part)= LS 31M=*SVF* 1.279). Zeno learned the argument from an unnamed dialectician. Usually scholars take it this to be a member of the Dialectical School. DL 7.44 lists the Reaper alongside the Veiled Man, the Horned Man and the No Man, and DL 2.111 gives Diodorus as the author of the Veiled and Horned arguments. Aside from school affiliation and the tenuous connection in DL, the content of the argument has suggested that Diodorus may have authored, or at least deployed, the Reaper as a companion to the Master Argument (Sedley 1977, 98; Seel 1993, 317–18; Bobzien 1998, 79–86; Sorabji 2014, 4–5)[^bobzien-1998][^sedley-1977][^seel-1993][^sorabji-2014].
+    step1: |-
+      与主论证一样，收割者论证出自辩证学派，并且似乎论证反对未来的偶然性。与主论证不同，我们对该论证如何陈述有充分的证据。关于收割者论证细节的主要文献是阿莫尼俄斯于公元5世纪对亚里士多德《解释篇》第9章的注疏。但收割者论证有着漫长的历史。斯多亚学派的创始人、基提翁的塞诺曾出好价钱买下该论证的七个版本（DL 7.25（部分）= LS 31M = *SVF* 1.279）。塞诺从一位无名辩证家那里学得该论证。学者们通常认为此人即辩证学派的一名成员。DL 7.44 将收割者论证与蒙面人论证、有角人论证和无人论证并列，DL 2.111 则把蒙面人论证与有角人论证的作者归于狄奥多罗斯。除了学派归属与 DL 中那条微弱的联系之外，论证的内容本身也提示：狄奥多罗斯可能创作了收割者论证，或至少把它当作主论证的同伴加以部署（Sedley 1977, 98; Seel 1993, 317–18; Bobzien 1998, 79–86; Sorabji 2014, 4–5）[^bobzien-1998][^sedley-1977][^seel-1993][^sorabji-2014]。
+    step2: |-
+      与主论证一样，收割者论证出自辩证学派，且似乎旨在反驳未来的偶然性。与主论证不同，我们对该论证如何陈述握有充分的证据：其细节的主要文献是阿莫尼俄斯于公元5世纪所作的亚里士多德《解释篇》第9章注疏。但收割者论证源远流长——斯多亚学派的创始人、基提翁的塞诺曾出好价钱买下该论证的七个版本（DL 7.25（部分）= LS 31M = *SVF* 1.279）。塞诺从一位无名辩证家处学得该论证；学者们通常认为此人即辩证学派的一员。DL 7.44 把收割者论证与蒙面人论证、有角人论证、无人论证并列；DL 2.111 则把蒙面人与有角人两论证的作者归于狄奥多罗斯。除学派归属与 DL 中那条微弱的联系之外，论证的内容本身也提示：狄奥多罗斯可能创作了收割者论证，或至少把它当作主论证的同伴加以部署（Sedley 1977, 98; Seel 1993, 317–18; Bobzien 1998, 79–86; Sorabji 2014, 4–5）[^bobzien-1998][^sedley-1977][^seel-1993][^sorabji-2014]。
+  - id: 111
+    kind: body
+    source: |-
+      The argument is recorded in several sources, but the most fulsome and reliable account is in Ammonius’ Commentary *On Aristotle’s On Interpretation* (131,20–131,33):
+    step1: |-
+      该论证记载于若干文献，但最详尽可靠的说明见于阿莫尼俄斯《亚里士多德〈解释篇〉注》（131,20–131,33）：
+    step2: |-
+      该论证记载于若干文献；最详尽可靠的说明见于阿莫尼俄斯《亚里士多德〈解释篇〉注》（131,20–131,33）：
+  - id: 112
+    kind: body
+    source: |-
+      > The more verbal one proceeds from some activity of ours, for example, from the activity of reaping, in the following way: (I) if you will reap, they say, it is not the case that perhaps you will reap and perhaps you won’t reap, rather you’ll reap anyway (*pantos*); and (II) if you will not reap, similarly, it is not the case that perhaps you’ll reap and perhaps you won’t reap, rather you won’t reap anyway. (III) But necessarily, either you will reap or you won’t reap. (IV) So ‘perhaps’ has been destroyed, since it has no place either in the opposition of reaping to not reaping (one of these occurring of necessity), or in what follows from either of the hypotheses. (V) But the ‘perhaps’ was what introduced the contingent. (VI) Therefore the contingent is gone.
+    step1: |-
+      > 更为语词化的那一个论证从我们的某种活动出发，例如从收割这一活动，方式如下：(I) 他们说，如果你将收割，那么并非也许你将收割、也许你将不收割，而是你反正都会收割（*pantos*）；(II) 如果你将不收割，同样，并非也许你将收割、也许你将不收割，而是你反正都不会收割。(III) 但是必然地，你要么将收割，要么将不收割。(IV) 于是“也许”被摧毁了，因为它无论是在收割与不收割的对立之中（两者之一必然发生），还是在两个假定各自推出的东西之中，都没有位置。(V) 但“也许”正是引入偶然者的东西。(VI) 所以偶然者消失了。
+    step2: |-
+      > 更为语词化的那一个论证从我们的某种活动出发，例如从收割这一活动，方式如下：(I) 他们说，如果你将收割，那么并非也许你将收割、也许你将不收割，而是你反正都会收割（*pantos*）；(II) 如果你将不收割，同样，并非也许你将收割、也许你将不收割，而是你反正都不会收割。(III) 但是必然地，你要么将收割，要么将不收割。(IV) 于是“也许”被摧毁了，因为它无论是在收割与不收割的对立之中（两者之一必然发生），还是在两个假定各自推出的东西之中，都没有位置。(V) 但“也许”正是引入偶然者的东西。(VI) 所以偶然者消失了。
+  - id: 113
+    kind: body
+    source: |-
+      The overall structure of the argument is clear enough. The first stage of the argument tries to establish that there is no place for the expression ‘perhaps’ regarding the future. The second stage connects the use of the expression ‘perhaps’ with contingency. The argument then concludes that there is no contingency regarding the future. The first stage has a dilemma structure, the second stage could be seen as giving an argument from exhaustion: there is nowhere ‘perhaps’ could fit in; perhaps is needed for contingency; so there is no contingency.
+    step1: |-
+      论证的整体结构足够清楚。论证的第一阶段试图确立：关于未来，“也许”这一表达式没有位置。第二阶段把“也许”的使用与偶然性联系起来。论证于是得出结论：关于未来没有偶然性。第一阶段具有二难结构；第二阶段可以看作给出一个穷举论证：“也许”无处可放；偶然性需要“也许”；所以没有偶然性。
+    step2: |-
+      论证的整体结构足够清楚：第一阶段试图确立，关于未来，“也许”这一表达式没有位置；第二阶段把“也许”的使用与偶然性联系起来；论证于是得出结论——关于未来没有偶然性。第一阶段具二难结构；第二阶段可视为一个穷举论证：“也许”无处可放，而偶然性需要“也许”，所以没有偶然性。
+  - id: 114
+    kind: body
+    source: |-
+      The literature on the Reaper argument is not large. Sedley suggests that the Reaper is ‘aimed at showing that it is never logically correct to say “perhaps”’ (Sedley 1977, 98)[^sedley-1977]. For Sedley, the Reaper aims to demonstrate some fact about linguistic usage, namely that one cannot use ‘perhaps’ in a future directed way. Sedley goes on to explain that it seems self-contradictory to say ‘If you will reap, perhaps you will reap and perhaps you will not reap’, but equally self-contradictory to say ‘If you will not reap, perhaps you will reap and perhaps you will not reap’. But bivalence commits you to one or other antecedent. The only way out of the bind would be to abandon the use of ‘perhaps’, at least in a sense that expresses future-directed uncertainty.
+    step1: |-
+      关于收割者论证的文献并不算多。塞德利提示，收割者论证“旨在表明：说‘也许’在逻辑上永远是不恰当的”（Sedley 1977, 98）[^sedley-1977]。对塞德利而言，收割者论证旨在证明关于语言用法的某个事实，即人们不能以面向未来的方式使用“也许”。塞德利接着解释说，说“如果你将收割，那么也许你将收割、也许你将不收割”似乎自相矛盾，但说“如果你将不收割，那么也许你将收割、也许你将不收割”同样自相矛盾。但二值原则使你必定接受两个前件之一。走出这一困境的唯一办法就是放弃“也许”的使用，至少是在表达面向未来的不确定性的那种意义上。
+    step2: |-
+      关于收割者论证的文献并不多。塞德利提示：收割者论证“旨在表明，说‘也许’在逻辑上永远是不恰当的”（Sedley 1977, 98）[^sedley-1977]。在塞德利看来，收割者论证意在证明一个关于语言用法的事实：人们不能以面向未来的方式使用“也许”。他接着解释：说“如果你将收割，那么也许你将收割、也许你将不收割”似乎自相矛盾，而说“如果你将不收割，那么也许你将收割、也许你将不收割”同样自相矛盾；但二值原则使你必居两个前件之一。走出这一困境的唯一办法，是放弃“也许”的使用——至少在表达面向未来的不确定性这一意义上。
+  - id: 115
+    kind: body
+    source: |-
+      Sedley’s suggestion is interesting, but Ammonius is clear that the argument is supposed to rule out contingents, specifically, future contingents, rather than make a point about linguistic usage. The most in depth discussion of the sources and argument is (Seel 1993)[^seel-1993]. Seel does take the argument to be an attempt to demonstrate fatalism. He takes the conclusion of the argument to be ‘it is not the case that it is now contingent that you will reap and now contingent that you will not reap’. Even if Seel’s reconstruction of the argument is correct, it is not obvious that fatalism results. On Seel’s reading, the conclusion is equivalent to ‘it is now necessary that you will reap or you will not reap’. But that leaves open which of the two options I will take: ‘necessarily (p or not-p)’ does not entail ‘(necessarily *p* or necessarily not-*p*)’.
+    step1: |-
+      塞德利的提议很有意思，但阿莫尼俄斯明确表示：该论证意在排除偶然者，特别是未来的偶然者，而不是就语言用法提出一个论点。对文献与论证最深入的讨论是（Seel 1993）[^seel-1993]。塞尔确实把该论证当作证明宿命论的一个尝试。他把论证的结论当作“现在你将收割并非是偶然的、现在你将不收割也并非是偶然的”。即便塞尔对该论证的重构是正确的，宿命论也并不明显随之而来。按塞尔的读法，结论等值于“现在必然地：你要么将收割，要么将不收割”。但这仍然留有我将采取两个选项中哪一个是开放的：“必然地（p 或非 p）”并不蕴涵“（必然地 p 或必然地非 p）”。
+    step2: |-
+      塞德利的提议很有意思，但阿莫尼俄斯说得明白：该论证意在排除偶然者——特别是未来的偶然者——而非就语言用法立论。对文献与论证最深入的讨论是（Seel 1993）[^seel-1993]。塞尔确实把该论证当作证明宿命论的尝试，把结论读作“现在你将收割并非偶然，现在你将不收割也并非偶然”。即便塞尔的重构正确，宿命论也并不明显随之而来：按他的读法，结论等值于“现在必然地，你要么将收割要么将不收割”；但这仍然留有我将采取两个选项中哪一个是开放的——“必然地（p 或非 p）”并不蕴涵“（必然地 p 或必然地非 p）”。
+  - id: 116
+    kind: body
+    source: |-
+      The Reaper Argument certainly originated from within the Dialectical School and argued for fatalism, but was Diodorus himself was the author? Seel suggests that Diodorus was (Seel 1993, 137–38)[^seel-1993]. One difficulty with this attribution is that the notion of contingency in the Reaper argument differs from what we know of Diodorus’ modalities from other sources. For Diodorus, a contingent proposition is one that is true at some future time and false at some future time, so each contingent will be realised. But the Reaper seems to entertain contingents that are never realised. Premises (I) and (II) of the Reaper both commit to the unrealised possibility that you will do something. In the case of premise (I), if you will reap, then it is not the case that perhaps you will reap and perhaps you will not: you will reap anyway. So, the possibility that you will not reap will never be realised. Likewise, premise (II) entertains the possibility that reaping will never be realised. So the Reaper argument seems to operate with a non-Diodorean notion of contingency.
+    step1: |-
+      收割者论证确实出自辩证学派内部，并为宿命论辩护，但作者是否就是狄奥多罗斯本人？塞尔提示是（Seel 1993, 137–38）[^seel-1993]。这一归属的一个困难在于：收割者论证中的偶然性概念，不同于我们从其他文献中得知的狄奥多罗斯的模态。对狄奥多罗斯而言，一个偶然命题是在未来某时为真且在未来某时为假的命题，因此每个偶然者都会实现。但收割者论证似乎容纳永不实现的偶然者。收割者论证的前提 (I) 与 (II) 都承诺了“你将做某事”这一不会实现的可能性。就前提 (I) 而言，如果你将收割，那么并非也许你将收割、也许你将不收割：你反正都会收割。于是，你将不收割的可能性永远不会实现。同样，前提 (II) 容纳收割永不实现的可能性。所以收割者论证似乎是用一个非狄奥多罗斯式的偶然性概念来运作的。
+    step2: |-
+      收割者论证确实出自辩证学派内部，并为宿命论辩护；但其作者是否就是狄奥多罗斯本人？塞尔提示是（Seel 1993, 137–38）[^seel-1993]。这一归属有一个困难：收割者论证的偶然性概念，不同于我们从其他文献得知的狄奥多罗斯模态。对狄奥多罗斯而言，偶然命题是在未来某时为真且在未来某时为假的命题，故每个偶然者都会实现；但收割者论证似乎容纳永不实现的偶然者。其前提 (I) 与 (II) 都承诺了“你将做某事”这一不会实现的可能性：就前提 (I) 而言，你若将收割，那么并非也许你将收割、也许你将不收割——你反正都会收割；于是“你将不收割”的可能性永远不会实现。同样，前提 (II) 容纳收割永不实现的可能性。所以收割者论证似乎以一个非狄奥多罗斯式的偶然性概念运作。
+  - id: 117
+    kind: oir
+    source: |-
+      - Uckelman, Sara L., 2023, [*What Is Logic?*](https://sluckelman.webspace.durham.ac.uk/wp-content/uploads/sites/218/2025/05/logicbook20250519.pdf), unpublished manuscript, draft of May 5, 2023.
+    step1: |-
+      - Uckelman, Sara L., 2023, [*什么是逻辑？*](https://sluckelman.webspace.durham.ac.uk/wp-content/uploads/sites/218/2025/05/logicbook20250519.pdf)，未刊稿，2023年5月5日草稿。
+    step2: |-
+      - Uckelman, Sara L., 2023, [*什么是逻辑？*](https://sluckelman.webspace.durham.ac.uk/wp-content/uploads/sites/218/2025/05/logicbook20250519.pdf)，未刊稿，2023年5月5日草稿。
+  - id: 118
+    kind: note
+    source: |-
+      [^note-1]: According to Aristotle, some Megarian philosophers maintained that the possibility of an event implies its actuality (Aristotle, *Metaphysics* Θ 3 1046b29–32). Perhaps Diodorus endeavored to keep the spirit of this concept of possibility.
+    step1: |-
+      [^note-1]: 按亚里士多德的记载，某些麦加拉派哲学家主张一个事件的可能性蕴含其实际性（亚里士多德《形而上学》Θ 3 1046b29–32）。狄奥多罗斯也许正是努力保持这一可能性概念的精神。
+    step2: |-
+      [^note-1]: 据亚里士多德的记载，某些麦加拉派哲学家主张：一个事件的可能性蕴含其实际性（亚里士多德《形而上学》Θ 3 1046b29–32）。狄奥多罗斯也许正是努力保全这一可能性概念的精神。
+  - id: 119
+    kind: note
+    source: |-
+      [^note-2]: ‘If a proposition neither is nor will be true, then it has been the case that the corresponding state of affairs will never be the case’ would be more precise. However, in Cicero, *On Fate* 13 and 17, in a related context, we find a switch from something’s being true to its being the case similar to (VI).
+    step1: |-
+      [^note-2]: “如果一个命题既不真也不将真，那么曾经是这种情况：相应的事态永远不会成立”会更精确。不过，在西塞罗《论命运》13 与 17 的一个相关语境中，我们确实发现了一个与 (VI) 类似的、从某物之为真到某事如此成立之间的转换。
+    step2: |-
+      [^note-2]: “如果一个命题既不真也不将真，那么曾经是这种情况：相应的事态永远不会成立”会更精确。不过在西塞罗《论命运》13 与 17 的相关语境中，我们确实发现从某物之为真到某事之成立的一个转换，与 (VI) 类似。
+  - id: 120
+    kind: note
+    source: |-
+      [^note-3]: Assuming that the proposition ‘It has always been the case that I will be in Corinth (at some time)’ in (4) is at least materially equivalent to the contradictory of the proposition ‘It has been the case (at some time) that I will never be in Corinth’ in (3).
+    step1: |-
+      [^note-3]: 这里假定 (4) 中的命题“向来是这种情况：我（在某时）会到科林斯”至少实质等值于 (3) 中命题“曾经（在某时）是这种情况：我永远不会在科林斯”的矛盾命题。
+    step2: |-
+      [^note-3]: 这里假定：(4) 中的命题“向来是这种情况：我（在某时）会到科林斯”至少实质等值于 (3) 中命题“曾经（在某时）是这种情况：我永远不会在科林斯”的矛盾命题。

@@ -14,6 +14,7 @@
 | Actualism | — | 现实主义（模态形而上学；亦作“现实论”；伦理学语境词条定名作“现实主义”） | 语料回收（标题词） | 学界惯例（模态形而上学通行；审定“现实论”为地质学域同名不采）；凭证 2026-11-01 | 2026-11-01 |
 | actualization | — | 现实化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | affectedness (Betroffenheit) | — | 受触动 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| akolouthia | ἀκολουθία | 后随关系 | dialectical-school | 学界通行（后件对前件的后承关系，动词 akolouthein 译“后随”）；凭证 2026-11-07 | 2026-11-07 |
 | ampliation (ampliatio) | ampliatio | 扩展（指代的扩展） | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | anamnesis | — | 回忆（anamnesis） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | antecedent/consequent | — | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -27,6 +28,7 @@
 | basic norm | — | 基本规范 | lawphil-theory | 学界惯例（凯尔森法学通译）；凭证 2026-11-03 | 2026-11-03 |
 | Best Interests standard | — | 最佳利益标准 | 语料回收（标题词） | 学界惯例（生命伦理学通行）；凭证 2026-11-01 | 2026-11-01 |
 | biological species concept (BSC) | — | 生物学物种概念（BSC） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| bivalence | — | 二值原则 | dialectical-school | 逻辑学通行译法；凭证 2026-11-07 | 2026-11-07 |
 | care ethics | — | 关怀伦理 | 语料回收（标题词） | 审定“关怀伦理学”直接命中（新闻传播学域）；凭证 2026-11-01 | 2026-11-01 |
 | Celestial Masters | — | 天师道 | 语料回收（标题词） | 审定“天师”佐证（道教）；凭证 2026-11-01 | 2026-11-01 |
 | Cheka | Чека | 契卡 | 人名表移植 | 学界通行译法（苏俄肃反委员会，克格勃前身）；凭证 2026-11-06 | 2026-11-06 |
@@ -38,6 +40,7 @@
 | comprehension axiom | — | 概括公理 | 语料回收（mathematics-inconsistent 首译） | 数理逻辑界通行译法（亦作“内涵公理”）；凭证 2026-11-06 | 2026-11-06 |
 | concrete objects | — | 具体对象 | 语料回收（标题词） | 学界惯例（哲学通行（与抽象对象相对））；凭证 2026-11-01 | 2026-11-01 |
 | concrete utopia | — | 具体乌托邦 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| conditional | sunêmmenon | 条件句 | dialectical-school | 逻辑学通行译法（希腊文原词括注）；凭证 2026-11-07 | 2026-11-07 |
 | conditional analysis | — | 条件分析（亦作“条件句分析”） | 语料回收（标题词） | 学界惯例（能力哲学通行（abilities 词条核心））；凭证 2026-11-01 | 2026-11-01 |
 | consequentia | consequentia | 推论 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法（推论学说）；凭证 2026-11-06 | 2026-11-06 |
 | constitutive aim | — | 构成性目的 | 语料回收（标题词） | 学界惯例（行动哲学（belief 的 aim 之辩））；凭证 2026-11-01 | 2026-11-01 |
@@ -57,6 +60,8 @@
 | developmental constraint | — | 发育约束 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | developmental matrix | — | 发育基质 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | developmental systems theory | — | 发育系统论 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| diadoche | διαδοχή | 师承 | dialectical-school | 古代哲学史文献通行（师生谱系；与宗派 hairesis 对举）；凭证 2026-11-07 | 2026-11-07 |
+| Dialectical School | — | 辩证学派 | dialectical-school | 学界通行（苏格拉底minor school之一；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
 | disjunctive syllogism | — | 析取三段论 | 语料回收（mathematics-inconsistent 首译） | 逻辑学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | divine attributes | — | 神圣属性 | 语料回收（marsilius-inghen 首译） | 神哲学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | earlier self | — | 先前自我 | 语料回收（标题词） | 学界惯例（advance-directives 词条核心（×31））；凭证 2026-11-01 | 2026-11-01 |
@@ -88,8 +93,10 @@
 | group selection | — | 群体选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | gulag | ГУЛАГ | 古拉格 | 语料回收（lakatos 首译） | 学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Great Schism | — | 教会大分裂 | 语料回收（marsilius-inghen 首译） | 史学界通行译法（1378 西方教会大分裂）；凭证 2026-11-06 | 2026-11-06 |
+| hairesis | αἵρεσις | 宗派 | dialectical-school | 古代哲学史文献通行（有共同学说与制度关联的学派组织；与师承对举）；凭证 2026-11-07 | 2026-11-07 |
 | hard core | — | 硬核 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | heritage | — | 遗产 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| Horned Man argument | — | 有角人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
 | Hungarian Uprising | — | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
 | Hypothetical Reasoning | — | 假说推理 | 语料回收（标题词） | 学界惯例（皮尔士溯因语境（abduction 词条））；凭证 2026-11-01 | 2026-11-01 |
 | incipit/desinit | incipit/desinit | 开始存在／停止存在 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -106,8 +113,12 @@
 | juridicalisation of politics | — | 政治的司法化 | law-ideology | 学界惯例（作者 Sypnowich 自铸术语，直译+括注）；凭证 2026-11-03 | 2026-11-03 |
 | kin selection | — | 亲缘选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | latency | — | 潜隐 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | long-branch attraction | — | 长枝吸引 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Master Argument | kyrieuon logos | 主论证 | dialectical-school | 学界通行（狄奥多罗斯决定论论证的通行译名）；凭证 2026-11-07 | 2026-11-07 |
+| material implication | — | 实质蕴涵 | dialectical-school | 逻辑学通行译法（真值函项条件句）；凭证 2026-11-07 | 2026-11-07 |
 | maximum likelihood | — | 最大似然法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+
 | messianism | — | 弥赛亚主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | method of exhaustion | — | 穷竭法 | 语料回收（mathematics-inconsistent 首译） | 数学史界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | mathematical pluralism | — | 数学多元主义 | 语料回收（mathematics-inconsistent 首译） | 数学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -130,6 +141,7 @@
 | monster-barring (definition) | — | 排除妖怪（定义） | 语料回收（lakatos 首译） | 拉卡托斯研究通行译法（《证明与反驳》中译本）；凭证 2026-11-06 | 2026-11-06 |
 | newly sighted | — | 新近复明者 | 语料回收（molyneux-problem 首译） | 本词条首译裁定（复明=视力恢复，与 congenitally blind 先天性盲对举）；凭证 2026-11-06 | 2026-11-06 |
 | Newspeak | — | 新话 | 语料回收（lakatos 首译） | 《一九八四》通行译法；凭证 2026-11-06 | 2026-11-06 |
+| No Man argument | — | 无人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
 | non-contemporaneity (Ungleichzeitigkeit) | — | 非同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Not-Yet (das Noch-Nicht) | — | 尚未 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Not-Yet-Conscious (das Noch-Nicht-Bewusste) | — | 尚未意识 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -160,6 +172,7 @@
 | projective geometry | — | 射影几何 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | quietism | — | 寂静主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | real possibility | — | 实在可能性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| Reaper Argument | θερίζων λόγος | 收割者论证 | dialectical-school | 学界通行（阿莫尼俄斯所记决定论论证）；凭证 2026-11-07 | 2026-11-07 |
 | reification | — | 物化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | robustness | — | 稳健性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | rule of law | — | 法治 | law-ideology | 学界通行译法（法理学通行；规则之治备查）；凭证 2026-11-03 | 2026-11-03 |
@@ -199,6 +212,7 @@
 | stereoscope | — | 立体镜 | 语料回收（molyneux-problem 首译） | 学界通行译法（惠斯通 1838 发明）；凭证 2026-11-06 | 2026-11-06 |
 | sola fide | — | 仅凭信仰 | 语料回收（marsilius-inghen 首译） | 神学通行译法；凭证 2026-11-06 | 2026-11-06 |
 | show trial | — | 作秀审判 | 语料回收（lakatos 首译） | 史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| strict implication | — | 严格蕴涵 | dialectical-school | 逻辑学通行译法（现代模态条件句）；凭证 2026-11-07 | 2026-11-07 |
 | super-contemporaneity | — | 超同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | supervenience | — | 随附性（supervenient property 随附属性） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | supposition (suppositio) | — | 指代 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
@@ -234,6 +248,7 @@
 | utopia | — | 乌托邦 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | utopian function | — | 乌托邦功能 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | utopian hermeneutics | — | 乌托邦诠释学 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| Veiled Man argument | — | 蒙面人论证 | dialectical-school | 学界通行（狄奥多罗斯悖论）；凭证 2026-11-07 | 2026-11-07 |
 | verisimilitude | — | 逼真性 | 语料回收（lakatos 首译） | 波普尔研究通行译法（truth-likeness 亦译似真性）；凭证 2026-11-06 | 2026-11-06 |
 | violinist case | — | 小提琴家案例 | 语料回收（标题词） | 学界惯例（汤姆森思想实验（abortion 词条））；凭证 2026-11-01 | 2026-11-01 |
 | Via Moderna | Via Moderna | 近代之路 | 语料回收（marsilius-inghen 首译） | 中世纪晚期思想史通行译名（与 Via Antiqua 古代之路对举）；凭证 2026-11-06 | 2026-11-06 |
@@ -1537,7 +1552,7 @@
 | Pyrrhonism | — | 皮浪主义 | 首现（timon-phlius） | 学界惯例（希腊化怀疑论学派名；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
 | Pyrrhonist | — | 皮浪派者 | 首现（timon-phlius） | 学界惯例（皮浪派成员；与 Pyrrhonism 区分）；凭证 2026-11-07 | 2026-11-07 |
 | Cynics | — | 犬儒派 | 首现（timon-phlius） | 学界惯例（古希腊哲学流派；本库无独立词条）；凭证 2026-11-07 | 2026-11-07 |
-| Megaric School | — | 麦加拉学派 | 首现（timon-phlius） | 学界惯例（古希腊哲学流派；本库无独立词条）；凭证 2026-11-07 | 2026-11-07 |
+| Megaric School | — | 麦加拉学派 | timon-phlius；dialectical-school | 学界惯例（欧克里德创立的古希腊哲学流派；本库与 SUMMARY 均无独立词条，相关词条行暂用本译名）；凭证 2026-11-07 | 2026-11-07 |
 | Silloi | — | 《讽刺诗》 | 首现（timon-phlius） | 学界惯例（第蒙六音步讽刺诗集；Lampoons）；凭证 2026-11-07 | 2026-11-07 |
 | Indalmoi | — | 《影像》 | 首现（timon-phlius） | 学界惯例（第蒙挽歌对体诗；Images/Appearances）；凭证 2026-11-07 | 2026-11-07 |
 | Pytho | — | 《皮同》 | 首现（timon-phlius） | 学界惯例（第蒙散文对话；地名兼篇名）；凭证 2026-11-07 | 2026-11-07 |
@@ -1581,7 +1596,9 @@
 | irony | — | 反讽 | 首现（schlegel） | 学界惯例（文学理论与哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | wit | — | 机智 | 首现（schlegel） | 学界惯例（施莱格尔研究通行；与 Witz 对应）；凭证 2026-11-07 | 2026-11-07 |
 | allegory | — | 寓言 | 首现（schlegel） | 学界惯例（文学理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| fragment | — | 断片 | 首现（schlegel） | 学界惯例（德国浪漫派研究通行；Athenaeum 断片）；凭证 2026-11-07 | 2026-11-07 |
 | poetics | — | 诗学 | 首现（schlegel） | 学界惯例（文学理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| aesthetics | — | 美学 | 首现（schlegel） | 学界惯例（哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | progressive universal poetry | progressive Universalpoesie | 渐进的总汇诗 | 首现（schlegel） | 学界惯例（施莱格尔研究通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | first principle | — | 第一原理 | 首现（schlegel） | 学界惯例（德国观念论研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | republicanism | — | 共和主义 | 首现（schlegel） | 学界惯例（政治哲学通行）；凭证 2026-11-07 | 2026-11-07 |
