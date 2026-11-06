@@ -1280,6 +1280,9 @@
 
 | Sextus | — | 塞克斯图斯（《神义论》命运之书一节的罗马人物，即塞克斯图斯·塔克文） | leibniz-modal | 学界通行音译；凭证 2026-11-07 | 2026-11-07 |
 
+| Erdmann, Johann Eduard | — | 约翰·爱德华·埃尔德曼 | leibniz-logic-influence | 学界通行汉译（19 世纪哲学史家，莱布尼茨著作集 1839/40 编者）；凭证 2026-11-07 | 2026-11-07 |
+| Kneale, William and Martha | — | 威廉·涅尔与玛尔塔·涅尔 | leibniz-logic-influence | 学界通行汉译（《逻辑学的发展》作者）；凭证 2026-11-07 | 2026-11-07 |
+
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
@@ -1301,12 +1304,6 @@
 | Walter Kinder | Walter Kinder | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Karl Schröter | Karl Schröter | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Hermann Schweitzer | Hermann Schweitzer | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
-| Vivès | Vivès | 维韦斯 | sophismata | 学界惯例（文艺复兴人文主义者；语料见 erfurt）；凭证 2026-11-07 | 2026-11-07 |
-| Rabelais | Rabelais | 拉伯雷 | sophismata | 学界通行汉译（法国文艺复兴作家）；凭证 2026-11-07 | 2026-11-07 |
-| Thomas Bradwardine | Thomas Bradwardine | 托马斯·布拉德沃丁 | sophismata | 学界通行汉译（牛津计算者，物理与神学家）；凭证 2026-11-07 | 2026-11-07 |
-| Richard Swineshead | Richard Swineshead | 理查德·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
-| Roger Swineshead | Roger Swineshead | 罗杰·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
-| Robert Alyngton | Robert Alyngton | 保留英文（无通行汉名） | sophismata | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Rabelais | Rabelais | 拉伯雷 | sophismata | 学界通行汉译（法国文艺复兴作家）；凭证 2026-11-07 | 2026-11-07 |
 | Thomas Bradwardine | Thomas Bradwardine | 托马斯·布拉德沃丁 | sophismata | 学界通行汉译（牛津计算者，物理与神学家）；凭证 2026-11-07 | 2026-11-07 |
 | Richard Swineshead | Richard Swineshead | 理查德·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |

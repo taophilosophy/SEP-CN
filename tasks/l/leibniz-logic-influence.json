@@ -2,7 +2,7 @@
   "slug": "leibniz-logic-influence",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-logic-influence.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-03T15:27:53Z",
       "evidence": "四检全过：check_style 0（中文斜体 8 处转加粗）、check_academic 0 硬错误、check_math 0、prose 0；术语 普遍文字/概念文字/逻辑代数/发明术/判断术 登记 yi-zhe-shuo-ming.md，人名 14 位登记 ren-ming-biao.md（库蒂拉/布尔/施罗德/卡西尔/特伦德伦堡/兰伯特/德摩根/肖尔茨/鲍尔查诺/杰文斯/文恩/培根/洪堡/卢尔）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T21:58:59Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+注记），节数 12=12；marker 62=62（宽容口径复核，机检 60/62 系源文 marker 后冒号伪影）；defs 键集全等；数字 11 段差异全部正当（18th/19th/20th century→十八/十九/二十世纪、17th→十七世纪、nearly 200 years→近两百年）；正文 6 节通读无错译；错字实修 1 处（逻辑斯缔→逻辑斯蒂）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T21:58:59Z",
+      "evidence": "r2 语言与登记：check_prose 0 告警；人名埃尔德曼/涅尔夫妇补登 2 行，库蒂拉/肖尔茨/弗雷格/特伦德伦堡/罗素/布尔/施罗德/康德已在册，现代学者（Lenzen/Peckhaus 等）按 ADR-0022 保留英文；术语“特征语言”“推理演算”“概念文字”与术语表一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T21:59:02Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 0；check_math 0/0/0；marker 62=62、defs/节数齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T21:59:02Z",
+      "evidence": "done：九步齐，成稿 6 节 181 行"
     }
   ],
   "blockers": [],
