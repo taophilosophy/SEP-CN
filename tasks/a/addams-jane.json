@@ -2,7 +2,7 @@
   "slug": "addams-jane",
   "kind": "retranslate",
   "zh_doc": "a/addams-jane.md",
-  "state": "r1_reviewed",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,13 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-05T23:54:13Z",
       "evidence": "独立初审（接管会话，非初译 actor）：源译全文回读对照，63 段核验无错译；捕获 3 类问题：①（已随 r1 提交 ad6d46eb 落地）——①结构性缺件：源文 Primary Literature 的 17 条缩写书目条目（Books 12+Selected Articles 5，粗体方括号形态非 defs）译文整体缺失，已按书目照录家法整块补入并标题双语化（缩写键对账 17:17 集合一致）；②双语重复 defs：note-1 与 abbreviations-nd 中文译文版+英文残留版并存，删英文残留 2 条（defs 71→69 对齐）；③忠实性 3 处——second 附议（中英混杂）、situated 悬英文重构、托尔斯泰衣袖引文'足够…就够'重复；此 3 处因并行改动 Edit 失败未随 r1 提交落地，evidence 曾失实，已于 r1 追改提交真正落地并订正本凭证。守恒：段落 63:63、年份 119:119 序列一致、marker 18:18 顺序一致、defs 69:69。六检硬错误零；prose 88 豁免为主（社会改革叙事 de-chain 54/长句 23）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T00:28:04Z",
+      "evidence": "独立复审（接管会话，非初译 actor）：r1 实修逐项 grep 断言在位（附议其提名/有处境的（situated）/一只袖子上的料子各 1，混杂串清零）；守恒五项复验含新增缩写键维度（段落/年份序列/marker 顺序/defs 键集/缩写键 17 全部一致）；六检复跑 style 0、academic 0 硬错误、math 0 缺失；prose 88 维持 r1 豁免分判。关键段抽读：赫尔馆项目清单段、托尔斯泰会面引文、Lincholn 横向进步引文，与源文一致。"
     }
   ],
   "blockers": [],
