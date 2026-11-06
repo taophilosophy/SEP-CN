@@ -2,7 +2,7 @@
   "slug": "origin-descent",
   "kind": "retranslate",
   "zh_doc": "o/origin-descent.md",
-  "state": "s2_checked",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "direction",
@@ -38,6 +38,13 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T22:27:49Z",
       "evidence": "s2 二校（Fluency/Style）：check_prose 68→3。逐条改写类别：de-chain 37→3（段5/9/11/13/16/18/19/24/28/34/40/42/46/47/50/51/52/57/60/62/67/69/74/75/78/82/86/88/89/93/96/97/101/103/112/114 拆句、去「的」链、换名词短语）；long-sentence 23→0（段6/9/19/21/24/28/29/38/60/62/67/75/86/90/97/103/112/114/117 拆为两句或改分号）；weak-verb 7→0（作出/进行/加以 + 名词改本性动词）；passive-bei 1→0（引文内「将被保存/严格毁灭」改主动「留存/严加毁灭」）。step1 忠实底未动；守恒 HARD=0。残余 3 条（段21/28/97，行 45/59/195）经逐条核读为 check_prose 误报：三处均为「目的」「目的论」中的“的”字被 de-chain 正则误计（如「为任一目的选出」「关于目的论的见解」），非真正「的」链，按 ADR-0020 逐条豁免留痕，并建议 S5 沉淀为白名单（排除「目的/目的论」词内“的”）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T22:31:39Z",
+      "evidence": "s3 三校（体例/学术挂钩）：check_style --strict 0 issue；markdownlint-cli2 0 issue；check_academic --strict 0 硬错误（结构类检查通过：20 标题与源集合全等）；check_math 0 缺失/0 失衡；check_terms 定点 0 缺译、硬错误 0（词汇表 Alain Locke 滞后项已在 draft 轮修弱势方对齐）；引号全中文弯引号、中西文空格与 ** 间距合规、无 HTML（手稿标记 <prin>/<dif> 已改全角尖括号）、无裸 text 围栏；H1 与 SUMMARY、版本行与 baseline 版本钉（2019-06-17 首发 / 2024-03-13 实质修订）一致。"
     }
   ],
   "blockers": [],
