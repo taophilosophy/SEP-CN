@@ -2,7 +2,7 @@
   "slug": "locke-on-medicine",
   "kind": "retranslate",
   "zh_doc": "l/locke-on-medicine.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-04T18:02:12Z",
       "evidence": "s3 三校：check_style 0（12 处引文内 italic-cjk 中文斜体平文化——粗体与守恒硬门冲突，同 lorenzo-valla 先例）；check_academic --strict OK；check_math 0；check_prose 复跑 34 项全为引文行"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:46:15Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+注记+Primary/Secondary sources 子节），Notes 双节并入『脚注』一节为体例约定（源 16 节→译 15 节，体例豁免）；marker 95=95；defs 键集全等；数字 12 段差异全部正当（May/February/June→月份数字、chapter 12→第十二章等）；赫尔蒙特引注 p150.52 归一为 p.150, 52（页/条分隔符，非日期混淆）；正文 8 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:46:15Z",
+      "evidence": "r2 语言实修：prose 34→33（叙事句 1 处 de-chain 拆解：西德纳姆著作与观察关系句）；余 33 项全部为引块内部（Locke 1664-6 医学笔记、《人类理解论》与致斯廷信的长引块），按 ADR-0020 引文豁免；人名西德纳姆/洛厄/盖伦/希波克拉底/波义耳/沙夫茨伯里/洛克/笛卡尔均已在册"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:46:18Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 33 项引块豁免；check_math 0/0/0；marker 95=95、defs/节数齐（体例豁免已记）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:46:18Z",
+      "evidence": "done：九步齐，成稿 8 节 444 行，含真脚注节与医学笔记引块"
     }
   ],
   "blockers": [],
