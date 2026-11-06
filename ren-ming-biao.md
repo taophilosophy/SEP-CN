@@ -1243,3 +1243,22 @@
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
+| Heinrich Scholz | Heinrich Scholz | 海因里希·肖尔兹 | scholz | SUMMARY 定名沿用；学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Adolf von Harnack | — | 阿道夫·冯·哈纳克 | scholz | 学界通行汉译（教会史家）；凭证 2026-11-07 | 2026-11-07 |
+| Alois Riehl | — | 阿洛伊斯·里尔 | scholz | 学界通行汉译（新康德主义者）；凭证 2026-11-07 | 2026-11-07 |
+| Friedrich Paulsen | — | 弗里德里希·保尔森 | scholz | 学界通行汉译（新观念论哲学家）；凭证 2026-11-07 | 2026-11-07 |
+| Karl Barth | — | 卡尔·巴特 | scholz | 学界通行汉译（辩证神学）；凭证 2026-11-07 | 2026-11-07 |
+| Otto Neurath | Otto Neurath | 奥托·纽拉特 | scholz | 学界通行汉译（维也纳学派；正文行文用“纽拉特”）；凭证 2026-11-07 | 2026-11-07 |
+| Alfred North Whitehead | — | 阿尔弗雷德·诺思·怀特海 | scholz | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Gottfried Wilhelm Leibniz | — | 戈特弗里德·威廉·莱布尼茨 | scholz | 学界千年通行译名（与既有行一致）；凭证 2026-11-07 | 2026-11-07 |
+| Edmund Husserl | — | 埃德蒙德·胡塞尔 | scholz | 学界通行汉译（现象学）；凭证 2026-11-07 | 2026-11-07 |
+| David Hilbert | — | 大卫·希尔伯特 | scholz | 学界通行汉译（数理逻辑）；凭证 2026-11-07 | 2026-11-07 |
+| Jan Salamucha | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Max Steck | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Gisbert Hasenjaeger | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Hans Hermes | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Friedrich Bachmann | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Albrecht Becker-Freyseng | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Walter Kinder | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Karl Schröter | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Hermann Schweitzer | — | 保留英文（无通行汉名） | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
