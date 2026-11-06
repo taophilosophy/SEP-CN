@@ -88,9 +88,11 @@
 
 法律有一个道德渊源，或有一个体系制度中的渊源——这样一种法律观，可以独立于对法律之意识形态功能的现实主义评估，也独立于对法律制定之意识形态过程的认识。事实上，西方政府发动“反恐战争”的激进批评者，一面指出人权与法治等自由主义法律理想的价值，一面注意到这些理想被赋予的意识形态目的（见 Bartholomew 2007, Steger, 2007）[^bartholomew-2007]。只要实证主义者与自然法学家不坚持其法律概念已穷尽法律的实在，他们便可容许意识形态的影响——哪怕是其更激进的解释。法律可以既是意识形态，又是其他道德的或制度的现象；的确，法律若非在这个意义上多维并存，恐怕难以作为意识形态而奏效。
 
-## 参考文献
+## References（引用注释）
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
 [^althusser-1971]: Althusser, Louis, 1971, ‘Ideology and Ideological State Apparatuses’, in *Lenin and Philosophy and Other Essays*, London: New Left Books.
 [^barry-1995]: Barry, Brian, 1995, ‘John Rawls and the Search for Stability’, *Ethics*, 105(4): 874–915.

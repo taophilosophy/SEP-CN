@@ -2,7 +2,7 @@
   "slug": "law-ideology",
   "kind": "retranslate",
   "zh_doc": "l/law-ideology.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-02T20:22:14Z",
       "evidence": "四检全过：check_style 0 / check_academic 0 硬错误 / check_math 0 / prose 0；术语 意识形态/法治/政治的司法化 登记 yi-zhe-shuo-ming.md，人名 11 位登记 ren-ming-biao.md（马克思/恩格斯/德斯蒂·德·特拉西/曼海姆/哈耶克/富勒/奥斯丁/汤普森/罗蒂/贝尔/奥金）；perfectionism 沿用登记册定译至善论"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:42:09Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+转换器注记）；marker 22=22（补回模板占位后）；defs 键集全等；年份 2 段差异正当（1920s→二十世纪二十年代、1970s and 80s→七十、八十年代）；正文 7 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:42:09Z",
+      "evidence": "r2 语言与登记：check_prose 0 告警；马克思/恩格斯/阿尔都塞/卢卡奇/柯恩已在册，现代学者（Kennedy 等）按 ADR-0022 保留英文；术语“意识形态”“法治”与术语表一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:42:12Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 0；check_math 0/0/0；defs/marker/节数三齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:42:12Z",
+      "evidence": "done：九步齐，成稿 7 节，参考文献照录"
     }
   ],
   "blockers": [],
