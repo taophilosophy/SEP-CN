@@ -20,7 +20,7 @@
 |Africana Philosophy|非裔哲学||
 |Agent Intellect|主动理智、能动理智|阿奎那 intellectus agens|
 |aisthêsis|感知|亦作“感觉”；希腊哲学术语|
-|Alain Locke|阿兰·洛克||
+|Alain Locke|阿兰·勒罗伊·洛克|亦作“阿兰·洛克”；与 Alain LeRoy Locke 行归一（2026-11-07）|
 |Albalag, Isaac|以撒·阿尔巴拉格||
 |Alexander Bain|亚历山大·贝恩|联想主义心理学|
 |Alexandre Koyré|亚历山大·柯瓦雷||
