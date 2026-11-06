@@ -2,7 +2,7 @@
   "slug": "lambert-auxerre",
   "kind": "retranslate",
   "zh_doc": "l/lambert-auxerre.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-03T19:46:04Z",
       "evidence": "四检：check_style 0（中文斜体 7 处转加粗）、check_academic 0 硬错误、check_math 0、prose 7 豁免；人名 4 位登记 ren-ming-biao.md（西班牙的彼得/舍伍德的威廉/罗吉尔·培根/大阿尔伯特）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:00:01Z",
+      "evidence": "r1 结构对账：机检五维→参考文献节归正（'## 参考文献'→'## References（引用注释）'+照录说明+转换器注记），节数 10=10；marker 宽容口径复核 66=66（机检 63/66 差异系源文三处 marker 后紧跟冒号的转换伪影，非缺译）；defs 键集全等；数字 2 段差异均正当（14th century→十四世纪、chapter 8→第八章）；错字实修 1 处（'照兰伯持之说'→'照兰伯特之说'）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:00:01Z",
+      "evidence": "r2 语言与登记：check_prose 1 告警（第 122 行引块 de-chain，'西班牙的彼得''欧塞尔的兰伯特'为专名固有“的”，按 ADR-0020 引文/专名豁免）；人名：特奥巴尔德二世补登 1 行，西班牙的彼得/舍伍德的威廉/罗吉尔·培根/兰伯特已在册；现代学者（Maloney/Kretzmann/Stump/de Libera 等）按 ADR-0022 保留英文"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:00:04Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0 硬错误；check_prose 1 告警已判豁免；check_math 公式 0/缺失 0/失衡 0；defs/marker/节数三齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T18:00:04Z",
+      "evidence": "done：九步齐，成稿 3 节 3.1-3.x 结构对齐源文，参考文献 2 子节归位"
     }
   ],
   "blockers": [],
