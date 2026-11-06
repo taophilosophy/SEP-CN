@@ -1,195 +1,195 @@
 {
-  "version": 1,
-  "batches": {
-    "1": {
-      "phase": "done",
-      "claimed_by": "zcode-digit1-20261105",
-      "claimed_at": "2026-11-04T18:32:39Z",
-      "note": "批次1 唯一词条 18thGerman-preKant done（2026-11-05，全流程十步）；批次1 收口",
-      "advanced_at": "2026-11-04T20:57:44Z"
-    },
-    "a": {
-      "phase": "translate",
-      "claimed_by": "ABCDE-main-20261106",
-      "claimed_at": "2026-11-06T10:40:36Z",
-      "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）",
-      "advanced_at": "2026-10-28T16:35:48Z"
-    },
-    "b": {
-      "phase": "translate",
-      "claimed_by": "ABCDE-main-20261106",
-      "claimed_at": "2026-11-06T10:40:36Z",
-      "note": "对账补记（2026-11-03）：任务 62=cleared 59/drafted 2/s3_checked 1；11 条在途快照 641faf13（正文未完）；对账补记（2026-11-06）：任务 62=cleared 45/drafted 2/s3_checked 15；NO_LEDGER 17（旧存量 14；新增 3：bayes-theorem/behaviorism/buddhism-chan 11-04 译 actor=?，无账本留痕）",
-      "advanced_at": "2026-11-02T16:12:59Z"
-    },
-    "c": {
-      "phase": "translate",
-      "claimed_by": "ABCDE-main-20261106",
-      "claimed_at": "2026-11-06T10:40:37Z",
-      "note": "对账补记（2026-11-03）：批次未认领但工作已发生：任务 172=s3_checked 18/pending 154；7 条在途快照 641faf13；对账补记（2026-11-06）：任务 172=pending 147/s3_checked 25，s3 18→25；账本 28 份齐全",
-      "advanced_at": "2026-11-02T16:12:59Z"
-    },
-    "d": {
-      "phase": "translate",
-      "claimed_by": "ABCDE-main-20261106",
-      "claimed_at": "2026-11-06T10:40:37Z",
-      "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）",
-      "advanced_at": "2026-11-02T16:12:59Z"
-    },
-    "e": {
-      "phase": "translate",
-      "claimed_by": "EH-main-20261106",
-      "claimed_at": "2026-11-06T10:58:02Z",
-      "note": "E批40路子代理滚动起跑：99词条，两波模式（翻译波+复核波），主代理监控收口；对账补记（2026-11-06）：任务 99=pending 83/s3_checked 16；NO_LEDGER 12（旧存量 5；新增 7：11-03 起译 egoism/epsilon-calculus/epistemology-language-tibetan/erasmus/ethics-deontological/economic-democracy/emilie-du-chatelet，账本仅 4 份）",
-      "advanced_at": "2026-11-01T11:03:27Z"
-    },
-    "f": {
-      "phase": "translate",
-      "claimed_by": "EH-main-20261106",
-      "claimed_at": "2026-11-06T10:58:02Z",
-      "note": "对账补记（2026-11-03）：基线 96/96 镜像 96/96，intake/fetch/convert 事实满足；任务已建 40=全部 pending；对账补记（2026-11-06）：任务 97 全建全 pending（11-03 缺口 40→97 已闭合）；frame-problem 文件含 641faf13 快照内容待直译",
-      "advanced_at": "2026-11-02T16:12:59Z"
-    },
-    "g": {
-      "phase": "translate",
-      "claimed_by": "EH-main-20261106",
-      "claimed_at": "2026-11-06T10:58:03Z",
-      "note": "对账补记（2026-11-03）：任务 49=cleared 19/pending 30；对账补记（2026-11-06）：任务 49=pending 30/cleared 19；gene 文件结构完整（19541 汉字）但系快照内容，状态 cleared=待直译，裁定不推进",
-      "advanced_at": "2026-11-02T16:12:59Z"
-    },
-    "h": {
-      "phase": "translate",
-      "claimed_by": "EH-main-20261106",
-      "claimed_at": "2026-11-06T10:58:03Z",
-      "note": "对账补记（2026-11-03）：任务 61=s3_checked 3/s1_checked 2/cleared 32/pending 24；11 条在途快照 641faf13；对账补记（2026-11-06）：任务 61=pending 24/cleared 31/done 6；10 条 641faf13 快照遗留待直译（han-dynasty/haecceitism/halevi/heytesbury/hilbert-program/hobbes-science/holes/holkot/hume-moral/hutcheson）；账本 19 份",
-      "advanced_at": "2026-11-02T16:13:00Z"
-    },
-    "i": {
-      "phase": "translate",
-      "claimed_by": "ses-FGHIJK-main-1103",
-      "claimed_at": "2026-11-02T16:22:17Z",
-      "note": "fetch/convert 已满足（基线 75/75 镜像 75/75）；40 路子代理滚动翻译波启动；对账补记（2026-11-06）：任务 75=pending 50/cleared 7/done 18；5 条快照遗留待直译（imaginative-resistance/impossible-worlds/information-biological/intrinsic-extrinsic/intuitionism-ethics）；NO_LEDGER 18 全旧存量",
-      "advanced_at": "2026-11-01T10:28:21Z"
-    },
-    "j": {
-      "phase": "translate",
-      "claimed_by": "ses-FGHIJK-main-1103",
-      "claimed_at": "2026-11-02T16:22:17Z",
-      "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份；二次对账（2026-11-06 I-K 接管）：账本实为 6 份（justep-coherence 为 8 分卷），james-mill 账本仅 9/84 段系半成品、justep-coherence 分卷 114 段已填未 compose，两处已交本轮子代理补齐",
-      "advanced_at": "2026-11-06T10:40:20Z"
-    },
-    "k": {
-      "phase": "translate",
-      "claimed_by": "ses-FGHIJK-main-1103",
-      "claimed_at": "2026-11-02T16:22:17Z",
-      "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务）；对账补记（2026-11-06）：NO_LEDGER 4＝AK-main-20261105 会话所译 kant-science/kant-social-political/korean-buddhism/knowledge-analysis 无账本（ADR-0021 债，不补造留痕；done 10 条账本齐全）；二次对账（2026-11-06 I-K 接管）：任务 36=done 10/s3_checked 10/cleared 16（原记 cleared 22/s3_checked 4 已过时，6 条在 11-05 后推进至 s3）＋knowledge-acquaindescrip 账本 48/103 在途（本轮补齐中）",
-      "advanced_at": "2026-11-06T10:40:20Z"
-    },
-    "l": {
-      "phase": "translate",
-      "claimed_by": "LQ-main-20261103",
-      "claimed_at": "2026-11-02T17:21:14Z",
-      "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 144/144 镜像 144/144 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：144 词条审计=任务 19 已建（s3_checked 16/s2_checked 1/cleared 1/pending 1，含 logic-provability 11-06 s2_checked）+125 未建；状态机与文件零偏差；账本协议 lq.py 落实",
-      "advanced_at": "2026-11-05T15:22:53Z"
-    },
-    "m": {
-      "phase": "translate",
-      "claimed_by": "LQ-main-20261103",
-      "claimed_at": "2026-11-02T17:21:15Z",
-      "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 139/139 镜像 139/139 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：140 词条=任务 9 pending+131 未建；零偏差",
-      "advanced_at": "2026-11-05T15:22:53Z"
-    },
-    "n": {
-      "phase": "translate",
-      "claimed_by": "LQ-main-20261103",
-      "claimed_at": "2026-11-02T17:21:15Z",
-      "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 50/50 镜像 50/50 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：50 词条=任务 2 pending+48 未建；零偏差",
-      "advanced_at": "2026-11-05T15:22:54Z"
-    },
-    "o": {
-      "phase": "translate",
-      "claimed_by": "OR-main-20261106",
-      "claimed_at": "2026-11-06T13:48:32Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T15:22:54Z"
-    },
-    "p": {
-      "phase": "translate",
-      "claimed_by": "OR-main-20261106",
-      "claimed_at": "2026-11-06T13:48:32Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T15:22:54Z"
-    },
-    "q": {
-      "phase": "translate",
-      "claimed_by": "OR-main-20261106",
-      "claimed_at": "2026-11-06T13:48:33Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T15:22:54Z"
-    },
-    "r": {
-      "phase": "translate",
-      "claimed_by": "OR-main-20261106",
-      "claimed_at": "2026-11-06T13:48:33Z",
-      "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
-      "advanced_at": "2026-11-05T20:22:06Z"
-    },
-    "s": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:41Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：161 词条=done 1（spacetime-holearg 10-28 旧存量无账本，不补造）+pending 5+155 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:07Z"
-    },
-    "t": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:42Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：71 词条=任务 2 pending+69 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:08Z"
-    },
-    "u": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:42Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：4 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:09Z"
-    },
-    "v": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:42Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：15 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:10Z"
-    },
-    "w": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:42Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：38 词条=任务 3 pending+35 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:11Z"
-    },
-    "x": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:42Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：3 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:12Z"
-    },
-    "y": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:43Z",
-      "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：2 词条=任务 1 pending+1 未建；零偏差",
-      "advanced_at": "2026-11-03T19:15:13Z"
-    },
-    "z": {
-      "phase": "translate",
-      "claimed_by": "RZ-main-20261104",
-      "claimed_at": "2026-11-03T19:14:43Z",
-      "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手；对账补记（2026-11-06）：6 词条=任务 0 已建；零偏差",
-      "advanced_at": "2026-11-03T19:15:13Z"
-    }
+ "version": 1,
+ "batches": {
+  "1": {
+   "phase": "done",
+   "claimed_by": "zcode-digit1-20261105",
+   "claimed_at": "2026-11-04T18:32:39Z",
+   "note": "批次1 唯一词条 18thGerman-preKant done（2026-11-05，全流程十步）；批次1 收口",
+   "advanced_at": "2026-11-04T20:57:44Z"
   },
-  "updated_at": "2026-11-06T13:48:33Z"
+  "a": {
+   "phase": "translate",
+   "claimed_by": "AB-main-20261106",
+   "claimed_at": "2026-11-06T14:08:07Z",
+   "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除；对账补记（2026-11-06）：任务 160=pending 98/cleared 21/s1_checked 1/s3_checked 5/done 35，状态机与凭证一致；NO_LEDGER 41（旧存量 39 不补造；新增 2：addams-jane/al-farabi 11-03 ABCDE 会话译，无账本留痕）",
+   "advanced_at": "2026-10-28T16:35:48Z"
+  },
+  "b": {
+   "phase": "translate",
+   "claimed_by": "AB-main-20261106",
+   "claimed_at": "2026-11-06T14:08:07Z",
+   "note": "对账补记（2026-11-03）：任务 62=cleared 59/drafted 2/s3_checked 1；11 条在途快照 641faf13（正文未完）；对账补记（2026-11-06）：任务 62=cleared 45/drafted 2/s3_checked 15；NO_LEDGER 17（旧存量 14；新增 3：bayes-theorem/behaviorism/buddhism-chan 11-04 译 actor=?，无账本留痕）",
+   "advanced_at": "2026-11-02T16:12:59Z"
+  },
+  "c": {
+   "phase": "translate",
+   "claimed_by": "ABCDE-main-20261106",
+   "claimed_at": "2026-11-06T10:40:37Z",
+   "note": "对账补记（2026-11-03）：批次未认领但工作已发生：任务 172=s3_checked 18/pending 154；7 条在途快照 641faf13；对账补记（2026-11-06）：任务 172=pending 147/s3_checked 25，s3 18→25；账本 28 份齐全",
+   "advanced_at": "2026-11-02T16:12:59Z"
+  },
+  "d": {
+   "phase": "translate",
+   "claimed_by": "ABCDE-main-20261106",
+   "claimed_at": "2026-11-06T10:40:37Z",
+   "note": "对账补记（2026-11-03）：任务 92=done 6/r1_reviewed 4/s3_checked 3/cleared 8/pending 71；对账补记（2026-11-06）：任务 92=pending 71/cleared 4/s3_checked 7/r1_reviewed 4/done 6；duhem 在途（并行会话译文中勿动）；NO_LEDGER 17（旧存量 14；新增 3：descartes-ethics/descartes-ideas 11-04、dewey-political 11-05，actor=?）",
+   "advanced_at": "2026-11-02T16:12:59Z"
+  },
+  "e": {
+   "phase": "translate",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:02Z",
+   "note": "E批40路子代理滚动起跑：99词条，两波模式（翻译波+复核波），主代理监控收口；对账补记（2026-11-06）：任务 99=pending 83/s3_checked 16；NO_LEDGER 12（旧存量 5；新增 7：11-03 起译 egoism/epsilon-calculus/epistemology-language-tibetan/erasmus/ethics-deontological/economic-democracy/emilie-du-chatelet，账本仅 4 份）",
+   "advanced_at": "2026-11-01T11:03:27Z"
+  },
+  "f": {
+   "phase": "translate",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:02Z",
+   "note": "对账补记（2026-11-03）：基线 96/96 镜像 96/96，intake/fetch/convert 事实满足；任务已建 40=全部 pending；对账补记（2026-11-06）：任务 97 全建全 pending（11-03 缺口 40→97 已闭合）；frame-problem 文件含 641faf13 快照内容待直译",
+   "advanced_at": "2026-11-02T16:12:59Z"
+  },
+  "g": {
+   "phase": "translate",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:03Z",
+   "note": "对账补记（2026-11-03）：任务 49=cleared 19/pending 30；对账补记（2026-11-06）：任务 49=pending 30/cleared 19；gene 文件结构完整（19541 汉字）但系快照内容，状态 cleared=待直译，裁定不推进",
+   "advanced_at": "2026-11-02T16:12:59Z"
+  },
+  "h": {
+   "phase": "translate",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:03Z",
+   "note": "对账补记（2026-11-03）：任务 61=s3_checked 3/s1_checked 2/cleared 32/pending 24；11 条在途快照 641faf13；对账补记（2026-11-06）：任务 61=pending 24/cleared 31/done 6；10 条 641faf13 快照遗留待直译（han-dynasty/haecceitism/halevi/heytesbury/hilbert-program/hobbes-science/holes/holkot/hume-moral/hutcheson）；账本 19 份",
+   "advanced_at": "2026-11-02T16:13:00Z"
+  },
+  "i": {
+   "phase": "translate",
+   "claimed_by": "ses-FGHIJK-main-1103",
+   "claimed_at": "2026-11-02T16:22:17Z",
+   "note": "fetch/convert 已满足（基线 75/75 镜像 75/75）；40 路子代理滚动翻译波启动；对账补记（2026-11-06）：任务 75=pending 50/cleared 7/done 18；5 条快照遗留待直译（imaginative-resistance/impossible-worlds/information-biological/intrinsic-extrinsic/intuitionism-ethics）；NO_LEDGER 18 全旧存量",
+   "advanced_at": "2026-11-01T10:28:21Z"
+  },
+  "j": {
+   "phase": "translate",
+   "claimed_by": "ses-FGHIJK-main-1103",
+   "claimed_at": "2026-11-02T16:22:17Z",
+   "note": "38 任务已 create（version_pin 齐全），启动 40 路翻译波；对账补记（2026-11-06）：任务 38=cleared 34/done 4；cleared 34 含子代理废稿待直译，其中 japanese-aesthetics/justice-bad-luck 文件结构完整但状态不推进（J批 11-03 裁定）；账本 5 份；二次对账（2026-11-06 I-K 接管）：账本实为 6 份（justep-coherence 为 8 分卷），james-mill 账本仅 9/84 段系半成品、justep-coherence 分卷 114 段已填未 compose，两处已交本轮子代理补齐",
+   "advanced_at": "2026-11-06T10:40:20Z"
+  },
+  "k": {
+   "phase": "translate",
+   "claimed_by": "ses-FGHIJK-main-1103",
+   "claimed_at": "2026-11-02T16:22:17Z",
+   "note": "36 任务全建并 cleared（karl-reinhold 沿用已存在任务）；对账补记（2026-11-06）：NO_LEDGER 4＝AK-main-20261105 会话所译 kant-science/kant-social-political/korean-buddhism/knowledge-analysis 无账本（ADR-0021 债，不补造留痕；done 10 条账本齐全）；二次对账（2026-11-06 I-K 接管）：任务 36=done 10/s3_checked 10/cleared 16（原记 cleared 22/s3_checked 4 已过时，6 条在 11-05 后推进至 s3）＋knowledge-acquaindescrip 账本 48/103 在途（本轮补齐中）",
+   "advanced_at": "2026-11-06T10:40:20Z"
+  },
+  "l": {
+   "phase": "translate",
+   "claimed_by": "LQ-main-20261103",
+   "claimed_at": "2026-11-02T17:21:14Z",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 144/144 镜像 144/144 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：144 词条审计=任务 19 已建（s3_checked 16/s2_checked 1/cleared 1/pending 1，含 logic-provability 11-06 s2_checked）+125 未建；状态机与文件零偏差；账本协议 lq.py 落实",
+   "advanced_at": "2026-11-05T15:22:53Z"
+  },
+  "m": {
+   "phase": "translate",
+   "claimed_by": "LQ-main-20261103",
+   "claimed_at": "2026-11-02T17:21:15Z",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 139/139 镜像 139/139 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：140 词条=任务 9 pending+131 未建；零偏差",
+   "advanced_at": "2026-11-05T15:22:53Z"
+  },
+  "n": {
+   "phase": "translate",
+   "claimed_by": "LQ-main-20261103",
+   "claimed_at": "2026-11-02T17:21:15Z",
+   "note": "对账补记（2026-11-05）：intake add=0 队列清空；基线 50/50 镜像 50/50 事实满足；l 批任务 19 已建（s3_checked 16/cleared 2/pending 1）；对账补记（2026-11-06）：50 词条=任务 2 pending+48 未建；零偏差",
+   "advanced_at": "2026-11-05T15:22:54Z"
+  },
+  "o": {
+   "phase": "translate",
+   "claimed_by": "OR-main-20261106",
+   "claimed_at": "2026-11-06T13:48:32Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T15:22:54Z"
+  },
+  "p": {
+   "phase": "translate",
+   "claimed_by": "OR-main-20261106",
+   "claimed_at": "2026-11-06T13:48:32Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T15:22:54Z"
+  },
+  "q": {
+   "phase": "translate",
+   "claimed_by": "OR-main-20261106",
+   "claimed_at": "2026-11-06T13:48:33Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T15:22:54Z"
+  },
+  "r": {
+   "phase": "translate",
+   "claimed_by": "OR-main-20261106",
+   "claimed_at": "2026-11-06T13:48:33Z",
+   "note": "用户 2026-11-06 指令接管 O-R 全流程；r 批 rationalism-early-modern 他会话在途改动作废重置（用户裁定）",
+   "advanced_at": "2026-11-05T20:22:06Z"
+  },
+  "s": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:01Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：161 词条=done 1（spacetime-holearg 10-28 旧存量无账本，不补造）+pending 5+155 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:07Z"
+  },
+  "t": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:01Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：71 词条=任务 2 pending+69 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:08Z"
+  },
+  "u": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:01Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：4 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:09Z"
+  },
+  "v": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:02Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：15 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:10Z"
+  },
+  "w": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:02Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：38 词条=任务 3 pending+35 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:11Z"
+  },
+  "x": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:02Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：3 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:12Z"
+  },
+  "y": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:03Z",
+   "note": "RZ-main-20261104 认领开工；对账补记（2026-11-06）：2 词条=任务 1 pending+1 未建；零偏差",
+   "advanced_at": "2026-11-03T19:15:13Z"
+  },
+  "z": {
+   "phase": "translate",
+   "claimed_by": "SZ-main-20261106",
+   "claimed_at": "2026-11-06T13:53:03Z",
+   "note": "收编自干执行2（2026-10-27 挂认领 9 天 0 进度，用户裁定收编），RZ-main-20261104 接手；对账补记（2026-11-06）：6 词条=任务 0 已建；零偏差",
+   "advanced_at": "2026-11-03T19:15:13Z"
+  }
+ },
+ "updated_at": "2026-11-06T14:08:07Z"
 }
