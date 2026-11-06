@@ -2,7 +2,7 @@
   "slug": "alcmaeon",
   "kind": "retranslate",
   "zh_doc": "a/alcmaeon.md",
-  "state": "s1_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -31,6 +31,48 @@
       "actor": "zcode-前置复核",
       "at": "2026-10-27T15:35:00Z",
       "evidence": "前置复核发现结构迁移 f717f086 误删唯一有内容的旧拼音译文（该提交 424 个删除文件中 423 个为 1 行 stub，唯此 220 行真译文），a/alcmaeon.md 曾为 stub；已从 405c2fbb 原样恢复至现行字母目录路径并同步 zh_doc 字段，sha256=9eb8449574b8fe01，220 行与历史提交逐字节一致"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T11:38:32Z",
+      "evidence": "二校（语言）：check_prose 44→21——长句拆分 21 处、弱动词 3 处改（作出推断→合理推断/作出…能力→推断与判断的能力/加以发展→承接并发展）、被动 1 处（被讨论的→所讨论的）；余 21 条（de-chain 19＋long 2）为残篇术语'不可知觉的东西/会死的东西'构式与引号术语密集句，ADR-0020 豁免留痕"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T11:38:35Z",
+      "evidence": "三校（体例）：check_style 0 issue；check_math 0；check_academic --strict 0 硬错误；参考文献改 defs 原样照录 81 条，尾节四节齐（参考文献/学术工具/其他网络资源/相关词条）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T11:39:28Z",
+      "evidence": "初审（准确性）：对账五维——节 9/9（参考文献子节按家法折入 defs）、段落 54/54、正文 marker 82/82（ASCII 归一，KRS 1983 组 7 键次序对齐）、defs 81/81、年份多重集一致；结构归位：补 [^key] 标记 82 处、散列书目改为 defs 原样照录；抽读 6 段对照 yuanwen 语义一致，未见误译漏译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T11:39:28Z",
+      "evidence": "复审（语言/人名）：check_prose 余量 21 条全部豁免（de-chain 19 为残篇术语构式、long 2 为引号术语密集句）；人名按 ADR-0022 判据——无登记汉名者保留拉丁形（Guthrie/Lloyd/Vlastos 等），无新增登记债；引文块 3 处（DK 12B1/B1/B4）与源一致"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T11:39:31Z",
+      "evidence": "终审（门禁）：check_style 0、check_math 0、check_academic --strict 0 硬错误；对账脚本复跑通过（仅参考文献子节家法豁免差 2）；文档 296 行，四节尾节齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-main-20261106",
+      "at": "2026-11-06T11:39:31Z",
+      "evidence": "六道走完（draft→s1→s2→s3→r1→r2→r3），done：a/alcmaeon.md 正文 5 节全译 296 行＋defs 81 条＋尾节四节；零信任对照 yuanwen（2025-07-18 版）核验；批次 a translate 进度 42/160"
     }
   ],
   "blockers": [],
