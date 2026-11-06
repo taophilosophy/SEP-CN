@@ -10,11 +10,11 @@ epsilon 演算是大卫·希尔伯特为其数学基础纲领而发展的一种�
 
 世纪之交，大卫·希尔伯特与亨利·庞加莱被公认为同代人中最重要的两位数学家。希尔伯特的数学兴趣广泛，其中包括对数学基础的关注：其《几何基础》出版于 1899 年，而在 1900 年向国际数学家大会提出的问题清单中，有三条明确涉及基础问题。
 
-罗素悖论发表后，希尔伯特在 1904 年第三次国际数学家大会上发表演讲，首次勾勒了他通过语法一致性证明为数学提供严格基础的计划。但他没有认真地回到这一主题，直到 1917 年，在保罗·贝奈斯的协助下开始关于数学基础的系列讲座。虽然希尔伯特对罗素与怀特海在《数学原理》中的工作印象深刻，但他确信逻辑主义把数学还原为逻辑的尝试不可能成功，尤其是因为其可还原性公理的非逻辑性质。与此同时，他认为直觉主义对排中律的拒斥是数学所不能接受的。因此，为了回应逻辑悖论与集合论悖论的发现所引发的忧虑，需要一种新的进路来为现代数学方法辩护。
+罗素悖论发表后，希尔伯特在 1904 年第三次国际数学家大会上发表演讲，首次勾勒了他通过语法一致性证明为数学提供严格基础的计划。但他没有认真地回到这一主题，直到 1917 年，在保罗·贝奈斯的协助下开始关于数学基础的系列讲座。虽然希尔伯特对罗素与怀特海在《数学原理》中的工作印象深刻，但他确信逻辑主义把数学还原为逻辑的尝试不可能成功，尤其是因为其可还原性公理的非逻辑性质。与此同时，他认为直觉主义对排中律的拒斥是数学所不能接受的。因此，逻辑悖论与集合论悖论的发现引发了忧虑，于是需要一种新的进路为现代数学方法辩护。
 
-到 1920 年夏，希尔伯特已经形成了这样一种进路。第一，现代数学方法要在形式演绎系统中得到表示。第二，这些形式系统要在语法上被证明为一致的——不是通过展示一个模型或把一致性还原到另一个系统，而是通过一种明确的、“有穷的”性质的直接元数学论证。这一进路后来被称为希尔伯特纲领。epsilon 演算为该纲领提供第一个组成部分，而其 epsilon 替换方法为第二个组成部分提供支持。
+到 1920 年夏，希尔伯特已经形成了这样一种进路。第一，现代数学方法要在形式演绎系统中得到表示。第二，这些形式系统要在语法上证明为一致——既不靠展示一个模型，也不把一致性还原到另一个系统，而是依靠一种明确的、具有“有穷”性质的直接元数学论证。这一进路后来被称为希尔伯特纲领。epsilon 演算为该纲领提供第一个组成部分，而其 epsilon 替换方法为第二个组成部分提供支持。
 
-epsilon 演算在其最基本的形式中，是带有一个“epsilon 运算”的一阶谓词逻辑的扩充，该运算为任何为真的存在公式挑选存在量词的一个见证。这一扩充是保守的，因为它不增加任何新的一阶后承。但反过来，量词可以用 epsilon 来定义，因此一阶逻辑可以被理解为涉及 epsilon 运算的无量词推理。正是这后一特性使得该演算便于证明一致性。epsilon 演算的适当扩充使得把更强的、量词性的数与集合的理论嵌入无量词演算成为可能。希尔伯特期望能够证明这种扩充的一致性。
+就其最基本的形式而言，epsilon 演算是一阶谓词逻辑的扩充，增有一个“epsilon 运算”；该运算为任何为真的存在公式挑选存在量词的一个见证。这一扩充是保守的，因为它不增加任何新的一阶后承。但反过来，量词可以用 epsilon 来定义，因此一阶逻辑可以被理解为涉及 epsilon 运算的无量词推理。正是这后一特性使得该演算便于证明一致性。适当扩充 epsilon 演算，便可把更强的、量词性的数论与集合论嵌入无量词演算。希尔伯特期望能够证明这种扩充的一致性。
 
 ## 2 Epsilon 演算
 
@@ -39,13 +39,13 @@ epsilon 演算在其最基本的形式中，是带有一个“epsilon 运算”�
 
 早期形式的 epsilon 演算（如希尔伯特 1923 中所呈现的）[^hilbert-1923]使用 epsilon 算子的一种对偶形式，其中 $\varepsilon x A$ 返回一个 **证伪** $A(x)$ 的值。上文的版本用于阿克曼的博士论文（1924），并已成为标准。
 
-注意，刚描述的演算是无量词的。量词可以按如下方式 **定义**：$$ \begin{align} \exists x A(x) &\equiv A(\varepsilon x A) \\ \forall x A(x) &\equiv A(\varepsilon x (\neg A)) \end{align} $$ 通常的量词公理与规则可以从这些定义导出，因此上述定义起到把一阶逻辑嵌入 epsilon 演算的作用。但逆命题不成立：并非 epsilon 演算中的每个公式都是某个通常的量化公式在这一嵌入下的像。因此，epsilon 演算比谓词演算更具表达力，原因很简单：epsilon 项能以比量词更复杂的方式组合。
+注意，刚描述的演算是无量词的。量词可以按如下方式 **定义**：$$ \begin{align} \exists x A(x) &\equiv A(\varepsilon x A) \\ \forall x A(x) &\equiv A(\varepsilon x (\neg A)) \end{align} $$ 通常的量词公理与规则可以从这些定义导出，因此上述定义起到把一阶逻辑嵌入 epsilon 演算的作用。但逆命题不成立：在该嵌入下，并非 epsilon 演算中的每个公式都对应某个通常的量化公式。因此，epsilon 演算比谓词演算更具表达力，原因很简单：epsilon 项能以比量词更复杂的方式组合。
 
 值得指出的是，epsilon 项是非决定性的。例如，在带有常项符号 $a$ 与 $b$ 的语言中，$\varepsilon x (x = a \vee x = b)$ 要么是 $a$ 要么是 $b$，但演算对究竟是哪个完全不做规定。人们可以在演算中增加一个 **外延性** 图式，$$ \forall x (A(x) \leftrightarrow B(x)) \rightarrow \varepsilon x A = \varepsilon x B $$ 该图式断言 epsilon 算子给等价的公式 $A$ 与 $B$ 指派相同的见证。但对许多应用而言，这一附加图式并非必要。
 
 ## 3 Epsilon 定理
 
-希尔伯特与贝奈斯《数学基础》第二卷（1939）总结了当时已证的关于 epsilon 演算的结果。其中包括对第一与第二 epsilon 定理的讨论及其在一阶逻辑中的应用、带开放归纳的算术的 epsilon 替换方法，以及用 epsilon 演算发展分析（即二阶算术）。
+希尔伯特与贝奈斯《数学基础》第二卷（1939）总结了当时已证的关于 epsilon 演算的结果。其中包括：第一与第二 epsilon 定理及其在一阶逻辑中的应用；带开放归纳之算术的 epsilon 替换方法；以及用 epsilon 演算发展分析（即二阶算术）。
 
 第一与第二 epsilon 定理如下：
 
@@ -57,7 +57,7 @@ epsilon 演算在其最基本的形式中，是带有一个“epsilon 运算”�
 
 更一般地，第一 epsilon 定理确立：在从其他无量词公式导出无量词公式的证明中，量词与 epsilon 总可以被消去。这对希尔伯特纲领尤为重要，因为 epsilon 扮演数学中理想元素的角色。如果无量词公式对应数学理论的“实在”部分，那么第一 epsilon 定理表明：理想元素可以从实在命题的证明中被消去——前提是公理也是实在命题。
 
-这一想法在希尔伯特与贝奈斯从第一 epsilon 定理导出的某个一般一致性定理中得到精确化，该定理说：设 $F$ 为由谓词逻辑加上常项、函数与谓词符号以及无量词且无 epsilon 的真公理而得到的任何形式系统，并设新语言中原子公式的真值是可判定的。则 $F$ 在强意义上是一致的：每个可导的无量词且无 epsilon 的公式都是真的。希尔伯特与贝奈斯用这一定理给出了初等几何的有穷主义一致性证明（1939，第 1.4 节）。
+这一想法在希尔伯特与贝奈斯从第一 epsilon 定理导出的某个一般一致性定理中得到精确化。该定理说：设 $F$ 为由谓词逻辑加上常项、函数与谓词符号以及无量词且无 epsilon 的真公理而得到的任何形式系统，并设新语言中原子公式的真值是可判定的。则 $F$ 在强意义上是一致的：每个可导的无量词且无 epsilon 的公式都是真的。希尔伯特与贝奈斯用这一定理给出了初等几何的有穷主义一致性证明（1939，第 1.4 节）。
 
 为算术与分析给出一致性证明的困难在于：把这一结果扩展到公理也包含理想元素——即 epsilon 项——的情形。
 
@@ -80,7 +80,7 @@ $$ \exists x_1 \forall x_2 \exists x_3 \forall x_4 B(x_1, x_2, x_3, x_4) $$ 其�
 * 删去每个全称量词；
 * 把每个全称量化的变项 $x_i$ 替换为 $f_i (x_{i}^1,\ldots, x_{i}^{k(i)})$，其中 $x_{i}^1,\ldots, x_{i}^{k(i)}$ 是 $A$ 中前于 $\mathbf{Q}_i$ 的（按序排列的）对应存在量词的变项，$f_i$ 是为此目的指定的一个新函数符号。
 
-当我们说 $A^H$ 的母式的一个 **实例** 时，我们指的是通过在 $A^H$ 的母式中代入扩张语言中的项而得到的公式。现在我们可以陈述希尔伯特与贝奈斯对
+所谓 $A^H$ 母式的一个 **实例**，指在 $A^H$ 的母式中代入扩张语言的项而得到的公式。现在我们可以陈述希尔伯特与贝奈斯对
 
 **Herbrand 定理。**（1）一个前束公式 $A$ 在谓词演算中可导，当且仅当 $A^H$ 的母式的实例的某个析取是准重言式。
 
@@ -91,7 +91,7 @@ $$ \exists x_1 \forall x_2 \exists x_3 \forall x_4 B(x_1, x_2, x_3, x_4) $$ 其�
 
 以及 $\vee$ 的幂等性（从 $C \vee C \vee D$ 推出 $C \vee D$）。
 
-Herbrand 定理也可以通过切割消去——经由根岑的“中后续定理”——得到。然而，使用第二 epsilon 定理的证明具有作为 Herbrand 定理第一个完整且正确的证明的殊荣。此外——这一点很少被认识到——虽然基于切割消去的证明仅给出 Herbrand 析取长度作为证明中切割秩与切割公式复杂性的函数的界，而基于 epsilon 演算的证明给出的界是超限公理应用次数及其中出现的 epsilon 项的秩与次数的函数。换言之，Herbrand 析取的长度仅取决于所涉代入的量词复杂性，而与证明的命题结构或长度完全无关。
+Herbrand 定理也可以通过切割消去——经由根岑的“中后续定理”——得到。然而，使用第二 epsilon 定理的证明具有作为 Herbrand 定理第一个完整且正确的证明的殊荣。此外——这一点很少被认识到——基于切割消去的证明只给出一个界：Herbrand 析取的长度是证明中切割秩与切割公式复杂性的函数。而基于 epsilon 演算的证明给出的界，则是超限公理应用次数及其中出现的 epsilon 项之秩与次数的函数。换言之，Herbrand 析取的长度，仅取决于所代入项的量词复杂性，与所证明命题的结构或长度完全无关。
 
 本节开头所述的 Herbrand 定理版本，实质上是（2）中公式 $A$ 为存在公式的特殊情形。鉴于这一特殊情形，（1）等价于如下断言：公式 $A$ 在一阶谓词逻辑中可导，当且仅当 $A^H$ 亦可导。这一等价的前向方向容易证明得多；事实上，对任何公式 $A$，$A \rightarrow A^H$ 在谓词逻辑中可导。证明逆向方向涉及消去 $A^H$ 中的附加函数符号，要困难得多，尤其在有等词时。正是在这里，epsilon 方法发挥了核心作用。
 
@@ -124,9 +124,9 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 处理嵌套 epsilon 项的困难可以描述如下。假设证明中的某条公理是超限公理 $$ B(y) \rightarrow B(\varepsilon y B(y)) $$ 当然，$\varepsilon y B(y)$ 可能出现在证明的其他公式中，尤其是其他超限公理中，例如 $$ A(x, \varepsilon y B(y)) \rightarrow A(\varepsilon x A(x, \varepsilon y B(y)), \varepsilon y B(y)) $$ 那么，看来首先需要为 $\varepsilon y B(y)$ 找到正确的解释，然后才尝试为 $\varepsilon x A(x, \varepsilon y B(y))$ 找一个。但是，epsilon 项在证明中的出现还有更复杂的模式。在为 $\varepsilon y B(y)$ 确定正确解释时起作用的一个公理实例可能是 $$ B(\varepsilon x A(x, \varepsilon y B(y))) \rightarrow B(\varepsilon y B(y)) $$ 如果 $B$(0) 为假，则在第一轮中 $\varepsilon y B(y)$ 将被解释为 0。后续把 $\varepsilon x A(x, 0)$ 的解释从 0 改为比如 $n$，将导致该实例被解释为 $B(n) \rightarrow B$(0)，若 $B(n)$ 为真则此式为假。因此 $\varepsilon y B(y)$ 的解释将不得不被修正为 $n$，而这又可能导致 $\varepsilon x A(x, \varepsilon y B(y))$ 的解释不再是真公式。
 
-这只是把希尔伯特的想法扩展到一般情形所涉及的困难的概略。阿克曼（1924）提供了一个这样的推广，使用了一个在给定阶段的新解释需要修正先前阶段已找到的解释时“回溯”的程序。
+这只是概略：要把希尔伯特的想法扩展到一般情形，涉及的困难远不止于此。阿克曼（1924）提供了一个这样的推广，使用了一个在给定阶段的新解释需要修正先前阶段已找到的解释时“回溯”的程序。
 
-阿克曼的程序应用于一个二阶算术系统，但二阶项受到限制以排除二阶 epsilon 的交叉约束。这大致相当于把可用作集合形成原理的限制到算术概括（参见本节末尾的讨论）。二阶 epsilon 项的进一步困难显现出来，人们很快发现该证明如其所是是有缺陷的。然而，在希尔伯特学派的圈子里，直到 1930 年哥德尔宣布其不完备性结果之前，无人意识到困难的程度。在那之前，人们相信该证明（至少经过阿克曼引入的一些修改——其中一些涉及冯·诺依曼（1927）版本的 epsilon 替换方法中的思想）至少会顺利通过一阶部分。希尔伯特与贝奈斯（1939）提出，所用的方法只提供带开放归纳的一阶算术的一致性证明。1936 年，格哈德·根岑成功地在基于不带 epsilon 符号的谓词逻辑的表述中给出了一阶算术一致性的证明。该证明使用了直到 $\varepsilon_0$ 的超限归纳。阿克曼（1940）后来能够改造根岑的想法，用 epsilon 替换方法给出了一阶算术的正确一致性证明。
+阿克曼的程序应用于一个二阶算术系统，但二阶项受到限制以排除二阶 epsilon 的交叉约束。这大致相当于把可用的集合形成原理限制为算术概括（参见本节末尾的讨论）。二阶 epsilon 项又显露更多困难，人们很快发现该证明本身站不住脚。然而，在希尔伯特学派的圈子里，直到 1930 年哥德尔宣布其不完备性结果之前，无人意识到困难的程度。在那之前，人们相信该证明（至少经过阿克曼引入的一些修改——其中一些涉及冯·诺依曼（1927）版本的 epsilon 替换方法中的思想）至少会顺利通过一阶部分。希尔伯特与贝奈斯（1939）提出：所用方法只能提供带开放归纳之一阶算术的一致性证明。1936 年，格哈德·根岑成功地在基于不带 epsilon 符号的谓词逻辑的表述中给出了一阶算术一致性的证明。该证明使用了直到 $\varepsilon_0$ 的超限归纳。阿克曼（1940）后来能够改造根岑的想法，用 epsilon 替换方法给出了一阶算术的正确一致性证明。
 
 尽管阿克曼为二阶算术一致性证明所做的尝试没有成功，但这些尝试使人们更清楚地理解了二阶 epsilon 项在数学形式化中的使用。阿克曼使用了二阶 epsilon 项 $\varepsilon f\ A(f)$，其中 $f$ 是函数变项。类比一阶情形，$\varepsilon f\ A(f)$ 是一个使 $A(f)$ 为真的函数，例如 $\varepsilon f (x + f(x) = 2x)$ 是恒等函数 $f(x) = x$。再次类比一阶情形，可以使用二阶 epsilon 来解释二阶量词。特别地，对任何二阶公式 $A(x)$，可以找到项 $t(x)$ 使得 $$ A(x) \leftrightarrow t(x) = 1 $$ 在演算中可导（公式 $A$ 可以有其他自由变项，此时这些变项也出现在项 $t$ 中）。然后可以利用这一事实来解释 **概括** 原理。在带函数符号的语言中，这些采取如下形式 $$ \exists f \forall x (A(x) \leftrightarrow f(x) = 1) $$ 其中 $A(x)$ 为任意公式。概括更常用集合变项来表达，此时它采取如下形式 $$ \exists Y \forall x (A(x) \leftrightarrow x \in Y), $$ 断言每个带参数的二阶公式定义一个集合。
 
@@ -144,7 +144,7 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 2. 描述一个更新 epsilon 项指派的过程。
 3. 证明该程序是规范化的，即给定任何项的集合，存在一列更新，其结果是一个满足公理的指派。
 
-由于最后一步保证了原理论的一致性，从基础研究的视角看，人们感兴趣的正是证明规范化所用的方法。例如，通过给程序中的步骤指派序数记号——使得记号的值随每一步递减——可以获得一个 **序数分析**。
+最后一步保证了原理论的一致性。在基础研究看来，人们关心的正是证明规范化所用的方法。例如，通过给程序中的步骤指派序数记号——使得记号的值随每一步递减——可以获得一个 **序数分析**。
 
 在 1960 年代，Tait（1960, 1965, 2010）扩展了阿克曼的方法，获得了带超限归纳原理的算术扩充的序数分析。这一进路的更精炼的现代版本可在 Mints 2001 与 Avigad 2002b 中找到。更近时，Mints、Tupailo 与 Buchholz 考虑了更强的但仍直谓地可辩护的分析学片段，包括算术概括的理论与一个 $\Delta^{1}_1$-概括规则（Mints, Tupailo & Buchholz 1996; Mints & Tupailo 1999；另见 Mints 2016）[^mints-1999]。Arai 2002 已把 epsilon 替换方法扩展到允许沿原始递归良序迭代算术概括的理论。特别地，其工作给出了涉及超限层级与超限归纳的分析学直谓片段的序数分析。
 
@@ -152,7 +152,7 @@ Herbrand 定理及相关方法的一个引人注目的应用，见于 Luckhardt�
 
 上文步骤 3 的一个变体涉及证明规范化程序对更新的选择不敏感，即 **任何** 更新序列都终止。这被称为 **强规范化。** Mints 1996 已证明所考虑的许多程序具有这种更强的性质。
 
-除了证明理论的传统的、基础性的分支之外，如今人们对 **结构证明理论** 也有很大兴趣——该分支专注于逻辑演绎演算及其性质。这一研究与计算机科学中的相关问题密切相关，涉及自动演绎、函数式编程与计算机辅助验证。在这里，根岑式方法也趋于占主导（再次参见证明理论词条）。但 epsilon 演算也能提供有价值的洞见；参见例如 Aguilera 与 Baaz 2019，或上文对 Herbrand 定理的讨论。
+除证明理论的传统分支及其基础性研究之外，如今人们对 **结构证明理论** 也有很大兴趣——该分支专注于逻辑演绎演算及其性质。这一研究与计算机科学中的相关问题密切相关，涉及自动演绎、函数式编程与计算机辅助验证。在这里，根岑式方法也趋于占主导（再次参见证明理论词条）。但 epsilon 演算也能提供有价值的洞见；参见例如 Aguilera 与 Baaz 2019，或上文对 Herbrand 定理的讨论。
 
 除了证明理论中对 epsilon 演算的探究之外，还应提及两个应用。一是 epsilon 记号在布尔巴基《集合论》（1958）中的使用。二是——也许具有更大的当前意义——epsilon 算子在定理证明系统 [HOL](https://www.cl.cam.ac.uk/Research/HVG/HOL/) 与 [Isabelle](https://www.cl.cam.ac.uk/Research/HVG/Isabelle/) 中的使用，其中 epsilon 项的表达力带来了显著的实践优势。
 
@@ -398,93 +398,3 @@ anaphora | finitism | Hilbert, David | Hilbert, David: program in the foundation
 [^zach-2004]: –––, 2004, ‘Hilbert’s “*Verunglückter Beweis*”, the first epsilon theorem, and consistency proofs’. *History and Philosophy of Logic*, 25: 79–94.
 
 [^zach-2017]: –––, 2017, ‘Semantics and proof theory of the epsilon calculus’, in: Ghosh, S., Prasad, S. (Eds.), *Logic and Its Applications. ICLA 2017*, LNCS. Springer, Berlin, Heidelberg, pp. 27–47.
-
-## 脚注
-
-[^ackermann-1924]: Ackermann, W., 1924, ‘Begründung des ’’tertium non datur’’ mittels der Hilbertschen Theorie der Widerspruchsfreiheit’, *Mathematische Annalen*, 93: 1–36.
-
-[^ackermann-1940]: –––, 1940, ‘Zur Widerspruchsfreiheit der Zahlentheorie’, *Mathematische Annalen*, 117: 162–194.
-
-[^arai-2003]: –––, 2003, ‘Epsilon substitution method for ID$_1 (\Pi^{0}_1 \vee \Sigma^{0}_1)$’, *Annals of Pure and Applied Logic*, 121: 163–208.
-
-[^avigad-2002a]: Avigad, J., 2002a, ‘Saturated models of universal theories’, *Annals of Pure and Applied Logic*, 118: 219–234.
-
-[^baaz-2018]: Baaz, M., A. Leitsch, and A. Lolic, 2018, ‘A sequent-calculus based formulation of the extended first epsilon theorem’, in: Artemov, S., Nerode, A. (eds.), *Logical Foundations of Computer Science*, Berlin: Springer, 55–71.
-
-[^bell-1993a]: Bell, J. L., 1993a. ‘Hilbert’s epsilon-operator and classical logic’, *Journal of Philosophical Logic*, 22: 1–18.
-
-[^bellotti-2016]: Bellotti, L., 2016, ‘Von Neumann’s consistency proof’, *Review of Symbolic Logic*, 9: 429–455.
-
-[^bourbaki-1958]: Bourbaki, N., 1958, *Theorie des ensembles*, Paris: Hermann.
-
-[^buss-1998]: ––– 1998, ‘Introduction to proof theory’, in: Buss (ed.), *The Handbook of Proof Theory*, Amsterdam: North-Holland, 1–78.
-
-[^davis-1991]: Davis, M., and R. Fechter, 1991, ‘A free variable version of the first-order predicate calculus’, *Journal of Logic and Computation*, 1: 431–451.
-
-[^egli-1995]: Egli, U., and K. von Heusinger, 1995, ‘The epsilon operator and E-type pronouns’, in U. Egli *et al*. (eds.), *Lexical Knowledge in the Organization of Language*, Amsterdam: Benjamins, 121–141 (Current Issues in Linguistic Theory 114).
-
-[^ewald-1996]: Ewald, W. B. (ed.), 1996, *From Kant to Hilbert. A Source Book in the Foundations of Mathematics*, Vol. 2, Oxford: Oxford University Press.
-
-[^fine-1985]: Fine, K., 1985, *Reasoning with Arbitrary Objects*, Oxford: Blackwell.
-
-[^flannagan-1975]: Flannagan, T. B., 1975, ‘On an extension of Hilbert’s second $\varepsilon$-theorem’, *Journal of Symbolic Logic*, 40: 393–397.
-
-[^girard-1982]: Girard, J.-Y., 1982, ‘Herbrand’s theorem and proof theory’, *Proceedings of the Herbrand Symposium*, Amsterdam: North-Holland, 29-38.
-
-[^herbrand-1930]: Herbrand, J., 1930, *Recherches sur la thèorie de la dèmonstration*, *Dissertation*, University of Paris. English translation in Herbrand 1971, pp. 44–202.
-
-[^hilbert-1922]: Hilbert, D., 1922, ‘Neubegründung der Mathematik: Erste Mitteilung’, *Abhandlungen aus dem Seminar der Hamburgischen Universität*, 1: 157–177, English translation in Mancosu, 1998, 198–214 and Ewald, 1996, 1115–1134.
-
-[^hilbert-1934]: Hilbert, D., and P. Bernays, 1934, *Grundlagen der Mathematik* (Volume 1), Berlin: Springer.
-
-[^hilbert-1970]: –––, 1970, ‘Grundlagen der Mathematik’ (Volume 2), 2nd, edition, Berlin: Springer, Supplement V.
-
-[^kempson-2001]: Kempson, R., W. Meyer Viol, and D. Gabbay, 2001, *Dynamic Syntax: The Flow of Language Understanding*, Oxford: Blackwell.
-
-[^leisenring-1969]: Leisenring, A. C., 1969, *Mathematical Logic and Hilbert’s Epsilon-Symbol*, London: Macdonald.
-
-[^luckhardt-1989]: Luckhardt, H., 1989, ‘Herbrand-Analysen zweier Beweise des Satzes von Roth: Polynomiale Anzahlschranken’, *Journal of Symbolic Logic*, 54: 234–263.
-
-[^maehara-1957]: –––, 1957, ‘Equality axiom on Hilbert’s $\varepsilon$-symbol’, *Journal of the Faculty of Science*, University of Tokyo, Section 1, 7: 419–435.
-
-[^meyer-1995a]: Meyer Viol, W. P. M., 1995a, *Instantial Logic. An Investigation into Reasoning with Instances*, Ph.D. thesis, University of Utrecht. ILLC Dissertation Series 1995–11.
-
-[^mints-1994]: Mints, G., 1994, ‘Gentzen-type systems and Hilbert’s epsilon substitution method. I’, *Logic, Methodology and Philosophy of Science, IX* (Uppsala, 1991), Amsterdam: North-Holland, 91-122.
-
-[^mints-2001]: –––, 2001, ‘The epsilon substitution method and continuity’, in W. Sieg *et al*. (eds.), *Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman*, Lecture Notes in Logic 15, Association for Symbolic Logic.
-
-[^mints-2013]: –––, 2013, ‘Epsilon substitution for first- and second-order predicate logic’, *Annals of Pure and Applied Logic*, 164: 733–739.
-
-[^mints-1999]: Mints, G., and S. Tupailo, 1999, ‘Epsilon-substitution method for the ramified language and $\Delta^{1}_1$-comprehension rule’, in A. Cantini *et al*. (eds.), *Logic and Foundations of Mathematics* (Florence, 1995), Dordrecht: Kluwer, 107–130.
-
-[^miyamoto-2024]: Miyamoto, K., and G. Moser, 2024, ‘Herbrand complexity and the epsilon calculus with equality’, *Archive for Mathematical Logic*, 63(1): 89–118.
-
-[^moser-2006-2]: Moser, G., and R. Zach, 2006, ‘The epsilon calculus and Herbrand complexity’, *Studia Logica*, 82(1): 133–155.
-
-[^neale-1990]: Neale, S., 1990, *Descriptions*, Cambridge, MA: MIT Press.
-
-[^reinhart-1997]: –––, 1997, ‘Quantifier scope: How labor is divided between QR and choice functions’. *Linguistics and Philosophy*, 20: 335–397.
-
-[^schiemer-2016]: Schiemer, G., and N. Gratzl, 2016, ‘The epsilon-reconstruction of theories and scientific structuralism’, *Erkenntnis*, 81(2): 407–432.
-
-[^sieg-1991]: Sieg, W., 1991, ‘Herbrand analyses’, *Archive for Mathematical Logic*, 30: 409–441.
-
-[^slater-1988]: –––, 1988, ‘Hilbertian reference’, *Noûs*, 22: 283–97.
-
-[^slater-2000]: –––, 2000, ‘Quantifier/variable-binding’, *Linguistics and Philosophy*, 23: 309–21.
-
-[^tait-1965]: –––, 1965, ‘Functionals defined by transfinite recursion,’ *Journal of Symbolic Logic*, 30: 155–174.
-
-[^heusinger-1994]: von Heusinger, K., 1994, Review of Neale (1990). *Linguistics*, 32: 378–385.
-
-[^heusinger-2000]: –––, 2000, ‘The Reference of Indefinites’, in von Heusinger and Egli, (2000), 265–284.
-
-[^heusinger-2000-2]: von Heusinger, K., and U. Egli (eds.), 2000, *Reference and Anaphoric Relations*, Dordrecht: Kluwer.
-
-[^heusinger-2004-2]: von Heusinger, K., and R. Kempson (eds.), 2004, *Choice Functions in Semantics*, Special Issue of *Research on Language and Computation*, 2(3).
-
-[^wang-1963]: Wang, H., 1963, *A Survey of Mathematical Logic*, Peking: Science Press.
-
-[^yasuhara-1982]: Yasuhara, M., 1982, ‘Cut elimination in $\varepsilon$-calculi’, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 28: 311–316.
-
-[^zach-2004]: –––, 2004, ‘Hilbert’s “*Verunglückter Beweis*”, the first epsilon theorem, and consistency proofs’. *History and Philosophy of Logic*, 25: 79–94.

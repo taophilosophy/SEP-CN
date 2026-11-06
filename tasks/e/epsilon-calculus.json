@@ -2,7 +2,7 @@
   "slug": "epsilon-calculus",
   "kind": "retranslate",
   "zh_doc": "e/epsilon-calculus.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-03T17:33:54Z",
       "evidence": "check_style 0 issue（斜体→加粗批量修 25 处+三重星号修复+星标公式去 (*) 记号）；check_math 0；check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:50:03Z",
+      "evidence": "r1 段级核销：7 节对应、89 个文献定义键与源 89 全等、年份集合无缺无多；实抓并修复重大缺陷——文末 '## 脚注' 后重复堆叠 44 条文献定义（定义 133→89 去重），删重复块 90 行；修正 'comprehension principle' 误译（可用作集合形成原理→可用的集合形成原理限制为算术概括）与 'fallacious' 弱化译法"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:50:03Z",
+      "evidence": "r2 句级复读：check_prose 17→3（拆分 5 处长句、去 6 处'的'链与 3 处'被'字）；残余 3 条为定理陈述与代入规则中的技术性密排（段 76/81/94），改写会损及公式结构，按 ADR-0020 技术密度豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:50:06Z",
+      "evidence": "r3 终检：check_style 0 issue；check_academic --strict OK；check_math 无 missing/unbalanced；结构完整（7 节+参考文献+学术工具+其他网络资源+相关词条）；账本缺档旧管线债务登记 qa-findings §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T12:50:07Z",
+      "evidence": "终稿验收：六道全过；r1 实抓重复文献块并修复；技术密排 3 条豁免有据"
     }
   ],
   "blockers": [],
