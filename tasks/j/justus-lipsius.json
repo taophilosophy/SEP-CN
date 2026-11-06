@@ -2,7 +2,7 @@
   "slug": "justus-lipsius",
   "kind": "retranslate",
   "zh_doc": "j/justus-lipsius.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:37:21Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T16:18:51Z",
+      "evidence": "lq 账本流水线全量直译：53 段（body 52/oir 1）双版落盘，compose 30897 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T16:18:51Z",
+      "evidence": "对照核销：段落 73:72（差 1＝管线译注行）、节数 12:12、脚注 marker 与 defs 键集全一致；相关词条 1 项照录"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T16:18:52Z",
+      "evidence": "prose 实修 4 处（长句拆分：古典学析论/教父名录/火气说/恶之解释）；无 CJK 斜体残留（style 0）；术语依表：偶因论/机械论/目的因/新斯多亚主义（新登）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T16:18:54Z",
+      "evidence": "四检全绿：check_academic --strict OK；check_style issues=0；check_prose issues=0；check_math missing=[]/unbalanced=[]；lq check 守恒门 53 段通过"
     }
   ],
   "blockers": [],
