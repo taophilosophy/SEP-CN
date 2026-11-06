@@ -191,5 +191,7 @@ specs/008-terminology-campaign/results/harvest-cache/
 # 站点派生缓存（ADR-0014 时代构建链，config.mts transformPageData 消费）
 .vitepress/git-stamps.json
 /.vitepress/cache-build
-/_f_pipe
-/_f_prompts
+
+# 根目录白名单（ADR-0023）：根层只放 tools/check_junk.py ROOT_ALLOW 登记项。
+# 会话散件写 script/（本地草稿）或 state/（运行态），临时文件不落根目录；
+# 根级脚手架不再开忽略口子——留在根目录即门禁红灯，须迁移而非隐藏。

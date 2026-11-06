@@ -25,6 +25,15 @@
 | `jian-yi-shu/` | 分类目录核查建议书等一次性交付物（不入 SUMMARY） | 是 |
 | `en/`、`script/`、`state/` | 英文原始抓取 HTML、本地草稿脚本、管线本地运行态 | 否（gitignore） |
 
+## 根目录白名单（ADR-0023）
+
+根目录是**可枚举的契约面**：只允许登记在 `tools/check_junk.py` 的 `ROOT_ALLOW` 中的条目，五类——工具链配置（`.github/`、`.vitepress/`、`.specify/`、`.zcode/` 与点文件）、顶层叙事文档（`SUMMARY.md`、`PROGRESS.md`、登记册、访客文档）、A–Z 词条字母目录与数字目录 `1/`（ADR-0009）、结构目录（`rules/`、`specs/`、`tools/`、`tasks/`、`baseline/`、`assets/` 等）、包管理文件（`package.json`、`bun.lock`）。
+
+* **新增根级条目须走 ADR**（`rules/adr/`），同时在 `ROOT_ALLOW` 登记说明；不登记即门禁红灯。
+* **散件归置唯一路径**：本地会话草稿 → `script/`；运行态与临时文件（含 `*.tmp`）→ `state/`；批次工件与入库凭证 → `specs/<NNN>-*/bin|results/`。根目录不放中间产物、一次性脚本、抓取快照、提示词工作台。
+* **门禁双向核对**（`python tools/check_junk.py`）：跟踪清单 ∩ 白名单 + 工作区 `os.listdir` ∩ 白名单。根级散件无论被 `git add -A` 扫入还是被忽略规则遮住，一律红灯；CI 侧只见跟踪清单，本地收工 `check_all` 同时覆盖未入库散件。
+* 判定口径：根目录出现「不在白名单的任何文件或目录」即违规——包括被 `.gitignore` 忽略的 `_xxx/` 脚手架。忽略规则只管「不入库」，不管「可以堆在根目录」。
+
 ## SUMMARY.md 规则
 
 * 第一行 `# Table of contents` 绝对不能变更，否则 GitBook 同步失效。

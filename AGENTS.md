@@ -49,5 +49,6 @@
 * **更新流程**：`fetch_catalog` 检测漂移 → `compare.py <slug>` 产出持久变更文件 → `task_ops.py` update 任务（evidence 以 `changes:` 开头）→ 三校走变更段。
 * **结构形态**：词条为 `<letter>/<slug>.md`（SEP slug 命名，字母目录 A–Z），别名链目标、导航链 README；英文镜像 `yuanwen/<letter>/<slug>.md` 逐字符一致（ADR-0009）。
 * **单体文件**：叙事/规则/规格类 md 超 1000 行或 100KB 必须按文件夹拆分（登记册与生成物豁免，见 ADR-0004）；门禁 `tools/check_doc_size.py`。
+* **根目录白名单**：根层只放白名单条目（工具链配置、顶层叙事文档、A–Z 词条目录、结构目录、包管理文件，ADR-0023）；中间产物/一次性脚本/提示词工作台归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库）；`tools/check_junk.py` 对跟踪清单与工作区双向核对，新增根级条目须走 ADR。
 * **批量改写纪律**：生成器/批量改写执行写回前置门（残余≠0 禁止写回）、幂等（重跑不追加重复行）、逐行身份追踪验收、改写前强制基线还原——细则见 `rules/05-ci-and-tools.md`「生成器与批量改写脚本」。
 * **检查**：本地一键 `python tools/check_all.py`（六项门禁 + 单元测试，共 7 项；`--all` 另加基线审计与英文镜像复核，共 9 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判。

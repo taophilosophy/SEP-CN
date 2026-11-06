@@ -54,4 +54,5 @@
 * 推送 → 先 `git pull --rebase`，被拒不硬推；force push 属用户授权期专属（[06](06-governance.md)）。
 * 批量或破坏性动作 → 先满足宪法附加约束（可信基线 + 可回溯），见 [06](06-governance.md)。
 * 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。
+* 根目录出现散件/未知目录 → 迁 `script/`（本地草稿）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库凭证）；根目录白名单见 [01](01-repository-structure.md) 与 ADR-0023，门禁 `tools/check_junk.py`。
 * 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05-ci-and-tools.md) 为准。
