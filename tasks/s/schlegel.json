@@ -1,0 +1,50 @@
+{
+  "slug": "schlegel",
+  "kind": "retranslate",
+  "zh_doc": "s/schlegel.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T22:10:49Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:14:07Z",
+      "evidence": "方向声明（rules/08）：用户令负责 S 批全流程翻译；目标=零信任重译 schlegel 全篇（6 节+参考文献英译表）；非目标=不补原文、文献条目照录；验收=六校全过、四检全绿、账本守恒 HARD=0。draft：双版账本 tasks/s/schlegel.ledger.yaml 43 段（body 42+oir 1）；lq.py check HARD=0；compose 落盘 22448 字符。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:14:08Z",
+      "evidence": "一校逐段对照 yuanwen（43 段/6 节）：生卒与年表核销齐全（1772—1829；1793 自由写作；1794 德累斯顿识卡罗琳；1796 耶拿；1798—1800《雅典娜神庙》；1799《卢清德》丑闻；1800—01 先验哲学讲演；1801 离耶拿；1802 巴黎《欧罗巴》；1804 科隆；1808 皈依；1809 维也纳；1813 梅特涅宪法草案；1829 卒）。实修 2 类：Reinhold 译名归一既有 karl-reinhold 行（莱因霍尔德，非赖因霍尔德）；普鲁士→奥地利宫廷表述核正（后句）。引文 8 处（施莱格尔 116/206/42/37/108、诺瓦利斯《花粉》、1793 书信、Wechselerweis）逐字核对；文末英译书目表 14 条照录。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:14:08Z",
+      "evidence": "二校：check_prose 27 告警→1（余 1 条为《雅典娜神庙断片》116 直引，单句 89 字，拆句将破坏引文完整性，按 ADR-0020 逐条豁免留痕）。实修 26 处：长句拆分 10（段1/15/17/20/21/23/25/26/29/30）、去“的”链 13、被字句 2、弱动词 1；bold-spacing 1（**无限多**〔文类〕补空格）。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-06T23:14:09Z",
+      "evidence": "三校：check_style --strict 0 issue；check_math 0 缺失/0 失衡；check_academic --strict 绿（在途豁免 1）；check_summary HARD=0。术语登记 19 行（德国观念论/先验哲学/浪漫主义/反讽/机智/寓言/断片/渐进的总汇诗/第一原理/交替证明/原理批判等），人名 32 行（施莱格尔家族/卡罗琳/多萝特娅/诺瓦利斯/蒂克/瓦肯罗德/赫茨/莱温/雅可比/福斯特/莱辛/尚福尔/帕斯卡/拉罗什富科/本雅明/梅特涅/温克尔曼/莱因霍尔德/尼特哈默尔/迪茨/埃尔哈德/福尔贝格/布朗肖/松迪/博伊瑟雷兄弟）；中文强调斜体→粗体 2 行。check_terms 本词条行硬错误 0（工具报 3 条均为他会话在途登记：Diodorus Cronus 冲突、Megaric School 与 Sedley 重复行，非本方引入）。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T22:10:49Z",
+  "version_pin": {
+    "pubinfo_date": "Mar 17, 2025",
+    "archive_edition": "Spring 2025",
+    "sha256": "e1f70b3132d703d8adabfb6bc35a011e1b2b2c2436b7f686bf37208efe6653fb"
+  }
+}

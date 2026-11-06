@@ -1,0 +1,354 @@
+version: 1
+slug: schlegel
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Friedrich Schlegel (1772–1829) is of undisputed importance as a literary critic, but interest in his work among philosophers has until recently tended to be confined to a rather limited circle. However, as scholars have come to reassess in the last several years the philosophical importance of early German Romanticism—both as something of a counter-movement to German Idealism and as a contributing factor within idealism’s development—so interest in Schlegel’s distinctive philosophical contribution to his era has increased. The entry below will consider the philosophical aspects of Schlegel’s development and their relation to his contributions to literary theory and practice.
+    step1: |-
+      弗里德里希·施莱格尔（1772—1829）作为文学批评家的重要性无可争议，但直到晚近，哲学家们对其著作的兴趣往往局限于一个相当有限的圈子。然而，随着学者们在过去几年里重新评估早期德国浪漫主义的哲学重要性——既把它看作德国观念论的一种反向运动，又把它看作观念论发展中的一个促成因素——人们对施莱格尔对其时代所作独特哲学贡献的兴趣也增加了。下文将考察施莱格尔发展的哲学方面，以及这些方面与他文学理论与实践贡献的关系。
+    step2: |-
+      弗里德里希·施莱格尔（1772—1829）作为文学批评家，其重要性无可争议；但直到晚近，哲学界对他的兴趣仍多限于一个相当狭小的圈子。近几年来，学者们重新评估早期德国浪漫主义的哲学意义——既视之为德国观念论的一种反向运动，又视之为观念论发展中的一个促成因素——于是对施莱格尔那一份独特哲学贡献的兴趣也随之增长。下文将考察施莱格尔思想发展的哲学面向，及其与他在文学理论与实践上的贡献之间的关联。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Life and Works
+    step1: |-
+      ## 1 生平与著作
+    step2: |-
+      ## 1 生平与著作
+  - id: 3
+    kind: body
+    source: |-
+      The youngest of five sons, Schlegel was born in Hanover into a distinguished and culturally prominent literary family. His father, Johann Adolf Schlegel, was both a clergyman and literary figure; his uncle, Johann Elias, was a dramatist and aesthetic theorist; and his elder brother by five years, August Wilhelm, was to become the great German translator of Shakespeare and one of the most prominent literary critics of the time.
+    step1: |-
+      施莱格尔是五个儿子中最年幼的，生于汉诺威一个显赫且文化上颇为突出的文学世家。他的父亲约翰·阿道夫·施莱格尔既是牧师，也是文学人物；叔父约翰·埃利亚斯是剧作家与美学理论家；比他年长五岁的兄长奥古斯特·威廉后来成为伟大的德语莎士比亚译者，也是当时最杰出的文学批评家之一。
+    step2: |-
+      施莱格尔是五兄弟中最年幼者，生于汉诺威一个声名显赫、文风鼎盛的文学世家。父亲约翰·阿道夫·施莱格尔既是牧师，又是文人；叔父约翰·埃利亚斯是剧作家兼美学理论家；长他五岁的兄长奥古斯特·威廉，日后成为伟大的德语莎士比亚译者，也是当时最负盛名的文学批评家之一。
+  - id: 4
+    kind: body
+    source: |-
+      Schlegel attended the universities of Göttingen and Leipzig, originally to study law, but his intellectual interests began to widen, centering especially on classical literature, and he turned after 1793 to a life of literary freelancing. In the succeeding couple of years, he wrote several early essays on Greek literature amid plans for a history of classical poetry. Only one volume of the intended larger study was published, in 1798, as *Geschichte der Poesie der Griechen und Römer*, but the essay “On the Study of Greek Poetry” (*Über das Studium der griechischen Poesie*, finished 1795, but not published until January 1797 [English translation in Schlegel 2001]), with its sharp distinction between ancient and modern modes of literature, is taken to be representative of this early, “classicist” phase of Schlegel’s intellectual life.
+    step1: |-
+      施莱格尔就读于哥廷根与莱比锡大学，起初学习法律，但学术兴趣渐趋开阔，尤其集中于古典文学，1793 年后转向以文学为业的自由写作生涯。此后数年间，他撰写了几篇论希腊文学的早期文章，同时筹划一部古典诗歌史。原计划的大型研究只有一卷于 1798 年出版，题为《希腊人与罗马人的诗歌史》（*Geschichte der Poesie der Griechen und Römer*）；但《论希腊诗歌研究》（*Über das Studium der griechischen Poesie*，1795 年完成，迟至 1797 年 1 月才刊行〔英译见 Schlegel 2001〕）以古今文学方式的鲜明区分，被视为施莱格尔思想生涯这一早期“古典主义”阶段的代表。
+    step2: |-
+      施莱格尔先后就读于哥廷根与莱比锡大学，初习法律，其后兴趣渐宽，尤以古典文学为念，1793 年后便转而以文为业，作一名自由撰稿人。此后数年间，他一边筹划一部古典诗歌史，一边写下数篇论希腊文学的早期文章。那部原拟宏大的研究只有第一卷于 1798 年问世，题为《希腊人与罗马人的诗歌史》（*Geschichte der Poesie der Griechen und Römer*）；而《论希腊诗歌研究》（*Über das Studium der griechischen Poesie*，1795 年完稿，迟至 1797 年 1 月刊行〔英译见 Schlegel 2001〕）以古今文学方式之判然有别，被看作施莱格尔思想生涯中这一“古典主义”早期的代表作。
+  - id: 5
+    kind: body
+    source: |-
+      An important influence on the young Schlegel was Caroline Böhmer, future wife of his brother (and ultimately of F. W. J. Schelling). Schlegel met her initially in 1794 in Dresden, and her life experience—the daughter of a famous Göttingen professor, she had become pregnant by a French officer in occupied Mainz and been imprisoned as a revolutionary—had a particular effect on the awakening of his interest in political and social issues. In the summer of 1796, Schlegel moved to join his brother and new wife in Jena, the city which, since Fichte’s momentous arrival two years prior, had become perhaps the liveliest intellectual scene in all of Germany. Schlegel remained in Jena for almost a year, but then moved to Berlin, where he became a regular visitor to the salons of Henriette Herz and Rahel Levin and established contact with several important figures of the Romantic movement. Among them were Friedrich Schleiermacher, who became Schlegel’s roommate and collaborator on a number of intended projects, including the translation of Plato’s dialogues (a project that in the end only Schleiermacher would actually carry out); the writers Ludwig Tieck and Wilhelm Heinrich Wackenroder; and the poet Friedrich von Hardenberg (Novalis), who had been a fellow student with Schlegel in Leipzig and who was partly responsible for opening up the philosophical problems of Fichtean idealism to the young Schlegel.
+    step1: |-
+      对年轻的施莱格尔产生重要影响的是卡罗琳·伯默，她后来成为他兄长的妻子（最终又成为 F. W. J. 谢林的妻子）。施莱格尔最初于 1794 年在德累斯顿与她相识；她的生活经历——她是哥廷根一位著名教授的女儿，在被占领的美因茨怀上了一个法国军官的孩子，并作为革命者被囚禁——对他政治与社会问题兴趣的觉醒产生了特别的影响。1796 年夏天，施莱格尔迁往耶拿，与兄长及其新婚妻子会合；自从两年前费希特意义重大的到来之后，耶拿也许已成为全德国最活跃的思想舞台。施莱格尔在耶拿待了将近一年，随后迁往柏林，在那里成为亨丽埃特·赫茨与拉赫尔·莱温沙龙的常客，并与浪漫主义运动的几位重要人物建立了联系。他们当中有弗里德里希·施莱尔马赫——他成了施莱格尔的室友，并在若干拟议项目中与他合作，包括翻译柏拉图对话（这一项目最终只有施莱尔马赫真正完成）；有作家路德维希·蒂克与威廉·海因里希·瓦肯罗德；还有诗人弗里德里希·冯·哈登贝格（诺瓦利斯）——他曾在莱比锡与施莱格尔同学，并且部分地促成了费希特观念论的哲学问题向年轻的施莱格尔敞开。
+    step2: |-
+      对青年施莱格尔影响甚大的是卡罗琳·伯默——她后来嫁给他的兄长，最终又成为 F. W. J. 谢林的妻子。两人初识于 1794 年的德累斯顿。她的身世颇不寻常：身为哥廷根名教授之女，却在被法军占领的美因茨怀上一名法国军官的孩子，又作为革命者身陷囹圄。这番经历对施莱格尔政治与社会关怀的觉醒，别有触动。1796 年夏，施莱格尔迁往耶拿，与兄长夫妇会合。自两年前费希特轰轰烈烈地到来之后，耶拿已是全德意志思想生活最活跃的地方。他在耶拿住了将近一年，随后移居柏林，成为亨丽埃特·赫茨与拉赫尔·莱温两家沙龙的常客，并与浪漫主义运动的几位要人结识。其中有弗里德里希·施莱尔马赫——他做了施莱格尔的室友，并在若干拟议项目中与之合作，包括翻译柏拉图对话（此项目最终只有施莱尔马赫真正完成）；有作家路德维希·蒂克与威廉·海因里希·瓦肯罗德；还有诗人弗里德里希·冯·哈登贝格（诺瓦利斯）。诺瓦利斯昔日在莱比锡与施莱格尔同窗，后来也部分地促成了费希特观念论的哲学问题向青年施莱格尔敞开。
+  - id: 6
+    kind: body
+    source: |-
+      Among the works most famously associated with Schlegel’s name from this period is the project of the journal *Athenaeum*, which published in the years 1798–1800 a set of fragments written by both Schlegel brothers, Novalis and Schleiermacher. During his time in Berlin, Schlegel also began a relationship with Dorothea Veit, daughter of Moses Mendelssohn, who had left her banker husband Simon Veit in 1798. The publication in 1799 of Schlegel’s novel *Lucinde*, with its frank (though by today’s standards hardly risqué) portrayal of a sexual liaison widely thought to be autobiographical became for Schlegel a major scandal.
+    step1: |-
+      这一时期与施莱格尔名字最著名地联系在一起的作品之一，是《雅典娜神庙》（*Athenaeum*）杂志的计划，该杂志在 1798—1800 年间刊行了由施莱格尔兄弟、诺瓦利斯与施莱尔马赫共同撰写的一组断片。在柏林期间，施莱格尔还开始与多萝特娅·法伊特交往；她是摩西·门德尔松的女儿，1798 年离开了银行家丈夫西蒙·法伊特。1799 年，施莱格尔的小说《卢清德》（*Lucinde*）出版，其中对一段被广泛认为带有自传性质的性爱关系的坦率描写（尽管以今天的标准看几乎算不上伤风败俗），使施莱格尔陷入一场大丑闻。
+    step2: |-
+      这一时期与施莱格尔之名联系最紧的成果之一，是《雅典娜神庙》（*Athenaeum*）杂志的创办。该刊在 1798—1800 年间陆续刊出施莱格尔兄弟、诺瓦利斯与施莱尔马赫合写的断片。居柏林期间，施莱格尔又开始与多萝特娅·法伊特交往。她是摩西·门德尔松之女，1798 年离开银行家丈夫西蒙·法伊特。1799 年，施莱格尔的小说《卢清德》（*Lucinde*）问世。书中对一段私情直言无隐（时人普遍以为影射作者自身；以今日标准看，却几乎算不上伤风败俗），施莱格尔因此卷入一场轩然大波。
+  - id: 7
+    kind: body
+    source: |-
+      In September 1799, Schlegel left Berlin to join his brother and Caroline again in Jena. He gave lectures on transcendental philosophy at the University of Jena from October 1800 to March 1801, although these were apparently not well-received. (Among those in the audience for some of those lectures was probably Hegel, newly arrived in Jena, but there is considerable dispute about what Hegel—a bitter rival of Schlegel’s for the remainder of his life—may or may not have gained from hearing them.)
+    step1: |-
+      1799 年 9 月，施莱格尔离开柏林，再次到耶拿去与兄长和卡罗琳会合。1800 年 10 月至 1801 年 3 月，他在耶拿大学讲授先验哲学，不过这些讲课显然未获好评。（听讲者中或许有刚到耶拿的黑格尔，但对于黑格尔——他此后终身是施莱格尔的劲敌——是否从这些讲课中有所收获、收获了什么，争议颇大。）
+    step2: |-
+      1799 年 9 月，施莱格尔离开柏林，重赴耶拿，与兄长及卡罗琳会合。1800 年 10 月至 1801 年 3 月，他在耶拿大学开课讲授先验哲学，但显然反响不佳。（当时新到耶拿的黑格尔或曾旁听其中数讲；至于黑格尔——此人此后终身与施莱格尔为敌——究竟有无所得、所得几何，至今聚讼纷纭。）
+  - id: 8
+    kind: body
+    source: |-
+      Schlegel remained in Jena until December 1801, and his departure on this occasion came at a time which marks a significant turning point in the history of Romanticism: the end of the “Jena circle” and its collaborations. Novalis had died in March, and Schlegel had become somewhat distanced from his brother and Caroline. After a time in both Berlin and Dresden, Schlegel moved to Paris in June 1802, where he founded another new journal, *Europa*, and turned significant attention to the figurative arts. Among other things, Schlegel wrote accounts of the paintings in the Louvre and began, at the behest of the notable art collectors Sulpiz and Melchior Boisserée, a series of lectures on art and art history.
+    step1: |-
+      施莱格尔在耶拿待到 1801 年 12 月；他这一次的离去，正值浪漫主义历史上一个决定性的转折点：耶拿圈子及其合作走向终结。诺瓦利斯已于 3 月去世，施莱格尔也与兄长和卡罗琳有些疏远。在柏林与德累斯顿各逗留一段时日后，施莱格尔于 1802 年 6 月迁往巴黎，在那里创办了另一份新杂志《欧罗巴》（*Europa*），并把相当多的注意力转向造型艺术。除其他事情外，施莱格尔撰写了卢浮宫藏画的评述，并应著名艺术收藏家苏尔皮茨·博伊瑟雷与梅尔希奥·博伊瑟雷之请，开始了一系列关于艺术与艺术史的讲演。
+    step2: |-
+      施莱格尔在耶拿逗留至 1801 年 12 月。他这一走，恰逢浪漫主义史上的一个重大转折：耶拿圈子及其合作就此终结。诺瓦利斯已于同年 3 月病逝，施莱格尔与兄长、卡罗琳之间也渐见疏远。在柏林与德累斯顿盘桓一阵之后，他于 1802 年 6 月移居巴黎，另办新刊《欧罗巴》（*Europa*），并把相当多的精力投向造型艺术。他撰写卢浮宫藏画评述，又应著名收藏家苏尔皮茨与梅尔希奥·博伊瑟雷兄弟之邀，开讲艺术与艺术史。
+  - id: 9
+    kind: body
+    source: |-
+      Schlegel and Dorothea moved to Cologne in 1804, where Schlegel studied German Gothic architecture, gave lectures on the development of philosophy (*Die Entwicklung der Philosophie*) and turned, with some hopes of finally establishing himself in an academic position, to a new intellectual interest: the study of Sanskrit and Hindu religious writings. Schlegel’s work on the grammatical connections between Sanskrit and the Indo-European languages, published as *On the Language and Wisdom of the Indians* (*Über die Sprache und Weisheit der Indier*, 1808), represents an important moment in the development of the study of comparative grammar (a term which Schlegel himself coined in the text).
+    step1: |-
+      1804 年，施莱格尔与多萝特娅迁往科隆。在那里，他研究德国哥特式建筑，讲授哲学的发展（《哲学的发展》，*Die Entwicklung der Philosophie*），并带着最终在学术界谋得一席之地的希望，转向一个新的思想兴趣：梵文与印度教宗教文献的研究。施莱格尔关于梵文与印欧诸语言之间语法联系的研究，以《论印度人的语言与智慧》（*Über die Sprache und Weisheit der Indier*，1808）为题出版，是比较语法学发展中的一个重要时刻（“比较语法”一词正是施莱格尔在该书中首创的）。
+    step2: |-
+      1804 年，施莱格尔与多萝特娅迁居科隆。他在此研究德国哥特式建筑，开讲哲学史课程（《哲学的发展》，*Die Entwicklung der Philosophie*），并怀着终能在大学谋得教席的希望，转向一个新的学术兴趣：梵文与印度教宗教典籍。他研究梵文与印欧诸语之间的语法关联，成果以《论印度人的语言与智慧》（*Über die Sprache und Weisheit der Indier*，1808）出版，成为比较语法学发展史上的重要一刻——“比较语法”一词，正是施莱格尔在该书中自铸的。
+  - id: 10
+    kind: body
+    source: |-
+      The study of Hindu thought marked an important shift in the development of Schlegel’s religious thought, as did a second and important event of the Cologne period: his conversion, together with Dorothea, to Catholicism, in April 1808. The shift in Schlegel’s religious stance corresponded with an apparently new political one as well.
+    step1: |-
+      对印度思想的研究标志着施莱格尔宗教思想发展的一个重要转变；科隆时期的第二件大事同样如此：1808 年 4 月，他与多萝特娅一同皈依天主教。施莱格尔宗教立场的转变，也与一种显然新的政治立场相呼应。
+    step2: |-
+      印度思想的研究，标志着施莱格尔宗教思想的一大转折；科隆时期还有第二件大事：1808 年 4 月，他与多萝特娅一同皈依天主教。宗教立场既变，政治立场似也随之改弦更张。
+  - id: 11
+    kind: body
+    source: |-
+      In March of 1809 he was appointed to a position in the Austrian civil service and moved to Vienna, where he was to live for the rest of his life.
+    step1: |-
+      1809 年 3 月，他被任命到奥地利民政部门任职，并迁往维也纳，此后终身居于此地。
+    step2: |-
+      1809 年 3 月，他受聘于奥地利民政部门，迁居维也纳，此后终老于此。
+  - id: 12
+    kind: body
+    source: |-
+      During these Austrian years, Schlegel was, among other things, the editor of an anti-Napoleonic newspaper, founder of two other prominent journal projects (the *Deutsches Museum* and *Concordia*) and an apparently popular public lecturer on a wide range of topics. Metternich asked him in 1813 to draw up proposals for a future German constitution, and Schlegel served (until he was recalled) as first secretary of the Austrian legation to the Diet of Frankfurt. He died in Vienna in January 1829.
+    step1: |-
+      在奥地利的这些年间，施莱格尔除其他事情外，还担任一家反拿破仑报纸的编辑，创办了另外两个重要的杂志项目（《德国博物馆》，*Deutsches Museum*，与《协和》，*Concordia*），并显然是一位颇受欢迎的公共讲演者，讲题范围广泛。1813 年，梅特涅请他为未来的德国宪法起草建议；施莱格尔还曾担任奥地利驻法兰克福议会使团的首任秘书（直至被召回）。他于 1829 年 1 月在维也纳去世。
+    step2: |-
+      旅居奥地利的岁月里，施莱格尔身兼数职：主编一份反拿破仑的报纸，创办另外两份重要刊物（《德国博物馆》，*Deutsches Museum*；《协和》，*Concordia*），又是颇受欢迎的公众讲演者，讲题无所不包。1813 年，梅特涅请他草拟未来德国宪法的建议；他还出任奥地利驻法兰克福德意志邦联议会使团的首任秘书，直至被召回。1829 年 1 月，他卒于维也纳。
+  - id: 13
+    kind: body
+    source: |-
+      ## 2. The Romantic Turn
+    step1: |-
+      ## 2 浪漫主义转向
+    step2: |-
+      ## 2 浪漫主义转向
+  - id: 14
+    kind: body
+    source: |-
+      Schlegel’s intellectual biography begins in what is usually interpreted as a “classicist” phase. In his early *Studium* essay, Schlegel claimed that Greek poetry was “beautiful” while modern poetry was only “interesting” (*interessant*): ancient poetry strove for an ideal and was “objective,” while modern poetry was “characteristic” and strove for an originality that was “individual” or “mannered.” (A similar distinction, as many critics have noted, can be found in Schiller’s contemporaneous work *On Naive and Sentimental Poetry*. Schlegel apparently arrived at his distinction independently, although when he did encounter Schiller’s essay, it prompted him to reconsider his approach to more contemporary literature: see Eichner 1970, chapter 2, and Schlegel’s later preface to the *Studium* essay.)
+    step1: |-
+      施莱格尔的思想传记始于通常被解释为“古典主义”的阶段。在其早期《研究》论文中，施莱格尔声称希腊诗歌是“美的”，而现代诗歌只是“有趣的”（*interessant*）：古代诗歌追求一种理想，是“客观的”；现代诗歌则是“特征的”，追求一种“个体的”或“矫饰的”原创性。（正如许多批评家所指出的，类似的区分可见于席勒同时期的著作《论素朴的诗与感伤的诗》。施莱格尔显然独立地得出了他的区分，尽管当他确实读到席勒的文章时，这促使他重新考虑自己对待更当代文学的态度：参见 Eichner 1970 第 2 章，以及施莱格尔后来为《研究》论文所写的序言。）
+    step2: |-
+      施莱格尔的思想传记，通常从所谓“古典主义”阶段讲起。在早年那篇《研究》论文里，他断言希腊诗歌是“美的”，现代诗歌则只是“有趣的”（*interessant*）：古代诗歌追求理想，因而是“客观的”；现代诗歌则是“特征的”，追求一种“个体的”乃至“矫饰的”原创性。（许多批评家已经指出，席勒同时期的《论素朴的诗与感伤的诗》中也有类似区分。施莱格尔显然是独立形成这一区分的；不过他后来读到席勒此文时，确曾借此重新考虑自己对更晚近文学的态度：参见 Eichner 1970 第 2 章，以及施莱格尔后来为《研究》论文所写的序言。）
+  - id: 15
+    kind: body
+    source: |-
+      In the years following the *Studium* essay, Schlegel moved not only to a distinction between the classical and the romantic, as opposed to that between the ancient and modern, but moreover began distinctly to privilege the romantic. What Schlegel meant by the term “romantic” (*romantisch*) and its apparent cognate *Roman* (usually translated as “novel,” but having among the Romantics a much wider sense) has long been disputed. Perhaps under the influence of Herder (see Eichner 1956)[^eichner-1956], Schlegel saw the historical origins of “the romantic” in the wide mixture of forms and genres that characterized medieval literature and took it as the point of departure for a genre-transcending notion that allows even Shakespeare’s plays or Dante’s *Commedia* to be classified as *Romane*. Seen from this historical perspective, the *Roman* becomes the central dividing line between ancient literature and the literature of the current age: Greek poetry, he claimed in 1800, “began with and finally again converged in epic; our poetry began with and finally again will converge in the *Roman*.”
+    step1: |-
+      在《研究》论文之后的几年里，施莱格尔不仅转向古典与浪漫之间的区分——以取代古代与现代之间的区分——而且开始明显地把优先地位给予浪漫。施莱格尔所谓“浪漫的”（*romantisch*）一词及其表面上同源的 *Roman*（通常译作“小说”，但在浪漫派那里含义要宽泛得多）究竟何所指，长期存在争议。也许是在赫尔德的影响下（参见 Eichner 1956）[^eichner-1956]，施莱格尔在中世纪文学所特有的形式与文类的广泛混合中，看到了“浪漫的”历史起源，并以此为一个超越文类的概念出发点；这一概念甚至使莎士比亚的剧作或但丁的《神曲》都可被归入 *Romane*。从这一历史视角看，*Roman* 成为古代文学与当前时代文学之间的核心分界线：他在 1800 年声称，希腊诗歌“以史诗开始，最终又重新汇聚于史诗；我们的诗歌以 *Roman* 开始，最终也将重新汇聚于 *Roman*”。
+    step2: |-
+      《研究》论文之后数年，施莱格尔不只把“古代与现代”之别换成了“古典与浪漫”之别，还开始明显偏袒浪漫一方。他所谓“浪漫的”（*romantisch*），以及表面上与之同源的 *Roman*（通常译作“小说”，但在浪漫派笔下含义宽泛得多），究竟何所指，历来聚讼不已。或许受赫尔德影响（参见 Eichner 1956）[^eichner-1956]，施莱格尔把“浪漫的”历史源头追溯到中世纪文学那种形式与文类的广泛混杂，并以此为起点，提出一个超乎文类之上的概念，甚至连莎士比亚的剧作或但丁的《神曲》都可归入 *Romane*。由此历史眼光看去，*Roman* 便成了古代文学与当今文学之间的分水岭：他在 1800 年宣称，希腊诗歌“以史诗始，终又复归于史诗；我们的诗歌则以 *Roman* 始，终亦将复归于 *Roman*”。
+  - id: 16
+    kind: body
+    source: |-
+      The shift between Schlegel’s classicist and romantic phases presents an interpretive challenge that is frequently discussed in the literature. On the one hand, scholars have stressed that what Schlegel now commends in romantic poetry are the very same facets he had previously condemned (for example, Eichner 1970, 49, who lists here the tendency toward the purely imaginative; the mixing of genres; the trend toward didacticism, irony and parody; the fusion of poetry and philosophy)[^eichner-1970]. On the other hand, many have noticed that there are seeds in the *Studium* essay of the later view—Schlegel’s praise of poets like Dante, Goethe and Shakespeare often seems at odds with the essay’s valorization of ancient poetry.
+    step1: |-
+      施莱格尔古典主义阶段与浪漫阶段之间的转变，提出了一个文献中经常讨论的解释难题。一方面，学者们强调，施莱格尔现在在浪漫诗歌中所赞扬的，恰恰是他此前所贬斥的那些方面（例如 Eichner 1970, 49，此处列举了趋向纯粹想象、文类混合、说教、反讽与戏仿的倾向、诗歌与哲学的融合）[^eichner-1970]。另一方面，许多人注意到，《研究》论文中已有后来观点的种子——施莱格尔对但丁、歌德与莎士比亚等诗人的赞扬，往往与该文对古代诗歌的推崇显得并不协调。
+    step2: |-
+      施莱格尔由古典主义转向浪漫主义，留下一个解释上的难题，文献中屡有讨论。一方面，学者们强调：施莱格尔如今在浪漫诗歌里称许的，正是他先前所贬斥的那些面向（例如 Eichner 1970, 49 所列：倾心纯粹想象、混杂文类、趋向说教、反讽与戏仿，以及诗与哲学的融合）[^eichner-1970]。另一方面，不少人也注意到，《研究》论文中已埋下后来观点的种子——施莱格尔对但丁、歌德、莎士比亚等诗人的称赏，与该文对古代诗歌的推尊，往往显得格格不入。
+  - id: 17
+    kind: body
+    source: |-
+      One of the most important expressions of Schlegel’s claims for the romantic can be found in the much-discussed *Athenaeumsfragment* 116: Romantic poetry is said there to be a “progressive, universal poetry, … the only kind of poetry that is more than a kind, that is, as it were, poetry itself: for in a certain sense all poetry is or should be romantic.” The task of such poetry, he claims in this fragment, should be to “fuse poetry and prose, inspiration and criticism, the poetry of art and the poetry of nature; and make poetry lively and sociable, and life and society poetical; poeticize wit and fill and saturate the forms of art with every kind of good, solid matter for instruction, and animate them with the pulsations of humor.” In a similar vein, he raises the stakes for what should be achieved by the genre that is not merely a genre—the novel: a “genuine theory of poetry would be a theory of the novel,” he claims.
+    step1: |-
+      施莱格尔对浪漫所作主张的最重要表达之一，见于广受讨论的《雅典娜神庙断片》第 116 条：其中说浪漫诗是“一种渐进的、普遍的诗……唯一一种不止于一个种类的诗，也就是说，仿佛是诗本身：因为在某种意义上，一切诗都是或都应当是浪漫的”。他在这一断片中声称，这种诗的任务应当是“把诗与散文、灵感与批评、艺术之诗与自然之诗融合起来；使诗生动而宜于交往，使生活与社会富有诗意；使机智诗化，并以各种各样美好、坚实的材料充实并浸透艺术的形式，以供教诲之用，再以幽默的搏动赋予它们生命”。同样，他也提高了那个不止是文类的文类——小说——所应达到的要求：他声称，“真正的诗学理论将是一种小说理论”。
+    step2: |-
+      施莱格尔关于浪漫的种种主张，最要紧的一处表述见于广为讨论的《雅典娜神庙断片》第 116 条：浪漫诗被说成“一种渐进的总汇诗……唯一一种不止于一个种类的诗，也就是说，仿佛是诗本身：因为在某种意义上，一切诗都是或都应当是浪漫的”。他在此条中断言，这种诗的任务应是“把诗与散文、灵感与批评、艺术之诗与自然之诗熔于一炉；使诗生动而宜于交往，使生活与社会富有诗意；使机智诗化，以各种各样美好而坚实的材料充实并浸透艺术的形式，以供教诲之用，再以幽默的搏动赋予其生命”。同样，他也抬高那个不止是文类的文类——小说——所应达成的目标：他声称，“真正的诗学理论将是一种小说理论”。
+  - id: 18
+    kind: body
+    source: |-
+      Schlegel does seem to acknowledge at times that his claims for the romantic border on the overly expansive (or, some would prefer, on the inherently incomplete or uncompletable). In a 1793 letter to his brother, he said: “I cannot send you my explanation of the word ‘romantic’ because it would be 125 sheets long” (cited in Beiser, 1992, 410, n 67). Schlegel’s bold envisioning of the romantic and the *Roman* are, however, part of a larger project in poetics and aesthetics concerned with finding a standard of judgment appropriate to the individuality of artistic and literary works.
+    step1: |-
+      施莱格尔有时确实承认，他对浪漫的主张近乎过度宽泛（或者，有人更愿意说，近乎本质上不可完成或无法完成）。在 1793 年致兄长的一封信中，他说：“我无法寄给你我对‘浪漫’一词的解释，因为它会长达 125 个印张”（引自 Beiser 1992, 410, n 67）。然而，施莱格尔对浪漫与 *Roman* 的大胆构想，是诗学与美学中一个更大计划的一部分，该计划关切的，是为艺术与文学作品的个体性找到一种合适的判断标准。
+    step2: |-
+      施莱格尔有时也承认，他为浪漫所下的种种断语迹近于过度扩张（有人则宁愿说，其本性即不完备、不可完成）。1793 年致兄长的信中，他说：“我无法寄上我对‘浪漫’一词的解释，那会有 125 个印张那么长”（引自 Beiser 1992, 410, n 67）。然而，施莱格尔对浪漫与 *Roman* 的大胆构想，从属于诗学与美学上一个更大的筹划：为艺术与文学作品的个体性寻得一种合宜的判断标准。
+  - id: 19
+    kind: body
+    source: |-
+      ## 3. Poetics and Aesthetics
+    step1: |-
+      ## 3 诗学与美学
+    step2: |-
+      ## 3 诗学与美学
+  - id: 20
+    kind: body
+    source: |-
+      The aesthetic standard that Schlegel develops—perhaps best expressed in his claim that “criticism is not to judge works by a general ideal, but is to search out the *individual* ideal of every work” (*Literary Notebooks*, 1733)—owes debts both to Herder’s notions of the historical and cultural uniqueness of individuals (Eichner, 1970, 42) and to Kant’s stress in the *Critique of Judgment* on the impossibility of judging beauty according to some external *rule* (see Eichner, 1970, 35–36, for an account of Schlegel’s successive readings of the third *Critique*). Schlegel worked out his new criterion of the “individual ideal of every work” in three important early (1796) critical essays reviewing the work of Jacobi, Georg Forster and Lessing that give a reader a sense of his distinctive approach as stylist and literary theorist (Wilhelm von Humboldt called Schlegel’s method in the Jacobi essay one of “reviewing the whole man”—i.e., the man visible precisely in his work). Likewise, Schlegel applies his approach to critical judgment in a famous review of Goethe’s *Wilhelm Meister*, where he insists that the novel “not only judges itself but describes itself.”
+    step1: |-
+      施莱格尔所发展的美学标准——也许最好表达在他那句“批评不是以普遍理想来评判作品，而是要找出每部作品 *个体的* 理想”（《文学笔记》，1733）之中——既得益于赫尔德关于个体在历史与文化上的独特性观念（Eichner, 1970, 42），也得益于康德在《判断力批判》中对依据某种外在 *规则* 判断美之不可能性的强调（关于施莱格尔对第三《批判》的先后数次阅读，参见 Eichner, 1970, 35–36）。施莱格尔在 1796 年三篇重要的早期批评文章中，阐发了他那“每部作品各自的理想”的新标准；这三篇文章分别评论雅可比、格奥尔格·福斯特与莱辛的著作，能让读者体会到施莱格尔作为文体家与文学理论家的独特进路（威廉·冯·洪堡把施莱格尔在雅可比一文中的方法称为“评论整个人”——即恰恰在其著作中可见的那个人）。同样，施莱格尔在一篇评论歌德《威廉·迈斯特》的著名书评中运用了他的批评判断进路，坚持认为这部小说“不仅评判自己，而且描述自己”。
+    step2: |-
+      施莱格尔所发展的美学标准，最好不过地见于他那句话：“批评不是要以普遍理想去评判作品，而是要寻出每部作品 *个体的* 理想”（《文学笔记》，1733）。此说既受赫尔德关于个体在历史与文化上独具一格之见的影响（Eichner, 1970, 42），也承康德《判断力批判》之绪：美不可能依某种外在 *规则* 来评判（关于施莱格尔先后数次研读第三《批判》，参见 Eichner, 1970, 35–36）。他所谓“每部作品各自的理想”这一新标准，是在 1796 年三篇重要的早期批评文章中形成的。三文分别评论雅可比、格奥尔格·福斯特与莱辛，颇能见出他作为文体家与文学理论家的独特路数（威廉·冯·洪堡称施莱格尔评雅可比一文的方法为“评论整个人”——即那个恰恰在其著作中显露出来的人）。同样，施莱格尔在评论歌德《威廉·迈斯特》的名文中，也运用了这一批评判断的路数，坚称这部小说“不仅评判自己，而且描述自己”。
+  - id: 21
+    kind: body
+    source: |-
+      Given the importance Schlegel attaches within his romantic poetics to the novel and to the novel which gives itself its own criterion, critics have often examined Schlegel’s own novelistic efforts in light of his theoretical stance. The scandalous and unfinished *Lucinde*, subtitled “Confessions of a Blunderer,” was, according to Schlegel, an attempt at “shaped, artistic chaos,” a work that was meant to be “chaotic and yet systematic.” Part of the achievement of its “shaped chaos” is that *Lucinde* presents, within the form of a novelistic work itself , a romantic ‘contest’ of competing novelistic possibilities (see, for example, the interpretation of the famous chapter on the “Allegory of Impudence” in Behler 1993)[^behler-1993].
+    step1: |-
+      鉴于施莱格尔在其浪漫诗学中赋予小说、以及赋予那种自己给自己提供标准的小说以重要地位，批评家们常常依据他的理论立场来考察施莱格尔自己的小说创作。那部引起丑闻且未完成的《卢清德》，副标题为“一个笨拙者的忏悔”，据施莱格尔说，是一次对“成形的、艺术的混沌”的尝试，一部意在“混沌而又有系统”的作品。其“成形的混沌”的成就之一在于，《卢清德》在一部小说作品的形式内部，呈现了各种相互竞争的小说可能性之间的浪漫“竞赛”（例如参见 Behler 1993 对论“无耻的寓言”那一著名章节的解释）[^behler-1993]。
+    step2: |-
+      施莱格尔在浪漫诗学中赋予小说——尤其是那种自己给自己立标准的小说——以重要地位，批评家因此常依其理论立场来审视他自己的小说创作。《卢清德》丑闻缠身，且未完成，副题作“一个笨拙者的忏悔”。据施莱格尔自述，此书意在“成形的、艺术的混沌”，要写成一部“混沌而又有系统”的作品。其“成形的混沌”之所以有所成就，部分在于《卢清德》在小说作品自身的形式之内，演出了一场浪漫的“竞赛”，让种种互相竞争的小说可能性同台亮相（例如参见 Behler 1993 对论“无耻的寓言”那一著名章节的解读）[^behler-1993]。
+  - id: 22
+    kind: body
+    source: |-
+      The notion of the individual work as giving itself its own criterion—a notion that appears later in the hermeneutic tradition and in Benjamin’s famous essay on the concept of criticism—is one of a number of distinctive new facets of romantic poetics and aesthetics. Stylistically, Schlegel and the Romantics also made much of the notions of the literary fragment, the concept of irony, and of wit and allegory, as well as a revised notion of the literary genres.
+    step1: |-
+      个体作品自己给自己提供标准这一观念——它后来出现在解释学传统中，也出现在本雅明论批评概念的著名文章中——是浪漫诗学与美学若干独特新面向之一。在文体上，施莱格尔与浪漫派还大做文学断片、反讽概念、机智与寓言等观念的文章，并对文学文类作了修订性的理解。
+    step2: |-
+      个体作品自己为自己立标准这一观念，后来再现于解释学传统，也见于本雅明论批评概念的名文；它正是浪漫诗学与美学若干独特新面向之一。就文体而言，施莱格尔与浪漫派还着力发挥文学断片、反讽概念、机智与寓言，并对文学文类提出一套经过修订的理解。
+  - id: 23
+    kind: body
+    source: |-
+      The fragment is among the most characteristic figures of the Romantic movement. Although it has predecessors in writers like Chamfort (and earlier in the aphoristic styles of moralists like Pascal and La Rochefoucauld), the fragment as employed by Schlegel and the Romantics is distinctive in both its form (as a collection of pieces by several different authors) and its purpose. For Schlegel, a fragment as a particular has a certain unity (“[a] fragment, like a small work of art, has to be entirely isolated from the surrounding world and be complete in itself like a hedgehog,” *Athenaeumsfragment* 206), but remains nonetheless fragmentary in the perspective it opens up and in its opposition to other fragments. Its “unity” thus reflects Schlegel’s view of the whole of things not as a totality but rather as a “chaotic universality” of infinite opposing stances.
+    step1: |-
+      断片是浪漫主义运动最具特征的形态之一。尽管它在尚福尔之类的作家那里已有先例（更早还有帕斯卡、拉罗什富科等道德学家的箴言风格），但施莱格尔与浪漫派所使用的断片，在形式（作为由数位不同作者所作片段的合集）与目的上都独具特色。对施莱格尔来说，作为个别者的断片具有某种统一性（“〔一个〕断片，像一件小小的艺术品，必须完全与周围世界隔离开来，并且像一只刺猬那样自身完整”，《雅典娜神庙断片》第 206 条），但它在所开启的视野中、在与其他断片的对立中，仍然保持断片性。因此，它的“统一性”反映了施莱格尔对万物整体的看法：整体不是总体，而是由无限对立立场构成的“混沌的普遍性”。
+    step2: |-
+      断片是浪漫主义运动最具代表性的形态之一。它在尚福尔之流作家那里已有前驱（更早还可追溯到帕斯卡、拉罗什富科等道德学家的箴言体），但经施莱格尔与浪漫派之手的断片，无论形式（由数位作者所作片段的合集）还是用意，都自成一格。在施莱格尔看来，断片作为个别者自有其统一性：“〔一个〕断片，像一件小小的艺术品，必须完全与周围世界隔绝，像一只刺猬那样自身完整”（《雅典娜神庙断片》第 206 条）；然而它所开启的视野、它与别的断片的对峙，又使它仍然是断片。它的“统一性”于是折射出施莱格尔的整体观：整体不是总体，而是无数对立立场构成的“混沌的普遍性”。
+  - id: 24
+    kind: body
+    source: |-
+      If a literary form like the fragment opens up the question of the relation between finite and infinite, so do the literary modes of allegory, wit and irony—allegory as a finite opening toward the infinite (“every allegory means God”), wit as the “fragmentary geniality” or “selective flashing” in which a unity can momentarily be seen, and irony as their synthesis (see Frank 2004 [1997], 216). Although impressed with the Socratic notion of irony (playful and serious, frank and deeply hidden, it is the freest of all licenses, since through it one rises above one’s own self, Schlegel says in *Lyceumfragment* 108), Schlegel nonetheless employs it in a way perhaps more reminiscent of the oscillations of Fichtean selfhood. Irony is at once, as he says in *Lyceumfragment* 37, self-creation, self-limitation, and self-destruction.
+    step1: |-
+      如果断片这样的文学形式开启了有限与无限之关系的问题，那么寓言、机智与反讽这些文学方式也是如此——寓言是有限者向无限者的开启（“每个寓言都意谓上帝”），机智是“断片式的天才”或“选择性的闪光”，在其中统一性可以瞬间被看见，反讽则是二者的综合（参见 Frank 2004 [1997], 216）。尽管施莱格尔对苏格拉底式的反讽观念印象深刻（它既游戏又严肃，既坦率又深藏不露；它是一切特许中最自由的，因为通过它人得以超越自身，施莱格尔在《吕克昂断片》第 108 条中说），但他运用反讽的方式，或许更令人想到费希特式自我的振荡。正如他在《吕克昂断片》第 37 条中所说，反讽同时是自我创造、自我限制与自我毁灭。
+    step2: |-
+      断片这样的文学形式开启了有限与无限的关系问题；寓言、机智与反讽这几种文学方式亦然。寓言是有限者向无限者的敞开（“每个寓言都意谓上帝”）；机智是“断片式的天才”或“选择性的闪光”，统一性在其中可以刹那得见；反讽则是二者的综合（参见 Frank 2004 [1997], 216）。施莱格尔虽服膺苏格拉底式反讽——它亦游戏亦严肃，亦坦率亦深藏，是一切特许中最自由者，人借此得以超越自身（《吕克昂断片》第 108 条）——但他运用反讽，也许更像费希特式自我的往复振荡。用他在《吕克昂断片》第 37 条中的话说，反讽同时是自我创造、自我限制与自我毁灭。
+  - id: 25
+    kind: body
+    source: |-
+      “Philosophy is the true home of irony, which might be defined as logical beauty,” Schlegel writes in *Lyceumfragment* 42: “for wherever men are philosophizing in spoken or written dialogues, and provided they are not entirely systematic, irony ought to be produced and postulated.” The task of a literary work with respect to irony is, while presenting an inherently limited perspective, nonetheless to open up the possibility of the infinity of other perspectives: “Irony is, as it were, the demonstration [*epideixis*] of infinity, of universality, of the feeling for the universe” (KA 18.128); irony is the “clear consciousness of eternal agility, of an infinitely teeming chaos” (*Ideas* 69). A literary work can do this, much as Schlegel’s *Lucinde* had, by presenting within its scope a range of possible alternate plots or by mimicking the *parabasis* in which the comic playwright interposed himself within the drama itself or the role of the Italian *buffo* or clown (*Lyceumfragment* 42) who disrupts the spectator’s narrative illusion. (Some of the more striking examples of such moments of ironic interposition in the works of Schlegel’s literary contemporaries can be found in the comedies of Tieck—where, as Szondi (1986) argues, it is not merely the actor or playwright who “steps out” of his usual role, but in some sense the very role itself.)
+    step1: |-
+      “哲学是反讽的真正家园，反讽或可被界定为逻辑之美，”施莱格尔在《吕克昂断片》第 42 条中写道：“因为凡人们在口头或书面对话中进行哲学思考之处，只要他们并非完全系统化，反讽就应当被产生出来并被悬设。”文学作品在反讽方面的任务，是在呈现一个本质上有限的视野的同时，开启其他视野之无限的可能性：“反讽仿佛是无限、普遍性、对宇宙之感受的展示〔*epideixis*〕”（KA 18.128）；反讽是“对永恒敏捷性、对一个无限涌流的混沌的清晰意识”（《理念》第 69 条）。文学作品能做到这一点，一如施莱格尔的《卢清德》所做的那样，办法是在其范围内呈现一系列可能的情节替代方案，或模仿 *parabasis*（喜剧诗人把自己插入戏剧本身之中），或模仿意大利 *buffo*（丑角）的角色（《吕克昂断片》第 42 条）——后者打断观众的叙事幻觉。（在施莱格尔同时代文学同道的作品中，这类反讽性插入时刻更引人注目的例子，可见于蒂克的喜剧——正如 Szondi（1986）所论，在那里“走出”其惯常角色的，不只是演员或剧作家，在某种意义上还有角色本身。）
+    step2: |-
+      “哲学是反讽的真正家园；反讽或可界定为逻辑之美，”施莱格尔在《吕克昂断片》第 42 条中写道，“因为凡是人们在口头或书面的对话中作哲学思考，只要他们并非完全系统化，反讽就应当被产生出来、被悬设。”文学作品在反讽上的任务，是一面呈现本质上有限的视野，一面开启其他视野的无限可能：“反讽仿佛是无限、普遍性、对宇宙之感受的展示〔*epideixis*〕”（KA 18.128）；反讽是“对永恒敏捷、对一个无限涌流的混沌的清晰意识”（《理念》第 69 条）。文学作品要做到这一点，可以像《卢清德》那样，在自身范围内摆出一系列可能的替代情节；也可以模仿 *parabasis*——喜剧诗人把自己插进戏剧本身——或模仿意大利 *buffo*（丑角）的角色（《吕克昂断片》第 42 条），由他打断观众的叙事幻觉。（在施莱格尔同时代文人的作品中，此类反讽性插入更醒目的例子见于蒂克的喜剧：如 Szondi（1986）所论，在那里“走出”惯常角色的，不只是演员或剧作家，在某种意义上还有角色本身。）
+  - id: 26
+    kind: body
+    source: |-
+      Along with his somewhat idiosyncratic appropriation of literary modes, Schlegel offers a theory of the literary genres which undergoes considerable revision as he attempts to take account both of the historical development of forms and particularly of the rise of the modern novel. Moving from the pragmatic classifications of the Enlightenment to a philosophically oriented theory of the genres, Schlegel shifts from a view on which the drama (as “objective-subjective”) develops out of (“objective”) epic and (“subjective”) lyric to one on which the epic in fact unites the other two classical modes (Szondi 1986, 85–86)[^szondi-1986]. The new stress on the epic genre corresponds with his sense of the *Roman* or novel as the “modern epic” which transcends the traditional genres and with a fluid sense of genre classification itself: “One can just as well say that there exist *infinitely many* [genres] as that there exists only *one* progressive *poetical genre*.”
+    step1: |-
+      除了对文学方式的这种略带特异性的挪用之外，施莱格尔还提出了一种文学文类理论；这一理论在他试图同时顾及形式的历史发展、特别是现代小说的兴起时，经历了相当大的修订。施莱格尔从启蒙运动的实用分类法走向一种以哲学为导向的文类理论：他原先认为戏剧（作为“客观—主观的”）从（“客观的”）史诗与（“主观的”）抒情诗发展而来，后来则转为认为史诗实际上统一了另外两种古典方式（Szondi 1986, 85–86）[^szondi-1986]。对史诗文类的这种新强调，与他把 *Roman* 或小说看作超越传统文类的“现代史诗”之感相合，也与一种流动的文类划分感相合：“人们完全可以说存在 *无限多* 〔文类〕，也同样可以说只存在 *一个* 渐进的 *诗性文类*。”
+    step2: |-
+      除对文学方式的这种别具一格的挪用外，施莱格尔还提出了一套文类理论；此说在他兼顾形式的历史发展、尤其是现代小说兴起的过程中，屡经修订。他从启蒙式的实用分类，转向一种以哲学为纲的文类理论：早先他认为戏剧（“客观—主观的”）由（“客观的”）史诗与（“主观的”）抒情诗发展而来，后来则主张史诗实际上统摄了另外两种古典方式（Szondi 1986, 85–86）[^szondi-1986]。对史诗的这番新强调，与他将 *Roman*、即小说视为超越传统文类的“现代史诗”之感相呼应，也与他那种流动的文类观相合：“人们完全可以说存在 *无限多*〔文类〕，也同样可以说只存在 *一个* 渐进的 *诗性文类*。”
+  - id: 27
+    kind: body
+    source: |-
+      In all of Schlegel’s writing about literary and artistic modes and genres, there is also a powerful return to formative questions about the relations art bears to its sometimes rivals in philosophy and religion. Schlegel of course revived questions about the philosophical shape of literature and the literary shape of philosophy that ultimately run back to Plato’s “ancient quarrel” (Lacoue-Labarthe and Nancy 1978)[^lacoue-labarthe-1978]. And, like his fellow Romantics Novalis and Schleiermacher, he also closely linked art and religion in ways that picked up fundamental issues in the religious discourse of his time (see Ziolkowski 1990, Smith 2019 and Hampton 2019)[^hampton-2019][^smith-2019][^ziolkowski-1990]: the relation of the infinite and finite (‘only he can be an artist who has his own religion, an original perspective on the infinite’ [KFSA 2.257]) and the notions of symbol and myth and their connection to an increasingly pluralistic religious world (Dieckmann 1959, Speight 2019)[^dieckmann-1959][^speight-2019].
+    step1: |-
+      在施莱格尔所有关于文学与艺术方式及文类的写作中，还有一种向形成性问题的有力回归：艺术与它在哲学和宗教中的有时是竞争者的东西之间有何关系。施莱格尔当然重新提出了关于文学的哲学形态与哲学的文学形态的问题，这些问题最终可追溯到柏拉图的“古老争吵”（Lacoue-Labarthe and Nancy 1978）[^lacoue-labarthe-1978]。而且，像他的浪漫派同道诺瓦利斯与施莱尔马赫一样，他也以多种方式把艺术与宗教紧密联系起来，这些方式接续了他那个时代宗教话语中的根本问题（参见 Ziolkowski 1990、Smith 2019 与 Hampton 2019）[^hampton-2019][^smith-2019][^ziolkowski-1990]：无限与有限的关系（“只有拥有自己的宗教、对无限有原创性视野的人，才能成为艺术家”〔KFSA 2.257〕），以及象征与神话的观念及其与一个日益多元的宗教世界的联系（Dieckmann 1959、Speight 2019）[^dieckmann-1959][^speight-2019]。
+    step2: |-
+      施莱格尔所有论文学与艺术方式、文类的文字里，还贯穿着一种对根本问题的有力回归：艺术与它在哲学、宗教中的对手，究竟处于何种关系？他重新提起文学的哲学形态与哲学的文学形态问题，而这些问题最终可上溯到柏拉图的“古老争吵”（Lacoue-Labarthe and Nancy 1978）[^lacoue-labarthe-1978]。他又与浪漫派同道诺瓦利斯、施莱尔马赫一样，以多种方式把艺术与宗教绾合起来，接续了当时宗教话语的根本议题（参见 Ziolkowski 1990、Smith 2019、Hampton 2019）[^hampton-2019][^smith-2019][^ziolkowski-1990]：一是无限与有限的关系（“唯有自有其宗教、对无限有原创视野者，方能成为艺术家”〔KFSA 2.257〕），二是象征与神话的观念及其与日趋多元的宗教世界的关联（Dieckmann 1959、Speight 2019）[^dieckmann-1959][^speight-2019]。
+  - id: 28
+    kind: body
+    source: |-
+      ## 4. Philosophical Apprenticeship: Schlegel on Idealism and Transcendental Philosophy
+    step1: |-
+      ## 4 哲学学徒期：施莱格尔论观念论与先验哲学
+    step2: |-
+      ## 4 哲学学徒期：施莱格尔论观念论与先验哲学
+  - id: 29
+    kind: body
+    source: |-
+      Like many other members of the generation which came intellectually of age in the 1790s—a group which includes not only the idealist philosophers Schelling and Hegel but also the poets Novalis and Hölderlin—Schlegel’s philosophical interests were framed around a concern for somehow uniting Fichtean freedom of the subject with Spinozistic holism. It is likely that Schlegel attended Fichte’s *Wissenschaftslehre* (*Theory of Scientific Knowledge*) “nova methodo” lectures in Jena starting in October 1796, and he was guided at least in part in his study of the new idealistic philosophy by Novalis, whose own *Fichte Studies* represent a fascinating window onto the effect that Fichte had on this generation. Novalis and Schlegel had a famous conversation about idealism in the summer of 1796, and both attempted to articulate an opposition to the reliance on a single first principle which they thought characterized the philosophical efforts of Reinhold and Fichte to set Kantian philosophy on a systematic basis. (This Romantic contribution to the anti-foundationalist *Grundsatzkritik* of the 1790’s has long been a neglected aspect of research on the development of German Idealism, as has the work of those philosophers—such as Immanuel Niethammer, Carl Immanuel Diez, Johann Benjamin Erhard and Friedrich Karl Forberg—who pursued a similar line of thought against Reinhold and Fichte.)
+    step1: |-
+      与 1790 年代在思想上成年的那一代许多人一样——这一群体不仅包括观念论哲学家谢林与黑格尔，也包括诗人诺瓦利斯与荷尔德林——施莱格尔的哲学兴趣围绕着一个关切展开：以某种方式把费希特式的主体自由与斯宾诺莎式的整体论结合起来。施莱格尔很可能从 1796 年 10 月起在耶拿听了费希特《知识学》（*Wissenschaftslehre*）的“新方法”（*nova methodo*）讲座，而他在研习这种新观念论哲学时，至少部分地受诺瓦利斯引导；诺瓦利斯自己的《费希特研究》为了解费希特对这一代人的影响提供了一扇迷人的窗口。1796 年夏天，诺瓦利斯与施莱格尔有过一次关于观念论的著名对话；两人都试图表达一种对依赖单一第一原理的反对，他们认为赖因霍尔德与费希特把康德哲学置于系统基础之上的努力，正以这种依赖为特征。（浪漫派对抗基础主义的这场“原理批判”，长期以来是德国观念论发展研究中被忽视的一个方面；那些秉持类似思路反对赖因霍尔德与费希特的哲学家——如伊曼努尔·尼特哈默尔、卡尔·伊曼努尔·迪茨、约翰·本雅明·埃尔哈德与弗里德里希·卡尔·福尔贝格——其工作同样如此。）
+    step2: |-
+      与 1790 年代思想成年的一代人大抵相类——这一代人中既有观念论哲学家谢林与黑格尔，也有诗人诺瓦利斯与荷尔德林——施莱格尔的哲学关切围绕一个核心：如何把费希特式的主体自由与斯宾诺莎式的整体论熔为一体。他很可能自 1796 年 10 月起在耶拿旁听费希特《知识学》（*Wissenschaftslehre*）的“新方法”（*nova methodo*）讲演；而在研治这种新观念论哲学时，他至少部分得益于诺瓦利斯的引导——诺瓦利斯本人的《费希特研究》，正是窥见费希特如何影响这一代人的一扇迷人窗口。1796 年夏，两人有过一场关于观念论的名谈；他们都试图表明一种反对依赖单一第一原理的立场，并认为赖因霍尔德与费希特把康德哲学奠基于系统之上的努力，正以这种依赖为特征。（浪漫派这场针对基础主义的“原理批判”，长期以来是德国观念论发展研究中被忽略的一页；伊曼努尔·尼特哈默尔、卡尔·伊曼努尔·迪茨、约翰·本雅明·埃尔哈德、弗里德里希·卡尔·福尔贝格等持相近思路反对赖因霍尔德与费希特的哲学家，其工作也同样被忽略。）
+  - id: 30
+    kind: body
+    source: |-
+      Philosophers interested in Schlegel’s early engagement with the problems of German Idealism have, in addition to his published works, two rich but tantalizingly incomplete textual resources to draw upon: a set of fragments, the so-called “Philosophical Apprenticeship” (*Philosophische Lehrjahre*), which date from 1796 and reveal Schlegel’s study not only of Fichte and Spinoza but also of Winckelmann, Herder and Kant (this collection remained unpublished until the critical Schlegel edition of 1963), and notes from Schlegel’s *Lectures on Transcendental Philosophy* at Jena in 1800–01.
+    step1: |-
+      对施莱格尔早期与德国观念论问题之交锋感兴趣的哲学家，除了他的已刊著作外，还有两种丰富但令人心痒地残缺的文本资源可供利用：一组断片，即所谓《哲学学徒期》（*Philosophische Lehrjahre*），作于 1796 年，显示出施莱格尔不仅研习费希特与斯宾诺莎，也研习温克尔曼、赫尔德与康德（这一合集直到 1963 年施莱格尔批评版问世才出版）；以及施莱格尔 1800—1801 年在耶拿《先验哲学讲演》的笔记。
+    step2: |-
+      研究施莱格尔早期与德国观念论之交锋的学者，除其已刊著作外，尚有两种材料可用：一是内容丰富却残缺得令人扼腕的断片集《哲学学徒期》（*Philosophische Lehrjahre*），作于 1796 年，可见他不仅研读费希特与斯宾诺莎，也研读温克尔曼、赫尔德与康德（此集直到 1963 年施莱格尔考订版问世才得刊行）；二是他 1800—1801 年在耶拿讲授《先验哲学》的听课笔记。
+  - id: 31
+    kind: body
+    source: |-
+      Schlegel’s critique of first-principle philosophy is rooted (like Novalis’) in a sense of the ungraspability of the absolute or unconditioned. (As Novalis puts it in the first of his “Pollen” fragments: “Everywhere we seek the unconditioned [*das Unbedingte*], but find only things [*Dinge*].”) More specifically, Schlegel holds, against Reinhold and Fichte, that “there are no first principles that are universally suitable [*zweckmässig*] companions and guides to truth” (*KA* XVIII.518, #13): even “self-evident” propositions can be doubted and so require demonstration (thus opening up an infinite regress), and any proposition can be proved in an “infinite” number of ways. For Schlegel “every proof is infinitely perfectible” (*KA* XVIII, 518, #9), and the task of philosophy is not one of searching to find an unconditioned first principle but rather one of engaging in an (essentially coherentist) process of infinite progression and approximation.
+    step1: |-
+      施莱格尔对第一原理哲学的批判，根植于（与诺瓦利斯一样）对绝对者或无条件者之不可把握的感受。（正如诺瓦利斯在其“花粉”断片第一条中所说：“我们处处寻找无条件者〔*das Unbedingte*〕，却只找到事物〔*Dinge*〕。”）更具体地说，施莱格尔反对赖因霍尔德与费希特，主张“不存在普遍适用的〔*zweckmässig*〕、作为真理之伴侣与向导的第一原理”（*KA* XVIII.518, #13）：即便“自明的”命题也可以被怀疑，因而需要证明（由此开启无穷回溯），而且任何命题都可以用“无限”多种方式得到证明。对施莱格尔来说，“任何证明都是无限可完善的”（*KA* XVIII, 518, #9），哲学的任务不是寻找一个无条件的第一原理，而是投入一种（本质上是融贯论的）无限进展与逼近的过程。
+    step2: |-
+      施莱格尔对第一原理哲学的批判，与诺瓦利斯一样，植根于对绝对者、无条件者不可把握的感受。（诺瓦利斯《花粉》第一条有言：“我们处处寻求无条件者〔*das Unbedingte*〕，所得却只是事物〔*Dinge*〕。”）更具体地说，施莱格尔针对赖因霍尔德与费希特主张：“不存在普遍适用〔*zweckmässig*〕、堪作真理伴侣与向导的第一原理”（*KA* XVIII.518, #13）；即便是“自明”命题也可加以怀疑，因而需要证明——这就开启了无穷回溯；而且任何命题都能以“无限”多种方式得到证明。在施莱格尔看来，“任何证明皆可无限完善”（*KA* XVIII, 518, #9）；哲学的任务不是去寻觅一条无条件的第一原理，而是投入一种（本质为融贯论的）无限进展与逼近。
+  - id: 32
+    kind: body
+    source: |-
+      Philosophy on Schlegel’s view must thus begin with skepticism and tend toward the absolute; the idealists have found no way to the latter that avoids the difficulties of the former. Against Fichte’s attempts at system-building, Schlegel proposes a notion of what he calls an alternating proof (*Wechselerweis*): “In my system the ultimate principle [*der letzte Grund*] is actually a reciprocal proof [*Wechselerweis*]. In Fichte’s [it is] a postulate and a conditional proposition” (*KA* XVIII, 521).
+    step1: |-
+      因此，按照施莱格尔的观点，哲学必须从怀疑论开始，并趋向绝对者；观念论者们尚未找到一条通往后者而又避开前者困难的道路。针对费希特的体系建构尝试，施莱格尔提出他所谓的交替证明（*Wechselerweis*）这一观念：“在我的体系中，终极根据〔*der letzte Grund*〕实际上是一种交互证明〔*Wechselerweis*〕。在费希特的体系中，它则是一个悬设和一个条件命题”（*KA* XVIII, 521）。
+    step2: |-
+      因此，依施莱格尔之见，哲学必须始于怀疑论，而趋向绝对者；观念论者迄今尚未找到一条通达绝对者、又能避开怀疑论困难的道路。针对费希特的体系建构，施莱格尔提出所谓交替证明（*Wechselerweis*）：“在我的体系中，终极根据〔*der letzte Grund*〕实际上是一种交互证明〔*Wechselerweis*〕；在费希特的体系中，它却是一个悬设和一个条件命题”（*KA* XVIII, 521）。
+  - id: 33
+    kind: body
+    source: |-
+      The Schlegelian philosophy that results from this engagement with idealism is non-foundationalist, holistic and historical (see Beiser 2003, 123–26)[^beiser-2003]. Schlegel himself describes his philosophical approach as resembling both a circle and epic poetry because it must forever “begin in the middle”: “Philosophy must have at its basis not only an alternating proof [*Wechselbeweis*] but also an alternating concept [*Wechselbegriff*]. In the case of every concept, as in the case of every proof, one can in turn ask for a concept and a proof of the same. For this reason, philosophy, like an epic poem, must start in the middle, and it is impossible to pursue philosophy piece by piece starting from a first piece which is grounded and explained completely in and through itself. It is a whole, and thus the path to recognizing it is no straight line but a circle” (*KA* XVIII, 518).
+    step1: |-
+      由这种与观念论的交锋所产生的施莱格尔式哲学，是非基础主义的、整体论的和历史性的（参见 Beiser 2003, 123–26）[^beiser-2003]。施莱格尔本人把他的哲学进路描述为既像圆圈又像史诗，因为它必须永远“从中间开始”：“哲学不仅必须以交替证明〔*Wechselbeweis*〕为基础，还必须以交替概念〔*Wechselbegriff*〕为基础。就每个概念、正如就每个证明一样，人们都可以反过来要求关于它的概念和证明。因此，哲学像一部史诗，必须从中间开始；不可能从一个自身之内、并通过自身得到完全奠基与解释的第一块开始，一块一块地推进哲学。它是一个整体，因此认识它的道路不是一条直线，而是一个圆圈”（*KA* XVIII, 518）。
+    step2: |-
+      如此与观念论交锋而成的施莱格尔哲学，是非基础主义的、整体论的、历史性的（参见 Beiser 2003, 123–26）[^beiser-2003]。施莱格尔自述其哲学进路既像圆圈，又像史诗，因为它永远必须“从中间开始”：“哲学不仅须以交替证明〔*Wechselbeweis*〕为基，还须以交替概念〔*Wechselbegriff*〕为基。对每个概念、如同对每个证明，人们都可以反过来追索它的概念与证明。职是之故，哲学一如史诗，必须自中间起笔；不可能从一块自身之内、借自身而完全奠基并解释清楚的第一块砖出发，一块一块地推进哲学。它是一个整体，故认识它的道路并非直线，而是一个圆圈”（*KA* XVIII, 518）。
+  - id: 34
+    kind: body
+    source: |-
+      Recent work has emphasized the Kantian inheritance that lies behind Schlegel’s notions of irony (Rush 2016, who sees Schlegel as radicalizing Kantian regulativism in a way that makes it “more contingent, historical and pragmatic”)[^rush-2016] and of a “progressive universal poetry” (Ameriks 2014)[^ameriks-2014]. Others have stressed the importance of Schlegel’s philosophical work in ways that open up his broader concerns with life and the world of organic beings ( see the discussion of Schlegel’s later work in Section 6 below, as well as Gorodeisky 2011 and Nassar 2014a, 2015)[^gorodeisky-2011]. As argued below, these larger interests can be seen particularly in Schlegel’s contributions to ethical, social and political philosophy.
+    step1: |-
+      晚近研究强调了施莱格尔反讽观念背后的康德遗产（Rush 2016，他认为施莱格尔把康德式的调节论激进化，使之“更具偶然性、历史性与实用性”）[^rush-2016]，以及“渐进的总汇诗”观念背后的康德遗产（Ameriks 2014）[^ameriks-2014]。另一些学者则强调施莱格尔哲学工作的重要性，认为它开启了他对生命与有机存在者世界的更广泛关切（参见下文第 6 节对施莱格尔后期著作的讨论，以及 Gorodeisky 2011 与 Nassar 2014a, 2015）[^gorodeisky-2011]。如下文所论，这些更大的兴趣尤其可见于施莱格尔对伦理、社会与政治哲学的贡献。
+    step2: |-
+      晚近研究看重施莱格尔反讽观念背后的康德遗产（Rush 2016 认为，施莱格尔把康德式调节论激进化，使之“更具偶然性、历史性与实用性”）[^rush-2016]，也看重“渐进的总汇诗”观念中的康德遗产（Ameriks 2014）[^ameriks-2014]。另一些学者则强调其哲学工作的重要性，认为它开启了他对生命与有机存在者世界的更广阔关切（参见下文第 6 节对其后期著作的讨论，以及 Gorodeisky 2011、Nassar 2014a, 2015）[^gorodeisky-2011]。如下文所示，这些更大的关怀尤其体现在他对伦理、社会与政治哲学的贡献中。
+  - id: 35
+    kind: body
+    source: |-
+      ## 5. Ethical, Social and Political Philosophy
+    step1: |-
+      ## 5 伦理、社会与政治哲学
+    step2: |-
+      ## 5 伦理、社会与政治哲学
+  - id: 36
+    kind: body
+    source: |-
+      Although Schlegel’s importance for ethical, social and political philosophy has often been ignored or unjustly criticized, recent interpreters have shown how Schlegel took himself as offering a response to a number of key challenges in the philosophical ethics of his era, from Jacobian worries about nihilism (Gorodeisky 2011)[^gorodeisky-2011] to Kantian rigorism and dualism (Crowe 2010)[^crowe-2010]. For the young Schlegel, consideration of ethical and political matters was never far removed from consideration of the aesthetic. Like Schleiermacher and the young Hegel, Schlegel puts a strong emphasis in his early ethical writings on the notion of love. In his essay “On the Limits of the Beautiful” (*Über die Grenzen des Schönen*, 1794), he argues that love is the highest form of aesthetic enjoyment and can only be realized between free and equal beings (Beiser 1992, 248)[^beiser-1992]. Part of Schlegel’s larger political animus lay always (in early as well as late phases of his career) in a refashioning of the relationship between the sexes. In his early phase, Schlegel shared with other Romantics a sense of the political and social importance of the revolutionary period. In his “Essay on the Concept of Republicanism occasioned by the Kantian Tract *Perpetual Peace*” (*Versuch über den Begriff des Republikanismus*, 1797), a commentary on sections of Kant’s *Perpetual Peace*, Schlegel moves to a far more democratic view of politics than Kant defended: Schlegel advocates not only the “necessarily democratic” nature of republicanism and the “majesty” of the people as expressed in a majority, as well as the “political imperative” of making all nations republican, but—especially decisive against Kant’s restrictions on political activism—argued that insurrection was legitimate in certain cases. Schlegel’s political radicalism in this period comes much closer to Fichte than Kant and, in fact, rivals the claims for universal extension of suffrage advocated by Herder and Georg Forster.
+    step1: |-
+      尽管施莱格尔对伦理、社会与政治哲学的重要性常被忽视或不公正地批评，晚近的阐释者却表明，施莱格尔自认为是在回应他那个时代哲学伦理学中的若干关键挑战，从雅可比式的虚无主义忧虑（Gorodeisky 2011）[^gorodeisky-2011] 到康德式的严格主义与二元论（Crowe 2010）[^crowe-2010]。对年轻的施莱格尔来说，对伦理与政治事务的考虑从未远离对审美事务的考虑。像施莱尔马赫与青年黑格尔一样，施莱格尔在其早期伦理著作中大力强调爱的观念。在其《论美的界限》（*Über die Grenzen des Schönen*，1794）一文中，他主张爱是审美享受的最高形式，只能在自由而平等的存在者之间实现（Beiser 1992, 248）[^beiser-1992]。施莱格尔更大的政治动力始终（在其生涯的早期与晚期皆然）部分地在于重新塑造两性关系。在其早期阶段，施莱格尔与其他浪漫派一样，感受到革命时期在政治与社会上的重要性。在其《因康德〈永久和平论〉而作的共和主义概念文稿》（*Versuch über den Begriff des Republikanismus*，1797）中——该文是对康德《永久和平论》若干部分的评注——施莱格尔转向一种远比康德所辩护的更为民主的政治观：他不仅主张共和主义的“必然民主的”性质、人民在多数中表达的“尊严”，以及使一切民族共和化的“政治命令”，而且——尤其针对康德对政治行动主义的限制具有决定性——主张在某些情况下起义是正当的。施莱格尔这一时期的政治激进主义远比康德接近费希特，事实上可与赫尔德与格奥尔格·福斯特所主张的选举权普遍扩展相匹敌。
+    step2: |-
+      施莱格尔在伦理、社会与政治哲学上的重要性，常遭忽视或不公之评；晚近的阐释者却表明，他自视在回应当时哲学伦理学的若干关键挑战：既有雅可比式的虚无主义之忧（Gorodeisky 2011）[^gorodeisky-2011]，也有康德式的严格主义与二元论（Crowe 2010）[^crowe-2010]。对青年施莱格尔而言，伦理与政治之思从未远离审美之思。他与施莱尔马赫、青年黑格尔一样，在早期伦理文字中力主爱这一观念。《论美的界限》（*Über die Grenzen des Schönen*，1794）一文主张，爱是审美享受的最高形式，唯在自由而平等者之间方能实现（Beiser 1992, 248）[^beiser-1992]。施莱格尔更深一层的政治冲动——无论早期晚期——始终有一部分在于重塑两性关系。早年他与别的浪漫派一样，深感革命时期在政治与社会上的分量。其《因康德〈永久和平论〉而作的共和主义概念文稿》（*Versuch über den Begriff des Republikanismus*，1797）评注康德《永久和平论》若干段落，却转向远比康德激进民主的政治观：他不仅主张共和主义“必然是民主的”、人民以多数表达的“尊严”、以及使万邦皆共和的“政治命令”，更在若干情形下主张起义为正当——此点与康德对政治行动主义的限制针锋相对，尤为关键。施莱格尔此期的政治激进主义，比康德更近费希特，实际上也可与赫尔德、格奥尔格·福斯特普遍扩大选举权的主张相颉颃。
+  - id: 37
+    kind: body
+    source: |-
+      It is all the more striking, of course, that the politics of the later Schlegel, as he takes up a position in the Austrian court, turn decisively more conservative. His late essay “Signature of the Age” (*Signatur des Zeitalters*, 1820) attacks the twin evils of idealism and British-American parliamentary government. As opposed to the machine-like state, Schlegel advocates as his ideal an “organic” Christian state consisting of “corporations” that form a living whole around the monarch (church, school, family, guild—a series of social institutions similar to that visible in the corporatist philosophy espoused in Hegel’s philosophy of right during the same time period).
+    step1: |-
+      当然，更引人注目的是，后期施莱格尔在奥地利宫廷任职后，其政治立场决定性地转向保守。其晚期文章《时代的签名》（*Signatur des Zeitalters*，1820）攻击观念论与英美式议会政府这对孪生弊害。与机器式的国家相对，施莱格尔所主张的理想是由“团体”（*corporations*）组成的“有机的”基督教国家；这些团体环绕君主形成一个活的整体（教会、学校、家庭、行会——一系列社会建制，类似于同一时期黑格尔法哲学中所主张的社团主义哲学中可见的那种）。
+    step2: |-
+      尤堪注意的是，施莱格尔后期入仕奥地利宫廷之后，政治立场明显转向保守。其晚期文章《时代的签名》（*Signatur des Zeitalters*，1820）痛诋观念论与英美式议会政治这双重的祸害。他反对机器式的国家，标举一种“有机的”基督教国家为理想；此国由诸“团体”（*corporations*）构成，环绕君主结成一个活的整体（教会、学校、家庭、行会——这一系列社会建制，与同一时期黑格尔法哲学中社团主义式的构想颇相类似）。
+  - id: 38
+    kind: body
+    source: |-
+      ## 6. Later Philosophy of Life, History and Religion
+    step1: |-
+      ## 6 后期生命、历史与宗教哲学
+    step2: |-
+      ## 6 后期生命、历史与宗教哲学
+  - id: 39
+    kind: body
+    source: |-
+      In the final twenty years of his life in Vienna, Schlegel followed on the success of his brother’s famous *Lectures on Dramatic Art and Literature*, given in that city in 1808,with several lecture series of his own. He lectured on modern European history (1810), ancient and modern literature (1811), the philosophy of life (1827), the philosophy of history (1828) and the philosophy of language (1828–1829, a lecture series that was never completed because of Schlegel’s death).
+    step1: |-
+      在维也纳度过的生命最后二十年里，施莱格尔继其兄长 1808 年在该城所作著名的《戏剧艺术与文学讲演》大获成功之后，也开设了数个自己的讲演系列。他讲授近代欧洲史（1810）、古今文学（1811）、生命哲学（1827）、历史哲学（1828）与语言哲学（1828—1829，这一系列因施莱格尔去世而未能完成）。
+    step2: |-
+      在维也纳的最后二十年，施莱格尔踵武其兄 1808 年在该城大获成功的《戏剧艺术与文学讲演》，也开了一系列自己的讲座：近代欧洲史（1810）、古今文学（1811）、生命哲学（1827）、历史哲学（1828）与语言哲学（1828—1829；此系列因他去世而未竟）。
+  - id: 40
+    kind: body
+    source: |-
+      Given Schlegel’s conversion and the more conservative tendency of his later political thought, commentators have often raised questions about the continuity between the earlier romantic phase and Schlegel’s later work. Blanchot puts this line of questioning most sharply:
+    step1: |-
+      鉴于施莱格尔的皈依及其后期政治思想的保守倾向，评论者常常提出早期浪漫阶段与施莱格尔后期著作之间连续性的问题。布朗肖把这一质疑表述得最为尖锐：
+    step2: |-
+      施莱格尔既已皈依，后期政治思想又日趋保守，评论者便常追问：早期浪漫阶段与后期著作之间究竟有无连续性？布朗肖把这一追问说得最为尖锐：
+  - id: 41
+    kind: body
+    source: |-
+      > [A]s a young man he is an atheist, a radical, and an individualist… Some years pass: the same Schlegel, converted to Catholicism, a diplomat and journalist in the service of Metternich, surrounded by monks and pious men of society, is no longer anything but a fat philistine of unctuous speech, lazy, empty, his mind on food, and incapable of remembering the young man who had written: ‘A single absolute law: the free spirit always triumphs over nature.’ Which is the real one? Is the later Schlegel the truth of the first? Does the struggle against a bourgeois who is banal engender no more than a bourgeois who is exalted, then weary, and finally only contribute to an exaltation of the bourgeoisie? Where is romanticism? In Jena or Vienna? [Blanchot 1993, 352][^blanchot-1993]
+    step1: |-
+      > 〔作为年轻人，他〕是无神论者、激进分子、个人主义者……数年过去：同一个施莱格尔，皈依了天主教，做了梅特涅麾下的外交官与记者，身边尽是修士与虔诚的体面人，如今不过是个言辞油滑、懒惰空虚、心思只在吃食上的胖庸人，再也想不起那个曾写下“只有一条绝对法则：自由精神永远战胜自然”的青年。哪一个才是真的？后期的施莱格尔是早期施莱格尔的真相吗？对庸俗资产者的斗争，难道只造就出一个亢奋的资产者，继而疲惫，最终不过为资产者的亢奋添砖加瓦？浪漫主义在哪里？在耶拿，还是在维也纳？〔Blanchot 1993, 352〕[^blanchot-1993]
+    step2: |-
+      > 〔青年时代，他〕是无神论者、激进分子、个人主义者……数年过去：同一个施莱格尔，皈依了天主教，成了梅特涅麾下的外交官与记者，身边尽是修士与虔诚的体面人；如今不过是个言辞油滑、懒惰空虚、心思只在一口吃食上的胖庸人，再也想不起那个曾写下“只有一条绝对法则：自由精神永远战胜自然”的青年。哪一个才是真的？后期的施莱格尔是早期那个的真相吗？对庸俗资产者的斗争，难道只造就出一个亢奋的资产者，继而疲惫，最终不过为资产者的亢奋添砖加瓦？浪漫主义在哪里？在耶拿，还是在维也纳？〔Blanchot 1993, 352〕[^blanchot-1993]
+  - id: 42
+    kind: body
+    source: |-
+      There is, to be sure, a rather different style and tone evident in many of Schlegel’s later writings and lectures. In some of the lecture series, there is a good deal of repetition and argumentative flaccidity of a sort the young Schlegel would no doubt have sharply criticized. But it is far from clear that Vienna represented simply a phase of ossification in Schlegel’s intellectual life or even a turn away from the most important philosophical and literary concerns of the young romantic. The literary lectures reveal interesting shifts in his treatment of the literary genres (Eichner 1970, 117–23)[^eichner-1970], the philosophy of life pleads not unconvincingly for a “modest” conception of philosophizing that avoids the excesses of merely abstract or empirical points of departure (Schlegel 1847), and the philosophy of language insists upon the essentially dialogical character of human thought and expression (Schlegel 1847).
+    step1: |-
+      诚然，在施莱格尔后期的许多著作与讲演中，可以看到颇为不同的风格与语调。在某些讲演系列中，有大量重复与论证上的松软，年轻的施莱格尔无疑会对此严加批评。但远不能确定的是，维也纳仅仅代表施莱格尔思想生命中的一个僵化阶段，或者甚至代表对青年浪漫派最重要的哲学与文学关切的背离。文学讲演显示出他处理文学文类时的有趣转变（Eichner 1970, 117–23）[^eichner-1970]；生命哲学以一种并非没有说服力的方式，为一种避免纯抽象或纯经验出发点的过度的“谦逊的”哲学思考观辩护（Schlegel 1847）；语言哲学则坚持人类思想与表达本质上的对话性质（Schlegel 1847）。
+    step2: |-
+      诚然，施莱格尔后期不少著作与讲演中，风格与语调确已大不相同。有些讲演系列重复甚多，论证松软，青年施莱格尔若见，必定严词批评。然而，说维也纳时期只是施莱格尔思想生命的僵化阶段，甚至说他背离了青年浪漫派最要紧的哲学与文学关切，却远非定论。文学讲演显示，他处理文学文类时已有耐人寻味的转变（Eichner 1970, 117–23）[^eichner-1970]；生命哲学为一种“谦逊的”哲学思考观申辩，力避纯抽象或纯经验出发点的偏激，其说并非没有说服力（Schlegel 1847）；语言哲学则坚执人类思想与表达在本质上的对话性（Schlegel 1847）。
+  - id: 43
+    kind: oir
+    source: |-
+      - [Die Friedrich Schlegel-Gesellschaft e. V.](http://www.schlegel-gesellschaft.de/) (in German).
+      - [Schlegel, Friedrich](http://www.zeno.org/Literatur/M/Schlegel,+Friedrich), at zeno.org.
+    step1: |-
+      - [Die Friedrich Schlegel-Gesellschaft e. V.](http://www.schlegel-gesellschaft.de/)（德文）。
+      - [Schlegel, Friedrich](http://www.zeno.org/Literatur/M/Schlegel,+Friedrich)，见 zeno.org。
+    step2: |-
+      - [弗里德里希·施莱格尔学会（Die Friedrich Schlegel-Gesellschaft e. V.）](http://www.schlegel-gesellschaft.de/)，德文网站。
+      - [Schlegel, Friedrich](http://www.zeno.org/Literatur/M/Schlegel,+Friedrich)，见 zeno.org。

@@ -1317,3 +1317,35 @@
 | Richard Swineshead | Richard Swineshead | 理查德·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Roger Swineshead | Roger Swineshead | 罗杰·斯温斯海德 | sophismata | 学界惯例（牛津计算者，音译）；凭证 2026-11-07 | 2026-11-07 |
 | Robert Alyngton | Robert Alyngton | 保留英文（无通行汉名） | sophismata | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
+| Friedrich Schlegel | Friedrich Schlegel | 弗里德里希·施莱格尔 | schlegel | SUMMARY 定名沿用；学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| August Wilhelm Schlegel | August Wilhelm Schlegel | 奥古斯特·威廉·冯·施莱格尔 | schlegel | SUMMARY 定名（schlegel-aw）；学界通行；凭证 2026-11-07 | 2026-11-07 |
+| Johann Adolf Schlegel | Johann Adolf Schlegel | 约翰·阿道夫·施莱格尔 | schlegel | 学界惯例（施莱格尔之父，牧师与文人）；凭证 2026-11-07 | 2026-11-07 |
+| Johann Elias Schlegel | Johann Elias Schlegel | 约翰·埃利亚斯·施莱格尔 | schlegel | 学界惯例（施莱格尔叔父，剧作家）；凭证 2026-11-07 | 2026-11-07 |
+| Caroline Böhmer | Caroline Böhmer | 卡罗琳·伯默 | schlegel | 学界惯例（后嫁 A. W. 施莱格尔、谢林）；凭证 2026-11-07 | 2026-11-07 |
+| Dorothea Veit | Dorothea Veit | 多萝特娅·法伊特 | schlegel | 学界惯例（门德尔松之女，后为施莱格尔之妻）；凭证 2026-11-07 | 2026-11-07 |
+| Henriette Herz | Henriette Herz | 亨丽埃特·赫茨 | schlegel | 学界惯例（柏林沙龙主人）；凭证 2026-11-07 | 2026-11-07 |
+| Rahel Levin | Rahel Levin | 拉赫尔·莱温 | schlegel | 学界惯例（柏林沙龙主人）；凭证 2026-11-07 | 2026-11-07 |
+| Ludwig Tieck | Ludwig Tieck | 路德维希·蒂克 | schlegel | 学界通行汉译（德国浪漫派作家）；凭证 2026-11-07 | 2026-11-07 |
+| Wilhelm Heinrich Wackenroder | Wilhelm Heinrich Wackenroder | 威廉·海因里希·瓦肯罗德 | schlegel | 学界通行汉译（德国浪漫派作家）；凭证 2026-11-07 | 2026-11-07 |
+| Novalis | Novalis | 诺瓦利斯 | schlegel | 学界通行汉译（本名哈登贝格）；凭证 2026-11-07 | 2026-11-07 |
+| Friedrich Hölderlin | Friedrich Hölderlin | 弗里德里希·荷尔德林 | schlegel | 学界通行汉译（诗人）；凭证 2026-11-07 | 2026-11-07 |
+| Friedrich Heinrich Jacobi | Friedrich Heinrich Jacobi | 弗里德里希·海因里希·雅可比 | schlegel | 学界通行汉译（哲学家）；凭证 2026-11-07 | 2026-11-07 |
+| Georg Forster | Georg Forster | 格奥尔格·福斯特 | schlegel | 学界通行汉译（博物学家与革命者）；凭证 2026-11-07 | 2026-11-07 |
+| Gotthold Ephraim Lessing | Gotthold Ephraim Lessing | 戈特霍尔德·埃弗拉伊姆·莱辛 | schlegel | 学界通行汉译（启蒙作家）；凭证 2026-11-07 | 2026-11-07 |
+| Dante | Dante | 但丁 | schlegel | 学界千年通行；凭证 2026-11-07 | 2026-11-07 |
+| Chamfort | Chamfort | 尚福尔 | schlegel | 学界惯例（法国箴言作家）；凭证 2026-11-07 | 2026-11-07 |
+| Blaise Pascal | Blaise Pascal | 布莱士·帕斯卡 | schlegel | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| La Rochefoucauld | La Rochefoucauld | 拉罗什富科 | schlegel | 学界通行汉译（法国箴言作家）；凭证 2026-11-07 | 2026-11-07 |
+| Walter Benjamin | Walter Benjamin | 瓦尔特·本雅明 | schlegel | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Metternich | Metternich | 梅特涅 | schlegel | 学界通行汉译（奥地利首相）；凭证 2026-11-07 | 2026-11-07 |
+| Winckelmann | Winckelmann | 温克尔曼 | schlegel | 学界通行汉译（艺术史家）；凭证 2026-11-07 | 2026-11-07 |
+| Karl Leonhard Reinhold | Karl Leonhard Reinhold | 卡尔·莱昂哈德·莱因霍尔德 | schlegel | 学界通行汉译（康德哲学普及者；沿用 karl-reinhold 行形）；凭证 2026-11-07 | 2026-11-07 |
+| Immanuel Niethammer | Immanuel Niethammer | 伊曼努尔·尼特哈默尔 | schlegel | 学界惯例（德国观念论同代人）；凭证 2026-11-07 | 2026-11-07 |
+| Carl Immanuel Diez | Carl Immanuel Diez | 卡尔·伊曼努尔·迪茨 | schlegel | 音译（德国观念论同代人）；凭证 2026-11-07 | 2026-11-07 |
+| Johann Benjamin Erhard | Johann Benjamin Erhard | 约翰·本雅明·埃尔哈德 | schlegel | 音译（德国观念论同代人）；凭证 2026-11-07 | 2026-11-07 |
+| Friedrich Karl Forberg | Friedrich Karl Forberg | 弗里德里希·卡尔·福尔贝格 | schlegel | 音译（德国观念论同代人）；凭证 2026-11-07 | 2026-11-07 |
+| Maurice Blanchot | Maurice Blanchot | 莫里斯·布朗肖 | schlegel | 学界通行汉译（法国文论家）；凭证 2026-11-07 | 2026-11-07 |
+| Peter Szondi | Peter Szondi | 彼得·松迪 | schlegel | 学界惯例（文学理论家，音译）；凭证 2026-11-07 | 2026-11-07 |
+| Sulpiz Boisserée | Sulpiz Boisserée | 苏尔皮茨·博伊瑟雷 | schlegel | 音译（艺术收藏家）；凭证 2026-11-07 | 2026-11-07 |
+| Melchior Boisserée | Melchior Boisserée | 梅尔希奥·博伊瑟雷 | schlegel | 音译（艺术收藏家）；凭证 2026-11-07 | 2026-11-07 |
+| Novalis (Friedrich von Hardenberg) | — | 诺瓦利斯（弗里德里希·冯·哈登贝格） | schlegel | 补注本名；凭证 2026-11-07 | 2026-11-07 |
