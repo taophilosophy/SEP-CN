@@ -6,7 +6,7 @@
 
 ## 1 生平与著作
 
-关于克雷索恩的生平，我们几乎一无所知。他可能生于北约克郡的克雷索恩村（Crathorne）。他在前往牛津之前已成为多明我会修士，并于 1330–32 年间讲授彼得·伦巴德（Peter Lombard）《箴言四书》（*Sentences*）第一卷。我们之所以能给这部著作断代，是因为其中一段话提到一次日食，而我们知道该次日食发生于 1330 年 7 月 16 日。他的多明我会同时代人罗伯特·霍尔柯特也告诉我们，一位名叫克雷索恩的多明我会士在同一时期（1331–33）进行讲授（Courtenay 1978; Schepers 1970 and 1972）[^courtenay-1978][^schepers-1970][^schepers-1972]
+关于克雷索恩的生平，我们几乎一无所知。他可能生于北约克郡的克雷索恩村（Crathorne）。他在前往牛津之前已成为多明我会修士，并于 1330–32 年间讲授彼得·伦巴德（Peter Lombard）《箴言四书》（*Sentences*）第一卷。我们之所以能给这部著作断代，是因为其中一段话提到一次日食，而我们知道该次日食发生于 1330 年 7 月 16 日。他的多明我会同时代人罗伯特·霍尔柯特也告诉我们，一位名叫克雷索恩的多明我会士在同一时期（1331–33）进行讲授（Courtenay 1978; Schepers 1970 and 1972）[^courtenay-1978][^schepers-1970][^schepers-1972]。
 
 威廉·克雷索恩还讲授《圣经》，霍尔柯特在其《六条论纲》（*Sex articuli*）中大概正是在回应克雷索恩的论证。维也纳藏有一部手稿，其中可能是克雷索恩的四十二个自由论题（Richter 1972）[^richter-1972]，但这些论题大多与其《箴言四书问答》（*Questions on the Sentences*；即 *Quaestiones super librum sententiarum*）中的论题相似。
 
@@ -80,7 +80,7 @@
 
 ## 相关词条
 
-亚里士多德 | 古代原子论 | 罗吉尔·培根 | 让·布里丹 | 沃尔特·查顿 | 罗伯特·霍尔柯特 | 威廉·奥卡姆
+亚里士多德 | 古代原子论 | 罗吉尔·培根 | 让·布里丹 | 沃尔特·查顿 | 罗伯特·霍尔柯特 | 奥卡姆的威廉
 
 [^quaestiones-1988]: *Quaestiones super librum sententiarum*, ed. F. Hoffmann in *Quästionen Zum ersten Sentenzenbuch*, Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters, Band 29, Aschendorff: Münster, 1988.
 
