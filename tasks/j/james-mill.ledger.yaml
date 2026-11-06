@@ -255,128 +255,170 @@ segments:
     kind: body
     source: |-
       Against Rousseau and other opponents of representation *tout court* Mill maintains that representative government is “the grand discovery of modern times,” inasmuch as it allows the interests of the many to be represented efficiently and expeditiously by the few—so long, that is, as the many have the vote in order to register their views and can moreover hold the few strictly accountable for their actions while in office. Properly structured, such a system serves to enhance liberty, since it frees most people from the burdensome and time-consuming business of governing, thereby allowing them to get on with their more productive individual pursuits and, most especially, their productive labors (Mill 1992, 21).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      针对卢梭及一切反对代议制的人，密尔主张，代议制政府是“近代的伟大发现”，因为它能让多数人的利益由少数人高效而迅速地代表——只要多数人拥有选票以表达其观点，并且能让少数人在任期内严格为其行为负责。结构得当的这种制度有助于增进自由，因为它使多数人从繁重而耗时的治理事务中解脱出来，从而得以继续从事更有产出的个人追求，尤其是生产劳动（Mill 1992, 21）。
+    step2: |-
+      密尔驳卢梭及一切反对代议制者，谓代议政府乃“近代之大发现”：能使多数之利由少数效而速地代表之——惟多数须有选举权以达其意，且能严责少数在任之行。此制果结构得宜，则足增自由：使多数免于治理之繁重耗时，而得专力于更有产出之个人追求，尤其生产之劳动（Mill 1992, 21）。
   - id: 32
     kind: body
     source: |-
       But it was against Tory and Whigs who defended “virtual representation” and advocated slow and piecemeal reform of the representative system that Mill’s main arguments were directed. He holds that the very idea of virtual representation is a recipe for misgovernment, corruption, and the triumph of the aristocratic or “sinister interests” of the few at the expense of the many. The public interest can be represented only in so far as the public, or a considerably enlarged portion thereof, has the vote. Mill is a radical individualist in that he insists that each person is the best, perhaps indeed the only, judge of what his own interests are. And if—as he also insists—the public interest is the sum of all individual non-sinister interests, it follows that the wider the franchise, the more truly representative the government. Mill deemed any defense of a greatly restricted franchise and virtual representation to be arguments against representative government itself. *Pace* Ricardo, Mill had not really managed to avoid giving *Government* “the appearance of an essay on Reform of Parliament” (Ricardo 1820, 211)[^ricardo-1820].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但密尔的主要论证是针对那些为“实质代议”辩护、主张对代议制作缓慢而零碎改革的托利党人与辉格党人。他认为，实质代议这一观念本身就是治理不善、腐败以及少数人的贵族式或“阴私利益”牺牲多数人而获胜的方子。公共利益只有在公众——或其中大为扩大的部分——拥有选票时才能被代表。密尔是激进的个人主义者，他坚持每个人都是自己利益的最佳判断者，也许还是唯一判断者。而如果——他也坚持——公共利益是所有个人非阴私利益的总和，那么选举权越广，政府就越真正具有代表性。密尔认为，任何为严格限制选举权与实质代议所作的辩护，都是反对代议制政府本身的论证。尽管李嘉图有言，密尔实际上并未能避免让《论政府》“带有议会改革论的样子”（Ricardo 1820, 211）[^ricardo-1820]。
+    step2: |-
+      然密尔主要所驳，乃为“实质代议”辩护、主张代议制缓慢零碎改革的托利、辉格诸人。彼谓实质代议之念，本身即治理不善、腐败与少数贵族式“阴私利益”取胜之方，其胜以多数为代价。公共利益唯在公众——或其中大增之部分——有选举权时乃能得代表。密尔乃激进个人主义者，谓人人于己利为最佳之判者，或且为唯一之判者。又谓公共利益即一切个人非阴私利益之总和，则选举权愈广，政府愈真为代议。故凡为严限选举权与实质代议作辩者，密尔皆视为反对代议政府本身之论。虽李嘉图有言，密尔实未能免使《论政府》“有议会改革论之貌”（Ricardo 1820, 211）[^ricardo-1820]。
   - id: 33
     kind: body
     source: |-
       ### 4.2 The Meritocratic “Middle Rank”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.2 精英制的“中间等级”
+    step2: |-
+      ### 4.2 精英制的“中间等级”
   - id: 34
     kind: body
     source: |-
       Mill’s view that each individual is the best judge of his own interests appears to stand in stark contrast with his praise and apparent privileging of one particular collectivity—the “middle rank, … that intelligent, that virtuous rank … which gives to science, to art, and to legislation itself, their most distinguished ornaments, and is the chief source of all that has exalted and refined human nature…” It is to this middle rank—the forerunner of the modern “meritocracy”—that common laborers look for advice and guidance, especially in moral and political matters (Mill 1992, 41–42). Although such remarks have struck many modern commentators as a militant defense of middle class power and privilege, it is, in fact, nothing of the sort. Mill rarely uses the phrase “middle class,” preferring instead the more archaic “middle rank.” And this, once again, underscores the continuing importance of Mill’s Scottish education. The notion of “ranks,” as analyzed at length in John Millar’s *Origin of the Distinction of Ranks* (1806), had left a deep impression. Millar’s (and Mill’s) “ranks” are not (quite) “classes” in our modern sense—that is, purely descriptive, fairly distinct, and normatively neutral socio-economic entities—but are instead meant to pick out people of particular intellectual merit and to mark gradations of moral and civic influence.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      密尔认为每个人都是自己利益的最佳判断者，这一观点似乎与他赞扬并显然推重某一特定集合体形成尖锐对照——那就是“中间等级，……那个有智慧、有德性的等级……它为科学、艺术乃至立法本身提供了最杰出的装饰，是一切提升并精化人性之物的主要源泉……”普通劳动者正是向这个中间等级——现代“精英制”的前身——寻求建议与指导，尤其是在道德与政治事务上（Mill 1992, 41–42）。虽然这类言论让许多现代评论者觉得是在为中等阶级的权力与特权作激进的辩护，但事实上绝非如此。密尔很少使用“中等阶级”一词，而更喜欢较古的“中间等级”。这又一次突显了密尔所受苏格兰教育的持续重要性。“等级”这一概念，如约翰·米拉在《等级差别的起源》（1806）中所详析的那样，给他留下了深刻印象。米拉（以及密尔）的“等级”并不（完全）是我们现代意义上的“阶级”——即纯粹描述性的、相当分明的、价值中立的社会经济实体——而是意在指认出具有特定智识优点的人，并标示道德与公民影响力的等差。
+    step2: |-
+      密尔谓人人于己利为最佳之判者，此说似与其称美、且显然推重某一集合体大相龃龉——即“中间等级，……那个明智而有德的等级……凡科学、艺术乃至立法本身之最著之饰，皆自之出；凡所以提升而精化人性者，亦以之为首源……”凡劳动者，于道德、政治之事，皆就此中间等级——今之“精英制”之前身——而求教取则（Mill 1992, 41–42）。今之论者多以此为中等阶级权力与特权之悍然辩护，然实不然。密尔罕用“中等阶级”之语，而好较古之“中间等级”。此又见其苏格兰教育遗泽之深。“等级”之念，约翰·米拉《等级差别的起源》（1806）尝详析之，于密尔印象至深。米拉（与密尔）所谓“等级”，非（尽）今之“阶级”——纯粹描述、界限分明、价值中立之社会经济实体——乃指智识有以过人者，而标示道德与公民影响之等第。
   - id: 35
     kind: body
     source: |-
       Mill is quite careful to distinguish between a “class” and a “rank.” The members of a “class” are united by shared (and usually selfish or “sinister”) interests. Members of the “middle rank,” by contrast, are marked more by their education, intellect, and public-spiritedness than by their wealth or any other social or economic characteristics. They are “universally described as both the most wise and the most virtuous part of the community which”—Mill adds acidulously—“is not the Aristocratical [class]” (Mill 1992, 41). Members of the middle rank owe their position not to accident of birth but to “the present state of education, and the diffusion of knowledge” among those anxious to acquire it. By these lights the “radical tailor” Francis Place, the stockbroker David Ricardo, the wealthy philanthropist Jeremy Bentham, the Quaker editor William Allen, and even James Mill himself—although not all “middle class” by modern standards—belonged to the esteemed middle rank. Clearly, then, the idea of a middle rank cuts across the kinds of class divisions with which we are familiar today. Hence any attempt to classify Mill as an apologist for “the middle-class” *simpliciter* is anachronistic and rather wide of the mark. He is instead an early defender, *avant la lettre*, of the idea of a meritocracy whose members are drawn from all classes and walks of life.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      密尔颇为仔细地区分“阶级”与“等级”。“阶级”的成员由共同（通常是自私的或“阴私的”）利益联合起来。相比之下，“中间等级”的成员更多以其教育、智识与公共精神见称，而非其财富或任何其他社会、经济特征。他们“被普遍描述为共同体中最明智也最有德性的部分，而这个部分”——密尔尖刻地补充说——“不是贵族〔阶级〕”（Mill 1992, 41）。中间等级的成员之所以有其地位，并非由于出身的偶然，而是由于“教育的现状与知识的传播”普及于那些渴望求知的人。依此标准，“激进裁缝”弗朗西斯·普莱斯、股票经纪人李嘉图、富裕的慈善家边沁、贵格会编辑威廉·艾伦，乃至詹姆斯·密尔本人——尽管按现代标准并非都属于“中等阶级”——都属受人尊敬的中间等级。可见，中间等级的观念横切我们今天所熟悉的那些阶级划分。因此，任何把密尔归类为纯然“中等阶级”辩护者的尝试都是时代错置，且相当不得要领。毋宁说，他是精英制观念的早期辩护者（avant la lettre），其成员来自一切阶级与行业。
+    step2: |-
+      密尔于“阶级”与“等级”之别，辨析颇谨。“阶级”之分子，以共同（多为自私或“阴私”）之利相合。“中间等级”之分子，则以其教育、智识、公共精神见称，非以财货或其他社会、经济之性。彼等“通称为共同体中最明智、最有德之一部分，而此部分”——密尔复加讥刺——“非贵族〔阶级〕”（Mill 1992, 41）。中间等级之人，其位非由出身之偶然，乃由“教育之现状与知识之传布”及于愿学之人。以此为准，则“激进裁缝”弗朗西斯·普莱斯、证券经纪李嘉图、富而好施之边沁、贵格会主笔威廉·艾伦，乃至密尔本人——虽以今准未必尽属“中等阶级”——皆在此可贵之中间等级中。可见中间等级之念，横贯今人所习知之阶级分界。故欲以密尔为纯然“中等阶级”之辩护士者，乃时代错置，且去其实甚远。密尔实为精英制观念之早期辩护者（avant la lettre），其成员出于诸阶级、诸行业。
   - id: 36
     kind: body
     source: |-
       ### 4.3 The Reception of *Government*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.3 《论政府》的接受
+    step2: |-
+      ### 4.3 《论政府》的接受
   - id: 37
     kind: body
     source: |-
       The idea that Mill was an apologist for middle-class interests was, of course, a later development. But what of his contemporaries’ views of the *Essay on Government*? For so short an essay, Mill’s *Government* proved to be remarkably controversial in his own day. Tories and Whigs thought its message wildly and even dangerously democratic, while many of Mill’s fellow Utilitarians—including Bentham, John Stuart Mill, and William Thompson—believed that he did not go nearly far enough in advocating an extension of the franchise. Although more “democratic” in private discussion, Mill publicly advocated extending the franchise to include all male heads of household over the age of forty, leaving them to speak for and represent the interests of younger men and all women:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      密尔是中等阶级利益的辩护者这一想法，当然是后来才发展出来的。那么他的同代人如何看待《论政府》呢？对于一篇如此短的文章，密尔的《论政府》在他自己的时代引起了非同寻常的争议。托利党人与辉格党人认为其主张狂放乃至危险地民主，而密尔的许多功利主义同道——包括边沁、约翰·斯图亚特·密尔与威廉·汤普森——则认为他在主张扩大选举权方面走得远远不够。密尔在私下讨论中更为“民主”，但在公开场合，他主张把选举权扩展到所有四十岁以上、身为户主的男性，让他们代表较年轻的男子与所有妇女发言并代表其利益：
+    step2: |-
+      以密尔为中等阶级利益之辩护士，乃后起之说。至若其同时之人于《论政府》之观感，则何如？文虽短，而在当日争议甚烈。托利、辉格之徒，以其说狂放，甚至危殆而近于民主；而密尔之功利同道——边沁、约翰·斯图亚特·密尔、威廉·汤普森诸人——则谓其于广选举权之事，所进远远未足。密尔私论较“民主”，而公言则主以选举权予四十岁以上之为户主之男子，使代表年少男子与一切妇女，而为其发言、为其利益：
   - id: 38
     kind: body
     source: |-
       > One thing is pretty clear, that all those individuals whose interests are indisputably included in those of other individuals, may be struck off without inconvenience. In this light may be viewed all children, up to a certain age, whose interests are involved in those of their parents. In this light, also, women may be regarded, the interest of almost all of whom is involved either in that of their fathers or in that of their husbands (Mill 1992, 27).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 有一点颇为清楚：凡其利益无可争辩地包含在他人利益之中的个人，都可被划去而不致不便。在此意义上，可看待一切未及某年龄的儿童，其利益包含在其父母的利益之中。同样，也可如此看待妇女，她们几乎全体的利益或包含在其父的利益中，或包含在其夫的利益中（Mill 1992, 27）。
+    step2: |-
+      > 有一事甚明：凡其利无可争辩地包于他人之利中者，皆可削去而无不便。一切未及某岁之孩童，其利包于父母之利中者，可作此观。妇女亦可作此观：其利几乎尽包于其父或其夫之利中（Mill 1992, 27）。
   - id: 39
     kind: body
     source: |-
       This, his eldest son later remarked, was “the worst [paragraph] he ever wrote” (J.S. Mill 1961, 98)[^mill-1961]. Most of Mill’s critics were quick to seize upon it, if only because its conclusion contradicts two of Mill’s oft-stated premises, namely that each of us is the best judge of our own interests and that anyone having unchecked power is bound to abuse it. As William Thompson argued in *Appeal of One Half the Human Race* (1825), Mill’s premises pointed to the widest possible extension of the franchise, and not to the exclusion of “one half the human race,” viz. all women.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      他的长子后来评论说，这是“他写过的最糟的〔一段〕”（J.S. Mill 1961, 98）[^mill-1961]。密尔的批评者大多急于抓住这一点，哪怕只是因为其结论与密尔屡次申说的两个前提相矛盾：即我们每个人都是自己利益的最佳判断者；以及任何拥有不受制约之权力的人都必然会滥用它。正如威廉·汤普森在《人类半数的呼吁》（1825）中所论证的，密尔的前提指向尽可能广泛地扩展选举权，而不是把“人类的一半”即所有妇女排除在外。
+    step2: |-
+      其长子后评曰：此乃“其生平所写最劣之〔一段〕”（J.S. Mill 1961, 98）[^mill-1961]。密尔之论敌多急取此以为口实，亦以其结论与密尔屡申之二前提相牾：一者，人人于己利为最佳之判者；二者，凡握无制之权者必滥用之。威廉·汤普森《人类半数的呼吁》（1825）谓：密尔之前提，当指选举权尽可能之广，而非排“人类之半”即一切妇女于外。
   - id: 40
     kind: body
     source: |-
       ### 4.4 Macaulay’s “Famous Attack”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 4.4 麦考利的“著名攻击”
+    step2: |-
+      ### 4.4 麦考利的“著名攻击”
   - id: 41
     kind: body
     source: |-
       Always the critic, Mill was himself a frequent target of criticism, much of which came from quarters hostile to the kinds of sweeping reforms favored by Bentham and the philosophic radicals. Mill’s *Essay on Government* first appeared in 1820, and was subsequently reprinted in editions of his *Essays* in 1823, 1825, and 1828, which reached an ever wider audience, including (Mill boasted) “the young men of the Cambridge Union.” Fearing that the cause of moderate reform was in danger from Mill and the philosophic radicals, Whig polemicists weighed in against Mill. One of them, Sir James Mackintosh (1765–1832), was an old Whig stalwart with a plodding and ofttimes pompous prose style. The other, T. B. Macaulay (1800–1859), was a much younger and altogether more formidable foe.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      密尔本人既是批评者，也常是批评的目标，其中许多批评来自那些敌视边沁与哲学激进派所主张的大刀阔斧改革的阵营。密尔的《论政府》初版于 1820 年，其后于 1823、1825、1828 年收入其《文集》各版重印，读者日益广泛，包括（密尔自夸）“剑桥联盟的年轻人”。由于担心温和改革的事业会因密尔与哲学激进派而受损，辉格党的论辩家们加入了对密尔的攻击。其中一位詹姆斯·麦金托什爵士（1765–1832）是辉格党的老骨干，文风拖沓而时常浮夸。另一位 T. B. 麦考利（1800–1859）则年轻得多，也远为强劲的对手。
+    step2: |-
+      密尔既好讥评，亦屡为讥评之的；其讥多出于敌视边沁与哲学激进派大刀阔斧之改革的阵营。密尔《论政府》初刊于 1820 年，后于 1823、1825、1828 年入其《文集》各版重印，读者日广，兼及（密尔自诩）“剑桥联盟之少年”。辉格论者虑温和改革之事将为密尔与哲学激进派所累，遂起而攻之。其一为詹姆斯·麦金托什爵士（1765–1832），辉格旧宿，文风拖沓，时或浮夸；其一为 T. B. 麦考利（1800–1859），年少而远为劲敌。
   - id: 42
     kind: body
     source: |-
       Macaulay’s “Mill on Government,” published in the March 1829 issue of *The Edinburgh Review*, is a remarkable mixture of logical criticism, irony, mordant wit, and droll parody. That Mill’s *Essay on Government* is remembered at all today doubtless owes something to Macaulay’s memorable critique. The most remarkable feature of Macaulay’s critique is that it seems to be largely aloof from particular political issues, focusing instead on what we would nowadays call methodological matters. The twenty-eight-year-old Macaulay defends the “historical” or “inductive” approach to the study of politics against his older adversary’s abstract, ahistorical, and “deductive” method. Macaulay maintains that we learn more from “experience” than from “theory,” and had best beware of the simplifications and “sophisms” to be found in Mill’s *Essay on Government*. The most pernicious of these is the “law” that men act always on the basis of self-interest. This law, Macaulay counters, is either trivially true (because logically circular) or patently false; in either case it hardly suffices as a foundation upon which to erect an argument for radical reform, much less a comprehensive theory of politics. And if Mill’s deductive logic fails, the entire edifice—including his supposedly “scientific” arguments in favor of radical reform—collapses with it (Macaulay 1992).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      麦考利的《密尔论政府》，刊于 1829 年 3 月号《爱丁堡评论》，是逻辑批评、反讽、尖刻机智与滑稽戏仿的奇妙混合。密尔的《论政府》今日仍被人记得，无疑多少要归功于麦考利那篇令人难忘的批评。麦考利批评最显著的特点，是它似乎在很大程度上超脱于具体政治议题，而专注于我们今天会称为方法论的问题。二十八岁的麦考利为研究政治的“历史的”或“归纳的”进路辩护，以及对年长对手那种抽象的、非历史的、“演绎的”方法。麦考利主张，我们从“经验”中学到的多于从“理论”中学到的，最好提防密尔《论政府》中的简化与“诡辩”。其中最有害的，是“人总是依据自利而行动”这条“规律”。麦考利反驳说，这条规律要么平凡地为真（因为逻辑上循环），要么显然为假；无论哪种情况，它都不足以充当基础，来支撑为激进改革所作的论证，更不用说一套完整的政治理论了。而如果密尔的演绎逻辑失败，整个大厦——包括他为激进改革所作的所谓“科学的”论证——也随之崩塌（Macaulay 1992）。
+    step2: |-
+      麦考利之《密尔论政府》，刊于 1829 年 3 月《爱丁堡评论》，合逻辑之驳、反讽、辛辣之智与滑稽之戏仿于一炉。密尔《论政府》至今犹为人所记，盖亦赖麦考利此篇警策之评。其评最可注意者，在似多超然于具体政争，而专意于今所谓方法论之事。麦考利年二十八，为治政治之“历史的”或“归纳的”进路张目，以攻其年长论敌抽象、非历史而“演绎的”方法。麦考利谓吾人于“经验”所得，多于“理论”，而当谨防密尔《论政府》中简化与“诡辩”之处。其最有害者，为“人常依自利而行”之“律”。麦考利驳之曰：此律非琐屑而真（以其逻辑循环），即显然为假；二者皆不足以充为基础，以立激进改革之论，遑论一完整之政治理论。密尔演绎之逻辑既败，则其全构——包括其为激进改革所设“科学的”论证——亦随之而倾（Macaulay 1992）。
   - id: 43
     kind: body
     source: |-
       That James Mill, fierce polemicist that he was, did not respond quickly and with no holds barred seems surprising, to say the least. His eldest son offers one possible explanation. In his *Autobiography* J. S. Mill remarks that “I was not at all satisfied with the mode in which my father met the criticisms of Macaulay. He did not, as I thought he ought to have done, justify himself by saying, ‘I was not writing a scientific treatise on politics. I was writing an article for parliamentary reform’. He treated Macaulay’s argument as simply irrational; an attack upon the reasoning faculty; an example of the saying of Hobbes, that when reason is against a man, a man will be against reason (J.S. Mill 1873, 165, 167)[^mill-1873].”
-    step1: TBD
-    step2: TBD
+    step1: |-
+      詹姆斯·密尔身为激烈的论辩家，却没有迅速而无保留地回应，这至少可以说令人惊讶。他的长子提供了一种可能的解释。J. S. 密尔在《自传》中说：“我对我父亲回应麦考利批评的方式全然不满。他本应像我设想的那样，以说‘我并不是在写一篇关于政治的科学论文，我是在为议会改革写一篇文章’来自辩。他却把麦考利的论证当作完全非理性的东西；当作对理性能力的攻击；当作霍布斯那句话的例证：当理性与人作对时，人就会与理性作对（J.S. Mill 1873, 165, 167）[^mill-1873]。”
+    step2: |-
+      密尔素为健于论辩之人，而其于麦考利之评，竟不速答、不尽言，殊可异也。其长子尝为之解。J. S. 密尔《自传》云：“吾于吾父应麦考利之评之法，殊不惬意。彼当如吾所期，自辩曰：‘吾非为政治之科学论著，乃为议会改革而属文也。’然彼径以麦考利之论为无理之谈，为攻理性之能，为霍布斯所谓‘理性既与人相违，人亦将与理性相违’之一例（J.S. Mill 1873, 165, 167）[^mill-1873]。”
   - id: 44
     kind: body
     source: |-
       Yet the younger Mill’s account of his father’s reaction to Macaulay’s “famous attack” (as the son later described it) is misleading in at least two respects. In the first place, James Mill did not, and given his own premises could not, distinguish between a “scientific treatise on politics” and a coherent and compelling argument for “parliamentary reform.” For he believed that any reforms that were workable and worth having could be based only on an adequately scientific theory of politics. The *Essay on Government* was intended to be both, if only in brief outline. Moreover, the younger Mill leaves the impression that his father, although angered by the attack, never replied to Macaulay. But this is untrue.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，小密尔关于父亲对麦考利“著名攻击”（其子后来如此形容）之反应的叙述，至少在两个方面有误导性。第一，詹姆斯·密尔没有、而且依据他自己的前提也不能区分“关于政治的科学论著”与为“议会改革”所作的连贯而有力的论证。因为他相信，任何可行而值得拥有的改革，都只能建立在充分科学的政治理论之上。《论政府》本意是两者兼具，哪怕只是简要纲要。其次，小密尔给人留下的印象是，其父虽被攻击激怒，却从未答复麦考利。但这是不实的。
+    step2: |-
+      然小密尔述其父于麦考利“著名之攻”（其子后语）之应，至少二处有误。其一，詹姆斯·密尔未尝、且以其自设之前提亦不能分“政治之科学论著”与为“议会改革”之连贯有力之论证。盖彼信凡可行而可欲之改革，必本于足称科学之政治理论；《论政府》之意，正在兼二者而有之，虽仅具纲要。其二，小密尔使人以为其父虽怒于攻，而未尝答麦考利。此则不然。
   - id: 45
     kind: body
     source: |-
       For a time James Mill tried, without success, to persuade his friend and fellow Benthamite Etienne Dumont to reply to “the curly-headed coxcomb, who only abuses what he does not understand” (Mill to Dumont, 1829b). In the meantime there appeared Sir James Mackintosh’s *Dissertation on Ethical Philosophy* (1830) in which Mill’s *Essay on Government* was singled out for special censure. There was nothing new in this; but what caught Mill’s eye was that Mackintosh’s mode and manner of argument was borrowed, as the author acknowledged, from “the writer of a late criticism on Mr. Mill’s Essay.—See Edinburgh Review, No. 97, March 1829.” “This,” says Mill with evident relish, “is convenient; because the answer, which does for Sir James, will answer the same purpose with the Edinburgh Review” (Mill 1992, 305). Of course, the “writer of a late criticism” to whom Mackintosh refers was none other than Macaulay, whom the elder Mill then proceeds to answer in the guise of replying to Mackintosh.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      有一段时间，詹姆斯·密尔曾试图（未成功）说服其友、功利主义同道艾蒂安·杜蒙去回应“那个卷毛花花公子，他只诋毁自己不懂的东西”（Mill to Dumont, 1829b）。与此同时，詹姆斯·麦金托什爵士的《伦理哲学论》（1830）问世，其中密尔的《论政府》被特别挑出来责难。这本身并无新意；但引起密尔注意的是，麦金托什的论证方式与风格，据作者自己承认，是借自“最近一篇批评密尔先生《论政府》之文的作者。——见《爱丁堡评论》第 97 期，1829 年 3 月”。密尔带着明显的兴味说：“这倒方便；因为那个足以对付詹姆斯爵士的答复，也同样可以对付《爱丁堡评论》”（Mill 1992, 305）。当然，麦金托什所指的“最近一篇批评的作者”不是别人，正是麦考利；老密尔于是借答复麦金托什之名来答复他。
+    step2: |-
+      一时之间，詹姆斯·密尔欲使其友、功利同道艾蒂安·杜蒙应“彼卷发之纨绔，徒诋其所不解者”（Mill to Dumont, 1829b），而未果。会詹姆斯·麦金托什爵士《伦理哲学论》（1830）出，其中于密尔《论政府》特加责难。此固无新意；然密尔所见者：麦金托什之论证方式，据其自承，实借自“近有一篇评密尔先生《论政府》之文之作者——见《爱丁堡评论》第 97 期，1829 年 3 月”。密尔语带兴味曰：“此甚便；盖所以答詹姆斯爵士者，亦可以答《爱丁堡评论》也。”（Mill 1992, 305）麦金托什所称“近有一篇批评之作者”，非他人，正麦考利；老密尔遂托答麦金托什之名以答之。
   - id: 46
     kind: body
     source: |-
       In his reply Mill reiterates and defends the arguments advanced in his *Essay on Government*: all men—including rulers and representatives—are moved mainly if not exclusively by considerations of self-interest, and therefore the only security for good government is to be found in making the interests of representatives identical with those of their constituents. But, unlike the cool, detached, and ostensibly deductive *Essay on Government*, Mill’s reply contains a good deal of vitriol. He writes like a schoolmaster who, having lost all patience with a slow-witted pupil, is content to ridicule him before his cleverer classmates. The sight is not a pretty one, and shows James Mill at his polemical worst. Whether, or to what extent, such a splenetic rejoinder could suffice as a refutation is surely questionable.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在答复中，密尔重申并捍卫《论政府》所提出的论证：一切人——包括统治者与代表——主要（若非全部）受自利考虑驱动，因此良好政府的唯一保障，就在于使代表的利益与选民的利益同一。但与冷静、超然、表面上演绎的《论政府》不同，密尔的答复含有大量尖酸刻薄。他写来像一位塾师，对一个迟钝的学生失去了一切耐心，于是乐于在更聪明的同学面前讥笑他。这景象并不好看，显出詹姆斯·密尔论辩中最恶劣的一面。这样一篇怒气冲冲的答复能否、以及在多大程度上足以充当反驳，当然大可怀疑。
+    step2: |-
+      其答也，重申而力护《论政府》之说：凡人——并统治者与代表在内——大抵（若非尽然）为自利之虑所动；故良政之唯一保障，在使代表之利与选民之利同一。然其答不似《论政府》之冷静超然、貌似演绎，而多尖刻之词。其文如塾师之于钝徒，既尽失其耐，乃乐当聪慧诸生之前而嘲之。此景不雅，足见詹姆斯·密尔论辩之最下者。若是悻悻之答，果能、抑几何能，足以当驳论之名，自可疑也。
   - id: 47
     kind: body
     source: |-
       ## 5. Other Related Writings
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 5 其他相关著作
+    step2: |-
+      ## 5 其他相关著作
   - id: 48
     kind: body
     source: |-
       Although none of Mill’s other essays—save, perhaps, “The Church, and Its Reform” (1835)—proved so controversial, each expands upon points made in passing in the *Essay on Government*. *Jurisprudence* deals extensively with rights—what they are, by whom they are defined, and how they are best protected. In a similar vein and in a way that anticipates (and arguably influenced) the younger Mill’s *On Liberty* (1859) *Liberty of the Press* defends the right of free speech and discussion against arguments in favor of restriction and censorship. Free government requires the free communication of ideas and opinions, and good government requires an informed and critical citizenry. For both, a free press is an indispensable instrument.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      密尔的其他文章——也许除了《教会及其改革》（1835）——都没有引起如此大的争议，但每一篇都扩展了《论政府》中顺带提及的要点。《法理学》广泛讨论权利——权利是什么、由谁界定、如何得到最好的保护。与此相类，且以某种方式预示（可以说也影响了）小密尔的《论自由》（1859），《出版自由》为言论与讨论的自由辩护，以及对主张限制与审查的论证。自由政府要求思想与意见的自由交流，良好政府要求有见识而具批判精神的公民。对两者而言，自由的出版都是不可或缺的工具。
+    step2: |-
+      密尔他文——惟《教会及其改革》（1835）或为例外——皆未若此之争议，然各申《论政府》所偶及之义。《法理学》详论权利：权利为何、由谁界定、如何护之最善。其《出版自由》亦以类此之旨，且预示（可谓影响）小密尔之《论自由》（1859），为言论讨论之自由辩护，以驳限制、审查之论。自由之政府须思想意见之自由交通，良善之政府须有识而能批判之公民；二者皆以自由之出版为不可缺之器。
   - id: 49
     kind: body
     source: |-
       In the essay on *Education* Mill describes the conditions most conducive to creating good men and, more particularly, good citizens. Civic or “political education,” he says, is “the key-stone of the arch; the strength of the whole depends upon it” (Mill 1992, 193). Mill was fond of quoting Helvetius’s dictum *l’éducation peut tout* (“education makes everything possible”). And certainly no other political thinker, save perhaps Plato and Thomas Jefferson, set greater store by education than did James Mill. As we discuss in Section 6, by “education” Mill meant not only domestic education or formal schooling, but all the influences that go into forming one’s character and outlook, including the influence of social and political institutions.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《论教育》一文中，密尔描述了最有利于造就好人、尤其是好公民的条件。他说，公民的或“政治的”教育是“拱门的拱心石；整体的力量都取决于它”（Mill 1992, 193）。密尔喜欢引用爱尔维修的名言 *l’éducation peut tout*（“教育无所不能”）。诚然，除柏拉图与托马斯·杰斐逊之外，也许没有别的政治思想家比詹姆斯·密尔更重视教育。正如我们在第 6 节所论，密尔所谓“教育”，不仅指家庭教育或正规学校教育，而且指一切参与塑造一个人性格与眼界的影响，包括社会与政治制度的影响。
+    step2: |-
+      《论教育》一篇，述最宜于造就善人、尤善公民之条件。其言公民的或“政治的”教育，乃“拱门之拱心石；全体之力系焉”（Mill 1992, 193）。密尔好引爱尔维修之语 *l’éducation peut tout*（“教育无所不能”）。盖除柏拉图、托马斯·杰斐逊而外，恐无政治思想家之重教育过于詹姆斯·密尔者。如第 6 节所论，密尔所谓“教育”，不独家庭教育与正式学校，举凡塑造人之性格与眼界之一切影响，包括社会政治制度之影响，皆在其中。
   - id: 50
     kind: body
     source: |-
       In *Prisons and Prison Discipline* Mill applies his theory of education to penal reform. Just as one’s character can be well moulded by a good education, so too may one’s character be badly moulded through miseducation. The latter, Mill maintains, is especially evident in the criminal class. Criminals commit crimes and are sent to prison because they have been badly educated. Punishment, properly understood, is a kind of remedial education, and prison, properly structured, presents the opportunity to re-mould inmates’ misshapen characters. *Prisons and Prison Discipline* delineates the types of punishments likely to deter offenders or, failing that, to re-mould and re-educate criminals to be productive members of society. In these and other respects Mill’s theory of punishment mirrors Plato’s. Like Plato, Mill draws a sharp distinction between punishing someone and harming him. The purpose of punishment is to reform (literally re-form) the soul or character of the inmate so that he may be released into society without fear that he will harm others. But to harm someone is to make him worse, and an even greater danger to society (Ball 1995, ch. 7)[^ball-1995].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《监狱与狱政》中，密尔把其教育理论应用于刑罚改革。正如良好的教育可以塑成良好的性格，错误的教育也可以塑成恶劣的性格。密尔主张，后者在犯罪阶层中尤为明显。罪犯之所以犯罪并被送进监狱，是因为他们受过恶劣的教育。正确理解的惩罚是一种补救性教育，而结构得当的监狱则提供了重塑囚犯畸形性格的机会。《监狱与狱政》勾画出可能威慑罪犯、或在不能威慑时重塑并再教育罪犯使之成为社会生产成员的各种惩罚类型。在这些及其他方面，密尔的惩罚理论映照了柏拉图。与柏拉图一样，密尔严格区分惩罚某人与伤害某人。惩罚的目的是改造（字面意义上重新塑造）囚犯的灵魂或性格，使他获释进入社会时不必担心他会伤害他人。而伤害某人就是使他变得更坏，对社会构成更大的危险（Ball 1995, ch. 7）[^ball-1995]。
+    step2: |-
+      《监狱与狱政》以教育之说施于刑罚之改。善教可以成善性，谬教亦可以成恶性；密尔谓后者于犯罪之群尤显。罪犯之犯罪而系狱，以其受教不良也。罚之善解者，乃补救之教；狱之善构者，乃重塑囚徒畸形性格之机。《监狱与狱政》条列刑罚诸型，或足以慑服犯者，不能则重塑而再教之，使为社会生产之一员。凡此诸端，密尔之罚论皆与柏拉图相映。如柏拉图，密尔严辨“罚其人”与“害其人”：罚之的，在改（字面所谓重塑）囚徒之灵魂或性格，使其出狱而无害人之虞；害之者，则使之愈恶，而为社会之更大患（Ball 1995, ch. 7）[^ball-1995]。
   - id: 51
     kind: body
     source: |-
       Mill envisaged a society inhabited by active citizens, always on their guard against rulers or representatives who would violate their rights and deprive them of their liberties. This, after all, is the central theme of the *Essay on Government*, and the thrust of the argument of Mill’s article *The Ballot*, published in 1830 as a contribution to the public debate preceding the passage of the 1832 Reform Act. Mixing logical acuity with withering ridicule, Mill restates and refutes arguments against extending the franchise and introducing the secret ballot. Only those with sinister interests could oppose such reform.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      密尔设想的社会，由积极的公民居住，他们时刻警惕着那些会侵犯其权利、剥夺其自由的统治者或代表。这毕竟是《论政府》的中心主题，也是密尔 1830 年发表的文章《投票》的论证要旨——该文是为 1832 年改革法案通过前的公共辩论而作。密尔把逻辑的锐利与摧枯拉朽的讥讽结合起来，重述并驳斥了反对扩大选举权与引入秘密投票的论证。只有心怀阴私利益者才会反对这样的改革。
+    step2: |-
+      密尔所设想之社会，居之者皆积极之公民，常备于犯其权利、夺其自由之统治者与代表。此实《论政府》之中心，亦密尔 1830 年《投票》一文之旨——其文为 1832 年改革法案前之公论而作。密尔合逻辑之锐与摧枯之讥，重述而驳反对广选举权、行秘密投票之论。惟怀阴私之利者，乃反对此改革。
   - id: 52
     kind: body
     source: |-
