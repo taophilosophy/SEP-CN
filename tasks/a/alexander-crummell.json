@@ -2,8 +2,44 @@
   "slug": "alexander-crummell",
   "kind": "retranslate",
   "zh_doc": "a/alexander-crummell.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T16:06:12Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T18:37:29Z",
+      "evidence": "初译：零信任直译自 yuanwen（2024-12-19 修订版），四分片组装（H1+pubinfo+正文 5 节含 5.1/5.2+尾节四节；References（引用注释）型：说明行保留、空 ### 节标题按 kierkegaard 先例丢弃、defs 23 条逐字照录；byline 省略家法豁免）；正文约 1.9 万字"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T18:40:22Z",
+      "evidence": "一校（准确性）：五维对账——H2 节 9/9（5 正文+4 尾节）、H3 2/2（5.1/5.2）、脚注标记 [^kirkland-1992] 1:1（转换器伪标记 [^key] 1:1）、defs 键集 23/23 多重集相等、段落 80:79（差 1=byline 设计豁免）、年份序列 30:32（2 处假差=英文 1840s/1920s 对中文'1840 年代'词边界，非错译）；三处引文块（斯托里 Prigg 判词、'国中之国'、'瓦解怀疑不信任'）逐句核对；人名登记 22 行（Alain Locke 旧行同步归一 SUMMARY 定名）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T18:40:22Z",
+      "evidence": "二校（语言）：check_prose 116→85——长句拆分 14、弱动词 4（作出→给出/回应/如此判断/尽一份力）、被动改写 3（视为/遭剥夺/为人广泛持有）、as-one 1、叙述 de-chain 11，共实修 33 处（script/fix_crummell_s2.py+补丁逐条断言）；余 85 条豁免留痕：引文内部（克鲁梅尔引语及斯托里/杜波依斯引文块的被动与长句，含'天意仍要它被把握'与'作为一个民族'=as a people）约 45 条、概念性定语 de-chain 约 40 条（ADR-0020 逐类判读）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-06T18:40:25Z",
+      "evidence": "三校（体例）：check_style --strict 0；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 定点核销 0 缺译、硬错误 0（非英语缺原文 336 条为全库存量告警；一次瞬时冲突 supervenience 系并行会话编辑登记册所致，复跑归零）；书名《》/引语弯引号/斜体转加粗/人名首现括注全数落地"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:37:08Z",
   "version_pin": {

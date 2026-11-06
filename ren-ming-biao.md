@@ -13,9 +13,11 @@
 | Abraham ibn Ezra | Abraham ibn Ezra | 亚伯拉罕·伊本·以斯拉（亦作“伊本·以斯拉”） | 语料回收（全目录） | 学界惯例（犹太哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Addams, Jane | — | 简·亚当斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Adolf Reinach | — | 阿道夫·莱纳赫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
-| Alain Locke | — | 阿兰·洛克 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Alain LeRoy Locke | — | 阿兰·勒罗伊·洛克 | alexander-crummell | 学界通行汉译（SUMMARY 定名沿用，alain-locke 词条既名） | 2026-11-07 |
+| Alain Locke | — | 阿兰·勒罗伊·洛克（亦作 阿兰·洛克） | 语料回收（全目录）；alain-locke/alexander-crummell | 学界通行汉译；SUMMARY 定名优先（2026-11-07 校正，与 Alain LeRoy Locke 行归一） | 2026-10-31 |
 | Albalag, Isaac | — | 以撒·阿尔巴拉格 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Alexander Bain | — | 亚历山大·贝恩 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Alexander Crummell | — | 亚历山大·克鲁梅尔 | alexander-crummell | SUMMARY 定名沿用（本词条主词） | 2026-11-07 |
 | Alexandre Koyré | Alexandre Koyré | 亚历山大·柯瓦雷 | 语料回收（全目录） | 学界惯例（科学革命史研究）；凭证 2026-11-01 | 2026-11-01 |
 | Allan Gibbard | — | 艾伦·吉伯德 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Allen Buchanan | — | 艾伦·布坎南 | 语料回收（全目录） | 学界惯例（政治哲学/生物伦理）；凭证 2026-11-01 | 2026-11-01 |
@@ -23,6 +25,7 @@
 | Ammonius Hermeiou | — | 赫尔米亚的阿莫尼俄斯（正文简作“阿莫尼俄斯”；旧形“阿摩尼奥斯·赫尔米埃”并档） | david | SUMMARY 定名沿用（学界通行汉译；古代晚期亚历山大里亚注疏家）；凭证 2026-11-06 深读 d/david 补登 | 2026-11-06 |
 | Amundson, Ron | — | Ron Amundson（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Amy Allen | — | 艾米·艾伦 | 语料回收（全目录） | 学界惯例（批判理论/女性主义）；凭证 2026-11-01 | 2026-11-01 |
+| Anna Julia Cooper | — | 安娜·朱莉娅·库珀 | alexander-crummell | 学界通行汉译（SUMMARY 定名沿用） | 2026-11-07 |
 | Annette Baier | — | 安内特·拜尔 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Anton Marty | — | 安东·马蒂 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Arago, Dominique François | Dominique François Arago | 阿拉戈 | duhem | 全名汉译『多米尼克·弗朗索瓦·阿拉戈』，正文简名首现括注；学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
@@ -45,6 +48,8 @@
 | Boethius, Anicius Manlius Severinus | — | 亚尼修·玛理乌斯·塞味利诺·波爱修斯 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Bohr, Niels | — | 玻尔 | 语料回收（lakatos 首译） | 物理学界千年通行汉译（丹麦物理学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bonaventure | — | 波纳文图拉 | 语料回收（marsilius-inghen 首译） | 学界千年通行汉译（中世纪神学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Booker T. Washington | — | 布克·托·华盛顿 | alexander-crummell | 学界通行汉译 | 2026-11-07 |
+| Boston Crummell | — | 波士顿·克鲁梅尔 | alexander-crummell | 克鲁梅尔之父，史料人物音译 | 2026-11-07 |
 | Bouty, Edmond | — | 埃德蒙·布蒂 | duhem | 学界惯例（物理学史通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Boniface IX | — | 卜尼法斯九世 | 语料回收（marsilius-inghen 首译） | 教皇通译惯例（教皇名从天主教传统译名）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Bradley, Francis Herbert | — | 弗朗西斯·赫伯特·布拉德雷 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -62,11 +67,13 @@
 | Cassirer, Ernst | — | 恩斯特·卡西尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Catharine MacKinnon | — | 凯瑟琳·麦金农 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Cauchy, Augustin-Louis | — | 柯西 | 语料回收（lakatos 首译） | 数学界千年通行汉译（法国数学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Charity Hicks | — | 查里蒂·希克斯 | alexander-crummell | 克鲁梅尔之母，史料人物音译 | 2026-11-07 |
 | Charles Mills | — | 查尔斯·米尔斯 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Chayet, Adèle | Adèle Chayet | 阿代尔·沙耶 | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06 | 2026-11-06 |
 | Cheng Hao | — | 程颢 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Christopher Peacocke | — | 克里斯托弗·皮科克 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Cheselden, William | — | 威廉·切塞尔登 | 语料回收（molyneux-problem 首译） | 医史学界通行汉译（英国外科医师，1728 年首例先天性白内障术后复明报告作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Cinque (Joseph Cinqué) | — | 辛凯 | alexander-crummell | 阿米斯塔德号暴动领袖通行译名 | 2026-11-07 |
 | Cockburn, Catharine Trotter | — | 凯瑟琳·特洛特·考克本 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Confucius | — | 孔子 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Columbus, Christopher | — | 哥伦布 | 语料回收（lakatos 首译） | 学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -99,6 +106,7 @@
 | Donna Haraway | — | 唐娜·哈拉维 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | Dirac, Paul | — | 狄拉克 | 语料回收（mathematics-inconsistent 首译） | 物理学界千年通行汉译；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Dostoevsky, Fyodor | — | 陀思妥耶夫斯基 | 语料回收（lakatos 首译） | 学界千年通行汉译（俄国作家；《群魔》作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Dred Scott | — | 德雷德·斯科特 | alexander-crummell | 德雷德·斯科特案通行汉译 | 2026-11-07 |
 | Duhem, Hélène | Hélène Duhem | 埃莱娜（迪昂之女） | duhem | 学界惯例（迪昂家人名音译）；凭证 2026-11-06 | 2026-11-06 |
 | Duns Scotus | — | 邓斯·司各脱（亦作“司各脱”） | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | Edith Stein | — | 艾迪特·施泰因 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -116,6 +124,7 @@
 | Foucault, Léon | Léon Foucault | 傅科 | duhem | 全名汉译『莱昂·傅科』，正文简名首现括注；学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Euclid | — | 欧几里得 | 语料回收（lakatos 首译） | 学界千年通行汉译（古希腊几何学家）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Fred Dretske | — | 弗雷德·德雷斯基 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Frederick Douglass | — | 弗雷德里克·道格拉斯 | alexander-crummell | SUMMARY 定名沿用（frederick-douglass 词条既名） | 2026-11-07 |
 | Friedrich Schiller | — | 弗里德里希·席勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Friedrich Schleiermacher | — | 弗里德里希·施莱尔马赫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Friedrich Waismann | — | 弗里德里希·魏斯曼 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -128,6 +137,7 @@
 | Ghiselin, Michael | — | Michael Ghiselin（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Giuseppe Peano | — | 朱塞佩·皮亚诺 | 语料回收（全目录） | 审定“皮亚诺”译名系（数学）；凭证 2026-11-01 | 2026-11-01 |
 | Gould, Stephen Jay | — | 斯蒂芬·杰伊·古尔德 | biology-philosophy | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
+| Gregory U. Rigsby | — | 格雷戈里·里格斯比 | alexander-crummell | 现代学者（传记作者），音译 | 2026-11-07 |
 | Grene, Marjorie | — | Marjorie Grene（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Gómez Pereira | Gómez Pereira | 戈麦斯·佩雷拉 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Gottlob Frege | — | 戈特洛布·弗雷格 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
@@ -135,6 +145,7 @@
 | Hans Hahn | — | 汉斯·哈恩 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hao Wang | — | 王浩 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hare, Richard Mervyn | — | 理查德·默尔文·黑尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
+| Harriet Scott | — | 哈丽雅特·斯科特 | alexander-crummell | 德雷德·斯科特之妻，史料人物音译 | 2026-11-07 |
 | Harriet Taylor | — | 哈丽雅特·泰勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hartry Field | — | 哈特里·菲尔德 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Hartshorne, Charles | — | 查尔斯·哈茨霍恩 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -159,12 +170,14 @@
 | James Ward | — | 詹姆斯·沃德 | 语料回收（全目录） | 学界惯例（英国观念论心理学家）；凭证 2026-11-01 | 2026-11-01 |
 | Jan Łukasiewicz | Jan Łukasiewicz | 扬·卢卡西维茨 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jason Stanley | — | 杰森·斯坦利 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Jennie Simpson | — | 珍妮·辛普森 | alexander-crummell | 克鲁梅尔继室，史料人物音译 | 2026-11-07 |
 | Jerrold Levinson | — | 杰罗德·莱文森 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Johannes Kepler | — | 约翰内斯·开普勒 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | John Dewey | — | 约翰·杜威 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | John Dupré | John Dupré | 约翰·杜普雷 | 语料回收（全目录） | 学界惯例（生物学哲学/分类学批判）；凭证 2026-11-01 | 2026-11-01 |
 | John Earman | — | 约翰·厄尔曼 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | John Harsanyi | — | 约翰·海萨尼 | 语料回收（全目录） | 审定“海萨尼”在案（博弈论）；凭证 2026-11-01 | 2026-11-01 |
+| John L. Wilson | — | 约翰·L·威尔逊 | alexander-crummell | 19 世纪传教士人种志学者，音译 | 2026-11-07 |
 | John Locke | — | 约翰·洛克 | 语料回收（全目录） | 学界通行汉译；审定库精确查无（termonline-all 浏览器通道 match=1，2026-10-30） | 2026-10-30 |
 | John MacFarlane | — | 约翰·麦克法兰 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
 | John Norton | — | 约翰·诺顿 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01） | 2026-11-01 |
@@ -175,6 +188,7 @@
 | John Wyclif | — | 约翰·威克里夫 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | John XXII | — | 约翰二十二世 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Jonathan Bennett | — | 乔纳森·贝内特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Joseph Story | — | 约瑟夫·斯托里 | alexander-crummell | 美国最高法院大法官通行汉译 | 2026-11-07 |
 | José Ortega | José Ortega | 何塞·奥尔特加 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Judith Butler | — | Judith Butler（现代学者正文保留英文；通行汉译“巴特勒”备查） | academic-freedom | 学界通行；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | King Milinda | — | 弥兰陀王（亦作“米兰达王”） | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
@@ -188,8 +202,10 @@
 | Lokert, George | — | 乔治·洛克特 | duhem | 学界惯例（中世纪逻辑学家音译）；凭证 2026-11-06 | 2026-11-06 |
 | Luxemburg, Rosa | — | 罗莎·卢森堡 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Lombard, Peter | — | 彼得·伦巴德 | 语料回收（marsilius-inghen 首译） | 中世纪研究通行汉译（《箴言四书》作者）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Marcus Garvey | — | 马库斯·加维 | alexander-crummell | 学界通行汉译 | 2026-11-07 |
 | Masham, Lady Damaris | — | 达玛里斯·库德沃斯·马沙姆 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Lysenko, Trofim | — | 李森科 | 语料回收（lakatos 首译） | 史学界通行汉译（苏联农学家，李森科事件主角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
+| Matthew Arnold | — | 马修·阿诺德 | alexander-crummell | 学界通行汉译 | 2026-11-07 |
 | Melissus | — | 麦里梭 | leucippus | 学界通行汉译（爱利亚学派）；待 specs/008 审定库复核 | 2026-11-03 |
 | Antoine Le Grand | — | 安托万·勒·格兰德 | legrand | SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Mill, Harriet Taylor | — | 哈丽雅特·泰勒·密尔 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
@@ -202,6 +218,7 @@
 | Philoponus, John | — | 菲洛波努斯（亦作“菲洛波诺斯”） | duhem；democritus | 学界惯例（古典晚期哲学家通行汉译；democritus 行同键异译并入亦作，2026-11-06 冲突消解）；凭证 2026-11-06 | 2026-11-06 |
 | Penrose, Roger | — | 彭罗斯 | 语料回收（mathematics-inconsistent 首译） | 数学物理界通行汉译（彭罗斯三角）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Picard, Emile | — | 埃米尔·皮卡尔 | duhem | 学界惯例（数学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
+| Roger B. Taney | — | 罗杰·B·坦尼 | alexander-crummell | 美国首席大法官通行汉译（叙述处作坦尼） | 2026-11-07 |
 | Rosenberg, Alexander | — | 亚历山大·罗森伯格 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Ruse, Michael | — | 迈克尔·鲁斯 | biology-philosophy | 学界通行汉译（《达尔文主义》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Rákosi, Mátyás | Mátyás Rákosi | 拉科西 | 语料回收（lakatos 首译） | 学界通行汉译（匈牙利共产党领袖）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -216,6 +233,7 @@
 | Anthony Wood | — | 安东尼·伍德 | legrand | 学界通行汉译（牛津古史家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Jacques Rohault | — | 雅克·罗奥 | legrand | 学界通行汉译（笛卡尔派物理学家）；待 specs/008 审定库复核 | 2026-11-03 |
 | Honoré Fabri | Honoré Fabri | 奥诺雷·法布里 | legrand | 学界通行汉译（耶稣会士-自然哲学家）；待 specs/008 审定库复核 | 2026-11-03 |
+| Sarah Mabitt Elston | — | 萨拉·马比特·埃尔斯顿 | alexander-crummell | 克鲁梅尔首任妻子，史料人物音译 | 2026-11-07 |
 | Schaffner, Kenneth F. | — | 肯尼思·F. 沙夫纳 | biology-philosophy | 学界通行汉译（科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | Schwarzschild, Karl | — | 史瓦西 | 语料回收（lakatos 首译） | 物理学界通行汉译（德国天文学家，史瓦西度规）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
 | Seneca | — | 塞涅卡 | legrand | 学界通行汉译（古典通行）；待 specs/008 审定库复核 | 2026-11-03 |
@@ -249,6 +267,7 @@
 | Smith, Adam | — | 亚当·斯密 | SUMMARY 定名（s/smith-moral-political.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Rosa Luxemburg | — | 罗莎·卢森堡 | luxemburg | 学界通行汉译（《卢森堡文选》通行）；待 specs/008 审定库复核 | 2026-11-03 |
 | Themo Judaeus | — | 特莫·尤达乌斯 | duhem | 学界惯例（中世纪学者音译）；凭证 2026-11-06 | 2026-11-06 |
+| Thomas Sidney | — | 托马斯·西德尼 | alexander-crummell | 克鲁梅尔友人（19 世纪画家），音译 | 2026-11-07 |
 | Torricelli, Evangelista | — | 托里拆利 | duhem | 学界惯例（物理学家通行汉译）；凭证 2026-11-06 | 2026-11-06 |
 | Vladimir Lenin | — | 弗拉基米尔·列宁 | luxemburg | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Vitoria, Francisco de | — | 弗朗西斯科·德·维多利亚 | 语料回收（marsilius-inghen 首译） | 西班牙经院哲学通行汉译（萨拉曼卡学派创始人）；审定库无相关命中（凭证 2026-11-06） | 2026-11-06 |
@@ -283,6 +302,7 @@
 | Augustus De Morgan | — | 奥古斯都·德摩根 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
 | Heinrich Scholz | — | 海因里希·肖尔茨 | leibniz-logic-influence | 学界通行汉译（《逻辑学史》作者）；待 specs/008 审定库复核 | 2026-11-03 |
 | Bernard Bolzano | — | 伯纳德·鲍尔查诺 | leibniz-logic-influence | 学界通行汉译；待 specs/008 审定库复核 | 2026-11-03 |
+| W. E. B. Du Bois | — | 杜波依斯 | alexander-crummell | 学界通行汉译（叙述处首现括注 W. E. B. Du Bois） | 2026-11-07 |
 | Wallace, William | — | 华莱士 | duhem | 学界惯例（科学史家音译，与同名苏格兰哲学家异人）；凭证 2026-11-06 | 2026-11-06 |
 | Ward, James | — | 詹姆斯·沃德 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译；待 specs/008 审定库复核）；凭证 2026-11-04 | 2026-11-04 |
 | Waters, Kenneth | — | 肯尼思·沃特斯 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -458,11 +478,13 @@
 | William Wimsatt | — | 威廉·温萨特 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Williams, George C. | — | 乔治·C. 威廉斯 | biology-philosophy | 学界通行汉译（《适应与自然选择》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Williams, Mary B. | — | 玛丽·B. 威廉斯 | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Wilson Jeremiah Moses | — | 威尔逊·杰里迈亚·摩西 | alexander-crummell | 现代学者（传记作者），音译 | 2026-11-07 |
 | Wilson, Edward O. | — | E. O. 威尔逊 | biology-philosophy | 学界通行汉译（《社会生物学》作者）；凭证 2026-11-07 | 2026-11-07 |
 | Woodger, J. H. | — | J. H. Woodger（现代学者，保留英文） | biology-philosophy | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07 | 2026-11-07 |
 | Yan Hui | — | 颜回 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Yang Zhu | — | 杨朱 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Zhou Dunyi | — | 周敦颐 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
+| Zora Neale Hurston | — | 佐拉·尼尔·赫斯顿 | alexander-crummell | 学界通行汉译 | 2026-11-07 |
 | Øystein Linnebo | Øystein Linnebo | 林内博（首现括注 Øystein Linnebo） | abstract-objects | 学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Śrīgupta | — | 室利笈多 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Śāntarakṣita | — | 寂护 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
