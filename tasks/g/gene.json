@@ -10,6 +10,13 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:51:21Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "doc-reset",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T11:20:00Z",
+      "evidence": "旧文未清纠正：state=cleared 而正文有 33220 字符旧存量，按零信任复位为 H1（旧文可由 git 回溯），不重复计数 clear 步骤"
     }
   ],
   "blockers": [],

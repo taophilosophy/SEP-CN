@@ -2,8 +2,23 @@
   "slug": "film",
   "kind": "retranslate",
   "zh_doc": "f/film.md",
-  "state": "pending",
-  "steps": [],
+  "state": "drafted",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T11:20:14Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T11:28:07Z",
+      "evidence": "账本 77/77 段（含 8 节标题+1 oir）双版齐；lq.py check 无 HARD-FAIL（** 归一后）；compose --write 落盘 20767 字符；italic_to_bold_cjk 转粗 14 行；check_style 0 issue；check_academic --strict OK"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:23:05Z",
   "version_pin": {

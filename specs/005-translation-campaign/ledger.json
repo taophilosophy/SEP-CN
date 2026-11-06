@@ -38,29 +38,29 @@
   },
   "e": {
    "phase": "translate",
-   "claimed_by": "ABCDE-main-20261103",
-   "claimed_at": "2026-11-02T16:21:13Z",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:02Z",
    "note": "E批40路子代理滚动起跑：99词条，两波模式（翻译波+复核波），主代理监控收口；对账补记（2026-11-06）：任务 99=pending 83/s3_checked 16；NO_LEDGER 12（旧存量 5；新增 7：11-03 起译 egoism/epsilon-calculus/epistemology-language-tibetan/erasmus/ethics-deontological/economic-democracy/emilie-du-chatelet，账本仅 4 份）",
    "advanced_at": "2026-11-01T11:03:27Z"
   },
   "f": {
    "phase": "translate",
-   "claimed_by": "ses-FGHIJK-main-1103",
-   "claimed_at": "2026-11-02T16:22:30Z",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:02Z",
    "note": "对账补记（2026-11-03）：基线 96/96 镜像 96/96，intake/fetch/convert 事实满足；任务已建 40=全部 pending；对账补记（2026-11-06）：任务 97 全建全 pending（11-03 缺口 40→97 已闭合）；frame-problem 文件含 641faf13 快照内容待直译",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
   "g": {
    "phase": "translate",
-   "claimed_by": "ses-FGHIJK-main-1103",
-   "claimed_at": "2026-11-02T16:22:17Z",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:03Z",
    "note": "对账补记（2026-11-03）：任务 49=cleared 19/pending 30；对账补记（2026-11-06）：任务 49=pending 30/cleared 19；gene 文件结构完整（19541 汉字）但系快照内容，状态 cleared=待直译，裁定不推进",
    "advanced_at": "2026-11-02T16:12:59Z"
   },
   "h": {
    "phase": "translate",
-   "claimed_by": "ses-FGHIJK-main-1103",
-   "claimed_at": "2026-11-02T16:22:17Z",
+   "claimed_by": "EH-main-20261106",
+   "claimed_at": "2026-11-06T10:58:03Z",
    "note": "对账补记（2026-11-03）：任务 61=s3_checked 3/s1_checked 2/cleared 32/pending 24；11 条在途快照 641faf13；对账补记（2026-11-06）：任务 61=pending 24/cleared 31/done 6；10 条 641faf13 快照遗留待直译（han-dynasty/haecceitism/halevi/heytesbury/hilbert-program/hobbes-science/holes/holkot/hume-moral/hutcheson）；账本 19 份",
    "advanced_at": "2026-11-02T16:13:00Z"
   },
@@ -191,5 +191,5 @@
    "advanced_at": "2026-11-03T19:15:13Z"
   }
  },
- "updated_at": "2026-11-06T10:40:37Z"
+ "updated_at": "2026-11-06T10:58:03Z"
 }
