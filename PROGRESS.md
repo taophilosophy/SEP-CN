@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 16:02（UTC）
+生成时间：2026-11-06 16:39（UTC）
 
 ## 总览
 
@@ -12,10 +12,10 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1007|
+|已建任务|1008|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|115|
-|在途（drafted 起、done 前）|266|
+|在途（drafted 起、done 前）|267|
 |阻塞|0|
 
 ## 任务状态分布
@@ -25,9 +25,8 @@
 |pending|626|
 |cleared|175|
 |drafted|3|
-|s1_checked|1|
-|s3_checked|86|
-|r1_reviewed|1|
+|s3_checked|87|
+|r1_reviewed|2|
 |done|115|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -48,7 +47,7 @@
 |L|144|144|19|2|
 |M|139|139|14|3|
 |N|50|50|2|0|
-|O|21|21|2|0|
+|O|21|21|3|0|
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
@@ -83,6 +82,7 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
+|alexander-crummell|retranslate|cleared|task_ops 2026-11-06|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -282,7 +282,7 @@
 |justice-retributive|retranslate|cleared|task_ops 2026-11-01|
 |justice-transitional|retranslate|cleared|task_ops 2026-11-01|
 |justification-public|retranslate|cleared|task_ops 2026-11-01|
-|justus-lipsius|retranslate|cleared|task_ops 2026-11-01|
+|justus-lipsius|retranslate|s3_checked|? 2026-11-06|
 |kant|retranslate|cleared|task_ops 2026-11-01|
 |kant-aesthetics|retranslate|cleared|task_ops 2026-11-01|
 |kant-conceptualism|retranslate|cleared|task_ops 2026-11-01|
@@ -327,7 +327,7 @@
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |modesty-humility|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |montesquieu|retranslate|cleared|task_ops 2026-11-06|
-|organ-donation|retranslate|s1_checked|OR-main-20261106 2026-11-06|
+|organ-donation|retranslate|r1_reviewed|OR-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
 |schema|retranslate|r1_reviewed|SZ-main-20261106 2026-11-06|
 |spacetime-convensimul|retranslate|cleared|task_ops 2026-11-06|
