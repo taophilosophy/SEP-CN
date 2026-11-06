@@ -2,7 +2,7 @@
   "slug": "schema",
   "kind": "retranslate",
   "zh_doc": "s/schema.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "SZ-main-20261106",
       "at": "2026-11-06T15:17:44Z",
       "evidence": "三校（体例）：check_style --strict 0 issue；check_math 63 公式 0 缺失 0 失衡；check_academic --strict 绿（在途豁免 1）；check_summary HARD 0；中文强调斜体→粗体 10 行（italic_to_bold_cjk v3）；登记 yi-zhe-shuo-ming 45 行/ren-ming-biao 5 行（首现=schema，依据五列齐）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T15:21:46Z",
+      "evidence": "初审（对照原文自审）：yuanwen 逐段回读终稿——论证走向无偏移（图式=模板+附加条件 vs 实例集合论、一阶图式弱于二阶公理、本体论混合地位四例数字齐）；引块 7 处（含 Tarski (2) 式、Russell 1919:157）逐字核对；术语主形全篇锁定（图式/附加条件/模板文本/实例/开语句/命题函项/殊例—类型）；人名首现括注齐（塔尔斯基/邱奇/皮尔士/冯·诺伊曼/罗素）；无 Critical/Major 残留"
     }
   ],
   "blockers": [],
