@@ -1406,7 +1406,7 @@
 * [罗伯特·基尔沃比 Kilwardby, Robert (José Filipe Silva)](r/robert-kilwardby.md)
 * [\*知识 knowledge](README.md)
   * [知识的分析 analysis of (Jonathan Ichikawa and Matthias Steup)](k/knowledge-analysis.md)
-  * [亲知与摹状知识 by acquaintance vs. description (Ali Hasan and Richard Fumerton)](k/knowledge-acquaindescrip.md)
+  * [亲知与摹状知识 Knowledge by Acquaintance vs. Description (Ali Hasan and Richard Fumerton)](k/knowledge-acquaindescrip.md)
   * [\*自我——见自我认识 self- — see self-knowledge](s/self-knowledge.md)
 * [知识的价值 knowledge, value of (Duncan Pritchard, John Turri, and J. Adam Carter)](k/knowledge-value.md)
 * [关于如何做某事的知识 knowledge how (Carlotta Pavese)](k/knowledge-how.md)

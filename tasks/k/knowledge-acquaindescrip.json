@@ -2,7 +2,7 @@
   "slug": "knowledge-acquaindescrip",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-acquaindescrip.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-01T17:43:44Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T18:57:15Z",
+      "evidence": "lq 账本流水线全量直译：103 段（body/oir/note）双版落盘，compose 37456 字符；SUMMARY 标题补全（by acquaintance vs. description → Knowledge by Acquaintance vs. Description）联动 mu-lu-s"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T18:57:15Z",
+      "evidence": "对照核销：段落 114:113（差 1＝管线译注行）、节数 18:18、脚注 marker 与 defs 键集全一致；相关词条 7 项映射（a priori justification and knowledge 保留英文待译）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T18:57:16Z",
+      "evidence": "prose 实修 24 处（长句拆分 13、被动改写 3、weak-verb 1、de-chain 4、plural 1、断裂星号修复 2）；CJK 斜体→加粗 111 处（纯非 ASCII 内容规则）；豁免 44 条分类：术语内含『被』（被呈现/被给予/被证成的信念）10、概念性定语链与定义条件句 16、引文/枚举/转述长句 17、其他 1（ADR-0020）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "?",
+      "at": "2026-11-06T18:57:20Z",
+      "evidence": "四检：check_academic --strict OK；check_style issues=0；check_prose 44 条已按 ADR-0020 分类豁免并留痕；check_math missing=[]/unbalanced=[]；lq check 守恒门 103 段通过"
     }
   ],
   "blockers": [],

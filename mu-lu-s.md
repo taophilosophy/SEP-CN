@@ -1121,7 +1121,7 @@ outline: [1, 6]
 * [认知悖论 epistemic paradoxes (Roy Sorensen)](e/epistemic-paradoxes.md)
 * [关于认知规范的认知效用论证 epistemic utility arguments for epistemic norms (Richard Pettigrew)](e/epistemic-utility.md)
 * [菲奇的可知性悖论 Fitch’s paradox of knowability (Berit Brogaard and Joe Salerno)](f/fitch-paradox.md)
-* [亲知与摹状知识 by acquaintance vs. description (Ali Hasan and Richard Fumerton)](k/knowledge-acquaindescrip.md)
+* [亲知与摹状知识 Knowledge by Acquaintance vs. Description (Ali Hasan and Richard Fumerton)](k/knowledge-acquaindescrip.md)
 
 ### 元认识论
 
