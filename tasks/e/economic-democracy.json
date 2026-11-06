@@ -2,7 +2,7 @@
   "slug": "economic-democracy",
   "kind": "retranslate",
   "zh_doc": "e/economic-democracy.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "?",
       "at": "2026-11-04T15:11:06Z",
       "evidence": "四检全绿：style 0/math 0/academic --strict OK/prose 31 豁免留痕见 s2；人名 16 条登记（蒲鲁东/韦伯夫妇/安德森/霍耐特/费雷拉斯/佩蒂特/罗默/奥斯特罗姆/加勒特·哈丁等）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T15:59:57Z",
+      "evidence": "r1 段级核销：22/23 节——差额为源端空标题 '## Notes（原文脚注）'（转换器产物，核为无须镜像）；167 个脚注键与源全等、无重复定义；年份差 '1980' 为源 'the 1980s'（正则未匹配所有格 s），核为无缺；抽查 70,000/premise（c）/ESOP/Montanmitbestimmung 等专名照录无误；实抓并修复段 180 '经济体前尚不存在'漏字（→目前）"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T15:59:57Z",
+      "evidence": "r2 句级复读：check_prose 31→5（拆句 4、去'的'链 22、被动改写 2、漏字修复 1）；余 5 条为'的'密度在限定结构递进处（X的Y的Z 间隔≤12 字），重写反致歧义，按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T15:59:59Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构完整（5 节+子节+尾节）；账本缺档旧管线债务登记 qa-findings §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T16:00:00Z",
+      "evidence": "终稿验收：六道全过；de-chain 残余 5 条豁免有据；漏字修复有据"
     }
   ],
   "blockers": [],
