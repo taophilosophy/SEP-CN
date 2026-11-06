@@ -2,7 +2,7 @@
   "slug": "organ-donation",
   "kind": "retranslate",
   "zh_doc": "o/organ-donation.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "direction",
@@ -59,6 +59,20 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T17:32:29Z",
       "evidence": "r2 复审（逐句回核原文与逻辑；ADR-0020 复核独立性：r1 之后冷置，间隔完成 origin-descent 立项与 p1-p3 初译再回读）：重点核对 6 处高风险论证——段21 身后权利（技术性理由不能保护身后利益）、段35 家属否决不侵犯死者主张（无人有“器官必须被使用”之主张）、段39 权利不对称（有权拒绝被取走、无权要求被取走）、段65 自主者放弃身体完整权的界限、段105 Wilkinson 恢复论证反例（吸烟者应获更高优先级）、段113 定向捐献与按需分配的一致性诘难；方向与源一致。2 处 Minor 修正：段21 “and/or” 简化为并列致逻辑弱化→改「会同家属、乃至潜在接受者的主张彼此冲突」；段65「at or well below the level of death」表述含混→「达到或远低于致死程度」。修后 lq check HARD=0、prose 0。无 Critical/Major。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T17:41:42Z",
+      "evidence": "r3 终审（终稿验收）：结构完整性终验——H1 + 导语 + 3 编号节/16 小节（含 1.2.1-1.2.5、3.1-3.3）+ References（引用注释）+ 学术工具 + 其他网络资源 + 相关词条 + 致谢，共 22 个标题与源页标题集合逐项对应（源 ### Acknowledgments 按体例归一为 ## 致谢），无缺节无增节；版本行与 baseline 版本钉一致（2011-10-28 首发 / 2026-05-20 实质修订）。定点六检全绿：check_style --strict 0 issue、markdownlint 0 issue、check_academic --strict 0 硬错误、check_math 0 缺失/0 失衡、check_prose 0、check_terms 定点 0 缺译（硬错误 0）。全库 check_all 7/7 全绿。冷置说明：r1 后先完成 origin-descent 立项与 p1-p3 初译，再回读本词条做 r2/r3。CI 于 push 后为最终裁判。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T17:46:13Z",
+      "evidence": "done：六道全过；o 批首件收口（o 批 done=1/21，全局 done 计数以 PROGRESS 生成物为准）。r 批 rationalism-early-modern 在途改动作废与 o/p/q/r 认领改挂见 commit 9e0059bc。"
     }
   ],
   "blockers": [],
