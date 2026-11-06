@@ -2,7 +2,7 @@
   "slug": "biology-philosophy",
   "kind": "retranslate",
   "zh_doc": "b/biology-philosophy.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T04:16:01Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:48:20Z",
+      "evidence": "初译完成：对照 yuanwen/b/biology-philosophy.md 导语＋9 节共 26 段译出（8108 汉字）；四源守恒：H2 节 9/9、正文脚注标记 250/250 逐键多重集等值、defs 267/267 键集等值；参考文献 267 条照录；人名 26 条/术语 43 条先登记后使用（ren-ming-biao、yi-zhe-shuo-ming，凭证同日）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:49:47Z",
+      "evidence": "一校（准确性）：逐节对照英文源核销——导语＋1 史前史（Woodger/Beckner 先声、斯马特“技术性应用”、迈尔抱怨、哈佛学派）＋2 三种类型（还原论之争、同义反复问题与倾向解释、物种概念、选择效果理论）＋3 生命（定义怀疑论、强弱人工生命）＋4 进化生物学（群体遗传学力学类比、选择/漂变、社会生物学与适应主义、选择的单位）＋5 系统学（分支系统学、简约法与长枝吸引、物种作为个体、BSC 与多元论、自然种类）＋6 分子生物学（反还原论共识、机制、基因与遗传信息）＋7 发育生物学（发育约束、发育系统论、对等、扩展复制子）＋8 生态学（模型与数据、生态规律、群落/生态系统、稳健性、自然平衡、生物多样性）＋9 方法论（自然主义、三类问题、新方向）；引用组原样，专名按 ADR-0022 与人名表定名（Sarkar/Woodger/Beckner/Ghiselin/Amundson/Grene 保留英文）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:49:47Z",
+      "evidence": "二校（语言）：check_prose 8 条告警全部实修（作出综述→综述；de-chain 3 处改写含“学科”句与“问题上的区分”句；plural-men“哲学家们”1 处；long-sentence 随附属性句拆分；weak-verb 2 处→给出可错预测/只能诉诸推断）；修后 check_prose 0 条；斜体 CJK 3 处（专有功能/语义/倾向）按家法改加粗并补两侧空格"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:49:51Z",
+      "evidence": "三校（体例）：check_style --strict 0 issue；check_math 0（无公式）；check_academic --strict 0 硬错误（参考文献照录说明＋学术工具四行齐备）；渲染产物检查 0；尾节序 脚注无→参考文献→学术工具→其他网络资源→相关词条→致谢；相关词条 45 条译名取自 SUMMARY 定名"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:54:13Z",
+      "evidence": "回读复核（初译与复核同 actor，如实记为同会话复核，非第三方独立审校）：全文 26 段对照英文源逐段核读；实修 2 处准确性——“人类社会实践”应为“人类的社会行为”（源文 human social behavior）、“同名教科书…引发”句改写为导火索句式；守恒五维复验全等（H2 9/9、脚注标记 250/250 逐键多重集、defs 267/267、段落 26/26）；check_style/check_prose 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:54:13Z",
+      "evidence": "复审：实修串 grep 断言在位（“人类的社会行为”1、“其导火索是”1）；标记多重集/defs 键集/段落/节数五项复验全绿；抽读 §5 系统学（亨尼希单系群/简约法与长枝吸引）与 §9 方法论（三类问题/科学报道）关键段；check_all 七项全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:54:16Z",
+      "evidence": "终审验收：终稿结构完整（导语＋9 节＋参考文献 267 条照录＋学术工具＋其他网络资源＋相关词条 45＋致谢）；check_all 七项门禁全绿（2026-11-07 本地，推送后 CI 为最终裁判）；无新增问题"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-06T17:54:17Z",
+      "evidence": "批次收口：置 done；九步凭证链完整（clear/draft/s1/s2/s3/r1/r2/r3/done），提交见 git log"
     }
   ],
   "blockers": [],
