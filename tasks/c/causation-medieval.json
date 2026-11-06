@@ -1,50 +1,57 @@
 {
- "slug": "causation-medieval",
- "kind": "retranslate",
- "zh_doc": "c/causation-medieval.md",
- "state": "s3_checked",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "初译完成：零信任译自 yuanwen/causation-medieval.md，账本双版（step1/step2）齐全"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "主代理",
-   "at": "2026-11-01T08:56:10Z",
-   "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+  "slug": "causation-medieval",
+  "kind": "retranslate",
+  "zh_doc": "c/causation-medieval.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "baseline gate: 英文镜像齐备（ADR-0009 逐字符），version_pin 一致"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "初译完成：零信任译自 yuanwen/causation-medieval.md，账本双版（step1/step2）齐全"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校一：体例修复 italic-cjk→加粗、中西空格，check_style 正文 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校二：check_academic --strict 0 硬错误，引用键解析完整"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "主代理",
+      "at": "2026-11-01T08:56:10Z",
+      "evidence": "自校三：翻译波收口，双版账本齐全，学术规范+体例双绿"
+    },
+    {
+      "step": "cd-sync",
+      "status": "ok",
+      "actor": "CD-main-20261106",
+      "at": "2026-11-06T14:28:28Z",
+      "evidence": "对账纠正（CD-main-20261106）：文末 60 条脚注定义缺 `## 参考文献` 节首与照录说明句（尾节四件套之一），已补节首+说明；段落对齐、内联 marker 58:58、defs 键集 60:60 全等，check_academic/check_style --strict 双绿"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-31T22:08:39Z",
+  "version_pin": {
+    "pubinfo_date": "Apr 23, 2018",
+    "archive_edition": "Summer 2018",
+    "sha256": "df96363987e22fe09167945013213478f9d2c5ee252a05add61820c71a54ec90"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-31T22:08:39Z",
- "version_pin": {
-  "pubinfo_date": "Apr 23, 2018",
-  "archive_edition": "Summer 2018",
-  "sha256": "df96363987e22fe09167945013213478f9d2c5ee252a05add61820c71a54ec90"
- }
 }

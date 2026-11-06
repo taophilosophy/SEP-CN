@@ -58,7 +58,7 @@
 
 ### Secondary Sources
 
-## Academic Tools
+## 学术工具
 
 > | | [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=conway)。 |
 > | --- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@
 > | | 在 [InPhO](https://www.inphoproject.org/entity?sep=conway&redirect=True) 查找与本词条相关的话题与思想家。 |
 > | | 在 [PhilPapers](https://philpapers.org/sep/conway/) 查看本词条的增强文献目录及其数据库链接。 |
 
-## Other Internet Resources
+## 其他网络资源
 
 * [Project Vox：康威（1631–1679）](http://projectvox.org/conway-1631-1679/)（现代女性哲学家档案与教学资料网站）
 

@@ -114,6 +114,10 @@
 
 中世纪文献在这些问题上远非众口一词。例如，奥卡姆的威廉（William of Ockham）写了多部关于亚里士多德《物理学》的注疏，并在其中许多地方讨论这些问题，却几乎没有一个统一的立场。他欣然接受一般以动力因解释自然现象，但也常常谈到目的因；不清楚的是：他所谈论的目的因（在不同著作中强度各异）是否具有任何不可还原为动力因果性的解释作用（Adams 1998; cf. Goddu 1999）[^adams-1998][^goddu-1999]。
 
+## 参考文献
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
 [^john-1942]: John Buridan, *Quaestiones super Libros Quattuor de Caelo et Mundo*, ed. E. A. Moody, Cambridge, MA: Medieval Academy of America, 1942.
 
 [^john-1997]: John Duns Scotus, *On the Will and Morality*, selected and translated by Allan B. Wolter, Washington, DC: Catholic University of America Press, 1997.
