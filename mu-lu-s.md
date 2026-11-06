@@ -1952,7 +1952,7 @@ outline: [1, 6]
 * [利他主义 altruism (Richard Kraut)](a/altruism.md)
 * [慈善 Philanthropy (Theodore M. Lechterman, Emma Saunders-Hastings, and Rob Reich)](p/philanthropy.md)
 * [双重效应原则 double effect, doctrine of (Alison McIntyre)](d/double-effect.md)
-* [谦虚与谦逊 modesty and humility (Nicolas Bommarito)](m/modesty-humility.md)
+* [谦逊与谦卑 modesty and humility (Nicolas Bommarito)](m/modesty-humility.md)
 * [伦理学和政治哲学中的完美主义 perfectionism, in moral and political philosophy (Steven Wall)](p/perfectionism-moral.md)
 * [快乐 pleasure (Leonard D. Katz)](p/pleasure.md)
 * [尊重 respect (Robin S. Dillon)](r/respect.md)

@@ -1,0 +1,57 @@
+{
+  "slug": "modesty-humility",
+  "kind": "retranslate",
+  "zh_doc": "m/modesty-humility.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "direction",
+      "status": "ok",
+      "actor": "LQ-main-20261105",
+      "at": "2026-11-06T15:00:00Z",
+      "evidence": "方向声明（rules/08）：m 批并行件 modesty-humility。目标：六道全过收口（守恒 HARD=0、四检 0 硬错误）；账本双版直译由子代理执行、登记册与提交由主会话独占。非目标：不改英文源、不补内容、不造引文；未登记术语不擅译（报主会话登记）。"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T12:42:27Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T15:49:18Z",
+      "evidence": "承接 LQ-main-20261105 已 compose 的账本稿（91/91 段 step2 已填）：lq.py check 守恒 HARD=0（91 段，SOFT 旗均为斜体→书名号与机械段）；compose 干跑与成稿逐字符一致（diff=0，无手改丢失）；成稿 43KB/281 行，节标题 21 个与源文一一对应；脚注定义 73 条=源文 73 条"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T15:51:57Z",
+      "evidence": "s1 对照源逐节核销（第1-5节全读对读）：①数字集合逐段比对 91 段零差异（script/tmp/s1_numlat.py）；②脚注 defs 73=73、节标题 21=21、相关词条 10 项与源文一一对应；③引文核销：休谟《道德原则研究》两段（sec. IX 僧侣式德性与 sec. VIII 长引块）、威廉斯 1993,10、Sorensen 1988 盲点句、西季威克 1907/1981,334、Rashdall 1907,205 均逐句对照无增删；④术语体例：正文谦逊=modesty 59 处、谦卑=humility 39 处，标题原为'谦虚与谦逊'（混同二词）已纠正为'谦逊与谦卑'并同步 SUMMARY/mu-lu-s/别名行（别名 humility 原标'谦逊'改'谦卑'），术语表登记 modesty/humility/intellectual humility 三行；⑤相关词条修复：'Chinese Philosophy: ethics' 被 map_related 误映射为'非洲伦理学'（子节名 ethics 与 a/african-ethics 英文名同名，首个命中胜出），手工改为'中国哲学中的伦理学'；⑥拉丁残留均为术语首次括注原形与人名，非中英混杂"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T15:53:56Z",
+      "evidence": "s2 语言质量：check_prose 0 告警（八则机检子集：长句≥70字/双'被'/弱动词/的链/类名+们/作为一个/存在着/当…的时候）；通读未见欧化长句与弱动词结构，无需实修，无机械改写；体例实修已在前步完成（标题与相关词条修正）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T15:54:00Z",
+      "evidence": "s3 四检全绿：check_style --strict 0 issue；check_academic --strict 0 硬错误（在途豁免仅尾节类，本文尾节齐备）；check_math 公式 0/缺失 0/失衡 0；check_prose 0；脚注 defs 73=73；lq 守恒 HARD=0；相关词条 10 项全映射且手工纠正 1 项误映射"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T12:42:27Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 31, 2018",
+    "archive_edition": "Winter 2018",
+    "sha256": "445724ae9b47a22a1bfc02fa819b8e7be9ac6079d0d8faf69965c68a6fcadce8"
+  }
+}

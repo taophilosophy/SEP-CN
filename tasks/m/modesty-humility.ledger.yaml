@@ -1,0 +1,735 @@
+version: 1
+slug: modesty-humility
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Picture someone who constantly boasts about their accomplishments, thinks they know it all, and, even when they’re not talking, exudes an off-putting smug self-satisfaction. Such a person seems to have an ethical shortcoming; what they’re missing, you might think to yourself, is a bit of modesty or humility. Modesty and humility are ways that we relate to ourselves, to our own goodness and limitations. It involves placing ourselves among others and in the world at large. Immodest people have, among other things, an inflated sense of themselves, their accomplishments, and their place in the world.
+    step1: |-
+      设想这样一个人：他不断吹嘘自己的成就，自以为无所不知，即便不开口的时候，也散发出一种令人反感的自得。这样的人似乎有一种伦理上的欠缺；你也许会暗自想，他缺少的，是一点谦逊或谦卑。谦逊与谦卑是我们面对自身、面对自己的善与局限的方式。它要求我们把自己置于他人之中，置于整个世界之中。不谦逊的人，对自身、自身的成就以及自身在世界中的位置，都有一种膨胀的感觉。
+    step2: |-
+      设想这样一个人：他不断夸耀自己的功绩，自以为无所不知，即便不开口，也透出一股令人反感的自得。这样的人似乎有种道德上的欠缺；你也许会暗自想，他缺的不过是一点谦逊或谦卑。谦逊与谦卑是我们面对自身的方式，也是我们面对自身善性与局限的方式，它要求把自己放进人群之中、放进整个世界之中。不谦逊的人把自身、把功绩、把在世界上的位置都估得过高。
+  - id: 2
+    kind: body
+    source: |-
+      Philosophers have been particularly drawn to the seemingly paradoxical aspects of modesty and humility. Saying “I’m modest” sounds like a self-undermining joke in a way that saying “I’m compassionate” does not. If it is a virtue, it seems like realizing that you have it somehow spoils it. This raises a range of questions about whether there are special requirements governing how we relate to our own states, traits, or achievements.
+    step1: |-
+      哲学家尤其被谦逊与谦卑那些看似悖论的方面所吸引。说“我很谦逊”，听起来像个自我拆台的笑话；说“我很仁慈”，却不给人这种感觉。如果它是一种德性，那么意识到自己拥有它，似乎就以某种方式把它毁掉了。这引出一系列问题：是否存在特殊的要求，规定我们如何面对自己的状态、品性或成就。
+    step2: |-
+      谦逊与谦卑看似悖论的地方，格外引得哲学家驻足。说“我很谦逊”，听着像个自我拆台的笑话；说“我很仁慈”却不会。倘若谦逊果真是种德性，那你一旦意识到自己拥有它，它仿佛就在某种意义上被毁掉了。这就引出一连串问题：我们在面对自己的状态、品性与成就时，是否要遵守某些特殊的要求。
+  - id: 3
+    kind: body
+    source: |-
+      The first section discusses conceptions of modesty and humility and their key features and gives a brief historical overview of debates about whether or not they’re really virtues at all. The second section discusses theories of modesty and humility that root them in the presence or absence of particular beliefs. The third section covers a wide range of recent accounts that appeal to non-doxastic states such as emotion, desire, and attention. The final section considers related phenomena in epistemology: rational limits on self-ascription of error, attitudes to disagreement, and openness to alternative views.
+    step1: |-
+      第一节讨论谦逊与谦卑的概念及其关键特征，并简要回顾关于它们究竟是不是德性的历史争论。第二节讨论把谦逊与谦卑奠基于特定信念之有无的各种理论。第三节综述近年大量诉诸情感、欲望与注意之类非信念状态的学说。最后一节考察认识论中的相关现象：对错误所作的自我归属的理性限度、对分歧的态度，以及对其他观点的开放。
+    step2: |-
+      第一节梳理谦逊与谦卑的各种概念及其关键特征，并简要回顾它们究竟算不算德性这场历史争论。第二节讨论把谦逊与谦卑奠基于特定信念之有无的理论。第三节综述近年形形色色的学说，它们诉诸情感、欲望与注意等非信念状态。最后一节考察认识论中的相关现象：把过错归给自己有何理性限度、怎样对待分歧、对其他观点开放到什么程度。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. Modesty and Humility
+    step1: |-
+      ## 1. 谦逊与谦卑
+    step2: |-
+      ## 1 谦逊与谦卑
+  - id: 5
+    kind: body
+    source: |-
+      The feature of modesty and humility that has most captivated philosophers is its elusive nature. It seems as though knowing that you’re modest somehow spoils it; the modest person, it seems, must be unaware of their own modesty. Modesty can seem to be, as Sorensen (1988) puts it, a kind of ethical blindspot: If you have it you won’t know it (and if you seem to know you have it, you probably don’t really!)
+    step1: |-
+      谦逊与谦卑最令哲学家着迷的特征，是它那难以捉摸的本性。知道自己谦逊，似乎就把它毁掉了；看来，谦逊的人必定意识不到自己的谦逊。用 Sorensen（1988）的话说，谦逊似乎是一种伦理上的盲点：你如果有它，就不会知道它（而你如果似乎知道自己有它，你大概并没有！）
+    step2: |-
+      谦逊与谦卑最令哲学家着迷之处，在于它难以捉摸的本性。你一旦知道自己谦逊，它仿佛就毁于一旦；照此看来，谦逊的人必定意识不到自己的谦逊。用 Sorensen（1988）的话来说，谦逊简直是一种伦理上的盲点：你若有它，便不会知道它（你若似乎知道自己有它，那你多半并没有！）
+  - id: 6
+    kind: body
+    source: |-
+      The fact that knowing about your own modesty seems to spoil it suggests what seems, to some at least, to be a troubling tension between epistemic and moral goods. Can there really be something morally good about forming biased beliefs about your own goodness? Many imagine that perfect moral virtue must be compatible with perfect knowledge. An extreme version is Plato’s identification of virtue and knowledge in the *Meno*, but even less extreme views can find the idea that moral virtues might require epistemic defects to be troubling, or at least interesting.
+    step1: |-
+      知道自己谦逊这件事似乎会把它毁掉，这一事实提示了一种紧张关系——至少在有些人看来如此——即认知之善与道德之善之间令人不安的紧张。对自己的善性形成有偏颇的信念，真的能有什么道德上的好处吗？许多人设想，完美的道德德性必定与完美的知识相容。极端的版本是柏拉图在《美诺篇》中把德性与知识等同起来；但即便不那么极端的观点，也会觉得道德德性可能需要认知缺陷这一想法令人不安，或者至少耐人寻味。
+    step2: |-
+      知道自己谦逊反倒像是毁掉了它——这个事实至少让一些人不安，因为它暗示认知之善与道德之善之间有种令人困扰的紧张。对自己的善性抱持歪曲信念，当真能有什么道德上的好处吗？许多人设想，完美的道德德性必与完美的知识相容。最极端的说法，是柏拉图（Plato）在《美诺篇》（*Meno*）里把德性与知识等同起来。即便不那么极端的看法，也会觉得“道德德性或许需要认知上的缺陷”这个念头令人不安，至少耐人寻味。
+  - id: 7
+    kind: body
+    source: |-
+      This raises a few general issues. The first is what, if any, special requirements there are regarding how we relate to ourselves. Perhaps forcing myself to skip lunch to finish the job is not morally different from forcing someone else to skip lunch to finish the job, but they certainly feel different. This suggests that we cannot always relate to ourselves in the same way as we relate to others.
+    step1: |-
+      这引出几个一般性的问题。第一个问题是：关于我们如何面对自身，是否存在特殊的要求，如果存在，又是什么。为了干完活而强迫自己不吃午饭，与为了干完活而强迫别人不吃午饭，在道德上也许并无不同，但两者的感觉显然不同。这说明我们并不总能以对待他人的方式对待自己。
+    step2: |-
+      这牵出几个一般性问题。头一个是：我们在面对自身时，究竟有没有什么特殊的要求。为了赶完活儿而逼自己不吃饭，同为了赶完活儿而逼别人不吃饭，道德上也许并无两样，可感觉显然不同。可见，我们不可能总用对待他人的方式来对待自己。
+  - id: 8
+    kind: body
+    source: |-
+      These issues are related to debates about what makes modesty or humility morally virtuous at all. Debates about modesty and humility are often battles in larger wars about the nature of virtue more generally.
+    step1: |-
+      这些问题与另一场争论相关：究竟什么使谦逊或谦卑在道德上成为德性。关于谦逊与谦卑的争论，往往只是关于德性本性的更大战争中的战役。
+    step2: |-
+      这些问题还连着另一个争论：谦逊或谦卑凭什么在道德上算德性。围绕谦逊与谦卑的种种争论，往往只是那场关于德性本性的更大论战中的战役。
+  - id: 9
+    kind: body
+    source: |-
+      ### 1.1 Varieties and Distinctions
+    step1: |-
+      ### 1.1 类型与区分
+    step2: |-
+      ### 1.1 类型与区分
+  - id: 10
+    kind: body
+    source: |-
+      Philosophical work on modesty and humility brackets several senses of these terms. Philosophical accounts typically do not aim, for example, to capture uses of ‘modest’ that apply to objects as when we say “He lives in a modest house” or “She has a modest income”. The sexual sense of modesty, involving dress and behavior that presents a non-sexual image, is typically also bracketed (see Driver 1989, Statman 1992, Bommarito 2013)[^bommarito-2013][^driver-1989][^statman-1992], though some accounts aim to capture this use of the term as well; see Schueler (1997, 482), McMullin (2010, 785–786), and Wilson (2014, 79).
+    step1: |-
+      关于谦逊与谦卑的哲学工作搁置了这两个词的若干含义。例如，哲学上的说明通常并不打算涵盖 “modest” 用于事物的用法，如我们说“他住着一栋 modest 的房子”或“她的收入 modest”。谦逊在性方面的含义——涉及呈现非性化形象的穿着与举止——通常也被搁置（见 Driver 1989, Statman 1992, Bommarito 2013）[^bommarito-2013][^driver-1989][^statman-1992]，不过有些说明也力图涵盖这个词的这一用法；见 Schueler（1997, 482）、McMullin（2010, 785–786）与 Wilson（2014, 79）。
+    step2: |-
+      哲学界对谦逊与谦卑的讨论，把这几个词的若干义项搁在一边。比如，哲学上的说明通常并不打算囊括 “modest” 形容物件的用法——“他住在一所简朴的房子里”“她收入微薄”。谦逊在性方面的含义，即关乎穿着与举止所呈现的非性化形象的那一层，通常同样被搁置（见 Driver 1989, Statman 1992, Bommarito 2013）[^bommarito-2013][^driver-1989][^statman-1992]。不过也有一些说明意在兼顾这个词的这一用法，见 Schueler（1997, 482）、McMullin（2010, 785–786）与 Wilson（2014, 79）。
+  - id: 11
+    kind: body
+    source: |-
+      There is disagreement about both terms and concepts. Many theorists treat the terms ‘modesty’ and ‘humility’ as interchangeable. Hare (1996), Schueler (1997), Hurka (2001), Raterman (2006), Garcia (2006), Kellenberger (2010), and Um (forthcoming), to name just a few, all treat the terms as referring to more or less the same phenomenon. Others take the different terms to refer to very different concepts. There is some historical precedent for this; Aquinas, for example, considers both modesty and humility to be types of temperance (see *Summa Theologica* 2.2 Q.160 and Foley 2004)[^foley-2004].
+    step1: |-
+      在语词与概念两方面都存在分歧。许多论者把 “modesty” 与 “humility” 这两个词当作可以互换。Hare（1996）、Schueler（1997）、Hurka（2001）、Raterman（2006）、Garcia（2006）、Kellenberger（2010）与 Um（待刊），仅举数例，都把这些词视为指称大体相同的现象。另一些人则认为，不同的词指称很不相同的概念。这有历史先例；例如托马斯·阿奎那就把谦逊与谦卑都视为节制的类型（见《神学大全》2.2 Q.160 与 Foley 2004）[^foley-2004]。
+    step2: |-
+      分歧既在语词，也在概念。许多论者把 “modesty” 与 “humility” 视为可互换之词。Hare（1996）、Schueler（1997）、Hurka（2001）、Raterman（2006）、Garcia（2006）、Kellenberger（2010）与 Um（待刊）等，这还只举了几位，都把这些词看作指称大体相同的现象。另一些人却认为，不同的语词所指的概念很不一样。这么看也有历史先例：例如托马斯·阿奎那（Thomas Aquinas）就把谦逊与谦卑都算作节制（temperance）的分支（见《神学大全》（*Summa Theologica*）2.2 Q.160 与 Foley 2004）[^foley-2004]。
+  - id: 12
+    kind: body
+    source: |-
+      Among those who do draw a distinction between the concepts, there is little agreement about what exactly the difference is. For some, the difference is between public and private domains. Statman (1992, 438n45) claims that modesty has an external domain while humility does not and Sinha (2012, 265) says that modesty is public while humility is private. For others, they have different epistemic requirements: Ben-Ze’ev (1993, 240) and Nuyen (1998, 101) claim that humility involves underrating oneself, while modesty does not. Driver (1998, 378f5), however, claims the opposite making modesty involve underrating and humility not. This article will take both terms to refer to a general response to one’s own goodness or achievements and will use the term that the author under consideration uses when discussing particular views.
+    step1: |-
+      在那些确实对两个概念加以区分的人中间，关于区别究竟何在，几乎没有共识。对一些人来说，区别在于公共领域与私人领域。Statman（1992, 438n45）声称谦逊有一个外在的领域，谦卑没有；Sinha（2012, 265）则说谦逊是公共的，谦卑是私人的。对另一些人来说，二者有不同的认知要求：Ben-Ze’ev（1993, 240）与 Nuyen（1998, 101）声称谦卑涉及低估自己，谦逊则不然。然而 Driver（1998, 378f5）主张的恰好相反，认为谦逊涉及低估，谦卑不涉及。本文将把两个词都视为对自身之善或成就的一种普遍回应，并在讨论具体观点时，随相关作者所用的那个词。
+    step2: |-
+      就算确实要在两个概念之间划线，划在哪里也众说纷纭。有人认为，分别在于公域与私域：Statman（1992, 438n45）说谦逊有对外的领域，谦卑则没有；Sinha（2012, 265）说谦逊属于公共场合，谦卑属于私人领域。也有人认为，分别在于认知要求：Ben-Ze’ev（1993, 240）与 Nuyen（1998, 101）主张谦卑包含自我低估，谦逊不包含；Driver（1998, 378f5）却说相反，把低估归给谦逊，不归给谦卑。本文把这两个词都看作人对自己之善或成就的一般回应，讨论各家观点时，随原作者用哪个词就用哪个词。
+  - id: 13
+    kind: body
+    source: |-
+      ### 1.2 Key Features
+    step1: |-
+      ### 1.2 关键特征
+    step2: |-
+      ### 1.2 关键特征
+  - id: 14
+    kind: body
+    source: |-
+      Modesty has several key features that theoretical accounts aim to capture. These are explicitly stated in Driver (1989 and 2001) and are taken up in most work on modesty since then.
+    step1: |-
+      谦逊有几个关键特征，是各种理论说明力图把握的。这些特征在 Driver（1989 与 2001）中被明确列出，此后关于谦逊的多数研究都加以采纳。
+    step2: |-
+      谦逊有几个关键特征，各种理论说明都要设法把它们抓住。这些特征在 Driver（1989 与 2001）中被明确列出，此后的多数研究都沿用了这份清单。
+  - id: 15
+    kind: body
+    source: |-
+      **Dependent Virtue:** Slote (1983, 61ff) notes that modesty is a dependent virtue. One is modest *about* something else that is good, about their success or intelligence. In this sense, modesty requires the existence of another good quality. This is typically taken to be something objectively good rather than simply something that the person *thinks* is good, though most views can accommodate either intuition. Most views assume that the good quality in question is a good quality of the person who is modest, though Bommarito (2013, 94) broadens the scope to allow modesty about the good qualities in others when they reflect on us, as when one is modest about the achievements of their child, nation, or local sports teams. Others, such as Ben-Ze’ev (1993) and Um (forthcoming), go further and deny that modesty is a dependent virtue at all.
+    step1: |-
+      **依附性德性：** Slote（1983, 61 以下）指出，谦逊是一种依附性德性。人是就某件别的好东西而谦逊的，就自己的成功或聪明而谦逊的。在这个意义上，谦逊要求另一种好品质的存在。这通常被理解为客观上好的东西，而不只是这个人*认为*好的东西，不过多数观点对两种直觉都能容纳。多数观点假定，所说的好品质是谦逊者自己的好品质，尽管 Bommarito（2013, 94）拓宽了范围，允许就他人身上那些反映到我们身上的好品质而谦逊，例如一个人就自己孩子、国家或本地球队的成就而谦逊。另一些人，如 Ben-Ze’ev（1993）与 Um（待刊），走得更远，干脆否认谦逊是依附性德性。
+    step2: |-
+      **依附性德性：** Slote（1983, 61 以下）指出，谦逊是一种依附性德性，人总是就着别的某种好东西而谦逊，就着自身的成功或聪明而谦逊。如此说来，谦逊以另一种好品质的存在为前提。这种东西通常算作客观上好的东西，而不仅是当事人自认为好的东西；多数观点两者都能容纳。多数观点还假定，这种好品质属于谦逊者本人；Bommarito（2013, 94）则放开了范围：只要他人的好品质映照到我们身上，也可以为之谦逊——比如为自己的孩子、国家或主队的成绩而谦逊。Ben-Ze’ev（1993）与 Um（待刊）等人更进一步，索性否认谦逊是依附性德性。
+  - id: 16
+    kind: body
+    source: |-
+      **False Modesty:** Theories of modesty also need to be able to distinguish modesty from false modesty. That is, some people who are not modest can act as if they are. This rules out accounts of modesty that are entirely behavioral. If being modest is simply a matter of certain external behaviors, then there would be no way to distinguish modesty from false modesty. Modesty and humility require certain mental states in addition to overt behaviors.
+    step1: |-
+      **虚假的谦逊：** 关于谦逊的理论还必须能够把谦逊与虚假的谦逊区分开。也就是说，有些不谦逊的人能够装出谦逊的样子。这就排除了完全以行为来界定谦逊的说明。如果谦逊只是某些外在行为的事，那就没有办法把谦逊与虚假的谦逊区分开。谦逊与谦卑除了外显行为之外，还要求某些心理状态。
+    step2: |-
+      **伪谦逊：** 关于谦逊的理论还得能分辨真谦逊与假谦逊。不谦逊的人照样能装出一副谦逊的样子，所以纯粹以行为来界定谦逊的说明就此出局。倘若谦逊只是某些外在举止的事，那就无从把它同伪谦逊区分开。谦逊与谦卑除了外显行为，还需要某些内心状态。
+  - id: 17
+    kind: body
+    source: |-
+      **Self-Attribution Strangeness:** Self-predications of modesty and humility are, at least in general, self-undermining. This is highlighted by Sorensen (1988, 120ff) and Driver (1989, 375) who note that the sentence “I am modest” is a distinctly *im*modest thing to say. Though Raterman (2006, 232) and Bommarito (2013, 113) describe contexts in which saying “I am modest” is not self-undermining, self-ascriptions of modesty are, in general, self-undermining. It is important to note that this need not be about public utterances; a person seems less modest for *thinking* about how modest they are. Bernard Williams, for example, writes that “… it is a notorious truth that a modest person does not act under the title of modesty” (1993, 10). That is, a modest person does not think of themselves as acting modestly, while a just person typically does think of themselves as acting justly.
+    step1: |-
+      **自我归属的怪异性：** 对谦逊与谦卑的自我谓述，至少在一般情况下，是自我拆台的。Sorensen（1988, 120 以下）与 Driver（1989, 375）着重指出了这一点，他们注意到“我很谦逊”这句话说的是一件分明*不*谦逊的事。尽管 Raterman（2006, 232）与 Bommarito（2013, 113）描述了说“我很谦逊”并不自我拆台的一些语境，但谦逊的自我归属一般而言仍是自我拆台的。重要的是要注意，这不一定关乎公开的言说；一个人若*思考*自己有多谦逊，他似乎就不那么谦逊了。例如伯纳德·威廉斯写道：“……一个众所周知的事实是，谦逊的人不会以谦逊的名义行事”（1993, 10）。也就是说，谦逊的人并不认为自己是在谦逊地行事，而公正的人通常会认为自己在公正地行事。
+    step2: |-
+      **自我归属的怪异性：** 把谦逊或谦卑说成自己的属性，通常不免自我拆台。Sorensen（1988, 120 以下）与 Driver（1989, 375）都强调了这一点：“我很谦逊”恰恰是最不谦逊的一句话。Raterman（2006, 232）与 Bommarito（2013, 113）固然指出过某些语境下说“我很谦逊”并不自我拆台，但一般而言，自我归属谦逊仍不免如此。值得注意的是，问题不限于公开说出口：一个人只要心里盘算自己有多谦逊，他就似乎不那么谦逊了。伯纳德·威廉斯（Bernard Williams）就写道：“……众所周知，谦逊的人并不会以谦逊为名行事”（1993, 10）。意思是：谦逊的人并不觉得自己行事谦逊，公正的人却通常觉得自己行事公正。
+  - id: 18
+    kind: body
+    source: |-
+      ### 1.3 Normative Status
+    step1: |-
+      ### 1.3 规范性地位
+    step2: |-
+      ### 1.3 规范性地位
+  - id: 19
+    kind: body
+    source: |-
+      In addition to the descriptive features outlined above, accounts of modesty and humility also aim to explain its normative status—why does modesty or humility count as a virtue? Most contemporary work assumes that modesty and humility are genuine moral virtues. Of course, not all philosophers have agreed. Aristotle and David Hume in particular are often singled out as denying that modesty or humility really are virtuous.
+    step1: |-
+      除了上面勾画的描述性特征，关于谦逊与谦卑的说明还力图解释它的规范性地位——谦逊或谦卑为什么算作一种德性？大多数当代研究假定谦逊与谦卑是真正的道德德性。当然，并非所有哲学家都同意。亚里士多德与大卫·休谟尤其常被点名为否认谦逊或谦卑真是德性的人。
+    step2: |-
+      除了上面这些描述性特征，各种说明还要解释谦逊与谦卑的规范性地位——谦逊或谦卑凭什么算德性？当代研究大多默认它们是货真价实的道德德性。当然，并非所有哲学家都买账。亚里士多德（Aristotle）与大卫·休谟（David Hume）就常被点名为反对者：他们不承认谦逊或谦卑真是德性。
+  - id: 20
+    kind: body
+    source: |-
+      Raterman (2006, 222) and Brennan (2007, 112) both claim that Aristotle denies that modesty is a virtue, as he thinks that a virtuous person is justified in making claims about their own merit. Some have also had a hard time squaring virtues like modesty and humility with Aristotle’s ideal of the great-souled man (*megalopsuchos*), who deserves honors and knows it (see *Nicomachean Ethics* IV.3). Those working in a religious context influenced by Aristotle have to balance these competing ideals; see Foley (2004, 407ff.) and McCloskey (2006, 183). Some passages used to support the idea that Aristotle denies modesty is a virtue (*Nicomachean Ethics* 1108a32 and 1128b10–35) concern the Greek term *aidōs*, which is sometimes translated as ‘modesty’ but also commonly rendered as ‘shame’. Some modern interpreters have drawn from Aristotle to support the idea that modesty *is* a virtue: Driver (1989, 380) notes that Aristotle says the truthful person is inclined to understate the truth (*Nicomachean Ethics* 1127b4–8), Winter (2012) draws heavily from Aristotle in defending modesty as a virtue, and Hazlett (2012) defends intellectual humility as an Aristotelian mean state between dogmatism and timidity. Whatever Aristotle’s view of modesty, other Greek philosophers use the term *aidōs* to name a virtue. Epictetus, for example, uses it to refer to a good quality that involves taking other people’s point of view into consideration; see Epictetus: Appropriate Other-Concern and the discussion in Kamtekar (1998).
+    step1: |-
+      Raterman（2006, 222）与 Brennan（2007, 112）都声称亚里士多德否认谦逊是德性，因为他认为有德之人有理由就自己的优点作出断言。有些人也难以把谦逊、谦卑这类德性与亚里士多德关于大度之人（*megalopsuchos*）的理想调和起来，此人配得上荣誉并且知道这一点（见《尼各马可伦理学》IV.3）。在受亚里士多德影响的宗教语境中工作的论者，不得不在这些相互竞争的理想之间求平衡；见 Foley（2004, 407 以下）与 McCloskey（2006, 183）。有些用来支持“亚里士多德否认谦逊是德性”这一看法的段落（《尼各马可伦理学》1108a32 与 1128b10–35）涉及希腊词 *aidōs*，它有时译作“谦逊”，但也常译作“羞耻”。一些当代解释者从亚里士多德那里取材，支持谦逊*是*德性这一看法：Driver（1989, 380）指出，亚里士多德说过诚实的人倾向于把真相说得轻一些（《尼各马可伦理学》1127b4–8）；Winter（2012）在捍卫谦逊为德性时大量取法亚里士多德；Hazlett（2012）把智识谦卑辩护为独断与怯懦之间的亚里士多德式中间状态。无论亚里士多德对谦逊持何看法，其他希腊哲学家都确实用 *aidōs* 来命名一种德性。例如爱比克泰德用它来指一种好的品质，这种品质要求把他人的观点纳入考虑；见“爱比克泰德：适当的他人关切”与 Kamtekar（1998）的讨论。
+    step2: |-
+      Raterman（2006, 222）与 Brennan（2007, 112）都说，亚里士多德否认谦逊是德性，因为在他看来，有德之人完全有理由断言自己的价值。也有人发现，谦逊、谦卑这类德性与亚里士多德心中的大度之人（*megalopsuchos*）理想难以两全——这人配受荣誉，也知道自己配（见《尼各马可伦理学》IV.3）。受亚里士多德影响的宗教论者，则得在这两种相互竞争的理想之间求平衡，见 Foley（2004, 407 以下）与 McCloskey（2006, 183）。常被引来说明亚里士多德否认谦逊的几段文字（《尼各马可伦理学》1108a32、1128b10–35），讲的是希腊词 *aidōs*；这个词有时译作“谦逊”，也常译作“羞耻”。不少当代解释者反过来从亚里士多德那里替“谦逊是德性”找依据：Driver（1989, 380）指出，亚里士多德说过诚实的人往往把事情说得比实际轻（《尼各马可伦理学》1127b4–8）；Winter（2012）大量借助亚里士多德，为谦逊作为德性辩护；Hazlett（2012）则把智识谦卑说成独断与怯懦之间的亚里士多德式中间状态。至于亚里士多德本人怎么看谦逊，暂且不论；别的希腊哲学家确实用 *aidōs* 来命名一种德性。爱比克泰德（Epictetus）便用它指一种好品质，这种品质要求把别人的视角纳入考虑——见“爱比克泰德：适当的他人关切”（Epictetus: Appropriate Other-Concern）与 Kamtekar（1998）的讨论。
+  - id: 21
+    kind: body
+    source: |-
+      Hume is another historical figure who at least doubted whether modesty is a virtue. Hume includes modesty in his list of “monkish virtues”—various non-virtuous traits associated with self-denial that masquerade as virtues. Other examples of monkish virtues given by Hume include celibacy, fasting, silence, and solitude. According to Hume these pseudo-virtues “… stupefy the understanding and harden the heart, obscure the fancy and sour the temper” (*Enquiry Concerning the Principles of Morals* sec. IX). Elsewhere, however, Hume seems more positive about modesty as when he writes:
+    step1: |-
+      休谟是另一位至少怀疑过谦逊是否为德性的历史人物。休谟把谦逊列入他的“僧侣式德性”清单——各种与自我否定相关联、冒充德性的非德性品质。休谟举出的僧侣式德性的其他例子包括独身、斋戒、沉默与独处。在休谟看来，这些伪德性“……使理解力麻木，使心肠变硬，使想象晦暗，使脾气败坏”（《道德原则研究》第 9 节）。然而在别处，休谟对谦逊似乎更为正面，例如他写道：
+    step2: |-
+      休谟是另一位至少怀疑过谦逊算不算德性的人物。他把谦逊收进“僧侣式德性”的清单——一批与自我克制相关联、却乔装成德性的坏品质。清单上的其他例子还有独身、斋戒、缄默与独处。照休谟的说法，这些伪德性“……使理解力麻木，使心肠变硬，使想象晦暗，使脾气发酸”（《道德原则研究》（*Enquiry Concerning the Principles of Morals*）sec. IX）。换到别处，他对谦逊又不那么苛刻，比如这一段：
+  - id: 22
+    kind: body
+    source: |-
+      > But its [modesty’s] most usual meaning is when it is opposed to impudence and arrogance, and expresses a diffidence of our own judgement, and a due attention and regard for others. In young men chiefly, this quality is a sure sign of good sense; and is also the certain means of augmenting that endowment, by preserving their ears open to instruction, and making them still grasp after new attainments. But it has a further charm to every spectator; by flattering every man’s vanity, and presenting the appearance of a docile pupil, who receives, with proper attention and respect, every word they utter. (*Enquiry Concerning the Principles of Morals* sec. VIII)
+    step1: |-
+      > 但它［谦逊］最常见的含义，是与厚颜和傲慢相对，表达我们对自己判断的缺乏自信，以及对他人应有的注意与尊重。这种品质主要在年轻人身上是良好判断力的可靠标志；它也是增进这份禀赋的可靠手段，因为它使他们的耳朵保持敞开以接受教导，使他们不断追求新的收获。但它对每个旁观者还有一重魅力；它迎合每个人的虚荣，呈现出一个驯顺学生的模样，此人以适当的注意与尊重，领受他们说的每一个字。（《道德原则研究》第 8 节）
+    step2: |-
+      > 但它［谦逊］最常用的意思，是与厚颜、傲慢相对，指对自己判断颇有迟疑，对他人则给予应有的关注与尊重。这一品质主要见于年轻人：它是有见识的确切标志，也是增长这份见识的确切手段——它让耳朵敞着听教导，让人不断追求新的长进。对旁观者，它另有一重魅力：迎合人人皆有的虚荣，摆出驯良学生的模样，把旁人每句话都当作受教之言，恭恭敬敬地领受。（《道德原则研究》sec. VIII）
+  - id: 23
+    kind: body
+    source: |-
+      Hume takes virtues to be qualities that are useful or agreeable but seems to have had mixed feelings about modesty at least. Davie (1999) and Reed (2012) have argued that the so-called monkish virtues may count as virtues even by Hume’s standard.
+    step1: |-
+      休谟把德性视为有用或令人愉快的品质，但他至少对谦逊似乎心情复杂。Davie（1999）与 Reed（2012）论证说，所谓僧侣式德性即便按休谟自己的标准也可能算作德性。
+    step2: |-
+      休谟以有用或令人愉快为德性的标准，对谦逊却去取两难。Davie（1999）与 Reed（2012）都提出：所谓僧侣式德性，照休谟自己的标准也未必不算德性。
+  - id: 24
+    kind: body
+    source: |-
+      Modesty’s status as a virtue has been liminal for other figures too. Benjamin Franklin initially excluded humility when drawing up a list of virtues he wished to develop. He added it only after a Quaker friend mentioned that Franklin was often overbearing and insolent in conversation (1771/1982, 84). His description of humility reads simply: “Imitate Jesus and Socrates” (77). This anticipates contemporary discussion of intellectual humility and its role as both a moral and epistemic virtue.
+    step1: |-
+      谦逊作为德性的地位，对另外一些人物来说同样处在边缘。本杰明·富兰克林起初在开列他希望培养的德性清单时，把谦卑排除在外。他是在一位贵格会朋友提到富兰克林在谈话中常常盛气凌人、出言不逊之后，才把它加上去的（1771/1982, 84）。他对谦卑的描述写得简单：只一句“效法耶稣与苏格拉底”（77）。这预示了当代关于智识谦卑的讨论，以及它作为道德德性与认知德性的双重角色。
+    step2: |-
+      在另一些人那里，谦逊的德性地位同样暧昧。本杰明·富兰克林（Benjamin Franklin）起初拟定要培养的德性清单时，把谦卑排除在外。一位贵格会朋友指出他谈吐常常盛气凌人、出言不逊，他才补上这一条（1771/1982, 84）。他给谦卑写的说明简单到只有一句：“效法耶稣与苏格拉底”（77）。这已经预告了当代关于智识谦卑的讨论，以及它同时作为道德德性与认知德性的角色。
+  - id: 25
+    kind: body
+    source: |-
+      Again, the bulk of contemporary work assumes that modesty and humility are virtues and sees the main challenge as explaining why. For many it was seen as valuable because of its theological role: Aquinas says that humility is important because it makes one open to God’s grace (see *Summa Theologica* 2.2 Q.161 and Keys 2003). Others have found it virtuous because of the non-religious good effects it produces, like combating jealousy and making social interactions run more smoothly. Others locate the source of its virtuousness in the underlying attitude it manifests, things like kindness and concern for others. Still others argue that it is virtuous because it is a fitting response to certain morally relevant features of the world like the equal moral status of all people. What modesty is and why it is valuable are related questions and the following sections will give an overview of contemporary views on both questions.
+    step1: |-
+      同样，当代研究的主流假定谦逊与谦卑是德性，并把主要难题看作解释它们为什么是德性。对许多人来说，它之所以有价值，在于它的神学角色：阿奎那说谦卑之所以重要，是因为它使人对神的恩典敞开（见《神学大全》2.2 Q.161 与 Keys 2003）。另一些人之所以认为它是德性，是因为它产生非宗教性的好效果，比如对抗嫉妒、使社会交往更顺畅。还有一些人把它的德性之源定在它所显示的底层态度上，如善意与对他人的关切。另有论者主张，它之所以是德性，是因为它是对世界上某些道德上相关特征的恰当回应，如所有人平等的道德地位。谦逊是什么与它为什么有价值是相互关联的问题，下面几节将概述当代关于这两个问题的观点。
+    step2: |-
+      还是那句话：当代研究大多默认谦逊与谦卑是德性，剩下的主要难题是说明凭什么。许多人看重它的神学作用——阿奎那就说谦卑之所以要紧，在于它让人对神的恩典敞开（见《神学大全》2.2 Q.161 与 Keys 2003）。也有人从世俗的好效果里看到它的德性：它能压制嫉妒，能让人往来更顺。还有人把它之所以为德性的根据，放在它所流露的底色态度上，例如善意、对他人的关心。另有一派主张，它是对世界上某些道德相关特征的恰当回应——例如人人生而平等的道德地位（moral status）。谦逊是什么、它为何有价值，本是彼此牵连的问题，下面几节就这两个问题概述当代诸说。
+  - id: 26
+    kind: body
+    source: |-
+      The following presentation of the various contemporary views of modesty and humility will focus on presenting only the positive accounts and not objections to the various positions. The dialectic of the literature typically takes the form of examples and counter-examples, many of which require a good deal of description to be compelling. So in the interest of space, the descriptions of the various views will focus on presenting only the positive accounts.
+    step1: |-
+      以下对当代各种谦逊与谦卑观点的介绍，将只呈现正面的说明，而不呈现对各种立场的反对意见。文献中的论辩通常以例子与反例的形式展开，其中许多例子需要大量描述才有说服力。所以为节省篇幅，对各派观点的描述将只呈现正面的说明。
+    step2: |-
+      下面介绍当代各家观点时，只摆正面的主张，不列对它们的反驳。这个领域的论辩往往靠例子与反例推进，而许多例子要有说服力，就得花上不少篇幅来铺陈。为篇幅计，行文只取正面主张。
+  - id: 27
+    kind: body
+    source: |-
+      ## 2. Doxastic Accounts
+    step1: |-
+      ## 2. 信念论解释
+    step2: |-
+      ## 2 信念论解释
+  - id: 28
+    kind: body
+    source: |-
+      Doxastic accounts explain modesty and its value by appeal to the presence or absence of certain beliefs. The relevant beliefs are typically self-evaluations, beliefs about our own value, skill, or goodness. The content of the relevant beliefs is sometimes taken to be comparative and sometimes not—think of the difference between thinking that you’re really great and thinking that you are better than others.
+    step1: |-
+      信念论解释诉诸某些信念的在场或缺席来说明谦逊及其价值。相关信念通常是自我评价，即关于我们自己的价值、技能或善性的信念。相关信念的内容有时被理解为比较性的，有时则不然——想一想“你觉得自己非常了不起”与“你觉得自己比别人强”之间的区别。
+    step2: |-
+      信念论解释（doxastic accounts）靠某些信念的有无来说明谦逊及其价值。相关信念通常是自我评价，即关于自身价值、本领或善性的信念。这类信念的内容有时被讲成比较性的，有时不然——“我很有本事”和“我比许多人有本事”就不是一回事。
+  - id: 29
+    kind: body
+    source: |-
+      Ignorance accounts explain modesty by appeal to states that are epistemically defective in some way; the modest person either lacks certain beliefs about their own goodness or has false beliefs that involve underrating themselves. Accuracy accounts, on the other hand, aim to remove any tension between epistemic and moral virtue and so explain modesty via beliefs that are epistemically good. On these views, modesty is at its heart about getting it right about one’s place in the world. Strong accuracy accounts make modesty incompatible with ignorance. For these views modesty is essentially about having accurate beliefs. Weak accuracy accounts deny that modesty requires an epistemic defect, but leave it open whether moral virtue is compatible with epistemic vices.
+    step1: |-
+      无知论解释诉诸某种在认知上有缺陷的状态来说明谦逊：谦逊的人或者缺少某些关于自己善性的信念，或者持有涉及低估自己的假信念。另一方面，准确论解释力求消除认知德性与道德德性之间的任何紧张，因而通过认知上良好的信念来说明谦逊。在这些观点看来，谦逊的核心在于正确把握自己在世界中的位置。强准确论把谦逊与无知判为不相容；在这些观点看来，谦逊本质上在于持有准确的信念。弱准确论否认谦逊要求认知缺陷，但对道德德性是否与认知上的恶相容，则不作断定。
+    step2: |-
+      无知论（ignorance accounts）诉诸认知上有缺陷的状态来说明谦逊：谦逊的人要么缺少某些关于自身善性的信念，要么持有让自己低估自己的假信念。准确论（accuracy accounts）则相反，力求消掉认知德性与道德德性之间的紧张，于是用认知上站得住的信念来说明谦逊。照这些看法，谦逊说到底是把自己在世界中的位置看准。强准确论更把谦逊与无知判为不相容，认为谦逊的本性就在于信念准确。弱准确论只否认谦逊必须有认知缺陷；至于道德德性能否同认知上的恶处并存，它留而不决。
+  - id: 30
+    kind: body
+    source: |-
+      ### 2.1 Ignorance
+    step1: |-
+      ### 2.1 无知
+    step2: |-
+      ### 2.1 无知
+  - id: 31
+    kind: body
+    source: |-
+      Julia Driver’s account of modesty kicked off a modern revival in work on the virtue. For Driver (1989 and 2001), the modest person is someone who is ignorant of their own good qualities in certain ways. This was hinted at, but not developed, by Henry Sidgwick: “humility prescribes a low opinion of our merits: but if our merits are comparably high, it seems strange to direct us to have a low opinion of them” (1907/1981, 334). He later denies that there is anything virtuous about having a low self-opinion, but Driver develops this idea and discusses a range of moral virtues that require ignorance: blind charity (seeing the good in others while remaining ignorant of the bad), impulsive courage, certain refusals to hold grudges, some types of innocence, and of course, modesty.
+    step1: |-
+      Julia Driver 关于谦逊的说明，掀起了这一德性研究的一场现代复兴。对 Driver（1989 与 2001）来说，谦逊的人是某些方面对自己优良品质无知的人。亨利·西季威克曾暗示但未展开这一想法：“谦卑要求我们对自己的优点持低的看法：但如果我们的优点相当高，那么指示我们对它持低看法，就似乎很奇怪了”（1907/1981, 334）。他后来否认对自己的低看法有任何德性可言，但 Driver 发展了这一想法，并讨论了一系列要求无知的道德德性：盲目的仁慈（看到他人身上的善，同时对恶保持无知）、冲动的勇气、某些拒绝记恨的做法、某些类型的纯真，当然还有谦逊。
+    step2: |-
+      Julia Driver 关于谦逊的说明，带动了这项德性研究的现代复兴。在 Driver（1989 与 2001）看来，谦逊的人是在某些方面对自己优良品质一无所知的人。亨利·西季威克（Henry Sidgwick）早已暗示过这一点，只是没有展开：“谦卑要求我们对自己的优点持低评价；可如果我们的优点确实相当高，叫我们对它持低评价就未免奇怪了”（1907/1981, 334）。西季威克后来否认低看自己有什么德性可言；Driver 却接过这个想法，发展出一串以无知为条件的道德德性。清单上有盲目的仁慈——看到他人身上的善，对恶则一无所知；有冲动的勇气；有某些不肯记仇的做法；有某些天真；当然还有谦逊。
+  - id: 32
+    kind: body
+    source: |-
+      Driver’s account is sometimes called an ‘ignorance’ account and other times an ‘underestimation’ account as the modest person need not be completely ignorant of their own good qualities, just underestimate them. As she points out (1999, 828), this need not require a low estimation as one can underestimate a good quality while still thinking it pretty good overall. The modest person, on this account, is someone who wrongly believes that they are not as good as they really are in some respect. This is taken to explain the key features of modesty: it is a dependent virtue since there is another quality one is ignorant of, it is not purely behavioral so allows for false modesty, and it recognizes self-attribution strangeness, since modesty itself is a good quality.
+    step1: |-
+      Driver 的说明有时被称为‘无知’说明，有时被称为‘低估’说明，因为谦逊的人不必对自己的优良品质完全无知，只需低估它们。正如她所指出的（1999, 828），这不必要求低评价，因为一个人可以低估一种好品质，同时仍然认为它总体上相当好。在这种说明下，谦逊的人是错误地相信自己在某些方面不如自己实际那么好的人。这被用来解释谦逊的关键特征：它是一种依附性德性，因为另有一种品质是当事人所不知的；它不是纯粹行为性的，因而允许伪谦逊；它承认自我归属的怪异性，因为谦逊本身是一种好品质。
+    step2: |-
+      Driver 的说明有时叫“无知”说明，有时又叫“低估”说明：谦逊的人不必对自己的好品质全然无知，只需低估它们。她指出（1999, 828），低估并不等于低评价——一种好品质照样可以被低估，而当事人在总体上仍觉得它相当不错。照这套说明，谦逊的人是错以为自己某方面不如实际那么好的人。这一说明恰好解释谦逊的几个关键特征：它是依附性的，因为另有一种品质当事人并不知晓；它不是纯行为性的，因而容得下伪谦逊；它还容得下自我归属的怪异性，因为谦逊本身正是好品质。
+  - id: 33
+    kind: body
+    source: |-
+      This account is set against the background of a more general account of virtue. Driver defends a consequentialist account of virtue where traits are virtuous when they, in general, produce good effects (Driver, 2001). This view of virtue makes it easy to accommodate morally virtuous traits that involve epistemic defects since some epistemic defects might turn out to produce better effects in the long run. Accounts of virtue inspired by Aristotle, however, make virtue a matter of practical wisdom which makes moral virtue incompatible with epistemic defects. It’s important to note that while Driver’s early work makes modesty require ignorance, the weaker claim that moral virtue is compatible with ignorance is enough to make problems for Aristotelian accounts of virtue (see Driver 1999)[^driver-1999]. Accuracy accounts of modesty and humility are largely responses to Driver that are typically motivated to deny the idea that moral virtue can require, or even be compatible with, ignorance and false belief.
+    step1: |-
+      这一说明放在一个更一般的德性说明的背景之下。Driver 捍卫一种后果论的德性说明，其中各种品性在总体上产生好效果时就是德性的（Driver, 2001）。这种德性观很容易容纳那些涉及认知缺陷的道德德性品性，因为某些认知缺陷在长远看来可能产生更好的效果。然而，受亚里士多德启发的德性说明把德性视为实践智慧的事，这就使道德德性与认知缺陷不相容。要注意的是，Driver 的早期工作使谦逊要求无知，但“道德德性与无知相容”这一较弱的论断，已经足以给亚里士多德式的德性说明制造麻烦（见 Driver 1999）[^driver-1999]。关于谦逊与谦卑的准确论说明，很大程度上是对 Driver 的回应，其动机通常是反对“道德德性能够要求、甚至能够与无知和假信念相容”这一想法。
+    step2: |-
+      这套说明背后是一个更一般的德性观。Driver 主张后果论的德性观：一种品性只要总体上产生好效果，便是德性（Driver, 2001）。这样的德性观很容易安顿那些带认知缺陷的道德品性——某些认知缺陷从长远看，说不定效果更好。受亚里士多德启发的德性观则把德性系于实践智慧，道德德性于是与认知缺陷不能并存。值得注意的是，Driver 早期的工作固然要谦逊以无知为条件，但“道德德性与无知相容”这个较弱的论断，已足以为亚里士多德式的德性说明添麻烦（见 Driver 1999）[^driver-1999]。关于谦逊与谦卑的准确论说明，大体都是对 Driver 的回应，动机多半是反对“道德德性竟能要求、乃至兼容无知与假信念”这一想法。
+  - id: 34
+    kind: body
+    source: |-
+      ### 2.2 Strong Accuracy
+    step1: |-
+      ### 2.2 强准确论
+    step2: |-
+      ### 2.2 强准确论
+  - id: 35
+    kind: body
+    source: |-
+      Strong accuracy accounts not only deny that modesty is compatible with ignorance, but defend the idea that modesty is, at its heart, about having certain true beliefs. On some views, humility does involve underestimation, but only as a means to accurate self-assessment. Foot (1978/2002, 9) and Slote (1983, 61–62) both note that humility is a corrective to a general human tendency to think too highly of ourselves. No evidence is offered in support of this empirical claim, but its truth will require considering how self-evaluation works in different contexts, skill levels, cultures, and temperaments.
+    step1: |-
+      强准确论不仅否认谦逊与无知相容，而且主张谦逊的核心在于持有某些真信念。在一些观点看来，谦卑确实涉及低估，但那只是作为达到准确自我评价的手段。Foot（1978/2002, 9）与 Slote（1983, 61–62）都指出，谦卑是对人类普遍倾向于过高看待自己的一种矫正。这一经验性主张没有提供证据支持，但要判定其真假，就需要考虑自我评价在不同语境、技能水平、文化与气质中如何运作。
+    step2: |-
+      强准确论不只否认谦逊与无知相容，还主张谦逊的核心在于持有某些真信念。有些观点承认谦卑确实含低估，但那只是达到准确自我评价的手段。Foot（1978/2002, 9）与 Slote（1983, 61–62）都指出，谦卑矫正的是人类普遍高看自己的倾向。这个经验性主张没有拿出证据；要判断它真假，就得看自我评价在不同语境、不同技艺水平、不同文化与不同气质中如何运作。
+  - id: 36
+    kind: body
+    source: |-
+      Many strong accuracy accounts are called ‘egalitarian’ or ‘equitable’ views. These accounts make modesty a matter of a particular kind of correct belief. Drawing on Kantian ideas about the equal moral status of all rational agents, these views root modesty in a the accurate recognition of people’s equal moral status. So for Ben-Ze’ev (1993) modesty is a matter of knowledge of the equal moral worth of everyone and accurately seeing that particular good qualities do not affect this worth. Hare (1996, 240) distinguishes one’s “moral worth as a person” (a static and invariable value) from one’s “worth as a moral person” (a value that can be affected by good qualities) and sees modesty as rooted in a recognition of the former.
+    step1: |-
+      许多强准确论被称为‘平等主义的’或‘公平的’观点。这些说明把谦逊视为一种特定的正确信念。它们借助康德关于所有理性行动者平等道德地位的思想，把谦逊奠基于对人们平等道德地位的准确承认。所以对 Ben-Ze’ev（1993）来说，谦逊在于知道人人具有平等的道德价值，并准确地看出特定的好品质并不影响这一价值。Hare（1996, 240）把一个人“作为人的道德价值”（一种静态而不变的价值）与“作为道德人的价值”（一种可能受好品质影响的价值）区分开，并把谦逊视为对前者的承认。
+    step2: |-
+      许多强准确论被称作“平等主义”或“公平”的观点。这类说明把谦逊系于某种特定的正确信念。它们借用康德（Kant）关于所有理性行动者道德地位平等的主张，把谦逊奠基于对人人平等道德地位的准确承认。在 Ben-Ze’ev（1993）那里，谦逊就是知道人人具有平等的道德价值，并准确看出具体的好品质并不改变这份价值。Hare（1996, 240）则把“作为人的道德价值”（静态、不变）与“作为道德人的价值”（会受好品质影响）分开，认为谦逊植根于对前者的承认。
+  - id: 37
+    kind: body
+    source: |-
+      Since modesty is a matter of knowing the equal moral worth of all people, defenders of this view sometimes deny that modesty is a dependent virtue since one can have the relevant knowledge while lacking any good qualities oneself (see Ben-Ze’ev 1993)[^ben-ze’ev-1993]. They also sometimes deny that immoral people, or people who deny the equal moral worth of everyone, can ever be modest at all; see Nuyen (1998, 107) and Statman (1992, 434).
+    step1: |-
+      既然谦逊在于知道所有人平等的道德价值，这一观点的捍卫者有时否认谦逊是依附性德性，因为一个人可以在自己没有任何好品质的情况下拥有相关的知识（见 Ben-Ze’ev 1993）[^ben-ze’ev-1993]。他们有时也否认不道德的人、或者否认人人平等道德价值的人，能够做到谦逊；见 Nuyen（1998, 107）与 Statman（1992, 434）。
+    step2: |-
+      既然谦逊在于知道人人道德价值平等，这一派有时便否认谦逊是依附性德性——相关的知识可以同自身毫无好品质并存（见 Ben-Ze’ev 1993）[^ben-ze’ev-1993]。他们有时还否认：不道德的人，或者不承认人人道德价值平等的人，根本不可能谦逊。见 Nuyen（1998, 107）与 Statman（1992, 434）。
+  - id: 38
+    kind: body
+    source: |-
+      Another type of strong accuracy view appeals to different scales of evaluation. This type of view is defended by Brennan (2007), who attributes it to Adam Smith (see *Theory of Moral Sentiments* 6.3.22–23; it is also considered and rejected by Sidgwick 1907/1981, 334–5)[^sidgwick-1907]. On this view, modest people evaluate themselves relative to an ideal but evaluate others relative to practical norms. So modest people rightly think of themselves as not very good (compared to an ideal like a saint), and can rightly think of other people as being good (relative to how good most people actually are). Having two scales allows the modest person to make accurate assessments of themselves and others, albeit with regard to different evaluative standards. (See also asymmetry accounts below).
+    step1: |-
+      另一类强准确论诉诸不同的评价尺度。这一类观点由 Brennan（2007）捍卫，他将其归于亚当·斯密（见《道德情操论》6.3.22–23；Sidgwick 1907/1981, 334–5 也考虑并否弃了它）[^sidgwick-1907]。在这种观点看来，谦逊的人相对于理想来评价自己，却相对于实践规范来评价他人。所以谦逊的人有理由认为自己不太好（与圣徒之类的理想相比），也有理由认为他人是好的（相对于多数人实际有多好而言）。有两套尺度，谦逊的人便能对自己与他人作出准确的评价，尽管所用的评价标准不同。（另见下文的不对称说明。）
+    step2: |-
+      另一类强准确论诉诸不同的评价尺度。这一类由 Brennan（2007）主张，他把它归到亚当·斯密（Adam Smith）名下（见《道德情操论》（*Theory of Moral Sentiments*）6.3.22–23；Sidgwick 1907/1981, 334–5 曾考虑并否弃这一说法）[^sidgwick-1907]。照这套看法，谦逊的人拿理想来衡量自己，却拿实践常规来衡量别人。于是谦逊的人有理由认为自己不算好（比起圣徒之类的理想），也有理由认为别人是好的（就多数人实际的样子而言）。两套尺度在手，谦逊的人便能准确评价自己和他人，只是所依的评价标准不同。（另见下文的不对称说明。）
+  - id: 39
+    kind: body
+    source: |-
+      A third type of strong accuracy account requires accuracy about both our own good qualities and how those qualities are received by others. McMullin (2010) defends this type of account, requiring that the modest person acknowledge both the legitimacy of public standards and that one’s worth is not fully defined by them. Though she also requires tendencies to foster the welfare of others (as in kindness accounts below), these are rooted in an accurate understanding of oneself and one’s place in the social world.
+    step1: |-
+      第三类强准确论既要求对我们自己的优良品质准确，也要求对这些品质如何被他人接受准确。McMullin（2010）捍卫这一类说明，要求谦逊者既承认公共标准的正当性，也承认自己的价值并不完全由这些标准界定。尽管她也要求有促进他人福祉的倾向（如下文的仁厚说明），但这些倾向植根于对自身及自身在社会世界中位置的准确理解。
+    step2: |-
+      第三类强准确论要求两头都准：既要看准自己的好品质，也要看准这些品质如何被别人接受。McMullin（2010）主张这一类说明：谦逊的人既承认公共标准正当，也承认自身价值并不完全由这些标准来定。她同样要求谦逊者有促进他人福祉的倾向（见下文仁厚一类说明），但这类倾向植根于对自身、对自身在社会世界中位置的准确理解。
+  - id: 40
+    kind: body
+    source: |-
+      Strong accuracy accounts, by explaining modesty and humility by appeal to knowledge, not only deny that modesty requires ignorance or false belief, but make modesty incompatible with it.
+    step1: |-
+      强准确论通过诉诸知识来解释谦逊与谦卑，不仅否认谦逊要求无知或假信念，而且使谦逊与它们不相容。
+    step2: |-
+      强准确论用知识来解释谦逊与谦卑，不只否认谦逊要求无知或假信念，还把谦逊与它们判为不能相容。
+  - id: 41
+    kind: body
+    source: |-
+      ### 2.3 Weak Accuracy
+    step1: |-
+      ### 2.3 弱准确论
+    step2: |-
+      ### 2.3 弱准确论
+  - id: 42
+    kind: body
+    source: |-
+      Weak accuracy accounts are typically motivated by the wish to deny that moral virtues can require epistemic defects like ignorance or false beliefs. They differ from strong accuracy accounts, however, in that they strictly speaking allow that modesty or humility is compatible with epistemic defects. For most defenders of these views, however, the ideal case will be of moral virtue without any ignorance or false belief.
+    step1: |-
+      弱准确论通常的动机，是想否认道德德性能够要求无知或假信念这类认知缺陷。然而它们与强准确论不同之处在于：严格说来，它们允许谦逊或谦卑与认知缺陷相容。不过对这类观点的大多数捍卫者来说，理想的情形仍是没有无知或假信念的道德德性。
+    step2: |-
+      弱准确论多半出于一个愿望：否认道德德性会要求无知、假信念这类认知缺陷。它与强准确论的区别在于：严格说来，它容许谦逊或谦卑与认知缺陷并存。不过在这派多数人看来，理想的情形仍是不带任何无知或假信念的道德德性。
+  - id: 43
+    kind: body
+    source: |-
+      Non-overestimation accounts deny that modesty or humility requires underestimation and instead claim that all that is required is not overestimating one’s own good qualities. Flanagan (1990) defends this kind of account for modesty and Richards (1988) for humility. This kind of account allows that the modest or humble person can have accurate self-knowledge. It also makes the virtue compatible with ignorance since one way of not overestimating one’s good qualities is to underestimate them, though Flanagan claims that “ideally” this will not happen (1990, 427).
+    step1: |-
+      不高估说明否认谦逊或谦卑要求低估，而主张所要求的一切只是不高估自己的优良品质。Flanagan（1990）为谦逊捍卫这类说明，Richards（1988）为谦卑捍卫之。这类说明允许谦逊或谦卑的人拥有准确的自我知识。它也使这一德性与无知相容，因为不高估自己好品质的一种方式就是低估它们，尽管 Flanagan 声称“理想地”这不会发生（1990, 427）。
+    step2: |-
+      不高估说明否认谦逊或谦卑需要低估，认为只要求不高估自己的好品质。Flanagan（1990）为谦逊、Richards（1988）为谦卑分别主张这类说明。它允许谦逊或谦卑的人拥有准确的自我认识，也容得下无知——毕竟低估也是不高估的一种方式；不过 Flanagan 说，“理想情况下”不至于如此（1990, 427）。
+  - id: 44
+    kind: body
+    source: |-
+      Another type of weak accuracy account is the de-emphasis account. Defended by Ridge (2000) this account makes modesty a matter of de-emphasizing one’s good qualities for the right reasons. De-emphasizing here includes things like not going out of your way to stress the significance of your good qualities. This kind of account allows modesty to be compatible with accurate self-knowledge, though de-emphasis is also compatible with inaccurate self-assessment too.
+    step1: |-
+      另一种弱准确论是淡化说明。它由 Ridge（2000）捍卫，把谦逊视为出于正当理由而淡化自己的优良品质。这里的淡化包括不特意去强调自己好品质之重要之类的事。这类说明使谦逊与准确的自我知识相容，不过淡化同时也与不准确的自我评价相容。
+    step2: |-
+      另一类弱准确论是淡化说明。Ridge（2000）主张，谦逊在于出于正当理由而淡化自己的好品质。所谓淡化，包括不刻意强调自己的好品质有多重要之类。这类说明让谦逊与准确的自我认识相容，可淡化同样容得下不准确的自我评价。
+  - id: 45
+    kind: body
+    source: |-
+      Finally, Raterman (2006) defends a reluctance account of modesty. On this account a person is modest when they are reluctant to evaluate themselves in terms of their good qualities. This allows the modest person to have accurate self-knowledge as long as they are reluctant to evaluate themselves through the lens of their good qualities. Though it does not require ignorance, various inaccurate self-assessments are compatible with being reluctant to self-evaluate in these ways. This account has the benefit of providing a more nuanced view of when self-ascriptions of modesty are self-undermining; Raterman points out that his account allows that saying “I am modest” in a quiet conversation with a close friend need not be self-undermining (2006, 232).
+    step1: |-
+      最后，Raterman（2006）捍卫一种不情愿说明。在这种说明下，一个人在自己的优良品质方面不愿评价自己时，就是谦逊的。这使谦逊的人可以拥有准确的自我知识，只要他们不愿透过自己优良品质的透镜来评价自己。尽管它不要求无知，各种不准确的自我评价也与以这些方式不愿自我评价相容。这一说明的好处，在于它对谦逊的自我归属何时是自我拆台提供了更为细致的看法；Raterman 指出，他的说明允许在与密友的安静交谈中说“我很谦逊”不必是自我拆台的（2006, 232）。
+    step2: |-
+      最后是 Raterman（2006）的不情愿说明：一个人不愿拿自己的好品质来评价自己，便是谦逊的。只要他不愿透过好品质这副镜片来看自己，他照样可以拥有准确的自我认识。这套说明并不要求无知，倒也容得下各种不准确的自我评价。它的好处是对“自我归属谦逊何时会自我拆台”看得更细：Raterman 指出，照他的说明，在跟好友轻声细语时说一句“我很谦逊”，未必就自我拆台（2006, 232）。
+  - id: 46
+    kind: body
+    source: |-
+      ## 3. Non-Doxastic Accounts
+    step1: |-
+      ## 3. 非信念论解释
+    step2: |-
+      ## 3 非信念论解释
+  - id: 47
+    kind: body
+    source: |-
+      Non-doxastic accounts do not attempt to explain modesty or humility by appeal to beliefs or belief-like states at all. For these accounts the virtue may be compatible with ignorance or it may not be—it’s not about one’s beliefs at all. There is a wide range of such accounts and they see modesty or humility as being rooted in very different kinds of states and relations.
+    step1: |-
+      非信念论解释根本不以信念或类似信念的状态来说明谦逊或谦卑。对这些说明来说，这一德性可能与无知相容，也可能不相容——它根本不关乎一个人的信念。这类说明种类繁多，它们把谦逊或谦卑奠基于极不相同的状态与关系之中。
+    step2: |-
+      非信念论解释（non-doxastic accounts）索性不拿信念或类信念状态来说明谦逊与谦卑。在这类说明里，这一德性与无知相容也好，不相容也罢，都不打紧——它压根不关乎信念。此类说明种类很多，它们把谦逊或谦卑安放在大不相同的状态与关系之中。
+  - id: 48
+    kind: body
+    source: |-
+      How compatible these various views are is an interpretive issue. Read as highlighting a key feature of modesty or humility, many do not rule the others out; attention, proportion, and kindness can all be critical features of modesty. They may also be read, and often are intended, as describing the fundamental feature that explains all others and in this sense they are genuine rivals that rule each other out.
+    step1: |-
+      这些不同观点之间有多相容，是一个解释问题。若理解为在突显谦逊或谦卑的某个关键特征，那么许多观点彼此并不排斥；注意、比例与仁厚都可以是谦逊的关键特征。它们也可以被理解为、而且常常意在描述那个解释其余一切的根本特征，在这个意义上，它们是真正彼此排斥的对手。
+    step2: |-
+      这些看法彼此有多相容，要看怎么读。若读作在点出谦逊或谦卑的某个关键特征，许多看法之间并不排斥：注意、比例、仁厚，都可以是谦逊的关键特征。若读作在描述那个解释其余一切的根本特征——作者往往也确有此意——它们就是货真价实的对手，彼此排斥。
+  - id: 49
+    kind: body
+    source: |-
+      ### 3.1 Proportion
+    step1: |-
+      ### 3.1 比例
+    step2: |-
+      ### 3.1 比例
+  - id: 50
+    kind: body
+    source: |-
+      Hurka (2001, 110–111) sees modesty and humility as virtues of proportion. For him, attitudes should be proportionate to the absolute goodness of their object. This involves a denial of an asymmetry that some (Maes 2004)[^maes-2004] see as central to modesty; one’s responses should track absolute goodness regardless of whether the object is our own good qualities or those of another. Though he acknowledges that this will involve some cognitive states, what must be proportionate for Hurka are positive responses like pleasure or enjoyment. This account requires accuracy in the sense that one’s responses must be accurately proportioned to the goodness of the object, but not in the sense that it requires accurate beliefs about one’s own good qualities.
+    step1: |-
+      Hurka（2001, 110–111）把谦逊与谦卑视为比例的德性。在他看来，态度应当与其对象的绝对善成比例。这涉及否认一种不对称，而有些人（Maes 2004）[^maes-2004] 认为这种不对称是谦逊的核心；一个人的反应应当追随绝对善，不论对象是我们自己的优良品质还是他人的优良品质。尽管他承认这会涉及某些认知状态，但对 Hurka 来说必须成比例的是诸如快乐或享受这样的积极反应。这一说明要求准确，含义是反应必须与对象的善准确成比例，而不是说它要求关于自身优良品质的准确信念。
+    step2: |-
+      Hurka（2001, 110–111）把谦逊与谦卑看作比例的德性（virtues of proportion）。在他看来，态度应当与对象的绝对善成正比。这就否认了一种不对称，而 Maes（2004）[^maes-2004] 等人认为这种不对称正是谦逊的核心：人的反应应当跟随绝对善，无论对象是自己的好品质还是别人的好品质。Hurka 承认这里牵涉某些认知状态，但在他看来必须成比例的是快乐、享受这类积极反应。这套说明也要准确，但这准确指的是反应与对象的善准确成比例，而不是说要有关于自身好品质的准确信念。
+  - id: 51
+    kind: body
+    source: |-
+      ### 3.2 Indifference
+    step1: |-
+      ### 3.2 漠然
+    step2: |-
+      ### 3.2 漠然
+  - id: 52
+    kind: body
+    source: |-
+      Many theorists have seen modesty as rooted in a special kind of indifference. Typically this is an indifference to praise, the high ranking relative to others, or positive evaluation by others. Schueler (1997), for example, sees modesty as being indifferent to being evaluated highly on the basis of one’s good qualities. Though he assumes that the modest person will have an accurate self-image, this is not entailed by his account. A similar account is given by Arpaly and Schroeder (2014, 245–250) who see being modest as not caring about how you are ranked relative to others. Often, they note, this will have ignorance as a side effect, but what is essential to modesty is a kind of indifference.
+    step1: |-
+      许多论者把谦逊视为植根于一种特殊的漠然。通常这是对赞扬、相对于他人的高排名或他人正面评价的漠然。例如，Schueler（1997）认为谦逊就是对基于自己优良品质而受到高度评价一事漠然。尽管他假定谦逊的人会有准确的自我形象，这一点并不由他的说明所蕴含。Arpaly 与 Schroeder（2014, 245–250）给出了类似的说明，他们把谦逊视为不在乎自己相对于他人如何被排名。他们指出，这往往会以无知作为副作用，但谦逊的本质在于某种漠然。
+    step2: |-
+      不少论者认为谦逊植根于一种特殊的漠然（indifference）。这通常是对赞扬、对在他人之间的高排名、对他人好评的漠然。比如 Schueler（1997）就说，谦逊是对因自己的好品质而受高度评价一事漠不关心。他固然假定谦逊的人有准确自我形象，但他的说明并不蕴含这一点。Arpaly 与 Schroeder（2014, 245–250）的说法相近：谦逊就是不在乎自己在与他人的比较中排在第几。他们指出，这往往附带无知作为副作用，但谦逊的本质在于那份漠然。
+  - id: 53
+    kind: body
+    source: |-
+      Roberts and Wood (2003) give a similar account of humility, opposing it to the vices of vanity and arrogance. For them, lacking vanity means being unconcerned with the opinions of others and lacking arrogance means being unconcerned with entitlements that come along with social recognition of good qualities. Again, this is not doxastic but instead discussed as a kind of emotional insensitivity (2003, 261).
+    step1: |-
+      Roberts 与 Wood（2003）对谦卑给出类似的说明，把它与虚荣和傲慢这两种恶对立起来。在他们看来，没有虚荣意味着不在乎别人的看法，没有傲慢意味着不在乎伴随他人对自己优良品质的社会承认而来的权利。这同样不是信念性的，而是被讨论为一种情感上的不敏感（2003, 261）。
+    step2: |-
+      Roberts 与 Wood（2003）对谦卑的说法与此相近，他们把谦卑同虚荣与傲慢两种恶相对。在他们看来，没有虚荣就是不在意别人的看法；没有傲慢，就是不在意那些随他人认可自己好品质而来的资格。这同样不是信念层面的事，而是被当作一种情感上的迟钝来谈（2003, 261）。
+  - id: 54
+    kind: body
+    source: |-
+      Though not explicitly discussing modesty or humility, many Buddhist thinkers defend virtues rooted in a similar kind of indifference. To oppose pride or arrogance (Sanskrit *māna*), Buddhist thinkers often advocate for a kind of equanimity that involves a kind of indifference to external resentment and approval as it counteracts forms of self-attachment that are thought to produce suffering. See Buddhaghosa’s *Path of Purification* IX.91, chapter seven of Śāntideva’s *Training Anthology*, and the discussion in McRae (2013 and 2016, 101ff.).
+    step1: |-
+      尽管没有明确讨论谦逊或谦卑，许多佛教思想家捍卫植根于类似漠然的德性。为对治骄傲或傲慢（梵文 *māna*），佛教思想家常常提倡一种平静，它包含对外在的憎恶与赞许的某种漠然，因为它抵消被认为会产生苦的种种自我执著。见觉音的《清净道论》IX.91、寂天《学处集要》第七章，以及 McRae（2013 与 2016, 101 以下）的讨论。
+    step2: |-
+      许多佛教思想家并未专门讨论谦逊或谦卑，却捍卫植根于类似漠然的德性。为对治骄傲、傲慢（梵文 *māna*），他们往往提倡一种平静（equanimity）：对外来的嫌恶与赞许都能漠然处之，以此抵消那些被认为会招致苦的自我执著。见觉音（Buddhaghosa）《清净道论》（*Path of Purification*）IX.91、寂天（Śāntideva）《学处集要》（*Training Anthology*）第七章，以及 McRae（2013 与 2016, 101 以下）的讨论。
+  - id: 55
+    kind: body
+    source: |-
+      ### 3.3 Asymmetry
+    step1: |-
+      ### 3.3 不对称
+    step2: |-
+      ### 3.3 不对称
+  - id: 56
+    kind: body
+    source: |-
+      Asymmetry accounts explain modesty not in terms of particular states, but in different norms governing self and other. Maes (2004) emphasizes differences between what we can acceptably say or think about ourselves and others. So, for example, saying “I deserve a standing ovation” is very different from “She deserves a standing ovation” (2004, 489). Utterances and thoughts about ourselves have special norms that are different from those concerning others.
+    step1: |-
+      不对称说明不以特定状态、而以支配自我与他人的不同规范来解释谦逊。Maes（2004）强调我们能够可接受地就自己说或想的东西，与就他人说或想的东西之间的差异。例如，说“我该得到全场起立鼓掌”与说“她该得到全场起立鼓掌”很不一样（2004, 489）。关于我们自己的言说与思想有特殊规范，不同于关于他人的规范。
+    step2: |-
+      不对称说明不从特定状态入手，而是从支配自我与他人的不同规范入手解释谦逊。Maes（2004）看重的是：关于自己和关于别人，我们能说什么、能想什么，规矩不一样。比如“我该受全场起立鼓掌”与“她该受全场起立鼓掌”就大不相同（2004, 489）。涉及自己的言谈与想法，另有不同于涉及他人的规范。
+  - id: 57
+    kind: body
+    source: |-
+      This is in stark contrast with views that see modesty rooted in attitudes that apply to everyone, like egalitarian accounts. Modesty on this view is not about seeing some features of the world that apply to everyone, but instead seeing how different norms apply to self-references. What explains modesty’s self-attribution strangeness on this view is a more general difference in self-regarding attitudes; Maes (2004, 490ff.) also discusses, for example, gift-giving and receiving compliments in this way too.
+    step1: |-
+      这与把谦逊植根于适用于每个人的态度的观点形成鲜明对照，比如平等主义说明。在这种观点看来，谦逊不在于看到世界上某些适用于每个人的特征，而在于看到不同的规范如何适用于自我指称。以这种观点看，解释谦逊的自我归属怪异性的，是关于自身的态度上一处更一般的差异；例如 Maes（2004, 490 以下）也以这种方式讨论送礼与接受称赞。
+    step2: |-
+      这与平等主义说明那类看法恰成对照——后者把谦逊系于对人人适用的态度。照不对称说，谦逊并不在于看出世界上某些对人人适用的特征，而在于看出不同的规范如何落到自我指称上。谦逊的自我归属何以怪异，在这套说明里被归到关于自身的态度上一处更普遍的差别；Maes（2004, 490 以下）也用同样的路子讨论送礼与受赞。
+  - id: 58
+    kind: body
+    source: |-
+      ### 3.4 Kindness
+    step1: |-
+      ### 3.4 仁厚
+    step2: |-
+      ### 3.4 仁厚
+  - id: 59
+    kind: body
+    source: |-
+      Many accounts see modesty or humility as a special type of benevolence or kindness. On these views, it is a way of valuing and promoting the wellbeing of others. These views make modesty not merely a trait of an individual, but deeply social in nature. So Woodcock (2008) sees modesty as about balancing one’s own welfare with the welfare of others. Wilson (2014) describes it as a type of kindness, a sensitivity to the well-being of others when presenting our own good qualities. Sinha (2012, 261) makes a similar claim about humility describing “public humility” as not claiming credit out of concern for the feelings of others.
+    step1: |-
+      许多说明把谦逊或谦卑视为一种特殊类型的仁爱或仁厚。在这些观点看来，它是珍视并促进他人福祉的一种方式。这些观点使谦逊不仅是个人的品性，而且在本质上深具社会性。所以 Woodcock（2008）认为谦逊在于平衡自己的福祉与他人的福祉。Wilson（2014）把它描述为一种仁厚，即在呈现自己的优良品质时对他人福祉的敏感。Sinha（2012, 261）对谦卑提出类似主张，把“公开的谦卑”描述为出于关心他人感受而不领取功劳。
+    step2: |-
+      许多说明把谦逊或谦卑看作一种特殊的仁爱或仁厚（kindness）。照这些看法，它是珍视并促进他人福祉的一种方式。这么一来，谦逊就不只是个人的品性，而是骨子里带社会性的。Woodcock（2008）便认为谦逊在于把自己的福祉与他人的福祉摆平。Wilson（2014）把它说成一种仁厚：在展示自己的好品质时，顾到别人的福祉。Sinha（2012, 261）论谦卑时说法类似，把“公开的谦卑”说成出于顾及他人感受而不去领功。
+  - id: 60
+    kind: body
+    source: |-
+      In addition to making modesty or humility more strongly social in nature, these accounts make modesty compatible with epistemic defects but do not require them. One can exhibit the kindness and concern for others these accounts associate with modesty regardless of the accuracy of one’s self-assessments.
+    step1: |-
+      除了使谦逊或谦卑在本质上更具社会性，这些说明还使谦逊与认知缺陷相容，但不要求它们。无论一个人的自我评价准确与否，他都能表现出这些说明与谦逊联系在一起的仁厚与对他人的关切。
+    step2: |-
+      这类说明除了让谦逊或谦卑更具社会性，还让谦逊与认知缺陷相容——相容而已，并不要求。一个人的自我评价准不准，都不妨碍他表现出这些说明系于谦逊的那份仁厚与对他人的关心。
+  - id: 61
+    kind: body
+    source: |-
+      ### 3.5 Attention
+    step1: |-
+      ### 3.5 注意
+    step2: |-
+      ### 3.5 注意
+  - id: 62
+    kind: body
+    source: |-
+      Attention accounts of modesty see it as rooted in patterns of motivated conscious attention. Bommarito (2013) argues that being modest is a matter of motivated inattention to one’s own good qualities and attention to external factors that brought them about. It’s not that the modest person doesn’t know about their good qualities, it’s that they don’t think about them very often. And when they do think about them, they tend to emphasize the role of situational factors in bringing them about, emphasizing things like having good teachers, supportive parents, or fortunate circumstances. A similar proposal is hinted at by Hastings Rashdall when he describes immodesty as “… habitual dwelling with satisfaction upon one’s own capacities or one’s own merits” (1907, 205).
+    step1: |-
+      谦逊的注意说明把它视为植根于有动机的意识注意的模式。Bommarito（2013）论证，谦逊在于有动机地不关注自己的优良品质，而关注带来这些品质的外部因素。这不是说谦逊的人不知道自己的优良品质，而是说他们不常想到它们。而当他们确实想到它们时，往往强调情境因素在带来它们方面的作用，强调诸如遇到好老师、得到父母支持或处于幸运环境之类的事。Hastings Rashdall 在把不谦逊描述为“……惯于沾沾自喜地念着自己的才能或长处”（1907, 205）时，暗示了一个类似的提议。
+    step2: |-
+      谦逊的注意说明（attention accounts）把它系于有动机的意识注意的模式。Bommarito（2013）主张，谦逊在于有动机地不留意自己的好品质，转而留意带来这些品质的外部因素。倒不是说谦逊的人不知道自己的好品质，只是他不常去想；即便想起，也倾向于强调情境因素的作用——强调遇上好老师、父母支持、机缘凑巧之类。Hastings Rashdall 也有类似的念头，他把不谦逊描述为“……惯于沾沾自喜地念着自己的才能或长处”（1907, 205）。
+  - id: 63
+    kind: body
+    source: |-
+      Such habits of attention are compatible with, but do not require ignorance. This view allows Bommarito (2013, 113) to highlight cases where uttering the sentence “I am modest” does not seem self-undermining as when others are publicly discussing one’s modesty and only an admission will allow the conversation to move on to other topics. He later discusses modesty as an “inner virtue” that can be involuntary and lack any outward behavioral expression; see Bommarito (2018, 160–169).
+    step1: |-
+      这类注意习惯与无知相容，但不要求无知。这一观点使 Bommarito（2013, 113）得以突显那些说出“我很谦逊”这句话似乎并不自我拆台的情形，比如别人公开讨论某人的谦逊，而只有承认才能让谈话转向别的话题。他后来把谦逊讨论为一种“内在德性”，它可以是不由自主的，并且不含任何外显的行为表现；见 Bommarito（2018, 160–169）。
+    step2: |-
+      这类注意上的习惯与无知相容，却并不要求无知。凭这一点，Bommarito（2013, 113）得以举出一些说“我很谦逊”并不显得自我拆台的场合，比如别人正公开议论你的谦逊，非得认下来，谈话才能转到别处去。他后来又把谦逊说成一种“内在德性”（inner virtue）：它可以不由自主，也可以毫无外在的表现；见 Bommarito（2018, 160–169）。
+  - id: 64
+    kind: body
+    source: |-
+      ### 3.6 Executive
+    step1: |-
+      ### 3.6 执行
+    step2: |-
+      ### 3.6 执行
+  - id: 65
+    kind: body
+    source: |-
+      Some have seen modesty as being essentially related to the execution of other virtues. Statman (1992, 435) calls modesty a “will-power” virtue and likens it to courage, self-control, and patience. These virtues help one to overcome inclinations that are contrary to virtue and so serve to help one overcome moral obstacles.
+    step1: |-
+      有些人把谦逊视为本质上与其他德性的执行相关。Statman（1992, 435）把谦逊称为一种“意志力”德性，并把它比作勇气、自制与耐心。这些德性帮助人克服与德性相反的倾向，因而有助于人克服道德障碍。
+    step2: |-
+      也有人认为谦逊在本质上关乎其他德性的执行。Statman（1992, 435）把谦逊叫作“意志力”德性，拿它与勇气、自制、耐心并举。这类德性帮人压住与德性相悖的倾向，从而帮人越过道德上的障碍。
+  - id: 66
+    kind: body
+    source: |-
+      Various philosophers have seen modesty as functioning as a brake on certain bad tendencies. Iris Murdoch, for example, sees humility as a brake on pride; see Milligan (2007) for a detailed discussion of humility in Murdoch. Foley (2004) highlights a similar strand in Aquinas, who describes modesty and humility as moderating desires for personal excellence. Kant sometimes describes humility as moderation not of our personal desires, but of our demands on others (*Doctrine of Virtue* 6:462). While Sidgwick (1907/1981, 335) describes the function of humility as, in part, repressing certain emotions of self-admiration.
+    step1: |-
+      各式各样的哲学家把谦逊视为对某些坏倾向的制动。例如，Iris Murdoch 把谦卑视为对骄傲的制动；关于 Murdoch 论谦卑的细致讨论，见 Milligan（2007）。Foley（2004）突显了阿奎那那里类似的一条线索，阿奎那把谦逊与谦卑描述为对追求个人卓越的欲望的节制。康德有时把谦卑描述为对我们向他人提出的要求的节制，而不是对我们个人欲望的节制（《德性论》6:462）。而 Sidgwick（1907/1981, 335）把谦卑的功能部分地描述为压抑某些自我欣赏的情感。
+    step2: |-
+      不少哲学家把谦逊看作对某些坏倾向的刹车。Iris Murdoch 便把谦卑看作对骄傲的刹车，Murdoch 论谦卑的细致讨论见 Milligan（2007）。Foley（2004）指出阿奎那那里有类似的一条线索：阿奎那把谦逊与谦卑说成对追求个人卓越之欲望的节制。康德有时则把谦卑说成节制的对象不是个人欲望，而是我们对他人的要求（《德性论》（*Doctrine of Virtue*）6:462）。Sidgwick（1907/1981, 335）说谦卑的功能之一，是压住某些自我欣赏的情绪。
+  - id: 67
+    kind: body
+    source: |-
+      Um (forthcoming) sees modesty as an “executive virtue”—one that, like courage, helps to promote the ends of other virtues. Though on this account modesty itself has no positive aim, he highlights that this does not mean that modesty has merely a negative function; it is not merely a brake on inclinations, but has a positive role of promoting the ends of other moral virtues.
+    step1: |-
+      Um（待刊）把谦逊视为一种“执行的德性”——它像勇气一样，有助于促进其他德性的目的。尽管在这种说明下谦逊本身没有正面目标，他指出，这并不意味着谦逊只有负面功能；它不只是对倾向的制动，而有促进其他道德德性之目的的正面作用。
+    step2: |-
+      Um（待刊）把谦逊看作一种“执行的德性”（executive virtue）：像勇气那样，帮别的德性达成目的。这套说明里谦逊自身没有正面目标，但 Um 强调，这不等于它只有负面功能——它不只是给倾向踩刹车，还有推动其他道德德性达成目的的正面作用。
+  - id: 68
+    kind: body
+    source: |-
+      ## 4. Epistemology
+    step1: |-
+      ## 4. 认识论
+    step2: |-
+      ## 4 认识论
+  - id: 69
+    kind: body
+    source: |-
+      Modesty and humility concern how we relate to our own good qualities. In an epistemic context, they concern how we relate to the truth or rationality of our own beliefs rather than good qualities more generally. Discussions of intellectual humility or modesty involve how we relate to our own beliefs, views and judgements. Though sometimes discussed in a purely epistemic context, these often blur the line between moral and epistemic virtues, as in the case of open-mindedness.
+    step1: |-
+      谦逊与谦卑关乎我们如何面对自己的优良品质。在认知语境中，它们关乎我们如何面对自己信念的真或合理性，而不是更一般地面对优良品质。关于智识谦卑或智识谦逊的讨论，涉及我们如何面对自己的信念、观点与判断。这些讨论有时在纯认知的语境中进行，但往往模糊了道德德性与认知德性之间的界线，开放心态即是一例。
+    step2: |-
+      谦逊与谦卑关乎我们如何面对自己的好品质。放到认知语境里，它们关乎的是我们如何面对自己信念的真假与合理性，而不是一般意义上的好品质。关于智识谦卑或智识谦逊的讨论，涉及我们如何面对自己的信念、观点与判断。这类讨论有时纯在认知范围内进行，却常把道德德性与认知德性的界线弄模糊，思想开明（open-mindedness）便是一例。
+  - id: 70
+    kind: body
+    source: |-
+      ### 4.1 Anti-Expertise
+    step1: |-
+      ### 4.1 反专长
+    step2: |-
+      ### 4.1 反专长
+  - id: 71
+    kind: body
+    source: |-
+      To be an anti-expert about a topic is to be reliably wrong about that topic. Egan and Elga (2005) distinguish being unreliable, as when a compass does not point north when facing north, from being anti-reliable, as when a compass points south when facing north. They also give the example of directions while driving: When someone is an anti-expert about directions, whenever they think they should go left they should really go right and whenever they think they should go right, they should really go left.
+    step1: |-
+      在一个话题上是反专家，就是在这个话题上稳定地出错。Egan 与 Elga（2005）区分了不可靠与反可靠：指南针朝北时指不向北，是不可靠；指南针朝北时指南，是反可靠。他们还举了开车问路的例子：如果一个人是方向上的反专家，那么每当他觉得该往左走，他其实该往右；每当他觉得该往右走，他其实该往左。
+    step2: |-
+      在某个话题上是个反专家，就是在那话题上稳定地出错。Egan 与 Elga（2005）把“不可靠”（unreliable）与“反可靠”（anti-reliable）分开：指南针朝北时不指北，是不可靠；指南针朝北时指南，是反可靠。他们又举了开车问路的例子：方向上的反专家，每次觉得该往左，其实该往右；每次觉得该往右，其实该往左。
+  - id: 72
+    kind: body
+    source: |-
+      Sorensen (1988) argues that one’s own anti-expertise is a blindspot; it is a true proposition that one cannot rationally accept. He argues that one cannot rationally believe that their own beliefs are false since the anti-expert’s belief in something counts as evidence against believing it. Egan and Elga (2005) also argue that one cannot rationally believe oneself to be an anti-expert. So in the driving case, they say that one should withhold belief about which way to go.
+    step1: |-
+      Sorensen（1988）论证，一个人自己的反专长是一个盲点；它是一个人无法理性地接受的真命题。他论证，一个人无法理性地相信自己的信念是假的，因为反专家对某事的相信本身就算作反对相信它的证据。Egan 与 Elga（2005）也论证，一个人无法理性地相信自己是个反专家。所以在开车的例子里，他们说，一个人应当对往哪边走悬置判断。
+    step2: |-
+      Sorensen（1988）主张，一个人自己的反专长是个盲点：那是一句真话，却无法理性地接受。他说，人无法理性地相信自己的信念为假，因为反专家对某事的相信本身，就构成反对相信它的证据。Egan 与 Elga（2005）也主张，人无法理性地相信自己是个反专家。所以在开车的例子里，他们说，对往哪边走应当悬置判断。
+  - id: 73
+    kind: body
+    source: |-
+      But suppose that whenever the person withholds, it turns out they should go left. In this case, withholding does not escape the problem. Like modesty, there are special issues with self-ascription; one can accept that others are anti-experts with no problems, but self-ascription seems self-undermining. In this sense, it can be seen as a limit on epistemic modesty—rationality prohibits one from thinking that their own faculties are anti-reliable. So, in the more difficult directions example, Sorensen (1987, 308ff.) claims one cannot rationally believe that one is in such a situation. Gilbert (1971) makes a similar claim in the moral domain, arguing that there are rational limits on the self-ascription of moral vices.
+    step1: |-
+      但假定每当此人悬置判断，结果都表明他该往左走。在这种情况下，悬置并没有逃开问题。像谦逊一样，自我归属有特殊的问题；一个人可以毫无问题地接受别人是反专家，但自我归属似乎是自我拆台的。在这个意义上，它可以被视为对认知谦逊的一种限制——理性禁止一个人认为自己的官能是反可靠的。所以，在更困难的方向例子里，Sorensen（1987, 308 以下）声称，一个人无法理性地相信自己处在这样的处境中。Gilbert（1971）在道德领域提出类似主张，论证道德恶的自我归属存在理性限度。
+    step2: |-
+      可要是此人每次悬置判断，结果都表明该往左呢？这么一来，悬置就躲不开麻烦。谦逊也有同样的难处：自我归属有它的特别之处——别人是反专家，你尽可坦然接受；这事落到自己头上，就像自我拆台。就此而言，它可算作对认知谦逊的一道限制：理性不许一个人认为自己的官能反可靠。于是 Sorensen（1987, 308 以下）在那个更棘手的问路例子里声称，人无法理性地相信自己身处那种处境。Gilbert（1971）在道德领域也这么说：把道德上的恶归给自己，同样有理性限度。
+  - id: 74
+    kind: body
+    source: |-
+      Others have argued that it is possible to self-ascribe anti-expertise. Conee (1987) does this by suggesting that one can believe the premises of a valid argument but not its conclusion and Richter (1990) claims that one can believe general claims without believing particular instances of it. Bommarito (2010) highlights cases where the most rational option for non-ideal agents is to self-ascribe anti-expertise.
+    step1: |-
+      另一些人论证，自我归属反专长是可能的。Conee（1987）的做法是提出，一个人可以相信一个有效论证的前提而不相信其结论；Richter（1990）则声称，一个人可以相信一般性论断而不相信它的具体个例。Bommarito（2010）突显了这样一些情形：对不理想的行动者来说，最理性的选择就是自我归属反专长。
+    step2: |-
+      另一些人则论证，反专长可以自我归属。Conee（1987）的路子是：一个人可以相信一个有效论证的前提而不接受其结论；Richter（1990）说，人可以相信一般性论断，而不相信它的具体个例。Bommarito（2010）举出这样一些情形：对并非理想的行动者来说，最理性的选择恰恰是把反专长归给自己。
+  - id: 75
+    kind: body
+    source: |-
+      ### 4.2 Disagreement
+    step1: |-
+      ### 4.2 分歧
+    step2: |-
+      ### 4.2 分歧
+  - id: 76
+    kind: body
+    source: |-
+      Anti-expertise highlights the limits of what attitudes we can take to our own epistemic states and faculties. Disagreement raises similar issues in a social context by considering how one should respond to disagreement with others who have similar evidence and faculties as you. For conciliation views, the disagreement itself is a type of higher-order evidence that warrants you to be less confident in your own position (see Christensen 2010)[^christensen-2010]. For steadfast views, such disagreement should not alter your confidence in your own view (see Kelly 2005 and 2010)[^kelly-2010][^kelly-2005].
+    step1: |-
+      反专长突显了我们能对自己认知状态与官能采取何种态度的限度。分歧在社会语境中提出类似问题：一个人应当如何回应与自己证据和官能相似的他人之间的分歧。对调和论观点来说，分歧本身就是一种高阶证据，使你理应对自己的立场不那么自信（见 Christensen 2010）[^christensen-2010]。对坚定论观点来说，这类分歧不应当改变你对自己观点的信心（见 Kelly 2005 与 2010）[^kelly-2010][^kelly-2005]。
+    step2: |-
+      反专长显出我们能对自己认知状态与认知官能取何种态度的限度。分歧把同类问题挪到社会语境里：面对证据与官能都跟你相仿的他人，你该怎样回应彼此的分歧。调和论（conciliation views）认为，分歧本身就是一种高阶证据，使你有理由对自己原先的立场少几分自信（见 Christensen 2010）[^christensen-2010]。坚定论（steadfast views）则认为，这类分歧不该动摇你对自己观点的信心（见 Kelly 2005 与 2010）[^kelly-2010][^kelly-2005]。
+  - id: 77
+    kind: body
+    source: |-
+      Like modesty, the epistemology of disagreement in part turns on whether or not we have a special relationship with our own states aside from more general agent-neutral considerations (see Christensen 2007, 335ff.)[^christensen-2007]. This affects how we should relate to our own beliefs and how to respond when such beliefs conflict with those of others. This is relevant to responding to rival philosophical views; see Barnett (forthcoming).
+    step1: |-
+      像谦逊一样，关于分歧的认识论在某种程度上取决于：除了更一般的行动者中立的考虑之外，我们是否与自己的状态有特殊关系（见 Christensen 2007, 335 以下）[^christensen-2007]。这影响我们应当如何面对自己的信念，以及当这些信念与他人的信念冲突时应当如何回应。这与回应相互竞争的哲学观点相关；见 Barnett（待刊）。
+    step2: |-
+      与谦逊相仿，分歧的认识论在某种程度上取决于一件事：撇开那些行动者中立的考虑，我们与自己的状态是否还有一种特殊关系（见 Christensen 2007, 335 以下）[^christensen-2007]。这既影响我们如何看待自己的信念，也影响这些信念同别人的信念冲突时该怎么回应。回应相争的哲学观点也与此相关；见 Barnett（待刊）。
+  - id: 78
+    kind: body
+    source: |-
+      ### 4.3 Intellectual Humility
+    step1: |-
+      ### 4.3 智识谦卑
+    step2: |-
+      ### 4.3 智识谦卑
+  - id: 79
+    kind: body
+    source: |-
+      Intellectual humility concerns similar issues as modesty more generally, but in the epistemic domain. Roberts and Wood (2003) defend an account that roots intellectual humility in low concern for status due to a high concern for epistemic goods. Like the indifference views described in 3.2, on this view the intellectually humble person doesn’t care about the social status of intellectual activities or the social status of believers.
+    step1: |-
+      智识谦卑所涉及的问题与一般意义上的谦逊相似，只是在认知领域中。Roberts 与 Wood（2003）捍卫一种说明，把智识谦卑奠基于对地位的低声望，而这种低声望源于对认知善的高度关切。像 3.2 节描述的漠然观点一样，在这种观点看来，智识谦卑的人不在乎智力活动的社会地位，也不在乎信徒的社会地位。
+    step2: |-
+      智识谦卑面对的问题与一般意义上的谦逊相仿，只是落在认知领域。Roberts 与 Wood（2003）的说明把智识谦卑奠基于对地位的低度关切，而这份低度关切源于对认知善的高度关切。与 3.2 节讲的漠然一派相仿，这种观点认为，智识谦卑的人不在意智力活动的社会地位，也不在意持有信念者的社会地位。
+  - id: 80
+    kind: body
+    source: |-
+      Whitcomb et al. (2015) defend a “limitations-owning” view. On this view the intellectually humble person attends to and owns their own limitations. Rushing (2013) defends a similar view of humility in a Confucian context arguing that it is about learning and facing one’s own limitations. These accounts tend to presume that there is something special about our own limitations that warrant special attitudes beyond concern for epistemic limitations more generally.
+    step1: |-
+      Whitcomb 等（2015）捍卫一种“承认局限”的观点。在这种观点看来，智识谦卑的人关注并承认自己的局限。Rushing（2013）在儒家语境中捍卫一种类似的谦卑观点，论证它关乎学习和直面自己的局限。这些说明往往假定，我们自己的局限有某种特别之处，理应对它有超出一般地关切认知局限的特殊态度。
+    step2: |-
+      Whitcomb 等（2015）主张一种“承认并拥有局限”（limitations-owning）的看法：智识谦卑的人留意自身局限，并把它认作自己的。Rushing（2013）在儒家语境里提出类似看法，认为谦卑关乎学习与直面自身的局限。这类说明往往假定：自身局限另有特别之处，对它理当另眼相看，不止于一般地关切认知局限。
+  - id: 81
+    kind: body
+    source: |-
+      Other views defend more doxastic accounts of intellectual humility, making it about particular higher-order epistemic states and not about general abilities or attitudes. Hazlett (2012) sees intellectual humility as having proper beliefs about the status of first-order beliefs and Church (2016) sees it as accurate tracking of the non-culpable positive epistemic status of one’s own beliefs.
+    step1: |-
+      另一些观点捍卫关于智识谦卑的更为信念性的说明，把它系于特定的高阶认知状态，而不是一般的能力或态度。Hazlett（2012）认为智识谦卑在于对一阶信念的地位持有恰当的信念，Church（2016）则认为它在于准确追踪自己信念那些无可指责的正面认知地位。
+    step2: |-
+      另一些观点替智识谦卑给出更偏信念层面的说明，把它系于特定的高阶认知状态，而不系于一般的能力或态度。Hazlett（2012）认为，智识谦卑在于对一阶信念的地位持有恰当的信念；Church（2016）则认为，它在于准确追踪自身信念那些无可指责的正面认知地位。
+  - id: 82
+    kind: body
+    source: |-
+      These views treat intellectual humility as an epistemic virtue. Dalmiya (2016, 115ff.), however, sees it as deeply linked with moral virtue. Drawing on Indian philosophy and ethics of care, she sees humility as both a disposition to embrace others as partners in cognitive activity and an awareness of our own ignorance and limitations. This makes intellectual humility strongly relational as it involves not only a single person’s beliefs and awareness but a focus on the epistemic agency of others. This gives intellectual humility both epistemic and moral aspects.
+    step1: |-
+      这些观点把智识谦卑视为一种认知德性。然而 Dalmiya（2016, 115 以下）认为它与道德德性深有联系。她借助印度哲学与关怀伦理学，把谦卑视为既是一种把他人接纳为认知活动伙伴的倾向，也是一种对自己无知与局限的意识。这使智识谦卑具有很强的关涉性，因为它不仅涉及单个人的信念与意识，还聚焦于他人的认知能动性。这使智识谦卑同时具有认知与道德两个方面。
+    step2: |-
+      这些看法都把智识谦卑当作认知德性。Dalmiya（2016, 115 以下）却认为它与道德德性紧紧相连。她借印度哲学与关怀伦理学立论，把谦卑同时看作一种把他人当作认知伙伴来接纳的倾向，和一种对自身无知与局限的觉察。于是智识谦卑的关联性很强：它不仅关乎单个人如何相信、如何觉察，也着眼于他人的认知能动性。可见智识谦卑兼具认知与道德两面。
+  - id: 83
+    kind: body
+    source: |-
+      ### 4.4 Open-Mindedness
+    step1: |-
+      ### 4.4 思想开明
+    step2: |-
+      ### 4.4 思想开明
+  - id: 84
+    kind: body
+    source: |-
+      Open-mindedness raises similar issues to modesty and humility in that it involves taking a special attitude to oneself. Some deny this; Hare (1985), for example, argues that open-mindedness is nothing more than treating evidence in an impartial way. Others take it to be strongly related to one’s own epistemic position: Adler (2004) sees it as a way of responding to counter-evidence to one’s own beliefs, Riggs (2010) sees it as a type of self-knowledge and self-monitoring, and Baehr (2011) sees it as involving a detachment from one’s default point of view because one wants to get to the truth.
+    step1: |-
+      开放心态在如下一点上提出与谦逊、谦卑相似的问题：它涉及对自己采取一种特殊态度。有些人否认这一点；例如 Hare（1985）论证，开放心态不过是以不偏不倚的方式对待证据。另一些人认为它与一个人自己的认知立场密切相关：Adler（2004）把它视为回应针对自己信念的反证的一种方式，Riggs（2010）把它视为一种自我认识与自我监控，Baehr（2011）则认为它涉及一种从自己默认观点中抽身的态度，因为人想要抵达真理。
+    step2: |-
+      思想开明在一点上与谦逊、谦卑同类：它涉及对自己采取某种特殊态度。有人不认这一点，比如 Hare（1985）就说，思想开明不过是不偏不倚地对待证据。也有人认为它跟一个人自己的认知处境紧密相关：Adler（2004）把它看作回应针对自己信念的反证的方式；Riggs（2010）把它看作一种自我认识与自我监控；Baehr（2011）则认为，它要以一种抽离自己默认视角的态度为前提，因为人想抵达真相。
+  - id: 85
+    kind: body
+    source: |-
+      Though it is often talked about as an epistemic view (see Zagzebski 1996)[^zagzebski-1996], it is also discussed as a moral virtue too. Arpaly (2011) sees it as a disposition to change our beliefs without being opinionated out of moral concern. McRae (2016) also sees it as involving moral concern but also a willingness to consider alternate self-narratives, linking it with equanimity in the Buddhist tradition. This casts open-mindedness as a freedom from certain mental habits involving the self and its place in the world.
+    step1: |-
+      尽管它常被当作一种认知观点来谈（见 Zagzebski 1996）[^zagzebski-1996]，人们也把它当作一种道德德性来讨论。Arpaly（2011）把它视为一种出于道德关切而在不固执己见的情况下改变自己信念的倾向。McRae（2016）也认为它涉及道德关切，但也涉及愿意考虑别的自我叙事，并把它与佛教传统中的平静联系起来。这把开放心态描绘为对某些涉及自我及自我在世界中位置的心理习惯的摆脱。
+    step2: |-
+      人们常把思想开明当作认知立场来谈（见 Zagzebski 1996）[^zagzebski-1996]，却也把它当作道德德性来讨论。Arpaly（2011）视之为一种倾向：出于道德上的关切去改变自己的信念，而不固执己见。McRae（2016）也认为其中有道德关切，但同时还有愿意考虑另一些自我叙事的成分，并把它同佛教传统里的平静相联。如此描画下来，思想开明便是从某些关涉自我及自我在世界中位置的心理习惯中脱身。
+  - id: 86
+    kind: body
+    source: |-
+      ## 5. Conclusion
+    step1: |-
+      ## 5. 结语
+    step2: |-
+      ## 5 结语
+  - id: 87
+    kind: body
+    source: |-
+      Modesty and humility touch on a variety of more general issues in philosophy. It relates to moral issues about self and other: Whether there are special moral requirements regarding our self-orientation and if so, what underlies them?
+    step1: |-
+      谦逊与谦卑触及哲学中各种更一般的问题。它关系到关于自我与他人的道德问题：关于我们的自我定向，是否存在特殊的道德要求？如果存在，它们的基础是什么？
+    step2: |-
+      谦逊与谦卑牵动哲学中一批更一般的问题。它连着关于自我与他人的道德问题：我们如何面对自己，是否另有特殊的道德要求？若有，它的根据又在哪里？
+  - id: 88
+    kind: body
+    source: |-
+      It also touches on a variety of debates within virtue theory: What kinds of self-attitudes enable the exercise of virtue? What features of the self are salient to a virtuous person? What features make the states associated with modesty and humility virtuous in the first place?
+    step1: |-
+      它也触及德性理论内部的多种争论：何种自我态度使德性的运用成为可能？自我的哪些特征对有德之人是突显的？究竟是什么特征使与谦逊和谦卑相关的状态成为德性？
+    step2: |-
+      它也触及德性论内部的种种争论：什么样的自我态度才使德性得以施展？自我的哪些特征在有德之人眼里格外要紧？又是什么特征，使与谦逊、谦卑相连的那些状态一开始就成其为德性？
+  - id: 89
+    kind: body
+    source: |-
+      Finally, it involves questions that arise at the intersection of ethics and epistemology: Are there moral or rational limits on the kinds of goodness or badness I can attribute to myself? Can moral virtue be compatible with, or even require, epistemic failings? Careful theorizing about the nature of modesty and humility helps to shape and inform these larger questions in ethics and epistemology.
+    step1: |-
+      最后，它涉及在伦理学与认识论的交汇处出现的问题：我能够归给自己的善或恶，是否有道德上或理性上的限度？道德德性能否与认知上的失败相容，甚至要求它们？对谦逊与谦卑本性的细致理论化，有助于塑造并充实伦理学和认识论中这些更大的问题。
+    step2: |-
+      最后，它还涉及伦理学与认识论交叉处的问题：我能把什么样的善或恶归给自己，这在道德上、理性上有没有限度？道德德性能否与认知上的失手相容，甚至以它为条件？把谦逊与谦卑的本性想清楚，有助于塑造并充实伦理学与认识论中这些更宏大的问题。
+  - id: 90
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [Please contact the author with suggestions.]
+    step2: |-
+      [欢迎向作者提出建议。]
+  - id: 91
+    kind: ack
+    source: |-
+      Thanks to Sungwoo Um, Irene McMullin, and Mark Timmons for helpful comments.
+    step1: |-
+      感谢 Sungwoo Um、Irene McMullin 与 Mark Timmons 提出的宝贵意见。
+    step2: |-
+      感谢 Sungwoo Um、Irene McMullin 与 Mark Timmons 提出的宝贵意见。
