@@ -456,65 +456,65 @@ segments:
     source: |-
       An acquaintance theorist aiming to provide a general account of knowledge owes us an account not only of noninferential knowledge, but also of inferential knowledge. How can we get at least reasonable or justified belief when we are not directly acquainted with the truth makers of those beliefs, the facts that make the beliefs true? Again, we stress that the question we are concerned with here is not how we can get knowledge of truths in contrast to knowledge of something other than a truth. We have already suggested that knowledge by acquaintance should be thought of as knowledge of a truth made possible by acquaintance with the truth maker. The question, rather, concerns how we can get knowledge of a truth when we are not acquainted with the truth maker. For the classical acquaintance theorist, that question, in turn, reduces to the question of how we can acquire knowledge through inference.
     step1: |-
-
+      一位要给出知识之一般说明的亲知理论家，不仅欠我们一个关于非推论知识的说明，也欠一个关于推论知识的说明。当我们并不直接亲知那些信念的使真者、即使这些信念为真的事实时，我们如何至少获得合理的或被证成的信念？这里再次强调：我们此刻关心的问题，不是我们如何获得真理知识而非关于非真理之物的知识。我们已经提出，亲知知识应当被理解为一种真理知识，其可能由对使真者的亲知所造就。这里的问题倒是：当我们并不亲知使真者时，如何获得真理知识。对古典亲知理论家来说，这个问题反过来又归结为：我们如何通过推理获得知识。
     step2: |-
-
+      凡有志于给知识一个通盘说明的亲知理论家，都须交代两件事：一为非推论知识，一为推论知识。当我们并未直接亲知那些信念的使真者——使信念得以为真的事实——之时，凭什么还能有至少合理、至少被证成的信念？这里须再申明：眼下所问，非“如何获致真理之知而非关于非真理之物之知”。前文已提出：亲知知识当理解为一种真理知识，其可能正由对使真者的亲知所成就。现在所问的倒是：人若不亲知使真者，如何仍能得真理之知？对古典亲知理论家而言，此问一转便化为：人如何经由推理得知识。
   - id: 57
     kind: body
     source: |-
       There are at least two possible answers the acquaintance theorist might give. A view we might call inferential externalism suggests that to acquire inferential knowledge that *Q* by inferring *Q* from *P* it is enough that *P* makes highly probable *Q*. The relation of making probable, itself, can be interpreted in many different ways. A detailed discussion of interpretations of probability would take us too far afield, so let us be content with a few very brief remarks (see the entry on interpretations of probability). One might try to understand probability in terms of frequency. Roughly the idea is that *P* makes *Q* probable when *P* and *Q* form a pair of propositions of a certain kind, where usually when the first member of a pair of propositions of that sort is true then so is the second. Alternatively, some philosophers would follow Keynes (1921) and argue that there are relations of making probable that hold between propositions analogous (in some ways) to the relation of entailment that holds between propositions. On this view, when *P* makes probable *Q*, it is a necessary truth that *P* makes probable *Q* (though that necessary truth is perfectly consistent with the fact that the conjunction of *P* and *X* might not make probable *Q*).
     step1: |-
-
+      亲知理论家至少可以给出两个可能的回答。有一种观点，我们或可称为推论外在论，它主张：要由 *P* 推出 *Q* 从而获得关于 *Q* 的推论知识，只要 *P* 使 *Q* 具有高概率就够了。使具有概率这一关系本身可以用许多不同方式解释。详论概率的各种解释会扯得太远，所以我们满足于几条非常简短的评论（参见概率的解释词条）。人们可以试着用频率来理解概率。大略的想法是：当 *P* 与 *Q* 构成某一类命题对，而通常这类命题对中第一个为真时第二个也为真，*P* 就使 *Q* 具有概率。另一种进路，一些哲学家会追随凯恩斯（Keynes 1921），主张命题之间存在使具有概率的关系，这种关系（在某些方面）类似于命题之间的蕴含关系。照这一观点，当 *P* 使 *Q* 具有概率时，“ *P* 使 *Q* 具有概率”是一条必然真理（尽管这条必然真理与“ *P* 与 *X* 的合取未必使 *Q* 具有概率”这一事实完全相容）。
     step2: |-
-
+      亲知理论家手头至少备有两解。其一可名为推论外在论：由 *P* 推出 *Q* 而获关于 *Q* 的推论知识，只消 *P* 使 *Q* 具有高概率，便已足够。至于“使具有概率”这一关系，本身可有种种解释。概率解释的细论会把话题扯得太远，此处只以三言两语了之（参见概率的解释词条）。有人试以频率解概率：大略是，*P* 与 *Q* 构成某一品类的一对命题，而凡此类命题对中前者为真时后者通常亦真，则 *P* 便使 *Q* 具概率。另一路则追随凯恩斯（Keynes 1921），主张命题之间有所谓“使具概率”的关系，其性（在某些方面）近似命题间的蕴含关系。据此，当 *P* 使 *Q* 具概率时，“ *P* 使 *Q* 具概率”便是一条必然真理（纵然此必然真理与“ *P* 与 *X* 之合取未必使 *Q* 具概率”全然相容）。
   - id: 58
     kind: body
     source: |-
       Most classical foundationalists at least implicitly rejected the idea that the mere obtaining of a probability relation between one’s noninferential evidence that *P* and the proposition *Q* one infers from that evidence is sufficient to acquire inferential justification or inferential knowledge. Rather, they insisted, one must be aware of or have access to the probabilistic connection that obtains between one’s premises and one’s conclusion. Direct acquaintance with facts was proposed to end a potentially vicious regress of justification (see section 3), but now the regress looms again in connection with knowledge of probabilistic connections. How can one get knowledge of probabilistic connections between premises and conclusions? If one infers the existence of the probabilistic connections from the truth of some other different proposition *F*, then one not only needs justification for believing *F*, but, one needs justification for believing that *F* does indeed make probable that the probabilistic connection holds! The problem here is essentially the one that has been pointed out by Lewis Carroll (1895), though he applied the problem to deductive inference. BonJour (2005) cites this problem as a reason for taking a direct, nonpropositional grasp of logical relations as crucial to inferential justification, at least for deductive inferences; similarly, Fumerton (2015) argues that, to halt the regress, the internalist should require a direct awareness of relations of making probable between propositions. But are we aware of such relations? The problem seems hopeless if one understands probability in terms of frequency, for we do not seem to have any direct access to such complex, contingent facts as the ratio that one proposition is true relative to another (logically independent) one. That seems to be the sort of thing one can only know by extensive observation, data gathering, or empirical research, and the question of how we know that some observation makes probable our judgment of probability arises all over again. But if one can convince oneself that there are real logical relations of making probable holding between propositions, then perhaps the acquaintance theorist can secure the required knowledge of those connections once again through acquaintance. Ramsey (1926) famously objected that we do not seem to perceive such relations of making probable, but Hasan (2017) argues that these objections are weak, and that there are good reasons to think we can be directly aware of such relations. This version of the acquaintance theory relies critically on the fundamental concept of acquaintance in understanding both noninferential and inferential knowledge. Noninferential knowledge is secured by direct acquaintance with truth makers. Inferential knowledge is secured by direct acquaintance with logical and probabilistic connections between known propositions and other propositions.
     step1: |-
-
+      多数古典基础主义者至少含蓄地反对如下想法：只要一个人的非推论证据 *P* 与由之推出的命题 *Q* 之间成立概率关系，就足以获得推论证成或推论知识。他们坚持：人必须觉察到、或能够通达前提与结论之间成立的概率联系。对事实的直接亲知曾被提出来终止可能恶性的证成回溯（参见第 3 节），但如今回溯又在关于概率联系的知识上重新逼近。人如何获得关于前提与结论之间概率联系的知识？如果一个人从某个其他不同的命题 *F* 之为真推出这些概率联系存在，那么他不仅需要相信 *F* 的证成，还需要相信“ *F* 确实使‘该概率联系成立’具有概率”的证成！这里的困难本质上正是刘易斯·卡罗尔（Lewis Carroll 1895）所指出的那个困难，尽管他把该困难施用于演绎推理。BonJour（2005）援引这一困难，作为把对逻辑关系的直接的、非命题的把握视为推论证成之关键的理据，至少对演绎推理是如此；同样，Fumerton（2015）论证：要止住回溯，内在论者应当要求对命题之间使具有概率的关系有直接的觉察。但我们觉察到这样的关系吗？若按频率理解概率，问题似乎无望，因为我们似乎无法直接通达诸如“一个命题相对于另一个（逻辑上独立的）命题为真的比率”这样复杂而偶然的事实。这种事实似乎只有通过大量观察、数据采集或经验研究才能知道，而我们如何知道某次观察使我们的概率判断具有概率，这个问题又原样浮现。然而，若一个人能说服自己：命题之间确实存在使具有概率的真实逻辑关系，那么亲知理论家或许能再次通过亲知获得关于这些联系的必需知识。拉姆齐（Ramsey 1926）有一句名言，反对我们似乎并不能知觉到这类使具有概率的关系；但 Hasan（2017）论证这些反对意见是弱的，并且有很好的理由认为我们能直接觉察这类关系。这一版本的亲知理论，在理解非推论知识与推论知识两方面都关键地倚赖亲知这一根本概念。非推论知识由对使真者的直接亲知来保证。推论知识由对已知命题与其他命题之间逻辑联系和概率联系的直接亲知来保证。
     step2: |-
-
+      多数古典基础主义者，至少是心照不宣地，不肯承认：只要一个人的非推论证据 *P* 同由之推出的命题 *Q* 之间立有一层概率关系，便足以取得推论证成或推论知识。他们坚持，人须觉察到、或得以通达前提与结论之间那层概率联系。前文曾借对事实的直接亲知来截断可能恶性的证成回溯（参见第 3 节）；如今回溯又借概率联系之知卷土重来。前提与结论之间的概率联系，人如何得知？倘若人是从另一个命题 *F* 之真推出这些概率联系存在，那么他不光需要“相信 *F*”的证成，还需要“ *F* 确实使之具有概率——即该概率联系确实成立”的证成！此处的难处，实质上正是刘易斯·卡罗尔（Lewis Carroll 1895）所指的那一难处，只不过他把它安在演绎推理头上。BonJour（2005）即引此为据，主张对逻辑关系的直接、非命题的把握乃推论证成之命脉，至少就演绎推理而言如此；Fumerton（2015）同样论证，要截住回溯，内在论者就该要求对命题间“使具概率”关系有直接觉察。可我们当真觉察到这般关系吗？若以频率解概率，此问几近绝望：对于“一命题相对于另一（逻辑上独立的）命题为真之比率”这类繁复而偶然的事实，我们似乎全无直接通达之途。这种事实，似乎只能靠大量观察、搜集数据、经验研究才得知；而我们又如何知道某次观察使我那概率判断具有概率？旧问题又原样立起。反过来，若有人能说服自己：命题间确有真实的“使具概率”之逻辑关系，那么亲知理论家或可再借亲知取得关于这些联系的必需之知。拉姆齐（Ramsey 1926）有一句常被援引的驳难，说我们似乎并不知觉到此类概率关系；Hasan（2017）则反驳说这些驳难软弱无力，我们有充分理由相信自己能直接觉察这类关系。这一版亲知理论，无论解非推论知识抑或推论知识，都紧要地依傍亲知这一根本概念：非推论知识由对使真者的直接亲知担保；推论知识由对已知命题与其他命题之间逻辑联系、概率联系的直接亲知担保。
   - id: 59
     kind: body
     source: |-
       ## 6. Fallible Noninferentially Justified Beliefs
     step1: |-
-
+      ## 6 可错的非推论证成信念
     step2: |-
-
+      ## 6 可错的非推论证成信念
   - id: 60
     kind: body
     source: |-
       An acquaintance theory of justification that requires acquaintance with a proposition’s truth maker in order for the subject to be justified in believing the proposition may seem to require too much. The requirement rules out the possibility of *false* noninferentially justified belief, and the problem is that there seem to be plausible examples of such beliefs. Suppose that I am experiencing what seems to be a marginal or border-line case of pain, and that I believe it is an experience of pain. But suppose that, as it turns out, my belief is false; the experience is not a pain but, say, a painless itch. *Prima facie*, it is plausible that the belief has some degree (perhaps not very much) of justification, the same or very close to the degree of justification I might have in the “good” case in which I *correctly* believe that I am experiencing pain on the basis of an experience of marginal pain. Other cases might involve mistaking hot and cold, mistaking shades of phenomenal color, mistaking the number of speckles in a region of one’s visual field, and mistaking the content of one’s own thoughts. Moreover, even when we restrict our attention to *true* noninferentially justified beliefs, it seems plausible that the degree of justification can vary, and we need some way of accounting for this. Suppose, for example, that I really am experiencing a marginal case of pain. It is plausible to think that my belief that I am experiencing pain, while true, is not as justified as the belief would be if I were in searing pain.
     step1: |-
-
+      一种要求主体亲知命题的使真者、方可被证成相信该命题的亲知证成理论，看来要求过多。这一要求排除了 *假的* 非推论地被证成信念的可能性，而问题在于，这类信念似乎有可信的例子。设想我正在经验一种看似边缘的、临界状态的疼痛，并且我相信它是疼痛的经验。但设想结果我的信念是假的；那经验不是疼痛，而是——比如说——一种无痛的痒。*乍看之下*，这个信念具有某种程度（也许不很高）的证成，这似乎是可信的；其程度与我在“好的”情形下——基于边缘疼痛的经验 *正确地* 相信我正经验疼痛——所具有的证成程度相同或非常接近。其他例子可能涉及冷热之误、现象颜色色调之误、视场某一区域斑点数目之误，以及自己思想内容之误。此外，即便我们只把注意力限于 *真的* 非推论地被证成信念，证成程度可以有变化这一点似乎也是可信的，而我们总得有办法说明这一点。例如，设想我确实在经验一种边缘的疼痛。可信的想法是：我相信我正在经验疼痛，虽然为真，却不如我处于剧痛时该信念那样被证成。
     step2: |-
-
+      有一种亲知式的证成理论，要求主体亲知命题的使真者才算被证成——这看来索求太过。它把 *假的* 非推论证成信念一并排除了，可这类信念似乎不乏可信之例。试设想：我所经验的像是一例边缘的、临界的疼痛，而我信其为疼痛经验。再设想结果我错了：那经验并非疼痛，竟是一种无痛的痒。*初看之下*，这个信念多少有些证成（虽不甚多）——此说可信；其证成之度，与我在“好”的情形里——基于边缘疼痛的经验而 *准确* 相信我正经验疼痛——所得的证成相当，或极相近。别种例子如冷热颠倒、现象色调看错、视场某区的斑点数目数错、乃至自家思想内容认错。再者，纵使我们只盯住 *真的* 非推论证成信念，证成程度仍有高低之别，此说似亦可信，而我们总须有个说法来安置它。譬如：我确实经验着一例边缘的疼痛，则我信“我在经验疼痛”虽真，其证成却不及我身处剧痛时该信念所得的证成。
   - id: 61
     kind: body
     source: |-
       McGrew (1995, 1999) argues that a kind of certainty or infallibility (in his terms, “incorrigibility”) is a necessary feature of empirical foundational beliefs: a belief that *P* is empirically foundational only if being justified in believing that *P* guarantees its truth. He defends the view that such foundations are available and that they are adequate to yield knowledge of the external world. Other classical foundationalists want to allow for the possibility of *false* foundational beliefs. (See Fumerton 1995: 77; BonJour 2003: 73–74; and Fales 1996: 174–80. For a critique of acquaintance theorists’ attempts to accommodate fallibility at the foundations, see Huemer 2007, Poston 2010, and Tucker 2016. For replies to some of these critiques, see Fumerton 2010 and 2016, Hasan 2013, and Stoutenburg (forthcoming). Stoutenburg nevertheless motivates infalliblism, and provides an account of how propositions that moderate foundationalists regard as basic derive their justification from infallibly known propositions.)
     step1: |-
-
+      McGrew（1995, 1999）主张，某种确定性或不可错性（用他的术语，“不可纠正性”）是经验基础信念的必要特征：一个 *P* 信念只有在“被证成地相信 *P*”足以保证其真时，才是经验基础的。他辩护说这类基础是可得的，且足以产生关于外部世界的知识。其他古典基础主义者则愿意容许 *假的* 基础信念之可能。（参见 Fumerton 1995: 77；BonJour 2003: 73–74；以及 Fales 1996: 174–80。对亲知理论家安置基础处可错性之尝试的批评，参见 Huemer 2007、Poston 2010 与 Tucker 2016。对这些批评的部分回应，参见 Fumerton 2010 与 2016、Hasan 2013 以及 Stoutenburg（即出）。不过 Stoutenburg 仍为无误论提供动机，并说明了温和基础主义者视为基本的命题如何从不可错地得知的命题中获得证成。）
     step2: |-
-
+      McGrew（1995, 1999）主张：经验基础信念必有某种确定性或不可错性（他用的字眼是“不可纠正性”）——一个 *P* 信念要算经验基础信念，须于“被证成地相信 *P*”中担保其为真。他辩护说，这类基础确实可得，且足以撑起关于外部世界的知识。另一些古典基础主义者则宁愿容纳 *假的* 基础信念。（参见 Fumerton 1995: 77；BonJour 2003: 73–74；Fales 1996: 174–80。对亲知理论家在基础处安顿可错性之诸般尝试，批评见 Huemer 2007、Poston 2010、Tucker 2016；对其中若干批评的回应，见 Fumerton 2010 与 2016、Hasan 2013、Stoutenburg（即出）。不过 Stoutenburg 仍替无误论张目，并申说温和基础主义者目为基本的命题，如何从不可错地知之的命题取得证成。）
   - id: 62
     kind: body
     source: |-
       Intuitively, we may want to allow that one be justified to some degree if the fact with which one is actually acquainted corresponds to a proposition that is very similar to the proposition believed (Fumerton 1995: 77)[^fumerton-1995]. This might suggest the following principle:
     step1: |-
-
+      直觉上，我们也许愿意允许：如果一个人实际所亲知的事实与所相信的命题非常接近，他就在某种程度上有证成（Fumerton 1995: 77）[^fumerton-1995]。这或许引出如下原则：
     step2: |-
-
+      就直觉言，我们未尝不愿放行：凡实际亲知的事实，同所信命题十分相近，人便多少有些证成（Fumerton 1995: 77）[^fumerton-1995]。由此或可引出如下原则：
   - id: 63
     kind: body
     source: |-
       1. If one is directly aware of *x*’s being *F*, and *F* is sufficiently similar to *G*, then one thereby has at least some defeasible justification for believing that *x* is *G*.
     step1: |-
-
+      1. 如果一个人直接觉察到 *x* 是 *F*，而 *F* 与 *G* 足够相似，那么他因此至少拥有一些可挫败的证成去相信 *x* 是 *G*。
     step2: |-
-
+      1. 若人直接觉察到 *x* 为 *F*，而 *F* 与 *G* 足够相近，则人凭此至少握有一些可废止的证成，去相信 *x* 为 *G*。
   - id: 64
     kind: body
     source: |-
