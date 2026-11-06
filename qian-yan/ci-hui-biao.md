@@ -32,12 +32,16 @@
 |Anton Marty|安东·马蒂|早期现象学（布伦塔诺学派）|
 |anumāna|比量|印度量论|
 |apperception|统觉|康德/莱布尼茨术语|
+|Arcesilaus|阿尔凯西劳||
 |arché|本原|亦作“始基”；希腊哲学术语|
 |aretê|德性|亦作“卓越”；希腊哲学术语|
+|Aristocles|阿里斯托克勒斯||
 |Aristotelian categories|亚里士多德范畴|希腊哲学|
 |Arius Didymus|阿里乌斯·迪迪穆斯||
 |Arthur Danto|阿瑟·丹托|分析美学/历史哲学|
+|Athenaeus|阿特纳奥斯||
 |atomic formulas|原子公式|审定名词（数学·数理逻辑）|
+|atuphos|脱尽虚妄||
 |Aulus Gellius|奥卢斯·盖利乌斯|罗马阿提卡之夜|
 |Austin, John|约翰·奥斯丁||
 |Bahya ibn Paquda|巴希亚·伊本·帕库达|犹太哲学家；《心的职责》|
@@ -76,6 +80,7 @@
 |Chinese Room|中文屋|审定作“中文屋论证”；心灵哲学|
 |Christopher Peacocke|克里斯托弗·皮科克|当代心灵哲学|
 |civic humanism|公民人文主义||
+|Clayman, D.|克莱曼||
 |cloning|克隆||
 |Cockburn, Catharine Trotter|凯瑟琳·特洛特·考克本||
 |cogito|我思（笛卡尔 cogito ergo sum）||
@@ -95,10 +100,12 @@
 |Cordemoy, Géraud de|热罗·德·科尔德穆瓦||
 |Cornel West|康奈尔·韦斯特|实用主义传统/种族哲学|
 |corrective justice|矫正正义|亚里士多德；与分配正义相对|
+|Crates|克拉特斯||
 |Crathorn, William|威廉·克雷索恩||
 |Critical Theory|批判理论|审定名词（自然辩证法·科学哲学）|
 |Cudworth, Ralph|拉尔夫·库德沃斯||
 |current self|当前自我|advance-directives 词条核心|
+|Cynics|犬儒派||
 |Dana Scott|达纳·斯科特|逻辑学/集合论|
 |Dao|道|拼音转写；中国哲学核心范畴|
 |Dasein|此在|海德格尔；亦作“缘在”|
@@ -140,6 +147,7 @@
 |Ernst Zermelo|恩斯特·策梅洛|集合论（策梅洛公理）|
 |essence|本质||
 |eudaimonia|幸福|亦作“繁盛”；亚里士多德|
+|Eusebius|优西比乌||
 |evolution|进化||
 |evolutionary epistemology|进化认识论|审定名词（自然辩证法·科学哲学）|
 |existence|存在||
@@ -148,6 +156,7 @@
 |external world|外部世界|认识论|
 |extramural speech|校外言论|学术自由词条核心|
 |first-order logic|一阶逻辑|审定名词（数学·数理逻辑）|
+|Five Modes|五式||
 |form|形式（亚里士多德 eidos 语境）||
 |Four Dimensionalism|四维主义|形而上学（刘易斯）|
 |frame problem|框架问题||
@@ -195,6 +204,7 @@
 |homosexuality|同性恋||
 |Huayan Buddhism|华严宗||
 |Hui Shi|惠施|中国哲学家|
+|hupatuphos|半脱虚妄||
 |Hutcheson, Francis|弗兰西斯·哈奇森||
 |Hypothetical Reasoning|假说推理|皮尔士溯因语境|
 |Ibn Zaddiq|伊本·扎迪克|犹太哲学家|
@@ -204,6 +214,7 @@
 |imaginative resistance|想象性抗拒||
 |immutability|不变性||
 |impossible worlds|不可能世界||
+|Indalmoi|《影像》||
 |integrity|诚信||
 |intellectual property|知识产权||
 |intelligible forms|可理知形式|柏拉图/中世纪哲学|
@@ -236,6 +247,7 @@
 |matter field|物质场|物理学通行|
 |maximal act-set|极大行动集|A批正文定案；审定“极大集”数学域佐证|
 |Maximalism|极大主义|actualism-possibilism 语境|
+|Megaric School|麦加拉学派||
 |metric|度规|物理学通行，“度规”优于“度量”|
 |metric field|度规场|物理学通行|
 |Michael D. Resnik|雷斯尼克|数学哲学；首现括注|
@@ -243,6 +255,7 @@
 |Mill, Harriet Taylor|哈丽雅特·泰勒·密尔||
 |mind|心灵（当代心灵哲学；黑格尔 Geist 语境译“精神”）||
 |modal analysis|模态分析|能力哲学（与条件分析相对）|
+|Mode from Hypothesis|基于假设的论式||
 |modi significandi|意指样式（摩迪斯泰语法）||
 |moral law|道德法则（康德）||
 |necessity|必然性||
@@ -250,17 +263,24 @@
 |Norman Daniels|诺曼·丹尼尔斯||
 |Norman Malcolm|诺曼·马尔科姆||
 |observable|可观测量|物理学/科学哲学通行|
+|Odysseus|奥德修斯||
 |ontological argument|本体论论证||
 |ontology|本体论（通行；亦作“存在论”）||
+|ouden mallon|并不更||
 |particular|殊相；特殊||
 |perception|知觉||
 |personal identity|人格同一性||
 |Peter Kivy|彼得·基维||
+|Philo (follower of Pyrrho)|菲洛||
 |pneuma|普纽玛||
 |point-coincidence argument|点重合论证|Stachel 术语|
 |Possibilism|可能论|模态形而上学（与现实主义相对）|
 |practical knowledge|实践知识|行动哲学；技艺与实践智慧之分|
 |Protestant Reformation|新教改革|宗教改革|
+|Pyrrho|皮浪||
+|Pyrrhonism|皮浪主义||
+|Pyrrhonist|皮浪派者||
+|Pytho|《皮同》||
 |quality|性质||
 |quantity|量||
 |reason|理性||
@@ -276,13 +296,18 @@
 |scientia|知识（经院拉丁术语）||
 |self-consciousness|自我意识||
 |Shaun Nichols|肖恩·尼科尔斯||
+|Silloi|《讽刺诗》||
+|skeptosunê|探究||
 |Sleeping Beauty|睡美人问题|审定直接命中（自然辩证法·科学哲学）|
 |soul|灵魂||
 |spacetime substantivalism|时空实体论|与时空关系论相对|
 |specific ability|特定能力、特殊能力|能力哲学（与一般能力相对）|
 |Stanley Fish|Stanley Fish|现代学者保留英文；通行汉译“费什”|
 |Stephen Schiffer|斯蒂芬·希弗||
+|Stilpo|斯提尔波||
+|Strabo|斯特拉波||
 |Stuart Hampshire|斯图尔特·汉普希尔||
+|sunêtheia|日常经验||
 |Supreme Ultimate|太极|审定直接命中（中国古代史/自然辩证法）|
 |Szilágyi, K.|K. 西拉吉|匈牙利学者|
 |telos|目的（终极目的）||
@@ -290,8 +315,11 @@
 |the One|太一（普罗提诺 to hen）||
 |thing-in-itself|物自体（康德；亦作“自在之物”）||
 |Thinking Dispositions|思维倾向|认知心理学；审定复合佐证|
+|Timon of Phlius|斐利亚修斯的第蒙||
+|to phainomenon|显现||
 |transcendental|先验（康德术语 transzendental）||
 |Trolley Problem|电车难题||
+|tuphos|虚妄||
 |understanding|知性（康德 Verstand；日常语境译“理解”）||
 |universal|共相（中世纪-黑格尔传统）||
 |violinist case|小提琴家案例|汤姆森思想实验|

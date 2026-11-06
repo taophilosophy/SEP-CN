@@ -1,0 +1,50 @@
+{
+  "slug": "timon-phlius",
+  "kind": "retranslate",
+  "zh_doc": "t/timon-phlius.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-06T19:26:26Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T20:48:46Z",
+      "evidence": "方向声明（rules/08）：用户 2026-11-07 指令「现在你负责 T-Z 条目的全流程翻译」——本会话承接 t/u/v/w/x/y/z 七批 139 条（约 200 万英文词）零信任重译全周期。目标：逐条 clear→账本(ADR-0021)→compose→s1–s3→r1–r3→done；非目标：不改原文、不补内容、不造引文、不动 S 及 A–R 批文件、不以既有译文为底稿。验收判据：每条约 check_style --strict 0 issue、check_academic --strict 0 硬错误、lq.py check HARD=0、段落/脚注键/defs 对齐，批次收口 campaign advance done 且 check_all 七项全绿。本条件（timon-phlius）：主会话直译不使用子代理（2026-11-07 裁定）；账本 27 段（body26+oir1）双版填毕，lq.py check HARD=0；compose 产出 11091 字符。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T20:51:49Z",
+      "evidence": "对照核销（准确性）：节标题 10:10 逐节对位（正文 1/2/2.1/3 + References 引用注释 + 两个空子节 + 学术工具/其他网络资源/相关词条）；脚注标记键集 src=dst（long-1978；References 节 [^key] 契约注记源文同构）；文献定义 15:15 键集全等；正文 26 段逐段对位无漏译。相关词条三处英文项（Academy, Plato's / Cynics, in ancient Greek philosophy / Megaric School）经 baseline/catalog.json 与 en/ 实证无对应词条，按 fan-yi-mu-ban §6.5 保留中文译名待管线挂链。移交：SUMMARY 四处异形（克塞诺芬尼/爱利亚的芝诺/恩披里克/阿那克萨哥拉）与 ren-ming-biao 正形（色诺芬尼/埃利亚的芝诺/恩披里柯/阿那克萨戈拉）不一致，正文用登记册正形，异形入 011 归一事项。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T20:51:49Z",
+      "evidence": "语言校（check_prose --strict）：实修 11 处（长句拆分 5：伊利斯的逗留/显现残篇/冥府场面/克拉特斯诗句/影响深远段；de-chain 4：各家画像/阿里斯托克勒摘要/残篇写人/前文显现；弱动词+长句 2 处重排），残余 1 处豁免：行 14 引文内「由心灵[或由习俗]加以判定的」为古希腊残篇忠实译法（引文内部结构，ADR-0020 豁免）。check_style --docs --strict：0 issue。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "TZ-main-20261107",
+      "at": "2026-11-06T20:51:53Z",
+      "evidence": "体例校：check_style 0 issue；check_academic --strict 0 硬错误；check_math 0 公式/0 缺失/0 不平衡；check_terms 0 硬错误（本批修 Alain Locke 词汇表滞后与 Leibniz 重复行两处登记册冲突）；check_all 七项全绿。术语登记 28 行（术语 16＋人名 12，term_flow 落册后按表体例补 6 列重排，词汇表与池同步）；SUMMARY 标题与 mu-lu-s 一致（斐利亚修斯的第蒙 Timon of Phlius）。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-06T19:26:25Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 24, 2022",
+    "archive_edition": "Winter 2022",
+    "sha256": "9556873b5b6d3b753f1b30762d10fea8a718f2b5744db903b40536f276158bb4"
+  }
+}
