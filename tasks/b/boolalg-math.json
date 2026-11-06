@@ -2,7 +2,7 @@
   "slug": "boolalg-math",
   "kind": "retranslate",
   "zh_doc": "b/boolalg-math.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "intent",
@@ -52,6 +52,27 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-06T00:56:59Z",
       "evidence": "独立初审（接管会话，非初译 actor）：源译全文回读对照，35 段（含 8 个公式块逐块核验，公式零改动）无漏译/错译。实修 6 处——with 残留×3 译'以'（真值表括注）、declared 可被宣布为→可取定为、As a consequence 推论…有推论重复重构、puts into 置于→使成为、Erdős 厄多斯→埃尔德什（数学界规范译名，登记册补登）、min-max 残留→极小-极大括注。SUMMARY 定名'数学中的逻辑代数 the mathematics of'截断形沿用（H1 与 SUMMARY 一致，全题修正留待结构会话并需联动 mu-lu-s）。守恒五项（含缩写键 0:0）全绿，六检硬错误零，prose 7 豁免（数学名词化句式）。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T00:57:00Z",
+      "evidence": "独立复审：r1 六处实修 grep 断言在位（以 $+$/可取定为/其结果重构/使成为/埃尔德什/极小-极大各 1）；守恒五项复验全绿；六检 style 0/math 0 缺失；prose 7 豁免维持。关键段抽读：Stone 表示定理段与 Sikorski 判准段公式与文字一致。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T00:57:21Z",
+      "evidence": "终审验收：终稿结构完整，全库 check_all 七项门禁全绿（2026-11-06 本地，推送后 CI 为最终裁判）。r2 复审无新增问题。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T00:57:21Z",
+      "evidence": "批次收口：r3 终审通过后置 done；凭证链九步完整，提交链见 git log。"
     }
   ],
   "blockers": [],
