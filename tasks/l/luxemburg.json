@@ -2,7 +2,7 @@
   "slug": "luxemburg",
   "kind": "retranslate",
   "zh_doc": "l/luxemburg.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-02T21:08:54Z",
       "evidence": "四检：check_style 0（中文斜体 市民/公民/总/无产阶级群众运动的方法 改加粗）、check_academic 0 硬错误、check_math 0、prose 17 豁免留痕；人名 19 位登记 ren-ming-biao.md（卢森堡/列宁/伯恩施坦/考茨基/倍倍尔/蔡特金/李卜克内西/梅林/希法亭/约吉希斯/诺斯克/艾伯特/俾斯麦/密茨凯维奇/布哈林/凯恩斯/卡莱茨基/明斯基）；refs 节实义文献块（[AK]/[CW]/[RLR]）解析修复后照录保留"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:05:04Z",
+      "evidence": "r1 结构对账：参考文献节归正（References 注释节+注记），节数 13=13；marker 21=21；defs 键集全等；数字 11 段差异全部正当（March 5→3 月 5 日、December→12 月、century 类中文数词化）；正文 5 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:05:04Z",
+      "evidence": "r2 语言实修：prose 17→3（叙事句 de-chain 9 处、超长句 5 处拆写，含倍倍尔轶事句、帝国主义例证清单句式重组）；余 3 项为直引文内部（《群众罢工》引文、《社会主义是什么》引文），按 ADR-0020 豁免；人名卢森堡/倍倍尔/列宁/凯恩斯/卡莱茨基/明斯基/考茨基/格拉斯均在册"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:05:07Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0；check_prose 3 项引文豁免；check_math 0/0/0；marker/defs/节数齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T23:05:07Z",
+      "evidence": "done：九步齐，成稿 5 节 178 行"
     }
   ],
   "blockers": [],
