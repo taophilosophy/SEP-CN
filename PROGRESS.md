@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 19:48（UTC）
+生成时间：2026-11-06 21:44（UTC）
 
 ## 总览
 
@@ -12,28 +12,30 @@
 |别名词条（— see，不建任务）|638|
 |占位母词条（* 前缀，不建任务）|3|
 |已建英文基线|1879|
-|已建任务|1010|
+|已建任务|1012|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|128|
-|在途（drafted 起、done 前）|259|
+|已完成（done）|130|
+|在途（drafted 起、done 前）|260|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|623|
-|cleared|173|
-|drafted|4|
-|s3_checked|82|
-|done|128|
+|pending|622|
+|cleared|171|
+|drafted|3|
+|s1_checked|1|
+|s3_checked|84|
+|r1_reviewed|1|
+|done|130|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|160|160|160|46|
-|B|62|62|62|2|
+|B|62|62|62|3|
 |C|172|172|172|0|
 |D|92|92|92|11|
 |E|99|99|99|8|
@@ -43,15 +45,15 @@
 |I|75|75|75|18|
 |J|38|38|38|4|
 |K|36|36|36|10|
-|L|144|144|19|8|
+|L|144|144|19|9|
 |M|139|139|14|3|
 |N|50|50|2|0|
 |O|21|21|3|1|
 |P|165|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|11|6|
-|S|161|161|9|3|
-|T|71|71|3|0|
+|S|161|161|10|3|
+|T|71|71|4|0|
 |U|4|4|0|0|
 |V|15|15|0|0|
 |W|38|38|3|0|
@@ -108,7 +110,6 @@
 |biomedicine|retranslate|cleared|task_ops 2026-11-01|
 |black-reparations|retranslate|cleared|task_ops 2026-11-01|
 |blame|retranslate|cleared|task_ops 2026-11-01|
-|bloch|retranslate|cleared|task_ops 2026-11-01|
 |bodily-awareness|retranslate|cleared|task_ops 2026-11-01|
 |bodin|retranslate|cleared|task_ops 2026-11-01|
 |boethius|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -174,6 +175,7 @@
 |descartes-ideas|retranslate|s3_checked|? 2026-11-04|
 |dewey-moral|retranslate|s3_checked|ykla 2026-11-01|
 |dewey-political|retranslate|s3_checked|? 2026-11-05|
+|dialectical-school|retranslate|cleared|task_ops 2026-11-06|
 |digital-art|retranslate|cleared|task_ops 2026-11-01|
 |dilthey|retranslate|cleared|task_ops 2026-11-01|
 |double-effect|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -264,7 +266,7 @@
 |john-norris|retranslate|cleared|task_ops 2026-11-01|
 |john-salisbury|retranslate|cleared|task_ops 2026-11-01|
 |jury-theorems|retranslate|cleared|task_ops 2026-11-01|
-|justep-coherence|retranslate|cleared|task_ops 2026-11-01|
+|justep-coherence|retranslate|s3_checked|? 2026-11-06|
 |justep-foundational|retranslate|cleared|task_ops 2026-11-01|
 |justep-intext|retranslate|cleared|task_ops 2026-11-01|
 |justice|retranslate|cleared|task_ops 2026-11-01|
@@ -310,7 +312,6 @@
 |leibniz-evil|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leibniz-logic-influence|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leibniz-mind|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
-|leibniz-modal|retranslate|s3_checked|LQ-main-20261103 2026-11-03|
 |leucippus|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |locke-on-medicine|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |logic-preference|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
@@ -318,7 +319,9 @@
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |modesty-humility|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
 |montesquieu|retranslate|s3_checked|LMN-main-20261106 2026-11-06|
-|origin-descent|retranslate|drafted|OR-main-20261106 2026-11-06|
+|origin-descent|retranslate|s1_checked|OR-main-20261106 2026-11-06|
 |rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
-|scholz|retranslate|cleared|task_ops 2026-11-06|
-|timon-phlius|retranslate|cleared|task_ops 2026-11-06|
+|scholz|retranslate|r1_reviewed|SZ-main-20261107 2026-11-06|
+|sophismata|retranslate|cleared|task_ops 2026-11-06|
+|timon-phlius|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
+|truth-coherence|retranslate|s3_checked|TZ-main-20261107 2026-11-06|
