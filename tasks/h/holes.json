@@ -2,7 +2,7 @@
   "slug": "holes",
   "kind": "retranslate",
   "zh_doc": "h/holes.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "laneA-holes",
       "at": "2026-11-06T14:17:34Z",
       "evidence": "三检全清零（末次 compose 后复跑）：check_style.py --docs h/holes.md --strict → {\"files\":1,\"issues\":[]} exit 0；check_academic.py --docs h/holes.md --strict → OK：学术规范无硬错误 exit 0（版本事实行 1996 年 12 月 5 日/2025 年 5 月 12 日与 baseline pubinfo 一致，References（引用注释）照录说明、学术工具四行、相关词条八项齐备）；check_math.py holes → checked 1/formulas 0/missing 0/unbalanced 0 exit 0；check_prose 复核 0 项；lq check 14/14 段守恒（SOFT 1 条已留痕）；成稿 22267 字节；现存孤立定义 6 条与注记字面 [^key] 1 处系源文同构（现制豁免，r3 复核项）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T15:08:19Z",
+      "evidence": "r1 段级核销（主会话独立复核 laneA 产物）：6 节对应、49 个脚注键与源逐字符全等、33 组作者-年份引用一一对应、3-4 位数字集合无缺无多；版本行 1996-12-05/2025-05-12 与 baseline pubinfo 一致；核销 6 条孤立文献定义为源文同构现制豁免"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T15:08:19Z",
+      "evidence": "r2 句级复读：check_prose 0 项（laneA 实修后归零）；通读译文核'宿主/住客/洞衬/负部分/扰动'等术语全文一致，无欧化残留"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T15:08:22Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK、check_math 0；lq check OK（唯一 SOFT：段3 整句引文斜体由中文引号承担，对齐先例）；账本 14/14 双版齐"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-06T15:08:22Z",
+      "evidence": "终稿验收：六道全过；r1-r3 由初译 actor（laneA）以外的主会话执行，满足 ISO 17100 独立性"
     }
   ],
   "blockers": [],
