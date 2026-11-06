@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-06 00:28（UTC）
+生成时间：2026-11-06 00:37（UTC）
 
 ## 总览
 
@@ -14,7 +14,7 @@
 |已建英文基线|1879|
 |已建任务|1002|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|100|
+|已完成（done）|101|
 |在途（drafted 起、done 前）|270|
 |阻塞|0|
 
@@ -22,13 +22,12 @@
 
 |状态|数量|
 |---|---|
-|pending|632|
+|pending|631|
 |cleared|177|
 |drafted|2|
 |s1_checked|1|
-|s3_checked|89|
-|r1_reviewed|1|
-|done|100|
+|s3_checked|90|
+|done|101|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
@@ -51,7 +50,7 @@
 |O|21|21|1|0|
 |P|165|165|4|0|
 |Q|34|34|0|0|
-|R|85|85|11|5|
+|R|85|85|11|6|
 |S|161|161|6|1|
 |T|71|71|2|0|
 |U|4|4|0|0|
@@ -296,7 +295,7 @@
 |kant-conceptualism|retranslate|cleared|task_ops 2026-11-01|
 |kant-development|retranslate|cleared|task_ops 2026-11-01|
 |kant-hume-causality|retranslate|cleared|task_ops 2026-11-01|
-|kant-hume-morality|retranslate|cleared|task_ops 2026-11-01|
+|kant-hume-morality|retranslate|s3_checked|AK-main-20261105 2026-11-06|
 |kant-judgment|retranslate|cleared|task_ops 2026-11-01|
 |kant-moral|retranslate|cleared|task_ops 2026-11-01|
 |kant-reason|retranslate|s3_checked|AK-main-20261105 2026-11-05|
@@ -334,4 +333,4 @@
 |lorenzo-valla|retranslate|s3_checked|LQ-main-20261103 2026-11-04|
 |luxemburg|retranslate|s3_checked|LQ-main-20261103 2026-11-02|
 |marsilius-inghen|retranslate|cleared|task_ops 2026-11-06|
-|redistribution|retranslate|r1_reviewed|RZ-main-20261104 2026-11-06|
+|rationalism-early-modern|retranslate|cleared|task_ops 2026-11-06|
