@@ -2,7 +2,7 @@
   "slug": "spacetime-convensimul",
   "kind": "retranslate",
   "zh_doc": "s/spacetime-convensimul.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "SZ-main-20261106",
       "at": "2026-11-06T18:08:54Z",
       "evidence": "初审对照 yuanwen 三件回读：论证走向无偏移（约定性论题 ε 自由度/Minguzzi 标量场推广、循环论证归纳、马拉门特唯一性定理四条件、Torretti/Norton 支持 vs Grünbaum/Janis 反驳、快子—慢子/Zangari 旋量/Ohanian 赝力/Mamone Capria/Rynasiewicz 规范自由类比）；补充材料两件（慢钟搬移 Eddington–Bridgman–Ellis–Bowman–Winnie–Redhead、Malament 进一步讨论 Havas–Sarkar–Stachel–Ben-Yami–Giulini）引文与年份逐处核对；主形锁定（同时性/同步/标准同步/单向光速/快子/零锥/类时）；引块 3 处逐字核对；无 Critical/Major 残留"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T19:17:02Z",
+      "evidence": "复审逐句回核（冷置后，schema 终审穿插）：r2 实修 2 处——段22 “没有任何相干”→“毫无关系”（no bearing 通顺化）、段23 “正如同”→“正像…一样”；逻辑回核：四节论证链（约定性论题/现象反驳/马拉门特定理/其他考虑）与补充材料两件论证链与源一致；引文（Torretti/Norton/Grünbaum/Eddington/Bridgman/van Fraassen/Winnie/Redhead/Havas/Sarkar–Stachel/Ben-Yami/Giulini）年份页码逐处对源；55 键守恒复核"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T19:20:22Z",
+      "evidence": "终审验收（三件）：check_style --strict 0、check_prose 0、check_academic --strict 绿、check_summary HARD 0；正文 55 键+补充材料 0 键与源全等；check_all 术语一致性红点属他会话在途（Alain Locke/012 回填），非本方行；CI 推送后为最终裁判；冷置：draft→s1 后做 schema 全程再回读"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T19:20:23Z",
+      "evidence": "done：主文 13312 字符+补充材料 transport-clocks 2292/further-discussion 1893，账本 25+5+4 段入库，六道十步全录"
     }
   ],
   "blockers": [],

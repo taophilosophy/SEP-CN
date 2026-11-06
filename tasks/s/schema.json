@@ -2,7 +2,7 @@
   "slug": "schema",
   "kind": "retranslate",
   "zh_doc": "s/schema.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "SZ-main-20261106",
       "at": "2026-11-06T15:21:46Z",
       "evidence": "初审（对照原文自审）：yuanwen 逐段回读终稿——论证走向无偏移（图式=模板+附加条件 vs 实例集合论、一阶图式弱于二阶公理、本体论混合地位四例数字齐）；引块 7 处（含 Tarski (2) 式、Russell 1919:157）逐字核对；术语主形全篇锁定（图式/附加条件/模板文本/实例/开语句/命题函项/殊例—类型）；人名首现括注齐（塔尔斯基/邱奇/皮尔士/冯·诺伊曼/罗素）；无 Critical/Major 残留"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T19:00:10Z",
+      "evidence": "复审逐句回核（冷置后）：r2 实修 1 处——段54 “被认为属于图式”→“被当作图式”（have been taken to be schemas，规则本身即图式，非属类关系）；逻辑回核：四节论证链（图式=模板+附加条件、T 图式实例、一阶/二阶之辨、本体论混合、逻辑史）与源一致，引文 7 处逐字，数字（八词/十四词/六词/四十字符/27 字母/6 空格/7 句点/638 n.5）全对"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T19:17:02Z",
+      "evidence": "终审验收：check_style/prose/math/academic/summary 五检全绿；check_all 7 项中本方相关 6 项绿、术语一致性 1 硬错误属他会话在途（Alain Locke 冲突行 + specs/012 原文列回填 + 词汇表滞后 2，均非本方行；本方仅 schêma 同键异译建议合并告警一条）；CI 以推送后为最终裁判（用户未令 push）；冷置程序：draft→s1 后中断做 spacetime-convensimul 全程，再回读 r2/r3（ADR-0020）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "SZ-main-20261106",
+      "at": "2026-11-06T19:17:03Z",
+      "evidence": "done：s/schema.md 终稿 10531 字符，60 段账本入库，六道十步全录，八步判据全过"
     }
   ],
   "blockers": [],

@@ -132,7 +132,7 @@ $$ \forall F \{[F (0) \mathbin{\&} \forall x ((\textit{Num} (x) \mathbin{\&} F (
 
 $$ \begin{align} & P \textrm{ belongs-to-every }M.\\ & M \textrm{ belongs-to-every }S.\\\hline & P \textrm{ belongs-to-every }S. \end{align} $$
 
-与之相应的附加条件是：(1) 两处 “$P$” 都填入同一个通名；(2) 两处 “$M$” 都填入同一个通名，且不同于 “$P$” 所用的通名；(3) 两处 “$S$” 都填入同一个通名，且不同于 “$P$” 与 “$M$” 所用的通名；(4) 表达式 “belongs-to-every” 被理解为表达《前分析篇》中的全称肯定谓述。斯多亚命题逻辑的规则，一向被认为属于图式。
+与之相应的附加条件是：(1) 两处 “$P$” 都填入同一个通名；(2) 两处 “$M$” 都填入同一个通名，且不同于 “$P$” 所用的通名；(3) 两处 “$S$” 都填入同一个通名，且不同于 “$P$” 与 “$M$” 所用的通名；(4) 表达式 “belongs-to-every” 被理解为表达《前分析篇》中的全称肯定谓述。斯多亚命题逻辑的规则，一向被当作图式。
 
 “schema” 一词在现代意义上的自觉使用始于何时，很难确定。罗素（Bertrand Russell）的《数理哲学导论》（*Introduction to Mathematical Philosophy*，1919）只是顺带用它来描述命题函项：
 
