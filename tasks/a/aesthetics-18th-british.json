@@ -2,7 +2,7 @@
   "slug": "aesthetics-18th-british",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-18th-british.md",
-  "state": "r2_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,20 @@
       "actor": "ABCDE-takeover-20261106",
       "at": "2026-11-06T10:00:33Z",
       "evidence": "独立复审（接管会话，非初译 actor）：r1 六处实修逐项 grep 断言在位（获得一定程度的美/比哈奇森本人给出过的任何说明/就其而言真正是美的/视作自由之图像/要点是这样的/彼此由一条单一联想原理 各 1，旧串残余 0——'都要更为锐利'命中系新文本内串假阳性已核）。守恒五项复验：段落 97:96 差 1 为译注行体例豁免（家法模板追加）、年份序列一致、marker 顺序一致、defs 64:64 键集一致、无缩写表 0:0。六检复跑：style 0、academic 0 硬错误、math 0 缺失、bold/markdown 0。prose 105 维持 r1 豁免分判（美学史叙事密度+引文块）。关键段抽读：沙夫茨伯里三重秩序引文、休谟五条件清单、伯克激情分类段，与源文逐句一致。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T10:01:24Z",
+      "evidence": "终审验收：终稿结构完整，全库 check_all 七项门禁全绿（2026-11-06 本地，推送后 CI 为最终裁判）。r2 复审确认无新增问题。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ABCDE-takeover-20261106",
+      "at": "2026-11-06T10:01:24Z",
+      "evidence": "批次收口：r3 终审通过后置 done；凭证链九步完整，提交链见 git log。"
     }
   ],
   "blockers": [],
