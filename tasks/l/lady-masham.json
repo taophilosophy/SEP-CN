@@ -2,7 +2,7 @@
   "slug": "lady-masham",
   "kind": "retranslate",
   "zh_doc": "l/lady-masham.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "LQ-main-20261103",
       "at": "2026-11-02T18:52:46Z",
       "evidence": "四检全过：check_style 0 / check_academic 0 硬错误 / check_math 0 / prose 0；人名 10 位新登记 ren-ming-biao.md（马沙姆/莱布尼茨/马勒伯朗士/培尔/库德沃斯/莫尔/诺里斯/勒克莱尔/科斯特/斯蒂林弗利特）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T17:15:01Z",
+      "evidence": "r1 结构对账：机检五维（节/defs/marker/年份/粗体缩写）后手工补齐——参考文献节由'## 参考文献'归正为'## References（引用注释）'+照录说明+转换器注记，补回源文 ### Sources / ### Studies 两个子标题（节数 8→10=源 10）；marker 差 1 项经查为模板占位 [^key]（源文注记行），随注记补回后 1/1；defs 键集全等；年份序列无差异；全文 4 节通读无错译"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T17:15:01Z",
+      "evidence": "r2 语言与登记：check_prose 0 告警；人名登记补课 12 行（Edward Clarke/Sir Francis Masham/Francis Cudworth Masham/Elizabeth Stillingfleet/Peter King/Anthony Collins/Philip van Limborch/Samuel Bolde/Lord Peterborough/盖恩夫人/费奈隆/博叙埃），余下人名（马沙姆/库德沃斯/洛克/莱布尼茨/诺里斯/马勒伯朗士/阿斯特尔/科斯特/勒克莱尔/培尔/牛顿/沙夫茨伯里/范·赫尔蒙特）均已在册；书名与人名括注为体例正当，非中英混杂"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T17:15:04Z",
+      "evidence": "r3 终检：check_style --strict 0；check_academic --strict 0 硬错误；check_prose 0；check_math 公式 0/缺失 0/失衡 0；defs 键集=源；marker=源；节数=源"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "LMN-main-20261106",
+      "at": "2026-11-06T17:15:04Z",
+      "evidence": "done：九步齐（clear/draft/s1/s2/s3/r1/r2/r3/done），成稿 4 节 116 行，参考文献 2 子节归位，人名 12 行补登"
     }
   ],
   "blockers": [],

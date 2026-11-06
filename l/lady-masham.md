@@ -44,9 +44,15 @@
 
 她与让·勒克莱尔的通信，为了解其宗教宽容观提供了若干洞见。其中还包括她为其父《宇宙的真正理智体系》辩护、回击培尔对库德沃斯的批评——这场论战是借让·勒克莱尔代为进行的。这些书信在多个方面颇具启示。它表明她愿意与父亲意见相左（例如关于是否存在无广延实体的问题），同时仍保持对他的敬意，并准备挺身为他回击贬损者（此处即皮埃尔·培尔）。这也表明：她并未抛弃自己在结识洛克之前信奉的全部柏拉图主义信条。
 
-## 参考文献
+## References（引用注释）
 
 **以下文献从原文照录，不作翻译；中国文献译为中文。**
+
+> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
+
+### Sources
+
+### Studies
 
 [^astell-1705]: Astell, Mary, 1705, *The Christian Religion as Professed by a Daughter of the Church*, London: R. Wilkin.
 [^ballard-1752]: Ballard, George, 1752, *Memoirs of Several Ladies of Great Britain, who have been celebrated for their writings or skill in the learned languages, arts, and sciences*, Oxford: W. Jackson, pp. 379–388.

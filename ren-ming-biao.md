@@ -1174,6 +1174,19 @@
 | Roxana | — | 罗克珊娜 | montesquieu | 学界通行汉译（《波斯人信札》人物）；凭证 2026-11-07 | 2026-11-07 |
 | Lartigue, Jeanne de | — | 让娜·德·拉尔蒂格 | montesquieu | 学界通行音译（孟德斯鸠之妻）；凭证 2026-11-07 | 2026-11-07 |
 
+| Clarke, Edward | — | 爱德华·克拉克 | lady-masham | 学界通行汉译（洛克友人、马沙姆夫妇姻亲；与 Samuel Clarke 塞缪尔·克拉克为不同人，键以名区分） | 2026-11-07 |
+| Masham, Sir Francis | — | 弗朗西斯·马沙姆爵士 | lady-masham | 学界通行音译（达玛里斯之夫，埃塞克斯乡绅） | 2026-11-07 |
+| Masham, Francis Cudworth | — | 弗朗西斯·库德沃斯·马沙姆 | lady-masham | 学界通行音译（达玛里斯之子） | 2026-11-07 |
+| Stillingfleet, Elizabeth | — | 伊丽莎白·斯蒂林弗利特 | lady-masham | 学界通行音译（爱德华·斯蒂林弗利特之妻） | 2026-11-07 |
+| King, Peter | — | 彼得·金 | lady-masham | 学界通行汉译（洛克侄子，后为第一代金男爵） | 2026-11-07 |
+| Collins, Anthony | — | 安东尼·柯林斯 | lady-masham | 学界通行汉译（自由思想家） | 2026-11-07 |
+| Limborch, Philip van | — | 菲利普·范·林博尔赫 | lady-masham | 学界通行音译（阿明尼乌派神学家） | 2026-11-07 |
+| Bolde, Samuel | — | 塞缪尔·博尔德 | lady-masham | 学界通行音译（洛克社交圈人士） | 2026-11-07 |
+| Peterborough, Lord | — | 彼得伯勒勋爵 | lady-masham | 学界通行汉译（以爵号行文） | 2026-11-07 |
+| Guyon, Madame | — | 盖恩夫人 | lady-masham | 学界通行汉译（寂静主义倡导者） | 2026-11-07 |
+| Fénelon, François de | — | 弗朗索瓦·德·费奈隆 | lady-masham | 学界通行汉译（康布雷大主教） | 2026-11-07 |
+| Bossuet, Jacques-Bénigne | — | 雅克-贝尼涅·博叙埃 | lady-masham | 学界通行汉译（莫城主教） | 2026-11-07 |
+
 ## 待裁定
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
