@@ -2,7 +2,7 @@
   "slug": "oakeshott",
   "kind": "retranslate",
   "zh_doc": "o/oakeshott.md",
-  "state": "drafted",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -17,6 +17,27 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-06T23:27:54Z",
       "evidence": "双版账本 56 段（正文 55+OIR 1）落盘，lq check 守恒绿（* 计数 10 处系英文斜体书名→中文书名号，逐条留痕）；compose 28507 字符/61288 字节；postfix 补 H1 空行、列表 * 化、相关词条按 SUMMARY 校正为「范畴」；italic_to_bold_cjk 转 5 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:40:36Z",
+      "evidence": "逐段回原文核校（56 段全覆盖）：修 2 处准确性——(1) Webbs 为 LSE 'among the founders' 补「之一」；(2) Collingwood 段 'philosophy narrowly defined' 修饰范围矫正为「科学、历史与狭义的哲学」（原误挂三类）。其余段落语义、括注年卷页码、引文回译核对一致。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:40:36Z",
+      "evidence": "反欧化润色：check_prose 41→0（long-sentence 5 处拆分、de-chain 22 处破链（多以「之/其/者」替「的」）、passive-bei 4 处改「遭/受」、weak-verb 5 处改「来/做出/给出/供…反思」）；账本 step2 与正文同源重合成，未改语义。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-06T23:43:29Z",
+      "evidence": "三校门禁：check_style --strict 0 issue；check_academic --strict 硬错误 0；check_terms 硬错误 0（滞后 2 条属他会话登记册 moral law / ʿAyn al-Quḍāt，非本条）；check_prose 0；check_all 7/7 全绿；markdownlint 该文件 0 issue。结构：标题集 12/12 与源一一对应，脚注 67 定义/51 引用，孤儿定义 5 项（aristotle-1980 等）与源一致；H1=SUMMARY 行、版本钉 Feb 1 2024/Spring 2024 一致。体量 14,152 汉字 / 61,064 字节。"
     }
   ],
   "blockers": [],
