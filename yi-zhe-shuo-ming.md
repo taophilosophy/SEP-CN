@@ -67,7 +67,7 @@
 | context of discovery/context of justification | — | 发现语境／辩护语境 | 语料回收（lakatos 首译） | 科学哲学界通行译法（赖兴巴赫）；凭证 2026-11-06 | 2026-11-06 |
 | Continuum Hypothesis | — | 连续统假设 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | conventional law | — | 约定法 | albo-joseph 首译 | 与神法/自然法三分相对 | 2026-11-07 |
-| Copenhagen interpretation | — | 哥本哈根解释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Copenhagen interpretation | — | 哥本哈根诠释 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | correspondence principle | — | 对应原理 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | corroboration | — | 确证 | 语料回收（lakatos 首译） | 波普尔研究通行译法（已在册佐证，批6 正文使用）；凭证 2026-11-06 | 2026-11-06 |
 | creation from nothing | — | 无中创世 | 语料回收（marsilius-inghen 首译） | 神哲学通行译法（creatio ex nihilo）；凭证 2026-11-06 | 2026-11-06 |
@@ -942,6 +942,46 @@
 | Covenant on Economic, Social and Cultural Rights | — | 《经济、社会及文化权利国际公约》 | s/sovereignty 首译 | 联合国官方中译；凭证 2026-11-07 | 2026-11-07 |
 | European Convention for the Protection of Human Rights and Fundamental Freedoms | — | 《保护人权与基本自由公约》 | s/sovereignty 首译 | 学界通行译名（欧洲人权公约正式名，国际法通行）；凭证 2026-11-07 | 2026-11-07 |
 | European Coal and Steel Community | — | 欧洲煤钢共同体 | s/sovereignty 首译 | 学界通行译名（欧洲研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| social procedures | — | 社会程序 | s/social-procedures 首译（标题词） | 学界通行译名；SUMMARY 定名“社会程序的形式化进路”；凭证 2026-11-07 | 2026-11-07 |
+| social software | — | 社会软件 | s/social-procedures 首译 | 学界通行译法（Parikh 2002 术语，社会软件研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| algorithm | — | 算法 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
+| fair division | — | 公平分配 | s/social-procedures 首译 | 学界通行译法（社会选择与分配正义文献通行）；凭证 2026-11-07 | 2026-11-07 |
+| divide and choose | — | 分割—选择 | s/social-procedures 首译 | 学界通行译法（亦作“我分你选”；公平分配文献通行）；凭证 2026-11-07 | 2026-11-07 |
+| cake cutting | — | 切蛋糕 | s/social-procedures 首译 | 学界通行译法（公平分配文献比喻性术语）；凭证 2026-11-07 | 2026-11-07 |
+| simply fair | — | 简单公平 | s/social-procedures 首译 | 构词直译（与 envy-free 无嫉妒对举）；凭证 2026-11-07 | 2026-11-07 |
+| envy-free | — | 无嫉妒 | s/social-procedures 首译 | 学界通行译法（公平分配文献通行）；凭证 2026-11-07 | 2026-11-07 |
+| stable marriage (problem) | — | 稳定婚姻（问题） | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| stable match | — | 稳定匹配 | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| matching | — | 匹配 | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| Gale-Shapley algorithm | — | 盖尔—沙普利算法 | s/social-procedures 首译 | 学界通行译法（匹配理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| leader election problem | — | 首领选举问题 | s/social-procedures 首译 | 学界通行译法（分布式计算通行）；凭证 2026-11-07 | 2026-11-07 |
+| token ring | — | 令牌环 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
+| common knowledge | — | 共同知识 | s/social-procedures 首译 | 学界通行译法（认知逻辑与博弈论文献通行）；凭证 2026-11-07 | 2026-11-07 |
+| epistemic logic | — | 认知逻辑 | s/social-procedures 首译 | 学界通行译法（逻辑学通行）；凭证 2026-11-07 | 2026-11-07 |
+| dynamic epistemic logic | — | 动态认知逻辑 | s/social-procedures 首译 | 学界通行译法（逻辑学通行）；凭证 2026-11-07 | 2026-11-07 |
+| epistemic planning | — | 认知规划 | s/social-procedures 首译 | 学界通行译法（多智能体研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| distributed computing | — | 分布式计算 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
+| multi-agent system | — | 多智能体系统 | s/social-procedures 首译 | 学界通行译法（人工智能研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| social choice theory | — | 社会选择理论 | s/social-procedures 首译 | 审定名词（经济学名词通行）；凭证 2026-11-07 | 2026-11-07 |
+| social epistemology | — | 社会认识论 | s/social-procedures 首译 | 学界通行译法（哲学通行）；凭证 2026-11-07 | 2026-11-07 |
+| mechanism design theory | — | 机制设计理论 | s/social-procedures 首译 | 审定名词（经济学名词）；凭证 2026-11-07 | 2026-11-07 |
+| algorithmic game theory | — | 算法博弈论 | s/social-procedures 首译 | 学界通行译法（计算机与经济学交叉领域通行）；凭证 2026-11-07 | 2026-11-07 |
+| Nash equilibrium | — | 纳什均衡 | s/social-procedures 首译 | 审定名词（经济学名词）；凭证 2026-11-07 | 2026-11-07 |
+| theory of play | — | 对局理论 | s/social-procedures 首译 | 学界通行译法（van Benthem 学派术语；亦作“博弈过程理论”）；凭证 2026-11-07 | 2026-11-07 |
+| epistemic game theory | — | 认知博弈论 | s/social-procedures 首译 | 学界通行译法（博弈论通行）；凭证 2026-11-07 | 2026-11-07 |
+| evolutionary game theory | — | 演化博弈论 | s/social-procedures 首译 | 审定名词（经济学名词通行）；凭证 2026-11-07 | 2026-11-07 |
+| reciprocal altruism | — | 互惠利他 | s/social-procedures 首译 | 学界通行译法（生物学哲学与演化伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
+| paraconsistent logic | — | 次协调逻辑 | s/social-procedures 首译 | 学界通行译法（非经典逻辑通行；亦作“超协调逻辑”）；凭证 2026-11-07 | 2026-11-07 |
+| valuation function | — | 估值函数 | s/social-procedures 首译 | 学界通行译法（社会选择理论通行）；凭证 2026-11-07 | 2026-11-07 |
+| coalition formation | — | 联盟形成 | s/social-procedures 首译 | 学界通行译法（多智能体研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| knowledge fusion | — | 知识融合 | s/social-procedures 首译 | 学界通行译法（多智能体研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| token（令牌环语境） | — | 令牌 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
+| talking stick | — | 发言棒 | s/social-procedures 首译 | 构词直译（北美原住民议事习俗）；凭证 2026-11-07 | 2026-11-07 |
+| chapatis | — | 恰帕提（印度薄饼） | s/social-procedures 首译 | 学界通行译名（印度饮食通行音译）；凭证 2026-11-07 | 2026-11-07 |
+| Ignorantia legis neminem excusat | Ignorantia legis neminem excusat | 不知法不免责（拉丁原词保留斜体） | s/social-procedures 首译 | 学界通行译法（法谚通行）；凭证 2026-11-07 | 2026-11-07 |
+| Rational Ritual | — | 《理性的仪式》（Chwe 2001） | s/social-procedures 首译 | 构词直译，无中译本，待 specs/008 审定库复核；凭证 2026-11-07 | 2026-11-07 |
+| formal methods | — | 形式化方法 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
+| communication protocol | — | 通信协议 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
 
 ## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
 

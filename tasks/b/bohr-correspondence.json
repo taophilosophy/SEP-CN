@@ -2,7 +2,7 @@
   "slug": "bohr-correspondence",
   "kind": "retranslate",
   "zh_doc": "b/bohr-correspondence.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T10:01:47Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:35:40Z",
+      "evidence": "初译完成：7 分片（正文 §1–§7 六片＋脚注 note-1..13 译出＋尾节）经 assemble_bohr-correspondence.py 组装；守恒：正文 H2 7/7、H3 3/3、脚注标记 58/58 逐键多重集、note-N 13/13、书目 defs 39/39；公式 128 个定界符零缺失零失衡；图 2 组路径改 ../yuanwen/assets/；CJK 15246"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:35:40Z",
+      "evidence": "一校（准确性）：逐节核销——导语（贾默引文、三候选定义）＋1 背景（玻尔生平、旧量子理论、卢瑟福模型与普朗克辐射、两公设、玻尔—爱因斯坦频率条件、光子迟疑与 Stachel、量子条件、傅里叶分解与谐波）；2 定义（频率/强度/选择定则三解释＋方程 4–6＋图 1 与选择定则实例）；3 著述 1918–1928（类比→定律、1920 术语首现、频率与强度对应、选择定则与‘定律’、巴尔末系 Hα/Hβ 与图 2、1923 多重周期系统、1925 对矩阵力学的表态、1928 科莫讲演与‘象征性’）；4 早期反响（三类反应；索末菲‘魔杖’与 Seth 之争；泡利与索末菲式进路、‘对应原理帝国主义’；海森堡由拥护到疏离、Beller 与封闭理论）；5 史哲文献（四项挑战；Jammer 频率读法及其‘掩盖不一致’批评；Mehra & Rechenberg 悬置；Darrigol 强度读法与象征化转变；Radder 三阶段；Batterman；Tanona；Bokulich 选择定则）；6 当代物理文献（Born 两条脉络、Bohm、Liboff 反例、Hassoun & Kobe、Ford & Mantica、Zurek 退相干、Rosenfeld 转述玻尔抗议）；7 广义对应原理（Post 定义与‘唯一反例’、Radder 反对）；专名按人名表（贾默/玻尔/海森堡等），术语 24 行先登记"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:49:02Z",
+      "evidence": "二校（语言）：check_prose 66→40，实修 26（长句拆分 15，被动改写 5，弱动词 3，as-one 1 保留在引文内）；余 40 条＝de-chain 21（概念性定语链，ADR-0020 豁免：玻尔对应原理的著述/古典运动第 τ 个谐波的频率等）＋as-one 1（引文内）＋长句 18（11 条为整段直引 blockquote，7 条为含逐字引文的叙述句，按引文豁免）；斜体 CJK 98 跨度改加粗并按家法补空格，三连星号 9 处修复"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:49:06Z",
+      "evidence": "三校（体例）：check_style --strict 0；check_math 128 公式零缺失零失衡；check_academic --strict 0 硬错误；渲染产物 0；尾节序 脚注→参考文献（含 Works by Bohr/Other Primary Literature/Secondary Literature 子标题）→学术工具→其他网络资源→相关词条；相关词条 5 条取 SUMMARY 定名；术语 24 行、人名 14 行先登记（Copenhagen interpretation 统一为词汇表定名‘哥本哈根诠释’）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:49:06Z",
+      "evidence": "回读复核（同会话复核）：正文 7 节对照源文逐段核读；修 2 处——Jammer 定名按人名表统一为‘贾默（Max Jammer）’（原写雅默）、§5 一处分句；守恒五维复验（H2 7:7、H3 3:3、标记 58:58、defs 52:52、公式 128 平衡）；check_style 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:49:06Z",
+      "evidence": "复审：修订串 grep 断言在位（贾默 14、哥本哈根诠释 3、定义如下/其二 等拆分锚点）；公式与标记复验全绿；抽读 §2 选择定则与 §3 巴尔末系关键段；check_all 七项全绿"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:49:08Z",
+      "evidence": "终审验收：终稿结构完整（导语＋7 节 3 小节＋脚注 13＋参考文献 39 条照录＋学术工具＋其他网络资源＋相关词条）；check_all 七项门禁全绿（2026-11-07 本地，推送后 CI 为最终裁判）；无新增问题"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "B-main-20261106",
+      "at": "2026-11-07T11:49:09Z",
+      "evidence": "批次收口：置 done；九步凭证链完整（clear/draft/s1/s2/s3/r1/r2/r3/done），提交见 git log"
     }
   ],
   "blockers": [],
