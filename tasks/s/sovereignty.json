@@ -1,0 +1,64 @@
+{
+  "slug": "sovereignty",
+  "kind": "retranslate",
+  "zh_doc": "s/sovereignty.md",
+  "state": "r2_reviewed",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T01:14:17Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T10:59:13Z",
+      "evidence": "账本 tasks/s/sovereignty.ledger.yaml 49/49 双版落盘；lq.py check HARD=0 SOFT=7（机械段3+斜体转书名号4）；compose s/sovereignty.md 20032 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T11:02:10Z",
+      "evidence": "一校：逐段对读 yuanwen/s/sovereignty.md 全 49 段，实修 6 处（现代形态→现代观念；所界定的那样→所提出的；瓦解→衰落；写给了→规定了；系统处理→详尽论述；运送→提供救济）；残留外文碎片 0；欣斯利段 **(** 源页 <strong>(</strong> 排版缺陷按显然意图重构为整句加粗并留痕"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T11:02:11Z",
+      "evidence": "二校：check_prose s/sovereignty.md 34→0 全实修零豁免（拆长句 11、去被字叠用 4、消的链 14、弱动词 3、存在着 1）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T11:06:07Z",
+      "evidence": "三校：check_style --strict 0 issue；check_math 0 公式无失衡；check_summary H1 mismatch 0；check_academic --strict OK；check_terms 硬错误 0；biblio_audit 48 条 flagged 0；术语/人名与两册逐条一致（Maritain 已对齐 SUMMARY 定名）"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T11:09:56Z",
+      "evidence": "初审（对照原文自审）：残留长英文片段 0（全文扫描 >40 字符连续英文=0）；事实钉 19 项逐一在位（1957 Kantorowicz／1648、1517、1555 威斯特伐利亚—奥格斯堡／1576 博丹／1922 施米特／1948-12-9 灭种公约／1950 两约／1957 罗马条约／1991 马约／2001 ICISS／2003、1999-12／2004、2005、2009-12-1、2016／2008 本笃十六世联大／二十七个成员）；H1 与 SUMMARY 2505 行一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "SZ-main-20261107",
+      "at": "2026-11-07T11:09:57Z",
+      "evidence": "复审（逐句回核原文与逻辑）：十处易错点复核通过——territoriality 界定成员／superior to all authorities under its purview／by simple virtue of location／absoluteness=scope 非 extent／constitutional independence 免受外来影响／anarchy=无更高权威／cover the entire land surface／perdured=延续良久／argued for the orthodoxy=为正统辩护／pooled=汇集；逻辑连接词（for／thus／but／indeed）逐处有对应，无增删命题"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T01:14:16Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 17, 2024",
+    "archive_edition": "Fall 2024",
+    "sha256": "cfa8350dcd20bfcebe10874862fb1513060498fd8d229f14bdd03a2f45fca0a4"
+  }
+}
