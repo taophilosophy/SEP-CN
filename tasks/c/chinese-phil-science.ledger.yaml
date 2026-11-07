@@ -1,0 +1,616 @@
+version: 1
+slug: chinese-phil-science
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      At first glance, there may appear to be little connection between Chinese philosophy and science. Stereotypes of Chinese philosophy as consisting almost entirely of Confucianism and claims that Confucians were not interested in science add to this perception.
+    step1: |-
+      乍看之下，中国哲学与科学之间似乎没有多少联系。中国哲学在刻板印象中几乎全由儒学构成，加上有人声称儒家对科学不感兴趣，这一印象便更为牢固。
+    step2: |-
+      乍看之下，中国哲学与科学之间似乎鲜有联系。一种刻板印象认为中国哲学几乎全由儒学构成，又有人声称儒家对科学并无兴趣，两者叠加便加深了这种观感。
+  - id: 2
+    kind: body
+    source: |-
+      For example, in a recent correspondence in the journal *Nature*, Peng Gong, a research scientist at Tsinghua University and the University of California, Berkeley gives the following harsh assessment of the effect of Chinese philosophy on the development of science in China:
+    step1: |-
+      例如，在《自然》杂志近期的一封通信中，清华大学与加州大学伯克利分校的研究科学家宫鹏对中国哲学对中国科学发展之影响作了如下严厉评价：
+    step2: |-
+      例如，清华大学与加州大学伯克利分校的研究科学家宫鹏（Peng Gong）在《自然》（*Nature*）杂志近期的一封通信中，对中国哲学之于中国科学发展的影响作了如下严厉评价：
+  - id: 3
+    kind: body
+    source: |-
+      > Two cultural genes have passed through generations of Chinese intellectuals for more than 2,000 years. The first is the thoughts of Confucius, who proposed that intellectuals should become loyal administrators. The second is the writings of Zhuang Zhou, who said that a harmonious society would come from isolating families so as to avoid exchange and conflict, and by shunning technology to avoid greed. Together, these cultures have encouraged small-scale and self-sufficient practices in Chinese society, but discouraged curiosity, commercialization and technology. They helped to produce a scientific void in Chinese society that persisted for millennia. And they continue to be relevant today (Gong 2012)[^gong-2012].
+    step1: |-
+      > 两种文化基因在两千多年间传承于一代代中国知识分子。其一是孔子的思想，他主张知识分子应当成为忠顺的行政官员。其二是庄周的著述，他说一个和谐的社会来自把家族彼此隔绝，以避免交换与冲突，并回避技术以避免贪欲。合在一起，这些文化鼓励了中国社会中小规模、自给自足的实践，却压制了好奇心、商业化与技术。它们有助于在中国社会中造成一个延续千年的科学真空。而且它们在今天依然切题（Gong 2012）[^gong-2012]。
+    step2: |-
+      > 两种文化基因在中国知识分子中间传承了两千余年。其一是孔子的思想：他主张知识分子应当成为忠顺的行政官员。其二是庄周的著述：他说一个和谐的社会应把家族彼此隔绝，以避免交换与冲突，并回避技术以避免贪欲。合而观之，这些文化鼓励了中国社会中小规模、自给自足的实践，却压制了好奇心、商业化与技术。它们在中国社会中造成了延续千年的科学真空，而且至今依然切题（Gong 2012）[^gong-2012]。
+  - id: 4
+    kind: body
+    source: |-
+      Is this a fair account? Is Chinese philosophy in some sense anti-science? Does it contribute to science in ways that constitute a “Chinese science” that is different from modern science. Or is the history of science in China part of a universal science?
+    step1: |-
+      这个说法公允吗？中国哲学在某种意义上反科学吗？它是否以某些方式贡献于科学，从而构成一种不同于现代科学的“中国科学”？抑或中国的科学史只是普遍科学的一部分？
+    step2: |-
+      这一说法公允吗？中国哲学在某种意义上反科学吗？它是否以某些方式贡献于科学，以致构成一种不同于现代科学的“中国科学”？抑或，中国的科学史不过是普遍科学之一部分？
+  - id: 5
+    kind: body
+    source: |-
+      This essay addresses relations between science and Chinese philosophy in several ways. It begins with a detailed argument by the influential historian of Chinese philosophy Fung Yu-lan almost one hundred years ago, claiming that there is no science in China because there is no need for any. The second section presents an opposing view from the history of science as presented by Joseph Needham and others, introducing a range of sciences that developed in China, with what might be called distinctive Chinese characteristics. The third section addresses the particular problem of Needham's representation of Chinese science as significantly Daoist.
+    step1: |-
+      本文从几个方面探讨中国哲学与科学之间的关系。开篇是近一百年前中国哲学史名家冯友兰的一段详细论证，他主张中国没有科学，因为根本不需要科学。第二节呈现一个相反的观点，即李约瑟等人所呈现的科学史，介绍一系列在中国发展起来、可称为具有独特中国特征的诸科学。第三节处理李约瑟把中国科学描述为本质上属道家的这一特殊问题。
+    step2: |-
+      本文从几个方面考察科学与哲学在中国的关系。开篇是近一百年前中国哲学史名家冯友兰（Fung Yu-lan，馮友蘭）的一段详细论证：中国没有科学，因为根本不需要科学。第二节呈现相反的观点，即李约瑟（Joseph Needham）等人所呈现的科学史——介绍一系列在中国发展起来、不妨称为具有独特中国特征的诸科学。第三节则处理一个特殊问题：李约瑟把中国科学描述为本质上属道家的。
+  - id: 6
+    kind: body
+    source: |-
+      The next two sections attempt to historicize and reconcile these two histories, one philosophical and one scientific, by turning to the intellectual and social contexts for the development of science in China. The fourth section focuses on concepts shared by the practitioners and texts of early philosophy and science. The fifth section turns to an intellectual divergence between generalist and technical specialist knowledge through the categorization of texts in a chapter of the dynastic history of the Han dynasty (*Han shu*). The sixth section takes up the social context of the practitioners of the early sciences and their relations to philosophical texts and traditions. The last section surveys the early sciences, with specific interest in areas of close relationship between the sciences and Chinese philosophy, especially in the areas of cosmology, astronomy, mathematics and medicine.
+    step1: |-
+      接下来两节试图把这两部历史——一部哲学史、一部科学史——加以历史化并予以调和，其途径是转向科学在中国发展的思想与社会语境。第四节聚焦早期哲学与科学的实践者及文本所共享的概念。第五节借助汉代正史（《汉书》）中一章对文本的分类，转向通才知识与技术专家知识之间的思想分化。第六节讨论早期科学实践者的社会语境及其与哲学文本和传统的关系。最后一节概览早期诸科学，特别关注科学与哲学关系密切的领域，尤其是宇宙论、天文学、数学与医学。
+    step2: |-
+      其后两节试图把这两部历史——一部哲学史、一部科学史——加以历史化并予以调和，途径是转向科学在中国发展所处的思想语境与社会语境。第四节聚焦早期哲学与科学的实践者及其文本所共享的概念。第五节借汉代正史《汉书》中一章对典籍的分类，考察通才知识与技术专家知识之间的思想分化。第六节讨论早期科学实践者的社会处境，及其与哲学文本、哲学传统的关系。最后一节概览早期诸科学，尤重科学与哲学关系密切的领域，特别是宇宙论、天文学、数学与医学。
+  - id: 7
+    kind: body
+    source: |-
+      ## 1. Fung Yu-lan's “Why China Has No Science”
+    step1: |-
+      ## 1. 冯友兰的《中国为何没有科学》
+    step2: |-
+      ## 1. 冯友兰《中国为何没有科学》
+  - id: 8
+    kind: body
+    source: |-
+      In a paper titled “Why China Has No Science,” published in 1922, Fung Yu-lan [Feng Youlan] 馮友蘭 (1895–1990), then a student of John Dewey, argued that: “what keeps China back is that she has no science,” but that: “China has no science, because according to her own standard of value she does not need any.”(1922, 237 and 238). To make this argument, he introduces what he calls two tendencies in Chinese philosophy, which he calls “nature” and “art” or “human,” referring to the products of human artifice. On his account, the Warring States period (475–221 BCE) developed two philosophies, Daoism and Mohism respectively, which followed these two tendencies to extreme, and a third, Confucianism, which he represents as a compromise between them. On Fung's explanation, the Daoists considered nature perfect while the Mohists sought to improve on it (1922, 238–39). They valued utility above all else, and Fung considers them “scientific” in spirit, including their interest in logic and definition. Mohism, as he puts it, stood for art as over against nature (1922, 244–50). He does not explain how his “Confucianism” is a compromise between these two extremes, all the more so since he distinguishes the “nature” oriented Confucianism of Mencius (372–289 BCE) from the “art”-oriented Confucianism of Xunzi (313-238 BCE), who aspired to conquer nature instead of returning to it: “It is better to treat nature as a thing and regulate it than to consider it very great and always think of it. It is better to control nature and use it than to follow and admire it.” This, Fung remarks, is nearly the same as the Baconian conception of power (1922, 256, quoting from an unspecified passage in the “Discourse on Heaven” (*Tian lun*) chapter of the *Xunzi*. For a study of this chapter see Machle 1993).
+    step1: |-
+      在 1922 年发表的一篇题为《中国为何没有科学》的论文中，当时还是杜威学生的冯友兰 馮友蘭（1895–1990）论证说：“使中国落后的，是她没有科学”，但同时又说：“中国没有科学，因为按她自己的价值标准，她并不需要科学。”（1922, 237 and 238）为作出这一论证，他引入了所谓中国哲学中的两种倾向，他称之为“自然”与“人为”（或“人”），后者指人类技艺的产物。按他的说法，战国时期（公元前 475–前 221 年）分别发展出两种哲学，即道家与墨家，它们把这两种倾向各推到极端；还有第三种儒家，他把它表现为二者之间的折中。按冯友兰的解释，道家认为自然是完美的，而墨家则力求改进自然（1922, 238–39）。墨家把效用置于一切之上，冯友兰认为他们在精神上是“科学的”，包括他们对逻辑与定义的兴趣。如他所说，墨家代表人为，与自然相对（1922, 244–50）。他并未解释他的“儒家”如何是这两个极端之间的折中，尤其是因为他还把孟子（公元前 372–前 289 年）那种以“自然”为取向的儒家，与荀子（公元前 313–前 238 年）那种以“人为”为取向的儒家区分开来——后者渴望征服自然而非返回自然：“与其尊自然而常思之，不如以自然为物而治之。与其从之而美之，不如制之而用之。”冯友兰评论说，这与培根式的力量观念几乎相同（1922, 256，引自《荀子·天论》篇中未指明的一段；关于该篇的研究见 Machle 1993）。
+    step2: |-
+      在 1922 年发表的《中国为何没有科学》一文中，当时尚为杜威（John Dewey）弟子的冯友兰（馮友蘭，1895–1990）论证：“使中国落后的是她没有科学”，但紧接着又说：“中国没有科学，是因为按她自己的价值标准，她并不需要科学。”（1922, 237 and 238）为证成此说，他提出中国哲学中有两种倾向，分别称为“自然”与“人为”（或“人”），后者指人类技艺的产物。据其所述，战国时期（前 475–前 221 年）发展出分属这两种倾向且各趋极端的道家与墨家，以及被他视为二者折中的儒家。按冯友兰的解释，道家以为自然完满，墨家则力求改进自然（1922, 238–39）。墨家把效用置于一切之上，冯友兰因而认为他们在精神上是“科学的”，包括其对逻辑与定义的兴趣。用他的话说，墨家代表人为而与自然相对（1922, 244–50）。他并未说明其所谓“儒家”何以是两个极端的折中——尤其因为他自己还把孟子（前 372–前 289 年）那种以“自然”为取向的儒家，与荀子（前 313–前 238 年）那种以“人为”为取向的儒家区别开来：后者渴望征服自然而非返回自然——“与其尊自然而常思之，不如以自然为物而治之；与其从之而美之，不如制之而用之”。冯友兰评论说，这与培根式的力量观念几乎无异（1922, 256，引自《荀子·天论》篇中未指明的一段；关于该篇的研究见 Machle 1993）。
+  - id: 9
+    kind: body
+    source: |-
+      Fung goes on to argue that, after the Qin dynasty (221–206 BCE) the “art” or scientific tendency within Chinese philosophy all but disappeared. Buddhism, like Daoism, was an extreme “nature” philosophy, and the interactions of Daoism, Buddhism and Confucianism did not produce interest in the understanding of the natural world. In the tenth century CE the Song Neo-Confucians combined Daoist, Confucian and Buddhist teachings into a new philosophy that has persisted to the present. According to the “Great Learning” (*Da xue*), the ancients who wished to enlighten their bright virtue “investigated things”:
+    step1: |-
+      冯友兰接着论证说，秦代（公元前 221–前 206 年）之后，中国哲学中的“人为”或科学倾向几乎消失。佛教与道家一样，是一种极端的“自然”哲学，而道家、佛教与儒家的互动并未产生对理解自然世界的兴趣。公元十世纪，宋代新儒家把道家、儒家与佛教的教诲合成一种延续至今的新哲学。按照《大学》，古代那些想要彰明自己光明德性的人要“格物”：
+    step2: |-
+      冯友兰进而论证：秦代（前 221–前 206 年）之后，中国哲学中“人为”的、亦即科学的倾向几乎消失殆尽。佛教与道家同属极端的“自然”哲学，而道家、佛教与儒家的互动并未催生理解自然世界的兴趣。公元十世纪，宋代新儒家把道家、儒家与佛教的教说合成一种延续至今的新哲学。按《大学》所说，古之欲明明德者要“格物”：
+  - id: 10
+    kind: body
+    source: |-
+      > Wishing to be sincere in their thoughts, they first extended to the utmost their knowledge. Such extension of knowledge lay in the investigation of things (*zhi zhi zai ge wu* 致知在格物). Things being investigated, knowledge became complete (*Da xue*, 412).
+    step1: |-
+      > 欲诚其意者，先致其知。致知在格物（*zhi zhi zai ge wu* 致知在格物）。物格而后知至（《大学》, 412）。
+    step2: |-
+      > 欲诚其意者，先致其知；致知在格物（*zhi zhi zai ge wu*）。物格而后知至（《大学》, 412）。
+  - id: 11
+    kind: body
+    source: |-
+      But Neo-Confucian philosophers disagreed about what “things” to investigate. Some took “things” as external, but did not pursue the investigation of the empirical world. The other, prevailing view took “things” to refer to the mind. Fung points out that the Song dynasty (960–1279) corresponded to the period of the development of modern science in Europe, but Europeans developed techniques for understanding and controlling matter, while the Chinese Neo-Confucians developed techniques for understanding and controlling mind (1922, 256–58).
+    step1: |-
+      但新儒家哲学家们对于该“格”什么“物”意见不一。有些人把“物”理解为外在之物，却并不去探求经验世界。另一种占主导的观点则把“物”理解为心。冯友兰指出，宋代（960–1279）相当于欧洲现代科学发展的时期，但欧洲人发展出理解和控制物质的技术，而中国新儒家则发展出理解和控制心的技术（1922, 256–58）。
+    step2: |-
+      然而新儒家哲学家对该“格”何“物”意见不一。有人把“物”解为外物，却并不去探究经验世界；另一种占上风的观点则把“物”解为心。冯友兰指出：宋代（960–1279）恰与欧洲现代科学的发展同期，但欧洲人发展出理解与控制物质的技术，中国新儒家发展出的却是理解与控制心（*xin*）的技术（1922, 256–58）。
+  - id: 12
+    kind: body
+    source: |-
+      The point of this discussion of Fung's study is his argument that, ever since the disappearance of the “nature” tendency, Chinese philosophy has devoted itself to the cultivation of the mind (*xin* 心), at the expense of any interest in, or need for, science, or any inquiry into nature. (Because the meaning of *xin* – “mind,” or more properly “heart-mind” – is much broader than the English term mind, cultivating it refers to a much broader kind of cognitive, intellectual, physical and spiritual cultivation than the phrase “cultivation of the mind” suggests.) By contrast, he argues, the ancestors of modern European philosophy had two “uses” for science: according to Descartes, it provided certainty; according to Bacon, it offered power. But, Fung argues, China did not discover the scientific method because Chinese thought started from the mind, and did not require proof or logical or empirical demonstration. Instead, Chinese philosophers preferred the certainty of perception, and thus: “would not, and did not translate their concrete vision into the form of science. In one word China has no science, because of all philosophies the Chinese philosophy is the most human and the most practical” (1922, 260). Fung concludes: “it is because of the fact that the Chinese ideal prefers enjoyment to power that China has no need of science, even though science, according to Bacon, is for power. The Chinese philosophers, as I said just now, had no need of scientific certainty, because it was themselves that they wished to know; so in the same way they had no need of the power of science, because it was themselves that they wished to conquer” (1922, 261).
+    step1: |-
+      讨论冯友兰这项研究的要点，在于他的论证：自“自然”倾向消失以来，中国哲学一直致力于心的培养（*xin* 心），牺牲了对科学的任何兴趣或需要，也牺牲了对自然的任何探究。（因为 *xin* 意为“心”，或更确切地说“心—脑”，其含义远比英文 mind 宽泛，培养它所指的是一种远比“心的培养”一语所提示的更为宽泛的认知、理智、身体与精神修养。）相比之下，他论证说，现代欧洲哲学的先祖对科学有两种“用途”：按笛卡尔之说，科学提供确定性；按培根之说，科学提供力量。但冯友兰论证说，中国没有发现科学方法，因为中国思想从心出发，并不需要证明或逻辑的、经验的论证。相反，中国哲学家偏好知觉的确定性，因此：“他们不愿、也没有把其具体洞见转化为科学的形式。一言以蔽之，中国没有科学，因为在所有哲学中，中国哲学是最富人性、最重实用的”（1922, 260）。冯友兰总结说：“正是因为中国的理想重享受而轻力量，中国才不需要科学，尽管按培根之说科学是为力量的。如我刚才所说，中国哲学家不需要科学的确定性，因为他们想要认识的是他们自己；同样，他们也不需要科学的力量，因为他们想要征服的是他们自己”（1922, 261）。
+    step2: |-
+      讨论冯友兰此项研究的要点，在于其核心论证：自“自然”倾向消失以降，中国哲学便专注于养心（*xin* 心），牺牲了对科学的任何兴趣与需要，也牺牲了对自然的任何探究。（*xin* 意为“心”，更确切地说是“心—脑”，其义远比英文 mind 宽泛；故“养心”所指的修养，在认知、理智、身体与精神上都远比该词表面所示更广。）相形之下，他论证说，现代欧洲哲学的先驱为科学设定了两种“用途”：据笛卡尔（Descartes），科学提供确定性；据培根（Bacon），科学提供力量。但冯友兰认为，中国之所以未发现科学方法，是因为中国思想自心出发，无需证明，也无需逻辑的或经验的论证。中国哲学家宁可取知觉的确定性，于是：“他们不愿、也未曾把其具体洞见转化为科学的形式。一言以蔽之，中国没有科学，因为在一切哲学中，中国哲学最富人性、最重实用”（1922, 260）。其结论是：“正因为中国的理想重享受而轻力量，中国才无需科学——尽管按培根之说，科学是为力量而设的。如我方才所言，中国哲学家无需科学的确定性，因为他们所要认识的是他们自己；同样，他们也无需科学的力量，因为他们所要征服的也是他们自己”（1922, 261）。
+  - id: 13
+    kind: body
+    source: |-
+      In summary, although Fung Yu-lan's account of Warring States philosophy is open to question, he gives a compelling version of a type of claim for philosophical reasons why science did not develop in China. I now turn to the opposite argument that science did develop – and flourish – in both early China and the Song “Neo-Confucian” period.
+    step1: |-
+      总之，尽管冯友兰对战国哲学的叙述尚有可议之处，他还是令人信服地给出了这样一类主张的一个版本：基于哲学理由说明科学为何没有在中国发展。现在转向相反的论证：科学确实发展起来——并且繁荣起来——既在早期中国，也在宋代的“新儒家”时期。
+    step2: |-
+      总之，冯友兰对战国哲学的叙述固然可议，他却令人信服地给出了这样一类主张的一个版本：以哲学理由说明科学何以未在中国发展。下面转向相反的论证：科学确曾发展——并且繁荣——既在早期中国，也在宋代的“新儒家”时期。
+  - id: 14
+    kind: body
+    source: |-
+      ## 2. Joseph Needham's History of Science in China
+    step1: |-
+      ## 2. 李约瑟的中国科学史
+    step2: |-
+      ## 2. 李约瑟的中国科学史
+  - id: 15
+    kind: body
+    source: |-
+      The question of the relation of Chinese philosophy and science is complicated by several factors. One is the need to define what we mean by science in the context of early China and early Chinese philosophy. This question includes the relationship of “science” to “technology,” as well as the question of what disciplines were considered sciences, and where they stood in indigenous hierarchies of knowledge.
+    step1: |-
+      中国哲学与科学之关系的问题，因若干因素而复杂。其一是需要界定在早期中国与早期中国哲学的语境中我们所说的科学是什么意思。这个问题包括“科学”与“技术”的关系，也包括哪些学科被视为科学、它们在本土的知识等级中居于何位。
+    step2: |-
+      中国哲学与科学之关系的议题，因若干因素而趋于复杂。其一，须界定在早期中国与早期中国哲学的语境中“科学”究何所指。此问牵涉“科学”与“技术”的关系，也牵涉哪些学科被视作科学、它们在本土知识等级中居何位置。
+  - id: 16
+    kind: body
+    source: |-
+      These questions partake of an ongoing debate on the nature of Chinese science, which initially arose from the pioneering work of Joseph Needham. This debate focuses on the problematic question of why (or whether) the revolution that transformed scientific disciplines in Europe did not take place in China. It has tended to focus on the mathematization of science and on the activities of court astronomical officials (Needham 1956b, 1979)[^needham-1956b]. But these debates do little to clarify the relations between the origins and development of the sciences in China and Chinese philosophy.
+    step1: |-
+      这些问题关涉一场关于中国科学之性质的持续辩论，这场辩论最初源于李约瑟的开创性工作。辩论聚焦于那个成问题的问题：使欧洲诸科学学科发生转变的那场革命为何（或是否）没有在中国发生。它倾向于聚焦科学的数学化以及宫廷天文官员的活动（Needham 1956b, 1979）[^needham-1956b]。但这些辩论对澄清中国诸科学的起源与发展同中国哲学之间的关系，作用甚微。
+    step2: |-
+      这些问题牵涉一场关于中国科学之性质的持续争论，其源头是李约瑟的开创性工作。争论聚焦于一个成问题的追问：使欧洲诸科学学科发生变革的那场革命，为何（或究竟是否）未曾在中国发生。讨论往往集中于科学的数学化以及宫廷天文官员的活动（Needham 1956b, 1979）[^needham-1956b]。然而，这些争论对于澄清中国诸科学的起源与发展同中国哲学的关系，帮助甚微。
+  - id: 17
+    kind: body
+    source: |-
+      This debate about the nature of Chinese science, which has been referred to as the “Needham problem,” has focused on variants on the important question of why (or whether) the scientific revolution that transformed scientific disciplines in Europe did not take place in China. In Needham's terms, the answers lie in the history of Chinese science itself, but Fung Yu-lan's argument provides an answer of a very different kind, which Needham would probably not entertain at all. (Although Needham's (1956b) own account of the history of Chinese philosophy and science repeatedly cites the scholarship of Fung Yu-lan, especially Fung 1983, he makes no mention of Fung 1922.)
+    step1: |-
+      这场关于中国科学之性质的辩论被称为“李约瑟问题”，它聚焦于那个重要问题的各种变体：使欧洲科学学科发生转变的科学革命为何（或是否）没有在中国发生。用李约瑟的话说，答案存在于中国科学史本身之中，但冯友兰的论证提供了一个性质全然不同的答案，李约瑟大概根本不会予以考虑。（尽管李约瑟（1956b）本人关于中国哲学与科学史的叙述屡屡引用冯友兰的学术成果，尤其是 Fung 1983，他却只字未提 Fung 1922。）
+    step2: |-
+      这场关于中国科学之性质的争论被称为“李约瑟问题”，其焦点是那个重要问题的种种变体：使欧洲科学学科发生变革的科学革命，为何（或究竟是否）未曾在中国发生。按李约瑟的说法，答案就在中国科学史本身之中；而冯友兰给出的答案性质全然不同，李约瑟大概根本不会予以考虑。（李约瑟本人（1956b）关于中国哲学与科学史的叙述屡屡称引冯友兰的著作，尤其是 Fung 1983，却对 Fung 1922 只字未提。）
+  - id: 18
+    kind: body
+    source: |-
+      Needham, himself an eminent embryologist (Needham 1931, 1934)[^needham-1931] was the primary author of the multi-volume ongoing *Science and Civilisation in China* (1954- ). His approach to the problem of the history of science in China was to try to fit the Chinese scientific tradition into the categories of twentieth-century western science. On the one hand, this approach enabled Needham and his collaborators to engage the wealth and variety of the many Chinese sciences from a perspective that took them seriously as contributors to an ongoing and universal history of science. This approach also allowed Needham's group to consistently and coherently refute “orientalist” claims or prima facie assumptions that science was the sole property of a European tradition extending backward in time to ancient Greece, with little or no influence from any other cultural tradition. On the other hand, Needham's “universalist” approach to the history of science in China has been rejected as anachronistic and culturally inappropriate (Yates 2003, 658)[^yates-2003].
+    step1: |-
+      李约瑟本人是杰出的胚胎学家（Needham 1931, 1934）[^needham-1931]，是持续出版的多卷本《中国科学技术史》（1954– ）的主要作者。他处理中国科学史问题的方法是，试图把中国科学传统纳入二十世纪西方科学的范畴。一方面，这一方法使李约瑟及其合作者得以从一种认真对待中国诸科学、视其为持续而普遍的科学史之贡献者的视角，去接触众多中国科学的丰富与多样。这一方法也使李约瑟的团队能够一贯而融贯地驳斥“东方主义”的论调，或驳斥那种表面假定：科学是欧洲传统的独占财产，该传统上溯古希腊，而其影响几乎不来自任何其他文化传统。另一方面，李约瑟处理中国科学史的“普遍主义”方法被斥为时代错置、在文化上不得体（Yates 2003, 658）[^yates-2003]。
+    step2: |-
+      李约瑟本人是杰出的胚胎学家（Needham 1931, 1934）[^needham-1931]，也是持续出版的多卷本《中国科学技术史》（*Science and Civilisation in China*，1954– ）的主要作者。他处理中国科学史的路数，是设法把中国科学传统纳入二十世纪西方科学的范畴。一方面，这一路数使李约瑟及其合作者得以从一个认真看待中国诸科学、视之为持续展开的普遍科学史之贡献者的视角，去把握众多中国科学的丰富与多样；也使他们能够一贯而融贯地驳斥“东方主义”论调，以及那种想当然的假定——科学是欧洲传统的独占财产，该传统上溯古希腊，几乎不受任何其他文化传统影响。另一方面，李约瑟这种“普遍主义”的中国科学史路数，也被斥为时代错置、在文化上失当（Yates 2003, 658）[^yates-2003]。
+  - id: 19
+    kind: body
+    source: |-
+      As Nathan Sivin (1990 and 1995) has argued, Chinese accounts focused on specific sciences, rather than on one unified notion of science. These Chinese sciences were both quantitative and qualitative. Sivin (1982 and 1990) breaks down the quantitative sciences into three disciplines: mathematics (*suan* 算), mathematical harmonics or acoustics (*lü* 律 or l*ü lü* 律呂) and mathematical astronomy (*li* 歷 or *li fa* 歷法), considered related to harmonics. Sivin describes the qualitative sciences as: astronomy or astrology (*tian wen* 天文), medicine (*yi* 醫) and siting (*feng shui* 風水). *Tian wen* included the observation of celestial and meteorological events whose proper reading could be used to rectify the political order. Medicine included “Nurturing Life” (*yang sheng* 養生), a broad category that included a wide range of self-cultivation techniques with important philosophical implications. In later periods, medicine also included materia medica (*ben cao* 本草) and internal (*nei dan* 內丹) and external (*wai dan* 外丹) alchemy.
+    step1: |-
+      正如席文（Sivin）（1990 与 1995）所论证的，中国的叙述聚焦于具体的诸科学，而不是一个统一的科学概念。这些中国科学既有定量的，也有定性的。席文（1982 与 1990）把定量科学分为三个学科：数学（*suan* 算）、数学和声学或声学（*lü* 律或 *lü lü* 律呂），以及与和声学相关的数学天文学（*li* 歷或 *li fa* 歷法）。席文把定性科学描述为：天文学或占星术（*tian wen* 天文）、医学（*yi* 醫）与相地术（*feng shui* 風水）。*Tian wen* 包括对天象与气象事件的观测，其正确解读可用于矫正政治秩序。医学包括“养生”（*yang sheng* 養生），这是一个宽泛范畴，涵盖多种具有重要哲学意涵的自我修养技术。在后来的时期，医学还包括本草学（*ben cao* 本草）以及内丹（*nei dan* 內丹）与外丹（*wai dan* 外丹）炼金术。
+    step2: |-
+      一如席文（Nathan Sivin，1990 与 1995）所论，中国的记述聚焦于具体诸科学，而非某个统一的科学概念。这些中国科学兼有定量与定性两类。席文（1982 与 1990）把定量科学分为三科：算学（*suan* 算）、数理律学或声学（*lü* 律，或 *lü lü* 律呂），以及与律学相关的数理天文学（*li* 歷，或 *li fa* 歷法）。定性科学，席文列举为：天文（*tian wen* 天文）、医学（*yi* 醫）与风水（*feng shui* 風水）。天文包括观测天体与气象事件——对其作出正确解读，可用于匡正政治秩序。医学包括“养生”（*yang sheng* 養生），这一宽泛范畴涵盖多种自我修养技术，且有重要的哲学意涵。其后各代，医学又包括本草（*ben cao* 本草），以及内丹（*nei dan* 內丹）与外丹（*wai dan* 外丹）炼金术。
+  - id: 20
+    kind: body
+    source: |-
+      ## 3. Chinese Science as “Daoist”?
+    step1: |-
+      ## 3. 中国科学是“道家的”吗？
+    step2: |-
+      ## 3. 中国科学是“道家的”吗？
+  - id: 21
+    kind: body
+    source: |-
+      The “Needham” problem overlaps, but is distinct from two other issues. One is the Chinese philosophical attitudes towards “nature.” Geoffrey Lloyd and Nathan Sivin (2002) note that “nature” was not a conceptual category in early China. Derk Bodde (1991) distinguished at least seven premodern Chinese attitudes toward what contemporary philosophy and science call nature, ranging from antagonistic and indifferent to wholly receptive. Nonetheless, Bodde – for slightly different reasons than Fung – argued that a wide range of obstacles hindered the development of science in China. These included: a written language ill adapted to the expression of scientific ideas, attitudes toward space and time that were out of step with the facts of nature (1991, 133), and the combined influence of an authoritarian imperial government, a conservative academic elite and a philosophical tradition preoccupied with morals and burdened by “organicist” thinking. Robin Yates (2003) has also noted the importance of the lack of an ex nihilo creator deity and the “non-privileged” status of humans in the cosmos of early Chinese philosophy. Humans were not distinct from other natural phenomena, and were part of a *dao* that was ultimately mysterious and incomprehensible.
+    step1: |-
+      “李约瑟问题”与另外两个议题交叠，但不同于二者。其一是中国哲学对“自然”的态度。劳埃德与席文（Lloyd and Sivin, 2002）指出，“自然”在早期中国并不是一个概念范畴。卜德（Bodde, 1991）区分出至少七种前现代中国人对当代哲学与科学所谓自然的态度，范围从敌对、漠然到完全接受。尽管如此，卜德——其理由与冯友兰略有不同——仍然论证说，各种障碍阻碍了科学在中国的发展。这些障碍包括：一种不善于表达科学思想的书面语言，与自然界事实不合拍的空间与时间观念（1991, 133），以及专制的帝国政府、保守的学术精英与一个专注于道德并背负“有机论”思想的哲学传统这三者的合力。罗宾·叶山（Yates, 2003）还指出：缺乏一个无中生有的创世神，以及人在早期中国哲学宇宙中“不占特权”的地位，同样重要。人不同于其他自然现象，人是终究幽深难测的道的一部分。
+    step2: |-
+      “李约瑟问题”与另外两个议题交叠，却不同于二者。其一是中国哲学对“自然”的态度。劳埃德（Geoffrey Lloyd）与席文（2002）指出，“自然”在早期中国并非一个概念范畴。卜德（Derk Bodde, 1991）区分出至少七种前现代中国人对当代哲学与科学所谓“自然”的态度，从敌对、漠然一直到全然接受。尽管如此，卜德——理由与冯友兰小异——仍论证说，诸多障碍阻碍了科学在中国的发展，包括：一种不宜表达科学思想的书面语言，与自然界事实不相合拍的空间与时间观念（1991, 133），以及专制帝国政府、保守学术精英与一个专务道德、背负“有机论”思维的哲学传统这三者的合力。叶山（Robin Yates, 2003）还指出另一节：早期中国哲学的宇宙里既无无中生有的创世神，人又“不占特权地位”。人并不异于其他自然现象，而是终究幽深难测的道之一部分。
+  - id: 22
+    kind: body
+    source: |-
+      The other is the topic of this essay: the problem of the specific engagement between science and early Chinese philosophy, and whether Chinese philosophy was in some way inimical to scientific inquiry. To answer the latter questions it is necessary to consider both the intellectual and social contexts of Chinese philosophy and Chinese science. Which sciences are relevant to Chinese philosophy? Using Sivin's categorization, the quantitative sciences are largely separate from the engagement between science and early Chinese philosophy. The greatest degree of engagement between philosophy and science comes from the qualitative sciences of astronomy (or astrology) and medicine.
+    step1: |-
+      其二是本文的主题：科学与早期中国哲学之间具体接触的问题，以及中国哲学是否在某方面与科学探究为敌。要回答后一类问题，必须同时考虑中国哲学与中国科学的思想和双重社会语境。哪些科学与中国哲学相关？用席文的分类来说，定量科学大体外在于科学与早期中国哲学之间的接触。哲学与科学之间接触最多的，是天文（或占星）与医学这两种定性科学。
+    step2: |-
+      其二是本文的主题：科学与早期中国哲学之间的具体接触，以及中国哲学是否在某方面与科学探究为敌。要回答后一类问题，须同时考察中国哲学与中国科学的思想语境和社会语境。哪些科学与中国哲学相关？按席文的分类，定量科学大体外在于科学与早期中国哲学的接触。哲学与科学接触最多的，是天文（或占星）与医学这两种定性科学。
+  - id: 23
+    kind: body
+    source: |-
+      How do we reconcile these two entirely different accounts, one by a Chinese philosopher and the other by several eminent historians of science in China? Part of the answer lies in clarifying several shared intellectual contexts for the origins of science in China, as well as several intellectual and social contexts that fostered their complete divergence, probably by the end of the Han dynasty (206 BCE-220 CE).
+    step1: |-
+      我们如何调和这两个全然不同的叙述，一个出自一位中国哲学家，另几个出自几位中国科学史的杰出史家？部分答案在于澄清科学在中国起源的若干共享思想语境，以及若干促使其彻底分化的思想与社会语境——大概到汉代（公元前 206 年–公元 220 年）已然如此。
+    step2: |-
+      这两位全然不同的叙述——一位出自中国哲学家之手，另几位出自中国科学史名家之手——如何调和？部分答案在于澄清：科学在中国起源时有哪些共享的思想语境，又有哪些思想与社会语境促使其彻底分化，而后者大概到汉代（前 206–公元 220 年）已然定型。
+  - id: 24
+    kind: body
+    source: |-
+      Chinese philosophy is often identified with “Confucianism,” understood to include both the teachings of the historical Confucius, his immediate intellectual descendants in the Warring States and Han periods, and later developments known as Neo-Confucianism in the Song, Ming and Qing dynasties and the present day. One source of this view is the explicit adoption of Confucian ideologies by the rulers of most but not all dynasties. Another is the intellectual sympathies of many generations of Chinese commentators, and also of particularly Anglophone Sinologists who have tended to focus on Confucian philosophies. Confucian philosophers – as distinct from rulers of a broadly Confucian persuasion – were often portrayed as humanists in the sense that they were more interested in problems of ethics and society than in the investigation of the natural world. This is very much the picture presented by Bodde in his negative assessment of the potential for science in premodern China.
+    step1: |-
+      中国哲学常被等同于“儒学”，此说兼指历史上的孔子本人的教诲、其在战国与汉代的直接思想后裔、以及后世被称为宋明清以至于今日新儒家的发展。这一观点的一个来源，是大多数（虽非全部）王朝统治者对儒家意识形态的明确采用。另一个来源，则是许多代中国注疏者——以及特别专注儒家哲学的英语世界汉学家——的知识取向。儒家哲学家——不同于持宽泛儒家立场的统治者——常被描绘为人文主义者，意为他们更关心伦理与社会问题，而非对自然世界的探究。这正是卜德在前现代中国科学潜力问题上作出否定评估时所呈现的图景。
+    step2: |-
+      中国哲学常被等同于“儒学”，兼指历史孔子本人的教诲、其在战国与汉代的直接思想后嗣，以及宋、明、清以至今日所谓新儒家的后世发展。此见的一个来源，是大多数（虽非全部）王朝统治者对儒家意识形态的明文采用；另一个来源，则是历代中国注疏者——以及格外专注儒家哲学的英语世界汉学家——的思想取向。儒家哲学家——区别于持宽泛儒家立场的统治者——常被描绘为人文主义者，意谓他们更关心伦理与社会问题，而非探究自然世界。卜德就前现代中国的科学潜力作出否定评估时，呈现的正是这一图景。
+  - id: 25
+    kind: body
+    source: |-
+      But a perception that the history of engagement between philosophy and science is limited to “Confucianism,” would present only a partial picture. It is widely recognized that the earliest of what we would call scientific studies were conducted by the early Mohists, who wrote treatises on logic, optics and mechanics (Graham 1978, Needham 1956b, Fung 1922)[^fung-1922][^graham-1978][^needham-1956b]. Mohism did not persist beyond the Han dynasty as a textual lineage, but at least some Mohist texts are preserved in the *Daoist Canon* (discussed below). As such, while Mohism is fundamentally important to any history of science in China, it is not central to an account of the engagement between science and Chinese philosophy.
+    step1: |-
+      但认为哲学与科学接触的历史仅限于“儒学”，只会呈现图景的一部分。人们普遍认为，我们所称的最早科学研究由早期墨家完成，他们写下了关于逻辑、光学与力学的论文（Graham 1978, Needham 1956b, Fung 1922）[^fung-1922][^graham-1978][^needham-1956b]。墨家作为一个文本谱系并未延续到汉代以后，但至少有一些墨家文本保存在《道藏》中（见下文讨论）。因此，墨家对任何中国科学史固然根本重要，对科学与中国哲学之接触的描述却并不居中心。
+    step2: |-
+      然而，若认为哲学与科学的接触史仅限于“儒学”，所见只是一半图景。学界普遍认为，我们所称最早的科学研究出自早期墨家——他们写下了关于逻辑、光学与力学的论篇（Graham 1978, Needham 1956b, Fung 1922）[^fung-1922][^graham-1978][^needham-1956b]。墨家作为一个文本谱系未能延续到汉代以后，但至少若干墨家文本保存在《道藏》（*Dao zang* 道藏）之中（说见下文）。所以，墨家对任何中国科学史固然至关重要，对“科学与中国哲学之接触”的叙述却并不居于中心。
+  - id: 26
+    kind: body
+    source: |-
+      Needham – in complete contrast to Fung Yu-lan – represents the Daoists as both naturalistic and interested in natural phenomena. He described Daoism as “religious and poetical, yes; but it was also at least as strongly magical, scientific, democratic, and politically revolutionary” (1956a, 32). On this reading, the history of Daoism also presents a very different picture of science and medicine, especially.
+    step1: |-
+      与李约瑟形成完全对照的是，他把道家同时描绘为自然主义的、对自然现象感兴趣的。他把道家描述为“宗教的与诗意的，诚然如此；但它至少同样强烈地是巫术的、科学的、民主的与政治革命的”（1956a, 32）。按这一解读，道家的历史呈现的也是一幅关于科学与医学——尤其是医学——迥然不同的图景。
+    step2: |-
+      同冯友兰恰成对照的是，李约瑟把道家同时刻画为自然主义的、对自然现象有兴趣的。他形容道家“宗教的与诗意的，诚然如此；但它至少同样强烈地是巫术的、科学的、民主的、政治革命的”（1956a, 32）。依此解读，道家史所呈现的，也是一幅关于科学与医学（尤其是医学）的迥异图景。
+  - id: 27
+    kind: body
+    source: |-
+      But there are several problems with this picture. An initial problem is anachronistic understandings of the nature of early Daoism. These include an oversimplified emphasis on the schools and legendary authors of Daoist texts. There is also a problematic distinction between the so-called “philosophical” Daoism (*Dao jia* 道家) of the *Daode jing*, *Zhuangzi*, and *Huainanzi* and the so-called “religious” Daoism (*Dao jiao* 道教) of longevity practices, popular religion, and organized Daoist churches. As Sivin (1978, 1995b) pointed out in a series of article begun over thirty years ago, simplistic stereotypes of Daoism as mystical or naturalistic obscure understanding of the relations between Daoism and science.
+    step1: |-
+      但这一图景有几个问题。最初的问题是时代错置地理解早期道家的性质。其中包括对学校与道家文本传说作者的过度简化强调。还有所谓“哲学的”道家——《道德经》《庄子》与《淮南子》的 *Dao jia* 道家——同所谓“宗教的”道教——长生实践、民间宗教与有组织的道教教会的 *Dao jiao* 道教——之间的成问题区分。正如席文（1978, 1995b）在一个始于三十年多前的系列文章中所指出的，把道家简化为神秘主义或自然主义的刻板印象，遮蔽了对道家与科学之关系的理解。
+    step2: |-
+      但这幅图景问题不少。头一桩便是时代错置地理解早期道家的性质，其中包括对学校与道家文本传奇作者的过度简化，还有把所谓“哲学的”道家（*Dao jia* 道家，即《道德经》《庄子》《淮南子》）与所谓“宗教的”道教（*Dao jiao* 道教，即长生实践、民间宗教与有组织的道教教团）割裂开来的那种可疑区分。席文早在三十多年前始成的一系列文章中便已指出：把道家简化为神秘主义或自然主义的刻板印象，恰恰遮蔽了对道家与科学之关系的理解（1978, 1995b）。
+  - id: 28
+    kind: body
+    source: |-
+      Sivin (1995a) points to important differences between popular religion and specifically Daoist religious movements that had little conection to either philosophy or the study of nature. His point is that most scientific and technical expertise arose from popular sources and not from Daoist schools; and once this key distinction is made, we no longer need to mis-classify all or most Chinese science as Daoist (as did Needham). This move also allows us to clarify that some Daoist masters, whose objective was union with divinity, were not pursuing the study of rational inquiry or systematic experimentation. Rather, they were making use of existing technical knowledge and practices, and adapting them to their own ends, but not generally improving on them in any way. However, the important point is that the Daoist schools kept written records, which the artisans who developed the original expertise, did not. As a result, historians of science have tended to credit the Daoists with innovations that they probably recorded, rather than developed.
+    step1: |-
+      席文（1995a）指出民间宗教与具体道教的宗教运动之间存在重要差异，后者与哲学或自然研究几无关联。他的要点是：大多数科学与技术专长出自民间资源而非道家学派；一旦作出这一关键区分，我们便不再需要像李约瑟那样把全部或大部分中国科学归类为道家的。这一举动也使我们得以澄清：一些道家大师的目标是与神合一，他们并不从事理性探究或系统实验的研究。毋宁说，他们利用既有的技术知识与实践，并将其调整为自己的目的所用，但通常并不以任何方式改进它们。然而要点在于，道家学派保有的文字记录，正是发展出原始专长的工匠所没有的。其结果是，科学史家倾向于把那些道家很可能只是记录而非发展的创新记在道家账上。
+    step2: |-
+      席文（1995a）指出，民间宗教与专门的道教运动之间存在重要差异，而后者与哲学或自然研究几无瓜葛。他的要点是：绝大多数科学与技术专长出自民间源头，而非道家学派；一旦作出这一关键区分，我们便不再需要像李约瑟那样，把全部或大部中国科学归为道家的。此举还使我们可以澄清：一些以与神合一为鹄的道家大师，所务并非理性探究或系统实验，而是利用既有的技术知识与实践，将其改造为己所用——通常并不以任何方式改进它们。关键在于：道家学派保有文字记录，而最初发展出这些专长的工匠却无文字记录。结果，科学史家便倾向于把那些道家很可能只是记录而非发明的创新，一并记在道家名下。
+  - id: 29
+    kind: body
+    source: |-
+      Sivin’s account usefully explains why the fact that many records of scientific innovation appear only in the *Daoist Canon* does not make them inherently Daoist. The *Daoist Canon* (*Dao zang* 道藏) was first printed in about 1477, and was reprinted in a commercial edition in 1924–1926. The original edition consisted of some 5,305 volumes, on a wide range of subjects, including astronomy and cosmology, biology and botany, medicine and pharmacology, chemistry and mineralogy, and mathematics and physics. Much of the engagement with science after the Han dynasty is relegated the “non-philosophical” texts classified as *Dao jiao*, and often in ways that obscure the relation between philosophy and science in early China.
+    step1: |-
+      席文的叙述有益地解释了：许多科学创新的记录只见于《道藏》，这一事实为何并不使它们本质上是道家的。《道藏》（*Dao zang* 道藏）初刊于约 1477 年，1924–1926 年又有商业重印本。原版约 5305 卷，涉及广泛主题，包括天文与宇宙论、生物与植物、医学与药物学、化学与矿物学，以及数学与物理学。汉代以后与科学的接触大多被归入 *Dao jiao* 道教的“非哲学”文本，而且往往以那种遮蔽早期中国与哲学与科学之关系的方式归入。
+    step2: |-
+      席文的叙述有益地解释了：许多科学创新记录仅见于《道藏》，这一事实为何并不使它们本质上便是道家的。《道藏》约于 1477 年首次刊刻，1924–1926 年又有商业重印本；原版约 5305 卷，主题甚广，包括天文与宇宙论、生物与植物、医学与药物学、化学与矿物学，以及数学与物理学。汉代以后与科学相关的接触，大多被划入 *Dao jiao* 道教名下的“非哲学”文本，而且往往以某种方式遮蔽了早期中国哲学与科学之间的关系。
+  - id: 30
+    kind: body
+    source: |-
+      ## 4. Shared Intellectual Contexts
+    step1: |-
+      ## 4. 共享的思想语境
+    step2: |-
+      ## 4. 共享的思想语境
+  - id: 31
+    kind: body
+    source: |-
+      There were important differences between the social and institutional contexts of early philosophy and science, as well as important differences between sciences. The authors of philosophical or “Masters” texts (discussed below) were private individuals who often sought, but rarely achieved political influence. By contrast, astronomy and calendrics in particular were closely linked to government and court patronage, and from Han times on, located in the Bureau of Astronomy (Loewe 1994, Pankenier 2013, Raphals 2013, Sivin 2009)[^loewe-1994][^pankenier-2013][^raphals-2013][^sivin-2009].
+    step1: |-
+      早期哲学与科学在社会与制度语境上有重要差异，诸科学之间也有重要差异。哲学或“诸子”文本（见下文讨论）的作者是一些私人个体，他们常常谋求、却很少获得政治影响力。相比之下，天文学与历法则尤其密切地联系于政府与宫廷庇护，并且从汉代起便设于天文机构（Loewe 1994, Pankenier 2013, Raphals 2013, Sivin 2009）[^loewe-1994][^pankenier-2013][^raphals-2013][^sivin-2009]。
+    step2: |-
+      早期哲学与科学的社会、制度语境颇有差异，诸科学彼此也不相同。哲学或“诸子”文本（说见下文）的作者是一些私家著述者，常常谋求而很少得到政治影响。相形之下，天文学与历法尤为紧密地系于政府与宫廷庇护：自汉代起，它们便隶属于天文官署（Loewe 1994, Pankenier 2013, Raphals 2013, Sivin 2009）[^loewe-1994][^pankenier-2013][^raphals-2013][^sivin-2009]。
+  - id: 32
+    kind: body
+    source: |-
+      The origins of science in China seem to lie in an amalgam of ideas from both Masters textualists (philosophers) and technical specialists. According to Sivin (1988 and 1990) the basic Chinese sciences were established some time between the first century BCE and the first century CE through what he describes as a combination of Ru (“Confucian”) ideas and ideas from technical specialists, especially experts in yin-yang, Five Agents (*wu xing*) and technical expertise traditions associated with “Numbers and Techniques” (*shu shu*) and “Recipes and Methods” (*fang ji,* both discussed below.)
+    step1: |-
+      科学在中国的起源，似乎在于诸子文本家（哲学家）与技术专家两种观念的合成。按席文（1988 与 1990）的说法，基本中国科学在公元前第一世纪与公元第一世纪之间的某个时候确立，他所描述的方式是“儒”（“Confucian”）观念同技术专家观念的结合，后者尤其是阴阳、五行（*wu xing*）专家，以及与“数术”（*shu shu*）和“方技”（*fang ji*，下文均另作讨论）相关的技术专长传统。
+    step2: |-
+      科学在中国的起源，似在于“诸子文本家”（哲学家）与技术专家两类观念的合成。按席文（1988 与 1990）之说，基本中国科学在公元前 1 世纪与公元 1 世纪之间的某个时候确立；他把这一过程描述为“儒”（*Ru* 儒家）观念与技术专家观念的结合——后者尤指阴阳与五行（*wu xing* 五行）的专家，以及同“数术”（*shu shu* 數術）和“方技”（*fang ji* 方技）相关的技术专长传统，两者均见下文讨论。
+  - id: 33
+    kind: body
+    source: |-
+      Key to this amalgam were several concepts shared by both groups but deployed in very different ways. Early cosmological thinking depicts a cosmos ultimately composed of *qi* 氣 (the energy that constitutes and organizes matter and causes growth and change) in processes of constant change, based on the interactions of yin and yang 陰陽 and the Five Agents (*wu xing* 五行, Graham 1986, Raphals 1998 and 2013)[^graham-1986][^raphals-1998][^raphals-2013].
+    step1: |-
+      这一合成的关键是若干两组共享但部署方式迥异的概念。早期宇宙论思想描绘一个最终由 *qi* 氣（构成并组织物质并引起生长与变化的能量）构成、处于不断变化过程中的宇宙，其基础是阴阳 陰陽 的互动与五行（*wu xing* 五行, Graham 1986, Raphals 1998 and 2013）[^graham-1986][^raphals-1998][^raphals-2013]。
+    step2: |-
+      这一合成的关键，是两组共享、却以迥异方式使用的几个概念。早期宇宙论把宇宙描绘为最终由气（*qi* 氣）构成——气是构成并组织物质、引起生长与变化的能量——并处于永恒流变的过程之中；其根据是阴阳（*yin-yang* 陰陽）的交互与五行（*wu xing* 五行）（Graham 1986, Raphals 1998 and 2013）[^graham-1986][^raphals-1998][^raphals-2013]。
+  - id: 34
+    kind: body
+    source: |-
+      Philosophers deployed these ideas in (1) the yin-yang cosmology of the *Yi jing*, (2) theories of correlative correspondence between Heaven, Earth and Humanity as a shared representation of cosmic order, and (3) the idea of a “classic” or “canon” as the founding text of a textual lineage. Practitioners of several sciences also deployed these concepts, in particular in models of the human body and of the movements of the sun, moon and stars.
+    step1: |-
+      哲学家把这些观念部署在：（1）《易经》的阴阳宇宙论，（2）天、地、人之间相互感应的理论，作为一种共享的宇宙秩序表象，以及（3）“经”或“经典”作为一个文本谱系之奠基文本的观念。若干科学的实践者也部署这些概念，尤其是在人体模型以及日、月、星辰运行模型中。
+    step2: |-
+      哲学家把这些观念用于三处：（1）《易经》（*Yi jing*）的阴阳宇宙论；（2）天、地、人相互感应的理论，作为一种共享的宇宙秩序表述；（3）“经”或“经典”作为一个文本谱系之奠基文本的观念。诸科学的实践者同样使用这些概念，尤见于人体模型与日月星辰运行模型。
+  - id: 35
+    kind: body
+    source: |-
+      Finally, both groups created textual lineages and accounts of textual authority. In a scientific context, authoritative texts were nominally attributed to a culture hero or divine source. Examples include the medical “classic” *The Yellow Emperor's Classic of Internal Medicine* (*Huang Di nei jing*, Unschuld 2003, Unschuld and Tessenow 2011)[^unschuld-2011] and the *Zhou [dynasty] Classic of Gnomon Calculation* (*Zhou bi suan jing*, Cullen 1976 and 1996)[^cullen-1976][^cullen-1996]. By contrast, the evidence of recently excavated texts indicates that such texts derived from prior textual traditions that were subsequently lost (Harper 1998)[^harper-1998]. Other Masters created their own texts and apocryphal lineages, but did not appear to have debated each other extensively or to have taken self-consciously critical stances toward their human or textual predecessors (Lloyd 1996, Lloyd and Sivin 2002)[^lloyd-1996][^lloyd-2002].
+    step1: |-
+      最后，两组都创造了文本谱系与文本权威的叙述。在科学语境中，权威文本名义上归属于一个文化英雄或神圣来源。例如医学的“经”《黄帝内经》（*Huang Di nei jing*, Unschuld 2003, Unschuld and Tessenow 2011）[^unschuld-2011]和《周〔代〕髀算经》（*Zhou bi suan jing*, Cullen 1976 and 1996）[^cullen-1976][^cullen-1996]。相比之下，新出土文本的证据表明，此类文本出自其前的一些后来失传的文本传统（Harper 1998）[^harper-1998]。其他诸子创造自己的文本与伪托谱系，但似乎并未彼此广泛辩论，也似乎并未对其人或文本的前驱采取自觉的批判立场（Lloyd 1996, Lloyd and Sivin 2002）[^lloyd-1996][^lloyd-2002]。
+    step2: |-
+      最后，两组都创造了文本谱系，也都创造了关于文本权威的叙述。在科学语境中，权威文本名义上归诸某位文化英雄或神圣来源，例如医学之“经”《黄帝内经》（*Huang Di nei jing*，Unschuld 2003, Unschuld and Tessenow 2011）[^unschuld-2011]，以及《周髀算经》（*Zhou bi suan jing*，Cullen 1976 and 1996）[^cullen-1976][^cullen-1996]。相形之下，新出土文献的证据表明：此类文本实出自某些先前、后来失传的文本传统（Harper 1998）[^harper-1998]。其他诸子则自造文本与伪托谱系，但似乎既未彼此广泛论辩，也未对其人间或文本上的前驱采取自觉的批判立场（Lloyd 1996, Lloyd and Sivin 2002）[^lloyd-1996][^lloyd-2002]。
+  - id: 36
+    kind: body
+    source: |-
+      ## 5. Generalist versus Specialist Knowledge
+    step1: |-
+      ## 5. 通才知识与专家知识
+    step2: |-
+      ## 5. 通才与专家之别
+  - id: 37
+    kind: body
+    source: |-
+      No one account categorizes the sciences of early China, but we find some account of them in the last two sections of the Bibliographic Treatise of the Han Dynastic History (Han shu, chapter 30). We see in the categorizations and authorship of the Treatise a polarization between two groups whom can be called Masters textualists and technical experts.
+    step1: |-
+      没有人对早期中国的诸科学作过整体分类，但我们在《汉书》第三十卷即汉代正史《艺文志》的最后两节中能找到某种分类。从《艺文志》的分类与编纂者身上，我们看到两个群体之间的两极分化，可称其为诸子文本家与技术专家。
+    step2: |-
+      早期中国的诸科学并无一份完整的分类，但汉代正史《汉书》卷三十《艺文志》末两节留下了某种分类。从《艺文志》的类目与编纂者身上，可见两个群体之间的两极分化：一是诸子文本家，一是技术专家。
+  - id: 38
+    kind: body
+    source: |-
+      The *Han shu* Bibliographic Treatise consists of six sections: (1) the Six Arts (*liu yi* 六藝) or Classics (*liu jing* 六經), (2) Masters (*zhu zi* 諸子) texts of Warring States philosophy, (3) Poetry (*shi fu* 詩賦), (4) Military works (*bing shu* 兵書), (5) Numbers and Techniques (*shu shu* 數術), and (6) Recipes and Methods (*fang ji* 方技).
+    step1: |-
+      《汉书·艺文志》由六部分组成：（1）六艺（*liu yi* 六藝）或六经（*liu jing* 六經），（2）战国哲学的诸子（*zhu zi* 諸子）文本，（3）诗赋（*shi fu* 詩賦），（4）兵书（*bing shu* 兵書），（5）数术（*shu shu* 數術），（6）方技（*fang ji* 方技）。
+    step2: |-
+      《汉书·艺文志》分六略：（1）六艺（*liu yi* 六藝），亦称六经（*liu jing* 六經）；（2）战国哲学的诸子（*zhu zi* 諸子）；（3）诗赋（*shi fu* 詩賦）；（4）兵书（*bing shu* 兵書）；（5）数术（*shu shu* 數術）；（6）方技（*fang ji* 方技）。
+  - id: 39
+    kind: body
+    source: |-
+      The “Numbers and Techniques” (*shu shu*) section includes the names of texts on astronomy, and cosmology in the sections titled Patterns of Heaven (*tian wen* 天文) and Calendars and Chronologies (*li pu* 歷譜). Additional information appears under sections titled Five Agents (*wu xing* 五行), and morphoscopy. Patterns of Heaven includes texts on divination by stars and weather phenomena (clouds, mists, qi configurations), and mapping the constellations. Calendars and Chronologies includes texts on calendric computations and movements of the heavenly bodies. Five Agents also contains mantic texts concerning prognostication by yin and yang and the Five Agents, including portents, hemerology, calendric astrology. A subsection titled Turtle and Yarrow (*shi gui* 蓍龜) contains texts on turtle-shell and yarrow divination, including the *Zhou yi (Zhou Changes),* the original text of the *Yi jing* or *Book of Changes*. Two other subsections address Miscellaneous Divination (*za zhan* 雜占) and Morphoscopy (*xing fa* 刑法), including works on geography, physiognomy, and topomancy.
+    step1: |-
+      “数术”（*shu shu*）一类包括题为“天文”（*tian wen* 天文）与“历谱”（*li pu* 歷譜）两节中关于天文学与宇宙论的文本名目。另有信息见于题为“五行”（*wu xing* 五行）与“形法”的诸节。“天文”包括关于星占与气象现象（云、雾、气之形态）的占卜以及星图绘制的文本。“历谱”包括历法计算与天体运行的文本。“五行”也包含以阴阳与五行作预测的术数文本，包括征兆、择日、历法占星。题为“蓍龟”（*shi gui* 蓍龜）的一节包含龟甲与蓍草占卜的文本，其中包括《周易》，即《易经》或《变经》的原始文本。另两个小节处理杂占（*za zhan* 雜占）与形法（*xing fa* 刑法），包括地理、相人与相地之作。
+    step2: |-
+      “数术”一略，含“天文”（*tian wen* 天文）与“历谱”（*li pu* 歷譜）两节所著录的天文、宇宙论文献名目。另有信息见诸“五行”（*wu xing* 五行）与“形法”诸节。“天文”著录星占、气象占（云、雾、气之形状）以及星图绘制之书；“历谱”著录历法推算与天体运行之书。“五行”之下亦有以阴阳五行占测的术数之书，包括征兆、择日、历占。另有“蓍龟”（*shi gui* 蓍龜）一节，著录龟甲与蓍草占卜之书，其中有《周易》——即《易经》（*Yi jing*）或称《变经》的原本。另两小节为杂占（*za zhan* 雜占）与形法（*xing fa* 刑法），含地理、相人、相地之作。
+  - id: 40
+    kind: body
+    source: |-
+      Information on medicine and pharmacology appears in the sixth section, Recipes and Methods. It includes works on medicine and longevity, including medical classics, classical recipes, sexual arts, and immortality practices. These chapters reflect the concerns and expertise of the technical and ritual specialists closely associated with the “Recipe Masters” (*fang shi* 方士) associated with the Han court. But their concerns also appear in early philosophical texts, and the separation of philosophy from the categories of religion and science is artificial and problematic (Harper 1998 and 1999; Kalinowski 2004)[^harper-1998][^harper-1999][^kalinowski-2004]. Recipes and Methods (*fang ji* 方技) includes: Medical Classics (*yi jing* 醫經), Classical Recipes (*jing fang* 經方), Sexual arts (*fang zhong* 房中) and Immortality practices (*shen xian* 神仙).
+    step1: |-
+      关于医学与药物学的信息见于第六部分“方技”。它包括关于医学与长生的著作，其中有医学经典、经方、房中术与神仙术。这些篇章反映了与汉代宫廷相关的“方士”（*fang shi* 方士）密切联系的技术与礼仪专家的关切与专长。但他们的关切也见于早期哲学文本，而把哲学与宗教和科学的范畴分开，是人为的、成问题的（Harper 1998 and 1999; Kalinowski 2004）[^harper-1998][^harper-1999][^kalinowski-2004]。方技（*fang ji* 方技）包括：医经（*yi jing* 醫經）、经方（*jing fang* 經方）、房中（*fang zhong* 房中）与神仙（*shen xian* 神仙）。
+    step2: |-
+      医学与药物学的信息见于第六略“方技”，著录医书与长生之作，含医学经典、经方、房中术与神仙术。这些篇目反映着与汉代宫廷相关之“方士”（*fang shi* 方士）关系密切的技术与礼仪专家的关切与专长。然而他们的关切同样见于早期哲学文本；把哲学与宗教、科学的范畴强为分割，反而是人为而可疑的（Harper 1998 and 1999; Kalinowski 2004）[^harper-1998][^harper-1999][^kalinowski-2004]。方技（*fang ji* 方技）含：医经（*yi jing* 醫經）、经方（*jing fang* 經方）、房中（*fang zhong* 房中）、神仙（*shen xian* 神仙）。
+  - id: 41
+    kind: body
+    source: |-
+      Several things are striking about this categorization. The first is the relative confinement of “Chinese philosophy” to the first two (or arguably three) sections of the Treatise, particularly the Masters section. The eight sections of the Masters category include most of the texts of early Chinese philosophy. They are grouped under the rubrics of: “Ru” (*Ru jia* 儒家, often mistranslated as “Confucian”), Daoists (*Dao jia* 道家), *Yin-yang* (*Yin-yang jia* 陰陽家), Legalists (*Fa jia* 法家), Names (*Ming jia* 名家) Mohists (*Mo jia* 墨家), vertical and horizontal alliances (*Zong heng jia* 縱橫家, also known as “Militarists”), Miscellaneous (*Za jia* 雜家), the school of Shen Nong (S*hen Nong jia* 神農家) and Smaller Teachings (*Xiao Shuo* 小說). But it is important to note that these are the “schools” of Han anthologists and commentators. Recent scholarship and the evidence of texts excavated from tombs has shown the arbitrariness of these classifications. For example, texts excavated from Guodian 郭店 and the so-called Shanghai Museum texts resist classification as Ru or Daoist (*Shi ji*, 130, 3288–92; Csikszentmihalyi and Nylan 2003, Smith 2003)[^csikszentmihalyi-2003][^smith-2003].
+    step1: |-
+      这一分类有几点引人注目。第一是“中国哲学”相对被局限于《艺文志》的前两节（或者说三节），尤其是诸子一节。诸子类的八个节包括早期中国哲学的大部分文本。它们被归入如下名目：“儒”（*Ru jia* 儒家，常被误译为“Confucian”）、道家（*Dao jia* 道家）、阴阳家（*Yin-yang jia* 陰陽家）、法家（*Fa jia* 法家）、名家（*Ming jia* 名家）、墨家（*Mo jia* 墨家）、纵横家（*Zong heng jia* 縱橫家，亦称“Militarists”）、杂家（*Za jia* 雜家）、神农家（*Shen Nong jia* 神農家）与小说（*Xiao Shuo* 小說）。但须注意，这些是汉代选家与注疏者的“学派”。晚近学术研究与墓葬出土文本的证据已表明这些分类的任意性。例如，郭店与所谓上海博物馆藏文本便难以归类为儒家或道家（*Shi ji*, 130, 3288–92; Csikszentmihalyi and Nylan 2003, Smith 2003）[^csikszentmihalyi-2003][^smith-2003]。
+    step2: |-
+      这一分类有几点值得注意。第一，“中国哲学”相对被局限在《艺文志》的前两略（或可算三略），尤以诸子一略为然。诸子类的八节容纳了早期中国哲学的大部分文本，归在如下名目之下：“儒”（*Ru jia* 儒家，常被误译为“Confucian”）、道家（*Dao jia* 道家）、阴阳家（*Yin-yang jia* 陰陽家）、法家（*Fa jia* 法家）、名家（*Ming jia* 名家）、墨家（*Mo jia* 墨家）、纵横家（*Zong heng jia* 縱橫家，亦称“Militarists”）、杂家（*Za jia* 雜家）、神农家（*Shen Nong jia* 神農家）与小说（*Xiao Shuo* 小說）。但须记住，这些只是汉代选家与注疏者眼中的“学派”。晚近研究与墓葬出土文献的证据，已显出此类分类的任意：郭店与所谓上海博物馆所出文本，便难以归入儒家或道家（*Shi ji*, 130, 3288–92; Csikszentmihalyi and Nylan 2003, Smith 2003）[^csikszentmihalyi-2003][^smith-2003]。
+  - id: 42
+    kind: body
+    source: |-
+      A second important point is the very different preservation and authorship of the first and second half of the Treatise. While the first three sections contain many titles that are no longer extant, they all contain significant numbers of extant texts. By contrast, the last three sections consist almost entirely of the titles of lost texts.
+    step1: |-
+      第二个要点是《艺文志》前半与后半在保存与编纂上有很大不同。前三节包含许多已不存世的篇目，但它们都含有相当数量的现存文本。相比之下，后三节几乎全由亡佚文本的篇目构成。
+    step2: |-
+      第二个要点，是《艺文志》前后两半在存佚与编纂上大不相同。前三略虽含不少已亡篇目，却都有相当数量的现存文本；相较之下，后三略几乎全由亡佚之书的篇目构成。
+  - id: 43
+    kind: body
+    source: |-
+      The two halves of the treatise also differ in their authorship. The first three sections were compiled by Liu Xiang. The last three, by contrast, were compiled by technical experts. The fourth “Military Works” section of the Bibliographic Treatise was compiled by Ren Hong 任宏, a Colonel of Foot Soldiers under Han Chengdi (Yates 1988)[^yates-1988]. The “*Shu shu*” category was compiled by an astronomical official: the *Taishi* 太史 Yin Xian 尹咸 (*Han shu*, 30, 1775). The Recipes and Methods section was compiled by the imperial physician Li Zhuguo 李柱國. This distinction between what appear to be three generalist and three specialist categories of the Treatise can be seen as a continuation of Warring States claims for the superiority of a flexible and general intellect over specific and technical arts. In this kind of Warring States argumentation, claims for comprehensive wisdom and universality sought to establish sole possession of way of the sage kings of antiquity, of which competing traditions possessed only part. Such claims appear in the *Zhuangzi* and in attacks on competing schools by Xunzi and Han Fei (Lewis 1999, Raphals 2008–2009)[^lewis-1999][^raphals-2008]. Thus the authors of Han collectanea privileged generalists in their comprehensive syntheses of competing traditions (Lewis 1999)[^lewis-1999]. In this way, the organization of the Treatise asserted the superiority of general and universal knowledge over military, mantic, and medical knowledge, deliberately framed as technical and limited in nature.
+    step1: |-
+      《艺文志》的两半在编纂者上也有差异。前三节由刘向编纂。相比之下，后三节由技术专家编纂。《艺文志》第四部分“兵书”由汉成帝时的步兵校尉任宏编纂（Yates 1988）[^yates-1988]。“数术”一类由天文官员编纂：太史尹咸（*Han shu*, 30, 1775）。“方技”一节由太医李柱国编纂。三节通才类目与三节专家类目之间的这一区分，可视为战国时期那种主张灵活而通达的智力优于具体技术技艺之说的延续。在这一类战国论说中，对全面智慧与普遍性的主张，力图确立对古代圣王之道——而相互竞争的传统各只得其一偏——的独占。此类主张见于《庄子》，也见于荀子与韩非对竞争学派的攻击（Lewis 1999, Raphals 2008–2009）[^lewis-1999][^raphals-2008]。于是，汉代纂辑之书的作者在对竞争传统的综合整理中优待通才（Lewis 1999）[^lewis-1999]。通过这种方式，《艺文志》的组织宣示了通行的、普遍的知识优于军事的、术数的与医学的知识——后者被刻意框定为技术的、性质有限的。
+    step2: |-
+      《艺文志》的两半，编纂者亦异。前三略由刘向纂辑；后三略则由技术专家纂成：第四略“兵书”系汉成帝时步兵校尉任宏所辑（Yates 1988）[^yates-1988]；“数术”一略系天文官员太史尹咸所辑（*Han shu*, 30, 1775）；“方技”一略系太医李柱国所辑。前三略为通才类目、后三略为专家类目，这一区分可视为战国旧说之延续：灵活而通达的智力优于具体的技术技艺。在战国此类论说中，对周全智慧与普遍性的主张，意在独占古代圣王之道——而相互竞争的传统各只得其偏。此类主张见于《庄子》，亦见于荀子、韩非对竞争学派的攻击（Lewis 1999, Raphals 2008–2009）[^lewis-1999][^raphals-2008]。因此，汉代纂辑者在综理竞争传统时优待通才（Lewis 1999）[^lewis-1999]。《艺文志》的编排就这样宣示了通行而普遍的知识优于军事的、术数的与医学的知识——后者被刻意判为技术的、格局有限的。
+  - id: 44
+    kind: body
+    source: |-
+      Finally, Masters texts suggest active competition between the textual specialists of the Masters schools and the technical experts whose knowledge and expertise is reflected in the last three sections of the Treatise. This competition involved career choice, patronage, students and the status of genres and modes of knowledge. For example, Michael Puett (2002) argues for an interwoven history of interactions between *fang shi* and the court officials in which court sponsored interpretations of ancient philosophical texts were in part a response to the *fang shi*.
+    step1: |-
+      最后，诸子文本提示诸子学派的文本专家与技术专家之间存在积极竞争，后者的知识与专长反映在《艺文志》后三节中。这一竞争涉及职业选择、庇护、门生，以及体裁与知识模式的地位。例如，普鸣（Michael Puett, 2002）论证方士与宫廷官员之间存在交织的互动史，其中宫廷赞助的对古代哲学文本的解释，部分是对 *fang shi* 方士的回应。
+    step2: |-
+      最后，诸子文本显示：诸子学派的文本专家与技术专家之间存在着积极的竞争——后者的知识与专长正反映在《艺文志》后三略之中。这一竞争牵涉职业选择、庇护、门生，以及各种体裁与知识样式的地位。例如，普鸣（Michael Puett, 2002）论证方士与宫廷官员之间有一段交织的互动史，其中宫廷主持的对古代哲学文本的解释，部分即是对 *fang shi* 方士的回应。
+  - id: 45
+    kind: body
+    source: |-
+      Late Warring States claims for the superiority of a flexible and general intellect over specific and technical arts continued into the Han dynasty. In particular, claims for universal and comprehensive wisdom sought to establish sole possession of way of the sage kings of antiquity, of which competing traditions possessed only part. This attitude is reflected in the structure of Han collectanea, which also privileged general and universal knowledge over any specialist expertise, including science. The result is the formation and propagation of two distinct and sometimes competing intellectual communities of “philosophical” literary elites and technical experts.
+    step1: |-
+      战国晚期关于灵活而通达的智力优于具体技术技艺的主张，一直延续到汉代。尤其是对普遍而周全之智慧的主张，力图确立对古代圣王之道——相互竞争的传统各只得其偏——的独占。这一态度反映在汉代纂辑之书的结构中，这些书也优待普遍而通行之知识，而非任何专家专长——科学亦在其内。其结果是两个彼此不同、有时相互竞争的知识群体的形成与传播：一个是“哲学的”文学精英，一个是技术专家。
+    step2: |-
+      战国晚期那种主张灵活通达的智力优于具体技术技艺的论调，延续入汉。尤其是对普遍周全之智慧的诉求，意在独占古代圣王之道——而相互竞争的传统各只得其一偏。此种态度反映在汉代纂辑之书的结构里：它们同样优待普遍通行之知，而贬抑任何专家专长，科学亦在其列。其结果是两个彼此有别、时相竞争的知识群体之形成与流传：一是“哲学的”文学精英，一是技术专家。
+  - id: 46
+    kind: body
+    source: |-
+      ## 6. Social Contexts of Practitioners
+    step1: |-
+      ## 6. 实践者的社会语境
+    step2: |-
+      ## 6. 实践者的社会语境
+  - id: 47
+    kind: body
+    source: |-
+      There were important differences between the social and institutional contexts of early philosophy and science, as well as important differences between sciences. Masters textualists were private individuals who often sought, but rarely achieved political influence. By contrast, astronomy and calendrics in particular were closely linked to government and court patronage, and from Han times on, located in the Bureau of Astronomy (Loewe 1994, Raphals 2013, Sivin 2009)[^loewe-1994][^raphals-2013][^sivin-2009].
+    step1: |-
+      早期哲学与科学在社会与制度语境上有重要差异，诸科学之间也有重要差异。诸子文本家是一些私人个体，他们常常谋求、却很少获得政治影响力。相比之下，天文学与历法则尤其密切地联系于政府与宫廷庇护，并且从汉代起便设于天文机构（Loewe 1994, Raphals 2013, Sivin 2009）[^loewe-1994][^raphals-2013][^sivin-2009]。
+    step2: |-
+      早期哲学与科学的社会、制度语境颇有差异，诸科学彼此亦不相同。诸子文本家是一些私家著述者，常谋求而很少得到政治影响。相形之下，天文学与历法尤为紧密地系于政府与宫廷庇护：自汉代起，它们便隶属于天文官署（Loewe 1994, Raphals 2013, Sivin 2009）[^loewe-1994][^raphals-2013][^sivin-2009]。
+  - id: 48
+    kind: body
+    source: |-
+      A closer examination of what we know of some of the early “scientists” shows close links to philosophical traditions. The apocryphal founder of scientific thought in China was Zou Yan 鄒衍 (305–240 BCE), who is associated with the so-called “Yin-Yang school” (Yin-yang jia). Zou Yan is credited with combining and systematizing yin-yang and the theory of Five Agents (Needham 1956b: 231–34)[^needham-1956b], but none of his works survive. Sima Qian’s biography in *Shi ji* 76 describes Zou Yan as a member of the Jixia 稷下 Academy, originally from the state of Qi (in present day Shandong). The Jixia Academy is also associated with Warring States philosophers. Figures associated with it include Mencius, Xunzi, the Mohist philosopher Song Xing, as well as Tian Pian, Shen Dao, Peng Meng, and possibly Zhuangzi (Needham 1956a, 93; Sato 2003, 75–77)[^needham-1956a][^sato-2003]. The Jixia Academy is also associated with the growth of Huang-Lao Daoism (Graziani 2008)[^graziani-2008]. According to the *Shi ji* biography of Zou Yan:
+    step1: |-
+      更细致地考察我们关于一些早期“科学家”所知的情况，会看到他们与哲学传统的密切联系。中国科学思想据传的开创者是邹衍 鄒衍（公元前 305–前 240 年），他与所谓“阴阳家”（Yin-yang jia）相联系。邹衍被认为综合并系统化了阴阳与五行理论（Needham 1956b: 231–34）[^needham-1956b]，但他的著作无一存世。司马迁在《史记》卷七十六中的传记，把邹衍描述为稷下学宫的成员，原籍齐国（在今山东）。稷下学宫也与战国诸子相联系。与之相关的人物包括孟子、荀子、墨家哲学家宋钘，以及田骈、慎到、彭蒙，可能还有庄子（Needham 1956a, 93; Sato 2003, 75–77）[^needham-1956a][^sato-2003]。稷下学宫也与黄老道家的发展相关（Graziani 2008）[^graziani-2008]。按《史记》邹衍传：
+    step2: |-
+      细察我们关于某些早期“科学家”所知的情形，可见其与哲学传统的密切关联。中国科学思想据传的开创者是邹衍（鄒衍，前 305–前 240 年），他与所谓“阴阳家”（*Yin-yang jia* 陰陽家）相关联。邹衍被认为综合并系统化了阴阳与五行之说（Needham 1956b: 231–34）[^needham-1956b]，然其书无一存世。司马迁在《史记》卷七十六的传记中，把邹衍描述为稷下学宫之人，原籍齐国（今山东）。稷下学宫同样与战国诸子相系，相关人物有孟子、荀子、墨家哲学家宋钘，以及田骈、慎到、彭蒙，或许还有庄子（Needham 1956a, 93; Sato 2003, 75–77）[^needham-1956a][^sato-2003]。稷下学宫还与黄老道家之兴有关（Graziani 2008）[^graziani-2008]。据《史记》邹衍传：
+  - id: 49
+    kind: body
+    source: |-
+      > he examined deeply into the phenomena of the increase and decrease of yin and yang, and wrote essays totaling more than 100,000 words about their strange permutations, and about the cycles of the great sages from beginning to end. His sayings were vast and far-reaching, and not in accord with the accepted beliefs of the classics. First he had to examine small objects, and from these he drew conclusions about large ones, until he reached what was without limit. First he spoke about modern times, and from this he went back to the time of Huang Di. The scholars all studied his arts. Moreover he followed the great events in the rise and fall of ages, and by means of their omens and (an examination into their systems), extended his survey (still further) backwards to the time when the heavens and the earth had not yet been born, (in fact) to what was profound and abstruse and impossible to investigate.
+      >
+      > He began by classifying China’s notable mountains, great rivers and connecting valleys; its birds and beasts; the fruitfulness of its water and soils, and its rare products; and from this extended his survey to what is beyond the seas, and men are unable to observe. Then starting from the time of the separation of the Heavens and the Earth, and coming down, he made citations of the revolutions and transmutations of the Five Powers (Virtues), arranging them until each found its proper place and was confirmed (by history). (*Shi ji* ch 76, slightly modified from Needham 1956b, 232–33)[^needham-1956b].
+    step1: |-
+      > 他深入探究阴阳消长的现象，写下十万余字论述其奇异变化、以及大圣自始至终循环的论文。其言广大而深远，不与经典所公认的信念相合。他先考察小物，由此推知大物，直到抵达无限之处。他先论当世，由此上溯黄帝之时。学者都研习他的方术。他更推究历代兴衰的大势，借其征兆（并考察其系统），把他的考察（进一步）向前推至天地尚未诞生之时，（实际上）推到幽深玄奥、无从探究之处。
+      >
+      > 他先从中国名山大川与通谷的条列开始，及其鸟兽、水土的丰饶与珍异物产；由此把他的考察推及海外、人所不能观察之处。然后自天地剖判之时起往下推，历数五德（五行）的转移变化，排列之使各得其位，并以史事加以验证。（*Shi ji* 卷 76，据 Needham 1956b, 232–33 稍作修改）[^needham-1956b]。
+    step2: |-
+      > 他深入探究阴阳消长的现象，写就十万余言论其奇异变化，以及大圣自始至终的循环。其言广大而深远，不与经典所共许的信念相合。他必先验之小物，推而大之至于无垠。他先叙当世，上溯黄帝之时，学者皆习其术。他又推究历代盛衰的大势，借其征兆与制度，把考察推向更远处，直到天地未生之时，幽窈冥漠、不可考究而难穷其原。
+      >
+      > 他先列中国名山大川、通谷禽兽，水土所殖、物类所珍，因而推之，及于海外、人之所不能睹。他称引天地剖判以来的五德转移，使治世各有所宜，而符应如此。（*Shi ji* 卷 76，据 Needham 1956b, 232–33 稍作修改）[^needham-1956b]。
+  - id: 50
+    kind: body
+    source: |-
+      On this account, Zou Yan's interests included both the “classical” learning of the Masters traditions and direct inquiry into natural phenomena, large and small. While this account gives no indication of specific direct contact between Zou and Masters textualists, it does suggest that the Jixia Academy patronized a range of thinkers who included what we would today call both philosophers and practitioners of the early sciences.
+    step1: |-
+      按这一叙述，邹衍的兴趣既包括诸子传统的“经典”学问，也包括对自然现象——无论大小——的直接探究。虽然这一叙述并未表明邹衍与诸子文本家有具体的直接接触，它确实提示：稷下学宫庇护了范围广泛的思想者，其中包括我们今天会同时称为哲学家与早期科学实践者的人。
+    step2: |-
+      据这段记述，邹衍的关切既包括诸子传统的“经典”之学，也包括对大小自然现象的直接探究。此记述虽未显示邹衍与诸子文本家有具体直接往来，却提示：稷下学宫所庇护的思想者范围颇广，其中既有我们今天所谓的哲学家，也有早期科学的实践者。
+  - id: 51
+    kind: body
+    source: |-
+      The *Han shu* describes Zou Yan as a “Recipe Master” or *fang shi* 方士. This term was applied to a wide range of practitioners of medical, mantic and technical arts. (The titles of their mostly lost works are listed in the *shu shu* and *fang ji* sections of the *Han shu* Bibliographic Treatise, discussed above.) *Fang sh*i practiced divination and claimed to possess secret texts and formulae. They gained great influence during the earlier part of the Han dynasty, though their influence waned by the later Han (Kalinowski 2010; Ngo 1976)[^kalinowski-2010][^ngo-1976]. They used yin-yang and Five Agents cosmology, and seem to have originated from the Shandong peninsula. They were particularly associated with the mantic arts, including the use of the sexagenary cycle of stems and branches, the *Yi jing*, and divination by stars, dreams, physiognomy, the winds, and by the use of pitch pipes (Li Ling 1993, 2000)[^li-1993]. The *fang shi* became an important force in the Han court during the reign of Han Wu Di (r. 141–29 BCE), but their origins are probably much older. Practices attributed to them have clear antecedents in Warring States philosophical texts such as the *Zhuangzi* and the “Inner Cultivation” (*Nei ye*) chapter of the G*uanzi*.
+    step1: |-
+      《汉书》把邹衍描述为“方士”（*fang shi* 方士）。这个词被施用于范围广泛的医学、术数与技术技艺的实践者。（他们大多已亡佚的著作篇目，列于上文讨论过的《汉书·艺文志》数术与方技两节。）方士行占卜，声称拥有秘传文本与方诀。他们在汉代前期获得了很大的影响力，虽然其影响到东汉后期已然衰落（Kalinowski 2010; Ngo 1976）[^kalinowski-2010][^ngo-1976]。他们使用阴阳与五行宇宙论，似乎源出山东半岛。他们尤与术数技艺相联系，包括使用干支六十循环、《易经》，以及借星辰、梦、相人、风与律管作占（Li Ling 1993, 2000）[^li-1993]。方士在汉武帝（公元前 141–前 29 年在位）治下成为汉廷中的一股重要力量，但其起源可能远为古老。归于他们的实践，在《庄子》与《管子》“内业”（*Nei ye*）篇等战国哲学文本中有清晰的先例。
+    step2: |-
+      《汉书》把邹衍列为“方士”（*fang shi* 方士）。此名施于范围甚广的医学、术数与技术技艺的实践者（其书大多亡佚，篇目著录于上文所论《汉书·艺文志》数术、方技两略）。方士行占卜，自称握有秘文与方诀。他们在汉初影响甚大，至东汉后期乃衰（Kalinowski 2010; Ngo 1976）[^kalinowski-2010][^ngo-1976]。方士用阴阳五行宇宙论，似源出山东半岛；尤精于术数之艺，包括干支六十循环、《易经》，以及星占、梦占、相人、风角与律管之占（Li Ling 1993, 2000）[^li-1993]。汉武帝（前 141–前 29 年在位）之世，方士成为汉廷中的一股重要势力，然其源起或甚古远。归于方士的种种实践，在《庄子》与《管子·内业》（*Nei ye*）篇等战国哲学文本中早有清晰先例。
+  - id: 52
+    kind: body
+    source: |-
+      References to their presence in the court of Qin Shi Huang秦始皇 (259–210 BCE), who ruled Qin from 246 to 221. They remained influential to the early part of the Six Dynasties (to the fourth century CE). Most came from outlying regions, and gained influence for their skills in medicine, astronomical prediction and omen interpretation, all of which were linked to the growth of science in early China. They used magico-medical practices on behalf of the health and vitality of the emperor, but also introduced standardized measurement of time, space, weight, and musical pitch.
+    step1: |-
+      关于他们在秦始皇 秦始皇（公元前 259–前 210 年，自公元前 246 年至前 221 年治秦）宫廷中存在的记载。他们保持影响力直到六朝前期（至公元四世纪）。他们多来自边远地区，以其在医学、天文预测与征兆解释方面的技能而获得影响，这些都与早期中国科学的成长相联系。他们为皇帝的健康与活力施用巫医实践，但也引入了时间、空间、重量与音律的标准化度量。
+    step2: |-
+      文献中亦有方士在秦始皇（前 259–前 210 年，自前 246 年至前 221 年治秦）宫廷中活动的记载。其影响延续至六朝前期（迄公元 4 世纪）。方士多来自边远之地，以医术、天文预测与征候解释之能而得势——凡此皆与早期中国科学之成长相系。他们为皇帝的健康与精力施用巫医之术，同时也引入了时间、空间、重量与音律的标准化度量。
+  - id: 53
+    kind: body
+    source: |-
+      An important source for our knowledge of their interests and expertise is the collected biographies of *fang shi* are recorded in the *Standard History of the Later Han* (*Hou Han shu*) under the heading “Fang Techniques” (*fang sh*u 方術). The preface lists their expertise and interests as: fate calculation and prognostication, including astrology and the prediction of eclipses), medicine and a variety of magical practices. Over half of the fifty-seven specialists listed in the collected biography (twenty-nine) practiced some form of astrology (biographies 1, 11, 12,16, 18–20, 22, 23, 26, 27, 30–33, 35, 38–41, 43–46, 49, 51–53 and 55, as listed in Kalinowski 2010, 359–66)[^kalinowski-2010]. But they were also credited with expertise in classical texts and in Huang-Lao and Daoist lore. (*Hou Han shu* 82A and 82B. Most of these techniques date from the late Zhou. See Li Ling 1995 and Kalinowski 2010, especially Appendix 2.)[^kalinowski-2010]
+    step1: |-
+      我们关于他们的兴趣与专长的重要材料来源，是《后汉书》中以“方术”（*fang shu* 方術）为题收录的方士传记。其序列举其专长与兴趣为：命算与预测，包括占星与蚀的预测，医学以及各种法术。合传中所列五十七位专家里，超过一半（二十九位）从事某种形式的占星（传记 1, 11, 12, 16, 18–20, 22, 23, 26, 27, 30–33, 35, 38–41, 43–46, 49, 51–53 与 55，据 Kalinowski 2010, 359–66 所列）[^kalinowski-2010]。但他们也被认为精通经典文本以及黄老与道家之学。（《后汉书》82A 与 82B。这些技艺大多可追溯至周代晚期。见 Li Ling 1995 与 Kalinowski 2010，尤其是附录 2。）[^kalinowski-2010]
+    step2: |-
+      我们关于其兴趣与专长的重要材料，是《后汉书》（*Hou Han shu*）以“方术”（*fang shu* 方術）为题所收的方士合传。其序列举其专长与兴趣为：命数推算与预测（含占星与食象预测）、医学，以及种种法术。合传所列五十七位专门家中，逾半数（二十九人）从事某种形式的占星（传记 1, 11, 12, 16, 18–20, 22, 23, 26, 27, 30–33, 35, 38–41, 43–46, 49, 51–53 与 55，据 Kalinowski 2010, 359–66 所列）[^kalinowski-2010]。不过他们也被认为精通经典文本以及黄老与道家之学。（《后汉书》卷 82 上、下。此类技艺大多可溯至周代晚期。见 Li Ling 1995 与 Kalinowski 2010，尤其是附录 2。）[^kalinowski-2010]
+  - id: 54
+    kind: body
+    source: |-
+      In summary, although Masters textualists and *fang shi* had some areas of overlapping expertise and interest, their practices and textual lineages diverged in very different directions.
+    step1: |-
+      总之，尽管诸子文本家与方士在某些专长与兴趣领域有所重叠，他们的实践与文本谱系却朝极为不同的方向分化。
+    step2: |-
+      总之，诸子文本家与方士虽在某些专长与兴趣上有所重叠，其践行方式与文本谱系却向着极为不同的方向分化。
+  - id: 55
+    kind: body
+    source: |-
+      ## 7. The Early Science(s)
+    step1: |-
+      ## 7. 早期诸科学
+    step2: |-
+      ## 7. 早期诸科学
+  - id: 56
+    kind: body
+    source: |-
+      I conclude with a brief account of areas of relation between Chinese philosophy and the Chinese sciences, remembering that Chinese accounts focused on specific sciences, rather than on one unified notion of science. We find these primarily in the qualitative sciences of astronomy and astrology and medicine.
+    step1: |-
+      我以一段关于中国哲学与中国诸科学之关系领域的简略叙述作结，并记住中国的叙述聚焦于具体诸科学，而非一个统一的科学概念。我们主要在这些定性科学中找到它们：天文学与占星术，以及医学。
+    step2: |-
+      最后简略叙述中国哲学与中国诸科学发生关系的几个领域，同时记住：中国的记述聚焦具体诸科学，而非某个统一的科学概念。这些领域主要在定性科学之中——天文与占星，以及医学。
+  - id: 57
+    kind: body
+    source: |-
+      An important area of overlap between philosophy and science occurred in cosmology, mathematics and calendrics. An important aspect of cosmological interest is observational astronomy or astrology (*tian wen*). In an important recent study of Chinese archaeo-astronomy, David Pankenier (2013, 5) traces the Chinese coordination of human activities with the observation and positions of the sun, moon, and stars as far back as the Neolithic cultures of the fifth millennium BCE. Written evidence of royal interest in stars and winds clearly dates back to the Shang oracle bone inscriptions. As Nathan Sivin (1990, 181) puts it: “The difference between astronomy and astrology was a contrast of emphasis on the quantitative as opposed to the qualitative and on objective motions as opposed to the correlation between celestial and political events.”
+    step1: |-
+      哲学与科学重叠的一个重要领域发生在宇宙论、数学与历法中。宇宙论关切的一个重要方面是观测天文学或占星术（*tian wen*）。在一项关于中国考古天文学的重要近作中，班大伟（David Pankenier, 2013, 5）把中国依据日月星辰的观测与位置来协调人类活动，追溯至公元前第五千年的新石器文化。关于王室对星与风的兴趣的文献证据，明确可追溯到商代甲骨文。正如席文（1990, 181）所说：“天文学与占星术之别，是定量对定性的侧重之异、客观运动对天象与政治事件之关联的侧重之异。”
+    step2: |-
+      哲学与科学重叠的重要领域，出现在宇宙论、数学与历法之中。宇宙论关切的一个要面是观测天文，即占星（*tian wen* 天文）。班大伟（David Pankenier, 2013, 5）在一部关于中国考古天文学的重要近作中，把中国依日月星辰之观测与位置来协调人类活动一事，追溯到公元前第五千年的新石器文化。至于王室对星象与风象的兴趣，文献证据明确可上溯至商代甲骨文。席文（1990, 181）有言：“天文学与占星术之别，在于侧重定量与侧重定性之别，侧重客观运行与侧重天象—政治事件关联之别。”
+  - id: 58
+    kind: body
+    source: |-
+      These areas have only slight links to philosophy. Astronomical and astrological observation was an important part of court ritual, since they were used to determine auspicious times for a wide variety of events. It could be said that textualists approved of them as an aspect of the conduct of ritual, but there was little philosophical engagement with their details. (There are also slight but important connections between philosophy and mathematics. This question has been in many ways obscured by focus on the idea of mathematical or logical proof and its presence or absence in China (Chemla 2012, Chemla and Guo 2004)[^chemla-2012][^chemla-2004].
+    step1: |-
+      这些领域只与哲学有轻微的联系。天文与星占观测是宫廷礼仪的重要部分，因为它们被用来为各种事件确定吉时。可以说文本家们赞成它们，作为行礼的一部分，但对它们的细节几乎没有哲学上的参与。（哲学与数学之间也有轻微而重要的联系。这一问题在 many ways 被如下焦点所遮蔽：数学或逻辑证明的观念及其在中国有或无（Chemla 2012, Chemla and Guo 2004）[^chemla-2012][^chemla-2004]。
+    step2: |-
+      这些领域与哲学的联系颇为轻微。天文观测与星占是宫廷礼仪的重要环节，因为要用它们为种种事务选定吉时。可以说，文本家们认同它们作为行礼之一部，却很少在哲学上介入其细节。（哲学与数学之间也有轻微却重要的关联。这一问题在诸多方面被一个焦点所遮蔽，即数学证明或逻辑证明的观念及其在中国之有无（Chemla 2012, Chemla and Guo 2004）[^chemla-2012][^chemla-2004]。）
+  - id: 59
+    kind: body
+    source: |-
+      During the Han dynasty, questions about the nature of the heavens were pursued by the *fang shi* (discussed in section 2). Fang expertise also included divination by the heavens, both by the stars, and by interpreting sub-celestial phenomena, including weather, clouds, mists, and winds (Ngo 1976, Li Ling 1993)[^li-1993][^ngo-1976].
+    step1: |-
+      在汉代，关于天空本性的问题由方士（在第二节讨论过）来探究。方家的专长还包括占天，既以星占，也以解释天宇之下的现象，包括气象、云、雾与风（Ngo 1976, Li Ling 1993）[^li-1993][^ngo-1976]。
+    step2: |-
+      汉代关于天体本性的问题，多由方士探究（说见第二节）。方士的专长亦含观天占候：既占星，也解释天宇之下的诸现象，包括气象、云、雾与风（Ngo 1976, Li Ling 1993）[^li-1993][^ngo-1976]。
+  - id: 60
+    kind: body
+    source: |-
+      These activities were not invented by the *fang shi*. The *Han shu Bibliographic Treatise* also provides evidence of *fang* activity through the titles of lost books. Other evidence comes from late Warring States and Han texts such as the *Lü Shi chunqiu* and *Huainanzi*. The *Huainanzi* contains several chapters of astronomical interest (Major 1993)[^major-1993]. One passage describes the technical interests of the sage emperor Yu, who ordered his officials to measure the distances to the ends of the earth by pacing the distance to the eastern, western, northern and southern extremities of the earth (*Huainanzi* 4, 56). The exact numbers given are problematic to say the least, but the point is that the sage rulers of antiquity, in legendary accounts, interested themselves in the physical observation of the earth.
+    step1: |-
+      这些活动不是方士发明的。《汉书·艺文志》也通过亡佚书籍的篇目提供 *fang* 方家活动的证据。其他证据来自战国晚期与汉代的文本，如《吕氏春秋》与《淮南子》。《淮南子》包含若干有天文学意义的章节（Major 1993）[^major-1993]。一段描述了圣王禹的技术兴趣，他命官员以步测东西南北四极的距离来测定到大地的尽头（《淮南子》4, 56）。所给的确切数字至少是有问题的，但要点在于，传说中的上古圣王关心对大地的物理观测。
+    step2: |-
+      这些活动并非方士所创。《汉书·艺文志》也以亡佚书籍的篇目为方家活动提供证据。另外的证据来自战国晚期与汉代的文本，如《吕氏春秋》与《淮南子》（*Huainanzi* 淮南子）。《淮南子》含有数章具天文意义的文字（Major 1993）[^major-1993]。其中一段述及圣王禹的技术兴趣：他命臣下以步测之法测定大地上东西南北四极的距离（《淮南子》4, 56）。所载的确切数字无论如何都有问题，要点在于：传说中的上古圣王竟也关心对大地的实测。
+  - id: 61
+    kind: body
+    source: |-
+      The third chapter of the *Huainanzi* ends with a section on the use of the measurements cast by shadows (gnomons) to calculate distances. This passage is probably a later addition, but for our purposes, its inclusion in the *Huainanzi* is indicative of the scientific concerns of the text. It gives directions for a series of measurements, including how to determine the directions of sunrise, sunset, and the cardinal directions. It also explains how to measure the “breadth and length of east, west, north, and south”:
+    step1: |-
+      《淮南子》第三章以一段关于使用影子的测量（表）来计算距离的内容结束。这一段大概是晚出的增补，但就我们的目的而言，它被收入《淮南子》即表明该书的科学关切。它给出了一系列测量的指引，包括如何确定日出、日落与四个基本方位。它还解释如何测量“东西南北的广与长”：
+    step2: |-
+      《淮南子》第三章末尾有一段讲如何用表影测量来计算距离。此段大概是后人增入，但就本文的论旨而言，它得载于《淮南子》即足见该书的科学关切。文中给出一串测量的指引，包括如何测定日出、日入以及四方方位；又说明如何测度“东西南北的广与长”：
+  - id: 62
+    kind: body
+    source: |-
+      > If you wish to know the figures for the breadth and length of east, west, north, and south set up four gnomons to make a right-angled figure one li square. More than ten days before the spring or autumn equinox sight along the northern gnomons of the square on the sun from its first appearance to its rise above the horizon. Wait for [the day when] they coincide. When they coincide they are in line with the sun. Each time take a sight on it [the sun] with the southern gnomons, and take the amount by which it is within the forward gnomons as the divisor. Divide the whole width and divide the length [between] the standing gnomons in order to know the measurements east and west from here (*Huainanzi* 3, 53–54, translation after Cullen 1976, 116)[^cullen-1976].
+    step1: |-
+      > 若要知晓东西南北广与长的数字，立四表成一个方一里的直角图形。在春分或秋分前十余天，从方形北边的表望太阳，自其初现至升出地平。等到（两者）重合。重合时它们与日相直。每次用南边的表望它（太阳），取它在前行表内的量为除数。以全长为被除数，以立表之间的距离除之，以知从这里起东西方向的度数（《淮南子》3, 53–54，译据 Cullen 1976, 116）[^cullen-1976]。
+    step2: |-
+      > 欲知东西南北广与长之数，立四表以成方一里的直角图形。于春分或秋分前十余日，自方形北边之表望日，从其初现直至升出地平。待两者相合；相合之时，表与日相直。每次以南边之表望日，取其在前行表内的量为除数；以全长被除，再以两立表之间的距离除之，即可知由此向东、西方向的度数（《淮南子》3, 53–54，译文据 Cullen 1976, 116）[^cullen-1976]。
+  - id: 63
+    kind: body
+    source: |-
+      Another area of potential Ru interest in astronomy is calendrics, based on detailed observation of seasonal changes. One example is the Monthly Ordinance (Yueling 月令) calendars of the *Huainanzi*. Monthly Ordinances use Five Agents correlations to specify the correct social, ritual, and agricultural activities for each season. Rulers could use these texts to regulate state ritual activities over the course of the year. The ordinances cover such topics as state activities (fortification, planting, etc.) and the consequences of performing activities at incorrect times. These are the first texts in the received tradition to link the twenty-eight Lunar Lodges to the months of the year, associating each month with a lodge, which indicates the position of the sun among the stars for that month. (Ancient Chinese astronomers divided the celestial equator around the pole star into twenty-eight “lodges” (*xiu* 宿), each named by a star within it and each comprising some 13 degrees (*du* 度) of the circle.) The calendric tables list the days of the year in stem-branch sexagenary order, with annotations on the nature of different kinds of days, and which days were auspicious or inauspicious for particular activities. (Such calendars also appear in almost identical form in the *Guanzi* and *Lü* *Shi chunqiu*, and were incorporated into the *Li ji* in the Later Han dynasty. See *Guanzi*, chs. 3.8 and 3.9, Rickett 1985, 148–192)[^rickett-1985] They also included monthly and seasonal correlates. For example, the lodges were associated with the position of the sun, and dusk and dawn correlated to the five pentatonic tones, pitch pipe notes, numbers, tastes, smells, color of the emperor’s clothing, presiding deity, and yin and yang sacrificial organs, all described in terms of the Five Agents (Major 1993, 220–225)[^major-1993].
+    step1: |-
+      儒家对天文学可能感兴趣的另一个领域是历法，它以对季节变化的细致观测为基础。一个例子是《淮南子》的月令（*Yueling* 月令）历表。月令用五行的对应来规定每一季节正当的社会、礼仪与农事活动。统治者可以用这些文本在一年之中安排国家礼仪活动。这些月令涉及国家事务（筑城、播种等）以及在错误时间行事之所招致后果。这些是传世文献中头一批把二十八宿与一年十二月联系起来、把每一月配于一宿的文本，该宿标示该月中日在诸星之间的位置。（古代中国天文学家把围绕极星的赤道分为二十八个“宿”（*xiu* 宿），每一宿以内的一颗星命名，每宿约占圆周十三度（*du* 度）。）历表以干支六十顺序列出一年之日，附注各类日子之性质，以及何日为特定事务的宜与忌。（此类历表也以几乎相同的形式见于《管子》与《吕氏春秋》，并在东汉时被并入《礼记》。见《管子》3.8 与 3.9 章，Rickett 1985, 148–192）[^rickett-1985] 它们还包含按月按季的相应项。例如，宿与日的位置相配，而早晚与五音、律管之音、数、味、臭、天子服色、所主之神以及阴阳祭脏相联系，皆以五行描述（Major 1993, 220–225）[^major-1993]。
+    step2: |-
+      儒家于天文学或有兴趣的另一领域是历法，其基础是对季节变化的细致观测。一例即《淮南子》中的月令（*Yueling* 月令）历表。月令以五行之配，规定每一季节应当施行的社会、礼仪与农事活动；统治者可用此类文本在全年中调度国家礼仪。其内容涉及国家事务（筑城、播种之类），以及在失时行事所招致的后果。这是传世文献中最早把二十八宿与一年之月相连的文本：每月配一宿，宿即标示该月中太阳在诸星之间的位置。（古代中国天文学家把绕极星的赤道带划分为二十八个“宿”（*xiu* 宿），各以内中一星为名，每宿约占圆周十三度（*du* 度）。）历表以干支六十序列出全年之日，附注各类日子的性质，以及某事以某日为宜、为忌。（此类历表亦以几乎相同的形式见于《管子》与《吕氏春秋》，东汉时被纳入《礼记》。见《管子》3.8、3.9 章，Rickett 1985, 148–192）[^rickett-1985] 其中还列有按月、按季的相应项：例如宿与日位相配，晨昏则与五音、律管之音、数、味、臭、天子服色、所主之神、阴阳祭脏相联系，一概以五行说之（Major 1993, 220–225）[^major-1993]。
+  - id: 64
+    kind: body
+    source: |-
+      It is almost impossible to separate Chinese ideas of body, state, cosmos and “nature.” Nathan Sivin (1995, 3n1) points out that there is no indigenous term for “nature” in China before the nineteenth century. Over the course of the last three centuries BCE, Chinese understandings of the physical world developed to reflect, and mirror, political consolidation (Sivin 1995)[^sivin-1995]. These new ideas of cosmic order—correspondence between microcosm (the body) and macrocosm (the cosmos)—appeared in new representations of the body, the state, and the cosmos that were based on systematic applications and correlations of the ideas of yin and yang and of the Five Agents (*wuxing*). They appear in medical texts such as the *Huang Di neijing*, in calendrics, in observational astronomy and the study of astronomical portents with political implications, and in the “correlative cosmologies” of many Han dynasty texts (Lloyd 1996, Lloyd and Sivin 2002)[^lloyd-1996][^lloyd-2002].
+    step1: |-
+      中国的身体、国家、宇宙与“自然”诸观念几乎无法分离。席文（1995, 3n1）指出，十九世纪以前中国没有“自然”的本土术语。在公元前最后三个世纪中，中国对物理世界的理解发展得反映并映照政治的统一（Sivin 1995）[^sivin-1995]。这些关于宇宙秩序的新观念——微观宇宙（身体）与宏观宇宙（天地）之间的感应——出现在对身体、国家与宇宙的新表述中，这些表述基于阴阳观念与五行（*wuxing*）观念的系统应用与配合。它们见于《黄帝内经》之类的医学文本，见于历法，见于观测天文与具有政治含义的天象占候，也见于许多汉代文本的“关联性宇宙论”（Lloyd 1996, Lloyd and Sivin 2002）[^lloyd-1996][^lloyd-2002]。
+    step2: |-
+      中国的身体、国家、宇宙与“自然”诸观念几乎无从分割。席文（1995, 3n1）指出，十九世纪以前中国并无“自然”的本土词语。在公元前的最后三个世纪，中国对物理世界的理解日益反映——也映照——政治上的整合（Sivin 1995）[^sivin-1995]。有关宇宙秩序的这些新观念——微观宇宙（身体）与宏观宇宙（天地）之间的相应——便出现在身体、国家与宇宙的新表述之中，而此类表述又以阴阳、五行（*wuxing* 五行）两说的系统推演与配合为据。它们见于《黄帝内经》一类医学文本，见于历法，见于观测天文与政事攸关的天象占候，也见于汉代诸多文本的“关联性宇宙论”（Lloyd 1996, Lloyd and Sivin 2002）[^lloyd-1996][^lloyd-2002]。
+  - id: 65
+    kind: body
+    source: |-
+      Another important area of engagement between philosophy and medicine was in the theory and practice of “nurturing life” (*yang sheng* 養生). *Fang shi* medical practices and ideas included “recipes” for “Nurturing Life.” This broad category included a wide range of self-cultivation techniques.
+    step1: |-
+      哲学与医学相互参与的另一个重要领域，是“养生”（*yang sheng* 養生）的理论与实践。方士的医学实践与观念包括“养生”的“方”。这个宽泛范畴涵盖一系列自我修养技术。
+    step2: |-
+      哲学与医学相互参与的又一重要领域，是“养生”（*yang sheng* 養生）的理论与实践。方士的医学实践与观念中即有“养生”之“方”；这一宽泛范畴涵盖种种自我修养技术。
+  - id: 66
+    kind: body
+    source: |-
+      References to *yang sheng* techniques appear in both accounts of self-cultivation in Masters texts and in the titles of (lost) recipes in the *Han shu* Bibliographic Treatise. Mark Csikzentmihalyi has argued that “material virtue” traditions drawing on *yang sheng* techniques appear prominently in the *Mencius* and in two versions of *the Wu xing* 五行 or “Five Kinds of Action” recovered from Guodian and Mawangdui. These texts provide “a detailed moral psychology describing the process of the cultivation of the virtues” (Csikszentmihalyi 2004, 7). Mencius (2A2) famously refers to “cultivating flood-like qi” and the third chapter of the *Zhuangzi* is titled “The Lord of Nurturing Life” (*Yang sheng zhu*). By contrast, references to *yang sheng* in popular culture and in the recipes in the “Recipes and Methods” section of the Treatise seem directly concerned with health and longevity (V. Lo 2001 and 2005, Raphals 2008–2009)[^raphals-2008].
+    step1: |-
+      关于养生技术的记载见于两处：一在诸子文本中关于自我修养的论述，二在《汉书·艺文志》（亡佚）方技的篇目之中。齐思敏（Mark Csikzentmihalyi）论证，取资养生技术的“ material virtue”传统在《孟子》以及从郭店与马王堆出土的两本《五行》（*Wu xing* 五行，或“五种德行之行”）的两版本中显著出现。这些文本提供了“一种细密的道德心理学，描述诸德培养的过程”（Csikszentmihalyi 2004, 7）。《孟子》（2A2）有“养气”之说，以“浩然之气”著称；《庄子》第三章题为“养生主”（*Yang sheng zhu*）。相比之下，养生在通俗文化中、以及在《艺文志》“方技”一节的诸方中的记载，似乎直接关涉健康与长寿（V. Lo 2001 and 2005, Raphals 2008–2009）[^raphals-2008]。
+    step2: |-
+      关于养生技术的记载见于两处：一是诸子文本中论自我修养者，二是《汉书·艺文志》所著录（今已亡佚）的方技书目。齐思敏（Mark Csikszentmihalyi）论证，取材养生技术的“物质德性”（material virtue）传统，在《孟子》与郭店、马王堆所出两种《五行》（*Wu xing* 五行，或“五德之行”）写本中都颇为显要。这些文本提供了“一种细密的道德心理学，述明诸德培育的过程”（Csikszentmihalyi 2004, 7）。《孟子》（2A2）有著名的“养浩然之气”之说，《庄子》第三章题为“养生主”（*Yang sheng zhu*）。相形之下，养生在通俗文化中、以及在《艺文志》“方技”一略诸方中的记载，则似直接关乎健康与长寿（V. Lo 2001 and 2005, Raphals 2008–2009）[^raphals-2008]。
+  - id: 67
+    kind: body
+    source: |-
+      *Yin-yang,* *q*i and the Five Agents also informed medical theories, which were systematized in a cosmological framework in the Yellow Emperor’s Classic of Internal Medicine or *Huang Di neijing* (Veith 1972, Unschuld and Tessenow 2011)[^unschuld-2011][^veith-1972]. This complex and multi-layered text, probably compiled in the first century BCE, presents a systematic cosmology that analogizes the body, the state, and the cosmos in complex systems of “correlative cosmology” (Graham 1986; Sivin 1995; Lloyd and Sivin 2002)[^graham-1986][^lloyd-2002][^sivin-1995]. For example, the *Huang Di neijing* describes correspondence between the articulations of the body and the cosmos, specifically between heaven and earth and the upper and lower parts of the body, including relations and analogies between body, state and the cosmos, all expressed in terms of yin-yang and the Five Agents (*Huang Di neijing lingshu,* 71.2, 446). Such correlations seem a far cry from either cosmological speculation or empirical science in any modern sense. Between those extremes stand the mostly lost arts of technical traditions described in the *Han shu* Bibliographic Treatise: astronomy, medical, pharmacological, and mantic arts, whose practitioners were the counterparts and potential competitors of the Masters textualists or philosophers (Lloyd and Sivin 2002)[^lloyd-2002]. Expertise initially developed by diviners and technical specialists became part of the *Daode jing*, *Zhuangzi*, and *Huainanzi*. It was also incorporated into the systematic cosmology and medicine of the Han (Lloyd 1996, Lloyd and Sivin 2002)[^lloyd-1996][^lloyd-2002]. The *Huang Di neijing* is listed (and first appears) in the Recipes and Methods section of the *Han shu* Bibliographic Treatise under the heading of Medical Classics (*Han shu* 30, 1776).
+    step1: |-
+      阴阳、气与五行也支撑医学理论，而医学理论在《黄帝内经》（*Huang Di neijing*，Veith 1972, Unschuld and Tessenow 2011）[^unschuld-2011][^veith-1972]中被系统化在一个宇宙论框架内。这一复杂而多层的文本大概编纂于公元前第一世纪，它呈现一个系统的宇宙论，把身体、国家与宇宙类比于复杂的“关联性宇宙论”系统（Graham 1986; Sivin 1995; Lloyd and Sivin 2002）[^graham-1986][^lloyd-2002][^sivin-1995]。例如，《黄帝内经》描述了身体关节与宇宙的对应，具体说就是天地与身体上下部分的对应，包括身体、国家与宇宙之间的关系与类比，皆以阴阳与五行表达（《黄帝内经·灵枢》71.2, 446）。此类对应看似与宇宙论思辨或任何现代意义上的经验科学都相去甚远。居其两极之间的，是《汉书·艺文志》所述技术传统中那些大多亡佚的技艺：天文、医学、药物学与术数之艺，其实践者是诸子文本家或哲学家的对应者，也是其潜在竞争者（Lloyd and Sivin 2002）[^lloyd-2002]。最初由占卜者与技术专家发展出的专长，成为《道德经》《庄子》与《淮南子》的一部分。它也被纳入汉代系统的宇宙论与医学（Lloyd 1996, Lloyd and Sivin 2002）[^lloyd-1996][^lloyd-2002]。《黄帝内经》著录（并首次出现）在《汉书·艺文志》方技一节“医经”的名目之下（*Han shu* 30, 1776）。
+    step2: |-
+      阴阳、气与五行也支撑着医学理论；医学理论在《黄帝内经》（*Huang Di neijing*，Veith 1972, Unschuld and Tessenow 2011）[^unschuld-2011][^veith-1972]中被系统纳入一个宇宙论框架。这部复杂而多层的文本大约编纂于公元前 1 世纪，呈现出一个系统的宇宙论：身体、国家与宇宙，在种种复杂的“关联性宇宙论”系统中彼此类比（Graham 1986; Sivin 1995; Lloyd and Sivin 2002）[^graham-1986][^lloyd-2002][^sivin-1995]。例如，《黄帝内经》述及身体骨节与宇宙的对应：天地与身体上下部位相应，身体、国家与宇宙之间亦有关系与类比，皆以阴阳、五行出之（《黄帝内经·灵枢》71.2, 446）。此类对应，不论与宇宙论思辨相较，还是与任何现代意义上的经验科学相较，都相去甚远。而居此两极之间、且大多亡佚的，正是《汉书·艺文志》所著录的技术诸艺：天文、医学、药物与术数；其实践者既是诸子文本家（哲学家）的对应者，也是其潜在的竞争者（Lloyd and Sivin 2002）[^lloyd-2002]。这些最初由占卜者与技术人员发展出的专长，一部分进入《道德经》《庄子》与《淮南子》，另被纳入汉代系统化的宇宙论与医学（Lloyd 1996, Lloyd and Sivin 2002）[^lloyd-1996][^lloyd-2002]。《黄帝内经》即著录（并首次出现）于《汉书·艺文志》方技一略的“医经”名目之下（*Han shu* 30, 1776）。
+  - id: 68
+    kind: body
+    source: |-
+      A particular problem raised by the application of yin-yang theory to medicine was the implications of yin-yang theories for accounts of gender (Furth 1986, Raphals 1998, Yates 2005)[^furth-1986][^raphals-1998][^yates-2005], including the problem of the androgyny of what Charlotte Furth calls “the Yellow Emperor’s body.” Furth argues that the human body is understood as androgynous before the development of gynecology in the Song dynasty. These models of the body inform the early history of *yin-yang* theory, and the gender analogies that form part of that discourse. A central text to these analogies is the *Huang Di neijing*, which is striking for its overall androgyny. Overall, women are not specified as medically distinct from men, and where they do occur, discussions of sexual difference are usually linked to specific questions of fertility and reproduction (e.g., *Huang Di neijing suwen* 1.3.8 and 7.2.26).
+    step1: |-
+      阴阳理论应用于医学所引发的一个特殊问题，是阴阳理论对性别叙述的意涵（Furth 1986, Raphals 1998, Yates 2005）[^furth-1986][^raphals-1998][^yates-2005]，包括费侠莉（Charlotte Furth）所谓“黄帝之身”的两性一体问题。费侠莉论证，在妇科发展之前，人体被理解为两性一体的。这些身体模型构成阴阳理论早期史的一部分，也构成作为该论述一部分的性别类比。对这些类比而言的一部中心文本是《黄帝内经》，其总体的两性一体性令人瞩目。大体言之，女子并未被指明在医学上不同于男子；而凡有涉及性差异之处，讨论通常系于生育与生殖的具体问题（例如《黄帝内经·素问》1.3.8 与 7.2.26）。
+    step2: |-
+      阴阳理论应用于医学，引出一个特殊问题：它对性别论述的意涵（Furth 1986, Raphals 1998, Yates 2005）[^furth-1986][^raphals-1998][^yates-2005]——其中包括费侠莉（Charlotte Furth）所谓“黄帝之身”具两性一体性的问题。费侠莉论证：在妇科学出现之前，人体一直被理解为本具两性一体性的。这些身体模型构成阴阳理论早期史的一环，也构成该论述中性别类比的一环。对此诸类比而言，《黄帝内经》是一部中心文本，其总体上的两性一体性颇为醒目。大体而言，女子并未被视作医学上异于男子；凡涉性差异之处，讨论通常只系于生育与生殖的具体问题（如《黄帝内经·素问》1.3.8 与 7.2.26）。
+  - id: 69
+    kind: body
+    source: |-
+      Of more interest for a consideration of science and philosophy are a group of analogies in medical and philosophical texts between yin and yang and male and female. They describe the conditions of men and women by analogy with *yin* and *yang*, heaven and earth, and sometimes right and left. For example, the statement that women and men have opposite pulse patterns: “In women the right [pulse] manifests opposition, the left manifests obedience; in men the left [pulse] manifests opposition, the right manifests obedience” (*Huang Di neijing suwen,* 15.2.45).
+    step1: |-
+      对科学与哲学之考量更有意义的，是医学与哲学文本中一组关于阴阳与男女的类比。它们以 *yin* 与 *yang*、天与地，有时也与左与右类比，来描述男女的状况。例如，说男女的脉象相反：“女子左手（脉）为逆，右手为顺；男子右手为逆，左手为顺”（《黄帝内经·素问》15.2.45）。
+    step2: |-
+      就更宜纳入科学与哲学之考量者而言，医学与哲学文本中有一组阴阳与男女互比的类比：它们以阴与阳、天与地——有时也配以左与右——来描述男女的状态。例如谓男女脉象相反：“女人右脉为逆，左脉为顺；男人左脉为逆，右脉为顺”（《黄帝内经·素问》15.2.45）。
+  - id: 70
+    kind: body
+    source: |-
+      Theories of yin-yang, qi and Five Agents were applied to the diagnosis and treatment of disease, using techniques such as acumoxa and herbal medicine. These theories were also applied to longevity practices designed to extend health and life and in some cases to produce literal, physical immortality.
+    step1: |-
+      阴阳、气与五行诸理论被应用于疾病的诊断与治疗，技术如针灸与草药。这些理论也被应用于旨在扩展健康与生命、有时产生字面意义上肉身不死长生术。
+    step2: |-
+      阴阳、气与五行诸说被用于疾病的诊断与治疗，其技术如针灸与草药。这些学说也被施于长生实践：旨在增益健康与寿命，某些情况下则求字面意义上的肉身不朽。
+  - id: 71
+    kind: body
+    source: |-
+      Another very important area of overlap between philosophy and medicine is the significant number of important explicitly Daoist thinkers who were also practicing physicians and authors of important medical texts. (For more information on all these topics, see the entry “Chinese Medicine and Chinese Philosophy”.)
+    step1: |-
+      哲学与医学重叠的另一个极为重要的领域，是有相当数量重要的、明确属道家的思想家同时是执业医家，也是重要医学文本的作者。（关于所有这些主题的更多信息，见词条“中国医学与中国哲学”。）
+    step2: |-
+      哲学与医学重叠的另一极重要领域，是有相当一批明确属道家的思想家兼为执业医者，且是重要医学文本的作者。（以上诸题的更多信息，另见词条“中国医学与中国哲学”。）
+  - id: 72
+    kind: body
+    source: |-
+      ## Conclusions
+    step1: |-
+      ## 结论
+    step2: |-
+      ## 结论
+  - id: 73
+    kind: body
+    source: |-
+      In conclusion, this brief account addresses important issues in the complex relations between philosophy and the early history of science in China, especially as they informed the qualitative sciences of medicine and astronomy, and their relations with early Chinese philosophy overall. It shows that the harsh assessment of Chinese philosophy quoted at the beginning of this essay over-simplifies several complex questions. The work of Joseph Needham, Nathan Sivin and others demonstrates that Chinese philosophy is not inherently “anti-science.” But it could be argued – and persuasively in the view of this author – that the priorities associated with the vexed term “Confucianism” have often (though not always) steered Chinese philosophy away from scientific concerns. A second question raised here is whether Chinese philosophy contributes to science in ways that constitute a culturally specific “Chinese science” that is different from modern science. This point remains a locus of strong disagreement among historians of science in China.
+    step1: |-
+      总之，这一简略的叙述处理了哲学与中国早期科学史之间复杂关系中的重要问题，尤其是对医学与天文这两种定性科学的型塑，及其与中国早期哲学的整体关系。它表明，本文开头所引对中国哲学的苛刻评价，把若干复杂问题简单化了。李约瑟、席文等人的工作表明，中国哲学并非天生“反科学”。但也可以论证——在本文作者看来颇具说服力——与那个棘手的“儒学”一语相联的优先取向，常常（虽非总是）把中国哲学引离科学关切。此处提出的第二个问题是：中国哲学是否以某些方式贡献于科学，以致构成一种文化上特定的、不同于现代科学的“中国科学”。这一点在中国科学史家中间仍是强烈分歧的所在。
+    step2: |-
+      总之，这一简略叙述处理了哲学与中国早期科学史之复杂关系中的几个重要问题，尤其就其对医学与天文这两种定性科学的型塑、及其与中国早期哲学的整体关系而言。它表明：本文开头所引那条对中国哲学的苛刻评价，把若干复杂问题简单化了。李约瑟、席文等人的工作证明，中国哲学并非生来“反科学”。但也可以论证——在本文作者看来还颇有说服力——同“儒学”这一棘手名相绑定的优先取向，常常（虽非总是）把中国哲学引离科学关切。此处还提出第二个问题：中国哲学是否以某些方式贡献于科学，以致构成一种文化上特定的、有别于现代科学的“中国科学”？这一点在中国科学史家中间仍是一个分歧激烈的所在。
+  - id: 74
+    kind: oir
+    source: |-
+      - [Daoism and Daoist Studies](http://www.daoiststudies.org/), James Miller, Duke University.
+      - [Golden Elixir](http://www.goldenelixir.com/) (Chinese alchemy), Fabrizio Predagio, University of Erlangen-Nuremberg.
+      - [Guides to Research: Chinese Science and Medicine](http://ccat.sas.upenn.edu/~nsivin/refe.html), Nathan Sivin, History and Sociology of Science, University of Pennsylvania.
+      - [Needham Research Institute](http://www.nri.org.uk/), a centre for the study of the history of East Asian science, technology and medicine.
+    step1: |-
+      - [道家与道家研究](http://www.daoiststudies.org/)，James Miller，杜克大学。
+      - [金丹](http://www.goldenelixir.com/)（中国炼金术），Fabrizio Predagio，埃尔朗根-纽伦堡大学。
+      - [研究指南：中国科学与医学](http://ccat.sas.upenn.edu/~nsivin/refe.html)，Nathan Sivin，宾夕法尼亚大学科学与医学史。
+      - [李约瑟研究所](http://www.nri.org.uk/)，一个东亚科学、技术与医学研究中心。
+    step2: |-
+      - [道家与道家研究](http://www.daoiststudies.org/)（Daoism and Daoist Studies），James Miller，杜克大学。
+      - [金丹](http://www.goldenelixir.com/)（Golden Elixir，中国炼金术），Fabrizio Predagio，埃尔朗根-纽伦堡大学。
+      - [研究指南：中国科学与医学](http://ccat.sas.upenn.edu/~nsivin/refe.html)（Guides to Research: Chinese Science and Medicine），Nathan Sivin，宾夕法尼亚大学科学与医学史系。
+      - [李约瑟研究所](http://www.nri.org.uk/)（Needham Research Institute），一个东亚科学、技术与医学研究中心。

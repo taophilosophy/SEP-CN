@@ -2,8 +2,44 @@
   "slug": "chinese-phil-science",
   "kind": "retranslate",
   "zh_doc": "c/chinese-phil-science.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T11:17:27Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T13:38:39Z",
+      "evidence": "账本流水线（lq）：74 段双版 step1/step2 分段填录（script/c_fill_cps1-4.py，幂等+id 定位+TBD 守卫；批4 曾因 id67 长段被误拆致键位偏移，已按段界重排合并——67=原67+68 合并、68-74 顺移、补写 id71 道医段）；lq check 守恒门 74 段通过；compose --write 组装 27551 字符（H1+pubinfo+7 节+结论+References 引用注释说明+学术工具+OIR 4 项+相关词条+70 defs 照录），正文约 1 万汉字"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T13:40:34Z",
+      "evidence": "逐段对照 yuanwen 核销+五维对账（修正后全等）：marker 136:136 顺序全等、defs 70:70 键集全等、年份 321:321 顺序全等（初测差 3 系冯友兰生卒年被我提前到导言段，已移回 §1 原文位置）、H2 12:12；中文原词按家法作『中文（*拼音* 繁汉字）』形（气/五行/养生/方士/数术/方技/道藏/天文/历谱/蓍龟/杂占/形法/医经/经方/房中/神仙/六艺/诸子/月令/宿/度 等）；《汉书·艺文志》六略与四家辑者（任宏/尹咸/李柱国/刘向）照源；引块 5 处（宫鹏 Nature 信、《大学》格物、邹衍传、淮南子测影、公孙龙? 无）守「> 」形；书目 defs 中英夹杂原样照录（源文如此，如 Les neuf chapitres 法文书名）；SUMMARY/mu-lu-s 英文题补全为 Science and Chinese Philosophy"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T13:43:20Z",
+      "evidence": "prose 20→2（script/c_prose_cps.py 18 条幂等 SUBS 全命中 + 后续 3 条手工再修）：拆长句 6（含 107 字卜德段、99 字荀孟段）、消弱动词 4（予以考虑/作出解读/作出评估/加以历史化）、去「作为一个」2、exists-there 1、de-chain 5；豁免 2 留痕＝行 54（李约瑟语录内部并列『巫术的、科学的、民主的、政治革命的』，忠实引文不拆）、行 88（『军事的、术数的与医学的知识』概念列举必要属格）；另清理中文间多余空格 4 处（账本同步）；check_style --strict 0 issue、check_academic --strict 无硬错误、check_math 无 unbalanced"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "C-main-20261107",
+      "at": "2026-11-07T13:44:56Z",
+      "evidence": "三校收口：人名 30 行（冯友兰/李约瑟/席文/卜德/叶山/古克礼/班大伟/鲁惟一/普鸣/夏德安/马克/戴梅可/费侠莉/文树德/罗维前/森舸澜/瑞丽/马绛/宫鹏/邹衍/刘向/任宏/尹咸/李柱国/宋钘/田骈/慎到/彭蒙/齐思敏/劳埃德）＋术语 18 行（五行/阴阳/养生/方士/数术/方技/道藏/关联性宇宙论/艺文志/李约瑟问题/诸子文本/通才/文本谱系/有机论思维/六艺六经/月令/宿/黄帝内经）；Mencius/Xunzi/Zhuangzi/Han Feizi 已在术语册（ADR-0011 种子）不重复登记；check_terms 硬错误 0；check_all 七项全绿"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-31T22:08:51Z",
   "version_pin": {

@@ -1712,3 +1712,33 @@
 | Miller, Russ | — | 拉斯·米勒 | — | — | social-procedures | 构词直译（算法教材作者）；凭证 2026-11-07 | 2026-11-07 |
 | Boxer, Laurence | — | 劳伦斯·博克瑟 | — | — | social-procedures | 构词直译（算法教材作者）；凭证 2026-11-07 | 2026-11-07 |
 | Morgenstern, Oskar | — | 奥斯卡·摩根斯特恩 | — | — | social-procedures | 学界通行汉译（《博弈论与经济行为》合著者）；凭证 2026-11-07 | 2026-11-07 |
+| Fung Yu-lan | — | 冯友兰 | chinese-phil-science | 学界通行（《中国哲学史》作者；字芝生）；凭证 2026-11-07 | 2026-11-07 |
+| Needham, Joseph | — | 李约瑟 | chinese-phil-science | 学界通行（《中国科学技术史》作者，汉名李约瑟）；凭证 2026-11-07 | 2026-11-07 |
+| Sivin, Nathan | — | 席文 | chinese-phil-science | 学界通行（科学史家，汉名席文）；凭证 2026-11-07 | 2026-11-07 |
+| Bodde, Derk | — | 德克·卜德 | chinese-phil-science | 学界通行（汉名卜德，《中国之思想与制度》译者）；凭证 2026-11-07 | 2026-11-07 |
+| Yates, Robin D. S. | — | 叶山 | chinese-phil-science | 学界通行（汉名叶山，秦汉法律与科技史）；凭证 2026-11-07 | 2026-11-07 |
+| Cullen, Christopher | — | 古克礼 | chinese-phil-science | 学界通行（汉名古克礼，李约瑟研究所）；凭证 2026-11-07 | 2026-11-07 |
+| Pankenier, David W. | — | 班大伟 | chinese-phil-science | 学界通行（汉名班大伟，中国考古天文学）；凭证 2026-11-07 | 2026-11-07 |
+| Loewe, Michael | — | 鲁惟一 | chinese-phil-science | 学界通行（汉名鲁惟一，秦汉史）；凭证 2026-11-07 | 2026-11-07 |
+| Puett, Michael | — | 普鸣 | chinese-phil-science | 学界通行（汉名普鸣，《作与不作》作者）；凭证 2026-11-07 | 2026-11-07 |
+| Harper, Donald | — | 夏德安 | chinese-phil-science | 学界通行（汉名夏德安，出土医书研究）；凭证 2026-11-07 | 2026-11-07 |
+| Kalinowski, Marc | — | 马克 | chinese-phil-science | 学界通行（汉名马克，数术与占卜研究）；凭证 2026-11-07 | 2026-11-07 |
+| Nylan, Michael | — | 戴梅可 | chinese-phil-science | 学界通行（汉名戴梅可，早期中国经典研究）；凭证 2026-11-07 | 2026-11-07 |
+| Furth, Charlotte | — | 费侠莉 | chinese-phil-science | 学界通行（汉名费侠莉，中国医学性别史）；凭证 2026-11-07 | 2026-11-07 |
+| Unschuld, Paul U. | — | 文树德 | chinese-phil-science | 学界通行（汉名文树德，《黄帝内经》英译者）；凭证 2026-11-07 | 2026-11-07 |
+| Lo, Vivienne | — | 罗维前 | chinese-phil-science | 学界通行（汉名罗维前，中国医学史）；凭证 2026-11-07 | 2026-11-07 |
+| Slingerland, Edward | — | 森舸澜 | chinese-phil-science | 学界通行（汉名森舸澜，先秦思想与认知科学）；凭证 2026-11-07 | 2026-11-07 |
+| Raphals, Lisa | — | 瑞丽 | chinese-phil-science | 学界通行（汉名瑞丽，本词条作者）；凭证 2026-11-07 | 2026-11-07 |
+| Major, John S. | — | 马绛 | chinese-phil-science | 学界通行（汉名马绛，《淮南子》研究）；凭证 2026-11-07 | 2026-11-07 |
+| Gong, Peng | — | 宫鹏 | chinese-phil-science | 上游自带汉字（清华大学、加州大学伯克利分校学者）；凭证 2026-11-07 | 2026-11-07 |
+| Zou Yan | — | 邹衍 | chinese-phil-science | 上游自带汉字（鄒衍，阴阳家）；凭证 2026-11-07 | 2026-11-07 |
+| Liu Xiang | — | 刘向 | chinese-phil-science | 上游自带汉字（《别录》《七略》编者）；凭证 2026-11-07 | 2026-11-07 |
+| Ren Hong | — | 任宏 | chinese-phil-science | 上游自带汉字（汉成帝时步兵校尉，《兵书略》辑者）；凭证 2026-11-07 | 2026-11-07 |
+| Yin Xian | — | 尹咸 | chinese-phil-science | 上游自带汉字（汉太史，《数术略》辑者）；凭证 2026-11-07 | 2026-11-07 |
+| Li Zhuguo | — | 李柱国 | chinese-phil-science | 上游自带汉字（汉太医，《方技略》辑者）；凭证 2026-11-07 | 2026-11-07 |
+| Song Xing | — | 宋钘 | chinese-phil-science | 上游自带汉字（墨家哲学家，稷下）；凭证 2026-11-07 | 2026-11-07 |
+| Tian Pian | — | 田骈 | chinese-phil-science | 上游自带汉字（稷下学者）；凭证 2026-11-07 | 2026-11-07 |
+| Shen Dao | — | 慎到 | chinese-phil-science | 上游自带汉字（稷下学者）；凭证 2026-11-07 | 2026-11-07 |
+| Peng Meng | — | 彭蒙 | chinese-phil-science | 上游自带汉字（稷下学者）；凭证 2026-11-07 | 2026-11-07 |
+| Csikszentmihalyi, Mark | — | 齐思敏 | chinese-phil-science | 学界通行（汉名齐思敏，早期中国德性伦理）；凭证 2026-11-07 | 2026-11-07 |
+| Lloyd, G. E. R. | — | 劳埃德 | chinese-phil-science | 学界通行汉译（《古代希腊与中国科学》合著者）；凭证 2026-11-07 | 2026-11-07 |
