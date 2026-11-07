@@ -2,7 +2,7 @@
   "slug": "auriol",
   "kind": "retranslate",
   "zh_doc": "a/auriol.md",
-  "state": "s3_checked",
+  "state": "r1_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,13 @@
       "actor": "AB-main-20261106",
       "at": "2026-11-07T11:08:59Z",
       "evidence": "三校（体例）：check_style --strict 0（一次成型）；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 硬错误 0（三处正文简称补全名后告警清零：约翰·卡普雷奥鲁斯、皮耶特罗·彭波那齐、存在概念的单义性）；人名 12 行/术语 10 行登记"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T11:28:15Z",
+      "evidence": "初审（准确性）：全文回读对照 yuanwen 逐节核验（§1 生卒与《箴言书疏》成书年、1317–18 单学年讲授新说、§2 四小节立场（五范畴/存在概念未规定/三值逻辑与无间距认知/被动接受恩宠）、§3 双重论证（本质述谓—智识接触—必然知识三要求）与感官错觉八例、§4 四特征与层级原则、此生无直观智识认知及悲观主义），实修 1 处（根特的亨利补首现括注）；五维对账复核（marker 78:78、defs 65/65、年份 192:193 区间展开豁免）；复检 style 0、prose 26 全为既录豁免类；拉丁术语 rationes/esse apparens/modus concipiendi 按源文“保持不译”约定原形保留"
     }
   ],
   "blockers": [],
