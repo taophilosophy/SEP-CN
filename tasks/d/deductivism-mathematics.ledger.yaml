@@ -1,0 +1,1197 @@
+version: 1
+slug: deductivism-mathematics
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Deductivism says that a mathematical sentence $s$ should be understood as expressing the claim that $s$ deductively follows from appropriate axioms. For instance, deductivists might construe “$2 + 2 = 4$” as “the sentence ‘$2 + 2 = 4$’ deductively follows from the axioms of arithmetic”. Deductivism promises a number of benefits. It captures the fairly common idea that mathematics is about “what can be deduced from the axioms”; it avoids an ontology of abstract mathematical objects; and it maintains that our access to mathematical truths requires nothing beyond our ability to make logical deductions. Sections 1 and 2 define and motivate deductivism in more detail. Section 3 covers four authors (Russell, Hilbert, Pasch, Curry) who have endorsed deductivism at some point. Section 4 aims to clarify what semantic claim deductivists make. Sections 5–9 review objections to deductivism and possible replies.
+    step1: |-
+      演绎主义主张：数学语句 $s$ 应被理解为表达“$s$ 从适当的公理演绎地推出”这一断言。例如，演绎主义者可能把“$2 + 2 = 4$”理解为“语句‘$2 + 2 = 4$’从算术公理演绎地推出”。演绎主义许诺若干好处：它抓住了“数学关乎从公理能推出什么”这一相当常见的想法；它避免了抽象数学对象的本体论；它主张我们对数学真理的把握所需者，不超过我们进行逻辑演绎的能力。第 1、2 节更详细地界定并阐明演绎主义的动机；第 3 节讨论四位曾在某处认可演绎主义的作者（罗素、希尔伯特、帕施、柯里）；第 4 节旨在澄清演绎主义者所作的是何种语义主张；第 5–9 节审视对演绎主义的反驳与可能的答复。
+    step2: |-
+      演绎主义主张：数学语句 $s$ 应理解为表达“$s$ 从适当公理演绎地推出”这一断言。例如，演绎主义者可能把“$2 + 2 = 4$”理解为“语句‘$2 + 2 = 4$’从算术公理演绎地推出”。演绎主义许诺若干好处：它抓住了“数学关乎从公理能推出什么”这一常见想法；避免了抽象数学对象的本体论；并主张我们把握数学真理所需者，不超过逻辑演绎的能力。第 1、2 节详界定并说明其动机；第 3 节讨论四位曾在某处认可它的作者（罗素、希尔伯特、帕施、柯里）；第 4 节澄清演绎主义者所作的是何种语义主张；第 5–9 节审视反驳与可能的答复。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Introduction
+    step1: |-
+      ## 1. 导论
+    step2: |-
+      ## 1. 导论
+  - id: 3
+    kind: body
+    source: |-
+      Deductivism is a philosophy of mathematics that was popular in the late nineteenth and early twentieth century. It understands a mathematical sentence $s$ as expressing the claim that $s$ deductively follows from appropriate axioms. For instance, deductivists might construe “$2 + 2 = 4$” as
+    step1: |-
+      演绎主义是一种在十九世纪末与二十世纪初流行的数学哲学。它把数学语句 $s$ 理解为表达“$s$ 从适当的公理演绎地推出”这一断言。例如，演绎主义者可能把“$2 + 2 = 4$”理解为
+    step2: |-
+      演绎主义是十九世纪末至二十世纪初流行的一种数学哲学：它把数学语句 $s$ 理解为表达“$s$ 从适当公理演绎地推出”这一断言。例如，演绎主义者可能把“$2 + 2 = 4$”理解为
+  - id: 4
+    kind: body
+    source: |-
+      > the sentence “$2 + 2 = 4$” deductively follows from the axioms of arithmetic,
+    step1: |-
+      > 语句“$2 + 2 = 4$”从算术公理演绎地推出，
+    step2: |-
+      > 语句“$2 + 2 = 4$”从算术公理演绎地推出，
+  - id: 5
+    kind: body
+    source: |-
+      or “2 is prime” as
+    step1: |-
+      或把“2 是素数”理解为
+    step2: |-
+      又或把“2 是素数”理解为：
+  - id: 6
+    kind: body
+    source: |-
+      > the sentence “2 is prime” deductively follows from the axioms of arithmetic,
+    step1: |-
+      > 语句“2 是素数”从算术公理演绎地推出，
+    step2: |-
+      > 语句“2 是素数”从算术公理演绎地推出，
+  - id: 7
+    kind: body
+    source: |-
+      or, for a non-arithmetical example, “every group $G$ has exactly one identity element” as
+    step1: |-
+      或，举一个非算术的例子，把“每个群 $G$ 恰有一个单位元”理解为
+    step2: |-
+      或举一个非算术的例子：把“每个群 $G$ 恰有一个单位元”理解为
+  - id: 8
+    kind: body
+    source: |-
+      > the sentence “every group $G$ has exactly one identity element” deductively follows from the axioms of group theory.
+    step1: |-
+      > 语句“每个群 $G$ 恰有一个单位元”从群论公理演绎地推出。
+    step2: |-
+      > 语句“每个群 $G$ 恰有一个单位元”从群论公理演绎地推出。
+  - id: 9
+    kind: body
+    source: |-
+      Deductivists thus reject the surface syntax of mathematics. They do not take “2 is prime” to attribute a property (primeness) to an entity (the number 2); for them, it states that the sentence “2 is prime” follows from some axioms.
+    step1: |-
+      因此，演绎主义者拒斥数学的表面句法。他们不把“2 是素数”看作把一个属性（素性）赋予一个实体（数 2）；对他们而言，该句陈述的是“2 是素数”这一语句从某些公理推出。
+    step2: |-
+      因此演绎主义者拒斥数学的表面句法：他们不把“2 是素数”看作把一个属性（素性）赋予某一实体（数 2）；对他们而言，该句陈述的是“2 是素数”这一语句从某些公理推出。
+  - id: 10
+    kind: body
+    source: |-
+      This entry will assess deductivism’s strengths and weaknesses, discuss its turn-of-the-twentieth-century heyday, and compare it to contemporary versions of structuralism.
+    step1: |-
+      本词条将评估演绎主义的强处与弱点，讨论其在二十世纪之交的鼎盛期，并将其与结构主义的当代诸版本相比较。
+    step2: |-
+      本词条将评估演绎主义的强处与弱点，讨论其二十世纪之交的鼎盛期，并与结构主义的当代诸版本相较。
+  - id: 11
+    kind: body
+    source: |-
+      ## 2. Motivation
+    step1: |-
+      ## 2. 动机
+    step2: |-
+      ## 2. 动机
+  - id: 12
+    kind: body
+    source: |-
+      Deductivism is interesting and important for a host of reasons. The first is that it gives proof, indisputably of paramount importance in mathematics, pride of place. Mathematicians take a result to be established only if it has been proved. It is natural to explore what happens if we take this one step further and take mathematical truth to be, not just *established*, but *constituted*, by the existence of a (possibly not yet known) proof.
+    step1: |-
+      演绎主义之有趣与重要，有诸多理由。第一，它把证明——在数学中无可争议地具有最高重要性者——置于首位。数学家认为一个结果唯有被证明才成立。把这一点再推进一步，即把数学真理看作不仅由证明所*确立*，而由（可能尚未为人所知的）证明之存在所*构成*——探索如此会有什么后果，是自然的。
+    step2: |-
+      演绎主义之有趣与重要，理由诸多。第一，它把证明——数学中无可争议地最具重要性者——置于首位：数学家认为结果唯有经证明才算成立。把这一点再推进一步，即认为数学真理不只由证明所*确立*，而由（或许尚未为人所知的）证明之存在所*构成*，探索其后果自是自然之举。
+  - id: 13
+    kind: body
+    source: |-
+      Second, many mathematicians profess to believe in deductivism or something like it (Maddy 2022: 9)[^maddy-2022]. Ask mathematicians what their subject is about and at least some will reply that it is about “what can be deduced from the axioms”. Naturally, a slogan like this is not a worked-out philosophy, and is more often encountered in conversation than in print. Still, if the slogan and the sentiment behind it point to any specific philosophy, surely it is to deductivism. Moreover, most parts of mathematics are explicitly understood as exploring consequences of stipulated axioms,[^note-1] which deductivism spells out in its own way and generalises to all mathematics. Not only that, but as §3 will briefly document, many influential philosophers of mathematics from the late nineteenth to the early twentieth century were, or could be interpreted as, deductivists.
+    step1: |-
+      第二，许多数学家声言相信演绎主义或类似的东西（Maddy 2022: 9）[^maddy-2022]。问数学家他们的学科关乎什么，至少有些人会答：关乎“从公理能推出什么”。自然，这样的口号并非一套成熟的哲学，且多见于口头而非文字。尽管如此，若这口号及其背后的情绪指向任何具体的哲学，那必定是演绎主义。此外，数学的大部分领域都明确地被理解为探究设定公理的后果，[^note-1] 而演绎主义以自己的方式把这一点讲明，并推广到全部数学。不仅如此，如第 3 节将要简述的，十九世纪末至二十世纪初许多有影响的数学哲学家是、或可被解读为演绎主义者。
+    step2: |-
+      第二，许多数学家声称相信演绎主义或类似主张（Maddy 2022: 9）[^maddy-2022]。问数学家其学科关乎什么，至少有些人会答：关乎“从公理能推出什么”。这样的口号自然不是成熟哲学，且多见于口头而非文字；但若口号及其背后的情绪指向任何具体哲学，那必是演绎主义。此外，数学的大部分领域都明确被理解为探究设定公理的后果，[^note-1] 演绎主义则以自己的方式讲明此点并推广至全部数学。不仅如此，如第 3 节将简述，十九世纪末至二十世纪初许多有影响的数学哲学家即是、或可解读为演绎主义者。
+  - id: 14
+    kind: body
+    source: |-
+      Third, and this might go some way towards explaining the second point, deductivism is seen as philosophically “clean” (Rheinwald 1984: 49)[^rheinwald-1984] or a way to “avoid philosophical quicksand” (Maddy 2022: 9)[^maddy-2022]. On the epistemological side, the deductivist’s main task is to account for the epistemology of deductive logic—there is no further specific problem of mathematical epistemology. On the metaphysical side, the deductivist construal appears not to presuppose any abstract mathematical objects, often seen as problematic. A further point in deductivism’s favour is that it respects the presumed objectivity of mathematics, because what follows from the axioms is an objective matter, independent of us. Moreover, deductivism seems to offer a promising account of applications: whenever you find a physical system that satisfies the axioms of a particular branch of mathematics, the branch’s theorems must apply to the system. (We shall return to these alleged attractions below.)
+    step1: |-
+      第三——这或许可在某种程度上解释第二点——演绎主义被视为哲学上“干净”的（Rheinwald 1984: 49）[^rheinwald-1984]，或是“避开哲学流沙”的一条途径（Maddy 2022: 9）[^maddy-2022]。在认识论一侧，演绎主义者的主要任务是说明演绎逻辑的认识论——此外没有专门的数学认识论问题。在形而上学一侧，演绎主义的诠释看来不预设任何抽象数学对象，而后者常被视为成问题。另一点有利于演绎主义之处是：它尊重数学被推定的客观性，因为从公理推出什么乃是客观之事，独立于我们。此外，演绎主义似乎为应用提供了一个有希望的说明：只要你找到一个满足某数学分支公理的物理系统，该分支的定理就必定适用于该系统。（这些所谓吸引力，下文再议。）
+    step2: |-
+      第三——这或可部分解释第二点——演绎主义被视为哲学上“干净”（Rheinwald 1984: 49）[^rheinwald-1984]，或是“避开哲学流沙”之途（Maddy 2022: 9）[^maddy-2022]。认识论一侧，演绎主义者的主要任务是说明演绎逻辑的认识论——此外别无专门的数学认识论问题；形而上学一侧，其诠释似不预设任何抽象数学对象，而后者常被视为成问题。另一点有利之处是：它尊重数学被推定的客观性——从公理推出什么乃客观之事，独立于我们。此外，它似为应用提供有希望的说明：只要你找到满足某数学分支公理的物理系统，该分支定理便必适用于该系统。（这些所谓吸引力，下文再议。）
+  - id: 15
+    kind: body
+    source: |-
+      The fourth and final reason is that deductivism and structuralism are related. Indeed, deductivism is seen by some (e.g., Bostock 2009: 183)[^bostock-2009] as a syntactic version of eliminative structuralism. And structuralism, in its various guises, and its various problems notwithstanding, is one of the most attractive metaphysics of mathematics on the market today.[^note-2]
+    step1: |-
+      第四、也是最后的理由，是演绎主义与结构主义相关联。事实上，一些人（如 Bostock 2009: 183）[^bostock-2009] 把演绎主义视为消除式结构主义的句法版本。而结构主义，尽管有种种形态、种种问题，仍是当今市面上最有吸引力的数学形而上学之一。[^note-2]
+    step2: |-
+      第四亦即最后的理由，是演绎主义与结构主义相关。事实上，一些人（如 Bostock 2009: 183[^bostock-2009]）视演绎主义为消除式结构主义的句法版本；而结构主义虽有种种形态与问题，仍是当今最有吸引力的数学形而上学之一。[^note-2]
+  - id: 16
+    kind: body
+    source: |-
+      Deductivism and eliminative structuralism share some general features. Roughly speaking, both understand a mathematical claim $p$ as “the axioms imply that $p$” (where “the axioms” may be understood as those of the germane branch of mathematics or otherwise—for different versions of deductivism, see §4). Deductivism understands the relevant implication deductively, eliminative structuralism semantically. For deductivists, the relevant notion of implication or consequence is the syntactic one which in logic is denoted by “$\vdash$”; to say that $\Gamma \vdash \delta$ is to say that the sentence $\delta$ is derivable from $\Gamma$ in some specified deductive system. For eliminative structuralists, the relevant notion of implication or consequence is instead the semantic one which in logic is denoted by “$\vDash$”. Eliminative structuralists, for example, construe “$2 + 2 = 4$” as a claim about what holds in any structure in which the axioms of arithmetic are satisfied.[^note-3]
+    step1: |-
+      演绎主义与消除式结构主义共享一些一般特征。粗略地说，二者都把数学断言 $p$ 理解为“公理蕴涵 $p$”（其中“公理”可理解为相关数学分支的公理，或别的什么——演绎主义的不同版本见第 4 节）。演绎主义把相关蕴涵理解为演绎的，消除式结构主义则理解为语义的。对演绎主义者而言，相关的蕴涵或后承概念是在逻辑中以“$\vdash$”表示的句法概念；说 $\Gamma \vdash \delta$，就是说语句 $\delta$ 在某个指定的演绎系统中可由 $\Gamma$ 导出。对消除式结构主义者而言，相关的蕴涵或后承概念则是逻辑中以“$\vDash$”表示的语义概念。例如，消除式结构主义者把“$2 + 2 = 4$”理解为关于“凡满足算术公理的结构中何者成立”的断言。[^note-3]
+    step2: |-
+      演绎主义与消除式结构主义共享若干一般特征：粗略地说，二者都把数学断言 $p$ 理解为“公理蕴涵 $p$”（“公理”可指相关数学分支的公理，亦可指别的——不同版本见第 4 节）。区别在于：演绎主义把相关蕴涵理解为演绎的，消除式结构主义则理解为语义的。对演绎主义者而言，相关的蕴涵或后承概念是逻辑中以“$\vdash$”表示的句法概念；说 $\Gamma \vdash \delta$，即语句 $\delta$ 可在某指定演绎系统中由 $\Gamma$ 导出。对消除式结构主义者而言，相关的蕴涵或后承概念则是逻辑中以“$\vDash$”表示的语义概念：例如他们把“$2 + 2 = 4$”理解为“凡满足算术公理的结构中何者成立”。[^note-3]
+  - id: 17
+    kind: body
+    source: |-
+      When we dig down into the details, however, some clear differences emerge. Deductivists take mathematical claims to be about sentences, whereas eliminative structuralists take them to be generalisations over structures. Unlike deductivists, eliminative structuralists therefore owe us an account of the metaphysics of structures. Eliminative structuralists also usually couple their account with the existential assertion that a structure of the right kind exists (or could exist), whereas deductivists often omit the corresponding claim that the axioms are consistent. One well-known version of eliminative structuralism, first articulated by Putnam (1967b) and developed by Hellman (1989), is modal, whereas deductivism is usually not modal. (Although see §5 for how to spell out deductivism in terms of a primitive modal operator.) Finally, eliminative structuralism is but one of the many forms of structuralism around today. Some, such as Hellman’s version, have much in common with the eliminative variety closest to deductivism; others, such as Shapiro’s ante rem structuralism (Shapiro 1997)[^shapiro-1997], less so.
+    step1: |-
+      然而，当我们深入细节，一些明显的差异便显现出来。演绎主义者认为数学断言关乎语句，消除式结构主义者则认为它们是对结构的一般化断言。因此，与演绎主义者不同，消除式结构主义者欠我们一个关于结构之形而上学的说明。消除式结构主义者通常还把其说明与“存在（或可能存在）一个适当类型的结构”这一存在性断言结合起来，而演绎主义者常常省略“公理是一致的”这一相应断言。消除式结构主义一个著名版本由 Putnam（1967b）首先表述、由 Hellman（1989）发展，是模态的；而演绎主义通常不是模态的。（不过，如何以原始模态算子来表述演绎主义，见第 5 节。）最后，消除式结构主义只是当今众多结构主义形态之一。有些形态（如 Hellman 的版本）与最接近演绎主义的消除式变体共通颇多；另一些（如 Shapiro 的先于实在的结构主义（Shapiro 1997）[^shapiro-1997]）则较少。
+    step2: |-
+      然而深入细节，一些明显差异便显现出来。演绎主义者认为数学断言关乎语句，消除式结构主义者则认为它们是对结构的一般化。因此与演绎主义者不同，后者欠我们一个关于结构之形而上学的说明。消除式结构主义者通常还把其说明与“存在（或可能存在）一个适当类型的结构”这一存在断言结合；演绎主义者则常省略“公理是一致的”这一相应断言。消除式结构主义有一著名版本，由 Putnam（1967b）首述、Hellman（1989）发展，是模态的；演绎主义通常不是。（不过，如何以原始模态算子表述演绎主义，见第 5 节。）最后，消除式结构主义只是当今众多结构主义形态之一：有些（如 Hellman 的版本）与最接近演绎主义的消除式变体共通甚多，另一些（如 Shapiro 的先于实在的结构主义，Shapiro 1997[^shapiro-1997]）则较少。
+  - id: 18
+    kind: body
+    source: |-
+      Still, despite these differences, there are some clear historical and philosophical continuities between the two, so that getting clear about deductivism’s flaws can help us better appreciate the virtues of a broadly structuralist approach. What is certainly true is that prior to Gödel’s 1929 Completeness Theorem for first-order logic (published as a paper the following year), the differences between deductivism and eliminative structuralism were not clearly understood. This point will be illustrated in the historical §3. Also relevant to the story is Gödel’s 1931 First Incompleteness Theorem, which will form the basis of a key objection to deductivism in §9.[^note-4]
+    step1: |-
+      然而，尽管有这些差异，二者之间仍有清楚的历史与哲学连续性，因此弄清演绎主义的缺陷，能帮助我们更好地领会一种广义结构主义进路的优点。确凿无疑的是：在哥德尔 1929 年一阶逻辑完全性定理（次年发表）之前，演绎主义与消除式结构主义之间的差别并未被清楚地理解。这一点将在历史性的第 3 节中得到说明。与这一叙事相关的还有哥德尔 1931 年第一不完全性定理，它将构成第 9 节对演绎主义的关键反驳之基础。[^note-4]
+    step2: |-
+      尽管有这些差异，二者之间仍有清楚的历史与哲学连续性；故弄清演绎主义的缺陷，有助于更好领会广义结构主义进路的优点。确凿无疑者是：在哥德尔 1929 年一阶逻辑完全性定理（次年发表）之前，演绎主义与消除式结构主义之别并未被清楚理解——这一点将在历史性的第 3 节中说明。相关者还有哥德尔 1931 年第一不完全性定理，它构成第 9 节关键反驳的基础。[^note-4]
+  - id: 19
+    kind: body
+    source: |-
+      A final point of connection is that, when the background logic is axiomatizable, eliminative structuralism and deductivism offer an extensionally equivalent account of mathematical truth.[^note-5] The simple reason is that, for an axiomatizable logic, such as first-order logic, semantic implication is extensionally equivalent to deductive inference. So suppose you are tempted by eliminative structuralism in the philosophy of mathematics and use first-order logic as your default logic.[^note-6] You will then take $p$ to be a mathematical truth exactly when a (first-order) deductivist does. Avoiding a “lapse into a semantic equivalent of deductivism” was precisely one of the reasons Hellman chose a second-order framework for his modal version of eliminative structuralism (Hellman 1989: 18–19)[^hellman-1989]. As explained, however, eliminative structuralism and deductivism are not equivalent in any stronger sense than this extensional one, even when their shared background logic is axiomatisable.
+    step1: |-
+      最后一个关联点是：当背景逻辑可公理化时，消除式结构主义与演绎主义对数学真理给出外延等值的说明。[^note-5] 理由很简单：对可公理化的逻辑（如一阶逻辑）而言，语义蕴涵与外延上等值于演绎推理。所以，假设你被消除式结构主义吸引，并以一阶逻辑为默认逻辑。[^note-6] 那么你把 $p$ 视为数学真理的条件，恰与一个（一阶）演绎主义者相同。避免“沦为演绎主义的语义等价物”，正是 Hellman 为其模态版消除式结构主义选择二阶框架的理由之一（Hellman 1989: 18–19）[^hellman-1989]。然而如已说明，即便共享的背景逻辑可公理化，消除式结构主义与演绎主义也不在此外延意义之外的任何更强意义上等价。
+    step2: |-
+      最后一个关联点是：背景逻辑可公理化时，消除式结构主义与演绎主义对数学真理给出外延等值的说明。[^note-5] 理由很简单：对可公理化的逻辑（如一阶逻辑）而言，语义蕴涵于外延上等值于演绎推理。故若你受消除式结构主义吸引并以一阶逻辑为默认逻辑，[^note-6] 则你把 $p$ 视为数学真理的条件，恰与一个（一阶）演绎主义者相同。避免“沦为演绎主义的语义等价物”，正是 Hellman 为模态版消除式结构主义择取二阶框架的理由之一（Hellman 1989: 18–19）[^hellman-1989]。但如已说明，即便共享背景逻辑可公理化，二者也不在此外延意义之外任何更强意义上等价。
+  - id: 20
+    kind: body
+    source: |-
+      A terminological note: deductivism is sometimes called “if-thenism”. However, “if-thenism” sounds more like the genus whose syntactic and semantic species are deductivism and eliminative structuralism respectively. Rheinwald (1984: 49) uses the name “implicationism” for the genus, reserving “syntactic implicationism” for deductivism and “semantic implicationism” for structuralism. This terminology manages to cover both genus and species and also has the great merit of transparency. The present entry sticks to “deductivism” and “structuralism” for the two species, because these names are the more usual ones today (and are shorter).
+    step1: |-
+      一条术语说明：演绎主义有时被称作“如果—那么主义”（if-thenism）。然而，“如果—那么主义”听起来更像是一个属名，其句法种与语义种分别是演绎主义与消除式结构主义。Rheinwald（1984: 49）用“蕴涵主义”作属名，以“句法蕴涵主义”专指演绎主义、以“语义蕴涵主义”专指结构主义。这一术语兼顾属与种，且有透明易懂之大功。本词条沿用“演绎主义”与“结构主义”两个种名，因为它们在今天更为常用（也更短）。
+    step2: |-
+      术语说明：演绎主义有时被称为“如果—那么主义”（if-thenism）。然而该名听来更像属名，其句法种与语义种分别为演绎主义与消除式结构主义。Rheinwald（1984: 49）以“蕴涵主义”为属名，以“句法蕴涵主义”专指演绎主义、“语义蕴涵主义”专指结构主义：这一术语兼顾属与种，且以透明易懂见长。本词条仍用“演绎主义”与“结构主义”两个种名，因其今日更为常用（也更短）。
+  - id: 21
+    kind: body
+    source: |-
+      ## 3. Historical Accounts
+    step1: |-
+      ## 3. 历史诸说
+    step2: |-
+      ## 3. 历史诸说
+  - id: 22
+    kind: body
+    source: |-
+      This section covers four historical accounts of deductivism, advocated by Russell (§3.1), Hilbert (§3.2), Pasch (§3.3), and Curry (§3.4) respectively. The first three are pre-Gödelian; the fourth is a post-Gödelian attempt to defend deductivism.
+    step1: |-
+      本节讨论四种关于演绎主义的历史学说，分别由罗素（3.1）、希尔伯特（3.2）、帕施（3.3）与柯里（3.4）主张。前三种是前哥德尔式的；第四种是后哥德尔式为演绎主义辩护的尝试。
+    step2: |-
+      本节讨论四种关于演绎主义的历史学说，分别由罗素（3.1）、希尔伯特（3.2）、帕施（3.3）、柯里（3.4）主张。前三种属前哥德尔时期，第四种是后哥德尔时期为演绎主义辩护的尝试。
+  - id: 23
+    kind: body
+    source: |-
+      Attributing deductivism to older authors is harder than it may initially appear, and the existing literature offers no attempts to do so in a comparative way. The difficulty is owed to several conflating factors. The main one is that, before Gödel, there was no clear distinction between semantic and syntactic consequence. And terminological confusion does not help: Curry, for example, refers to his deductivism as “formalism”, a label usually reserved for a different position. This article thus focuses on classifying authors’ substantive claims. A comparison with Brouwer (§3.5), who emphasised proof in mathematics but was no deductivist, will also be relevant.
+    step1: |-
+      把演绎主义归给较早的作者，比初看时要困难，而现有文献中没有任何以比较方式作出此类归属的尝试。困难源于若干混淆因素。主要者是：在哥德尔之前，语义后承与句法后承之间没有清楚区分。术语混乱也无助于事：例如柯里把自己的演绎主义称作“形式主义”，而这一标签通常留给另一种立场。因此本文专注于给作者的实质主张分类。与布劳威尔的比较（3.5）也会相关——布劳威尔在数学中强调证明，却不是演绎主义者。
+    step2: |-
+      把演绎主义归给较早作者，比初看时困难，且现有文献未见以比较方式作此类归属者。困难源于若干混淆因素，主要者是：哥德尔之前，语义后承与句法后承并无清楚区分。术语混乱亦无助于事：柯里便把自家演绎主义称作“形式主义”，而此标签通常留给另一立场。故本文专注为作者之实质主张分类。与布劳威尔（3.5）之比较亦相关——他虽在数学中强调证明，却非演绎主义者。
+  - id: 24
+    kind: body
+    source: |-
+      ### 3.1 Russell
+    step1: |-
+      ### 3.1 罗素
+    step2: |-
+      ### 3.1 罗素
+  - id: 25
+    kind: body
+    source: |-
+      Russell’s *The Principles of Mathematics* was published in 1903. The book’s very first sentence contains Russell’s credo about what mathematics is:
+    step1: |-
+      罗素的《数学的原则》出版于 1903 年。该书开篇第一句即含罗素关于数学是什么的信条：
+    step2: |-
+      罗素《数学的原则》刊于 1903 年，其开篇第一句即含罗素关于“数学是什么”的信条：
+  - id: 26
+    kind: body
+    source: |-
+      > Pure mathematics is the class of all propositions of the form “$p$ implies $q$”, where $p$ and $q$ are propositions containing one or more variables, the same in the two propositions, and neither $p$ nor $q$ contains any constants except logical constants (Russell 1903 [2009: 3])[^russell-1903].
+    step1: |-
+      > 纯粹数学是形如“$p$ 蕴涵 $q$”的一切命题之类，其中 $p$ 与 $q$ 是含有一个或多个变量的命题，两个命题中的变量相同，且 $p$ 与 $q$ 都不含除逻辑常项之外的任何常项（Russell 1903 [2009: 3]）[^russell-1903]。
+    step2: |-
+      > 纯粹数学是形如“$p$ 蕴涵 $q$”的一切命题之类：其中 $p$ 与 $q$ 是含一个或多个变量的命题，两命题中变量相同，且 $p$ 与 $q$ 皆不含逻辑常项之外的任何常项（Russell 1903 [2009: 3]）[^russell-1903]。
+  - id: 27
+    kind: body
+    source: |-
+      It may seem odd that the propositions $p$ and $q$ are supposed to contain at least one variable. Yet, according to Russell, even “$1+1=2$” contains variables once made fully explicit—namely “If $x$ is one and $y$ is one, and $x$ differs from $y$, then $x$ and $y$ are two” (Russell 1903 [2009: 6])[^russell-1903].
+    step1: |-
+      命题 $p$ 与 $q$ 被要求至少含一个变量，这或许显得奇怪。但按罗素，即便“$1+1=2$”在被完全明确表述之后也含有变量——即“如果 $x$ 是一、$y$ 是一，且 $x$ 不同于 $y$，那么 $x$ 与 $y$ 是二”（Russell 1903 [2009: 6]）[^russell-1903]。
+    step2: |-
+      命题 $p$ 与 $q$ 须至少含一个变量，此举或显奇怪。但按罗素，即便“$1+1=2$”在完全明确表述后也含变量：“如果 $x$ 是一、$y$ 是一，且 $x$ 不同于 $y$，那么 $x$ 与 $y$ 是二”（Russell 1903 [2009: 6]）[^russell-1903]。
+  - id: 28
+    kind: body
+    source: |-
+      Is Russell’s credo a form of deductivism or structuralism, or some admixture of the two? At the turn of the twentieth century, no one clearly distinguished semantics and syntax, and Russell was no exception. This led Putnam to claim that what Russell really had in mind was, in our terminology, eliminative structuralism. (Putnam christened the structuralism he attributed to Russell “if-thenism”; as explained in §2, this entry avoids the term.) He urged:
+    step1: |-
+      罗素的信条是演绎主义的一种形式，还是结构主义，抑或二者的混合？在二十世纪之交，没有人清楚区分语义与句法，罗素也不例外。这使 Putnam 主张：罗素真正想表达的，用我们的术语说，是消除式结构主义。（Putnam 把他归给罗素的结构主义命名为“如果—那么主义”；如第 2 节所释，本词条避开该词。）他力陈：
+    step2: |-
+      罗素的信条属演绎主义形式，还是结构主义，抑或二者之混合？二十世纪之交无人清楚区分语义与句法，罗素亦然。这使 Putnam 主张：罗素真正所想者，用我们的术语说，是消除式结构主义。（Putnam 把归给罗素的结构主义命名为“如果—那么主义”；如第 2 节所释，本词条避开该词。）他力辩：
+  - id: 29
+    kind: body
+    source: |-
+      > What he meant was not, of course, that all well formed formulas in mathematics have a horseshoe as the main connective! but that mathematicians are in the business of showing that *if* there is any structure which satisfies such-and-such axioms (e.g., the axioms of group theory), *then* that structure satisfies such-and-such further statements (some theorems of group theory or other) (Putnam 1967a [1975: 20])[^putnam-1967a].
+    step1: |-
+      > 他当然不是说数学中一切合式公式都以马蹄形符号为主联结词！而是说，数学家的事业在于表明：*如果*存在任何满足某某公理（如群论公理）的结构，*那么*该结构满足某某进一步的陈述（群论的某些定理或别的定理）（Putnam 1967a [1975: 20]）[^putnam-1967a]。
+    step2: |-
+      > 他当然不是说数学中一切合式公式都以马蹄形符号为主联结词！而是说，数学家的事业在于表明：*如果*存在任何满足某某公理（如群论公理）的结构，*那么*该结构满足某某进一步的陈述（群论的某些定理或别的定理）（Putnam 1967a [1975: 20]）[^putnam-1967a]。
+  - id: 30
+    kind: body
+    source: |-
+      However, Putnam’s structuralist interpretation of Russell is controversial, not least because a structuralist reading appears to explicitly contradict the deductivist wording of several passages (Kraal 2014: 1498)[^kraal-2014]. For example, with pure mathematics defined in the above way, Russell went on to assert that
+    step1: |-
+      然而，Putnam 对罗素的结构主义解读是有争议的，尤其因为结构主义读法似乎明确抵触若干段落的演绎主义措辞（Kraal 2014: 1498）[^kraal-2014]。例如，在以如上方式界定纯粹数学之后，罗素紧接着断言：
+    step2: |-
+      然而 Putnam 对罗素的结构主义解读颇有争议：结构主义读法似明确抵触若干段落的演绎主义措辞（Kraal 2014: 1498）[^kraal-2014]。例如，罗素以如上方式界定纯粹数学后，随即断言：
+  - id: 31
+    kind: body
+    source: |-
+      > [b]y the help of ten principles of deduction and ten other premisses of a general logical nature (e.g., “implication is a relation”), all mathematics can be strictly and formally deduced; and all the entities that occur in mathematics can be defined in terms of those that occur in the above twenty premisses (Russell 1903 [2009: 3])[^russell-1903].
+    step1: |-
+      > 借助十条演绎原则与另外十条一般逻辑性质的前提（如“蕴涵是一种关系”），全部数学都能被严格而形式地演绎出来；而数学中出现的一切实体，都能用上述二十条前提中出现的实体来定义（Russell 1903 [2009: 3]）[^russell-1903]。
+    step2: |-
+      > 借助十条演绎原则与另外十条一般逻辑性质的前提（如“蕴涵是一种关系”），全部数学皆可严格而形式地演绎出来；数学中出现的一切实体，皆可用上述二十条前提中出现的实体来定义（Russell 1903 [2009: 3]）[^russell-1903]。
+  - id: 32
+    kind: body
+    source: |-
+      The emphasis here is clearly on deduction.
+    step1: |-
+      此处的重点显然在演绎。
+    step2: |-
+      此处的重心显然落在演绎上。
+  - id: 33
+    kind: body
+    source: |-
+      To prove the above deducibility claim is the stated objective of *The Principles of Mathematics* (Russell 1903 [2009: xiii])[^russell-1903]. And like everyone else at the time, Russell tended to assume that logical implication is a deductive relation. Thus, even if it was not his intention to differentiate semantics and syntax sharply, as he historically was not in a position to do, his credo combined with the equation of logical with deductive implication committed him to deductivism. Hence *The Principles*’ key doctrine is more plausibly construed as a version of deductivism than eliminative structuralism.[^note-7]
+    step1: |-
+      证明上述可演绎性主张，是《数学的原则》明确陈述的目标（Russell 1903 [2009: xiii]）[^russell-1903]。而与当时所有人一样，罗素倾向于假定逻辑蕴涵是一种演绎关系。因此，即便他无意严格区分语义与句法——从历史条件看他也无从如此——他的信条加上“逻辑蕴涵即演绎蕴涵”这一等式，仍使他承诺了演绎主义。所以《原则》的核心学说，更可信地被解读为演绎主义的一个版本，而非消除式结构主义。[^note-7]
+    step2: |-
+      证明上述可演绎性主张，是《数学的原则》明言的目标（Russell 1903 [2009: xiii]）[^russell-1903]。与当时所有人一样，罗素也倾向于假定逻辑蕴涵即演绎关系。故即便他无意严格区分语义与句法——以历史条件论他也无从如此——其信条加上“逻辑蕴涵＝演绎蕴涵”这一等式，仍使他承诺演绎主义。因此《原则》的核心学说更可信地是演绎主义的一个版本，而非消除式结构主义。[^note-7]
+  - id: 34
+    kind: body
+    source: |-
+      ### 3.2 Hilbert
+    step1: |-
+      ### 3.2 希尔伯特
+    step2: |-
+      ### 3.2 希尔伯特
+  - id: 35
+    kind: body
+    source: |-
+      Other contemporaries of Russell’s also displayed deductivist leanings. Resnik classified Hilbert’s work of around 1900 as a “deductivist period” (1980: 105). However, Hilbert at the time endorsed what can now be separated out as deductivism on the one hand and some form of proto-structuralism on the other. He made no distinction between the two, as we would today, because he assumed complete axiomatisations and proof systems were available.
+    step1: |-
+      罗素的其他同代人也显示出演绎主义倾向。Resnik 把希尔伯特 1900 年前后的工作归为“演绎主义时期”（1980: 105）。然而，希尔伯特当时同时认可今天可以分离出来的两样东西：一方面是演绎主义，另一方面是某种原型结构主义。他未像我们今天那样区分二者，因为他假定完全的公理化与证明系统业已具备。
+    step2: |-
+      罗素的同代人中亦有显露演绎主义倾向者：Resnik 把希尔伯特 1900 年前后的工作归为“演绎主义时期”（1980: 105）。然而希尔伯特当时同时认可今日可分离的两样东西——演绎主义与某种原型结构主义。他未如今日般区分二者，因其假定完全公理化与证明系统业已具备。
+  - id: 36
+    kind: body
+    source: |-
+      Consider Hilbert’s 1900 “About the Concept of Number”. In the introduction, Hilbert declares that he intends to apply the axiomatic method, known from geometry, to the concept of number (1900a: 181). He contrasts the axiomatic method with the *ad hoc* approach usually found in the literature of the time. The purpose of his axiomatic approach is to achieve the “final presentation and logical certainty of the content of our understanding” (ibid). He begins by setting out eighteen axioms for the real numbers. To give a flavour, the first axiom is
+    step1: |-
+      试看希尔伯特 1900 年的《论数的概念》。在导言中，希尔伯特宣称他打算把几何学中已知的公理方法应用于数的概念（1900a: 181）。他把公理方法与当时文献中常见的*权宜*进路相对照。其公理进路的目的，是达成“我们知性内容的最终呈现与逻辑确定性”（同上）。他先列出实数的十八条公理。为见其风味，第一条公理是
+    step2: |-
+      试看希尔伯特 1900 年的《论数的概念》。导言中他宣称要把几何学已知的公理方法施于数的概念（1900a: 181），并以之对照当时文献常见的*权宜*进路；其目的在达成“我们知性内容的最终呈现与逻辑确定性”（同上）。他先列出实数十八条公理，第一条为
+  - id: 37
+    kind: body
+    source: |-
+      > From the number $a$ and the number $b$ results through “addition” a specific number $c$, formally: $a + b = c$ or $c = a + b$. (1900a: 18)
+    step1: |-
+      > 由数 $a$ 与数 $b$ 通过“加法”得到一特定数 $c$，形式地写作：$a + b = c$ 或 $c = a + b$。（1900a: 18）
+    step2: |-
+      > 由数 $a$ 与数 $b$ 通过“加法”得到一特定数 $c$，形式地写作：$a + b = c$ 或 $c = a + b$。（1900a: 18）
+  - id: 38
+    kind: body
+    source: |-
+      Hilbert then asserts that propositions about the real numbers are only valid (*gültig*) if they can be proven from the set of axioms in a finite number of steps (1900a: 184).
+    step1: |-
+      希尔伯特随后断言：关于实数的命题只有在能以有限步从公理集得证时才有效（*gültig*）（1900a: 184）。
+    step2: |-
+      希尔伯特随后断言：关于实数的命题，唯有能以有限步自公理集得证者方为有效（*gültig*）（1900a: 184）。
+  - id: 39
+    kind: body
+    source: |-
+      The reason for this insistence is explained in his famous lecture to the International Congress of Mathematicians in Paris in the same year (published as “Mathematical Problems”). Here Hilbert expresses the “absolute conviction” that any mathematical problem, no matter how difficult, must be solvable “through a finite number of purely logical steps” (1900b: 261). He maintains that this conviction is shared by all mathematicians and is a major source of motivation; but he also notes that we have no proof that the finite-derivability claim is true (1900b: 262). Despite the absence of such a proof, he takes this conviction to be the natural *modus operandi* of the working mathematician. In “Mathematical Problems”, Hilbert also maintains that, to the extent that new concepts are introduced in mathematics—say, due to their usefulness in scientific explanations—those concepts need to be axiomatized to make them useful for deduction:
+    step1: |-
+      这一坚持的理由，见于他同年向巴黎国际数学家大会的著名演讲（以《数学问题》刊行）。希尔伯特在此表达“绝对确信”：任何数学问题，无论多难，都必定可“通过有限次纯粹逻辑步骤”解决（1900b: 261）。他主张这一确信为一切数学家所共有，且是动机的主要来源之一；但他也指出，我们并无证明表明“有限可导出性”这一主张为真（1900b: 262）。尽管缺少这样的证明，他仍把这一确信视为工作数学家的自然*工作方式*。在《数学问题》中，希尔伯特还主张：就数学中引入新概念而言——比如说，因其在科学解释中的用处——这些概念需要被公理化，方能用于演绎：
+    step2: |-
+      这一坚持的理由见于他同年向巴黎国际数学家大会的著名演讲（以《数学问题》刊行）。希尔伯特在其中表达“绝对确信”：任何数学问题无论多难，都必可“通过有限次纯粹逻辑步骤”解决（1900b: 261）；他主张此确信为一切数学家共有，且是动机的主要来源之一，但也指出我们并无证明表明“有限可导出性”为真（1900b: 262）。尽管缺少此证明，他仍视之为工作数学家的自然*工作方式*。他又主张：就数学引入新概念而言——比如说，因其在科学解释中的用处——这些概念须被公理化，方能用于演绎：
+  - id: 40
+    kind: body
+    source: |-
+      > [Their introduction] gives birth to the task for mathematics to research the principles associated with the new concept and then to fix them in a simple and complete axiom system in such a way that the new concepts and their usability *for deduction* is in no way inferior to the old arithmetical concepts. (1900b: 259, our translation and emphasis)
+    step1: |-
+      > ［它们的引入］为数学带来这样的任务：研究与该新概念相关的原理，然后以简单而完备的公理系统把它们固定下来，使得新概念及其*用于演绎*的可用性毫不逊于旧有的算术概念。（1900b: 259，拙译并加着重）
+    step2: |-
+      > ［它们的引入］为数学带来这样的任务：研究与该新概念相关的原理，再以简单而完备的公理系统将其固定，使新概念及其*用于演绎*的可用性毫不逊于旧有算术概念。（1900b: 259，拙译并加着重）
+  - id: 41
+    kind: body
+    source: |-
+      At the same time as emphasising the importance of a deductive framework, Hilbert endorsed proto-structuralist ideas. He mentions “thinking of a system of objects”, saying we “call those objects numbers” and “denote them with *a*, *b*, *c*” (1900a: 181). In his correspondence with Frege one year earlier, for example, Hilbert noted that
+    step1: |-
+      在强调演绎框架之重要性的同时，希尔伯特也认可了原型结构主义观念。他提到“思考一个对象系统”，说我们“称那些对象为数”，并“用 *a*、*b*、*c* 表示它们”（1900a: 181）。例如在一年前与弗雷格的通信中，希尔伯特指出：
+    step2: |-
+      希尔伯特在强调演绎框架之重要性的同时，也认可了原型结构主义观念：他提到“思考一个对象系统”，说我们“称那些对象为数”并“以 *a*、*b*、*c* 表示之”（1900a: 181）。例如在一年前致弗雷格的信中，他指出：
+  - id: 42
+    kind: body
+    source: |-
+      > E.g., instead of points, think of a system of love, law, chimney-sweep … which satisfies all axioms; then Pythagoras’ theorem also applies to these things. Any theory can always be applied to infinitely many systems of basic elements. (Letter from 29 Dec 1899, Frege 1976 [1980: 42])[^frege-1976]
+    step1: |-
+      > 例如，不要把点，而要把一个满足一切公理的爱、法、扫烟囱人的系统设想出来……那么毕达哥拉斯定理也适用于这些东西。任何理论总能被应用于无穷多个基本元素系统。（1899年12月29日信，Frege 1976 [1980: 42]）[^frege-1976]
+    step2: |-
+      > 例如，不要把点，而要把一个满足一切公理的爱、法、扫烟囱人的系统设想出来……那么毕达哥拉斯定理也适用于这些东西。任何理论总能被应用于无穷多个基本元素系统。（1899年12月29日信，Frege 1976 [1980: 42]）[^frege-1976]
+  - id: 43
+    kind: body
+    source: |-
+      Hilbert moved fluidly between both deductivism and proto-structuralism by relying on the completeness assumption. For example, in his letter to Frege dated 29 December 1899, he stated that if the axioms in an axiom system do not contradict one another,
+    step1: |-
+      希尔伯特依靠完全性假定，在演绎主义与原型结构主义之间自如游走。例如在 1899 年 12 月 29 日致弗雷格的信中，他陈述道：若一个公理系统中的公理互不矛盾，
+    step2: |-
+      希尔伯特倚仗完全性假定，在演绎主义与原型结构主义之间自如游走。例如在 1899 年 12 月 29 日致弗雷格的信中，他陈述：若一公理系统中的公理互不矛盾，
+  - id: 44
+    kind: body
+    source: |-
+      > then they are true, and the things defined by the axioms exist. This for me is the criterion of truth and existence. (Letter from 29 Dec 1899, Frege 1976 [1980: 42])[^frege-1976]
+    step1: |-
+      > 那么它们为真，且由这些公理所定义的东西存在。对我而言，这就是真理与存在的判准。（1899年12月29日信，Frege 1976 [1980: 42]）[^frege-1976]
+    step2: |-
+      > 那么它们为真，且由这些公理所定义的东西存在。对我而言，这就是真理与存在的判准。（1899年12月29日信，Frege 1976 [1980: 42]）[^frege-1976]
+  - id: 45
+    kind: body
+    source: |-
+      Note that Hilbert does not maintain that the axioms are true if they have a model—consistency and model-existence are equivalent only if the axiom system is complete.
+    step1: |-
+      注意，希尔伯特并未主张公理有模型则为真——一致性与模型存在只有在公理系统完全时才等价。
+    step2: |-
+      须注意：希尔伯特并未主张“公理有模型则为真”——一致性与模型存在仅在公理系统完全时才等价。
+  - id: 46
+    kind: body
+    source: |-
+      Hilbert at the time, then, was firmly committed to two views. Both understand mathematical claims as true in virtue of implication from axioms. One is that mathematical validity amounts to mathematical provability with a finite number of steps from a finite number of axioms. The second is that mathematics is not about specific objects but that mathematical truth (in a particular domain) is defined by the axioms.
+    step1: |-
+      因此，希尔伯特当时坚定地承诺了两个观点。二者都把数学断言理解为凭由公理而来的蕴涵而真。其一是：数学的有效性等于从有限条公理出发、以有限步数得出的数学可证性。其二是：数学并不关乎特定对象，而是（在特定论域中）由公理来定义数学真理。
+    step2: |-
+      故希尔伯特当时坚定承诺两个观点，二者皆把数学断言理解为凭由公理而来的蕴涵而真：其一，数学的有效性等于自有限条公理出发、以有限步得出的数学可证性；其二，数学并不关乎特定对象，数学真理（在特定论域中）由公理来定义。
+  - id: 47
+    kind: body
+    source: |-
+      We can also observe differences between Russell’s and Hilbert’s varieties of deductivism. By asserting that
+    step1: |-
+      我们还可以观察到罗素式与希尔伯特式演绎主义之间的差异。通过断言
+    step2: |-
+      我们还可观察到罗素式与希尔伯特式演绎主义之别。罗素断言
+  - id: 48
+    kind: body
+    source: |-
+      > all the entities that occur in mathematics can be defined in terms of those that occur in the above twenty premisses,
+    step1: |-
+      > 数学中出现的一切实体都能用上述二十条前提中出现的实体来定义，
+    step2: |-
+      > 数学中出现的一切实体都能用上述二十条前提中出现的实体来定义，
+  - id: 49
+    kind: body
+    source: |-
+      Russell closely links deductivism to the claim that any non-logical vocabulary in axioms and theorems is ultimately eliminable (1903 [2009: xliii]). Thus Russell combines deductivism with a core tenet of logicism, namely that non-logical terms be definable by logical ones.
+    step1: |-
+      罗素把演绎主义与“公理及定理中的一切非逻辑词汇最终都可消除”这一主张紧密联系起来（1903 [2009: xliii]）。因此，罗素把演绎主义与逻辑主义的一条核心信条结合起来，即非逻辑词项可由逻辑词项来定义。
+    step2: |-
+      罗素遂把演绎主义与“公理及定理中一切非逻辑词汇最终可被消除”这一主张紧密相联（1903 [2009: xliii]），从而把演绎主义与逻辑主义的核心信条——非逻辑词项可由逻辑词项定义——结合起来。
+  - id: 50
+    kind: body
+    source: |-
+      For the turn-of-the-century Hilbert by contrast, numerals and other non-logical terms (as we could call them) in our deductions remain primitive. But although not eliminable, they are generic. Hilbert asks us to imagine “a system of things, which we will call numbers” (Hilbert 1900a: 181)[^hilbert-1900a]. The axioms then provide a “precise and complete description of numbers” “mutual relations” (Hilbert 1900a: 181)[^hilbert-1900a]. For as he memorably put it, “one must be able to say at all times—instead of points, straight lines, and planes—tables, chairs and beer mugs” (Kennedy 1972: 133)[^kennedy-1972]. Here Hilbert’s stance effectively derives from Pasch. Pasch had called his method “a formalism” and maintained that mathematical proofs must remain valid if the basic concepts are replaced throughout “by any concepts or by meaningless signs” (Schlimm 2010: 103)[^schlimm-2010].
+    step1: |-
+      相比之下，对世纪之交的希尔伯特而言，数码与我们演绎中的其他非逻辑词项（我们不妨如此称之）仍是初始的。但它们虽不可消除，却是通类的。希尔伯特请我们设想“一个事物系统，我们将称之为数”（Hilbert 1900a: 181）[^hilbert-1900a]。公理随后给出数的“精确而完备的描述”及其“相互关系”（Hilbert 1900a: 181）[^hilbert-1900a]。正如他那句令人难忘的话：“人必须随时都能说——不说点、直线与平面——而说桌子、椅子与啤酒杯”（Kennedy 1972: 133）[^kennedy-1972]。希尔伯特的这一立场实际上源自帕施。帕施曾把自己的方法称作“一种形式主义”，并主张：若基本概念被“换成任何概念或换成无意义的记号”，数学证明仍须保持有效（Schlimm 2010: 103）[^schlimm-2010]。
+    step2: |-
+      相比之下，对世纪之交的希尔伯特而言，数码及其他非逻辑词项（我们不妨如此称之）在演绎中仍是初始的；它们虽不可消除，却是通类的。他请我们设想“一个事物系统，我们将称之为数”（Hilbert 1900a: 181）[^hilbert-1900a]，公理随后给出数的“精确而完备的描述”及其“相互关系”（Hilbert 1900a: 181）[^hilbert-1900a]。正如他那句令人难忘的话：“人必须随时都能说——不说点、直线与平面——而说桌子、椅子与啤酒杯”（Kennedy 1972: 133）[^kennedy-1972]。这一立场实则源自帕施：帕施曾称其方法为“一种形式主义”，并主张若基本概念被“换成任何概念或换成无意义的记号”，数学证明仍须保持有效（Schlimm 2010: 103）[^schlimm-2010]。
+  - id: 51
+    kind: body
+    source: |-
+      ### 3.3 Pasch
+    step1: |-
+      ### 3.3 帕施
+    step2: |-
+      ### 3.3 帕施
+  - id: 52
+    kind: body
+    source: |-
+      This brings us to Moritz Pasch himself, another contemporary of Russell and Hilbert’s who defended a flavour of deductivism. Pasch is best known for his axiomatisation of geometry in his 1882 *Vorlesungen über neuere Geometrie*. A key passage found in the 1882 first edition and, with minimal changes, also in the 1926 second edition, reads as follows:
+    step1: |-
+      这就把我们带到莫里茨·帕施本人——罗素与希尔伯特的又一位同代人，他辩护了一种演绎主义风味。帕施以其 1882 年《新几何学讲义》中的几何公理化最为著名。1882 年第一版中、并在 1926 年第二版中仅作极小改动的关键段落如下：
+    step2: |-
+      这就带到莫里茨·帕施本人——罗素与希尔伯特的又一位同代人，他辩护了一种演绎主义风味。帕施以 1882 年《新几何学讲义》中的几何公理化最为知名。下段见于 1882 年第一版，1926 年第二版仅作极小改动：
+  - id: 53
+    kind: body
+    source: |-
+      > Indeed, if geometry is to be truly deductive [*deduktiv*], deduction [*Deduktion*] must be independent everywhere from the meaning of the geometric terms, just as it must be independent of diagrams; only the relations between the geometric terms specified in the utilised theorems and definitions may be considered. During the deduction [*Deduktion*] it is permitted and useful, but in no way necessary, to think of the meanings of the geometric terms; in fact, if it is necessary to do so, this makes plain the gaps in the *deduction*, and under certain circumstances even the inadequacy of the theorems invoked in the proof (1882/1926, our translation and emphasis).[^note-8]
+    step1: |-
+      > 的确，若几何学要真正是演绎的［*deduktiv*］，则演绎［*Deduktion*］就必须处处独立于几何词项的意义，正如它必须独立于图形；只有所用定理与定义中指定的几何词项之间的关系才可被考虑。在演绎［*Deduktion*］过程中，思考几何词项的意义是允许的、也是有用的，但绝非必要；事实上，若竟有必要如此，这恰恰暴露了*演绎*中的空缺，在某些情况下甚至暴露了证明中所援引定理的不充分（1882/1926，拙译并加着重）。[^note-8]
+    step2: |-
+      > 的确，若几何学要真正是演绎的［*deduktiv*］，则演绎［*Deduktion*］就必须处处独立于几何词项的意义，正如它必须独立于图形；只有所用定理与定义中指定的几何词项之间的关系才可被考虑。在演绎［*Deduktion*］过程中，思考几何词项的意义是允许的、也是有用的，但绝非必要；事实上，若竟有必要如此，这恰恰暴露了*演绎*中的空缺，在某些情况下甚至暴露了证明中所援引定理的不充分（1882/1926，拙译并加着重）。[^note-8]
+  - id: 54
+    kind: body
+    source: |-
+      This passage does two things: it maintains that the meaning of geometrical terms has no role to play in geometry at its most rigorous; and it emphasises proof. So it can be seen as advocating deductivism or, possibly, formalism. “Formalism” here means what is sometimes called “game formalism”, i.e., the thesis that mathematics is a mere play with symbols according to defined rules. However, other passages in Pasch’s corpus favour a deductivist interpretation:
+    step1: |-
+      这段文字做了两件事：它主张几何词项的意义在最严格的几何学中没有角色可演；它强调证明。因此它可以被看作在倡导演绎主义，或者也可能是形式主义。此处的“形式主义”指有时被称作“游戏形式主义”者，即这样一种论旨：数学只是按既定规则摆弄符号的游戏。然而，帕施文集中另一些段落支持演绎主义解读：
+    step2: |-
+      这段文字做了两事：主张几何词项的意义在最严格的几何学中无从发挥作用；并强调证明。故它可视为倡导演绎主义，抑或形式主义。此处“形式主义”指所谓“游戏形式主义”，即数学只是按既定规则摆弄符号的游戏。然而帕施文集中另有段落支持演绎主义解读：
+  - id: 55
+    kind: body
+    source: |-
+      > *Mathematics* is a system with two parts that must be clearly distinguished. The first, the properly mathematical part, *is devoted entirely to deduction*. The second makes deduction possible by introducing and elucidating a *series of insights* that are to serve as material for deduction, preparing new material whenever the deductive part requires it. This second part, dwarfed by the properly mathematical one, can be called the pre-mathematical part, while I might refer to the other as the *rigid part*, since it forms a structure *characterized by the absolute rigor of its inference rules*. Though it is tempting to ignore how rigorous these rules are, that does not make them any less rigorous. *The rigid part is, as I said, mathematics proper. It proceeds by mathematical proof and mathematical definition.* (Pasch 1918 [2010: 51], our emphasis)[^pasch-1918]
+    step1: |-
+      > *数学*是一个系统，含两个必须清楚区分的部分。第一部分是严格意义上的数学部分，*完全致力于演绎*。第二部分通过引入并阐明*一系列洞见*而使演绎成为可能——这些洞见充当演绎的材料，每当演绎部分有所需要便预备新材料。这第二部分与严格意义上的数学部分相比微不足道，可称为前数学部分；而我可以把另一部分称作*刚性部分*，因为它构成一个*以其推理规则的绝对严格性为特征*的结构。尽管人们容易忽视这些规则有多严格，这并不使它们稍减其严格性。*刚性部分，如我所说，才是严格意义上的数学。它通过数学证明与数学定义而进行。*（Pasch 1918 [2010: 51]，拙加着重）[^pasch-1918]
+    step2: |-
+      > *数学*是一个系统，含两个必须清楚区分的部分。第一部分是严格意义上的数学部分，*完全致力于演绎*；第二部分通过引入并阐明*一系列洞见*而使演绎成为可能——这些洞见充当演绎材料，每当演绎部分有所需要便预备新材料。这第二部分较严格意义上的数学部分微不足道，可称为前数学部分；另一部分我则称为*刚性部分*，因为它构成一个*以推理规则的绝对严格性为特征*的结构。人们虽易忽视这些规则有多严格，这并不稍减其严格性。*刚性部分，如我所说，才是严格意义上的数学：它通过数学证明与数学定义而进行。*（Pasch 1918 [2010: 51]，拙加着重）[^pasch-1918]
+  - id: 56
+    kind: body
+    source: |-
+      Pasch thus distinguished between mathematics and what we may call “pre-mathematics”. Mathematics is entirely deductive, whereas pre-mathematics serves to motivate the “material for deduction”. Mathematics “dwarfs” pre-mathematics and is characterised by “absolute rigor of its inference rules”, which is why Pasch calls it “rigid” (*starr*). In light of the above passages, and others, Pasch may reasonably be classified as a deductivist.
+    step1: |-
+      因此，帕施区分了数学与我们不妨称之为“前数学”者。数学完全是演绎的，而前数学则用来提供“演绎的材料”的动机。数学“使前数学显得微不足道”，并以“其推理规则的绝对严格性”为特征，这就是帕施称之为“刚性”（*starr*）的原因。鉴于上引段落以及其他段落，帕施可以合理地归入演绎主义者。
+    step2: |-
+      帕施由此区分数学与所谓“前数学”：数学完全演绎，前数学则为“演绎材料”提供动机。数学“使前数学显得微不足道”，并以“推理规则的绝对严格性”为特征——此即帕施称之为“刚性”（*starr*）之故。鉴于上引及他处段落，帕施可合理归入演绎主义者。
+  - id: 57
+    kind: body
+    source: |-
+      Pasch takes a notably different view from Hilbert as to what, among all the possible sets of axioms a deductivist could adopt, characterises a “good” set of axioms. Hilbert’s response to this question foreshadows his future formalism. In “About the Concept of Number”, he maintains that, once the set of axioms has been proven to be consistent, any further doubt about the existence of the concept number “loses all justification” (Hilbert 1900a: 184)[^hilbert-1900a]. Classically, consistency is a necessary condition for a good axiom set, so all forms of classical-logic-based deductivism will adopt it. But whether or not consistency is also *sufficient* is a matter over which various deductivisms may differ. From a modern perspective, we can think about the sufficiency claim as follows: absent a completeness proof, the consistency of a set of axioms does not in general entail that they have a model. To spell out the familiar argument, let PA2 be the set of second-order Peano Axioms, and Con(PA2) a consistency statement for PA2. Then $\textrm{PA2} \cup \{\neg \textrm{Con}(\textrm{PA2})\}$ is consistent provided PA2 is, since $\textrm{PA2} \not\vdash \textrm{Con}(\textrm{PA2})$ by Gödel’s second incompleteness theorem. However, $\textrm{PA2} \cup \{\neg\textrm{Con}(\textrm{PA}2)\}$ lacks a model, and so, under a traditional language-world picture, the language of the axiom system does not pick out anything in the world. But for a deductivist who asserts that only consistency matters, the alleged absence of successful reference is of no significance.
+    step1: |-
+      在演绎主义者可能采纳的一切可能公理集中，什么才刻画出“好”的公理集？帕施对此的看法与希尔伯特显著不同。希尔伯特对这一问题的回应预示了他日后的形式主义。在《论数的概念》中，他主张：一旦公理集被证明为一致，关于数概念存在性的任何进一步怀疑便“失去一切正当理由”（Hilbert 1900a: 184）[^hilbert-1900a]。在经典框架下，一致性是好公理集的必要条件，故一切基于经典逻辑的演绎主义都会采纳它。但一致性是否也*充分*，则因演绎主义而异。从现代视角看，我们可以这样考虑充分性主张：在缺乏完全性证明的情况下，一个公理集的一致性一般并不蕴含它们有模型。把这一熟悉的论证讲明：设 PA2 为二阶皮亚诺公理集，Con(PA2) 为 PA2 的一致性陈述。那么只要 PA2 一致，$\textrm{PA2} \cup \{\neg \textrm{Con}(\textrm{PA2})\}$ 便一致，因为由哥德尔第二不完全性定理，$\textrm{PA2} \not\vdash \textrm{Con}(\textrm{PA2})$。然而 $\textrm{PA2} \cup \{\neg\textrm{Con}(\textrm{PA}2)\}$ 没有模型，于是在传统的语言—世界图景下，该公理系统的语言并不在世界中指称任何东西。但对一个断言唯有一致性才要紧的演绎主义者而言，所谓指称失败无关紧要。
+    step2: |-
+      帕施对“何谓好公理集”的看法与希尔伯特显著不同，后者的回应预示了其日后形式主义：在《论数的概念》中，他主张一旦公理集被证为一致，关于数概念存在性的任何进一步怀疑便“失去一切正当理由”（Hilbert 1900a: 184）[^hilbert-1900a]。经典框架下，一致性是好公理集的必要条件，故一切经典逻辑演绎主义皆采纳；但一致性是否亦*充分*，则因版本而异。就现代视角看：缺乏完全性证明时，公理集之一致性一般不蕴含其有模型。详言之，设 PA2 为二阶皮亚诺公理集、Con(PA2) 为其一致性陈述；则只要 PA2 一致，$\textrm{PA2} \cup \{\neg \textrm{Con}(\textrm{PA2})\}$ 便一致，因由哥德尔第二不完全性定理 $\textrm{PA2} \not\vdash \textrm{Con}(\textrm{PA2})$。然而 $\textrm{PA2} \cup \{\neg\textrm{Con}(\textrm{PA}2)\}$ 无模型，故在传统语言—世界图景下，该公理系统的语言并不在世界中指称任何东西。但对断言唯有一致性要紧的演绎主义者而言，所谓指称失败无关紧要。
+  - id: 58
+    kind: body
+    source: |-
+      What distinguishes Pasch’s deductivism from Hilbert’s is that Pasch simultaneously maintained an empiricism about the axioms (Schlimm 2010: 95–96)[^schlimm-2010]. He held that the axioms are to have independent empirical grounding (“the pre-mathematical part” above). For example, Pasch grants the possibility of other consistent axiom sets for geometry, but maintains that without empirical grounding such a system constitutes merely “hypothetical geometry” (1917 [2010: 46]). In particular, Pasch maintains, the hypothetical sentences derived in such a geometry may lack applicability (1917 [2010: 46]; Schlimm 2010: 101)[^schlimm-2010].
+    step1: |-
+      帕施的演绎主义与希尔伯特之别在于：帕施同时对公理持一种经验主义（Schlimm 2010: 95–96）[^schlimm-2010]。他主张公理须有独立的经验根据（即上文的“前数学部分”）。例如，帕施承认几何学的其他一致性公理集是可能的，但主张若无经验根据，此类系统不过是“假设性的几何学”（1917 [2010: 46]）。特别是，帕施主张，在这类几何学中导出的假设性语句可能缺乏可应用性（1917 [2010: 46]；Schlimm 2010: 101）[^schlimm-2010]。
+    step2: |-
+      帕施与希尔伯特之别在于：前者同时对公理持经验主义（Schlimm 2010: 95–96）[^schlimm-2010]，主张公理须有独立的经验根据（即所谓“前数学部分”）。例如他承认几何学可有其他一致的公理集，但主张若无经验根据，此类系统仅是“假设性的几何学”（1917 [2010: 46]）；他并主张，这类几何学中导出的假设性语句可能缺乏可应用性（1917 [2010: 46]；Schlimm 2010: 101）[^schlimm-2010]。
+  - id: 59
+    kind: body
+    source: |-
+      ### 3.4 Curry
+    step1: |-
+      ### 3.4 柯里
+    step2: |-
+      ### 3.4 柯里
+  - id: 60
+    kind: body
+    source: |-
+      A more recent version of deductivism was defended by Haskell Curry in his 1951 *Outlines of a Formalist Philosophy of Mathematics*. As he sees it, “mathematics is the science of formal systems” (1951: 56). For Curry, formal systems are to be understood deductively—they are comprised of a formal language, axioms and inference rules called “rules of procedure” (1951: 11–13). Writing after the discovery of incompleteness, Curry has this to say about its implications:
+    step1: |-
+      哈斯凯尔·柯里在其 1951 年《形式主义数学哲学纲要》中辩护了一个较晚近的演绎主义版本。在他看来，“数学是形式系统的科学”（1951: 56）。对柯里而言，形式系统须以演绎方式理解——它们由形式语言、公理以及被称为“程序规则”的推理规则构成（1951: 11–13）。柯里写作于不完全性发现之后，他对该结果的意涵有如下说法：
+    step2: |-
+      哈斯凯尔·柯里在 1951 年《形式主义数学哲学纲要》中辩护了一个较晚的演绎主义版本。在他看来，“数学是形式系统的科学”（1951: 56）；形式系统须以演绎方式理解——由形式语言、公理与称为“程序规则”的推理规则构成（1951: 11–13）。柯里写作于不完全性发现之后，就其结果意涵如此说道：
+  - id: 61
+    kind: body
+    source: |-
+      > The incompleteness theorems […] show that it is hopeless to find a single formal system which will include all of mathematics as ordinarily understood. Moreover the arbitrary nature of the definitions which can constitute the primitive frame of a formal system shows that, in principle at least, all formal systems stand on a par. The essence of mathematics lies, therefore, not in any particular kind of formal system, but in formal structure as such. (Curry 1951: 56)[^curry-1951]
+    step1: |-
+      > 不完全性定理［……］表明：要找到一个能囊括通常所理解的全部数学的单一形式系统，是毫无希望的。此外，能构成形式系统原始框架的那些定义具有任意性，这表明：至少在原则上，一切形式系统地位平等。因此，数学的本质不在于任何特定种类的形式系统，而在于形式结构本身。（Curry 1951: 56）[^curry-1951]
+    step2: |-
+      > 不完全性定理［……］表明：要找到一个能囊括通常所理解的全部数学的单一形式系统，是毫无希望的。此外，能构成形式系统原始框架的那些定义具有任意性，这表明：至少在原则上，一切形式系统地位平等。因此，数学的本质不在于任何特定种类的形式系统，而在于形式结构本身。（Curry 1951: 56）[^curry-1951]
+  - id: 62
+    kind: body
+    source: |-
+      Curry calls his conception *formalist.* But by formalism, Curry just means the science of what can be deduced in formal systems. Formalism and deductivism (as understood in this entry) are similar in their focus on syntax over semantics. However, deductivism holds that mathematical claims have truth-conditions, unlike games; and it regards only logical inferences as permissible, whereas a formalist can in principle condone any symbol-derivation practice. In line with the deductivist rather than the formalist interpretation, Curry uses the notion of truth extensively in his writings and rejects the view that formal systems are to be conceived of as a game:
+    step1: |-
+      柯里把自己的构想称为*形式主义的*。但柯里所说的形式主义，不过是指在形式系统中可推出什么这一科学。形式主义与演绎主义（如本词条所理解者）在偏重句法而非语义这一点上相似。然而，演绎主义主张数学断言具有真值条件，不像游戏；并且它只承认逻辑推理为许可的，而形式主义者原则上可以容许任何符号推导实践。与演绎主义而非形式主义解读相符，柯里在著作中大量使用真这一概念，并拒斥“形式系统应被设想为游戏”这一看法：
+    step2: |-
+      柯里自称其构想为*形式主义的*；但他所谓形式主义，不过指“形式系统中可推出什么”这一科学。形式主义与演绎主义（如本词条所理解者）同偏句法而轻语义。然而演绎主义主张数学断言具真值条件，不像游戏；且只承认逻辑推理为许可，而形式主义者原则上可容许任何符号推导实践。与演绎主义解读相符，柯里在著作中大量使用真概念，并拒斥“形式系统即游戏”之说：
+  - id: 63
+    kind: body
+    source: |-
+      > There must be an *objective criterion of truth*, and the first task of the mathematical logician is to find it. The first thesis of this book is that such a definition can be found. (1951: 3)
+      >
+      > Before we proceed to the discussion of the formalist definition of mathematics, it will be necessary to consider the definition of its fundamental notion, that of a formal system. […] The conception here expounded differs superficially from the usual one in that *such a system is conceived not as a game but as a body of propositions.* […] The first point is that the words “proposition”, “true”, “predicate”, etc., used in the following, are intended in the sense of ordinary discourse. […] [A proposition] indicates certain conditions for verification; when the proposition is asserted—taken as true —, that means that these conditions are fulfilled, so that processes of verification are what determine, essentially, the meaning of the proposition. (1951: 8)
+      >
+      > For the purposes of mathematics it is sufficient to have criteria for recognising a formal system as such, and for *deciding which propositions are true*. (1951: 31)
+    step1: |-
+      > 必须有一个*客观的真理判准*，而数学逻辑学家的首要任务就是找到它。本书的第一论旨是：这样的定义可以被找到。（1951: 3）
+      >
+      > 在我们进而讨论形式主义关于数学的定义之前，有必要考虑其基本概念——形式系统——的定义。［……］此处所阐述的构想与通常构想表面不同之处在于：*这样的系统被设想为一个命题的总体，而非一场游戏。*［……］第一点是：下文所用的“命题”“真”“谓词”等词，均按日常话语的意义来理解。［……］［一个命题］指示某些证实条件；当该命题被断言——被当作真的——时，那意味着这些条件得到满足，因此证实过程本质上决定了该命题的意义。（1951: 8）
+      >
+      > 就数学的目的而言，拥有据以识别一个形式系统之为形式系统的判准，以及*判定哪些命题为真*的判准，已经足够。（1951: 31）
+    step2: |-
+      > 必须有一个*客观的真理判准*，而数学逻辑学家的首要任务就是找到它。本书的第一论旨是：这样的定义可以被找到。（1951: 3）
+      >
+      > 在我们进而讨论形式主义关于数学的定义之前，有必要考虑其基本概念——形式系统——的定义。［……］此处所阐述的构想与通常构想表面不同之处在于：*这样的系统被设想为一个命题的总体，而非一场游戏。*［……］第一点是：下文所用的“命题”“真”“谓词”等词，均按日常话语的意义来理解。［……］［一个命题］指示某些证实条件；当该命题被断言——被当作真的——时，那意味着这些条件得到满足，因此证实过程本质上决定了该命题的意义。（1951: 8）
+      >
+      > 就数学的目的而言，拥有据以识别一个形式系统之为形式系统的判准，以及*判定哪些命题为真*的判准，已经足够。（1951: 31）
+  - id: 64
+    kind: body
+    source: |-
+      One of the main advantages of this perspective, according to Curry, is the absence of metaphysical speculation—a key motivation for deductivism (see §2):
+    step1: |-
+      按柯里的说法，这一视角的主要优点之一是没有形而上学思辨——这是演绎主义的一个关键动机（见第 2 节）：
+    step2: |-
+      按柯里之说，此视角的主要优点之一是无形而上学思辨——这正是演绎主义的关键动机（见第 2 节）：
+  - id: 65
+    kind: body
+    source: |-
+      > The formalist conception of mathematics is thus *free from metaphysical bias*, and is therefore compatible with practically any sort of philosophy. It is the only conception so far proposed which has that character. (1951: 58; our emphasis)
+    step1: |-
+      > 因此，形式主义关于数学的构想*免除形而上学偏见*，因而与几乎任何一种哲学相容。它是迄今为止所提出的唯一具有这一品格的构想。（1951: 58；拙加着重）
+    step2: |-
+      > 因此，形式主义关于数学的构想*免除形而上学偏见*，因而与几乎任何一种哲学相容。它是迄今为止所提出的唯一具有这一品格的构想。（1951: 58；拙加着重）
+  - id: 66
+    kind: body
+    source: |-
+      ### 3.5 Intuitionism and Brouwer
+    step1: |-
+      ### 3.5 直觉主义与布劳威尔
+    step2: |-
+      ### 3.5 直觉主义与布劳威尔
+  - id: 67
+    kind: body
+    source: |-
+      Intuitionism is sometimes spoken of in the same breath as deductivism. Curry, for example, maintains that
+    step1: |-
+      直觉主义有时被与演绎主义相提并论。例如柯里主张：
+    step2: |-
+      直觉主义有时与演绎主义相提并论。例如柯里主张：
+  - id: 68
+    kind: body
+    source: |-
+      > Indeed, if we subtract from intuitionism its metaphysics, the differences between it and formalism as to the definition of mathematical truth are superficial. The emphasis on constructive methods—Hilbert’s “finite Einstellung”—on recursive definitions and mathematical induction, are made by formalist and intuitionist alike. (1951: 58)
+    step1: |-
+      > 的确，若从直觉主义中减去其形而上学，则它与形式主义在数学真理定义上的差别只是表面的。强调构造方法——希尔伯特的“有限立场”（finite Einstellung）——强调递归定义与数学归纳，形式主义者与直觉主义者皆然。（1951: 58）
+    step2: |-
+      > 的确，若从直觉主义中减去其形而上学，则它与形式主义在数学真理定义上的差别只是表面的。强调构造方法——希尔伯特的“有限立场”（finite Einstellung）——强调递归定义与数学归纳，形式主义者与直觉主义者皆然。（1951: 58）
+  - id: 69
+    kind: body
+    source: |-
+      Brouwer’s intuitionism is related to deductivism but differs from it in an interesting way. What, briefly, are the similarities and differences?
+    step1: |-
+      布劳威尔的直觉主义与演绎主义相关，但以一种有趣的方式与之不同。简言之，其相似与差异何在？
+    step2: |-
+      布劳威尔的直觉主义与演绎主义相关，却以一种有趣方式与之相异。简言之，其异同何在？
+  - id: 70
+    kind: body
+    source: |-
+      In his Cambridge lectures, Brouwer rejects “mathematical creation by means of logical axioms” (1981: 7). Indeed, for him, “all axioms became illusory” (1981: 92). Brouwer’s target here is what he calls the “Old Formalist School”, which for him includes Dedekind, Peano, Russell and Hilbert, and from which he goes to lengths to distance himself. For Brouwer, “the criterion of truth or falsehood of a mathematical assertion” is not a deduction but “mathematical activity itself” (Brouwer 1981: 92)[^brouwer-1981]. The relevant activity is the process of providing a construction. Thus, for the intuitionist, truth and falsehood are replaced with, or cashed out as, the existence or absence of an intuitionistically acceptable construction (Brouwer 1981: 92)[^brouwer-1981].
+    step1: |-
+      在其剑桥演讲中，布劳威尔拒斥“凭逻辑公理进行数学创造”（1981: 7）。事实上对他而言，“一切公理都成了虚妄”（1981: 92）。布劳威尔此处的靶子是他所谓的“旧形式主义学派”，在他看来这包括戴德金、皮亚诺、罗素与希尔伯特，他竭力与之保持距离。对布劳威尔而言，“数学断言之真伪判准”不是演绎，而是“数学活动本身”（Brouwer 1981: 92）[^brouwer-1981]。相关的活动是提供构造的过程。因此对直觉主义者而言，真与假被替换为、或兑现为：直觉主义可接受的构造之存在或缺失（Brouwer 1981: 92）[^brouwer-1981]。
+    step2: |-
+      在剑桥演讲中，布劳威尔拒斥“凭逻辑公理进行数学创造”（1981: 7）；对他而言“一切公理都成了虚妄”（1981: 92）。其靶子即他所谓“旧形式主义学派”——包括戴德金、皮亚诺、罗素与希尔伯特，他刻意与之保持距离。对布劳威尔而言，“数学断言之真伪判准”不是演绎，而是“数学活动本身”（Brouwer 1981: 92）[^brouwer-1981]；相关活动即提供构造的过程。故对直觉主义者而言，真与假被替换、或兑现为直觉主义可接受构造之存在或缺失（Brouwer 1981: 92）[^brouwer-1981]。
+  - id: 71
+    kind: body
+    source: |-
+      Constructions are a series of mental acts; they are thus distinct from proofs which are sequences of appropriately linked sentences. For Brouwer, the *first act of intuitionism* is to completely separate “mathematics from mathematical language and hence from the phenomena of language described by theoretical logic” (1981: 4). For Brouwer, no linguistic inscription or utterance can convey the true nature of a construction in intuition. The severance of mathematics from language and logic, a cornerstone of Brouwer’s intuitionism, sharply distinguishes it from deductivism.
+    step1: |-
+      构造是一系列心智行为；因此它们不同于证明——证明是适当关联起来的语句序列。对布劳威尔而言，*直觉主义的第一个行为*是把“数学与数学语言、因而与理论逻辑所描述的语言现象完全分离”（1981: 4）。对布劳威尔而言，任何语言铭刻或话语都不能传达直觉中构造的真正本性。数学与语言及逻辑的分离是布劳威尔直觉主义的基石，它使之与演绎主义截然有别。
+    step2: |-
+      构造是一系列心智行为，故不同于证明（证明是适当关联的语句序列）。对布劳威尔而言，*直觉主义的第一个行为*是把“数学与数学语言、因而与理论逻辑所描述的语言现象完全分离”（1981: 4）；任何语言铭刻或话语都不能传达直觉中构造的真正本性。数学与语言及逻辑之分离既为布劳威尔直觉主义的基石，便使之与演绎主义截然有别。
+  - id: 72
+    kind: body
+    source: |-
+      That said, intuitionism does have some parallels with deductivism. A notable one is the replacement of the usual referential account of truth in mathematics with a verification-based approach: deductivism does this in terms of proofs, intuitionism in terms of constructions. The development of intuitionistic logic brings out an important fact about deductivism: deductivism is not tied to any particular formal system. It could be based on classical logic, or Heyting’s intuitionist formal system, or some third alternative.[^note-9]
+    step1: |-
+      话虽如此，直觉主义确有一些与演绎主义平行之处。一个显著者是：以基于证实的进路取代数学中通常的指称式真理说明——演绎主义以证明来做此事，直觉主义以构造来做。直觉主义逻辑的发展揭示了演绎主义的一个重要事实：演绎主义并不系于任何特定的形式系统。它可以基于经典逻辑，也可以基于海廷的直觉主义形式系统，或某种第三种选择。[^note-9]
+    step2: |-
+      话虽如此，直觉主义与演绎主义确有一些平行之处，显著者是以基于证实的进路取代数学中通常的指称式真理说明——演绎主义以证明行之，直觉主义以构造行之。直觉主义逻辑的发展揭示演绎主义的一个要点：它不系于任何特定形式系统，可基于经典逻辑，亦可基于海廷的直觉主义形式系统，或第三种选择。[^note-9]
+  - id: 73
+    kind: body
+    source: |-
+      ## 4. Meaning Matters
+    step1: |-
+      ## 4. 意义问题
+    step2: |-
+      ## 4. 意义问题
+  - id: 74
+    kind: body
+    source: |-
+      We outlined some of the historical support for deductivism in §3. In §§5–9, we consider some of the challenges it faces. In the present section, we aim to achieve greater clarity on what semantic claim the deductivist makes.
+    step1: |-
+      我们在第 3 节概述了演绎主义的部分历史支持。在第 5–9 节，我们考虑它所面临的一些挑战。在本节，我们力求更清楚地说明演绎主义者所作的是何种语义主张。
+    step2: |-
+      第 3 节概述了演绎主义的部分历史支持；第 5–9 节考虑其面临的挑战。本节则力求更清楚地说明演绎主义者所作的是何种语义主张。
+  - id: 75
+    kind: body
+    source: |-
+      The first point is that we have characterised deductivism as “understanding” or “construing” or “rendering” a mathematical sentence $p$ as “$Ax \vdash p$” This characterisation is deliberately neutral between two more precise readings. One is that deductivists take their construal to capture the meanings of mathematical statements as ordinarily spoken.[^note-10] The other is that they aim to do no such thing but wish instead to provide a reconstruction of mathematics answering to philosophical criteria. One such criterion *might* be proximity to mathematical discourse as ordinarily understood—but typically this will not be an overriding factor. Other criteria will include giving an attractive metaphysics, epistemology and account of the applications of mathematics. This entry will stay neutral on this point, though it should be noted that the first approach faces a considerable burden of proof: there are no obvious grounds to think that we *actually* speak in deductivist fashion.
+    step1: |-
+      第一点是：我们把演绎主义刻画为把数学语句 $p$ “理解”或“诠释”或“处理”为“$Ax \vdash p$”。这一刻画刻意在两种更精确的读法之间保持中立。一种读法是：演绎主义者认为自己的诠释捕捉了通常所说的数学语句的意义。[^note-10] 另一种读法是：他们并不想这样做，而是希望提供一种符合哲学判准的数学重构。这样一条判准*可能*是与通常所理解的数学话语的接近性——但通常这不会是压倒性的因素。其他判准将包括：给出有吸引力的形而上学、认识论以及关于数学应用的说明。本词条对此保持中立，不过应当指出，第一种进路面临相当重的举证负担：没有明显理由认为我们*实际上*是以演绎主义方式说话的。
+    step2: |-
+      第一点是：我们把演绎主义刻画为把数学语句 $p$ “理解”“诠释”或“处理”为“$Ax \vdash p$”。此刻画刻意在两种更精确读法间保持中立：其一，演绎主义者认为其诠释捕捉了通常所说的数学语句的意义[^note-10]；其二，他们并不如此，而是提供一种符合哲学判准的数学重构——其中一条判准*可能*是与通常所理解的数学话语的接近性，但通常不会成为压倒性因素，其他判准还包括给出有吸引力的形而上学、认识论与数学应用说明。本词条对此保持中立；惟须指出，第一种进路面临相当重的举证负担：没有明显理由认为我们*实际上*以演绎主义方式说话。
+  - id: 76
+    kind: body
+    source: |-
+      The second point is that the deductivist has to offer more than the simple claim that a mathematical sentence $p$ should be construed as “$Ax \vdash p$”. For one thing, her (meaning-capturing or reconstructive) semantics for mathematics cannot be confined to the sentence level but must also apply to words. The deductivist must, for instance, give a semantic account of the numeral “2” and the predicate “is prime” compatible with her construal of “2 is prime” as “$Ax \vdash 2$ is prime”.
+    step1: |-
+      第二点是：演绎主义者必须提供的不止于“数学语句 $p$ 应被诠释为‘$Ax \vdash p$’”这一简单主张。一方面，她关于数学的（捕捉意义或重构性的）语义学不能局限于语句层面，还必须适用于词。例如，演绎主义者必须为数码“2”与谓词“是素数”给出一个语义说明，并与她“把‘2 是素数’诠释为‘$Ax \vdash 2$ 是素数’”相容。
+    step2: |-
+      第二点是：演绎主义者须提供的不止“数学语句 $p$ 应诠释为‘$Ax \vdash p$’”这一简单主张。一方面，她关于数学的语义学（无论捕捉意义抑或重构）不能限于语句层面，还须适用于词：例如须为数码“2”与谓词“是素数”给出语义说明，并与她“把‘2 是素数’诠释为‘$Ax \vdash 2$ 是素数’”相容。
+  - id: 77
+    kind: body
+    source: |-
+      For another, she must give an account of speech acts involving mathematical statements. It is natural to suppose that she construes an assertion of “569 is prime”, say, as an assertion of “$Ax \vdash 569$ is prime”. Likewise, presumably, for many propositional attitudes: for the deductivist, what we might ordinarily describe as wondering whether 569 is prime should be understood as wondering whether the axioms deductively imply that 569 is prime; what we might ordinarily describe as doubting that 569 is prime should be understood as doubting that the axioms deductively imply that 569 is prime; and so on. A tentative suggestion might then be that the deductivist should take “$Ax \vdash$” to have narrow scope over force operators (asserting, wondering, doubting, etc.).
+    step1: |-
+      另一方面，她必须给出关于涉及数学语句的言语行为的说明。自然地可以设想，她把对“569 是素数”的断言诠释为对“$Ax \vdash 569$ 是素数”的断言。许多命题态度大概也是如此：对演绎主义者而言，我们通常所说的“想知道 569 是否素数”，应被理解为“想知道公理是否演绎地蕴含 569 是素数”；我们通常所说的“怀疑 569 是素数”，应被理解为“怀疑公理是否演绎地蕴含 569 是素数”；如此等等。于是或许可以提出一个试探性的建议：演绎主义者应让“$Ax \vdash$”对语力算子（断言、想知道、怀疑等）取窄域。
+    step2: |-
+      另一方面，她须给出涉及数学语句的言语行为之说明。自然可设想：她把对“569 是素数”的断言诠释为对“$Ax \vdash 569$ 是素数”的断言。诸多命题态度亦复如是——对演绎主义者而言，通常所谓“想知道 569 是否素数”应理解为“想知道公理是否演绎地蕴含 569 是素数”；通常所谓“怀疑 569 是素数”应理解为“怀疑公理是否演绎地蕴含 569 是素数”；如此等等。由此或可提出试探性建议：演绎主义者应让“$Ax \vdash$”对语力算子（断言、想知道、怀疑等）取窄域。
+  - id: 78
+    kind: body
+    source: |-
+      Neither of these tasks—providing a word-level semantics for mathematical language and an account of speech acts involving mathematical sentences—seems entirely straightforward. As for the first, deductivists’ account of mathematical language must allow for its use in empirical contexts to make straightforwardly literal claims. For example, “there were 569 people in the audience” should presumably not be understood as a covert implication from axioms but rather as a literal claim about a physical situation. For the deductivist, then, this is quite a different use of “569” from a purely mathematical one. §8 discusses the problem of applications for the deductivist (though at the sentence- rather than word-level).
+    step1: |-
+      这两项任务——为数学语言提供词层面的语义学，以及为涉及数学语句的言语行为提供说明——似乎都不完全直截了当。至于第一项，演绎主义者关于数学语言的说明必须容许它在经验语境中用于作出直白的字面断言。例如，“观众中有 569 人”大概不应被理解为从公理而来的隐含蕴涵，而应被理解为关于某个物理情境的字面断言。那么对演绎主义者而言，这就是“569”一种与纯数学用法颇为不同的用法。第 8 节讨论演绎主义者的应用问题（不过在语句层面而非词层面）。
+    step2: |-
+      两项任务——为数学语言提供词层面语义学、为涉及数学语句的言语行为提供说明——似皆非直截了当。就第一项而言，其数学语言说明须容许它在经验语境中作出直白字面断言：“观众中有 569 人”大概不应理解为从公理而来的隐含蕴涵，而应是关于某物理情境的字面断言。对演绎主义者而言，这便是“569”一种与纯数学用法颇为不同的用法。第 8 节讨论其应用问题（惟在语句层面而非词层面）。
+  - id: 79
+    kind: body
+    source: |-
+      As for the second, it’s not clear that the deductivist will always wish to apply the “$Ax \vdash$ ”-takes-narrow-scope strategy in the same mechanical way. Take for example proof by assumption, in which we first assume $p_1$ and deduce $p_n$ via $p_2 , \ldots , p_{n-1}$. Our initial supposition $p_1$ might be that $m$ is an odd perfect number and the final line $p_n$ might be some interesting fact about any such $m$. It’s not at all obvious that “assume” here takes wide scope and “$Ax \vdash$ ” takes narrow scope. For if it did, “Assume $p_1$” would be construed as “Assume $Ax \vdash p_1$”, which intuitively is a different claim. A more technical way of seeing this is that because $m$ does not occur free in $Ax$, it seems that we can generalise to obtain “$Ax \vdash \forall m p_1$”. If so, “Assume that $Ax$ proves that $m$ is an odd perfect number” implies “Assume that $Ax$ proves that for every $m, m$ is an odd perfect number”. But that latter assumption is an outright false claim. A more promising approach is to take the first step in a supposition as allowing us to add $p_1$ to the axiom set, and to then construe the second line as “$Ax + p_1 \vdash p_2$” (or its equivalent via the Deduction Theorem “$Ax \vdash p_1 \rightarrow p_2$”), the third line as “$Ax + p_1 \vdash p_3$” (or “$Ax \vdash p_1 \rightarrow p_3$”), and so on. All in all, there is work for the deductivist to do on this front to spell out these ideas into a coherent theory.
+    step1: |-
+      至于第二项，并不清楚演绎主义者是否总愿以同样机械的方式运用“$Ax \vdash$ 取窄域”策略。以假设性证明为例：我们先假设 $p_1$，再经由 $p_2 , \ldots , p_{n-1}$ 推出 $p_n$。我们最初的假设 $p_1$ 可能是“$m$ 是一个奇完全数”，最后一行 $p_n$ 则可能是关于任何此类 $m$ 的某个有趣事实。此处“假设”取宽域、“$Ax \vdash$”取窄域，绝非显然。因为若如此，“假设 $p_1$”便会被诠释为“假设 $Ax \vdash p_1$”，而后者直觉上是另一个断言。一个更技术性的观察方式是：由于 $m$ 在 $Ax$ 中不自由出现，看来我们可以一般化而得“$Ax \vdash \forall m p_1$”。若然，“假设 $Ax$ 证明 $m$ 是奇完全数”便蕴涵“假设 $Ax$ 证明对每个 $m$，$m$ 都是奇完全数”。但后一假设是一个 outright 假的断言。更有希望的进路是：把假设性证明的第一步视为允许我们把 $p_1$ 加入公理集，随后把第二行诠释为“$Ax + p_1 \vdash p_2$”（或经演绎定理等值的“$Ax \vdash p_1 \rightarrow p_2$”），把第三行诠释为“$Ax + p_1 \vdash p_3$”（或“$Ax \vdash p_1 \rightarrow p_3$”），依此类推。总而言之，演绎主义者在这方面仍有工作要做，方能把这些想法讲成一套融贯的理论。
+    step2: |-
+      至于第二项，并不清楚演绎主义者是否总愿以同样机械的方式运用““$Ax \vdash$”取窄域”策略。以假设性证明为例：先假设 $p_1$，再经由 $p_2 , \ldots , p_{n-1}$ 推出 $p_n$；最初假设 $p_1$ 可能是“$m$ 是奇完全数”，末行 $p_n$ 则可能是关于任何此类 $m$ 的有趣事实。此处“假设”取宽域而“$Ax \vdash$”取窄域，绝非显然：若如此，“假设 $p_1$”便被诠释为“假设 $Ax \vdash p_1$”，直觉上是另一断言。更技术性的观察是：因 $m$ 不在 $Ax$ 中自由出现，看来可一般化而得“$Ax \vdash \forall m p_1$”；若然，“假设 $Ax$ 证明 $m$ 是奇完全数”便蕴涵“假设 $Ax$ 证明对每个 $m$，$m$ 都是奇完全数”——但后者是一个 outright 假的断言。更有希望的进路是把假设性证明第一步视为允许将 $p_1$ 加入公理集，随后把第二行诠释为“$Ax + p_1 \vdash p_2$”（或经演绎定理等值的“$Ax \vdash p_1 \rightarrow p_2$”），第三行为“$Ax + p_1 \vdash p_3$”（或“$Ax \vdash p_1 \rightarrow p_3$”），依此类推。总而言之，演绎主义者在此仍有工作要做，方能将这些想法讲成融贯理论。
+  - id: 80
+    kind: body
+    source: |-
+      A third point is based on Parsons’s (2008: 55 n. 35) distinction between what might be called *reflexive* and *unreflexive* deductivism. Deductivism as this entry defined it is reflexive, because it interprets $p$ as “$Ax \vdash p$”. Unreflexive deductivism, by contrast, interprets $p$ as “if $\wedge Ax$ then $p$” ($\wedge$ is an operator that conjoins all the elements of the axiom set) and asserts that this conditional is a deductive logical truth. Rheinwald (1984: 50) opts for the former, reflexive form, as we have. Commenting on Rheinwald, Parsons advocates adopting the latter, unreflexive, form instead. For, as he sees it, the reflexive form introduces an inessential element of reflection—explicit mention of the axioms—into the content of mathematical statements, which he thinks they lack. Parsons has a point, especially if deductivism is intended as meaning-capturing. Even so, this entry takes deductivism to be reflexive to avoid the problem faced by unreflexive deductivism when the set of axioms is infinite, as it is for example in the case of the first-order Peano Axioms. For in that case, the sentence “if $\wedge Ax$ then $p$” is infinitely long, so not an ordinary-language one. In contrast, “$Ax \vdash p$” is an ordinary sentence of (mathematical) English, where “$Ax$” is a name denoting the relevant axiom set. That said, it may be that unreflexive deductivism is better equipped to handle some of the problems deductivism faces.
+    step1: |-
+      第三点基于 Parsons（2008: 55 n. 35）对所谓*自反式*演绎主义与*非自反式*演绎主义的区分。本词条所定义的演绎主义是自反的，因为它把 $p$ 诠释为“$Ax \vdash p$”。相比之下，非自反式演绎主义把 $p$ 诠释为“如果 $\wedge Ax$ 那么 $p$”（$\wedge$ 是一个把公理集所有元素合取起来的算子），并断言这个条件句是一条演绎逻辑真理。Rheinwald（1984: 50）选取了前者即自反形式，我们亦然。 Parsons 在评述 Rheinwald 时主张改采后一种非自反形式。因为在他看来，自反形式把一种非本质的反思维要素——明确提及公理——引入数学语句的内容，而他认为数学语句本无此内容。Parsons 说得有理，尤其当演绎主义意在捕捉意义时。即便如此，本词条仍把演绎主义视为自反的，以避免非自反式演绎主义在公理集为无限时所面临的问题——例如一阶皮亚诺公理即是如此。因为在那种情况下，“如果 $\wedge Ax$ 那么 $p$”这一语句无限长，故不是日常语言语句。相比之下，“$Ax \vdash p$”是（数学）英语的普通语句，其中“$Ax$”是一个指称相关公理集的名称。话虽如此，非自反式演绎主义或许更有能力处理演绎主义所面临的某些问题。
+    step2: |-
+      第三点基于 Parsons（2008: 55 n. 35）对*自反式*与*非自反式*演绎主义的区分。本词条所定义者为自反式：把 $p$ 诠释为“$Ax \vdash p$”。非自反式则把 $p$ 诠释为“如果 $\wedge Ax$ 那么 $p$”（$\wedge$ 为把公理集所有元素合取起来的算子），并断言该条件句是演绎逻辑真理。Rheinwald（1984: 50）取前者即自反式，本词条亦然；Parsons 评述 Rheinwald 时主张改取后者。因为在他看来，自反式把一种非本质的反思维要素——明确提及公理——引入数学语句的内容，而他认为数学语句本无此内容。Parsons 之说有理，尤其当演绎主义意在捕捉意义时。即便如此，本词条仍取自反式，以避免非自反式在公理集无限时的问题——例如一阶皮亚诺公理即是如此：在那种情况下，“如果 $\wedge Ax$ 那么 $p$”无限长，故非日常语言语句。相比之下，“$Ax \vdash p$”是（数学）英语的普通语句，其中“$Ax$”是指称相关公理集的名称。话虽如此，非自反式演绎主义或许更有能力处理演绎主义所面临的某些问题。
+  - id: 81
+    kind: body
+    source: |-
+      A fourth and final point. So far, this entry remained neutral on what the axioms “$Ax$” in the statement of deductivism are. A “local” deductivist, as illustrated in §1, deductively conditionalises the theorems of a branch of mathematics on the branch’s axioms, e.g., theorems of arithmetic on the axioms of Peano Arithmetic. Another sort of deductivism might conditionalise on the axioms of a particular alleged foundation for mathematics, say ZFC set theory. Thus a ZFC-deductivist understands a mathematical claim $p$ as “$p$ follows deductively from the ZFC axioms”. The choice of ZFC is not essential: if the deductivist’s preferred foundation is not ZFC, but some other set theory, or a topos theory, or something else altogether, they could base their deductivism on that instead. A third, similar but looser form of deductivism than this might be called “whatever-it-takes deductivism”. On this view, the axioms provability from which constitutes mathematical truth are not a specific collection, such as the ZFC axioms, but are more vaguely described: they are whatever axioms it takes to prove the theorems of mathematics. This last version has the advantage over the second of not tying provability, perhaps artificially, to a single foundational system. However, it achieves this at the cost of considerable imprecision.[^note-11] In short, different forms of deductivism result from different understandings of “$Ax$” in deductivism’s canonical statement.
+    step1: |-
+      第四、也是最后一点。至此，本词条对演绎主义陈述中的公理“$Ax$”究竟是什么保持中立。如第 1 节所示，一个“局部”演绎主义者把一个数学分支的定理演绎地条件化于该分支的公理之上，例如把算术的定理条件化于皮亚诺算术公理之上。另一种演绎主义则把定理条件化于某个被当作数学基础的特定公理之上，比如 ZFC 集合论。因此 ZFC 演绎主义者把数学断言 $p$ 理解为“$p$ 从 ZFC 公理演绎地推出”。ZFC 的选择并不本质：若演绎主义者偏好的基础不是 ZFC，而是别的集合论、或拓扑斯理论、或完全另外的东西，他们便可以把演绎主义建立在那之上。第三种、与此类似但更宽松的演绎主义形式，可称为“无论需要什么”演绎主义。按此观点，据以构成数学真理的可证性并非某个特定集合（如 ZFC 公理），而是被更含糊地描述者：凡证明数学定理所需的一切公理。这一最后版本优于第二种之处在于：它不把可证性（或许是人为地）系于单一基础系统。然而它为此付出的代价是相当大的不精确性。[^note-11] 简言之，演绎主义的不同形式源自对演绎主义标准陈述中“$Ax$”的不同理解。
+    step2: |-
+      第四亦即最后一点。至此，本词条对演绎主义陈述中公理“$Ax$”究指何者保持中立。如第 1 节所示，“局部”演绎主义者把某数学分支的定理演绎地条件化于该分支公理（如把算术定理条件化于皮亚诺算术公理）；另一类则条件化于某个被当作数学基础的特定公理，如 ZFC 集合论——ZFC 演绎主义者遂把数学断言 $p$ 理解为“$p$ 从 ZFC 公理演绎地推出”。ZFC 之选择并不本质：若其偏好基础非 ZFC，而是别的集合论、拓扑斯理论或全然他物，便可据以立论。第三种类似而更宽松者，可称“无论需要什么”演绎主义：据以构成数学真理的可证性并非某特定集合（如 ZFC 公理），而是更含糊的描述——凡证明数学定理所需之一切公理。此版本优于第二种之处在于不把可证性（或许人为地）系于单一基础系统；代价则是相当大的不精确性。[^note-11] 简言之，演绎主义的不同形式源自对标准陈述中“$Ax$”的不同理解。
+  - id: 82
+    kind: body
+    source: |-
+      ## 5. Provability: to reify or not to reify?
+    step1: |-
+      ## 5. 可证性：要不要实体化？
+    step2: |-
+      ## 5. 可证性：实体化与否？
+  - id: 83
+    kind: body
+    source: |-
+      The rest of this entry examines five challenges to deductivism, one per section in §§5–9. The first turns on the notion of provability. Since deductivism claims that mathematics is about what is provable in certain axiom systems, providing an account of provability is central to it. The issue is whether to cash out provability in terms of the existence of proofs or not. In short, to reify or not to reify?
+    step1: |-
+      本词条余下部分考察对演绎主义的五项挑战，第 5–9 节各一项。第一项围绕可证性概念。既然演绎主义主张数学关乎在某些公理系统中可证者，给出可证性的说明便为其核心。问题在于：是否要以证明之存在来兑现可证性。简言之，实体化还是非实体化？
+    step2: |-
+      余下部分考察对演绎主义的五项挑战，第 5–9 节各一项。第一项围绕可证性：演绎主义既主张数学关乎在公理系统中可证者，可证性之说明便居其核心。问题是——可证性是否以证明之存在来兑现？简言之，实体化，抑或不实体化？
+  - id: 84
+    kind: body
+    source: |-
+      Take the reifying approach first. It reads “$p$ is provable from $Ax$” as “there is a proof of $p$ from axioms $Ax$” (in a particular deductive system understood). This is the most natural and most standard understanding of provability. On this approach, to say that a system $T$ is consistent is just to say that there is no formula $\phi$ in the language of $T$ such that there is a proof of $\phi$ from $T$ and a proof of $\neg \phi$ from $T$. However, some formulas and proofs are far too long to have concrete physical instantiations; a simple example would be the proof of a numerical equation involving extremely large numbers. Even a formula with concrete instantiations should not be identified with a particular one of these, or with the class of its instantiations. In other words, proofs as understood here are types rather than tokens: abstract strings conforming to the rules set by a deductive system, which exist irrespectively of any physical instantiations in speech, or on whiteboards, paper or screens. Indeed, if the deductivist wishes to retain the ability to refer to theories, as she will surely want to, she will have to accept linguistic types anyway. (Compare Field-like nominalists, who must also refer to scientific and mathematical theories, even as they try to avoid reference to mathematical objects.)
+    step1: |-
+      先看实体化进路。它把“$p$ 可由 $Ax$ 证明”读作“存在一个从公理 $Ax$ 出发的 $p$ 的证明”（在一特定演绎系统下理解）。这是最自然、最标准的可证性理解。按此进路，说系统 $T$ 一致，就是说在 $T$ 的语言中不存在公式 $\phi$，使得既有从 $T$ 出发的 $\phi$ 的证明、又有从 $T$ 出发的 $\neg \phi$ 的证明。然而，某些公式与证明长得无法有具体的物理实例；一个简单的例子是涉及极大数的数值等式的证明。即便是具有具体实例的公式，也不应等同于它的某个特定实例，或等同于其诸实例之类。换言之，此处所理解的证明是类型而非殊型：它们是符合演绎系统所设规则的抽象字符串，其存在独立于任何物理实例——无论口头的，还是白板、纸面或屏幕上的。事实上，若演绎主义者希望保留指称理论的能力（她必定希望），她就必须接受语言类型。（比较菲尔德的类唯名论者：他们尽管试图避免指称数学对象，也必须指称科学与数学理论。）
+    step2: |-
+      先看实体化进路：它把“$p$ 可由 $Ax$ 证明”读作“存在一个从公理 $Ax$ 出发的 $p$ 的证明”（在特定演绎系统下理解）——这是最自然、最标准的可证性理解。按此进路，说系统 $T$ 一致，即说 $T$ 的语言中不存在公式 $\phi$，使得既有从 $T$ 出发的 $\phi$ 的证明、又有从 $T$ 出发的 $\neg \phi$ 的证明。然而某些公式与证明长得无法有具体物理实例，例如涉及极大数的数值等式之证明；即便有具体实例的公式，也不应等同于其某个特定实例或诸实例之类。换言之，此处所谓证明是类型而非殊型：它们是符合演绎系统所设规则的抽象字符串，其存在独立于任何物理实例——无论是口头的，还是白板、纸面或屏幕上的。事实上，若演绎主义者想保留指称理论的能力（她必定希望如此），就必须接受语言类型。（可与菲尔德式的唯名论者相较：他们虽力求避免指称数学对象，仍须指称科学与数学理论。）
+  - id: 85
+    kind: body
+    source: |-
+      The moral is that the deductivist will have to admit linguistic types. Her motivation for being a deductivist therefore cannot be to avoid *all* abstract objects (i.e., nominalism), since linguistic types are abstract. She must consequently motivate why admitting some abstract objects such as types is acceptable, whereas admitting mathematical objects is not. She might point to considerations of economy: linguistic types are but a small part of the abstract realm. Or she might argue on the epistemological front that linguistic types are more easily knowable, since they have concrete instances, unlike mathematical objects, which do not. However, the literature is not short of arguments that those who reject abstract mathematical objects should also reject abstract linguistic types; see for example Wetzel’s 2009 book *Types and Tokens*.
+    step1: |-
+      教训是：演绎主义者将不得不承认语言类型。因此，她成为演绎主义者的动机不可能是避免*一切*抽象对象（即唯名论），因为语言类型是抽象的。于是她必须说明：为什么承认类型这类抽象对象可以接受，而承认数学对象则不可。她可以诉诸经济性考量：语言类型只是抽象领域的一小部分。或者她可以在认识论战线上论证：语言类型更容易认识，因为它们有具体实例，而数学对象没有。然而，文献中不乏论证表明：那些拒斥抽象数学对象的人，也应当拒斥抽象语言类型；例如见 Wetzel 2009 年的《类型与殊型》。
+    step2: |-
+      教训是：演绎主义者不得不承认语言类型。故其动机不可能是避免*一切*抽象对象（即唯名论），因语言类型本属抽象。于是她须说明：何以承认类型这类抽象对象可以，承认数学对象则不可？她可诉诸经济性——语言类型仅占抽象领域之小部；亦可从认识论立论——语言类型因有具体实例而较易认识，数学对象则不然。然而文献中不乏论证：拒斥抽象数学对象者亦当拒斥抽象语言类型；例如见 Wetzel 2009 年《类型与殊型》。
+  - id: 86
+    kind: body
+    source: |-
+      Of course, one could be a deductivist for other reasons than an aversion to abstract objects. As we saw in §4, one sort of deductivist might hold that a semantic analysis reveals the *meaning* of mathematical statements to be of the form “$p$ deductively follows from the axioms”. It is perfectly consistent to combine this view with an acceptance of abstract objects and the standard account of deductive consequence in terms of the existence of proofs. Yet, although perfectly coherent, the view appears to lack independent motivation.
+    step1: |-
+      当然，人们可以出于对抽象对象的厌恶之外的理由而做演绎主义者。如第 4 节所见，一类演绎主义者可能主张：语义分析揭示了数学语句的*意义*即为“$p$ 从公理演绎地推出”这一形式。完全可以把这一观点与“接受抽象对象”、以及与“以证明之存在来理解演绎后承”的标准说明结合起来。然而，这一观点虽然完全融贯，却显得缺乏独立的动机。
+    step2: |-
+      当然，做演绎主义者亦可出于厌恶抽象对象之外的理由。如第 4 节所见，一类演绎主义者主张语义分析揭示数学语句的*意义*即为“$p$ 从公理演绎地推出”。此观点完全可与接受抽象对象、以及与“以证明之存在说明演绎后承”的标准进路结合；然而它虽完全融贯，却似缺乏独立动机。
+  - id: 87
+    kind: body
+    source: |-
+      The alternative to reifying, evidently, is not to reify, and the most obvious way of doing so is to go down a modal route. Instead of cashing out provability by means of proof-existence, deductivists could take provability to be a modal primitive. Logical possibility and necessity are these days typically understood model-theoretically: a statement is logically possible or consistent just when it is true in some model; and necessary just when it is true in all models. The deductivist must abjure this account of consistency (which she equates with logical possibility), on pain of re-introducing mathematics in the metatheory. Against the prevailing model-theoretic account, she must take “it is logically possible that” as a primitive notion, and forgo its analysis in terms of models (Putnam 1967b)[^putnam-1967b]. In so doing, she is in the same boat as all anti-platonists who cannot help themselves to model theory or set theory in the metatheory. This particular boat is a crowded one: it holds not just eliminative structuralists, but also formalists of various stripes and nominalists as well. Nominalists, for example, do not believe in abstract objects. Hence they face the same predicament—they cannot appeal to the existence of models in the metatheory. Hartry Field (1991) develops a nominalist logic that takes the notion of logical consistency as primitive, which we may symbolise as $\diamond$, with the associated notion of logical necessity being $\square$. In particular, $\diamond T$ is the claim that the theory $T$ is logically consistent, and claims of logical implication are conditionals prefaced by $\square$.[^note-12] The non-reifying deductivist can avail themself of these resources and thereby construe $G \vdash p$ as $\square(\wedge G \rightarrow p)$.
+    step1: |-
+      显然，实体化的替代方案就是不实体化，而最明显的做法是走模态路线。演绎主义者可以不以证明之存在来兑现可证性，而把可证性当作一个模态原始项。如今，逻辑可能性与必然性通常按模型论来理解：一个语句是逻辑可能的或一致的，当且仅当它在某个模型中为真；是必然的，当且仅当它在一切模型中为真。演绎主义者必须放弃这种一致性（她将其等同于逻辑可能性）说明，否则就要在元理论中重新引入数学。面对盛行的模型论说明，她必须把“逻辑上可能的是”当作原始概念，并放弃以模型来分析它（Putnam 1967b）[^putnam-1967b]。这样一来，她与一切无法在元理论中倚仗模型论或集合论的反柏拉图主义者同舟。这条船上人满为患：船上不只有消除式结构主义者，还有形形色色的形式主义者与唯名论者。例如唯名论者不相信抽象对象，故面临同样困境——他们不能在元理论中诉诸模型之存在。Hartry Field（1991）发展了一种唯名论逻辑，把逻辑一致性概念当作原始项，我们可以 $\diamond$ 表示之，相应的逻辑必然性概念则为 $\square$。特别是，$\diamond T$ 即“理论 $T$ 在逻辑上一致”这一断言，而逻辑蕴涵的断言则是在前冠以 $\square$ 的条件句。[^note-12] 非实体化的演绎主义者可以动用这些资源，从而把 $G \vdash p$ 诠释为 $\square(\wedge G \rightarrow p)$。
+    step2: |-
+      显然，实体化的替代方案即不实体化，最明显者走模态路线：演绎主义者可不以证明之存在兑现可证性，而把可证性当作模态原始项。如今逻辑可能性与必然性通常按模型论理解——语句逻辑可能或一致，当且仅当它在某个模型中为真；必然，当且仅当它在一切模型中为真。演绎主义者必须放弃这一致性说明（她将一致性等同于逻辑可能性），否则须在元理论中重新引入数学。面对盛行的模型论说明，她须把“逻辑上可能的是”当作原始概念，并放弃以模型分析之（Putnam 1967b）[^putnam-1967b]。如此她便与一切无法在元理论中倚仗模型论或集合论的反柏拉图主义者同舟——而此舟人满为患：不惟消除式结构主义者，形形色色的形式主义者与唯名论者亦在。唯名论者既不信抽象对象，便面临同样困境：不能在元理论中诉诸模型之存在。Hartry Field（1991）发展了一种唯名论逻辑，以逻辑一致性为原始项，可以 $\diamond$ 表示，相应之逻辑必然性则为 $\square$：特别是 $\diamond T$ 即“理论 $T$ 逻辑上一致”，而逻辑蕴涵之断言为前冠 $\square$ 的条件句。[^note-12] 非实体化的演绎主义者可动用这些资源，把 $G \vdash p$ 诠释为 $\square(\wedge G \rightarrow p)$。
+  - id: 88
+    kind: body
+    source: |-
+      Such “modalist” accounts of logical consequence à la Field have had a fairly low take-up among logicians. Many see little reason to prefer them to the model-theoretic account of consequence. Modalist accounts suffer from problems of expressive adequacy, because they cannot quantify over possibilities; and they are theoretically less virtuous than the usual model-theoretic one, positing as they do primitive links between the existence of set models and primitive consistency facts. Chapter 4 of Melia (2003) is a lucid overview of the problems faced by modalism about *metaphysical* modality, which have counterparts in the logical case. If the deductivist takes the non-reifying route, they will have to come up with a satisfactory response to these sorts of challenges.
+    step1: |-
+      这类菲尔德的“模态主义”后承说明在逻辑学家中受采程度相当低。许多人看不出有什么理由偏好它们胜过模型论的后承说明。模态主义说明受表达充分性问题的困扰，因为它们无法对可能性作量化；而且它们在理论上不如通常的模型论说明优良，因为它们设定了集合模型之存在与原始一致性事实之间的原始联系。Melia（2003）第 4 章对关于*形而上学*模态的模态主义所面临的问题作了清晰概述，这些问题在逻辑情形中有其对应者。若演绎主义者采取非实体化路线，就必须针对这类挑战给出令人满意的回应。
+    step2: |-
+      这类菲尔德式“模态主义”后承说明在逻辑学家中受采程度颇低：许多人看不出何以偏好它们胜过模型论说明。模态主义说明受表达充分性问题困扰——无法对可能性作量化；且在理论上不如模型论说明优良，因其设定了集合模型之存在与原始一致性事实间的原始联系。Melia（2003）第 4 章清晰概述了关于*形而上学*模态的模态主义所面临的问题，这些问题在逻辑情形中有其对应者。演绎主义者若采非实体化路线，便须针对这类挑战给出令人满意的回应。
+  - id: 89
+    kind: body
+    source: |-
+      ## 6. Unaxiomatic Mathematics
+    step1: |-
+      ## 6. 非公理化的数学
+    step2: |-
+      ## 6. 非公理化的数学
+  - id: 90
+    kind: body
+    source: |-
+      A second objection to deductivism is that deductivism cannot account for unaxiomatic mathematics.[^note-13] This includes pre-axiomatic mathematics such as, say, “Old Babylonian” mathematics of the early second millennium BC, in which first principles are never stated explicitly (Robson 2008: 90)[^robson-2008].[^note-14] But it also includes non-deductive mathematics; for example, we might wish to credit the eighteenth-century Swiss mathematician Euler with knowledge of results obtained through analogical reasoning, extensive verification of cases, and the like.
+    step1: |-
+      对演绎主义的第二项反驳是：它无法说明非公理化的数学。[^note-13] 这包括前公理化时期的数学，例如公元前二千年纪早期的“古巴比伦”数学，其中第一原理从未被明确陈述（Robson 2008: 90）[^robson-2008]。[^note-14] 但也包括非演绎性的数学；例如，我们或许愿意承认十八世纪瑞士数学家欧拉凭借类比推理、对情形的广泛验证等等而获得的结果构成知识。
+    step2: |-
+      第二项反驳是：演绎主义无法说明非公理化的数学。[^note-13] 此中包括前公理化数学，如公元前二千年纪早期的“古巴比伦”数学——其第一原理从未被明确陈述（Robson 2008: 90）[^robson-2008]；[^note-14] 也包括非演绎性数学：例如我们或愿承认十八世纪瑞士数学家欧拉凭类比推理、广泛验证情形等所获结果构成知识。
+  - id: 91
+    kind: body
+    source: |-
+      It seems right to attribute mathematical knowledge to Babylonian mathematicians who, among other things, were able to solve specific quadratic equations. Still, the challenge may not be that worrying. That first principles were not explicit does not mean that they were not implicit. Presumably, any mathematical principle that Babylonian mathematicians were willing to accept without argument should count as a first principle or axiom. Independently of this point, deductivists should also point out that unaxiomatic methods can yield knowledge if they track what a proof would yield. Babylonian mathematicians used methods that reliably produced solutions to specific quadratic equations, even if they could not formulate, still less solve, the general quadratic equation. Euler’s methods reliably tracked the existence of proofs for his results; if they had not, he would not have been right as often as he was. This deals with the vast majority of such cases. Moreover—thinking about the residual cases—there is some reason to think that non-deductive reasoning can yield knowledge of mathematical truth even in the absence of proof (Paseau 2015)[^paseau-2015].
+    step1: |-
+      把数学知识归于巴比伦数学家，看来是对的——他们毕竟能解特定的二次方程。不过，这一挑战或许并不那么令人担忧。第一原理未被明言，并不意味着它们不是隐含的。大概可以说，巴比伦数学家愿意不加论证地接受的任何数学原理，都应算作第一原理或公理。独立于此点，演绎主义者还应指出：只要非公理化方法追踪了证明所会产生的东西，它们就能产生知识。巴比伦数学家所用的方法可靠地得出特定二次方程的解，即便他们无法表述——更无论求解——一般的二次方程。欧拉的方法可靠地追踪了其结果的证明之存在；若非如此，他就不可能像实际那样常对。这解决了此类情形中的绝大多数。此外——考虑残余情形——有理由认为，即便没有证明，非演绎推理也能产生关于数学真理的知识（Paseau 2015）[^paseau-2015]。
+    step2: |-
+      把数学知识归于巴比伦数学家，看来是对的——他们毕竟能解特定二次方程。但此挑战或许并不那么令人担忧：第一原理未被明言，不等于它们不是隐含的。大概说来，巴比伦数学家愿不加论证而接受的任何数学原理，都应算作第一原理或公理。独立于此，演绎主义者还应指出：只要非公理化方法追踪了证明所会产生者，便能产生知识——巴比伦数学家的方法可靠地得出特定二次方程之解，即便他们无法表述、更无论求解一般二次方程；欧拉的方法可靠地追踪了其结果的证明之存在，若非如此，他便不会如实际那般常对。这已解决此类情形的绝大多数。此外——就残余情形而言——有理由认为即便没有证明，非演绎推理亦能产生关于数学真理的知识（Paseau 2015）[^paseau-2015]。
+  - id: 92
+    kind: body
+    source: |-
+      ## 7. A Regress?
+    step1: |-
+      ## 7. 无穷倒退？
+    step2: |-
+      ## 7. 无穷倒退？
+  - id: 93
+    kind: body
+    source: |-
+      We turn now to the third challenge. To introduce it, consider whether deductivism should apply to a sentence such as
+    step1: |-
+      现在转到第三项挑战。为引出它，请考虑：演绎主义是否应适用于这样一个语句：
+    step2: |-
+      现在转向第三项挑战。为引出之，请考虑：演绎主义是否应适用于如下语句——
+  - id: 94
+    kind: body
+    source: |-
+      > the sentence “$2 + 2 = 4$” deductively follows from $Ax$
+    step1: |-
+      > 语句“$2 + 2 = 4$”从 $Ax$ 演绎地推出
+    step2: |-
+      > 语句“$2 + 2 = 4$”从 $Ax$ 演绎地推出
+  - id: 95
+    kind: body
+    source: |-
+      (As usual, we write $Ax$ to preserve neutrality on what the axioms are exactly; see §4 for the options here.) Since proof theory appears to be a branch of mathematics like any other, you might suppose that a consistent deductivist should construe this sentence like any other mathematical one. In which case, the sentence “$2 + 2 = 4$” should be construed not as
+    step1: |-
+      （照例，我们写作 $Ax$ 以对公理究竟为何保持中立；此处诸选项见第 4 节。）既然证明论似乎是数学的一个普通分支，你或许会设想：一个前后一致的演绎主义者应像对待其他数学语句那样诠释这个语句。若然，则“$2 + 2 = 4$”不应被诠释为
+    step2: |-
+      （照例写作 $Ax$，以对公理究竟为何保持中立；诸选项见第 4 节。）证明论既是数学的普通分支，或可设想：前后一致的演绎主义者应像对待其他数学语句那样诠释此句。若然，则“$2 + 2 = 4$”不应诠释为
+  - id: 96
+    kind: body
+    source: |-
+      > the sentence “$2 + 2 = 4$” deductively follows from $Ax$,
+    step1: |-
+      > 语句“$2 + 2 = 4$”从 $Ax$ 演绎地推出，
+    step2: |-
+      > 语句“$2 + 2 = 4$”从 $Ax$ 演绎地推出，
+  - id: 97
+    kind: body
+    source: |-
+      but instead as
+    step1: |-
+      而应诠释为
+    step2: |-
+      而毋宁诠释为
+  - id: 98
+    kind: body
+    source: |-
+      > the sentence “the sentence ‘$2 + 2 = 4$’ deductively follows from $Ax$” deductively follows from $Ax'$.
+    step1: |-
+      > 语句“语句‘$2 + 2 = 4$’从 $Ax$ 演绎地推出”从 $Ax'$ 演绎地推出。
+    step2: |-
+      > 语句“语句‘$2 + 2 = 4$’从 $Ax$ 演绎地推出”从 $Ax'$ 演绎地推出。
+  - id: 99
+    kind: body
+    source: |-
+      (Where $Ax'$ may or may not be identical to $Ax$—this will not affect the main point.) Now if a deductivist is to go down to this route, she will also have to construe this last sentence like any other mathematical one. So it should be glossed in the same way. The same applies to the resulting gloss, and so on without end. Clearly, we are off on an infinite regress.
+    step1: |-
+      （其中 $Ax'$ 与 $Ax$ 可以相同也可以不同——这不会影响要点。）现在，若演绎主义者走上这条路线，她也必须像对待其他数学语句那样诠释最后这个语句。所以它应以同样方式被注释。同样的道理适用于随后产生的注释，如此以至无穷。显然，我们陷入了无穷倒退。
+    step2: |-
+      （$Ax'$ 与 $Ax$ 可同可不同——这无碍要点。）演绎主义者若走上此路，便须同样诠释最后这一语句，故它应以同样方式被注释；此理适用于随之而生的注释，如此以至无穷。显然，我们陷入无穷倒退。
+  - id: 100
+    kind: body
+    source: |-
+      It seems to follow that for the deductivist there is no finite formulation of the sentence “$2 + 2 = 4$”. Any such formulation would have to be infinite, and, if it ends at all, must end in a sentence $s$ that is a “fixed-point” of this iteration. In other words, $s$ must be identical (not just logically equivalent) to “the sentence $s$ deductively follows from $Ax$” (for some $Ax)$ since $s$ is construed by the deductivist as
+    step1: |-
+      看来可以推出：对演绎主义者而言，“$2 + 2 = 4$”这一语句没有有穷的表述。任何这样的表述都必是无穷的，且若它终究有终结，就必须终结于一个语句 $s$，而 $s$ 是这一迭代的“不动点”。换言之，$s$ 必须同一于（而不只是逻辑等值于）“语句 $s$ 从 $Ax$ 演绎地推出”（对某个 $Ax$ 而言），因为 $s$ 被演绎主义者诠释为
+    step2: |-
+      看来可推出：对演绎主义者而言，“$2 + 2 = 4$”没有有穷表述。任何此类表述都必无穷；若终究有终结，则须终结于一语句 $s$，而 $s$ 是此迭代的“不动点”。换言之，$s$ 必须同一于（而不只是逻辑等值于）“语句 $s$ 从 $Ax$ 演绎地推出”（对某个 $Ax$ 而言）——因为 $s$ 被诠释为
+  - id: 101
+    kind: body
+    source: |-
+      > the sentence $s$ deductively follows from $Ax$
+    step1: |-
+      > 语句 $s$ 从 $Ax$ 演绎地推出
+    step2: |-
+      > 语句 $s$ 从 $Ax$ 演绎地推出
+  - id: 102
+    kind: body
+    source: |-
+      Whether such a sentence exists is highly dubious. Even if it does, an infinitely long sentence, with infinitely many embeddings, is an absurdly complicated way to interpret “$2+ 2 = 4$”, which after all is one of the simplest sentences of mathematics, indeed of the English language.
+    step1: |-
+      这样的语句是否存在，极可怀疑。即便存在，一个带有无穷多次嵌入的无限长语句，也是诠释“$2+ 2 = 4$”的一种荒谬繁复的方式——毕竟它是最简单的数学语句之一，也是英语中最简单的语句之一。
+    step2: |-
+      此类语句是否存在极可怀疑；即便存在，一个带无穷多次嵌入的无限长语句，也是诠释“$2+ 2 = 4$”的荒谬繁复方式——毕竟它是最简单的数学语句之一，也是英语中最简单的语句之一。
+  - id: 103
+    kind: body
+    source: |-
+      The objection just raised is premised on the idea that provability claims are mathematical. To support this premise, the objection’s proponent might point out that results in proof theory are typically infused with mathematics. Our conviction that some statement is provable in a deductive system is not usually a result of having carried out the proof ourselves, starting from the axioms and applying the rules of inference to derive the theorem. Rather, it often follows from more abstract mathematical reasoning.
+    step1: |-
+      刚刚提出的反驳，其前提是：可证性断言是数学的。为支持这一前提，反驳的提出者可以指出：证明论中的结果通常浸透着数学。我们确信某语句在一演绎系统中可证，通常并非因为我们自己从公理出发、运用推理规则推出定理而完成了证明，而往往是从更抽象的数学推理中推出。
+    step2: |-
+      刚提出的反驳，其前提是：可证性断言属于数学。为支持此前提，反驳者可指出：证明论中的结果通常浸透着数学——我们确信某语句在某演绎系统中可证，通常并非因亲自从公理出发、依推理规则推出定理，而往往得自更抽象的数学推理。
+  - id: 104
+    kind: body
+    source: |-
+      How should the deductivist reply to this challenge? She can agree that we use mathematics, sometimes even quite sophisticated mathematics, to determine what deductively follows from some axioms. That is an *epistemological* point. But it does not affect her thesis about what mathematics *is*. For the deductivist, the truth of a mathematical claim $p$ consists in its being a theorem of an appropriate deductive system $D$. How we determine what $D$’s theorems are may require mathematics—this is to apply mathematics to proof systems—and perhaps other machinery, but that, to repeat, is an epistemological point. The fact that $p$ is a theorem of $D$ is a fact about a deductive system, namely that there is a sequence of formulas starting from axioms and proceeding by rules of the system concluding in $p$. As the deductivist sees it—as she *has* to see it, to avoid the regress—*this* fact is not mathematical, even if we must use mathematics to determine whether it holds or not. (Compare the claim that a large meteor will land on Earth before 2050: a physical fact, but one we verify or falsify using sophisticated mathematics.)
+    step1: |-
+      演绎主义者应如何回应这一挑战？她可以同意：我们使用数学——有时甚至是相当高深的数学——来确定从某些公理演绎地推出什么。那是一个*认识论*要点，但它不影响她关于数学*是什么*的论旨。对演绎主义者而言，数学断言 $p$ 之真在于它是某个适当演绎系统 $D$ 的定理。我们如何确定 $D$ 的定理是哪些，或许需要数学——这是把数学应用于证明系统——或许还需其他机器，但如已重申，那是一个认识论要点。$p$ 是 $D$ 的定理这一事实，是关于一个演绎系统的事实，即：存在一个公式序列，从公理出发、依系统规则推进、以 $p$ 告终。按演绎主义者的看法——她*必须*如此看，才能避免倒退——*这个*事实不是数学的，即便我们必须用数学来判断它是否成立。（比较“一颗大流星将在 2050 年前落到地球”这一断言：这是一个物理事实，但我们用高深数学来验证或否证它。）
+    step2: |-
+      演绎主义者应如何回应？她可同意：我们使用数学——有时甚至相当高深——来确定从某些公理演绎地推出什么。但那是一个*认识论*要点，不影响她关于数学*是什么*的论旨。对演绎主义者而言，数学断言 $p$ 之真在于它是某适当演绎系统 $D$ 的定理；我们如何确定 $D$ 的定理须用数学（这是把数学应用于证明系统）、或许还需别的东西，但重申一遍，那是认识论要点。$p$ 是 $D$ 的定理这一事实，是关于演绎系统的事实：存在一个公式序列，自公理出发、依系统规则推进、终于 $p$。按演绎主义者的看法——她*必须*如此看，方能避免倒退——*这个*事实不是数学的，即便我们须用数学判断它是否成立。（可比“一颗大流星将在 2050 年前落到地球”：那是物理事实，但我们用高深数学验证或否证之。）
+  - id: 105
+    kind: body
+    source: |-
+      In short, to avoid the regress, deductivists should not apply their interpretation strategy to claims of deductive consequence. For any sentence $s$ and well-specified deductive system $D$, whether $D$ proves $s$ or not should be taken to be a determinate fact. Such facts are the cornerstone of her philosophy and should not be “deductivised”. Rather than have the deductivist recipe applied to them, they must be taken at face value.[^note-15]
+    step1: |-
+      总之，为避免倒退，演绎主义者不应把自己的诠释策略施于演绎后承的断言。对任何语句 $s$ 与任何明确指定的演绎系统 $D$ 而言，$D$ 是否证明 $s$ 应被视为一个确定的事实。此类事实是她哲学的基石，不应被“演绎主义化”。它们不应被施以演绎主义的配方，而必须按面值来接受。[^note-15]
+    step2: |-
+      总之，为避免倒退，演绎主义者不应把诠释策略施于演绎后承之断言。对任何语句 $s$ 与明确指定的演绎系统 $D$，$D$ 是否证明 $s$ 应视为确定事实。此类事实是其哲学的基石，不应被“演绎主义化”；它们不应被施以演绎主义配方，而须按面值接受。[^note-15]
+  - id: 106
+    kind: body
+    source: |-
+      ## 8. Applications
+    step1: |-
+      ## 8. 应用
+    step2: |-
+      ## 8. 应用
+  - id: 107
+    kind: body
+    source: |-
+      The fourth challenge concerns applications. §2 mentioned that deductivism appears to provide a straightforward account of the applicability of mathematics: provided a physical system satisfies the axioms of a particular branch of mathematics, the branch’s theorems must apply to the physical system. But what exactly does it mean for a system to satisfy an axiom? The simplest account of applications is the mapping or isomorphism account. Given a physical set-up $P$, stipulate an isomorphism from $P$ to some mathematical structure $M$, deduce some facts about $M$, and then, applying the isomorphism in the reverse direction, read off the corresponding facts about $P$. Resnik (1980, 125), following Russell and Putnam, worries that this account is knee-deep in mathematics—for what is an isomorphism if not a mathematical object? More generally, a satisfactory account of mathematical applications will have to employ mathematics to explain how mathematics relates to the physical world.[^note-16]
+    step1: |-
+      第四项挑战关乎应用。第 2 节提到，演绎主义似乎为数学的可应用性提供了一个直截了当的说明：只要一个物理系统满足某数学分支的公理，该分支的定理就必定适用于该物理系统。但一个系统满足一条公理，究竟是什么意思？最简单的应用说明是映射或同构说明。给定一个物理装置 $P$，规定一个从 $P$ 到某数学结构 $M$ 的同构，推出关于 $M$ 的某些事实，然后反向运用该同构，读出关于 $P$ 的相应事实。Resnik（1980, 125）继罗素与 Putnam 之后，担心这一说明深陷于数学之中——因为同构若不是数学对象，又是什么？更一般地说，一个令人满意的数学应用说明将不得不动用数学来解释数学如何与物理世界相关。[^note-16]
+    step2: |-
+      第四项挑战关乎应用。第 2 节提到，演绎主义似为数学可应用性提供直截了当的说明：只要物理系统满足某数学分支的公理，该分支定理便必适用于它。但“系统满足一条公理”究竟何意？最简单的应用说明是映射或同构说明：给定物理装置 $P$，规定从 $P$ 到某数学结构 $M$ 的同构，推出关于 $M$ 的某些事实，再反向运用同构、读出关于 $P$ 的相应事实。Resnik（1980, 125）继罗素与 Putnam 之后担心：此说明深陷于数学——同构若非数学对象又是什么？更一般地说，令人满意的数学应用说明将不得不用数学来解释数学如何与物理世界相关。[^note-16]
+  - id: 108
+    kind: body
+    source: |-
+      This is a major concern that applies to a host of other philosophies. All anti-platonists must set out how to understand the mathematics itself used to explain the applicability of mathematics. Eliminative structuralists must give an account of the mathematics relating structures to the physical world. Nominalists must likewise explain how scientific theories laden with commitment to abstract objects can correctly depict the physical facts despite there being no abstract objects. Each specific anti-platonism seems to face some version of this general problem. Allowing the use of mathematics in the metatheory enables a philosophy to relate mathematics and the natural world; disallowing it appears to hamstring a philosophy—or so this challenge maintains.
+    step1: |-
+      这是一个适用于许多其他哲学的重大关切。一切反柏拉图主义者都必须说明：如何理解用于解释数学可应用性的那部分数学本身。消除式结构主义者必须给出说明结构与物理世界相关的数学。唯名论者同样必须解释：承载着抽象对象承诺的科学理论，在并无抽象对象的情况下，如何能正确地描绘物理事实。每一种特定的反柏拉图主义似乎都面临这一普遍问题的某个版本。允许在元理论中使用数学，能使一种哲学把数学与自然世界关联起来；禁止之则似乎使一种哲学寸步难行——这一挑战如此主张。
+    step2: |-
+      此关切同样适用于许多其他哲学。一切反柏拉图主义者都须说明：如何理解用以解释数学可应用性的那部分数学本身。消除式结构主义者须说明结构与物理世界相关的那部分数学；唯名论者亦须解释：承载抽象对象承诺的科学理论，在并无抽象对象时如何能正确描绘物理事实。每一种特定反柏拉图主义似都面临此普遍问题的某个版本：允许元理论使用数学，哲学方能关联数学与自然世界；禁止之则似令哲学寸步难行——此挑战如此主张。
+  - id: 109
+    kind: body
+    source: |-
+      So can the deductivist explain mathematics’ applicability? Perhaps her best hope of doing so is by means of a combined mathematical-scientific “total” theory, which we may call *TT*. *TT* incorporates all the axioms of mathematics, as well as established scientific principles and data. Through its combination of mathematics and science, *TT* is able to posit all sorts of relations between mathematical “structures” and physical situations and thereby explain mathematical applications (at least as well as anyone can). The truth-conditions of physical claims derivable from *TT* should be understood in the usual referential manner, as relating to the physical world; whereas the truth-conditions of mathematical claims should, for the deductivist, be understood as above, namely as claims of the form “$p$ is deducible from *TT*”. Importantly, for the deductivist, “structures” and “isomorphisms” are to be understood deductively within the theory *TT*. Effectively, the deductivist internalises model theory into the deductive framework.
+    step1: |-
+      那么，演绎主义者能说明数学的可应用性吗？她最好的希望或许在于一个数学—科学的联合“总体”理论，我们可称之为 *TT*。*TT* 纳入数学的一切公理，以及既立的科学原理与数据。通过数学与科学的结合，*TT* 能够设定数学“结构”与物理情境之间的种种关系，从而解释数学应用（至少不逊于任何人所能）。从 *TT* 可导出的物理断言，其真值条件应按通常的指称方式理解，即与物理世界相关；而数学断言的真值条件，对演绎主义者而言，应如上文所述理解为“$p$ 可从 *TT* 推出”形式的断言。要紧的是，对演绎主义者而言，“结构”与“同构”都应在理论 *TT* 内部以演绎方式理解。实际上，演绎主义者把模型论内化进了演绎框架。
+    step2: |-
+      那么，演绎主义者能说明数学的可应用性吗？其最好的希望或在一个数学—科学的联合“总体”理论，姑称 *TT*：它纳入数学的一切公理及既立的科学原理与数据，藉数学与科学之结合设定数学“结构”与物理情境间的种种关系，从而解释数学应用（至少不逊于任何人所能）。从 *TT* 导出的物理断言，其真值条件按通常指称方式理解，即与物理世界相关；数学断言的真值条件则如上文所述，理解为“$p$ 可从 *TT* 推出”之形式。要紧的是，“结构”与“同构”对演绎主义者而言须在 *TT* 内部以演绎方式理解——实际上，演绎主义者把模型论内化于演绎框架。
+  - id: 110
+    kind: body
+    source: |-
+      This response looks like it dispatches the challenge from applications. Mathematics and science can be discussed and compared within the single overarching theory, *TT*. However, the response has an Achilles heel: mixed statements. The deductivist construes talk of numbers in deductivist fashion and talk of chairs (say) in straightforwardly literal fashion. So what is she to make of a claim such as “My favourite things are the number 7 and this chair”? The claim cannot be read literally, as it involves reference to a number; nor should it be read in deductivist fashion, since it involves reference to a concrete entity, a particular chair. That a chair is one of my favourite things is a claim with empirical content, to be taken literally. The sentence “my favourite things are the number 7 and this chair” is of course a toy example. The point applies much more widely, since mathematics is seamlessly interwoven with ordinary and (especially) scientific language.
+    step1: |-
+      这一回应看来消除了来自应用的挑战。数学与科学可以在单一的总括理论 *TT* 中讨论与比较。然而，这一回应有一个阿基里斯之踵：混合语句。演绎主义者以演绎主义方式诠释关于数的谈论，而以直白字面方式诠释关于椅子（比如说）的谈论。那么，对“我最喜欢的东西是数字 7 与这把椅子”这样的断言，她如何理解？该断言不能被字面地读，因为它涉及对数的指称；也不应以演绎主义方式读，因为它涉及对一个具体实体即某把特定椅子的指称。“椅子是我最喜欢的东西之一”是一个具有经验内容的断言，须按字面理解。“我最喜欢的东西是数字 7 与这把椅子”这句当然是玩具式的例子。但此点适用范围远广得多，因为数学与日常语言、尤其是科学语言水乳交融。
+    step2: |-
+      此回应似已消解来自应用的挑战：数学与科学可在单一总括理论 *TT* 中讨论比较。然而它有一个阿基里斯之踵——混合语句：演绎主义者以演绎主义方式诠释关于数的谈论，而以直白字面方式诠释关于椅子（比如说）的谈论；那么对“我最喜欢的东西是数字 7 与这把椅子”，她如何理解？此断言不能字面地读（涉及对数之指称），亦不应以演绎主义方式读（涉及对某把具体椅子的指称）。“椅子是我最喜欢的东西之一”具经验内容，须按字面理解。当然，“我最喜欢的东西是数字 7 与这把椅子”只是玩具式例子；但此点适用范围远广——数学与日常语言、尤其是科学语言水乳交融。
+  - id: 111
+    kind: body
+    source: |-
+      The deductivist therefore owes us a recipe for cleaving the mathematical from the non-mathematical in all mixed statements. This is a problem faced by other anti-platonist approaches, for example by fictionalists about mathematics such as Mary Leng.[^note-17] They take applied mathematics to be an “extended fiction” that combines the (alleged) fiction of mathematics with science, which they construe literally (as it is about the physical world). But which is which, where do we draw the line, and how do we deal with statements mixing fiction and the literal, apparently inextricably? Finding good answers to the corresponding questions is a significant challenge for deductivists just as much as it is for fictionalists.
+    step1: |-
+      因此，演绎主义者欠我们一个配方：在所有混合语句中把数学的与非数学的劈分开来。这是其他反柏拉图主义进路也面临的问题，例如玛丽·伦格这样的数学虚构主义者。[^note-17] 他们把应用数学视为一种“扩展虚构”，它把数学的（所谓）虚构与科学结合起来，而后者他们按字面理解（因为它关乎物理世界）。但哪个是哪个，界线划在哪里，我们又如何处理那些把虚构与字面纷然杂陈、看似难解难分的语句？为相应问题找到好答案，对演绎主义者是重大挑战，对虚构主义者亦然。
+    step2: |-
+      故演绎主义者欠我们一个配方：在所有混合语句中把数学者与非数学者劈分。其他反柏拉图主义进路亦面临此问题，如玛丽·伦格式的数学虚构主义者：[^note-17] 他们把应用数学视为一种“扩展虚构”，即把数学的（所谓）虚构与科学相结合，而后者按字面理解（因其关乎物理世界）。但孰为孰，界线何在，又如何处理那些虚构与字面纷然杂陈、看似难解难分的语句？为相应问题找到好答案，对演绎主义者与虚构主义者同属重大挑战。
+  - id: 112
+    kind: body
+    source: |-
+      ## 9. Truth-Completeness
+    step1: |-
+      ## 9. 真值完全性
+    step2: |-
+      ## 9. 真值完全性
+  - id: 113
+    kind: body
+    source: |-
+      We move on to the fifth and final challenge to deductivism. One version of it, owed to Michael Resnik, runs as follows.[^note-18] Consider the deductivist’s set theory $T$ and its Gödel sentence $G_T$. By construction, $G_T$ is not derivable from $T$. So the deductivist cannot explain the truth of $G_T$. Resnik’s response: the deductivist can simply challenge the antideductivist to explain how she “sees” the truth of $G_T$. Whatever mathematical argument the antideductivist offers, the deductivist can simply extract from it an axiom set $T^{+}$ and point out that $G_T$ follows from $T^{+}$. Objection parried.
+    step1: |-
+      下面转向对演绎主义的第五项、也是最后的挑战。其中一个版本出自 Michael Resnik，其论证如下。[^note-18] 考虑演绎主义者的集合论 $T$ 及其哥德尔句 $G_T$。按构造，$G_T$ 不能从 $T$ 导出。所以演绎主义者无法说明 $G_T$ 之真。Resnik 的回应是：演绎主义者可以直接请反演绎主义者说明她如何“看出”$G_T$ 之真。无论反演绎主义者给出什么数学论证，演绎主义者都可以从中抽取一个公理集 $T^{+}$，并指出 $G_T$ 从 $T^{+}$ 推出。反驳遂被挡回。
+    step2: |-
+      以下转向第五亦即最后的挑战，其一个版本出自 Michael Resnik：考虑演绎主义者的集合论 $T$ 及其哥德尔句 $G_T$。按构造 $G_T$ 不能从 $T$ 导出，故演绎主义者无法说明 $G_T$ 之真。Resnik 的回应是：演绎主义者可直接请反演绎主义者说明她如何“看出”$G_T$ 之真；无论对方给出何种数学论证，演绎主义者皆可自其中抽取公理集 $T^{+}$，并指出 $G_T$ 从 $T^{+}$ 推出。反驳遂被挡回。
+  - id: 114
+    kind: body
+    source: |-
+      Gödel’s First Incompleteness Theorem does create a significant problem for deductivism; but it is not the one just formulated and responded to. The above version focuses on how, given a particular theory $(T)$, we are supposed to appreciate the truth of its Gödel sentence $(G_T)$. A stronger form of the objection casts it in more global terms and brackets the issue of the Gödel sentence’s truth. What deductivism appears to get wrong is that it disrespects the entrenched understanding of most parts of mathematics as *truth-complete*: for any precisely formulated sentence $p$ from a truth-complete area of mathematics, exactly one of $p$ and not-*p* is true. Analysis and arithmetic are examples of areas standardly understood to be truth-complete. It is standardly thought, for example, that a statement such as Goldbach’s Conjecture is true or false, even if it turns out to be unprovable from any reasonable axioms, not just present ones.[^note-19] But on the deductivist view, undecidable sentences in any formalisation of arithmetic and analysis are false and their negations are also false, since neither deductively follows from the axioms. That there are undecidable sentences follows from Gödel’s First Incompleteness Theorem together with standard constraints on deductive systems.[^note-20] Hence deductivism misdescribes our understanding of truth-complete branches of mathematics such as arithmetic, analysis and geometry.
+    step1: |-
+      哥德尔第一不完全性定理确实给演绎主义造成重大问题；但不是刚才提出并回应过的那一个。上述版本着眼于：给定一个特定理论 $(T)$，我们如何被指望领会其哥德尔句 $(G_T)$ 之真。这一反驳的一个更强形式以更全局的方式表述，并把哥德尔句之真这一问题搁置起来。演绎主义看来弄错的地方在于：它不尊重数学大部分领域被牢固理解的方式，即*真值完全*：对来自某个真值完全数学领域的任何精确表述的语句 $p$，$p$ 与并非-$p$ 之中恰有一个为真。分析与算术是通常被理解为真值完全的领域的例子。例如，通常认为，像哥德巴赫猜想这样的语句非真即假，即便它最终被证明不能从任何合理的公理推出——而不只是从当前公理推出。[^note-19] 但按演绎主义观点，算术与分析任何形式化中的不可判定语句都是假的，其否定也是假的，因为二者都不能从公理演绎地推出。不可判定语句之存在，由哥德尔第一不完全性定理连同对演绎系统的标准约束推出。[^note-20] 因此，演绎主义错误地描述了我们对算术、分析与几何这类真值完全数学领域的理解。
+    step2: |-
+      哥德尔第一不完全性定理确实给演绎主义造成重大问题，但不是方才提出并回应过的那一个。上述版本着眼于：给定特定理论 $(T)$，我们如何被指望领会其哥德尔句 $(G_T)$ 之真。此反驳的更强形式以更全局的方式表述，并把哥德尔句之真搁置起来：演绎主义看来弄错之处在于，它不尊重数学多数领域被牢固理解的*真值完全*性——对来自真值完全领域的任何精确表述语句 $p$，$p$ 与并非-$p$ 中恰有一个为真。分析与算术即通常被视为真值完全的领域：例如通常认为哥德巴赫猜想非真即假，即便它最终被证不能从任何合理公理推出，而不只是从当前公理推出。[^note-19] 但按演绎主义，算术与分析任何形式化中的不可判定语句皆假，其否定亦假——因二者皆不能从公理演绎地推出。不可判定语句之存在，由哥德尔第一不完全性定理连同对演绎系统的标准约束推出。[^note-20] 故演绎主义错误描述了我们对算术、分析、几何这类真值完全领域的理解。
+  - id: 115
+    kind: body
+    source: |-
+      This objection seems to affect two of the three variants of deductivism we identified at the end of §4: local deductivism and ZFC-deductivism. A form of deductivism the Gödelian objection does not affect is constructivist deductivism, because constructivists do not assume the law of excluded middle in mathematics, so do not assume truth-completeness. Though, as we glimpsed in the discussion of Brouwer (§3.5), constructivists do not tend to be deductivists.
+    step1: |-
+      这一反驳似乎影响我们在第 4 节末所识别出的三种演绎主义变体中的两种：局部演绎主义与 ZFC 演绎主义。哥德尔式反驳不影响的一种演绎主义形式是构造主义演绎主义，因为构造主义者不在数学中假定排中律，故不假定真值完全性。不过，正如我们在讨论布劳威尔时（3.5）一瞥所见，构造主义者往往不是演绎主义者。
+    step2: |-
+      此反驳似影响第 4 节末所识别三变体中的两种：局部演绎主义与 ZFC 演绎主义。哥德尔式反驳所不影响者，是构造主义演绎主义——因构造主义者不在数学中假定排中律，故不假定真值完全性。不过如讨论布劳威尔时（3.5）所见，构造主义者往往并非演绎主义者。
+  - id: 116
+    kind: body
+    source: |-
+      Sticking to classical-logic-using deductivism, its proponent could respond to the objection by idealising the axiom system or the proof system or both. The first approach is to construe “$2 + 2 = 4$” as:
+    step1: |-
+      若坚持使用经典逻辑的演绎主义，其辩护者可以通过理想化公理系统、或证明系统、或二者，来回应这一反驳。第一种做法是把“$2 + 2 = 4$”诠释为：
+    step2: |-
+      坚持经典逻辑的演绎主义者，可藉理想化公理系统、或证明系统、或二者，来回应此反驳。第一种做法把“$2 + 2 = 4$”诠释为：
+  - id: 117
+    kind: body
+    source: |-
+      > the sentence “$2 + 2 = 4$” deductively follows from the *ideal* axioms of arithmetic
+    step1: |-
+      > 语句“$2 + 2 = 4$”从算术的*理想*公理演绎地推出
+    step2: |-
+      > 语句“$2 + 2 = 4$”从算术的*理想*公理演绎地推出
+  - id: 118
+    kind: body
+    source: |-
+      The resulting position is essentially whatever-it-takes deductivism, mentioned in §4. It adds a little more detail to the position articulated in §4 in that the ideal axioms of arithmetic by stipulation give rise to a complete system, in order to overcome the present objection. (Of course, an informal version of whatever-it-takes deductivism would evade the objection altogether, because it is not based on a formal system. But critics will retort that it does so only because its account of mathematical truth is inherently vague.) The second sort of approach might, for example, take the proof system to include infinitary rules of reasoning, such as the omega-rule, which, as is well-known, restores completeness if added to first-order Peano Arithmetic.[^note-21]
+    step1: |-
+      所得立场实质上就是第 4 节提到的“无论需要什么”演绎主义。它比第 4 节所表述的立场多了一点细节：算术的理想公理按 stipulation 产生一个完全的系统，以克服当前的困难。（当然，一个非正式版本的“无论需要什么”演绎主义会完全避开这一反驳，因为它不基于形式系统。但批评者会回敬说，它之所以如此，只是因为它关于数学真理的说明本来就含糊。）第二种进路可以，例如，让证明系统包含无穷推理规则，如 omega 规则——众所周知，若把 omega 规则加到一阶皮亚诺算术上，便恢复了完全性。[^note-21]
+    step2: |-
+      所得立场实质即第 4 节所提“无论需要什么”演绎主义，惟多了一点细节：算术的理想公理依 stipulation 产生一个完全系统，以克服当前困难。（当然，非正式版本的“无论需要什么”演绎主义会完全避开此反驳，因其不基于形式系统；但批评者会回敬说，它之所以如此，只因它关于数学真理的说明本就含糊。）第二种进路可例示为让证明系统含无穷推理规则，如 omega 规则——众所周知，若把 omega 规则加于一阶皮亚诺算术，便恢复完全性。[^note-21]
+  - id: 119
+    kind: body
+    source: |-
+      Idealising deductivism in either of these ways, however, is not to rescue but to abandon it. Any combined axiom-and-proof system that is consistent, deductively complete and strong enough to capture all the truths of mathematics lacks an effective proof procedure, by Gödel’s First Incompleteness Theorem. To see this, consider say the deductive “system” whose “theorems” consist of all the true sentences of arithmetic.[^note-22] Assuming the Church–Turing thesis, this list of “theorems” cannot be generated by any mechanical proof procedure (i.e., algorithm). Idealised deductivism is thus eliminative structuralism in thin disguise, since it advocates taking as the combined axiom-and-proof system whatever it takes to capture the structural content of the axioms, be it by beefing up the axioms or the “proof” system or both. If the idea is that mathematicians take a sentence to be true if and only if it is a logical consequence of the semantic content of structure-characterising axioms, one should come clean and accept deductivism’s semantic counterpart: eliminative structuralism. The clear moral is that what lands deductivism in trouble is its focus on syntax. Instead of taking a syntactic turn as it did in the late nineteenth and early twentieth centuries, the “mathematical statements are conditional on axioms” idea must instead take a semantic form.
+    step1: |-
+      然而，以这两种方式中的任何一种理想化演绎主义，都不是拯救它，而是抛弃它。任何既一致、又在演绎上完全、且强到足以捕捉数学全部真理的公理与证明之复合系统，按哥德尔第一不完全性定理，都缺乏有效的证明程序。要看这一点，试考虑那个“定理”由算术的一切真语句组成的演绎“系统”。[^note-22] 假定丘奇—图灵论题，这份“定理”清单不能由任何机械的证明程序（即算法）生成。因此，理想化的演绎主义只是薄薄伪装的消除式结构主义，因为它主张把那个足以捕捉公理之结构内容的复合公理与证明系统当作一切，无论手段是加强公理、加强“证明”系统、抑或二者兼施。若其想法是：数学家当且仅当一个语句是结构刻画公理之语义内容的逻辑后承时才视之为真，就应当坦白承认并接受演绎主义的语义对等物：消除式结构主义。清楚的教训是：使演绎主义陷入麻烦的，正是它对句法的偏重。与其像十九世纪末二十世纪初那样转向句法，“数学语句以公理为条件”这一想法反倒必须采取语义形式。
+    step2: |-
+      然而以上述任一方式理想化演绎主义，并非拯救而是抛弃它。任何既一致、演绎上完全、又强到足以捕捉数学全部真理的公理与证明之复合系统，按哥德尔第一不完全性定理皆缺乏有效证明程序。试看那个“定理”由算术一切真语句组成的演绎“系统”：[^note-22] 假定丘奇—图灵论题，这份“定理”清单不能由任何机械证明程序（即算法）生成。故理想化的演绎主义只是薄薄伪装的消除式结构主义——它主张把那个足以捕捉公理结构内容的复合系统当作一切，无论手段是加强公理、加强“证明”系统，抑或二者兼施。若其意为：数学家当且仅当某语句是结构刻画公理之语义内容的逻辑后承时方视之为真，便应坦白承认并接受其语义对等物——消除式结构主义。清楚的教训是：令演绎主义陷入麻烦者，正是其对句法的偏重；与其如十九世纪末二十世纪初那样转向句法，不如让“数学语句以公理为条件”这一想法采取语义形式。
+  - id: 120
+    kind: body
+    source: |-
+      Deductivists might try another defence. We quoted Curry in §3.4 as holding that “all formal systems stand on a par”. And this is surely a thought many deductivists will find attractive: in principle, any formal system is acceptable, the differences between one formal system and another being owed to the fact that one of them is better suited to applications, or to the fact that one of the systems happens to be the one $we$ use, and so on. So, for the deductivist, if the axioms of arithmetic $Ax$ we explicitly or implicitly accept are incomplete, then any arithmetical sentence $p$ not decided by them is neither true nor false, precisely because its truth-value is relativised to deducibility from $Ax$. Of course, we can strengthen $Ax$ in one way to derive $p$ and in another way to derive not-$p$, and in those respective strengthenings $p$ will be respectively true and false. This, it appears, is Curry’s suggestion about how deductivists should react to Gödel’s result.
+    step1: |-
+      演绎主义者还可能尝试另一种辩护。我们在 3.4 节引用柯里，他主张“一切形式系统地位平等”。而这无疑是许多演绎主义者会觉得有吸引力的想法：原则上任何形式系统都可接受，一个形式系统与另一个之间的差别，源于其中之一更适合应用，或源于其中一个系统恰是$我们$所用的，等等。因此对演绎主义者而言，如果我们明确或隐含接受的算术公理 $Ax$ 是不完全的，那么任何不被它们判定的算术语句 $p$ 就既非真也非假，这恰恰因为其真值被相对化于从 $Ax$ 的可导出性。当然，我们可以用某种方式加强 $Ax$ 以导出 $p$，又用另一种方式加强它以导出并非-$p$，而在两种各自的加强中，$p$ 将分别为真与为假。看来，这就是柯里关于演绎主义者应如何回应哥德尔结果的建议。
+    step2: |-
+      演绎主义者或另有一辩。3.4 节曾引柯里“一切形式系统地位平等”之说；这无疑是许多演绎主义者觉得有吸引力的想法：原则上任何形式系统皆可接受，系统间的差别只源于其一更适合应用，或其一恰是$我们$所用者，等等。故对演绎主义者而言，若我们明确或隐含接受的算术公理 $Ax$ 不完全，则任何不被其判定的算术语句 $p$ 便既非真亦非假——正因其真值被相对化于自 $Ax$ 的可导出性。当然，我们可循一途加强 $Ax$ 以导出 $p$，又循另一途加强以导出并非-$p$；在两种加强下，$p$ 分别为真、为假。这看来即柯里关于演绎主义者应如何回应哥德尔结果的建议。
+  - id: 121
+    kind: body
+    source: |-
+      The resulting pluralist position rejects truth-completeness for a principled reason. But it rejects it nonetheless, and that must count as a significant cost. For the truth-completeness of arithmetic is a fundamental commitment of mathematics, and permeates most of our thinking about the natural numbers. (A similar point applies to many other areas.) Some would say that respecting it is a non-negotiable constraint on a philosophy of mathematics. Of course, the truth-completeness objection challenges deductivism only in certain areas of mathematics—specifically those typically held to be truth-complete but for which no deductively complete, consistent axiomatisation exists. A complete theory-axiomatisation may be provided even in first-order logic not just for finite structures but for some infinite ones as well.[^note-23] Thus one could still try to defend a deductivism about all other areas. But there is great value in having a uniform philosophy of mathematics. More importantly, given deductivism’s motivations, as outlined in §2, it is hard to see what the point of this sort of eclectic deductivism might be.
+    step1: |-
+      所得多元主义立场出于原则性理由拒斥真值完全性。但它毕竟拒斥了它，而这必须算作重大代价。因为算术的真值完全性是数学的一项根本承诺，渗透于我们关于自然数的大部分思考。（类似之点适用于许多其他领域。）有人会说，尊重它是对一种数学哲学不可协商的约束。当然，真值完全性反驳只在数学的某些领域挑战演绎主义——特别是那些通常被认为真值完全、却不存在演绎上完全且一致的公理化的领域。即便在一阶逻辑中，也可能为某些无限结构（而不只是有穷结构）提供完全的理论公理化。[^note-23] 因此人们仍可尝试为其他一切领域辩护一种演绎主义。但拥有一种统一的数学哲学自有大价值。更重要的是，鉴于第 2 节所概述的演绎主义动机，很难看出这类拼盘式演绎主义究竟有何意义。
+    step2: |-
+      所得多元主义立场出于原则性理由拒斥真值完全性，但它毕竟拒斥了它，而这须算作重大代价：算术的真值完全性是数学的根本承诺，渗透于我们关于自然数的大部分思考（类似之点亦适用于许多其他领域）。有人会说，尊重它乃数学哲学不可协商的约束。当然，真值完全性反驳只在数学的某些领域挑战演绎主义——即那些通常被视为真值完全、却不存在演绎上完全且一致的公理化的领域。即便在一阶逻辑中，亦可能为某些无限结构（不止有穷结构）提供完全的公理化。[^note-23] 故人们仍可为其余一切领域辩护一种演绎主义。然而拥有统一的数学哲学自有大价值；更重要的是，鉴于第 2 节所概述的动机，很难看出这类拼盘式演绎主义究竟有何意义。
+  - id: 122
+    kind: body
+    source: |-
+      Truth-completeness presents the deductivist with a formidable challenge. To meet it, she cannot privilege any system of arithmetic over any other by maintaining that “PA is consistent” is true in one system and false in another. The post-Gödelian realisation that eliminative structuralism fares better here—because it allows for the possibility of truth-completeness if we move to an incompletable semantic consequence relation—led to structuralism’s gain in popularity at the expense of deductivism in the second half of the twentieth century.
+    step1: |-
+      真值完全性给演绎主义者带来了可畏的挑战。为应对它，她不能靠主张“PA 是一致的”在某个系统中为真、在另一系统中为假，从而把任何一套算术系统凌驾于其他系统之上。后哥德尔时期的这一认识——消除式结构主义在此表现更好，因为若我们转向一种不可完全的语义后承关系，它便为真值完全性留出了可能——导致了二十世纪下半叶结构主义人气的上升与演绎主义的衰落。
+    step2: |-
+      真值完全性给演绎主义者带来可畏挑战。为应对之，她不能靠“PA 是一致的在某系统为真、在另一系统为假”来把任何算术系统凌驾于他者之上。后哥德尔时期的这一认识——消除式结构主义在此表现更好，因若转向不可完全的语义后承关系，它便为真值完全性留出可能——导致二十世纪下半叶结构主义人气上升、演绎主义衰落。
+  - id: 123
+    kind: oir
+    source: |-
+      [Please contact the authors with suggestions.]
+    step1: |-
+      ［如有建议，请与作者联系。］
+    step2: |-
+      ［有关建议请径与作者联系。］
+  - id: 124
+    kind: ack
+    source: |-
+      For comments on previous drafts and presentations, we are very grateful to Wes Wrigley, two anonymous journal referees, an anonymous SEP referee, and audience members at several venues: University College London, the Munich Center for Mathematical Philosophy, the University of Oxford’s Philosophy of Mathematics Graduate seminar and its Philosophy of Mathematics seminar, the Ghent-Brussels Seminar in Logic, History and Philosophy of Science, and the Express-PhilMath seminar. Particular thanks go to Bill D’Alessandro, Carlo Nicolai, Dan Waxman, Deniz Sarikaya, Francesca Poggiolesi, Giorgio Sbardolini, Hannes Leitgeb, Hans Robin Solberg, Luca Incurvati, Steffen Ducheyne, Volker Halbach and Walter Dean.
+    step1: |-
+      感谢 Wes Wrigley、两位匿名期刊审稿人、一位匿名 SEP 审稿人，以及以下场合的听众对早期草稿与报告的评论：伦敦大学学院、慕尼黑数学哲学中心、牛津大学数学哲学研究生讨论班及其数学哲学讨论班、根特—布鲁塞尔逻辑与科学史哲学讨论班、Express-PhilMath 讨论班。特别感谢 Bill D’Alessandro、Carlo Nicolai、Dan Waxman、Deniz Sarikaya、Francesca Poggiolesi、Giorgio Sbardolini、Hannes Leitgeb、Hans Robin Solberg、Luca Incurvati、Steffen Ducheyne、Volker Halbach 与 Walter Dean。
+    step2: |-
+      感谢 Wes Wrigley、两位匿名期刊审稿人、一位匿名 SEP 审稿人，以及下列场合听众对早期草稿与报告的评论：伦敦大学学院、慕尼黑数学哲学中心、牛津大学数学哲学研究生讨论班及其数学哲学讨论班、根特—布鲁塞尔逻辑与科学史哲学讨论班、Express-PhilMath 讨论班。尤须致谢 Bill D’Alessandro、Carlo Nicolai、Dan Waxman、Deniz Sarikaya、Francesca Poggiolesi、Giorgio Sbardolini、Hannes Leitgeb、Hans Robin Solberg、Luca Incurvati、Steffen Ducheyne、Volker Halbach 与 Walter Dean。
+  - id: 125
+    kind: note
+    source: |-
+      [^note-1]: Notably, abstract algebra, which includes group theory, field theory, and so on, but also (to use a less widespread name) abstract analysis, which includes topology, the study of Banach spaces, Hilbert spaces, and so on.
+    step1: |-
+      [^note-1]: 特别是抽象代数学，包括群论、域论等，但也包括（用一个不那么流行的名称）抽象分析学，包括拓扑学、巴拿赫空间研究、希尔伯特空间等。
+    step2: |-
+      [^note-1]: 特别是抽象代数，包括群论、域论等；也包括（用一个不那么流行的名称）抽象分析，含拓扑学、巴拿赫空间与希尔伯特空间研究等。
+  - id: 126
+    kind: note
+    source: |-
+      [^note-2]: Hellman and Shapiro (2019) is a survey of contemporary structuralism, building on its authors’ individual versions (Hellman 1989; Shapiro 1997)[^hellman-1989][^shapiro-1997].
+    step1: |-
+      [^note-2]: Hellman 与 Shapiro（2019）是对当代结构主义的一项综述，建立在其作者各自的版本之上（Hellman 1989; Shapiro 1997）[^hellman-1989][^shapiro-1997]。
+    step2: |-
+      [^note-2]: Hellman 与 Shapiro（2019）综述当代结构主义，并建立在其作者各自的版本之上（Hellman 1989; Shapiro 1997）[^hellman-1989][^shapiro-1997]。
+  - id: 127
+    kind: note
+    source: |-
+      [^note-3]: This statement bolts on to eliminative structuralism the usual model-theoretic definition of semantic consequence. There may be some deviations from this scheme in special cases, e.g. in the case of set theory.
+    step1: |-
+      [^note-3]: 这一表述把语义后承的通常模型论定义补挂到消除式结构主义之上。在特殊情形（如集合论）中，可能与本图式有些偏离。
+    step2: |-
+      [^note-3]: 此表述把语义后承的通行模型论定义补挂于消除式结构主义之上；在特殊情形（如集合论）中或与本图式略有偏离。
+  - id: 128
+    kind: note
+    source: |-
+      [^note-4]: Previous critical studies of deductivism include chapter 3 of Resnik (1980) and chapter II of Rheinwald (1984), where the view is called “syntactic implicationism” (*syntaktischer Implikationismus*, 1984: 62); a version of deductivism (called “enhanced if-thenism”) is advocated in Maddy (2022) and criticised in Hellman (2021); and briefer discussions appear in Parsons (2008: 53–6), Linnebo (2017: 48–55), Shapiro (2000: 148–157) and Bostock (2009: 180–183), the last two of which focus on Hilbert’s deductivism.
+    step1: |-
+      [^note-4]: 此前对演绎主义的批判性研究包括 Resnik（1980）第 3 章与 Rheinwald（1984）第 II 章——其中该观点被称为“句法蕴涵主义”（*syntaktischer Implikationismus*, 1984: 62）；Maddy（2022）倡导一种演绎主义版本（称为“增强的如果—那么主义”），Hellman（2021）对其作了批评；较简短的讨论见于 Parsons（2008: 53–6）、Linnebo（2017: 48–55）、Shapiro（2000: 148–157）与 Bostock（2009: 180–183），其中最后两者聚焦于希尔伯特的演绎主义。
+    step2: |-
+      [^note-4]: 此前对演绎主义的批判性研究包括 Resnik（1980）第 3 章与 Rheinwald（1984）第 II 章（其中该观点被称为“句法蕴涵主义”，*syntaktischer Implikationismus*, 1984: 62）；Maddy（2022）倡导一演绎主义版本（“增强的如果—那么主义”），Hellman（2021）批评之；较简短的讨论见 Parsons（2008: 53–6）、Linnebo（2017: 48–55）、Shapiro（2000: 148–157）、Bostock（2009: 180–183），末二者聚焦希尔伯特的演绎主义。
+  - id: 129
+    kind: note
+    source: |-
+      [^note-5]: A logic is axiomatisable just when it has a sound and complete proof procedure.
+    step1: |-
+      [^note-5]: 一个逻辑可公理化，当且仅当它有一个可靠而完全的证明程序。
+    step2: |-
+      [^note-5]: 一逻辑可公理化，当且仅当它有可靠而完全的证明程序。
+  - id: 130
+    kind: note
+    source: |-
+      [^note-6]: As is well known, logical tradition of the past hundred years gives first-order logic a privileged role; and first-order logic is axiomatisable. Although first-order logic is no longer as dominant as it was in the mid-twentieth century, it remains the default logic, especially for metatheoretical investigations, a point stressed in Williamson (2014). For some, such as Quine (1970: 91), first-order logic’s axiomatisability is one of its chief virtues.
+    step1: |-
+      [^note-6]: 众所周知，过去百年的逻辑传统给一阶逻辑一个特权地位；而一阶逻辑是可公理化的。尽管一阶逻辑不再如二十世纪中叶那样占统治地位，它仍是默认逻辑，特别是在元理论研究方面——Williamson（2014）强调了这一点。对某些人（如 Quine 1970: 91）而言，一阶逻辑的可公理化性正是其主要优点之一。
+    step2: |-
+      [^note-6]: 众所周知，过去百年的逻辑传统予一阶逻辑以特权地位，而一阶逻辑可公理化。一阶逻辑虽不再如二十世纪中叶般占统治地位，仍为默认逻辑，尤其在元理论研究中（Williamson 2014 强调此点）；对某些人（如 Quine 1970: 91）而言，其可公理化性正是主要优点之一。
+  - id: 131
+    kind: note
+    source: |-
+      [^note-7]: What flavour of deductivism does Russell have in mind? His use of “formally” in the last quotation gives us a sense. Russell distinguishes formal from material implication (1903 [2009: 14]). *Formal implication* is characterised by the antecedent and the consequent both containing the same variables. For example, to say “$x$ is a man implies $x$ is a mortal, for all values of $x$” is to assert a formal implication (1903 [2009: 11]). *Material implication*, by contrast, holds between propositions without variables (1903 [2009: 14]). For example, to claim that Euclid’s fifth proposition follows from the fourth, neither of which has free variables, is to assert a material implication (1903 [2009: 14]). His claim in the earlier quotation that mathematical statements are of the form “*p* implies *q*”, where “*p* and *q* are propositions containing one or more variables, the same in the two propositions” shows that he takes mathematical statements to be formal implications. At times, Russell adds that the formalisation of a mathematical claim should be prefaced by universal quantifiers, so that all the variables in the conditional become bound (1903 [2009: 6]). This understanding of deductivism seems closest to what we term *unreflexive deductivism* in §4, although to firmly categorise Russell’s view as such may be anachronistic.
+    step1: |-
+      [^note-7]: 罗素心里想的是哪种风味的演绎主义？他在最后一段引文中对“形式地”一词的用法给了我们线索。罗素区分形式蕴涵与实质蕴涵（1903 [2009: 14]）。*形式蕴涵*的特征是前件与后件都含有相同的变量。例如，说“$x$ 是人蕴涵 $x$ 是会死的，对 $x$ 的一切值而言”，便是断言一个形式蕴涵（1903 [2009: 11]）。相比之下，*实质蕴涵*是在不含变量的命题之间成立（1903 [2009: 14]）。例如，断言欧几里得第五命题从第四命题推出——二者都没有自由变量——便是断言一个实质蕴涵（1903 [2009: 14]）。他在前面引文中主张数学语句是“*p* 蕴涵 *q*”的形式，其中“*p* 与 *q* 是含有一个或多个变量的命题，两个命题中的变量相同”——这表明他把数学语句当作形式蕴涵。罗素有时还补充说，数学断言的公式化应前缀全称量词，使条件句中的所有变量都被约束（1903 [2009: 6]）。这种对演绎主义的理解似乎最接近我们在第 4 节所称的*非自反式演绎主义*，尽管断然把罗素的观点归为这一类或有时代错置之嫌。
+    step2: |-
+      [^note-7]: 罗素心里想的是哪种演绎主义？他对“形式地”一词的用法可给线索。罗素区分形式蕴涵与实质蕴涵（1903 [2009: 14]）：*形式蕴涵*的特征是前件与后件含相同变量——例如说“$x$ 是人蕴涵 $x$ 是会死的，对 $x$ 的一切值而言”，即断言一形式蕴涵（1903 [2009: 11]）；*实质蕴涵*则在不含变量的命题间成立（1903 [2009: 14]）——例如断言欧几里得第五命题从第四命题推出（二者皆无自由变量），即断言一实质蕴涵（1903 [2009: 14]）。他主张数学语句是“*p* 蕴涵 *q*”之形式，其中“*p* 与 *q* 是含一个或多个变量的命题，两命题中变量相同”，这表明他把数学语句当作形式蕴涵；他有时还补充说公式化应前缀全称量词，使条件句诸变量皆被约束（1903 [2009: 6]）。这一理解似最接近第 4 节所称*非自反式演绎主义*，惟断然把罗素观点归入此类或有时代错置之嫌。
+  - id: 132
+    kind: note
+    source: |-
+      [^note-8]: The 1882 edition clarifies that the “certain circumstances” are when “the gap cannot be removed through a change in the deduction” (Pasch 1882: 98)[^pasch-1882].
+    step1: |-
+      [^note-8]: 1882 年版澄清说，“某些情况”指的是“该空缺无法通过改变演绎而被去除”之时（Pasch 1882: 98）[^pasch-1882]。
+    step2: |-
+      [^note-8]: 1882 年版澄清：“某些情况”指“该空缺无法通过改变演绎而消除”之时（Pasch 1882: 98）[^pasch-1882]。
+  - id: 133
+    kind: note
+    source: |-
+      [^note-9]: Given his aversion to formalisation, it would not be Brouwer who would later formalise intuitionistic mathematics and logic but his student Arend Heyting, with contributions from others.
+    step1: |-
+      [^note-9]: 鉴于布劳威尔对形式化的厌恶，后来把直觉主义数学与逻辑形式化的不会是他，而是他的学生阿伦德·海廷，并有他人的贡献。
+    step2: |-
+      [^note-9]: 布劳威尔既厌恶形式化，后来把直觉主义数学与逻辑形式化者便不是他，而是其学生阿伦德·海廷，他人亦有贡献。
+  - id: 134
+    kind: note
+    source: |-
+      [^note-10]: In John Burgess’s (1983) terminology, an account that captures the meanings of mathematical statements as ordinarily spoken would be *hermeneutic*.
+    step1: |-
+      [^note-10]: 用 John Burgess（1983）的术语说，一种捕捉通常所说的数学语句之意义的说明会是*诠释学的*（hermeneutic）。
+    step2: |-
+      [^note-10]: 用 John Burgess（1983）的术语，捕捉通常所说数学语句之意义的说明属*诠释学的*（hermeneutic）。
+  - id: 135
+    kind: note
+    source: |-
+      [^note-11]: Maddy’s (2022) “enhanced deductivism” is arguably a species of this whatever-it-takes form. See Hellman (2021) for critical discussion.
+    step1: |-
+      [^note-11]: Maddy（2022）的“增强的演绎主义”可以说是这种“无论需要什么”形式的一个物种。批判性讨论见 Hellman（2021）。
+    step2: |-
+      [^note-11]: Maddy（2022）的“增强的演绎主义”或可说是“无论需要什么”形式之一物种；批判性讨论见 Hellman（2021）。
+  - id: 136
+    kind: note
+    source: |-
+      [^note-12]: Field adds that there are independent reasons, also available to platonists, for taking logical consistency as a primitive notion rather than reducing it in the standard way to the model-theoretic notion.
+    step1: |-
+      [^note-12]: Field 还补充说，另有独立的理由——对柏拉图主义者同样适用——把逻辑一致性当作原始概念，而不按标准方式把它还原为模型论概念。
+    step2: |-
+      [^note-12]: Field 另补充：有独立理由——对柏拉图主义者同样适用——把逻辑一致性当作原始概念，而非按标准方式还原为模型论概念。
+  - id: 137
+    kind: note
+    source: |-
+      [^note-13]: The objection that deductivism cannot account for unaxiomatic mathematics was raised by Resnik (1980: 131–2). The example of Euler is his.
+    step1: |-
+      [^note-13]: 演绎主义无法说明非公理化数学这一反驳由 Resnik（1980: 131–2）提出。欧拉之例是他给的。
+    step2: |-
+      [^note-13]: “演绎主义无法说明非公理化数学”这一反驳由 Resnik（1980: 131–2）提出，欧拉之例亦出其手。
+  - id: 138
+    kind: note
+    source: |-
+      [^note-14]: See Robson (2008) more generally for the mathematics of ancient Iraq, and chapter 4 in particular for the mathematics of the Old Babylonian period (c. 1850–1600 BC).
+    step1: |-
+      [^note-14]: 关于古代伊拉克的数学，更一般地见 Robson（2008）；古巴比伦时期（约公元前 1850–1600 年）的数学尤见其第 4 章。
+    step2: |-
+      [^note-14]: 古代伊拉克数学的一般情况见 Robson（2008）；古巴比伦时期（约公元前 1850–1600 年）之数学尤见其第 4 章。
+  - id: 139
+    kind: note
+    source: |-
+      [^note-15]: Compare the deductivist’s refusal to “deductivise” derivability facts to a recent conventionalist’s insistence that metasemantics is factual and so should not be “conventionalised” (Warren 2020: 334–8)[^warren-2020].
+    step1: |-
+      [^note-15]: 可以把演绎主义者拒绝把可导出性事实“演绎主义化”，与晚近一位约定主义者坚持元语义学是事实性的、因而不可被“约定化”相比拟（Warren 2020: 334–8）[^warren-2020]。
+    step2: |-
+      [^note-15]: 演绎主义者拒绝把可导出性事实“演绎主义化”，可与晚近某约定主义者坚持元语义学为事实性、故不可“约定化”相拟（Warren 2020: 334–8）[^warren-2020]。
+  - id: 140
+    kind: note
+    source: |-
+      [^note-16]: Maddy (2022: 267–272) also discusses applications, which constitute her second challenge to deductivism.
+    step1: |-
+      [^note-16]: Maddy（2022: 267–272）也讨论了应用问题，此即她对演绎主义的第二项挑战。
+    step2: |-
+      [^note-16]: Maddy（2022: 267–272）亦讨论应用，此即其对演绎主义的第二项挑战。
+  - id: 141
+    kind: note
+    source: |-
+      [^note-17]: For Leng’s fictionalism, see in particular her 2010 book.
+    step1: |-
+      [^note-17]: 关于伦格的虚构主义，特别参见她 2010 年的著作。
+    step2: |-
+      [^note-17]: 伦格的虚构主义，特别参见其 2010 年著作。
+  - id: 142
+    kind: note
+    source: |-
+      [^note-18]: See Resnik (1980: 124–5), which follows Putnam (1967a [1975: 26]).
+    step1: |-
+      [^note-18]: 见 Resnik（1980: 124–5），其中承袭 Putnam（1967a [1975: 26]）。
+    step2: |-
+      [^note-18]: 见 Resnik（1980: 124–5），承袭 Putnam（1967a [1975: 26]）。
+  - id: 143
+    kind: note
+    source: |-
+      [^note-19]: It is difficult to spell out what it would be for a statement to lack a proof in some absolute sense. But here we are merely describing the usual attitude, not trying to explicate it. Goldbach’s Conjecture states that every even number greater than 2 is the sum of two primes.
+    step1: |-
+      [^note-19]: 要讲清一个语句在某种绝对意义上缺乏证明究竟意味着什么，是困难的。但此处我们只是在描述通常的态度，并非试图阐明它。哥德巴赫猜想说的是：每个大于 2 的偶数都是两个素数之和。
+    step2: |-
+      [^note-19]: 讲清“语句在某种绝对意义上缺乏证明”之含义颇难；此处仅描述通常态度，非试图阐明之。哥德巴赫猜想的表述是：每个大于 2 的偶数皆为两素数之和。
+  - id: 144
+    kind: note
+    source: |-
+      [^note-20]: We assume that relevant deductive systems are recursively axiomatisable and consistent.
+    step1: |-
+      [^note-20]: 我们假定相关的演绎系统是递归可公理化的并且一致的。
+    step2: |-
+      [^note-20]: 我们假定相关演绎系统递归可公理化且一致。
+  - id: 145
+    kind: note
+    source: |-
+      [^note-21]: Benacerraf (1973: 665) mentions the omega-rule in this connection. The rule allows us to infer “for all $n$, $\phi(n)$” from the infinitely many premises $\phi(0), \phi(1), \phi(2),\ldots$.
+    step1: |-
+      [^note-21]: Benacerraf（1973: 665）在此关联中提到 omega 规则。该规则允许我们从无穷多前提 $\phi(0), \phi(1), \phi(2),\ldots$ 推出“对一切 $n$，$\phi(n)$”。
+    step2: |-
+      [^note-21]: Benacerraf（1973: 665）在此际提到 omega 规则：该规则允许自无穷多前提 $\phi(0), \phi(1), \phi(2),\ldots$ 推出“对一切 $n$，$\phi(n)$”。
+  - id: 146
+    kind: note
+    source: |-
+      [^note-22]: To be more precise, one might specify that these are all and only the true sentences of first-order Dedekind-Peano Arithmetic; but the point applies to any reasonable system of arithmetic.
+    step1: |-
+      [^note-22]: 更精确地说，人们可以指定这些是一阶戴德金—皮亚诺算术的全部且仅为真的语句；但这一点适用于任何合理的算术系统。
+    step2: |-
+      [^note-22]: 更精确地说，可指定这些为一阶戴德金—皮亚诺算术全部且仅为真的语句；然此说适用于任何合理算术系统。
+  - id: 147
+    kind: note
+    source: |-
+      [^note-23]: For example, as is well known, the first-order theory of dense linear orders without endpoints is complete.
+    step1: |-
+      [^note-23]: 例如众所周知，无端点的稠密线性序之一阶理论是完全的。
+    step2: |-
+      [^note-23]: 例如众所周知，无端点稠密线性序的一阶理论是完全的。

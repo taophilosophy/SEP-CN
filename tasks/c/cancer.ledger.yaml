@@ -1,0 +1,481 @@
+version: 1
+slug: cancer
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      Cancer is a major health problem worldwide; it is a leading cause of death, and with few exceptions, there have been steady increases in incidence and mortality (WHO, 2020). Perhaps not surprisingly, then, cancer is a central topic of biomedical research, drawing billions of dollars annually. In 2019, the U.S. National Cancer Institute (NCI) allocated $5.74 billion in federal dollars, a $79 million increase over 2018 (NCI, 2019—see the Other Internet Resources). A search for the term “cancer” in PubMed returns over three million hits.
+    step1: TBD
+    step2: TBD
+  - id: 2
+    kind: body
+    source: |-
+      Despite this, cancer—and scientific research on cancer—has received relatively little attention from philosophers of science. However, this is starting to change. Recent work by philosophers of science has made substantial contributions to addressing conceptual and methodological issues that arise in cancer science and medicine (Pradeu, et. al., 2023). This entry will focus on four such issues.
+    step1: TBD
+    step2: TBD
+  - id: 3
+    kind: body
+    source: |-
+      First, scientific classifications of cancer have as yet failed to yield a unified taxonomy. There is a diversity of classificatory schemes for cancer, and while some are hierarchical or nested, others appear to be “cross-cutting.” Initially, researchers turned to genomics in hopes that such issues might be resolved by molecular “subtyping”. However, genomic sequencing and its sequelae—transcriptomics, proteomics, epigenomics, etc.—have, if anything, complicated cancer classification. This literature thus raises a variety of questions about both the nature of the disease and disease classification: Are there some classifications that are more useful, or better than others? What makes a classification a good one? What does it mean to track more or less “natural” distinctions in the context of disease? The problem of cancer classification is complicated by the fact that cancer progression is a process with a complex natural history. Thus, cancer serves as a challenging case not only for disease classification, but also for demarcating disease from health.
+    step1: TBD
+    step2: TBD
+  - id: 4
+    kind: body
+    source: |-
+      Second, many assume that the aim of science is to arrive at true theories, from which one may generate predictions and explanations. However, scientists studying cancer seem to have a variety of different practical and scientific aims, and the practical aims seem to receive far more attention than theoretical ones. Perhaps it is not surprising, then, that historians and philosophers of science do not seem to agree on how best to characterize the aims, let alone agree on how best to assess “progress” in cancer research. With the rise of “big data” science, both philosophers and historians of science are rethinking how best to describe and explain these distinctive kinds of scientific inquiry.
+    step1: TBD
+    step2: TBD
+  - id: 5
+    kind: body
+    source: |-
+      Third, cancer is in part a byproduct of our developmental and life history, as well as our evolutionary history. Cancer’s emergence and progression has been compared to a reversion of development, and to the evolution of multicellularity. Thus, cancer raises intriguing questions about how we conceive of “functions,” “development,” and the role of our evolutionary history and particularly, selective trade-offs, in vulnerability to disease.
+    step1: TBD
+    step2: TBD
+  - id: 6
+    kind: body
+    source: |-
+      Last but not least, cancer research provides a case study for consideration of the roles of values in science, and at the science-policy interface. Epidemiological and toxicological research on cancer’s causes informs law and regulatory policy. Cancer research also provides a test case for debates about the challenges facing precision medicine; in particular, the complexity and heterogeneity of cancer makes translating “basic” science into the “real world” enormously difficult. This does not exhaust the variety of conceptual and methodological questions that arise in cancer science. Philosophical work on cancer is increasingly brought into conversation with debates of general philosophical interest over causation, risk, chance, choice, and moral responsibility.
+    step1: TBD
+    step2: TBD
+  - id: 7
+    kind: body
+    source: |-
+      ## 1. Defining and Classifying Cancer
+    step1: TBD
+    step2: TBD
+  - id: 8
+    kind: body
+    source: |-
+      What is cancer? Is cancer one disease, or many? If many, how many cancers are there? One might think that such questions are merely empirical. However, it turns out that defining and classifying cancer is contested not merely for empirical reasons. There are at least two broader philosophical issues at stake. First, there is little agreement on how to characterize disease, distinguish disease from health, and thus classify diseases, generally (See the entry on concepts of health and disease). Second, cancers exhibit features that make generating classifications difficult; they are heterogeneous, and variable in their etiology and course of progression. In section 1.1, we will consider challenges facing cancer classification given its intrinsic heterogeneity, and in section 1.2, we will consider challenges facing cancer classification given its variable natural history.
+    step1: TBD
+    step2: TBD
+  - id: 9
+    kind: body
+    source: |-
+      *Prima facie*, what distinguishes diseases are typical symptoms, disease course, and a common cause. However, cancer can be present without clinically detectable symptoms, has variable disease course, and is a multifactorial disease. It is difficult to pick out a “causal bottleneck” uniquely necessary for cancer in general, let alone each cancer type and subtype. While cancers are typically classified by their cell-of-origin—or the tissue, or organ, and cell-type where they originated (e.g., squamous cell carcinoma of the skin or ovaries), it turns out that cancers can contain mixes of different cells of origin, and cancers arising in the same cells or tissues can have very different features, may evolve in different ways, and have different vulnerability to treatment (Marusyk, et al. 2012). How, then, are we to classify such poorly behaving kinds? These puzzles led researchers to wonder whether there are distinctive genetic or molecular “signatures” of each cancer that can help us estimate risk of progression, or chances of recurrence, as well as predict responses to treatment. Perhaps these molecular signatures are the key to a natural taxonomy of cancer types and subtypes?
+    step1: TBD
+    step2: TBD
+  - id: 10
+    kind: body
+    source: |-
+      ### 1.1 Cancer’s Intrinsic Heterogeneity
+    step1: TBD
+    step2: TBD
+  - id: 11
+    kind: body
+    source: |-
+      The hope that molecular signature will address these classification problems in part inspired international efforts at sequencing cancer genomes – the Sanger Institute’s Cancer Genome Project, and the U.S.’s Cancer Genome Atlas project (TCGA). Such projects use high-throughput genome sequencing to identify both inherited and somatically acquired mutations to genes affected in cancer cells, as well as mutational processes and patterns of clonal evolution. The TCGA aimed at generating a catalogue of mutations distinctive to of each cancer type and subtype, resulting in thirty-three “marker” papers, and some novel subclassifications. For example, in 2015, a working group affiliated with TCGA published a “Comprehensive Genomic Characterization of Head and Neck Squamous Cell Carcinomas,” which identified specific mutations associated with human-papillomavirus-associated versus smoking-related head and neck cancers. While such projects did result in a more comprehensive understanding of cancer biology, they also raised many questions. Cancer genomes have many mutations, so a central puzzle has been determining which among the many changes to cancer genomes are causally relevant to cancer progression, or which mutations are “drivers” of cancer. Sorting the “signal” from the noise has proven more difficult than anticipated.
+    step1: TBD
+    step2: TBD
+  - id: 12
+    kind: body
+    source: |-
+      There are very different rates, numbers and types of mutations across and within different cancer types and subtypes – what is called “intertumor heterogeneity.” Which mutations play a more significant causal role, viz. which outcome in different cancers, over the course of cancer progression, is a difficult puzzle to solve. In part as a result of this, the concepts of “driver mutation” and “actionability” have come to be deployed quite differently in different contexts, leading to problems of slippage between criteria of application in research and clinical contexts (Chin-Yee and Plutynski, forthcoming). Complicating this further, a cancer may contain several subpopulations of cells (or, multiple evolving lineages), with different numbers and types of mutations within each lineage. Or, cancers have varying types and degrees of “intratumor heterogeneity.” So, samples of a tumor taken when cancer is first diagnosed may be representative of only one subpopulation of one stage of a dynamic process. Such samples may not be representative of the genomic changes of greatest relevance to late-stage disease.
+    step1: TBD
+    step2: TBD
+  - id: 13
+    kind: body
+    source: |-
+      All this would be challenging enough as it is, but there is a yet further challenge facing hierarchical subclassifications of cancer based on molecular information. Cancers arising in the same tissue or organ can be more genetically dissimilar than cancers arising in different tissues or organs (Hoadley, et. al., 2014, 2018). Genomic information, far from providing a way to sort all cancers into a Linnean hierarchy, instead yields what philosophers have called cross-cutting classifications (Khalidi, 1998).
+    step1: TBD
+    step2: TBD
+  - id: 14
+    kind: body
+    source: |-
+      Moreover, the effects of mutations are context-dependent, making their causal relevance to any given cancer difficult to discern. Some mutations may provide low or no advantage to the mutated cells, until conditions change, such as the application of chemotherapies, which can lead to proliferation of cells with specific mutations (Hsu et al. 2018)[^hsu-2018]. Even the order of acquisition of mutations can change the biology and outcome of the disease. For example, depending on which of two genes was first mutated, patients with myeloproliferative neoplasms (MPN) have different risks of different outcomes (Ortmann et al. NEJM 2015; Kent and Green 2017)[^kent-2017][^ortmann-2015].
+    step1: TBD
+    step2: TBD
+  - id: 15
+    kind: body
+    source: |-
+      Several “extra-genomic” factors also play an important role in cancer causation and thus, arguably, ought to play at least a partial role in informing cancer taxonomy. For instance, it turns out changes in microRNA in cancer cells—non-coding RNA, which affects the expression of genes—can affect cancer initiation, progression, and responses to drugs (Hrovatin, et al. 2018). Life history (e.g. parity, or number of children, and age at first birth), environmental exposures, and histories of infection, and immune response, contribute differentially to cancer’s age of onset, rate of progression, histopathology, and response to treatment. For instance, infectious agents (e.g., HPV- or HCV-) are associated with cervical and liver cancers, and some proportion of esophageal cancers (Cancer Genome Atlas, 2015; Morgan, 2022). Indeed, for several decades, the primary cause of cancer was thought to be viral, and inquiry into viral origins of cancer in part led to many insights into cancer causation, whether originating in viruses or not (see, e.g., Morgan, 2022). Cancers of the prostate and breast are associated with hormones, which are in turn affected by parity. “Pregnancy-associated” breast cancers are cancers that arise during or shortly after pregnancy (see, e.g., Schedin 2006)[^schedin-2006]. The “same” cancer in the same tissue or organ can be classified as either “somatic,” or “familial”—due in part to whether the patient possesses inherited mutations that raise a risk of some cancers, such as those with Li Fraumeni syndrome. Smoking associated lung cancers and non-smoking associated lung cancers are distinct genetically, epigenetically, and phenotypically (e.g., in gross pathology, course of progression, as well as response to treatment).
+    step1: TBD
+    step2: TBD
+  - id: 16
+    kind: body
+    source: |-
+      Which of these several causal factors ought to figure centrally in classification? Depending upon how fine-grained a characterization of the causal basis of cancer one adopts, there could be hundreds or thousands of cancer types and subtypes. It’s far from clear whether there is one obvious choice of causal basis or distinctive properties that best reflects anything like a “natural” division of type and subtypes. Indeed, the case of cancer raises the larger question of whether one can or should expect a univocal classification of diseases, more generally. Are diseases, particularly multifactorial ones such as cancer, “natural” kinds? Or, are they simply ways of carving up the world that we happen to find useful?
+    step1: TBD
+    step2: TBD
+  - id: 17
+    kind: body
+    source: |-
+      Several philosophers have weighed in on these matters (see, e.g., Ereshefsky & Reydon 2015; Lange 2007; Broadbent 2009 and 2014; Williams 2011; Khalidi 2013; Sorenson 2011, Bechtel, 2019)[^broadbent-2009][^broadbent-2014][^ereshefsky-2015][^khalidi-2013][^lange-2007][^sorenson-2011][^williams-2011]. The questions these authors are addressing are both epistemic—what warrants choice of criteria of classification of disease—and metaphysical—given diseases like cancer lack essential properties (or, properties belonging all and only to each type), is it correct to think of diseases as “natural kinds”? Such debates turn on more fundamental questions, such as whether there are any general criteria for “naturalness” of scientific categories, and if so, whether to take underlying causal or constitutive bases, mechanisms, networks, or mere similarity or “feature matching” as sufficient (Slater, 2014; Bechtel, 2019; Boniolo, et. al., 2021; Boniolo et al., 2023).
+    step1: TBD
+    step2: TBD
+  - id: 18
+    kind: body
+    source: |-
+      Some philosophers have expressed skepticism about whether cancer, or indeed, diseases, per se, are natural kinds. Lange (2007) for instance, argues that, “a disease is a natural kind of incapacity that features in interesting function-analytic explanations of other unhealthful incapacities”(Lange, 2007, 266). Thus, cancer is not a “natural kind,” in his view, because the “typical patterns of disruption of cell birth and death” characteristic of cancer are multiply realized. Lange claims that insofar as categories like “breast cancer” or “lung cancer” seem to be increasingly replaced in modern medicine by molecular subtyping, and molecular subtypes are not “natural kinds of incapacity,” they are not distinct diseases. Indeed, many “disease kinds” lack unifying “function-analytic” explanations. Thus, modern medicine has, in a sense, led to the “end of diseases” as natural kinds. In a similar vein, but for very different reasons, Sorenson (2011) argues that diseases are “para-natural” kinds. Insofar as diseases are “deficiencies,” or “departures from the norm,” they lack the “integrity” or “internal nature” characteristic of natural kinds. Sorenson thus suggests that diseases are “reflections” of natural kinds of process. They “inherit the lawfulness and projectability of the natural kinds that shape them.” In other words, both Lange and Sorenson seem similarly skeptical that diseases like cancer have the integrity or explanatory role of natural kinds.
+    step1: TBD
+    step2: TBD
+  - id: 19
+    kind: body
+    source: |-
+      In contrast, while Broadbent (2009, 2014), Williams (2011), and Khalidi (2013) agree that diseases like cancer lack essential properties, disease classifications are natural classifications, insofar as they pick out distinctive “deviations from normal functional ability,” or homeostatic property clusters. Broadbent’s (2009, 2014) “contrastive” model of disease classification takes diseases to be distinct in light of distinctive causes. Where there is a difference in at least one of a set of causes shared by “controls” and “cases” (where cases have distinct “parts and processes deviating (negatively) from normal functional ability”), we have a distinct disease. Broadbent takes this account to explain why, for instance, “cervical cancer is a disease, but HPV-itis is not.” Though, this case raises an interesting question as to whether potential, rather than overt, dysfunction is more central to disease classification. In public health contexts, it is often important to control “asymptomatic,” or potentially dysfunctional states. Strains of HPV that do not currently cause cancer could well evolve the capacity to do so. So, perhaps from a public health perspective, “HPV-itis” is a perfectly legitimate disease category, in service of deploying interventions that limit the spread of HPV more generally. That is, from a preventive medicine perspective, what matters is that a disease category is a good one for predicting and intervening, even where functional disruption does not always (or even most of the time) eventuate. Which choice of classification we ought to make in demarcating disease types might depend not only on which contrast we are interested in explaining retrospectively, but also which kind of intervention we wish to promote prospectively.
+    step1: TBD
+    step2: TBD
+  - id: 20
+    kind: body
+    source: |-
+      Khalidi (2013) argues that cancer might be a homeostatic property cluster kind, on the grounds that cancer is driven by “homeostatic” mechanisms—namely, mutations to “caretaker” genes, or genes that play a “gatekeeping” role in preventing or permitting the emergence of a tumor. Acquisition of mutations to specific “caretaker” genes, on this view, serve a function akin to Boyd’s (1999) “homeostatic mechanisms,” in that they permit the further acquisition of “hallmark” properties of cancer cells. Khalidi is drawing upon a very common view of cancer, articulated by two famous cancer researchers, Hanahan and Weinberg (2000, 2011). They identify what they take to be the “hallmarks” of cancer: “a small number of molecular, biochemical, and cellular traits—acquired capabilities—shared by most and perhaps all types of human cancer.” They identified these “six essential alterations in cell physiology that collectively dictate malignant growth” as: self-sufficiency in growth signals, insensitivity to antigrowth signals, evasion of apoptosis (cell death), sustained angiogenesis (the ability to develop a blood supply), tissue invasion and metastasis (Hanahan & Weinberg 2000, 57)[^hanahan-2000]. By way of example of a caretaker, *TP53* is called a tumor suppressor, because it carries the function of responding to signals associated with cell damage by typically inducing apoptosis, or cell death. It is one of the only genes mutated in a majority of cancers sequenced (Bailey, et al. 2018). Thus, Weinberg (2013) characterizes it as “master guardian and executioner,” in that it prevents further mutations by inducing cell death where there are signs of trouble. On Khalidi’s view, one ought to understand disruption of these very capacities as “homeostatic mechanisms” for cancer.
+    step1: TBD
+    step2: TBD
+  - id: 21
+    kind: body
+    source: |-
+      At first blush, this seems a vivid case of a homeostatic property cluster kind; on Khalidi’s view, it is these distinctive “caretaker” mutations that permit or promote cancer. However, where we take a mechanism “for cancer” to begin and end is in large part a pragmatic matter (Craver 2009)[^craver-2009]; arguably, one might carve up the “homeostatic mechanisms for” cancer to yield many or few cancer subtypes (Plutynski, 2018). Hanahan and Weinberg’s initial picture has been complicated since 2001. In 2011, Hanahan and Weinberg updated their hallmarks to include four more: “genome instability, which generates the genetic diversity that expedites their acquisition, and inflammation, which fosters multiple hallmark functions… reprogramming of energy metabolism, and evading immune destruction.” And, “In addition to cancer cells, tumors exhibit another dimension of complexity: they contain a repertoire of recruited, ostensibly normal cells that contribute to the acquisition of hallmark traits by creating the tumor microenvironment” (2011, 646). In other words, hallmarks of cancer appear to no longer involve all and only intrinsic properties of cancer cells, but also dynamic interactions between cancer cells and the immune system and extra-tumor environment. This may not be such a serious challenge to Khalidi’s view that caretaker mutation are mechanisms for cancer. One could, arguably, just expand the mechanisms for homeostasis to the tumor microenvironment. However, such a strategy is complicated by the context-sensitivity of causes of cancer, discussed above. Many cells on the surface of the skin as we age possess as many mutations to “caretaker” genes as those in a breast tumor, but most such skin cells are shed and never eventuate in disease (Martincorena, et al. 2015). The “same” mechanisms may well lead to harm in one context, and be entirely harmless in another.
+    step1: TBD
+    step2: TBD
+  - id: 22
+    kind: body
+    source: |-
+      Several recent efforts at cancer classification use network, “deep learning” methods or AI to mine data to identify patterns of association or clusters of common features within and across different cancer types. These methods have been used to address the so-called “curse of dimensionality” problem: i.e., sort through enormous amounts of genomic data, and speed development of tools for both diagnosis and treatment. Recent philosophical work explores a variety of methodological and conceptual challenges facing use these methods. While some are optimistic about the use of such tools in classification of cancers and other diseases, others are more skeptical (Boniolo & Nathan, 2016; Boniolo and Campagner, 2019a, 2019b; Bechtel, 2019; Shrager, et. al., 2019; Hey, et. al., 2019; Chin-Yee and Upshur, 2019; Green et al., 2022; Plutynski, 2018; Plutynski, 2022). Skepticism comes from several sources. First, some raise methodological concerns about representativeness of samples, sample quality and purity, batch effects, and the fact that methods of both sequence analysis and data labeling and curation are constantly being updated, such that data gathered even five years past may need revisiting. Others warn that different ways of labeling the same genetic information can lead to contradictory results in clinical trials of novel cancer drugs, or mistaken inferences about likely progression or treatment benefit (Hey, 2015, 2019; Hey, et. al., 2016, 2019). Some worry that genomic data is a static representation of gene expression profile at a single point in time, but cancer is a dynamic process, shaped in part by the “tumor microenvironment” (TME) – the environment surrounding a tumor. If we are interested in determining how cancers progress, or are likely to respond to treatment, we arguably need to take multiple samples at several points in time, and even broaden consideration of relevant causal factors outside the (local) tumor environment, to the “tumor organismal environment” (TOE) (Laplane, et. al., 2018, 2019b). How best to integrate as wide as possible an array of genomic, extra-genomic, and clinical information is not obvious, as well as how best to take into consideration the dynamic features of cancer progression.
+    step1: TBD
+    step2: TBD
+  - id: 23
+    kind: body
+    source: |-
+      The larger issues raised by this case is whether there is one way to privilege choice of causal basis for classifying disease. Different choice of temporal or spatial scale, or more or less fine-grained characterization of causal processes, might yield multiple, overlapping disease classifications. While some may be willing to bite this bullet, and indeed, endorse pluralism and non-hierarchical classifications (see, e.g., Khalidi 1998, 2013)[^khalidi-1998], others might be concerned that this would yield too permissive an array of disease types, or inconsistent classifications, thus complicating scientific communication. More generally, this case raises some interesting puzzles about the aims and methods of classification in the biomedical sciences more generally. Given that genomic features of cancer are unlikely to unproblematically yield a single natural taxonomy, we might become skeptical of reductive pictures of disease classification and explanation. It seems that classifications of disease like cancer form a kind of ‘hybrid’—they are intended to capture natural regularities and their causes, but also to be of use for a wide array of agents with different purposes. It’s unclear whether all these purposes can be served by one method or set of classificatory criteria.
+    step1: TBD
+    step2: TBD
+  - id: 24
+    kind: body
+    source: |-
+      ### 1.2 Cancer’s Variable Natural History
+    step1: TBD
+    step2: TBD
+  - id: 25
+    kind: body
+    source: |-
+      A major complication surrounding classification in the case of cancer is that cancers have variable disease course (Foulds 1958; Cairns 1975; Lynch 2007; Bertolaso & Dupré 2018; Plutynski, 2018)[^bertolaso-2018][^cairns-1975][^foulds-1958]. Not all cancers progress uniformly to metastasis and death; some growths progress slowly or not at all. Some very common cancers (in the prostate and thyroid) are either slow growing, or tend to remain “indolent” (Esserman, et al. 2014; Siegel, et al. 2017). There is some disagreement in the medical community about how to characterize such cases; it’s unclear whether they are best viewed as very slow growing precancerous lesions, or perhaps ought not be characterized as cancer, at all (Schwartz, 2014). Such cases also raise a host of practical questions about the merits of screening, and the risk of overdiagnosis—the diagnosis of disease that might never have progressed in the lifetime of the patient (see, e.g., Walker & Rogers 2016; Hofman 2017; Esserman, et al. 2014; Welch & Black 2010)[^welch-2010]. They also raise interesting philosophical questions about the nature of disease.
+    step1: TBD
+    step2: TBD
+  - id: 26
+    kind: body
+    source: |-
+      Some philosophers (Schwartz 2014)[^schwartz-2014], drawing upon the biostatistical theory of disease as departure from age and sex-typical function (Boorse 1977), argue that we ought to classify such early-stage cancers as risk factors, rather than disease. Such growths are not disease, on this view, because they are not atypical and do not yet impair function—in fact as many as one half of men over 60 have some lesions of the prostate (Welch & Black 2010)[^welch-2010]. Reclassification of such cancers as mere risk factors, Schwartz argues, will prevent overdiagnosis and overtreatment. Other philosophers (e.g., Reid 2017)[^reid-2017] argue that this approach fails to acknowledge how the practice of diagnosis is itself a sort of risk-benefit calculation, informed in part by our knowledge of the prevalence of early-stage or indolent disease, and in part by more or less precautionary values. It seems this debate is not only a scientific one, but also a normative one; much like debates about PTSD or obesity, there are normative dimensions to how we diagnose and classify disease. Labeling can have both positive and negative consequences for patients, clinicians, insurers, not to mention developers and producers of screening, medical device, and pharmaceuticals (Ereshefsky 2009)[^ereshefsky-2009]. Overdiagnosis of early-stage disease can lead to serious harms; treating a condition that may or may not progress to invasive disease in the lifetime of a patient is costly and harmful.
+    step1: TBD
+    step2: TBD
+  - id: 27
+    kind: body
+    source: |-
+      One hope driving the precision medicine research program is that the identification of biomarkers of aggressive disease will resolve these ambiguities with respect to early stage disease, as well as identify targets of effective treatment (see, e.g., Collins, et al. 2005). However, as we have seen, interpreting genomic data has been far from straightforward, and classifying cancer types and subtypes by appeal to genomic information alone can lead to a loss of important information. While genomic and molecular data is no doubt useful, it is not necessarily decisive.
+    step1: TBD
+    step2: TBD
+  - id: 28
+    kind: body
+    source: |-
+      In sum, much like genes and species, diseases like cancer lack essences, are heterogeneous, blur together at the edges, are caused in many different ways, and have variable dynamics. Perhaps inconsistent classifications are simply to be expected in such cases. That this is so does not (necessarily) show that we ought to give up on realism about disease kinds; indeed, perhaps we ought to endorse “promiscuous realism” (Dupré 1995). As knowledge has grown, and practical interests shift, classifications can multiply and even cross-classify the same kinds. This is nothing to fear, so long as the kinds we countenance do the predictive or explanatory work intended for them, in the context intended. Others have a somewhat less permissive view, however, though there remains a good deal of dispute over how and which empirical constraints should govern classification of “scientific kinds,” whether or not these categories count as examples of “natural” kinds (Slater 2014; Ereshefsky & Reydon 2015)[^ereshefsky-2015][^slater-2014]. (See the entry on scientific pluralism.)
+    step1: TBD
+    step2: TBD
+  - id: 29
+    kind: body
+    source: |-
+      Given the complex causal pathways and heterogeneity of cancer, perhaps it is not surprising that, as Bertolaso (2016) argues, the history of attempts to define cancer have floundered. Either cancer is defined so vaguely as to include non-pathological states, or so narrowly as to rule out cases that might otherwise be included. Among the many definitions she canvases are: “abnormal proliferation,” “unregulated growth,” “a disease of cell differentiation rather than multiplication,” “the result of destruction of tissue architecture,” “a systems biology disease,” “blocked ontogeny,” a disease of “suppressed (sic) immune function,” a “metabolic” and “genomic” disease. Such a variety of definitions is due to the fact that cancer has many causes, and involves many different types of dysregulation, at a variety of temporal and spatial scales. Suffice it to say, it is no small challenge to identify defining features of cancer, let alone arriving at a unified “theory” of disease etiology.
+    step1: TBD
+    step2: TBD
+  - id: 30
+    kind: body
+    source: |-
+      One might well ask, however, whether the lack of a unified theory of cancer is a cause for concern. Is this a sign of immature science? Kincaid has argued to the contrary (2008), “biomedical science can make significant progress without precise definitions of disease, without full-fledged theories of disease and of normal biological functioning, and without disease entities being natural kinds” (p. 368). Kincaid argues that “There is no clear definition of what constitutes a cancerous cell in terms of necessary and sufficient conditions. However, no one thinks that cancer research should stop until we get this definition settled, or that creating linguistic uniformity is important for understanding the science. The science certainly makes progress nonetheless… Likewise, there is no parsimonious theory of the disease and the normal functioning from which it is a deviation. Instead, we have piecemeal causal explanations” (p. 373). Kincaid is correct. Arguably, given the context-dependence or local constraints on cancer causation, (and perhaps also, diseases more generally) piecemeal reductive explanations are often the best we can do (Schaffner, 2006).
+    step1: TBD
+    step2: TBD
+  - id: 31
+    kind: body
+    source: |-
+      The question of what function such a unified theory might serve is a matter of some debate. A particular source of contention surrounds the merits of the research program unified by a search for genetic mechanisms associated with cancer cell behavior (Strauss, et. al., 2021). This research program has received many different names: the “oncogene paradigm,” (Bishop 1995; Morange 1997)[^bishop-1995][^morange-1997] “vision,” (Morange 1997)[^morange-1997], “theory,” or “paradigm,” (Sonnenschein & Soto 2008; Soto and Sonnenschein, 2004, 2005)[^sonnenschein-2008][^soto-2008], “model” (Temin 1974; Vogelstein & Kinzler 1993)[^temin-1974][^vogelstein-1993], “theory-method package” (Fujimura 1987, 1992)[^fujimura-1987], and “framework” (Blasimme, et al. 2013). Some contend that focus on genetic mechanisms is a “failed” paradigm, or a “degenerating” (as opposed to “progressive”) research program. Resolving such debates seems to require first that we have some measure of progress – hardly a straightforward matter, given the variety of goals of a scientific research program, and their transformations, over time. While some see the central goal of research as the generation of true theories, others focus on the generation of novel experimental traditions, the generation of fruitful lines of inquiry, the generation of local (as opposed to general) explanations of particular patterns or processes, or useful ways of classifying data. A more modest way of framing the question surrounding the “oncogene” paradigm’s failure or success might be to focus on how commitment to this “explanatory framework” has been useful in some ways, less so in others.
+    step1: TBD
+    step2: TBD
+  - id: 32
+    kind: body
+    source: |-
+      For instance, Blasimme, et al. (2013) characterize the search for oncogenes as an “explanatory framework”: “causal patterns, schemata (in the sense of Darden 2002), intuitions, hypotheses, evidential standards and various bits of evidence and data coming from different experimental settings and instrumental devices,” which “establish selective and local criteria of causal relevance that drive the search for, characterization and use of biological mechanisms.” Rather than consisting of sets of laws or general principles, such frameworks help generate strategies in the search for causes, and narrow the field of inquiry. Blassime, et al. argue that “explanatory frameworks allow for changes of scientific perspective on the causal relevance of mechanisms without necessarily fully replacing previous explanatory frameworks” (p. 375). Explanatory frameworks, in other words, can “coexist” or be “gradually displaced,” rather than stand in mutually exclusive relations with one another. As new questions arose, and new information was discovered, this explanatory framework became elaborated. Depending upon how permissive or restrictive our characterization of this framework, it need not be viewed as at odds with, for instance, attention to other causal factors in cancer, as discussed below.
+    step1: TBD
+    step2: TBD
+  - id: 33
+    kind: body
+    source: |-
+      ## 2. Explaining Cancer: Theories, Models and Mechanisms
+    step1: TBD
+    step2: TBD
+  - id: 34
+    kind: body
+    source: |-
+      What does it mean to explain cancer? The question is ambiguous, and fraught. For, by “cancer” one could have several targets of explanation in mind: the general process of transformation of a cell into a “cancer cell,” a very general characterization of the process of carcinogenesis as a whole, the process of invasion and metastasis in solid tumors in particular, the emergence and roles of intratumor heterogeneity, differential rates of incidence of different cancer types, patterns of cancer incidence or mortality in different environments, socioeconomic groups, races, ages, or sexes. Each of these explanatory targets arguably calls for quite different *kinds* of explanation, and not merely different explanatory information. The fact that these explanations are different in kind may (in part) explain why there appears to be such a variety of views amongst philosophers concerning the aim and character of explanation in cancer research, drawing upon a long history of debate among philosophers of biology concerning norms of explanation (See the entries on 20th century theories of scientific explanation and philosophy of systems and synthetic biology). Perhaps not surprisingly, also, there is also a history of dispute amongst cancer scientists about competing research agendas and norms of explanation.
+    step1: TBD
+    step2: TBD
+  - id: 35
+    kind: body
+    source: |-
+      ### 2.1 The Mechanistic Picture of Cancer
+    step1: TBD
+    step2: TBD
+  - id: 36
+    kind: body
+    source: |-
+      For most of the last twenty or so years of the 20ᵗʰ Century and the first decades of the 21ˢᵗ, the central concern of the majority of cancer researchers has been identification of mechanisms at the cell and molecular level that regulate cell birth and death. Two characteristic features of cancer cells are their uncontrolled growth, and failure to undergo cell death. This is often associated with changes to the “cellular machinery,” or mutations and associated disruption of causal pathways that affect regulation of cell division or cell death (Hanahan & Weinberg 2000)[^hanahan-2000]. The “somatic mutation theory” (sometimes, SMT) or “multistage” theory of cancer, is roughly the view that changes in cells that lead to these disruptions in regulation are due to a series of mutations, chromosomal alterations, and epigenetic changes to cells acquired during somatic cell division over the course of a lifetime. Onset of cancer, on this view, may be accelerated either by inheritance of “oncogenes” or “tumor suppressors,” or by damage to DNA, for instance, due to smoking or UV radiation.
+    step1: TBD
+    step2: TBD
+  - id: 37
+    kind: body
+    source: |-
+      This picture of cancer was pieced together over decades from various sources of evidence—from Virchow’s observations of chromosomal abnormalities in cancer cells, to epidemiological patterns of incidence in cancer, to the discovery of the “src” gene—one of the first mutations found to be associated with cancer. This vision of cancer as the product of oncogenes replaced a “regulatory” view of cancer, according to which cancer was a “breakdown in normal constraints on growth” (for a history, see, e.g., Morange 1993, 1997, 2003)[^morange-1993]. The “oncogene paradigm” arose at the same time that some of the first bioengineering technologies, which enabled early cancer researchers to use the techniques of molecular biology to study genes associated with cancer progression (Fujimura 1987)[^fujimura-1987]. While the SMT is often associated with a reductionist research program (see the entry on reductionism in biology), in the sense that many cancer scientists within this program seek to decompose the system of interest and understand the parts in operation in relative isolation, not all early advocates of the multistage theory were cell and molecular biologists. Two of the first advocates of the theory—Armitage and Doll—were epidemiologists. They found that curves of average lifetime incidence of lung cancer in smokers appeared to have the same shape as that of nonsmokers, simply shifted to earlier ages. This suggested that cancer could arise from a rate-limited series of events acquired over the life course. Since it was known that mutations could be acquired during somatic cell division (where “somatic” mutuations are acquired over the course of a lifetime, and “heritable” mutations refer to mutations in germ cells), and chromosomes of cancer cells were disrupted, the obvious implication seemed to be that cancer cells were in part a product of somatic mutations. Since the 1980s, hundreds of genes have been identified, mutations to which are associated with the hallmarks of cancer. Carcinogenesis, on this view, results from damage to DNA, or errors in the process of cell division, as well as either endogenous factors (various hormonal or other factors that promote cell growth), or exogenous factors (infection, and inflammation), which over time can lead to dysregulated cell growth.
+    step1: TBD
+    step2: TBD
+  - id: 38
+    kind: body
+    source: |-
+      In one paradigmatic example, Vogelstein and his group collected tissue samples (premalignant polyps) from patients with a familial or inherited form of bowel cancer (FAP, or familial adenomatous polyposis). They discovered that mutations to genes associated with various cancers accumulated in series of steps, what has been called the “Vogelstein cascade.” The study of familial or strongly inherited forms of cancer (cancers that appear at relatively young ages, and occur in families) has enabled the identification of several genes, mutations to which (whether inherited or acquired during somatic cell division) play a role in cancer: APC, RB, and p53 (associated with familial adenomatous polyposis, retinoblastoma, and Li Fraumeni syndrome, respectively).
+    step1: TBD
+    step2: TBD
+  - id: 39
+    kind: body
+    source: |-
+      This picture of explaining cancer might be expected to resonate quite well with the picture of scientific explanation advocated by what has been called the “new mechanists.” According to this view, one of the central aims of biological scientists is the identification of mechanisms. The biological sciences do seem to be unique in their focus on mechanisms, rather than laws or general principles, of the sort (typically imagined) to be central to the physical sciences (See the entry on mechanisms in science). A mechanistic explanation identifies parts and processes that typically yield specific outcomes of interest (Machamer, et al. 2000). If we wish to understand regulation of apoptosis (cell death), for instance, we might identify particular genes and proteins that play an important role in cell senescence, and determine how their activity and organization yield (or fail to yield) a given outcome. This mechanistic picture of the aims and character of explanation in the biological sciences seems prima facie to characterize current cancer research quite well, or at least the past 25 years of this research.
+    step1: TBD
+    step2: TBD
+  - id: 40
+    kind: body
+    source: |-
+      However, several philosophers have argued that this picture fails to capture the diverse explanatory strategies carried out by cancer scientists (Green, et. al., 2018; see also next section). Indeed, even advocates of the mechanistic perspective have argued that it needs to be amended to accommodate the complex causal processes involved in cancer’s etiology. For instance, according to Bechtel (2018), a linear picture of mechanisms for cancer requires “expanding” so as to accommodate the complex organization of mechanisms. He characterizes the mechanisms associated with apoptosis, for instance, as made up of two types: “primary” and “control” mechanisms. Failure to respond to signals promoting apoptosis in cancer may be a result of disruption in either one (or both) such mechanisms. Attention to the complex negative feedback processes of control and constraint affecting primary mechanisms is essential to explaining the emergence of cancer. As evidence of the significance of such control mechanisms, he points out how cancer researchers identify regulatory networks or feedback loops, associated with specific functions. Bechtel’s distinction between “primary” and “control” mechanism raises some interesting conceptual and methodological questions about the role of “organization” in functional explanation, and how organization may be key to biological “autonomy.” Cancer may be a case study drawing attention to the relationships between structural organization and functional behavior in biological systems, tracking insights going back to Aristotle, and continuing in the work of Kant, Bernard and Piaget (see, e.g., Mossio & Bich, 2017; Mossio, et. al., 2009; Montévil & Mossio 2015)[^montévil-2015].
+    step1: TBD
+    step2: TBD
+  - id: 41
+    kind: body
+    source: |-
+      The kinds of pathways Bechtel identifies in cancer might either be represented as “purposive” in some sense (in that “controller” versus “primary” mechanism are re-oriented in cancer in service of promoting unlimited growth of cells), or as breakdowns in purposive organization (in that these same mechanisms typically promote survival of the organism as a whole). Relatedly, the same mechanisms might well serve as “controller” in one context, and “primary” in another. That is, this distinction itself may be relatively fluid, or context dependent. In recent work by Bich and Bechtel (2022), and others (see, e.g., Bich, et. al., 2016), this manner in which organization and ‘self-organization’ of biological systems is a product or co-regulation of multiple mechanisms, with larger implications for a variety of diferent biological systems, is developed further.
+    step1: TBD
+    step2: TBD
+  - id: 42
+    kind: body
+    source: |-
+      ### 2.2 Complicating the Mechanistic Picture: Tissue Organization, Stem Cells and Systems Theory
+    step1: TBD
+    step2: TBD
+  - id: 43
+    kind: body
+    source: |-
+      Critics of the somatic mutation theory and the search for mechanisms of cancer at the cell and molecular level have raised a variety of objections, some methodological, some conceptual, and some empirical. Indeed, some critics combine all three. In the late 1990s, and early 2000s, Soto and Sonnenschein proposed an alternative to the “somatic mutation theory” (SMT), the Tissue Organization Field Theory (or, TOFT) (Sonnenschein & Soto 2000)[^sonnenschein-2000]. They object not only to reductionist methodology of advocates of SMT, but also to the empirical claim that mutations are in fact causes of cancer. They argue instead that cancer is a product of “alterations in the communication among cells and tissues that affect tissue architecture” (2013, p. 90). On this view, mutations do not “lead the way” in cancer, but instead follow upon disruptions to tissue organization. It is these alterations of patterns of interaction between cells that leads to “downward causation effects” on cells and cellular components, inducing aneuploidy and mutations (Soto & Sonnenschein 2006; Sonnenschein & Soto 2008)[^sonnenschein-2008][^soto-2008]. Let us address their arguments, turning first to methodological concerns about warranted inference from cell culture or model organism work to general claims about cancer etiology.
+    step1: TBD
+    step2: TBD
+  - id: 44
+    kind: body
+    source: |-
+      Given that the development of cancer is an immensely complex causal process that cannot be observed directly, many scientific claims about cancer’s causes are based on indirect inference, using model organisms or cells in culture. For instance, tumors are grown in nude mice using xenotransplantation, or tumors are observed to grow in mice in which “driver genes” are “knocked out.” Soto and Sonnenschein have argued that these artificial experimental circumstances render judgments about the causal efficacy of mutations in cancer suspect. They are raising methodological questions about the scope and limitations of model organism work. Soto and Sonnenschein further argue that there are other equally adequate explanations of cancer’s emergence, and these explanations can accommodate phenomena that the SMT cannot. For instance, they claim that cancer cells’ normalization when placed in healthy tissue cannot be explained by the SMT. Tissue organization, on their view, exerts “downward causation” on cancer cells, preventing or promoting their development into a tumor. Their claims about “downward causation” have led philosophers to weigh in on the debate (Malaterre 2011; Bertolaso 2016; Green 2021)[^bertolaso-2016][^green-2021][^green-2021-2][^malaterre-2011]. Malaterre (2011) argues that advocates of TOFT need not commit to downward causation (interpreted as an appeal to non-reductive physicalism, or emergent properties). Instead, he argues, dynamic relationships between variables that supervene over molecular and cellular activities can do the same work, via a “higher level,” or less granular explanation of cancer etiology.
+    step1: TBD
+    step2: TBD
+  - id: 45
+    kind: body
+    source: |-
+      Do such cases genuinely count as downward causation in, for instance, Kim’s (2000) sense? After all, strictly speaking, the idea that causation is synchronic across the whole and part of the same entity seems contradictory. Soto and Sonnenschein propose that the kind of causation they are invoking is not synchronic, but “diachronic emergence”: “cellular and tissue events occurring before the expression of a particular set of genes takes place may act downwardly modifying the expression of these genes at a later time” (Soto, et al. 2008, 271). This, however, seems to be not as radical a metaphysical thesis as talk of downward causation may initially suggest. This seems instead a form of constraint. Green (2021) takes “downward causation” in such contexts to refer to : “the role of solid-state tissue properties in tumor progression … understood as constraining relations between tissue-scale and micro-scale variables” (p. 1). While this suggestion is “a ‘weaker’ form of downwards causation than the one Kim (2000) and others oppose,” and so departs from standard use of the expression, the advantage of this weaker notion that it better captures what scientists have in mind when arguing for the “necessity of higher-scale features for the realization and understanding of biological phenomena.” Similarly, Bertolaso (2016) argues that cancer is an instance of synchronic reflexive emergence—“a different mode of causation. In such a mode, effects are not expressed in terms of a progression of events, but of maintenance of states at different levels of biological organization” (Bertolaso 2016, p. 95)[^bertolaso-2016].
+    step1: TBD
+    step2: TBD
+  - id: 46
+    kind: body
+    source: |-
+      It seems that each of these authors is pointing to an important role for structural organization of tissues in the maintenance of homeostasis or conversely in carcinogenesis. It seems such examples do not point to “downward causation,” in Kim’s sense, but instead suggest that we simply cannot predict or explain cancer solely in terms of properties of “micro-” level parts but need to expand our understanding of the causes of cancer to include maintenance of tissue integrity. That is, the case of cancer seems to require a richer, more integrative and interdisciplinary approach to investigating causation at multiple levels.
+    step1: TBD
+    step2: TBD
+  - id: 47
+    kind: body
+    source: |-
+      It seems that each of these authors is pointing to an important role for structural organization in the maintenance of homeostasis as playing an important role in carcinogenesis. Indeed, evidence provided by Bissell’s lab (Weaver, et al. 1997, 2002) seems to indicate that structural features of the extracellular matrix somehow either prevent the emergence of disease, or can accelerate it (on Bissell’s lab, see Plutynski 2018b)[^plutynski-2018b]. It seems such examples do not point to “downward causation,” but instead suggest that we need to expand our understanding of the causes of cancer to include maintenance of tissue integrity. That is, the case of cancer seems to require a richer, more integrative and interdisciplinary approach to investigating cancer.
+    step1: TBD
+    step2: TBD
+  - id: 48
+    kind: body
+    source: |-
+      Soto, Sonnenschein, and others have argued that the SMT and TOFT are mutually incompatible and cancer research needs a paradigm shift (Bizzarri and Cuccina, 2016). Others argue that they can be fruitfully integrated (Bertolaso, 2011; Marcum 2005; Malaterre, 2007; Bedessem and Ruphy, 2015; Baxendale, 2019)[^marcum-2005]. Today, SMT and TOFT represent two extremes along a continuum of views about the central causal role of genetic mutations in cancer. Most researchers grant that mutations are one among many other causal factors in cancer.
+    step1: TBD
+    step2: TBD
+  - id: 49
+    kind: body
+    source: |-
+      For instance, the tumor microenvironment (TME) is now considered another key factor (see Maman and Witz, 2018 for a historical review). However, there are some open questions about what falls within the TME’s spatial and temporal boundaries, and what causal relevance spatial organization and temporal order have for cancer (Rondeau et al. 2019; Laplane et al., 2018, 2019b)[^rondeau-2019]. Some interesting ambiguous cases are provided by nutrition (Sholl 2022)[^sholl-2022][^sholl-2022-2] and by the microbiota (Sholl et al. 2022)[^sholl-2022][^sholl-2022-2]. Increasingly, there are indications that changes in the microbiome (both of cancer, and of the organism as a whole) may play an important role in cancer initiation and progression, suggesting that data about the microbiome may be relevant to diagnosis, prognosis, and choice of therapies (Sholl et al. 2022)[^sholl-2022][^sholl-2022-2]. Moreover, given that microbes can be transmitted vertically (during cell division) as well as horizontally (between neighboring cells), and are themselves subject to evolution, Sepich-Poore et al. (2022) suggest reconsidering clonal evolution in cancer as a multispecies process. Experimental study of the role of microbes in cancer is difficult, however, raising several questions about pragmatic and epistemic trade-offs. The complexity and heterogeneity on both sides of the microbiome-cancer relationship makes generating robust causal hypotheses difficult (Parke and Plutynski, 2023).
+    step1: TBD
+    step2: TBD
+  - id: 50
+    kind: body
+    source: |-
+      Another major research program that in some ways challenges a mechanistic picture of cancer is the “cancer stem cell” theory (CSC). Fagan (2016) characterizes the notion of a cancer stem cell, as well as the current state of the field, as follows:
+    step1: TBD
+    step2: TBD
+  - id: 51
+    kind: body
+    source: |-
+      > Cancer stem cells (CSCs) are thought to be a small subpopulation of self-renewing stem cells within a tumor or blood-borne cancer, which are responsible for maintaining and growing the malignancy. This idea has significant clinical implications. If the CSC model is correct, the current clinical strategy of seeking to eradicate *all* cancer cells should be revised, to specifically target CSC.
+    step1: TBD
+    step2: TBD
+  - id: 52
+    kind: body
+    source: |-
+      The cancer stem cell theory in part is descended from the view that cancers are in several ways akin to ordinary tissue (though distorted), containing a mixture of proliferating stem cells and their more differentiated progeny. This view played an important role in cancer research in the 1960s and 1970s and is sometimes called the “developmental” theory of cancer, in light of the fact that it takes cancer to be a disease of “development,” or cellular differentiation in particular (Pierce & Speers 1988, Morange 2015, Laplane 2014)[^laplane-2014][^morange-2015][^pierce-1988]. This model of cancer etiology was revived in the 90s, when Lapidot, Bonnet, and Dick identified “leukemic stem cells” (Lapidot, et al. 1994, Bonnet and Dick 1997)[^bonnet-1997], and was expanded upon in the early 2000s with the identification of an analogous cell population in breast cancer, suggesting that CSCs are a general feature of all cancers (Al-Hajj, et al. 2003). The notion that there are subpopulations of cells within a tumor that play a distinctive role—either in initiating a cancer, or in seeding new cancers, has been influential in current research, suggesting new avenues for both treatment and prevention.
+    step1: TBD
+    step2: TBD
+  - id: 53
+    kind: body
+    source: |-
+      Historically the cancer stem cell theory (CSC) was framed in opposition to the somatic mutation theory and the clonal evolution model, according to which cancer cells diversify and evolve through the acquisition of mutations (e.g. Reya, et al. 2001; Wicha, et al. 2006; Shipitsin, et al. 2007). But soon it appeared that rather than see the two theories as mutually exclusive, we might see the two as complementary, in the process of integration, or overlapping models. Fagan (2016) argues that on a “model-based” approach, it’s not clear that these two theories are inconsistent. Laplane (2018) has pointed out how the CSC can serve to supplement the evolutionary perspective. The presence and number of cancer stem cells can affect the rate and nature of evolutionary change in a population of cancer cells. Essentially, if all cells in a tumor are descended from one or a few cancer stem cells, this restricts population size, and thus suggests that to a large extent cancer progression is driven by drift, rather than selection. Lyne et al. (2021) develop this argument with a mathematical model, and question the ubiquitous assumption that linear evolution, in which each new clone arises from the latest one and tend to almost outcompete it, is the output of natural selection. Such inference can only be warranted if the number of contributing stem cells is high enough to prevent clonal evolution by drift.
+    step1: TBD
+    step2: TBD
+  - id: 54
+    kind: body
+    source: |-
+      There are several open questions about the causal role of stem cells in both preventing and promoting cancer. Cairns (1975) originally proposed the hypothesis that the hierarchical organization of tissues, with the tissue stem cells producing all the other cells, may prevent cancer, by allowing only a few relatively protected cells to serve as progenitors in somatic cell division, thus reducing the risk of accumulated mutations (Cairns 1975)[^cairns-1975]. More recently, a similar idea led to the claim that the risk of cancer is mostly a matter of bad luck, proportional to the number of stem cell divisions in each tissue (Tomasetti and Vogelstein 2015; Tomasetti et al. 2017)[^tomasetti-2015][^tomasetti-2017]. This has led to a vivid debate on the explanatory relevance of the variation in the number of stem cell divisions by tissues in the variation of the lifetime risk of cancer in these tissues. However, the lack of conceptual clarity and argumentative consistency of the initial papers and its critics has hindered the debate (Plutynski 2021b)[^plutynski-2021b].
+    step1: TBD
+    step2: TBD
+  - id: 55
+    kind: body
+    source: |-
+      Discussion of the role and nature of cancer stem cells, however, is complicated by the fact that there is a great deal of dispute around what counts as a cancer stem cell (for questions about what counts as a stem cell, outside of cancer, see Fagan’s work, especially Fagan 2013 and Fagan 2021)[^fagan-2013][^fagan-2021]. Laplane (2016), Fagan (2016), and Germain (2014) draw attention to the fact that the concept of cancer stem cell is multiply ambiguous, in at least the following ways:
+    step1: TBD
+    step2: TBD
+  - id: 56
+    kind: body
+    source: |-
+      - First, when we speak of cancer stem cells, we may be referring to their capacities, or to their historical role or genealogy, i.e., to the fact that they were the cells from which other cancer cells originate. That is, some take cancer stem cells to be defined in terms of their distinctive capacities and some in terms of their relationship to other cells—in particular, to their ancestor-descendent relationships in a population of cells in a tumor. The “cancer stem cell model” is sometimes simply taken to refer to any model of a tumor that treats the population of cells as having a hierarchical relationship, where one or a few cells propagate the tumor, whether or not those cells have distinctive properties that cause them to stand in that relationship.
+      - Second, there are several different kinds of historical role that CSCs might play: They may be all and only those cells that initiate a cancer under natural conditions, they may be those cells which propagate a cancer in situ, or they may be those cells that are capable of propagating a cancer in an experimental animal. Xenotransplantation experiments used to assess CSCs are “highly artificial” contexts, that may or may not warrant the conclusions researchers claim to establish. Xenotransplantation, for instance, has been used to articulate and test hypotheses about “intrinsic tumorigenicity” of CSCs. The problem with using these tools, however, is that the matter of when and whether a cell is “tumorigenic” varies across different backgrounds. For example, CSCs may develop tumors in some mouse models and not others, depending on their immune deficiency. Which experimental context is relevant to understanding how and why cancer is caused by CSCs thus depends upon which causes we wish to isolate, and how.
+      - Third, some take the concept of CSC to be restricted to normal stem cells, which some believe are the most likely precursors to cancer. Others hold that cells that originate a tumor have stem-like properties but may or may not derive from normal stem cells.
+    step1: TBD
+    step2: TBD
+  - id: 57
+    kind: body
+    source: |-
+      What’s clear is that some populations of cells in a tumor appear to have “stemness” properties—the ability to renew oneself. What is less clear is whether these capacities are context sensitive, and how and by which cells they may be acquired. The plasticity of many types of cancer cells suggests that they may acquire a stemness phenotype, and even shift back to non-stem phenotype. Given this, it appears that the CSC is just one of a continuum of general views, some of which take only specific types of cells to be precursors to cancer and others which grant that many different types of cells have the potential to develop such properties. That is, the real question at issue is whether the cells that initiate a tumor are in some way distinctive or require distinctive precursors, and how properties of stemness are acquired. Whether stemness is intrinsic or acquirable, niche-dependent or independent, moreover, will drastically change the therapeutic strategy. The CSC model (the idea that CSC are at the origin of cancer development, resistance to treatment, and relapse) might be true and yet CSC-targeting strategy might fail. Indeed, what kind of property “stemness” is may vary across cancers, and even over time within a cancer (Laplane and Solary 2019a; Laplane 2016)[^laplane-2016][^laplane-2019a].
+    step1: TBD
+    step2: TBD
+  - id: 58
+    kind: body
+    source: |-
+      In sum, there appear to remain several open questions about the nature of cancer stem cells, and more generally, how to best intervene upon cancer to successfully eradicate the disease. According to the model of the disease inherited from the latter third of the 20th Century, somatic mutations, acquired over a lifetime, to the acquisition of cancer’s “hallmarks.” So, the best strategy for intervention may be targeting specific pathways associated with these hallmarks. In contrast, according to the TOFT, changes in tissue organization yield carcinogenesis. Thus, the best strategy for intervention might be finding ways to intervene in the tissue microenvironment, so as to create an environment less hospitable to the growth of cancer cells. According to the cancer stem cell theory, cancer arises in cells that have distinctive properties: continuous renewal, and indefinite growth, permitting the emergence of new disease. On this view, eradicating these stem cells seems essential to cancer treatment. Philosophical work on cancer causation and explanation can better illuminate the competing presuppositions of different approaches, clarify their commitments, and offer insights into fruitful integration of new data. It is already clear that philosophical discussions of ambiguities in how we define and measure stemness is essential to understanding how best to prevent recurrence and treat the disease (Clevers 2016)[^clevers-2016].
+    step1: TBD
+    step2: TBD
+  - id: 59
+    kind: body
+    source: |-
+      ## 3. Cancer as a Byproduct: Evolution, Development, and Aging
+    step1: TBD
+    step2: TBD
+  - id: 60
+    kind: body
+    source: |-
+      Dobzhansky (1973) wrote that “nothing in biology makes sense except in light of evolution.” Can evolutionary thinking shed light on cancer? After all, cancer is ordinarily understood to be a case of failure of otherwise functional controls on cell birth and death. At first pass, this view seems fundamentally at odds with taking an evolutionary perspective on cancer. For, how can something that is an exemplary case of “dysfunction” count as an evolutionary process or product of adaptive evolution? Moreover, how ought we to square this picture of cancer with the fact that cancer cells seem to co-opt developmental processes—i.e., the process of “de-differentiation” typical of early embryonic cells? Is cancer a byproduct of development? Finally, cancer seems to increase in incidence as we age. Is cancer simply a byproduct of aging? Relatedly, if—as some argue—aging itself is selected for (a contested question!), is cancer in some sense “adaptive”? All these perspectives on cancer require us to perhaps rethink the nature of function and dysfunction, or at very least, what such terms mean in the context of discussion of cancer. Some argue that there is a straightforward sense to be made of scientists’ talk of cancer cells performing “functions,” insofar as they are involved in activities that contribute to the self-maintenance and continued presence of the systems of interest, namely cancer cells (Goldwasser, 2023, forthcoming). This sense of “function” is a non-evolutionary, but part-function account. On the other hand, some argue that cancer is a product of evolutionary trade-offs in fitness at different temporal and spatial scales over the course of our life and evolutionary history. On this view, the best perspective to take on cancer’s “functions” may be a “multilevel” evolutionary perspective—i.e., thinking of evolution by natural selection as operating at different temporal and spatial scales, both sequentially, and in some cases, simultaneously, sometimes yielding unfortunate “cross-level byproducts” of selection at one temporal and spatial scale, for entities or processes at other temporal or spatial scales (cf. Okasha 2006)[^okasha-2006]. Can such apparently contradictory accounts of cancer’s “functional” status be reconciled?
+    step1: TBD
+    step2: TBD
+  - id: 61
+    kind: body
+    source: |-
+      First, it is relatively uncontroversial that understanding a species’ evolutionary history, and the selective trade-offs they face over the course of their life history, can inform our understanding of how and why they are more or less vulnerable to disease. For instance, some species are more vulnerable to cancer than others. Why? Comparative biology—the comparison of different species—may help us identify mechanisms associated with disease vulnerability, onset and progression, when they arose, where and why they are shared, as well as how they have diverged (Aktipis, et al. 2015; Aktipis, 2020). Comparing and contrasting how development, immunity, and other mechanisms of suppression of cancer across species can help cancer researchers identify targets of opportunity for either treatment or prevention of cancer. In addition, we can look to unique features of our own evolutionary history in order to explain patterns of disease incidence, suggesting selective “mismatches” with our ancestral environment, a kind of “byproduct” explanations of our vulnerability to diseases. This enterprise is broadly characterized as “evolutionary medicine” (Crespi & Summers 2005; Gluckman, et al. 2009; Stearns & Koella 2007; Sun, et al. 2014)[^crespi-2005][^stearns-2007].
+    step1: TBD
+    step2: TBD
+  - id: 62
+    kind: body
+    source: |-
+      While the broad principles behind evolutionary medicine are relatively uncontroversial—we all are evolved organisms after all—philosophers of biology have been skeptical of particular claims about how our evolutionary history has shaped our vulnerability to disease, either because evidence in support of evolutionary “mismatch” with our ancestral environment is both scant and disputed, or because many arguments in evolutionary medicine make “adaptationist” assumptions, i.e., assumptions that a given trait is adaptive, or selectively advantageous, founded on at best “just so” stories (Valles 2012; see also Murphy 2006)[^valles-2012]. Others offer more nuanced accounts of the variety of senses in which evolutionary ‘mismatch’ explanations go forward, and are supported by a variety of evidence (Bourrat and Griffiths forthcoming).
+    step1: TBD
+    step2: TBD
+  - id: 63
+    kind: body
+    source: |-
+      Of course, there are better and worse such arguments; the best arguments consider not only the widest array of evidence, but also trade offs in fitness, as well as the role of constraints arising out of development and life history. Selective trade-offs are long known to play a causal role in disease. In the case of cancer, some have speculated that traits adaptive early in life may yield fitness costs later in life. A vivid example may be early rapid growth, which can both increase reproductive fitness, but also apparently increase risk of prostate cancer in men and breast cancer in women (Giles, et. al., 2003; Ahlgren, et. al., 2004; Summers, et al., 2008; Alvarado, 2013; Boddy, et. al., 2015). In contrast, “mismatch” hypotheses suggest that traits that may have been adaptive in the past leave us vulnerable to disease in our current environment. For instance, many advocates of evolutionary medicine have argued that the high correlation between nulliparity and cancer risk might be explained by our evolutionary history. The argument relies on the hypothesis that women in the evolutionary past were pregnant for much of their lives, starting at an earlier age; breast development and differentiation was thus adapted to a lifetime of frequent pregnancy and nursing. Delaying or avoiding pregnancy thus changes the developmental processes typical for our species, which could increase breast cancer risk. Of course, such hypotheses are contentious; there is always the potential for confounding causes (in this case, of increased cancer risk due to a variety of risk factors at work in modern society) (Greaves 2001)[^greaves-2001]. Nonetheless, in a 1970 case-control study conducted at eight different locations around the globe, a WHO group led by McMahon et al., estimated that “breast cancer risk for women having their first birth under the age of 20 years is about half that for nulliparous women,” and that “women having their first child when aged under 18 years have only about one-third the breast cancer risk of those whose first birth is delayed until the age of 35 years or more.” Evolutionary “byproduct” explanations appeal to our evolutionary history to explain this observation. Both the above arguments may be making speculative assumptions about the adaptive advantage of size or early age of sexual maturity in our evolutionary past. Sex differences in various aspects of cancer risk, mortality, and progression thus provide an interesting case study for developing more sophisticated means of both defining and operationalizing sex differences in scientific research, and testing hypotheses about role of sex in disease (Mauvais-Jarvis, et. al., 2020, DiMarco, et. al., 2022)
+    step1: TBD
+    step2: TBD
+  - id: 64
+    kind: body
+    source: |-
+      Another type of “byproduct” explanation of cancer—though one that appeals to a much more distant event in our evolutionary history—is that cancer is a product (or perhaps byproduct, or re-enactment) of the emergence of multicellularity. At one point in the very distant past, single celled organisms formed collectives that cooperate; these collectives eventually became multicellular organisms. Any collective of cells, especially collectives whose survival and reproductive success depends on functional organization, are potentially vulnerable to breakdown in cooperative organization. On this view, then, cancer is a product of breakdown in mechanisms that permitted the emergence of multicellularity—the mechanisms that protect us from “revolt from within” are not error-free, and over time will fail. Such discussions raise interesting questions about the nature of individuality (For a vivid discussion, see, e.g., Okasha 2006; Godfrey-Smith 2009; Bouchard & Huneman 2013; Clarke 2011, 2013; Love & Brigandt 2017; Bueno, et al. 2019; Pradeu 2012, 2013, 2016, 2019)[^bouchard-2013][^clarke-2011][^godfrey-smith-2009][^love-2017][^okasha-2006][^pradeu-2012]. Pradeu (2019, chapter 4) has distinguished two ways in which the immune system can contribute to cancer seen as a breakdown of individuality: either through a breakdown of its normal functioning (e.g. the immune system should eliminate cancer cells but fails to do so) or “the immune system acts normally and immune-mediated decohesion is due to an abnormal context” (e.g. the tumor produces an abnormal context that stimulates an immune response such as healing when there is no wound to heal).
+    step1: TBD
+    step2: TBD
+  - id: 65
+    kind: body
+    source: |-
+      According to some (Greaves & Maley 2012; Merlo, et al. 2006)[^greaves-2012] the evolutionary picture of cancer dovetails nicely with the somatic mutation theory; somatic cells divide and acquire mutations during our lifetimes; some of these mutations involve failures in regulatory pathways that ordinarily “enforce” functional organization, and thus cooperation. In this way, an evolutionary perspective—understanding how evolution of multicellularity required the emergence of cooperative organization—is essential to understanding cancer. Moreover, on this view, cancer itself may be viewed as an evolutionary process—the emergence of adaptive features of cancer cells, where these “adaptations” enable short term “fitness,” or relative success at survival and reproduction. Several scientists have developed theoretical models of this process, linking it to empirical data, e.g., on the emergence of chemotherapy resistance (Frank 2007; Wodarz & Komarova 2015)[^frank-2007]. On this view, cancer is both a process and byproduct of multi-level selection, where selection may be understood as operating at several levels of biological organization simultaneously, or sequentially (Damuth & Heisler 1988; Lean & Plutynski 2016)[^damuth-1988][^lean-2016]. That is, cancer cells may bear adaptations, and they are also evolutionary byproducts of selective processes at other levels of organization. It appears that cancer cells co-opt or hijack otherwise adaptive features of organisms. Signaling pathways that are ordinarily in service of adaptive functions in early stages of development or wound healing are reactivated in (some) cancer cells, in service of the transition to metastasis.
+    step1: TBD
+    step2: TBD
+  - id: 66
+    kind: body
+    source: |-
+      This is a classic example of a cross-level selective byproduct (Okasha 2005, 2006)[^okasha-2005]. Traits advantageous at one level in the organization of multicellular organisms may be coopted by component parts. Some of the capacities that invasive cancer cells acquire (the capacity to invade and metastasize) are in fact due to a change in phenotype from epithelial to mesenchymal type cells, and losing adhesive properties enables such cells to invade the lymph and blood system. Lean and Plutynski (2016) have argued that cancer may in some ways parallel the patterns of emergence of multicellularity as characterized by Damuth and Heisler (1988), shifting over the course of emergence of disease from a simple selective process between individual cells to several kinds of multilevel selective process (MLS1 to MLS2). Critics contest that the process of metastasis only weakly mimics MLS2, however (Germain & Laplane 2017)[^germain-2017].
+    step1: TBD
+    step2: TBD
+  - id: 67
+    kind: body
+    source: |-
+      Whether or in what sense cancer cells are “selfish” or “cheat” is a topic of debate (Aktipis 2020; Okasha forthcoming; Pradeu et al. 2023)[^aktipis-2020][^pradeu-2023]. Critics argue that the analogy is misleading, given that non-transmissible cancers are evolutionary dead-ends (Gardner, 2015; Shpak and Lu, 2016). Okasha (2021) argues that cancer cells could be genuine case of cheaters if the atavistic theory is true (which is by itself a matter of debate), i.e., if cancer cells revert to a unicellular mode of life that have been repressed during the transition to multicellularity. To be sure, there are both analogies and disanalogies between evolution in whole organisms, and the evolving population of cancer cells in a tumor (Germain 2012)[^germain-2012]. However, thinking of cancer as a dynamic, evolutionary process, has great potential for applications in cancer treatment, and perhaps also, in prevention. For instance, some have suggested that we might give young girls drugs or nutritional supplements that remodel the breast in ways akin to pregnancy, as a way to prevent the emergence of breast cancer (Katz, et al. 2015). Others suggest that modeling the evolution of multi-drug resistance may help prevent one of the major causes of cancer mortality. Drugs can be more or less effective in different patients and lose their effectiveness over time. An evolutionary perspective on cancer may shed light on how drug resistance comes about, in patients with more or less intratumor heterogeneity (Greaves 2001, 2007; Frank & Nowak 2004; Merlo, et al. 2006; Greaves & Maley, 2012)[^frank-2004][^greaves-2001].
+    step1: TBD
+    step2: TBD
+  - id: 68
+    kind: body
+    source: |-
+      A third type of byproduct explanation for cancer is the view that cancer is a disease of aging—that is, cancer incidence by and large increases as we age, perhaps in part as a byproduct of breakdowns in mechanisms associated with immune response and tissue integrity. This claim raises some broader questions about how we assess function and dysfunction, or how we assess function at different temporal and spatial scales of analysis, as well as how we understand the role of the immune system and the integrity of the organism as an individual. Indeed, all evolutionary and byproduct explanations of cancer raise similar philosophical questions about hypothesis testing, as well as definitions of “function” and “individuality,” both at the individual and group level, and over the course of one’s life history. On the evolutionary view of cancer, for instance, cancer cells are in some sense highly adaptive (Hausman 2012; Germain 2012; Godfrey-Smith 2009)[^germain-2012][^godfrey-smith-2009][^hausman-2012]. One relatively controversial view of aging, first proposed by August Weisman, is that aging has the evolutionary advantage—effectively clearing the way for the young. If indeed cancer is a necessary byproduct of aging, and aging is selected for, then on one view, cancer may be thought of as adaptive. Such a view raises a variety of questions about evidence and adaptationist explanations.(see the entry on “adaptationism”).
+    step1: TBD
+    step2: TBD
+  - id: 69
+    kind: body
+    source: |-
+      ## 4. The Science-Value Interface and Aims of Cancer Research
+    step1: TBD
+    step2: TBD
+  - id: 70
+    kind: body
+    source: |-
+      There are several ways in which biomedical and public health research on cancer intersects with debates about the proper role of values in science. First, epidemiological and toxicological research is used in support of regulatory policy and toxic tort law. Decisions about when and what is “carcinogenic” have significant public health import, and thus raise a variety of philosophical questions about evidence, values, risk, precaution, and communication of scientific results (Mayo & Hollander 1994; Cranor, 1993, 2006, 2011, 2017; Valles, 2018; Elliott & Resnick, 2014; John, 2018)[^mayo-1994].
+    step1: TBD
+    step2: TBD
+  - id: 71
+    kind: body
+    source: |-
+      Evidence for claims about carcinogenicity is often indirect, and underdetermination is rife. In establishing claims about carcinogenicity, there are a variety of choices regarding methodology, source and type of evidence, and standards of significance (Elliott, 2011; Broadbent, 2013; Valles, 2018, 2021). Even optimally done epidemiological studies, or toxicological studies at best lend high probability to claims about health risk, in part because such studies often “black box” the intermediate causes. In such contexts, there is “inductive risk”, or the risk of error either in over- or under-estimation of actual risk of cancer, and thus, room for values to play a role. Several philosophers of science have weighed in on this matter of when and whether values ought to play a role in such contexts, whether precautionary judgments are appropriate, as well as whether “opening” the black box is always ideal (see, e.g., Mayo 1988; Douglas 2000, 2009; Brown 2013; Steel 2007, 2010, 2015; Elliott 2011; Shrader-Frechette 1993, 1994, 2002, 2004; Mitchell 2009; Russo & Williamson, 2007; Broadbent, 2011; DiMarco, 2021)[^brown-2013][^douglas-2000][^elliott-2011][^mitchell-2009][^shrader-frechette-1993][^steel-2007]. As one might imagine, there is also a substantive history of debate among epidemiologists, public health scientists, scholars of the law, around when we have good reason to claim that X or Y is carcinogenic, or what counts as good evidence, going back to the dispute between Doll and Hill and their detractors regarding the causal link between smoking and lung cancer (Hill, 1965). For a compelling history of this literature, see, e.g., Proctor (1996), or more recently, Oreskes and Conway (2011), or Shostack (2013). Problems of underdetermination are no less rife in the context of assessments of “effectiveness” of cancer screening and prevention (see, e.g., Solomon 2015; Stegenga 2018; Plutynski 2017)[^plutynski-2017][^solomon-2015][^stegenga-2018] (For a discussion, see the entry on philosophy of medicine.)
+    step1: TBD
+    step2: TBD
+  - id: 72
+    kind: body
+    source: |-
+      Second, much of basic cancer research—e.g., research on the cell and molecular bases of the disease—is supported by federal funds, which are allocated in the hopes that such research will (eventually) yield better health outcomes. Yet, the relationship between “bench and bedside” is indirect, and shaped by economic, social, and political factors, some more pernicious than others (Prasad, 2020; Tabery, 2023). So, it’s unclear whether and how “basic” cancer science ought to be evaluated in light of whether or how it leads to better health outcomes. However, this is hard to avoid, particularly when so many lives depend upon a research program’s promised outcomes.
+    step1: TBD
+    step2: TBD
+  - id: 73
+    kind: body
+    source: |-
+      This whole matter is complicated by the fact that the study of cancer is itself big business. Cancer pharmaceuticals, medical devices, and cancer research are major drivers of the economy. The average annual price for a new cancer medicine is rising rapidly and now approaches $150,000 (Booth, et. al., 2022); and some estimate cost of cancer care is globally to be in the region of $458 billion by 2030 (Callahan & Darzi, 2015). These high costs brings into focus several ethical concerns regarding the economics of cancer prevention and care. Critics have raised questions about the quality of research and regulatory standards, economic incentives misaligned with promoting overall quality of life, misleading representation of public health and clinical information, and rising costs and downstream impact on underserved populations, and equity in access to care (World Health Organization, 2022). Several have expressed concerns regarding whether the vast funds invested in cancer research—at least during the past 25 years or so—have shifted mortality rates sufficiently to warrant the expense. According to one line of thinking, the centrality of cancer in biomedical research is a product of several historical, economic, institutional, and social forces in combination, some of which are self-perpetuating, primarily driving by commercial interests (Proctor 1996; Fujimura 1996; Clarke & Fujimura 2014; World Health Organization, 2022)[^clarke-2014][^fujimura-1996][^proctor-1996]. Ever since Nixon’s 1971 call for a “war” on cancer, advertised implications for cancer treatment or prevention have been used to bolster much of basic research into genetics, genomics, and cell and molecular biology, fostering investment in biotechnology. Some have argued that this has led to an unduly excessive, or disproportionate fear of cancer as a disease, an excess of anxiety, and perhaps also unnecessary or unwarranted use of medical screening and testing (Aronowitz 2007, 2009, 2015; Welch & Black, 2010)[^aronowitz-2007].
+    step1: TBD
+    step2: TBD
+  - id: 74
+    kind: body
+    source: |-
+      On the other hand, cancer research has led to important innovations in science and medicine with impacts much wider than cancer itself. In the U.S., excessive regulations on research by, e.g., the FDA on the design and conduct of clinical trials for approval of drugs, some argue, may in part be slowing research. Some argue that we ought to lift restrictions on such tests for novel and more “precise” (or targeted) drugs that might benefit very few. Such matters are of course intertwined with larger debates around when and whether we have sufficient evidence to claim that, e.g., this or that mode of intervention is effective (Ashcroft 2002; Cartwright 2011; Howick 2011; Stegenga 2015; Teira 2011; Teira, et al. 2015; González-Moreno, et al. 2015; Deaton & Cartwright 2018)[^ashcroft-2002][^cartwright-2011][^deaton-2018][^howick-2011][^stegenga-2015].
+    step1: TBD
+    step2: TBD
+  - id: 75
+    kind: body
+    source: |-
+      One area where such questions are particularly fraught is “precision” medicine. In service of this end, several tools and technologies have been developed. One is simply sequencing of individual cancers, with the idea that a more fine-grained analysis of the molecular and genomic features of each cancer promotes more effective prediction and control of cancer risk, enables detection of cancers at much earlier stages, and promotes less debilitating, more targeted treatments. But it comes with the risk of overdiagnosis and overtreatment (Vogt, et. al., 2019). With sensitive technologies and more fine-tuned risk information, the practice of medicine has been shifting from diagnosis (and treatment) of disease, to constant surveillance and intervention on disease risk, as well as higher rates of overdiagnosis and overtreatment (diagnosis and treatment for a proto-disease state that may never have progressed in the lifetime of a patient) (Welch, et al. 2011; Esserman, et al. 2014). Other tools of precision medicine include models such as organoids and patient-derived xenografts (PDXs). Organoids are 3D cultures developed from tumor samples of individual patients, in service of developing patient-specific drug screening (Huang et al. 2015; Ooft et al. 2019; Sachs et al. 2018). PDXs are immunodeficient mice engrafted with human tumors that are used as surrogate models. Use of these technologies has both immense potential benefit and carries some risks. On the one hand, attention to the particular genetic variation unique to a given patient variation will presumably allow for more targeted, effective prognoses and therapies (Boniolo, 2017). On the other hand, use of these tools involves both setting aside the assumption that sample size is an important component in clinical trials, and assuming or hoping that the organoid or mouse model is representational of the target (Lillie et al. 2011; Green et al. 2019, 2021, 2022). Some question whether the methods of testing new drugs in oncology suffer from systematic problems, leading to less successful outcomes than hoped or advertised. In particular, some have argued that surrogate endpoints used in many clinical trials fail to predict which drugs improve overall survival, accelerated approval is granted for drugs that do not meet the criterion of serving an “unmet” need, approval is granted for drugs that are tested against poor comparators, in unrepresentative populations, or approved for minimal improvements in surrogate outcomes, enthusiasts hype drugs before demonstrated to be effective, and that there is a revolving door between the FDA and the very same pharmaceutical companies that seek approval for new drugs. Moreover, it seems pharmaceutical prices are not determined by clinical benefit, nor are they justified by research and development costs (Prasad, 2020; Prasad & Gale 2016; Prasad, et al. 2016; Beneduce & Bertolasao, 2022)[^prasad-2016][^prasad-2016-2]. Such skepticism should raise genuine concerns—especially given the hopes of patients and families hanging upon the promises of such treatments, and the overall costs of both cancer care, and precision medicine research. However, there are several solutions that have been proposed (Prasad, 2020), such as eliminating consulting payments from the pharmaceutical industry to researchers, conducting trials to study outcomes that matter to patients (such as overall mortality, as opposed to surrogate outcomes), comparing tested drugs to the current standard of care (as opposed to poor comparators), testing drugs in populations that are average type of people with cancer (not exceptionally healthy), or by and large promoting more affordable drugs (globally).
+    step1: TBD
+    step2: TBD
+  - id: 76
+    kind: body
+    source: |-
+      In sum, current practices of cancer research, screening and treatment raise a number of both methodological and ethical questions: Is investment in precision medicine likely to yield the benefits promised? When is medical intervention on disease risk (rather than disease itself) unduly excessive? What exactly does it mean to speak of effective medical intervention? Is overdiagnosis and overtreatment a serious harm, or is it simply an inevitable byproduct of an otherwise effective strategy—treating disease risk? How ought clinicians to communicate about risk and benefit of novel targeted interventions to patients, especially where there are gray areas of benefit and harm? Are the (frequently) excessive costs of, and inequitable access to, cancer care, matters of justice?
+    step1: TBD
+    step2: TBD
+  - id: 77
+    kind: body
+    source: |-
+      Cancer research—and especially the hope and hype surrounding precision medicine—provides a focused lens through which to consider problems central to critical examination of the concepts and methods of the biomedical sciences. That is, cancer and the scientific study of cancer illustrate challenges facing disease classification, fuzzy borders between disease versus health, the problems with genetic essentialism, the ever-present reference class problem and ever promised solutions, as well as specific ways in which underdetermination of evidence in biomedicine shapes matters of justice in public health. Moreover, it provides a case study in how matters of evidence, disease status, and questions of values and justice are deeply intertwined.
+    step1: TBD
+    step2: TBD
+  - id: 78
+    kind: oir
+    source: |-
+      - [NCI Budget and Appropriations](https://www.cancer.gov/about-nci/budget), (National Cancer Institute)
+      - [eLife Cancer Biology](https://elifesciences.org/subjects/cancer-biology)
+      - [The Cancer Genome Atlas (TCGA) Program](https://cancergenome.nih.gov/), maintained by the National Cancer Institute, at the National Institutes of Health, USA.
+    step1: TBD
+    step2: TBD

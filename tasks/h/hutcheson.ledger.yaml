@@ -2,134 +2,151 @@ version: 1
 slug: hutcheson
 segments:
   - id: 1
+    kind: body
     source: |-
       Francis Hutcheson (1694–1746) was an influential British moralist, an advocate of moral sentimentalism, and a key figure of the Scottish Enlightenment. While Hutcheson was educated, and completed his career, at the University of Glasgow, he was Irish by birth, and returned to Scotland only after his major writings (including the *Inquiry into the Original of our Ideas of Beauty and Virtue*, the *Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*) had been published, and in some cases extensively revised. Nevertheless, he had a tremendous influence on the Scottish intellectual scene, in part due to his interactions with important Scottish figures of the day, including Adam Smith, Thomas Reid, and David Hume.
     step1: |-
       弗兰西斯·哈奇森（1694–1746）是一位有影响力的英国道德学家、道德情感主义的倡导者，也是苏格兰启蒙运动的关键人物。虽然哈奇森在格拉斯哥大学接受教育并完成其学术生涯，但他生于爱尔兰，并且直到他的主要著作（包括《探究我们关于美与德的观念的起源》、《论激情的天性与行为，附道德感例释》）出版之后，有些还经过大量修订，才返回苏格兰。尽管如此，他对苏格兰知识界产生了巨大影响，部分原因在于他与当时重要的苏格兰人物的交往，包括亚当·斯密、托马斯·里德和大卫·休谟。
     step2: |-
       弗兰西斯·哈奇森（Francis Hutcheson，1694–1746）是英国有影响力的道德学家、道德情感主义的倡导者，也是苏格兰启蒙运动的关键人物。哈奇森在格拉斯哥大学接受教育并度过其学术生涯，但他生于爱尔兰，直到其主要著作——包括《探究我们关于美与德的观念的起源》（*Inquiry into the Original of our Ideas of Beauty and Virtue*）与《论激情的天性与行为，附道德感例释》（*Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*）——出版、其中一些还经大幅修订之后，才返回苏格兰。尽管如此，他对苏格兰知识界影响深远，部分原因在于他与当时苏格兰重要人物（包括亚当·斯密、托马斯·里德和大卫·休谟）的交往。
-
   - id: 2
+    kind: body
     source: |-
       Leaving aside his influence on the Scottish enlightenment, Hutcheson’s contribution to the broader development of modern British moralism cannot be overstated. His chief philosophical contributions, upon which this entry will concentrate, include his aforementioned *sentimentalism*, his complex *moral psychology*, his *proto-utilitarianism*, his critique of *self-interest theorists* (such as Hobbes and Mandeville), his critique of *rationalists* (such as Clarke and Wollaston), and his attempted *reconciliation of virtue and self-interest*.
     step1: |-
       撇开他对苏格兰启蒙运动的影响不论，哈奇森对现代英国道德主义更广泛发展的贡献怎么强调都不为过。他的主要哲学贡献，也就是本词条将要集中的重点，包括前述的 **情感主义**、其复杂的 **道德心理学**、其 **原初功利主义**、其对 **自利理论家**（如霍布斯和曼德维尔）的批判、其对 **理性主义者**（如克拉克和沃拉斯顿）的批判，以及其 **调和德性与自利** 的尝试。
     step2: |-
-      撇开他对苏格兰启蒙运动的影响不论，哈奇森对现代英国道德主义更广泛发展的贡献怎么强调都不为过。他的主要哲学贡献（也是本词条将集中讨论的重点）包括前述的 **情感主义**、其复杂的 **道德心理学**、其 **原初功利主义**、他对 **自利理论家**（如霍布斯和曼德维尔）的批判、他对 **理性主义者**（如克拉克和沃拉斯顿）的批判，以及他 **调和德性与自利** 的尝试。
-
+      撇开他对苏格兰启蒙运动的影响不论，哈奇森对现代英国道德主义更广泛发展的贡献怎么强调都不为过。他的主要哲学贡献（也是本词条将集中讨论的重点）包括前述的 *情感主义*、其复杂的 *道德心理学*、其 *原初功利主义*、他对 *自利理论家*（如霍布斯和曼德维尔）的批判、他对 *理性主义者*（如克拉克和沃拉斯顿）的批判，以及他 *调和德性与自利* 的尝试。
   - id: 3
+    kind: body
     source: |-
       One brief note. Though this entry will concentrate on Hutcheson’s contributions to moral philosophy, Hutcheson also offers views on the nature of human perception (broadly derived from Locke’s *Essay*), first- and second-order theories of aesthetics (see Kivy 1976 [2003])[^kivy-1976], logic (Hutcheson 1756), associationism about human cognition (cf. Gill 1995, 1996; Kallich 1946)[^gill-1995][^kallich-1946], religion (Elton 2008; Harris 2008)[^elton-2008][^harris-2008], and many other topics that must be foregone for lack of space.
     step1: |-
       简短说明一句。虽然本词条将集中于哈奇森对道德哲学的贡献，但哈奇森也对人类知觉的本性提出了看法（大体上源自洛克的 **人类理解论**）、对美学的一阶和二阶理论（见 Kivy 1976 [2003]）[^kivy-1976]、逻辑学（Hutcheson 1756）、关于人类认知的联想主义（参见 Gill 1995, 1996; Kallich 1946）[^gill-1995][^kallich-1946]、宗教（Elton 2008; Harris 2008）[^elton-2008][^harris-2008]，以及许多其他因篇幅所限而不得不略过的主题。
     step2: |-
-      这里简短说明一句。虽然本词条将集中于哈奇森对道德哲学的贡献，但哈奇森对人类知觉的本性（大体上源自洛克的 **人类理解论**（*Essay*））、美学的一阶与二阶理论（见 Kivy 1976 [2003]）[^kivy-1976]、逻辑学（Hutcheson 1756）、关于人类认知的联想主义（参见 Gill 1995, 1996；Kallich 1946）[^gill-1995][^kallich-1946]、宗教（Elton 2008；Harris 2008）[^elton-2008][^harris-2008]，以及许多因篇幅所限而不得不略过的主题，也都提出了自己的看法。
-
+      这里简短说明一句。虽然本词条将集中于哈奇森对道德哲学的贡献，但哈奇森对人类知觉的本性（大体上源自洛克的 *人类理解论*（*Essay*））、美学的一阶与二阶理论（见 Kivy 1976 [2003]）[^kivy-1976]、逻辑学（Hutcheson 1756）、关于人类认知的联想主义（参见 Gill 1995, 1996；Kallich 1946）[^gill-1995][^kallich-1946]、宗教（Elton 2008；Harris 2008）[^elton-2008][^harris-2008]，以及许多因篇幅所限而不得不略过的主题，也都提出了自己的看法。
   - id: 4
+    kind: body
     source: |-
       This entry will proceed in two stages, the first focusing on Hutcheson’s metaethics, including his sentimentalism and moral psychology; the second concentrating on his normative ethics, including his anticipation of some strains in utilitarian thought, and his argument that virtue and self-interest are aligned.
     step1: |-
       本词条将分两个阶段进行，第一阶段集中于哈奇森的元伦理学，包括他的情感主义和道德心理学；第二阶段集中于他的规范伦理学，包括他对功利主义思想中某些流派的预想，以及他关于德性与自利相一致的论证。
     step2: |-
       本词条将分两个阶段展开：第一阶段集中于哈奇森的元伦理学，包括其情感主义与道德心理学；第二阶段集中于其规范伦理学，包括他对功利主义思想某些流派的预想，以及他关于德性与自利相一致的论证。
-
   - id: 5
+    kind: body
+    source: |-
+      ## 1. Hutcheson’s Metaethics
+    step1: |-
+      ## 1. 哈奇森的元伦理学
+    step2: |-
+      ## 1. 哈奇森的元伦理学
+  - id: 6
+    kind: body
     source: |-
       Hutcheson’s most detailed statement of his sentimentalism and substantive moral and aesthetic theory is to be found in his 1725 (and subsequently revised) work, *An Inquiry into the Original of our Ideas of Beauty and Virtue*. Indeed, at least in early editions of the *Inquiry*, Hutcheson considered this essay an attempt to defend the (broadly considered) sentimentalist doctrines of Lord Shaftesbury, as expressed in the *Characteristiks of Men, Manners, Opinions, Times* (1711). Indeed, the subtitle of the book’s first edition runs as follows:
     step1: |-
       哈奇森对其情感主义以及实质性的道德与美学理论的最详尽陈述，见于他 1725 年（并随后修订）的著作《探究我们关于美与德的观念的起源》。事实上，至少在《探究》的早期版本中，哈奇森将这篇论文视为一项为沙夫茨伯里勋爵的（广义上的）情感主义学说辩护的尝试，这些学说表达于《人、风俗、意见与时代之特征》（1711）。实际上，该书第一版的副标题如下：
     step2: |-
       哈奇森对其情感主义以及其实质道德与美学理论的最详尽陈述，见于他 1725 年（随后又经修订）的著作《探究我们关于美与德的观念的起源》（*An Inquiry into the Original of our Ideas of Beauty and Virtue*）。事实上，至少在《探究》（*Inquiry*）的早期版本中，哈奇森将这篇论文视为对沙夫茨伯里勋爵（Lord Shaftesbury）（广义上的）情感主义学说的一次辩护，这些学说表达于《人、风俗、意见与时代之特征》（*Characteristiks of Men, Manners, Opinions, Times*，1711）。实际上，该书第一版的副标题如下：
-
-  - id: 6
+  - id: 7
+    kind: body
     source: |-
       > In which the principles of the late Earl of Shaftesbury are Explain’d and Defended, against the Author of the *Fable of the Bees:* and the Ideas of Moral Good and Evil are establish’d, according to the Sentiments of the Antient Moralists. With an Attempt to introduce a Mathematical Calculation in Subjects of Morality. (*Inquiry*)
     step1: |-
       > 其中，已故沙夫茨伯里伯爵的原则得到阐述与辩护，以驳斥《蜜蜂的寓言》的作者；道德善与恶的观念依据古代道德学家的情感而确立。并试图在道德主题中引入一种数学计算。（*Inquiry*）
     step2: |-
       > 其中，已故沙夫茨伯里伯爵的原则得到阐述与辩护，以驳斥《蜜蜂的寓言》（*Fable of the Bees*）的作者；道德善与恶的观念依据古代道德学家的情感而确立。并试图在道德主题中引入一种数学计算。（*Inquiry*）
-
-  - id: 7
+  - id: 8
+    kind: body
     source: |-
       The reference to Mandeville is significant here. In the *Inquiry*, Hutcheson considered it his task to defend, not the exact details of Shaftesbury’s scheme, but rather his general sentimentalism against the “self-interest” theories of Mandeville and Thomas Hobbes. But leaving aside his rejection of self-interest theorists for the moment (see §2.1), what is the nature of Hutcheson’s overall metaethic?
     step1: |-
       这里提到曼德维尔意义重大。在《探究》中，哈奇森认为自己所要辩护的，不是沙夫茨伯里方案的确切细节，而是其一般的“情感主义”，以反驳曼德维尔和托马斯·霍布斯的“自利”理论。但是，暂时撇开他对自利理论家的拒斥不论（见 §2.1），哈奇森整体元伦理学的性质是什么？
     step2: |-
       这里提到曼德维尔意义重大。在《探究》中，哈奇森认为自己的任务在于辩护——不是沙夫茨伯里方案的确切细节，而是其一般的“情感主义”，以反驳曼德维尔和托马斯·霍布斯的“自利”理论。但是，暂且撇开他对自利理论家的拒斥不论（见 §2.1），哈奇森整体元伦理学的性质是什么？
-
-  - id: 8
+  - id: 9
+    kind: body
+    source: |-
+      ### 1.1 The Senses
+    step1: |-
+      ### 1.1 感官
+    step2: |-
+      ### 1.1 感官
+  - id: 10
+    kind: body
     source: |-
       In the *Essay on the Nature and Conduct of the Passions*, Hutcheson defines his sentimentalism in the following terms:
     step1: |-
       在《论激情的天性与行为》中，哈奇森以下列术语界定其情感主义：
     step2: |-
       在《论激情的天性与行为》（*Essay on the Nature and Conduct of the Passions*）中，哈奇森以下列术语界定其情感主义：
-
-  - id: 9
+  - id: 11
+    kind: body
     source: |-
       > “Objects, Actions, or Events obtain the Name of *Good*, or *Evil*, according as they are Causes, or Occasions, mediately, or immediately, of a grateful, or ungrateful *Perception* to some sensitive Nature”. To understand therefore the several Kinds of *Good*, or *Evil*, we must apprehend the several *Senses* natural to us. (*Essay*, 15)
     step1: |-
       > “对象、行动或事件，根据它们对某些有感觉的自然而言是令人愉悦或不悦的 **感知** 的中介或直接原因或机缘，而获得 **善** 或 **恶** 的名称。”因此，要理解 **善** 或 **恶** 的几种，我们必须把握我们自然的几种 **感官**。（*Essay*，15）
     step2: |-
-      > “对象、行动或事件，根据它们对某些有感觉的自然而言是令人愉悦或不悦的 **感知** 的中介或直接原因或机缘，而获得 **善** 或 **恶** 的名称。”因此，要理解 **善** 或 **恶** 的几种，我们必须把握我们自然的几种 **感官**。（*Essay*，15）
-
-  - id: 10
+      > “对象、行动或事件，根据它们对某些有感觉的自然而言是令人愉悦或不悦的 *感知* 的中介或直接原因或机缘，而获得 *善* 或 *恶* 的名称。”因此，要理解 *善* 或 *恶* 的几种，我们必须把握我们自然的几种 *感官*。（*Essay*，15）
+  - id: 12
+    kind: body
     source: |-
       This passage reveals a number of features of Hutcheson’s sentimentalism. First, he admits of a wide variety of what might be called evaluative *modes*: there are several kinds of good or evil, according to Hutcheson, which arise given the “grateful or ungrateful” perceptions in people, or other “sensitive Natures”. These evaluative modes will correspond to the various senses that are apt to receive such perceptions.
     step1: |-
       这段话揭示了哈奇森情感主义的若干特征。第一，他承认有可称为评价 **模式** 的多种多样之物：根据哈奇森，有几种善或恶，它们因人们或其他“有感觉的自然”中的“令人愉悦或不悦的”感知而产生。这些评价模式将对应于善于接受此类感知的各种感官。
     step2: |-
-      这段话揭示了哈奇森情感主义的若干特征。第一，他承认存在多种可称为评价 **模式** 的东西：根据哈奇森，善或恶有若干种，它们因人们或其他“有感觉的自然”中的“令人愉悦或不悦的”感知而产生。这些评价模式将对应于善于接受此类感知的各种感官。
-
-  - id: 11
+      这段话揭示了哈奇森情感主义的若干特征。第一，他承认存在多种可称为评价 *模式* 的东西：根据哈奇森，善或恶有若干种，它们因人们或其他“有感觉的自然”中的“令人愉悦或不悦的”感知而产生。这些评价模式将对应于善于接受此类感知的各种感官。
+  - id: 13
+    kind: body
     source: |-
       But what, for Hutcheson, is a “sense”? (For a very thorough introduction, see Schmitter 2016.)[^schmitter-2016] In the *Essay*, he defines this notion as follows:
     step1: |-
       但对哈奇森而言，“感官”是什么？（非常透彻的导论，见 Schmitter 2016。）[^schmitter-2016]在《论激情》中，他如下界定这一概念：
     step2: |-
       但对哈奇森而言，“感官”是什么？（非常透彻的导论，见 Schmitter 2016。）[^schmitter-2016]在《论激情》（*Essay*）中，他如下界定这一概念：
-
-  - id: 12
+  - id: 14
+    kind: body
     source: |-
       > *every Determination of our Minds to receive Ideas independently on our Will, and to have Perceptions of Pleasure and Pain*. (*Essay*, 17)
     step1: |-
       > **我们心灵每一次不依赖于我们的意志而接受观念、并拥有快乐与痛苦感知的规定**。（*Essay*，17）
     step2: |-
-      > **我们心灵每一次不依赖于我们的意志而接受观念、并拥有快乐与痛苦感知的规定**。（*Essay*，17）
-
-  - id: 13
+      > *我们心灵每一次不依赖于我们的意志而接受观念、并拥有快乐与痛苦感知的规定*。（*Essay*，17）
+  - id: 15
+    kind: body
     source: |-
       Now, this account of the nature of senses permits of a fairly broad range—any “determination” of our mind to receive ideas involuntarily is to be understood as a sense. And, indeed, Hutcheson takes this breadth seriously. He recognizes not just the “five senses”—which he dubs “external” senses (*Inquiry*, I.X; *Essay* I.1)—but a broad range of “internal” senses. Hutcheson writes:
     step1: |-
       现在，这一关于感官本性的说明容许相当宽的范围——我们心灵任何不自愿地接受观念的规定都应理解为一种感官。而且，哈奇森确实认真对待这一广度。他不仅承认“五种感官”——他称之为“外在”感官（*Inquiry*, I.X; *Essay* I.1）——而且承认广泛的“内在”感官。哈奇森写道：
     step2: |-
       现在，这一关于感官本性的说明容许相当宽的范围——我们心灵任何不自愿地接受观念的规定都应理解为一种感官。而且，哈奇森确实认真对待这一广度。他不仅承认“五种感官”——他称之为“外在”感官（*Inquiry*，I.X；*Essay* I.1）——而且承认广泛的“内在”感官。哈奇森写道：
-
-  - id: 14
+  - id: 16
+    kind: body
     source: |-
       > In Musick we seem universally to acknowledge something like a distinct Sense from the External one of Hearing, and call it a good Ear; and the like distinction we should probably acknowledge in other Objects, had we also got distinct Names to denote these Powers of Perception by. (*Inquiry*, I.X)
     step1: |-
       > 在音乐中，我们似乎普遍承认某种类似于不同于听觉这一外在感官的感官，并称之为“好耳朵”；在其他对象中，假如我们也有特定的名称来指称这些感知能力，我们大概也会承认类似的区分。（*Inquiry*，I.X）
     step2: |-
       > 在音乐中，我们似乎普遍承认某种与听觉这一外在感官不同的感官，并称之为“好耳朵”；在其他对象中，假如我们也有特定的名称来指称这些感知能力，我们大概也会承认类似的区分。（*Inquiry*，I.X）
-
-  - id: 15
+  - id: 17
+    kind: body
     source: |-
       For Hutcheson, the ideas, and pleasures, received *via* the “good ear”—as opposed to the simple external sense of hearing—are the products of an *internal* sense.
     step1: |-
       对哈奇森而言，经由“好耳朵”——而非简单的听觉这一外在感官——所接受的观念与快乐，是一种 **内在** 感官的产物。
     step2: |-
-      对哈奇森而言，经由“好耳朵”——而非简单的听觉这一外在感官——所接受的观念与快乐，是一种 **内在** 感官的产物。
-
-  - id: 16
+      对哈奇森而言，经由“好耳朵”——而非简单的听觉这一外在感官——所接受的观念与快乐，是一种 *内在* 感官的产物。
+  - id: 18
+    kind: body
     source: |-
       Indeed, in Hutcheson’s psychology, we get a very wide array of internal “senses”. While this is not an exhaustive list, he lists or at least suggests senses of:
     step1: |-
       事实上，在哈奇森的心理学中，我们得到非常广泛的“感官”系列。虽然这不是一个详尽的列表，但他列出或至少暗示了以下感官：
     step2: |-
       事实上，在哈奇森的心理学中，我们得到非常广泛的“感官”系列。虽然这不是一份详尽的列表，但他列出或至少暗示了以下感官：
-
-  - id: 17
+  - id: 19
+    kind: body
     source: |-
       > 1. Imagination (*Essay*, 17) or “Beauty and Harmony” (*Inquiry*, 23) (“the *Pleasant Perceptions* arising from *regular, harmonious, uniform* Objects; as also from *Grandeur* and *Novelty*”; *Essay*, 17).
       > 2. the “Publick Sense” (“our Determination to be pleased with the *Happiness* of others, and to be uneasy at their *Misery*”; *Essay*, 17).
@@ -143,1033 +160,1118 @@ segments:
       > 4. “荣誉感官”（“它使他人的 **赞许** 或 **感激**（对我们所做的任何善行而言）成为快乐的必然机缘；而他人的 **不悦**、**谴责** 或对我们所造成伤害的 **怨恨**，则成为那种被称为 **羞耻** 的不安感觉的机缘，即使我们不惧怕来自它们的进一步恶果”；*Essay*，18）。
       > 5. “端庄或尊严”感官（凭借它我们在专门适应人性的行动或活动中感到快乐；*System*，27–30；*Essay*，18）。
     step2: |-
-      > 1. 想象（*Essay*，17）或“美与和谐”（*Inquiry*，23）（“源于 **规则、和谐、一致** 的对象，也源于 **宏伟** 与 **新奇** 的 **令人愉悦的感知**”；*Essay*，17）。
-      > 2. “公共感官”（“我们因他人的 **幸福** 而感到快乐、因他们的 **苦难** 而感到不安的 **规定**”；*Essay*，17）。
-      > 3. 道德感官（“通过它我们感知我们自身或他人身上的 **德性** 或 **恶**”；*Essay*，17）。
-      > 4. “荣誉感官”（“它使他人的 **赞许** 或 **感激**（对我们所做的任何善行而言）成为快乐的必然机缘；而他人的 **不悦**、**谴责** 或对我们所造成伤害的 **怨恨**，则成为那种被称为 **羞耻** 的不安感觉的机缘，即使我们不惧怕来自它们的进一步恶果”；*Essay*，18）。
+      > 1. 想象（*Essay*，17）或“美与和谐”（*Inquiry*，23）（“源于 *规则、和谐、一致* 的对象，也源于 *宏伟* 与 *新奇* 的 *令人愉悦的感知*”；*Essay*，17）。
+      > 2. “公共感官”（“我们因他人的 *幸福* 而感到快乐、因他们的 *苦难* 而感到不安的 *规定*”；*Essay*，17）。
+      > 3. 道德感官（“通过它我们感知我们自身或他人身上的 *德性* 或 *恶*”；*Essay*，17）。
+      > 4. “荣誉感官”（“它使他人的 *赞许* 或 *感激*（对我们所做的任何善行而言）成为快乐的必然机缘；而他人的 *不悦*、*谴责* 或对我们所造成伤害的 *怨恨*，则成为那种被称为 *羞耻* 的不安感觉的机缘，即使我们不惧怕来自它们的进一步恶果”；*Essay*，18）。
       > 5. “端庄或尊严”感官（凭借它我们在专门适应人性的行动或活动中感到快乐；*System*，27–30；*Essay*，18）。
-
-  - id: 18
+  - id: 20
+    kind: body
     source: |-
       In Hutcheson’s psychology there is a key difference between the external and internal senses. According to Hutcheson, the external senses have the power to perceive *simple* ideas—notes, colors, sounds, tastes, etc. (*Inquiry*, 23). But the *internal* senses are those, according to Hutcheson, that arise “only upon some *previous* Idea, or *Assemblage*, or *Comparison of Ideas*” (*Essay*, 15–16). The internal senses, then, will proliferate under Hutcheson’s general account—any capacity to generate pleasure or pain involuntarily given the comparison of ideas will, on Hutcheson’s view, be a sense. And hence it should not at all be surprising that Hutcheson gives the diverse accounting of senses that he does.
     step1: |-
       在哈奇森的心理学中，外在感官与内在感官之间有一个关键差异。根据哈奇森，外在感官有能力感知 **简单** 观念——音调、颜色、声音、味道等（*Inquiry*，23）。但根据哈奇森，**内在** 感官是那些“仅凭某个 **先前** 观念，或 **集合**，或 **观念的比较**”而产生的感官（*Essay*，15–16）。那么，在哈奇森的一般说明下，内在感官将大量增生——在哈奇森看来，任何凭观念的比较而不自愿地产生快乐或痛苦的能力都是一种感官。因此，哈奇森给出他所给出的那种多样的感官说明，一点也不应令人惊讶。
     step2: |-
-      在哈奇森的心理学中，外在感官与内在感官之间有一个关键差异。根据哈奇森，外在感官有能力感知 **简单** 观念——音调、颜色、声音、味道等（*Inquiry*，23）。但根据哈奇森，**内在** 感官是那些“仅凭某个 **先前** 观念，或 **集合**，或 **观念的比较**”而产生的感官（*Essay*，15–16）。那么，在哈奇森的一般说明下，内在感官将大量增生——在哈奇森看来，任何凭观念的比较而不自愿地产生快乐或痛苦的能力都是一种感官。因此，哈奇森给出他所给出的那种多样的感官说明，一点也不应令人惊讶。
-
-  - id: 19
+      在哈奇森的心理学中，外在感官与内在感官之间有一个关键差异。根据哈奇森，外在感官有能力感知 *简单* 观念——音调、颜色、声音、味道等（*Inquiry*，23）。但根据哈奇森，*内在* 感官是那些“仅凭某个 *先前* 观念，或 *集合*，或 *观念的比较*”而产生的感官（*Essay*，15–16）。那么，在哈奇森的一般说明下，内在感官将大量增生——在哈奇森看来，任何凭观念的比较而不自愿地产生快乐或痛苦的能力都是一种感官。因此，哈奇森给出他所给出的那种多样的感官说明，一点也不应令人惊讶。
+  - id: 21
+    kind: body
     source: |-
       However, despite there being a difference, in Hutcheson, between the external and internal senses concerning their operation on simple or complex ideas, they are nevertheless justly grouped together *as* senses:
     step1: |-
       然而，尽管在哈奇森那里，外在感官与内在感官在作用于简单或复杂观念方面存在差异，它们却仍然被正当地归 **为** 感官：
     step2: |-
-      然而，尽管在哈奇森那里，外在感官与内在感官在作用于简单或复杂观念方面存在差异，它们却仍然被正当地归 **为** 感官：
-
-  - id: 20
+      然而，尽管在哈奇森那里，外在感官与内在感官在作用于简单或复杂观念方面存在差异，它们却仍然被正当地归 *为* 感官：
+  - id: 22
+    kind: body
     source: |-
       > Since then there are such different Powers of Perception, where what are commonly called the External Senses are the same; since the most accurate Knowledge of what the External Senses discover, often does not give the Pleasure of Beauty or Harmony, which yet one of a good Taste will enjoy at once without much Knowledge; we may justly use another Name of these higher, and more delightful Perceptions of Beauty and Harmony, and call the power of receiving such Impressions, an Internal Sense…This superior Power of Perception is justly called a Sense, because of its Affinity to other Senses in this, that the Pleasure does not arise from any Knowledge of Principles, Proportions, Causes or of the Usefulness of the Object; but strikes us at first with the Idea of Beauty: nor does the most accurate Knowledge increase this Pleasure of Beauty, however it may super-add a distinct rational Pleasure from prospects of Advantage, or from the Increase of Knowledge. (*Inquiry*, 24–25)
     step1: |-
       > 既然存在如此不同的感知能力，而通常所谓的外在感官却是相同的；既然对外在感官所发现之物的最准确知识，往往并不提供美或和谐的快乐，而一位有良好趣味的人却能在没有多少知识的情况下即刻享有这种快乐；我们就可以正当地为这些更高级、更令人愉悦的美与和谐感知使用另一个名称，并把接受此类印象的能力称为一种内在感官……这种较高级的感知能力正当地被称为一种感官，因为它与其他感官在这方面有亲缘关系：即这种快乐并不源于对原理、比例、原因或对象之有用性的任何知识；而是初看即以其美的观念打动我们：最准确的知识也不会增加这种美的快乐，尽管它可能从利益前景或知识的增长之上附加一种独特的理性快乐。（*Inquiry*，24–25）
     step2: |-
-      > 既然存在如此不同的感知能力，而通常所谓的外在感官却是相同的；既然对外在感官所发现之物的最准确知识，往往并不提供美或和谐的快乐，而一位有良好趣味的人却能在没有多少知识的情况下即刻享有这种快乐；我们就可以正当地为这些更高级、更令人愉悦的美与和谐感知使用另一个名称，并把接受此类印象的能力称为一种内在感官……这种较高级的感知能力正当地被称为一种感官，因为它与其他感官在这方面有亲缘关系：即这种快乐并不源于对原理、比例、原因或对象之有用性的任何知识；而是初看即以其美的观念打动我们：最准确的知识也不会增加这种美的快乐，尽管它可能从利益前景或知识的增长之上附加一种独特的理性快乐。（*Inquiry*，24–25）
-
-  - id: 21
+      > 既然在通常所谓的外在感官相同的情况下，感知能力仍可如此不同；既然对外在感官所发现之物的最准确知识，往往并不带来美或和谐的快乐，而趣味良好者无须多少知识便能即刻享有这种快乐；我们便有理由为这些更高级、更令人愉悦的美与和谐感知另立名称，把接受这类印象的能力称为一种内在感官……这种更高级的感知能力正当地被称为一种“感官”，因为它与其他感官有这样一种亲缘关系：这种快乐并非源于对原理、比例、原因或对象之有用性的任何知识，而是以其美的观念初见即打动我们：最准确的知识也不会增加这种美的快乐，尽管它可以在其上另增一种独特的理性快乐——或来自利益前景，或来自知识的增长。（*Inquiry*，24–25）
+  - id: 23
+    kind: body
     source: |-
       Here Hutcheson appears to be defending his use of the term “sense” to describe the internal senses as well as the external. According to Hutcheson, the fundamental similarity is the generation of pleasures and ideas *immediately*, without intervening cognitive work—the sense of taste “strikes us at first with the Idea of Beauty”, along with its accompanying pleasure.
     step1: |-
       这里哈奇森似乎是在为他使用“感官”一词来描述内在感官以及外在感官辩护。根据哈奇森，根本的相似之处在于 **直接** 产生快乐与观念，而无需中介的认知工作——味觉感官“初看即以其美的观念打动我们”，并伴随其快乐。
     step2: |-
-      这里哈奇森似乎是在为他使用“感官”一词来描述内在感官以及外在感官辩护。根据哈奇森，根本的相似之处在于 **直接** 产生快乐与观念，而无需中介的认知工作——味觉感官“初看即以其美的观念打动我们”，并伴随其快乐。
-
-  - id: 22
+      这里哈奇森似乎是在为他使用“感官”一词来描述内在感官以及外在感官辩护。根据哈奇森，根本的相似之处在于 *直接* 产生快乐与观念，而无需中介的认知工作——味觉感官“初看即以其美的观念打动我们”，并伴随其快乐。
+  - id: 24
+    kind: body
+    source: |-
+      ### 1.2 Senses and Evaluative Modes
+    step1: |-
+      ### 1.2 感官与评价样式
+    step2: |-
+      ### 1.2 感官与评价样式
+  - id: 25
+    kind: body
     source: |-
       According to Hutcheson’s metaethic, evaluations are specifically linked to the senses, in particular the internal senses. So, for instance, aesthetic goodness will be determined (in a sense to be discussed in §1.3) by the operation of the sense of imagination. Honorable actions will be determined by the operation of the sense of honor. Morally good actions will be determined by the operation of the moral sense, and so on. But one might wonder whether there is such a ready distinction between the internal senses. Given that we can form new ideas given their comparison, and derive pleasure from them, why believe that there is such a sharp distinction between, e.g., the sense of imagination and the moral sense? Put another way, what *individuates* these senses, sufficient to distinguish evaluative modes?
     step1: |-
       根据哈奇森的元伦理学，评价特别与各种感官相关联，尤其是内在感官。例如，审美善将由想象感官的运作决定（其意义将在 §1.3 讨论）。荣誉行动将由荣誉感官的运作决定。道德善的行动将由道德感官的运作决定，依此类推。但人们可能会问，内在感官之间是否存在这样一种现成的区分。鉴于我们可以凭观念的比较形成新观念并从中获得快乐，为什么相信例如想象感官与道德感官之间存在如此截然的区分？换句话说，是什么*区分*这些感官，足以区分评价模式？
     step2: |-
-      根据哈奇森的元伦理学，评价特别与各种感官相关联，尤其是内在感官。例如，审美善将由想象感官的运作来决定（其意义将在 §1.3 讨论）。荣誉行动将由荣誉感官的运作来决定。道德善的行动将由道德感官的运作来决定，依此类推。但人们或许会问，内在感官之间是否存在这样一种现成的区分。鉴于我们可以凭观念的比较形成新观念并从中获得快乐，为什么相信例如想象感官与道德感官之间存在如此截然的区分？换言之，是什么 **区分** 了这些感官，足以区分评价模式？
-
-  - id: 23
+      根据哈奇森的元伦理学，评价特别与各种感官相关联，尤其是内在感官。例如，审美善将由想象感官的运作来决定（其意义将在 §1.3 讨论）。荣誉行动将由荣誉感官的运作来决定。道德善的行动将由道德感官的运作来决定，依此类推。但人们或许会问，内在感官之间是否存在这样一种现成的区分。鉴于我们可以凭观念的比较形成新观念并从中获得快乐，为什么相信例如想象感官与道德感官之间存在如此截然的区分？换言之，是什么 *区分* 了这些感官，足以区分评价模式？
+  - id: 26
+    kind: body
     source: |-
       Generally, Hutcheson appears to individuate senses by the sorts of things that generate the particular ideas/pleasures involved. For instance, he suggests that “Harmony” “denotes our pleasant Ideas arising from Composition of Sounds” (*Inquiry* 23). Here we know it is the sense of harmony, rather than, e.g., the moral sense, because the pleasure we take is given rise by the “composition of sounds”. The pleasures of the publick sense arise as a result of the consideration of others’ happiness and misery (*Essay*, 17). The pleasures of the sense of dignity arise from others’ assessment of us, and so on.
     step1: |-
       一般说来，哈奇森似乎通过产生特定观念/快乐的那些事物来区分感官。例如，他提出“和谐”“指称源于声音组合的我们愉快的观念”（*Inquiry* 23）。这里我们知道它是和谐感官而非例如道德感官，因为我们所得的快乐是由“声音的组合”引起的。公共感官的快乐源于对他人幸福与苦难的考虑（*Essay*，17）。尊严感官的快乐源于他人对我们的评价，依此类推。
     step2: |-
       一般说来，哈奇森似乎通过产生特定观念或快乐的那些事物来区分感官。例如，他提出，“和谐”“指称源于声音组合的我们愉快的观念”（*Inquiry* 23）。这里我们知道它是和谐感官而非例如道德感官，因为我们所得的快乐是由“声音的组合”引起的。公共感官的快乐源于对他人幸福与苦难的考虑（*Essay*，17）。尊严感官的快乐源于他人对我们的评价，依此类推。
-
-  - id: 24
+  - id: 27
+    kind: body
     source: |-
       However, the moral sense has a further characteristic feature that the other internal senses, and hence other evaluative modes, do not. Hutcheson’s earliest reference to the moral sense runs as follows:
     step1: |-
       然而，道德感官具有其他内在感官（因而其他评价模式）所不具备的进一步特征。哈奇森最早提及道德感官的话如下：
     step2: |-
       然而，道德感官具有其他内在感官（因而其他评价模式）所不具备的进一步特征。哈奇森最早提及道德感官的话如下：
-
-  - id: 25
+  - id: 28
+    kind: body
     source: |-
       > [S]ome Actions have to Men an immediate Goodness; …by a superior Sense, which I call a Moral one, we perceive pleasure in the Contemplation of such Actions in others, and are determin’d to love the Agent, (and much more do we perceive Pleasure in being conscious of having done such Actions our selves) without any View of further natural Advantage from them. (*Inquiry*, 88)
     step1: |-
       > [某]些行动对人具有一种直接的善；……通过一种较高级的感官，我称之为道德感官，我们在观照他人身上的此类行动时感知到快乐，并被规定去爱那行动者，（我们更强烈地感知到在自己做了此类行动时意识到这一点的快乐），而不带有从它们得到进一步自然利益的任何意图。（*Inquiry*，88）
     step2: |-
-      > [某]些行动对人具有一种直接的善；……通过一种较高级的感官，我称之为道德感官，我们在观照他人身上的此类行动时感知到快乐，并被规定去爱那行动者，（我们更强烈地感知到在自己做了此类行动时意识到这一点的快乐），而不带有从它们得到进一步自然利益的任何意图。（*Inquiry*，88）
-
-  - id: 26
+      > [某]些行动对人具有一种直接的善；……通过一种较高级的感官——我称之为道德感官——我们在观照他人身上的此类行动时感知到快乐，并被决定去爱那行动者（而当我们意识到自己亦曾做此类行动时，所感知到的快乐更为强烈），丝毫不是着眼于由此获得更多自然利益。（*Inquiry*，88）
+  - id: 29
+    kind: body
     source: |-
       Here it appears that Hutcheson holds that the moral sense is that which takes pleasure *in actions*. But it is also the case that the moral sense, aside from a distinctive input, as it were, maintains a distinctive *output*: love of the agent. Later editions of the *Inquiry* also identify this output as “the simple ideas of Approbation and Condemnation” (*Inquiry*, 217n45) (see Darwall 1995: 210)[^darwall-1995].
     step1: |-
       这里看来，哈奇森主张道德感就是那种在*行动中*获得快乐的东西。但同样成立的是，道德感官除了独特的输入（可以说）之外，还保持一种独特的*输出*：对行动者的爱。《探究》的后来版本也将这一输出界定为“赞许与谴责的简单观念”（*Inquiry*，217n45）（见 Darwall 1995: 210）[^darwall-1995]。
     step2: |-
-      这里看来，哈奇森主张道德感官就是那种在 **行动中** 获得快乐的东西。但同样成立的是，道德感官除了一种独特的输入（可以说）之外，还保持一种独特的 **输出**：对行动者的爱。《探究》（*Inquiry*）的后来版本也将这一输出界定为“赞许与谴责的简单观念”（*Inquiry*，217n45）（见 Darwall 1995: 210）[^darwall-1995]。
-
-  - id: 27
+      这里看来，哈奇森主张道德感官就是那种在 *行动中* 获得快乐的东西。但同样成立的是，道德感官除了一种独特的输入（可以说）之外，还保持一种独特的 *输出*：对行动者的爱。《探究》（*Inquiry*）的后来版本也将这一输出界定为“赞许与谴责的简单观念”（*Inquiry*，217n45）（见 Darwall 1995: 210）[^darwall-1995]。
+  - id: 30
+    kind: body
     source: |-
       But it would appear that, for Hutcheson, the senses—and with them the evaluative modes—are distinguished by the object sortals to which they apply.
     step1: |-
       但看来，对哈奇森而言，感官——以及随之而来的评价模式——是由它们所适用的对象类别所区分的。
     step2: |-
       但看来，对哈奇森而言，感官——以及随之而来的评价模式——是由它们所适用的对象类别所区分的。
-
-  - id: 28
+  - id: 31
+    kind: body
+    source: |-
+      ### 1.3 Semantics and Moral Ontology
+    step1: |-
+      ### 1.3 语义学与道德本体论
+    step2: |-
+      ### 1.3 语义学与道德本体论
+  - id: 32
+    kind: body
     source: |-
       Given Hutcheson’s insistence that the operation of our various senses “determines” the various evaluative modes, it’s clear that he is marked out as a sentimentalist in some form or other. But how should we understand Hutcheson’s sentimentalism more precisely? Several questions arise.
     step1: |-
       鉴于哈奇森坚持认为我们各种感官的运作“决定”各种评价模式，显然他被刻画为某种形式的感性主义者。但应如何更精确地理解哈奇森的情感主义？这里出现几个问题。
     step2: |-
       鉴于哈奇森坚持认为我们各种感官的运作“决定”各种评价模式，显然他被刻画为某种形式的情感主义者。但应如何更精确地理解哈奇森的情感主义？这里出现几个问题。
-
-  - id: 29
+  - id: 33
+    kind: body
     source: |-
       First, we might ask a semantic question. Can we take Hutcheson, in expressing his view, to be a proto-non-cognitivist? In other words, is it the case that when people make moral utterances, they are simply expressing their attitudes? Second, we might ask an ontological or metaphysical question. Can we take Hutcheson to regard his moral metaphysics as response-dependent (i.e., that moral properties just are the properties of eliciting certain responses), or is his view compatible (or does it even express) some kind of realism about moral properties?
     step1: |-
       第一，我们可以问一个语义问题。在表达其观点时，我们能否把哈奇森视为原初非认知主义者？换言之，当人们作出道德话语时，他们是否只是在表达自己的态度？第二，我们可以问一个本体论或形而上学问题。我们能否把哈奇森视为将其道德形而上学看作是反应依赖的（即道德属性恰好就是引起某些反应的属性），还是说他的观点与关于道德属性的某种实在论相容（甚至表达之）？
     step2: |-
-      第一，我们可以问一个语义问题。在表达其观点时，我们能否把哈奇森视为原初非认知主义者？换言之，当人们作出道德话语时，他们是否只是在表达自己的态度？第二，我们可以问一个本体论或形而上学问题。我们能否把哈奇森视为将其道德形而上学看作是反应依赖的（即道德属性恰好就是引起某些反应的属性），还是说他的观点与关于道德属性的某种实在论相容（甚至表达之）？
-
-  - id: 30
+      第一，我们可以问一个语义问题：在表达其观点时，能否把哈奇森视为非认知主义的先驱（proto-non-cognitivist）？换言之，当人们作道德言说时，他们是否只是在表达自己的态度？第二，我们可以问一个本体论或形而上学问题：能否把哈奇森视为将其道德形而上学看作反应依赖的（response-dependent，即道德属性无非就是引起某些反应的属性），还是说他的观点与关于道德属性的某种实在论相容，甚或本身即表达了这种实在论？
+  - id: 34
+    kind: body
     source: |-
       Let’s begin with the question of whether Hutcheson is a non-cognitivist. Now, of course, much depends on what one means by this. But for the purpose of fixing our discussion, treat non-cognitivism as a sematic thesis, according to which moral terms do not refer to specific properties or objects, but are rather the expression of a particular non-cognitive (such as conative, affective, and so on) attitude. And, indeed, there are some who read Hutcheson in just this way. Perhaps most famously, William Frankena writes:
     step1: |-
       让我们从哈奇森是否是非认知主义者的问题开始。当然，这在很大程度上取决于人们对此的理解。但为了确定我们的讨论，把非认知主义视为一种语义学论题，根据这一论题，道德术语并不指称特定的属性或对象，而毋宁是某种非认知（如意动的、情感的等等）态度的表达。而且，确实有人正是这样读哈奇森的。或许最著名的是，威廉·弗兰克纳写道：
     step2: |-
       让我们从哈奇森是否是非认知主义者的问题开始。当然，这在很大程度上取决于人们对此的理解。但为了确定我们的讨论，把非认知主义视为一种语义学论题，根据这一论题，道德术语并不指称特定的属性或对象，而毋宁是某种非认知（如意动的、情感的等等）态度的表达。而且，确实有人正是这样解读哈奇森的。或许最著名的是，威廉·弗兰克纳写道：
-
-  - id: 31
+  - id: 35
+    kind: body
     source: |-
       > As I read Hutcheson, then, his position is this: in passing moral approbation as such on an action I am not cognizing and ascribing any identifiable property of goodness, etc., in or to the action, and I am not cognizing or asserting any fact about the actual or possible reactions of any spectators to the action. I am simply feeling a unique sort of pleasure in contemplating the action, and I am *expressing* this feeling by my verbal utterance, perhaps also expressing (but not asserting) a conviction that others will feel this pleasure if similarly situated, and almost certainly intending to evoke similar feelings in my hearers. That is, my moral approbation as such is wholly non-cognitive, very much as it is on Ayer’s more recent view, except that Ayer does not bring in a unique unacquired moral sense as the source of the feelings involved. (Frankena 1955: 372)[^frankena-1955]
     step1: |-
       > 那么，按我的解读，哈奇森的立场是这样的：在对一个行动作出这种道德赞许时，我并不是在认知并归于该行动任何可识别的善性等属性，我也不是在认知或断言关于任何旁观者对该行动的实际或可能反应的任何事实。我只是在观照该行动时感到一种独特的快乐，并且我正通过我的言语表达*表达*这一感受，也许还表达（但并不断言）一种信念：若处于类似处境，他人也会感到这种快乐，并且几乎肯定意图在我听者中引起类似感受。也就是说，我的这种道德赞许完全是非认知的，非常像艾耶尔更晚近的观点，只不过艾耶尔并没有引入一种独特的、非习得的道德感官作为所涉感受的来源。（Frankena 1955: 372）[^frankena-1955]
     step2: |-
-      > 那么，按我的解读，哈奇森的立场是这样的：在对一个行动作出这种道德赞许时，我并不是在认知并归于该行动任何可识别的善性等属性，我也不是在认知或断言关于任何旁观者对该行动的实际或可能反应的任何事实。我只是在观照该行动时感到一种独特的快乐，并且我正通过我的言语 **表达** 这一感受，也许还表达（但并不断言）一种信念：若处于类似处境，他人也会感到这种快乐，并且几乎肯定意在使我的听者产生类似感受。也就是说，我的这种道德赞许完全是非认知的，非常像艾耶尔更晚近的观点，只不过艾耶尔并没有引入一种独特的、非习得的道德感官作为所涉感受的来源。（Frankena 1955: 372）[^frankena-1955]
-
-  - id: 32
+      > 那么，按我的解读，哈奇森的立场是这样的：在对一个行动作出这种道德赞许时，我并不是在认知并归于该行动任何可识别的善性等属性，我也不是在认知或断言关于任何旁观者对该行动的实际或可能反应的任何事实。我只是在观照该行动时感到一种独特的快乐，并且我正通过我的言语 *表达* 这一感受，也许还表达（但并不断言）一种信念：若处于类似处境，他人也会感到这种快乐，并且几乎肯定意在使我的听者产生类似感受。也就是说，我的这种道德赞许完全是非认知的，非常像艾耶尔更晚近的观点，只不过艾耶尔并没有引入一种独特的、非习得的道德感官作为所涉感受的来源。（Frankena 1955: 372）[^frankena-1955]
+  - id: 36
+    kind: body
     source: |-
       Why think this? Frankena mentions that Hutcheson specifically notes that our moral sense is a determination to “receive pleasure” independently of any further ideas:
     step1: |-
       为什么要这样认为？弗兰克纳提到，哈奇森特别指出，我们的道德感官是一种不依赖任何进一步观念而“接受快乐”的规定：
     step2: |-
       为什么要这样认为？弗兰克纳提到，哈奇森特别指出，我们的道德感官是一种不依赖任何进一步观念而“接受快乐”的规定：
-
-  - id: 33
+  - id: 37
+    kind: body
     source: |-
       > We are not to imagine, that this moral Sense, more than the other senses, supposes any innate Ideas, Knowledge, or practical Proposition: We mean by it only a Determination of our Minds to receive amiable or disagreeable Ideas of Actions, when they occur to our Observation, antecedent to any Opinions of Advantage or loss to redound to our selves from them. (*Inquiry*, 100)
     step1: |-
       > 我们不应想象，这种道德感官比之其他感官，预设任何天赋观念、知识或实践命题：我们通过它只意指我们心灵的一种规定，即在行动进入我们的观察时，接受这些行动的可爱或令人不快的观念，而不先于任何因它们而归于我们自己的利益或损失的看法。（*Inquiry*，100）
     step2: |-
       > 我们不应想象，这种道德感官比之其他感官，预设任何天赋观念、知识或实践命题：我们通过它只意指我们心灵的一种规定，即在行动进入我们的观察时，接受这些行动的可爱或令人不快的观念，先于任何因它们而归于我们自己的利益或损失的看法。（*Inquiry*，100）
-
-  - id: 34
+  - id: 38
+    kind: body
     source: |-
       Here it would appear that Hutcheson identifies the “amiable or disagreeable Ideas” as the “immediate Pleasure” gained as a result of the operation of the moral sense. If so, it would make some sense to say that Hutcheson holds that when making moral judgments, one is simply expressing the affective attitudes, i.e., pleasure, that one gains as a result of the operation of the moral sense.
     step1: |-
       这里看来，哈奇森把“可爱或令人不快的观念”界定为作为道德感官运作结果而获得的“直接快乐”。若是如此，那么说哈奇森主张：当作出道德判断时，人只是在表达因道德感官运作而获得的情感态度，即快乐，这就有一定道理。
     step2: |-
-      这里看来，哈奇森把“可爱或令人不快的观念”界定为作为道德感官运作结果而获得的“直接快乐”。若是如此，那么说哈奇森主张：当作出道德判断时，人只是在表达因道德感官运作而获得的情感态度，即快乐，这就有一定道理。
-
-  - id: 35
+      由此看来，哈奇森把“可爱或令人不快的观念”等同于道德感官运作所产生的“直接快乐”。若是如此，那么下述说法便有一定道理：哈奇森主张，人在做道德判断时，只是在表达因道德感官运作而获得的情感态度（即快乐）。
+  - id: 39
+    kind: body
     source: |-
       However, on balance Hutcheson’s text does not permit of this reading. (For a much more thorough rejection of such a reading, see Darwall 1995: ch. 8; esp. 215–16; Kupperman 1985)[^darwall-1995][^kupperman-1985] Recall again his passage from the opening of the *Essay*:
     step1: |-
       然而，总的来看，哈奇森的文本不允许这种解读。（对这种解读更为彻底的拒斥，见 Darwall 1995: 第 8 章；尤其 215–16；Kupperman 1985）[^darwall-1995][^kupperman-1985]再回想一下他《论激情》开篇的段落：
     step2: |-
       然而，总的来看，哈奇森的文本不允许这种解读。（对这种解读更为彻底的拒斥，见 Darwall 1995: 第 8 章；尤其 215–16；Kupperman 1985）[^darwall-1995][^kupperman-1985]再回想一下他《论激情》（*Essay*）开篇的段落：
-
-  - id: 36
+  - id: 40
+    kind: body
     source: |-
       > Objects, Actions, or Events obtain the Name of *Good*, or *Evil*, according as they are the Causes, or Occasions, mediately, or immediately, of a grateful, or ungrateful *Perception* to some sensitive Nature.
     step1: |-
       > 对象、行动或事件，根据它们对某些有感觉的自然而言是令人愉悦或不悦的*感知*的中介或直接原因或机缘，而获得*善*或*恶*的名称。
     step2: |-
-      > 对象、行动或事件，根据它们对某些有感觉的自然而言是令人愉悦或不悦的 **感知** 的中介或直接原因或机缘，而获得 **善** 或 **恶** 的名称。
-
-  - id: 37
+      > 对象、行动或事件，根据它们对某些有感觉的自然而言是令人愉悦或不悦的 *感知* 的中介或直接原因或机缘，而获得 *善* 或 *恶* 的名称。
+  - id: 41
+    kind: body
     source: |-
       Hutcheson does not claim that the property, say, “goodness”, or our expressions of such a property just *are* expressions of our sensitive responses to such objects. But, rather, the property of goodness identified in such objects is the property of being a “Cause or Occasion” of such reactions. A similar thought is expressed in the opening passages of the *Inquiry*:
     step1: |-
       哈奇森并不主张，例如“善”这一属性，或我们对这种属性的表达，就*是*我们对这类对象的情感反应的表达。相反，在这类对象中被界定的善性属性，正是成为这种反应的“原因或机缘”的属性。类似的思想也表达于《探究》的开篇段落：
     step2: |-
-      哈奇森并不主张，例如“善”这一属性，或我们对这种属性的表达，恰好 **就是** 我们对这类对象的情感反应的表达。相反，在这类对象中被界定的善性属性，正是成为这种反应的“原因或机缘”的属性。类似的思想也表达于《探究》（*Inquiry*）的开篇段落：
-
-  - id: 38
+      哈奇森并不主张，例如“善”这一属性，或我们对这种属性的表达，恰好 *就是* 我们对这类对象的情感反应的表达。相反，在这类对象中被界定的善性属性，正是成为这种反应的“原因或机缘”的属性。类似的思想也表达于《探究》（*Inquiry*）的开篇段落：
+  - id: 42
+    kind: body
     source: |-
       > The Word Moral Goodness, in this Treatise, denotes our Idea of some Quality apprehended in Actions, which procures Approbation, and Love toward the Actor, from those who receive no Advantage by the Action. (*Inquiry*, 85)
     step1: |-
       > 在本论著中，“道德善”一词指称我们对行动中所领悟的某种性质的观念，这种性质从那些并不因该行动而获益的人那里获得赞许和对行动者的爱。（*Inquiry*，85）
     step2: |-
-      > 在本论著中，“道德善”一词指称我们对行动中所领悟的某种性质的观念，这种性质从那些并不因该行动而获益的人那里获得赞许和对行动者的爱。（*Inquiry*，85）
-
-  - id: 39
+      > 在本论著中，“道德善”一词指称我们对行动中所领悟的某种性质的观念；这种性质使那些不因该行动获益的人产生赞许，并爱那行动者。（*Inquiry*，85）
+  - id: 43
+    kind: body
     source: |-
       Frankena dismisses this passage by noting that Hutcheson, in the next sentence, holds that these are “Imperfect Descriptions” (Frankena 1955: 368)[^frankena-1955]. But Hutcheson does not believe that they are “Imperfect” in the sense of being *incorrect*—rather, he holds that these descriptions are imperfect in the sense requiring additional evidence and argument, i.e.,
     step1: |-
       弗兰克纳撇开这段，指出哈奇森在下一句主张这些是“不完善的描述”（Frankena 1955: 368）[^frankena-1955]。但哈奇森并不认为它们是“不完善的”这一意义上的*不正确*——毋宁，他主张这些描述在需要额外证据与论证的意义上是不完善的，即：
     step2: |-
-      弗兰克纳撇开这段，指出哈奇森在下一句主张这些是“不完善的描述”（Frankena 1955: 368）[^frankena-1955]。但哈奇森并不认为它们是“不完善的”这一意义上的 **不正确**——毋宁，他主张这些描述在需要额外证据与论证的意义上是不完善的，即：
-
-  - id: 40
+      弗兰克纳撇开这段，指出哈奇森在下一句主张这些是“不完善的描述”（Frankena 1955: 368）[^frankena-1955]。但哈奇森并不认为它们是“不完善的”这一意义上的 *不正确*——毋宁，他主张这些描述在需要额外证据与论证的意义上是不完善的，即：
+  - id: 44
+    kind: body
     source: |-
       > until we discover whether we really have such Ideas, and what general Foundation there is in Nature for this Difference of actions, as morally Good or Evil.
     step1: |-
       > 直到我们发现是否真的有这些观念，以及在本性中是否存在这一行动区分（作为道德上善或恶）的普遍基础。
     step2: |-
       > 直到我们发现是否真的有这些观念，以及在本性中是否存在这一行动区分（作为道德上善或恶）的普遍基础。
-
-  - id: 41
+  - id: 45
+    kind: body
     source: |-
       Thus it seems that we shouldn’t accept that Hutcheson is a non-cognitivist in the sense meant by Frankena. For Hutcheson, moral goodness (and, presumably, the other evaluative modes) refers to particular properties. However, at this point we may wish to turn to the nature of these properties. What sort of property is moral goodness or evil? The key question is the manner in which the moral sense “determines” moral distinctions (Radcliffe 1986)[^radcliffe-1986]. Though this is a bit of a coarse-grained division, one could distinguish what we might call “constitutive sentimentalism”, according to which the property referred to by the term “good” just is the property of causing the relevant sentiments in observers. Contrast this with “epistemic sentimentalism”, according to which the properties referred to by the term “good” are independent of the moral sense, but it is nevertheless the operation of the moral sense that allows us to ascertain or recognize these properties (Raphael 1947)[^raphael-1947].
     step1: |-
       因此看来，我们不应接受哈奇森是弗兰克纳意义上的非认知主义者。对哈奇森而言，道德善（以及，推想，其他评价模式）指称特定属性。然而，在此我们可能想转而考察这些属性的性质。道德善或恶是何种属性？关键问题在于道德感官“决定”道德区分的方式（Radcliffe 1986）[^radcliffe-1986]。虽然这是一种较粗的划分，但人们可以区分可称为“构成性情感主义”的立场——根据它，“善”这一术语所指称的属性恰好就是引起观察者中相关情感的属性——与“认识论情感主义”相对照——根据它，“善”这一术语所指称的属性独立于道德感官，但正是道德感官的运作使我们能够查明或认识这些属性（Raphael 1947）[^raphael-1947]。
     step2: |-
-      因此看来，我们不应接受哈奇森是弗兰克纳意义上的非认知主义者。对哈奇森而言，道德善（以及，推想，其他评价模式）指称特定属性。然而，在此我们可能想转而考察这些属性的性质。道德善或恶是何种属性？关键问题在于道德感官“决定”道德区分的方式（Radcliffe 1986）[^radcliffe-1986]。虽然这是一种较粗的划分，但人们可以区分可称为“构成性情感主义”的立场——根据它，“善”这一术语所指称的属性恰好就是引起观察者中相关情感的属性——与“认识论情感主义”相对照——根据它，“善”这一术语所指称的属性独立于道德感官，但正是道德感官的运作使我们能够查明或认识这些属性（Raphael 1947）[^raphael-1947]。
-
-  - id: 42
+      因此看来，我们不应接受哈奇森是弗兰克纳（Frankena）意义上的非认知主义者。对哈奇森而言，道德善（大概还有其他评价模式）指称特定的属性。然而，至此我们便想转而考察这些属性的性质：道德善或恶是何种属性？关键问题在于道德感官“决定”道德区分的方式（Radcliffe 1986）[^radcliffe-1986]。这一划分虽略显粗疏，但可以区分出两种立场：其一可称为“构成性情感主义”（constitutive sentimentalism），主张“善”一词所指称的属性无非就是引起观察者相关情感的属性；与之相对的“认识论情感主义”（epistemic sentimentalism）则主张，“善”一词所指称的属性独立于道德感官，但正是道德感官的运作使我们得以查明或辨识这些属性（Raphael 1947）[^raphael-1947]。
+  - id: 46
+    kind: body
     source: |-
       Indeed, it is not immediately clear from the *Inquiry* how we are to read Hutcheson on this matter. As already quoted, he holds that the moral sense is the source of the *ideas* of moral good and bad (*Inquiry* 86). But this would appear to be neutral concerning whether Hutcheson is a constitutive or epistemic sentimentalist. However, the passage from the *Essay* is less ambiguous. As noted, he holds that objects, actions, and so on “obtain the name *Good*” insofar as they are *causes* of the relevant perceptions (*Essay*, 15). And hence this would appear to be a constitutive sentimentalism: moral properties just are those properties that cause a particular sentimental reaction. On this reading (or so it would seem), if our psychology were different, then it may be that those things that “procure Approbation” would be substantially different than what they are now. This consequence was a key contemporary criticism of Hutcheson. John Balguy, for instance, writes
     step1: |-
       事实上，从《探究》并不能立即清楚地看出我们应如何在此问题上理解哈奇森。如已引述的，他主张道德感官是道德善与恶的*观念*的来源（*Inquiry* 86）。但这似乎对于哈奇森是构成性还是认识论情感主义是中立的。然而，《论激情》的段落则不那么含糊。如已指出的，他主张对象、行动等“获得*善*之名”，就它们而言是相关感知的*原因*（*Essay*，15）。因此这似乎是一种构成性情感主义：道德属性恰好就是引起特定情感反应的属性。按这一解读（或似乎如此），如果我们的心理学不同，那么那些“获得赞许”的东西可能与此前大不相同。这一结果是当时对哈奇森的一个关键批评。例如约翰·巴尔格写道
     step2: |-
-      事实上，从《探究》（*Inquiry*）并不能立即清楚地看出我们应如何在此问题上理解哈奇森。如已引述的，他主张道德感官是道德善与恶的 **观念** 的来源（*Inquiry* 86）。但这似乎对于哈奇森是构成性还是认识论情感主义是中立的。然而，《论激情》的段落则不那么含糊。如已指出的，他主张对象、行动等“获得 **善** 之名”，就它们而言是相关感知的 **原因**（*Essay*，15）。因此这似乎是一种构成性情感主义：道德属性恰好就是引起特定情感反应的属性。按这一解读（或似乎如此），如果我们的心理学不同，那么那些“获得赞许”的东西可能与此前大不相同。这一结果是当时对哈奇森的一个关键批评。例如约翰·巴尔格（John Balguy）写道
-
-  - id: 43
+      事实上，从《探究》（*Inquiry*）并不能立即清楚地看出我们应如何在此问题上理解哈奇森。如已引述的，他主张道德感官是道德善与恶的 *观念* 的来源（*Inquiry* 86）。但这似乎对于哈奇森是构成性还是认识论情感主义是中立的。然而，《论激情》的段落则不那么含糊。如已指出的，他主张对象、行动等“获得 *善* 之名”，就它们而言是相关感知的 *原因*（*Essay*，15）。因此这似乎是一种构成性情感主义：道德属性恰好就是引起特定情感反应的属性。按这一解读（或似乎如此），如果我们的心理学不同，那么那些“获得赞许”的东西可能与此前大不相同。这一结果是当时对哈奇森的一个关键批评。例如约翰·巴尔格（John Balguy）写道
+  - id: 47
+    kind: body
     source: |-
       > In the *first* place, it seems an insuperable difficulty in our author’s scheme, that virtue appears in it to be of an arbitrary and positive nature, as entirely depending upon *instincts*, that might originally have been otherwise, or even contrary to what they now are, and may be at any time altered or inverted, if the Creator pleases. (Balguy 1728 [BM: 390])[^balguy-1728]
     step1: |-
       > 在*第一*点，在我们作者的方案中似乎有一个不可克服的困难：德性在其中显得是一种任意的、实证的本性，完全依赖于*本能*，而这些本能本来可能并非如此，甚至可能与此前相反，并且可能随时被改变或倒转，只要造物主愿意。（Balguy 1728 [BM: 390]）[^balguy-1728]
     step2: |-
-      > 在 **第一** 点，在我们作者的方案中似乎有一个不可克服的困难：德性在其中显得是一种任意的、实证的本性，完全依赖于 **本能**，而这些本能本来可能并非如此，甚至可能与此前相反，并且可能随时被改变或倒转，只要造物主愿意。（Balguy 1728 [BM: 390]）[^balguy-1728]
-
-  - id: 44
+      > 在 *第一* 点，在我们作者的方案中似乎有一个不可克服的困难：德性在其中显得是一种任意的、实证的本性，完全依赖于 *本能*，而这些本能本来可能并非如此，甚至可能与此前相反，并且可能随时被改变或倒转，只要造物主愿意。（Balguy 1728 [BM: 390]）[^balguy-1728]
+  - id: 48
+    kind: body
     source: |-
       However, there are two further points worth making here, as we come to understand Hutcheson’s moral ontology. First, even if it were the case that Hutcheson accepted a kind of constitutive sentimentalism, Hutcheson nevertheless believes that the property of goodness *could not have been* otherwise. This is for two reasons. First, Hutcheson believes that our capacity for approbation, and our capacity to take pleasure in particular actions given the moral sense is firmly rooted in the universal principles of human nature:
     step1: |-
       然而，在我们理解哈奇森的道德本体论时，这里有两点值得进一步指出。第一，即使哈奇森接受了一种构成性情感主义，他仍然相信善性属性*不可能*是别样的。这有两个原因。第一，哈奇森相信我们的赞许能力，以及我们凭道德感官在特定行动中获得快乐的能力，牢固地植根于人性的普遍原则：
     step2: |-
-      然而，在我们理解哈奇森的道德本体论时，这里有两点值得进一步指出。第一，即使哈奇森接受了一种构成性情感主义，他仍然相信善性属性 **不可能** 是别样的。这有两个原因。第一，哈奇森相信我们的赞许能力，以及我们凭道德感官在特定行动中获得快乐的能力，牢固地植根于人性的普遍原则：
-
-  - id: 45
+      然而，在我们理解哈奇森的道德本体论时，这里有两点值得进一步指出。第一，即使哈奇森接受了一种构成性情感主义，他仍然相信善性属性 *不可能* 是别样的。这有两个原因。第一，哈奇森相信我们的赞许能力，以及我们凭道德感官在特定行动中获得快乐的能力，牢固地植根于人性的普遍原则：
+  - id: 49
+    kind: body
     source: |-
       > But if we call “that *State*, those *Dispositions* and *Actions*, *natural*, to which we are inclined by some part of our Constitution, antecedently to any *Volition of our own*; or which flow from some *Principles* in our Nature, not brought upon us by our own *Art*, or that of others;” then it may appear, from what has been said above, that “a State of *Good-will, Humanity, Compassion, mutual Aid, propagating and supporting Offspring, Love of a Community or Country, Devotion, or Love and Gratitude to some governing Mind*, is our natural State”. (*Essay*, 130)
     step1: |-
       > 但如果我们把“那种*状态*、那些*性情*和*行动*称为*自然的*，即我们因我们构造的某一部分而倾向于它们，先于我们自己的任何*意志*；或者它们源于我们本性中的某些*原则*，并非由我们自己的*技艺*或他人的*技艺*带给我们；”那么，从以上所述可以看出，“一种*善意、人道、同情、互助、繁衍并抚养后代、对社群或国家的爱、虔敬或对某个统治心灵的爱与感恩*的状态，就是我们的自然状态”。（*Essay*，130）
     step2: |-
-      > 但如果我们把“那种 **状态**、那些 **性情** 和 **行动** 称为 **自然的**，即我们因我们构造的某一部分而倾向于它们，先于我们自己的任何 **意志**；或者它们源于我们本性中的某些 **原则**，并非由我们自己的 **技艺** 或他人的 **技艺** 带给我们；”那么，从以上所述可以看出，“一种 **善意、人道、同情、互助、繁衍并抚养后代、对社群或国家的爱、虔敬或对某个统治心灵的爱与感恩** 的状态，就是我们的自然状态”。（*Essay*，130）
-
-  - id: 46
+      > 但如果我们把“那种 *状态*、那些 *性情* 和 *行动* 称为 *自然的*，即我们因我们构造的某一部分而倾向于它们，先于我们自己的任何 *意志*；或者它们源于我们本性中的某些 *原则*，并非由我们自己的 *技艺* 或他人的 *技艺* 带给我们；”那么，从以上所述可以看出，“一种 *善意、人道、同情、互助、繁衍并抚养后代、对社群或国家的爱、虔敬或对某个统治心灵的爱与感恩* 的状态，就是我们的自然状态”。（*Essay*，130）
+  - id: 50
+    kind: body
     source: |-
       Furthermore, Hutcheson seems to believe that only the fundamental principles of human nature maintain moral authority. He writes, in the *Inquiry*:
     step1: |-
       此外，哈奇森似乎相信只有人性的基本原则才维持道德权威。他在《探究》中写道：
     step2: |-
       此外，哈奇森似乎相信只有人性的基本原则才维持道德权威。他在《探究》（*Inquiry*）中写道：
-
-  - id: 47
+  - id: 51
+    kind: body
     source: |-
       > All Men seem persuaded of some Excellency in the Possession of good moral Qualitys, which is superior to all other Enjoyments; and on the contrary, look upon a State of moral Evil, as worse and more wretched than any other whatsoever. We must not form our Judgment in this matter from the Actions of Men; for however they may be influenc’d by moral Sentiments, yet it is certain, that Self-interested Passions frequently overcome them, and partial Views of the Tendency of Actions, make us do what is really morally evil, apprehending it to be good. But let us examine the Sentiments which Men universally form of the State of others, when they are no way immediately concern’d; for in these Sentiments human Nature is calm and undisturb’d, and shews its true Face. (*Inquiry*, 163–4)
     step1: |-
       > 所有人都似乎确信，拥有良好的道德品质具有某种优越性，这种优越性胜过一切其他享受；相反，他们把道德恶的状态视为比任何其他状态更糟、更悲惨。我们在此事上不能依据人的行动形成判断；因为无论他们可能多么受道德情感影响，可以肯定的是，自利的激情常常压倒它们，而对行动倾向的片面看法使我们做真正道德上恶的事，却误以为它是善的。但让我们考察人们普遍形成的对他人的状态的情感，当他们没有任何直接利害关系时；因为在这样的情感中，人性是平静而无扰的，并显出它真实的面貌。（*Inquiry*，163–4）
     step2: |-
-      > 所有人都似乎确信，拥有良好的道德品质具有某种优越性，这种优越性胜过一切其他享受；相反，他们把道德恶的状态视为比任何其他状态更糟、更悲惨。我们在此事上不能依据人的行动形成判断；因为无论他们可能多么受道德情感影响，可以肯定的是，自利的激情常常压倒它们，而对行动倾向的片面看法使我们做真正道德上恶的事，却误以为它是善的。但让我们考察人们普遍形成的对他人的状态的情感，当他们没有任何直接利害关系时；因为在这样的情感中，人性是平静而无扰的，并显出它真实的面貌。（*Inquiry*，163–4）
-
-  - id: 48
+      > 人人都似乎确信，良好的道德品质之占有具有某种卓越性，胜过一切其他享受；相反，人们把道德恶的状态看得比任何其他状态都更糟、更悲惨。在这件事上，我们切不可依据人的行动来形成判断；因为无论道德情感对人可能有多大影响，可以肯定的是，自利的激情常常压倒这些情感，而对行动倾向的片面看法，使我们把真正道德上恶的事当作善来做。但让我们考察，人们在与他人的状态毫无直接利害关系时普遍形成的情感；因为在这些情感中，人性平静无扰，显露出它真实的面貌。（*Inquiry*，163–4）
+  - id: 52
+    kind: body
     source: |-
       And the root of our moral sentiments in human nature is further evidence that morality is not, as suggested by Balguy, arbitrary. This is because, after all, we are created by a benevolent deity (Rauscher 2003)[^rauscher-2003]. And no benevolent deity would have chosen to impart a disposition to praise, e.g., ill-will, cruelty, pain, hatred, and so forth as principles of human nature (*Essay* 132). (Indeed, this passage reveals a key error in Frankena’s criticism of a “subjectivist”, rather than non-cognitivist, approach to Hutcheson’s metaethics. According to Frankena, the subjectivist view is
     step1: |-
       而我们道德情感在人性的根基，进一步证明道德并非如巴尔格所暗示的那样是任意的。这是因为，毕竟我们是仁慈的神所创造的（Rauscher 2003）[^rauscher-2003]。而没有仁慈的神会选择把诸如恶意、残忍、痛苦、仇恨等作为人性原则的赞许倾向赋予我们（*Essay* 132）。（事实上，这一段落揭示了弗兰克纳对哈奇森元伦理学的“主观主义”而非非认知主义进路批评中的一个关键错误。根据弗兰克纳，主观主义观点是
     step2: |-
-      而我们道德情感在人性的根基，进一步证明道德并非如巴尔格所暗示的那样是任意的。这是因为，毕竟我们是仁慈的神所创造的（Rauscher 2003）[^rauscher-2003]。而没有仁慈的神会选择把诸如恶意、残忍、痛苦、仇恨等作为人性原则的赞许倾向赋予我们（*Essay* 132）。（事实上，这一段落揭示了弗兰克纳对哈奇森元伦理学的“主观主义”而非非认知主义进路批评中的一个关键错误。根据弗兰克纳，主观主义观点是
-
-  - id: 49
+      我们道德情感植根于人性之中，这进一步证明道德并非如巴尔格所暗示的那样是任意的。这是因为我们毕竟是由一位仁慈的神所造的（Rauscher 2003）[^rauscher-2003]。而任何仁慈的神都不会选择把赞许恶意、残忍、痛苦、仇恨等的禀性作为人性原则赋予我们（*Essay* 132）。（事实上，这段话揭示了弗兰克纳批评中的一个关键错误：他批评的是“主观主义”进路，而非非认知主义进路。按弗兰克纳的说法，主观主义观点是
+  - id: 53
+    kind: body
     source: |-
       > incomplete. For it should include a statistical investigation into the actual or possible incidence of feelings of pleasure or pain at contemplating the act in question among the preliminaries to a moral judgment. (Frankena 1955: 371)[^frankena-1955]
     step1: |-
       > 不完善的。因为它应该包括一项统计调查，考察在观照所涉行动时快乐或痛苦感受的实际或可能发生情况，作为道德判断的预备。（Frankena 1955: 371）[^frankena-1955]
     step2: |-
-      > 不完善的。因为它应该包括一项统计调查，考察在观照所涉行动时快乐或痛苦感受的实际或可能发生情况，作为道德判断的预备。（Frankena 1955: 371）[^frankena-1955]
-
-  - id: 50
+      > 不完善的。因为它应当在道德判断的预备工作中，包含一项统计考察：人们在观照所涉行动时，快乐或痛苦感受的实际或可能发生率。（Frankena 1955: 371）[^frankena-1955]
+  - id: 54
+    kind: body
     source: |-
       But Frankena fails to recognize that Hutcheson *does* conduct this statistical inquiry. He holds that the sentiments he is describing are universal principles of human nature, implanted by a benevolent deity.) Of course, that’s not to say that the deity *couldn’t* have made us different than we are (*Inquiry*, 80; Radcliffe 1986)[^radcliffe-1986]—just that the deity *wouldn’t* have.
     step1: |-
       但弗兰克纳没有认识到，哈奇森*确实*进行了这一统计调查。他主张他所描述的情感是人性的普遍原则，由仁慈的神植入。）当然，这并不是说神*不可能*使我们不同于现在的我们（*Inquiry*，80；Radcliffe 1986）[^radcliffe-1986]——只是神*不会*那样做。
     step2: |-
-      但弗兰克纳没有认识到，哈奇森 **确实** 进行了这一统计调查。他主张他所描述的情感是人性的普遍原则，由仁慈的神植入。）当然，这并不是说神 **不可能** 使我们不同于现在的我们（*Inquiry*，80；Radcliffe 1986）[^radcliffe-1986]——只是神 **不会** 那样做。
-
-  - id: 51
+      但弗兰克纳没有认识到，哈奇森 *确实* 进行了这一统计调查。他主张他所描述的情感是人性的普遍原则，由仁慈的神植入。）当然，这并不是说神 *不可能* 使我们不同于现在的我们（*Inquiry*，80；Radcliffe 1986）[^radcliffe-1986]——只是神 *不会* 那样做。
+  - id: 55
+    kind: body
     source: |-
       So if Hutcheson is a constitutive sentimentalist, it appears that his brand of constitutive sentimentalism has at least had some responses to some common objections. After all, our responses are fixtures of human nature, so there needn’t be any sort of problematic contingency in the application of moral predicates.
     step1: |-
       因此，如果哈奇森是构成性情感主义者，那么他的构成性情感主义这一类型似乎至少对某些常见反对意见已有一些回应。毕竟，我们的反应是人性的固定特征，所以道德谓词的应用中不必有任何成问题的偶然性。
     step2: |-
-      因此，如果哈奇森是构成性情感主义者，那么他的构成性情感主义这一类型似乎至少对某些常见反对意见已有一些回应。毕竟，我们的反应是人性的固定特征，所以道德谓词的应用中不必有任何成问题的偶然性。
-
-  - id: 52
+      因此，如果哈奇森是构成性情感主义者，那么他这一类型的构成性情感主义，似乎至少对某些常见反对意见已有回应。毕竟，我们的反应是人性中恒定的部分，所以道德谓词的运用无须面对任何成问题的偶然性。
+  - id: 56
+    kind: body
     source: |-
       However, there is one slight complication that can and should be raised for the constitutive interpretation of Hutcheson. (Further to this discussion, see Kail 2001.)[^kail-2001] Recall how we distinguish senses, i.e., *via* their subject matter. Now, as noted before, the moral sense takes pleasure in actions. But so does, e.g., the sense of dignity or decency. Of course, this isn’t any particular problem for his account of sense individuation. After all, Hutcheson holds, in the latter case, that it is the *suitableness to human nature* upon which the sense of dignity operates. This indicates that whether an action is suitable to human nature is independent of the operation of the sense of dignity. But note that Hutcheson also (at least occasionally) refers to the moral sense as a quality that perceives and operates upon *virtue and vice* (*Essay*, 17). Now, were Hutcheson a constitutive sentimentalist, this would create a serious problem. After all, on a constitutive sentimentalist view, virtue and vice is logically posterior to the operation of the moral sense, rendering any attempt at individuating that particular sense circular. It would appear a better reading to hold that, as a perceptive quality, the moral sense is perceiving and reacting *to something*, viz., virtue and vice, telling in favor of an epistemic rather than constitutive reading of Hutcheson’s sentimentalism.
     step1: |-
       然而，对于哈奇森的构成性解读，有一个轻微而可以且应当提出的复杂之处。（关于这一讨论的进一步内容，见 Kail 2001。）[^kail-2001]回想我们如何区分感官，即*经由*其主题。现在，如先前指出的，道德感官在行动中获得快乐。但例如尊严或端庄感官也是如此。当然，这对于他的感官个体化说明并不构成任何特别的问题。毕竟，在后者的情况中，哈奇森主张，正是*适合人性*这一点使尊严感官运作。这表明一个行动是否适合人性，独立于尊严感官的运作。但注意，哈奇森也（至少偶尔）把道德感官称为一种感知并作用于*德性与恶*的性质（*Essay*，17）。现在，如果哈奇森是构成性情感主义者，这将造成一个严重问题。毕竟，在构成性情感主义观点中，德性与恶在逻辑上后于道德感官的运作，使得任何试图个体化那一特定感官的企图都成为循环。更好的解读似乎是：作为一种感知性质，道德感官是在感知并回应*某物*，即德性与恶，这支持对哈奇森情感主义的认识论解读而非构成性解读。
     step2: |-
-      然而，对于哈奇森的构成性解读，有一个轻微而可以且应当提出的复杂之处。（关于这一讨论的进一步内容，见 Kail 2001。）[^kail-2001]回想我们如何区分感官，即*via*其主题。现在，如先前指出的，道德感官在行动中获得快乐。但例如尊严或端庄感官也是如此。当然，这对于他的感官个体化说明并不构成任何特别的问题。毕竟，在后者的情况中，哈奇森主张，正是 **适合人性** 这一点使尊严感官运作。这表明一个行动是否适合人性，独立于尊严感官的运作。但注意，哈奇森也（至少偶尔）把道德感官称为一种感知并作用于 **德性与恶** 的性质（*Essay*，17）。现在，如果哈奇森是构成性情感主义者，这将造成一个严重问题。毕竟，在构成性情感主义观点中，德性与恶在逻辑上后于道德感官的运作，使得任何试图个体化那一特定感官的企图都成为循环。更好的解读似乎是：作为一种感知性质，道德感官是在感知并回应 **某物**，即德性与恶，这支持对哈奇森情感主义的认识论解读而非构成性解读。
-
-  - id: 53
+      然而，对于哈奇森的构成性解读，有一个轻微而可以且应当提出的复杂之处。（关于这一讨论的进一步内容，见 Kail 2001。）[^kail-2001]回想我们如何区分感官，即*via*其主题。现在，如先前指出的，道德感官在行动中获得快乐。但例如尊严或端庄感官也是如此。当然，这对于他的感官个体化说明并不构成任何特别的问题。毕竟，在后者的情况中，哈奇森主张，正是 *适合人性* 这一点使尊严感官运作。这表明一个行动是否适合人性，独立于尊严感官的运作。但注意，哈奇森也（至少偶尔）把道德感官称为一种感知并作用于 *德性与恶* 的性质（*Essay*，17）。现在，如果哈奇森是构成性情感主义者，这将造成一个严重问题。毕竟，在构成性情感主义观点中，德性与恶在逻辑上后于道德感官的运作，使得任何试图个体化那一特定感官的企图都成为循环。更好的解读似乎是：作为一种感知性质，道德感官是在感知并回应 *某物*，即德性与恶，这支持对哈奇森情感主义的认识论解读而非构成性解读。
+  - id: 57
+    kind: body
     source: |-
       In further support of an epistemic reading, consider the following passage from Hutcheson’s *A System of Moral Philosophy*. Here, Hutcheson writes the following:
     step1: |-
       为进一步支持认识论解读，考虑以下来自哈奇森《道德哲学体系》的段落。这里，哈奇森写道：
     step2: |-
       为进一步支持认识论解读，考虑以下来自哈奇森《道德哲学体系》（*A System of Moral Philosophy*）的段落。这里，哈奇森写道：
-
-  - id: 54
+  - id: 58
+    kind: body
     source: |-
       > Tho’ the approbation of moral excellence is a grateful action or sensation of the mind, ’tis plain the good approved is not this tendency to give us a grateful sensation. As, in approving a beautiful form, we refer to the beauty of the object; we do not say that it is beautiful because we reap some little pleasure in viewing it, but we are pleased in viewing it because it is antecedently beautiful. Thus, when we admire the virtue of another, the whole excellence, or that quality which by nature we are determined to approve, is conceived to be in that other; we are pleased in the contemplation because the object is excellent, and the object is not judged to be therefore excellent because it gives us pleasure. (*System*, 54; see also Norton 1985: 410)[^norton-1985]
     step1: |-
       > 虽然对道德卓越的赞许是心灵的一种感恩行动或感觉，但显然，被赞许的善并不是这种给我们感恩感觉的倾向。正如，在赞许一个美的形式时，我们指涉对象的美；我们不说它美是因为我们在观看它时收获一些微小的快乐，而是我们乐于观看它是因为它先在地是美的。因此，当我们钦佩他人的德性时，整个卓越，或那种我们凭本性被规定去赞许的性质，被认为是在那他人之中；我们在观照中感到快乐是因为对象是卓越的，而对象并不因为给我们快乐而被判断为因而是卓越的。（*System*，54；另见 Norton 1985: 410）[^norton-1985]
     step2: |-
-      > 虽然对道德卓越的赞许是心灵的一种感恩行动或感觉，但显然，被赞许的善并不是这种给我们感恩感觉的倾向。正如，在赞许一个美的形式时，我们指涉对象的美；我们不说它美是因为我们在观看它时收获一些微小的快乐，而是我们乐于观看它是因为它先在地是美的。因此，当我们钦佩他人的德性时，整个卓越，或那种我们凭本性被规定去赞许的性质，被认为是在那他人之中；我们在观照中感到快乐是因为对象是卓越的，而对象并不因为给我们快乐而被判断为因而是卓越的。（*System*，54；另见 Norton 1985: 410）[^norton-1985]
-
-  - id: 55
+      > 虽然对道德卓越的赞许是心灵一种快意的活动或感觉，但显然，所赞许的善并不是这种给我们快意感觉的倾向。正如在赞许一个美的形式时，我们所指的是对象的美：我们不说它是美的，是因为观看它时得到些许快乐；我们观看它时感到快乐，是因为它先在地美。因此，当我们钦佩他人的德性时，那全部卓越性——即我们凭本性被决定去赞许的那种性质——被设想为存在于他人之中；我们在观照中感到快乐，是因为对象卓越；而不是因为对象给我们快乐，它才被判断为卓越。（*System*，54；另见 Norton 1985: 410）[^norton-1985]
+  - id: 59
+    kind: body
     source: |-
       Now, this seems to be a direct rejection of his view, expressed in the *Essay*, that goodness just is the *cause or occasion* of a “grateful Perception”. Rather, or so it would appear here, Hutcheson seems to be holding that the goodness is a real property of the object, which we feel pleasure upon contemplating, just as beauty is a real property of a particular object, which we feel pleasure upon seeing or appreciating. This clearly tells in favor of an epistemic rather than a constitutive sentimentalism.
     step1: |-
       现在，这似乎直接反驳了他《论激情》中所表达的、即善性恰好就是“感恩感知”的*原因或机缘*的观点。毋宁，或者这里似乎如此，哈奇森似乎主张善性是对象的一种真实属性，我们在观照它时感到快乐，正如美是某个特定对象的一种真实属性，我们在观看或欣赏它时感到快乐。这显然支持认识论情感主义而非构成性情感主义。
     step2: |-
-      现在，这似乎直接反驳了他《论激情》（*Essay*）中所表达的、即善性恰好就是“感恩感知”的 **原因或机缘** 的观点。毋宁，或者这里似乎如此，哈奇森似乎主张善性是对象的一种真实属性，我们在观照它时感到快乐，正如美是某个特定对象的一种真实属性，我们在观看或欣赏它时感到快乐。这显然支持认识论情感主义而非构成性情感主义。
-
-  - id: 56
+      现在，这似乎直接反驳了他《论激情》（*Essay*）中所表达的、即善性恰好就是“感恩感知”的 *原因或机缘* 的观点。毋宁，或者这里似乎如此，哈奇森似乎主张善性是对象的一种真实属性，我们在观照它时感到快乐，正如美是某个特定对象的一种真实属性，我们在观看或欣赏它时感到快乐。这显然支持认识论情感主义而非构成性情感主义。
+  - id: 60
+    kind: body
     source: |-
       One might hold that Hutcheson, by the time he wrote the *System*, had changed his view. Indeed, the *Essay*’s first edition was published in 1728, and the *System* was a much later book, left unpublished at the time of his death. A standard view is that Hutcheson’s thinking changed substantially once we reach the *System* (Carey 2005: v–vi; Scott 1900: 214)[^carey-2005][^scott-1900]. However, this explanation is somewhat unsatisfactory, for at least one reason. Hutcheson was a perennial tinkerer. The *Essay* underwent no fewer than three separate revised editions during Hutcheson’s lifetime. The final, third, edition of the *Essay* was completed and published in 1742. But the *System*, while it was not published until after Hutcheson’s death in 1755, was substantially complete by 1737, five years *earlier* than the final revised edition of the *Essay*. And hence were Hutcheson to have changed his view concerning the nature of the property of goodness, one would certainly expect to see this change reflected in the text of the *Essay*, which was revised as of 1742. But one doesn’t. (This is especially striking given that Hutcheson was not shy about making very substantive changes in later editions of his work; this is especially true of the four editions of the *Inquiry*.)
     step1: |-
       人们可能主张，到哈奇森写《体系》时，他已经改变了自己的观点。的确，《论激情》第一版出版于 1728 年，而《体系》是晚得多的著作，在他去世时尚未出版。一种标准观点是，一旦我们到达《体系》，哈奇森的思想发生了实质变化（Carey 2005: v–vi; Scott 1900: 214）[^carey-2005][^scott-1900]。然而，这种解释至少有一个理由而不太令人满意。哈奇森是一位长期的修补者。《论激情》在哈奇森生前经历了不少于三个独立修订版。其最终、第三版于 1742 年完成并出版。但《体系》虽然直到哈奇森 1755 年去世后才出版，却在 1737 年已大体完成，比《论激情》最终修订版*早*五年。因此，如果哈奇森就善性属性的性质改变了他的观点，人们当然会预期看到这一变化反映在 1742 年修订的《论激情》文本中。但人们看不到。（这尤其引人注目，因为哈奇森并不羞于在其著作的后来版本中作出非常实质性的修改；对《探究》的四个版本尤其如此。）
     step2: |-
-      人们可能主张，到哈奇森写《体系》（*System*）时，他已经改变了自己的观点。的确，《论激情》（*Essay*）第一版出版于 1728 年，而《体系》是晚得多的著作，在他去世时尚未出版。一种标准观点是，一旦我们到达《体系》，哈奇森的思想发生了实质变化（Carey 2005: v–vi; Scott 1900: 214）[^carey-2005][^scott-1900]。然而，这种解释至少有一个理由而不太令人满意。哈奇森是一位长期的修补者。《论激情》在哈奇森生前经历了不少于三个独立修订版。其最终、第三版于 1742 年完成并出版。但《体系》虽然直到哈奇森 1755 年去世后才出版，却在 1737 年已大体完成，比《论激情》最终修订版 **更早** 五年。因此，如果哈奇森就善性属性的性质改变了他的观点，人们当然会预期看到这一变化反映在 1742 年修订的《论激情》文本中。但人们看不到。（这尤其引人注目，因为哈奇森并不羞于在其著作的后来版本中作出非常实质性的修改；对《探究》（*Inquiry*）的四个版本尤其如此。）
-
-  - id: 57
+      人们可能主张，到哈奇森写《体系》（*System*）时，他已经改变了自己的观点。的确，《论激情》（*Essay*）第一版出版于 1728 年，而《体系》是晚得多的著作，在他去世时尚未出版。一种标准观点是，一旦我们到达《体系》，哈奇森的思想发生了实质变化（Carey 2005: v–vi; Scott 1900: 214）[^carey-2005][^scott-1900]。然而，这种解释至少有一个理由而不太令人满意。哈奇森是一位长期的修补者。《论激情》在哈奇森生前经历了不少于三个独立修订版。其最终、第三版于 1742 年完成并出版。但《体系》虽然直到哈奇森 1755 年去世后才出版，却在 1737 年已大体完成，比《论激情》最终修订版 *更早* 五年。因此，如果哈奇森就善性属性的性质改变了他的观点，人们当然会预期看到这一变化反映在 1742 年修订的《论激情》文本中。但人们看不到。（这尤其引人注目，因为哈奇森并不羞于在其著作的后来版本中作出非常实质性的修改；对《探究》（*Inquiry*）的四个版本尤其如此。）
+  - id: 61
+    kind: body
     source: |-
       This, therefore, is an exegetical puzzle. However, progress may be made by reconsidering Hutcheson’s passage from the *Essay*. He writes that objects, etc.,“obtain the Name of *Good*” given their capacity to cause pleasurable sensations. Notice the word “obtain”. We might read Hutcheson as saying not that the property of goodness *is* the tendency to cause feelings of approbation or feelings of pleasure, but rather the property of goodness is one to which we have access given our feelings of pleasure, just in the sense that beauty is a property to which we have access given our feelings of pleasure in contemplation of the beautiful object. Our feelings of pleasure, in this way, serve to *fix the reference* of the term “goodness”, but do not constitute the *referent* of that term. In other words, moral goodness just is the property of XYZ, but we “apprehend” that property given our affective responses and the operation of the moral sense. For Hutcheson, the pleasure generated by the moral sense operates in an analogous way that the description of an object operates in a causal theory of reference. “The author of *The Shining*” fixes the reference of “Stephen King”, but the property of *being Stephen King* is not the property of being the author of *The Shining*. Similarly, that which has a tendency to cause approbation fixes the reference of moral goodness, but being the property of moral goodness is not the same as being the disposition to cause approbation. For Hutcheson, the property is independent.
     step1: |-
       因此，这是一个解释学的难题。然而，通过重新考虑哈奇森《论激情》的段落可以取得进展。他写道，对象等“获得*善*之名”，鉴于它们引起愉悦感觉的能力。注意“获得”一词。我们可以把哈奇森解读为：善性属性*是*引起赞许或愉悦感觉的倾向，而是善性属性是我们凭愉悦感觉可通达的属性，正如美是我们在观照美之对象时凭愉悦感觉可通达的属性。我们的愉悦感觉，以这种方式，起到*固定*“善”这一术语*指称*的作用，但并不构成该术语的*所指*。换言之，道德善恰好就是 XYZ 的属性，但我们凭情感反应和道德感官的运作“领会”那属性。对哈奇森而言，道德感官产生的快乐以一种类似于对象描述在因果指称理论中起作用的方式运作。“《闪灵》的作者”固定了“斯蒂芬·金”的指称，但*是斯蒂芬·金*的属性并不是《闪灵》作者的属性。类似地，那具有引起赞许倾向的东西固定了道德善的指称，但成为道德善的属性并不等同于引起赞许的倾向。对哈奇森而言，属性是独立的。
     step2: |-
-      因此，这是一个解释学的难题。然而，通过重新考虑哈奇森《论激情》（*Essay*）的段落可以取得进展。他写道，对象等“获得 **善** 之名”，鉴于它们引起愉悦感觉的能力。注意“获得”一词。我们可以把哈奇森解读为：善性属性 **是** 引起赞许或愉悦感觉的倾向，而是善性属性是我们凭愉悦感觉可通达的属性，正如美是我们在观照美之对象时凭愉悦感觉可通达的属性。我们的愉悦感觉，以这种方式，起到 **固定** “善”这一术语 **指称** 的作用，但并不构成该术语的 **所指**。换言之，道德善恰好就是 XYZ 的属性，但我们凭情感反应和道德感官的运作“领会”那属性。对哈奇森而言，道德感官产生的快乐以一种类似于对象描述在因果指称理论中起作用的方式运作。“《闪灵》的作者”（*The Shining*）固定了“斯蒂芬·金”的指称，但 **是斯蒂芬·金** 的属性并不是《闪灵》作者的属性。类似地，那具有引起赞许倾向的东西固定了道德善的指称，但成为道德善的属性并不等同于引起赞许的倾向。对哈奇森而言，属性是独立的。
-
-  - id: 58
+      因此，这是一个解释学的难题。然而，通过重新考虑哈奇森《论激情》（*Essay*）的段落可以取得进展。他写道，对象等“获得 *善* 之名”，鉴于它们引起愉悦感觉的能力。注意“获得”一词。我们可以把哈奇森解读为：善性属性 *是* 引起赞许或愉悦感觉的倾向，而是善性属性是我们凭愉悦感觉可通达的属性，正如美是我们在观照美之对象时凭愉悦感觉可通达的属性。我们的愉悦感觉，以这种方式，起到 *固定* “善”这一术语 *指称* 的作用，但并不构成该术语的 *所指*。换言之，道德善恰好就是 XYZ 的属性，但我们凭情感反应和道德感官的运作“领会”那属性。对哈奇森而言，道德感官产生的快乐以一种类似于对象描述在因果指称理论中起作用的方式运作。“《闪灵》的作者”（*The Shining*）固定了“斯蒂芬·金”的指称，但 *是斯蒂芬·金* 的属性并不是《闪灵》作者的属性。类似地，那具有引起赞许倾向的东西固定了道德善的指称，但成为道德善的属性并不等同于引起赞许的倾向。对哈奇森而言，属性是独立的。
+  - id: 62
+    kind: body
+    source: |-
+      ### 1.4 Attack on Rationalism
+    step1: |-
+      ### 1.4 对理性主义的攻击
+    step2: |-
+      ### 1.4 对理性主义的攻击
+  - id: 63
+    kind: body
     source: |-
       However we understand the ontological status of moral properties in Hutcheson’s sentimentalism, it is clear that Hutcheson made it his business to insist that the foundation of morality is *not* to be found in our rational capacities, or capacities for the determination of truth and reason (see Gill 2006: ch. 12)[^gill-2006]. This put Hutcheson at odds with his rationalist contemporaries, most importantly John Balguy, Samuel Clarke, and William Wollaston. In the *Illustrations on the Moral Sense* (which was published with the *Essay*), Hutcheson offers a sustained critique of these authors and other forms of rationalism (cf. *Essay*, 137–155).
     step1: |-
       无论我们如何理解哈奇森情感主义中道德属性的本体论地位，显然哈奇森把坚持道德的基础*不*在于我们的理性能力、或决定真理与理性的能力作为自己的事务（见 Gill 2006: 第 12 章）[^gill-2006]。这使得哈奇森与他的理性主义同时代人发生冲突，最重要的是约翰·巴尔格、塞缪尔·克拉克和威廉·沃拉斯顿。在《道德感例释》（与《论激情》一起出版）中，哈奇森对这些作者和理性主义的其他形式提出了持续的批判（参见 *Essay*，137–155）。
     step2: |-
-      无论我们如何理解哈奇森情感主义中道德属性的本体论地位，显然哈奇森把坚持道德的基础 **不** 在于我们的理性能力、或决定真理与理性的能力作为自己的事务（见 Gill 2006: 第 12 章）[^gill-2006]。这使得哈奇森与他的理性主义同时代人发生冲突，最重要的是约翰·巴尔格、塞缪尔·克拉克和威廉·沃拉斯顿。在《道德感例释》（*Illustrations on the Moral Sense*，与《论激情》一起出版）中，哈奇森对这些作者和理性主义的其他形式提出了持续的批判（参见 *Essay*，137–155）。
-
-  - id: 59
+      无论我们如何理解哈奇森情感主义中道德属性的本体论地位，显然哈奇森把坚持道德的基础 *不* 在于我们的理性能力、或决定真理与理性的能力作为自己的事务（见 Gill 2006: 第 12 章）[^gill-2006]。这使得哈奇森与他的理性主义同时代人发生冲突，最重要的是约翰·巴尔格、塞缪尔·克拉克和威廉·沃拉斯顿。在《道德感例释》（*Illustrations on the Moral Sense*，与《论激情》一起出版）中，哈奇森对这些作者和理性主义的其他形式提出了持续的批判（参见 *Essay*，137–155）。
+  - id: 64
+    kind: body
     source: |-
       At this point, however, it would do to say a little bit about how rationalism is understood by Hutcheson’s interlocutors. According to Clarke, the virtue and/or vice of particular actions is determined by the “eternal relations” of “fitness and unfitness”. More specifically, Clarke writes:
     step1: |-
       然而，在这一点上，有必要稍微说说哈奇森的对话者如何理解理性主义。根据克拉克，特定行动的德性和/或恶由“适合与不适合”的“永恒关系”决定。更具体地说，克拉克写道：
     step2: |-
-      然而，在这一点上，有必要稍微说说哈奇森的对话者如何理解理性主义。根据克拉克，特定行动的德性和/或恶由“适合与不适合”的“永恒关系”决定。更具体地说，克拉克写道：
-
-  - id: 60
+      不过，在这一点上，值得稍费笔墨说明哈奇森的论辩对手如何理解理性主义。依照克拉克的看法，特定行动的德性或恶由“适合与不适合”（fitness and unfitness）的“永恒关系”（eternal relations）决定。更具体地说，克拉克写道：
+  - id: 65
+    kind: body
     source: |-
       > there is a fitness or suitableness of certain circumstances to certain persons, and an unsuitableness of others; founded in the nature of things and the qualifications of persons, antecedent to all positive appointment whatsoever; also that from the different relations of different person one to another, there necessarily arises a fitness or unfitness of certain manners of behaviour of some persons towards others: it is as manifest, as that the properties which flow from the essences of different mathematical figures, have different congruities or incongruities between themselves; or that, in mechanics, certain weights or powers have very different forces…. (Clarke 1706 [BM: 192–3])[^clarke-1706]
     step1: |-
       > 某些情形对某些人有一种适合或适宜性，而其他情形则不适合；这植根于事物的本性和人的资质，先于一切肯定的任命；并且，从不同人彼此之间的不同关系，必然产生某些人对待他人某些行为方式的适合或不适合：这正如从不同数学图形的本质流出的性质彼此之间有不同的适合或不适合；或者，在力学中，某些重量或力量有非常不同的力……。（Clarke 1706 [BM: 192–3]）[^clarke-1706]
     step2: |-
-      > 某些情形对某些人有一种适合或适宜性，而其他情形则不适合；这植根于事物的本性和人的资质，先于一切肯定的任命；并且，从不同人彼此之间的不同关系，必然产生某些人对待他人某些行为方式的适合或不适合：这正如从不同数学图形的本质流出的性质彼此之间有不同的适合或不适合；或者，在力学中，某些重量或力量有非常不同的力……。（Clarke 1706 [BM: 192–3]）[^clarke-1706]
-
-  - id: 61
+      > 某些情形对某些人有一种适合或适宜性，另一些情形则不适合；这植根于事物的本性与人的资质之中，先于一切实在的规约；而且，从不同的人彼此之间的种种关系，必然产生出某些人对待他人的某些行为方式之适合或不适合：这一点之显明，一如不同数学图形之本质所流出的性质彼此有着不同的适合或不适合，又如力学中某些重量或力量具有极不相同的力……。（Clarke 1706 [BM: 192–3]）[^clarke-1706]
+  - id: 66
+    kind: body
     source: |-
       One way in which this “fitness” seems to work, for Clarke, is that there is a “fitness” in humans worshiping God; there is a “fitness” in behaving benevolently toward others, and so forth. But these “fitnesses” are not known via, nor are they the product of, any moral *sense*—they are “eternal and immutable” and are discoverable by rational inquiry.
     step1: |-
       对克拉克而言，这种“适合”似乎起作用的一种方式是：人类敬拜上帝有一种“适合”；对他人行为仁慈有一种“适合”，依此类推。但这些“适合”不是通过任何道德*感官*认识的，也不是其产物——它们是“永恒而不变的”，可凭理性探究发现。
     step2: |-
-      对克拉克而言，这种“适合”似乎起作用的一种方式是：人类敬拜上帝有一种“适合”；对他人行为仁慈有一种“适合”，依此类推。但这些“适合”不是通过任何道德 **感官** 认识的，也不是其产物——它们是“永恒而不变的”，可凭理性探究发现。
-
-  - id: 62
+      对克拉克而言，这种“适合”似乎起作用的一种方式是：人类敬拜上帝有一种“适合”；对他人行为仁慈有一种“适合”，依此类推。但这些“适合”不是通过任何道德 *感官* 认识的，也不是其产物——它们是“永恒而不变的”，可凭理性探究发现。
+  - id: 67
+    kind: body
     source: |-
       Balguy, another rationalist, takes a somewhat different approach. According to Balguy,
     step1: |-
       巴尔格，另一位理性主义者，采取一种略为不同的进路。根据巴尔格，
     step2: |-
       巴尔格，另一位理性主义者，采取一种略为不同的进路。根据巴尔格，
-
-  - id: 63
+  - id: 68
+    kind: body
     source: |-
       > VIRTUE, or *moral goodness*, is the conformity of our moral actions to the reasons of things. VICE the contrary…The CONFORMITY of such actions to REASON, or the RECTITUDE of them, is their agreeableness to the nature and circumstances of the agents and their objects.—A *social* action is then *right*, when it is suitable to the nature and relations of the person concerned. Thus a person obliged acts *rightly* and *reasonably*, when his actions are answerable to the relation of gratitude between him and his benefactor. (Balguy 1728 [BM: 398])[^balguy-1728]
     step1: |-
       > 德性，或*道德善*，是我们的道德行动与事物的理由的符合。恶则相反……此类行动与理性的*符合*，或它们的*正直*，是它们对行动者及其对象的本性与处境的适合。——当一种*社会*行动适合所涉之人的本性与关系时，它就是*正当*的。因此，一位负有义务的人当他的行动与他和恩人之间的感恩关系相称时，就*正当地*、*合理地*行动。（Balguy 1728 [BM: 398]）[^balguy-1728]
     step2: |-
-      > 德性，或 **道德善**，是我们的道德行动与事物的理由的符合。恶则相反……此类行动与理性的符合，或它们的正直，是它们对行动者及其对象的本性与处境的适合。——当一种 **社会** 行动适合所涉之人的本性与关系时，它就是 **正当** 的。因此，一位负有义务的人当他的行动与他和恩人之间的感恩关系相称时，就 **正当地**、**合理地** 行动。（Balguy 1728 [BM: 398]）[^balguy-1728]
-
-  - id: 64
+      > 德性，或 *道德善*，是我们的道德行动与事物的理由的符合。恶则相反……此类行动与理性的符合，或它们的正直，是它们对行动者及其对象的本性与处境的适合。——当一种 *社会* 行动适合所涉之人的本性与关系时，它就是 *正当* 的。因此，一位负有义务的人当他的行动与他和恩人之间的感恩关系相称时，就 *正当地*、*合理地* 行动。（Balguy 1728 [BM: 398]）[^balguy-1728]
+  - id: 69
+    kind: body
     source: |-
       Finally, Wollaston suggests a different variety of rationalism, according to which the rightness and wrongness of action is determined by their interference or otherwise with “truth”. Wollaston writes:
     step1: |-
       最后，沃拉斯顿提出一种不同种类的理性主义，根据它，行动的正当与不正当由它们与“真理”的干涉或其他方式决定。沃拉斯顿写道：
     step2: |-
-      最后，沃拉斯顿提出一种不同种类的理性主义，根据它，行动的正当与不正当由它们与“真理”的干涉或其他方式决定。沃拉斯顿写道：
-
-  - id: 65
+      最后，沃拉斯顿提出了另一种理性主义：行动的正当与不正当，取决于行动是否干涉“真理”。沃拉斯顿写道：
+  - id: 70
+    kind: body
     source: |-
       > I lay this down then as as fundamental maxim, *that whoever acts as if things were so, or not so, doth by his acts declare, that they are so, or not so*; as plainly as he could by words, and with more reality…*No act* (whether word or deed) *of any being, to whom moral good and evil are imputable, that interferes with any true proposition, or denies any thing to be as it is, can be right*…*Every act* therefore *of such a being, as is before described, and all those omissions, which interfere with truth* (i.e., deny any proposition to be true, which is true; or suppose any thing not to be what it is, in any regard) are morally evil, in some degree or other: the forbearing such acts, and the acting in opposition to such omissions are morally good: and when any thing may be either done, or not done, equally without the violation of true, that thing is indifferent. (Wollaston 1724 [BM: 243, 250])[^wollaston-1724]
     step1: |-
       > 那么我把这一点定为基本准则：*凡行动者，其行为若表现得如同事物是如此或不是如此，就是通过其行为宣称它们如此或不是如此*；正如他通过言语所能清楚地宣称的那样，并且更为真实……*任何存在者的任何行动*（无论是言语还是行为），凡可归以道德善与恶者，若与任何真命题相干涉，或否认任何事物如同其所是，*都不可能是正当的*……因此，*如此所描述的存在者的每一行动*，以及*一切与真理相干涉的省略*（即否认任何命题为真（而它是真的）；或假定任何事物在任一层面不是它所是的那样），都在某种程度上是道德上恶的：而克制此类行动、并作反对此类省略的行动，则是道德上善的：而当任何事物可以同样地做或不做，而不违背真理时，那事物便是中性的。（Wollaston 1724 [BM: 243, 250]）[^wollaston-1724]
     step2: |-
-      > 那么我把这一点定为基本准则：**凡行动者，其行为若表现得如同事物是如此或不是如此，就是通过其行为宣称它们如此或不是如此**；正如他通过言语所能清楚地宣称的那样，并且更为真实……**任何存在者的任何行动**（无论是言语还是行为），凡可归以道德善与恶者，若与任何真命题相干涉，或否认任何事物如同其所是，**都不可能是正当的**……因此，**如此所描述的存在者的每一行动**，以及 **一切与真理相干涉的省略**（即否认任何命题为真（而它是真的）；或假定任何事物在任一层面不是它所是的那样），都在某种程度上是道德上恶的：而克制此类行动、并作反对此类省略的行动，则是道德上善的：而当任何事物可以同样地做或不做，而不违背真理时，那事物便是中性的。（Wollaston 1724 [BM: 243, 250]）[^wollaston-1724]
-
-  - id: 66
+      > 那么我把这一点定为基本准则：*凡行动者，其行为若表现得如同事物是如此或不是如此，就是通过其行为宣称它们如此或不是如此*；正如他通过言语所能清楚地宣称的那样，并且更为真实……*任何存在者的任何行动*（无论是言语还是行为），凡可归以道德善与恶者，若与任何真命题相干涉，或否认任何事物如同其所是，*都不可能是正当的*……因此，*如此所描述的存在者的每一行动*，以及 *一切与真理相干涉的省略*（即否认任何命题为真（而它是真的）；或假定任何事物在任一层面不是它所是的那样），都在某种程度上是道德上恶的：而克制此类行动、并作反对此类省略的行动，则是道德上善的：而当任何事物可以同样地做或不做，而不违背真理时，那事物便是中性的。（Wollaston 1724 [BM: 243, 250]）[^wollaston-1724]
+  - id: 71
+    kind: body
     source: |-
       In each case, the rationalist seems to suggest that there are certain actions that, *antecedent* to our approval of them, or sentiments toward them, have certain qualities, i.e., they are reasonable, fit, true, and so forth. However, Hutcheson believes that all such positions are fundamentally confused. His general line of attack on rationalism is to disambiguate a number of potential readings of rationalism, showing that each is either absurd on its face, or else surreptitiously relies on the existence of a moral sense or sentiment. “But what”, asks Hutcheson, “is this *Conformity of Actions to Reason*?” (Here he clearly has in mind the view championed by Balguy.) And here he provides two possible answers.
     step1: |-
       在每种情况中，理性主义者似乎都暗示：某些行动，*先于*我们对它们的认可，或对它们的情感，具有某些性质，即它们是合理的、适合的、真的，等等。然而，哈奇森相信所有这些立场都从根本上被混淆了。他对理性主义的一般攻击路线是消解理性主义的若干可能解读，表明每种解读要么表面荒谬，要么暗中依赖道德感官或情感的存在。“但是什么是”，哈奇森问道，“这种*行动与理性的符合*？”（这里他显然想到的是巴尔格所拥护的观点。）在这里他提供了两个可能的回答。
     step2: |-
-      在每种情况中，理性主义者似乎都暗示：某些行动，**先于** 我们对它们的认可，或对它们的情感，具有某些性质，即它们是合理的、适合的、真的，等等。然而，哈奇森相信所有这些立场都从根本上被混淆了。他对理性主义的一般攻击路线是消解理性主义的若干可能解读，表明每种解读要么表面荒谬，要么暗中依赖道德感官或情感的存在。“但是什么是”，哈奇森问道，“这种 **行动与理性的符合**？”（这里他显然想到的是巴尔格所拥护的观点。）在这里他提供了两个可能的回答。
-
-  - id: 67
+      在每种情况中，理性主义者似乎都暗示：某些行动，*先于* 我们对它们的认可，或对它们的情感，具有某些性质，即它们是合理的、适合的、真的，等等。然而，哈奇森相信所有这些立场都从根本上被混淆了。他对理性主义的一般攻击路线是消解理性主义的若干可能解读，表明每种解读要么表面荒谬，要么暗中依赖道德感官或情感的存在。“但是什么是”，哈奇森问道，“这种 *行动与理性的符合*？”（这里他显然想到的是巴尔格所拥护的观点。）在这里他提供了两个可能的回答。
+  - id: 72
+    kind: body
     source: |-
-      > When we ask the Reason of an Action we sometimes mean, “*What truth shews a Quality in the Action, exciting the Agent to do it?*” Thus, why does a *Luxurious* Man pursue *Wealth*? The Reason is given by this Truth, “Wealth is useful to purchase Pleasures”. (*Essay*, 138)
+      > When we ask the Reason of an Action we sometimes mean, “*What truth shews a Quality in the Action, exciting the Agent to do it*?” Thus, why does a *Luxurious* Man pursue *Wealth*? The Reason is given by this Truth, “Wealth is useful to purchase Pleasures”. (*Essay*, 138)
     step1: |-
       > 当我们问一个行动的理由时，我们有时意指“*什么真理显示行动中的一种性质，激发行动者去做它？*”因此，为什么一位*奢侈的*人追求*财富*？理由是由这一真理给出的：“财富可用于购买快乐”。（*Essay*，138）
     step2: |-
-      > 当我们问一个行动的理由时，我们有时意指“**什么真理显示行动中的一种性质，激发行动者去做它？**”因此，为什么一位 **奢侈的** 人追求 **财富**？理由是由这一真理给出的：“财富可用于购买快乐”。（*Essay*，138）
-
-  - id: 68
+      > 当我们问一个行动的理由时，我们有时意指“*什么真理显示行动中的一种性质，激发行动者去做它？*”因此，为什么一位 *奢侈的* 人追求 *财富*？理由是由这一真理给出的：“财富可用于购买快乐”。（*Essay*，138）
+  - id: 73
+    kind: body
     source: |-
       Alternatively, Hutcheson distinguishes another way an action might be conformable to reason:
     step1: |-
       或者，哈奇森区分了行动可能符合理性的另一种方式：
     step2: |-
       或者，哈奇森区分了行动可能符合理性的另一种方式：
-
-  - id: 69
+  - id: 74
+    kind: body
     source: |-
       > Sometimes for a Reason of Actions we shew the *truth expressing a Quality, engaging our Approbation*. Thus the *Reason* of hazarding Life in just War, is, that ‘it tends to preserve our honest Countrymen, or evidences publick Spirit…The former sort of Reasons we will call *exciting*, and the latter *justifying*. (*Essay*, 138)
     step1: |-
       > 有时，为了行动的理由，我们显示*显示一种性质、赢得我们赞许的真理*。因此，在正义战争中冒生命危险的*理由*是：‘它倾向于保护我们诚实的同胞，或表明公共精神……’前一种理由我们将称为*激发性*，后一种*证成性*。（*Essay*，138）
     step2: |-
-      > 有时，为了行动的理由，我们显示 **显示一种性质、赢得我们赞许的真理**。因此，在正义战争中冒生命危险的 **理由** 是：‘它倾向于保护我们诚实的同胞，或表明公共精神……’前一种理由我们将称为 **激发性**，后一种 **证成性**。（*Essay*，138）
-
-  - id: 70
+      > 有时，为了行动的理由，我们显示 *显示一种性质、赢得我们赞许的真理*。因此，在正义战争中冒生命危险的 *理由* 是：‘它倾向于保护我们诚实的同胞，或表明公共精神……’前一种理由我们将称为 *激发性*，后一种 *证成性*。（*Essay*，138）
+  - id: 75
+    kind: body
     source: |-
       Here Hutcheson is making reference to the, now commonplace, distinction between explanatory reasons (i.e., why did a person do such a thing? what was her motivation?) and normative reasons (i.e., why should this person have done that thing? what does this thing have to say for itself?, and so on).
     step1: |-
       这里哈奇森指的是如今已很常见的、解释性理由（即：一个人为什么做这样的事？她的动机是什么？）与规范性理由（即：这个人为什么应该做那件事？这件事本身有何可说？等等）之间的区分。
     step2: |-
-      这里哈奇森指的是如今已很常见的、解释性理由（即：一个人为什么做这样的事？她的动机是什么？）与规范性理由（即：这个人为什么应该做那件事？这件事本身有何可说？等等）之间的区分。
-
-  - id: 71
+      这里，哈奇森援引了如今已成常识的一个区分：解释性理由（为什么一个人做了这件事？其动机何在？）与规范性理由（这个人为什么应当做那件事？那件事自身有什么可说？等等）。
+  - id: 76
+    kind: body
     source: |-
       In examining the nature of exciting reasons, Hutcheson rejects the claim that such reasons could be antecedent to our sentiments or affections. For Hutcheson, our motivations must be a result of our affections, and cannot arise without them.
     step1: |-
       在考察激发性理由的本性时，哈奇森拒绝这样的主张：此类理由可以先于我们的情感或爱好。对哈奇森而言，我们的动机必须是我们的情感的结果，没有它们就不能产生。
     step2: |-
-      在考察激发性理由的本性时，哈奇森拒绝这样的主张：此类理由可以先于我们的情感或爱好。对哈奇森而言，我们的动机必须是我们的情感的结果，没有它们就不能产生。
-
-  - id: 72
+      在考察激发性理由（exciting reasons）的本性时，哈奇森拒绝这样一种主张：此类理由可以先于我们的情感或感情。对哈奇森而言，我们的动机必定是我们的感情的结果，离开感情便无从产生。
+  - id: 77
+    kind: body
     source: |-
       When it comes to justifying reasons, Hutcheson believes that one cannot genuinely justify an action without reference to a moral sense. As Hutcheson notes, one cannot justify an action simply by noting that it conforms to a true proposition, as this would justify every possible action (*Essay*, 144). Furthermore, even if we focus on particular *truths* that may be said about particular actions (such as, e.g., “a Truth shewing an Action to be fit to attain an End”), these truths do not genuinely justify *without* some reference to the moral quality of the end itself. But for this we must advert to a moral sense. Simply discerning truths about particular ends will not tell us whether those ends are morally justified:
     step1: |-
       谈到证成性理由，哈奇森相信，不诉诸道德感官，一个人无法真正证成一个行动。正如哈奇森所指出，一个人不能简单地通过指出某行动符合一个真命题来证成它，因为这将证成每一个可能的行动（*Essay*，144）。此外，即使我们专注于关于特定行动可以说的特定*真理*（例如“一个显示行动适合达成目的的真命题”），这些真理*不*真正证成，除非某种诉诸于目的本身的道德性质。但为此我们必须求助于道德感官。仅仅辨别关于特定目的的真理，不会告诉我们那些目的是否在道德上被证成：
     step2: |-
-      谈到证成性理由，哈奇森相信，不诉诸道德感官，一个人无法真正证成一个行动。正如哈奇森所指出，一个人不能简单地通过指出某行动符合一个真命题来证成它，因为这将证成每一个可能的行动（*Essay*，144）。此外，即使我们专注于关于特定行动可以说的特定 **真理**（例如“一个显示行动适合达成目的的真命题”），这些真理也 **不** 真正证成，除非某种诉诸于目的本身的道德性质。但为此我们必须求助于道德感官。仅仅辨别关于特定目的的真理，不会告诉我们那些目的是否在道德上被证成：
-
-  - id: 73
+      谈到证成性理由，哈奇森相信，不诉诸道德感官，一个人无法真正证成一个行动。正如哈奇森所指出，一个人不能简单地通过指出某行动符合一个真命题来证成它，因为这将证成每一个可能的行动（*Essay*，144）。此外，即使我们专注于关于特定行动可以说的特定 *真理*（例如“一个显示行动适合达成目的的真命题”），这些真理也 *不* 真正证成，除非某种诉诸于目的本身的道德性质。但为此我们必须求助于道德感官。仅仅辨别关于特定目的的真理，不会告诉我们那些目的是否在道德上被证成：
+  - id: 78
+    kind: body
     source: |-
       > We have got some strange Phrases, “*that some things are antecedently reasonable in the Nature of the thing*”, which some insist upon: “That otherwise, they say, if before Man was created, any Nature *without a moral Sense* had existed, this Nature would not have approved as morally good in the Deity, his constituting our Sense as it is as present”. Very true; and what next? If there had been no *moral Sense* in that Nature, there would have been no *Perception of Morality*. But “could not such Natures have seen something *reasonable* in one Constitution more than in another?”…They would have *reasoned* about *both*, and found out *Truths*: are both Constitutions alike *reasonable* to these Observers? No, they say, “the *benevolent* one is *reasonable*, and the *malicious unreasonable*:” And yet these Observers *reasoned* and *discovered Truths* about both: An Action then is called by us *reasonable* when ’tis *benevolent*, and *unreasonable* when *malicious*. This is plainly making the Word *reasonable* denote whatever is *approved* by our moral Sense, without Relation to *true Propositions*. (*Essay*, 153–4)
     step1: |-
       > 我们有些奇怪的短语，“*某些事物在本性上先在地是合理的*”，有些人坚持：“他们说，否则，如果在人受造之前，任何*没有道德感官*的本性存在过，那么这一本性就不会把神构成我们当下的感官视为道德上善的。”非常正确；然后呢？如果那本性中没有*道德感官*，就不会有*对道德的感知*。但是“这样的本性难道不能在一种构造中比在另一种构造中看到某种*合理*的东西吗？”……它们会*推理*关于*两者*，并发现*真理*：这两种构造对这些观察者而言都一样*合理*吗？不，他们说，“*慈善的*是*合理的*，而*恶意的*是不合理的：”然而这些观察者*推理*并*发现关于两者的真理*：那么，当一个行动是*慈善的*时，我们称之为*合理*，而*恶意的*则*不合理*。这显然是在使“*合理*”一词指称我们道德感官所*认可*的任何东西，而与*真命题*无关。（*Essay*，153–4）
     step2: |-
-      > 我们有些奇怪的短语，“**某些事物在本性上先在地是合理的**”，有些人坚持：“他们说，否则，如果在人受造之前，任何 **没有道德感官** 的本性存在过，那么这一本性就不会把神构成我们当下的感官视为道德上善的。”非常正确；然后呢？如果那本性中没有 **道德感官**，就不会有 **对道德的感知**。但是“这样的本性难道不能在一种构造中比在另一种构造中看到某种 **合理** 的东西吗？”……它们会 **推理** 关于 **两者**，并发现 **真理**：这两种构造对这些观察者而言都一样 **合理** 吗？不，他们说，“**慈善的** 是 **合理的**，而 **恶意的** 是不合理的：”然而这些观察者 **推理** 并 **发现关于两者的真理**：那么，当一个行动是 **慈善的** 时，我们称之为 **合理**，而 **恶意的** 则 **不合理**。这显然是在使“**合理**”一词指称我们道德感官所 **认可** 的任何东西，而与 **真命题** 无关。（*Essay*，153–4）
-
-  - id: 74
+      > 我们有些奇怪的短语，“*某些事物在本性上先在地是合理的*”，有些人坚持：“他们说，否则，如果在人受造之前，任何 *没有道德感官* 的本性存在过，那么这一本性就不会把神构成我们当下的感官视为道德上善的。”非常正确；然后呢？如果那本性中没有 *道德感官*，就不会有 *对道德的感知*。但是“这样的本性难道不能在一种构造中比在另一种构造中看到某种 *合理* 的东西吗？”……它们会 *推理* 关于 *两者*，并发现 *真理*：这两种构造对这些观察者而言都一样 *合理* 吗？不，他们说，“*慈善的* 是 *合理的*，而 *恶意的* 是不合理的：”然而这些观察者 *推理* 并 *发现关于两者的真理*：那么，当一个行动是 *慈善的* 时，我们称之为 *合理*，而 *恶意的* 则 *不合理*。这显然是在使“*合理*”一词指称我们道德感官所 *认可* 的任何东西，而与 *真命题* 无关。（*Essay*，153–4）
+  - id: 79
+    kind: body
     source: |-
       Hutcheson also spends considerable time examining the positions of Clarke and Wollaston in detail. For Clarke, moral distinctions derive from the relations of fitness and unfitness, which are themselves eternal. For Hutcheson, any construal of such relations as morally significant must presuppose a moral sense. As Hutcheson notes, we do not morally praise the relations between, e.g., the natural numbers as in mathematics, or the fitness of certain chemical compositions. The fitness of a sword to end someone’s life is in and of itself morally neutral. And the fitness of an action to its end is also morally neutral—some actions are just as fit to human misery as other actions are fit to human happiness. Of course, one might hold that the fitness relation is simply to be applied (in a morally interesting sense) to the ultimate end of action. Happiness, in other words, is “fit”; misery “unfit”. But, according to Hutcheson, what does this mean? It cannot be “fit” to, say, give rise to some other thing—that’s what makes it an *ultimate* end. But any explication that would render some particular end as “fit” seems, according to Hutcheson to presuppose an *independent* evaluation beyond its “fitness”. (Though for a reading of Hutcheson that suggests significant continuity between Hutcheson and Clarke, see Sheridan 2007.)[^sheridan-2007]
     step1: |-
       哈奇森也花了大量时间详细考察克拉克和沃拉斯顿的立场。对克拉克而言，道德区分源于适合与不适合的关系，而这些关系本身是永恒的。对哈奇森而言，任何把此类关系视为道德上重要的解释都必须预设一种道德感官。正如哈奇森所指出，我们并不道德地赞扬例如数学中自然数之间的关系，或某些化学成分的适合性。一把剑终结某人生命的适合性本身在道德上是中性的。而一个行动对其目的的适合性在道德上也是中性的——有些行动对人类的苦难正如其他行动对人类的幸福一样适合。当然，人们可以主张，适合关系（在道德上有意义的意义上）只是应用于行动的终极目的。换言之，幸福是“适合的”；苦难是“不适合的”。但根据哈奇森，这意味着什么？它不可能“适合”于，比如说，产生某种其他东西——那正是使它成为*终极*目的的东西。但根据哈奇森，任何会把某个特定目的呈现为“适合”的阐释，似乎都预设了超出其“适合性”的*独立*评价。（虽然关于哈奇森的一种解读认为哈奇森与克拉克之间有着显著的连续性，见 Sheridan 2007。）[^sheridan-2007]
     step2: |-
-      哈奇森也花了大量时间详细考察克拉克和沃拉斯顿的立场。对克拉克而言，道德区分源于适合与不适合的关系，而这些关系本身是永恒的。对哈奇森而言，任何把此类关系视为道德上重要的解释都必须预设一种道德感官。正如哈奇森所指出，我们并不道德地赞扬例如数学中自然数之间的关系，或某些化学成分的适合性。一把剑终结某人生命的适合性本身在道德上是中性的。而一个行动对其目的的适合性在道德上也是中性的——有些行动对人类的苦难正如其他行动对人类的幸福一样适合。当然，人们可以主张，适合关系（在道德上有意义的意义上）只是应用于行动的终极目的。换言之，幸福是“适合的”；苦难是“不适合的”。但根据哈奇森，这意味着什么？它不可能“适合”于，比如说，产生某种其他东西——那正是使它成为 **终极** 目的的东西。但根据哈奇森，任何会把某个特定目的呈现为“适合”的阐释，似乎都预设了超出其“适合性”的 **独立** 评价。（虽然关于哈奇森的一种解读认为哈奇森与克拉克之间有着显著的连续性，见 Sheridan 2007。）[^sheridan-2007]
-
-  - id: 75
+      哈奇森也花了大量时间详细考察克拉克和沃拉斯顿的立场。对克拉克而言，道德区分源于适合与不适合的关系，而这些关系本身是永恒的。对哈奇森而言，任何把此类关系视为道德上重要的解释都必须预设一种道德感官。正如哈奇森所指出，我们并不道德地赞扬例如数学中自然数之间的关系，或某些化学成分的适合性。一把剑终结某人生命的适合性本身在道德上是中性的。而一个行动对其目的的适合性在道德上也是中性的——有些行动对人类的苦难正如其他行动对人类的幸福一样适合。当然，人们可以主张，适合关系（在道德上有意义的意义上）只是应用于行动的终极目的。换言之，幸福是“适合的”；苦难是“不适合的”。但根据哈奇森，这意味着什么？它不可能“适合”于，比如说，产生某种其他东西——那正是使它成为 *终极* 目的的东西。但根据哈奇森，任何会把某个特定目的呈现为“适合”的阐释，似乎都预设了超出其“适合性”的 *独立* 评价。（虽然关于哈奇森的一种解读认为哈奇森与克拉克之间有着显著的连续性，见 Sheridan 2007。）[^sheridan-2007]
+  - id: 80
+    kind: body
     source: |-
       Hutcheson saves his most biting criticism for Wollaston’s view, however. According to Hutcheson, there is no plausibility to be had that moral distinctions can be derived by the tendencies of our actions to signify truth or falsity. Depending upon what one understands to be “significance”, or how one understands Wollaston’s “[acting] as if things were so, or not so”, we would declare as immoral such benign acts as leaving one’s lights on at night, or traveling, as a noble, “without Coronets”, or walking in plainclothes despite being clergy, or writing plays or “*Epicks*” (*Essay*, 164–66). In addition, according to Hutcheson, Wollaston’s system cannot distinguish between degrees of virtue or vice. Assuming it makes some sense to say that particular actions signify truth or falsehood, this appears to be a binary property—it either does or does not. But virtue is scalar: some actions are horribly vicious, others are heroic, others are relatively morally insignificant (*Essay*, 170; see also §2.2). Ultimately, then, Hutcheson concludes that Wollaston (and every other rationalist he considers) is really smuggling in some sort of moral sense in disguise, whether this is by means of a reference to the “reasonableness” of particular actions, a reference to their “fitness” or reference to their “significance of truth or falsity”.
     step1: |-
       然而，哈奇森把他最尖锐的批评留给了沃拉斯顿的观点。根据哈奇森，道德区分不能由我们的行动标示真理或虚假的倾向来推导，这没有任何可信度。取决于人们理解“标示”是什么，或人们如何理解沃拉斯顿的“[行动]如同事物是如此或不是如此”，我们会把诸如夜晚不关灯、或作为贵族“不带冠冕”旅行、或身为神职人员却穿着便服、或写戏剧或“*史诗*”（*Essay*，164–66）等无害行为宣布为不道德。此外，根据哈奇森，沃拉斯顿的体系无法区分德性或恶的程度。假设说特定行动标示真理或虚假有一定道理，这似乎是一种二元属性——它要么标示、要么不标示。但德性是标度的：有些行动极为邪恶，有些是英勇的，其他则相对在道德上无关紧要（*Essay*，170；另见 §2.2）。最终，哈奇森得出结论：沃拉斯顿（以及他所考察的每一位其他理性主义者）实际上是在暗中引入某种伪装的道德感官，无论这是通过诉诸特定行动的“合理性”、诉诸它们的“适合性”，还是诉诸它们的“真理或虚假的标示性”。
     step2: |-
-      然而，哈奇森把他最尖锐的批评留给了沃拉斯顿的观点。根据哈奇森，道德区分不能由我们的行动标示真理或虚假的倾向来推导，这没有任何可信度。取决于人们理解“标示”是什么，或人们如何理解沃拉斯顿的“[行动]如同事物是如此或不是如此”，我们会把诸如夜晚不关灯、或作为贵族“不带冠冕”旅行、或身为神职人员却穿着便服、或写戏剧或“**史诗**”（*Essay*，164–66）等无害行为宣布为不道德。此外，根据哈奇森，沃拉斯顿的体系无法区分德性或恶的程度。假设说特定行动标示真理或虚假有一定道理，这似乎是一种二元属性——它要么标示、要么不标示。但德性是标度的：有些行动极为邪恶，有些是英勇的，其他则相对在道德上无关紧要（*Essay*，170；另见 §2.2）。最终，哈奇森得出结论：沃拉斯顿（以及他所考察的每一位其他理性主义者）实际上是在暗中引入某种伪装的道德感官，无论这是通过诉诸特定行动的“合理性”、诉诸它们的“适合性”，还是诉诸它们的“真理或虚假的标示性”。
-
-  - id: 76
+      不过，哈奇森把他最尖锐的批评留给了沃拉斯顿的观点。依照哈奇森的看法，试图由行动标示真理或虚假的倾向导出道德区分，毫无可信度可言。视乎人们把“标示性”理解为何物，或如何理解沃拉斯顿的“[行动]如同事物是如此，或不是如此”，我们就会把诸如此类无害行为宣布为不道德：夜里开着灯不关；身为贵族却“不带冠冕”（without Coronets）出行；身为神职人员却便服步行；写戏剧或“*Epicks*”（史诗）（*Essay*，164–66）。此外，哈奇森指出，沃拉斯顿的体系无法分辨德性或恶的程度。即便假定特定行动标示真理或虚假这一说法讲得通，这似乎也是一种二元属性——要么标示，要么不标示。但德性是有程度之分的：有些行动极其邪恶，有些堪称英勇，还有些在道德上相对无关紧要（*Essay*，170；另见 §2.2）。归根结底，哈奇森断言：沃拉斯顿（以及他所考察的每一位理性主义者）实际上都在暗中夹带某种改头换面的道德感官——或诉诸特定行动的“合理性”（reasonableness），或诉诸其“适合性”（fitness），或诉诸其“真理或虚假的标示性”（significance of truth or falsity）。
+  - id: 81
+    kind: body
+    source: |-
+      ## 2. Hutcheson’s Normative Ethics
+    step1: |-
+      ## 2. 哈奇森的规范伦理学
+    step2: |-
+      ## 2. 哈奇森的规范伦理学
+  - id: 82
+    kind: body
     source: |-
       Most of the scholarly attention paid to Hutcheson concerns his metaethics—the nature of his moral psychology, his understanding of the ontological status of moral facts, his critique of rationalism, and so forth. But equally interesting is his normative ethics, which features a striking critique of “self-interest” theories, a unification of virtue and happiness, and a view that clearly anticipates later British utilitarianism.
     step1: |-
       学界对哈奇森的大部分关注都集中于他的元伦理学——其道德心理学的性质、他对道德事实本体论地位的理解、他对理性主义的批判，等等。但同样有趣的是他的规范伦理学，它以对“自利”理论的尖锐批判、德性与幸福的统一，以及一种明显预示后来英国功利主义的观点为特征。
     step2: |-
-      学界对哈奇森的大部分关注都集中于他的元伦理学——其道德心理学的性质、他对道德事实本体论地位的理解、他对理性主义的批判，等等。但同样有趣的是他的规范伦理学，它以对“自利”理论的尖锐批判、德性与幸福的统一，以及一种明显预示后来英国功利主义的观点为特征。
-
-  - id: 77
+      学界对哈奇森的研究大多集中于其元伦理学：他的道德心理学的性质、他对道德事实之本体论地位的理解、他对理性主义的批判等等。但同样有趣的，是他的规范伦理学——其中有对“自利”理论的有力批判，有德性与幸福的统一，还有一种明显预示后来英国功利主义的观点。
+  - id: 83
+    kind: body
+    source: |-
+      ### 2.1 Self-Interest and Benevolence
+    step1: |-
+      ### 2.1 自利与仁爱
+    step2: |-
+      ### 2.1 自利与仁爱
+  - id: 84
+    kind: body
     source: |-
       To begin, Hutcheson believed that the most important contribution of the *Inquiry* was a rejection of the “self-interest” theories of Hobbes and Mandeville (see Gill 2006: ch. 11)[^gill-2006]. Famously, Hobbes and Mandeville placed the foundation of morality on the individual self-interest of every moral agent. Now, Hutcheson thinks that a crass reduction of morality to self-interest is thoroughly untenable—else we would assign moral properties to “a fruitful Field, or commodious Habitation” (*Inquiry*, 89).
     step1: |-
       首先，哈奇森相信《探究》最重要的贡献是拒斥霍布斯和曼德维尔的“自利”理论（见 Gill 2006: 第 11 章）[^gill-2006]。众所周知，霍布斯和曼德维尔把道德的基础置于每一个道德行动者的个人自利之上。现在，哈奇森认为，把道德粗俗地还原为自利是完全站不住脚的——否则我们就会把道德属性归于“一片肥沃的田野，或一个宽敞的居所”（*Inquiry*，89）。
     step2: |-
       首先，哈奇森相信《探究》（*Inquiry*）最重要的贡献是拒斥霍布斯和曼德维尔的“自利”理论（见 Gill 2006: 第 11 章）[^gill-2006]。众所周知，霍布斯和曼德维尔把道德的基础置于每一个道德行动者的个人自利之上。现在，哈奇森认为，把道德粗俗地还原为自利是完全站不住脚的——否则我们就会把道德属性归于“一片肥沃的田野，或一个宽敞的居所”（*Inquiry*，89）。
-
-  - id: 78
+  - id: 85
+    kind: body
     source: |-
       However—as Hutcheson clearly understands—the reduction morality to self-interest proposed by the self-interest theorists is clearly more sophisticated than this. To see this, consider the argument connecting morality and self-interest from Hobbes. Hobbes begins with a psychological claim. According to Hobbes, humans are motivated by their own good. (Note that this is something of an oversimplification. Hobbes believes that individuals are motivated by whatever they in fact desire—but that their desires *constitute* the nature of their good; *Leviathan*, VI, IX.) This leads them into conflict, as each person desires greater power to satisfy their desires, which inevitably interferes with the desires of others. The result is violence, and “the life of man, solitary, poor, nasty, brutish, and short” (*Leviathan*, XIII). Notice, however, that Hobbes thinks that these tendencies in people—their tendencies toward self-interest and self-preservation, resulting in violence—are not themselves morally problematic. He writes:
     step1: |-
       然而——正如哈奇森清楚地理解的——自利理论家提出的把道德还原为自利显然比这更为复杂。要看到这一点，考虑霍布斯把道德与自利联系起来的论证。霍布斯从一个心理学主张开始。根据霍布斯，人类受自己的善所驱动。（注意这有点过于简化。霍布斯相信个体受他们事实上所欲望的东西驱动——但他们的欲望*构成*了他们善的本性；*Leviathan*，VI，IX。）这使他们陷入冲突，因为每个人都欲求更大的力量来满足其欲望，这不可避免地干涉他人的欲望。结果是暴力，以及“孤独、贫穷、肮脏、残忍而短暂的人的生活”（*Leviathan*，XIII）。然而注意，霍布斯认为人们身上的这些倾向——他们走向自利与自我保存、导致暴力的倾向——本身并非道德上成问题的。他写道：
     step2: |-
-      然而——正如哈奇森清楚地理解的——自利理论家提出的把道德还原为自利显然比这更为复杂。要看到这一点，考虑霍布斯把道德与自利联系起来的论证。霍布斯从一个心理学主张开始。根据霍布斯，人类受自己的善所驱动。（注意这有点过于简化。霍布斯相信个体受他们事实上所欲望的东西驱动——但他们的欲望 **构成** 了他们善的本性；*Leviathan*，VI，IX。）这使他们陷入冲突，因为每个人都欲求更大的力量来满足其欲望，这不可避免地干涉他人的欲望。结果是暴力，以及“孤独、贫穷、肮脏、残忍而短暂的人的生活”（*Leviathan*，XIII）。然而注意，霍布斯认为人们身上的这些倾向——他们走向自利与自我保存、导致暴力的倾向——本身并非道德上成问题的。他写道：
-
-  - id: 79
+      然而——正如哈奇森清楚地理解的——自利理论家提出的把道德还原为自利显然比这更为复杂。要看到这一点，考虑霍布斯把道德与自利联系起来的论证。霍布斯从一个心理学主张开始。根据霍布斯，人类受自己的善所驱动。（注意这有点过于简化。霍布斯相信个体受他们事实上所欲望的东西驱动——但他们的欲望 *构成* 了他们善的本性；*Leviathan*，VI，IX。）这使他们陷入冲突，因为每个人都欲求更大的力量来满足其欲望，这不可避免地干涉他人的欲望。结果是暴力，以及“孤独、贫穷、肮脏、残忍而短暂的人的生活”（*Leviathan*，XIII）。然而注意，霍布斯认为人们身上的这些倾向——他们走向自利与自我保存、导致暴力的倾向——本身并非道德上成问题的。他写道：
+  - id: 86
+    kind: body
     source: |-
       > The desires, and other passions of man, are in themselves no sin. No more are the actions, that proceed from those passions, till they know a law that forbids them: which till laws be made they cannot know: nor any law be made, till they have agreed upon the person that shall make it. (*Leviathan*, XIII)
     step1: |-
       > 人的欲望和其他激情，本身并非罪。从这些激情产生的行动亦然，直到他们知道禁止它们的法律：而在法律制定之前他们不可能知道：也不会有任何法律制定，直到他们就制定它的人达成一致。（*Leviathan*，XIII）
     step2: |-
-      > 人的欲望和其他激情，本身并非罪。从这些激情产生的行动亦然，直到他们知道禁止它们的法律：而在法律制定之前他们不可能知道：也不会有任何法律制定，直到他们就制定它的人达成一致。（*Leviathan*，XIII）
-
-  - id: 80
+      > 人的欲望和其他激情，其本身并非罪。出自这些激情的行动亦然，直到他们知晓一条禁止它们的法律为止：而在法律制定出来之前，他们不可能知晓；法律要制定出来，又必须先就由何人制定达成一致。（*Leviathan*，XIII）
+  - id: 87
+    kind: body
     source: |-
       Hobbes thus seems to think that moral normativity has an essential connection to the motivations of agents. But because the motivations of agents are fundamentally self-directed, moral normativity cannot extend beyond what is in the fundamental interest of agents.
     step1: |-
       因此，霍布斯似乎认为道德规范性本质上与行动者的动机相联系。但由于行动者的动机从根本上说是指向自身的，道德规范性不能超出行动者根本利益所及的范围。
     step2: |-
-      因此，霍布斯似乎认为道德规范性本质上与行动者的动机相联系。但由于行动者的动机从根本上说是指向自身的，道德规范性不能超出行动者根本利益所及的范围。
-
-  - id: 81
+      由此可见，霍布斯似乎认为，道德规范性与行动者的动机有本质联系。但由于行动者的动机从根本上是指向自身的，道德规范性便无法超出行动者根本利益的范围。
+  - id: 88
+    kind: body
     source: |-
       Hobbes, then, develops his self-interest theory by means of two premises. The first, *psychological*, premise is that human motivation is essentially self-directed. The second, *normative*, premise is that moral obligation is determined simply given what agents will be motivated to do.
     step1: |-
       那么，霍布斯通过两个前提发展其自利理论。第一个*心理学*前提是：人类动机本质上是指向自身的。第二个*规范性*前提是：道德义务仅仅由行动者将被驱动去做的事情决定。
     step2: |-
-      那么，霍布斯通过两个前提发展其自利理论。第一个 **心理学** 前提是：人类动机本质上是指向自身的。第二个 **规范性** 前提是：道德义务仅仅由行动者将被驱动去做的事情决定。
-
-  - id: 82
+      那么，霍布斯通过两个前提发展其自利理论。第一个 *心理学* 前提是：人类动机本质上是指向自身的。第二个 *规范性* 前提是：道德义务仅仅由行动者将被驱动去做的事情决定。
+  - id: 89
+    kind: body
     source: |-
       Hutcheson concentrates his attack on the first premise of this argument (see Bishop 1996)[^bishop-1996]. According to Hutcheson, we are not simply guided by our self-interest, but possess a form of “disinterested benevolence” toward others. His most striking example of this comes from the following thought experiment:
     step1: |-
       哈奇森把攻击集中于这一论证的第一个前提（见 Bishop 1996）[^bishop-1996]。根据哈奇森，我们并非简单地受自利引导，而是对他人拥有一种“无私的仁慈”形式。他对此最引人注目的例子来自以下思想实验：
     step2: |-
-      哈奇森把攻击集中于这一论证的第一个前提（见 Bishop 1996）[^bishop-1996]。根据哈奇森，我们并非简单地受自利引导，而是对他人拥有一种“无私的仁慈”形式。他对此最引人注目的例子来自以下思想实验：
-
-  - id: 83
+      哈奇森把火力集中于这一论证的第一个前提（见 Bishop 1996）[^bishop-1996]。按照哈奇森的看法，我们并非仅受自利引导，而是对他人怀有一种“无私的仁爱”（disinterested benevolence）。他关于这一点最引人注目的例子，来自下面这个思想实验：
+  - id: 90
+    kind: body
     source: |-
       > To make this yet clearer, suppose that the Deity should declare to a good Man that he should be suddenly annihilated, but at the Instant of his Exit it should be left to his Choice whether his Friend, his Children, or his Country should be made happy or miserable for the Future, when he himself could have no Sense of either Pleasure or Pain from their State. Pray would he be any more indifferent about their State now, that he neither hoped or feared any thing to himself from it, than he was in any prior Period of his Life? Nay, is it not a pretty common Opinion among us, that after our Decease we know nothing of what befalls those who survive us? How comes it then that we do not lose, at the Approach of Death, all Concern for our Families, Friends, or Country? Can there be any Instance given of our desiring any Thing only as the Means of private Good, as violently when we know that we shall not enjoy this Good many Minutes, as if we expected the Possession of this good for many Years? (*Inquiry*, 228n33)
     step1: |-
       > 为使其更清楚，假设神向一位善人宣布他应突然被消灭，但在其离世瞬间，留给他选择：他的朋友、他的孩子或他的国家未来是幸福还是悲惨，而他本人对他们的状态无法感到任何快乐或痛苦。请问，他现在对他们的状态会比我生命任何先前时期更无动于衷吗——既然他不指望或惧怕由此而来的任何事？不，难道这不是我们当中相当普遍的看法：我们死后对幸存我们者所遭遇的事一无所知？那么，为什么我们临死时不会失去对家庭、朋友或国家的所有关心？能否举出任何例子，说明我们欲求某事仅作为私善的手段，其强烈程度与我们知道自己几分钟后不会享有这善时，与期望多年后拥有这善时一样？（*Inquiry*，228n33）
     step2: |-
-      > 为使其更清楚，假设神向一位善人宣布他应突然被消灭，但在其离世瞬间，留给他选择：他的朋友、他的孩子或他的国家未来是幸福还是悲惨，而他本人对他们的状态无法感到任何快乐或痛苦。请问，他现在对他们的状态会比我生命任何先前时期更无动于衷吗——既然他不指望或惧怕由此而来的任何事？不，难道这不是我们当中相当普遍的看法：我们死后对幸存我们者所遭遇的事一无所知？那么，为什么我们临死时不会失去对家庭、朋友或国家的所有关心？能否举出任何例子，说明我们欲求某事仅作为私善的手段，其强烈程度与我们知道自己几分钟后不会享有这善时，与期望多年后拥有这善时一样？（*Inquiry*，228n33）
-
-  - id: 84
+      > 为使这一点更加清楚，设想神向一位善人宣告：他将突然被消灭；但在他离世的瞬间，将留给他一个选择——他的朋友、他的孩子或他的国家，未来是幸福还是悲惨——而此时他本人对他们的状态已感觉不到任何快乐或痛苦。请问，既然他不能再从中指望或惧怕任何关乎自己的事，他此刻对他们的状态，难道会比一生中任何先前时期更加无动于衷吗？不仅如此，难道下面不是我们中间相当普遍的看法：我们死后，对身后之人遭遇的事一无所知？那么，为什么临近死亡时，我们没有失去对家庭、朋友或国家的全部关切？能否举出这样一个例子：我们欲求某物仅将其当作私利之手段，且明知几分钟之后便无法享有这种善，其欲求的强烈程度却一如我们期望多年占有它时那样？（*Inquiry*，228n33）
+  - id: 91
+    kind: body
     source: |-
       Insofar as our self-interest is not affected by what happens after our death, at least according to Hutcheson, it seems strange to say that individuals are concerned only for their self-interest. After all, we appear to be concerned not just with ourselves, but with, e.g., our children, friends, and compatriots. (Note also that Hutcheson uses a very similar argument against Hume’s reliance on the motivational significance of sympathy. See *System*, 48–49.)
     step1: |-
       就我们的自利不受死后所发生之事影响而言，至少根据哈奇森，说个体只关心自己的自利就显得奇怪。毕竟，我们似乎不只关心自己，也关心例如我们的孩子、朋友和同胞。（另注意，哈奇森用一个非常类似的论证反对休谟对同情动机意义的依赖。见 *System*，48–49。）
     step2: |-
-      就我们的自利不受死后所发生之事影响而言，至少根据哈奇森，说个体只关心自己的自利就显得奇怪。毕竟，我们似乎不只关心自己，也关心例如我们的孩子、朋友和同胞。（另注意，哈奇森用一个非常类似的论证反对休谟对同情动机意义的依赖。见 *System*，48–49。）
-
-  - id: 85
+      既然按照哈奇森的看法，我们的自利并不受死后之事的影响，那么说个体只关心自身利益，就显得很奇怪了。毕竟，我们关心的似乎不只是自己，还有我们的孩子、朋友与同胞等等。（另请注意，哈奇森用一个非常类似的论证，反对休谟对同情的动机意义的倚重。见 *System*，48–49。）
+  - id: 92
+    kind: body
     source: |-
       Now, as Hutcheson argues here, we may have a certain form of *partial* benevolence toward others. But Hutcheson also argues that we in fact maintain “a universal Determination to Benevolence in Mankind, even toward the most distant parts of the Species” (*Inquiry*, 147; *Essay*, 34). He writes:
     step1: |-
       现在，正如哈奇森在这里所论证的，我们可能对他人拥有某种形式的*部分的*仁慈。但哈奇森也论证，我们事实上保持着“人类中一种普遍的仁慈规定，甚至指向物种最遥远的部分”（*Inquiry*，147；*Essay*，34）。他写道：
     step2: |-
-      现在，正如哈奇森在这里所论证的，我们可能对他人拥有某种形式的 **部分** 仁慈。但哈奇森也论证，我们事实上保持着“人类中一种普遍的仁慈规定，甚至指向物种最遥远的部分”（*Inquiry*，147；*Essay*，34）。他写道：
-
-  - id: 86
+      现在，正如哈奇森在这里所论证的，我们可能对他人拥有某种形式的 *部分* 仁慈。但哈奇森也论证，我们事实上保持着“人类中一种普遍的仁慈规定，甚至指向物种最遥远的部分”（*Inquiry*，147；*Essay*，34）。他写道：
+  - id: 93
+    kind: body
     source: |-
       > Every one at present rejoices in the Destruction of Pirates; and yet let us suppose a Band of such Villains cast upon some desolate Island, and that we were assur’d some Fate would confine them there perpetually, so that they should disturb Mankind no more. Now let us calmly reflect that these Persons are capable of Knowledge and Counsel, may be happy, and joyful…[L]et us ask ourselves, when Self-Love or regard to the Safety of better Men, no longer makes us desire their Destruction…whether we would wish them the Fate of Cadmus’s Army, by plunging their Swords in each others Breast…or rather that they should recover the ordinary Affections of Men, become Kind, Compassionate, and Friendly…and form an honest happy Society, with Marriages, and Relations dear, and all the Charities of Father, Son, and Brother—I fancy the latter would be the Wish of every Mortal. (*Inquiry*, 105–106)
     step1: |-
       > 目前每个人都为海盗的毁灭而欢呼；然而让我们假设一伙这样的恶棍被抛到某个荒岛上，并且我们确信某种命运会把他们永远禁锢在那里，使他们不再扰乱人类。现在让我们平静地反思：这些人有能力获得知识与商议，可能幸福而快乐……[让]我们问自己，当自爱或对更好之人安全的尊重不再使我们欲求他们的毁灭……我们是否愿意他们遭受卡德摩斯军队的命运，把剑刺入彼此的胸膛……或者毋宁希望他们恢复人类普通的情感，变得仁慈、富有同情心而友善……并形成一个诚实的幸福社会，有婚姻，有亲爱的关系，以及父亲、儿子和兄弟的一切慈爱——我想后者会是每个凡人的愿望。（*Inquiry*，105–106）
     step2: |-
-      > 目前每个人都为海盗的毁灭而欢呼；然而让我们假设一伙这样的恶棍被抛到某个荒岛上，并且我们确信某种命运会把他们永远禁锢在那里，使他们不再扰乱人类。现在让我们平静地反思：这些人有能力获得知识与商议，可能幸福而快乐……[让]我们问自己，当自爱或对更好之人安全的尊重不再使我们欲求他们的毁灭……我们是否愿意他们遭受卡德摩斯军队的命运，把剑刺入彼此的胸膛……或者毋宁希望他们恢复人类普通的情感，变得仁慈、富有同情心而友善……并形成一个诚实的幸福社会，有婚姻，有亲爱的关系，以及父亲、儿子和兄弟的一切慈爱——我想后者会是每个凡人的愿望。（*Inquiry*，105–106）
-
-  - id: 87
+      > 如今人人都为海盗的覆灭而欢欣；然而让我们设想：一伙这样的恶棍被抛上某座荒岛，而且我们确知某种命运将把他们永久困在那里，使他们再也无法侵扰人类。现在让我们平静地反思：这些人有能力获得知识与见识，可能幸福、可能快乐……[让]我们问问自己：当自爱或对更善之人安全的顾念不再使我们欲求他们的毁灭时……我们是愿意他们遭遇卡德摩斯大军（Cadmus’s Army）的命运，把剑插进彼此的胸膛……还是宁可希望他们恢复人类通常的感情，变得仁慈、富有同情而友善……并组成一个诚实而幸福的社会，有婚姻，有亲爱之人，有父亲、儿子与兄弟之间的全部慈爱——我想，后者会是每一个凡人的愿望。（*Inquiry*，105–106）
+  - id: 94
+    kind: body
     source: |-
       Furthermore, it is crucial for Hutcheson that motivations of self-interest should play no role in the esteem of actions as virtuous. And hence According to Hutcheson, our moral sense approves only actions motivated by benevolence, not self-interest:
     step1: |-
       此外，对哈奇森至关重要的一点是：自利动机不应对行动之被尊为有德起任何作用。因此，根据哈奇森，我们的道德感官只认可由仁慈而非自利所驱动的行动：
     step2: |-
-      此外，对哈奇森至关重要的一点是：自利动机不应对行动之被尊为有德起任何作用。因此，根据哈奇森，我们的道德感官只认可由仁慈而非自利所驱动的行动：
-
-  - id: 88
+      再者，对哈奇森来说至关重要的是：自利的动机在把行动尊为有德一事上不应起任何作用。因此，按照哈奇森的看法，我们的道德感官只赞许由仁爱而非自利驱动的行动：
+  - id: 95
+    kind: body
     source: |-
       > If we examine all the Actions which are counted amiable any where, and enquire into the Grounds upon which they are approv’d, we shall find, that in the Opinion of the Person who approves them, they always appear as Benevolent, or flowing from Love of others, and a Study of their Happiness, whether the Approver be one of the Persons belov’d, or profited, or not; so that all those kind Affections which incline us to make others happy, and all Actions suppos’d to flow from such Affections, appear morally Good, if while they are benevolent toward some Persons, they be not pernicious to others. (*Inquiry*, 116)
     step1: |-
       > 如果我们考察任何地方被算作可爱的所有行动，并探究它们被认可所依据的根据，我们就会发现，在认可它们的人的看法中，它们总是显得是仁慈的，或源于对他人的爱与对他们幸福的研究，无论认可者是否是被爱或被惠及的人之一；因此，所有那些使我们倾向于使他人幸福的慈爱情感，以及所有被认为源于此类情感的行动，如果它们对某些人仁慈，同时又不损害其他人，就表现为道德上善的。（*Inquiry*，116）
     step2: |-
-      > 如果我们考察任何地方被算作可爱的所有行动，并探究它们被认可所依据的根据，我们就会发现，在认可它们的人的看法中，它们总是显得是仁慈的，或源于对他人的爱与对他们幸福的研究，无论认可者是否是被爱或被惠及的人之一；因此，所有那些使我们倾向于使他人幸福的慈爱情感，以及所有被认为源于此类情感的行动，如果它们对某些人仁慈，同时又不损害其他人，就表现为道德上善的。（*Inquiry*，116）
-
-  - id: 89
+      > 如果我们考察所有在何处被算作可爱的行动，并探究它们据以获得认可的根据，就会发现：在认可它们的人看来，它们总是显得仁慈，或出自对他人的爱与谋求其幸福的用心，无论认可者本人是被爱的对象、受惠的对象，还是两者都不是；于是，一切促使我们使他人幸福的仁爱情感，以及一切被认为源出于此类情感的行动——只要它们对某些人仁慈而不危害他人——便都显得是道德上善的。（*Inquiry*，116）
+  - id: 96
+    kind: body
     source: |-
       Indeed, for Hutcheson,
     step1: |-
       的确，对哈奇森而言，
     step2: |-
       的确，对哈奇森而言，
-
-  - id: 90
+  - id: 97
+    kind: body
     source: |-
       > the Perfection of Virtue consists in ‘having the *universal calm Benevolence*, the prevalent Affection of the Mind, so as to limit and counteract not only the *selfish Passions*, but even the *particular kind Affections*. (*Essay*, 8)
     step1: |-
       > 德性的完满在于‘拥有*普遍的平静仁慈*，即心灵的居支配地位的情感，以便限制并抵消不仅*自利的激情*，甚至*特殊的慈爱情感*。（*Essay*，8）
     step2: |-
-      > 德性的完满在于‘拥有 **普遍的平静仁慈**，即心灵的居支配地位的情感，以便限制并抵消不仅 **自利的激情**，甚至 **特殊的慈爱情感**。’（*Essay*，8）
-
-  - id: 91
+      > 德性的完满在于‘拥有 *普遍的平静仁慈*，即心灵的居支配地位的情感，以便限制并抵消不仅 *自利的激情*，甚至 *特殊的慈爱情感*。’（*Essay*，8）
+  - id: 98
+    kind: body
     source: |-
       Indeed, even *if* a particular action is beneficent in its effects—that is, it benefits other people to some extent or other—Hutcheson holds that such an action cannot be esteemed as virtuous if we presume that the action was motivated *by* self-interest:
     step1: |-
       的确，即使*如果*一个特定行动在其效果上是仁慈的——即它在一定程度上惠及其他人的某一方面——哈奇森主张，如果我们假定该行动*由*自利所驱动，那么这样的行动就不能被尊为有德：
     step2: |-
-      的确，即使一个特定行动在其效果上是仁慈的——即它在一定程度上惠及其他人的某一方面——哈奇森主张，如果我们假定该行动 **由** 自利所驱动，那么这样的行动就不能被尊为有德：
-
-  - id: 92
+      的确，即使一个特定行动在其效果上是仁慈的——即它在一定程度上惠及其他人的某一方面——哈奇森主张，如果我们假定该行动 *由* 自利所驱动，那么这样的行动就不能被尊为有德：
+  - id: 99
+    kind: body
     source: |-
       > Nor shall we find any thing amiable in any Action whatsoever, where there is no Benevolence imagin’d; nor in any Disposition, or Capacity, which is not suppos’d applicable to, and design’d for benevolent Purposes. Nay, as was before observ’d, the Actions which in fact are exceedingly useful, shall appear void of moral Beauty, if we know they proceeded from no kind Intentions toward others; and yet an unsuccessful Attempt of Kindness, or of promoting publick Good, shall appear as amiable as the most successful, if it flow’d from as strong Benevolence. (*Inquiry*, 116)
     step1: |-
       > 我们也不会在任何行动中发现任何可爱之处，如果那里没有想象到仁慈；也不会在任何性情或能力中发现，如果它不被认为适用于并设计用于仁慈的目的。不，正如之前观察到的，那些事实上极其有用的行动，如果我们知道它们并非源于对他人的任何善意意图，就会显得缺乏道德美；然而一次不成功的善意尝试，或促进公共善的尝试，如果源于同样强烈的仁慈，就会显得与最成功的尝试一样可爱。（*Inquiry*，116）
     step2: |-
-      > 我们也不会在任何行动中发现任何可爱之处，如果那里没有想象到仁慈；也不会在任何性情或能力中发现，如果它不被认为适用于并设计用于仁慈的目的。不，正如之前观察到的，那些事实上极其有用的行动，如果我们知道它们并非源于对他人的任何善意意图，就会显得缺乏道德美；然而一次不成功的善意尝试，或促进公共善的尝试，如果源于同样强烈的仁慈，就会显得与最成功的尝试一样可爱。（*Inquiry*，116）
-
-  - id: 93
+      > 任何行动，只要其中没有设想到仁爱，我们便不会在其中发现任何可爱之处；任何性情或能力，只要不被认为适用于、致力于仁爱的目的，我们也不会在其间发现可爱之处。不但如此，如前所述，那些事实上极为有用的行动，倘若我们知道它们并非出自对他人的任何善意，便会显得毫无道德美；而一次未获成功的行善尝试——或促进公共善的尝试——只要出自同样强烈的仁爱，便会与最成功者显得一样可爱。（*Inquiry*，116）
+  - id: 100
+    kind: body
+    source: |-
+      ### 2.2 Virtue and Utility
+    step1: |-
+      ### 2.2 德性与效用
+    step2: |-
+      ### 2.2 德性与效用
+  - id: 101
+    kind: body
     source: |-
       Hutcheson is often recognized as an early figure in the development of contemporary utilitarianism. Indeed, it was Hutcheson who first used the phrase, in identifying the nature of moral goodness, that acts should promote “the greatest happiness for the greatest number”. He writes, in the *Inquiry*, that
     step1: |-
       哈奇森常被公认为当代功利主义发展中的早期人物。的确，正是哈奇森在界定道德善的本性时首次使用了“最大多数人的最大幸福”这一短语。他在《探究》中写道：
     step2: |-
       哈奇森常被公认为当代功利主义发展中的早期人物。的确，正是哈奇森在界定道德善的本性时首次使用了“最大多数人的最大幸福”这一短语。他在《探究》（*Inquiry*）中写道：
-
-  - id: 94
+  - id: 102
+    kind: body
     source: |-
       > that Action is best, which procures the greatest Happiness for the greatest Numbers; and that, worst, which, in like manner, occasions Misery. (*Inquiry*, 125)
     step1: |-
       > 那种行动是最好的，它为最大多数人获得最大的幸福；而那种是最坏的，它同样地造成苦难。（*Inquiry*，125）
     step2: |-
       > 那种行动是最好的，它为最大多数人获得最大的幸福；而那种是最坏的，它同样地造成苦难。（*Inquiry*，125）
-
-  - id: 95
+  - id: 103
+    kind: body
     source: |-
       But is Hutcheson really a utilitarian? And if so, what sort of utilitarian is he?
     step1: |-
       但哈奇森真的是功利主义者吗？如果是，他是一种什么样的功利主义者？
     step2: |-
       但哈奇森真的是功利主义者吗？如果是，他是一种什么样的功利主义者？
-
-  - id: 96
+  - id: 104
+    kind: body
     source: |-
       To begin, there are passages in Hutcheson that sound quite utilitarian, indeed. In the early editions of the *Inquiry*, Hutcheson suggests a quasi-mathematical principle by which to
     step1: |-
       首先，哈奇森确实有些段落听起来相当功利主义。在《探究》的早期版本中，哈奇森提出一种准数学原则，用以
     step2: |-
       首先，哈奇森确实有些段落听起来相当功利主义。在《探究》（*Inquiry*）的早期版本中，哈奇森提出一种准数学原则，用以
-
-  - id: 97
+  - id: 105
+    kind: body
     source: |-
       > compute the Morality of any Actions, with all their Circumstances, when we judge of the Actions done by our selves, or by others. (*Inquiry*, 128)
     step1: |-
       > 计算任何行动的道德性，连同其全部情况，当我们判断我们自己或他人所做的行动时。（*Inquiry*，128）
     step2: |-
       > 计算任何行动的道德性，连同其全部情况，当我们判断我们自己或他人所做的行动时。（*Inquiry*，128）
-
-  - id: 98
+  - id: 106
+    kind: body
     source: |-
       He holds that
     step1: |-
       他主张
     step2: |-
       他主张
-
-  - id: 99
+  - id: 107
+    kind: body
     source: |-
       > The moral Importance of any Agent, or the Quantity of publick Good produced by him, is in a compound Ratio of his Benevolence and Abilitys: or (by substituting the Letters for the Words, as M = Moment of Good, and μ = Moment of Evil) M = B × A. (*Inquiry*, 128)
     step1: |-
       > 任何行动者的道德重要性，或他所产生的公共善的量，是其仁慈与能力的复合比率：或（以字母代替文字，M = 善的矩量，μ = 恶的矩量）M = B × A。（*Inquiry*，128）
     step2: |-
-      > 任何行动者的道德重要性，或他所产生的公共善的量，是其仁慈与能力的复合比率：或（以字母代替文字，M = 善的矩量，μ = 恶的矩量）M = B × A。（*Inquiry*，128）
-
-  - id: 100
+      > 任何行动者的道德重要性，或由他产生的公共善之量，是其仁爱（Benevolence）与能力（Abillitys）的复合比率：或（以字母代替词，M = 善的矩量，μ = 恶的矩量）M = B × A。（*Inquiry*，128）
+  - id: 108
+    kind: body
     source: |-
       Deriving, then, that a person’s benevolence is determined by M/A, Hutcheson declares that
     step1: |-
       那么，推导出一个人的仁慈由 M/A 决定，哈奇森宣称
     step2: |-
       那么，推导出一个人的仁慈由 M/A 决定，哈奇森宣称
-
-  - id: 101
+  - id: 109
+    kind: body
     source: |-
       > must be the Perfection of Virtue where M = A, or when the Being acts to the utmost of his Power for the public Good. (*Inquiry*, 130)
     step1: |-
       > 德性的完满必须是 M = A 之处，或当存在者为其公共善尽其权力之极时。（*Inquiry*，130）
     step2: |-
       > 德性的完满必须是 M = A 之处，或当存在者为其公共善尽其权力之极时。（*Inquiry*，130）
-
-  - id: 102
+  - id: 110
+    kind: body
     source: |-
       (It should be noted that the fourth edition of the *Inquiry* refrains from this technical language, but the general idea remains the same. See *Inquiry*, 234n56.)
     step1: |-
       （应当注意，《探究》第四版避免使用这种技术语言，但一般观念保持不变。见 *Inquiry*，234n56。）
     step2: |-
       （应当注意，《探究》（*Inquiry*）第四版避免使用这种技术语言，但一般观念保持不变。见 *Inquiry*，234n56。）
-
-  - id: 103
+  - id: 111
+    kind: body
     source: |-
       Now this sounds as if Hutcheson is espousing a relatively straightforward utilitarianism. After all, the morality of an action is determined, on this view, by whether or not an agent produces the greatest “publick Good” he or she can. In addition, “Publick Good”, here, is understood by Hutcheson to mean the “natural Good of Mankind” (*Inquiry*, 91) where “natural good” (more on this later) is understood to mean a person’s happiness, defined in hedonistic terms (*Inquiry*, 86; *Essay*, 87). Putting this all together, we get a standard, run-of-the-mill, hedonistic utilitarianism.
     step1: |-
       现在这听起来像哈奇森在主张一种相对直接的功利主义。毕竟，按这一观点，行动的道德性取决于一个行动者是否产生了其所能产生的最大“公共善”。此外，这里的“公共善”被哈奇森理解为“人类的自然善”（*Inquiry*，91），而“自然善”（更多后文讨论）被理解为一个由快乐主义术语界定的人的幸福（*Inquiry*，86；*Essay*，87）。把这一切合起来，我们得到一种标准的、普通的、快乐主义功利主义。
     step2: |-
-      现在这听起来像哈奇森在主张一种相对直接的功利主义。毕竟，按这一观点，行动的道德性取决于一个行动者是否产生了其所能产生的最大“公共善”。此外，这里的“公共善”被哈奇森理解为“人类的自然善”（*Inquiry*，91），而“自然善”（更多后文讨论）被理解为一个由快乐主义术语界定的人的幸福（*Inquiry*，86；*Essay*，87）。把这一切合起来，我们得到一种标准的、普通的、快乐主义功利主义。
-
-  - id: 104
+      这听起来似乎是说，哈奇森在主张一种相当直白的功利主义。毕竟，按照这一观点，行动的道德性取决于行动者是否产生出他或她所能产生的最大“公共善”。此外，这里的“公共善”被哈奇森理解为“人类的自然善”（*Inquiry*，91），而“自然善”（下文详述）则被理解为一个人的幸福——以快乐主义的术语来界定（*Inquiry*，86；*Essay*，87）。把这些合在一起，我们便得到一种标准而寻常的快乐主义功利主义。
+  - id: 112
+    kind: body
     source: |-
       However, there are major deviations from a straightforward utilitarianism as we might understand it from, e.g., Bentham or Sidgwick (see Albee 1896: 32–35)[^albee-1896]. First, Hutcheson appears to offer us something like a *scalar* utilitarianism. On a scalar view, there is no absolute rightness or wrongness, but rather degrees of rightness or wrongness that an action may display (see Norcross 2020)[^norcross-2020]. And while Hutcheson does discuss the notion of “perfect virtue”—achieved when the good one has the ability to do is equal to the good one does—he admits that there will be degrees of virtue (which simply follows given his mathematical calculations), and does not describe the perfection of virtue as any sort of absolute obligation (see Darwall 1997: 87–88)[^darwall-1997]. (Indeed, this point is essential to his critique of Wollaston, §1.4.)
     step1: |-
       然而，与我们可能从例如边沁或西季威克理解的直接功利主义相比，有重大偏离（见 Albee 1896: 32–35）[^albee-1896]。第一，哈奇森似乎为我们提供了一种*标度的*功利主义。按标度观点，没有绝对的正当或不正当，而毋宁是行动可能显示的正当或不正当的程度（见 Norcross 2020）[^norcross-2020]。而且，虽然哈奇森确实讨论了“完满德性”的概念——即当一个人有能力做的善等于他所做的善时达到——他承认会有德性的程度（这简单地因其数学计算而得出），并且不把德性的完满描述为任何绝对的义务（见 Darwall 1997: 87–88）[^darwall-1997]。（事实上，这一点对他的理性主义批判（§1.4）至关重要。）
     step2: |-
-      然而，与我们可能从例如边沁或西季威克理解的直接功利主义相比，有重大偏离（见 Albee 1896: 32–35）[^albee-1896]。第一，哈奇森似乎为我们提供了一种 **标度的** 功利主义。按标度观点，没有绝对的正当或不正当，而毋宁是行动可能显示的正当或不正当的程度（见 Norcross 2020）[^norcross-2020]。而且，虽然哈奇森确实讨论了“完满德性”的概念——即当一个人有能力做的善等于他所做的善时达到——他承认会有德性的程度（这简单地因其数学计算而得出），并且不把德性的完满描述为任何绝对的义务（见 Darwall 1997: 87–88）[^darwall-1997]。（事实上，这一点对他的理性主义批判（§1.4）至关重要。）
-
-  - id: 105
+      然而，与我们可能从例如边沁或西季威克理解的直接功利主义相比，有重大偏离（见 Albee 1896: 32–35）[^albee-1896]。第一，哈奇森似乎为我们提供了一种 *标度的* 功利主义。按标度观点，没有绝对的正当或不正当，而毋宁是行动可能显示的正当或不正当的程度（见 Norcross 2020）[^norcross-2020]。而且，虽然哈奇森确实讨论了“完满德性”的概念——即当一个人有能力做的善等于他所做的善时达到——他承认会有德性的程度（这简单地因其数学计算而得出），并且不把德性的完满描述为任何绝对的义务（见 Darwall 1997: 87–88）[^darwall-1997]。（事实上，这一点对他的理性主义批判（§1.4）至关重要。）
+  - id: 113
+    kind: body
     source: |-
       Second, Hutcheson clearly intends his moral “calculation” to refer, at least in part, to the *motivation* of a given action. Only actions motivated by benevolence will be perfectly virtuous. If one is motivated by self-interest, or has a mixed motivation, the extent to which the action was motivated by self-interest will be deducted from the overall moral character of an action:
     step1: |-
       第二，哈奇森显然打算使其道德“计算”至少部分地指涉给定行动的*动机*。只有由仁慈所驱动的行动才会完满有德。如果一个人由自利所驱动，或有混合动机，那么行动由自利所驱动的程度将从行动的整体道德品格中扣除：
     step2: |-
-      第二，哈奇森显然打算使其道德“计算”至少部分地指涉给定行动的 **动机**。只有由仁慈所驱动的行动才会完满有德。如果一个人由自利所驱动，或有混合动机，那么行动由自利所驱动的程度将从行动的整体道德品格中扣除：
-
-  - id: 106
+      第二，哈奇森显然打算使其道德“计算”至少部分地指涉给定行动的 *动机*。只有由仁慈所驱动的行动才会完满有德。如果一个人由自利所驱动，或有混合动机，那么行动由自利所驱动的程度将从行动的整体道德品格中扣除：
+  - id: 114
+    kind: body
     source: |-
       > when the Moment of Good, in an Action partly intended for the Good of the Agent, is but equal to the Moment of Good in the Action of another Agent, influenc’d only by Benevolence, the former is less virtuous; and in this Case the Interest must be deducted to find he true Effect of the Benevolence. (*Inquiry*, 129)
     step1: |-
       > 当一个部分地旨在行动者之善的行动中的善的矩量，仅等于另一个仅受仁慈影响的行动者的行动中的善的矩量时，前者较不有德；而在这种情况下，必须扣除利益以找到仁慈的真正效果。（*Inquiry*，129）
     step2: |-
-      > 当一个部分地旨在行动者之善的行动中的善的矩量，仅等于另一个仅受仁慈影响的行动者的行动中的善的矩量时，前者较不有德；而在这种情况下，必须扣除利益以找到仁慈的真正效果。（*Inquiry*，129）
-
-  - id: 107
+      > 当一个部分地以行动者自身之善为目的的行动，其善的矩量仅等于另一行动者的行动中善的矩量——后者纯然由仁爱推动——时，前者便较少有德；在这种情况下，必须扣除利益部分，方能求得仁爱的真正效果。（*Inquiry*，129）
+  - id: 115
+    kind: body
     source: |-
       So Hutcheson clearly means to hold that any “publick good” that is to be credited to the moral quality of an act must be *intended*.
     step1: |-
       因此，哈奇森显然意在主张：任何归于行动道德品格的“公共善”必须是*意图的*。
     step2: |-
-      因此，哈奇森显然意在主张：任何归于行动道德品格的“公共善”必须是 **意图的**。
-
-  - id: 108
+      因此，哈奇森显然意在主张：任何归于行动道德品格的“公共善”必须是 *意图的*。
+  - id: 116
+    kind: body
     source: |-
       Third, Hutcheson holds that the consequences of a particular act will have no bearing on its moral quality not just if it is not intended, but also if it is not *foreseen*:
     step1: |-
       第三，哈奇森主张，一个特定行动的后果对其道德品格没有影响，不仅如果它不被意图，而且如果它不被*预见*：
     step2: |-
-      第三，哈奇森主张，一个特定行动的后果对其道德品格没有影响，不仅如果它不被意图，而且如果它不被 **预见**：
-
-  - id: 109
+      第三，哈奇森主张，一个特定行动的后果对其道德品格没有影响，不仅如果它不被意图，而且如果它不被 *预见*：
+  - id: 117
+    kind: body
     source: |-
       > It is true indeed, that that publick Evil which I neither certainly foresee, nor have actual Presumptions of, as the Consequence of my Action, does not make my present Action Criminal, or Odious; even altho I might have foreseen this Evil by a serious Examination of my own Actions; because such actions do not, at present, evidence either Malice, or want of Benevolence…In like manner, no good Effect which I did not actually foresee and intend, makes my Action morally Good. (*Inquiry*, 131).
     step1: |-
       > 的确如此，那种我既不确定预见、也无实际推定、作为我行动后果的公共恶，不会使我现在所做的行动成为犯罪的或可憎的；即使我可能通过严肃审查自己的行动而预见到这一恶；因为这样的行动当下并不表明恶意，或缺乏仁慈……同样地，没有我实际上既未预见也未意图的好效果，使我的行动在道德上为善。（*Inquiry*，131）。
     step2: |-
-      > 的确如此，那种我既不确定预见、也无实际推定、作为我行动后果的公共恶，不会使我现在所做的行动成为犯罪的或可憎的；即使我可能通过严肃审查自己的行动而预见到这一恶；因为这样的行动当下并不表明恶意，或缺乏仁慈……同样地，没有我实际上既未预见也未意图的好效果，使我的行动在道德上为善。（*Inquiry*，131）。
-
-  - id: 110
+      > 的确，那种作为我行动之后果、而我既未确切预见又无实际推定的公共恶，并不会使我当下的行动成为有罪的或可憎的——哪怕我本可以通过认真检视自己的行动而预见到这种恶；因为这类行动在当下既不表明恶意，也不表明缺乏仁爱……同样，任何我并未实际预见并意图的好效果，也不能使我的行动成为道德上善的。（*Inquiry*，131）。
+  - id: 118
+    kind: body
     source: |-
       The second and third deviations from a standard utilitarianism might be expected given his affirmed belief that the motivation of virtuous actors is paramount in understanding the virtue of their action. As already noted, Hutcheson holds that the moral sense approves actions insofar as they are motivated by disinterested benevolence. Thus far one might state his version of utilitarianism as a kind of *scalar motivational* utilitarianism (which we should think of as clearly distinct from a “motive” utilitarianism (see Adams 1976)[^adams-1976], according to which morally appropriate actions are motivated by dispositions the possession of which leads to the best consequences), according to which an act is virtuous insofar as the agent *aims* at the greatest overall good.
     step1: |-
       鉴于他确认的信念——有德行动者的动机在理解其行动的德性方面至关重要——第二和第三个偏离标准功利主义是可以预期的。如已指出的，哈奇森主张道德感官认可行动，就它们由无私的仁慈所驱动而言。到目前为止，人们可以把他的功利主义版本表述为一种*标度的动机性*功利主义（我们应把它视为与“动机”功利主义（见 Adams 1976）[^adams-1976]明确区分——根据后者，道德上适当的行动由拥有导致最佳后果的性情的动机所驱动），根据它，一个行动是有德的，就行动者*指向*最大的整体善而言。
     step2: |-
-      鉴于他确认的信念——有德行动者的动机在理解其行动的德性方面至关重要——第二和第三个偏离标准功利主义是可以预期的。如已指出的，哈奇森主张道德感官认可行动，就它们由无私的仁慈所驱动而言。到目前为止，人们可以把他的功利主义版本表述为一种 **标度的动机性** 功利主义（我们应把它视为与“动机”功利主义（见 Adams 1976）[^adams-1976]明确区分——根据后者，道德上适当的行动由拥有导致最佳后果的性情的动机所驱动），根据它，一个行动是有德的，就行动者 **指向** 最大的整体善而言。
-
-  - id: 111
+      鉴于他确认的信念——有德行动者的动机在理解其行动的德性方面至关重要——第二和第三个偏离标准功利主义是可以预期的。如已指出的，哈奇森主张道德感官认可行动，就它们由无私的仁慈所驱动而言。到目前为止，人们可以把他的功利主义版本表述为一种 *标度的动机性* 功利主义（我们应把它视为与“动机”功利主义（见 Adams 1976）[^adams-1976]明确区分——根据后者，道德上适当的行动由拥有导致最佳后果的性情的动机所驱动），根据它，一个行动是有德的，就行动者 *指向* 最大的整体善而言。
+  - id: 119
+    kind: body
     source: |-
       But there is one interesting twist that is briefly suggested by Hutcheson that is also worth mentioning. Hutcheson holds that the perfectly benevolent, and hence perfectly virtuous, agent will aim at the greatest public good they can achieve. But the “publick good” here should not be understood as a straightforward aggregate of happiness across persons. In describing his understanding of public good, Hutcheson says this:
     step1: |-
       但哈奇森简短提到的一个有趣转折也值得一提。哈奇森主张，完满仁慈、因而完满有德的行动者会指向其所能达到的最大公共善。但这里的“公共善”不应被理解为跨人的幸福的直接总和。在描述他对公共善的理解时，哈奇森这样说：
     step2: |-
-      但哈奇森简短提到的一个有趣转折也值得一提。哈奇森主张，完满仁慈、因而完满有德的行动者会指向其所能达到的最大公共善。但这里的“公共善”不应被理解为跨人的幸福的直接总和。在描述他对公共善的理解时，哈奇森这样说：
-
-  - id: 112
+      但哈奇森简略提到的一个有趣的转折，也值得一提。哈奇森主张，完满仁爱、因而也完满有德的行动者，会以他能达成的最大公共善为目标。但这里的“公共善”不应被理解为各人幸福的简单加总。在描述自己对公共善的理解时，哈奇森说道：
+  - id: 120
+    kind: body
     source: |-
       > In comparing the moral Qualitys of Actions, in order to regulate our Election among various Actions propos’d, or to find which of them has the greatest moral Excellency, we are led by our moral Sense of Virtue to judge thus; that in equal Degrees of Happiness, expected to proceed from the Action, the Virtue is in proportion to the Number of Persons to whom the Happiness shall extend; (and here the Dignity, or moral Importance of Persons, may compensate Numbers) and in equal Numbers, the Virtue is as the Quantity of the Happiness, or natural Good; or that the Virtue is in a compound Ratio of the Quantity of Good, and Number of Enjoyers…Again, when the Consequences of Actions are of a mix’d Nature, partly Advantageous, and partly Pernicious; that Action is good, whose good Effects preponderate the evil, by being useful to many, and pernicious to few; and that, evil, which is otherwise. Here also the moral Importance of Characters, or Dignity of Persons may compensate Numbers; as may also the Degrees of Happiness or Misery: for to procure an inconsiderable Good to many, but an immense Evil to few, may be Evil; and an immense Good to few, may preponderate a small Evil to many. (*Inquiry*, 125)
     step1: |-
       > 在比较行动的道德性质时，为了调节我们在所提出的各种行动之间的选择，或找出其中哪一个具有最大的道德卓越，我们被我们对德性的道德感官引导去如此判断：在预期从行动产生的同等幸福程度下，德性与幸福将延伸到的受惠者人数成比例；（而这里人的尊严，或道德重要性，可以补偿人数）在同等人数下，德性与幸福的量或自然善成比例；或者说德性与善的量和享受者人数的复合比率成比例……再次，当行动的后果是混合的，部分有利、部分有害；那种行动是善的，其好效果压过坏效果，因为它对多数人有用、对少数人有害；而那种是恶的，则相反。这里人物的道德重要性，或人的尊严也可以补偿人数；幸福或苦难的程度亦然：因为为多数人获取微小的善，却为少数人带来巨大的恶，可能是恶的；而为少数人带来巨大的善，可能压过对多数人的微小恶。（*Inquiry*，125）
     step2: |-
-      > 在比较行动的道德性质时，为了调节我们在所提出的各种行动之间的选择，或找出其中哪一个具有最大的道德卓越，我们被我们对德性的道德感官引导去如此判断：在预期从行动产生的同等幸福程度下，德性与幸福将延伸到的受惠者人数成比例；（而这里人的尊严，或道德重要性，可以补偿人数）在同等人数下，德性与幸福的量或自然善成比例；或者说德性与善的量和享受者人数的复合比率成比例……再次，当行动的后果是混合的，部分有利、部分有害；那种行动是善的，其好效果压过坏效果，因为它对多数人有用、对少数人有害；而那种是恶的，则相反。这里人物的道德重要性，或人的尊严也可以补偿人数；幸福或苦难的程度亦然：因为为多数人获取微小的善，却为少数人带来巨大的恶，可能是恶的；而为少数人带来巨大的善，可能压过对多数人的微小恶。（*Inquiry*，125）
-
-  - id: 113
+      > 在比较诸行动的道德性质，以便在所提出的各种行动之间规整我们的选择，或找出其中何者具有最大的道德卓越性时，我们的德性道德感官引导我们作出如下判断：在行动预期产生的幸福程度相等时，德性与幸福所及的人数成比例（此处人的尊严或道德重要性可以补偿人数）；人数相等时，德性则与幸福之量或自然善成比例；或者说，德性与善之量和受惠者人数的复合比率成比例……再者，当行动的后果性质混杂——部分有利、部分有害——时，若其好效果压倒恶效果，对多数人有益而对少数人有害，则该行动是善的；反之则是恶的。此处人物的道德重要性或人的尊严同样可以补偿人数；幸福或苦难的程度亦然：因为给多数人带来微不足道的善、却给少数人带来巨大的恶，可能是恶的；而给少数人带来巨大的善，则可能压倒给多数人的小恶。（*Inquiry*，125）
+  - id: 121
+    kind: body
     source: |-
       Two things are worth noting here. First, and less interestingly, the phrase “compound Ratio of the Quantity of Good, and Number of Enjoyers” suggests that Hutcheson is inclined toward a form of *average* utilitarianism, rather than *total* utilitarianism (see Smart & Williams 1974: 27–28; Parfit 1984: 420–421)[^parfit-1984]. Furthermore, and compatible with this form of average utilitarianism, Hutcheson holds that small benefits spread over many persons need not compensate for massive evils subjected to few, and that small evils spread over many may be a price worth paying for large benefits for a small number. All this is compatible with standard forms of utilitarian aggregation.
     step1: |-
       这里有两点值得注意。第一，也是较不有趣的，“善的量与享受者人数的复合比率”这一短语表明，哈奇森倾向于一种*平均*功利主义，而非*总量*功利主义（见 Smart & Williams 1974: 27–28；Parfit 1984: 420–421）[^parfit-1984]。此外，与这种平均功利主义形式相容的是，哈奇森主张：分散于许多人的微小利益不需要补偿施加于少数人的巨大恶；而分散于许多人的微小恶可能是为少数人获得巨大利益而值得付出的代价。这一切都与标准形式的功利主义聚合相容。
     step2: |-
-      这里有两点值得注意。第一，也是较不有趣的，“善的量与享受者人数的复合比率”这一短语表明，哈奇森倾向于一种 **平均** 功利主义，而非 **总量** 功利主义（见 Smart & Williams 1974: 27–28；Parfit 1984: 420–421）[^parfit-1984]。此外，与这种平均功利主义形式相容的是，哈奇森主张：分散于许多人的微小利益不需要补偿施加于少数人的巨大恶；而分散于许多人的微小恶可能是为少数人获得巨大利益而值得付出的代价。这一切都与标准形式的功利主义聚合相容。
-
-  - id: 114
+      这里有两点值得注意。第一，也是较不有趣的，“善的量与享受者人数的复合比率”这一短语表明，哈奇森倾向于一种 *平均* 功利主义，而非 *总量* 功利主义（见 Smart & Williams 1974: 27–28；Parfit 1984: 420–421）[^parfit-1984]。此外，与这种平均功利主义形式相容的是，哈奇森主张：分散于许多人的微小利益不需要补偿施加于少数人的巨大恶；而分散于许多人的微小恶可能是为少数人获得巨大利益而值得付出的代价。这一切都与标准形式的功利主义聚合相容。
+  - id: 122
+    kind: body
     source: |-
       But, more interestingly, Hutcheson suggests that the “Dignity, or moral Importance of Persons, may compensate Numbers”. How to understand this passage? One might interpret it as a proto version of a view according to which the moral virtue of individuals is intrinsically significant, the happiness of two people, one of whom is virtuous, the other vicious, are not of equal value. (One might compare this to a form of “luckism” as advocated by, e.g., Richard Arneson [2004].) But Hutcheson explicitly denies this reading one paragraph earlier. He writes:
     step1: |-
       但更有趣的是，哈奇森暗示“人的尊严，或道德重要性，可以补偿人数”。如何理解这一段落？人们可以把它解释为一种观点的原型版本：个体的道德德性内在地重要，两个人的幸福——其中一人有德，另一人邪恶——价值并不相等。（人们可以把这与例如理查德·阿内森 [2004] 所主张的一种“运气论”形式相比较。）但哈奇森在上一段明确否认这一解读。他写道：
     step2: |-
-      但更有趣的是，哈奇森暗示“人的尊严，或道德重要性，可以补偿人数”。如何理解这一段落？人们可以把它解释为一种观点的原型版本：个体的道德德性内在地重要，两个人的幸福——其中一人有德，另一人邪恶——价值并不相等。（人们可以把这与例如理查德·阿内森 [2004] 所主张的一种“运气论”形式相比较。）但哈奇森在上一段明确否认这一解读。他写道：
-
-  - id: 115
+      但更有趣的是，哈奇森提示“人的尊严，或道德重要性，可以补偿人数”。这段话该如何理解？人们可以把它解读为下述观点的雏形：个体的道德德性具有内在的重要性，因此两个人的幸福——一人有德、一人邪恶——价值并不相等。（可以将其与理查德·阿内森（Richard Arneson [2004]）等人所主张的某种“运气主义”（luckism）相比。）但哈奇森在上一段明确否定了这一解读。他写道：
+  - id: 123
+    kind: body
     source: |-
       > The moral Beauty, or Deformity of Actions, is not alter’d by the moral Qualitys of the Objects, any further than the Qualitys of the Objects increase or diminish the Benevolence of the Action, or the publick Good intended by it. Thus Benevolence toward the worst Characters, or the Study of their Good, may be as amiable as any whatsoever; yea often more so than that toward the Good, since it argues such a strong Degree of Benevolence as can surmount the greatest Obstacle, the moral Evil in the Object. (*Inquiry*, 124)
     step1: |-
       > 行动的道德美或畸形，并不因对象的道德性质而改变，除非对象的性质增加或减少行动的仁慈，或它所意图的公共善。因此，对最坏品格的人仁慈，或研究他们的善，可能与任何事物一样可爱；是的，往往比对待善人更为可爱，因为它表明如此强烈的仁慈程度，以至于能克服最大的障碍，即对象中的道德恶。（*Inquiry*，124）
     step2: |-
-      > 行动的道德美或畸形，并不因对象的道德性质而改变，除非对象的性质增加或减少行动的仁慈，或它所意图的公共善。因此，对最坏品格的人仁慈，或研究他们的善，可能与任何事物一样可爱；是的，往往比对待善人更为可爱，因为它表明如此强烈的仁慈程度，以至于能克服最大的障碍，即对象中的道德恶。（*Inquiry*，124）
-
-  - id: 116
+      > 行动的道德美或丑，并不因对象的道德性质而改变，除非这些对象性质增减了行动的仁爱，或增减了行动所意图的公共善。因此，对最坏品格者的仁爱，或对其善的谋求，可以与任何仁爱一样可爱；甚至往往比对善者的仁爱更可爱，因为这意味着如此强烈的仁爱，足以克服最大的障碍——对象身上的道德恶。（*Inquiry*，124）
+  - id: 124
+    kind: body
     source: |-
       For Hutcheson, any “compensation” the moral worth of individuals is allowed in comparison to numbers must be understood to be *pragmatic*:
     step1: |-
       对哈奇森而言，任何允许个体道德价值与人数相比的“补偿”，都必须被理解为*实用的*：
     step2: |-
-      对哈奇森而言，任何允许个体道德价值与人数相比的“补偿”，都必须被理解为 **实用的**：
-
-  - id: 117
+      对哈奇森而言，任何允许个体道德价值与人数相比的“补偿”，都必须被理解为 *实用的*：
+  - id: 125
+    kind: body
     source: |-
       > Yet when our Benevolence to the Evil, encourages them in their bad Intentions, or makes them more capable of Mischief; this diminishes or destroyes the Beauty of the Action, or even makes it evil, as it betrays a Neglect of the Good of others more valuable. (*Inquiry*, 124)
     step1: |-
       > 然而，当我们对恶人的仁慈鼓励他们作恶的意图，或使他们更有能力作恶；这就会减少或破坏行动的美丽，甚至使它成为恶的，因为它暴露出对他人更有价值之善的忽视。（*Inquiry*，124）
     step2: |-
-      > 然而，当我们对恶人的仁慈鼓励他们作恶的意图，或使他们更有能力作恶；这就会减少或破坏行动的美丽，甚至使它成为恶的，因为它暴露出对他人更有价值之善的忽视。（*Inquiry*，124）
-
-  - id: 118
+      > 然而，当我们对恶人的仁爱助长其作恶意图，或使其更有能力行恶时，这便会削弱乃至摧毁该行动的美，甚至使其成为恶——因为它暴露了对他人更有价值之善的忽视。（*Inquiry*，124）
+  - id: 126
+    kind: body
     source: |-
       In addition, in the *System*, Hutcheson holds that it is more important to benefit friends, family, and people “of eminent virtue” in comparison to strangers, but notice that only when all other circumstances are equal is one permitted to favor such individuals (see *System*, 247–8).
     step1: |-
       此外，在《体系》中，哈奇森主张，惠及朋友、家人和“德性卓越”的人比惠及陌生人更重要，但注意，只有在其他一切情况相同的条件下，才允许人们偏袒这样的个体（见 *System*，247–8）。
     step2: |-
       此外，在《体系》（*System*）中，哈奇森主张，惠及朋友、家人和“德性卓越”的人比惠及陌生人更重要，但注意，只有在其他一切情况相同的条件下，才允许人们偏袒这样的个体（见 *System*，247–8）。
-
-  - id: 119
+  - id: 127
+    kind: body
     source: |-
       But this is puzzling. It would appear that any attention we pay to the moral worth of the objects of our beneficence is simply given the general consequences such beneficence may produce. And hence it would appear that the “moral Importance of Persons” is not actually “compensating” numbers at all. Rather, the moral importance of persons is or perhaps could be an important causal *factor* in the overall production of happiness or the overall distribution of happiness, but is not *itself* a compensatory axiological variable. But this is also puzzling, insofar as Hutcheson seems to treat the moral importance of persons as such a variable *twice*. At this point Hutcheson’s embrace, or lack thereof, of luckism must be left as an interpretive puzzle.
     step1: |-
       但这是令人困惑的。看来，我们对受惠对象道德价值的任何关注，仅仅是由这种惠及可能产生的总体后果给出的。因此看来，“人的道德重要性”实际上根本不是在“补偿”人数。毋宁，人的道德重要性是（或者也许是）幸福总体生产或幸福总体分配中的一个重要因果*因素*，但它*本身*并不是一个补偿性的价值论变量。但这也令人困惑，因为哈奇森似乎 **两次** 把人的道德重要性当作这样的变量。在这一点上，哈奇森对运气论的拥抱（或缺乏之）必须作为一个解释学难题搁置。
     step2: |-
-      但这是令人困惑的。看来，我们对受惠对象道德价值的任何关注，仅仅是由这种惠及可能产生的总体后果给出的。因此看来，“人的道德重要性”实际上根本不是在“补偿”人数。毋宁，人的道德重要性是（或者也许是）幸福总体生产或幸福总体分配中的一个重要因果 **因素**，但它 **本身** 并不是一个补偿性的价值论变量。但这也令人困惑，因为哈奇森似乎 **两次** 把人的道德重要性当作这样的变量。在这一点上，哈奇森对运气论的拥抱（或缺乏之）必须作为一个解释学难题搁置。
-
-  - id: 120
+      但这是令人困惑的。看来，我们对受惠对象道德价值的任何关注，仅仅是由这种惠及可能产生的总体后果给出的。因此看来，“人的道德重要性”实际上根本不是在“补偿”人数。毋宁，人的道德重要性是（或者也许是）幸福总体生产或幸福总体分配中的一个重要因果 *因素*，但它 *本身* 并不是一个补偿性的价值论变量。但这也令人困惑，因为哈奇森似乎 *两次* 把人的道德重要性当作这样的变量。在这一点上，哈奇森对运气论的拥抱（或缺乏之）必须作为一个解释学难题搁置。
+  - id: 128
+    kind: body
+    source: |-
+      ### 2.3 Virtue, Happiness, and Hedonism
+    step1: |-
+      ### 2.3 德性、幸福与快乐主义
+    step2: |-
+      ### 2.3 德性、幸福与快乐主义
+  - id: 129
+    kind: body
     source: |-
       The first sentence of Hutcheson’s *System of Moral Philosophy* runs this way:
     step1: |-
       哈奇森《道德哲学体系》的第一句话是这样说的：
     step2: |-
       哈奇森《道德哲学体系》（*System of Moral Philosophy*）的第一句话是这样说的：
-
-  - id: 121
+  - id: 130
+    kind: body
     source: |-
       > The intention of moral philosophy is to direct men to that course of action which tends most effectually to promote their greatest happiness and perfection; as far as it can be done by observations and conclusions discoverable from the constitution of nature, without aids of supernatural revelation. (*System*, 1)
     step1: |-
       > 道德哲学的意图是引导人们走向那种最有效地促进其最大幸福与完善的行动路线；只要这能通过从自然构造中可发现的观察与结论来完成，而无需超自然启示的帮助。（*System*，1）
     step2: |-
-      > 道德哲学的意图是引导人们走向那种最有效地促进其最大幸福与完善的行动路线；只要这能通过从自然构造中可发现的观察与结论来完成，而无需超自然启示的帮助。（*System*，1）
-
-  - id: 122
+      > 道德哲学的旨趣，在于引导人们走向那条最能有效地促进其最大幸福与完善的行动路线；其可行范围，是凭借从自然构造中可发现的观察与结论所能达成的部分，无须借助超自然启示。（*System*，1）
+  - id: 131
+    kind: body
     source: |-
       Put another way, Hutcheson holds that his aim in discussing the very nature of virtue, benevolence, and the moral sense, is to persuade people to act in such a way as to develop “their greatest happiness and perfection” (see Heydt 2009)[^heydt-2009]. And to this end, it is important to note that Hutcheson steadfastly maintains that virtuous behavior is in the interest of the virtuous. Of course, given that Hutcheson holds that behavior is virtuous insofar as it is motivated by benevolence and *not* self-interest, it is impossible (on Hutcheson’s view) to *pursue* one’s self-interest through virtuous behavior. To be motivated by self-love diminishes, to that extent, the virtue of one’s action.
     step1: |-
       换言之，哈奇森主张，他在讨论德性、仁慈和道德感官的非常本性时的目的，是说服人们以一种发展“他们的最大幸福与完善”的方式行动（见 Heydt 2009）[^heydt-2009]。为此，重要的是注意，哈奇森坚定地主张有德行为符合有德者的利益。当然，鉴于哈奇森主张行为是有德的，就它由仁慈而非*自利*所驱动而言，在哈奇森看来，通过有德行为*追求*自己的自利是不可能的。受自爱驱动，在一定程度上减少了行动的德性。
     step2: |-
-      换言之，哈奇森主张，他在讨论德性、仁慈和道德感官的非常本性时的目的，是说服人们以一种发展“他们的最大幸福与完善”的方式行动（见 Heydt 2009）[^heydt-2009]。为此，重要的是注意，哈奇森坚定地主张有德行为符合有德者的利益。当然，鉴于哈奇森主张行为是有德的，就它由仁慈而 **不是** 自利所驱动而言，在哈奇森看来，通过有德行为 **追求** 自己的自利是不可能的。受自爱驱动，在一定程度上减少了行动的德性。
-
-  - id: 123
+      换言之，哈奇森主张，他在讨论德性、仁慈和道德感官的非常本性时的目的，是说服人们以一种发展“他们的最大幸福与完善”的方式行动（见 Heydt 2009）[^heydt-2009]。为此，重要的是注意，哈奇森坚定地主张有德行为符合有德者的利益。当然，鉴于哈奇森主张行为是有德的，就它由仁慈而 *不是* 自利所驱动而言，在哈奇森看来，通过有德行为 *追求* 自己的自利是不可能的。受自爱驱动，在一定程度上减少了行动的德性。
+  - id: 132
+    kind: body
     source: |-
       But it is nevertheless the case, for Hutcheson, that virtue *is* in one’s self-interest. Notice, however, that Hutcheson’s argument for this claim is not straightforward. As has already been indicated, Hutcheson is a hedonist:
     step1: |-
       但对哈奇森而言，情况仍然是：德性*是*在一个人自利之中的。然而注意，哈奇森对这一主张的论证并不直接。如已指出的，哈奇森是一位快乐主义者：
     step2: |-
-      但对哈奇森而言，情况仍然是：德性 **是** 在一个人自利之中的。然而注意，哈奇森对这一主张的论证并不直接。如已指出的，哈奇森是一位快乐主义者：
-
-  - id: 124
+      但对哈奇森而言，情况仍然是：德性 *是* 在一个人自利之中的。然而注意，哈奇森对这一主张的论证并不直接。如已指出的，哈奇森是一位快乐主义者：
+  - id: 133
+    kind: body
     source: |-
       > Because we shall afterwards frequently use the Words Interest, Advantage, natural Good, it is necessary here to fix their Ideas. The Pleasure in our sensible Perceptions of any kind, gives us our first Idea of natural Good, or Happiness; and then all Objects which are apt to excite this Pleasure are call’d immediately Good…Our Sense of Pleasure is antecedent to Advantage or Interest, and is the Foundation of it. (*Inquiry*, 86)
     step1: |-
       > 因为我们在后面将频繁使用利益、优势、自然善等词，所以有必要在这里固定其观念。我们任何种类的可感感知中的快乐，给我们关于自然善或幸福的第一观念；然后，所有易于激起这一快乐的对象被称为直接善……我们的快乐感先于优势或利益，并且是它的基础。（*Inquiry*，86）
     step2: |-
-      > 因为我们在后面将频繁使用利益、优势、自然善等词，所以有必要在这里固定其观念。我们任何种类的可感感知中的快乐，给我们关于自然善或幸福的第一观念；然后，所有易于激起这一快乐的对象被称为直接善……我们的快乐感先于优势或利益，并且是它的基础。（*Inquiry*，86）
-
-  - id: 125
+      > 由于我们此后将频繁使用“利益”（Interest）、“优势”（Advantage）、“自然善”（natural Good）这些词，有必要在此先固定它们的观念。我们在任何一类可感知觉中的快乐，给出了我们关于自然善或幸福的最初观念；而一切易于激起这种快乐的对象，随即被称为直接的善……我们的快乐感先于优势或利益，并且是后者的基础。（*Inquiry*，86）
+  - id: 134
+    kind: body
     source: |-
       But how could it be that a *hedonist*, of all things, believes that benevolent acts—acts that are motivated for the good of others—are always in our self-interest? Surely such acts can involve sacrifice of our own pleasure, as when a father dutifully endures the painful duration of “Rudolph the Red-Nosed Reindeer: the Live Musical!” for the sake of his daughter’s delight in watching it.
     step1: |-
       但一位*快乐主义者*，在所有事物中，怎么会相信仁慈的行动——为他人之善而驱动的行动——总是在我们自利之中呢？当然，这样的行动可能涉及牺牲我们自己的快乐，比如一位父亲为女儿观看它的快乐而尽责地忍受“红鼻子驯鹿鲁道夫：现场音乐剧！”的痛苦时长。
     step2: |-
-      但一位 **快乐主义者**，在所有事物中，怎么会相信仁慈的行动——为他人之善而驱动的行动——总是在我们自利之中呢？当然，这样的行动可能涉及牺牲我们自己的快乐，比如一位父亲为女儿观看它的快乐而尽责地忍受“红鼻子驯鹿鲁道夫：现场音乐剧！”的痛苦时长。
-
-  - id: 126
+      但一位 *快乐主义者*，在所有事物中，怎么会相信仁慈的行动——为他人之善而驱动的行动——总是在我们自利之中呢？当然，这样的行动可能涉及牺牲我们自己的快乐，比如一位父亲为女儿观看它的快乐而尽责地忍受“红鼻子驯鹿鲁道夫：现场音乐剧！”的痛苦时长。
+  - id: 135
+    kind: body
     source: |-
       The simple story, to be complicated shortly, runs this way. Hutcheson holds that the moral sense is a greater repository of pleasure than the other senses. He says, in many places, that the operation of the moral sense provides *more* pleasure than the operation of the other senses, internal and external. Hutcheson states, in the *Inquiry*, that the moral sense “gives us more Pleasure and Pain that all our other Facultys” (*Inquiry*, 163). In the *Essay*, Hutcheson writes:
     step1: |-
       简单（很快将被复杂化）的说法是这样的。哈奇森主张道德感官是比之其他感官更大的快乐宝库。他在多处说，道德感官的运作提供了比之其他内在和外在感官运作*更多*的快乐。哈奇森在《探究》中说，道德感官“给予我们比我们所有其他官能更多的快乐和痛苦”（*Inquiry*，163）。在《论激情》中，哈奇森写道：
     step2: |-
-      简单（很快将被复杂化）的说法是这样的。哈奇森主张道德感官是比之其他感官更大的快乐宝库。他在多处说，道德感官的运作提供了比之其他内在和外在感官运作 **更多** 的快乐。哈奇森在《探究》（*Inquiry*）中说，道德感官“给予我们比我们所有其他官能更多的快乐和痛苦”（*Inquiry*，163）。在《论激情》（*Essay*）中，哈奇森写道：
-
-  - id: 127
+      简单（很快将被复杂化）的说法是这样的。哈奇森主张道德感官是比之其他感官更大的快乐宝库。他在多处说，道德感官的运作提供了比之其他内在和外在感官运作 *更多* 的快乐。哈奇森在《探究》（*Inquiry*）中说，道德感官“给予我们比我们所有其他官能更多的快乐和痛苦”（*Inquiry*，163）。在《论激情》（*Essay*）中，哈奇森写道：
+  - id: 136
+    kind: body
     source: |-
       > Our moral Sense thus regulated, and constantly followed in our Actions, may be the most constant Source of the most *stable Pleasure*. (*Essay*, 126)
     step1: |-
       > 我们的道德感官如此调节，并在我们的行动中持续遵循，可能是最*稳定快乐*的最恒定来源。（*Essay*，126）
     step2: |-
-      > 我们的道德感官如此调节，并在我们的行动中持续遵循，可能是最 **稳定快乐** 的最恒定来源。（*Essay*，126）
-
-  - id: 128
+      > 我们的道德感官如此调节，并在我们的行动中持续遵循，可能是最 *稳定快乐* 的最恒定来源。（*Essay*，126）
+  - id: 137
+    kind: body
     source: |-
       Hutcheson offers a number of arguments for this, generally appealing to our own intuitions about the nature of happiness:
     step1: |-
       哈奇森为此提供了若干论证，一般诉诸我们自己对幸福本性的直觉：
     step2: |-
       哈奇森为此提供了若干论证，一般诉诸我们自己对幸福本性的直觉：
-
-  - id: 129
+  - id: 138
+    kind: body
     source: |-
       > Now should we imagine a rational Creature in a sufficiently happy State, though his Mind was, without interruption, wholly occupy’d with pleasant Sensations of Smell, Taste, Touch, &c., if at the same time all other Ideas were excluded? Should we not thing the State low, mean and sordid, if there were no Society, no Love or Friendship, no good Offices? (*Inquiry*, 163)
     step1: |-
       > 现在，我们应否想象一个处于充分幸福状态的理性造物，尽管他的心灵不间断地完全被嗅觉、味觉、触觉等愉悦感觉所占据，如果同时排除所有其他观念？如果没有社会，没有爱或友谊，没有善行，我们难道不认为这状态低贱、卑劣而肮脏吗？（*Inquiry*，163）
     step2: |-
-      > 现在，我们应否想象一个处于充分幸福状态的理性造物，尽管他的心灵不间断地完全被嗅觉、味觉、触觉等愉悦感觉所占据，如果同时排除所有其他观念？如果没有社会，没有爱或友谊，没有善行，我们难道不认为这状态低贱、卑劣而肮脏吗？（*Inquiry*，163）
-
-  - id: 130
+      > 试想一个理性造物处于相当幸福的状态：他的心灵不间断地、完全被嗅觉、味觉、触觉等愉悦感觉所占据，而同时一切其他观念都被排除——我们应当这样设想吗？若其间没有社会，没有爱或友谊，没有善行，我们难道不会认为这种状态低下、鄙陋而龌龊吗？（*Inquiry*，163）
+  - id: 139
+    kind: body
     source: |-
       So much for the external senses. But he goes on:
     step1: |-
       外在感官就到此为止。但他继续：
     step2: |-
       外在感官就到此为止。但他继续：
-
-  - id: 131
+  - id: 140
+    kind: body
     source: |-
       > Would we ever wish to be in the same Condition with a wrathful, malicious, revengeful, or envious Being, tho we were at the same time to enjoy all the Pleasures of the external and internal senses?…What Castle-builder, who forms to himself imaginary Scenes of Life, in which he thinks he should be happy, ever made acknowledg’d Treachery, Cruelty, or Ingratitude, the Steps by which he mounted to his wish’d for Elevation, or Parts of his Character, when he had attain’d it? We always conduct our selves in such Reveries, according to the Dictates of Honour, Faith, Generosity, Courage…. (*Inquiry*, 163–4)
     step1: |-
       > 我们是否愿意与一个易怒、恶毒、好报复或嫉妒的存在处于同样状态，即使我们同时享受所有外在和内在感官的快乐？……什么城堡建造者，为他自身形成想象的生活场景，在其中他以为应当幸福，会承认背信、残忍或忘恩负义是他登上所愿高位的阶梯，或是当他达到时其品格的一部分？在这样的幻想中，我们总是按照荣誉、信义、慷慨、勇气的指令行事……。（*Inquiry*，163–4）
     step2: |-
-      > 我们是否愿意与一个易怒、恶毒、好报复或嫉妒的存在处于同样状态，即使我们同时享受所有外在和内在感官的快乐？……什么城堡建造者，为他自身形成想象的生活场景，在其中他以为应当幸福，会承认背信、残忍或忘恩负义是他登上所愿高位的阶梯，或是当他达到时其品格的一部分？在这样的幻想中，我们总是按照荣誉、信义、慷慨、勇气的指令行事……。（*Inquiry*，163–4）
-
-  - id: 132
+      > 我们可曾愿意与一个暴怒、恶毒、报复成性或嫉妒的存在处于同一境地，哪怕我们同时享有内外感官的全部快乐？……哪一位为自己构筑想象生活图景、自以为在其中会幸福的空中楼阁建造者，曾把公认的背信、残忍或忘恩负义，当作他攀向所愿高位的阶梯，或当作功成之后其品格的一部分？在这类遐想中，我们总是依循荣誉、信义、慷慨、勇敢的指令而行……。（*Inquiry*，163–4）
+  - id: 141
+    kind: body
     source: |-
       Now, this is fine as far as it goes. But notice that Hutcheson does not explain why it should be that, e.g., our Castle-building friends tend to imagine that they are virtuous rather than vicious. And why should it be that in every case, the virtuous are better-off than the vicious?
     step1: |-
       现在，这就目前而言是不错的。但注意，哈奇森并没有解释为什么，例如，我们那些建造城堡的朋友倾向于想象自己是善的而非恶的。而且，为什么在每种情况下，有德者都比邪恶者处境更好？
     step2: |-
-      现在，这就目前而言是不错的。但注意，哈奇森并没有解释为什么，例如，我们那些建造城堡的朋友倾向于想象自己是善的而非恶的。而且，为什么在每种情况下，有德者都比邪恶者处境更好？
-
-  - id: 133
+      到此为止，这样说没有问题。但请注意，哈奇森并未解释：比如，我们那些建造空中楼阁的朋友，为何倾向于想象自己是有德的而非邪恶的？再者，为何在每一种情况下，有德者都比邪恶者过得更好？
+  - id: 142
+    kind: body
     source: |-
       A key mechanism here is the notion of a “reflex Act”. Lord Shaftesbury—borrowing Locke’s notion of “reflection”—introduces the idea this way (see Baier & Luntley 1995)[^baier-1995]:
     step1: |-
       这里的一个关键机制是“反思活动”的概念。沙夫茨伯里勋爵——借用洛克的“反省”概念——以这种方式引入这一观念（见 Baier & Luntley 1995）[^baier-1995]：
     step2: |-
       这里的一个关键机制是“反思活动”的概念。沙夫茨伯里勋爵（Lord Shaftesbury）——借用洛克（John Locke）的“反省”概念——以这种方式引入这一观念（见 Baier & Luntley 1995）[^baier-1995]：
-
-  - id: 134
+  - id: 143
+    kind: body
     source: |-
       > In a Creature capable of forming general Notions of Things, not only the outward Beings which offer themselves to the Sense, are the Objects of the Affection; but the very *Actions* themselves, and the *Affections* of Pity, Kindness, Gratitude, and their Contrarys, being brought into the Mind by Reflection, become Objects. So that, by means of this reflected Sense, there arises another kind of Affection towards those very Affections themselves, which have been already felt, and are now become the subject of new Liking or Dislike. (Shaftesbury 1711, v. 2, 16)[^shaftesbury-1711]
     step1: |-
       > 在一个能够形成事物一般概念的造物中，不仅呈现给感官的外部存在者成为情感的对象；而且*行动*本身，以及怜悯、仁慈、感恩及其相反者的*情感*，通过反省被带入心灵，成为对象。因此，凭借这种反思的感官，对已经被感受到、现在成为新的喜欢或不喜欢之对象的那些情感本身，产生另一种情感。（Shaftesbury 1711，第 2 卷，16）[^shaftesbury-1711]
     step2: |-
-      > 在一个能够形成事物一般概念的造物中，不仅呈现给感官的外部存在者成为情感的对象；而且 **行动** 本身，以及怜悯、仁慈、感恩及其相反者的 **情感**，通过反省被带入心灵，成为对象。因此，凭借这种反思的感官，对已经被感受到、现在成为新的喜欢或不喜欢之对象的那些情感本身，产生另一种情感。（Shaftesbury 1711，第 2 卷，16）[^shaftesbury-1711]
-
-  - id: 135
+      > 在一个能够形成事物一般概念的造物中，不仅呈现给感官的外部存在者成为情感的对象；而且 *行动* 本身，以及怜悯、仁慈、感恩及其相反者的 *情感*，通过反省被带入心灵，成为对象。因此，凭借这种反思的感官，对已经被感受到、现在成为新的喜欢或不喜欢之对象的那些情感本身，产生另一种情感。（Shaftesbury 1711，第 2 卷，16）[^shaftesbury-1711]
+  - id: 144
+    kind: body
     source: |-
       For Hutcheson, while we do not immediately receive pleasure from our own virtuous actions, we nevertheless can take the part of a spectator to ourselves. When we do this, our virtuous actions will trigger our moral sense, itself—as Hutcheson is insistent upon—the fount of the most valuable pleasures. (Hutcheson details this in the “D” (i.e., final, 1738) edition of the *Inquiry*.) He writes:
     step1: |-
       对哈奇森而言，虽然我们不立即从自己的有德行动中获得快乐，但我们仍然可以对自己采取旁观者的立场。当我们这样做时，我们的有德行动会触发我们的道德感官——正如哈奇森所坚持的——它本身是最有价值快乐的源泉。（哈奇森在《探究》的“D”（即最终、1738）版本中详述了这一点。）他写道：
     step2: |-
       对哈奇森而言，虽然我们不立即从自己的有德行动中获得快乐，但我们仍然可以对自己采取旁观者的立场。当我们这样做时，我们的有德行动会触发我们的道德感官——正如哈奇森所坚持的——它本身是最有价值快乐的源泉。（哈奇森在《探究》（*Inquiry*）的“D”（即最终、1738）版本中详述了这一点。）他写道：
-
-  - id: 136
+  - id: 145
+    kind: body
     source: |-
       > every Spectator is persuaded that the reflex Acts of the virtuous Agent upon his own Temper will give him the highest pleasures. (*Inquiry*, 217n47)
     step1: |-
       > 每一位旁观者都确信，有德行动者对其自身性情的反思活动会给他最高的快乐。（*Inquiry*，217n47）
     step2: |-
       > 每一位旁观者都确信，有德行动者对其自身性情的反思活动会给他最高的快乐。（*Inquiry*，217n47）
-
-  - id: 137
+  - id: 146
+    kind: body
     source: |-
       Again, this is fine as far as it goes. But we may still wonder why it is that such “reflex Acts”, even if engaging the moral sense, necessarily produce the “highest pleasures?” And what is exactly meant by such a phrase?
     step1: |-
       再次，这就目前而言是不错的。但我们仍可能想知道，为什么这样的“反思活动”，即使触及道德感官，必然产生“最高的快乐”？而且这样的短语究竟意指什么？
     step2: |-
-      再次，这就目前而言是不错的。但我们仍可能想知道，为什么这样的“反思活动”，即使触及道德感官，必然产生“最高的快乐”？而且这样的短语究竟意指什么？
-
-  - id: 138
+      再说一次，到此为止这样说没有问题。但我们仍不免疑惑：这类“反思活动”（reflex Acts），即便调动了道德感官，为何就必然产生“最高的快乐”？这一说法究竟何意？
+  - id: 147
+    kind: body
     source: |-
       One solution to this puzzle, opted for by some commentators, holds that Hutcheson is a kind of *qualitative* hedonist—a view according to which some pleasures are of higher quality, and therefore more valuable, pleasurableness held equal (Edwards 1979: 30; Riley 2008: 275; Strasser 1987: 518; Crisp 2020: 124)[^crisp-2020][^edwards-1979][^riley-2008][^strasser-1987]. And there are some very tantalizing passages that suggest just this:
     step1: |-
       对这一难题的一种解法，被一些评论者采纳，主张哈奇森是一种*质性的*快乐主义者——一种观点，根据它，有些快乐质量更高，因此在快乐程度相同的情况下更有价值（Edwards 1979: 30; Riley 2008: 275; Strasser 1987: 518; Crisp 2020: 124）[^crisp-2020][^edwards-1979][^riley-2008][^strasser-1987]。而且有些非常引人入胜的段落正表明这一点：
     step2: |-
-      对这一难题的一种解法，被一些评论者采纳，主张哈奇森是一种 **质性** 的快乐主义者——一种观点，根据它，有些快乐质量更高，因此在快乐程度相同的情况下更有价值（Edwards 1979: 30；Riley 2008: 275；Strasser 1987: 518；Crisp 2020: 124）[^crisp-2020][^edwards-1979][^riley-2008][^strasser-1987]。而且有些非常引人入胜的段落正表明这一点：
-
-  - id: 139
+      对这一难题的一种解法，被一些评论者采纳，主张哈奇森是一种 *质性* 的快乐主义者——一种观点，根据它，有些快乐质量更高，因此在快乐程度相同的情况下更有价值（Edwards 1979: 30；Riley 2008: 275；Strasser 1987: 518；Crisp 2020: 124）[^crisp-2020][^edwards-1979][^riley-2008][^strasser-1987]。而且有些非常引人入胜的段落正表明这一点：
+  - id: 148
+    kind: body
     source: |-
       > As to pleasures of the same kind, ’tis manifest their values are in a joint proportion of their intenseness and duration. In estimating the duration, we not only regard the constancy of the object, or its remaining in our power, and the duration of the sensations it affords, but the constancy of our fancy or relish: for when this changes it puts an end to the enjoyment. In comparing pleasures of different kinds, the value is as the duration and dignity of the kind jointly. We have an immediate sense of a dignity, a perfection, or beatifick quality in some kinds, which no intenseness of the lower kinds can equal, were they also as lasting as we could wish. No intenseness or duration of any external sensation gives it a dignity or worth equal to that of the improvement of the soul by knowledge, or the ingenious arts; and much less is it equal to that of virtuous affections and actions. (*System*, 117)
     step1: |-
       > 至于同一种类的快乐，显然其价值在于其强度与持续时间的联合比例。在估计持续时间时，我们不仅关注对象的恒常性，或其仍在我们权力之下，以及它所给予的感觉的持续时间，而且关注我们幻想或味口的恒常性：因为当这改变时，它结束享受。在比较不同种类的快乐时，价值在于种类的持续时间与尊严的联合。我们对某些种类有一种即时的尊严、完善或至福性质的感觉，没有任何较低种类的强度能与之相比，即使它们也如我们所愿地持久。任何外在感觉的强度或持续时间都不会给它一种等于通过知识或巧妙艺术而使灵魂进步的尊严或价值；更不用说等于有德情感与行动的尊严或价值了。（*System*，117）
     step2: |-
-      > 至于同一种类的快乐，显然其价值在于其强度与持续时间的联合比例。在估计持续时间时，我们不仅关注对象的恒常性，或其仍在我们权力之下，以及它所给予的感觉的持续时间，而且关注我们幻想或味口的恒常性：因为当这改变时，它结束享受。在比较不同种类的快乐时，价值在于种类的持续时间与尊严的联合。我们对某些种类有一种即时的尊严、完善或至福性质的感觉，没有任何较低种类的强度能与之相比，即使它们也如我们所愿地持久。任何外在感觉的强度或持续时间都不会给它一种等于通过知识或巧妙艺术而使灵魂进步的尊严或价值；更不用说等于有德情感与行动的尊严或价值了。（*System*，117）
-
-  - id: 140
+      > 至于同一种类的快乐，显然其价值与其强度和持续时间成联合比例。在估算持续时间时，我们不仅考虑对象的恒常性——或它是否仍在我们掌控之中——以及它所给予感觉的持续时间，还考虑我们想象力或趣味的恒常性：因为后者一旦改变，享受便告终止。在比较不同种类的快乐时，其价值与该种类的持续时间和尊严成联合比例。我们对某些种类有一种关于尊严、完善或至福性质的直接感觉；较低种类的快乐无论多么强烈，都无法与之匹敌，哪怕它们如愿地持久。任何外在感觉，其强度或持续时间所赋予它的尊严或价值，都比不上灵魂因知识或精巧技艺而进步所带来的尊严或价值；更远比不上有德的情感与行动的尊严或价值。（*System*，117）
+  - id: 149
+    kind: body
     source: |-
       Here it would seem that Hutcheson’s justification for treating virtuous conduct as in the interest of the virtuous is as plain as day. In conducting our “reflex Acts” concerning our own virtuous conduct, we trigger our “virtuous affections”, which themselves have a “worth” that no intenseness or duration of any external sensation could match. If we interpret Hutcheson as a qualitative hedonist, the explanation of the benefits one maintains as a result of virtue are straightforward.
     step1: |-
       这里看来，哈奇森把有德行为视为符合有德者利益的正当理由明白如昼。在对我们自己的有德行为进行“反思活动”时，我们触发我们的“有德情感”，它们本身具有任何外在感觉的强度或持续时间都无法匹配的“价值”。如果我们把哈奇森解释为质性快乐主义者，那么一个人因德性而获得的益处的解释就是直接的。
     step2: |-
-      这里看来，哈奇森把有德行为视为符合有德者利益的正当理由明白如昼。在对我们自己的有德行为进行“反思活动”时，我们触发我们的“有德情感”，它们本身具有任何外在感觉的强度或持续时间都无法匹配的“价值”。如果我们把哈奇森解释为质性快乐主义者，那么一个人因德性而获得的益处的解释就是直接的。
-
-  - id: 141
+      在这里，哈奇森把有德之行视为有德者自身利益的理由，似乎昭然若揭。在我们对自己的有德之行进行“反思活动”时，我们触发了“有德的情感”，这种情感本身具有一种“价值”，是任何外在感觉的强度或持续时间都无法匹敌的。如果我们把哈奇森解读为质性快乐主义者（qualitative hedonist），那么对德性之益处的解释便直截了当。
+  - id: 150
+    kind: body
     source: |-
       What is less straightforward is whether or not Hutcheson genuinely is this form of qualitative hedonist. And there is very good reason to doubt it. (Much more detailed argument for this point is available in Dorsey 2010.)[^dorsey-2010] Nowhere in this passage is the “dignity” of a pleasure thought an axiologically significant variable. In the *Essay*, Hutcheson writes explicitly that:
     step1: |-
       不太直接的是哈奇森是否真的是这种形式的质性快乐主义者。而且有很好的理由怀疑。（关于这一点的更详细论证，见 Dorsey 2010。）[^dorsey-2010]在这一段落中，没有任何地方把快乐的“尊严”视为价值论上重要的变量。在《论激情》中，哈奇森明确写道：
     step2: |-
       不太直接的是哈奇森是否真的是这种形式的质性快乐主义者。而且有很好的理由怀疑。（关于这一点的更详细论证，见 Dorsey 2010。）[^dorsey-2010]在这一段落中，没有任何地方把快乐的“尊严”视为价值论上重要的变量。在《论激情》（*Essay*）中，哈奇森明确写道：
-
-  - id: 142
+  - id: 151
+    kind: body
     source: |-
       > The *Value* of any Pleasure, and the *Quantity* or *Moment* of any Pain, is in a compounded proportion of the *Intenseness* and *Duration*. (*Essay*, 87)
     step1: |-
       > 任何快乐的*价值*，以及任何痛苦的*量*或*矩*，在于*强度*和*持续时间*的复合比例。（*Essay*，87）
     step2: |-
-      > 任何快乐的 **价值**，以及任何痛苦的 **量** 或 **矩**，在于 **强度** 和 **持续时间** 的复合比例。（*Essay*，87）
-
-  - id: 143
+      > 任何快乐的 *价值*，以及任何痛苦的 *量* 或 *矩*，在于 *强度* 和 *持续时间* 的复合比例。（*Essay*，87）
+  - id: 152
+    kind: body
     source: |-
       In the *Inquiry*, he seems especially clear that the superiority of the moral sense is quantitative rather than qualitative: it produces “more” pleasure than our other senses (*Inquiry*, 162). Furthermore, while the *System* passage cited above is extremely suggestive when it comes to interpreting Hutcheson as a qualitative hedonist, a mere chapter earlier in the *System* he seems to commit to a straightforward quantitative hedonism:
     step1: |-
       在《探究》中，他尤其清楚地表明，道德感官的优越性是量的而非质的：它比我们其他感官产生“更多”的快乐（*Inquiry*，162）。此外，虽然上面引用的《体系》段落对于把哈奇森解释为质性快乐主义者极具暗示性，但仅在《体系》前一章，他似乎就承诺了一种直接的量的快乐主义：
     step2: |-
       在《探究》（*Inquiry*）中，他尤其清楚地表明，道德感官的优越性是量的而非质的：它比我们其他感官产生“更多”的快乐（*Inquiry*，162）。此外，虽然上面引用的《体系》（*System*）段落对于把哈奇森解释为质性快乐主义者极具暗示性，但仅在《体系》前一章，他似乎就承诺了一种直接的量的快乐主义：
-
-  - id: 144
+  - id: 153
+    kind: body
     source: |-
       > supreme happiness must consist in the most constant enjoyment of the most intense and durable pleasures. (*System*, 100)
     step1: |-
       > 至高的幸福必须在于对最强烈、最持久的快乐的最恒常的享受。（*System*，100）
     step2: |-
       > 至高的幸福必须在于对最强烈、最持久的快乐的最恒常的享受。（*System*，100）
-
-  - id: 145
+  - id: 154
+    kind: body
     source: |-
       On a quantitative reading of Hutcheson’s hedonism, rather than being an axiological guarantee that the pleasures of the moral sense are more valuable, it is simply a matter of psychological fact that human beings take more intense and durable pleasures from the moral sense, sufficient to override whatever joys may be taken in the low road.
     step1: |-
       在对哈奇森快乐主义的量的解读中，与其说这是道德感官的快乐更有价值的价值论保证，不如说这仅仅是心理学事实：人类从道德感官中获得更强烈、更持久的快乐，足以压过任何可能从低级道路中获得的欢乐。
     step2: |-
-      在对哈奇森快乐主义的量的解读中，与其说这是道德感官的快乐更有价值的价值论保证，不如说这仅仅是心理学事实：人类从道德感官中获得更强烈、更持久的快乐，足以压过任何可能从低级道路中获得的欢乐。
-
+      按照对哈奇森快乐主义的量的解读，道德感官的快乐更有价值并非价值论的保证，而只是一个心理学事实：人类从道德感官获得更强烈、更持久的快乐，足以压倒从低级途径中可能得到的任何欢乐。
+  - id: 155
+    kind: oir
+    source: |-
+      - [Francis Hutcheson](https://iep.utm.edu/hutcheso/), entry in the *Internet Encyclopedia of Philosophy*.
+      - [Francis Hutcheson page](https://oll.libertyfund.org/person/francis-hutcheson), at the Online Library of Liberty.
+      - [Francis Hutcheson](http://www.scottishphilosophy.org/philosophers/francis-hutcheson/), short entry at the Institute for the Study of Scottish Philosophy (University of Sioux Falls) website.
+    step1: |-
+      - [弗兰西斯·哈奇森](https://iep.utm.edu/hutcheso/)，《互联网哲学百科全书》词条。
+      - [弗兰西斯·哈奇森页面](https://oll.libertyfund.org/person/francis-hutcheson)，在线自由图书馆。
+      - [弗兰西斯·哈奇森](http://www.scottishphilosophy.org/philosophers/francis-hutcheson/)，苏格兰哲学研究所（苏福尔斯大学）网站的短词条。
+    step2: |-
+      - [弗兰西斯·哈奇森](https://iep.utm.edu/hutcheso/)，《互联网哲学百科全书》（*Internet Encyclopedia of Philosophy*）词条。
+      - [弗兰西斯·哈奇森页面](https://oll.libertyfund.org/person/francis-hutcheson)，在线自由图书馆（Online Library of Liberty）。
+      - [弗兰西斯·哈奇森](http://www.scottishphilosophy.org/philosophers/francis-hutcheson/)，苏格兰哲学研究所（University of Sioux Falls）网站短词条。
+  - id: 156
+    kind: ack
+    source: |-
+      Large thanks are due to Si-won Song for invaluable research assistance. I would also like to thank Mark Timmons for asking me to write this entry.
+    step1: |-
+      在此谨向 Si-won Song 致以诚挚谢意，其研究协助极为宝贵。我还要感谢马克·蒂蒙斯（Mark Timmons）邀请我撰写本词条。
+    step2: |-
+      在此谨向 Si-won Song 致谢——其研究协助至为宝贵。也感谢马克·蒂蒙斯（Mark Timmons），是他邀请我撰写本词条。
+  - id: 157
+    kind: note
+    source: |-
+      [^note-2005]: Note that there is not currently scholarly agreement on the methods by which to cite Hutcheson’s text. To eliminate confusion, then, I have simply cited the pagination of the editions here. While the *Inquiry* and *Essay*’s pagination is not original, the editions cited here are the most readily available and comprehensive critical edition of his works. Insofar as there is no critical edition of the *System*, the pagination of the 2005 text is identical to the original.
+    step1: |-
+      [^note-2005]: 注：关于引用哈奇森文本的方法，学界目前尚无一致意见。为免混淆，本文仅按上述版本的页码引用。《探究》与《论激情》的页码虽非原版页码，但此处所引版本是其著作最易获得且最完备的批评版。《道德哲学体系》既无批评版，2005 年版文本的页码即与原版一致。
+    step2: |-
+      [^note-2005]: 注：关于引用哈奇森文本的方法，学界目前尚无一致意见。为免混淆，本文仅按上述版本的页码引用。《探究》与《论激情》的页码虽非原版页码，但此处所引版本是其著作最易获得、最完备的批评版。《道德哲学体系》既无批评版，2005 年版文本的页码即与原版一致。

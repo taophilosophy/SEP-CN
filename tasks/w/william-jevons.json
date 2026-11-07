@@ -1,0 +1,22 @@
+{
+  "slug": "william-jevons",
+  "kind": "retranslate",
+  "zh_doc": "w/william-jevons.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T08:47:13Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T08:47:12Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 12, 2015",
+    "archive_edition": "Spring 2020",
+    "sha256": "df2e02ea9b9ce56402102b567f197f1bbfc0de26418cc2235c9edd5f8343b636"
+  }
+}

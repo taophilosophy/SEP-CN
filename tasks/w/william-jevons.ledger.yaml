@@ -1,0 +1,340 @@
+version: 1
+slug: william-jevons
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      William Stanley Jevons (1835–1882) was an economist and philosopher who foreshadowed several developments of the 20th century. He is one of the main contributors to the ‘marginal revolution’, which revolutionised economic theory and shifted classical to neoclassical economics. He was the first economist to construct index numbers, and he had a tremendous influence on the development of empirical methods and the use of statistics and econometrics in the social sciences. His philosophy can be seen as a precursor of logical empiricism, but because of the peculiar form of his logic, he would not have many direct followers. His textbooks on logic were widely used in class and reprinted many times.
+    step1: |-
+      威廉·斯坦利·杰文斯（William Stanley Jevons，1835–1882）是一位经济学家兼哲学家，预示了二十世纪的若干发展。他是“边际革命”的主要贡献者之一，这场革命革新了经济理论，使经济学从古典转向新古典。他是第一位编制指数的经济学家，对社会科学中经验方法的发展以及统计学和计量经济学的运用产生了巨大影响。他的哲学可以看作逻辑经验主义的先声，但由于其逻辑形式的独特，他并没有多少直接的追随者。他关于逻辑的教科书在课堂上广泛使用，一再重印。
+    step2: |-
+      威廉·斯坦利·杰文斯（William Stanley Jevons，1835–1882）是一位经济学家兼哲学家，预示了二十世纪的若干发展。他是“边际革命”的主要贡献者之一——这场革命革新了经济理论，推动经济学从古典走向新古典。他是第一位编制指数的经济学家，对社会科学中经验方法的发展以及统计学与计量经济学的运用影响深远。他的哲学可视为逻辑经验主义的先声，但其逻辑形态颇为独特，未曾赢得多少直接追随者。他那几部逻辑教科书在课堂上广为使用，屡屡重印。
+  - id: 2
+    kind: body
+    source: |-
+      ## 1. Biography
+    step1: |-
+      ## 1 生平
+    step2: |-
+      ## 1 生平
+  - id: 3
+    kind: body
+    source: |-
+      William Stanley Jevons was born in Liverpool on 1 September 1835. His father Thomas Jevons (1791–1855) was an iron merchant; his mother Mary Anne Roscoe (1795–1845) grew up in an intellectual and artistic milieu. The railway boom crisis of 1847 caused the bankruptcy of the family firm. William Stanley Jevons went to University College School in London in 1850, and in 1851 to University College. He studied chemistry under Graham and Williamson, two pioneers in the development of atomic theory and the theory of molecular motion. Another major influence at University College was Augustus De Morgan (1806–1871), with his courses on mathematics and logic. Jevons left University College without taking his degree. In 1854 he travelled to Sydney, in order to become an assayer at the Australian mint. Jevons devoted much time to private study. His work covered many different areas: railway policy, meteorology, protection, land policy, cloud formation, gunpowder and lightning, geology, etc. Jevons left Australia in 1859 and returned to University College to complete his education. The early 1860s are important for Jevons' intellectual development, and he reports in his diary that he received significant insights in both economics and logic: a “true comprehension of value” (Black 1981: 120, La Nauze 1953)[^black-1981][^la-1953] and the “substitution of similars” (Black & Könekamp 1972: 179)[^black-1972][^könekamp-1972].
+    step1: |-
+      威廉·斯坦利·杰文斯 1835 年 9 月 1 日生于利物浦。父亲托马斯·杰文斯（Thomas Jevons，1791–1855）是铁器商人；母亲玛丽·安妮·罗斯科（Mary Anne Roscoe，1795–1845）在充满智识与艺术气息的环境中长大。1847 年的铁路繁荣危机导致家族商行破产。杰文斯 1850 年进入伦敦大学学院附中，1851 年升入大学学院。他在格雷厄姆（Graham）与威廉姆森（Williamson）门下学习化学，这二人是原子论和分子运动理论发展的先驱。大学学院的另一位重要影响者是奥古斯都·德摩根（Augustus De Morgan，1806–1871），他开设数学与逻辑课程。杰文斯没有取得学位就离开了大学学院。1854 年他远赴悉尼，出任澳大利亚造币厂的化验师。杰文斯把大量时间用于私人研究，所涉领域甚广：铁路政策、气象学、贸易保护、土地政策、云的形成、火药与闪电、地质学等等。1859 年他离开澳大利亚，回到大学学院完成学业。十九世纪六十年代初对杰文斯的心智发展十分重要，他在日记中自述，在经济学与逻辑两方面都获得了重要洞见：对价值的“真正理解”（Black 1981: 120, La Nauze 1953）[^black-1981][^la-1953]，以及“相似替换”（Black & Könekamp 1972: 179）[^black-1972][^könekamp-1972]。
+    step2: |-
+      威廉·斯坦利·杰文斯 1835 年 9 月 1 日生于利物浦。父亲托马斯·杰文斯（Thomas Jevons，1791–1855）是铁商；母亲玛丽·安妮·罗斯科（Mary Anne Roscoe，1795–1845）在智识与艺术氛围中长大。1847 年的铁路繁荣危机令家族商行破产。1850 年杰文斯进入伦敦大学学院附中，1851 年升入大学学院，在格雷厄姆（Graham）与威廉姆森（Williamson）门下攻读化学——二人是原子论与分子运动理论发展的先驱。大学学院的另一位重要影响者是奥古斯都·德摩根（Augustus De Morgan，1806–1871）及其数学与逻辑课程。杰文斯未取学位便离开了大学学院。1854 年他远赴悉尼，出任澳大利亚造币厂化验师。他投入大量时间私人研读，所涉领域极广：铁路政策、气象学、贸易保护、土地政策、云的形成、火药与闪电、地质学等等。1859 年他离开澳大利亚，回到大学学院完成学业。十九世纪六十年代初对杰文斯的心智发展至关重要：他在日记中自述，在经济学与逻辑两方面都获得了重要洞见——对价值的“真正理解”（Black 1981: 120, La Nauze 1953）[^black-1981][^la-1953]，以及“相似替换”（Black & Könekamp 1972: 179）[^black-1972][^könekamp-1972]。
+  - id: 4
+    kind: body
+    source: |-
+      Jevons received his MA degree in 1862, and was awarded the gold medal ‘in the third branch’ which included logic, moral philosophy, political philosophy, history of philosophy and political economy. In 1863 Jevons became a tutor at Owens College, Manchester, and in 1865 a lecturer in political economy and logic. In 1867 Jevons married Harriet A. Taylor, and they subsequently had three children. The family moved to London in 1876, on his taking up a chair at University College. Jevons' short life came to an end in 1882, when he drowned near Hastings.
+    step1: |-
+      杰文斯于 1862 年获得文学硕士学位，并被授予“第三分支”的金质奖章，该分支包括逻辑学、道德哲学、政治哲学、哲学史与政治经济学。1863 年杰文斯成为曼彻斯特欧文斯学院的助教，1865 年任政治经济学与逻辑学讲师。1867 年杰文斯与哈丽雅特·A·泰勒（Harriet A. Taylor）结婚，此后育有三个子女。1876 年他出任大学学院教授职位，全家迁居伦敦。1882 年，杰文斯在黑斯廷斯附近溺水身亡，短暂的一生就此结束。
+    step2: |-
+      杰文斯于 1862 年获文学硕士学位，并荣获“第三分支”金质奖章——该分支涵盖逻辑学、道德哲学、政治哲学、哲学史与政治经济学。1863 年杰文斯任曼彻斯特欧文斯学院导师，1865 年任政治经济学与逻辑学讲师。1867 年他与哈丽雅特·A·泰勒（Harriet A. Taylor）成婚，此后育有三名子女。1876 年他受聘大学学院讲座教授，全家迁居伦敦。1882 年，杰文斯在黑斯廷斯附近溺水身亡，短暂的一生就此落幕。
+  - id: 5
+    kind: body
+    source: |-
+      ## 2. The Laws of Thought
+    step1: |-
+      ## 2 思维规律
+    step2: |-
+      ## 2 思维规律
+  - id: 6
+    kind: body
+    source: |-
+      Like many representatives of 19ᵗʰ-century logic and philosophy of science, Jevons starts his investigation by examining the nature of the Laws of Thought. Jevons argues that these Laws are true both “in the nature of thought and things”. Given that science is in the mind and not in the things, the Laws of Thought seem to be purely subjective and only verified in the observation of the external world. However, Jevons argues that it is impossible to prove the fundamental laws of logic by reasoning, since they are already presupposed by the notion of a proof. Hence, the Laws of Thought must be presupposed by science as “the prior conditions of all thought and all knowledge”. Furthermore, our thoughts cannot be used as a criterion of truth, since we all know that mistakes are possible and omnipresent. Hence, we need to presuppose objective Laws of Thought in order to discriminate between correct and incorrect reasoning. It follows that Jevons regards the Laws of Thought as objective laws.
+    step1: |-
+      与十九世纪逻辑学与科学哲学的许多代表人物一样，杰文斯从考察思维规律的本质入手展开研究。杰文斯论证说，这些规律无论“在思想的本性中还是在事物的本性中”都为真。既然科学存在于心灵之中而非事物之中，思维规律似乎就是纯主观的，只能在外部世界的观察中得到验证。然而杰文斯指出，用推理来证明逻辑的基本规律是不可能的，因为它们已经被“证明”这一概念所预设。因此，科学必须把思维规律预设为“一切思想与一切知识的先在条件”。此外，我们的思想不能被用作真理的标准，因为谁都知道错误是可能的、无处不在的。因此，我们需要预设客观的思维规律，以便区分正确的推理与错误的推理。由此可见，杰文斯把思维规律看作客观规律。
+    step2: |-
+      与十九世纪逻辑学和科学哲学的许多代表人物一样，杰文斯从考察思维规律的本质入手展开研究。他论证说，这些规律无论在思想还是事物的本性之中都为真。既然科学存在于心灵而非事物之中，思维规律似乎就是纯主观的，只能在外部世界的观察中得到验证。然而杰文斯指出，用推理去证明逻辑的基本规律是不可能的，因为“证明”这一观念本身已经预设了它们。因此，科学必须把思维规律预设为“一切思想与一切知识的先在条件”。此外，我们的思想不能充当真理的标准，因为谁都知道错误是可能的、无处不在的。于是我们必须预设客观的思维规律，才能把正确推理与错误推理区分开来。由此可见，杰文斯把思维规律视为客观规律。
+  - id: 7
+    kind: body
+    source: |-
+      The fundamental mental powers for knowledge acquisition are the power to discriminate, to detect identity and to retain. The fundamental laws of thought are threefold: the Law of Identity, the Law of Contradiction and the Law of Duality. The first law is described as “Whatever is, is” and implies that a thing is always identical with itself. Jevons does not define the concept of “identity”, and tends to regard it as self-evident. The second law is the classical law of contradiction: “A thing cannot both be and not be”. The third law is the law of the excluded middle: “A thing must either be or not be.” Jevons suggests that these three laws are merely different aspects of one and the same Law, but considers it impossible to express this Law in less than three lines. His symbolic representation of these laws is as follows:
+    step1: |-
+      获取知识的基本心智能力是辨别、识别同一与保持。思维的基本规律有三条：同一律、矛盾律与对偶律。第一条规律被表述为“凡是什么，就是什么”（Whatever is, is），意即一物总是与其自身同一。杰文斯没有定义“同一”概念，倾向于视之为自明。第二条规律是经典的矛盾律：“一物不能既是又不是”。第三条规律是排中律：“一物必然或是或不是。”杰文斯提出，这三条规律只是同一条规律的三个不同侧面，但又认为，要用少于三行的文字表达这条规律是不可能的。他用符号表示这些规律如下：
+    step2: |-
+      获取知识的基本心智能力是辨别、识别同一与保持。思维的基本规律有三条：同一律、矛盾律与对偶律。第一条规律表述为“凡是什么，就是什么”（Whatever is, is），意谓一物永远与其自身同一。杰文斯未给“同一”下定义，倾向于把它当作自明之物。第二条规律是经典的矛盾律：“一物不能既是又不是”。第三条规律是排中律：“一物必或是或不是。”杰文斯提出，这三条规律只是同一条规律的三个不同侧面，但他又认为，用少于三行的文字把这条规律表达出来是不可能的。他用符号将这些规律表示如下：
+  - id: 8
+    kind: body
+    source: |-
+      > | (1) | *A* = *A* | Law of Identity |
+      > | --- | --- | --- |
+      > | (2) | *Aa* = 0 | Law of Contradiction |
+      > | (3) | *A* = *AB* ·\|· *Ab* | Law of Duality |
+    step1: |-
+      > | (1) | *A* = *A* | 同一律 |
+      > | --- | --- | --- |
+      > | (2) | *Aa* = 0 | 矛盾律 |
+      > | (3) | *A* = *AB* ·\|· *Ab* | 对偶律 |
+    step2: |-
+      > | (1) | *A* = *A* | 同一律 |
+      > | --- | --- | --- |
+      > | (2) | *Aa* = 0 | 矛盾律 |
+      > | (3) | *A* = *AB* ·\|· *Ab* | 对偶律 |
+  - id: 9
+    kind: body
+    source: |-
+      The absence of a clear definition of ‘identity’ is striking, especially since Jevons recognises that there are different kinds and degrees of sameness. The main problem is then to point out a “sufficient degree of likeness or sameness”. The simplest form of inference is making use of a pattern, proxy, example or sample. If the sample “exactly represents the texture, appearance, and general nature” of a certain commodity, then what is true for the sample will also be true for the commodity as a whole. This approach evades defining similarity, as it presupposes that the sample is an ‘exact representation’ of the commodity whereas it is unclear under what conditions that would be the case. All processes of inference are based on the principle of substitution. All knowledge is derived from sensual experience, which implies that all knowledge is inductive. Deduction is the inverse process of induction, and both rely upon the nature of identity.
+    step1: |-
+      “同一”缺乏清晰定义，这一点格外显眼，尤其是因为杰文斯承认相同性有不同的种类与程度。于是主要问题就变成指出一种“充分的相似或相同程度”。最简单的推理形式是利用样式、代用品、实例或样品。如果样品“完全代表了”某种商品的质地、外观与一般性质，那么对样品为真的东西对整件商品也为真。这种做法回避了对相似性下定义，因为它预设样品是商品的“完全代表”，却不清楚在什么条件下才会如此。一切推理过程都基于替换原理。一切知识都来源于感官经验，这意味着一切知识都是归纳的。演绎是归纳的逆过程，二者都依赖同一的本性。
+    step2: |-
+      “同一”缺乏清晰定义，这一点格外扎眼，尤其因为杰文斯承认相同性有不同的种类与程度。于是，主要问题就变成指出一种“充分的相似或相同程度”。最简单的推理形式是诉诸模型、代用品、实例或样品：如果样品“精确代表”某种商品的质地、外观与一般性质，那么凡对样品为真者，对整件商品也为真。这种做法回避了对相似性下定义，因为它预设样品是商品的“精确代表”，却不清楚在何种条件下才会如此。一切推理过程都立足于替换原理。一切知识都来源于感官经验，这意味着一切知识都是归纳性的。演绎是归纳的逆过程，二者都依赖同一的本性。
+  - id: 10
+    kind: body
+    source: |-
+      ## 3. Logic
+    step1: |-
+      ## 3 逻辑
+    step2: |-
+      ## 3 逻辑
+  - id: 11
+    kind: body
+    source: |-
+      Like many other logicians of the 19ᵗʰ century, Jevons wants to establish clear links between mathematics and logic. He would like to derive mathematics from logic, which is based on the Laws of Thought, and in doing so he makes (a rather controversial) use of mathematical symbols when establishing his logical formalism. Jevons denotes terms by capital letters *A*, *B*, *C*, etc. and their negative counterparts by small italic letters *a,b,c*, etc. The relation of identity or sameness is represented by the sign ‘=’. The expression ‘*A* ~ *B*’ indicates that *A* and *B* are not identical with each other; ‘*A* § *B*’ indicates that there exists any relation between *A* and *B*, which includes but is not restricted to the relations of equality or inequality. The general formula of logical inference implies that from *A* = *B* § *C* we can conclude that *A* § *C*. Jevons defines the concept ‘term’ in his *Pure Logic*: “*Term* will be used to mean *name*, or any combination of names and words describing the qualities and circumstances of a thing”. Jevons distinguishes between the extent and the intent of a term or a name. “The objects denoted form the *extent* of meaning of the term; the qualities implied form the *intent* of meaning”. It follows that extent and intent of meaning are negatively correlated: when more qualities are added to the meaning of a term, less objects will correspond to that meaning. Abstract qualities, denoted by abstract terms, originate when objects are compared and resemblances and differences identified. Abstract terms possess only one kind of meaning. Substantial terms, such as ‘gold’, denote substances. Nothing is denoted by the symbol ‘0’, which in logic means “the non-existent, the impossible, the self-inconsistent, the inconceivable”. Jevons lists several “special laws” which govern the combination of terms. The “Law of Simplicity” implies that a term combined with itself has no effect, hence *A* = *AA* = *AAA* = etc. The law of commutativeness indicates that the order of the combination does not matter, hence *AB* = *BA*, *ABC* = *ACB* = *BCA* = etc.
+    step1: |-
+      与十九世纪许多其他逻辑学家一样，杰文斯想在数学与逻辑之间建立清晰的联系。他想从逻辑推导出数学，而逻辑以思维规律为基础；在建立其逻辑形式体系时，他（颇有争议地）使用了数学符号。杰文斯用大写字母 *A*、*B*、*C* 等表示词项，用小写斜体字母 *a,b,c* 等表示其否定对应项。同一或相同的关系用符号“=”表示。表达式“*A* ~ *B*”表示 *A* 与 *B* 彼此不同一；“*A* § *B*”表示 *A* 与 *B* 之间存在某种关系，这种关系包括但不限于相等或不相等的关系。逻辑推理的一般公式意味着：从 *A* = *B* § *C* 可以得出 *A* § *C*。杰文斯在其《纯逻辑》（*Pure Logic*）中定义了“词项”概念：“*Term* 将用来意指 *name*，或指任何描述一事物之性质与情形的名称与语词的组合”。杰文斯区分了词项或名称的外延与内涵：“所指称的对象构成该词项意义的外延（*extent*）；所蕴含的性质构成意义的内涵（*intent*）”。由此可知，意义的外延与内涵负相关：给一个词项的意义添加的性质越多，与该意义对应的对象就越少。抽象性质由抽象词项指称，产生于对象之间的比较以及相同与差异的辨识。抽象词项只有一种意义。“金子”这样的实体词项指称实体。符号“0”不指称任何东西，它在逻辑中的意思是“不存在者、不可能者、自相矛盾者、不可设想者”。杰文斯列举了支配词项组合的若干“特殊规律”。“简单律”（Law of Simplicity）意味着词项与自身组合没有效果，因此 *A* = *AA* = *AAA* = 等等。交换律表明组合的次序无关紧要，因此 *AB* = *BA*，*ABC* = *ACB* = *BCA* = 等等。
+    step2: |-
+      与十九世纪许多其他逻辑学家一样，杰文斯想在数学与逻辑之间建立清晰的联系：他愿意从逻辑推导出数学，而逻辑以思维规律为基础；在建立逻辑形式体系时，他（颇有争议地）使用了数学符号。杰文斯用大写字母 *A*、*B*、*C* 等表示词项，用小写斜体字母 *a,b,c* 等表示它们的否定对应项。同一或相同的关系由符号“=”表示。表达式“*A* ~ *B*”表示 *A* 与 *B* 彼此不同一；“*A* § *B*”表示 *A* 与 *B* 之间存在某种关系——它包括但不限于相等或不相等的关系。逻辑推理的一般公式意味着：由 *A* = *B* § *C* 可得出 *A* § *C*。杰文斯在其《纯逻辑》（*Pure Logic*）中给出“词项”的定义：“*Term* 将用来意指 *name*，或指任何描述一事物之性质与情形的名称与语词的组合”。杰文斯区分了词项或名称的外延与内涵：“所指对象构成该词项意义的外延（*extent*）；所蕴含的性质构成意义的内涵（*intent*）”。由此可知，意义的外延与内涵负相关：添加到一个词项意义中的性质越多，与该意义对应的对象就越少。抽象性质由抽象词项指称，产生于对象的相互比较以及相同与差异的辨识。抽象词项只具有一种意义。“黄金”之类的实体词项指称实体。符号“0”不指称任何东西，它在逻辑中意谓“不存在者、不可能者、自相矛盾者、不可设想者”。杰文斯列举了支配词项组合的若干“特殊规律”。“简单律”（Law of Simplicity）意味着词项与自身组合不产生任何效果，故 *A* = *AA* = *AAA* = 等等；交换律表明组合次序无关紧要，故 *AB* = *BA*，*ABC* = *ACB* = *BCA* = 等等。
+  - id: 12
+    kind: body
+    source: |-
+      The truths of science are expressed in the form of propositions. “Propositions may assert an identity of time, space, manner, quantity, degree, or any other circumstance in which things may agree or differ” (Jevons 1874: 36)[^jevons-1874]. Simple propositions *A* = *B* express the most elementary judgment regarding identity. The use of the mathematical symbol ‘=’ implies that the distinction between subject and predicate vanishes, which makes quantification of the predicate possible. Several logicians opted for what Jevons calls the “indeterminate adjective” ‘some’, represented symbolically by ‘V’. Jevons rejects the usage of indeterminate symbols and suggests that *A* = V*B* (All *A*s are some *B*s) should be written as *A* = *AB*. Propositions of this kind express an identity between a part of *B* and the whole of *A*.
+    step1: |-
+      科学的真理以命题的形式表达。“命题可以断定时间、空间、方式、数量、程度或事物在其中一致或相异的任何其他情形上的同一”（Jevons 1874: 36）[^jevons-1874]。简单命题 *A* = *B* 表达关于同一的最基本判断。数学符号“=”的使用意味着主项与谓项的区分消失了，这就使谓项的量化成为可能。若干逻辑学家选择了杰文斯所说的“不确定形容词”——“有些”（some），以符号 V 表示。杰文斯拒绝使用不确定符号，主张 *A* = V*B*（所有 *A* 是有些 *B*）应当写作 *A* = *AB*。这类命题表达 *B* 的一部分与 *A* 的全体之间的同一。
+    step2: |-
+      科学的真理以命题的形式来表达。“命题可以断定时间、空间、方式、数量、程度，或事物在其中可能一致或相异的任何其他情形上的同一”（Jevons 1874: 36）[^jevons-1874]。简单命题 *A* = *B* 表达关于同一的最基本的判断。数学符号“=”的使用意味着主项与谓项之分消失，这就使谓项的量化成为可能。若干逻辑学家选择了杰文斯所谓的“不确定形容词”，即“有些”（some），以符号 V 表示。杰文斯拒绝使用不确定符号，主张 *A* = V*B*（所有 *A* 都是有些 *B*）应当写作 *A* = *AB*。这类命题表达的是 *B* 的一部分与 *A* 的全体之间的同一。
+  - id: 13
+    kind: body
+    source: |-
+      Direct inference consists of applying the ‘substitution of similars’ to certain premises in order to arrive at logical conclusions. Jevons lists several forms of inference:
+    step1: |-
+      直接推理就是把“相似替换”应用于某些前提以得出逻辑结论。杰文斯列举了若干推理形式：
+    step2: |-
+      直接推理就是把“相似替换”（the substitution of similars）应用于某些前提，从而得出逻辑结论。杰文斯列举了推理的若干形式：
+  - id: 14
+    kind: body
+    source: |-
+      - immediate inference (*A*=*B* implies *AC*=*BC*);
+      - inference with two simple identities (*B*=*A* and *B*=*C* imply *A*=*C*);
+      - with a simple and a partial identity (*A* = *B* and *B* = *BC* imply *A* = *AC*);
+      - of a partial from two partial identities (*A* = *AB* and *B* = *BC* imply *A* = *ABC*);
+      - of a simple from two partial identities (*A* = *AB* and *B* = *AB* imply *A* = *B*);
+      - of a limited from two partial identities (*B* = *AB* and *B* = *CB* imply *AB* = *CB*);
+      - and miscellaneous forms of deductive inference.
+    step1: |-
+      - 直接推理（*A*=*B* 蕴含 *AC*=*BC*）；
+      - 由两个简单同一出发的推理（*B*=*A* 且 *B*=*C* 蕴含 *A*=*C*）；
+      - 由一个简单同一与一个部分同一出发的推理（*A* = *B* 且 *B* = *BC* 蕴含 *A* = *AC*）；
+      - 从两个部分同一得出部分同一的推理（*A* = *AB* 且 *B* = *BC* 蕴含 *A* = *ABC*）；
+      - 从两个部分同一得出简单同一的推理（*A* = *AB* 且 *B* = *AB* 蕴含 *A* = *B*）；
+      - 从两个部分同一得出有限同一的推理（*B* = *AB* 且 *B* = *CB* 蕴含 *AB* = *CB*）；
+      - 以及演绎推理的种种其他形式。
+    step2: |-
+      - 直接推理（*A*=*B* 蕴含 *AC*=*BC*）；
+      - 由两个简单同一出发的推理（*B*=*A* 且 *B*=*C* 蕴含 *A*=*C*）；
+      - 由一个简单同一与一个部分同一出发的推理（*A* = *B* 且 *B* = *BC* 蕴含 *A* = *AC*）；
+      - 由两个部分同一得出部分同一的推理（*A* = *AB* 且 *B* = *BC* 蕴含 *A* = *ABC*）；
+      - 由两个部分同一得出简单同一的推理（*A* = *AB* 且 *B* = *AB* 蕴含 *A* = *B*）；
+      - 由两个部分同一得出有限同一的推理（*B* = *AB* 且 *B* = *CB* 蕴含 *AB* = *CB*）；
+      - 以及演绎推理的其他种种形式。
+  - id: 15
+    kind: body
+    source: |-
+      Jevons indicates that traditional syllogistic forms such as Barbara, Celarent, Darii etc. can be represented easily in his logical system. It is also convenient to represent more complicated cases, such as inferences derived from more than two premises.
+    step1: |-
+      杰文斯指出，Barbara、Celarent、Darii 等传统三段论形式可以轻易地在他的逻辑系统中得到表示。表示更复杂的情形也很方便，例如从多于两个前提出发的推理。
+    step2: |-
+      杰文斯指出，Barbara、Celarent、Darii 等传统三段论形式在他的逻辑系统中可以轻易得到表示；表示更复杂的情形同样便利，例如由多于两个前提导出的推理。
+  - id: 16
+    kind: body
+    source: |-
+      Disjunctive propositions are used whenever an abstract term is ‘developed’ in its constituent parts or subclasses – whenever the extent of meaning of a term is explored. In order to represent disjunctive propositions, Jevons suggests to use the symbol ‘·|·’. The words ‘and’ and ‘or’, used in everyday language, can denote exclusive or inexclusive alternatives, but Jevons' symbol ‘·|·’ refers to alternatives that are not exclusive. The law of unity, *A* ·|· *A* = *A*, reveals an imperfect analogy between mathematics and logic. In his earliest work on logic Jevons used the symbol ‘+’ instead of ‘·|·’, but in *The Principles of Science* he recognises that the analogy between logic and mathematics is imperfect. Contemporaries such as Boole and Robertson were very critical towards Jevons's use of mathematical symbols in logic.
+    step1: |-
+      每当一个抽象词项在其构成部分或子类中被“展开”——即每当一个词项意义的外延得到探究——就要使用选言命题。为表示选言命题，杰文斯建议使用符号“·|·”。日常语言中的“并且”与“或者”可以表示相斥或不相斥的选项，但杰文斯的符号“·|·”所指的选项是不相斥的。统一律 *A* ·|· *A* = *A* 揭示了数学与逻辑之间并不完美的类比。在其最早的逻辑著作中，杰文斯用符号“+”代替“·|·”，但在《科学的原则》（*The Principles of Science*）中他承认逻辑与数学之间的类比并不完美。布尔与罗伯逊（Robertson）等同代人对他把数学符号用于逻辑的做法批评甚烈。
+    step2: |-
+      凡抽象词项在其构成部分或子类中得到“展开”之时——亦即凡探究一个词项意义的外延之时——就要使用选言命题。为表示选言命题，杰文斯建议使用符号“·|·”。日常语言中的“并且”与“或者”可以表示相斥或不相斥的选项，而杰文斯的符号“·|·”所指的选项则是不相斥的。统一律 *A* ·|· *A* = *A* 揭示了数学与逻辑之间的一种不完美的类比。在其最早的逻辑著作中，杰文斯用符号“+”代替“·|·”，但在《科学的原则》（*The Principles of Science*）中他承认逻辑与数学之间的类比并不完美。布尔与罗伯逊（Robertson）等同代人对他把数学符号用于逻辑的做法提出了尖锐批评。
+  - id: 17
+    kind: body
+    source: |-
+      Indirect inference or indirect deduction consists of pointing out “what a thing is, by showing that it cannot be anything else”. According to Jevons this is an important method, since “nearly half our logical conclusions rest upon its employment”. The simplest form of indirect inference starts from *A* = *AB*. The law of duality implies that *b* = *Ab* ·|· *ab*, or by substitution *b = ABb* ·|· *ab*. Since *ABb* = 0 (a contradiction), it follows that *b* = *ab*. Hence, if a metal is an element, it follows that a non-element is a non-metal. Jevons refers to this conclusion as the “contrapositive proposition” of the original. The contrapositive of a simple identity *A* = *B* is *a* = *ab*, and since *A* = *B* implies *B* = *A* it also follows that *b* = *ab*. The two contrapositives taken together let us conclude that *a* = *b*. The method of indirect inference can be used to describe a class of objects or a term, given certain conditions. The class is first of all ‘developed’ using the law of duality, then alternative expressions taken from the premises are substituted, and finally all contradictory alternatives are scrapped. The remaining terms may be equated to the term in question.
+    step1: |-
+      间接推理或间接演绎在于指出“一物是什么，办法是表明它不可能是任何别的东西”。在杰文斯看来这是一种重要的方法，因为“我们的逻辑结论几乎有一半依赖于对它的运用”。间接推理的最简单形式从 *A* = *AB* 出发。对偶律蕴含 *b* = *Ab* ·|· *ab*，经替换得 *b = ABb* ·|· *ab*。由于 *ABb* = 0（矛盾），所以 *b* = *ab*。因此，如果金属是元素，那么非元素就是非金属。杰文斯把这一结论称作原命题的“换质位命题”（contrapositive proposition）。简单同一 *A* = *B* 的换质位是 *a* = *ab*，而由于 *A* = *B* 蕴含 *B* = *A*，所以也有 *b* = *ab*。把两个换质位合在一起，我们得出 *a* = *b*。在给定某些条件时，间接推理方法可以用来刻画一类对象或一个词项。先用对偶律把该类“展开”，然后代入取自前提的备选表达式，最后把所有矛盾的备选项剔除。剩下的词项便可以与所讨论的词项相等。
+    step2: |-
+      间接推理或间接演绎的要点在于指出“一物是什么——办法是表明它不可能是任何别的东西”。在杰文斯看来这是一种重要方法，因为“我们的逻辑结论几乎有一半依赖于对它的运用”。间接推理的最简单形式从 *A* = *AB* 出发。由对偶律可得 *b* = *Ab* ·|· *ab*，经替换得 *b = ABb* ·|· *ab*；由于 *ABb* = 0（矛盾），故 *b* = *ab*。于是，如果金属是元素，那么非元素就是非金属。杰文斯把这一结论称作原命题的“换质位命题”（contrapositive proposition）。简单同一 *A* = *B* 的换质位是 *a* = *ab*，而 *A* = *B* 蕴含 *B* = *A*，故亦有 *b* = *ab*。两个换质位合观，即可得出 *a* = *b*。在给定某些条件时，间接推理方法可用于刻画一类对象或一个词项：先用对偶律把该类“展开”，继而代入取自前提的备选表达式，最后剔除所有矛盾的备选项。剩下的词项便可与所讨论的词项相等。
+  - id: 18
+    kind: body
+    source: |-
+      Jevons introduces the logical alphabet – a series of combinations that can be formed with a given set of terms. For instance, *A* and *B* produce the four combinations *AB*, *Ab*, *aB* and *ab*. Using the logical alphabet, logic becomes simply an exercise of fully developing all terms and eliminating the contradictory terms. However, when the amount of letters increases, the amount of possible combinations becomes considerable. Jevons considers some techniques and devices to facilitate these endeavours, such as a ‘Logical slate’ (the logical alphabet engraved upon a school writing slate). Nevertheless, when more than six terms are involved, it becomes almost impossible to solve the problem. To facilitate this kind of reasoning Jevons developed a logical abacus, which operates on simple mechanical principles. It can be seen as one of the first computers.
+    step1: |-
+      杰文斯引入了逻辑字母表——由一组给定的词项可以形成的诸组合的系列。例如，*A* 与 *B* 产生四种组合：*AB*、*Ab*、*aB* 与 *ab*。使用逻辑字母表，逻辑就单纯成为一项把所有词项充分展开、再把矛盾词项消去的练习。然而，字母数目增加时，可能组合的数量会变得相当可观。杰文斯考虑过一些便利此类工作的技术与装置，例如“逻辑石板”（Logical slate，把逻辑字母表刻在学校用的书写石板上）。不过，一旦涉及六个以上的词项，问题就几乎不可能求解了。为便于这类推理，杰文斯研制了一台按简单机械原理运作的逻辑算盘（logical abacus）。它可以看作最早的计算机之一。
+    step2: |-
+      杰文斯引入了“逻辑字母表”（logical alphabet）——由一组给定词项可以构成的诸组合的系列。例如，*A* 与 *B* 产生四种组合：*AB*、*Ab*、*aB* 与 *ab*。借助逻辑字母表，逻辑单纯成了一项练习：把所有词项充分展开，再把矛盾词项一一消去。然而，随着字母数目增加，可能组合的数量会变得相当可观。杰文斯考虑过一些便于此类工作的技术与装置，例如“逻辑石板”（Logical slate，即把逻辑字母表刻在学校用的书写石板上）。不过，一旦涉及的词项超过六个，问题就几乎无从求解了。为便于这类推理，杰文斯研制了一台按简单机械原理运作的逻辑算盘（logical abacus）——它可算作最早的计算机之一。
+  - id: 19
+    kind: body
+    source: |-
+      Induction is the inverse process of deduction, but it is a much more complicated mode of reasoning. Induction proceeds according to certain rules of thumb, trial and error, and past attempts. Induction of simple identities becomes very complex as soon as more than just a few terms are involved. Induction of partial identities starts from a certain premise in disjunctive form *A* = *B* ·|· *C* ·|· *D* ·|· … ·|· *P* ·|· *Q*, and then we need propositions that ascribe a certain property to all individuals: *B* = *BX*, *C* = *CX*, …, *Q* = *QX*. Substituting and rearranging yield the desired result *A* = *AX*. According to Jevons this is the most important scientific procedure, as “a great mass of scientific truths consists of propositions of this form *A* = *AB*”. Jevons recognises the problem of induction — that we can never be sure to predict the future based on past knowledge. Jevons needs to bring in principles of number and theory of probability to deal with this matter.
+    step1: |-
+      归纳是演绎的逆过程，但它是远为复杂的推理方式。归纳按照某些经验法则、试错与既往尝试进行。简单同一的归纳一旦涉及稍多的词项就变得非常复杂。部分同一的归纳从某个选言形式的前提 *A* = *B* ·|· *C* ·|· *D* ·|· … ·|· *P* ·|· *Q* 出发，然后我们需要把某种性质归于所有个体的命题：*B* = *BX*、*C* = *CX*、…、*Q* = *QX*。代入并重排就得到想要的结果 *A* = *AX*。在杰文斯看来这是最重要的科学程序，因为“大量科学真理都由 *A* = *AB* 这种形式的命题构成”。杰文斯认识到归纳问题——我们永远无法确保基于过去的知识来预测未来。杰文斯需要引入数的原则与概率论来处理这个问题。
+    step2: |-
+      归纳是演绎的逆过程，却是一种远为复杂的推理方式。归纳按某些经验法则、试错与既往尝试来进行。简单同一的归纳一旦涉及稍多的词项就会变得非常复杂。部分同一的归纳从某个选言形式的前提 *A* = *B* ·|· *C* ·|· *D* ·|· … ·|· *P* ·|· *Q* 出发，继而需要把某种性质归于所有个体的命题：*B* = *BX*、*C* = *CX*、…、*Q* = *QX*。代入并重排，便得到想要的结果 *A* = *AX*。在杰文斯看来，这是最重要的科学程序，因为“大量科学真理都由 *A* = *AB* 这种形式的命题构成”。杰文斯认识到归纳问题之所在——我们永远无法确保凭过去的知识预测未来。为处理这一问题，杰文斯需要引入数的原则与概率论。
+  - id: 20
+    kind: body
+    source: |-
+      ## 4. Philosophy of Mathematics, Theory of Probability and Statistics
+    step1: |-
+      ## 4 数学哲学、概率论与统计学
+    step2: |-
+      ## 4 数学哲学、概率论与统计学
+  - id: 21
+    kind: body
+    source: |-
+      Jevons' principles of number reflect his insistence that mathematics should be based on logic, not the other way round. He occupies a somewhat contradictory position in the history of logic, since his formalism was inspired by the works of Boole, who gave mathematics priority over logic. Jevons attempts to define ‘number’ by counting ‘units’ in space or time. When counting coins, every coin should receive a proper name: we should count *C*′ + *C*″ + *C*′′′ + *C*′′′′ + … The coins are equal to each other (they all belong to the class *C*); they are different only because they reside on different points in space. Before counting, we should reduce all identical alternatives; the remaining ‘units’ reside on different points in space and time. “A unit is any object of thought which can be discriminated from every other object treated as a unit in the same problem” (Jevons 1874: 157)[^jevons-1874]. The concept of ‘unit’ encounters some severe difficulties, as noted by Frege. We can only add up *C*s that are identical, but they cannot denote different things if the same symbol *C* is used. Jevons was unable to resolve this contradiction.
+    step1: |-
+      杰文斯的数的原则反映出他坚持数学应当以逻辑为基础，而不是相反。他在逻辑史上占据着一个多少自相矛盾的位置，因为他的形式体系受布尔著作的启发，而布尔把数学置于逻辑之先。杰文斯试图通过清点空间或时间中的“单元”来定义“数”。数硬币时，每枚硬币都应得到一个专名：我们应当数 *C*′ + *C*″ + *C*′′′ + *C*′′′′ + …。这些硬币彼此相等（它们都属于类 *C*）；它们之所以不同，只是因为位于空间中的不同点。数数之前，我们应当化归所有相同的备选项；剩下的“单元”位于空间和时间中的不同点。“单元是任何一个思想对象，它可以与同一问题中被当作单元的所有其他对象区分开来”（Jevons 1874: 157）[^jevons-1874]。“单元”概念遇到了一些严重的困难，弗雷格指出了这一点。我们只能加总彼此相同的那些 *C*，但如果使用同一个符号 *C*，它们就无法指称不同的东西。杰文斯未能解决这一矛盾。
+    step2: |-
+      杰文斯的数的原则反映出他坚持数学应当以逻辑为基础，而非相反。他在逻辑史上占据着一个多少自相矛盾的位置：他的形式体系受布尔著作的启发，而布尔恰恰把数学置于逻辑之先。杰文斯试图通过清点空间或时间中的“单元”（units）来定义“数”。数硬币时，每枚硬币都应得到一个专名：我们应当数 *C*′ + *C*″ + *C*′′′ + *C*′′′′ + …。这些硬币彼此相等（它们都属于类 *C*）；它们之所以互不相同，只是因为位于空间中的不同点上。数数之前，应当先化归所有相同的备选项；余下的“单元”则位于空间与时间中的不同点上。“所谓单元，是指在同一问题中能够与每一个其他被当作单元的对象区分开来的任何思想对象”（Jevons 1874: 157）[^jevons-1874]。“单元”概念遭遇到一些严重的困难，弗雷格已指出这一点：我们只能加总彼此相同的那些 *C*，可若使用同一个符号 *C*，它们就无法指称不同的东西。杰文斯未能化解这一矛盾。
+  - id: 22
+    kind: body
+    source: |-
+      Given these problems, the role and importance of Jevons' system of logic and philosophy of mathematics seems to be small. It appears to be limited to a pedagogical aspect: Jevons' writings on logic, such as his *Elementary Lessons in Logic*, were widely used as textbooks and saw numerous reprints, up to decades after his death. This appraisal would not, however, do justice to Jevons' most important achievement: the introduction of statistics and econometrics in the social sciences and the use of empirical data.
+    step1: |-
+      鉴于这些问题，杰文斯的逻辑体系与数学哲学的作用和重要性似乎很小。它似乎仅限于教学的一面：杰文斯关于逻辑的著述，例如他的《逻辑学基础教程》（*Elementary Lessons in Logic*），曾被广泛用作教科书并重印无数次，直至他去世后数十年。然而，这一评价对杰文斯最重要的成就并不公允：把统计学与计量经济学引入社会科学，以及对经验数据的运用。
+    step2: |-
+      鉴于这些问题，杰文斯的逻辑体系与数学哲学的作用和重要性似乎不大，似乎仅限于教学一面：他关于逻辑的著述，如《逻辑学基础教程》（*Elementary Lessons in Logic*），曾被广泛用作教科书，重印无数，直至他去世数十年之后。然而，这一评价对杰文斯最重要的成就并不公允——那就是把统计学与计量经济学引入社会科学，以及对经验数据的运用。
+  - id: 23
+    kind: body
+    source: |-
+      Statisticians in the first part of the 19th century were concerned with the collection of data, but not with analysis. The data suggested too many different causes. Statistical journals published tables and numbers, but graphical representations and analysis remained absent. In 1863 Jevons published *A Serious Fall in the Value of Gold*, which investigated the influence of Australian and Californian gold discoveries of 1851 on the value of gold. For this purpose he constructed index numbers making use of the geometric mean. He argued that multiplicative disturbances will be balanced off against each other when using the geometric mean. There is however no empirical verification of this ‘multiplicative disturbances’ hypothesis. Aldrich (1987) argues that Jevons used probability in two main patterns of argument: in the determination whether events result from certain causes or are rather coincidences, and in the method of the least squares. The first approach entails the application of the ‘inverse method’ in induction: if many observations suggest regularity, then it becomes highly improbable that these result from mere coincidence. The second approach, the method of the least squares, appears when Jevons tries to adjudge weights to commodities (giving more weight to commodities that are less vulnerable to price fluctuations), and when he tries to fit empirical laws starting from an a priori reasoning about the form of the equation. These methods show at least some concern for probability and the theory of errors. But Jevons worked on the limits of his mathematical understanding, and many ideas that he foreshadowed were not developed until decades after his death.
+    step1: |-
+      十九世纪上半叶的统计学家关心数据的收集，而不关心分析。数据暗示的原因太多了。统计学期刊发表表格和数字，图形表示与分析则付之阙如。1863 年杰文斯发表《金价的严重下跌》（*A Serious Fall in the Value of Gold*），考察 1851 年澳大利亚与加利福尼亚金矿的发现对金价的影响。为此他利用几何平均编制了指数。他论证说，使用几何平均时，乘性扰动会彼此平衡。然而这一“乘性扰动”假说并无经验验证。奥尔德里奇（Aldrich 1987）指出，杰文斯在两类主要论证模式中使用了概率：判定事件究竟源于某些原因还是纯属巧合，以及最小二乘法。第一种进路应用了归纳中的“逆方法”：如果大量观测提示规律性，那么这些结果出于纯粹巧合就变得极不可能。第二种进路即最小二乘法，出现在杰文斯试图为商品确定权重之时（给不易受价格波动影响的商品更大的权重），也出现在他试图从关于方程形式的先验推理出发拟合经验定律之时。这些方法至少显示出对概率与误差理论的某种关注。但杰文斯是在其数学理解力的极限上工作的，他预示的许多观念直到他去世数十年后才得到发展。
+    step2: |-
+      十九世纪上半叶的统计学家关心数据的收集，却不关心分析：数据暗示的原因太过多样。统计学期刊发表表格与数字，图形表示与分析则付之阙如。1863 年杰文斯发表《金价的严重下跌》（*A Serious Fall in the Value of Gold*），考察 1851 年澳大利亚与加利福尼亚金矿的发现对金价的影响。为此，他利用几何平均编制了指数，并论证说，使用几何平均时，乘性扰动会彼此抵消。然而，这一“乘性扰动”假说并无经验验证。奥尔德里奇（Aldrich 1987）指出，杰文斯在两类主要论证模式中使用了概率：一是判定事件究竟源于某些原因还是纯属巧合，二是最小二乘法。第一种进路应用归纳中的“逆方法”（inverse method）：如果大量观测都提示规律性，那么这些观测出于纯粹巧合就变得极不可能。第二种进路即最小二乘法，出现在杰文斯试图为商品确定权重之时（给不易受价格波动影响的商品更大的权重），也出现在他试图从关于方程形式的先验推理出发拟合经验定律之时。这些方法至少显示出对概率与误差理论的关注。但杰文斯是在其数学理解力的极限上工作的，他所预示的许多观念直到他去世数十年后才得到发展。
+  - id: 24
+    kind: body
+    source: |-
+      Jevons' use of statistics in the social sciences was inspired by Adolphe Quetelet. Jevons distinguishes between a ‘mean’ (the approximation of a definite existing quantity) and an ‘average’ or ‘fictitious mean’ (an arithmetical average). The fictitious mean is important, since it allows us to ‘conceive in a single result a multitude of details’. For instance, Jevons equates aggregate and average consumption: provided that the community under consideration is large enough, the average consumption of the aggregate community will vary continuously due to price changes, whereas individual behaviour is strongly affected by accidents. If all individuals had exactly the same features (those relevant for consumption), then the average laws of supply and demand would be equal to the conduct of every individual. If however the “powers, wants, habits, and possessions” of different people were widely different, then the average would not represent “the character of any existing thing”. The accidents would cancel each other out and a certain ‘typical’ consumer would emerge. Although this is clearly a case of a fictitious mean, it would not be less useful: “the movements of trade and industry depend upon averages and aggregates, not upon the whim of individuals”.
+    step1: |-
+      杰文斯在社会科学中对统计学的运用受到阿道夫·凯特勒（Adolphe Quetelet）的启发。杰文斯区分了“均值”（对某一确定存在量的逼近）与“平均数”或“虚构均值”（算术平均）。虚构均值很重要，因为它使我们能够“在单一结果中构想大量的细节”。例如，杰文斯把总消费与平均消费等同起来：只要所考察的共同体足够大，总共同体的平均消费就会因价格变化而连续变动，而个体行为则深受偶然事件的影响。如果所有个体恰好具有相同的（与消费相关的）特征，那么供需的平均规律就会等同于每个个体的行为。然而，如果不同人的“能力、欲求、习惯与财产”差别悬殊，平均数就不能代表“任何现存事物的性质”。偶然事件会相互抵消，从而浮现出某种“典型的”消费者。虽然这显然是虚构均值的一个案例，它的用处却不因此稍减：“贸易与工业的运行依赖于平均数和总量，而不依赖于个人的心血来潮”。
+    step2: |-
+      杰文斯在社会科学中对统计学的运用受到阿道夫·凯特勒（Adolphe Quetelet）的启发。杰文斯区分了“均值”（mean，对某个确定存在量的逼近）与“平均数”或“虚构均值”（fictitious mean，算术平均）。虚构均值很重要，因为它使我们能够“在单一结果中构想大量的细节”。例如，杰文斯把总消费与平均消费等同起来：只要所考察的共同体足够大，总共同体的平均消费就会随价格变化而连续变动，个体行为则深受偶然事件的影响。倘若所有个体恰好具有（与消费相关的）相同特征，那么供需的平均规律就会等同于每个人的行为。然而，倘若不同人的“能力、欲求、习惯与财产”差别悬殊，平均数就无法代表“任何现存事物的性质”。种种偶然事件会相互抵消，某种“典型的”消费者便由此浮现。虽然这显然是虚构均值的一个案例，它的用处却不因此稍减：“贸易与工业的运行依赖于平均数和总量，而不依赖于个人的心血来潮”。
+  - id: 25
+    kind: body
+    source: |-
+      Jevons thus recognizes that people are not homogeneous and that it would be wrong to create ‘representative agents’ depicting individual behaviour. In the case of large aggregates however, disturbing causes would cancel each other out. Here Jevons brings in the large number argument. If however specific policy questions are at stake, the heterogeneity of different societal subgroups has to be accounted for. Jevons uses the concept of ‘character’ in order to bridge the gap between universal theory and characteristics of specific subgroups in society, as we will see in the next section.
+    step1: |-
+      杰文斯由此认识到，人不是同质的，构造描绘个体行为的“代表性行为者”是错误的。然而，在大的总量的情形中，干扰性原因会相互抵消。杰文斯在这里引入了大数论证。然而，一旦涉及具体的政策问题，不同社会子群体的异质性就必须得到考虑。杰文斯用“品性”概念来弥合普遍理论与社会中特定子群体特征之间的鸿沟，下一节将看到这一点。
+    step2: |-
+      杰文斯由此认识到，人并非同质，构造描绘个体行为的“代表性行为者”（representative agents）是错误的。不过，在大的总量情形中，干扰性原因会相互抵消——杰文斯在此引入了大数论证。然而，一旦涉及具体的政策问题，不同社会子群体的异质性就必须得到考虑。杰文斯用“品性”（character）概念弥合普遍理论与社会中特定子群体特征之间的鸿沟——下一节将看到这一点。
+  - id: 26
+    kind: body
+    source: |-
+      ## 5. Philosophy of Economics
+    step1: |-
+      ## 5 经济学哲学
+    step2: |-
+      ## 5 经济学哲学
+  - id: 27
+    kind: body
+    source: |-
+      Jevons seems to be a mathematical, deductive economist. Market prices are derived directly from a series of fundamental motive forces, such as “the mechanics of utility and self-interest”. Markets are depicted in the most abstract fashion and economic agents are perfectly rational, perfectly foresighted and in possession of perfect information. A perfectly rational human being would anticipate future feelings and include discounted future utility in his calculations. However, this ability varies according to certain circumstances, as there are “the intellectual standing of the race, or the character of the individual” (Jevons 1879: 34)[^jevons-1879]. The ability of foresight depends on the state of civilisation: the class or race with the most foresight will work most for the future, because a powerful feeling for the future is the main incentive to industry and saving. Moreover, even the ‘quality’ of tastes increases with every improvement of civilisation. Jevons' conception of an economic agent should therefore be altered according to the institutional setting in which the agent appears (the class or race to which the individual belongs).
+    step1: |-
+      杰文斯看上去是一位数学化的、演绎的经济学家。市场价格直接从一系列基本动力推出，例如“效用与自利的力学”。市场以最抽象的方式得到描绘，经济行为者完全理性、完全有远见并拥有完备信息。一个完全理性的人会预见未来的感受，并把折现的未来效用计入其计算。然而，这种能力随某些情形而变化，例如“种族的智识地位，或个人的品性”（Jevons 1879: 34）[^jevons-1879]。远见能力取决于文明的状态：最有远见的阶级或种族最肯为未来劳作，因为对未来的强烈感情是勤劳与储蓄的主要激励。此外，连趣味的“品质”也随文明的每一次改进而提高。因此，杰文斯的经济行为者概念应当随行为者所处的制度环境（个人所属的阶级或种族）而调整。
+    step2: |-
+      杰文斯看上去是一位数学化的、演绎的经济学家：市场价格直接从一系列基本动力推出，例如“效用与自利的力学”；市场以最抽象的方式得到描绘，经济行为者完全理性、完全有远见、拥有完备信息。一个完全理性的人会预见未来的感受，并把折现后的未来效用计入自己的计算。然而，这种能力随某些情形而变化，例如“种族的智识地位，或个人的品性”（Jevons 1879: 34）[^jevons-1879]。远见能力取决于文明的状态：最有远见的阶级或种族最肯为未来劳作，因为对未来的强烈感情是勤劳与储蓄的主要动因。此外，连趣味的“品质”也随文明的每一次进步而提高。因此，杰文斯的经济行为者概念应当随行为者所处的建制环境（个人所属的阶级或种族）而调整。
+  - id: 28
+    kind: body
+    source: |-
+      Michael White elaborates on Jevons' use of the concepts of ‘character’ (White 1994a)[^white-1994a], ‘gender’ (White 1994b)[^white-1994b] and ‘race’ (White 1993)[^white-1993]. Jevons' work was not directed to the explanation of the behaviour of specific individuals per se, unless these individuals were representative for all market participants of a certain uniform character. The science of economics deals with the lowest motives, and the *Theory* contains ‘representative individuals’, which behave in the way required by the *Theory*. All economic actors do not have to behave in exactly the same way, but disturbing causes would balance and therefore the ‘representative individual’ may be an appropriate model for the *Theory*. The theory is however indeterminate in cases when more information is required. For example, it is unclear whether an increase in the real wage rate, proportionate to an increase in labour productivity, results in increased or reduced hours of work. More information about the ‘character’ of the person under consideration is required: whereas learned professionals might be expected to work more severely, common labourers might prefer idleness over labour and prefer greater ‘ease’ in the case of rising real incomes. Irish labourers are said to be responsible for the higher mortality rates in several districts, because Jevons considered the Irish to be a race that would become more easily subject to drunkenness. The proper place of women is the home: women with children younger than three years should not be allowed to work, as this would only give rise no a neglect of the children, and would encourage the males to choose for idleness. In all these cases, the characters of labourers, Irish people or women are taken for granted, and are not in need of further explanation. The Victorian middle-class is used as a yardstick for evaluation.
+    step1: |-
+      迈克尔·怀特（Michael White）详细阐述了杰文斯对“品性”（White 1994a）[^white-1994a]、“性别”（White 1994b）[^white-1994b]与“种族”（White 1993）[^white-1993]概念的运用。杰文斯的工作并不是要解释特定个体本身的行为，除非这些个体对具有某种一致品性的全体市场参与者具有代表性。经济学科学处理最低等的动机，《政治经济学理论》（下称《理论》）中的“代表性个体”按《理论》所要求的方式行事。并非所有经济行为者都必须以恰好相同的方式行事，但干扰性原因会彼此平衡，因此“代表性个体”可以是《理论》的恰当模型。然而，在需要更多信息的情形中，这个理论是不确定的。例如，实际工资率的提高与劳动生产率的提高成比例时，工时究竟会增加还是减少，并不清楚。这需要关于所考虑者的“品性”的更多信息：有学识的专业人士大概会工作得更勤勉，普通劳动者却可能宁要闲暇而不要劳动，在实际收入上升时偏好更大的“安逸”。据说若干地区死亡率较高应归咎于爱尔兰劳工，因为杰文斯认为爱尔兰人是一个更容易染上酗酒习气的种族。妇女的正当位置是家庭：有不满三岁孩子的妇女不应被允许工作，因为这只会导致对子女的忽视，还会鼓励男性选择闲散。在所有这些情形中，劳动者、爱尔兰人或妇女的品性都被视为理所当然，无需进一步解释。维多利亚时代的中产阶级被用作评判的标尺。
+    step2: |-
+      迈克尔·怀特（Michael White）详细阐述了杰文斯对“品性”（White 1994a）[^white-1994a]、“性别”（White 1994b）[^white-1994b]与“种族”（White 1993）[^white-1993]概念的运用。杰文斯的工作并非要解释特定个体本身的行为，除非这些个体对具有某种一致品性的全体市场参与者具有代表性。经济学这门科学处理的是最低等的动机，《政治经济学理论》（下称《理论》）中的“代表性个体”按《理论》所要求的方式行事。并非所有经济行为者都必须以恰好相同的方式行事，但干扰性原因会彼此抵消，因此“代表性个体”可以是《理论》的恰当模型。然而，一旦需要更多信息，这个理论便是不确定的。例如，实际工资率的提高与劳动生产率的提高成比例时，工时究竟会增加还是减少，并不清楚。这需要更多关于所考虑者之“品性”的信息：有学识的专业人士大概会工作得更加勤勉，普通劳动者却可能宁要闲暇而不要劳动，在实际收入上升时更偏好“安逸”。据说若干地区死亡率较高应归咎于爱尔兰劳工，因为杰文斯认为爱尔兰人是一个更容易染上酗酒习气的种族。妇女的正当位置是家庭：有不满三岁孩子的妇女不应被允许做工，因为这只会导致对子女的疏忽，还会纵容男性选择闲散。在所有这些情形中，劳动者、爱尔兰人或妇女的品性都被视作理所当然，无需进一步解释。维多利亚时代的中产阶级被用作评判的标尺。
+  - id: 29
+    kind: body
+    source: |-
+      ## 6. Unitarianism and Evolutionism
+    step1: |-
+      ## 6 一神论派与进化论
+    step2: |-
+      ## 6 一神论派与进化论
+  - id: 30
+    kind: body
+    source: |-
+      Although the bias regarding class, gender and race is obvious in Jevons' work, we should add that he was concerned with the amelioration of society in general and the condition of the working classes in particular. This attitude was inspired by the progressive and Unitarian middle-class background from which Jevons emerged. Some remarks and reflections on religion can be found in his diary and personal correspondence.
+    step1: |-
+      尽管杰文斯著作中关于阶级、性别与种族的偏见显而易见，我们应当补充说，他关心整个社会的改善，尤其是工人阶级的处境。这种态度源于杰文斯由以走出的进步的一神论派中产阶级背景。在他的日记与私人通信中可以找到一些关于宗教的评论与反思。
+    step2: |-
+      尽管杰文斯著作中关于阶级、性别与种族的偏见显而易见，我们仍应补充：他关心整个社会的改善，尤其是工人阶级的处境。这种态度源于杰文斯所出自的进步主义与一神论派的中产阶级背景。在他的日记与私人通信中，可以找到一些关于宗教的评论与反思。
+  - id: 31
+    kind: body
+    source: |-
+      Although Jevons does not discuss explicitly the Trinity, it is clear that he believes in the existence of one God. He does not describe him as a personal being or father, but as a general principle of abstract goodness (Black 1973: 258)[^black-1973]. This abstract principle is in perfect accordance with scientific findings: he reports that his conception of God is derived from an examination of matter and mind. The world is a “vast organism” with order and form expressing intention and mind, which implies that God is inseparable from his works. He is visible “in the wonderful order and simplicity of Nature, in the adaptation of means to ends, and in the creation of man to which everything refers, with power capable of indefinite improvement” (Black & Könekamp 1972: 155)[^black-1972][^könekamp-1972]. Jevons founds his faith “on Man and his feelings”, because humanity’s mental feelings of love and sympathy are the only places where intentions of good can be discovered. Every religion refers to the same eternal principles or “moral truths”, but the state of civilization determines their degree of misrepresentation. Different religions are merely costumes thrown over these principles, and Unitarianism contains the “most simple and truth-like” set of religious beliefs. God is depicted as a principle of abstract goodness, and Jesus is seen as the messenger who brought the eternal moral truths to humankind. Whereas Newton was a genius of natural science and Mozart of music, Jesus was a moral genius. The history of Unitarianism is also the history of a rational approach to religion, and a critical approach to the Holy Scripture. In general, Unitarians did not oppose scientific development, but on the contrary they argued that science and religion should be seen as two sides of the same coin.
+    step1: |-
+      杰文斯虽未明确讨论三位一体，但显然相信唯一之神的存在。他没有把神描述为人格性的存在者或父亲，而是描述为抽象善的一般原则（Black 1973: 258）[^black-1973]。这个抽象原则与科学发现完美符合：他自述其上帝观念得自对物质与心灵的考察。世界是一个“巨大的有机体”，其秩序与形式表达着意向与心灵，这意味着神与他的作品不可分离。神“在自然的奇妙秩序与单纯性之中，在手段对目的的适应之中，在万有所归趋的人的创造之中，带着能够无限改进的力量”显现可见（Black & Könekamp 1972: 155）[^black-1972][^könekamp-1972]。杰文斯把信仰奠基于“人及其感情”，因为人类心灵中爱与同情的感觉是唯一能够发现善之意向的地方。每种宗教都指向同样的永恒原则或“道德真理”，而文明的状态决定它们被歪曲的程度。不同的宗教只是抛在这些原则之上的外衣，而一神论派包含“最简单、最接近真理”的一套宗教信念。神被描绘为抽象善的原则，耶稣则被看作把永恒道德真理带给人类的信使。牛顿是自然科学的天才，莫扎特是音乐的天才，耶稣则是道德的天才。一神论派的历史也是以理性态度对待宗教、以批判态度对待《圣经》的历史。总的来说，一神论派并不反对科学发展；相反，他们主张科学与宗教应被看作同一枚硬币的两面。
+    step2: |-
+      杰文斯虽未明确讨论三位一体，但显然相信唯一之神的存在。他没有把神描述为人格性的存在者或父亲，而是描述为抽象善的一般原则（Black 1973: 258）[^black-1973]。这个抽象原则与科学发现完美吻合：他自述其上帝观念得自对物质与心灵的考察。世界是一个“巨大的有机体”，其秩序与形式表达着意向与心灵，这意味着神与他的作品不可分离。神“在自然的奇妙秩序与单纯性之中，在手段对目的的适应之中，在万有所归趋的人的创造之中，带着能够无限改进的力量”，显现可见（Black & Könekamp 1972: 155）[^black-1972][^könekamp-1972]。杰文斯把信仰奠基于“人及其感情”，因为人类心灵中爱与同情的感觉是唯一能够发现善之意向的所在。每种宗教都指向同样的永恒原则或“道德真理”，而文明的状态决定它们被歪曲的程度。不同的宗教只是抛在这些原则之上的外衣，而一神论派包含“最简单、最接近真理”的一套宗教信念。神被描绘为抽象善的原则，耶稣则被看作把永恒道德真理带给人类的信使：牛顿是自然科学的天才，莫扎特是音乐的天才，耶稣则是道德的天才。一神论派的历史也是以理性态度对待宗教、以批判态度对待《圣经》的历史。大体而言，一神论派并不反对科学发展；恰恰相反，他们主张科学与宗教应被看作同一枚硬币的两面。
+  - id: 32
+    kind: body
+    source: |-
+      The growing critical attitude of Unitarianism coincides historically with the rise of evolutionary theory: especially Darwinism, but also wider theory such as the work of Auguste Comte and Herbert Spencer. Jevons was particularly favourable towards Spencer’s evolutionary ethics. The evolutionary perspective allows Jevons to integrate his religious beliefs in a view on the world as growing towards higher moral consciousness and rationality. Like Spencer, Jevons argues that there is no conflict at all between science and religion. On the contrary: they are both directed towards truth, and therefore they cannot contradict each other. Jevons congratulated John Herschel for his condemnation of the Theological Declaration of Scientific Man, which equated freedom of inquiry with a tendency to irreligion (Black 1977a: 60)[^black-1977a]. Jevons even intended to write the Tenth Bridgewater Treatise (following Charles Babbage’s Ninth Bridgewater Treatise) to show the perfect compatibility between science and religion, but he never completed this work.
+    step1: |-
+      一神论派日益增长的批判态度在历史上恰与进化论的兴起重合：尤其是达尔文主义，但也包括更宽泛的理论，例如奥古斯特·孔德与赫伯特·斯宾塞的著作。杰文斯对斯宾塞的进化论伦理学尤其有好感。进化论的视角使杰文斯能够把自己的宗教信念整合进一种世界图景——世界正朝着更高的道德意识与合理性生长。与斯宾塞一样，杰文斯主张科学与宗教之间完全没有冲突。恰恰相反：二者都指向真理，因此不可能彼此矛盾。杰文斯曾就约翰·赫歇尔对《科学人的神学宣言》的谴责向赫歇尔表示祝贺，该宣言把探究自由等同于无宗教的倾向（Black 1977a: 60）[^black-1977a]。杰文斯甚至打算步查尔斯·巴贝奇《第九部布里奇沃特论丛》之后写一部《第十部布里奇沃特论丛》（Bridgewater Treatise），以表明科学与宗教的完美相容，但他从未完成这部著作。
+    step2: |-
+      一神论派日益增长的批判态度在历史上恰与进化论的兴起相重合：尤其是达尔文主义，但也包括更宽泛的理论，如奥古斯特·孔德与赫伯特·斯宾塞的著作。杰文斯对斯宾塞的进化论伦理学尤其抱有好感。进化论的视角使杰文斯得以把自己的宗教信念整合进一种世界图景——世界正朝着更高的道德意识与合理性生长。与斯宾塞一样，杰文斯主张科学与宗教之间毫无冲突；恰恰相反：二者都指向真理，因此不可能彼此矛盾。约翰·赫歇尔曾谴责《科学人的神学宣言》（Theological Declaration of Scientific Man）——该宣言把探究自由等同于无宗教的倾向——杰文斯为此向赫歇尔致贺（Black 1977a: 60）[^black-1977a]。杰文斯甚至打算步查尔斯·巴贝奇《第九部布里奇沃特论丛》的后尘，撰写一部《第十部布里奇沃特论丛》（Bridgewater Treatise），以表明科学与宗教的完美相容，但此作终未完成。
+  - id: 33
+    kind: body
+    source: |-
+      In *The Principles of Science* Jevons devotes a (short) section on the theory of evolution, followed by a section on the possibility of divine interference (Jevons 1874, pp. 761–9)[^jevons-1874]. Jevons embraces Spencer’s idea that the homogenous is unstable and differentiates itself in the process of evolutionary development. This explains why a variety of human institutions and characters emerged. He recognizes that evolutionary theory has not been proved, but nevertheless he adheres to its truthfulness. It is certainly not in conflict with theology, since it does not lead to the conclusion that creation was and is impossible. Evolutionary theory discloses several natural laws that explain how primitive life evolved to humankind by processes of adaptation to changing circumstances — but the initial distribution of atoms in the primeval world is very important as well. Jevons argues that this initial distribution is the result of the “arbitrary choice of the Creator”, which could have been very different and therefore present life would have been very different as well. Evolutionary theory tells us only that similar circumstances will lead to similar results since the same laws apply, but this is not in conflict with an initial act of creation. In close accordance with Spencer’s *First Principles*, Jevons states that it would be absurd to deny that anything exists, and that it therefore might be equally conceivable that the world was created out of nothing or that it existed from eternity. He also states clearly that science cannot disprove the possibility of divine intervention, which implies that a positivist attitude does not necessarily lead to materialism or atheism. Jevons also takes distance from Comte’s positivistic philosophy, by arguing — like Spencer — that scientific reflection on higher notions of creation must necessarily end up in contradictions.
+    step1: |-
+      在《科学的原则》（*The Principles of Science*）中，杰文斯用（短短的）一节讨论进化论，随后一节讨论神意干预的可能性（Jevons 1874, pp. 761–9）[^jevons-1874]。杰文斯接受斯宾塞的观念：同质者是不稳定的，会在进化发展的过程中分化自身。这解释了为什么会出现形形色色的人类制度与品性。他承认进化论尚未得到证明，但仍然坚持其为真。进化论当然不与神学冲突，因为它并不导致“创造曾经且现在不可能”的结论。进化论揭示了若干自然规律，说明原始生命如何通过适应变化环境的过程演化为人类——但太初世界中原子的初始分布也非常重要。杰文斯论证说，这种初始分布是“造物主的任意选择”的结果，它本可以大不相同，因此现今的生命也会大不相同。进化论告诉我们的只是：由于同样的规律起作用，相似的环境会导致相似的结果，但这与初始的创造行为并不冲突。与斯宾塞的《第一原理》（*First Principles*）密切一致，杰文斯声称，否认任何东西存在是荒谬的，因此世界究竟是无中生有被创造的，还是永恒存在的，或许同样可以设想。他还明确指出，科学无法否证神意干预的可能性，这意味着实证主义态度并不必然导向唯物主义或无神论。杰文斯也与孔德的实证主义哲学保持距离，主张——与斯宾塞一样——对创造的更高观念进行科学反思必然陷入矛盾。
+    step2: |-
+      在《科学的原则》（*The Principles of Science*）中，杰文斯用一节（篇幅很短）讨论进化论，随后一节讨论神意干预的可能性（Jevons 1874, pp. 761–9）[^jevons-1874]。杰文斯接受斯宾塞的观念：同质者是不稳定的，会在进化发展的过程中分化自身。这解释了形形色色的人类制度与品性何以出现。他承认进化论尚未得到证明，却仍然坚持其为真。进化论当然不与神学冲突，因为它并不导出“创造曾经且现在都不可能”的结论。进化论揭示了若干自然规律，说明原始生命如何经由适应变化环境的过程演化为人类——但太初世界中原子的初始分布同样至关重要。杰文斯论证说，这种初始分布是“造物主任意选择”的结果：它本可以大不相同，因而现今的生命也会大不相同。进化论告诉我们的只是，由于同样的规律起作用，相似的环境会导致相似的结果——这与初始的创造行为并不冲突。与斯宾塞的《第一原理》（*First Principles*）如出一辙，杰文斯声称，否认任何东西存在是荒谬的，因此世界究竟是无中生有被创造的、还是永恒存在的，或许同样可以设想。他还明确指出，科学无法否证神意干预的可能性，这意味着实证主义态度并不必然导向唯物主义或无神论。杰文斯亦与孔德的实证主义哲学保持距离，主张——与斯宾塞一样——对创造的更高观念作科学反思必然陷入矛盾。
+  - id: 34
+    kind: body
+    source: |-
+      ## 7. Implications for Economic and Social Policy
+    step1: |-
+      ## 7 对经济与社会政策的意涵
+    step2: |-
+      ## 7 对经济与社会政策的意涵
+  - id: 35
+    kind: body
+    source: |-
+      Black (1995) recognizes that, after 1867, Jevons' “increasing faith in the validity of Spencer’s theory of evolution was combined with decreasing faith in the validity of laissez-faire as a guide for economic policy”. Unitarians struggled with the ‘contradiction’ between the need for individual self-improvement on the one hand, and active interventionism on the other hand. This ‘contradiction’ can also be depicted as a tension existing between a belief in scientific principles on the one hand — the laws of economics — and the recognition that moral and intellectual self-improvement is impossible as long as the first necessaries of life are still out of reach. Unitarians concluded that a rational mode of living had to be imposed on the poor before they could benefit from education. Jevons tried to resolve this paradox by restricting the scientific analysis to what can be accounted for in terms of the accumulation of wealth, and by suggesting that a ‘higher’ calculus of pleasures and pains is needed when ‘higher’ motives interfere. Interventionism could then be justified by pointing out those ‘higher’ motives. The scientific basis of Jevons' economics is utilitarianism and the mechanics of utility and self-interest; like many Unitarians this scientific belief is combined with an emphasis on active interventionism directed towards more possibilities for self-improvement; and evolutionary theory does not only show that there *should* be development towards the ‘good’ and the ‘happy’, but also that there *will* be such a development (at least in Jevons' interpretation).
+    step1: |-
+      布莱克（Black 1995）指出，1867 年以后，杰文斯“对斯宾塞进化论有效性的信心与日俱增，与对自由放任作为经济政策指南之有效性的信心与日俱减相结合”。一神论派苦于一种“矛盾”：一方面需要个人的自我改善，另一方面需要主动的干预。这一“矛盾”也可以描绘为一种张力：一边是对科学原理——经济学规律——的信念，一边是承认只要生活的首要必需品仍无着落，道德与智识上的自我改善就不可能。一神论派得出结论：必须先把一种理性的生活方式强加给穷人，然后他们才能从教育中受益。杰文斯试图解决这个悖论，办法是把科学分析限定于可以用财富积累来解释的东西，并建议当“较高”的动机介入时需要一种“较高的”苦乐计算。干预主义于是可以通过指出那些“较高”动机而得到辩护。杰文斯经济学的科学基础是功利主义以及效用与自利的力学；与许多一神论派成员一样，这种科学信念与强调主动干预——指向更多自我改善的可能——结合在一起；而进化论不仅表明存在朝着“善”与“幸福”的发展，而且表明将会有这样的发展（至少在杰文斯的解释中）。
+    step2: |-
+      布莱克（Black 1995）指出，1867 年以后，杰文斯“对斯宾塞进化论有效性的信心与日俱增，与对自由放任作为经济政策指南之有效性的信心与日俱减结合在了一起”。一神论派一直苦于一种“矛盾”：一方面需要个人的自我改善，另一方面又要主动干预。这一“矛盾”也可以描绘为一种张力：一边是对科学原理——经济学规律——的信念，一边是承认只要生活的首要必需品仍无着落，道德与智识上的自我改善就不可能。一神论派得出的结论是：必须先把一种理性的生活方式施加于穷人，然后他们才能从教育中受益。杰文斯试图化解这个悖论，办法是把科学分析限定于可用财富积累来说明的东西，并建议在“较高”动机介入时需要一种“较高的”苦乐计算。如此一来，干预主义便可通过指出那些“较高”动机而得到辩护。杰文斯经济学的科学基础是功利主义以及效用与自利的力学；与许多一神论派成员一样，这种科学信念与强调主动干预——指向更多自我改善的可能——结合在一起；而进化论不仅表明应当（*should*）有朝着“善”与“幸福”的发展，而且表明（至少在杰文斯的解释中）将会有（*will*）这样的发展。
+  - id: 36
+    kind: body
+    source: |-
+      Material nature does not contain goodness; it can only be found in the human mind. Nature is depicted as a mechanical machine and should be studied by the natural sciences. Abstract economic theory is the mechanical analogy of these natural sciences: it is restricted to an investigation of the social world as a mechanical machine, and no ethical or religious considerations are taken into account. Jevons refutes the claims of some “sentimental writers” who regard economics as a “dismal science”, because its scope is restricted to wealth. These authors depict economics as a mechanical and miserable body of theories, whereas they hold true that a moral science should be concerned with sympathies, feelings and duties. Jevons uses an analogy from the natural sciences to refute this opinion: division of labour implies that some people investigate the mechanical aspects of iron, while other researchers devote their time to the study of its electrical or magnetic aspects. A physician may conclude that the health of a particular person will be fostered if he goes to the sea, but this person may decide otherwise by taking other considerations into account. This is the position of economics: charity for humanitarian reasons remains possible, but abstract economic theory shows that this may endanger future accumulation of wealth (Black 1977d, pp. 7–8)[^black-1977d].
+    step1: |-
+      物质本性不包含善；善只能在人的心灵中找到。自然被描绘成一部机械的机器，应当由自然科学来研究。抽象经济理论是这些自然科学的力学类比：它仅限于把社会世界当作机械机器来研究，不考虑任何伦理或宗教的考虑。杰文斯驳斥了一些“感伤作家”的说法，他们把经济学称作“沉闷的科学”，因为其范围仅限于财富。这些作者把经济学描绘成一套机械而可悲的理论体系，而他们坚称，真正的道德科学应当关心同情、感情与义务。杰文斯用自然科学中的一个类比来反驳这种意见：分工意味着一些人研究铁的力学方面，另一些研究者则把时间用于研究铁的电学或磁学方面。医生可以断定，某人如果去海边，其健康将得到增进，但这个人考虑其他因素后可以另作决定。经济学的处境正是如此：出于人道理由的慈善仍然可能，但抽象经济理论表明这可能危及未来的财富积累（Black 1977d, pp. 7–8）[^black-1977d]。
+    step2: |-
+      物质本性并不包含善；善只能在人的心灵中找到。自然被描绘成一部机械的机器，应当由自然科学来研究。抽象经济理论是这些自然科学的力学类比：它仅限于把社会世界当作机械机器来考察，不作任何伦理或宗教的考量。杰文斯驳斥了某些“感伤作家”的说法——他们把经济学称作“沉闷科学”（dismal science），理由是其范围仅限于财富。这些作者把经济学描绘成一套机械而可悲的理论集合体，同时坚称真正的道德科学应当关心同情、感情与义务。杰文斯用自然科学中的一个类比反驳这种意见：分工意味着一些人研究铁的力学方面，另一些研究者则把时间用于铁的电学或磁学方面。医生可以断定，某人若去海边疗养，健康将得到增进，但此人顾及别的考虑后可以另作决定。经济学的处境正是如此：出于人道理由的慈善仍然可能，但抽象经济理论表明，这可能危及未来的财富积累（Black 1977d, pp. 7–8）[^black-1977d]。
+  - id: 37
+    kind: body
+    source: |-
+      Earlier we discussed Jevons' use of ‘representative individuals’ and the notion of ‘character’. It is also the case that Unitarians believe that the formation of an improved character is essential, since otherwise no religious warmth can emerge. It is unclear to what extent improvement of people with presumed inferior character (due to class, race or gender) can be done. In Jevons we encounter a mixture of enlightened belief in education and prejudiced opinions against certain parts of the population, which is certainly not unusual for the 19ᵗʰ century. Nevertheless, Jevons does believe that policies to ameliorate working class conditions and attitudes are possible, desirable and required.
+    step1: |-
+      前面我们讨论了杰文斯对“代表性个体”的运用与“品性”概念。一神论派同样相信，造就改良的品性是根本的，否则宗教的热忱便无从产生。那些被认定品性低劣（由于阶级、种族或性别）的人能在多大程度上得到改善，并不清楚。在杰文斯那里，我们遇到启蒙的教育信念与对人口中某些部分的偏见意见的混合，这在十九世纪当然并不罕见。尽管如此，杰文斯确实相信，改善工人阶级处境与态度的政策是可能的、可取的，也是必要的。
+    step2: |-
+      前文讨论了杰文斯对“代表性个体”的运用与“品性”概念。一神论派同样相信，造就改良的品性至关重要，否则宗教的热忱便无从生发。至于那些被认定品性低劣（因阶级、种族或性别）的人能在多大程度上得到改善，并不清楚。在杰文斯那里，我们遇到启蒙的教育信念与针对部分人群的偏见意见的混合——这在十九世纪当然并不罕见。尽管如此，杰文斯确实相信，改善工人阶级处境与心态的政策是可能的、可取的，也是必要的。
+  - id: 38
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      [欢迎向作者提出建议。]
+    step2: |-
+      [欢迎向作者提出建议。]

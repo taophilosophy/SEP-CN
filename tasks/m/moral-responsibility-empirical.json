@@ -2,7 +2,7 @@
   "slug": "moral-responsibility-empirical",
   "kind": "retranslate",
   "zh_doc": "m/moral-responsibility-empirical.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T10:23:08Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:19:57Z",
+      "evidence": "107 段账本双版齐（p1 1-12、p2 13-30、p3 31-50、p4 51-66、p5 67-90、p6 91-107 含 OIR 2 段与 note 2 段），lq check HARD=0；compose 40924 字符，29 节与源同构（H2 差 1 为源文 Notes 双标题冗余，合于 compose 契约的「## 脚注」形态）；中文强调转粗 19 行"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:19:57Z",
+      "evidence": "对照 yuanwen 逐段核销 107 段（本会话直译全篇）：无漏译增译；数字守恒零差异；脚注键 299=299、定义 144=144；引用组（作者-年份）与页码照录；专名按 ADR-0012 现代学者保留英文"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:19:57Z",
+      "evidence": "check_prose 27 项→0（长句 9、的链 9、弱动词 8、被字句 1 全实修，md 与账本 step2 同步替换）；check_style/check_math 0；术语 23 行登记（成瘾、受损的控制、不可抗拒的欲望、优先图、亚个人、有限理性、认知顺从、可归咎的无知、故作无知、恶的平庸性、行动者模型、终极控制等）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "LMN-main-20261107",
+      "at": "2026-11-07T14:19:58Z",
+      "evidence": "check_academic --strict 硬错误 0；OIR 两条照录（SSRN 论文链接与联系作者句）；References 现制形态照录；门禁红点（SUMMARY o/ockham H1、tools/check_images）经核属他会话在途，非本批"
     }
   ],
   "blockers": [],
