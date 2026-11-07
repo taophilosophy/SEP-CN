@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 18:59（UTC）
+生成时间：2026-11-07 19:26（UTC）
 
 ## 总览
 
@@ -15,15 +15,15 @@
 |已建任务|1026|
 |例行/维护任务（不计状态机）|2|
 |已完成（done）|177|
-|在途（drafted 起、done 前）|242|
+|在途（drafted 起、done 前）|243|
 |阻塞|0|
 
 ## 任务状态分布
 
 |状态|数量|
 |---|---|
-|pending|607|
-|cleared|161|
+|pending|606|
+|cleared|162|
 |drafted|2|
 |s2_checked|1|
 |s3_checked|77|
@@ -83,6 +83,7 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
+|aristotle-causality|retranslate|cleared|task_ops 2026-11-07|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
