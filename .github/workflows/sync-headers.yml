@@ -1,72 +1,20 @@
-name: 🔗 从 SUMMARY.md 更新一级标题
+name: 🔗 校验 SUMMARY.md 与词条 H1 一致
 
+# 2026-11-07 裁定（ADR-0024）：本工作流改为**只读校验**，不再 commit/push 回 main。
+# 原实现按 SUMMARY 改写 H1 并直推 main，会在远端造出本地没有的提交，与并行会话的
+# 本地提交分叉（2026-11-07 远端提交 a05e8968 实例），迫使本地要么放弃自有提交、
+# 要么被远端内容覆盖。现分工：本地 `python tools/check_summary.py --sync-headers`
+# 同步 H1；本地与 CI 用同一检查器实拦；远端永不写回，main 的写入方只有本地会话。
 on:
   push:
   workflow_dispatch:
 
 jobs:
-  verify-and-sync:
+  verify:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
 
-      - name: Sync headers
-        id: sync
-        run: |
-          # 设置修改标志
-          CHANGED="false"
-
-          # 使用进程替换，避免管道导致子 Shell 中修改变量
-          while IFS= read -r line; do
-            # 提取标题和文件路径（标题取最外层方括号内、`](` 之前的全部文字，
-            # 以兼容标题中形如 \[Abailard\] 的转义方括号）
-            title=$(sed -n 's/^\s*\* \[\(.*\)\](.*/\1/p' <<< "$line")
-            path=$(sed -n 's/.*](\([^)]*\)).*/\1/p' <<< "$line")
-
-            # 跳过无效条目
-            [ -z "$title" ] || [ ! -f "$path" ] && continue
-
-            # 跳过别名条目（标题含 — see / ——见）：别名与条目共用目标路径，
-            # 文件 H1 必须是真实条目的标题，别名行不得覆盖（ADR-0007/0009）
-            [[ "$title" == *"— see"* || "$title" == *"——见"* ]] && continue
-
-            # 跳过 README.md：SUMMARY 中 144 行共指根 README（根标题行 + 占位导航行），
-            # 逐行同步会以最后一行覆盖首页标题（曾把首页写成"策梅洛"），README 标题
-            # 以 SUMMARY 首行"斯坦福哲学百科全书简体中文版"为准，手工维护
-            [[ "$path" == "README.md" ]] && continue
-
-            # 跳过带 YAML frontmatter 的文件（首行为 ---），避免破坏元数据
-            [ "$(head -n 1 "$path")" = "---" ] && continue
-
-            # 获取文件第一行并清理格式（标题需先还原 \* \[ \] 转义）
-            first_line=$(head -n 1 "$path" | sed 's/^#*//; s/^[[:space:]]*//; s/[[:space:]]*$//')
-            clean_title=$(sed 's/\\\([]*[]\)/\1/g; s/^[[:space:]]*//; s/[[:space:]]*$//' <<< "$title")
-
-            # 比较标题并更新文件
-            if [ "$first_line" != "$clean_title" ]; then
-              echo "Updating $path: '$first_line' -> '$clean_title'"
-              
-              # 使用临时文件进行安全替换
-              temp_file=$(mktemp)
-              echo "# $clean_title" > "$temp_file"
-              tail -n +2 "$path" >> "$temp_file"
-              mv -f "$temp_file" "$path"
-
-              git add "$path"
-              CHANGED="true"
-            fi
-          done < <(grep -E '^[[:space:]]*\* \[' SUMMARY.md)
-
-          # 输出修改状态
-          echo "changed=$CHANGED" >> $GITHUB_OUTPUT
-
-      - name: Commit changes
-        if: steps.sync.outputs.changed == 'true'
-        run: |
-          git config --global user.name "ykla"
-          git config --global user.email "yklaxds@gmail.com"
-          git commit -m "chore: sync headers with SUMMARY.md"
-          git push
+      - name: Verify H1 titles match SUMMARY.md
+        run: python tools/check_summary.py --headers
