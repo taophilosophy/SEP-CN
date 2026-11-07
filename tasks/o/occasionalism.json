@@ -2,7 +2,7 @@
   "slug": "occasionalism",
   "kind": "retranslate",
   "zh_doc": "o/occasionalism.md",
-  "state": "r1_reviewed",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -45,6 +45,27 @@
       "actor": "OR-main-20261106",
       "at": "2026-11-07T01:07:29Z",
       "evidence": "复审 r1：①译名与发布侧对齐——Ibn Rushd 统一作「伊本·鲁世德」（SUMMARY/词汇表现行形，改我作『路世德』2 处）、Boethius of Dacia 统一作「达西亚的波爱修斯」（SUMMARY 词条名，改『达契亚的波爱修』；同时回改 obligationes 2 处）；②删除与我新增重复的 Ibn Rushd 行（保留 arabic-islamic 集群既有行），术语登记 20 行、人名登记 11 行；③阿拉伯/拉丁转写补充原文列（kalām、falâsifa、al-Ash‘ari、al-Ghazālī），缺原文告警 139 条（低于本会话起点 140）；④术语表硬冲突归零，check_all 7/7 保持全绿。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:10:47Z",
+      "evidence": "r2 冷置复审（与 r1 间隔 obligationes r2/r3 收口）：①抽核 5 段回原文（44 PN 论证范围、61 KP 宽窄范围、90 CCC 策略、105 无中生有与过度决定、123 偶因与一般意志），语义与括注（Nadler 1999, 270；*TEH* 240；*OCM* II 313）一致；②复核 14 项 prose 引文豁免，确认全在直引段（安萨里 *TF* 170、马勒布朗士 *OCM* III 226 与 *Search* 450、*TNG* 195、比尔转引），改动将损引文忠实度，维持豁免；③四论证缩写与术语（偶因/真正原因/并作论/过度决定）全文一致；check_all 7/7。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:10:48Z",
+      "evidence": "r3 终校：标题 23 个与源逐级对应；脚注 90 定义/33 引用（与源 36 注释 + 文献 53 条同构）；无表格与图片；H1=SUMMARY 行、pubinfo 2022-01-19；体量 22,606 汉字 / 92.8KB；check_all 7/7、markdownlint 0 issue。收口 done。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:10:48Z",
+      "evidence": "九步闭环：o/occasionalism.md 六检全绿 + check_all 7/7；164 段双版账本齐全；术语 20 行、人名 11 行登记，译名与发布侧对齐。"
     }
   ],
   "blockers": [],
