@@ -1701,6 +1701,8 @@
 | knowledge first | — | 知识优先 | knowledge-analysis | 知识论通行（Williamson 2000） | 2026-11-05 |
 | accuracy/adroitness/aptness | — | 准确性／灵巧性／恰当性 | knowledge-analysis | 索萨 AAA 模型通行译法 | 2026-11-05 |
 | fake barn cases | — | 假谷仓案例 | knowledge-analysis | 知识论通行（Ginet/Goldman 1976 谱系） | 2026-11-05 |
+| knowledge-how | — | 知识-如何 | knowledge-value | 知识论通行（Ryle 1949 谱系；与 knowledge-that 对举的连字符体例，本库 knowledge-analysis 同形）；凭证 2026-11-08 | 2026-11-08 |
+| knowledge-that | — | 知识-那 | knowledge-value | 知识论通行（与 knowledge-how 对举的直译体例；命题知识之特称）；凭证 2026-11-08 | 2026-11-08 |
 | Decisive Treatise | — | 决定性论文 | delmedigo | 学界通行（伊本·鲁西德 Faṣl al-maqāl 通行译名；避开 determinism 定译“决定论”之混同） | 2026-11-06 |
 | equivocal | — | 歧义的（同名异义） | delmedigo | 学界通行（亚里士多德—经院术语；univocal 单义、analogical 类比之对项；r2 改定，初译误作“类比”） | 2026-11-06 |
 | Torah | — | 托拉 | delmedigo | 学界通行（犹太教经籍；亦作“妥拉”） | 2026-11-06 |
@@ -2291,3 +2293,19 @@
 | primary signification / secondary signification | — | 首要意谓／次生意谓 | ockham | 《逻辑大全》I, 33 四分意谓之前两种合称 primary；沿本册 signification=意谓派生；凭证 2026-11-07 | 2026-11-07 |
 | descent to singulars / ascent from singulars | — | 下降到单称／从单称上升 | ockham | 中世纪指代理论（suppositio confuse distributiva）核心机制；学界通行译法；凭证 2026-11-07 | 2026-11-07 |
 | supposit for | — | 指代（某物） | ockham | 沿本册 supposition=指代派生；学界惯例；凭证 2026-11-07 | 2026-11-07 |
+| basing relation (epistemic) | — | 基础关系 | basing-epistemic 首译 | 学界通行汉译（认识论“信念基于理由”之关系）；凭证 2026-11-08 | 2026-11-08 |
+| meta-belief | — | 元信念 | basing-epistemic 首译 | 构词直译（meta-=元）；学界通行；凭证 2026-11-08 | 2026-11-08 |
+| pseudo-overdeterminant | — | 伪过度决定者 | basing-epistemic 首译 | 斯温术语构词直译（pseudo-伪／overdeterminant 过度决定者）；凭证 2026-11-08 | 2026-11-08 |
+| deviant causal chain | — | 偏离的因果链 | basing-epistemic 首译 | 学界通行汉译（因果理论标准疑难）；凭证 2026-11-08 | 2026-11-08 |
+| association relation | — | 联结关系 | basing-epistemic 首译 | 莫泽术语，沿本册 associate=联结；凭证 2026-11-08 | 2026-11-08 |
+| doxastic theory (of the basing relation) | — | 信念论 | basing-epistemic 首译 | 学界通行汉译（doxastic=信念的）；凭证 2026-11-08 | 2026-11-08 |
+| causal-doxastic theory | — | 因果—信念论 | basing-epistemic 首译 | 构词直译，与因果论／信念论对举；凭证 2026-11-08 | 2026-11-08 |
+| access internalism | — | 通达内在主义 | basing-epistemic 首译 | 学界通行汉译（access=通达）；凭证 2026-11-08 | 2026-11-08 |
+| evidentialism | — | 证据主义 | basing-epistemic 首译 | 学界通行汉译（Feldman、Conee 等）；凭证 2026-11-08 | 2026-11-08 |
+| debasing demon | — | 贬损恶魔 | basing-epistemic 首译 | 谢弗术语构词直译（debase=贬损，与笛卡尔恶魔对举）；凭证 2026-11-08 | 2026-11-08 |
+| triggering cause / structural cause | — | 触发原因／结构原因 | basing-epistemic 首译 | 学界通行汉译（因果作用区分）；凭证 2026-11-08 | 2026-11-08 |
+| cognitive structure | — | 认知结构 | basing-epistemic 首译 | 构词直译（科尔奇术语）；凭证 2026-11-08 | 2026-11-08 |
+| personal justification | — | 个人证成 | basing-epistemic 首译 | 学界通行汉译（与 doxastic justification 同义用法）；凭证 2026-11-08 | 2026-11-08 |
+| epistemic rationalization | — | 认知理性化 | basing-epistemic 首译 | 构词直译（rationalization 此处非贬义）；凭证 2026-11-08 | 2026-11-08 |
+| subliminal reasons | — | 阈下理由 | basing-epistemic 首译 | 学界通行汉译（subliminal=阈下）；凭证 2026-11-08 | 2026-11-08 |
+| occurrent | — | 当下的 | basing-epistemic 首译 | 学界通行汉译（与 dispositional 倾向的相对）；凭证 2026-11-08 | 2026-11-08 |

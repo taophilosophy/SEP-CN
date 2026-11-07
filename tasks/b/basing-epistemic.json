@@ -2,7 +2,7 @@
   "slug": "basing-epistemic",
   "kind": "retranslate",
   "zh_doc": "b/basing-epistemic.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "ABCDE-main-20261103",
       "at": "2026-11-02T20:14:27Z",
       "evidence": "check_style 0 issue；check_math 0；check_academic --strict 0 硬错误（门禁实拦）；参考文献 40+ 条照录合规"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T22:39:32Z",
+      "evidence": "r1 初审（s3_checked 存量复审波：77 条统一由 REV-main-20261108 主会话复走 r1-r3，不用子代理，2026-11-08 用户裁定；C/TZ 审计文档中『复审由本批会话承担』的旧排程由本裁定取代）。对照 yuanwen/b/basing-epistemic.md 全文自审：结构对位 5 节+9 脚注+52 条文献+学术工具 4 行+其他网络资源 2 项+相关词条 4 项，与源页一致；机器体检（script/s3rev_probe.py）节标题 5/5、块种类计数 p57/quote10/olist1 与源全等、阿拉伯数字多集合零缺失、残留英文 0、脚注键定义与引用双向闭合。抓 Minor 3 处并实修：①§1 麦凯恩定义引块首行漏 *S* 主体（一个人→一个人 *S*）②§2 摆锤段 it-is-clear 判明语气脱漏（补『显然可见』）③§3 托利弗观点 it-is-likely 可能性算子脱漏（补『很可能』）。术语漂移核查：基础关系/伪过度决定者/元信念/联结关系/偏离的因果链/贬损恶魔/通达内在主义/证据主义等 16 条登记册全缺，属初译会话（2026-11-02，早于本波次登记纪律落实）的登记缺口，本步补齐（先登记后使用）；人名 11 条（科尔奇/莫泽/麦凯恩/斯温/托利弗/图里/叶如/朗吉诺/莱勒/谢弗/聂鲁达）同缺并补。无 Critical、无事实性错误、无漏节。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T22:43:11Z",
+      "evidence": "r2 复审（逐句回核 + 冷置回读）：本会话与初译 actor（ABCDE-main-20261103）不同，独立性满足 ADR-0020；回核重点为方向与模态敏感处——McCain 干预主义『直接原因』定义（条件 3 反向干预与置零语义）、DPO 条件 (2)(b) 反事实方向、摆锤反例中基础关系反向不成立、托利弗条件 (3) 证据支持方向、以西结元信念不构成基础关系（(b)(ii)(iii) 因果要求）、谢弗贬损恶魔『接错线』——均与源一致，无方向反转、无立场改变。check_prose 63 条告警逐条复核：de-chain 41 条全为术语链（基础关系/偏离的因果链/伪过度决定者）与自然中文，long-sentence 19 条为莫泽/斯温/托利弗定义式引块与密集论证句（拆分破坏定义与引文完整），passive-bei 3 条为『被过度决定/被保留/被引起』术语性被动。实修 1 处：导语『基础关系也被分析为…也被分析为…』双被字句改主动式『也有论者把基础关系分析为…或分析为…』（对照源文 has also been analyzed as，语义不变）；余 63 条逐条豁免留痕。"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T22:48:02Z",
+      "evidence": "r3 终审（体例 + 门禁）：check_style --strict 0 issue；check_academic --docs b/basing-epistemic.md --strict 0 硬错误；check_math 0 公式 0 缺失 0 不平衡；check_terms 硬错误 0（本轮新增 16 术语行 + 11 人名行无冲突、无自洽违规；词汇表滞后 5 条与 orig-missing 180 条为存量，非本轮引入）；markdownlint-cli2 本文件 0 错误（全仓 370 条为存量、不入本项目门禁）。体例核对：pubinfo 首行斜体（模板 §2）、中文弯引号、书名照录体、*de re* 斜体照录、定义式 =_{df} 与 ⊃/∈ 符号照录、脚注区 9 条 note 定义 + 52 条文献定义全部闭合、相关词条 4 项与源 Related Entries 一一对应。"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "REV-main-20261108",
+      "at": "2026-11-07T22:50:32Z",
+      "evidence": "六道走完（draft/s1/s2/s3 由 ABCDE-main-20261103，r1–r3 由 REV-main-20261108 独立复走）。done：b/basing-epistemic.md 353 行——正文 5 节（因果论/反事实论/信念论/因果—信念论/与认识论）+ 9 条作者脚注 + 52 条参考文献照录 + 学术工具/其他网络资源/相关词条；本轮实修 4 处（3 处漏译补全 + 1 处双被字句）；登记术语 16 行、人名 11 行；定点门禁四项全过，check_all 七项全绿。"
     }
   ],
   "blockers": [],

@@ -1915,3 +1915,14 @@
 | Peter John Olivi | — | 彼得·约翰·奥利维 | — | — | illumination | 中世纪哲学通行汉译（方济各会，著作身后遭本会谴责）；凭证 2026-11-08 | 2026-11-08 |
 | Suhrawardi | — | 苏哈拉瓦迪 | — | — | illumination | 伊斯兰哲学通行汉译（12 世纪光照学派创立者，Shaykh al-Ishrāq）；凭证 2026-11-08 | 2026-11-08 |
 | Nixon, Richard | — | 理查德·尼克松 | — | — | illumination | 学界通行汉译（1972 年访华，司各脱节 Boler 之喻）；凭证 2026-11-08 | 2026-11-08 |
+| Korcz, Keith Allen | — | 基思·艾伦·科尔奇 | — | — | basing-epistemic | 学界惯例（音译，本词条作者）；凭证 2026-11-08 | 2026-11-08 |
+| Moser, Paul | — | 保罗·莫泽 | — | — | basing-epistemic | 学界惯例（音译，认识论家）；凭证 2026-11-08 | 2026-11-08 |
+| McCain, Kevin | — | 凯文·麦凯恩 | — | — | basing-epistemic | 学界惯例（音译，干预主义因果论者）；凭证 2026-11-08 | 2026-11-08 |
+| Swain, Marshall | — | 马歇尔·斯温 | — | — | basing-epistemic | 学界惯例（音译，反事实论代表）；凭证 2026-11-08 | 2026-11-08 |
+| Tolliver, Joseph | — | 约瑟夫·托利弗 | — | — | basing-epistemic | 学界惯例（音译，信念论代表）；凭证 2026-11-08 | 2026-11-08 |
+| Turri, John | — | 约翰·图里 | — | — | basing-epistemic | 学界惯例（音译，因果—表现说提出者）；凭证 2026-11-08 | 2026-11-08 |
+| Ye, Ru | — | 叶如 | — | — | basing-epistemic | 作者自用汉名（Ye Ru，CCB 提出者）；凭证 2026-11-08 | 2026-11-08 |
+| Longino, Helen | — | 海伦·朗吉诺 | — | — | basing-epistemic | 学界惯例（音译，科学哲学与认识论）；凭证 2026-11-08 | 2026-11-08 |
+| Lehrer, Keith | — | 基思·莱勒 | — | — | basing-epistemic | 学界惯例（音译，知识论家，“迷信律师”反例提出者）；凭证 2026-11-08 | 2026-11-08 |
+| Schaffer, Jonathan | — | 乔纳森·谢弗 | — | — | basing-epistemic | 学界惯例（音译，形而上学家，“贬损恶魔”提出者）；凭证 2026-11-08 | 2026-11-08 |
+| Neruda, Pablo | — | 巴勃罗·聂鲁达 | — | — | basing-epistemic | 学界通行汉译（智利诗人，诺奖得主）；凭证 2026-11-08 | 2026-11-08 |
