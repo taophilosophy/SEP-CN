@@ -310,41 +310,41 @@ segments:
     source: |-
       The next section shows that the perspective of social software can also shed light on social matching problems. These range from marriages to the assignment of resident doctors to hospitals, college admission procedures, and the assignment of students to housing.
     step1: |-
-      TBD
+      下一节将表明，社会软件的视角也能照亮社会匹配问题。这类问题从婚姻到住院医师分配到医院，到大学录取程序，再到学生分宿舍。
     step2: |-
-      TBD
+      下一节要表明，社会软件这一视角同样能照亮社会的匹配问题。此类问题从婚姻一路排到住院医师派往医院、大学录取程序、学生宿舍分配。
   - id: 37
     kind: body
     source: |-
       ## 3. The Stable Marriage Problem
     step1: |-
-      TBD
+      ## 3 稳定婚姻问题
     step2: |-
-      TBD
+      ## 3 稳定婚姻问题
   - id: 38
     kind: body
     source: |-
       Suppose equal sets of men and women are given, all of them seeking to marry someone of the opposite gender, and each man has listed his preferences for the women by means of a strict ordering, and similarly for each woman. A *stable marriage match* is a one-to-one mapping between the men and women with the property that if a man prefers another woman over his own wife, then that woman does *not* prefer him to her own husband, and if a woman prefers another man over her own husband, then that man does *not* prefer her to his own wife.
     step1: |-
-      TBD
+      设有数量相等的男女两个集合，他们都在寻求与异性结婚，每位男子用严格排序列出他对女子的偏好，每位女子亦然。*稳定婚姻匹配* 是男女之间的一一映射，其性质是：若某男子偏爱另一女子胜过自己的妻子，则该女子 *不* 偏爱他胜过自己的丈夫；若某女子偏爱另一男子胜过自己的丈夫，则该男子 *不* 偏爱她胜过自己的妻子。
     step2: |-
-      TBD
+      设有数目相等的男女两群，人人都想与异性结为夫妻；每位男子按严格次序列出自己对女子的偏好，每位女子亦然。*稳定婚姻匹配* 是男女之间的一一对应，其性质为：若某男子偏爱另一女子胜过自己的妻子，那么那位女子 *并不* 偏爱他胜过自己的丈夫；反之，若某女子偏爱另一男子胜过自己的丈夫，那么那位男子 *并不* 偏爱她胜过自己的妻子。
   - id: 39
     kind: body
     source: |-
       ### 3.1 The Gale-Shapley Algorithm
     step1: |-
-      TBD
+      ### 3.1 盖尔—沙普利算法
     step2: |-
-      TBD
+      ### 3.1 盖尔—沙普利算法
   - id: 40
     kind: body
     source: |-
       The computer scientists Gale and Shapley proved that stable matchings always exist, and gave an algorithm for finding such matchings, the so-called Gale-Shapley algorithm (Gale & Shapley 1962)[^gale-1962]:
     step1: |-
-      TBD
+      计算机科学家盖尔与沙普利证明，稳定匹配总是存在，并给出了寻找这类匹配的算法，即所谓的盖尔—沙普利算法（Gale & Shapley 1962）[^gale-1962]：
     step2: |-
-      TBD
+      计算机科学家盖尔与沙普利证明：稳定匹配总是存在，并给出寻找这种匹配的算法，即所谓盖尔—沙普利算法（Gale & Shapley 1962）[^gale-1962]：
   - id: 41
     kind: body
     source: |-
@@ -354,113 +354,121 @@ segments:
       >
       > This goes on until all men and women are engaged.
     step1: |-
-      TBD
+      > 起初，所有男子与所有女子都是自由的（未订婚）。
+      >
+      > 接着，在若干轮中，每位自由男子向他尚未求过婚、且最偏爱的女子求婚，并在自己的名单上把她划掉。若该女子自由，她接受，二人订婚。若该女子不自由，她把求婚者与当前的未婚夫作比较。若她更喜欢求婚者，就甩掉未婚夫（后者重新变得自由），求婚者与他选中的女子订婚。
+      >
+      > 如此继续，直到所有男女都订婚为止。
     step2: |-
-      TBD
+      > 一开始，所有男子、所有女子都自由（未订婚）。
+      >
+      > 随后进行若干轮：每位自由男子向他尚未求过婚、且最偏爱的女子求婚，并在名单上把她划去。女子若自由，便接受，两人订婚；女子若不自由，就把求婚者同现任未婚夫相比。她若更中意求婚者，便甩掉未婚夫——那人重又自由——并与求婚者订婚。
+      >
+      > 这样下去，直到男女两方全部订婚为止。
   - id: 42
     kind: body
     source: |-
       As an example, suppose that there are three men $a, b, c$ and three women $d, e, f$, and the lists of preferences are as follows (with the most preferred one first in the list): $a: edf$, $b: {\it fed}$, $c: {\it dfe}$, $d: {\it abc}$, $e: {\it cda}$, $g: {\it acb}$. So $a: {\it edf}$ means that $a$ prefers $e$ to $d$ and $d$ to $f$. It is assumed that preferences are transitive, so $a$ also prefers $e$ to $f$.
     step1: |-
-      TBD
+      举例来说，设有三名男子 $a, b, c$ 与三名女子 $d, e, f$，偏好名单如下（最偏爱的列在首位）：$a: edf$，$b: {\it fed}$，$c: {\it dfe}$，$d: {\it abc}$，$e: {\it cda}$，$g: {\it acb}$。因此 $a: {\it edf}$ 意味着 $a$ 偏爱 $e$ 甚于 $d$，偏爱 $d$ 甚于 $f$。假定偏好是传递的，所以 $a$ 也偏爱 $e$ 甚于 $f$。
     step2: |-
-      TBD
+      例如设有三名男子 $a, b, c$ 与三名女子 $d, e, f$，偏好名单如下（最偏爱的排在首位）：$a: edf$，$b: {\it fed}$，$c: {\it dfe}$，$d: {\it abc}$，$e: {\it cda}$，$g: {\it acb}$。于是 $a: {\it edf}$ 意为：$a$ 偏爱 $e$ 甚于 $d$，偏爱 $d$ 甚于 $f$。这里假定偏好是传递的，故 $a$ 也偏爱 $e$ 甚于 $f$。
   - id: 43
     kind: body
     source: |-
       An example of a stable match for this situation is represented as three pairs $(a,e)$, $(b,f)$, $(c,d)$. Note that woman $d$ ends up with the man that is at the bottom of her list. But this match is still stable, for although $c$ is willing to swap her husband for any of the other two men, these two candidates will not agree, for they both happen to be married to the woman who is on the top of their own list.
     step1: |-
-      TBD
+      此情形的一个稳定匹配例子，表示为三对 $(a,e)$、$(b,f)$、$(c,d)$。注意女子 $d$ 最终落到她名单最底部的男人。但这一匹配仍是稳定的，因为尽管 $c$ 愿意用她的丈夫换另外两名男子中的任何一位，这两位候选人都不会同意，因为他们恰好都娶了自己名单顶端的女子。
     step2: |-
-      TBD
+      这一情形的一个稳定匹配例子，可写作三对 $(a,e)$、$(b,f)$、$(c,d)$。注意女子 $d$ 最终跟了名单上排在最末的那位男子。可这个匹配依然稳定：$c$ 固然愿意拿丈夫去换另外两名男子中的任何一位，那两位却都不会答应——他们碰巧都娶了自己名单上排第一的女子。
   - id: 44
     kind: body
     source: |-
       To check that the Gale-Shapley algorithm always produces stable matchings, we can proceed as follows. Obviously, the situation where no-one is engaged is stable.
     step1: |-
-      TBD
+      为检验盖尔—沙普利算法总是产生稳定匹配，可以这样进行。显然，无人订婚的情形是稳定的。
     step2: |-
-      TBD
+      要检验盖尔—沙普利算法是否总产出稳定匹配，可以这样做。显然，无人订婚的局面是稳定的。
   - id: 45
     kind: body
     source: |-
       What does it mean for $E$, an “engagement” mapping, to be stable on the set of women $W$ and the set of men $M$? Let us use $m >_w m'$ for “$w$ prefers $m$ over $m'$” (so bigger is better).
     step1: |-
-      TBD
+      对“订婚”映射 $E$ 而言，在女子集合 $W$ 与男子集合 $M$ 上稳定是什么意思？我们用 $m >_w m'$ 表示“$w$ 偏爱 $m$ 甚于 $m'$”（越大越好）。
     step2: |-
-      TBD
+      对“订婚”映射 $E$ 来说，在女子集合 $W$ 与男子集合 $M$ 上稳定是什么意思？令 $m >_w m'$ 表示“$w$ 偏爱 $m$ 甚于 $m'$”（数值越大越好）。
   - id: 46
     kind: body
     source: |-
       **(1)**
     step1: |-
-      TBD
+      **（1）**
     step2: |-
-      TBD
+      **（1）**
   - id: 47
     kind: body
     source: |-
       For all $(m,w) \in E$: if there is $w'$ with $w' >_m w$ then there is no $m'$ with $(m',w') \in E$ and $m >_{w'} m'$;
     step1: |-
-      TBD
+      对所有 $(m,w) \in E$：若有 $w'$ 使 $w' >_m w$，则不存在 $m'$ 使 $(m',w') \in E$ 且 $m >_{w'} m'$；
     step2: |-
-      TBD
+      对一切 $(m,w) \in E$：只要存在 $w'$ 使 $w' >_m w$，便不存在 $m'$ 使 $(m',w') \in E$ 且 $m >_{w'} m'$；
   - id: 48
     kind: body
     source: |-
       **(2)**
     step1: |-
-      TBD
+      **（2）**
     step2: |-
-      TBD
+      **（2）**
   - id: 49
     kind: body
     source: |-
       For all $(m,w) \in E$: if there is $m'$ with $m' >_w m$ then there is no $w'$ with $(m',w') \in E$ and $w >_{m'} w'$.
     step1: |-
-      TBD
+      对所有 $(m,w) \in E$：若有 $m'$ 使 $m' >_w m$，则不存在 $w'$ 使 $(m',w') \in E$ 且 $w >_{m'} w'$。
     step2: |-
-      TBD
+      对一切 $(m,w) \in E$：只要存在 $m'$ 使 $m' >_w m$，便不存在 $w'$ 使 $(m',w') \in E$ 且 $w >_{m'} w'$。
   - id: 50
     kind: body
     source: |-
       What does it mean for a man to be *free*?
     step1: |-
-      TBD
+      男子是 *自由的*，这是什么意思？
     step2: |-
-      TBD
+      说一位男子 *自由*，究竟何意？
   - id: 51
     kind: body
     source: |-
       **(3)**
     step1: |-
-      TBD
+      **（3）**
     step2: |-
-      TBD
+      **（3）**
   - id: 52
     kind: body
     source: |-
       The set of free men should equal the set of all men minus the men that are engaged.
     step1: |-
-      TBD
+      自由男子的集合，应等于全体男子的集合减去已订婚的男子。
     step2: |-
-      TBD
+      自由男子的集合，应等于全体男子减去已订婚的男子。
   - id: 53
     kind: body
     source: |-
       Next, inspect what happens in a single step in the algorithm. The precondition for the step is that there is at least one free man $m$ left. Such a free man $m$ proposes to the highest woman $w$ on his list to whom he has not yet proposed.
     step1: |-
-      TBD
+      其次，考察算法单步中发生的事。该步的前提是至少还剩一位自由男子 $m$。这样一位自由男子 $m$ 向他名单上尚未求过婚的最高女子 $w$ 求婚。
     step2: |-
-      TBD
+      其次来看算法单步中发生了什么。此步的前提是至少还剩一位自由男子 $m$；这位自由男子 $m$ 向他名单上尚未求过婚、排位最高的女子 $w$ 求婚。
   - id: 54
     kind: body
     source: |-
       There are two cases. If $w$ is free, $w$ accepts the proposal, and they become engaged. Is the new set of engaged pairs stable? We only have to check for the new pair $(w,m)$.
     step1: |-
-      TBD
+      有两种情形。若 $w$ 自由，$w$ 接受求婚，二人订婚。新的订婚对集合是否稳定？我们只需检查新的一对 $(w,m)$。
     step2: |-
-      TBD
+      分两种情形。若 $w$ 自由，$w$ 便接受求婚，两人订婚。新的订婚对集合是否稳定？只需检查新成的那一对 $(w,m)$。
   - id: 55
     kind: body
     source: |-
@@ -468,121 +476,125 @@ segments:
       - Suppose there is $m'$ with $m' >_w m$. Then if $m'$ is engaged, let us say to $w'$, this must mean that not $w >_{m'} w'$. For otherwise $m'$ would have proposed to $w$ instead of to $w'$.
       - The new list of free men equals the old list, minus $m$. This is correct, for $m$ just got engaged.
     step1: |-
-      TBD
+      - 设存在一位自由的 $w'$，使 $w' >_m w$。这不可能，因为 $w$ 位于 $m$ 名单的顶端。
+      - 设存在 $m'$ 使 $m' >_w m$。那么若 $m'$ 已订婚，比如说与 $w'$ 订婚，这必定意味着并非 $w >_{m'} w'$。否则 $m'$ 就会向 $w$ 而非 $w'$ 求婚。
+      - 新的自由男子名单等于旧名单减去 $m$。这是正确的，因为 $m$ 刚刚订婚。
     step2: |-
-      TBD
+      - 假设存在某位自由的 $w'$，使 $w' >_m w$。这不可能，因为 $w$ 正排在 $m$ 名单之首。
+      - 假设存在 $m'$ 使 $m' >_w m$。那么 $m'$ 若已订婚，比如与 $w'$ 订婚，这必定意味着并非 $w >_{m'} w'$；否则 $m'$ 当初就会向 $w$ 求婚，而不是向 $w'$ 求婚。
+      - 新的自由男子名单等于旧名单去掉 $m$。这是对的，因为 $m$ 刚刚订婚。
   - id: 56
     kind: body
     source: |-
       Now the other case: suppose that $w$ is already engaged. There are two subcases. In case $w$ prefers her own current fiancé, nothing happens. The resulting list of engaged pairs is still stable. The list of free men remains the same, for $m$ proposed and got rejected.
     step1: |-
-      TBD
+      现在看另一种情形：设 $w$ 已经订婚。有两个子情形。若 $w$ 偏爱她当前的未婚夫，则什么也不发生。所得的订婚对名单仍然稳定。自由男子名单保持不变，因为 $m$ 求了婚却被拒绝。
     step2: |-
-      TBD
+      再看另一种情形：设 $w$ 已经订婚。这又分两种子情形。若 $w$ 更中意现任未婚夫，便什么也不发生，所得的订婚对名单依旧稳定，自由男子名单也照旧——$m$ 求了婚，却被回绝。
   - id: 57
     kind: body
     source: |-
       In case $w$ prefers $m$ to her own fiancé $m'$, she swaps: $(m,w)$ replaces $(m',w)$ in the set of engaged pairs. Again, it is easy to see that the resulting list of engaged pairs is stable. Man $m$ gets replaced by $m'$ in the set of free men. This is also correct.
     step1: |-
-      TBD
+      若 $w$ 偏爱 $m$ 甚于自己的未婚夫 $m'$，她就换人：$(m,w)$ 在订婚对集合中取代 $(m',w)$。同样，容易看出所得的订婚对名单是稳定的。在自由男子集合中，男子 $m$ 被 $m'$ 取代。这也是正确的。
     step2: |-
-      TBD
+      若 $w$ 更中意 $m$ 而非现任未婚夫 $m'$，她便换人：订婚对集合中以 $(m,w)$ 取代 $(m',w)$。同样不难看出，所得的订婚对名单是稳定的；自由男子集合里，$m$ 换成 $m'$，这也妥当。
   - id: 58
     kind: body
     source: |-
       Note that the Gale-Shapley matching algorithm is hugely favourable to the party that is doing the proposing. The proposing party gets a chance to make proposals to any candidate, in order of preference. But at the start of the procedure the receiving party has to say “yes” to any proposal! The result of swapping the roles of the men and the women in the algorithm will also compute a stable match, but one that is more advantageous to the women.
     step1: |-
-      TBD
+      注意，盖尔—沙普利匹配算法极大地有利于求婚的一方。求婚方有机会按偏好次序向任何候选人求婚。但在程序开始时，受求婚方必须对任何求婚都说“是”！在算法中把男女角色对调，算出的也是一个稳定匹配，但一个对女子更有利的匹配。
     step2: |-
-      TBD
+      值得注意的是，盖尔—沙普利匹配算法极大地偏向求婚的一方。求婚方可以按偏好次序向任何候选人求婚；而受求婚的一方在程序开头，却必须对任何求婚都说“是”！若把算法中男女的角色对调，算出的仍是稳定匹配，只是这一个更有利于女子。
   - id: 59
     kind: body
     source: |-
       The Gale-Shapley procedure runs in time quadratic in the number of men and women (see, e.g., Cechlérová et al. 2005)[^cechlérová-2005]. Pini et al. (2011) show how participants can easily manipulate the outcome of the procedure by misrepresenting their true preferences. Fortunately, Pini et al. also present an alternative procedure for which manipulation is hard, in that coming up with an individually profitable misrepresentation of one’s preferences is a computationally complex task.
     step1: |-
-      TBD
+      盖尔—沙普利程序的运行时间是男女数目的二次方（例如见 Cechlérová et al. 2005）[^cechlérová-2005]。皮尼等（2011）表明，参与者可以轻易地通过虚报真实偏好来操纵程序的结果。所幸皮尼等也提出了另一种程序，操纵在该程序中很难，因为提出一种对个人有利的偏好虚报是一项计算上复杂的任务。
     step2: |-
-      TBD
+      盖尔—沙普利程序的运行时间与男女数目的平方成正比（例如见 Cechlérová et al. 2005）[^cechlérová-2005]。皮尼等（2011）表明，参与者只要虚报真实偏好，就能轻易操纵程序的结果。所幸皮尼等也给出另一种程序，操纵它在计算上很难——要想出一种对个人有利的偏好虚报，本身就是一项计算复杂的任务。
   - id: 60
     kind: body
     source: |-
       The Gale-Shapley algorithm has many important applications, also outside of the area of marriage brokering; Gale and Shapley themselves discuss college admission procedures (1962). The next subsection presents another application.
     step1: |-
-      TBD
+      盖尔—沙普利算法有许多重要应用，也在婚姻中介之外；盖尔与沙普利本人就讨论了大学录取程序（1962）。下一小节介绍另一项应用。
     step2: |-
-      TBD
+      盖尔—沙普利算法有许多重要应用，且不限于婚姻中介；盖尔与沙普利本人就讨论过大学录取程序（1962）。下一小节再介绍一项应用。
   - id: 61
     kind: body
     source: |-
       ### 3.2 A University Housing Assignment Procedure
     step1: |-
-      TBD
+      ### 3.2 大学宿舍分配程序
     step2: |-
-      TBD
+      ### 3.2 大学宿舍分配程序
   - id: 62
     kind: body
     source: |-
       Using the perspective of social software, Parikh and Pauly (2012) investigate a variant of the Gale-Shapley algorithm that is used in the Stanford Housing Draw to assign students to rooms. The situation is more complex than in the marriage setting, because students do not give a complete order on all houses, but only on 8 of them; moreover, they may choose to enter the Draw in groups. In the housing context, the students turn out to have an incentive to honestly submit their true preferences: the draw is *non-manipulable* for them. However, in theory they could still strategize about choosing the subset of 8 houses on which they submit their preferences.
     step1: |-
-      TBD
+      运用社会软件的视角，帕里克与保利（2012）考察了盖尔—沙普利算法的一个变体，该算法在斯坦福宿舍抽签中用于把学生分配到房间。情形比婚姻设定更复杂，因为学生并不对所有宿舍给出完整排序，而只对其中 8 所给出排序；此外，他们可以选择以团体方式参加抽签。在宿舍情境中，学生原来有如实提交真实偏好的动机：抽签对他们来说是 *不可操纵的*。然而在理论上，他们仍可就选择提交偏好的那 8 所房子的子集进行策略考虑。
     step2: |-
-      TBD
+      帕里克与保利（2012）从社会软件的视角，考察盖尔—沙普利算法的一个变体——斯坦福宿舍抽签用它把学生分到房间。情形比婚姻设定复杂：学生并不给所有宿舍排完整次序，只给其中 8 所排序；而且他们还可以结组参加抽签。在宿舍情境里，学生反而有如实提交真实偏好的动机：抽签对他们而言 *不可操纵*。不过理论上，他们仍可在挑选提交偏好的那 8 所这一子集上作策略打算。
   - id: 63
     kind: body
     source: |-
       The issue of knowledge is interesting in this case. Even though the algorithm can be found on the Stanford webpages, most students and administrators do not fully understand how it works. Therefore, the Stanford Housing Draw cannot be assumed as common knowledge among the students. An interesting phenomenon seems to occur: even while admitting not to understand the algorithm, most students would say that they believe it to be fair (Parikh & Pauly 2012)[^parikh-2012].
     step1: |-
-      TBD
+      这一情形中知识的问题很有意思。尽管该算法可以在斯坦福的网页上找到，大多数学生与管理者并不完全理解它如何运作。因此，斯坦福宿舍抽签不能假定为学生间的共同知识。似乎出现了一个有趣的现象：即使承认不理解该算法，大多数学生仍会说他们相信它是公平的（Parikh & Pauly 2012）[^parikh-2012]。
     step2: |-
-      TBD
+      这一情形里，知识的问题颇有意思。算法虽挂在斯坦福的网页上，多数学生与管理者却并不真正懂得它怎么运作。因此不能假定斯坦福宿舍抽签是学生间的共同知识。这里似乎出现了一个有趣现象：多数学生即便承认不懂该算法，仍会说他们相信它公平（Parikh & Pauly 2012）[^parikh-2012]。
   - id: 64
     kind: body
     source: |-
       ## 4. The Logic of Communication
     step1: |-
-      TBD
+      ## 4 通信的逻辑
     step2: |-
-      TBD
+      ## 4 通信的逻辑
   - id: 65
     kind: body
     source: |-
       Communication protocols are important in distributed computing: computing with distributed systems, where a distributed system is a set of computers that are connected through a communication network. Communication protocols are also interesting from a philosophical perspective, especially in the context of discussions of the value of privacy (see entries on privacy and computing and moral responsibility). The formal approach can help in answering philosophical questions such as “Does more security automatically lead to less privacy?”.
     step1: |-
-      TBD
+      通信协议在分布式计算中很重要：与分布式系统一起计算，而分布式系统是一组通过通信网络相连的计算机。通信协议从哲学视角看也很有意思，尤其是在关于隐私价值讨论的语境中（见“隐私”“计算与道德责任”词条）。形式化进路有助于回答诸如“更多的安全性是否自动导致更少的隐私？”这样的哲学问题。
     step2: |-
-      TBD
+      通信协议在分布式计算中不可或缺：所谓分布式计算，就是由分布式系统来算，而分布式系统是一组经通信网络彼此相连的计算机。通信协议从哲学上看也颇有意思，尤其在讨论隐私之价值的语境中（见“隐私”“计算与道德责任”词条）。形式化进路能帮着回答这类哲学问题：“安全性提高，隐私是否就必然减少？”
   - id: 66
     kind: body
     source: |-
       ### 4.1 Communication and Distributed Computing
     step1: |-
-      TBD
+      ### 4.1 通信与分布式计算
     step2: |-
-      TBD
+      ### 4.1 通信与分布式计算
   - id: 67
     kind: body
     source: |-
       In the following example, the inspiration does not only flow from social problems to formal solutions, but also the other way, from successful social practices to formal procedures. Many algorithms for distributed computing are related to social protocols for communication in everyday life. An example is the use of a “talking stick” to regulate discussion and decision making in a group of peers, with the rules that the talking stick gets passed around and only the person who is holding the stick is allowed to talk (Nerburn 1999)[^nerburn-1999].
     step1: |-
-      TBD
+      在下面的例子中，灵感不仅从社会问题流向形式化解法，也反向流动，从成功的社会实践流向形式化程序。分布式计算的许多算法都与日常生活中的社会通信协议相关。一个例子是用“发言棒”来规制同伴团体中的讨论与决策，规则是发言棒依次传递，只有手持发言棒的人才可以说话（Nerburn 1999）[^nerburn-1999]。
     step2: |-
-      TBD
+      下面的例子中，灵感不只从社会问题流向形式化解法，也反过来，从成功的社会实践流向形式化程序。分布式计算的许多算法，都与日常生活中的社会通信协议相通。一个例子是用“发言棒”规制同侪团体中的讨论与决策：棒子依次传递，只有持棒者才可发言（Nerburn 1999）[^nerburn-1999]。
   - id: 68
     kind: body
     source: |-
       A computer communication protocol based on this social procedure is the token ring protocol. A *token ring* in distributed computing is a network where each computer is connected to exactly two other computers in such a way that each computer is reachable in the network, and where a single “token” circulates around the ring-shaped network. Communication can only be initiated by the current owner of the token.
     step1: |-
-      TBD
+      基于这一社会程序的计算机通信协议是令牌环协议。分布式计算中的 *令牌环* 是一种网络，其中每台计算机恰好与另外两台计算机相连，使网络中每台计算机都可到达，并有一个“令牌”绕着环形网络循环。通信只能由令牌当前持有者发起。
     step2: |-
-      TBD
+      由此社会程序而来的计算机通信协议，就是令牌环协议。分布式计算中的 *令牌环*，是一种网络：每台计算机恰好连到另外两台，网络内处处可达；一个“令牌”沿环形网络循环流转，通信只能由令牌当前的持有者发起。
   - id: 69
     kind: body
     source: |-
       Sometimes the token gets lost through computer or network failure. In such cases the token has to be regenerated, with a guarantee that only one computer has the token. This problem of regenerating the token in a token ring is called the *leader election problem*. Here is an algorithm for it:
     step1: |-
-      TBD
+      有时令牌会因计算机或网络故障而丢失。此时必须重新生成令牌，并保证只有一台计算机持有令牌。在令牌环中重新生成令牌这一问题，称为 *首领选举问题*。下面是它的一个算法：
     step2: |-
-      TBD
+      有时计算机或网络故障会使令牌丢失。这时必须重新生成令牌，并保证只有一台计算机持有它。令牌环中重新生成令牌这一问题，称作 *首领选举问题*。下面给出它的一个算法：
   - id: 70
     kind: body
     source: |-
@@ -590,161 +602,165 @@ segments:
       >
       > Each computer sends its identifier around the ring. When a computer $c$ receives an identifier, $c$ compares it to its own. If the identifier is greater than its own, $c$ passes it on. If it is less than its own, $c$ discards it. If it is equal to its own, $c$ declares itself to be the leader.
     step1: |-
-      TBD
+      > 假定通信按顺时针进行，每台计算机都能区分其顺时针邻居与逆时针邻居。假定所有计算机都有不同的标识符（正整数），且每台计算机知道自己的标识符。
+      >
+      > 每台计算机把自己的标识符沿环发送。当计算机 $c$ 收到一个标识符，$c$ 把它与自己的作比较。若该标识符大于自己的，$c$ 把它传递下去。若小于自己的，$c$ 丢弃它。若等于自己的，$c$ 宣布自己为首领。
     step2: |-
-      TBD
+      > 设通信沿顺时针方向进行，且每台计算机都能分辨自己的顺时针邻居与逆时针邻居。设所有计算机的标识符互不相同（皆为正整数），且各机皆知自己的标识符。
+      >
+      > 每台计算机把自己的标识符沿环送出。计算机 $c$ 收到一个标识符时，$c$ 便与自己的相较：若大于自己的，$c$ 便转手送出；若小于自己的，$c$ 便弃之不问；若等于自己的，$c$ 即宣布自己为首领。
   - id: 71
     kind: body
     source: |-
       It is not hard to see that this guarantees the computer with the highest identifier $i_{\text{max}}$ to become the leader (see Lynch 1996)[^lynch-1996]. No assumptions need to be made about the number of computers in the ring, nor about any computer knowing anything about the size of the ring or the identifiers of the other computers. A next stage of the protocol could be for the leader to send around a request to register as non-leader and halt.
     step1: |-
-      TBD
+      不难看出，这保证了标识符最大的计算机 $i_{\text{max}}$ 成为首领（见 Lynch 1996）[^lynch-1996]。无需对环中计算机的数目作任何假定，也无需假定任何计算机知道环的大小或其他计算机的标识符。协议的下一阶段可以是首领发送一圈请求，要求各机登记为非首领并停机。
     step2: |-
-      TBD
+      不难看出，这保证了标识符最大的计算机 $i_{\text{max}}$ 当选首领（见 Lynch 1996）[^lynch-1996]。至于环中有几台计算机，或哪台计算机是否知道环的大小、他机的标识符，都无需假定。协议的下一阶段，可由首领遍发一圈请求，令各机登记为非首领并停机。
   - id: 72
     kind: body
     source: |-
       One further level of abstraction is from distributed computers or processes to interacting intelligent agents, or multi-agent systems. These agents can be computers, robots, humans, teams of humans, or some mix of these. It is commonly assumed that the agents have a degree of autonomy, that the agents have a restricted local view of the system as a whole, and that there is no designated controller of the whole system (see Wooldridge 2002 [2009])[^wooldridge-2002].
     step1: |-
-      TBD
+      再进一步抽象，是从分布式计算机或进程到互动的智能体，即多智能体系统。这些智能体可以是计算机、机器人、人类、人类团队或其中若干的混合。通常假定智能体具有一定程度的自主性，智能体对作为整体的系统只有受限制的局部视野，且整个系统没有指定的控制者（见 Wooldridge 2002 [2009]）[^wooldridge-2002]。
     step2: |-
-      TBD
+      再往上抽象一层，便是从分布式计算机或进程，转向互动的智能体，即多智能体系统。这些智能体可以是计算机、机器人、人、人的团队，或兼而有之。通常假定：智能体享有某种程度的自主；智能体对系统整体只有受限的局部视野；整个系统没有哪一个被指定的控制者（见 Wooldridge 2002 [2009]）[^wooldridge-2002]。
   - id: 73
     kind: body
     source: |-
       ### 4.2 Common Knowledge and Social Procedures
     step1: |-
-      TBD
+      ### 4.2 共同知识与社会程序
     step2: |-
-      TBD
+      ### 4.2 共同知识与社会程序
   - id: 74
     kind: body
     source: |-
       Many social procedures are designed to create common knowledge (Lewis 1969; van Ditmarsch et al. 2009; and entry on common knowledge)[^ditmarsch-2009][^lewis-1969]. The old-fashioned ritual that takes place when you withdraw a large amount of money from your bank account and have it paid out to you in cash by the cashier is an example.
     step1: |-
-      TBD
+      许多社会程序设计来创造共同知识（Lewis 1969; van Ditmarsch et al. 2009; 并见“共同知识”词条）[^ditmarsch-2009][^lewis-1969]。当你从银行账户取出大笔钱、由出纳以现金付给你时发生的老式仪式，即为一例。
     step2: |-
-      TBD
+      许多社会程序，其设计目的就在创造共同知识（Lewis 1969; van Ditmarsch et al. 2009; 并见“共同知识”词条）[^ditmarsch-2009][^lewis-1969]。你从银行账户取出大笔款项、由出纳点现金付给你时的那套老式仪式，便是一例。
   - id: 75
     kind: body
     source: |-
       How and whether common knowledge can be achieved depends on available communication facilities. Public announcement or publicly observable ritual (the cashier ritual mentioned above) can create common knowledge. But, as Halpern and Moses (1984) proved, message exchange in a distributed environment, where there is no guarantee that messages get delivered, cannot. Halpern and Moses use the example of two generals who are planning a coordinated attack on a city. The generals are on two hills on opposite sides of the city, each with their own army, and they know that they can only succeed in capturing the city if their two armies attack at the same time. But the valley that separates the two hills is in enemy hands, and any messengers that are sent from one army base to the other run a severe risk to get captured. The generals have agreed on a joint attack, but still have to settle the time. So the generals start sending messages, for example, “Let’s attack at 9:00 AM”. But they cannot be sure that the messengers succeed in delivering their message. And if they get through, there is no guarantee that the message of acknowledgement will get delivered. And so on.
     step1: |-
-      TBD
+      共同知识能否达成、以及如何达成，取决于可用的通信设施。公开宣告或可公开观察的仪式（上述出纳仪式）可以创造共同知识。但正如哈尔彭与摩西（1984）所证明的，在分布式环境中，若不能保证消息送达，消息交换则不能创造共同知识。哈尔彭与摩西用两位将军计划协同进攻一座城市的例子。两位将军位于城市两侧的两座山丘上，各率自己的军队，他们知道只有两支军队同时进攻才能成功夺取该城。但分隔两座山丘的山谷在敌人手中，任何从一个军营派往另一个军营的信使都有被俘的严重风险。将军们已商定联合进攻，但还须确定时间。于是将军们开始发送消息，例如“我们上午 9:00 进攻”。但他们无法确定信使能成功送达消息。而即使送达，也不能保证确认消息会被送达。如此等等。
     step2: |-
-      TBD
+      共同知识能否达成、如何达成，取决于可用的通信设施。公开宣告，或可公开观察的仪式（即上述出纳仪式），能创造共同知识。但哈尔彭与摩西（1984）证明：在分布式环境中，若消息送达并无保证，单靠交换消息则创造不出共同知识。他们举了两位将军谋划合攻一城的例子。两位将军分驻城两侧的两座山头，各领一军；他们知道，唯有两军同时进攻，才能拿下此城。可隔开两山的山谷在敌手，从一处营地派往另一处的信使，随时有被擒的危险。将军们已约定合攻，只差定下时辰。于是他们互发消息，譬如“上午 9:00 进攻”。然而信使能否送到，他们无从确定；即便送到，确认的回信能否送到，也同样没有保证。如此循环不已。
   - id: 76
     kind: body
     source: |-
       Even if common knowledge is sometimes hard to achieve in practice, it serves as necessary presumption in regulating society. Roman lawgivers found out long ago that if citizens within their jurisdiction could plead innocence because of being unaware of the law, no offender could ever get convicted. So they invented principles like *Ignorantia legis neminem excusat*, “ignorance of the law excuses no one”. Societies that abide by the rule of law have to be organized in such a way that citizens *in principle* are in a position to know the law. The laws have to be properly published and distributed, for example, by being printed in a government gazette to which every citizen has access.
     step1: |-
-      TBD
+      即使共同知识有时在实践中难以达成，它仍充当规制社会的必要预设。罗马的立法者早就发现，若其辖区内的公民可以因不知法而申辩无辜，则任何罪犯都无法被定罪。于是他们发明了 *Ignorantia legis neminem excusat*（不知法不免责）这样的原则。遵守法治的社会，必须以这样的方式组织：公民 *原则上* 处于能够知道法律的位置。法律必须妥善公布与分发，例如印在每位公民都能查阅的政府公报上。
     step2: |-
-      TBD
+      共同知识虽在实践中有时难以达成，却是规制社会不可或缺的预设。罗马的立法者早已看出：若辖内公民能以不知法为由自辩无辜，则任何罪犯都无从定罪。于是他们立下 *Ignorantia legis neminem excusat*（不知法不免责）之类的原则。奉行法治的社会，其组织必须使公民 *原则上* 有能力知晓法律。法律须妥为公布、分发，例如刊印于人人可得而阅的政府公报。
   - id: 77
     kind: body
     source: |-
       In his book “Rational Ritual” (2001), Michael Suk-Young Chwe points out the importance of the *size* of groups for which common knowledge gets established. A brand name that is common knowledge in a large group is worth a lot of money. Chwe analyzes the example of advertisements broadcasted during the American football Super Bowl. He compares the enormous cost of making something common knowledge by means of such advertisements to the obvious benefits. Part of the benefit is in the fact that the advertisements create common knowledge. An important consideration when deciding to buy a smartphone of a particular brand, for example, is the knowledge that others are going to buy the same model too.
     step1: |-
-      TBD
+      Michael Suk-Young Chwe 在《理性的仪式》（2001）一书中指出，共同知识得以确立的群体 *规模* 很重要。一个在大群体中成为共同知识的品牌名称价值连城。Chwe 分析了美式橄榄球超级碗期间播出的广告这一例子。他把通过此类广告使某事成为共同知识的巨大成本，与明显的收益相比较。收益的一部分就在于这样一个事实：广告创造了共同知识。例如，在决定购买某一品牌的智能手机时，一项重要的考虑是别人也会买同一型号。
     step2: |-
-      TBD
+      Michael Suk-Young Chwe 在《理性的仪式》（2001）一书中指出，共同知识得以确立的群体 *规模* 甚为要紧。一个品牌若在大群体中成为共同知识，便价值不菲。Chwe 剖析了美式橄榄球超级碗期间播出广告的例子，把借这类广告使某事成为共同知识的巨额花费，同显而易见的收益两相对照。收益之一端，恰在于广告创造了共同知识：譬如决定买某一品牌的智能手机时，一项要紧的考量便是别人也会买同一型号。
   - id: 78
     kind: body
     source: |-
       Of course in many social situations, you may want to *prevent* common knowledge from arising, for example, if you want to keep a secret from certain others. There are also more interesting cases where everybody knows some fact, for example that a particular country possesses nuclear weapons, but where it would lead to political problems to make this fact common knowledge by making a public announcement. For a number of such social situations where maintaining privacy and ignorance are crucial, see van Eijck and Verbrugge (2009). An interesting recent development is the study of dynamic-epistemic logic-based *epistemic planning*, which enables us to synthesize communication protocols in order to create certain exact configurations of levels of higher-order knowledge within a group (Bolander and Andersen 2011, Löwe, Pacuit, and Witzel 2011)[^bolander-2011].
     step1: |-
-      TBD
+      当然，在许多社会情境中，你可能想要 *阻止* 共同知识产生，例如当你想对某些人保密时。还有一些更有趣的情形：人人都知道某个事实，例如某个国家拥有核武器，但若通过公开宣告使这一事实成为共同知识，就会导致政治问题。关于若干维持隐私与不知情至关重要的此类社会情境，见 van Eijck 与 Verbrugge（2009）。近来一项有趣的发展，是基于动态认知逻辑的 *认知规划* 研究，它使我们能够合成通信协议，以便在群体内创造出高阶知识层级的某些精确配置（Bolander and Andersen 2011, Löwe, Pacuit, and Witzel 2011）[^bolander-2011]。
     step2: |-
-      TBD
+      当然，在许多社会情境里，你反倒想 *阻止* 共同知识生成，比如要对某些人保守秘密时。还有更耐人寻味的情形：某个人人皆知的事实——例如某国拥有核武器——若经公开宣告成为共同知识，却会招致政治麻烦。关于若干以维持隐私与不知情为要务的社会情境，见 van Eijck 与 Verbrugge（2009）。晚近一项有意思的进展，是基于动态认知逻辑的 *认知规划* 研究：它可以合成通信协议，在群体内造出高阶知识层级的特定精确配置（Bolander and Andersen 2011, Löwe, Pacuit, and Witzel 2011）[^bolander-2011]。
   - id: 79
     kind: body
     source: |-
       ## 5. Strategic Reasoning and Cooperation
     step1: |-
-      TBD
+      ## 5 策略推理与合作
     step2: |-
-      TBD
+      ## 5 策略推理与合作
   - id: 80
     kind: body
     source: |-
       The large field of game theory is extensively explained in other lemmas in this encyclopedia (see among others the entry on game theory). This field of research has been very active since the appearance of the seminal book (Von Neumann and Morgenstern 1944)[^von-1944]. Similarly, social choice theory and in particular voting theory (see entries on social choice theory and voting methods) were already thriving fields of research long before the term social software came along.
     step1: |-
-      TBD
+      博弈论这一广大领域在本百科全书的其它词条中有详尽阐述（另见“博弈论”词条等）。自开创性著作（Von Neumann and Morgenstern 1944）[^von-1944]问世以来，这一研究领域一直非常活跃。同样，社会选择理论尤其是投票理论（见“社会选择理论”“投票方法”词条），早在“社会软件”一词出现之前很久就已是蓬勃发展的研究领域。
     step2: |-
-      TBD
+      博弈论这一广阔领域，本百科全书的其它词条已有详尽论述（另见“博弈论”词条等）。自那部奠基之作（Von Neumann and Morgenstern 1944）[^von-1944]问世以来，该领域一直十分活跃。同样，社会选择理论、尤其是投票理论（见“社会选择理论”“投票方法”词条），早在“社会软件”一词出现之前许久，便已是兴旺的研究领域。
   - id: 81
     kind: body
     source: |-
       It is useful to investigate how formal methods and an algorithmic perspective can help solve societal problems. For example, in the case of the famous prisoner’s dilemma (see entry on prisoner’s dilemma) it is interesting to try to design policies that make cheating the other agent less profitable by penalizing it. Notice that this “social software engineering” takes place at the meta-level, on top of the level of the prisoners choosing their strategies (van Eijck 2015)[^eijck-2015].
     step1: |-
-      TBD
+      考察形式方法与算法视角如何有助于解决社会问题，是有用的。例如，在著名的囚徒困境（见“囚徒困境”词条）情形中，有趣的是尝试设计政策，通过惩罚而使欺骗另一智能体变得不那么有利可图。注意，这种“社会软件工程”发生在元层次上，在囚徒选择其策略的层次之上（van Eijck 2015）[^eijck-2015]。
     step2: |-
-      TBD
+      考察形式方法与算法视角能怎样帮着解决社会问题，颇有用处。例如在著名的囚徒困境（见“囚徒困境”词条）中，不妨试着设计政策，用惩罚叫欺骗对方变得无利可图。要注意，这种“社会软件工程”是在元层次上进行的，位于囚徒选择策略的那一层之上（van Eijck 2015）[^eijck-2015]。
   - id: 82
     kind: body
     source: |-
       A related recent trend in game theory that is relevant for social software, is to step away from solution concepts such as the Nash equilibrium and instead to focus on the process of rational deliberation: the “theory of play” (see van Benthem, Pacuit and Roy, 2011, as well as the entry logics for analyzing games). This type of research delineates both the normative principles guiding the players’ strategic reasoning, and the psychological phenomena explaining the differences between predicted and observed behavior in games (Camerer 2003; Ghosh and Verbrugge 2018; Pacuit 2015; Meijering et al. 2012, 2014; Top et al. 2018)[^camerer-2003][^ghosh-2018][^meijering-2012][^pacuit-2015][^top-2018].
     step1: |-
-      TBD
+      博弈论中一个与社会软件相关的新近趋势，是离开纳什均衡之类的解概念，转而关注理性慎思的过程：“对局理论”（见 van Benthem, Pacuit and Roy, 2011，以及“分析博弈的逻辑”词条）。这类研究既勾勒指导参与者策略推理的规范性原则，也刻画解释博弈中预测行为与观察行为之差异的心理现象（Camerer 2003; Ghosh and Verbrugge 2018; Pacuit 2015; Meijering et al. 2012, 2014; Top et al. 2018）[^camerer-2003][^ghosh-2018][^meijering-2012][^pacuit-2015][^top-2018]。
     step2: |-
-      TBD
+      博弈论中有一新近动向与社会软件相关：不再倚重纳什均衡这类解概念，转而着眼于理性慎思的过程，即“对局理论”（见 van Benthem, Pacuit and Roy, 2011，以及“分析博弈的逻辑”词条）。此类研究一面勾勒引导参与者作策略推理的规范原则，一面刻画用以解释博弈中预测行为与实际行为何以不同的心理现象（Camerer 2003; Ghosh and Verbrugge 2018; Pacuit 2015; Meijering et al. 2012, 2014; Top et al. 2018）[^camerer-2003][^ghosh-2018][^meijering-2012][^pacuit-2015][^top-2018]。
   - id: 83
     kind: body
     source: |-
       In Section 4.2 we briefly discussed the role of the study of knowledge and belief when analyzing social procedures. In this vein, the field of epistemic game theory focuses on agents’ beliefs about other agents’ strategies and those agents’ beliefs about other agents’ strategies, and so on, up to the idealized case of common knowledge among a group of agents that they are all rational (see the entry on epistemic foundations of game theory; Perea 2012; Brandenburger 2014)[^brandenburger-2014][^perea-2012].
     step1: |-
-      TBD
+      在 4.2 节中我们简略讨论了知识与信念研究在分析社会程序时的作用。循此思路，认知博弈论领域关注智能体对其他智能体策略的信念，以及那些智能体对其他智能体策略的信念，如此递进，直至一组智能体共同知道他们全都是理性的这一理想化情形（见“博弈论的认知基础”词条；Perea 2012; Brandenburger 2014）[^brandenburger-2014][^perea-2012]。
     step2: |-
-      TBD
+      4.2 节简略谈到，分析社会程序时研究知识与信念有何作用。循此，认知博弈论关注的是：智能体对其他智能体策略持何种信念，那些智能体又对其他智能体的策略持何种信念，如此层层递进，直至理想化的情形——一群智能体共同知道他们都是理性的（见“博弈论的认知基础”词条；Perea 2012; Brandenburger 2014）[^brandenburger-2014][^perea-2012]。
   - id: 84
     kind: body
     source: |-
       It turns out that in voting theory in particular, it is useful to design a logic to explicitly model the knowledge that agents bring to bear when they are voting. It is especially interesting to model what happens in a group when agents vote strategically by misrepresenting their own preferences in order to manipulate the outcome (van Eijck 2015; van Ditmarsch et al. 2012)[^ditmarsch-2012][^eijck-2015].
     step1: |-
-      TBD
+      事实证明，尤其在投票理论中，设计一种逻辑来明确建模智能体投票时所运用的知识，是有用的。特别有趣的是，建模群体中智能体通过虚报自己的偏好以操纵结果而进行策略性投票时发生的事（van Eijck 2015; van Ditmarsch et al. 2012）[^ditmarsch-2012][^eijck-2015]。
     step2: |-
-      TBD
+      事实证明，尤其在投票理论里，设计一种逻辑来显式建模智能体投票时所依凭的知识，颇有用处。尤为有趣的是，建模群体中智能体虚报自身偏好、以操纵结果而作策略投票时发生的种种（van Eijck 2015; van Ditmarsch et al. 2012）[^ditmarsch-2012][^eijck-2015]。
   - id: 85
     kind: body
     source: |-
       In recent years in the research area of multi-agent systems, formal approaches to social procedures have also been used to help design actual software, for example for cooperative problem solving in teams, coalition formation, knowledge fusion, auctions, and negotiations among software agents (Bulling et al. 2015; Chalkiadakis et al. 2011; Dunin-Kęplicz and Verbrugge 2010; Pauly 2002; Shoham and Leyton-Brown 2009; Vazirani et al. 2007)[^bulling-2015][^chalkiadakis-2011][^dunin-kęplicz-2010][^pauly-2002][^shoham-2009][^vazirani-2007]. This literature is mostly normative in nature.
     step1: |-
-      TBD
+      近年来，在多智能体系统的研究领域，社会程序的形式化进路也被用于帮助设计实际的软件，例如用于团队中的合作式问题求解、联盟形成、知识融合、拍卖，以及软件智能体之间的谈判（Bulling et al. 2015; Chalkiadakis et al. 2011; Dunin-Kęplicz and Verbrugge 2010; Pauly 2002; Shoham and Leyton-Brown 2009; Vazirani et al. 2007）[^bulling-2015][^chalkiadakis-2011][^dunin-kęplicz-2010][^pauly-2002][^shoham-2009][^vazirani-2007]。这些文献在性质上大多是规范性的。
     step2: |-
-      TBD
+      近年以来，在多智能体系统这一研究领域，社会程序的形式化进路也被用来帮助设计实际软件，例如团队内的合作式问题求解、联盟形成、知识融合、拍卖，以及软件智能体之间的谈判（Bulling et al. 2015; Chalkiadakis et al. 2011; Dunin-Kęplicz and Verbrugge 2010; Pauly 2002; Shoham and Leyton-Brown 2009; Vazirani et al. 2007）[^bulling-2015][^chalkiadakis-2011][^dunin-kęplicz-2010][^pauly-2002][^shoham-2009][^vazirani-2007]。这类文献大体属于规范性研究。
   - id: 86
     kind: body
     source: |-
       In contrast, another fascinating area of research, evolutionary game theory (see entry on evolutionary game theory), investigates how features like altruism, social norms, moral behavior and cooperation could actually have evolved. This area combines both normative and descriptive work (Axelrod 1984; Bowles and Gintis 2011; Sigmund 2010)[^axelrod-1984][^bowles-2011][^sigmund-2010]. As a particular social software contribution to this area, Gärdenfors (2012) characterized how much cognition and communication are required for several kinds of cooperation, from simple flocking behavior, through reciprocal altruism (“I’ll scratch your back if you scratch mine”), up to fully fledged teamwork.
     step1: |-
-      TBD
+      相比之下，另一个引人入胜的研究领域——演化博弈论（见“演化博弈论”词条）——考察利他、社会规范、道德行为与合作这类特征实际上是如何演化出来的。这一领域兼含规范性与描述性工作（Axelrod 1984; Bowles and Gintis 2011; Sigmund 2010）[^axelrod-1984][^bowles-2011][^sigmund-2010]。作为社会软件对这一领域的一项特殊贡献，加登福斯（2012）刻画了几种合作所需认知与通信之多寡，从简单的群集行为，经互惠利他（“你替我搔背，我也替你搔背”），直到完全成熟的团队协作。
     step2: |-
-      TBD
+      与此相对，另一个引人入胜的研究领域是演化博弈论（见“演化博弈论”词条），它考察利他、社会规范、道德行为与合作这类特征究竟是如何演化出来的。该领域兼有规范性与描述性两项工作（Axelrod 1984; Bowles and Gintis 2011; Sigmund 2010）[^axelrod-1984][^bowles-2011][^sigmund-2010]。作为社会软件对该领域的一项独特贡献，加登福斯（2012）刻画了若干种合作各自所需的认知与通信多寡：从简单的群集行为，经互惠利他（“你替我搔背，我便替你搔背”），直至完全成熟的团队协作。
   - id: 87
     kind: body
     source: |-
       ## 6. Conclusion
     step1: |-
-      TBD
+      ## 6 结论
     step2: |-
-      TBD
+      ## 6 结论
   - id: 88
     kind: body
     source: |-
       In conclusion, the formal perspective on social procedures and intelligent interaction, which emphasizes algorithms and information, has produced a wide variety of important insights. It has also led to interesting philosophical discussions. The main challenge for the future appears to be to unify this currently relatively scattered field, in which many contributors do not seem to be aware of relevant work in other subfields.
     step1: |-
-      TBD
+      总之，以算法与信息为重的社会程序与智能互动的形式视角，已经产生了种类繁多的洞见。它也引出了有趣的哲学讨论。未来的主要挑战似乎在于统一这个目前相对零散的领域，其中许多贡献者似乎并不了解其他子领域的相关工作。
     step2: |-
-      TBD
+      总而言之，以算法与信息为重的这一形式视角——它同时观照社会程序与智能互动——已经带来形形色色的重要洞见，也引发了有意思的哲学讨论。未来的主要挑战，看来在于把目前相对零散的这一领域统合起来：许多研究者似乎并不了解其他子领域的相关工作。
   - id: 89
     kind: oir
     source: |-
       ### Conference Series
     step1: |-
-      TBD
+      ### 会议系列
     step2: |-
-      TBD
+      ### 会议系列
   - id: 90
     kind: oir
     source: |-
@@ -753,17 +769,23 @@ segments:
       - [LORI: Workshops on Logic, Rationality, and Interaction](http://golori.org/)
       - [LOFT: Logic and the Foundations of Game and Decision Theory](http://www.econ.ucdavis.edu/faculty/bonanno/loft.html).
     step1: |-
-      TBD
+      - [AAMAS：自治智能体与多智能体系统](http://www.ifaamas.org/)。
+      - [TARK：理性与知识的理论面向](http://www.tark.org/)。
+      - [LORI：逻辑、理性与互动工作坊](http://golori.org/)
+      - [LOFT：博弈与决策理论的逻辑与基础](http://www.econ.ucdavis.edu/faculty/bonanno/loft.html)。
     step2: |-
-      TBD
+      - [AAMAS：自治智能体与多智能体系统](http://www.ifaamas.org/)。
+      - [TARK：理性与知识的理论面向](http://www.tark.org/)。
+      - [LORI：逻辑、理性与互动工作坊](http://golori.org/)
+      - [LOFT：博弈与决策理论的逻辑与基础](http://www.econ.ucdavis.edu/faculty/bonanno/loft.html)。
   - id: 91
     kind: oir
     source: |-
       ### Other Sites
     step1: |-
-      TBD
+      ### 其他站点
     step2: |-
-      TBD
+      ### 其他站点
   - id: 92
     kind: oir
     source: |-
@@ -774,33 +796,43 @@ segments:
       - [Interactive demo of the Gale-Shapley algorithm for stable matching](http://mathsite.math.berkeley.edu/smp/smp.html)
       - [Video of the token ring protocol](https://www.youtube.com/watch?v=rMWH21f7b2Q)
     step1: |-
-      TBD
+      - [博弈、行动与社会软件：扬·范艾克与里内克·韦尔布鲁格 2009 年 ESSLLI 课程](https://rinekeverbrugge.nl/teaching/)
+      - [理性能动性的逻辑：埃里克·帕奎特 2010 年 NASSLLI 课程](http://ai.stanford.edu/~epacuit/lograt/nasslli2010.html)
+      - [一种离散且有界的无嫉妒切蛋糕协议：哈里斯·阿齐兹与西蒙·麦肯齐的报告](https://www.youtube.com/watch?v=jGiAckY00ik)
+      - [Kyropoulou 等 2019 年《实践中的公平切蛋糕》一文完整版预印本；2022 年修订](https://arxiv.org/abs/1810.08243)
+      - [稳定匹配盖尔—沙普利算法的交互式演示](http://mathsite.math.berkeley.edu/smp/smp.html)
+      - [令牌环协议视频](https://www.youtube.com/watch?v=rMWH21f7b2Q)
     step2: |-
-      TBD
+      - [博弈、行动与社会软件：扬·范艾克与里内克·韦尔布鲁格 2009 年 ESSLLI 课程](https://rinekeverbrugge.nl/teaching/)
+      - [理性能动性的逻辑：埃里克·帕奎特 2010 年 NASSLLI 课程](http://ai.stanford.edu/~epacuit/lograt/nasslli2010.html)
+      - [一种离散且有界的无嫉妒切蛋糕协议：哈里斯·阿齐兹与西蒙·麦肯齐的报告](https://www.youtube.com/watch?v=jGiAckY00ik)
+      - [Kyropoulou 等 2019 年《实践中的公平切蛋糕》一文完整版预印本；2022 年修订](https://arxiv.org/abs/1810.08243)
+      - [稳定匹配盖尔—沙普利算法的交互式演示](http://mathsite.math.berkeley.edu/smp/smp.html)
+      - [令牌环协议视频](https://www.youtube.com/watch?v=rMWH21f7b2Q)
   - id: 93
     kind: ack
     source: |-
       I would like to express my gratitude to Jan van Eijck for the enjoyable time of writing the first 2014 version of this article together. Thanks are also due to two anonymous referees for suggesting several improvements and additions for this updated version. Because of Jan’s retirement a few years ago, the 2019 update of the article has been made by me (Rineke Verbrugge) and I therefore bear sole responsibility for any remaining infelicities; please let me know if you spot any.
     step1: |-
-      TBD
+      我要感谢扬·范艾克，与他一起撰写本文 2014 年初版是一段愉快的时光。也感谢两位匿名审稿人，他们为这个更新版提出了若干改进与增补。由于扬数年前退休，2019 年的更新由我（里内克·韦尔布鲁格）完成，因此对于任何遗留的不妥之处，我承担全部责任；若您发现，请告知我。
     step2: |-
-      TBD
+      我要感谢扬·范艾克：与他合写本文 2014 年初版，是一段愉快的经历。也要感谢两位匿名审稿人，为这个更新版提出了若干改进与增补。因扬已于数年前退休，本文 2019 年的更新由我（里内克·韦尔布鲁格）独力完成，故一切遗留的不妥之处，责任全在我；若您有所发现，请告知。
   - id: 94
     kind: note
     source: |-
       [^note-1]: “Social software” is also used as a name for Internet communication applications like MSN Messenger, Twitter, and Skype. This is not what this entry is about. And what is sometimes called “social software engineering” is again something different: it is a name for the subdiscipline of software engineering that studies its aspect of social interaction.
     step1: |-
-      TBD
+      [^note-1]: “社会软件”也用作 MSN Messenger、Twitter 与 Skype 之类互联网通信应用的名称。本词条所论并非此义。而有时被称为“社会软件工程”的又是另一回事：它是软件工程的一个子学科的名称，该子学科研究软件工程的社会互动面向。
     step2: |-
-      TBD
+      [^note-1]: “社会软件”一词也被用作 MSN Messenger、Twitter、Skype 之类互联网通信应用的名称，本词条所论并不是这个。至于有时被称作“社会软件工程”的，又是另一回事：那是软件工程之下一个子学科的名称，该子学科专究软件工程的社会互动面向。
   - id: 95
     kind: note
     source: |-
       [^note-2]: Başkent (2017) convincingly argues that it is useful to look beyond classical logic only when analyzing social procedures. He shows that for some examples’s from Parikh’s work on social software, a para-consistent logic provides a useful perspective (see also entry on paraconsistent logic).
     step1: |-
-      TBD
+      [^note-2]: 巴什肯特（2017）令人信服地论证说，只有在分析社会程序时，才宜于超越经典逻辑去看。他表明，对帕里克社会软件研究中的某些例子而言，次协调逻辑提供了一个有用的视角（并见“次协调逻辑”词条）。
     step2: |-
-      TBD
+      [^note-2]: 巴什肯特（2017）有一令人信服的论证：唯有在分析社会程序时，才值得越出经典逻辑之外。他表明，对帕里克社会软件研究中的若干例子来说，次协调逻辑提供了一个有用的视角（并见“次协调逻辑”词条）。
   - id: 96
     kind: note
     source: |-
@@ -808,6 +840,10 @@ segments:
 
       > Another property which holds is that if $F(m, k + 1)$ is true then it can be true that after the action $c$, of cutting a slice from the cake, the remaining main part is big enough for $k$ people and the slice itself is big enough for one. Note the contrast, that the action $r$ preserves $F(m, k)$ regardless of how $r$ is performed whereas the action $c$, of cutting the cake, may yield the desired outcome but need not.
     step1: |-
-      TBD
+      [^note-3]: 帕里克（2002）指出：
+
+      > 另一个成立的性质是：若 $F(m, k + 1)$ 为真，则有可能在切下一片蛋糕的动作 $c$ 之后，剩余的主体足够 $k$ 人，而切下的那片本身足够一人。注意其对比：动作 $r$ 无论怎样施行都保持 $F(m, k)$——$r$ 如何施行无关紧要；而切蛋糕的动作 $c$ 可能产生期望的结果，却未必。
     step2: |-
-      TBD
+      [^note-3]: 帕里克（2002）说：
+
+      > 另有一个成立的性质：若 $F(m, k + 1)$ 为真，则在切下一片蛋糕的动作 $c$ 之后，有可能剩下的主体仍够 $k$ 人分，切下的那片也够一人分。请看这一对比：动作 $r$ 无论怎样施行，都保持 $F(m, k)$——$r$ 怎么施行都不要紧；而切蛋糕的动作 $c$ 也许能达到想要的结果，却不必定如此。
