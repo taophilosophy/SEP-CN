@@ -550,8 +550,8 @@
 | Zhou Dunyi | — | 周敦颐 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31） | 2026-10-31 |
 | Zora Neale Hurston | — | 佐拉·尼尔·赫斯顿 | alexander-crummell | 学界通行汉译 | 2026-11-07 |
 | Øystein Linnebo | Øystein Linnebo | 林内博（首现括注 Øystein Linnebo） | abstract-objects | 学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
-| Śrīgupta | श्रीगुप्त | 室利笈多 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
-| Śāntarakṣita | शान्तरक्षित | 寂护 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Śrīgupta | — | 室利笈多 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Śāntarakṣita | — | 寂护 | abhidharma | 佛学界通行汉译；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | Amartya Sen | — | 阿马蒂亚·森 | justice-healthcareaccess | 学界惯例（《以自由看待发展》中译本通行） | 2026-11-02 |
 | Ronald Dworkin | — | 罗纳德·德沃金 | justice-healthcareaccess | 学界惯例（《认真对待权利》中译本通行） | 2026-11-02 |
 | G. A. Cohen | — | G. A. 科恩 | justice-healthcareaccess | 学界惯例（分析马克思主义政治哲学通行译法） | 2026-11-02 |
@@ -712,10 +712,10 @@
 | John Donne | — | 约翰·多恩 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | René Descartes | René Descartes | 勒内·笛卡尔 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01） | 2026-11-01 |
 | Tsongkhapa | — | 宗喀巴（tsong kha pa blo bzang grags pa，1357–1419） | gelukpa | 佛学界通行汉译 | 2026-11-01 |
-| Nāgārjuna | नागार्जुन | 龙树 | gelukpa | 佛学界千年传统译名（汉译佛典古译，非新造） | 2026-11-01 |
-| Candrakīrti | चन्द्रकीर्ति | 月称 | gelukpa | 佛学界传统译名（中观应成派；汉译佛典古译） | 2026-11-01 |
-| Dharmakīrti | धर्मकीर्ति | 法称 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
-| Buddhapālita | बुद्धपालित | 佛护 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
+| Nāgārjuna | — | 龙树 | gelukpa | 佛学界千年传统译名（汉译佛典古译，非新造） | 2026-11-01 |
+| Candrakīrti | — | 月称 | gelukpa | 佛学界传统译名（中观应成派；汉译佛典古译） | 2026-11-01 |
+| Dharmakīrti | — | 法称 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
+| Buddhapālita | — | 佛护 | gelukpa | 佛学界通行汉译 | 2026-11-01 |
 | Changkya Rolpé Dorjé | — | 章嘉·若必多吉（lcang skya rol pa'i rdo rje，1717–1786） | gelukpa | 藏传佛教通行汉译（章嘉活佛） | 2026-11-01 |
 | Jamyang Zhepa | — | 嘉木样协巴 | gelukpa | 藏传佛教通行汉译 | 2026-11-01 |
 | Künzang Sönam | — | Künzang Sönam（kun bzang bsod nams，1823–1905） | gelukpa | 无通行汉名，保留英文待裁定 | 2026-11-01 |
@@ -788,7 +788,7 @@
 | Uyukpa Rikpé Senggé | — | 乌尤巴·日佩僧格 | epistemology-language-tibetan | 佛学界通行（'U yug pa Rigs pa'i seng ge） | 2026-11-04 |
 | Podong Choklé Namgyel | — | 博东·却列南杰 | epistemology-language-tibetan | 佛学界通行（Bo dong Phyogs las rnam rgyal） | 2026-11-04 |
 | Dharmottara | — | 法上 | epistemology-language-tibetan、knowledge-analysis | 佛学界通行（印度量论师；汉文古译传统；法称后学因明论师，约 770 年；与中文同名古师别为二人） | 2026-11-04 |
-| Śākyaśrībhadra | शाक्यश्रीभद्र | 释迦室利跋陀罗 | epistemology-language-tibetan | 佛学界通行（克什米尔班智达） | 2026-11-04 |
+| Śākyaśrībhadra | — | 释迦室利跋陀罗 | epistemology-language-tibetan | 佛学界通行（克什米尔班智达） | 2026-11-04 |
 
 | Rawls, John | — | 约翰·罗尔斯 | ethics-deontological | 学界通行汉译（《正义论》作者） | 2026-11-04 |
 | Scanlon, Thomas | — | 托马斯·斯坎伦 | ethics-deontological | 学界通行汉译（《我们彼此负有什么义务》作者） | 2026-11-04 |
@@ -891,7 +891,7 @@
 | Huike | — | 慧可 | buddhism-chan | 佛学界通行汉译（二祖） | 2026-11-05 |
 | Linji Yixuan | — | 临济义玄 | buddhism-chan | 佛学界通行汉译（临济宗开祖） | 2026-11-05 |
 | Xuanzang | — | 玄奘 | buddhism-chan | 学界千年通行译名 | 2026-11-05 |
-| Kumārajīva | कुमारजीव | 鸠摩罗什 | buddhism-chan | 学界千年通行译名（译经大师） | 2026-11-05 |
+| Kumārajīva | — | 鸠摩罗什 | buddhism-chan | 学界千年通行译名（译经大师） | 2026-11-05 |
 | Baizhang Huaihai | — | 百丈怀海 | buddhism-chan | 佛学界通行汉译（《清规》作者） | 2026-11-05 |
 | Guifeng Zongmi | — | 圭峰宗密 | buddhism-chan | 佛学界通行汉译（华严/荷泽宗） | 2026-11-05 |
 | Nanyue Huairang | — | 南岳怀让 | buddhism-chan | 佛学界通行汉译（马祖之师） | 2026-11-05 |
@@ -903,11 +903,11 @@
 | Fazang | — | 法藏 | buddhism-chan | 佛学界通行汉译（华严三祖） | 2026-11-05 |
 | Zhiyi | — | 智顗 | buddhism-chan | 佛学界通行汉译（天台智者大师） | 2026-11-05 |
 | Song Xiaozong | — | 宋孝宗 | buddhism-chan | 学界千年通行译名（谥号+庙号体例） | 2026-11-05 |
-| Mahākāśyapa | महाकाश्यप | 摩诃迦叶 | buddhism-chan | 佛学界通行汉译（拈花微笑） | 2026-11-05 |
-| Angulimāla | अङ्गुलिमाल | 鸯掘摩罗 | buddhism-chan | 佛学界通行汉译（《中部》86 经） | 2026-11-05 |
+| Mahākāśyapa | — | 摩诃迦叶 | buddhism-chan | 佛学界通行汉译（拈花微笑） | 2026-11-05 |
+| Angulimāla | — | 鸯掘摩罗 | buddhism-chan | 佛学界通行汉译（《中部》86 经） | 2026-11-05 |
 | Devadatta | — | 提婆达多 | buddhism-chan | 佛学界通行汉译 | 2026-11-05 |
-| Mañjuśrī | मञ्जुश्री | 文殊 | buddhism-chan | 佛学界通行汉译（菩萨） | 2026-11-05 |
-| Vimalakīrti | विमलकीर्ति | 维摩诘 | buddhism-chan | 佛学界通行汉译（居士） | 2026-11-05 |
+| Mañjuśrī | — | 文殊 | buddhism-chan | 佛学界通行汉译（菩萨） | 2026-11-05 |
+| Vimalakīrti | — | 维摩诘 | buddhism-chan | 佛学界通行汉译（居士） | 2026-11-05 |
 | Siddhartha Gautama | — | 悉达多·乔达摩 | buddhism-chan | 学界通行汉译 | 2026-11-05 |
 
 | Bayes, Thomas | — | 托马斯·贝叶斯 | bayes-theorem | 学界通行汉译（贝叶斯定理命名者） | 2026-11-05 |
@@ -1049,7 +1049,7 @@
 | Wŏnchŭk | 圓測 | 圆测 | korean-buddhism | 汉文传统写法（源文汉字 圓測；新罗僧，玄奘门下） | 2026-11-05 |
 | Ŭisang | Ŭisang | 义湘 | korean-buddhism | 汉文传统写法（源文汉字 義湘；新罗华严初祖） | 2026-11-05 |
 | Wŏnhyo | 元曉 | 元晓 | korean-buddhism | 汉文传统写法（源文汉字 元曉；新罗「和诤」国师） | 2026-11-05 |
-| Dignāga | दिग्नाग | 陈那 | korean-buddhism | 佛学界千年传统译名（汉文古译；因明论师） | 2026-11-05 |
+| Dignāga | — | 陈那 | korean-buddhism | 佛学界千年传统译名（汉文古译；因明论师） | 2026-11-05 |
 | Zhiyan | — | 智俨 | korean-buddhism | 汉文传统写法（华严二祖，义湘之师） | 2026-11-05 |
 | Chengguan | — | 澄观 | korean-buddhism | 汉文传统写法（华严四祖） | 2026-11-05 |
 | Ŭich’ŏn | 義天 | 义天 | korean-buddhism | 汉文传统写法（源文汉字 義天；高丽大觉国师，天台宗） | 2026-11-05 |
@@ -1068,7 +1068,7 @@
 | Daehaeng | — | 大行 | korean-buddhism | 汉文传统写法（한마음선원 创始尼，法名 대행 汉字 大行） | 2026-11-05 |
 | Edmund Gettier | — | 盖梯尔 | knowledge-analysis | 学界通行汉译（1963 论文作者，JTB 挑战者） | 2026-11-05 |
 | Saul Kripke | — | 索尔·克里普克 | knowledge-analysis | 学界通行汉译（《命名与必然性》作者） | 2026-11-05 |
-| Śrīharṣa | श्रीहर्ष | 室利诃奢 | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师；sriharsa 词条会话 2026-11-05 裁定） | 2026-11-05 |
+| Śrīharṣa | — | 室利诃奢 | knowledge-analysis | 沿用词汇表定名（12 世纪正理派论师；sriharsa 词条会话 2026-11-05 裁定） | 2026-11-05 |
 | Kuiji | — | 窥基 | korean-philosophy | 佛学界千年传统译名（玄奘弟子，唯识宗二祖） | 2026-11-05 |
 | Tochŭng | 道證 | 道证 | korean-philosophy | 汉文传统写法（源文汉字 道證；圆测弟子，新罗唯识） | 2026-11-05 |
 | Taehyŏn | 大賢 | 大贤 | korean-philosophy | 汉文传统写法（源文汉字 大賢；新罗唯识） | 2026-11-05 |
@@ -1097,10 +1097,10 @@
 | Zhang Zai | — | 张载 | korean-philosophy | 学界千年通行译名（张子正蒙，气学先声） | 2026-11-05 |
 | Zhu Xi | — | 朱熹 | korean-philosophy | 学界千年通行译名（朱子，朝鲜性理学之源） | 2026-11-05 |
 | Fichte | — | 费希特 | korean-philosophy | 学界通行汉译（民族理论） | 2026-11-05 |
-| Kumārila Bhaṭṭa | कुमारिल भट्ट | 鸠摩利罗·跋陀 | kumaarila | SUMMARY 定名（印度哲学史学界通行；约 660 年，前弥曼差） | 2026-11-05 |
+| Kumārila Bhaṭṭa | — | 鸠摩利罗·跋陀 | kumaarila | SUMMARY 定名（印度哲学史学界通行；约 660 年，前弥曼差） | 2026-11-05 |
 | Jaimini | — | 阇弥尼 | kumaarila | 印度哲学史学界通行（《弥曼差经》作者） | 2026-11-05 |
-| Tāranātha | तारनाथ | 多罗那他 | kumaarila | 藏学界通行汉译（1575–1634，觉囊派史家） | 2026-11-05 |
-| Śaṅkara | शंकर | 商羯罗 | kumaarila | 印度哲学史学界通行（不二论吠檀多，约八世纪） | 2026-11-05 |
+| Tāranātha | — | 多罗那他 | kumaarila | 藏学界通行汉译（1575–1634，觉囊派史家） | 2026-11-05 |
+| Śaṅkara | — | 商羯罗 | kumaarila | 印度哲学史学界通行（不二论吠檀多，约八世纪） | 2026-11-05 |
 | Alexander of Aphrodisias | — | 阿弗罗狄西亚的亚历山大 | delmedigo | 学界通行（古代亚里士多德注释家通译；亦作“阿弗罗迪西亚的亚历山大”） | 2026-11-06 |
 | Ashkenazi, Shaul | — | 扫罗·阿什肯纳齐 | delmedigo | 音译（德尔·梅第戈弟子，学界无固定汉名） | 2026-11-06 |
 | Donato, Girolamo | — | 吉罗拉莫·多纳托 | delmedigo | 音译（15 世纪威尼斯人文主义者，意人名通例） | 2026-11-06 |

@@ -266,7 +266,7 @@
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | abductive reasoning | — | 溯因推理 | 语料回收（abduction） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| Abhidhamma | अभिधम्म | 阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”） | 首现（abhidharma） | 佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
+| Abhidhamma | — | 阿毗达磨（巴利语拼形，与梵语 Abhidharma 同指；古译传统作“阿毗昙”） | 首现（abhidharma） | 佛学界通行；与既有 Abhidharma=阿毗达磨 对齐；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | absolute idealism | — | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | abstract objects | — | 抽象对象 | 语料回收 | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | academic freedom | — | 学术自由 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -281,7 +281,7 @@
 | aisthêsis | αἴσθησις | 感知（希腊；亦作“感觉”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Anti-Dühring | Anti-Dühring | 《反杜林论》（恩格斯） | 语料回收 | 学界惯例（经典著作译名）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | arché | ἀρχή | 本原（亦作“始基”） | 语料回收 | 学界惯例（前苏格拉底希腊哲学术语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| anumāna | अनुमान | 比量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| anumāna | — | 比量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | aretê | ἀρετή | 德性（亦作“卓越”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | ancient philosophy | — | 古代哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | anomalous monism | — | 变异一元论（亦作“异常一元论”） | 词汇表复核（源提交 48adaba4） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -333,7 +333,7 @@
 | Critical Theory | — | 批判理论 | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | Dao | 道 | 道 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定命中为跨学科同名不采（凭证 2026-10-30） | 2026-10-30 |
 | deflationary | — | 紧缩（与既有 deflationism=紧缩论 对齐） | 首现（abelard） | 分析哲学文献通行译法；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
-| dharma | धर्म | 法（佛教语境；亦作“达摩”） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
+| dharma | — | 法（佛教语境；亦作“达摩”） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Dasein | Dasein | 此在（海德格尔；亦作“缘在”） | 语料回收 | 学界惯例（海德格尔《存在与时间》陈嘉映译本）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Darwinism | — | 达尔文主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | deductive system | — | 演绎系统 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -463,7 +463,7 @@
 | Metaphysics | — | 形而上学 | 语料回收（标题词，946 篇） | 审定名词库（termonline-all·形而上学在案，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | metric | — | 度规 | spacetime-holearg | A 档（物理学通行译名，“度规”优于“度量”） | 2026-10-28 |
 | metric field | — | 度规场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
-| Mīmāṃsā | मीमांसा | 弥曼差（亦作“弥曼沙”） | 语料回收 | 学界惯例（印度哲学派名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
+| Mīmāṃsā | — | 弥曼差（亦作“弥曼沙”） | 语料回收 | 学界惯例（印度哲学派名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | model theory | — | 模型论 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证）；“模型理论”为土木工程域不采（凭证 2026-10-29） | 2026-10-29 |
 | modus ponens | modus ponens | 肯定前件 | 语料回收 | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | monarchia | monarchia | 专权（与 isonomia 相对的独大状态） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
@@ -527,7 +527,7 @@
 | practical philosophy | — | 实践哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | practical reason | — | 实践理性 | 语料回收 | 审定名词库（termonline-all·自然辩证法·科学哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | pragmatism | — | 实用主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| pratyakṣa | प्रत्यक्ष | 现量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
+| pratyakṣa | — | 现量（印度量论） | 语料回收 | 学界惯例（印度量论通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
 | predicate letter | — | 谓词字母 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | presentism | — | 现在主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | probability theory | — | 概率论 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
@@ -550,9 +550,9 @@
 | Relativism | — | 相对主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | religious belief | — | 宗教信念 | 语料回收 | 学界惯例（宗教认识论通行 belief=信念）；审定库无直接收录（凭证 2026-10-29） | 2026-10-29 |
 | Rubā‘iyyāt | — | 《鲁拜集》（海亚姆四行诗） | 语料回收 | 学界惯例（波斯文学译名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
-| saṃsāra | संसार | 轮回 | 语料回收 | 学界惯例（佛典译语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| saṃsāra | — | 轮回 | 语料回收 | 学界惯例（佛典译语）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | rule-circularity | — | 规则循环（premise-circularity 前提循环） | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
-| Saṃdhinirmocana Sūtra | संधिनिर्मोचन सूत्र | 《解深密经》 | 语料回收（标题词） | 学界惯例（佛典译名）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
+| Saṃdhinirmocana Sūtra | — | 《解深密经》 | 语料回收（标题词） | 学界惯例（佛典译名）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
 | Rule Consequentialism | — | 规则后果论（亦作“规则后果主义”） | 语料回收（标题词） | 学界惯例；佐证本册已登记“后果论”与审定库（凭证 2026-10-31） | 2026-10-31 |
 | scepticism | — | 怀疑论 | 语料回收（arcesilaus） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | naïve realism | naïve realism | 朴素实在论 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词·科学哲学，2026-10-30 浏览器通道凭证） | 2026-10-30 |
@@ -584,9 +584,9 @@
 | subjectivism | — | 主观主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | sufficient reason | — | 充足理由 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | suniêmi | συνίημι | 汇通（译作“理解/汇通”，指集合感官信息的能力） | alcmaeon | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
-| śūnyatā | शून्यता | 空（佛教；亦作“空性”） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| śūnyatā | — | 空（佛教；亦作“空性”） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | Superdeterminism | — | 超决定论 | 语料回收（bell-theorem） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
-| svabhāva | स्वभाव | 自性（佛教） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30）；审定库精确查无（凭证 2026-10-30） | 2026-10-30 |
+| svabhāva | — | 自性（佛教） | 语料回收 | 学界惯例（佛典译语）；审定库无直接收录（凭证 2026-10-30）；审定库精确查无（凭证 2026-10-30） | 2026-10-30 |
 | taṣdīq | — | 断定（阿拉伯逻辑学；与 taṣawwur 概念相对） | 语料回收 | 学界惯例（阿拉伯逻辑学）；审定库仅模糊噪声命中（凭证 2026-10-31） | 2026-10-31 |
 | technê | τέχνη | 技艺（亦作“技术”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Ten Commandments | — | 十诫 | 语料回收（标题词） | 学界惯例（宗教学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -604,8 +604,8 @@
 | universal quantification | — | 全称量化 | 语料回收 | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | universal suspension | — | 普遍悬置 | 语料回收（arcesilaus） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | virtuous person | — | 有德之人（德性伦理学；亦作“有德者”“德性之人”） | 语料回收 | 学界惯例；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
-| tathāgatagarbha | तथागतगर्भ | 如来藏 | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
-| vijñāna | विज्ञान | 识（佛教） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| tathāgatagarbha | — | 如来藏 | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
+| vijñāna | — | 识（佛教） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | vis copulativa | vis copulativa | 连接力 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | visual perception | — | 视知觉（审定；亦作“视觉感知”“视觉知觉”） | 语料回收 | 审定名词库（termonline-all·心理学·认知与实验心理学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | Vorstellung | Vorstellung | 表象（康德/叔本华） | 语料回收 | 学界惯例（德国古典哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31） | 2026-10-31 |
@@ -613,7 +613,7 @@
 | warrant | — | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | waḥdat al-wujūd | — | 存在单一论（亦作“存在统一论”） | 语料回收 | 学界惯例（伊斯兰哲学（伊本·阿拉比学派））；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Wolffianism | — | 沃尔夫主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
-| īśvara | ईश्वर | 自在天（亦作“自在”） | 语料回收 | 学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| īśvara | — | 自在天（亦作“自在”） | 语料回收 | 学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | yì | 義 | 义（義） | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | Boolean algebra | — | 布尔代数 | 首现（boolalg-math） | 学界惯例（数学教材通行译名） | 2026-11-01 |
 | Boolean-valued model | — | 布尔值模型（亦作“布尔值模型论”） | 首现（boolalg-math） | 学界惯例（数理逻辑通行译名） | 2026-11-01 |
@@ -714,7 +714,7 @@
 | Principle of Credulity | — | 轻信原则 | religious-experience | 学界通行（Swinburne 术语） | 2026-11-05 |
 | defeater | — | 击败因子 | religious-experience | 学界通行（知识论；defeasible 另译可挫败） | 2026-11-05 |
 | language-game | — | 语言游戏 | religious-experience | 学界通行（维特根斯坦术语） | 2026-11-05 |
-| Vipassana | विपस्सना | 内观（保留拉丁 vipassanā） | religious-experience | 学界通行（上座部佛教） | 2026-11-05 |
+| Vipassana | — | 内观（保留拉丁 vipassanā） | religious-experience | 学界通行（上座部佛教） | 2026-11-05 |
 | kensho | 見性 | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
 | counter-inductive | — | 反归纳的 | religious-experience | 构词直译 | 2026-11-05 |
 | analogical reasoning | — | 类推推理（SUMMARY 题名既定形） | reasoning-analogy | SUMMARY 既有条目名（r/reasoning-analogy.md） | 2026-11-05 |
@@ -874,16 +874,16 @@
 | Yan Buke | — | 阎步克 | confucius（上游印汉字 閻步克，转通行简体） | 上游汉字 + 学界通行 | 2026-10-28 |
 | Yang Bojun | — | 杨伯峻 | confucius（上游印汉字） | 上游汉字 | 2026-10-28 |
 | Lunyu yizhu | — | 《论语译注》 | confucius（上游印汉字） | 上游汉字 | 2026-10-28 |
-| madhyamaka | मध्यमक | 中观 | gelukpa | 佛学界通行译名；与权威哲学史译本一致 | 2026-11-01 |
-| prāsaṅgika | प्रासङ्गिक | 应成派 | gelukpa | 藏传佛教通译（应成中观）；学界通行 | 2026-11-01 |
-| svātantrika | स्वातन्त्रिक | 自续派 | gelukpa | 藏传佛教通译（自续中观）；学界通行 | 2026-11-01 |
-| Cittamātra | चित्तमात्र | 唯识 | gelukpa | 佛学界通行译名 | 2026-11-01 |
-| Yogācāra | योगाचार | 瑜伽行派 | gelukpa | 佛学界通行译名 | 2026-11-01 |
-| pramāṇa | प्रमाण | 量论 | gelukpa | 因明学通行译名 | 2026-11-01 |
-| vinaya | विनय | 毗奈耶 | gelukpa | 佛学界通行译名（律藏） | 2026-11-01 |
-| Abhisamayālaṃkāra | अभिसमयालंकार | 《现观庄严论》 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| madhyamaka | — | 中观 | gelukpa | 佛学界通行译名；与权威哲学史译本一致 | 2026-11-01 |
+| prāsaṅgika | — | 应成派 | gelukpa | 藏传佛教通译（应成中观）；学界通行 | 2026-11-01 |
+| svātantrika | — | 自续派 | gelukpa | 藏传佛教通译（自续中观）；学界通行 | 2026-11-01 |
+| Cittamātra | — | 唯识 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| Yogācāra | — | 瑜伽行派 | gelukpa | 佛学界通行译名 | 2026-11-01 |
+| pramāṇa | — | 量论 | gelukpa | 因明学通行译名 | 2026-11-01 |
+| vinaya | — | 毗奈耶 | gelukpa | 佛学界通行译名（律藏） | 2026-11-01 |
+| Abhisamayālaṃkāra | — | 《现观庄严论》 | gelukpa | 佛学界通行译名 | 2026-11-01 |
 | abilities | — | 能力 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/abilities））；凭证 2026-11-04 | 2026-11-04 |
-| Pramāṇavārttika | प्रमाणवार्त्तिक | 《释量论》 | gelukpa | 因明学通行译名 | 2026-11-01 |
+| Pramāṇavārttika | — | 《释量论》 | gelukpa | 因明学通行译名 | 2026-11-01 |
 | emptiness | — | 空性 | gelukpa | 佛学界通行译名（空/空性） | 2026-11-01 |
 | two truths | — | 二谛（佛教；犹太哲学语境亦作“两种真理”） | gelukpa、delmedigo | 佛学界通行译名（真谛/俗谛） | 2026-11-01 |
 | reductio | reductio | 归谬法 | gelukpa | 逻辑学通译（归谬论证） | 2026-11-01 |
@@ -1177,15 +1177,15 @@
 | ascertainment（nges pa） | — | 决定（nges pa） | epistemology-language-tibetan | 量论通行（nges pa=决定知） | 2026-11-04 |
 | non-belying | — | 不欺诳 | epistemology-language-tibetan | 量论通行（avisaṃvāda=不欺诳） | 2026-11-04 |
 | novelty | — | 新得 | epistemology-language-tibetan | 量论通行（量义"新起而不欺诳"） | 2026-11-04 |
-| apoha | अपोह | 遮诠（apoha，字面义"排除"） | epistemology-language-tibetan | 佛学界通译（遮诠说） | 2026-11-04 |
+| apoha | — | 遮诠（apoha，字面义"排除"） | epistemology-language-tibetan | 佛学界通译（遮诠说） | 2026-11-04 |
 | anyāpoha（gzhan sel） | — | 遮他（anyāpoha，Tib. gzhan sel） | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
 | correct / incorrect conventional | — | 正世俗／倒世俗 | epistemology-language-tibetan | 中观学通行 | 2026-11-04 |
-| Vaibhāṣika | वैभाषिक | 毗婆沙宗 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
-| Sautrāntika | सौत्रान्तिक | 经量部 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
+| Vaibhāṣika | — | 毗婆沙宗 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
+| Sautrāntika | — | 经量部 | epistemology-language-tibetan | 佛学界通行 | 2026-11-04 |
 | Summaries of epistemology（tshad ma'i bsdus pa） | — | 量论撮要（tshad ma'i bsdus pa） | epistemology-language-tibetan | 直译+括注（bsdus pa=集要） | 2026-11-04 |
 | Collected topics（bsdus grwa） | — | 摄类学（bsdus grwa） | epistemology-language-tibetan | 藏传佛教院教育通译 | 2026-11-04 |
 | Treasure of Reasoning（Tshad ma rigs gter） | — | 《量理宝藏》 | epistemology-language-tibetan | 佛学界通行（萨迦班智达著作） | 2026-11-04 |
-| Pramāṇaviniścaya | प्रमाणविनिश्चय | 《量抉择论》 | epistemology-language-tibetan | 因明学通行 | 2026-11-04 |
+| Pramāṇaviniścaya | — | 《量抉择论》 | epistemology-language-tibetan | 因明学通行 | 2026-11-04 |
 | non-ascertaining perception（snang la ma nges pa） | — | 显而未定识 | epistemology-language-tibetan | 藏传量论通行（七种心识之一） | 2026-11-04 |
 | post-knowledge cognition（bcad shes） | — | 已决识（bcad shes） | epistemology-language-tibetan | 藏传量论通行 | 2026-11-04 |
 | factive assessment（yid dpyod） | — | 伺察识（yid dpyod） | epistemology-language-tibetan | 藏传量论通行+英译对齐 | 2026-11-04 |
@@ -1301,8 +1301,8 @@
 | informal/absolute provability | — | 非形式可证性／绝对可证性 | logic-provability | 数学哲学通行 | 2026-11-05 |
 | hwajaeng（和諍） | 和諍 | 和诤 | korean-buddhism | 汉文传统写法（元晓判教概念；源文汉字 和諍） | 2026-11-05 |
 | One Mind（yixin/ilsim） | 一心 | 一心 | korean-buddhism | 佛典古译（《大乘起信论》一心，源文汉字 一心） | 2026-11-05 |
-| Chakravarti | चक्रवर्तिन् | 转轮圣王 | korean-buddhism | 佛典古译（转轮圣王/转轮王） | 2026-11-05 |
-| icchantika | इच्छन्तिक | 一阐提 | korean-buddhism | 佛典古译（不具信之种性者） | 2026-11-05 |
+| Chakravarti | — | 转轮圣王 | korean-buddhism | 佛典古译（转轮圣王/转轮王） | 2026-11-05 |
+| icchantika | — | 一阐提 | korean-buddhism | 佛典古译（不具信之种性者） | 2026-11-05 |
 | five classes of sentient beings | — | 五性各别 | korean-buddhism | 佛典古译（玄奘门五种姓说） | 2026-11-05 |
 | Fajie yuanqi（法界緣起） | 法界緣起 | 法界缘起 | korean-buddhism | 汉文传统写法（华严宗核心教义） | 2026-11-05 |
 | Xingqi（性起） | 性起 | 性起 | korean-buddhism | 汉文传统写法（华严「性起」对「缘起」） | 2026-11-05 |
@@ -1323,12 +1323,12 @@
 | Silhak（實學） | 實學 | 实学 | korean-philosophy | 学界千年通行（朝鲜实学；源文汉字 實學） | 2026-11-05 |
 | Tonghak（東學） | 東學 | 东学 | korean-philosophy | 学界通行（崔济愚创，源文汉字 東學；与“东方学”区别） | 2026-11-05 |
 | chuch’e（主體） | 主體 | 主体 | korean-philosophy | 学界通行（朝鲜主体思想；源文汉字 主體） | 2026-11-05 |
-| Mīmāṃsā / Pūrva Mīmāṃsā | मीमांसा / पूर्व मीमांसा | 弥曼差／前弥曼差 | kumaarila | 印度哲学史学界通行（汉译佛典传统译名） | 2026-11-05 |
-| svataḥ prāmāṇya | स्वतः प्रामाण्य | 自身有效性（即时证成） | kumaarila | 印度知识论研究通行（弥曼差 svataḥprāmāṇyavāda） | 2026-11-05 |
-| apūrva | अपूर्व | 无前 | kumaarila | 印度哲学史学界通行（弥曼差范畴；亦音译阿普尔瓦，不作主形） | 2026-11-05 |
-| arthāpatti | अर्थापत्ति | 义准量 | kumaarila | 汉译因明传统译名（义准量，Mīmāṃsā 所立六量之一） | 2026-11-05 |
-| sphoṭa | स्फोट | 迸发说 | kumaarila | 印度语言哲学研究通行（梵语语法家意义理论；源文自释 bursting forth） | 2026-11-05 |
-| arthakriyā | अर्थक्रिया | 事用 | kumaarila | 佛教因明研究通行（法称「义作业/事用」，因果效力判准） | 2026-11-05 |
+| Mīmāṃsā / Pūrva Mīmāṃsā | — | 弥曼差／前弥曼差 | kumaarila | 印度哲学史学界通行（汉译佛典传统译名） | 2026-11-05 |
+| svataḥ prāmāṇya | — | 自身有效性（即时证成） | kumaarila | 印度知识论研究通行（弥曼差 svataḥprāmāṇyavāda） | 2026-11-05 |
+| apūrva | — | 无前 | kumaarila | 印度哲学史学界通行（弥曼差范畴；亦音译阿普尔瓦，不作主形） | 2026-11-05 |
+| arthāpatti | — | 义准量 | kumaarila | 汉译因明传统译名（义准量，Mīmāṃsā 所立六量之一） | 2026-11-05 |
+| sphoṭa | — | 迸发说 | kumaarila | 印度语言哲学研究通行（梵语语法家意义理论；源文自释 bursting forth） | 2026-11-05 |
+| arthakriyā | — | 事用 | kumaarila | 佛教因明研究通行（法称「义作业/事用」，因果效力判准） | 2026-11-05 |
 | justified true belief（JTB） | — | 被证成的真信念 | knowledge-analysis | 沿用 justep-coherence 登记主形（学界通行）；本条目按「证成」体例 | 2026-11-05 |
 | Gettier cases | — | 盖梯尔案例 | knowledge-analysis | 知识论通行（以 Edmund Gettier 1963 命名） | 2026-11-05 |
 | no false lemmas | — | 无假前提 | knowledge-analysis | 知识论文献通行直译（conditions 条款名） | 2026-11-05 |
