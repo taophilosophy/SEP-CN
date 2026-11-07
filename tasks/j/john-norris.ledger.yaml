@@ -395,50 +395,66 @@ segments:
     kind: body
     source: |-
       > So that in short, Abstraction, as ‘tis a logical Affection of Thought, is the considering one thing without another, not *absolutely*, but in things that are not really one without the other, nor yet really deniable one of the other. For Abstraction is, as it were, the drawing away of a thing from it self. But where things are really separate or distinct, the considering them apart is not *Abstraction*, but only mere divided Consideration. (*Theory II* 174)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因此简言之，抽象，就其为思想的一种逻辑属性而言，是在不与另一物相混的情况下考察一物——不是*绝对地*，而是在那些并非彼此外在不可分、亦非相互不可谓述的事物之中。因为抽象就仿佛是把一物从其自身抽离出来。而在事物真正分离或有别之处，把它们分开来考察并不是*抽象*，而只是单纯的分开考察。（《理论二》174）
+    step2: |-
+      > 故简言之，抽象，就其为思想之逻辑属性也，谓考一物而不及他物——非*绝对地*，乃在诸物之非实离而不并立者，亦非相否认者也。盖抽象者，若抽一物于其自身之外者也。至若诸物实离实别，则分而考之，非*抽象*，特分别之考察耳。（《理论二》174）
   - id: 50
     kind: body
     source: |-
       Abstraction serves to make the intellect’s “View of things more clear and distinct. As Spectacles, tho’ in him that uses them they argue weakness of Sight, yet when used they do very much assist the Act of Vision” (176–177). Abstraction is the key to understanding how we come to know about minds and bodies. When considering the ideas of body, we understand that
-    step1: TBD
-    step2: TBD
+    step1: |-
+      抽象有助于使智性“对事物的看法更清楚分明。正如眼镜，虽然在佩戴者那里它证明视力的衰弱，可一旦佩戴，它就大大辅助看的活动”（176–177）。抽象是理解我们如何认识心灵与身体的关键。当考察身体的观念时，我们理解到——
+    step2: |-
+      抽象所以使智性“观物更清楚分明。譬诸眼镜，虽在用之者见其目力之弱，然既用之，则大助视之行”（176–177）。抽象者，解吾人何以知心灵与身体之枢也。当考身体之观念，吾人知：
   - id: 51
     kind: body
     source: |-
       > ...one and the same Substance, may have different Modes or Manners of being in *itself*, As the same Body may have Motion and Figure, or else different Figures…For tho’ there be a real Identity between Modes and the thing modefied, yet as Figure suppose may be consider’d without Body, so Body may be consider’d without its Figure, or sometimes as having this Figure, sometimes as having that, just as it is in *Dimensions*. (22)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > ……同一个实体，可以在*其自身*具有不同的样态或存在方式，正如同一个物体可以有运动和形状，或有不同的形状……因为虽然样态与被模态化的东西之间有实在的同一，但正如形状可以脱离物体而被考察，物体也可以脱离其形状而被考察，或时而视为有此形状，时而视为有彼形状，正如在*广延*中那样。（22）
+    step2: |-
+      > ……一同一之实体，可于*其自身*有异样之样态或存在之式，如同一物体可有运动与形，或异形……盖样态与其所附之物虽有实同，然如形可离体而考之，体亦可离其形而考之，或时而视其有此形，时而视其有彼形，如在*广延*中然。（22）
   - id: 52
     kind: body
     source: |-
       This sort of abstraction Norris calls “modal abstraction.” Since we cannot imagine a body without some shape and some dimensions, shape and dimensions are determinables, or modes, of extension. Shape is not an independently existing thing, but is always a modification of an independently existing thing. Since Norris holds that our clear and distinct mental propositions track ideal propositions, we can conclude that shape and dimensions are not substances, but modes. Modal abstraction turns out to underscore Norris’ rehearsal of real distinction. His account is noteworthy because it offers an alternative understanding of the real distinction proof. When we are certain that the two items under consideration are not distinct by modal abstraction, we can be sure the two items are really distinct.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺里斯把这类抽象称为“样态抽象”。既然我们无法想象一个没有某种形状、某种广度的物体，形状与广度就是广延的确定项（determinables），或样态。形状不是独立存在之物，而始终是对一个独立存在之物的模态化。既然诺里斯认为我们清楚分明的心理命题跟踪理想命题，我们可以断定：形状与广度不是实体，而是样态。样态抽象最终凸显了诺里斯对实在区别证明的重述。他的说明值得注意，因为它提供了对实在区别证明的另一种理解。当我们确定：所考察的两个项目之间的差别并非通过样态抽象而成立时，我们就可以确定这两个项目实在有别。
+    step2: |-
+      诺里斯名此类抽象曰“样态抽象”。吾人既不能想像无某形、无某度之体，则形与度者，广延之可决项（determinables），或样态也。形非独立存在之物，恒为独立存在之物之受模态者。诺里斯既谓吾人清楚分明之心理命题随理想命题，则可断：形与度非实体，乃样态。样态抽象终所以显诺里斯复述实在区别之证也。其说可注意，以与实在区别之证一别解。当吾人确定：所考二项之别非由样态抽象而立，则可保二项实别。
   - id: 53
     kind: body
     source: |-
       ### 3.2 Cartesian Real Distinction and Lockean Thinking Matter
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 3.2 笛卡尔的实在区别与洛克的“思想物质”
+    step2: |-
+      ### 3.2 笛卡尔的实在区别与洛克的“思想物质”
   - id: 54
     kind: body
     source: |-
       Another question preoccupying the early moderns concerned the constitution of the human being. Is the human being a union of an immortal soul and a mortal body? Or is the human being a mere body with mentality somehow added? Descartes, in connection with the version of the real distinction proof in the *Sixth Meditation*, argues that we can know clearly and distinctly that a human being is a union of two really distinct substances, a soul and a body. Locke, at 4.3.6 of the *Essay*, states we might be bodies with thought superadded. Norris perceives Locke’s hypothesis as contradicting Cartesian real distinction, so he reestablishes real distinction in his *Theory II*. His reconstruction of Descartes’ proof begins with the realization that the distinction between the mind and body is not at all like the distinction between the body and shape:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      早期近代哲人萦心的另一问题，关乎人的构成。人是永恒灵魂与有朽身体的联合吗？抑或人是单纯的身体、再加上某种心智？笛卡尔在《第六沉思》中给出实在区别证明的那个版本里论证：我们可以清楚分明地知道，人是两个实在有别的实体——灵魂与身体——的联合。洛克在《人类理解论》4.3.6 中则主张：我们可能是带有附加的思想的身体。诺里斯察觉洛克的假说与笛卡尔的实在区别相抵触，于是他在《理论二》中重建实在区别。他对笛卡尔证明的重构，始于认识到心灵与身体之间的区别根本不同于身体与形状之间的区别：
+    step2: |-
+      早期近代人所萦心之又一问，人之构成也。人为不灭之魂与有朽之体之合乎？抑人为徒体、而心外附者乎？笛卡尔于《第六沉思》实在区别之证，谓吾人可清楚分明而知：人为二实别之实体——魂与体——之合。洛克于《人类理解论》4.3.6，谓吾人殆为体而附以思。诺里斯觉洛克之假说与笛卡尔实在区别相抵，乃于《理论二》重立之。其重构笛卡尔之证，始于见：心与体之别，迥异于体与形之别：
   - id: 55
     kind: body
     source: |-
       > And therefore from my being able to conceive a Thinking Being to be, tho’ I should suppose extended Being not be, I conclude that the Ideas of these things are distinct not by modal Abstraction, as figured Substance and moveable substance, but really and intirely distinct from one another, and independent one upon another, and that because things whenever they are must be according to their Ideas. (29–30)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 因此，既然我能够设想一个思维的存在者存在，即使我假定广延的存在不存在，我便断定：这些事物的观念之间的区别不是样态抽象式的区别——如有形实体与可动实体那样的区别——而是彼此实在而完全有别，并且相互独立；因为事物只要存在，就必定依照其观念而存在。（29–30）
+    step2: |-
+      > 故使余能设一思维之存在者而有，纵余假定广延之存在者无有，余遂断：此二物之观念之别，非样态抽象之别——如有形实体与可动实体之比——乃彼此实别而尽别，且相为独立；盖物之有也，必依其观念而有。（29–30）
   - id: 56
     kind: body
     source: |-
       The fact that we can clearly and distinctly conceive of the body existing without the mind and vice versa entails that the body is really distinct from the mind. Ontological relationships are reflected in human thought when we are thinking clearly and distinctly, and if a modal abstraction is present, we can be certain that the items under consideration are the modes of a substance. On the other hand, when one thing can be thought while considering the other as not existing, the things are not modes after all, but really distinct substances. Otherwise, there is no criterion of intelligibility, and for Norris “all Truth is intelligible” (30). If we do not accept the standard of clarity and distinctness, no standard for human judgment remains.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      我们能够清楚分明地设想身体在没有心灵的情况下存在、反之亦然，这一事实蕴含着：身体与心灵实在有别。当我们清楚分明地思考时，本体论关系便反映在人类思想之中；如果存在的是样态抽象，我们就可以确定所考察的项目是一个实体的诸样态。反之，当我们能够在设想另一物不存在的情况下思考一物，这两物就根本不是样态，而是实在有别的实体。否则，就没有可理解性的判准，而对诺里斯来说“一切真理都是可理解的”（30）。如果我们不接受清楚分明这一标准，人类判断就不再有任何标准。
+    step2: |-
+      吾人能清楚分明设体之存于心之外，反之亦然，此事实即含：体与心实别。吾人清楚分明而思时，本体之关系映于人之思想；使所现为样态抽象，则可保所考者为实体之诸样态。反之，使一物可思而他物设想为无，则此二物非样态，乃实别之实体。不然，则无可解之准，而诺里斯谓“凡真理皆可解”（30）。使吾人不纳清楚分明之准，则人之为判，无复有准。
   - id: 57
     kind: body
     source: |-
