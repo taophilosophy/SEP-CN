@@ -2,7 +2,7 @@
   "slug": "arabic-islamic-phil-math",
   "kind": "retranslate",
   "zh_doc": "a/arabic-islamic-phil-math.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-11-07T13:01:36Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:06:46Z",
+      "evidence": "组装定稿 459 行；13 处组装占位符（\\x01）回源修复（script/fix_aipm_placeholders.py 前置门+残余归零）；H1 与 SUMMARY 全题一致"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:06:46Z",
+      "evidence": "五维对账（script/recon_aipm.py）：marker 255:255、defs 136:136、粗体缩写键 0:0 全等；段落 235:233 差-2=源文空分类节标题（Primary/Secondary Sources）按家法丢弃；年份 24 卒于+1 defs 照录 d.1413 全对齐；Avicenna (d. 937) 系源文笔误照源直译留痕"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:06:47Z",
+      "evidence": "四检全绿：style --strict 0、academic --strict OK、math 84 式 0 缺；check_prose 38→12：实修 28 组（script/fix_aipm_prose.py 前置门），豁免 12 处/5 类（概念对举、括注变体、术语密度、书名结构、概念定义句）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "A-main-20261108",
+      "at": "2026-11-07T17:06:51Z",
+      "evidence": "学术挂钩通过；术语 33 行+人名 18 行登记同批提交（wahm/awwalīyāt/fiṭrīyāt/三论证/nafs al-ʾamr 等；Thābit/al-Qūhī/朱尔加尼等）；同键异译归一：苏哈拉瓦迪→苏赫拉瓦尔迪×4、卡提比·加兹维尼→卡提比·卡兹维尼×2、阿布哈里→阿卜哈里×1"
     }
   ],
   "blockers": [],
