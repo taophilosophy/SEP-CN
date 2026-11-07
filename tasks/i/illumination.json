@@ -2,8 +2,44 @@
   "slug": "illumination",
   "kind": "retranslate",
   "zh_doc": "i/illumination.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T20:34:55Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T23:34:00Z",
+      "evidence": "账本双版 90 段（body 88+oir 1+ack 1）分三批落盘：p1 段1-30（定位三判据/恩典类比/纳什案例/古代背景/奥古斯丁两条光照义）、p2 段31-60（概念形成与先天知识二用场/波纳文图拉-佩卡姆-马斯顿/奥利维戒慎/阿奎那主动理智之光）、p3 段61-90（根特的亨利/司各脱四重知识论与四义光照/尾声笛卡尔与马勒布朗士/OIR/致谢）；lq.py compose 写回 21261 字符"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T23:36:39Z",
+      "evidence": "一校（准确性）对照 yuanwen/i/illumination.md 八节逐节核销：段落守恒 90 段（lq.py check HARD=0）；正文脚注键源译 14=14 一一对应（bealer-2000/bonjour-1998/nasar-1998/destrée-2005/haldane-1992/walbridge-2005/marrone-2001/faucher-2019/solignac-2022/gilson-1955/gilson-1926/pasnau-2002/pasnau-2002-2/pasnau-1995/adams-2022 全在场，无增无漏）；古典引文定位逐条核对（Apology 31d、De deo Socratis XVII–XIX、De magistro 11.38/12.40、Phaedrus 242bc、Phaedo 74a、Meno 奴隶几何证明、De anima III 5 430a17–23、Confessions IV.xv.25/V.vi.10/X.ii.2/X.xl.65/XII.xxv.35、八十三问题 q.9、De scientia Christi q.4 resp.、Pecham 1285 书信、Quaestiones disputatae de anima 3 ad 30/De anima 3 p.263/p.258、I Sent. q.2 pp.512–13、ST 1a 75–89 / 84.5sc / 84.5c / 84.6 obj.1 / 1a2ae 109.1c / SCG II.83.1678、De veritate 10.6c/11.1c/11.1 ad 5、In de trinitate pro.1.1c、Summa(亨利) 1.7 ad 1/2.2 ad 1、Quodlibet 9.15、Ordinatio I.3.1.4 nn.221/230/234/258/267/268/269、Discourse 6 AT VI:64、Principles 2.3、Search after Truth p.232）；残留外文碎片扫描 0（连续英文词 0 处，仅存人名/书名/页码）；95 处哲学术语核销（intellectus agens=主动理智、esse intelligibile=可理解性、quiddity=实质、eternal reasons=永恒理据、species=种相、Doctor solemnis=可敬博士、Augustinisme avicennisant=阿维森纳化的奥古斯丁主义）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T23:41:24Z",
+      "evidence": "二校（语言）check_prose 告警 21→0（逐条人工判断改写，非机械替换）：long-sentence 4 处（阿奎那经院长句、马斯顿引文、司各脱引文、尾声长句）拆分；de-chain 9 处改写（L9 排比三“的”→“特属于…特属于…特属于”三段式、L65 长定语改冒号句、L99/L117/L123/L127 减“的”）；passive-bei 4 处改写（Augustine 引文、阿奎那引文、司各脱引文、L115 双被句）；weak-verb 1 处（“加以组合”→“一经组合起来”）。唯一保留英文词为莫名混入的 notwithstanding，已当场清为“纵使”。反欧化条款（rules/02 §反欧化）核对：无“作为一个/存在着/当…的时候/进行+名词”直译"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "I-main-20261108",
+      "at": "2026-11-07T23:43:39Z",
+      "evidence": "三校（体例）check_style 0 issue；check_math 公式 0 缺失；check_summary H1 mismatch 0；check_academic --strict OK；lq.py check 90 段守恒。手动修正 §6.5 陷阱③一处：相关词条 map_related 把 'Arabic and Islamic Philosophy, special topics in: mysticism' 误配为独立词条《神秘主义》（SUMMARY 1842），已按 SUMMARY 171 登记全题改为“阿拉伯和伊斯兰哲学中的神秘主义”；其余六条（托马斯·阿奎那/希波的奥古斯丁/约翰·邓·司各脱/穆拉·萨德拉/彼得·约翰·奥利维/苏哈拉瓦迪）与 SUMMARY 登记题一致。人名与 ren-ming-biao 核对：波纳文图拉(84)、根特的亨利(260)、邓斯·司各脱(183)、阿弗罗狄西亚的亚历山大(1330)、大阿尔伯特(591) 均一致；新登记 10 行（Apuleius/Themistius/Aquasparta/Pecham/Marston/Auvergne/Olivi/Suhrawardi/Mulla Sadra/Nixon）"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:14Z",
   "version_pin": {
