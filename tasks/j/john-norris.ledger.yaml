@@ -459,50 +459,66 @@ segments:
     kind: body
     source: |-
       In *Cursory Reflections*, Norris presses Locke about the nature of an idea. Locke’s account of ideas as originating in sensation and reflection found at 2.1 of the *Essay* is met by Norris with: “These indeed are pretty *Smiling* Sentences. But before we go a step further I would willingly know of the Author what kind of things these Ideas are which are thus let in at the Gate of the Senses” (22). Norris infers that Lockean ideas must be either mental substances or modifications, and then presents difficulties for either option. For Norris, the foundation of intelligibility can never have an empirical basis. The foundation must be the true nature of ideas:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在《匆匆反思》中，诺里斯就“观念”的本性追问洛克。洛克在《人类理解论》2.1 中把观念说成源于感觉与反省，诺里斯对此回应道：“这些话确实是漂亮的*令人微笑的*句子。但在我们再往前走一步之前，我倒愿意向作者请教：这些从感官之门放进来的观念，究竟是何种东西？”（22）诺里斯推论：洛克式的观念必定或者是心灵性的实体，或者是样态；随后他对两种选项都提出了困难。对诺里斯而言，可理解性的基础绝不能有经验性的根据。这个基础必须是观念的真实本性：
+    step2: |-
+      《匆匆反思》中，诺里斯即“观念”之性以诘洛克。洛克于《人类理解论》2.1 以观念起于感觉与反省，诺里斯应之曰：“此数语诚*可喜*之句。然未进一跬步，余愿问之作者：此自感官之门而入之观念，果何物乎？”（22）诺里斯推曰：洛克之观念，必为心性之实体，或为样态；既而又于二者皆设难。于诺里斯，可解之基终不得有经验之据。其基必为观念之真性：
   - id: 58
     kind: body
     source: |-
       > What else *need*, and what else *can* be the immediate Object of our Understanding but the Divine Ideas, the *Omniform Essence* of God? This will open to us a plain intelligible Account of *Human Understanding* …Here I can tell what an Idea is, *viz*. the Omniform Essence of God partially represented or exhibited, and how it comes to be united with my Mind. But as far for all other ways, I look upon them as desperate. (*Cursory Reflections* 31)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 除了神圣观念、上帝那*全形的本质*，我们的知性还能*需要*、还能*可能*有什么别的直接对象呢？这将为我们打开一条关于*人类理解*的平易可解的说明……在此我能够说明一个观念是什么，*即*：上帝全形本质的部分表象或展示，以及它如何与我的心灵结合。至于所有其他途径，我视之为绝路。（《匆匆反思》31）
+    step2: |-
+      > 舍神圣观念、上帝之*全形本质*，吾人知性复何所*须*、复*可*有何直接之对象乎？此将为吾启一平易可解之*人类理解*之说……此中余能言观念为何，*即*上帝全形本质之部分表象或展示，与其何以合于吾心。至其他诸途，余视之为绝路。（《匆匆反思》31）
   - id: 59
     kind: body
     source: |-
       In addition to the defense of real distinction, Norris questions Locke’s suggestion that we might be thinking matter. Norris, along with many of his contemporaries, questions the mechanisms by which matter could be endowed with thought. Mary Astell, with whom Norris corresponded, is as confounded when she wonders whether God “may *according to the good Pleasure of His Omnipotency*, give it [a triangle] a good *speaking*, a *walking*, or a *dancing Faculty*, and make it able to Eat and Drink” (*Christian Religion* 254–255, brackets added). Astell’s assumption here is shared by Norris; things are what they are according to their essences, which are determined by God’s ideas. Extended bodies cannot reveal mental states through walking and dancing, only minds are capable of initiating such acts. Norris utilizes this assumption in one of his arguments against the thinking matter hypothesis:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      除了为实在区别辩护，诺里斯还质疑洛克关于我们可能是“思想物质”的提示。诺里斯与许多同时代人一样，质疑物质何以能被赋予思想的机制。与诺里斯通信的玛丽·阿斯特尔也同样困惑，她设想上帝是否“*依其全能的美意*，可以给〔一个三角形〕一副好*口才*、一种*行走*或*跳舞的能力*，使它能够吃喝”（《基督教宗教》254–255，方括号为引者所加）。阿斯特尔在此的假定为诺里斯所共享：事物依其本质而为其所是，而本质由上帝的观念所决定。广延的物体不能通过行走与跳舞来显示心理状态，只有心灵才能发动这类行动。诺里斯在其反驳思想物质假说的一个论证中，就运用了这一假定：
+    step2: |-
+      诺里斯不独为实在区别辩，抑且疑洛克“吾人殆为思想之物质”之示。诺里斯与并世诸人同，疑物质何以得赋以思之机栝。与诺里斯通书之玛丽·阿斯特尔亦惑，设问上帝“*依其全能之美意*，可予〔一三角形〕以善*言*、*行*、*舞之能*，使其能饮食乎”（《基督教宗教》254–255，方括号为引者所加）。阿斯特尔此所假定者，诺里斯亦同之：物依其本质而为物，而本质定于上帝之观念。广延之体不能以行舞示心之状态，惟心能发此诸行。诺里斯驳思想物质之说，一证即用此假定：
   - id: 60
     kind: body
     source: |-
       > In other words, If a Thinking Being and an Extended Being be really one Idea, that is…if the very same Being be in Idea both Thinking and Extended, however by us considered sometimes under one Formality, and sometimes under another, then the Production of a Thinking Being would be also the Production of an Extended Being, and so they could not be produced apart. But we suppose them separately produceable, and thence think we have reason to conclude that their Ideas are completely and intirely distinct Ideas, and not the same Idea incompletely considered. (*Theory II* 36–37)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      > 换言之，如果一个思维的存在者与一个广延的存在者其实是同一个观念——也就是说……如果同一个存在者在观念中既是思维的又是广延的，只不过我们时而以一种形式性、时而以另一种形式性来考察它——那么，一个思维存在者的产生也就会是一个广延存在者的产生，二者便不能被分开产生。但我们假定它们可以分别产生，并由此认为我们有理由断定：它们的观念是完全而彻底有别的观念，而不是同一个观念的不完整考察。（《理论二》36–37）
+    step2: |-
+      > 易言之，使一思维之存在者与一广延之存在者实为一观念——即谓……同一存在者于观念中既思且广，惟吾人时而以其一形式性、时而以其他形式性考之——则一思维存在者之生，亦将为一广延存在者之生，二者不得离而生矣。然吾人假定其可别生，由是谓有理由断：其观念为完而尽别之观念，非同一观念之不备考。（《理论二》36–37）
   - id: 61
     kind: body
     source: |-
       Since bodies are sometimes separately produced from minds, God does not create them from the same idea. Body and mind are created from different ideas; they have separate essences.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      既然物体有时是与心灵分别产生的，上帝就不是从同一个观念创造它们。身体与心灵由不同的观念被造；它们有各自的本质。
+    step2: |-
+      物体既时与心灵别生，则上帝非自同一观念而造之。体与心由异观念而造；各有其本质。
   - id: 62
     kind: body
     source: |-
       Whereas Locke argues that the human being might, for all we know, be matter with thought superadded, Norris claims in no uncertain terms that the human being is a substantial union. However, Norris can only argue for his claim within his ideal philosophy, which Locke rejects. But the grounds for rejection spring from the very view of ‘idea’ Locke espouses; an idea is generated and formed by sensation and reflection. This debate concerns, fundamentally, the ontological status of ideas, and how far ideas can guarantee a correspondence to reality external to thought. In this debate, the reader can fully appreciate one main difference between Cartesian rationalism and Lockean empiricism in late 17ᵗʰ Century England. For Locke, propositions about ideas are themselves mere mental propositions. As such, their certainty does not guarantee truth. For Norris, clear and distinct mental propositions reflect ideal propositions. Certainty about mental propositions does guarantee truth.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      洛克论证说，就我们所知，人可能是附加了思想的物质；诺里斯则毫不含糊地主张，人是实体性的联合。然而，诺里斯只能在他的观念哲学内部论证这一主张，而洛克拒斥这一哲学。但拒斥的理由恰恰出自洛克所主张的“观念”观：观念是由感觉与反省产生并形成的。这场争论根本上是关于观念的本体论地位，以及观念能在多大程度上保证与思想之外的实在相符合。在这场争论中，读者可以充分体会十七世纪晚期英格兰笛卡尔式理性论与洛克式经验论之间的一个主要差别。对洛克而言，关于观念的命题本身就是单纯的心理命题，因此其确定性并不保证真理。对诺里斯而言，清楚分明的心理命题反映理想命题，关于心理命题的确定性确实保证真理。
+    step2: |-
+      洛克谓就吾人所知，人殆为附思之物质；诺里斯则断然谓人为实体之合。然诺里斯只能于其观念哲学之内证之，而洛克斥此哲学。然其斥之之由，正出于洛克所主“观念”之说：观念由感觉与反省而生而成。此争根本在观念之本体地位，及观念能几何保证与思外之实相符。于是读者可尽见十七世纪晚叶英格兰笛卡尔理性论与洛克经验论之一大别。于洛克，关于观念之命题自身特心理之命题耳，故其确定不保真理。于诺里斯，清楚分明之心理命题映理想命题，心理命题之确定实保真理。
   - id: 63
     kind: body
     source: |-
       Norris offers an important insight into how the real distinction proof depends on abstractive processes. However, like Malebranche, Norris claims that we have no access to God’s idea of the mind. The mind’s existence is known only by inner consciousness, or sentiment. This raises the same problems for Norris that Malebranche has defending the proof. (See Nolan and Whipple 2005.)[^nolan-2005] If humanity is ignorant about the essence of the soul, then there can be no proof using the essence of the soul as a premise; we cannot know if the proposition, ‘The mind is a substance’, is true or false. At best, it is indeterminate. So, whether Norris can fully defend the proof is questionable. Nonetheless, Norris argues for the immortality of the soul in *A Philosophical Discourse concerning the Natural Immortality of the Soul* in response to a work published by Henry Dodwell. Dodwell held that all souls are material, and only a few souls are granted immortality. Norris, relying upon the essence of the soul as immaterial, draws a distinction between the indissolvible and the imperishable (33–34). The soul is naturally indissolvible because it is indivisible, but it is not imperishable. If God ceased his constant creation, all things would immediately cease to exist.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺里斯就实在区别证明如何依赖于抽象过程，提供了一个重要洞见。然而，像马勒布朗士一样，诺里斯主张我们无法通达上帝关于心灵的观念。心灵的存在只由内意识或情感（sentiment）而被知。这给诺里斯带来了与马勒布朗士为这一证明辩护时相同的困难（见 Nolan and Whipple 2005）[^nolan-2005]。如果人类对灵魂的本质无知，那么就不可能有一个以灵魂本质为前提的证明；我们无法知道“心灵是实体”这一命题是真是假。它充其量是不确定的。因此，诺里斯能否充分地为这一证明辩护，是有疑问的。尽管如此，诺里斯在《关于灵魂自然不朽的哲学论说》中为灵魂不朽辩护，以回应亨利·多德韦尔发表的一部著作。多德韦尔主张一切灵魂都是物质的，只有少数灵魂被赐予不朽。诺里斯依据灵魂本质的非物质性，区分了“不可分解”与“不可朽坏”（33–34）。灵魂依其本性是不可分解的，因为它是不可分的；但它并非不可朽坏。如果上帝停止其持续的创造，万物就会立刻停止存在。
+    step2: |-
+      诺里斯于实在区别之证何以赖于抽象之程，有一要见。然如马勒布朗士，诺里斯谓吾人无由达上帝关于心灵之观念。心之有，惟由内意识、或情（sentiment）而知。此于诺里斯生马勒布朗士护此证时同有之难（见 Nolan and Whipple 2005）[^nolan-2005]。使人于灵魂之本质无知，则不得有以灵魂本质为前提之证；吾人无由知“心为实体”之命题为真为伪。至多不定而已。故诺里斯能否尽护此证，可疑也。虽然，诺里斯于《关于灵魂自然不朽之哲学论说》为灵魂不朽辩，以应亨利·多德韦尔所刊之书。多德韦尔谓一切灵魂皆物质，惟少数得赐不朽。诺里斯据灵魂本质之非物，别“不可解”与“不可坏”（33–34）。灵魂以其性不可解，以其不可分故；然非不可坏。使上帝止其常造之功，则万物立止其有。
   - id: 64
     kind: body
     source: |-
       Norris dedicates a chapter in *Theory II* to the topic of animals. Descartes and Malebranche had held that animals are mere machines. Norris agrees there are good reasons to believe that animals are machines, but it is possible that they have souls because “’tis easy to err in the Dark.” Norris discourages “any practices of Cruelty, upon the Bodies of these Creatures, which the Lord of Creation has…subjected to our Power.” He advises us to treat animals “with as much tenderness and pitiful regard, as if they had all that Sense and Perception, which is commonly…attributed to them” (100).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      诺里斯在《理论二》中专辟一章讨论动物。笛卡尔与马勒布朗士曾主张动物只是机器。诺里斯同意有充分理由相信动物是机器，但它们也可能有灵魂，因为“在黑暗中容易走错”。诺里斯劝阻“对这些造物的身体施加任何残忍的做法——造物主已把这些造物……置于我们的权能之下”。他建议我们对待动物“要带着尽可能多的温柔与怜悯，就好像它们具有通常……归于它们的一切感觉与知觉一样”（100）。
+    step2: |-
+      诺里斯于《理论二》专设一章论动物。笛卡尔与马勒布朗士尝谓动物徒为机械。诺里斯许有足据信动物为机械，然亦可能有魂，以“暗中易误”故。诺里斯戒“于诸造物之身施任何残忍之事——造物之主已以此诸物……置于吾人之权下”。又劝吾人待动物“以尽可能之柔慈与哀矜，一如其具常所……归之之一切感觉与知觉”（100）。
   - id: 65
     kind: body
     source: |-
