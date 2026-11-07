@@ -2,7 +2,7 @@
   "slug": "auriol",
   "kind": "retranslate",
   "zh_doc": "a/auriol.md",
-  "state": "r2_reviewed",
+  "state": "r3_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -52,6 +52,13 @@
       "actor": "A-main-20261107",
       "at": "2026-11-07T12:42:34Z",
       "evidence": "二审（语言）接管复核：check_prose 26→9——实修 20 处（导语存世著作句、引用实践研究句拆分、关系范畴讨论句、神学必然论句、得救机制句、ratio 概念句、认知装置句、表象记号句、末一立场句拆分、替代方案句拆分、存在类型固有句、圆与视觉句、直观抽象句五处含 weak-verb 加以×2），余 9 条豁免留痕：引文块内 3（Pasnau 译段 L75）、被认知/知觉/感觉对象术语链 4（L55×3、L65×1，object of cognition 术语链，ADR-0020）、引注组技术长串 1（L45 五连 defs 引用组）、内嵌经文直引 1（L81 哥林多前书 13:12，拆分将割裂引证）；人名逐项核对：25 形在册（s3 12 行齐），补登 Durand of St. Pourcain（圣普尔甘的迪朗）1 行；司各脱三形甄别＝SUMMARY 家法为约翰·邓·司各脱，正文已对齐，册内邓斯·司各脱两行系他条旧形，跨条归一另立专项未擅动；布鲁内卢斯系例证驴名非人名；Boehner/Pasnau 正文保留拉丁形（ADR-0022）；复检 style/academic/math/artifacts 四检 0 硬错误"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "A-main-20261107",
+      "at": "2026-11-07T12:55:41Z",
+      "evidence": "三审（体例）接管复核：check_all 七项全绿（SUMMARY 结构/分类目录/单体文件/垃圾入库/术语一致性/学术规范/管线单测）；定点复检 style --strict 0、academic --strict 0、math 0、render_artifacts 0、prose 9 全豁免留痕；SUMMARY 定名一致（彼得·奥雷奥利 Auriol [Aureol, Aureoli], Peter；司各脱形对齐 SUMMARY 家法约翰·邓·司各脱）；五维对账独立自证：H2 8:8、脚注标记多重集 86:86 全等（ASCII 归一）、defs 键集 71:71 全等、散段 37:37、引用注释型说明行照录——src=dst 逐维相等"
     }
   ],
   "blockers": [],
