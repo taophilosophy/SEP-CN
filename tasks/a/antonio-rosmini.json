@@ -2,7 +2,7 @@
   "slug": "antonio-rosmini",
   "kind": "retranslate",
   "zh_doc": "a/antonio-rosmini.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AB-main-20261106",
       "at": "2026-11-07T07:26:15Z",
       "evidence": "三校（体例）：check_style --strict 0（一次成型）；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 硬错误 0（一次瞬时自洽告警系并行会话编辑词汇表，复跑归零）；正文“波那文图拉”对齐既有登记形“波纳文图拉”，库桑/汉密尔顿首现补全名；人名 6 行/术语 11 行登记"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:45:24Z",
+      "evidence": "初审（准确性）：全文回读对照 yuanwen 逐节核验（§1 三重争议与 2001 年梵蒂冈《说明》、§2 六小节方法、§3 存在观念为思想之绝对基础、§4 感觉者/被感觉者与位格在意志、§5 三条道德论、§6 三类社会与反极权国家观、§7 四阶段衰落说、§8 后天/先天证明与最小手段律十律、§9 神智学三分与三处长引文），实修 2 处：indignity 句改“人自加的尊严沦丧”（原“侮辱”不确）、参考文献区连续空行规整（纯排版，内容未动）；五维复核通过（H2 13/13、defs 2/2、年份假差三类有据）；复检 style 0、prose 19 全为既录豁免类"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:45:25Z",
+      "evidence": "复审（语言与登记）：中英混杂扫描 0（含中文-拉丁邻接探测）；首现括注核验通过（罗斯米尼/洛克/康德/柏拉图/亚里士多德/奥古斯丁/阿奎那/波纳文图拉/孔狄亚克/里德/杜格尔德·斯图尔特/莱布尼茨/维克多·库桑/但丁/马基雅维利/西塞罗/威廉·汉密尔顿/黑格尔/谢林/利奥十三世/庇护七世）；登记 6 人名+11 术语随主提交；术语与册内一致（常青哲学/存在观念/对存在的直观/客观性/感觉主义/神义论/神智学/最小手段律/理性神学/法权的/基本感觉），check_terms 硬错误 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:51:51Z",
+      "evidence": "终审（门禁）：check_all 七项全绿（SUMMARY 结构/目录对应/文长/垃圾/术语/学术规范/单测）；定点四检 style --strict 0、math 0、academic --strict 0 硬错误、render_artifacts 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T07:51:52Z",
+      "evidence": "六道走完，done：a/antonio-rosmini.md（导语+正文 9 节含 18 小节+参考文献区照录+尾节四节+致谢；defs 2 条 -nd 缩写注照录；其他网络资源 1 条实链接译出）；批次 a 进度 done 49/160"
     }
   ],
   "blockers": [],

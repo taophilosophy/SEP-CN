@@ -72,7 +72,7 @@
 
 ### 5.2 道德善
 
-现在有了一条充分描述道德善之本性的路径，以区别于幸福论的善。善者是可欲的；但可欲者或因其自身而可欲（即按其处于存在的秩序中而可欲），或仅因其对个体而言是善的、或被视为善的而可欲。罗斯米尼说，当意志依存在的秩序坚持于善者时，便有道德善；幸福论的或功利论的善，则是被欲求为对个体而言的善，而不参照其自身之善。唯当个体通过意志行为、在实践中坚持于事物在其秩序中所是者，并由此隐含地坚持于整个存在及其在该秩序中的在场时，人的尊严才得以保全。不道德——即欣赏或欲求诸实体却不按其所知的秩序、因而并非如其本然——意味着对存在秩序的本质性反叛，因而也是对存在本身的反叛。自加于人的侮辱不可能比这更低。
+现在有了一条充分描述道德善之本性的路径，以区别于幸福论的善。善者是可欲的；但可欲者或因其自身而可欲（即按其处于存在的秩序中而可欲），或仅因其对个体而言是善的、或被视为善的而可欲。罗斯米尼说，当意志依存在的秩序坚持于善者时，便有道德善；幸福论的或功利论的善，则是被欲求为对个体而言的善，而不参照其自身之善。唯当个体通过意志行为、在实践中坚持于事物在其秩序中所是者，并由此隐含地坚持于整个存在及其在该秩序中的在场时，人的尊严才得以保全。不道德——即欣赏或欲求诸实体却不按其所知的秩序、因而并非如其本然——意味着对存在秩序的本质性反叛，因而也是对存在本身的反叛。人自加的尊严沦丧，不可能比这更低。
 
 ### 5.3 良知
 
@@ -150,10 +150,7 @@
 
 ## 参考文献（引用注释）
 
-
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
-
-
 
 *NE*
 
@@ -183,16 +180,13 @@
 
 *Congregation for the Doctrine of the Faith* *COD* *Concise Oxford Dictionary*
 
-
 ### 校勘本
 
 - *Opere edite e inedite di Antonio Rosmini*. Rome-Stresa. 1966–. Città Nuova Editrice (80 projected volumes —including 19 of correspondence — of which approximately 40 have been published [2001])
 
-
 ### 其他版本
 
 - For a complete list of editions of all Rosmini’s published works in Italian or in translations, cf. Bergamaschi, Cirillo. *Bibliografia degli scritti editi di Antonio Rosmini Serbati*, 1815–1998, 4 vols., Milan-Stresa, 1970–98.
-
 
 ### 译本
 
@@ -208,7 +202,6 @@
 - Grey, M. (trans.), 1887, *The ruling Principle of Method applied to Education*. Boston.
 - Murphy, R. (trans.), 2004, *Introduction to Philosophy*, Durham, UK: Rosmini House.
 - Signini, F. (trans.), 1912, *Theodicy*. 3 vols. London
-
 
 ### 二手文献
 
