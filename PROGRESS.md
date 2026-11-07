@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-11-07 16:42（UTC）
+生成时间：2026-11-07 17:49（UTC）
 
 ## 总览
 
@@ -14,8 +14,8 @@
 |已建英文基线|1879|
 |已建任务|1025|
 |例行/维护任务（不计状态机）|2|
-|已完成（done）|174|
-|在途（drafted 起、done 前）|244|
+|已完成（done）|176|
+|在途（drafted 起、done 前）|242|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,18 +23,18 @@
 |状态|数量|
 |---|---|
 |pending|607|
-|cleared|165|
+|cleared|163|
 |drafted|2|
 |s3_checked|76|
 |r1_reviewed|1|
-|done|174|
+|done|176|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
 |字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
-|A|160|160|160|50|
-|B|62|62|62|6|
+|A|160|160|160|51|
+|B|62|62|62|7|
 |C|172|172|172|3|
 |D|92|92|92|11|
 |E|99|99|99|17|
@@ -82,7 +82,6 @@
 |al-farabi-soc-rel|retranslate|cleared|task_ops 2026-10-31|
 |al-ghazali|retranslate|cleared|task_ops 2026-10-31|
 |alain-locke|retranslate|cleared|task_ops 2026-10-31|
-|arabic-islamic-phil-math|retranslate|cleared|task_ops 2026-11-07|
 |basing-epistemic|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
 |baudrillard|retranslate|cleared|task_ops 2026-11-01|
 |bauer|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
@@ -121,7 +120,6 @@
 |bounded-rationality|retranslate|cleared|task_ops 2026-11-01|
 |boyle|retranslate|cleared|task_ops 2026-11-01|
 |bradley|retranslate|s3_checked|ABCDE-main-20261103 2026-11-02|
-|bradley-moral|retranslate|cleared|task_ops 2026-11-01|
 |bradley-regress|retranslate|cleared|task_ops 2026-11-01|
 |branching-time|retranslate|cleared|task_ops 2026-11-01|
 |brentano|retranslate|cleared|task_ops 2026-11-01|
