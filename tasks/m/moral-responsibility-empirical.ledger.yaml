@@ -107,110 +107,146 @@ segments:
     kind: body
     source: |-
       Addiction is a complex and heterogeneous phenomenon (Glackin et al. 2021)[^glackin-2021], and it is best conceptualized as encompassing several importantly distinct components (Griffiths 2005; Sussman & Sussman 2011; Sinnott-Armstrong & Pickard 2013)[^griffiths-2005][^sinnott-armstrong-2013][^sussman-2011]. These components include excessive use despite deleterious consequences, physiological changes including tolerance and withdrawal, and excessive time spent on drug-related activities, which crowds out other aspects of life. These components are reflected in the criteria for substance use disorders in the Diagnostic and Statistical Manual of Mental Disorders (American Psychiatric Association & DSM-5 Task Force 2013)[^american-2013], a widely used text for psychiatric diagnosis and classification.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      成瘾是一种复杂而多样的现象 (Glackin et al. 2021)[^glackin-2021]，最好把它理解为包含若干重要而不同的成分 (Griffiths 2005; Sussman & Sussman 2011; Sinnott-Armstrong & Pickard 2013)[^griffiths-2005][^sinnott-armstrong-2013][^sussman-2011]。这些成分包括：尽管有有害后果仍过量使用；生理变化，包括耐受性与戒断；以及花在毒品相关活动上的时间过多，挤占了生活的其他方面。这些成分反映在《精神障碍诊断与统计手册》（American Psychiatric Association & DSM-5 Task Force 2013）[^american-2013]的物质使用障碍诊断标准中，该书是精神科诊断与分类广泛使用的文本。
+    step2: |-
+      成瘾是一种复杂而异质的现象 (Glackin et al. 2021)[^glackin-2021]，最宜理解为由若干重要且彼此不同的成分构成 (Griffiths 2005; Sussman & Sussman 2011; Sinnott-Armstrong & Pickard 2013)[^griffiths-2005][^sinnott-armstrong-2013][^sussman-2011]：不顾有害后果的过量使用；耐受性与戒断等生理变化；以及毒品相关活动占用过多时间，挤掉生活的其他方面。这些成分体现在《精神障碍诊断与统计手册》（American Psychiatric Association & DSM-5 Task Force 2013）[^american-2013]的物质使用障碍诊断标准里；该书是精神科诊断与分类领域广泛使用的文本。
   - id: 14
     kind: body
     source: |-
       Impaired control is another important component of addiction that is conceptually distinct from the previous three (Heather 1998, 2020; Sripada 2022)[^heather-1998][^sripada-2022]. The hallmark of impaired control is that a person with (sincerely held) goals to cut down or quit has an inability to get themselves to reach or maintain these goals. As noted earlier, control is a core condition for moral responsibility. Naturally, then, this fourth component of addiction, impaired control, has garnered the most philosophical attention, and it shall be our focus. What is the nature of impaired control in addiction?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      受损的控制是成瘾的另一个重要成分，在概念上区别于前三个成分 (Heather 1998, 2020; Sripada 2022)[^heather-1998][^sripada-2022]。受损控制的标志是：一个有（真诚持有的）减少或戒除目标的人，无法使自己达成或维持这些目标。如前所述，控制是道德责任的核心条件。因此，成瘾的这一第四个成分——受损的控制——自然获得最多哲学关注，也将是我们的焦点。成瘾中受损控制的本质是什么？
+    step2: |-
+      受损的控制是成瘾的又一重要成分，概念上不同于前三种 (Heather 1998, 2020; Sripada 2022)[^heather-1998][^sripada-2022]。其标志在于：一个人怀着（真诚持有的）减量或戒除目标，却无法让自己达成或维持这些目标。前已指出，控制是道德责任的核心条件；因此成瘾的这第四个成分——受损的控制——自然最受哲学关注，也是本节焦点。成瘾中的受损控制究竟是怎么回事？
   - id: 15
     kind: body
     source: |-
       ### 1.2 Addiction Involves Irresistible Desires
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.2 成瘾涉及不可抗拒的欲望
+    step2: |-
+      ### 1.2 成瘾涉及不可抗拒的欲望
   - id: 16
     kind: body
     source: |-
       One possibility is that impaired control in addiction arises from irresistible desires. Very roughly, a desire is irresistible if it is so strong that the person cannot resist it no matter how hard they try, though pinning down the idea with more precision is challenging (Mele 1990; Pickard 2015)[^mele-1990][^pickard-2015]. A particularly vivid depiction of irresistible addictive desires comes from Harry Frankfurt, who gives us the haunting figure of the unwilling addict:
-    step1: TBD
-    step2: TBD
+    step1: |-
+      一种可能是，成瘾中受损的控制源于不可抗拒的欲望。粗略地说，如果一个欲望强到无论人怎样努力都无法抗拒，它就是不可抗拒的；不过要以更精确的方式把握这一观念仍有困难 (Mele 1990; Pickard 2015)[^mele-1990][^pickard-2015]。Harry Frankfurt 对不可抗拒的成瘾欲望作了特别生动的描绘，他给我们提供了那个令人难忘的不情愿的成瘾者形象：
+    step2: |-
+      一种可能是：成瘾中的受损控制源自不可抗拒的欲望。粗略说来，若一个欲望强到无论人怎样努力都无法抗拒，它便是不可抗拒的——当然，要把这一想法说得更精确并不容易 (Mele 1990; Pickard 2015)[^mele-1990][^pickard-2015]。Harry Frankfurt 对不可抗拒的成瘾欲望有过特别生动的刻画，他笔下的“不情愿的成瘾者”令人难忘：
   - id: 17
     kind: body
     source: |-
       [The man] hates his addiction and always struggles desperately, although to no avail, against its thrust. He tries everything that he thinks might enable him to overcome his desires for the drug. But these desires are too powerful for him to withstand, and invariably, in the end, they conquer him. He is an unwilling addict, helplessly violated by his own desires. (Frankfurt 1971, p. 12)[^frankfurt-1971]
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [此人]憎恨自己的成瘾，总是拼命挣扎，尽管徒劳，反抗它的冲力。他尝试一切他认为可能帮助自己克服对毒品之欲望的办法。但这些欲望太强，他无法抵挡，最终无一例外地征服了他。他是一个不情愿的成瘾者，被自己的欲望无助地侵犯。(Frankfurt 1971, p. 12)[^frankfurt-1971]
+    step2: |-
+      [此人]憎恨自己的成瘾，总是拼命挣扎，尽管徒劳，反抗它的冲势。他试遍一切自以为能帮他克服毒瘾的办法。可这些欲望太强，他抵挡不住，最终无一例外地被它们征服。他是个不情愿的成瘾者，被自己的欲望无助地侵犯。(Frankfurt 1971, p. 12)[^frankfurt-1971]
   - id: 18
     kind: body
     source: |-
       The idea that addiction involves irresistible desires was famously endorsed by William James (James 1890)[^james-1890] and has been widespread in philosophy, for example, in Fischer (2012, Section 2.2), Fischer and Ravizza (1998, p. 82), Wolf (1993, Chapter 2), Scanlon (1998, p. 290), and Wallace (1998, Chapter 5), among others. But is the idea accurate? Does impaired control in addiction typically take the form of desires too powerful for a person to withstand?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      成瘾涉及不可抗拒的欲望这一想法，曾由 William James (James 1890)[^james-1890] 著名地支持，并在哲学中广泛流行，例如 Fischer (2012, Section 2.2)、Fischer and Ravizza (1998, p. 82)、Wolf (1993, Chapter 2)、Scanlon (1998, p. 290) 以及 Wallace (1998, Chapter 5) 等。但这一想法准确吗？成瘾中受损的控制，通常是否采取欲望强到人无法抵挡的形式？
+    step2: |-
+      “成瘾涉及不可抗拒的欲望”这一想法，因 William James (James 1890)[^james-1890] 的表态支持而广为人知，随后在哲学界流传甚广——Fischer (2012, Section 2.2)、Fischer and Ravizza (1998, p. 82)、Wolf (1993, Chapter 2)、Scanlon (1998, p. 290)、Wallace (1998, Chapter 5) 等皆持此说。但这想法准确吗？成瘾中受损的控制，通常真是以“欲望强到无法抵挡”的形式出现吗？
   - id: 19
     kind: body
     source: |-
       The answer appears to be, fairly clearly, no. Hanna Pickard provides an influential critique of the idea that that conditions such as addiction involve motives so strong that the person “cannot do otherwise” (Pickard 2015)[^pickard-2015]. A key observation is that individuals with addictions display substantial “incentive sensitivity”: they both act and withhold actions related to drug use based on incentives and disincentives for doing so (Pickard 2012; Hart 2013; Husak 1992; Heyman 2009; Sripada 2022)[^hart-2013][^heyman-2009][^husak-1992][^pickard-2012][^sripada-2022]. So, for example, they avoid drug use when negative consequences are clearly and saliently present, for example when a police officer is “at the elbow” (Morse 2000; Caplan 2006)[^caplan-2006][^morse-2000], and they choose to forsake using drugs if offered only modest-sized incentives (Hart et al. 2000; Higgins & Petry 1999)[^hart-2000][^higgins-1999]. Additionally, many individuals with addictions routinely attempt to quit, and typically manage to maintain sobriety for days and weeks, something that would not be possible if drug-directed desires are literally irresistible (Pickard 2015)[^pickard-2015].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      答案似乎相当清楚：不是。Hanna Pickard 对“成瘾之类状况涉及强到人‘无法不那样做’的动机”这一想法提出了有影响力的批评 (Pickard 2015)[^pickard-2015]。一项关键观察是：成瘾者表现出可观的“激励敏感性”——他们会根据与毒品使用相关的激励与抑制因素而行动或不行动 (Pickard 2012; Hart 2013; Husak 1992; Heyman 2009; Sripada 2022)[^hart-2013][^heyman-2009][^husak-1992][^pickard-2012][^sripada-2022]。例如，当负面后果清楚而显著地出现时，比如警察“就在肘边” (Morse 2000; Caplan 2006)[^caplan-2006][^morse-2000]，他们会避免使用毒品；若只提供中等规模的激励，他们会选择放弃使用毒品 (Hart et al. 2000; Higgins & Petry 1999)[^hart-2000][^higgins-1999]。此外，许多成瘾者经常尝试戒除，且通常能维持数日到数周的清醒，若毒品导向的欲望字面上不可抗拒，这就不可能 (Pickard 2015)[^pickard-2015]。
+    step2: |-
+      答案似乎相当清楚：并非如此。Hanna Pickard 对“成瘾这类状况含有强到使人‘无法不那样做’的动机”这一想法，提出了颇具影响的批评 (Pickard 2015)[^pickard-2015]。关键的一点是：成瘾者表现出可观的“激励敏感性”——他们会依据与吸毒相关的激励与惩罚因素，采取或抑制相应行动 (Pickard 2012; Hart 2013; Husak 1992; Heyman 2009; Sripada 2022)[^hart-2013][^heyman-2009][^husak-1992][^pickard-2012][^sripada-2022]。譬如，负面后果清楚而显著地摆在眼前时——比如警察“就在肘边”——他们会避免吸毒 (Morse 2000; Caplan 2006)[^caplan-2006][^morse-2000]；若给出的激励只是中等规模，他们也会选择不吸 (Hart et al. 2000; Higgins & Petry 1999)[^hart-2000][^higgins-1999]。再者，许多成瘾者经常尝试戒断，且往往能维持数日乃至数周的清醒——若毒品导向的欲望真在字面上不可抗拒，这一点无从解释 (Pickard 2015)[^pickard-2015]。
   - id: 20
     kind: body
     source: |-
       ### 1.3 Addiction Involves Desires That Are Very Hard to Resist
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.3 成瘾涉及极难抗拒的欲望
+    step2: |-
+      ### 1.3 成瘾涉及极难抗拒的欲望
   - id: 21
     kind: body
     source: |-
       Faced with the preceding observations, many theorists retreat to a weaker claim: In addiction, drug-directed desires are not literally irresistible, but they are somehow uniquely *hard* or *difficult* to resist (claims along these lines are found in Watson 1999; Wallace 1999; Kennett 2013; Levy 2006; Henden, Melberg, and Rogeberg 2013; Morse 2002; Holton and Berridge 2013 and Burdman 2022)[^burdman-2022][^holton-2013][^kennett-2013][^levy-2006][^morse-2002][^wallace-1999][^watson-1999]. There are several potential problems for these “hard to resist” views.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      面对上述观察，许多理论家退守一个较弱的主张：在成瘾中，毒品导向的欲望并非字面上不可抗拒，但它们在某种意义上是独特地*难以*或*困难*抗拒的（这类主张见于 Watson 1999; Wallace 1999; Kennett 2013; Levy 2006; Henden, Melberg, and Rogeberg 2013; Morse 2002; Holton and Berridge 2013 以及 Burdman 2022）[^burdman-2022][^holton-2013][^kennett-2013][^levy-2006][^morse-2002][^wallace-1999][^watson-1999]。这些“难以抗拒”观点面临若干潜在问题。
+    step2: |-
+      面对上述观察，不少理论家退守一个较弱的主张：成瘾中毒品导向的欲望虽非字面上不可抗拒，却在某种意义上是独特地*难以*或*困难*抗拒的（此类主张见 Watson 1999; Wallace 1999; Kennett 2013; Levy 2006; Henden, Melberg, and Rogeberg 2013; Morse 2002; Holton and Berridge 2013; Burdman 2022）[^burdman-2022][^holton-2013][^kennett-2013][^levy-2006][^morse-2002][^wallace-1999][^watson-1999]。这些“难以抗拒”论面临几个潜在麻烦。
   - id: 22
     kind: body
     source: |-
       First of all, there are active philosophical disagreements about how best to understand the notion of “hard” or “difficult” (Bradford 2015)[^bradford-2015]. One sense of something’s being hard emphasizes subjective effort (Bermúdez & Massin 2023)[^bermúdez-2023]. This sense seems to be at work when it is said that it is hard to lift a hefty but ultimately manageable weight, say 50 pounds. The weight is not unliftable, but it is not easy to lift—it takes some effort and feels somewhat aversive to do it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      首先，关于如何最好地理解“难”或“困难”这一观念，存在活跃的哲学分歧 (Bradford 2015)[^bradford-2015]。某事物之“难”的一种意义强调主观努力 (Bermúdez & Massin 2023)[^bermúdez-2023]。当人们说举起一个沉重但终究可承受的重物（比如 50 磅）很难时，似乎就是这种意义在起作用。这个重量并非举不起来，但举起来并不轻松——它需要一些努力，做起来令人有些反感。
+    step2: |-
+      首先，“难”或“困难”究竟该怎样理解，哲学上仍有活跃的分歧 (Bradford 2015)[^bradford-2015]。一种意义强调主观努力 (Bermúdez & Massin 2023)[^bermúdez-2023]：说举起一件沉重但终究搬得动的重物（比如 50 磅）很难，用的似乎就是这层意思。它并非举不起来，但举起来不轻松——要费些力气，做起来还有点不好受。
   - id: 23
     kind: body
     source: |-
       But if this is the sense of “hard” at issue, it is not clear that something’s being hard or difficult counts as a form of impaired control that contributes to an excuse from moral responsibility. For example, here are some things that are hard in this effortful sense: going to work early in the morning, grading poorly written student papers, and cleaning up a baby’s messy diaper. Though these things are hard to do, it is a leap to say that we have impaired control over these things, or that we are excused from moral responsibility if we fail to do these things.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      但如果这就是所讨论的“难”的意义，那么某事物之难或困难是否算作一种受损的控制、从而构成免除道德责任的理据，就不清楚了。例如，以下事物在这种努力意义上是难的：清早去上班、批改写得糟糕的学生论文、清理婴儿弄脏的尿布。虽然这些事做起来难，但说我们对这些事拥有受损的控制，或说如果我们没做成这些事就免除了道德责任，那是跳得太远。
+    step2: |-
+      可若所讨论的“难”取此义，那么“某事很难”是否算得上一种受损的控制、并由此成为免除道德责任的理据，就不清楚了。比方说，按这种费力的意义，以下事情都算难：清早赶去上班、批改写得糟糕的学生论文、给婴儿清理弄脏的尿布。这些事固然难做，但若说我们对它们拥有受损的控制，或说没做成它们便可免除道德责任，那就跳得太远了。
   - id: 24
     kind: body
     source: |-
       There is, in addition, an empirical problem for this “hard to resist” view under consideration. A number of studies have asked people to rate the strength of their drug-directed desires. These studies typically find that these desires are rated fairly moderately; notably, people almost never rate them using whatever is the highest rating the survey allows (Hofmann, Baumeister, et al. 2012; Hofmann, Vohs, et al. 2012; Preston et al. 2009)[^preston-2009].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      此外，还有针对正在讨论的这种“难以抗拒”观点的经验问题。若干研究请人们评定其毒品导向欲望的强度。这些研究通常发现，这类欲望被评为相当中等；值得注意的是，人们几乎从不使用调查所允许的最高评分来评定它们 (Hofmann, Baumeister, et al. 2012; Hofmann, Vohs, et al. 2012; Preston et al. 2009)[^preston-2009]。
+    step2: |-
+      此外，眼下这种“难以抗拒”论还面临一个经验难题。多项研究请被试评定自身毒品导向欲望的强度，结果通常显示这些欲望只被评为中等；值得注意的是，人们几乎从不给出问卷所允许的最高分 (Hofmann, Baumeister, et al. 2012; Hofmann, Vohs, et al. 2012; Preston et al. 2009)[^preston-2009]。
   - id: 25
     kind: body
     source: |-
       Perhaps, then, one might offer an alternative analysis of what it means for one’s drug-directed desires to be “hard” to resist or otherwise control. Drawing on a picture rooted in cognitive behavioral therapy, Sripada (2021) proposes that many individuals with addiction experience distorted automatic impressions and evaluations. They inaccurately “see” their self as inadequate, the world as harsh, their future as bleak, their ability to cope without drugs as limited, their relief from using drugs as substantial, and so on. As a result, they engage in drug use (see Pickard (2016) and Flanagan (2013) for additional perspectives on distortions in addiction). These distortions that lie at the root of drug seeking are “hard” to control in the sense that they are difficult for the person to recognize and correct. More specifically, people are highly *unreliable*, in a statistical sense, at recognizing and correcting distorted impressions—they succeed sometimes but many times they don’t. On this model, the person has impaired control not over their drug-directed desires directly, but rather over their distorted impressions and evaluations, which in turn are the source of their seeking to use drugs.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      那么，人们或许可以对“一个人的毒品导向欲望难以抗拒或以其他方式难以控制”提出另一种分析。Sripada (2021) 借鉴植根于认知行为疗法的图景，提出许多成瘾者经历着扭曲的自动印象与评价。他们不准确地“看到”自己不够格、世界严酷、未来黯淡、没有毒品时应对能力有限、使用毒品带来的解脱感巨大，等等。结果是，他们使用毒品（关于成瘾中扭曲的其他视角，见 Pickard (2016) 与 Flanagan (2013)）。这些位于寻药行为根源的扭曲之所以“难以”控制，是因为人难以识别并纠正它们。更具体地说，在统计意义上，人们在识别与纠正扭曲印象方面高度*不可靠*——有时成功，但很多时候失败。按此模型，人的受损控制并不直接针对其毒品导向的欲望，而是针对其扭曲的印象与评价，后者反过来是其寻求使用毒品的根源。
+    step2: |-
+      那么，或许可以对“毒品导向欲望何以难以抗拒或难以控制”另作分析。Sripada (2021) 借用植根于认知行为疗法的图景，提出许多成瘾者会经历扭曲的自动印象与评价：他们不准确地“看”到自己不够格、世界严酷、未来黯淡、离了毒品就应对乏术、吸毒带来的解脱十分可观，等等；由此便去使用毒品（成瘾中扭曲现象的其他视角，见 Pickard (2016)、Flanagan (2013)）。这些作为寻药根源的扭曲之所以“难以”控制，是因为当事人难以识别并纠正它们。更具体地说，从统计上看，人们在识别与纠正扭曲印象方面高度*不可靠*——有时成功，很多时候却不然。按此模型，受损的控制并不直接落在毒品导向的欲望上，而落在扭曲的印象与评价上；后者才是寻药行为的源头。
   - id: 26
     kind: body
     source: |-
       ### 1.4 People Who Use Drugs Do Not Have Impaired Control
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.4 使用毒品者并无受损的控制
+    step2: |-
+      ### 1.4 使用毒品者并无受损的控制
   - id: 27
     kind: body
     source: |-
       Thus far we have been assuming that addiction involves some kind of impaired control over use of drugs and have examined several accounts of what this impaired control amounts to. Not everyone, however, subscribes to this assumption. Some theorists have been attracted to the position that people who use drugs heavily (and meet many of the conventional criteria for the diagnosis of addiction) do not genuinely have impaired control at all (Foddy & Savulescu 2007, 2010; Hart 2013; Heyman 2009)[^foddy-2007][^hart-2013][^heyman-2009]. See also Pickard 2012, for a nuanced related position.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      至此我们一直假定，成瘾涉及某种对毒品使用的受损控制，并考察了关于这种受损控制究竟为何的几种说明。然而并非所有人都接受这一假定。一些理论家倾向于这样一种立场：大量使用毒品的人（且符合成瘾诊断的许多常规标准）实际上根本没有受损的控制 (Foddy & Savulescu 2007, 2010; Hart 2013; Heyman 2009)[^foddy-2007][^hart-2013][^heyman-2009]。另见 Pickard 2012 一个细致入微的相关立场。
+    step2: |-
+      到此为止，我们一直假定成瘾包含某种对吸毒的受损控制，并考察了几种说明。但并非人人都接受这一假定：有些理论家倾向于认为，大量吸毒者（且符合成瘾诊断的许多常规标准）其实根本没有受损的控制 (Foddy & Savulescu 2007, 2010; Hart 2013; Heyman 2009)[^foddy-2007][^hart-2013][^heyman-2009]。另可参看 Pickard 2012 一个更细致、与之相关的立场。
   - id: 28
     kind: body
     source: |-
       On these views, choices to use drugs, even substantial quantities of drugs, are made freely, rationally, and with full control. We may disagree morally with the choices these individuals make. We may not be privy to some of the instrumental goals that they are trying to achieve. But they choose rationally and their control is unimpaired.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      按这些观点，使用毒品——即使数量可观——的选择是自由地、理性地、在完全控制之下做出的。我们可能在道德上不同意这些个体所做的选择。我们可能并不了解他们试图达成的某些工具性目标。但他们是理性地选择，其控制未受损害。
+    step2: |-
+      依这些观点，吸毒——哪怕用量可观——都是自由、理性且在完全控制之下作出的选择。我们也许在道德上不赞成这些人所做的选择，也许并不了解他们想达成的某些工具性目标；但他们选择得理性，控制也未受损。
   - id: 29
     kind: body
     source: |-
       There are, however, some serious problems with these “purposive choice” views. A typical pattern in addiction is that the person attempts to cut back or quit and has some temporary success (i.e., often days to weeks), but eventually resumes regular patterns of use, with this cycle typically repeating multiple times (Dennis et al. 2007; Hunt et al. 1971; Kirshenbaum et al. 2009; McLellan et al. 2000)[^dennis-2007][^hunt-1971][^kirshenbaum-2009][^mclellan-2000]. Also, in order to maintain sobriety, people with addiction frequently undertake interventions that are costly in terms of time, money, and other burdens and risks. For example, they join therapeutic communities (requiring meetings multiple times a week), attend counseling sessions, and undertake onerous drug treatments that require close clinical supervision. These observations seem inconsistent with the claim that drug use is chosen freely, purposively, and with full control.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      然而，这些“目的性选择”观点存在一些严重问题。成瘾中的一个典型模式是：人尝试减量或戒除并取得暂时的成功（即往往数日到数周），但最终恢复规律的吸毒模式，这一循环通常重复多次 (Dennis et al. 2007; Hunt et al. 1971; Kirshenbaum et al. 2009; McLellan et al. 2000)[^dennis-2007][^hunt-1971][^kirshenbaum-2009][^mclellan-2000]。此外，为维持清醒，成瘾者经常采取在时间、金钱及其他负担与风险上代价高昂的干预。例如，他们加入治疗性社区（要求每周多次会面）、参加咨询、接受需要密切临床监督的繁重药物治疗。这些观察似乎与“吸毒是自由地、有目的地、在完全控制之下被选择的”这一主张不一致。
+    step2: |-
+      然而，这些“目的性选择”论有几处严重麻烦。成瘾的典型模式是：当事人尝试减量或戒断，暂时奏效（常为数日至数周），最终又恢复规律吸毒，如此循环往复多次 (Dennis et al. 2007; Hunt et al. 1971; Kirshenbaum et al. 2009; McLellan et al. 2000)[^dennis-2007][^hunt-1971][^kirshenbaum-2009][^mclellan-2000]。而且，为了维持清醒，成瘾者常常采取在时间、金钱以及其他负担与风险上代价高昂的干预：加入治疗性社区（每周要聚会多次）、接受咨询、进行需要严密临床监护的繁重药物治疗。这些观察，似乎与“吸毒是自由、有目的、在完全控制下作出的选择”一说难以相容。
   - id: 30
     kind: body
     source: |-
       ### 1.5 What Is at Stake in the Debate?
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ### 1.5 这场争论的要害何在？
+    step2: |-
+      ### 1.5 这场争论的要害何在？
   - id: 31
     kind: body
     source: |-
