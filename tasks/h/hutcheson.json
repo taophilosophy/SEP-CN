@@ -2,7 +2,7 @@
   "slug": "hutcheson",
   "kind": "retranslate",
   "zh_doc": "h/hutcheson.md",
-  "state": "cleared",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,62 @@
       "actor": "task_ops",
       "at": "2026-11-01T16:15:43Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:01:55Z",
+      "evidence": "lq 账本续作收口：remap 重映射重建账本（旧账本缺 9 节标题段+3 尾段且切分错位，按内容两指针搬运 144 段双版）、真反思重写 46 段假双版（step1==step2，逐段对源文改进：感恩→快意纠错、双重否定纠误、细节顺滑）、fix-bold 转换 154 对 **→*（步骤 2 保留斜体家法）、新填 12 段（9 节标题+oir/ack/note）、补引块段 72（旧 67 星号位与原站 HTML 校正一致）；lq check 守恒门 157 段通过；compose 写回 33349 字符；italic_to_bold 59 行；相关词条 1 个未匹配手工补（aesthetics-18th-british→18 世纪的英国美学）"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:06:43Z",
+      "evidence": "逐节对照 yuanwen/h/hutcheson.md 核销：9 内容节（元伦理学/感官/感官与评价样式/语义学与道德本体论/对理性主义的攻击/规范伦理学/自利与仁爱/德性与效用/德性幸福与快乐主义）全对应；内联 marker 42:42 序列一致、defs 50:50 键集一致、年份 262:262 多重集相等（正文序列全对齐，尾节 def 排序差异系模板性：note-2005 归 ## 脚注 节）；关键概念抽查（moral sense/道德感官、benevolence/仁爱、sentimentalism/情感主义、general Point of View 等）在位；书目含 Clarke/Balguy/Wollaston/Hume/Leibniz 英文文献照录，无中国文献"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:06:44Z",
+      "evidence": "check_prose 总 53→叙述实修归零（30 处：de-chain 23/长句 6/弱动词 2，含'感谢感知'误读纠错为'感恩感知'原因或机缘、'城堡建造者'顺化为空中楼阁建造者），引块内 50 条按 ADR-0020 引文豁免留痕（17-18 世纪源文引语忠实优先）；账本内 step1==step2 假双版 46 段已全部真反思重写，段156 致谢单句为机械段人工确认"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:06:47Z",
+      "evidence": "check_style 0 issue；check_academic --strict 0 硬错误；check_math 无缺失失衡（M=B×A 公式在位）；check_prose 叙述残余 0"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:09:22Z",
+      "evidence": "r1 段级核销：五项对账——节标题 yw16/zh17（差 1 为 compose 模板新增 ## 脚注 节，Acknowledgments 降级致谢并入尾节，结构性豁免）、内联 marker 42:42 序列一致、defs 50:50 键集 ASCII 归一全等、粗体缩写键两侧均空、年份 262:262 多重集相等且正文段序列全对齐（尾节 def 排序差异系脚注模板节前移）；人名括注逐一对（Hutcheson 哈奇森/Shaftesbury 沙夫茨伯里/Mandville 曼德维尔/Clarke 克拉克/Balguy 巴尔格/Wollaston 沃拉斯顿/Frankena 弗兰克纳/Darwall 达尔沃尔 等）；引文页码（Inquiry 15/17/23-25/85-88/100/105-106/116/124-131/163-4/228n33；Essay 130-132/144/164-66/170；System 1/27-30/48-49/54/117）逐一在位"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:09:22Z",
+      "evidence": "r2 句级复读：46 段真反思重写段逐一回读对源文核义（构成性/认识论情感主义划分、卡的摩斯大军引喻、空中楼阁建造者段、平均/总量功利主义段、质性快乐主义之辩），无语义漂移；叙述 30 处实修段回读自然；check_prose 叙述残余 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:09:25Z",
+      "evidence": "r3 终检：四检全绿（style 0/academic 0 硬错误/math 无缺失失衡/prose 叙述 0 引块 50 豁免）；账本守恒门 157/157 通过（段157 note 斜体→书名号属正常转换，段156 机械段确认）；五项对账全过（2 项结构性豁免登记）；术语登记核查——Hutcheson 弗兰西斯·哈奇森 已在 ren-ming-biao L246、sentimentalism 情感主义 已在 yi-zhe-shuo-ming L647"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261107",
+      "at": "2026-11-07T18:09:26Z",
+      "evidence": "h 批 hutcheson 全周期收口：账本 157 段（remap 重映射+真反思 46 段+新填 12 段+fix-bold 154 对），compose 3.3 万字，prose 叙述实修 30 归零引块 50 豁免留痕，四检全绿，五项对账全过，九步凭证齐"
     }
   ],
   "blockers": [],
