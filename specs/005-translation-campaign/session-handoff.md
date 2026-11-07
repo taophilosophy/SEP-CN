@@ -53,3 +53,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 * 阶段 A 验收 → checklist 见 `specs/005-translation-campaign/checklist.md`。
 * 规划书修订（暴露问题回流）→ specs/005 spec.md 版本号 v1.x + 提交说明。
 * 技术债务消化 → specs/004 登记表逐项标记。
+
+## 6. 评审线接管（2026-11-08，用户裁定）
+
+**R-main-20261108 会话负责全部 s3_checked 存量的 r1→r2→r3→done**（当日接管 77 条，约 78 万英文词；用户裁定"现在全部由你负责，不用子代理"，主会话直审）。各词条责任以任务 JSON `steps[].actor` 为准，无需按批次重新认领；原初译会话**不要再自行推进这些词条的 r1–r3**（复核独立性由评审会话满足）。队列顺序与进度看 `tasks/` 状态（s3_checked 只减不增即本线产出）。
