@@ -2,7 +2,7 @@
   "slug": "epictetus",
   "kind": "retranslate",
   "zh_doc": "e/epictetus.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "main",
       "at": "2026-11-01T20:44:20Z",
       "evidence": "三校：check_style 仅 bibliography 照录豁免 18 条；check_academic --strict 0 硬错误"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:10:27Z",
+      "evidence": "r1 段级核销：23 节一一对应、79 个脚注键全等、无重复定义；年份集合无缺无多；*prohairesis*/*koinē*/*chrēsis tōn phantasiōn* 等希腊语术语与《论说集》卷章号（1.1.12/1.8.16/1.28.1–5/2.5.1/2.26.3/3.13.5/3.23.3）逐项核对"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:10:28Z",
+      "evidence": "r2 句级复读：prose 45→27（拆 6 处长句、去'的'链 22 处、被动/弱动词改写 4 处、'作为一个'改'视之为'）；余 27 条为术语密集句的 mild '的' 密度（如'意志抉择范围之内的东西与范围之外的东西'类对举结构），改写会损对举对称性，按 ADR-0020 豁免"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:10:30Z",
+      "evidence": "r3 终检：check_style 0 issue、check_academic --strict OK；结构 23/23 节、79/79 键；账本缺档旧管线债务登记 qa-findings §4"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "EH-main-20261106",
+      "at": "2026-11-07T03:10:30Z",
+      "evidence": "终稿验收：六道全过；27 条 mild 密度豁免有据"
     }
   ],
   "blockers": [],
