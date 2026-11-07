@@ -107,6 +107,7 @@
 | general ability | — | 一般能力 | 语料回收（标题词） | 学界惯例（能力哲学（与特殊能力相对））；凭证 2026-11-01 | 2026-11-01 |
 | genetic drift | — | 遗传漂变 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | genetic information | — | 遗传信息 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| gnosis | — | 灵知 | arabic-islamic-mysticism | 与 gnostic 灵知者、gnosticism 灵知论同族 | 2026-11-07 |
 | group selection | — | 群体选择 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | gulag | ГУЛАГ | 古拉格 | 语料回收（lakatos 首译） | 学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Great Schism | — | 教会大分裂 | 语料回收（marsilius-inghen 首译） | 史学界通行译法（1378 西方教会大分裂）；凭证 2026-11-06 | 2026-11-06 |
@@ -249,11 +250,13 @@
 | show trial | — | 作秀审判 | 语料回收（lakatos 首译） | 史学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | strict implication | — | 严格蕴涵 | dialectical-school | 逻辑学通行译法（现代模态条件句）；凭证 2026-11-07 | 2026-11-07 |
 | subjunctive hypocrisy | — | 反事实伪善 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| Sufism | — | 苏非主义 | arabic-islamic-mysticism | 伊斯兰研究通行（与 mysticism 神秘主义为上下位） | 2026-11-07 |
 | super-contemporaneity | — | 超同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | supervenience | — | 随附性（supervenient property 随附属性） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | supposition (suppositio) | — | 指代 | 语料回收（marsilius-inghen 首译） | 中世纪逻辑研究通行译法；凭证 2026-11-06 | 2026-11-06 |
 | tautology | — | 同义反复 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | taxon | — | 分类单元 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| taʾwīl | — | 精神释经（隐义解经） | arabic-islamic-mysticism | 什叶派/苏非释经学通行 | 2026-11-07 |
 | teleonomy | — | 目的性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | teleosemantics | — | 目的语义学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | tendency (Tendenz) | — | 趋势 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -292,12 +295,17 @@
 | vision-for-recognition | — | 识别视觉 | 语料回收（molyneux-problem 首译） | 双视觉系统文献通行译法；凭证 2026-11-06 | 2026-11-06 |
 | visual prosthesis | — | 视觉假体 | 语料回收（molyneux-problem 首译） | 医学工程界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | Vor-Schein | — | 前现（先行照亮） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
+| waḥdat al-shuhūd | — | 见证单一论 | arabic-islamic-mysticism | 与 waḥdat al-wujūd 存在单一论并列（希尔信迪） | 2026-11-07 |
+| wilāyah | — | 精神监护（圣品） | arabic-islamic-mysticism | 什叶派与苏非通行（spiritual guardianship） | 2026-11-07 |
 | Wittgensteinian Fideism | — | 维特根斯坦式信仰主义 | 语料回收（标题词） | 学界惯例（宗教哲学（Kai Nielsen/D.Z. Phillips 论辩））；凭证 2026-11-01 | 2026-11-01 |
 | well-ordering theorem | — | 良序定理 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | world to come | — | 来世 | albo-joseph 首译 | 犹太研究通行（olam ha-ba） | 2026-11-07 |
 | Yellow Emperor | — | 黄帝 | 语料回收（标题词） | 审定直接命中（中医药/中国古代史）；凭证 2026-11-01 | 2026-11-01 |
 | World 2/World 3 | — | 世界 2／世界 3 | 语料回收（lakatos 首译） | 波普尔三个世界学说通行译法；凭证 2026-11-06 | 2026-11-06 |
 
+| ʿilm al-ḥuḍurī | — | 在场之知 | arabic-islamic-mysticism | 苏哈拉瓦迪认识论通行（knowledge by presence） | 2026-11-07 |
+| ʿirfān | — | 灵知论 | arabic-islamic-mysticism | 伊朗语境 gnosticism 通行音译义 | 2026-11-07 |
+| Ḥikmah | — | 智慧（另译希克玛） | arabic-islamic-mysticism | 兼指智慧与哲学；与词汇表既裁定对齐 | 2026-11-07 |
 | 原文 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |
 | ---- | ---- | ---- | ---- | ---- | -------- |
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |

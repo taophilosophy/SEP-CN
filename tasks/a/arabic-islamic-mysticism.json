@@ -2,8 +2,44 @@
   "slug": "arabic-islamic-mysticism",
   "kind": "retranslate",
   "zh_doc": "a/arabic-islamic-mysticism.md",
-  "state": "pending",
-  "steps": [],
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T03:06:30Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:42:40Z",
+      "evidence": "初译：零信任直译自 yuanwen（2021-01-19 修订版），三分片组装（H1+pubinfo+导语+正文 6 节+脚注节+尾节；引用注释型：说明行保留、两空 ### 丢弃、defs 27 条照录；内容注 note-1 译入 ## 脚注；其他网络资源 1 条实链接译出）；正文 9879 汉字；转写撇号统一 U+02BC 77 处"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:42:40Z",
+      "evidence": "一校（准确性）：五维对账——正文 H2 6/6、尾节 5 节齐（源文 Notes 两标题合并为 ## 脚注）、H3 2:0（空分类节丢弃）、脚注标记多重集 25:25 全等（补录引文块漏抄的 [^note-1]，伪标记 1:1）、defs 键集 28/28 全等、段落 68:67（差 1=byline 豁免）、年份序列 119:119 逐位全等；11 处引文块（光节、鲁米八段诗、纳赛尔·霍斯鲁句）逐句核对源文"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:42:40Z",
+      "evidence": "二校（语言）：check_prose 17→9——长句拆分 5（法拉比调和句/拉齐句/印度两处人名列举句/德黑兰学派句）、被动改写 1（被用来→用）、de-chain 3（诸理智句/萨德拉之后句等），共实修 9 处（逐条断言）；余 9 条豁免留痕：全部在引文块内部（光节 1、鲁米诗引 5、穆尔太齐赖派长诗 1 等），属 ADR-0020 引文体例"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:42:42Z",
+      "evidence": "三校（体例）：check_style --strict 0（首轮 8 处 curly-quotes 转写撇号 U+02BC 归一、1 处 italic-cjk 转加粗）；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 硬错误 0（Ḥikmah 与词汇表既裁定对齐为“智慧”，金迪→肯迪、奥马尔→欧玛尔·海亚姆两处按登记主形修正文）；人名 36 行/术语 8 行登记"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:55Z",
   "version_pin": {
