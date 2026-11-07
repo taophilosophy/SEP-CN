@@ -7,7 +7,7 @@ params:
   rate_limit_s: 0
   timeout_s: 60
 segments:
-  - id: 1
+1
     kind: body
     source: |-
       William of Ockham (c. 1287–1347) is among the most prominent figures in the history of philosophy during the Late Middle Ages along with Thomas Aquinas and John Duns Scotus. He is probably best known today for his espousal of metaphysical nominalism. Indeed, the principle known as “Ockham’s Razor” is named after him. But Ockham held important, often influential views not only in metaphysics but also in all other major areas of medieval philosophy—logic, physics or natural philosophy, theory of knowledge, ethics, and political philosophy—as well as in theology.
@@ -327,7 +327,7 @@ segments:
     source: |-
       The theory of supposition was the centerpiece of late medieval semantic theory. Supposition is not the same as signification. First of all, terms signify wherever we encounter them, whereas they have supposition only in the context of a proposition. But the differences go beyond that. Whereas signification is a psychological, cognitive relation, the theory of supposition is, at least in part, a theory of reference. For Ockham, there are three main kinds of supposition[^note-12]:
     step1: |-
-      指代理论是中世纪晚期语义理论的核心。指代不同于意谓。首先，无论在哪里遇到词项，它们都有意谓；而词项只在命题的语境中才有指代。但差别不止于此。意谓是一种心理的、认知的关系，指代理论则至少部分地是一种关于指称的理论。在奥卡姆那里，指代有三种主要类型[^note-12]：
+      [^note-12]: 指代理论是中世纪晚期语义理论的核心。指代不同于意谓。首先，无论在哪里遇到词项，它们都有意谓；而词项只在命题的语境中才有指代。但差别不止于此。意谓是一种心理的、认知的关系，指代理论则至少部分地是一种关于指称的理论。在奥卡姆那里，指代有三种主要类型[^note-12]：
     step2: |-
       指代理论是中世纪晚期语义学的中枢。指代不等于意谓。首先，词项随处有意谓，指代却只在命题语境中才谈得上。但差别还不止此：意谓是一种心理—认知关系，指代理论则至少部分是一种指称理论。在奥卡姆那里，指代有三种主要类型[^note-12]：
   - id: 35
@@ -1101,299 +1101,399 @@ segments:
     kind: note
     source: |-
       [^note-1]: For an account of Ockham’s life, including a discussion of how these dates are calculated in Ockham’s case, see Wood 1997, Chap. 1. For further details of Ockham’s life, see Courtenay 1999.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-1]: 关于奥卡姆生平的叙述，包括奥卡姆情形中这些年代如何计算出来的讨论，见 Wood 1997, Chap. 1。其生平的更多细节，见 Courtenay 1999。
+    step2: |-
+      [^note-1]: 关于奥卡姆的生平——包括奥卡姆情形中这些年代如何推算的讨论——见 Wood 1997, Chap. 1；其生平的更多细节，见 Courtenay 1999。
   - id: 127
     kind: note
     source: |-
       [^note-2]: By this time Latin was virtually no one’s native language. Ockham’s first language was probably Middle English. Latin was exclusively a second language that lived primarily in very specialized contexts: academic, ecclesiastical, legal, diplomatic. This fact suggests that it is probably wrong to look for “ordinary language” considerations in the Latin philosophical writings of this period, whether by Ockham or anyone else.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-2]: 此时拉丁语实际上已不是任何人的母语。奥卡姆的第一语言大概是中古英语。拉丁语纯粹是一门第二语言，主要存活于非常专门的语境：学术的、教会的、法律的、外交的。这一事实提示：在这个时期的拉丁哲学著述——无论奥卡姆的还是其他任何人的——中寻找"日常语言"的考量，很可能是错的。
+    step2: |-
+      [^note-2]: 此时的拉丁语实际上已不是任何人的母语；奥卡姆的第一语言大概是中古英语。拉丁语纯然是一门第二语言，主要活在非常专门的语境里：学术、教会、法律、外交。这一事实提示：在这个时期的拉丁哲学著述中——无论出自奥卡姆还是任何人——去寻找"日常语言"式的考量，多半是找错了地方。
   - id: 128
     kind: note
     source: |-
       [^note-3]: The technical term is *‘oblatus’* (“offered”); Ockham was an “oblate”. This practice was quite common and amounted to sending one’s child to boarding school. Various religious schools would often take in children from the surrounding area, educate them, feed and house them. The children were not necessarily expected to pursue a religious vocation later in life, although many of them did.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-3]: 专门术语是 *'oblatus'*（"被献出者"）；奥卡姆是一名"献子入会者"（oblate）。这种做法相当常见，相当于把孩子送进寄宿学校。各修道学校常收纳周边地区的孩子，教育他们、供养他们。这些孩子未必被指望日后走上宗教圣召之路，尽管其中许多人后来确实如此。
+    step2: |-
+      [^note-3]: 专门术语是 *'oblatus'*（"被献出者"）；奥卡姆是一名"献子入会者"（oblate）。这种做法相当常见，相当于把孩子送进寄宿学校：各修道学校常收纳周边人家的孩子，管教育、管食宿。孩子未必被指望日后领受圣召，尽管其中许多人后来如此。
   - id: 129
     kind: note
     source: |-
       [^note-4]: Ockham’s accuser may have been John Lutterell, who had been Chancellor at the University of Oxford for a while. The papacy at this time, together with all the offices and bureaucracy that went with it, was not located in Rome, but at Avignon. It was there between 1309 and 1377.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-4]: 奥卡姆的指控者可能是约翰·拉特雷尔，他曾任牛津大学校长一段时期。此时的教廷连同其一切官署与官僚机构并不在罗马，而在阿维尼翁；1309 至 1377 年间它在那里。
+    step2: |-
+      [^note-4]: 奥卡姆的指控者可能是约翰·拉特雷尔——他一度出任牛津大学校长。此时的教廷连同全部官署与官僚机器并不在罗马，而在阿维尼翁；1309 至 1377 年间一直如此。
   - id: 130
     kind: note
     source: |-
       [^note-5]: With the possible exception of two short works on logic—*Lesser Treatise on Logic* (*Tractatus minor logicae*) and *Primer of Logic* (*Elementarium logicae*)—but the authenticity of these has been questioned.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-5]: 可能的例外是两部短篇逻辑著作——《逻辑小论》（*Tractatus minor logicae*）与《逻辑入门》（*Elementarium logicae*）——但二者的真实性已受到质疑。
+    step2: |-
+      [^note-5]: 可能的例外是两部短篇逻辑著作——《逻辑小论》（*Tractatus minor logicae*）与《逻辑入门》（*Elementarium logicae*）——但它们的真实性已遭质疑。
   - id: 131
     kind: note
     source: |-
       [^note-6]: A list of Ockham’s works, with information on modern editions and English translations, can be found in Spade 1999b: 4–11. References below to the works will be made using the titles, abbreviations, internal divisions and other conventions specified in Spade 1999a: xv–xvii.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-6]: 奥卡姆著作的清单，连同现代版本与英译的信息，见 Spade 1999b: 4–11。下文对诸著作的引用将采用 Spade 1999a: xv–xvii 规定的标题、缩写、内部分划及其他约定。
+    step2: |-
+      [^note-6]: 奥卡姆著作清单及现代版本与英译信息，见 Spade 1999b: 4–11。下文引用诸著作时，标题、缩写、内部分划及其他约定均依 Spade 1999a: xv–xvii 所定。
   - id: 132
     kind: note
     source: |-
       [^note-7]: Ockham’s treatment of *insolubilia* (paradoxes like the Liar Paradox), for instance, appears to be greatly inspired by Walter Burley (Spade 1974)[^spade-1974], and his account of the semantics of relative pronouns as well as the machinery (although not the underlying semantics) of his theory of supposition are likewise derived from Burley (Brown 1972)[^brown-1972]. Important details of his theory of truth conditions for tensed and modal propositions likewise already appear in Burley, although this may reflect more a “British”, as distinct from a “Continental”, way of formulating these conditions (Spade 1980: section III, pp. 13–22)[^spade-1980].
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-7]: 例如，奥卡姆对 *insolubilia*（说谎者悖论一类的悖论）的处理，看来深受沃尔特·伯利的启发（Spade 1974）[^spade-1974]；他对关系代词语义学的说明，以及其指代理论的机制（虽然不是底层语义学），同样取自伯利（Brown 1972）[^brown-1972]。其带时态命题与模态命题真值条件理论的重要细节，也早已见于伯利，尽管这或许更多反映了"英国式的"——区别于"欧陆式的"——表述这些条件的方式（Spade 1980: section III, pp. 13–22）[^spade-1980]。
+    step2: |-
+      [^note-7]: 例如，奥卡姆对 *insolubilia*（说谎者悖论一类悖论）的处理，看来深得沃尔特·伯利启发（Spade 1974）[^spade-1974]；其对关系代词语义学的说明、其指代理论的机制（虽非底层语义学），同样源自伯利（Brown 1972）[^brown-1972]。他关于带时态命题与模态命题真值条件理论的重要细节，也早已见于伯利——尽管这或许更多反映了"英国式"（区别于"欧陆式"）的表述方式（Spade 1980: section III, pp. 13–22）[^spade-1980]。
   - id: 133
     kind: note
     source: |-
       [^note-8]: For example, his theory of topical “middles” and their role in his theory of consequence. See Normore 1999: 46.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-8]: 例如，其论题学"中词"理论及其在推论理论中的作用。见 Normore 1999: 46。
+    step2: |-
+      [^note-8]: 例如其论题学"中词"理论及该理论在推论理论中的角色。见 Normore 1999: 46。
   - id: 134
     kind: note
     source: |-
       [^note-9]: Ockham’s treatment of modal syllogistic is fuller and more complete than any of his predecessors’, and is a significant achievement. See Normore 1999: 33.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-9]: 奥卡姆对模态三段论的处理比其任何前辈的都更充分更完备，是一项重要成就。见 Normore 1999: 33。
+    step2: |-
+      [^note-9]: 奥卡姆对模态三段论的处理，比其任何一位前辈都更充分、更完备，是一项了不起的成就。见 Normore 1999: 33。
   - id: 135
     kind: note
     source: |-
       [^note-10]: This notion of signification is ultimately derived from Aristotle, *On Interpretation* 3, 16ᵇ19–21, and especially from Augustine, *De doctrina christiana*, II, 1.1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-10]: 这种意谓概念最终源于亚里士多德《解释篇》第 3 章 16ᵇ19–21，尤其源于奥古斯丁《论基督教教义》II, 1.1。
+    step2: |-
+      [^note-10]: 这一意谓概念最终出自亚里士多德《解释篇》第 3 章 16ᵇ19–21，尤其出自奥古斯丁《论基督教教义》II, 1.1。
   - id: 136
     kind: note
     source: |-
       [^note-11]: This way of putting the matter suggests that Ockham sees no difficulty with referring to presently non-existing objects by means of demonstratives. But the secondary literature is not agreed on this. See Normore 1975 and Karger 1976.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-11]: 这样表述问题，暗示奥卡姆认为用指示词指称当下不存在的对象毫无困难。但二手文献对此并无共识。见 Normore 1975 与 Karger 1976。
+    step2: |-
+      [^note-11]: 如此表述，暗示奥卡姆并不觉得以指示词指称当下不存在的对象有何困难；但二手文献对此并无共识。见 Normore 1975 与 Karger 1976。
   - id: 137
     kind: note
     source: |-
       [^note-12]: This ignores a prior division Ockham and others make, between “proper” and “improper” supposition. Improper supposition is in effect metaphorical or figurative reference. Medieval semantics did not have a good theory of metaphor, so that this part of supposition theory remained undeveloped by Ockham and others. Ockham’s three main kinds of supposition were not original, and were in fact fairly standard among medieval logicians, although his way of defining them reflects peculiarities of his own theory of signification and was used in connection with his metaphysical nominalism. The origins of supposition theory are not yet well understood, although the terminology of “personal” supposition suggests that it had something to do with theological considerations about “person” vs. “nature” in Trinitarian and Christological theory.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-12]: 这里忽略了奥卡姆及其他人先作的一个区分："本义的"与"非本义的"指代。非本义指代实际上是隐喻性的或比喻性的指称。中世纪语义学没有好的隐喻理论，所以指代理论的这一部分在奥卡姆及他人那里始终未得发展。奥卡姆的三种主要指代并非原创，实际上是中世纪逻辑学家中相当标准的看法，尽管他定义它们的方式反映了他自己意谓理论的独特之处，并与他的形而上学唯名论相连使用。指代理论的起源尚未得到很好的理解，尽管"人称"指代这一术语提示，它与三位一体论和基督论理论中"位格"对"本性"的神学考量有关。
+    step2: |-
+      [^note-12]: 这里略去了奥卡姆等人先行的另一组区分："本义"与"非本义"指代。非本义指代实即隐喻性或修辞性的指称；中世纪语义学没有像样的隐喻理论，故指代理论的这一部分在奥卡姆及别家那里始终未获发展。奥卡姆的三种主要指代并非独创，实为中世纪逻辑学家的通行之见；只是他下定义的方式折射出其意谓理论的特有立场，且与其形而上学唯名论配合使用。指代理论的起源至今不甚了然——不过"人称"指代这个术语提示，它或许与三位一体论及基督论里"位格／本性"的神学考量有涉。
   - id: 138
     kind: note
     source: |-
       [^note-13]: Note that the subject of “Every dog is a mammal” and of “Dog has three letters” is (apart from the quantifier in the former) exactly the same term. Medieval logic did not have quotation mark conventions, which were not regularly used until after the invention of printing, and the theory of material supposition provided a substitute for them. But material supposition had other uses that cannot be easily handled by quotation marks. For example, in “It is possible for him to run”, according to Ockham and many other medieval logicians, the expression ‘for him to run’ has material supposition not for itself but for the proposition “He runs” or “He is running”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-13]: 注意，"每个狗是哺乳动物"与"狗有三个字母"的主词（除前者的量词外）是完全相同的词项。中世纪逻辑没有引号约定——引号要到印刷术发明之后才被规范使用——质料指代理论为它们提供了替代品。但质料指代还有引号难以处理的别的用途。例如，在"他能跑是可能的"中，按奥卡姆与许多其他中世纪逻辑学家的看法，表达式"他能跑"不是就其自身、而是就命题"他在跑"或"他正在跑"作质料指代。
+    step2: |-
+      [^note-13]: 注意："每个狗是哺乳动物"与"狗有三个字母"的主词（除前者的量词外）是同一个词项。中世纪逻辑没有引号约定——引号直到印刷术发明之后才被规范使用——质料指代理论便是其替代物。但质料指代还有引号难以代劳的其他用途。例如"他能跑是可能的"一句中，依奥卡姆及许多中世纪逻辑学家之见，表达式"他能跑"并非就其自身、而是就命题"他在跑"或"他正在跑"作质料指代。
   - id: 139
     kind: note
     source: |-
       [^note-14]: On the history of the idea of mental language from Plato to Ockham, see Panaccio 1999.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-14]: 关于从柏拉图到奥卡姆的心理语言观念史，见 Panaccio 1999。
+    step2: |-
+      [^note-14]: 心理语言这一观念从柏拉图到奥卡姆的历史，见 Panaccio 1999。
   - id: 140
     kind: note
     source: |-
       [^note-15]: The respective role of causality and similarity with respect to natural signification in Ockham has been a controversial issue in secondary literature. See, e.g., Adams 1987: Chap. 4; Panaccio 2004: Chap. 7 and 2015.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-15]: 在奥卡姆那里，因果性与相似性在自然意谓中的各自角色，一直是二手文献中有争议的问题。例如见 Adams 1987: Chap. 4；Panaccio 2004: Chap. 7 与 2015。
+    step2: |-
+      [^note-15]: 奥卡姆那里，因果性与相似性在自然意谓中各扮演什么角色，是二手文献中长期争论的问题。例如见 Adams 1987: Chap. 4；Panaccio 2004: Chap. 7 与 2015。
   - id: 141
     kind: note
     source: |-
       [^note-16]: This interpretation originates with Trentman (1970) and was further developed by Spade (1980) and others.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-16]: 这一解释源自 Trentman (1970)，后由 Spade (1980) 等人发展。
+    step2: |-
+      [^note-16]: 此说发端于 Trentman (1970)，Spade (1980) 等人继而推展。
   - id: 142
     kind: note
     source: |-
       [^note-17]: See Panaccio 1990 and 2004, Tweedale 1992, and Chalmers 1999. The former two argued for this interpretation largely on textual grounds, the latter on theoretical grounds.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-17]: 见 Panaccio 1990 与 2004、Tweedale 1992、Chalmers 1999。前两位主要以文本为据主张这一解释，后者则以理论为据。
+    step2: |-
+      [^note-17]: 见 Panaccio 1990 与 2004、Tweedale 1992、Chalmers 1999：前两家立论以文本为主，后者则以理论为主。
   - id: 143
     kind: note
     source: |-
       [^note-18]: For details of the following discussion, see Spade 1975, Panaccio 1990 and 2004: Chap. 4–6.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-18]: 以下讨论的细节，见 Spade 1975、Panaccio 1990 与 2004: Chap. 4–6。
+    step2: |-
+      [^note-18]: 本段以下讨论的细节，见 Spade 1975、Panaccio 1990 与 2004: Chap. 4–6。
   - id: 144
     kind: note
     source: |-
       [^note-19]: For example, proper names of individuals and the names of the Aristotelian categories. The reasons for these exceptions need not detain us here.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-19]: 例如，个体的专名与亚里士多德诸范畴的名称。这些例外的原因此处不必纠缠。
+    step2: |-
+      [^note-19]: 例如个体的专名、亚里士多德诸范畴的名称。个中缘由，此处无须细究。
   - id: 145
     kind: note
     source: |-
       [^note-20]: The phrase “endowed with” in the example must not be taken to refer to special things: it is what Ockham calls a ‘syncategorematic term’, the function of which is merely to connect in the right way the referring terms (or categorematic terms) with each other.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-20]: 例中的"被赋予"一语不得被理解为指称特殊的东西：它是奥卡姆所说的"非范畴词"，其功能仅在于以正确的方式把指称词项（或范畴词项）彼此连结起来。
+    step2: |-
+      [^note-20]: 例中"被赋予"一语不可当作指称某种特殊东西：它属于奥卡姆所谓的"非范畴词"，其功能只是把各指称词项（或范畴词项）以正确方式连结起来。
   - id: 146
     kind: note
     source: |-
       [^note-21]: The case is made in detail in Panaccio 1990 and 2004: Chap. 4.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-21]: 此案在 Panaccio 1990 与 2004: Chap. 4 中得到详细论证。
+    step2: |-
+      [^note-21]: 此论在 Panaccio 1990 与 2004: Chap. 4 有详细论证。
   - id: 147
     kind: note
     source: |-
       [^note-22]: See on this Panaccio 2004: 86 and 2016.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-22]: 对此见 Panaccio 2004: 86 与 2016。
+    step2: |-
+      [^note-22]: 相关讨论见 Panaccio 2004: 86 与 2016。
   - id: 148
     kind: note
     source: |-
       [^note-23]: Adapted with his terminology. For details, see Panaccio 2023, esp. Chap. 1.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-23]: 经其术语改写。详情见 Panaccio 2023，尤其 Chap. 1。
+    step2: |-
+      [^note-23]: 转写时沿用其术语。详情见 Panaccio 2023，尤其 Chap. 1。
   - id: 149
     kind: note
     source: |-
       [^note-24]: For interesting discussions of the history of the razor in Ockham, see Brampton 1964, Maurer 1978 and 1984. For an assessment of the razor in connection with Walter Chatton, see Keele 2002 and Brower-Toland 2023a. For a consideration of the razor and religious authority, see Hagedorn 2022.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-24]: 关于剃刀在奥卡姆那里的历史的有趣讨论，见 Brampton 1964、Maurer 1978 与 1984。结合沃尔特·查顿对剃刀的评估，见 Keele 2002 与 Brower-Toland 2023a。剃刀与宗教权威的考量，见 Hagedorn 2022。
+    step2: |-
+      [^note-24]: 剃刀之于奥卡姆的历史沿革，有趣讨论见 Brampton 1964、Maurer 1978 与 1984；结合沃尔特·查顿评剃刀，见 Keele 2002 与 Brower-Toland 2023a；剃刀与宗教权威，见 Hagedorn 2022。
   - id: 150
     kind: note
     source: |-
       [^note-25]: E.g., *Treatise on the Body of Christ*, Chapt. 29, *OTh* X, pp. 157–8; *Sent.* I, d. 30, q. 1; *OTh* IV, p. 290.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-25]: 例如《论基督之体》Chapt. 29, *OTh* X, pp. 157–8；《箴言四书注》I, d. 30, q. 1；*OTh* IV, p. 290。
+    step2: |-
+      [^note-25]: 如《论基督之体》Chapt. 29（*OTh* X, pp. 157–8）；《箴言四书注》I, d. 30, q. 1（*OTh* IV, p. 290）。
   - id: 151
     kind: note
     source: |-
       [^note-26]: The story of this development is told in Boehner 1946. For a discussion of the reasons behind Ockham’s change of mind, see Panaccio 2004: 23–27.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-26]: 这一发展过程见于 Boehner 1946。奥卡姆改变想法的原因的讨论，见 Panaccio 2004: 23–27。
+    step2: |-
+      [^note-26]: 这段演变见 Boehner 1946；奥卡姆何以改宗的讨论，见 Panaccio 2004: 23–27。
   - id: 152
     kind: note
     source: |-
       [^note-27]: For further discussion on the categories in metaphysics and logic, see Pelletier 2013: 128–142.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-27]: 关于形而上学与逻辑中范畴的进一步讨论，见 Pelletier 2013: 128–142。
+    step2: |-
+      [^note-27]: 范畴在形而上学与逻辑中的进一步讨论，见 Pelletier 2013: 128–142。
   - id: 153
     kind: note
     source: |-
       [^note-28]: For a detailed discussion of Ockham’s procedure in a wide variety of cases, see Adams 1987, especially “Part One: Ontology” (1987: 3–313) and “Part Four: Natural Philosophy” (1987: 633–899).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-28]: 奥卡姆在形形色色情形中的处理方式的详细讨论，见 Adams 1987，尤其"第一部分：本体论"（1987: 3–313）与"第四部分：自然哲学"（1987: 633–899）。
+    step2: |-
+      [^note-28]: 奥卡姆在各类情形中的处理细目，见 Adams 1987——尤其"第一部分：本体论"（1987: 3–313）与"第四部分：自然哲学"（1987: 633–899）。
   - id: 154
     kind: note
     source: |-
       [^note-29]: See, e.g., *Quodl*., VI, q. 10, *OTh* IX, p. 623 for an argument against relational entities (doubleness, here) that relies on the impossibility of actual infinites. See, e.g., *Quodl*., IV, q. 23, *OTh.* IX, p. 407–8 for an argument against quantitative entities (continuous quantity or extension, here) that is a thought experiment involving God’s power and the nature of substances and their accidents.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-29]: 例如《自由论题》VI, q. 10, *OTh* IX, p. 623，其中诉诸现实无穷之不可能，论证反对关系实体（此处指"加倍"）。又例如《自由论题》IV, q. 23, *OTh.* IX, p. 407–8，其中是一个思想实验，涉及上帝的大能与实体及其偶性的本性，论证反对数量实体（此处指连续量或广延）。
+    step2: |-
+      [^note-29]: 如《自由论题》VI, q. 10（*OTh* IX, p. 623）：借现实无穷之不可能驳关系实体（此处指"加倍"）。又如《自由论题》IV, q. 23（*OTh* IX, pp. 407–8）：借一个思想实验——涉及上帝的大能与实体及其偶性的本性——驳数量实体（此处指连续量或广延）。
   - id: 155
     kind: note
     source: |-
       [^note-30]: The theory of connotation is coupled with the related theory of “exposition”. The latter is not fully developed in Ockham but became increasingly prominent in authors immediately after him. For more on the theory of exposition and its relation to connotation theory, see Spade 1990, Ashworth and Spade 1992.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-30]: 含蓄理论与相关的"展开"理论相结合。后者在奥卡姆那里未充分展开，但在紧随其后的作者中日益突出。关于展开理论及其与含蓄理论的关系的更多内容，见 Spade 1990、Ashworth and Spade 1992。
+    step2: |-
+      [^note-30]: 含蓄理论与相关的"展开"理论相辅而行。后者在奥卡姆笔下未及充分展开，在紧接其后的作者那里却日显重要。展开理论及其与含蓄理论的关系，详见 Spade 1990、Ashworth and Spade 1992。
   - id: 156
     kind: note
     source: |-
       [^note-31]: This is more complicated. First, not all qualities are beings distinct from substances. Qualities of shape and figure, e.g., curvedness, straightness, are not. So, terms like ‘curved’ are connotative. Second, concrete qualitative terms, like ‘white’ and ‘hot’, are also connotative, but their abstract counterparts, ‘whiteness’ and ‘heat’, are absolute, since individual whitenesses and heats are qualities that do exist in Ockham’s ontology. See Adams 1987 for details.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-31]: 这更为复杂。第一，并非所有性质都是不同于实体的存在者。形状与图形的性质——如弯曲、笔直——就不是。因此，像"弯的"这样的词项是含蓄词项。第二，具体的性质词项，如"白的"与"热的"，也是含蓄词项，而其抽象对应词"白性"与"热性"则是绝对词项，因为单个的白性与热性是在奥卡姆本体论中确实存在的性质。详情见 Adams 1987。
+    step2: |-
+      [^note-31]: 此处更为曲折。其一：并非一切性质都是异于实体的存在者——形状与图形方面的性质（如弯曲、笔直）便不是；故"弯的"这类词项是含蓄词项。其二：具体的性质词项如"白的""热的"也是含蓄词项；但其抽象对应者"白性""热性"却是绝对词项——因为个别的白与热，正是奥卡姆本体论中实有的性质。详见 Adams 1987。
   - id: 157
     kind: note
     source: |-
       [^note-32]: Both discussions are more complicated, but this gives an indication of his view, see *Summula philosophiae naturalis* I, cc. 19–20, *OPh* VI, pp. 205–13. On the composition of material substances, see Cross 1999. For artifacts, see Pelletier 2022 and Majcherek 2022.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-32]: 两处讨论都更复杂，但此处足以表明其观点，见《自然哲学小结》I, cc. 19–20, *OPh* VI, pp. 205–13。论物质实体的构成，见 Cross 1999。论人工物，见 Pelletier 2022 与 Majcherek 2022。
+    step2: |-
+      [^note-32]: 两处讨论都更繁复，但足见其观点：《自然哲学小结》I, cc. 19–20（*OPh* VI, pp. 205–13）。物质实体之构成，见 Cross 1999；人工物，见 Pelletier 2022 与 Majcherek 2022。
   - id: 158
     kind: note
     source: |-
       [^note-33]: Translated in Boehner 1957 [1990: Chap. 1]. Ockham also treats this question in *Sent.* I, d. 2, q. 4, which is translated in Spade 1994: 114–48. There, he argues against Walter Burley, who explicitly held that one reason we need universals in our ontology is to make science in the Aristotelian sense possible.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-33]: Boehner 1957 [1990: Chap. 1] 有译本。奥卡姆还在《箴言四书注》I, d. 2, q. 4 处理了这个问题，该段译于 Spade 1994: 114–48。在那里，他反驳沃尔特·伯利——后者明确主张，我们需要本体论中有共相的一个理由，是使亚里士多德意义上的科学成为可能。
+    step2: |-
+      [^note-33]: Boehner 1957 [1990: Chap. 1] 有英译。奥卡姆亦在《箴言四书注》I, d. 2, q. 4 处理此问，译文见 Spade 1994: 114–48。在那里，他反驳沃尔特·伯利——伯利明确主张：本体论中须有共相，理由之一是使亚里士多德意义上的科学成为可能。
   - id: 159
     kind: note
     source: |-
       [^note-34]: With this section, and for further detail on Ockham’s physics, see Goddu 1984 and 1999.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-34]: 本节内容以及奥卡姆物理学的更多细节，见 Goddu 1984 与 1999。
+    step2: |-
+      [^note-34]: 本节内容与奥卡姆物理学的更多细节，见 Goddu 1984 与 1999。
   - id: 160
     kind: note
     source: |-
       [^note-35]: ‘Species’ in this sense should not be confused with species as opposed to genus. In the present usage, ‘species’ means something like “appearance”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-35]: 此处的 species 不应与作为 genus 对立面的 species（种）混淆。在当前用法中，species 的意思是类似"外观"的东西。
+    step2: |-
+      [^note-35]: 此处 species 之义，不可与作为"属"（genus）之对立面的"种"（species）相混。在当前用法里，species 意近"外观"。
   - id: 161
     kind: note
     source: |-
       [^note-36]: This last step is the difficult one, the details of which medieval authors most disagree about. It goes without saying that many details of the epistemological story are omitted from this quick sketch.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-36]: 最后这一步是困难的一步，其细节是中世纪作者分歧最大的地方。不言而喻，这一简略概观省略了认识论故事的许多细节。
+    step2: |-
+      [^note-36]: 最后一步最难，中世纪诸家在此分歧最深。无须说，这幅速写省去了认识论故事的许多细节。
   - id: 162
     kind: note
     source: |-
       [^note-37]: E.g., *Sent*. II, q. 12–13, *OTh* V, p. 268–9. On Ockham’s rejection of the theory of species in intellectual cognition, see Panaccio 2004: 27–31.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-37]: 例如《箴言四书注》II, q. 12–13, *OTh* V, p. 268–9。奥卡姆对理智认知中种相理论的拒斥，见 Panaccio 2004: 27–31。
+    step2: |-
+      [^note-37]: 如《箴言四书注》II, q. 12–13（*OTh* V, pp. 268–9）。奥卡姆对理智认知中种相理论的拒斥，见 Panaccio 2004: 27–31。
   - id: 163
     kind: note
     source: |-
       [^note-38]: On Ockham’s theory of intuitive and abstractive cognition, see Karger 1999, Panaccio 2004: Chap. 1, and Panaccio 2014. Much has been written, on the other hand, about Ockham’s distinctive thesis about the (supernatural) possibility of intuiting *non-existing* beings (in which case the relevant intuitive cognition would cause, he thinks, the *true* judgment that the intuited thing does *not* exist); see in particular Panaccio and Piché 2010.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-38]: 奥卡姆的直观认识与抽象认识理论，见 Karger 1999、Panaccio 2004: Chap. 1 与 Panaccio 2014。另一方面，关于奥卡姆的独特论题——（超自然地）直观*不存在的*存在者的可能性（他认为此时相关的直观认识将引起被直观者*不*存在这一*真*判断）——已有大量论述；尤其见 Panaccio and Piché 2010。
+    step2: |-
+      [^note-38]: 奥卡姆的直观／抽象认识理论，见 Karger 1999、Panaccio 2004: Chap. 1 与 Panaccio 2014。另一方面，其独特论题——（超自然地）直观*不存在的*存在者之可能（他认为此时相关直观认识将引发被直观者*不*存在这一*真*判断）——论者已多；尤见 Panaccio and Piché 2010。
   - id: 164
     kind: note
     source: |-
       [^note-39]: See Adams 1986, Freppert 1988, Wood 1997, and King 1999.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-39]: 见 Adams 1986、Freppert 1988、Wood 1997 与 King 1999。
+    step2: |-
+      [^note-39]: 参 Adams 1986、Freppert 1988、Wood 1997、King 1999。
   - id: 165
     kind: note
     source: |-
       [^note-40]: This point is developed in McGrade 1999, in terms of what he calls “implicit divine command”.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-40]: 这一点由 McGrade 1999 以其所谓"隐含的神圣命令"的说法加以发展。
+    step2: |-
+      [^note-40]: McGrade 1999 借其所谓"隐含的神圣命令"（implicit divine command）发展了这一点。
   - id: 166
     kind: note
     source: |-
       [^note-41]: The text is translated with an informative introduction and commentary in Wood 1997.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-41]: 该文本在 Wood 1997 中被译出，并附有内容翔实的导论与评注。
+    step2: |-
+      [^note-41]: 文本之英译连同翔实的导论与评注，见 Wood 1997。
   - id: 167
     kind: note
     source: |-
       [^note-42]: This remark needs to be carefully qualified, since Aquinas’s moral psychology is very subtle. But this is not the place to do it.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-42]: 这句话需要仔细限定，因为阿奎那的道德心理学非常精微。但此处不是做这件事的地方。
+    step2: |-
+      [^note-42]: 此语须细加限定——阿奎那的道德心理学相当精微；但此处非展开之地。
   - id: 168
     kind: note
     source: |-
       [^note-43]: See, e.g., Maurer 1962: 285–86.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-43]: 例如见 Maurer 1962: 285–86。
+    step2: |-
+      [^note-43]: 如 Maurer 1962: 285–86。
   - id: 169
     kind: note
     source: |-
       [^note-44]: On Ockham’s “voluntarism”, see Normore 1998 and Schierbaum 2017, but almost all scholarship on Ockham’s ethics will touch on this point to one degree or another.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-44]: 奥卡姆"意志主义"的讨论，见 Normore 1998 与 Schierbaum 2017；不过几乎所有研究奥卡姆伦理学的论著都会以某种程度触及这一点。
+    step2: |-
+      [^note-44]: 奥卡姆"意志主义"（voluntarism）的讨论，见 Normore 1998 与 Schierbaum 2017；几乎一切研究其伦理学的论著，都会或多或少触到这一点。
   - id: 170
     kind: note
     source: |-
       [^note-45]: Duns Scotus allowed that we can choose not to act toward our ultimate good; but he did not think we can knowingly choose to act directly *against* it. For a discussion of Aquinas, Scotus, Ockham and others on these issues, see Adams 1999.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-45]: 邓斯·司各脱允许我们可以选择不朝向终极之善行动；但他并不认为我们可以明知而选择直接*对抗*终极之善行动。阿奎那、司各脱、奥卡姆等人在这些问题上的讨论，见 Adams 1999。
+    step2: |-
+      [^note-45]: 邓斯·司各脱允许我们选择不朝终极之善行动，却不认为我们可以明知而直接*对抗*终极之善行动。阿奎那、司各脱、奥卡姆诸家在此类问题上的讨论，见 Adams 1999。
   - id: 171
     kind: note
     source: |-
       [^note-46]: Hirvonen 2004 and Panaccio 2012 address the details of Ockham’s moral psychology as do the sources cited in note 39.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-46]: Hirvonen 2004 与 Panaccio 2012 处理了奥卡姆道德心理学的细节，注 39 所引文献亦然。
+    step2: |-
+      [^note-46]: Hirvonen 2004 与 Panaccio 2012 详论奥卡姆的道德心理学；注 39 所引文献亦然。
   - id: 172
     kind: note
     source: |-
       [^note-47]: Shogimen (2007) has characterized Ockham’s political thought as “crisis management”, highlighting Ockham’s overall interest in delineating how and when political and ecclesiastical actors should respond to social, political, and religious unrest.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-47]: Shogimen (2007) 把奥卡姆的政治思想刻画为"危机管理"，突出奥卡姆的总体兴趣：勾勒政治与教会行动者应当如何以及何时回应社会、政治与宗教动荡。
+    step2: |-
+      [^note-47]: Shogimen (2007) 将奥卡姆的政治思想刻画为"危机管理"，凸显其一贯旨趣：勾勒政治与教会的行动者当如何、于何时回应社会、政治与宗教的动荡。
   - id: 173
     kind: note
     source: |-
       [^note-48]: See McGrade 1974, Kilcullen 1999, Shogimen 2007, Robinson 2013 for various aspects of Ockham’s political thought.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-48]: 奥卡姆政治思想的多个方面，见 McGrade 1974、Kilcullen 1999、Shogimen 2007、Robinson 2013。
+    step2: |-
+      [^note-48]: 奥卡姆政治思想的诸侧面，见 McGrade 1974、Kilcullen 1999、Shogimen 2007、Robinson 2013。
   - id: 174
     kind: note
     source: |-
       [^note-49]: See Robinson 2013 for detailed discussion of the *Work of Ninety Days*.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-49]: 《九十日之作》的详细讨论，见 Robinson 2013。
+    step2: |-
+      [^note-49]: 《九十日之作》的详细讨论，见 Robinson 2013。
   - id: 175
     kind: note
     source: |-
       [^note-50]: *Opus nonaginta dierum*, c. 65, *OPol* II, pp. 573–80. This chapter is translated by Kilcullen and included in *Letter to the Friars Minor*, pp. 48–59.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [^note-50]: *Opus nonaginta dierum*, c. 65, *OPol* II, pp. 573–80。此章由 Kilcullen 译出，收入《致小兄弟会士书》（*Letter to the Friars Minor*），pp. 48–59。
+    step2: |-
+      [^note-50]: *Opus nonaginta dierum*, c. 65（*OPol* II, pp. 573–80）。此章经 Kilcullen 译出，收入《致小兄弟会士书》（*Letter to the Friars Minor*）pp. 48–59。
