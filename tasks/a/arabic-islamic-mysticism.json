@@ -2,7 +2,7 @@
   "slug": "arabic-islamic-mysticism",
   "kind": "retranslate",
   "zh_doc": "a/arabic-islamic-mysticism.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "AB-main-20261106",
       "at": "2026-11-07T03:42:42Z",
       "evidence": "三校（体例）：check_style --strict 0（首轮 8 处 curly-quotes 转写撇号 U+02BC 归一、1 处 italic-cjk 转加粗）；check_math 0；check_academic --strict 0 硬错误；check_render_artifacts 0；check_terms 硬错误 0（Ḥikmah 与词汇表既裁定对齐为“智慧”，金迪→肯迪、奥马尔→欧玛尔·海亚姆两处按登记主形修正文）；人名 36 行/术语 8 行登记"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:45:13Z",
+      "evidence": "初审（准确性）：全文回读对照 yuanwen 逐节核验（§1 法拉比四理智与伊本·西那两读法、§2 伊斯玛仪四层实在与七墙五十六径、§3 设拉子学派谱系与印度传承、§4 萨德拉四次旅程、§5 鲁米诸引诗的两种理智说、§6 德黑兰学派），实修 1 处（Tahāfut 译名对齐册内定名《哲学家之矛盾》）；照源直译留判读：源文将《智慧珍宝》（Fuṣūṣ al-ḥikam）误系于法拉比名下（实为伊本·阿拉比著作），按家法“源文自身错误照源直译”不改；五维对账复核通过（marker 25:25、defs 28/28、年份 119:119 全等、段落 68:67 byline 豁免）；复检 style 0"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:46:01Z",
+      "evidence": "复审（语言与登记）：英文残留扫描零非法（仅 H1 英文题名、转写词片段、现代学者 Nicholson 等按 ADR-0022 保留英文）；人名首现括注唯一性核验 48 项通过（含带前缀全名形如 Shaykh Muḥyī al-Dīn Ibn ʼArabī、Mīr Ṣadr al-Dīn Dashtakī 等）；登记随主提交 36 人名+8 术语；术语与登记册一致（苏非主义/灵知/灵知论/精神释经/见证单一论/精神监护/在场之知/存在单一论/照明/认主独一/伊斯兰教法），check_terms 硬错误 0"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:46:42Z",
+      "evidence": "终审（门禁）：check_all 七项全绿（SUMMARY 结构/目录对应/文长/垃圾/术语/学术规范/单测）；定点四检 style --strict 0、math 0、academic --strict 0 硬错误、render_artifacts 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "AB-main-20261106",
+      "at": "2026-11-07T03:46:43Z",
+      "evidence": "六道走完，done：a/arabic-islamic-mysticism.md（导语+正文 6 节+脚注节+引用注释型参考文献+尾节四节；defs 27 条照录、note-1 入脚注、其他网络资源 1 条实链接译出）；批次 a 进度 done 48/160"
     }
   ],
   "blockers": [],
