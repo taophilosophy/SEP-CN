@@ -235,56 +235,74 @@ segments:
     kind: body
     source: |-
       ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji1-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji2-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji3-thumb.jpg)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji1-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji2-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji3-thumb.jpg)
+    step2: |-
+      ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji1-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji2-thumb.jpg) ![thumbnail photo of Ginkakuji](../assets/japanese-aesthetics/ginkakuji3-thumb.jpg)
   - id: 30
     kind: body
     source: |-
       [Larger Photographs of the Sea of Silver Sand and Moon-Viewing Platform at Ginkakuji](japanese-aesthetics.ginkakuji.md)
-    step1: TBD
-    step2: TBD
+    step1: |-
+      [银阁寺银沙滩与向月台大图](japanese-aesthetics.ginkakuji.md)
+    step2: |-
+      [银阁寺银沙滩与向月台大图](japanese-aesthetics.ginkakuji.md)
   - id: 31
     kind: body
     source: |-
       ## 4. Rikyū’s Tea and the Equalizing Aesthetic of *Wabi*
-    step1: TBD
-    step2: TBD
+    step1: |-
+      ## 4 千利休之茶与侘的齐一美学
+    step2: |-
+      ## 4 千利休之茶与侘的齐一美学
   - id: 32
     kind: body
     source: |-
       Few figures in Japanese history emerge as more formidable artists than Sen no Rikyū (千利休, 1522–1591), and few aesthetic movements are more transformative than his rendition of the tea ceremony, *Wabicha* (侘茶). While Rikyū is recognized as the preeminent Japanese tea master, his role as an aesthete extends much farther. A consummate painter and poet, a practitioner of *ikebana*, an accomplished calligrapher and landscape artist, Rikyū in time became an influential government dignitary advising the Shogunate on cultural and artistic matters. Through countless inventions and innovations, the impact of the aesthetic world he created, and some say perfected, stretches far beyond the boundaries of the tea ceremony itself, unearthing novel prospects for Japanese identity and citizenship, pioneering new social virtues, original visions of human existence and religious salvation, and ultimately, opening new possibilities for equality (Suzuki 278–9), all rooted in the *wabi* aesthetic.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      日本史上少有人物能以更可畏的艺术家身份出现，胜过千利休（1522–1591）；也少有美学运动比他对茶道的改造——*侘茶*——更具转变性。虽然利休被公认为最杰出的日本茶人，他作为审美家的角色远不止于此。作为完满的画家与诗人、插花的践行者、有造诣的书家与造园家，利休后来成为有影响的政府显贵，就文化与艺术事务向幕府进言。通过数不清的发明与创新，他创造——有人说完善——的审美世界的影响，远远超出茶道本身的边界：为日本的认同与公民身份发掘新的前景，开创新的社会德性、人类存在与宗教救赎的新图景，并最终开启平等的新可能（Suzuki 278–279），而这一切都植根于侘美学。
+    step2: |-
+      日本史上鲜有以艺术家之姿出而令人畏服如千利休（1522–1591）者；亦鲜有美学运动之转移人心如其所改茶道之*侘茶*者。利休虽以日本第一茶人之名著，其为审美家所及，远不止此。利休兼为画家、诗人、插花之践行者、书家与造园名家，后为政府显要，以文化艺事佐幕府。以无量之发明新创，其所创——或云所完——审美之界，其影响远出茶道之外：为日本之认同与国民之义开新途，辟社会之新德、人生与宗教救赎之新图，而终开平等之新可能（Suzuki 278–279）；凡此皆根于侘之美。
   - id: 33
     kind: body
     source: |-
       While Rikyū’s reputation has come to eclipse that of his predecessors, his aesthetic innovations were part of a lineage born in the port city of Sakai, comprising the tea master Murata Shukō (村田珠光, 1423–1502) and his student Takeno Jōō (武野 紹鴎, 1502–1555), both Zen adherents, the latter of whom would later mentor Rikyū. Both of his forerunners began pioneering tea aesthetics, which laid the groundwork for Rikyū’s eventual refinement, and both harnessed fresh aesthetic stratagems aimed at incorporating the *wabi* aesthetic into the tea ceremony (Ludwig, 387–390. Sen Sōshitsu, 123–157).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      虽然利休的声名后来掩盖了其前辈，但他的美学创新属于一个诞生于港市堺的谱系，包括茶人村田珠光（1423–1502）及其学生武野绍鸥（1502–1555）——两人都是禅的奉持者，后者后来成为利休的老师。两位先驱都开始开拓茶的美学，为利休日后的精炼奠定基础；两人都动用了新鲜的审美策略，旨在把侘美学纳入茶道（Ludwig, 387–390; Sen Sōshitsu, 123–157）。
+    step2: |-
+      利休之名终掩其先，然其美之新创，实承堺港一脉：茶人村田珠光（1423–1502）与其弟子武野绍鸥（1502–1555），皆禅之奉持者，而绍鸥后为利休之师。二先驱始开茶之美学，为利休他日之精成奠基；且各运新之审美策略，以纳侘之美于茶道（Ludwig, 387–390; Sen Sōshitsu, 123–157）。
   - id: 34
     kind: body
     source: |-
       What distinguished Rikyū’s *Wabicha* from his mentors’ ceremonies was its resolution of the tensions between competing aesthetic undercurrents coursing through the 16th-century practice of tea and broader Japanese cultural worlds (Slusser 55–57). Before the advent of *Wabicha*, medieval tea was becoming increasingly polarized in two directions. The *Shoin* (書院) style orchestrated ostentatious displays of wealth carried out in opulent domiciles of the powerful aristocracy. Within this milieu, the most cherished tea utensils (*meibutsu* 名物) were rare and precious wares imported from China, their aesthetic value predominantly gauged by how well they displayed the host’s affluence and power, rendering *Shoin* tea an intentionally non-egalitarian ceremony.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      利休的侘茶之所以有别于其师们的茶会，在于它化解了贯穿十六世纪茶道实践与更广日本文化世界之间相互竞争的审美暗流的张力（Slusser 55–57）。在侘茶兴起之前，中世的茶日益向两个方向极化。*书院*风格在权势贵族的华丽宅邸中排演财富的炫示。在这一氛围中，最受珍视的茶道具（名物）是从中国进口的珍稀器物，其审美价值主要以它们能在多大程度上彰显主人的富足与权势来衡量，这使得书院茶成为一种有意非平等主义的仪式。
+    step2: |-
+      利休侘茶之所以异于其师之茶会，在其解十六世纪茶事与广日本文化界诸竞流间之张（Slusser 55–57）。侘茶未起之先，中世之茶日趋两极。*书院*之风，于权门华堂排演富厚之炫。此风中见重之茶道具（名物），多中国输入之珍器，其审美之值，率以彰主人富势之程度为准，故书院茶为有意不平等之仪。
   - id: 35
     kind: body
     source: |-
       The ostentation of the *Shoin* style found further reinforcement in what was called the “*basara*” attitude (婆娑羅), characterized by tasting contests (*tōcha* 闘茶) and lavish tea parties (*chayoriai* 茶寄合) orchestrated for grandiose demonstrations of wealth. As the *Shoin* style was in ascendency, the tea world was simultaneously evolving in the opposite direction, in a version of the ceremony known as the *Sōan* (草庵) style, an aesthetic that extolled austerity and poverty rather than opulence and affluence. In place of grand halls of the aristocracy and gatherings with dozens or even hundreds of guests, the so called “grass-hut” *Sōan* style aestheticized the world of the farmer and hermit and sought the intimacy of a gathering in a tiny unadorned hut, typically attended by a mere handful of guests. Shukō and Jōō were some of the progenitors of this style and it was tea as the “grass hut” ideal that Rikyū inherited and eventually honed to perfection.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      书院风格的炫示又得到所谓“婆娑罗”风气的强化，其特征是品茶竞赛（闘茶）与奢华茶会（茶寄合），皆为夸富的大场面而设。正当书院风格上升之际，茶的世界同时朝相反方向演化，出现一种称为“草庵”风格的茶会：一种颂扬枯淡与贫素、而非富丽丰足的美学。取代贵族的宏大厅堂与数十乃至数百宾客的集会，所谓“草屋”的草庵风格把农夫与隐者的世界审美化，追求在一间小小的素朴小屋中集会的亲密，来客通常不过寥寥数人。珠光与绍鸥是这一风格的先驱者之一，而利休继承并最终磨至圆满的，正是这种“草屋”理想的茶。
+    step2: |-
+      书院之炫，复得“婆娑罗”之风所助：品茶之赛（闘茶）与豪奢茶会（茶寄合），皆为夸富之大观而设。书院方盛，茶界同时反向而化，是为*草庵*之式：颂枯淡贫素而非富厚丰盈之美学。舍贵族之广堂与数十数百宾之会，“草屋”之草庵乃审美化农人与隐者之界，求小素屋中数人集会之亲。珠光、绍鸥为此式之开先者；而利休所承、终磨至纯者，即此“草屋”理想之茶也。
   - id: 36
     kind: body
     source: |-
       A second polarizing cultural tendency in 16ᵗʰ century Japan, which cut across the *Shoin* and *Sōan* divide, was a tension between warrior and religious aesthetic sensitivities. Rikyū’s *Wabicha* dissolved this tension by melding elements of Samurai gatherings with those cultivated in Zen monasteries. His ceremony avoided exclusive alignment with religiosity or militarism and employed the *wabi* aesthetic to infuse an egalitarianism counterbalancing hierarchical divisions entrenched within both spheres, re-casting *wabi* as a “non-hierarchical awareness of the real” (Hirota 95).
-    step1: TBD
-    step2: TBD
+    step1: |-
+      十六世纪日本的第二种极化的文化倾向——横跨书院与草庵之分——是武士的与宗教的审美感受之间的张力。利休的侘茶通过熔铸武家集会与禅寺所修习的要素而化解了这一张力。他的茶会避免专一地附属于宗教性或军事性，而以侘美学注入一种平等主义，以抗衡两个领域中根深蒂固的等级划分，把侘重铸为一种“对真实的非等级觉知”（Hirota 95）。
+    step2: |-
+      十六世纪日本第二种极化之文化倾向，横跨书院草庵之判，则武士之与宗教之审美感受间之张也。利休侘茶熔武家之会与禅寺所修而一之，以解其张。其茶会不专附于宗教或武备，而以侘之美注一平等之义，以抗两界深固之等级，重铸侘为“于真实之非等级觉知”（Hirota 95）。
   - id: 37
     kind: body
     source: |-
       Beyond the realm of the martial and the monastic, the populace of 16th-century Japan was deeply stratified, from Samurai at the top all the way down to farmers, peasants, and merchants at the bottommost social rung. These divisions were absolute, and upward mobility to higher social strata was virtually inconceivable. Nevertheless, Rikyū deployed the *wabi* aesthetic to challenge social stratification (Sen Sōshitsu 182–183). In his *Wabicha*, all patrons of tea were considered equal, and his aesthetic innovations concretized this principle, ensuring this was not simply a lofty ideal. In the text attributed to him, the *Nampōroku* (1690), he claims that “worldly rank is ignored” in the tea room.
-    step1: TBD
-    step2: TBD
+    step1: |-
+      在武人与寺域之外，十六世纪日本的民众等级森严，从顶端的武士直到底层的农人、佃户与商人。这些划分是绝对的，向更高社会层的上升几乎无法想象。尽管如此，利休动用侘美学挑战社会等级化（Sen Sōshitsu 182–183）。在他的侘茶中，一切茶客都被视为平等，而他的美学创新使这一原则具体化，确保这不只是一个高远的理想。在他名下的文本《南方录》（1690）中，他声称在茶室中“世俗的等级被忽视”。
+    step2: |-
+      武人与寺域之外，十六世纪日本之民，等级至严：上自武士，下逮农佃商贾，判然不易，跻上流者几不可想。虽然，利休以侘之美抗世之等级（Sen Sōshitsu 182–183）。其侘茶中，凡茶客皆视以为等；其美之新创，使此义具体而著，非徒高远之理想而已。托名其名之《南方录》（1690）云：茶室之中，“世俗之等，置而不问”。
   - id: 38
     kind: body
     source: |-
