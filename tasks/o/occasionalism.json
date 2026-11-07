@@ -1,0 +1,50 @@
+{
+  "slug": "occasionalism",
+  "kind": "retranslate",
+  "zh_doc": "o/occasionalism.md",
+  "state": "s3_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-07T00:54:20Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:01:37Z",
+      "evidence": "双版账本 164 段（body=127+oir=1+note=36，文献 53 条照录）落盘，lq check 守恒绿；compose 41,464 字符/92,864 字节；postfix 补 H1 空行、列表 * 化；italic_to_bold 29 行；check_style --strict 0、check_academic 硬错误 0。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:01:37Z",
+      "evidence": "一校：①数字逐段比对，唯一差异为奥特勒库尔生卒写作「1300–1350 年后卒」（源 1300–d. after 1350，属体例合并，非错）；②阿拉伯/拉丁术语一律保留原文并随文释义：*Obligationes* 系无须，本条为 positio 系：*kalām*、*falâsifa*、*Tahâfut al-falâsifa*、*esse*、*causa secundum esse*、*sine qua non*、*impositio*、*occasionalis*、*compossibile*、*natura naturans*、*De Motu*、*lieu*；③人名逐一核：艾什尔里(873–935)、安萨里(约1055–1111)、阿维森纳/伊本·西那(980–1037)、奥特勒库尔(1300–1350后)、拉福奇(1632–66)、科尔德穆瓦(1614–83)、克劳贝格(1622–55)、赫林克斯(1624–69)、马勒布朗士、贝克莱、莱布尼茨、笛卡尔、伊本·路世德、比尔(约1425–1495)、杜兰都斯、丰特奈尔；④四论证缩写统一（PN/NK/NNC/CCC）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:01:37Z",
+      "evidence": "二校反欧化：check_prose 75→14（long-sentence 42→7、de-chain 22→7、passive-bei 9→3、plural-men/weak-verb 各 1 未消）。实修 61 处：以「。」拆并置从句（多在「：」后独立句）、改「被…被…」为「得到/经受/遭」、以「之/者/其」破「的」链。余 14 项全部落在直引段落（安萨里 *TF* 170、马勒布朗士 *OCM* III 226、*Search* 450、*TNG* 195、比尔转引 Freddoso），按 ADR-0020 逐条留痕豁免：改动会损引文忠实度。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "OR-main-20261106",
+      "at": "2026-11-07T01:02:36Z",
+      "evidence": "三校：check_style --strict 0 issue；check_academic 硬错误 0；check_terms 硬错误 0；check_prose 14 项全为引文豁免（见 s2 凭证）；markdownlint 0 issue；check_all 7/7 全绿。结构：标题 23 个与源逐级对应（H1+4 节/12 小节+References 2 小节+学术工具+其他网络资源+相关词条；源『## Notes（原文脚注）』按流水线并入『## 脚注』）；脚注 90 定义/33 引用；表格 0（本条无表）；体量 22,606 汉字 / 92,864 字节。"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-07T00:41:31Z",
+  "version_pin": {
+    "pubinfo_date": "Oct 17, 2019",
+    "archive_edition": "Fall 2020",
+    "sha256": "125ea37f6d47781a423cc74eaffc9528b95d5179e700ff7fc642b0ed951b6ce7"
+  }
+}

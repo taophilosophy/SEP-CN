@@ -1,0 +1,1363 @@
+version: 1
+slug: occasionalism
+params:
+  model: "GLM-5.3-Flash（ZCode 主会话直译）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      We live in a world that seems to be brimming with causal activity. I push the keys on my keyboard, and letters appear on the screen. Outside the wind blows leaves across the patio. The ringing of the phone cuts short my idling thoughts.
+    step1: |-
+      我们生活的世界似乎充满因果活动。我按下键盘上的键，屏幕上便出现字母；窗外风把树叶吹过庭院；电话铃声打断我闲散的思绪。
+    step2: |-
+      我们生活的世界似乎充满因果活动：我按下键盘上的键，屏幕上便出现字母；窗外，风把树叶吹过庭院；电话铃声打断我闲散的思绪。
+  - id: 2
+    kind: body
+    source: |-
+      Philosophers have long wondered about the nature of causality. Are there true causes at work in the world, and, if so, what makes them the causes they are? How do causes bring things about, and what kind of connection does a cause have to its effect? These questions took on another level of complexity when various religious and theological considerations were brought to bear on these issues. For instance, philosophers came to question how divine causal activity is to be understood, particularly, in relation to the natural causality of creatures. It is from this context, in which questions about the nature of causation intermixed with questions about the relation between divine and natural causality, that occasionalism emerged. Occasionalism attempts to address these questions by presenting as its core intuition the claim that, regardless of our common sense inclinations, God is the one and only true cause. In the words of the most famous occasionalist of the Western philosophical tradition, Nicolas Malebranche, “there is only one true cause because there is only one true God; … the nature or power of each thing is nothing but the will of God; … all natural causes are not *true* causes but only *occasional* causes” (*OCM* II, 312 / *Search* 448) A full-blown occasionalist, like Malebranche, then, might be described as one who subscribes to the following two tenets: (1) the positive thesis that God is the only genuine cause; (2) the negative thesis that no creaturely cause is a genuine cause but at most an occasional cause. Not all philosophers who have been identified as occasionalists, however, were full-blown occasionalists in this sense, since some argued that only a limited subset of creatures lack causal powers, and thus affirmed the causal efficacy of other creatures. For these occasionalists, the two theses just stated above would be too strong, and they would subscribe instead to a weaker position along the following lines: while God is the unique genuine cause in some restricted domain, other genuine creaturely causes are operative in the world, and not all creaturely causes are merely occasional causes.
+    step1: |-
+      哲学家早已在追问因果性的本性。世间是否有真正的原因在起作用？若有，是什么使它们成为其所是的原因？原因如何造成结果，又与结果有怎样的联系？当种种宗教与神学考量被引入这些问题时，它们又添了一层复杂性。例如，哲学家开始追问：神的因果活动应如何理解，尤其是它与受造物的自然因果的关系。偶因论正是在这一语境中出现的——关于因果本性的问题，同关于神与自然因果之关系的问题交织在一起。偶因论试图处理这些问题，其核心直觉是：无论我们的常识倾向如何，上帝是唯一真正的原因。借用西方哲学传统中最著名的偶因论者马勒布朗士之语：“只有一个真正的原因，因为只有一个真正的上帝；……每一事物的本性或力量无非是上帝的意志；……一切自然原因都不是*真正*的原因，而只是*偶*因”（*OCM* II, 312 / *Search* 448）。于是，像马勒布朗士这样的彻底偶因论者，可以说主张以下两点：（1）肯定论题：上帝是唯一真正的原因；（2）否定论题：没有任何受造原因真正是原因，至多只是偶因。不过，并非所有被认定为偶因论者的哲学家都是这种意义上的彻底偶因论者：有人主张只有有限的一部分受造物缺乏因果力，因而肯定其他受造物的因果效力。对这些偶因论者而言，上述两个论题都太强，他们宁可主张一种较弱的立场：上帝在某个受限领域内是唯一真正的原因，而其他真正的受造原因也在世间起作用，并非一切受造原因都只是偶因。
+    step2: |-
+      哲学家早已追问因果性的本性：世间是否有真正的原因在起作用？若有，是什么使它们成为其所是的原因？原因如何造成结果，又与结果有怎样的联系？当宗教与神学考量被引入，这些问题又添了一层复杂性：神的因果活动应如何理解，尤其它与受造物的自然因果是何关系？偶因论正是在这一语境中出现的：关于因果本性的问题，同关于神与自然因果之关系的问题交织在一起。偶因论的核心直觉是：无论常识倾向如何，上帝是唯一真正的原因。借用西方哲学传统中最著名的偶因论者马勒布朗士之语：“只有一个真正的原因，因为只有一个真正的上帝；……每一事物的本性或力量无非是上帝的意志；……一切自然原因都不是*真正*的原因，而只是*偶*因”（*OCM* II, 312 / *Search* 448）。像马勒布朗士这样的彻底偶因论者，可以说主张两点：（1）肯定论题：上帝是唯一真正的原因；（2）否定论题：没有任何受造原因真正是原因，至多只是偶因。但并非所有被认定为偶因论者的哲学家都如此彻底：有人主张只有有限的一部分受造物缺乏因果力，因而肯定其他受造物的因果效力。对这些偶因论者而言，上述两个论题都太强；他们宁可主张较弱的立场：上帝在某个受限领域内是唯一真正的原因，而其他真正的受造原因也在世间起作用，并非一切受造原因都只是偶因。
+  - id: 3
+    kind: body
+    source: |-
+      Given this diversity of positions, it might be helpful to characterize occasionalism as follows: one is an occasionalist for domain *x* iff one holds that God is the unique genuine cause within domain *x* and other alleged causes within this domain are not real causes but at most occasional causes. And by “domain” here, we refer to the roughly defined set of alleged causal relations under consideration, for instance, the domain of causal relations that hold between material or bodily substances. We will have more to say about what an occasional cause is later on, but, at this point, on the basis of the characterization of occasionalism just given, we might introduce some terminology to refer to and differentiate the different possible positions among those who subscribe to some form of occasionalism. We will refer to the occasionalists who endorse the full-blown version, along the lines of Malebranche, and take the negative thesis that no creature cause is a genuine cause to apply across the board to all finite substances as advocating “global occasionalism.” Global occasionalism, accordingly, holds that all creaturely causation is at most occasional, while divine causation is uniquely genuine. In contrast, those who are willing to endorse some genuine causation on the part of creatures, hence restricting occasional causation to only a limited domain will be described as endorsing a form of “local occasionalism.” (Lee 2008)[^lee-2008]
+    step1: |-
+      鉴于立场如此多样，不妨这样刻画偶因论：某人在领域 *x* 上是偶因论者，当且仅当他主张，上帝是领域 *x* 内唯一真正的原因，该领域内其他所谓原因并非真正的原因，至多只是偶因。这里的“领域”，指所考虑的那组大致划定的所谓因果关系，例如物质实体或物体实体之间的因果关系领域。偶因究竟是什么，后文再详；但在此，依据刚给出的刻画，不妨引入一些术语，用以指称并区分信奉某种偶因论者之间的不同可能立场。我们称像马勒布朗士那样主张彻底版本、并把“没有任何受造原因真正是原因”这一否定论题普遍适用于一切有限实体的人，为倡导“全局偶因论”者。据此，全局偶因论主张：一切受造因果至多只是偶因，而神的因果则独一无二地真实。相反，愿意承认受造物有某种真正因果、因而把偶因因果限制在有限领域内的人，则被描述为信奉某种“局部偶因论”。（Lee 2008）[^lee-2008]
+    step2: |-
+      鉴于立场如此多样，不妨这样刻画：某人在领域 *x* 上是偶因论者，当且仅当他主张上帝是领域 *x* 内唯一真正的原因，该领域内其他所谓原因并非真正原因，至多只是偶因。此处“领域”指所考虑的一组大致划定的所谓因果关系（如物体实体间关系）。偶因究竟是什么，后文再详；先引入一些术语，用以指称并区分信奉偶因论者的不同立场。像马勒布朗士那样主张彻底版本、并把“没有任何受造原因真正是原因”这一否定论题普遍适用于一切有限实体者，称为倡导“全局偶因论”者。据此，全局偶因论主张一切受造因果至多只是偶因，神的因果则独一无二地真实。相反，愿意承认受造物有某种真正因果、因而把偶因因果限制在有限领域内者，则信奉某种“局部偶因论”。（Lee 2008）[^lee-2008]
+  - id: 4
+    kind: body
+    source: |-
+      Understood in this manner, occasionalism can be understood as a metaphysics of causation that suggests a more discriminating attitude toward what are typically taken to be causal interactions operative in this world. On this characterization, the occasionalist resists a univocal understanding of these apparent causal interactions and identifies two types of relations in the world, that of genuine causation and that of occasional causation. In addition to this issue of the scope of occasionalism, we will, in the following sections, examine how occasionalism addresses these issues aforementioned concerning the relation between divine and natural causation, and what arguments are presented in favor of occasionalism. We begin, however, with a brief discussion about its history.
+    step1: |-
+      这样理解，偶因论便是一种因果性的形而上学：它对我们通常视为世间实际起作用的因果交互，采取一种更具分辨力的态度。按这一刻画，偶因论者拒绝用单义的方式理解这些表面上的因果交互，而在世间识别出两类关系：真正因果关系与偶因因果关系。除偶因论的范围问题外，下文各节还将考察偶因论如何处理前述神与自然因果之关系的问题，以及为偶因论提出了哪些论证。不过，我们先简短讨论其历史。
+    step2: |-
+      这样理解，偶因论便是一种因果性的形而上学：它对我们通常视为世间实际起作用的因果交互，采取更具分辨力的态度。按此刻画，偶因论者拒绝单义地理解这些表面上的因果交互，而在世间识别出两类关系：真正因果关系与偶因因果关系。除范围问题外，下文还将考察偶因论如何处理前述神与自然因果之关系，以及为它提出了哪些论证。先简短讨论其历史。
+  - id: 5
+    kind: body
+    source: |-
+      ## 1. The History of Occasionalism
+    step1: |-
+      ## 1. 偶因论的历史
+    step2: |-
+      ## 1 偶因论的历史
+  - id: 6
+    kind: body
+    source: |-
+      ### 1.1 Islamic Occasionalism
+    step1: |-
+      ### 1.1 伊斯兰偶因论
+    step2: |-
+      ### 1.1 伊斯兰偶因论
+  - id: 7
+    kind: body
+    source: |-
+      Though the term “occasional cause” has been suggested as originating with the French philosopher Louis de la Forge (Carraud 2002, 347)[^carraud-2002], the first philosophers to explicitly expound the position were the Islamic occasionalists. Our brief discussion here will not be able to do justice to its complex and rich development, but Islamic occasionalism seems to have emerged when the theologians of the Ash‘arite school of *kalām* (Islamic doctrinal theology) began to consider the implications of the systematic reinterpretation, development, and integration of Aristotelianism and Neo-Platonism that occurred within the Islamic intellectual world in the tenth and eleventh centuries (cf. Adamson, P. & Taylor, R.C. 2005, 4–6). Among these Islamic occasionalists, al-Ash‘ari (873–935), the founder of Ash‘arite school, appears to have been particularly influential (Griffel 2007)[^griffel-2007].
+    step1: |-
+      虽有人提出“偶因”一词源自法国哲学家路易·德·拉福奇（Carraud 2002, 347）[^carraud-2002]，但最先明确阐发这一立场的哲学家是伊斯兰偶因论者。此处的简短讨论无法尽显其复杂而丰富的发展，但伊斯兰偶因论似乎兴起于这样一个时刻。当时，凯拉姆（*kalām*，伊斯兰教义神学）中艾什尔里派的神学家，开始考虑 10、11 世纪伊斯兰思想界对亚里士多德主义与新柏拉图主义所作系统重释、发展与会通的种种蕴含（参 Adamson, P. & Taylor, R.C. 2005, 4–6）。这些伊斯兰偶因论者中，艾什尔里派创始人艾什尔里（873–935）似乎尤具影响（Griffel 2007）[^griffel-2007]。
+    step2: |-
+      虽有人提出“偶因”一词源自法国哲学家路易·德·拉福奇（Carraud 2002, 347）[^carraud-2002]，最先明确阐发这一立场的哲学家却是伊斯兰偶因论者。简短讨论无法尽显其复杂而丰富的发展，但伊斯兰偶因论似乎兴起于这样一个时刻。当时，凯拉姆（*kalām*，伊斯兰教义神学）中艾什尔里派的神学家，开始考虑 10、11 世纪伊斯兰思想界对亚里士多德主义与新柏拉图主义所作系统重释、发展与会通的种种蕴含（参 Adamson, P. & Taylor, R.C. 2005, 4–6）。这些偶因论者中，艾什尔里派创始人艾什尔里（873–935）似乎尤具影响（Griffel 2007）[^griffel-2007]。
+  - id: 8
+    kind: body
+    source: |-
+      If al-Ash‘ari was the first of the Islamic occasionalists, it was al-Ghazālī (c.1055–1111), the great philosopher and theologian of the Ash‘arite school, who presented some of the most significant and influential arguments for occasionalism in his influential work, *The Incoherence of the Philosophers* (*Tahâfut al-falâsifa*). This work has long been the source of the interpretation that al-Ghazālī himself was a committed global occasionalist, but recent interpretations have challenged this view, arguing that al-Ghazālī’s goal simply is to defend the possibility of miracles against the claims of the *falâsifa*, and that he leaves open the possibility of some kind of genuine causality in creatures (Griffel 2007)[^griffel-2007]. Notwithstanding this issue of whether al-Ghazālī was an occasionalist or not, no one doubts that al-Ghazālī found some key views of the *falâsifa* Avicenna (Ibn Sīnā, 980–1037) problematic and worthy of criticism. In particular, it seems to have been Avicenna’s “Aristotelian” approach to creaturely natures and powers that was most problematic for al-Ghazālī in rendering consistent with Ash‘arite *kalām*.[^note-1] The main point of tension seems to stem from the Avicennan view that, given the natures or essences of creatures, there are causally necessitating relations between creaturely causes and their effects such that the creaturely cause necessarily brings about the effect. Al-Ghazālī took this view to be in tension with the doctrinal claim that theological orthodoxy requires the possibility of miracles, which consist in the divine interruption of the ordinary course of events in nature. Thus, what worried al-Ghazālī most is the idea that if creatures genuinely necessitate their effects, this would seem to imply that even in the face of divine miraculous intervention, the natural effects would have to follow from the cause. But such an implication was unacceptable for those holding the standard understanding of divine omnipotence, which al-Ghazālī and other philosophers of the Ash‘arite theological tradition thought to be essential to *kalām*. Any natural necessitating relation resistant to the exercise of divine causal power was thought to be inappropriate, and thus causally necessitating relations, properly understood (that is, in ways consistent with divine omnipotence), are only instantiated in cases of divine causation. In addition to this theologically motivated argument, al-Ghazālī’s criticism of causally necessitating relations between creaturely causes and effects also incorporates his distinctive views on the modal relations between distinct entities or facts, according to which “the connection between what is habitually believed to be a cause and what is habitually believed to be an effect is not necessary” (*TF* 170) Al-Ghazālī’s central claim, as we will examine in more detail later, was that “each of the two things has its own individuality and is not the other, and neither the affirmation nor the negation, neither the existence nor the non-existence of the one is implied in the affirmation, negation, existence, and non-existence of the other” (Weinberg 1964, 123)[^weinberg-1964].[^note-2]
+    step1: |-
+      若说艾什尔里是伊斯兰偶因论者中的第一人，那么为偶因论提出若干最重要、最具影响论证的，则是安萨里（约 1055–1111）——艾什尔里派伟大的哲学家与神学家。其名著《哲学家的矛盾》（*Tahâfut al-falâsifa*）即在此列。长期以来，此书是“安萨里本人是彻底的全局偶因论者”这一解读的源头；但晚近解读对此提出挑战，认为安萨里的目标只是针对*法拉西法*（falâsifa，亚里士多德派哲学家）的主张捍卫奇迹的可能性，而他为受造物中某种真正的因果留有余地（Griffel 2007）[^griffel-2007]。无论安萨里是否偶因论者，无人怀疑他认为*法拉西法*阿维森纳（伊本·西那，980–1037）的一些关键观点有问题、值得批评。尤其是，阿维森纳对受造物本性与能力的“亚里士多德式”处理，似乎最难让安萨里觉得可与艾什尔里派凯拉姆相容。[^note-1] 紧张要点似乎源于阿维森纳的观点：给定受造物的本性或本质，受造原因与其结果之间存在因果必然化关系，受造原因必然造成结果。安萨里认为，这与“神学正统要求奇迹之可能”的教义主张相冲突——奇迹即神对自然事件常规进程的中断。于是，最令安萨里不安的是：若受造物真正必然化其结果，则即便面对神迹干预，自然结果仍须从原因推出。而这一蕴含，对持标准全能观者不可接受；安萨里与艾什尔里派神学传统的其他哲学家都认为，全能观对凯拉姆至关重要。任何能抵抗神之因果力运用的自然必然化关系，都被视为不当；因此，真正意义上的（即与神之全能相容的）因果必然化关系，只出现在神的因果作用中。除这一神学动机的论证外，安萨里对受造原因与结果之间因果必然化关系的批评，还融入了他关于不同实体或事实之间模态关系的独特看法：按之，“习惯上被认为的原因与习惯上被认为的结果之间的联系并非必然”（*TF* 170）。安萨里的核心主张——后文将详论——是：“两者各有其个体性，并非对方；其一之肯定或否定、存在或不存在，都不蕴含于另一方之肯定、否定、存在或不存在之中”（Weinberg 1964, 123）[^weinberg-1964]。[^note-2]
+    step2: |-
+      若说艾什尔里是伊斯兰偶因论者中的第一人，那么为偶因论提出若干最重要、最具影响论证的，则是安萨里（约 1055–1111）——艾什尔里派伟大的哲学家与神学家。其名著《哲学家的矛盾》（*Tahâfut al-falâsifa*）即在此列。长期以来，此书是“安萨里本人是彻底全局偶因论者”这一解读的源头；晚近解读则提出挑战，认为安萨里的目标只是针对*法拉西法*（falâsifa，亚里士多德派哲学家）的主张捍卫奇迹之可能，并为受造物中某种真正因果留有余地（Griffel 2007）[^griffel-2007]。无论安萨里是否偶因论者，无人怀疑他认为*法拉西法*阿维森纳（伊本·西那，980–1037）的一些关键观点有问题。尤其是阿维森纳对受造物本性与能力的“亚里士多德式”处理，似乎最难让安萨里觉得可与艾什尔里派凯拉姆相容。[^note-1] 紧张要点似乎在于阿维森纳的观点：给定受造物的本性或本质，受造原因与其结果之间存在因果必然化关系，受造原因必然造成结果。安萨里认为，这与“神学正统要求奇迹之可能”的教义主张相冲突——奇迹即神对自然事件常规进程的中断。最令安萨里不安的正是：若受造物真正必然化其结果，则即便面对神迹干预，自然结果仍须从原因推出。这一蕴含对持标准全能观者不可接受；安萨里与艾什尔里派神学传统的其他哲学家都认为，全能观对凯拉姆至关重要。任何能抵抗神之因果力运用的自然必然化关系都被视为不当；因此，真正意义上的（即与神之全能相容的）因果必然化关系，只出现在神的因果作用中。除这一神学论证外，安萨里对因果必然化关系的批评，还融入他关于不同实体或事实间模态关系的独特看法。按之，“习惯上被认为的原因与习惯上被认为的结果之间的联系并非必然”（*TF* 170）。其核心主张——后文详论——是：“两者各有其个体性，并非对方；其一之肯定或否定、存在或不存在，都不蕴含于另一方之肯定、否定、存在或不存在之中”（Weinberg 1964, 123）[^weinberg-1964]。[^note-2]
+  - id: 9
+    kind: body
+    source: |-
+      We end this section with the observation that the main disagreement between those who regard al-Ghazālī as an occasionalist and those who do not seems to rest on whether they take al-Ghazālī to have accepted the principle that a genuine cause must causally necessitate its effect. Those who argue for the occasionalist reading of al-Ghazālī appear to regard him as committed to this principle, while their opponents (such as Griffel) argue that al-Ghazālī is not fully committed to this principle. If al-Ghazālī is indeed committed to this principle, then given that al-Ghazālī only grants such causally necessitating powers to God, he would be committed to denying any causal powers in creature. In contrast, if al-Ghazālī does not think that genuine causality implies that the cause causally necessitates the effect, then he would in effect be making room for a different conception of causation, one that is distinct from divine causality, the unique causally necessitating power. This different conception of cause would allow for genuine secondary causality in that creaturely causes would be real causes on this alternative conception, despite the fact that they do not causally necessitate their effects. Implicit in this disagreement over how to read al-Ghazālī are key questions that naturally arise in disputes over the nature of causation: can something be a cause even if it does not necessitate its effect? Are not such antecedents at most mere occasional causes? Moreover, what is the nature of the necessitation involved? We will pursue these questions in the following sections.
+    step1: |-
+      本节最后要指出：把安萨里视为偶因论者与不视为偶因论者的主要分歧，似乎在于是否认为安萨里接受了“真正的原因必须因果必然化其结果”这一原则。主张偶因论解读的人，似认为他信守此原则；反对者（如 Griffel）则认为他并未完全信守。若安萨里确守此原则，则鉴于他只把因果必然化力量归于上帝，他就须否认受造物有任何因果力。相反，若安萨里不认为真正因果蕴含原因必然化结果，则他实际上为另一种因果观留出了空间——一种区别于神的因果（唯一因果必然化力量）的因果观。这种不同的因果观将容许真正的次级因果：按之，受造原因虽不因果必然化其结果，却仍是真正的原因。这一解读分歧中隐含若干关于因果本性的争端中自然浮现的关键问题：某物即便不必然化其结果，仍能是原因吗？这样的前件难道至多只是偶因？再者，所涉必然化具有怎样的本性？这些问题留待后文。
+    step2: |-
+      本节最后要指出：把安萨里视为偶因论者与不视为偶因论者的主要分歧，似在于是否认为他接受了“真正的原因必须因果必然化其结果”这一原则。主张偶因论解读者，似认为他信守此原则；反对者（如 Griffel）则认为他并未完全信守。若他确守此原则，则鉴于他只把因果必然化力量归于上帝，他便须否认受造物有任何因果力。相反，若他不认为真正因果蕴含原因必然化结果，则实际上为另一种因果观留出了空间——一种区别于神的因果（唯一因果必然化力量）的因果观；这种因果观将容许真正的次级因果：受造原因虽不因果必然化其结果，却仍是真正的原因。这一解读分歧中隐含若干争端中自然浮现的关键问题：某物即便不必然化其结果，仍能是原因吗？这样的前件难道至多只是偶因？所涉必然化又具有怎样的本性？这些问题留待后文。
+  - id: 10
+    kind: body
+    source: |-
+      ### 1.2 Medieval Christian Europe
+    step1: |-
+      ### 1.2 中世纪基督教欧洲
+    step2: |-
+      ### 1.2 中世纪基督教欧洲
+  - id: 11
+    kind: body
+    source: |-
+      The criticism of positing “necessary connections” between creaturely powers and their alleged effects also emerged in medieval Christian Europe, most notably, in the work of Nicholas of Autrecourt (1300–d. after 1350). Autrecourt was a precursor to the general criticism of Scholasticism that swept through Europe in the early modern period, and his critique of our alleged knowledge of causal connections was part of his overall project of critically examining the various knowledge claims within natural philosophy that were central to Aristotelian scholasticism. But his criticisms might have been too radical for his time, for he was summoned to the Curia at Avignon to answer charges of error and heresy, and in 1347 his writings were publicly burned. He himself is said to have been banned from lecturing (Weinberg 1964, 267)[^weinberg-1964].
+    step1: |-
+      对受造力量与其所谓结果之间“必然联系”的批评，也出现在中世纪基督教欧洲，最著名的是奥特勒库尔的尼古拉（1300–1350 年后卒）的著作。奥特勒库尔是近代早期席卷欧洲的经院哲学总批判的先驱；他对我们所谓因果联系知识的批评，是他批判性审查自然哲学中各种知识主张这一总体工程的一部分，而这些主张对亚里士多德式经院哲学至关重要。但他的批评或许过于激进：他因被控错误与异端而被召至阿维尼翁教廷，1347 年其著作被当众焚毁；据说他本人亦被禁止授课（Weinberg 1964, 267）[^weinberg-1964]。
+    step2: |-
+      对受造力量与其所谓结果之间“必然联系”的批评，也出现在中世纪基督教欧洲，最著名的是奥特勒库尔的尼古拉（1300–1350 年后卒）的著作。他是近代早期席卷欧洲的经院哲学总批判之先驱；他对我们所谓因果联系知识的批评，属于其总体工程的一部分——批判性审查自然哲学中各种对亚里士多德式经院哲学至关重要的知识主张。但这一批评或许过于激进：他因有错误与异端之嫌被召至阿维尼翁教廷；1347 年，其著作当众焚毁，据说本人亦被禁止授课（Weinberg 1964, 267）[^weinberg-1964]。
+  - id: 12
+    kind: body
+    source: |-
+      Sources suggest that Autrecourt was acquainted with the arguments set forth by al-Ghazālī (cf. Wolfson 1969, 234–8)[^wolfson-1969]. Thus, it is no surprise that Autrecourt presents various arguments that are reminiscent of al-Ghazālī’s. For instance, like al-Ghazālī, Autrecourt in one formulation of his criticism of necessary connections relies on a dictum that the existence of one thing cannot be logically inferred from the existence of another thing (Weinburg 1964, 272). Hence Autrecourt held that, unless there were overwhelming reasons to the contrary, the default position should be to assume the lack of logically necessary connections between two distinct entities.
+    step1: |-
+      材料表明，奥特勒库尔熟悉安萨里提出的论证（参 Wolfson 1969, 234–8）[^wolfson-1969]。因此，他提出若干令人想起安萨里的论证，并不奇怪。例如，与安萨里一样，奥特勒库尔在批评必然联系的某一表述中依据这样一条原理：一物的存在不能从另一物的存在逻辑地推出（Weinburg 1964, 272）。因此他认为，除非有压倒性的相反理由，默认立场应是假定两个不同实体之间缺乏逻辑必然联系。
+    step2: |-
+      材料表明，奥特勒库尔熟悉安萨里的论证（参 Wolfson 1969, 234–8）[^wolfson-1969]，因此他提出若干令人想起安萨里的论证，并不奇怪。例如，与安萨里一样，他在批评必然联系的某一表述中依据这样一条原理：一物的存在不能从另一物的存在逻辑地推出（Weinburg 1964, 272）。因此他认为，除非有压倒性的相反理由，默认立场应是假定两个不同实体之间缺乏逻辑必然联系。
+  - id: 13
+    kind: body
+    source: |-
+      We should note, however, that the overall focus of Autrecourt’s project was to persuade us that our various judgments about the natural world, including those concerning genuine causal connections, lack certainty, and that we thus ought to suspend judgment in such matters. And it is with this goal in mind that he presented a variety of epistemological, metaphysical, and theological arguments to support this skeptical stance toward affirming genuine causality among creatures. Therefore, while Autrecourt’s arguments much resemble the arguments deployed by occasionalists, it is far from clear that Autrecourt himself was an occasionalist. For his overall attitude seems to have been closer to that of a skeptic, in contrast to the “dogmatic” position of the occasionalists, who unequivocally denied creaturely causation and affirmed divine causation. In this respect, the often quoted epithet that Autrecourt was “the fourteenth-century Hume” seems rather appropriate (Nadler 1996, 458)[^nadler-1996]. If Autrecourt was indeed more skeptical than dogmatic about God’s role in nature, we might think that, in the Western philosophical tradition, occasionalists in the proper sense of the term emerge in earnest in the wake of René Descartes (1596–1650) in the form of “Cartesian occasionalists”. [^note-3]
+    step1: |-
+      然而须注意，奥特勒库尔工程的总体目标，是说服我们：关于自然界的各种判断——包括关于真正因果联系的判断——缺乏确定性，因此我们应在此类事情上悬置判断。正是抱着这一目标，他提出种种认识论的、形而上学的与神学的论证，以支持这种对肯定受造物间真正因果的怀疑立场。因此，尽管奥特勒库尔的论证与偶因论者所用论证颇为相似，他本人是否偶因论者却远不清楚。他的总体态度似乎更接近怀疑论者，而偶因论者则持“独断的”立场，断然否认受造因果、肯定神的因果。就此而言，常被引用的那句评语——“奥特勒库尔是 14 世纪的休谟”——似乎相当贴切（Nadler 1996, 458）[^nadler-1996]。若奥特勒库尔对上帝在自然中的角色确实更近怀疑而非独断，那么我们或可认为：在西方哲学传统中，严格意义上的偶因论者是在勒内·笛卡尔（1596–1650）之后才真正出现的，即“笛卡尔派偶因论者”。[^note-3]
+    step2: |-
+      然而须注意，奥特勒库尔工程的总体目标，是说服我们：关于自然界的各种判断——包括关于真正因果联系的判断——缺乏确定性，故应在此类事情上悬置判断。正是抱着这一目标，他提出种种认识论、形而上学与神学论证，支持这种对肯定受造物间真正因果的怀疑立场。因此，尽管他的论证与偶因论者所用者颇为相似，他本人是否偶因论者却远不清楚。其总体态度更接近怀疑论者；偶因论者则持“独断的”立场，断然否认受造因果、肯定神的因果。就此而言，常被引用的评语——“奥特勒库尔是 14 世纪的休谟”——似乎相当贴切（Nadler 1996, 458）[^nadler-1996]。若他对上帝在自然中的角色确实更近怀疑而非独断，则在西方哲学传统中，严格意义上的偶因论者是在勒内·笛卡尔（1596–1650）之后才真正出现的，即“笛卡尔派偶因论者”。[^note-3]
+  - id: 14
+    kind: body
+    source: |-
+      ### 1.3 Descartes and the Cartesian Occasionalists (Louis de la Forge, Géraud de Cordemoy, Johannes Clauberg, and Arnold Geulincx)
+    step1: |-
+      ### 1.3 笛卡尔与笛卡尔派偶因论者（路易·德·拉福奇、热罗·德·科尔德穆瓦、约翰内斯·克劳贝格、阿诺德·赫林克斯）
+    step2: |-
+      ### 1.3 笛卡尔与笛卡尔派偶因论者（拉福奇、科尔德穆瓦、克劳贝格、赫林克斯）
+  - id: 15
+    kind: body
+    source: |-
+      The issue of whether Descartes himself was an occasionalist has been the subject of considerable debate. Given how many prominent Cartesians were indeed occasionalists, it is not surprising that Descartes has been suggested as the source of this new wave of occasionalism that swept through the European continent in the second half of the seventeenth century. Some interpreters, accordingly, have held that, while perhaps not fully endorsing occasionalism across the board, Descartes did hold occasionalist views with regard to extended substances, or bodies. According to these interpreters, Descartes denied that bodies acted on either other bodies or minds.[^note-4] Others disagree and have argued, for instance, that in cases of body-body interaction, Descartes affirmed the genuine causal powers of extended substances.[^note-5] Note that, given the general framework of Cartesian dualism, four types of causal interaction among finite substances are usually considered: (1) body-body causation, where one extended substance affects another; (2) body-mind causation, where bodily changes bring about changes in the mind; (3) mind-body causation, where the direction of causation is reverse to that of body-mind causation, and certain thoughts or volitions bring about changes in bodies; (4) intra-mental causation, where various forms of mental activity, such as producing ideas, are considered as typical cases. It is within this framework that the respective positions about causation, occasionalist or not, can be identified.
+    step1: |-
+      笛卡尔本人是否偶因论者，一直是争论颇多的问题。鉴于不少著名笛卡尔派学者确是偶因论者，有人提出笛卡尔是 17 世纪后半叶席卷欧洲大陆的这波偶因论新潮之源，并不奇怪。据此，一些解读者认为，笛卡尔虽或许未在一切方面都彻底认同偶因论，却确实对广延实体即物体持偶因论观点：按这些解读者，笛卡尔否认物体作用于其他物体或心灵。[^note-4] 另一些人不同意，例如主张在物体—物体交互的情形中，笛卡尔肯定广延实体的真正因果力。[^note-5] 须注意，按笛卡尔二元论的总体框架，通常考虑有限实体间的四类因果交互：（1）物体—物体因果，一个广延实体影响另一个；（2）物体—心灵因果，身体变化引起心灵变化；（3）心灵—物体因果，方向与（2）相反，某些思想或意志引起身体变化；（4）心灵内部因果，产生观念等各种心理活动被视为典型情形。关于因果的种种立场——偶因论的或非偶因论的——正是在这一框架内得以辨识。
+    step2: |-
+      笛卡尔本人是否偶因论者，一直争论颇多。鉴于不少著名笛卡尔派学者确是偶因论者，有人提出他是 17 世纪后半叶席卷欧洲大陆的这波偶因论新潮之源，并不奇怪。一些解读者据此认为：笛卡尔虽或许未在一切方面彻底认同偶因论，却确实对广延实体即物体持偶因论观点，否认物体作用于其他物体或心灵。[^note-4] 另一些人不同意，例如主张在物体—物体交互中，笛卡尔肯定广延实体的真正因果力。[^note-5] 须注意，按笛卡尔二元论的总体框架，通常考虑有限实体间的四类因果交互：（1）物体—物体因果，一个广延实体影响另一个；（2）物体—心灵因果，身体变化引起心灵变化；（3）心灵—物体因果，方向与（2）相反，某些思想或意志引起身体变化；（4）心灵内部因果，产生观念等心理活动为典型情形。关于因果的种种立场——偶因论与否——正是在这一框架内得以辨识。
+  - id: 16
+    kind: body
+    source: |-
+      Cases (2) and (3) have received much attention from the general philosophical audience. This phenomenon stems as far back as Princess Elisabeth of Bohemia (see her astute exchange with Descartes in AT III 663–8 (CSM III, 218)). As we can see in Elisabeth’s correspondence, from the beginning much of the focus has been directed at the issue of how or even whether two radically different substances can causally interact. And this attention has at times led to the caricature of occasionalism as an ad hoc solution to this problem for Cartesian dualists. But, as we have already seen and will further see, the scope and depth of the issues surrounding the emergence of occasionalism make it clear that this depiction is indeed a caricature at best.[^note-6]
+    step1: |-
+      情形（2）与（3）广受哲学读者关注。此现象可追溯至波希米亚的伊丽莎白公主（见她在 AT III 663–8（CSM III, 218）中与笛卡尔的机敏往还）。从伊丽莎白的通信可见，从一开始，大量焦点就落在两个截然不同的实体如何、甚至能否因果交互这一问题上。这种关注有时导致把偶因论漫画化为笛卡尔二元论者应对此难题的权宜之计。但如我们已见并将继续看到，围绕偶因论兴起的种种问题之范围与深度表明，这种描绘充其量只是漫画。[^note-6]
+    step2: |-
+      情形（2）与（3）广受哲学读者关注，此现象可追溯至波希米亚的伊丽莎白公主（见她在 AT III 663–8（CSM III, 218）中与笛卡尔的机敏往还）。从她的通信可见，大量焦点从一开始就落在两个截然不同的实体如何、甚至能否因果交互之上；这种关注有时把偶因论漫画化为笛卡尔二元论的权宜之计。但如已见并将继续看到，围绕偶因论兴起的种种问题之范围与深度表明，这种描绘充其量只是漫画。[^note-6]
+  - id: 17
+    kind: body
+    source: |-
+      In contrast to the situation concerning Descartes’ alleged commitment to occasionalism, there is no disagreement in the case of Nicolas Malebranche, whose works provide some of the most extensive and important discussions of occasionalism. Thus, his arguments will be the topic of further examination. But in addition to Malebranche, there were a number of other Cartesians, prior to Malebranche, that presented a variety of views indicative of the occasionalist current in the 1660s. Among these Cartesians, the French physician and philosopher Louis de la Forge (1632–66), the Parisian lawyer and philosopher Géraud de Cordemoy (1614–83), the German theologian and philosopher Johannes Clauberg (1622–55), and the Dutch philosopher Arnold Geulincx (1624–69) are the most prominent.
+    step1: |-
+      与笛卡尔是否偶因论者的情形不同，在马勒布朗士那里并无分歧：其著作提供了关于偶因论最广泛、最重要的讨论，其论证因此留待后文详察。但除马勒布朗士外，在他之前还有若干笛卡尔派学者，提出了种种显示 1660 年代偶因论思潮的观点。其中较著者为法国医生、哲学家路易·德·拉福奇（1632–66），巴黎律师、哲学家热罗·德·科尔德穆瓦（1614–83），德国神学家、哲学家约翰内斯·克劳贝格（1622–55），以及荷兰哲学家阿诺德·赫林克斯（1624–69）。
+    step2: |-
+      与笛卡尔不同，马勒布朗士是否偶因论者并无分歧：其著作提供了关于偶因论最广泛、最重要的讨论，其论证留待后文详察。但在他之前，还有若干笛卡尔派学者提出了种种显示 1660 年代偶因论思潮的观点。较著者有四位：法国医生、哲学家路易·德·拉福奇（1632–66），巴黎律师、哲学家热罗·德·科尔德穆瓦（1614–83），德国神学家、哲学家约翰内斯·克劳贝格（1622–55），荷兰哲学家阿诺德·赫林克斯（1624–69）。
+  - id: 18
+    kind: body
+    source: |-
+      In the case of La Forge, his credentials as an occasionalist about the causal efficacy of extended substances or bodies has never been in doubt. In fact, as noted earlier, it is La Forge who has been suggested to have first employed the expression “occasional cause” in his *Traité de l’esprit de l’homme* (Carraud 2002, 347)[^carraud-2002], where he argues that bodies are merely the “remote and occasional” causes of our ideas of them (*TEH* 132–4). Some interpreters have argued that La Forge’s occasionalism extended to minds as well and thus was a global occasionalist (Prost 1907, ch.6; Bouillier 1865, vol. 1, 503, 513; cf. Nadler 1993b, 60, especially footnote 11)[^nadler-1993b][^prost-1907], but others have argued against this view (Bardout 2002a, 145; Nadler 1993b, 60–61)[^nadler-1993b]. The case for restricting the scope of La Forge’s occasionalism to only extended substances seems well grounded, if we take into consideration such texts as the following: “All of our ideas considered in themselves in so far as they are only different ways of thinking, need … no cause for their production other than our mind” (*TEH* 177; cf. Nadler 1993b, 65)[^nadler-1993b].
+    step1: |-
+      就拉福奇而言，他作为广延实体或物体之因果效力的偶因论者，资格从无疑义。事实上，如前所述，正是拉福奇被指为在《论人的心灵》中最早使用“偶因”一词者（Carraud 2002, 347）[^carraud-2002]；他在该书论证，物体只是我们关于物体之观念的“遥远而偶然的”原因（*TEH* 132–4）。一些解读者主张，拉福奇的偶因论也延伸到心灵，故他是全局偶因论者（Prost 1907, 第 6 章；Bouillier 1865, 第 1 卷, 503, 513；参 Nadler 1993b, 60，尤其注 11）[^nadler-1993b][^prost-1907]；另一些人反对（Bardout 2002a, 145; Nadler 1993b, 60–61）[^nadler-1993b]。若考虑如下文本，则把拉福奇偶因论的范围限于广延实体的主张似有充分根据：“我们的一切观念，就其自身之为不同的思维样式而言，其产生只需……我们的心灵这一原因”（*TEH* 177；参 Nadler 1993b, 65）[^nadler-1993b]。
+    step2: |-
+      拉福奇作为广延实体（物体）之因果效力的偶因论者，资格从无疑义。事实上，正是他被指为在《论人的心灵》中最早使用“偶因”一词者（Carraud 2002, 347）[^carraud-2002]；该书论证，物体只是我们关于物体之观念的“遥远而偶然的”原因（*TEH* 132–4）。一些解读者主张，其偶因论也延伸到心灵，故他是全局偶因论者（Prost 1907, 第 6 章；Bouillier 1865, 第 1 卷, 503, 513；参 Nadler 1993b, 60，尤其注 11）[^nadler-1993b][^prost-1907]；另一些人反对（Bardout 2002a, 145; Nadler 1993b, 60–61）[^nadler-1993b]。若考虑如下文本，把其偶因论限于广延实体的主张似有充分根据：“我们的一切观念，就其自身之为不同思维样式而言，其产生只需……我们的心灵这一原因”（*TEH* 177；参 Nadler 1993b, 65）[^nadler-1993b]。
+  - id: 19
+    kind: body
+    source: |-
+      La Forge’s work is also significant in that he seems to have been the first in this period to present an argument for occasionalism on the basis of how God conserves an extended substance in existence. This argument puts particular emphasis on the fact that God must not only “continue to produce [a body], if he wants to preserve it in existence; but, in addition, because he cannot create it everywhere nor outside of any particular place, he must himself put it in a place” (*TEH* 241; cf. Nadler 1993b, 63; Nadler 1998, 219)[^nadler-1993b][^nadler-1998]. As we shall see, this argument bears a strong resemblance to Malebranche’s most persuasive argument for global occasionalism, the “conservation is but continuous creation” argument.
+    step1: |-
+      拉福奇的著作还有一点重要：他似乎是对此期最早依据上帝如何保存广延实体于存在之中来论证偶因论的人。该论证特别强调：上帝不仅须“继续产生［一个物体］，若他要在存在中保存它；而且还须亲自把它置于某处，因为他不能把它造在一切地方，也不能造在任何特定位置之外”（*TEH* 241；参 Nadler 1993b, 63; Nadler 1998, 219）[^nadler-1993b][^nadler-1998]。如后文所示，该论证与马勒布朗士为全局偶因论所作最有说服力的论证——“保存不过是持续创造”——极为相似。
+    step2: |-
+      拉福奇的著作还有一点重要：他似乎是最早依据上帝如何保存广延实体于存在之中来论证偶因论的人。该论证强调：上帝不仅须“继续产生［一个物体］，若他要在存在中保存它；还须亲自把它置于某处，因为他不能把它造在一切地方，也不能造在任何特定位置之外”（*TEH* 241；参 Nadler 1993b, 63; Nadler 1998, 219）[^nadler-1993b][^nadler-1998]。如后文所示，它与马勒布朗士为全局偶因论所作最有说服力的论证——“保存不过是持续创造”——极为相似。
+  - id: 20
+    kind: body
+    source: |-
+      Géraud de Cordemoy’s work appears to have had a direct influence on Malebranche, as Malebranche himself acknowledges in the *Search* (*OCM* I 123/*Search* 49; Nadler 2005, 38; cf. Gouhier 1926 95ff.; Battail 1973, 146ff.)[^battail-1973][^gouhier-1926][^nadler-2005]. Though there has been some disagreement about the scope of Cordemoy’s occasionalism, the consensus seems to be that he was a global occasionalist, denying causal efficacy to both minds and bodies. Thus, in this respect, he is a precursor to Malebranche. Cordemoy is also known for a rather distinctive argument for why bodies are not real causes, one that employs the controversial premise that the motion of a body can be continued only by the causal agent that initiated it (*Discernement* 135–36; cf. Nadler 2005, 42)[^nadler-2005]. Based on the observation that bodies do not self-initiate movement, Cordemoy argues that bodies thus need to be set into motion by a non-material first mover (Nadler 2005, 42)[^nadler-2005]. But given the aforementioned premise, any subsequent movement of bodies can only be continued by the causal agent that initially moved them, which leads to the occasionalist conclusion that God is the cause of all bodily motion. This argument seems to be related to a slightly different argument employed by Malebranche to argue for the same conclusion—that is, the lack of causal efficacy of extended substances. This latter argument, which emphasizes the passivity or passive nature of bodies, is one of Malebranche’s favorites and will be examined in more detail later.
+    step1: |-
+      热罗·德·科尔德穆瓦的著作似对马勒布朗士有直接影响，马勒布朗士本人在《真理的寻求》中即予承认（*OCM* I 123/*Search* 49; Nadler 2005, 38；参 Gouhier 1926 95 页以下；Battail 1973, 146 页以下）[^battail-1973][^gouhier-1926][^nadler-2005]。关于科尔德穆瓦偶因论的范围虽有分歧，共识似乎是：他是全局偶因论者，否认心灵与物体的因果效力，就此而言是马勒布朗士的先驱。科尔德穆瓦还以一条颇为独特的论证闻名，说明物体为何不是真正的原因；该论证采用一个争议性前提：物体之运动只能由启动它的因果作用者延续（*Discernement* 135–36；参 Nadler 2005, 42）[^nadler-2005]。基于物体并不自行启动运动这一观察，他论证物体须由非物质的第一个推动者使之运动（Nadler 2005, 42）[^nadler-2005]。但按上述前提，物体此后任何运动都只能由最初使之运动的因果作用者延续，于是得出偶因论结论：上帝是一切物体运动之因。该论证似与马勒布朗士为同一结论——广延实体缺乏因果效力——所用的另一略有不同的论证相关；后者强调物体的被动性或被动本性，是马勒布朗士最偏爱的论证之一，后文将详论。
+    step2: |-
+      热罗·德·科尔德穆瓦的著作似对马勒布朗士有直接影响，后者在《真理的寻求》中即予承认（*OCM* I 123/*Search* 49; Nadler 2005, 38；参 Gouhier 1926 95 页以下；Battail 1973, 146 页以下）[^battail-1973][^gouhier-1926][^nadler-2005]。其偶因论范围虽有分歧，共识似乎是：他是全局偶因论者，否认心灵与物体的因果效力，就此而言是马勒布朗士的先驱。他还以一条独特论证闻名，说明物体为何不是真正的原因：该论证采用争议性前提——物体之运动只能由启动它的因果作用者延续（*Discernement* 135–36；参 Nadler 2005, 42）[^nadler-2005]。基于物体并不自行启动运动这一观察，他论证物体须由非物质的第一个推动者使之运动（Nadler 2005, 42）[^nadler-2005]。但按上述前提，物体此后任何运动都只能由最初使之运动者延续，于是得出偶因论结论：上帝是一切物体运动之因。该论证似与马勒布朗士为同一结论——广延实体缺乏因果效力——所用的另一略有不同的论证相关；后者强调物体的被动本性，是他最偏爱的论证之一，后文将详论。
+  - id: 21
+    kind: body
+    source: |-
+      Johannes Clauberg (1622–1655) has been identified by some as one of the first philosophers influenced by Descartes to argue for occasionalism with regard to mind-body interaction on the basis of their radical heterogeneity (Bardout 2008b)[^bardout-2008b]. With regard to other domains, such as body-body causation, the majority consensus appears to be that he rejected occasionalism, and allowed bodily substances to be causally efficacious (Nadler 2011)[^nadler-2011]. Even with regard to his occasionalism concerning mind-body interaction, his position has been suggested to be rather nuanced. Schmaltz, for instance, has argued that Clauberg’s occasionalism is restricted to the direction of body to mind, such as in the case of sensations arising in accordance with bodily changes, since there are textual grounds to think that Clauberg endorsed some type of genuine causality on the part of our volitions in the case of our voluntary control over our bodies (Schmaltz 2016, 180-1)[^schmaltz-2016]. Given our characterization of occasionalism at the outset, however, even this restricted version might not qualify Clauberg’s position as occasionalist, since most scholars agree that Clauberg thinks that it is the soul itself that causes the relevant sensations on the occasion of certain bodily changes. That is, Clauberg does not think that it is God that is unique genuine cause behind the occurrence of our sensations, a view he would have to hold were he to satisfy the requirements of occasionalism as we have specified it (Schmaltz and others well acknowledge this point). Clauberg’s significance then might best be thought of as presenting the explicit rejection of bodily changes being genuine causes of changes in the mind (Bardout 2008b, Schmaltz 2016)[^bardout-2008b][^schmaltz-2016]. The complexity of Clauberg’s views can be seen as an example revealing how intricate and finely nuanced the diverse position came to be in the face of the complex considerations that were operative in this period.
+    step1: |-
+      约翰内斯·克劳贝格（1622–1655）被一些人认定为最早受笛卡尔影响、依据心灵与身体的极端异质性就心身交互论证偶因论的哲学家之一（Bardout 2008b）[^bardout-2008b]。就其他领域（如物体—物体因果）而言，多数共识似认为他拒斥偶因论，容许物体实体具有因果效力（Nadler 2011）[^nadler-2011]。即便就心身交互的偶因论而言，其立场也被认为相当细致。例如 Schmaltz 论证，克劳贝格的偶因论限于由身到心这一方向，如随身体变化而生者；因为文本上有理由认为，在我们对身体的自愿控制中，克劳贝格肯定我们的意志具有某种真正因果（Schmaltz 2016, 180-1）[^schmaltz-2016]。不过，按本文开头的刻画，即便这一受限版本也未必使克劳贝格的立场合格为偶因论：多数学者同意，克劳贝格认为是在某些身体变化之际由灵魂本身引起相关感觉。也就是说，他并不认为我们感觉背后的唯一真正原因是上帝——若他要满足我们所规定的偶因论要求，本须持此说（Schmaltz 等人也充分承认这点）。克劳贝格的重要性，或许最好理解为：他明确拒斥身体变化是心灵变化的真正原因（Bardout 2008b, Schmaltz 2016）[^bardout-2008b][^schmaltz-2016]。其观点的复杂，可视为一例，显示面对此期种种复杂考量，各种立场变得何等错综而细致。
+    step2: |-
+      约翰内斯·克劳贝格（1622–1655）被一些人认定为最早受笛卡尔影响、依据心身的极端异质性就心身交互论证偶因论的哲学家之一（Bardout 2008b）[^bardout-2008b]。就物体—物体因果等其他领域而言，多数共识似认为他拒斥偶因论，容许物体实体具有因果效力（Nadler 2011）[^nadler-2011]。即便在心身交互上，其立场也相当细致。例如 Schmaltz 论证：克劳贝格的偶因论限于由身到心这一方向，如随身体变化而生者；文本上有理由认为，在我们对身体的自愿控制中，他肯定意志具有某种真正因果（Schmaltz 2016, 180-1）[^schmaltz-2016]。但按本文开头的刻画，即便这一受限版本也未必合格为偶因论：多数学者同意，克劳贝格认为是在某些身体变化之际由灵魂本身引起相关感觉。也就是说，他并不认为我们感觉背后的唯一真正原因是上帝——若他须满足我们所规定的偶因论要求，本应持此说（Schmaltz 等人也承认这点）。克劳贝格的意义，或许最好理解为：他明确拒斥身体变化是心灵变化的真正原因（Bardout 2008b, Schmaltz 2016）[^bardout-2008b][^schmaltz-2016]。其观点的复杂可视为一例，显示面对此期种种考量，各种立场变得何等错综细致。
+  - id: 22
+    kind: body
+    source: |-
+      Arnold Geulincx’s most distinctive contribution to the development of occasionalism comes in the form of a causal principle that puts an epistemic restriction on the exercise of genuine causality (see Nadler 1999, 268)[^nadler-1999]. In his *Metaphysica vera*, Geulincx states that “it is impossible to bring about something when one does not know how it is brought about … you are not the cause of that which you do not know how to bring about (*impossibile est, ut is faciat, qui nescit quomodo fiat … quod nescis quomodo fiat, id non facis*)” (*MV* 150–1). If restricted to the causality of rational, intentional agents, the principle seems to have some intuitive appeal. But Geulincx, interestingly enough, does not restrict the principle in this way. Rather, he takes it to be universally applicable, even to bodily causes, which has raised questions about the plausibility of this overall argument. Malebranche appears to be taking up a version of this principle, which we will discuss later in the section on the “no representation” argument.
+    step1: |-
+      阿诺德·赫林克斯对偶因论发展最独特的贡献，是一条对真正因果之施行施加认识论限制的因果原理（见 Nadler 1999, 268）[^nadler-1999]。在《真正的形而上学》中，他说：“当一个人不知道某事如何被造成时，他不可能造成它……你不知道如何造成的东西，你就没有造成（*impossibile est, ut is faciat, qui nescit quomodo fiat … quod nescis quomodo fiat, id non facis*）”（*MV* 150–1）。若限于理性而有意的行动者的因果，此原理似有直觉吸引力。但有趣的是，赫林克斯并未如此限制；他把它当作普遍适用的，甚至适用于物体原因，这就使人质疑整个论证的可信度。马勒布朗士似采用了该原理的一个版本，后文论“无表象”论证时将再讨论。
+    step2: |-
+      阿诺德·赫林克斯对偶因论发展最独特的贡献，是一条对真正因果之施行施加认识论限制的因果原理（见 Nadler 1999, 268）[^nadler-1999]。《真正的形而上学》中说：“一个人不知道某事如何被造成，就不可能造成它……你不知道如何造成的东西，你就没有造成（*impossibile est, ut is faciat, qui nescit quomodo fiat … quod nescis quomodo fiat, id non facis*）”（*MV* 150–1）。若限于理性而有意的行动者，此原理似有直觉吸引力；但赫林克斯并未如此限制，而把它当作普遍适用，甚至适用于物体原因，这就令人质疑整个论证的可信度。马勒布朗士似采用了它的一个版本，后文论“无表象”论证时再议。
+  - id: 23
+    kind: body
+    source: |-
+      ### 1.4 Nicolas Malebranche
+    step1: |-
+      ### 1.4 尼古拉·马勒布朗士
+    step2: |-
+      ### 1.4 尼古拉·马勒布朗士
+  - id: 24
+    kind: body
+    source: |-
+      Given Malebranche’s influence on the development of occasionalism, a substantial portion of the section on the arguments for occasionalism will be devoted Malebranche’s views. Here we simply note that Malebranche appears to have been committed to occasionalism from early on in his philosophical career, since his occasionalism emerges clearly in his first major work, *The Search for Truth* (*De la recherche de la vérité*, 1674–75). In addition to the *Search*, Malebranche in the *Elucidations to the Search* presents a long defense of his occasionalism against objections. And in the *Dialogues* we get Malebranche’s second major work to discuss the thesis of occasionalism centrally. Whether or in what way Malebranche’s views were influenced by earlier occasionalists, as discussed earlier, will not be centrally addressed here, given the limitations of space.[^note-7] We will however compare some of Malebranche’s arguments with his predecessors when relevant.
+    step1: |-
+      鉴于马勒布朗士对偶因论发展的影响，论证部分将有相当篇幅用于其观点。此处只指出：马勒布朗士似乎自哲学生涯早期即信守偶因论，因为其第一部重要著作《真理的寻求》（*De la recherche de la vérité*, 1674–75）已清楚显示偶因论。除《寻求》外，他在《〈寻求〉阐解》中长篇回应反对意见，为偶因论辩护；《对话录》则是他第二部集中讨论偶因论题的重要著作。至于其观点是否、如何受前文所述较早偶因论者影响，因篇幅所限，此处不作中心讨论。[^note-7] 但相关时会比较马勒布朗士与前人的某些论证。
+    step2: |-
+      鉴于马勒布朗士对偶因论发展的影响，论证部分将有相当篇幅用于其观点。此处只指出：他似乎自哲学生涯早期即信守偶因论，因为第一部重要著作《真理的寻求》（*De la recherche de la vérité*, 1674–75）已清楚显示偶因论。除《寻求》外，《〈寻求〉阐解》长篇回应反对意见、为偶因论辩护；《对话录》则是第二部集中讨论偶因论题的重要著作。其观点是否、如何受前文所述较早偶因论者影响，因篇幅所限不作中心讨论。[^note-7] 但相关时会比较他与前人的某些论证。
+  - id: 25
+    kind: body
+    source: |-
+      ### 1.5 Berkeley
+    step1: |-
+      ### 1.5 贝克莱
+    step2: |-
+      ### 1.5 贝克莱
+  - id: 26
+    kind: body
+    source: |-
+      The extent of George Berkeley’s occasionalism is also a matter of some controversy. But there is general agreement among interpreters that Berkeley was an occasionalist with regard to the causal powers of physical objects. That is, physical objects for Berkeley are not causally active in bringing about any events in the world. This denial is not surprising, if we consider the basic makeup of physical objects in Berkeley’s ontological scheme, along with his views about the passivity of ideas. For, according to Berkeley, physical objects, properly understood, are but bundles or collections of ideas, and ideas are manifestly passive—no power or activity is perceived in them (PHK 25).[^note-8]
+    step1: |-
+      乔治·贝克莱偶因论的程度也颇有争议。但解读者普遍同意：就物理对象的因果力而言，贝克莱是偶因论者。也就是说，按贝克莱，物理对象在造成世间任何事件上并无因果活动。若考虑贝克莱本体论框架中物理对象的基本构成，以及他关于观念被动性的看法，这一否认并不奇怪。因为按贝克莱，正确理解的物理对象只是观念的束或集合，而观念明显是被动的——在其中知觉不到任何力量或活动（PHK 25）。[^note-8]
+    step2: |-
+      乔治·贝克莱偶因论的程度也颇有争议，但解读者普遍同意：就物理对象的因果力而言，他是偶因论者——物理对象在造成世间任何事件上并无因果活动。考虑其本体论框架中物理对象的基本构成，以及他关于观念被动性的看法，这一否认并不奇怪。正确理解的物理对象只是观念的束或集合，而观念明显被动——在其中知觉不到任何力量或活动（PHK 25）。[^note-8]
+  - id: 27
+    kind: body
+    source: |-
+      In *De Motu*, Berkeley also argues for the causal passivity of bodies in a more traditional manner, where he does not rely on his views about the nature of physical objects as collections of ideas:
+    step1: |-
+      在《论运动》中，贝克莱还以更传统的方式论证物体的因果被动性，并不依赖“物理对象是观念集合”的观点：
+    step2: |-
+      在《论运动》中，贝克莱还以更传统的方式论证物体的因果被动性，不依赖“物理对象是观念集合”之说：
+  - id: 28
+    kind: body
+    source: |-
+      > Today indeed Cartesian philosophers recognize God as the principle of natural motions. And Newton everywhere frankly intimates that not only did motion originate from God, but that still the mundane system is moved by the same action. This is agreeable to Holy Scripture; this is approved by the opinion of the Schoolmen; for though the Peripatetics tell us that nature is the principle of motion and rest, yet they interpret *natura naturans* to be God. They understand of course that all the bodies of this mundane system are moved by Almighty Mind according to a settled and unchanging plan. (*De Motu* 32)
+      >
+      > Modern thinkers consider motion and rest in bodies as two states of existence in either of which every body, without pressure from external force, would naturally remain passive; whence one might gather that the cause of the existence of bodies is also the cause of their motion and rest. For no other cause of the successive existence of the body in different parts of space should be sought, it would seem, than that cause whence is derived the successive existence of the same body in different parts of time. (*De Motu* 34)
+    step1: |-
+      > 今日笛卡尔派哲学家确实承认上帝是自然运动的本原。牛顿也处处坦率暗示：不仅运动源于上帝，而且尘世系统至今仍由同一作用推动。这合乎《圣经》；这得到经院学者意见的认可；因为逍遥学派虽说自然是运动与静止的本原，却把*能生的自然*（*natura naturans*）解释为上帝。他们当然明白：这一尘世系统的一切物体，都按既定不变的计划由全能的心灵推动。（*De Motu* 32）
+      >
+      > 近代思想家把物体中的运动与静止看作两种存在状态：若无外力压迫，物体在其中任一状态都会自然地保持被动；由此或可推知，物体存在之因也是其运动与静止之因。因为物体在不同空间部分中相继存在之因，看来只能求诸同一物体在不同时间部分中相继存在之因。（*De Motu* 34）
+    step2: |-
+      > 今日笛卡尔派哲学家确实承认上帝是自然运动之本原；牛顿也处处坦率暗示：不仅运动源于上帝，尘世系统至今仍由同一作用推动。这合乎《圣经》，也得到经院学者认可：逍遥学派虽说自然是运动与静止之本原，却把*能生的自然*（*natura naturans*）解释为上帝。他们当然明白：这一尘世系统的一切物体，都按既定不变的计划由全能心灵推动。（*De Motu* 32）
+      >
+      > 近代思想家把物体中的运动与静止看作两种存在状态：若无外力压迫，物体在其中任一状态都会自然保持被动。由此或可推知：物体存在之因也是其运动与静止之因。物体在不同空间部分中相继存在之因，看来只能求诸同一物体在不同时间部分中相继存在之因。（*De Motu* 34）
+  - id: 29
+    kind: body
+    source: |-
+      Here Berkeley seems to be arguing that the proper understanding of how God relates to bodies and their motion would naturally lead us to conclude that all bodies are causally passive. The passive nature of bodies in this argument does not depend on their status as collections of ideas, but rather follows from the fact that the cause of the existence of bodies is identical to the cause of the motion and rest of bodies, namely, God. In the background appears to be the widely held theological principle that “conservation is but continuous creation”, which, as we shall see, was most forcefully presented by Malebranche.
+    step1: |-
+      此处贝克莱似乎在论证：正确理解上帝与物体及其运动的关系，会自然使我们得出结论——一切物体在因果上都是被动的。该论证中物体的被动性并不依赖其作为观念集合的身份，而出自这样一点：物体存在之因与物体运动静止之因同一，即上帝。其背景似乎是广为人知的神学原理“保存不过是持续创造”；如后文所示，此原理由马勒布朗士最有力地提出。
+    step2: |-
+      此处贝克莱似乎在论证：正确理解上帝与物体及其运动的关系，自然会得出“一切物体在因果上被动”的结论。物体的被动性并不依赖其作为观念集合的身份，而出自一点：物体存在之因与物体运动静止之因同一，即上帝。其背景似是广为人知的神学原理“保存不过是持续创造”——如后文所示，此原理由马勒布朗士最有力地提出。
+  - id: 30
+    kind: body
+    source: |-
+      How then would Berkeley account for the apparent interaction between physical objects we common experience, such as the stove in my kitchen boiling a pot of water? According to Berkeley, this phenomenon is to be understood as God causing the relevant sensations in us in a regular fashion, and this regularity underwrites what we typically take to be the laws of nature (PHK 30).[^note-9] Thus, within the domain of physical objects, Berkeley appears to think that God is the unique genuine cause, consistent with our characterization of occasionalism. There has been, however, some controversy in recent secondary literature as to whether one’s own body is to be included in this domain of physical objects. Some (such as McDonough 2008)[^mcdonough-2008] have argued against this inclusion, while others (such as Lee 2012)[^lee-2012] have argued that we, as finite spirits, have no genuine causal input in the movement of our own bodies, and such movement is directly caused by God like any other physical object for Berkeley.[^note-10]
+    step1: |-
+      那么，贝克莱如何解释我们日常经验的物理对象之间的表面交互，比如我厨房里的炉子把一壶水烧开？按贝克莱，这一现象应理解为上帝以规则的方式在我们心中引起相关感觉，而这种规则性支撑着我们通常所说的自然律（PHK 30）。[^note-9] 于是，在物理对象领域内，贝克莱似乎认为上帝是唯一真正的原因，这与我们对偶因论的刻画一致。不过，晚近二手文献对“自己的身体是否也属于这一物理对象领域”有争议：有人（如 McDonough 2008）[^mcdonough-2008] 反对纳入；另有人（如 Lee 2012）[^lee-2012] 主张，作为有限精神，我们对自己身体的运动并无真正因果输入，此类运动如贝克莱眼中任何其他物理对象一样，由上帝直接造成。[^note-10]
+    step2: |-
+      那么，贝克莱如何解释日常经验中物理对象之间的表面交互，比如厨房里的炉子把一壶水烧开？按他，这应理解为上帝以规则方式在我们心中引起相关感觉，而这种规则性支撑着我们通常所说的自然律（PHK 30）。[^note-9] 于是在物理对象领域内，上帝似是唯一真正的原因，这与我们对偶因论的刻画一致。不过，晚近文献对身体是否也属这一领域有争议：有人（如 McDonough 2008）[^mcdonough-2008] 反对纳入；另有人（如 Lee 2012）[^lee-2012] 主张，作为有限精神，我们对自己身体的运动并无真正因果输入，此类运动如任何其他物理对象一样由上帝直接造成。[^note-10]
+  - id: 31
+    kind: body
+    source: |-
+      Despite this clear occasionalist stance toward physical objects, Berkeley, as has been pointed out, firmly maintains that spirits, both infinite and finite, are causally active. The affirmation of the causal efficacy of finite spirits or minds like us raises questions about consistency, since the “conservation is but continuous creation” principle, which seems to be doing the work in Berkeley’s occasionalist claims in *De Motu*, is typically thought to be applicable universally, without discriminating between minds and bodies. [^note-11]
+    step1: |-
+      尽管对物理对象持明确的偶因论立场，贝克莱如论者所指，仍坚称精神——无限的与有限的——具有因果活动。肯定有限精神或我们这样的心灵的因果效力，会引出融贯性问题：因为“保存不过是持续创造”这一原理，似乎在《论运动》中支撑着贝克莱的偶因论主张，而它通常被认为普遍适用，不在心灵与物体之间作区分。[^note-11]
+    step2: |-
+      尽管对物理对象持明确的偶因论立场，贝克莱如论者所指，仍坚称精神——无限与有限——具有因果活动。肯定有限精神或我们这样的心灵的因果效力，会引出融贯性问题。“保存不过是持续创造”这一原理似乎在《论运动》中支撑着他的偶因论主张，而它通常被认为普遍适用，不在心灵与物体之间作区分。[^note-11]
+  - id: 32
+    kind: body
+    source: |-
+      ## 2. Occasionalism in Context
+    step1: |-
+      ## 2. 语境中的偶因论
+    step2: |-
+      ## 2 语境中的偶因论
+  - id: 33
+    kind: body
+    source: |-
+      Before examining the actual arguments for occasionalism, it might be helpful to compare and contrast occasionalism with alternative, competing accounts of causation that aim to address similar issues and concerns. The comparison can be done in two ways, since occasionalism can be seen as dealing with two distinct sets of issues concerning causation.
+    step1: |-
+      在考察偶因论的实际论证之前，先把偶因论与那些旨在处理类似问题的竞争性因果理论作一比较，或许有益。比较可从两方面进行，因为偶因论可看作在处理两组不同的因果问题。
+    step2: |-
+      考察偶因论的实际论证之前，先把它与旨在处理类似问题的竞争性因果理论作一比较，或许有益。比较可从两方面进行，因为偶因论可看作在处理两组不同的因果问题。
+  - id: 34
+    kind: body
+    source: |-
+      ### 2.1 Cartesian Interactionism, Pre-established Harmony, and Occasionalism
+    step1: |-
+      ### 2.1 笛卡尔式交互作用论、预定和谐与偶因论
+    step2: |-
+      ### 2.1 笛卡尔式交互作用论、预定和谐与偶因论
+  - id: 35
+    kind: body
+    source: |-
+      One way to view occasionalism is to see it as one of three possible responses to the aforementioned problem of mind-body interaction. The other two responses would be “Cartesian interactionism” and Leibniz’s “pre-established harmony.”
+    step1: |-
+      看待偶因论的一种方式，是把它看作前述心身交互问题的三种可能回应之一。另外两种是“笛卡尔式交互作用论”与莱布尼茨的“预定和谐”。
+    step2: |-
+      看待偶因论的一种方式，是把它看作心身交互问题的三种可能回应之一；另外两种是“笛卡尔式交互作用论”与莱布尼茨的“预定和谐”。
+  - id: 36
+    kind: body
+    source: |-
+      Faced with the issue of accounting for the apparent phenomena of mind-body interaction, those who subscribed to “Cartesian interactionism” (following Williams 1978, 287; Williams actually describes the situation as a “scandal”) held that the causal interaction is not merely apparent but real. In other words, changes in the body and mind really bring about changes in each other. But many found this position deeply unsatisfying. Some raised questions about whether it was intelligible that such radically distinct substances with nothing in common causally interacted, and others questioned whether such a view was consistent with the view that was gaining popularity, namely, that the material universe is causally closed and governed solely by physical laws of nature. Whether or not Descartes actually held this interactionist position is, as discussed earlier, a matter of controversy, but even in Descartes’ time the list of the critics of interactionism was a long one.
+    step1: |-
+      面对如何解释心身交互的表面现象这一问题，信奉“笛卡尔式交互作用论”的人（循 Williams 1978, 287；Williams 实称之为“丑闻”）主张，这种因果交互不只是表面现象，而是真实的：身体与心灵的变化确实彼此引起对方的变化。但许多人觉得这一立场极不令人满意。有人质疑：两个截然不同、毫无共同之处的实体因果交互，是否可理解？另有人质疑：这种观点是否与日见流行的看法相容——物质宇宙在因果上是封闭的，仅由物理自然律支配？如前所述，笛卡尔本人是否持交互作用论仍有争议；但即便在笛卡尔时代，交互作用论的批评者名单也已很长。
+    step2: |-
+      面对如何解释心身交互的表面现象，信奉“笛卡尔式交互作用论”的人（循 Williams 1978, 287；Williams 实称之为“丑闻”）主张：这种因果交互不只表面，而是真实的——身体与心灵的变化确实彼此引起变化。但许多人觉得这一立场极不令人满意：有人质疑两个截然不同、毫无共同之处的实体能否因果交互；另有人质疑它是否与日见流行的看法相容——物质宇宙在因果上封闭，仅由物理自然律支配。笛卡尔本人是否持交互作用论仍有争议，但即便在他那个时代，交互作用论的批评者名单也已很长。
+  - id: 37
+    kind: body
+    source: |-
+      Occasionalism and pre-established harmony emerged as alternatives to the model of interactionism, in rejecting that there is genuine causal interaction. In fact, their denial of real causal interaction among distinct finite substances is not limited to mind-body interaction but applies across all board, be it body-body or mind-body causation. In other words, both views can be said to deny all *inter*-substantial causation, where by “substance” we refer to finite substances or creatures.[^note-12] However, occasionalism and pre-established parted ways when it came to the question of *intra*-substantial causation—that is, whether or not there is causal activity going on *within* the substances such that finite substances are active in causing their own states. Leibniz, the principal proponent of pre-established harmony, held firm to the view that, while finite substances do not have the causal power to bring about changes in *other* substances, they are causally active *internally*, that is, in causing their own states. Each creature causally contributes to the occurrence of its own states, and the apparent interaction between distinct substances is due to how the states of distinct substances harmonize with each other. Following our characterization of occasionalism at the outset, even if the relevant domain of concern is restricted to the states of a single, individual substance, an occasionalism would have to hold that the creature itself is not playing a genuine causal role in the occurrence of those states. Leibniz, as a proponent of genuine intra-substantial causal forces, would reject this claim. Malebranche, in contrast, denied all causal powers to creatures, including the intra-substantial powers endorsed by Leibniz. For Malebranche, even the internal states of a creature are mere occasions for God to bring about the relevant subsequent states.
+    step1: |-
+      偶因论与预定和谐作为交互作用论模型的替代而出现，二者都否认存在真正的因果交互。事实上，二者对不同有限实体之间真实因果交互的否认并不限于心身交互，而是普遍适用，无论物体—物体因果还是心灵—物体因果。换言之，两种观点都可说否认一切实体*间*因果，其中“实体”指有限实体或受造物。[^note-12] 然而，一涉及实体*内*因果——即各实体内部是否发生因果活动，使有限实体在造成自身状态上具有活动性——偶因论与预定和谐便分道扬镳。预定和谐的主要倡导者莱布尼茨坚持：有限实体虽无造成*其他*实体变化的因果力，却在*内部*具有因果活动，即在造成自身状态上如此。每个受造物对其自身状态的发生都有因果贡献；不同实体之间的表面交互，源于各实体状态彼此和谐。按本文开头的刻画，即便相关领域限于单个实体的状态，偶因论者也须主张：受造物本身在这些状态的发生中不起真正因果作用。作为真正实体内部因果力的倡导者，莱布尼茨会拒斥这一主张；马勒布朗士则相反，否认受造物的一切因果力，包括莱布尼茨所肯定的实体内力。对马勒布朗士而言，即便受造物的内部状态，也只是上帝造成相关后续状态的偶因。
+    step2: |-
+      偶因论与预定和谐作为交互作用论的替代出现，二者都否认真正的因果交互。其否认并不限于心身交互，而普遍适用于物体—物体、心灵—物体等一切情形：两说都可说否认一切实体*间*因果，其中“实体”指有限实体或受造物。[^note-12] 但一涉及实体*内*因果——各实体内部是否发生因果活动，使有限实体在造成自身状态上具活动性——二者便分道扬镳。莱布尼茨坚持：有限实体虽无造成*其他*实体变化的因果力，却在*内部*具有因果活动。每个受造物都对其自身状态的发生有因果贡献；不同实体之间的表面交互，源于各实体状态彼此和谐。按本文开头的刻画，即便相关领域限于单个实体的状态，偶因论者也须主张受造物本身不起真正因果作用。作为实体内部因果力的倡导者，莱布尼茨会拒斥此说；马勒布朗士则相反，否认受造物的一切因果力，包括莱布尼茨所肯定的实体内力。对他而言，即便受造物的内部状态，也只是上帝造成相关后续状态的偶因。
+  - id: 38
+    kind: body
+    source: |-
+      ### 2.2 Mere Conservationism, Divine Concurrentism, and Occasionalism
+    step1: |-
+      ### 2.2 单纯保存论、神性并作论与偶因论
+    step2: |-
+      ### 2.2 单纯保存论、神性并作论与偶因论
+  - id: 39
+    kind: body
+    source: |-
+      The other issue that occasionalism addresses is one that concerns how divine causality relates to natural causality, or as Alfred Freddoso has put it, “the general problem of divine action in nature” (Freddoso 1994, 131–5)[^freddoso-1994]. The problem, as Freddoso notes, consists of the following questions: if God ultimately is the first and direct cause of everything, including whatever occurs and exists in nature, can there be any causal activity on the part of creatures?; and if there is secondary causation, how does this causal activity fit in with God’s causal activity? In response to these questions, historically, three positions have appeared: “conservationism,” “concurrentism,” and “occasionalism.”
+    step1: |-
+      偶因论处理的另一问题，关乎神的因果与自然因果如何相关，用 Alfred Freddoso 的话说，即“神在自然中作用的一般问题”（Freddoso 1994, 131–5）[^freddoso-1994]。如 Freddoso 所指，该问题包括：若上帝终究是万物的第一因与直接原因，包括自然中发生与存在的一切，那么受造物是否还能有任何因果活动？若存在次级因果，这种因果活动又如何与神的因果活动相配？历史上对此有三种立场：“保存论”“并作论”“偶因论”。
+    step2: |-
+      偶因论处理的另一问题，关乎神的因果与自然因果如何相关；用 Alfred Freddoso 的话说，即“神在自然中作用的一般问题”（Freddoso 1994, 131–5）[^freddoso-1994]。它包括：若上帝终究是万物的第一因与直接原因，包括自然中发生与存在的一切，受造物还能有任何因果活动吗？若存在次级因果，它又如何与神的因果活动相配？历史上对此有三种立场：“保存论”“并作论”“偶因论”。
+  - id: 40
+    kind: body
+    source: |-
+      We might distinguish the three positions by the degree of causal activity assigned to God and the creature respectively, when a natural event takes place. At one end is conservationism, which keeps divine causal involvement to a minimum. According to conservationism, while God conserves substances with their powers in existence, when creatures are causally active in bringing about their natural effects, God’s contribution is remote or indirect. In other words, God’s causal contribution consists in merely conserving the being or *esse* of the creature in question along with its power, and the causal activity of the creature is in some straightforward sense the creature’s own and not God’s (Freddoso 1991, 554)[^freddoso-1991]. At the other end is occasionalism, where divine causal activity is maximal and creaturely causal activity is non-existent. For the occasionalist, divine causal activity is the only type of genuine causality. Creatures provide at most an occasion for God’s activity, which is uniquely direct and immediate in bringing about all effects in nature. Concurrentism (or “divine concurrentism”) can then be seen as occupying the middle ground. Concurrentists hold that when a natural effect is produced, it is immediately caused by *both* God *and* the creature. God and the creature are both directly involved and “concur” in bringing about the natural effects typically attributed to the creature.[^note-13]
+    step1: |-
+      不妨按自然事件发生时上帝与受造物各自被分派的因果活动程度，区分这三种立场。一端是保存论：它把神的因果参与保持在最低限度。按保存论，上帝保存实体及其力量于存在之中，而当受造物因果地造成其自然结果时，上帝的贡献是遥远或间接的；换言之，上帝的因果贡献仅在于保存相关受造物的存在（*esse*）及其力量，受造物的因果活动在某种直接意义上属于受造物自身，而非上帝（Freddoso 1991, 554）[^freddoso-1991]。另一端是偶因论：神的因果活动最大化，受造物的因果活动则不存在。对偶因论者而言，神的因果活动是唯一真正的因果；受造物至多为上帝的活动提供偶因，而上帝在造成自然中一切结果上是唯一直接而即刻的。并作论（或“神性并作论”）则可看作居间立场：并作论者主张，自然结果产生时，它由上帝*与*受造物*二者*直接造成；上帝与受造物都直接参与，并“共同”造成通常归于受造物的自然结果。[^note-13]
+    step2: |-
+      不妨按自然事件发生时上帝与受造物各自被分派的因果活动程度区分三者。一端是保存论：神的因果参与保持在最低限度——上帝保存实体及其力量于存在之中，而当受造物因果地造成自然结果时，上帝的贡献是遥远或间接的；换言之，上帝仅保存相关受造物的存在（*esse*）及其力量，受造物的因果活动在直接意义上属于受造物自身，而非上帝（Freddoso 1991, 554）[^freddoso-1991]。另一端是偶因论：神的因果活动最大化，受造物的因果活动则不存在。神之因果是唯一真正者，受造物至多为上帝的活动提供偶因；上帝在造成自然结果上是唯一直接而即刻者。并作论（或“神性并作论”）居间：自然结果产生时，它由上帝*与*受造物*二者*直接造成，二者都直接参与并“共同”造成通常归于受造物的自然结果。[^note-13]
+  - id: 41
+    kind: body
+    source: |-
+      ## 3. The Arguments for Occasionalism
+    step1: |-
+      ## 3. 偶因论的论证
+    step2: |-
+      ## 3 偶因论的论证
+  - id: 42
+    kind: body
+    source: |-
+      In this section, we will examine in more detail the main arguments in support of occasionalism. We will focus on the arguments provided by Malebranche and discuss relevant versions by other occasionalists when appropriate.[^note-14]
+    step1: |-
+      本节更详细地考察支持偶因论的主要论证，重点在马勒布朗士所提出的论证，并在适当时讨论其他偶因论者的相关版本。[^note-14]
+    step2: |-
+      本节详察支持偶因论的主要论证，重点在马勒布朗士，并在适当时讨论其他偶因论者的相关版本。[^note-14]
+  - id: 43
+    kind: body
+    source: |-
+      ### 3.1 The Passive Nature Argument
+    step1: |-
+      ### 3.1 被动本性论证
+    step2: |-
+      ### 3.1 被动本性论证
+  - id: 44
+    kind: body
+    source: |-
+      The “passive nature” (hereafter “PN”) argument aims to establish the occasionalist conclusion for bodies—that is, Cartesian extended substances—and only bodies, by focusing on the characteristic features of these substances. In this respect, the argument appears to be an instance of a “local” argument for occasionalism in that the scope of the argument is limited to a particular type of substance. The argument aims to establish the occasionalist conclusion for *some* finite substances, that is, bodies, and not all substances.
+    step1: |-
+      “被动本性”论证（下称“PN 论证”）旨在为物体——即笛卡尔式广延实体——且仅为物体确立偶因论结论，其着眼点是这些实体的特征性属性。就此而言，该论证似乎是偶因论的“局部”论证之一例，其范围限于某一类实体：它为*某些*有限实体即物体、而非一切实体确立偶因论结论。
+    step2: |-
+      “被动本性”论证（下称“PN 论证”）旨在为物体——笛卡尔式广延实体——且仅为物体确立偶因论结论，着眼点是这些实体的特征性属性。它因此似属偶因论的“局部”论证：范围限于某一类实体，即物体，而非一切实体。
+  - id: 45
+    kind: body
+    source: |-
+      The first passages that stress the lack of activity of bodies as well as their lack of ability to initiate movement emerge in the *Search* (OCM II 312–3/*Search* 448), soon after Malebranche’s first statement of his occasionalist thesis. In the *Elucidations*, mixed together with the claim that the “motor force of bodies is but the will of God,” we are presented with the following description of bodies as being “purely passive substances”:
+    step1: |-
+      最早强调物体缺乏活动性、且无力自行启动运动的段落，见于《真理的寻求》（OCM II 312–3/*Search* 448），紧接马勒布朗士首次表述其偶因论题之后。在《〈寻求〉阐解》中，与“物体的运动力无非上帝意志”这一主张交织在一起的，是如下描述：物体是“纯粹被动的实体”：
+    step2: |-
+      最早强调物体缺乏活动性、无力自行启动运动的段落，见于《真理的寻求》（OCM II 312–3/*Search* 448），紧接马勒布朗士首次表述其偶因论题之后。《〈寻求〉阐解》中，与“物体的运动力无非上帝意志”交织在一起的，是如下描述：物体乃“纯粹被动的实体”——
+  - id: 46
+    kind: body
+    source: |-
+      > When I see one ball strike another, my eyes … seem to tell me, that the one is truly the cause of the motion it impresses on the other …. But when I consult my reason I clearly see that since bodies cannot move themselves, and since their motor force is but the will of God that conserves them successively in different places, *they cannot communicate a power they do not have and could not communicate even if it were in their possession. For the mind will never conceive that one body, a purely passive substance, can in any way whatsoever transmit to another body the power transporting it*. (*OCM* III 208–9/*Search* 660, my emphasis)
+    step1: |-
+      > 当我看见一球撞击另一球，我的眼睛……似乎在告诉我：前者确实是它所施加于后者之运动的原因……。但当我求诸理性，便清楚看到：既然物体不能自行运动，既然其运动力无非上帝把它们相继保存于不同位置的意志，*它们就不能传递自己所没有的力量，即便拥有这力量也无法传递。因为心灵绝不会设想：一个物体，一个纯粹被动的实体，能以任何方式把推动它的力量传给另一个物体*。（*OCM* III 208–9/*Search* 660，着重号为引者所加）
+    step2: |-
+      > 当我看见一球撞击另一球，我的眼睛……似乎在告诉我：前者确实是它所施加于后者之运动的原因……。但求诸理性，便清楚看到：物体不能自行运动，其运动力无非上帝把它们相继保存于不同位置的意志，因而*它们不能传递自己所没有的力量，即便拥有也无法传递。因为心灵绝不会设想：一个物体，一个纯粹被动的实体，能以任何方式把推动它的力量传给另一物体*。（*OCM* III 208–9/*Search* 660，着重号为引者所加）
+  - id: 47
+    kind: body
+    source: |-
+      But why are bodies purely passive substances? The answer, according to Malebranche, lies in our idea of extension:
+    step1: |-
+      但物体为何是纯粹被动的实体？按马勒布朗士，答案在于我们的广延观念：
+    step2: |-
+      但物体为何是纯粹被动的实体？按马勒布朗士，答案在广延观念之中：
+  - id: 48
+    kind: body
+    source: |-
+      > Consult the idea of extension and decide by this idea which represents bodies … whether they can have any property other than the *passive faculty* of receiving various figures and movements. Is it not entirely obvious that all the properties of extension can consist only in relations of distance? (*OCM* XII 150–51/*Dialogues* 106, my emphasis)
+    step1: |-
+      > 请查看广延观念，凭这个表象物体的观念来判断……它们除了接受各种形状与运动的*被动能力*外，还能有任何属性吗。广延的一切属性只能在于距离关系，这难道不是全然显然的吗？（*OCM* XII 150–51/*Dialogues* 106，着重号为引者所加）
+    step2: |-
+      > 请查看广延观念，凭这个表象物体的观念来判断……它们除了接受各种形状与运动的*被动能力*外，还能有任何属性吗？广延的一切属性只能在于距离关系，这难道不全然显然？（*OCM* XII 150–51/*Dialogues* 106，着重号为引者所加）
+  - id: 49
+    kind: body
+    source: |-
+      The central point seems as follows: given that all the properties of extension are exhausted by relations of distance, it would be a category mistake, as it were, to ascribe powers to bodies. Powers or forces are not properties that bodies can have at all, since powers do not consist in relations of distance. That is, that something possesses a motive force and, thus, moves a body or affects a mind would entail that the thing in question is not a body, since there would be more to this thing than relations of distance. The key premise here is that causal powers or forces are not relations of distance and, hence, not modes that bodies possess. This assumption gets expressed more explicitly in the following argument, which reinforces the understanding of bodily “passivity” as the body’s being constituted by relations of distance alone:
+    step1: |-
+      要点似乎如下：既然广延的一切属性都由距离关系穷尽，把力量归于物体便可谓犯了一种范畴错误。力量或力根本不是物体能具有的属性，因为力量不在于距离关系。也就是说，某物拥有运动力、从而推动物体或影响心灵，将蕴含该物不是物体，因为它身上多于距离关系。此处关键前提是：因果力量或力不是距离关系，因而不是物体所具有的样式。这一假定在下面的论证中表达得更明确，而该论证强化了“物体被动”即物体仅由距离关系构成这一理解：
+    step2: |-
+      要点似乎如下：广延的一切属性既已由距离关系穷尽，把力量归于物体便可谓范畴错误——力量或力根本不是物体能具有的属性，因为力量不在于距离关系。某物若拥有运动力、从而推动物体或影响心灵，便蕴含它不是物体，因为它身上多于距离关系。关键前提是：因果力量或力不是距离关系，因而不是物体所具有的样式。这一假定在下述论证中表达得更明确，而该论证强化了“物体被动”即物体仅由距离关系构成这一理解：
+  - id: 50
+    kind: body
+    source: |-
+      > But that bodies should receive in themselves a certain power, by the efficacy of which they could act on the mind—this I do not understand. For what would this power be? Would it be a substance, or a modality? If a substance, then bodies will not act, but rather this substance in bodies. If this power is a modality, then there will be a modality in bodies which will be neither motion nor figure. Extension will be capable of having modalities other than relations of distance. (*OCM* XII 151/*Dialogues* 107)
+    step1: |-
+      > 但物体自身接受某种力量，并凭其效力作用于心灵——这我不理解。因为这力量会是什么？是实体，还是样态？若是实体，那起作用的就不是物体，而是物体中的这个实体。若这力量是样态，那么物体中就有一种既非运动也非形状的样态；广延将能够具有距离关系之外的样态。（*OCM* XII 151/*Dialogues* 107）
+    step2: |-
+      > 但物体自身接受某种力量，凭其效力作用于心灵——这我不理解。这力量会是什么？是实体，还是样态？若是实体，起作用的便不是物体，而是物体中的这个实体。若它是样态，那么物体中就有一种既非运动也非形状的样态；广延将能具有距离关系之外的样态。（*OCM* XII 151/*Dialogues* 107）
+  - id: 51
+    kind: body
+    source: |-
+      With the help of the commonly accepted Scholastic assumption that any real being must either be a substance or mode, Malebranche presents a rather clever argument that active powers have no place in bodies (see Clatterbaugh 1999, 114–5)[^clatterbaugh-1999]. One might wonder what would be so bad with the first option—that is, that of granting the existence of a separate, distinct substance in bodies responsible for the bodies’ activity. But Malebranche’s response is clear: even if we bracket the worry of whether we could have a sufficiently clear idea of what kind of thing this substance would be, it is unlikely that this substance would be a Cartesian extended substance. For it would possess modes or properties other than relations of distance. And in discussing why the second option is going to fail, we see the explicit statement that, though an active power perhaps could be a mode of some *other* substance, it is not a mode that belongs to *bodies*, since forces or powers are not relations of distance.[^note-15]
+    step1: |-
+      借助经院哲学通行的假定——任何真实存在者要么是实体，要么是样态——马勒布朗士提出一个颇巧妙的论证，说明主动力量在物体中没有位置（见 Clatterbaugh 1999, 114–5）[^clatterbaugh-1999]。人们会问：第一个选项——承认物体中有一个独立而不同的实体负责物体的活动——究竟有什么不好？马勒布朗士的回答很清楚：即便悬置“我们能否对该实体是什么样有足够清楚的观念”这一顾虑，该实体也不太会是笛卡尔式广延实体，因为它会具有距离关系之外的样态或属性。至于第二个选项为何失败，我们看到他明确断言：主动力量或许可以是某种*别的*实体的样态，却不是属于*物体*的样态，因为力或力量不是距离关系。[^note-15]
+    step2: |-
+      借助经院哲学通行的假定——任何真实存在者要么是实体，要么是样态——马勒布朗士提出一个颇巧妙的论证：主动力量在物体中没有位置（见 Clatterbaugh 1999, 114–5）[^clatterbaugh-1999]。第一个选项——承认物体中有独立而不同的实体负责其活动——有什么不好？回答很清楚：即便悬置“我们能否对该实体有足够清楚观念”这一顾虑，它也不太会是笛卡尔式广延实体，因为它会具有距离关系之外的样态或属性。至于第二个选项为何失败，他明确断言：主动力量或许是某种*别的*实体的样态，却不是属于*物体*的样态——力或力量不是距离关系。[^note-15]
+  - id: 52
+    kind: body
+    source: |-
+      But is it obvious that powers or forces are not relations of distance? This question along with the questions about how powers or forces relate to the more obvious properties of extension—for instance, size and shape—raise interesting and important questions that go to the heart of the PN argument. The main intuitive thrust behind Malebranche’s PN argument is to convince the reader that, if we understand the Cartesian conception of matter or extension properly, we can see that motive force or power is neither necessary nor sufficient for being an extended substance.[^note-16] This view seem rather close to Descartes’ original insight that having specific spatial features and standing in particular spatial relations to other bodies are both necessary and sufficient conditions to be a bodily substance,[^note-17] and Malebranche takes this to imply that whether these bodies further possess a motive force is an issue peripheral to the basic nature of bodies. Such a view seems to be expressed in his discussion of motion and rest in the *Search*:
+    step1: |-
+      但“力或力量不是距离关系”显然吗？此问连同“力或力量与广延更明显的属性（如大小与形状）如何相关”之问，提出了直抵 PN 论证核心的有趣而重要的问题。马勒布朗士 PN 论证的主要直觉推力在于说服读者：若正确理解笛卡尔式的物质或广延概念，就能看出运动力或力量既非成为广延实体的必要条件，也非充分条件。[^note-16] 这一看法似相当接近笛卡尔的原始洞见：具有特定空间特征、并与其他物体处于特定空间关系，是成为物体实体的充分必要条件；[^note-17] 马勒布朗士由此认为，这些物体是否还拥有运动力，是与物体基本本性无涉的问题。这种看法似在《寻求》论运动与静止处有所表达：
+    step2: |-
+      但“力或力量不是距离关系”显然吗？此问连同“力与广延更明显的属性（大小、形状）如何相关”之问，直抵 PN 论证的核心。该论证的直觉推力在于说服读者：若正确理解笛卡尔式的物质或广延概念，就能看出运动力或力量既非成为广延实体的必要条件，也非充分条件。[^note-16] 这似相当接近笛卡尔的原始洞见：具有特定空间特征并与其他物体处于特定空间关系，是成为物体实体的充分必要条件；[^note-17] 马勒布朗士由此认为，物体是否还拥有运动力，与物体基本本性无涉。此看法似在《寻求》论运动与静止处有所表达：
+  - id: 53
+    kind: body
+    source: |-
+      > I am not considering motion and rest here according to their relative being: for it is obvious that bodies at rest have relations just as real to those around them as those in motion. I conceive only that bodies in motion have a motor force, and that those at rest have no force for their state of rest, because the relation of moving bodies to those around them is always changing; and therefore there has to be a continuous force producing these continuous changes, for in effect it is these changes which cause everything new that happens in nature. But there need be no force to make nothing happen. When the relation of a body to those around it is always the same, nothing happens; and the preservation of this relation, I mean the action of God’s will that preserves this relation, is no different from what preserves the body itself. (*OCM* II 431–32/*Search* 517)
+    step1: |-
+      > 我在此不按运动与静止的相对存在来考察它们：因为显然，静止的物体与周围物体的关系，同运动物体与周围物体的关系一样实在。我只是设想：运动中的物体有一种运动力，静止的物体对其静止状态则没有力，因为运动物体与周围物体的关系总在变化；因此必须有持续的力来产生这些持续的变化，实际上正是这些变化造成自然界中发生的一切新事。但要使无事发生，则无须任何力。当一物体与周围物体的关系始终不变，便无事发生；而保持这一关系，我指上帝意志保持这一关系的作用，与保存物体本身并无不同。（*OCM* II 431–32/*Search* 517）
+    step2: |-
+      > 我在此不按运动与静止的相对存在来考察它们：显然，静止物体与周围物体的关系，同运动物体与周围物体的关系一样实在。我只是设想：运动中的物体有运动力，静止的物体对其静止状态则无力，因为运动物体与周围物体的关系总在变化；故必须有持续的力来产生这些持续变化，正是这些变化造成自然界中发生的一切新事。要使无事发生，则无须任何力。当一物体与周围物体的关系始终不变，便无事发生；而保持这一关系——我指上帝意志保持它的作用——与保存物体本身并无不同。（*OCM* II 431–32/*Search* 517）
+  - id: 54
+    kind: body
+    source: |-
+      Here we get the impression that Malebranche is thinking that motive force is something additional or added on, as it were, to bodies, and that, in this respect, there is a fundamental difference between the two modes of motion and rest. In other words, whatever causal contribution is needed on the part of God to bring bodies into existence, there needs to be an additional causal contribution on the part of God in the form of a motive force to bring about changes in relations of distance, which occur when bodies are moved. It is as if the default mode of existence for extended substances is to be at rest, and motive force is added on through another divine volition, one that is distinct from the volition that brings the body into existence in the first place.[^note-18] If so, this understanding of motion and rest fits well with the PN argument: motive force is not essential to extension because motive force is not only not a relation of distance but rather some additional feature that is added on to bodies, which are by default at rest and passive.
+    step1: |-
+      由此我们得到的印象是：马勒布朗士认为运动力是某种附加于物体之上的东西，就此而言，运动与静止两种样式有根本差异。也就是说，无论上帝为使物体存在需要何种因果贡献，在造成距离关系的变化（即物体被移动时发生的变化）上，还需要上帝以运动力形式作出额外的因果贡献。仿佛广延实体的默认存在方式是静止，而运动力是通过另一个神的意志附加的，这个意志与最初使物体存在的意志不同。[^note-18] 若如此，这种运动静止观便与 PN 论证十分契合：运动力并非广延的本质，因为它不仅是距离关系之外的东西，而且是附加于物体的额外特征——物体默认静止而被动。
+    step2: |-
+      由此得到的印象是：马勒布朗士认为运动力是某种附加于物体之上的东西，就此而言运动与静止两种样式有根本差异。无论上帝为使物体存在需要何种因果贡献，在造成距离关系的变化（物体被移动时）上还需要额外贡献。仿佛广延实体的默认存在方式是静止，运动力则通过另一个神的意志附加，与最初使物体存在的意志不同。[^note-18] 若如此，这种运动静止观便与 PN 论证十分契合：运动力并非广延的本质——它不仅是距离关系之外的东西，更是附加于物体的额外特征，而物体默认静止而被动。
+  - id: 55
+    kind: body
+    source: |-
+      We end this section with the observation that Malebranche’s views on motion and rest just discussed seems to be at odds with one of his global arguments for occasionalism, in particular, the “conservation is but continuous creation” argument (hereafter referred to the “CCC” argument). For the CCC argument strongly suggests a symmetry between God’s act of continuously creating a body at rest and continuously creating a body in motion, since the latter is described as differing from the former only in that, in the latter case, God continuously creates the body in *different* locations over time.
+    step1: |-
+      本节最后要指出：刚才讨论的马勒布朗士的运动静止观，似乎与他为偶因论提出的一个全局论证——尤其“保存不过是持续创造”论证（下称“CCC”论证）——不一致。因为 CCC 论证强烈提示：上帝持续创造一个静止物体与持续创造一个运动物体的行为之间是对称的，因为后者与前者的差别仅在于：在后一情形中，上帝在时间中持续把物体创造在*不同*位置。
+    step2: |-
+      本节最后要指出：马勒布朗士的运动静止观似与他为偶因论提出的一个全局论证——“保存不过是持续创造”（下称“CCC”）论证——不一致。CCC 论证强烈提示：上帝持续创造静止物体与持续创造运动物体，这两个行为之间是对称的；后者与前者的差别仅在于上帝在时间中持续把物体创造在*不同*位置。
+  - id: 56
+    kind: body
+    source: |-
+      ### 3.2 The No Knowledge Argument
+    step1: |-
+      ### 3.2 无知论证
+    step2: |-
+      ### 3.2 无知论证
+  - id: 57
+    kind: body
+    source: |-
+      The “no knowledge” (hereafter “NK”) argument aims to secure the occasionalist conclusion by presenting an intriguing, if controversial, epistemic condition on causal agency.[^note-19] As noted earlier, Geulincx had argued that “you are not the cause of that which you do not know how to bring about” (*MV* 2 150–1). Malebranche presents his version of the argument in numerous places, including the following passage from the *Elucidations*, where he denies that our minds are true causes, based on our lack of knowledge of the intended effects:
+    step1: |-
+      “无知”论证（下称“NK 论证”）旨在通过提出一个有趣而具争议的关于因果作用的认知条件，来确定偶因论结论。[^note-19] 如前所述，赫林克斯曾论证“你不知道如何造成的东西，你就没有造成”（*MV* 2 150–1）。马勒布朗士在诸多处提出其版本，包括《阐解》中下述段落：他依据我们对预期结果缺乏知识，否认我们的心灵是真正的原因：
+    step2: |-
+      “无知”论证（下称“NK 论证”）旨在通过提出一个有趣而具争议的关于因果作用的认知条件，来确立偶因论结论。[^note-19] 如前所述，赫林克斯曾论证“你不知道如何造成的东西，你就没有造成”（*MV* 2 150–1）。马勒布朗士在诸多处提出其版本：《阐解》中，他依据我们对预期结果缺乏知识，否认心灵是真正的原因——
+  - id: 58
+    kind: body
+    source: |-
+      > But I deny that my will is the true cause of my arm’s movement, of my mind’s ideas, and of other things accompanying my volitions, for I see no relation whatever between such different things. I even see clearly that there can be no relation between the volition I have to move my arm and the agitation of the animal spirits, i.e., of certain tiny bodies whose motion and figure I do not know and which choose certain nerve canals from a million others I do not know in order to cause in me the motion I desire through an infinity of movements I do not desire. (*OCM* III 226/*Search* 669)
+    step1: |-
+      > 但我否认我的意志是我手臂运动、我心中的观念以及伴随我意志的其他东西的真正原因，因为我看不出这些如此不同的事物之间有任何关系。我甚至清楚看到：我要移动手臂的意志，与动物精气（即某些微小物体，其运动与形状我并不知道）的激荡之间，不可能有任何关系；这些精气要从我所不知道的上百万条神经管道中选出某些，以无数我并不欲求的运动，在我心中造成我所欲求的那个运动。（*OCM* III 226/*Search* 669）
+    step2: |-
+      > 但我否认我的意志是我手臂运动、我心中观念以及伴随意志的其他东西的真正原因，因为我看不出这些如此不同的事物之间有任何关系。我甚至清楚看到：我要移动手臂的意志，同动物精气（某些微小物体，其运动与形状我并不知道）的激荡之间，不可能有任何关系；这些精气要从我所不知道的上百万条神经管道中选出某些，以无数我并不欲求的运动，在我心中造成我所欲求的那个运动。（*OCM* III 226/*Search* 669）
+  - id: 59
+    kind: body
+    source: |-
+      Though not explicitly stated, many commentators have read Malebranche as endorsing, in places such as this passage, the claim that the agent must know *how* to bring about the effect in order to be its cause.
+    step1: |-
+      尽管未明言，许多评论者认为马勒布朗士在此类段落中赞同：作用者必须知道*如何*造成结果，才能成为其原因。
+    step2: |-
+      尽管未明言，许多评论者认为马勒布朗士在此类段落中赞同：作用者须知道*如何*造成结果，才能成为其原因。
+  - id: 60
+    kind: body
+    source: |-
+      This “knowledge principle” (hereafter “KP”) raises a number of questions. One question concerns the scope of its applicability. For the principle to be plausible, it might be thought, one ought to restrict it to intelligent, volitional agents. As long as we accept the traditional conception of the will as being “blind” on its own and dependent on the guidance of the intellect, we might think that there is something to be said for the claim that we can only bring about what we know. That is, bringing about a volitional effect seems to presuppose our intending the effect, and we seem to intend only what we, through our intellect, actually represent or know. While most commentators seem to favor reading Malebranche as restricting the knowledge principle to minds, there is, as Steven Nadler has argued, at least one passage that seems to suggest that Malebranche is endorsing the wide scope applicability of KP (*Conversations Chrétiennes*, OCM 4:15–6). And, as Nadler has also pointed out, Geulincx and some Islamic occasionalists indeed pressed the view that the principle applies ubiquitously to all cases of genuine efficacy (Nadler 1999, 263–74)[^nadler-1999].
+    step1: |-
+      这一“知识原则”（下称“KP”）引出若干问题。一是其适用范围。要使该原则可信，人们会想，应把它限于有理智、有意志的作用者。只要我们接受传统看法——意志本身是“盲的”，有赖理智引导——或许会认为，“我们只能造成我们所知道的东西”这一主张有几分道理：造成一个意志结果，似乎预设我们意欲该结果，而我们似乎只意欲那些经由理智实际表象或知道的东西。多数评论者倾向于认为马勒布朗士把知识原则限于心灵；但如 Steven Nadler 所论，至少有一段文字似乎表明马勒布朗士赞同 KP 的宽适用范围（*Conversations Chrétiennes*, OCM 4:15–6）。Nadler 还指出，赫林克斯与一些伊斯兰偶因论者确实主张该原则普遍适用于一切真正效力情形（Nadler 1999, 263–74）[^nadler-1999]。
+    step2: |-
+      “知识原则”（下称“KP”）引出若干问题。一是适用范围：要使它可信，似应限于有理智、有意志的作用者。只要接受传统看法——意志本身“盲”，有赖理智引导——或许会认为“我们只能造成自己所知道的东西”有几分道理。造成意志结果似乎预设我们意欲该结果，而我们似乎只意欲经由理智实际表象或知道的东西。多数评论者认为马勒布朗士把 KP 限于心灵；但如 Steven Nadler 所论，至少有一段文字似表明他赞同 KP 的宽适用范围（*Conversations Chrétiennes*, OCM 4:15–6）。Nadler 还指出，赫林克斯与一些伊斯兰偶因论者确实主张该原则普遍适用于一切真正效力情形（Nadler 1999, 263–74）[^nadler-1999]。
+  - id: 61
+    kind: body
+    source: |-
+      If Geulincx and Al-Ghazālī (and, arguably, even Malebranche) did hold KP to be applicable to chairs and rocks as well as thinking substances, our next question then is why they would hold such a counter-intuitive view. Nadler has made the interesting suggestion that the wide-scope application of KP could have been motivated by the view that takes “volitional agency to be *the* paradigm of causality” (Nadler 1999, 270)[^nadler-1999]. Why take volitional agency to be paradigmatic? According to Nadler, the critical link is divine causal activity, which was the paradigmatic case of causality for the occasionalists in question. For if we take God’s causal activity to be fundamentally intentional and volitional in character, then it seems indeed a short step to taking volitional agency to be also paradigmatic of causality.
+    step1: |-
+      若赫林克斯与安萨里（甚至可说马勒布朗士）确实认为 KP 也适用于椅子和岩石，而不只是思维实体，下一个问题便是：他们为何持这种反直觉的看法？Nadler 提出一个有趣的建议：KP 的宽范围适用，可能受到“把意志作用视为因果性的*典范*”这一看法的推动（Nadler 1999, 270）[^nadler-1999]。为何以意志作用为典范？按 Nadler，关键环节是神的因果活动，因为对相关偶因论者而言，这才是因果性的典范情形。若我们把上帝的因果活动看作根本上是有意的、意志性的，那么把意志作用也视为因果性的典范，确实只有一步之遥。
+    step2: |-
+      若赫林克斯与安萨里（甚至马勒布朗士）确实认为 KP 也适用于椅子和岩石，而不只是思维实体，下一个问题便是：他们为何持这种反直觉看法？Nadler 提出有趣的建议：KP 的宽范围适用，可能受“把意志作用视为因果性*典范*”这一看法推动（Nadler 1999, 270）[^nadler-1999]。关键环节是神的因果活动：对相关偶因论者而言，这才是因果性的典范；若把上帝的因果活动看作根本上有意而意志性的，那么把意志作用也视为典范便只有一步之遥。
+  - id: 62
+    kind: body
+    source: |-
+      That the occasionalist would take divine causality to be the paradigm case, of course, is no surprise, and this might indeed explain why Geulincx and Al-Ghazālī held the wide-scope view. For, if they further assumed that all cases of genuine causation resemble the paradigmatic case of causation in this way, then insofar as KP is a critical feature of divine causality, they would think that KP should be satisfied in all cases of creaturely causation. This last assumption, however, is not trivial. For one wonders whether creaturely causation ought to resemble divine causation in this respect. Consider the fact that not all the features of the paradigmatic divine substance are replicated in created substances. For instance, knowledge and intentionality are key divine features that are not present in bodily substances. But this absence does not prevent extended substances from being the substances they are. But if knowledge and intentionality are not necessary for substancehood, as is the case for bodies, we might wonder whether they are necessary for causal activity in bodies.
+    step1: |-
+      偶因论者以神的因果为典范情形，当然不足为奇；这或许确实解释了赫林克斯与安萨里为何持宽范围看法。因为，若他们进一步假定一切真正因果情形都在这一方面类似典范情形，那么，既然 KP 是神之因果的关键特征，他们就会认为 KP 应在一切受造因果中满足。但最后这一假定并不平凡。人们会问：受造因果是否应在这一方面类似神的因果？试想，典范的神性实体的一切特征并不都在受造实体中重现。例如，知识与意向性是神的关键特征，物体实体却并不具有；但这种缺失并不妨碍广延实体成为其所是的实体。若知识与意向性对实体性并非必要（如物体所示），人们便会问：它们对物体中的因果活动是否必要？
+    step2: |-
+      偶因论者以神的因果为典范，不足为奇；这或许确实解释了赫林克斯与安萨里为何持宽范围看法。若他们进一步假定一切真正因果情形都在这一方面类似典范，那么，既然 KP 是神之因果的关键特征，他们就会认为 KP 应在一切受造因果中满足。但这一假定并不平凡。典范的神性实体的一切特征并不都在受造实体中重现：知识与意向性是神的关键特征，物体却并不具有，而这种缺失并不妨碍广延实体成为其所是的实体。若知识与意向性对实体性并非必要（如物体所示），它们对物体中的因果活动是否必要？
+  - id: 63
+    kind: body
+    source: |-
+      The second question about KP concerns the plausibility of the principle itself. Even if we just consider the best case scenarios—that is, when its application is restricted to thinking substances—it is not obvious that KP is without problems. As mentioned earlier, on the assumption that volitional power is blind, the requirement that the intentional agent possess some degree of knowledge of the effect does not seem completely implausible in and of itself. The key issue, however, concerns the level of detail in the description of the intended outcome that is required for KP to be satisfied. For instance, returning to Malebranche’s example, when I intentionally will to raise my arm, I do seem to represent the outcome of my arm going up, insofar as the description of this outcome is left at a fairly general level. It is obvious, however, that I do not have knowledge of the outcome, if the description of the outcome is at the level of detail that Malebranche wants it to be, such that it would involve the movements of the minute components of my arm, such as the minute organic matter making up the muscle, nerves, bones, etc. So depending on the level of description, one might think that I do satisfy KP. For the NK argument to work, then, Malebranche has to restrict the description of outcomes in KP to the highest level of detail. And it is not clear that Malebranche can provide non-question begging reasons to support this restriction.
+    step1: |-
+      关于 KP 的第二个问题，是该原则本身的可信度。即便只考虑最佳情形——即限于思维实体——KP 是否有问题也非显然。如前所述，在意志力是盲的这一假定下，要求有意作用者对结果有某种程度的知识，本身似不完全不可信。然而关键问题在于：要满足 KP，对预期结果的描述须精细到何种程度。例如，回到马勒布朗士之例，当我故意要举起手臂，我似乎确实表象了手臂上举这一结果——只要该结果的描述停留在相当一般的层次。但我显然并不具有对该结果的知识——若按马勒布朗士所要求的精细程度描述结果，以致涉及我手臂微小组成部分的运动，如构成肌肉、神经、骨骼等的微小有机物质。因此，视描述层次而定，人们会认为我确实满足 KP。要 NK 论证成立，马勒布朗士便须把 KP 中对结果的描述限制到最精细层次；而他能否给出非窃题的理据支持这一限制，并不清楚。
+    step2: |-
+      关于 KP 的第二个问题，是该原则本身的可信度。即便只考虑最佳情形——限于思维实体——KP 是否有问题也非显然。在意志力是盲的这一假定下，要求有意作用者对结果有某种程度知识，本身似不完全不可信。关键却在：要满足 KP，对预期结果的描述须精细到何种程度。回到马勒布朗士之例：当我故意要举起手臂，我似乎确实表象了手臂上举这一结果——只要描述停留在相当一般的层次。但我显然不具有对该结果的知识——若按他所要求的精细程度描述，以致涉及手臂微小组成部分的运动，如构成肌肉、神经、骨骼的微小有机物质。视描述层次而定，人们会认为我确实满足 KP。要 NK 论证成立，他便须把描述限制到最精细层次；而他能否给出非窃题的理据支持这一限制，并不清楚。
+  - id: 64
+    kind: body
+    source: |-
+      ### 3.3 The “No Necessary Connection” (NNC) Argument
+    step1: |-
+      ### 3.3 “无必然联系”论证
+    step2: |-
+      ### 3.3 “无必然联系”论证
+  - id: 65
+    kind: body
+    source: |-
+      As noted earlier, the criticism of positing necessary connections[^note-20] between creaturely powers and their effects first emerges in the work of al-Ghazālī. In the “Seventeenth Discussion” of *The Incoherence of the Philosophers*, al-Ghazālī writes:
+    step1: |-
+      如前所述，对受造力量与其结果之间“必然联系”[^note-20] 的批评，最早出现在安萨里的著作中。在《哲学家的矛盾》第十七论中，他写道：
+    step2: |-
+      如前所述，对受造力量与其结果之间“必然联系”[^note-20] 的批评，最早出现在安萨里笔下。《哲学家的矛盾》第十七论中，他写道：
+  - id: 66
+    kind: body
+    source: |-
+      > The connection between what is habitually believed to be a cause and what is habitually believed to be an effect is not necessary, according to us. But [with] any two things, where “this” is not “that” and “that” is not “this,” and where neither the affirmation of the one entails the affirmation of the other nor the negation of the one entails the negation of the other, it is not a necessity of the existence of the one that the other should exist, and it is not a necessity of the nonexistence of the one that the other should not exist—for example, the quenching of thirst and drinking, satiety and eating, burning and contact with fire, light and the appearance of the sun, death and decapitation, healing and the drinking of medicine, the purging of the bowels and the using of a purgative, and so on to [include] all [that is] observable among connected things in medicine, astronomy, arts, and crafts. Their connection is due to the prior decree of God, who creates them side by side, not to its being necessary in itself, incapable of separation. On the contrary, it is within [divine] power to create satiety without eating, to create death without decapitation, to continue life after decapitation, and so on to all connected things. The philosophers denied the possibility of [this] and claimed it to be impossible. (*TF* 170)
+    step1: |-
+      > 按我们的看法，习惯上被认为的原因与习惯上被认为的结果之间的联系并非必然。就拿任意两件事来说，若“此”不是“彼”，“彼”不是“此”，若肯定其一并不蕴含肯定另一、否定其一也不蕴含否定另一，那么，其一的存在并不必然要求另一存在，其一的不存在也不必然要求另一不存在——例如解渴与饮水、饱足与进食、燃烧与接触火、光与日出、死亡与斩首、痊愈与服药、肠道清空与服用泻药，如此等等，[包括]医学、天文学、技艺与工艺中一切可观察到的相关事物。它们的联系出于上帝先前的裁定，上帝把它们并置而造，而非其自身必然、不可分离。相反，[神之]力量足以不进食而造饱足、不斩首而造死亡、斩首之后延续生命，如此等等，遍及一切相关事物。哲学家们否认[此]可能，声称其为不可能。（*TF* 170）
+    step2: |-
+      > 按我们的看法，习惯上被认为的原因与习惯上被认为的结果之间的联系并非必然。就拿任意两件事来说，若“此”不是“彼”、“彼”不是“此”，若肯定其一并不蕴含肯定另一，否定其一也不蕴含否定另一，那么其一的存在并不必然要求另一存在，其一的不存在也不必然要求另一不存在——例如解渴与饮水、饱足与进食、燃烧与接触火、光与日出、死亡与斩首、痊愈与服药、肠道清空与服用泻药，如此等等，[包括]医学、天文学、技艺与工艺中一切可观察的相关事物。它们的联系出于上帝先前的裁定，上帝把它们并置而造，而非出于其自身必然、不可分离。相反，[神之]力量足以不进食而造饱足、不斩首而造死亡、斩首之后延续生命，如此等等，遍及一切相关事物。哲学家们否认[此]可能，声称其为不可能。（*TF* 170）
+  - id: 67
+    kind: body
+    source: |-
+      Al-Ghazālī’s target is the “Aristotelian philosopher”, exemplified by Avicenna, who affirms strict causal necessitation relations between creaturely causes and their effects. A central motivation behind this criticism is to secure the possibility of miracles reported in the Qur’ân and the prophetic traditions that were considered impossible by these philosophers oriented towards “Aristotelianism” (*TF* 166; cf. Marmura 2005, 146)[^marmura-2005].
+    step1: |-
+      安萨里的靶子是“亚里士多德派哲学家”，以阿维森纳为代表；后者肯定受造原因与其结果之间有严格的因果必然化关系。这一批评的中心动机，是为《古兰经》与先知传统所载的奇迹确保可能——而取向“亚里士多德主义”的哲学家认为奇迹不可能（*TF* 166；参 Marmura 2005, 146）[^marmura-2005]。
+    step2: |-
+      安萨里的靶子是“亚里士多德派哲学家”，以阿维森纳为代表；后者肯定受造原因与其结果之间有严格因果必然化关系。这一批评的中心动机，是为《古兰经》与先知传统所载奇迹确保可能——而取向“亚里士多德主义”的哲学家认为奇迹不可能（*TF* 166；参 Marmura 2005, 146）[^marmura-2005]。
+  - id: 68
+    kind: body
+    source: |-
+      According to al-Ghazālī, the proper understanding of divine omnipotence dictates that no limitation on divine power is justified, unless the state of affairs impermeable to divine power is one that is logically inconsistent. In other words, it is within divine power to bring about any state of affairs except for those that are logically inconsistent—for instance, where I both exist and not exist:
+    step1: |-
+      按安萨里，正确理解神之全能，便意味着除非某种事态在逻辑上自相矛盾，否则对神之力量的限制都不正当。换言之，神之力量足以造成任何事态，除了逻辑矛盾者——例如我既存在又不存在：
+    step2: |-
+      按安萨里，正确理解神之全能便意味着：除非某种事态在逻辑上自相矛盾，对神之力量的限制都不正当。神之力量足以造成任何事态，除了逻辑矛盾者——例如我既存在又不存在：
+  - id: 69
+    kind: body
+    source: |-
+      > The impossible is not within the power [of being enacted]. The impossible consists in affirming a thing conjointly with denying it, affirming the more specific while denying the more general, or affirming two things while negating one [of them]. What does not reduce to this is not impossible, and what is not impossible is within [divine] power. (*TF* 179)
+    step1: |-
+      > 不可能者不在[被施行的]力量之内。不可能者在于：肯定一物同时否定它，肯定较特殊者而否定较一般者，或肯定两物而否定[其中]之一。不归于此类者并非不可能；并非不可能者便在[神之]力量之内。（*TF* 179）
+    step2: |-
+      > 不可能者不在[被施行的]力量之内。不可能者在于：肯定一物同时否定它，肯定较特殊者而否定较一般者，或肯定两物而否定[其中]之一。不归于此类者并非不可能；并非不可能者便在[神之]力量之内。（*TF* 179）
+  - id: 70
+    kind: body
+    source: |-
+      Given the examples in *TF* 170, we see that al-Ghazālī does not take the state of affairs in which, say, a live fire does not burn a dry piece of cotton to be impossible. For, according to al-Ghazālī, there is no logical entailment relation between the cotton coming into contact with the fire and its burning. Hence, it is logically consistent to suppose that cotton not burn when it comes into contact with fire.
+    step1: |-
+      由 *TF* 170 诸例可见，安萨里并不把“烈火不烧干棉花”这类事态视为不可能。因为按他，棉花接触火与棉花燃烧之间并无逻辑蕴含关系。于是，设想棉花接触火而不燃烧，在逻辑上是融贯的。
+    step2: |-
+      由 *TF* 170 诸例可见，安萨里并不把“烈火不烧干棉花”视为不可能：棉花接触火与燃烧之间并无逻辑蕴含关系，故设想棉花接触火而不燃烧，在逻辑上融贯。
+  - id: 71
+    kind: body
+    source: |-
+      The interesting question is how the Aristotelian philosopher would respond to this claim. Why couldn’t Avicenna simply deny that this state of affairs is possible in that the suggestion of fire not burning cotton indeed is logically inconsistent, given their respective natures or essences? In other words, why couldn’t the Aristotelian philosopher contest the non-entailment claim and argue that the essences of fire and cotton along with the event of their coming into contact do entail the event of the cotton burning?
+    step1: |-
+      有趣的问题是：亚里士多德派哲学家会如何回应？阿维森纳为何不能径直否认该事态可能，理由是：鉴于火与棉花的各自本性与本质，“火不烧棉”之说确实逻辑上自相矛盾？换言之，他为何不能质疑“不蕴含”的主张，论证火与棉花的本质连同二者接触的事件确实蕴含棉花燃烧的事件？
+    step2: |-
+      有趣的问题是：亚里士多德派哲学家会如何回应？阿维森纳为何不能径直否认该事态可能，理由是：鉴于火与棉花的本质，“火不烧棉”确实逻辑上自相矛盾？换言之，他为何不能质疑“不蕴含”之说，论证火与棉花的本质连同二者接触确实蕴含棉花燃烧？
+  - id: 72
+    kind: body
+    source: |-
+      As we can see in the long quote from *TF* 170 and other passages in *The Incoherence* (e.g. *TF* 1), the operative conception of entailment for al-Ghazālī appears to that of “conceptual” entailment, where the concepts of “fire” and “cotton” are rather sparse in terms of content. Whatever content is contained in these concepts, they are still sparse enough to not entail such facts as “the burning of appropriately dry cotton that comes into contact with fire.” In other words, the causal powers typically identified as being part of the essences of created substances, something the Aristotelian philosophers would have found very hard to resist, are not built into the concepts, as it were, for al-Ghazālī.
+    step1: |-
+      从 *TF* 170 的长引文及《矛盾》其他段落（如 *TF* 1）可见，安萨里所用的蕴含概念似乎是“概念的”蕴含，而“火”与“棉花”的概念在内容上相当稀薄。这些概念无论含有什么内容，都稀薄到不足以蕴含“适当干燥的棉花接触火即燃烧”这类事实。换言之，通常被认为属于受造物本质一部分的因果力——亚里士多德派哲学家极难否认这点——在安萨里看来，可以说并未内建于概念之中。
+    step2: |-
+      从 *TF* 170 的长引文及《矛盾》其他段落（如 *TF* 1）可见，安萨里所用的蕴含概念似是“概念的”蕴含，而“火”与“棉花”的概念在内容上相当稀薄。无论含有何种内容，都稀薄到不足以蕴含“适当干燥的棉花接触火即燃烧”。换言之，通常被认为属于受造物本质的因果力——亚里士多德派哲学家极难否认这点——在他看来可以说并未内建于概念之中。
+  - id: 73
+    kind: body
+    source: |-
+      In this case, the main issue of contention between al-Ghazālī and the *falâsifa* would concern how rich the contents of the concepts of creatures are. What al-Ghazālī needs is a rather thin notion of what a concept or essence of a creature is, while the Aristotelian philosopher would obviously argue for a richer understanding of the contents of these concepts, one that would include various causal powers as their essences. A key intuition driving al-Ghazālī’s view seems to be that if one takes the concepts of creatures to be rich in this way, then there is no logical space for the miraculous intervention on the part of God. For on the Aristotelian scheme, divine intervention such as God’s keeping the cotton from burning would imply that either God has to change the cotton into something else at the time of intervention,[^note-21] or that God has to done something that is logically inconsistent, or impossible.
+    step1: |-
+      这样一来，安萨里与*法拉西法*争执的主要问题，便在于受造物概念的内容有多丰富。安萨里需要的，是关于受造物概念或本质的相当稀薄的概念；亚里士多德派哲学家则显然主张对这些概念内容作更丰富理解，把种种因果力纳入其本质。推动安萨里观点的关键直觉似乎是：若如此丰富地理解受造物概念，则神迹干预便无逻辑空间。因为在亚里士多德式方案中，上帝使棉花不燃烧这样的干预，将意味着要么上帝在干预时把棉花变成了别的东西，[^note-21] 要么上帝做了逻辑矛盾或不可能的事。
+    step2: |-
+      这样一来，安萨里与*法拉西法*争执的主要问题，便在于受造物概念的内容有多丰富。安萨里需要相当稀薄的概念；亚里士多德派哲学家则主张更丰富的理解，把种种因果力纳入本质。推动安萨里的关键直觉似乎是：若如此丰富地理解受造物概念，神迹干预便无逻辑空间。因为在亚里士多德式方案中，上帝使棉花不燃烧这样的干预，将意味着上帝要么在干预时把棉花变成别的东西，[^note-21] 要么做了逻辑矛盾或不可能的事。
+  - id: 74
+    kind: body
+    source: |-
+      Neither option seems palatable to al-Ghazālī, and his innovative proposal is to distinguish between logical connections and causal connections. On al-Ghazālī’s scheme, the logically necessary constitute a much narrower set of connections than those that are causally necessary (Dutton 2001, 24–5; Schmaltz 2008b, 299–301)[^dutton-2001][^schmaltz-2008b]. This setup allows him to claim that when God intervenes to stop a piece of dry cotton from burning, which obviously diverges from the natural course of events, God need not change the cotton fibers into some material that is fire-resistant, nor is he doing something that is logically impossible. Rather, God is bringing about a state of affairs that is perfectly consistent, hence, possible, but one that is an exception, when compared to the normal type of causal connections we come to expect between fire and cotton.
+    step1: |-
+      两个选项在安萨里看来都不可取。他的创新提议是区分逻辑联系与因果联系：按其方案，逻辑上必然的联系构成的集合，远比因果上必然的联系狭窄（Dutton 2001, 24–5; Schmaltz 2008b, 299–301）[^dutton-2001][^schmaltz-2008b]。这一设置使他得以主张：当上帝干预阻止干棉花燃烧——显然偏离自然事件进程——上帝无须把棉纤维变成某种耐火材料，也没有做逻辑上不可能之事；毋宁说，上帝造成了完全融贯、因而可能的事态，只是与我们通常预期的火与棉花之间常规因果联系相比，属于例外。
+    step2: |-
+      两个选项在安萨里看来都不可取。他的创新提议是区分逻辑联系与因果联系：按其方案，逻辑必然的诸联系所成集合，远窄于因果必然的诸联系（Dutton 2001, 24–5; Schmaltz 2008b, 299–301）[^dutton-2001][^schmaltz-2008b]。这使他得以主张：当上帝干预阻止干棉花燃烧——显然偏离自然进程——上帝无须把棉纤维变成耐火材料，也没有做逻辑上不可能之事；毋宁说，上帝造成了完全融贯、因而可能的事态，只是与火和棉花之间的常规因果联系相比属于例外。
+  - id: 75
+    kind: body
+    source: |-
+      But what then grounds these normal types of causal connections we typically anticipate? If they are not grounded in the natures or essences of things, what is their source? As we saw in the long quote from *TF* 170, al-Ghazālī not surprisingly holds that “[t]heir connection is due to the prior decree of God, who creates them side by side, not to its being necessary in itself, incapable of separation.” In other words, the law-like relations that we typically think to hold between creaturely natures are actually grounded in divine decrees.
+    step1: |-
+      但这些通常预期的常规因果联系，又以什么为根据？若其根据不在事物的本性或本质，其来源是什么？如 *TF* 170 长引文所示，安萨里如人所料地主张：“它们的联系出于上帝先前的裁定，上帝把它们并置而造，而非出于其自身必然、不可分离。”换言之，我们通常以为受造本性之间存在的类律关系，其根据其实在神的裁定。
+    step2: |-
+      但这些常规因果联系以什么为根据？若不在事物的本性或本质，其来源是什么？如 *TF* 170 长引文所示，安萨里主张：“它们的联系出于上帝先前的裁定，上帝把它们并置而造，而非出于其自身必然、不可分离。”换言之，我们通常以为受造本性之间的类律关系，根据其实在神的裁定。
+  - id: 76
+    kind: body
+    source: |-
+      The question of whether al-Ghazālī himself is committed to occasionalism depends on whether al-Ghazālī regards this claim that the “connection [between creatures] is due to the prior decree of God” to be incompatible with there being real secondary causation—that is, genuine creaturely causation. As noted earlier, interpreters disagree on this issue. Some, such as Marmura, argue that al-Ghazālī did find the two claims to be inconsistent, and rejects the latter claim that there are real secondary causes. Marmura grants that the texts in the *Incoherence* are insufficient to support this claim, but argues that other texts well establish al-Ghazālī’s commitment to occasionalism (Marmura 2005, 145–52)[^marmura-2005]. Other interpreters, such as Griffel in addition to Perler and Rudolph, have argued that al-Ghazālī leaves open the possibility that God’s causal activity is consistent with some form of genuine secondary causality, on the condition that the secondary causation in question is not of the type espoused by the *falâsifa* (Griffel 2007; Perler & Rudolph 2000, 75–77)[^griffel-2007][^perler-2000].
+    step1: |-
+      安萨里本人是否信守偶因论，取决于他是否认为“［受造物之间的］联系出于上帝先前的裁定”与真正次级因果——即真正的受造因果——的存在不相容。如前所述，解读者在此有分歧。Marmura 等人主张，安萨里确认为两主张不相容，并拒斥“存在真正次级原因”；他承认《矛盾》文本不足以支持此说，但论证其他文本充分确立安萨里对偶因论的承诺（Marmura 2005, 145–52）[^marmura-2005]。Griffel、Perler 与 Rudolph 等其他解读者则主张，安萨里为“神的因果活动与某种真正次级因果相容”留有余地，条件是所涉次级因果不是*法拉西法*所主张的类型（Griffel 2007; Perler & Rudolph 2000, 75–77）[^griffel-2007][^perler-2000]。
+    step2: |-
+      安萨里本人是否信守偶因论，取决于他是否认为“［受造物之间的］联系出于上帝先前的裁定”与真正次级因果不相容。解读者在此有分歧：Marmura 等人主张安萨里确认为两者不相容，并拒斥真正次级原因；他承认《矛盾》文本不足以支持此说，但论证其他文本充分确立其对偶因论的承诺（Marmura 2005, 145–52）[^marmura-2005]。Griffel、Perler 与 Rudolph 等则主张，安萨里为“神的因果活动与某种真正次级因果相容”留有余地，条件是所涉次级因果不属*法拉西法*所主张的类型（Griffel 2007; Perler & Rudolph 2000, 75–77）[^griffel-2007][^perler-2000]。
+  - id: 77
+    kind: body
+    source: |-
+      We end our discussion of al-Ghazālī on necessary connections with the following observation: if al-Ghazālī does consider genuine secondary causation to be consistent with divine causal activity, he would have to concede that there are distinct types of causation. For al-Ghazālī would have granted that the causal connection between the decree of God and its effect is substantially different from the causal connection between a creaturely cause and its effect. The former type of connection would be the strongest of all possible causal connections, since divine omnipotence would require that for all events that are logically possible, should God decree their occurrence, they would come about with causal necessity. In contrast, creaturely causes obviously lack this omnipotent power, such that whatever causal connection they have to their effects, it cannot be, in principle, as strong as that of divine decree. So this suggests that the strength of the causal connection would differ substantially between divine causation and secondary causation, and this difference might lead one to wonder these two types of causation can be brought under a single, univocal notion of causation.
+    step1: |-
+      关于安萨里论必然联系的讨论，以如下观察作结：若安萨里确认为真正次级因果与神的因果活动相容，他就须承认有不同类型的因果。因为他会承认：上帝的裁定与其结果之间的因果联系，与受造原因与其结果之间的因果联系，实质不同。前一类联系是一切可能因果联系中最强者，因为神之全能要求：凡逻辑上可能的事件，只要上帝裁定其发生，便以因果必然性发生。相反，受造原因显然缺乏这种全能力量，因此它们与其结果的因果联系，原则上不可能如神的裁定那样强。于是，神的因果与次级因果之间，因果联系的强度会大不相同；这一差异或使人怀疑：这两类因果能否被纳入单一而单义的因果概念。
+    step2: |-
+      关于安萨里论必然联系的讨论，以如下观察作结。若他确认为真正次级因果与神之因果活动相容，就须承认有不同类型的因果：上帝裁定与其结果之间的因果联系，同受造原因与其结果间的因果联系，实质不同。前一类是一切可能因果联系中最强者，因为神之全能要求：凡逻辑上可能的事件，只要上帝裁定其发生，便以因果必然性发生。受造原因显然缺乏这种全能力量，故其因果联系原则上不可能如神的裁定那样强。于是，两类因果的强度大不相同；这一差异或使人怀疑它们能否被纳入单一而单义的因果概念。
+  - id: 78
+    kind: body
+    source: |-
+      In the work of Nicolas Malebranche, to whom we now turn, we are presented with an explicit argument denying secondary causation on the grounds that (1) something is a true cause if and only if there is a necessary connection between it and its effect and (2) there are necessary connections only between the will of God and its effects. Consider the following passage from the *Search*:
+    step1: |-
+      下面转到尼古拉·马勒布朗士：他的论证明确否认次级因果，理由是（1）某物是真正的原因，当且仅当它与结果之间存在必然联系；（2）必然联系只存在于上帝的意志与其结果之间。请看《寻求》中如下段落：
+    step2: |-
+      下面转到尼古拉·马勒布朗士：他明确否认次级因果，理由是（1）某物是真正的原因，当且仅当它与结果之间存在必然联系；（2）必然联系只存在于上帝的意志与其结果之间。《寻求》中如下段落：
+  - id: 79
+    kind: body
+    source: |-
+      > A true cause as I understand it is one such that the mind perceives a necessary connection between it and its effect. Now the mind perceives a necessary connection only between the will of an infinitely perfect being and its effects. Therefore, it is only God who is the true cause and who truly has the power to move bodies. (*OCM* II 316/*Search* 450)
+    step1: |-
+      > 我所理解的真正原因，是心灵能知觉到它与结果之间有必然联系者。而心灵只在无限完美存在者的意志与其结果之间知觉到必然联系。因此，只有上帝才是真正的原因，才真正具有推动物体的力量。（*OCM* II 316/*Search* 450）
+    step2: |-
+      > 我所理解的真正原因，是心灵能知觉到它与结果之间有必然联系者。而心灵只在无限完美存在者的意志与其结果之间知觉到必然联系。因此，只有上帝才是真正的原因，才真正具有推动物体的力量。（*OCM* II 316/*Search* 450）
+  - id: 80
+    kind: body
+    source: |-
+      Though the argument clearly is couched in terms of *perceiving* necessary connections, the overall context makes it clear the central point is more metaphysical in nature. Malebranche’s key point here is that there are no causally necessary connections between alleged creaturely causes and their effects, since creaturely causes cannot but fall short of the criterion of genuine causation, that is, necessary efficaciousness.[^note-22]
+    step1: |-
+      尽管该论证显然以*知觉到*必然联系为表述，整体语境却清楚表明其要点更偏形而上学。马勒布朗士的关键论点是：所谓受造原因与其结果之间不存在因果必然联系，因为受造原因必然达不到真正因果的标准，即必然的效力。[^note-22]
+    step2: |-
+      该论证虽以*知觉到*必然联系为表述，整体语境却清楚表明其要点更偏形而上学。其要点是：所谓受造原因与其结果之间不存在因果必然联系，因为受造原因必然达不到真正因果的标准，即必然的效力。[^note-22]
+  - id: 81
+    kind: body
+    source: |-
+      Why is it that creaturely causes cannot but fall short in this way? According to Malebranche, this is due to the fact that God could always will some event contrary to what the creature allegedly brings about. For instance, Malebranche invites us to consider the case of demons, where God wills to bring about a state of affairs contrary to what demons will:
+    step1: |-
+      受造原因何以必然如此不逮？按马勒布朗士，这是因为上帝总能意欲某个与受造物所谓造成者相反的事件。例如，他请我们设想魔鬼之例：上帝意欲造成与魔鬼意愿相反的事态：
+    step2: |-
+      受造原因何以必然如此不逮？按马勒布朗士，因为上帝总能意欲某个与受造物所谓造成者相反的事件。他请我们设想魔鬼之例：上帝意欲造成与魔鬼意愿相反的事态——
+  - id: 82
+    kind: body
+    source: |-
+      > … [L]et us suppose that God wills to produce the opposite of what some minds will, as might be thought in the case of demons … that deserve this punishment. One could not say in this case that God would communicate His power to them, since they could do nothing they willed to do. (*OCM* II 316/*Search* 450)
+    step1: |-
+      > ……［让］我们设想上帝意欲产生与某些心灵的意愿相反者，如可设想于应受此罚的魔鬼……在这一情形中，不能说上帝会把其力量传达给它们，因为它们所愿者一件也做不成。（*OCM* II 316/*Search* 450）
+    step2: |-
+      > ……［让］我们设想上帝意欲产生与某些心灵意愿相反者，如可设想于应受此罚的魔鬼……此时不能说上帝把力量传达给它们，因为它们所愿者一件也做不成。（*OCM* II 316/*Search* 450）
+  - id: 83
+    kind: body
+    source: |-
+      Similar to what we had seen in al-Ghazālī, Malebranche’s core intuition appears to be that it is plainly possible for a creature to fail to bring about some effect that is typically thought to be within the purview of its causal powers. To deny such a possibility would entail a problematic restriction on divine omnipotence, or so Malebranche appears to be thinking. This is not to say that Malebranche is willing to expand divine omnipotence limitlessly, such that divine volition would have power over logical truths, for instance. In contrast to Descartes, Malebranche was against the doctrine of the creation of eternal truths. Certain truths for Malebranche hold of logical necessity: those truths whose denials are contradictory are independent of and insulated from divine volitional intervention. In this respect, he is in agreement with al-Ghazālī. For both philosophers, divine power extends to all and only that which is possible, that is, logically consistent.
+    step1: |-
+      与我们在安萨里那里所见相似，马勒布朗士的核心直觉似乎是：受造物显然可能做不成某个通常被认为在其因果力范围内的事。否认这种可能，将给神之全能加上成问题的限制——马勒布朗士似如此想。这并不是说马勒布朗士愿无限扩张神之全能，以致神的意志对逻辑真理也有力量。与笛卡尔相反，他反对永恒真理被造说。对马勒布朗士而言，某些真理具有逻辑必然性：凡其否定自相矛盾者，独立于并不受神之意志干预的影响。就此而言，他与安萨里一致：两位哲学家都认为，神之力量及于且仅及于可能者，即逻辑融贯者。
+    step2: |-
+      与安萨里那里所见相似，马勒布朗士的核心直觉似乎是：受造物显然可能做不成某个通常被认为在其因果力范围内的事。否认这种可能，将给神之全能加上成问题的限制。这并不是说他愿无限扩张神之全能，以致神的意志对逻辑真理也有力量：与笛卡尔相反，他反对永恒真理被造说。某些真理对他具有逻辑必然性——凡其否定自相矛盾者，独立于且不受神之意志干预。就此而言他与安萨里一致：神之力量及于且仅及于可能者，即逻辑融贯者。
+  - id: 84
+    kind: body
+    source: |-
+      Once again, the interesting question is how one should think of the natures of things, and whether the natures of things are rich enough to have various conceptual entailments that are logically binding. An Aristotelian realist about secondary causes would likely hold that the natures of creatures are robustly rich such that the effects that even an omnipotent God can bring about are restricted to the possibilities allowed by these creaturely natures. Malebranche is denying this view of creaturely natures, in that the options for God, as it were, are much more diverse, and we wonder on what grounds Malebranche can argue for this view. In the case of extended substances or bodies, a reason that is independent of theological motivations might be available to Malebranche in the following way: armed with a Cartesian understanding of extended substances, Malebranche could say that given the sparse essence of bodies, consisting of merely size, shape, and motion, there are no conceptual entailments that follow from a concept of a given body that are rich enough to support the typical causal connections Aristotelians would like to affirm. That is, proper consideration of what bodily substances are, Malebranche could argue, clearly reveal that there are no such entailments. And, perhaps, an analogous case can be made for thinking substances, to the effect that that a thinking substance essentially has thoughts does not lead to any obvious conceptual connections that would dovetail nicely with the causal powers traditionally identified as belonging to the mind. That is, the mere having of certain thoughts, which is the essence of the mind, carries no implications as to what other thoughts one must have subsequently or what other states of mind one must be in.
+    step1: |-
+      有趣的问题再次是：应如何理解事物本性，以及事物本性是否丰富到具有种种在逻辑上有约束力的概念蕴含。关于次级因果的亚里士多德实在论者，多半会认为受造物本性丰富到如此程度：即便全能上帝所能造成的结果，也限于这些受造本性所允许的可能。马勒布朗士否认这种受造本性观：可以说，上帝可选项要多样得多；我们不禁要问，他凭什么论证此说？就广延实体或物体而言，马勒布朗士或可给出一个独立于神学动机的理由：以其笛卡尔式广延实体理解为武装，他可以说，物体本质稀薄，仅由大小、形状与运动构成，故从某一物体的概念中推不出丰富到足以支持亚里士多德派所愿肯定的常规因果联系的概念蕴含。也就是说，只要正确考虑物体实体是什么，就能清楚看出并无此类蕴含。或许对思维实体也可作类似论证：思维实体的本质是拥有思想，这并不导出任何与通常归于心灵的因果力恰相吻合的明显概念联系。也就是说，拥有某些思想——心灵的本质——并不蕴含此后必须拥有哪些别的思想，或必须处于哪些别的心理状态。
+    step2: |-
+      有趣的问题再次是：应如何理解事物本性，以及它是否丰富到具有种种在逻辑上有约束力的概念蕴含。关于次级因果的亚里士多德实在论者，多半会认为受造本性丰富到如此程度：即便全能上帝所能造成的结果，也限于这些受造本性所允许的可能。马勒布朗士否认这种受造本性观：上帝的可选项要多样得多；问题是他凭什么论证此说。就广延实体即物体而言，他或可给出独立于神学动机的理由。以其笛卡尔式广延实体理解为武装，他可以说，物体本质稀薄，仅由大小、形状与运动构成。故从某一物体的概念中推不出丰富到足以支持亚里士多德派所愿肯定的常规因果联系的概念蕴含。只要正确考虑物体实体是什么，就能看出并无此类蕴含。对思维实体或可作类似论证。其本质是拥有思想，这并不导出任何与通常归于心灵因果力相吻合的明显概念联系。拥有某些思想并不蕴含此后必须拥有哪些别的思想，或必须处于哪些别的心理状态。
+  - id: 85
+    kind: body
+    source: |-
+      Not surprisingly, Malebranche also has some theologically motivated reasons for rejecting such rich conceptions of natures as well. He appears to find the idea that divine efficient causality is bound by natures of creatures to be rather problematic: “when one thinks about the idea of God, i.e., of an infinitely perfect and consequently all-powerful being, one knows that there is such a connection between His will and the motion of all bodies, that it is impossible to conceive that He wills a body to be moved and that this body not be moved” (*OCM* II 313/*Search* 448). In other words, were there a conceptually necessary connection between body A moving body B in a particular way, then even if God were to will body B to move in a different manner, given the assumed conceptually necessary connection that holds between body A and body B, God’s volition would fail. But this is impossible, Malebranche is arguing, given the proper understanding of divine omnipotence. So, for Malebranche, the proper understanding of divine omnipotence dictates the absence of conceptual entailments that determine specific movements.
+    step1: |-
+      毫不奇怪，马勒布朗士也有若干神学动机的理由拒斥这种丰富的本性观。他似乎觉得“神的动力因果受受造物本性约束”这一想法颇成问题：“当人思考上帝的观念，即无限完美因而全能的存在者的观念，就知道他的意志与一切物体的运动之间有这样一种联系：设想他意欲一物体运动而该物体不运动，是不可能的”（*OCM* II 313/*Search* 448）。换言之，若物体 A 以特定方式推动物体 B 之间存在概念上必然的联系，那么即便上帝意欲物体 B 以别的方式运动，鉴于 A 与 B 之间被假定的概念必然联系，上帝的意志也会失败。马勒布朗士论证，按对神之全能的正确理解，这不可能。于是对他而言，正确理解神之全能，就意味着不存在决定特定运动的概念蕴含。
+    step2: |-
+      毫不奇怪，马勒布朗士也有若干神学动机的理由拒斥这种丰富的本性观。他似乎觉得“神的动力因果受受造物本性约束”颇成问题：“当人思考上帝的观念，即无限完美因而全能的存在者的观念，就知道他的意志与一切物体的运动之间有这样一种联系：设想他意欲一物体运动而该物体不运动，是不可能的”（*OCM* II 313/*Search* 448）。换言之，若 A 以特定方式推动 B 之间存在概念必然联系，那么即便上帝意欲 B 以别的方式运动，鉴于这一联系，上帝的意志也会失败；按对神之全能的正确理解，这不可能。于是对他而言，正确理解全能就意味着不存在决定特定运动的概念蕴含。
+  - id: 86
+    kind: body
+    source: |-
+      Interestingly enough, from this claim concerning the necessary efficaciousness of divine volition, Malebranche immediately infers “[w]e must therefore say that only His will can move bodies if we wish to state things as we conceive them and not as we sense them” (*OCM* II 313/*Search* 448). This is a problematic move, as we have already seen in our discussion of al-Ghazālī. For to accept that divine power is unique in its necessary efficaciousness need not itself imply that God is the only cause. Many a theist would grant that creaturely causes lack necessary efficaciousness on the very grounds that Malebranche had presented, but still argue that this does not mean that they lack causal powers. Divine concurrentists, for instance, typically argue that all secondary causation requires divine concurrence, such that the creature’s powers in themselves are never sufficient to bring about an effect, and that God’s power is such that he could always override the causal contribution of the creature and bring about a contrary effect. Despite such concessions, divine concurrentists nonetheless affirm the causal activity of the creature in producing the effect when the effect is concurrently produced. What Malebranche needs to establish, then, is the claim that causation just is necessary efficaciousness, and the pressing question for Malebranche is how he can defend this claim.
+    step1: |-
+      有趣的是，从“神之意志具有必然效力”这一主张，马勒布朗士立即推出：“因此我们必须说，若我们要按所设想而非所感觉的方式陈述事物，只有他的意志能推动物体”（*OCM* II 313/*Search* 448）。这一步有问题，如我们论安萨里时已见。因为承认神之力量在必然效力上独一无二，本身不必蕴含上帝是唯一原因。许多有神论者会以马勒布朗士所提的同样理由承认受造原因缺乏必然效力，却仍主张这并不意味着它们缺乏因果力。例如神性并作论者通常主张：一切次级因果都需要神的并作，受造物自身的力量从不足以造成结果，而神之力量总能压倒受造物的因果贡献、造成相反结果。尽管如此让步，并作论者仍肯定：结果被共同造成时，受造物在产生该结果中有因果活动。马勒布朗士因此需要确立的，是“因果就是必然效力”这一主张；他面临的关键问题是：如何为之辩护？
+    step2: |-
+      有趣的是，从“神之意志具有必然效力”这一主张，马勒布朗士立即推出：“因此，若我们要按所设想而非所感觉的方式陈述事物，就必须说只有他的意志能推动物体”（*OCM* II 313/*Search* 448）。这一步有问题，如论安萨里时已见：承认神之力量在必然效力上独一无二，本身不必蕴含上帝是唯一原因。许多有神论者会以同样理由承认受造原因缺乏必然效力，却仍主张这并不意味着它们缺乏因果力。神性并作论者通常主张：一切次级因果都需要神的并作，受造物自身的力量从不足以造成结果，而神之力量总能压倒受造物的贡献、造成相反结果；尽管如此让步，他们仍肯定结果被共同造成时受造物有因果活动。马勒布朗士因此需要确立的是“因果就是必然效力”这一主张，而他面临的关键问题是：如何为之辩护？
+  - id: 87
+    kind: body
+    source: |-
+      In the *Search* at least, Malebranche seems to be thinking that the divine intervention cases provide us with a reason to think that it is God who does all the causal work. For when God intervenes to bring about an effect contrary to what the demon wills, it is clear that God is the unique cause of the event. So parity of reasoning suggests, or so Malebranche seems to be thinking, that in the normal case in which I will my arm to go up and it does go up, it is also God who alone brings about my arm going up. But this argument is far from convincing, since it does not follow from the fact that my power can be overridden in certain circumstances, that I am powerless *simpliciter*. We still need to consider cases when my power is not overridden, and it seems clear that the fact that I successfully pushed the door shut when my five year old son pulled to open it does not entail that when my son is successful in opening the door with my help, my son is causally ineffective.
+    step1: |-
+      至少在《寻求》中，马勒布朗士似乎认为神迹干预的情形给了我们理由，认为一切因果作用都由上帝完成。因为当上帝干预以造成与魔鬼意愿相反的结果时，显然上帝是该事件的唯一原因。于是，类比推理提示——马勒布朗士似如此想——在“我意欲手臂上举而手臂上举”的常规情形中，也是上帝独自造成我手臂上举。但这一论证远不令人信服：从“我的力量在某些情形下可被压倒”推不出“我全然无力”。我们仍须考虑我的力量未被压倒的情形；显然，我五岁的儿子拉门想开、而我成功把门推上，这并不蕴含：当儿子在我的帮助下成功开门时，他毫无因果效力。
+    step2: |-
+      至少在《寻求》中，马勒布朗士似乎认为神迹干预给了我们理由，认为一切因果作用都由上帝完成。当上帝干预以造成与魔鬼意愿相反的结果时，显然上帝是该事件的唯一原因。于是类比推理提示，在“我意欲手臂上举而手臂上举”的常规情形中，也是上帝独自造成手臂上举。但这一论证远不令人信服：从“我的力量在某些情形下可被压倒”推不出“我全然无力”。我们仍须考虑力量未被压倒的情形；显然，我五岁的儿子拉门想开、而我成功把门推上，这并不蕴含：当儿子在我的帮助下成功开门时，他毫无因果效力。
+  - id: 88
+    kind: body
+    source: |-
+      In fairness to Malebranche, we might point out that, in identifying necessary connections with genuine causality, Malebranche is presenting an attractive reductive analysis of causation, one that we, benefitting from the exposure to David Hume’s work, are already familiar with. In fact, it does not seem far-fetched to say that it is in part due to Hume that we are accustomed to such a clear-cut understanding of causation as necessary connection. But note that the intellectual climate of Malebranche’s time period was rather different: philosophers were trying to come to grips with the complicated task of understanding the nature of causality given the new scientific developments of the sixteenth and seventeenth centuries. Moreover, this endeavor took place against the backdrop of the traditional approaches to causation, involving the confusing myriad of the four Aristotelian causes. Compared to the Aristotelian conception, Malebranche’s conception of causation is remarkably simple and unified, and does not face the question of how such diverse and distinct types of Aristotelian causes can come under a single conception of causation. Furthermore, there is some evidence that Malebranche might have responded to our challenge to produce a better argument for this conception of causation as necessary connections by noting how difficult it is to imagine what causation would be if not necessary connections, in much the same way that Hume did. That is, given his statement in the *Search* that “[a] true cause *as I understand it* [*c’est ainsi que je l’etends*] is one such that the mind perceives a necessary connection between it and its effect” (*Search* 450, my emphasis), Malebranche might have had something close to the Humean idea in mind*—*though not developed as clearly and emphatically as in Hume*—*that we have no conception of what a causal connection would be, if it is not a necessary connection. If so, this intuition could have provided a rationale for the claim that an event is a true cause if and only if there is a necessary connection between it and its effect. But given how controversial such a claim is within the context of considering divine causation in nature, one wonders whether this central claim identifying necessary connection with causation could have been further motivated.[^note-23]
+    step1: |-
+      为马勒布朗士辩护一句，我们可指出：把必然联系等同于真正因果，他是在提出一种有吸引力的因果还原分析——我们因接触休谟著作而对之已不陌生。事实上，说我们部分因休谟而习惯这种“因果即必然联系”的清晰理解，并不牵强。但须注意，马勒布朗士时代的智识气候颇为不同：哲学家们正努力把握 16、17 世纪科学新发展所提出的理解因果本性的复杂任务；而且这一努力是在传统因果论——包含亚里士多德四因那令人困惑的杂多——的背景下进行的。与亚里士多德式构想相比，马勒布朗士的因果构想异常简单而统一，且无须面对“如此多样而不同的亚里士多德式原因如何纳入单一因果构想”这一问题。此外，有迹象表明，面对“为这种因果即必然联系的构想给出更好论证”的挑战，马勒布朗士或会像休谟一样指出：若因果不是必然联系，便难以设想它还能是什么。也就是说，他在《寻求》中说“*我所理解的*真正原因［*c’est ainsi que je l’etends*］，是心灵能知觉到它与结果之间有必然联系者”（*Search* 450，着重号为引者所加），这或许表明他已有近乎休谟的想法*——*尽管不如休谟那样清晰而有力*——*即若因果联系不是必然联系，我们对它就毫无概念。若如此，这一直觉或可为“某事件是真正原因当且仅当它与结果之间有必然联系”提供理据。但鉴于该主张在神在自然中作用这一语境下何等有争议，人们不禁要问：这一把必然联系等同于因果的核心主张，是否还能得到更多支持。[^note-23]
+    step2: |-
+      为马勒布朗士辩护一句：把必然联系等同于真正因果，他是在提出一种有吸引力的因果还原分析——我们因接触休谟而对之已不陌生。说我们部分因休谟而习惯这种“因果即必然联系”的清晰理解，并不牵强。但马勒布朗士时代的智识气候颇为不同。哲学家正努力把握一个复杂任务：理解 16、17 世纪科学新发展所提出的因果本性。且这一努力以传统因果论为背景——亚里士多德四因那令人困惑的杂多。与亚里士多德式构想相比，他的因果构想异常简单而统一，无须面对“如此多样的原因如何纳入单一构想”。此外，有迹象表明，面对“给出更好论证”的挑战，他或会像休谟一样指出：若因果不是必然联系，便难以设想它还能是什么。他在《寻求》中说“*我所理解的*真正原因［*c’est ainsi que je l’etends*］，是心灵能知觉到它与结果之间有必然联系者”（*Search* 450，着重号为引者所加），这或许表明他已有近乎休谟的想法*——*尽管不如休谟清晰有力*——*即若因果联系不是必然联系，我们对它就毫无概念。若如此，这一直觉或可为其核心主张提供理据。但该主张在神在自然中作用这一语境下何等有争议，人们不禁要问：它是否还能得到更多支持。[^note-23]
+  - id: 89
+    kind: body
+    source: |-
+      ### 3.4 The “Conservation is but Continuous Creation” (CCC) Argument
+    step1: |-
+      ### 3.4 “保存不过是持续创造”论证
+    step2: |-
+      ### 3.4 “保存不过是持续创造”论证
+  - id: 90
+    kind: body
+    source: |-
+      The main strategy of this argument is to establish the thesis of occasionalism by drawing out the implications of the commonly held theological principle that “conservation is but continuous creation.”[^note-24] If the main premise of the NNC argument—that is, the premise that genuine causation just consists in necessary connection—would have been resisted by many concurrentists, the strategy behind the CCC argument holds more promise in that the CCC thesis was widely accepted by the majority of theists in our time period, including the concurrentists. The issue of how to interpret the CCC thesis, however, is at the center of the dispute, since occasionalists like Malebranche deny creaturely causation *because* they accept the CCC thesis, while concurrentists like Leibniz affirm genuine creaturely causation *despite* upholding the CCC thesis.
+    step1: |-
+      该论证的主要策略，是通过引申“保存不过是持续创造”这一通行神学原理的蕴含，来确立偶因论论题。[^note-24] 若 NNC 论证的主要前提——真正因果即必然联系——会遭许多并作论者抵制，CCC 论证的策略则更有希望：CCC 论题在此时期为多数有神论者（包括并作论者）广泛接受。然而，如何解释 CCC 论题正是争论焦点：像马勒布朗士这样的偶因论者*因为*接受 CCC 论题而否认受造因果，像莱布尼茨这样的并作论者则*尽管*坚持 CCC 论题而肯定真正的受造因果。
+    step2: |-
+      该论证的主要策略，是通过引申“保存不过是持续创造”这一通行神学原理的蕴含，来确立偶因论论题。[^note-24] 若 NNC 论证的主要前提——真正因果即必然联系——会遭许多并作论者抵制，CCC 论证则更有希望：CCC 论题在此时期为多数有神论者（含并作论者）广泛接受。然而如何解释该论题正是争论焦点：马勒布朗士这样的偶因论者*因为*接受它而否认受造因果，莱布尼茨这样的并作论者则*尽管*坚持它而肯定真正的受造因果。
+  - id: 91
+    kind: body
+    source: |-
+      Before proceeding further, we might briefly examine why the CCC thesis was so broadly accepted as the orthodox view, by considering what implications the rejection of the CCC thesis was thought to entail. The most significant implication of rejecting the CCC thesis, from the perspective of the proponents of the CCC thesis, is the consequence that divine causal activity at creation is markedly different from divine causal activity in moments of conservation, such that the difference is sufficient to deny the identity of the two acts. Hence, conservation is *not* continuous creation. An intuitive way of cashing out this difference, which indeed is how “mere conservationists” such as Durandus proceeded, is to think that while God does everything there is to be done, causally speaking, at the moment of creation, God does less in subsequent moments of conservation such that God merely conserves the creatures in existence. How is God doing less in conservation, according to the conservationist? In moments of conservation, if the event that is caused is a non-miraculous natural event, the *direct, immediate* cause of this event is a creaturely cause, and not divine. God is involved, even for the conservationist, but only in a *mediated, indirect manner*—God works in the background, as it were, keeping the creaturely cause in existence, allowing the creature to exercise its causal powers in a direct, immediate fashion. For instance, if the fire of a gas range causes the water in the coffee pot to boil, the boiling of the water is directly and immediately caused by the fire, even if it is fully granted that the existence of the fire must be directly conserved by God. Thus, God, in keeping the fire in existence, which in turn allows the fire to boil the water directly and immediately, is mediately and remotely involved in the boiling of the water, according to the mere conservationist. God is *merely* conserving the fire (and water) and not directly causing the water to boil. From our contemporary perspective, this indirect, mediated involvement on the part of God might seem sufficient to give divine causality its due place in nature. But the theistic philosophers of the late Scholastic and early modern period found this way of securing the role of divine causality theologically insufficient and suspect. The main worry appears to have been that to think that the dependence of creatures on God is somehow reduced, once creation has past, fundamentally misrepresents the critical dependence creatures have on God *throughout* their existence, be it creation or conservation. Because in terms of creaturely dependence conservation and creation are fundamentally the same, these philosophers seemed to have been thinking, what other differences there might be between conservation and creation, these differences are negligible. It is from this perspective that the orthodox view was to affirm the identity between conservation and creation.[^note-25]
+    step1: |-
+      继续之前，不妨简短考察 CCC 论题何以被如此广泛接受为正统观点，办法是看拒斥它会带来什么蕴含。在 CCC 论题支持者看来，拒斥它的最重要后果是：神在创造时的因果活动，与神在保存时刻的因果活动明显不同，而这一差异足以否认两种行为的同一性。于是，保存*不是*持续创造。把这一差异兑现的一种直觉方式——也是杜兰都斯等“单纯保存论者”的做法——是认为：虽说在创造时刻，从因果上讲上帝做了一切该做之事，但在后续保存时刻，上帝做得更少，只把受造物保存在存在之中。按保存论者，上帝在保存中如何做得更少？在保存时刻，若被造成的是非神迹的自然事件，则该事件的*直接、即刻*原因是受造原因，而非神。即便对保存论者，上帝也参与其中，但只是以*中介的、间接的方式*——可以说，上帝在幕后运作，使受造原因保持存在，让受造物以直接、即刻的方式行使其因果力。例如，煤气灶的火使咖啡壶中的水沸腾，则水的沸腾由火直接而即刻地造成，即便完全承认火的存在须由上帝直接保存。于是，按单纯保存论者，上帝保存火、火又直接即刻地烧开水，上帝便以中介而遥远的方式参与烧水。上帝*仅仅*保存火（与水），并不直接造成水沸腾。从当代视角看，这种间接而中介的参与，或足以给神的因果在自然中应有的位置。但晚期经院与近代早期的有神论哲学家，认为这种确保神之因果角色的方式，在神学上不足而可疑。主要顾虑似乎是：认为创造一旦过去，受造物对上帝的依赖便有所减弱，这从根本上歪曲了受造物在其存在*全程*中对上帝的关键依赖——无论创造还是保存。因为就受造物的依赖而言，保存与创造根本相同；这些哲学家似如此想：无论保存与创造之间还有什么别的差异，那些差异都无足轻重。正是从这一视角，正统观点肯定保存与创造的同一性。[^note-25]
+    step2: |-
+      继续之前，不妨简短考察 CCC 论题何以被广泛接受为正统，办法是看拒斥它的蕴含。在支持者看来，最重要后果是：神在创造时的因果活动不同于在保存时刻，这一差异足以否认两种行为的同一性——保存*不是*持续创造。兑现这一差异的直觉方式——也是杜兰都斯等“单纯保存论者”的做法——是认为：创造时刻，上帝从因果上讲做了一切该做之事；后续保存时刻则做得更少，只把受造物保存在存在之中。按保存论者，上帝在保存中如何做得更少？若被造成的是非神迹自然事件，则该事件的*直接、即刻*原因是受造原因，而非神。即便对保存论者，上帝也参与，但只以*中介的、间接的方式*：可以说，上帝在幕后使受造原因保持存在，让受造物以直接即刻的方式行使因果力。例如煤气灶的火使咖啡壶中的水沸腾。水的沸腾由火直接即刻造成，即便完全承认火的存在须由上帝直接保存。于是，上帝保存火、火又直接即刻烧水，上帝便以中介而遥远的方式参与烧水——上帝*仅仅*保存火（与水），并不直接造成水沸腾。从当代视角看，这种间接参与或足以给神的因果应有位置；但晚期经院与近代早期的有神论哲学家认为，这种确保神之因果角色的方式在神学上不足而可疑。主要顾虑似乎是：认为创造一旦过去，受造物对上帝的依赖便有所减弱，这从根本上歪曲了受造物在其存在*全程*中对上帝的关键依赖——无论创造还是保存。就受造物的依赖而言，保存与创造根本相同；这些哲学家似如此想：无论二者还有什么别的差异，那些差异都无足轻重。正是从这一视角，正统观点肯定保存与创造的同一性。[^note-25]
+  - id: 92
+    kind: body
+    source: |-
+      An early version of something close to the core idea behind the CCC argument emerges in the views of al-Ash‘ari (873–935), the founder of Ash‘arite school. As Perler and Rudolph have argued, according to al-Ash‘ari, God rearranges the atoms that make up this world anew at every instant, and in so doing God continuously creates the accidents that inhere in these atomic substances (Perler and Rudolph 2000, 28–62)[^perler-2000]. The view seems to have been one where the accidents of a substance possess only a momentary existence. Hence, at every instant, God brings about the accidents that inhere in the substances by continuously recreating these modes. If God sustains the existence of the atoms themselves, while continuously recreating all of their modes, then, barring causal overdetermination, the occasionalist conclusion that God is the only genuine cause does seem to follow from this interpretation of divine conservative activity.
+    step1: |-
+      CCC 论证核心观念的一个较早版本，见于艾什尔里派创始人艾什尔里（873–935）的观点。如 Perler 与 Rudolph 所论，按艾什尔里，上帝在每一瞬间重新安排构成此世的原子，并由此不断创造内在于这些原子实体的偶性（Perler and Rudolph 2000, 28–62）[^perler-2000]。这一看法似乎是：实体的偶性只有瞬间存在。于是，上帝在每一瞬间通过不断重新创造这些样态，造成内在于实体的偶性。若上帝既维持原子本身的存在，又不断重新创造其全部样态，那么，排除因果过度决定，偶因论结论——上帝是唯一真正的原因——似确实可从这种对神之保存活动的解释推出。
+    step2: |-
+      CCC 论证核心观念的较早版本，见于艾什尔里派创始人艾什尔里（873–935）的观点。如 Perler 与 Rudolph 所论，按艾什尔里，上帝在每一瞬间重新安排构成此世的原子，并由此不断创造内在于这些原子实体的偶性（Perler and Rudolph 2000, 28–62）[^perler-2000]。其看法似乎是：实体的偶性只有瞬间存在，故上帝在每一瞬间通过不断重新创造这些样态，造成内在于实体的偶性。若上帝既维持原子本身的存在，又不断重新创造其全部样态，那么排除因果过度决定，偶因论结论——上帝是唯一真正的原因——似确实可从这种解释推出。
+  - id: 93
+    kind: body
+    source: |-
+      On the European continent, the most artful presentation of the CCC argument is found in Malebranche. But the argument is not thought to have originated with Malebranche, and it has typically been traced back to Descartes, though whether he was himself indeed an occasionalist is some matter of controversy, as noted earlier. One of the main texts surrounding this controversy comes from the Third *Meditation*:
+    step1: |-
+      在欧洲大陆，CCC 论证最精巧的表述见于马勒布朗士。但该论证并不被认为源于他，通常被追溯至笛卡尔——尽管如前所述，笛卡尔本人是否偶因论者颇有争议。围绕这一争议的主要文本之一出自《第三沉思》：
+    step2: |-
+      在欧洲大陆，CCC 论证最精巧的表述见于马勒布朗士。该论证并不源于他，通常被追溯至笛卡尔——尽管如前所述，他本人是否偶因论者颇有争议。围绕这一争议的主要文本之一出自《第三沉思》：
+  - id: 94
+    kind: body
+    source: |-
+      > … [I]t does not follow from the fact that I existed a little while ago that I must exist now, unless there is some cause which as it were creates me afresh at this moment—that is, which preserves me. For it is quite clear to anyone … that the same power and action are needed to preserve anything at each individual moment of its duration as would be required to create that thing anew if it were not yet in existence. Hence the distinction between preservation and creation is only a conceptual one, and this is one of the things that are evident by the natural light. (AT VII 49/CSM II 33)[^note-26]
+    step1: |-
+      > ……［不能］从我方才存在推出我现在必定存在，除非有某种原因可以说在此刻把我重新创造出来——即保存我。因为对任何人……都很清楚：要在其绵延的每一瞬间保存任何东西，所需的同一力量与作用，与若该物尚未存在而把它重新创造出来所需者相同。因此，保存与创造之别只是概念上的区别，而这属于自然之光所明见者。（AT VII 49/CSM II 33）[^note-26]
+    step2: |-
+      > ……［不能］从我方才存在推出我现在必定存在，除非有某种原因可以说在此刻把我重新创造出来——即保存我。对任何人……都很清楚：要在其绵延的每一瞬间保存任何东西，所需的同一力量与作用，与若该物尚未存在而把它重新创造所需者相同。因此，保存与创造之别只是概念上的区别，这属于自然之光所明见者。（AT VII 49/CSM II 33）[^note-26]
+  - id: 95
+    kind: body
+    source: |-
+      Taken in isolation, this passage does suggest that Descartes took our souls to be continuously created by God in a way that would preclude any genuine causal activity on our part. For if, in initially creating of my soul—that is, in its creation *ex nihilo*—God brings about both the existence of my soul and its modes or modification, then, since the “same power and action” of God is required in preserving my existence subsequent to creation *ab initio*, God would be the sole causal agent that brings about my preserved existence with the modes I possess. But to conclude on the basis of this interpretation that Descartes was an occasionalist would be premature, since there is a good supply of other texts that suggest Descartes’ affirmation of our genuine causal efficacy.
+    step1: |-
+      孤立地看，这段文字确实提示笛卡尔认为我们的灵魂由上帝持续创造，从而排除我们方面的任何真正因果活动。因为若在最初创造我的灵魂时——即在其*无中生有*的创造中——上帝既造成我灵魂的存在，也造成其样态或变形，那么，既然在创造之后保存我的存在需要上帝“同一的力量与作用”，上帝便是造成我被保存的存在及其样态的唯一因果作用者。但据此解读断定笛卡尔是偶因论者，则为时过早：另有大量文本表明他肯定我们真正的因果效力。
+    step2: |-
+      孤立地看，这段文字确实提示笛卡尔认为灵魂由上帝持续创造，从而排除我们方面的真正因果活动。若在最初创造我的灵魂时——即*无中生有*的创造中——上帝既造成灵魂的存在，也造成其样态。那么，既然保存需要上帝“同一的力量与作用”，上帝便是造成我被保存的存在及其样态的唯一作用者。但据此断定他是偶因论者则为时过早：另有大量文本表明他肯定我们真正的因果效力。
+  - id: 96
+    kind: body
+    source: |-
+      In contrast, Louis de la Forge’s commitment to the occasionalist thesis, at least with regard to bodies, seems unquestionable. For he makes explicit the critical claim that God’s causal activity of producing a body is inseparable from his producing the particular modes of the body in question:
+    step1: |-
+      相反，路易·德·拉福奇对偶因论论题的承诺——至少就物体而言——似乎无可置疑。因为他明言这一关键主张：上帝产生一个物体的因果活动，与他产生该物体特定样态的活动不可分离：
+    step2: |-
+      相反，路易·德·拉福奇对偶因论论题的承诺——至少就物体而言——似无可置疑：他明言上帝产生物体的因果活动，与产生该物体特定样态的活动不可分离——
+  - id: 97
+    kind: body
+    source: |-
+      > Not only must [God] continue to produce [a body], if he wants it to persevere in existence; but in addition, because he cannot create it everywhere nor outside of any particular place, he must himself put it in place [*lieu*] B if he wants it there. (*TEH* 240)
+    step1: |-
+      > ［上帝］不仅须继续产生［一个物体］，若他愿它持续存在；而且，因为他不能把它造在一切地方，也不能造在任何特定位置之外，若他愿它在那里，就须亲自把它置于位置 B［*lieu*］。（*TEH* 240）
+    step2: |-
+      > ［上帝］不仅须继续产生［一个物体］，若他愿它持续存在；而且，他不能把它造在一切地方，也不能造在任何特定位置之外，故若他愿它在那里，就须亲自把它置于位置 B［*lieu*］。（*TEH* 240）
+  - id: 98
+    kind: body
+    source: |-
+      The central idea is that God’s causal activity with regard to the production of a body is an “all or nothing” affair, in the sense that if God produces the body, God produces it with all of its specific modes or properties. In other words, though God need not create a body, as long as he does create or conserve it, he cannot do so without bringing about its specific spatial properties or modes. Why, we might ask, is this the case? Even if one grants that there can be no abstract or general Cartesian body, as it were—that is, a body that is extended in general without any specific spatial properties or modes—such that even God could not create such a body in the abstract, the concurrents could still wonder, why is it the case that the cause that gives the *esse* to a given body must also be the cause that produces its specific modes and properties as well? It is here that the CCC thesis provides the missing link. For if conservation is but continuous creation, in the sense that the character and degree of dependence is identical in the two cases, then insofar as there was total dependence at creation, there would have to be total dependence in conservation. Occasionalism with regard to bodies would follow. Given that God has a monopoly over producing both the body itself and its modes, no other cause is operative in bringing about any aspect of the world. Conservation is but continuous creation.
+    step1: |-
+      中心想法是：上帝产生物体的因果活动是“全有或全无”的事——若上帝产生该物体，便连同其全部特定样态或属性一并产生。换言之，上帝虽不必创造某个物体，但只要他创造或保存它，就不能不造成其特定的空间属性或样态。我们或可问：何以如此？即便承认不存在抽象的、一般的笛卡尔式物体——即在一般意义上广延而没有任何特定空间属性或样态的物体——以致连上帝也不能抽象地创造这样的物体，并作论者仍可追问：为何赋予某物体*存在*（*esse*）的原因，也必须是产生其特定样态与属性的原因？正是在此，CCC 论题提供了缺失的环节。因为若保存不过是持续创造，且两种情形中依赖的性质与程度相同，那么创造中既为完全依赖，保存中也必为完全依赖，关于物体的偶因论便随之成立。既然上帝垄断了物体本身及其样态的产生，便没有其他原因在造成世界任何方面起作用。保存不过是持续创造。
+    step2: |-
+      中心想法是：上帝产生物体的因果活动是“全有或全无”的事——若上帝产生该物体，便连同其全部特定样态或属性一并产生。换言之，上帝虽不必创造某物体，但只要他创造或保存它，就不能不造成其特定的空间属性或样态。人们或可问：何以如此？即便承认不存在抽象的、一般的笛卡尔式物体——即在一般意义上广延而无任何特定空间属性或样态的物体——以致连上帝也不能抽象地创造它。并作论者仍可追问：为何赋予某物体*存在*（*esse*）的原因，也必是产生其特定样态与属性的原因？正是在此，CCC 论题提供了缺失环节：保存既是持续创造、两种情形中依赖的性质与程度相同，则创造中为完全依赖，保存中也必为完全依赖，关于物体的偶因论便随之成立。既然上帝垄断了物体本身及其样态的产生，便没有其他原因在造成世界任何方面起作用。保存不过是持续创造。
+  - id: 99
+    kind: body
+    source: |-
+      At this point, we might want to consider the possibility of overdetermination. Could we not think that some creaturely effects are overdetermined in conservation? That is, might we not grant that God is the total and direct cause of a creature’s modes but also hold that the creature causes its modes as well such that certain effects are causally overdetermined? Moreover, if it is only the modes of the creature that are overdetermined, then it seems as though there is no violation of the central tenet that God is the unique causal source of the *esse* that creatures have. As we have discussed earlier, divine causal power importantly involves that of keeping the being or *esse* of the creature in existence, and even the conservationist grants that the role of a conserving cause—that is, the causal power of keeping the being of creatures in existence—is the unique prerogative of God as the *causa secundum esse*. That is, all parties in this dispute concerning the issue of secondary causation in nature agree, regardless of their views about the reality of creaturely causal powers, that the being or *esse* of a creature when the creature is conserved is just as dependent on God as when the creature is created *ex nihilo*. God is the unique creative and conserving cause of any being or *esse* in this world.
+    step1: |-
+      此时我们或应考虑过度决定的可能性。我们难道不能认为，某些受造结果在保存中被过度决定？也就是说，我们既可以承认上帝是受造物样态的全部而直接的原因，又可以主张受造物也造成其样态，从而使某些结果在因果上被过度决定？此外，若被过度决定的只是受造物的样态，则似乎并不违反“上帝是受造物所具有的*存在*的唯一因果来源”这一核心信条。如前所述，神的因果力重要地包含维持受造物之存在或*esse* 于存在之中；即便保存论者也承认，保存原因的作用——即维持受造物存在之因果力——是上帝作为*causa secundum esse*（就存在而言的原因）的独一无二的特权。也就是说，在这场关于自然中次级因果的争论中，各方无论对受造因果力之实在性持何看法，都同意：受造物被保存时，其存在或*esse* 对上帝的依赖，与它被*无中生有*创造时同样彻底。上帝是此世任何存在或*esse* 的唯一创造因与保存因。
+    step2: |-
+      此时或应考虑过度决定的可能性。难道不能认为某些受造结果在保存中经受过决定——既承认上帝是受造物样态的全部而直接的原因，又主张受造物也造成其样态，从而使某些结果在因果上过度决定？若被过度决定的只是受造物的样态，则似乎并不违反“上帝是受造物所具有的*存在*的唯一因果来源”这一信条。如前所述，神的因果力重要地包含维持受造物之存在或*esse*；即便保存论者也承认，保存原因的作用——维持受造物存在之因果力——是上帝作为*causa secundum esse*（就存在而言的原因）的独有特权。这场关于自然中次级因果的争论，各方无论对受造因果力之实在性持何看法，都同意一点。受造物得到保存时，其存在或*esse* 对上帝的依赖，与它被*无中生有*创造时同样彻底。上帝是此世任何存在或*esse* 的唯一创造因与保存因。
+  - id: 100
+    kind: body
+    source: |-
+      The overdetermination of modes, thus, cannot be ruled out on the mere grounds that such overdetermination involves a malignant type of causal overreach on the part of creatures, overflowing into the exclusive divine realm of providing *esse*. For the proponents of overdetermination are taking the creaturely power to be restricted to that of bringing about a creature’s modes. The creature therefore would not share in the power of the *causa secundum esse*, and what power the creature would have to produce modes or modifications would be effective only insofar as the creature’s being or *esse* has been produced by God. Hence, the critical dependence of the creature’s *esse* or being on God is maintained. It is in this sense that cases of overdetermination of modes might present a noteworthy challenge to the advocates of occasionalism arguing on the basis of the CCC thesis.
+    step1: |-
+      因此，不能仅以“样态的过度决定意味着受造物恶性越界、侵入提供*esse* 的专属神域”为理由排除之。因为过度决定论者把受造力量限于造成受造物样态，受造物因此并不分享*causa secundum esse* 的力量；它产生样态或变形的力量，只在受造物的存在或*esse* 已由上帝产生时才有效。于是，受造物*esse* 或存在对上帝的关键依赖仍得以保持。正是在这一意义上，样态过度决定的情形，或对依据 CCC 论题论证的偶因论者构成值得注意的挑战。
+    step2: |-
+      因此，不能仅以“样态过度决定意味着受造物恶性越界、侵入提供*esse* 的专属神域”为由排除之：过度决定论者把受造力量限于造成受造物样态，受造物因此并不分享*causa secundum esse* 的力量；它产生样态的力量，只在受造物的存在或*esse* 已由上帝产生时才有效。于是，受造物*esse* 对上帝的关键依赖仍得以保持。正是在这一意义上，样态过度决定的情形或对依据 CCC 论题论证的偶因论者构成值得注意的挑战。
+  - id: 101
+    kind: body
+    source: |-
+      But this is not to say that the occasionalist is left without possible responses to this challenge. First of all, the occasionalists might suggest that such overdetermination implies that God is engaging in needlessly redundant causal behavior. Not only would God be producing the modes himself but he would also be producing the causal power of the creature that is an overdetermining cause of these modes. And the occasionalist could go on to argue that such redundancy is problematic. Second, and more importantly, if a core intuition behind the CCC thesis, as pointed out earlier, is the point that a creature’s dependence on God when it is conserved is no less than when it is initially created *ex nihilo*, then we might think that the overdetermination of an effect in conservation conflicts with this symmetric dependency. For if some effects are overdetermined in conservation, then with regard to those effects of the creature, the creature’s dependence is in some significant sense less than in creation, since the effects would come about even if the mode-producing causal activity of God were absent. The fact that the occurrence of these effects is causally guaranteed through overdetermination—particularly in virtue of the creature’s productive power—could be thought to be inconsistent with the radical dependence of creatures expressed in the doctrine of creation *ex nihilo*. A different way to put the point would be to argue that the view that allows for overdetermination in the production of modes would come dangerously close to mere conservationism in that the creaturely cause on the overdetermination view is capable of directly and immediately bringing about the mode in question. For the overdetermination scenario suggests that even if God were not to produce the mode directly, the mode would come about from the creature’s power in virtue of God conserving the creature with its power. Thus, insofar as the creature is an overdetermining cause, its causal power, in effect, is of a type that is typically endorsed by conservationists.[^note-27] Though neither La Forge nor Malebranche directly address the possibility of overdetermination, the following passage from La Forge seems to support the view that this intuition about the symmetry of dependence is indeed part of his motivation behind his endorsement of the CCC thesis:
+    step1: |-
+      但这并不是说偶因论者对此挑战没有可能回应。首先，他们可指出：这种过度决定意味着上帝做出不必要而冗余的因果行为——上帝不仅自己产生样态，还产生受造物作为样态过度决定因的因果力；偶因论者可进而论证这种冗余成问题。其次，也更重要的：若如前述，CCC 论题的核心直觉在于“受造物被保存时对上帝的依赖，不亚于它最初被*无中生有*创造时”，那么我们或会认为，保存中结果的过度决定与这种对称依赖相冲突。因为若某些结果在保存中被过度决定，则就受造物的这些结果而言，其依赖在某种重要意义上弱于创造时——即便上帝产生样态的因果活动缺席，这些结果仍会发生。这些结果之发生经由过度决定（尤其凭受造物的生产能力）而获因果保证，这或可被认为与*无中生有*创造说所表达的受造物彻底依赖不相容。换个说法：允许样态产生上过度决定的观点，会危险地接近单纯保存论，因为按过度决定观，受造原因能够直接而即刻地造成相关样态——过度决定情景提示：即便上帝不直接产生该样态，该样态也会凭上帝保存受造物及其力量而从受造物的力量中产生。于是，就受造物是过度决定因而言，其因果力实际上属于保存论者通常主张的那一类。[^note-27] 拉福奇与马勒布朗士都未直接处理过度决定的可能性，但拉福奇下述文字似支持这种看法：关于依赖对称性的直觉，确实是他认可 CCC 论题的动机之一：
+    step2: |-
+      但这并不是说偶因论者没有回应。首先，他们可指出：这种过度决定意味着上帝做出不必要而冗余的因果行为——不仅自己产生样态，还产生受造物作为过度决定因的因果力；偶因论者可进而论证这种冗余成问题。其次，也更重要的：若 CCC 论题的核心直觉在于“受造物得到保存时对上帝的依赖，不亚于它最初被*无中生有*创造时”，则保存中结果的过度决定与这种对称依赖相冲突。因为若某些结果被过度决定，则就这些结果而言，受造物的依赖弱于创造时——即便上帝产生样态的因果活动缺席，它们仍会发生。这些结果经由过度决定（尤其凭受造物的生产能力）而获因果保证，这或与*无中生有*创造说所表达的彻底依赖不相容。换个说法：允许样态产生上过度决定，会危险地接近单纯保存论。按过度决定观，受造原因能够直接即刻地造成相关样态；即便上帝不直接产生它，它也会凭上帝保存受造物及其力量而从受造物的力量中产生。于是，就受造物是过度决定因而言，其因果力实际上属于保存论者通常主张的那一类。[^note-27] 拉福奇与马勒布朗士都未直接处理过度决定，但拉福奇下述文字似支持这种看法：关于依赖对称性的直觉，确实是他认可 CCC 论题的动机之一：
+  - id: 102
+    kind: body
+    source: |-
+      > It was necessary for [God] to employ his omnipotent power in order to bring all of Nature out of nothing. … It would all return to nothing if God ceased bringing it out of nothing at each moment that he conserves it.[^note-28]
+    step1: |-
+      > ［上帝］须运用其全能，才把整个自然从无中带出。……若上帝在每一保存它的时刻停止把它从无中带出，它就会全部复归于无。[^note-28]
+    step2: |-
+      > ［上帝］须运用其全能，才把整个自然从无中带出。……若上帝在每一保存时刻停止把它从无中带出，它就会全部复归于无。[^note-28]
+  - id: 103
+    kind: body
+    source: |-
+      As we have seen, the success of the CCC argument relies heavily on the claim that the act of creation *ex nihilo* and the act of conservation are indistinguishable in terms of both the dependence of the creature on God and the role and content of divine causal activity. That is, the two acts are qualitatively identical in terms of what God is doing, causally speaking. Malebranche reinforces this claim in his *Dialogues* by emphasizing that God’s causal activity of sustaining the being or *esse* of a creature and his causal activity of bringing about the modes of a creature cannot come apart:
+    step1: |-
+      如我们所见，CCC 论证的成功极大依赖这一主张：*无中生有*的创造行为与保存行为，在受造物对上帝的依赖、以及神之因果活动的作用与内容两方面，都无可区分。也就是说，就上帝在因果上所做之事而言，两种行为在性质上同一。马勒布朗士在《对话录》中强化此说，强调上帝维持受造物存在或*esse* 的因果活动，与造成受造物样态的因果活动，不能彼此分离：
+    step2: |-
+      如我们所见，CCC 论证的成功极大依赖这一主张：*无中生有*的创造行为与保存行为，在受造物对上帝的依赖、以及神之因果活动的作用与内容两方面都无可区分。就上帝在因果上所做之事而言，两者性质同一。马勒布朗士在《对话录》中强化此说，强调上帝维持受造物存在或*esse* 的因果活动与造成其样态的因果活动不能分离：
+  - id: 104
+    kind: body
+    source: |-
+      > Creation does not pass, because the conservation of creatures is—on the part of God—simply a continuous creation, a single volition subsisting and operating continuously. Now, God can neither conceive nor consequently will that a body exist nowhere, nor that it does not stand in certain relations of distance to other bodies. Thus, God cannot will that this armchair exist, and by this volition create or conserve it, without situating it here, there, or elsewhere. … Now it is a contradiction that God wills this armchair to exist, unless He wills it to exist somewhere and unless, by the efficacy of His will, He puts it there, conserves it there, creates it there. (*OCM* XII 160/ *Dialogues* 115–6)
+    step1: |-
+      > 创造并未过去，因为受造物的保存——就上帝方面而言——只是持续的创造，是一个持续存在并不断起作用的单一意志。上帝既不能设想、因而也不能意欲一个物体不存在于任何地方，或不同其他物体处于某些距离关系。于是，上帝不能意欲这把扶手椅存在、并凭此意志创造或保存它，却不把它置于此处、彼处或别处。……上帝意欲这把扶手椅存在，而不同时意欲它存在于某处、并凭其意志的效力把它放在那里、保存在那里、创造在那里，这是矛盾的。（*OCM* XII 160/*Dialogues* 115–6）
+    step2: |-
+      > 创造并未过去，因为受造物的保存——就上帝方面而言——只是持续的创造，是一个持续存在并不断起作用的单一意志。上帝既不能设想、因而也不能意欲一个物体不存在于任何地方，或不同其他物体处于某些距离关系。于是，上帝不能意欲这把扶手椅存在、并凭此意志创造或保存它，却不把它置于此处、彼处或别处。……上帝意欲这把扶手椅存在，而不同时意欲它存在于某处、并凭其意志的效力把它放在那里、保存在那里、创造在那里，这是矛盾。（*OCM* XII 160/*Dialogues* 115–6）
+  - id: 105
+    kind: body
+    source: |-
+      Malebranche here is assuming that in the case of creation *ex nihilo* God is the cause of not only the being or *esse* of a creature but also its modes—presumably because no other possible cause actually exists prior to the act of creation *ex nihilo.* So by taking God’s conserving activity to be qualitatively identical to his activity as creator *ex nihilo*, Malebranche appears to arguing that even in cases where the creatures are conserved, God is the unique cause of both their *esse* and modes. Since the modes of a creature cannot in principle have been causally overdetermined in the case of creation *ex nihilo*—for creation *ex nihilo* suggests that no cause exists prior to the act of creation—if the creature’s dependence on God in instances of conservation is identical to the instance of creation *ex nihilo*, then there can be no overdetermination in the production of modes in cases of conservation. Now the concurrentist might reply at this point that concurrentists deny overdetermining creaturely causes as well, since their point is that the creature is a *concurring* cause of the modes of the creature: the causal contribution of neither God nor the creature are redundant, since both are necessary in some manner. But notice that if it is indeed the case that the act of creation *ex nihilo* should be understood to imply that God is the unique cause of both the *esse* and modes of the creature, and if conservation is qualitatively identical to continuous creation *ex nihilo* in causally relevant respects, then the concurrentist would have to either reject the CCC thesis or suggest a different account of what is going on at creation *ex nihilo*.[^note-29] For if this way of understanding continuous creation rules out overdetermining causes, it also rules out concurring causes.
+    step1: |-
+      马勒布朗士在此假定：在*无中生有*的创造中，上帝不仅是受造物存在或*esse* 之因，也是其样态之因——大概因为在*无中生有*的创造行为之前，并不实际存在任何其他可能原因。因此，既然他把上帝的保存活动看作在性质上同一于其*无中生有*的创造活动，他似乎就在论证：即便在受造物被保存的情形中，上帝也是其*esse* 与样态的唯一原因。既然在*无中生有*的创造中，受造物的样态原则上不可能被因果过度决定——因为*无中生有*意味着创造行为之前不存在任何原因——那么，若受造物在保存情形中对上帝的依赖同一于*无中生有*创造的情形，则保存中样态的产生便不可能有过度决定。此时并作论者或许回应：并作论者也否认过度决定的受造原因，因为他们的要点是受造物是受造物样态的*并作*因：上帝与受造物的因果贡献都不冗余，因为二者都以某种方式必需。但请注意：若*无中生有*的创造行为确应理解为蕴含上帝是受造物*esse* 与样态的唯一原因，且保存在因果相关方面在性质上同一于持续的*无中生有*创造，那么并作论者就须要么拒斥 CCC 论题，要么对*无中生有*创造中发生之事另作解释。[^note-29] 因为若这种理解持续创造的方式排除了过度决定因，它也排除了并作因。
+    step2: |-
+      马勒布朗士在此假定：在*无中生有*的创造中，上帝不仅是受造物存在或*esse* 之因，也是其样态之因——大概因为创造行为之前并不实际存在任何其他可能原因。因此，既然他把保存活动看作在性质上同一于*无中生有*的创造，他似乎在论证：即便受造物被保存时，上帝也是其*esse* 与样态的唯一原因。在*无中生有*的创造中，样态原则上不可能被过度决定（创造行为之前不存在任何原因）；若保存中对上帝的依赖同一于创造情形，则保存中样态的产生便不可能有过度决定。并作论者或回应：他们也否认过度决定的受造原因——受造物是样态的*并作*因，上帝与受造物的贡献都不冗余，因为二者都以某种方式必需。但请注意：若*无中生有*的创造确应理解为蕴含上帝是*esse* 与样态的唯一原因，且保存在因果相关方面性质同一于持续的创造，则并作论者须要么拒斥 CCC 论题，要么另作解释。[^note-29] 因为若这种理解持续创造的方式排除了过度决定因，它也排除了并作因。
+  - id: 106
+    kind: body
+    source: |-
+      However, some have suggested that identifying conservation with creation *ex nihilo* this closely effectively pushes us to regard conservation as continuous *recreation*, where the creature that is supposedly “conserved” falls out of existence instantaneously before it is repeatedly *recreated*.[^note-30] Interestingly, this “continuous recreation” reading seems well-motivated from the occasionalist perspective. If one wants to enforce a strict identity between conservation and creation, why not go all out and take conservation to be recreation *ex nihilo*, in which case the absence of any cause other than God will be guaranteed, thereby automatically securing the occasionalist thesis? On this reading as continuous recreation, conservation is in fact the continuous resuscitation of the creature from the void of non-existence, into which the creature is thrust instantaneously after its momentary existence. Some, such as Winkler, have suggested that the continuous recreation reading of the CCC thesis would indeed do the work of establishing occasionalism, since at every moment of conservation, there would literally be no creature around, as it were, to cooperate as a concurring cause.”[^note-31] Continuous creation as recreation, however, raises a number of concerns, including the question of whether the transtemporal identity of creatures can be maintained. For, on the recreation model, the previous creature *ex hypothesi* goes out of existence, and another one is created anew and the two would then seem to be numerically distinct.
+    step1: |-
+      然而有人提出，如此紧密地把保存同一于*无中生有*的创造，实际上迫使我们把保存看作持续的*重新创造*。据称得到“保存”的受造物在瞬时之间落出存在，随后反复被*重新创造*。[^note-30] 有趣的是，这种“持续重新创造”读法从偶因论视角看似乎很有理据。若有人要在保存与创造之间强求严格的同一性，何不一不做二不休，把保存看作*无中生有*的重新创造？如此便可保证除上帝外别无原因，从而自动确保偶因论论题。按这种“持续重新创造”的读法，保存实际上是受造物从不存在之虚空中得到持续复苏：受造物在其瞬时存在之后，随即被抛入这一虚空。Winkler 等人提出，CCC 论题的“持续重新创造”读法确能确立偶因论，因为在每一保存时刻，可以说根本没有受造物在旁充当并作因。[^note-31] 然而，把持续创造看作重新创造会引出若干顾虑，包括受造物的跨时间同一性能否维持。因为在重新创造模型下，先前的受造物*按假定*已落出存在，另一个被重新创造出来，二者似乎便在数目上不同。
+    step2: |-
+      然而有人提出，如此紧密地把保存同一于*无中生有*的创造，实际上迫使我们把保存看作持续的*重新创造*。据称得到“保存”的受造物在瞬时之间落出存在，随后反复被*重新创造*。[^note-30] 有趣的是，这种读法从偶因论视角看很有理据：若要在保存与创造之间强求严格同一性，何不一不做二不休，把保存看作*无中生有*的重新创造？如此便保证除上帝外别无原因，从而自动确保偶因论论题。按此读法，保存实际上是受造物从不存在之虚空中得到持续复苏——受造物在其瞬时存在之后随即被抛入这一虚空。Winkler 等人提出，“持续重新创造”读法确能确立偶因论，因为每一保存时刻可以说根本没有受造物在旁充当并作因。[^note-31] 但把持续创造看作重新创造会引出若干顾虑，包括受造物的跨时间同一性能否维持。在重新创造模型下，先前的受造物*按假定*已落出存在，另一个被重新创造出来，二者似乎在数目上不同。
+  - id: 107
+    kind: body
+    source: |-
+      Perhaps more serious is the following type of challenge by the concurrentist. The concurrentist at this point might protest and question whether and why the identity of conservation and creation need be taken in this manner. Given that the concurrentist wishes to maintain theological orthodoxy and endorse the CCC thesis as well, the concurrentist might suggest that an alternative understanding of the identity between creation and conservation is available in the following manner: to say that conservation is but continuous creation just is to say that the act of creation and conservation is but a numerically single act on the part of God, and thus it need not be the case that what God does, causally speaking, remains qualitatively the same throughout this one, continuous act. For example, one might take a single, continuous walk during which the pace is at times brisk, at times leisurely, but such difference in terms of exertion throughout the walk does not split the walk into two distinct acts.[^note-32] On such a model, the concurrentist could argue that she also agrees that conservation is continuous with creation and thus conservation and creation comprise a single, identical act, but the affirmation of the CCC thesis, cashed out in this way, need not imply that there is no creaturely contribution in moments of conservation. God, on this “continuous maintenance” reading (Winkler 2011, 301)[^winkler-2011] maintains the creature throughout its existence in a single, unified act, but what God does at the initial point of creation differs from what God does when he merely conserves the creature. Note that this “continuous maintenance” reading targets not only the “continuous recreation” reading but “qualitative identity” reading as well. For the latter two readings share the intuition that the identity in question is one in which divine causal contribution be thought to be qualitatively the same, regardless of whether it be in the form of recreation or not.
+    step1: |-
+      或许更严重的是并作论者的如下挑战。此时并作论者或抗议并追问：保存与创造的同一性是否、为何必须如此理解？既然并作论者既想维持神学正统，又想认可 CCC 论题，他或可提出另一种理解二者同一性的方式：说保存不过是持续创造，无非是说创造行为与保存行为在上帝方面是数目上单一的行为，因此，上帝在因果上所做之事，在这一单一持续行为中不必始终保持性质同一。例如，人可把一次连续的散步视为一个行为，其间步速时快时慢，但这种用力上的差异并不把这次散步分裂为两个不同行为。[^note-32] 按此模型，并作论者可以论证：她也同意保存与创造连续、二者构成单一而同一的行为；但如此兑现的 CCC 论题，不必蕴含保存时刻没有受造物贡献。按这种“持续维持”读法（Winkler 2011, 301）[^winkler-2011]，上帝以单一而统一的行为在受造物整个存在期间维持它，但上帝在创造起点所做之事，不同于其仅仅保存受造物时所做之事。请注意，这种“持续维持”读法不仅针对“持续重新创造”读法，也针对“性质同一”读法：后两种读法共享一个直觉——所涉同一性要求神的因果贡献在性质上相同，无论是否采取重新创造的形式。
+    step2: |-
+      或许更严重的是并作论者如下挑战：保存与创造是否同一、为何必须如此理解？并作论者既想维持神学正统，又想认可 CCC 论题，或可另提一种理解。说保存不过是持续创造，无非是说创造行为与保存行为在上帝方面是数目上单一的行为；因此上帝在因果上所做之事不必在这一持续行为中始终性质同一。例如，人可把一次连续散步视为一个行为，其间步速时快时慢，但用力上的差异并不把散步分裂为两个行为。[^note-32] 按此模型，并作论者可以论证：她也同意保存与创造连续、二者构成单一而同一的行为；但如此兑现的 CCC 论题，不必蕴含保存时刻没有受造物贡献。按这种“持续维持”读法（Winkler 2011, 301）[^winkler-2011]，上帝以单一而统一的行为在受造物整个存在期间维持它，但上帝在创造起点所做之事不同于其仅仅保存受造物时所做之事。注意，这种读法不仅针对“持续重新创造”读法，也针对“性质同一”读法：后两种读法共享一个直觉——所涉同一性要求神的因果贡献性质相同，无论是否采取重新创造的形式。
+  - id: 108
+    kind: body
+    source: |-
+      The dialectic then at this point can be understood as a debate between two fundamentally different readings of the CCC thesis. On the one hand, there are those, like Malebranche, who take the CCC thesis as a premise toward occasionalism in that the identity in question is one of qualitative identity in the sense that what God does causally speaking at creation *ex nihilo* is the same as what God does in conservation—let’s call this the “qualitative identity” reading. On the other hand, there are who read the identity as a mere numerical identity, wherein God continuously maintains the creature throughout its existence, but what God does qualitatively at creation is different from what God does in conservation. God does less in conservation than at creation, but the acts comprise one continuous whole—let’s call this the “numerical identity” reading. If the numerical identity reading was more comfortable to those divine concurrents who wanted to both endorse the CCC thesis *and* allow for genuine causation at the creaturely level, one might think that the contribution of occasionalists like La Forge and Malebranche to the debate was to presenting a strong case as to why the qualitative identity reading ought to be preferred as the correct interpretation of the CCC thesis. Here actually is Malebranche pressing precisely this case:
+    step1: |-
+      于是，此处的辩证可理解为两种根本不同读法之间的争论。一方如马勒布朗士，把 CCC 论题当作通向偶因论的前提：所涉同一性是性质同一，即上帝在*无中生有*的创造中所做的因果之事，与其在保存中所做者相同——不妨称之为“性质同一”读法。另一方则把该同一性读作单纯的数目同一：上帝在其整个存在期间持续维持受造物，但上帝在创造时性质上所做的事不同于保存时之所做，上帝在保存中做得少于创造时，然而这些行为构成一个连续整体——不妨称之为“数目同一”读法。若“数目同一”读法更合那些既想认可 CCC 论题、又想容许受造层面真正因果的神性并作论者之意，那么人们或会认为：拉福奇与马勒布朗士等偶因论者对这场争论的贡献，在于有力地论证了为何应把“性质同一”读法视为 CCC 论题的正确解释。马勒布朗士恰恰在推进此点：
+    step2: |-
+      于是，此处的辩证可理解为两种根本不同读法之争。一方如马勒布朗士，把 CCC 论题当作通向偶因论的前提：所涉同一性是性质同一，即上帝在*无中生有*创造中所做的因果之事与在保存中所做者相同——可称“性质同一”读法。另一方把同一性读作单纯数目同一。上帝在受造物整个存在期间持续维持它，但创造时性质上所做的事不同于保存时，保存中做得更少；然而这些行为构成一个连续整体——可称“数目同一”读法。另一些并作论者既想认可 CCC 论题，又想容许受造层面真正因果；若后者更合其意，人们或会作如是观：拉福奇与马勒布朗士等偶因论者的贡献，在于有力论证“性质同一”读法为何应视为该论题的正解。马勒布朗士恰在推进此点：
+  - id: 109
+    kind: body
+    source: |-
+      > “The moment of creation has passed!” But if this moment does not pass, then you are in a spot, and will have to yield. Therefore take note. God wills that a certain kind of world exist. His will is omnipotent, and this world is thus created. Let God no longer will there to be a world, and it is thereby annihilated. For the world assuredly depends on the will of the creator. If the world subsists, it is because God continues to will its existence. Thus, the conservation of creatures is, on the part of God, nothing but their continued creation. I say on the part of God who acts. For on the part of creatures there appears to be a difference, since by the act of creation they pass from nothingness to being, whereas by the act of conservation they continue to be. But in essence the act of creation does not cease, *because in God creation and conservation are but a single volition which, consequently, is necessarily followed by the same effects.* (*Dialogues* 112, my emphasis)
+    step1: |-
+      > “创造的时刻已经过去！”但若这一时刻并未过去，你就陷入窘境，只能让步。所以请注意。上帝意欲某种世界存在；他的意志全能，世界于是被创造。倘若上帝不再意欲世界存在，世界便随之湮灭。因为世界确实依赖于创造者的意志。世界若持续存在，是因为上帝继续意欲它存在。因此，受造物的保存，就上帝方面而言，无非是其持续的创造。我说的是起作用的上帝方面；至于受造物方面，似乎有差别：凭创造行为，它们从无到有；凭保存行为，它们持续存在。但本质上创造行为并未停止，*因为在上帝那里，创造与保存只是一个意志，因而必然产生同样的效果*。（*Dialogues* 112，着重号为引者所加）
+    step2: |-
+      > “创造的时刻已经过去！”但若这一时刻并未过去，你就陷入窘境，只能让步。所以请注意：上帝意欲某种世界存在；他的意志全能，世界于是被创造。倘若上帝不再意欲世界存在，世界便随之湮灭——世界确实依赖创造者的意志。世界若持续存在，是因为上帝继续意欲它存在。因此，受造物的保存，就上帝方面而言，无非是其持续的创造。我说的是起作用的上帝方面；至于受造物方面，似乎有差别：凭创造行为，它们从无到有；凭保存行为，它们持续存在。但本质上创造行为并未停止，*因为在上帝那里，创造与保存只是一个意志，因而必然产生同样的效果*。（*Dialogues* 112，着重号为引者所加）
+  - id: 110
+    kind: body
+    source: |-
+      Note in the last sentence that the identity of the volition is cashed out in terms of the identity of the effects, which supports the view that for Malebranche, the proper reading of the CCC thesis is the qualitative identity reading. For the numerical identity reading entails that God’s effect in conservation ought to be distinguished from God’s effect at creation in that God does less in conservation than creation.
+    step1: |-
+      注意最后一句以效果的同一来兑现意志的同一；这支持如下看法：对马勒布朗士而言，CCC 论题的正确读法是“性质同一”读法。因为“数目同一”读法蕴含：上帝在保存中的效果须与创造时的效果有别，因为上帝在保存中做得少于创造时。
+    step2: |-
+      注意最后一句以效果同一兑现意志同一；这支持如下看法：对他而言，CCC 论题的正确读法是“性质同一”读法。因为“数目同一”读法蕴含上帝在保存中的效果须有别于创造时——保存中做得更少。
+  - id: 111
+    kind: body
+    source: |-
+      Lastly, we note that, while La Forge appears to have limited his occasionalism to extended substances and held that we as minds are causally active in producing our ideas (*TEH* 166), Malebranche extends his occasionalism to thinking substances. Consider the following passage from the *Treatise on Ethics* (1684):
+    step1: |-
+      最后要注意：拉福奇似乎把偶因论限于广延实体，认为我们作为心灵在产生观念方面具有因果活动（*TEH* 166）；马勒布朗士则把偶因论扩展到思维实体。请看《伦理学论》（1684）中如下段落：
+    step2: |-
+      最后要注意：拉福奇似乎把偶因论限于广延实体，认为我们作为心灵在产生观念方面具有因果活动（*TEH* 166）；马勒布朗士则把它扩展到思维实体。《伦理学论》（1684）中如下段落：
+  - id: 112
+    kind: body
+    source: |-
+      > Glory and Honor belong to God alone. Toward Him alone, all the movements of all minds ought to tend, because only in Him does power reside. All willing by creatures is *inefficacious in itself. Only He who gives being could be able to give the ways of being, since the ways of being are nothing but beings themselves, in this or that fashio*n. Nothing is more evident to one who knows how to consult the inner truth. For what is more evident than that if God, for example, keeps a body always in one place, then no creature could move it to another? Or that no man could even move his own arm unless God wills to concur in doing that which ungrateful and stupid man thinks he is doing by himself? And the same goes for the ways of being of minds. If God keeps or creates the soul in a way of being which afflicts it, such as with pain, no mind can deliver itself therefrom, nor make itself to feel pleasure thereby, unless God concurs with it to carry out its desires. (*OCM* XI 160/*TE* 147, my emphasis)
+    step1: |-
+      > 荣耀与尊荣惟归于上帝。一切心灵的一切运动都应朝向祂，因为力量只寓于祂。受造物的一切意愿本身都*无实效。唯有赋予存在者才能赋予存在的方式，因为存在的方式无非是存在者本身以这种或那种样式存在*。凡懂得如何求问内在真理者，对此再清楚不过。因为还有什么比这更清楚：若上帝使某物体始终处于一处，则任何受造物都不能把它移到别处？或者，除非上帝意欲并作那忘恩而愚蠢的人自以为独自做成之事，任何人都不能移动自己的手臂？心灵的存在方式亦然。若上帝使灵魂以折磨它的方式存在，如处于痛苦之中，则任何心灵都不能自行解脱，也不能使自己由此感到快乐，除非上帝与之并作以成全其愿望。（*OCM* XI 160/*TE* 147，着重号为引者所加）
+    step2: |-
+      > 荣耀与尊荣惟归于上帝。一切心灵的的一切运动都应朝向祂，因为力量只寓于祂。受造物的一切意愿本身都*无实效。唯有赋予存在者才能赋予存在的方式，因为存在的方式无非是存在者本身以这种或那种样式存在*。凡懂得如何求问内在真理者，对此再清楚不过：若上帝使某物体始终处于一处，任何受造物都不能把它移到别处；除非上帝意欲并作那忘恩而愚蠢的人自以为独自做成之事，任何人都不能移动自己的手臂。心灵的存在方式亦然：若上帝使灵魂以折磨它的方式存在，如处于痛苦之中，任何心灵都不能自行解脱，也不能由此感到快乐，除非上帝与之并作以成全其愿望。（*OCM* XI 160/*TE* 147，着重号为引者所加）
+  - id: 113
+    kind: body
+    source: |-
+      Here we get something close to a generalized version of the key claim of the CCC argument in the *Dialogues* that God cannot will that an extended substance exist, “without at the same time willing that it exist either here or there and without His will placing it somewhere” (*OCM* XII 156/*Dialogues* 110): only he who gives being could be able to give the ways of being. And, importantly, this principle is said to be applicable to the “ways of being of minds.”[^note-33] In effect, we are presented with an explicit denial of the possibility that God’s sustaining activity of the being or *esse* of a creature can be separated from his activity of bringing about the modes of the creature, regardless of whether the creature is an extended or thinking substance. Hence, the CCC argument seems to be fully applicable to the modes or ways of the being of the minds, just like bodies.
+    step1: |-
+      此处我们得到的东西，接近《对话录》中 CCC 论证关键主张的推广版：上帝不能意欲一个广延实体存在，“而不同时意欲它存在于这里或那里，并凭其意志把它置于某处”（*OCM* XII 156/*Dialogues* 110）。唯有赋予存在者才可能赋予存在的方式；而且重要的是，这一原理据说适用于“心灵的存在方式”。[^note-33] 实际上，这明确否认了如下可能：上帝维持受造物存在或*esse* 的活动，可以同他造成受造物样态的活动分离——无论受造物是广延实体还是思维实体。于是，CCC 论证似乎完全适用于心灵的样态或存在方式，正如适用于物体。
+    step2: |-
+      此处得到的东西，接近《对话录》中 CCC 论证关键主张的推广版：上帝不能意欲广延实体存在，“而不同时意欲它存在于这里或那里，并凭其意志把它置于某处”（*OCM* XII 156/*Dialogues* 110）。唯有赋予存在者才可能赋予存在的方式；重要的是，这一原理据说适用于“心灵的存在方式”。[^note-33] 这明确否认了如下可能：上帝维持受造物存在或*esse* 的活动，可与造成其样态的活动分离——无论受造物是广延实体还是思维实体。于是 CCC 论证似完全适用于心灵的样态或存在方式，正如适用于物体。
+  - id: 114
+    kind: body
+    source: |-
+      Malebranche’s extension of the thesis of occasionalism to thinking substances, as presented here in the *Treatise on Ethics*, is not an aberration. In one of his most careful statements about how minds relate to his occasionalism, Malebranche claims as follows:
+    step1: |-
+      马勒布朗士把偶因论论题扩展到思维实体，如《伦理学论》此处所示，并非例外。在关于心灵如何与其偶因论相关的最审慎的表述之一中，他这样说：
+    step2: |-
+      马勒布朗士把偶因论论题扩展到思维实体，如《伦理学论》此处所示，并非例外。关于心灵如何与其偶因论相关，他最审慎的表述之一这样说：
+  - id: 115
+    kind: body
+    source: |-
+      > I agree that God is the sole author of all substances and of all their modes, that He is the author of all beings: not only of all bodies but of all minds. But be careful: I understand by a *mode* of a substance only that which cannot change without there being some real or physical change in the substance of which it is the mode. … Once again, I agree that God is the sole efficacious cause of all the real changes that take place in the world (*Prémotion Physique*, OC XVI 40; the translation is from Kremer 2000, 210–11)[^kremer-2000].
+    step1: |-
+      > 我同意：上帝是一切实体及其一应样态的唯一作者，是一切存在者的作者：不仅是一切物体，也是一切心灵。但请注意：我所谓实体的*样态*，只指那种若不变则其实体必生某种实在或物理变化者。……再说一次，我同意：上帝是世间一切实在变化的唯一有效原因（*Prémotion Physique*, OC XVI 40；译文据 Kremer 2000, 210–11）[^kremer-2000]。
+    step2: |-
+      > 我同意：上帝是一切实体及其全部样态的唯一作者，是一切存在者的作者——不仅一切物体，也一切心灵。但请注意：我所谓实体的*样态*，只指那种若发生变化则其实体必生某种实在或物理变化者。……再说一次：上帝是世间一切实在变化的唯一有效原因（*Prémotion Physique*, OC XVI 40；译文据 Kremer 2000, 210–11）[^kremer-2000]。
+  - id: 116
+    kind: body
+    source: |-
+      Here, once again, we get an explicit statement that God is the sole author of all substances and their modes. Note, however, that Malebranche is careful to specify what he means by a “mode” of a substance. This clarification is motivated by the attempt to make room for a kind of power within minds or thinking substances that will allow for the attribution of freedom and moral responsibility to them. This power of consent or withholding of consent is further developed in the following:
+    step1: |-
+      此处再次明确：上帝是一切实体及其样态的唯一作者。但要注意，马勒布朗士细心地界定了“样态”之所指。这一澄清的动机，是为心灵或思维实体中的某种力量留出空间，以便把自由与道德责任归于它们。这种同意或拒绝同意之力，在下文得到进一步展开：
+    step2: |-
+      此处再次明确：上帝是一切实体及其样态的唯一作者。但马勒布朗士细心界定了“样态”之所指，其动机是为心灵或思维实体中的某种力量留出空间，以便把自由与道德责任归于它们。这种同意或拒绝同意之力，在下文进一步展开：
+  - id: 117
+    kind: body
+    source: |-
+      > There are in the soul two different powers or activities. The first is properly only the action of God … [who] continually creates the soul with the invincible desire to be happy, or continually moves it toward the good in general. But the second … which is the essence of freedom, is … very different from the first. It consists in a true power, not to produce, by its own efficacy, new modifications in itself, that is, new interesting perceptions or new movements in the will, but … a true power of the soul to suspend or to give its consent to the movements that follow naturally upon interesting perceptions. (*OCM* XVI 46–7; the translation is from Kremer 2000, 1999)[^kremer-2000]
+    step1: |-
+      > 灵魂中有两种不同的力量或活动。第一种严格说来只是上帝的作用……［他］不断以不可遏止的幸福欲求创造灵魂，或不断把它推向一般善。第二种……即自由的本质……与第一种大不相同。它不在于凭自身效力在自身中产生新的变形，即新的关切性知觉或意志中的新运动，而在于……灵魂有一种真正的力量，可对随关切性知觉自然而来的运动加以悬置或予以同意。（*OCM* XVI 46–7；译文据 Kremer 2000, 1999）[^kremer-2000]
+    step2: |-
+      > 灵魂中有两种不同的力量或活动。第一种严格说来只是上帝的作用……［他］不断以不可遏止的幸福欲求创造灵魂，或不断把它推向一般善。第二种……即自由的本质……与第一种大不相同：它不在于凭自身效力在自身中产生新的变形（新的关切性知觉或意志中的新运动），而在于……灵魂有一种真正的力量，可对随关切性知觉自然而来的运动加以悬置或予以同意。（*OCM* XVI 46–7；译文据 Kremer 2000, 1999）[^kremer-2000]
+  - id: 118
+    kind: body
+    source: |-
+      Interestingly enough, this power of the soul is described as not being a power that produces modifications, which is an expression of Malebranche’s attempt to reconcile the positing of such powers in minds with his occasionalism about minds. That is, insofar as all powers that bring about changes in modes are in God, and merely non-modal powers are in the creature, then Malebranche seems to be thinking that such non-modal powers of creatures are consistent with his occasionalism. This, however, raises the question of whether such non-modal powers are robust enough to anchor the free will and moral responsibility of thinking substances.[^note-34]
+    step1: |-
+      有趣的是，这种灵魂之力被描述为不产生变形的力量；这体现了马勒布朗士调和“在心灵中设定此类力量”与“关于心灵的偶因论”的努力。也就是说，既然造成样态变化的一切力量都在上帝那里，受造物只有非样态性的力量，他便似乎认为：受造物的这种非样态力量与其偶因论相容。然而，这也引出一个问题：这种非样态力量是否足够强健，足以锚定思维实体的自由意志与道德责任。[^note-34]
+    step2: |-
+      有趣的是，这种灵魂之力被描述为不产生变形的力量；这体现了马勒布朗士调和两者的努力：在心灵中设定此类非样态力量，与关于心灵的偶因论相容。造成样态变化的一切力量都在上帝那里，受造物只有非样态性的力量，他便似乎认为两者相容。然而这也引出问题：这种非样态力量是否足够强健，足以锚定思维实体的自由意志与道德责任？[^note-34]
+  - id: 119
+    kind: body
+    source: |-
+      If we bracket the issue of how to render a full-blown occasionalism with a sufficiently robust account of free will, then, as we have hopefully seen, the CCC argument is a fairly powerful argument as an argument for global occasionalism.
+    step1: |-
+      若我们搁置“如何以足够强健的自由意志说明来安顿彻底偶因论”这一问题，那么，如我们有望已见，CCC 论证作为全局偶因论的论证是颇为有力的。
+    step2: |-
+      若搁置“如何以足够强健的自由意志说明安顿彻底偶因论”，那么如我们有望已见，CCC 论证作为全局偶因论的论证颇为有力。
+  - id: 120
+    kind: body
+    source: |-
+      ## 4. Occasions and Occasional Causation
+    step1: |-
+      ## 4. 偶因与偶因因果
+    step2: |-
+      ## 4 偶因与偶因因果
+  - id: 121
+    kind: body
+    source: |-
+      We end with a brief look at what “ occasional causes” are and how occasionalists understand “occasional causation.”[^note-35] As we saw at the beginning of this entry, an occasionalist is someone who, within a relevant domain, denies that creaturely causes are genuine causes and holds that the unique genuine cause is God. This denial of the causal efficacy of creatures, however, is consistent with the recognition that some creaturely events and their types stand in peculiar relations, noteworthy enough to deserve a special status in the causal story of the world. Most prominent, particularly to those interested in causation, are the robust regularities found in the world, the very regularities that initiated our interest in causal connections in the first place. These regularities are of interest to the occasionalist as well, and it is for these regularities that the occasionalist employs the notion of occasional causes. Here is how Malebranche describes them:
+    step1: |-
+      最后简短考察“偶因”是什么，以及偶因论者如何理解“偶因因果”。[^note-35] 如本词条开头所述，偶因论者在相关领域内否认受造原因是真正的原因，并主张唯一真正的原因是上帝。然而，否认受造物的因果效力，与承认某些受造事件及其类型处于特殊关系中并不矛盾——这些关系值得在世界的因果故事中获得特殊地位。最显著者，尤其对关心因果的人而言，是世间那些强健的规则性；正是这些规则性最初引发了我们对因果联系的兴趣。偶因论者同样关心这些规则性，也正是为它们引入了偶因概念。马勒布朗士这样描述：
+    step2: |-
+      最后简短考察“偶因”是什么，以及偶因论者如何理解“偶因因果”。[^note-35] 如开头所述，偶因论者在相关领域内否认受造原因是真正原因，主张唯一真正的原因是上帝。但否认受造物的因果效力，与承认某些受造事件及其类型处于特殊关系并不矛盾——这些关系值得在世界的因果故事中获得特殊地位。最显著者，尤其对关心因果者而言，是世间那些强健的规则性；正是它们最初引发我们对因果联系的兴趣。偶因论者同样关心这些规则性，也正是为它们引入了偶因概念。马勒布朗士如此描述：
+  - id: 122
+    kind: body
+    source: |-
+      > A natural cause is therefore not a real and true cause but only an occasional cause, which determines the Author of nature to act in such and such a manner in such and such a situation.(*Search* 448)
+    step1: |-
+      > 因此，自然原因不是真正的原因，而只是偶因：它促使自然之作者在此情此景下以如此这般的方式行动。（*Search* 448）
+    step2: |-
+      > 因此，自然原因不是真正的原因，而只是偶因：它促使自然之作者在此情此景下以如此这般的方式行动。（*Search* 448）
+  - id: 123
+    kind: body
+    source: |-
+      An occasional cause here is described as determining God “to act in such and such a manner in such and such a situation.” The central idea is that when an event of a certain type occurs, a distinct event of a different type is brought about by divine volition, such that a regular, law-like relation holds between two types of events, each exemplified by the occasional cause and its effect respectively. A common misunderstanding about occasionalism is that if it is divine causality that anchors what occurs in the world, such grounding of natural events will render their occurrences rather irregular and haphazard. Perhaps it is the unpredictability of our own volitional activity that precipitates this assumption that volitions do not provide stable foundations for regularity. As we seen above, however, occasionalists accept the regularity of natural events as much as any realist about creaturely powers. The link that allows occasionalists to endorse regularity while grounding such regularity in divine volitions is their view that the divine volitions in question have a stable, law-like structure, thus being general in character. Here again is Malebranche:
+    step1: |-
+      此处偶因被描述为促使上帝“在此情此景下以如此这般的方式行动”。中心想法是：当某类事件发生时，另一不同类的事件由神之意志造成，从而使两类事件之间保持规则性的、类律的关系；两类事件分别由偶因及其结果例示。关于偶因论的一个常见误解是：若以神的因果为世间所发生之事的根据，这种对自然事件的奠基会使它们的发生颇为不规则而偶然。或许正是我们自己意志活动的不可预测，促成了“意志不能为规则性提供稳定基础”这一假定。然而如我们所见，偶因论者与任何关于受造力量的实在论者一样，都接受自然事件的规则性。使偶因论者既认可规则性、又把规则性奠基于神之意志的环节，是他们的看法：所涉神之意志具有稳定的、类律的结构，因而在性质上是一般的。马勒布朗士再次说道：
+    step2: |-
+      此处偶因被描述为促使上帝“在此情此景下以如此这般的方式行动”。中心想法是：某类事件发生时，另一不同类事件由神之意志造成，两类事件之间保持规则性的类律关系，分别由偶因及其结果例示。常见误解是：若以神的因果为根据，自然事件的发生便会不规则而偶然。或许正是我们自己意志活动的不可预测，促成了“意志不能为规则性提供稳定基础”这一假定。然而如已见，偶因论者与任何关于受造力量的实在论者一样接受自然事件的规则性。使他们既认可规则性、又把其奠基于神之意志的环节，是这一看法：所涉神之意志具有稳定的类律结构，因而性质上是一般的。马勒布朗士再次说道：
+  - id: 124
+    kind: body
+    source: |-
+      > God acts by general volition, when he acts in consequence of general laws that he has established. For example, I say that God acts in me by general volitions when he makes me feel pain when I am pricked [by a pin], because, in consequence of the general and efficacious laws of the union of soul and body that he has established, he makes me suffer pain when my body is ill-disposed. I say, on the contrary, that God acts by particular volitions when the efficacy of his will is not determined by some general law to produce some effect― thus, supposing that a body begins to move without being pushed by another, or without changes in the will of some mind, or without some other creature who determines the efficacy of some general law; I say that God would move this body by a particular volition. (*OCM* V 147–48 /*TNG* 195)
+    step1: |-
+      > 当上帝依其所立的一般法则行动时，他是凭一般意志行动。例如，我说当我［被针］刺到时上帝使我感到疼痛，是凭一般意志行动，因为依他所立的灵魂与身体结合的一般而有效的法则，当我的身体状态不良时，他使我感到痛苦。相反，当他的意志之效力不由某种一般法则决定以产生某种效果时，我说上帝是凭个别意志行动——例如，假设某物体未受另一物体推动、或没有某心灵意志的变化、或没有其他受造物决定某一般法则的效力而开始运动，我说上帝会凭个别意志推动这个物体。（*OCM* V 147–48/*TNG* 195）
+    step2: |-
+      > 当上帝依其所立的一般法则行动时，他是凭一般意志行动。例如，我说当我［被针］刺到时上帝使我感到疼痛，是凭一般意志行动：依他所立灵魂与身体结合的一般而有效法则，当我的身体状态不良时，他使我感到痛苦。相反，当他的意志之效力不由某种一般法则决定以产生某种效果时，我说上帝是凭个别意志行动——例如，假设某物体未受另一物体推动、或没有某心灵意志的变化、或没有其他受造物决定某一般法则的效力而开始运动，我说上帝会凭个别意志推动这个物体。（*OCM* V 147–48/*TNG* 195）
+  - id: 125
+    kind: body
+    source: |-
+      When my body is injured, I subsequently feel pain. This pain, according to Malebranche, is due to the “general and efficacious law of the union of soul and body” that God has established, and, thus, this injury is the occasional cause of the pain I feel. Occasional causes, as noted earlier, are just those events of a certain type on the occurrence of which God wills to be bring about an instance of distinct, yet commonly conjoined, event type, such that these two types of events are naturally correlated with robust regularity. In fact, on the occasionalist scheme almost every event that occurs in our world will turn out to be both an occasional cause and effect in that it will be part of the vast network of regularities that we observe. That is, any given effect that follows from an occasional cause will, in turn, most likely be the occasional cause for the following, subsequent effect. Thus, even on the occasionalist picture, there are hardly any events that fail to be part of this network of causal regularities, and such regularity is possible because the overwhelming majority of events in the world are guided by God’s general volitions, which are determined by general laws that have been established by God. Note that this last qualification—that the general laws themselves are established by God—marks a critical difference between an occasionalist like Malebranche and an Aristotelian essentialist about creaturely causal powers. For the latter holds that certain effects follow necessarily from the creature’s causal essence, while Malebranche rejects such causal essences and denies any such necessary connection that holds directly between a creaturely cause and effect.[^note-36]
+    step1: |-
+      当我的身体受伤，我随后感到疼痛。按马勒布朗士，这疼痛源于上帝所立“灵魂与身体结合的一般而有效法则”，故这次受伤是我所感疼痛的偶因。如前所述，偶因正是那些某类事件：它们发生时，上帝意欲造成另一类虽不同却常相联结的事件之一例，从而使两类事件以强健规则性自然相关。事实上，按偶因论方案，世间发生的几乎每一事件都会既是偶因又是结果，因为它会是我们所观察到的庞大规则性网络的一部分。也就是说，由偶因引起的任何给定结果，多半又会成为后继结果的偶因。于是，即便在偶因论图景中，也几乎没有事件不属于这一因果规则性网络；这种规则性之所以可能，是因为世间绝大多数事件都由上帝的一般意志引导，而一般意志由上帝所立的一般法则决定。注意最后这一点——一般法则本身由上帝所立——标示出马勒布朗士这样的偶因论者与关于受造因果力的亚里士多德式本质主义者之间的关键差异：后者主张某些结果必然从受造物的因果本质推出，马勒布朗士则拒斥此类因果本质，并否认受造原因与结果之间有任何此类直接必然联系。[^note-36]
+    step2: |-
+      当我的身体受伤，我随后感到疼痛。按马勒布朗士，这疼痛源于上帝所立“灵魂与身体结合的一般而有效法则”，故这次受伤是我所感疼痛的偶因。偶因正是那些某类事件：它们发生时，上帝意欲造成另一类虽不同却常相联结的事件之一例，使两类事件以强健规则性自然相关。按偶因论方案，世间几乎每一事件都既是偶因又是结果，因为它是我们所观察的庞大规则性网络的一部分。由偶因引起的任何结果，多半又会成为后继结果的偶因。于是，即便在偶因论图景中，也几乎没有事件不属于这一因果规则性网络；这种规则性之所以可能，是因为绝大多数事件都由上帝的一般意志引导，而一般意志由上帝所立的一般法则决定。注意最后一点——一般法则本身由上帝所立——标示出马勒布朗士与关于受造因果力的亚里士多德式本质主义者之间的关键差异。后者主张某些结果必然从受造物的因果本质推出；他则拒斥此类因果本质，否认受造原因与结果之间有此类直接必然联系。[^note-36]
+  - id: 126
+    kind: body
+    source: |-
+      What events are exceptions and do not fall under general volitions? These are what the occasionalists typically identify as miraculous events, which, for Malebranche, would be those cases wherein God acts by particular volitions. If an event occurs without its typical preceding occasion and in violation of the general law known to us, then such an event we are able to judge as occurring due to God exercising his particular volition. Returning to Malebranche’s own example, when “a body begins to move without being pushed by another, or without changes in the will of some mind,” here God can be said to move this body by a particular volition. However, even in such instances, it is important to note that we should not think that God is rejecting or overpowering some built-in essences within the creature and conjoining some event inherently foreign to them. In fact, as we have seen, one motivation behind the occasionalist project was to avoid this picture of God having to act against natural tendencies in miraculous cases, a picture that occasionalist charged the Aristotelian essentialists to be committed to. For the occasionalists, the general laws themselves are established by God just as the particular volitions are exercised by God, hence there is no struggle or conflict between divine volition and the results of divine creation in either case. There is no need for God to overpower his creation in cases of miraculous activity. Thus, on this understanding of occasional causes, we can see that any occasion in principle could be the antecedent event in God’s exercise of a particular volition, resulting in a miracle, and any antecedent event in actual miraculous events could have been conjoined to a general volition. Creaturely states are at most occasions in that they are devoid of causal natures or essences.
+    step1: |-
+      哪些事件是例外、不落在一般意志之下？这些正是偶因论者通常认定的神迹事件；对马勒布朗士而言，即上帝凭个别意志行动的情形。若某事件的发生没有其典型的前件偶因，且违反我们所知的一般法则，则我们可判断该事件是上帝施行其个别意志所致。回到马勒布朗士自己的例子：当“某物体未受另一物体推动、或没有某心灵意志的变化而开始运动”，便可说上帝凭个别意志推动这物体。然而，即便在此类情形中，也须注意：不应认为上帝是在拒斥或压倒受造物中某些固有本质，并把某种对其本性而言外来之物与之联结。事实上，如我们所见，偶因论工程的一个动机，正是避免“上帝在神迹情形中不得不逆自然倾向而行”这一图景——偶因论者指控亚里士多德式本质主义者正持此图景。对偶因论者而言，一般法则由上帝所立，正如个别意志由上帝施行；因此无论哪种情形，都不存在神之意志与神创结果之间的斗争或冲突。上帝在神迹活动中无须压倒其创造。于是，按这种对偶因的理解，原则上任何偶因都可能成为上帝施行个别意志、造成神迹的前件事件，而现实神迹中的任何前件事件本也可与一般意志相联结。受造状态至多只是偶因，因为它们缺乏因果本性或本质。
+    step2: |-
+      哪些事件是例外、不落在一般意志之下？这些正是偶因论者通常认定的神迹；对马勒布朗士而言，即上帝凭个别意志行动的情形。若某事件的发生没有其典型前件偶因，且违反我们所知的一般法则，便可判断该事件是上帝施行个别意志所致。回到他的例子：当“某物体未受另一物体推动、或没有某心灵意志的变化而开始运动”，便可说上帝凭个别意志推动它。然而即便在此，也不应认为上帝在拒斥或压倒受造物中的固有本质、把某种外来之物与之联结。如已见，偶因论工程的一个动机，正是避免“上帝在神迹中不得不逆自然倾向而行”这一图景——偶因论者指控亚里士多德式本质主义者正持此图景。对偶因论者而言，一般法则由上帝所立，正如个别意志由上帝施行；故无论哪种情形，都不存在神之意志与神创结果之间的斗争。上帝在神迹活动中无须压倒其创造。于是，按这种理解，原则上任何偶因都可能成为上帝施行个别意志、造成神迹的前件事件；而现实神迹中的任何前件事件本也可与一般意志相联结。受造状态至多只是偶因，因为它们缺乏因果本性或本质。
+  - id: 127
+    kind: body
+    source: |-
+      Given this understanding of occasional causation, occasionalism, as we noted in the beginning, can be understood as a metaphysics of causation that promotes a more discriminating attitude toward what are typically taken to be causal interactions operative in this world. The occasionalist resists a blanket, univocal understanding of these apparent causal interactions, and argues that we distinguish two types of relations in the world, that of genuine causation and that of occasional causation, wherein the latter relations are ultimately and fundamentally grounded in the former.
+    step1: |-
+      按这种对偶因因果的理解，如我们在开头所指出的，偶因论可理解为一种因果性的形而上学：它促使我们对通常视为世间实际起作用的因果交互采取更具分辨力的态度。偶因论者拒绝笼统而单义地理解这些表面上的因果交互，主张我们区分世间两类关系——真正因果关系与偶因因果关系——后者最终而根本地奠基于前者。
+    step2: |-
+      按这种理解，如开头所指出的，偶因论可理解为一种因果性的形而上学：它促使我们对通常视为世间实际起作用的因果交互采取更具分辨力的态度。偶因论者拒绝笼统而单义地理解这些表面交互，主张区分两类关系——真正因果关系与偶因因果关系——后者最终而根本地奠基于前者。
+  - id: 128
+    kind: oir
+    source: |-
+      [Please contact the author with suggestions.]
+    step1: |-
+      ［请联系作者提供建议。］
+    step2: |-
+      ［请联系作者提供建议。］
+  - id: 129
+    kind: note
+    source: |-
+      [^note-1]: Note that some argue that al-Ghazālī was actually not an occasionalist. See Dutton note 1.
+    step1: |-
+      [^note-1]: 注意，有人主张安萨里其实并非偶因论者，见 Dutton 注 1。
+    step2: |-
+      [^note-1]: 注意，有人主张安萨里其实并非偶因论者，见 Dutton 注 1。
+  - id: 130
+    kind: note
+    source: |-
+      [^note-2]: This description is actually a summary that Ibn Rushd (Averroes) presents in his *TT* 316. The corresponding passage in al-Ghazali’s *Incoherence* appears to be *TF* 170.
+    step1: |-
+      [^note-2]: 这一描述实际上是伊本·路世德（阿威罗伊）在 *TT* 316 中所作的概述；安萨里《矛盾》中的对应段落似为 *TF* 170。
+    step2: |-
+      [^note-2]: 这一描述实为伊本·路世德（阿威罗伊）在 *TT* 316 中的概述；安萨里《矛盾》中的对应段落似为 *TF* 170。
+  - id: 131
+    kind: note
+    source: |-
+      [^note-3]: Gabriel Biel (c. 1425–1495), one of the last of the great Scholastics, has also at times been identified as an occasionalist. For instance, see Freddoso 1998, 81–83. Freddoso cites a very interesting summary of Biel’s view on causation from Molina’s *Concordia* 159–60 (“De Concursu Dei generali,” Q. 14., A. 13, disp. 25). Here is the passage in question:
+
+      > He is of the opinion that secondary causes bring about nothing at all, but that God by Himself alone produces all the effects in them and in their presence, so that fire does not produce heat and the sun does not give light, but instead it is God who produces these effects in them and in their presence. Hence … he claims that secondary causes are not *properly* causes in the sense of having an influence on the effect; for it is only the First Cause which he affirms to be a cause in this sense, whereas secondary causes, he claims, should be called causes *sine qua non*, insofar as God has decided not to produce the effect except when they are present. … He also asserts with Peter D’Ailly that when God produces an effect in conjunction with fire, He contributes no less than He would contribute were He to produce the same effect by Himself—in fact, He brings about more, since not only does He produce the heat with a concurrence just as great as if the fire were not present, but He also brings it about that the fire too is in its own way a cause of the heat (The translation is Freddoso’s).
+
+      Though the beginning of the paragraph strongly suggests that Biel was indeed an occasionalist, it is curious that in the latter half of the paragraph he is identified with Peter D’Ailly as asserting that “fire too is in its own way a cause of the heat.” That Biel held with D’Ailly that “God brings it about that fire too is in its own way a cause of the heat” suggests that Biel held that certain natural effects are causally overdetermined by God and the creature. If so, this raises questions about how consistently Biel was committed to occasionalism.
+    step1: |-
+      [^note-3]: 加布里埃尔·比尔（约 1425–1495），晚期经院哲学者之一，有时也被认定为偶因论者。例如见 Freddoso 1998, 81–83。Freddoso 引用了 Molina《Concordia》159–60（“De Concursu Dei generali”，Q. 14, A. 13, disp. 25）中对比尔因果观的很有意思的概述，相关段落如下：
+
+      > 他主张次级原因什么也不造成，而是上帝独自在受造物之内、在其在场时造成一切效果：火不产生热，太阳不给光，而是上帝在其之内、在其在场时造成这些效果。因此……他主张，就“对结果产生影响”这一严格意义而言，次级原因并非原因；只有第一因才如此，次级原因应被称为*缺之不然*的原因（*sine qua non*），因为上帝已决定除非其在场才产生效果。……他还随皮埃尔·达伊主张：当上帝与火共同产生某效果时，其贡献不少于他独自产生同一效果——事实上更多：他不仅以火不在场时同样的并作产生热，还使火也以自己的方式成为热的原因（译文出自 Freddoso）。
+
+      段落开头强烈提示比尔确是偶因论者；但奇怪的是，段落后半竟把他与达伊并论，说他主张“火也以自己的方式成为热的原因”。若比尔随达伊认为“上帝使火也成为热的原因”，则他似乎认为某些自然结果由上帝与受造物因果地过度决定。若如此，其偶因论承诺的一致性便有问题。
+    step2: |-
+      [^note-3]: 加布里埃尔·比尔（约 1425–1495），晚期经院哲学者之一，有时也被认定为偶因论者。例如见 Freddoso 1998, 81–83。Freddoso 引 Molina《Concordia》159–60（“De Concursu Dei generali”，Q. 14, A. 13, disp. 25）对比尔因果观的概述，相关段落如下：
+
+      > 他主张次级原因什么也不造成，而是上帝独自在受造物之内、在其在场时造成一切效果：火不产生热，太阳不给光，而是上帝在其之内、在其在场时造成这些效果。因此……他主张，就“对结果产生影响”这一严格意义而言，次级原因并非原因；只有第一因才如此，次级原因应称*缺之不然*的原因（*sine qua non*），因为上帝已决定除非其在场才产生效果。……他还随皮埃尔·达伊主张：当上帝与火共同产生某效果时，其贡献不少于他独自产生同一效果——事实上更多：他不仅以火不在场时同样的并作产生热，还使火也以自己的方式成为热的原因（译文出自 Freddoso）。
+
+      段落开头强烈提示比尔确是偶因论者；但奇怪的是，后半段竟把他与达伊并论，说他主张“火也以自己的方式成为热的原因”。若比尔随达伊如此主张，则他似乎认为某些自然结果由上帝与受造物因果地过度决定；若如此，其偶因论承诺的一致性便有问题。
+  - id: 132
+    kind: note
+    source: |-
+      [^note-4]: For instance, see Garber 1993 and Hatfield 1979.
+    step1: |-
+      [^note-4]: 例如见 Garber 1993 与 Hatfield 1979。
+    step2: |-
+      [^note-4]: 例如见 Garber 1993 与 Hatfield 1979。
+  - id: 133
+    kind: note
+    source: |-
+      [^note-5]: For instance, see Della Rocca 1999 and Schmaltz 2008a.
+    step1: |-
+      [^note-5]: 例如见 Della Rocca 1999 与 Schmaltz 2008a。
+    step2: |-
+      [^note-5]: 例如见 Della Rocca 1999 与 Schmaltz 2008a。
+  - id: 134
+    kind: note
+    source: |-
+      [^note-6]: See the pioneering work of Steven Nadler in this regard as specified in the bibliography.
+    step1: |-
+      [^note-6]: 这方面可参见 Steven Nadler 的开创性工作，见参考文献。
+    step2: |-
+      [^note-6]: 这方面可参见 Steven Nadler 的开创性工作，见参考文献。
+  - id: 135
+    kind: note
+    source: |-
+      [^note-7]: Much work on this topic has been done by Steven Nadler. See Nadler 1993b, 1996, 1998, and 1999.
+    step1: |-
+      [^note-7]: Steven Nadler 在此题目上用力甚多，见 Nadler 1993b, 1996, 1998, and 1999。
+    step2: |-
+      [^note-7]: Steven Nadler 在此题目上用力甚多，见 Nadler 1993b, 1996, 1998, 1999。
+  - id: 136
+    kind: note
+    source: |-
+      [^note-8]: See Lisa Downing 2004.
+    step1: |-
+      [^note-8]: 见 Lisa Downing 2004。
+    step2: |-
+      [^note-8]: 见 Lisa Downing 2004。
+  - id: 137
+    kind: note
+    source: |-
+      [^note-9]: See the entry on Berkeley.
+    step1: |-
+      [^note-9]: 见“贝克莱”词条。
+    step2: |-
+      [^note-9]: 见“贝克莱”词条。
+  - id: 138
+    kind: note
+    source: |-
+      [^note-10]: Also see Pitcher 1981. For a more general discussion on Berkeley’s views on the activity of spirits, see Adams 1973.
+    step1: |-
+      [^note-10]: 另见 Pitcher 1981。关于贝克莱论精神活动的一般讨论，见 Adams 1973。
+    step2: |-
+      [^note-10]: 另见 Pitcher 1981；关于贝克莱论精神活动的一般讨论，见 Adams 1973。
+  - id: 139
+    kind: note
+    source: |-
+      [^note-11]: See Winkler 2011 and Lee 2018a.
+    step1: |-
+      [^note-11]: 见 Winkler 2011 与 Lee 2018a。
+    step2: |-
+      [^note-11]: 见 Winkler 2011 与 Lee 2018a。
+  - id: 140
+    kind: note
+    source: |-
+      [^note-12]: Occasionalists and “pre-established harmonists” do not deny the causal activity that the infinite substance, God, exerts on finite substances. Thus, they affirm inter-substantial causation insofar as the causal agent is God.
+    step1: |-
+      [^note-12]: 偶因论者与“预定和谐论者”并不否认无限实体即上帝施加于有限实体的因果活动。因此，只要因果作用者是上帝，他们就肯定实体间因果。
+    step2: |-
+      [^note-12]: 偶因论者与“预定和谐论者”并不否认无限实体（上帝）施加于有限实体的因果活动：只要因果作用者是上帝，他们就肯定实体间因果。
+  - id: 141
+    kind: note
+    source: |-
+      [^note-13]: Historically speaking, it has not been an easy proposition to come up with a convincing account of how this joint causal activity between God and the creature is supposed to work. On the concurrentist account, God obviously is doing more than merely conserving the being of the creature along with its power. For God is in some sense causally active in bringing about the effect in a direct manner. However, this direct causal activity of God must differ from the way in which God is the sole direct cause of the effect, which is how the occasionalist regards the divine causal activity in question. In what sense God is doing more but not as much as the occasionalist’s account has been the topic of much discussion and disagreement. In fact, Malebranche shrewdly points out in *Elucidation* 15 that the disagreement is so great that “[w]hen people who have no special interest preventing them from agreeing cannot agree, it is a sure sign that they have no clear idea of what they are saying.” (*Search* 658)
+    step1: |-
+      [^note-13]: 历史地看，要为上帝与受造物之间的这种共同因果活动给出令人信服的说明，并非易事。按并作论，上帝显然不只是保存受造物的存在及其力量：他还在某种意义上直接因果地参与造成结果。但这种直接因果活动，必须不同于上帝作为结果唯一直接原因的方式——后者正是偶因论者对所涉神的因果活动的理解。上帝“做得更多，却不如偶因论所说的那样多”，究竟在什么意义上，一直是争论不休的话题。事实上，马勒布朗士在《阐解》15 中机敏地指出，分歧如此之大，“［当］没有特殊利益妨碍他们达成一致的人无法达成一致时，这确凿表明他们对自己所说之物没有清楚的观念”（*Search* 658）。
+    step2: |-
+      [^note-13]: 历史地看，为上帝与受造物之间的共同因果活动给出令人信服的说明，并非易事。按并作论，上帝显然不只是保存受造物的存在及其力量：他还在某种意义上直接参与造成结果。但这种直接活动必须不同于上帝作为唯一直接原因的方式——后者正是偶因论者对神的因果活动的理解。上帝“做得更多，却不如偶因论所说的那样多”究竟何意，一直争论不休。马勒布朗士在《阐解》15 中机敏指出，分歧如此之大，“［当］没有特殊利益妨碍他们达成一致的人无法达成一致时，这确凿表明他们对自己所说之物没有清楚的观念”（*Search* 658）。
+  - id: 142
+    kind: note
+    source: |-
+      [^note-14]: If we employ the scheme introduced earlier—that is, “local”and “global” arguments for occasionalism—then the “passive nature” (PN) and “no knowledge” (NK) arguments fall into the first category, and the “no necessary connection” (NNC) and the “conservation is but continuous creation” (CCC) arguments fall into the latter category.
+    step1: |-
+      [^note-14]: 若采用前文引入的框架——偶因论的“局部”论证与“全局”论证——则“被动本性”（PN）与“无知”（NK）论证属前者，“无必然联系”（NNC）与“保存不过是持续创造”（CCC）论证属后者。
+    step2: |-
+      [^note-14]: 若采用前文引入的框架——偶因论的“局部”与“全局”论证——则“被动本性”（PN）与“无知”（NK）论证属前者，“无必然联系”（NNC）与“保存不过是持续创造”（CCC）论证属后者。
+  - id: 143
+    kind: note
+    source: |-
+      [^note-15]: Parts of this section have been incorporated from Lee 2007.
+    step1: |-
+      [^note-15]: 本节部分内容采自 Lee 2007。
+    step2: |-
+      [^note-15]: 本节部分内容采自 Lee 2007。
+  - id: 144
+    kind: note
+    source: |-
+      [^note-16]: Therefore, someone who does not share the Cartesian conception of the nature of bodies as being exhausted by extension would not be in a position to endorse the PN argument.
+    step1: |-
+      [^note-16]: 因此，不分享“物体本性由广延穷尽”这一笛卡尔式构想的人，无法认可 PN 论证。
+    step2: |-
+      [^note-16]: 因此，不分享“物体本性由广延穷尽”这一笛卡尔式构想的人，无法认可 PN 论证。
+  - id: 145
+    kind: note
+    source: |-
+      [^note-17]: Descartes, *Principles of Philosophy* II §4, AT VIII 42.
+    step1: |-
+      [^note-17]: 笛卡尔，《哲学原理》II §4, AT VIII 42。
+    step2: |-
+      [^note-17]: 笛卡尔，《哲学原理》II §4, AT VIII 42。
+  - id: 146
+    kind: note
+    source: |-
+      [^note-18]: In the same section, Malebranche describes the asymmetry between rest and motion in the following manner: “The will of the Author of nature, which creates the power and force that each body has for continuing in the state it is in, concerns only motion and not rest, since bodies have no power whatsoever in themselves” (*OCM* II 432/*Search* 517). Note that this seems to be in tension with what Descartes says in the *Principles* II, §§24–37 (AT VIII, 53–62).
+    step1: |-
+      [^note-18]: 在同一节中，马勒布朗士这样描述静止与运动之间的不对称：“自然之作者的意志，创造每个物体维持其所处状态的力量，只关乎运动而不关乎静止，因为物体自身没有任何力量”（*OCM* II 432/*Search* 517）。注意，这似与笛卡尔在《原理》II §§24–37（AT VIII, 53–62）所说相抵牾。
+    step2: |-
+      [^note-18]: 同一节中，马勒布朗士如此描述静止与运动的不对称：“自然之作者的意志，创造每个物体维持其所处状态的力量，只关乎运动而不关乎静止，因为物体自身没有任何力量”（*OCM* II 432/*Search* 517）。注意，这似与笛卡尔《原理》II §§24–37（AT VIII, 53–62）所说相抵牾。
+  - id: 147
+    kind: note
+    source: |-
+      [^note-19]: We follow Jolley (“Introduction” to the *Dialogues*) and Nadler 1999 in referring to this argument as the “no knowledge” argument.
+    step1: |-
+      [^note-19]: 我们循 Jolley（《对话录》“导言”）与 Nadler 1999，把该论证称为“无知”论证。
+    step2: |-
+      [^note-19]: 循 Jolley（《对话录》“导言”）与 Nadler 1999，此论证称“无知”论证。
+  - id: 148
+    kind: note
+    source: |-
+      [^note-20]: We follow Nadler 1996 in referring to the argument in this way. Much of the content of this portion of the entry is based on discussion in Lee 2008.
+    step1: |-
+      [^note-20]: 我们循 Nadler 1996 如此称谓该论证。本词条此部分内容多依据 Lee 2008 的讨论。
+    step2: |-
+      [^note-20]: 按 Nadler 1996 如此称谓。本词条此部分内容多依据 Lee 2008 的讨论。
+  - id: 149
+    kind: note
+    source: |-
+      [^note-21]: For instance, the cotton fibers could, in a miraculous manner, be momentarily turned into steel as it comes into contact with the fire.
+    step1: |-
+      [^note-21]: 例如，棉纤维可在接触火时以神迹方式瞬间变成钢。
+    step2: |-
+      [^note-21]: 例如，棉纤维可在接触火时以神迹方式瞬间变成钢。
+  - id: 150
+    kind: note
+    source: |-
+      [^note-22]: Are the necessary connections being discussed here logically necessary connections? Malebranche does not deny that the essences of creatures logically entail certain constraints for divine causal activity. For instance, in the *Dialogues*, Malebranche notes that the nature of bodies—their impenetrability—obliges God, with “a kind of necessity,” to move bodies when they collide. But he also states that “it is clear that impenetrability has no efficacy of its own and that it can merely provide God, who treats things according to their nature, with an occasion to diversify His action” (*Dialogues* VII, §XII, p.118–9). So, while certain events might logically necessitate some sort of divine action and, hence, be an occasion for God to act, they are not themselves causally efficacious, according to Malebranche. So I take the necessitation in this passage from the *Search* to be causal in nature, and not simply logical. The interesting and complex issue of how Malebranche understands the relation between causal necessitation and logical necessitation requires further discussion and cannot be done full justice here. Of particular importance is how to understand the connection that obtains between divine volitions and their effects. It is at least a logically necessary connection, since it is a logically necessary truth for Malebranche that if God wills p, p obtains (insofar as p itself is not inconsistent). But there has to be more going on, since, as we have just seen above, the nature of bodies also obliges with this type of necessity—that is, logical necessity—but such obliging falls short of genuine causation, a shortcoming that does not apply to divine volitions. For an interesting discussion about the relation of the NK argument to the NNC argument, in addition to issues concerning the nature of necessity involved, see Ott, 2013.
+    step1: |-
+      [^note-22]: 此处讨论的必然联系是逻辑必然联系吗？马勒布朗士并不否认受造物本质在逻辑上蕴含对神之因果活动的某些约束。例如在《对话录》中，他指出物体的本性——其不可入性——以“某种必然性”迫使上帝在物体碰撞时推动它们；但他也说，“显然不可入性自身并无效力，它只能为按其本性对待事物的上帝提供偶因，以变化其作用”（*Dialogues* VII, §XII, p.118–9）。故按马勒布朗士，某些事件虽可能在逻辑上要求某种神之作用、因而是上帝行动的偶因，它们本身并无因果效力。因此我把他这段《寻求》中的必然化理解为因果性的，而非单纯逻辑的。马勒布朗士如何理解因果必然化与逻辑必然化的关系，这一有趣而复杂的问题尚需讨论，此处无法尽述。尤其重要的是如何理解神之意志与其效果之间的联系：它至少是逻辑必然联系，因为对马勒布朗士而言，“若上帝意欲 p，则 p 成立”（就 p 本身不矛盾而言）是逻辑必然真理。但其中必有更多内容：如我们刚才所见，物体本性也以这类必然性（即逻辑必然性）施压，但这种施压达不到真正因果，而这一不足不适用于神之意志。关于 NK 论证与 NNC 论证之关系及所涉必然性本性的有趣讨论，见 Ott 2013。
+    step2: |-
+      [^note-22]: 此处讨论的必然联系是逻辑必然联系吗？马勒布朗士并不否认受造物本质在逻辑上蕴含对神之因果活动的某些约束。例如《对话录》中，他指出物体本性——其不可入性——以“某种必然性”迫使上帝在物体碰撞时推动它们；但他也说，“显然不可入性自身并无效力，它只能为按其本性对待事物的上帝提供偶因，以变化其作用”（*Dialogues* VII, §XII, p.118–9）。故按他，某些事件虽可能在逻辑上要求某种神之作用、因而是上帝行动的偶因，本身却无因果效力。因此我把这段《寻求》中的必然化理解为因果性的，而非单纯逻辑的。他如何理解因果必然化与逻辑必然化的关系，尚需讨论，此处无法尽述。尤其重要的是如何理解神之意志与其效果之间的联系：它至少是逻辑必然联系，因为对他而言，“若上帝意欲 p，则 p 成立”（就 p 本身不矛盾而言）是逻辑必然真理；但其中必有更多内容——如刚才所见，物体本性也以这类必然性施压，但这种施压达不到真正因果，而这一不足不适用于神之意志。关于 NK 与 NNC 论证之关系及所涉必然性，见 Ott 2013。
+  - id: 151
+    kind: note
+    source: |-
+      [^note-23]: I thank Robert Adams for bringing this point to my attention. For more on this weakness of the NNC argument and its relation to the CCC argument in Malebranche, see Lee 2008.
+    step1: |-
+      [^note-23]: 感谢 Robert Adams 提醒我这一点。关于 NNC 论证的这一弱点及其与马勒布朗士 CCC 论证的关系，详见 Lee 2008。
+    step2: |-
+      [^note-23]: 感谢 Robert Adams 提醒此点。关于 NNC 论证的这一弱点及其与 CCC 论证的关系，详见 Lee 2008。
+  - id: 152
+    kind: note
+    source: |-
+      [^note-24]: Mere conservationists such as Durandus are the exception.
+    step1: |-
+      [^note-24]: 杜兰都斯等单纯保存论者是例外。
+    step2: |-
+      [^note-24]: 杜兰都斯等单纯保存论者是例外。
+  - id: 153
+    kind: note
+    source: |-
+      [^note-25]: For an excellent discussion of this and related issues, see Freddoso 1988 and Freddoso 1991.
+    step1: |-
+      [^note-25]: 关于此及相关问题的一流讨论，见 Freddoso 1988 与 Freddoso 1991。
+    step2: |-
+      [^note-25]: 关于此及相关问题的一流讨论，见 Freddoso 1988 与 1991。
+  - id: 154
+    kind: note
+    source: |-
+      [^note-26]: Also see *Principles*, Part 1. art. 62.
+    step1: |-
+      [^note-26]: 另见《原理》第 1 部分第 62 条。
+    step2: |-
+      [^note-26]: 另见《原理》第 1 部分第 62 条。
+  - id: 155
+    kind: note
+    source: |-
+      [^note-27]: For this line of argument, see Lee 2018b, 74–82.
+    step1: |-
+      [^note-27]: 关于这一论证路线，见 Lee 2018b, 74–82。
+    step2: |-
+      [^note-27]: 关于这一论证路线，见 Lee 2018b, 74–82。
+  - id: 156
+    kind: note
+    source: |-
+      [^note-28]: La Forge, *Traité de l’esprit de l’homme* in *Oeuvres philosophiques*, ed. Pierre Clair (Paris: Presses Universitaires de France, 1974; hereafter, *Traité*), 241. The translation is Nadler’s and is quoted from Nadler 1998, 218–9. This passage also suggests that La Forge might have had the continuous recreation view in mind as well.
+    step1: |-
+      [^note-28]: 拉福奇，《论人的心灵》，收入《哲学著作集》，Pierre Clair 编（Paris: Presses Universitaires de France, 1974；下称 *Traité*），241。译文出自 Nadler，转引自 Nadler 1998, 218–9。这段文字也提示拉福奇或许也想到了持续重新创造的观点。
+    step2: |-
+      [^note-28]: 拉福奇，《论人的心灵》，收入《哲学著作集》，Pierre Clair 编（Paris: Presses Universitaires de France, 1974；下称 *Traité*），241。译文出自 Nadler，转引自 Nadler 1998, 218–9。这段文字也提示拉福奇或许也想到持续重新创造的观点。
+  - id: 157
+    kind: note
+    source: |-
+      [^note-29]: The concurrentist might think that even in the case of the initial creation of the world *ex nihilo*, while the being or *esse* of the creature are brought about *ex nihilo* by God, the modes the creature possesses at creation are the result of the concurrent activity of the creature and God. Leibniz, interestingly enough, actually seems to be suggesting something close to such a view in his *Theodicy* section 388.
+    step1: |-
+      [^note-29]: 并作论者或认为：即便在世界最初的*无中生有*创造中，受造物的存在或*esse* 虽由上帝*无中生有*地造成，受造物在创造时所具有的样态，仍是受造物与上帝并作活动的结果。有趣的是，莱布尼茨在《神义论》第 388 节中似乎正提示接近此说的观点。
+    step2: |-
+      [^note-29]: 并作论者或认为：即便在世界最初的*无中生有*创造中，受造物的存在或*esse* 虽由上帝*无中生有*地造成，它在创造时所具有的样态仍是受造物与上帝并作的结果。有趣的是，莱布尼茨《神义论》第 388 节似乎正提示接近此说的观点。
+  - id: 158
+    kind: note
+    source: |-
+      [^note-30]: See Garber 1993, 14–5 and Winkler 2011, 298–302. Note also that this view differs from the aforementioned position of al-Ash’ari, who seems to be arguing that only the modes of a given creature are continuously recreated, while the *esse* of the creature is somehow maintained or sustained. This hybrid view would have an advantage in addressing worries about transtemporal identity, since the sustained being of the creature could be invoked to provide the basis for the numerical identity of the creature through change.
+    step1: |-
+      [^note-30]: 见 Garber 1993, 14–5 与 Winkler 2011, 298–302。还须注意，此说不同于前述艾什尔里的立场：他似乎主张只有某受造物的样态被持续重新创造，而该受造物的*esse* 以某种方式得到维持。这种混合说在回应跨时间同一性顾虑上或有优势，因为受造物被维持的存在可用来为受造物在变化中的数目同一提供基础。
+    step2: |-
+      [^note-30]: 见 Garber 1993, 14–5 与 Winkler 2011, 298–302。还须注意，此说不同于前述艾什尔里的立场：他似乎主张只有受造物的样态被持续重新创造，而该受造物的*esse* 以某种方式得到维持。这种混合说在回应跨时间同一性顾虑上或有优势：受造物被维持的存在可为它在变化中的数目同一提供基础。
+  - id: 159
+    kind: note
+    source: |-
+      [^note-31]: Winkler goes on to note that this reading of continuous creation, that is, continuous creation as continuous *recreation* is what gives the continuous creation thesis its hold over him, if at all:
+
+      > I am therefore left thinking that what gives continuous creation its hold over me is the threat it presents to the preexistence of substantial causes. Even if God’s causal role (contrary to both the immanent variant and the first transeunt variant) leaves a place for a collaborating finite being, I have trouble seeing how a finite substance that comes into being at the very same moment as the effect can be a productive cause of it. The substance may help to render the effect intelligible, but if it does so only because God adjusts the world to accommodate it, the real productive work seems to be the privilege of God alone. (Winkler 2011, 300)[^winkler-2011]
+    step1: |-
+      [^note-31]: Winkler 接着指出，正是把持续创造读作持续*重新创造*，才使持续创造论题对他有吸引力——若有的话：
+
+      > 因此我仍认为，持续创造之所以对我有吸引力，在于它对实体原因在先存在构成威胁。即便上帝的作用（无论与内在变体还是与第一种外在变体相反）为协作的有限存在者留出位置，我也难以看出：一个与结果同时刻产生的有限实体，如何能成为它的生产性原因。该实体或有助于使结果可理解；但若它之所以如此，只是因为上帝调整世界以容纳它，那么真正的生产性工作似乎仍是上帝独有的特权。（Winkler 2011, 300）[^winkler-2011]
+    step2: |-
+      [^note-31]: Winkler 接着指出，正是把持续创造读作持续*重新创造*，才使持续创造论题对他有吸引力：
+
+      > 因此我仍认为，持续创造之所以吸引我，在于它对实体原因的在先存在构成威胁。即便上帝的作用为协作的有限存在者留出位置，我也难以看出：一个与结果同时刻产生的有限实体，如何能成为它的生产性原因。该实体或有助于使结果可理解；但若它之所以如此，只因上帝调整世界以容纳它，真正的生产性工作便仍是上帝独有的特权。（Winkler 2011, 300）[^winkler-2011]
+  - id: 160
+    kind: note
+    source: |-
+      [^note-32]: See Lee, S., “Leibniz on What God and Creatures Cause,” *Natur und Subjekt: IX. Internationaler Leibniz-Kongress, Vortraege* 2. Teil, Hannover (2011), 596–8.
+    step1: |-
+      [^note-32]: 见 Lee, S., “Leibniz on What God and Creatures Cause,” *Natur und Subjekt: IX. Internationaler Leibniz-Kongress, Vortraege* 2. Teil, Hannover (2011), 596–8。
+    step2: |-
+      [^note-32]: 见 Lee, S., “Leibniz on What God and Creatures Cause,” *Natur und Subjekt: IX. Internationaler Leibniz-Kongress, Vortraege* 2. Teil, Hannover (2011), 596–8。
+  - id: 161
+    kind: note
+    source: |-
+      [^note-33]: This portion of the entry is from Lee 2008.
+    step1: |-
+      [^note-33]: 本词条此部分出自 Lee 2008。
+    step2: |-
+      [^note-33]: 本词条此部分出自 Lee 2008。
+  - id: 162
+    kind: note
+    source: |-
+      [^note-34]: On the difficult and complex topic of Malebranche on free will, see Elmar Kremer 2000, 190–219 and Schmaltz 1996, 192–234.
+    step1: |-
+      [^note-34]: 关于马勒布朗士论自由意志这一困难而复杂的题目，见 Elmar Kremer 2000, 190–219 与 Schmaltz 1996, 192–234。
+    step2: |-
+      [^note-34]: 关于马勒布朗士论自由意志这一困难题目，见 Elmar Kremer 2000, 190–219 与 Schmaltz 1996, 192–234。
+  - id: 163
+    kind: note
+    source: |-
+      [^note-35]: One word of caution about how “occasional causation” is being used in the literature. Steven Nadler uses the term in a different, distinct sense:
+
+      > what I am calling ‘occasional causation’ does not require any substantial likeness between cause and effect, and does not involve any kind of influx or communication. In the technical sense of the term, then, no real influence occurs between cause and effect. But occasional causation does, however, constitute a real causal relationship and not just accidental, sequential conjunction. Thus, in a somewhat broader (hence, weaker) sense, there is an ‘influence’ of cause upon effect, but not of a transeunt efficient nature.
+      >
+      > In simple terms, a relationship of occasional causation exists when one thing or state of affairs brings about an effect by inducing (but not through efficient causation...) another thing to exercise its own efficient causal power. The relationship of occasional causation unites one thing or state of affairs with an effect wrought (through efficient causation, immanent or transeunt) by another thing. Thus, the term denotes the entire process whereby one thing, A, occasions or elicits another thing, B, to cause e.(Nadler 1994, 39)[^nadler-1994]
+
+      Thus, for Nadler, “occasional causation” consists in a genuine causal relation, wherein the occasional cause “induces” something else to exercise its own causal power to produce a given effect. In contrast, by “occasional causation,” I take the relation between the occasional cause and effect to not be a genuine causal relation. That is, “occasional causation,” as I will be using it, refers to the quasi-causal relationship that holds between an occasional cause and its effect, standardly characterized by robust regularity but not genuine causation.
+    step1: |-
+      [^note-35]: 关于文献中如何使用“偶因因果”，须提醒一句。Steven Nadler 在另一种不同意义上使用该词：
+
+      > 我所谓的“偶因因果”，并不要求原因与结果之间有任何实体上的相似，也不涉及任何流入或传递。按该词的技术意义，原因与结果之间并无真正的影响发生。但偶因因果确实构成真正的因果关系，而不只是偶然的先后连结。因此，在稍宽（因而较弱）的意义上，存在原因对结果的“影响”，但不是外在动力因性质的影响。
+      >
+      > 简言之，当一物或一事态通过引起（但不是通过动力因……）另一物行使自身的动力因果力而造成结果时，就存在偶因因果关系。偶因因果关系把一物或一事态同另一物所造成（通过内在或外在动力因）的结果联结起来。因此，该词指称这样整个过程：一物 A 引发或诱发另一物 B 去造成 e。（Nadler 1994, 39）[^nadler-1994]
+
+      可见对 Nadler 而言，“偶因因果”构成真正的因果关系：偶因“诱发”另一物行使自身因果力以产生某结果。相反，我所谓“偶因因果”，指偶因与结果之间的关系并非真正因果关系。也就是说，我将使用的“偶因因果”，指偶因与其结果之间的准因果关系——通常以强健规则性为特征，却不是真正因果。
+    step2: |-
+      [^note-35]: 关于文献中“偶因因果”的用法，须提醒一句。Steven Nadler 在另一种意义上使用该词：
+
+      > 我所谓的“偶因因果”，不要求原因与结果之间有任何实体相似，也不涉及任何流入或传递。按该词的技术意义，原因与结果之间并无真正影响发生。但偶因因果确实构成真正因果关系，而不只是偶然的先后连结。因此，在稍宽（因而较弱）的意义上，存在原因对结果的“影响”，但不是外在动力因性质的影响。
+      >
+      > 简言之，当一物或一事态通过引起（但不是通过动力因……）另一物行使自身的动力因果力而造成结果时，就存在偶因因果关系。偶因因果关系把一物或一事态同另一物所造成（通过内在或外在动力因）的结果联结起来。因此，该词指称这样整个过程：一物 A 引发或诱发另一物 B 去造成 e。（Nadler 1994, 39）[^nadler-1994]
+
+      可见对 Nadler 而言，“偶因因果”构成真正因果关系：偶因“诱发”另一物行使自身因果力以产生某结果。相反，我所谓“偶因因果”，指偶因与结果之间的关系并非真正因果关系——偶因与其结果之间的准因果关系，通常以强健规则性为特征，却不是真正因果。
+  - id: 164
+    kind: note
+    source: |-
+      [^note-36]: What happens when a body collides with another body? Is it not the case that such an event must necessarily be followed by either the first body rebounding or the second body giving up its initial location? This fascinating question is the core issue between an exchange between Malebranche and Fontenelle. See Schmaltz 2008b for an excellent discussion of related issue. Also relevant is the discussion in footnote 22 of this entry.
+    step1: |-
+      [^note-36]: 当一物体与另一物体碰撞时会发生什么？这样的事件难道不必然继之以第一个物体反弹、或第二个物体让出其初始位置吗？这一引人入胜的问题，是马勒布朗士与丰特奈尔之间往复的核心议题。相关问题的出色讨论见 Schmaltz 2008b；另可参见本词条注 22 的讨论。
+    step2: |-
+      [^note-36]: 当一物体与另一物体碰撞时会发生什么？这样的事件难道不必然继之以第一个物体反弹、或第二个物体让出其初始位置吗？这一引人入胜的问题，是马勒布朗士与丰特奈尔往复的核心议题。相关讨论见 Schmaltz 2008b；另见本词条注 22。
