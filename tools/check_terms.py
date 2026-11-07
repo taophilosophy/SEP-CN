@@ -330,7 +330,10 @@ def is_non_english(term):
 # 编者注而非源语言原文，基准词是英文词，原文列恒「—」：
 #   - competence（医疗与法律语境）：organ-donation 法学与医学语境消歧注
 #   - yielding（虚空）：democritus「虚空让与」概念域注（虚空本体另有键 kenon）
-ORIG_EDITORIAL_PAREN = frozenset({'competence（医疗与法律语境）', 'yielding（虚空）'})
+ORIG_EDITORIAL_PAREN = frozenset({
+    'competence（医疗与法律语境）', 'yielding（虚空）',
+    'anarchy（国际关系）', 'token（令牌环语境）',
+})
 
 
 def orig_missing(rows):
